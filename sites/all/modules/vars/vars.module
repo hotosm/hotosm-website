@@ -1,0 +1,189 @@
+<?php
+
+/**
+ * @file
+ * Implements an API to handle persistent variables.
+ */
+
+/**
+ * Implements hook_boot().
+ *
+ * The hook is intentionally empty, as it is used only to assure the module is
+ * loaded on early bootstrap time.
+ */
+function vars_boot() {
+}
+
+/**
+ * Implements hook_flush_caches().
+ */
+function vars_flush_caches() {
+  return array('cache_vars');
+}
+
+/**
+ * Implements hook_modules_uninstalled().
+ */
+function vars_modules_uninstalled($modules) {
+  global $conf;
+
+  $defaults = db_select('variable_default', 'vd')
+    ->condition('vd.module', $modules, 'IN')
+    ->fields('vd', array('name', 'value', 'flags'))
+    ->execute();
+  $variables = array();
+
+  foreach ($defaults as $default) {
+    $name = $default->name;
+
+    if ($default->flags & self::VARS_DYNAMIC) {
+      $name_like = db_like($name . '_') . '%';
+      $vars = db_select('variable', 'v')
+        ->condition(db_or()
+          ->condition('v.name', $name_like, 'LIKE')
+          ->condition('v.name', $name)
+        )
+        ->fields('v', array('name'))
+        ->execute();
+
+      foreach ($vars as $var) {
+        unset($conf[$var->name]);
+        $variables[] = $var->name;
+      }
+    }
+    else {
+      $variables[] = $name;
+      unset($conf[$name]);
+    }
+  }
+
+  if (!empty($variables)) {
+    db_delete('variable')
+      ->condition('name', $variables, 'IN')
+      ->execute();
+    db_delete('variable_default')
+      ->condition('module', $modules, 'IN')
+      ->execute();
+
+    foreach ($modules as $module) {
+      cache_clear_all('module:' . $module, 'cache_vars');
+    }
+
+    cache_clear_all('variables', 'cache_bootstrap');
+    Vars::staticReset('vars_default_values');
+  }
+}
+
+/**
+ * Implements hook_node_type_delete().
+ */
+function vars_node_type_delete($info) {
+  global $conf;
+
+  $names = array();
+  $variables = Vars::loadDefaults('node_type');
+
+  if (array_key_exists('dynamic', $variables)) {
+    foreach (array_keys($variables['dynamic']) as $var) {
+      $names[] = $var->name . '_' . $info->type;
+      unset($conf[$var->name . '_' . $info->type]);
+    }
+  }
+
+  if (!empty($names)) {
+    db_delete('variable')
+      ->condition('name', $names, 'IN')
+      ->execute();
+
+    cache_clear_all('variables', 'cache_bootstrap');
+  }
+}
+
+function _var_check_locale_directory($dir, array $files) {
+  if (empty($dir)) {
+    $directory = '/';
+    $separator = '';
+  }
+  else {
+    $path = explode('/', $dir);
+
+    if (empty($path[0])) {
+      $directory = '/';
+    }
+    else {
+      $directory = DRUPAL_ROOT . '/';
+    }
+
+    $path = preg_grep('/^\.{0,2}$/', $path, PREG_GREP_INVERT);
+
+    if (!empty($path)) {
+      $directory .= implode('/', $path);
+      $separator = '/';
+    }
+    else {
+      $separator = '';
+    }
+  }
+
+  if (file_exists($directory) && is_dir($directory)) {
+    foreach ($files as $file) {
+      $filename = implode('/', preg_grep('/^\.{0,2}$/', explode('/', $file), PREG_GREP_INVERT));
+      if (!file_exists("$directory$separator$filename")) {
+        return FALSE;
+      }
+    }
+  }
+  else {
+    return FALSE;
+  }
+
+  return TRUE;
+}
+
+function _vars_check_remote_directory($dir, array $files) {
+  $codes = array(200, 301, 302, 307);
+
+  if (empty($dir) && !valid_url($dir, TRUE)) {
+    return FALSE;
+  }
+
+  $info = @parse_url($dir);
+  if (!empty($info)) {
+    if (empty($info['scheme']) || !preg_match('/https?/i', $info['scheme'])) {
+      return FALSE;
+    }
+
+    $url = $info['scheme'] . '://';
+    if (!empty($info['user'])) {
+      $url .= $info['user'];
+    }
+    if (!empty($info['pass'])) {
+      $url .= ':' . $info['pass'];
+    }
+    if (!empty($info['user'])) {
+      $url .= '@';
+    }
+    $url .= $info['host'];
+    if (!empty($info['port'])) {
+      $url .= ':' . $info['port'];
+    }
+    $url .= '/';
+    if (!empty($info['path'])) {
+      $path = implode('/', preg_grep('/^\.{0,2}$/', explode('/', $info['path']), PREG_GREP_INVERT));
+      if (!empty($path)) {
+        $url .= $path . '/';
+      }
+    }
+
+    foreach ($files as $file) {
+      $filename = implode('/', preg_grep('/^\.{0,2}$/', explode('/', $file), PREG_GREP_INVERT));
+      $result = drupal_http_request($url . $filename);
+      if (!in_array($result->code, $codes) && empty($result->data)) {
+        return FALSE;
+      }
+    }
+  }
+  else {
+    return FALSE;
+  }
+}

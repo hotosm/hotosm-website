@@ -1,0 +1,331 @@
+<?php
+/**
+ * @file
+ * Main Drupal module file for the OpenLayers UI module
+ *
+ * @ingroup openlayers
+ */
+
+/**
+ * Implements hook_init().
+ */
+function openlayers_ui_init() {
+  // For backwards compability for the change from maps to presets
+  // in the 7.x-2.x version, we want to make it really obvious that
+  // administrators and developers should be updating their maps
+  //
+  // There are also other requirement checks like the compatible
+  // suggestlibrary version.
+  if (strpos($_GET['q'], 'admin/structure/openlayers') === 0) {
+    include_once DRUPAL_ROOT . '/includes/install.inc';
+    drupal_load_updates();
+    module_load_include('install', 'openlayers', 'openlayers');
+    $reqs = openlayers_requirements('runtime');
+    foreach ($reqs as $r) {
+      if ($r['severity'] != REQUIREMENT_OK) {
+        $severity = $r['severity'] == REQUIREMENT_WARNING ? 'warning' : 'error';
+        drupal_set_message(t('<strong>!title</strong> !message', array(
+          '!title' => $r['value'],
+          '!message' => isset($r['description']) ? $r['description'] : '',
+          )), $severity);
+      }
+    }
+
+    // We also want to do some nice AJAX magic to get the library
+    // version to the system.
+    $check = variable_get('openlayers_ui_version_check', '');
+    if (empty($check)) {
+      // Load AJAX libraries
+      drupal_add_library('system', 'drupal.ajax');
+      drupal_add_library('system', 'jquery.form');
+      // Ensure that the library is included
+      openlayers_include();
+      // Add custom client JS
+      drupal_add_js(drupal_get_path('module', 'openlayers_ui') . '/js/openlayers_ui.admin.js');
+      // We shouldn't, but we are just gonna put a message up there
+      // to get replaced.
+      drupal_set_message('<div class="openlayers-ui-version-check-message">' .
+        t('Checking client library via Javascript...') . '</div>', 'none');
+    }
+  }
+}
+
+/**
+ * Implements hook_help
+ */
+function openlayers_ui_help($path, $arg) {
+  switch ($path) {
+    case 'admin/help#openlayers_ui':
+      return '<p>'. t('Provides a user interface to manage OpenLayers maps.') .'</p>';
+    case 'admin/structure/openlayers':
+      return '<p>'. t('Configure where Drupal finds
+        the OpenLayers javascript library. Using a local or <a href="@olb">compacted
+        version</a> of OpenLayers can reduce filesize, but remember to set the Image Path and
+        CSS Path options in every map, because OpenLayers is not able to find these resources
+        automatically. See the included documentation in /doc for
+        more details.',
+        array('@olb' => 'http://trac.openlayers.org/wiki/Profiles')) .'</p>';
+    case 'admin/structure/openlayers/styles':
+      return '<p>'. t('OpenLayer styles are stored versions of
+        <a href="@ols">javascript StyleMap objects</a>, but are much easier to
+        configure through an interface. Styles will typically define the icon,
+        fill color, border, and radius of points or polygons, so they are used
+        on overlays more often than base layers, which are not affected by vector
+        styles.', array("@ols" => 'http://trac.openlayers.org/wiki/Styles')) .'</p>';
+    case 'admin/structure/openlayers/styles/add':
+      return '<p>'. t('The name, title, and description you give a style is for Drupal\'s
+        interal storage. The rest of the properties are documented on openlayers.org')
+        . '</p>';
+    case 'admin/structure/openlayers/maps':
+      return '<p>'. t('Maps are combinations of the layers, styles, and behaviors
+        which constitute maps. They also contain basic configuration like the
+        width and centerpoint of the map - everything except for a mechanism
+        to put a map on a page. For that, use the Views OpenLayers Map style.') .'</p>';
+    case 'admin/structure/openlayers/layers':
+      return '<p>'. t('Layers are stored versions of javascript OpenLayers layer
+        objects. They point at a data source, like OpenStreetMap, Google Maps,
+        or Drupal itself, and sometimes define the zoom levels for which they apply.') .'</p>';
+    case 'admin/structure/openlayers/layers/settings':
+      return '<p>'. t('Commercial layer providers like Google will require API keys
+        to ensure that users are\'t abusing the service and to enforce limits. Not all
+        of these keys are required, of course, only those that are used on a site.') .'</p>';
+
+  }
+}
+
+/**
+ * Implements hook_permission().
+ */
+function openlayers_ui_permission() {
+  return array(
+    'administer openlayers' => array(
+      'title' => t('Administer OpenLayers'),
+      'description' => t('Configure OpenLayers settings, styles, maps, and layers.'),
+    ),
+  );
+}
+
+/**
+ * Implements hook_menu
+ */
+function openlayers_ui_menu() {
+  $items = array();
+
+  // Core OpenLayers settings pages.
+  $items['admin/structure/openlayers'] = array(
+    'title' => 'OpenLayers',
+    'description' => 'Manage maps, layers, styles, and map behaviors.',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('openlayers_ui_admin_settings'),
+    'access arguments' => array('administer openlayers'),
+    'file' => 'includes/openlayers_ui.admin.inc',
+    'type' => MENU_NORMAL_ITEM
+  );
+  $items['admin/structure/openlayers/settings'] = array(
+    'title' => 'Settings',
+    'type' => MENU_DEFAULT_LOCAL_TASK,
+    'weight' => -20,
+  );
+
+  // Layer-type-wide settings form
+  $items['admin/structure/openlayers/layers/settings'] = array(
+    'title' => 'API Keys',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('openlayers_ui_layers_settings'),
+    'access arguments' => array('administer openlayers'),
+    'file' => 'includes/openlayers_ui.layers.inc',
+    'type' => MENU_LOCAL_TASK,
+    'weight' => -10,
+  );
+
+  $items['admin/structure/openlayers/callbacks/version_check/%'] = array(
+    'title' => 'OpenLayers Version Check',
+    'page callback' => 'openlayers_ui_version_check',
+    'page arguments' => array(5),
+    'access arguments' => array('administer openlayers'),
+    'file' => 'includes/openlayers_ui.admin.inc',
+    'type' => MENU_CALLBACK,
+  );
+
+  return $items;
+}
+
+/**
+ * Implements hook_theme().
+ */
+function openlayers_ui_theme($existing, $type, $theme, $path) {
+  return array(
+    'openlayers_ui_form_layer_description' => array(
+      'variables' => array(
+        'layer_title' => '',
+        'layer_description' => '',
+      ),
+      'file' => 'includes/openlayers_ui.theme.inc',
+    ),
+    'openlayers_ui_form_projection_description' => array(
+      'variables' => array(
+        'projection_title' => '',
+        'available_layers' => array(),
+        'layers' => array(),
+      ),
+      'file' => 'includes/openlayers_ui.theme.inc',
+    ),
+    'openlayers_ui_maps_form' => array(
+      'render element' => 'elements',
+      'file' => 'includes/openlayers_ui.theme.inc',
+    ),
+    'openlayers_ui_maps_form_layers' => array(
+      'render element' => 'elements',
+      'file' => 'includes/openlayers_ui.theme.inc',
+    ),
+    'openlayers_ui_maps_form_behaviors' => array(
+      'render element' => 'elements',
+      'file' => 'includes/openlayers_ui.theme.inc',
+    ),
+    'openlayers_ui_styles_preview' => array(
+      'arguments' => array(
+        'style' => NULL,
+      ),
+      'template' => 'openlayers-ui-styles-preview',
+      'path' => drupal_get_path('module', 'openlayers_ui') .  '/themes',
+    ),
+  );
+}
+
+/**
+ * Get projection options.
+ *
+ * @return
+ *   Array of projection options suitable for use in a FormAPI element.
+ */
+function openlayers_ui_get_projection_options() {
+  $options = array();
+  foreach (openlayers_layers_load() as $key => $layer) {
+    if ($layer->data['projection']) {
+      foreach ($layer->data['projection'] as $projection) {
+        $options[$projection] = $projection;
+      }
+    }
+  }
+  return $options;
+}
+
+/**
+ * Get layer options.
+ */
+function openlayers_ui_get_layer_options($type = 'baselayer',
+  $projection = NULL) {
+  $options = array();
+  $layers = array();
+
+  // Get layers in an array
+  foreach (openlayers_layers_load() as $l) {
+    $layers[$l->name] = openlayers_get_layer_object($l);
+  }
+
+  // Go through layers to theme output.
+  foreach ($layers as $key => $layer) {
+    // not filtering by projection
+    // this layer has an appropriate projection
+    // this layer can be reprojected because it is vector
+    if (
+      !isset($projection) ||
+      in_array($projection, $layer->data['projection']) ||
+      !empty($layer->data['vector'])
+    ) {
+      if ($type == 'baselayer' && $layer->data['baselayer']) {
+        $options[$key] = theme('openlayers_ui_form_layer_description',
+          array(
+            'layer_title' => $layer->title,
+            'layer_description' => $layer->description,
+            'layer_link' => $layer->export_type & EXPORT_IN_DATABASE ?
+              "admin/structure/openlayers/layers/list/{$layer->name}/edit" : NULL
+            ));
+      }
+      elseif ($type != 'baselayer' &&
+        empty($layer->data['baselayer'])) {
+        $options[$key] = theme('openlayers_ui_form_layer_description',
+          array(
+            'layer_title' => $layer->title,
+            'layer_description' => $layer->description,
+            'layer_link' => $layer->export_type & EXPORT_IN_DATABASE ?
+              "admin/structure/openlayers/layers/list/{$layer->name}/edit" : NULL
+            ));
+      }
+    }
+  }
+  return $options;
+}
+
+/**
+ * Get style options.
+ *
+ * @return
+ *   Array of style options suitable for use in a FormAPI element.
+ */
+function openlayers_ui_get_style_options() {
+  $options = array();
+  foreach (openlayers_styles() as $key => $style) {
+    $options[$key] = $style->title;
+  }
+  return $options;
+}
+
+/**
+ * dependencies widget helper
+ * @param $dependencies
+ *  Array of Javascript dependencies as strings of function names
+ * @return $form
+ *  Form element of dependencies if any
+ */
+function openlayers_dependency_widget($dependencies) {
+  if (is_array($dependencies) > 0) {
+    $dependency_form = array();
+    foreach ($dependencies as $dependency) {
+      $dependency_form[] = array(
+        '#markup' => "<div class='openlayers-dependency-flag'>"
+            . "<span class='openlayers-dependency-value'>$dependency</span>"
+            . "<span class='openlayers-dependency-broken'>"
+            . t('Dependency not found:') . ' ' . $dependency . "</span>"
+            . "</div>"
+      );
+    }
+    return $dependency_form;
+  }
+}
+
+/**
+ * Create Style Preview
+ *
+ * Create a style preview given style object.
+ */
+function openlayers_ui_style_preview($style, $crosshairs = FALSE) {
+  drupal_add_js(drupal_get_path('module', 'openlayers_ui') . '/js/openlayers_ui.styles.js');
+  drupal_add_css(drupal_get_path('module', 'openlayers_ui') . '/openlayers_ui.css');
+  module_load_include('inc', 'openlayers', 'includes/openlayers.render');
+  openlayers_include();
+
+  // Render style data
+  $style->data = openlayers_render_style($style->data);
+
+  // Let's make a tiny map for a preview
+  drupal_add_js(array('openlayers_ui' =>
+    array(
+      'style_preview' => array(
+        $style->name => $style,
+        $style->name . '_crosshairs' => $crosshairs,
+      ),
+    ),
+  ), 'setting');
+
+  return theme('openlayers_ui_styles_preview', array('style' => $style));
+}
+
+/**
+ * Implements hook_ctools_plugin_directory().
+ */
+function openlayers_ui_ctools_plugin_directory($module, $plugin) {
+  if ($module == 'ctools' && $plugin == 'export_ui') {
+    return 'plugins/' . $plugin;
+  }
+}

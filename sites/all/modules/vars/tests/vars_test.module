@@ -1,0 +1,23 @@
+<?php
+
+/**
+ * @file
+ *
+ * Module for testing the Variable API module.
+ */
+
+class VarsTestVars extends Vars {
+  public function __construct() {
+    parent::__construct('vars_test');
+  }
+
+  public function getDefaults() {
+    return array(
+      'vars_test_first' => array('value' => 100),
+      'vars_test_second' => array('value' => 200),
+      'vars_test_third' => array('value' => 300),
+      'vars_test_fourth' => array('value' => array(400)),
+      'vars_test_fifth' => array('value' => array('abcdefghil')),
+    );
+  }
+}

@@ -1,0 +1,14 @@
+name = Variable API test module
+description = Module for testing the Variable API module with SimpleTest; do not enable it.
+core = 7.x
+dependencies[] = vars
+files[] = vars_test.install
+files[] = vars_test.module
+hidden = TRUE
+
+; Information added by drupal.org packaging script on 2011-10-18
+version = "7.x-2.0-alpha10"
+core = "7.x"
+project = "vars"
+datestamp = "1318969538"
+

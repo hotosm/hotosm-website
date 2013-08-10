@@ -1,0 +1,65 @@
+<?php
+
+/**
+ * Implements hook_content_migrate_field_alter().
+ *
+ * Use this to tweak the conversion of field settings
+ * from the D6 style to the D7 style for specific
+ * situations not handled by basic conversion,
+ * as when field types or settings are changed.
+ *
+ * In our case, change openlayers_wkt to geofield
+ */
+function openlayers_cck_migrate_content_migrate_field_alter(&$field_value, $instance_value) {
+  if ($field_value['type'] == 'openlayers_wkt') {
+    $field_value['type'] = 'geofield';
+    $field_value['module'] = 'geofield';
+  }
+}
+
+/**
+ * Implements hook_content_migrate_instance_alter().
+ *
+ * Use this to tweak the conversion of instance or widget settings
+ * from the D6 style to the D7 style for specific
+ * situations not handled by basic conversion, as when
+ * formatter or widget names or settings are changed.
+ *
+ * In our case, use the wkt widget as default
+ */
+function openlayers_cck_migrate_content_migrate_instance_alter(&$instance_value, $field_value) {
+  $instance_value['widget_type'] = 'geofield_wkt';
+  $instance_value['widget']['type'] = 'geofield_wkt';
+  $instance_value['widget']['module'] = 'geofield';
+}
+
+/**
+ * Implements hook_content_migrate_data_record_alter().
+ *
+ * Tweaks individual records in a field.
+ *
+ * Move the data from the openlayers_wkt field, through the geofield_compute_values
+ * function and into all the subfields
+ *
+ */
+function openlayers_cck_migrate_content_migrate_data_record_alter(&$record, $field) {
+  if ($field['type'] == 'geofield') {
+    if (!empty($record[$field['field_name'] . '_openlayers_wkt'])) {
+      $value = $record[$field['field_name'] . '_openlayers_wkt'];
+      $wktvalue = array('wkt' => $value);
+      $values = geofield_compute_values($wktvalue, 'wkt');
+      $record[$field['field_name'] . '_wkt'] =  $values['wkt'];
+      $record[$field['field_name'] . '_geo_type'] = $values['geo_type'];
+      $record[$field['field_name'] . '_lat'] = $values['lat'];
+      $record[$field['field_name'] . '_lon'] = $values['lon'];
+      $record[$field['field_name'] . '_left'] = $values['left'];
+      $record[$field['field_name'] . '_right'] = $values['right'];
+      $record[$field['field_name'] . '_bottom'] = $values['bottom'];
+      $record[$field['field_name'] . '_top'] = $values['top'];
+      unset($record[$field['field_name'] . '_openlayers_wkt']);
+    }
+    else {
+      unset($record[$field['field_name'] . '_openlayers_wkt']);
+    }
+  }
+}

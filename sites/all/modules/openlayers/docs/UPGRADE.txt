@@ -1,0 +1,13 @@
+Documentation for upgrading is managed on Drupal.org.
+
+
+For Upgrading from 6.x-2.x -> 7.x-2.x:
+==========================================
+
+    * http://drupal.org/node/1136810
+
+
+For Upgrading from 6.x-1.x -> 6.x-2.x:
+==========================================
+
+    * http://drupal.org/node/714366

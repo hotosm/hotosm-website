@@ -1,0 +1,23 @@
+<?php
+
+/**
+ * @file
+ * This file holds the functions for the installing
+ * and enabling of the openlayers_views module.
+ *
+ * @ingroup openlayers
+ */
+
+/**
+ * Implementation of hook_uninstall().
+ */
+function openlayers_views_uninstall() {
+  // Get module variables
+  global $conf;
+  foreach (array_keys($conf) as $key) {
+    // Find variables that have the module prefix
+    if (strpos($key, 'openlayers_views_') === 0) {
+      variable_del($key);
+    }
+  }
+}

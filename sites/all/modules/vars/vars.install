@@ -1,0 +1,101 @@
+<?php
+// $Id$
+
+/**
+ * @file
+ * Install, update and uninstall functions for the Variables API module.
+ */
+
+/**
+ * Implements hook_schema().
+ */
+function vars_schema() {
+  $schema = array();
+
+  $schema['variable_default'] = array(
+    'description' => 'The default values for the variables as set by the modules.',
+    'fields' => array(
+      'vdid' => array(
+        'description' => 'The primary key.',
+        'type' => 'serial',
+        'unsigned' => TRUE,
+        'not null' => TRUE,
+      ),
+      'module' => array(
+        'description' => 'The module owning the variable.',
+        'type' => 'varchar',
+        'length' => 255,
+        'not null' => TRUE,
+        'default' => '',
+      ),
+      'name' => array(
+        'description' => 'The name of the variable.',
+        'type' => 'varchar',
+        'length' => 128,
+        'not null' => TRUE,
+        'default' => '',
+      ),
+      'value' => array(
+        'description' => 'The value of the variable.',
+        'type' => 'text',
+        'not null' => TRUE,
+        'size' => 'big'
+      ),
+      'flags' => array(
+        'description' => 'Flags associated with the variable.',
+        'type' => 'int',
+        'not null' => TRUE,
+        'default' => 0,
+        'size' => 'tiny',
+      ),
+    ),
+    'indexes' => array(
+      'module' => array(array('module', 32)),
+      'name' => array(array('name', 32)),
+      'flags' => array('flags'),
+    ),
+    'unique key' => array(
+      'module_name' => array('module', 'name'),
+    ),
+    'primary key' => array('vdid'),
+  );
+
+  $schema['cache_vars'] = drupal_get_schema_unprocessed('system', 'cache');
+  $schema['cache_vars']['description'] = 'Cache table for the Variable API module.';
+
+  return $schema;
+}
+
+/**
+ * Implements hook_install().
+ */
+function vars_install() {
+  db_update('system')
+    ->fields(array('weight' => -99))
+    ->condition('name', 'vars')
+    ->execute();
+}
+
+/**
+ * Flush the module cache.
+ */
+function vars_update_7200() {
+  cache_clear_all('*', 'cache_vars', TRUE);
+}
+
+/**
+ * Update the module weight.
+ */
+function vars_update_7203() {
+  db_update('system')
+    ->fields(array('weight' => -99))
+    ->condition('name', 'vars')
+    ->execute();
+}
+
+/**
+ * Update the code registry.
+ */
+function vars_update_7204() {
+  registry_rebuild();
+}

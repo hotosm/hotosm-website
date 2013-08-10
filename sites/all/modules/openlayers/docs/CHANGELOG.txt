@@ -1,0 +1,2 @@
+This is maintained on Drupal.org at the following URL:
+http://drupal.org/node/177400/release

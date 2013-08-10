@@ -1,0 +1,135 @@
+<?php
+/**
+ * @file
+ * Main module file for the proj4js.module.
+ */
+
+/**
+ * Implements of hook_requirements().
+ */
+function proj4js_requirements($phase) {
+  $requirements = array();
+  $name = 'proj4js';
+
+  if (($library = libraries_detect($name)) && !empty($library['installed'])) {
+    $requirements['proj4js'] = array(
+      'title' => 'Proj4JS Library Installed',
+      'severity' => REQUIREMENT_OK,
+      'value' => t('Proj4JS Library version @version installed at %path.', array('@version' => $library['version'], '%path' => $library['library path'])),
+    );
+  }
+  else {
+    $requirements['proj4js'] = array(
+      'title' => t('Proj4JS'),
+      'severity' => REQUIREMENT_ERROR,
+      'value' => t('Proj4JS library was not found. Please <a href="@link">download a copy</a> and place in the libraries directory.', array('@link' => 'http://trac.osgeo.org/proj4js/')),
+    );
+    // Something went wrong. :(
+    // This contains a short status code of what went wrong, such as 'not found'.
+    // $error = $library['error'];
+    // This contains a detailed (localized) error message.
+    // $error_message = $library['error message'];
+  }
+
+  return $requirements;
+}
+
+/**
+ * Implements of hook_libraries_info().
+ */
+function proj4js_libraries_info() {
+  $libraries['proj4js'] = array(
+    'name' => 'Proj4JS',
+    'vendor url' => 'http://trac.osgeo.org/proj4js/',
+    'download url' => 'http://download.osgeo.org/proj4js/proj4js-1.1.0.zip',
+    'library path' => _proj4js_get_path(),
+    'version arguments' => array(
+      'file' => 'build/build.xml',
+      'pattern' => '/<property name="app.version" value="([0-9.]+)"/',
+      'lines' => 150,
+    ),
+    'files' => array(
+      'js' => array(
+        'lib/proj4js-compressed.js'
+      ),
+    ),
+    'integration files' => array(
+      'proj4js' => array(
+        'js' => array(
+          'js/proj4js.js'
+        )
+      )
+    ),
+    'variants' => array(
+      'source' => array(
+        'files' => array(
+          'js' => array('lib/proj4js.js'),
+        ),
+      ),
+    )
+  );
+  return $libraries;
+}
+
+/**
+ * API Functions
+ */
+
+/**
+ * Return path to library.
+ *
+ * Return the path to the default bundled library if not found in
+ * sites/all/libraries.
+ *
+ * @return string
+ */
+function _proj4js_get_path() {
+  $lib = libraries_get_libraries();
+
+  if (isset($lib['proj4js'])) {
+    if (file_exists($lib['proj4js'])) {
+      return $lib['proj4js'];
+    }
+  }
+
+  return drupal_get_path('module', 'proj4js') . '/lib/proj4js';
+}
+
+/**
+ * Load a set of definitions where the identifier is the key of the array.
+ */
+function proj4js_load_definitions($bundles = array()) {
+  foreach ((array) $bundles as $identifier => $definition) {
+    proj4js_load_definition($identifier, $definition);
+  }
+}
+
+/**
+ * Load a definition. The definition is made available in the client when
+ * behaviors load.
+ * Note due to Drupal loading behaviours in random order you need to call
+ * Drupal.behaviors.proj4js.attach yourself when your behaviours depend on the
+ * presence of the projection definitions. See the discussion in #1940410 for
+ * details.
+ *
+ * @param String $identifier
+ *   For example "EPSG:2056".
+ * @param String $definition
+ *   Proj4 definition.
+ */
+function proj4js_load_definition($identifier, $definition) {
+  static $included_definitions = array();
+  if (!in_array($identifier, $included_definitions)) {
+    libraries_load('proj4js');
+
+    $settings = array('proj4js' => array(
+      array($identifier, $definition)
+    ));
+
+    drupal_add_js($settings, 'setting');
+
+    // Track previously loaded projections because they contain the same
+    // settings anyway and emitting them twice does not yield a benefit.
+    $included_definitions[] = $identifier;
+  }
+}

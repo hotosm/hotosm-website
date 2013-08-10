@@ -1,0 +1,132 @@
+<?php
+
+/**
+ * @file
+ * The textile module allows input of Textile shorthand.
+ */
+
+/**
+ * Implements hook_filter_info().
+ */
+function textile_filter_info() {
+  $filters['textile'] = array(
+    'title' => t('Textile'),
+    'description' => t('Allows content to be submitted using Textile, a simple, plain text syntax that is filtered into valid XHTML.'),
+    'process callback' => '_textile_process',
+    'settings callback' => '_textile_settings',
+    'default settings' => array(
+      'textile_tags' => FALSE,
+    ),
+    'tips callback' => '_textile_filter_tips',
+  );
+
+  return $filters;
+}
+
+/**
+ * Implements hook_help().
+ */
+function textile_help($path, $arg) {
+  switch ($path) {
+    case 'admin/help#textile':
+      return '<p>' . t('
+        The Textile module allows users to enter content using Textile, a
+        simple, plain text syntax that is filtered into valid XHTML. The <a
+        href="filter/tips" title="Textile help">filter tips page</a>
+        provides syntax descriptions and examples.') . '</p>';
+  }
+}
+
+/**
+ * Implements hook_vars_library_LIBRARY_search_directories_alter().
+ */
+function textile_vars_library_textile_search_directories_alter(&$dirs, $context) {
+  $dirs[] = drupal_get_path('module', 'textile') . '/include';
+}
+
+/**
+ * Retrieves where the Textile library has been copied.
+ *
+ * @return
+ *   The path of the Textile library.
+ */
+function textile_library_path() {
+  $path = &Vars::staticValue(__FUNCTION__, '');
+  $vars = new Vars();
+
+  if ($path) {
+    return $path;
+  }
+
+  $dirs = $vars->getLibraryPath('textile', array('files' => 'classTextile.php'));
+
+  if (empty($dirs)) {
+    return '';
+  }
+
+  return $dirs[0];
+}
+
+/**
+ * Filter tips callback for the Textile filter.
+ */
+function _textile_filter_tips($filter, $format, $long = FALSE) {
+  if ($long) {
+    module_load_include('inc', 'textile', 'textile.tips');
+    return _textile_filter_long_tips();
+  }
+  elseif (isset($filter->settings['textile_tags']) && $filter->settings['textile_tags']) {
+    return t('You can use Textile markup to format text between the [textile] and (optional) [/textile] tags.');
+  }
+  else {
+    return t('You can use Textile markup to format text.');
+  }
+}
+
+/**
+ * Helper function for preg_replace_callback().
+ */
+function _textile_match_process($matches) {
+  static $textile = NULL;
+  $path = textile_library_path();
+
+  if (is_null($textile) && $path) {
+    require_once DRUPAL_ROOT . '/' . $path . '/classTextile.php';
+
+    $textile = new Textile();
+    // $textile->hu is the string that preceeds all relative URLs.
+    $url = url(NULL);
+    $textile->hu = (substr($url, -1) == '/' ? $url : "$url/");
+  }
+
+  return is_null($textile) ? $matches[1] : $textile->TextileThis($matches[1]);
+}
+
+/**
+ * Textile filter. Provides filtering of Textile tags into XHTML.
+ */
+function _textile_process($text, $filter, $format, $langcode, $cache, $cache_id) {
+  if ($filter->settings['textile_tags']) {
+    return preg_replace_callback('{\[textile\](.*?)(\[/textile\]|$)}is', '_textile_match_process', $text);
+  }
+  else {
+    return _textile_match_process(array(NULL, $text));
+  }
+}
+
+/**
+ * Settings callback for the Textile filter.
+ */
+function _textile_settings($form, &$form_state, $filter, $format, $defaults, $filters) {
+  $filter->settings += $defaults;
+  $settings = array();
+
+  $settings['textile_tags'] = array(
+    '#type' => 'checkbox',
+    '#title' => t('Use tags'),
+    '#default_value' => $filter->settings['textile_tags'],
+    '#description' => t('If enabled, only text between [textile] and optional [/textile] tags will be processed; otherwise, all text will be processed as Textile markup.')
+  );
+
+  return $settings;
+}

@@ -1,0 +1,367 @@
+<?php
+
+/**
+ * @file
+ * Test file for the Variable API module.
+ */
+
+class VarsBaseTestCase extends DrupalUnitTestCase {
+  public static function getInfo() {
+    return array(
+      'name' => 'Base functions test',
+      'description' => 'Test of the base functions.',
+      'group' => 'Variable API',
+    );
+  }
+
+  function setUp() {
+    parent::setUp('vars');
+  }
+
+  function testBaseFunctions() {
+    vars_static_reset();
+
+    $var_name = 'vars_test_' . $this->randomName(10);
+    $test_value_1 = &vars_static_value($var_name, '12345');
+    $this->assertTrue(
+      isset($test_value_1) && $test_value_1 == '12345',
+      t('The default value of the static variable %var_name has been retrieved.', array('%var_name' => $var_name))
+    );
+
+    $test_value_1 = $this->randomName(10);
+    $test_value_2 = &vars_static_value($var_name, '12345');
+    $this->assertTrue(
+      isset($test_value_2) && $test_value_2 == $test_value_1,
+      t('The static variable %var_name has been changed.', array('%var_name' => $var_name))
+    );
+
+    vars_static_reset($var_name);
+    $test_value_4 = &vars_static_value($var_name, '12345');
+    $this->assertTrue(
+      isset($test_value_4) && $test_value_4 == '12345',
+      t('The static variable %var_name has been reset to its default value.', array('%var_name' => $var_name))
+    );
+  }
+}
+
+class VarsSimpleTestCase extends DrupalWebTestCase {
+  public static function getInfo() {
+    return array(
+      'name' => 'Simple functionality test',
+      'description' => 'Simple test of the module functionalities.',
+      'group' => 'Variable API',
+    );
+  }
+
+  function setUp() {
+    parent::setUp('vars', 'vars_test');
+  }
+
+  function testReadingVars() {
+    vars_static_reset();
+
+    $read_variables = array(
+      'menu_rebuild_needed' => variable_get('menu_rebuild_needed', FALSE),
+    );
+
+    $vars = new VarsTestVars();
+    $variables = $vars->getDefaults();
+
+    foreach ($variables as $variable_name => $info) {
+      if (!empty($info['flags']) && $info['flags'] == Vars::VARS_DYNAMIC) {
+        $var_name = $variable_name . '_' . $this->randomName(16);
+      }
+      elseif (empty($info['flags'])) {
+        $var_name = $variable_name;
+      }
+
+      $read_variables[$var_name] = $info['value'];
+    }
+
+    foreach ($read_variables as $name => $value) {
+      $this->assertIdentical(
+        $vars[$name], $value,
+        t('The value of the variable %var_name has been retrieved.', array('%var_name' => $name))
+      );
+    }
+
+    $write_variables = array(
+      'menu_rebuild_needed' => $this->randomName(16),
+    );
+
+    foreach ($variables as $variable_name => $info) {
+      if (!empty($info['flags']) && $info['flags'] == Vars::VARS_DYNAMIC) {
+        $var_name = $variable_name . '_' . $this->randomName(16);
+      }
+      elseif (empty($info['flags'])) {
+        $var_name = $variable_name;
+      }
+
+      $write_variables[$var_name] = $this->randomName(16);
+    }
+
+    foreach ($write_variables as $name => $value) {
+      $vars[$name] = $value;
+      $this->assertIdentical(
+        $vars[$name], $value,
+        t('The value of the variable %var_name has been changed.', array('%var_name' => $name))
+      );
+    }
+  }
+}
+
+class VarsExtendedTestCase extends DrupalWebTestCase {
+  public static function getInfo() {
+    return array(
+      'name' => 'Extended functionality test',
+      'description' => 'Extended test of the module functionalities.',
+      'group' => 'Variable API',
+    );
+  }
+
+  function setUp() {
+    parent::setUp('vars', 'vars_test', 'vars_extended_test');
+  }
+
+  function testReadingVars() {
+    $default_values = array();
+
+    vars_static_reset();
+
+    $vars = new VarsTestVars();
+    $extended_vars = new VarsExtendedTestVars();
+    $variables = $extended_vars->getDefaults();
+
+    $defaults = vars_default_load('module:vars_extended_test', db_and()->condition('vd.module', 'vars_extended_test'));
+    $this->assertTrue(
+      isset($defaults) && !empty($defaults['dynamic']) && !empty($defaults['static']),
+      t('The default values for the module %module has been saved in the database.', array('%module' => 'vars_extended_test'))
+    );
+
+    foreach ($variables as $variable_name => $info) {
+      if (!empty($info['flags']) && $info['flags'] == Vars::VARS_DYNAMIC) {
+        $var_name = $variable_name . '_' . $this->randomName(16);
+      }
+      elseif (empty($info['flags'])) {
+        $var_name = $variable_name;
+      }
+
+      $default_values[$var_name] = $info['value'];
+    }
+
+    foreach ($default_values as $name => $value) {
+      $this->assertIdentical(
+        $vars[$name], $value,
+        t('The value of the variable %var_name has been retrieved through the class %class.', array('%var_name' => $name, '%class' => 'VarsTestVars'))
+      );
+      $this->assertIdentical(
+        $extended_vars[$name], $value,
+        t('The value of the variable %var_name has been retrieved through the class %class.', array('%var_name' => $name, '%class' => 'VarsExtendedTestVars'))
+      );
+    }
+  }
+
+  function testWritingVars() {
+    $written_variables = array();
+
+    vars_static_reset();
+
+    $vars = new VarsExtendedTestVars();
+    $variables = $vars->getDefaults();
+
+    foreach ($variables as $variable_name => $info) {
+      if (!empty($info['flags']) && $info['flags'] == Vars::VARS_DYNAMIC) {
+        $var_name = $variable_name . '_' . $this->randomName(16);
+      }
+      elseif (empty($info['flags'])) {
+        $var_name = $variable_name;
+      }
+
+      $written_variables[$var_name] = $this->randomName(16);
+    }
+
+    foreach ($written_variables as $var_name => $var_value) {
+      $vars[$var_name] = $var_value;
+
+      $this->assertIdentical(
+        $vars[$var_name], $var_value,
+        t('The value of the variable %var_name has been changed.', array('%var_name' => $var_name))
+      );
+
+      $this->assertTrue(
+        vars_test_search_variable($var_name),
+        t('The value of the variable %var_name has been retrieved in the database.', array('%var_name' => $var_name))
+      );
+    }
+  }
+
+  function testDeletingVars() {
+    global $conf;
+    $written_variables = array();
+
+    vars_static_reset();
+
+    $vars = new VarsExtendedTestVars();
+    $variables = $vars->getDefaults();
+
+    foreach ($variables as $variable_name => $info) {
+      if (!empty($info['flags']) && $info['flags'] == Vars::VARS_DYNAMIC) {
+        $var_name = $variable_name . '_' . $this->randomName(16);
+      }
+      elseif (empty($info['flags'])) {
+        $var_name = $variable_name;
+      }
+
+      variable_set($var_name, $this->randomName(16));
+      $written_variables[] = $var_name;
+    }
+
+    vars_delete_multiple($written_variables);
+
+    foreach ($written_variables as $variable_name) {
+      $this->assertFalse(
+        isset($conf[$variable_name]),
+        t('The variable %var_name has been removed from memory.', array('%var_name' => $variable_name))
+      );
+
+      $this->assertFalse(
+        vars_test_search_variable($variable_name),
+        t('The variable %var_name has been removed from the database table.', array('%var_name' => $variable_name))
+      );
+    }
+  }
+
+  function testRenamingVars() {
+    global $conf;
+    $rename_variables = array();
+    $written_variables = array();
+
+    vars_static_reset();
+
+    $vars = new VarsExtendedTestVars();
+    $variables = $vars->getDefaults();
+
+    foreach ($variables as $variable_name => $info) {
+      if (!empty($info['flags']) && $info['flags'] == Vars::VARS_DYNAMIC) {
+        $var_name = $variable_name . '_' . $this->randomName(16);
+      }
+      elseif (empty($info['flags'])) {
+        $var_name = $variable_name;
+      }
+
+      $var_value = $this->randomName(16);
+      variable_set($var_name, $var_value);
+      $written_variables[$var_name] = $var_value;
+      $rename_variables[$var_name] = $var_name . '_renamed_' . $this->randomName(16);
+    }
+
+    vars_rename_multiple($rename_variables);
+
+    foreach ($rename_variables as $old_name => $new_name) {
+      $this->assertTrue(
+        !isset($conf[$old_name]) && isset($conf[$new_name]) && $conf[$new_name] === $written_variables[$old_name],
+        t('The variable %old_name has been renamed %new_name.', array('%old_name' => $old_name, '%new_name' => $new_name))
+      );
+
+      $this->assertFalse(
+        vars_test_search_variable($old_name),
+        t('The variable %old_name has not been retrieved in the database.', array('%old_name' => $old_name))
+      );
+
+      $this->assertTrue(
+        vars_test_search_variable($new_name),
+        t('The variable %new_name has been retrieved in the database.', array('%new_name' => $new_name))
+      );
+    }
+  }
+}
+
+class VarsModuleUninstallationTestCase extends DrupalWebTestCase {
+  public static function getInfo() {
+    return array(
+      'name' => 'Module uninstallation test',
+      'description' => 'Verify the module uninstallation removes the persistant variables, and the default values from the database.',
+      'group' => 'Variable API',
+    );
+  }
+
+  function setUp() {
+    parent::setUp('vars', 'vars_test', 'vars_extended_test');
+  }
+
+  function testModuleUninstallation() {
+    global $conf;
+
+    $vars = new VarsExtendedTestVars();
+    $variables = $vars->getDefaults();
+    $written_variables = array();
+
+    foreach ($variables as $variable_name => $info) {
+      if (!empty($info['flags']) && $info['flags'] == Vars::VARS_DYNAMIC) {
+        $var_name = $variable_name . '_' . $this->randomName(16);
+      }
+      elseif (empty($info['flags'])) {
+        $var_name = $variable_name;
+      }
+
+      variable_set($var_name, $this->randomName(16));
+      $written_variables[] = $var_name;
+    }
+
+    $vars->removeDefaults();
+
+    foreach ($written_variables as $variable_name) {
+      $this->assertFalse(
+        isset($conf[$variable_name]),
+        t('The variable %var_name has been removed from memory.', array('%var_name' => $variable_name))
+      );
+
+      $this->assertFalse(
+        vars_test_search_variable($variable_name),
+        t('The variable %var_name has been removed from the database table.', array('%var_name' => $variable_name))
+      );
+
+      $this->assertFalse(
+        vars_test_search_default_value($variable_name, 'vars_extended_test'),
+        t('The default value for the variable %var_name has been removed from the database table.', array('%var_name' => $variable_name))
+      );
+    }
+  }
+}
+
+/**
+ * Checks the default values table doesn't contain a value for the Drupal
+ * variable passed as argument.
+ *
+ * @param $name
+ *   The name of the Drupal variable.
+ * @param $module
+ *   The module defining the variable.
+ *
+ * @return
+ *   TRUE, if the table contains the default value for the Drupal variable.
+ */
+function vars_test_search_default_value($name, $module) {
+  return (boolean) db_query_range(
+    "SELECT 1 FROM {variable_default} WHERE name = :name AND module = :module",
+     0, 1,
+     array(':name' => $name, ':module' => $module)
+  )->fetchField();
+}
+
+/**
+ * Checks the variables table doesn't contain a value for the Drupal
+ * variable passed as argument.
+ *
+ * @param $name
+ *   The name of the Drupal variable.
+ *
+ * @return
+ *   TRUE, if the table contains the default value for the Drupal variable.
+ */function vars_test_search_variable($name) {
+  return (boolean) db_query_range(
+    'SELECT 1 FROM {variable} WHERE name = :name',
+    0, 1,
+    array(':name' => $name)
+  )->fetchField();
+}

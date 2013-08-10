@@ -1,0 +1,17 @@
+Version 2.3
+-----------
+* Added the function Vars::api(), Vars::getLibraryPath(),
+  Vars::forceMenuRebuild().
+
+Version 2.4
+-----------
+* Added the method Vars::siteIsOffline().
+
+Version 2.5
+-----------
+* The code uses the hook hook_vars_library_LIBRARY_search_directories_alter(),
+  together with hook_vars_library_search_directories_alter().
+
+Version 2.6
+-----------
+* The second parameter for Vars::getLibraryPath() is now an array of options.

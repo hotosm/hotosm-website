@@ -1,0 +1,12 @@
+name = Mollom Test
+description = Testing module for Mollom functionality. Do not enable.
+core = 7.x
+package = Testing
+hidden = TRUE
+
+; Information added by drupal.org packaging script on 2013-07-01
+version = "7.x-2.7"
+core = "7.x"
+project = "mollom"
+datestamp = "1372682452"
+

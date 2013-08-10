@@ -1,0 +1,3 @@
+<?php
+
+include_once('hot_project.features.inc');

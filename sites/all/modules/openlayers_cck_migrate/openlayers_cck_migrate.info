@@ -1,0 +1,16 @@
+name = Openlayers CCK Migrate
+description = Migration from Openlayers CCK to Geofield
+
+core = 7.x
+package = Openlayers
+
+dependencies[] = geofield
+
+
+
+; Information added by drupal.org packaging script on 2011-10-28
+version = "7.x-1.0-alpha1"
+core = "7.x"
+project = "openlayers_cck_migrate"
+datestamp = "1319782537"
+

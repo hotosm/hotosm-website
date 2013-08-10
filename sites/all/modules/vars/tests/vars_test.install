@@ -1,0 +1,22 @@
+<?php
+
+/**
+ * @file
+ * Install, update and uninstall functions for the Variable API test module.
+ */
+
+/**
+ * Implements hook_install().
+ */
+function vars_test_install() {
+  $vars = new VarsTestVars();
+  $vars->saveDefaults();
+}
+
+/**
+ * Implements hook_uninstall().
+ */
+function vars_test_uninstall() {
+  $vars = new VarsTestVars();
+  $vars->removeDefaults();
+}

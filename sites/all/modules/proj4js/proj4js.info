@@ -1,0 +1,12 @@
+name = Proj4JS
+description = Proj4JS library loader.
+version = 1.0
+core = 7.x
+dependencies[] = libraries
+
+; Information added by drupal.org packaging script on 2013-03-13
+version = "7.x-1.2"
+core = "7.x"
+project = "proj4js"
+datestamp = "1363209312"
+

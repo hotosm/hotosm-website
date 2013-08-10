@@ -1,0 +1,46 @@
+<?php
+
+/**
+ * @file
+ *
+ * Module for testing the Variable API module.
+ */
+
+class VarsExtendedTestVars extends Vars {
+  public function __construct() {
+   parent::__construct('vars_extended_test');
+  }
+
+  public function getDefaults() {
+    return array(
+      'vars_extended_test_dynamic_first' => array(
+        'value' => array(1.1),
+        'flags' => Vars::VARS_DYNAMIC,
+      ),
+      'vars_extended_test_dynamic_second' => array(
+        'value' => 'aaaa',
+        'flags' => Vars::VARS_DYNAMIC,
+      ),
+      'vars_extended_test_dynamic_third' => array(
+        'value' => 1111,
+        'flags' => Vars::VARS_DYNAMIC,
+      ),
+      'vars_extended_test_dynamic_fourth' => array(
+        'value' => array('aaaaaaaa'),
+        'flags' => Vars::VARS_DYNAMIC,
+      ),
+      'vars_extended_test_static_first' => array(
+        'value' => 1.1,
+        'flags' => 0,
+      ),
+      'vars_extended_test_static_second' => array(
+        'value' => 'aaaa',
+        'flags' => 0,
+      ),
+      'vars_extended_test_static_third' => array(
+        'value' => 1111,
+        'flags' => 0,
+      ),
+    );
+  }
+}

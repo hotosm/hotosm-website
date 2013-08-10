@@ -1,0 +1,168 @@
+<?php
+
+/**
+ * @file
+ * This file holds the main Drupal hook functions
+ * and private functions for the openlayers_views module.
+ *
+ * @ingroup openlayers
+ */
+
+/**
+ * Implements hook_help().
+ */
+function openlayers_views_help($path, $arg) {
+  switch ($path) {
+    case 'admin/help#openlayers_views':
+      return '<p>'
+        . t('The OpenLayers Views module provides a set of plugins '
+        . 'for Views.')
+        . '</p>';
+  }
+}
+
+/**
+ * Implements hook_theme().
+ */
+function openlayers_views_theme($existing, $type, $theme, $path) {
+  return array(
+    'openlayers_views_group_display_item' => array(
+      'arguments' => array(
+        'name' => '',
+        'description' => '',
+      ),
+      'file' => 'includes/openlayers_views.theme.inc',
+    ),
+    'openlayers_views_render_feature' => array(
+      'arguments' => array(
+        'feature' => '',
+        'record' => '',
+      ),
+      'file' => 'includes/openlayers_views.theme.inc',
+    ),
+    'openlayers_views_map' => array(
+      'arguments' => array(
+        'map' => array(),
+        'title' => '',
+      ),
+      'file' => 'views/openlayers_views.views.theme.inc',
+    ),
+  );
+}
+
+/**
+ * Implements hook_views_api().
+ */
+function openlayers_views_views_api() {
+  return array(
+    'api' => 3,
+    'path' => drupal_get_path('module', 'openlayers_views') .'/views',
+  );
+}
+
+/**
+ * Implements hook_ctools_plugin_directory().
+ */
+function openlayers_views_ctools_plugin_directory($module, $plugin) {
+  if ($module == 'openlayers' && !empty($plugin)) {
+    return 'plugins/' . $plugin;
+  }
+}
+
+/**
+ * Implements hook_ctools_plugin_api().
+ */
+function openlayers_views_ctools_plugin_api($module, $api) {
+  if ($module == "openlayers") {
+    switch ($api) {
+      case 'openlayers_layers':
+        return array('version' => 1);
+    }
+  }
+}
+
+/**
+ * Implements hook_openlayers_layers().
+ */
+function openlayers_views_openlayers_layers() {
+  $layers = array();
+
+  // Attempt to load information from cache.
+  // For now use a arg based check for skipping cache.
+  if (arg(0) != 'admin') {
+    $cache = cache_get('openlayers_views');
+    if (isset($cache->data)) {
+      return $cache->data;
+    }
+  }
+
+  $views = views_get_all_views();
+
+  // Provide each OpenLayers Data display as a layer
+  foreach ($views as $view) {
+    foreach ($view->display as $display => $data) {
+      $view->set_display($display);
+
+      // Check for OpenLayers Data Overlays
+      if ($data->display_plugin == 'openlayers') {
+        //Build Layer
+        $layer = new stdClass();
+        $layer->api_version = 1;
+        $layer->name = $view->name . '_' . $display;
+        $layer->title =
+          !empty($view->display['default']->handler->options['title']) ?
+            $view->display['default']->handler->options['title'] :
+            $view->name;
+        $layer->title .= ' - ' . $data->display_title;
+        $layer->description = $view->description . ' - ' . $data->display_title;
+        $layer->data = array(
+          'layer_type' => 'openlayers_views_vector',
+          'projection' => array('4326'),
+          'baselayer' => FALSE,
+          'type' => 'Vector',
+          'url' => array(),
+          'options' => array(),
+          'events' => array(),
+          'views' => array('view' => $view->name, 'display' => $display),
+        );
+        $layers[$layer->name] = $layer;
+      }
+
+      // Make GeoJSON layers from the views_geojson module
+      if ($view->display_handler->get_option('style_plugin') == 'views_geojson' &&
+        $view->display_handler->display->display_plugin == 'page' &&
+        $view->display_handler->get_option('path') != ''
+      ) {
+        $layer = new stdClass();
+        $layer->api_version = 1;
+        $layer->name = $view->name . '_' . $display;
+        $layer->title =
+          !empty($view->display['default']->handler->options['title']) ?
+            $view->display['default']->handler->options['title'] :
+            $view->name;
+        $layer->title .= ' - ' . $data->display_title;
+        $layer->description = $view->description . ' - ' . $data->display_title;
+
+        // Determine if we should use a BBOX strategy.
+        $useBBOX = FALSE;
+        if (isset($view->display['default']->display_options['arguments']) &&
+          isset($view->display['default']->display_options['arguments']['bbox_argument']) &&
+          $view->display['default']->display_options['arguments']['bbox_argument']['arg_id'] == 'bbox') {
+          $useBBOX = TRUE;
+        }
+
+        $layer->data = array(
+          'layer_type' => 'openlayers_layer_type_geojson',
+          'url' => url($view->display_handler->get_option('path'), array('absolute' => TRUE)),
+          'geojson_data' => '',
+          'views' => array('view' => $view->name, 'display' => $display),
+          'useBBOX' => $useBBOX,
+        );
+        $layers[$layer->name] = $layer;
+      }
+    }
+    $view->destroy();
+  }
+  cache_set('openlayers_views', $layers);
+  return $layers;
+}

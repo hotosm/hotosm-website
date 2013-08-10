@@ -1,0 +1,34 @@
+<?php
+
+/**
+ * @file
+ * This file holds the functions for the installing
+ * and enabling of the openlayers_ui module.
+ *
+ * @ingroup openlayers
+ */
+
+/**
+ * Implementation of hook_uninstall().
+ */
+function openlayers_ui_uninstall() {
+  // Get module variables
+  global $conf;
+  foreach (array_keys($conf) as $key) {
+    // Find variables that have the module prefix
+    if (strpos($key, 'openlayers_ui_') === 0) {
+      variable_del($key);
+    }
+  }
+}
+
+/**
+ * This is needed to rebuild menu items and set parent correctly on
+ * Openlayers tabs when using CTools Export UI and have a good breadcrumb.
+ * Thanks @Dave Reid for the help !
+ */
+function openlayers_ui_update_7201() {
+  db_delete('menu_links')
+    ->condition('link_path', 'admin/structure/openlayers%', 'LIKE')
+    ->execute();
+}

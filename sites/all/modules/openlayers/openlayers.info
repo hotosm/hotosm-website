@@ -1,0 +1,15 @@
+name = "OpenLayers"
+description = "OpenLayers base API module"
+core = 7.x
+package = "OpenLayers"
+php = 5.2
+dependencies[] = ctools
+
+; Core files
+files[] = openlayers.module
+; Information added by drupal.org packaging script on 2012-12-30
+version = "7.x-2.0-beta3"
+core = "7.x"
+project = "openlayers"
+datestamp = "1356865449"
+

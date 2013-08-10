@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the OpenLayers Test Example Feature feature.
+ */
+
+include_once 'openlayers_test_example_feature.features.inc';
