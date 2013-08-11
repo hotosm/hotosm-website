@@ -5,3 +5,29 @@
  */
 
 include_once 'hot_core.features.inc';
+
+
+/**
+ * Implements hook_menu_alter()
+ */
+function hot_core_menu() {
+  // Disable the page node
+  $items['front'] = array(
+    'page callback' => 'hot_core_front_page',
+    'access callback' => TRUE,
+  );
+  return $items;
+}
+
+
+/**
+ * Implements hook_menu_alter()
+ */
+function hot_core_menu_alter(&$items) {
+  // Disable the page node
+  $items['node']['access callback'] = FALSE;
+}
+
+function hot_core_fornt_page() {
+  return "";
+}
