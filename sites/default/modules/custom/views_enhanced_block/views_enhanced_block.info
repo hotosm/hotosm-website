@@ -1,0 +1,8 @@
+name = Views Enhanced Blocks
+description = Enhances existing views block functionalities with extra configurational options.
+package = Views
+core = 7.x
+php = 5.2
+
+files[] = views_enhanced_block.views.inc
+files[] = views_plugin_display_enhanced_block.inc
