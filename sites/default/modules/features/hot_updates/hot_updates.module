@@ -1,38 +1,7 @@
 <?php
-
-include_once('hot_updates.features.inc');
-
-
-
-function hot_updates_form_alter(&$form, $form_state, $form_id) {
-
-  // if the inline module is enabled, we want to add a line of help text in the attachments area
-  if(module_exists('inline')) {
-    if($form_id == 'update_node_form') hot_updates_add_inline_help($form['attachments']['wrapper']['files']);
-    if($form_id == 'upload_js') hot_updates_add_inline_help($form['files']);
-  }
-}
-
-
 /**
- * called from the hot_updates_form_alter to add a helpful prompt to the upload modules file list
+ * @file
+ * Code for the HOT updates feature.
  */
-function hot_updates_add_inline_help(&$files) {
 
-  // make sure php doesn't barf on the foreach if there is no array
-  if(!is_array($files)) return;
-
-  foreach($files as $file_id => $file_info) {
-
-    // avoid non-file things like #theme in the file array
-    if(is_numeric($file_id)) {
-
-      // only show the instructions for image files
-      if($file_info['filemime']['#value'] == 'image/jpeg' || $file_info['filemime']['#value'] == 'image/png' || $file_info['filemime']['#value'] == 'image/gif') {
-      
-        // add instructions to the description that is already there
-        $files[$file_id]['description']['#description'] .= "<br />Tag to include resized image in the body content: <strong>[inline:".$files[$file_id]['filename']['#value']."]</strong>";
-      }
-    }
-  }
-}
+include_once 'hot_updates.features.inc';
