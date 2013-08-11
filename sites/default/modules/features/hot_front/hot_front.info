@@ -1,6 +1,0 @@
-name = HOT Front page
-description = frontpage feature
-core = 7.x
-package = HOT
-version = 7.x-1.0
-project = hot_front
