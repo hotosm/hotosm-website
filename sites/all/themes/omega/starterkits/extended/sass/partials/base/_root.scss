@@ -1,0 +1,11 @@
+$border-box: true !default;
+
+@if ($border-box == true) {
+  * {
+    @include box-sizing(border-box);
+  }
+}
+
+.clearfix {
+  @include clearfix;
+}

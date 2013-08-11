@@ -1,0 +1,27 @@
+/**
+ * $SITE-BRANDING
+ */
+.site-branding {
+  padding: 1em 0;
+  @include clearfix(true);
+}
+
+.site-branding__name,
+.site-branding__logo {
+  display: block;
+  float: left;
+}
+
+.site-branding__logo {
+  width: 50px;
+  margin-right: $horz-spacing-unit;
+}
+.site-branding__name {
+  @extend .beta;
+  color: #FFF;
+  text-decoration: none;
+
+  &:hover {
+    color: $dark-blue;
+  }
+}

@@ -1,0 +1,142 @@
+/*******************************************************************************
+ * _layout.scss
+ *
+ * Styling of the "simple" layout demonstrating the Compass grid extension Susy
+ * and building mobile first layouts.
+ ******************************************************************************/
+.l-header,
+.l-main,
+.l-footer {
+  *zoom: 1;
+  max-width: 1190px;
+  _width: 1190px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+.l-header:after,
+.l-main:after,
+.l-footer:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.l-region--highlighted,
+.l-region--help,
+.l-region--sidebar-first,
+.l-region--sidebar-second {
+  margin-bottom: 20px;
+}
+
+@media (min-width: 44em) {
+  .l-header,
+  .l-main,
+  .l-footer {
+    max-width: 1190px;
+  }
+
+  .l-branding {
+    width: 32.20339%;
+    float: left;
+    margin-right: 1.69492%;
+  }
+
+  .l-region--header {
+    width: 66.10169%;
+    float: right;
+    margin-right: 0;
+  }
+
+  .l-region--navigation {
+    clear: both;
+  }
+
+  .sidebar-first .l-content,
+  .sidebar-second .l-content,
+  .two-sidebars .l-content {
+    width: 66.10169%;
+    float: left;
+    margin-right: 1.69492%;
+  }
+  .sidebar-first .l-region--sidebar-first,
+  .sidebar-first .l-region--sidebar-second,
+  .sidebar-second .l-region--sidebar-first,
+  .sidebar-second .l-region--sidebar-second,
+  .two-sidebars .l-region--sidebar-first,
+  .two-sidebars .l-region--sidebar-second {
+    width: 32.20339%;
+    float: right;
+    margin-right: 0;
+  }
+  .sidebar-first .l-region--sidebar-second,
+  .sidebar-second .l-region--sidebar-second,
+  .two-sidebars .l-region--sidebar-second {
+    clear: right;
+  }
+}
+@media (min-width: 70em) {
+  .l-header,
+  .l-main,
+  .l-footer {
+    max-width: 1190px;
+  }
+
+  .l-branding {
+    width: 36.70886%;
+    float: left;
+    margin-right: 1.26582%;
+  }
+
+  .l-region--header {
+    width: 62.02532%;
+    float: right;
+    margin-right: 0;
+  }
+
+  .sidebar-first .l-content {
+    width: 74.68354%;
+    float: right;
+    margin-right: 0;
+  }
+  .sidebar-first .l-region--sidebar-first {
+    width: 24.05063%;
+    float: left;
+    margin-right: 1.26582%;
+  }
+
+  .sidebar-second .l-content {
+    width: 74.68354%;
+    float: left;
+    margin-right: 1.26582%;
+  }
+  .sidebar-second .l-region--sidebar-second {
+    width: 24.05063%;
+    float: right;
+    margin-right: 0;
+    clear: none;
+  }
+
+  .two-sidebars .l-content {
+    width: 49.36709%;
+    float: left;
+    margin-right: 1.26582%;
+    margin-left: 25.31646%;
+  }
+  .two-sidebars .l-region--sidebar-first,
+  .two-sidebars .l-region--sidebar-second {
+    width: 24.05063%;
+    float: left;
+    margin-right: 1.26582%;
+  }
+  .two-sidebars .l-region--sidebar-first {
+    margin-left: -75.94937%;
+  }
+  .two-sidebars .l-region--sidebar-second {
+    float: right;
+    margin-right: 0;
+    clear: none;
+  }
+}

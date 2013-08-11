@@ -1,0 +1,20 @@
+/**
+ * $BORDER-LIST
+ */
+.border-list {
+  padding: 0;
+
+  list-style: none;
+
+  li {
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-bottom: 1px solid $light-grey;
+
+    &:last-child {
+      padding-bottom: 0;
+      margin-bottom: 0;
+      border-bottom: none;
+    }
+  }
+}

@@ -1,0 +1,122 @@
+/**
+ * $FONT-FACE
+ */
+@import url(http://fonts.googleapis.com/css?family=Maven+Pro:400,700);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic);
+
+/**
+ * $BASE-TYPOGRAPHY
+ */
+html {
+  font-size: 14px;
+  font-family: $pt-sans;
+  color: $dark-grey;
+}
+
+/**
+ * $LINKS
+ */
+a {
+  color: $orange;
+
+  &:hover,
+  &:focus {
+    color: #000;
+    text-decoration: none;
+  }
+}
+
+/**
+ * $HEADINGS
+ */
+h1, .alpha,
+h2, .beta,
+h3, .gamma,
+h4, .delta,
+h5, .epsilon,
+h6, .zeta {
+  margin-top: 0;
+  margin-bottom: 0.2em;
+  color: darken($mid-grey, 15%);
+  font-family: $maven-pro;
+  line-height: 1.2em;
+  text-transform: uppercase;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+h1, .alpha {
+  @include font-size(55px);
+  font-weight: 700;
+}
+h2, .beta {
+  @include font-size(34px);
+  font-weight: 700;
+  color: $mid-blue;
+}
+h3, .gamma {
+  @include font-size(21px);
+}
+h4, .delta {
+  @include font-size(18px);
+}
+h5, .epsilon{
+  @include font-size(16px);
+  font-weight: 700;
+}
+h6, .zeta {
+  @include font-size(16px);
+  color: $mid-blue;
+}
+
+/**
+ * $PARAGRAPHS
+ */
+p,
+%p {
+  margin: 0;
+  margin-bottom: 1em;
+}
+p + img {
+  float: left;
+  margin-right: $horz-spacing-unit;
+}
+
+/**
+ * $QUOTES
+ */
+blockquote {
+  @extend %p;
+  padding: 1em 1.5em;
+  border: 1px solid $dark-blue;
+  border-left-width: 1.2em;
+  font-style: italic;
+  color: $dark-blue;
+
+  p {
+    margin: 0;
+  }
+}
+
+q {
+  font-style: italic;
+}
+
+/**
+ * $MARKS
+ */
+mark,
+.marker {
+  padding: 0.1em 0.5em;
+
+  background: $light-blue;
+
+  color: #FFF;
+  @include font-size(12px);
+  text-transform: capitalize;
+
+  @include border-radius(10px);
+}

@@ -1,0 +1,24 @@
+/**
+ * $NAV-BAR
+ */
+.block--nav-bar {
+  .menu {
+    @extend %hlist;
+  }
+
+  a {
+    display: block;
+    padding: 1em;
+
+    border-left: 1px solid #FFF;
+
+    @include font-size(20px);
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #FFF;
+  }
+
+  li:last-child a {
+    border-right: 1px solid #FFF;
+  }
+}

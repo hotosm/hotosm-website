@@ -1,0 +1,17 @@
+/* line 4, ../sass/partials/base/_root.scss */
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 9, ../sass/partials/base/_root.scss */
+.clearfix {
+  overflow: hidden;
+  *zoom: 1;
+}
+
+/* line 1, ../sass/partials/base/_media.scss */
+img, media {
+  max-width: 100%;
+}

@@ -1,0 +1,24 @@
+name = Omega
+description = Omega
+screenshot = screenshot.png
+engine = phptemplate
+core = 7.x
+
+regions[header]         = Header
+regions[navigation]     = Navigation
+regions[highlighted]    = Highlighted
+regions[help]           = Help
+regions[content]        = Content
+regions[sidebar_first]  = First Sidebar
+regions[sidebar_second] = Second Sidebar
+regions[footer]         = Footer
+
+plugins[panels][layouts] = panels/layouts
+plugins[panels][styles] = panels/styles
+
+; Information added by drupal.org packaging script on 2013-07-12
+version = "7.x-4.0-beta6"
+core = "7.x"
+project = "omega"
+datestamp = "1373658077"
+

@@ -1,0 +1,24 @@
+@import "compass";
+
+// Use the default message layout.
+div.messages {
+  position: relative;
+}
+
+.close-message {
+  @include single-text-shadow(none);
+  position: absolute;
+  right: .4em;
+  top: -.2em;
+  text-decoration: none;
+  color: rgba(0, 0, 0, .3);
+
+  &:before {
+    font-size: 1.4em;
+    content: "×";
+  }
+
+  &:hover, &:focus, &:active {
+    color: #000;
+  }
+}

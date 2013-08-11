@@ -1,0 +1,151 @@
+/*******************************************************************************
+ * _layout.scss
+ *
+ * Styling of the "simple" layout demonstrating the Compass grid extension Susy
+ * and building mobile first layouts.
+ ******************************************************************************/
+.l-constrained {
+  *zoom: 1;
+  max-width: 1190px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.l-constrained:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/**
+ * $ISLAND
+ */
+/**
+ * $ARROW
+ */
+/**
+ * $HLIST
+ */
+body {
+  background: transparent url('../../../images/diagonal.png?1352308673') left top repeat;
+}
+
+/* Header */
+.l-header {
+  background-color: #52b1ea;
+}
+
+.l-region--header {
+  padding: 18px 0;
+}
+.l-region--header .block {
+  float: right;
+}
+
+/* Content Area */
+.l-highlighted-wrapper {
+  padding: 18px 0;
+  background: #FFF;
+}
+
+.l-region--help {
+  margin-bottom: 18px;
+}
+
+.l-main {
+  margin-top: 36px;
+  margin-bottom: 36px;
+}
+
+/* Sidebars */
+.l-region--sidebar-first,
+.l-region--sidebar-second {
+  background-color: #FFF;
+  padding: 18px 1em;
+}
+
+/* Footer */
+.l-footer-wrapper {
+  padding: 18px 0;
+  background: #FFF;
+}
+
+@media (min-width: 44em) {
+  .l-constrained {
+    max-width: 1190px;
+  }
+
+  /* Header */
+  .l-branding {
+    width: 23.72881%;
+    float: left;
+    margin-right: 1.69492%;
+  }
+
+  .l-region--navigation {
+    width: 49.15254%;
+    float: left;
+    margin-right: 1.69492%;
+  }
+
+  .l-region--header {
+    width: 23.72881%;
+    float: right;
+    margin-right: 0;
+  }
+
+  /* Sidebars */
+  .two-sidebars .l-content,
+  .one-sidebar .l-content {
+    width: 66.10169%;
+    float: left;
+    margin-right: 1.69492%;
+  }
+  .two-sidebars .l-region--sidebar-first,
+  .two-sidebars .l-region--sidebar-second,
+  .one-sidebar .l-region--sidebar-first,
+  .one-sidebar .l-region--sidebar-second {
+    width: 32.20339%;
+    float: right;
+    margin-right: 0;
+    clear: right;
+  }
+}
+@media (min-width: 70em) {
+  .l-constrained {
+    max-width: 1190px;
+  }
+
+  /* Sidebars */
+  .one-sidebar .l-content {
+    width: 66.10169%;
+    float: left;
+    margin-right: 1.69492%;
+  }
+  .one-sidebar .l-region--sidebar-first {
+    width: 32.20339%;
+    float: left;
+    margin-right: 1.69492%;
+    float: right;
+    margin-right: 0;
+    clear: none;
+  }
+
+  .two-sidebars .l-content {
+    width: 49.15254%;
+    float: left;
+    margin-right: 1.69492%;
+  }
+  .two-sidebars .l-region--sidebar-first,
+  .two-sidebars .l-region--sidebar-second {
+    width: 23.72881%;
+    float: left;
+    margin-right: 1.69492%;
+    clear: none;
+  }
+  .two-sidebars .l-region--sidebar-second {
+    float: right;
+    margin-right: 0;
+  }
+}

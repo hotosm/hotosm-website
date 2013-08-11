@@ -1,0 +1,12 @@
+$debug-grid: false !default;
+
+@mixin grid-background {
+  @if $debug-grid == true {
+    @include susy-grid-background;
+  }
+}
+
+%container {
+  @include container;
+  @include grid-background;
+}
