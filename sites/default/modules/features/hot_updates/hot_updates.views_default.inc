@@ -35,11 +35,6 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['row_options']['inline'] = array(
     'title' => 'title',
   );
-  /* Header: Global: Unfiltered text */
-  $handler->display->display_options['header']['area_text_custom']['id'] = 'area_text_custom';
-  $handler->display->display_options['header']['area_text_custom']['table'] = 'views';
-  $handler->display->display_options['header']['area_text_custom']['field'] = 'area_text_custom';
-  $handler->display->display_options['header']['area_text_custom']['content'] = '<?php if(user_access(\'create update content\')) { ?><div class=\'add-link\'><?php print l(\'+ add an update\', \'node/add/update\'); ?></div><?php } ?>';
   /* Relationship: Content: Author */
   $handler->display->display_options['relationships']['uid']['id'] = 'uid';
   $handler->display->display_options['relationships']['uid']['table'] = 'node';
@@ -109,6 +104,7 @@ function hot_updates_views_default_views() {
 
   /* Display: Page */
   $handler = $view->new_display('page', 'Page', 'page');
+  $handler->display->display_options['defaults']['header'] = FALSE;
   $handler->display->display_options['path'] = 'updates';
   $handler->display->display_options['menu']['type'] = 'normal';
   $handler->display->display_options['menu']['title'] = 'Updates';
