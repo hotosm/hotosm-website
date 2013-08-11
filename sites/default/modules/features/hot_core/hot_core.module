@@ -19,7 +19,6 @@ function hot_core_menu() {
   return $items;
 }
 
-
 /**
  * Implements hook_menu_alter()
  */
@@ -28,6 +27,6 @@ function hot_core_menu_alter(&$items) {
   $items['node']['access callback'] = FALSE;
 }
 
-function hot_core_fornt_page() {
+function hot_core_front_page() {
   return "";
 }
