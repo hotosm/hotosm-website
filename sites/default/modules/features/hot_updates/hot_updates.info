@@ -1,6 +1,6 @@
-name = HOT updates
+name = HOT Updates
 core = 7.x
-package = Features
+package = HOT
 version = 7.x-1.0
 project = hot_updates
 dependencies[] = features

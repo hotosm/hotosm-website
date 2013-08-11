@@ -1,6 +1,6 @@
-name = HOT project
+name = HOT Projects
 core = 7.x
-package = Features
+package = HOT
 version = 7.x-1.0
 project = hot_project
 dependencies[] = context
