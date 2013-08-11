@@ -29,11 +29,11 @@ function hot_project_context_default_contexts() {
   $context->reactions = array(
     'block' => array(
       'blocks' => array(
-        'views-updates-block_1' => array(
+        'views-updates-updates_project_block' => array(
           'module' => 'views',
-          'delta' => 'updates-block_1',
+          'delta' => 'updates-updates_project_block',
           'region' => 'content',
-          'weight' => '-10',
+          'weight' => '10',
         ),
         'views-project_ol_map-block_1' => array(
           'module' => 'views',
@@ -56,6 +56,38 @@ function hot_project_context_default_contexts() {
   // Included for use with string extractors like potx.
   t('projects');
   $export['project_node'] = $context;
+
+  $context = new stdClass();
+  $context->disabled = FALSE; /* Edit this to true to make a default context disabled initially */
+  $context->api_version = 3;
+  $context->name = 'projects_overview';
+  $context->description = '';
+  $context->tag = 'projects';
+  $context->conditions = array(
+    'views' => array(
+      'values' => array(
+        'project:projects_overview_page' => 'project:projects_overview_page',
+      ),
+    ),
+  );
+  $context->reactions = array(
+    'block' => array(
+      'blocks' => array(
+        'menu-menu-projects-navigation' => array(
+          'module' => 'menu',
+          'delta' => 'menu-projects-navigation',
+          'region' => 'help',
+          'weight' => '-10',
+        ),
+      ),
+    ),
+  );
+  $context->condition_mode = 0;
+
+  // Translatables
+  // Included for use with string extractors like potx.
+  t('projects');
+  $export['projects_overview'] = $context;
 
   return $export;
 }

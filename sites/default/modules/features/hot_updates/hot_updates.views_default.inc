@@ -12,10 +12,10 @@ function hot_updates_views_default_views() {
 
   $view = new view();
   $view->name = 'updates';
-  $view->description = '';
+  $view->description = 'News and updates from HOT';
   $view->tag = 'default';
   $view->base_table = 'node';
-  $view->human_name = 'updates';
+  $view->human_name = 'Updates';
   $view->core = 7;
   $view->api_version = '3.0';
   $view->disabled = FALSE; /* Edit this to true to make a default view disabled initially */
@@ -23,7 +23,9 @@ function hot_updates_views_default_views() {
   /* Display: Master */
   $handler = $view->new_display('default', 'Master', 'default');
   $handler->display->display_options['title'] = 'Recent Updates';
-  $handler->display->display_options['use_more_always'] = FALSE;
+  $handler->display->display_options['use_ajax'] = TRUE;
+  $handler->display->display_options['use_more_always'] = TRUE;
+  $handler->display->display_options['use_more_text'] = 'More updates';
   $handler->display->display_options['access']['type'] = 'perm';
   $handler->display->display_options['cache']['type'] = 'none';
   $handler->display->display_options['query']['type'] = 'views_query';
@@ -102,16 +104,21 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['filters']['status_extra']['table'] = 'node';
   $handler->display->display_options['filters']['status_extra']['field'] = 'status_extra';
 
-  /* Display: Page */
-  $handler = $view->new_display('page', 'Page', 'page');
+  /* Display: All updates page */
+  $handler = $view->new_display('page', 'All updates page', 'updates_all_page');
   $handler->display->display_options['defaults']['header'] = FALSE;
+  /* Header: Global: Unfiltered text */
+  $handler->display->display_options['header']['area_text_custom']['id'] = 'area_text_custom';
+  $handler->display->display_options['header']['area_text_custom']['table'] = 'views';
+  $handler->display->display_options['header']['area_text_custom']['field'] = 'area_text_custom';
+  $handler->display->display_options['header']['area_text_custom']['content'] = '<a href="/feed/rss2" class="feed-icon" title="Subscribe to Recent Updates"><img src="http://dev-d7-hot.gotpantheon.com/misc/feed.png" width="16" height="16" alt="Subscribe to Recent Updates" /></a>';
   $handler->display->display_options['path'] = 'updates';
   $handler->display->display_options['menu']['type'] = 'normal';
   $handler->display->display_options['menu']['title'] = 'Updates';
   $handler->display->display_options['menu']['name'] = 'main-menu';
 
   /* Display: All updates feed */
-  $handler = $view->new_display('feed', 'All updates feed', 'feed');
+  $handler = $view->new_display('feed', 'All updates feed', 'updates_all_feed');
   $handler->display->display_options['defaults']['title'] = FALSE;
   $handler->display->display_options['title'] = 'Recent Updates';
   $handler->display->display_options['pager']['type'] = 'some';
@@ -121,20 +128,39 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['defaults']['header'] = FALSE;
   $handler->display->display_options['path'] = 'feed';
   $handler->display->display_options['displays'] = array(
-    'default' => 'default',
-    'page' => 'page',
+    'updates_all_block' => 'updates_all_block',
+    'default' => 0,
+    'updates_all_page' => 0,
+    'updates_project_block' => 0,
   );
   $handler->display->display_options['sitename_title'] = 1;
 
-  /* Display: Home Block */
-  $handler = $view->new_display('block', 'Home Block', 'block');
+  /* Display: All updates block */
+  $handler = $view->new_display('block', 'All updates block', 'updates_all_block');
+  $handler->display->display_options['defaults']['use_more'] = FALSE;
+  $handler->display->display_options['use_more'] = TRUE;
+  $handler->display->display_options['defaults']['use_more_always'] = FALSE;
+  $handler->display->display_options['defaults']['use_more_always'] = FALSE;
+  $handler->display->display_options['use_more_always'] = TRUE;
+  $handler->display->display_options['defaults']['use_more_text'] = FALSE;
+  $handler->display->display_options['use_more_text'] = 'More updates';
   $handler->display->display_options['defaults']['pager'] = FALSE;
   $handler->display->display_options['pager']['type'] = 'some';
   $handler->display->display_options['pager']['options']['items_per_page'] = '3';
   $handler->display->display_options['defaults']['header'] = FALSE;
+  $handler->display->display_options['block_title'] = array(
+    'more_link' => 0,
+    'feed_icon' => 1,
+    'wrapper' => array(
+      'use' => 0,
+      'element' => 'div',
+      'custom_class' => 0,
+      'classes' => '',
+    ),
+  );
 
-  /* Display: Updates of project block */
-  $handler = $view->new_display('block', 'Updates of project block', 'block_1');
+  /* Display: Project updates block */
+  $handler = $view->new_display('block', 'Project updates block', 'updates_project_block');
   $handler->display->display_options['defaults']['pager'] = FALSE;
   $handler->display->display_options['pager']['type'] = 'full';
   $handler->display->display_options['pager']['options']['items_per_page'] = '5';
@@ -157,9 +183,19 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['arguments']['field_update_project_nid']['validate_options']['types'] = array(
     'project' => 'project',
   );
+  $handler->display->display_options['block_title'] = array(
+    'more_link' => 0,
+    'feed_icon' => 1,
+    'wrapper' => array(
+      'use' => 0,
+      'element' => 'div',
+      'custom_class' => 0,
+      'classes' => '',
+    ),
+  );
 
   /* Display: Project updates feed */
-  $handler = $view->new_display('feed', 'Project updates feed', 'feed_1');
+  $handler = $view->new_display('feed', 'Project updates feed', 'updates_project_feed');
   $handler->display->display_options['pager']['type'] = 'some';
   $handler->display->display_options['style_plugin'] = 'rss';
   $handler->display->display_options['row_plugin'] = 'node_rss';
@@ -178,9 +214,15 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['arguments']['field_update_project_nid']['specify_validation'] = TRUE;
   $handler->display->display_options['arguments']['field_update_project_nid']['validate']['type'] = 'node';
   $handler->display->display_options['arguments']['field_update_project_nid']['validate_options']['types'] = array(
-    'update' => 'update',
+    'project' => 'project',
   );
   $handler->display->display_options['path'] = 'project/%/updates/feed';
+  $handler->display->display_options['displays'] = array(
+    'updates_project_block' => 'updates_project_block',
+    'default' => 0,
+    'updates_all_page' => 0,
+    'updates_all_block' => 0,
+  );
   $export['updates'] = $view;
 
   return $export;

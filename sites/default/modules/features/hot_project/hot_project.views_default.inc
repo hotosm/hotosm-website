@@ -12,10 +12,10 @@ function hot_project_views_default_views() {
 
   $view = new view();
   $view->name = 'project';
-  $view->description = '';
+  $view->description = 'HOT projects overviews and featured project';
   $view->tag = 'default';
   $view->base_table = 'node';
-  $view->human_name = 'project';
+  $view->human_name = 'Projects';
   $view->core = 7;
   $view->api_version = '3.0';
   $view->disabled = FALSE; /* Edit this to true to make a default view disabled initially */
@@ -66,6 +66,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['view_node']['label'] = '';
   $handler->display->display_options['fields']['view_node']['exclude'] = TRUE;
   $handler->display->display_options['fields']['view_node']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['view_node']['text'] = 'Read more';
   /* Field: Global: Custom text */
   $handler->display->display_options['fields']['nothing']['id'] = 'nothing';
   $handler->display->display_options['fields']['nothing']['table'] = 'views';
@@ -93,47 +94,8 @@ function hot_project_views_default_views() {
     'project' => 'project',
   );
 
-  /* Display: Front Page */
-  $handler = $view->new_display('page', 'Front Page', 'page');
-  $handler->display->display_options['defaults']['header'] = FALSE;
-  $handler->display->display_options['defaults']['footer'] = FALSE;
-  /* Footer: Global: Text area */
-  $handler->display->display_options['footer']['area']['id'] = 'area';
-  $handler->display->display_options['footer']['area']['table'] = 'views';
-  $handler->display->display_options['footer']['area']['field'] = 'area';
-  $handler->display->display_options['footer']['area']['content'] = 'The Humanitarian OpenStreetMap Team [H.O.T.] is a new initiative to apply the principles of open source and open data sharing towards humanitarian response and economic development.';
-  $handler->display->display_options['footer']['area']['format'] = '2';
-  $handler->display->display_options['defaults']['sorts'] = FALSE;
-  /* Sort criterion: Content: Updated date */
-  $handler->display->display_options['sorts']['changed']['id'] = 'changed';
-  $handler->display->display_options['sorts']['changed']['table'] = 'node';
-  $handler->display->display_options['sorts']['changed']['field'] = 'changed';
-  $handler->display->display_options['sorts']['changed']['order'] = 'DESC';
-  $handler->display->display_options['defaults']['filter_groups'] = FALSE;
-  $handler->display->display_options['defaults']['filters'] = FALSE;
-  /* Filter criterion: Content: Published */
-  $handler->display->display_options['filters']['status']['id'] = 'status';
-  $handler->display->display_options['filters']['status']['table'] = 'node';
-  $handler->display->display_options['filters']['status']['field'] = 'status';
-  $handler->display->display_options['filters']['status']['value'] = 1;
-  $handler->display->display_options['filters']['status']['group'] = 1;
-  $handler->display->display_options['filters']['status']['expose']['operator'] = FALSE;
-  /* Filter criterion: Content: Type */
-  $handler->display->display_options['filters']['type']['id'] = 'type';
-  $handler->display->display_options['filters']['type']['table'] = 'node';
-  $handler->display->display_options['filters']['type']['field'] = 'type';
-  $handler->display->display_options['filters']['type']['value'] = array(
-    'project' => 'project',
-  );
-  /* Filter criterion: Content: Promoted to front page */
-  $handler->display->display_options['filters']['promote']['id'] = 'promote';
-  $handler->display->display_options['filters']['promote']['table'] = 'node';
-  $handler->display->display_options['filters']['promote']['field'] = 'promote';
-  $handler->display->display_options['filters']['promote']['value'] = '1';
-  $handler->display->display_options['path'] = 'front';
-
-  /* Display: Front Block */
-  $handler = $view->new_display('block', 'Front Block', 'block');
+  /* Display: Projects Overview Block */
+  $handler = $view->new_display('block', 'Projects Overview Block', 'projects_overview_block');
   $handler->display->display_options['defaults']['title'] = FALSE;
   $handler->display->display_options['title'] = 'Our Projects';
   $handler->display->display_options['defaults']['use_more'] = FALSE;
@@ -170,8 +132,8 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['title']['alter']['ellipsis'] = FALSE;
   $handler->display->display_options['fields']['title']['element_label_colon'] = FALSE;
 
-  /* Display: Project Page */
-  $handler = $view->new_display('page', 'Project Page', 'page_1');
+  /* Display: Projects Overview Page */
+  $handler = $view->new_display('page', 'Projects Overview Page', 'projects_overview_page');
   $handler->display->display_options['defaults']['title'] = FALSE;
   $handler->display->display_options['title'] = 'Projects';
   $handler->display->display_options['defaults']['pager'] = FALSE;
@@ -214,14 +176,17 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['body']['alter']['trim'] = TRUE;
   $handler->display->display_options['fields']['body']['element_label_colon'] = FALSE;
   $handler->display->display_options['path'] = 'projects';
+
+  /* Display: Featured Project Block */
+  $handler = $view->new_display('block', 'Featured Project Block', 'projects_featured_block');
   $export['project'] = $view;
 
   $view = new view();
   $view->name = 'project_ol_map';
-  $view->description = '';
+  $view->description = 'Maps for HOT projects';
   $view->tag = 'default';
   $view->base_table = 'node';
-  $view->human_name = 'Project OL map';
+  $view->human_name = 'Project map';
   $view->core = 7;
   $view->api_version = '3.0';
   $view->disabled = FALSE; /* Edit this to true to make a default view disabled initially */
