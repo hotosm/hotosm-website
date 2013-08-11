@@ -1,12 +1,16 @@
 <?php
+/**
+ * @file
+ * hot_project.context.inc
+ */
 
 /**
- * Implementation of hook_context_default_contexts().
+ * Implements hook_context_default_contexts().
  */
 function hot_project_context_default_contexts() {
   $export = array();
 
-  $context = new stdClass;
+  $context = new stdClass();
   $context->disabled = FALSE; /* Edit this to true to make a default context disabled initially */
   $context->api_version = 3;
   $context->name = 'project_node';
@@ -25,23 +29,23 @@ function hot_project_context_default_contexts() {
   $context->reactions = array(
     'block' => array(
       'blocks' => array(
-        'views-updates-block_2' => array(
+        'views-updates-block_1' => array(
           'module' => 'views',
-          'delta' => 'updates-block_2',
+          'delta' => 'updates-block_1',
           'region' => 'content',
-          'weight' => 0,
-        ),
-        'views-project_ol_map-block_2' => array(
-          'module' => 'views',
-          'delta' => 'project_ol_map-block_2',
-          'region' => 'right',
-          'weight' => 0,
+          'weight' => '-10',
         ),
         'views-project_ol_map-block_1' => array(
           'module' => 'views',
           'delta' => 'project_ol_map-block_1',
-          'region' => 'right',
-          'weight' => 1,
+          'region' => 'sidebar_second',
+          'weight' => '-10',
+        ),
+        'views-project_ol_map-block_2' => array(
+          'module' => 'views',
+          'delta' => 'project_ol_map-block_2',
+          'region' => 'sidebar_second',
+          'weight' => '-9',
         ),
       ),
     ),

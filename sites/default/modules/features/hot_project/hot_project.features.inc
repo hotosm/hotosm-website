@@ -1,108 +1,142 @@
 <?php
+/**
+ * @file
+ * hot_project.features.inc
+ */
 
 /**
- * Implementation of hook_ctools_plugin_api().
+ * Implements hook_ctools_plugin_api().
  */
-function hot_project_ctools_plugin_api() {
-  list($module, $api) = func_get_args();
+function hot_project_ctools_plugin_api($module = NULL, $api = NULL) {
   if ($module == "context" && $api == "context") {
-    return array("version" => 3);
+    return array("version" => "3");
   }
-  elseif ($module == "openlayers" && $api == "openlayers_presets") {
-    return array("version" => 1);
+  if ($module == "openlayers" && $api == "openlayers_maps") {
+    return array("version" => "1");
   }
 }
 
 /**
- * Implementation of hook_imagecache_default_presets().
+ * Implements hook_views_api().
  */
-function hot_project_imagecache_default_presets() {
-  $items = array(
-    'featured_project' => array(
-      'presetname' => 'featured_project',
-      'actions' => array(
-        '0' => array(
-          'weight' => '0',
-          'module' => 'imagecache',
-          'action' => 'imagecache_scale_and_crop',
-          'data' => array(
-            'width' => '510px',
-            'height' => '300px',
-          ),
+function hot_project_views_api($module = NULL, $api = NULL) {
+  return array("api" => "3.0");
+}
+
+/**
+ * Implements hook_image_default_styles().
+ */
+function hot_project_image_default_styles() {
+  $styles = array();
+
+  // Exported image style: featured_project.
+  $styles['featured_project'] = array(
+    'name' => 'featured_project',
+    'label' => 'featured_project',
+    'effects' => array(
+      1 => array(
+        'label' => 'Scale and crop',
+        'help' => 'Scale and crop will maintain the aspect-ratio of the original image, then crop the larger dimension. This is most useful for creating perfectly square thumbnails without stretching the image.',
+        'effect callback' => 'image_scale_and_crop_effect',
+        'dimensions callback' => 'image_resize_dimensions',
+        'form callback' => 'image_resize_form',
+        'summary theme' => 'image_resize_summary',
+        'module' => 'image',
+        'name' => 'image_scale_and_crop',
+        'data' => array(
+          'width' => 510,
+          'height' => 330,
         ),
-      ),
-    ),
-    'mini_project_image' => array(
-      'presetname' => 'mini_project_image',
-      'actions' => array(
-        '0' => array(
-          'weight' => '0',
-          'module' => 'imagecache',
-          'action' => 'imagecache_scale_and_crop',
-          'data' => array(
-            'width' => '50px',
-            'height' => '50px',
-          ),
-        ),
-      ),
-    ),
-    'project_landing' => array(
-      'presetname' => 'project_landing',
-      'actions' => array(
-        '0' => array(
-          'weight' => '0',
-          'module' => 'imagecache',
-          'action' => 'imagecache_scale_and_crop',
-          'data' => array(
-            'width' => '180',
-            'height' => '180',
-          ),
-        ),
-      ),
-    ),
-    'project_page' => array(
-      'presetname' => 'project_page',
-      'actions' => array(
-        '0' => array(
-          'weight' => '0',
-          'module' => 'imagecache',
-          'action' => 'imagecache_scale_and_crop',
-          'data' => array(
-            'width' => '250px',
-            'height' => '250px',
-          ),
-        ),
+        'weight' => 1,
       ),
     ),
   );
-  return $items;
+
+  // Exported image style: mini_project_image.
+  $styles['mini_project_image'] = array(
+    'name' => 'mini_project_image',
+    'label' => 'mini_project_image',
+    'effects' => array(
+      2 => array(
+        'label' => 'Scale and crop',
+        'help' => 'Scale and crop will maintain the aspect-ratio of the original image, then crop the larger dimension. This is most useful for creating perfectly square thumbnails without stretching the image.',
+        'effect callback' => 'image_scale_and_crop_effect',
+        'dimensions callback' => 'image_resize_dimensions',
+        'form callback' => 'image_resize_form',
+        'summary theme' => 'image_resize_summary',
+        'module' => 'image',
+        'name' => 'image_scale_and_crop',
+        'data' => array(
+          'width' => 50,
+          'height' => 50,
+        ),
+        'weight' => 1,
+      ),
+    ),
+  );
+
+  // Exported image style: project_landing.
+  $styles['project_landing'] = array(
+    'name' => 'project_landing',
+    'label' => 'project_landing',
+    'effects' => array(
+      3 => array(
+        'label' => 'Scale and crop',
+        'help' => 'Scale and crop will maintain the aspect-ratio of the original image, then crop the larger dimension. This is most useful for creating perfectly square thumbnails without stretching the image.',
+        'effect callback' => 'image_scale_and_crop_effect',
+        'dimensions callback' => 'image_resize_dimensions',
+        'form callback' => 'image_resize_form',
+        'summary theme' => 'image_resize_summary',
+        'module' => 'image',
+        'name' => 'image_scale_and_crop',
+        'data' => array(
+          'width' => 180,
+          'height' => 180,
+        ),
+        'weight' => 1,
+      ),
+    ),
+  );
+
+  // Exported image style: project_page.
+  $styles['project_page'] = array(
+    'name' => 'project_page',
+    'label' => 'project_page',
+    'effects' => array(
+      4 => array(
+        'label' => 'Scale and crop',
+        'help' => 'Scale and crop will maintain the aspect-ratio of the original image, then crop the larger dimension. This is most useful for creating perfectly square thumbnails without stretching the image.',
+        'effect callback' => 'image_scale_and_crop_effect',
+        'dimensions callback' => 'image_resize_dimensions',
+        'form callback' => 'image_resize_form',
+        'summary theme' => 'image_resize_summary',
+        'module' => 'image',
+        'name' => 'image_scale_and_crop',
+        'data' => array(
+          'width' => 250,
+          'height' => 250,
+        ),
+        'weight' => 1,
+      ),
+    ),
+  );
+
+  return $styles;
 }
 
 /**
- * Implementation of hook_node_info().
+ * Implements hook_node_info().
  */
 function hot_project_node_info() {
   $items = array(
     'project' => array(
       'name' => t('Project'),
-      'module' => 'features',
+      'base' => 'node_content',
       'description' => '',
       'has_title' => '1',
       'title_label' => t('Title'),
-      'has_body' => '1',
-      'body_label' => t('Body'),
-      'min_word_count' => '0',
       'help' => '',
     ),
   );
   return $items;
-}
-
-/**
- * Implementation of hook_views_api().
- */
-function hot_project_views_api() {
-  return array(
-    'api' => '2',
-  );
 }

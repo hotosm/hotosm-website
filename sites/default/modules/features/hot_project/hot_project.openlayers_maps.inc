@@ -1,18 +1,22 @@
 <?php
+/**
+ * @file
+ * hot_project.openlayers_maps.inc
+ */
 
 /**
- * Implementation of hook_openlayers_presets().
+ * Implements hook_openlayers_maps().
  */
-function hot_project_openlayers_presets() {
+function hot_project_openlayers_maps() {
   $export = array();
 
-  $openlayers_presets = new stdClass;
-  $openlayers_presets->disabled = FALSE; /* Edit this to true to make a default openlayers_presets disabled initially */
-  $openlayers_presets->api_version = 1;
-  $openlayers_presets->name = 'project_map';
-  $openlayers_presets->title = 'Project Location';
-  $openlayers_presets->description = 'preset for project node pages';
-  $openlayers_presets->data = array(
+  $openlayers_maps = new stdClass();
+  $openlayers_maps->disabled = FALSE; /* Edit this to true to make a default openlayers_maps disabled initially */
+  $openlayers_maps->api_version = 1;
+  $openlayers_maps->name = 'project_map';
+  $openlayers_maps->title = 'Project Location';
+  $openlayers_maps->description = 'preset for project node pages';
+  $openlayers_maps->data = array(
     'width' => '250px',
     'height' => '250px',
     'image_path' => '',
@@ -59,7 +63,7 @@ function hot_project_openlayers_presets() {
       'temporary' => 'default',
     ),
   );
-  $export['project_map'] = $openlayers_presets;
+  $export['project_map'] = $openlayers_maps;
 
   return $export;
 }
