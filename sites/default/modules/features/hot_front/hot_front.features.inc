@@ -1,11 +1,14 @@
 <?php
+/**
+ * @file
+ * hot_front.features.inc
+ */
 
 /**
- * Implementation of hook_ctools_plugin_api().
+ * Implements hook_ctools_plugin_api().
  */
-function hot_front_ctools_plugin_api() {
-  list($module, $api) = func_get_args();
+function hot_front_ctools_plugin_api($module = NULL, $api = NULL) {
   if ($module == "context" && $api == "context") {
-    return array("version" => 3);
+    return array("version" => "3");
   }
 }

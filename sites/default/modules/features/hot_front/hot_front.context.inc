@@ -1,12 +1,16 @@
 <?php
+/**
+ * @file
+ * hot_front.context.inc
+ */
 
 /**
- * Implementation of hook_context_default_contexts().
+ * Implements hook_context_default_contexts().
  */
 function hot_front_context_default_contexts() {
   $export = array();
 
-  $context = new stdClass;
+  $context = new stdClass();
   $context->disabled = FALSE; /* Edit this to true to make a default context disabled initially */
   $context->api_version = 3;
   $context->name = 'front';
@@ -15,24 +19,24 @@ function hot_front_context_default_contexts() {
   $context->conditions = array(
     'views' => array(
       'values' => array(
-        'project:page_1' => 'project:page_1',
+        'project:page' => 'project:page',
       ),
     ),
   );
   $context->reactions = array(
     'block' => array(
       'blocks' => array(
-        'views-updates-block_1' => array(
+        'views-updates-block' => array(
           'module' => 'views',
-          'delta' => 'updates-block_1',
-          'region' => 'content',
-          'weight' => 0,
+          'delta' => 'updates-block',
+          'region' => 'triptych_first',
+          'weight' => '-10',
         ),
-        'views-project-block_1' => array(
+        'views-project-block' => array(
           'module' => 'views',
-          'delta' => 'project-block_1',
-          'region' => 'content',
-          'weight' => 1,
+          'delta' => 'project-block',
+          'region' => 'triptych_first',
+          'weight' => '-9',
         ),
       ),
     ),
