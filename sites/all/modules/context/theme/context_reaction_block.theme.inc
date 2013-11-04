@@ -121,11 +121,6 @@ function template_preprocess_context_block_browser(&$vars) {
  * Preprocessor for theme('context_block_browser_item').
  */
 function template_preprocess_context_block_browser_item(&$vars) {
-  static $added = array();
   $vars['bid'] = $vars['block']->bid;
   $vars['info'] = check_plain($vars['block']->info);
-  if (empty($added[$vars['bid']])) {
-    drupal_add_js(array('contextBlockEditor' => array('block_tokens' => array($vars['bid'] => drupal_get_token($vars['bid'])))), 'setting');
-    $added[$vars['bid']] = TRUE;
-  }
 }

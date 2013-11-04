@@ -58,7 +58,7 @@ class context_reaction_block extends context_reaction {
       '#tree' => TRUE,
       '#theme' => 'context_block_regions_form',
     );
-    foreach (system_region_list($theme_key, REGIONS_VISIBLE) as $region => $label) {
+    foreach ($this->system_region_list($theme_key, REGIONS_VISIBLE) as $region => $label) {
       $form['blocks'][$region] = array(
         '#type' => 'item',
         '#title' => $label,
@@ -215,7 +215,7 @@ class context_reaction_block extends context_reaction {
     }
 
     // Populate all block regions
-    $all_regions = system_region_list($theme);
+    $all_regions = $this->system_region_list($theme);
 
     // Load all region content assigned via blocks.
     foreach (array_keys($all_regions) as $region) {
@@ -255,7 +255,7 @@ class context_reaction_block extends context_reaction {
    */
   protected function is_enabled_region($region) {
     global $theme;
-    $regions = array_keys(system_region_list($theme));
+    $regions = array_keys($this->system_region_list($theme));
     return in_array($region, $regions, TRUE);
   }
 
@@ -290,7 +290,7 @@ class context_reaction_block extends context_reaction {
       return FALSE;
     }
     // Check that this region is not hidden
-    $visible = system_region_list($theme, REGIONS_VISIBLE);
+    $visible = $this->system_region_list($theme, REGIONS_VISIBLE);
     return $requirements && $this->is_enabled_region($region) && isset($visible[$region]);
   }
 
@@ -328,7 +328,7 @@ class context_reaction_block extends context_reaction {
          context_isset('context_ui', 'context_ui_editor_present'))
     ) {
       global $theme;
-      $regions = system_region_list($theme);
+      $regions = $this->system_region_list($theme);
       $name = isset($regions[$region]) ? $regions[$region] : $region;
       // The negative weight + sorted will push our region marker to the top of the region
       $build['context'] = array(
@@ -388,13 +388,18 @@ class context_reaction_block extends context_reaction {
       }
       
       $this->is_editable_check($context_blocks);
+      global $theme;
+      $active_regions = $this->system_region_list($theme);
       foreach ($context_blocks as $r => $blocks) {
-        $context_blocks[$r] = _block_render_blocks($blocks);
+        //only render blocks in an active region
+        if (array_key_exists($r, $active_regions)) {
+          $context_blocks[$r] = _block_render_blocks($blocks);
 
-        // Make blocks editable if allowed.
-        if ($this->is_editable_region($r)) {
-          foreach ($context_blocks[$r] as $key => $block) {
-            $context_blocks[$r][$key] = $this->editable_block($block);
+          // Make blocks editable if allowed.
+          if ($this->is_editable_region($r)) {
+            foreach ($context_blocks[$r] as $key => $block) {
+              $context_blocks[$r][$key] = $this->editable_block($block);
+            }
           }
         }
 
@@ -514,7 +519,12 @@ class context_reaction_block extends context_reaction {
         $result = db_select('block')
           ->fields('block')
           ->condition('theme', $theme_key)
-          ->execute();
+          ->execute()
+          ->fetchAllAssoc('bid');
+
+        drupal_alter('block_list', $result);
+        drupal_alter('context_block_list', $result);
+
         foreach ($result as $row) {
           if (isset($block_info["{$row->module}-{$row->delta}"])) {
             $block_info["{$row->module}-{$row->delta}"] = (object) array_merge((array) $row, (array) $block_info["{$row->module}-{$row->delta}"]);
@@ -576,50 +586,9 @@ class context_reaction_block extends context_reaction {
     if (function_exists('json_decode')) {
       return json_decode($json, $assoc);
     }
-    return context_reaction_block::_json_decode($json);
-  }
-
-  /**
-   * From http://www.php.net/manual/en/function.json-decode.php#91216
-   * with modifications for consistency with output of json_decode().
-   *
-   * Original author: walidator.info 2009.
-   */
-  static function _json_decode($json) {
-    $comment = FALSE;
-    $out = '$x = ';
-    for ($i=0; $i < strlen($json); $i++) {
-      if (!$comment) {
-        switch ($json[$i]) {
-          case '{':
-            $out .= ' (object) array(';
-            break;
-          case '}':
-            $out .= ')';
-            break;
-          case '[':
-            $out .= ' array(';
-            break;
-          case ']':
-            $out .= ')';
-            break;
-          case ':';
-            $out .= '=>';
-            break;
-          default:
-            $out .= $json[$i];
-            break;
-        }
-      }
-      else {
-        $out .= $json[$i];
-      }
-      if ($json[$i] == '"') {
-        $comment = !$comment;
-      }
+    else {
+      watchdog('context', 'Please upgrade your PHP version to one that supports json_decode.');
     }
-    eval($out . ';');
-    return $x;
   }
 
   /**
@@ -640,7 +609,7 @@ class context_reaction_block extends context_reaction {
       list($bid, $context) = explode(',', $param);
       list($module, $delta) = explode('-', $bid, 2);
       // Check token to make sure user has access to block.
-      if (empty($_GET['context_token']) || $_GET['context_token'] != drupal_get_token($bid)) {
+      if (!(user_access('administer contexts') || user_access('context ajax block access') || $this->context_block_ajax_rendering_allowed($bid))) {
         echo drupal_json_encode(array('status' => 0));
         exit;
       }
@@ -669,5 +638,35 @@ class context_reaction_block extends context_reaction {
     }
     echo drupal_json_encode(array('status' => 0));
     drupal_exit();
+  }
+
+  /**
+   * Provide caching for system_region_list since it can get called
+   * frequently. Evaluate for removal once https://drupal.org/node/1873450
+   * lands or system_region_list is otherwise cached in core
+   */
+  protected function system_region_list($theme_key, $show = REGIONS_ALL) {
+    static $cache = array();
+    if (!isset($cache[$theme_key])) {
+      $cache[$theme_key] = array();
+    }
+    if (!isset($cache[$theme_key][$show])) {
+      $cache[$theme_key][$show] = system_region_list($theme_key, $show);
+    }
+    return $cache[$theme_key][$show];
+  }
+
+  /**
+   * Allow modules to selectively allow ajax rendering of a specific block
+   */
+  private function context_block_ajax_rendering_allowed($bid) {
+    $allowed = FALSE;
+    foreach (module_invoke_all('context_allow_ajax_block_access', $bid) as $module_allow) {
+      $allowed = $allow || $module_allow;
+      if ($allowed) {
+        break;
+      }
+    }
+    return $allowed;
   }
 }
