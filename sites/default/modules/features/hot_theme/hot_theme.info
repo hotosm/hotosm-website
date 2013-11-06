@@ -1,0 +1,14 @@
+name = HOT theme
+core = 7.x
+package = Features
+version = 7.x-2.0
+project = hot_theme
+dependencies[] = ctools
+dependencies[] = strongarm
+features[ctools][] = strongarm:strongarm:1
+features[features_api][] = api:2
+features[variable][] = admin_theme
+features[variable][] = theme_at_hot_files_directory
+features[variable][] = theme_at_hot_settings
+features[variable][] = theme_default
+features[variable][] = theme_settings

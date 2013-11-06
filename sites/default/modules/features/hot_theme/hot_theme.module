@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HOT theme feature.
+ */
+
+include_once 'hot_theme.features.inc';
