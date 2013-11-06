@@ -261,8 +261,8 @@ function hot_project_views_default_views() {
   $handler->display->display_options['row_plugin'] = 'fields';
   $handler->display->display_options['defaults']['row_options'] = FALSE;
 
-  /* Display: Project data pane */
-  $handler = $view->new_display('panel_pane', 'Project data pane', 'panel_pane_1');
+  /* Display: Project contact pane */
+  $handler = $view->new_display('panel_pane', 'Project contact pane', 'panel_pane_1');
   $handler->display->display_options['defaults']['fields'] = FALSE;
   /* Field: Content: Contact */
   $handler->display->display_options['fields']['field_contact']['id'] = 'field_contact';
@@ -281,10 +281,10 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['field_image']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['field_image']['click_sort_column'] = 'fid';
   $handler->display->display_options['fields']['field_image']['settings'] = array(
-    'image_style' => 'project_page',
+    'image_style' => '',
     'image_link' => '',
   );
-  $handler->display->display_options['pane_title'] = 'Details for this project';
+  $handler->display->display_options['pane_title'] = 'Contact details for this project';
 
   /* Display: Project map pane */
   $handler = $view->new_display('panel_pane', 'Project map pane', 'panel_pane_2');
