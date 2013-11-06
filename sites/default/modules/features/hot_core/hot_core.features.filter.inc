@@ -75,33 +75,5 @@ function hot_core_filter_default_formats() {
     ),
   );
 
-  // Exported format: PHP code.
-  $formats[3] = array(
-    'format' => 3,
-    'name' => 'PHP code',
-    'cache' => 0,
-    'status' => 1,
-    'weight' => 0,
-    'filters' => array(
-      'php_code' => array(
-        'weight' => 0,
-        'status' => 1,
-        'settings' => array(),
-      ),
-      'filter_autop' => array(
-        'weight' => 10,
-        'status' => 1,
-        'settings' => array(),
-      ),
-      'filter_url' => array(
-        'weight' => 10,
-        'status' => 1,
-        'settings' => array(
-          'filter_url_length' => 72,
-        ),
-      ),
-    ),
-  );
-
   return $formats;
 }

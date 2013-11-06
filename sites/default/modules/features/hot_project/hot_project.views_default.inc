@@ -94,44 +94,6 @@ function hot_project_views_default_views() {
     'project' => 'project',
   );
 
-  /* Display: Projects Overview Block */
-  $handler = $view->new_display('block', 'Projects Overview Block', 'projects_overview_block');
-  $handler->display->display_options['defaults']['title'] = FALSE;
-  $handler->display->display_options['title'] = 'Our Projects';
-  $handler->display->display_options['defaults']['use_more'] = FALSE;
-  $handler->display->display_options['use_more'] = TRUE;
-  $handler->display->display_options['defaults']['use_more_always'] = FALSE;
-  $handler->display->display_options['defaults']['use_more_always'] = FALSE;
-  $handler->display->display_options['use_more_always'] = FALSE;
-  $handler->display->display_options['defaults']['use_more_text'] = FALSE;
-  $handler->display->display_options['use_more_text'] = 'View all projects';
-  $handler->display->display_options['defaults']['link_display'] = FALSE;
-  $handler->display->display_options['link_display'] = 'page_1';
-  $handler->display->display_options['defaults']['pager'] = FALSE;
-  $handler->display->display_options['pager']['type'] = 'some';
-  $handler->display->display_options['pager']['options']['items_per_page'] = '5';
-  $handler->display->display_options['defaults']['header'] = FALSE;
-  $handler->display->display_options['defaults']['fields'] = FALSE;
-  /* Field: Content: Image */
-  $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
-  $handler->display->display_options['fields']['field_image']['table'] = 'field_data_field_image';
-  $handler->display->display_options['fields']['field_image']['field'] = 'field_image';
-  $handler->display->display_options['fields']['field_image']['label'] = '';
-  $handler->display->display_options['fields']['field_image']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['field_image']['click_sort_column'] = 'fid';
-  $handler->display->display_options['fields']['field_image']['settings'] = array(
-    'image_style' => 'mini_project_image',
-    'image_link' => 'content',
-  );
-  /* Field: Content: Title */
-  $handler->display->display_options['fields']['title']['id'] = 'title';
-  $handler->display->display_options['fields']['title']['table'] = 'node';
-  $handler->display->display_options['fields']['title']['field'] = 'title';
-  $handler->display->display_options['fields']['title']['label'] = '';
-  $handler->display->display_options['fields']['title']['alter']['word_boundary'] = FALSE;
-  $handler->display->display_options['fields']['title']['alter']['ellipsis'] = FALSE;
-  $handler->display->display_options['fields']['title']['element_label_colon'] = FALSE;
-
   /* Display: Projects Overview Page */
   $handler = $view->new_display('page', 'Projects Overview Page', 'projects_overview_page');
   $handler->display->display_options['defaults']['title'] = FALSE;
@@ -258,11 +220,6 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['field_bbox']['settings'] = array(
     'data' => 'bounding',
   );
-  /* Sort criterion: Content: Post date */
-  $handler->display->display_options['sorts']['created']['id'] = 'created';
-  $handler->display->display_options['sorts']['created']['table'] = 'node';
-  $handler->display->display_options['sorts']['created']['field'] = 'created';
-  $handler->display->display_options['sorts']['created']['order'] = 'DESC';
   /* Contextual filter: Content: Nid */
   $handler->display->display_options['arguments']['nid']['id'] = 'nid';
   $handler->display->display_options['arguments']['nid']['table'] = 'node';
@@ -281,49 +238,8 @@ function hot_project_views_default_views() {
   $handler->display->display_options['filters']['status']['group'] = 1;
   $handler->display->display_options['filters']['status']['expose']['operator'] = FALSE;
 
-  /* Display: Project Data block */
-  $handler = $view->new_display('block', 'Project Data block', 'block_1');
-  $handler->display->display_options['defaults']['style_plugin'] = FALSE;
-  $handler->display->display_options['style_plugin'] = 'list';
-  $handler->display->display_options['defaults']['style_options'] = FALSE;
-  $handler->display->display_options['defaults']['row_plugin'] = FALSE;
-  $handler->display->display_options['row_plugin'] = 'fields';
-  $handler->display->display_options['defaults']['row_options'] = FALSE;
-  $handler->display->display_options['defaults']['fields'] = FALSE;
-  /* Field: Content: Contact */
-  $handler->display->display_options['fields']['field_contact']['id'] = 'field_contact';
-  $handler->display->display_options['fields']['field_contact']['table'] = 'field_data_field_contact';
-  $handler->display->display_options['fields']['field_contact']['field'] = 'field_contact';
-  /* Field: Content: Project Page */
-  $handler->display->display_options['fields']['field_link']['id'] = 'field_link';
-  $handler->display->display_options['fields']['field_link']['table'] = 'field_data_field_link';
-  $handler->display->display_options['fields']['field_link']['field'] = 'field_link';
-  $handler->display->display_options['fields']['field_link']['click_sort_column'] = 'url';
-  $handler->display->display_options['fields']['field_link']['type'] = 'link_url';
-  /* Field: Content: Image */
-  $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
-  $handler->display->display_options['fields']['field_image']['table'] = 'field_data_field_image';
-  $handler->display->display_options['fields']['field_image']['field'] = 'field_image';
-  $handler->display->display_options['fields']['field_image']['label'] = '';
-  $handler->display->display_options['fields']['field_image']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['field_image']['click_sort_column'] = 'fid';
-  $handler->display->display_options['fields']['field_image']['settings'] = array(
-    'image_style' => 'project_page',
-    'image_link' => '',
-  );
-
-  /* Display: Project Node Map */
-  $handler = $view->new_display('block', 'Project Node Map', 'block_2');
-  $handler->display->display_options['defaults']['style_plugin'] = FALSE;
-  $handler->display->display_options['style_plugin'] = 'openlayers_map';
-  $handler->display->display_options['style_options']['map'] = 'project_map';
-  $handler->display->display_options['defaults']['style_options'] = FALSE;
-  $handler->display->display_options['defaults']['row_plugin'] = FALSE;
-  $handler->display->display_options['defaults']['row_options'] = FALSE;
-  $handler->display->display_options['defaults']['arguments'] = FALSE;
-
-  /* Display: Project BBOX */
-  $handler = $view->new_display('openlayers', 'Project BBOX', 'openlayers_1');
+  /* Display: Project OL data overlay */
+  $handler = $view->new_display('openlayers', 'Project OL data overlay', 'openlayers_1');
   $handler->display->display_options['display_description'] = 'Openlayers Data Overlay';
   $handler->display->display_options['defaults']['style_plugin'] = FALSE;
   $handler->display->display_options['style_plugin'] = 'openlayers_data';
@@ -344,6 +260,42 @@ function hot_project_views_default_views() {
   $handler->display->display_options['defaults']['row_plugin'] = FALSE;
   $handler->display->display_options['row_plugin'] = 'fields';
   $handler->display->display_options['defaults']['row_options'] = FALSE;
+
+  /* Display: Project data pane */
+  $handler = $view->new_display('panel_pane', 'Project data pane', 'panel_pane_1');
+  $handler->display->display_options['defaults']['fields'] = FALSE;
+  /* Field: Content: Contact */
+  $handler->display->display_options['fields']['field_contact']['id'] = 'field_contact';
+  $handler->display->display_options['fields']['field_contact']['table'] = 'field_data_field_contact';
+  $handler->display->display_options['fields']['field_contact']['field'] = 'field_contact';
+  /* Field: Content: Project Page */
+  $handler->display->display_options['fields']['field_link']['id'] = 'field_link';
+  $handler->display->display_options['fields']['field_link']['table'] = 'field_data_field_link';
+  $handler->display->display_options['fields']['field_link']['field'] = 'field_link';
+  $handler->display->display_options['fields']['field_link']['click_sort_column'] = 'url';
+  /* Field: Content: Image */
+  $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
+  $handler->display->display_options['fields']['field_image']['table'] = 'field_data_field_image';
+  $handler->display->display_options['fields']['field_image']['field'] = 'field_image';
+  $handler->display->display_options['fields']['field_image']['label'] = '';
+  $handler->display->display_options['fields']['field_image']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['field_image']['click_sort_column'] = 'fid';
+  $handler->display->display_options['fields']['field_image']['settings'] = array(
+    'image_style' => 'project_page',
+    'image_link' => '',
+  );
+  $handler->display->display_options['pane_title'] = 'Details for this project';
+
+  /* Display: Project map pane */
+  $handler = $view->new_display('panel_pane', 'Project map pane', 'panel_pane_2');
+  $handler->display->display_options['defaults']['style_plugin'] = FALSE;
+  $handler->display->display_options['style_plugin'] = 'openlayers_map';
+  $handler->display->display_options['style_options']['map'] = 'project_map';
+  $handler->display->display_options['defaults']['style_options'] = FALSE;
+  $handler->display->display_options['defaults']['row_plugin'] = FALSE;
+  $handler->display->display_options['defaults']['row_options'] = FALSE;
+  $handler->display->display_options['defaults']['arguments'] = FALSE;
+  $handler->display->display_options['pane_title'] = 'Map for this project';
   $export['project_ol_map'] = $view;
 
   return $export;

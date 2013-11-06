@@ -23,18 +23,7 @@ function hot_core_context_default_contexts() {
       ),
     ),
   );
-  $context->reactions = array(
-    'block' => array(
-      'blocks' => array(
-        'views-project-projects_overview_block' => array(
-          'module' => 'views',
-          'delta' => 'project-projects_overview_block',
-          'region' => 'sidebar_second',
-          'weight' => '-10',
-        ),
-      ),
-    ),
-  );
+  $context->reactions = array();
   $context->condition_mode = 0;
 
   // Translatables

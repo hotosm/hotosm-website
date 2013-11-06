@@ -22,7 +22,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'text',
         'settings' => array(),
         'type' => 'text_default',
-        'weight' => -1,
+        'weight' => 3,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -83,9 +83,13 @@ function hot_project_field_default_field_instances() {
     'display' => array(
       'default' => array(
         'label' => 'hidden',
-        'settings' => array(),
-        'type' => 'hidden',
-        'weight' => 1,
+        'module' => 'geofield',
+        'settings' => array(
+          'data' => 'full',
+          'map_preset' => 'geofield_formatter_map',
+        ),
+        'type' => 'geofield_openlayers',
+        'weight' => 13,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -191,7 +195,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'text',
         'settings' => array(),
         'type' => 'text_default',
-        'weight' => -3,
+        'weight' => 1,
       ),
       'feature' => array(
         'label' => 'above',
@@ -273,9 +277,13 @@ function hot_project_field_default_field_instances() {
     'display' => array(
       'default' => array(
         'label' => 'hidden',
-        'settings' => array(),
-        'type' => 'hidden',
-        'weight' => 0,
+        'module' => 'image',
+        'settings' => array(
+          'image_link' => '',
+          'image_style' => 'project_page',
+        ),
+        'type' => 'image',
+        'weight' => 12,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -371,7 +379,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'link',
         'settings' => array(),
         'type' => 'link_default',
-        'weight' => -2,
+        'weight' => 2,
       ),
       'feature' => array(
         'label' => 'above',
@@ -464,9 +472,8 @@ function hot_project_field_default_field_instances() {
     'display' => array(
       'default' => array(
         'label' => 'hidden',
-        'module' => 'file',
         'settings' => array(),
-        'type' => 'file_table',
+        'type' => 'hidden',
         'weight' => 0,
       ),
       'feature' => array(
