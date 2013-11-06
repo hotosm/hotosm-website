@@ -22,17 +22,16 @@ function hot_updates_field_default_field_instances() {
         'module' => 'text',
         'settings' => array(),
         'type' => 'text_default',
-        'weight' => 0,
+        'weight' => 11,
       ),
       'teaser' => array(
         'label' => 'hidden',
         'module' => 'text',
         'settings' => array(
-          'trim_length' => 600,
+          'trim_length' => 500,
         ),
-        'trim_length' => 800,
         'type' => 'text_summary_or_trimmed',
-        'weight' => 0,
+        'weight' => 2,
       ),
     ),
     'entity_type' => 'node',
@@ -96,10 +95,9 @@ function hot_updates_field_default_field_instances() {
       ),
       'teaser' => array(
         'label' => 'inline',
-        'module' => 'node_reference',
         'settings' => array(),
-        'type' => 'node_reference_default',
-        'weight' => -4,
+        'type' => 'hidden',
+        'weight' => 9,
       ),
       'token' => array(
         'label' => 'inline',
@@ -147,10 +145,9 @@ function hot_updates_field_default_field_instances() {
       ),
       'teaser' => array(
         'label' => 'above',
-        'module' => 'taxonomy',
         'settings' => array(),
-        'type' => 'taxonomy_term_reference_link',
-        'weight' => 10,
+        'type' => 'hidden',
+        'weight' => 8,
       ),
     ),
     'entity_type' => 'node',
@@ -167,7 +164,7 @@ function hot_updates_field_default_field_instances() {
         'size' => 60,
       ),
       'type' => 'taxonomy_autocomplete',
-      'weight' => 0,
+      'weight' => 2,
     ),
   );
 
@@ -200,10 +197,9 @@ function hot_updates_field_default_field_instances() {
       ),
       'teaser' => array(
         'label' => 'hidden',
-        'module' => NULL,
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 0,
+        'weight' => 10,
       ),
     ),
     'entity_type' => 'node',

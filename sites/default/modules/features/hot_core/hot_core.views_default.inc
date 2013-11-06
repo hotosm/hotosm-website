@@ -39,6 +39,10 @@ function hot_core_views_default_views() {
   $handler->display->display_options['pager']['options']['items_per_page'] = 1;
   $handler->display->display_options['style_plugin'] = 'default';
   $handler->display->display_options['row_plugin'] = 'fields';
+  $handler->display->display_options['row_options']['inline'] = array(
+    'name' => 'name',
+    'nothing' => 'nothing',
+  );
   /* Field: User: Name */
   $handler->display->display_options['fields']['name']['id'] = 'name';
   $handler->display->display_options['fields']['name']['table'] = 'users';

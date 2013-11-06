@@ -24,6 +24,21 @@ function hot_project_field_default_field_instances() {
         'type' => 'text_default',
         'weight' => -1,
       ),
+      'feature' => array(
+        'label' => 'hidden',
+        'module' => 'text',
+        'settings' => array(
+          'trim_length' => 500,
+        ),
+        'type' => 'text_summary_or_trimmed',
+        'weight' => 5,
+      ),
+      'list' => array(
+        'label' => 'hidden',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 4,
+      ),
       'teaser' => array(
         'label' => 'hidden',
         'module' => 'text',
@@ -72,11 +87,23 @@ function hot_project_field_default_field_instances() {
         'type' => 'hidden',
         'weight' => 1,
       ),
+      'feature' => array(
+        'label' => 'hidden',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 12,
+      ),
       'full' => array(
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
         'weight' => 1,
+      ),
+      'list' => array(
+        'label' => 'hidden',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 12,
       ),
       'print' => array(
         'label' => 'hidden',
@@ -166,12 +193,24 @@ function hot_project_field_default_field_instances() {
         'type' => 'text_default',
         'weight' => -3,
       ),
+      'feature' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
       'full' => array(
         'label' => 'above',
         'module' => 'text',
         'settings' => array(),
         'type' => 'text_default',
         'weight' => -3,
+      ),
+      'list' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 2,
       ),
       'print' => array(
         'label' => 'above',
@@ -238,10 +277,30 @@ function hot_project_field_default_field_instances() {
         'type' => 'hidden',
         'weight' => 0,
       ),
+      'feature' => array(
+        'label' => 'hidden',
+        'module' => 'image',
+        'settings' => array(
+          'image_link' => 'content',
+          'image_style' => 'featured_project',
+        ),
+        'type' => 'image',
+        'weight' => 3,
+      ),
       'full' => array(
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
+        'weight' => 0,
+      ),
+      'list' => array(
+        'label' => 'hidden',
+        'module' => 'image',
+        'settings' => array(
+          'image_link' => 'content',
+          'image_style' => 'mini_project_image',
+        ),
+        'type' => 'image',
         'weight' => 0,
       ),
       'rss' => array(
@@ -314,12 +373,24 @@ function hot_project_field_default_field_instances() {
         'type' => 'link_default',
         'weight' => -2,
       ),
+      'feature' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 1,
+      ),
       'full' => array(
         'label' => 'above',
         'module' => 'link',
         'settings' => array(),
         'type' => 'link_default',
         'weight' => -2,
+      ),
+      'list' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 3,
       ),
       'print' => array(
         'label' => 'above',
@@ -398,12 +469,24 @@ function hot_project_field_default_field_instances() {
         'type' => 'file_table',
         'weight' => 0,
       ),
+      'feature' => array(
+        'label' => 'hidden',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 2,
+      ),
       'full' => array(
         'label' => 'hidden',
         'module' => 'file',
         'settings' => array(),
         'type' => 'file_table',
         'weight' => 0,
+      ),
+      'list' => array(
+        'label' => 'hidden',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 11,
       ),
       'rss' => array(
         'label' => 'hidden',
