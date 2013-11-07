@@ -33,6 +33,15 @@ function hot_project_field_default_field_instances() {
         'type' => 'text_summary_or_trimmed',
         'weight' => 5,
       ),
+      'grid' => array(
+        'label' => 'hidden',
+        'module' => 'text',
+        'settings' => array(
+          'trim_length' => 100,
+        ),
+        'type' => 'text_trimmed',
+        'weight' => 2,
+      ),
       'list' => array(
         'label' => 'hidden',
         'settings' => array(),
@@ -102,6 +111,12 @@ function hot_project_field_default_field_instances() {
         'settings' => array(),
         'type' => 'hidden',
         'weight' => 1,
+      ),
+      'grid' => array(
+        'label' => 'hidden',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 11,
       ),
       'list' => array(
         'label' => 'hidden',
@@ -210,6 +225,12 @@ function hot_project_field_default_field_instances() {
         'type' => 'text_default',
         'weight' => -3,
       ),
+      'grid' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 9,
+      ),
       'list' => array(
         'label' => 'above',
         'settings' => array(),
@@ -299,6 +320,16 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
+        'weight' => 0,
+      ),
+      'grid' => array(
+        'label' => 'hidden',
+        'module' => 'image',
+        'settings' => array(
+          'image_link' => 'content',
+          'image_style' => 'project_landing',
+        ),
+        'type' => 'image',
         'weight' => 0,
       ),
       'list' => array(
@@ -394,6 +425,12 @@ function hot_project_field_default_field_instances() {
         'type' => 'link_default',
         'weight' => -2,
       ),
+      'grid' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 10,
+      ),
       'list' => array(
         'label' => 'above',
         'settings' => array(),
@@ -488,6 +525,12 @@ function hot_project_field_default_field_instances() {
         'settings' => array(),
         'type' => 'file_table',
         'weight' => 0,
+      ),
+      'grid' => array(
+        'label' => 'hidden',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 12,
       ),
       'list' => array(
         'label' => 'hidden',

@@ -56,6 +56,12 @@ function hot_project_ds_field_settings_info() {
       'weight' => '6',
       'label' => 'hidden',
       'format' => 'default',
+      'formatter_settings' => array(
+        'link text' => 'Read more...',
+        'wrapper' => '',
+        'class' => '',
+        'ft' => array(),
+      ),
     ),
   );
   $export['node|project|feature'] = $ds_fieldsetting;

@@ -118,7 +118,10 @@ function hot_project_default_page_manager_handlers() {
     $pane->style = array(
       'settings' => NULL,
     );
-    $pane->css = array();
+    $pane->css = array(
+      'css_id' => '',
+      'css_class' => 'contact',
+    );
     $pane->extras = array();
     $pane->position = 0;
     $pane->locks = array();
@@ -128,7 +131,7 @@ function hot_project_default_page_manager_handlers() {
     $pane->pid = 'new-4';
     $pane->panel = 'two_66_33_second';
     $pane->type = 'views_panes';
-    $pane->subtype = 'project_ol_map-panel_pane_2';
+    $pane->subtype = 'project_ol_map-panel_pane_3';
     $pane->shown = TRUE;
     $pane->access = array();
     $pane->configuration = array();
@@ -142,6 +145,24 @@ function hot_project_default_page_manager_handlers() {
     $pane->locks = array();
     $display->content['new-4'] = $pane;
     $display->panels['two_66_33_second'][1] = 'new-4';
+    $pane = new stdClass();
+    $pane->pid = 'new-5';
+    $pane->panel = 'two_66_33_second';
+    $pane->type = 'views_panes';
+    $pane->subtype = 'project_ol_map-panel_pane_2';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array();
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 2;
+    $pane->locks = array();
+    $display->content['new-5'] = $pane;
+    $display->panels['two_66_33_second'][2] = 'new-5';
   $display->hide_title = PANELS_TITLE_FIXED;
   $display->title_pane = 'new-1';
   $handler->conf['display'] = $display;

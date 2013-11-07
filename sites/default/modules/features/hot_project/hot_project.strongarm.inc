@@ -106,6 +106,9 @@ function hot_project_strongarm() {
       'list' => array(
         'custom_settings' => TRUE,
       ),
+      'grid' => array(
+        'custom_settings' => TRUE,
+      ),
     ),
     'extra_fields' => array(
       'form' => array(),
