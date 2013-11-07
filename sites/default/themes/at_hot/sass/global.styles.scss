@@ -53,13 +53,44 @@ body {
  *   HTML Elements
  * ========================================================================== */
 
-h1 {}
+#h1 {}
 
 
-h2 {}
+h2 {
+
+  font-weight: normal;
+  font-family: $futura;
+  font-size: 1.55em;
+  margin-bottom: .5em;
+
+  &.pane-title {
+    background-color: $light-grey;
+    border-color: $grey;
+    border-style: solid;
+    border-width: 2px 0 1px 0;
+    text-transform: uppercase;
+    font-size: .95em;
+    padding: .5em;
+    margin-left: -10px;
+
+    a {
+      color: $grey;
+    }
+  }
+
+  &.list {
+    line-height: 50px;
+  }
+
+}
 
 
-h3 {}
+
+h3 {
+  font-family: $futura;
+  font-size: 1.3em;
+  margin: 1em 0 0.1em 0;
+}
 
 
 h4 {}
@@ -396,7 +427,9 @@ var {
 /*
  * Generic styles for the more link
  */
-.more-link {}
+.more-link {
+  font-size: 1.1em;
+  }
 
 
 /*
@@ -433,7 +466,41 @@ ul.links {
 /*
  * Standard region wrapper, don't add width to any regions, you will bork the layout - no margin, padding or borders etc
  */
-.region {}
+.region {
+  
+  .feature {
+    .region-two-66-33-second {
+      background-color: $light-grey;
+      border-color: $grey;
+      border-style: solid;
+      border-width: 3px 0 2px 0;
+      font-size: .95em;
+      height: 324px;
+
+      .region-inner {
+        padding: .5em;
+      }
+      
+      .label-above {
+        color: $grey;
+        text-transform: uppercase;
+        font-family: $futura;
+      }
+
+      h3 {
+        font-size: 1.7em;
+        margin: .2em 0 .4em 0;
+      }
+    }
+  }
+
+  .mission {
+    font-family: $futura;
+    font-size: 1.42em;
+    padding: 0 .5em;
+  }
+
+}
 
 
 /*
@@ -517,7 +584,17 @@ ul.links {
 /*
  * Footer region
  */
-.region-footer {}
+.region-footer {
+  background-color: $grey;
+  color: white;
+  font-family: $futura;
+  padding-top: .5em;
+
+
+  a {
+    color: white;
+  }
+}
 
 
 /* =============================================================================
@@ -1161,6 +1238,9 @@ ul.action-links {
 
 .field-name-field-tags {}
 
+.field-name-submitted-by {
+  font-style: italic;
+}
 
 /*
  * Underscores in field name are replaced with dashes
@@ -1447,7 +1527,7 @@ ul.action-links {
  * ========================================================================== */
 
 .node {
-  margin-bottom: 20px;
+  margin-bottom: .3em;
 
   &.node-promoted {}
 
