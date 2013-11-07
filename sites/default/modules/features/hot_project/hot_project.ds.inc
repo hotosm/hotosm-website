@@ -43,7 +43,7 @@ function hot_project_ds_field_settings_info() {
       'format' => 'default',
       'formatter_settings' => array(
         'link' => '1',
-        'wrapper' => 'h3',
+        'wrapper' => 'h2',
         'class' => '',
         'ft' => array(
           'func' => 'theme_ds_field_minimal',
@@ -74,7 +74,7 @@ function hot_project_ds_field_settings_info() {
       'formatter_settings' => array(
         'link' => '1',
         'wrapper' => 'h2',
-        'class' => '',
+        'class' => 'list',
         'ft' => array(),
       ),
     ),
@@ -123,7 +123,14 @@ function hot_project_ds_layout_settings_info() {
       'field_image' => 'two_66_33_second',
       'field_bbox' => 'two_66_33_second',
     ),
-    'classes' => array(),
+    'classes' => array(
+      'layout_class' => array(
+        '' => '',
+      ),
+      'two_66_33_second' => array(
+        'feature' => 'feature',
+      ),
+    ),
     'wrappers' => array(
       'two_66_33_top' => 'div',
       'two_66_33_first' => 'div',
@@ -162,7 +169,14 @@ function hot_project_ds_layout_settings_info() {
       'body' => 'two_66_33_second',
       'node_link' => 'two_66_33_second',
     ),
-    'classes' => array(),
+    'classes' => array(
+      'layout_class' => array(
+        '' => '',
+      ),
+      'two_66_33_second' => array(
+        'feature' => 'feature',
+      ),
+    ),
     'wrappers' => array(
       'two_66_33_top' => 'div',
       'two_66_33_first' => 'div',
@@ -195,7 +209,11 @@ function hot_project_ds_layout_settings_info() {
       'field_image' => 'one_main',
       'title' => 'one_main',
     ),
-    'classes' => array(),
+    'classes' => array(
+      'layout_class' => array(
+        '' => '',
+      ),
+    ),
     'wrappers' => array(
       'one_main' => 'div',
     ),

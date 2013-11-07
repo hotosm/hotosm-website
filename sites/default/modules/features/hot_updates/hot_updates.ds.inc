@@ -50,6 +50,12 @@ function hot_updates_ds_field_settings_info() {
       'weight' => '3',
       'label' => 'hidden',
       'format' => 'default',
+      'formatter_settings' => array(
+        'link text' => 'Read more...',
+        'wrapper' => '',
+        'class' => '',
+        'ft' => array(),
+      ),
     ),
     'submitted_by' => array(
       'weight' => '1',
@@ -124,7 +130,11 @@ function hot_updates_ds_layout_settings_info() {
       'body' => 'one_main',
       'node_link' => 'one_main',
     ),
-    'classes' => array(),
+    'classes' => array(
+      'layout_class' => array(
+        '' => '',
+      ),
+    ),
     'wrappers' => array(
       'one_main' => 'div',
     ),

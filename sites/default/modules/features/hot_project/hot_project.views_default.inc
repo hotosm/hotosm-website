@@ -142,7 +142,6 @@ function hot_project_views_default_views() {
   /* Display: Featured project pane */
   $handler = $view->new_display('panel_pane', 'Featured project pane', 'panel_pane_1');
   $handler->display->display_options['defaults']['title'] = FALSE;
-  $handler->display->display_options['title'] = 'Featured project';
   $handler->display->display_options['defaults']['style_plugin'] = FALSE;
   $handler->display->display_options['style_plugin'] = 'default';
   $handler->display->display_options['defaults']['style_options'] = FALSE;
@@ -186,6 +185,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['row_options']['default_fieldset']['view_mode'] = 'list';
   $handler->display->display_options['defaults']['row_options'] = FALSE;
   $handler->display->display_options['pane_title'] = 'List of projects';
+  $handler->display->display_options['link_to_view'] = '1';
   $export['project'] = $view;
 
   $view = new view();

@@ -229,6 +229,7 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['row_options']['default_fieldset']['view_mode'] = 'teaser';
   $handler->display->display_options['defaults']['row_options'] = FALSE;
   $handler->display->display_options['pane_title'] = 'Recent updates';
+  $handler->display->display_options['link_to_view'] = '1';
 
   /* Display: Project updates pane */
   $handler = $view->new_display('panel_pane', 'Project updates pane', 'panel_pane_2');

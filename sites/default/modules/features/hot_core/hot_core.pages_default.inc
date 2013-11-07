@@ -88,7 +88,10 @@ function hot_core_default_page_manager_pages() {
     $pane->style = array(
       'settings' => NULL,
     );
-    $pane->css = array();
+    $pane->css = array(
+      'css_id' => '',
+      'css_class' => 'list',
+    );
     $pane->extras = array();
     $pane->position = 0;
     $pane->locks = array();
@@ -106,7 +109,10 @@ function hot_core_default_page_manager_pages() {
     $pane->style = array(
       'settings' => NULL,
     );
-    $pane->css = array();
+    $pane->css = array(
+      'css_id' => '',
+      'css_class' => 'feature',
+    );
     $pane->extras = array();
     $pane->position = 0;
     $pane->locks = array();
