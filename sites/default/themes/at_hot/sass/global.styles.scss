@@ -53,7 +53,12 @@ body {
  *   HTML Elements
  * ========================================================================== */
 
-#h1 {}
+h1 {
+  font-family: $futura;
+  color: $red;
+  font-size: 1.84em;
+  font-weight: normal;
+}
 
 
 h2 {
@@ -500,6 +505,20 @@ ul.links {
     padding: 0 .5em;
   }
 
+  .contact {
+    .block-inner {
+      padding: .5em;
+      background-color: $light-grey;
+    }
+
+    .views-field {
+      padding: .2em 0;
+    }
+
+    .views-label {
+      font-weight: bold;
+    }
+  }
 }
 
 
