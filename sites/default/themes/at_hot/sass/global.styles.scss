@@ -1857,7 +1857,7 @@ tbody {}
 
 
 tbody tr {
-  border-top: 1px solid $border;
+  border-top: 0 solid $border;
 }
 
 
@@ -1865,15 +1865,15 @@ tr {
 
   &.odd {
     background: $page;
-  }
+  } 
 
   /* Table row striping */
   &.info,
   &.even,
   &:nth-child(2n+2)  {
     border-bottom: 0;
-    background-color: $ultralight;
-  }
+/*    background-color: $ultralight; */
+  } 
 
   &.drag {}
 

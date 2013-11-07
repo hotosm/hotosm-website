@@ -1221,7 +1221,7 @@ th {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031859}}
 tbody tr {
-  border-top: 1px solid #cccccc;
+  border-top: 0 solid #cccccc;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031864}}
@@ -1235,7 +1235,7 @@ tr.odd {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031873}}
 tr.info, tr.even, tr:nth-child(2n+2) {
   border-bottom: 0;
-  background-color: #f5f5f5;
+  /*    background-color: $ultralight; */
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031882}}
 tr.odd td.active {
