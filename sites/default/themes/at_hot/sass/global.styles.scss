@@ -91,18 +91,16 @@ h2 {
     font-weight: normal;
   }
 
-
   &.list {
     line-height: 50px;
   }
-
 }
 
 
 
 h3 {
   font-family: $futura;
-  font-size: 1.3em;
+  font-size: 1.25em;
   margin: 1em 0 0.1em 0;
 }
 
@@ -1139,7 +1137,8 @@ ul.action-links {
   font-weight: 700;
   font-family: inherit;
   line-height: inherit;
-  margin-bottom: 0;
+  margin-bottom: 0.5em;
+  margin-top: 0;
 }
 
 
@@ -1268,6 +1267,7 @@ ul.action-links {
 
 .field-name-submitted-by {
   font-style: italic;
+  margin-bottom: .5em;
 }
 
 /*
@@ -1839,11 +1839,14 @@ td {
   border-color: $border;
 }
 
+.grid table {
+  border: 0;
+}
 
 table,
 td,
 th {
-  vertical-align: middle;
+  vertical-align: top;
 }
 
 
