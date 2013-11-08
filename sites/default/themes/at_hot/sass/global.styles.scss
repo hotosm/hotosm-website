@@ -83,6 +83,15 @@ h2 {
     }
   }
 
+  &.block-title {
+    background-color: $light-grey;
+    font-family: $sans-serif-arial-helvetica;
+    padding: .2em .3em;
+    font-size: 1.2em;
+    font-weight: normal;
+  }
+
+
   &.list {
     line-height: 50px;
   }
@@ -1369,12 +1378,18 @@ ul.action-links {
 
   ul,
   ol {
-    padding: 0 0 0 15px;
+    padding: 0;
   }
 
   li {
     margin: 0;
     padding: 0;
+
+    &.leaf {
+      list-style: none;
+      border-bottom: 1px solid $light-grey;
+      padding: .3em .3em .3em .5em;
+    }
   }
 }
 
@@ -1840,8 +1855,10 @@ td {
 
 
 thead tr {
-  font-weight: 700;
-  background-color: $medium_dark;
+  background-color: $light-grey;
+  color: $grey;
+  text-transform: uppercase;
+  font-weight: normal;
 }
 
 
