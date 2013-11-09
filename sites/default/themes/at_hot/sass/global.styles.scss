@@ -1823,6 +1823,7 @@ table {
   margin: 10px 0;
   padding: 0;
   width: 100%;
+  font-size: .85em;
 
   &.sticky-header {
     z-index: 10;
@@ -1861,7 +1862,10 @@ thead tr {
   background-color: $light-grey;
   color: $grey;
   text-transform: uppercase;
-  font-weight: normal;
+  
+  th {
+    font-weight: lighter;
+  }
 }
 
 

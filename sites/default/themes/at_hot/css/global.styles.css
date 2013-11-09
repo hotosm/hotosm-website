@@ -1191,13 +1191,14 @@ table {
   margin: 10px 0;
   padding: 0;
   width: 100%;
+  font-size: .85em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031827}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031828}}
 table.sticky-header {
   z-index: 10;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031838}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031839}}
 table,
 thead,
 tbody,
@@ -1207,34 +1208,37 @@ td {
   border-color: #cccccc;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031842}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031843}}
 .grid table {
   border: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031848}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031849}}
 table,
 td,
 th {
   vertical-align: top;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031855}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031856}}
 caption,
 th,
 td {
   text-align: left;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031860}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031861}}
 thead tr {
   background-color: #f2f2f2;
   color: gray;
   text-transform: uppercase;
-  font-weight: normal;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031866}}
+thead tr th {
+  font-weight: lighter;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031869}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031873}}
 td,
 th {
   border-bottom: 0;
@@ -1242,29 +1246,29 @@ th {
   padding: 5px 7px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031879}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031883}}
 tbody tr {
   border-top: 0 solid #cccccc;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031884}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031888}}
 tr {
   /* Table row striping */
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031886}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031890}}
 tr.odd {
   background: white;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031893}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031897}}
 tr.info, tr.even, tr:nth-child(2n+2) {
   border-bottom: 0;
   /*    background-color: $ultralight; */
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031902}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031906}}
 tr.odd td.active {
   background-color: #eeeeee;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031906}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031910}}
 tr.even td.active {
   background-color: #ebebeb;
 }
@@ -1273,7 +1277,7 @@ tr.even td.active {
  * Forum tables
  * Core sets white-space to nowrap, which makes no sense
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031934}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031938}}
 #forum td .created,
 #forum td .posts,
 #forum td .topics,
@@ -1286,12 +1290,12 @@ tr.even td.active {
 /* =============================================================================
  *   Messages
  * ========================================================================== */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031945}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031949}}
 div.messages {
   margin-bottom: 10px;
   margin-top: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031950}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031954}}
 div.messages ul {
   margin-top: 0;
   margin-bottom: 0;
@@ -1300,7 +1304,7 @@ div.messages ul {
 /*
  * Unpublished nodes
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031991}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000031995}}
 .node-unpublished p.unpublished,
 .comment-unpublished p.unpublished {
   color: pink;
@@ -1326,28 +1330,28 @@ div.messages ul {
 /* =============================================================================
  *    Maintenance pages
  * ========================================================================== */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032002}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032006}}
 .maintenance-page .container {
   padding: 40px 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032007}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032011}}
 .maintenance-page #site-name,
 .maintenance-page #page-title {
   margin: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032014}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032018}}
 .db-offline .container {
   margin: 0 auto;
   padding: 40px 0;
   width: 100%;
   max-width: 960px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032021}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032025}}
 .db-offline div.messages {
   margin: 20px 0 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032025}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032029}}
 .db-offline #content {
   padding: 20px 0;
 }
@@ -1358,7 +1362,7 @@ div.messages ul {
 /*
  * Admin menu overrides
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032042}}
 #admin-menu {
   margin: 0;
   padding: 0;
@@ -1367,7 +1371,7 @@ div.messages ul {
 /*
  * Devel Module
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032047}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032051}}
 .dev-query {
   background: #eeeeee;
   padding: 30px;
@@ -1376,11 +1380,11 @@ div.messages ul {
 /*
  * Styleguide module tweaks
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032056}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032060}}
 #styleguide-header {
   padding: 0 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032059}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.styles\.scss}line{font-family:\000032063}}
 #styleguide-header .item-list {
   font-family: inherit;
   margin: 0 20px 20px 0;
