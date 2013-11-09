@@ -230,7 +230,7 @@ mark {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/d7-hot-pantheon\/d7-hot\/sites\/default\/themes\/at_hot\/sass\/global\.base\.scss}line{font-family:\00003228}}
 p,
 pre {
-  margin: 0 0 .2em;
+  margin: 0 0 1em;
 }
 
 /*
