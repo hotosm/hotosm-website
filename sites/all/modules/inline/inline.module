@@ -1,0 +1,381 @@
+<?php
+
+/**
+ * @file
+ * Provides a Drupal filter to render uploaded attachments inline.
+ */
+
+/**
+ * Implementation of hook_menu().
+ */
+function inline_menu() {
+  $items['admin/config/content/inline'] = array(
+    'title' => 'Inline',
+    'description' => 'Manage automatic and manual inclusion of attachments in the content of your posts.',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('inline_settings'),
+    'access arguments' => array('administer inline settings'),
+  );
+  return $items;
+}
+
+/**
+ * Implementation of hook_permission().
+ */
+function inline_permission() {
+  return array(
+    'administer inline settings' => array(
+      'title' => t('Administer Inline settings'),
+    ),
+  );
+}
+
+/**
+ * Implementation of hook_help().
+ */
+function inline_help($path, $arg) {
+  switch ($path) {
+    case 'admin/help#inline':
+      return t('<p>Sometimes a user may want to add an image or a file inside the body of a node. This can be done with special tags that are replaced by links to the corresponding uploaded file. If the file is an image, it will be displayed inline, otherwise a link to the file will be inserted. To enable this feature and learn the proper syntax, visit the <a href="!filters">filters configuration screen</a>.</p>', array('!filters' => url('admin/config/content/formats')));
+
+    case 'filter#short-tip':
+      return t('You may add links to files uploaded with this node <a href="!explanation-url">using special tags</a>', array('!explanation-url' => url('filter/tips', array('fragment' => 'image'))));
+
+    case 'filter#long-tip':
+      return t('<p>You may link to files uploaded with the current node using special tags. The tags will be replaced by the corresponding files. Syntax: <code>[inline:file_id]</code>. Parameter: file_id represents the file uploaded with the node in which to link, assuming that the first uploaded file is labeled as 1 and so on.</p>
+    <p>If the file is an image, it will be displayed inline, otherwise a link to the file will be inserted.</p> ');
+  }
+}
+
+/**
+ * Inline settings form builder function.
+ */
+function inline_settings() {
+  $form = array();
+
+  // Check if Inline filter is enabled
+  $inline_activated = FALSE;
+  foreach (filter_formats() as $format) {
+    foreach (filter_list_format($format->format) as $filter) {
+      if ($filter->module == 'inline') {
+        $inline_activated = TRUE;
+        break 2;
+      }
+    }
+  }
+  if ($inline_activated == FALSE) {
+    drupal_set_message(t('Inline filter is not yet enabled for at least one <a href="!formats">input format</a>.', array('!formats' => url('admin/config/content/formats'))), 'error');
+  }
+
+  $node_types = node_type_get_types();
+  $fields = field_info_fields();
+  $fields_by_type = array();
+  $field_options = array(FALSE => t('No Default Field'));
+  foreach ($fields as $field) {
+    if ($field['type'] == 'image') {
+      $types = array();
+      foreach ($node_types as $type_name => $info) {
+        if ($c_field = field_info_instance('node', $field['field_name'], $info->type)) {
+          $types[] = $type_name;
+          $fields_by_type[$type_name][$field['field_name']] = $c_field;
+        }
+      }
+      $field_options[$field['field_name']] = $field['field_name'] .' (in '. implode(', ', $types) .') ';
+    }
+  }
+
+  $form['inline']['inline_image_default_field'] = array(
+    '#type' => 'select',
+    '#title' => t('Select Default Image Field'),
+    '#description' => t('The field you select here will be used when resolving a inline tag, unless you override it for a specific node type below.'),
+    '#options' => $field_options,
+    '#default_value' => variable_get('inline_image_default_field', FALSE),
+    '#required' => TRUE,
+  );
+  $form['inline']['upload']['image_link'] = array(
+    '#type' => 'fieldset',
+    '#title' => t('Image output'),
+    '#collapsible' => TRUE,
+    '#description' => t('<strong>Note:</strong> Images are only processed if a tag is referencing them. However, there is a auto-inline feature to inline all uploaded images automatically. Auto-inline can be enabled for certain <a href="!content-types">content types</a>.', array('!content-types' => url('admin/structure/types'))),
+  );
+  $form['inline']['upload']['image_link']['inline_link_img'] = array(
+    '#type' => 'radios',
+    '#title' => t('Link to images'),
+    '#default_value' => variable_get('inline_link_img', 1),
+    '#options' => array(
+      '0' => t('Display image only'),
+      '1' => t('Display image with a link to the image file')
+    ),
+  );
+
+  $presets = image_styles();
+  $form['inline']['upload']['image_scaling'] = array(
+    '#type' => 'fieldset',
+    '#title' => t('Image dimensions and scaling'),
+    '#collapsible' => TRUE,
+    '#description' => t('Select the <a href="!styles">style</a> to use for inlined images.', array('!styles' => url('admin/config/media/image-styles'))),
+  );
+
+  $options = array();
+  foreach ($presets as $id => $name) {
+    $options[$id] = $id;
+  }
+  $form['inline']['upload']['image_scaling']['inline_teaser_preset'] = array(
+    '#title' => t('Teaser preset'),
+    '#description' => t('Select the style to use for inlined images in teaser view.'),
+    '#type' => 'select',
+    '#empty_value' => '',
+    '#options' => $options,
+    '#default_value' => variable_get('inline_teaser_preset', ''),
+  );
+  $form['inline']['upload']['image_scaling']['inline_full_preset'] = array(
+    '#title' => t('Full preset'),
+    '#description' => t('Select the style to use for inlined images in full view.'),
+    '#type' => 'select',
+    '#empty_value' => '',
+    '#options' => $options,
+    '#default_value' => variable_get('inline_full_preset', ''),
+  );
+
+  return system_settings_form($form);
+}
+
+/**
+ * Implementation of hook_form_alter().
+ *
+ * Allows to enable/disable auto-inline support for each content type.
+ */
+function inline_form_alter(&$form, $form_state, $form_id) {
+  if ($form_id == 'node_type_form') {
+    $node_type = $form['orig_type']['#value'];
+    $form['workflow']['upload_inline'] = array(
+      '#type' => 'radios',
+      '#title' => t('Display attachments inline automatically'),
+      '#default_value' => variable_get('upload_inline_'. $node_type, 0),
+      '#options' => array(
+        0 => t('Disabled'),
+        1 => t('Only in teaser view'),
+        2 => t('Only in body view'),
+        3 => t('In teaser and body view')),
+      '#description' => t('Choose whether uploaded images should be shown inline automatically. Make sure you set the dimensions at !settings_url', array('!settings_url' => l(t('inline settings'), 'admin/config/content/inline'))),
+    );
+  }
+}
+
+/**
+ * Implements hook_filter_info().
+ */
+function inline_filter_info() {
+  $filters['inline'] = array(
+    'title' => t('Embed attached images and files into node content'),
+    'process callback' => '_inline_filter_process',
+    'tips callback' => '_inline_filter_tips',
+  );
+  return $filters;
+}
+
+/**
+ * Implementation of hook_filter().
+ *
+ * Since Inline needs to know which files are attached to a processed node, the
+ * original text is simply returned here.
+ *
+ * @see inline_node_view_alter()
+ */
+function _inline_filter_process($text, $filter) {
+  return $text;
+}
+
+/**
+ * Implementation of hook_filter_tips().
+ */
+function _inline_filter_tips($filter, $format, $long = FALSE) {
+  if ($long) {
+    return '<p><a id="filter-inline" name="filter-inline"></a>'. t('
+      You may link to files uploaded with the current node using special tags. The tags will be replaced by the corresponding files. For example:
+
+      Suppose you uploaded three files (in this order):
+      <ul>
+      <li>imag1.png
+      <li>file1.pdf
+      <li>imag2.png
+      </ul>
+
+      <pre>[inline:imag1.png=test]</pre>
+      will be replaced by <em><code>&lt;img src=imag1.png alt=test&gt;</code></em>
+
+      <pre>[file:imag1.png=test]</pre>
+      will be replaced by <em><code>&lt;a href=imag1.png&gt;test&lt;/a&gt;</code></em>
+
+      <pre>[attachment:file1.pdf=test]</pre>
+      will be replaced by <em><code>&lt;a href=file1.png&gt;test&lt;/a&gt;</code></em>') .'</p>';
+  }
+  else {
+    return t('You may use <a href="!inline_help">[inline:xx] tags</a> to display uploaded files or images inline.', array('!inline_help' => url("filter/tips/$format->format", array('fragment' => 'filter-inline'))));
+  }
+}
+
+function inline_node_view_alter(&$build) {
+  $field_name = variable_get('inline_image_default_field', FALSE);
+  if ($field_name == FALSE) {
+    return;
+  }
+  $field_image_info = field_info_field($field_name);
+  if (!isset($field_image_info)) {
+    return '';
+  }
+  if ($field_image_info['type'] != 'image') {
+    return '';
+  }
+  if (variable_get('upload_inline_' . $build['#node']->type, 0)) {
+    _inline_auto_add($build, $field_name);
+  }
+
+  _inline_substitute_tags($build, $field_name);
+}
+
+/**
+ * Change file path of new files for previews.
+ *
+ * New files are stored in a temporary upload directory until the content
+ * is saved. We alter the file object accordingly, so such files may be
+ * displayed if the temporary directory is publicly accessible.
+ *
+ * @todo Prepend 'system/' for private files support.
+ */
+function inline_prepare_file_object($file) {
+  $tmp = file_directory_temp();
+  if (is_array($file))
+    $file = (object) $file;
+  if (isset($file) && strpos($file->uri, $tmp) === 0) {
+    $file->real_path = $file->uri;
+    $file->uri = $file->filename;
+    $file->preview = TRUE;
+  }
+  return $file;
+}
+
+/**
+ * Implementation of hook_theme().
+ */
+function inline_theme() {
+  return array(
+    'inline_as_link' => array(
+      'variables' => array('link' => NULL),
+      'file' => 'inline.theme.inc',
+    ),
+    'inline_img' => array(
+      'variables' => array('file' => NULL, 'viewmode' => 'full'),
+      'file' => 'inline.theme.inc',
+    )
+  );
+}
+
+function _inline_fileobj(&$node, $field_name, $image_name) {
+  // Named file reference.
+  foreach ($node->{$field_name}[$node->language] as $file) {
+    $file = (object) $file;
+    if ($file && $file->filename == $image_name) {
+      return $file;
+    }
+  }
+  return NULL;
+}
+
+/**
+ * Automatically add all images to configured node views.
+ *
+ * This feature can be configured per content-type.
+ */
+function _inline_auto_add(&$build, $field_name) {
+  $node = $build['#node'];
+  switch (variable_get('upload_inline_'. $node->type, 0)) {
+    case 1:
+      // Display only in teaser.
+      if ($build['body']['#view_mode'] == 'teaser') {
+        foreach ($node->{$field_name}[$node->language] as $file) {
+          $file = inline_prepare_file_object($file);
+          if ($file && _inline_decide_img_tag($file)) {
+            $build['body'][0]['#markup'] .= theme('inline_img', array('node' => $node, 'file' => $file, 'viewmode' => 'summary'));
+          }
+        }
+      }
+      break;
+
+    case 2:
+      // Display only in body.
+      if ($build['body']['#view_mode'] == 'full') {
+        foreach ($node->{$field_name}[$node->language] as $file) {
+          $file = inline_prepare_file_object($file);
+          if ($file && _inline_decide_img_tag($file)) {
+            $build['body'][0]['#markup'] .= theme('inline_img', array('node' => $node, 'file' => $file, 'viewmode' => 'full'));
+          }
+        }
+      }
+      break;
+
+    case 3:
+      // Display in teaser and body.
+      foreach ($node->{$field_name}[$node->language] as $file) {
+        $file = inline_prepare_file_object($file);
+        if ($file && _inline_decide_img_tag($file)) {
+          $build['body'][0]['#markup'] .= theme('inline_img', array('node' => $node, 'file' => $file, 'viewmode' => 'full'));
+        }
+      }
+      break;
+  }
+}
+
+/**
+ * Replace all Inline tags with their corresponding files or images.
+ */
+function _inline_substitute_tags(&$build, $field_name) {
+  if (!isset($build['body'])) {
+    return;
+  }
+  if (preg_match_all("/\[(inline|file|attachment):([^=\\]]+)=?([^\\]]*)?\]/i", $build['body']['#items'][0]['value'], $match)) {
+    $s = $r = array();
+    foreach ($match[2] as $key => $value) {
+      // Ensure that we deal with a file object.
+      $file = inline_prepare_file_object(_inline_fileobj($build['#node'], $field_name, $value));
+      if ($file && $file->fid != NULL) {
+        // Set user defined file title if given.
+        $title = $match[3][$key];
+        if (!empty($title)) {
+          $file->title = $title;
+        }
+        // Decide whether to show a link or an image tag.
+        if (_inline_decide_img_tag($file)) {
+          $replace = theme('inline_img', array('file' => $file, 'field' => $field_name));
+        }
+        else {
+          $replace = theme('inline_as_link', array('file' => $file));
+        }
+      }
+      else {
+        $replace = '<span style="color: red; font-weight: bold;">NOT FOUND: '. $value .'</span>';
+      }
+      $s[] = $match[0][$key];
+      $r[] = $replace;
+    }
+    // Perform the replacements and return processed field.
+    $build['body'][0]['#markup'] = str_replace($s, $r, $build['body'][0]['#markup']);
+  }
+}
+
+/**
+ * Decide if an image tag (&lt;IMG&gt;) or a link to a file should be rendered.
+ *
+ * @param $file
+ *   A file object.
+ *
+ * @return
+ *   TRUE in case an image tag should be generated.
+ */
+function _inline_decide_img_tag($file) {
+  $inlined = array('jpg', 'jpeg', 'pjpeg', 'gif', 'png');
+  $exploded = explode('/', $file->filemime);
+  $mime = array_pop($exploded);
+  return in_array($mime, $inlined);
+}
+

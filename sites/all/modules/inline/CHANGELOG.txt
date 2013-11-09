@@ -1,0 +1,65 @@
+// $Id: CHANGELOG.txt,v 1.22 2008/08/17 15:24:46 sun Exp $
+
+Inline 7.x-1.0, 2011-04-05
+--------------------------
+Ported to D7 by javier.alejandro.castro@gmail.com
+
+
+Inline 6.x-1.x, xxxx-xx-xx
+--------------------------
+#373679 by scor: Fixed grammar in form descriptions and help text.
+
+
+Inline 6.x-1.0, 2009-01-13
+--------------------------
+#293618 by sun: Fixed wrong documentation about image resizing.
+#273489 by sun: Code clean-up.
+#193676 by Eaton, sun: Ported to Drupal 6.x.
+#214208 by havran, sun: Added support for ImageCache v2 API.
+by sun: Code clean-up.
+#138132 by aries: Fixed images not visible in RSS feeds.
+Fixed description of attachments is not displayed.
+
+
+Inline 5.x-1.1, 2007-04-18
+--------------------------
+#132427 Fixed fatal error in inline_replace_numbers() on PHP5.
+#133535 Fixed Images don't display inline.
+Fixed Inline dependencies.
+Fixed coding style.
+#120092 by Eaton, sun: Added Imagecache support.
+Added filter activation check in Inline settings.
+
+
+Inline 5.x-1.0, 2007-03-28
+--------------------------
+Fixed coding style issues reported by Coder module.
+#100964 Fixed Inline and printer-friendly.
+#65642 Fixed make autoinline more apparent.
+#38359 Fixed numeric tag assignments get lost after file attachment updates.
+#63826 Make previews work.
+#73839 by ber: Make inline respect filter settings.
+#75206 by sun: Fixes some inline tag titles that were not displayed. great work.
+#74604 by sun: size bug, not less/greater then, but less or equal etc.
+2006/05/04  #61559 - Support image/pjpeg MIME type - thanks stmind
+2006/05/03  #45309 - Settings page fAPI bug - thanks leafish_paul
+2006/03/02  #49745 - Place images automatically, improve themability - thanks Ber
+2005/11/22  #32838#15 - Link closing tag placement - thanks bwynants
+2005/11/21  Forms API conversion - thanks Alan Evans, leafish_paul and Eaton
+2005/11/21  Improved documentation - Richard Archer
+2005/07/18  #26420 - Added printing file size - thanks filiperf
+2005/07/18  #26420 - Changed url output, made compatible with private downloads - thanks filiperf
+2005/07/06  #15617 - Solved problem with teasers not properly filtered (thanks to owad)
+2005/06/06  #24045 - Added link to the original image (thanks to dvhart).
+2005/06/06  #24045 - Made the module compatible with private/public downloads.
+2005/06/06  #24045 - Made the module fully translatable (msg 'View' and 'Download' were not translated).
+2005/02/04  #16732 - Image tag not closed - patch by frjo
+2004/12/24  Fixed serious bug that prevented multiple inline tags from working
+2004/12/23  Added support to set maximum width and height to displayed
+            images, so that a common look&feel can be achieved.
+            images are NOT physically resized
+2004/12/01  Updated Install instructions - thanks Rick Cowan
+2004/11/08  Initial release
+2004/11/09  Fixed bug. Not translating teaser
+2004/11/14  Made similar to other filters, so that tips are printed
+2004/11/22  Wazdog enhanced the module and made it more usable.  Thanks !!

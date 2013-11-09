@@ -1,0 +1,13 @@
+name = Inline
+description = Allows attached files to be placed into the body of a node either automatically or by using simple tags.
+package = Input filters
+dependencies[] = filter
+dependencies[] = file
+core = 7.x
+
+; Information added by drupal.org packaging script on 2013-09-30
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "inline"
+datestamp = "1380583243"
+
