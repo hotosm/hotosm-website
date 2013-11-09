@@ -108,7 +108,11 @@ function hot_updates_strongarm() {
       ),
     ),
     'extra_fields' => array(
-      'form' => array(),
+      'form' => array(
+        'title' => array(
+          'weight' => '0',
+        ),
+      ),
       'display' => array(),
     ),
   );
