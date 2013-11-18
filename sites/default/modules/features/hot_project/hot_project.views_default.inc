@@ -213,6 +213,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['pager']['options']['offset'] = '0';
   $handler->display->display_options['style_plugin'] = 'default';
   $handler->display->display_options['row_plugin'] = 'fields';
+  $handler->display->display_options['row_options']['hide_empty'] = TRUE;
   /* Field: Content: BoundingBox */
   $handler->display->display_options['fields']['field_bbox']['id'] = 'field_bbox';
   $handler->display->display_options['fields']['field_bbox']['table'] = 'field_data_field_bbox';
@@ -233,6 +234,10 @@ function hot_project_views_default_views() {
   $handler->display->display_options['arguments']['nid']['summary']['format'] = 'default_summary';
   $handler->display->display_options['arguments']['nid']['summary_options']['items_per_page'] = '25';
   $handler->display->display_options['arguments']['nid']['specify_validation'] = TRUE;
+  $handler->display->display_options['arguments']['nid']['validate']['type'] = 'node';
+  $handler->display->display_options['arguments']['nid']['validate_options']['types'] = array(
+    'project' => 'project',
+  );
   /* Filter criterion: Content: Published */
   $handler->display->display_options['filters']['status']['id'] = 'status';
   $handler->display->display_options['filters']['status']['table'] = 'node';
@@ -255,14 +260,30 @@ function hot_project_views_default_views() {
     'other_right' => 'field_bbox',
     'other_bottom' => 'field_bbox',
     'other_left' => 'field_bbox',
-    'name_field' => '',
+    'name_field' => 'title',
     'description_field' => '',
     'view_mode' => 'full',
+    'style_field' => '',
   );
   $handler->display->display_options['defaults']['style_options'] = FALSE;
   $handler->display->display_options['defaults']['row_plugin'] = FALSE;
   $handler->display->display_options['row_plugin'] = 'fields';
   $handler->display->display_options['defaults']['row_options'] = FALSE;
+  $handler->display->display_options['defaults']['fields'] = FALSE;
+  /* Field: Content: BoundingBox */
+  $handler->display->display_options['fields']['field_bbox']['id'] = 'field_bbox';
+  $handler->display->display_options['fields']['field_bbox']['table'] = 'field_data_field_bbox';
+  $handler->display->display_options['fields']['field_bbox']['field'] = 'field_bbox';
+  $handler->display->display_options['fields']['field_bbox']['label'] = '';
+  $handler->display->display_options['fields']['field_bbox']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['field_bbox']['click_sort_column'] = 'wkt';
+  $handler->display->display_options['fields']['field_bbox']['settings'] = array(
+    'data' => 'bounding',
+  );
+  /* Field: Content: Title */
+  $handler->display->display_options['fields']['title']['id'] = 'title';
+  $handler->display->display_options['fields']['title']['table'] = 'node';
+  $handler->display->display_options['fields']['title']['field'] = 'title';
 
   /* Display: Project contact pane */
   $handler = $view->new_display('panel_pane', 'Project contact pane', 'panel_pane_1');
@@ -271,10 +292,12 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['field_contact']['id'] = 'field_contact';
   $handler->display->display_options['fields']['field_contact']['table'] = 'field_data_field_contact';
   $handler->display->display_options['fields']['field_contact']['field'] = 'field_contact';
+  $handler->display->display_options['fields']['field_contact']['hide_empty'] = TRUE;
   /* Field: Content: Project Page */
   $handler->display->display_options['fields']['field_link']['id'] = 'field_link';
   $handler->display->display_options['fields']['field_link']['table'] = 'field_data_field_link';
   $handler->display->display_options['fields']['field_link']['field'] = 'field_link';
+  $handler->display->display_options['fields']['field_link']['hide_empty'] = TRUE;
   $handler->display->display_options['fields']['field_link']['click_sort_column'] = 'url';
   $handler->display->display_options['pane_title'] = 'Contact details for this project';
 
