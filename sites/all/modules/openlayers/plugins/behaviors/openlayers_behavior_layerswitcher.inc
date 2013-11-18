@@ -5,22 +5,6 @@
  */
 
 /**
- * Ctools plugin definition.
- */
-function openlayers_openlayers_behavior_layerswitcher_openlayers_behaviors() {
-  return array(
-    'title' => t('Layer Switcher'),
-    'description' => t('Provides the ability to switch layers in the map interface.  This provides an expandable box on the map to enable and disable layers.'),
-    'type' => 'map',
-    'behavior' => array(
-      'file' => 'openlayers_behavior_layerswitcher.inc',
-      'class' => 'openlayers_behavior_layerswitcher',
-      'parent' => 'openlayers_behavior',
-    ),
-  );
-}
-
-/**
  * Layer Switcher Behavior
  */
 class openlayers_behavior_layerswitcher extends openlayers_behavior {
@@ -35,6 +19,7 @@ class openlayers_behavior_layerswitcher extends openlayers_behavior {
       'roundedCorner' => TRUE,
       'roundedCornerColor' => '#222222',
       'maximizeDefault' => FALSE,
+      'div' => FALSE,
     );
   }
 
@@ -75,6 +60,12 @@ class openlayers_behavior_layerswitcher extends openlayers_behavior {
         '#description' => t('Turn on to have the Layer Switcher open by default.'),
         '#default_value' => isset($defaults['maximizeDefault']) ? $defaults['maximizeDefault'] : FALSE,
       ),
+      'div' => array(
+        '#type' => 'textfield',
+        '#title' => t('DIV element for LayerSwitcher'),
+        '#description' => t('To create the LayerSwitcher outside of the map, pass the ID attribute of an HTML div element.'),
+        '#default_value' => isset($defaults['div']) ? $defaults['div'] : FALSE,
+      ),
     );
   }
 
@@ -93,7 +84,7 @@ class openlayers_behavior_layerswitcher extends openlayers_behavior {
     if ($this->options['sortBaseLayer'] == 'ASC' || $this->options['sortBaseLayer'] == 'DESC') {
       uasort($map['layers'], 'drupal_sort_title');
       if ($this->options['sortBaseLayer'] == 'ASC') {
-        $map['layers'] = array_reverse ($map['layers'], TRUE);
+        $map['layers'] = array_reverse($map['layers'], TRUE);
       }
     }
 

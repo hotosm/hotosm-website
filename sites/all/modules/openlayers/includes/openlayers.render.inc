@@ -20,7 +20,7 @@ function _openlayers_layers_process($layers = array(), &$map = array()) {
   $layer_data = array();
 
   // Load Layers and assign weights
-  foreach ($layers as $key => $layer){
+  foreach ($layers as $key => $layer) {
     if ($layer_object = openlayers_layer_load($layer)) {
       $layers[$key] = $layer_object;
       if (!empty($map['layer_weight'][$key])) {
@@ -28,13 +28,14 @@ function _openlayers_layers_process($layers = array(), &$map = array()) {
       }
       else $layers[$key]->weight = 0;
     }
+    else unset($layers[$key]);
   }
 
   // Sort layers
   usort($layers, '_openlayers_layers_process_sort');
 
   // Process into array-based layer data for the map
-  foreach ($layers as $layer_object) {
+  foreach ($layers as $type => $layer_object) {
     if (is_object($layer_object)) {
       $layer_object->render($map);
       $layer_object->data['title'] = $layer_object->title;
@@ -106,7 +107,7 @@ function _openlayers_behaviors_render($behaviors = array(), &$map = array()) {
  *   Array of processed styles ( <style_name> => <style_array> )
  */
 function _openlayers_styles_process($styles = array(),
-  $layer_styles = array(), $layer_styles_select = array(), &$map = array()) {
+  $layer_styles = array(), $layer_styles_select = array(), $layer_styles_temporary = array(), &$map = array()) {
 
   // Get styles info array
   $styles_info = openlayers_styles();
@@ -141,11 +142,11 @@ function _openlayers_styles_process($styles = array(),
     }
   }
 
-  // Add layer styles
-  foreach ($layer_styles as $style) {
+  // Add layer styles temporary
+  foreach ($layer_styles_temporary as $style) {
     if (!isset($processed[$style]) &&
-        !empty($styles_info[$style]) &&
-        $info = $styles_info[$style]->data) {
+      !empty($styles_info[$style]) &&
+      $info = $styles_info[$style]->data) {
       $processed[$style] = $info;
     }
   }
@@ -197,7 +198,7 @@ function openlayers_render_style($style = array()) {
  *   New map id
  */
 function _openlayers_create_map_id() {
-  return 'openlayers-map-' . substr(md5(uniqid(mt_rand())), 0, 8);
+  return drupal_html_id('openlayers-map');
 }
 
 /**
@@ -218,7 +219,7 @@ function _openlayers_create_map_id() {
  *   Processed path.
  */
 function openlayers_style_path($path) {
-  if (strpos($path, '${') !== 0) { 
+  if (strpos($path, '${') !== 0) {
     $path = file_create_url($path);
     $path = str_replace('%24%7B', '${', $path);
     $path = str_replace('%7D', '}', $path);

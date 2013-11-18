@@ -38,29 +38,5 @@ function openlayers_ui_openlayers_layers_ctools_export_ui() {
         )
       )
     ),
-
-    'form' => array(
-      'settings' => 'openlayers_layers_ctools_export_ui_form_settings',
-      'validate' => 'openlayers_layers_ctools_export_ui_form_validate',
-    ),
   );
-}
-
-function openlayers_layers_ctools_export_ui_form_settings(&$form, &$form_state) {
-  $layer = $form_state['item'];
-  if (empty($layer->name)) {
-    $layer = NULL;
-  }
-  else {
-    $layer = openlayers_get_layer_object($layer);
-  }
-  module_load_include('inc', 'openlayers_ui', 'includes/openlayers_ui.layers');
-  $form = openlayers_ui_layers_form($form_state, $layer);
-}
-
-function openlayers_layers_ctools_export_ui_form_validate(&$form, &$form_state) {
-  $values = $form_state['values'];
-  if (empty($values['layer_type'])) {
-    form_set_error('layer_type', t('Layer type must be set.'));
-  }
 }

@@ -56,39 +56,41 @@ function openlayers_ui_init() {
 function openlayers_ui_help($path, $arg) {
   switch ($path) {
     case 'admin/help#openlayers_ui':
-      return '<p>'. t('Provides a user interface to manage OpenLayers maps.') .'</p>';
+      return '<p>' . t('Provides a user interface to manage OpenLayers maps.') . '</p>';
     case 'admin/structure/openlayers':
-      return '<p>'. t('Configure where Drupal finds
+      return '<p>' . t('Configure where Drupal finds
         the OpenLayers javascript library. Using a local or <a href="@olb">compacted
         version</a> of OpenLayers can reduce filesize, but remember to set the Image Path and
         CSS Path options in every map, because OpenLayers is not able to find these resources
         automatically. See the included documentation in /doc for
         more details.',
-        array('@olb' => 'http://trac.openlayers.org/wiki/Profiles')) .'</p>';
+        array('@olb' => 'http://trac.openlayers.org/wiki/Profiles')) . '</p>';
     case 'admin/structure/openlayers/styles':
-      return '<p>'. t('OpenLayer styles are stored versions of
+      return '<p>' . t('OpenLayer styles are stored versions of
         <a href="@ols">javascript StyleMap objects</a>, but are much easier to
         configure through an interface. Styles will typically define the icon,
         fill color, border, and radius of points or polygons, so they are used
         on overlays more often than base layers, which are not affected by vector
-        styles.', array("@ols" => 'http://trac.openlayers.org/wiki/Styles')) .'</p>';
+        styles.', array("@ols" => 'http://trac.openlayers.org/wiki/Styles')) . '</p>';
     case 'admin/structure/openlayers/styles/add':
-      return '<p>'. t('The name, title, and description you give a style is for Drupal\'s
+      return '<p>' . t('The name, title, and description you give a style is for Drupal\'s
         interal storage. The rest of the properties are documented on openlayers.org')
         . '</p>';
     case 'admin/structure/openlayers/maps':
-      return '<p>'. t('Maps are combinations of the layers, styles, and behaviors
+      return '<p>' . t('Maps are combinations of the layers, styles, and behaviors
         which constitute maps. They also contain basic configuration like the
         width and centerpoint of the map - everything except for a mechanism
-        to put a map on a page. For that, use the Views OpenLayers Map style.') .'</p>';
+        to put a map on a page. For that, use the Views OpenLayers Map style.') . '</p>';
     case 'admin/structure/openlayers/layers':
-      return '<p>'. t('Layers are stored versions of javascript OpenLayers layer
+      return '<p>' . t('Layers are stored versions of javascript OpenLayers layer
         objects. They point at a data source, like OpenStreetMap, Google Maps,
-        or Drupal itself, and sometimes define the zoom levels for which they apply.') .'</p>';
+        or Drupal itself, and sometimes define the zoom levels for which they apply.') . '</p>';
+    case 'admin/structure/openlayers/projections':
+      return t('<p><a href="http://en.wikipedia.org/wiki/Map_projection">Projections</a> describe how the earth is flattened to a map image. They define coordinate systems for data retrieval.</p>');
     case 'admin/structure/openlayers/layers/settings':
-      return '<p>'. t('Commercial layer providers like Google will require API keys
+      return '<p>' . t('Commercial layer providers like Google will require API keys
         to ensure that users are\'t abusing the service and to enforce limits. Not all
-        of these keys are required, of course, only those that are used on a site.') .'</p>';
+        of these keys are required, of course, only those that are used on a site.') . '</p>';
 
   }
 }
@@ -164,7 +166,7 @@ function openlayers_ui_theme($existing, $type, $theme, $path) {
     ),
     'openlayers_ui_form_projection_description' => array(
       'variables' => array(
-        'projection_title' => '',
+        'projection' => '',
         'available_layers' => array(),
         'layers' => array(),
       ),
@@ -187,7 +189,7 @@ function openlayers_ui_theme($existing, $type, $theme, $path) {
         'style' => NULL,
       ),
       'template' => 'openlayers-ui-styles-preview',
-      'path' => drupal_get_path('module', 'openlayers_ui') .  '/themes',
+      'path' => drupal_get_path('module', 'openlayers_ui') . '/themes',
     ),
   );
 }
@@ -201,10 +203,8 @@ function openlayers_ui_theme($existing, $type, $theme, $path) {
 function openlayers_ui_get_projection_options() {
   $options = array();
   foreach (openlayers_layers_load() as $key => $layer) {
-    if ($layer->data['projection']) {
-      foreach ($layer->data['projection'] as $projection) {
-        $options[$projection] = $projection;
-      }
+    foreach ($layer->getProjections() as $projection) {
+      $options[$projection->identifier] = $projection;
     }
   }
   return $options;
@@ -212,6 +212,8 @@ function openlayers_ui_get_projection_options() {
 
 /**
  * Get layer options.
+ * @param String $type
+ * @param openlayers_projection $projection
  */
 function openlayers_ui_get_layer_options($type = 'baselayer',
   $projection = NULL) {
@@ -225,33 +227,46 @@ function openlayers_ui_get_layer_options($type = 'baselayer',
 
   // Go through layers to theme output.
   foreach ($layers as $key => $layer) {
+    if (!is_object($layer)) {
+      // Failure was already logged in openlayers_get_layer_object
+      continue;
+    }
+
     // not filtering by projection
     // this layer has an appropriate projection
     // this layer can be reprojected because it is vector
+    $variables = array();
     if (
       !isset($projection) ||
-      in_array($projection, $layer->data['projection']) ||
+      in_array($projection, $layer->getProjections()) ||
       !empty($layer->data['vector'])
     ) {
-      if ($type == 'baselayer' && $layer->data['baselayer']) {
-        $options[$key] = theme('openlayers_ui_form_layer_description',
-          array(
-            'layer_title' => $layer->title,
-            'layer_description' => $layer->description,
-            'layer_link' => $layer->export_type & EXPORT_IN_DATABASE ?
-              "admin/structure/openlayers/layers/list/{$layer->name}/edit" : NULL
-            ));
+      if (!array_key_exists('isBaseLayer', $layer->data)) {
+        throw new Exception("Layer definition $key lacks isBaseLayer attribute");
       }
-      elseif ($type != 'baselayer' &&
-        empty($layer->data['baselayer'])) {
-        $options[$key] = theme('openlayers_ui_form_layer_description',
-          array(
-            'layer_title' => $layer->title,
-            'layer_description' => $layer->description,
-            'layer_link' => $layer->export_type & EXPORT_IN_DATABASE ?
-              "admin/structure/openlayers/layers/list/{$layer->name}/edit" : NULL
-            ));
+
+      if ($layer->data['isBaseLayer'] == TRUE && $type == 'baselayer') {
+        $variables = array(
+          'layer_title' => $layer->title,
+          'layer_description' => $layer->description,
+          'layer_link' => 'admin/structure/openlayers/layers/list/' . $layer->name . '/edit'
+        );
       }
+
+      if ($layer->data['isBaseLayer'] == FALSE && $type == 'overlay') {
+        $variables = array(
+          'layer_title' => $layer->title,
+          'layer_description' => $layer->description,
+          'layer_link' => 'admin/structure/openlayers/layers/list/' . $layer->name . '/edit'
+        );
+
+        if ($layer->data['layer_type'] == 'openlayers_views_vector') {
+          $variables['layer_link'] = 'admin/structure/views/view/' . $layer->data['views']['view'] . '/edit/' . $layer->data['views']['display'];
+        }
+      }
+    }
+    if (!empty($variables)) {
+      $options[$key] = theme('openlayers_ui_form_layer_description', $variables);
     }
   }
   return $options;

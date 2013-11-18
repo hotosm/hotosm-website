@@ -20,14 +20,14 @@
  * vector layers
  */
 .openlayers-map .olLayerDiv {
-  direction: ltr;
+  direction: ltr
 }
 
 /**
  * Controls
  */
 .openlayers-controls {
-	z-index: 1000;
+  z-index: 1000;
 }
 
 body .olControlLayerSwitcher .layersDiv {
@@ -55,5 +55,21 @@ body .olImageLoadError {
  * See #1875844
  */
 .openlayers-container #tooltip #tooltip_close {
-    display: none;
+  display: none;
+}
+
+/*
+ * Make OpenLayers img tag behave correctly with responsive stuff.
+ * See #1816826
+ */
+div.olPopup img,
+div.olLayerDiv img.olTileImage {
+  max-width: none;
+}
+
+/*
+ * Fix #1904424 and #1646646.
+ */
+label.olButton {
+  display: inline;
 }

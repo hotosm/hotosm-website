@@ -37,11 +37,11 @@ function geolocator_openlayers_layers() {
   $layer->description = '';
   $layer->data = array(
     'layer_type' => 'openlayers_layer_type_raw',
-    'projection' => array('900913'),
+    'projection' => array('EPSG:900913'),
     'features' => array(
       array(
       "wkt"=> "POINT(65 33)",
-      "projection"=> "4326",
+      "projection"=> "EPSG:4326",
       "attributes"=>
         array(
           "name"=> "Afghanistan",

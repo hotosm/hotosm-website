@@ -5,49 +5,19 @@
  */
 
 /**
- * Define the Ctools plugin options.
- */
-function openlayers_openlayers_layer_type_maptiler_openlayers_layer_types() {
-  return array(
-    'title' => t('MapTiler'),
-    'description' => t('<a href="!url">MapTiler</a> or GDAL2Tiles',
-      array('!url' => 'http://www.maptiler.org/')),
-    'layer_type' => array(
-      'file' => 'openlayers_layer_type_maptiler.inc',
-      'class' => 'openlayers_layer_type_maptiler',
-      'parent' => 'openlayers_layer_type',
-    ),
-  );
-}
-
-/**
  * OpenLayers MapTiler Layer Type class
  */
 class openlayers_layer_type_maptiler extends openlayers_layer_type {
-
-  function __construct($layer = array(), $map = array()) {
-    parent::__construct($layer, $map);
-    if (isset($this->data)) {
-      $this->data += $this->options_init();
-      $this->data['baselayer'] = $this->data['isBaseLayer'];
-    }
-    else {
-      $this->data = $this->options_init();
-    }
-  }
 
   /**
    * Provide initial values for options.
    */
   function options_init() {
     return array(
-      'serverResolutions' => openlayers_get_resolutions('900913'),
-      'maxExtent' => openlayers_get_extent('900913'),
-      'projection' => array('900913'),
-      'baselayer' => TRUE,
       'type' => 'png',
       'layer_handler' => 'maptiler',
-    );
+      'zoomOffset' => 0,
+    ) + parent::options_init();
   }
 
   /**
@@ -61,30 +31,42 @@ class openlayers_layer_type_maptiler extends openlayers_layer_type {
         '#default_value' => isset($this->data['base_url']) ?
           $this->data['base_url'] : ''
       ),
-      'isBaseLayer' => array(
-        '#type' => 'checkbox',
-        '#default_value' => isset($this->data['isBaseLayer']) ?
-          $this->data['isBaseLayer'] : TRUE,
-        '#title' => t('BaseLayer'),
-        '#description' => t('Uncheck to make this map an overlay')
+      'type' => array(
+        '#type' => 'select',
+        '#options' => array(
+          'jpg' => 'JPG',
+          'png' => 'PNG'
+        ),
+        '#default_value' => isset($this->data['type']) ?
+          $this->data['type'] : 'png'
       ),
       'resolutions' => array(
         '#type' => 'select',
         '#multiple' => TRUE,
         '#options' => array_combine(
-          array_map('strval', openlayers_get_resolutions('900913')),
-          range(0, 18)
+          array_map('strval', openlayers_get_resolutions('EPSG:900913')),
+          range(0, 21)
         ),
         '#title' => t('Zoom Level Range'),
         '#default_value' => isset($this->data['resolutions']) ?
           $this->data['resolutions'] :
-          array_map('strval', openlayers_get_resolutions('900913'))
+          array_map('strval', openlayers_get_resolutions('EPSG:900913'))
       ),
-      'layer_type' => array(
-        '#type' => 'hidden',
-        '#value' => 'openlayers_layer_type_maptiler'
+      'zoomOffset' => array(
+        '#type' => 'textfield',
+        '#title' => t('Zoom offset'),
+        '#default_value' => isset($this->data['zoomOffset']) ?
+          $this->data['zoomOffset'] : 0,
+        '#description' => t('If your cache has more zoom levels than you want to provide access to with this layer, supply a zoomOffset.  This zoom offset is added to the current map zoom level to determine the level for a requested tile.  For example, if you supply a zoomOffset of 3, when the map is at the zoom 0, tiles will be requested from level 3 of your cache.  Default is 0 (assumes cache level and map zoom are equivalent).  Using zoomOffset is an alternative to setting serverResolutions if you only want to expose a subset of the server resolutions.'),
       ),
     );
+  }
+
+  function options_form_submit($form, &$form_state) {
+    parent::options_form_submit($form, $form_state);
+    $form_state['values']['data']['base_url'] = explode("\n", $form_state['values']['data']['base_url']);
+    $form_state['values']['data']['resolutions'] = array_map('floatval', array_values($form_state['values']['data']['resolutions']));
+    $form_state['values']['data']['zoomOffset'] = intval($form_state['values']['data']['zoomOffset'], 10);
   }
 
   /**
@@ -93,6 +75,5 @@ class openlayers_layer_type_maptiler extends openlayers_layer_type {
   function render(&$map) {
     drupal_add_js(drupal_get_path('module', 'openlayers') .
       '/plugins/layer_types/openlayers_layer_type_maptiler.js');
-    return $this->options;
   }
 }

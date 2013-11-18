@@ -5,22 +5,6 @@
  */
 
 /**
- * Ctools plugin definition.
- */
-function openlayers_openlayers_behavior_mouseposition_openlayers_behaviors() {
-  return array(
-    'title' => t('Mouse Position'),
-    'description' => t('Provides a visual indication of the mouse position to the user.'),
-    'type' => 'map',
-    'behavior' => array(
-      'file' => 'openlayers_behavior_mouseposition.inc',
-      'class' => 'openlayers_behavior_mouseposition',
-      'parent' => 'openlayers_behavior',
-    ),
-  );
-}
-
-/**
  * Mouse Position Behavior
  */
 class openlayers_behavior_mouseposition extends openlayers_behavior {

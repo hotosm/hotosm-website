@@ -46,7 +46,7 @@ Drupal.openlayers.addBehavior('openlayers_behavior_tooltip', function (data, opt
       }
     }
   }
-  
+
   // if only 1 layer exists, do not add as an array.  Kind of a
   // hack, see https://drupal.org/node/1393460
   if (layers.length == 1) {

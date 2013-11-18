@@ -18,7 +18,8 @@ function _openlayers_test_openlayers_maps() {
   $behaviors_test->title = t('Test: Behaviors');
   $behaviors_test->description = t('This is a test map.');
   $behaviors_test->data = array(
-    'projection' => '900913',
+    'projection' => 'EPSG:900913',
+    'displayProjection' => 'EPSG:4326',
     'width' => 'auto',
     'default_layer' => 'osm_mapnik',
     'height' => '400px',
@@ -29,10 +30,6 @@ function _openlayers_test_openlayers_maps() {
         'centerpoint' => '0,0',
         'zoom' => '2'
       )
-    ),
-    'options' => array(
-      'displayProjection' => '4326',
-      'maxExtent' => openlayers_get_extent('4326'),
     ),
     'behaviors' => array(
       'openlayers_behavior_panzoombar' => array(),
@@ -96,8 +93,8 @@ function _openlayers_test_openlayers_maps() {
     'layer_switcher' => array(
       'openlayers_test_view_openlayers_1' => 'openlayers_test_view_openlayers_1',
     ),
-    'projection' => '900913',
-    'displayProjection' => '4326',
+    'projection' => 'EPSG:900913',
+    'displayProjection' => 'EPSG:4326',
     'styles' => array(
       'default' => 'default',
       'select' => 'default',
@@ -163,8 +160,8 @@ function _openlayers_test_openlayers_maps() {
       'test_geojson_direct_data' => 'default_select',
       'test_geojson_url' => 'default_marker_green',
     ),
-    'projection' => '900913',
-    'displayProjection' => '4326',
+    'projection' => 'EPSG:900913',
+    'displayProjection' => 'EPSG:4326',
     'styles' => array(
       'default' => 'default',
       'select' => 'default_select',
@@ -226,8 +223,8 @@ function _openlayers_test_openlayers_maps() {
     'layer_styles_select' => array(
       'test_kml_url' => 'default_select',
     ),
-    'projection' => '900913',
-    'displayProjection' => '4326',
+    'projection' => 'EPSG:900913',
+    'displayProjection' => 'EPSG:4326',
     'styles' => array(
       'default' => 'default',
       'select' => 'default_select',

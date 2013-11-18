@@ -90,7 +90,10 @@ class OpenLayersUI extends DrupalWebTestCase {
 
     // Update source settings
     $new_openlayers_source = 'http://openlayers.org/nightly/OpenLayers.js';
-    $openlayers_settings = array('openlayers_source' => $new_openlayers_source);
+    $openlayers_settings = array(
+      'openlayers_source_type' => 'external',
+      'openlayers_source_external' => $new_openlayers_source
+    );
     $this->drupalPost('admin/structure/openlayers', $openlayers_settings, t('Save configuration'));
     // Go to map page
     $this->drupalGet('admin/structure/openlayers');
@@ -257,6 +260,8 @@ class OpenLayersLayers extends DrupalWebTestCase {
         'name' => 'unitlayerkml',
         'title' => 'Unit Layer',
         'description' => 'Unit Layer for Drupal',
+        'openlayers_layer_type_kml[method]' => 'raw',
+        'openlayers_layer_type_kml[raw]' => $this->randomString(32)
       ),
       'openlayers_layer_type_wms' => array(
         'name' => 'unitlayerwms',
@@ -268,13 +273,8 @@ class OpenLayersLayers extends DrupalWebTestCase {
         'title' => 'Unit Layer',
         'description' => 'Unit Layer for Drupal',
       ),
-      'openlayers_layer_type_yahoo' => array(
-        'name' => 'unitlayeryahoo',
-        'title' => 'Unit Layer',
-        'description' => 'Unit Layer for Drupal',
-      ),
-      'openlayers_layer_type_virtualearth' => array(
-        'name' => 'unitlayervirtualearth',
+      'openlayers_layer_type_bing' => array(
+        'name' => 'unitlayerbing',
         'title' => 'Unit Layer',
         'description' => 'Unit Layer for Drupal',
       ),

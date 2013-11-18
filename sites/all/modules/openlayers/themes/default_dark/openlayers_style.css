@@ -135,6 +135,12 @@ div.olControlMousePosition {
     overflow: auto;
 }
 
+/* See #1978462 */
+.olPopup img {
+  max-width: 9999px;
+  max-height: 9999px;
+}
+
 .olControlNavigationHistory {
    background-image: url("img/navigation_history.png");
    background-repeat: no-repeat;
@@ -384,7 +390,7 @@ span.olGoogleAttribution.hybrid a, span.olGoogleAttribution.satellite a {
 }
 /* positions */
 .olControlEditingToolbar {
-    right: 0;
+    right: 26px;
     top: 0;
 }
 .olControlNavToolbar {

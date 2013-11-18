@@ -5,22 +5,6 @@
  */
 
 /**
- * Ctools plugin definition.
- */
-function openlayers_openlayers_behavior_zoombox_openlayers_behaviors() {
-  return array(
-    'title' => t('Zoom Box Clicking'),
-    'description' => t('Provides a zoom box that can be drawn on SHIFT + click.  Please note that by default the Navigation control behavior includes this, so there is no need to have both.'),
-    'type' => 'map',
-    'behavior' => array(
-      'file' => 'openlayers_behavior_zoombox.inc',
-      'class' => 'openlayers_behavior_zoombox',
-      'parent' => 'openlayers_behavior',
-    ),
-  );
-}
-
-/**
  * Zoom Box Behavior
  */
 class openlayers_behavior_zoombox extends openlayers_behavior {

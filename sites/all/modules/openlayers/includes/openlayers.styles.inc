@@ -2,18 +2,16 @@
 
 /**
  * @file
- * This file contains styles implementations
+ * This file contains styles implementations.
  *
  * @ingroup openlayers
  */
 
 /**
- * Style Implementation
+ * Internal callback
+ * Helper function to return default styles.
  *
- * Internal callback for openlayers style implementation.
- *
- * @return
- *   Array of styles for an OpenLayers map
+ * @return mixed
  */
 function _openlayers_openlayers_styles() {
   $styles = array();

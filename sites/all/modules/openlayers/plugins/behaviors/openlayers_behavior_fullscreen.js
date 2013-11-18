@@ -29,18 +29,15 @@ Drupal.openlayers.addBehavior('openlayers_behavior_fullscreen', function (data, 
   }
 });
 
-(function ($) {
-  /**
-   * Toggling function for FullScreen control.
-   */
-  Drupal.openlayers.fullscreenToggle = function () {
-    var map = this.openlayers;
-    var $map = $(this.openlayers.div);
-    var extent = map.getExtent();
+/**
+ * Toggling function for FullScreen control.
+ */
+Drupal.openlayers.fullscreenToggle = function () {
+  var $map = jQuery(this.openlayers.div);
+  var extent = this.openlayers.getExtent();
 
-    $map.parent().toggleClass('openlayers_map_fullscreen');
-    $map.toggleClass('openlayers_map_fullscreen');
-    $map.data('openlayers').openlayers.updateSize();
-    $map.data('openlayers').openlayers.zoomToExtent(extent, true);
-  };
-}(jQuery));
+  $map.parent().toggleClass('openlayers_map_fullscreen');
+  $map.toggleClass('openlayers_map_fullscreen');
+  $map.data('openlayers').openlayers.updateSize();
+  $map.data('openlayers').openlayers.zoomToExtent(extent, true);
+};

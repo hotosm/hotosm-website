@@ -1,52 +1,22 @@
 <?php
-
 /**
  * @file
  * OSM Layer Type
  */
 
 /**
- * Define the Ctools plugin options.
- */
-function openlayers_openlayers_layer_type_osm_openlayers_layer_types() {
-  return array(
-    'title' => t('OSM'),
-    'description' => t('OpenStreetMap Standard'),
-    'layer_type' => array(
-      'file' => 'openlayers_layer_type_osm.inc',
-      'class' => 'openlayers_layer_type_osm',
-      'parent' => 'openlayers_layer_type',
-    ),
-  );
-}
-
-/**
  * OpenLayers OSM Layer Type class
  */
 class openlayers_layer_type_osm extends openlayers_layer_type {
-  function __construct($layer = array(), $map = array()) {
-    parent::__construct($layer, $map);
-    if (isset($this->data)) {
-      $this->data += $this->options_init();
-    }
-    else {
-      $this->data = $this->options_init();
-    }
-  }
 
   /**
    * Provide initial values for options.
    */
   function options_init() {
     return array(
-      'serverResolutions' => openlayers_get_resolutions('900913'),
-      'maxExtent' => openlayers_get_extent('900913'),
-      'projection' => array('900913'),
-      'layer_handler' => 'xyz',
-      'layer_type' => 'osm',
+      'layer_handler' => 'osm',
       'type' => 'png',
-      'baselayer' => TRUE,
-    );
+    ) + parent::options_init();
   }
 
   /**
@@ -54,38 +24,44 @@ class openlayers_layer_type_osm extends openlayers_layer_type {
    */
   function options_form($defaults = array()) {
     return array(
-      'base_url' => array(
-        '#type' => 'textfield',
-        '#title' => t('Base URL'),
-        '#default_value' => isset($this->data['base_url']) ?
-          $this->data['base_url'] : ''
-      ),
-      'layer_type' => array(
-        '#type' => 'hidden',
-        '#value' => 'openlayers_layer_type_osm'
-      ),
-      'type' => array(
+      'serverResolutions' => array(
         '#type' => 'select',
-        '#title' => t('File Format'),
-        '#options' => array(
-          'png' => 'png',
-          'jpg' => 'jpg'),
-        '#default_value' => isset($this->data['type']) ?
-          $this->data['type'] : 'png'
+        '#multiple' => TRUE,
+        '#description' => t('Only set this if you need a very specific resolution.'),
+        '#options' => array_combine(
+          array_map('strval', openlayers_get_resolutions('EPSG:900913')),
+          range(0, 21)),
+        '#title' => t('Zoom Level Range'),
+        '#default_value' => isset($this->data['serverResolutions']) ?
+          array_map('strval', $this->data['serverResolutions']) : NULL,
       ),
       'resolutions' => array(
         '#type' => 'select',
         '#multiple' => TRUE,
+        '#description' => t('Only set this if you need a very specific resolution.'),
         '#options' => array_combine(
-          array_map('strval', openlayers_get_resolutions('900913')),
-          range(0, 18)),
+          array_map('strval', openlayers_get_resolutions('EPSG:900913')),
+          range(0, 21)),
         '#title' => t('Zoom Level Range'),
         '#default_value' => isset($this->data['resolutions']) ?
-          $this->data['resolutions'] :
-          array_map('strval', openlayers_get_resolutions('900913'))
+          array_map('strval', $this->data['resolutions']) : array(),
+      ),
+      'url' => array(
+        '#type' => 'textarea',
+        '#title' => t('Base URL (template)'),
+        '#default_value' => !empty($this->data['url']) ? implode("\n", (array) $this->data['url']) : '',
+        '#maxlength' => 2083,
+        '#description' => t('This is the base URL template for the XYZ layer.  It should be something similar to <em>http://example.com/tiles/1.0.0/layer_name/${z}/${x}/${y}.png</em>.'),
       ),
     );
   }
+
+  function options_form_validate($form, &$form_state) {
+    $form_state['data']['url'] = explode("\n", $form_state['data']['url']);
+    $form_state['data']['serverResolutions'] = array_map('floatval', array_values($form_state['data']['serverResolutions']));
+    $form_state['data']['resolutions'] = array_map('floatval', array_values($form_state['data']['resolutions']));
+  }
+
 
   /**
    * Render.
@@ -93,6 +69,5 @@ class openlayers_layer_type_osm extends openlayers_layer_type {
   function render(&$map) {
     drupal_add_js(drupal_get_path('module', 'openlayers') .
       '/plugins/layer_types/openlayers_layer_type_osm.js');
-    return $this->options;
   }
 }

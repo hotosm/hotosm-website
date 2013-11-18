@@ -38,31 +38,5 @@ function openlayers_ui_openlayers_maps_ctools_export_ui() {
         )
       )
     ),
-
-    'form' => array(
-      'settings' => 'openlayers_maps_ctools_export_ui_form_settings',
-      'validate' => 'openlayers_maps_ctools_export_ui_form_validate',
-    ),
   );
-}
-
-function openlayers_maps_ctools_export_ui_form_settings(&$form, &$form_state) {
-  $map = $form_state['item'];
-  if (empty($map->name)) {
-    $map = NULL;
-  }
-
-  module_load_include('inc', 'openlayers_ui', 'includes/openlayers_ui.maps');
-
-  if ($form_state['op'] == 'add') {
-    $form = openlayers_ui_maps_form($form, $form_state, $map, FALSE);
-  }
-
-  if ($form_state['op'] == 'edit') {
-    $form = openlayers_ui_maps_form($form, $form_state, $map, TRUE);
-  }
-}
-
-function openlayers_maps_ctools_export_ui_form_validate($form, $form_state) {
-
 }

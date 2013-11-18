@@ -121,6 +121,75 @@ function openlayers_schema() {
     ),
     'primary key' => array('name'),
   );
+  // Projection table (ctools extras)
+  // TODO: Translations missing?
+  $schema['openlayers_projections'] = array(
+    'description' => 'Storage for user defined OpenLayers projections.',
+    'export' => array(
+      'key' => 'identifier',
+      'key name' => 'Identifier',
+      'primary key' => 'identifier',
+      'identifier' => 'openlayers_projections',
+      'default hook' => 'openlayers_projections',
+      'api' => array(
+        'owner' => 'openlayers',
+        'api' => 'openlayers_projections',
+        'minimum_version' => 1,
+        'current_version' => 1,
+      ),
+    ),
+    'fields' => array(
+      'identifier' => array(
+        'type' => 'varchar',
+        'length' => 255,
+        'not null' => TRUE,
+        'description' => 'Opaque identifier. Guaranteed to be unique but does not have any other meaning.'
+      ),
+      'authority' => array(
+        'type' => 'text',
+        'not null' => TRUE,
+        'description' => 'Projection authority.',
+      ),
+      'code' => array(
+        'type' => 'text',
+        'not null' => TRUE,
+        'description' => 'Projection code.',
+      ),
+      'definition' => array(
+        'type' => 'text',
+        'not null' => TRUE,
+        'description' => 'Projection definition (proj4 format).',
+      ),
+      'projectedextentleft' => array(
+        'type' => 'numeric',
+        'not null' => TRUE,
+        'description' => "Leftmost value in this projection's coordinates",
+      ),
+      'projectedextentbottom' => array(
+        'type' => 'numeric',
+        'not null' => TRUE,
+        'description' => "Bottommost value in this projection's coordinates",
+      ),
+      'projectedextentright' => array(
+        'type' => 'numeric',
+        'not null' => TRUE,
+        'description' => "Rightmost value in this projection's coordinates",
+      ),
+      'projectedextenttop' => array(
+        'type' => 'numeric',
+        'not null' => TRUE,
+        'description' => "Topmost value in this projection's coordinates",
+      ),
+      // TODO Hopefully never used
+      'data' => array(
+        'type' => 'text',
+        'not null' => FALSE,
+        'description' => 'Projection data serialized.',
+        'serialize' => TRUE,
+      ),
+    ),
+    'primary key' => array('identifier'),
+  );
   // Styles table (ctools extras)
   $schema['openlayers_styles'] = array(
     'description' => 'Storage for user defined OpenLayers styles.',
@@ -298,4 +367,221 @@ function openlayers_update_7201() {
 function openlayers_update_7202() {
   db_drop_index('openlayers_layers', 'name');
   db_drop_index('openlayers_styles', 'name');
+}
+
+/**
+ * Rename the 'baselayer' in 'isBaseLayer' in layers.
+ */
+function openlayers_update_7204() {
+  openlayers_update_create_projection_table();
+  
+  foreach (openlayers_layers_load() as $key => $layer) {
+    if ($layer->export_type != 1) continue;
+    if (isset($layer->data['baselayer'])) {
+      $layer->data['isBaseLayer'] = $layer->data['baselayer'];
+      unset($layer->data['baselayer']);
+      ctools_export_crud_save('openlayers_layers', $layer);
+    }
+  }
+}
+
+/**
+ * Change the case of machine_name for layers, maps and styles.
+ * Warning, it can break things.
+ */
+function openlayers_update_7205() {
+  db_query('UPDATE {openlayers_layers} SET name = LOWER(name);');
+  db_query('UPDATE {openlayers_styles} SET name = LOWER(name);');
+  db_query('UPDATE {openlayers_maps} SET name = LOWER(name);');
+}
+
+/**
+ * Rename the 'base_url' in 'url' in layer type TMS.
+ */
+function openlayers_update_7206() {
+  openlayers_update_create_projection_table();
+  
+  foreach (openlayers_layers_load() as $key => $layer) {
+    if ($layer->export_type != 1) continue;
+    if ($layer->data['layer_type'] != 'openlayers_layer_type_tms') continue;
+    if (isset($layer->data['base_url'])) {
+      $layer->data['url'] = $layer->data['base_url'];
+      unset($layer->data['base_url']);
+      ctools_export_crud_save('openlayers_layers', $layer);
+    }
+  }
+}
+
+/**
+ * Makes projections available that are required for update hooks to work properly.
+ * Must by called at least once by any of the update hooks.
+ */
+function openlayers_update_create_projection_table() {
+  static $hasRun = FALSE;
+  if($hasRun || db_table_exists('openlayers_projections')){
+    return;
+  } else {
+    $hasRun = TRUE;
+  }
+  
+  // Create projection table
+  $openlayers_projections_schema = array(
+    'description' => 'Storage for user defined OpenLayers projections.',
+    'export' => array(
+      'key' => 'identifier',
+      'key name' => 'Identifier',
+      'primary key' => 'identifier',
+      'identifier' => 'openlayers_projections',
+      'default hook' => 'openlayers_projections',
+      'api' => array(
+        'owner' => 'openlayers',
+        'api' => 'openlayers_projections',
+        'minimum_version' => 1,
+        'current_version' => 1,
+      ),
+    ),
+    'fields' => array(
+      'identifier' => array(
+        'type' => 'varchar',
+        'length' => 255,
+        'not null' => TRUE,
+        'description' => 'Opaque identifier. Guaranteed to be unique but does not have any other meaning.'
+      ),
+      'authority' => array(
+        'type' => 'text',
+        'not null' => TRUE,
+        'description' => 'Projection authority.',
+      ),
+      'code' => array(
+        'type' => 'text',
+        'not null' => TRUE,
+        'description' => 'Projection code.',
+      ),
+      'definition' => array(
+        'type' => 'text',
+        'not null' => TRUE,
+        'description' => 'Projection definition (proj4 format).',
+      ),
+      'projectedextentleft' => array(
+        'type' => 'numeric',
+        'not null' => TRUE,
+        'description' => "Leftmost value in this projection's coordinates",
+      ),
+      'projectedextentbottom' => array(
+        'type' => 'numeric',
+        'not null' => TRUE,
+        'description' => "Bottommost value in this projection's coordinates",
+      ),
+      'projectedextentright' => array(
+        'type' => 'numeric',
+        'not null' => TRUE,
+        'description' => "Rightmost value in this projection's coordinates",
+      ),
+      'projectedextenttop' => array(
+        'type' => 'numeric',
+        'not null' => TRUE,
+        'description' => "Topmost value in this projection's coordinates",
+      ),
+      // TODO Hopefully never used
+      'data' => array(
+        'type' => 'text',
+        'not null' => FALSE,
+        'description' => 'Projection data serialized.',
+        'serialize' => TRUE,
+      ),
+    ),
+    'primary key' => array('identifier'),
+  );
+  db_create_table('openlayers_projections', $openlayers_projections_schema);
+}
+
+/**
+ * Migrate configured projections so that other projections than those of EPSG can be used, too.
+ */
+function openlayers_update_7207() {
+  openlayers_update_create_projection_table();
+  
+  // Migrate stored layers
+  foreach (openlayers_layers_load(TRUE) as $key => $layer) {
+    $projections = array();
+
+    // Takeover srs key that no longer exists and migrate it to a projection
+    if ($layer instanceof openlayers_layer_type_wms && array_key_exists('srs', $layer->data['options']) && !in_array($layer->data['options']['srs'], $layer->data['projection'])) {
+      $projections[] = $layer->data['options']['srs'];
+    }
+    unset($layer->data['options']['srs']);
+
+    foreach ($layer->data['projection'] as $projection) {
+      if (is_string($projection)) {
+        $projections[] = $projection;
+      }
+      else {
+        throw new DrupalUpdateException("Unsupported projection type encountered in layer " . $key);
+      }
+    }
+    $layer->data['projection'] = $projections;
+    ctools_export_crud_save('openlayers_layers', $layer);
+  }
+
+  // The code for the projection changed but its semantics stayed.
+  // Only update the display projection as servers might be in use that don't yet support the new code.
+  foreach (openlayers_maps(TRUE) as $key => $map) {
+    if ($map->data['displayProjection']==='EPSG:900913') {
+      $map->data['displayProjection'] = 'EPSG:3857';
+    }
+    ctools_export_crud_save('openlayers_maps', $map);
+  }
+}
+
+/**
+ * Ensure projections carry an authority code.
+ */
+function openlayers_update_7208() {
+  // Commit 95108d3fa82c34fc5dc5e6e159263232a891a27a introduced authority codes
+  // for layers and maps but did not migrate existing data.
+  foreach (openlayers_layers_load(TRUE) as $key => $layer) {
+    $projections = array();
+    foreach ($layer->data['projection'] as $projection) {
+      if(mb_strpos($projection, 'EPSG:')===FALSE){
+        $projections[] = 'EPSG:'.$projection;
+      } else {
+        $projections[] = $projection;
+      }
+    }
+    $layer->data['projection'] = $projections;
+    ctools_export_crud_save('openlayers_layers', $layer);
+  }
+  foreach (openlayers_maps(TRUE) as $key => $map) {
+    foreach(array('projection', 'displayProjection') as $projectionKey){
+      $projection = $map->data[$projectionKey];
+      if(mb_strpos($projection, 'EPSG:')===FALSE){
+        $projection = 'EPSG:'.$projection;
+      } else {
+        $projection = $projection;
+      }
+      $map->data[$projectionKey] = $projection;
+    }
+    ctools_export_crud_save('openlayers_maps', $map);
+  }
+}
+
+/**
+ * Drop maxExtent from layers where layers don't handle it. OpenLayers will
+ * then take the property from the map for the affected layers.
+ */
+function openlayers_update_7209(){
+  foreach (openlayers_layers_load(TRUE) as $key => $layer) {
+    if($layer instanceof openlayers_layer_type_google
+        || $layer instanceof openlayers_layer_type_bing
+        || $layer instanceof openlayers_layer_type_cloudmade
+        || $layer instanceof openlayers_layer_type_geojson
+        || $layer instanceof openlayers_layer_type_kml
+        || $layer instanceof openlayers_layer_type_osm
+        || $layer instanceof openlayers_layer_type_raw
+        || $layer instanceof openlayers_layer_type_wms
+            ){
+      unset($layer->data['maxExtent']);
+    }
+    ctools_export_crud_save('openlayers_layers', $layer);
+  }
 }

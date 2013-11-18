@@ -51,19 +51,23 @@ class openlayers_views_style_map extends views_plugin_style {
       $this->view->query->fields = array();
     }
     $this->view->executed = TRUE;
+    $this->view->result = TRUE;
+    $map = openlayers_map_load($this->options['map']);
+    $render = openlayers_render_map($map);
+    $this->view->result = $render || !$map->data['hide_empty_map'] ? TRUE : FALSE;
+    if ($this->view->result) {
+      $this->render = $render;
+    }
   }
 
   /**
    * Renders views (map)
    */
   function render() {
-    // Get selected map
-    $map = openlayers_map_load($this->options['map']);
-
     return theme($this->theme_functions(), array(
       'view' => $this->view,
       'options' => $this->options,
-      'map' => openlayers_render_map($map, $map->name)
+      'map' => $this->render
     ));
   }
 }

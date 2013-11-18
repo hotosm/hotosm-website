@@ -5,51 +5,24 @@
  */
 
 /**
- * Define the Ctools plugin options.
- */
-function openlayers_openlayers_layer_type_wms_openlayers_layer_types() {
-  return array(
-    'title' => t('WMS'),
-    'description' => t('<a href="!url">Web Map Service</a>',
-      array('!url' => 'http://en.wikipedia.org/wiki/Web_Map_Service')),
-    'layer_type' => array(
-      'file' => 'openlayers_layer_type_wms.inc',
-      'class' => 'openlayers_layer_type_wms',
-      'parent' => 'openlayers_layer_type',
-    ),
-  );
-}
-
-/**
  * OpenLayers WMS Layer Type class
  */
 class openlayers_layer_type_wms extends openlayers_layer_type {
-  function __construct($layer = array(), $map = array()) {
-    parent::__construct($layer, $map);
-    if (isset($this->data)) {
-      if (isset($this->data['options']['srs'])) {
-        $pts = explode(':', $this->data['options']['srs']);
-        $this->data['projection'] = array($pts[1]);
-        $this->data['params']['resolutions'] = openlayers_get_resolutions($pts[1]);
-        $this->data['params']['projection'] = $this->data['options']['srs'];
-        $this->data['params']['maxextent'] =  openlayers_get_extent($pts[1]);
-      }
-      $this->data['baselayer'] = $this->data['params']['isBaseLayer'];
-      $this->data += $this->options_init();
-    }
-    else {
-      $this->data = $this->options_init();
-    }
-  }
 
   /**
    * Provide initial values for options.
    */
   function options_init() {
-    return array(
+    $options = array(
       'layer_handler' => 'wms',
-      'baselayer' => FALSE
-    );
+    ) + parent::options_init();
+
+    // Discard hard-codes resolution because the client can calculate them usually
+    unset($options['serverResolutions']);
+    unset($options['maxExtent']);
+    unset($options['resolutions']);
+
+    return $options;
   }
 
   /**
@@ -67,14 +40,6 @@ class openlayers_layer_type_wms extends openlayers_layer_type {
 
       // TODO: swap terms
       'params' => array(
-        'isBaseLayer' => array(
-          '#type' => 'checkbox',
-          '#default_value' => isset($this->data['params']['isBaseLayer']) ?
-            $this->data['params']['isBaseLayer'] : TRUE,
-          '#return_value' => 'true',
-          '#title' => t('BaseLayer'),
-          '#description' => t('Uncheck to make this map an overlay')
-        ),
         // TODO: validate the field, only positive integers shall be allowed
         'buffer' => array(
           '#type' => 'textfield',
@@ -101,15 +66,6 @@ class openlayers_layer_type_wms extends openlayers_layer_type {
         )
       ),
       'options' => array(
-        'srs' => array(
-          '#type' => 'select',
-          '#title' => t('Projection'),
-          '#options' => array(
-            'EPSG:900913' => '900913',
-            'EPSG:4326' => '4326'),
-          '#default_value' => isset($this->data['options']['srs']) ?
-            $this->data['options']['srs'] : '900913'
-        ),
         'TRANSPARENT' => array(
           '#type' => 'checkbox',
           '#default_value' => isset($this->data['options']['TRANSPARENT']) ?
@@ -139,10 +95,12 @@ class openlayers_layer_type_wms extends openlayers_layer_type {
             $this->data['options']['format'] : 'image/png'
         ),
         'layers' => array(
-          '#type' => 'textfield',
+          '#type' => 'textarea',
           '#title' => t('Layers'),
-          '#default_value' => isset($this->data['options']['layers']) ?
-            $this->data['options']['layers'] : ''
+          // TODO: Should be required to be non-empty as not having a layer leads to invalid requests
+          '#default_value' => !empty($this->data['options']['layers']) ?
+            implode("\r\n", $this->data['options']['layers']) : '',
+          '#description' => t('Specifies which layers to show. One per line.')
         ),
         'styles' => array(
           '#type' => 'textfield',
@@ -151,11 +109,14 @@ class openlayers_layer_type_wms extends openlayers_layer_type {
             $this->data['options']['styles'] : ''
         ),
       ),
-      'layer_type' => array(
-        '#type' => 'hidden',
-        '#value' => 'openlayers_layer_type_wms'
-      )
     );
+  }
+
+  /**
+   * hook_validate()
+   */
+  function options_form_validate($form, &$form_state) {
+    $form_state['data']['options']['layers'] = explode("\r\n", $form_state['data']['options']['layers']);
   }
 
   /**
@@ -164,6 +125,5 @@ class openlayers_layer_type_wms extends openlayers_layer_type {
   function render(&$map) {
     drupal_add_js(drupal_get_path('module', 'openlayers') .
       '/plugins/layer_types/openlayers_layer_type_wms.js');
-    return $this->options;
   }
 }

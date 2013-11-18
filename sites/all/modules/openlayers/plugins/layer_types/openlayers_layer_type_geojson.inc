@@ -5,48 +5,23 @@
  */
 
 /**
- * Define the Ctools plugin options.
- */
-function openlayers_openlayers_layer_type_geojson_openlayers_layer_types() {
-  return array(
-    'title' => t('GeoJSON'),
-    'description' => t('Provides a vector layer based on <a href="!url">GeoJSON</a>.',
-      array('!url' => 'http://geojson.org/')),
-    'layer_type' => array(
-      'file' => 'openlayers_layer_type_geojson.inc',
-      'class' => 'openlayers_layer_type_geojson',
-      'parent' => 'openlayers_layer_type',
-    ),
-  );
-}
-
-/**
  * OpenLayers GeoJSON Layer Type class
  */
 class openlayers_layer_type_geojson extends openlayers_layer_type {
-  function __construct($layer = array(), $map = array()) {
-    parent::__construct($layer, $map);
-    if (isset($this->data)) {
-      $this->data += $this->options_init();
-    }
-    else {
-      $this->data = $this->options_init();
-    }
-  }
 
   /**
    * Provide initial values for options.
    */
   function options_init() {
     return array(
-      'layer_type' => 'openlayers_layer_type_geojson',
       'layer_handler' => 'geojson',
-      'projection' => array('4326'),
-      'baselayer' => FALSE,
+      'projection' => array('EPSG:4326'),
+      'serverResolutions' => openlayers_get_resolutions('EPSG:4326'),
+      'isBaseLayer' => FALSE,
       'vector' => TRUE,
       'geojson_data' => '',
       'useBBOX' => FALSE,
-    );
+    ) + parent::options_init();
   }
 
   /**
@@ -83,15 +58,23 @@ class openlayers_layer_type_geojson extends openlayers_layer_type {
           '),
         '#default_value' => isset($this->data['resFactor']) ? $this->data['resFactor'] : 1
       ),
+     'useScript' => array(
+        '#type' => 'checkbox',
+        '#title' => t('Use Script Method'),
+        '#description' => t('Avoid 405 error and XSS issues load data from another server with ajax'),
+        '#default_value' => isset($this->data['useScript']) ? $this->data['useScript'] : FALSE,
+      ),
+     'callbackKey' => array(
+        '#type' => 'textfield',
+        '#title' => t('Script Callback Key'),
+        '#description' => t('Key returned by callback along with geoJSON'),
+        '#default_value' => isset($this->data['callbackKey']) ? $this->data['callbackKey'] : NULL
+      ),
       'geojson_data' => array(
         '#type' => 'textarea',
         '#title' => t('GeoJSON Data'),
         '#description' => t('Paste raw GeoJSON data here.  It is better to use a URL.  This is provided for very simple use cases like one or two features.  If there is data here, it will override the URL above.'),
         '#default_value' => isset($this->data['geojson_data']) ? $this->data['geojson_data'] : '',
-      ),
-      'layer_type' => array(
-        '#type' => 'hidden',
-        '#value' => 'openlayers_layer_type_geojson'
       ),
     );
   }
@@ -100,10 +83,15 @@ class openlayers_layer_type_geojson extends openlayers_layer_type {
    * Render.
    */
   function render(&$map) {
-    $this->options['url'] = !empty($this->options['url']) ? url($this->options['url']) : '';
+    if (isset($map['views_arguments'])) {
+      foreach ((array) $map['views_arguments'] as $name => $value) {
+        $this->data['url'] = str_replace("[{$name}]", $value, $this->data['url']);
+      }
+    }
+
+    $this->data['url'] = !empty($this->data['url']) ? url($this->data['url']) : '';
 
     drupal_add_js(drupal_get_path('module', 'openlayers')
       . '/plugins/layer_types/openlayers_layer_type_geojson.js');
-    return $this->options;
   }
 }

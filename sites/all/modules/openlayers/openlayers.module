@@ -69,19 +69,14 @@ function openlayers_theme($existing, $type, $theme, $path) {
  * Implements hook_ctools_plugin_directory().
  */
 function openlayers_ctools_plugin_directory($module, $plugin) {
-  if ($plugin == 'content_types' && !empty($plugin)) {
-    return 'includes/' . $plugin;
-  }
-  if ($module == 'openlayers' && !empty($plugin)) {
-    return 'plugins/' . $plugin;
-  }
+  return 'plugins/' . $plugin;
 }
 
 /**
  * Implements hook_ctools_plugin_type().
  */
 function openlayers_ctools_plugin_type() {
-  // For backwards compatability, we allow for the use
+  // For backwards compatibility, we allow for the use
   // of hooks to define these plugins.
   //
   // This should be removed in 7.x-3.x
@@ -103,32 +98,41 @@ function openlayers_ctools_plugin_type() {
  * @ingroup openlayers_api
  */
 function openlayers_include() {
-  // Use a static variable to prevent running URL check code repeatedly.
-  static $once;
-  if (!isset($once)) {
-    $once = TRUE;
 
-    $path = check_plain(variable_get('openlayers_source', OPENLAYERS_DEFAULT_LIBRARY));
-
-    // Correctly handle URLs beginning with a double backslash, see RFC 1808 Section 4
-    if (substr($path, 0, 2) == '//') {
-      $http_protocol = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') ? 'https' : 'http';
-      $path = $http_protocol .':'. $path;
-    }
-
-    // Check for full URL and include it manually if external.
-    if (valid_url($path, TRUE)) {
-      drupal_add_js($path, 'external');
-    }
-    else {
-      drupal_add_js($path);
-    }
-
-    drupal_add_css(drupal_get_path('module', 'openlayers') .
-      '/css/openlayers.css', 'file');
-    drupal_add_js(drupal_get_path('module', 'openlayers') .
-      '/js/openlayers.js', 'file');
+  if ('internal' == variable_get('openlayers_source_type', 'external')) {
+    $variant = variable_get('openlayers_source_internal_variant', NULL);
+    if ($variant == 'original') $variant = NULL;
+    libraries_load('openlayers', $variant);
   }
+  else {
+    // Use a static variable to prevent running URL check code repeatedly.
+    static $once;
+    if (!isset($once)) {
+      $once = TRUE;
+
+      $path = check_plain(variable_get('openlayers_source_external', OPENLAYERS_DEFAULT_LIBRARY));
+
+      // Correctly handle URLs beginning with a double backslash, see RFC 1808 Section 4
+      if (substr($path, 0, 2) == '//') {
+        $http_protocol = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') ? 'https' : 'http';
+        $path = $http_protocol . ':' . $path;
+      }
+
+      // Check for full URL and include it manually if external.
+      if (valid_url($path, TRUE)) {
+        drupal_add_js($path, 'external');
+      }
+      else {
+        drupal_add_js($path);
+      }
+
+      drupal_add_css(drupal_get_path('module', 'openlayers') .
+        '/css/openlayers.css', 'file');
+      drupal_add_js(drupal_get_path('module', 'openlayers') .
+        '/js/openlayers.js', 'file');
+    }
+  }
+
 }
 
 /**
@@ -170,12 +174,41 @@ function openlayers_build_map($map = array()) {
   $map['styles'] = isset($map['styles']) ? $map['styles'] : array();
   $map['layer_styles'] = isset($map['layer_styles']) ? $map['layer_styles'] : array();
   $map['layer_styles_select'] = isset($map['layer_styles_select']) ? $map['layer_styles_select'] : array();
+  $map['layer_styles_temporary'] = isset($map['layer_styles_temporary']) ? $map['layer_styles_temporary'] : array();
 
   // Process map parts.
   $map['layers'] = _openlayers_layers_process($map['layers'], $map);
   $map['behaviors'] = _openlayers_behaviors_render($map['behaviors'], $map);
-  $map['styles'] = _openlayers_styles_process($map['styles'],
-    $map['layer_styles'], $map['layer_styles_select'], $map);
+  $map['styles'] = _openlayers_styles_process($map['styles'], $map['layer_styles'], $map['layer_styles_select'], $map['layer_styles_temporary'], $map);
+
+  // Restrict map to its projection extent (data outwith cannot be represented).
+  // Layer can additionally specfiy their maxExtent in case they use
+  // non-default grids.
+  $projection = openlayers_get_projection_by_identifier($map['projection']);
+  $map['maxExtent'] = $projection->getProjectedExtent();
+
+  // In case the layer offers the same projection as the map, use this and do not provide
+  // projection definition to client. Otherwise rely on the client to reproject on the fly.
+  foreach ($map['layers'] as $layer_name => $layer) {
+    if(in_array($map['projection'], $layer['projection'])){
+      $map['layers'][$layer_name]['projection'] = $map['projection'];
+    } else {
+      // Client is able to reproject any possible projection because their definitions need to be
+      // known to be able to set up a layer with a certain projection. Thus choice does not matter.
+      $layerProjectionIdentifier = reset($layer['projection']);
+      if($layerProjectionIdentifier===FALSE){
+        throw new Exception(
+          t('Layer !title lacks its projection. Please edit it to select a projection.', array(
+              '!title' => $layer['title']
+          ))
+        );
+      }
+      $map['layers'][$layer_name]['projection'] = $layerProjectionIdentifier;
+    }
+
+    // Ensure JavaScript gets proper type.
+    $map['layers'][$layer_name]['isBaseLayer'] = (boolean)($layer['isBaseLayer']);
+  }
 
   // Hook to alter map one last time.  Final modification to existing
   // styles, behaviors, layers can happen here, but adding new styles,
@@ -204,6 +237,7 @@ function openlayers_build_map($map = array()) {
 function openlayers_render_map_data($map = array()) {
   // Run map through build process
   $map = openlayers_build_map($map);
+
   $output = '';
 
   // Given hide_empty_map flag, check if the map has any features
@@ -216,12 +250,36 @@ function openlayers_render_map_data($map = array()) {
       }
     }
     if ($empty) {
+      // Abort early because there are no features to display on the map anyway
       return '';
     }
   }
 
+  // Currently the restricted extent of maps is always given in EPSG:3857 so
+  // this projection needs to be available in the client for all restricted
+  // maps. Using EPSG:4326 instead would likely be better.
+  if(array_key_exists('restrict', $map['center']) && (boolean)$map['center']['restrict']['restrictextent']){
+    openlayers_add_js_projection_definition(
+      openlayers_get_projection_by_identifier('EPSG:3857')
+    );
+  }
+
   // Return themed map if no errors found
   if (empty($map['errors'])) {
+
+    // In case the layer offers the same projection as the map, use this and do not provide
+    // projection definition to client. Otherwise rely on the client to reproject on the fly.
+    foreach ($map['layers'] as $layer_name => $layer) {
+        // Provide client with projection definition so that it can reproject
+        openlayers_add_js_projection_definition(
+          openlayers_get_projection_by_identifier($map['layers'][$layer_name]['projection'])
+        );
+    }
+
+    // Ensure projections in use are known to the client (loads Proj4js if required)
+    openlayers_add_js_projection_definition(openlayers_get_projection_by_identifier($map['projection']));
+    openlayers_add_js_projection_definition(openlayers_get_projection_by_identifier($map['displayProjection']));
+
     $js = array('openlayers' => array('maps' => array($map['id'] => $map)));
     drupal_add_js($js, 'setting');
 
@@ -231,6 +289,18 @@ function openlayers_render_map_data($map = array()) {
     ));
   }
   return $output;
+}
+
+/**
+ * Load projection transformations in case OpenLayers does not support projections in use natively
+ * @param openlayers_projection $projection
+ */
+function openlayers_add_js_projection_definition(openlayers_projection $projection) {
+  $openlayers_natively_supported = array('EPSG:4326', 'EPSG:900913');
+  // Only load Proj4js if projection not supported by OpenLayers anyway
+  if (!in_array($projection->identifier, $openlayers_natively_supported)) {
+    proj4js_load_definition($projection->identifier, $projection->getDefinition());
+  }
 }
 
 /**
@@ -260,6 +330,9 @@ function openlayers_render_map($map = '') {
       $map_name = variable_get('openlayers_default_map', 'default');
     }
     $map = openlayers_map_load($map_name);
+    if (!is_object($map)) {
+      throw new Exception("Failed to load map called " . $map_name);
+    }
   }
 
   return openlayers_render_map_data($map->data);
@@ -269,12 +342,12 @@ function openlayers_render_map($map = '') {
  * Get layer object
  *
  * @ingroup openlayers_api
- * @param $reset
- *   Boolean whether to reset cache or not
- * @return array
+ * @return openlayers_layer_type|FALSE
  *   array of layer info
  */
 function openlayers_get_layer_object($layer, $map = array()) {
+  ctools_include('plugins');
+
   // Static cache because this function will possibly be called in big loops
   static $layer_types;
   if (!isset($layer_types)) {
@@ -285,13 +358,12 @@ function openlayers_get_layer_object($layer, $map = array()) {
   $layer->description = t($layer->description);
 
   // Attempt to get ctool class
-  // class is renamed klass because of PHP keywords
   if (isset($layer_types[$layer->data['layer_type']]) &&
-    $klass = ctools_plugin_get_class(
+    $class = ctools_plugin_get_class(
       $layer_types[$layer->data['layer_type']],
       'layer_type')
   ) {
-    $layer_object = new $klass($layer, $map);
+    $layer_object = new $class($layer, $map);
     return $layer_object;
   }
   else {
@@ -309,7 +381,9 @@ function openlayers_get_layer_object($layer, $map = array()) {
  *
  * @param $name
  *   Layer name
- * @return array
+ * @param $reset
+ *   Boolean whether to reset cache or not
+ * @return openlayers_layer_type|FALSE
  *   Layer export
  */
 function openlayers_layer_load($name, $reset = FALSE) {
@@ -337,16 +411,97 @@ function openlayers_layer_load($name, $reset = FALSE) {
  * @return array
  *   array of layer info
  */
-function openlayers_layers_load($reset = FALSE) {
+function openlayers_layers_load($reset = FALSE, $include_disabled = FALSE) {
   ctools_include('export');
   $layer_objects = array();
   if ($reset) ctools_export_load_object_reset('openlayers_layers');
   $layers = ctools_export_load_object('openlayers_layers', 'all', array());
   foreach ($layers as $layer) {
+    if (!$include_disabled && isset($layer->disabled) && $layer->disabled) {
+      continue;
+    }
+
     $layer_objects[$layer->name] = openlayers_get_layer_object($layer);
   }
+
   return array_filter($layer_objects, 'openlayers_layer_sanity_check');
 }
+
+/**
+ * Check the plugin definition of a layer.
+ * Some field *MUST* be there to work correctly with OL.
+ *
+ * @ingroup openlayers_api
+ * @param $definition
+ * @return bool
+ */
+function openlayers_layer_definition_check($definition) {
+  $mandatory_fields = array(
+    array('title'),
+    array('description'),
+    array('name'),
+    array('path'),
+    array('layer_type', 'file'),
+    array('layer_type', 'class'),
+    array('layer_type', 'parent'),
+  );
+
+  foreach ($mandatory_fields as $field) {
+    $missing = drupal_array_nested_key_exists($definition, $field);
+    if (!$missing) {
+      drupal_set_message(t("Key !key is missing in in the plugin definition of the layer type <em>!type</em>. The layer will be disabled.", array(
+        '!key' => htmlspecialchars(implode(', ', $field)),
+        '!type' => htmlspecialchars($definition['name']),
+      )), 'warning');
+      watchdog('openlayers', 'Layer !layer is unavailable because its
+                                plugin definition is incomplete.',
+        array('!layer' => $definition['name']),
+        WATCHDOG_ERROR);
+      return FALSE;
+    }
+  }
+
+  return TRUE;
+}
+
+/**
+ * Check the plugin definition of a behavior.
+ * Some field *MUST* be there to work correctly with OL.
+ *
+ * @ingroup openlayers_api
+ * @param $definition
+ * @return bool
+ */
+function openlayers_behavior_definition_check($definition) {
+  $mandatory_fields = array(
+    array('title'),
+    array('description'),
+    array('name'),
+    array('path'),
+    array('type'),
+    array('behavior', 'file'),
+    array('behavior', 'class'),
+    array('behavior', 'parent'),
+  );
+
+  foreach ($mandatory_fields as $field) {
+    $missing = drupal_array_nested_key_exists($definition, $field);
+    if (!$missing) {
+      drupal_set_message(t("Key !key is missing in the definition of the behavior <em>!behavior</em>. The behavior will be disabled.", array(
+        '!key' => htmlspecialchars(implode(', ', $field)),
+        '!behavior' => htmlspecialchars($definition['name']),
+      )), 'warning');
+      watchdog('openlayers', 'Behavior !behavior is unavailable because its
+                                plugin definition is incomplete.',
+        array('!behavior' => $definition['name']),
+        WATCHDOG_ERROR);
+      return FALSE;
+    }
+  }
+
+  return TRUE;
+}
+
 
 /**
  * Check layer to determine whether it has all the
@@ -366,6 +521,10 @@ function openlayers_layers_load($reset = FALSE) {
 function openlayers_layer_sanity_check($layer, $projection = FALSE, $strict = FALSE) {
   // Handle layers after they've been rendered for a map
   $layer = (is_array($layer)) ? (object) $layer : $layer;
+
+  if (!isset($layer->name)) {
+    return !$strict;
+  }
 
   if (!isset($layer->data['projection']) || !is_array($layer->data['projection'])) {
     watchdog('openlayers', 'Layer %name does not have a projection set.',
@@ -429,9 +588,17 @@ function openlayers_layer_delete($layer) {
  * @return
  *   Array of layer type info.
  */
-function openlayers_layer_types($reset = FALSE) {
+function openlayers_layer_types($reset = FALSE, $include_disabled = FALSE) {
   ctools_include('plugins');
-  return ctools_get_plugins('openlayers', 'layer_types');
+  $layers = ctools_get_plugins('openlayers', 'layer_types');
+
+  if (!$include_disabled) {
+    $layers = array_filter($layers, function($layer) {
+      return (!isset($layer->disabled) || !$layer->disabled);
+    });
+  }
+
+  return array_filter($layers, 'openlayers_layer_definition_check');
 }
 
 /**
@@ -443,7 +610,7 @@ function openlayers_layer_types($reset = FALSE) {
  *   String identifier of layer type.
  * @param $reset
  *   Boolean whether to reset cache or not.
- * @return
+ * @return openlayers_layer_type
  *   An instantiated layer type object or FALSE if not found.
  */
 function openlayers_layer_type_load($name, $reset = FALSE) {
@@ -470,9 +637,18 @@ function openlayers_layer_type_load($name, $reset = FALSE) {
  * @return
  *   Array of behavior info.
  */
-function openlayers_behaviors($reset = FALSE) {
+function openlayers_behaviors($reset = FALSE, $include_disabled = FALSE) {
   ctools_include('plugins');
-  return ctools_get_plugins('openlayers', 'behaviors');
+  $behaviors = ctools_get_plugins('openlayers', 'behaviors');
+
+  if (!$include_disabled) {
+    $behaviors = array_filter($behaviors, function($behavior) {
+      return (!isset($behavior->disabled) || !$behavior->disabled);
+    });
+  }
+
+  return array_filter($behaviors, 'openlayers_behavior_definition_check');
+
 }
 
 /**
@@ -485,13 +661,20 @@ function openlayers_behaviors($reset = FALSE) {
  * @return
  *   Array of all available styles.
  */
-function openlayers_styles($reset = FALSE) {
+function openlayers_styles($reset = FALSE, $include_disabled = FALSE) {
   ctools_include('export');
   if ($reset) {
     ctools_export_load_object_reset('openlayers_styles');
   }
 
   $styles = ctools_export_load_object('openlayers_styles', 'all', array());
+
+  if (!$include_disabled) {
+    $styles = array_filter($styles, function($style) {
+      return !(isset($style->disabled) && $style->disabled);
+    });
+  }
+
   return $styles;
 }
 
@@ -562,14 +745,20 @@ function openlayers_style_delete($style) {
  * @return
  *   Return array of maps.
  */
-function openlayers_maps($reset = FALSE) {
+function openlayers_maps($reset = FALSE, $include_disabled = FALSE) {
   ctools_include('export');
   if ($reset) {
     ctools_export_load_object_reset('openlayers_maps');
   }
 
-  $maps = ctools_export_load_object(
-    'openlayers_maps', 'all', array());
+  $maps = ctools_export_load_object('openlayers_maps', 'all', array());
+
+  if (!$include_disabled) {
+    $maps = array_filter($maps, function($map) {
+      return !(isset($map->disabled) && $map->disabled);
+    });
+  }
+
   return $maps;
 }
 
@@ -594,15 +783,15 @@ function openlayers_map_load($name = '', $reset = FALSE) {
     ctools_export_load_object_reset('openlayers_maps');
   }
 
-  $maps = ctools_export_load_object(
-    'openlayers_maps', 'names', array($name));
+  $maps = ctools_export_load_object('openlayers_maps', 'names', array($name));
+
   if (empty($maps[$name])) {
     return FALSE;
   }
   else {
     $map = $maps[$name];
     $map->data['map_name'] = $name;
-    return $map;
+    return clone $map;
   }
 }
 
@@ -729,6 +918,151 @@ function openlayers_error_check_map($map, $log_errors = TRUE) {
 }
 
 /**
+ * Models a projection, a description of a coordinate system.
+ */
+class openlayers_projection {
+  /**
+   * @var String Opaque primary key (should not be exposed but ctools API doesn't allow for a more rigid structure)
+   */
+  public $identifier;
+
+  /**
+   * @var String proj4 definition for on-the-fly reprojections of vector data.
+   */
+  private $definition;
+
+  /**
+   * @var number Leftmost boundary where coordinate system is valid
+   */
+  private $projectedextentleft;
+  /**
+   * @var number Bottommost boundary where coordinate system is valid
+   */
+  private $projectedextentbottom;
+  /**
+   * @var number Rightmost boundary where coordinate system is valid
+   */
+  private $projectedextentright;
+  /**
+   * @var number Topmost boundary where coordinate system is valid
+   */
+  private $projectedextenttop;
+
+  public function __construct($identifier, $definition, $projectedextentleft, $projectedextentbottom, $projectedextentright, $projectedextenttop) {
+    $this->identifier = $identifier;
+    $this->definition = $definition;
+    $this->projectedextentleft = $projectedextentleft;
+    $this->projectedextentbottom = $projectedextentbottom;
+    $this->projectedextentright = $projectedextentright;
+    $this->projectedextenttop = $projectedextenttop;
+  }
+
+  /**
+   * @return string Textual representation for the user.
+   */
+  public function getLocalizedMessage() {
+    return $this->identifier;
+  }
+
+  /**
+   * @return array Boundaries of projection in projected coordinates
+   */
+  public function getProjectedExtent() {
+    return array_map('floatval', array($this->projectedextentleft, $this->projectedextentbottom, $this->projectedextentright, $this->projectedextenttop));
+  }
+
+  /**
+   * @return String Proj4 style definition
+   */
+  public function getDefinition() {
+    return $this->definition;
+  }
+}
+
+/**
+ * @param stdClass $record Object as returned by ctools_export_crud_load for type openlayers_projections
+ * @return openlayers_projection
+ */
+function openlayers_projection_from_record($record) {
+  return new openlayers_projection($record->identifier, $record->definition,
+    $record->projectedextentleft, $record->projectedextentbottom, $record->projectedextentright, $record->projectedextenttop);
+}
+
+/**
+ * @param String $authority Organization who defined the code
+ * @param String $code Projection identifier
+ * @return openlayers_projection
+ */
+function openlayers_get_projection($authority, $code) {
+  static $projections;
+  if (!isset($projections)) {
+    $projections = array();
+  }
+  $identifier = $authority . ':' . $code;
+  if (!array_key_exists($identifier, $projections)) {
+    $projections[$identifier] = openlayers_get_projection_by_identifier($identifier);
+  }
+  return $projections[$identifier];
+}
+
+/**
+ * @param String $identifier Identifier, such as “EPSG:4326”
+ * @return openlayers_projection
+ */
+function openlayers_get_projection_by_identifier($identifier) {
+  ctools_include('export');
+
+  $records = ctools_export_load_object('openlayers_projections', 'names', array($identifier));
+
+  if (empty($records)) {
+    if(mb_strpos($identifier, ':')===FALSE){
+      throw new Exception(t("Projection !projection lacks an authority code. Read http://drupal.org/node/1944074 for hints.", array(
+        '!projection' => $identifier
+      )));
+    }
+    throw new Exception(t("Projection !projection requested but not supported.", array(
+      '!projection' => $identifier
+    )));
+  }
+  return openlayers_projection_from_record($records[key($records)]);
+}
+
+/**
+ * @return array<openlayers_projection>
+ */
+function openlayers_get_all_projections($reset = FALSE, $include_disabled = FALSE) {
+  ctools_include('export');
+  $projections = array();
+
+  foreach (ctools_export_crud_load_all('openlayers_projections', $reset) as $record) {
+    if (!$include_disabled && isset($record->disabled) && $record->disabled) {
+      continue;
+    }
+
+    $projections[] = openlayers_projection_from_record($record);
+  }
+
+  return $projections;
+}
+
+/**
+ * Rerenders form part “Layers & Styles” when map projections changes
+ * @param array $form
+ * @param array $form_state
+ * @return array Form part to rerender
+ */
+function openlayers_map_layerlist(&$form, &$form_state) {
+  module_load_include('inc', 'openlayers_ui', '/include/openlayers_ui.theme');
+
+  // Remove group property as Drupal otherwise returns NULL instead of the rendered form part
+  unset($form['layerstyles']['#group']);
+  // Force a diffent, fixed identifier so that the form part can reliably replaced
+  $form['layerstyles']['#id']= 'edit-layerstyles';
+  // Rerender the form part
+  return $form['layerstyles'];
+}
+
+/**
  * Get extent given projection
  *
  * Returns standard world-max-extents for common projections.
@@ -737,19 +1071,16 @@ function openlayers_error_check_map($map, $log_errors = TRUE) {
  *
  * @ingroup openlayers_api
  *
+ * @param $authority
+ *   String Organization code, such as EPSG.
  * @param $projection
- *   String of the projection value.  Currently
- *   supports 900913, 4326.
+ *   String of the projection value, such as 4326.
  * @return
  *   Array of maxExtent in OpenLayers toArray() format.
  */
-function openlayers_get_extent($projection) {
-  switch ($projection) {
-    case '900913':
-      return array(-20037508, -20037508, 20037508, 20037508);
-    case '4326':
-      return array(-180, -90, 180, 90);
-  }
+function openlayers_get_extent($authority, $projection) {
+  // Use projected extend from openlayers_projection instead but keep this function for now as it's marked as API
+  return openlayers_get_projection($authority, $projection)->getProjectedExtent();
 }
 
 /**
@@ -763,7 +1094,7 @@ function openlayers_get_extent($projection) {
  * @ingroup openlayers_api
  *
  * @param $projection
- *   String specifying which projection this should take, like 900913.
+ *   String specifying which projection this should take, like EPSG:900913.
  * @param $zoom_start
  *   Integer of first zoom level, default 0.
  * @param $zoom_end
@@ -772,8 +1103,9 @@ function openlayers_get_extent($projection) {
  *   Array of resolutions.
  */
 function openlayers_get_resolutions($projection, $zoom_start = 0, $zoom_end = FALSE) {
+  // TODO This is conceptually flawed and should not exist. Resolutions depend on the server in use in combination with the tile size.
   switch ($projection) {
-    case '900913':
+    case 'EPSG:900913':
       // 16 zoom levels, taken from
       // openlayers.org TMS map
       $res = array(
@@ -795,9 +1127,13 @@ function openlayers_get_resolutions($projection, $zoom_start = 0, $zoom_end = FA
         4.777314266967774,
         2.388657133483887,
         1.1943285667419434,
-        0.5971642833709717);
+        0.5971642833709717,
+        0.29858214169740677,
+        0.14929107084870338,
+        0.07464553542435169
+      );
       break;
-    case '4326':
+    case 'EPSG:4326':
       // 16 zoom levels, taken from
       // openlayers.org default WMS map
       $res = array(
@@ -816,7 +1152,9 @@ function openlayers_get_resolutions($projection, $zoom_start = 0, $zoom_end = FA
         0.000171661376953125,
         0.0000858306884765625,
         0.00004291534423828125,
-        0.000021457672119140625);
+        0.000021457672119140625,
+        0.000010728836059570312,
+      );
       break;
     default:
       $res = array();
@@ -825,6 +1163,7 @@ function openlayers_get_resolutions($projection, $zoom_start = 0, $zoom_end = FA
   $length = ($zoom_end == FALSE) ? NULL : $zoom_end - $zoom_start;
   // By default this will not actually clip the array
   $resolutions = array_slice($res, $zoom_start, $length);
+
   return $resolutions;
 }
 
@@ -868,59 +1207,147 @@ class openlayers_behavior {
  * All other parent classes can be autoloaded through ctools.
  */
 class openlayers_layer_type {
-  var $options, $map;
 
+  /**
+   * Stores the options for this layer.
+   * @var array
+   */
+  public $data = array();
+
+  /**
+   * Stores the current map.
+   * @var array
+   */
+  public $map;
+
+  /**
+   * Set configuration and store map.
+   *
+   * @param stdClass $layer
+   *   Configuration object with the options for the layer.
+   * @param $map
+   *   Array with the current map.
+   */
   function __construct($layer = array(), $map = array()) {
     foreach (array('name', 'title', 'description', 'data', 'export_type') as $k) {
       if (isset($layer->{$k})) {
         $this->{$k} = $layer->{$k};
       }
     }
-    if (isset($this->data) && is_array($this->data)) {
-      $this->data += $this->options_init();
-    }
+
+    // Extend options with the defaults.
+    $this->data += $this->options_init();
+
     $this->map = $map;
   }
 
-  function options_init() {
-    return array();
-  }
-
-  function options_form($defaults = array()) {
-    return array();
+  /**
+   * @return array<openlayers_projection>
+   *   List of all projections that are supported by the layer.
+   */
+  public function getProjections() {
+    $projections = array();
+    // TODO Ignore incomplete data until cause is fixed (projection for every layer set during migration)
+    if (isset($this->data['projection'])) {
+      foreach ($this->data['projection'] as $projection) {
+        $projections[] = openlayers_get_projection_by_identifier($projection);
+      }
+    }
+    return $projections;
   }
 
   /**
+   * Provides the default options for the layer.
+   *
    * @return
-   *   A version of this layer_type which can be saved,
-   *   when attempting to save a modified layer
+   *   An associative array with the default options.
    */
-  function to_record() {
+  function options_init() {
     return array(
-      'name' => $this->name,
-      'description' => $this->description,
-      'title' => $this->title,
-      'data' => $this->data
+      'layer_type' => get_class($this),
+      'isBaseLayer' => TRUE,
+      // TODO: Remove hard-coded resolutions
+      'projection' => array('EPSG:900913'),
+      'serverResolutions' => openlayers_get_resolutions('EPSG:900913'),
+      'resolutions' => openlayers_get_resolutions('EPSG:900913'),
+      'base_url' => NULL,
+      'transitionEffect' => 'resize',
+      'weight' => 0
     );
   }
 
   /**
+   * Options form to configure layer instance options.
+   *
    * @return
-   *   Success value on saving this layer
+   *   Array with form elements.
    */
-  function save() {
-    if (!empty($this->name)) {
-      return (db_select('openlayers_layers')
-          ->fields('openlayers_layers', array('name'))
-          ->condition('name', $this->name)
-          ->execute()
-          ->fetchCol()) ?
-        drupal_write_record('openlayers_layers', $this->to_record(), 'name') :
-        drupal_write_record('openlayers_layers', $this->to_record());
+  function options_form($default = array()) {
+    $allProjectionOptions = array();
+    foreach (openlayers_get_all_projections() as $projection) {
+      $allProjectionOptions[$projection->identifier] = $projection->getLocalizedMessage();
     }
+    return array(
+      'projection' => array(
+        '#type' => 'select',
+        '#title' => t('Projection'),
+        '#multiple' => TRUE,
+        '#options' => $allProjectionOptions,
+        '#default_value' => isset($default->data['projection']) ?
+          $default->data['projection'] :
+          openlayers_get_projection('EPSG', '3857')->identifier
+      ),
+      'isBaseLayer' => array(
+        '#type' => 'checkbox',
+        '#title' => t('Base Layer'),
+        '#description' => t('Uncheck to make this map an overlay'),
+        '#default_value' => !empty($default->data['isBaseLayer']) ?
+          $default->data['isBaseLayer'] : FALSE
+      ),
+    );
   }
 
+  /**
+   * Validate the options_form().
+   *
+   * @param array $default
+   */
+  function options_form_validate($form, &$form_state) {
+
+  }
+
+  /**
+   * Submit the options_form().
+   *
+   * @param array $form
+   * @param array $form_state
+   */
+  function options_form_submit($form, &$form_state) {
+    $form_state['values']['data']['projection'] = array_keys($form_state['values']['data']['projection']);
+    // TODO Resolutions should be processed only in layers
+    // that provide a form field for it.
+    $form_state['values']['data']['resolutions'] = array_map('floatval', array_values($form_state['values']['data']['resolutions']));
+  }
+
+  /**
+   * Options form to configure layer-type-wide options.
+   *
+   * @return
+   *   Array with form elements.
+   */
+  function settings_form() {
+    return array();
+  }
+
+  /**
+   * Render the layer and return the layer options.
+   *
+   * Has no return value.
+   *
+   * @param $map
+   */
   function render(&$map) {}
+
 }
 
 /**
@@ -933,6 +1360,9 @@ function openlayers_ctools_plugin_api($module, $api) {
         return array('version' => 1);
 
       case 'openlayers_layers':
+        return array('version' => 1);
+
+      case 'openlayers_projections':
         return array('version' => 1);
 
       case 'openlayers_styles':
@@ -952,11 +1382,35 @@ function openlayers_ctools_plugin_api($module, $api) {
 }
 
 /**
+ * Implements hook_openlayers_behaviors().
+ */
+function openlayers_openlayers_behaviors() {
+  module_load_include('inc', 'openlayers', 'includes/openlayers.behaviors');
+  return _openlayers_openlayers_behaviors();
+}
+
+/**
+ * Implements hook_openlayers_layer_types().
+ */
+function openlayers_openlayers_layer_types() {
+  module_load_include('inc', 'openlayers', 'includes/openlayers.layer_types');
+  return _openlayers_openlayers_layer_types();
+}
+
+/**
  * Implements hook_openlayers_layers().
  */
 function openlayers_openlayers_layers() {
   module_load_include('inc', 'openlayers', 'includes/openlayers.layers');
   return _openlayers_openlayers_layers();
+}
+
+/**
+ * Implements hook_openlayers_projections().
+ */
+function openlayers_openlayers_projections() {
+  module_load_include('inc', 'openlayers', 'includes/openlayers.projections');
+  return _openlayers_openlayers_projections();
 }
 
 /**
@@ -992,6 +1446,69 @@ function openlayers_boxes_plugins() {
   );
 }
 
+/**
+ * Implements hook_libraries_info().
+ */
+function openlayers_libraries_info() {
+  $libraries['openlayers'] = array(
+    'name' => 'OpenLayers',
+    'vendor url' => 'http://openlayers.org/',
+    'download url' => 'http://openlayers.org/download/OpenLayers-2.12.tar.gz',
+    'version arguments' => array(
+      'file' => 'lib/OpenLayers.js',
+      'pattern' => '/OpenLayers.VERSION_NUMBER="Release (.*?)"/',
+      'lines' => 1000,
+    ),
+    'files' => array(
+      'js' => array('OpenLayers.js'),
+    ),
+    'variants' => array(
+      'original debug' => array(
+        'files' => array(
+          'js' => array(
+            'OpenLayers.debug.js'
+          ),
+        ),
+      ),
+      'light' => array(
+        'files' => array(
+          'js' => array(
+            'OpenLayers.light.js'
+          ),
+        ),
+      ),
+      'light debug' => array(
+        'files' => array(
+          'js' => array(
+            'OpenLayers.light.debug.js'
+          ),
+        ),
+      ),
+      'mobile' => array(
+        'files' => array(
+          'js' => array(
+            'OpenLayers.mobile.js'
+          )
+        ),
+      ),
+      'mobile debug' => array(
+        'files' => array(
+          'js' => array(
+            'OpenLayers.mobile.debug.js'
+          )
+        ),
+      ),
+    ),
+    'integration files' => array(
+      'openlayers' => array(
+        'js' => array('js/openlayers.js'),
+        'css' => array('css/openlayers.css')
+      ),
+    ),
+  );
+
+  return $libraries;
+}
 
 /**
  * Alias Functions

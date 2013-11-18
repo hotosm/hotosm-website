@@ -1,13 +1,12 @@
-
 /**
  * @file
  * CSS for OpenLayers Draw Features Behavior
  */
 
 .olControlEditingToolbar .olControlModifyFeatureItemActive {
-  background-position: -0px -23px;
+  background-position: -1px -24px;
 }
 
 .olControlEditingToolbar .olControlModifyFeatureItemInactive {
-  background-position: -0px -0px;
+  background-position: -1px -1px;
 }

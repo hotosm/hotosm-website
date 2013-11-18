@@ -8,7 +8,7 @@ Drupal.openlayers.layer.openlayers_views_vector = function(title, map, options) 
   options.options.drupalID = options.drupalID;
 
   // Create projection
-  options.projection = new OpenLayers.Projection('EPSG:'+options.projection);
+  options.projection = new OpenLayers.Projection(options.projection);
   // Get style map
   options.options.styleMap = Drupal.openlayers.getStyleMap(map, options.drupalID);
   // Create layer object

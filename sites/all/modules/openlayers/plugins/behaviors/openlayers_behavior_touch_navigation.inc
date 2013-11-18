@@ -5,22 +5,6 @@
  */
 
 /**
- * Ctools plugin definition.
- */
-function openlayers_openlayers_behavior_touch_navigation_openlayers_behaviors() {
-  return array(
-    'title' => t('Touch Navigation'),
-    'description' => t('Provides specific navigation controls for touch enabled devices only.  <strong>This is included with the Navigation behavior</strong>.  Only enable this if you are targeting only touch enabled devices.'),
-    'type' => 'map',
-    'behavior' => array(
-      'file' => 'openlayers_behavior_touch_navigation.inc',
-      'class' => 'openlayers_behavior_touch_navigation',
-      'parent' => 'openlayers_behavior',
-    ),
-  );
-}
-
-/**
  * Touch Navigation Behavior
  */
 class openlayers_behavior_touch_navigation extends openlayers_behavior {

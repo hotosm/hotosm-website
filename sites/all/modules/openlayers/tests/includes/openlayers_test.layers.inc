@@ -16,9 +16,15 @@ function _openlayers_test_openlayers_layers() {
   $layer->data = array(
     'layer_type' => 'openlayers_layer_type_kml',
     'layer_handler' => 'kml',
-    'projection' => array('4326'),
-    'baselayer' => FALSE,
+    'projection' => array('EPSG:4326'),
+    'isBaseLayer' => FALSE,
     'vector' => TRUE,
+    'method' => 'file',
+    'formatOptions' => array(
+      'extractStyles' => TRUE,
+      'extractTracks' => FALSE,
+      'extractAttributes' => TRUE,
+    ),
     'url' => url(drupal_get_path('module', 'openlayers_test') . '/data/openlayers_test.kml'),
   );
   $layers[$layer->name] = $layer;
@@ -32,8 +38,8 @@ function _openlayers_test_openlayers_layers() {
   $layer->data = array(
     'layer_type' => 'openlayers_layer_type_geojson',
     'layer_handler' => 'geojson',
-    'projection' => array('4326'),
-    'baselayer' => FALSE,
+    'projection' => array('EPSG:4326'),
+    'isBaseLayer' => FALSE,
     'vector' => TRUE,
     'url' => url(drupal_get_path('module', 'openlayers_test') . '/data/openlayers_test.json'),
   );
@@ -48,8 +54,8 @@ function _openlayers_test_openlayers_layers() {
   $layer->data = array(
     'layer_type' => 'openlayers_layer_type_geojson',
     'layer_handler' => 'geojson',
-    'projection' => array('4326'),
-    'baselayer' => FALSE,
+    'projection' => array('EPSG:4326'),
+    'isBaseLayer' => FALSE,
     'vector' => TRUE,
     'geojson_data' => '
 {

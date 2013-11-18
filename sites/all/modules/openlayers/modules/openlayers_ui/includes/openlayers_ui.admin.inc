@@ -17,11 +17,11 @@ function openlayers_ui_admin_settings() {
   $source_description =
     t('<p>By default the your site will point to a hosted version of the
       OpenLayers library at %ol_api_url.</p>
-      <p>For better performance and reliability, you should <a href="!ol_url">download the
-      OpenLayers library</a>, and add it to your Drupal installation. For instance,
-      you could use a Drupal relative path like: %suggested_path. You can also use a double backslash
-      before the domain name (eg. //www.example.com/OpenLayers.js) which
-      then respects the use of both HTTPS and HTTP protocols.</p>
+      <p>For better performance and reliability, you should use an internal version of the library.
+      <a href="!ol_url">Download the OpenLayers library</a>, and add it to your Drupal installation.
+      Use the new drush command \'<em>dl-openlayers</em>\' to download it and place it at the right place automatically.
+      You can also use a double backslash before the domain name
+      (eg. //www.example.com/OpenLayers.js) which then respects the use of both HTTPS and HTTP protocols.</p>
       <ul>
         <li>The default suggested, compatible version: <strong>%suggested_api</strong></li>
         <li>The default suggested, compatible hosted URL:  <strong>%ol_api_url</strong></li>
@@ -31,17 +31,57 @@ function openlayers_ui_admin_settings() {
         '%ol_api_url' => OPENLAYERS_DEFAULT_LIBRARY,
         '%suggested_api' => OPENLAYERS_SUGGESTED_LIBRARY,
         '!ol_url' => 'http://openlayers.org/',
-        '%suggested_path' => 'sites/all/libraries/OpenLayers/OpenLayers.js',
         '%client' => ($client_check == 'no-check') ? t('(not checked)') : $client_check,
       )
     );
 
-  // Define Form
-  $form['openlayers_source'] = array(
+  $options = array('external' => 'External');
+  if (module_exists('libraries') &&
+    ($library = libraries_detect('openlayers')) && !empty($library['installed'])) {
+    $options += array('internal' => 'Internal');
+  }
+
+  $form['openlayers_source_type'] = array(
+    '#type' => 'radios',
+    '#options' => $options,
+    '#title' => t('OpenLayers source type'),
+    '#description' => t('
+      <ul>
+        <li>Select internal to load the OpenLayers library from your drupal installation.
+          <br/>You can use the drush command <em>dl-openlayers</em> to download the library and place it at the right place automatically.</li>
+        <li>Select external to load it from Internet.</li>
+      </ul>
+      <p>You should use the <a href="!libraries">libraries module</a> to enable the internal loading of the library.</p>
+      ', array('!libraries' => 'http://drupal.org/project/libraries')),
+    '#default_value' => variable_get('openlayers_source_type', 'external')
+  );
+
+  $form['openlayers_source_external'] = array(
     '#type' => 'textfield',
-    '#title' => t('OpenLayers Source'),
+    '#title' => t('OpenLayers external source'),
     '#description' => $source_description,
-    '#default_value' => variable_get('openlayers_source', OPENLAYERS_DEFAULT_LIBRARY),
+    '#default_value' => variable_get('openlayers_source_external', OPENLAYERS_DEFAULT_LIBRARY),
+    '#states' => array(
+      'visible' => array(
+        ':input[name="openlayers_source_type"]' => array('value' => 'external'),
+      ),
+    ),
+  );
+
+  $library = libraries_info('openlayers');
+  $variants = array('original' => 'original') + $library['variants'];
+
+  $form['openlayers_source_internal_variant'] = array(
+    '#type' => 'radios',
+    '#options' => array_combine(array_keys($variants), array_map('ucfirst', array_keys($variants))),
+    '#title' => t('OpenLayers internal source variant'),
+    '#description' => t('The OpenLayers library (<em>version >= 2.12</em>) has different variants. Select the one you prefer for your installation. <b>Warning: OpenLayers is design to only work for original variants.</b> Hopefully more variants will be supported soon.'),
+    '#default_value' => variable_get('openlayers_source_internal_variant', 'original'),
+    '#states' => array(
+      'visible' => array(
+        ':input[name="openlayers_source_type"]' => array('value' => 'internal'),
+      ),
+    ),
   );
 
   $form['openlayers_default_map'] = array(
@@ -70,6 +110,21 @@ function openlayers_ui_admin_settings() {
 
   // Make a system setting form and return
   return system_settings_form($form);
+}
+
+/**
+ * Settings form validation
+ *
+ * @param $form
+ * @param $form_state
+ */
+function openlayers_ui_admin_settings_validate($form, &$form_state) {
+  if ($form_state['values']['openlayers_source_type'] == 'external') {
+    $url = $form_state['values']['openlayers_source_external'];
+    if (!valid_url($url, TRUE) && !url_is_external($url)) {
+      form_set_error('openlayers_source_external', 'The source must be a valid external URL, beginning with http(s).');
+    }
+  }
 }
 
 /**

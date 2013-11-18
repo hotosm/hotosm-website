@@ -38,27 +38,5 @@ function openlayers_ui_openlayers_styles_ctools_export_ui() {
         )
       )
     ),
-
-    'form' => array(
-      'settings' => 'openlayers_styles_ctools_export_ui_form_settings',
-    ),
   );
 }
-
-function openlayers_styles_ctools_export_ui_form_settings(&$form, &$form_state) {
-  $style = $form_state['item'];
-  if (empty($style->name)) {
-    $style = NULL;
-  }
-
-  module_load_include('inc', 'openlayers_ui', 'includes/openlayers_ui.styles');
-
-  if ($form_state['op'] == 'add') {
-    $form = openlayers_ui_styles_form($form, $form_state, $style, FALSE);
-  }
-
-  if ($form_state['op'] == 'edit') {
-    $form = openlayers_ui_styles_form($form, $form_state, $style, TRUE);
-  }
-}
-

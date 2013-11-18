@@ -5,23 +5,6 @@
  */
 
 /**
- * Define the Ctools plugin options.
- */
-function openlayers_openlayers_layer_type_raw_openlayers_layer_types() {
-  return array(
-    'title' => t('Raw'),
-    'description' => t('Layer type for raw data input -
-    not meant to be added with the UI.'
-    ),
-    'layer_type' => array(
-      'file' => 'openlayers_layer_type_raw.inc',
-      'class' => 'openlayers_layer_type_raw',
-      'parent' => 'openlayers_layer_type',
-    ),
-  );
-}
-
-/**
  * @file
  * OpenLayers Raw Layer Type
  */
@@ -31,23 +14,17 @@ class openlayers_layer_type_raw extends openlayers_layer_type {
    */
   function options_init() {
     return array(
-      'layer_type' => 'openlayers_layer_type_raw',
       'layer_handler' => 'openlayers_raw',
       'vector' => TRUE,
-      'baselayer' => FALSE,
-    );
+      'isBaseLayer' => FALSE,
+    ) + parent::options_init();
   }
 
   /**
    * Options form which generates layers
    */
   function options_form($defaults = array()) {
-    return array(
-      array(
-        '#value' => t('Raw layers should not be added
-        through the UI.')
-      )
-    );
+    return array();
   }
 
   /**
@@ -58,7 +35,6 @@ class openlayers_layer_type_raw extends openlayers_layer_type {
       '/plugins/layer_types/openlayers_layer_type_raw.js');
     // $features = ;
     // $this->data['features'] = $features;
-    return $this->options;
   }
 }
 

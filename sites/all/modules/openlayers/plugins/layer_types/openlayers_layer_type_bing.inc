@@ -2,48 +2,23 @@
 /**
  * @file
  *
- * OpenLayers VirtualEarth layer type
+ * OpenLayers Bing layer type
  */
 
 /**
- * Define the Ctools plugin options.
- */
-$plugin = array(
-  'title' => t('Bing'),
-  'description' => t('Microsoft Bing'),
-  'layer_type' => array(
-    'file' => 'openlayers_layer_type_bing.inc',
-    'class' => 'openlayers_layer_type_bing',
-    'parent' => 'openlayers_layer_type',
-  ),
-);
-
-/**
- * OpenLayers VirtualEarth Layer Type class
+ * OpenLayers Bing Layer Type class
  */
 class openlayers_layer_type_bing extends openlayers_layer_type {
-  function __construct($layer = array(), $map = array()) {
-    parent::__construct($layer, $map);
-    if (isset($this->data)) {
-      $this->data += $this->options_init();
-    }
-    else {
-      $this->data = $this->options_init();
-    }
-  }
 
   /**
    * Provide initial values for options.
    */
   function options_init() {
     return array(
-      'layer_type' => 'bing',
       'layer_handler' => 'bing',
       'key' => variable_get('openlayers_layers_bing_api', ''),
-      'projection' => array('900913'),
-      'baselayer' => TRUE,
       'type' => 'Road',
-    );
+    ) + parent::options_init();
   }
 
   /**
@@ -68,10 +43,6 @@ class openlayers_layer_type_bing extends openlayers_layer_type {
         '#default_value' => isset($this->data['type']) ?
           $this->data['type'] : 'Road',
         '#options' => $bing_layer_types
-      ),
-      'layer_type' => array(
-        '#type' => 'hidden',
-        '#value' => 'openlayers_layer_type_bing'
       ),
       $warning
     );
@@ -104,6 +75,5 @@ class openlayers_layer_type_bing extends openlayers_layer_type {
       '/plugins/layer_types/openlayers_layer_type_bing.js');
       $bing_maps_included = TRUE;
     }
-    return $this->options;
   }
 }
