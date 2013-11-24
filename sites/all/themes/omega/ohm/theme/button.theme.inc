@@ -1,12 +1,12 @@
 <?php
 
 /**
+ * @file
+ * Contains the theme function override for 'button'.
+ */
+
+/**
  * Returns HTML for a button form element.
- *
- * @param $variables
- *   An associative array containing:
- *   - element: An associative array containing the properties of the element.
- *     Properties used: #attributes, #button_type, #name, #value.
  *
  * @ingroup themeable
  */
@@ -22,15 +22,15 @@ function ohm_button($variables) {
   }
 
   // Catch some primary button functions.
-  foreach(array('save', 'new', 'add', 'confirm', 'done', 'submit') as $primary) {
-    if(substr_count($element['#id'], $primary)) {
+  foreach (array('save', 'new', 'add', 'confirm', 'done', 'submit') as $primary) {
+    if (substr_count($element['#id'], $primary)) {
       $element['#attributes']['class'][] = 'button--primary';
     }
   }
 
   // Catch some negative button functions.
-  foreach(array('cancel', 'remove', 'delete') as $negative) {
-    if(substr_count($element['#id'], $negative)) {
+  foreach (array('cancel', 'remove', 'delete') as $negative) {
+    if (substr_count($element['#id'], $negative)) {
       $element['#attributes']['class'][] = 'button--negative';
     }
   }

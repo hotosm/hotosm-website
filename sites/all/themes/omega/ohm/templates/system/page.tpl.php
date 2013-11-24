@@ -54,10 +54,12 @@
  *   comment/reply/12345).
  *
  * Regions:
+ * - $page['branding']: Items for the branding region.
  * - $page['header']: Items for the header region.
- * - $page['navigation']: Items for the navigation region, below the main menu (if any).
+ * - $page['navigation']: Items for the navigation region.
  * - $page['help']: Dynamic help text, mostly for admin pages.
  * - $page['highlighted']: Items for the highlighted content region.
+ * - $page['hero']: Items for the hero content region.
  * - $page['content']: The main content of the current page.
  * - $page['sidebar_first']: Items for the first sidebar.
  * - $page['sidebar_second']: Items for the second sidebar.

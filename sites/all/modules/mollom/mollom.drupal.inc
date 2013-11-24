@@ -47,10 +47,6 @@ class MollomDrupal extends Mollom {
    * Implements Mollom::getClientInformation().
    */
   public function getClientInformation() {
-    if ($cache = cache_get('mollom_version')) {
-      return $cache->data;
-    }
-
     // Retrieve Drupal distribution and installation profile information.
     $profile = drupal_get_profile();
     $profile_info = system_get_info('module', $profile) + array(
@@ -71,8 +67,6 @@ class MollomDrupal extends Mollom {
       'clientName' => $mollom_info['name'],
       'clientVersion' => $mollom_info['version'],
     );
-    cache_set('mollom_version', $data);
-
     return $data;
   }
 
@@ -87,8 +81,8 @@ class MollomDrupal extends Mollom {
       $entry['Request headers:'] = $entry['headers'];
       unset($entry['headers']);
 
-      $entry['Response: ' . $entry['response_code'] . ' ' . $entry['response_message']] = $entry['response'];
-      unset($entry['response'], $entry['response_code'], $entry['response_message']);
+      $entry['Response: ' . $entry['response_code'] . ' ' . $entry['response_message'] . ' (' . number_format($entry['response_time'], 3) . 's)'] = $entry['response'];
+      unset($entry['response'], $entry['response_code'], $entry['response_message'], $entry['response_time']);
 
       // The client class contains the logic for recovering from certain errors,
       // and log messages are only written after that happened. Therefore, we
@@ -204,8 +198,17 @@ class MollomDrupalTest extends MollomDrupal {
    *   and manually create testing API keys (once).
    */
   function __construct() {
-    // Do not destroy production variables when testing mode is enabled.
-    if (variable_get('mollom_testing_mode', 0)) {
+    // Some tests are verifying the production behavior of e.g. setting up API
+    // keys, in which testing mode is NOT enabled and the test creates fake
+    // "production" API keys on the local fake server on its own. This special
+    // override must only be possible when executing tests.
+    // @todo Add global test_info as condition?
+    if (module_exists('mollom_test_server') && !variable_get('mollom_testing_mode', 0)) {
+      // Disable authentication error auto-recovery.
+      $this->createKeys = FALSE;
+    }
+    else {
+      // Do not destroy production variables when testing mode is enabled.
       $this->configuration_map['publicKey'] = 'mollom_test_public_key';
       $this->configuration_map['privateKey'] = 'mollom_test_private_key';
     }
@@ -213,39 +216,46 @@ class MollomDrupalTest extends MollomDrupal {
     // Load and set publicKey and privateKey configuration values.
     parent::__construct();
 
-    // Any Mollom API request requires valid API keys, or no API calls can be
-    // executed. Verify that testing API keys exist and are still valid.
+    // Unless pre-set, determine whether API keys should be auto-created.
     if (!isset($this->createKeys)) {
       $this->createKeys = (bool) variable_get('mollom_testing_create_keys', TRUE);
-    }
-    // If valid client API keys are expected, verify API keys whenever this
-    // class is instantiated.
-    if ($this->createKeys) {
-      $this->checkKeys();
     }
   }
 
   /**
-   * Checks whether current API keys are valid and creates new keys if they are not.
+   * Overrides Mollom::handleRequest().
+   *
+   * Automatically tries to generate new API keys in case of a 401 or 404 error.
+   * Intentionally reacts on 401 or 404 errors only, since any other error code
+   * can mean that either the Testing API is down or that the client site is not
+   * able to perform outgoing HTTP requests in general.
    */
-  public function checkKeys() {
-    // Verifying keys may return an authentication error, from which we will
-    // automatically recover below, so do not write the request log (yet).
-    $this->writeLog = FALSE;
-    if (!empty($this->publicKey) && !empty($this->privateKey)) {
-      $result = $this->verifyKeys();
+  protected function handleRequest($method, $server, $path, $data, $expected = array()) {
+    try {
+      $response = parent::handleRequest($method, $server, $path, $data, $expected);
     }
-    else {
-      $result = self::AUTH_ERROR;
-    }
-    $this->writeLog = TRUE;
-
-    // If current keys are invalid, create and save new testing API keys.
-    if ($result === self::AUTH_ERROR) {
-      if ($this->createKeys()) {
+    catch (MollomException $e) {
+      $is_auth_error = $e->getCode() == self::AUTH_ERROR || ($e->getCode() == 404 && strpos($path, 'site') === 0);
+      $current_public_key = $this->publicKey;
+      if ($this->createKeys && $is_auth_error && $this->createKeys()) {
         $this->saveKeys();
+        // Avoid to needlessly hit the previous/invalid public key again.
+        // Mollom::handleRequest() will sign the new request correctly.
+        // If it was empty, Mollom::handleRequest() returned an AUTH_ERROR
+        // without issuing a request.
+        if ($path == 'site/') {
+          $path = 'site/' . $this->publicKey;
+        }
+        elseif (!empty($current_public_key)) {
+          $path = str_replace($current_public_key, $this->publicKey, $path);
+        }
+        $response = parent::handleRequest($method, $server, $path, $data, $expected);
+      }
+      else {
+        throw $e;
       }
     }
+    return $response;
   }
 
   /**
@@ -279,7 +289,7 @@ class MollomDrupalTest extends MollomDrupal {
       return TRUE;
     }
     else {
-      unset($this->publicKey, $this->privateKey);
+      $this->publicKey = $this->privateKey = '';
       return FALSE;
     }
   }
@@ -291,6 +301,14 @@ class MollomDrupalTest extends MollomDrupal {
     $this->saveConfiguration('publicKey', $this->publicKey);
     $this->saveConfiguration('privateKey', $this->privateKey);
   }
+
+  /**
+   * Deletes API keys from local configuration store.
+   */
+  public function deleteKeys() {
+    $this->deleteConfiguration('publicKey');
+    $this->deleteConfiguration('privateKey');
+  }
 }
 
 /**
@@ -298,12 +316,13 @@ class MollomDrupalTest extends MollomDrupal {
  */
 class MollomDrupalTestLocal extends MollomDrupalTest {
   /**
-   * Overrides Mollom::__construct().
+   * Overrides MollomDrupalTest::__construct().
    */
   function __construct() {
-    // Replace initial server list with local fake server.
+    // Replace server/endpoint with our local fake server.
     list(, $server) = explode('://', $GLOBALS['base_url'], 2);
     $this->server = $server . '/mollom-test/rest';
+
     parent::__construct();
   }
 

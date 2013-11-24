@@ -2,3 +2,9 @@ name = Update test base theme
 description = Test theme which acts as a base theme for other test subthemes.
 core = 7.x
 hidden = TRUE
+
+; Information added by  packaging script on 2013-11-20
+version = "7.24"
+project = "drupal"
+datestamp = "1384983240"
+

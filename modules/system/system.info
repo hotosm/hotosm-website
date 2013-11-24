@@ -11,3 +11,9 @@ files[] = system.updater.inc
 files[] = system.test
 required = TRUE
 configure = admin/config/system
+
+; Information added by  packaging script on 2013-11-20
+version = "7.24"
+project = "drupal"
+datestamp = "1384983240"
+

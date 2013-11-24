@@ -8,3 +8,9 @@ core = 7.x
 files[] = forum.test
 configure = admin/structure/forum
 stylesheets[all][] = forum.css
+
+; Information added by  packaging script on 2013-11-20
+version = "7.24"
+project = "drupal"
+datestamp = "1384983240"
+

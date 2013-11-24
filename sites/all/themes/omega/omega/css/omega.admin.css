@@ -1,0 +1,75 @@
+.form-item.form-item-omega-conditional-comments-html-options,
+.form-item.form-item-omega-viewport-widget-minimal,
+.omega-settings-container {
+  border: 1px solid #ccc;
+  margin-left: 18px;
+  margin-bottom: 12px;
+  padding: 9px 18px;
+  background-color: #f2f2f2;
+}
+
+.fieldset-description {
+  margin-bottom: 15px;
+}
+
+div.vertical-tabs .vertical-tabs-panes .vertical-tabs-pane fieldset {
+  border: 1px solid #ccc;
+  padding: 2.5em 0 0 0;
+  margin: 1em 0;
+}
+div.vertical-tabs .vertical-tabs-panes .vertical-tabs-pane fieldset legend {
+  display: block;
+}
+
+ul.omega-assets-namespace-tokens .description {
+  margin-top: 0;
+}
+.item-list ul.omega-assets-namespace-tokens {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.item-list ul.omega-assets-namespace-tokens li {
+  list-style-image: none;
+  list-style-type: none;
+  margin-left: 0;
+}
+.item-list ul.omega-assets-namespace-tokens li {
+  margin-bottom: 14px;
+}
+
+.omega-assets-missing-files {
+  color: #8c2e0b;
+  margin: 1em 0 1em 1.5em;
+}
+.omega-assets-missing-files h3 {
+  font-size: .9em;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+.omega-layout-selection-wrapper {
+  margin-bottom: 20px;
+  min-height: 75px;
+  position: relative;
+}
+.omega-layout-selection-wrapper .form-item label.option,
+.omega-layout-selection-wrapper .form-item div.description {
+  padding-left: 80px;
+}
+.omega-layout-selection-wrapper img {
+  height: 75px;
+  width: 64px;
+  position: absolute;
+  top: 8px;
+  margin-left: 1.5em;
+}
+
+.form-item.form-item-omega-requirements {
+  border: 1px solid #ed541d;
+  color: #8c2e0b;
+  background-color: #fef5f1;
+  margin: 6px 0 16px;
+  padding: 10px;
+}

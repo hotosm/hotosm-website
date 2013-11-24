@@ -1,0 +1,87 @@
+/*******************************************************************************
+ * divine.layout.scss
+ *
+ * Styling of the "divine" layout demonstrating the golden rule and asymmetric
+ * grids with Singularity.
+ ******************************************************************************/
+.l-page {
+  width: 95%;
+  max-width: 110em;
+  margin: 0 auto;
+}
+
+.l-header,
+.l-main {
+  *zoom: 1;
+  margin-bottom: 20px;
+}
+.l-header:after,
+.l-main:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Header Area */
+.l-header {
+  *zoom: 1;
+}
+.l-header:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.l-branding {
+  width: 50.33557%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 0%;
+  clear: none;
+}
+
+.l-region--header {
+  width: 48.99329%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none;
+}
+
+.l-region--navigation {
+  clear: both;
+}
+
+/* Content Area */
+.l-content {
+  width: 50.33557%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 0%;
+  clear: none;
+}
+
+/* Sidebars */
+.has-one-sidebar .l-region--sidebar-first,
+.has-one-sidebar .l-region--sidebar-second {
+  width: 48.99329%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none;
+}
+
+.has-two-sidebars .l-region--sidebar-first {
+  width: 30.20134%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 51.00671%;
+  clear: none;
+}
+.has-two-sidebars .l-region--sidebar-second {
+  width: 18.12081%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none;
+}

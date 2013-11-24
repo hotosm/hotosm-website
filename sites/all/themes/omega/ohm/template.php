@@ -2,18 +2,29 @@
 
 /**
  * @file
- * Template overrides as well as (pre-)process and alter hooks for the
- * Ohm theme.
+ * Template overrides as well as (pre-)process and alter hooks for the Ohm
+ * theme.
  */
 
 /**
  * Check if a block is a menu block or not.
  *
- * @param $block
- *  A block object.
+ * @param stdClass $block
+ *   A block object.
+ *
  * @return bool
- *  Given block is a menu block.
+ *   Given block is a menu block.
  */
 function _ohm_is_menu_block($block) {
-  return in_array($block->module, array('menu', 'menu_block')) || ($block->module == 'system' && !in_array($block->delta, array('help', 'powered-by', 'main')));
+  $modules = array('menu', 'menu_block');
+  if (in_array($block->module, $modules)) {
+    return TRUE;
+  }
+
+  $modules = array('help', 'powered-by', 'main');
+  if ($block->module == 'system' && !in_array($block->delta, $modules)) {
+    return TRUE;
+  }
+
+  return FALSE;
 }

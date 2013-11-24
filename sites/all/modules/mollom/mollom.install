@@ -26,7 +26,7 @@ function mollom_requirements($phase = 'runtime', $check = TRUE) {
     $requirements['mollom'] = array(
       'title' => t('Mollom API keys'),
       'value' => t('Valid (public key: @publicKey)', array(
-        '@publicKey' => mollom()->loadConfiguration('publicKey'),
+        '@publicKey' => variable_get('mollom_public_key', ''),
       )),
     );
     // Immediately return if everything is in order.
@@ -46,34 +46,41 @@ function mollom_requirements($phase = 'runtime', $check = TRUE) {
       ));
     }
     // Generate an appropriate error message:
+    // If testing mode is enabled, then the Testing API is most likely down,
+    // since the testing client implementation automatically tries to recover
+    // from stale/outdated API keys.
+    if (variable_get('mollom_testing_mode', 0)) {
+      $requirements['mollom']['value'] = t('Testing API not available');
+      $requirements['mollom']['description'] = t('The Mollom Testing API is not available currently.');
+    }
     // Missing API keys.
-    if (!$status['keys']) {
+    elseif (!$status['keys']) {
       $requirements['mollom']['value'] = t('Not configured');
       $requirements['mollom']['description'] = t('The Mollom API keys are not configured yet. !admin-message', array(
         '!admin-message' => $admin_message,
       ));
     }
     // Bad request: Invalid client system time: Too large offset from UTC.
-    elseif ($status['keys valid'] === Mollom::REQUEST_ERROR) {
+    elseif ($status['response'] === Mollom::REQUEST_ERROR) {
       $requirements['mollom']['value'] = t('Client error');
       $requirements['mollom']['description'] = t('The server time of this site is incorrect. The time of the operating system is not synchronized with the Coordinated Universal Time (UTC), which prevents a successful authentication with Mollom. The maximum allowed offset is @minutes minutes. Please consult your hosting provider or server operator to correct the server time.', array(
         '@minutes' => Mollom::TIME_OFFSET_MAX / 60,
       ));
     }
     // Invalid API keys.
-    elseif ($status['keys valid'] === Mollom::AUTH_ERROR) {
+    elseif ($status['response'] === Mollom::AUTH_ERROR) {
       $requirements['mollom']['value'] = t('Invalid');
       $requirements['mollom']['description'] = t('The configured Mollom API keys are invalid. !admin-message', array(
         '!admin-message' => $admin_message,
       ));
     }
     // Communication error.
-    elseif ($status['keys valid'] === Mollom::NETWORK_ERROR) {
+    elseif ($status['response'] === Mollom::NETWORK_ERROR) {
       $requirements['mollom']['value'] = t('Network error');
       $requirements['mollom']['description'] = t('The Mollom servers could not be contacted. Please make sure that your web server can make outgoing HTTP requests.');
     }
     // Server error.
-    elseif ($status['keys valid'] === Mollom::RESPONSE_ERROR) {
+    elseif ($status['response'] === Mollom::RESPONSE_ERROR) {
       $requirements['mollom']['value'] = t('Service error');
       $requirements['mollom']['description'] = t('The Mollom API keys could not be verified. Please try again later.');
     }
@@ -722,6 +729,12 @@ function mollom_update_7006() {
       unset($form_ids[$row->form_id]);
     }
   }
+  // 'comment' (body) field is now a 'comment_body' Field API field.
+  $enabled_fields = unserialize($mollom_form['enabled_fields']);
+  if (is_array($enabled_fields) && ($i = array_search('comment', $enabled_fields))) {
+    $enabled_fields[$i] = 'comment_body';
+    $mollom_form['enabled_fields'] = serialize($enabled_fields);
+  }
   // Duplicate comment_form row into comment_node_TYPE_form rows by
   // inserting settings for any remaining node types.
   foreach ($form_ids as $form_id => $type) {
@@ -1052,6 +1065,55 @@ function mollom_update_7206() {
       'not null' => TRUE,
       'default' => 'captcha',
     ));
+  }
+}
+
+/**
+ * Remove 'mollom_status' variable (replaced by cache).
+ */
+function mollom_update_7207() {
+  variable_del('mollom_status');
+}
+
+/**
+ * Remove obsolete 'mollom_moderation_redirect' setting.
+ */
+function mollom_update_7208() {
+  variable_del('mollom_moderation_redirect');
+}
+
+/**
+ * Correct the stored definition of enabled Field API fields.
+ */
+function mollom_update_7209() {
+  $mollom_forms = db_query('SELECT form_id, enabled_fields FROM {mollom_form}')->fetchAllKeyed();
+  foreach ($mollom_forms as $form_id => $enabled_fields) {
+    $changed = FALSE;
+    $enabled_fields = unserialize($enabled_fields);
+    if (is_array($enabled_fields)) {
+      foreach ($enabled_fields as $i => $name) {
+        // Remove '][und][0][value' suffix from element name.
+        if (substr($name, -15) == '][und][0][value') {
+          $enabled_fields[$i] = substr($name, 0, -15);
+          $changed = TRUE;
+        }
+      }
+    }
+    if ($changed) {
+      db_update('mollom_form')
+        ->condition('form_id', $form_id)
+        ->fields(array('enabled_fields' => serialize($enabled_fields)))
+        ->execute();
+    }
+  }
+}
+
+/**
+ * Disable minimum log severity threshold for existing sites.
+ */
+function mollom_update_7210() {
+  if (variable_get('mollom_log_minimum_severity', NULL) === NULL) {
+    variable_set('mollom_log_minimum_severity', WATCHDOG_INFO);
   }
 }
 

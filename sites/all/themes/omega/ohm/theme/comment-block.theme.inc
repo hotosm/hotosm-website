@@ -1,7 +1,12 @@
 <?php
 
 /**
- * Returns HTML for a list of recent comments to be displayed in the comment block.
+ * @file
+ * Contains the theme function override for 'comment_block'.
+ */
+
+/**
+ * Returns HTML for a list of recent comments for the comment block.
  *
  * @ingroup themeable
  */

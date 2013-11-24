@@ -1,0 +1,123 @@
+/*******************************************************************************
+ * off-canvas.layout.scss
+ *
+ * Styling of the Off Canvas layout.
+ ******************************************************************************/
+@import "compass";
+@import "breakpoint";
+@import "susy";
+
+// Susy Variables
+
+// Set consistent vertical and horizontal spacing units.
+$vert-spacing-unit: 20px;
+$horz-spacing-unit: 1em;
+
+// Define Susy grid variables mobile first.
+$total-columns: 4;
+$column-width: 4em;
+$gutter-width: $horz-spacing-unit;
+$grid-padding: 10px;
+
+$container-style: magic;
+$container-width: 1100px;
+
+$tab: 44em;
+$desk: 70em;
+
+@import "off-canvas";
+
+.l-header,
+.l-main,
+.l-footer {
+  @include container;
+  @include pie-clearfix;
+  margin-bottom: $vert-spacing-unit;
+}
+
+.l-off-canvas {
+  clear: both;
+}
+
+@include breakpoint($tab) {
+  $total-columns: 12;
+
+  .l-header,
+  .l-main,
+  .l-footer {
+    @include set-container-width;
+  }
+
+  .l-branding {
+    @include span-columns(4, 12);
+  }
+  .l-region--header{
+    @include span-columns(8 omega, 12);
+  }
+  .l-region--navigation {
+    clear: both;
+  }
+
+  .has-sidebar-first,
+  .has-sidebar-second,
+  .has-two-sidebars {
+    .l-content {
+      @include span-columns(8, 12);
+    }
+    .l-region--sidebar-first,
+    .l-region--sidebar-second {
+      @include span-columns(4 omega, 12);
+    }
+    .l-region--sidebar-second {
+      clear: right;
+    }
+  }
+}
+
+@include breakpoint($desk) {
+  $total-columns: 16;
+
+  .l-branding {
+    @include span-columns(6, 16);
+  }
+  .l-region--header{
+    @include span-columns(10 omega, 16);
+  }
+
+  .has-sidebar-first {
+    .l-content {
+      @include span-columns(12 omega, 16);
+    }
+    .l-region--sidebar-first {
+      @include span-columns(4, 16);
+    }
+  }
+  .has-sidebar-second {
+    .l-content {
+      @include span-columns(12, 16);
+    }
+    .l-region--sidebar-second {
+      @include span-columns(4 omega, 16);
+      clear: none;
+    }
+  }
+
+  .has-two-sidebars {
+    .l-content {
+      @include span-columns(8, 16);
+      @include push(4, 16);
+    }
+    .l-region--sidebar-first,
+    .l-region--sidebar-second {
+      @include span-columns(4, 16);
+    }
+    .l-region--sidebar-first {
+      @include pull(12, 16);
+    }
+    .l-region--sidebar-second {
+      @include omega;
+      clear: none;
+    }
+  }
+}
+

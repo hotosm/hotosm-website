@@ -1,6 +1,11 @@
 <?php
 
 /**
+ * @file
+ * Contains a pre-process hook for 'comment_wrapper'.
+ */
+
+/**
  * Implements hook_preprocess_TEMPLATE().
  */
 function ohm_preprocess_comment_wrapper(&$variables) {

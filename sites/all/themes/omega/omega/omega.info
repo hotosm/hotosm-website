@@ -1,0 +1,27 @@
+name = Omega
+description = A powerful HTML5 base theme framework utilizing tools like <a href="http://sass-lang.com/" title="Sass">Sass</a>, <a href="http://compass-style.org/" title="Compass">Compass</a>, <a href="http://gruntjs.com/" title="Grunt">Grunt</a>, <a href="http://bower.io/" title="Bower">Bower</a>, <a href="http://rvm.io/" title="Ruby Version Manager">Ruby Version Manager</a>, <a href="http://bundler.io/" title="Bundler">Bundler</a> and more.
+screenshot = screenshot.png
+engine = phptemplate
+core = 7.x
+
+; Regions
+regions[branding]       = Branding
+regions[header]         = Header
+regions[navigation]     = Navigation
+regions[highlighted]    = Highlighted
+regions[help]           = Help
+regions[content]        = Content
+regions[sidebar_first]  = First Sidebar
+regions[sidebar_second] = Second Sidebar
+regions[footer]         = Footer
+
+; Plugins
+plugins[panels][layouts] = panels/layouts
+plugins[panels][styles] = panels/styles
+
+; Information added by  packaging script on 2013-11-20
+version = "7.x-4.1"
+core = "7.x"
+project = "omega"
+datestamp = "1384946909"
+
