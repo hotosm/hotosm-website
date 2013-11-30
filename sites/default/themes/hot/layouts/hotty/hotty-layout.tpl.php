@@ -25,6 +25,7 @@
   <div class="l-main">
 
     <?php print render($page['highlighted']); ?>
+    <?php print $messages; ?>
 
     <div class="l-content" role="main">
       <?php // print $breadcrumb; ?>
@@ -34,7 +35,6 @@
         <h1><?php print $title; ?></h1>
       <?php endif; ?>
       <?php print render($title_suffix); ?>
-      <?php print $messages; ?>
       <?php print render($tabs); ?>
       <?php print render($page['help']); ?>
       <?php if ($action_links): ?>
@@ -48,7 +48,9 @@
     <?php print render($page['sidebar_second']); ?>
   </div>
 
-  <footer class="l-footer" role="contentinfo">
-    <?php print render($page['footer']); ?>
-  </footer>
+  <div id="footer-wrapper">
+    <footer class="l-footer" role="contentinfo">
+      <?php print render($page['footer']); ?>
+    </footer>
+  </div>
 </div>

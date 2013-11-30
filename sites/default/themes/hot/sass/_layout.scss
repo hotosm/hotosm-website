@@ -6,3 +6,59 @@
  * components should not be placed here and should instead be kept with the
  * relevant SCSS for that component.
  ******************************************************************************/
+
+
+.l-header {
+  padding: 25px 0px 20px;
+  height: 60px;
+  font-family: Futura;
+  margin-bottom: 15px !important;
+}
+
+.l-branding {
+  float: left;
+}
+
+.l-region--navigation {
+  float: right;
+  clear: none !important;
+  margin-top: 20px;
+}
+
+.l-region--header > div {
+  float: right;
+}
+
+.l-content {
+  width: 510px;
+  float: left;
+}
+
+.l-region--sidebar-second {
+  width: 260px;
+  float: right;
+  padding: 0;
+}
+
+
+#footer-wrapper {
+  color: #fff;
+  padding: 20px 10px 0 0;
+  margin-top: 50px;
+  font-family: Futura;
+  font-size: 12px;
+  background: #808080;
+  .l-footer {
+    a {
+      color: #fff;
+    }
+    h4 {
+      font-weight: normal;
+      font-size: 14px;
+    }
+  }
+  nav .menu {
+    font-size: 12px;
+    text-transform: lowercase;
+  }
+}

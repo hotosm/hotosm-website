@@ -12,3 +12,82 @@
  * before adding any more specific customisations you ensure that as any new
  * features are added they will be correctly styled without any extra work.
  ******************************************************************************/
+
+body {
+  color:#333;
+  background:#fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 20px;
+  margin: 0;
+}
+
+a {
+  color:#d40000;
+  text-decoration:none;
+}
+
+h2.page-title {
+  font-family: Georgia, Serif;
+  font-size:22px;
+  margin: 15px 0px;
+  font-weight:normal;
+  color: #d40000;
+}
+
+h2.block__title {
+  background: #f2f2f2;
+  border-top: 3px solid #808080;
+  border-bottom: 2px solid #808080;
+  line-height: 35px;
+  text-transform: uppercase;
+  padding: 0px 5px 0px 5px;
+  color: #808080;
+  font-size: 11px;
+  font-weight: normal;
+  .feed-icon {
+    padding-top: 4px;
+    float: right;
+  }
+}
+
+
+.block,
+.item-list {
+  border:none;
+  background: transparent;
+}
+
+.block .block-content {
+  padding:0px;
+}
+
+.block .block-title {
+  font-size:14px;
+}
+
+.block .block-content li.leaf {
+  font-size:12px;
+}
+
+.node {
+  margin:0px;
+}
+
+.node-title {
+  font-size: 15px;
+  font-family: Georgia, Serif;
+  font-weight: bold;
+  margin: 20px 0px 0px 0px;
+}
+
+.node-content {
+  padding:10px 0px 20px;
+  font-family:arial;
+  font-size:13px;
+  color:#333;
+}
+
+.messages {
+  clear: both;
+}

@@ -10,21 +10,15 @@ include_once 'hot_core.features.inc';
 /**
  * Implements hook_menu_alter()
  */
-function hot_core_menu() {
-  // Disable the page node
-  $items['front'] = array(
-    'page callback' => 'hot_core_front_page',
-    'access callback' => TRUE,
-  );
-  return $items;
-}
-
-/**
- * Implements hook_menu_alter()
- */
 function hot_core_menu_alter(&$items) {
-  // Disable the page node
-  $items['node']['access callback'] = FALSE;
+    // Disable the page node
+    $items['node'] = array(
+      'page callback' => 'hot_core_front_page',
+      'access callback' => TRUE,
+    );
+    $items['taxonomy/term/%taxonomy_term']['page callback'] = 'drupal_not_found';
+    $items['taxonomy/term/%taxonomy_term/view']['page callback'] = 'drupal_not_found';
+    $items['taxonomy/term/%taxonomy_term/feed']['page callback'] = 'drupal_not_found';
 }
 
 function hot_core_front_page() {

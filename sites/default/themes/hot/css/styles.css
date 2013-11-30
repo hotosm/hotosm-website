@@ -39,6 +39,97 @@
  * before adding any more specific customisations you ensure that as any new
  * features are added they will be correctly styled without any extra work.
  ******************************************************************************/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000316}}
+body {
+  color: #333;
+  background: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 20px;
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000325}}
+a {
+  color: #d40000;
+  text-decoration: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000330}}
+h2.page-title {
+  font-family: Georgia, Serif;
+  font-size: 22px;
+  margin: 15px 0px;
+  font-weight: normal;
+  color: #d40000;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000338}}
+h2.block__title {
+  background: #f2f2f2;
+  border-top: 3px solid #808080;
+  border-bottom: 2px solid #808080;
+  line-height: 35px;
+  text-transform: uppercase;
+  padding: 0px 5px 0px 5px;
+  color: #808080;
+  font-size: 11px;
+  font-weight: normal;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000348}}
+h2.block__title .feed-icon {
+  padding-top: 4px;
+  float: right;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000356}}
+.block,
+.item-list {
+  border: none;
+  background: transparent;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000361}}
+.block .block-content {
+  padding: 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000365}}
+.block .block-title {
+  font-size: 14px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000369}}
+.block .block-content li.leaf {
+  font-size: 12px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000373}}
+.node {
+  margin: 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000377}}
+.node-title {
+  font-size: 15px;
+  font-family: Georgia, Serif;
+  font-weight: bold;
+  margin: 20px 0px 0px 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000384}}
+.node-content {
+  padding: 10px 0px 20px;
+  font-family: arial;
+  font-size: 13px;
+  color: #333;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000391}}
+.messages {
+  clear: both;
+}
+
 /*******************************************************************************
  * _layout.scss
  *
@@ -47,6 +138,68 @@
  * components should not be placed here and should instead be kept with the
  * relevant SCSS for that component.
  ******************************************************************************/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000311}}
+.l-header {
+  padding: 25px 0px 20px;
+  height: 60px;
+  font-family: Futura;
+  margin-bottom: 15px !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000318}}
+.l-branding {
+  float: left;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000322}}
+.l-region--navigation {
+  float: right;
+  clear: none !important;
+  margin-top: 20px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000328}}
+.l-region--header > div {
+  float: right;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000332}}
+.l-content {
+  width: 510px;
+  float: left;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000337}}
+.l-region--sidebar-second {
+  width: 260px;
+  float: right;
+  padding: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000344}}
+#footer-wrapper {
+  color: #fff;
+  padding: 20px 10px 0 0;
+  margin-top: 50px;
+  font-family: Futura;
+  font-size: 12px;
+  background: #808080;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000352}}
+#footer-wrapper .l-footer a {
+  color: #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000355}}
+#footer-wrapper .l-footer h4 {
+  font-weight: normal;
+  font-size: 14px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000360}}
+#footer-wrapper nav .menu {
+  font-size: 12px;
+  text-transform: lowercase;
+}
+
 /*******************************************************************************
  * _components.scss
  *
@@ -86,3 +239,133 @@
  *       CSS. Exposed filter forms, views pagers and other views elements are
  *       also good candidates for components.
  ******************************************************************************/
+/* User control block */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000343}}
+#block-views-user-user-control-block {
+  clear: both;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000346}}
+#block-views-user-user-control-block .views-field-name {
+  float: left;
+  padding-right: 4px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000350}}
+#block-views-user-user-control-block .views-field-nothing {
+  float: right;
+}
+
+/* Main navigation */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000356}}
+nav .menu {
+  float: right;
+  font-size: 15px;
+  font-weight: normal;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000360}}
+nav .menu li.leaf {
+  list-style: none;
+  display: inline;
+  padding: 0px 0px 0px 15px;
+  line-height: 20px;
+}
+
+/* Featured project */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000370}}
+#block-views-project-projects-featured-block .views-field-field-image {
+  border-top: 3px solid #808080;
+  border-bottom: 2px solid #808080;
+  height: 330px;
+  float: left;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000377}}
+#block-views-project-projects-featured-block .featured {
+  border-top: 3px solid #808080;
+  border-bottom: 2px solid #808080;
+  height: 320px;
+  width: 250px;
+  padding: 5px;
+  margin: 0px 0px 0px 10px;
+  float: right;
+  background: #f2f2f2;
+  overflow: hidden;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000389}}
+#block-views-project-projects-featured-block h3.featured-label {
+  text-transform: uppercase;
+  font-weight: normal;
+  font-family: Futura;
+  font-size: 11px;
+  color: #808080;
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000398}}
+#block-views-project-projects-featured-block div.featured-title {
+  font-family: Georgia;
+  font-size: 20px;
+  padding: 5px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003104}}
+#block-views-project-projects-featured-block div.featured-body {
+  font-size: 11px;
+  line-height: 20px;
+  color: #333;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003110}}
+#block-views-project-projects-featured-block div.featured-link {
+  font-family: Futura;
+  float: right;
+  text-transform: uppercase;
+  font-size: 12px;
+  margin: 2px 0px 0px;
+}
+
+/* Short general description block */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003120}}
+#block-block-1 {
+  font-family: Georgia;
+  font-size: 17px;
+  color: #444;
+  margin: 0px 0px;
+  padding: 15px 20px 5px 20px;
+  line-height: 25px;
+  clear: both;
+}
+
+/* Project overview block */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003133}}
+#block-views-project-projects-overview-block .block__content .views-field-field-image {
+  float: left;
+  padding: 0px 15px 0px 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003137}}
+#block-views-project-projects-overview-block .block__content .views-field-title {
+  font-family: Georgia, Serif;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 50px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003143}}
+#block-views-project-projects-overview-block .block__content .views-row {
+  clear: both;
+  padding-top: 20px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003151}}
+#block-views-updates-updates-all-block .more-link {
+  text-align: center;
+  font-size: 16px;
+  padding: 2px 6px;
+  margin-top: 15px;
+}
+
+/* Contact links */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003163}}
+#block-block-2 ul {
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003166}}
+#block-block-2 li {
+  padding: 0;
+  list-style: none;
+}

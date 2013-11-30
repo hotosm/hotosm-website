@@ -37,3 +37,134 @@
  *       CSS. Exposed filter forms, views pagers and other views elements are
  *       also good candidates for components.
  ******************************************************************************/
+
+
+/* User control block */
+#block-views-user-user-control-block {
+  clear: both;
+  display: block;
+  .views-field-name {
+    float:left;
+    padding-right: 4px;
+  }
+  .views-field-nothing {
+    float: right;
+  }
+}
+
+ /* Main navigation */
+nav .menu {
+  float:right;
+  font-size:15px;
+  font-weight:normal;
+  li.leaf {
+    list-style: none;
+    display: inline;
+    padding:0px 0px 0px 15px;
+    line-height:20px;
+  }
+}
+
+/* Featured project */
+#block-views-project-projects-featured-block {
+ .views-field-field-image {
+    border-top: 3px solid #808080;
+    border-bottom: 2px solid #808080;
+    height:330px;
+    float:left;
+  }
+
+  .featured {
+    border-top: 3px solid #808080;
+    border-bottom: 2px solid #808080;
+    height:320px;
+    width:250px;
+    padding:5px;
+    margin:0px 0px 0px 10px;
+    float:right;
+    background:#f2f2f2;
+    overflow:hidden;
+  }
+
+  h3.featured-label {
+    text-transform:uppercase;
+    font-weight:normal;
+    font-family:Futura;
+    font-size:11px;
+    color:#808080;
+    margin: 0;
+  }
+
+  div.featured-title {
+    font-family:Georgia;
+    font-size:20px;
+    padding:5px 0;
+  }
+
+  div.featured-body {
+    font-size:11px;
+    line-height:20px;
+    color:#333;
+  }
+
+  div.featured-link {
+    font-family:Futura;
+    float:right;
+    text-transform:uppercase;
+    font-size:12px;
+    margin:2px 0px 0px;
+  }
+}
+
+/* Short general description block */
+#block-block-1 {
+  font-family: Georgia;
+  font-size: 17px;
+  color: #444;
+  margin: 0px 0px;
+  padding: 15px 20px 5px 20px;
+  line-height: 25px;
+  clear: both;
+}
+
+/* Project overview block */
+#block-views-project-projects-overview-block {
+  .block__content {
+    .views-field-field-image {
+      float: left;
+      padding: 0px 15px 0px 0px;
+    }
+    .views-field-title {
+      font-family: Georgia, Serif;
+      font-size:18px;
+      font-weight:normal;
+      line-height: 50px;
+    }
+    .views-row {
+      clear: both;
+      padding-top:20px;
+    }
+  }
+}
+
+#block-views-updates-updates-all-block {
+  .more-link {
+    text-align: center;
+    font-size: 16px;
+    padding: 2px 6px;
+    margin-top: 15px;
+  }
+}
+
+
+
+/* Contact links */
+#block-block-2 {
+  ul {
+    padding: 0;
+  }
+  li {
+    padding: 0;
+    list-style: none;
+  }
+}
