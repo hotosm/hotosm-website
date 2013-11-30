@@ -717,6 +717,22 @@ function drupal_settings_initialize() {
   }
   $is_https = isset($_SERVER['HTTPS']) && strtolower($_SERVER['HTTPS']) == 'on';
 
+  // Load environmental config, if present.
+  if (isset($_SERVER['PRESSFLOW_SETTINGS'])) {
+    $pressflow_settings = json_decode($_SERVER['PRESSFLOW_SETTINGS'], TRUE);
+    foreach ($pressflow_settings as $key => $value) {
+      // One level of depth should be enough for $conf and $database.
+      if ($key == 'conf') {
+        foreach($value as $conf_key => $conf_value) {
+          $conf[$conf_key] = $conf_value;
+        }
+      }
+      else {
+        $$key = $value;
+      }
+    }
+  }
+
   if (isset($base_url)) {
     // Parse fixed base URL from settings.php.
     $parts = parse_url($base_url);
@@ -2468,6 +2484,17 @@ function _drupal_bootstrap_database() {
  */
 function _drupal_bootstrap_variables() {
   global $conf;
+
+  // Pressflow Smart Start
+  if (!empty($GLOBALS['databases']) && variable_get('pressflow_smart_start', FALSE)) {
+    try {
+      $result = db_query('SELECT s.name FROM {system} s WHERE s.name = :name', array(':name' => 'system'));
+    } catch (Exception $e) {
+      // Redirect to the installer if an essential table is missing.
+      include_once DRUPAL_ROOT . '/includes/install.inc';
+      install_goto('install.php');
+    }
+  }
 
   // Initialize the lock system.
   require_once DRUPAL_ROOT . '/' . variable_get('lock_inc', 'includes/lock.inc');

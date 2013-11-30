@@ -215,11 +215,11 @@ $databases = array (
   array (
     'default' =>
     array (
-      'database' => 'pantheon',
-      'username' => 'pantheon',
-      'password' => '38dee96295364aa9bc124aa937ea73a3',
-      'host' => 'dbserver.dev.14948b18-8040-45b9-8c39-67d9bc9b54c5.drush.in',
-      'port' => '10662',
+      'database' => 'osm_hot_d7',
+      'username' => 'root',
+      'password' => 'root',
+      'host' => 'localhost',
+      'port' => '',
       'driver' => 'mysql',
       'prefix' => '',
     ),
