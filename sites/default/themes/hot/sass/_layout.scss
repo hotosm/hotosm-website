@@ -12,7 +12,6 @@
   padding: 25px 0px 20px;
   height: 60px;
   font-family: Futura;
-  margin-bottom: 15px !important;
 }
 
 .l-branding {
@@ -29,17 +28,22 @@
   float: right;
 }
 
-.l-content {
+body.sidebar-present .l-content {
   width: 510px;
   float: left;
 }
 
-.l-region--sidebar-second {
+.l-region--sidebar {
   width: 260px;
   float: right;
   padding: 0;
 }
 
+.l-region--help {
+  clear: both;
+  margin-top: -50px;
+  float: right;
+}
 
 #footer-wrapper {
   color: #fff;

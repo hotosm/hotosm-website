@@ -147,6 +147,7 @@ nav .menu {
   }
 }
 
+/* Updates web log block */
 #block-views-updates-updates-all-block {
   .more-link {
     text-align: center;
@@ -156,9 +157,7 @@ nav .menu {
   }
 }
 
-
-
-/* Contact links */
+/* Contact links block */
 #block-block-2 {
   ul {
     padding: 0;
@@ -168,3 +167,31 @@ nav .menu {
     list-style: none;
   }
 }
+
+/* Project overview */
+.view-display-id-projects_overview_page {
+  margin-top: 20px;
+  .views-field-title {
+    font-size: 16px;
+    font-family: Georgia;
+    padding-top: 8px;
+  }
+  table {
+    td {
+      vertical-align: top;
+      padding: 0 50px 20px 50px;
+      .views-field {
+        width: 180px;
+      }
+    }
+    td.col-first {
+      padding-left: 0;
+      padding-right: 50px;
+    }
+    td.col-last {
+      padding-right: 0;
+      padding-left: 50px;
+    }
+  }
+}
+

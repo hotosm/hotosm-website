@@ -127,11 +127,7 @@ function hot_updates_field_default_field_instances() {
   // Exported field_instance: 'node-update-field_update_project'
   $field_instances['node-update-field_update_project'] = array(
     'bundle' => 'update',
-    'default_value' => array(
-      0 => array(
-        'nid' => '',
-      ),
-    ),
+    'default_value' => NULL,
     'deleted' => 0,
     'description' => '',
     'display' => array(
@@ -180,7 +176,7 @@ function hot_updates_field_default_field_instances() {
     'entity_type' => 'node',
     'field_name' => 'field_update_project',
     'label' => 'Related Project',
-    'required' => FALSE,
+    'required' => 0,
     'settings' => array(
       'user_register_form' => FALSE,
     ),
@@ -188,11 +184,7 @@ function hot_updates_field_default_field_instances() {
     'widget' => array(
       'active' => 1,
       'module' => 'options',
-      'settings' => array(
-        'autocomplete_match' => 'contains',
-        'default_value_php' => NULL,
-        'size' => 60,
-      ),
+      'settings' => array(),
       'type' => 'options_select',
       'weight' => 2,
     ),

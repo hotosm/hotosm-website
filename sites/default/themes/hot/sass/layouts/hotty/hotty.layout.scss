@@ -26,17 +26,20 @@ $tab: 44em 12; // At 44em use 12 columns.
 $desk: 70em 16; // At 70em use 16 columns.
 
 .l-header,
-.l-main,
-.l-footer {
+.l-main {
   @include container; // Define these elements as the grid containers.
   // @include susy-grid-background; // Show the columns for debugging.
   margin-bottom: $vert-spacing-unit;
 }
 
+.l-footer {
+  @include container; // Define these elements as the grid containers.
+  // @include susy-grid-background; // Show the columns for debugging.
+}
+
 .l-region--highlighted,
 .l-region--help,
-.l-region--sidebar-first,
-.l-region--sidebar-second {
+.l-region--sidebar {
   margin-bottom: $vert-spacing-unit;
 }
 
@@ -58,18 +61,13 @@ $desk: 70em 16; // At 70em use 16 columns.
     clear: both;
   }
 
-  .sidebar-first,
-  .sidebar-second,
+  .sidebar,
   .two-sidebars {
     .l-content {
       @include span-columns(8, 12); // Span 8 out of 12 columns.
     }
-    .l-region--sidebar-first,
-    .l-region--sidebar-second {
+    .l-region--sidebar {
       @include span-columns(4 omega, 12); // Span the last (omega) 4 columns of 12.
-    }
-    .l-region--sidebar-second {
-      clear: right;
     }
   }
 }
@@ -89,39 +87,12 @@ $desk: 70em 16; // At 70em use 16 columns.
     @include span-columns(10 omega, 16); // Span the last (omega) 10 columns of 16.
   }
 
-  .sidebar-first {
+  .sidebar {
     .l-content {
       @include span-columns(12 omega, 16); // Span the last (omega) 12 columns of 16.
     }
-    .l-region--sidebar-first {
+    .l-region--sidebar {
       @include span-columns(4, 16); // Span 4 out of 16 columns.
-    }
-  }
-  .sidebar-second {
-    .l-content {
-      @include span-columns(12, 16); // Span 12 out of 16 columns.
-    }
-    .l-region--sidebar-second {
-      @include span-columns(4 omega, 16); // Span the last (omega) 12 columns of 16.
-      clear: none;
-    }
-  }
-
-  .two-sidebars {
-    .l-content {
-      @include span-columns(8, 16); // Span 12 out of 16 columns.
-      @include push(4, 16);  // Push element by adding 4 out of 16 columns of left margin.
-    }
-    .l-region--sidebar-first,
-    .l-region--sidebar-second {
-      @include span-columns(4, 16); // Span 4 out of 16 columns.
-    }
-    .l-region--sidebar-first {
-      @include pull(12, 16); // Pull element by adding 12 out of 16 columns of negative left margin.
-    }
-    .l-region--sidebar-second {
-      @include omega; // This element spans the last (omega) column.
-      clear: none;
     }
   }
 }

@@ -44,8 +44,7 @@
       <?php print $feed_icons; ?>
     </div>
 
-    <?php print render($page['sidebar_first']); ?>
-    <?php print render($page['sidebar_second']); ?>
+    <?php print render($page['sidebar']); ?>
   </div>
 
   <div id="footer-wrapper">

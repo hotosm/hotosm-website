@@ -4,9 +4,27 @@
  * Styling of the "simple" layout demonstrating the Compass grid extension Susy
  * and building mobile first layouts.
  ******************************************************************************/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000329}}
 .l-header,
-.l-main,
+.l-main {
+  *zoom: 1;
+  max-width: 790px;
+  _width: 790px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/general\/_clearfix\.scss}line{font-family:\0000338}}
+.l-header:after,
+.l-main:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000335}}
 .l-footer {
   *zoom: 1;
   max-width: 790px;
@@ -15,149 +33,95 @@
   padding-right: 5px;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 0px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/general\/_clearfix\.scss}line{font-family:\0000338}}
-.l-header:after,
-.l-main:after,
 .l-footer:after {
   content: "";
   display: table;
   clear: both;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000342}}
 .l-region--highlighted,
 .l-region--help,
-.l-region--sidebar-first,
-.l-region--sidebar-second {
+.l-region--sidebar {
   margin-bottom: 20px;
 }
 
 @media (min-width: 44em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000349}}
   .l-header,
   .l-main,
   .l-footer {
     max-width: 790px;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000354}}
   .l-branding {
     width: 32.20339%;
     float: left;
     margin-right: 1.69492%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000354}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000357}}
   .l-region--header {
     width: 66.10169%;
     float: right;
     margin-right: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000360}}
   .l-region--navigation {
     clear: both;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000364}}
-  .sidebar-first .l-content,
-  .sidebar-second .l-content,
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000366}}
+  .sidebar .l-content,
   .two-sidebars .l-content {
     width: 66.10169%;
     float: left;
     margin-right: 1.69492%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000368}}
-  .sidebar-first .l-region--sidebar-first,
-  .sidebar-first .l-region--sidebar-second,
-  .sidebar-second .l-region--sidebar-first,
-  .sidebar-second .l-region--sidebar-second,
-  .two-sidebars .l-region--sidebar-first,
-  .two-sidebars .l-region--sidebar-second {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000369}}
+  .sidebar .l-region--sidebar,
+  .two-sidebars .l-region--sidebar {
     width: 32.20339%;
     float: right;
     margin-right: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000371}}
-  .sidebar-first .l-region--sidebar-second,
-  .sidebar-second .l-region--sidebar-second,
-  .two-sidebars .l-region--sidebar-second {
-    clear: right;
-  }
 }
 @media (min-width: 70em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000380}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000378}}
   .l-header,
   .l-main,
   .l-footer {
     max-width: 790px;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000385}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000383}}
   .l-branding {
     width: 36.70886%;
     float: left;
     margin-right: 1.26582%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000388}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000386}}
   .l-region--header {
     width: 62.02532%;
     float: right;
     margin-right: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000393}}
-  .sidebar-first .l-content {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000391}}
+  .sidebar .l-content {
     width: 74.68354%;
     float: right;
     margin-right: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000396}}
-  .sidebar-first .l-region--sidebar-first {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\0000394}}
+  .sidebar .l-region--sidebar {
     width: 24.05063%;
     float: left;
     margin-right: 1.26582%;
-  }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\00003101}}
-  .sidebar-second .l-content {
-    width: 74.68354%;
-    float: left;
-    margin-right: 1.26582%;
-  }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\00003104}}
-  .sidebar-second .l-region--sidebar-second {
-    width: 24.05063%;
-    float: right;
-    margin-right: 0;
-    clear: none;
-  }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\00003111}}
-  .two-sidebars .l-content {
-    width: 49.36709%;
-    float: left;
-    margin-right: 1.26582%;
-    margin-left: 25.31646%;
-  }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\00003116}}
-  .two-sidebars .l-region--sidebar-first,
-  .two-sidebars .l-region--sidebar-second {
-    width: 24.05063%;
-    float: left;
-    margin-right: 1.26582%;
-  }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\00003119}}
-  .two-sidebars .l-region--sidebar-first {
-    margin-left: -75.94937%;
-  }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/layouts\/hotty\/hotty\.layout\.scss}line{font-family:\00003122}}
-  .two-sidebars .l-region--sidebar-second {
-    float: right;
-    margin-right: 0;
-    clear: none;
   }
 }
