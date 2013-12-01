@@ -207,6 +207,11 @@ body.sidebar-present .l-content {
   text-transform: lowercase;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000372}}
+body.page-node .l-region--sidebar {
+  margin-top: 55px;
+}
+
 /*******************************************************************************
  * _components.scss
  *
@@ -430,4 +435,14 @@ nav .menu li.leaf {
 .view-display-id-projects_overview_page table td.col-last {
   padding-right: 0;
   padding-left: 50px;
+}
+
+/* Project node's splitted information */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003220}}
+#block-views-project-ol-map-block-1 .views-field {
+  margin-bottom: 14px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003223}}
+#block-views-project-ol-map-block-1 .views-label {
+  font-weight: bold;
 }
