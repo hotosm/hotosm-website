@@ -138,12 +138,31 @@ nav .menu {
       font-family: Georgia, Serif;
       font-size:18px;
       font-weight:normal;
-      line-height: 50px;
+      text-align: left;
     }
     .views-row {
       clear: both;
       padding-top:20px;
     }
+  }
+  tr {
+    background: none !important;
+  }
+ table {
+    border-collapse:separate;
+    border-spacing:0 15px;
+  }
+  .tabledrag-handle {
+    position: absolute;
+  }
+  .tabledrag-changed {
+    padding-top: 14px;
+    padding-left: 20px;
+    position: absolute;
+  }
+  .draggable .views-field-field-image img {
+    margin-left: 30px !important;
+
   }
 }
 

@@ -350,16 +350,39 @@ nav .menu li.leaf {
   font-family: Georgia, Serif;
   font-size: 18px;
   font-weight: normal;
-  line-height: 50px;
+  text-align: left;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003143}}
 #block-views-project-projects-overview-block .block__content .views-row {
   clear: both;
   padding-top: 20px;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003148}}
+#block-views-project-projects-overview-block tr {
+  background: none !important;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003151}}
+#block-views-project-projects-overview-block table {
+  border-collapse: separate;
+  border-spacing: 0 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003155}}
+#block-views-project-projects-overview-block .tabledrag-handle {
+  position: absolute;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003158}}
+#block-views-project-projects-overview-block .tabledrag-changed {
+  padding-top: 14px;
+  padding-left: 20px;
+  position: absolute;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003163}}
+#block-views-project-projects-overview-block .draggable .views-field-field-image img {
+  margin-left: 30px !important;
+}
 
 /* Updates web log block */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003152}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003171}}
 #block-views-updates-updates-all-block .more-link {
   text-align: center;
   font-size: 16px;
@@ -368,42 +391,42 @@ nav .menu li.leaf {
 }
 
 /* Contact links block */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003162}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003181}}
 #block-block-2 ul {
   padding: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003165}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003184}}
 #block-block-2 li {
   padding: 0;
   list-style: none;
 }
 
 /* Project overview */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003172}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003191}}
 .view-display-id-projects_overview_page {
   margin-top: 20px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003174}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003193}}
 .view-display-id-projects_overview_page .views-field-title {
   font-size: 16px;
   font-family: Georgia;
   padding-top: 8px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003180}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003199}}
 .view-display-id-projects_overview_page table td {
   vertical-align: top;
   padding: 0 50px 20px 50px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003183}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003202}}
 .view-display-id-projects_overview_page table td .views-field {
   width: 180px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003187}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003206}}
 .view-display-id-projects_overview_page table td.col-first {
   padding-left: 0;
   padding-right: 50px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003191}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003210}}
 .view-display-id-projects_overview_page table td.col-last {
   padding-right: 0;
   padding-left: 50px;
