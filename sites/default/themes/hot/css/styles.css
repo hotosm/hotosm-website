@@ -66,7 +66,7 @@ h2.page-title {
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000339}}
-h2.block__title {
+.front h2.block__title {
   background: #f2f2f2;
   border-top: 3px solid #808080;
   border-bottom: 2px solid #808080;
@@ -78,7 +78,7 @@ h2.block__title {
   font-weight: normal;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000349}}
-h2.block__title .feed-icon {
+.front h2.block__title .feed-icon {
   padding-top: 4px;
   float: right;
 }
@@ -445,4 +445,50 @@ nav .menu li.leaf {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003223}}
 #block-views-project-ol-map-block-1 .views-label {
   font-weight: bold;
+}
+
+/* Book navigation */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003230}}
+#block-book-navigation h2 {
+  font-size: 13px;
+  padding: 0 0 8px 0;
+  margin: 0;
+  font-weight: normal;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003236}}
+#block-book-navigation ul {
+  padding: 0;
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003239}}
+#block-book-navigation ul li {
+  list-style: none;
+  padding-bottom: 8px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003244}}
+#block-book-navigation a {
+  padding: 4px;
+  display: block;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003249}}
+#block-book-navigation a.active {
+  color: #d40000;
+  background-color: #f4f4f4;
+}
+
+/* Attachments */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003257}}
+.field--name-upload {
+  margin: 30px 0;
+  display: block;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003261}}
+.field--name-upload table {
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003263}}
+.field--name-upload table td, .field--name-upload table th {
+  padding: 4px;
 }
