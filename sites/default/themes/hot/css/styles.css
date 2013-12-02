@@ -58,7 +58,7 @@ a {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000331}}
 h2.page-title, h1 {
-  font-family: Georgia, Serif;
+  font-family: "Times New Roman", "Times",Georgia,Serif;
   font-size: 22px;
   margin: 15px 0px;
   font-weight: normal;
@@ -113,7 +113,7 @@ h2.page-title, h1 {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000378}}
 .node-title {
   font-size: 15px;
-  font-family: Georgia, Serif;
+  font-family: "Times New Roman", "Times",Georgia,Serif;
   font-weight: bold;
   margin: 20px 0px 0px 0px;
 }
@@ -121,7 +121,7 @@ h2.page-title, h1 {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000385}}
 .node-content {
   padding: 10px 0px 20px;
-  font-family: arial;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 13px;
   color: #333;
 }
@@ -234,7 +234,12 @@ fieldset.collapsible .fieldset-title {
   margin-right: 6px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003195}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003192}}
+.links .comment-add {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003198}}
 .comment-form .filter-guidelines,
 .comment-form .filter-help {
   font-size: 11px;
@@ -242,13 +247,13 @@ fieldset.collapsible .fieldset-title {
   line-height: 13px;
   color: #666;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003201}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003204}}
 .comment-form .filter-wrapper {
   border: 1px solid #ccc;
   border-top: none;
   margin-bottom: 20px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003206}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003209}}
 .comment-form .form-item-subject {
   display: none;
 }
@@ -265,7 +270,7 @@ fieldset.collapsible .fieldset-title {
 .l-header {
   padding: 25px 0px 20px;
   height: 60px;
-  font-family: Futura;
+  font-family: "Times New Roman", "Times",Georgia,Serif;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000317}}
@@ -310,7 +315,7 @@ body.sidebar-present .l-content {
   color: #fff;
   padding: 20px 10px 0 0;
   margin-top: 50px;
-  font-family: Futura;
+  font-family: "Times New Roman", "Times",Georgia,Serif;
   font-size: 12px;
   background: #808080;
 }
@@ -428,14 +433,14 @@ nav .menu li.leaf {
 #block-views-project-projects-featured-block h3.featured-label {
   text-transform: uppercase;
   font-weight: normal;
-  font-family: Futura;
+  font-family: "Times New Roman", "Times",Georgia,Serif;
   font-size: 11px;
   color: #808080;
   margin: 0;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000398}}
 #block-views-project-projects-featured-block div.featured-title {
-  font-family: Georgia;
+  font-family: "Times New Roman", "Times",Georgia,Serif;
   font-size: 20px;
   padding: 5px 0;
 }
@@ -447,7 +452,7 @@ nav .menu li.leaf {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003110}}
 #block-views-project-projects-featured-block div.featured-link {
-  font-family: Futura;
+  font-family: "Times New Roman", "Times",Georgia,Serif;
   float: right;
   text-transform: uppercase;
   font-size: 12px;
@@ -457,7 +462,7 @@ nav .menu li.leaf {
 /* Short general description block */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003120}}
 #block-block-1 {
-  font-family: Georgia;
+  font-family: "Times New Roman", "Times",Georgia,Serif;
   font-size: 17px;
   color: #444;
   margin: 0px 0px;
@@ -474,7 +479,7 @@ nav .menu li.leaf {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003137}}
 #block-views-project-projects-overview-block .block__content .views-field-title {
-  font-family: Georgia, Serif;
+  font-family: "Times New Roman", "Times",Georgia,Serif;
   font-size: 18px;
   font-weight: normal;
   text-align: left;
@@ -541,7 +546,7 @@ nav .menu li.leaf {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003197}}
 .view-display-id-projects_overview_page .views-field-title {
   font-size: 16px;
-  font-family: Georgia;
+  font-family: "Times New Roman", "Times",Georgia,Serif;
   padding-top: 8px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003203}}

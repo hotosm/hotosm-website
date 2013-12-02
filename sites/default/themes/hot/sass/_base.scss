@@ -29,7 +29,7 @@ a {
 }
 
 h2.page-title, h1 {
-  font-family: Georgia, Serif;
+  font-family:"Times New Roman", "Times",Georgia,Serif;
   font-size:22px;
   margin: 15px 0px;
   font-weight:normal;
@@ -77,14 +77,14 @@ h2.page-title, h1 {
 
 .node-title {
   font-size: 15px;
-  font-family: Georgia, Serif;
+  font-family:"Times New Roman", "Times",Georgia,Serif;
   font-weight: bold;
   margin: 20px 0px 0px 0px;
 }
 
 .node-content {
   padding:10px 0px 20px;
-  font-family:arial;
+  font-family: Arial, Helvetica, sans-serif;
   font-size:13px;
   color:#333;
 }
@@ -189,6 +189,9 @@ fieldset.collapsible .fieldset-title {
   }
 }
 
+.links .comment-add {
+  display: none;
+}
 
 .comment-form {
   .filter-guidelines,
