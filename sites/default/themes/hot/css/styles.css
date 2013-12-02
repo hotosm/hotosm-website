@@ -57,7 +57,7 @@ a {
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000331}}
-h2.page-title {
+h2.page-title, h1 {
   font-family: Georgia, Serif;
   font-size: 22px;
   margin: 15px 0px;
@@ -129,6 +129,122 @@ h2.page-title {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000392}}
 .messages {
   clear: both;
+}
+
+/* Forms */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003102}}
+.form-item input.error,
+.form-item textarea.error,
+.form-item select.error {
+  border-style: solid;
+  border-color: red;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003110}}
+input.form-text,
+select,
+textarea {
+  border: 1px solid #ccc;
+  padding: 2px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003116}}
+input.form-submit,
+label {
+  font-weight: bold;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003120}}
+input.form-submit {
+  cursor: pointer;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003125}}
+input.form-radio,
+input.form-checkbox {
+  vertical-align: middle;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003130}}
+.form-item .description,
+.description {
+  color: #666;
+  font-size: 11px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003135}}
+fieldset.collapsible .fieldset-title {
+  cursor: pointer;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003139}}
+.form-item label {
+  display: block;
+  font-weight: bold;
+  margin: 0px;
+  padding: 0px;
+  color: #666;
+  font-weight: bold;
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003150}}
+.form-item label.option {
+  display: inline;
+  font-weight: normal;
+}
+
+/* Comments */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003156}}
+#comments {
+  margin-top: 40px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003158}}
+#comments .comments__title {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003162}}
+#comments .comments__form-title {
+  font-weight: normal;
+  font-size: 10px;
+  text-transform: uppercase;
+  background: #eee;
+  border: 1px solid #ddd;
+  padding: 4px 9px;
+  margin: 40px 0px 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003175}}
+#comments .comment-form .filter-guidelines,
+#comments .comment-form .filter-help {
+  font-size: 11px;
+  padding: 0;
+  line-height: 13px;
+  color: #666;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003181}}
+#comments .comment-form .filter-wrapper {
+  border: 1px solid #ccc;
+  border-top: none;
+  margin-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003190}}
+#comments .comment .submitted {
+  font-weight: normal;
+  font-size: 10px;
+  text-transform: uppercase;
+  background: #eee;
+  border: 1px solid #ddd;
+  padding: 4px 9px;
+  margin: 0px 0px 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003199}}
+#comments .comment ul.links {
+  float: right;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003202}}
+#comments .comment .new {
+  float: left;
 }
 
 /*******************************************************************************
@@ -208,7 +324,7 @@ body.sidebar-present .l-content {
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000372}}
-body.page-node .l-region--sidebar {
+body.not-front .l-region--sidebar {
   margin-top: 55px;
 }
 

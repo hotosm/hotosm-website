@@ -22,6 +22,6 @@ function hot_core_menu_alter(&$items) {
 }
 
 function hot_core_front_page() {
-  return "";
+  return '';
 }
 
