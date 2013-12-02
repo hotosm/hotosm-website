@@ -214,21 +214,7 @@ fieldset.collapsible .fieldset-title {
   padding: 4px 9px;
   margin: 40px 0px 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003175}}
-#comments .comment-form .filter-guidelines,
-#comments .comment-form .filter-help {
-  font-size: 11px;
-  padding: 0;
-  line-height: 13px;
-  color: #666;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003181}}
-#comments .comment-form .filter-wrapper {
-  border: 1px solid #ccc;
-  border-top: none;
-  margin-bottom: 20px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003190}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003173}}
 #comments .comment .submitted {
   font-weight: normal;
   font-size: 10px;
@@ -238,13 +224,33 @@ fieldset.collapsible .fieldset-title {
   padding: 4px 9px;
   margin: 0px 0px 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003199}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003182}}
 #comments .comment ul.links {
   float: right;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003202}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003185}}
 #comments .comment .new {
   float: left;
+  margin-right: 6px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003195}}
+.comment-form .filter-guidelines,
+.comment-form .filter-help {
+  font-size: 11px;
+  padding: 0;
+  line-height: 13px;
+  color: #666;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003201}}
+.comment-form .filter-wrapper {
+  border: 1px solid #ccc;
+  border-top: none;
+  margin-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003206}}
+.comment-form .form-item-subject {
+  display: none;
 }
 
 /*******************************************************************************

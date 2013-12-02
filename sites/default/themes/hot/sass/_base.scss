@@ -169,23 +169,6 @@ fieldset.collapsible .fieldset-title {
     margin: 40px 0px 10px;
   }
 
-  .comment-form {
-
-    .filter-guidelines,
-    .filter-help {
-      font-size: 11px;
-      padding: 0;
-      line-height: 13px;
-      color: #666;
-    }
-    .filter-wrapper {
-      border:1px solid #ccc;
-      border-top: none;
-      margin-bottom: 20px;
-    }
-
-  }
-
   .comment {
     .submitted {
       font-weight: normal;
@@ -201,6 +184,26 @@ fieldset.collapsible .fieldset-title {
     }
     .new {
       float:left;
+      margin-right: 6px;
     }
+  }
+}
+
+
+.comment-form {
+  .filter-guidelines,
+  .filter-help {
+    font-size: 11px;
+    padding: 0;
+    line-height: 13px;
+    color: #666;
+  }
+  .filter-wrapper {
+    border:1px solid #ccc;
+    border-top: none;
+    margin-bottom: 20px;
+  }
+  .form-item-subject {
+    display: none;
   }
 }
