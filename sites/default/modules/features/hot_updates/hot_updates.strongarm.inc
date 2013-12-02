@@ -112,6 +112,9 @@ function hot_updates_strongarm() {
         'title' => array(
           'weight' => '0',
         ),
+        'path' => array(
+          'weight' => '6',
+        ),
       ),
       'display' => array(),
     ),

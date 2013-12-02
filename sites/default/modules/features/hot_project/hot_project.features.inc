@@ -138,7 +138,7 @@ function hot_project_node_info() {
     'project' => array(
       'name' => t('Project'),
       'base' => 'node_content',
-      'description' => '',
+      'description' => t('A <em>project</em> is a description of an official HOT project, which has a description, contact person(s) and can have updates attached to it.'),
       'has_title' => '1',
       'title_label' => t('Title'),
       'help' => '',
