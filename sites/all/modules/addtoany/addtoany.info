@@ -1,0 +1,15 @@
+name = AddToAny
+description = Share buttons by AddToAny, including the AddToAny universal sharing button, Facebook, Twitter, Google+, Pinterest, and over 100 more on the <a href='http://www.addtoany.com/' target='_blank'>AddToAny</a> platform.
+core = 7.x
+
+files[] = addtoany.module
+files[] = addtoany.admin.inc
+files[] = views/addtoany_handler_field_addtoany_link.inc
+files[] = views/addtoany.views.inc
+configure = admin/config/system/addtoany
+; Information added by drupal.org packaging script on 2013-09-25
+version = "7.x-4.4"
+core = "7.x"
+project = "addtoany"
+datestamp = "1380088136"
+

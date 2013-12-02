@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HOT Sharing feature.
+ */
+
+include_once 'hot_sharing.features.inc';

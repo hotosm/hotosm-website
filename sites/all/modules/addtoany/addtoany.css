@@ -1,0 +1,45 @@
+.addtoany {
+	display: inline;
+}
+.addtoany_list { 
+	display: inline;
+	line-height: 16px;
+}
+.addtoany_list > a, 
+.addtoany_list a img, 
+.addtoany_list a > span {
+	vertical-align: middle;
+}
+.addtoany_list > a {
+	display: inline-block;
+	font-size: 16px;
+	padding: 0 4px;
+}
+.addtoany_list.a2a_kit_size_32 > a {
+	font-size: 32px;
+}
+.addtoany_list a span.a2a_img { 
+	display: inline-block;
+	height: 16px;
+	opacity: 1;
+	overflow: hidden;
+	width: 16px;
+}
+.addtoany_list.a2a_kit_size_32 a span {
+	border-radius: 4px;
+	display: inline-block;
+	height: 32px;
+	line-height: 32px;
+	opacity: 1;
+	overflow: hidden;
+	width: 32px;
+}
+.addtoany_list a:hover:hover img,
+.addtoany_list a:hover span { 
+	opacity: .7;
+}
+.addtoany_list a.addtoany_share_save img { 
+	border: 0;
+	width: auto;
+	height: auto;
+}
