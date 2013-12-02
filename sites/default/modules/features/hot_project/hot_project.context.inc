@@ -47,6 +47,12 @@ function hot_project_context_default_contexts() {
           'region' => 'sidebar',
           'weight' => '-9',
         ),
+        'views-videos-videos_block_projects' => array(
+          'module' => 'views',
+          'delta' => 'videos-videos_block_projects',
+          'region' => 'sidebar',
+          'weight' => '-8',
+        ),
       ),
     ),
   );

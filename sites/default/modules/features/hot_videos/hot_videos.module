@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HOT Videos feature.
+ */
+
+include_once 'hot_videos.features.inc';
