@@ -10,6 +10,39 @@
 function hot_updates_field_default_field_instances() {
   $field_instances = array();
 
+  // Exported field_instance: 'comment-comment_node_update-comment_body'
+  $field_instances['comment-comment_node_update-comment_body'] = array(
+    'bundle' => 'comment_node_update',
+    'default_value' => NULL,
+    'deleted' => 0,
+    'description' => '',
+    'display' => array(
+      'default' => array(
+        'label' => 'hidden',
+        'module' => 'text',
+        'settings' => array(),
+        'type' => 'text_default',
+        'weight' => 0,
+      ),
+    ),
+    'entity_type' => 'comment',
+    'field_name' => 'comment_body',
+    'label' => 'Comment',
+    'required' => TRUE,
+    'settings' => array(
+      'text_processing' => 1,
+      'user_register_form' => FALSE,
+    ),
+    'widget' => array(
+      'module' => 'text',
+      'settings' => array(
+        'rows' => 5,
+      ),
+      'type' => 'text_textarea',
+      'weight' => 0,
+    ),
+  );
+
   // Exported field_instance: 'node-update-body'
   $field_instances['node-update-body'] = array(
     'bundle' => 'update',
@@ -58,7 +91,7 @@ function hot_updates_field_default_field_instances() {
   $field_instances['node-update-field_image'] = array(
     'bundle' => 'update',
     'deleted' => 0,
-    'description' => 'This is the main image for this article, which will be shown on the beginning and might appear on listings. For further images and inline placement please use the attachments.',
+    'description' => '',
     'display' => array(
       'default' => array(
         'label' => 'hidden',
@@ -78,25 +111,113 @@ function hot_updates_field_default_field_instances() {
     'label' => 'Main image',
     'required' => 0,
     'settings' => array(
-      'alt_field' => 0,
+      'alt_field' => 1,
       'default_image' => 0,
       'file_directory' => '',
       'file_extensions' => 'png gif jpg jpeg',
       'max_filesize' => '',
       'max_resolution' => '',
       'min_resolution' => '',
-      'title_field' => 0,
+      'title_field' => 1,
       'user_register_form' => FALSE,
     ),
     'widget' => array(
       'active' => 1,
       'module' => 'image',
       'settings' => array(
+        'insert' => 0,
+        'insert_absolute' => 0,
+        'insert_class' => '',
+        'insert_default' => 'image_medium',
+        'insert_styles' => array(
+          'auto' => 'auto',
+          'icon_link' => 0,
+          'image' => 'image',
+          'image_featured_project' => 0,
+          'image_large' => 'image_large',
+          'image_medium' => 'image_medium',
+          'image_mini_project_image' => 0,
+          'image_project_landing' => 0,
+          'image_project_page' => 0,
+          'image_thumbnail' => 'image_thumbnail',
+          'image_update_content' => 0,
+          'link' => 0,
+        ),
+        'insert_width' => '',
         'preview_image_style' => 'thumbnail',
         'progress_indicator' => 'throbber',
       ),
       'type' => 'image_image',
-      'weight' => 2,
+      'weight' => 3,
+    ),
+  );
+
+  // Exported field_instance: 'node-update-field_images'
+  $field_instances['node-update-field_images'] = array(
+    'bundle' => 'update',
+    'deleted' => 0,
+    'description' => 'Upload images here and then use the <em>Insert</em> button to place them in the text.',
+    'display' => array(
+      'default' => array(
+        'label' => 'above',
+        'module' => 'image',
+        'settings' => array(
+          'image_link' => '',
+          'image_style' => '',
+        ),
+        'type' => 'image',
+        'weight' => 13,
+      ),
+      'teaser' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+    ),
+    'entity_type' => 'node',
+    'field_name' => 'field_images',
+    'label' => 'Images',
+    'required' => 0,
+    'settings' => array(
+      'alt_field' => 1,
+      'default_image' => 0,
+      'file_directory' => '',
+      'file_extensions' => 'png gif jpg jpeg',
+      'max_filesize' => '',
+      'max_resolution' => '',
+      'min_resolution' => '',
+      'title_field' => 1,
+      'user_register_form' => FALSE,
+    ),
+    'widget' => array(
+      'active' => 1,
+      'module' => 'image',
+      'settings' => array(
+        'insert' => 1,
+        'insert_absolute' => 0,
+        'insert_class' => '',
+        'insert_default' => 'image_medium',
+        'insert_styles' => array(
+          'auto' => 'auto',
+          'icon_link' => 0,
+          'image' => 'image',
+          'image_featured_project' => 0,
+          'image_large' => 'image_large',
+          'image_medium' => 'image_medium',
+          'image_mini_project_image' => 0,
+          'image_project_landing' => 0,
+          'image_project_page' => 0,
+          'image_thumbnail' => 'image_thumbnail',
+          'image_update_content' => 0,
+          'link' => 0,
+        ),
+        'insert_width' => '',
+        'preview_image_style' => 'thumbnail',
+        'progress_indicator' => 'throbber',
+      ),
+      'type' => 'image_image',
+      'weight' => 5,
     ),
   );
 
@@ -200,7 +321,7 @@ function hot_updates_field_default_field_instances() {
         'size' => 60,
       ),
       'type' => 'taxonomy_autocomplete',
-      'weight' => 3,
+      'weight' => 2,
     ),
   );
 
@@ -208,7 +329,8 @@ function hot_updates_field_default_field_instances() {
   $field_instances['node-update-upload'] = array(
     'bundle' => 'update',
     'deleted' => 0,
-    'description' => '',
+    'description' => 'Use this to attach <strong>documents</strong> - any images can be uploaded with the <em>Images field</em> above.
+Use the <em>Insert</em> button to place a link to the file in the text.',
     'display' => array(
       'default' => array(
         'label' => 'hidden',
@@ -240,32 +362,42 @@ function hot_updates_field_default_field_instances() {
     ),
     'entity_type' => 'node',
     'field_name' => 'upload',
-    'label' => 'File attachments',
+    'label' => 'Documents',
     'required' => 0,
     'settings' => array(
       'description_field' => 1,
-      'file_directory' => '',
+      'file_directory' => 'documents',
       'file_extensions' => 'jpg jpeg gif png txt doc xls pdf ppt pps odt ods odp',
       'max_filesize' => '100 MB',
       'user_register_form' => FALSE,
     ),
     'widget' => array(
+      'active' => 1,
       'module' => 'file',
       'settings' => array(
-        'insert' => 0,
-        'insert_absolute' => FALSE,
+        'insert' => 1,
+        'insert_absolute' => 0,
         'insert_class' => '',
-        'insert_default' => array(
-          0 => 'auto',
-        ),
+        'insert_default' => 'icon_link',
         'insert_styles' => array(
-          0 => 'auto',
+          'auto' => 0,
+          'icon_link' => 'icon_link',
+          'image' => 0,
+          'image_featured_project' => 0,
+          'image_large' => 0,
+          'image_medium' => 0,
+          'image_mini_project_image' => 0,
+          'image_project_landing' => 0,
+          'image_project_page' => 0,
+          'image_thumbnail' => 0,
+          'image_update_content' => 0,
+          'link' => 0,
         ),
         'insert_width' => '',
         'progress_indicator' => 'throbber',
       ),
       'type' => 'file_generic',
-      'weight' => 5,
+      'weight' => 6,
     ),
   );
 
@@ -273,11 +405,15 @@ function hot_updates_field_default_field_instances() {
   // Included for use with string extractors like potx.
   t('An update that appears on the home page and project pages');
   t('Body');
-  t('File attachments');
+  t('Comment');
+  t('Documents');
+  t('Images');
   t('Main image');
   t('Related Project');
-  t('This is the main image for this article, which will be shown on the beginning and might appear on listings. For further images and inline placement please use the attachments.');
   t('Update Tags');
+  t('Upload images here and then use the <em>Insert</em> button to place them in the text.');
+  t('Use this to attach <strong>documents</strong> - any images can be uploaded with the <em>Images field</em> above.
+Use the <em>Insert</em> button to place a link to the file in the text.');
 
   return $field_instances;
 }
