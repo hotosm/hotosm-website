@@ -10,6 +10,39 @@
 function hot_project_field_default_field_instances() {
   $field_instances = array();
 
+  // Exported field_instance: 'comment-comment_node_project-comment_body'
+  $field_instances['comment-comment_node_project-comment_body'] = array(
+    'bundle' => 'comment_node_project',
+    'default_value' => NULL,
+    'deleted' => 0,
+    'description' => '',
+    'display' => array(
+      'default' => array(
+        'label' => 'hidden',
+        'module' => 'text',
+        'settings' => array(),
+        'type' => 'text_default',
+        'weight' => 0,
+      ),
+    ),
+    'entity_type' => 'comment',
+    'field_name' => 'comment_body',
+    'label' => 'Comment',
+    'required' => TRUE,
+    'settings' => array(
+      'text_processing' => 1,
+      'user_register_form' => FALSE,
+    ),
+    'widget' => array(
+      'module' => 'text',
+      'settings' => array(
+        'rows' => 5,
+      ),
+      'type' => 'text_textarea',
+      'weight' => 0,
+    ),
+  );
+
   // Exported field_instance: 'node-project-body'
   $field_instances['node-project-body'] = array(
     'bundle' => 'project',
@@ -289,7 +322,7 @@ function hot_project_field_default_field_instances() {
     'bundle' => 'project',
     'default_value' => '',
     'deleted' => 0,
-    'description' => '',
+    'description' => 'The main project image that is shown in features and lists.',
     'display' => array(
       'default' => array(
         'label' => 'hidden',
@@ -356,16 +389,16 @@ function hot_project_field_default_field_instances() {
     ),
     'entity_type' => 'node',
     'field_name' => 'field_image',
-    'label' => 'Image',
-    'required' => FALSE,
+    'label' => 'Project Image',
+    'required' => 0,
     'settings' => array(
       'alt_field' => 0,
       'default_image' => 0,
       'file_directory' => '',
       'file_extensions' => 'png gif jpg jpeg',
       'max_filesize' => '',
-      'max_resolution' => 0,
-      'min_resolution' => 0,
+      'max_resolution' => '',
+      'min_resolution' => '',
       'title_field' => 0,
       'user_register_form' => FALSE,
     ),
@@ -375,18 +408,26 @@ function hot_project_field_default_field_instances() {
       'module' => 'image',
       'settings' => array(
         'insert' => 0,
-        'insert_absolute' => FALSE,
+        'insert_absolute' => 0,
         'insert_class' => '',
-        'insert_default' => array(
-          0 => 'auto',
-        ),
+        'insert_default' => 'auto',
         'insert_styles' => array(
-          0 => 'auto',
+          'auto' => 'auto',
+          'icon_link' => 0,
+          'image' => 0,
+          'image_featured_project' => 0,
+          'image_large' => 0,
+          'image_medium' => 0,
+          'image_mini_project_image' => 0,
+          'image_project_landing' => 0,
+          'image_project_page' => 0,
+          'image_thumbnail' => 0,
+          'image_update_content' => 0,
+          'link' => 0,
         ),
         'insert_width' => '',
         'preview_image_style' => 'thumbnail',
         'progress_indicator' => 'bar',
-        'use_default_image' => 0,
       ),
       'type' => 'image_image',
       'weight' => 0,
@@ -556,7 +597,7 @@ function hot_project_field_default_field_instances() {
     ),
     'entity_type' => 'node',
     'field_name' => 'upload',
-    'label' => 'File attachments',
+    'label' => 'Documents',
     'required' => 0,
     'settings' => array(
       'description_field' => 1,
@@ -566,16 +607,26 @@ function hot_project_field_default_field_instances() {
       'user_register_form' => FALSE,
     ),
     'widget' => array(
+      'active' => 1,
       'module' => 'file',
       'settings' => array(
-        'insert' => 0,
-        'insert_absolute' => FALSE,
+        'insert' => 1,
+        'insert_absolute' => 0,
         'insert_class' => '',
-        'insert_default' => array(
-          0 => 'auto',
-        ),
+        'insert_default' => 'icon_link',
         'insert_styles' => array(
-          0 => 'auto',
+          'auto' => 'auto',
+          'icon_link' => 'icon_link',
+          'image' => 0,
+          'image_featured_project' => 0,
+          'image_large' => 0,
+          'image_medium' => 0,
+          'image_mini_project_image' => 0,
+          'image_project_landing' => 0,
+          'image_project_page' => 0,
+          'image_thumbnail' => 0,
+          'image_update_content' => 0,
+          'link' => 0,
         ),
         'insert_width' => '',
         'progress_indicator' => 'throbber',
@@ -589,10 +640,12 @@ function hot_project_field_default_field_instances() {
   // Included for use with string extractors like potx.
   t('Body');
   t('BoundingBox');
+  t('Comment');
   t('Contact');
-  t('File attachments');
-  t('Image');
+  t('Documents');
+  t('Project Image');
   t('Project Page');
+  t('The main project image that is shown in features and lists.');
 
   return $field_instances;
 }
