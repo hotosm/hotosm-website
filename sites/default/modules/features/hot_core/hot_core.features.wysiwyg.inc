@@ -17,7 +17,7 @@ function hot_core_wysiwyg_default_profiles() {
     'settings' => array(
       'default' => 1,
       'user_choose' => 0,
-      'show_toggle' => 1,
+      'show_toggle' => 0,
       'theme' => '',
       'language' => 'en',
       'buttons' => array(
@@ -32,7 +32,7 @@ function hot_core_wysiwyg_default_profiles() {
           'unlink' => 1,
           'anchor' => 1,
           'image' => 1,
-          'styleselect' => 1,
+          'formatselect' => 1,
           'blockquote' => 1,
           'code' => 1,
           'removeformat' => 1,
@@ -54,7 +54,7 @@ function hot_core_wysiwyg_default_profiles() {
       'css_path' => '',
       'theme_advanced_styles' => '',
       'theme_advanced_blockformats' => 'p,h2,h3,h4,div,blockquote,code',
-      'advanced__active_tab' => 'edit-paste',
+      'advanced__active_tab' => 'edit-css',
       'paste_auto_cleanup_on_paste' => 1,
     ),
     'rdf_mapping' => array(),
