@@ -414,7 +414,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['field_contact']['table'] = 'field_data_field_contact';
   $handler->display->display_options['fields']['field_contact']['field'] = 'field_contact';
   $handler->display->display_options['fields']['field_contact']['alter']['strip_tags'] = TRUE;
-  $handler->display->display_options['fields']['field_contact']['alter']['preserve_tags'] = '<a>';
+  $handler->display->display_options['fields']['field_contact']['alter']['preserve_tags'] = '<a><p><br>';
   $handler->display->display_options['fields']['field_contact']['hide_empty'] = TRUE;
   /* Field: Content: Project Page */
   $handler->display->display_options['fields']['field_link']['id'] = 'field_link';
