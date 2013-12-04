@@ -55,7 +55,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'text',
         'settings' => array(),
         'type' => 'text_default',
-        'weight' => 2,
+        'weight' => 0,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -328,7 +328,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 1,
+        'weight' => 2,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -448,11 +448,10 @@ function hot_project_field_default_field_instances() {
     'description' => '',
     'display' => array(
       'default' => array(
-        'label' => 'above',
-        'module' => 'link',
+        'label' => 'hidden',
         'settings' => array(),
-        'type' => 'link_default',
-        'weight' => 0,
+        'type' => 'hidden',
+        'weight' => 1,
       ),
       'feature' => array(
         'label' => 'above',
