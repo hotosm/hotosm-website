@@ -10,9 +10,9 @@
 function hot_core_field_default_field_instances() {
   $field_instances = array();
 
-  // Exported field_instance: 'comment-comment_node_video-comment_body'
-  $field_instances['comment-comment_node_video-comment_body'] = array(
-    'bundle' => 'comment_node_video',
+  // Exported field_instance: 'comment-comment_node_book-comment_body'
+  $field_instances['comment-comment_node_book-comment_body'] = array(
+    'bundle' => 'comment_node_book',
     'default_value' => NULL,
     'deleted' => 0,
     'description' => '',
