@@ -7,6 +7,7 @@ dependencies[] = context
 dependencies[] = ds
 dependencies[] = features
 dependencies[] = hot_core
+dependencies[] = hot_project
 dependencies[] = image
 dependencies[] = menu
 dependencies[] = node
