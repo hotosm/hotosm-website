@@ -66,7 +66,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['draggableviews']['element_default_classes'] = FALSE;
   $handler->display->display_options['fields']['draggableviews']['hide_alter_empty'] = FALSE;
   $handler->display->display_options['fields']['draggableviews']['draggableviews']['ajax'] = 1;
-  /* Field: Content: Main image */
+  /* Field: Content: Project Image */
   $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
   $handler->display->display_options['fields']['field_image']['table'] = 'field_data_field_image';
   $handler->display->display_options['fields']['field_image']['field'] = 'field_image';
@@ -162,7 +162,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['draggableviews']['element_default_classes'] = FALSE;
   $handler->display->display_options['fields']['draggableviews']['hide_alter_empty'] = FALSE;
   $handler->display->display_options['fields']['draggableviews']['draggableviews']['ajax'] = 0;
-  /* Field: Content: Main image */
+  /* Field: Content: Project Image */
   $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
   $handler->display->display_options['fields']['field_image']['table'] = 'field_data_field_image';
   $handler->display->display_options['fields']['field_image']['field'] = 'field_image';
@@ -207,7 +207,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['draggableviews']['element_default_classes'] = FALSE;
   $handler->display->display_options['fields']['draggableviews']['hide_alter_empty'] = FALSE;
   $handler->display->display_options['fields']['draggableviews']['draggableviews']['ajax'] = 0;
-  /* Field: Content: Main image */
+  /* Field: Content: Project Image */
   $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
   $handler->display->display_options['fields']['field_image']['table'] = 'field_data_field_image';
   $handler->display->display_options['fields']['field_image']['field'] = 'field_image';
@@ -245,7 +245,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['row_plugin'] = 'fields';
   $handler->display->display_options['defaults']['row_options'] = FALSE;
   $handler->display->display_options['defaults']['fields'] = FALSE;
-  /* Field: Content: Main image */
+  /* Field: Content: Project Image */
   $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
   $handler->display->display_options['fields']['field_image']['table'] = 'field_data_field_image';
   $handler->display->display_options['fields']['field_image']['field'] = 'field_image';
@@ -320,6 +320,29 @@ function hot_project_views_default_views() {
   $handler->display->display_options['filters']['promote']['table'] = 'node';
   $handler->display->display_options['filters']['promote']['field'] = 'promote';
   $handler->display->display_options['filters']['promote']['value'] = '1';
+  $translatables['project'] = array(
+    t('Master'),
+    t('more'),
+    t('Apply'),
+    t('Reset'),
+    t('Sort by'),
+    t('Asc'),
+    t('Desc'),
+    t('Featured Project'),
+    t('Read more'),
+    t('<div class="featured">
+<h3 class=\'featured-label\'>Featured Project</h3>
+<div class=\'featured-title\'>[title]</div>
+<div class=\'featured-body\'>[body]</div>
+<div class=\'featured-link\'>[view_node] </div>
+</div>'),
+    t('Projects Overview Block'),
+    t('Our Projects'),
+    t('View all projects'),
+    t('Projects Overview Page'),
+    t('Projects'),
+    t('Featured Project Block'),
+  );
   $export['project'] = $view;
 
   $view = new view();
@@ -423,7 +446,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['field_link']['empty'] = 'This project has no additional page.';
   $handler->display->display_options['fields']['field_link']['click_sort_column'] = 'url';
   $handler->display->display_options['fields']['field_link']['type'] = 'link_url';
-  /* Field: Content: Main image */
+  /* Field: Content: Project Image */
   $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
   $handler->display->display_options['fields']['field_image']['table'] = 'field_data_field_image';
   $handler->display->display_options['fields']['field_image']['field'] = 'field_image';
@@ -433,6 +456,23 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['field_image']['settings'] = array(
     'image_style' => 'project_page',
     'image_link' => '',
+  );
+  $translatables['project_ol_map'] = array(
+    t('Master'),
+    t('more'),
+    t('Apply'),
+    t('Reset'),
+    t('Sort by'),
+    t('Asc'),
+    t('Desc'),
+    t('All'),
+    t('Project BBOX'),
+    t('Openlayers Data Overlay'),
+    t('Project Node Map'),
+    t('Project Data block'),
+    t('Contact'),
+    t('Project Page'),
+    t('This project has no additional page.'),
   );
   $export['project_ol_map'] = $view;
 
