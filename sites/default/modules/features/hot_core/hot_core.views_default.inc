@@ -71,6 +71,19 @@ function hot_core_views_default_views() {
 
   /* Display: User control block */
   $handler = $view->new_display('block', 'User control block', 'user_control_block');
+  $translatables['User'] = array(
+    t('Defaults'),
+    t('Weiter'),
+    t('Übernehmen'),
+    t('Zurücksetzen'),
+    t('Sortieren nach'),
+    t('Asc'),
+    t('Desc'),
+    t('<span class="welcome-text">Logged in as </span><span class="username">[name]</span> |'),
+    t('Log out'),
+    t('User control block'),
+    t('more'),
+  );
   $export['User'] = $view;
 
   return $export;

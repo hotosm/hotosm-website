@@ -94,11 +94,31 @@ function hot_core_user_default_permissions() {
     'module' => 'user',
   );
 
+  // Exported permission: 'add content to books'.
+  $permissions['add content to books'] = array(
+    'name' => 'add content to books',
+    'roles' => array(
+      'authenticated user' => 'authenticated user',
+      'site admin' => 'site admin',
+    ),
+    'module' => 'book',
+  );
+
   // Exported permission: 'administer actions'.
   $permissions['administer actions'] = array(
     'name' => 'administer actions',
     'roles' => array(),
     'module' => 'system',
+  );
+
+  // Exported permission: 'administer book outlines'.
+  $permissions['administer book outlines'] = array(
+    'name' => 'administer book outlines',
+    'roles' => array(
+      'authenticated user' => 'authenticated user',
+      'site admin' => 'site admin',
+    ),
+    'module' => 'book',
   );
 
   // Exported permission: 'administer comments'.
@@ -108,6 +128,15 @@ function hot_core_user_default_permissions() {
       'site admin' => 'site admin',
     ),
     'module' => 'comment',
+  );
+
+  // Exported permission: 'administer content translations'.
+  $permissions['administer content translations'] = array(
+    'name' => 'administer content translations',
+    'roles' => array(
+      'authenticated user' => 'authenticated user',
+    ),
+    'module' => 'i18n_node',
   );
 
   // Exported permission: 'administer content types'.
@@ -122,7 +151,9 @@ function hot_core_user_default_permissions() {
   // Exported permission: 'administer features'.
   $permissions['administer features'] = array(
     'name' => 'administer features',
-    'roles' => array(),
+    'roles' => array(
+      'site admin' => 'site admin',
+    ),
     'module' => 'features',
   );
 
@@ -131,6 +162,13 @@ function hot_core_user_default_permissions() {
     'name' => 'administer filters',
     'roles' => array(),
     'module' => 'filter',
+  );
+
+  // Exported permission: 'administer languages'.
+  $permissions['administer languages'] = array(
+    'name' => 'administer languages',
+    'roles' => array(),
+    'module' => 'locale',
   );
 
   // Exported permission: 'administer modules'.
@@ -271,6 +309,16 @@ function hot_core_user_default_permissions() {
     'module' => 'node',
   );
 
+  // Exported permission: 'create new books'.
+  $permissions['create new books'] = array(
+    'name' => 'create new books',
+    'roles' => array(
+      'authenticated user' => 'authenticated user',
+      'site admin' => 'site admin',
+    ),
+    'module' => 'book',
+  );
+
   // Exported permission: 'create url aliases'.
   $permissions['create url aliases'] = array(
     'name' => 'create url aliases',
@@ -338,7 +386,9 @@ function hot_core_user_default_permissions() {
   // Exported permission: 'manage features'.
   $permissions['manage features'] = array(
     'name' => 'manage features',
-    'roles' => array(),
+    'roles' => array(
+      'site admin' => 'site admin',
+    ),
     'module' => 'features',
   );
 
@@ -385,6 +435,36 @@ function hot_core_user_default_permissions() {
       'site admin' => 'site admin',
     ),
     'module' => 'comment',
+  );
+
+  // Exported permission: 'translate admin strings'.
+  $permissions['translate admin strings'] = array(
+    'name' => 'translate admin strings',
+    'roles' => array(),
+    'module' => 'i18n_string',
+  );
+
+  // Exported permission: 'translate content'.
+  $permissions['translate content'] = array(
+    'name' => 'translate content',
+    'roles' => array(
+      'authenticated user' => 'authenticated user',
+    ),
+    'module' => 'translation',
+  );
+
+  // Exported permission: 'translate interface'.
+  $permissions['translate interface'] = array(
+    'name' => 'translate interface',
+    'roles' => array(),
+    'module' => 'locale',
+  );
+
+  // Exported permission: 'translate user-defined strings'.
+  $permissions['translate user-defined strings'] = array(
+    'name' => 'translate user-defined strings',
+    'roles' => array(),
+    'module' => 'i18n_string',
   );
 
   // Exported permission: 'use text format 1'.
