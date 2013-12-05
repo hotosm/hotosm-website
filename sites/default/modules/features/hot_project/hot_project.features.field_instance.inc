@@ -108,7 +108,7 @@ function hot_project_field_default_field_instances() {
         'summary_rows' => 5,
       ),
       'type' => 'text_textarea_with_summary',
-      'weight' => -1,
+      'weight' => 4,
     ),
   );
 
@@ -127,7 +127,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 5,
+        'weight' => 6,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -217,7 +217,7 @@ function hot_project_field_default_field_instances() {
         'openlayers_cck_preset_map' => 'default',
       ),
       'type' => 'geofield_openlayers',
-      'weight' => 1,
+      'weight' => 7,
     ),
     'widget_type' => 'geofield_wkt',
   );
@@ -238,7 +238,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 4,
+        'weight' => 5,
       ),
       'feature' => array(
         'label' => 'above',
@@ -312,7 +312,7 @@ function hot_project_field_default_field_instances() {
         'size' => 60,
       ),
       'type' => 'text_textarea',
-      'weight' => -3,
+      'weight' => 2,
     ),
     'widget_type' => 'text_textarea',
   );
@@ -328,7 +328,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 2,
+        'weight' => 3,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -430,7 +430,7 @@ function hot_project_field_default_field_instances() {
         'progress_indicator' => 'bar',
       ),
       'type' => 'image_image',
-      'weight' => 0,
+      'weight' => 5,
     ),
     'widget_type' => 'imagefield_widget',
   );
@@ -451,7 +451,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 1,
+        'weight' => 2,
       ),
       'feature' => array(
         'label' => 'above',
@@ -537,7 +537,7 @@ function hot_project_field_default_field_instances() {
         'default_value_php' => NULL,
       ),
       'type' => 'link_field',
-      'weight' => -2,
+      'weight' => 3,
     ),
     'widget_type' => 'link',
   );
@@ -552,7 +552,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 3,
+        'weight' => 4,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -631,7 +631,7 @@ function hot_project_field_default_field_instances() {
         'progress_indicator' => 'throbber',
       ),
       'type' => 'file_generic',
-      'weight' => 1,
+      'weight' => 6,
     ),
   );
 
