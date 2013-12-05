@@ -223,6 +223,34 @@ function hot_updates_views_default_views() {
     'updates_all_page' => 0,
     'updates_all_block' => 0,
   );
+  $translatables['updates'] = array(
+    t('Master'),
+    t('Recent Updates'),
+    t('More updates'),
+    t('Apply'),
+    t('Reset'),
+    t('Sort by'),
+    t('Asc'),
+    t('Desc'),
+    t('Items per page'),
+    t('- All -'),
+    t('Offset'),
+    t('« first'),
+    t('‹ previous'),
+    t('next ›'),
+    t('last »'),
+    t('author'),
+    t('Posted by [name] on [created]'),
+    t('Read more...'),
+    t('All updates page'),
+    t('more'),
+    t('<a href="/feed/rss2" class="feed-icon" title="Subscribe to Recent Updates"><img src="http://dev-d7-hot.gotpantheon.com/misc/feed.png" width="16" height="16" alt="Subscribe to Recent Updates" /></a>'),
+    t('All updates feed'),
+    t('All updates block'),
+    t('Project updates block'),
+    t('All'),
+    t('Project updates feed'),
+  );
   $export['updates'] = $view;
 
   return $export;
