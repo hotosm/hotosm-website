@@ -10,6 +10,39 @@
 function hot_videos_field_default_field_instances() {
   $field_instances = array();
 
+  // Exported field_instance: 'comment-comment_node_video-comment_body'
+  $field_instances['comment-comment_node_video-comment_body'] = array(
+    'bundle' => 'comment_node_video',
+    'default_value' => NULL,
+    'deleted' => 0,
+    'description' => '',
+    'display' => array(
+      'default' => array(
+        'label' => 'hidden',
+        'module' => 'text',
+        'settings' => array(),
+        'type' => 'text_default',
+        'weight' => 0,
+      ),
+    ),
+    'entity_type' => 'comment',
+    'field_name' => 'comment_body',
+    'label' => 'Comment',
+    'required' => TRUE,
+    'settings' => array(
+      'text_processing' => 1,
+      'user_register_form' => FALSE,
+    ),
+    'widget' => array(
+      'module' => 'text',
+      'settings' => array(
+        'rows' => 5,
+      ),
+      'type' => 'text_textarea',
+      'weight' => 0,
+    ),
+  );
+
   // Exported field_instance: 'node-video-body'
   $field_instances['node-video-body'] = array(
     'bundle' => 'video',
@@ -137,6 +170,7 @@ function hot_videos_field_default_field_instances() {
 
   // Translatables
   // Included for use with string extractors like potx.
+  t('Comment');
   t('Description');
   t('Link to Video in Youtube or Vimeo.');
   t('Related Project');
