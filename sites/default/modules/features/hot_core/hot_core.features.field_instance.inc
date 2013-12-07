@@ -136,6 +136,7 @@ function hot_core_field_default_field_instances() {
           'image' => 'image',
           'image_featured_project' => 0,
           'image_large' => 'image_large',
+          'image_maximum' => 'image_maximum',
           'image_medium' => 'image_medium',
           'image_mini_project_image' => 0,
           'image_project_landing' => 0,

@@ -49,6 +49,7 @@ features[field_instance][] = node-book-body
 features[field_instance][] = node-book-field_images
 features[field_instance][] = node-book-upload
 features[filter][] = text_editor
+features[image][] = maximum
 features[language][] = en
 features[language][] = fr
 features[menu_custom][] = main-menu
