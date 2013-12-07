@@ -84,7 +84,7 @@ function hot_core_field_default_field_instances() {
         'summary_rows' => 5,
       ),
       'type' => 'text_textarea_with_summary',
-      'weight' => 1,
+      'weight' => 2,
     ),
   );
 
@@ -128,7 +128,7 @@ function hot_core_field_default_field_instances() {
     ),
     'widget' => array(
       'active' => 1,
-      'module' => 'image',
+      'module' => 'multiupload_imagefield_widget',
       'settings' => array(
         'insert' => 1,
         'insert_absolute' => 0,
@@ -152,8 +152,8 @@ function hot_core_field_default_field_instances() {
         'preview_image_style' => 'thumbnail',
         'progress_indicator' => 'throbber',
       ),
-      'type' => 'image_image',
-      'weight' => 2,
+      'type' => 'image_miw',
+      'weight' => 3,
     ),
   );
 
@@ -205,7 +205,7 @@ function hot_core_field_default_field_instances() {
     ),
     'widget' => array(
       'active' => 1,
-      'module' => 'file',
+      'module' => 'multiupload_filefield_widget',
       'settings' => array(
         'insert' => 0,
         'insert_absolute' => 0,
@@ -228,8 +228,8 @@ function hot_core_field_default_field_instances() {
         'insert_width' => '',
         'progress_indicator' => 'throbber',
       ),
-      'type' => 'file_generic',
-      'weight' => 3,
+      'type' => 'file_mfw',
+      'weight' => 4,
     ),
   );
 
