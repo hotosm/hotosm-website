@@ -471,7 +471,6 @@ function hot_core_user_default_permissions() {
   $permissions['use text format 1'] = array(
     'name' => 'use text format 1',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
       'site admin' => 'site admin',
     ),
     'module' => 'filter',
@@ -481,7 +480,6 @@ function hot_core_user_default_permissions() {
   $permissions['use text format 2'] = array(
     'name' => 'use text format 2',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
       'site admin' => 'site admin',
     ),
     'module' => 'filter',
@@ -490,9 +488,7 @@ function hot_core_user_default_permissions() {
   // Exported permission: 'use text format 3'.
   $permissions['use text format 3'] = array(
     'name' => 'use text format 3',
-    'roles' => array(
-      'site admin' => 'site admin',
-    ),
+    'roles' => array(),
     'module' => 'filter',
   );
 
