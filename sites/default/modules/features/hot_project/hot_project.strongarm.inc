@@ -126,7 +126,19 @@ function hot_project_strongarm() {
         'language' => array(
           'default' => array(
             'weight' => '1',
-            'visible' => TRUE,
+            'visible' => FALSE,
+          ),
+          'teaser' => array(
+            'weight' => '4',
+            'visible' => FALSE,
+          ),
+          'feature' => array(
+            'weight' => '2',
+            'visible' => FALSE,
+          ),
+          'list' => array(
+            'weight' => '1',
+            'visible' => FALSE,
           ),
         ),
       ),
