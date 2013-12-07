@@ -87,71 +87,6 @@ function hot_updates_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-update-field_image'
-  $field_instances['node-update-field_image'] = array(
-    'bundle' => 'update',
-    'deleted' => 0,
-    'description' => '',
-    'display' => array(
-      'default' => array(
-        'label' => 'hidden',
-        'settings' => array(),
-        'type' => 'hidden',
-        'weight' => 4,
-      ),
-      'teaser' => array(
-        'label' => 'above',
-        'settings' => array(),
-        'type' => 'hidden',
-        'weight' => 0,
-      ),
-    ),
-    'entity_type' => 'node',
-    'field_name' => 'field_image',
-    'label' => 'Main image',
-    'required' => 0,
-    'settings' => array(
-      'alt_field' => 1,
-      'default_image' => 0,
-      'file_directory' => '',
-      'file_extensions' => 'png gif jpg jpeg',
-      'max_filesize' => '',
-      'max_resolution' => '',
-      'min_resolution' => '',
-      'title_field' => 1,
-      'user_register_form' => FALSE,
-    ),
-    'widget' => array(
-      'active' => 1,
-      'module' => 'image',
-      'settings' => array(
-        'insert' => 0,
-        'insert_absolute' => 0,
-        'insert_class' => '',
-        'insert_default' => 'image_medium',
-        'insert_styles' => array(
-          'auto' => 'auto',
-          'icon_link' => 0,
-          'image' => 'image',
-          'image_featured_project' => 0,
-          'image_large' => 'image_large',
-          'image_medium' => 'image_medium',
-          'image_mini_project_image' => 0,
-          'image_project_landing' => 0,
-          'image_project_page' => 0,
-          'image_thumbnail' => 'image_thumbnail',
-          'image_update_content' => 0,
-          'link' => 0,
-        ),
-        'insert_width' => '',
-        'preview_image_style' => 'thumbnail',
-        'progress_indicator' => 'throbber',
-      ),
-      'type' => 'image_image',
-      'weight' => 3,
-    ),
-  );
-
   // Exported field_instance: 'node-update-field_images'
   $field_instances['node-update-field_images'] = array(
     'bundle' => 'update',
@@ -406,7 +341,6 @@ Use the <em>Insert</em> button to place a link to the file in the text.',
   t('Comment');
   t('Documents');
   t('Images');
-  t('Main image');
   t('Related Project');
   t('Update Tags');
   t('Use this to attach <strong>documents</strong> - any images can be uploaded with the <em>Images field</em> above.
