@@ -156,7 +156,8 @@ function hot_updates_field_default_field_instances() {
   $field_instances['node-update-field_images'] = array(
     'bundle' => 'update',
     'deleted' => 0,
-    'description' => 'Upload images here and then use the <em>Insert</em> button to place them in the text.',
+    'description' => 'You can upload several images at once. 
+Then use the <em>Insert</em> button to place them in the text.',
     'display' => array(
       'default' => array(
         'label' => 'above',
@@ -188,7 +189,7 @@ function hot_updates_field_default_field_instances() {
     ),
     'widget' => array(
       'active' => 1,
-      'module' => 'image',
+      'module' => 'multiupload_imagefield_widget',
       'settings' => array(
         'insert' => 1,
         'insert_absolute' => 0,
@@ -212,7 +213,7 @@ function hot_updates_field_default_field_instances() {
         'preview_image_style' => 'thumbnail',
         'progress_indicator' => 'throbber',
       ),
-      'type' => 'image_image',
+      'type' => 'image_miw',
       'weight' => 5,
     ),
   );
@@ -370,7 +371,7 @@ Use the <em>Insert</em> button to place a link to the file in the text.',
     ),
     'widget' => array(
       'active' => 1,
-      'module' => 'file',
+      'module' => 'multiupload_filefield_widget',
       'settings' => array(
         'insert' => 1,
         'insert_absolute' => 0,
@@ -393,7 +394,7 @@ Use the <em>Insert</em> button to place a link to the file in the text.',
         'insert_width' => '',
         'progress_indicator' => 'throbber',
       ),
-      'type' => 'file_generic',
+      'type' => 'file_mfw',
       'weight' => 6,
     ),
   );
@@ -408,9 +409,10 @@ Use the <em>Insert</em> button to place a link to the file in the text.',
   t('Main image');
   t('Related Project');
   t('Update Tags');
-  t('Upload images here and then use the <em>Insert</em> button to place them in the text.');
   t('Use this to attach <strong>documents</strong> - any images can be uploaded with the <em>Images field</em> above.
 Use the <em>Insert</em> button to place a link to the file in the text.');
+  t('You can upload several images at once. 
+Then use the <em>Insert</em> button to place them in the text.');
 
   return $field_instances;
 }
