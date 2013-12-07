@@ -76,7 +76,7 @@ body {
   font-size: 12px;
   line-height: 20px;
   margin: 0;
-  text-align: justify;
+/*  text-align: justify; */
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000354}}
