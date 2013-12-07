@@ -1,7 +1,7 @@
 name = HOT Videos
 core = 7.x
 package = Features
-version = 7.x-1.1
+version = 7.x-1.2
 project = hot_videos
 dependencies[] = hot_core
 dependencies[] = hot_updates

@@ -99,14 +99,17 @@ function hot_videos_strongarm() {
           'weight' => '0',
         ),
         'path' => array(
-          'weight' => '4',
+          'weight' => '5',
+        ),
+        'language' => array(
+          'weight' => '1',
         ),
       ),
       'display' => array(
         'language' => array(
           'default' => array(
             'weight' => '3',
-            'visible' => TRUE,
+            'visible' => FALSE,
           ),
         ),
       ),
