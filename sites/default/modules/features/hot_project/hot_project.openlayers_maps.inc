@@ -37,22 +37,18 @@ function hot_project_openlayers_maps() {
       'openlayers_behavior_zoomtolayer' => array(
         'zoomtolayer' => array(
           'project_ol_map_openlayers_1' => 'project_ol_map_openlayers_1',
-          'humanitarian' => 0,
-          'mapquest_osm' => 0,
+          'osm_mapnik' => 0,
         ),
         'point_zoom_level' => '2',
         'zoomtolayer_scale' => '1',
       ),
-      'openlayers_behavior_navigation' => array(
-        'zoomWheelEnabled' => 1,
-        'zoomBoxEnabled' => 0,
-        'documentDrag' => 0,
+      'openlayers_behavior_attribution' => array(
+        'separator' => '',
       ),
     ),
-    'default_layer' => 'mapquest_osm',
+    'default_layer' => 'osm_mapnik',
     'layers' => array(
-      'humanitarian' => 'humanitarian',
-      'mapquest_osm' => 'mapquest_osm',
+      'osm_mapnik' => 'osm_mapnik',
       'project_ol_map_openlayers_1' => 'project_ol_map_openlayers_1',
     ),
     'layer_weight' => array(
@@ -91,7 +87,7 @@ function hot_project_openlayers_maps() {
       'openlayers_geojson_picture_this' => 0,
       'openlayers_kml_example' => 0,
     ),
-    'projection' => 'EPSG:900913',
+    'projection' => 'EPSG:3857',
     'displayProjection' => 'EPSG:4326',
     'styles' => array(
       'default' => 'default',
