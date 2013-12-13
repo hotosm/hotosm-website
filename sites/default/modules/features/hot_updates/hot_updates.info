@@ -1,7 +1,7 @@
 name = HOT Updates
 core = 7.x
 package = Features
-version = 7.x-2.3
+version = 7.x-2.4
 project = hot_updates
 dependencies[] = context
 dependencies[] = ds

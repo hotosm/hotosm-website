@@ -17,20 +17,10 @@ function hot_updates_ds_field_settings_info() {
   $ds_fieldsetting->bundle = 'update';
   $ds_fieldsetting->view_mode = 'default';
   $ds_fieldsetting->settings = array(
-    'comments' => array(
-      'weight' => '4',
+    'links' => array(
+      'weight' => '0',
       'label' => 'hidden',
       'format' => 'default',
-    ),
-    'author' => array(
-      'weight' => '0',
-      'label' => 'inline',
-      'format' => 'author',
-    ),
-    'post_date' => array(
-      'weight' => '1',
-      'label' => 'hidden',
-      'format' => 'ds_post_date_long',
     ),
   );
   $export['node|update|default'] = $ds_fieldsetting;
@@ -87,27 +77,25 @@ function hot_updates_ds_layout_settings_info() {
   $ds_layout->entity_type = 'node';
   $ds_layout->bundle = 'update';
   $ds_layout->view_mode = 'default';
-  $ds_layout->layout = 'panels-one';
+  $ds_layout->layout = 'ds_1col';
   $ds_layout->settings = array(
     'regions' => array(
-      'one_main' => array(
-        0 => 'author',
-        1 => 'post_date',
+      'ds_content' => array(
+        0 => 'links',
+        1 => 'field_update_project',
         2 => 'body',
         3 => 'upload',
-        4 => 'comments',
       ),
     ),
     'fields' => array(
-      'author' => 'one_main',
-      'post_date' => 'one_main',
-      'body' => 'one_main',
-      'upload' => 'one_main',
-      'comments' => 'one_main',
+      'links' => 'ds_content',
+      'field_update_project' => 'ds_content',
+      'body' => 'ds_content',
+      'upload' => 'ds_content',
     ),
     'classes' => array(),
     'wrappers' => array(
-      'one_main' => 'div',
+      'ds_content' => 'div',
     ),
     'layout_wrapper' => 'div',
     'layout_attributes' => '',
