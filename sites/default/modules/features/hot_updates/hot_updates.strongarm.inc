@@ -122,8 +122,8 @@ function hot_updates_strongarm() {
       'display' => array(
         'language' => array(
           'default' => array(
-            'weight' => '3',
-            'visible' => FALSE,
+            'weight' => '0',
+            'visible' => TRUE,
           ),
         ),
       ),

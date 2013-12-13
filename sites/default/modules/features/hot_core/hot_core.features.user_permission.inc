@@ -14,6 +14,7 @@ function hot_core_user_default_permissions() {
   $permissions['access administration pages'] = array(
     'name' => 'access administration pages',
     'roles' => array(
+      'authenticated user' => 'authenticated user',
       'site admin' => 'site admin',
     ),
     'module' => 'system',
@@ -22,9 +23,7 @@ function hot_core_user_default_permissions() {
   // Exported permission: 'access all views'.
   $permissions['access all views'] = array(
     'name' => 'access all views',
-    'roles' => array(
-      'site admin' => 'site admin',
-    ),
+    'roles' => array(),
     'module' => 'views',
   );
 
@@ -33,6 +32,7 @@ function hot_core_user_default_permissions() {
     'name' => 'access comments',
     'roles' => array(
       'anonymous user' => 'anonymous user',
+      'authenticated user' => 'authenticated user',
     ),
     'module' => 'comment',
   );
@@ -160,14 +160,18 @@ function hot_core_user_default_permissions() {
   // Exported permission: 'administer filters'.
   $permissions['administer filters'] = array(
     'name' => 'administer filters',
-    'roles' => array(),
+    'roles' => array(
+      'site admin' => 'site admin',
+    ),
     'module' => 'filter',
   );
 
   // Exported permission: 'administer languages'.
   $permissions['administer languages'] = array(
     'name' => 'administer languages',
-    'roles' => array(),
+    'roles' => array(
+      'site admin' => 'site admin',
+    ),
     'module' => 'locale',
   );
 
@@ -414,6 +418,7 @@ function hot_core_user_default_permissions() {
   $permissions['revert revisions'] = array(
     'name' => 'revert revisions',
     'roles' => array(
+      'authenticated user' => 'authenticated user',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -440,7 +445,9 @@ function hot_core_user_default_permissions() {
   // Exported permission: 'translate admin strings'.
   $permissions['translate admin strings'] = array(
     'name' => 'translate admin strings',
-    'roles' => array(),
+    'roles' => array(
+      'site admin' => 'site admin',
+    ),
     'module' => 'i18n_string',
   );
 
@@ -456,14 +463,18 @@ function hot_core_user_default_permissions() {
   // Exported permission: 'translate interface'.
   $permissions['translate interface'] = array(
     'name' => 'translate interface',
-    'roles' => array(),
+    'roles' => array(
+      'site admin' => 'site admin',
+    ),
     'module' => 'locale',
   );
 
   // Exported permission: 'translate user-defined strings'.
   $permissions['translate user-defined strings'] = array(
     'name' => 'translate user-defined strings',
-    'roles' => array(),
+    'roles' => array(
+      'site admin' => 'site admin',
+    ),
     'module' => 'i18n_string',
   );
 
@@ -505,6 +516,7 @@ function hot_core_user_default_permissions() {
   $permissions['view revisions'] = array(
     'name' => 'view revisions',
     'roles' => array(
+      'authenticated user' => 'authenticated user',
       'site admin' => 'site admin',
     ),
     'module' => 'node',

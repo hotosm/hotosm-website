@@ -13,14 +13,18 @@ function hot_videos_user_default_permissions() {
   // Exported permission: 'administer video styles'.
   $permissions['administer video styles'] = array(
     'name' => 'administer video styles',
-    'roles' => array(),
+    'roles' => array(
+      'site admin' => 'site admin',
+    ),
     'module' => 'video_embed_field',
   );
 
   // Exported permission: 'create video content'.
   $permissions['create video content'] = array(
     'name' => 'create video content',
-    'roles' => array(),
+    'roles' => array(
+      'authenticated user' => 'authenticated user',
+    ),
     'module' => 'node',
   );
 
@@ -34,21 +38,27 @@ function hot_videos_user_default_permissions() {
   // Exported permission: 'delete own video content'.
   $permissions['delete own video content'] = array(
     'name' => 'delete own video content',
-    'roles' => array(),
+    'roles' => array(
+      'authenticated user' => 'authenticated user',
+    ),
     'module' => 'node',
   );
 
   // Exported permission: 'edit any video content'.
   $permissions['edit any video content'] = array(
     'name' => 'edit any video content',
-    'roles' => array(),
+    'roles' => array(
+      'authenticated user' => 'authenticated user',
+    ),
     'module' => 'node',
   );
 
   // Exported permission: 'edit own video content'.
   $permissions['edit own video content'] = array(
     'name' => 'edit own video content',
-    'roles' => array(),
+    'roles' => array(
+      'authenticated user' => 'authenticated user',
+    ),
     'module' => 'node',
   );
 

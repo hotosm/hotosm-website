@@ -13,7 +13,9 @@ function hot_sharing_user_default_permissions() {
   // Exported permission: 'administer addtoany'.
   $permissions['administer addtoany'] = array(
     'name' => 'administer addtoany',
-    'roles' => array(),
+    'roles' => array(
+      'site admin' => 'site admin',
+    ),
     'module' => 'addtoany',
   );
 
