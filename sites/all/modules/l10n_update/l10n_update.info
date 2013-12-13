@@ -1,0 +1,24 @@
+name = Localization update
+description = Provides automatic downloads and updates for translations.
+dependencies[] = locale
+core = 7.x
+package = Multilingual
+
+files[] = l10n_update.admin.inc
+files[] = l10n_update.api.php
+files[] = l10n_update.batch.inc
+files[] = l10n_update.check.inc
+files[] = l10n_update.drush.inc
+files[] = l10n_update.inc
+files[] = l10n_update.install
+files[] = l10n_update.locale.inc
+files[] = l10n_update.module
+files[] = l10n_update.parser.inc
+files[] = l10n_update.project.inc
+
+; Information added by drupal.org packaging script on 2012-02-06
+version = "7.x-1.0-beta3"
+core = "7.x"
+project = "l10n_update"
+datestamp = "1328563848"
+
