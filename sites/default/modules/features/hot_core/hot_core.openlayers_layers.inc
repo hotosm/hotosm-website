@@ -17,6 +17,9 @@ function hot_core_openlayers_layers() {
   $openlayers_layers->title = 'Humanitarian';
   $openlayers_layers->description = 'The HOT - Humanitarian map style';
   $openlayers_layers->data = array(
+    'url' => array(
+      0 => 'http://a.tile.openstreetmap.fr/hot/${z}/${x}/${y}.png',
+    ),
     'serverResolutions' => array(
       0 => 156543.0339,
       1 => 78271.51695,
@@ -60,21 +63,16 @@ function hot_core_openlayers_layers() {
       15 => 4.7773142669678,
       16 => 2.3886571334839,
       17 => 1.1943285667419,
-      18 => 0.59716428337097,
-      19 => 0.29858214169741,
-      20 => 0.1492910708487,
-      21 => 0.074645535424352,
     ),
-    'url' => array(
-      0 => 'http://a.tile.openstreetmap.fr/hot/${z}/${x}/${y}.png',
-    ),
+    'zoomOffset' => 0,
+    'wrapDateLine' => 1,
     'projection' => array(
-      0 => 'EPSG:900913',
+      0 => 'EPSG:3857',
     ),
     'isBaseLayer' => 1,
-    'layer_type' => 'openlayers_layer_type_osm',
-    'layer_handler' => 'osm',
-    'type' => 'png',
+    'layer_type' => 'openlayers_layer_type_xyz',
+    'layer_handler' => 'xyz',
+    'sphericalMercator' => TRUE,
     'base_url' => NULL,
     'transitionEffect' => 'resize',
     'weight' => 0,
