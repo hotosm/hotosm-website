@@ -8,3 +8,28 @@ sites/*/private
 
 # Ignore caches
 cache/*
+
+ Patch/diff artifacts.
+ *.patch
+ *.diff
+ *.orig
+ *.rej
+ interdiff*.txt
+
+# emacs artifacts.
+*~
+\#*\#
+
+# VI swap file
+*.swp
+
+# Hidden files.
+.DS*
+.project
+
+# Windows links.
+*.lnk
+
+# Temporary files.
+tmp*
+
