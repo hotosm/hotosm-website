@@ -9,7 +9,7 @@ sites/*/private
 # Ignore caches
 cache/*
 
- Patch/diff artifacts.
+# Patch/diff artifacts.
  *.patch
  *.diff
  *.orig
