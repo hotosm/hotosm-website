@@ -181,7 +181,7 @@ function l10n_update_uninstall() {
  * Implements hook_requirements().
  */
 function l10n_update_requirements($phase) {
-  if ($phase == 'runtime') {
+  if ($phase == 'runtime' && variable_get('l10n_update_check_frequency', 0)) {
     if (l10n_update_get_projects() && l10n_update_language_list()) {
       $requirements['l10n_update']['title'] = t('Translation update status');
       if (l10n_update_available_updates()) {
@@ -281,4 +281,11 @@ function l10n_update_update_7004() {
     $schema['description'] = 'Cache table for the Localization Update module to store information about available releases, fetched from central server.';
     db_create_table('cache_l10n_update', $schema);
   }
+}
+
+/**
+ * Rebuild registry for 'translations' stream wrapper.
+ */
+function l10n_update_update_7005() {
+  registry_rebuild();
 }

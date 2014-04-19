@@ -4,21 +4,12 @@ dependencies[] = locale
 core = 7.x
 package = Multilingual
 
-files[] = l10n_update.admin.inc
-files[] = l10n_update.api.php
-files[] = l10n_update.batch.inc
-files[] = l10n_update.check.inc
-files[] = l10n_update.drush.inc
-files[] = l10n_update.inc
-files[] = l10n_update.install
-files[] = l10n_update.locale.inc
-files[] = l10n_update.module
 files[] = l10n_update.parser.inc
-files[] = l10n_update.project.inc
+files[] = includes/locale/TranslationsStreamWrapper.php
 
-; Information added by drupal.org packaging script on 2012-02-06
-version = "7.x-1.0-beta3"
+; Information added by Drupal.org packaging script on 2014-04-12
+version = "7.x-1.0"
 core = "7.x"
 project = "l10n_update"
-datestamp = "1328563848"
+datestamp = "1397295556"
 

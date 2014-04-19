@@ -23,7 +23,7 @@ function l10n_update_drush_command() {
     'description' => 'Update translations.',
     'options' => array(
       'languages' => 'Comma separated list of languages. Defaults to all available languages.',
-      'mode' => 'Allowed values: overwrite, keep. Default value: keep.'
+      'mode' => 'Determine if existing translations are overwitten during import. Use "overwrite" to overwrite any existing translation, "replace" to replace previously imported translations but not overwrite edited strings, "keep" to keep any existing translation and only add new translations. Default value: keep'
     ),
   );
   return $commands;
@@ -102,8 +102,8 @@ function drush_l10n_update_validate() {
 
   // Check provided update mode is valid.
   $mode = drush_get_option('mode', 'keep');
-  if (!in_array($mode, array('keep', 'overwrite'))) {
-    return drush_set_error('L10N_UPDATE_INVALID_MODE', dt('Invalid update mode. Valid options are keep, overwrite.'));
+  if (!in_array($mode, array('keep', 'replace', 'overwrite'))) {
+    return drush_set_error('L10N_UPDATE_INVALID_MODE', dt('Invalid update mode. Valid options are keep, replace, overwrite.'));
   }
 }
 
@@ -118,6 +118,23 @@ function drush_l10n_update() {
 
       // Batch update all projects for selected languages.
       $mode = drush_get_option('mode', 'keep');
+
+      switch ($mode) {
+        case 'keep':
+          $mode = LOCALE_IMPORT_KEEP;
+          break;
+        case 'replace':
+          $mode = LOCALE_UPDATE_OVERRIDE_DEFAULT;
+          break;
+        case 'overwrite':
+          $mode = LOCALE_IMPORT_OVERWRITE;
+          break;
+
+        default:
+          return drush_set_error('L10N_UPDATE_INVALID_MODE', dt('Invalid update mode. Valid options are keep, overwrite.'));
+          break;
+      }
+
       $languages = drush_get_option('languages');
       module_load_include('batch.inc', 'l10n_update');
       $updates = _l10n_update_prepare_updates($updates, NULL, array_keys($languages));

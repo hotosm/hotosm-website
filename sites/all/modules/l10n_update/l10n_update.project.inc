@@ -25,12 +25,16 @@
 /**
  * Rebuild project list
  *
+ * @param $refresh
+ *   TRUE: Refresh project list.
+ *
  * @return array
+ *   Array of project objects to be considered for translation update.
  */
-function l10n_update_build_projects() {
+function l10n_update_build_projects($refresh = FALSE) {
   module_load_include('inc', 'l10n_update');
   // Get all stored projects, including disabled ones
-  $current = l10n_update_get_projects(NULL, TRUE);
+  $current = l10n_update_get_projects($refresh, TRUE);
   // Now get the new project list, just enabled ones
   $projects = l10n_update_project_list();
 
@@ -47,12 +51,25 @@ function l10n_update_build_projects() {
     $projects_info = update_get_available(TRUE);
   }
   foreach ($projects as $name => $data) {
+
+    // Force update fetch of project data in cases where Drupal's performance
+    // optimized approach is missing out on some projects.
+    // @see http://drupal.org/node/1671570#comment-6216090
+    if (module_exists('update') && !isset($projects_info[$name])) {
+      module_load_include('fetch.inc', 'update');
+      _update_process_fetch_task($data);
+      $available = _update_get_cached_available_releases();
+      if (!empty($available[$name])) {
+        $projects_info[$name] = $available[$name];
+      }
+    }
+
     if (isset($projects_info[$name]['releases']) && $projects_info[$name]['project_status'] != 'not-fetched') {
       // Find out if a dev version is installed.
       if (preg_match("/^[0-9]+\.x-([0-9]+)\..*-dev$/", $data['info']['version'], $matches)) {
         // Find a suitable release to use as alternative translation.
         foreach ($projects_info[$name]['releases'] as $project_release) {
-          // The first release with the same major release number which is not 
+          // The first release with the same major release number which is not
           // a dev release is the one. Releases are sorted the most recent first.
           if ($project_release['version_major'] == $matches[1] &&
               (!isset($project_release['version_extra']) || $project_release['version_extra'] != 'dev')) {
@@ -61,11 +78,6 @@ function l10n_update_build_projects() {
           }
         }
       }
-      elseif ($name == "drupal" || preg_match("/HEAD/", $data['info']['version'], $matches)) {
-        // Pick latest available release.
-        $release = array_shift($projects_info[$name]['releases']);
-      }
-
       if (!empty($release['version'])) {
         $data['info']['version'] = $release['version'];
       }
@@ -101,7 +113,13 @@ function l10n_update_build_projects() {
     }
     // Create / update project record
     $update = empty($current[$name]) ? array() : array('name');
-    drupal_write_record('l10n_update_project', $project, $update);
+    // @todo Use db_merge() to avoid problems with saving existing projects.
+    try {
+      drupal_write_record('l10n_update_project', $project, $update);
+    }
+    catch (Exception $e) {
+      watchdog('l10n_update', 'Could not insert a project into the l10n_update_project table, possibly because it already exists.', NULL, WATCHDOG_INFO);
+    }
     $projects[$name] = $project;
   }
   return $projects;
@@ -136,7 +154,7 @@ function l10n_update_project_refresh($modules) {
   $projects = array();
 
   // Get all current projects, including the recently installed.
-  $current_projects = l10n_update_build_projects();
+  $current_projects = l10n_update_build_projects(TRUE);
   // Collect project data of newly installed projects.
   foreach ($modules as $name) {
     if (isset($current_projects[$name])) {
