@@ -16,3 +16,9 @@ hidden = TRUE
 stylesheets[all][] = system.base.css
 
 settings[theme_test_setting] = default value
+
+; Information added by Drupal.org packaging script on 2014-04-16
+version = "7.27"
+project = "drupal"
+datestamp = "1397687057"
+
