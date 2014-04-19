@@ -146,26 +146,6 @@ function mollom_help($path, $arg) {
 }
 
 /**
- * Implements hook_init().
- */
-function mollom_init() {
-  // On all Mollom administration pages, check the module configuration and
-  // display the corresponding requirements error, if invalid.
-  if (empty($_POST) && strpos($_GET['q'], 'admin/config/content/mollom') === 0 && user_access('administer mollom')) {
-    // Re-check the status on the settings form only.
-    $status = _mollom_status($_GET['q'] == 'admin/config/content/mollom/settings');
-    if ($status !== TRUE) {
-      // Fetch and display requirements error message, without re-checking.
-      module_load_install('mollom');
-      $requirements = mollom_requirements('runtime', FALSE);
-      if (isset($requirements['mollom']['description'])) {
-        drupal_set_message($requirements['mollom']['description'], 'error');
-      }
-    }
-  }
-}
-
-/**
  * Implements hook_exit().
  */
 function mollom_exit() {
@@ -233,6 +213,7 @@ function mollom_menu() {
     'description' => 'Configure blacklists.',
     'page callback' => 'drupal_get_form',
     'page arguments' => array('mollom_admin_blacklist_form'),
+    'access callback' => '_mollom_access',
     'access arguments' => array('administer mollom'),
     'type' => MENU_LOCAL_TASK,
     'file' => 'mollom.admin.inc',
@@ -248,6 +229,7 @@ function mollom_menu() {
     'description' => 'Configure profanity blacklist entries.',
     'page callback' => 'drupal_get_form',
     'page arguments' => array('mollom_admin_blacklist_form', 5),
+    'access callback' => '_mollom_access',
     'access arguments' => array('administer mollom'),
     'type' => MENU_LOCAL_TASK,
     'file' => 'mollom.admin.inc',
@@ -257,6 +239,7 @@ function mollom_menu() {
     'description' => 'Configure unwanted blacklist entries.',
     'page callback' => 'drupal_get_form',
     'page arguments' => array('mollom_admin_blacklist_form', 5),
+    'access callback' => '_mollom_access',
     'access arguments' => array('administer mollom'),
     'type' => MENU_LOCAL_TASK,
     'file' => 'mollom.admin.inc',
@@ -265,6 +248,7 @@ function mollom_menu() {
     'title' => 'Delete blacklist entry',
     'page callback' => 'drupal_get_form',
     'page arguments' => array('mollom_admin_blacklist_delete'),
+    'access callback' => '_mollom_access',
     'access arguments' => array('administer mollom'),
     'type' => MENU_CALLBACK,
     'file' => 'mollom.admin.inc',
@@ -298,6 +282,16 @@ function mollom_menu() {
     'type' => MENU_CALLBACK,
   );
 
+  // Report as inappropriate.
+  $items['mollom/flag/%/%/%/%'] = array(
+    'page callback' => 'mollom_flag',
+    'page arguments' => array(2, 3, 4),
+    'access callback' => '_mollom_flag_access',
+    'access arguments' => array(3, 4),
+    'type' => MENU_CALLBACK,
+    'file' => 'mollom.flag.inc',
+  );
+
   return $items;
 }
 
@@ -324,10 +318,7 @@ function mollom_menu_local_tasks_alter(&$data, $router_item, $root_path) {
 }
 
 /**
- * Access callback; check if the module is configured.
- *
- * This function does not actually check whether Mollom keys are valid for the
- * site, but just if the keys have been entered.
+ * Menu access callback; Checks if the module is operational.
  *
  * @param $permission
  *   An optional permission string to check with user_access().
@@ -337,7 +328,8 @@ function mollom_menu_local_tasks_alter(&$data, $router_item, $root_path) {
  *   FALSE otherwise.
  */
 function _mollom_access($permission = FALSE) {
-  return _mollom_status() === TRUE && (!$permission || user_access($permission));
+  $status = _mollom_status();
+  return $status['isVerified'] && (!$permission || user_access($permission));
 }
 
 /**
@@ -406,6 +398,9 @@ function mollom_permission() {
     'access mollom statistics' => array(
       'title' => t('View Mollom statistics'),
     ),
+    'report to mollom' => array(
+      'title' => t('Report content as inappropriate'),
+    )
   );
 }
 
@@ -454,6 +449,19 @@ function mollom_content_load($contentId) {
  */
 function mollom_data_load($entity, $id) {
   return mollom_db_query_range('SELECT * FROM {mollom} WHERE entity = :entity AND id = :id', 0, 1, array(':entity' => $entity, ':id' => $id))->fetchObject();
+}
+
+/**
+ * Loads the Mollom data records from the database for a specific entity type.
+ *
+ * @param $entity
+ *   The entity type to retrieve data for.
+ *
+ * @return array
+ *   The matching Mollom data as an array keyed by entity id.
+ */
+function mollom_entity_type_load($type) {
+  return mollom_db_query('SELECT * FROM {mollom} WHERE entity = :entity', array(':entity' => $type))->fetchAllAssoc('id');
 }
 
 /**
@@ -531,6 +539,11 @@ function mollom_db_query_range($query, $from, $count, array $args = array(), arr
  *     0 and 1.0.
  *   - languages: An array containing language codes the content might be
  *     written in.
+ *   - flags_spam: Total count of spam feedback reports.
+ *   - flags_ham: Total count of ham feedback reports.
+ *   - flags_profanity: Total count of profanity feedback reports.
+ *   - flags_quality: Total count of low quality feedback reports.
+ *   - flags_unwanted: Total count of unwanted feedback reports.
  */
 function mollom_data_save($data) {
   $data->changed = REQUEST_TIME;
@@ -576,7 +589,7 @@ function mollom_data_moderate($entity, $id) {
   }
 
   // Report the session to Mollom.
-  _mollom_send_feedback($data, 'approve');
+  _mollom_send_feedback($data, 'approve', 'moderate', 'mollom_data_moderate');
 
   // Mark the session data as moderated.
   $data->moderate = 0;
@@ -689,7 +702,7 @@ function mollom_data_report_multiple($entity, array $ids, $feedback) {
     $data = mollom_data_load($entity, $id);
     // Send feedback, if we have session data.
     if (!empty($data->contentId) || !empty($data->captchaId)) {
-      $result = _mollom_send_feedback($data, $feedback);
+      $result = _mollom_send_feedback($data, $feedback, 'moderate', 'mollom_data_report_multiple');
       $return = $return && $result;
     }
   }
@@ -738,7 +751,7 @@ function mollom_form_alter(&$form, &$form_state, $form_id) {
       // regardless of whether API keys could be verified; otherwise, the
       // fallback mode would not be triggered.
       $status = _mollom_status();
-      if ($status !== TRUE && !$status['keys']) {
+      if (!$status['isConfigured']) {
         return;
       }
 
@@ -1240,6 +1253,10 @@ function mollom_form_get_values(&$form_state, $fields, $mapping) {
       $value = isset($value[$key]) ? $value[$key] : NULL;
     }
     if (isset($value)) {
+      if (is_array($value)) {
+        $value = _mollom_flatten_form_values($value);
+        $value = implode(' ', $value);
+      }
       $mapping[$property] = $value;
     }
   }
@@ -1411,23 +1428,60 @@ function _mollom_get_openid($account) {
 }
 
 /**
+ * Helper function to determine protected forms for an entity.
+ *
+ * @param $type
+ *   The type of entity to check.
+ * @param $bundle
+ *   An array of bundle names to check.
+ * 
+ * @return array
+ *   An array of protected bundles for this entity type.
+ */
+function _mollom_get_entity_forms_protected($type, $bundles = array()) {
+    // Find out if this entity bundle is protected.
+  $protected = &drupal_static(__FUNCTION__,array());
+  if (empty($bundles)) {
+    $info = entity_get_info($type);
+    $bundles = array_keys($info['bundles']);
+  }
+  $protected_bundles = array();
+  foreach ($bundles as $bundle) {
+    if (!isset($protected[$type][$bundle])) {
+      $protected[$type][$bundle] = db_query_range('SELECT 1 FROM {mollom_form} WHERE entity = :entity AND bundle = :bundle', 0, 1, array(
+        ':entity' => $type,
+        ':bundle' => isset($bundle) ? $bundle : $type,
+      ))->fetchField();
+    }
+    if (!empty($protected[$type][$bundle])) {
+      $protected_bundles[] = $bundle;
+    }
+  }
+  return $protected_bundles;
+}
+
+/**
  * Returns the (last known) status of the configured Mollom API keys.
  *
  * @param bool $force
  *   (optional) Boolean whether to ignore the cached state and re-check.
  *   Defaults to FALSE.
+ * @param bool $update
+ *   (optional) Whether to update Mollom with locally stored configuration.
+ *   Defaults to FALSE.
  *
- * @return bool|array
- *   TRUE if the module is considered operable, or an associative array
- *   describing the current status of the module:
- *   - keys: Boolean whether Mollom API keys have been configured.
+ * @return array
+ *   An associative array describing the current status of the module:
+ *   - isConfigured: Boolean whether Mollom API keys have been configured.
+ *   - isVerified: Boolean whether Mollom API keys have been verified.
  *   - response: The response error code of the API verification request.
+ *   - ...: The full site resource, as returned by the Mollom API.
  *
  * @see mollom_init()
  * @see mollom_admin_settings()
  * @see mollom_requirements()
  */
-function _mollom_status($force = FALSE) {
+function _mollom_status($force = FALSE, $update = FALSE) {
   $static_cache = &drupal_static(__FUNCTION__, array());
   $testing_mode = (int) variable_get('mollom_testing_mode', 0);
   $status = &$static_cache[$testing_mode];
@@ -1450,33 +1504,61 @@ function _mollom_status($force = FALSE) {
   // Re-check configuration status.
   $mollom = mollom();
   $status = array(
-    'keys' => FALSE,
+    'isConfigured' => FALSE,
+    'isVerified' => FALSE,
+    'isTesting' => (bool) $testing_mode,
     'response' => NULL,
+    'publicKey' => $mollom->loadConfiguration('publicKey'),
+    'privateKey' => $mollom->loadConfiguration('privateKey'),
+    'expectedLanguages' => $mollom->loadConfiguration('expectedLanguages'),
   );
-  $public_key = $mollom->loadConfiguration('publicKey');
-  $private_key = $mollom->loadConfiguration('privateKey');
-  $status['keys'] = (!empty($public_key) && !empty($private_key));
+  $status['isConfigured'] = (!empty($status['publicKey']) && !empty($status['privateKey']));
+  $status['expectedLanguages'] = is_array($status['expectedLanguages']) ? array_values($status['expectedLanguages']) : array();
 
-  if ($testing_mode || $status['keys']) {
-    $status['response'] = $mollom->verifyKeys();
+  if ($testing_mode || $status['isConfigured']) {
+    $old_status = $status;
+    $data = array();
+    if ($update) {
+      // Ensure to use the most current API keys (might have been changed).
+      $mollom->publicKey = $status['publicKey'];
+      $mollom->privateKey = $status['privateKey'];
 
-    if ($status['response'] === TRUE) {
-      $status = TRUE;
+      $data += array(
+        'expectedLanguages' => $status['expectedLanguages'],
+      );
+    }
+    $data += $mollom->getClientInformation();
+    $response = $mollom->updateSite($data);
+
+    if (is_array($response) && $mollom->lastResponseCode === TRUE) {
+      $status = array_merge($status,$response);
+      $status['isVerified'] = TRUE;
       mollom_log(array(
         'message' => 'API keys are valid.',
       ), WATCHDOG_INFO);
+
+      // Unless we just updated, update local configuration with remote.
+      if (!$update) {
+        $languages_expected = is_array($status['expectedLanguages']) ? array_values($status['expectedLanguages']) : array();
+        if ($old_status['expectedLanguages'] != $status['expectedLanguages']) {
+          $mollom->saveConfiguration('expectedLanguages', $status['expectedLanguages']);
+        }
+      }
     }
-    elseif ($status['response'] === Mollom::AUTH_ERROR) {
+    elseif ($response === Mollom::AUTH_ERROR) {
+      $status['response'] = $response;
       mollom_log(array(
         'message' => 'Invalid API keys.',
       ), WATCHDOG_ERROR);
     }
-    elseif ($status['response'] === Mollom::REQUEST_ERROR) {
+    elseif ($response === Mollom::REQUEST_ERROR) {
+      $status['response'] = $response;
       mollom_log(array(
         'message' => 'Invalid client configuration.',
       ), WATCHDOG_ERROR);
     }
     else {
+      $status['response'] = $response;
       // A NETWORK_ERROR and other possible responses may be caused by the
       // client-side environment, but also by Mollom service downtimes. Try to
       // recover as soon as possible.
@@ -1571,6 +1653,7 @@ function mollom_element_info() {
         'mollom_process_mollom',
       ),
       '#pre_render' => array('mollom_pre_render_mollom'),
+      '#after_build' => array('mollom_after_build_mollom'),
     ),
   );
 }
@@ -1579,13 +1662,130 @@ function mollom_element_info() {
  * Implements hook_theme().
  */
 function mollom_theme() {
+  $base_path = base_path() . drupal_get_path('module', 'mollom');
   return array(
     'mollom_admin_blacklist_form' => array(
       'render element' => 'form',
       'file' => 'mollom.admin.inc',
     ),
+    'mollom_captcha_audio' => array(
+      'variables' => array(
+        'captcha_url' => NULL,
+        'flash_fallback_player' => $base_path . '/mollom-captcha-player.swf',
+      ),
+      'template' => 'mollom.captcha.audio',
+    ),
+    'mollom_captcha_image' => array(
+      'variables' => array(
+        'captcha_url' => NULL,
+        'audio_enabled' => TRUE,
+      ),
+      'template' => 'mollom.captcha.image',
+    ),
   );
 }
+
+/**
+ * Helper function to determine if "report to Mollom" is available
+ * and activated for a specific entity type.
+ *
+ * @param $type
+ *   The entity type to check.
+ * @param $bundles
+ *   An array of entity bundles to check.
+ */
+function mollom_flag_entity_type_access($type, $bundles = array()) {
+  // Check to see if flag as inappropriate is enabled for this entity type.
+  $allowed = variable_get('mollom_fai_entity_types', array('comment' => 1));
+  if (empty($allowed[$type])) {
+    return;
+  }
+
+  // Check to see if there are protected forms for this content type.
+  $protected = _mollom_get_entity_forms_protected($type, $bundles);
+  if (empty($protected)) {
+    return FALSE;
+  }
+
+  // Make sure that flag as inappropriate is active for this type.
+  // If any form for this entity type is reportable, then show data.
+  $forms = mollom_form_list();
+  foreach ($forms as $info) {
+    if (!isset($info['entity']) || $info['entity'] != $type) {
+      continue;
+    }
+    if (isset($info['entity report access callback'])) {
+      $function = $info['entity report access callback'];
+      if ($function()) {
+        return TRUE;
+      }
+    }
+  }
+  return FALSE;
+}
+
+/**
+ * Implements hook_library().
+ */
+function mollom_library() {
+  $libraries['flag'] = array(
+    'title' => 'Flag as Inappropriate',
+    'version' => '1.0',
+    'js' => array(
+      drupal_get_path('module', 'mollom') . '/mollom.flag.js' => array(),
+    ),
+    'css' => array(
+      drupal_get_path('module', 'mollom') . '/mollom.flag.position.css' => array(),
+      drupal_get_path('module', 'mollom') . '/mollom.flag.css' => array(),
+    ),
+    'dependencies' => array(
+      array('system', 'drupal.ajax'),
+    )
+  );
+  return $libraries;
+}
+
+/**
+ * Helper function to determine if "report to mollom" is available for the
+ * current entity.
+ *
+ * @param $type
+ *   The type of the entity to check.
+ * @param $entity
+ *   The entity to check.  This can be either the entity object or an id.
+ * @return bool
+ *   True if reporting is available and false if not available.
+ */
+function _mollom_flag_access($type, $entity) {
+  // make sure that Mollom is active and user is able to report.
+  if (!_mollom_access('report to mollom')) {
+    return FALSE;
+  }
+  // Find out if this entity bundle is protected.
+  if (!is_object($entity)) {
+    $entities = entity_load($type, array($entity));
+    $entity = $entities[$entity];
+  }
+  list($id, $rid, $bundle) = entity_extract_ids($type, $entity);
+  return mollom_flag_entity_type_access($type, array($bundle));
+}
+
+/**
+ * Implements hook_entity_view().
+ */
+function mollom_entity_view($entity, $type, $view_mode, $langcode) {
+  module_load_include('inc', 'mollom', 'mollom.flag');
+  mollom_flag_entity_view($entity, $type, $view_mode, $langcode);
+}
+
+/**
+ * Implements hook_form_FORMID_alter().
+ */
+function mollom_form_comment_form_alter(&$form, &$form_state, $form_id) {
+  module_load_include('inc', 'mollom', 'mollom.flag');
+  mollom_flag_comment_form_alter($form, $form_state, $form_id);
+}
+
 
 /**
  * #process callback for #type 'mollom'.
@@ -1709,11 +1909,11 @@ function mollom_process_mollom($element, &$form_state, $complete_form) {
   // assigned as Boolean #solved = TRUE element property when solved correctly.
   $element['captcha'] = array(
     '#type' => 'textfield',
-    '#title' => t('Word verification'),
+    '#title' => t('Verification'),
     '#size' => 10,
     '#default_value' => '',
-    '#description' => t("Type the characters you see in the picture above; if you can't read them, submit the form and a new image will be generated. Not case sensitive."),
   );
+
   // Disable browser autocompletion, unless testing mode is enabled, in which
   // case autocompletion for 'correct' and 'incorrect' is handy.
   if (!variable_get('mollom_testing_mode', 0)) {
@@ -1759,6 +1959,13 @@ function mollom_process_mollom($element, &$form_state, $complete_form) {
     ),
   );
 
+  // Add the form behavior analysis web tracking beacon field holder if enabled.
+  if (variable_get('mollom_fba', 0) && $form_state['mollom']['require_analysis']) {
+    $element['fba'] = array(
+      '#type' => 'hidden',
+    );
+  }
+
   // Make Mollom form and session information available to entirely different
   // functions.
   // @see mollom_mail_alter()
@@ -1766,6 +1973,40 @@ function mollom_process_mollom($element, &$form_state, $complete_form) {
 
   return $element;
 }
+
+/**
+ * Adds form behavior analysis tracking image.
+ *
+ * This is an after_build callback handler for the mollom field type.
+ * If form behavior analysis is enabled, a special tracking image is requested
+ * from the Mollom servers using a generated tracking ID.
+ * The image should be displayed and the tracking ID saved to pass to
+ * mollom.checkContent.
+ * The tracking image should only be shown the first time a textual analysis
+ * form is displayed and not on subsequent CAPTCHA displays or previews.
+ */
+function mollom_after_build_mollom(&$element, &$form_state) {
+  // Add the form behavior analysis web tracking beacon field holder if enabled.
+  if (isset($element['fba']) && empty($element['fba']['#value'])) {
+    // Generate the tracking image id for form behavior analysis.
+    $mollom = mollom();
+    $tracking = $mollom->getTrackingImage();
+
+    $element['fba']['#value'] = $tracking['tracking_id'];
+    $element['fba']['#prefix'] = theme('image', array(
+      'path' => $tracking['tracking_url'],
+      'width' => 1,
+      'height' => 1,
+      'alt' => '',
+      'attributes' => array(
+        'class' => array('mollom-fba'),
+      ),
+    ));
+  }
+
+  return $element;
+}
+
 
 /**
  * Adds a Mollom CAPTCHA to a Mollom-protected form.
@@ -1788,6 +2029,8 @@ function mollom_form_add_captcha(&$element, &$form_state) {
   if (!empty($captcha)) {
     $element['captcha']['#access'] = TRUE;
     $element['captcha']['#field_prefix'] = $captcha;
+    $element['captcha']['#attributes'] = array('title' => t('Enter the characters from the verification above.'));
+    _mollom_attach_captcha_script($element['captcha']);
 
     // Ensure that the latest CAPTCHA ID is output as value.
     $element['captchaId']['#value'] = $form_state['mollom']['response']['captcha']['id'];
@@ -1832,6 +2075,15 @@ function mollom_validate_analysis(&$form, &$form_state) {
   }
   if (in_array('spam', $data['checks']) && $form_state['mollom']['unsure'] == 'binary') {
     $data['unsure'] = 0;
+  }
+  // Only pass the tracking id if this is the first textual evaluation.
+  if (isset($form_state['values']['mollom']['fba']) && empty($data['id'])) {
+    if (empty($form_state['values']['mollom']['fba'])) {
+      $data['trackingImageId'] = -1;
+    }
+    else {
+      $data['trackingImageId'] = $form_state['values']['mollom']['fba'];
+    }
   }
   $result = mollom()->checkContent($data);
 
@@ -2305,6 +2557,9 @@ function mollom_log_write() {
  *   @todo A list of message parts. Each item is an associative array whose keys are
  *   log message strings and whose corresponding values are t()-style
  *   replacement token arguments. At least one part is required.
+ *
+ * In essence, this is a poor man's YAML implementation (give or take some
+ * details, but note especially the indentation for array sub-elements).
  */
 function _mollom_format_log(array $log) {
   $message = isset($log['message']) ? $log['message'] : '';
@@ -2358,10 +2613,12 @@ function _mollom_format_log(array $log) {
               // Indent all values to have a visual separation from the last.
               $flat_value .= str_repeat('  ', count($parents) + 1) . "{$key} = {$value}\n";
             }
-
-            // Recurse into nested keys, if the current key is not scalar.
             if (is_array($ref[$key])) {
               $flat_value .= str_repeat('  ', count($parents) + 1) . "{$key} =\n";
+            }
+
+            // Recurse into nested keys, if the current key is not scalar.
+            if (is_array($ref[$key]) && !empty($ref[$key])) {
               $parents[] = &$ref;
               $ref = &$ref[$key];
               $key = key($ref);
@@ -2473,8 +2730,15 @@ function _mollom_format_string($string, array $args = array()) {
  * @param $reason
  *   The feedback to send, one of 'spam', 'profanity', 'quality', 'unwanted',
  *   'approve'.
+ * @param $type
+ *   The type of feedback, one of 'moderate' or 'flag'.
+ * @param $source
+ *   An optional single word string identifier for the user interface source.
+ *   This is tracked along with the feedback to provide a more complete picture
+ *   of how feedback is used and submitted on the site.
  */
-function _mollom_send_feedback($data, $reason = 'spam') {
+function _mollom_send_feedback($data, $reason = 'spam', $type = 'moderate', $source = NULL) {
+  global $user;
   $params = array();
   if (!empty($data->captchaId)) {
     $params['captchaId'] = $data->captchaId;
@@ -2493,14 +2757,31 @@ function _mollom_send_feedback($data, $reason = 'spam') {
   }
   $params += array(
     'reason' => $reason,
+    'type' => $type,
+    'authorIp' => ip_address(),
   );
+  if (!empty($source)) {
+    $params['source'] = $source;
+  }
+  if ($user->uid > 0) {
+    $params['authorId'] = $user->uid;
+    // Passing the user rather than account object because only the uid property
+    // is used by _mollom_get_openid.
+    $authorOpenId = _mollom_get_openid($user);
+    if (!empty($authorOpenId)) {
+      $params['authorOpenId'] = $authorOpenId;
+    }
+  }
+
   $result = mollom()->sendFeedback($params);
   mollom_log(array(
-    'message' => 'Reported %feedback for @resource %id.',
+    'message' => 'Reported %feedback for @resource %id from %source - %type.',
     'arguments' => array(
+      '%type' => $type,
       '%feedback' => $reason,
       '@resource' => $resource,
       '%id' => $id,
+      '%source' => $source,
     ),
   ));
   return $result;
@@ -2513,7 +2794,7 @@ function _mollom_send_feedback($data, $reason = 'spam') {
  *   A boolean if TRUE, will force the statistics to be re-fetched and stored
  *   in the cache.
  *
- * @return
+ * @return array
  *   An array of statistics.
  */
 function mollom_get_statistics($refresh = FALSE) {
@@ -2522,7 +2803,8 @@ function mollom_get_statistics($refresh = FALSE) {
 
   // Only fetch if $refresh is TRUE, the cache is empty, or the cache is expired.
   if ($refresh || !$cache || REQUEST_TIME >= $cache->expire) {
-    if (_mollom_status() === TRUE) {
+    $status = _mollom_status();
+    if ($status['isVerified']) {
       $statistics = drupal_map_assoc(array(
         'total_days',
         'total_accepted',
@@ -2595,7 +2877,7 @@ function mollom_field_extra_fields() {
  * @param $form_state
  *   The current state of a form.
  *
- * @return
+ * @return string
  *   The markup of the CAPTCHA HTML.
  */
 function mollom_get_captcha(&$form_state) {
@@ -2623,38 +2905,85 @@ function mollom_get_captcha(&$form_state) {
   else {
     return '';
   }
-
-  // @todo Convert these to actual theme functions?
-  $output = '';
-  switch ($form_state['mollom']['captcha_type']) {
-    case 'audio':
-      $source = url(base_path() . drupal_get_path('module', 'mollom') . '/mollom-captcha-player.swf', array(
-        'query' => array('url' => $url),
-        'external' => TRUE,
-      ));
-      $output = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="//download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="110" height="50">';
-      $output .= '<param name="allowFullScreen" value="false" />';
-      $output .= '<param name="movie" value="' . $source . '" />';
-      $output .= '<param name="loop" value="false" />';
-      $output .= '<param name="menu" value="false" />';
-      $output .= '<param name="quality" value="high" />';
-      $output .= '<param name="wmode" value="transparent" />';
-      $output .= '<param name="bgcolor" value="#ffffff" />';
-      $output .= '<embed src="' . $source . '" loop="false" menu="false" quality="high" wmode="transparent" bgcolor="#ffffff" width="110" height="50" align="baseline" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer_de" />';
-      $output .= '</object>';
-
-      $output = '<span class="mollom-captcha-content mollom-audio-captcha">' . $output . '</span>';
-      $output .= ' (<a href="#" class="mollom-switch-captcha mollom-image-captcha">' . t('verify using image') . '</a>)';
-      break;
-
-    case 'image':
-      $captcha = theme('image', array('path' => $url, 'alt' => t('Type the characters you see in this picture.'), 'getsize' => FALSE));
-      $output = '<span class="mollom-captcha-content mollom-image-captcha">' . $captcha . '</span>';
-      $output .= ' (<a href="#" class="mollom-switch-captcha mollom-audio-captcha">' . t('verify using audio') . '</a>)';
-      break;
+  // Theme CAPTCHA output and return.
+  $audio_enabled = variable_get('mollom_audio_captcha_enabled', 1);
+  if ($audio_enabled && $form_state['mollom']['captcha_type'] == 'audio') {
+    return theme('mollom_captcha_audio', array(
+      'captcha_url' => $url,
+    ));
   }
+  else {
+    return theme('mollom_captcha_image', array(
+      'captcha_url' => $url,
+      'audio_enabled' => $audio_enabled,
+    ));
+  }
+}
 
-  return $output;
+/**
+ * Attach SWFObject script to render element when available.
+ *
+ * @param $element
+ *   A render element to attach the script to.
+ *
+ * @return bool
+ *   True if the library can be found, false otherwise.
+ */
+function _mollom_attach_captcha_script(&$element = NULL) {
+  $libraries = &drupal_static(__FUNCTION__);
+  if (empty($libraries['swfobject'])) {
+    $lib = array(
+      'found' => FALSE,
+    );
+
+    // Try to load via libraries module if enabled.
+    if (module_exists('libraries')) {
+      if (($library = libraries_detect('swfoject')) && !empty($library['installed'])) {
+        $lib = array(
+          'found' => TRUE,
+          'libraries' => TRUE,
+        );
+      }
+    }
+    if (!$lib['found']) {
+      // Check for SWFObject in standard library locations.
+      $profile = drupal_get_path('profile', drupal_get_profile());
+      $config = conf_path();
+      $search = array(
+        'libraries',
+        "$profile/libraries",
+        "sites/all/libraries",
+        "$config/libraries",
+      );
+      foreach ($search as $dir) {
+        if (is_dir($dir) && (
+          file_exists("$dir/swfobject.js") || file_exists("$dir/swfobject/swfobject.js")
+          )) {
+          $lib = array(
+            'found' => TRUE,
+            'libraries' => FALSE,
+            'path' => file_exists("$dir/swfobject.js") ? "$dir/swfobject.js" : "$dir/swfobject/swfobject.js",
+          );
+          break;
+        }
+      }
+    }
+    $libraries['swfobject'] = $lib;
+  }
+  if ($libraries['swfobject']['found']) {
+    if (isset($element)) {
+      if ($libraries['swfobject']['libraries']) {
+        $element['#attached']['libraries_load'][] = array('swfobject');
+      }
+      else {
+        $element['#attached'] = array(
+          'js' => array($libraries['swfobject']['path']),
+        );
+      }
+    }
+    return TRUE;
+  }
+  return FALSE;
 }
 
 /**
@@ -3221,6 +3550,7 @@ function node_mollom_form_list() {
         'name' => 'node.pages',
       ),
       'report access' => array('bypass node access', 'administer nodes'),
+      'entity report access callback' => 'node_mollom_entity_report_access',
     );
   }
   return $forms;
@@ -3272,12 +3602,15 @@ function node_mollom_form_moderation(&$form, &$form_state) {
  */
 function mollom_form_node_admin_content_alter(&$form, &$form_state) {
   // @see node_admin_content()
-  if (!(isset($form_state['values']['operation']) && $form_state['values']['operation'] == 'delete')) {
-    return;
+  if (isset($form_state['values']['operation']) && $form_state['values']['operation'] == 'delete') {
+    mollom_data_delete_form_alter($form, $form_state);
+    // Report before deletion.
+    array_unshift($form['#submit'], 'mollom_form_node_multiple_delete_confirm_submit');
   }
-  mollom_data_delete_form_alter($form, $form_state);
-  // Report before deletion.
-  array_unshift($form['#submit'], 'mollom_form_node_multiple_delete_confirm_submit');
+  else {
+    module_load_include('inc', 'mollom', 'mollom.flag');
+    _mollom_table_add_flag_counts('node', $form['admin']['nodes']['#header'], $form['admin']['nodes']['#options']);
+  }
 }
 
 /**
@@ -3291,6 +3624,24 @@ function mollom_form_node_multiple_delete_confirm_submit($form, &$form_state) {
     }
   }
   mollom_data_delete_multiple('node', $nids);
+}
+
+/**
+ * Entity report access callback for nodes.
+ * This enables the flag as inappropriate feature for nodes.
+ *
+ * @param $entity
+ *   Optional entity object to check access to a specific entity.
+ */
+function node_mollom_entity_report_access($entity = NULL) {
+  // All nodes can be reported as long as the user has access to view.
+  if (!empty($entity) && isset($entity->nid)) {
+    return node_access('view', $entity->nid);
+  }
+  else {
+    // Generally turned on when this function is enabled as a callback.
+    return TRUE;
+  }
 }
 
 /**
@@ -3319,6 +3670,7 @@ function comment_mollom_form_list() {
       ),
       'report access' => array('administer comments'),
       'entity delete multiple callback' => 'comment_delete_multiple',
+      'entity report access callback' => 'comment_mollom_entity_report_access',
     );
   }
   return $forms;
@@ -3349,6 +3701,24 @@ function comment_mollom_form_info($form_id) {
 }
 
 /**
+ * Entity report access callback for comments.
+ *
+ * @param $entity
+ *   Optional entity object to check access to a specific entity.
+ */
+function comment_mollom_entity_report_access($entity = NULL) {
+  // All comments can be reported as long as the user has access to view the
+  // node and it's comments.
+  if (!user_access('access comments')) {
+    return FALSE;
+  }
+  if (!empty($entity)) {
+    return node_access('view', node_load($entity->nid));
+  }
+  return TRUE;
+}
+
+/**
  * Mollom form moderation callback for comments.
  */
 function comment_mollom_form_moderation(&$form, &$form_state) {
@@ -3375,6 +3745,22 @@ function mollom_form_comment_multiple_delete_confirm_submit($form, &$form_state)
     }
   }
   mollom_data_delete_multiple('comment', $cids);
+}
+
+/**
+ * Implements hook_form_FORMID_alter().
+ */
+function mollom_form_comment_admin_overview_alter(&$form, &$form_state) {
+  module_load_include('inc', 'mollom', 'mollom.flag');
+  _mollom_table_add_flag_counts('comment', $form['comments']['#header'], $form['comments']['#options']);
+}
+
+/**
+ * Implements hook_form_FORMID_alter().
+ */
+function mollom_form_node_form_alter(&$form, &$form_state, $form_id) {
+  module_load_include('inc', 'mollom', 'mollom.flag');
+  mollom_flag_node_form_alter($form, $form_state, $form_id);
 }
 
 /**

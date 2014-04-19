@@ -261,7 +261,15 @@
  *     access to Mollom's dedicated "report to Mollom" form, which should return
  *     either TRUE or FALSE (similar to menu access callbacks).
  *   - report delete callback: (optional) A function name to invoke to delete an
- *     entity after reporting it to Mollom.
+ *     entity after reporting it to Mollom.  The callback will receive the
+ *     entity id as an argument.
+ *   - entity report access callback: (optional) A function name to invoke to
+ *     determine if a user has access to report the entity that the form is for.
+ *     In order for a user to have the option to flag content as inappropriate,
+ *     the user must have the "report to mollom" permission as well as access to
+ *     report the specific entity.
+ *     Note: This function is required if the flag is inappropriate feature is
+ *     desired on the form.
  *
  * @see hook_mollom_form_info()
  */
@@ -278,6 +286,7 @@ function hook_mollom_form_list() {
     // integration below instead.
     'report access callback' => 'mymodule_comment_report_access',
     'report delete callback' => 'mymodule_comment_report_delete',
+    'entity report access callback' => 'mymodule_comment_report_access',
   );
   // Mymodule's user registration form.
   $forms['mymodule_user_register'] = array(

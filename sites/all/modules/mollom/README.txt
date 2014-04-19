@@ -120,6 +120,7 @@ A: Out of the box, the Mollom module allows to protect Drupal core forms only.
 For questions pertaining to the Mollom service go to https://mollom.com/support
 
 Current maintainers:
+* Lisa Backer (eshta) - http://drupal.org/user/1951462
 * Daniel F. Kudwien (sun) - http://drupal.org/user/54136
 * Dries Buytaert (Dries) - http://drupal.org/user/1
 

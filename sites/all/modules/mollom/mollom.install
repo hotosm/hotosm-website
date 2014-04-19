@@ -30,7 +30,7 @@ function mollom_requirements($phase = 'runtime', $check = TRUE) {
       )),
     );
     // Immediately return if everything is in order.
-    if ($status === TRUE) {
+    if ($status['isVerified']) {
       return $requirements;
     }
     // If not, something is wrong; prepare the requirements entry and set
@@ -54,7 +54,7 @@ function mollom_requirements($phase = 'runtime', $check = TRUE) {
       $requirements['mollom']['description'] = t('The Mollom Testing API is not available currently.');
     }
     // Missing API keys.
-    elseif (!$status['keys']) {
+    elseif (!$status['isConfigured']) {
       $requirements['mollom']['value'] = t('Not configured');
       $requirements['mollom']['description'] = t('The Mollom API keys are not configured yet. !admin-message', array(
         '!admin-message' => $admin_message,
@@ -196,6 +196,41 @@ function mollom_schema() {
         'not null' => TRUE,
         'default' => '',
       ),
+      'flags_spam' => array(
+        'description' => 'Count of spam feedback reports.',
+        'type' => 'int',
+        'size' => 'medium',
+        'not null' => TRUE,
+        'default' => 0,
+      ),
+      'flags_ham' => array(
+        'description' => 'Count of ham feedback reports.',
+        'type' => 'int',
+        'size' => 'medium',
+        'not null' => TRUE,
+        'default' => 0,
+       ),
+      'flags_profanity' => array(
+        'description' => 'Count of profanity feedback reports.',
+        'type' => 'int',
+        'size' => 'medium',
+        'not null' => TRUE,
+        'default' => 0,
+      ),
+      'flags_quality' => array(
+        'description' => 'Count of low quality feedback reports.',
+        'type' => 'int',
+        'size' => 'medium',
+        'not null' => TRUE,
+        'default' => 0,
+      ),
+      'flags_unwanted' => array(
+        'description' => 'Count of unwanted feedback reports.',
+        'type' => 'int',
+        'size' => 'medium',
+        'not null' => TRUE,
+        'default' => 0,
+       ),
     ),
     'indexes' => array(
       'contentId' => array('contentId'),
@@ -1117,3 +1152,53 @@ function mollom_update_7210() {
   }
 }
 
+/**
+ * Add columns for "report as inapporpriate" counts.
+ */
+function mollom_update_7211() {
+  if (!db_field_exists('mollom', 'flags_spam')) {
+    db_add_field('mollom', 'flags_spam', array(
+      'description' => 'Count of spam feedback reports.',
+      'type' => 'int',
+      'size' => 'medium',
+      'not null' => TRUE,
+      'default' => 0,
+    ));
+  }
+  if (!db_field_exists('mollom', 'flags_ham')) {
+    db_add_field('mollom', 'flags_ham', array(
+      'description' => 'Count of ham feedback reports.',
+      'type' => 'int',
+      'size' => 'medium',
+      'not null' => TRUE,
+      'default' => 0,
+    ));
+  }
+  if (!db_field_exists('mollom', 'flags_profanity')) {
+    db_add_field('mollom', 'flags_profanity', array(
+      'description' => 'Count of profanity feedback reports.',
+      'type' => 'int',
+      'size' => 'medium',
+      'not null' => TRUE,
+      'default' => 0,
+    ));
+  }
+  if (!db_field_exists('mollom', 'flags_quality')) {
+    db_add_field('mollom', 'flags_quality', array(
+      'description' => 'Count of low quality feedback reports.',
+      'type' => 'int',
+      'size' => 'medium',
+      'not null' => TRUE,
+      'default' => 0,
+    ));
+  }
+  if (!db_field_exists('mollom', 'flags_unwanted')) {
+    db_add_field('mollom', 'flags_unwanted', array(
+      'description' => 'Count of unwanted feedback reports.',
+      'type' => 'int',
+      'size' => 'medium',
+      'not null' => TRUE,
+      'default' => 0,
+    ));
+  }
+}
