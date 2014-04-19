@@ -25,7 +25,7 @@ function video_embed_field_video_embed_handler_info() {
       'width' => '640px',
       'height' => '360px',
       'autoplay' => 0,
-      'hd' => 1,
+      'vq' => 'large',
       'rel' => 0,
       'autohide' => 2,
       'showinfo' => 1,
@@ -300,11 +300,18 @@ function video_embed_field_handler_youtube_form($defaults) {
     '#description' => t('Play the video immediately.'),
     '#default_value' => $defaults['autoplay'],
   );
-  $form['hd'] = array(
-    '#type' => 'checkbox',
-    '#title' => t('Use HD'),
-    '#description' => t('Attempt to play the video in HD if available.'),
-    '#default_value' => $defaults['hd'],
+  $form['vq'] = array(
+    '#type' => 'select',
+    '#title' => t('Video quality'),
+    '#options' => array(
+      'small' => t('Small (240p)'),
+      'medium' => t('Medium (360p)'),
+      'large' => t('Large (480p)'),
+      'hd720' => t('HD 720p'),
+      'hd1080' => t('HD 10800p'),
+    ),
+    '#default_value' => $defaults['vq'],
+    '#description' => t('Attempt to play the video in certain quality if available.'),
   );
   $form['rel'] = array(
     '#type' => 'checkbox',

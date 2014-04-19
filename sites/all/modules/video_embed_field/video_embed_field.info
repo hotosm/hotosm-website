@@ -4,11 +4,15 @@ core = 7.x
 package = Media
 configure = admin/config/media/vef_video_styles
 
+files[] = video_embed_field.migrate.inc
+files[] = views/handlers/views_embed_field_views_handler_field_thumbnail_path.inc
+
 dependencies[] = ctools
 dependencies[] = image
-; Information added by drupal.org packaging script on 2013-10-19
-version = "7.x-2.0-beta5+11-dev"
+
+; Information added by Drupal.org packaging script on 2014-02-05
+version = "7.x-2.0-beta7"
 core = "7.x"
 project = "video_embed_field"
-datestamp = "1382151934"
+datestamp = "1391588905"
 

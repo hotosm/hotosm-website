@@ -10,7 +10,7 @@ $plugin = array(
   'menu' => array(
     'menu prefix' => 'admin/config/media',
     'menu item' => 'vef_video_styles',
-    'menu title' => 'Configure Video Embed Styles',
+    'menu title' => 'Video Embed Styles',
     'menu description' => 'Administer Video Embed Field\'s video styles.',
   ),
   // Define user interface texts.
@@ -22,5 +22,8 @@ $plugin = array(
   'form' => array(
     'settings' => 'video_embed_field_video_style_form',
     // 'submit' and 'validate' are also valid callbacks.
+  ),
+  'export' => array(
+    'admin_title' => 'title',
   ),
 );

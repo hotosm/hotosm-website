@@ -5,9 +5,9 @@ core = 7.x
 dependencies[] = file
 files[] = multiupload_filefield_widget.module
 files[] = multiupload_filefield_widget.test
-; Information added by  packaging script on 2013-11-25
-version = "7.x-1.12"
+; Information added by Drupal.org packaging script on 2014-01-04
+version = "7.x-1.13"
 core = "7.x"
 project = "multiupload_filefield_widget"
-datestamp = "1385379809"
+datestamp = "1388873905"
 

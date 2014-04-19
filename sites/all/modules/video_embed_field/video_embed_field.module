@@ -53,12 +53,14 @@ function video_embed_field_default_video_embed_styles() {
   $normal->disabled = FALSE; /* Edit this to true to make a default video_embed_style disabled initially */
   $normal->api_version = 1;
   $normal->name = 'normal';
+  $normal->title = 'Normal';
   $normal->data = array();
 
   $teaser = new stdClass;
   $teaser->disabled = FALSE; /* Edit this to true to make a default video_embed_style disabled initially */
   $teaser->api_version = 1;
   $teaser->name = 'teaser';
+  $teaser->title = 'Teaser';
   $teaser->data = array();
 
   //add in our settings for each of the handlers
@@ -90,68 +92,6 @@ function video_embed_field_menu() {
 }
 
 /**
- * Get an array of all styles and their settings.
- *
- * @return
- *   An array of styles keyed by the video style ID (vsid).
- * @see video_embed_field_video_style_load()
- */
-function video_embed_field_video_styles() {
-  $styles = &drupal_static(__FUNCTION__);
-
-  // Grab from cache or build the array.
-  if (!isset($styles)) {
-    // load the style via ctools - which will handle all the caching for us -
-    // however, because it does a bit more logic, lets still statically cache this function
-    ctools_include('export');
-    $styles = ctools_export_load_object('vef_video_styles');
-  }
-
-  return $styles;
-}
-
-/**
- * Load a style by style name or ID. May be used as a loader for menu items.
- *
- * Note that you may also use ctools_export_load_object with the key being vef_video_styles
- *
- * @param $name
- *   The name of the style.
- * @param $isid
- *   Optional. The numeric id of a style if the name is not known.
- * @return
- *   An video style array containing the following keys:
- *   - "vsid": The unique image style ID.
- *   - "name": The unique image style name.
- *   - "data": An array of video settings within this video style.
- *   If the video style name or ID is not valid, an empty array is returned.
- */
-function video_embed_field_video_style_load($name = NULL, $vsid = NULL) {
-  $styles = video_embed_field_video_styles();
-
-  // If retrieving by name.
-  if (isset($name) && isset($styles[$name])) {
-    $style = $styles[$name];
-  } // If retrieving by image style id.
-  elseif (!isset($name) && isset($vsid)) {
-    foreach ($styles as $name => $database_style) {
-      if (isset($database_style['vsid']) && $database_style['vsid'] == $vsid) {
-        $style = $database_style;
-        break;
-      }
-    }
-  }
-
-  //if we found a style return it
-  if (isset($style)) {
-    return $style;
-  }
-
-  // Otherwise the style was not found.
-  return FALSE;
-}
-
-/**
  * Implements hook_permission().
  */
 function video_embed_field_permission() {
@@ -180,6 +120,60 @@ function video_embed_field_theme() {
       'variables' => array('image_url' => NULL, 'image_style' => 'normal', 'video_url' => NULL, 'video_style' => NULL, 'video_data' => array()),
     ),
   );
+}
+
+/**
+ * Implements hook_views_api().
+ */
+function video_embed_field_views_api() {
+  return array(
+    'api' => 3,
+    'path' => drupal_get_path('module', 'video_embed_field') . '/views',
+  );
+}
+
+/**
+ * Get an array of all styles and their settings.
+ *
+ * @return array
+ *   An array of styles keyed by the video style name (name).
+ *
+ * @see video_embed_field_video_style_load()
+ */
+function video_embed_field_video_styles() {
+  $styles = &drupal_static(__FUNCTION__);
+
+  // Grab from cache or build the array.
+  if (!isset($styles)) {
+    // load the style via ctools - which will handle all the caching for us -
+    // however, because it does a bit more logic, lets still statically cache this function
+    ctools_include('export');
+    $styles = ctools_export_load_object('vef_video_styles');
+  }
+
+  return $styles;
+}
+
+/**
+ * Load a style by style name. May be used as a loader for menu items.
+ *
+ * Note that you may also use ctools_export_load_object with the key being
+ * vef_video_styles
+ *
+ * @param $name
+ *   The name of the style.
+ *
+ * @return
+ *   An video style array containing the following keys:
+ *   - "name": The unique video style ID.
+ *   - "title": The human readable video style name.
+ *   - "data": An array of video settings within this video style.
+ *   If the video style name or ID is not valid, an empty array is returned.
+ */
+function video_embed_field_video_style_load($name) {
+  $styles = video_embed_field_video_styles();
+
+  return isset($styles[$name]) ? $styles[$name] : FALSE;
 }
 
 /**
@@ -271,7 +265,9 @@ function video_embed_field_video_style_options($include_empty = TRUE) {
   if ($include_empty && !empty($styles)) {
     $options[''] = t('<none>');
   }
-  $options = array_merge($options, drupal_map_assoc(array_keys($styles)));
+  foreach ($styles as $style) {
+    $options[$style->name] = $style->title;
+  }
   if (empty($options)) {
     $options[''] = t('No defined styles');
   }
@@ -286,9 +282,21 @@ function video_embed_field_filter_info() {
     'title' => t('Video Embedding'),
     'description' => t('Replaces [VIDEO::http://www.youtube.com/watch?v=someVideoID::aVideoStyle] tags with embedded videos.'),
     'process callback' => 'video_embed_field_filter_process',
+    'tips callback' => '_filter_video_embed_tips',
   );
 
   return $filters;
+}
+
+/**
+ * Implements callback_filter_tips().
+ *
+ * Provides help for the URL filter.
+ *
+ * @see filter_filter_info()
+ */
+function _filter_video_embed_tips($filter, $format, $long = FALSE) {
+  return t('Replaces [VIDEO::http://www.youtube.com/watch?v=someVideoID::aVideoStyle] tags with embedded videos.');
 }
 
 /**
@@ -298,7 +306,6 @@ function video_embed_field_filter_process($text, $filter, $format) {
   preg_match_all('/ \[VIDEO:: ( [^\[\]]+ )* \] /x', $text, $matches);
 
   $tag_match = (array) array_unique($matches[1]);
-  $handlers = video_embed_get_handlers();
 
   foreach ($tag_match as $tag) {
     $parts = explode('::', $tag);
@@ -382,44 +389,16 @@ function template_preprocess_video_embed_field_embed_code(&$variables) {
  * @ingroup themeable
  */
 function theme_video_embed_field_colorbox_code($variables) {
-  $style = video_embed_field_video_style_load($variables['video_style']);
+  $path = video_embed_field_get_ajax_url($variables['video_url'], $variables['video_style']);
 
-  // If there was an issue load in the default style
-  if ($style == FALSE) {
-    $style = video_embed_field_video_style_load('normal');
-  }
+  $image = array(
+    '#theme' => 'image_formatter',
+    '#item' => array('uri' => $variables['image_url']),
+    '#image_style' => $variables['image_style'],
+    '#path' => $path,
+  );
 
-  $handler = video_embed_get_handler($variables['video_url']);
-
-  $data = $style->data[$handler['name']];
-
-  //Create a unique ID for colorbox inline
-  $id = uniqid('video_embed_field-' . rand());
-
-  if ($variables['image_style'] == 'none') {
-    $image = array(
-      array(
-        '#theme' => 'image',
-        '#path' => $variables['image_url'],
-      ),
-    );
-  }
-  else {
-    $image = array(
-      '#theme' => 'image_style',
-      '#path' => $variables['image_url'],
-      '#style_name' => $variables['image_style'],
-    );
-  }
-
-  $image = drupal_render($image);
-
-  // Write values for later AJAX load
-  $hash = _video_embed_field_store_video($variables['video_url'], $variables['video_style']);
-
-  $output = l($image, base_path() . '?q=vef/load/' . $hash . '&width=' . ($data['width']) . '&height=' . ($data['height'] + 3), array('html' => TRUE, 'external' => TRUE, 'attributes' => array('class' => array('colorbox-load'))));
-
-  return $output;
+  return drupal_render($image);
 }
 
 /**
@@ -443,7 +422,7 @@ function video_embed_field_thumbnail_url($url) {
  * @param string $url
  *   A video URL of the data array you want returned
  *
- * @return array|false $data
+ * @return array|false
  *   An array of video data, or FALSE on error
  */
 function video_embed_field_get_video_data($url) {
@@ -454,6 +433,48 @@ function video_embed_field_get_video_data($url) {
     return $data;
   }
   return FALSE;
+}
+
+/**
+ * Generates the AJAX path array from the video URL and the video_style.
+ *
+ * @param string $video_url
+ *   The URL to the video.
+ * @param string $video_style
+ *   The video style to render the video.
+ *
+ * @return array
+ *   The AJAX path array
+ */
+function video_embed_field_get_ajax_url($video_url, $video_style) {
+  $style = video_embed_field_video_style_load($video_style);
+
+  // If there was an issue load in the default style
+  if ($style == FALSE) {
+    $style = video_embed_field_video_style_load('normal');
+  }
+
+  $handler = video_embed_get_handler($video_url);
+
+  $data = $style->data[$handler['name']];
+
+  // Write values for later AJAX load
+  $hash = _video_embed_field_store_video($video_url, $video_style);
+
+  return array(
+    'path' => 'vef/load/' . $hash,
+    'options' => array(
+      'html' => TRUE,
+      'absolute' => TRUE,
+      'attributes' => array(
+        'class' => array('colorbox-load')
+      ),
+      'query' => array(
+        'width' => $data['width'],
+        'height' => $data['height'] + 5
+      )
+    ),
+  );
 }
 
 /**
@@ -481,7 +502,7 @@ function _video_embed_code_get_settings_str($settings = array()) {
   $values = array();
 
   foreach ($settings as $name => $value) {
-    if (empty($value)) {
+    if (!isset($value)) {
       $values[] = $name;
     }
     else {
@@ -567,4 +588,3 @@ function _video_embed_field_load_video($hash) {
 function _video_embed_field_hash($video_url, $video_style) {
   return md5('vef' . $video_url . $video_style);
 }
-

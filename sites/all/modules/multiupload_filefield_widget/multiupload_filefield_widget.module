@@ -77,7 +77,9 @@ function mfw_managed_file_value(&$element, $input = FALSE, $form_state = NULL) {
   // Process any input and save new uploads.
   if ($input !== FALSE) {
     $return = $input;
-    $element['#file_upload_delta_original'] = isset($form_state['complete form'][$element['#parents'][0]][$element['#parents'][1]]['#file_upload_delta']) ? $form_state['complete form'][$element['#parents'][0]][$element['#parents'][1]]['#file_upload_delta'] : 0;
+
+    $element_parent = drupal_array_get_nested_value($form_state['complete form'], array_slice($element['#parents'],0,-1));
+    $element['#file_upload_delta_original'] = isset($element_parent['#file_upload_delta'])? $element_parent['#file_upload_delta'] : 0;
 
     // Uploads take priority over all other values.
     if ($file = mfw_managed_file_save_upload($element)) {

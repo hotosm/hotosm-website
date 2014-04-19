@@ -5,7 +5,7 @@
  */
 
 class MFWTestCase extends DrupalWebTestCase {
-  public function getInfo() {
+  public static function getInfo() {
     return array(
       'name' => 'MFW functionality',
       'description' => 'Test stuff for Multiupload Filefield Widget.',

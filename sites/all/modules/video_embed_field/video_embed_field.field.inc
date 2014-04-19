@@ -20,8 +20,67 @@ function video_embed_field_field_info() {
       ),
       'default_widget' => 'video_embed_field_video',
       'default_formatter' => 'video_embed_field',
+      'property_type' => 'video_embed_field',
+      'property_callbacks' => array('video_embed_field_property_info_callback'),
     ),
   );
+}
+
+/**
+ * Property callback for the Entity Metadata framework.
+ */
+function video_embed_field_property_info_callback(&$info, $entity_type, $field, $instance, $field_type) {
+  // Apply the default.
+  entity_metadata_field_default_property_callback($info, $entity_type, $field, $instance, $field_type);
+
+  // Finally add in instance specific property info.
+  $name = $field['field_name'];
+  $property = &$info[$entity_type]['bundles'][$instance['bundle']]['properties'][$name];
+  $property['type'] = ($field['cardinality'] != 1) ? 'list<video_embed_field>' : 'video_embed_field';
+  $property['property info'] = video_embed_field_data_property_info('Video embed');
+  $property['getter callback'] = 'entity_metadata_field_verbatim_get';
+  $property['setter callback'] = 'entity_metadata_field_verbatim_set';
+}
+
+/**
+ * Defines info for the properties of the video_embed_field data structure.
+ */
+function video_embed_field_data_property_info($name = NULL) {
+  // Build an array of basic property information for video_embed_field.
+  $properties = array(
+    'video_url' => array(
+      'label' => 'Video URL',
+      'type' => 'uri',
+      'setter callback' => 'entity_property_verbatim_set',
+    ),
+    'thumbnail_path' => array(
+      'label' => 'Thumbnail path',
+      'type' => 'uri',
+      'getter callback' => 'entity_property_verbatim_get_url'
+    ),
+    'description' => array(
+      'label' => 'Description',
+      'type' => 'text',
+      'setter callback' => 'entity_property_verbatim_set',
+    ),
+  );
+
+  // Add the default values for each of the video_embed_field properties.
+  foreach ($properties as $key => &$value) {
+    $value += array(
+      'description' => !empty($name) ? t('!label of field %name', array('!label' => $value['label'], '%name' => $name)) : '',
+    );
+  }
+
+  return $properties;
+}
+
+/**
+ * Gets the property just as it is set in the data and converts to absolute url.
+ */
+function entity_property_verbatim_get_url($data, array $options, $name, $type, $info) {
+  $property = entity_property_verbatim_get($data, $options, $name, $type, $info);
+  return file_create_url($property);
 }
 
 /**
@@ -209,11 +268,16 @@ function video_embed_field_field_formatter_info() {
         'description_position' => 'bottom'
       ),
     ),
+    'video_embed_field_url' => array(
+      'label' => t('URL to Video'),
+      'field types' => array('video_embed_field'),
+      'settings' => array(),
+    ),
     'video_embed_field_thumbnail' => array(
       'label' => t('Thumbnail Preview'),
       'field types' => array('video_embed_field'),
       'settings' => array(
-        'image_style' => 'none',
+        'image_style' => '',
         'description' => 1,
         'description_position' => 'bottom',
         'image_link' => 'none',
@@ -226,9 +290,16 @@ function video_embed_field_field_formatter_info() {
       'field types' => array('video_embed_field'),
       'settings' => array(
         'video_style' => 'normal',
-        'image_style' => 'none',
+        'image_style' => '',
         'description' => 1,
         'description_position' => 'bottom',
+      ),
+    );
+    $info['video_embed_field_url_colorbox'] = array(
+      'label' => t('URL to Video w/Colorbox'),
+      'field types' => array('video_embed_field'),
+      'settings' => array(
+        'video_style' => 'normal',
       ),
     );
   }
@@ -243,7 +314,7 @@ function video_embed_field_field_formatter_settings_form($field, $instance, $vie
   $settings = $display['settings'];
   $element = array();
 
-  if ($display['type'] == 'video_embed_field' || $display['type'] == 'video_embed_field_thumbnail_colorbox') {
+  if ($display['type'] == 'video_embed_field' || $display['type'] == 'video_embed_field_thumbnail_colorbox' || $display['type'] == 'video_embed_field_url_colorbox') {
     $video_styles = video_embed_field_video_style_options(FALSE);
     $element['video_style'] = array(
       '#title' => t('Video style'),
@@ -264,7 +335,7 @@ function video_embed_field_field_formatter_settings_form($field, $instance, $vie
 
   if ($display['type'] == 'video_embed_field_thumbnail') {
     $link_types = array(
-      'node' => t('Node'),
+      'content' => t('Content'),
       'source' => t('Video Source'),
     );
     $element['image_link'] = array(
@@ -276,7 +347,7 @@ function video_embed_field_field_formatter_settings_form($field, $instance, $vie
     );
   }
 
-  if ($instance['settings']['description_field']) {
+  if ($instance['settings']['description_field'] && $display['type'] != 'video_embed_field_url' && $display['type'] != 'video_embed_field_url_colorbox') {
     $element['description'] = array(
       '#title' => t('Show description'),
       '#type' => 'checkbox',
@@ -291,6 +362,11 @@ function video_embed_field_field_formatter_settings_form($field, $instance, $vie
         'bottom' => t('Bottom')
       ),
       '#default_value' => $settings['description_position'],
+      '#states' => array(
+        'visible' => array(
+          ':input[name="fields[' . $field['field_name'] . '][settings_edit_form][settings][description]"]' => array('checked' => TRUE),
+        ),
+      ),
     );
   }
   return $element;
@@ -303,7 +379,7 @@ function video_embed_field_field_formatter_settings_summary($field, $instance, $
   $settings = $display['settings'];
 
   $summary = array();
-  if ($display['type'] == 'video_embed_field' || $display['type'] == 'video_embed_field_thumbnail_colorbox') {
+  if ($display['type'] == 'video_embed_field' || $display['type'] == 'video_embed_field_thumbnail_colorbox' || $display['type'] == 'video_embed_field_url_colorbox') {
     $video_styles = video_embed_field_video_style_options(FALSE);
     // Styles could be lost because of enabled/disabled modules that defines
     // their styles in code.
@@ -327,11 +403,13 @@ function video_embed_field_field_formatter_settings_summary($field, $instance, $
     }
   }
 
-  if ($settings['description'] && $instance['settings']['description_field']) {
-    $summary[] = t('Show description');
-  }
-  elseif ($instance['settings']['description_field']) {
-    $summary[] = t('Hide description');
+  if (isset($settings['description'])) {
+    if ($settings['description'] && $instance['settings']['description_field']) {
+      $summary[] = t('Show description');
+    }
+    elseif ($instance['settings']['description_field']) {
+      $summary[] = t('Hide description');
+    }
   }
 
   return implode('<br />', $summary);
@@ -343,6 +421,10 @@ function video_embed_field_field_formatter_settings_summary($field, $instance, $
 function video_embed_field_field_formatter_view($entity_type, $entity, $field, $instance, $langcode, $items, $display) {
   $element = array();
   $settings = $display['settings'];
+
+  if ($display['type'] == 'video_embed_field_thumbnail' && $display['settings']['image_link'] == 'content') {
+    $path = entity_uri($entity_type, $entity);
+  }
 
   foreach ($items as $delta => $item) {
     //create the render array for the description
@@ -368,36 +450,28 @@ function video_embed_field_field_formatter_view($entity_type, $entity, $field, $
         ),
       );
     }
+    else if ($display['type'] == 'video_embed_field_url') {
+      $element[$delta] = array(
+        array(
+          '#markup' => url($item['video_url']),
+        ),
+      );
+    }
     elseif ($display['type'] == 'video_embed_field_thumbnail') {
       if (isset($item['thumbnail_path'])) {
-        if (empty($settings['image_style']) || $settings['image_style'] == 'none') {
-          $element[$delta] = array(
-            array(
-              '#theme' => 'image',
-              '#path' => $item['thumbnail_path'],
-            ),
+        if ($display['settings']['image_link'] == 'source') {
+          $path = array(
+            'path' => $item['video_url'],
+            'options' => array(),
           );
         }
-        else {
-          $element[$delta] = array(
-            array(
-              '#theme' => 'image_style',
-              '#path' => $item['thumbnail_path'],
-              '#style_name' => $settings['image_style'],
-            ),
-          );
-        }
-        if ($settings['image_link'] == 'source') {
-          $link = explode('|||', l('|||', $item['video_url']));
-          $element[$delta]['#prefix'] = $link[0];
-          $element[$delta]['#suffix'] = $link[1];
-        }
-        elseif ($settings['image_link'] == 'node') {
-          $nid = $entity->nid;
-          $link = explode('|||', l('|||', 'node/' . $nid));
-          $element[$delta]['#prefix'] = $link[0];
-          $element[$delta]['#suffix'] = $link[1];
-        }
+
+        $element[$delta] = array(
+          '#theme' => 'image_formatter',
+          '#item' => array('uri' => $item['thumbnail_path']),
+          '#image_style' => $display['settings']['image_style'],
+          '#path' => isset($path) ? $path : '',
+        );
       } //incase no thumbnail was downloaded / provider doesn't support thumbnails
       else {
         $element[$delta] = array(
@@ -422,6 +496,15 @@ function video_embed_field_field_formatter_view($entity_type, $entity, $field, $
         $element[$delta] = array(
         );
       }
+    }
+    else if ($display['type'] == 'video_embed_field_url_colorbox') {
+      $path = video_embed_field_get_ajax_url($item['video_url'], $display['settings']['video_style']);
+
+      $element[$delta] = array(
+        array(
+          '#markup' => url($path['path'], $path['options']),
+        ),
+      );
     }
     //Get the HTML instead of the array, because we append it to the suffix.
     //This way, the thumbnail link wrapper doesn't make the description a link as well.

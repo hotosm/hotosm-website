@@ -18,6 +18,7 @@ function multiupload_imagefield_widget_field_widget_info() {
       ),
       'settings' => array(
         'progress_indicator' => 'throbber',
+        'preview_image_style' => 'thumbnail',
       ),
     ),
   );
@@ -67,8 +68,7 @@ function multiupload_imagefield_widget_field_widget_form(&$form, &$form_state, $
  * Implements hook_field_widget_settings_form().
  */
 function multiupload_imagefield_widget_field_widget_settings_form($field, $instance) {
-  $widget = $instance['widget'];
-  $settings = $widget['settings'];
+  $settings = $instance['widget']['settings'];
 
   // Use the mfw file widget settings form.
   $form = multiupload_filefield_widget_field_widget_settings_form($field, $instance);
@@ -78,7 +78,7 @@ function multiupload_imagefield_widget_field_widget_settings_form($field, $insta
     '#type' => 'select',
     '#options' => image_style_options(FALSE),
     '#empty_option' => '<' . t('no preview') . '>',
-    '#default_value' => isset($settings['preview_image_style']) ? $settings['preview_image_style'] : NULL,
+    '#default_value' => $settings['preview_image_style'],
     '#description' => t('The preview image will be shown while editing the content.'),
     '#weight' => 15,
   );
