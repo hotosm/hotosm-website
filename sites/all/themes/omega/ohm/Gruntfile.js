@@ -42,18 +42,17 @@ module.exports = function (grunt) {
     compass: {
       options: {
         config: 'config.rb',
-        bundleExec: true
+        bundleExec: true,
+        force: true
       },
       dev: {
         options: {
-          environment: 'development',
-          force: true
+          environment: 'development'
         }
       },
       dist: {
         options: {
-          environment: 'production',
-          force: true
+          environment: 'production'
         }
       }
     },
@@ -74,10 +73,16 @@ module.exports = function (grunt) {
         },
         files: [{
           expand: true,
+          flatten: true,
           cwd: 'js',
-          src: ['**/*.js', '!**/*.min.js'],
           dest: 'js',
-          ext: '.min.js'
+          src: ['**/*.js', '!**/*.min.js'],
+          rename: function(dest, src) {
+            var folder = src.substring(0, src.lastIndexOf('/'));
+            var filename = src.substring(src.lastIndexOf('/'), src.length);
+            filename = filename.substring(0, filename.lastIndexOf('.'));
+            return dest + '/' + folder + filename + '.min.js';
+          }
         }]
       },
       dist: {
@@ -87,10 +92,16 @@ module.exports = function (grunt) {
         },
         files: [{
           expand: true,
+          flatten: true,
           cwd: 'js',
-          src: ['**/*.js', '!**/*.min.js'],
           dest: 'js',
-          ext: '.min.js'
+          src: ['**/*.js', '!**/*.min.js'],
+          rename: function(dest, src) {
+            var folder = src.substring(0, src.lastIndexOf('/'));
+            var filename = src.substring(src.lastIndexOf('/'), src.length);
+            filename = filename.substring(0, filename.lastIndexOf('.'));
+            return dest + '/' + folder + filename + '.min.js';
+          }
         }]
       }
     }

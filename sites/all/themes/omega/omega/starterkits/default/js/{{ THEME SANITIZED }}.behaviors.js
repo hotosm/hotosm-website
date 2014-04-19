@@ -16,12 +16,12 @@
   };
 
   /**
-   * Behaviors are Drupal's way of applying JavaScript to a page. The advantage
-   * of behaviors over simIn short, the advantage of Behaviors over a simple
-   * document.ready() lies in how it interacts with content loaded through Ajax.
-   * Opposed to the 'document.ready()' event which is only fired once when the
-   * page is initially loaded, behaviors get re-executed whenever something is
-   * added to the page through Ajax.
+   * Behaviors are Drupal's way of applying JavaScript to a page. In short, the
+   * advantage of Behaviors over a simple 'document.ready()' lies in how it
+   * interacts with content loaded through Ajax. Opposed to the
+   * 'document.ready()' event which is only fired once when the page is
+   * initially loaded, behaviors get re-executed whenever something is added to
+   * the page through Ajax.
    *
    * You can attach as many behaviors as you wish. In fact, instead of overloading
    * a single behavior with multiple, completely unrelated tasks you should create

@@ -280,6 +280,15 @@ function omega_css_alter(&$css) {
       $css[$key]['weight'] += 100;
     }
   }
+
+  // When using omega_livereload force CSS to be added with link tags, rather
+  // than @import. This prevents Chrome from crashing when using the inspector
+  // while livereload is enabled.
+  if (omega_extension_enabled('development') && omega_theme_get_setting('omega_livereload', TRUE)) {
+    foreach ($css as $key => $value) {
+      $css[$key]['preprocess'] = FALSE;
+    }
+  }
 }
 
 /**

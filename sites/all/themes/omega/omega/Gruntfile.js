@@ -9,27 +9,50 @@ module.exports = function (grunt) {
       },
       sass: {
         files: ['sass/{,**/}*.{scss,sass}'],
-        tasks: ['compass']
+        tasks: ['compass:dev'],
+        options: {
+          livereload: false
+        }
+      },
+      registry: {
+        files: ['*.info', '{,**}/*.{php,inc}'],
+        tasks: ['shell'],
+        options: {
+          livereload: false
+        }
       },
       images: {
         files: ['images/**']
       },
       css: {
-        files: ['stylesheets/{,**/}*.css']
+        files: ['css/{,**/}*.css']
       },
       js: {
-        files: ['js/{,**/}*.js', '!js/{,**/}*.js'],
+        files: ['js/{,**/}*.js', '!js/{,**/}*.min.js'],
         tasks: ['jshint', 'uglify:dev']
       }
     },
 
-    compass: {
+    shell: {
       all: {
+        command: 'drush cache-clear theme-registry'
+      }
+    },
+
+    compass: {
+      options: {
+        config: 'config.rb',
+        bundleExec: true,
+        force: true
+      },
+      dev: {
         options: {
-          environment: 'production',
-          force: true,
-          config: 'config.rb',
-          bundleExec: true
+          environment: 'development'
+        }
+      },
+      dist: {
+        options: {
+          environment: 'production'
         }
       }
     },
@@ -42,20 +65,44 @@ module.exports = function (grunt) {
     },
 
     uglify: {
-      options: {
-        mangle: false,
-        compress: false
+      dev: {
+        options: {
+          mangle: false,
+          compress: false,
+          beautify: true
+        },
+        files: [{
+          expand: true,
+          flatten: true,
+          cwd: 'js',
+          dest: 'js',
+          src: ['**/*.js', '!**/*.min.js'],
+          rename: function(dest, src) {
+            var folder = src.substring(0, src.lastIndexOf('/'));
+            var filename = src.substring(src.lastIndexOf('/'), src.length);
+            filename = filename.substring(0, filename.lastIndexOf('.'));
+            return dest + '/' + folder + filename + '.min.js';
+          }
+        }]
       },
-      all: {
-        files: {
-          'js/jquery.matchmedia.min.js': ['js/jquery.matchmedia.js'],
-          'js/jquery.resizeend.min.js': ['js/jquery.resizeend.js'],
-          'js/jquery.scrollable.min.js': ['js/jquery.matchmedia.js'],
-          'js/omega.admin.min.js': ['js/omega.admin.js'],
-          'js/omega.indicator.min.js': ['js/omega.indicator.js'],
-          'js/omega.mediaqueries.min.js': ['js/omega.mediaqueries.js'],
-          'js/omega.messages.min.js': ['js/omega.messages.js']
-        }
+      dist: {
+        options: {
+          mangle: true,
+          compress: true
+        },
+        files: [{
+          expand: true,
+          flatten: true,
+          cwd: 'js',
+          dest: 'js',
+          src: ['**/*.js', '!**/*.min.js'],
+          rename: function(dest, src) {
+            var folder = src.substring(0, src.lastIndexOf('/'));
+            var filename = src.substring(src.lastIndexOf('/'), src.length);
+            filename = filename.substring(0, filename.lastIndexOf('.'));
+            return dest + '/' + folder + filename + '.min.js';
+          }
+        }]
       }
     }
   });
@@ -64,10 +111,11 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-compass');
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-uglify');
+  grunt.loadNpmTasks('grunt-shell');
 
   grunt.registerTask('build', [
-    'uglify',
-    'compass',
+    'uglify:dist',
+    'compass:dist',
     'jshint'
   ]);
 

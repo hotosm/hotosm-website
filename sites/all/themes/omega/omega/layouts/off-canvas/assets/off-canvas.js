@@ -21,7 +21,6 @@
       $('.l-page').click(function(e) {
         if($('#off-canvas').hasClass('is-visible') && $(e.target).closest('#off-canvas').length === 0) {
           $('#off-canvas').removeClass('is-visible');
-          e.preventDefault();
           e.stopPropagation();
         }
       });

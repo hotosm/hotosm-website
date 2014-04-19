@@ -143,6 +143,9 @@ function omega_form_system_theme_settings_alter(&$form, &$form_state, $form_id =
           '#type' => 'fieldset',
           '#title' => t('@extension extension configuration', array('@extension' => $info['info']['name'])),
           '#description' => $info['info']['description'],
+          '#attributes' => array(
+            'class' => array('omega-extension-settings')
+          ),
           '#states' => array(
             'disabled' => array(
               'input[name="omega_toggle_extension_' . $extension . '"]' => array('checked' => FALSE),

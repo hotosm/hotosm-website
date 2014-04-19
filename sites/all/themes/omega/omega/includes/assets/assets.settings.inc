@@ -141,7 +141,7 @@ function omega_extension_assets_settings_form($element, &$form, $form_state) {
         ),
         '#parents' => array('omega_libraries', $library),
         '#tree' => TRUE,
-        '#attributes' => array('class' => array('omega-settings-container')),
+        '#attributes' => array('class' => array('omega-asset-options')),
         '#collapsible' => TRUE,
         '#collapsed' => TRUE,
       ) + $options;

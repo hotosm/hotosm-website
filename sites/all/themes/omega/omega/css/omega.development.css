@@ -4,7 +4,7 @@
   -ms-border-radius: 5px;
   -o-border-radius: 5px;
   border-radius: 5px;
-  background: url('../images/rgbapng/000000bf-5.png?1384945617');
+  background: url('../images/rgbapng/000000bf-5.png?1390172917');
   background: rgba(0, 0, 0, 0.75);
   z-index: 1000;
   position: fixed;
@@ -19,7 +19,7 @@
 }
 
 .region--debug {
-  background: url('../images/rgbapng/0000001a-5.png?1384945617');
+  background: url('../images/rgbapng/0000001a-5.png?1390172917');
   background: rgba(0, 0, 0, 0.1);
   position: relative;
   min-height: 29px;
@@ -31,7 +31,7 @@
   -ms-border-radius: 3px;
   -o-border-radius: 3px;
   border-radius: 3px;
-  background: url('../images/rgbapng/077dc3bf-5.png?1384945617');
+  background: url('../images/rgbapng/077dc3bf-5.png?1390172917');
   background: rgba(7, 125, 195, 0.75);
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
   font-size: 11px;
