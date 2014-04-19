@@ -39,7 +39,7 @@ $(document).ready(function() {
           _gaq.push(["_trackEvent", "Mails", "Click", this.href.substring(7)]);
         }
         else if (ga.trackOutbound && this.href.match(/^\w+:\/\//i)) {
-          if (ga.trackDomainMode == 2 && isCrossDomain($(this).attr('hostname'), ga.trackCrossDomains)) {
+          if (ga.trackDomainMode == 2 && isCrossDomain(this.hostname, ga.trackCrossDomains)) {
             // Top-level cross domain clicked. document.location is handled by _link internally.
             event.preventDefault();
             _gaq.push(["_link", this.href]);

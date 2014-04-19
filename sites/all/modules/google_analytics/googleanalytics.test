@@ -8,8 +8,8 @@ class GoogleAnalyticsBasicTest extends DrupalWebTestCase {
 
   public static function getInfo() {
     return array(
-      'name' => t('Google Analytics basic tests'),
-      'description' => t('Test basic functionality of Google Analytics module.'),
+      'name' => 'Google Analytics basic tests',
+      'description' => 'Test basic functionality of Google Analytics module.',
       'group' => 'Google Analytics',
     );
   }
@@ -34,7 +34,7 @@ class GoogleAnalyticsBasicTest extends DrupalWebTestCase {
 
     // Check for account code validation.
     $edit['googleanalytics_account'] = $this->randomName(2);
-    $this->drupalPost('admin/config/system/googleanalytics', $edit, 'Save configuration');
+    $this->drupalPost('admin/config/system/googleanalytics', $edit, t('Save configuration'));
     $this->assertRaw(t('A valid Google Analytics Web Property ID is case sensitive and formatted like UA-xxxxxxx-yy.'), '[testGoogleAnalyticsConfiguration]: Invalid Web Property ID number validated.');
   }
 
@@ -189,8 +189,8 @@ class GoogleAnalyticsCustomVariablesTest extends DrupalWebTestCase {
 
   public static function getInfo() {
     return array(
-      'name' => t('Google Analytics Custom Variables tests'),
-      'description' => t('Test custom variables functionality of Google Analytics module.'),
+      'name' => 'Google Analytics Custom Variables tests',
+      'description' => 'Test custom variables functionality of Google Analytics module.',
       'group' => 'Google Analytics',
       'dependencies' => array('token'),
     );
@@ -308,8 +308,8 @@ class GoogleAnalyticsStatusMessagesTest extends DrupalWebTestCase {
 
   public static function getInfo() {
     return array(
-      'name' => t('Google Analytics status messages tests'),
-      'description' => t('Test status messages functionality of Google Analytics module.'),
+      'name' => 'Google Analytics status messages tests',
+      'description' => 'Test status messages functionality of Google Analytics module.',
       'group' => 'Google Analytics',
     );
   }
@@ -333,7 +333,7 @@ class GoogleAnalyticsStatusMessagesTest extends DrupalWebTestCase {
     // Enable logging of errors only.
     variable_set('googleanalytics_trackmessages', array('error' => 'error'));
 
-    $this->drupalPost('user/login', array(), 'Log in');
+    $this->drupalPost('user/login', array(), t('Log in'));
     $this->assertRaw('_gaq.push(["_trackEvent", "Messages", "Error message", "Username field is required."]);', '[testGoogleAnalyticsStatusMessages]: _trackEvent "Username field is required." is shown.');
     $this->assertRaw('_gaq.push(["_trackEvent", "Messages", "Error message", "Password field is required."]);', '[testGoogleAnalyticsStatusMessages]: _trackEvent "Password field is required." is shown.');
 
@@ -354,8 +354,8 @@ class GoogleAnalyticsRolesTest extends DrupalWebTestCase {
 
   public static function getInfo() {
     return array(
-      'name' => t('Google Analytics role tests'),
-      'description' => t('Test roles functionality of Google Analytics module.'),
+      'name' => 'Google Analytics role tests',
+      'description' => 'Test roles functionality of Google Analytics module.',
       'group' => 'Google Analytics',
     );
   }

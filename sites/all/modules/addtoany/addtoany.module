@@ -41,10 +41,10 @@ function addtoany_node_view($node, $view_mode) {
   );
            
   if ($show) {
-	$node->content['links']['#links']['addtoany'] = array(
-        'title' => _addtoany_create_button($node),
-        'html' => TRUE,
-      );
+    $node->content['links']['#links']['addtoany'] = array(
+      'title' => _addtoany_create_button($node),
+      'html' => TRUE,
+    );
   }
   
   // Display in content section?
@@ -121,8 +121,8 @@ function addtoany_block_view($delta = 0) {
   $block = array();
   switch ($delta) {
     case 'addtoany_button':
-		$block['subject'] = t('AddToAny');
-		$block['content'] = _addtoany_create_button(menu_get_object());
+      $block['subject'] = t('AddToAny');
+      $block['content'] = _addtoany_create_button(menu_get_object());
     break;
   }
   return $block;
@@ -168,8 +168,13 @@ function addtoany_page_alter(&$page) {
 					. "target=targets[i];"
 					. "a2a_config.linkname=target.title;"
 					. "a2a_config.linkurl=target.url;"
-					. "if(el)a2a.init('page',{target:el});da2a.done=true;"
+					. "if(el){"
+					  . "a2a.init('page',{target:el});"
+					  . "el.id='';" // Remove ID so AJAX can reuse the same ID
+          . "}"
+          . "da2a.done=true;"
 				. "}"
+				. "da2a.targets=[];" // Empty targets array so AJAX can reuse from index 0
 			. "}"
 		. "};"
 		. "a2a_config.tracking_callback=['ready',da2a.script_onready];"
@@ -199,10 +204,42 @@ function addtoany_page_alter(&$page) {
 function _addtoany_create_script($id_num, $link_name, $link_url) {
 	global $_addtoany_targets, $_addtoany_init;
 	
-	if ( ! isset($_addtoany_targets))
-		$_addtoany_targets = array();
-	$_addtoany_targets[] = "\n{title:'". check_plain($link_name) . "',"
+	if ( ! isset($_addtoany_targets)) {
+  	$_addtoany_targets = array();
+	}
+	
+	$button_config = "\n{title:'". check_plain($link_name) . "',"
 		. "url:'" . check_plain($link_url) . "'}";
+  
+	$_addtoany_targets[] = $button_config;
+	
+	// If doing AJAX
+	if ( isset( $_SERVER['HTTP_X_REQUESTED_WITH'] ) && strtolower( $_SERVER['HTTP_X_REQUESTED_WITH'] ) == 'xmlhttprequest' ) {
+		$javascript_button_config = "<script type=\"text/javascript\">"
+			. "da2a.targets.push("
+				. $button_config
+			. ");";
+		
+		// Output this JS just once
+		if ( ! $_addtoany_init) {
+			// Load once  via AJAX for infinite scroll, etc.
+			$javascript_button_config .= "(function ($)"
+  			. "{"
+          . "Drupal.behaviors.addToAny = {"
+            . "attach: function (context, settings) {"
+              // If not the full document (it's probably AJAX)
+              . "if (context !== document) {"
+                . "if(da2a.script_ready)da2a.init();"
+                . "da2a.script_load();" // Load external script if not already called
+              . "}"
+            . "}"
+          . "}"
+        . "})(jQuery)";
+		}
+		
+		$javascript_button_config .= "</script>";
+	}
+	else $javascript_button_config = '';
 	
 	if ( ! $_addtoany_init) {
 		$javascript_load_early = "<script type=\"text/javascript\">\n"
@@ -216,7 +253,7 @@ function _addtoany_create_script($id_num, $link_name, $link_url) {
 	
 	$_addtoany_init = TRUE;
 	
-	return $javascript_load_early;
+	return $javascript_load_early . $javascript_button_config;
 }
 
 /**
@@ -278,7 +315,8 @@ function _addtoany_create_button($node=NULL) {
 		filter_xss(variable_get('addtoany_image_attributes', 'alt="Share this"'), array()),
 		$button_text
 	);
-	 
+  
+  // ID is later removed by JS (for AJAX)
 	return ( sprintf('
 		<span class="a2a_kit%s a2a_target addtoany_list" id="da2a_%s">
 			%s<a%s href="http://www.addtoany.com/share_save#url=%s&amp;title=%s">%s</a>%s

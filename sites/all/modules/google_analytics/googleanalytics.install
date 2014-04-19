@@ -42,10 +42,12 @@ function googleanalytics_uninstall() {
   variable_del('googleanalytics_trackfiles');
   variable_del('googleanalytics_trackfiles_extensions');
   variable_del('googleanalytics_trackmailto');
+  variable_del('googleanalytics_trackmessages');
   variable_del('googleanalytics_trackoutbound');
   variable_del('googleanalytics_translation_set');
   variable_del('googleanalytics_visibility_pages');
   variable_del('googleanalytics_visibility_roles');
+  variable_del('googleanalytics_privacy_donottrack');
 
   // Remove backup variables if exist. Remove this code in D8.
   variable_del('googleanalytics_codesnippet_after_backup_6300');
