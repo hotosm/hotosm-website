@@ -54,22 +54,19 @@ function wysiwyg_menu() {
     'access arguments' => array('administer filters'),
     'file' => 'wysiwyg.admin.inc',
   );
-  $items['admin/config/content/wysiwyg/list'] = array(
+  $items['admin/config/content/wysiwyg/profile'] = array(
     'title' => 'List',
     'type' => MENU_DEFAULT_LOCAL_TASK,
-    'weight' => -10,
   );
-  $items['admin/config/content/wysiwyg/profile/%wysiwyg_profile'] = array(
-    'title callback' => 'wysiwyg_admin_profile_title',
-    'title arguments' => array(5),
+  $items['admin/config/content/wysiwyg/profile/%wysiwyg_profile/edit'] = array(
+    'title' => 'Edit',
     'page callback' => 'drupal_get_form',
     'page arguments' => array('wysiwyg_profile_form', 5),
     'access arguments' => array('administer filters'),
     'file' => 'wysiwyg.admin.inc',
-  );
-  $items['admin/config/content/wysiwyg/profile/%wysiwyg_profile/edit'] = array(
-    'title' => 'Edit',
-    'type' => MENU_DEFAULT_LOCAL_TASK,
+    'tab_root' => 'admin/config/content/wysiwyg/profile',
+    'tab_parent' => 'admin/config/content/wysiwyg/profile/%wysiwyg_profile',
+    'type' => MENU_LOCAL_TASK,
   );
   $items['admin/config/content/wysiwyg/profile/%wysiwyg_profile/delete'] = array(
     'title' => 'Remove',
@@ -77,6 +74,8 @@ function wysiwyg_menu() {
     'page arguments' => array('wysiwyg_profile_delete_confirm', 5),
     'access arguments' => array('administer filters'),
     'file' => 'wysiwyg.admin.inc',
+    'tab_root' => 'admin/config/content/wysiwyg/profile',
+    'tab_parent' => 'admin/config/content/wysiwyg/profile/%wysiwyg_profile',
     'type' => MENU_LOCAL_TASK,
     'weight' => 10,
   );
@@ -90,45 +89,6 @@ function wysiwyg_menu() {
     'file' => 'wysiwyg.dialog.inc',
   );
   return $items;
-}
-
-/**
- * Display an editor profile title.
- *
- * @param $profile
- *   An editor profile object.
- *
- * @return
- *   The unfiltered name of an editor profile.
- *   Currently the same as the text format name.
- */
-function wysiwyg_admin_profile_title($profile) {
-  $format = filter_format_load($profile->format);
-  return $format->name;
-}
-
-/**
- * Implements hook_admin_menu_map().
- */
-function wysiwyg_admin_menu_map() {
-  if (!user_access('administer filters')) {
-    return;
-  }
-
-  $profiles = wysiwyg_profile_load_all();
-  foreach ($profiles as $key => $profile) {
-    if (empty($profile->editor)) {
-      unset($profiles[$key]);
-    }
-  }
-  $map['admin/config/content/wysiwyg/profile/%wysiwyg_profile'] = array(
-    'parent' => 'admin/config/content/wysiwyg',
-    'hide' => 'admin/config/content/wysiwyg/list',
-    'arguments' => array(
-      array('%wysiwyg_profile' => array_keys($profiles)),
-    ),
-  );
-  return $map;
 }
 
 /**
@@ -260,9 +220,8 @@ function wysiwyg_pre_render_text_format($element) {
     }
   }
   // Use a hidden element for a single text format.
-  if (!$format_field['format']['#access'] || (isset($format_field['#access']) && !$format_field['#access'])) {
-    $format_id = $format_field['format']['#value'];
-    $element['wysiwyg'] = array(
+  if (!$format_field['format']['#access']) {
+    $format_field['wysiwyg'] = array(
       '#type' => 'hidden',
       '#name' => $format_field['format']['#name'],
       '#value' => $format_id,
@@ -271,7 +230,7 @@ function wysiwyg_pre_render_text_format($element) {
         'class' => array('wysiwyg'),
       ),
     );
-    $element['wysiwyg']['#attached']['js'][] = array(
+    $format_field['wysiwyg']['#attached']['js'][] = array(
       'data' => array(
         'wysiwyg' => array(
           'triggers' => array(
@@ -389,7 +348,7 @@ function wysiwyg_load_editor($profile) {
             drupal_add_js($init, array('type' => 'inline') + $default_library_options);
           }
           else {
-            drupal_add_js($uri, $default_library_options);
+            drupal_add_js(file_create_url($uri), $default_library_options);
           }
         }
       }

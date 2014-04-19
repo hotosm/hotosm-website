@@ -38,7 +38,7 @@ Drupal.wysiwyg.editor.attach.ckeditor = function(context, params, settings) {
   // Apply editor instance settings.
   CKEDITOR.config.customConfig = '';
 
-  var $drupalToolbars = $('#toolbar, #admin-menu', Drupal.overlayChild ? window.parent.document : document);
+  var $drupalToolbar = $('#toolbar', Drupal.overlayChild ? window.parent.document : document);
 
   settings.on = {
     instanceReady: function(ev) {
@@ -49,7 +49,7 @@ Drupal.wysiwyg.editor.attach.ckeditor = function(context, params, settings) {
       var tags = CKEDITOR.tools.extend({}, dtd.$block, dtd.$listItem, dtd.$tableContent);
       // Set source formatting rules for each listed tag except <pre>.
       // Linebreaks can be inserted before or after opening and closing tags.
-      if (settings.simple_source_formatting) {
+      if (settings.apply_source_formatting) {
         // Mimic FCKeditor output, by breaking lines between tags.
         for (var tag in tags) {
           if (tag == 'pre') {
@@ -139,10 +139,10 @@ Drupal.wysiwyg.editor.attach.ckeditor = function(context, params, settings) {
         return;
       }
       if (ev.data.command.state == CKEDITOR.TRISTATE_ON) {
-        $drupalToolbars.hide();
+        $drupalToolbar.hide();
       }
       else {
-        $drupalToolbars.show();
+        $drupalToolbar.show();
       }
     }
   };
@@ -184,8 +184,7 @@ Drupal.wysiwyg.editor.instance.ckeditor = {
           editor.on('mode', function(ev) {
             if (ev.editor.mode == 'wysiwyg') {
               // Inject CSS files directly into the editing area head tag.
-              var iframe = $('#cke_contents_' + ev.editor.name + ' iframe, #' + ev.editor.id + '_contents iframe');
-              $('head', iframe.eq(0).contents()).append('<link rel="stylesheet" href="' + settings.css + '" type="text/css" >');
+              $('head', $('#cke_contents_' + ev.editor.name + ' iframe').eq(0).contents()).append('<link rel="stylesheet" href="' + settings.css + '" type="text/css" >');
             }
           });
         }
@@ -200,7 +199,12 @@ Drupal.wysiwyg.editor.instance.ckeditor = {
                   data.node = data.node.$;
                 }
                 if (selection.getType() == CKEDITOR.SELECTION_TEXT) {
-                  data.content = selection.getSelectedText();
+                  if (CKEDITOR.env.ie) {
+                    data.content = selection.getNative().createRange().text;
+                  }
+                  else {
+                    data.content = selection.getNative().toString();
+                  }
                 }
                 else if (data.node) {
                   // content is supposed to contain the "outerHTML".

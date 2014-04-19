@@ -26,13 +26,13 @@ WYSIWYG.getEditor = function (n) {
 // Fix Drupal toolbar obscuring editor toolbar in fullscreen mode.
 var oldMaximize = WYSIWYG.maximize;
 WYSIWYG.maximize = function (n) {
-var $drupalToolbars = $('#toolbar, #admin-menu', Drupal.overlayChild ? window.parent.document : document);
+var $drupalToolbar = $('#toolbar', Drupal.overlayChild ? window.parent.document : document);
   oldMaximize.apply(this, arguments);
   if (this.maximized[n]) {
-    $drupalToolbars.hide();
+    $drupalToolbar.hide();
   }
   else {
-    $drupalToolbars.show();
+    $drupalToolbar.show();
   }
 }
 

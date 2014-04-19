@@ -24,10 +24,8 @@ function wysiwyg_markitup_editor() {
         'files' => array('markitup/jquery.markitup.pack.js'),
       ),
     ),
-    'install note callback' => 'wysiwyg_markitup_install_note',
     'version callback' => 'wysiwyg_markitup_version',
     'themes callback' => 'wysiwyg_markitup_themes',
-    'settings form callback' => 'wysiwyg_markitup_settings_form',
     'settings callback' => 'wysiwyg_markitup_settings',
     'plugin callback' => 'wysiwyg_markitup_plugins',
     'versions' => array(
@@ -37,13 +35,6 @@ function wysiwyg_markitup_editor() {
     ),
   );
   return $editor;
-}
-
-/**
- * Return an install note.
- */
-function wysiwyg_markitup_install_note() {
-  return '<p class="warning">' . t('Only rename the extracted folder from "latest" to "markitup", no other changes needed.') . '</p>';
 }
 
 /**
@@ -88,14 +79,6 @@ function wysiwyg_markitup_version($editor) {
  */
 function wysiwyg_markitup_themes($editor, $profile) {
   return array('simple', 'markitup');
-}
-
-/**
- * Enhances the editor profile settings form for markItUp.
- */
-function wysiwyg_markitup_settings_form(&$form, &$form_state) {
-  $form['basic']['language']['#access'] = FALSE;
-  $form['css']['#access'] = FALSE;
 }
 
 /**
