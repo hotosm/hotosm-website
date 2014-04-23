@@ -222,7 +222,7 @@ function hot_core_strongarm() {
       'display' => array(
         'language' => array(
           'default' => array(
-            'weight' => '3',
+            'weight' => '0',
             'visible' => FALSE,
           ),
         ),
@@ -256,7 +256,7 @@ function hot_core_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'language_count';
-  $strongarm->value = 2;
+  $strongarm->value = 5;
   $export['language_count'] = $strongarm;
 
   $strongarm = new stdClass();
@@ -977,14 +977,12 @@ After logging in, you will be redirected to [user:edit-url] so you can change yo
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'user_mail_register_admin_created_body';
-  $strongarm->value = '[user:name],
+  $strongarm->value = 'Dear [user:name],
 
-A site administrator at [site:name] has created an account for you. You may now log in to [site:login-url] using the following username and password:
+A site administrator at [site:name] has created an account for you. 
 
-username: [user:name]
-password: 
 
-You may also log in by clicking on this link or copying and pasting it in your browser:
+You can log in by clicking on this link or copying and pasting it in your browser:
 
 [user:one-time-login-url]
 
@@ -992,6 +990,7 @@ This is a one-time login, so it can be used only once.
 
 After logging in, you will be redirected to [user:edit-url] so you can change your password.
 
+Your user name is [user:name], but you can change it if you prefer a different one.
 
 --  [site:name] team';
   $export['user_mail_register_admin_created_body'] = $strongarm;
@@ -1078,7 +1077,7 @@ username: [user:name]
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'user_mail_status_activated_notify';
-  $strongarm->value = '1';
+  $strongarm->value = 1;
   $export['user_mail_status_activated_notify'] = $strongarm;
 
   $strongarm = new stdClass();
@@ -1138,7 +1137,7 @@ Your account on [site:name] has been deleted.';
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'user_pictures';
-  $strongarm->value = '0';
+  $strongarm->value = 0;
   $export['user_pictures'] = $strongarm;
 
   $strongarm = new stdClass();
@@ -1187,7 +1186,7 @@ Your account on [site:name] has been deleted.';
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'user_signatures';
-  $strongarm->value = '0';
+  $strongarm->value = 0;
   $export['user_signatures'] = $strongarm;
 
   return $export;

@@ -88,7 +88,6 @@ function hot_core_user_default_permissions() {
   $permissions['access user profiles'] = array(
     'name' => 'access user profiles',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
       'site admin' => 'site admin',
     ),
     'module' => 'user',
@@ -169,9 +168,7 @@ function hot_core_user_default_permissions() {
   // Exported permission: 'administer languages'.
   $permissions['administer languages'] = array(
     'name' => 'administer languages',
-    'roles' => array(
-      'site admin' => 'site admin',
-    ),
+    'roles' => array(),
     'module' => 'locale',
   );
 
@@ -435,7 +432,6 @@ function hot_core_user_default_permissions() {
   $permissions['skip comment approval'] = array(
     'name' => 'skip comment approval',
     'roles' => array(
-      'anonymous user' => 'anonymous user',
       'authenticated user' => 'authenticated user',
       'site admin' => 'site admin',
     ),
@@ -491,7 +487,9 @@ function hot_core_user_default_permissions() {
   // Exported permission: 'use text format 2'.
   $permissions['use text format 2'] = array(
     'name' => 'use text format 2',
-    'roles' => array(),
+    'roles' => array(
+      'site admin' => 'site admin',
+    ),
     'module' => 'filter',
   );
 

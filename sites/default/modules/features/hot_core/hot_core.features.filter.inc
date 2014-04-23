@@ -39,7 +39,7 @@ function hot_core_filter_default_formats() {
         'weight' => -43,
         'status' => 1,
         'settings' => array(
-          'allowed_html' => '<a> <em> <strong> <cite> <blockquote> <code> <ul> <ol> <li> <dl> <dt> <dd> <img> <h2> <h3> <h4> <p> <div> <iframe>',
+          'allowed_html' => '<a> <em> <strong> <cite> <blockquote> <code> <ul> <ol> <li> <dl> <dt> <dd> <img> <h2> <h3> <h4> <p> <br> <div> <iframe>',
           'filter_html_help' => 1,
           'filter_html_nofollow' => 0,
         ),
@@ -99,34 +99,6 @@ function hot_core_filter_default_formats() {
         'settings' => array(
           'filter_url_length' => 72,
         ),
-      ),
-    ),
-  );
-
-  // Exported format: Plain text.
-  $formats[4] = array(
-    'format' => 4,
-    'name' => 'Plain text',
-    'cache' => 1,
-    'status' => 1,
-    'weight' => -6,
-    'filters' => array(
-      'filter_html_escape' => array(
-        'weight' => 0,
-        'status' => 1,
-        'settings' => array(),
-      ),
-      'filter_url' => array(
-        'weight' => 1,
-        'status' => 1,
-        'settings' => array(
-          'filter_url_length' => 72,
-        ),
-      ),
-      'filter_autop' => array(
-        'weight' => 2,
-        'status' => 1,
-        'settings' => array(),
       ),
     ),
   );
