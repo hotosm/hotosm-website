@@ -34,8 +34,10 @@ function hot_updates_field_default_field_bases() {
     ),
     'locked' => 0,
     'module' => 'text',
-    'settings' => array(),
-    'translatable' => 0,
+    'settings' => array(
+      'entity_translation_sync' => FALSE,
+    ),
+    'translatable' => 1,
     'type' => 'text_with_summary',
   );
 
@@ -63,9 +65,12 @@ function hot_updates_field_default_field_bases() {
     'module' => 'image',
     'settings' => array(
       'default_image' => 0,
+      'entity_translation_sync' => array(
+        0 => 'fid',
+      ),
       'uri_scheme' => 'public',
     ),
-    'translatable' => 0,
+    'translatable' => 1,
     'type' => 'image',
   );
 
@@ -92,13 +97,12 @@ function hot_updates_field_default_field_bases() {
     'locked' => 0,
     'module' => 'node_reference',
     'settings' => array(
+      'entity_translation_sync' => FALSE,
       'referenceable_types' => array(
         'book' => 0,
-        'feed_fast' => 0,
-        'page' => 0,
         'project' => 'project',
-        'story' => 0,
         'update' => 0,
+        'video' => 0,
       ),
       'view' => array(
         'args' => array(
@@ -142,6 +146,7 @@ function hot_updates_field_default_field_bases() {
           'parent' => 0,
         ),
       ),
+      'entity_translation_sync' => FALSE,
       'required' => FALSE,
     ),
     'translatable' => 0,
@@ -174,9 +179,12 @@ function hot_updates_field_default_field_bases() {
       'default_file' => 0,
       'display_default' => 1,
       'display_field' => 1,
+      'entity_translation_sync' => array(
+        0 => 'fid',
+      ),
       'uri_scheme' => 'public',
     ),
-    'translatable' => 0,
+    'translatable' => 1,
     'type' => 'file',
   );
 

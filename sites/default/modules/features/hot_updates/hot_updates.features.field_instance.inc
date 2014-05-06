@@ -30,6 +30,7 @@ function hot_updates_field_default_field_instances() {
     'label' => 'Comment',
     'required' => TRUE,
     'settings' => array(
+      'entity_translation_sync' => FALSE,
       'text_processing' => 1,
       'user_register_form' => FALSE,
     ),
@@ -73,6 +74,7 @@ function hot_updates_field_default_field_instances() {
     'required' => 0,
     'settings' => array(
       'display_summary' => TRUE,
+      'entity_translation_sync' => FALSE,
       'text_processing' => 1,
       'user_register_form' => FALSE,
     ),
@@ -114,6 +116,7 @@ Then use the <em>Insert</em> button to place them in the text.',
     'settings' => array(
       'alt_field' => 1,
       'default_image' => 0,
+      'entity_translation_sync' => FALSE,
       'file_directory' => '',
       'file_extensions' => 'png gif jpg jpeg',
       'max_filesize' => '',
@@ -207,6 +210,7 @@ Then use the <em>Insert</em> button to place them in the text.',
     'label' => 'Related Project',
     'required' => 0,
     'settings' => array(
+      'entity_translation_sync' => FALSE,
       'user_register_form' => FALSE,
     ),
     'weight' => -4,
@@ -245,6 +249,7 @@ Then use the <em>Insert</em> button to place them in the text.',
     'label' => 'Update Tags',
     'required' => 0,
     'settings' => array(
+      'entity_translation_sync' => FALSE,
       'user_register_form' => FALSE,
     ),
     'widget' => array(
@@ -283,6 +288,7 @@ Then use the <em>Insert</em> button to place them in the text.',
     'label' => 'Title',
     'required' => TRUE,
     'settings' => array(
+      'entity_translation_sync' => FALSE,
       'hide_label' => array(
         'entity' => FALSE,
         'page' => FALSE,
@@ -341,6 +347,7 @@ Use the <em>Insert</em> button to place a link to the file in the text.',
     'required' => 0,
     'settings' => array(
       'description_field' => 1,
+      'entity_translation_sync' => FALSE,
       'file_directory' => 'documents',
       'file_extensions' => 'txt doc xls pdf ppt pps odt ods odp',
       'max_filesize' => '100 MB',
