@@ -1,7 +1,7 @@
 name = HOT Updates
 core = 7.x
 package = Features
-version = 7.x-2.5
+version = 7.x-3.0
 project = hot_updates
 dependencies[] = context
 dependencies[] = ds
@@ -40,6 +40,7 @@ features[field_instance][] = node-update-body
 features[field_instance][] = node-update-field_images
 features[field_instance][] = node-update-field_update_project
 features[field_instance][] = node-update-taxonomy_vocabulary_3
+features[field_instance][] = node-update-title_field
 features[field_instance][] = node-update-upload
 features[image][] = update_content
 features[node][] = update
