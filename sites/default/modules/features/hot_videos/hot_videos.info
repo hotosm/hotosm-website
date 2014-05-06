@@ -1,7 +1,7 @@
 name = HOT Videos
 core = 7.x
 package = Features
-version = 7.x-1.2
+version = 7.x-2.0
 project = hot_videos
 dependencies[] = hot_core
 dependencies[] = hot_updates
@@ -19,6 +19,7 @@ features[field_instance][] = comment-comment_node_video-comment_body
 features[field_instance][] = node-video-body
 features[field_instance][] = node-video-field_update_project
 features[field_instance][] = node-video-field_video
+features[field_instance][] = node-video-title_field
 features[node][] = video
 features[user_permission][] = administer video styles
 features[user_permission][] = create video content

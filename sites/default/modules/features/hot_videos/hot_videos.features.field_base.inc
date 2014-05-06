@@ -21,8 +21,10 @@ function hot_videos_field_default_field_bases() {
     'indexes' => array(),
     'locked' => 0,
     'module' => 'video_embed_field',
-    'settings' => array(),
-    'translatable' => 0,
+    'settings' => array(
+      'entity_translation_sync' => FALSE,
+    ),
+    'translatable' => 1,
     'type' => 'video_embed_field',
   );
 

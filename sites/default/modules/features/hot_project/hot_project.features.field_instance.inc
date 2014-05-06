@@ -30,6 +30,7 @@ function hot_project_field_default_field_instances() {
     'label' => 'Comment',
     'required' => TRUE,
     'settings' => array(
+      'entity_translation_sync' => FALSE,
       'text_processing' => 1,
       'user_register_form' => FALSE,
     ),
@@ -97,6 +98,7 @@ function hot_project_field_default_field_instances() {
     'required' => 0,
     'settings' => array(
       'display_summary' => TRUE,
+      'entity_translation_sync' => FALSE,
       'text_processing' => 1,
       'user_register_form' => FALSE,
     ),
@@ -191,6 +193,7 @@ function hot_project_field_default_field_instances() {
     'label' => 'BoundingBox',
     'required' => FALSE,
     'settings' => array(
+      'entity_translation_sync' => FALSE,
       'local_solr' => array(
         'enabled' => FALSE,
         'lat_field' => 'lat',
@@ -298,6 +301,7 @@ function hot_project_field_default_field_instances() {
     'label' => 'Contact',
     'required' => FALSE,
     'settings' => array(
+      'entity_translation_sync' => FALSE,
       'text_processing' => 1,
       'user_register_form' => FALSE,
     ),
@@ -393,6 +397,7 @@ function hot_project_field_default_field_instances() {
     'settings' => array(
       'alt_field' => 0,
       'default_image' => 0,
+      'entity_translation_sync' => FALSE,
       'file_directory' => '',
       'file_extensions' => 'png gif jpg jpeg',
       'max_filesize' => '',
@@ -521,6 +526,7 @@ function hot_project_field_default_field_instances() {
         'url_cutoff' => 40,
       ),
       'enable_tokens' => 0,
+      'entity_translation_sync' => FALSE,
       'title' => 'none',
       'title_maxlength' => 128,
       'title_value' => '',
@@ -578,6 +584,7 @@ function hot_project_field_default_field_instances() {
     'label' => 'Title',
     'required' => TRUE,
     'settings' => array(
+      'entity_translation_sync' => FALSE,
       'hide_label' => array(
         'entity' => FALSE,
         'page' => FALSE,
@@ -652,6 +659,7 @@ function hot_project_field_default_field_instances() {
     'required' => 0,
     'settings' => array(
       'description_field' => 1,
+      'entity_translation_sync' => FALSE,
       'file_directory' => '',
       'file_extensions' => 'jpg jpeg gif png txt doc xls pdf ppt pps odt ods odp',
       'max_filesize' => '100 MB',
