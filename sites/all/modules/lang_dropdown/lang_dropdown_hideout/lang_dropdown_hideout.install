@@ -1,0 +1,22 @@
+<?php
+/**
+* @file
+* Install, update, and uninstall functions for the Language switcher dropdown hideout module.
+*/
+
+/**
+ * Implementation of hook_install().
+ */
+function lang_dropdown_hideout_install() {
+  drupal_set_message(st("<b>Language switcher dropdown hideout</b> is installed successfully."));
+}
+
+/**
+ * Implementation of hook_uninstall().
+ */
+function lang_dropdown_hideout_uninstall() {
+  variable_del('lang_dropdown_hideout');
+  variable_del('lang_dropdown_hideout_' . LANGUAGE_TYPE_INTERFACE);
+  variable_del('lang_dropdown_hideout_' . LANGUAGE_TYPE_CONTENT);
+  variable_del('lang_dropdown_hideout_' . LANGUAGE_TYPE_URL);
+}

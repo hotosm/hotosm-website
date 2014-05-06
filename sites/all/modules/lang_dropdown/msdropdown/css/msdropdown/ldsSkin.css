@@ -1,0 +1,89 @@
+/*************** default language dropdown switcher theme - enforce ul paddihg in dd theme **********************/
+.ldsSkin{border:1px solid #c3c3c3;}
+.ldsSkin .divider{border-left:1px solid #c3c3c3; border-right:1px solid #fff; right:24px;}
+.ldsSkin .ddArrow{width:16px;height:16px; margin-top:-8px; background:url(../../images/msdropdown/ldsSkin/dd_arrow.gif) no-repeat;}
+.ldsSkin .ddArrow:hover{background-position:0 100%;}
+.ldsSkin .ddTitle{color:#000;background:#e2e2e4 url(../../images/msdropdown/ldsSkin/title-bg.gif) repeat-x left top;}
+.ldsSkin .ddTitle .ddTitleText{padding:5px 20px 5px 5px;}
+.ldsSkin .ddTitle .ddTitleText .ddTitleText{padding:0;}
+.ldsSkin .ddTitle .description{font-size:12px; color:#666}
+.ldsSkin .ddTitle .ddTitleText img{padding-right:5px; width: 20px; height: 14px;}
+.ldsSkin .ddChild{border:1px solid #c3c3c3; background-color:#fff; left:-1px;}
+.ldsSkin .ddChild li{padding:5px; background-color:#fff; border-bottom:0 !important;}
+.ldsSkin .ddChild li .description{color:#666;}
+.ldsSkin .ddChild li .ddlabel{color:#333;}
+.ldsSkin .ddChild li.hover{background-color:#f2f2f2}
+.ldsSkin .ddChild li img{padding:0 6px 0 0; width: 20px; height: 14px;}
+.ldsSkin .ddChild li.optgroup{padding:0;}
+.ldsSkin .ddChild li.optgroup .optgroupTitle{padding:0 5px; font-weight:bold; font-style:italic}
+.ldsSkin .ddChild li.optgroup ul li{padding:5px 5px 5px 15px}
+.ldsSkin .ddChild li.selected{background-color:#d5d5d5; color:#000;}
+.ldsSkin ul{padding: 0 !important;}
+
+/*************** language dropdown switcher theme with icon afer text **********************/
+.ldsSkinAfter{border:1px solid #c3c3c3;}
+.ldsSkinAfter .divider{border-left:1px solid #c3c3c3; border-right:1px solid #fff; right:24px;}
+.ldsSkinAfter .ddArrow{width:16px;height:16px; margin-top:-8px; background:url(../../images/msdropdown/ldsSkin/dd_arrow.gif) no-repeat;}
+.ldsSkinAfter .ddArrow:hover{background-position:0 100%;}
+.ldsSkinAfter .ddTitle{color:#000;background:#e2e2e4 url(../../images/msdropdown/ldsSkin/title-bg.gif) repeat-x left top; display:block !important;}
+.ldsSkinAfter .ddTitle .ddTitleText{padding:5px 20px 5px 5px; overflow:hidden;}
+.ldsSkinAfter .ddTitle .ddTitleText .ddTitleText{padding:0;}
+.ldsSkinAfter .ddTitle .description{font-size:12px; color:#666}
+.ldsSkinAfter .ddTitle .ddTitleText img{padding-right:10px; float:right !important; width: 20px; height: 14px;}
+.ldsSkinAfter .ddTitle .ddTitleText .ddlabel{float:left; padding-right:6px;}
+.ldsSkinAfter .ddChild{border:1px solid #c3c3c3; background-color:#fff; left:-1px;}
+.ldsSkinAfter .ddChild li{padding:5px; background-color:#fff; border-bottom:0 !important;}
+.ldsSkinAfter .ddChild li .description{color:#666;}
+.ldsSkinAfter .ddChild li .ddlabel{float:left; padding-right:6px; color:#333;}
+.ldsSkinAfter .ddChild li.hover{background-color:#f2f2f2}
+.ldsSkinAfter .ddChild li img{float:right !important; padding:0 10px 0 0; width: 20px; height: 14px;}
+.ldsSkinAfter .ddChild li.optgroup{padding:0;}
+.ldsSkinAfter .ddChild li.optgroup .optgroupTitle{padding:0 5px; font-weight:bold; font-style:italic}
+.ldsSkinAfter .ddChild li.optgroup ul li{padding:5px 5px 5px 15px}
+.ldsSkinAfter .ddChild li.selected{background-color:#d5d5d5; color:#000;}
+.ldsSkinAfter ul{padding: 0 !important;}
+
+/*************** language dropdown switcher theme with no flag, only label **********************/
+.ldsSkinNoIcon{border:1px solid #c3c3c3;}
+.ldsSkinNoIcon .divider{border-left:1px solid #c3c3c3; border-right:1px solid #fff; right:24px;}
+.ldsSkinNoIcon .ddArrow{width:16px;height:16px; margin-top:-8px; background:url(../../images/msdropdown/ldsSkin/dd_arrow.gif) no-repeat;}
+.ldsSkinNoIcon .ddArrow:hover{background-position:0 100%;}
+.ldsSkinNoIcon .ddTitle{color:#000;background:#e2e2e4 url(../../images/msdropdown/ldsSkin/title-bg.gif) repeat-x left top;}
+.ldsSkinNoIcon .ddTitle .ddTitleText{padding:5px 20px 5px 5px;}
+.ldsSkinNoIcon .ddTitle .ddTitleText .ddTitleText{padding:0;}
+.ldsSkinNoIcon .ddTitle .description{font-size:12px; color:#666}
+.ldsSkinNoIcon .ddTitle .ddTitleText img{padding-right:5px; width: 20px; height: 14px; display:none;}
+.ldsSkinNoIcon .ddChild{border:1px solid #c3c3c3; background-color:#fff; left:-1px;}
+.ldsSkinNoIcon .ddChild li{padding:5px; background-color:#fff; border-bottom:0 !important;}
+.ldsSkinNoIcon .ddChild li .description{color:#666;}
+.ldsSkinNoIcon .ddChild li .ddlabel{color:#333;}
+.ldsSkinNoIcon .ddChild li.hover{background-color:#f2f2f2}
+.ldsSkinNoIcon .ddChild li img{padding:0 6px 0 0; width: 20px; height: 14px; display:none;}
+.ldsSkinNoIcon .ddChild li.optgroup{padding:0;}
+.ldsSkinNoIcon .ddChild li.optgroup .optgroupTitle{padding:0 5px; font-weight:bold; font-style:italic}
+.ldsSkinNoIcon .ddChild li.optgroup ul li{padding:5px 5px 5px 15px}
+.ldsSkinNoIcon .ddChild li.selected{background-color:#d5d5d5; color:#000;}
+.ldsSkinNoIcon ul{padding: 0 !important;}
+
+/*************** language dropdown switcher theme with no label, only flag **********************/
+.ldsSkinNoLabel{border:1px solid #c3c3c3;}
+.ldsSkinNoLabel .divider{border-left:1px solid #c3c3c3; border-right:1px solid #fff; right:24px;}
+.ldsSkinNoLabel .ddArrow{width:16px;height:16px; margin-top:-8px; background:url(../../images/msdropdown/ldsSkin/dd_arrow.gif) no-repeat;}
+.ldsSkinNoLabel .ddArrow:hover{background-position:0 100%;}
+.ldsSkinNoLabel .ddTitle{color:#000;background:#e2e2e4 url(../../images/msdropdown/ldsSkin/title-bg.gif) repeat-x left top;}
+.ldsSkinNoLabel .ddTitle .ddTitleText{padding:5px 20px 5px 5px;}
+.ldsSkinNoLabel .ddTitle .ddTitleText .ddTitleText{padding:0;}
+.ldsSkinNoLabel .ddTitle .description{font-size:12px; color:#666}
+.ldsSkinNoLabel .ddTitle .ddlabel{display:none;}
+.ldsSkinNoLabel .ddTitle .ddTitleText img{padding-right:5px; width: 20px; height: 14px;}
+.ldsSkinNoLabel .ddChild{border:1px solid #c3c3c3; background-color:#fff; left:-1px;}
+.ldsSkinNoLabel .ddChild li{padding:5px; background-color:#fff; border-bottom:0 !important;}
+.ldsSkinNoLabel .ddChild li .description{color:#666;}
+.ldsSkinNoLabel .ddChild li .ddlabel{color:#333; display:none;}
+.ldsSkinNoLabel .ddChild li.hover{background-color:#f2f2f2}
+.ldsSkinNoLabel .ddChild li img{padding:0 6px 0 0; width: 20px; height: 14px;}
+.ldsSkinNoLabel .ddChild li.optgroup{padding:0;}
+.ldsSkinNoLabel .ddChild li.optgroup .optgroupTitle{padding:0 5px; font-weight:bold; font-style:italic}
+.ldsSkinNoLabel .ddChild li.optgroup ul li{padding:5px 5px 5px 15px}
+.ldsSkinNoLabel .ddChild li.selected{background-color:#d5d5d5; color:#000;}
+.ldsSkinNoLabel ul{padding: 0 !important;}

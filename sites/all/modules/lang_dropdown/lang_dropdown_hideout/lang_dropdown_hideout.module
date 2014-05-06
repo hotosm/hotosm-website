@@ -1,0 +1,185 @@
+<?php
+
+/**
+ * Implementation of hook_form_alter().
+ */
+function lang_dropdown_hideout_form_block_admin_configure_alter(&$form, &$form_state, $form_id) {
+
+  if ($form['module']['#value'] == 'lang_dropdown' || $form['module']['#value'] == 'locale') {
+
+    $type = $form['delta']['#value'];
+    $languages = locale_language_list('native');
+    $settings = _lang_dropdown_hideout_get_settings($type);
+
+    $form['lang_dropdown']['hideout'] = array(
+      '#type' => 'fieldset',
+      '#title' => t('Hide language settings'),
+      '#description' => t('Select which languages you want to hide to specific roles.'),
+      '#weight' => 1,
+      '#tree' => TRUE,
+      '#parents' => array('lang_dropdown','hideout'),
+    );
+
+    // Retrieve role names for columns.
+    $role_names = user_roles();
+
+    // Fetch language switcher dropdown hideout settings.
+    $hidden_languages = $settings['hidden_languages'];
+
+    // Store $role_names for use when saving the data.
+    $form['lang_dropdown']['hideout']['role_names'] = array(
+      '#type' => 'value',
+      '#value' => $role_names,
+    );
+
+    $form['lang_dropdown']['hideout']['languages'] = array(
+      '#theme' => 'lang_dropdown_hideout_hiddenlanguages',
+    );
+
+    foreach ($languages as $code => $name) {
+      $options[$code] = '';
+      $form['lang_dropdown']['hideout']['languages']['language'][$code] = array(
+        '#type' => 'item',
+        '#markup' => $name,
+      );
+
+      foreach ($role_names as $rid => $name) {
+        // Builds arrays for checked boxes for each role
+        if (isset($hidden_languages[$rid][$code])) {
+          $status[$rid][] = $code;
+        }
+      }
+    }
+
+    // Have to build checkboxes here after checkbox arrays are built
+    foreach ($role_names as $rid => $name) {
+      $form['lang_dropdown']['hideout']['languages']['checkboxes'][$rid] = array(
+        '#type' => 'checkboxes',
+        '#options' => $options,
+        '#default_value' => isset($status[$rid]) ? $status[$rid] : array(),
+        '#attributes' => array('class' => array('rid-' . $rid)),
+      );
+      $form['lang_dropdown']['hideout']['languages']['role_names'][$rid] = array('#markup' => check_plain($name), '#tree' => TRUE);
+    }
+
+    $form['#submit'][] = 'lang_dropdown_hideout_submit';
+  }
+}
+
+/**
+ * Implements hook_block_save().
+ */
+function lang_dropdown_hideout_submit($form, &$form_state) {
+
+  $lang_dropdown_hideout_settings = array(
+    'hidden_languages' => array(),
+  );
+
+  foreach($form_state['values']['lang_dropdown']['hideout']['role_names'] as $rid => $name) {
+    $lang_dropdown_hideout_settings['hidden_languages'][$rid] = array_filter($form_state['values']['lang_dropdown']['hideout']['languages']['checkboxes'][$rid]);
+  }
+
+  // Clear the cached pages and blocks.
+  cache_clear_all();
+
+  // notice that both language dropdown and locale switchers share same configuration for same type
+  // ex both the language dropdown switcher (content) and locale switcher (content) share this config
+  variable_set('lang_dropdown_hideout_' . $form['delta']['#value'], $lang_dropdown_hideout_settings);
+}
+
+function _lang_dropdown_hideout_get_settings($type = '') {
+  $defaults = array(
+    'hidden_languages' => array(),
+  );
+
+  return variable_get('lang_dropdown_hideout_' . $type, $defaults);
+}
+
+/**
+ * Implementation of hook_theme().
+ */
+function lang_dropdown_hideout_theme($existing, $type, $theme, $path) {
+  return array(
+    'lang_dropdown_hideout_hiddenlanguages' => array(
+      'render element' => 'element',
+    ),
+  );
+}
+
+/**
+ * Returns HTML for the hidden languages element.
+ *
+ * @param $variables
+ *   An associative array containing:
+ *   - element: A render element representing the element.
+ *
+ */
+function theme_lang_dropdown_hideout_hiddenlanguages($variables) {
+  $element = $variables['element'];
+
+  $roles = user_roles();
+  foreach (element_children($element['language']) as $key) {
+    $row = array();
+
+    // Language row.
+    $row[] = array(
+      'data' => drupal_render($element['language'][$key]),
+      'class' => array('language'),
+    );
+    foreach (element_children($element['checkboxes']) as $rid) {
+      $element['checkboxes'][$rid][$key]['#title'] = $roles[$rid] . ': ' . $element['language'][$key]['#markup'];
+      $element['checkboxes'][$rid][$key]['#title_display'] = 'invisible';
+      $row[] = array('data' => drupal_render($element['checkboxes'][$rid][$key]), 'class' => array('checkbox'));
+    }
+
+    $rows[] = $row;
+  }
+  $header[] = (t('Language'));
+  foreach (element_children($element['role_names']) as $rid) {
+    $header[] = array('data' => drupal_render($element['role_names'][$rid]), 'class' => array('checkbox'));
+  }
+
+  $output = theme('table', array('header' => $header, 'rows' => $rows, 'attributes' => array('id' => 'languages')));
+  return $output;
+}
+
+/**
+ * Implementation of hook_language_switch_links_alter().
+ */
+function lang_dropdown_hideout_language_switch_links_alter(array &$links, $type, $path) {
+  $settings = _lang_dropdown_hideout_get_settings($type);
+  $hidden_languages = $settings['hidden_languages'];
+  global $user;
+
+  $roles = $user->roles;
+
+  foreach ($links as $langcode => $link) {
+    $hide_language = true;
+    foreach($roles as $key => $value) {
+      if ( !isset($hidden_languages[$key]) || !in_array($langcode, $hidden_languages[$key]) ) {
+        $hide_language = false;
+        break;
+      }
+    }
+    if ($hide_language) {
+      unset($links[$langcode]['href']);
+      $links[$langcode]['attributes']['class'][] = 'locale-untranslated';
+    }
+
+  }
+}
+
+/**
+ * Implements hook_help().
+ */
+function lang_dropdown_hideout_help($path, $arg) {
+  switch ($path) {
+    case 'admin/help#lang_dropdown_hideout':
+      $output = '<p>' . t('This module adds new configuration options to allow you to hide languages for specific roles in your language switcher blocks. Both in "Language switcher" blocks provided by locale module and "Language switcher dropdown" blocks provided by language switcher dropdown module. Go to <a href="@block_admin">blocks admin page</a> to configure one of those blocks.', array('@block_admin' => check_plain(url('admin/structure/block')))) . '</p>';
+      $output .= '<p>' . t('For more information on blocks, please see <a href="@blocks_help">block help section</a>.', array('@blocks_help' => check_plain(url('admin/help/block')))) . '</p>';
+      $output .= '<p>' . t('To disable a language just use the checkbox for the corresponding role. Take in mind that a language would be hidden from a user if it is hidden for all roles of the user. For example an adminitrator has both authenticated user and adminitrator roles and if the language is only hidden for one of those roles the administrator would be still able to see the language on the switcher.') . '</p>';
+      $output .= '<p>' . t('For more information on multilingual sites, please see <a href="@locale_help">locale help section</a>.', array('@locale_help' => check_plain(url('admin/help/locale')))) . '</p>';
+      return $output;
+      break;
+  }
+}

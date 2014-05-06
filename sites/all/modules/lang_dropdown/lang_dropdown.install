@@ -1,0 +1,45 @@
+<?php
+/**
+* @file
+* Install, update, and uninstall functions for the Language switcher dropdown module.
+*/
+
+/**
+ * Implementation of hook_install().
+ */
+function lang_dropdown_install() {
+  drupal_set_message(st("<b>Language switcher dropdown</b> is installed successfully.<br />Please refer to README.txt for help in configuration."));
+}
+
+/**
+ * Implementation of hook_uninstall().
+ */
+function lang_dropdown_uninstall() {
+  variable_del('lang_dropdown');
+  variable_del('lang_dropdown_' . LANGUAGE_TYPE_INTERFACE);
+  variable_del('lang_dropdown_' . LANGUAGE_TYPE_CONTENT);
+  variable_del('lang_dropdown_' . LANGUAGE_TYPE_URL);
+}
+
+/**
+ * Rearrange options arrays.
+ */
+function lang_dropdown_update_7201() {
+  $types = array(
+  	'',
+  	LANGUAGE_TYPE_INTERFACE,
+  	LANGUAGE_TYPE_CONTENT,
+  	LANGUAGE_TYPE_URL,
+  );
+  foreach ($types as $type) {
+    if ($options = variable_get('lang_dropdown' . (empty($type) ? '' : '_' . $type), FALSE)) {
+      $options['width'] = $options['js_widget_settings']['width'];
+      unset($options['js_widget_settings']['width']);
+      $options['widget'] = $options['js_widget'];
+      unset($options['js_widget']);
+      $options['msdropdown'] = $options['js_widget_settings'];
+      unset($options['js_widget_settings']);
+      variable_set('lang_dropdown' . (empty($type) ? '' : '_' . $type), $options);
+    }
+  }
+}

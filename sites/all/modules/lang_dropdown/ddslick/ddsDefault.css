@@ -1,0 +1,128 @@
+.ddsDefault .dd-select {
+    border: 1px solid #CCCCCC;
+    background: none repeat scroll 0 0 #EEEEEE !important;
+    border-radius: 2px;
+    cursor: pointer;
+    position: relative;
+}
+.ddsDefault .dd-desc {
+    color: #AAAAAA;
+    display: block;
+    font-weight: normal;
+    line-height: 1.4em;
+    overflow: hidden;
+}
+.ddsDefault .dd-selected {
+    display: block;
+    font-weight: bold;
+    overflow: hidden;
+    padding: 10px;
+    color: #000;
+    text-decoration: none;
+}
+.ddsDefault .dd-selected label {
+    line-height: 1.4 !important;
+}
+.ddsDefault .dd-selected:hover {
+	text-decoration: none;
+	color: #000;
+}
+.ddsDefault .dd-pointer {
+    height: 0;
+    margin-top: -3px;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    width: 0;
+}
+.ddsDefault .dd-pointer-down {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #000000 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+    border-image: none;
+    border-right: 5px solid rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 5px;
+}
+.ddsDefault .dd-pointer-up {
+    -moz-border-bottom-colors: none !important;
+    -moz-border-left-colors: none !important;
+    -moz-border-right-colors: none !important;
+    -moz-border-top-colors: none !important;
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #000000 !important;
+    border-image: none !important;
+    border-style: solid !important;
+    border-width: 5px !important;
+    margin-top: -8px;
+}
+.ddsDefault .dd-options {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-color: -moz-use-text-color #CCCCCC #CCCCCC;
+    border-image: none;
+    border-right: 1px solid #CCCCCC;
+    border-style: none solid solid;
+    border-width: medium 1px 1px;
+    box-shadow: 0 1px 5px #DDDDDD;
+    display: none;
+    list-style: none outside none;
+    margin: 0;
+    overflow: auto;
+    padding: 0 !important;
+    position: absolute;
+    z-index: 2000;
+}
+.ddsDefault .dd-option:hover {
+	text-decoration: none;
+}
+.ddsDefault .dd-option img,
+.ddsDefault .dd-selected img {
+	width: 20px;
+	height: 14px;
+}
+.ddsDefault .dd-option {
+    border-bottom: 1px solid #DDDDDD;
+    color: #333333;
+    cursor: pointer;
+    display: block;
+    overflow: hidden;
+    padding: 10px;
+    text-decoration: none;
+    transition: all 0.25s ease-in-out 0s;
+}
+.ddsDefault .dd-options > li:last-child > .dd-option {
+    border-bottom: medium none;
+}
+.ddsDefault .dd-option:hover {
+    background: none repeat scroll 0 0 #F3F3F3;
+    color: #000000;
+}
+.ddsDefault .dd-selected-description-truncated {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.ddsDefault .dd-option-selected {
+    background: none repeat scroll 0 0 #F6F6F6;
+}
+.ddsDefault .dd-option-image, .dd-selected-image {
+    float: left;
+    margin-right: 5px;
+    max-width: 64px;
+    vertical-align: middle;
+}
+.ddsDefault .dd-image-right {
+    float: right;
+    margin-left: 5px;
+    margin-right: 15px;
+}
+.ddsDefault .dd-container {
+    position: relative;
+}
+​.ddsDefault .dd-selected-text {
+    font-weight: bold;
+}
