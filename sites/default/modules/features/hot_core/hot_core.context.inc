@@ -112,9 +112,9 @@ function hot_core_context_default_contexts() {
   $context->reactions = array(
     'block' => array(
       'blocks' => array(
-        'views-User-user_control_block' => array(
-          'module' => 'views',
-          'delta' => 'User-user_control_block',
+        'lang_dropdown-language' => array(
+          'module' => 'lang_dropdown',
+          'delta' => 'language',
           'region' => 'header',
           'weight' => '-10',
         ),

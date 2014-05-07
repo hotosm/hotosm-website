@@ -129,15 +129,6 @@ function hot_core_user_default_permissions() {
     'module' => 'comment',
   );
 
-  // Exported permission: 'administer content translations'.
-  $permissions['administer content translations'] = array(
-    'name' => 'administer content translations',
-    'roles' => array(
-      'authenticated user' => 'authenticated user',
-    ),
-    'module' => 'i18n_node',
-  );
-
   // Exported permission: 'administer content types'.
   $permissions['administer content types'] = array(
     'name' => 'administer content types',
@@ -163,13 +154,6 @@ function hot_core_user_default_permissions() {
       'site admin' => 'site admin',
     ),
     'module' => 'filter',
-  );
-
-  // Exported permission: 'administer languages'.
-  $permissions['administer languages'] = array(
-    'name' => 'administer languages',
-    'roles' => array(),
-    'module' => 'locale',
   );
 
   // Exported permission: 'administer modules'.
@@ -438,15 +422,6 @@ function hot_core_user_default_permissions() {
     'module' => 'comment',
   );
 
-  // Exported permission: 'translate admin strings'.
-  $permissions['translate admin strings'] = array(
-    'name' => 'translate admin strings',
-    'roles' => array(
-      'site admin' => 'site admin',
-    ),
-    'module' => 'i18n_string',
-  );
-
   // Exported permission: 'translate content'.
   $permissions['translate content'] = array(
     'name' => 'translate content',
@@ -454,24 +429,6 @@ function hot_core_user_default_permissions() {
       'authenticated user' => 'authenticated user',
     ),
     'module' => 'translation',
-  );
-
-  // Exported permission: 'translate interface'.
-  $permissions['translate interface'] = array(
-    'name' => 'translate interface',
-    'roles' => array(
-      'site admin' => 'site admin',
-    ),
-    'module' => 'locale',
-  );
-
-  // Exported permission: 'translate user-defined strings'.
-  $permissions['translate user-defined strings'] = array(
-    'name' => 'translate user-defined strings',
-    'roles' => array(
-      'site admin' => 'site admin',
-    ),
-    'module' => 'i18n_string',
   );
 
   // Exported permission: 'use text format 1'.
