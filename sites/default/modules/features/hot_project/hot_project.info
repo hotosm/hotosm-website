@@ -1,7 +1,7 @@
 name = HOT Projects
 core = 7.x
 package = Features
-version = 7.x-3.1
+version = 7.x-3.2
 project = hot_project
 dependencies[] = geofield
 dependencies[] = hot_core

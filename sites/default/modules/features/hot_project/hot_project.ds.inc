@@ -17,15 +17,10 @@ function hot_project_ds_field_settings_info() {
   $ds_fieldsetting->bundle = 'project';
   $ds_fieldsetting->view_mode = 'default';
   $ds_fieldsetting->settings = array(
-    'field_image' => array(
-      'formatter_settings' => array(
-        'ft' => array(),
-      ),
-    ),
-    'field_bbox' => array(
-      'formatter_settings' => array(
-        'ft' => array(),
-      ),
+    'links' => array(
+      'weight' => '0',
+      'label' => 'hidden',
+      'format' => 'default',
     ),
   );
   $export['node|project|default'] = $ds_fieldsetting;
@@ -109,39 +104,21 @@ function hot_project_ds_layout_settings_info() {
   $ds_layout->entity_type = 'node';
   $ds_layout->bundle = 'project';
   $ds_layout->view_mode = 'default';
-  $ds_layout->layout = 'panels-two_66_33';
+  $ds_layout->layout = 'ds_1col';
   $ds_layout->settings = array(
     'regions' => array(
-      'two_66_33_second' => array(
-        0 => 'field_contact',
-        1 => 'field_link',
-        3 => 'field_image',
-        4 => 'field_bbox',
-      ),
-      'two_66_33_first' => array(
-        2 => 'body',
+      'ds_content' => array(
+        0 => 'links',
+        1 => 'body',
       ),
     ),
     'fields' => array(
-      'field_contact' => 'two_66_33_second',
-      'field_link' => 'two_66_33_second',
-      'body' => 'two_66_33_first',
-      'field_image' => 'two_66_33_second',
-      'field_bbox' => 'two_66_33_second',
+      'links' => 'ds_content',
+      'body' => 'ds_content',
     ),
-    'classes' => array(
-      'layout_class' => array(
-        '' => '',
-      ),
-      'two_66_33_second' => array(
-        'feature' => 'feature',
-      ),
-    ),
+    'classes' => array(),
     'wrappers' => array(
-      'two_66_33_top' => 'div',
-      'two_66_33_first' => 'div',
-      'two_66_33_second' => 'div',
-      'two_66_33_bottom' => 'div',
+      'ds_content' => 'div',
     ),
     'layout_wrapper' => 'div',
     'layout_attributes' => '',

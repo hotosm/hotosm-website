@@ -56,7 +56,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'text',
         'settings' => array(),
         'type' => 'text_default',
-        'weight' => 0,
+        'weight' => 1,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -128,7 +128,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 6,
+        'weight' => 13,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -240,7 +240,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 5,
+        'weight' => 12,
       ),
       'feature' => array(
         'label' => 'above',
@@ -331,7 +331,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 3,
+        'weight' => 10,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -455,7 +455,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 2,
+        'weight' => 9,
       ),
       'feature' => array(
         'label' => 'above',
@@ -558,7 +558,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 7,
+        'weight' => 14,
       ),
       'feature' => array(
         'label' => 'above',
@@ -612,7 +612,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 4,
+        'weight' => 11,
       ),
       'feature' => array(
         'label' => 'hidden',
