@@ -8,6 +8,7 @@ sites/*/private
 
 # Ignore backup directory
 sites/default/backups
+sites/default/privae
 
 # Ignore caches
 cache/*
