@@ -6,6 +6,9 @@ sites/*/settings.php
 sites/*/files
 sites/*/private
 
+# Ignore backup directory
+sites/default/backups
+
 # Ignore caches
 cache/*
 
