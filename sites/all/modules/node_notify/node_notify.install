@@ -1,0 +1,166 @@
+<?php
+
+/**
+ * @file
+ * Node Notify .install file.
+ */
+
+/**
+ * Implements hook_requirements().
+ */
+function node_notify_requirements($phase) {
+  $requirements = array();
+
+  $t = get_t();
+
+  if ('runtime' == $phase && module_exists('comment_notify')) {
+    $info = system_get_info('module', 'comment_notify');
+    $tested_versions = array('7.x-1.0', '7.x-1.1', '7.x-1.2');
+    $requirements['comment_notify'] = array(
+      'title' => $t('Node Notify'),
+      'value' => $info['version'],
+      'description' => $t('Node Notify was tested with Comment Notify version\'s up to 7.x-1.2.'),
+      'severity' => in_array($info['version'], $tested_versions) ? REQUIREMENT_OK : REQUIREMENT_WARNING,
+    );
+  }
+
+  return $requirements;
+}
+
+/**
+ * Implements hook_install().
+ */
+function node_notify_install() {
+  $t = get_t();
+  if (PHP_SAPI == "cli") {
+    drupal_set_message($t('Configure Node Notify at !url to start using it.', array(
+      '!url' => url('admin/config/people/node_notify', array('absolute' => TRUE)),
+    )));
+  }
+  else {
+    drupal_set_message($t('<a href="!url">Configure</a> Node Notify to start using it.', array(
+      '!url' => url('admin/config/people/node_notify'),
+    )));
+  }
+}
+
+/**
+ * Implements hook_install().
+ */
+function node_notify_uninstall() {
+  $variables = db_select('variable', 'v')
+    ->fields('v', array('name'))
+    ->condition('name', 'node_notify%', 'LIKE')
+    ->execute();
+  foreach ($variables as $var) {
+    variable_del($var->name);
+  }
+}
+
+/**
+ * Implements hook_schema().
+ */
+function node_notify_schema() {
+  $schema = array();
+
+  $schema['node_notify_subscription'] = array(
+    'description' => 'Node subscriptions.',
+    'fields' => array(
+      'sid' => array(
+        'description' => 'Subscription identified.',
+        'type' => 'serial',
+        'unsinged' => TRUE,
+        'not null' => TRUE,
+      ),
+      'nid' => array(
+        'description' => 'References {node}.nid.',
+        'type' => 'int',
+        'unsigned' => TRUE,
+        'not null' => TRUE,
+      ),
+      'uid' => array(
+        'description' => 'References {user}.uid.',
+        'type' => 'int',
+        'unsigned' => TRUE,
+        'default' => 0,
+      ),
+      'email' => array(
+        'description' => 'Email address for anonymous user subscription.',
+        'type' => 'varchar',
+        'length' => 150,
+        'default' => '',
+      ),
+      'enabled' => array(
+        'description' => 'Is subscription active?',
+        'type' => 'int',
+        'size' => 'tiny',
+        'not null' => TRUE,
+        'default' => 1,
+      ),
+      'token' => array(
+        'description' => 'Token.',
+        'type' => 'varchar',
+        'length' => 43,
+        'not null' => TRUE,
+      ),
+      'subscribed_on' => array(
+        'description' => 'Timestamp of subscription.',
+        'type' => 'int',
+        'unsigned' => TRUE,
+        'not null' => TRUE,
+      ),
+    ),
+    'primary key' => array('sid'),
+    'unique keys' => array(
+      'token' => array('token'),
+      'user_email_node' => array('uid', 'email', 'nid'),
+    ),
+    'foreign keys' => array(
+      'subscribed_node' => array(
+        'table' => 'node', 'columns' => array('nid' => 'nid'),
+      ),
+      'subscribed_user' => array(
+        'table' => 'user', 'columns' => array('uid' => 'uid'),
+      ),
+    ),
+  );
+
+  $schema['node_notify_notification'] = array(
+    'description' => 'Comment notifications.',
+    'fields' => array(
+      'sid' => array(
+        'description' => 'References {node_notify_subscription}.sid.',
+        'type' => 'int',
+        'unsinged' => TRUE,
+        'not null' => TRUE,
+      ),
+      'cid' => array(
+        'description' => 'References {comment}.cid.',
+        'type' => 'int',
+        'unsinged' => TRUE,
+        'not null' => TRUE,
+      ),
+      'notified' => array(
+        'description' => 'Is notification already sent?',
+        'type' => 'int',
+        'size' => 'tiny',
+        'not null' => TRUE,
+        'unsigned' => TRUE,
+        'default' => 0,
+      ),
+    ),
+    'primary key' => array('sid', 'cid'),
+    'foreign keys' => array(
+      'subscription' => array(
+        'table' => 'node_notify_subscription',
+        'columns' => array('sid' => 'sid'),
+      ),
+      'comment' => array(
+        'table' => 'comment',
+        'columns' => array('cid' => 'cid'),
+      ),
+    ),
+  );
+
+  return $schema;
+}
