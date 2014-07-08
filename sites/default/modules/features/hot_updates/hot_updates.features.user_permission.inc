@@ -10,6 +10,24 @@
 function hot_updates_user_default_permissions() {
   $permissions = array();
 
+  // Exported permission: 'administer node notify'.
+  $permissions['administer node notify'] = array(
+    'name' => 'administer node notify',
+    'roles' => array(
+      'site admin' => 'site admin',
+    ),
+    'module' => 'node_notify',
+  );
+
+  // Exported permission: 'administer node subscriptions'.
+  $permissions['administer node subscriptions'] = array(
+    'name' => 'administer node subscriptions',
+    'roles' => array(
+      'site admin' => 'site admin',
+    ),
+    'module' => 'node_notify',
+  );
+
   // Exported permission: 'create update content'.
   $permissions['create update content'] = array(
     'name' => 'create update content',
@@ -56,6 +74,15 @@ function hot_updates_user_default_permissions() {
       'site admin' => 'site admin',
     ),
     'module' => 'node',
+  );
+
+  // Exported permission: 'subscribe to node'.
+  $permissions['subscribe to node'] = array(
+    'name' => 'subscribe to node',
+    'roles' => array(
+      'authenticated user' => 'authenticated user',
+    ),
+    'module' => 'node_notify',
   );
 
   return $permissions;
