@@ -8,9 +8,9 @@ version = 7.x-2.x
 files[] = variable_realm.class.inc
 files[] = variable_realm_union.class.inc
 
-; Information added by Drupal.org packaging script on 2014-01-21
-version = "7.x-2.4"
+; Information added by Drupal.org packaging script on 2014-04-23
+version = "7.x-2.5"
 core = "7.x"
 project = "variable"
-datestamp = "1390310315"
+datestamp = "1398250128"
 
