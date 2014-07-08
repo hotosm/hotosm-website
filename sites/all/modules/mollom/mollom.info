@@ -10,9 +10,9 @@ files[] = mollom.drupal.inc
 files[] = tests/mollom.test
 files[] = tests/mollom.class.test
 
-; Information added by Drupal.org packaging script on 2014-02-25
-version = "7.x-2.9"
+; Information added by Drupal.org packaging script on 2014-05-05
+version = "7.x-2.10"
 core = "7.x"
 project = "mollom"
-datestamp = "1393328906"
+datestamp = "1399303128"
 

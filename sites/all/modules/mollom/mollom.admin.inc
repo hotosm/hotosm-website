@@ -941,6 +941,7 @@ function mollom_admin_settings($form, &$form_state) {
     '#collapsible' => TRUE,
     '#collapsed' => TRUE,
   );
+  // Lower severity numbers indicate a high severity level.
   $min_severity = variable_get('mollom_log_minimum_severity', WATCHDOG_WARNING);
   $form['mollom_advanced']['mollom_log_minimum_severity'] = array(
     '#type' => 'radios',
@@ -949,7 +950,7 @@ function mollom_admin_settings($form, &$form_state) {
       WATCHDOG_WARNING => t('Only log warnings and errors'),
       WATCHDOG_DEBUG => t('Log all Mollom messages'),
     ),
-    '#default_value' => variable_get('mollom_log_minimum_severity', WATCHDOG_WARNING),
+    '#default_value' => $min_severity <= WATCHDOG_WARNING ? WATCHDOG_WARNING : WATCHDOG_DEBUG,
   );
   $form['mollom_advanced']['mollom_audio_captcha_enabled'] = array(
     '#type' => 'checkbox',

@@ -569,23 +569,6 @@ class MollomWebTestCase extends DrupalWebTestCase {
   }
 
   /**
-   * Assert that tracking image has been included on the current page.
-   */
-  protected function assertTrackingImage() {
-    $image = $this->xpath('//img[@class=:classname]', array(':classname' => 'mollom-fba'));
-    $this->assert(!empty($image), 'Form behavior analysis tracking image found.');
-  }
-
-  /**
-   * Assert that tracking image is not found on the current page.
-   */
-  protected function assertNoTrackingImage() {
-    $image = $this->xpath('//img[@class=:classname]', array(':classname' => 'mollom-fba'));
-    $this->assert(empty($image), 'Form behavior analysis tracking image not found.');
-  }
-
-
-  /**
    * Assert that the privacy policy link is found on the current page.
    */
   protected function assertPrivacyLink() {
@@ -3304,6 +3287,129 @@ class MollomCommentFormTestCase extends MollomWebTestCase {
 }
 
 /**
+ * Tests Mollom actions.
+ */
+class MollomActionsTestCase extends MollomWebTestCase {
+  // Keep track of nodes and comments for actions.
+  protected $nodes = array();
+  protected $comments = array();
+  // Re-route Mollom communication to this testing site.
+  protected $mollomClass = 'MollomDrupalTestLocal';
+
+  public static function getInfo() {
+    return array(
+      'name' => 'Actions integration',
+      'description' => 'Tests actions provided for comments and nodes.',
+      'group' => 'Mollom',
+    );
+  }
+
+  function setUp() {
+    parent::setUp(array('comment'));
+    $this->drupalCreateContentType(array('type' => 'article', 'name' => 'Article'));
+    $this->web_user = $this->drupalCreateUser(array('create article content', 'access comments', 'post comments', 'skip comment approval'));
+
+    $this->drupalLogin($this->admin_user);
+    $this->setProtectionUI('article_node_form');
+    $this->setProtectionUI('comment_node_article_form');
+    $this->drupalLogout();
+
+    // Login and submit a node.
+    $this->nodes = array();
+    $this->comments = array();
+    $this->drupalLogin($this->web_user);
+    for ($i = 0; $i < 2; $i++) {
+      // Create a test node.
+      $edit = array(
+        'title' => 'ham node ' . $i,
+      );
+      $this->drupalPost('node/add/article', $edit, t('Save'));
+      $node = $this->drupalGetNodeByTitle($edit['title']);
+
+      $this->drupalGet('comment/reply/' . $node->nid);
+      $edit = array(
+        'comment_body[und][0][value]' => 'ham',
+      );
+      $this->drupalPost(NULL, $edit, t('Save'));
+      $this->comments[] = db_query('SELECT * FROM {comment} WHERE subject = :comment AND nid = :nid', array(':comment' => $edit['comment_body[und][0][value]'], ':nid' => $node->nid))->fetchObject();
+      $this->nodes[] = $node;
+    }
+  }
+
+  /**
+   * Test that calling the mollom action function triggers the unpublish of
+   * comments and marking as spam.
+   */
+  function testCommentActions() {
+    // Load the comment entity objects.
+    $cids = array();
+    $contentIds = array();
+    foreach($this->comments as $comment) {
+      $cids[] = $comment->cid;
+      $data = mollom_data_load('comment', $comment->cid);
+      $contentIds[] = $data->contentId;
+    }
+    $comment_entities = entity_load('comment', $cids);
+
+    // Verify that all comments are currently published.
+    $published = db_query('SELECT * FROM {comment} WHERE cid IN (:cids) AND status = 1', array(':cids' => $cids))->fetchAll();
+    $this->assertEqual(count($published), count($comment_entities));
+
+    // Call the unpublish action.
+    mollom_action_unpublish_comment($comment_entities);
+
+    // Verify that all comments are now unpublished.
+    $published = db_query('SELECT * FROM {comment} WHERE cid IN (:cids) AND status = 1', array(':cids' => $cids))->fetchAll();
+    $this->assertEqual(count($published), 0);
+
+    // Verify that all comments have been marked as spam.
+    foreach ($cids as $cid) {
+      $server = $this->getServerRecord('feedback');
+      $this->assertTrue(in_array($server['contentId'], $contentIds));
+      $this->assertEqual($server['source'], 'mollom_action_unpublish_comment');
+      $this->assertEqual($server['reason'], 'spam');
+      $this->assertEqual($server['type'], 'moderate');
+    }
+  }
+
+  /**
+   * Test that calling the mollom action function triggers the unpublish of
+   * nodes and marking as spam.
+   */
+  function testNodeActions() {
+    // Load the comment entity objects.
+    $nids = array();
+    $contentIds = array();
+    foreach($this->nodes as $node) {
+      $nids[] = $node->nid;
+      $data = mollom_data_load('node', $node->nid);
+      $contentIds[] = $data->contentId;
+    }
+    $node_entities = entity_load('node', $nids);
+
+    // Verify that all nodes are currently published.
+    $published = db_query('SELECT * FROM {node} WHERE nid IN (:nids) AND status = 1', array(':nids' => $nids))->fetchAll();
+    $this->assertEqual(count($published), count($node_entities));
+
+    // Call the unpublish action.
+    mollom_action_unpublish_node($node_entities);
+
+    // Verify that all comments are now unpublished.
+    $published = db_query('SELECT * FROM {node} WHERE nid IN (:nids) AND status = 1', array(':nids' => $nids))->fetchAll();
+    $this->assertEqual(count($published), 0);
+
+    // Verify that all nodes have been marked as spam.
+    foreach ($nids as $nid) {
+      $server = $this->getServerRecord('feedback');
+      $this->assertTrue(in_array($server['contentId'], $contentIds));
+      $this->assertEqual($server['source'], 'mollom_action_unpublish_node');
+      $this->assertEqual($server['reason'], 'spam');
+      $this->assertEqual($server['type'], 'moderate');
+    }
+  }
+}
+
+/**
  * Tests protection of Contact module forms.
  */
 class MollomContactFormTestCase extends MollomWebTestCase {
@@ -3810,11 +3916,11 @@ class MollomDataTestCase extends MollomWebTestCase {
     $this->drupalLogout();
 
     // Test form behavior analysis when enabled.
-    variable_set('mollom_fba', 1);
+    variable_set('mollom_fba_enabled', 1);
 
     // Verify that the tracking image is output.
     $this->drupalGet('mollom-test/form');
-    $this->assertTrackingImage();
+    $this->assertFieldByName('mollom[fba]', '');
 
     // Generate a CAPTCHA.
     $edit = array(
@@ -3827,11 +3933,6 @@ class MollomDataTestCase extends MollomWebTestCase {
     // Verify that the tracking image value was sent to mollom.checkContent.
     $data = $this->getServerRecord();
     $this->assertSame('trackingImageId', $data['trackingImageId'], $edit['mollom[fba]']);
-
-    // The image should not be re-displayed on the CAPTCHA page and value is
-    // no longer tracked.
-    $this->assertNoFieldByName('mollom[fba]');
-    $this->assertNoTrackingImage();
 
     // Complete the verification.
     $this->postCorrectCaptcha(NULL, array(), 'Submit', 'Successful form submission.');
@@ -3855,11 +3956,10 @@ class MollomDataTestCase extends MollomWebTestCase {
     $this->assertSame('trackingImageId', $data['trackingImageId'], '-1');
 
     // Disable form behavior analysis.
-    variable_set('mollom_fba', 0);
+    variable_set('mollom_fba_enabled', 0);
 
     // Verify that the tracking image is not output.
     $this->drupalGet('mollom-test/form');
-    $this->assertNoTrackingImage();
     $this->assertNoFieldByName('mollom[fba]');
 
     // Post the content.
@@ -4014,6 +4114,9 @@ class MollomDataTestCase extends MollomWebTestCase {
  * Verify that Mollom data can be created, read, updated, and deleted.
  */
 class MollomDataCRUDTestCase extends MollomWebTestCase {
+
+  protected $mollomClass = 'MollomDrupalTestLocal';
+
   public static function getInfo() {
     return array(
       'name' => 'Data CRUD',

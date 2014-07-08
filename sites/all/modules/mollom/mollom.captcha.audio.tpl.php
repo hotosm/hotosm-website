@@ -25,6 +25,13 @@ $instructions = t('Enter only the first letter of each word you hear.  If you ar
 $unsupported = t('Your system does not support our audio playback verification.  Please <a href="@captcha-url" id="mollom_captcha_download" class="swfNext-mollom_captcha_verify">download this verification</a> to listen on your device.', array(
   '@captcha-url' => $captcha_url,
 ));
+$refresh_alt = t('Refresh');
+
+$refresh_image_output = theme('image', array(
+  'path' => drupal_get_path('module', 'mollom') . '/images/refresh.png',
+  'alt' => $refresh_alt,
+  'getsize' => FALSE,
+));
 ?>
 
 <script type="text/javascript">
@@ -93,31 +100,34 @@ $unsupported = t('Your system does not support our audio playback verification. 
   }
 </script>
 
-<div class="mollom-captcha-content mollom-audio-captcha">
-  <div class="mollom-audio-catcha-instructions"><?php print $instructions; ?></div>
+<span class="mollom-captcha-container">
+  <a href="javascript:void(0);" class="mollom-refresh-captcha mollom-refresh-audio"><?php print $refresh_image_output; ?></a>
+  <div class="mollom-captcha-content mollom-audio-captcha">
+    <div class="mollom-audio-catcha-instructions"><?php print $instructions; ?></div>
 
-  <!--- HTML5 Audio playback -->
-  <audio id="mollom_captcha_audio" controls tabindex="0">
-    <source src="<?php print $captcha_url; ?>" type="audio/mpeg" />
-    <!-- Displays if HTML5 audio is unsupported and JavaScript player embed is unsupported -->
-    <p><?php print $unsupported; ?></p>
-  </audio>
+    <!--- HTML5 Audio playback -->
+    <audio id="mollom_captcha_audio" controls tabindex="0">
+      <source src="<?php print $captcha_url; ?>" type="audio/mpeg" />
+      <!-- Displays if HTML5 audio is unsupported and JavaScript player embed is unsupported -->
+      <p><?php print $unsupported; ?></p>
+    </audio>
 
-  <!-- Fallback for browsers not supporting HTML5 audio or not MP3 format -->
-  <div id="mollom_captcha_fallback">
-    <div id="mollom_captcha_fallback_player"></div>
-    <script>
-      var audioTest = document.createElement('audio');
-      if (!audioTest.canPlayType || !audioTest.canPlayType('audio/mpeg')) {
-        embedFallbackPlayer();
-      }
-    </script>
+    <!-- Fallback for browsers not supporting HTML5 audio or not MP3 format -->
+    <div id="mollom_captcha_fallback">
+      <div id="mollom_captcha_fallback_player"></div>
+      <script>
+        var audioTest = document.createElement('audio');
+        if (!audioTest.canPlayType || !audioTest.canPlayType('audio/mpeg')) {
+          embedFallbackPlayer();
+        }
+      </script>
+    </div>
+
+    <!-- Text to show when neither HTML5 audio or SWFs are supported -->
+    <div id="mollom_captcha_unsupported" style="display:none;">
+      <p><?php print $unsupported; ?></p>
+    </div>
+
+    <div class="mollom-audio-captcha-switch"><a href="#" class="mollom-switch-captcha mollom-image-captcha swfPrev-mollom_captcha_download" id="mollom_captcha_verify"><?php print $switch_verify; ?></a>.</div>
   </div>
-
-  <!-- Text to show when neither HTML5 audio or SWFs are supported -->
-  <div id="mollom_captcha_unsupported" style="display:none;">
-    <p><?php print $unsupported; ?></p>
-  </div>
-
-  <div class="mollom-audio-captcha-switch"><a href="#" class="mollom-switch-captcha mollom-image-captcha swfPrev-mollom_captcha_download" id="mollom_captcha_verify"><?php print $switch_verify; ?></a>.</div>
-</div>
+</span>

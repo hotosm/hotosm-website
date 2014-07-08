@@ -114,14 +114,14 @@ function mollom_schema() {
         'not null' => TRUE,
         'default' => '',
       ),
-      'contentId' => array(
+      'content_id' => array(
         'description' => 'Content ID returned by Mollom.',
         'type' => 'varchar',
         'length' => 128,
         'not null' => TRUE,
         'default' => '',
       ),
-      'captchaId' => array(
+      'captcha_id' => array(
         'description' => 'CAPTCHA ID returned by Mollom.',
         'type' => 'varchar',
         'length' => 128,
@@ -152,13 +152,13 @@ function mollom_schema() {
       // would have an unintended meaning. Also, values are stored in individual
       // columns, so as to be able to join and filter/sort on these values for
       // improved content moderation.
-      'spamScore' => array(
+      'spam_score' => array(
         'description' => 'Text analysis spam check result.',
         'type' => 'float',
         'size' => 'tiny',
         'not null' => FALSE,
       ),
-      'spamClassification' => array(
+      'spam_classification' => array(
         'description' => 'Text analysis final spam classification result.',
         'type' => 'varchar',
         'length' => 16,
@@ -170,13 +170,13 @@ function mollom_schema() {
         'size' => 'tiny',
         'not null' => FALSE,
       ),
-      'qualityScore' => array(
+      'quality_score' => array(
         'description' => 'Text analysis quality check result.',
         'type' => 'float',
         'size' => 'tiny',
         'not null' => FALSE,
       ),
-      'profanityScore' => array(
+      'profanity_score' => array(
         'description' => 'Text analysis profanity check result.',
         'type' => 'float',
         'size' => 'tiny',
@@ -233,8 +233,8 @@ function mollom_schema() {
        ),
     ),
     'indexes' => array(
-      'contentId' => array('contentId'),
-      'captchaId' => array('captchaId'),
+      'content_id' => array('content_id'),
+      'captcha_id' => array('captcha_id'),
     ),
     'primary key' => array('entity', 'id'),
     'foreign keys' => array(
@@ -349,6 +349,7 @@ function mollom_install() {
  */
 function mollom_uninstall() {
   db_delete('variable')->condition('name', db_like('mollom_') . '%', 'LIKE')->execute();
+  cache_clear_all('mollom', 'cache', TRUE);
 }
 
 /**
@@ -1201,4 +1202,75 @@ function mollom_update_7211() {
       'default' => 0,
     ));
   }
+}
+
+/**
+ * Set default variable values for advanced administration features.
+ *
+ * Note that some of these may have already been set in previous versions.
+ */
+function mollom_update_7212() {
+  variable_set('mollom_log_minimum_severity', variable_get('mollom_log_minimum_severity', WATCHDOG_WARNING));
+  variable_set('mollom_audio_captcha_enabled', variable_get('mollom_audio_captcha_enabled', 1));
+  variable_set('mollom_connection_timeout', variable_get('mollom_connection_timeout', 3));
+  variable_set('mollom_fba_enabled', variable_get('mollom_fba_enabled', 0));
+  variable_set('mollom_fai_entity_types', variable_get('mollom_fai_entity_types', array('comment' => 'comment')));
+  variable_set('mollom_fai_dialog', variable_get('mollom_fai_dialog', 'mollom'));
+}
+
+/**
+ * Change all mixedCase database columns and indexes to underscore separated.
+ */
+function mollom_update_7213() {
+  db_drop_index('mollom', 'contentId');
+  db_drop_index('mollom', 'captchaId');
+  if (db_field_exists('mollom', 'contentId')) {
+    db_change_field('mollom', 'contentId', 'content_id', array(
+      'description' => 'Content ID returned by Mollom.',
+      'type' => 'varchar',
+      'length' => 128,
+      'not null' => TRUE,
+      'default' => '',
+    ));
+  }
+  if (db_field_exists('mollom', 'captchaId')) {
+    db_change_field('mollom', 'captchaId', 'captcha_id', array(
+      'description' => 'CAPTCHA ID returned by Mollom.',
+      'type' => 'varchar',
+      'length' => 128,
+    ));
+  }
+  if (db_field_exists('mollom', 'spamScore')) {
+    db_change_field('mollom', 'spamScore', 'spam_score', array(
+      'description' => 'Text analysis spam check result.',
+      'type' => 'float',
+      'size' => 'tiny',
+      'not null' => FALSE,
+    ));
+  }
+  if (db_field_exists('mollom', 'spamClassification')) {
+    db_change_field('mollom', 'spamClassification', 'spam_classification', array(
+      'description' => 'Test analysis final spam classification result.',
+      'type' => 'varchar',
+      'length' => 16,
+    ));
+  }
+  if (db_field_exists('mollom', 'qualityScore')) {
+    db_change_field('mollom', 'qualityScore', 'quality_score', array(
+      'description' => 'Text analysis quality check result.',
+      'type' => 'float',
+      'size' => 'tiny',
+      'not null' => FALSE,
+    ));
+  }
+  if (db_field_exists('mollom', 'profanityScore')) {
+    db_change_field('mollom', 'profanityScore', 'profanity_score', array(
+      'description' => 'Text analysis profanity check result.',
+      'type' => 'float',
+      'size' => 'tiny',
+      'not null' => FALSE,
+    ));
+  }
+  db_add_index('mollom', 'content_id', array('content_id'));
+  db_add_index('mollom', 'captcha_id', array('captcha_id'));
 }
