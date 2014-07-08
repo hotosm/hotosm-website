@@ -109,7 +109,7 @@ function hot_project_field_default_field_instances() {
         'summary_rows' => 5,
       ),
       'type' => 'text_textarea_with_summary',
-      'weight' => 4,
+      'weight' => 5,
     ),
   );
 
@@ -219,7 +219,7 @@ function hot_project_field_default_field_instances() {
         'openlayers_cck_preset_map' => 'default',
       ),
       'type' => 'geofield_openlayers',
-      'weight' => 7,
+      'weight' => 8,
     ),
     'widget_type' => 'geofield_wkt',
   );
@@ -315,7 +315,7 @@ function hot_project_field_default_field_instances() {
         'size' => 60,
       ),
       'type' => 'text_textarea',
-      'weight' => 2,
+      'weight' => 3,
     ),
     'widget_type' => 'text_textarea',
   );
@@ -434,7 +434,7 @@ function hot_project_field_default_field_instances() {
         'progress_indicator' => 'bar',
       ),
       'type' => 'image_image',
-      'weight' => 5,
+      'weight' => 6,
     ),
     'widget_type' => 'imagefield_widget',
   );
@@ -542,7 +542,7 @@ function hot_project_field_default_field_instances() {
         'default_value_php' => NULL,
       ),
       'type' => 'link_field',
-      'weight' => 3,
+      'weight' => 4,
     ),
     'widget_type' => 'link',
   );
@@ -598,7 +598,7 @@ function hot_project_field_default_field_instances() {
         'size' => 60,
       ),
       'type' => 'text_textfield',
-      'weight' => -5,
+      'weight' => 0,
     ),
   );
 
@@ -691,7 +691,7 @@ function hot_project_field_default_field_instances() {
         'progress_indicator' => 'throbber',
       ),
       'type' => 'file_generic',
-      'weight' => 6,
+      'weight' => 7,
     ),
   );
 

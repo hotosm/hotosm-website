@@ -252,6 +252,13 @@ function hot_project_views_default_views() {
   $handler->display->display_options['defaults']['row_plugin'] = FALSE;
   $handler->display->display_options['row_plugin'] = 'fields';
   $handler->display->display_options['defaults']['row_options'] = FALSE;
+  $handler->display->display_options['defaults']['relationships'] = FALSE;
+  /* Relationship: Flags: featured_project */
+  $handler->display->display_options['relationships']['flag_content_rel']['id'] = 'flag_content_rel';
+  $handler->display->display_options['relationships']['flag_content_rel']['table'] = 'node';
+  $handler->display->display_options['relationships']['flag_content_rel']['field'] = 'flag_content_rel';
+  $handler->display->display_options['relationships']['flag_content_rel']['flag'] = 'featured_project';
+  $handler->display->display_options['relationships']['flag_content_rel']['user_scope'] = 'any';
   $handler->display->display_options['defaults']['fields'] = FALSE;
   /* Field: Content: Project Image */
   $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
@@ -336,6 +343,7 @@ function hot_project_views_default_views() {
     t('Projects Overview Page'),
     t('Projects'),
     t('Featured Project Block'),
+    t('flag'),
   );
   $export['project'] = $view;
 

@@ -30,6 +30,54 @@ function hot_project_views_api($module = NULL, $api = NULL) {
 }
 
 /**
+ * Implements hook_flag_default_flags().
+ */
+function hot_project_flag_default_flags() {
+  $flags = array();
+  // Exported flag: "Featured project".
+  $flags['featured_project'] = array(
+    'entity_type' => 'node',
+    'title' => 'Featured project',
+    'global' => 1,
+    'types' => array(
+      0 => 'project',
+    ),
+    'flag_short' => 'Feature this project',
+    'flag_long' => 'Feature this project on the home page.',
+    'flag_message' => 'Featured project',
+    'unflag_short' => 'Un-feature this project',
+    'unflag_long' => 'Not feature this project on the home page anymore.',
+    'unflag_message' => 'Un-featured.',
+    'unflag_denied_text' => '',
+    'link_type' => 'toggle',
+    'weight' => 0,
+    'show_in_links' => array(
+      'full' => 0,
+      'teaser' => 0,
+      'rss' => 0,
+      'print' => 0,
+      'diff_standard' => 0,
+      'feature' => 0,
+      'list' => 0,
+      'revision' => 0,
+      'token' => 0,
+    ),
+    'show_as_field' => 1,
+    'show_on_form' => 1,
+    'access_author' => '',
+    'show_contextual_link' => FALSE,
+    'i18n' => 0,
+    'api_version' => 3,
+    'module' => 'hot_project',
+    'locked' => array(
+      0 => 'name',
+    ),
+  );
+  return $flags;
+
+}
+
+/**
  * Implements hook_image_default_styles().
  */
 function hot_project_image_default_styles() {

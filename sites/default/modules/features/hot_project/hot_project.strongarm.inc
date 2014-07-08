@@ -116,10 +116,13 @@ function hot_project_strongarm() {
           'weight' => '1',
         ),
         'path' => array(
-          'weight' => '8',
+          'weight' => '9',
         ),
         'language' => array(
-          'weight' => '0',
+          'weight' => '1',
+        ),
+        'flag' => array(
+          'weight' => '2',
         ),
       ),
       'display' => array(
@@ -173,9 +176,7 @@ function hot_project_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'menu_options_project';
-  $strongarm->value = array(
-    0 => 'main-menu',
-  );
+  $strongarm->value = array();
   $export['menu_options_project'] = $strongarm;
 
   $strongarm = new stdClass();
