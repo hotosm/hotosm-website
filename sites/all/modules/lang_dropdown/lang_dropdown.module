@@ -431,6 +431,47 @@ function lang_dropdown_block_save($delta = '', $edit = array()) {
 }
 
 /**
+ * HOOK_language_switch_links_ALTER
+ *
+ * REMOVE invalid language links from content pages that don't have
+ * translations available, or reduce the list as needed.
+ *
+ * Gets called from - eg language_negotiation_get_switch_links().
+ *
+ * @param $links is a nested array of links keyed by language code.
+ * @param $type is the language type the links will switch.
+ * @param $path is the current path.
+ */
+function lang_dropdown_language_switch_links_alter(&$links, $type, $path) {
+
+  if ($type == LANGUAGE_TYPE_CONTENT) {
+    // Assume node for now. should be entity somehow.
+    $node = menu_get_object('node', 1, $path);
+    // If not a node, got null, so what.
+    // Compare with entity_translation_node_view, which this logic emulates
+    if (!empty($node->translations) && drupal_multilingual() && entity_translation_node_supported_type($node->type) ) {
+      // Look at the links we are asked to alter
+      if (!empty($links)) {
+        $handler = entity_translation_get_handler('node', $node);
+        $translations = $handler->getTranslations()->data;
+        // Remove links to unavailable translations.
+        foreach ($links as $langcode => $link) {
+          if (!isset($translations[$langcode]) || !entity_translation_access('node', $translations[$langcode])) {
+            unset($links[$langcode]['href']);
+            $links[$langcode]['attributes']['class'][] = 'locale-untranslated';
+          }
+        }
+      }
+    }
+    else {
+      // If translation is not supported at all for this thing - blank the results.
+      $links = array();
+    }
+  }
+
+}
+
+/**
  * Implements hook_block_view().
  */
 function lang_dropdown_block_view($type = 'language') {
