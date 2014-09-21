@@ -13,6 +13,53 @@ function hot_updates_context_default_contexts() {
   $context = new stdClass();
   $context->disabled = FALSE; /* Edit this to true to make a default context disabled initially */
   $context->api_version = 3;
+  $context->name = 'update_node';
+  $context->description = '';
+  $context->tag = 'updates';
+  $context->conditions = array(
+    'node' => array(
+      'values' => array(
+        'update' => 'update',
+      ),
+      'options' => array(
+        'node_form' => '1',
+      ),
+    ),
+  );
+  $context->reactions = array(
+    'block' => array(
+      'blocks' => array(
+        'lang_dropdown-language_content' => array(
+          'module' => 'lang_dropdown',
+          'delta' => 'language_content',
+          'region' => 'sidebar',
+          'weight' => '-10',
+        ),
+        'locale-language_content' => array(
+          'module' => 'locale',
+          'delta' => 'language_content',
+          'region' => 'sidebar',
+          'weight' => '-9',
+        ),
+        'views-update-block' => array(
+          'module' => 'views',
+          'delta' => 'update-block',
+          'region' => 'sidebar',
+          'weight' => '-8',
+        ),
+      ),
+    ),
+  );
+  $context->condition_mode = 0;
+
+  // Translatables
+  // Included for use with string extractors like potx.
+  t('updates');
+  $export['update_node'] = $context;
+
+  $context = new stdClass();
+  $context->disabled = FALSE; /* Edit this to true to make a default context disabled initially */
+  $context->api_version = 3;
   $context->name = 'updates_overview';
   $context->description = '';
   $context->tag = 'updates';

@@ -56,7 +56,7 @@ function hot_updates_field_default_field_instances() {
         'module' => 'text',
         'settings' => array(),
         'type' => 'text_default',
-        'weight' => 3,
+        'weight' => 2,
       ),
       'teaser' => array(
         'label' => 'hidden',
@@ -85,7 +85,7 @@ function hot_updates_field_default_field_instances() {
         'summary_rows' => 5,
       ),
       'type' => 'text_textarea_with_summary',
-      'weight' => 4,
+      'weight' => 5,
     ),
   );
 
@@ -152,7 +152,7 @@ Then use the <em>Insert</em> button to place them in the text.',
         'progress_indicator' => 'throbber',
       ),
       'type' => 'image_miw',
-      'weight' => 5,
+      'weight' => 7,
     ),
   );
 
@@ -165,10 +165,9 @@ Then use the <em>Insert</em> button to place them in the text.',
     'display' => array(
       'default' => array(
         'label' => 'inline',
-        'module' => 'node_reference',
         'settings' => array(),
-        'type' => 'node_reference_default',
-        'weight' => 1,
+        'type' => 'hidden',
+        'weight' => 0,
       ),
       'full' => array(
         'label' => 'inline',
@@ -219,9 +218,47 @@ Then use the <em>Insert</em> button to place them in the text.',
       'module' => 'options',
       'settings' => array(),
       'type' => 'options_select',
-      'weight' => 1,
+      'weight' => 2,
     ),
     'widget_type' => 'nodereference_select',
+  );
+
+  // Exported field_instance: 'node-update-field_working_group'
+  $field_instances['node-update-field_working_group'] = array(
+    'bundle' => 'update',
+    'default_value' => NULL,
+    'deleted' => 0,
+    'description' => '',
+    'display' => array(
+      'default' => array(
+        'label' => 'above',
+        'module' => 'node_reference',
+        'settings' => array(),
+        'type' => 'node_reference_default',
+        'weight' => 15,
+      ),
+      'teaser' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+    ),
+    'entity_type' => 'node',
+    'field_name' => 'field_working_group',
+    'label' => 'Working group',
+    'required' => 0,
+    'settings' => array(
+      'entity_translation_sync' => FALSE,
+      'user_register_form' => FALSE,
+    ),
+    'widget' => array(
+      'active' => 1,
+      'module' => 'options',
+      'settings' => array(),
+      'type' => 'options_select',
+      'weight' => 3,
+    ),
   );
 
   // Exported field_instance: 'node-update-taxonomy_vocabulary_3'
@@ -259,7 +296,7 @@ Then use the <em>Insert</em> button to place them in the text.',
         'size' => 60,
       ),
       'type' => 'taxonomy_autocomplete',
-      'weight' => 2,
+      'weight' => 4,
     ),
   );
 
@@ -302,7 +339,7 @@ Then use the <em>Insert</em> button to place them in the text.',
         'size' => 60,
       ),
       'type' => 'text_textfield',
-      'weight' => -5,
+      'weight' => 0,
     ),
   );
 
@@ -318,7 +355,7 @@ Use the <em>Insert</em> button to place a link to the file in the text.',
         'module' => 'file',
         'settings' => array(),
         'type' => 'file_table',
-        'weight' => 4,
+        'weight' => 3,
       ),
       'full' => array(
         'label' => 'hidden',
@@ -381,7 +418,7 @@ Use the <em>Insert</em> button to place a link to the file in the text.',
         'progress_indicator' => 'throbber',
       ),
       'type' => 'file_mfw',
-      'weight' => 6,
+      'weight' => 8,
     ),
   );
 
@@ -397,6 +434,7 @@ Use the <em>Insert</em> button to place a link to the file in the text.',
   t('Update Tags');
   t('Use this to attach <strong>documents</strong> - any images can be uploaded with the <em>Images field</em> above.
 Use the <em>Insert</em> button to place a link to the file in the text.');
+  t('Working group');
   t('You can upload several images at once. 
 Then use the <em>Insert</em> button to place them in the text.');
 

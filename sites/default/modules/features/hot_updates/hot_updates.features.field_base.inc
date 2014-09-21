@@ -117,6 +117,47 @@ function hot_updates_field_default_field_bases() {
     'type_name' => 'update',
   );
 
+  // Exported field_base: 'field_working_group'
+  $field_bases['field_working_group'] = array(
+    'active' => 1,
+    'cardinality' => -1,
+    'deleted' => 0,
+    'entity_types' => array(),
+    'field_name' => 'field_working_group',
+    'foreign keys' => array(
+      'nid' => array(
+        'columns' => array(
+          'nid' => 'nid',
+        ),
+        'table' => 'node',
+      ),
+    ),
+    'indexes' => array(
+      'nid' => array(
+        0 => 'nid',
+      ),
+    ),
+    'locked' => 0,
+    'module' => 'node_reference',
+    'settings' => array(
+      'entity_translation_sync' => FALSE,
+      'referenceable_types' => array(
+        'book' => 0,
+        'project' => 0,
+        'update' => 0,
+        'video' => 0,
+        'working_group' => 'working_group',
+      ),
+      'view' => array(
+        'args' => array(),
+        'display_name' => '',
+        'view_name' => '',
+      ),
+    ),
+    'translatable' => 0,
+    'type' => 'node_reference',
+  );
+
   // Exported field_base: 'taxonomy_vocabulary_3'
   $field_bases['taxonomy_vocabulary_3'] = array(
     'active' => 1,

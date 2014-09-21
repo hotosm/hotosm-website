@@ -18,7 +18,7 @@ function hot_updates_ds_field_settings_info() {
   $ds_fieldsetting->view_mode = 'default';
   $ds_fieldsetting->settings = array(
     'links' => array(
-      'weight' => '0',
+      'weight' => '4',
       'label' => 'hidden',
       'format' => 'default',
     ),
@@ -26,11 +26,6 @@ function hot_updates_ds_field_settings_info() {
       'weight' => '5',
       'label' => 'hidden',
       'format' => 'default',
-    ),
-    'submitted_by' => array(
-      'weight' => '2',
-      'label' => 'hidden',
-      'format' => 'ds_post_date_short',
     ),
   );
   $export['node|update|default'] = $ds_fieldsetting;
@@ -91,20 +86,16 @@ function hot_updates_ds_layout_settings_info() {
   $ds_layout->settings = array(
     'regions' => array(
       'ds_content' => array(
-        0 => 'links',
-        1 => 'field_update_project',
-        2 => 'submitted_by',
-        3 => 'body',
-        4 => 'upload',
-        5 => 'comments',
+        0 => 'body',
+        1 => 'upload',
+        2 => 'links',
+        3 => 'comments',
       ),
     ),
     'fields' => array(
-      'links' => 'ds_content',
-      'field_update_project' => 'ds_content',
-      'submitted_by' => 'ds_content',
       'body' => 'ds_content',
       'upload' => 'ds_content',
+      'links' => 'ds_content',
       'comments' => 'ds_content',
     ),
     'classes' => array(),
