@@ -267,7 +267,7 @@ fieldset.collapsible .fieldset-title {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003220}}
 .links .comment-add {
-  display: none;
+/*  display: none; */
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003226}}
@@ -313,7 +313,7 @@ fieldset.collapsible .fieldset-title {
 .l-region--navigation {
   float: right;
   clear: none !important;
-  margin-top: 20px;
+/*  margin-top: -20px; */
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000327}}
@@ -664,3 +664,38 @@ nav .menu li.leaf {
   margin: 20px 0;
   display: block;
 }
+
+/* styles as classes */
+.inline {
+  display: inline;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.no-style ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 0;
+}
+
+h4.info {
+  margin-bottom: .2em;
+}
+
+/* Language dropdown */
+#block-lang-dropdown-language-content {
+  margin-bottom: 2em;
+}
+
+#block-lang-dropdown-language-content h2 {
+  font-size: .9em;
+  font-weight: normal;
+  margin-bottom: 0;
+}
+
