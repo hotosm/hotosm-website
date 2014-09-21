@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HOT Working groups feature.
+ */
+
+include_once 'hot_working_groups.features.inc';
