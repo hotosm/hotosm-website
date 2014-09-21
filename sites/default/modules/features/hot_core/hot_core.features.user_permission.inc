@@ -88,6 +88,8 @@ function hot_core_user_default_permissions() {
   $permissions['access user profiles'] = array(
     'name' => 'access user profiles',
     'roles' => array(
+      'anonymous user' => 'anonymous user',
+      'authenticated user' => 'authenticated user',
       'site admin' => 'site admin',
     ),
     'module' => 'user',

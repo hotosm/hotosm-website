@@ -109,6 +109,9 @@ function hot_project_strongarm() {
       'grid' => array(
         'custom_settings' => TRUE,
       ),
+      'title' => array(
+        'custom_settings' => TRUE,
+      ),
     ),
     'extra_fields' => array(
       'form' => array(
@@ -141,6 +144,20 @@ function hot_project_strongarm() {
           ),
           'list' => array(
             'weight' => '1',
+            'visible' => FALSE,
+          ),
+          'title' => array(
+            'weight' => '1',
+            'visible' => FALSE,
+          ),
+        ),
+        'flag_featured_project' => array(
+          'default' => array(
+            'weight' => '10',
+            'visible' => FALSE,
+          ),
+          'title' => array(
+            'weight' => '12',
             'visible' => FALSE,
           ),
         ),

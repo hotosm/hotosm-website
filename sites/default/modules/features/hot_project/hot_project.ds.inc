@@ -208,6 +208,34 @@ function hot_project_ds_layout_settings_info() {
   );
   $export['node|project|list'] = $ds_layout;
 
+  $ds_layout = new stdClass();
+  $ds_layout->api_version = 1;
+  $ds_layout->id = 'node|project|title';
+  $ds_layout->entity_type = 'node';
+  $ds_layout->bundle = 'project';
+  $ds_layout->view_mode = 'title';
+  $ds_layout->layout = 'ds_1col';
+  $ds_layout->settings = array(
+    'regions' => array(
+      'ds_content' => array(
+        0 => 'title_field',
+      ),
+    ),
+    'fields' => array(
+      'title_field' => 'ds_content',
+    ),
+    'classes' => array(),
+    'wrappers' => array(
+      'ds_content' => 'div',
+    ),
+    'layout_wrapper' => 'div',
+    'layout_attributes' => '',
+    'layout_attributes_merge' => 1,
+    'layout_link_attribute' => '',
+    'layout_link_custom' => '',
+  );
+  $export['node|project|title'] = $ds_layout;
+
   return $export;
 }
 
@@ -233,8 +261,18 @@ function hot_project_ds_view_modes_info() {
   $ds_view_mode->entities = array(
     'node' => 'node',
     'taxonomy_term' => 'taxonomy_term',
+    'user' => 'user',
   );
   $export['list'] = $ds_view_mode;
+
+  $ds_view_mode = new stdClass();
+  $ds_view_mode->api_version = 1;
+  $ds_view_mode->view_mode = 'title';
+  $ds_view_mode->label = 'Title';
+  $ds_view_mode->entities = array(
+    'node' => 'node',
+  );
+  $export['title'] = $ds_view_mode;
 
   return $export;
 }
