@@ -35,12 +35,6 @@ function hot_updates_context_default_contexts() {
           'region' => 'sidebar',
           'weight' => '-10',
         ),
-        'locale-language_content' => array(
-          'module' => 'locale',
-          'delta' => 'language_content',
-          'region' => 'sidebar',
-          'weight' => '-9',
-        ),
         'views-update-block' => array(
           'module' => 'views',
           'delta' => 'update-block',
