@@ -313,7 +313,7 @@ fieldset.collapsible .fieldset-title {
 .l-region--navigation {
   float: right;
   clear: none !important;
-/*  margin-top: -20px; */
+  margin-top: -20px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000327}}
