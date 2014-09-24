@@ -3,6 +3,8 @@ description = Automatically moderates user-submitted content and protects your s
 core = 7.x
 configure = admin/config/content/mollom
 
+test_dependencies[] = ctools
+
 stylesheets[all][] = mollom.css
 
 files[] = includes/mollom.class.inc
@@ -10,9 +12,9 @@ files[] = mollom.drupal.inc
 files[] = tests/mollom.test
 files[] = tests/mollom.class.test
 
-; Information added by Drupal.org packaging script on 2014-05-05
-version = "7.x-2.10"
+; Information added by Drupal.org packaging script on 2014-09-23
+version = "7.x-2.12"
 core = "7.x"
 project = "mollom"
-datestamp = "1399303128"
+datestamp = "1411468431"
 

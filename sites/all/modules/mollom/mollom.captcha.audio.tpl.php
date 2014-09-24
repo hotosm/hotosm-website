@@ -18,7 +18,7 @@ $flash_url = url($flash_fallback_player, array(
   'query' => array('url' => $captcha_url),
   'external' => TRUE,
 ));
-$switch_verify = t('Switch to image verification');
+$switch_verify = t('Switch to image verification.');
 $instructions = t('Enter only the first letter of each word you hear.  If you are having trouble listening in your browser, you can <a href="@captcha-url" id="mollom_captcha_download" class="swfNext-mollom_captcha_verify">download the audio</a> to listen on your device.', array(
   '@captcha-url' => $captcha_url,
 ));
@@ -128,6 +128,6 @@ $refresh_image_output = theme('image', array(
       <p><?php print $unsupported; ?></p>
     </div>
 
-    <div class="mollom-audio-captcha-switch"><a href="#" class="mollom-switch-captcha mollom-image-captcha swfPrev-mollom_captcha_download" id="mollom_captcha_verify"><?php print $switch_verify; ?></a>.</div>
+    <div class="mollom-audio-captcha-switch"><a href="#" class="mollom-switch-captcha mollom-image-captcha swfPrev-mollom_captcha_download" id="mollom_captcha_verify"><?php print $switch_verify; ?></a></div>
   </div>
 </span>

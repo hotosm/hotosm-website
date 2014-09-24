@@ -680,7 +680,7 @@ function mollom_update_7005() {
   // Since some data rows are using an empty string to denote no 'quality'
   // value, we need to insert a temporary value that is converted to NULL
   // afterwards.
-  // When upgrading from 6.x-2.x, this is {mollom}.qualityScore already.
+  // When upgrading from 6.x-2.x, this is {mollom}.qualityScore {mollom}.quality_score already.
   if (db_field_exists('mollom', 'quality')) {
     db_update('mollom')
       ->fields(array('quality' => 9))
@@ -699,8 +699,8 @@ function mollom_update_7005() {
   }
 
   // Add {mollom}.spam.
-  // When upgrading from 6.x-2.x, this is {mollom}.spamScore already.
-  if (!db_field_exists('mollom', 'spam') && !db_field_exists('mollom', 'spamScore')) {
+  // When upgrading from 6.x-2.x, this is {mollom}.spamScore or {mollom}.spam_score already.
+  if (!db_field_exists('mollom', 'spam') && !db_field_exists('mollom', 'spamScore') && !db_field_exists('mollom', 'spam_score')) {
     db_add_field('mollom', 'spam', array(
       'description' => 'Text analysis spam check result.',
       'type' => 'int',
@@ -711,25 +711,31 @@ function mollom_update_7005() {
     // Note that this is just to have some values. 'quality' and 'spam' are
     // completely unrelated otherwise.
     // MOLLOM_ANALYSIS_SPAM (2)
+
+    if (db_field_exists('mollom', 'quality')) {
+      $quality = 'quality';
+    } else {
+      $quality = 'quality_score';
+    }
     db_update('mollom')
       ->fields(array('spam' => 2))
-      ->condition('quality', 0.5, '<')
+      ->condition($quality, 0.5, '<')
       ->execute();
     // MOLLOM_ANALYSIS_UNSURE (3)
     db_update('mollom')
       ->fields(array('spam' => 3))
-      ->condition('quality', 0.5, '=')
+      ->condition($quality, 0.5, '=')
       ->execute();
     // MOLLOM_ANALYSIS_HAM (1)
     db_update('mollom')
       ->fields(array('spam' => 1))
-      ->condition('quality', 0.5, '>')
+      ->condition($quality, 0.5, '>')
       ->execute();
   }
 
   // Add {mollom}.profanity.
-  // When upgrading from 6.x-2.x, this is {mollom}.profanityScore already.
-  if (!db_field_exists('mollom', 'profanity') && !db_field_exists('mollom', 'profanityScore')) {
+  // When upgrading from 6.x-2.x, this is {mollom}.profanityScore or {mollom}.profanity_score already.
+  if (!db_field_exists('mollom', 'profanity') && !db_field_exists('mollom', 'profanityScore') && !db_field_exists('mollom', 'profanity_score')) {
     db_add_field('mollom', 'profanity', array(
       'description' => 'Text analysis profanity check result.',
       'type' => 'float',
@@ -819,9 +825,11 @@ function mollom_update_7008() {
     db_add_primary_key('mollom', array('entity', 'id'));
   }
 
-  // When upgrading from 6.x-2.x, this is {mollom}.contentId already.
-  if (!db_field_exists('mollom', 'session_id') && !db_field_exists('mollom', 'contentId')) {
+  // When upgrading from 6.x-2.x, this is {mollom}.contentId or {mollom}.content_id already.
+  if (db_index_exists('mollom', 'session')) {
     db_drop_index('mollom', 'session');
+  }
+  if (db_field_exists('mollom', 'session') && !db_field_exists('mollom', 'session_id') && !db_field_exists('mollom', 'contentId') && !db_field_exists('mollom', 'content_id')) {
     db_change_field('mollom', 'session', 'session_id', array(
       'description' => 'Session hash returned by Mollom.',
       'type' => 'varchar',
@@ -895,11 +903,15 @@ function mollom_update_7011() {
 function mollom_update_7200() {
   variable_del('mollom_servers');
 
-  if (db_field_exists('mollom', 'session_id')) {
+  if (db_index_exists('mollom', 'session_id')) {
+    db_drop_index('mollom', 'session_id');
+  }
+
+  // When upgrading from 6.x-2.x, this is {mollom}.contentId or {mollom}.content_id and {mollom}.captchaId and {mollom}.captcha_id already.
+  if (db_field_exists('mollom', 'session_id') && !db_field_exists('mollom', 'contentId') && !db_field_exists('mollom', 'content_id') && !db_field_exists('mollom', 'captchaId') && !db_field_exists('mollom', 'captcha_id')) {
     // Truncate table. Old session IDs cannot be migrated.
     db_truncate('mollom')->execute();
     // Remove 'session_id'.
-    db_drop_index('mollom', 'session_id');
     db_drop_field('mollom', 'session_id');
 
     // Add 'contentId' and 'captchaId'.
@@ -921,7 +933,8 @@ function mollom_update_7200() {
     db_add_index('mollom', 'captchaId', array('captchaId'));
   }
   // Add 'spamClassification'.
-  if (!db_field_exists('mollom', 'spamClassification')) {
+  // When upgrading from 6.x-2.x, this is {mollom}.spamClassification or {mollom}.spam_classification already.
+  if (!db_field_exists('mollom', 'spamClassification') && !db_field_exists('mollom', 'spam_classification')) {
     db_add_field('mollom', 'spamClassification', array(
       'description' => 'Text analysis final spam classification result.',
       'type' => 'varchar',
@@ -930,7 +943,7 @@ function mollom_update_7200() {
     ));
   }
   // Change 'spam' into 'spamScore' double.
-  if (!db_field_exists('mollom', 'spamScore')) {
+  if (db_field_exists('mollom', 'spam') && !db_field_exists('mollom', 'spamScore') && !db_field_exists('mollom', 'spam_score')) {
     db_change_field('mollom', 'spam', 'spamScore', array(
       'description' => 'Text analysis spam check result.',
       'type' => 'float',
@@ -939,7 +952,7 @@ function mollom_update_7200() {
     ));
   }
   // Change 'profanity' into 'profanityScore' double.
-  if (!db_field_exists('mollom', 'profanityScore')) {
+  if (db_field_exists('mollom', 'profanity') && !db_field_exists('mollom', 'profanityScore') && !db_field_exists('mollom', 'profanity_score')) {
     db_change_field('mollom', 'profanity', 'profanityScore', array(
       'description' => 'Text analysis profanity check result.',
       'type' => 'float',
@@ -948,7 +961,7 @@ function mollom_update_7200() {
     ));
   }
   // Change 'quality' into 'qualityScore' double.
-  if (!db_field_exists('mollom', 'qualityScore')) {
+  if (db_field_exists('mollom', 'quality') && !db_field_exists('mollom', 'qualityScore') && !db_field_exists('mollom', 'quality_score')) {
     db_change_field('mollom', 'quality', 'qualityScore', array(
       'description' => 'Text analysis quality check result.',
       'type' => 'float',
@@ -1031,12 +1044,23 @@ function mollom_update_7204() {
   drupal_load('module', 'mollom');
 
   // Find all Mollom data records with duplicate contentIds.
-  $contentIds = mollom_db_query('SELECT contentId FROM {mollom} GROUP BY contentId HAVING COUNT(contentId) > 1')->fetchCol();
-  // If there are any, delete them.
-  if (!empty($contentIds)) {
-    db_delete('mollom')
-      ->condition('contentId', $contentIds)
-      ->execute();
+  if (db_field_exists('mollom', 'contentId')) {
+    $contentIds = mollom_db_query('SELECT contentId FROM {mollom} GROUP BY contentId HAVING COUNT(contentId) > 1')->fetchCol();
+    // If there are any, delete them.
+    if (!empty($contentIds)) {
+      db_delete('mollom')
+        ->condition('contentId', $contentIds)
+        ->execute();
+    }
+  }
+  else {
+    $content_ids = mollom_db_query('SELECT content_id FROM {mollom} GROUP BY content_id HAVING COUNT(content_id) > 1')->fetchCol();
+    // If there are any, delete them.
+    if (!empty($content_ids)) {
+      db_delete('mollom')
+        ->condition('content_id', $content_ids)
+        ->execute();
+    }
   }
 }
 
@@ -1222,9 +1246,10 @@ function mollom_update_7212() {
  * Change all mixedCase database columns and indexes to underscore separated.
  */
 function mollom_update_7213() {
-  db_drop_index('mollom', 'contentId');
-  db_drop_index('mollom', 'captchaId');
-  if (db_field_exists('mollom', 'contentId')) {
+  if (db_index_exists('mollom', 'contentId')) {
+    db_drop_index('mollom', 'contentId');
+  }
+  if (db_field_exists('mollom', 'contentId') && !db_field_exists('mollom', 'content_id')) {
     db_change_field('mollom', 'contentId', 'content_id', array(
       'description' => 'Content ID returned by Mollom.',
       'type' => 'varchar',
@@ -1232,15 +1257,21 @@ function mollom_update_7213() {
       'not null' => TRUE,
       'default' => '',
     ));
+    db_add_index('mollom', 'content_id', array('content_id'));
   }
-  if (db_field_exists('mollom', 'captchaId')) {
+
+  if (db_index_exists('mollom', 'captchaId')) {
+    db_drop_index('mollom', 'captchaId');
+  }
+  if (db_field_exists('mollom', 'captchaId') && !db_field_exists('mollom', 'captcha_id')) {
     db_change_field('mollom', 'captchaId', 'captcha_id', array(
       'description' => 'CAPTCHA ID returned by Mollom.',
       'type' => 'varchar',
       'length' => 128,
     ));
+    db_add_index('mollom', 'captcha_id', array('captcha_id'));
   }
-  if (db_field_exists('mollom', 'spamScore')) {
+  if (db_field_exists('mollom', 'spamScore') && !db_field_exists('mollom', 'spam_score')) {
     db_change_field('mollom', 'spamScore', 'spam_score', array(
       'description' => 'Text analysis spam check result.',
       'type' => 'float',
@@ -1248,14 +1279,14 @@ function mollom_update_7213() {
       'not null' => FALSE,
     ));
   }
-  if (db_field_exists('mollom', 'spamClassification')) {
+  if (db_field_exists('mollom', 'spamClassification') && !db_field_exists('mollom', 'spam_classification')) {
     db_change_field('mollom', 'spamClassification', 'spam_classification', array(
       'description' => 'Test analysis final spam classification result.',
       'type' => 'varchar',
       'length' => 16,
     ));
   }
-  if (db_field_exists('mollom', 'qualityScore')) {
+  if (db_field_exists('mollom', 'qualityScore') && !db_field_exists('mollom', 'quality_score')) {
     db_change_field('mollom', 'qualityScore', 'quality_score', array(
       'description' => 'Text analysis quality check result.',
       'type' => 'float',
@@ -1263,7 +1294,7 @@ function mollom_update_7213() {
       'not null' => FALSE,
     ));
   }
-  if (db_field_exists('mollom', 'profanityScore')) {
+  if (db_field_exists('mollom', 'profanityScore') && !db_field_exists('mollom', 'profanity_score')) {
     db_change_field('mollom', 'profanityScore', 'profanity_score', array(
       'description' => 'Text analysis profanity check result.',
       'type' => 'float',
@@ -1271,6 +1302,4 @@ function mollom_update_7213() {
       'not null' => FALSE,
     ));
   }
-  db_add_index('mollom', 'content_id', array('content_id'));
-  db_add_index('mollom', 'captcha_id', array('captcha_id'));
 }
