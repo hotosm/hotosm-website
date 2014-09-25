@@ -58,11 +58,11 @@ function hot_people_flag_default_flags() {
     'show_contextual_link' => 0,
     'show_on_profile' => 0,
     'access_uid' => '',
-    'api_version' => 3,
     'module' => 'hot_people',
     'locked' => array(
       0 => 'name',
     ),
+    'api_version' => 3,
   );
   // Exported flag: "Voting member".
   $flags['voting_member'] = array(
@@ -91,11 +91,11 @@ function hot_people_flag_default_flags() {
     'show_contextual_link' => 0,
     'show_on_profile' => 0,
     'access_uid' => '',
-    'api_version' => 3,
     'module' => 'hot_people',
     'locked' => array(
       0 => 'name',
     ),
+    'api_version' => 3,
   );
   return $flags;
 

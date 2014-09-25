@@ -174,7 +174,7 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['uid']['id'] = 'uid';
   $handler->display->display_options['fields']['uid']['table'] = 'users';
   $handler->display->display_options['fields']['uid']['field'] = 'uid';
-  $handler->display->display_options['fields']['uid']['label'] = 'Contcact by ';
+  $handler->display->display_options['fields']['uid']['label'] = 'Contact by ';
   $handler->display->display_options['fields']['uid']['alter']['alter_text'] = TRUE;
   $handler->display->display_options['fields']['uid']['alter']['text'] = 'Email';
   $handler->display->display_options['fields']['uid']['alter']['make_link'] = TRUE;
@@ -250,7 +250,7 @@ function hot_people_views_default_views() {
     t('User details block'),
     t('Twitter'),
     t('OSM'),
-    t('Contcact by '),
+    t('Contact by '),
     t('Email'),
     t('HOT'),
     t('Projects'),
