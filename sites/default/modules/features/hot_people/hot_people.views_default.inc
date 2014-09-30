@@ -183,7 +183,7 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['uid']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['uid']['element_default_classes'] = FALSE;
   $handler->display->display_options['fields']['uid']['link_to_user'] = FALSE;
-  /* Field: User: HOT leadership */
+  /* Field: User: HOT Board function */
   $handler->display->display_options['fields']['field_hot_leadership']['id'] = 'field_hot_leadership';
   $handler->display->display_options['fields']['field_hot_leadership']['table'] = 'field_data_field_hot_leadership';
   $handler->display->display_options['fields']['field_hot_leadership']['field'] = 'field_hot_leadership';

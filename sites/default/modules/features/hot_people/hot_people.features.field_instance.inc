@@ -97,7 +97,7 @@ function hot_people_field_default_field_instances() {
     'bundle' => 'user',
     'default_value' => NULL,
     'deleted' => 0,
-    'description' => '',
+    'description' => 'Only for members of the HOT Board',
     'display' => array(
       'default' => array(
         'label' => 'above',
@@ -108,7 +108,7 @@ function hot_people_field_default_field_instances() {
     ),
     'entity_type' => 'user',
     'field_name' => 'field_hot_leadership',
-    'label' => 'HOT leadership',
+    'label' => 'HOT Board function',
     'required' => 0,
     'settings' => array(
       'entity_translation_sync' => FALSE,
@@ -357,9 +357,10 @@ function hot_people_field_default_field_instances() {
   // Included for use with string extractors like potx.
   t('Bio');
   t('Country');
-  t('HOT leadership');
+  t('HOT Board function');
   t('Name');
   t('OSM user name');
+  t('Only for members of the HOT Board');
   t('Projects');
   t('Twitter handle');
   t('Working group');

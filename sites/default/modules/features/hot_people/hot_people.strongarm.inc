@@ -87,7 +87,7 @@ After logging in, you will be redirected to [user:edit-url] so you can change yo
   $strongarm->name = 'user_mail_register_admin_created_body';
   $strongarm->value = 'Dear [user:name],
 
-A site administrator at [site:name] has created an account for you. 
+As a HOT Member, site administrator at [site:name] has created an account for you.
 
 
 You can log in by clicking on this link or copying and pasting it in your browser:
@@ -98,7 +98,9 @@ This is a one-time login, so it can be used only once.
 
 After logging in, you will be redirected to [user:edit-url] so you can change your password.
 
-Your user name is [user:name], but you can change it if you prefer a different one.
+Your user name is [user:name], but you can change it if you prefer a different one.  
+
+If you have any questions or concerns, please email Kristen, HOT\'s administrator at kegermeier@hotosm.org
 
 --  [site:name] team';
   $export['user_mail_register_admin_created_body'] = $strongarm;
@@ -308,7 +310,7 @@ Your account on [site:name] has been deleted.';
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'user_signatures';
-  $strongarm->value = 1;
+  $strongarm->value = 0;
   $export['user_signatures'] = $strongarm;
 
   return $export;
