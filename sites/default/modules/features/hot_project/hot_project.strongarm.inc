@@ -49,14 +49,14 @@ function hot_project_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'comment_form_location_project';
-  $strongarm->value = '0';
+  $strongarm->value = 0;
   $export['comment_form_location_project'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'comment_preview_project';
-  $strongarm->value = 2;
+  $strongarm->value = '2';
   $export['comment_preview_project'] = $strongarm;
 
   $strongarm = new stdClass();
@@ -70,7 +70,7 @@ function hot_project_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'comment_subject_field_project';
-  $strongarm->value = '1';
+  $strongarm->value = 1;
   $export['comment_subject_field_project'] = $strongarm;
 
   $strongarm = new stdClass();
@@ -109,13 +109,83 @@ function hot_project_strongarm() {
       'grid' => array(
         'custom_settings' => TRUE,
       ),
+      'title' => array(
+        'custom_settings' => TRUE,
+      ),
     ),
     'extra_fields' => array(
-      'form' => array(),
-      'display' => array(),
+      'form' => array(
+        'title' => array(
+          'weight' => '1',
+        ),
+        'path' => array(
+          'weight' => '9',
+        ),
+        'language' => array(
+          'weight' => '1',
+        ),
+        'flag' => array(
+          'weight' => '2',
+        ),
+      ),
+      'display' => array(
+        'language' => array(
+          'default' => array(
+            'weight' => '1',
+            'visible' => FALSE,
+          ),
+          'teaser' => array(
+            'weight' => '4',
+            'visible' => FALSE,
+          ),
+          'feature' => array(
+            'weight' => '2',
+            'visible' => FALSE,
+          ),
+          'list' => array(
+            'weight' => '1',
+            'visible' => FALSE,
+          ),
+          'title' => array(
+            'weight' => '1',
+            'visible' => FALSE,
+          ),
+        ),
+        'flag_featured_project' => array(
+          'default' => array(
+            'weight' => '10',
+            'visible' => FALSE,
+          ),
+          'title' => array(
+            'weight' => '12',
+            'visible' => FALSE,
+          ),
+        ),
+      ),
     ),
   );
   $export['field_bundle_settings_node__project'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'language_content_type_project';
+  $strongarm->value = '4';
+  $export['language_content_type_project'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'menu_options_project';
+  $strongarm->value = array();
+  $export['menu_options_project'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'menu_parent_project';
+  $strongarm->value = 'main-menu:0';
+  $export['menu_parent_project'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
@@ -131,7 +201,7 @@ function hot_project_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'node_preview_project';
-  $strongarm->value = 1;
+  $strongarm->value = '1';
   $export['node_preview_project'] = $strongarm;
 
   $strongarm = new stdClass();

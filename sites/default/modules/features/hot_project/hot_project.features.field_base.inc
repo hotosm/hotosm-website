@@ -22,6 +22,7 @@ function hot_project_field_default_field_bases() {
     'locked' => 0,
     'module' => 'geofield',
     'settings' => array(
+      'entity_translation_sync' => FALSE,
       'openlayers_cck_feature_types' => array(
         'path' => 0,
         'point' => 0,
@@ -58,6 +59,7 @@ function hot_project_field_default_field_bases() {
     'settings' => array(
       'allowed_values' => '',
       'allowed_values_php' => '',
+      'entity_translation_sync' => FALSE,
       'max_length' => '',
       'text_processing' => 1,
     ),
@@ -89,8 +91,11 @@ function hot_project_field_default_field_bases() {
     'locked' => 0,
     'module' => 'image',
     'settings' => array(
-      'default_image' => NULL,
+      'default_image' => 0,
       'description_field' => 0,
+      'entity_translation_sync' => array(
+        0 => 'fid',
+      ),
       'list_default' => 1,
       'list_field' => 0,
       'uri_scheme' => 'public',
@@ -121,14 +126,45 @@ function hot_project_field_default_field_bases() {
         'url_cutoff' => 80,
       ),
       'enable_tokens' => 1,
+      'entity_translation_sync' => FALSE,
       'title' => 'optional',
       'title_maxlength' => 128,
       'title_value' => '',
       'url' => 0,
     ),
-    'translatable' => 0,
+    'translatable' => 1,
     'type' => 'link_field',
     'type_name' => 'project',
+  );
+
+  // Exported field_base: 'title_field'
+  $field_bases['title_field'] = array(
+    'active' => 1,
+    'cardinality' => 1,
+    'deleted' => 0,
+    'entity_types' => array(),
+    'field_name' => 'title_field',
+    'foreign keys' => array(
+      'format' => array(
+        'columns' => array(
+          'format' => 'format',
+        ),
+        'table' => 'filter_format',
+      ),
+    ),
+    'indexes' => array(
+      'format' => array(
+        0 => 'format',
+      ),
+    ),
+    'locked' => 0,
+    'module' => 'text',
+    'settings' => array(
+      'entity_translation_sync' => FALSE,
+      'max_length' => 255,
+    ),
+    'translatable' => 1,
+    'type' => 'text',
   );
 
   return $field_bases;
