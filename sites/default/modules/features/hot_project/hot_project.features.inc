@@ -17,6 +17,9 @@ function hot_project_ctools_plugin_api($module = NULL, $api = NULL) {
   if ($module == "openlayers" && $api == "openlayers_maps") {
     return array("version" => "1");
   }
+  if ($module == "page_manager" && $api == "pages_default") {
+    return array("version" => "1");
+  }
   if ($module == "strongarm" && $api == "strongarm") {
     return array("version" => "1");
   }
@@ -43,11 +46,11 @@ function hot_project_flag_default_flags() {
       0 => 'project',
     ),
     'flag_short' => 'Feature this project',
-    'flag_long' => 'Feature this project on the home page.',
-    'flag_message' => 'Featured project',
+    'flag_long' => 'Feature this project on the front page',
+    'flag_message' => 'This project is featured on the front page',
     'unflag_short' => 'Un-feature this project',
-    'unflag_long' => 'Not feature this project on the home page anymore.',
-    'unflag_message' => 'Un-featured.',
+    'unflag_long' => 'Stop featuring this project on the front page',
+    'unflag_message' => 'This project is not featured on the front page anymore.',
     'unflag_denied_text' => '',
     'link_type' => 'toggle',
     'weight' => 0,
@@ -58,20 +61,21 @@ function hot_project_flag_default_flags() {
       'print' => 0,
       'diff_standard' => 0,
       'feature' => 0,
+      'grid' => 0,
       'list' => 0,
       'revision' => 0,
       'token' => 0,
     ),
-    'show_as_field' => 1,
+    'show_as_field' => 0,
     'show_on_form' => 1,
     'access_author' => '',
-    'show_contextual_link' => FALSE,
+    'show_contextual_link' => 0,
     'i18n' => 0,
+    'api_version' => 3,
     'module' => 'hot_project',
     'locked' => array(
       0 => 'name',
     ),
-    'api_version' => 3,
   );
   return $flags;
 
@@ -186,12 +190,11 @@ function hot_project_node_info() {
     'project' => array(
       'name' => t('Project'),
       'base' => 'node_content',
-      'description' => t('A <em>project</em> is a description of an official HOT project, which has a description, contact person(s) and can have updates attached to it.'),
+      'description' => '',
       'has_title' => '1',
       'title_label' => t('Title'),
       'help' => '',
     ),
   );
-  drupal_alter('node_info', $items);
   return $items;
 }

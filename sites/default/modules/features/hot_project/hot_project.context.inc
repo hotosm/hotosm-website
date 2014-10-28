@@ -26,36 +26,7 @@ function hot_project_context_default_contexts() {
       ),
     ),
   );
-  $context->reactions = array(
-    'block' => array(
-      'blocks' => array(
-        'views-updates-updates_project_block' => array(
-          'module' => 'views',
-          'delta' => 'updates-updates_project_block',
-          'region' => 'content',
-          'weight' => '10',
-        ),
-        'views-project_ol_map-block_1' => array(
-          'module' => 'views',
-          'delta' => 'project_ol_map-block_1',
-          'region' => 'sidebar',
-          'weight' => '-10',
-        ),
-        'views-project_ol_map-block_2' => array(
-          'module' => 'views',
-          'delta' => 'project_ol_map-block_2',
-          'region' => 'sidebar',
-          'weight' => '-9',
-        ),
-        'views-videos-videos_block_projects' => array(
-          'module' => 'views',
-          'delta' => 'videos-videos_block_projects',
-          'region' => 'sidebar',
-          'weight' => '-8',
-        ),
-      ),
-    ),
-  );
+  $context->reactions = array();
   $context->condition_mode = 0;
 
   // Translatables
