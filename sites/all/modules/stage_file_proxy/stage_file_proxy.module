@@ -1,0 +1,256 @@
+<?php
+
+/**
+ * @file
+ * Stage File Proxy Module.
+ */
+
+/**
+ * Implements hook_init().
+ *
+ * Intercepts some requests and hotlinks/downloads the remote version.
+ */
+function stage_file_proxy_init() {
+  // Make sure we're requesting a file in the files dir.
+  // Currently this only works for PUBLIC files.
+  $file_dir = _stage_file_proxy_file_dir();
+  if (strpos($_GET['q'], $file_dir) !== 0) {
+    return;
+  }
+
+  // If this is a advagg path, ignore it.
+  if (strpos($_GET['q'], '/advagg_') !== FALSE && module_exists('advagg')) {
+    return;
+  }
+
+  // Note if the origin server files location is different. This
+  // must be the exact path for the remote site's public file
+  // system path, and defaults to the local public file system path.
+  $remote_file_dir = trim(variable_get('stage_file_proxy_origin_dir', $file_dir), '/');
+
+  $relative_path = drupal_substr($_GET['q'], drupal_strlen($file_dir) + 1);
+
+  // Get the origin server.
+  $server = variable_get('stage_file_proxy_origin', NULL);
+
+  if ($server) {
+    // Is this imagecache? Request the root file and let imagecache resize.
+    if (variable_get('stage_file_proxy_use_imagecache_root', TRUE) && $original_path = _stage_file_proxy_image_style_path_original($relative_path, TRUE)) {
+      $relative_path = file_uri_target($original_path);
+      if (file_exists($original_path)) {
+        // Imagecache can generate it without our help.
+        return;
+      }
+    }
+
+    $query_parameters = drupal_get_query_parameters();
+
+    if (variable_get('stage_file_proxy_hotlink', FALSE)) {
+      $location = url("$server/$remote_file_dir/$relative_path", array(
+        'query' => $query_parameters,
+        'absolute' => TRUE,
+      ));
+      header("Location: $location");
+      exit;
+    }
+    elseif (_stage_file_proxy_fetch($server, $remote_file_dir, $relative_path)) {
+      // Refresh this request & let the web server work out mime type, etc.
+      $location = url("{$_GET['q']}", array('query' => $query_parameters));
+      header("Location: $location");
+      exit;
+    }
+    else {
+      watchdog('stage_file_proxy', 'Stage File Proxy encountered an unknown error by retrieving file @file', array('@file' => $server . '/' . drupal_encode_path($remote_file_dir . '/' . $relative_path)), WATCHDOG_ERROR);
+      drupal_not_found();
+      exit;
+    }
+  }
+}
+
+/**
+ * Downloads a remote file and saves it to the local files directory.
+ *
+ * @param string $server
+ *   The origin server URL.
+ * @param string $remote_file_dir
+ *   The relative path to the files directory on the origin server.
+ * @param string $relative_path
+ *   The path to the requested resource relative to the files directory.
+ *
+ * @return bool
+ *   Returns true if the content was downloaded, otherwise false.
+ */
+function _stage_file_proxy_fetch($server, $remote_file_dir, $relative_path) {
+  // Fetch remote file.
+  $url = $server . '/' . drupal_encode_path($remote_file_dir . '/' . $relative_path);
+  $response = drupal_http_request($url);
+  if ($response->code == 200) {
+    // Prepare local target directory and save downloaded file.
+    $file_dir = _stage_file_proxy_file_dir();
+    $target_dir = $file_dir . '/' . dirname($relative_path);
+    if (file_prepare_directory($target_dir, FILE_CREATE_DIRECTORY | FILE_MODIFY_PERMISSIONS)) {
+      file_put_contents($file_dir . '/' . $relative_path, $response->data);
+      return TRUE;
+    }
+  }
+  return FALSE;
+}
+
+/**
+ * Helper to retrieve the file directory.
+ */
+function _stage_file_proxy_file_dir() {
+  return variable_get('file_public_path', conf_path() . '/files');
+}
+
+/**
+ * Helper to retrieves original path for a styled image.
+ *
+ * @param string $uri
+ *   A uri or path (may be prefixed with scheme)
+ * @param bool $style_only
+ *   Indicates if, the function should only return paths retrieved from style
+ *   paths. Defaults to TRUE.
+ *
+ * @return bool|mixed|string
+ *   A file URI pointing to the given original image.
+ *   If $style_only is set to TRUE and $uri is no style-path, FALSE is returned.
+ */
+function _stage_file_proxy_image_style_path_original($uri, $style_only = TRUE) {
+  $scheme = file_uri_scheme($uri);
+  if ($scheme) {
+    $path = file_uri_target($uri);
+  }
+  else {
+    $path = $uri;
+    $scheme = file_default_scheme();
+  }
+
+  // It is a styles path, so we extract the different parts.
+  if (strpos($path, 'styles') === 0) {
+    // Then the path is like styles/[style_name]/[schema]/[original_path].
+    return preg_replace('/styles\/.*\/(.*)\/(.*)/U', '$1://$2', $path);
+  }
+  // Else it seems to be the original.
+  elseif ($style_only == FALSE) {
+    return "$scheme://$path";
+  }
+  else {
+    return FALSE;
+  }
+}
+
+/**
+ * Implements hook_permission().
+ */
+function stage_file_proxy_permission() {
+  return array(
+    'administer stage_file_proxy settings' => array(
+      'title' => t('Administer Stage File Proxy module'),
+      'description' => t('Perform administration tasks for the Stage File Proxy module.'),
+      'restrict access' => TRUE,
+    ),
+  );
+}
+
+/**
+ * Implements hook_menu().
+ */
+function stage_file_proxy_menu() {
+  $items = array();
+
+  $items['admin/config/system/stage_file_proxy'] = array(
+    'title' => 'Stage File Proxy settings',
+    'description' => 'Administrative interface for the Stage File Proxy module',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('stage_file_proxy_admin'),
+    'access arguments' => array('administer stage_file_proxy settings'),
+    'type' => MENU_NORMAL_ITEM,
+  );
+
+  return $items;
+}
+
+/**
+ * Page callback/form for admin interface.
+ */
+function stage_file_proxy_admin() {
+  $form = array();
+
+  $form['stage_file_proxy_origin'] = array(
+    '#type' => 'textfield',
+    '#title' => t('The origin website.'),
+    '#default_value' => variable_get('stage_file_proxy_origin', ''),
+    '#description' => t("The origin website. For example: 'http://example.com' with no trailing slash.
+      If the site is using HTTP Basic Authentication (the browser popup for username and password) you can
+      embed those in the url. Be sure to URL encode any special characters:<br/><br/>For example, setting a user
+      name of 'myusername' and password as, 'letme&in' the configuration would be the following: <br/><br/>
+      'http://myusername:letme%26in@example.com';"),
+    '#required' => FALSE,
+  );
+
+  $form['stage_file_proxy_origin_dir'] = array(
+    '#type' => 'textfield',
+    '#title' => t('The origin directory.'),
+    '#default_value' => variable_get('stage_file_proxy_origin_dir', variable_get('file_public_path', conf_path() . '/files')),
+    '#description' => t('If this is set then Stage File Proxy will use a different path for the remote
+      files. This is useful for multisite installations where the sites directory contains different names
+      for each url. If this is not set, it defaults to the same path as the local site.'),
+    '#required' => FALSE,
+  );
+
+  $form['stage_file_proxy_use_imagecache_root'] = array(
+    '#type' => 'checkbox',
+    '#title' => t('Imagecache Root.'),
+    '#default_value' => variable_get('stage_file_proxy_use_imagecache_root', TRUE),
+    '#description' => t("If this is true (default) then Stage File Proxy will look for /imagecache/ in
+      the URL and determine the original file and request that rather than the
+      processed file, then send a header to the browser to refresh the image and let
+      imagecache handle it. This will speed up future imagecache requests for the
+      same original file."),
+    '#required' => FALSE,
+  );
+
+  $form['stage_file_proxy_hotlink'] = array(
+    '#type' => 'checkbox',
+    '#title' => t('Hotlink.'),
+    '#default_value' => variable_get('stage_file_proxy_hotlink', FALSE),
+    '#description' => t("If this is true then Stage File Proxy will not transfer the remote file to the
+      local machine, it will just serve a 301 to the remote file and let the origin webserver handle it."),
+    '#required' => FALSE,
+  );
+
+  $form['stage_file_proxy_sslversion'] = array(
+    '#type' => 'textfield',
+    '#title' => t('SSL Version.'),
+    '#default_value' => variable_get('stage_file_proxy_sslversion', 3),
+    '#description' => t('CURL will try to figure out which ssl version to use, but if it fails to do that
+      properly it can lead to getting an empty file and a 0 status code. The default is 3 which seems
+      relatively common, but if you get 0 byte files you can try changing it to 2.'),
+    '#size' => 2,
+    '#maxlength' => 2,
+    '#required' => FALSE,
+  );
+
+  return system_settings_form($form);
+}
+
+/**
+ * Validate the admin form.
+ */
+function stage_file_proxy_admin_validate($form, &$form_state) {
+  $origin = $form_state['values']['stage_file_proxy_origin'];
+  $sslversion = $form_state['values']['stage_file_proxy_sslversion'];
+
+  if (!empty($origin) && filter_var($origin, FILTER_VALIDATE_URL) === FALSE) {
+    form_set_error('stage_file_proxy_origin', 'Origin needs to be a valid URL.');
+  }
+
+  if (!empty($origin) && drupal_substr($origin, -1) === '/') {
+    form_set_error('stage_file_proxy_origin', 'Origin URL cannot end in slash.');
+  }
+
+  if (!is_numeric($sslversion)) {
+    form_set_error('stage_file_proxy_sslversion', 'You must enter a number for the SSL version.');
+  }
+}
