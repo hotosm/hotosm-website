@@ -1,5 +1,5 @@
-/*******************************************************************************
- * style.scss
+  /*******************************************************************************
+   * style.scss
  *
  * This file shouldn't directly contain any SCSS code, instead it only serves to
  * combine the SCSS contained in other Sass partials through @import directives.
@@ -663,6 +663,15 @@ nav .menu li.leaf {
 .addtoany_list {
   margin: 20px 0;
   display: block;
+}
+
+.leadership .panel-panel .views-row {
+  clear:both;
+}
+
+.leadership .panel-panel .views-field-picture {
+  float: left;
+  margin: 0 30px 10px 0;
 }
 
 /* styles as classes */

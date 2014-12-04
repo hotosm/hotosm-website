@@ -14,6 +14,9 @@ function hot_people_ctools_plugin_api($module = NULL, $api = NULL) {
   if ($module == "ds" && $api == "ds") {
     return array("version" => "1");
   }
+  if ($module == "page_manager" && $api == "pages_default") {
+    return array("version" => "1");
+  }
   if ($module == "strongarm" && $api == "strongarm") {
     return array("version" => "1");
   }
@@ -37,7 +40,7 @@ function hot_people_flag_default_flags() {
     'title' => 'Board member',
     'global' => 1,
     'types' => array(),
-    'flag_short' => 'Flag as board member',
+    'flag_short' => 'Board member',
     'flag_long' => 'This user is a HOT board member',
     'flag_message' => 'board member',
     'unflag_short' => 'Unflag as board member',
@@ -49,14 +52,45 @@ function hot_people_flag_default_flags() {
     'show_in_links' => array(
       'full' => 'full',
       'diff_standard' => 0,
-      'list' => 0,
       'token' => 0,
     ),
     'show_as_field' => 1,
     'show_on_form' => 1,
     'access_author' => '',
     'show_contextual_link' => 0,
-    'show_on_profile' => 0,
+    'show_on_profile' => 1,
+    'access_uid' => '',
+    'module' => 'hot_people',
+    'locked' => array(
+      0 => 'name',
+    ),
+    'api_version' => 3,
+  );
+  // Exported flag: "Executive director".
+  $flags['executive_director'] = array(
+    'entity_type' => 'user',
+    'title' => 'Executive director',
+    'global' => 1,
+    'types' => array(),
+    'flag_short' => 'Executive director',
+    'flag_long' => 'This user is the HOT executive director',
+    'flag_message' => 'executive director',
+    'unflag_short' => 'Unflag as executive director',
+    'unflag_long' => 'This user is not the HOT executive director',
+    'unflag_message' => 'Not the HOT executive director',
+    'unflag_denied_text' => '',
+    'link_type' => 'toggle',
+    'weight' => 0,
+    'show_in_links' => array(
+      'full' => 'full',
+      'diff_standard' => 0,
+      'token' => 0,
+    ),
+    'show_as_field' => 1,
+    'show_on_form' => 1,
+    'access_author' => '',
+    'show_contextual_link' => FALSE,
+    'show_on_profile' => 1,
     'access_uid' => '',
     'module' => 'hot_people',
     'locked' => array(
@@ -70,7 +104,7 @@ function hot_people_flag_default_flags() {
     'title' => 'Voting member',
     'global' => 1,
     'types' => array(),
-    'flag_short' => 'Flag as voting member',
+    'flag_short' => 'Voting member',
     'flag_long' => 'This user is a HOT voting member.',
     'flag_message' => 'Voting member',
     'unflag_short' => 'Unflag as voting membere',
@@ -82,7 +116,6 @@ function hot_people_flag_default_flags() {
     'show_in_links' => array(
       'full' => 'full',
       'diff_standard' => 0,
-      'list' => 0,
       'token' => 0,
     ),
     'show_as_field' => 1,

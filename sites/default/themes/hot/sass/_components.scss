@@ -270,9 +270,18 @@ nav .menu {
   }
 }
 
-
 /* Add to any buttons */
 .addtoany_list {
   margin: 20px 0;
   display: block;
+}
+
+.leadership .panel-panel {
+  .views-row {
+    clear:all;
+  }
+  .views-field-picture {
+    float: left;
+    margin: 0 30px 10px 0;
+  }
 }
