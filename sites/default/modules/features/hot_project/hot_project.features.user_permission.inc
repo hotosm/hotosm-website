@@ -14,7 +14,7 @@ function hot_project_user_default_permissions() {
   $permissions['create project content'] = array(
     'name' => 'create project content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -24,6 +24,7 @@ function hot_project_user_default_permissions() {
   $permissions['delete any project content'] = array(
     'name' => 'delete any project content',
     'roles' => array(
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -33,7 +34,7 @@ function hot_project_user_default_permissions() {
   $permissions['delete own project content'] = array(
     'name' => 'delete own project content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -43,7 +44,7 @@ function hot_project_user_default_permissions() {
   $permissions['edit any project content'] = array(
     'name' => 'edit any project content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -53,7 +54,7 @@ function hot_project_user_default_permissions() {
   $permissions['edit own project content'] = array(
     'name' => 'edit own project content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',

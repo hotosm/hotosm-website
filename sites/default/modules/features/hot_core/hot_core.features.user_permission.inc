@@ -14,7 +14,6 @@ function hot_core_user_default_permissions() {
   $permissions['access administration pages'] = array(
     'name' => 'access administration pages',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
       'site admin' => 'site admin',
     ),
     'module' => 'system',
@@ -115,7 +114,7 @@ function hot_core_user_default_permissions() {
   $permissions['add content to books'] = array(
     'name' => 'add content to books',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'book',
@@ -139,7 +138,7 @@ function hot_core_user_default_permissions() {
   $permissions['administer book outlines'] = array(
     'name' => 'administer book outlines',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'book',
@@ -313,7 +312,6 @@ function hot_core_user_default_permissions() {
   $permissions['create book content'] = array(
     'name' => 'create book content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -323,7 +321,7 @@ function hot_core_user_default_permissions() {
   $permissions['create new books'] = array(
     'name' => 'create new books',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'book',
@@ -342,6 +340,7 @@ function hot_core_user_default_permissions() {
   $permissions['delete any book content'] = array(
     'name' => 'delete any book content',
     'roles' => array(
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -358,7 +357,7 @@ function hot_core_user_default_permissions() {
   $permissions['delete own book content'] = array(
     'name' => 'delete own book content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -377,7 +376,7 @@ function hot_core_user_default_permissions() {
   $permissions['edit any book content'] = array(
     'name' => 'edit any book content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -387,7 +386,7 @@ function hot_core_user_default_permissions() {
   $permissions['edit own book content'] = array(
     'name' => 'edit own book content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -447,7 +446,6 @@ function hot_core_user_default_permissions() {
   $permissions['revert revisions'] = array(
     'name' => 'revert revisions',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -474,7 +472,8 @@ function hot_core_user_default_permissions() {
   $permissions['translate content'] = array(
     'name' => 'translate content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
+      'site admin' => 'site admin',
     ),
     'module' => 'translation',
   );
@@ -509,7 +508,8 @@ function hot_core_user_default_permissions() {
   $permissions['view own unpublished content'] = array(
     'name' => 'view own unpublished content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
+      'site admin' => 'site admin',
     ),
     'module' => 'node',
   );
@@ -518,7 +518,7 @@ function hot_core_user_default_permissions() {
   $permissions['view revisions'] = array(
     'name' => 'view revisions',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',

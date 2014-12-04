@@ -23,7 +23,8 @@ function hot_videos_user_default_permissions() {
   $permissions['create video content'] = array(
     'name' => 'create video content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
+      'site admin' => 'site admin',
     ),
     'module' => 'node',
   );
@@ -31,7 +32,10 @@ function hot_videos_user_default_permissions() {
   // Exported permission: 'delete any video content'.
   $permissions['delete any video content'] = array(
     'name' => 'delete any video content',
-    'roles' => array(),
+    'roles' => array(
+      'content editor' => 'content editor',
+      'site admin' => 'site admin',
+    ),
     'module' => 'node',
   );
 
@@ -39,7 +43,8 @@ function hot_videos_user_default_permissions() {
   $permissions['delete own video content'] = array(
     'name' => 'delete own video content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
+      'site admin' => 'site admin',
     ),
     'module' => 'node',
   );
@@ -48,7 +53,8 @@ function hot_videos_user_default_permissions() {
   $permissions['edit any video content'] = array(
     'name' => 'edit any video content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
+      'site admin' => 'site admin',
     ),
     'module' => 'node',
   );
@@ -57,7 +63,8 @@ function hot_videos_user_default_permissions() {
   $permissions['edit own video content'] = array(
     'name' => 'edit own video content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
+      'site admin' => 'site admin',
     ),
     'module' => 'node',
   );

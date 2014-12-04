@@ -32,7 +32,7 @@ function hot_updates_user_default_permissions() {
   $permissions['create update content'] = array(
     'name' => 'create update content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -42,6 +42,7 @@ function hot_updates_user_default_permissions() {
   $permissions['delete any update content'] = array(
     'name' => 'delete any update content',
     'roles' => array(
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -51,7 +52,7 @@ function hot_updates_user_default_permissions() {
   $permissions['delete own update content'] = array(
     'name' => 'delete own update content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -61,6 +62,7 @@ function hot_updates_user_default_permissions() {
   $permissions['edit any update content'] = array(
     'name' => 'edit any update content',
     'roles' => array(
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -70,7 +72,7 @@ function hot_updates_user_default_permissions() {
   $permissions['edit own update content'] = array(
     'name' => 'edit own update content',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',

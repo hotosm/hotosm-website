@@ -14,7 +14,8 @@ function hot_multilingual_user_default_permissions() {
   $permissions['administer content translations'] = array(
     'name' => 'administer content translations',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
+      'site admin' => 'site admin',
     ),
     'module' => 'i18n_node',
   );
@@ -62,7 +63,8 @@ function hot_multilingual_user_default_permissions() {
   $permissions['translate any entity'] = array(
     'name' => 'translate any entity',
     'roles' => array(
-      'authenticated user' => 'authenticated user',
+      'content editor' => 'content editor',
+      'site admin' => 'site admin',
     ),
     'module' => 'entity_translation',
   );
@@ -79,9 +81,7 @@ function hot_multilingual_user_default_permissions() {
   // Exported permission: 'translate node entities'.
   $permissions['translate node entities'] = array(
     'name' => 'translate node entities',
-    'roles' => array(
-      'authenticated user' => 'authenticated user',
-    ),
+    'roles' => array(),
     'module' => 'entity_translation',
   );
 
