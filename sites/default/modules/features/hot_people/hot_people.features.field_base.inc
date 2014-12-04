@@ -46,27 +46,23 @@ function hot_people_field_default_field_bases() {
     'deleted' => 0,
     'entity_types' => array(),
     'field_name' => 'field_country',
-    'foreign keys' => array(
-      'format' => array(
-        'columns' => array(
-          'format' => 'format',
-        ),
-        'table' => 'filter_format',
-      ),
-    ),
+    'foreign keys' => array(),
     'indexes' => array(
-      'format' => array(
-        0 => 'format',
+      'iso2' => array(
+        0 => 'iso2',
       ),
     ),
     'locked' => 0,
-    'module' => 'text',
+    'module' => 'countries',
     'settings' => array(
+      'continents' => array(),
+      'countries' => array(),
+      'enabled' => 1,
       'entity_translation_sync' => FALSE,
-      'max_length' => 255,
+      'size' => 5,
     ),
-    'translatable' => 1,
-    'type' => 'text',
+    'translatable' => 0,
+    'type' => 'country',
   );
 
   // Exported field_base: 'field_hot_leadership'
