@@ -1,7 +1,7 @@
 name = HOT People
 core = 7.x
 package = Features
-version = 7.x-1.3
+version = 7.x-1.4
 project = hot_people
 dependencies[] = contact
 dependencies[] = context
@@ -99,4 +99,4 @@ features[variable][] = user_signatures
 features[views_view][] = leadership
 features[views_view][] = user_lists
 features[views_view][] = user_profile
-mtime = 1417665316
+mtime = 1418213599
