@@ -674,6 +674,10 @@ nav .menu li.leaf {
   margin: 0 30px 10px 0;
 }
 
+.pane-leadership-panel-pane-director {
+  clear: both;
+}
+
 /* styles as classes */
 .inline {
   display: inline;
