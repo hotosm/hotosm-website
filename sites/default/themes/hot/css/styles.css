@@ -80,7 +80,7 @@ body.sidebar-present .l-content { width: 510px; float: left; }
 
 .l-region--help { clear: both; margin-top: -50px; float: right; }
 
-#footer-wrapper { color: #fff; padding: 20px 10px 0 0; margin-top: 50px; font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; font-size: 12px; background: #808080; }
+#footer-wrapper { color: #fff; padding: 20px 10px 0 0; margin-top: 50px; font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; font-size: 12px; background: #de1743; }
 #footer-wrapper .l-footer a { color: #fff; }
 #footer-wrapper .l-footer h4 { font-weight: normal; font-size: 14px; }
 #footer-wrapper nav .menu { font-size: 12px; text-transform: lowercase; }

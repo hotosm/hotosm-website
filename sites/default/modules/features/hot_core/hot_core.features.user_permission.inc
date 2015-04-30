@@ -22,7 +22,9 @@ function hot_core_user_default_permissions() {
   // Exported permission: 'access all views'.
   $permissions['access all views'] = array(
     'name' => 'access all views',
-    'roles' => array(),
+    'roles' => array(
+      'site admin' => 'site admin',
+    ),
     'module' => 'views',
   );
 
@@ -280,7 +282,9 @@ function hot_core_user_default_permissions() {
   // Exported permission: 'administer views'.
   $permissions['administer views'] = array(
     'name' => 'administer views',
-    'roles' => array(),
+    'roles' => array(
+      'site admin' => 'site admin',
+    ),
     'module' => 'views',
   );
 
@@ -321,6 +325,7 @@ function hot_core_user_default_permissions() {
   $permissions['create book content'] = array(
     'name' => 'create book content',
     'roles' => array(
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
