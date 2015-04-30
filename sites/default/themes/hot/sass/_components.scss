@@ -68,18 +68,21 @@ nav .menu {
 /* Featured project */
 #block-views-project-projects-featured-block {
  .views-field-field-image {
-    border-top: 3px solid #808080;
-    border-bottom: 2px solid #808080;
-    height:330px;
-    float:left;
+    border: none;
+    height: 330px;
+    float: left;
+    padding-right: 20px;
+  }
+
+  .views-field-title-field,
+  .views-field-body {
+    padding: 10px;
   }
 
   .featured {
     border-top: 3px solid #808080;
     border-bottom: 2px solid #808080;
     height:320px;
-    width:250px;
-    padding:5px;
     margin:0px 0px 0px 10px;
     float:right;
     background:#f2f2f2;

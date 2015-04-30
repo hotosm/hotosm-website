@@ -14,7 +14,6 @@
   .sidebar .l-content, .two-sidebars .l-content { width: 66.10169%; float: left; margin-right: 1.69492%; }
   .sidebar .l-region--sidebar, .two-sidebars .l-region--sidebar { width: 32.20339%; float: right; margin-right: 0; } }
 @media (min-width: 70em) { .l-header, .l-main, .l-footer { max-width: 790px; max-width: 49.375rem; }
-  .l-branding { width: 36.70886%; float: left; margin-right: 1.26582%; }
   .l-region--header { width: 62.02532%; float: right; margin-right: 0; }
   .sidebar .l-content { width: 74.68354%; float: right; margin-right: 0; }
   .sidebar .l-region--sidebar { width: 24.05063%; float: left; margin-right: 1.26582%; } }

@@ -70,7 +70,7 @@ fieldset.collapsible .fieldset-title { cursor: pointer; }
 
 .l-branding { float: left; }
 
-.l-region--navigation { float: right; clear: none !important; margin-top: 20px; }
+.l-region--navigation { clear: none !important; margin-top: 0px; }
 
 .l-region--header > div { float: right; }
 
@@ -98,8 +98,9 @@ nav .menu { float: right; font-size: 13px; font-weight: normal; }
 nav .menu li.leaf { list-style: none; display: inline; padding: 0px 0px 0px 15px; line-height: 20px; }
 
 /* Featured project */
-#block-views-project-projects-featured-block .views-field-field-image { border-top: 3px solid #808080; border-bottom: 2px solid #808080; height: 330px; float: left; }
-#block-views-project-projects-featured-block .featured { border-top: 3px solid #808080; border-bottom: 2px solid #808080; height: 320px; width: 250px; padding: 5px; margin: 0px 0px 0px 10px; float: right; background: #f2f2f2; overflow: hidden; }
+#block-views-project-projects-featured-block .views-field-field-image { border: none; height: 330px; float: left; padding-right: 20px; }
+#block-views-project-projects-featured-block .views-field-title-field, #block-views-project-projects-featured-block .views-field-body { padding: 10px; }
+#block-views-project-projects-featured-block .featured { border-top: 3px solid #808080; border-bottom: 2px solid #808080; height: 320px; margin: 0px 0px 0px 10px; float: right; background: #f2f2f2; overflow: hidden; }
 #block-views-project-projects-featured-block h3.featured-label { text-transform: uppercase; font-weight: normal; font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; font-size: 11px; color: #808080; margin: 0; }
 #block-views-project-projects-featured-block div.featured-title { font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; font-size: 20px; padding: 5px 0; }
 #block-views-project-projects-featured-block div.featured-body { font-size: 11px; line-height: 20px; color: #333; }
