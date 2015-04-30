@@ -729,8 +729,17 @@ function theme_ds_field_expert($variables) {
 
   $config = $variables['ds-config'];
 
+  // Set prefix
+  if (!empty($config['prefix'])) {
+    $output .= $config['prefix'];
+  }
+
   // Render the label if it's not hidden.
   if (!$variables['label_hidden']) {
+    $styled_label = $variables['label'];
+    if (!isset($config['lb-col'])) $styled_label .= ':&nbsp;';
+
+    // Style the label it self
     $label_wrapper = isset($config['lb-el']) ? $config['lb-el'] : 'div';
     $class = array('label-' . $variables['element']['#label_display']);
     if (!empty($config['lb-cl'])) $class[] = $config['lb-cl'];
@@ -739,16 +748,23 @@ function theme_ds_field_expert($variables) {
     if (!empty($config['lb-at'])) $attributes[] = $config['lb-at'];
     if (!empty($config['lb-def-at'])) $attributes[] = $variables['title_attributes'];
     $attributes = (!empty($attributes)) ? ' ' . implode(' ', $attributes) : '';
-    $output .= '<' . $label_wrapper . $class . $attributes . '>' . $variables['label'];
-    if (!isset($config['lb-col'])) $output .= ':&nbsp;';
-    $output .= '</' . $label_wrapper . '>';
+    $styled_label = '<' . $label_wrapper . $class . $attributes . '>' . $styled_label . '</' . $label_wrapper . '>';
+
+    // Place it inside a wrapper
+    if (isset($config['lbw'])) {
+      $class = !empty($config['lbw-cl']) ? ' class="' . $config['lbw-cl'] . '"' : '';
+      $attributes = !empty($config['lbw-at']) ?  ' ' . $config['lbw-at'] : '';
+      $styled_label = '<' . $config['lbw-el'] . $class . $attributes . '>' . $styled_label . '</' . $config['lbw-el'] . '>';
+    }
+
+    $output .= $styled_label;
   }
 
   // Field items wrapper
   if (isset($config['fis'])) {
-    $class = (!empty($config['fis-cl'])) ? ' class="' . $config['fis-cl'] . '"' : '';
+    $class = (!empty($config['fis-cl'])) ? ' class="' . token_replace($config['fis-cl'], array($variables['element']['#entity_type'] => $variables['element']['#object']), array('clear' => TRUE)) . '"' : '';
     $attributes = array();
-    if (!empty($config['fis-at'])) $attributes[] = $config['fis-at'];
+    if (!empty($config['fis-at'])) $attributes[] = token_replace($config['fis-at'], array($variables['element']['#entity_type'] => $variables['element']['#object']), array('clear' => TRUE));;
     if (!empty($config['fis-def-at'])) $attributes[] = $variables['content_attributes'];
     $attributes = (!empty($attributes)) ? ' ' . implode(' ', $attributes) : '';
     $output .= '<' . $config['fis-el'] . $class . $attributes . '>';
@@ -760,12 +776,12 @@ function theme_ds_field_expert($variables) {
     if (isset($config['fi'])) {
       $class = array();
       if (!empty($config['fi-odd-even'])) {
-        $class[] = $delta % 2 ? 'odd' : 'even';
+        $class[] = $delta % 2 ? 'even' : 'odd';
       }
       if (!empty($config['fi-cl'])) {
         $class[] = $config['fi-cl'];
       }
-      $class = !empty($class) ? ' class="'. implode(' ', $class)  .'"' : '';
+      $class = !empty($class) ? ' class="'. token_replace(implode(' ', $class), array($variables['element']['#entity_type'] => $variables['element']['#object']), array('clear' => TRUE)) .'"' : '';
       $attributes = array();
       if (!empty($config['fi-at'])) {
         $attributes[] = token_replace($config['fi-at'], array($variables['element']['#entity_type'] => $variables['element']['#object']), array('clear' => TRUE));
@@ -794,14 +810,19 @@ function theme_ds_field_expert($variables) {
   // Outer wrapper.
   if (isset($config['ow'])) {
     $class = array();
-    if (!empty($config['ow-cl'])) $class[] = $config['ow-cl'];
+    if (!empty($config['ow-cl'])) $class[] = token_replace($config['ow-cl'], array($variables['element']['#entity_type'] => $variables['element']['#object']), array('clear' => TRUE));
     if (!empty($config['ow-def-cl'])) $class[] = $variables['classes'];
     $class = (!empty($class)) ? ' class="' . implode(' ', $class) . '"' : '';
     $attributes = array();
-    if (!empty($config['ow-at'])) $attributes[] = $config['ow-at'];
+    if (!empty($config['ow-at'])) $attributes[] = token_replace($config['ow-at'], array($variables['element']['#entity_type'] => $variables['element']['#object']), array('clear' => TRUE));;
     if (!empty($config['ow-def-at'])) $attributes[] = $variables['attributes'];
     $attributes = (!empty($attributes)) ? ' ' . implode(' ', $attributes) : '';
     $output = '<' . $config['ow-el'] . $class . $attributes . '>' . $output . '</' . $config['ow-el'] . '>';
+  }
+
+  // Set suffix
+  if (!empty($config['suffix'])) {
+    $output .= $config['suffix'];
   }
 
   return $output;
@@ -850,7 +871,7 @@ function ds_extras_ds_field_settings_alter(&$field_settings, $form, &$form_state
     }
 
     // Label.
-    if (isset($form_state['values']['fields'][$key]['label']) && $form_state['values']['fields'][$key]['label'] != 'hidden') {
+    if (isset($form_state['values']['fields'][$key]['label'])) {
       if (!empty($values['lb'])) {
         $field_settings[$key]['formatter_settings']['ft']['lb'] = $values['lb'];
       }
@@ -869,6 +890,27 @@ function ds_extras_ds_field_settings_alter(&$field_settings, $form, &$form_state
       if (!(empty($values['lb-col']))) {
         $field_settings[$key]['formatter_settings']['ft']['lb-col'] = TRUE;
       }
+
+      // label wrapper
+      if (!empty($values['lbw'])) {
+        $field_settings[$key]['formatter_settings']['ft']['lbw'] = $values['lbw'];
+      }
+      if (!(empty($values['lbw-el'])) && $function == 'theme_ds_field_expert') {
+        $field_settings[$key]['formatter_settings']['ft']['lbw-el'] = check_plain($values['lbw-el']);
+      }
+      if (!(empty($values['lbw-cl'])) && $function == 'theme_ds_field_expert') {
+        $field_settings[$key]['formatter_settings']['ft']['lbw-cl'] = check_plain($values['lbw-cl']);
+      }
+      if (!(empty($values['lbw-at'])) && $function == 'theme_ds_field_expert') {
+       $field_settings[$key]['formatter_settings']['ft']['lbw-at'] = filter_xss($values['lbw-at']);
+      }
+    }
+
+    if (!(empty($values['prefix']))) {
+      $field_settings[$key]['formatter_settings']['ft']['prefix'] = $values['prefix'];
+    }
+    if (!(empty($values['suffix']))) {
+      $field_settings[$key]['formatter_settings']['ft']['suffix'] = $values['suffix'];
     }
 
     // Custom field configuration.
@@ -983,6 +1025,18 @@ function ds_extras_preprocess_field(&$variables) {
       $variables['theme_hook_suggestions'][] = $suggestion . '__' . $field_name;
       $variables['theme_hook_suggestions'][] = $suggestion . '__' . $variables['element']['#bundle'];
       $variables['theme_hook_suggestions'][] = $suggestion . '__' . $field_name . '__' . $variables['element']['#bundle'];
+    }
+  }
+
+  // Sanitize the output of field templates
+  $fields = array(
+    'prefix',
+    'suffix',
+  );
+
+  foreach ($fields as $field) {
+    if (isset($variables['ds-config'][$field])) {
+      $variables['ds-config'][$field] = filter_xss($variables['ds-config'][$field]);
     }
   }
 }

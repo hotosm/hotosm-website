@@ -136,7 +136,7 @@ class OmegaThemeRegistryHandler {
 
       // By adding this file to the 'includes' array we make sure that it is
       // available when the hook is executed.
-      $this->registry[$item->hook]['includes'][] = $item->uri;
+      $this->registry[$base]['includes'][] = $item->uri;
     }
   }
 

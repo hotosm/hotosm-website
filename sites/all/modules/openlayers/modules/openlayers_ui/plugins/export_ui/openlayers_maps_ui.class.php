@@ -42,7 +42,7 @@ class openlayers_maps_ui extends ctools_export_ui {
     // the map could be very in the way.
     if ( (isset($form_state['clicked_button']['#id'])
       && ($form_state['clicked_button']['#id'] == 'edit-buttons-preview'))
-      || (variable_get('openlayers_ui_preview_map', TRUE)))  {
+      || (variable_get('openlayers_ui_preview_map', FALSE)))  {
 
       $map_preview = isset($form_state['values']) ? openlayers_ui_maps_form_process($form_state['values']) : $map;
 
@@ -499,8 +499,8 @@ class openlayers_maps_ui extends ctools_export_ui {
     $form['layerstyles']['styles']['temporary'] = array(
       '#type' => 'select',
       '#title' => t('Temporary Style'),
-      '#description' => t('Default style for any temporary features in a vector.
-      This will also be used for rollovers for things like Tooltips.'),
+      '#description' => t('Default temporary style for any features in a vector.
+      This can be used with the "Hover behavior" or things like Tooltips.'),
       '#options' => openlayers_ui_get_style_options(),
       '#default_value' => !empty($defaults['styles']['temporary']) ?
         $defaults['styles']['temporary'] : NULL,

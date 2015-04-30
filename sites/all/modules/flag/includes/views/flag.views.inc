@@ -85,7 +85,7 @@ function flag_views_data() {
 
   // Argument for content ID, used for "Who's flagged this" views.
   $data['flagging']['entity_id'] = array(
-    'title' => t('Content ID'),
+    'title' => t('Entity ID'),
     'help' => t('The unique ID of the object that has been flagged.'),
     'argument' => array(
       'handler' => 'flag_handler_argument_entity_id',
@@ -119,6 +119,24 @@ function flag_views_data() {
     'help' => t('Display flag/unflag link.'),
     'field' => array(
       'handler' => 'flag_handler_field_ops',
+    ),
+  );
+
+  $data['flagging']['sid'] = array(
+    'title' => t('Flagging session ID'),
+    'help' => t('The session ID of the flagging.'),
+    'field' => array(
+      'handler' => 'views_handler_field_numeric',
+      'click sortable' => TRUE,
+    ),
+    'sort' => array(
+      'handler' => 'views_handler_sort',
+    ),
+    'filter' => array(
+      'handler' => 'views_handler_filter_numeric',
+    ),
+    'argument' => array(
+      'handler' => 'views_handler_argument_numeric',
     ),
   );
 
@@ -264,7 +282,8 @@ function flag_views_flag_default($entity_type) {
   $default_flag = &drupal_static(__FUNCTION__, array());
 
   if (!array_key_exists($entity_type, $default_flag)) {
-    $flag = array_shift(flag_get_flags($entity_type));
+    $flags = flag_get_flags($entity_type);
+    $flag = array_shift($flags);
     $default_flag[$entity_type] = $flag ? $flag->name : NULL;
   }
 

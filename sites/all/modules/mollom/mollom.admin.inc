@@ -884,7 +884,46 @@ function mollom_admin_settings($form, &$form_state) {
     '#element_validate' => array('mollom_admin_settings_validate_key'),
     '#description' => t('Used for authentication. Similar to a password, the private key should not be shared with anyone.'),
   );
-
+  $form['access-keys']['ping_holder'] = array(
+    '#type' => 'fieldset',
+    '#title' => t('Test connection'),
+    '#title_display' => 'invisible',
+    '#states' => array(
+      'visible' => array(
+        ':input[name="mollom_public_key"]' => array('!value' => ''),
+        ':input[name="mollom_private_key"]' => array('!value' => ''),
+      ),
+    ),
+    'ping_action' => array(
+      '#type' => 'button',
+      '#value' => t('Ping Mollom'),
+      '#submit' => array('mollom_admin_ping_submit'),
+      '#ajax' => array(
+        'callback' => 'mollom_admin_ping_ajax_callback',
+        'wrapper' => 'mollom-ping-response',
+        'method' => 'replace',
+        'effect' => 'fade',
+      ),
+    ),
+    'help' => array(
+      '#type' => 'container',
+      '#attributes' => array(
+        'class' => array('description'),
+      ),
+      'helptext' => array(
+        '#markup' => t('Be sure that you have checked "Log all Mollom messages" in the "Advanced" configuration in order to review full API responses.'),
+      ),
+    ),
+    'mollom_ping_replace' => array(
+      '#type' => 'container',
+      '#attributes' => array(
+        'id' => 'mollom-ping-response',
+      ),
+      'response' => array(
+        '#markup' => isset($form_state['storage']['mollom_ping']) ? $form_state['storage']['mollom_ping'] : '',
+      ),
+    )
+  );
   $form['mollom_fallback'] = array(
     '#type' => 'radios',
     '#title' => t('When the Mollom service is unavailable'),
@@ -923,15 +962,19 @@ function mollom_admin_settings($form, &$form_state) {
       'id' => $mollom->configuration_map['expectedLanguages'],
     ),
     '#attached' => array(
-      'css' => array(
-        $path . '/assets/chosen/chosen.min.css',
-      ),
       'js' => array(
-        $path . '/assets/chosen/chosen.jquery.min.js',
         $path . '/mollom.admin.js',
       ),
     ),
   );
+
+  // Add the chosen library if available through the libraries module.
+  if (module_exists('libraries')) {
+    if ($path = libraries_get_path('chosen')) {
+      $form[$mollom->configuration_map['expectedLanguages']]['#attached']['js'][] = $path . '/chosen.jquery.min.js';
+      $form[$mollom->configuration_map['expectedLanguages']]['#attached']['css'][] = $path . '/chosen.min.css';
+    }
+  }
 
   $form['mollom_privacy_link'] = array(
     '#type' => 'checkbox',
@@ -1077,6 +1120,50 @@ function mollom_admin_settings_submit($form, &$form_state) {
   // Update Mollom site record with local configuration.
   _mollom_status(TRUE, TRUE);
 }
+
+/**
+ * Form submit handler for the ping button.
+ */
+function mollom_admin_ping_ajax_callback($form, &$form_state) {
+  $mollom = mollom();
+  $response = $mollom->pingAPI($form_state['values']['mollom_public_key'], $form_state['values']['mollom_private_key']);
+  $code = isset($response['code']) ? $response['code'] : $response;
+  if (drupal_strlen($code)) {
+    $log_message = t('Mollom API response status: @response.  Please check your <a href="!log_url">Recent log messages</a> for details.', array(
+      '@response' => $code,
+      '!log_url' => url('admin/reports/dblog'),
+    ));
+  }
+  else {
+    $log_message = t('Ping request succeeded.  Please check your <a href="!log_url">Recent log messages</a> for pong callback.', array(
+      '!log_url' => url('admin/reports/dblog'),
+    ));
+  }
+  $form_state['storage']['mollom_ping'] = $form['access-keys']['ping_holder']['mollom_ping_replace']['response']['#markup'] = $log_message;
+  return $form['access-keys']['ping_holder']['mollom_ping_replace'];
+}
+
+/**
+ * Callback for Mollom API pong return.
+ *
+ * NOTE:  This function does not have any access restrictions due to the nature
+ * of an API callback.  Therefore, no additional work should be performed here.
+ */
+function mollom_admin_pong_callback() {
+  if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
+    mollom_log(array(
+      'message' => 'Mollom API pong called using invalid request method',
+    ), WATCHDOG_ERROR);
+    return MENU_NOT_FOUND;
+  }
+  mollom_log(array(
+    'message' => 'Mollom API: pong',
+  ), WATCHDOG_INFO);
+  // Return empty content so that Mollom receives an appropriate HTTP status
+  // code.
+  return array();
+}
+
 
 /**
  * Menu callback; Displays the administrative reports page.

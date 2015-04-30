@@ -7,9 +7,9 @@ dependencies[] = "openlayers"
 configure = admin/structure/openlayers
 files[] = openlayers_ui.module
 
-; Information added by drupal.org packaging script on 2013-05-27
-version = "7.x-2.0-beta7"
+; Information added by Drupal.org packaging script on 2014-10-17
+version = "7.x-2.0-beta11"
 core = "7.x"
 project = "openlayers"
-datestamp = "1369677663"
+datestamp = "1413561926"
 

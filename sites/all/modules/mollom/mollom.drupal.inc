@@ -17,6 +17,11 @@ class MollomDrupal extends Mollom {
    */
   public function __construct() {
     parent::__construct();
+    // Set any configured endpoint that may be different from the default.
+    $configured_server = $this->loadConfiguration('server');
+    if (!empty($configured_server)) {
+      $this->server = $configured_server;
+    }
     $this->requestTimeout = variable_get('mollom_connection_timeout', 3);
   }
 
@@ -29,6 +34,7 @@ class MollomDrupal extends Mollom {
     'publicKey' => 'mollom_public_key',
     'privateKey' => 'mollom_private_key',
     'expectedLanguages' => 'mollom_languages_expected',
+    'server' => 'mollom_api_endpoint',
   );
 
   /**
@@ -43,6 +49,11 @@ class MollomDrupal extends Mollom {
    * Implements Mollom::saveConfiguration().
    */
   public function saveConfiguration($name, $value) {
+    // Set local variable.
+    if (property_exists('MollomDrupal', $name)) {
+      $this->{$name} = $value;
+    }
+    // Persist in Drupal.
     $name = $this->configuration_map[$name];
     return variable_set($name, $value);
   }
@@ -153,6 +164,36 @@ class MollomDrupal extends Mollom {
   }
 
   /**
+   * Ping the Mollom API.
+   *
+   * Drupal may want to ping with a set of keys that
+   * are not yet saved in the configuration.  This function handles setting and
+   * resetting the private key after pinging in order to maintain this state.
+   *
+   * @param $publicKey
+   *   (Optional) the public key to use.  If not provided, the class's own
+   *   publicKey is used.
+   * @param $privateKey
+   *   (Optional) the private key to use.  If not provided, the class's own
+   *   privateKey is used.
+   * @param string $callback
+   *   A callback path to receive the "pong" response from Mollom.  The path
+   *   defaults to 'mollom/pong'.
+   */
+  public function pingAPI($publicKey = NULL, $privateKey = NULL, $callback = 'mollom/pong') {
+    // Handle setting the private key for authorization purposes.
+    $currentPrivateKey = $this->loadConfiguration('privateKey');
+    if (!empty($privateKey)) {
+      $this->privateKey = $privateKey;
+    }
+    // Update the callback to an absolute URL.
+    $callback = url($callback, array('absolute' => TRUE));
+    $result = $this->ping($callback, $publicKey);
+    $this->saveConfiguration('privateKey', $currentPrivateKey);
+    return $result;
+  }
+
+  /**
    * Retrieves GET/HEAD or POST/PUT parameters of an inbound request.
    *
    * @return array
@@ -223,6 +264,7 @@ class MollomDrupalTest extends MollomDrupal {
       // Do not destroy production variables when testing mode is enabled.
       $this->configuration_map['publicKey'] = 'mollom_test_public_key';
       $this->configuration_map['privateKey'] = 'mollom_test_private_key';
+      $this->configuration_map['server'] = 'mollom_test_api_endpoint';
     }
 
     // Load and set publicKey and privateKey configuration values.
@@ -414,8 +456,10 @@ class MollomDrupalTestInvalid extends MollomDrupalTest {
    */
   function __construct() {
     $this->originalServer = $this->server;
-    $this->server = 'fake-host';
+    $this->configuration_map['server'] = 'mollom_test_invalid_api_endpoint';
     parent::__construct();
+
+    $this->saveConfiguration('server', 'fake-host');
   }
 
   /**

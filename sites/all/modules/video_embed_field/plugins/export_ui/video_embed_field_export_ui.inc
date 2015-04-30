@@ -1,11 +1,16 @@
 <?php
 
 /**
- * Define this Export UI plugin.
+ * @file
+ * Defines the CTools Export UI plugin.
+ */
+
+/**
+ * Defines this Export UI plugin.
  */
 $plugin = array(
-  'schema' => 'vef_video_styles', // As defined in hook_schema().
-  'access' => 'administer video styles', // Define a permission users must have to access these pages.
+  'schema' => 'vef_video_styles',
+  'access' => 'administer video styles',
   // Define the menu item.
   'menu' => array(
     'menu prefix' => 'admin/config/media',

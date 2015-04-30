@@ -3,6 +3,51 @@ Entity Translation 7.x-1.x, xxxx-xx-xx
 --------------------------------------
 
 
+Entity Translation 7.x-1.0-beta4, 2015-01-23
+--------------------------------------------
+#2396103 by plach: Fixed [DATA LOSS] Translations deleted.
+#2218087 by plach: Fixed PHP Fatal error: Unsupported operand types in
+  modules/field_ui/field_ui.admin.inc on line 477.
+#2396653 by SchnWalter, mongolito404: Fix validation handler for the entity
+  language widget.
+#2395327 by damiankloip: FATAL error when requesting an edit path for a
+  non-existent entity.
+#2342787 by jcisio: Language widget submit handler runs on disabled entity
+  types.
+#2389945 by rafal.enden: Tests don't pass when using different source than
+  original node language.
+#2185523 by leon.nk: Document that entity_translation_enabled_bundle() does not
+  check whether the entity type is translatable.
+#2378195 by Johnny vd Laar: Node edit notice when author of a translation is
+  deleted.
+#2382713 by seanr: entity_translation_update_7006 fails because of SQL error
+  before variable_set('entity_translation_revision_enabled', FALSE); can run.
+#1046282 by plach, good_man, miro_dietiker, Gábor Hojtsy: Make the module work
+  with revisions.
+#2179183 by dkingofpa, Jānis Bebrītis | SocialNicheGuru: Fixed Fatal error:
+  Unsupported operand types in /entity_translation.module on line 188.
+#1605406 by joelrosen, Jose Reyero, paulihuhtiniemi, guillaumev | mindaugasd:
+  Exposed translated field content to Views so that multiple language
+  translations can be shown simultaneously.
+#2160559 by w3wfr: Warning because of empty value line 675.
+#2151503 by SebCorbin: Check for translation access for Add links.
+#2130091 by peximo: Media edit dialog integration bug.
+#2065221 by catch, plach: Fixed Static cache for handlers should key by $vid.
+#1516202 by fabsor, spotzero: Added a CTools access plugin for checking if a
+  translation is available.
+#2027513 by GaëlG, jcisio: Added support for nested values for 'edit form' in
+  hook_entity_info().
+#2073231 by plach: Rename entity_translation_form_language() to
+  entity_translation_get_existing_language().
+#2072865 by douggreen: Fixed Only replace 'delete' button with
+  'delete translation', don't add one that doesn't exist.
+#1865244 by plach | bojanz, agoradesign, ciss, interdruper, joel_osc: Added
+  support for multiple translation handlers on the same form.
+#2055491 by plach: Fixed Synced image fields cannot be emptied.
+#1866076 by grndlvl: Added support for non-entity load tokens when declaring
+  translations.
+
+
 Entity Translation 7.x-1.0-beta3, 2013-07-23
 --------------------------------------------
 #2037789 by Jelle_S: Fixed Default to user_access() access callback like drupal
@@ -33,7 +78,7 @@ Entity Translation 7.x-1.0-beta3, 2013-07-23
 #1947764 by plach: Improve bundle translatability checks.
 #1370900 by mojzis, plach | mgladding: Fixed Fatal Error: Cannot access empty
   property in translation.handler.inc.
-Issue #1924088 by plach | drzraf: Fixed Wrong form 'language' value in case of
+#1924088 by plach | drzraf: Fixed Wrong form 'language' value in case of
   content-translation enabled bundles.
 #1933742 by das-peter: Fixed Delete translation doesn't flush the entity cache.
 #1903024 by fabsor | dimitrileonidas: Fixed SQL error in Views when adding an

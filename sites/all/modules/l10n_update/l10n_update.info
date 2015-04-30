@@ -5,11 +5,10 @@ core = 7.x
 package = Multilingual
 
 files[] = l10n_update.parser.inc
-files[] = includes/locale/TranslationsStreamWrapper.php
 
-; Information added by Drupal.org packaging script on 2014-04-12
-version = "7.x-1.0"
+; Information added by Drupal.org packaging script on 2014-11-10
+version = "7.x-1.1"
 core = "7.x"
 project = "l10n_update"
-datestamp = "1397295556"
+datestamp = "1415605322"
 

@@ -111,7 +111,7 @@ function omega_css_js_alter(&$data, $type = 'css') {
     // Explode and trim the values for the exclusion rules.
     $steps = omega_assets_regex_steps($excludes);
 
-    cache_set("omega:{$GLOBALS['theme_key']}:excludes:$type", $steps, CACHE_TEMPORARY);
+    cache_set("omega:{$GLOBALS['theme_key']}:excludes:$type", $steps, 'cache', CACHE_TEMPORARY);
   }
   else {
     $steps = $cache->data;
@@ -206,7 +206,12 @@ function omega_extensions($theme = NULL, $reset = FALSE) {
 function omega_extension_enabled($extension, $theme = NULL) {
   $theme = isset($theme) ? $theme : $GLOBALS['theme_key'];
   if (($extensions = omega_extensions($theme)) && isset($extensions[$extension])) {
-    return empty($extensions[$extension]['errors']) && !empty($extensions[$extension]['enabled']) && variable_get('omega_toggle_extension_' . $extension, TRUE);
+    // Disabled if there were errors or disabled by overriding.
+    if (!empty($extensions[$extension]['errors']) || !variable_get('omega_toggle_extension_' . $extension, TRUE)) {
+      return FALSE;
+    }
+    // Enabled by theme setting or enabled by overriding.
+    return !empty($extensions[$extension]['enabled']) || variable_get('omega_toggle_extension_' . $extension, FALSE);
   }
 }
 

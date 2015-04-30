@@ -34,7 +34,19 @@ Drupal.openlayers.addBehavior('openlayers_behavior_mapformvalues', function (dat
 
   if (zoom_form.length) {
     data.openlayers.zoom_form = zoom_form;
-    data.openlayers.zoomTo(parseInt(zoom_form.val()));
+    if (centerpoint_form.length) {
+      data.openlayers.setCenter(
+        OpenLayers.LonLat.fromString(center_point).transform(
+          new OpenLayers.Projection('EPSG:4326'),
+          data.openlayers.projection
+        ),
+        parseInt(zoom_form.val())
+      );
+    } else {
+      data.openlayers.zoomTo(
+        parseInt(zoom_form.val())
+      );
+    }
   }
 
   data.openlayers.events.on({'moveend': updateForm});

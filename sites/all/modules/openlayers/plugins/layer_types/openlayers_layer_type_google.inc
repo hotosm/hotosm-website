@@ -102,6 +102,20 @@ class openlayers_layer_type_google extends openlayers_layer_type {
         ),
         '#default_value' => variable_get('openlayers_layers_google_language', ''),
       ),
+      'openlayers_layers_google_libraries' => array(
+        '#type' => 'textfield',
+        '#title' => t('Google Maps Libraries'),
+        '#description' => t('Insert name of libraries delemited by comma without whitespaces.
+          This will determine which libraries will be included in Google Map API v3 js file.'
+        ),
+        '#default_value' => variable_get('openlayers_layers_google_libraries', ''),
+        '#states' => array(
+          // Show the settings if 'openlayers_google_version' has been selected for '3.5'.
+          'visible' => array(
+            ':input[name="openlayers_layer_type_google[settings][openlayers_google_version]"]' => array('value' => '3.5'),
+          ),
+        ),
+      ),
     );
   }
 
@@ -109,6 +123,7 @@ class openlayers_layer_type_google extends openlayers_layer_type {
    * Render.
    */
   function render(&$map) {
+    global $language;
     static $google_maps_included;
 
     if (!isset($google_maps_included)) {
@@ -131,9 +146,13 @@ class openlayers_layer_type_google extends openlayers_layer_type {
       }
 
       $lang = variable_get('openlayers_layers_google_language', '');
+      $lang == '' ? $language->language : $lang;
       // Google v2 uses hl and v3 uses language
       $url .= !empty($lang) ? '&hl=' . $lang : '';
       $url .= !empty($lang) ? '&language=' . $lang : '';
+
+      $libraries = variable_get('openlayers_layers_google_libraries', '');
+      $url .= !empty($libraries) ? '&libraries=' . $libraries : '';
 
       drupal_add_js($url, 'external');
       $google_maps_included = TRUE;

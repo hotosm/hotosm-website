@@ -28,7 +28,7 @@ Drupal.openlayers.addBehavior('openlayers_behavior_drawfeatures', function (data
   // Create element
   var feature_types = options.feature_types;
   if (options.element_id != "") {
-    this.element = $('#' + options.element_id);
+    this.element = jQuery('#' + options.element_id);
   }
   // Handle vector layer for drawing on
   this.feature_limit = options.feature_limit;
@@ -119,21 +119,32 @@ Drupal.openlayers.addBehavior('openlayers_behavior_drawfeatures', function (data
     );
   }
 
-  // Add modify feature tool
-  control.addControls(new OpenLayers.Control.ModifyFeature(
-    dataLayer, {
-      displayClass: 'olControlModifyFeature',
-      deleteCodes: [46, 68, 100],
-      handleKeypress: function(evt) {
-        if (this.feature && $.inArray(evt.keyCode, this.deleteCodes) > -1) {
-          // We must unselect the feature before we delete it
-          var feature_to_delete = this.feature;
-          this.selectControl.unselectAll();
-          this.layer.removeFeatures([feature_to_delete]);
-        }
-      }
+  var deleteFeatureControl = new OpenLayers.Control.SelectFeature(layer, {
+    clickout: false,
+    toggle: false,
+    title: "Delete",
+    displayClass: "olControlDelete"
+  });
+
+  deleteFeatureControl.events.register("featurehighlighted", this, function(e) {
+    if (confirm('Are you sure you want to delete this feature?')) {
+      layer.removeFeatures([e.feature]);
+      deleteFeatureControl.deactivate();
+    } else {
+      deleteFeatureControl.unselect(e.feature);
     }
-  )
+  });
+
+  controls.addControls([deleteFeatureControl]);
+
+  // Add modify feature tool
+  control.addControls(
+    new OpenLayers.Control.ModifyFeature(
+      dataLayer, {
+       displayClass: 'olControlModifyFeature',
+       deleteCodes: [46, 68, 100]
+      }
+    )
   );
 
 });

@@ -64,7 +64,7 @@
  * - skip original values access: A flag specifying whether skipping access
  *   control when editing original values for this entity. Defaults to FALSE.
  * - bundle callback: A callback to check whether the passed bundle has entity
- *   translation enabled. If empty all bundles are supposed to be enabled.
+ *   translation enabled. Defaults to TRUE for all bundles.
  * - default settings: The defaults to be applied to settings when an explicit
  *   choice is missing.
  */
@@ -150,4 +150,17 @@ function hook_entity_translation_update($entity_type, $entity, $translation, $va
  *   The langcode of the translation which was deleted.
  */
 function hook_entity_translation_delete($entity_type, $entity, $langcode) {
+}
+
+/**
+ * Allows modules to act when a revision translation is deleted.
+ *
+ * @param $entity_type
+ *   The entity type.
+ * @param $entity
+ *   The entity.
+ * @param $langcode
+ *   The langcode of the revision translation which was deleted.
+ */
+function hook_entity_translation_delete_revision($entity_type, $entity, $langcode) {
 }

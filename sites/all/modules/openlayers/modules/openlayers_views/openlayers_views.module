@@ -115,24 +115,26 @@ function openlayers_views_openlayers_layers() {
       // Check for OpenLayers Data Overlays
       if ($view->display_handler->get_option('style_plugin') == 'openlayers_data' && $display != 'default') {
         //Build Layer
-        $layer = new stdClass();
+        $layer = new openlayers_layer_type_openlayers_views_vector();
         $layer->api_version = 1;
         $layer->name = $view->name . '_' . $display;
         $layer->title = empty($data->display_options['title']) ? $view->name : $data->display_options['title'];
         $layer->title .= ' - ' . $data->display_title;
         $layer->description = $view->description;
-        $layer->data = array(
-          'layer_type' => 'openlayers_views_vector',
-          'layer_handler' => 'openlayers_views_vector',
-          'projection' => array('EPSG:4326'),
-          'isBaseLayer' => FALSE,
-          'vector' => TRUE,
-          'type' => 'Vector',
-          'url' => array(),
-          'options' => array(),
-          'events' => array(),
-          'views' => array('view' => $view->name, 'display' => $display),
-        );
+        $layer->data['views'] = array('view' => $view->name, 'display' => $display);
+        $layers[$layer->name] = $layer;
+      }
+
+      // Check for OpenLayers Data Image Overlays
+      if ($view->display_handler->get_option('style_plugin') == 'openlayers_data_image' && $display != 'default') {
+        //Build Layer
+        $layer = new openlayers_layer_type_openlayers_views_image();
+        $layer->api_version = 1;
+        $layer->name = $view->name . '_' . $display;
+        $layer->title = empty($data->display_options['title']) ? $view->name : $data->display_options['title'];
+        $layer->title .= ' - ' . $data->display_title;
+        $layer->description = $view->description;
+        $layer->data['views'] = array('view' => $view->name, 'display' => $display);
         $layers[$layer->name] = $layer;
       }
 
@@ -141,7 +143,7 @@ function openlayers_views_openlayers_layers() {
         $view->display_handler->display->display_plugin == 'page' &&
         $view->display_handler->get_option('path') != ''
       ) {
-        $layer = new stdClass();
+        $layer = new openlayers_layer_type_geojson();
         $layer->api_version = 1;
         $layer->name = $view->name . '_' . $display;
         $layer->title = empty($data->display_options['title']) ? $view->name : $data->display_options['title'];
@@ -150,19 +152,17 @@ function openlayers_views_openlayers_layers() {
 
         // Determine if we should use a BBOX strategy.
         $useBBOX = FALSE;
-        if (isset($view->display['default']->display_options['arguments']) &&
-          isset($view->display['default']->display_options['arguments']['bbox_argument']) &&
-          $view->display['default']->display_options['arguments']['bbox_argument']['arg_id'] == 'bbox') {
+        if (isset($data->display_options['arguments']) &&
+          isset($data->display_options['arguments']['bbox_argument']) &&
+          $view->data->display_options['arguments']['bbox_argument']['arg_id'] == 'bbox') {
           $useBBOX = TRUE;
         }
 
-        $layer->data = array(
-          'layer_type' => 'openlayers_layer_type_geojson',
-          'url' => url($view->display_handler->get_option('path'), array('absolute' => TRUE)),
-          'geojson_data' => '',
-          'views' => array('view' => $view->name, 'display' => $display),
-          'useBBOX' => $useBBOX,
-        );
+        $layer->data['url'] = url($view->display_handler->get_option('path'), array('absolute' => TRUE));
+        $layer->data['geojson_data'] = '';
+        $layer->data['views'] = array('view' => $view->name, 'display' => $display);
+        $layer->data['useBBOX'] = $useBBOX;
+
         $layers[$layer->name] = $layer;
       }
     }
@@ -170,65 +170,4 @@ function openlayers_views_openlayers_layers() {
   }
   cache_set('openlayers_views', $layers);
   return $layers;
-}
-
-/**
- * Implements hook_field_formatter_info().
- */
-function openlayers_views_field_formatter_info() {
-  return array(
-    'openlayers' => array(
-      'label'       => t('OpenLayers Style'),
-      'field types' => array('image'),
-      'settings'    => array('image_style' => ''),
-    ),
-  );
-}
-
-/**
- * Implements hook_field_formatter_view().
- */
-function openlayers_views_field_formatter_view($entity_type, $entity, $field, $instance, $langcode, $items, $display) {
-  $element = array();
-
-  foreach ($items as $delta => $item) {
-    $element[$delta] = array(
-      '#theme'            => 'openlayers_image_formatter',
-      '#item'             => $item,
-      '#display_settings' => $display['settings'],
-      '#node'             => $entity,
-      '#field'            => $field,
-    );
-  }
-
-  return $element;
-}
-
-/**
- * Implements hook_field_formatter_settings_form().
- */
-function openlayers_views_field_formatter_settings_form($field, $instance, $view_mode, $form, &$form_state) {
-  $display = $instance['display'][$view_mode];
-  $settings = $display['settings'];
-
-  $style = new stdClass();
-  $style->name = drupal_html_id('style');
-  $style->data = $settings;
-
-  $form_state['item'] = $style;
-
-  ctools_include('export-ui');
-  $plugin = ctools_get_export_ui('openlayers_styles');
-  $handler = ctools_export_ui_get_handler($plugin);
-
-  call_user_func_array(array($handler, 'edit_form'), array(&$form, &$form_state));
-
-  $form = $form['data'];
-  unset($form['#type']);
-  unset($form['#tree']);
-  unset($form['#title']);
-  unset($form['#description']);
-  unset($form['externalGraphic']);
-
-  return $form;
 }

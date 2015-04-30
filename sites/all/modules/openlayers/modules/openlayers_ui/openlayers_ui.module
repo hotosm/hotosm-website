@@ -320,9 +320,6 @@ function openlayers_ui_style_preview($style, $crosshairs = FALSE) {
   module_load_include('inc', 'openlayers', 'includes/openlayers.render');
   openlayers_include();
 
-  // Render style data
-  $style->data = openlayers_render_style($style->data);
-
   // Let's make a tiny map for a preview
   drupal_add_js(array('openlayers_ui' =>
     array(

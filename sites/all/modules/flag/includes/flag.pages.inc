@@ -11,7 +11,11 @@
  * Used both for the regular callback as well as the JS version.
  *
  * @param $action
- *   Either 'flag' or 'unflag'.
+ *   The action about to be performed. One of 'flag' or 'unflag'.
+ * @param $flag
+ *   The flag object.
+ * @param $entity_id
+ *   The ID of the entity to be acted upon. The type is implicit in the flag.
  */
 function flag_page($action, $flag, $entity_id) {
   global $user;

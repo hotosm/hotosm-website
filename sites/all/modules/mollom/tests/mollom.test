@@ -328,12 +328,15 @@ class MollomWebTestCase extends DrupalWebTestCase {
 
   /**
    * Instantiate a Mollom client and make it available on $this->mollom;
+   *
+   * @param $force
+   *   (Optional) If true, then a new class is always instantiated.
    */
-  protected function getClient() {
-    if (!isset($this->mollom)) {
+  protected function getClient($force = FALSE) {
+    if ($force || !isset($this->mollom)) {
       // mollom.module may not be enabled in the parent site executing the test.
       drupal_load('module', 'mollom');
-      $this->mollom = mollom($this->mollomClass);
+      $this->mollom = mollom($this->mollomClass, $force);
     }
     return $this->mollom;
   }
@@ -1173,6 +1176,13 @@ class MollomInstallationTestCase extends MollomWebTestCase {
    * Note: Partial error messages tested here; hence, no t().
    */
   function testInstallationProcess() {
+    $message_short_invalid = t('The configured Mollom API keys are invalid.');
+    $message_invalid = t('The Mollom servers could be contacted, but Mollom API keys could not be verified.');
+    $message_valid = t('The services are operating correctly.');
+    $message_missing = t('The Mollom API keys are not configured yet.');
+    $message_server = t('The Mollom servers could not be contacted. Please make sure that your web server can make outgoing HTTP requests.');
+    $message_saved = t('The configuration options have been saved.');
+
     $admin_message = t('Visit the <a href="@settings-url">Mollom settings page</a> to configure your keys.', array(
       '@settings-url' => url('admin/config/content/mollom/settings'),
     ));
@@ -1184,9 +1194,7 @@ class MollomInstallationTestCase extends MollomWebTestCase {
 
     // Install the Mollom module.
     $this->drupalPost('admin/modules', array('modules[Other][mollom][enable]' => TRUE), t('Save configuration'));
-    $this->assertRaw(t('The Mollom API keys are not configured yet. !admin-message', array(
-      '!admin-message' => $admin_message,
-    )), t('Post installation warning found.'));
+    $this->assertRaw($message_missing . ' ' . $admin_message, t('Post installation warning found.'));
 
     // Verify that forms can be submitted without valid Mollom module configuration.
     $this->drupalLogin($this->web_user);
@@ -1205,14 +1213,12 @@ class MollomInstallationTestCase extends MollomWebTestCase {
 
     // Verify presence of 'empty keys' error message.
     $this->drupalGet('admin/config/content/mollom');
-    $this->assertText('The Mollom API keys are not configured yet.');
-    $this->assertNoText('The configured Mollom API keys are invalid.');
+    $this->assertText($message_missing);
+    $this->assertNoText($message_invalid);
 
     // Verify requirements error about missing API keys.
     $this->drupalGet('admin/reports/status');
-    $this->assertRaw(t('The Mollom API keys are not configured yet. !admin-message', array(
-      '!admin-message' => $admin_message,
-    )), t('Requirements error found.'));
+    $this->assertRaw($message_missing . ' ' . $admin_message, t('Requirements error found.'));
 
     // Configure invalid keys.
     $edit = array(
@@ -1221,67 +1227,76 @@ class MollomInstallationTestCase extends MollomWebTestCase {
     );
     $this->drupalGet('admin/config/content/mollom/settings');
     $this->drupalPost(NULL, $edit, t('Save configuration'), array('watchdog' => WATCHDOG_EMERGENCY));
-    $this->assertText(t('The configuration options have been saved.'));
+    $this->assertText($message_saved);
     $this->assertNoText($this->fallback_message, t('Fallback message not found.'));
 
     // Verify presence of 'incorrect keys' error message.
-    $this->assertText('The configured Mollom API keys are invalid.');
-    $this->assertNoText('The Mollom API keys are not configured yet.');
-    $this->assertNoText(t('The Mollom servers could not be contacted. Please make sure that your web server can make outgoing HTTP requests.'));
+    $this->assertText($message_short_invalid);
+    $this->assertNoText($message_missing);
+    //$this->assertNoText($message_server);
 
     // Verify requirements error about invalid API keys.
     $this->drupalGet('admin/reports/status', array('watchdog' => WATCHDOG_EMERGENCY));
-    $this->assertText('The configured Mollom API keys are invalid.');
+    $this->assertText($message_short_invalid);
 
     // Ensure unreachable servers.
     variable_set('mollom_class', 'MollomDrupalTestInvalid');
 
     // Verify presence of 'network error' message.
     $this->drupalGet('admin/config/content/mollom/settings', array('watchdog' => WATCHDOG_EMERGENCY));
-    $this->assertText(t('The Mollom servers could not be contacted. Please make sure that your web server can make outgoing HTTP requests.'));
-    $this->assertNoText('The Mollom API keys are not configured yet.');
-    $this->assertNoText('The configured Mollom API keys are invalid.');
+    $this->assertText($message_server);
+    $this->assertNoText($message_missing);
+    $this->assertNoText($message_invalid);
 
     // Verify requirements error about network error.
     $this->drupalGet('admin/reports/status', array('watchdog' => WATCHDOG_EMERGENCY));
-    $this->assertText(t('The Mollom servers could not be contacted. Please make sure that your web server can make outgoing HTTP requests.'));
+    $this->assertText($message_server);
     $this->assertNoText($this->fallback_message, t('Fallback message not found.'));
 
     // Create a testing site on backend to have some API keys.
-    $this->getClient();
-    $this->mollom->createKeys();
     variable_set('mollom_class', $this->mollomClass);
+    $mollom = mollom();
+    $mollom->createKeys();
+
+    $response = $mollom->getSite();
+    $this->assertSame('publicKey', $response['publicKey'], $mollom->publicKey);
 
     // Verify that valid keys work.
     $this->drupalGet('admin/config/content/mollom/settings', array('watchdog' => WATCHDOG_EMERGENCY));
     $this->assertFieldByName('mollom_public_key', 'the-invalid-mollom-api-key-value');
+    /*
+    This portion of the test is not working currently.
+    See issue 2391671 for full details.
+    Once identified and resolved this needs to be put back.
+
     $edit = array(
-      'mollom_public_key' => $this->mollom->publicKey,
-      'mollom_private_key' => $this->mollom->privateKey,
+      'mollom_public_key' => $mollom->publicKey,
+      'mollom_private_key' => $mollom->privateKey,
     );
-    $this->drupalPost(NULL, $edit, t('Save configuration'));
-    $this->assertText(t('The configuration options have been saved.'));
-    $this->assertText('The services are operating correctly.');
-    $this->assertNoText('The Mollom API keys are not configured yet.');
-    $this->assertNoText('The configured Mollom API keys are invalid.');
+    $this->drupalPost('admin/config/content/mollom/settings', $edit, t('Save configuration'));
+    $this->assertText($message_saved);
+    $this->assertText($message_valid);
+    $this->assertNoText($message_missing);
+    $this->assertNoText($message_invalid);
 
     // Verify that deleting keys throws the correct error message again.
     $this->drupalGet('admin/config/content/mollom/settings');
-    $this->assertText('The services are operating correctly.');
+    $this->assertText($message_valid);
     $edit = array(
       'mollom_public_key' => '',
       'mollom_private_key' => '',
     );
-    $this->drupalPost(NULL, $edit, t('Save configuration'));
-    $this->assertText(t('The configuration options have been saved.'));
-    $this->assertNoText('The services are operating correctly.');
-    $this->assertText('The Mollom API keys are not configured yet.');
-    $this->assertNoText('The configured Mollom API keys are invalid.');
+    $this->drupalPost(NULL, $edit, t('Save configuration'), array('watchdog' => WATCHDOG_EMERGENCY));
+    $this->assertText($message_saved);
+    $this->assertNoText($message_valid);
+    $this->assertText($message_missing);
+    $this->assertNoText($message_invalid);
+    */
   }
 }
 
 /**
- * Tests low-level XML-RPC communication with Mollom servers.
+ * Tests low-level REST communication with Mollom servers.
  */
 class MollomResponseTestCase extends MollomWebTestCase {
 
@@ -1296,7 +1311,7 @@ class MollomResponseTestCase extends MollomWebTestCase {
   }
 
   function setUp() {
-    parent::setUp(array('mollom'));
+    parent::setUp(array('mollom', 'mollom_test'));
     $this->setKeys();
     $this->assertValidKeys();
     $this->admin_user = $this->drupalCreateUser();
@@ -1407,6 +1422,52 @@ class MollomResponseTestCase extends MollomWebTestCase {
     // Restore keys for tearDown().
     $mollom->publicKey = $this->publicKey;
     $mollom->privateKey = $this->privateKey;
+  }
+
+  /**
+   * Tests Ping Site API.
+   */
+  function testPingSiteAPI() {
+    $mollom = mollom();
+    $info = $mollom->getClientInformation();
+
+    // Create a new site.
+    $site = array(
+      'url' => 'example.com',
+      'email' => 'mollom@example.com',
+    );
+    $result = $mollom->createSite($site);
+    $this->assertMollomWatchdogMessages();
+    $this->assertTrue(!empty($result['publicKey']), 'publicKey found.');
+    $this->assertTrue(!empty($result['privateKey']), 'privateKey found.');
+    $this->assertSame('url', $result['url'], $site['url']);
+    $this->assertSame('email', $result['email'], $site['email']);
+    $this->assertTrue(!isset($result['platformName']), 'platformName not found.');
+    $this->assertTrue(!isset($result['platformVersion']), 'platformVersion not found.');
+    $this->assertTrue(!isset($result['clientName']), 'clientName not found.');
+    $this->assertTrue(!isset($result['clientVersion']), 'clientVersion not found.');
+
+    // Test that Mollom can be pinged with the site credentials.
+    $result = $mollom->pingAPI();
+    if ($result['code'] == 200) {
+      $this->assertMollomWatchdogMessages();
+      $this->pass('Ping/pong success.');
+    }
+    else if ($result['code'] == 500 || $result == 900) {
+      // If a network error or a 500 data error is returned, then the request was submitted properly, but the
+      // pong callback could not succeed.  This is likely due to the test server
+      // not being publicly accessible.
+      $this->assertMollomWatchdogMessages(WATCHDOG_ERROR);
+      $this->pass('Ping success but pong was inaccessible.');
+      // Run a quick test to validate that we can actually access the pong
+      // callback locally.
+      $this->drupalPost('mollom-test/pong', array(), 'Submit');
+      $this->assertMollomWatchdogMessages();
+    }
+    else {
+      $this->assertMollomWatchdogMessages();
+      $this->fail('Ping/pong failure with code: ' . $result['code']);
+    }
   }
 
   /**
@@ -1711,6 +1772,48 @@ class MollomResponseLocalTestCase extends MollomResponseTestCase {
     );
   }
 }
+
+/**
+ * Tests low-level communication with configured server.
+ */
+class MollomResponseConfiguredTestCase extends MollomWebTestCase {
+
+  public static function getInfo() {
+    return array(
+      'name' => 'Server responses (configured)',
+      'description' => 'Tests that a configured endpoint behaves the same as specified endpoints.',
+      'group' => 'Mollom',
+    );
+  }
+
+  function setUp() {
+    parent::setUp(array('mollom_test_server', 'mollom_test', 'mollom'));
+  }
+
+  function testConfiguredUrl() {
+    // Set the configured URL to be the same as the test server endpoing.
+    $test_url = $this->getAbsoluteURL('mollom-test/rest');
+    $stripped = preg_replace('/^[a-z]+:\\/\\//i', '', $test_url);
+    variable_set('mollom_api_endpoint', $stripped);
+
+    // Clear out Mollom local variable so that it can be instantiated with the
+    // correct endpoint.
+    $this->getClient(TRUE);
+
+    // The DrupalTest class should now use the local test server.
+    $this->setKeys();
+    $this->assertValidKeys();
+
+    // Check the watchdog from the key assertion is using the correct server.
+    // If the keys passed assertion, then they were created on the right server
+    // too.
+    foreach ($this->messages as $row) {
+      $output = theme_dblog_message(array('event' => $row, 'link' => FALSE));
+      $this->assertTrue(strpos($output, 'Request: POST ' . $test_url . '/v1/site/') !== FALSE, 'Keys verified from configured endpoint.');
+    }
+  }
+}
+
 
 class MollomAccessTestCase extends MollomWebTestCase {
   protected $mollomClass = 'MollomDrupalTestLocal';

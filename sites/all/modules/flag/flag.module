@@ -219,7 +219,6 @@ function flag_menu() {
     'access arguments' => array('administer flags'),
     'description' => 'Configure flags for marking content with arbitrary information (such as <em>offensive</em> or <em>bookmarked</em>).',
     'file' => 'includes/flag.admin.inc',
-    'type' => MENU_NORMAL_ITEM,
   );
   $items[FLAG_ADMIN_PATH . '/list'] = array(
     'title' => 'List',
@@ -241,7 +240,7 @@ function flag_menu() {
     'page arguments' => array('flag_import_form'),
     'access arguments' => array('use flag import'),
     'file' => 'includes/flag.export.inc',
-    'type' => MENU_LOCAL_TASK,
+    'type' => MENU_LOCAL_ACTION,
     'weight' => 2,
   );
   $items[FLAG_ADMIN_PATH . '/export'] = array(
@@ -250,7 +249,7 @@ function flag_menu() {
     'page arguments' => array('flag_export_form'),
     'access arguments' => array('administer flags'),
     'file' => 'includes/flag.export.inc',
-    'type' => MENU_LOCAL_TASK,
+    'type' => MENU_LOCAL_ACTION,
     'weight' => 3,
   );
 
@@ -262,7 +261,7 @@ function flag_menu() {
     'access callback' => 'user_access',
     'access arguments' => array('administer flags'),
     'file' => 'includes/flag.admin.inc',
-    'type' => MENU_CALLBACK,
+    'type' => MENU_LOCAL_TASK,
     // Make the flag title the default title for descendant menu items.
     'title callback' => '_flag_menu_title',
     'title arguments' => array(FLAG_ADMIN_PATH_START + 1),
@@ -342,31 +341,6 @@ function flag_admin_menu_map() {
       ),
     ),
   );
-
-  if (module_exists('field_ui')) {
-    foreach (entity_get_info() as $obj_type => $info) {
-      if ($obj_type == 'flagging') {
-        foreach ($info['bundles'] as $bundle_name => $bundle_info) {
-          if (isset($bundle_info['admin'])) {
-            $fields = array();
-
-            foreach (field_info_instances($obj_type, $bundle_name) as $field) {
-              $fields[] = $field['field_name'];
-            }
-
-            $arguments = array(
-              '%flag' => array($bundle_name),
-              '%field_ui_menu' => $fields,
-            );
-
-            $path = $bundle_info['admin']['path'];
-            $map["$path/fields/%field_ui_menu"]['parent'] = "$path/fields";
-            $map["$path/fields/%field_ui_menu"]['arguments'][] = $arguments;
-          }
-        }
-      }
-    }
-  }
 
   return $map;
 }
@@ -1569,7 +1543,7 @@ function template_preprocess_flag(&$variables) {
   $action = $variables['action'];
   $entity_id = $variables['entity_id'];
   $errors = implode('<br />', $variables['errors']);
-  $flag_css_name = str_replace('_', '-', $flag->name);
+  $flag_name_css = str_replace('_', '-', $flag->name);
 
   // Generate the link URL.
   $link_type = $flag->get_link_type();
@@ -1605,12 +1579,12 @@ function template_preprocess_flag(&$variables) {
   $variables['link_text'] = isset($link['title']) ? $link['title'] : $flag->get_label($action . '_short', $entity_id);
   $variables['link_title'] = isset($link['attributes']['title']) ? check_plain($link['attributes']['title']) : check_plain(strip_tags($flag->get_label($action . '_long', $entity_id)));
   $variables['status'] = ($action == 'flag' ? 'unflagged' : 'flagged');
-  $variables['flag_name_css'] = $flag_css_name;
+  $variables['flag_name_css'] = $flag_name_css;
 
   $variables['flag_wrapper_classes_array'] = array();
   $variables['flag_wrapper_classes_array'][] = 'flag-wrapper';
-  $variables['flag_wrapper_classes_array'][] = 'flag-' . $flag_css_name;
-  $variables['flag_wrapper_classes_array'][] = 'flag-' . $flag_css_name . '-' . $entity_id;
+  $variables['flag_wrapper_classes_array'][] = 'flag-' . $flag_name_css;
+  $variables['flag_wrapper_classes_array'][] = 'flag-' . $flag_name_css . '-' . $entity_id;
 
   $variables['flag_classes_array'] = array();
   $variables['flag_classes_array'][] = 'flag';
@@ -1794,7 +1768,7 @@ function flag_get_user_flag_counts($flag, $user) {
  *   The entity ID (usually the node ID).
  *
  * @return
- *   The flag count with the entity type and id as array keys.
+ *   The flag count with the flag names as array keys.
  */
 function flag_get_counts($entity_type, $entity_id) {
   $counts = &drupal_static(__FUNCTION__);
@@ -2055,7 +2029,6 @@ function flag_get_default_flags($include_disabled = FALSE) {
  *   An array of flagging data, keyed by the flagging ID.
  */
 function flag_get_flag_flagging_data($flag_name) {
-  $return = array();
   $flag = flag_get_flag($flag_name);
   $result = db_select('flagging', 'fc')
     ->fields('fc')

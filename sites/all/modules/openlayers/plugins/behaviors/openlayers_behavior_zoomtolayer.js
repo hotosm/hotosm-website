@@ -47,6 +47,9 @@ Drupal.openlayers.addBehavior('openlayers_behavior_zoomtolayer', function (data,
    */
   function handle_loadend_once(event) {
     var layer = event.object;
+    if (layer.features.length === 0) {
+      return;
+    }
     layer.events.unregister('loadend', layer, handle_loadend_once);
 
     accumulate_extent(layer);
@@ -59,9 +62,10 @@ Drupal.openlayers.addBehavior('openlayers_behavior_zoomtolayer', function (data,
    */
   function accumulate_extent(layer){
     var layerextent = layer.getDataExtent();
-    if(fullExtent instanceof OpenLayers.Bounds){
+    if (fullExtent instanceof OpenLayers.Bounds) {
       fullExtent.extend(layerextent);
-    } else if(layerextent instanceof OpenLayers.Bounds) {
+    }
+    else if (layerextent instanceof OpenLayers.Bounds) {
       fullExtent = layerextent;
     }
   }

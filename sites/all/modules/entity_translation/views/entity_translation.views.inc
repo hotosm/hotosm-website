@@ -224,4 +224,24 @@ function entity_translation_views_data_alter(&$data) {
       );
     }
   }
+
+  // Expose all translatable fields, using a handler based off Views' default
+  // field handler, that allows users to select the language to display the
+  // field in.
+  foreach (field_info_fields() as $field) {
+    if ($field['translatable'] && $field['storage']['type'] == 'field_sql_storage') {
+      // Set defaults and just change the handler, title, group, and help.
+      $defaults = field_views_field_default_views_data($field);
+      foreach ($defaults as $table_name => $table_data) {
+        if (isset($data[$table_name][$field['field_name']])) {
+          $field_title = $table_data[$field['field_name']]['title'];
+          $table_data[$field['field_name']]['title'] = t('!title: translated', array('!title' => $field_title));
+          $table_data[$field['field_name']]['group'] = t('Entity translation');
+          $table_data[$field['field_name']]['help'] .= ' ' . t('Show the field !title translated into a specified language', array('!title' => $field_title));
+          $table_data[$field['field_name']]['field']['handler'] = 'entity_translation_handler_field_field';
+          $data[$table_name][$field['field_name'] . '_et'] = $table_data[$field['field_name']];
+        }
+      }
+    }
+  }
 }

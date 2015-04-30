@@ -230,6 +230,16 @@ class SmtpMailSystem implements MailSystemInterface {
           break;
 
         case 'return-path':
+          if (strpos($value, '<') !== FALSE) {
+            $returnPathParts = explode('<', $value);
+            $returnPathAddr = rtrim($returnPathParts[1], '>');
+            $mailer->Sender = $returnPathAddr;
+          }
+          else {
+            $mailer->Sender = $value;
+          }
+          break;
+
         case 'mime-version':
         case 'x-mailer':
           // Let PHPMailer specify these.
@@ -271,27 +281,31 @@ class SmtpMailSystem implements MailSystemInterface {
           }
           break;
 
+        case 'message-id':
+          $mailer->MessageID = $value;
+          break;
+
         default:
           // The header key is not special - add it as is.
           $mailer->AddCustomHeader($key . ': ' . $value);
       }
     }
 
-/**
- * TODO
- * Need to figure out the following.
- *
- * Add one last header item, but not if it has already been added.
- * $errors_to = FALSE;
- * foreach ($mailer->CustomHeader as $custom_header) {
- *   if ($custom_header[0] = '') {
- *     $errors_to = TRUE;
- *   }
- * }
- * if ($errors_to) {
- *   $mailer->AddCustomHeader('Errors-To: '. $from);
- * }
- */
+    /**
+     * TODO
+     * Need to figure out the following.
+     *
+     * Add one last header item, but not if it has already been added.
+     * $errors_to = FALSE;
+     * foreach ($mailer->CustomHeader as $custom_header) {
+     *   if ($custom_header[0] = '') {
+     *     $errors_to = TRUE;
+     *   }
+     * }
+     * if ($errors_to) {
+     *   $mailer->AddCustomHeader('Errors-To: '. $from);
+     * }
+     */
     // Add the message's subject.
     $mailer->Subject = $subject;
 
@@ -299,12 +313,7 @@ class SmtpMailSystem implements MailSystemInterface {
     switch ($content_type) {
       case 'multipart/related':
         $mailer->Body = $body;
-
-  /**
-   * TODO
-   * Firgure out if there is anything more to handling this type.
-   */
-
+        // TODO: Figure out if there is anything more to handling this type.
         break;
 
       case 'multipart/alternative':
@@ -367,10 +376,21 @@ class SmtpMailSystem implements MailSystemInterface {
               }
               // If plain/html within the body part, add it to $mailer->Body.
               elseif (strpos($body_part2, 'text/html')) {
+                // Get the encoding.
+                $body_part2_encoding = $this->_get_substring($body_part2, 'Content-Transfer-Encoding', ':', "\n");
                 // Clean up the text.
                 $body_part2 = trim($this->_remove_headers(trim($body_part2)));
-                // Include it as part of the mail object.
-                $mailer->Body = $body_part2;
+                // Check whether the encoding is base64, and if so, decode it.
+                if (drupal_strtolower($body_part2_encoding) == 'base64') {
+                  // Include it as part of the mail object.
+                  $mailer->Body = base64_decode($body_part2);
+                  // Ensure the whole message is recoded in the base64 format.
+                  $mailer->Encoding = 'base64';
+                }
+                else {
+                  // Include it as part of the mail object.
+                  $mailer->Body = $body_part2;
+                }
                 $mailer->ContentType = 'multipart/mixed';
               }
             }
@@ -401,7 +421,7 @@ class SmtpMailSystem implements MailSystemInterface {
             $mailer->ContentType = 'multipart/mixed';
           }
           // Add the attachment.
-          elseif (strpos($body_part, 'Content-Disposition: attachment;')) {
+          elseif (strpos($body_part, 'Content-Disposition: attachment;') && !isset($message['params']['attachments'])) {
             $file_path     = $this->_get_substring($body_part, 'filename=', '"', '"');
             $file_name     = $this->_get_substring($body_part, ' name=', '"', '"');
             $file_encoding = $this->_get_substring($body_part, 'Content-Transfer-Encoding', ' ', "\n");
@@ -443,14 +463,16 @@ class SmtpMailSystem implements MailSystemInterface {
         break;
     }
 
-    // Process mimemail attachments
+    // Process mimemail attachments, which are prepared in mimemail_mail().
     if (isset($message['params']['attachments'])) {
       foreach ($message['params']['attachments'] as $attachment) {
         if (isset($attachment['filecontent'])) {
           $mailer->AddStringAttachment($attachment['filecontent'], $attachment['filename'], 'base64', $attachment['filemime']);
         }
         if (isset($attachment['filepath'])) {
-          $mailer->AddAttachment($attachment['filepath'], $attachment['filename'], 'base64', $attachment['filemime']);
+          $filename = isset($attachment['filename']) ? $attachment['filename'] : basename($attachment['filepath']);
+          $filemime = isset($attachment['filemime']) ? $attachment['filemime'] : file_get_mimetype($attachment['filepath']);
+          $mailer->AddAttachment($attachment['filepath'], $filename, 'base64', $filemime);
         }
       }
     }
@@ -487,16 +509,19 @@ class SmtpMailSystem implements MailSystemInterface {
     $mailer->Port = variable_get('smtp_port', '25');
     $mailer->Mailer = 'smtp';
 
-    // Let the people know what is going on.
-    watchdog('smtp', 'Sending mail to: @to', array('@to' => $to));
-
-    // Try to send e-mail. If it fails, set watchdog entry.
-    if (!$mailer->Send()) {
-      watchdog('smtp', 'Error sending e-mail from @from to @to : !error_message', array('@from' => $from, '@to' => $to, '!error_message' => $mailer->ErrorInfo), WATCHDOG_ERROR);
-      return FALSE;
+    $mailerArr = array(
+      'mailer' => $mailer,
+      'to' => $to,
+      'from' => $from,
+    );
+    if (variable_get('smtp_queue', FALSE)) {
+      watchdog('smtp', 'Queue sending mail to: @to', array('@to' => $to));
+      smtp_send_queue($mailerArr);
+    }
+    else {
+      return _smtp_mailer_send($mailerArr);
     }
 
-    $mailer->SmtpClose();
     return TRUE;
   }
 

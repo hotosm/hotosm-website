@@ -25,13 +25,15 @@
 	overflow: hidden;
 	width: 16px;
 }
-.addtoany_list.a2a_kit_size_32 a span {
-	border-radius: 4px;
+.addtoany_list a span {
 	display: inline-block;
+	float: none;
+}
+.addtoany_list.a2a_kit_size_32 a > span {
+	border-radius: 4px;
 	height: 32px;
 	line-height: 32px;
 	opacity: 1;
-	overflow: hidden;
 	width: 32px;
 }
 .addtoany_list a:hover:hover img,
@@ -42,4 +44,7 @@
 	border: 0;
 	width: auto;
 	height: auto;
+}
+.addtoany_list.a2a_kit_size_32 a .a2a_count {
+	position: relative;
 }

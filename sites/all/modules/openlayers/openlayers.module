@@ -18,18 +18,18 @@
 /**
  * OpenLayers hosted default library.
  */
-define('OPENLAYERS_DEFAULT_LIBRARY', 'http://openlayers.org/api/2.12/OpenLayers.js');
+define('OPENLAYERS_DEFAULT_LIBRARY', 'http://openlayers.org/api/2.13/OpenLayers.js');
 
 /**
  * OpenLayers library compatible suggestion.
  */
-define('OPENLAYERS_SUGGESTED_LIBRARY', 2.12);
+define('OPENLAYERS_SUGGESTED_LIBRARY', 2.13);
 
 /**
  * OpenLayers hosted API version.  What version is used when going to
  * http://openlayers.org/api/OpenLayers.js
  */
-define('OPENLAYERS_HOSTED_API_LIBRARY', 2.12);
+define('OPENLAYERS_HOSTED_API_LIBRARY', 2.13);
 
 /**
  * Implements hook_help().
@@ -98,13 +98,32 @@ function openlayers_ctools_plugin_type() {
  * @ingroup openlayers_api
  */
 function openlayers_include() {
+  // Get the page language for string translation.
+  global $language;
+  $lang = $language->language;
 
   if ('internal' == variable_get('openlayers_source_type', 'external')) {
-    $variant = variable_get('openlayers_source_internal_variant', NULL);
-    if ($variant == 'original') $variant = NULL;
+    $variant = (variable_get('openlayers_source_internal_variant', NULL) == 'original') ? 'original' : NULL;
     libraries_load('openlayers', $variant);
-  }
-  else {
+
+    if ($lang != 'en') {
+      $main_locale = libraries_get_path('openlayers') . '/lib/OpenLayers/Lang.js';
+      if (file_exists($main_locale)) {
+        drupal_add_js($main_locale, 'file');
+      }
+
+      $language_locale = libraries_get_path('openlayers') . '/lib/OpenLayers/Lang/' . $lang . '.js';
+      if (file_exists($language_locale)) {
+        drupal_add_js($language_locale, 'file');
+      } else {
+        $country_code = variable_get('site_default_country', '');
+        $language_locale = libraries_get_path('openlayers') . '/lib/OpenLayers/Lang/' . $lang . '-' . $country_code . '.js';
+        if (file_exists($language_locale)) {
+          drupal_add_js($language_locale, 'file');
+        }
+      }
+    }
+  } else {
     // Use a static variable to prevent running URL check code repeatedly.
     static $once;
     if (!isset($once)) {
@@ -121,9 +140,25 @@ function openlayers_include() {
       // Check for full URL and include it manually if external.
       if (valid_url($path, TRUE)) {
         drupal_add_js($path, 'external');
-      }
-      else {
+      } else {
         drupal_add_js($path);
+      }
+      if ($lang != 'en') {
+        $main_locale = libraries_get_path('openlayers') . '/lib/OpenLayers/Lang.js';
+        if (file_exists($main_locale)) {
+          drupal_add_js($main_locale, 'file');
+        }
+
+        $language_locale = libraries_get_path('openlayers') . '/lib/OpenLayers/Lang/' . $lang . '.js';
+        if (file_exists($language_locale)) {
+          drupal_add_js($language_locale, 'file');
+        } else {
+          $country_code = variable_get('site_default_country', '');
+          $language_locale = libraries_get_path('openlayers') . '/lib/OpenLayers/Lang/' . $lang . '-' . $country_code . '.js';
+          if (file_exists($language_locale)) {
+            drupal_add_js($language_locale, 'file');
+          }
+        }
       }
 
       drupal_add_css(drupal_get_path('module', 'openlayers') .
@@ -199,7 +234,7 @@ function openlayers_build_map($map = array()) {
       if($layerProjectionIdentifier===FALSE){
         throw new Exception(
           t('Layer !title lacks its projection. Please edit it to select a projection.', array(
-              '!title' => $layer['title']
+            '!title' => $layer['title']
           ))
         );
       }
@@ -270,15 +305,19 @@ function openlayers_render_map_data($map = array()) {
     // In case the layer offers the same projection as the map, use this and do not provide
     // projection definition to client. Otherwise rely on the client to reproject on the fly.
     foreach ($map['layers'] as $layer_name => $layer) {
-        // Provide client with projection definition so that it can reproject
-        openlayers_add_js_projection_definition(
-          openlayers_get_projection_by_identifier($map['layers'][$layer_name]['projection'])
-        );
+      // Provide client with projection definition so that it can reproject
+      openlayers_add_js_projection_definition(
+        openlayers_get_projection_by_identifier($map['layers'][$layer_name]['projection'])
+      );
     }
 
     // Ensure projections in use are known to the client (loads Proj4js if required)
     openlayers_add_js_projection_definition(openlayers_get_projection_by_identifier($map['projection']));
     openlayers_add_js_projection_definition(openlayers_get_projection_by_identifier($map['displayProjection']));
+
+    // Make sure, that any previously added settings are removed (see Drupal core issue #208611).
+    $js = array('openlayers' => array('maps' => array($map['id'] => '')));
+    drupal_add_js($js, 'setting');
 
     $js = array('openlayers' => array('maps' => array($map['id'] => $map)));
     drupal_add_js($js, 'setting');
@@ -532,7 +571,7 @@ function openlayers_layer_sanity_check($layer, $projection = FALSE, $strict = FA
     drupal_set_message(
       t('OpenLayers layers failed the sanity check. See the
       <a href="@drupallog">Drupal log</a> for details',
-      array('@drupallog' => url('admin/reports/dblog')))
+        array('@drupallog' => url('admin/reports/dblog')))
     );
     return !$strict;
   }
@@ -543,7 +582,7 @@ function openlayers_layer_sanity_check($layer, $projection = FALSE, $strict = FA
     drupal_set_message(
       t('OpenLayers layers failed the sanity check. See the
       <a href="@drupallog">Drupal log</a> for details',
-      array('@drupallog' => url('admin/reports/dblog')))
+        array('@drupallog' => url('admin/reports/dblog')))
     );
     return !$strict;
   }
@@ -593,12 +632,25 @@ function openlayers_layer_types($reset = FALSE, $include_disabled = FALSE) {
   $layers = ctools_get_plugins('openlayers', 'layer_types');
 
   if (!$include_disabled) {
-    $layers = array_filter($layers, function($layer) {
-      return (!isset($layer->disabled) || !$layer->disabled);
-    });
+    $layers = array_filter($layers, 'openlayers_object_enabled');
   }
 
   return array_filter($layers, 'openlayers_layer_definition_check');
+}
+
+/**
+ * Confirm that an object is not disabled.
+ *
+ * @ingroup openlayers_api
+ *
+ * @param Object $object
+ *   An object -- a layer, behavior, style or map.
+ *
+ * @return Boolean
+ *   Returns TRUE if the object is not disabled.
+ */
+function openlayers_object_enabled($object) {
+  return (!isset($object->disabled) || !$object->disabled);
 }
 
 /**
@@ -642,9 +694,7 @@ function openlayers_behaviors($reset = FALSE, $include_disabled = FALSE) {
   $behaviors = ctools_get_plugins('openlayers', 'behaviors');
 
   if (!$include_disabled) {
-    $behaviors = array_filter($behaviors, function($behavior) {
-      return (!isset($behavior->disabled) || !$behavior->disabled);
-    });
+    $behaviors = array_filter($behaviors, 'openlayers_object_enabled');
   }
 
   return array_filter($behaviors, 'openlayers_behavior_definition_check');
@@ -670,9 +720,7 @@ function openlayers_styles($reset = FALSE, $include_disabled = FALSE) {
   $styles = ctools_export_load_object('openlayers_styles', 'all', array());
 
   if (!$include_disabled) {
-    $styles = array_filter($styles, function($style) {
-      return !(isset($style->disabled) && $style->disabled);
-    });
+    $styles = array_filter($styles, 'openlayers_object_enabled');
   }
 
   return $styles;
@@ -711,10 +759,10 @@ function openlayers_style_load($name, $reset = FALSE) {
 function openlayers_style_save($style) {
   if (!empty($style->name)) {
     return (db_select('openlayers_styles')
-          ->fields('openlayers_styles', array('name'))
-          ->condition('name', $style->name)
-          ->execute()
-          ->fetchCol()) ?
+      ->fields('openlayers_styles', array('name'))
+      ->condition('name', $style->name)
+      ->execute()
+      ->fetchCol()) ?
       drupal_write_record('openlayers_styles', $style, 'name') :
       drupal_write_record('openlayers_styles', $style);
   }
@@ -754,9 +802,7 @@ function openlayers_maps($reset = FALSE, $include_disabled = FALSE) {
   $maps = ctools_export_load_object('openlayers_maps', 'all', array());
 
   if (!$include_disabled) {
-    $maps = array_filter($maps, function($map) {
-      return !(isset($map->disabled) && $map->disabled);
-    });
+    $maps = array_filter($maps, 'openlayers_object_enabled');
   }
 
   return $maps;
@@ -807,11 +853,11 @@ function openlayers_map_load($name = '', $reset = FALSE) {
  */
 function openlayers_map_save($map) {
   if (!empty($map->name)) {
-     return (db_select('openlayers_maps')
-          ->fields('openlayers_maps', array('name'))
-          ->condition('name', $map->name)
-          ->execute()
-          ->fetchCol()) ?
+    return (db_select('openlayers_maps')
+      ->fields('openlayers_maps', array('name'))
+      ->condition('name', $map->name)
+      ->execute()
+      ->fetchCol()) ?
       drupal_write_record('openlayers_maps', $map, 'name') :
       drupal_write_record('openlayers_maps', $map);
   }
@@ -869,9 +915,9 @@ function openlayers_map_options($reset = FALSE) {
 function openlayers_object_delete($ol_object, $type) {
   // Check for object or name
   $tables = array(
-      'style' => 'openlayers_styles',
-      'layer' => 'openlayers_layers',
-      'map' => 'openlayers_maps');
+    'style' => 'openlayers_styles',
+    'layer' => 'openlayers_layers',
+    'map' => 'openlayers_maps');
   if (is_object($ol_object) && isset($ol_object->name) && isset($tables[$type])) {
     $ol_object = $ol_object->name;
     return db_delete($tables[$type])->condition('name', $ol_object)->execute();
@@ -1440,10 +1486,26 @@ function openlayers_boxes_plugins() {
         'parent' => 'boxes_box',
         'class' => 'openlayers_simple',
         'file' => 'openlayers_simple.inc',
-        'path' => drupal_get_path('module', 'openlayers') . '/includes/boxes'
+        'path' => drupal_get_path('module', 'openlayers') . '/plugins/boxes'
       )
     )
   );
+}
+
+/**
+ * Implements hook_quicktabs_contents().
+ */
+function openlayers_quicktabs_contents() {
+  $info = array();
+  $path = drupal_get_path('module', 'openlayers') . '/plugins/quicktabs';
+  $info['map'] = array(
+    'path' => $path,
+    'handler' => array(
+      'file' => 'QuickMap.inc',
+      'class' => 'QuickMap',
+    ),
+  );
+  return $info;
 }
 
 /**
@@ -1453,7 +1515,7 @@ function openlayers_libraries_info() {
   $libraries['openlayers'] = array(
     'name' => 'OpenLayers',
     'vendor url' => 'http://openlayers.org/',
-    'download url' => 'http://openlayers.org/download/OpenLayers-2.12.tar.gz',
+    'download url' => 'http://openlayers.org/download/OpenLayers-2.13.tar.gz',
     'version arguments' => array(
       'file' => 'lib/OpenLayers.js',
       'pattern' => '/OpenLayers.VERSION_NUMBER="Release (.*?)"/',

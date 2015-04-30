@@ -9,13 +9,13 @@
  * Implements hook_install().
  */
 function addtoany_install() {
-  drupal_set_message(st("Your AddToAny settings are available under !link", 
+  drupal_set_message(st("Your AddToAny settings are available under !link",
     array( '!link' => l('Configuration > System > AddToAny ',  'admin/config/system/addtoany' ) )
   ));
 }
 
 /**
- * Implementation of hook_permission().
+ * Implements hook_permission().
  */
 function addtoany_permission() {
   return array(
@@ -27,45 +27,52 @@ function addtoany_permission() {
 }
 
 /**
- * Implementation of hook_node_view().
+ * Implements hook_node_view().
  */
 function addtoany_node_view($node, $view_mode) {
   $types = variable_get('addtoany_nodetypes', array('page', 'article'));
   $teaser = ($view_mode == 'teaser') ? TRUE : FALSE;
-  
+  $rss = ($view_mode == 'rss') ? TRUE : FALSE;
+
   // Display in link section?
   $show = (!empty($node->type) && in_array($node->type, $types, TRUE) && ($node->status == 1) && (variable_get('addtoany_display_in_nodelink', '1') != 0)
     && (
       (!$teaser) || ($teaser && variable_get('addtoany_display_in_teasers', '1') != 0)
     )
+    && (
+      (!$rss) || ($rss && variable_get('addtoany_display_in_rss', '1') != 0)
+    )
   );
-           
+
   if ($show) {
     $node->content['links']['#links']['addtoany'] = array(
       'title' => _addtoany_create_button($node),
       'html' => TRUE,
     );
   }
-  
+
   // Display in content section?
   $show = (!empty($node->type) && in_array($node->type, $types, TRUE) && ($node->status == 1) && (variable_get('addtoany_display_in_nodecont', '0') != 0)
-     && ( 
+    && (
        (!$teaser) || ($teaser && variable_get('addtoany_display_in_teasers', '1') != 0)
+    )
+    && (
+      (!$rss) || ($rss && variable_get('addtoany_display_in_rss', '1') != 0)
     )
   );
   $weight = variable_get('addtoany_display_weight', 40);
-      
+
   if ($show) {
     $node->content['addtoany'] = array(
       '#markup' => _addtoany_create_button($node),
       '#weight' => $weight,
     );
   }
-  
+
 }
 
 /**
- * Implementation of hook_views_api().
+ * Implements hook_views_api().
  */
 function addtoany_views_api() {
   return array(
@@ -75,14 +82,14 @@ function addtoany_views_api() {
 }
 
 /**
- * Implementation of hook_menu().
+ * Implements hook_menu().
  */
 function addtoany_menu() {
   $items = array();
 
   $items['admin/config/system/addtoany'] = array(
     'title'            => t('AddToAny'),
-    'description'      => t('Settings for your <a href="http://www.addtoany.com/" target="blank">AddToAny</a> Share/Save buttons.'),
+    'description'      => t('Settings for your <a href="https://www.addtoany.com/" target="blank">AddToAny</a> Share/Save buttons.'),
     'page callback'    => 'drupal_get_form',
     'page arguments'   => array('addtoany_admin_settings'),
     'access arguments' => array('administer addtoany'),
@@ -129,97 +136,110 @@ function addtoany_block_view($delta = 0) {
 }
 
 /**
- * Implementation of hook_page_alter().
+ * Implements hook_page_alter().
  *
  * @return
  *   String containing JavaScript code for asynchronous loading of AddToAny's external script.
  */
 
 function addtoany_page_alter(&$page) {
-	global $_addtoany_init, $_addtoany_targets;
-	
-	// Only output script when AddToAny is used
-	if ( ! $_addtoany_init)
-		return;
-	
-	$script_url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') ? 'https://static.addtoany.com/menu/page.js' : 'http://static.addtoany.com/menu/page.js';
-	
-	$javascript_header = "var a2a_config=a2a_config||{},"
-			. "da2a={done:false,"
-			. "html_done:false,"
-			. "script_ready:false,"
-			. "script_load:function(){"
-				. "var a=document.createElement('script'),"
-					. "s=document.getElementsByTagName('script')[0];"
-				. "a.type='text/javascript';a.async=true;"
-				. "a.src='" . $script_url . "';"
-				. "s.parentNode.insertBefore(a,s);"
-				. "da2a.script_load=function(){};"
-			. "},"
-			. "script_onready:function(){"
-				. "if(a2a.type=='page'){" // Check a2a internal var to ensure script loaded is page.js not feed.js
-					. "da2a.script_ready=true;"
-					. "if(da2a.html_done)da2a.init();"
-				. "}"
-			. "},"
-			. "init:function(){"
-				. "for(var i=0,el,target,targets=da2a.targets,length=targets.length;i<length;i++){"
-					. "el=document.getElementById('da2a_'+(i+1));"
-					. "target=targets[i];"
-					. "a2a_config.linkname=target.title;"
-					. "a2a_config.linkurl=target.url;"
-					. "if(el){"
-					  . "a2a.init('page',{target:el});"
-					  . "el.id='';" // Remove ID so AJAX can reuse the same ID
+  global $_addtoany_init, $_addtoany_targets;
+
+  // Always add CSS file (necessary for aggregation)
+  $page['content']['#attached']['css'][] = drupal_get_path('module', 'addtoany') . '/addtoany.css';
+
+  // Only output script when AddToAny is used
+  if ( ! $_addtoany_init)
+    return;
+
+  $script_url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') ? 'https://static.addtoany.com/menu/page.js' : 'http://static.addtoany.com/menu/page.js';
+
+  $javascript_header = "var a2a_config=a2a_config||{},"
+      . "da2a={done:false,"
+        . "html_done:false,"
+        . "script_ready:false,"
+        . "script_load:function(){"
+          . "var a=document.createElement('script'),"
+            . "s=document.getElementsByTagName('script')[0];"
+          . "a.type='text/javascript';a.async=true;"
+          . "a.src='" . $script_url . "';"
+          . "s.parentNode.insertBefore(a,s);"
+          . "da2a.script_load=function(){};"
+        . "},"
+        . "script_onready:function(){"
+          . "if(a2a.type=='page'){" // Check a2a internal var to ensure script loaded is page.js not feed.js
+            . "da2a.script_ready=true;"
+            . "if(da2a.html_done)da2a.init();"
           . "}"
-          . "da2a.done=true;"
-				. "}"
-				. "da2a.targets=[];" // Empty targets array so AJAX can reuse from index 0
-			. "}"
-		. "};"
-		. "a2a_config.tracking_callback=['ready',da2a.script_onready];"
-		. ((variable_get('addtoany_no_3p', '0') != '1') ? "" : "a2a_config.no_3p=1;")
-		. variable_get('addtoany_additional_js', '');
-	
-	$javascript_footer = "da2a.targets=["
-			. implode(",", $_addtoany_targets)
-		. "];\n"
-		. "da2a.html_done=true;"
-		. "if(da2a.script_ready&&!da2a.done)da2a.init();" // External script may load before html_done=true, but will only init if html_done=true.  So call da2a.init() if external script is ready, and if da2a.init() hasn't been called already.  Otherwise, wait for callback to call da2a.init()
-		. "da2a.script_load();"; // Load external script if not already called with the first AddToAny instance.  Fixes issues where first instance code is processed internally but without actual code output 
-	
-	drupal_add_js($javascript_header, array('type' => 'inline', 'scope' => 'header'));
-	drupal_add_js($javascript_footer, array('type' => 'inline', 'scope' => 'footer'));
+        . "},"
+        . "init:function(){"
+          . "for(var i=0,el,target,targets=da2a.targets,length=targets.length;i<length;i++){"
+            . "el=document.getElementById('da2a_'+(i+1));"
+            . "target=targets[i];"
+            . "a2a_config.linkname=target.title;"
+            . "a2a_config.linkurl=target.url;"
+            . "if(el){"
+              . "a2a.init('page',{target:el});"
+              . "el.id='';" // Remove ID so AJAX can reuse the same ID
+            . "}"
+            . "da2a.done=true;"
+          . "}"
+          . "da2a.targets=[];" // Empty targets array so AJAX can reuse from index 0
+        . "}"
+      . "};"
+      . "a2a_config.callbacks=a2a_config.callbacks||[];"
+      . "a2a_config.callbacks.push({ready:da2a.script_onready});"
+      . ((variable_get('addtoany_no_3p', '0') != '1') ? "" : "a2a_config.no_3p=1;")
+      . variable_get('addtoany_additional_js', '');
+
+  $javascript_footer = "da2a.targets=["
+      . implode(",", $_addtoany_targets)
+    . "];\n"
+    . "da2a.html_done=true;"
+    . "if(da2a.script_ready&&!da2a.done)da2a.init();" // External script may load before html_done=true, but will only init if html_done=true.  So call da2a.init() if external script is ready, and if da2a.init() hasn't been called already.  Otherwise, wait for callback to call da2a.init()
+    . "da2a.script_load();"; // Load external script if not already called with the first AddToAny instance.  Fixes issues where first instance code is processed internally but without actual code output
+
+  $page['content']['#attached']['js'][] = array(
+    'data'  => $javascript_header,
+    'scope' => 'header',
+    'type'  => 'inline',
+  );
+
+  $page['content']['#attached']['js'][] = array(
+    'data'  => $javascript_footer,
+    'scope' => 'footer',
+    'type'  => 'inline',
+  );
 }
 
 /**
  * Internal function to call the async script loading function right after the first AddToAny instance, to utilize concurrent downloading and increase overall page-load performance.
- * 
+ *
  * @param object $id_num
  * @param object $link_name
  * @param object $link_url
- * @return 
+ * @return
  *   String containing a JavaScript function call for asynchronous script loading right after the first instance.
  */
 function _addtoany_create_script($id_num, $link_name, $link_url) {
 	global $_addtoany_targets, $_addtoany_init;
-	
+
 	if ( ! isset($_addtoany_targets)) {
   	$_addtoany_targets = array();
 	}
-	
+
 	$button_config = "\n{title:'". check_plain($link_name) . "',"
 		. "url:'" . check_plain($link_url) . "'}";
-  
+
 	$_addtoany_targets[] = $button_config;
-	
+
 	// If doing AJAX
 	if ( isset( $_SERVER['HTTP_X_REQUESTED_WITH'] ) && strtolower( $_SERVER['HTTP_X_REQUESTED_WITH'] ) == 'xmlhttprequest' ) {
 		$javascript_button_config = "<script type=\"text/javascript\">"
-			. "da2a.targets.push("
+			. "if(da2a.targets)da2a.targets.push("
 				. $button_config
 			. ");";
-		
+
 		// Output this JS just once
 		if ( ! $_addtoany_init) {
 			// Load once  via AJAX for infinite scroll, etc.
@@ -236,23 +256,23 @@ function _addtoany_create_script($id_num, $link_name, $link_url) {
           . "}"
         . "})(jQuery)";
 		}
-		
+
 		$javascript_button_config .= "</script>";
 	}
 	else $javascript_button_config = '';
-	
+
 	if ( ! $_addtoany_init) {
 		$javascript_load_early = "<script type=\"text/javascript\">\n"
 			. "<!--//--><![CDATA[//><!--\n"
-			. "da2a.script_load();\n"			
+			. "da2a.script_load();\n"
 			. "//--><!]]>\n"
 			. "</script>";
 	}
 	else
 		$javascript_load_early = "";
-	
+
 	$_addtoany_init = TRUE;
-	
+
 	return $javascript_load_early . $javascript_button_config;
 }
 
@@ -260,78 +280,115 @@ function _addtoany_create_script($id_num, $link_name, $link_url) {
  * Internal function to generate code for AddToAny buttons
  *
  * @param object $node [optional]
- * @param object $teaser [optional]
+ * @param array $values [optional custom url/title values]
  * @return
  *   String containing HTML code for the buttons
  */
-function _addtoany_create_button($node=NULL) {
-	global $_addtoany_counter, $base_path;
-	
-	$_addtoany_counter++;
-	if ($_addtoany_counter == 1) {
-		drupal_add_css((drupal_get_path('module', 'addtoany') .'/addtoany.css'));
-	}
-	
-	$additional_html = variable_get('addtoany_additional_html', '');
-	$additional_html_placement = variable_get('addtoany_additional_html_placement', 'before');
+function _addtoany_create_button($node=NULL, $values=NULL) {
+  global $_addtoany_num, $base_path;
 
-	if (is_object($node)) {
-	  	$link_name 	= (module_exists('page_title')) ? page_title_page_get_title() : $node->title;
-		$link_url 	= url('node/' . $node->nid, array('absolute' => 1));
-	} else { // Front page
-		$link_name	= (module_exists('page_title')) ? page_title_page_get_title() : variable_get('site_name', 'Drupal');
-		$link_url = url('<front>', array('absolute' => 1));
-	}
-	
-	$javascript = _addtoany_create_script($_addtoany_counter, $link_name, $link_url);
-	
-	$buttons_size = variable_get('addtoany_buttons_size', '16');
-	$button_setting = variable_get('addtoany_image', 'share_save_171_16.png|171|16');
-	
-	if ($button_setting == "a2a_svg_32") {
-		$button_setting		= 'text';
-		$button_text		= '';
-	} elseif ($button_setting == "custom") {
-		$button_image 		= check_url(variable_get('addtoany_custom_image', ''));
-		$button_width    	= '';
-		$button_height		= ''; 
-	} elseif ($button_setting != "text") {
-		$button 			= explode('|', $button_setting);
-		$button_filename 	= $button[0];
-		$button_width    	= ' width="' . $button[1] . '"';
-		$button_height	= ' height="' . $button[2] . '"';
-		$button_image 	= $base_path . drupal_get_path('module', 'addtoany') . '/images/' . $button_filename;
-	}
-	
-	// Permit blank button_text (so AddToAny Kit can set the icon) if set above, or use addtoany_link_text if set
-	$button_text = (isset($button_text)) ? $button_text : check_plain(variable_get('addtoany_link_text', ''));
-	if (strlen($button_text) > 0)
-		$button_text = ' ' . $button_text; 
-	
-	$button_innerHTML = ($button_setting == "text") ? $button_text : sprintf('<img src="%s"%s%s %s/>%s',
-		$button_image,
-		$button_width,
-		$button_height,
-		filter_xss(variable_get('addtoany_image_attributes', 'alt="Share this"'), array()),
-		$button_text
-	);
-  
+  $_addtoany_num++;
+
+  $additional_html = variable_get('addtoany_additional_html', '');
+  $additional_html_placement = variable_get('addtoany_additional_html_placement', 'before');
+
+  // If $values['url'] is set, use supplied value(s)
+  if (is_array($values) && isset($values['url'])) {
+    $link_name = (isset($values['title'])) ? $values['title'] : '';
+    $link_url  = $values['url'];
+  // Otherwise, if $node is set, use best URL/Title
+  } elseif (is_object($node)) {
+    $link_name 	= (module_exists('page_title')) ? page_title_page_get_title() : $node->title;
+    $link_url 	= url('node/' . $node->nid, array('absolute' => 1));
+  // Otherwise, if front page, use best URL/Title for front page
+  } elseif (drupal_is_front_page()) {
+    $link_name	= (module_exists('page_title')) ? page_title_page_get_title() : variable_get('site_name', 'Drupal');
+    $link_url = url('<front>', array('absolute' => 1));
+  // Otherwise, use current page's URL/Title
+  } else {
+    $link_name	= (module_exists('page_title')) ? page_title_page_get_title() : drupal_get_title();
+    $link_url = url(current_path(), array('absolute' => 1));
+  }
+
+  $javascript = _addtoany_create_script(  $_addtoany_num, $link_name, $link_url);
+
+  $buttons_size = variable_get('addtoany_buttons_size', '16');
+  $button_setting = variable_get('addtoany_image', 'share_save_171_16.png|171|16');
+
+  if ($button_setting == "a2a_svg_32") {
+    $button_setting		= 'text';
+    $button_text		= '';
+  }
+  elseif ($button_setting == "custom") {
+    $button_image 		= check_url(variable_get('addtoany_custom_image', ''));
+    $button_width    	= '';
+    $button_height		= '';
+  }
+  elseif ($button_setting == "none") {
+    // Universal share button disabled
+  }
+  elseif ($button_setting != "text") {
+    $button 			= explode('|', $button_setting);
+    $button_filename 	= $button[0];
+    $button_width    	= ' width="' . $button[1] . '"';
+    $button_height	= ' height="' . $button[2] . '"';
+    $button_image 	= $base_path . drupal_get_path('module', 'addtoany') . '/images/' . $button_filename;
+  }
+
+  if ($button_setting != "none") {
+    // Permit blank button_text (so AddToAny Kit can set the icon) if set above, or use addtoany_link_text if set
+    $button_text = (isset($button_text)) ? $button_text : check_plain(variable_get('addtoany_link_text', ''));
+    if (strlen($button_text) > 0)
+      $button_text = ' ' . $button_text;
+
+    $button_innerHTML = ($button_setting == "text") ? $button_text : sprintf('<img src="%s"%s%s %s/>%s',
+      $button_image,
+      $button_width,
+      $button_height,
+      filter_xss(variable_get('addtoany_image_attributes', 'alt="Share this"'), array()),
+      $button_text
+    );
+
+    $universal_button = sprintf('<a%s href="https://www.addtoany.com/share_save#url=%s&amp;title=%s">%s</a>',
+      ' class="a2a_dd addtoany_share_save"',
+      rawurlencode($link_url),
+      rawurlencode($link_name),
+      $button_innerHTML
+    );
+  }
+  else {
+	  $universal_button = '';
+  }
+
   // ID is later removed by JS (for AJAX)
-	return ( sprintf('
-		<span class="a2a_kit%s a2a_target addtoany_list" id="da2a_%s">
-			%s<a%s href="http://www.addtoany.com/share_save#url=%s&amp;title=%s">%s</a>%s
-		</span>
-		%s
-		',
-		($buttons_size == '32') ? ' a2a_kit_size_32' : '',
-		$_addtoany_counter,
-		($additional_html_placement == 'before') ? $additional_html : '',
-		' class="a2a_dd addtoany_share_save"',
-		rawurlencode($link_url),
-		rawurlencode($link_name),
-		$button_innerHTML,
-		($additional_html_placement == 'after') ? $additional_html : '',
-		$javascript
-	));
+  return ( sprintf('<span class="a2a_kit%s a2a_target addtoany_list" id="da2a_%s">
+      %s
+      %s
+      %s
+    </span>
+    %s',
+    ($buttons_size == '32') ? ' a2a_kit_size_32' : '',
+      $_addtoany_num,
+    ($additional_html_placement == 'before') ? $additional_html : '',
+    $universal_button,
+    ($additional_html_placement == 'after') ? $additional_html : '',
+    $javascript
+  ));
+}
 
+/**
+ * Implements hook_ds_fields_info().
+ */
+function addtoany_ds_fields_info($entity_type) {
+  $fields['node']['addtoany'] = array(
+    'title' => t('AddToAny buttons'),
+    'field_type' => DS_FIELD_TYPE_FUNCTION,
+    'function' => '_help_addtoany_create_button',
+  );
+  return $fields;
+}
+
+function _help_addtoany_create_button($node) {
+  $object = $node['entity'];
+  return _addtoany_create_button($object);
 }

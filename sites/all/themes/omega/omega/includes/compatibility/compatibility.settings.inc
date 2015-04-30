@@ -145,20 +145,6 @@ function omega_extension_compatibility_settings_form($element, &$form, $form_sta
     ),
   );
 
-  $element['omega_metatags']['chrome']['omega_chrome_popup'] = array(
-    '#type' => 'checkbox',
-    '#title' => t('Enable the Google Chrome Frame popup'),
-    '#description' => t('Opens a popup window upon page load through which users can install Google Chrome Frame.'),
-    '#default_value' => omega_theme_get_setting('omega_chrome_popup', FALSE),
-  );
-
-  $element['omega_metatags']['chrome']['omega_chrome_notice'] = array(
-    '#type' => 'checkbox',
-    '#title' => t('Display a warning for users that do not have Google Chrome Frame installed'),
-    '#description' => t('Renders a themeable message at the top of the page if a user does not have Google Chrome Frame installed.'),
-    '#default_value' => omega_theme_get_setting('omega_chrome_notice', FALSE),
-  );
-
   $form['#submit'][] = 'omega_extension_compatibility_settings_form_submit';
 
   return $element;

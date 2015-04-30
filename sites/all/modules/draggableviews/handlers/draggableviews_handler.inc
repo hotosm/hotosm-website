@@ -6,7 +6,7 @@
  */
 
 /**
- * Parent class for all handlers.
+ * Parent class for all sort handlers.
  */
 class draggableviews_handler {
 
@@ -28,7 +28,7 @@ class draggableviews_handler {
    * Save weight value.
    *
    * @param $form_state
-   *   Attay of form state of the form.
+   *   Array of form state of the form.
    *   View object $form_state['values']['view'].
    */
   public function set($form_state) {}

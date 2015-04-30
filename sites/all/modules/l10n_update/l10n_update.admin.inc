@@ -341,6 +341,7 @@ function theme_l10n_update_project_status($variables) {
   // Plus add our own css and js.
   drupal_add_css(drupal_get_path('module', 'update') . '/update.css');
   drupal_add_css(drupal_get_path('module', 'l10n_update') . '/css/l10n_update.admin.css');
+  drupal_add_js('misc/collapse.js');
   drupal_add_js(drupal_get_path('module', 'l10n_update') . '/js/l10n_update.js');
 
   return $output;

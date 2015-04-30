@@ -20,6 +20,7 @@ function openlayers_ui_admin_settings() {
       <p>For better performance and reliability, you should use an internal version of the library.
       <a href="!ol_url">Download the OpenLayers library</a>, and add it to your Drupal installation.
       Use the new drush command \'<em>dl-openlayers</em>\' to download it and place it at the right place automatically.
+      If you download the library manually, then place it in the <em>libraries/openlayers</em> folder and new options will appear under <em>OpenLayers source type</em> on this page.
       You can also use a double backslash before the domain name
       (eg. //www.example.com/OpenLayers.js) which then respects the use of both HTTPS and HTTP protocols.</p>
       <ul>
@@ -121,6 +122,11 @@ function openlayers_ui_admin_settings() {
 function openlayers_ui_admin_settings_validate($form, &$form_state) {
   if ($form_state['values']['openlayers_source_type'] == 'external') {
     $url = $form_state['values']['openlayers_source_external'];
+    // If protocol neutral, fake a URL that will pass valid_url() and
+    // url_is_external().
+    if (strpos($url, '//') === 0) {
+     $url = 'http:' . $url;
+    }
     if (!valid_url($url, TRUE) && !url_is_external($url)) {
       form_set_error('openlayers_source_external', 'The source must be a valid external URL, beginning with http(s).');
     }

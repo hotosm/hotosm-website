@@ -54,13 +54,13 @@ Drupal.openlayers.addBehavior('openlayers_behavior_cluster', function (data, opt
       }),
       symbolizer: {
         fillColor: options.low_color,
-        strokeColor: options.low_color,
-        fillOpacity: 0.8,
-        pointRadius: 10,
+        strokeColor: options.low_stroke_color,
+        fillOpacity: options.low_opacity,
+        pointRadius: options.low_point_radius,
         label: showLabel,
-        labelOutlineWidth: 1,
-        fontColor: "#000000",
-        fontOpacity: 0.8,
+        labelOutlineWidth: options.low_label_outline,
+        fontColor: options.label_low_color,
+        fontOpacity: options.label_low_opacity,
         fontSize: "12px"
       }
     });
@@ -73,13 +73,13 @@ Drupal.openlayers.addBehavior('openlayers_behavior_cluster', function (data, opt
       }),
       symbolizer: {
         fillColor: options.middle_color,
-        strokeColor: options.middle_color,
-        fillOpacity: 0.8,
-        pointRadius: 16,
+        strokeColor: options.middle_stroke_color,
+        fillOpacity: options.middle_opacity,
+        pointRadius: options.middle_point_radius,
         label: showLabel,
-        labelOutlineWidth: 1,
-        fontColor: "#000000",
-        fontOpacity: 0.8,
+        labelOutlineWidth: options.middle_label_outline,
+        fontColor: options.label_middle_color,
+        fontOpacity: options.label_middle_opacity,
         fontSize: "12px"
       }
     });
@@ -91,13 +91,13 @@ Drupal.openlayers.addBehavior('openlayers_behavior_cluster', function (data, opt
       }),
       symbolizer: {
         fillColor: options.high_color,
-        strokeColor: options.high_color,
-        fillOpacity: 0.8,
-        pointRadius: 22,
+        strokeColor: options.high_stroke_color,
+        fillOpacity: options.high_opacity,
+        pointRadius: options.high_point_radius,
         label: showLabel,
-        labelOutlineWidth: 1,
-        fontColor: "#000000",
-        fontOpacity: 0.8,
+        labelOutlineWidth: options.high_label_outline,
+        fontColor: options.label_high_color,
+        fontOpacity: options.label_high_opacity,
         fontSize: "12px"
       }
     });

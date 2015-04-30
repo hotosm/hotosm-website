@@ -229,7 +229,7 @@ function ds_schema() {
       'label' => array(
         'description' => 'The label of the field.',
         'type' => 'varchar',
-        'length' => 32,
+        'length' => 128,
         'not null' => TRUE,
         'default' => '',
       ),
@@ -276,4 +276,18 @@ function ds_update_7201() {
   if (!db_field_exists('ds_fields', 'ui_limit')) {
     db_add_field('ds_fields', 'ui_limit', $schema['ds_fields']['fields']['ui_limit']);
   }
+}
+
+/**
+ * Increase the label storage length to 128.
+ */
+function ds_update_7202() {
+  db_change_field('ds_fields', 'label', 'label',
+    array(
+      'description' => 'The label of the field.',
+      'type' => 'varchar',
+      'length' => 128,
+      'not null' => TRUE,
+      'default' => '',
+    ));
 }

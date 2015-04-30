@@ -298,6 +298,13 @@ function mollom_menu() {
     'file' => 'mollom.flag.inc',
   );
 
+  $items['mollom/pong'] = array(
+    'page callback' => 'mollom_admin_pong_callback',
+    'access callback' => TRUE,
+    'type' => MENU_CALLBACK,
+    'file' => 'mollom.admin.inc',
+  );
+
   return $items;
 }
 
@@ -2510,8 +2517,10 @@ function mollom_form_submit($form, &$form_state) {
  * @param $class
  *   (optional) The name of a Mollom client implementation class to instantiate.
  *   Overrides the 'mollom_class' configuration variable. Debug use only.
+ * @param $force
+ *   (optional) If true, then a new class is always instantiated.
  */
-function mollom($class = NULL) {
+function mollom($class = NULL, $force = FALSE) {
   $instances = &drupal_static(__FUNCTION__, array());
   if (!isset($class)) {
     if (variable_get('mollom_testing_mode', 0)) {
@@ -2523,7 +2532,7 @@ function mollom($class = NULL) {
   }
   // If there is no instance yet or if it is not of the desired class, create a
   // new one.
-  if (!isset($instances[$class]) || !($instances[$class] instanceof $class)) {
+  if ($force || !isset($instances[$class]) || !($instances[$class] instanceof $class)) {
     $instances[$class] = new $class();
   }
   return $instances[$class];

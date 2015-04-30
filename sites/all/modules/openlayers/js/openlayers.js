@@ -93,14 +93,6 @@ Drupal.behaviors.openlayers = {
 
             // Finally, attach behaviors
             Drupal.attachBehaviors(this);
-
-            if ($.browser.msie) {
-              $(window).load(function() {
-                openlayers.render(map.id);
-              });
-            } else {
-              openlayers.render(map.id);
-            }
           }
           catch (e) {
             var errorMessage = e.name + ': ' + e.message;

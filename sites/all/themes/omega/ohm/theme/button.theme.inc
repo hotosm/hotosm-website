@@ -23,14 +23,14 @@ function ohm_button($variables) {
 
   // Catch some primary button functions.
   foreach (array('save', 'new', 'add', 'confirm', 'done', 'submit') as $primary) {
-    if (substr_count($element['#id'], $primary)) {
+    if (isset($element['#id']) && substr_count($element['#id'], $primary)) {
       $element['#attributes']['class'][] = 'button--primary';
     }
   }
 
   // Catch some negative button functions.
   foreach (array('cancel', 'remove', 'delete') as $negative) {
-    if (substr_count($element['#id'], $negative)) {
+    if (isset($element['#id']) && substr_count($element['#id'], $negative)) {
       $element['#attributes']['class'][] = 'button--negative';
     }
   }

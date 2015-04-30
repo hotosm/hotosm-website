@@ -234,7 +234,7 @@ class EntityTranslationTestCase extends DrupalWebTestCase {
     $this->drupalGet('node/' . $node->nid . '/edit/add/' . $source_langcode . '/' . $langcode);
 
     $body_key = "body[$langcode][0][value]";
-    $this->assertFieldByXPath("//textarea[@name='$body_key']", $node->body[$node->language][0]['value'], 'Original body value correctly populated.');
+    $this->assertFieldByXPath("//textarea[@name='$body_key']", $node->body[$source_langcode][0]['value'], 'Original body value correctly populated.');
     $this->assertFieldById('edit-body-' . $langcode . '-add-more', t('Add another item'), t('Add another item button found.'));
 
     $edit = array();
@@ -477,7 +477,7 @@ class EntityTranslationHookTestCase extends EntityTranslationTestCase {
     $handler->setTranslation($translation);
     $handler->saveTranslations();
     $node = node_load($node->nid, NULL, TRUE);
-    $handler = entity_translation_get_handler('node', $node, TRUE);
+    $handler = entity_translation_get_handler('node', $node);
     $translations = $handler->getTranslations();
     $this->assertTrue(!empty($translations->data['it']), t('An Italian translation has been created'));
     $info = $this->getHookInfo();
@@ -497,7 +497,7 @@ class EntityTranslationHookTestCase extends EntityTranslationTestCase {
     $handler->setTranslation($translation);
     $handler->saveTranslations();
     $node = node_load($node->nid, NULL, TRUE);
-    $handler = entity_translation_get_handler('node', $node, TRUE);
+    $handler = entity_translation_get_handler('node', $node);
     $translations = $handler->getTranslations();
     $this->assertTrue(!empty($translations->data['es']), t('A Spanish translation has been created'));
     $info = $this->getHookInfo();

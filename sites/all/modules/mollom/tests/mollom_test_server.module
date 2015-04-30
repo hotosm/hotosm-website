@@ -77,6 +77,10 @@ function mollom_test_server_menu() {
     'delivery callback' => 'mollom_test_server_rest_deliver',
   );
 
+  $items[$path . '/sites/%/ping'] = $base + array(
+    'page callback' => 'mollom_test_server_rest_site_ping',
+    'page arguments' => array($base_args + 2),
+  );
   $items[$path . '/site'] = $base + array(
     'page callback' => 'mollom_test_server_rest_site',
   );
@@ -262,6 +266,44 @@ function mollom_test_server_rest_validate_auth() {
   $signature = rawurlencode(base64_encode(hash_hmac('sha1', $base_string, $key, TRUE)));
 
   return $signature === $sent_signature;
+}
+
+/**
+ * REST callback for ping site request.
+ *
+ * @param $publicKey
+ *   The public key of a site.
+ */
+function mollom_test_server_rest_site_ping($publicKey) {
+  $bin = 'mollom_test_server_site';
+  $sites = variable_get($bin, array());
+
+  if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
+    return MENU_NOT_FOUND;
+  }
+
+  // Validate authentication.
+  if (!mollom_test_server_rest_validate_auth()) {
+    return Mollom::AUTH_ERROR;
+  }
+  // Check whether publicKey exists.
+  if (!isset($sites[$publicKey])) {
+    return MENU_NOT_FOUND;
+  }
+  // Check to see if the url parameter was submitted.
+  $params = drupal_get_query_parameters();
+  if (empty($params['url'])) {
+    return Mollom::REQUEST_ERROR;
+  }
+
+  // Finally test the pong callback.
+  $response = drupal_http_request($params['url']);
+  if (200 <= $response->code && $response->code < 300) {
+    return 200;
+  }
+  else {
+    return 500;
+  }
 }
 
 /**

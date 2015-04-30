@@ -38,7 +38,6 @@ define('L10N_UPDATE_CRON_PROJECTS', 10);
  */
 define('L10N_UPDATE_CRON_UPDATES', 2);
 
-
 /**
  * Implements hook_help().
  */
@@ -203,28 +202,6 @@ function l10n_update_locale_translate_edit_form_submit($form, &$form_state) {
         ->execute();
     }
   }
-}
-
-/**
- * Implements hook_stream_wrappers().
- *
- * Add a stream wrapper. The wrapper is not used in 7.x-1.x but is required to
- * make upgrade to 7.x-2.x painless.
- */
-function l10n_update_stream_wrappers() {
-  // Load the stream wrapper class if not automatically loaded. This happens when update.php is not yet executed.
-  if (!class_exists('TranslationsStreamWrapper')) {
-    require_once('includes/locale/TranslationsStreamWrapper.php');
-  }
-
-  $wrappers['translations'] = array(
-    'name' => t('Translation files'),
-    'class' => 'TranslationsStreamWrapper',
-    'description' => t('Translation files.'),
-    'type' => STREAM_WRAPPERS_LOCAL_HIDDEN,
-  );
-
-  return $wrappers;
 }
 
 /**

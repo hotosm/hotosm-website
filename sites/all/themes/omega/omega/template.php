@@ -251,6 +251,11 @@ function omega_css_alter(&$css) {
         // in a sub-theme.
         foreach ($types as $type) {
           if (isset($items[$type])) {
+            $original['weight'] = isset($original['weight']) ? $original['weight'] : 0;
+
+            // Always add a tiny value to the weight, to conserve the insertion order.
+            $original['weight'] += count($css) / 10000;
+
             $css[$omega . '/css/modules/' . $module . '/' . $items[$type]] = array(
               'data' => $omega . '/css/modules/' . $module . '/' . $items[$type],
             ) + $original;
@@ -268,7 +273,8 @@ function omega_css_alter(&$css) {
   // Allow themes to specify no-query fallback CSS files.
   require_once "$omega/includes/assets.inc";
   $mapping = omega_assets_generate_mapping($css);
-  foreach (preg_grep('/\.no-query(-rtl)?\.css$/', $mapping) as $key => $fallback) {
+  $pattern = $GLOBALS['language']->dir == 'rtl' ? '/\.no-query(-rtl)?\.css$/' : '/\.no-query\.css$/';
+  foreach (preg_grep($pattern, $mapping) as $key => $fallback) {
     // Don't modify browser settings if they have already been modified.
     if ($css[$key]['browsers']['IE'] === TRUE && $css[$key]['browsers']['!IE'] === TRUE) {
       $css[$key]['browsers'] = array(
@@ -295,16 +301,8 @@ function omega_css_alter(&$css) {
  * Implements hook_js_alter().
  */
 function omega_js_alter(&$js) {
-  // In some cases the element info array might get built before the theme
-  // system is fully bootstrapped. In this case, omega_element_info_alter() will
-  // never get called causing custom Omega pre-rendering of scripts to be
-  // skipped which results in no JavaScript being output.
-  if (!element_info('scripts')) {
-    drupal_static_reset('element_info');
-  }
-
   // If the AJAX.js isn't included... we don't need the ajaxPageState settings!
-  if (!isset($js['misc/ajax.js']) && isset($js['settings']['data'])) {
+  if ( ! isset($js['misc/ajax.js']) && isset($js['settings']['data'])) {
     foreach ($js['settings']['data'] as $delta => $setting) {
       if (array_key_exists('ajaxPageState', $setting)) {
         if (count($setting) == 1) {
@@ -315,6 +313,14 @@ function omega_js_alter(&$js) {
         }
       }
     }
+  }
+
+  // In some cases the element info array might get built before the theme
+  // system is fully bootstrapped. In this case, omega_element_info_alter() will
+  // never get called causing custom Omega pre-rendering of scripts to be
+  // skipped which results in no JavaScript being output.
+  if (!element_info('scripts')) {
+    drupal_static_reset('element_info');
   }
 
   if (!omega_extension_enabled('assets')) {
@@ -347,6 +353,9 @@ function omega_js_alter(&$js) {
  * Implements hook_form_alter().
  */
 function omega_form_alter(&$form, &$form_state, $form_id) {
+  if (!empty($form['#attributes']['class']) && is_string($form['#attributes']['class'])) {
+    $form['#attributes']['class'] = explode(' ', $form['#attributes']['class']);
+  }
   // Duplicate the form ID as a class so we can reduce specificity in our CSS.
   $form['#attributes']['class'][] = drupal_clean_css_identifier($form['#id']);
 }
@@ -369,10 +378,6 @@ function omega_theme($cache, &$type, $theme, $path) {
   // prevents sub-themes from altering the behavior of a base-theme provided
   // theme hook as they are not allowed to provide (pre-)process hooks for it.
   $type = 'module';
-
-  $info['omega_chrome'] = array(
-    'render element' => 'element',
-  );
 
   $info['omega_page_layout'] = array(
     'base hook' => 'page',
@@ -540,8 +545,9 @@ function omega_block_list_alter(&$blocks) {
   }
 
   // Hide the main content block on the front page if the theme settings are
-  // configured that way.
-  if (!omega_theme_get_setting('omega_toggle_front_page_content', TRUE) && drupal_is_front_page()) {
+  // configured that way and there is no content set to override the homepage.
+  $front = variable_get('site_frontpage', 'node');
+  if ($front == 'node' && !omega_theme_get_setting('omega_toggle_front_page_content', TRUE) && drupal_is_front_page()) {
     foreach ($blocks as $key => $block) {
       if ($block->module == 'system' && $block->delta == 'main') {
         unset($blocks[$key]);
@@ -601,19 +607,6 @@ function omega_page_alter(&$page) {
         $page[$region]['#debug'] = TRUE;
       }
     }
-  }
-
-  if (omega_extension_enabled('compatibility') && omega_theme_get_setting('omega_chrome_edge', TRUE) && omega_theme_get_setting('omega_chrome_notice', TRUE)) {
-    $supported = omega_theme_get_setting('omega_internet_explorer_support', FALSE);
-
-    $page['page_top']['omega_chrome'] = array(
-      '#theme' => 'omega_chrome',
-      '#pre_render' => array('drupal_pre_render_conditional_comments'),
-      '#browsers' => array(
-        'IE' => !$supported ? TRUE : 'lte IE ' . $supported,
-        '!IE' => FALSE,
-      ),
-    );
   }
 }
 
@@ -813,18 +806,4 @@ function theme_omega_page_layout($variables) {
 
   $hook = str_replace('-', '_', $variables['omega_layout']['template']);
   return theme($hook, $variables);
-}
-
-/**
- * Shows a notice when Google Chrome Frame is not installed.
- */
-function theme_omega_chrome($variables) {
-  $message = t('You are using an outdated browser! <a href="!upgrade">Upgrade your browser today</a> or <a href="!install">install Google Chrome Frame</a> to better experience this site.', array(
-    '!upgrade' => url('http://browsehappy.com'),
-    '!install' => url('http://www.google.com/chromeframe', array(
-      'query' => array('redirect' => 'true'),
-    )),
-  ));
-
-  return '<p class="chromeframe">' . $message . '</p>';
 }

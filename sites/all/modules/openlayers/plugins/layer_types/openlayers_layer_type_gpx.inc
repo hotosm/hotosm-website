@@ -183,6 +183,7 @@ class openlayers_layer_type_gpx extends openlayers_layer_type {
    * Render.
    */
   function render(&$map) {
+    $this->data['url'] = !empty($this->data['url']) ? file_create_url($this->data['url']) : '';
     drupal_add_js(drupal_get_path('module', 'openlayers')
       . '/plugins/layer_types/openlayers_layer_type_gpx.js');
   }

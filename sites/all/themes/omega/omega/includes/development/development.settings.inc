@@ -9,6 +9,14 @@
  * Implements hook_extension_EXTENSION_theme_settings_form_alter().
  */
 function omega_extension_development_settings_form($element, &$form, $form_state) {
+  $element['omega_enable_export_reminder'] = array(
+    '#type' => 'checkbox',
+    '#title' => t('Show a reminder if the theme settings are not fully exported'),
+    '#description' => t("You can export your theme settings with the Drush command <code>drush omega-export</code>. If you don't want to be reminded of this whenever your theme settings are not fully exported you can disable the warning message by unticking this checkbox."),
+    '#default_value' => omega_theme_get_setting('omega_enable_export_reminder', TRUE),
+    '#weight' => -20,
+  );
+
   $element['omega_rebuild_theme_registry'] = array(
     '#type' => 'checkbox',
     '#title' => t('Rebuild the theme registry on every page load'),

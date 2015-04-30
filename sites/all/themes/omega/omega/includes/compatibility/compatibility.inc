@@ -154,28 +154,5 @@ function omega_extension_compatibility_preprocess_html(&$variables) {
       // Only add the header if it hasn't been added before.
       drupal_add_http_header('X-UA-Compatible', 'IE=edge,chrome=' . ($supported ? 'IE' . $supported : '1'));
     }
-
-    if (omega_theme_get_setting('omega_chrome_popup', FALSE)) {
-      // Automatically open the Google Chrome Frame installation iframe.
-      drupal_add_js('//ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js', array(
-        'type' => 'external',
-        'scope' => 'footer',
-        'weight' => 1000,
-        'browsers' => array(
-          'IE' => !$supported ? TRUE : 'lte IE ' . $supported,
-          '!IE' => FALSE,
-        ),
-      ));
-
-      drupal_add_js('window.attachEvent("onload",function(){CFInstall.check({mode:"overlay"});})', array(
-        'type' => 'inline',
-        'scope' => 'footer',
-        'weight' => 1000,
-        'browsers' => array(
-          'IE' => !$supported ? TRUE : 'lte IE ' . $supported,
-          '!IE' => FALSE,
-        ),
-      ));
-    }
   }
 }

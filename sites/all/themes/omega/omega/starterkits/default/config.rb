@@ -25,6 +25,8 @@ javascripts_dir = "js"
 require 'compass-normalize'
 require 'rgbapng'
 require 'toolkit'
+require 'breakpoint'
+require 'singularitygs'
 require 'susy'
 require 'sass-globbing'
 
@@ -41,11 +43,5 @@ output_style = (environment == :production) ? :expanded : :nested
 # the absolute path to the theme from the server omega.
 relative_assets = true
 
-# Conditionally enable line comments when in development mode.
-line_comments = (environment == :production) ? false : true
-
-# Output debugging info in development mode.
-sass_options = (environment == :production) ? {} : {:debug_info => true}
-
-# Add the 'sass' directory itself as an import path to ease imports.
-add_import_path 'sass'
+# Output source maps in development mode.
+sass_options = (environment == :production) ? {} : {:sourcemap => true}

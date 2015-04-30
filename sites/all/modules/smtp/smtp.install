@@ -33,15 +33,6 @@ function smtp_uninstall() {
 }
 
 /**
- * Implements hook_enable().
- */
-function smtp_enable() {
-  $mail_modes = variable_get('mail_system', array('default-system' => 'DefaultMailSystem'));
-  $mail_modes['default-system'] = 'SmtpMailSystem';
-  variable_set('mail_system', $mail_modes);
-}
-
-/**
  * Implements hook_disable().
  */
 function smtp_disable() {
@@ -57,5 +48,18 @@ function smtp_disable() {
 function smtp_update_7000() {
   if (variable_get('smtp_on', 0) != 0) {
     variable_set('mail_system', array('default-system' => 'SmtpMailSystem'));
+  }
+}
+
+/**
+ * Implements hook_update_N().
+ *
+ * Back to default mail system if the status flag is off.
+ */
+function smtp_update_7100() {
+  $mail_modes = variable_get('mail_system', array('default-system' => 'DefaultMailSystem'));
+  if ($mail_modes['default-system'] == 'SmtpMailSystem' && !variable_get('smtp_on', FALSE)) {
+    $mail_modes['default-system'] = 'DefaultMailSystem';
+    variable_set('mail_system', $mail_modes);
   }
 }

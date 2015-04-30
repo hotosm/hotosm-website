@@ -982,6 +982,11 @@ function ds_field_formatter_settings_form($field, $instance, $view_mode, $form, 
       '#options' => $options,
       '#default_value' => $settings['taxonomy_term_reference_view_mode'],
     );
+    $element['use_content_language'] = array(
+      '#type' => 'checkbox',
+      '#title' => t('Use current content language'),
+      '#default_value' => $settings['use_content_language'],
+    );
     return $element;
   }
 
@@ -1027,7 +1032,8 @@ function ds_field_formatter_settings_summary($field, $instance, $view_mode) {
     $entity_info = entity_get_info('taxonomy_term');
     $modes = $entity_info['view modes'];
     $mode = $modes[$settings['taxonomy_term_reference_view_mode']]['label'];
-    $summary = t('View mode: %mode', array('%mode' => $mode));
+    $summary .= t('View mode: %mode', array('%mode' => $mode)) . '<br />';;
+    $summary .= !empty($settings['use_content_language']) ? t('Use current content language') : t('Use field language');
   }
 
   if ($display['type'] === 'ds_taxonomy_separator' || $display['type'] == 'ds_taxonomy_separator_localized') {
@@ -1613,7 +1619,16 @@ function _ds_field_ui_table_layouts($entity_type, $bundle, $view_mode, &$form, $
   if (!empty($layout) && isset($layout->regions)) {
 
     // Add wrappers
-    $wrapper_options = array('div' => 'Div', 'span' => 'Span', 'section' => 'Section', 'article' => 'Article', 'header' => 'Header', 'footer' => 'Footer', 'aside' => 'Aside');
+    $wrapper_options = array(
+      'div' => 'Div',
+      'span' => 'Span',
+      'section' => 'Section',
+      'article' => 'Article',
+      'header' => 'Header',
+      'footer' => 'Footer',
+      'aside' => 'Aside',
+      'figure' => 'Figure'
+    );
     $form['additional_settings']['region_wrapper'] = array(
       '#type' => 'fieldset',
       '#title' => t('Custom wrappers'),
@@ -2027,7 +2042,7 @@ function _ds_field_ui_fields($entity_type, $bundle, $view_mode, &$form, &$form_s
   foreach ($fields as $key => $field) {
 
     // Check on ui_limit.
-    if (isset($field['ui_limit'])) {
+    if (!empty($field['ui_limit'])) {
 
       $continue = TRUE;
       foreach ($field['ui_limit'] as $limitation) {
@@ -2252,6 +2267,7 @@ function _ds_field_ui_core_fields($entity_type, $bundle, $view_mode, &$form, &$f
 
         // Load the form
         module_load_include('inc', 'ds_extras', 'includes/ds_extras.admin');
+        if (!is_array($settings_form)) $settings_form = array();
         ds_extras_field_template_settings_form($settings_form, $form_state, $context);
       }
 
@@ -2470,9 +2486,7 @@ function _ds_field_ui_custom_fields($entity_type, $bundle, $view_mode, &$form, $
     'custom_field' => t('Add a code field'),
     'manage_ctools' => t('Add a dynamic field'),
   );
-  if (module_exists('block')) {
-    $field_types['manage_block'] = t('Add a block field');
-  }
+  $field_types['manage_block'] = t('Add a block field');
   $field_types['manage_preprocess'] = t('Add a preprocess field');
 
   foreach ($field_types as $field_key => $field_title) {

@@ -125,35 +125,42 @@ function _openlayers_styles_process($styles = array(),
   }
 
   // Add layer styles
-  foreach ($layer_styles as $style) {
+  foreach ($layer_styles as $key => $style) {
     if (!isset($processed[$style]) &&
         !empty($styles_info[$style]) &&
         $info = $styles_info[$style]->data) {
       $processed[$style] = $info;
+    }
+    if (empty($style)) {
+      // If a particular layer's style is 0, set it to the appropriate default.
+      $map['layer_styles'][$key] = 'default';
     }
   }
 
   // Add layer styles select
-  foreach ($layer_styles_select as $style) {
+  foreach ($layer_styles_select as $key => $style) {
     if (!isset($processed[$style]) &&
         !empty($styles_info[$style]) &&
         $info = $styles_info[$style]->data) {
       $processed[$style] = $info;
     }
+    if (empty($style)) {
+      // If a particular layer's style is 0, set it to the appropriate default.
+      $map['layer_styles_select'][$key] = 'select';
+    }
   }
 
   // Add layer styles temporary
-  foreach ($layer_styles_temporary as $style) {
+  foreach ($layer_styles_temporary as $key => $style) {
     if (!isset($processed[$style]) &&
       !empty($styles_info[$style]) &&
       $info = $styles_info[$style]->data) {
       $processed[$style] = $info;
     }
-  }
-
-  // Update URLs to support different types of paths
-  foreach ($processed as $k => $style) {
-    $processed[$k] = openlayers_render_style($style);
+    if (empty($style)) {
+      // If a particular layer's style is 0, set it to the appropriate default.
+      $map['layer_styles_temporary'][$key] = 'temporary';
+    }
   }
 
   // Run through theme function
@@ -164,26 +171,6 @@ function _openlayers_styles_process($styles = array(),
 
   // Return processed
   return $processed;
-}
-
-/**
- * Render style array.
- *
- * At the moment, this only makes the external grpahics
- * relative.
- */
-function openlayers_render_style($style = array()) {
-  // Relative path conversion
-  if (!empty($style['externalGraphic'])) {
-    // Check full URL or absolute path
-    if (!valid_url($style['externalGraphic'], TRUE)
-      && strpos($style['externalGraphic'], '/') !== 0) {
-      // Make full URL from Drupal path
-      $style['externalGraphic'] = openlayers_style_path($style['externalGraphic']);
-    }
-  }
-
-  return $style;
 }
 
 /**
@@ -199,30 +186,4 @@ function openlayers_render_style($style = array()) {
  */
 function _openlayers_create_map_id() {
   return drupal_html_id('openlayers-map');
-}
-
-/**
- * URL Style
- *
- * Takes in a path and makes full URL for style.  Overall, this
- * can be handled by url(), but we have to avoid some encoding
- * for variable replacement.  Note that this is not perfect as
- * it will decode values that maybe not specifically part of the
- * attribute replacement.
- *
- * A value that is just a replacement value, ${value} should
- * not be run through the file_create_url() function.
- *
- * @param $path
- *   Path to process.
- * @return
- *   Processed path.
- */
-function openlayers_style_path($path) {
-  if (strpos($path, '${') !== 0) {
-    $path = file_create_url($path);
-    $path = str_replace('%24%7B', '${', $path);
-    $path = str_replace('%7D', '}', $path);
-  }
-  return $path;
 }

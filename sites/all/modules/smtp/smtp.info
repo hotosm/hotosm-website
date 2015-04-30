@@ -7,9 +7,9 @@ files[] = smtp.mail.inc
 files[] = smtp.phpmailer.inc
 files[] = smtp.transport.inc
 
-; Information added by drupal.org packaging script on 2013-02-17
-version = "7.x-1.0"
+; Information added by Drupal.org packaging script on 2015-01-07
+version = "7.x-1.2"
 core = "7.x"
 project = "smtp"
-datestamp = "1361062292"
+datestamp = "1420662781"
 

@@ -55,6 +55,13 @@ None.
     RewriteEngine On
     RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 
+-- OPTIONAL INSTALLATION --
+ * Download and enable the libraries module: http://drupal.org/project/libraries
+ * Download the chosen JavaScript plugin into your libraries location
+   - Download from https://github.com/harvesthq/chosen/releases
+     and save in your libraries location in a new "chosen" folder.
+   - See instructions from the libraries module for details:
+     https://www.drupal.org/node/1440066
 
 -- CONFIGURATION --
 

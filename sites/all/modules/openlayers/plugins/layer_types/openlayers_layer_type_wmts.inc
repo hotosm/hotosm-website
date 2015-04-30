@@ -54,6 +54,24 @@ class openlayers_layer_type_wmts extends openlayers_layer_type {
         '#default_value' => isset($this->data['matrixSet']) ? $this->data['matrixSet'] : '',
         '#description' => t('One of the advertised matrix set identifiers. Must be provided.'),
       ),
+      'matrixIdsAuto' => array(
+        '#type' => 'checkbox',
+        '#default_value' => isset($this->data['matrixIdsAuto']) ?
+          $this->data['matrixIdsAuto'] : TRUE,
+        '#title' => t('Auto-generate matrix identifiers.'),
+        '#description' => t('Generate identifiers in the format [matrixSet]:[zoomLevel]. Use this options for Geoserver WMTS tiles. Overwrites explicit matrix IDs specified above.'),
+      ),
+      'matrixIds' => array(
+        '#type' => 'textfield',
+        '#title' => t('Matrix IDs'),
+        '#default_value' => isset($this->data['matrixIds']) ? implode(',', $this->data['matrixIds']) : '',
+        '#description' => t('Matrix identifiers per zoom level. Comma separated. Leave empty to use zoom level as identifier.'),
+        '#states' => array(
+          'invisible' => array(
+           ':input[name*="matrixIdsAuto"]' => array('checked' => TRUE),
+          ),
+        ),
+      ),
       'format' => array(
         '#type' => 'select',
         '#title' => t('Tile format'),
@@ -104,6 +122,11 @@ class openlayers_layer_type_wmts extends openlayers_layer_type {
     //parent::options_form_validate($form, $form_state);
     $form_state['data']['resolutions'] = array_map('floatval', explode(' ', $form_state['data']['resolutions']));
     $form_state['data']['serverResolutions'] = array_map('floatval', explode(' ', $form_state['data']['serverResolutions']));
+    if (empty($form_state['data']['matrixIds'])) {
+      $form_state['data']['matrixIds'] = NULL;
+    } else {
+      $form_state['data']['matrixIds'] = array_map('trim', explode(',', $form_state['data']['matrixIds']));
+    }
     $form_state['data']['url'] = explode("\n", $form_state['data']['url']);
     $form_state['data']['maxExtent'] = array_map('floatval', explode(",", $form_state['data']['maxExtent']));
     if (empty($form_state['data']['formatSuffix'])) {

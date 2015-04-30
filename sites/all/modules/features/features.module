@@ -661,6 +661,10 @@ function features_get_info($type = 'module', $name = NULL, $reset = FALSE) {
     $files = system_rebuild_module_data();
 
     foreach ($files as $row) {
+      // Remove modification timestamp, added in Drupal 7.33.
+      if (isset($row->info['mtime'])) {
+        unset($row->info['mtime']);
+      }
       // Avoid false-reported feature overrides for php = 5.2.4 line in .info file.
       if (isset($row->info['php'])) {
         unset($row->info['php']);
@@ -1071,6 +1075,9 @@ function features_hook_info() {
  * Change vocabularies permission, from vocab id to machine name and vice versa.
  */
 function _user_features_change_term_permission(&$perm, $type = 'vid') {
+  if (!module_exists('taxonomy')) {
+    return;
+  }
   // Export vocabulary permissions using the machine name, instead of vocabulary
   // id.
   if (strpos($perm, 'edit terms in ') !== FALSE || strpos($perm, 'delete terms in ') !== FALSE) {

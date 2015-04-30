@@ -8,7 +8,7 @@
 /**
  * The OpenLayers library URI.
  */
-define('OPENLAYERS_DOWNLOAD_URI', 'http://openlayers.org/download/OpenLayers-2.12.tar.gz');
+define('OPENLAYERS_DOWNLOAD_URI', 'http://github.com/openlayers/openlayers/releases/download/release-2.13.1/OpenLayers-2.13.1.zip');
 
 /**
  * Implementation of hook_drush_command().
@@ -85,10 +85,10 @@ function drush_openlayers_plugin() {
   // Download the archive
   if ($filepath = drush_download_file(OPENLAYERS_DOWNLOAD_URI)) {
     $filename = basename($filepath);
-    $dirname = basename($filepath, '.tar.gz');
+    $dirname = basename($filepath, '.zip');
 
     // Remove any existing OpenLayers library directory
-    if (is_dir($dirname) || is_dir('openlayers')) {
+    if (is_dir($dirname) || is_dir('openlayers') ) {
       drush_delete_dir($dirname, TRUE);
       drush_delete_dir('openlayers', TRUE);
       drush_log(dt('A existing OpenLayers library was deleted from @path', array('@path' => $path)), 'notice');
@@ -96,12 +96,8 @@ function drush_openlayers_plugin() {
 
     // Decompress the archive
     drush_tarball_extract($filename);
-
-    // Change the directory name to "openlayers" if needed.
-    if ($dirname != 'openlayers') {
-      drush_move_dir($dirname, 'openlayers', TRUE);
-      $dirname = 'openlayers';
-    }
+    drush_move_dir($dirname, 'openlayers', TRUE);
+    $dirname = 'openlayers';
   }
 
   if (is_dir($dirname)) {
