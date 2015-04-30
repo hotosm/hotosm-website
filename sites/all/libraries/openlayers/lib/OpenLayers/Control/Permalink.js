@@ -1,4 +1,4 @@
-/* Copyright (c) 2006-2012 by OpenLayers Contributors (see authors.txt for 
+/* Copyright (c) 2006-2013 by OpenLayers Contributors (see authors.txt for
  * full list of contributors). Published under the 2-clause BSD license.
  * See license.txt in the OpenLayers distribution or repository for the
  * full text of the license. */
@@ -172,11 +172,18 @@ OpenLayers.Control.Permalink = OpenLayers.Class(OpenLayers.Control, {
     updateLink: function() {
         var separator = this.anchor ? '#' : '?';
         var href = this.base;
+        var anchor = null;
+        if (href.indexOf("#") != -1 && this.anchor == false) {
+            anchor = href.substring( href.indexOf("#"), href.length);
+        }
         if (href.indexOf(separator) != -1) {
             href = href.substring( 0, href.indexOf(separator) );
         }
-
-        href += separator + OpenLayers.Util.getParameterString(this.createParams());
+        var splits = href.split("#");
+        href = splits[0] + separator+ OpenLayers.Util.getParameterString(this.createParams());
+        if (anchor) {
+            href += anchor;
+        }
         if (this.anchor && !this.element) {
             window.location.href = href;
         }

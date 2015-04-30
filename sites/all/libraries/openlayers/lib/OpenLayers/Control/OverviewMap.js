@@ -1,4 +1,4 @@
-/* Copyright (c) 2006-2012 by OpenLayers Contributors (see authors.txt for 
+/* Copyright (c) 2006-2013 by OpenLayers Contributors (see authors.txt for
  * full list of contributors). Published under the 2-clause BSD license.
  * See license.txt in the OpenLayers distribution or repository for the
  * full text of the license. */
@@ -7,6 +7,9 @@
  * @requires OpenLayers/Control.js
  * @requires OpenLayers/BaseTypes.js
  * @requires OpenLayers/Events/buttonclick.js
+ * @requires OpenLayers/Map.js
+ * @requires OpenLayers/Handler/Click.js
+ * @requires OpenLayers/Handler/Drag.js
  */
 
 /**
@@ -128,6 +131,20 @@ OpenLayers.Control.OverviewMap = OpenLayers.Class(OpenLayers.Control, {
     maximized: false,
 
     /**
+     * APIProperty: maximizeTitle
+     * {String}  This property is used for showing a tooltip over the  
+     * maximize div. Defaults to "" (no title).
+     */ 
+    maximizeTitle: "",
+
+    /**
+     * APIProperty: minimizeTitle
+     * {String}  This property is used for showing a tooltip over the  
+     * minimize div. Defaults to "" (no title).
+     */ 
+    minimizeTitle: "",
+
+    /**
      * Constructor: OpenLayers.Control.OverviewMap
      * Create a new overview map
      *
@@ -247,6 +264,9 @@ OpenLayers.Control.OverviewMap = OpenLayers.Class(OpenLayers.Control, {
                                         'absolute');
             this.maximizeDiv.style.display = 'none';
             this.maximizeDiv.className = this.displayClass + 'MaximizeButton olButton';
+            if (this.maximizeTitle) {
+                this.maximizeDiv.title = this.maximizeTitle;
+            }
             this.div.appendChild(this.maximizeDiv);
     
             // minimize button div
@@ -259,6 +279,9 @@ OpenLayers.Control.OverviewMap = OpenLayers.Class(OpenLayers.Control, {
                                         'absolute');
             this.minimizeDiv.style.display = 'none';
             this.minimizeDiv.className = this.displayClass + 'MinimizeButton olButton';
+            if (this.minimizeTitle) {
+                this.minimizeDiv.title = this.minimizeTitle;
+            }
             this.div.appendChild(this.minimizeDiv);            
             this.minimizeControl();
         } else {
@@ -398,8 +421,12 @@ OpenLayers.Control.OverviewMap = OpenLayers.Class(OpenLayers.Control, {
      * minimize - {Boolean} 
      */
     showToggle: function(minimize) {
-        this.maximizeDiv.style.display = minimize ? '' : 'none';
-        this.minimizeDiv.style.display = minimize ? 'none' : '';
+        if (this.maximizeDiv) {
+            this.maximizeDiv.style.display = minimize ? '' : 'none';
+        }
+        if (this.minimizeDiv) {
+            this.minimizeDiv.style.display = minimize ? 'none' : '';
+        }
     },
 
     /**
@@ -426,7 +453,7 @@ OpenLayers.Control.OverviewMap = OpenLayers.Class(OpenLayers.Control, {
      */
     isSuitableOverview: function() {
         var mapExtent = this.map.getExtent();
-        var maxExtent = this.map.maxExtent;
+        var maxExtent = this.map.getMaxExtent();
         var testExtent = new OpenLayers.Bounds(
                                 Math.max(mapExtent.left, maxExtent.left),
                                 Math.max(mapExtent.bottom, maxExtent.bottom),

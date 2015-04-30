@@ -1,4 +1,4 @@
-/* Copyright (c) 2006-2012 by OpenLayers Contributors (see authors.txt for 
+/* Copyright (c) 2006-2013 by OpenLayers Contributors (see authors.txt for
  * full list of contributors). Published under the 2-clause BSD license.
  * See license.txt in the OpenLayers distribution or repository for the
  * full text of the license. */
@@ -241,8 +241,9 @@ OpenLayers.Renderer.Canvas = OpenLayers.Class(OpenLayers.Renderer, {
     drawExternalGraphic: function(geometry, style, featureId) {
         var img = new Image();
 
-        if (style.graphicTitle) {
-            img.title = style.graphicTitle;           
+        var title = style.title || style.graphicTitle;        
+        if (title) {
+            img.title = title;           
         }
 
         var width = style.graphicWidth || style.graphicHeight;
@@ -711,6 +712,7 @@ OpenLayers.Renderer.Canvas = OpenLayers.Class(OpenLayers.Renderer, {
             for (var i = 0; i < numRows; i++) {
                 if (style.labelOutlineWidth) {
                     this.canvas.save();
+                    this.canvas.globalAlpha = style.labelOutlineOpacity || style.fontOpacity || 1.0;
                     this.canvas.strokeStyle = style.labelOutlineColor;
                     this.canvas.lineWidth = style.labelOutlineWidth;
                     this.canvas.strokeText(labelRows[i], pt[0], pt[1] + (lineHeight*i) + 1);
@@ -799,7 +801,7 @@ OpenLayers.Renderer.Canvas = OpenLayers.Class(OpenLayers.Renderer, {
                 if (data[3] === 255) { // antialiased
                     var id = data[2] + (256 * (data[1] + (256 * data[0])));
                     if (id) {
-                        featureId = "OpenLayers.Feature.Vector_" + (id - 1 + this.hitOverflow);
+                        featureId = "OpenLayers_Feature_Vector_" + (id - 1 + this.hitOverflow);
                         try {
                             feature = this.features[featureId][0];
                         } catch(err) {

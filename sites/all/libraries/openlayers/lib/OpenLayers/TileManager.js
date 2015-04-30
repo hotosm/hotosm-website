@@ -8,8 +8,6 @@
  * @requires OpenLayers/Util.js
  * @requires OpenLayers/BaseTypes.js
  * @requires OpenLayers/BaseTypes/Element.js
- * @requires OpenLayers/Layer/Grid.js
- * @requires OpenLayers/Tile/Image.js
  */
 
 /**
@@ -223,7 +221,7 @@ OpenLayers.TileManager = OpenLayers.Class({
                 for (j=layer.grid[i].length-1; j>=0; --j) {
                     tile = layer.grid[i][j];
                     this.addTile({tile: tile});
-                    if (tile.url && !tile.imgDiv) {
+                    if (tile.url) {
                         this.manageTileCache({object: tile});
                     }
                 }
@@ -255,6 +253,9 @@ OpenLayers.TileManager = OpenLayers.Class({
                     for (j=layer.grid[i].length-1; j>=0; --j) {
                         tile = layer.grid[i][j];
                         this.unloadTile({object: tile});
+                        if (tile.url) {
+                            this.manageTileCache({object: tile});
+                        }
                     }
                 }
             }
@@ -299,18 +300,13 @@ OpenLayers.TileManager = OpenLayers.Class({
      * evt - {Object} The listener argument
      */
     addTile: function(evt) {
-        if (evt.tile instanceof OpenLayers.Tile.Image) {
-            evt.tile.events.on({
-                beforedraw: this.queueTileDraw,
-                beforeload: this.manageTileCache,
-                loadend: this.addToCache,
-                unload: this.unloadTile,
-                scope: this
-            });        
-        } else {
-            // Layer has the wrong tile type, so don't handle it any longer
-            this.removeLayer({layer: evt.tile.layer});
-        }
+        evt.tile.events.on({
+            beforedraw: this.queueTileDraw,
+            beforeload: this.manageTileCache,
+            loadend: this.addToCache,
+            unload: this.unloadTile,
+            scope: this
+        });        
     },
     
     /**
@@ -387,23 +383,25 @@ OpenLayers.TileManager = OpenLayers.Class({
     manageTileCache: function(evt) {
         var tile = evt.object;
         var img = this.tileCache[tile.url];
-        if (img) {
-          // if image is on its layer's backbuffer, remove it from backbuffer
-          if (img.parentNode &&
-                  OpenLayers.Element.hasClass(img.parentNode, 'olBackBuffer')) {
-              img.parentNode.removeChild(img);
-              img.id = null;
-          }
-          // only use image from cache if it is not on a layer already
-          if (!img.parentNode) {
-              img.style.visibility = 'hidden';
-              img.style.opacity = 0;
-              tile.setImage(img);
-              // LRU - move tile to the end of the array to mark it as the most
-              // recently used
-              OpenLayers.Util.removeItem(this.tileCacheIndex, tile.url);
-              this.tileCacheIndex.push(tile.url);
-          }
+        // only use image from cache if it is not on a layer already
+        if (img && (!img.parentNode ||
+                 OpenLayers.Element.hasClass(img.parentNode, 'olBackBuffer'))) {
+            if (tile.layer.backBuffer) {
+                if (tile.layer.backBuffer === img.parentNode) {
+                    // cached image is on the target layer's backbuffer already,
+                    // so nothing to do here
+                    return;
+                }
+                img.style.opacity = 0;
+                img.style.visibility = 'hidden';
+            }
+            // Only backbuffer tiles have an id, so we don't want one here
+            img.id = null;
+            tile.setImage(img);
+            // LRU - move tile to the end of the array to mark it as the most
+            // recently used
+            OpenLayers.Util.removeItem(this.tileCacheIndex, tile.url);
+            this.tileCacheIndex.push(tile.url);
         }
     },
     

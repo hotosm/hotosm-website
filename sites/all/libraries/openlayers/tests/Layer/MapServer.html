@@ -36,7 +36,7 @@
     
         var url = "http://labs.metacarta.com/cgi-bin/mapserv";
         layer = new OpenLayers.Layer.MapServer(name, url, params);
-        var map = new OpenLayers.Map('map');
+        var map = new OpenLayers.Map('map', {tileManager: null});
         map.addLayer(layer);
         var pixel = new OpenLayers.Pixel(5,6);
         var tile = layer.addTile(new OpenLayers.Bounds(1,2,3,4), pixel);
@@ -58,8 +58,8 @@
         t.eq( tile.url,
              url + "?" + OpenLayers.Util.getParameterString(tParams).replace(/,/g, "+"),
              "image src is created correctly via addtile" );
-        t.eq( tile.getTile().style.top, "6%", "image top is set correctly via addtile" );
-        t.eq( tile.getTile().style.left, "5%", "image top is set correctly via addtile" );
+        t.eq( tile.getTile().style.top, "6px", "image top is set correctly via addtile" );
+        t.eq( tile.getTile().style.left, "5px", "image top is set correctly via addtile" );
 
         var firstChild = layer.div.firstChild;
         t.eq( firstChild.nodeName.toLowerCase(), "img", "div first child is an image object" );

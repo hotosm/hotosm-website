@@ -1,4 +1,4 @@
-/* Copyright (c) 2006-2012 by OpenLayers Contributors (see authors.txt for 
+/* Copyright (c) 2006-2013 by OpenLayers Contributors (see authors.txt for
  * full list of contributors). Published under the 2-clause BSD license.
  * See license.txt in the OpenLayers distribution or repository for the
  * full text of the license. */
@@ -311,8 +311,7 @@ OpenLayers.Format.KML = OpenLayers.Class(OpenLayers.Format.XML, {
 
     /**
      * Method: parseStyles
-     * Looks for <Style> nodes in the data and parses them
-     * Also parses <StyleMap> nodes, but only uses the 'normal' key
+     * Parses <Style> nodes
      * 
      * Parameters: 
      * nodes    - {Array} of {DOMElement} data to read/parse.
@@ -558,8 +557,7 @@ OpenLayers.Format.KML = OpenLayers.Class(OpenLayers.Format.XML, {
 
     /**
      * Method: parseStyleMaps
-     * Looks for <Style> nodes in the data and parses them
-     * Also parses <StyleMap> nodes, but only uses the 'normal' key
+     * Parses <StyleMap> nodes, but only uses the 'normal' key
      * 
      * Parameters: 
      * nodes    - {Array} of {DOMElement} data to read/parse.
@@ -733,7 +731,8 @@ OpenLayers.Format.KML = OpenLayers.Class(OpenLayers.Format.XML, {
                     }
                     if (this.trackAttributes) {
                         for (var j=0, jj=this.trackAttributes.length; j<jj; ++j) {
-                            feature.attributes[name] = obj.attributes[this.trackAttributes[j]][i];
+                            var name = this.trackAttributes[j];
+                            feature.attributes[name] = obj.attributes[name][i];
                         }
                     }
                     feature.attributes.when = obj.whens[i];
@@ -1212,8 +1211,8 @@ OpenLayers.Format.KML = OpenLayers.Class(OpenLayers.Format.XML, {
     createPlacemarkXML: function(feature) {        
         // Placemark name
         var placemarkName = this.createElementNS(this.kmlns, "name");
-        var name = feature.style && feature.style.label ? feature.style.label :
-                   feature.attributes.name || feature.id;
+        var label = (feature.style && feature.style.label) ? feature.style.label : feature.id;
+        var name = feature.attributes.name || label;
         placemarkName.appendChild(this.createTextNode(name));
 
         // Placemark description

@@ -1,4 +1,4 @@
-/* Copyright (c) 2006-2012 by OpenLayers Contributors (see authors.txt for 
+/* Copyright (c) 2006-2013 by OpenLayers Contributors (see authors.txt for
  * full list of contributors). Published under the 2-clause BSD license.
  * See license.txt in the OpenLayers distribution or repository for the
  * full text of the license. */
@@ -15,7 +15,7 @@
 
 /**
  * Class: OpenLayers.Format.SLD
- * Read/Wite SLD. Create a new instance with the <OpenLayers.Format.SLD>
+ * Read/Write SLD. Create a new instance with the <OpenLayers.Format.SLD>
  *     constructor.
  * 
  * Inherits from:

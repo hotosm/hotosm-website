@@ -1,4 +1,4 @@
-/* Copyright (c) 2006-2012 by OpenLayers Contributors (see authors.txt for 
+/* Copyright (c) 2006-2013 by OpenLayers Contributors (see authors.txt for
  * full list of contributors). Published under the 2-clause BSD license.
  * See license.txt in the OpenLayers distribution or repository for the
  * full text of the license. */
@@ -82,7 +82,6 @@ OpenLayers.Control.SLDSelect = OpenLayers.Class(OpenLayers.Control, {
      * APIProperty: handlerOptions
      * {Object} Used to set non-default properties on the control's handler
      */
-    handlerOptions: null,
 
     /**
      * APIProperty: sketchStyle
@@ -97,7 +96,7 @@ OpenLayers.Control.SLDSelect = OpenLayers.Class(OpenLayers.Control, {
      *         layerOptions: {
      *             styleMap: new OpenLayers.StyleMap({
      *                 "default": {strokeColor: "yellow"}
-     *             });
+     *             })
      *         }
      *     }
      * });
@@ -534,12 +533,13 @@ OpenLayers.Control.SLDSelect = OpenLayers.Class(OpenLayers.Control, {
                 }
     
                 var selectionLayer = this.createSelectionLayer(layer);
-                var sld = this.createSLD(layer, filters, geometryAttributes);
     
                 this.events.triggerEvent("selected", {
                     layer: layer,
                     filters: filters
                 });
+
+                var sld = this.createSLD(layer, filters, geometryAttributes);
     
                 selectionLayer.mergeNewParams({SLD_BODY: sld});
                 delete this._queue;
