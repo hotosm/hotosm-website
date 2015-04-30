@@ -112,8 +112,8 @@ function hot_core_context_default_contexts() {
   $context->reactions = array(
     'block' => array(
       'blocks' => array(
-        'lang_dropdown-language' => array(
-          'module' => 'lang_dropdown',
+        'locale-language' => array(
+          'module' => 'locale',
           'delta' => 'language',
           'region' => 'header',
           'weight' => '-10',

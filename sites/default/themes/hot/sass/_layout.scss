@@ -72,3 +72,30 @@ body.not-front {
     margin-top: 55px;
   }
 }
+
+
+#block-locale-language {
+  h2,
+  .locale-untranslated {
+    display: none;
+  }
+  ul {
+    padding: 0;
+    margin: -8px 0 0 0;
+  }
+  li {
+    margin-bottom: 10px;
+    float:left;
+    list-style-type: none;
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+    a {
+      padding: 3px 5px;
+      color: #999;
+    }
+    a.active {
+      color: #333;
+    }
+  }
+
+}
