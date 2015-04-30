@@ -1,714 +1,159 @@
-  /*******************************************************************************
-   * style.scss
- *
- * This file shouldn't directly contain any SCSS code, instead it only serves to
- * combine the SCSS contained in other Sass partials through @import directives.
- *
- * BASE............Styling for common HTML and Drupal elements.
- * LAYOUT..........Styles for the page structure that contain components.
- * COMPONENTS......Components, their modifiers and sub-components.
- ******************************************************************************/
-/*******************************************************************************
- * _utils.scss
- *
- * Sass offers come very useful features, these include variables functions and
- * mixins. Extensions such as Compass and Susy can also be used to provide extra
- * functions and mixins to be used throughout the theme. This file acts as a
- * single place for defining these things, which can then be accessed by
- * importing _utils.scss where required. The following should be defined in this
- * file:
- * - Custom Sass mixins for the theme.
- * - Custom Sass functions for the theme.
- * - Overriding the default variables provided by extensions such as Compass.
- * - Defining new variables for:
- *      - Colors.
- *      - Font sizes and families.
- *      - Layout and grid sizing.
- ******************************************************************************/
-/*******************************************************************************
- * _base.scss
-
- * Base styles define the default look for HTML and common Drupal elements.
- *
- * These rules will generally be made up of element selectors for HTML elements
- * such as headings, paragraphs and lists. Common Drupal elements such as form
- * items, collapsible fieldsets and messages should be included in this partial.
- *
- * The styleguide module (http://drupal.org/project/styleguide) gives you a good
- * overview of Drupals common elements for styling. By setting a solid baseline
- * before adding any more specific customisations you ensure that as any new
- * features are added they will be correctly styled without any extra work.
- ******************************************************************************/
+/******************************************************************************* style.scss  This file shouldn't directly contain any SCSS code, instead it only serves to combine the SCSS contained in other Sass partials through @import directives.  BASE............Styling for common HTML and Drupal elements. LAYOUT..........Styles for the page structure that contain components. COMPONENTS......Components, their modifiers and sub-components. *****************************************************************************/
+/******************************************************************************* _utils.scss  Sass offers come very useful features, these include variables functions and mixins. Extensions such as Compass and Susy can also be used to provide extra functions and mixins to be used throughout the theme. This file acts as a single place for defining these things, which can then be accessed by importing _utils.scss where required. The following should be defined in this file: - Custom Sass mixins for the theme. - Custom Sass functions for the theme. - Overriding the default variables provided by extensions such as Compass. - Defining new variables for: - Colors. - Font sizes and families. - Layout and grid sizing. *****************************************************************************/
+/******************************************************************************* _base.scss
+ Base styles define the default look for HTML and common Drupal elements.  These rules will generally be made up of element selectors for HTML elements such as headings, paragraphs and lists. Common Drupal elements such as form items, collapsible fieldsets and messages should be included in this partial.  The styleguide module (http://drupal.org/project/styleguide) gives you a good overview of Drupals common elements for styling. By setting a solid baseline before adding any more specific customisations you ensure that as any new features are added they will be correctly styled without any extra work. *****************************************************************************/
 /* FONTS */
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 300;
-  src: local("Open Sans"), local("OpenSans"), url(../fonts/OpenSans.woff) format("woff");
-}
+@font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 300; src: local("Open Sans"), local("OpenSans"), url(../fonts/OpenSans.woff) format("woff"); }
+@font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 700; src: local("Open Sans Bold"), local("OpenSans-Bold"), url(../fonts/OpenSans-Bold.woff) format("woff"); }
+@font-face { font-family: 'Open Sans'; font-style: italic; font-weight: 300; src: local("Open Sans Italic"), local("OpenSans-Italic"), url(../fonts/OpenSans-Italic.woff) format("woff"); }
+@font-face { font-family: 'Open Sans'; font-style: italic; font-weight: 700; src: local("Open Sans Bold Italic"), local("OpenSans-BoldItalic"), url(../fonts/OpenSans-BoldItalic.woff) format("woff"); }
+body { color: #333; background: #fff; font-family: "Open Sans", Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; margin: 0; /*  text-align: justify; */ }
 
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local("Open Sans Bold"), local("OpenSans-Bold"), url(../fonts/OpenSans-Bold.woff) format("woff");
-}
+a { color: #d40000; text-decoration: none; }
 
-@font-face {
-  font-family: 'Open Sans';
-  font-style: italic;
-  font-weight: 300;
-  src: local("Open Sans Italic"), local("OpenSans-Italic"), url(../fonts/OpenSans-Italic.woff) format("woff");
-}
+h2.page-title, h1 { font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; font-size: 22px; margin: 15px 0px; font-weight: normal; color: #d40000; }
 
-@font-face {
-  font-family: 'Open Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local("Open Sans Bold Italic"), local("OpenSans-BoldItalic"), url(../fonts/OpenSans-BoldItalic.woff) format("woff");
-}
+.front h2.block__title, .node-type-project h2.block__title { background: #f2f2f2; border-top: 3px solid #808080; border-bottom: 2px solid #808080; line-height: 35px; text-transform: uppercase; padding: 0px 5px 0px 5px; color: #808080; font-size: 11px; font-weight: normal; }
+.front h2.block__title .feed-icon, .node-type-project h2.block__title .feed-icon { padding-top: 4px; float: right; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000344}}
-body {
-  color: #333;
-  background: #fff;
-  font-family: "Open Sans", Arial, Helvetica, sans-serif;
-  font-size: 12px;
-  line-height: 20px;
-  margin: 0;
-/*  text-align: justify; */
-}
+.block, .item-list { border: none; background: transparent; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000354}}
-a {
-  color: #d40000;
-  text-decoration: none;
-}
+.block .block-content { padding: 0px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000359}}
-h2.page-title, h1 {
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif;
-  font-size: 22px;
-  margin: 15px 0px;
-  font-weight: normal;
-  color: #d40000;
-}
+.block .block-title { font-size: 14px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000367}}
-.front h2.block__title,
-.node-type-project h2.block__title {
-  background: #f2f2f2;
-  border-top: 3px solid #808080;
-  border-bottom: 2px solid #808080;
-  line-height: 35px;
-  text-transform: uppercase;
-  padding: 0px 5px 0px 5px;
-  color: #808080;
-  font-size: 11px;
-  font-weight: normal;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000377}}
-.front h2.block__title .feed-icon,
-.node-type-project h2.block__title .feed-icon {
-  padding-top: 4px;
-  float: right;
-}
+.block .block-content li.leaf { font-size: 12px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000385}}
-.block,
-.item-list {
-  border: none;
-  background: transparent;
-}
+.node { margin: 0px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000390}}
-.block .block-content {
-  padding: 0px;
-}
+.node-title { font-size: 15px; font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; font-weight: bold; margin: 20px 0px 0px 0px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000394}}
-.block .block-title {
-  font-size: 14px;
-}
+.node-content { padding: 10px 0px 20px; font-family: "Open Sans", Arial, Helvetica, sans-serif; font-size: 13px; color: #333; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\0000398}}
-.block .block-content li.leaf {
-  font-size: 12px;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003102}}
-.node {
-  margin: 0px;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003106}}
-.node-title {
-  font-size: 15px;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif;
-  font-weight: bold;
-  margin: 20px 0px 0px 0px;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003113}}
-.node-content {
-  padding: 10px 0px 20px;
-  font-family: "Open Sans", Arial, Helvetica, sans-serif;
-  font-size: 13px;
-  color: #333;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003120}}
-.messages {
-  clear: both;
-}
+.messages { clear: both; }
 
 /* Forms */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003130}}
-.form-item input.error,
-.form-item textarea.error,
-.form-item select.error {
-  border-style: solid;
-  border-color: red;
-}
+.form-item input.error, .form-item textarea.error, .form-item select.error { border-style: solid; border-color: red; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003138}}
-input.form-text,
-select,
-textarea {
-  border: 1px solid #ccc;
-  padding: 2px;
-}
+input.form-text, select, textarea { border: 1px solid #ccc; padding: 2px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003144}}
-input.form-submit,
-label {
-  font-weight: bold;
-}
+input.form-submit, label { font-weight: bold; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003148}}
-input.form-submit {
-  cursor: pointer;
-}
+input.form-submit { cursor: pointer; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003153}}
-input.form-radio,
-input.form-checkbox {
-  vertical-align: middle;
-}
+input.form-radio, input.form-checkbox { vertical-align: middle; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003158}}
-.form-item .description,
-.description {
-  color: #666;
-  font-size: 11px;
-}
+.form-item .description, .description { color: #666; font-size: 11px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003163}}
-fieldset.collapsible .fieldset-title {
-  cursor: pointer;
-}
+fieldset.collapsible .fieldset-title { cursor: pointer; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003167}}
-.form-item label {
-  display: block;
-  font-weight: bold;
-  margin: 0px;
-  padding: 0px;
-  color: #666;
-  font-weight: bold;
-  font-size: 10px;
-  text-transform: uppercase;
-}
+.form-item label { display: block; font-weight: bold; margin: 0px; padding: 0px; color: #666; font-weight: bold; font-size: 10px; text-transform: uppercase; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003178}}
-.form-item label.option {
-  display: inline;
-  font-weight: normal;
-}
+.form-item label.option { display: inline; font-weight: normal; }
 
 /* Comments */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003184}}
-#comments {
-  margin-top: 40px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003186}}
-#comments .comments__title {
-  display: none;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003190}}
-#comments .comments__form-title {
-  font-weight: normal;
-  font-size: 10px;
-  text-transform: uppercase;
-  background: #eee;
-  border: 1px solid #ddd;
-  padding: 4px 9px;
-  margin: 40px 0px 10px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003201}}
-#comments .comment .submitted {
-  font-weight: normal;
-  font-size: 10px;
-  text-transform: uppercase;
-  background: #eee;
-  border: 1px solid #ddd;
-  padding: 4px 9px;
-  margin: 0px 0px 10px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003210}}
-#comments .comment ul.links {
-  float: right;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003213}}
-#comments .comment .new {
-  float: left;
-  margin-right: 6px;
-}
+#comments { margin-top: 40px; }
+#comments .comments__title { display: none; }
+#comments .comments__form-title { font-weight: normal; font-size: 10px; text-transform: uppercase; background: #eee; border: 1px solid #ddd; padding: 4px 9px; margin: 40px 0px 10px; }
+#comments .comment .submitted { font-weight: normal; font-size: 10px; text-transform: uppercase; background: #eee; border: 1px solid #ddd; padding: 4px 9px; margin: 0px 0px 10px; }
+#comments .comment ul.links { float: right; }
+#comments .comment .new { float: left; margin-right: 6px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003220}}
-.links .comment-add {
-/*  display: none; */
-}
+.links .comment-add { display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003226}}
-.comment-form .filter-guidelines,
-.comment-form .filter-help {
-  font-size: 11px;
-  padding: 0;
-  line-height: 13px;
-  color: #666;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003232}}
-.comment-form .filter-wrapper {
-  border: 1px solid #ccc;
-  border-top: none;
-  margin-bottom: 20px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_base\.scss}line{font-family:\00003237}}
-.comment-form .form-item-subject {
-  display: none;
-}
+.comment-form .filter-guidelines, .comment-form .filter-help { font-size: 11px; padding: 0; line-height: 13px; color: #666; }
+.comment-form .filter-wrapper { border: 1px solid #ccc; border-top: none; margin-bottom: 20px; }
+.comment-form .form-item-subject { display: none; }
 
-/*******************************************************************************
- * _layout.scss
- *
- * The layout of the major regions (usually, but not necessarily Drupal regions)
- * that components will be placed within. Layout styles for the theme's
- * components should not be placed here and should instead be kept with the
- * relevant SCSS for that component.
- ******************************************************************************/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000311}}
-.l-header {
-  padding: 25px 0px 20px;
-  height: 60px;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif;
-}
+/******************************************************************************* _layout.scss  The layout of the major regions (usually, but not necessarily Drupal regions) that components will be placed within. Layout styles for the theme's components should not be placed here and should instead be kept with the relevant SCSS for that component. *****************************************************************************/
+.l-header { padding: 25px 0px 20px; height: 60px; font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000317}}
-.l-branding {
-  float: left;
-}
+.l-branding { float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000321}}
-.l-region--navigation {
-  float: right;
-  clear: none !important;
-  margin-top: -20px;
-}
+.l-region--navigation { float: right; clear: none !important; margin-top: 20px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000327}}
-.l-region--header > div {
-  float: right;
-}
+.l-region--header > div { float: right; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000331}}
-body.sidebar-present .l-content {
-  width: 510px;
-  float: left;
-}
+body.sidebar-present .l-content { width: 510px; float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000336}}
-.l-region--sidebar {
-  width: 260px;
-  float: right;
-  padding: 0;
-}
+.l-region--sidebar { width: 260px; float: right; padding: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000342}}
-.l-region--help {
-  clear: both;
-  margin-top: -50px;
-  float: right;
-}
+.l-region--help { clear: both; margin-top: -50px; float: right; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000348}}
-#footer-wrapper {
-  color: #fff;
-  padding: 20px 10px 0 0;
-  margin-top: 50px;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif;
-  font-size: 12px;
-  background: #808080;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000356}}
-#footer-wrapper .l-footer a {
-  color: #fff;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000359}}
-#footer-wrapper .l-footer h4 {
-  font-weight: normal;
-  font-size: 14px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000364}}
-#footer-wrapper nav .menu {
-  font-size: 12px;
-  text-transform: lowercase;
-}
+#footer-wrapper { color: #fff; padding: 20px 10px 0 0; margin-top: 50px; font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; font-size: 12px; background: #808080; }
+#footer-wrapper .l-footer a { color: #fff; }
+#footer-wrapper .l-footer h4 { font-weight: normal; font-size: 14px; }
+#footer-wrapper nav .menu { font-size: 12px; text-transform: lowercase; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_layout\.scss}line{font-family:\0000372}}
-body.not-front .l-region--sidebar {
-  margin-top: 55px;
-}
+body.not-front .l-region--sidebar { margin-top: 55px; }
 
-/*******************************************************************************
- * _components.scss
- *
- * Imports more partials that contain full components (modules in SMACSS), their
- * sub-components and modifiers.
- *
- * Components are discrete parts of your page that should sit within the regions
- * of your layouts. You should try to abstract your components as much as
- * possible to promote reuse throughout the theme. Components should be flexible
- * enough to respond to any width and should never rely on context
- * (e.g. .sidebar-first .component) for styling. This allows modules to be
- * placed throughout the theme with no risk of them breaking.
- *
- * If you find you need to change the look of a component depending on it's
- * context you should avoid using context based classes at all costs. Instead it
- * is better to add another "modifier" class to the component to alter the
- * styling. Again, this promotes reuse.
- *
- * Sub-components are the individual parts that make up a component. As a
- * general rule, adding a class to target a sub-component is a much better
- * option than using descendant selectors or element selectors. In many cases
- * sub-components can be made more reusable by making them components in their
- * own right, so they can then be used within other components.
- *
- * Almost everything that doesn't belong in base should be made a component.
- * Here's some common examples throughout Drupal:
- *
- * - Blocks
- * - Content Types - For example, you may have a generic node component that
- *      contains sub-components for the submitted by line and links. Specific
- *      components can then be created for each content type to style the
- *      specifics of each. Finally, by using entity view modes you can easily
- *      apply modifications based on the .node-[view-mode] classes.
- * - Forms - For instance the log in form.
- * - Views - Each views output style could be made into a component, the content
- *       of each row should be provided my a view mode styled by it's component
- *       CSS. Exposed filter forms, views pagers and other views elements are
- *       also good candidates for components.
- ******************************************************************************/
+/******************************************************************************* _components.scss  Imports more partials that contain full components (modules in SMACSS), their sub-components and modifiers.  Components are discrete parts of your page that should sit within the regions of your layouts. You should try to abstract your components as much as possible to promote reuse throughout the theme. Components should be flexible enough to respond to any width and should never rely on context (e.g. .sidebar-first .component) for styling. This allows modules to be placed throughout the theme with no risk of them breaking.  If you find you need to change the look of a component depending on it's context you should avoid using context based classes at all costs. Instead it is better to add another "modifier" class to the component to alter the styling. Again, this promotes reuse.  Sub-components are the individual parts that make up a component. As a general rule, adding a class to target a sub-component is a much better option than using descendant selectors or element selectors. In many cases sub-components can be made more reusable by making them components in their own right, so they can then be used within other components.  Almost everything that doesn't belong in base should be made a component. Here's some common examples throughout Drupal:  - Blocks - Content Types - For example, you may have a generic node component that contains sub-components for the submitted by line and links. Specific components can then be created for each content type to style the specifics of each. Finally, by using entity view modes you can easily apply modifications based on the .node-[view-mode] classes. - Forms - For instance the log in form. - Views - Each views output style could be made into a component, the content of each row should be provided my a view mode styled by it's component CSS. Exposed filter forms, views pagers and other views elements are also good candidates for components. *****************************************************************************/
 /* User control block */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000343}}
-#block-views-user-user-control-block {
-  clear: both;
-  display: block;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000346}}
-#block-views-user-user-control-block .views-field-name {
-  float: left;
-  padding-right: 4px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000350}}
-#block-views-user-user-control-block .views-field-nothing {
-  float: right;
-}
+#block-views-user-user-control-block { clear: both; display: block; }
+#block-views-user-user-control-block .views-field-name { float: left; padding-right: 4px; }
+#block-views-user-user-control-block .views-field-nothing { float: right; }
 
 /* Main navigation */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000356}}
-nav .menu {
-  float: right;
-  font-size: 13px;
-  font-weight: normal;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000360}}
-nav .menu li.leaf {
-  list-style: none;
-  display: inline;
-  padding: 0px 0px 0px 15px;
-  line-height: 20px;
-}
+nav .menu { float: right; font-size: 13px; font-weight: normal; }
+nav .menu li.leaf { list-style: none; display: inline; padding: 0px 0px 0px 15px; line-height: 20px; }
 
 /* Featured project */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000370}}
-#block-views-project-projects-featured-block .views-field-field-image {
-|  border-top: 3px solid #808080;
-  border-bottom: 2px solid #808080;
-  height: 320px;
-  float: left;
-  padding-right: 20px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000377}}
-#block-views-project-projects-featured-block .featured {
-  border-top: 3px solid #808080;
-  border-bottom: 2px solid #808080;
-  height: 320px;
-/*  width: 250px; */
-  padding-right: 5px;
-  margin: 0px;
-/*  float: right; */
-  background: #f2f2f2;
-  overflow: hidden;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000389}}
-#block-views-project-projects-featured-block h3.featured-label {
-  text-transform: uppercase;
-  font-weight: normal;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif;
-  font-size: 11px;
-  color: #808080;
-  margin: 0;
-  padding-top: 5px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\0000398}}
-#block-views-project-projects-featured-block div.featured-title {
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif;
-  font-size: 20px;
-  padding: 5px 0;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003104}}
-#block-views-project-projects-featured-block div.featured-body {
-  font-size: 11px;
-  line-height: 20px;
-  color: #333;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003110}}
-#block-views-project-projects-featured-block div.featured-link {
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif;
-  float: right;
-  text-transform: uppercase;
-  font-size: 12px;
-  margin: 2px 0px 0px;
-}
+#block-views-project-projects-featured-block .views-field-field-image { border-top: 3px solid #808080; border-bottom: 2px solid #808080; height: 330px; float: left; }
+#block-views-project-projects-featured-block .featured { border-top: 3px solid #808080; border-bottom: 2px solid #808080; height: 320px; width: 250px; padding: 5px; margin: 0px 0px 0px 10px; float: right; background: #f2f2f2; overflow: hidden; }
+#block-views-project-projects-featured-block h3.featured-label { text-transform: uppercase; font-weight: normal; font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; font-size: 11px; color: #808080; margin: 0; }
+#block-views-project-projects-featured-block div.featured-title { font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; font-size: 20px; padding: 5px 0; }
+#block-views-project-projects-featured-block div.featured-body { font-size: 11px; line-height: 20px; color: #333; }
+#block-views-project-projects-featured-block div.featured-link { font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; float: right; text-transform: uppercase; font-size: 12px; margin: 2px 0px 0px; }
 
 /* Short general description block */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003120}}
-#block-block-1 {
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif;
-  font-size: 17px;
-  color: #444;
-  margin: 0px 0px;
-  padding: 15px 20px 5px 20px;
-  line-height: 25px;
-  clear: both;
-}
+#block-block-1 { font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; font-size: 17px; color: #444; margin: 0px 0px; padding: 15px 20px 5px 20px; line-height: 25px; clear: both; }
 
 /* Project overview block */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003133}}
-#block-views-project-projects-overview-block .block__content .views-field-field-image {
-  float: left;
-  padding: 0px 15px 0px 0px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003137}}
-#block-views-project-projects-overview-block .block__content .views-field-title {
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif;
-  font-size: 16px;
-  font-weight: normal;
-  text-align: left;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003143}}
-#block-views-project-projects-overview-block .block__content .views-row {
-  clear: both;
-  padding-top: 20px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003148}}
-#block-views-project-projects-overview-block tr {
-  background: none !important;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003151}}
-#block-views-project-projects-overview-block table {
-  border-collapse: separate;
-  border-spacing: 0 15px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003155}}
-#block-views-project-projects-overview-block .tabledrag-handle {
-  position: absolute;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003158}}
-#block-views-project-projects-overview-block .tabledrag-changed {
-  padding-top: 14px;
-  padding-left: 20px;
-  position: absolute;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003163}}
-#block-views-project-projects-overview-block .draggable .views-field-field-image img {
-  margin-left: 30px !important;
-}
+#block-views-project-projects-overview-block .block__content .views-field-field-image { float: left; padding: 0px 15px 0px 0px; }
+#block-views-project-projects-overview-block .block__content .views-field-title { font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; font-size: 16px; font-weight: normal; text-align: left; }
+#block-views-project-projects-overview-block .block__content .views-row { clear: both; padding-top: 20px; }
+#block-views-project-projects-overview-block tr { background: none !important; }
+#block-views-project-projects-overview-block table { border-collapse: separate; border-spacing: 0 15px; }
+#block-views-project-projects-overview-block .tabledrag-handle { position: absolute; }
+#block-views-project-projects-overview-block .tabledrag-changed { padding-top: 14px; padding-left: 20px; position: absolute; }
+#block-views-project-projects-overview-block .draggable .views-field-field-image img { margin-left: 30px !important; }
 
 /* Updates web log block */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003171}}
-#block-views-updates-updates-all-block .more-link {
-  text-align: center;
-  font-size: 16px;
-  padding: 2px 6px;
-  margin-top: 15px;
-}
+#block-views-updates-updates-all-block .more-link { text-align: center; font-size: 16px; padding: 2px 6px; margin-top: 15px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003179}}
-.block__title .feed-icon {
-  padding-left: 10px;
-}
+.block__title .feed-icon { padding-left: 10px; }
 
 /* Contact links block */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003185}}
-#block-block-2 ul {
-  padding: 0;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003188}}
-#block-block-2 li {
-  padding: 0;
-  list-style: none;
-}
+#block-block-2 ul { padding: 0; }
+#block-block-2 li { padding: 0; list-style: none; }
 
 /* Project overview */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003195}}
-.view-display-id-projects_overview_page {
-  margin-top: 20px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003197}}
-.view-display-id-projects_overview_page .views-field-title {
-  font-size: 16px;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif;
-  padding-top: 8px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003203}}
-.view-display-id-projects_overview_page table td {
-  vertical-align: top;
-  padding: 0 50px 20px 50px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003206}}
-.view-display-id-projects_overview_page table td .views-field {
-  width: 180px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003210}}
-.view-display-id-projects_overview_page table td.col-first {
-  padding-left: 0;
-  padding-right: 50px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003214}}
-.view-display-id-projects_overview_page table td.col-last {
-  padding-right: 0;
-  padding-left: 50px;
-}
+.view-display-id-projects_overview_page { margin-top: 20px; }
+.view-display-id-projects_overview_page .views-field-title { font-size: 16px; font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; padding-top: 8px; }
+.view-display-id-projects_overview_page table td { vertical-align: top; padding: 0 50px 20px 50px; }
+.view-display-id-projects_overview_page table td .views-field { width: 180px; }
+.view-display-id-projects_overview_page table td.col-first { padding-left: 0; padding-right: 50px; }
+.view-display-id-projects_overview_page table td.col-last { padding-right: 0; padding-left: 50px; }
 
 /* Project node's splitted information */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003224}}
-#block-views-project-ol-map-block-1 .views-field {
-  margin-bottom: 14px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003227}}
-#block-views-project-ol-map-block-1 .views-label {
-  font-weight: bold;
-}
+#block-views-project-ol-map-block-1 .views-field { margin-bottom: 14px; }
+#block-views-project-ol-map-block-1 .views-label { font-weight: bold; }
 
 /* Book navigation */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003234}}
-#block-book-navigation h2 {
-  font-size: 13px;
-  padding: 0 0 8px 0;
-  margin: 0;
-  font-weight: normal;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003240}}
-#block-book-navigation ul {
-  padding: 0;
-  margin: 0;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003243}}
-#block-book-navigation ul li {
-  list-style: none;
-  padding-bottom: 8px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003248}}
-#block-book-navigation a {
-  padding: 4px;
-  display: block;
-  width: 100%;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003253}}
-#block-book-navigation a.active {
-  color: #d40000;
-  background-color: #f4f4f4;
-}
+#block-book-navigation h2 { font-size: 13px; padding: 0 0 8px 0; margin: 0; font-weight: normal; }
+#block-book-navigation ul { padding: 0; margin: 0; }
+#block-book-navigation ul li { list-style: none; padding-bottom: 8px; }
+#block-book-navigation a { padding: 4px; display: block; width: 100%; }
+#block-book-navigation a.active { color: #d40000; background-color: #f4f4f4; }
 
 /* Attachments */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003261}}
-.field--name-upload {
-  margin: 30px 0;
-  display: block;
-  width: 100%;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003265}}
-.field--name-upload table {
-  width: 100%;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003267}}
-.field--name-upload table td, .field--name-upload table th {
-  padding: 4px;
-}
+.field--name-upload { margin: 30px 0; display: block; width: 100%; }
+.field--name-upload table { width: 100%; }
+.field--name-upload table td, .field--name-upload table th { padding: 4px; }
 
 /* Add to any buttons */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/felix\/Sites\/hot\/sites\/default\/themes\/hot\/sass\/_components\.scss}line{font-family:\00003275}}
-.addtoany_list {
-  margin: 20px 0;
-  display: block;
-}
+.addtoany_list { margin: 20px 0; display: block; }
 
-.leadership .panel-panel .views-row {
-  clear:both;
-}
-
-.leadership .panel-panel .views-field-picture {
-  float: left;
-  margin: 0 30px 10px 0;
-}
-
-.pane-leadership-panel-pane-director {
-  clear: both;
-}
-
-/* styles as classes */
-.inline {
-  display: inline;
-}
-
-.left {
-  float: left;
-}
-
-.right {
-  float: right;
-}
-
-.no-style ul {
-  list-style: none;
-  padding: 0;
-  margin-top: 0;
-}
-
-h4.info {
-  margin-bottom: .2em;
-}
-
-/* Language dropdown */
-#block-lang-dropdown-language-content {
-  margin-bottom: 2em;
-}
-
-#block-lang-dropdown-language-content h2 {
-  font-size: .9em;
-  font-weight: normal;
-  margin-bottom: 0;
-}
-
+.leadership .panel-panel .views-row { clear: all; }
+.leadership .panel-panel .views-field-picture { float: left; margin: 0 30px 10px 0; }
+.leadership .panel-panel .pane-leadership-panel-pane-director { clear: both; }
