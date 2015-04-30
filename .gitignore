@@ -5,4 +5,5 @@ sites/*/settings*.php
 sites/*/files
 sites/*/private
 
+cache/normal/*
 sites/default/themes/hot/Gemfile.lock
