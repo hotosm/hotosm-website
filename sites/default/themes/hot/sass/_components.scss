@@ -302,13 +302,14 @@ nav .menu {
 .leadership .panel-panel {
   .views-row {
     clear: both;
-    margin-top: 50px;
+    margin-bottom: 50px;
   }
   .views-field-picture {
     float: left;
     margin: 0 30px 10px 0;
   }
-  .views-field-uid {
+  .views-field-uid,
+  .views-field-name{
     font-weight: bold;
     font-size: 13px;
   }
@@ -317,6 +318,8 @@ nav .menu {
   }
   .pane-leadership-panel-pane-director {
     clear: both;
+  }
+  .pane-leadership-panel-pane-director {
   }
 }
 

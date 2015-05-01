@@ -176,8 +176,8 @@ nav .menu li.leaf { list-style: none; display: inline; padding: 0px 0px 0px 15px
 /* Add to any buttons */
 .addtoany_list { margin: 20px 0; display: block; }
 
-.leadership .panel-panel .views-row { clear: both; margin-top: 50px; }
+.leadership .panel-panel .views-row { clear: both; margin-bottom: 50px; }
 .leadership .panel-panel .views-field-picture { float: left; margin: 0 30px 10px 0; }
-.leadership .panel-panel .views-field-uid { font-weight: bold; font-size: 13px; }
+.leadership .panel-panel .views-field-uid, .leadership .panel-panel .views-field-name { font-weight: bold; font-size: 13px; }
 .leadership .panel-panel .views-field-field-hot-leadership { color: #666; }
 .leadership .panel-panel .pane-leadership-panel-pane-director { clear: both; }
