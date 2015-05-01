@@ -51,5 +51,15 @@ function hot_core_menu_block_blocks() {
       'expanded'    => 0,
       'sort'        => 0,
     ),
+    'hot_core-3' => array(
+      'parent'      => 'main-menu:0',
+      'title_link'  => 0,
+      'admin_title' => 'Main navigation: Third level',
+      'level'       => 3,
+      'follow'      => '0',
+      'depth'       => 1,
+      'expanded'    => 0,
+      'sort'        => 0,
+    ),
   );
 }
