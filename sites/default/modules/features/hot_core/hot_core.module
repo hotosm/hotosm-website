@@ -25,3 +25,31 @@ function hot_core_front_page() {
   return '';
 }
 
+/**
+ * Implements hook_menu_block_blocks().
+ */
+function hot_core_menu_block_blocks() {
+  // The array key is the block delta used by menu block.
+  return array(
+    'hot_core-1' => array(
+      'parent'      => 'main-menu:0',
+      'title_link'  => 0,
+      'admin_title' => 'Main navigation: First level',
+      'level'       => 1,
+      'follow'      => '0',
+      'depth'       => 1,
+      'expanded'    => 0,
+      'sort'        => 0,
+    ),
+    'hot_core-2' => array(
+      'parent'      => 'main-menu:0',
+      'title_link'  => 0,
+      'admin_title' => 'Main navigation: Second level',
+      'level'       => 2,
+      'follow'      => '0',
+      'depth'       => 1,
+      'expanded'    => 0,
+      'sort'        => 0,
+    ),
+  );
+}
