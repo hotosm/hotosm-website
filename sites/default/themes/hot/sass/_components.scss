@@ -301,11 +301,19 @@ nav .menu {
 
 .leadership .panel-panel {
   .views-row {
-    clear:all;
+    clear: both;
+    margin-top: 50px;
   }
   .views-field-picture {
     float: left;
     margin: 0 30px 10px 0;
+  }
+  .views-field-uid {
+    font-weight: bold;
+    font-size: 13px;
+  }
+  .views-field-field-hot-leadership {
+    color: #666;
   }
   .pane-leadership-panel-pane-director {
     clear: both;
