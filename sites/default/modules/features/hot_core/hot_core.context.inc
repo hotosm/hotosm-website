@@ -118,9 +118,9 @@ function hot_core_context_default_contexts() {
           'region' => 'header',
           'weight' => '-10',
         ),
-        'menu_block-1' => array(
+        'menu_block-hot_core-1' => array(
           'module' => 'menu_block',
-          'delta' => '1',
+          'delta' => 'hot_core-1',
           'region' => 'footer',
           'weight' => '-10',
         ),
