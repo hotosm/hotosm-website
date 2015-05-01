@@ -18,6 +18,11 @@ function hot_people_form_user_profile_form_alter(&$form, &$form_state) {
     ),
   );
   $form['#validate'][] = 'hot_people_user_form_validate';
+
+  // Hide board for non admins
+  if (!user_access('Flag User entities as Board member')) {
+    unset($form['field_hot_leadership']);
+  }
 }
 
 /**
