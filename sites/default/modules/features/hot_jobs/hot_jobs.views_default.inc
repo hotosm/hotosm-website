@@ -50,6 +50,7 @@ function hot_jobs_views_default_views() {
   $handler->display->display_options['fields']['field_application_deadline']['id'] = 'field_application_deadline';
   $handler->display->display_options['fields']['field_application_deadline']['table'] = 'field_data_field_application_deadline';
   $handler->display->display_options['fields']['field_application_deadline']['field'] = 'field_application_deadline';
+  $handler->display->display_options['fields']['field_application_deadline']['alter']['strip_tags'] = TRUE;
   $handler->display->display_options['fields']['field_application_deadline']['settings'] = array(
     'format_type' => 'long',
     'fromto' => 'both',
@@ -61,6 +62,13 @@ function hot_jobs_views_default_views() {
   $handler->display->display_options['fields']['field_place']['id'] = 'field_place';
   $handler->display->display_options['fields']['field_place']['table'] = 'field_data_field_place';
   $handler->display->display_options['fields']['field_place']['field'] = 'field_place';
+  /* Field: Content: Link */
+  $handler->display->display_options['fields']['view_node']['id'] = 'view_node';
+  $handler->display->display_options['fields']['view_node']['table'] = 'views_entity_node';
+  $handler->display->display_options['fields']['view_node']['field'] = 'view_node';
+  $handler->display->display_options['fields']['view_node']['label'] = '';
+  $handler->display->display_options['fields']['view_node']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['view_node']['text'] = 'More information';
   /* Sort criterion: Content: Application deadline (field_application_deadline) */
   $handler->display->display_options['sorts']['field_application_deadline_value']['id'] = 'field_application_deadline_value';
   $handler->display->display_options['sorts']['field_application_deadline_value']['table'] = 'field_data_field_application_deadline';
@@ -161,6 +169,7 @@ function hot_jobs_views_default_views() {
     t('last »'),
     t('Application deadline'),
     t('Place of work'),
+    t('More information'),
     t('Open job offers'),
     t('View panes'),
     t('Closed job offers'),
