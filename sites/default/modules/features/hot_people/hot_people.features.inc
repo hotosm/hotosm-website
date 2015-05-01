@@ -61,11 +61,11 @@ function hot_people_flag_default_flags() {
     'show_contextual_link' => 0,
     'show_on_profile' => 0,
     'access_uid' => '',
+    'api_version' => 3,
     'module' => 'hot_people',
     'locked' => array(
       0 => 'name',
     ),
-    'api_version' => 3,
   );
   // Exported flag: "Executive director".
   $flags['executive_director'] = array(
@@ -93,11 +93,11 @@ function hot_people_flag_default_flags() {
     'show_contextual_link' => FALSE,
     'show_on_profile' => 1,
     'access_uid' => '',
+    'api_version' => 3,
     'module' => 'hot_people',
     'locked' => array(
       0 => 'name',
     ),
-    'api_version' => 3,
   );
   // Exported flag: "Voting member".
   $flags['voting_member'] = array(
@@ -126,11 +126,11 @@ function hot_people_flag_default_flags() {
     'show_contextual_link' => 0,
     'show_on_profile' => 0,
     'access_uid' => '',
+    'api_version' => 3,
     'module' => 'hot_people',
     'locked' => array(
       0 => 'name',
     ),
-    'api_version' => 3,
   );
   return $flags;
 
@@ -151,6 +151,21 @@ function hot_people_image_default_styles() {
         'data' => array(
           'width' => 30,
           'height' => 30,
+        ),
+        'weight' => 1,
+      ),
+    ),
+  );
+
+  // Exported image style: small_square.
+  $styles['small_square'] = array(
+    'label' => 'Small square',
+    'effects' => array(
+      8 => array(
+        'name' => 'image_scale_and_crop',
+        'data' => array(
+          'width' => 100,
+          'height' => 100,
         ),
         'weight' => 1,
       ),

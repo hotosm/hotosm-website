@@ -138,12 +138,12 @@ function hot_people_field_default_field_instances() {
     ),
     'entity_type' => 'user',
     'field_name' => 'field_name',
-    'label' => 'Name',
-    'required' => 0,
+    'label' => 'Full name',
+    'required' => 1,
     'settings' => array(
       'entity_translation_sync' => FALSE,
       'text_processing' => 0,
-      'user_register_form' => 0,
+      'user_register_form' => 1,
     ),
     'widget' => array(
       'active' => 1,
@@ -346,8 +346,8 @@ function hot_people_field_default_field_instances() {
   // Included for use with string extractors like potx.
   t('Bio');
   t('Country');
+  t('Full name');
   t('HOT Board function');
-  t('Name');
   t('OSM user name');
   t('Projects');
   t('Twitter handle');

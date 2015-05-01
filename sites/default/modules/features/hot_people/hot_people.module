@@ -5,35 +5,3 @@
  */
 
 include_once 'hot_people.features.inc';
-
-/**
- * Implements hook_form_alter()
- */
-function hot_people_form_user_profile_form_alter(&$form, &$form_state) {
-
-  // Only show hot board member role, if the user has been set to be a board member
-  $form['field_hot_leadership'][LANGUAGE_NONE]['#states'] = array(
-    'visible' => array(
-      ':input[name="flag[board_member]"]' => array('checked' => TRUE),
-    ),
-  );
-  $form['#validate'][] = 'hot_people_user_form_validate';
-
-  // Hide board for non admins
-  if (!user_access('Flag User entities as Board member')) {
-    unset($form['field_hot_leadership']);
-  }
-}
-
-/**
- * Additional alidate function for user profile form
- */
-function hot_people_user_form_validate($form, &$form_state) {
-
-  // In case the board member flag get's removed
-  if ($form_state['values']['flag']['board_member'] == 0) {
-
-    // Remove the assigned hot board member role
-    $form_state['values']['field_hot_leadership'][LANGUAGE_NONE][0]['tid'] = NULL;
-  }
-}
