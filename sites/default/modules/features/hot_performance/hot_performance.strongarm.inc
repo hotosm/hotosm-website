@@ -133,42 +133,42 @@ function hot_performance_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_enabled_application/rss';
-  $strongarm->value = FALSE;
+  $strongarm->value = 0;
   $export['boost_enabled_application/rss'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_enabled_application/rss+xml';
-  $strongarm->value = FALSE;
+  $strongarm->value = 0;
   $export['boost_enabled_application/rss+xml'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_enabled_application/xml';
-  $strongarm->value = FALSE;
+  $strongarm->value = 0;
   $export['boost_enabled_application/xml'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_enabled_text/html';
-  $strongarm->value = TRUE;
+  $strongarm->value = 1;
   $export['boost_enabled_text/html'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_enabled_text/javascript';
-  $strongarm->value = FALSE;
+  $strongarm->value = 0;
   $export['boost_enabled_text/javascript'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_enabled_text/xml';
-  $strongarm->value = FALSE;
+  $strongarm->value = 0;
   $export['boost_enabled_text/xml'] = $strongarm;
 
   $strongarm = new stdClass();
@@ -217,126 +217,126 @@ function hot_performance_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_gzip_application/rss';
-  $strongarm->value = TRUE;
+  $strongarm->value = 1;
   $export['boost_gzip_application/rss'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_gzip_application/rss+xml';
-  $strongarm->value = TRUE;
+  $strongarm->value = 1;
   $export['boost_gzip_application/rss+xml'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_gzip_application/xml';
-  $strongarm->value = TRUE;
+  $strongarm->value = 1;
   $export['boost_gzip_application/xml'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_gzip_text/html';
-  $strongarm->value = TRUE;
+  $strongarm->value = 1;
   $export['boost_gzip_text/html'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_gzip_text/javascript';
-  $strongarm->value = TRUE;
+  $strongarm->value = 1;
   $export['boost_gzip_text/javascript'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_gzip_text/xml';
-  $strongarm->value = TRUE;
+  $strongarm->value = 1;
   $export['boost_gzip_text/xml'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_lifetime_max_application/rss';
-  $strongarm->value = 3600;
+  $strongarm->value = '3600';
   $export['boost_lifetime_max_application/rss'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_lifetime_max_application/rss+xml';
-  $strongarm->value = 3600;
+  $strongarm->value = '3600';
   $export['boost_lifetime_max_application/rss+xml'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_lifetime_max_application/xml';
-  $strongarm->value = 3600;
+  $strongarm->value = '3600';
   $export['boost_lifetime_max_application/xml'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_lifetime_max_text/html';
-  $strongarm->value = 3600;
+  $strongarm->value = '600';
   $export['boost_lifetime_max_text/html'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_lifetime_max_text/javascript';
-  $strongarm->value = 3600;
+  $strongarm->value = '3600';
   $export['boost_lifetime_max_text/javascript'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_lifetime_max_text/xml';
-  $strongarm->value = 3600;
+  $strongarm->value = '3600';
   $export['boost_lifetime_max_text/xml'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_lifetime_min_application/rss';
-  $strongarm->value = 0;
+  $strongarm->value = '0';
   $export['boost_lifetime_min_application/rss'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_lifetime_min_application/rss+xml';
-  $strongarm->value = 0;
+  $strongarm->value = '0';
   $export['boost_lifetime_min_application/rss+xml'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_lifetime_min_application/xml';
-  $strongarm->value = 0;
+  $strongarm->value = '0';
   $export['boost_lifetime_min_application/xml'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_lifetime_min_text/html';
-  $strongarm->value = 0;
+  $strongarm->value = '0';
   $export['boost_lifetime_min_text/html'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_lifetime_min_text/javascript';
-  $strongarm->value = 0;
+  $strongarm->value = '0';
   $export['boost_lifetime_min_text/javascript'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'boost_lifetime_min_text/xml';
-  $strongarm->value = 0;
+  $strongarm->value = '0';
   $export['boost_lifetime_min_text/xml'] = $strongarm;
 
   $strongarm = new stdClass();
