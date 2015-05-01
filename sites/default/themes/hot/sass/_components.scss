@@ -64,6 +64,26 @@ nav .menu {
     line-height:20px;
   }
 }
+//TODO: Rename beofre uploading
+#block-menu-block-hot-core-2 {
+  margin: 20px 0;
+  background: #888;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  float: right;
+  width: 100%;
+  ul {
+    margin: 2px 10px;
+  }
+  a {
+    font-size: 11px;
+    font-family: Arial, sans-serif;
+    color: #fff;
+  }
+}
+
+
 
 /* Featured project */
 #block-views-project-projects-featured-block {

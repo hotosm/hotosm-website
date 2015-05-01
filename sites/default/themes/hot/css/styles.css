@@ -87,6 +87,7 @@ body.sidebar-present .l-content { width: 510px; float: left; }
 #footer-wrapper #block-menu-block-hot-core-1--2 { margin-left: 40px; float: left; width: 200px; }
 #footer-wrapper #block-menu-block-hot-core-1--2 .menu { float: none; }
 #footer-wrapper #block-menu-block-hot-core-1--2 .menu li { display: block; }
+#footer-wrapper #block-menu-block-hot-core-2 { float: right; }
 #footer-wrapper #block-block-2 li { display: block; width: 150px; padding: 20px; float: left; }
 #footer-wrapper #block-block-2 a { background: #ad1636; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; padding: 10px 20px 8px 20px; border-bottom: 2px solid #a30f30; display: block; margin-top: 12px; }
 #footer-wrapper #block-block-3 { clear: both; margin-left: 55px; }
@@ -110,6 +111,10 @@ body.not-front .l-region--sidebar { margin-top: 55px; }
 /* Main navigation */
 nav .menu { float: right; font-size: 13px; font-weight: normal; }
 nav .menu li.leaf { list-style: none; display: inline; padding: 0px 0px 0px 15px; line-height: 20px; }
+
+#block-menu-block-hot-core-2 { margin: 20px 0; background: #888; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; float: right; width: 100%; }
+#block-menu-block-hot-core-2 ul { margin: 2px 10px; }
+#block-menu-block-hot-core-2 a { font-size: 11px; font-family: Arial, sans-serif; color: #fff; }
 
 /* Featured project */
 #block-views-project-projects-featured-block .views-field-field-image { border: none; height: 330px; float: left; padding-right: 20px; }
