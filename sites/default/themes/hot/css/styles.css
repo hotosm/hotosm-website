@@ -80,10 +80,16 @@ body.sidebar-present .l-content { width: 510px; float: left; }
 
 .l-region--help { clear: both; margin-top: -50px; float: right; }
 
-#footer-wrapper { color: #fff; padding: 20px 10px 0 0; margin-top: 50px; font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; font-size: 12px; background: #de1743; }
-#footer-wrapper .l-footer a { color: #fff; }
+#footer-wrapper { color: #fff; padding: 20px 10px 0 0; margin-top: 50px; font-family: Arial, sans-serif; font-size: 11px; font-weight: bold; background: #de1743; }
+#footer-wrapper .l-footer { background: url("../images/hot_footer.jpg") no-repeat 0 50px; padding: 20px 0; }
+#footer-wrapper .l-footer a { color: #fff; font-weight: bold; font-size: 11px; }
 #footer-wrapper .l-footer h4 { font-weight: normal; font-size: 14px; }
-#footer-wrapper nav .menu { font-size: 12px; text-transform: lowercase; }
+#footer-wrapper #block-system-main-menu--2 { margin-left: 40px; float: left; width: 200px; }
+#footer-wrapper #block-system-main-menu--2 .menu { float: none; }
+#footer-wrapper #block-system-main-menu--2 .menu li { display: block; }
+#footer-wrapper #block-block-2 li { display: block; width: 150px; padding: 20px; float: left; }
+#footer-wrapper #block-block-2 a { background: #ad1636; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; padding: 10px 20px 8px 20px; border-bottom: 2px solid #a30f30; display: block; margin-top: 12px; }
+#footer-wrapper #block-system-user-menu { clear: both; }
 
 body.not-front .l-region--sidebar { margin-top: 55px; }
 
