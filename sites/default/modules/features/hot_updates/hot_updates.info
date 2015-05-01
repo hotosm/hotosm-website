@@ -88,4 +88,3 @@ features[views_view][] = updates
 features_exclude[dependencies][ctools] = ctools
 features_exclude[dependencies][file] = file
 features_exclude[dependencies][options] = options
-mtime = 1417467445
