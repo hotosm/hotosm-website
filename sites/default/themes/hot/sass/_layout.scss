@@ -60,6 +60,9 @@ body.sidebar-present .l-content {
       font-weight: bold;
       font-size: 11px;
     }
+    a:hover {
+      color: #fbd00a;
+    }
     h4 {
       font-weight: normal;
       font-size: 14px;
@@ -97,6 +100,11 @@ body.sidebar-present .l-content {
       border-bottom: 2px solid #a30f30;
       display: block;
       margin-top: 12px;
+    }
+
+    a:hover {
+      background: #850822;
+      border-color: #470513;
     }
   }
   #block-block-3 {
