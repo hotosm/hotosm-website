@@ -57,6 +57,31 @@ function hot_jobs_default_page_manager_pages() {
   $display->content = array();
   $display->panels = array();
     $pane = new stdClass();
+    $pane->pid = 'new-21b7e415-44a1-40d3-b3f4-0d1a57db959b';
+    $pane->panel = 'middle';
+    $pane->type = 'custom';
+    $pane->subtype = 'custom';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'admin_title' => 'Introduction text',
+      'title' => '',
+      'body' => '<p>Do you want to work with the Humanitarian OpenStreetMap Team? We are seeking good people for the following jobs:</p>',
+      'format' => '1',
+      'substitute' => TRUE,
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 0;
+    $pane->locks = array();
+    $pane->uuid = '21b7e415-44a1-40d3-b3f4-0d1a57db959b';
+    $display->content['new-21b7e415-44a1-40d3-b3f4-0d1a57db959b'] = $pane;
+    $display->panels['middle'][0] = 'new-21b7e415-44a1-40d3-b3f4-0d1a57db959b';
+    $pane = new stdClass();
     $pane->pid = 'new-e298aed4-5c3f-48dc-aef0-d93f7bda68da';
     $pane->panel = 'middle';
     $pane->type = 'views_panes';
@@ -74,11 +99,11 @@ function hot_jobs_default_page_manager_pages() {
     );
     $pane->css = array();
     $pane->extras = array();
-    $pane->position = 0;
+    $pane->position = 1;
     $pane->locks = array();
     $pane->uuid = 'e298aed4-5c3f-48dc-aef0-d93f7bda68da';
     $display->content['new-e298aed4-5c3f-48dc-aef0-d93f7bda68da'] = $pane;
-    $display->panels['middle'][0] = 'new-e298aed4-5c3f-48dc-aef0-d93f7bda68da';
+    $display->panels['middle'][1] = 'new-e298aed4-5c3f-48dc-aef0-d93f7bda68da';
     $pane = new stdClass();
     $pane->pid = 'new-a3206fb7-6e91-4e8b-969b-c597de5913f0';
     $pane->panel = 'middle';
@@ -93,11 +118,11 @@ function hot_jobs_default_page_manager_pages() {
     );
     $pane->css = array();
     $pane->extras = array();
-    $pane->position = 1;
+    $pane->position = 2;
     $pane->locks = array();
     $pane->uuid = 'a3206fb7-6e91-4e8b-969b-c597de5913f0';
     $display->content['new-a3206fb7-6e91-4e8b-969b-c597de5913f0'] = $pane;
-    $display->panels['middle'][1] = 'new-a3206fb7-6e91-4e8b-969b-c597de5913f0';
+    $display->panels['middle'][2] = 'new-a3206fb7-6e91-4e8b-969b-c597de5913f0';
   $display->hide_title = PANELS_TITLE_FIXED;
   $display->title_pane = 'new-e298aed4-5c3f-48dc-aef0-d93f7bda68da';
   $handler->conf['display'] = $display;
