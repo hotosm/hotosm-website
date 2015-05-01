@@ -40,7 +40,7 @@ function hot_people_flag_default_flags() {
     'title' => 'Board member',
     'global' => 1,
     'types' => array(),
-    'flag_short' => 'Board member',
+    'flag_short' => 'Flag as board member',
     'flag_long' => 'This user is a HOT board member',
     'flag_message' => 'board member',
     'unflag_short' => 'Unflag as board member',
@@ -52,13 +52,14 @@ function hot_people_flag_default_flags() {
     'show_in_links' => array(
       'full' => 'full',
       'diff_standard' => 0,
+      'list' => 0,
       'token' => 0,
     ),
     'show_as_field' => 1,
     'show_on_form' => 1,
     'access_author' => '',
     'show_contextual_link' => 0,
-    'show_on_profile' => 1,
+    'show_on_profile' => 0,
     'access_uid' => '',
     'module' => 'hot_people',
     'locked' => array(
@@ -104,7 +105,7 @@ function hot_people_flag_default_flags() {
     'title' => 'Voting member',
     'global' => 1,
     'types' => array(),
-    'flag_short' => 'Voting member',
+    'flag_short' => 'Flag as voting member',
     'flag_long' => 'This user is a HOT voting member.',
     'flag_message' => 'Voting member',
     'unflag_short' => 'Unflag as voting membere',
@@ -116,6 +117,7 @@ function hot_people_flag_default_flags() {
     'show_in_links' => array(
       'full' => 'full',
       'diff_standard' => 0,
+      'list' => 0,
       'token' => 0,
     ),
     'show_as_field' => 1,
@@ -142,17 +144,9 @@ function hot_people_image_default_styles() {
 
   // Exported image style: avatar.
   $styles['avatar'] = array(
-    'name' => 'avatar',
     'label' => 'avatar',
     'effects' => array(
       9 => array(
-        'label' => 'Scale and crop',
-        'help' => 'Scale and crop will maintain the aspect-ratio of the original image, then crop the larger dimension. This is most useful for creating perfectly square thumbnails without stretching the image.',
-        'effect callback' => 'image_scale_and_crop_effect',
-        'dimensions callback' => 'image_resize_dimensions',
-        'form callback' => 'image_resize_form',
-        'summary theme' => 'image_resize_summary',
-        'module' => 'image',
         'name' => 'image_scale_and_crop',
         'data' => array(
           'width' => 30,

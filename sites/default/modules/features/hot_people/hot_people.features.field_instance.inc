@@ -47,7 +47,7 @@ function hot_people_field_default_field_instances() {
         'rows' => 5,
       ),
       'type' => 'text_textarea',
-      'weight' => 7,
+      'weight' => 9,
     ),
   );
 
@@ -63,7 +63,7 @@ function hot_people_field_default_field_instances() {
         'module' => 'countries',
         'settings' => array(),
         'type' => 'country_default',
-        'weight' => 15,
+        'weight' => 14,
       ),
     ),
     'entity_type' => 'user',
@@ -95,7 +95,7 @@ function hot_people_field_default_field_instances() {
         'module' => 'taxonomy',
         'settings' => array(),
         'type' => 'taxonomy_term_reference_link',
-        'weight' => 14,
+        'weight' => 15,
       ),
     ),
     'entity_type' => 'user',
@@ -231,7 +231,7 @@ function hot_people_field_default_field_instances() {
       'module' => 'options',
       'settings' => array(),
       'type' => 'options_buttons',
-      'weight' => 8,
+      'weight' => 10,
     ),
   );
 
@@ -303,7 +303,7 @@ function hot_people_field_default_field_instances() {
       'module' => 'options',
       'settings' => array(),
       'type' => 'options_buttons',
-      'weight' => 9,
+      'weight' => 7,
     ),
   );
 
@@ -338,7 +338,7 @@ function hot_people_field_default_field_instances() {
         'size' => 60,
       ),
       'type' => 'text_textfield',
-      'weight' => 11,
+      'weight' => 8,
     ),
   );
 

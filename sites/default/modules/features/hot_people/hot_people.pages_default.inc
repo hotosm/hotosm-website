@@ -15,15 +15,14 @@ function hot_people_default_page_manager_pages() {
   $page->task = 'page';
   $page->admin_title = 'leadership';
   $page->admin_description = '';
-  $page->path = 'leadership';
+  $page->path = 'leadership/board';
   $page->access = array(
     'plugins' => array(
       0 => array(
         'name' => 'role',
         'settings' => array(
           'rids' => array(
-            0 => 3,
-            1 => 4,
+            0 => 2,
           ),
         ),
         'context' => 'logged-in-user',
@@ -34,7 +33,18 @@ function hot_people_default_page_manager_pages() {
     'type' => 'none',
     'settings' => NULL,
   );
-  $page->menu = array();
+  $page->menu = array(
+    'type' => 'normal',
+    'title' => 'Board',
+    'name' => 'main-menu',
+    'weight' => '0',
+    'parent' => array(
+      'type' => 'none',
+      'title' => '',
+      'name' => 'navigation',
+      'weight' => '0',
+    ),
+  );
   $page->arguments = array();
   $page->conf = array(
     'admin_paths' => FALSE,
