@@ -17,6 +17,7 @@ dependencies[] = i18n_node
 dependencies[] = image
 dependencies[] = lang_dropdown
 dependencies[] = menu
+dependencies[] = menu_block
 dependencies[] = mollom
 dependencies[] = multiupload_filefield_widget
 dependencies[] = multiupload_imagefield_widget
