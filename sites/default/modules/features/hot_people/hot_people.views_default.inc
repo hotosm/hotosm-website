@@ -207,36 +207,54 @@ function hot_people_views_default_views() {
   $handler->display->display_options['query']['type'] = 'views_query';
   $handler->display->display_options['exposed_form']['type'] = 'basic';
   $handler->display->display_options['pager']['type'] = 'none';
-  $handler->display->display_options['style_plugin'] = 'grid';
+  $handler->display->display_options['style_plugin'] = 'list';
   $handler->display->display_options['row_plugin'] = 'fields';
   $handler->display->display_options['row_options']['hide_empty'] = TRUE;
+  $handler->display->display_options['row_options']['default_field_elements'] = FALSE;
   /* Field: User: Picture */
   $handler->display->display_options['fields']['picture']['id'] = 'picture';
   $handler->display->display_options['fields']['picture']['table'] = 'users';
   $handler->display->display_options['fields']['picture']['field'] = 'picture';
   $handler->display->display_options['fields']['picture']['label'] = '';
+  $handler->display->display_options['fields']['picture']['exclude'] = TRUE;
   $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['picture']['hide_empty'] = TRUE;
+  $handler->display->display_options['fields']['picture']['empty'] = '<img src="/sites/default/themes/hot/images/avatar_100.png" />';
+  $handler->display->display_options['fields']['picture']['hide_alter_empty'] = FALSE;
+  $handler->display->display_options['fields']['picture']['link_photo_to_profile'] = FALSE;
   $handler->display->display_options['fields']['picture']['image_style'] = 'small_square';
-  /* Field: User: Uid */
-  $handler->display->display_options['fields']['uid']['id'] = 'uid';
-  $handler->display->display_options['fields']['uid']['table'] = 'users';
-  $handler->display->display_options['fields']['uid']['field'] = 'uid';
-  $handler->display->display_options['fields']['uid']['label'] = '';
-  $handler->display->display_options['fields']['uid']['exclude'] = TRUE;
-  $handler->display->display_options['fields']['uid']['alter']['text'] = '[picture]
-[field_name]';
-  $handler->display->display_options['fields']['uid']['alter']['path'] = 'user/[uid]';
-  $handler->display->display_options['fields']['uid']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['uid']['link_to_user'] = FALSE;
   /* Field: User: Full name */
   $handler->display->display_options['fields']['field_name']['id'] = 'field_name';
   $handler->display->display_options['fields']['field_name']['table'] = 'field_data_field_name';
   $handler->display->display_options['fields']['field_name']['field'] = 'field_name';
   $handler->display->display_options['fields']['field_name']['label'] = '';
-  $handler->display->display_options['fields']['field_name']['alter']['make_link'] = TRUE;
+  $handler->display->display_options['fields']['field_name']['exclude'] = TRUE;
   $handler->display->display_options['fields']['field_name']['alter']['path'] = 'user/[uid]';
   $handler->display->display_options['fields']['field_name']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['field_name']['type'] = 'text_plain';
+  $handler->display->display_options['fields']['field_name']['settings'] = array(
+    'title_style' => '_none',
+    'title_link' => '',
+    'title_class' => '',
+  );
+  /* Field: User: Country */
+  $handler->display->display_options['fields']['field_country']['id'] = 'field_country';
+  $handler->display->display_options['fields']['field_country']['table'] = 'field_data_field_country';
+  $handler->display->display_options['fields']['field_country']['field'] = 'field_country';
+  $handler->display->display_options['fields']['field_country']['label'] = '';
+  $handler->display->display_options['fields']['field_country']['exclude'] = TRUE;
+  $handler->display->display_options['fields']['field_country']['element_label_colon'] = FALSE;
+  /* Field: User: Uid */
+  $handler->display->display_options['fields']['uid']['id'] = 'uid';
+  $handler->display->display_options['fields']['uid']['table'] = 'users';
+  $handler->display->display_options['fields']['uid']['field'] = 'uid';
+  $handler->display->display_options['fields']['uid']['label'] = '';
+  $handler->display->display_options['fields']['uid']['alter']['alter_text'] = TRUE;
+  $handler->display->display_options['fields']['uid']['alter']['text'] = '[picture]
+<span class="text-content"><span><div class="full-name">[field_name]</div><br />[field_country]</span></span>';
+  $handler->display->display_options['fields']['uid']['alter']['make_link'] = TRUE;
+  $handler->display->display_options['fields']['uid']['alter']['path'] = 'user/[uid]';
+  $handler->display->display_options['fields']['uid']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['uid']['link_to_user'] = FALSE;
   /* Sort criterion: User: Full name (field_name) */
   $handler->display->display_options['sorts']['field_name_value']['id'] = 'field_name_value';
   $handler->display->display_options['sorts']['field_name_value']['table'] = 'field_data_field_name';
@@ -246,6 +264,11 @@ function hot_people_views_default_views() {
   $handler->display->display_options['filters']['field_name_value']['table'] = 'field_data_field_name';
   $handler->display->display_options['filters']['field_name_value']['field'] = 'field_name_value';
   $handler->display->display_options['filters']['field_name_value']['operator'] = 'not empty';
+  /* Filter criterion: User: Active */
+  $handler->display->display_options['filters']['status']['id'] = 'status';
+  $handler->display->display_options['filters']['status']['table'] = 'users';
+  $handler->display->display_options['filters']['status']['field'] = 'status';
+  $handler->display->display_options['filters']['status']['value'] = '1';
 
   /* Display: Pane: Voting members */
   $handler = $view->new_display('panel_pane', 'Pane: Voting members', 'panel_pane_members_voting');
@@ -316,8 +339,9 @@ function hot_people_views_default_views() {
     t('Sort by'),
     t('Asc'),
     t('Desc'),
+    t('<img src="/sites/default/themes/hot/images/avatar_100.png" />'),
     t('[picture]
-[field_name]'),
+<span class="text-content"><span><div class="full-name">[field_name]</div><br />[field_country]</span></span>'),
     t('Pane: Voting members'),
     t('Voting members'),
     t('voting member'),

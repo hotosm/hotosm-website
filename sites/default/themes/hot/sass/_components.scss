@@ -338,3 +338,66 @@ nav .menu {
   }
 
 }
+
+
+
+.view-id-user_lists {
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  li {
+    display: inline-block;
+    height: 100px;
+    margin: 0 1em 1em 0;
+    position: relative;
+    width: 100px;
+  }
+  .view-content {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  .view-content:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .views-row {
+    float: left;
+
+    span.text-content {
+      padding: 5px;
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      height: 90px;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 90px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+    span.text-content span {
+      display: table-cell;
+      text-align: center;
+      vertical-align: middle;
+      .full-name {
+        margin: 0;
+        padding: 0;
+        font-weight:bold;
+      }
+    }
+  }
+  li.views-row:hover span.text-content {
+    opacity: 1;
+  }
+}
