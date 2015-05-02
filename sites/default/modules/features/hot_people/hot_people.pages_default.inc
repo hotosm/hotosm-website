@@ -15,7 +15,7 @@ function hot_people_default_page_manager_pages() {
   $page->task = 'page';
   $page->admin_title = 'leadership';
   $page->admin_description = '';
-  $page->path = 'leadership/board';
+  $page->path = 'board';
   $page->access = array(
     'plugins' => array(
       0 => array(
@@ -134,7 +134,7 @@ function hot_people_default_page_manager_pages() {
   $page->task = 'page';
   $page->admin_title = 'Voting members';
   $page->admin_description = '';
-  $page->path = 'leadership/voting-members';
+  $page->path = 'voting-members';
   $page->access = array(
     'type' => 'none',
     'settings' => NULL,
