@@ -105,7 +105,9 @@ function hot_core_user_default_permissions() {
   $permissions['access toolbar'] = array(
     'name' => 'access toolbar',
     'roles' => array(
+      'authenticated user' => 'authenticated user',
       'content editor' => 'content editor',
+      'site admin' => 'site admin',
     ),
     'module' => 'toolbar',
   );
