@@ -29,17 +29,17 @@ function hot_working_groups_context_default_contexts() {
   $context->reactions = array(
     'block' => array(
       'blocks' => array(
+        'views-user_lists-block_wg_members' => array(
+          'module' => 'views',
+          'delta' => 'user_lists-block_wg_members',
+          'region' => 'content',
+          'weight' => '10',
+        ),
         'views-working_group-block' => array(
           'module' => 'views',
           'delta' => 'working_group-block',
           'region' => 'sidebar',
-          'weight' => '-10',
-        ),
-        'views-user_lists-block' => array(
-          'module' => 'views',
-          'delta' => 'user_lists-block',
-          'region' => 'sidebar',
-          'weight' => '-9',
+          'weight' => '-25',
         ),
       ),
     ),

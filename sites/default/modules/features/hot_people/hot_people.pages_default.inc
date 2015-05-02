@@ -135,7 +135,10 @@ function hot_people_default_page_manager_pages() {
   $page->admin_title = 'Voting members';
   $page->admin_description = '';
   $page->path = 'leadership/voting-members';
-  $page->access = array();
+  $page->access = array(
+    'type' => 'none',
+    'settings' => NULL,
+  );
   $page->menu = array();
   $page->arguments = array();
   $page->conf = array(

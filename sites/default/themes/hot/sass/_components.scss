@@ -353,15 +353,14 @@ nav .menu {
     height: 100px;
     margin: 0 1em 1em 0;
     position: relative;
-      overflow: hidden;
-
+    overflow: hidden;
+    text-align: center;
     width: 100px;
   }
   .view-content {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
   }
   .view-content:after {
     content: "";
@@ -418,5 +417,21 @@ nav .menu {
       -moz-transform: scale(1.4);
       transform: scale(1.4);
     }
+  }
+}
+
+.view-display-id-page_working_groups_with_members {
+  div {
+    float: left;
+    img {
+      padding-right: 10px;
+    }
+  }
+  h3 {
+     clear: both;
+     margin-bottom: 0;
+  }
+  .views-row-last {
+    margin-bottom: 3em;
   }
 }

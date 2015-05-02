@@ -330,6 +330,99 @@ function hot_people_views_default_views() {
       'label' => 'Field: Working group (field_working_group)',
     ),
   );
+
+  /* Display: Page: Working groups */
+  $handler = $view->new_display('page', 'Page: Working groups', 'page_working_groups_with_members');
+  $handler->display->display_options['defaults']['title'] = FALSE;
+  $handler->display->display_options['title'] = 'Working groups';
+  $handler->display->display_options['defaults']['style_plugin'] = FALSE;
+  $handler->display->display_options['style_plugin'] = 'default';
+  $handler->display->display_options['style_options']['grouping'] = array(
+    0 => array(
+      'field' => 'body',
+      'rendered' => 0,
+      'rendered_strip' => 1,
+    ),
+  );
+  $handler->display->display_options['style_options']['default_row_class'] = FALSE;
+  $handler->display->display_options['defaults']['style_options'] = FALSE;
+  $handler->display->display_options['defaults']['row_plugin'] = FALSE;
+  $handler->display->display_options['row_plugin'] = 'fields';
+  $handler->display->display_options['row_options']['hide_empty'] = TRUE;
+  $handler->display->display_options['row_options']['default_field_elements'] = FALSE;
+  $handler->display->display_options['defaults']['row_options'] = FALSE;
+  $handler->display->display_options['defaults']['relationships'] = FALSE;
+  /* Relationship: Field: Working group (field_working_group) */
+  $handler->display->display_options['relationships']['field_working_group_nid']['id'] = 'field_working_group_nid';
+  $handler->display->display_options['relationships']['field_working_group_nid']['table'] = 'field_data_field_working_group';
+  $handler->display->display_options['relationships']['field_working_group_nid']['field'] = 'field_working_group_nid';
+  $handler->display->display_options['relationships']['field_working_group_nid']['label'] = 'working_group';
+  $handler->display->display_options['relationships']['field_working_group_nid']['required'] = TRUE;
+  $handler->display->display_options['relationships']['field_working_group_nid']['delta'] = '-1';
+  $handler->display->display_options['defaults']['fields'] = FALSE;
+  /* Field: Content: Nid */
+  $handler->display->display_options['fields']['nid']['id'] = 'nid';
+  $handler->display->display_options['fields']['nid']['table'] = 'node';
+  $handler->display->display_options['fields']['nid']['field'] = 'nid';
+  $handler->display->display_options['fields']['nid']['relationship'] = 'field_working_group_nid';
+  $handler->display->display_options['fields']['nid']['label'] = '';
+  $handler->display->display_options['fields']['nid']['exclude'] = TRUE;
+  $handler->display->display_options['fields']['nid']['element_label_colon'] = FALSE;
+  /* Field: Content: Title */
+  $handler->display->display_options['fields']['title']['id'] = 'title';
+  $handler->display->display_options['fields']['title']['table'] = 'node';
+  $handler->display->display_options['fields']['title']['field'] = 'title';
+  $handler->display->display_options['fields']['title']['relationship'] = 'field_working_group_nid';
+  $handler->display->display_options['fields']['title']['label'] = '';
+  $handler->display->display_options['fields']['title']['exclude'] = TRUE;
+  $handler->display->display_options['fields']['title']['element_type'] = 'div';
+  $handler->display->display_options['fields']['title']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['title']['element_default_classes'] = FALSE;
+  /* Field: Content: Body */
+  $handler->display->display_options['fields']['body']['id'] = 'body';
+  $handler->display->display_options['fields']['body']['table'] = 'field_data_body';
+  $handler->display->display_options['fields']['body']['field'] = 'body';
+  $handler->display->display_options['fields']['body']['relationship'] = 'field_working_group_nid';
+  $handler->display->display_options['fields']['body']['label'] = '';
+  $handler->display->display_options['fields']['body']['exclude'] = TRUE;
+  $handler->display->display_options['fields']['body']['alter']['alter_text'] = TRUE;
+  $handler->display->display_options['fields']['body']['alter']['text'] = '</h3><h3>[title]</h3>
+<div>[body]</div>';
+  $handler->display->display_options['fields']['body']['element_label_colon'] = FALSE;
+  /* Field: User: Picture */
+  $handler->display->display_options['fields']['picture']['id'] = 'picture';
+  $handler->display->display_options['fields']['picture']['table'] = 'users';
+  $handler->display->display_options['fields']['picture']['field'] = 'picture';
+  $handler->display->display_options['fields']['picture']['label'] = '';
+  $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['picture']['empty'] = '<img src="/sites/default/themes/hot/images/avatar_30.png" />';
+  $handler->display->display_options['fields']['picture']['hide_alter_empty'] = FALSE;
+  $handler->display->display_options['fields']['picture']['link_photo_to_profile'] = FALSE;
+  $handler->display->display_options['fields']['picture']['image_style'] = 'avatar';
+  $handler->display->display_options['defaults']['sorts'] = FALSE;
+  /* Sort criterion: Content: Title */
+  $handler->display->display_options['sorts']['title']['id'] = 'title';
+  $handler->display->display_options['sorts']['title']['table'] = 'node';
+  $handler->display->display_options['sorts']['title']['field'] = 'title';
+  $handler->display->display_options['sorts']['title']['relationship'] = 'field_working_group_nid';
+  /* Sort criterion: User: Full name (field_name) */
+  $handler->display->display_options['sorts']['field_name_value']['id'] = 'field_name_value';
+  $handler->display->display_options['sorts']['field_name_value']['table'] = 'field_data_field_name';
+  $handler->display->display_options['sorts']['field_name_value']['field'] = 'field_name_value';
+  $handler->display->display_options['path'] = 'working-groups';
+
+  /* Display: Block: Members by working group */
+  $handler = $view->new_display('block', 'Block: Members by working group', 'block_wg_members');
+  $handler->display->display_options['defaults']['arguments'] = FALSE;
+  /* Contextual filter: Field: Working group (field_working_group) */
+  $handler->display->display_options['arguments']['field_working_group_nid']['id'] = 'field_working_group_nid';
+  $handler->display->display_options['arguments']['field_working_group_nid']['table'] = 'field_data_field_working_group';
+  $handler->display->display_options['arguments']['field_working_group_nid']['field'] = 'field_working_group_nid';
+  $handler->display->display_options['arguments']['field_working_group_nid']['default_action'] = 'default';
+  $handler->display->display_options['arguments']['field_working_group_nid']['default_argument_type'] = 'node';
+  $handler->display->display_options['arguments']['field_working_group_nid']['summary']['number_of_records'] = '0';
+  $handler->display->display_options['arguments']['field_working_group_nid']['summary']['format'] = 'default_summary';
+  $handler->display->display_options['arguments']['field_working_group_nid']['summary_options']['items_per_page'] = '25';
   $translatables['user_lists'] = array(
     t('Master'),
     t('Members'),
@@ -350,6 +443,13 @@ function hot_people_views_default_views() {
     t('Members by working group'),
     t('All'),
     t('Members of %1 working group'),
+    t('Page: Working groups'),
+    t('Working groups'),
+    t('working_group'),
+    t('</h3><h3>[title]</h3>
+<div>[body]</div>'),
+    t('<img src="/sites/default/themes/hot/images/avatar_30.png" />'),
+    t('Block: Members by working group'),
   );
   $export['user_lists'] = $view;
 

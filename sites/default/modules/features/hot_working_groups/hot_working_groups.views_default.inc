@@ -29,8 +29,18 @@ function hot_working_groups_views_default_views() {
   $handler->display->display_options['query']['type'] = 'views_query';
   $handler->display->display_options['exposed_form']['type'] = 'basic';
   $handler->display->display_options['pager']['type'] = 'none';
-  $handler->display->display_options['style_plugin'] = 'default';
-  $handler->display->display_options['row_plugin'] = 'node';
+  $handler->display->display_options['style_plugin'] = 'list';
+  $handler->display->display_options['row_plugin'] = 'fields';
+  /* Relationship: Content: Working group (field_working_group) - reverse (to User) */
+  $handler->display->display_options['relationships']['reverse_field_working_group_user']['id'] = 'reverse_field_working_group_user';
+  $handler->display->display_options['relationships']['reverse_field_working_group_user']['table'] = 'node';
+  $handler->display->display_options['relationships']['reverse_field_working_group_user']['field'] = 'reverse_field_working_group_user';
+  $handler->display->display_options['relationships']['reverse_field_working_group_user']['label'] = 'working_group';
+  /* Relationship: Content: Working group (field_working_group) - reverse (to Content) */
+  $handler->display->display_options['relationships']['reverse_field_working_group_node']['id'] = 'reverse_field_working_group_node';
+  $handler->display->display_options['relationships']['reverse_field_working_group_node']['table'] = 'node';
+  $handler->display->display_options['relationships']['reverse_field_working_group_node']['field'] = 'reverse_field_working_group_node';
+  $handler->display->display_options['relationships']['reverse_field_working_group_node']['label'] = 'working group';
   /* Field: Content: Title */
   $handler->display->display_options['fields']['title']['id'] = 'title';
   $handler->display->display_options['fields']['title']['table'] = 'node';
@@ -38,6 +48,24 @@ function hot_working_groups_views_default_views() {
   $handler->display->display_options['fields']['title']['label'] = '';
   $handler->display->display_options['fields']['title']['alter']['word_boundary'] = FALSE;
   $handler->display->display_options['fields']['title']['alter']['ellipsis'] = FALSE;
+  /* Field: Content: Body */
+  $handler->display->display_options['fields']['body']['id'] = 'body';
+  $handler->display->display_options['fields']['body']['table'] = 'field_data_body';
+  $handler->display->display_options['fields']['body']['field'] = 'body';
+  $handler->display->display_options['fields']['body']['label'] = '';
+  $handler->display->display_options['fields']['body']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['body']['type'] = 'text_summary_or_trimmed';
+  $handler->display->display_options['fields']['body']['settings'] = array(
+    'trim_length' => '600',
+  );
+  /* Field: User: Picture */
+  $handler->display->display_options['fields']['picture']['id'] = 'picture';
+  $handler->display->display_options['fields']['picture']['table'] = 'users';
+  $handler->display->display_options['fields']['picture']['field'] = 'picture';
+  $handler->display->display_options['fields']['picture']['relationship'] = 'reverse_field_working_group_user';
+  $handler->display->display_options['fields']['picture']['label'] = '';
+  $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['picture']['image_style'] = 'avatar';
   /* Filter criterion: Content: Published */
   $handler->display->display_options['filters']['status']['id'] = 'status';
   $handler->display->display_options['filters']['status']['table'] = 'node';
@@ -55,6 +83,7 @@ function hot_working_groups_views_default_views() {
 
   /* Display: WG list page */
   $handler = $view->new_display('page', 'WG list page', 'page');
+  $handler->display->display_options['enabled'] = FALSE;
   $handler->display->display_options['defaults']['sorts'] = FALSE;
   /* Sort criterion: Content: Title */
   $handler->display->display_options['sorts']['title']['id'] = 'title';
@@ -108,6 +137,8 @@ function hot_working_groups_views_default_views() {
     t('Sort by'),
     t('Asc'),
     t('Desc'),
+    t('working_group'),
+    t('working group'),
     t('WG list page'),
     t('WG Details block'),
     t('Links'),

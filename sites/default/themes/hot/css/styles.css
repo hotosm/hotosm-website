@@ -187,8 +187,8 @@ nav .menu li.leaf { list-style: none; display: inline; padding: 0px 0px 0px 15px
 .panel-display .view-jobs .views-row { margin-top: 10px; margin-bottom: 20px; }
 
 .view-id-user_lists ul { list-style-type: none; margin: 0; padding: 0; text-align: center; }
-.view-id-user_lists li { display: inline-block; height: 100px; margin: 0 1em 1em 0; position: relative; overflow: hidden; width: 100px; }
-.view-id-user_lists .view-content { width: 100%; margin-left: auto; margin-right: auto; text-align: center; }
+.view-id-user_lists li { display: inline-block; height: 100px; margin: 0 1em 1em 0; position: relative; overflow: hidden; text-align: center; width: 100px; }
+.view-id-user_lists .view-content { width: 100%; margin-left: auto; margin-right: auto; }
 .view-id-user_lists .view-content:after { content: ""; display: table; clear: both; }
 .view-id-user_lists .views-row { float: left; }
 .view-id-user_lists .views-row img { -webkit-transition: all 300ms; -moz-transition: all 300ms; transition: all 300ms; display: block; height: auto; max-width: 100%; }
@@ -197,3 +197,8 @@ nav .menu li.leaf { list-style: none; display: inline; padding: 0px 0px 0px 15px
 .view-id-user_lists .views-row span.text-content span .full-name { margin: 0; padding: 0; font-weight: bold; }
 .view-id-user_lists li.views-row:hover span.text-content { opacity: 1; }
 .view-id-user_lists li.views-row:hover img { max-width: 100%; -webkit-transform: scale(1.4); -moz-transform: scale(1.4); transform: scale(1.4); }
+
+.view-display-id-page_working_groups_with_members div { float: left; }
+.view-display-id-page_working_groups_with_members div img { padding-right: 10px; }
+.view-display-id-page_working_groups_with_members h3 { clear: both; margin-bottom: 0; }
+.view-display-id-page_working_groups_with_members .views-row-last { margin-bottom: 3em; }
