@@ -253,7 +253,8 @@ nav .menu {
 }
 
 /* Book navigation */
-#block-book-navigation {
+#block-book-navigation,
+.menu-block-hot_core-3 {
   h2 {
     font-size: 13px;
     padding: 0 0 8px 0;
@@ -277,6 +278,12 @@ nav .menu {
     color: #d40000;
     background-color: #f4f4f4;
   }
+}
+
+nav#block-menu-block-hot-core-3 {
+ .menu {
+   float: left;
+ }
 }
 
 

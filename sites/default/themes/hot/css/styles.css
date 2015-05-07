@@ -164,11 +164,13 @@ nav .menu li.leaf { list-style: none; display: inline; padding: 0px 0px 0px 15px
 #block-views-project-ol-map-block-1 .views-label { font-weight: bold; }
 
 /* Book navigation */
-#block-book-navigation h2 { font-size: 13px; padding: 0 0 8px 0; margin: 0; font-weight: normal; }
-#block-book-navigation ul { padding: 0; margin: 0; }
-#block-book-navigation ul li { list-style: none; padding-bottom: 8px; }
-#block-book-navigation a { padding: 4px; display: block; width: 100%; }
-#block-book-navigation a.active { color: #d40000; background-color: #f4f4f4; }
+#block-book-navigation h2, .menu-block-hot_core-3 h2 { font-size: 13px; padding: 0 0 8px 0; margin: 0; font-weight: normal; }
+#block-book-navigation ul, .menu-block-hot_core-3 ul { padding: 0; margin: 0; }
+#block-book-navigation ul li, .menu-block-hot_core-3 ul li { list-style: none; padding-bottom: 8px; }
+#block-book-navigation a, .menu-block-hot_core-3 a { padding: 4px; display: block; width: 100%; }
+#block-book-navigation a.active, .menu-block-hot_core-3 a.active { color: #d40000; background-color: #f4f4f4; }
+
+nav#block-menu-block-hot-core-3 .menu { float: left; }
 
 /* Attachments */
 .field--name-upload { margin: 30px 0; display: block; width: 100%; }
