@@ -199,6 +199,31 @@ nav .menu {
   }
 }
 
+
+.view-display-id-updates_all_page {
+
+  h3 {
+    font-size:1.5em;
+    margin-bottom: 0.8em;
+  }
+  .views-row {
+    clear: both;
+    margin-bottom: 5em;
+    .views-field {
+      margin-bottom: 0.8em;
+    }
+  }
+  .views-field-field-images {
+    float: right;
+    img {
+      padding-left: 25px;
+      margin-bottom: 5em;
+    }
+  }
+
+}
+
+
 .block__title .feed-icon {
   padding-left: 10px;
 }

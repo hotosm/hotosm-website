@@ -145,6 +145,12 @@ nav .menu li.leaf { list-style: none; display: inline; padding: 0px 0px 0px 15px
 /* Updates web log block */
 #block-views-updates-updates-all-block .more-link { text-align: center; font-size: 16px; padding: 2px 6px; margin-top: 15px; }
 
+.view-display-id-updates_all_page h3 { font-size: 1.5em; margin-bottom: 0.8em; }
+.view-display-id-updates_all_page .views-row { clear: both; margin-bottom: 5em; }
+.view-display-id-updates_all_page .views-row .views-field { margin-bottom: 0.8em; }
+.view-display-id-updates_all_page .views-field-field-images { float: right; }
+.view-display-id-updates_all_page .views-field-field-images img { padding-left: 25px; margin-bottom: 5em; }
+
 .block__title .feed-icon { padding-left: 10px; }
 
 /* Contact links block */
