@@ -51,9 +51,9 @@ body.sidebar-present .l-content {
   font-family: Arial, sans-serif;
   font-size: 11px;
   font-weight: bold;
-  background: #de1743;
+  background: #d40000;
   .l-footer {
-    background: url('../images/hot_footer.jpg') no-repeat 0 50px;
+    background: url('../images/hot_footer.png') no-repeat 0 50px;
     padding: 20px 0;
     a {
       color: #fff;
@@ -92,18 +92,18 @@ body.sidebar-present .l-content {
       float: left;
     }
     a {
-      background: #ad1636;
+      background: #f90000;
       border-radius: 5px;
       -moz-border-radius: 5px;
       -webkit-border-radius: 5px;
       padding: 10px 20px 8px 20px;
-      border-bottom: 2px solid #a30f30;
+      border-bottom: 2px solid #a40000;
       display: block;
       margin-top: 12px;
     }
 
     a:hover {
-      background: #850822;
+      background: #a40000;
       border-color: #470513;
     }
   }
