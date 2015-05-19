@@ -5,3 +5,12 @@
  */
 
 include_once 'hot_people.features.inc';
+
+
+function hot_people_form_user_profile_form_alter(&$form, &$form_state) {
+
+  if (!user_access('Flag User entities as Board member')) {
+    $form['field_hot_leadership']['#type'] = 'hidden';
+  }
+
+}
