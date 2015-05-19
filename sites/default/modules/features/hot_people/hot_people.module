@@ -27,7 +27,7 @@ function hot_people_user_view($account, $view_mode, $langcode) {
   }
   if (!empty($account->field_twitter)) {
     $twitter_nick = $account->field_twitter[LANGUAGE_NONE][0]['value'];
-    $account->field_twitter[LANGUAGE_NONE][0]['safe_value'] = l('@' . $twitter_nick, 'https://twitter.com/' . $twitter_nick);
+    $account->field_twitter[LANGUAGE_NONE][0]['safe_value'] = l('Twitter', 'https://twitter.com/' . $twitter_nick);
   }
   if (!empty($account->field_osm_user_name)) {
     $osm_nick = $account->field_osm_user_name[LANGUAGE_NONE][0]['value'];
