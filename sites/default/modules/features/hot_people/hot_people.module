@@ -32,6 +32,5 @@ function hot_people_user_view($account, $view_mode, $langcode) {
   if (!empty($account->field_osm_user_name)) {
     $osm_nick = $account->field_osm_user_name[LANGUAGE_NONE][0]['value'];
     $account->field_osm_user_name[LANGUAGE_NONE][0]['safe_value'] = l($osm_nick, 'https://www.openstreetmap.org/user/' . $osm_nick);
-    dsm($account->field_osm_user_name[LANGUAGE_NONE][0]['value']);
   }
 }
