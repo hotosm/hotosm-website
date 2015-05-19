@@ -1,0 +1,151 @@
+<?php
+
+/**
+ * @file
+ *   The install and update code for the Views Send module.
+ *
+ * @ingroup views_send.
+ */
+
+/**
+ * Implements hook_schema().
+ */
+function views_send_schema() {
+  $schema['views_send_spool'] = array(
+    'description' => 'Table holds e-mails that are being send on cron.',
+    'fields' => array(
+      'eid' => array(
+        'description' => 'The primary identifier for an e-mail.',
+        'type' => 'serial',
+        'unsigned' => TRUE,
+        'not null' => TRUE),
+      'uid' => array(
+        'description' => 'The user that has sent the message.',
+        'type' => 'int',
+        'not null' => TRUE,
+        'unsigned' => TRUE,
+        'default' => 0),
+      'timestamp' => array(
+        'description' => 'The Unix timestamp when the message was added to spool.',
+        'type' => 'int',
+        'not null' => TRUE,
+        'unsigned' => TRUE,
+        'default' => 0),
+      'status' => array(
+        'description' => 'Status: 0 = pending; 1 = sent.',
+        'type' => 'int',
+        'size' => 'tiny',
+        'not null' => TRUE,
+        'unsigned' => TRUE,
+        'default' => 0),
+      'tentatives' => array(
+        'description' => 'How many times we tried to send this message.',
+        'type' => 'int',
+        'not null' => TRUE,
+        'unsigned' => TRUE,
+        'default' => 0),
+      'from_name' => array(
+        'description' => 'The real name of the sender.',
+        'type' => 'varchar',
+        'length' => 255,
+        'not null' => FALSE,
+        'default' => ''),
+      'from_mail' => array(
+        'description' => 'The sender e-mail address.',
+        'type' => 'varchar',
+        'length' => 255,
+        'not null' => TRUE,
+        'default' => ''),
+      'to_name' => array(
+        'description' => 'The real name of the recipient.',
+        'type' => 'varchar',
+        'length' => 255,
+        'not null' => FALSE,
+        'default' => ''),
+      'to_mail' => array(
+        'description' => 'The recipient e-mail address.',
+        'type' => 'varchar',
+        'length' => 255,
+        'not null' => TRUE,
+        'default' => ''),
+      'subject' => array(
+        'description' => 'The e-mail subject.',
+        'type' => 'varchar',
+        'length' => 255,
+        'not null' => TRUE,
+        'default' => ''),
+      'body' => array(
+        'description' => 'The e-mail body.',
+        'type' => 'text',
+        'not null' => TRUE,
+        'size' => 'big',),
+      'headers' => array(
+        'description' => 'The e-mail additional headers.',
+        'type' => 'text',
+        'not null' => TRUE,
+        'size' => 'big',),
+    ),
+    'indexes' => array(
+      'uid' => array('uid'),
+      'timestamp' => array('timestamp'),
+    ),
+    'primary key' => array('eid'),
+  );
+  return $schema;
+}
+
+/**
+ * Implements hook_uninstall().
+ */
+function views_send_uninstall() {
+  db_query("DELETE FROM {variable} WHERE name LIKE 'views_send_%'");
+  db_query("DELETE FROM {cache} WHERE cid LIKE 'variables%'");
+}
+
+/**
+ * Remove unused variables.
+ */
+function views_send_update_6001() {
+  variable_del('views_send_format');
+  variable_del('views_send_from_mail');
+  variable_del('views_send_from_name');
+  variable_del('views_send_headers');
+  variable_del('views_send_message');
+  variable_del('views_send_priority');
+  variable_del('views_send_receipt');
+  variable_del('views_send_remember');
+  variable_del('views_send_subject');
+  variable_del('views_send_tokens');
+  variable_del('views_send_to_mail');
+  variable_del('views_send_to_name');
+  return array();
+}
+
+/**
+ * Remove views_send_format variables.
+ */
+function views_send_update_6002() {
+  $ret = array();
+  $ret[] = update_sql("DELETE FROM {variable} WHERE name LIKE 'views_send_format_%'");
+  return $ret;
+}
+
+/**
+ * Backend structure is altered for implementing http://drupal.org/node/808058
+ */
+function views_send_update_6003() {
+  $ret = array();
+
+  // Get updated schema.
+  $schema = views_send_schema();
+
+  // Rename body field from 'message' to 'body'.
+  db_change_field($ret, 'views_send_spool', 'message', 'body', $schema['views_send_spool']['fields']['body']);
+
+  // Drop other fields that are obsolete after spooling.
+  db_drop_field($ret, 'views_send_spool', 'format');
+  db_drop_field($ret, 'views_send_spool', 'priority');
+  db_drop_field($ret, 'views_send_spool', 'receipt');
+
+  return $ret;
+}

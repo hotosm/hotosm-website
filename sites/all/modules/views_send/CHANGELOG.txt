@@ -1,0 +1,37 @@
+Views Send 7.x-1.1, 2014-06-21
+------------------------------
+#2225631 by hansfn: Using filter_fallback_format() instead of hard-coded value for message text format.
+#2258947 by hansfn: Call to a member function get_value() on a non-object.
+#2089409 by hansfn: Added support for Mandrill.
+
+Views Send 7.x-1.0, 2014-04-15
+------------------------------
+#2202769 by hansfn: Subject not displaying correctly
+#2122909 by hansfn: Unwanted conversion of quotes in fields used for recipient's e-mail and name
+#2023977 by hansfn: Views Send overrides Mail System module configuration
+#1963960 by hansfn: Add hooks.
+#1957442 by hansfn: Token replacement doesn't work for repeated field.
+#1939332 by hansfn: Token list doesn't update.
+#1937548 by hansfn: Use rendered fields.
+#1255194 by hansfn: Support multiple value email fields.
+#1051564 by hansfn: Support recipient & sender altering.
+#1894446 by hansfn: General token replacements doesn't work.
+#1571228 by hansfn: Fatal error when recipient's name not selected.
+#1497118 by hansfn: Queue processing with Batch API on D7.
+By hansfn: Improved Rules integration - email message exposed as tokens.
+#821530 by hansfn: Attachments to messages.
+#1210758 by Sanjo: Incorrect detection of PHP maximum execution time almost exceeded.
+#1513822 by hansfn: Rules integration.
+#1462126 by hansfn: Indicate which selected rows contain invalid e-mail addresses.
+#1477828 by bojanz: Stop relying on VBO, implement a custom Views Form handler instead.
+#1462118 by cbergmann, hansfn: Preview not working.
+#1454740 by hansfn: 'send mass mail' appears in VBO Operations drop-down even if not allowed.
+#1466638 by cbergmann: Always fetch the view from the context.
+#1468120 by cbergmann: views_send_debug has no effect.
+#1462118 by Ben Coleman, hansfn: Trim all email addresses.
+#1455820 by hansfn: Improve handling of formats
+#1451594 by hansfn: Make field support more robust for the recipient's name/e-mail
+#1449988 by hansfn: Fix token replacement for fields.
+#1411976 by julien66, hansfn: Added carbon copy (to sender).
+#1408756 by hansfn: Pass the selected views row(s) to the action.
+#1052040 by hansfn: Port to Drupal 7.
