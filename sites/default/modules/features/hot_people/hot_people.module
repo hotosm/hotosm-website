@@ -9,6 +9,9 @@ include_once 'hot_people.features.inc';
 
 function hot_people_form_user_profile_form_alter(&$form, &$form_state) {
 
+
+  dsm($form);
+
   if (!user_access('Flag User entities as Board member')) {
     $form['field_hot_leadership']['#type'] = 'hidden';
   }
@@ -18,4 +21,22 @@ function hot_people_form_user_profile_form_alter(&$form, &$form_state) {
   }
 
 
+}
+
+
+function hot_people_user_view($account, $view_mode, $langcode) {
+  dsm($account);
+  if (!empty($account->field_name)) {
+    drupal_set_title($account->field_name[$langcode][0]['value']);
+  }
+  if (!empty($account->field_twitter)) {
+    $twitter_nick = $account->field_twitter[LANGUAGE_NONE][0]['value'];
+    $account->field_twitter[LANGUAGE_NONE][0]['safe_value'] = l('@' . $twitter_nick, 'https://twitter.com/' . $twitter_nick);
+  }
+  dsm($account);
+  if (!empty($account->field_osm_user_name)) {
+    $osm_nick = $account->field_osm_user_name[LANGUAGE_NONE][0]['value'];
+    $account->field_osm_user_name[LANGUAGE_NONE][0]['safe_value'] = l($osm_nick, 'https://www.openstreetmap.org/user/' . $osm_nick);
+    dsm($account->field_osm_user_name[LANGUAGE_NONE][0]['value']);
+  }
 }

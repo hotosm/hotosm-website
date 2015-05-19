@@ -212,3 +212,5 @@ nav#block-menu-block-hot-core-3 .menu { float: left; }
 .view-display-id-page_working_groups_with_members div img { padding-right: 10px; }
 .view-display-id-page_working_groups_with_members h3 { clear: both; margin-bottom: 0; }
 .view-display-id-page_working_groups_with_members .views-row-last { margin-bottom: 3em; }
+
+.page-user .panel-display h2 { font-size: 1.1em; margin-bottom: 0; }
