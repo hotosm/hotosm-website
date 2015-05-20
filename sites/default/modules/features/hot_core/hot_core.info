@@ -6,7 +6,6 @@ version = 7.x-1.4
 project = hot_core
 dependencies[] = backup_migrate
 dependencies[] = block
-dependencies[] = book
 dependencies[] = comment
 dependencies[] = context
 dependencies[] = features
