@@ -1,7 +1,7 @@
 name = HOT Projects
 core = 7.x
 package = Features
-version = 7.x-2.6
+version = 7.x-2.7
 project = hot_project
 dependencies[] = context
 dependencies[] = date
@@ -55,6 +55,8 @@ features[image][] = project_landing
 features[image][] = project_page
 features[node][] = project
 features[openlayers_maps][] = project_map
+features[page_manager_handlers][] = node_view_panel_context
+features[page_manager_pages][] = projects
 features[taxonomy][] = project_type
 features[taxonomy][] = vocabulary_2
 features[user_permission][] = create project content

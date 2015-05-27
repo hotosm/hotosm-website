@@ -29,34 +29,9 @@ function hot_project_views_default_views() {
   $handler->display->display_options['exposed_form']['type'] = 'basic';
   $handler->display->display_options['pager']['type'] = 'some';
   $handler->display->display_options['pager']['options']['items_per_page'] = '1';
-  $handler->display->display_options['style_plugin'] = 'table';
-  $handler->display->display_options['style_options']['columns'] = array(
-    'draggableviews' => 'draggableviews',
-    'field_image' => 'field_image',
-    'title' => 'title',
-  );
-  $handler->display->display_options['style_options']['default'] = '-1';
-  $handler->display->display_options['style_options']['info'] = array(
-    'draggableviews' => array(
-      'align' => '',
-      'separator' => '',
-      'empty_column' => 0,
-    ),
-    'field_image' => array(
-      'sortable' => 0,
-      'default_sort_order' => 'asc',
-      'align' => '',
-      'separator' => '',
-      'empty_column' => 0,
-    ),
-    'title' => array(
-      'sortable' => 0,
-      'default_sort_order' => 'asc',
-      'align' => '',
-      'separator' => '',
-      'empty_column' => 0,
-    ),
-  );
+  $handler->display->display_options['style_plugin'] = 'grid';
+  $handler->display->display_options['style_options']['columns'] = '3';
+  $handler->display->display_options['row_plugin'] = 'fields';
   /* Field: Draggableviews: Content */
   $handler->display->display_options['fields']['draggableviews']['id'] = 'draggableviews';
   $handler->display->display_options['fields']['draggableviews']['table'] = 'node';
@@ -234,7 +209,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['body']['alter']['max_length'] = '200';
   $handler->display->display_options['fields']['body']['alter']['trim'] = TRUE;
   $handler->display->display_options['fields']['body']['element_label_colon'] = FALSE;
-  $handler->display->display_options['path'] = 'projects';
+  $handler->display->display_options['path'] = 'projects_old';
   $handler->display->display_options['menu']['type'] = 'normal';
   $handler->display->display_options['menu']['title'] = 'Projects';
   $handler->display->display_options['menu']['weight'] = '3';
@@ -321,6 +296,236 @@ function hot_project_views_default_views() {
   $handler->display->display_options['filters']['promote']['table'] = 'node';
   $handler->display->display_options['filters']['promote']['field'] = 'promote';
   $handler->display->display_options['filters']['promote']['value'] = '1';
+
+  /* Display: Ongoing projects pane */
+  $handler = $view->new_display('panel_pane', 'Ongoing projects pane', 'panel_pane_projects');
+  $handler->display->display_options['defaults']['pager'] = FALSE;
+  $handler->display->display_options['pager']['type'] = 'some';
+  $handler->display->display_options['pager']['options']['items_per_page'] = '0';
+  $handler->display->display_options['pager']['options']['offset'] = '0';
+  $handler->display->display_options['defaults']['fields'] = FALSE;
+  /* Field: Draggableviews: Content */
+  $handler->display->display_options['fields']['draggableviews']['id'] = 'draggableviews';
+  $handler->display->display_options['fields']['draggableviews']['table'] = 'node';
+  $handler->display->display_options['fields']['draggableviews']['field'] = 'draggableviews';
+  $handler->display->display_options['fields']['draggableviews']['label'] = '';
+  $handler->display->display_options['fields']['draggableviews']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['draggableviews']['element_default_classes'] = FALSE;
+  $handler->display->display_options['fields']['draggableviews']['hide_alter_empty'] = FALSE;
+  $handler->display->display_options['fields']['draggableviews']['draggableviews']['ajax'] = 1;
+  /* Field: Content: Project Image */
+  $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
+  $handler->display->display_options['fields']['field_image']['table'] = 'field_data_field_image';
+  $handler->display->display_options['fields']['field_image']['field'] = 'field_image';
+  $handler->display->display_options['fields']['field_image']['label'] = '';
+  $handler->display->display_options['fields']['field_image']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['field_image']['click_sort_column'] = 'fid';
+  $handler->display->display_options['fields']['field_image']['settings'] = array(
+    'image_style' => 'project_landing',
+    'image_link' => 'content',
+  );
+  /* Field: Content: Title */
+  $handler->display->display_options['fields']['title_field']['id'] = 'title_field';
+  $handler->display->display_options['fields']['title_field']['table'] = 'field_data_title_field';
+  $handler->display->display_options['fields']['title_field']['field'] = 'title_field';
+  $handler->display->display_options['fields']['title_field']['label'] = '';
+  $handler->display->display_options['fields']['title_field']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['title_field']['link_to_entity'] = 1;
+  /* Field: Content: Body */
+  $handler->display->display_options['fields']['body']['id'] = 'body';
+  $handler->display->display_options['fields']['body']['table'] = 'field_data_body';
+  $handler->display->display_options['fields']['body']['field'] = 'body';
+  $handler->display->display_options['fields']['body']['label'] = '';
+  $handler->display->display_options['fields']['body']['alter']['max_length'] = '500';
+  $handler->display->display_options['fields']['body']['alter']['trim'] = TRUE;
+  $handler->display->display_options['fields']['body']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['body']['settings'] = array(
+    'trim_length' => '300',
+  );
+  $handler->display->display_options['defaults']['arguments'] = FALSE;
+  /* Contextual filter: Content: Project type (field_project_type) */
+  $handler->display->display_options['arguments']['field_project_type_tid']['id'] = 'field_project_type_tid';
+  $handler->display->display_options['arguments']['field_project_type_tid']['table'] = 'field_data_field_project_type';
+  $handler->display->display_options['arguments']['field_project_type_tid']['field'] = 'field_project_type_tid';
+  $handler->display->display_options['arguments']['field_project_type_tid']['default_action'] = 'not found';
+  $handler->display->display_options['arguments']['field_project_type_tid']['default_argument_type'] = 'fixed';
+  $handler->display->display_options['arguments']['field_project_type_tid']['summary']['number_of_records'] = '0';
+  $handler->display->display_options['arguments']['field_project_type_tid']['summary']['format'] = 'default_summary';
+  $handler->display->display_options['arguments']['field_project_type_tid']['summary_options']['items_per_page'] = '25';
+  $handler->display->display_options['defaults']['filter_groups'] = FALSE;
+  $handler->display->display_options['filter_groups']['groups'] = array(
+    1 => 'AND',
+    2 => 'OR',
+  );
+  $handler->display->display_options['defaults']['filters'] = FALSE;
+  /* Filter criterion: Content: Published */
+  $handler->display->display_options['filters']['status']['id'] = 'status';
+  $handler->display->display_options['filters']['status']['table'] = 'node';
+  $handler->display->display_options['filters']['status']['field'] = 'status';
+  $handler->display->display_options['filters']['status']['value'] = 1;
+  $handler->display->display_options['filters']['status']['group'] = 1;
+  $handler->display->display_options['filters']['status']['expose']['operator'] = FALSE;
+  /* Filter criterion: Content: Type */
+  $handler->display->display_options['filters']['type']['id'] = 'type';
+  $handler->display->display_options['filters']['type']['table'] = 'node';
+  $handler->display->display_options['filters']['type']['field'] = 'type';
+  $handler->display->display_options['filters']['type']['value'] = array(
+    'project' => 'project',
+  );
+  $handler->display->display_options['filters']['type']['group'] = 1;
+  /* Filter criterion: Content: Timespan - end date (field_timespan:value2) */
+  $handler->display->display_options['filters']['field_timespan_value2']['id'] = 'field_timespan_value2';
+  $handler->display->display_options['filters']['field_timespan_value2']['table'] = 'field_data_field_timespan';
+  $handler->display->display_options['filters']['field_timespan_value2']['field'] = 'field_timespan_value2';
+  $handler->display->display_options['filters']['field_timespan_value2']['operator'] = '>=';
+  $handler->display->display_options['filters']['field_timespan_value2']['group'] = 2;
+  $handler->display->display_options['filters']['field_timespan_value2']['default_date'] = 'now';
+  /* Filter criterion: Content: Timespan (field_timespan:has_todate) */
+  $handler->display->display_options['filters']['field_timespan_has_todate']['id'] = 'field_timespan_has_todate';
+  $handler->display->display_options['filters']['field_timespan_has_todate']['table'] = 'field_data_field_timespan';
+  $handler->display->display_options['filters']['field_timespan_has_todate']['field'] = 'field_timespan_has_todate';
+  $handler->display->display_options['filters']['field_timespan_has_todate']['operator'] = '<=';
+  $handler->display->display_options['filters']['field_timespan_has_todate']['value']['value'] = '0';
+  $handler->display->display_options['filters']['field_timespan_has_todate']['group'] = 2;
+  /* Filter criterion: Content: Timespan -  start date (field_timespan) */
+  $handler->display->display_options['filters']['field_timespan_value']['id'] = 'field_timespan_value';
+  $handler->display->display_options['filters']['field_timespan_value']['table'] = 'field_data_field_timespan';
+  $handler->display->display_options['filters']['field_timespan_value']['field'] = 'field_timespan_value';
+  $handler->display->display_options['filters']['field_timespan_value']['operator'] = '<=';
+  $handler->display->display_options['filters']['field_timespan_value']['group'] = 1;
+  $handler->display->display_options['filters']['field_timespan_value']['default_date'] = 'now';
+  $handler->display->display_options['allow']['use_pager'] = 0;
+  $handler->display->display_options['allow']['items_per_page'] = 0;
+  $handler->display->display_options['allow']['offset'] = 0;
+  $handler->display->display_options['allow']['link_to_view'] = 0;
+  $handler->display->display_options['allow']['more_link'] = 0;
+  $handler->display->display_options['allow']['path_override'] = 0;
+  $handler->display->display_options['allow']['title_override'] = 'title_override';
+  $handler->display->display_options['allow']['exposed_form'] = 0;
+  $handler->display->display_options['allow']['fields_override'] = 0;
+  $handler->display->display_options['argument_input'] = array(
+    'field_project_type_tid' => array(
+      'type' => 'user',
+      'context' => 'entity:comment.author',
+      'context_optional' => 0,
+      'panel' => '0',
+      'fixed' => '',
+      'label' => 'Content: Project type (field_project_type)',
+    ),
+  );
+
+  /* Display: Past projects pane */
+  $handler = $view->new_display('panel_pane', 'Past projects pane', 'panel_pane_projects_old');
+  $handler->display->display_options['defaults']['pager'] = FALSE;
+  $handler->display->display_options['pager']['type'] = 'some';
+  $handler->display->display_options['pager']['options']['items_per_page'] = '0';
+  $handler->display->display_options['pager']['options']['offset'] = '0';
+  $handler->display->display_options['defaults']['fields'] = FALSE;
+  /* Field: Draggableviews: Content */
+  $handler->display->display_options['fields']['draggableviews']['id'] = 'draggableviews';
+  $handler->display->display_options['fields']['draggableviews']['table'] = 'node';
+  $handler->display->display_options['fields']['draggableviews']['field'] = 'draggableviews';
+  $handler->display->display_options['fields']['draggableviews']['label'] = '';
+  $handler->display->display_options['fields']['draggableviews']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['draggableviews']['element_default_classes'] = FALSE;
+  $handler->display->display_options['fields']['draggableviews']['hide_alter_empty'] = FALSE;
+  $handler->display->display_options['fields']['draggableviews']['draggableviews']['ajax'] = 1;
+  /* Field: Content: Project Image */
+  $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
+  $handler->display->display_options['fields']['field_image']['table'] = 'field_data_field_image';
+  $handler->display->display_options['fields']['field_image']['field'] = 'field_image';
+  $handler->display->display_options['fields']['field_image']['label'] = '';
+  $handler->display->display_options['fields']['field_image']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['field_image']['click_sort_column'] = 'fid';
+  $handler->display->display_options['fields']['field_image']['settings'] = array(
+    'image_style' => 'project_landing',
+    'image_link' => 'content',
+  );
+  /* Field: Content: Title */
+  $handler->display->display_options['fields']['title_field']['id'] = 'title_field';
+  $handler->display->display_options['fields']['title_field']['table'] = 'field_data_title_field';
+  $handler->display->display_options['fields']['title_field']['field'] = 'title_field';
+  $handler->display->display_options['fields']['title_field']['label'] = '';
+  $handler->display->display_options['fields']['title_field']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['title_field']['link_to_entity'] = 1;
+  /* Field: Content: Body */
+  $handler->display->display_options['fields']['body']['id'] = 'body';
+  $handler->display->display_options['fields']['body']['table'] = 'field_data_body';
+  $handler->display->display_options['fields']['body']['field'] = 'body';
+  $handler->display->display_options['fields']['body']['label'] = '';
+  $handler->display->display_options['fields']['body']['alter']['max_length'] = '500';
+  $handler->display->display_options['fields']['body']['alter']['trim'] = TRUE;
+  $handler->display->display_options['fields']['body']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['body']['settings'] = array(
+    'trim_length' => '300',
+  );
+  $handler->display->display_options['defaults']['arguments'] = FALSE;
+  /* Contextual filter: Content: Project type (field_project_type) */
+  $handler->display->display_options['arguments']['field_project_type_tid']['id'] = 'field_project_type_tid';
+  $handler->display->display_options['arguments']['field_project_type_tid']['table'] = 'field_data_field_project_type';
+  $handler->display->display_options['arguments']['field_project_type_tid']['field'] = 'field_project_type_tid';
+  $handler->display->display_options['arguments']['field_project_type_tid']['default_action'] = 'not found';
+  $handler->display->display_options['arguments']['field_project_type_tid']['default_argument_type'] = 'fixed';
+  $handler->display->display_options['arguments']['field_project_type_tid']['summary']['number_of_records'] = '0';
+  $handler->display->display_options['arguments']['field_project_type_tid']['summary']['format'] = 'default_summary';
+  $handler->display->display_options['arguments']['field_project_type_tid']['summary_options']['items_per_page'] = '25';
+  $handler->display->display_options['defaults']['filter_groups'] = FALSE;
+  $handler->display->display_options['defaults']['filters'] = FALSE;
+  /* Filter criterion: Content: Published */
+  $handler->display->display_options['filters']['status']['id'] = 'status';
+  $handler->display->display_options['filters']['status']['table'] = 'node';
+  $handler->display->display_options['filters']['status']['field'] = 'status';
+  $handler->display->display_options['filters']['status']['value'] = 1;
+  $handler->display->display_options['filters']['status']['group'] = 1;
+  $handler->display->display_options['filters']['status']['expose']['operator'] = FALSE;
+  /* Filter criterion: Content: Type */
+  $handler->display->display_options['filters']['type']['id'] = 'type';
+  $handler->display->display_options['filters']['type']['table'] = 'node';
+  $handler->display->display_options['filters']['type']['field'] = 'type';
+  $handler->display->display_options['filters']['type']['value'] = array(
+    'project' => 'project',
+  );
+  $handler->display->display_options['filters']['type']['group'] = 1;
+  /* Filter criterion: Content: Timespan -  start date (field_timespan) */
+  $handler->display->display_options['filters']['field_timespan_value']['id'] = 'field_timespan_value';
+  $handler->display->display_options['filters']['field_timespan_value']['table'] = 'field_data_field_timespan';
+  $handler->display->display_options['filters']['field_timespan_value']['field'] = 'field_timespan_value';
+  $handler->display->display_options['filters']['field_timespan_value']['operator'] = '<=';
+  $handler->display->display_options['filters']['field_timespan_value']['group'] = 1;
+  $handler->display->display_options['filters']['field_timespan_value']['default_date'] = 'now';
+  /* Filter criterion: Content: Timespan (field_timespan:has_todate) */
+  $handler->display->display_options['filters']['field_timespan_has_todate']['id'] = 'field_timespan_has_todate';
+  $handler->display->display_options['filters']['field_timespan_has_todate']['table'] = 'field_data_field_timespan';
+  $handler->display->display_options['filters']['field_timespan_has_todate']['field'] = 'field_timespan_has_todate';
+  $handler->display->display_options['filters']['field_timespan_has_todate']['operator'] = '>=';
+  $handler->display->display_options['filters']['field_timespan_has_todate']['value']['value'] = '1';
+  $handler->display->display_options['filters']['field_timespan_has_todate']['group'] = 1;
+  /* Filter criterion: Content: Timespan - end date (field_timespan:value2) */
+  $handler->display->display_options['filters']['field_timespan_value2']['id'] = 'field_timespan_value2';
+  $handler->display->display_options['filters']['field_timespan_value2']['table'] = 'field_data_field_timespan';
+  $handler->display->display_options['filters']['field_timespan_value2']['field'] = 'field_timespan_value2';
+  $handler->display->display_options['filters']['field_timespan_value2']['operator'] = '<';
+  $handler->display->display_options['filters']['field_timespan_value2']['group'] = 1;
+  $handler->display->display_options['filters']['field_timespan_value2']['default_date'] = 'now';
+  $handler->display->display_options['allow']['use_pager'] = 0;
+  $handler->display->display_options['allow']['items_per_page'] = 0;
+  $handler->display->display_options['allow']['offset'] = 0;
+  $handler->display->display_options['allow']['link_to_view'] = 0;
+  $handler->display->display_options['allow']['more_link'] = 0;
+  $handler->display->display_options['allow']['path_override'] = 0;
+  $handler->display->display_options['allow']['title_override'] = 'title_override';
+  $handler->display->display_options['allow']['exposed_form'] = 0;
+  $handler->display->display_options['allow']['fields_override'] = 0;
+  $handler->display->display_options['argument_input'] = array(
+    'field_project_type_tid' => array(
+      'type' => 'user',
+      'context' => 'entity:comment.author',
+      'context_optional' => 0,
+      'panel' => '0',
+      'fixed' => '',
+      'label' => 'Content: Project type (field_project_type)',
+    ),
+  );
   $translatables['project'] = array(
     t('Master'),
     t('more'),
@@ -344,6 +549,10 @@ function hot_project_views_default_views() {
     t('Projects'),
     t('Featured Project Block'),
     t('flag'),
+    t('Ongoing projects pane'),
+    t('All'),
+    t('View panes'),
+    t('Past projects pane'),
   );
   $export['project'] = $view;
 

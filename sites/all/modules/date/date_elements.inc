@@ -506,11 +506,16 @@ function date_combo_validate($element, &$form_state) {
     }
   }
 
-  // If the user chose the option to not show the end date, just swap in the
-  // start date as that value so the start and end dates are the same.
-  if ($field['settings']['todate'] == 'optional' && empty($item['show_todate'])) {
-    $item[$to_field] = $item[$from_field];
-    $posted[$to_field] = $posted[$from_field];
+  if ($field['settings']['todate'] == 'optional') {
+    $item['has_todate'] = 1;
+
+    // If the user chose the option to not show the end date, just swap in the
+    // start date as that value so the start and end dates are the same.
+    if (empty($item['show_todate'])) {
+      $item[$to_field] = $item[$from_field];
+      $posted[$to_field] = $posted[$from_field];
+      $item['has_todate'] = 0;
+    }
   }
 
   if ($empty) {
