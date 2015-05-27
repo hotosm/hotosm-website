@@ -678,6 +678,25 @@ function hot_people_default_page_manager_pages() {
     $pane->uuid = '0d2b885f-6bb8-4064-b964-aa7a99f04dd4';
     $display->content['new-0d2b885f-6bb8-4064-b964-aa7a99f04dd4'] = $pane;
     $display->panels['center'][3] = 'new-0d2b885f-6bb8-4064-b964-aa7a99f04dd4';
+    $pane = new stdClass();
+    $pane->pid = 'new-98644e03-6120-49f5-ac5e-cec4a30bf643';
+    $pane->panel = 'center';
+    $pane->type = 'views_panes';
+    $pane->subtype = 'staff_contractors-panel_pane_volunteer_leads';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array();
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 4;
+    $pane->locks = array();
+    $pane->uuid = '98644e03-6120-49f5-ac5e-cec4a30bf643';
+    $display->content['new-98644e03-6120-49f5-ac5e-cec4a30bf643'] = $pane;
+    $display->panels['center'][4] = 'new-98644e03-6120-49f5-ac5e-cec4a30bf643';
   $display->hide_title = PANELS_TITLE_FIXED;
   $display->title_pane = '0';
   $handler->conf['display'] = $display;

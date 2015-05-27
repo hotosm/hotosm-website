@@ -219,6 +219,7 @@ function hot_people_views_default_views() {
 
   /* Display: Master */
   $handler = $view->new_display('default', 'Master', 'default');
+  $handler->display->display_options['title'] = 'Volunteer leads';
   $handler->display->display_options['use_more_always'] = FALSE;
   $handler->display->display_options['access']['type'] = 'role';
   $handler->display->display_options['access']['role'] = array(
@@ -298,8 +299,8 @@ function hot_people_views_default_views() {
   $handler->display->display_options['filters']['status']['group'] = 1;
   $handler->display->display_options['filters']['status']['expose']['operator'] = FALSE;
 
-  /* Display: Content pane */
-  $handler = $view->new_display('panel_pane', 'Content pane', 'panel_pane_staff');
+  /* Display: Staff & contractors */
+  $handler = $view->new_display('panel_pane', 'Staff & contractors', 'panel_pane_staff');
   $handler->display->display_options['allow']['use_pager'] = 0;
   $handler->display->display_options['allow']['items_per_page'] = 0;
   $handler->display->display_options['allow']['offset'] = 0;
@@ -319,8 +320,57 @@ function hot_people_views_default_views() {
       'label' => 'User: HOT staff type (field_hot_staff_type)',
     ),
   );
+
+  /* Display: Volunteer leads */
+  $handler = $view->new_display('panel_pane', 'Volunteer leads', 'panel_pane_volunteer_leads');
+  $handler->display->display_options['defaults']['relationships'] = FALSE;
+  /* Relationship: Flags: volunteer_lead */
+  $handler->display->display_options['relationships']['flag_content_rel']['id'] = 'flag_content_rel';
+  $handler->display->display_options['relationships']['flag_content_rel']['table'] = 'users';
+  $handler->display->display_options['relationships']['flag_content_rel']['field'] = 'flag_content_rel';
+  $handler->display->display_options['relationships']['flag_content_rel']['flag'] = 'volunteer_lead';
+  $handler->display->display_options['defaults']['fields'] = FALSE;
+  /* Field: User: Picture */
+  $handler->display->display_options['fields']['picture']['id'] = 'picture';
+  $handler->display->display_options['fields']['picture']['table'] = 'users';
+  $handler->display->display_options['fields']['picture']['field'] = 'picture';
+  $handler->display->display_options['fields']['picture']['label'] = '';
+  $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['picture']['image_style'] = 'medium_square';
+  /* Field: User: Full name */
+  $handler->display->display_options['fields']['field_name']['id'] = 'field_name';
+  $handler->display->display_options['fields']['field_name']['table'] = 'field_data_field_name';
+  $handler->display->display_options['fields']['field_name']['field'] = 'field_name';
+  $handler->display->display_options['fields']['field_name']['label'] = '';
+  $handler->display->display_options['fields']['field_name']['exclude'] = TRUE;
+  $handler->display->display_options['fields']['field_name']['element_label_colon'] = FALSE;
+  /* Field: User: Uid */
+  $handler->display->display_options['fields']['uid']['id'] = 'uid';
+  $handler->display->display_options['fields']['uid']['table'] = 'users';
+  $handler->display->display_options['fields']['uid']['field'] = 'uid';
+  $handler->display->display_options['fields']['uid']['label'] = '';
+  $handler->display->display_options['fields']['uid']['alter']['alter_text'] = TRUE;
+  $handler->display->display_options['fields']['uid']['alter']['text'] = '[field_name]';
+  $handler->display->display_options['fields']['uid']['element_label_colon'] = FALSE;
+  /* Field: User: Volunteer lead role */
+  $handler->display->display_options['fields']['field_volunteer_lead_role']['id'] = 'field_volunteer_lead_role';
+  $handler->display->display_options['fields']['field_volunteer_lead_role']['table'] = 'field_data_field_volunteer_lead_role';
+  $handler->display->display_options['fields']['field_volunteer_lead_role']['field'] = 'field_volunteer_lead_role';
+  $handler->display->display_options['fields']['field_volunteer_lead_role']['label'] = '';
+  $handler->display->display_options['fields']['field_volunteer_lead_role']['element_label_colon'] = FALSE;
+  /* Field: Draggableviews: User */
+  $handler->display->display_options['fields']['draggableviews']['id'] = 'draggableviews';
+  $handler->display->display_options['fields']['draggableviews']['table'] = 'users';
+  $handler->display->display_options['fields']['draggableviews']['field'] = 'draggableviews';
+  $handler->display->display_options['fields']['draggableviews']['label'] = '';
+  $handler->display->display_options['fields']['draggableviews']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['draggableviews']['element_default_classes'] = FALSE;
+  $handler->display->display_options['fields']['draggableviews']['hide_alter_empty'] = FALSE;
+  $handler->display->display_options['fields']['draggableviews']['draggableviews']['ajax'] = 0;
+  $handler->display->display_options['defaults']['arguments'] = FALSE;
   $translatables['staff_contractors'] = array(
     t('Master'),
+    t('Volunteer leads'),
     t('more'),
     t('Apply'),
     t('Reset'),
@@ -330,7 +380,7 @@ function hot_people_views_default_views() {
     t('flag'),
     t('[field_name]'),
     t('All'),
-    t('Content pane'),
+    t('Staff & contractors'),
     t('View panes'),
   );
   $export['staff_contractors'] = $view;
