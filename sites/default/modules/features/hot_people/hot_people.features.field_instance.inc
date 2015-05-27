@@ -402,7 +402,7 @@ function hot_people_field_default_field_instances() {
       'module' => 'options',
       'settings' => array(),
       'type' => 'options_buttons',
-      'weight' => 14,
+      'weight' => 15,
     ),
   );
 
@@ -447,6 +447,41 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
+  // Exported field_instance: 'user-user-field_volunteer_lead_role'
+  $field_instances['user-user-field_volunteer_lead_role'] = array(
+    'bundle' => 'user',
+    'default_value' => NULL,
+    'deleted' => 0,
+    'description' => '',
+    'display' => array(
+      'default' => array(
+        'label' => 'above',
+        'module' => 'text',
+        'settings' => array(),
+        'type' => 'text_default',
+        'weight' => 20,
+      ),
+    ),
+    'entity_type' => 'user',
+    'field_name' => 'field_volunteer_lead_role',
+    'label' => 'Volunteer lead role',
+    'required' => 0,
+    'settings' => array(
+      'entity_translation_sync' => FALSE,
+      'text_processing' => 0,
+      'user_register_form' => 0,
+    ),
+    'widget' => array(
+      'active' => 1,
+      'module' => 'text',
+      'settings' => array(
+        'size' => 60,
+      ),
+      'type' => 'text_textfield',
+      'weight' => 12,
+    ),
+  );
+
   // Exported field_instance: 'user-user-field_working_group'
   $field_instances['user-user-field_working_group'] = array(
     'bundle' => 'user',
@@ -474,7 +509,7 @@ function hot_people_field_default_field_instances() {
       'module' => 'options',
       'settings' => array(),
       'type' => 'options_buttons',
-      'weight' => 12,
+      'weight' => 13,
     ),
   );
 
@@ -509,7 +544,7 @@ function hot_people_field_default_field_instances() {
         'size' => 60,
       ),
       'type' => 'text_textfield',
-      'weight' => 13,
+      'weight' => 14,
     ),
   );
 
@@ -529,6 +564,7 @@ function hot_people_field_default_field_instances() {
   t('Please just use the Twitter username without any @ on the beginning.');
   t('Projects');
   t('Twitter handle');
+  t('Volunteer lead role');
   t('Working group');
   t('Working group role');
 
