@@ -189,7 +189,10 @@ function hot_project_default_page_manager_pages() {
   $page->admin_title = 'Projects';
   $page->admin_description = '';
   $page->path = 'projects';
-  $page->access = array();
+  $page->access = array(
+    'type' => 'none',
+    'settings' => NULL,
+  );
   $page->menu = array();
   $page->arguments = array();
   $page->conf = array(
@@ -383,7 +386,7 @@ function hot_project_default_page_manager_pages() {
     ),
   );
   $display->cache = array();
-  $display->title = 'Ongoing projects';
+  $display->title = 'Archived projects';
   $display->uuid = '28326a7b-0c15-4b9a-80d7-cc2875f936d2';
   $display->content = array();
   $display->panels = array();
