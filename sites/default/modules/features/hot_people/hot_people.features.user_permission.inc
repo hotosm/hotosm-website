@@ -40,15 +40,6 @@ function hot_people_user_default_permissions() {
     'module' => 'flag',
   );
 
-  // Exported permission: 'flag executive_director'.
-  $permissions['flag executive_director'] = array(
-    'name' => 'flag executive_director',
-    'roles' => array(
-      'site admin' => 'site admin',
-    ),
-    'module' => 'flag',
-  );
-
   // Exported permission: 'flag voting_member'.
   $permissions['flag voting_member'] = array(
     'name' => 'flag voting_member',
@@ -61,15 +52,6 @@ function hot_people_user_default_permissions() {
   // Exported permission: 'unflag board_member'.
   $permissions['unflag board_member'] = array(
     'name' => 'unflag board_member',
-    'roles' => array(
-      'site admin' => 'site admin',
-    ),
-    'module' => 'flag',
-  );
-
-  // Exported permission: 'unflag executive_director'.
-  $permissions['unflag executive_director'] = array(
-    'name' => 'unflag executive_director',
     'roles' => array(
       'site admin' => 'site admin',
     ),

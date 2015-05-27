@@ -80,9 +80,9 @@ function hot_core_context_default_contexts() {
   $context->reactions = array(
     'block' => array(
       'blocks' => array(
-        'book-navigation' => array(
-          'module' => 'book',
-          'delta' => 'navigation',
+        'menu_block-hot_core-3' => array(
+          'module' => 'menu_block',
+          'delta' => 'hot_core-3',
           'region' => 'sidebar',
           'weight' => '-10',
         ),

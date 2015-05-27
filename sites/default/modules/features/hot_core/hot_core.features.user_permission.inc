@@ -123,16 +123,6 @@ function hot_core_user_default_permissions() {
     'module' => 'user',
   );
 
-  // Exported permission: 'add content to books'.
-  $permissions['add content to books'] = array(
-    'name' => 'add content to books',
-    'roles' => array(
-      'content editor' => 'content editor',
-      'site admin' => 'site admin',
-    ),
-    'module' => 'book',
-  );
-
   // Exported permission: 'administer actions'.
   $permissions['administer actions'] = array(
     'name' => 'administer actions',
@@ -145,16 +135,6 @@ function hot_core_user_default_permissions() {
     'name' => 'administer backup and migrate',
     'roles' => array(),
     'module' => 'backup_migrate',
-  );
-
-  // Exported permission: 'administer book outlines'.
-  $permissions['administer book outlines'] = array(
-    'name' => 'administer book outlines',
-    'roles' => array(
-      'content editor' => 'content editor',
-      'site admin' => 'site admin',
-    ),
-    'module' => 'book',
   );
 
   // Exported permission: 'administer comments'.
@@ -331,16 +311,6 @@ function hot_core_user_default_permissions() {
       'site admin' => 'site admin',
     ),
     'module' => 'node',
-  );
-
-  // Exported permission: 'create new books'.
-  $permissions['create new books'] = array(
-    'name' => 'create new books',
-    'roles' => array(
-      'content editor' => 'content editor',
-      'site admin' => 'site admin',
-    ),
-    'module' => 'book',
   );
 
   // Exported permission: 'create url aliases'.

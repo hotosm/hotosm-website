@@ -53,7 +53,7 @@ function hot_project_flag_default_flags() {
     'unflag_message' => 'Un-featured.',
     'unflag_denied_text' => '',
     'link_type' => 'toggle',
-    'weight' => 0,
+    'weight' => -6,
     'show_in_links' => array(
       'full' => 0,
       'teaser' => 0,

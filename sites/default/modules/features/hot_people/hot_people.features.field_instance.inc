@@ -47,7 +47,7 @@ function hot_people_field_default_field_instances() {
         'rows' => 5,
       ),
       'type' => 'text_textarea',
-      'weight' => 9,
+      'weight' => 3,
     ),
   );
 
@@ -83,6 +83,58 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
+  // Exported field_instance: 'user-user-field_facebook'
+  $field_instances['user-user-field_facebook'] = array(
+    'bundle' => 'user',
+    'default_value' => NULL,
+    'deleted' => 0,
+    'description' => 'Please fill in the complete link to your Facebook profile.',
+    'display' => array(
+      'default' => array(
+        'label' => 'above',
+        'module' => 'link',
+        'settings' => array(),
+        'type' => 'link_default',
+        'weight' => 17,
+      ),
+    ),
+    'entity_type' => 'user',
+    'field_name' => 'field_facebook',
+    'label' => 'Facebook',
+    'required' => 0,
+    'settings' => array(
+      'absolute_url' => 1,
+      'attributes' => array(
+        'class' => '',
+        'configurable_class' => 0,
+        'configurable_title' => 0,
+        'rel' => '',
+        'target' => '_blank',
+        'title' => '',
+      ),
+      'display' => array(
+        'url_cutoff' => 80,
+      ),
+      'enable_tokens' => 0,
+      'entity_translation_sync' => FALSE,
+      'rel_remove' => 'default',
+      'title' => 'value',
+      'title_label_use_field_label' => 0,
+      'title_maxlength' => 128,
+      'title_value' => 'Facebook profile',
+      'url' => 0,
+      'user_register_form' => 1,
+      'validate_url' => 1,
+    ),
+    'widget' => array(
+      'active' => 0,
+      'module' => 'link',
+      'settings' => array(),
+      'type' => 'link_field',
+      'weight' => 6,
+    ),
+  );
+
   // Exported field_instance: 'user-user-field_hot_leadership'
   $field_instances['user-user-field_hot_leadership'] = array(
     'bundle' => 'user',
@@ -111,7 +163,126 @@ function hot_people_field_default_field_instances() {
       'module' => 'options',
       'settings' => array(),
       'type' => 'options_select',
-      'weight' => 6,
+      'weight' => 9,
+    ),
+  );
+
+  // Exported field_instance: 'user-user-field_hot_staff_position'
+  $field_instances['user-user-field_hot_staff_position'] = array(
+    'bundle' => 'user',
+    'default_value' => NULL,
+    'deleted' => 0,
+    'description' => '',
+    'display' => array(
+      'default' => array(
+        'label' => 'above',
+        'module' => 'text',
+        'settings' => array(),
+        'type' => 'text_default',
+        'weight' => 16,
+      ),
+    ),
+    'entity_type' => 'user',
+    'field_name' => 'field_hot_staff_position',
+    'label' => 'HOT staff position',
+    'required' => 0,
+    'settings' => array(
+      'entity_translation_sync' => FALSE,
+      'text_processing' => 0,
+      'user_register_form' => 0,
+    ),
+    'widget' => array(
+      'active' => 1,
+      'module' => 'text',
+      'settings' => array(
+        'size' => 60,
+      ),
+      'type' => 'text_textfield',
+      'weight' => 11,
+    ),
+  );
+
+  // Exported field_instance: 'user-user-field_hot_staff_type'
+  $field_instances['user-user-field_hot_staff_type'] = array(
+    'bundle' => 'user',
+    'default_value' => NULL,
+    'deleted' => 0,
+    'description' => '',
+    'display' => array(
+      'default' => array(
+        'label' => 'above',
+        'module' => 'taxonomy',
+        'settings' => array(),
+        'type' => 'taxonomy_term_reference_link',
+        'weight' => 19,
+      ),
+    ),
+    'entity_type' => 'user',
+    'field_name' => 'field_hot_staff_type',
+    'label' => 'HOT staff type',
+    'required' => 0,
+    'settings' => array(
+      'entity_translation_sync' => FALSE,
+      'user_register_form' => 0,
+    ),
+    'widget' => array(
+      'active' => 1,
+      'module' => 'options',
+      'settings' => array(),
+      'type' => 'options_select',
+      'weight' => 10,
+    ),
+  );
+
+  // Exported field_instance: 'user-user-field_linkedin'
+  $field_instances['user-user-field_linkedin'] = array(
+    'bundle' => 'user',
+    'default_value' => NULL,
+    'deleted' => 0,
+    'description' => 'Please fill in the complete link to your LinkedIn profile.',
+    'display' => array(
+      'default' => array(
+        'label' => 'above',
+        'module' => 'link',
+        'settings' => array(),
+        'type' => 'link_default',
+        'weight' => 18,
+      ),
+    ),
+    'entity_type' => 'user',
+    'field_name' => 'field_linkedin',
+    'label' => 'LinkedIn',
+    'required' => 0,
+    'settings' => array(
+      'absolute_url' => 1,
+      'attributes' => array(
+        'class' => '',
+        'configurable_class' => 0,
+        'configurable_title' => 0,
+        'rel' => '',
+        'target' => '_blank',
+        'title' => '',
+      ),
+      'display' => array(
+        'url_cutoff' => 80,
+      ),
+      'enable_tokens' => 0,
+      'entity_translation_sync' => FALSE,
+      'rel_remove' => 'default',
+      'title' => 'value',
+      'title_label_use_field_label' => 0,
+      'title_maxlength' => 128,
+      'title_value' => 'LinkedIn',
+      'url' => 0,
+      'user_register_form' => 1,
+      'validate_url' => 1,
+    ),
+    'widget' => array(
+      'active' => 0,
+      'module' => 'link',
+      'settings' => array(),
+      'type' => 'link_field',
+      'weight' => 7,
     ),
   );
 
@@ -231,7 +402,7 @@ function hot_people_field_default_field_instances() {
       'module' => 'options',
       'settings' => array(),
       'type' => 'options_buttons',
-      'weight' => 10,
+      'weight' => 14,
     ),
   );
 
@@ -240,7 +411,7 @@ function hot_people_field_default_field_instances() {
     'bundle' => 'user',
     'default_value' => NULL,
     'deleted' => 0,
-    'description' => '',
+    'description' => 'Please just use the Twitter username without any @ on the beginning.',
     'display' => array(
       'default' => array(
         'label' => 'inline',
@@ -272,7 +443,7 @@ function hot_people_field_default_field_instances() {
         'size' => 60,
       ),
       'type' => 'text_textfield',
-      'weight' => 3,
+      'weight' => 5,
     ),
   );
 
@@ -303,7 +474,7 @@ function hot_people_field_default_field_instances() {
       'module' => 'options',
       'settings' => array(),
       'type' => 'options_buttons',
-      'weight' => 7,
+      'weight' => 12,
     ),
   );
 
@@ -338,7 +509,7 @@ function hot_people_field_default_field_instances() {
         'size' => 60,
       ),
       'type' => 'text_textfield',
-      'weight' => 8,
+      'weight' => 13,
     ),
   );
 
@@ -346,9 +517,16 @@ function hot_people_field_default_field_instances() {
   // Included for use with string extractors like potx.
   t('Bio');
   t('Country');
+  t('Facebook');
   t('Full name');
   t('HOT Board function');
+  t('HOT staff position');
+  t('HOT staff type');
+  t('LinkedIn');
   t('OSM user name');
+  t('Please fill in the complete link to your Facebook profile.');
+  t('Please fill in the complete link to your LinkedIn profile.');
+  t('Please just use the Twitter username without any @ on the beginning.');
   t('Projects');
   t('Twitter handle');
   t('Working group');

@@ -24,10 +24,7 @@ function hot_people_views_default_views() {
   $handler = $view->new_display('default', 'Master', 'default');
   $handler->display->display_options['title'] = 'Our board';
   $handler->display->display_options['use_more_always'] = FALSE;
-  $handler->display->display_options['access']['type'] = 'role';
-  $handler->display->display_options['access']['role'] = array(
-    2 => '2',
-  );
+  $handler->display->display_options['access']['type'] = 'none';
   $handler->display->display_options['cache']['type'] = 'none';
   $handler->display->display_options['query']['type'] = 'views_query';
   $handler->display->display_options['exposed_form']['type'] = 'basic';
@@ -143,12 +140,6 @@ function hot_people_views_default_views() {
   $handler->display->display_options['defaults']['title'] = FALSE;
   $handler->display->display_options['title'] = 'Executive director';
   $handler->display->display_options['defaults']['relationships'] = FALSE;
-  /* Relationship: Flags: executive_director */
-  $handler->display->display_options['relationships']['flag_content_rel']['id'] = 'flag_content_rel';
-  $handler->display->display_options['relationships']['flag_content_rel']['table'] = 'users';
-  $handler->display->display_options['relationships']['flag_content_rel']['field'] = 'flag_content_rel';
-  $handler->display->display_options['relationships']['flag_content_rel']['label'] = 'executive_director';
-  $handler->display->display_options['relationships']['flag_content_rel']['flag'] = 'executive_director';
   $handler->display->display_options['defaults']['fields'] = FALSE;
   /* Field: User: Picture */
   $handler->display->display_options['fields']['picture']['id'] = 'picture';
@@ -170,6 +161,33 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['field_bio']['field'] = 'field_bio';
   $handler->display->display_options['fields']['field_bio']['label'] = '';
   $handler->display->display_options['fields']['field_bio']['element_label_colon'] = FALSE;
+  $handler->display->display_options['defaults']['filter_groups'] = FALSE;
+  $handler->display->display_options['defaults']['filters'] = FALSE;
+  /* Filter criterion: User: Active */
+  $handler->display->display_options['filters']['status']['id'] = 'status';
+  $handler->display->display_options['filters']['status']['table'] = 'users';
+  $handler->display->display_options['filters']['status']['field'] = 'status';
+  $handler->display->display_options['filters']['status']['value'] = '1';
+  $handler->display->display_options['filters']['status']['group'] = 1;
+  $handler->display->display_options['filters']['status']['expose']['operator'] = FALSE;
+  /* Filter criterion: User: HOT staff type (field_hot_staff_type) */
+  $handler->display->display_options['filters']['field_hot_staff_type_tid']['id'] = 'field_hot_staff_type_tid';
+  $handler->display->display_options['filters']['field_hot_staff_type_tid']['table'] = 'field_data_field_hot_staff_type';
+  $handler->display->display_options['filters']['field_hot_staff_type_tid']['field'] = 'field_hot_staff_type_tid';
+  $handler->display->display_options['filters']['field_hot_staff_type_tid']['value'] = array(
+    0 => '221',
+  );
+  $handler->display->display_options['filters']['field_hot_staff_type_tid']['expose']['operator_id'] = 'field_hot_staff_type_tid_op';
+  $handler->display->display_options['filters']['field_hot_staff_type_tid']['expose']['label'] = 'HOT staff type (field_hot_staff_type)';
+  $handler->display->display_options['filters']['field_hot_staff_type_tid']['expose']['operator'] = 'field_hot_staff_type_tid_op';
+  $handler->display->display_options['filters']['field_hot_staff_type_tid']['expose']['identifier'] = 'field_hot_staff_type_tid';
+  $handler->display->display_options['filters']['field_hot_staff_type_tid']['expose']['remember_roles'] = array(
+    2 => '2',
+    1 => 0,
+    3 => 0,
+    4 => 0,
+  );
+  $handler->display->display_options['filters']['field_hot_staff_type_tid']['vocabulary'] = 'hot_staff';
   $translatables['leadership'] = array(
     t('Master'),
     t('Our board'),
@@ -185,8 +203,311 @@ function hot_people_views_default_views() {
     t('View panes'),
     t('Director pane'),
     t('Executive director'),
+    t('HOT staff type (field_hot_staff_type)'),
   );
   $export['leadership'] = $view;
+
+  $view = new view();
+  $view->name = 'user_admin';
+  $view->description = '';
+  $view->tag = 'default';
+  $view->base_table = 'users';
+  $view->human_name = 'User admin';
+  $view->core = 7;
+  $view->api_version = '3.0';
+  $view->disabled = FALSE; /* Edit this to true to make a default view disabled initially */
+
+  /* Display: Master */
+  $handler = $view->new_display('default', 'Master', 'default');
+  $handler->display->display_options['title'] = 'User admin';
+  $handler->display->display_options['use_more_always'] = FALSE;
+  $handler->display->display_options['access']['type'] = 'role';
+  $handler->display->display_options['access']['role'] = array(
+    4 => '4',
+    3 => '3',
+  );
+  $handler->display->display_options['cache']['type'] = 'none';
+  $handler->display->display_options['query']['type'] = 'views_query';
+  $handler->display->display_options['exposed_form']['type'] = 'basic';
+  $handler->display->display_options['pager']['type'] = 'none';
+  $handler->display->display_options['style_plugin'] = 'table';
+  $handler->display->display_options['style_options']['columns'] = array(
+    'counter' => 'counter',
+    'picture' => 'picture',
+    'name' => 'name',
+    'field_name' => 'field_name',
+    'field_country' => 'field_country',
+    'rid' => 'rid',
+    'flagged' => 'flagged',
+    'flagged_1' => 'flagged_1',
+  );
+  $handler->display->display_options['style_options']['default'] = '-1';
+  $handler->display->display_options['style_options']['info'] = array(
+    'counter' => array(
+      'align' => '',
+      'separator' => '',
+      'empty_column' => 0,
+    ),
+    'picture' => array(
+      'sortable' => 1,
+      'default_sort_order' => 'asc',
+      'align' => '',
+      'separator' => '',
+      'empty_column' => 0,
+    ),
+    'name' => array(
+      'sortable' => 1,
+      'default_sort_order' => 'asc',
+      'align' => '',
+      'separator' => '',
+      'empty_column' => 0,
+    ),
+    'field_name' => array(
+      'sortable' => 1,
+      'default_sort_order' => 'asc',
+      'align' => '',
+      'separator' => '',
+      'empty_column' => 0,
+    ),
+    'field_country' => array(
+      'sortable' => 1,
+      'default_sort_order' => 'asc',
+      'align' => '',
+      'separator' => '',
+      'empty_column' => 0,
+    ),
+    'rid' => array(
+      'align' => '',
+      'separator' => '',
+      'empty_column' => 0,
+    ),
+    'flagged' => array(
+      'align' => '',
+      'separator' => '',
+      'empty_column' => 0,
+    ),
+    'flagged_1' => array(
+      'align' => '',
+      'separator' => '',
+      'empty_column' => 0,
+    ),
+  );
+  /* Relationship: Flags: voting_member */
+  $handler->display->display_options['relationships']['flag_content_rel']['id'] = 'flag_content_rel';
+  $handler->display->display_options['relationships']['flag_content_rel']['table'] = 'users';
+  $handler->display->display_options['relationships']['flag_content_rel']['field'] = 'flag_content_rel';
+  $handler->display->display_options['relationships']['flag_content_rel']['label'] = 'voting-member-flag`';
+  $handler->display->display_options['relationships']['flag_content_rel']['required'] = 0;
+  $handler->display->display_options['relationships']['flag_content_rel']['flag'] = 'voting_member';
+  /* Relationship: Flags: staff */
+  $handler->display->display_options['relationships']['flag_content_rel_1']['id'] = 'flag_content_rel_1';
+  $handler->display->display_options['relationships']['flag_content_rel_1']['table'] = 'users';
+  $handler->display->display_options['relationships']['flag_content_rel_1']['field'] = 'flag_content_rel';
+  $handler->display->display_options['relationships']['flag_content_rel_1']['label'] = 'staff-flag';
+  $handler->display->display_options['relationships']['flag_content_rel_1']['required'] = 0;
+  $handler->display->display_options['relationships']['flag_content_rel_1']['flag'] = 'staff';
+  /* Field: Global: View result counter */
+  $handler->display->display_options['fields']['counter']['id'] = 'counter';
+  $handler->display->display_options['fields']['counter']['table'] = 'views';
+  $handler->display->display_options['fields']['counter']['field'] = 'counter';
+  $handler->display->display_options['fields']['counter']['label'] = '';
+  $handler->display->display_options['fields']['counter']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['counter']['counter_start'] = '1';
+  $handler->display->display_options['fields']['counter']['reverse'] = 0;
+  /* Field: User: Picture */
+  $handler->display->display_options['fields']['picture']['id'] = 'picture';
+  $handler->display->display_options['fields']['picture']['table'] = 'users';
+  $handler->display->display_options['fields']['picture']['field'] = 'picture';
+  $handler->display->display_options['fields']['picture']['label'] = 'Avatar';
+  $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['picture']['link_photo_to_profile'] = FALSE;
+  $handler->display->display_options['fields']['picture']['image_style'] = 'mini_project_image';
+  /* Field: User: Name */
+  $handler->display->display_options['fields']['name']['id'] = 'name';
+  $handler->display->display_options['fields']['name']['table'] = 'users';
+  $handler->display->display_options['fields']['name']['field'] = 'name';
+  $handler->display->display_options['fields']['name']['label'] = '';
+  $handler->display->display_options['fields']['name']['exclude'] = TRUE;
+  $handler->display->display_options['fields']['name']['alter']['word_boundary'] = FALSE;
+  $handler->display->display_options['fields']['name']['alter']['ellipsis'] = FALSE;
+  $handler->display->display_options['fields']['name']['element_label_colon'] = FALSE;
+  /* Field: User: Full name */
+  $handler->display->display_options['fields']['field_name']['id'] = 'field_name';
+  $handler->display->display_options['fields']['field_name']['table'] = 'field_data_field_name';
+  $handler->display->display_options['fields']['field_name']['field'] = 'field_name';
+  $handler->display->display_options['fields']['field_name']['label'] = 'Name';
+  $handler->display->display_options['fields']['field_name']['alter']['alter_text'] = TRUE;
+  $handler->display->display_options['fields']['field_name']['alter']['text'] = '[field_name] ([name])';
+  $handler->display->display_options['fields']['field_name']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['field_name']['empty'] = 'Missing full name ([name])';
+  $handler->display->display_options['fields']['field_name']['hide_alter_empty'] = FALSE;
+  /* Field: User: Country */
+  $handler->display->display_options['fields']['field_country']['id'] = 'field_country';
+  $handler->display->display_options['fields']['field_country']['table'] = 'field_data_field_country';
+  $handler->display->display_options['fields']['field_country']['field'] = 'field_country';
+  $handler->display->display_options['fields']['field_country']['element_label_colon'] = FALSE;
+  /* Field: User: Roles */
+  $handler->display->display_options['fields']['rid']['id'] = 'rid';
+  $handler->display->display_options['fields']['rid']['table'] = 'users_roles';
+  $handler->display->display_options['fields']['rid']['field'] = 'rid';
+  $handler->display->display_options['fields']['rid']['element_label_colon'] = FALSE;
+  /* Field: Flags: Flagged */
+  $handler->display->display_options['fields']['flagged']['id'] = 'flagged';
+  $handler->display->display_options['fields']['flagged']['table'] = 'flagging';
+  $handler->display->display_options['fields']['flagged']['field'] = 'flagged';
+  $handler->display->display_options['fields']['flagged']['relationship'] = 'flag_content_rel';
+  $handler->display->display_options['fields']['flagged']['label'] = 'Voting member';
+  $handler->display->display_options['fields']['flagged']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['flagged']['not'] = 0;
+  /* Field: Flags: Flagged */
+  $handler->display->display_options['fields']['flagged_1']['id'] = 'flagged_1';
+  $handler->display->display_options['fields']['flagged_1']['table'] = 'flagging';
+  $handler->display->display_options['fields']['flagged_1']['field'] = 'flagged';
+  $handler->display->display_options['fields']['flagged_1']['relationship'] = 'flag_content_rel_1';
+  $handler->display->display_options['fields']['flagged_1']['label'] = 'Staff';
+  $handler->display->display_options['fields']['flagged_1']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['flagged_1']['not'] = 0;
+  /* Sort criterion: User: Full name (field_name) */
+  $handler->display->display_options['sorts']['field_name_value']['id'] = 'field_name_value';
+  $handler->display->display_options['sorts']['field_name_value']['table'] = 'field_data_field_name';
+  $handler->display->display_options['sorts']['field_name_value']['field'] = 'field_name_value';
+  /* Sort criterion: User: Name */
+  $handler->display->display_options['sorts']['name']['id'] = 'name';
+  $handler->display->display_options['sorts']['name']['table'] = 'users';
+  $handler->display->display_options['sorts']['name']['field'] = 'name';
+  /* Filter criterion: User: Active */
+  $handler->display->display_options['filters']['status']['id'] = 'status';
+  $handler->display->display_options['filters']['status']['table'] = 'users';
+  $handler->display->display_options['filters']['status']['field'] = 'status';
+  $handler->display->display_options['filters']['status']['value'] = '1';
+  $handler->display->display_options['filters']['status']['group'] = 1;
+  $handler->display->display_options['filters']['status']['expose']['operator'] = FALSE;
+
+  /* Display: Users admin */
+  $handler = $view->new_display('page', 'Users admin', 'page');
+  $handler->display->display_options['path'] = 'admin/hot-users';
+
+  /* Display: Mass contact */
+  $handler = $view->new_display('page', 'Mass contact', 'page_1');
+  $handler->display->display_options['defaults']['fields'] = FALSE;
+  /* Field: Global: View result counter */
+  $handler->display->display_options['fields']['counter']['id'] = 'counter';
+  $handler->display->display_options['fields']['counter']['table'] = 'views';
+  $handler->display->display_options['fields']['counter']['field'] = 'counter';
+  $handler->display->display_options['fields']['counter']['label'] = '';
+  $handler->display->display_options['fields']['counter']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['counter']['counter_start'] = '1';
+  $handler->display->display_options['fields']['counter']['reverse'] = 0;
+  /* Field: User: Name */
+  $handler->display->display_options['fields']['name']['id'] = 'name';
+  $handler->display->display_options['fields']['name']['table'] = 'users';
+  $handler->display->display_options['fields']['name']['field'] = 'name';
+  $handler->display->display_options['fields']['name']['label'] = '';
+  $handler->display->display_options['fields']['name']['exclude'] = TRUE;
+  $handler->display->display_options['fields']['name']['alter']['word_boundary'] = FALSE;
+  $handler->display->display_options['fields']['name']['alter']['ellipsis'] = FALSE;
+  $handler->display->display_options['fields']['name']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['name']['link_to_user'] = FALSE;
+  /* Field: User: Full name */
+  $handler->display->display_options['fields']['field_name']['id'] = 'field_name';
+  $handler->display->display_options['fields']['field_name']['table'] = 'field_data_field_name';
+  $handler->display->display_options['fields']['field_name']['field'] = 'field_name';
+  $handler->display->display_options['fields']['field_name']['label'] = 'Name';
+  $handler->display->display_options['fields']['field_name']['alter']['alter_text'] = TRUE;
+  $handler->display->display_options['fields']['field_name']['alter']['text'] = '[field_name] ([name])';
+  $handler->display->display_options['fields']['field_name']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['field_name']['empty'] = 'Missing full name ([name])';
+  $handler->display->display_options['fields']['field_name']['hide_alter_empty'] = FALSE;
+  /* Field: User: Link */
+  $handler->display->display_options['fields']['view_user']['id'] = 'view_user';
+  $handler->display->display_options['fields']['view_user']['table'] = 'users';
+  $handler->display->display_options['fields']['view_user']['field'] = 'view_user';
+  $handler->display->display_options['fields']['view_user']['label'] = 'Link to profile';
+  $handler->display->display_options['fields']['view_user']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['view_user']['text'] = 'profile';
+  /* Field: Flags: Flagged */
+  $handler->display->display_options['fields']['flagged']['id'] = 'flagged';
+  $handler->display->display_options['fields']['flagged']['table'] = 'flagging';
+  $handler->display->display_options['fields']['flagged']['field'] = 'flagged';
+  $handler->display->display_options['fields']['flagged']['relationship'] = 'flag_content_rel';
+  $handler->display->display_options['fields']['flagged']['label'] = 'Voting member';
+  $handler->display->display_options['fields']['flagged']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['flagged']['not'] = 0;
+  /* Field: Global: Send e-mail */
+  $handler->display->display_options['fields']['views_send']['id'] = 'views_send';
+  $handler->display->display_options['fields']['views_send']['table'] = 'views';
+  $handler->display->display_options['fields']['views_send']['field'] = 'views_send';
+  $handler->display->display_options['fields']['views_send']['label'] = 'Send mail';
+  $handler->display->display_options['fields']['views_send']['element_label_colon'] = FALSE;
+  /* Field: User: E-mail */
+  $handler->display->display_options['fields']['mail']['id'] = 'mail';
+  $handler->display->display_options['fields']['mail']['table'] = 'users';
+  $handler->display->display_options['fields']['mail']['field'] = 'mail';
+  $handler->display->display_options['fields']['mail']['label'] = '';
+  $handler->display->display_options['fields']['mail']['exclude'] = TRUE;
+  $handler->display->display_options['fields']['mail']['element_label_colon'] = FALSE;
+  /* Field: Global: Custom text */
+  $handler->display->display_options['fields']['nothing']['id'] = 'nothing';
+  $handler->display->display_options['fields']['nothing']['table'] = 'views';
+  $handler->display->display_options['fields']['nothing']['field'] = 'nothing';
+  $handler->display->display_options['fields']['nothing']['label'] = '';
+  $handler->display->display_options['fields']['nothing']['exclude'] = TRUE;
+  $handler->display->display_options['fields']['nothing']['alter']['text'] = 'website of the Humanitarian OpenStreetMap Team';
+  $handler->display->display_options['fields']['nothing']['alter']['make_link'] = TRUE;
+  $handler->display->display_options['fields']['nothing']['alter']['path'] = 'http://hotosm.org';
+  $handler->display->display_options['fields']['nothing']['alter']['absolute'] = TRUE;
+  $handler->display->display_options['fields']['nothing']['element_label_colon'] = FALSE;
+  /* Field: Global: Custom text */
+  $handler->display->display_options['fields']['nothing_1']['id'] = 'nothing_1';
+  $handler->display->display_options['fields']['nothing_1']['table'] = 'views';
+  $handler->display->display_options['fields']['nothing_1']['field'] = 'nothing';
+  $handler->display->display_options['fields']['nothing_1']['label'] = '';
+  $handler->display->display_options['fields']['nothing_1']['exclude'] = TRUE;
+  $handler->display->display_options['fields']['nothing_1']['alter']['text'] = 'me';
+  $handler->display->display_options['fields']['nothing_1']['alter']['make_link'] = TRUE;
+  $handler->display->display_options['fields']['nothing_1']['alter']['path'] = 'mailto:felix.delattre@hotosm.org';
+  $handler->display->display_options['fields']['nothing_1']['element_label_colon'] = FALSE;
+  /* Field: Global: Custom text */
+  $handler->display->display_options['fields']['nothing_2']['id'] = 'nothing_2';
+  $handler->display->display_options['fields']['nothing_2']['table'] = 'views';
+  $handler->display->display_options['fields']['nothing_2']['field'] = 'nothing';
+  $handler->display->display_options['fields']['nothing_2']['label'] = '';
+  $handler->display->display_options['fields']['nothing_2']['exclude'] = TRUE;
+  $handler->display->display_options['fields']['nothing_2']['alter']['text'] = 'user login';
+  $handler->display->display_options['fields']['nothing_2']['alter']['make_link'] = TRUE;
+  $handler->display->display_options['fields']['nothing_2']['alter']['path'] = 'http://hotosm.org/user';
+  $handler->display->display_options['fields']['nothing_2']['alter']['absolute'] = TRUE;
+  $handler->display->display_options['fields']['nothing_2']['element_label_colon'] = FALSE;
+  $handler->display->display_options['path'] = 'admin/mass-contact';
+  $translatables['user_admin'] = array(
+    t('Master'),
+    t('User admin'),
+    t('more'),
+    t('Apply'),
+    t('Reset'),
+    t('Sort by'),
+    t('Asc'),
+    t('Desc'),
+    t('voting-member-flag`'),
+    t('staff-flag'),
+    t('Avatar'),
+    t('Name'),
+    t('[field_name] ([name])'),
+    t('Missing full name ([name])'),
+    t('Country'),
+    t('Roles'),
+    t('Voting member'),
+    t('Staff'),
+    t('Users admin'),
+    t('Mass contact'),
+    t('Link to profile'),
+    t('profile'),
+    t('Send mail'),
+    t('website of the Humanitarian OpenStreetMap Team'),
+    t('me'),
+    t('user login'),
+  );
+  $export['user_admin'] = $view;
 
   $view = new view();
   $view->name = 'user_lists';

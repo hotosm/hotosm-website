@@ -37,6 +37,13 @@ function hot_jobs_views_default_views() {
   $handler->display->display_options['pager']['options']['items_per_page'] = '10';
   $handler->display->display_options['style_plugin'] = 'default';
   $handler->display->display_options['row_plugin'] = 'fields';
+  /* No results behavior: Global: Text area */
+  $handler->display->display_options['empty']['area']['id'] = 'area';
+  $handler->display->display_options['empty']['area']['table'] = 'views';
+  $handler->display->display_options['empty']['area']['field'] = 'area';
+  $handler->display->display_options['empty']['area']['empty'] = TRUE;
+  $handler->display->display_options['empty']['area']['content'] = 'Currently there are no open job offers.';
+  $handler->display->display_options['empty']['area']['format'] = '1';
   /* Field: Content: Title */
   $handler->display->display_options['fields']['title']['id'] = 'title';
   $handler->display->display_options['fields']['title']['table'] = 'node';
@@ -167,6 +174,7 @@ function hot_jobs_views_default_views() {
     t('‹ previous'),
     t('next ›'),
     t('last »'),
+    t('Currently there are no open job offers.'),
     t('Application deadline'),
     t('Place of work'),
     t('More information'),

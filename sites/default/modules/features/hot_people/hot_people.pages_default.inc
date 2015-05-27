@@ -5,6 +5,416 @@
  */
 
 /**
+ * Implements hook_default_page_manager_handlers().
+ */
+function hot_people_default_page_manager_handlers() {
+  $export = array();
+
+  $handler = new stdClass();
+  $handler->disabled = FALSE; /* Edit this to true to make a default handler disabled initially */
+  $handler->api_version = 1;
+  $handler->name = 'user_view__profile';
+  $handler->task = 'user_view';
+  $handler->subtask = '';
+  $handler->handler = 'panel_context';
+  $handler->weight = 0;
+  $handler->conf = array(
+    'title' => 'Profile',
+    'no_blocks' => 0,
+    'pipeline' => 'standard',
+    'body_classes_to_remove' => '',
+    'body_classes_to_add' => '',
+    'css_id' => '',
+    'css' => '',
+    'contexts' => array(),
+    'relationships' => array(),
+    'name' => 'profile',
+  );
+  $display = new panels_display();
+  $display->layout = 'twocol';
+  $display->layout_settings = array();
+  $display->panel_settings = array(
+    'style_settings' => array(
+      'default' => NULL,
+      'left' => NULL,
+      'right' => NULL,
+    ),
+  );
+  $display->cache = array();
+  $display->title = '';
+  $display->uuid = '7dbf6068-f071-4e82-b2e6-b324eadf9bdf';
+  $display->content = array();
+  $display->panels = array();
+    $pane = new stdClass();
+    $pane->pid = 'new-be8e5ca3-f0ab-4f1c-9fdc-660292a7b73b';
+    $pane->panel = 'left';
+    $pane->type = 'entity_field';
+    $pane->subtype = 'user:field_bio';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'label' => 'title',
+      'formatter' => 'text_default',
+      'delta_limit' => 0,
+      'delta_offset' => '0',
+      'delta_reversed' => FALSE,
+      'formatter_settings' => array(),
+      'context' => 'argument_entity_id:user_1',
+      'override_title' => 1,
+      'override_title_text' => '',
+      'override_title_heading' => 'h2',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 0;
+    $pane->locks = array();
+    $pane->uuid = 'be8e5ca3-f0ab-4f1c-9fdc-660292a7b73b';
+    $display->content['new-be8e5ca3-f0ab-4f1c-9fdc-660292a7b73b'] = $pane;
+    $display->panels['left'][0] = 'new-be8e5ca3-f0ab-4f1c-9fdc-660292a7b73b';
+    $pane = new stdClass();
+    $pane->pid = 'new-e5b3f5f0-c9ba-49e6-b047-cdd577d972e2';
+    $pane->panel = 'left';
+    $pane->type = 'entity_field';
+    $pane->subtype = 'user:field_working_group';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'label' => 'hidden',
+      'formatter' => 'node_reference_default',
+      'delta_limit' => '0',
+      'delta_offset' => '0',
+      'delta_reversed' => 0,
+      'formatter_settings' => array(),
+      'context' => 'argument_entity_id:user_1',
+      'override_title' => 1,
+      'override_title_text' => 'Active in working group(s)',
+      'override_title_heading' => 'h4',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 1;
+    $pane->locks = array();
+    $pane->uuid = 'e5b3f5f0-c9ba-49e6-b047-cdd577d972e2';
+    $display->content['new-e5b3f5f0-c9ba-49e6-b047-cdd577d972e2'] = $pane;
+    $display->panels['left'][1] = 'new-e5b3f5f0-c9ba-49e6-b047-cdd577d972e2';
+    $pane = new stdClass();
+    $pane->pid = 'new-2d0d906f-fed0-4048-b942-4f3c668674f0';
+    $pane->panel = 'left';
+    $pane->type = 'entity_field';
+    $pane->subtype = 'user:field_working_group_role';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'label' => 'title',
+      'formatter' => 'title_linked',
+      'delta_limit' => 0,
+      'delta_offset' => '0',
+      'delta_reversed' => FALSE,
+      'formatter_settings' => array(
+        'title_style' => '_none',
+        'title_link' => '',
+        'title_class' => '',
+      ),
+      'context' => 'argument_entity_id:user_1',
+      'override_title' => 0,
+      'override_title_text' => '',
+      'override_title_heading' => 'h2',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 2;
+    $pane->locks = array();
+    $pane->uuid = '2d0d906f-fed0-4048-b942-4f3c668674f0';
+    $display->content['new-2d0d906f-fed0-4048-b942-4f3c668674f0'] = $pane;
+    $display->panels['left'][2] = 'new-2d0d906f-fed0-4048-b942-4f3c668674f0';
+    $pane = new stdClass();
+    $pane->pid = 'new-06ea9ba0-e499-42d9-86c3-89b9104b1a64';
+    $pane->panel = 'left';
+    $pane->type = 'entity_field';
+    $pane->subtype = 'user:field_hot_leadership';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'label' => 'title',
+      'formatter' => 'taxonomy_term_reference_plain',
+      'delta_limit' => 0,
+      'delta_offset' => '0',
+      'delta_reversed' => FALSE,
+      'formatter_settings' => array(),
+      'context' => 'argument_entity_id:user_1',
+      'override_title' => 1,
+      'override_title_text' => 'Board function',
+      'override_title_heading' => 'h4',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 3;
+    $pane->locks = array();
+    $pane->uuid = '06ea9ba0-e499-42d9-86c3-89b9104b1a64';
+    $display->content['new-06ea9ba0-e499-42d9-86c3-89b9104b1a64'] = $pane;
+    $display->panels['left'][3] = 'new-06ea9ba0-e499-42d9-86c3-89b9104b1a64';
+    $pane = new stdClass();
+    $pane->pid = 'new-4f2aa2d6-3c7c-4feb-8753-7f493469997c';
+    $pane->panel = 'left';
+    $pane->type = 'entity_field';
+    $pane->subtype = 'user:field_projects';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'label' => 'title',
+      'formatter' => 'node_reference_default',
+      'delta_limit' => '0',
+      'delta_offset' => '0',
+      'delta_reversed' => 0,
+      'formatter_settings' => array(),
+      'context' => 'argument_entity_id:user_1',
+      'override_title' => 1,
+      'override_title_text' => 'Projects this user has participated',
+      'override_title_heading' => 'h4',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 4;
+    $pane->locks = array();
+    $pane->uuid = '4f2aa2d6-3c7c-4feb-8753-7f493469997c';
+    $display->content['new-4f2aa2d6-3c7c-4feb-8753-7f493469997c'] = $pane;
+    $display->panels['left'][4] = 'new-4f2aa2d6-3c7c-4feb-8753-7f493469997c';
+    $pane = new stdClass();
+    $pane->pid = 'new-26511b1d-32d1-4555-814a-763d621731d9';
+    $pane->panel = 'right';
+    $pane->type = 'user_picture';
+    $pane->subtype = 'user_picture';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'context' => 'argument_entity_id:user_1',
+      'override_title' => 1,
+      'override_title_text' => '',
+      'override_title_heading' => 'h2',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 0;
+    $pane->locks = array();
+    $pane->uuid = '26511b1d-32d1-4555-814a-763d621731d9';
+    $display->content['new-26511b1d-32d1-4555-814a-763d621731d9'] = $pane;
+    $display->panels['right'][0] = 'new-26511b1d-32d1-4555-814a-763d621731d9';
+    $pane = new stdClass();
+    $pane->pid = 'new-8857eb75-b0ee-45d7-8dd5-696cb965f65a';
+    $pane->panel = 'right';
+    $pane->type = 'entity_field';
+    $pane->subtype = 'user:field_country';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'label' => 'title',
+      'formatter' => 'country_default',
+      'delta_limit' => 0,
+      'delta_offset' => '0',
+      'delta_reversed' => FALSE,
+      'formatter_settings' => array(),
+      'context' => 'argument_entity_id:user_1',
+      'override_title' => 0,
+      'override_title_text' => '',
+      'override_title_heading' => 'h2',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 1;
+    $pane->locks = array();
+    $pane->uuid = '8857eb75-b0ee-45d7-8dd5-696cb965f65a';
+    $display->content['new-8857eb75-b0ee-45d7-8dd5-696cb965f65a'] = $pane;
+    $display->panels['right'][1] = 'new-8857eb75-b0ee-45d7-8dd5-696cb965f65a';
+    $pane = new stdClass();
+    $pane->pid = 'new-18113c42-6074-49b9-88f7-d1744b100b36';
+    $pane->panel = 'right';
+    $pane->type = 'entity_field';
+    $pane->subtype = 'user:field_osm_user_name';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'label' => 'title',
+      'formatter' => 'title_linked',
+      'delta_limit' => 0,
+      'delta_offset' => '0',
+      'delta_reversed' => FALSE,
+      'formatter_settings' => array(
+        'title_style' => '_none',
+        'title_link' => '',
+        'title_class' => '',
+      ),
+      'context' => 'argument_entity_id:user_1',
+      'override_title' => 1,
+      'override_title_text' => 'OSM username',
+      'override_title_heading' => 'h4',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 2;
+    $pane->locks = array();
+    $pane->uuid = '18113c42-6074-49b9-88f7-d1744b100b36';
+    $display->content['new-18113c42-6074-49b9-88f7-d1744b100b36'] = $pane;
+    $display->panels['right'][2] = 'new-18113c42-6074-49b9-88f7-d1744b100b36';
+    $pane = new stdClass();
+    $pane->pid = 'new-80b2539f-74b9-4b76-ac8b-80f56e4f0d1b';
+    $pane->panel = 'right';
+    $pane->type = 'custom';
+    $pane->subtype = 'custom';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'admin_title' => '',
+      'title' => '',
+      'body' => '<h2>Social media</h2>',
+      'format' => '1',
+      'substitute' => 1,
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 3;
+    $pane->locks = array();
+    $pane->uuid = '80b2539f-74b9-4b76-ac8b-80f56e4f0d1b';
+    $display->content['new-80b2539f-74b9-4b76-ac8b-80f56e4f0d1b'] = $pane;
+    $display->panels['right'][3] = 'new-80b2539f-74b9-4b76-ac8b-80f56e4f0d1b';
+    $pane = new stdClass();
+    $pane->pid = 'new-2d03a069-aa9a-4dcf-bfe3-3db70b54c7e6';
+    $pane->panel = 'right';
+    $pane->type = 'entity_field';
+    $pane->subtype = 'user:field_twitter';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'label' => 'hidden',
+      'formatter' => 'title_linked',
+      'delta_limit' => 0,
+      'delta_offset' => '0',
+      'delta_reversed' => FALSE,
+      'formatter_settings' => array(
+        'title_style' => '_none',
+        'title_link' => '',
+        'title_class' => '',
+      ),
+      'context' => 'argument_entity_id:user_1',
+      'override_title' => 0,
+      'override_title_text' => 'Twitter',
+      'override_title_heading' => 'h4',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 4;
+    $pane->locks = array();
+    $pane->uuid = '2d03a069-aa9a-4dcf-bfe3-3db70b54c7e6';
+    $display->content['new-2d03a069-aa9a-4dcf-bfe3-3db70b54c7e6'] = $pane;
+    $display->panels['right'][4] = 'new-2d03a069-aa9a-4dcf-bfe3-3db70b54c7e6';
+    $pane = new stdClass();
+    $pane->pid = 'new-4b4b8753-8b98-407e-8d6f-b2e41998e58b';
+    $pane->panel = 'right';
+    $pane->type = 'entity_field';
+    $pane->subtype = 'user:field_facebook';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'label' => 'hidden',
+      'formatter' => 'link_default',
+      'delta_limit' => 0,
+      'delta_offset' => '0',
+      'delta_reversed' => FALSE,
+      'formatter_settings' => array(),
+      'context' => 'argument_entity_id:user_1',
+      'override_title' => 1,
+      'override_title_text' => '',
+      'override_title_heading' => 'span',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 5;
+    $pane->locks = array();
+    $pane->uuid = '4b4b8753-8b98-407e-8d6f-b2e41998e58b';
+    $display->content['new-4b4b8753-8b98-407e-8d6f-b2e41998e58b'] = $pane;
+    $display->panels['right'][5] = 'new-4b4b8753-8b98-407e-8d6f-b2e41998e58b';
+    $pane = new stdClass();
+    $pane->pid = 'new-4f8902ec-b75e-41a8-b62a-aa56fe3c164a';
+    $pane->panel = 'right';
+    $pane->type = 'entity_field';
+    $pane->subtype = 'user:field_linkedin';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'label' => 'hidden',
+      'formatter' => 'link_default',
+      'delta_limit' => 0,
+      'delta_offset' => '0',
+      'delta_reversed' => FALSE,
+      'formatter_settings' => array(),
+      'context' => 'argument_entity_id:user_1',
+      'override_title' => 1,
+      'override_title_text' => '',
+      'override_title_heading' => 'h2',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 6;
+    $pane->locks = array();
+    $pane->uuid = '4f8902ec-b75e-41a8-b62a-aa56fe3c164a';
+    $display->content['new-4f8902ec-b75e-41a8-b62a-aa56fe3c164a'] = $pane;
+    $display->panels['right'][6] = 'new-4f8902ec-b75e-41a8-b62a-aa56fe3c164a';
+  $display->hide_title = PANELS_TITLE_FIXED;
+  $display->title_pane = 'new-be8e5ca3-f0ab-4f1c-9fdc-660292a7b73b';
+  $handler->conf['display'] = $display;
+  $export['user_view__profile'] = $handler;
+
+  return $export;
+}
+
+/**
  * Implements hook_default_page_manager_pages().
  */
 function hot_people_default_page_manager_pages() {
@@ -17,18 +427,7 @@ function hot_people_default_page_manager_pages() {
   $page->admin_description = '';
   $page->path = 'board';
   $page->access = array(
-    'plugins' => array(
-      0 => array(
-        'name' => 'role',
-        'settings' => array(
-          'rids' => array(
-            0 => 2,
-          ),
-        ),
-        'context' => 'logged-in-user',
-        'not' => FALSE,
-      ),
-    ),
+    'plugins' => array(),
     'logic' => 'and',
     'type' => 'none',
     'settings' => NULL,
@@ -180,18 +579,22 @@ function hot_people_default_page_manager_pages() {
   $display->content = array();
   $display->panels = array();
     $pane = new stdClass();
-    $pane->pid = 'new-3386041d-3e34-492e-879a-1ad570976997';
+    $pane->pid = 'new-108a5d46-9acd-4b4b-a861-9b5213524729';
     $pane->panel = 'middle';
-    $pane->type = 'custom';
-    $pane->subtype = 'custom';
+    $pane->type = 'node';
+    $pane->subtype = 'node';
     $pane->shown = TRUE;
     $pane->access = array();
     $pane->configuration = array(
-      'admin_title' => 'Member intro',
-      'title' => '',
-      'body' => '<p style="color: #333333; font-family: \'Open Sans\', Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px;">Anyone and everyone can get involved in HOT activities, and we have a wonderful community of people who do so, by helping with remote mapping initiatives and also things like technical development work and promotional work. You can all regard yourselves as part of the&nbsp;<a style="color: #d40000;" title="Humanitarian OpenStreetMap Team" href="http://wiki.openstreetmap.org/wiki/Humanitarian_OpenStreetMap_Team">Humanitarian OpenStreetMap Team</a>!</p><p style="color: #333333; font-family: \'Open Sans\', Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px;">We have a concept of "members" as part of the&nbsp;<a style="color: #d40000;" title="Humanitarian OSM Team/U.S. Articles of Incorporation" href="http://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/U.S._Articles_of_Incorporation">Humanitarian OSM Team/U.S. Articles of Incorporation</a>. HOT members are allowed to nominate new people to become members. Nominations take place periodically (not a constant rolling programme). HOT members can also stand for, and vote in&nbsp;<a style="color: #d40000;" title="Humanitarian OSM Team/Board Elections" href="http://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Board_Elections">Humanitarian OSM Team/Board Elections</a>. We can think of these people as a selected "core team". Many of them have been deployed in the field doing work for HOT.</p>',
-      'format' => '1',
-      'substitute' => TRUE,
+      'nid' => '187',
+      'links' => 0,
+      'leave_node_title' => 0,
+      'identifier' => '',
+      'build_mode' => 'teaser',
+      'link_node_title' => 0,
+      'override_title' => 1,
+      'override_title_text' => '',
+      'override_title_heading' => 'span',
     );
     $pane->cache = array();
     $pane->style = array(
@@ -201,9 +604,9 @@ function hot_people_default_page_manager_pages() {
     $pane->extras = array();
     $pane->position = 0;
     $pane->locks = array();
-    $pane->uuid = '3386041d-3e34-492e-879a-1ad570976997';
-    $display->content['new-3386041d-3e34-492e-879a-1ad570976997'] = $pane;
-    $display->panels['middle'][0] = 'new-3386041d-3e34-492e-879a-1ad570976997';
+    $pane->uuid = '108a5d46-9acd-4b4b-a861-9b5213524729';
+    $display->content['new-108a5d46-9acd-4b4b-a861-9b5213524729'] = $pane;
+    $display->panels['middle'][0] = 'new-108a5d46-9acd-4b4b-a861-9b5213524729';
     $pane = new stdClass();
     $pane->pid = 'new-ceb0423e-60b9-4131-98fe-7686875025ef';
     $pane->panel = 'middle';
@@ -228,18 +631,22 @@ function hot_people_default_page_manager_pages() {
     $display->content['new-ceb0423e-60b9-4131-98fe-7686875025ef'] = $pane;
     $display->panels['middle'][1] = 'new-ceb0423e-60b9-4131-98fe-7686875025ef';
     $pane = new stdClass();
-    $pane->pid = 'new-fe2dc7ad-ec5c-48e9-879b-154a38268d8b';
+    $pane->pid = 'new-5fbded7c-e788-4670-bbd1-d8be6cbcb347';
     $pane->panel = 'middle';
-    $pane->type = 'custom';
-    $pane->subtype = 'custom';
+    $pane->type = 'node';
+    $pane->subtype = 'node';
     $pane->shown = TRUE;
     $pane->access = array();
     $pane->configuration = array(
-      'admin_title' => 'Members text list',
-      'title' => '',
-      'body' => '<p style="color: #333333; font-family: \'Open Sans\', Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px;">This list has been updated to reflect official changes in voting membership in December 2012, January 2013, February 2014, February 2015 and April 2015.</p><ul style="color: #333333; font-family: \'Open Sans\', Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px;"><li>Aaron Cope</li><li><span data-sheets-value="[null,2,&quot;ALCE Samuel Paul&quot;]" data-sheets-userformat="[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]">ALCE Samuel Paul</span></li><li>Amadou Ndong</li><li>Andrew Buck</li><li>Andrew Turner</li><li>Augustin Doury</li><li>Awa Laye Dia</li><li><span data-sheets-value="[null,2,&quot;BAGNOUMANA Bazo FOFANA&quot;]" data-sheets-userformat="[null,null,12801,[null,0],null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">BAGNOUMANA Bazo FOFANA</span></li><li><span data-sheets-value="[null,2,&quot;Ben Abelshausen&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Ben Abelshausen</span></li><li>Besfort Guri</li><li><span data-sheets-value="[null,2,&quot;BOUKPESSI Bital\\u00e9&quot;]" data-sheets-userformat="[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]">BOUKPESSI Bitalé</span></li><li>Boris Mogwitz</li><li>Brian Wolford</li><li>Chris Blow</li><li>Claire Halleux</li><li>Dale Kunce</li><li><span data-sheets-value="[null,2,&quot;Dan Joseph&quot;]" data-sheets-userformat="[null,null,12801,[null,0],null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Dan Joseph</span></li><li>Dane Springmeyer</li><li><span data-sheets-value="[null,2,&quot;Delphine Bedu&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Delphine Bedu</span></li><li><span data-sheets-value="[null,2,&quot;Dra\\u017een Odoba\\u0161i\\u0107&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Dražen Odobašić</span></li><li>Emir Hartato</li><li>Eugene Usvitsky</li><li><span data-sheets-value="[null,2,&quot;Felix Delattre&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Felix Delattre</span></li><li><span data-sheets-value="[null,2,&quot;Francis Patrick Boon&quot;]" data-sheets-userformat="[null,null,12801,[null,0],null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Francis Patrick Boon</span></li><li>François-Xavier Lamure Tardieu</li><li>Frederic Bonifas</li><li>Frederic Moine</li><li><span data-sheets-value="[null,2,&quot;GIRAUD Pierre&quot;]" data-sheets-userformat="[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]">GIRAUD Pierre</span></li><li>Hameed Tasal</li><li>Harry Wood</li><li>Heather Leson</li><li>Humberto Yances</li><li><span data-sheets-value="[null,2,&quot;Ismaila SEYE&quot;]" data-sheets-userformat="[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]">Ismaila SEYE</span></li><li>Ivan Sanchez Ortega</li><li>Jaakko Helleranta</li><li><span data-sheets-value="[null,2,&quot;James Blake Girardot&quot;]" data-sheets-userformat="[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]">James Blake Girardot</span></li><li><span data-sheets-value="[null,2,&quot;Jean Marie MANCABOU&quot;]" data-sheets-userformat="[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]">Jean Marie MANCABOU</span></li><li>Jean-Guilhem Cailton</li><li>Jeff Haack</li><li>John Crowley</li><li>Jorieke Vyncke</li><li>Joseph Reeves</li><li>Julio Costa Zambelli</li><li>Kate Chapman</li><li>Katie Filbert</li><li>Leonard Doyle</li><li>Lisa Sweeney</li><li><span data-sheets-value="[null,2,&quot;Louino Robillard&quot;]" data-sheets-userformat="[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]">Louino Robillard</span></li><li>Mamadou bassirou THIAM</li><li><span data-sheets-value="[null,2,&quot;Maning Sambale&quot;]" data-sheets-userformat="[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]">Maning Sambale</span></li><li>Mikel Maron</li><li><span data-sheets-value="[null,2,&quot;Nama Raj Budhathoki&quot;]" data-sheets-userformat="[null,null,12801,[null,0],null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Nama Raj Budhathoki</span></li><li><span data-sheets-value="[null,2,&quot;Nicholas George Allen&quot;]" data-sheets-userformat="[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]">Nicholas George Allen</span></li><li>Nicolas Chavent</li><li><span data-sheets-value="[null,2,&quot;Nuala Cowan&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Nuala Cowan</span></li><li><span data-sheets-value="[null,2,&quot;Orsolya Jenei&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Orsolya Jenei</span></li><li><span data-sheets-value="[null,2,&quot;Pete Masters&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Pete Masters</span></li><li>Pierre Beland</li><li>Rafael Ávila Coya</li><li>Rob Baker</li><li>Robert Banick</li><li>Robert Soden</li><li>Roderick Bera</li><li>Russell Deffner</li><li>Sam Larsen</li><li><span data-sheets-value="[null,2,&quot;Satoshi IIDA&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Satoshi IIDA</span></li><li>Schuyler Erle</li><li>Sebastien Pierrel</li><li>Severin Menard</li><li><span data-sheets-value="[null,2,&quot;Shoaib Burq&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Shoaib Burq</span></li><li>Shu Higashi</li><li>Stéphane Henriod</li><li><span data-sheets-value="[null,2,&quot;T. Suha \\u00dclgen&quot;]" data-sheets-userformat="[null,null,12801,[null,0],null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">T. Suha Ülgen</span></li><li><span data-sheets-value="[null,2,&quot;Taichi Furuhashi&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Taichi Furuhashi</span></li><li>Tim McNamara</li><li>Tim Waters</li><li>Todd Huffman</li><li>Tom Buckley</li><li>Trevor Ellermann</li><li><span data-sheets-value="[null,2,&quot;Vasanthi Hargyono&quot;]" data-sheets-userformat="[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]">Vasanthi Hargyono</span></li><li><span data-sheets-value="[null,2,&quot;Vitor George&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Vitor George</span></li><li><span data-sheets-value="[null,2,&quot;Vivien Deparday&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Vivien Deparday</span></li><li>Will Skora</li><li><span data-sheets-value="[null,2,&quot;Yantisa Akhadi&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Yantisa Akhadi</span></li><li>Yohan Boniface</li><li><span data-sheets-value="[null,2,&quot;Zacharia Muindi&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Zacharia Muindi</span></li></ul><p style="color: #333333; font-family: \'Open Sans\', Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px;">Alumni</p><ul style="color: #333333; font-family: \'Open Sans\', Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20.0063037872314px;"><li>Anna Hodgkinson</li><li><span data-sheets-value="[null,2,&quot;Mark Cupitt&quot;]" data-sheets-userformat="[null,null,12800,null,null,null,null,null,null,null,null,null,0,null,null,&quot;arial,sans,sans-serif&quot;,10]">Mark Cupitt</span></li></ul>',
-      'format' => '1',
-      'substitute' => TRUE,
+      'nid' => '386',
+      'links' => 0,
+      'leave_node_title' => 0,
+      'identifier' => '',
+      'build_mode' => 'teaser',
+      'link_node_title' => 0,
+      'override_title' => 1,
+      'override_title_text' => '',
+      'override_title_heading' => 'span',
     );
     $pane->cache = array();
     $pane->style = array(
@@ -249,9 +656,9 @@ function hot_people_default_page_manager_pages() {
     $pane->extras = array();
     $pane->position = 2;
     $pane->locks = array();
-    $pane->uuid = 'fe2dc7ad-ec5c-48e9-879b-154a38268d8b';
-    $display->content['new-fe2dc7ad-ec5c-48e9-879b-154a38268d8b'] = $pane;
-    $display->panels['middle'][2] = 'new-fe2dc7ad-ec5c-48e9-879b-154a38268d8b';
+    $pane->uuid = '5fbded7c-e788-4670-bbd1-d8be6cbcb347';
+    $display->content['new-5fbded7c-e788-4670-bbd1-d8be6cbcb347'] = $pane;
+    $display->panels['middle'][2] = 'new-5fbded7c-e788-4670-bbd1-d8be6cbcb347';
   $display->hide_title = PANELS_TITLE_FIXED;
   $display->title_pane = '0';
   $handler->conf['display'] = $display;

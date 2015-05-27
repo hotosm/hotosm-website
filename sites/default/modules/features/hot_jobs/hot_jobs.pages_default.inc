@@ -16,7 +16,10 @@ function hot_jobs_default_page_manager_pages() {
   $page->admin_title = 'Job offers';
   $page->admin_description = '';
   $page->path = 'jobs';
-  $page->access = array();
+  $page->access = array(
+    'type' => 'none',
+    'settings' => NULL,
+  );
   $page->menu = array();
   $page->arguments = array();
   $page->conf = array(

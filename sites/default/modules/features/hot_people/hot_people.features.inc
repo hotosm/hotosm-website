@@ -48,7 +48,7 @@ function hot_people_flag_default_flags() {
     'unflag_message' => 'Not a board member',
     'unflag_denied_text' => '',
     'link_type' => 'toggle',
-    'weight' => 0,
+    'weight' => -9,
     'show_in_links' => array(
       'full' => 'full',
       'diff_standard' => 0,
@@ -98,6 +98,39 @@ function hot_people_flag_default_flags() {
       0 => 'name',
     ),
     'api_version' => 3,
+    'status' => FALSE,
+  );
+  // Exported flag: "Staff or contractor".
+  $flags['staff'] = array(
+    'entity_type' => 'user',
+    'title' => 'Staff or contractor',
+    'global' => 1,
+    'types' => array(),
+    'flag_short' => 'Flag as staff or contractor',
+    'flag_long' => 'This user is a HOT staff member or contractor',
+    'flag_message' => 'staff or contaractor',
+    'unflag_short' => 'Unflag as staff or contractor',
+    'unflag_long' => 'This user is not a staff member',
+    'unflag_message' => 'Not a staff member',
+    'unflag_denied_text' => '',
+    'link_type' => 'toggle',
+    'weight' => -8,
+    'show_in_links' => array(
+      'full' => 'full',
+      'diff_standard' => 0,
+      'token' => 0,
+    ),
+    'show_as_field' => 1,
+    'show_on_form' => 1,
+    'access_author' => '',
+    'show_contextual_link' => FALSE,
+    'show_on_profile' => 0,
+    'access_uid' => '',
+    'api_version' => 3,
+    'module' => 'hot_people',
+    'locked' => array(
+      0 => 'name',
+    ),
   );
   // Exported flag: "Voting member".
   $flags['voting_member'] = array(
@@ -113,7 +146,7 @@ function hot_people_flag_default_flags() {
     'unflag_message' => 'Not a voting member',
     'unflag_denied_text' => '',
     'link_type' => 'toggle',
-    'weight' => 0,
+    'weight' => -10,
     'show_in_links' => array(
       'full' => 'full',
       'diff_standard' => 0,
