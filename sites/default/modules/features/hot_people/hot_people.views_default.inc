@@ -208,6 +208,134 @@ function hot_people_views_default_views() {
   $export['leadership'] = $view;
 
   $view = new view();
+  $view->name = 'staff_contractors';
+  $view->description = '';
+  $view->tag = 'default';
+  $view->base_table = 'users';
+  $view->human_name = 'Staff & Contractors';
+  $view->core = 7;
+  $view->api_version = '3.0';
+  $view->disabled = FALSE; /* Edit this to true to make a default view disabled initially */
+
+  /* Display: Master */
+  $handler = $view->new_display('default', 'Master', 'default');
+  $handler->display->display_options['use_more_always'] = FALSE;
+  $handler->display->display_options['access']['type'] = 'role';
+  $handler->display->display_options['access']['role'] = array(
+    2 => '2',
+    4 => '4',
+    3 => '3',
+  );
+  $handler->display->display_options['cache']['type'] = 'none';
+  $handler->display->display_options['query']['type'] = 'views_query';
+  $handler->display->display_options['exposed_form']['type'] = 'basic';
+  $handler->display->display_options['pager']['type'] = 'none';
+  $handler->display->display_options['pager']['options']['offset'] = '0';
+  $handler->display->display_options['style_plugin'] = 'default';
+  $handler->display->display_options['row_plugin'] = 'fields';
+  /* Relationship: Flags: staff */
+  $handler->display->display_options['relationships']['flag_content_rel']['id'] = 'flag_content_rel';
+  $handler->display->display_options['relationships']['flag_content_rel']['table'] = 'users';
+  $handler->display->display_options['relationships']['flag_content_rel']['field'] = 'flag_content_rel';
+  $handler->display->display_options['relationships']['flag_content_rel']['flag'] = 'staff';
+  /* Field: User: Picture */
+  $handler->display->display_options['fields']['picture']['id'] = 'picture';
+  $handler->display->display_options['fields']['picture']['table'] = 'users';
+  $handler->display->display_options['fields']['picture']['field'] = 'picture';
+  $handler->display->display_options['fields']['picture']['label'] = '';
+  $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['picture']['image_style'] = 'medium_square';
+  /* Field: User: Full name */
+  $handler->display->display_options['fields']['field_name']['id'] = 'field_name';
+  $handler->display->display_options['fields']['field_name']['table'] = 'field_data_field_name';
+  $handler->display->display_options['fields']['field_name']['field'] = 'field_name';
+  $handler->display->display_options['fields']['field_name']['label'] = '';
+  $handler->display->display_options['fields']['field_name']['exclude'] = TRUE;
+  $handler->display->display_options['fields']['field_name']['element_label_colon'] = FALSE;
+  /* Field: User: Uid */
+  $handler->display->display_options['fields']['uid']['id'] = 'uid';
+  $handler->display->display_options['fields']['uid']['table'] = 'users';
+  $handler->display->display_options['fields']['uid']['field'] = 'uid';
+  $handler->display->display_options['fields']['uid']['label'] = '';
+  $handler->display->display_options['fields']['uid']['alter']['alter_text'] = TRUE;
+  $handler->display->display_options['fields']['uid']['alter']['text'] = '[field_name]';
+  $handler->display->display_options['fields']['uid']['element_label_colon'] = FALSE;
+  /* Field: User: HOT staff position */
+  $handler->display->display_options['fields']['field_hot_staff_position']['id'] = 'field_hot_staff_position';
+  $handler->display->display_options['fields']['field_hot_staff_position']['table'] = 'field_data_field_hot_staff_position';
+  $handler->display->display_options['fields']['field_hot_staff_position']['field'] = 'field_hot_staff_position';
+  $handler->display->display_options['fields']['field_hot_staff_position']['label'] = '';
+  $handler->display->display_options['fields']['field_hot_staff_position']['element_label_colon'] = FALSE;
+  /* Field: Draggableviews: User */
+  $handler->display->display_options['fields']['draggableviews']['id'] = 'draggableviews';
+  $handler->display->display_options['fields']['draggableviews']['table'] = 'users';
+  $handler->display->display_options['fields']['draggableviews']['field'] = 'draggableviews';
+  $handler->display->display_options['fields']['draggableviews']['label'] = '';
+  $handler->display->display_options['fields']['draggableviews']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['draggableviews']['element_default_classes'] = FALSE;
+  $handler->display->display_options['fields']['draggableviews']['hide_alter_empty'] = FALSE;
+  $handler->display->display_options['fields']['draggableviews']['draggableviews']['ajax'] = 0;
+  /* Sort criterion: Draggableviews: Weight */
+  $handler->display->display_options['sorts']['weight']['id'] = 'weight';
+  $handler->display->display_options['sorts']['weight']['table'] = 'draggableviews_structure';
+  $handler->display->display_options['sorts']['weight']['field'] = 'weight';
+  $handler->display->display_options['sorts']['weight']['draggableviews_setting_view'] = 'leadership:panel_pane_board';
+  $handler->display->display_options['sorts']['weight']['draggableviews_setting_new_items_bottom_list'] = 1;
+  /* Contextual filter: User: HOT staff type (field_hot_staff_type) */
+  $handler->display->display_options['arguments']['field_hot_staff_type_tid']['id'] = 'field_hot_staff_type_tid';
+  $handler->display->display_options['arguments']['field_hot_staff_type_tid']['table'] = 'field_data_field_hot_staff_type';
+  $handler->display->display_options['arguments']['field_hot_staff_type_tid']['field'] = 'field_hot_staff_type_tid';
+  $handler->display->display_options['arguments']['field_hot_staff_type_tid']['default_action'] = 'not found';
+  $handler->display->display_options['arguments']['field_hot_staff_type_tid']['default_argument_type'] = 'fixed';
+  $handler->display->display_options['arguments']['field_hot_staff_type_tid']['summary']['number_of_records'] = '0';
+  $handler->display->display_options['arguments']['field_hot_staff_type_tid']['summary']['format'] = 'default_summary';
+  $handler->display->display_options['arguments']['field_hot_staff_type_tid']['summary_options']['items_per_page'] = '25';
+  /* Filter criterion: User: Active */
+  $handler->display->display_options['filters']['status']['id'] = 'status';
+  $handler->display->display_options['filters']['status']['table'] = 'users';
+  $handler->display->display_options['filters']['status']['field'] = 'status';
+  $handler->display->display_options['filters']['status']['value'] = '1';
+  $handler->display->display_options['filters']['status']['group'] = 1;
+  $handler->display->display_options['filters']['status']['expose']['operator'] = FALSE;
+
+  /* Display: Content pane */
+  $handler = $view->new_display('panel_pane', 'Content pane', 'panel_pane_staff');
+  $handler->display->display_options['allow']['use_pager'] = 0;
+  $handler->display->display_options['allow']['items_per_page'] = 0;
+  $handler->display->display_options['allow']['offset'] = 0;
+  $handler->display->display_options['allow']['link_to_view'] = 0;
+  $handler->display->display_options['allow']['more_link'] = 0;
+  $handler->display->display_options['allow']['path_override'] = 0;
+  $handler->display->display_options['allow']['title_override'] = 'title_override';
+  $handler->display->display_options['allow']['exposed_form'] = 0;
+  $handler->display->display_options['allow']['fields_override'] = 0;
+  $handler->display->display_options['argument_input'] = array(
+    'field_hot_staff_type_tid' => array(
+      'type' => 'user',
+      'context' => 'entity:comment.author',
+      'context_optional' => 0,
+      'panel' => '0',
+      'fixed' => '',
+      'label' => 'User: HOT staff type (field_hot_staff_type)',
+    ),
+  );
+  $translatables['staff_contractors'] = array(
+    t('Master'),
+    t('more'),
+    t('Apply'),
+    t('Reset'),
+    t('Sort by'),
+    t('Asc'),
+    t('Desc'),
+    t('flag'),
+    t('[field_name]'),
+    t('All'),
+    t('Content pane'),
+    t('View panes'),
+  );
+  $export['staff_contractors'] = $view;
+
+  $view = new view();
   $view->name = 'user_admin';
   $view->description = '';
   $view->tag = 'default';

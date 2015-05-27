@@ -529,6 +529,164 @@ function hot_people_default_page_manager_pages() {
   $page = new stdClass();
   $page->disabled = FALSE; /* Edit this to true to make a default page disabled initially */
   $page->api_version = 1;
+  $page->name = 'staff_contractors';
+  $page->task = 'page';
+  $page->admin_title = 'Staff & Contractors';
+  $page->admin_description = '';
+  $page->path = 'staff';
+  $page->access = array();
+  $page->menu = array();
+  $page->arguments = array();
+  $page->conf = array(
+    'admin_paths' => FALSE,
+  );
+  $page->default_handlers = array();
+  $handler = new stdClass();
+  $handler->disabled = FALSE; /* Edit this to true to make a default handler disabled initially */
+  $handler->api_version = 1;
+  $handler->name = 'page_staff_contractors__panel_context_1fdf6100-ffa5-45eb-80ea-fa79b8762215';
+  $handler->task = 'page';
+  $handler->subtask = 'staff_contractors';
+  $handler->handler = 'panel_context';
+  $handler->weight = 0;
+  $handler->conf = array(
+    'title' => 'Panel',
+    'no_blocks' => 0,
+    'pipeline' => 'standard',
+    'body_classes_to_remove' => '',
+    'body_classes_to_add' => '',
+    'css_id' => '',
+    'css' => '',
+    'contexts' => array(),
+    'relationships' => array(),
+  );
+  $display = new panels_display();
+  $display->layout = 'flexible';
+  $display->layout_settings = array();
+  $display->panel_settings = array(
+    'style_settings' => array(
+      'default' => NULL,
+      'center' => NULL,
+    ),
+  );
+  $display->cache = array();
+  $display->title = 'Staff & contractors';
+  $display->uuid = '0bc285e5-ed76-45f3-a327-63be251e2c5c';
+  $display->content = array();
+  $display->panels = array();
+    $pane = new stdClass();
+    $pane->pid = 'new-4f137abf-e2c4-413e-81c0-94020bb547ae';
+    $pane->panel = 'center';
+    $pane->type = 'views_panes';
+    $pane->subtype = 'staff_contractors-panel_pane_staff';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'arguments' => array(
+        'field_hot_staff_type_tid' => '221',
+      ),
+      'override_title' => 1,
+      'override_title_text' => 'Executive Director',
+      'override_title_heading' => 'h3',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 0;
+    $pane->locks = array();
+    $pane->uuid = '4f137abf-e2c4-413e-81c0-94020bb547ae';
+    $display->content['new-4f137abf-e2c4-413e-81c0-94020bb547ae'] = $pane;
+    $display->panels['center'][0] = 'new-4f137abf-e2c4-413e-81c0-94020bb547ae';
+    $pane = new stdClass();
+    $pane->pid = 'new-d2e2a0c9-8b1a-4b7c-a094-6dbf0c5693a4';
+    $pane->panel = 'center';
+    $pane->type = 'views_panes';
+    $pane->subtype = 'staff_contractors-panel_pane_staff';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'arguments' => array(
+        'field_hot_staff_type_tid' => '222',
+      ),
+      'override_title' => 1,
+      'override_title_text' => 'Staff',
+      'override_title_heading' => 'h3',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 1;
+    $pane->locks = array();
+    $pane->uuid = 'd2e2a0c9-8b1a-4b7c-a094-6dbf0c5693a4';
+    $display->content['new-d2e2a0c9-8b1a-4b7c-a094-6dbf0c5693a4'] = $pane;
+    $display->panels['center'][1] = 'new-d2e2a0c9-8b1a-4b7c-a094-6dbf0c5693a4';
+    $pane = new stdClass();
+    $pane->pid = 'new-fa84992f-2709-4ad6-9862-35d12cccbd22';
+    $pane->panel = 'center';
+    $pane->type = 'views_panes';
+    $pane->subtype = 'staff_contractors-panel_pane_staff';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'arguments' => array(
+        'field_hot_staff_type_tid' => '223',
+      ),
+      'override_title' => 1,
+      'override_title_text' => 'Internships',
+      'override_title_heading' => 'h3',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 2;
+    $pane->locks = array();
+    $pane->uuid = 'fa84992f-2709-4ad6-9862-35d12cccbd22';
+    $display->content['new-fa84992f-2709-4ad6-9862-35d12cccbd22'] = $pane;
+    $display->panels['center'][2] = 'new-fa84992f-2709-4ad6-9862-35d12cccbd22';
+    $pane = new stdClass();
+    $pane->pid = 'new-0d2b885f-6bb8-4064-b964-aa7a99f04dd4';
+    $pane->panel = 'center';
+    $pane->type = 'views_panes';
+    $pane->subtype = 'staff_contractors-panel_pane_staff';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'arguments' => array(
+        'field_hot_staff_type_tid' => '224',
+      ),
+      'override_title' => 1,
+      'override_title_text' => 'Contractors',
+      'override_title_heading' => 'h3',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 3;
+    $pane->locks = array();
+    $pane->uuid = '0d2b885f-6bb8-4064-b964-aa7a99f04dd4';
+    $display->content['new-0d2b885f-6bb8-4064-b964-aa7a99f04dd4'] = $pane;
+    $display->panels['center'][3] = 'new-0d2b885f-6bb8-4064-b964-aa7a99f04dd4';
+  $display->hide_title = PANELS_TITLE_FIXED;
+  $display->title_pane = '0';
+  $handler->conf['display'] = $display;
+  $page->default_handlers[$handler->name] = $handler;
+  $pages['staff_contractors'] = $page;
+
+  $page = new stdClass();
+  $page->disabled = FALSE; /* Edit this to true to make a default page disabled initially */
+  $page->api_version = 1;
   $page->name = 'voting_members';
   $page->task = 'page';
   $page->admin_title = 'Voting members';
