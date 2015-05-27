@@ -186,11 +186,12 @@ nav#block-menu-block-hot-core-3 .menu { float: left; }
 /* Add to any buttons */
 .addtoany_list { margin: 20px 0; display: block; }
 
-.leadership .panel-panel .views-row { clear: both; margin-bottom: 50px; }
-.leadership .panel-panel .views-field-picture { float: left; margin: 0 30px 10px 0; }
-.leadership .panel-panel .views-field-uid, .leadership .panel-panel .views-field-name { font-weight: bold; font-size: 13px; }
-.leadership .panel-panel .views-field-field-hot-leadership { color: #666; }
-.leadership .panel-panel .pane-leadership-panel-pane-director { clear: both; }
+.leadership .panel-panel .panel-pane, .page-staff .panel-panel .panel-pane { clear: both; }
+.leadership .panel-panel .views-row, .page-staff .panel-panel .views-row { clear: both; margin-bottom: 50px; }
+.leadership .panel-panel .views-field-picture, .page-staff .panel-panel .views-field-picture { float: left; margin: 0 30px 10px 0; }
+.leadership .panel-panel .views-field-uid, .leadership .panel-panel .views-field-name, .page-staff .panel-panel .views-field-uid, .page-staff .panel-panel .views-field-name { font-weight: bold; font-size: 13px; }
+.leadership .panel-panel .views-field-field-hot-leadership, .page-staff .panel-panel .views-field-field-hot-leadership { color: #666; }
+.leadership .panel-panel .pane-leadership-panel-pane-director, .page-staff .panel-panel .pane-leadership-panel-pane-director { clear: both; }
 
 .panel-display .view-jobs h3 { margin-bottom: 2px; }
 .panel-display .view-jobs .views-label { float: left; margin-right: 5px; }
