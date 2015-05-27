@@ -331,7 +331,11 @@ nav#block-menu-block-hot-core-3 {
   display: block;
 }
 
-.leadership .panel-panel {
+.leadership .panel-panel,
+.page-staff .panel-panel {
+  .panel-pane {
+    clear: both;
+  }
   .views-row {
     clear: both;
     margin-bottom: 50px;
