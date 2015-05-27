@@ -158,12 +158,12 @@ nav .menu li.leaf { list-style: none; display: inline; padding: 0px 0px 0px 15px
 #block-block-2 li { padding: 0; list-style: none; }
 
 /* Project overview */
-.view-display-id-projects_overview_page { margin-top: 20px; }
-.view-display-id-projects_overview_page .views-field-title { font-size: 16px; font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; padding-top: 8px; }
-.view-display-id-projects_overview_page table td { vertical-align: top; padding: 0 50px 20px 50px; }
-.view-display-id-projects_overview_page table td .views-field { width: 180px; }
-.view-display-id-projects_overview_page table td.col-first { padding-left: 0; padding-right: 50px; }
-.view-display-id-projects_overview_page table td.col-last { padding-right: 0; padding-left: 50px; }
+.view-id-project { margin-top: 20px; }
+.view-id-project .views-field-title { font-size: 16px; font-family: Palatino, "Palatino LT STD", "Palatino Linotype", Georgia, "Book Antiqua", "Times New Roman", "Times", serif; padding-top: 8px; }
+.view-id-project table td { vertical-align: top; padding: 0 50px 20px 50px; }
+.view-id-project table td .views-field { width: 180px; }
+.view-id-project table td.col-first { padding-left: 0; padding-right: 50px; }
+.view-id-project table td.col-last { padding-right: 0; padding-left: 50px; }
 
 /* Project node's splitted information */
 #block-views-project-ol-map-block-1 .views-field { margin-bottom: 14px; }
