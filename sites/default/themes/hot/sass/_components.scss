@@ -240,7 +240,8 @@ nav .menu {
 }
 
 /* Project overview */
-.view-id-project {
+.pane-project-panel-pane-projects-old .view-id-project,
+.pane-project-panel-pane-projects .view-id-project {
    margin-top: 20px;
   .views-field-title-field {
     font-size: 16px;
