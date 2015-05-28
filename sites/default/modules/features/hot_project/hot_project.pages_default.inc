@@ -202,23 +202,6 @@ function hot_project_default_page_manager_pages() {
   $handler = new stdClass();
   $handler->disabled = FALSE; /* Edit this to true to make a default handler disabled initially */
   $handler->api_version = 1;
-  $handler->name = 'page_projects__redirection';
-  $handler->task = 'page';
-  $handler->subtask = 'projects';
-  $handler->handler = 'http_response';
-  $handler->weight = -28;
-  $handler->conf = array(
-    'title' => 'Redirection',
-    'contexts' => array(),
-    'relationships' => array(),
-    'code' => '301',
-    'destination' => 'projects/ongoing',
-    'name' => 'redirection',
-  );
-  $page->default_handlers[$handler->name] = $handler;
-  $handler = new stdClass();
-  $handler->disabled = FALSE; /* Edit this to true to make a default handler disabled initially */
-  $handler->api_version = 1;
   $handler->name = 'page_projects__panel_context_1b35ecd3-38ef-4880-a8a2-1c39feae6774';
   $handler->task = 'page';
   $handler->subtask = 'projects';
@@ -468,6 +451,331 @@ function hot_project_default_page_manager_pages() {
     $pane->uuid = '39be5c56-ad53-41f7-92b9-5e62837f37ec';
     $display->content['new-39be5c56-ad53-41f7-92b9-5e62837f37ec'] = $pane;
     $display->panels['center'][2] = 'new-39be5c56-ad53-41f7-92b9-5e62837f37ec';
+  $display->hide_title = PANELS_TITLE_FIXED;
+  $display->title_pane = '0';
+  $handler->conf['display'] = $display;
+  $page->default_handlers[$handler->name] = $handler;
+  $handler = new stdClass();
+  $handler->disabled = FALSE; /* Edit this to true to make a default handler disabled initially */
+  $handler->api_version = 1;
+  $handler->name = 'page_projects__redirection';
+  $handler->task = 'page';
+  $handler->subtask = 'projects';
+  $handler->handler = 'http_response';
+  $handler->weight = -25;
+  $handler->conf = array(
+    'title' => 'Redirection',
+    'contexts' => array(),
+    'relationships' => array(),
+    'code' => '301',
+    'destination' => 'projects/ongoing',
+    'name' => 'redirection',
+  );
+  $page->default_handlers[$handler->name] = $handler;
+  $handler = new stdClass();
+  $handler->disabled = FALSE; /* Edit this to true to make a default handler disabled initially */
+  $handler->api_version = 1;
+  $handler->name = 'page_projects__panel_context_6d343c42-3701-4940-b5aa-d864e7ef712e';
+  $handler->task = 'page';
+  $handler->subtask = 'projects';
+  $handler->handler = 'panel_context';
+  $handler->weight = -28;
+  $handler->conf = array(
+    'title' => 'Disaster Mapping',
+    'no_blocks' => 0,
+    'pipeline' => 'standard',
+    'body_classes_to_remove' => '',
+    'body_classes_to_add' => '',
+    'css_id' => '',
+    'css' => '',
+    'contexts' => array(),
+    'relationships' => array(),
+    'access' => array(
+      'plugins' => array(
+        0 => array(
+          'name' => 'path_visibility',
+          'settings' => array(
+            'visibility_setting' => '1',
+            'paths' => 'projects/disaster-mapping',
+          ),
+          'context' => 'empty',
+          'not' => FALSE,
+        ),
+      ),
+    ),
+  );
+  $display = new panels_display();
+  $display->layout = 'flexible';
+  $display->layout_settings = array();
+  $display->panel_settings = array(
+    'style_settings' => array(
+      'default' => NULL,
+      'center' => NULL,
+    ),
+  );
+  $display->cache = array();
+  $display->title = 'Disaster Mapping projects';
+  $display->uuid = '28326a7b-0c15-4b9a-80d7-cc2875f936d2';
+  $display->content = array();
+  $display->panels = array();
+    $pane = new stdClass();
+    $pane->pid = 'new-df8c9f31-b1e9-4216-9cd9-aee06637354b';
+    $pane->panel = 'center';
+    $pane->type = 'views_panes';
+    $pane->subtype = 'project-panel_pane_projects';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'arguments' => array(
+        'field_project_type_tid' => '218',
+      ),
+      'override_title' => 1,
+      'override_title_text' => 'Ongoing',
+      'override_title_heading' => 'h2',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 0;
+    $pane->locks = array();
+    $pane->uuid = 'df8c9f31-b1e9-4216-9cd9-aee06637354b';
+    $display->content['new-df8c9f31-b1e9-4216-9cd9-aee06637354b'] = $pane;
+    $display->panels['center'][0] = 'new-df8c9f31-b1e9-4216-9cd9-aee06637354b';
+    $pane = new stdClass();
+    $pane->pid = 'new-1b50285c-a230-4e13-b75b-320034bd6a52';
+    $pane->panel = 'center';
+    $pane->type = 'views_panes';
+    $pane->subtype = 'project-panel_pane_projects_old';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'arguments' => array(
+        'field_project_type_tid' => '218',
+      ),
+      'override_title' => 1,
+      'override_title_text' => 'Archived',
+      'override_title_heading' => 'h2',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 1;
+    $pane->locks = array();
+    $pane->uuid = '1b50285c-a230-4e13-b75b-320034bd6a52';
+    $display->content['new-1b50285c-a230-4e13-b75b-320034bd6a52'] = $pane;
+    $display->panels['center'][1] = 'new-1b50285c-a230-4e13-b75b-320034bd6a52';
+  $display->hide_title = PANELS_TITLE_FIXED;
+  $display->title_pane = '0';
+  $handler->conf['display'] = $display;
+  $page->default_handlers[$handler->name] = $handler;
+  $handler = new stdClass();
+  $handler->disabled = FALSE; /* Edit this to true to make a default handler disabled initially */
+  $handler->api_version = 1;
+  $handler->name = 'page_projects__panel_context_62405dba-258a-4023-a3de-3da74c85f532';
+  $handler->task = 'page';
+  $handler->subtask = 'projects';
+  $handler->handler = 'panel_context';
+  $handler->weight = -27;
+  $handler->conf = array(
+    'title' => 'Community development',
+    'no_blocks' => 0,
+    'pipeline' => 'standard',
+    'body_classes_to_remove' => '',
+    'body_classes_to_add' => '',
+    'css_id' => '',
+    'css' => '',
+    'contexts' => array(),
+    'relationships' => array(),
+    'access' => array(
+      'plugins' => array(
+        0 => array(
+          'name' => 'path_visibility',
+          'settings' => array(
+            'visibility_setting' => '1',
+            'paths' => 'projects/community',
+          ),
+          'context' => 'empty',
+          'not' => FALSE,
+        ),
+      ),
+      'logic' => 'and',
+    ),
+  );
+  $display = new panels_display();
+  $display->layout = 'flexible';
+  $display->layout_settings = array();
+  $display->panel_settings = array(
+    'style_settings' => array(
+      'default' => NULL,
+      'center' => NULL,
+    ),
+  );
+  $display->cache = array();
+  $display->title = 'Community Development projects';
+  $display->uuid = '28326a7b-0c15-4b9a-80d7-cc2875f936d2';
+  $display->content = array();
+  $display->panels = array();
+    $pane = new stdClass();
+    $pane->pid = 'new-df8c9f31-b1e9-4216-9cd9-aee06637354b';
+    $pane->panel = 'center';
+    $pane->type = 'views_panes';
+    $pane->subtype = 'project-panel_pane_projects';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'arguments' => array(
+        'field_project_type_tid' => '219',
+      ),
+      'override_title' => 1,
+      'override_title_text' => 'Ongoing',
+      'override_title_heading' => 'h2',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 0;
+    $pane->locks = array();
+    $pane->uuid = 'df8c9f31-b1e9-4216-9cd9-aee06637354b';
+    $display->content['new-df8c9f31-b1e9-4216-9cd9-aee06637354b'] = $pane;
+    $display->panels['center'][0] = 'new-df8c9f31-b1e9-4216-9cd9-aee06637354b';
+    $pane = new stdClass();
+    $pane->pid = 'new-1b50285c-a230-4e13-b75b-320034bd6a52';
+    $pane->panel = 'center';
+    $pane->type = 'views_panes';
+    $pane->subtype = 'project-panel_pane_projects_old';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'arguments' => array(
+        'field_project_type_tid' => '219',
+      ),
+      'override_title' => 1,
+      'override_title_text' => 'Archived',
+      'override_title_heading' => 'h2',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 1;
+    $pane->locks = array();
+    $pane->uuid = '1b50285c-a230-4e13-b75b-320034bd6a52';
+    $display->content['new-1b50285c-a230-4e13-b75b-320034bd6a52'] = $pane;
+    $display->panels['center'][1] = 'new-1b50285c-a230-4e13-b75b-320034bd6a52';
+  $display->hide_title = PANELS_TITLE_FIXED;
+  $display->title_pane = '0';
+  $handler->conf['display'] = $display;
+  $page->default_handlers[$handler->name] = $handler;
+  $handler = new stdClass();
+  $handler->disabled = FALSE; /* Edit this to true to make a default handler disabled initially */
+  $handler->api_version = 1;
+  $handler->name = 'page_projects__panel_context_45fa0c42-2ff7-4298-ac1b-bfd618938c6d';
+  $handler->task = 'page';
+  $handler->subtask = 'projects';
+  $handler->handler = 'panel_context';
+  $handler->weight = -26;
+  $handler->conf = array(
+    'title' => 'Technical projects',
+    'no_blocks' => 0,
+    'pipeline' => 'standard',
+    'body_classes_to_remove' => '',
+    'body_classes_to_add' => '',
+    'css_id' => '',
+    'css' => '',
+    'contexts' => array(),
+    'relationships' => array(),
+    'access' => array(
+      'plugins' => array(
+        0 => array(
+          'name' => 'path_visibility',
+          'settings' => array(
+            'visibility_setting' => '1',
+            'paths' => 'projects/technical',
+          ),
+          'context' => 'empty',
+          'not' => FALSE,
+        ),
+      ),
+      'logic' => 'and',
+    ),
+  );
+  $display = new panels_display();
+  $display->layout = 'flexible';
+  $display->layout_settings = array();
+  $display->panel_settings = array(
+    'style_settings' => array(
+      'default' => NULL,
+      'center' => NULL,
+    ),
+  );
+  $display->cache = array();
+  $display->title = 'Technical projects';
+  $display->uuid = '28326a7b-0c15-4b9a-80d7-cc2875f936d2';
+  $display->content = array();
+  $display->panels = array();
+    $pane = new stdClass();
+    $pane->pid = 'new-df8c9f31-b1e9-4216-9cd9-aee06637354b';
+    $pane->panel = 'center';
+    $pane->type = 'views_panes';
+    $pane->subtype = 'project-panel_pane_projects';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'arguments' => array(
+        'field_project_type_tid' => '220',
+      ),
+      'override_title' => 1,
+      'override_title_text' => 'Ongoing',
+      'override_title_heading' => 'h2',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 0;
+    $pane->locks = array();
+    $pane->uuid = 'df8c9f31-b1e9-4216-9cd9-aee06637354b';
+    $display->content['new-df8c9f31-b1e9-4216-9cd9-aee06637354b'] = $pane;
+    $display->panels['center'][0] = 'new-df8c9f31-b1e9-4216-9cd9-aee06637354b';
+    $pane = new stdClass();
+    $pane->pid = 'new-1b50285c-a230-4e13-b75b-320034bd6a52';
+    $pane->panel = 'center';
+    $pane->type = 'views_panes';
+    $pane->subtype = 'project-panel_pane_projects_old';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'arguments' => array(
+        'field_project_type_tid' => '220',
+      ),
+      'override_title' => 1,
+      'override_title_text' => 'Archived',
+      'override_title_heading' => 'h2',
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 1;
+    $pane->locks = array();
+    $pane->uuid = '1b50285c-a230-4e13-b75b-320034bd6a52';
+    $display->content['new-1b50285c-a230-4e13-b75b-320034bd6a52'] = $pane;
+    $display->panels['center'][1] = 'new-1b50285c-a230-4e13-b75b-320034bd6a52';
   $display->hide_title = PANELS_TITLE_FIXED;
   $display->title_pane = '0';
   $handler->conf['display'] = $display;

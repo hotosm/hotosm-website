@@ -69,7 +69,7 @@ function hot_people_field_default_field_instances() {
     'entity_type' => 'user',
     'field_name' => 'field_country',
     'label' => 'Country',
-    'required' => 1,
+    'required' => 0,
     'settings' => array(
       'entity_translation_sync' => FALSE,
       'user_register_form' => 1,

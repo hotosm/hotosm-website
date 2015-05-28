@@ -56,7 +56,7 @@ function hot_working_groups_views_default_views() {
   $handler->display->display_options['fields']['body']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['body']['type'] = 'text_summary_or_trimmed';
   $handler->display->display_options['fields']['body']['settings'] = array(
-    'trim_length' => '600',
+    'trim_length' => '300',
   );
   /* Field: User: Picture */
   $handler->display->display_options['fields']['picture']['id'] = 'picture';

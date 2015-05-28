@@ -656,6 +656,15 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['nothing_2']['alter']['path'] = 'http://hotosm.org/user';
   $handler->display->display_options['fields']['nothing_2']['alter']['absolute'] = TRUE;
   $handler->display->display_options['fields']['nothing_2']['element_label_colon'] = FALSE;
+  $handler->display->display_options['defaults']['filter_groups'] = FALSE;
+  $handler->display->display_options['defaults']['filters'] = FALSE;
+  /* Filter criterion: User: Active */
+  $handler->display->display_options['filters']['status']['id'] = 'status';
+  $handler->display->display_options['filters']['status']['table'] = 'users';
+  $handler->display->display_options['filters']['status']['field'] = 'status';
+  $handler->display->display_options['filters']['status']['value'] = '1';
+  $handler->display->display_options['filters']['status']['group'] = 1;
+  $handler->display->display_options['filters']['status']['expose']['operator'] = FALSE;
   $handler->display->display_options['path'] = 'admin/mass-contact';
   $translatables['user_admin'] = array(
     t('Master'),
@@ -888,6 +897,10 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['body']['alter']['text'] = '</h3><h3>[title]</h3>
 <div>[body]</div>';
   $handler->display->display_options['fields']['body']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['body']['type'] = 'text_summary_or_trimmed';
+  $handler->display->display_options['fields']['body']['settings'] = array(
+    'trim_length' => '300',
+  );
   /* Field: User: Picture */
   $handler->display->display_options['fields']['picture']['id'] = 'picture';
   $handler->display->display_options['fields']['picture']['table'] = 'users';
