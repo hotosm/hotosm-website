@@ -46,7 +46,6 @@ function video_embed_field_video_embed_handler_info() {
     'function' => 'video_embed_field_handle_vimeo',
     'thumbnail_function' => 'video_embed_field_handle_vimeo_thumbnail',
     'thumbnail_default' => drupal_get_path('module', 'video_embed_field') . '/img/vimeo.jpg',
-    'data_function' => 'video_embed_field_handle_vimeo_data',
     'form' => 'video_embed_field_handler_vimeo_form',
     'form_validate' => 'video_embed_field_handler_vimeo_form_validate',
     'domains' => array(
@@ -147,7 +146,7 @@ function _video_embed_field_get_youtube_id($url) {
       $id = substr($url, $pos);
     }
   }
-  return $id;
+  return check_plain($id);
 }
 
 /**
@@ -420,7 +419,29 @@ function video_embed_field_handler_youtube_form_validate($element, &$form_state,
 }
 
 /**
- * Helper function to get the Vimeo video's ID.
+ * Helper function to get the Vimeo video's data attributes.
+ *
+ * @param string $url
+ *   A Vimeo video URL to get the data from.
+ *
+ * @return integer|false
+ *   The video's data attributes, or FALSE if unable to get the video ID.
+ */
+function _video_embed_field_get_vimeo_data($url) {
+  // Set oembed endpoint
+  $oembed_endpoint = 'http://vimeo.com/api/oembed';
+  // Fetch vimeo data
+  $response = drupal_http_request($oembed_endpoint . '.json?url=' . rawurlencode($url));
+
+  try {
+    return json_decode($response->data, TRUE);
+  } catch (Exception $e) {
+    return FALSE;
+  }
+}
+
+/**
+ * Helper function to get the Vimeo video's data attributes.
  *
  * @param string $url
  *   A Vimeo video URL to get the ID of.
@@ -428,13 +449,14 @@ function video_embed_field_handler_youtube_form_validate($element, &$form_state,
  * @return integer|false
  *   The video ID, or FALSE if unable to get the video ID.
  */
-function _video_embed_field_get_vimeo_id($url) {
-  $pos = strripos($url, '/');
-  if ($pos != FALSE) {
-    $pos += 1;
-    return (int) substr($url, $pos);
+function _video_embed_field_get_vimeo_id($vimeo_data) {
+  try {
+    $video_id = $vimeo_data['video_id'];
+  } catch (Exception $e) {
+    $video_id = FALSE;
   }
-  return FALSE;
+
+  return $video_id;
 }
 
 /**
@@ -449,9 +471,12 @@ function _video_embed_field_get_vimeo_id($url) {
  *   The video iframe.
  */
 function video_embed_field_handle_vimeo($url, $settings) {
+  $vimeo_data = _video_embed_field_get_vimeo_data($url);
+
   // Get ID of video from URL.
-  $id = _video_embed_field_get_vimeo_id($url);
-  if (!$id) {
+  $id = _video_embed_field_get_vimeo_id($vimeo_data);
+
+  if (empty($id)) {
     return array(
       '#markup' => l($url, $url),
     );
@@ -482,42 +507,22 @@ function video_embed_field_handle_vimeo($url, $settings) {
  *   The video thumbnail information.
  */
 function video_embed_field_handle_vimeo_thumbnail($url) {
+  $vimeo_data = _video_embed_field_get_vimeo_data($url);
+
   // Get ID of video from URL.
-  $id = _video_embed_field_get_vimeo_id($url);
+  $id = _video_embed_field_get_vimeo_id($vimeo_data);
+
   $info = array(
     'id' => $id,
   );
-  $response = drupal_http_request('http://vimeo.com/api/v2/video/' . $id . '.php');
-  if (!isset($response->error)) {
-    $response = unserialize($response->data);
-    $video = current($response);
 
-    $image_url = $video['thumbnail_large'];
-    $info['url'] = $image_url;
+  try {
+    $info['url'] = $vimeo_data['thumbnail_url'];
+  } catch (Exception $e) {
+
   }
+
   return $info;
-}
-
-/**
- * Get video data for a Vimeo video URL.
- *
- * @param string $url
- *   A Vimeo video URL to get data for.
- *
- * @return array|false
- *   An array of video data, or FALSE if unable to fetch data.
- */
-function video_embed_field_handle_vimeo_data($url) {
-  // Get ID of video from URL.
-  $id = _video_embed_field_get_vimeo_id($url);
-  if ($id) {
-    $response = drupal_http_request('http://vimeo.com/api/v2/video/' . $id . '.php');
-    if (!isset($response->error)) {
-      $response = unserialize($response->data);
-      return (array) current($response);
-    }
-  }
-  return FALSE;
 }
 
 /**

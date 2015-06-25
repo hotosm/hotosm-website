@@ -232,7 +232,6 @@ function video_embed_field_update_7005() {
  */
 function video_embed_field_update_7006() {
   // Convert the table structure.
-  db_drop_primary_key('vef_video_styles');
   db_drop_field('vef_video_styles', 'vsid');
   db_add_primary_key('vef_video_styles', array('name'));
   db_drop_unique_key('vef_video_styles', 'name');
@@ -341,4 +340,26 @@ function video_embed_field_update_7008() {
   }
 
   return t("Updated 'node' setting to 'content'");
+}
+
+/**
+ * Adds new Allowed Providers setting to existing instances.
+ */
+function video_embed_field_update_7009() {
+  $allowed_providers = array_keys(video_embed_get_handlers());
+
+  $instances = field_info_instances();
+  foreach ($instances as $entity_type) {
+    foreach ($entity_type as $bundle) {
+      foreach ($bundle as $instance) {
+        $field_info = field_info_field($instance['field_name']);
+        if ($field_info['type'] == 'video_embed_field') {
+          $instance['settings']['allowed_providers'] = $allowed_providers;
+          field_update_instance($instance);
+        }
+      }
+    }
+  }
+
+  return t('Updated default instance settings');
 }

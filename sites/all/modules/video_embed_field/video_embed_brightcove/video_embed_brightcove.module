@@ -152,7 +152,7 @@ function _video_embed_brightcove_get_video_properties($url) {
     $string = "/(.*){$component['start']}(.*){$component['finish']}/";
     preg_match($string, $url, $matches);
     if ($matches && !empty($matches[2])) {
-      $return[$key] = $matches[2];
+      $return[$key] = check_plain($matches[2]);
     }
   }
   return $return;
