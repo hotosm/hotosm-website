@@ -31,6 +31,11 @@ define('MOLLOM_FALLBACK_BLOCK', 0);
 define('MOLLOM_FALLBACK_ACCEPT', 1);
 
 /**
+ * The date that the Mollom Content Moderation Platform will be retired.
+ */
+define('MOLLOM_CMP_RETIRE_DATE', 1443672000);
+
+/**
  * Implements hook_hook_info().
  */
 function mollom_hook_info() {
@@ -84,9 +89,9 @@ function mollom_help($path, $arg) {
   if ($path == 'admin/help#mollom') {
     $output = '<p>';
     $output .= t('Allowing users to react, participate and contribute while still keeping your site\'s content under control can be a huge challenge. <a href="@mollom-website">Mollom</a> is a web service that helps you identify content quality and, most importantly, helps you stop spam. When content moderation becomes easier, you have more time and energy to interact with your site visitors and community. For more information, see <a href="@mollom-works">How Mollom Works</a> and the <a href="@mollom-faq">Mollom FAQ</a>.', array(
-      '@mollom-website' => 'https://mollom.com',
-      '@mollom-works' => 'https://mollom.com/how-mollom-works',
-      '@mollom-faq' => 'https://mollom.com/faq',
+      '@mollom-website' => 'https://www.mollom.com',
+      '@mollom-works' => 'https://www.mollom.com/how-mollom-works',
+      '@mollom-faq' => 'https://www.mollom.com/faq',
     ));
     $output .= '</p><p>';
     $output .= t('Mollom can protect forms your site from unwanted posts. Each form can be set to one of the following options:');
@@ -103,9 +108,9 @@ function mollom_help($path, $arg) {
     $output .= '</p></li>';
     $output .= '</ul><p>';
     $output .= t('Data is processed and stored as explained in the <a href="@mollom-privacy">Mollom Web Service Privacy Policy</a>. It is your responsibility to provide necessary notices and obtain the appropriate consent regarding Mollom\'s use of submitted data.', array(
-      '@mollom-privacy' => 'https://mollom.com/web-service-privacy-policy',
-      '@mollom-works' => 'https://mollom.com/how-mollom-works',
-      '@mollom-faq' => 'https://mollom.com/faq',
+      '@mollom-privacy' => 'https://www.mollom.com/web-service-privacy-policy',
+      '@mollom-works' => 'https://www.mollom.com/how-mollom-works',
+      '@mollom-faq' => 'https://www.mollom.com/faq',
     ));
     $output .= '</p>';
     $output .= '<p>';
@@ -440,6 +445,10 @@ function mollom_cron() {
   db_delete('mollom')
     ->condition('changed', $expired, '<')
     ->execute();
+
+  if (REQUEST_TIME > MOLLOM_CMP_RETIRE_DATE) {
+    variable_del('mollom_cmp_enabled');
+  }
 }
 
 /**
@@ -712,7 +721,7 @@ function mollom_data_delete_form_alter(&$form, &$form_state) {
       '' => t('Do not report'),
     ),
     '#default_value' => 'spam',
-    '#description' => t('Sending feedback to <a href="@mollom-url">Mollom</a> improves the automated moderation of new submissions.', array('@mollom-url' => 'https://mollom.com')),
+    '#description' => t('Sending feedback to <a href="@mollom-url">Mollom</a> improves the automated moderation of new submissions.', array('@mollom-url' => 'https://www.mollom.com')),
   );
 }
 
@@ -876,7 +885,7 @@ function mollom_form_alter(&$form, &$form_state, $form_id) {
           '#prefix' => '<div class="description mollom-privacy">',
           '#suffix' => '</div>',
           '#markup' => t('By submitting this form, you accept the <a href="@privacy-policy-url" class="mollom-target" rel="nofollow">Mollom privacy policy</a>.', array(
-            '@privacy-policy-url' => 'https://mollom.com/web-service-privacy-policy',
+            '@privacy-policy-url' => 'https://www.mollom.com/web-service-privacy-policy',
           )),
           '#weight' => 10,
         );
@@ -1530,7 +1539,7 @@ function _mollom_get_openid($account) {
  *   The type of entity to check.
  * @param $bundle
  *   An array of bundle names to check.
- * 
+ *
  * @return array
  *   An array of protected bundles for this entity type.
  */
@@ -1726,7 +1735,7 @@ function _mollom_fallback() {
  */
 function _mollom_format_message_falsepositive($form_state, $data) {
   $mollom = mollom();
-  $report_url = 'https://mollom.com/false-positive';
+  $report_url = 'https://www.mollom.com/false-positive';
   $params = array(
     'public_key' => $mollom->loadConfiguration('publicKey'),
   );
@@ -1768,14 +1777,14 @@ function mollom_theme() {
         'captcha_url' => NULL,
         'flash_fallback_player' => $base_path . '/mollom-captcha-player.swf',
       ),
-      'template' => 'mollom.captcha.audio',
+      'template' => 'mollom-captcha-audio',
     ),
     'mollom_captcha_image' => array(
       'variables' => array(
         'captcha_url' => NULL,
         'audio_enabled' => TRUE,
       ),
-      'template' => 'mollom.captcha.image',
+      'template' => 'mollom-captcha-image',
     ),
   );
 }
@@ -2066,6 +2075,9 @@ function mollom_process_mollom($element, &$form_state, $complete_form) {
   //   causing false-positive spam classifications.
   $element['homepage'] = array(
     '#type' => 'textfield',
+    // Include the title field for accessibility scanners but it will not be
+    // shown due to the prefix.
+    '#title' => t('Home page'),
     // Wrap the entire honeypot form element markup into a hidden container, so
     // robots cannot simply check for a style attribute, but instead have to
     // implement advanced DOM processing to figure out whether they are dealing
@@ -3220,8 +3232,9 @@ function mollom_mollom_data_insert($data) {
   $params['finalized'] = 1;
 
   // Mark the content as stored for moderation-enabled content.
+  $cmp_enabled = mollom_cmp_enabled();
   $mollom_form = mollom_form_load($data->form_id);
-  if (!empty($mollom_form['moderation'])) {
+  if ($cmp_enabled && !empty($mollom_form['moderation'])) {
     $params['stored'] = 1;
   }
 
@@ -3274,7 +3287,8 @@ function mollom_mollom_data_delete($data) {
   }
   // Skip forms for which Mollom moderation integration is not enabled.
   $mollom_form = mollom_form_load($data->form_id);
-  if (empty($mollom_form['moderation'])) {
+  $cmp_enabled = mollom_cmp_enabled();
+  if (!$cmp_enabled || empty($mollom_form['moderation'])) {
     return;
   }
 
@@ -4238,3 +4252,21 @@ function _mollom_actions_access_callbacks($entity_type, $entities) {
 /**
  * @} End of "name mollom_action".
  */
+
+/**
+ * Helper function to determine if the current site has access to the
+ * Mollom Content Moderation Platform (CMP).
+ *
+ * The CMP is set to retire on Oct. 1, 2015 and only users who had previously
+ * activated their accounts before June 1, 2015 should have access.
+ *
+ * @return bool
+ *   True if access is available, false otherwise.
+ *
+ * @todo: Remove this and associated calling code once the CMP has been
+ * fully retired.
+ * @see https://www.drupal.org/node/2503171
+ */
+function mollom_cmp_enabled() {
+  return variable_get('mollom_cmp_enabled', FALSE) && (REQUEST_TIME < MOLLOM_CMP_RETIRE_DATE || drupal_valid_test_ua());
+}

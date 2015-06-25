@@ -6,9 +6,9 @@ dependencies[] = menu (>7.11)
 
 configure = admin/config/user-interface/menu-block
 
-; Information added by Drupal.org packaging script on 2015-02-04
-version = "7.x-2.5"
+; Information added by Drupal.org packaging script on 2015-06-01
+version = "7.x-2.6"
 core = "7.x"
 project = "menu_block"
-datestamp = "1423092482"
+datestamp = "1433189582"
 

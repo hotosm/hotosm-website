@@ -15,7 +15,7 @@ $plugin = array(
 class draggableviews_handler_native extends draggableviews_handler {
   public function get($field, $index) {
     $row = $field->view->result[$index];
-    return (isset($row->draggableviews_structure_weight)) ? $row->draggableviews_structure_weight : 0;
+    return (isset($row->draggableviews_structure_weight_coalesce)) ? $row->draggableviews_structure_weight_coalesce : 0;
   }
 
   function set($form_state) {
@@ -35,9 +35,13 @@ class draggableviews_handler_native extends draggableviews_handler {
     // Give other modules a chance to alter saved arguments.
     drupal_alter('draggableviews_handler_native_arguments', $arguments, $view, $fv['draggableviews']);
 
+    // Never save 'items_per_page' argument added by exposed pager filter.
+    unset($arguments['items_per_page']);
+
     $args_string = json_encode($arguments);
 
     // Save records to our custom table.
+    $weight = 0;
     foreach ($fv['draggableviews'] as $item) {
       // Make sure id is available.
       if (!isset($item['id'])) {
@@ -57,9 +61,14 @@ class draggableviews_handler_native extends draggableviews_handler {
         'view_display' => $view_display,
         'args' => $args_string,
         'entity_id' => $item['id'],
-        'weight' => $item['weight'],
+        'weight' => $weight,
       );
+      // If parent element exists, save it.
+      if (isset($item['parent'])) {
+        $record['parent'] = $item['parent'];
+      }
       drupal_write_record('draggableviews_structure', $record);
+      $weight++;
     }
   }
 }

@@ -242,6 +242,7 @@ function menu_block_default_config() {
     'level' => 1,
     'follow' => 0,
     'depth' => 0,
+    'depth_relative' => 0,
     'expanded' => 0,
     'sort' => 0,
   );
@@ -346,7 +347,7 @@ function menu_tree_block_data(array &$config) {
 
   if ($config['expanded'] || $config['parent_mlid']) {
     // Get the full, un-pruned tree.
-    if ($config['parent_mlid']) {
+    if ($config['parent_mlid'] || $config['depth_relative']) {
       $tree = menu_tree_all_data($config['menu_name']);
     }
     else {
@@ -356,8 +357,13 @@ function menu_tree_block_data(array &$config) {
     menu_tree_add_active_path($tree);
   }
   else {
-    // Get the tree pruned for just the active trail.
-    $tree = menu_tree_page_data($config['menu_name'], $max_depth);
+    if ($config['depth_relative']) {
+      // Get the tree pruned for just the active trail.
+      $tree = menu_tree_page_data($config['menu_name']);
+    }
+    else {
+      $tree = menu_tree_page_data($config['menu_name'], $max_depth);
+    }
   }
 
   // Allow alteration of the tree and config before we begin operations on it.
@@ -372,6 +378,13 @@ function menu_tree_block_data(array &$config) {
   if ($config['level'] > 1 || $config['parent_mlid']) {
     if ($config['parent_mlid']) {
       $parent_item = menu_link_load($config['parent_mlid']);
+      if (!$parent_item) {
+        watchdog('menu_block', "Menu block @delta is set to use parent menu link @plid but the menu link was not loadable or does not exist.", array(
+          '@delta' => $config['delta'],
+          '@plid' => $config['parent_mlid'],
+        ), WATCHDOG_ERROR);
+        $parent_item = NULL;
+      }
       menu_tree_prune_tree($tree, $config['level'], $parent_item);
     }
     else {
@@ -1029,4 +1042,31 @@ function menu_block_menu_order_set_menu($menu_name, $status) {
     unset($menus[$menu_name]);
     variable_set('menu_block_menu_order', $menus);
   }
+}
+
+/**
+ * Implements hook_menu_link_insert().
+ */
+function menu_block_menu_link_insert($link) {
+  // If a book is being created, updated, or deleted, clear the
+  // menu_block_get_all_menus() cache since it means a change to a book "menu"
+  // that would need to be picked up by book_menu_block_get_menus().
+  if (strpos($link['menu_name'], 'book-toc-') === 0 && !$link['plid']) {
+    cache_clear_all('menu_block_menus:', 'cache_menu', TRUE);
+    drupal_static_reset('menu_block_get_all_menus');
+  }
+}
+
+/**
+ * Implements hook_menu_link_update().
+ */
+function menu_block_menu_link_update($link) {
+  menu_block_menu_link_insert($link);
+}
+
+/**
+ * Implements hook_menu_link_delete().
+ */
+function menu_block_menu_link_delete($link) {
+  menu_block_menu_link_insert($link);
 }

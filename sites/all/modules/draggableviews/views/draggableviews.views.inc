@@ -12,10 +12,31 @@ function draggableviews_views_data_alter(&$data) {
 
   $data['draggableviews_structure']['weight'] = array(
     'title' => t('Weight'),
-    'help' => t('Sort entities by the draggableviews weight table field.'),
     'group' => t('Draggableviews'),
+    'field' => array(
+      'help' => t('Display the weight value.'),
+      'handler' => 'views_handler_field_numeric',
+      'click sortable' => TRUE,
+    ),
     'sort' => array(
+      'help' => t('Sort entities by the draggableviews weight table field.'),
       'handler' => 'draggableviews_handler_sort',
+    ),
+    'filter' => array(
+       'help' => t('Filter by the draggableviews weight value (Native handler only).'),
+      'handler' => 'views_handler_filter_numeric',
+    ),
+  );
+  $data['draggableviews_structure']['parent'] = array(
+    'title' => t('Parent'),
+    'help' => t('The parent entity id.'),
+    'group' => t('Draggableviews'),
+    'field' => array(
+      'handler' => 'views_handler_field_numeric',
+    ),
+    'filter' => array(
+      'help' => t('Filter by the draggableviews parent\'s entity id (Native handler only).'),
+      'handler' => 'views_handler_filter_numeric',
     ),
   );
 
@@ -31,7 +52,6 @@ function draggableviews_views_data_alter(&$data) {
           'click sortable' => FALSE,
         ),
       );
-
       // Explain to every entity how to join with draggableviews structure table.
       $data['draggableviews_structure']['table']['join'][$info['base table']] = array(
         'handler' => 'draggableviews_join_handler',
@@ -40,5 +60,18 @@ function draggableviews_views_data_alter(&$data) {
         'field' => 'entity_id',
       );
     }
+  }
+}
+
+/**
+ * Implements hook_views_post_execute().
+ */
+function draggableviews_views_post_execute(&$view) {
+  if (isset($view->field['draggableviews'])) {
+    // Move draggableviews field to last column
+    // otherwise tabledrag.js doesn't work.
+    $draggable_field = $view->field['draggableviews'];
+    unset($view->field['draggableviews']);
+    $view->field['draggableviews'] = $draggable_field;
   }
 }

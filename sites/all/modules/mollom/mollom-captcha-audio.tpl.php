@@ -45,7 +45,7 @@ $refresh_image_output = theme('image', array(
       if (e.success) {
         e.ref.focus();
       } else {
-        jQuery(unsupportedDiv).show();
+        jQuery(unsupportedDiv).removeClass('element-hidden');
       }
     }
 
@@ -124,7 +124,7 @@ $refresh_image_output = theme('image', array(
     </span>
 
     <!-- Text to show when neither HTML5 audio or SWFs are supported -->
-    <span id="mollom_captcha_unsupported" class="mollom-hide">
+    <span id="mollom_captcha_unsupported" class="element-hidden">
       <p><?php print $unsupported; ?></p>
     </span>
 

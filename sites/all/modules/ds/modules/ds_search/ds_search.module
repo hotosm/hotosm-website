@@ -54,6 +54,10 @@ function ds_search_theme() {
  * Search page theming.
  */
 function theme_ds_search_page($build) {
+  // fix for Drupal 7.33+
+  if(isset($build['theme_hook_original'])) {
+    unset($build['theme_hook_original']);
+  }
 
   // Check on empty search results.
   if (empty($build['search_results'])) {
@@ -481,7 +485,7 @@ function node_ds_search_execute($keys = NULL, $conditions = NULL) {
   // Load results.
   $find = $query->execute();
   $results = array();
-  foreach ($find as $item) {
+  foreach ((array) $find as $item) {
     $node = node_load($item->sid);
     $node->entity_type = 'node';
     $node->entity_id = $item->sid;
