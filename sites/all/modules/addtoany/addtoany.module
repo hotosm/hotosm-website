@@ -103,7 +103,10 @@ function addtoany_menu() {
  * Implements hook_block_info().
  */
 function addtoany_block_info() {
-  $blocks['addtoany_button']['info'] = t('AddToAny buttons');
+  $blocks['addtoany_button'] = array(
+    'info' => t('AddToAny buttons'),
+    'cache' => DRUPAL_NO_CACHE,
+  );
   return $blocks;
 }
 
@@ -154,8 +157,8 @@ function addtoany_page_alter(&$page) {
 
   $script_url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') ? 'https://static.addtoany.com/menu/page.js' : 'http://static.addtoany.com/menu/page.js';
 
-  $javascript_header = "var a2a_config=a2a_config||{},"
-      . "da2a={done:false,"
+  $javascript_header = "window.a2a_config=window.a2a_config||{};"
+      . "window.da2a={done:false,"
         . "html_done:false,"
         . "script_ready:false,"
         . "script_load:function(){"
@@ -167,10 +170,8 @@ function addtoany_page_alter(&$page) {
           . "da2a.script_load=function(){};"
         . "},"
         . "script_onready:function(){"
-          . "if(a2a.type=='page'){" // Check a2a internal var to ensure script loaded is page.js not feed.js
-            . "da2a.script_ready=true;"
-            . "if(da2a.html_done)da2a.init();"
-          . "}"
+          . "da2a.script_ready=true;"
+          . "if(da2a.html_done)da2a.init();"
         . "},"
         . "init:function(){"
           . "for(var i=0,el,target,targets=da2a.targets,length=targets.length;i<length;i++){"
@@ -210,6 +211,14 @@ function addtoany_page_alter(&$page) {
     'scope' => 'footer',
     'type'  => 'inline',
   );
+
+  /**
+   * Custom CSS Setting
+   */
+  $css = variable_get('addtoany_additional_css', '');
+  if(!empty($css)) {
+    drupal_add_css($css, 'inline');
+  }
 }
 
 /**
@@ -236,7 +245,7 @@ function _addtoany_create_script($id_num, $link_name, $link_url) {
 	// If doing AJAX
 	if ( isset( $_SERVER['HTTP_X_REQUESTED_WITH'] ) && strtolower( $_SERVER['HTTP_X_REQUESTED_WITH'] ) == 'xmlhttprequest' ) {
 		$javascript_button_config = "<script type=\"text/javascript\">"
-			. "if(da2a.targets)da2a.targets.push("
+			. "if(window.da2a&&da2a.targets)da2a.targets.push("
 				. $button_config
 			. ");";
 
@@ -247,8 +256,8 @@ function _addtoany_create_script($id_num, $link_name, $link_url) {
   			. "{"
           . "Drupal.behaviors.addToAny = {"
             . "attach: function (context, settings) {"
-              // If not the full document (it's probably AJAX)
-              . "if (context !== document) {"
+              // If not the full document (it's probably AJAX), and window.da2a exists
+              . "if (context !== document && window.da2a) {"
                 . "if(da2a.script_ready)da2a.init();"
                 . "da2a.script_load();" // Load external script if not already called
               . "}"
@@ -264,7 +273,7 @@ function _addtoany_create_script($id_num, $link_name, $link_url) {
 	if ( ! $_addtoany_init) {
 		$javascript_load_early = "<script type=\"text/javascript\">\n"
 			. "<!--//--><![CDATA[//><!--\n"
-			. "da2a.script_load();\n"
+			. "if(window.da2a)da2a.script_load();\n"
 			. "//--><!]]>\n"
 			. "</script>";
 	}

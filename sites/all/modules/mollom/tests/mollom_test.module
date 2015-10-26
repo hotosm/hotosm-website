@@ -51,12 +51,6 @@ function mollom_test_menu() {
     'access callback' => TRUE,
     'type' => MENU_CALLBACK,
   );
-  $items['mollom-test/pong'] = array(
-    'page callback' => 'drupal_get_form',
-    'page arguments' => array('mollom_test_pong_form'),
-    'access callback' => TRUE,
-    'type' => MENU_CALLBACK,
-  );
   return $items;
 }
 
@@ -356,16 +350,3 @@ function mollom_test_delete_form_submit($form, &$form_state) {
   $form_state['redirect'] = 'mollom-test/form';
 }
 
-/**
- * Provides a form to test the mollom pong callback.  The callback must be
- * called as a POST request and so just using a straight-forward test directly
- * fails as these are all GET requests.
- */
-function mollom_test_pong_form($form, &$form_state) {
-  $form['#action'] = url("mollom/pong");
-  $form['submit'] = array(
-    '#type' => 'submit',
-    '#value' => 'Submit',
-  );
-  return $form;
-}

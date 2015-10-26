@@ -38,6 +38,7 @@ function video_embed_field_video_embed_handler_info() {
       'modestbranding' => 0,
       'theme' => 'dark',
       'iv_load_policy' => 1,
+      'class' => '',
     ),
   );
 
@@ -46,6 +47,7 @@ function video_embed_field_video_embed_handler_info() {
     'function' => 'video_embed_field_handle_vimeo',
     'thumbnail_function' => 'video_embed_field_handle_vimeo_thumbnail',
     'thumbnail_default' => drupal_get_path('module', 'video_embed_field') . '/img/vimeo.jpg',
+    'data_function' => '_video_embed_field_get_vimeo_data',
     'form' => 'video_embed_field_handler_vimeo_form',
     'form_validate' => 'video_embed_field_handler_vimeo_form_validate',
     'domains' => array(
@@ -61,6 +63,7 @@ function video_embed_field_video_embed_handler_info() {
       'autoplay' => 0,
       'loop' => 0,
       'froogaloop' => 0,
+      'class' => ''
     ),
   );
 
@@ -163,16 +166,21 @@ function _video_embed_field_get_youtube_id($url) {
 function video_embed_field_handle_youtube($url, $settings) {
   $output = array();
 
-  // Grab the minutes and seconds, and just convert it down to seconds.
-  preg_match('/#t=((?P<min>\d+)m)?((?P<sec>\d+)s)?/', $url, $matches);
-
-  // Give it some default data in case there is no #t=...
-  $matches += array(
-    "min" => 0,
-    "sec" => 0,
-  );
-  $time = ($matches["min"] * 60) + $matches["sec"];
-  $settings['start'] = $time;
+  if(preg_match('/#t=((?P<min>\d+)m)?((?P<sec>\d+)s)?((?P<tinsec>\d+))?/', $url, $matches)){
+    if(isset($matches['tinsec'])){
+      $settings['start'] = $matches['tinsec']; // url already in form #t=125 for 2 minutes and 5 seconds
+    } else {
+      // url in form #t=2m5s or with other useless data, this is why we still keep adding the default data..
+      // give it some default data in case there is no #t=...
+      $matches += array(
+        "min" => 0,
+        "sec" => 0,
+      );
+      if ($time = ($matches["min"] * 60) + $matches["sec"]) {
+        $settings['start'] = $time;
+      }
+    }
+  }
 
   $id = _video_embed_field_get_youtube_id($url);
   if (!$id) {
@@ -180,11 +188,16 @@ function video_embed_field_handle_youtube($url, $settings) {
     $output['#markup'] = l($url, $url);
     return $output;
   }
+
+  // Add class to variable to avoid adding it to URL param string.
+  $class = $settings['class'];
+  unset($settings['class']);
+
   // Construct the embed code.
   $settings['wmode'] = 'opaque';
-  $settings_str = _video_embed_code_get_settings_str($settings);
+  $settings_str = urlencode(_video_embed_code_get_settings_str($settings));
 
-  $output['#markup'] = '<iframe width="' . check_plain($settings['width']) . '" height="' . check_plain($settings['height']) . '" src="//www.youtube.com/embed/' . $id . '?' . $settings_str . '" frameborder="0" allowfullscreen></iframe>';
+  $output['#markup'] = '<iframe class="' . check_plain($class) . '" width="' . check_plain($settings['width']) . '" height="' . check_plain($settings['height']) . '" src="//www.youtube.com/embed/' . $id . '?' . $settings_str . '" frameborder="0" allowfullscreen></iframe>';
 
   return $output;
 }
@@ -243,11 +256,17 @@ function video_embed_field_handle_youtube_data($url) {
   $id = _video_embed_field_get_youtube_id($url);
 
   if ($id) {
-    $response = drupal_http_request('http://gdata.youtube.com/feeds/api/videos/' . $id . '?v=2&alt=json');
+
+    $options['v'] = 3;
+    $options['key'] = variable_get('video_embed_field_youtube_v3_api_key', '');
+    $options['part'] = 'snippet';
+    $options['id'] = $id;
+
+    $response = drupal_http_request(url('https://www.googleapis.com/youtube/v3/videos', array('query' => $options)));
+
     if (!isset($response->error)) {
       $data = json_decode($response->data);
-      $data = isset($data->entry) ? (array) $data->entry : (array) $data->feed;
-      return _video_embed_field_clean_up_youtube_data($data);
+      return _video_embed_field_clean_up_youtube_data($data->items);
     }
   }
 
@@ -401,6 +420,13 @@ function video_embed_field_handler_youtube_form($defaults) {
     '#default_value' => $defaults['autohide'],
   );
 
+  $form['class'] = array(
+    '#type' => 'textfield',
+    '#title' => t('Player CSS class'),
+    '#description' => t('CSS class to add to the player'),
+    '#default_value' => $defaults['class'],
+  );
+
   return $form;
 }
 
@@ -489,10 +515,14 @@ function video_embed_field_handle_vimeo($url, $settings) {
   }
   unset($settings['froogaloop']);
 
+  // Add class to variable to avoid adding it to URL param string.
+  $class = $settings['class'];
+  unset($settings['class']);
+
   $settings_str = _video_embed_code_get_settings_str($settings);
 
   return array(
-    '#markup' => '<iframe id="' . $settings['player_id'] . '" width="' . check_plain($settings['width']) . '" height="' . check_plain($settings['height']) . '" src="//player.vimeo.com/video/' . $id .
+    '#markup' => '<iframe class="' . check_plain($class) . '" id="' . $settings['player_id'] . '" width="' . check_plain($settings['width']) . '" height="' . check_plain($settings['height']) . '" src="//player.vimeo.com/video/' . $id .
     '?' . $settings_str . '" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>',
   );
 }
@@ -614,6 +644,13 @@ function video_embed_field_handler_vimeo_form($defaults) {
     '#title' => t('Enable froogaloop support'),
     '#description' => t("Enables Froogallop Vimeo's library support"),
     '#default_value' => $defaults['loop'],
+  );
+
+  $form['class'] = array(
+    '#type' => 'textfield',
+    '#title' => t('Player CSS class'),
+    '#description' => t('CSS class to add to the player'),
+    '#default_value' => $defaults['class'],
   );
 
   return $form;

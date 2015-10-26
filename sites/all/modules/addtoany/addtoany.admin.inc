@@ -28,7 +28,7 @@ function addtoany_admin_settings() {
   'text'                         => 'Text only',
   'none'                         => 'None',
   );
-  
+
   $form['#attached']['js'] = array(
     drupal_get_path('module', 'addtoany') . '/addtoany.admin.js',
   );
@@ -109,7 +109,7 @@ function addtoany_admin_settings() {
     '#default_value' => variable_get('addtoany_link_text', ''),
     '#description'   => t('Text for the universal sharing button link. Example: Share'),
   );
-  
+
   $form['addtoany_placement_settings'] = array(
     '#type'  => 'fieldset',
     '#title' => t('Placement'),
@@ -179,6 +179,12 @@ function addtoany_admin_settings() {
     '#title'         => t('Additional JavaScript'),
     '#default_value' => variable_get('addtoany_additional_js', ''),
     '#description'   => t('You can add special JavaScript code for AddToAny. Advanced users might want to check out AddToAny\'s <a href="https://www.addtoany.com/buttons/api/" target="_blank">JavaScript API</a> and <a href="https://www.addtoany.com/buttons/customize/drupal" target="_blank">documentation</a>.'),
+  );
+  $form['addtoany_additional_settings']['addtoany_additional_css'] = array(
+    '#type'          => 'textarea',
+    '#title'         => t('Additional CSS'),
+    '#default_value' => variable_get('addtoany_additional_css', ''),
+    '#description'   => t('You can add special CSS code for AddToAny. See <a href="https://www.addtoany.com/buttons/customize/drupal" target="_blank">AddToAny documentation</a> for customizations.'),
   );
   $form['addtoany_additional_settings']['addtoany_no_3p'] = array(
     '#type'          => 'checkbox',

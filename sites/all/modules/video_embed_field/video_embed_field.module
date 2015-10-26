@@ -93,6 +93,26 @@ function video_embed_field_menu() {
     'type' => MENU_CALLBACK,
   );
 
+  $items['admin/config/media/vef'] = array(
+    'title' => 'Video Embed Field',
+    'description' => 'Video Embed Field configuration',
+    'page callback' => 'system_admin_menu_block_page',
+    'access arguments' => array('administer video styles'),
+    'file' => 'system.admin.inc',
+    'file path' => drupal_get_path('module', 'system'),
+    'type' => MENU_NORMAL_ITEM,
+  );
+
+  $items['admin/config/media/vef/settings'] = array(
+    'title' => 'Settings',
+    'description' => 'Video Embed Field module settings',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('video_embed_field_settings_form'),
+    'file' => 'video_embed_field.admin.inc',
+    'access arguments' => array('administer video styles'),
+    'type' => MENU_NORMAL_ITEM,
+  );
+
   return $items;
 }
 

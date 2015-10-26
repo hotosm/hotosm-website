@@ -164,36 +164,6 @@ class MollomDrupal extends Mollom {
   }
 
   /**
-   * Ping the Mollom API.
-   *
-   * Drupal may want to ping with a set of keys that
-   * are not yet saved in the configuration.  This function handles setting and
-   * resetting the private key after pinging in order to maintain this state.
-   *
-   * @param $publicKey
-   *   (Optional) the public key to use.  If not provided, the class's own
-   *   publicKey is used.
-   * @param $privateKey
-   *   (Optional) the private key to use.  If not provided, the class's own
-   *   privateKey is used.
-   * @param string $callback
-   *   A callback path to receive the "pong" response from Mollom.  The path
-   *   defaults to 'mollom/pong'.
-   */
-  public function pingAPI($publicKey = NULL, $privateKey = NULL, $callback = 'mollom/pong') {
-    // Handle setting the private key for authorization purposes.
-    $currentPrivateKey = $this->loadConfiguration('privateKey');
-    if (!empty($privateKey)) {
-      $this->privateKey = $privateKey;
-    }
-    // Update the callback to an absolute URL.
-    $callback = url($callback, array('absolute' => TRUE));
-    $result = $this->ping($callback, $publicKey);
-    $this->saveConfiguration('privateKey', $currentPrivateKey);
-    return $result;
-  }
-
-  /**
    * Retrieves GET/HEAD or POST/PUT parameters of an inbound request.
    *
    * @return array

@@ -140,6 +140,27 @@ function flag_views_data() {
     ),
   );
 
+  $data['flagging']['flagging_id'] = array(
+    'title' => t('Flagging ID'),
+    'field' => array(
+      'handler' => 'views_handler_field_numeric',
+      'click sortable' => TRUE,
+      'help' => t('Display the flagging ID.'),
+    ),
+    'sort' => array(
+      'handler' => 'views_handler_sort',
+      'help' => t('Sort by the flagging ID.'),
+    ),
+    'filter' => array(
+      'handler' => 'views_handler_filter_numeric',
+      'help' => t('Filter by the flagging ID.'),
+    ),
+    'argument' => array(
+      'handler' => 'views_handler_argument_numeric',
+      'help' => t('The unique ID of the flagging.'),
+    ),
+  );
+
   $data['flag_counts']['count'] = array(
     'title' => t('Flag counter'),
     'help' => t('The number of times a piece of content is flagged by any user.'),

@@ -1,0 +1,13 @@
+name = Flag Comment Flag Test
+description = Test module for comment flags.
+dependencies[] = flag
+dependencies[] = comment
+core = 7.x
+hidden = TRUE
+
+; Information added by Drupal.org packaging script on 2015-10-14
+version = "7.x-3.7"
+core = "7.x"
+project = "flag"
+datestamp = "1444844942"
+

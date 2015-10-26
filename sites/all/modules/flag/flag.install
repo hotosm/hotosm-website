@@ -22,7 +22,7 @@ function flag_schema() {
         'not null' => TRUE,
       ),
       'entity_type' => array(
-        'description' => 'The flag type, such as one of "node", "comment", or "user".',
+        'description' => 'The flag type, for example "node", "comment", or "user".',
         'type' => 'varchar',
         'length' => '128',
         'not null' => TRUE,
@@ -79,14 +79,14 @@ function flag_schema() {
         'default' => 0,
       ),
       'entity_type' => array(
-        'description' => 'The flag type, eg "node", "comment", "user".',
+        'description' => 'The flag type, for example "node", "comment", or "user".',
         'type' => 'varchar',
         'length' => '128',
         'not null' => TRUE,
         'default' => '',
       ),
       'entity_id' => array(
-        'description' => 'The unique ID of the object, such as either the {cid}, {uid}, or {nid}.',
+        'description' => 'The unique ID of the flagged entity, for example the uid, cid, or nid.',
         'type' => 'int',
         'unsigned' => TRUE,
         'not null' => TRUE,
@@ -166,14 +166,14 @@ function flag_schema() {
         'default' => 0,
       ),
       'entity_type' => array(
-        'description' => 'The flag type, usually one of "node", "comment", "user".',
+        'description' => 'The flag type, for example "node", "comment", or "user".',
         'type' => 'varchar',
         'length' => '128',
         'not null' => TRUE,
         'default' => '',
       ),
       'entity_id' => array(
-        'description' => 'The unique ID of the content, usually either the {cid}, {uid}, or {nid}.',
+        'description' => 'The unique ID of the flagged entity, for example the uid, cid, or nid.',
         'type' => 'int',
         'unsigned' => TRUE,
         'not null' => TRUE,
