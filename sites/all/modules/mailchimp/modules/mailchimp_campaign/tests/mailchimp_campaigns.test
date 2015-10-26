@@ -1,0 +1,78 @@
+<?php
+/**
+ * @file
+ * Test class and methods for the Mailchimp Campaigns module.
+ */
+
+class MailchimpCampaignsTestCase extends DrupalWebTestCase {
+
+  /**
+   * Returns info displayed in the test interface.
+   *
+   * @return array
+   *   Formatted as specified by simpletest.
+   */
+  public static function getInfo() {
+    // Note: getInfo() strings are not translated with t().
+    return array(
+      'name' => 'MailChimp Campaigns',
+      'description' => 'Test Campaigns Logic.',
+      'group' => 'MailChimp',
+    );
+  }
+
+  /**
+   * Pre-test setup function.
+   *
+   * Enables dependencies.
+   * Sets the mailchimp_api_key to the test-mode key.
+   * Sets test mode to TRUE.
+   */
+  protected function setUp() {
+    // Use a profile that contains required modules:
+    $prof = drupal_get_profile();
+    $this->profile = $prof;
+    // Enable modules required for the test.
+    $enabled_modules = array(
+      'libraries',
+      'mailchimp',
+      'entity',
+      'entity_token',
+      'mailchimp_campaign',
+    );
+    parent::setUp($enabled_modules);
+    variable_set('mailchimp_api_classname', 'MailChimpTest');
+    variable_set('mailchimp_api_key', 'MAILCHIMP_TEST_API_KEY');
+    variable_set('mailchimp_test_mode', TRUE);
+
+    // Load API object to ensure test constants are defined.
+    libraries_load('mailchimp');
+    require_once drupal_get_path('module', 'mailchimp') . '/tests/mailchimp_test.inc';
+
+    mailchimp_get_api_object();
+  }
+
+  /**
+   * Post-test function.
+   *
+   * Sets test mode to FALSE.
+   */
+  protected function tearDown() {
+    parent::tearDown();
+    variable_del('mailchimp_test_mode');
+  }
+
+  /**
+   * Tests retrieval of a specific campaign.
+   */
+  public function testGetCampaign() {
+    $campaign_id = MAILCHIMP_TEST_CAMPAIGN_A;
+
+    $campaign = mailchimp_get_campaign_data($campaign_id);
+
+    $this->assertTrue(is_array($campaign), 'Tested retrieval of campaign data.');
+
+    $this->assertEqual($campaign['id'], $campaign_id);
+  }
+
+}

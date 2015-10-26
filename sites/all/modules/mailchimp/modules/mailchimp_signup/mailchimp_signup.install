@@ -1,0 +1,85 @@
+<?php
+
+/**
+ * @file
+ * Install, update and uninstall functions for the mailchimp_signup module.
+ */
+
+/**
+ * Implements hook_schema().
+ */
+function mailchimp_signup_schema() {
+  $schema['mailchimp_signup'] = array(
+    'fields' => array(
+      'mcs_id' => array(
+        'type' => 'serial',
+        'not null' => TRUE,
+        'description' => 'Primary Key: Unique mailchimp_signup entity ID.',
+      ),
+      'name' => array(
+        'description' => 'The machine-readable name of this mailchimp_signup.',
+        'type' => 'varchar',
+        'length' => 32,
+        'not null' => TRUE,
+      ),
+      'mc_lists' => array(
+        'type' => 'blob',
+        'not null' => TRUE,
+        'size' => 'big',
+        'serialize' => TRUE,
+        'description' => 'A serialized array of list IDs with list-specific configuration.',
+      ),
+      'mode' => array(
+        'type' => 'int',
+        'not null' => TRUE,
+        'default' => 0,
+        'size' => 'tiny',
+        'description' => 'Signifies the display mode for this signup form.',
+      ),
+      'title' => array(
+        'type' => 'varchar',
+        'length' => 32,
+        'description' => 'The {mailchimp_lists}.label of this mailchimp_list.',
+        'not null' => TRUE,
+        'default' => '',
+      ),
+      'settings' => array(
+        'type' => 'blob',
+        'not null' => FALSE,
+        'size' => 'big',
+        'serialize' => TRUE,
+        'description' => 'A serialized object that stores the settings for the specific list.',
+      ),
+      'status' => array(
+        'type' => 'int',
+        'not null' => TRUE,
+        // Set the default to ENTITY_CUSTOM without using the constant as it is
+        // not safe to use it at this point.
+        'default' => 0x01,
+        'size' => 'tiny',
+        'description' => 'The exportable status of the entity.',
+      ),
+      'module' => array(
+        'description' => 'The name of the providing module if the entity has been defined in code.',
+        'type' => 'varchar',
+        'length' => 255,
+        'not null' => FALSE,
+      ),
+    ),
+    'primary key' => array('mcs_id'),
+    'unique key' => array('name'),
+  );
+
+  return $schema;
+}
+
+/**
+ * Add default Confirmation Email setting to existing Signup Forms.
+ */
+function mailchimp_signup_update_7000(&$sandbox) {
+  $signups = entity_load('mailchimp_signup');
+  foreach ($signups as $signup) {
+    $signup->settings['send_welcome'] = TRUE;
+    $signup->save();
+  }
+}

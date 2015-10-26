@@ -1,0 +1,73 @@
+<?php
+/**
+ * @file
+ * Install hooks form mailchimp_campaign module.
+ */
+
+/**
+ * Implements hook_schema().
+ */
+function mailchimp_campaign_schema() {
+  $schema['mailchimp_campaigns'] = array(
+    'description' => 'MailChimp campaigns.',
+    'fields' => array(
+      'mc_campaign_id' => array(
+        'description' => 'MailChimp campaign ID.',
+        'type' => 'varchar',
+        'length' => 16,
+        'not null' => TRUE,
+      ),
+      'template' => array(
+        'description' => 'Campaign body template.',
+        'type' => 'blob',
+        'not null' => FALSE,
+        'size' => 'big',
+        'serialize' => TRUE,
+      ),
+      'created' => array(
+        'description' => 'The Unix timestamp when the campaign was created.',
+        'type' => 'int',
+        'not null' => TRUE,
+        'default' => 0,
+      ),
+      'updated' => array(
+        'description' => 'The Unix timestamp when the campaign was most recently saved.',
+        'type' => 'int',
+        'not null' => TRUE,
+        'default' => 0,
+      ),
+    ),
+    'primary key' => array('mc_campaign_id'),
+  );
+  return $schema;
+}
+
+/**
+ * Implements hook_install().
+ */
+function mailchimp_campaign_install() {
+  $format_name = 'mailchimp_campaign';
+
+  if (!filter_format_exists($format_name)) {
+    // Add text formats.
+    $mailchimp_campaign_format = array(
+      'format' => $format_name,
+      'name' => 'MailChimp campaign',
+      'weight' => 0,
+      'filters' => array(
+        // URL filter.
+        $format_name => array(
+          'weight' => 0,
+          'status' => 1,
+        ),
+        // HTML corrector filter.
+        'filter_htmlcorrector' => array(
+          'weight' => 1,
+          'status' => 1,
+        ),
+      ),
+    );
+    $mailchimp_campaign_format = (object) $mailchimp_campaign_format;
+    filter_format_save($mailchimp_campaign_format);
+  }
+}

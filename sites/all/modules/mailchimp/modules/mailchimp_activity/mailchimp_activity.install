@@ -1,0 +1,103 @@
+<?php
+
+/**
+ * @file
+ * Install, update and uninstall functions for the mailchimp_activity module.
+ */
+
+/**
+ * Implements hook_schema().
+ */
+function mailchimp_activity_schema() {
+
+  $schema['mailchimp_activity_entity'] = array(
+    'description' => t('MailChimp activity enabled entities.'),
+    'fields' => array(
+      'mailchimp_activity_entity_id' => array(
+        'type' => 'serial',
+        'not null' => TRUE,
+        'description' => t('Primary Key: Unique mailchimp_activity_entity entity ID.'),
+      ),
+      'name' => array(
+        'description' => t('The machine-readable name of this mailchimp_activity_entity.'),
+        'type' => 'varchar',
+        'length' => 128,
+        'not null' => TRUE,
+      ),
+      'label' => array(
+        'description' => t('The human-readable name of this mailchimp_activity_entity.'),
+        'type' => 'varchar',
+        'length' => 128,
+        'not null' => TRUE,
+      ),
+      'entity_type' => array(
+        'description' => t('The Drupal entity type (e.g. "node", "user").'),
+        'type' => 'varchar',
+        'length' => 128,
+        'not null' => TRUE,
+        'default' => '',
+      ),
+      'bundle' => array(
+        'description' => t('The Drupal bundle (e.g. "page", "user")'),
+        'type' => 'varchar',
+        'length' => 128,
+        'not null' => TRUE,
+        'default' => '',
+      ),
+      'entity_path' => array(
+        'description' => t('The path to view individual entities of the selected type.'),
+        'type' => 'varchar',
+        'length' => 128,
+        'not null' => TRUE,
+        'default' => '',
+      ),
+      'email_property' => array(
+        'description' => t('The property that contains the email address to track'),
+        'type' => 'varchar',
+        'length' => 128,
+        'not null' => TRUE,
+        'default' => '',
+      ),
+      'enabled' => array(
+        'type' => 'int',
+        'not null' => TRUE,
+        'default' => 0,
+        'size' => 'tiny',
+        'description' => t('Whether or not this MailChimp activity stream is enabled.'),
+      ),
+      // The following fields are for supporting exportable status.
+      'locked' => array(
+        'description' => t('A boolean indicating whether the administrator may delete this mapping.'),
+        'type' => 'int',
+        'not null' => TRUE,
+        'default' => 0,
+        'size' => 'tiny',
+      ),
+      'status' => array(
+        'type' => 'int',
+        'not null' => TRUE,
+        // Set the default to ENTITY_CUSTOM without using the constant as it is
+        // not safe to use it at this point.
+        'default' => 0x01,
+        'size' => 'tiny',
+        'description' => t('The exportable status of the entity.'),
+      ),
+      'module' => array(
+        'description' => t('The name of the providing module if the entity has been defined in code.'),
+        'type' => 'varchar',
+        'length' => 255,
+        'not null' => FALSE,
+      ),
+    ),
+    'primary key' => array('mailchimp_activity_entity_id'),
+    'unique keys' => array(
+      'name' => array('name'),
+      'entity_type_bundle' => array(
+        'entity_type',
+        'bundle',
+      ),
+    ),
+  );
+
+  return $schema;
+}

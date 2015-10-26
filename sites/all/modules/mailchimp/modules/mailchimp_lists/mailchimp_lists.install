@@ -1,0 +1,65 @@
+<?php
+
+/**
+ * @file
+ * Install, update and uninstall functions for the mailchimp_lists module.
+ */
+
+/**
+ * Implements hook_uninstall().
+ */
+function mailchimp_lists_uninstall() {
+  module_load_include('module', 'mailchimp_lists');
+  $queue = DrupalQueue::get(MAILCHIMP_QUEUE_CRON);
+  $queue->deleteQueue();
+}
+
+/**
+ * Add default Confirmation Email setting to existing Subscription fields.
+ */
+function mailchimp_lists_update_7000(&$sandbox) {
+  $fields = field_info_fields();
+  foreach ($fields as $field) {
+    if ($field['type'] == 'mailchimp_lists_subscription') {
+      $field['settings']['send_welcome'] = TRUE;
+      field_update_field($field);
+    }
+  }
+}
+
+/**
+ * Enable entity_token.module which is now required in addition to entity.module.
+ */
+function mailchimp_lists_update_7001(&$sandbox) {
+  if (!module_exists('entity_token')) {
+    module_enable(array('entity_token'));
+  }
+}
+
+/**
+ * Convert MailChimp merge field placeholders to proper token syntax.
+ */
+function mailchimp_lists_update_7002(&$sandbox) {
+  $fields = field_info_fields();
+  $instances = field_info_instances();
+
+  // Loop over all configured instances of mailchimp_lists_subscription type
+  // fields, and update their mergefields settings to use the new token syntax.
+  foreach ($instances as $entity_type => $bundles) {
+    foreach ($bundles as $field_instances) {
+      foreach ($field_instances as $field_instance) {
+        if ($fields[$field_instance['field_name']]['type'] == 'mailchimp_lists_subscription' && isset($field_instance['settings']['mergefields'])) {
+          foreach ($field_instance['settings']['mergefields'] as $key => $value) {
+            if (!empty($value)) {
+              // Convert to token syntax like [user:mail].
+              $value = str_replace('_', '-', $value);
+              $field_instance['settings']['mergefields'][$key] = '[' . $entity_type . ':' . $value . ']';
+            }
+          }
+          // Save any changes to the field instance.
+          field_update_instance($field_instance);
+        }
+      }
+    }
+  }
+}

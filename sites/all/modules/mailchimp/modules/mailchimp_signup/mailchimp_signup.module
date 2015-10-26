@@ -1,0 +1,465 @@
+<?php
+
+/**
+ * @file
+ * Mailchimp Signup module. Allows creation of signup forms integrated with
+ * Mailchimp.
+ */
+
+define('MAILCHIMP_SIGNUP_BLOCK', 1);
+define('MAILCHIMP_SIGNUP_PAGE', 2);
+define('MAILCHIMP_SIGNUP_BOTH', 3);
+
+/**
+ * Implements hook_menu().
+ */
+function mailchimp_signup_menu() {
+  $items = array();
+
+  $items['admin/config/services/mailchimp/signup/%mailchimp_signup/edit'] = array(
+    'title' => 'Edit a signup form',
+    'description' => 'Edit a Signup form.',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('mailchimp_signup_signup_form', 5),
+    'load arguments' => array(5),
+    'access arguments' => array('administer mailchimp'),
+    'file' => 'includes/mailchimp_signup.admin.inc',
+    'type' => MENU_CALLBACK,
+  );
+  $items['admin/config/services/mailchimp/signup/%mailchimp_signup/delete'] = array(
+    'title' => 'Delete Signup form',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('mailchimp_signup_signup_delete_form', 5),
+    'access arguments' => array('administer mailchimp'),
+    'file' => 'includes/mailchimp_signup.admin.inc',
+  );
+
+  $signups = mailchimp_signup_load_multiple();
+  foreach ($signups as $signup) {
+    if (intval($signup->mode) == MAILCHIMP_SIGNUP_PAGE || intval($signup->mode) == MAILCHIMP_SIGNUP_BOTH) {
+      $items[$signup->settings['path']] = array(
+        'title' => $signup->title,
+        'page callback' => 'mailchimp_signup_page',
+        'page arguments' => array($signup->identifier()),
+        'access callback' => 'user_access',
+        'access arguments' => array('access mailchimp signup pages'),
+        'type' => MENU_SUGGESTED_ITEM,
+      );
+    }
+  }
+  return $items;
+}
+
+/**
+ * Implements hook_permission().
+ */
+function mailchimp_signup_permission() {
+  $return = array();
+  $return['administer mailchimp signup entities'] = array(
+    'title' => t('Administer Mailchimp Signup Entities.'),
+  );
+  $return['access mailchimp signup pages'] = array(
+    'title' => t('Access all Mailchimp Signup Pages.'),
+    'description' => t('This does not effect Signup Blocks: only Pages.'),
+  );
+
+  return $return;
+}
+
+/**
+ * Implements hook_block_info().
+ */
+function mailchimp_signup_block_info() {
+  $blocks = array();
+  $signups = mailchimp_signup_load_multiple();
+  foreach ($signups as $signup) {
+    if (intval($signup->mode) == MAILCHIMP_SIGNUP_BLOCK || intval($signup->mode) == MAILCHIMP_SIGNUP_BOTH) {
+      $blocks[$signup->identifier()] = array(
+        'info' => t('Mailchimp Subscription Form: @name', array('@name' => $signup->label())),
+        'cache' => DRUPAL_CACHE_PER_USER,
+      );
+    }
+  }
+  return $blocks;
+}
+
+/**
+ * Implements hook_block_view().
+ *
+ * Provides a block for each signup configured to add a block.
+ */
+function mailchimp_signup_block_view($delta = '') {
+  $signup = mailchimp_signup_load($delta);
+  if ($signup) {
+    $block = array(
+      'subject' => check_plain($signup->title),
+      'content' => drupal_get_form('mailchimp_signup_subscribe_block_' . $signup->name . '_form', $signup, 'mailchimp_signup_block'),
+    );
+  }
+  else {
+    $block = FALSE;
+  }
+  return $block;
+}
+
+/**
+ * Wrapper around mailchimp_signup_load_multiple to load a single signup entity.
+ */
+function mailchimp_signup_load($signup_id) {
+  $signups = mailchimp_signup_load_multiple(array($signup_id));
+  if ($signups) {
+    return reset($signups);
+  }
+  else {
+    return FALSE;
+  }
+}
+
+/**
+ * Loads multiple signup forms.
+ */
+function mailchimp_signup_load_multiple($signup_ids = array(), $conditions = array(), $reset = FALSE) {
+  if (empty($signup_ids)) {
+    $signup_ids = FALSE;
+  }
+
+  return entity_load('mailchimp_signup', $signup_ids, $conditions, $reset);
+}
+
+/**
+ * Deletes multiple signups by ID.
+ *
+ * @param array $signup_ids
+ *   An array of signup IDs to delete.
+ *
+ * @return bool
+ *   TRUE on success, FALSE otherwise.
+ */
+function mailchimp_signup_delete_multiple($signup_ids) {
+  return entity_get_controller('mailchimp_signup')->delete($signup_ids);
+}
+
+/**
+ * Gets an array of all Signups, keyed by the list name.
+ *
+ * @param string $name
+ *   If set, the signup with the given name is returned.
+ *
+ * @return MailchimpSignup[]
+ *   Depending whether $name isset, an array of signups or a single one.
+ */
+function mailchimp_signup_load_multiple_by_name($name = NULL) {
+  $signups = entity_load_multiple_by_name('mailchimp_signup', isset($name) ? array($name) : FALSE);
+  return isset($name) ? reset($signups) : $signups;
+}
+
+/**
+ * Implements hook_entity_info().
+ */
+function mailchimp_signup_entity_info() {
+  $entities = array(
+    'mailchimp_signup' => array(
+      'label' => t('MailChimp Signup'),
+      'plural label' => t('MailChimp Signups'),
+      'entity class' => 'MailchimpSignup',
+      'controller class' => 'EntityAPIControllerExportable',
+      'base table' => 'mailchimp_signup',
+      'uri callback' => 'entity_class_uri',
+      'fieldable' => FALSE,
+      'exportable' => TRUE,
+      'label callback' => 'mailchimp_signup_entity_info_label',
+      'module' => 'mailchimp_signup',
+      'entity keys' => array(
+        'id' => 'mcs_id',
+        'name' => 'name',
+      ),
+      'bundles' => array(
+        'mailchimp_signup' => array(
+          'label' => t('MailChimp Signup'),
+        ),
+      ),
+      'view modes' => array(
+        'full' => array(
+          'label' => t('Full'),
+          'custom settings' => FALSE,
+        ),
+      ),
+      // Enable the entity API's admin UI.
+      'admin ui' => array(
+        'path' => 'admin/config/services/mailchimp/signup',
+        'file' => 'includes/mailchimp_signup.admin.inc',
+        'controller class' => 'MailChimpSignupUIController',
+      ),
+      'access callback' => 'mailchimp_signup_entity_access',
+    ),
+  );
+
+  return $entities;
+}
+
+/**
+ * Entity label callback.
+ */
+function mailchimp_signup_entity_info_label($entity, $entity_type) {
+  return empty($entity) ? 'New MailChimp Signup' : $entity->title;
+}
+
+/**
+ * Access callback for mailchimp_activity_entity.
+ */
+function mailchimp_signup_entity_access() {
+  return mailchimp_apikey_ready_access('administer mailchimp signup entities');
+}
+
+/**
+ * Menu callback for Signup pages.
+ */
+function mailchimp_signup_page($signup_id) {
+  $signup = mailchimp_signup_load($signup_id);
+  return drupal_get_form('mailchimp_signup_subscribe_page_' . $signup_id . '_form', $signup, 'mailchimp_signup_page');
+}
+
+/**
+ * Implements hook_forms().
+ *
+ * This allows each subscription form rendering to have a unique form
+ * ID. If this weren't the case, multiple forms getting rendered on a single
+ * page display would have submit button conflicts.
+ */
+function mailchimp_signup_forms($form_id, $args) {
+  $forms = array();
+  if (strpos($form_id, 'mailchimp_') === 0 && isset($args[1])) {
+    if ($args[1] == 'mailchimp_signup_page') {
+      $forms['mailchimp_signup_subscribe_page_' . $args[0]->name . '_form'] = array(
+        'callback' => 'mailchimp_signup_subscribe_form',
+      );
+    }
+    if ($args[1] == 'mailchimp_signup_block') {
+      $forms['mailchimp_signup_subscribe_block_' . $args[0]->name . '_form'] = array(
+        'callback' => 'mailchimp_signup_subscribe_form',
+      );
+    }
+  }
+  return $forms;
+}
+
+/**
+ * Returns a subscription form for mailchimp lists.
+ *
+ * If there are multiple lists, this generates a single form for all of them.
+ */
+function mailchimp_signup_subscribe_form($form, &$form_state, $signup, $type) {
+  $form['#attributes'] = array('class' => array('mailchimp-signup-subscribe-form'));
+  $form['description'] = array(
+    '#markup' => filter_xss_admin($signup->settings['description']),
+    '#prefix' => '<div class="mailchimp-signup-subscribe-form-description">',
+    '#suffix' => '</div>'
+  );
+  $form['mailchimp_lists'] = array('#tree' => TRUE);
+  $lists = mailchimp_get_lists($signup->mc_lists);
+  $lists_count = (!empty($lists)) ? count($lists) : 0;
+
+  if (empty($lists)) {
+    drupal_set_message('The subscription service is currently unavailable. Please try again later.', 'warning');
+  }
+
+  $list = array();
+  if ($lists_count > 1) {
+    foreach ($lists as $list) {
+      // Wrap in a div:
+      $wrapper_key = 'mailchimp_' . $list['web_id'];
+      $form['mailchimp_lists'][$wrapper_key] = array(
+        '#prefix' => '<div id="mailchimp-newsletter-' . $list['web_id'] . '" class="mailchimp-newsletter-wrapper">',
+        '#suffix' => '</div>',
+      );
+      $form['mailchimp_lists'][$wrapper_key]['subscribe'] = array(
+        '#type' => 'checkbox',
+        '#title' => $list['name'],
+        '#return_value' => $list['id'],
+        '#default_value' => 0,
+      );
+      if ($signup->settings['include_interest_groups'] && isset($list['intgroups'])) {
+        $form['mailchimp_lists'][$wrapper_key]['interest_groups'] = array(
+          '#type' => 'fieldset',
+          '#title' => t('Interest Groups for %label', array('%label' => $list['name'])),
+          '#states' => array(
+            'invisible' => array(
+              ':input[name="mailchimp_lists[' . $wrapper_key . '][subscribe]"]' => array('checked' => FALSE),
+            ),
+          ),
+        );
+        $form['mailchimp_lists'][$wrapper_key]['interest_groups'] += mailchimp_interest_groups_form_elements($list);
+      }
+    }
+  }
+  else {
+    $list = reset($lists);
+    if ($signup->settings['include_interest_groups'] && isset($list['intgroups'])) {
+      $form['mailchimp_lists']['#weight'] = 9;
+      $form['mailchimp_lists']['interest_groups'] = mailchimp_interest_groups_form_elements($list);
+    }
+  }
+  $form['mergevars'] = array(
+    '#prefix' => '<div id="mailchimp-newsletter-' . $list['web_id'] . '-mergefields" class="mailchimp-newsletter-mergefields">',
+    '#suffix' => '</div>',
+    '#tree' => TRUE,
+  );
+  foreach ($signup->settings['mergefields'] as $tag => $mergevar) {
+    if (!empty($mergevar)) {
+      $mergevar['name'] = mailchimp_signup_tt("field:mailchimp_signup:form:$signup->mcs_id:mergefield:$tag", $mergevar['name']);
+      $form['mergevars'][$tag] = mailchimp_insert_drupal_form_tag($mergevar);
+      if (empty($lists)) {
+        $form['mergevars'][$tag]['#disabled'] = TRUE;
+      }
+    }
+  }
+
+  $form['actions']['#type'] = 'actions';
+  $form['actions']['submit'] = array(
+    '#type' => 'submit',
+    '#weight' => 10,
+    '#value' => $signup->settings['submit_button'],
+    '#disabled' => (empty($lists)),
+  );
+
+  return $form;
+}
+
+/**
+ * Validation handler for mailchimp_signup_subscribe_form.
+ */
+function mailchimp_signup_subscribe_form_validate($form, &$form_state) {
+  $signup = reset($form_state['build_info']['args']);
+  if (count($signup->mc_lists) > 1) {
+    foreach ($form_state['values']['mailchimp_lists'] as $list) {
+      if ($list['subscribe']) {
+        return;
+      }
+    }
+    form_set_error('mailchimp_lists', t("Please select at least one list to subscribe to."));
+  }
+}
+
+/**
+ * Submit handler to add users to lists on subscription form submission.
+ */
+function mailchimp_signup_subscribe_form_submit($form, &$form_state) {
+  $signup = reset($form_state['build_info']['args']);
+  $list_details = mailchimp_get_lists($signup->mc_lists);
+  $subscribe_lists = array();
+  // Filter out blank fields so we don't erase values on the Mailchimp side.
+  $merge_values = array_filter($form_state['values']['mergevars']);
+  $email = $merge_values['EMAIL'];
+  // If we only have one list we won't have checkbox values to investigate:
+  if (count($signup->mc_lists) == 1) {
+    $subscribe_lists[0] = array(
+      'subscribe' => reset($signup->mc_lists),
+      'interest_groups' => isset($form_state['values']['mailchimp_lists']['interest_groups']) ? $form_state['values']['mailchimp_lists']['interest_groups'] : NULL,
+    );
+  }
+  else {
+    // We can look at the checkbox values now:
+    foreach ($form_state['values']['mailchimp_lists'] as $list) {
+      if ($list['subscribe']) {
+        $subscribe_lists[] = $list;
+      }
+    }
+  }
+  $successes = array();
+  // Loop through the selected lists and try to subscribe:
+  foreach ($subscribe_lists as $list_choices) {
+    $list_id = $list_choices['subscribe'];
+    $mergevars = $merge_values;
+    if (isset($list_choices['interest_groups'])) {
+      $mergevars['GROUPINGS'] = mailchimp_reformat_groupings($list_choices['interest_groups']);
+    }
+    $result = mailchimp_subscribe($list_id, $email, $mergevars, $signup->settings['doublein'], $signup->settings['send_welcome']);
+    // Let other modules act on the results in hook_form_alter.
+    $form_state['mailchimp_results'] = $result;
+    if (empty($result)) {
+      drupal_set_message(t('There was a problem with your newsletter signup to %list.', array(
+        '%list' => $list_details[$list_id]['name'],
+      )), 'warning');
+    }
+    else {
+      $successes[] = $list_details[$list_id]['name'];
+    }
+  }
+  if (count($successes) && isset($signup->settings['confirmation_message']) && strlen($signup->settings['confirmation_message'])) {
+    $message = mailchimp_signup_tt("field:mailchimp_signup:form:$signup->mcs_id:confirmation_message", check_plain($signup->settings['confirmation_message']));
+    drupal_set_message($message, 'status');
+  }
+  if (!empty($signup->settings['destination'])) {
+    $form_state['redirect'] = $signup->settings['destination'];
+  }
+}
+
+/**
+ * Implements hook_entity_delete().
+ */
+function mailchimp_signup_entity_delete($entity, $type) {
+  if ($type == 'mailchimp_signup') {
+    if ($entity->mode & MAILCHIMP_SIGNUP_PAGE) {
+      menu_rebuild();
+    }
+  }
+}
+
+/**
+ * Wrapper function for i18n_string() if i18nstrings enabled.
+ */
+function mailchimp_signup_tt($name, $string, $langcode = NULL, $update = FALSE) {
+  if (function_exists('i18n_string')) {
+    $options = array(
+      'langcode' => $langcode,
+      'update' => $update,
+    );
+    return i18n_string($name, $string, $options);
+  }
+  else {
+    return $string;
+  }
+}
+
+/**
+ * Implements hook_feeds_node_processor_targets_alter().
+ */
+function mailchimp_signup_feeds_processor_targets_alter(&$targets, $type, $bundle) {
+  // Create target for all MailChimp list subscription fields.
+  $field_info = field_info_field_types('mailchimp_lists_subscription');
+  $field_instances = field_info_instances($type, $bundle);
+  foreach ($field_instances as $field_name => $field) {
+    if ($field['widget']['type'] == $field_info['default_widget']) {
+      $targets[$field_name . ':subscribe'] = array(
+        'name' => t($field['label']),
+        'description' => t('MailChimp subscription field.'),
+        'callback' => 'mailchimp_signup_set_target',
+      );
+    }
+  }
+}
+
+/**
+ * Mapping callback.
+ */
+function mailchimp_signup_set_target($source, $entity, $target, $value, $mapping) {
+  list($field_name, $option) = explode(':', $target . ':value');
+
+  $field = isset($entity->$field_name) ? $entity->$field_name : array('und' => array());
+
+  $delta = 0;
+  if (is_array($value)) {
+    foreach ($value as $each_value) {
+      if (is_object($each_value) && ($each_value instanceof FeedsElement)) {
+        $each_value = $value->getValue();
+        $field['und'][$delta] = array($option => $each_value);
+      }
+      $delta++;
+    }
+  }
+  else {
+    $field['und'][$delta] = array($option => $value);
+  }
+
+  $entity->$field_name = $field;
+}

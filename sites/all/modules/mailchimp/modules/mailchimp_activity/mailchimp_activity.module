@@ -1,0 +1,293 @@
+<?php
+
+/**
+ * @file
+ * Module file for mailchimp_activity.
+ */
+
+/**
+ * Implements hook_entity_info().
+ */
+function mailchimp_activity_entity_info() {
+  $return = array(
+    'mailchimp_activity_entity' => array(
+      'label' => t('MailChimp Activity Entity'),
+      'plural label' => t('MailChimp Activity Entities'),
+      'controller class' => 'EntityAPIControllerExportable',
+      'entity class' => 'MailchimpActivityEntity',
+      'base table' => 'mailchimp_activity_entity',
+      'uri callback' => 'entity_class_uri',
+      'fieldable' => FALSE,
+      'exportable' => TRUE,
+      'module' => 'mailchimp_activity',
+      'entity keys' => array(
+        'id' => 'mailchimp_activity_entity_id',
+        'name' => 'name',
+        'label' => 'label',
+      ),
+      // Enable the entity API's admin UI.
+      'admin ui' => array(
+        'path' => 'admin/config/services/mailchimp/activity',
+        'file' => 'includes/mailchimp_activity.admin.inc',
+        'controller class' => 'MailChimpActivityUIController',
+      ),
+      'label callback' => 'mailchimp_activity_entity_info_label',
+      'access callback' => 'mailchimp_activity_entity_access',
+    ),
+  );
+
+  return $return;
+}
+
+/**
+ * Entity label callback.
+ */
+function mailchimp_activity_entity_info_label($entity, $entity_type) {
+  return empty($entity) ? 'New MailChimp Activity' : $entity->label;
+}
+
+/**
+ * Access callback for mailchimp_activity_entity.
+ */
+function mailchimp_activity_entity_access() {
+  return mailchimp_apikey_ready_access('administer mailchimp activity');
+}
+
+/**
+ * Implements hook_menu().
+ */
+function mailchimp_activity_menu() {
+  $items = array();
+  $mailchimp_activity_entities = mailchimp_activity_load_entities();
+  foreach ($mailchimp_activity_entities as $mailchimp_activity_entity) {
+    $arg = substr_count($mailchimp_activity_entity->entity_path, '/');
+    $items[$mailchimp_activity_entity->entity_path . '%entity_object/mailchimp_activity'] = array(
+      'title' => 'MailChimp Activity',
+      'load arguments' => array($mailchimp_activity_entity->entity_type),
+      'page callback' => 'mailchimp_activity_page',
+      'page arguments' => array($arg, $mailchimp_activity_entity),
+      'access callback' => 'mailchimp_activity_access',
+      'access arguments' => array($mailchimp_activity_entity),
+      'type' => MENU_LOCAL_TASK,
+    );
+  }
+
+  return $items;
+}
+
+/**
+ * Access callback for activity menu items.
+ */
+function mailchimp_activity_access(MailchimpActivityEntity $mailchimp_activity_entity) {
+  if ($mailchimp_activity_entity->enabled && user_access('access mailchimp activity')) {
+    return TRUE;
+  }
+  return FALSE;
+}
+
+/**
+ * Loads a single or multiple instances of MailChimpActivityEntity.
+ *
+ * @param string $name
+ *   Optional name of the MailChimpActivityEntity instance to load.
+ *
+ * @return mixed
+ *   Array of MailchimpActivityEntity instances or one instance if $name is set.
+ */
+function mailchimp_activity_load_entities($name = NULL) {
+  $types = entity_load_multiple_by_name('mailchimp_activity_entity', isset($name) ? array($name) : FALSE);
+  return isset($name) ? reset($types) : $types;
+}
+
+/**
+ * Get the MailChimp member activity for a given email address and list.
+ *
+ * Results are cached in the cache_mailchimp_user bin which is cleared by the
+ * MailChimp web hooks system when needed.
+ *
+ * @param string $list_id
+ *   The MailChimp list to get activity for.
+ * @param string $email
+ *   The MailChimp user email address to get activity for.
+ * @param bool $reset
+ *   Set to TRUE if member activity should not be loaded from cache.
+ *
+ * @return array
+ *   Associative array of MailChimp member activity.
+ */
+function mailchimp_activity_get_member_activity($list_id, $email, $reset = FALSE) {
+  $cache = $reset ? NULL : cache_get("activity_{$list_id}_{$email}", 'cache_mailchimp');
+  $memberactivity = array();
+
+  // Return cached lists:
+  if ($cache && isset($cache->data)) {
+    $memberactivity = $cache->data;
+  }
+  // Query lists from the MailChimp API and store in cache:
+  else {
+    $mcapi = mailchimp_get_api_object();
+
+    $emails = array();
+    $emails[] = array('email' => $email);
+    try {
+      if (!$mcapi) {
+        throw new MailchimpException('Cannot get member activity without Mailchimp API. Check API key has been entered.');
+      }
+      $result = $mcapi->lists->memberActivity($list_id, $emails);
+    }
+    catch (Mailchimp_Error $e) {
+      drupal_set_message($e->getMessage(), 'error');
+      watchdog('mailchimp_campaign', 'An error occurred while getting activity: ' . $e->getMessage(), WATCHDOG_ERROR);
+      return NULL;
+    }
+    if ($result['success_count'] > 0) {
+      $memberactivity = reset($result['data']);
+      cache_set('activity_' . $list_id . '_' . $email, $memberactivity, 'cache_mailchimp', CACHE_TEMPORARY);
+    }
+    if ($result['error_count'] > 0) {
+      foreach ($result['errors'] as $error) {
+        watchdog('mailchimp_activity',
+          'An error occurred getting activity for email "' . $error['email'] . '": ' . $error['error'], WATCHDOG_ERROR);
+      }
+    }
+
+  }
+
+  return $memberactivity;
+}
+
+/**
+ * Content for the mailchimp log tab on entity instance pages.
+ *
+ * @param object $entity
+ *   The entity this page is being generated for.
+ * @param MailchimpActivityEntity $mailchimp_activity_entity
+ *   The MailChimpActivityEntity instance for this page.
+ *
+ * @return array
+ *   Render array for the activity page.
+ */
+function mailchimp_activity_page($entity, MailchimpActivityEntity $mailchimp_activity_entity) {
+  $entity_wrapper = entity_metadata_wrapper($mailchimp_activity_entity->entity_type, $entity);
+  $email_property = $mailchimp_activity_entity->email_property;
+  $email_property_array = explode(':', $email_property);
+  $parent = $entity_wrapper;
+  foreach ($email_property_array as $drupal_field) {
+    if ($parent instanceof EntityListWrapper) {
+      $child_wrapper = $parent->get(0)->{$drupal_field};
+    }
+    else {
+      $child_wrapper = $parent->{$drupal_field};
+    }
+    $parent = $child_wrapper;
+  }
+  $email = $parent->value();
+  // Validate email address.
+  if (!valid_email_address($email)) {
+    return array(
+      'error_notice' => array(
+        '#markup' => t('%email does not contain a valid email address. Unable to lookup MailChimp activity history without a valid email.',
+          array('%email' => $email_property)
+        ),
+      ),
+    );
+  }
+
+  $header = array(
+    t('Campaign'),
+    t('Action'),
+    t('Date & Time'),
+  );
+  $rows = array();
+  // Loop through all activities, creating rows for each:
+  $user_activity = mailchimp_activity_get_all_activity($email);
+  $campaigns = mailchimp_get_campaigns_for_email($email);
+  $campaign_index = array();
+  foreach ($campaigns as $campaign) {
+    $campaign_index[$campaign['id']] = $campaign;
+  }
+  if (!empty($user_activity)) {
+    foreach ($user_activity as $list_activity) {
+      $rows[] = array(
+        'no_striping' => TRUE,
+        'data' => array(
+          array(
+            'data' => '<strong>List: ' . $list_activity['list']['name'] . '</strong>',
+            'colspan' => count($header),
+            'style' => 'text-align:center',
+          ),
+        ),
+      );
+
+      foreach ($list_activity['activity']['activity'] as $activity) {
+        if (!empty($activity['campaign_id'])) {
+          if (empty($campaign_index[$activity['campaign_id']]['details'])) {
+            $campaign_index[$activity['campaign_id']]['details'] = mailchimp_get_campaign_data($activity['campaign_id']);
+          }
+          $title = array(
+            'data' => array(
+              '#type' => 'link',
+              '#title' => $campaign_index[$activity['campaign_id']]['title'],
+              '#href' => $campaign_index[$activity['campaign_id']]['details']['archive_url'],
+            ),
+          );
+        }
+        else {
+          $title = $activity['title'];
+        }
+        $rows[] = array(
+          $title,
+          $activity['action'],
+          $activity['timestamp'],
+        );
+      }
+    }
+  }
+
+  $display['mailchimp_activity'] = array(
+    '#theme' => 'table',
+    '#header' => $header,
+    '#rows' => $rows,
+  );
+  return $display;
+}
+
+/**
+ * Return all activity on all lists for a given email address.
+ *
+ * @param string $email
+ *   The email address to get activity for.
+ *
+ * @return array
+ *   Array of MailChimp activity for the email address.
+ */
+function mailchimp_activity_get_all_activity($email) {
+  $all_activity = array();
+
+  $lists = mailchimp_get_lists_for_email($email);
+  foreach ($lists as $list) {
+    $all_activity[$list['id']] = array(
+      'list' => $list,
+      'activity' => mailchimp_activity_get_member_activity($list['id'], $email),
+    );
+  }
+
+  return $all_activity;
+}
+
+/**
+ * Implements hook_permission().
+ */
+function mailchimp_activity_permission() {
+  $return = array();
+
+  $return['access mailchimp activity'] = array(
+    'title' => t('Access MailChimp activity'),
+    'description' => t('View own MailChimp activity history.'),
+  );
+  $return['administer mailchimp activity'] = array(
+    'title' => t('Administer MailChimp activity entities'),
+    'description' => t('Add, Delete, and Configure MailChimp Activity entity settings.'),
+  );
+  return $return;
+}

@@ -1,0 +1,18 @@
+fieldset#entity-import .form-type-select, fieldset#entity-import .form-type-textfield, div.content-entity-lookup-wrapper {
+    display: inline-block;
+    margin-right: 10px!important;
+}
+
+fieldset#entity-import .form-item {
+    padding: 0!important;
+}
+
+div.form-type-item {
+    clear: both;
+    margin: 5px auto 5px auto!important;
+}
+
+div.filter-guidelines-mailchimp_campaign ul.tips li {
+    list-style-type: none;
+    margin: 0!important;
+}

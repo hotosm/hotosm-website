@@ -1,0 +1,21 @@
+name = MailChimp Campaigns
+description = Create, send and import MailChimp campaigns.
+package = MailChimp
+core = 7.x
+
+dependencies[] = mailchimp_lists
+dependencies[] = entity
+
+files[] = includes/mailchimp_campaign.admin.inc
+files[] = includes/mailchimp_campaign.entity.inc
+files[] = includes/mailchimp_campaign.controller.inc
+files[] = tests/mailchimp_campaigns.test
+
+configure = admin/config/services/mailchimp/campaigns
+
+; Information added by Drupal.org packaging script on 2015-09-10
+version = "7.x-3.6"
+core = "7.x"
+project = "mailchimp"
+datestamp = "1441921145"
+
