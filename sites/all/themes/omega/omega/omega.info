@@ -1,5 +1,5 @@
 name = Omega
-description = A powerful HTML5 base theme framework utilizing tools like <a href="http://sass-lang.com/" title="Sass">Sass</a>, <a href="http://compass-style.org/" title="Compass">Compass</a>, <a href="http://gruntjs.com/" title="Grunt">Grunt</a>, <a href="http://bower.io/" title="Bower">Bower</a>, <a href="http://rvm.io/" title="Ruby Version Manager">Ruby Version Manager</a>, <a href="http://bundler.io/" title="Bundler">Bundler</a> and more.
+description = A powerful base theme framework.
 screenshot = screenshot.png
 engine = phptemplate
 core = 7.x
@@ -19,9 +19,9 @@ regions[footer]         = Footer
 plugins[panels][layouts] = panels/layouts
 plugins[panels][styles] = panels/styles
 
-; Information added by Drupal.org packaging script on 2014-10-20
-version = "7.x-4.3"
+; Information added by Drupal.org packaging script on 2015-07-21
+version = "7.x-4.4"
 core = "7.x"
 project = "omega"
-datestamp = "1413819533"
+datestamp = "1437473042"
 

@@ -119,16 +119,6 @@ function omega_extension_development_settings_form($element, &$form, $form_state
     );
   }
 
-  $form['#submit'][] = 'omega_extension_development_settings_form_submit';
-
   return $element;
 }
 
-/**
- * Form submit handler for the theme settings form to clean up stale values.
- */
-function omega_extension_development_settings_form_submit($form, &$form_state) {
-  if (empty($form_state['values']['omega_demo_regions'])) {
-    unset($form_state['values']['omega_demo_regions_list']);
-  }
-}

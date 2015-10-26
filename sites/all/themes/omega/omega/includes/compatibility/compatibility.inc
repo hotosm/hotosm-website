@@ -87,7 +87,7 @@ function omega_extension_compatibility_preprocess_html(&$variables) {
     $content = array('width=device-width');
 
     // Add the 'initial-scale' property if configured.
-    if ($value = omega_theme_get_setting('omega_viewport_initial_scale')) {
+    if (($value = omega_theme_get_setting('omega_viewport_initial_scale')) && $value != '_default') {
       $content[] = "initial-scale=$value";
     }
 
@@ -99,7 +99,7 @@ function omega_extension_compatibility_preprocess_html(&$variables) {
     else {
       // Set the minimum-scale and maximum-scale properties if specified.
       foreach (array('minimum', 'maximum') as $type) {
-        if ($value = omega_theme_get_setting("omega_viewport_{$type}_scale")) {
+        if (($value = omega_theme_get_setting("omega_viewport_{$type}_scale", '_default')) && $value != '_default') {
           $content[] = "$type-scale=$value";
         }
       }
@@ -148,11 +148,11 @@ function omega_extension_compatibility_preprocess_html(&$variables) {
   // Send X-UA-Compatible HTTP header to force IE to use the most recent
   // rendering engine or use Chrome's frame rendering engine if available.
   if (omega_theme_get_setting('omega_chrome_edge', TRUE)) {
-    $supported = omega_theme_get_setting('omega_internet_explorer_support', FALSE);
+    $supported = omega_theme_get_setting('omega_internet_explorer_support', '_none');
 
     if (drupal_get_http_header('X-UA-Compatible') === NULL) {
       // Only add the header if it hasn't been added before.
-      drupal_add_http_header('X-UA-Compatible', 'IE=edge,chrome=' . ($supported ? 'IE' . $supported : '1'));
+      drupal_add_http_header('X-UA-Compatible', 'IE=edge,chrome=' . ($supported && $supported != '_none' ? 'IE' . $supported : '1'));
     }
   }
 }

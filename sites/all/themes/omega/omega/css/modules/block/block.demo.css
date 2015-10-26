@@ -26,10 +26,8 @@
   line-height: 20px;
   /* Other Declarations */
   background-color: #b4d7f0;
-  -webkit-border-radius: 0 0 10px 10px;
   -moz-border-radius: 0 0 10px 10px;
-  -ms-border-radius: 0 0 10px 10px;
-  -o-border-radius: 0 0 10px 10px;
+  -webkit-border-radius: 0;
   border-radius: 0 0 10px 10px;
 }
 

@@ -63,6 +63,12 @@ function omega_assets_prepare_regex(array $paths) {
           break;
         }
       }
+
+      if (empty($tokens[$namespace]) && function_exists('libraries_get_path')) {
+        if ($directory = libraries_get_path($namespace)) {
+          $tokens[$namespace] = preg_quote($directory, '/');
+        }
+      }
     }
 
     // Escape any regex characters and replace tokens and wildcards.

@@ -66,7 +66,7 @@ function omega_extension_compatibility_settings_form($element, &$form, $form_sta
     ),
   );
 
-  $options = array('_none' => t('Default'));
+  $options = array('_default' => t('Default'));
   foreach (range(0.1, 10, 0.1) as $value) {
     // Format the value to display with one decimal.
     $value = number_format($value, 1);
@@ -76,7 +76,7 @@ function omega_extension_compatibility_settings_form($element, &$form, $form_sta
   $element['omega_metatags']['viewport_settings']['omega_viewport_initial_scale'] = array(
     '#type' => 'select',
     '#title' => t('Initial scale'),
-    '#default_value' => omega_theme_get_setting('omega_viewport_initial_scale', '_none'),
+    '#default_value' => omega_theme_get_setting('omega_viewport_initial_scale', '_default'),
     '#options' => $options,
     '#description' => t('The initial scaling of the page. Has to be in the range of the minimum- and maximum scale options.'),
   );
@@ -101,7 +101,7 @@ function omega_extension_compatibility_settings_form($element, &$form, $form_sta
   $element['omega_metatags']['viewport_settings']['scaling_settings']['omega_viewport_minimum_scale'] = array(
     '#type' => 'select',
     '#title' => t('Minimum scale'),
-    '#default_value' => omega_theme_get_setting('omega_viewport_minimum_scale', '_none'),
+    '#default_value' => omega_theme_get_setting('omega_viewport_minimum_scale', '_default'),
     '#options' => $options,
     '#description' => t('The minimum allowed scaling of the site.'),
   );
@@ -109,7 +109,7 @@ function omega_extension_compatibility_settings_form($element, &$form, $form_sta
   $element['omega_metatags']['viewport_settings']['scaling_settings']['omega_viewport_maximum_scale'] = array(
     '#type' => 'select',
     '#title' => t('Maximum scale'),
-    '#default_value' => omega_theme_get_setting('omega_viewport_maximum_scale', '_none'),
+    '#default_value' => omega_theme_get_setting('omega_viewport_maximum_scale', '_default'),
     '#options' => $options,
     '#description' => t('The maximum allowed scaling of the site.'),
   );
@@ -145,27 +145,6 @@ function omega_extension_compatibility_settings_form($element, &$form, $form_sta
     ),
   );
 
-  $form['#submit'][] = 'omega_extension_compatibility_settings_form_submit';
-
   return $element;
 }
 
-/**
- * Form submit callback for the compatibility extension.
- */
-function omega_extension_compatibility_settings_form_submit($form, &$form_state) {
-  $values = &$form_state['values'];
-
-  $options = array(
-    'omega_internet_explorer_support',
-    'omega_viewport_initial_scale',
-    'omega_viewport_minimum_scale',
-    'omega_viewport_maximum_scale',
-  );
-
-  foreach ($options as $item) {
-    if ($values[$item] === '_none') {
-      unset($values[$item]);
-    }
-  }
-}

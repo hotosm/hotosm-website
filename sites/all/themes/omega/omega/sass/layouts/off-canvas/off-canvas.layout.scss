@@ -14,16 +14,24 @@ $vert-spacing-unit: 20px;
 $horz-spacing-unit: 1em;
 
 // Define Susy grid variables mobile first.
-$total-columns: 4;
-$column-width: 4em;
-$gutter-width: $horz-spacing-unit;
-$grid-padding: 10px;
-
-$container-style: magic;
-$container-width: 1100px;
+$susy: (
+  flow: ltr,
+  math: fluid,
+  output: float,
+  gutter-position: after,
+  container: 1100px,
+  container-position: center,
+  columns: 4,
+  gutters: 1/4,
+  column-width: 4em,
+  global-box-sizing: content-box,
+  last-flow: to,
+);
 
 $tab: 44em;
+$tab-columns: 12;
 $desk: 70em;
+$desk-columns: 16;
 
 @import "off-canvas";
 
@@ -39,20 +47,18 @@ $desk: 70em;
   clear: both;
 }
 
-@include breakpoint($tab) {
-  $total-columns: 12;
-
+@include susy-breakpoint($tab, $tab-columns) {
   .l-header,
   .l-main,
   .l-footer {
-    @include set-container-width;
+    max-width: container($tab-columns);
   }
 
   .l-branding {
-    @include span-columns(4, 12);
+    @include span(4 of $tab-columns);
   }
   .l-region--header{
-    @include span-columns(8 omega, 12);
+    @include span(last 8 of $tab-columns);
   }
   .l-region--navigation {
     clear: both;
@@ -62,11 +68,11 @@ $desk: 70em;
   .has-sidebar-second,
   .has-two-sidebars {
     .l-content {
-      @include span-columns(8, 12);
+      @include span(8 of $tab-columns);
     }
     .l-region--sidebar-first,
     .l-region--sidebar-second {
-      @include span-columns(4 omega, 12);
+      @include span(last 4 of $tab-columns);
     }
     .l-region--sidebar-second {
       clear: right;
@@ -74,48 +80,47 @@ $desk: 70em;
   }
 }
 
-@include breakpoint($desk) {
-  $total-columns: 16;
+@include susy-breakpoint($desk, $desk-columns) {
 
   .l-branding {
-    @include span-columns(6, 16);
+    @include span(6 of $desk-columns);
   }
   .l-region--header{
-    @include span-columns(10 omega, 16);
+    @include span(last 10 of $desk-columns);
   }
 
   .has-sidebar-first {
     .l-content {
-      @include span-columns(12 omega, 16);
+      @include span(last 12 of $desk-columns);
     }
     .l-region--sidebar-first {
-      @include span-columns(4, 16);
+      @include span(4 of $desk-columns);
     }
   }
   .has-sidebar-second {
     .l-content {
-      @include span-columns(12, 16);
+      @include span(12 of $desk-columns);
     }
     .l-region--sidebar-second {
-      @include span-columns(4 omega, 16);
+      @include span(last 4 of $desk-columns);
       clear: none;
     }
   }
 
   .has-two-sidebars {
     .l-content {
-      @include span-columns(8, 16);
-      @include push(4, 16);
+      @include span(8 of $desk-columns);
+      @include push(4 of $desk-columns);
     }
     .l-region--sidebar-first,
     .l-region--sidebar-second {
-      @include span-columns(4, 16);
+      @include span(4 of $desk-columns);
     }
     .l-region--sidebar-first {
-      @include pull(12, 16);
+      @include pull(12 of $desk-columns);
     }
     .l-region--sidebar-second {
-      @include omega;
+      @include last;
       clear: none;
     }
   }

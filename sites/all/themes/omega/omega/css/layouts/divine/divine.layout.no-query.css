@@ -33,18 +33,18 @@
 }
 
 .l-branding {
-  width: 50.33557%;
+  width: 6.77966%;
   float: left;
   margin-right: -100%;
-  margin-left: 0%;
+  margin-left: 0;
   clear: none;
 }
 
 .l-region--header {
-  width: 48.99329%;
-  float: right;
-  margin-left: 0;
-  margin-right: 0;
+  width: 15.25424%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 8.47458%;
   clear: none;
 }
 
@@ -54,34 +54,34 @@
 
 /* Content Area */
 .l-content {
-  width: 50.33557%;
+  width: 6.77966%;
   float: left;
   margin-right: -100%;
-  margin-left: 0%;
+  margin-left: 0;
   clear: none;
 }
 
 /* Sidebars */
 .has-one-sidebar .l-region--sidebar-first,
 .has-one-sidebar .l-region--sidebar-second {
-  width: 48.99329%;
-  float: right;
-  margin-left: 0;
-  margin-right: 0;
+  width: 15.25424%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 8.47458%;
   clear: none;
 }
 
 .has-two-sidebars .l-region--sidebar-first {
-  width: 30.20134%;
+  width: 6.77966%;
   float: left;
   margin-right: -100%;
-  margin-left: 51.00671%;
+  margin-left: 8.47458%;
   clear: none;
 }
 .has-two-sidebars .l-region--sidebar-second {
-  width: 18.12081%;
-  float: right;
-  margin-left: 0;
-  margin-right: 0;
+  width: 6.77966%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 16.94915%;
   clear: none;
 }

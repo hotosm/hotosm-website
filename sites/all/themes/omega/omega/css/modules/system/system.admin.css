@@ -199,17 +199,17 @@ small .admin-link:after {
 }
 
 .module-link-help {
-  background: url('../../../images/misc/help.png?1379458577') 0 50% no-repeat;
+  background: url('../../../images/misc/help.png?1382488163') 0 50% no-repeat;
   /* LTR */
 }
 
 .module-link-permissions {
-  background: url('../../../images/misc/permissions.png?1379458577') 0 50% no-repeat;
+  background: url('../../../images/misc/permissions.png?1382488163') 0 50% no-repeat;
   /* LTR */
 }
 
 .module-link-configure {
-  background: url('../../../images/misc/configure.png?1379458577') 0 50% no-repeat;
+  background: url('../../../images/misc/configure.png?1382488163') 0 50% no-repeat;
   /* LTR */
 }
 
@@ -232,10 +232,10 @@ small .admin-link:after {
   background-repeat: no-repeat;
 }
 .system-status-report .error .status-icon {
-  background-image: url('../../../images/misc/message-16-error.png?1379458577');
+  background-image: url('../../../images/misc/message-16-error.png?1382488163');
 }
 .system-status-report .warning .status-icon {
-  background-image: url('../../../images/misc/message-16-warning.png?1379458577');
+  background-image: url('../../../images/misc/message-16-warning.png?1382488163');
 }
 
 /* Merge Cells */

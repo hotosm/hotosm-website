@@ -23,7 +23,7 @@
 
 /* Status Messages */
 .messages--status {
-  background-image: url('../../../images/misc/message-24-ok.png?1379458577');
+  background-image: url('../../../images/misc/message-24-ok.png?1382488163');
   border-color: #be7;
 }
 
@@ -39,7 +39,7 @@ tr.ok {
 
 /* Warning Messages */
 .messages--warning {
-  background-image: url('../../../images/misc/message-24-warning.png?1379458577');
+  background-image: url('../../../images/misc/message-24-warning.png?1382488163');
   border-color: #ed5;
 }
 
@@ -55,7 +55,7 @@ tr.warning {
 
 /* Error Messages */
 .messages--error {
-  background-image: url('../../../images/misc/message-24-error.png?1379458577');
+  background-image: url('../../../images/misc/message-24-error.png?1382488163');
   border-color: #ed541d;
 }
 

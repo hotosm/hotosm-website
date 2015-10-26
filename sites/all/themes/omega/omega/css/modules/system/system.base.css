@@ -29,7 +29,7 @@
 
 /* Animated throbber */
 html.js .form-autocomplete {
-  background-image: url('../../../images/misc/throbber.gif?1379458577');
+  background-image: url('../../../images/misc/throbber.gif?1382488163');
   background-position: 100% 2px;
   /* LTR */
   background-repeat: no-repeat;
@@ -70,8 +70,8 @@ fieldset.collapsible .fieldset-legend {
  */
 .form-textarea-wrapper textarea {
   display: block;
-  -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
   width: 100%;
   margin: 0;
@@ -79,7 +79,7 @@ fieldset.collapsible .fieldset-legend {
 
 .resizable-textarea .grippie {
   height: 9px;
-  background: #eeeeee url('../../../images/misc/grippie.png?1379458577') no-repeat center 2px;
+  background: #eee url('../../../images/misc/grippie.png?1382488163') no-repeat center 2px;
   border: 1px solid #ddd;
   border-top-width: 0;
   cursor: s-resize;
@@ -109,7 +109,7 @@ body.drag {
   width: 15px;
   margin: -0.4em 0;
   padding: 0.4em;
-  background: url('../../../images/misc/draggable.png?1379458577') no-repeat 6px 9px;
+  background: url('../../../images/misc/draggable.png?1382488163') no-repeat 6px 9px;
 }
 .tabledrag-handle:hover {
   text-decoration: none;
@@ -128,17 +128,17 @@ body.drag {
 
 /* Tree Images */
 .tree-child {
-  background: url('../../../images/misc/tree.png?1379458577') no-repeat 12px center;
+  background: url('../../../images/misc/tree.png?1382488163') no-repeat 12px center;
   /* LTR */
 }
 
 .tree-child-last {
-  background: url('../../../images/misc/tree-bottom.png?1379458577') no-repeat 12px center;
+  background: url('../../../images/misc/tree-bottom.png?1382488163') no-repeat 12px center;
   /* LTR */
 }
 
 .tree-child-horizontal {
-  background: url('../../../images/misc/tree.png?1379458577') no-repeat -12px center;
+  background: url('../../../images/misc/tree.png?1382488163') no-repeat -12px center;
 }
 
 /* Toggle Weight Link */
@@ -189,7 +189,7 @@ body.drag {
   height: 15px;
   width: 15px;
   margin: 2px;
-  background: transparent url('../../../images/misc/throbber.gif?1379458577') no-repeat 0px -18px;
+  background: transparent url('../../../images/misc/throbber.gif?1382488163') no-repeat 0px -18px;
 }
 .ajax-progress .message {
   padding-left: 20px;

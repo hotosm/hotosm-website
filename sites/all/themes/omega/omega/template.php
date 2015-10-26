@@ -15,6 +15,12 @@ foreach (omega_extensions() as $extension => $info) {
   }
 }
 
+// Clear the static element info cache if the 'scripts' element type is missing.
+// @see https://www.drupal.org/node/2351739.
+if (!element_info('scripts')) {
+  drupal_static_reset('element_info');
+}
+
 /**
  * Implements hook_element_info_alter().
  */
@@ -225,6 +231,9 @@ function omega_css_alter(&$css) {
     ),
   );
 
+  // Filter out inactive modules.
+  $overrides = array_intersect_key($overrides, module_list());
+
   // Check if we are on an admin page. Otherwise, we can skip admin CSS.
   $path = current_path();
   $types = path_is_admin($path) ? array('base', 'theme', 'admin') : array('base', 'theme');
@@ -273,7 +282,7 @@ function omega_css_alter(&$css) {
   // Allow themes to specify no-query fallback CSS files.
   require_once "$omega/includes/assets.inc";
   $mapping = omega_assets_generate_mapping($css);
-  $pattern = $GLOBALS['language']->dir == 'rtl' ? '/\.no-query(-rtl)?\.css$/' : '/\.no-query\.css$/';
+  $pattern = $GLOBALS['language']->direction == LANGUAGE_RTL ? '/\.no-query(-rtl)?\.css$/' : '/\.no-query\.css$/';
   foreach (preg_grep($pattern, $mapping) as $key => $fallback) {
     // Don't modify browser settings if they have already been modified.
     if ($css[$key]['browsers']['IE'] === TRUE && $css[$key]['browsers']['!IE'] === TRUE) {
@@ -357,7 +366,12 @@ function omega_form_alter(&$form, &$form_state, $form_id) {
     $form['#attributes']['class'] = explode(' ', $form['#attributes']['class']);
   }
   // Duplicate the form ID as a class so we can reduce specificity in our CSS.
-  $form['#attributes']['class'][] = drupal_clean_css_identifier($form['#id']);
+  if (!empty($form['#id'])) {
+    $form['#attributes']['class'][] = drupal_clean_css_identifier($form['#id']);
+  }
+  else {
+    $form['#attributes']['class'][] = drupal_clean_css_identifier($form_id);
+  }
 }
 
 /**

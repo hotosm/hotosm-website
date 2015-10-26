@@ -19,7 +19,7 @@ function omega_extension_assets_theme_registry_alter(&$registry) {
           'path' => $info['path'],
         );
 
-        if (isset($settings[$library]['variant']) && $variant = $settings[$library]['variant']) {
+        if (isset($settings[$library]['variant']) && ($variant = $settings[$library]['variant']) && isset($info['variants'][$variant])) {
           $files = _omega_extension_assets_prepare_library_files($library, $info, $info['variants'][$variant]['files']);
           $registry['html']['libraries'][$library]['attached'] = $files;
         }

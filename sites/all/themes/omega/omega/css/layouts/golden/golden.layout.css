@@ -19,51 +19,51 @@
 
 @media (min-width: 700px) {
   .golden-region--first {
-    width: 100.0%;
-    float: right;
+    width: 15.25424%;
+    float: left;
+    margin-right: -100%;
     margin-left: 0;
-    margin-right: 0;
     clear: none;
   }
 
   .golden-region--second {
-    width: 61.98347%;
+    width: 6.77966%;
     float: left;
     margin-right: -100%;
-    margin-left: 0%;
+    margin-left: 0;
     clear: both;
   }
 
   .golden-region--third {
-    width: 37.19008%;
-    float: right;
-    margin-left: 0;
-    margin-right: 0;
+    width: 6.77966%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 8.47458%;
     clear: none;
   }
 }
 @media (min-width: 1250px) {
   .golden-region--first {
-    width: 50.33557%;
+    width: 6.77966%;
     float: left;
     margin-right: -100%;
-    margin-left: 0%;
+    margin-left: 0;
     clear: none;
   }
 
   .golden-region--second {
-    width: 30.20134%;
+    width: 6.77966%;
     float: left;
     margin-right: -100%;
-    margin-left: 51.00671%;
+    margin-left: 8.47458%;
     clear: none;
   }
 
   .golden-region--third {
-    width: 18.12081%;
-    float: right;
-    margin-left: 0;
-    margin-right: 0;
+    width: 6.77966%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 16.94915%;
     clear: none;
   }
 }

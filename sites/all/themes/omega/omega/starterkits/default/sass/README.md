@@ -17,56 +17,6 @@ use the extension .sass.
 Please refer to the [Sass documentation](http://sass-lang.com/docs.html) for
 further information about the syntax.
 
-## Introduction to [Compass](http://compass-style.org/)
-Compass is an open-source CSS Authoring Framework.
-
-Please refer to the [Compass documentation](http://compass-style.org/reference)
-for further information on how to leverage the powerful Compass framework.
-
-## Compass extensions
-There are many extensions available for Compass. You can install and use as many
-of them together or just a single one depending on your use-case. Good examples
-for useful Compass extensions are "susy" (a responsive grid framework
-[http://susy.oddbird.net/]) or "compass-rgbapng" (a rgba() .png file generator)
-but there are many more.
-
-## Setting up and using Sass and Compass
-Compass runs on any computer that has
-[ruby](http://www.ruby-lang.org/en/downloads) installed.
-
-Once you got ruby installed you can easily install the required gems from the
-command line:
-```
-$ gem update --system
-$ gem install compass
-```
-
-Any additional library can be installed in the same way:
-```
-$ gem install compass-rgbapng
-$ gem install susy
-```
-
-Once you have set up your environment you can navigate to the folder that holds
-your config.rb file.
-
-The config.rb file is the configuration file that helps Sass and Compass to
-understand your environment. For example, it defines which folder your .scss
-or .sass files are stored in or where the generated .css files should be output
-to.
-
-Executing the following command will constantly watch for any change in your
-.scss files and re-compile them into .css:
-```
-$ compass watch
-```
-
-You can also clear and recompile your .css manually:
-```
-$ compass clean
-$ compass compile
-```
-
 ## Barebones Sass Structure
 The barebones CSS structure provided in this starterkit uses many of the ideas
 discussed in Jonathan [Snook's SMACSS](http://smacss.com) and is intended to
@@ -93,22 +43,8 @@ contained in the partials (see below) through @import directives.
 #### {{ THEME SANITIZED }}.styles.scss
 This file aggregates all the components into a single file.
 
-#### {{ THEME SANITIZED }}.normalize.scss
-This file provides a CSS reset/normalize generated based on the legacy
-variables.
-
-#### {{ THEME SANITIZED }}.hacks.scss
-This file may be used to provide temporary hot-fixes for style issues that
-you plan to properly implement as components at a later point in time or simply
-don't have a proper solution for yet.
-
-#### {{ THEME SANITIZED }}.no-query.scss
-This file re-renders the same contents as the styles.scss file but without any
-media queries. It can be used as a fallback for for older browsers that don't
-support media queries. You can find more information about this on the
-github repository of the
-[breakpoint](https://github.com/Team-Sass/breakpoint/wiki/No-Query-Fallbacks).
-Compass gem.
+#### {{ THEME SANITIZED }}.reset.scss
+This file provides a CSS reset.
 
 ### Partials
 #### variables

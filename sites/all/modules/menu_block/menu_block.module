@@ -347,7 +347,7 @@ function menu_tree_block_data(array &$config) {
 
   if ($config['expanded'] || $config['parent_mlid']) {
     // Get the full, un-pruned tree.
-    if ($config['parent_mlid'] || $config['depth_relative']) {
+    if ($config['parent_mlid'] || !empty($config['depth_relative'])) {
       $tree = menu_tree_all_data($config['menu_name']);
     }
     else {
@@ -357,7 +357,7 @@ function menu_tree_block_data(array &$config) {
     menu_tree_add_active_path($tree);
   }
   else {
-    if ($config['depth_relative']) {
+    if (!empty($config['depth_relative'])) {
       // Get the tree pruned for just the active trail.
       $tree = menu_tree_page_data($config['menu_name']);
     }

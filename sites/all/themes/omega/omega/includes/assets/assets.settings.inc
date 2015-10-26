@@ -224,15 +224,4 @@ function omega_extension_assets_theme_settings_form_submit($form, &$form_state) 
     $exclude = array_filter(array_map('trim', explode("\n", $values[$item])));
     form_set_value(array('#parents' => array($item)), $exclude, $form_state);
   }
-
-  if (!empty($form_state['values']['omega_libraries'])) {
-    $values = &$form_state['values']['omega_libraries'];
-
-    foreach ($values as &$settings) {
-      if (isset($settings['variant']) && $settings['variant'] == '_default') {
-        // Unset the 'variant' option if it is the default option.
-        unset($settings['variant']);
-      }
-    }
-  }
 }

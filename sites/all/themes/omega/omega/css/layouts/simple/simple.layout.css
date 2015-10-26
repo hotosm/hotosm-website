@@ -7,11 +7,7 @@
 .l-header,
 .l-main,
 .l-footer {
-  *zoom: 1;
-  max-width: 1190px;
-  _width: 1190px;
-  padding-left: 5px;
-  padding-right: 5px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 20px;
@@ -19,8 +15,8 @@
 .l-header:after,
 .l-main:after,
 .l-footer:after {
-  content: "";
-  display: table;
+  content: " ";
+  display: block;
   clear: both;
 }
 
@@ -35,7 +31,7 @@
   .l-header,
   .l-main,
   .l-footer {
-    max-width: 1190px;
+    max-width: 1200px;
   }
 
   .l-branding {
@@ -81,7 +77,7 @@
   .l-header,
   .l-main,
   .l-footer {
-    max-width: 1190px;
+    max-width: 1200px;
   }
 
   .l-branding {

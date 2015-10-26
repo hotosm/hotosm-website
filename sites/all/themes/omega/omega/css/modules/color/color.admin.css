@@ -56,7 +56,7 @@
 #palette .down,
 #palette .up,
 #palette .both {
-  background: url('../../../images/modules/color/hook.png?1379458577') no-repeat 100% 0;
+  background: url('../../../images/modules/color/hook.png?1382488163') no-repeat 100% 0;
   /* LTR */
 }
 
@@ -79,7 +79,7 @@
   /* LTR */
   width: 20px;
   height: 25px;
-  background: url('../../../images/modules/color/lock.png?1379458577') no-repeat 50% 2px;
+  background: url('../../../images/modules/color/lock.png?1382488163') no-repeat 50% 2px;
   cursor: pointer;
 }
 

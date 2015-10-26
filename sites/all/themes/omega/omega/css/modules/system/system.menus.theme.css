@@ -14,16 +14,16 @@
   /* Menu Item Hierarchy Modifiers */
 }
 .menu .expanded {
-  list-style-image: url('../../../images/misc/menu-expanded.png?1379458577');
+  list-style-image: url('../../../images/misc/menu-expanded.png?1382488163');
   list-style-type: circle;
 }
 .menu .collapsed {
-  list-style-image: url('../../../images/misc/menu-collapsed.png?1379458577');
+  list-style-image: url('../../../images/misc/menu-collapsed.png?1382488163');
   /* LTR */
   list-style-type: disc;
 }
 .menu .leaf {
-  list-style-image: url('../../../images/misc/menu-leaf.png?1379458577');
+  list-style-image: url('../../../images/misc/menu-leaf.png?1382488163');
   list-style-type: square;
 }
 

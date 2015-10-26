@@ -32,12 +32,10 @@
   padding: 0 2px !important;
   width: 28px;
   /* Other Declarations */
-  background: transparent url('../../../images/modules/contextual/gear-select.png?1379458577') no-repeat 2px 0 !important;
+  background: transparent url('../../../images/modules/contextual/gear-select.png?1382488163') no-repeat 2px 0 !important;
   border: 1px solid transparent !important;
-  -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
-  -ms-border-radius: 4px;
-  -o-border-radius: 4px;
+  -webkit-border-radius: 4px;
   border-radius: 4px;
   outline: none;
   text-indent: 9999px;
@@ -80,10 +78,8 @@
   /* Other Declarations */
   background-color: #fff !important;
   border: 1px solid #ccc !important;
-  -webkit-border-radius: 4px 0 4px 4px;
   -moz-border-radius: 4px 0 4px 4px;
-  -ms-border-radius: 4px 0 4px 4px;
-  -o-border-radius: 4px 0 4px 4px;
+  -webkit-border-radius: 4px;
   border-radius: 4px 0 4px 4px;
   /* LTR */
   text-align: left;
