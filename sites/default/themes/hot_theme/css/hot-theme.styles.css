@@ -1,5 +1,98 @@
-img, media {
-  max-width: 100%;
-}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local("Open Sans"), local("OpenSans"), url(../fonts/OpenSans.woff) format("woff"); }
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local("Open Sans Bold"), local("OpenSans-Bold"), url(../fonts/OpenSans-Bold.woff) format("woff"); }
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  src: local("Open Sans Italic"), local("OpenSans-Italic"), url(../fonts/OpenSans-Italic.woff) format("woff"); }
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local("Open Sans Bold Italic"), local("OpenSans-BoldItalic"), url(../fonts/OpenSans-BoldItalic.woff) format("woff"); }
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Alegreya"), local("Alegreya-Regular"), url(../fonts/Alegreya-Regular.ttf) format("truetype"); }
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 700;
+  src: local("Alegreya Bold"), local("Alegreya-Bold"), url(../fonts/Alegreya-Bold.ttf) format("truetype"); }
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 300;
+  src: local("Alegreya Italic"), local("Alegreya-Italic"), url(../fonts/Alegreya-Italic.ttf) format("truetype"); }
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 700;
+  src: local("Alegreya Bold Italic"), local("Alegreya-BoldItalic"), url(../fonts/Alegreya-BoldItalic.ttf) format("truetype"); }
+/* No files to import found in abstractions/**\/* */
+/* line 1, ../sass/base/_buttons.scss */
+.btn-gray {
+  background: #BEBEBE;
+  border-radius: 15px;
+  border-bottom: #989898 1px solid;
+  color: #333333;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 5px 12px;
+  text-decoration: none; }
+  /* line 10, ../sass/base/_buttons.scss */
+  .btn-gray:hover {
+    text-decoration: none;
+    background: #989898;
+    color: #ffffff; }
 
-/* No files to import found in partials/components/**\/* */
+/* line 1, ../sass/base/_headings.scss */
+h1 {
+  font-family: "Alegreya", "Times New Roman", "Times", serif;
+  font-weight: bold;
+  font-size: 26px; }
+
+/* line 7, ../sass/base/_headings.scss */
+h2 {
+  font-family: "Alegreya", "Times New Roman", "Times", serif;
+  font-weight: bold;
+  font-size: 18px; }
+
+/* line 13, ../sass/base/_headings.scss */
+h3 {
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight: bold;
+  font-size: 16px; }
+
+/* line 19, ../sass/base/_headings.scss */
+h4 {
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight: bold;
+  font-size: 14px; }
+
+/* line 1, ../sass/base/_helpers.scss */
+.w33p {
+  width: 33.333%; }
+
+/* line 4, ../sass/base/_helpers.scss */
+.w50p {
+  width: 50%; }
+
+/* line 1, ../sass/base/_media.scss */
+img, media {
+  max-width: 100%; }
+
+/* line 13, ../sass/hot-theme.styles.scss */
+body {
+  background-color: #ffffff; }
+
+/*# sourceMappingURL=hot-theme.styles.css.map */
