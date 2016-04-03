@@ -38,6 +38,8 @@ function smtp_admin_settings() {
     }
   }
 
+  $logging = variable_get('smtp_debugging', SMTP_LOGGING_ERRORS);
+
   $form['onoff'] = array(
     '#type'  => 'fieldset',
     '#title' => t('Install options'),
@@ -54,6 +56,12 @@ function smtp_admin_settings() {
     '#title' => t('Send mail by queue'),
     '#default_value' => variable_get('smtp_queue', FALSE),
     '#description'   => t('Mails will be sent by drupal queue api.'),
+  );
+  $form['onoff']['smtp_queue_fail'] = array(
+    '#type'  => 'checkbox',
+    '#title' => t('Retry sending mail on error.'),
+    '#default_value' => variable_get('smtp_queue_fail', FALSE),
+    '#description'   => t('Mails will be added to the queue and sent by drupal queue api.'),
   );
 
   $form['server'] = array(
@@ -80,6 +88,7 @@ function smtp_admin_settings() {
     '#default_value' => variable_get('smtp_port', '25'),
     '#description'   => t('The default SMTP port is 25, if that is being blocked try 80. Gmail uses 465. See !url for more information on configuring for use with Gmail.', array('!url' => l(t('this page'), 'http://gmail.google.com/support/bin/answer.py?answer=13287'))),
   );
+
   // Only display the option if openssl is installed.
   if (function_exists('openssl_open')) {
     $encryption_options = array(
@@ -139,9 +148,9 @@ function smtp_admin_settings() {
   );
   $form['email_options']['smtp_allowhtml'] = array(
     '#type'          => 'checkbox',
-    '#title'         => t('Allow to send e-mails formated as Html'),
+    '#title'         => t('Allow to send e-mails formatted as Html'),
     '#default_value' => variable_get('smtp_allowhtml', 0),
-    '#description'   => t('Checking this box will allow Html formated e-mails to be sent with the SMTP protocol.'),
+    '#description'   => t('Checking this box will allow Html formatted e-mails to be sent with the SMTP protocol.'),
   );
 
   // If an address was given, send a test e-mail message.
@@ -153,8 +162,15 @@ function smtp_admin_settings() {
     $params['subject'] = t('Drupal SMTP test e-mail');
     $params['body']    = array(t('If you receive this message it means your site is capable of using SMTP to send e-mail.'));
     drupal_mail('smtp', 'smtp-test', $test_address, $language, $params);
-    drupal_set_message(t('A test e-mail has been sent to @email. You may want to !check for any error messages.', array('@email' => $test_address, '!check' => l(t('check the logs'), 'admin/reports/dblog'))));
+
+    if ($logging === SMTP_LOGGING_NONE) {
+      drupal_set_message(t('A test e-mail has been sent to @email.', array('@email' => $test_address)));
+    }
+    else {
+      drupal_set_message(t('A test e-mail has been sent to @email. You may want to !check for any error messages.', array('@email' => $test_address, '!check' => l(t('check the logs'), 'admin/reports/dblog'))));
+    }
   }
+
   $form['email_test'] = array(
     '#type'  => 'fieldset',
     '#title' => t('Send test e-mail'),
@@ -166,11 +182,22 @@ function smtp_admin_settings() {
     '#description'   => t('Type in an address to have a test e-mail sent there.'),
   );
 
-  $form['smtp_debugging'] = array(
-    '#type'          => 'checkbox',
-    '#title'         => t('Enable debugging'),
-    '#default_value' => variable_get('smtp_debugging', 0),
-    '#description'   => t('Checking this box will print SMTP messages from the server for every e-mail that is sent.'),
+  $form['debugging'] = array(
+    '#type'        => 'fieldset',
+    '#title'       => t('Debugging and logging'),
+  );
+
+  $logging_options = array(
+    SMTP_LOGGING_ALL => t('Log everything'),
+    SMTP_LOGGING_ERRORS => t('Errors only'),
+    SMTP_LOGGING_NONE => t('No logging'),
+  );
+  $form['debugging']['smtp_debugging'] = array(
+    '#type'          => 'select',
+    '#title'         => t('Logging'),
+    '#options'       => $logging_options,
+    '#default_value' => $logging,
+    '#description'   => t('Choose the appropriate log level. "Log everything" will log errors and informational messages when an email is sent. "Errors only" will only create a log entry when sending failed. "No logging" will disable all logging for this module.'),
   );
 
   $form['#submit'][] = 'smtp_admin_settings_form_submit';

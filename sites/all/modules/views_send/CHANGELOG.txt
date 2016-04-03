@@ -1,3 +1,9 @@
+Views Send 7.x-1.2, 2016-03-29
+------------------------------
+#2237585 by hansfn: Make allowed file extensions for attachments configurable
+#2368533 by hansfn: Bypassing views render layer breaks all sort of things (Also fixes #1833608 Views field rewriting)
+#2693393 by hansfn: Mailsystem 3.x-dev requires "key" and "module" keys in the mail message
+
 Views Send 7.x-1.1, 2014-06-21
 ------------------------------
 #2225631 by hansfn: Using filter_fallback_format() instead of hard-coded value for message text format.

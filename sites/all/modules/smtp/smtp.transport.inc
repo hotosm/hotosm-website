@@ -6,7 +6,7 @@
  *
  */
 /*~ class.smtp.php
-Orginal release information:
+Original release information:
 .---------------------------------------------------------------------------.
 |  Software: PHPMailer - PHP email class                                    |
 |   Version: 5.1                                                            |
@@ -314,7 +314,7 @@ class SMTP {
    * finializing the mail transaction. $msg_data is the message
    * that is to be send with the headers. Each header needs to be
    * on a single line followed by a <CRLF> with the message headers
-   * and the message body being seperated by and additional <CRLF>.
+   * and the message body being separated by and additional <CRLF>.
    *
    * Implements rfc 821: DATA <CRLF>
    *
@@ -755,7 +755,7 @@ class SMTP {
   /**
    * This is an optional command for SMTP that this class does not
    * support. This method is here to make the RFC821 Definition
-   * complete for this class and __may__ be implimented in the future
+   * complete for this class and __may__ be implemented in the future
    *
    * Implements from rfc 821: TURN <CRLF>
    *

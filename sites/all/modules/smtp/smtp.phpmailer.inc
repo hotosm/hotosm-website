@@ -7,7 +7,7 @@
  */
 
 /*~ class.phpmailer.php
-Orginal release information:
+Original release information:
 .---------------------------------------------------------------------------.
 |  Software: PHPMailer - PHP email class                                    |
 |   Version: 5.1                                                            |
@@ -325,6 +325,7 @@ class PHPMailer {
   private   $sign_key_file  = "";
   private   $sign_key_pass  = "";
   private   $exceptions     = FALSE;
+  private   $logging;
 
   /////////////////////////////////////////////////
   // CONSTANTS
@@ -343,6 +344,7 @@ class PHPMailer {
    * @param boolean $exceptions Should we throw external exceptions?
    */
   public function __construct($exceptions = FALSE) {
+    $this->logging = variable_get('smtp_debugging', SMTP_LOGGING_ERRORS);
     $this->exceptions = ($exceptions == TRUE);
   }
 
@@ -455,7 +457,9 @@ class PHPMailer {
    */
   private function AddAnAddress($kind, $address, $name = '') {
     if (!preg_match('/^(to|cc|bcc|ReplyTo)$/', $kind)) {
-      echo 'Invalid recipient array: ' . kind;
+      if ($this->logging) {
+        watchdog('smtp', 'Invalid recipient array: %kind', array('%kind' => $kind), WATCHDOG_ERROR);
+      }
       return FALSE;
     }
     $address = trim($address);
@@ -465,7 +469,9 @@ class PHPMailer {
       if ($this->exceptions) {
         throw new phpmailerException(t('Invalid address') . ': ' . $address);
       }
-      echo t('Invalid address') . ': ' . $address;
+      if ($this->logging) {
+        watchdog('smtp', 'Invalid address: %address', array('%address' => $address), WATCHDOG_ERROR);
+      }
       return FALSE;
     }
     if ($kind != 'ReplyTo') {
@@ -498,7 +504,9 @@ class PHPMailer {
       if ($this->exceptions) {
         throw new phpmailerException(t('Invalid address') . ': ' . $address);
       }
-      echo t('Invalid address') . ': ' . $address;
+      if ($this->logging) {
+        watchdog('smtp', 'Invalid address: %address', array('%address' => $address), WATCHDOG_ERROR);
+      }
       return FALSE;
     }
     $this->From = $address;
@@ -590,7 +598,9 @@ class PHPMailer {
       if ($this->exceptions) {
         throw $e;
       }
-      echo $e->getMessage() . "\n";
+      if ($this->logging) {
+        watchdog_exception('smtp', $e);
+      }
       return FALSE;
     }
   }
@@ -1361,7 +1371,9 @@ class PHPMailer {
       if ($this->exceptions) {
         throw $e;
       }
-      echo $e->getMessage() . "\n";
+      if ($this->logging) {
+        watchdog_exception('smtp', $e);
+      }
       if ( $e->getCode() == self::STOP_CRITICAL ) {
         return FALSE;
       }

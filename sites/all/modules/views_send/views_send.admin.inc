@@ -13,6 +13,15 @@
 function views_send_settings() {
   $form = array();
 
+  if (VIEWS_SEND_MIMEMAIL) {
+    $form['views_send_attachment_valid_extensions'] = array(
+      '#type' => 'textfield',
+      '#title' => t('Valid file extensions for attachments'),
+      '#default_value' => variable_get('views_send_attachment_valid_extensions', ''),
+      '#description' => t('A space separated list of allowed file extensions for attachments. Leave the list empty if you want to use the default list from file_save_upload().'),
+    );
+  }
+
   $throttle = drupal_map_assoc(array(1, 10, 20, 30, 50, 100, 200, 500, 1000, 2000, 5000, 10000, 20000));
   $throttle[0] = t('Unlimited');
 

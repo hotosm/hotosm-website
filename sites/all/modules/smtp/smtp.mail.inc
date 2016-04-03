@@ -46,6 +46,20 @@ class SmtpMailSystem implements MailSystemInterface {
    *   TRUE if the mail was successfully accepted, otherwise FALSE.
    */
   public function mail(array $message) {
+    if (variable_get('smtp_queue', FALSE)
+       && (!isset($message['params']['skip_queue']) || !$message['params']['skip_queue'])) {
+      smtp_send_queue($message);
+      if (variable_get('smtp_debugging', SMTP_LOGGING_ERRORS) == SMTP_LOGGING_ALL) {
+        watchdog('smtp', 'Queue sending mail to: @to', array('@to' => $to));
+      }
+      return TRUE;
+    }
+    else {
+      return $this->mailWithoutQueue($message);
+    }
+  }
+
+  public function mailWithoutQueue(array $message) {
     $id = $message['id'];
     $to = $message['to'];
     $from = $message['from'];
@@ -56,8 +70,10 @@ class SmtpMailSystem implements MailSystemInterface {
     // Create a new PHPMailer object - autoloaded from registry.
     $mailer = new PHPMailer();
 
+    $logging = variable_get('smtp_debugging', SMTP_LOGGING_ERRORS);
+
     // Turn on debugging, if requested.
-    if (variable_get('smtp_debugging', 0) == 1) {
+    if ($logging == SMTP_LOGGING_ALL) {
       $mailer->SMTPDebug = TRUE;
     }
 
@@ -93,7 +109,9 @@ class SmtpMailSystem implements MailSystemInterface {
         // If smtp_from config option is blank, use site_email.
         if (($from = variable_get('site_mail', '')) == '') {
           drupal_set_message(t('There is no submitted from address.'), 'error');
-          watchdog('smtp', 'There is no submitted from address.', array(), WATCHDOG_ERROR);
+          if ($logging) {
+            watchdog('smtp', 'There is no submitted from address.', array(), WATCHDOG_ERROR);
+          }
           return FALSE;
         }
       }
@@ -106,7 +124,9 @@ class SmtpMailSystem implements MailSystemInterface {
     }
     elseif (!valid_email_address($from)) {
       drupal_set_message(t('The submitted from address (@from) is not valid.', array('@from' => $from)), 'error');
-      watchdog('smtp', 'The submitted from address (@from) is not valid.', array('@from' => $from), WATCHDOG_ERROR);
+      if ($logging) {
+        watchdog('smtp', 'The submitted from address (@from) is not valid.', array('@from' => $from), WATCHDOG_ERROR);
+      }
       return FALSE;
     }
 
@@ -201,8 +221,9 @@ class SmtpMailSystem implements MailSystemInterface {
             default:
               // Everything else is unsuppored by PHPMailer.
               drupal_set_message(t('The %header of your message is not supported by PHPMailer and will be sent as text/plain instead.', array('%header' => "Content-Type: $value")), 'error');
-              watchdog('smtp', 'The %header of your message is not supported by PHPMailer and will be sent as text/plain instead.', array('%header' => "Content-Type: $value"), WATCHDOG_ERROR);
-
+              if ($logging) {
+                watchdog('smtp', 'The %header of your message is not supported by PHPMailer and will be sent as text/plain instead.', array('%header' => "Content-Type: $value"), WATCHDOG_ERROR);
+              }
               // Force the Content-Type to be text/plain.
               $mailer->IsHTML(FALSE);
               $content_type = 'text/plain';
@@ -377,7 +398,7 @@ class SmtpMailSystem implements MailSystemInterface {
               // If plain/html within the body part, add it to $mailer->Body.
               elseif (strpos($body_part2, 'text/html')) {
                 // Get the encoding.
-                $body_part2_encoding = $this->_get_substring($body_part2, 'Content-Transfer-Encoding', ':', "\n");
+                $body_part2_encoding = trim($this->_get_substring($body_part2, 'Content-Transfer-Encoding', ':', "\n"));
                 // Clean up the text.
                 $body_part2 = trim($this->_remove_headers(trim($body_part2)));
                 // Check whether the encoding is base64, and if so, decode it.
@@ -509,20 +530,28 @@ class SmtpMailSystem implements MailSystemInterface {
     $mailer->Port = variable_get('smtp_port', '25');
     $mailer->Mailer = 'smtp';
 
-    $mailerArr = array(
-      'mailer' => $mailer,
-      'to' => $to,
-      'from' => $from,
-    );
-    if (variable_get('smtp_queue', FALSE)) {
-      watchdog('smtp', 'Queue sending mail to: @to', array('@to' => $to));
-      smtp_send_queue($mailerArr);
-    }
-    else {
-      return _smtp_mailer_send($mailerArr);
+    $error = FALSE;
+    if (!$mailer->send()) {
+      $params = array(
+        '@from' => $from,
+        '@to' => $to,
+        '!error_message' => $mailer->ErrorInfo
+      );
+
+      if (variable_get('smtp_queue_fail', FALSE)) {
+        if ($logging) {
+          watchdog('smtp', 'Error sending e-mail from @from to @to, will retry on cron run : !error_message.', $params, WATCHDOG_ERROR);
+        }
+        smtp_failed_messages($message);
+      }
+      elseif ($logging) {
+        $error = TRUE;
+        watchdog('smtp', 'Error sending e-mail from @from to @to : !error_message', $params, WATCHDOG_ERROR);
+      }
     }
 
-    return TRUE;
+    $mailer->SmtpClose();
+    return !$error;
   }
 
   /**

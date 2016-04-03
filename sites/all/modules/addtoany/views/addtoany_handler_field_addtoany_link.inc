@@ -11,7 +11,7 @@
 class addtoany_handler_field_addtoany_link extends views_handler_field_node_link {
   function render($values) {
     if (($entity = $this->get_value($values)) && node_access('view', $entity)) {
-      return _addtoany_create_button($entity);
+      return addtoany_create_node_buttons($entity);
     }
   }
 }

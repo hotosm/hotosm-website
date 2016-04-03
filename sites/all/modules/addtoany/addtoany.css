@@ -1,12 +1,12 @@
 .addtoany {
 	display: inline;
 }
-.addtoany_list { 
+.addtoany_list {
 	display: inline;
 	line-height: 16px;
 }
-.addtoany_list > a, 
-.addtoany_list a img, 
+.addtoany_list > a,
+.addtoany_list a img,
 .addtoany_list a > span {
 	vertical-align: middle;
 }
@@ -18,7 +18,10 @@
 .addtoany_list.a2a_kit_size_32 > a {
 	font-size: 32px;
 }
-.addtoany_list a span.a2a_img { 
+.addtoany_list .a2a_counter img {
+  float: left;
+}
+.addtoany_list a span.a2a_img {
 	display: inline-block;
 	height: 16px;
 	opacity: 1;
@@ -37,10 +40,10 @@
 	width: 32px;
 }
 .addtoany_list a:hover:hover img,
-.addtoany_list a:hover span { 
+.addtoany_list a:hover span {
 	opacity: .7;
 }
-.addtoany_list a.addtoany_share_save img { 
+.addtoany_list a.addtoany_share_save img {
 	border: 0;
 	width: auto;
 	height: auto;
