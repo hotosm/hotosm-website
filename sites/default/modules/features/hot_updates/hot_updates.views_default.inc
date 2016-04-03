@@ -148,7 +148,7 @@ function hot_updates_views_default_views() {
 
   /* Display: Master */
   $handler = $view->new_display('default', 'Master', 'default');
-  $handler->display->display_options['title'] = 'Recent Updates';
+  $handler->display->display_options['title'] = 'News';
   $handler->display->display_options['use_ajax'] = TRUE;
   $handler->display->display_options['use_more_always'] = TRUE;
   $handler->display->display_options['use_more_text'] = 'More updates';
@@ -437,7 +437,7 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['arguments']['uid']['summary_options']['items_per_page'] = '25';
   $translatables['updates'] = array(
     t('Master'),
-    t('Recent Updates'),
+    t('News'),
     t('More updates'),
     t('Apply'),
     t('Reset'),
@@ -458,6 +458,7 @@ function hot_updates_views_default_views() {
     t('more'),
     t('<a href="/feed/rss2" class="feed-icon" title="Subscribe to Recent Updates"><img src="http://dev-d7-hot.gotpantheon.com/misc/feed.png" width="16" height="16" alt="Subscribe to Recent Updates" /></a>'),
     t('All updates feed'),
+    t('Recent Updates'),
     t('All updates block'),
     t('Project updates block'),
     t('All'),

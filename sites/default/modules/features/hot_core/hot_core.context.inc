@@ -106,15 +106,21 @@ function hot_core_context_default_contexts() {
   $context->reactions = array(
     'block' => array(
       'blocks' => array(
-        'locale-language' => array(
-          'module' => 'locale',
+        'lang_dropdown-language' => array(
+          'module' => 'lang_dropdown',
           'delta' => 'language',
           'region' => 'header',
           'weight' => '-10',
         ),
-        'menu_block-hot_core-1' => array(
-          'module' => 'menu_block',
-          'delta' => 'hot_core-1',
+        'block-3' => array(
+          'module' => 'block',
+          'delta' => '3',
+          'region' => 'header',
+          'weight' => '-9',
+        ),
+        'system-user-menu' => array(
+          'module' => 'system',
+          'delta' => 'user-menu',
           'region' => 'footer',
           'weight' => '-10',
         ),
@@ -124,17 +130,11 @@ function hot_core_context_default_contexts() {
           'region' => 'footer',
           'weight' => '-9',
         ),
-        'block-3' => array(
+        'block-4' => array(
           'module' => 'block',
-          'delta' => '3',
+          'delta' => '4',
           'region' => 'footer',
           'weight' => '-8',
-        ),
-        'system-user-menu' => array(
-          'module' => 'system',
-          'delta' => 'user-menu',
-          'region' => 'footer',
-          'weight' => '-7',
         ),
       ),
     ),
