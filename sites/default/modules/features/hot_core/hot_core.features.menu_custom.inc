@@ -33,6 +33,5 @@ function hot_core_menu_default_menu_custom() {
   t('The <em>User</em> menu contains links related to the user\'s account, as well as the \'Log out\' link.');
   t('User Menu');
 
-
   return $menus;
 }

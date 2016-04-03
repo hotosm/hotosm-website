@@ -10,7 +10,7 @@
 function hot_people_field_default_field_instances() {
   $field_instances = array();
 
-  // Exported field_instance: 'user-user-field_bio'
+  // Exported field_instance: 'user-user-field_bio'.
   $field_instances['user-user-field_bio'] = array(
     'bundle' => 'user',
     'default_value' => NULL,
@@ -51,7 +51,7 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'user-user-field_country'
+  // Exported field_instance: 'user-user-field_country'.
   $field_instances['user-user-field_country'] = array(
     'bundle' => 'user',
     'default_value' => NULL,
@@ -83,7 +83,7 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'user-user-field_facebook'
+  // Exported field_instance: 'user-user-field_facebook'.
   $field_instances['user-user-field_facebook'] = array(
     'bundle' => 'user',
     'default_value' => NULL,
@@ -135,7 +135,7 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'user-user-field_hot_leadership'
+  // Exported field_instance: 'user-user-field_hot_leadership'.
   $field_instances['user-user-field_hot_leadership'] = array(
     'bundle' => 'user',
     'default_value' => NULL,
@@ -167,7 +167,7 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'user-user-field_hot_staff_position'
+  // Exported field_instance: 'user-user-field_hot_staff_position'.
   $field_instances['user-user-field_hot_staff_position'] = array(
     'bundle' => 'user',
     'default_value' => NULL,
@@ -202,7 +202,7 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'user-user-field_hot_staff_type'
+  // Exported field_instance: 'user-user-field_hot_staff_type'.
   $field_instances['user-user-field_hot_staff_type'] = array(
     'bundle' => 'user',
     'default_value' => NULL,
@@ -234,7 +234,7 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'user-user-field_linkedin'
+  // Exported field_instance: 'user-user-field_linkedin'.
   $field_instances['user-user-field_linkedin'] = array(
     'bundle' => 'user',
     'default_value' => NULL,
@@ -286,7 +286,7 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'user-user-field_name'
+  // Exported field_instance: 'user-user-field_name'.
   $field_instances['user-user-field_name'] = array(
     'bundle' => 'user',
     'default_value' => NULL,
@@ -327,7 +327,7 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'user-user-field_osm_user_name'
+  // Exported field_instance: 'user-user-field_osm_user_name'.
   $field_instances['user-user-field_osm_user_name'] = array(
     'bundle' => 'user',
     'default_value' => NULL,
@@ -368,7 +368,7 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'user-user-field_projects'
+  // Exported field_instance: 'user-user-field_projects'.
   $field_instances['user-user-field_projects'] = array(
     'bundle' => 'user',
     'default_value' => NULL,
@@ -406,7 +406,7 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'user-user-field_twitter'
+  // Exported field_instance: 'user-user-field_twitter'.
   $field_instances['user-user-field_twitter'] = array(
     'bundle' => 'user',
     'default_value' => NULL,
@@ -447,7 +447,7 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'user-user-field_volunteer_lead_role'
+  // Exported field_instance: 'user-user-field_volunteer_lead_role'.
   $field_instances['user-user-field_volunteer_lead_role'] = array(
     'bundle' => 'user',
     'default_value' => NULL,
@@ -482,7 +482,7 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'user-user-field_working_group'
+  // Exported field_instance: 'user-user-field_working_group'.
   $field_instances['user-user-field_working_group'] = array(
     'bundle' => 'user',
     'default_value' => NULL,
@@ -513,7 +513,7 @@ function hot_people_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'user-user-field_working_group_role'
+  // Exported field_instance: 'user-user-field_working_group_role'.
   $field_instances['user-user-field_working_group_role'] = array(
     'bundle' => 'user',
     'default_value' => NULL,

@@ -10,7 +10,7 @@
 function hot_working_groups_field_default_field_instances() {
   $field_instances = array();
 
-  // Exported field_instance: 'comment-comment_node_working_group-comment_body'
+  // Exported field_instance: 'comment-comment_node_working_group-comment_body'.
   $field_instances['comment-comment_node_working_group-comment_body'] = array(
     'bundle' => 'comment_node_working_group',
     'default_value' => NULL,
@@ -44,7 +44,7 @@ function hot_working_groups_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-working_group-body'
+  // Exported field_instance: 'node-working_group-body'.
   $field_instances['node-working_group-body'] = array(
     'bundle' => 'working_group',
     'default_value' => NULL,
@@ -85,11 +85,85 @@ function hot_working_groups_field_default_field_instances() {
         'summary_rows' => 5,
       ),
       'type' => 'text_textarea_with_summary',
+      'weight' => 3,
+    ),
+  );
+
+  // Exported field_instance: 'node-working_group-field_icon'.
+  $field_instances['node-working_group-field_icon'] = array(
+    'bundle' => 'working_group',
+    'deleted' => 0,
+    'description' => '',
+    'display' => array(
+      'default' => array(
+        'label' => 'above',
+        'module' => 'image',
+        'settings' => array(
+          'image_link' => '',
+          'image_style' => '',
+        ),
+        'type' => 'image',
+        'weight' => 2,
+      ),
+      'teaser' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+    ),
+    'entity_type' => 'node',
+    'field_name' => 'field_icon',
+    'label' => 'Icon',
+    'required' => 0,
+    'settings' => array(
+      'alt_field' => 0,
+      'default_image' => 0,
+      'entity_translation_sync' => FALSE,
+      'file_directory' => '',
+      'file_extensions' => 'png gif jpg jpeg',
+      'max_filesize' => '',
+      'max_resolution' => '',
+      'min_resolution' => '',
+      'title_field' => 0,
+      'user_register_form' => FALSE,
+    ),
+    'widget' => array(
+      'active' => 1,
+      'module' => 'image',
+      'settings' => array(
+        'insert' => 0,
+        'insert_absolute' => 0,
+        'insert_class' => '',
+        'insert_default' => 'auto',
+        'insert_styles' => array(
+          'auto' => 'auto',
+          'icon_link' => 0,
+          'image' => 0,
+          'image_avatar' => 0,
+          'image_featured_project' => 0,
+          'image_large' => 0,
+          'image_maximum' => 0,
+          'image_medium' => 0,
+          'image_medium_square' => 0,
+          'image_mini_project_image' => 0,
+          'image_project_landing' => 0,
+          'image_project_page' => 0,
+          'image_small_square' => 0,
+          'image_thumbnail' => 0,
+          'image_update_content' => 0,
+          'link' => 0,
+        ),
+        'insert_width' => '',
+        'preview_image_style' => 'thumbnail',
+        'progress_indicator' => 'throbber',
+      ),
+      'type' => 'image_image',
       'weight' => 2,
     ),
   );
 
-  // Exported field_instance: 'node-working_group-field_links'
+  // Exported field_instance: 'node-working_group-field_links'.
   $field_instances['node-working_group-field_links'] = array(
     'bundle' => 'working_group',
     'default_value' => NULL,
@@ -142,7 +216,7 @@ function hot_working_groups_field_default_field_instances() {
       'module' => 'link',
       'settings' => array(),
       'type' => 'link_field',
-      'weight' => 3,
+      'weight' => 4,
     ),
   );
 
@@ -151,6 +225,7 @@ function hot_working_groups_field_default_field_instances() {
   t('Body');
   t('Comment');
   t('Give some links to the right places to connect to a working group');
+  t('Icon');
   t('Links');
 
   return $field_instances;

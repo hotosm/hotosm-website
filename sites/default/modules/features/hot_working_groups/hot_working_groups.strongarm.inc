@@ -159,5 +159,54 @@ function hot_working_groups_strongarm() {
   $strongarm->value = 0;
   $export['node_submitted_working_group'] = $strongarm;
 
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'pathauto_node_working_group_en_pattern';
+  $strongarm->value = '';
+  $export['pathauto_node_working_group_en_pattern'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'pathauto_node_working_group_es_pattern';
+  $strongarm->value = '';
+  $export['pathauto_node_working_group_es_pattern'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'pathauto_node_working_group_fr_pattern';
+  $strongarm->value = '';
+  $export['pathauto_node_working_group_fr_pattern'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'pathauto_node_working_group_id_pattern';
+  $strongarm->value = '';
+  $export['pathauto_node_working_group_id_pattern'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'pathauto_node_working_group_ja_pattern';
+  $strongarm->value = '';
+  $export['pathauto_node_working_group_ja_pattern'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'pathauto_node_working_group_pattern';
+  $strongarm->value = 'working-groups/[node:title]';
+  $export['pathauto_node_working_group_pattern'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'pathauto_node_working_group_und_pattern';
+  $strongarm->value = '';
+  $export['pathauto_node_working_group_und_pattern'] = $strongarm;
+
   return $export;
 }

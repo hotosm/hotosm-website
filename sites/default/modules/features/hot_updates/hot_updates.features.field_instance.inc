@@ -10,7 +10,7 @@
 function hot_updates_field_default_field_instances() {
   $field_instances = array();
 
-  // Exported field_instance: 'comment-comment_node_update-comment_body'
+  // Exported field_instance: 'comment-comment_node_update-comment_body'.
   $field_instances['comment-comment_node_update-comment_body'] = array(
     'bundle' => 'comment_node_update',
     'default_value' => NULL,
@@ -44,7 +44,7 @@ function hot_updates_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-update-body'
+  // Exported field_instance: 'node-update-body'.
   $field_instances['node-update-body'] = array(
     'bundle' => 'update',
     'default_value' => NULL,
@@ -89,7 +89,7 @@ function hot_updates_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-update-field_images'
+  // Exported field_instance: 'node-update-field_images'.
   $field_instances['node-update-field_images'] = array(
     'bundle' => 'update',
     'deleted' => 0,
@@ -156,7 +156,7 @@ Then use the <em>Insert</em> button to place them in the text.',
     ),
   );
 
-  // Exported field_instance: 'node-update-field_update_project'
+  // Exported field_instance: 'node-update-field_update_project'.
   $field_instances['node-update-field_update_project'] = array(
     'bundle' => 'update',
     'default_value' => NULL,
@@ -223,7 +223,7 @@ Then use the <em>Insert</em> button to place them in the text.',
     'widget_type' => 'nodereference_select',
   );
 
-  // Exported field_instance: 'node-update-field_working_group'
+  // Exported field_instance: 'node-update-field_working_group'.
   $field_instances['node-update-field_working_group'] = array(
     'bundle' => 'update',
     'default_value' => NULL,
@@ -261,7 +261,7 @@ Then use the <em>Insert</em> button to place them in the text.',
     ),
   );
 
-  // Exported field_instance: 'node-update-taxonomy_vocabulary_3'
+  // Exported field_instance: 'node-update-taxonomy_vocabulary_3'.
   $field_instances['node-update-taxonomy_vocabulary_3'] = array(
     'bundle' => 'update',
     'default_value' => NULL,
@@ -300,7 +300,7 @@ Then use the <em>Insert</em> button to place them in the text.',
     ),
   );
 
-  // Exported field_instance: 'node-update-title_field'
+  // Exported field_instance: 'node-update-title_field'.
   $field_instances['node-update-title_field'] = array(
     'bundle' => 'update',
     'default_value' => NULL,
@@ -343,7 +343,7 @@ Then use the <em>Insert</em> button to place them in the text.',
     ),
   );
 
-  // Exported field_instance: 'node-update-upload'
+  // Exported field_instance: 'node-update-upload'.
   $field_instances['node-update-upload'] = array(
     'bundle' => 'update',
     'deleted' => 0,

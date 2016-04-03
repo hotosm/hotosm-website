@@ -10,7 +10,7 @@
 function hot_jobs_field_default_field_instances() {
   $field_instances = array();
 
-  // Exported field_instance: 'node-job-body'
+  // Exported field_instance: 'node-job-body'.
   $field_instances['node-job-body'] = array(
     'bundle' => 'job',
     'default_value' => NULL,
@@ -56,7 +56,7 @@ function hot_jobs_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-job-field_application_deadline'
+  // Exported field_instance: 'node-job-field_application_deadline'.
   $field_instances['node-job-field_application_deadline'] = array(
     'bundle' => 'job',
     'deleted' => 0,
@@ -71,6 +71,7 @@ function hot_jobs_field_default_field_instances() {
           'multiple_from' => '',
           'multiple_number' => '',
           'multiple_to' => '',
+          'show_remaining_days' => FALSE,
         ),
         'type' => 'date_default',
         'weight' => 0,
@@ -110,7 +111,7 @@ function hot_jobs_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-job-field_place'
+  // Exported field_instance: 'node-job-field_place'.
   $field_instances['node-job-field_place'] = array(
     'bundle' => 'job',
     'default_value' => NULL,

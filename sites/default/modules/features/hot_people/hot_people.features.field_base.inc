@@ -10,7 +10,7 @@
 function hot_people_field_default_field_bases() {
   $field_bases = array();
 
-  // Exported field_base: 'field_bio'
+  // Exported field_base: 'field_bio'.
   $field_bases['field_bio'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -31,7 +31,7 @@ function hot_people_field_default_field_bases() {
     'type' => 'text_long',
   );
 
-  // Exported field_base: 'field_country'
+  // Exported field_base: 'field_country'.
   $field_bases['field_country'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -56,7 +56,7 @@ function hot_people_field_default_field_bases() {
     'type' => 'country',
   );
 
-  // Exported field_base: 'field_facebook'
+  // Exported field_base: 'field_facebook'.
   $field_bases['field_facebook'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -86,7 +86,7 @@ function hot_people_field_default_field_bases() {
     'type' => 'link_field',
   );
 
-  // Exported field_base: 'field_hot_leadership'
+  // Exported field_base: 'field_hot_leadership'.
   $field_bases['field_hot_leadership'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -108,12 +108,13 @@ function hot_people_field_default_field_bases() {
         ),
       ),
       'entity_translation_sync' => FALSE,
+      'options_list_callback' => 'title_taxonomy_allowed_values',
     ),
     'translatable' => 0,
     'type' => 'taxonomy_term_reference',
   );
 
-  // Exported field_base: 'field_hot_staff_position'
+  // Exported field_base: 'field_hot_staff_position'.
   $field_bases['field_hot_staff_position'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -135,7 +136,7 @@ function hot_people_field_default_field_bases() {
     'type' => 'text',
   );
 
-  // Exported field_base: 'field_hot_staff_type'
+  // Exported field_base: 'field_hot_staff_type'.
   $field_bases['field_hot_staff_type'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -157,12 +158,13 @@ function hot_people_field_default_field_bases() {
         ),
       ),
       'entity_translation_sync' => FALSE,
+      'options_list_callback' => 'title_taxonomy_allowed_values',
     ),
     'translatable' => 0,
     'type' => 'taxonomy_term_reference',
   );
 
-  // Exported field_base: 'field_linkedin'
+  // Exported field_base: 'field_linkedin'.
   $field_bases['field_linkedin'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -192,7 +194,7 @@ function hot_people_field_default_field_bases() {
     'type' => 'link_field',
   );
 
-  // Exported field_base: 'field_name'
+  // Exported field_base: 'field_name'.
   $field_bases['field_name'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -214,7 +216,7 @@ function hot_people_field_default_field_bases() {
     'type' => 'text',
   );
 
-  // Exported field_base: 'field_osm_user_name'
+  // Exported field_base: 'field_osm_user_name'.
   $field_bases['field_osm_user_name'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -236,7 +238,7 @@ function hot_people_field_default_field_bases() {
     'type' => 'text',
   );
 
-  // Exported field_base: 'field_projects'
+  // Exported field_base: 'field_projects'.
   $field_bases['field_projects'] = array(
     'active' => 1,
     'cardinality' => -1,
@@ -268,7 +270,7 @@ function hot_people_field_default_field_bases() {
     'type' => 'node_reference',
   );
 
-  // Exported field_base: 'field_twitter'
+  // Exported field_base: 'field_twitter'.
   $field_bases['field_twitter'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -290,7 +292,7 @@ function hot_people_field_default_field_bases() {
     'type' => 'text',
   );
 
-  // Exported field_base: 'field_volunteer_lead_role'
+  // Exported field_base: 'field_volunteer_lead_role'.
   $field_bases['field_volunteer_lead_role'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -312,7 +314,7 @@ function hot_people_field_default_field_bases() {
     'type' => 'text',
   );
 
-  // Exported field_base: 'field_working_group_role'
+  // Exported field_base: 'field_working_group_role'.
   $field_bases['field_working_group_role'] = array(
     'active' => 1,
     'cardinality' => 1,

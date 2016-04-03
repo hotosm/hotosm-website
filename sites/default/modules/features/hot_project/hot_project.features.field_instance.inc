@@ -10,7 +10,7 @@
 function hot_project_field_default_field_instances() {
   $field_instances = array();
 
-  // Exported field_instance: 'node-project-body'
+  // Exported field_instance: 'node-project-body'.
   $field_instances['node-project-body'] = array(
     'bundle' => 'project',
     'default_value' => NULL,
@@ -85,7 +85,7 @@ function hot_project_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-project-field_bbox'
+  // Exported field_instance: 'node-project-field_bbox'.
   $field_instances['node-project-field_bbox'] = array(
     'bundle' => 'project',
     'default_value' => array(
@@ -202,7 +202,7 @@ function hot_project_field_default_field_instances() {
     'widget_type' => 'geofield_wkt',
   );
 
-  // Exported field_instance: 'node-project-field_contact'
+  // Exported field_instance: 'node-project-field_contact'.
   $field_instances['node-project-field_contact'] = array(
     'bundle' => 'project',
     'default_value' => array(
@@ -304,7 +304,7 @@ function hot_project_field_default_field_instances() {
     'widget_type' => 'text_textarea',
   );
 
-  // Exported field_instance: 'node-project-field_image'
+  // Exported field_instance: 'node-project-field_image'.
   $field_instances['node-project-field_image'] = array(
     'bundle' => 'project',
     'default_value' => '',
@@ -429,7 +429,7 @@ function hot_project_field_default_field_instances() {
     'widget_type' => 'imagefield_widget',
   );
 
-  // Exported field_instance: 'node-project-field_link'
+  // Exported field_instance: 'node-project-field_link'.
   $field_instances['node-project-field_link'] = array(
     'bundle' => 'project',
     'default_value' => array(
@@ -545,7 +545,7 @@ function hot_project_field_default_field_instances() {
     'widget_type' => 'link',
   );
 
-  // Exported field_instance: 'node-project-field_project_type'
+  // Exported field_instance: 'node-project-field_project_type'.
   $field_instances['node-project-field_project_type'] = array(
     'bundle' => 'project',
     'default_value' => NULL,
@@ -556,7 +556,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'above',
         'module' => 'taxonomy',
         'settings' => array(),
-        'type' => 'taxonomy_term_reference_link',
+        'type' => 'taxonomy_term_reference_plain',
         'weight' => 16,
       ),
       'feature' => array(
@@ -595,7 +595,7 @@ function hot_project_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-project-field_timespan'
+  // Exported field_instance: 'node-project-field_timespan'.
   $field_instances['node-project-field_timespan'] = array(
     'bundle' => 'project',
     'deleted' => 0,
@@ -610,6 +610,7 @@ function hot_project_field_default_field_instances() {
           'multiple_from' => '',
           'multiple_number' => '',
           'multiple_to' => '',
+          'show_remaining_days' => FALSE,
         ),
         'type' => 'date_default',
         'weight' => 15,
@@ -661,7 +662,7 @@ function hot_project_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-project-title_field'
+  // Exported field_instance: 'node-project-title_field'.
   $field_instances['node-project-title_field'] = array(
     'bundle' => 'project',
     'default_value' => NULL,
@@ -727,7 +728,7 @@ function hot_project_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-project-upload'
+  // Exported field_instance: 'node-project-upload'.
   $field_instances['node-project-upload'] = array(
     'bundle' => 'project',
     'deleted' => 0,

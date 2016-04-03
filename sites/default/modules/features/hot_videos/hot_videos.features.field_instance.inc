@@ -10,7 +10,7 @@
 function hot_videos_field_default_field_instances() {
   $field_instances = array();
 
-  // Exported field_instance: 'comment-comment_node_video-comment_body'
+  // Exported field_instance: 'comment-comment_node_video-comment_body'.
   $field_instances['comment-comment_node_video-comment_body'] = array(
     'bundle' => 'comment_node_video',
     'default_value' => NULL,
@@ -44,7 +44,7 @@ function hot_videos_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-video-body'
+  // Exported field_instance: 'node-video-body'.
   $field_instances['node-video-body'] = array(
     'bundle' => 'video',
     'default_value' => NULL,
@@ -90,7 +90,7 @@ function hot_videos_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-video-field_update_project'
+  // Exported field_instance: 'node-video-field_update_project'.
   $field_instances['node-video-field_update_project'] = array(
     'bundle' => 'video',
     'default_value' => NULL,
@@ -128,7 +128,7 @@ function hot_videos_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-video-field_video'
+  // Exported field_instance: 'node-video-field_video'.
   $field_instances['node-video-field_video'] = array(
     'bundle' => 'video',
     'default_value' => NULL,
@@ -158,6 +158,10 @@ function hot_videos_field_default_field_instances() {
     'label' => 'Video',
     'required' => 1,
     'settings' => array(
+      'allowed_providers' => array(
+        0 => 'youtube',
+        1 => 'vimeo',
+      ),
       'description_field' => 0,
       'description_length' => 128,
       'entity_translation_sync' => FALSE,
@@ -172,7 +176,7 @@ function hot_videos_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-video-title_field'
+  // Exported field_instance: 'node-video-title_field'.
   $field_instances['node-video-title_field'] = array(
     'bundle' => 'video',
     'default_value' => NULL,

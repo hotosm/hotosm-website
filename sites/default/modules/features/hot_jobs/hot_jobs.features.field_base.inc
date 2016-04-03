@@ -10,7 +10,7 @@
 function hot_jobs_field_default_field_bases() {
   $field_bases = array();
 
-  // Exported field_base: 'field_application_deadline'
+  // Exported field_base: 'field_application_deadline'.
   $field_bases['field_application_deadline'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -40,7 +40,7 @@ function hot_jobs_field_default_field_bases() {
     'type' => 'datetime',
   );
 
-  // Exported field_base: 'field_place'
+  // Exported field_base: 'field_place'.
   $field_bases['field_place'] = array(
     'active' => 1,
     'cardinality' => 1,

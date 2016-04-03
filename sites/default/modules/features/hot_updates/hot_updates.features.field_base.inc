@@ -10,7 +10,7 @@
 function hot_updates_field_default_field_bases() {
   $field_bases = array();
 
-  // Exported field_base: 'body'
+  // Exported field_base: 'body'.
   $field_bases['body'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -33,7 +33,7 @@ function hot_updates_field_default_field_bases() {
     'type' => 'text_with_summary',
   );
 
-  // Exported field_base: 'field_images'
+  // Exported field_base: 'field_images'.
   $field_bases['field_images'] = array(
     'active' => 1,
     'cardinality' => -1,
@@ -58,7 +58,7 @@ function hot_updates_field_default_field_bases() {
     'type' => 'image',
   );
 
-  // Exported field_base: 'field_update_project'
+  // Exported field_base: 'field_update_project'.
   $field_bases['field_update_project'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -93,7 +93,7 @@ function hot_updates_field_default_field_bases() {
     'type_name' => 'update',
   );
 
-  // Exported field_base: 'field_working_group'
+  // Exported field_base: 'field_working_group'.
   $field_bases['field_working_group'] = array(
     'active' => 1,
     'cardinality' => -1,
@@ -126,7 +126,7 @@ function hot_updates_field_default_field_bases() {
     'type' => 'node_reference',
   );
 
-  // Exported field_base: 'taxonomy_vocabulary_3'
+  // Exported field_base: 'taxonomy_vocabulary_3'.
   $field_bases['taxonomy_vocabulary_3'] = array(
     'active' => 1,
     'cardinality' => -1,
@@ -148,13 +148,14 @@ function hot_updates_field_default_field_bases() {
         ),
       ),
       'entity_translation_sync' => FALSE,
+      'options_list_callback' => 'title_taxonomy_allowed_values',
       'required' => FALSE,
     ),
     'translatable' => 0,
     'type' => 'taxonomy_term_reference',
   );
 
-  // Exported field_base: 'upload'
+  // Exported field_base: 'upload'.
   $field_bases['upload'] = array(
     'active' => 1,
     'cardinality' => -1,

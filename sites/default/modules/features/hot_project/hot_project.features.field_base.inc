@@ -10,7 +10,7 @@
 function hot_project_field_default_field_bases() {
   $field_bases = array();
 
-  // Exported field_base: 'field_bbox'
+  // Exported field_base: 'field_bbox'.
   $field_bases['field_bbox'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -33,7 +33,7 @@ function hot_project_field_default_field_bases() {
     'type_name' => 'project',
   );
 
-  // Exported field_base: 'field_contact'
+  // Exported field_base: 'field_contact'.
   $field_bases['field_contact'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -59,7 +59,7 @@ function hot_project_field_default_field_bases() {
     'type_name' => 'project',
   );
 
-  // Exported field_base: 'field_image'
+  // Exported field_base: 'field_image'.
   $field_bases['field_image'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -88,7 +88,7 @@ function hot_project_field_default_field_bases() {
     'type_name' => 'story',
   );
 
-  // Exported field_base: 'field_link'
+  // Exported field_base: 'field_link'.
   $field_bases['field_link'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -119,7 +119,7 @@ function hot_project_field_default_field_bases() {
     'type_name' => 'project',
   );
 
-  // Exported field_base: 'field_project_type'
+  // Exported field_base: 'field_project_type'.
   $field_bases['field_project_type'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -141,12 +141,13 @@ function hot_project_field_default_field_bases() {
         ),
       ),
       'entity_translation_sync' => FALSE,
+      'options_list_callback' => 'title_taxonomy_allowed_values',
     ),
     'translatable' => 0,
     'type' => 'taxonomy_term_reference',
   );
 
-  // Exported field_base: 'field_timespan'
+  // Exported field_base: 'field_timespan'.
   $field_bases['field_timespan'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -176,7 +177,7 @@ function hot_project_field_default_field_bases() {
     'type' => 'datetime',
   );
 
-  // Exported field_base: 'title_field'
+  // Exported field_base: 'title_field'.
   $field_bases['title_field'] = array(
     'active' => 1,
     'cardinality' => 1,
