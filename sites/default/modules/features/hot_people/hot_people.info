@@ -79,6 +79,7 @@ features[user_permission][] = unflag voting_member
 features[user_role][] = content editor
 features[variable][] = contact_default_status
 features[variable][] = pathauto_taxonomy_term_hot_leadership_pattern
+features[variable][] = pathauto_taxonomy_term_hot_staff_pattern
 features[variable][] = user_admin_role
 features[variable][] = user_cancel_method
 features[variable][] = user_email_verification

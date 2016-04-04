@@ -88,6 +88,7 @@ features[variable][] = pathauto_node_project_fr_pattern
 features[variable][] = pathauto_node_project_id_pattern
 features[variable][] = pathauto_node_project_ja_pattern
 features[variable][] = pathauto_node_project_und_pattern
+features[variable][] = pathauto_taxonomy_term_project_type_pattern
 features[variable][] = pathauto_taxonomy_term_vocabulary_2_pattern
 features[views_view][] = project
 features[views_view][] = project_ol_map

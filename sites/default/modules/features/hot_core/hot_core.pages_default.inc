@@ -11,13 +11,24 @@ function hot_core_default_page_manager_pages() {
   $page = new stdClass();
   $page->disabled = FALSE; /* Edit this to true to make a default page disabled initially */
   $page->api_version = 1;
-  $page->name = 'frontpage';
+  $page->name = 'activations';
   $page->task = 'page';
-  $page->admin_title = 'frontpage';
+  $page->admin_title = 'Disaster Mapping';
   $page->admin_description = '';
-  $page->path = 'home';
+  $page->path = 'get-involved/disaster-mapping';
   $page->access = array();
-  $page->menu = array();
+  $page->menu = array(
+    'type' => 'none',
+    'title' => 'Mapping',
+    'name' => 'main-menu',
+    'weight' => '0',
+    'parent' => array(
+      'type' => 'none',
+      'title' => '',
+      'name' => 'navigation',
+      'weight' => '0',
+    ),
+  );
   $page->arguments = array();
   $page->conf = array(
     'admin_paths' => FALSE,
@@ -26,9 +37,9 @@ function hot_core_default_page_manager_pages() {
   $handler = new stdClass();
   $handler->disabled = FALSE; /* Edit this to true to make a default handler disabled initially */
   $handler->api_version = 1;
-  $handler->name = 'page_frontpage_panel_context';
+  $handler->name = 'page_activations__panel_context_c552f72b-acc2-44c3-a29e-495afe3bb1f9';
   $handler->task = 'page';
-  $handler->subtask = 'frontpage';
+  $handler->subtask = 'activations';
   $handler->handler = 'panel_context';
   $handler->weight = 0;
   $handler->conf = array(
@@ -43,29 +54,37 @@ function hot_core_default_page_manager_pages() {
     'relationships' => array(),
   );
   $display = new panels_display();
-  $display->layout = 'two_66_33';
+  $display->layout = 'flexible';
   $display->layout_settings = array();
   $display->panel_settings = array(
     'style_settings' => array(
       'default' => NULL,
-      'two_66_33_top' => NULL,
-      'two_66_33_first' => NULL,
-      'two_66_33_second' => NULL,
-      'two_66_33_bottom' => NULL,
+      'center' => NULL,
     ),
   );
   $display->cache = array();
-  $display->title = '';
+  $display->title = 'Help us mapping!';
+  $display->uuid = '7120ee1d-b08d-4c8d-9e18-d2d124befda6';
   $display->content = array();
   $display->panels = array();
     $pane = new stdClass();
-    $pane->pid = 'new-1';
-    $pane->panel = 'two_66_33_first';
-    $pane->type = 'views_panes';
-    $pane->subtype = 'updates-panel_pane_1';
+    $pane->pid = 'new-831fa318-7484-43a2-b039-a103a6f09da6';
+    $pane->panel = 'center';
+    $pane->type = 'node';
+    $pane->subtype = 'node';
     $pane->shown = TRUE;
     $pane->access = array();
-    $pane->configuration = array();
+    $pane->configuration = array(
+      'nid' => '370',
+      'links' => 1,
+      'leave_node_title' => 0,
+      'identifier' => '',
+      'build_mode' => 'full',
+      'link_node_title' => 0,
+      'override_title' => 1,
+      'override_title_text' => '',
+      'override_title_heading' => 'h2',
+    );
     $pane->cache = array();
     $pane->style = array(
       'settings' => NULL,
@@ -74,82 +93,40 @@ function hot_core_default_page_manager_pages() {
     $pane->extras = array();
     $pane->position = 0;
     $pane->locks = array();
-    $display->content['new-1'] = $pane;
-    $display->panels['two_66_33_first'][0] = 'new-1';
+    $pane->uuid = '831fa318-7484-43a2-b039-a103a6f09da6';
+    $display->content['new-831fa318-7484-43a2-b039-a103a6f09da6'] = $pane;
+    $display->panels['center'][0] = 'new-831fa318-7484-43a2-b039-a103a6f09da6';
     $pane = new stdClass();
-    $pane->pid = 'new-2';
-    $pane->panel = 'two_66_33_second';
+    $pane->pid = 'new-36e1af63-6f73-42c2-abaa-f3a679784d95';
+    $pane->panel = 'center';
     $pane->type = 'views_panes';
-    $pane->subtype = 'project-panel_pane_2';
-    $pane->shown = TRUE;
-    $pane->access = array();
-    $pane->configuration = array();
-    $pane->cache = array();
-    $pane->style = array(
-      'settings' => NULL,
-    );
-    $pane->css = array(
-      'css_id' => '',
-      'css_class' => 'list',
-    );
-    $pane->extras = array();
-    $pane->position = 0;
-    $pane->locks = array();
-    $display->content['new-2'] = $pane;
-    $display->panels['two_66_33_second'][0] = 'new-2';
-    $pane = new stdClass();
-    $pane->pid = 'new-3';
-    $pane->panel = 'two_66_33_top';
-    $pane->type = 'views_panes';
-    $pane->subtype = 'project-panel_pane_1';
-    $pane->shown = TRUE;
-    $pane->access = array();
-    $pane->configuration = array();
-    $pane->cache = array();
-    $pane->style = array(
-      'settings' => NULL,
-    );
-    $pane->css = array(
-      'css_id' => '',
-      'css_class' => 'feature',
-    );
-    $pane->extras = array();
-    $pane->position = 0;
-    $pane->locks = array();
-    $display->content['new-3'] = $pane;
-    $display->panels['two_66_33_top'][0] = 'new-3';
-    $pane = new stdClass();
-    $pane->pid = 'new-4';
-    $pane->panel = 'two_66_33_top';
-    $pane->type = 'custom';
-    $pane->subtype = 'custom';
+    $pane->subtype = 'project-panel_pane_projects';
     $pane->shown = TRUE;
     $pane->access = array();
     $pane->configuration = array(
-      'admin_title' => 'Mission Statement',
-      'title' => '',
-      'body' => 'The Humanitarian OpenStreetMap Team [H.O.T.] is a new initiative to apply the principles of open source and open data sharing towards humanitarian response and economic development.',
-      'format' => '4',
-      'substitute' => TRUE,
+      'arguments' => array(
+        'field_project_type_tid' => '218',
+      ),
+      'override_title' => 1,
+      'override_title_text' => 'Ongoing initiatives that need your help',
+      'override_title_heading' => 'h2',
     );
     $pane->cache = array();
     $pane->style = array(
       'settings' => NULL,
     );
-    $pane->css = array(
-      'css_id' => '',
-      'css_class' => 'mission',
-    );
+    $pane->css = array();
     $pane->extras = array();
     $pane->position = 1;
     $pane->locks = array();
-    $display->content['new-4'] = $pane;
-    $display->panels['two_66_33_top'][1] = 'new-4';
-  $display->hide_title = PANELS_TITLE_NONE;
-  $display->title_pane = 'new-3';
+    $pane->uuid = '36e1af63-6f73-42c2-abaa-f3a679784d95';
+    $display->content['new-36e1af63-6f73-42c2-abaa-f3a679784d95'] = $pane;
+    $display->panels['center'][1] = 'new-36e1af63-6f73-42c2-abaa-f3a679784d95';
+  $display->hide_title = PANELS_TITLE_FIXED;
+  $display->title_pane = 'new-831fa318-7484-43a2-b039-a103a6f09da6';
   $handler->conf['display'] = $display;
   $page->default_handlers[$handler->name] = $handler;
-  $pages['frontpage'] = $page;
+  $pages['activations'] = $page;
 
   return $pages;
 
