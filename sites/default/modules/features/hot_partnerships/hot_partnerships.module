@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HOT Partnerships feature.
+ */
+
+include_once 'hot_partnerships.features.inc';
