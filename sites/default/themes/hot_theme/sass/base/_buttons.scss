@@ -1,15 +1,15 @@
 .btn-gray{
-	background: $lightgray;
+	background: $lightgrey;
 	border-radius: 15px;
-	border-bottom: $middlegray 1px solid;
-	color: $darkgray;
+	border-bottom: $middlegrey 1px solid;
+	color: $darkgrey;
 	font-size: 13px;
 	font-weight:bold;
 	padding: 5px 12px;
 	text-decoration: none;
 	&:hover{
 		text-decoration:none;
-		background: $middlegray;
+		background: $middlegrey;
 		color:$white;
 	}
 }

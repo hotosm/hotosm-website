@@ -21,12 +21,19 @@
     </div>
 
     <?php print render($page['header']); ?>
-    <?php print render($page['navigation']); ?>
   </header>
+
+  <div class="l-navigation">
+    <div class="l-navigation-toggle"><a id="navigation-toggle" class="hidden" href="#menu">Menu</a></div>
+    <?php print render($page['navigation']); ?>
+  </div>
+
+  <div class="l-highlighted">
+    <?php print render($page['highlighted']); ?>
+  </div>
 
   <div class="l-main">
     <div class="l-content" role="main">
-      <?php print render($page['highlighted']); ?>
       <a id="main-content"></a>
       <?php print render($title_prefix); ?>
       <?php if ($title): ?>

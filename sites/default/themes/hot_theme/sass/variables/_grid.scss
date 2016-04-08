@@ -1,2 +1,4 @@
-$grids: 12;
-$grutters: 1/3;
+$desktop: 961px;
+
+@include add-grid(12);
+@include add-gutter(1/3);

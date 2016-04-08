@@ -47,6 +47,9 @@
   src: local('Alegreya Bold Italic'), local('Alegreya-BoldItalic'), url(../fonts/Alegreya-BoldItalic.ttf) format('truetype');
 }
 
-
 $font-sans-serif: "Open Sans", Arial, sans-serif;
 $font-serif: "Alegreya", "Times New Roman", "Times", serif;
+
+$font-size-small: 9pt;
+$font-size-normal: 12pt;
+$font-size-big: 15pt;

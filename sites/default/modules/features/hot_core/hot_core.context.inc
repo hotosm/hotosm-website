@@ -118,17 +118,17 @@ function hot_core_context_default_contexts() {
   $context->reactions = array(
     'block' => array(
       'blocks' => array(
-        'lang_dropdown-language' => array(
-          'module' => 'lang_dropdown',
-          'delta' => 'language',
-          'region' => 'header',
-          'weight' => '-10',
-        ),
         'block-3' => array(
           'module' => 'block',
           'delta' => '3',
           'region' => 'header',
-          'weight' => '-9',
+          'weight' => '-27',
+        ),
+        'lang_dropdown-language' => array(
+          'module' => 'lang_dropdown',
+          'delta' => 'language',
+          'region' => 'header',
+          'weight' => '-26',
         ),
         'menu_block-hot_core-1' => array(
           'module' => 'menu_block',

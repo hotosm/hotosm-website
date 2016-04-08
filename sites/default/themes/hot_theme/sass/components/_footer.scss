@@ -1,0 +1,21 @@
+footer {
+  background-color: $lightgrey;
+  margin-top: 50px;
+  padding: 30px 0;
+
+  #block-system-user-menu {
+    h2 {
+      display: none;
+    }
+    ul, li {
+      list-style-type: none;
+      list-style-image: none;
+    }
+  }
+
+  #block-block-4 {
+    margin: 20px 0;
+    text-align: center;
+    font-size: $font-size-small;
+  }
+}

@@ -1,0 +1,59 @@
+.l-highlighted {
+
+  #block-views-project-projects-featured-block {
+
+    overflow: hidden;
+    position: relative;
+
+    img {
+      width: 100%;
+    }
+
+    @include breakpoint($desktop) {
+      height: 450px;
+      img {
+        top: 25%;
+        transform: translateY(-25%);
+        z-index: -10;
+        position: absolute;
+      }
+    }
+
+    .views-field-body {
+
+      font-size: $font-size-small;
+      margin: 20px auto;
+      width: 80%;
+
+      a {
+        color: $red;
+        font-family: $font-serif;
+        font-size: 24px;
+        font-weight: bold;
+      }
+
+      h3 {
+        margin: 10px 0 20px 0;
+      }
+
+      @include breakpoint($desktop) {
+        >div {
+          margin-top: 100px;
+          background-color: rgba(255, 255, 255, 0.8);
+          padding: 10px;
+          width: 300px;
+        }
+      }
+    }
+  }
+
+  // Site mission block
+  #block-block-1 {
+    border-top: solid 2px $red;
+    border-bottom: solid 2px $red;
+    padding: 20px;
+    margin: 30px auto;
+    text-align: center;
+    font-weight: bold;
+  }
+}

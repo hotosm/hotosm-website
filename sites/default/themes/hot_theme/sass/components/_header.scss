@@ -1,0 +1,63 @@
+header {
+  .l-branding {
+    margin: 30px 0 20px 0;
+    @include breakpoint($desktop) {
+      @include grid-span(6,1);
+    }
+  }
+
+  .l-region--header {
+    @include breakpoint($desktop) {
+      @include grid-span (6,6);
+      margin-top: 30px;
+    }
+  }
+
+  .site-name {
+    display: none;
+  }
+
+
+  #block-lang-dropdown-language {
+    float: right;
+    @include breakpoint($desktop) {
+      @include grid-span (2,10);
+    }
+
+    h2 {
+      display: none;
+    }
+    select {
+      background:$lightgrey;
+      color:$black;
+      border:none;
+      outline:none;
+      display: inline-block;
+      -webkit-appearance:none;
+      -moz-appearance:none;
+      appearance:none;
+      cursor:pointer;
+      padding: 6px;
+      font-size: 8px;
+      text-transform: uppercase;
+      font-weight: bold;
+      width: 70px !important;
+    }
+  }
+
+  //   Social media block
+  #block-block-3 {
+    @include grid-span (6,1);
+    li {
+      display: inline;
+      margin: 0;
+    }
+
+    @include breakpoint($desktop) {
+      @include grid-span (6,5);
+      li {
+        margin: 0 6px;
+      }
+    }
+  }
+}

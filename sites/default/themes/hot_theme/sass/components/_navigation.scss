@@ -1,0 +1,63 @@
+.l-navigation {
+  margin-top: 20px;
+  background-color: rgba(152, 152, 152, 0.3);
+
+  border-bottom: solid $red 2px;
+  width: 100%;
+  @include breakpoint($desktop) {
+    height: 40px;
+  }
+
+  #navigation-toggle {
+    background:$middlegrey;
+    color:$black;
+    padding: 6px;
+    font-size: $font-size-small;
+    font-weight: bold;
+    width: 70px !important;
+    text-decoration: none;
+
+    @include breakpoint($desktop) {
+      display: none;
+    }
+  }
+  // Main menu block
+  #block-menu-block-hot-core-1 {
+
+    .block__title {
+      display: none;
+    }
+
+    ul.menu {
+      font-family: $font-serif;
+      list-style-type: none;
+      list-style-image: none;
+      @include breakpoint($desktop) {
+
+        position: absolute;
+      }
+      display: block;
+
+
+      li {
+        padding: 10px 10px 10px 20px;
+        border-bottom: solid 1px $middlegrey;
+        list-style-type: none;
+        list-style-image: none;
+
+        @include breakpoint($desktop) {
+          float: left;
+          border-bottom: none;
+        }
+      }
+    }
+
+    a {
+      text-decoration: none;
+      color: $darkgrey;
+    }
+    a:hover {
+      color: $black;
+    }
+  }
+}
