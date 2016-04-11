@@ -25,6 +25,14 @@ function hot_core_front_page() {
   return '';
 }
 
+function hot_core_form_alter(&$form, &$form_state, $form_id) {
+    if ($form_id == 'mailchimp_signup_subscribe_block_hot_newsletter_form') {
+      unset($form['mergevars']['EMAIL']['#title']);
+      $form['mergevars']['EMAIL']['#attributes'] = array('placeholder' => t('signup@example.com'));
+      $form['mergevars']['EMAIL']['#size'] = 12;
+  }
+}
+
 /**
  * Implements hook_menu_block_blocks().
  */

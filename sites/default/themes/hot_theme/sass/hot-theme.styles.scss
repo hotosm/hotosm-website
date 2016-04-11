@@ -10,6 +10,11 @@
 @import "base/**/*";
 @import "components/**/*";
 
+
+* {
+  border: none;
+}
+
 body {
   background-color: $white;
   font-family: $font-sans-serif;

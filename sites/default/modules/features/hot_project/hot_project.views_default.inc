@@ -186,6 +186,14 @@ function hot_project_views_default_views() {
     'image_style' => 'featured_project',
     'image_link' => '',
   );
+  /* Field: Content: Subtitle */
+  $handler->display->display_options['fields']['field_subtitle']['id'] = 'field_subtitle';
+  $handler->display->display_options['fields']['field_subtitle']['table'] = 'field_data_field_subtitle';
+  $handler->display->display_options['fields']['field_subtitle']['field'] = 'field_subtitle';
+  $handler->display->display_options['fields']['field_subtitle']['label'] = '';
+  $handler->display->display_options['fields']['field_subtitle']['alter']['alter_text'] = TRUE;
+  $handler->display->display_options['fields']['field_subtitle']['alter']['text'] = '<div>[field_subtitle]</div>';
+  $handler->display->display_options['fields']['field_subtitle']['element_label_colon'] = FALSE;
   /* Field: Content: Title */
   $handler->display->display_options['fields']['title_field']['id'] = 'title_field';
   $handler->display->display_options['fields']['title_field']['table'] = 'field_data_title_field';
@@ -757,6 +765,7 @@ function hot_project_views_default_views() {
     t('View all projects'),
     t('Featured Project Block'),
     t('flag'),
+    t('<div>[field_subtitle]</div>'),
     t('<div>
 <h3>[title_field]</h3>
 [body]

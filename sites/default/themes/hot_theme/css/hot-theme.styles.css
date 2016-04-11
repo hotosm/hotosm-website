@@ -55,6 +55,26 @@
     background: #989898;
     color: #ffffff; }
 
+/* line 18, ../sass/base/_buttons.scss */
+.button, input[type=submit] {
+  background-color: #989898;
+  display: block;
+  padding: 10px;
+  text-align: center;
+  color: #000000;
+  border: #989898;
+  cursor: pointer; }
+
+/* line 28, ../sass/base/_buttons.scss */
+a.button:hover, input[type=submit]:hover {
+  color: #ffffff;
+  background-color: #333333; }
+
+/* line 1, ../sass/base/_forms.scss */
+input[type=text] {
+  border: #989898;
+  padding: 10px; }
+
 /* line 1, ../sass/base/_headings.scss */
 h1 {
   font-family: "Alegreya", "Times New Roman", "Times", serif;
@@ -97,18 +117,70 @@ footer {
   background-color: #e0e0e0;
   margin-top: 50px;
   padding: 30px 0; }
-  /* line 7, ../sass/components/_footer.scss */
-  footer #block-system-user-menu h2 {
-    display: none; }
-  /* line 10, ../sass/components/_footer.scss */
-  footer #block-system-user-menu ul, footer #block-system-user-menu li {
-    list-style-type: none;
-    list-style-image: none; }
-  /* line 16, ../sass/components/_footer.scss */
+  /* line 6, ../sass/components/_footer.scss */
+  footer h2.block__title {
+    font-size: 12pt;
+    font-weight: bold;
+    font-family: "Open Sans", Arial, sans-serif; }
+  /* line 12, ../sass/components/_footer.scss */
+  footer .block {
+    margin: 30px 0;
+    text-align: center;
+    clear: both; }
+  /* line 18, ../sass/components/_footer.scss */
+  footer .button, footer input[type=submit] {
+    margin: 10px auto; }
+  /* line 26, ../sass/components/_footer.scss */
+  footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div > div {
+    margin-right: -4px;
+    display: inline-block; }
+  /* line 31, ../sass/components/_footer.scss */
+  footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div .form-item, footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div .form-actions {
+    margin: 0; }
+  @media (min-width: 961px) {
+    /* line 23, ../sass/components/_footer.scss */
+    footer #block-mailchimp-signup-hot-newsletter {
+      width: 23.40426%;
+      float: left;
+      margin-right: -100%;
+      margin-left: 0;
+      clear: none; } }
+  @media (min-width: 961px) {
+    /* line 43, ../sass/components/_footer.scss */
+    footer #block-block-7 {
+      width: 23.40426%;
+      float: left;
+      margin-right: -100%;
+      margin-left: 25.53191%;
+      clear: none; } }
+  @media (min-width: 961px) {
+    /* line 50, ../sass/components/_footer.scss */
+    footer #block-block-8 {
+      width: 23.40426%;
+      float: left;
+      margin-right: -100%;
+      margin-left: 51.06383%;
+      clear: none; } }
+  @media (min-width: 961px) {
+    /* line 57, ../sass/components/_footer.scss */
+    footer #block-block-9 {
+      width: 23.40426%;
+      float: right;
+      margin-left: 0;
+      margin-right: 0;
+      clear: none; } }
+  /* line 64, ../sass/components/_footer.scss */
   footer #block-block-4 {
     margin: 20px 0;
     text-align: center;
     font-size: 9pt; }
+  /* line 73, ../sass/components/_footer.scss */
+  footer #block-system-user-menu h2 {
+    display: none; }
+  /* line 76, ../sass/components/_footer.scss */
+  footer #block-system-user-menu ul, footer #block-system-user-menu li {
+    list-style-type: none;
+    list-style-image: none; }
 
 /* line 2, ../sass/components/_header.scss */
 header .l-branding {
@@ -204,27 +276,43 @@ header #block-block-3 {
         z-index: -10;
         position: absolute; } }
   /* line 22, ../sass/components/_highlighted.scss */
-  .l-highlighted #block-views-project-projects-featured-block .views-field-body {
-    font-size: 9pt;
-    margin: 20px auto;
+  .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle {
+    margin: 0 auto;
+    margin-top: 40px;
     width: 80%; }
     /* line 28, ../sass/components/_highlighted.scss */
+    .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle > div {
+      background-color: #d73f3f;
+      color: #ffffff;
+      font-weight: bold;
+      font-size: 9pt;
+      margin-bottom: 15px;
+      padding: 5px 10px; }
+      @media (min-width: 961px) {
+        /* line 28, ../sass/components/_highlighted.scss */
+        .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle > div {
+          width: 300px; } }
+  /* line 42, ../sass/components/_highlighted.scss */
+  .l-highlighted #block-views-project-projects-featured-block .views-field-body {
+    font-size: 9pt;
+    margin: 0 auto;
+    width: 80%; }
+    /* line 48, ../sass/components/_highlighted.scss */
     .l-highlighted #block-views-project-projects-featured-block .views-field-body a {
       color: #d73f3f;
       font-family: "Alegreya", "Times New Roman", "Times", serif;
       font-size: 24px;
       font-weight: bold; }
-    /* line 35, ../sass/components/_highlighted.scss */
+    /* line 55, ../sass/components/_highlighted.scss */
     .l-highlighted #block-views-project-projects-featured-block .views-field-body h3 {
       margin: 10px 0 20px 0; }
     @media (min-width: 961px) {
-      /* line 40, ../sass/components/_highlighted.scss */
+      /* line 60, ../sass/components/_highlighted.scss */
       .l-highlighted #block-views-project-projects-featured-block .views-field-body > div {
-        margin-top: 100px;
         background-color: rgba(255, 255, 255, 0.8);
         padding: 10px;
         width: 300px; } }
-/* line 51, ../sass/components/_highlighted.scss */
+/* line 70, ../sass/components/_highlighted.scss */
 .l-highlighted #block-block-1 {
   border-top: solid 2px #d73f3f;
   border-bottom: solid 2px #d73f3f;
@@ -288,27 +376,31 @@ header #block-block-3 {
   .l-navigation #block-menu-block-hot-core-1 a:hover {
     color: #000000; }
 
-/* line 13, ../sass/hot-theme.styles.scss */
+/* line 14, ../sass/hot-theme.styles.scss */
+* {
+  border: none; }
+
+/* line 18, ../sass/hot-theme.styles.scss */
 body {
   background-color: #ffffff;
   font-family: "Open Sans", Arial, sans-serif;
   line-height: 125%;
   font-size: 12pt; }
 
-/* line 20, ../sass/hot-theme.styles.scss */
+/* line 25, ../sass/hot-theme.styles.scss */
 .l-header,
 .l-main {
   margin: 0 auto;
   width: 80%;
   clear: both; }
 
-/* line 28, ../sass/hot-theme.styles.scss */
+/* line 33, ../sass/hot-theme.styles.scss */
 .l-navigation,
 .l-highlighted {
   clear: both;
   width: 100%; }
 
-/* line 34, ../sass/hot-theme.styles.scss */
+/* line 39, ../sass/hot-theme.styles.scss */
 .l-region--navigation,
 .l-navigation-toggle,
 #block-block-1,

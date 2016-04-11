@@ -13,3 +13,19 @@
 		color:$white;
 	}
 }
+
+
+.button, input[type=submit] {
+	background-color: $middlegrey;
+	display: block;
+	padding: 10px;
+	text-align: center;
+	color: $black;
+	border: $middlegrey;
+	cursor: pointer;
+}
+
+a.button:hover, input[type=submit]:hover {
+	color: $white;
+	background-color: $darkgrey;
+}

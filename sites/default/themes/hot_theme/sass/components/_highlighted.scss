@@ -19,10 +19,30 @@
       }
     }
 
+    .views-field-field-subtitle {
+      margin: 0 auto;
+      margin-top: 40px;
+
+      width: 80%;
+
+      >div {
+        background-color: $red;
+        color: $white;
+        font-weight: bold;
+        font-size: $font-size-small;
+        margin-bottom: 15px;
+        padding: 5px 10px;
+
+        @include breakpoint($desktop) {
+          width: 300px;
+        }
+      }
+    }
+
     .views-field-body {
 
       font-size: $font-size-small;
-      margin: 20px auto;
+      margin: 0 auto;
       width: 80%;
 
       a {
@@ -38,7 +58,6 @@
 
       @include breakpoint($desktop) {
         >div {
-          margin-top: 100px;
           background-color: rgba(255, 255, 255, 0.8);
           padding: 10px;
           width: 300px;

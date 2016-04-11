@@ -93,8 +93,8 @@ function hot_project_image_default_styles() {
       1 => array(
         'name' => 'image_scale_and_crop',
         'data' => array(
-          'width' => 510,
-          'height' => 330,
+          'width' => 1024,
+          'height' => 450,
         ),
         'weight' => 1,
       ),

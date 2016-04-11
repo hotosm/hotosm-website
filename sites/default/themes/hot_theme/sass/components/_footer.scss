@@ -3,6 +3,72 @@ footer {
   margin-top: 50px;
   padding: 30px 0;
 
+  h2.block__title {
+    font-size: $font-size-normal;
+    font-weight: bold;
+    font-family: $font-sans-serif;
+  }
+
+  .block {
+    margin: 30px 0;
+    text-align: center;
+    clear: both;
+  }
+
+  .button, input[type=submit]  {
+    margin: 10px auto;
+  }
+
+  // Newsletter
+  #block-mailchimp-signup-hot-newsletter {
+
+    .mailchimp-signup-subscribe-form >div {
+      >div {
+        margin-right: -4px;
+        display:inline-block;
+      }
+
+      .form-item, .form-actions {
+        margin: 0;
+      }
+    }
+
+    @include breakpoint($desktop) {
+      @include grid-span (3,1);
+    }
+  }
+
+
+  // Mailing list link
+  #block-block-7 {
+    @include breakpoint($desktop) {
+      @include grid-span (3,4);
+    }
+  }
+
+  // Email link
+  #block-block-8 {
+    @include breakpoint($desktop) {
+      @include grid-span (3,7);
+    }
+  }
+
+  // Guidestar logo
+  #block-block-9 {
+    @include breakpoint($desktop) {
+      @include grid-span (3,10);
+    }
+  }
+
+  // Organizational note
+  #block-block-4 {
+    margin: 20px 0;
+    text-align: center;
+    font-size: $font-size-small;
+  }
+
+
+  // User login link
   #block-system-user-menu {
     h2 {
       display: none;
@@ -11,11 +77,5 @@ footer {
       list-style-type: none;
       list-style-image: none;
     }
-  }
-
-  #block-block-4 {
-    margin: 20px 0;
-    text-align: center;
-    font-size: $font-size-small;
   }
 }

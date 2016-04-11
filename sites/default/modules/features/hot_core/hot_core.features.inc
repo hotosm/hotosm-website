@@ -73,6 +73,48 @@ function hot_core_image_default_styles() {
 }
 
 /**
+ * Implements hook_default_mailchimp_signup().
+ */
+function hot_core_default_mailchimp_signup() {
+  $items = array();
+  $items['hot_newsletter'] = entity_import('mailchimp_signup', '{
+    "name" : "hot_newsletter",
+    "mc_lists" : { "6cd8f1ed72" : "6cd8f1ed72" },
+    "mode" : "1",
+    "title" : "Subscribe to the HOT newsletter.",
+    "settings" : {
+      "path" : "",
+      "submit_button" : "Sign up",
+      "confirmation_message" : "You have been successfully subscribed to the HOT newsletter!",
+      "destination" : "\\/",
+      "mergefields" : {
+        "EMAIL" : {
+          "name" : "Email Address",
+          "req" : true,
+          "field_type" : "email",
+          "public" : true,
+          "show" : true,
+          "order" : "1",
+          "default" : null,
+          "helptext" : null,
+          "size" : "25",
+          "tag" : "EMAIL",
+          "id" : 0
+        },
+        "FNAME" : 0,
+        "LNAME" : 0
+      },
+      "description" : "",
+      "doublein" : 0,
+      "send_welcome" : 1,
+      "include_interest_groups" : 0
+    },
+    "rdf_mapping" : []
+  }');
+  return $items;
+}
+
+/**
  * Implements hook_node_info().
  */
 function hot_core_node_info() {

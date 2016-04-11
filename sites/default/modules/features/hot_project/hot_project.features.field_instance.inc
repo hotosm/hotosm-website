@@ -81,7 +81,7 @@ function hot_project_field_default_field_instances() {
         'summary_rows' => 5,
       ),
       'type' => 'text_textarea_with_summary',
-      'weight' => 7,
+      'weight' => 8,
     ),
   );
 
@@ -197,7 +197,7 @@ function hot_project_field_default_field_instances() {
         'openlayers_cck_preset_map' => 'default',
       ),
       'type' => 'geofield_openlayers',
-      'weight' => 10,
+      'weight' => 11,
     ),
     'widget_type' => 'geofield_wkt',
   );
@@ -299,7 +299,7 @@ function hot_project_field_default_field_instances() {
         'size' => 60,
       ),
       'type' => 'text_textarea',
-      'weight' => 5,
+      'weight' => 6,
     ),
     'widget_type' => 'text_textarea',
   );
@@ -424,7 +424,7 @@ function hot_project_field_default_field_instances() {
         'progress_indicator' => 'bar',
       ),
       'type' => 'image_image',
-      'weight' => 8,
+      'weight' => 9,
     ),
     'widget_type' => 'imagefield_widget',
   );
@@ -540,7 +540,7 @@ function hot_project_field_default_field_instances() {
         'default_value_php' => NULL,
       ),
       'type' => 'link_field',
-      'weight' => 6,
+      'weight' => 7,
     ),
     'widget_type' => 'link',
   );
@@ -592,6 +592,59 @@ function hot_project_field_default_field_instances() {
       'settings' => array(),
       'type' => 'options_select',
       'weight' => 0,
+    ),
+  );
+
+  // Exported field_instance: 'node-project-field_subtitle'.
+  $field_instances['node-project-field_subtitle'] = array(
+    'bundle' => 'project',
+    'default_value' => NULL,
+    'deleted' => 0,
+    'description' => '',
+    'display' => array(
+      'default' => array(
+        'label' => 'above',
+        'module' => 'text',
+        'settings' => array(),
+        'type' => 'text_default',
+        'weight' => 17,
+      ),
+      'feature' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+      'list' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+      'teaser' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+    ),
+    'entity_type' => 'node',
+    'field_name' => 'field_subtitle',
+    'label' => 'Subtitle',
+    'required' => 0,
+    'settings' => array(
+      'entity_translation_sync' => FALSE,
+      'text_processing' => 0,
+      'user_register_form' => FALSE,
+    ),
+    'widget' => array(
+      'active' => 1,
+      'module' => 'text',
+      'settings' => array(
+        'size' => 60,
+      ),
+      'type' => 'text_textfield',
+      'weight' => 3,
     ),
   );
 
@@ -823,7 +876,7 @@ function hot_project_field_default_field_instances() {
         'progress_indicator' => 'throbber',
       ),
       'type' => 'file_generic',
-      'weight' => 9,
+      'weight' => 10,
     ),
   );
 
@@ -836,6 +889,7 @@ function hot_project_field_default_field_instances() {
   t('Project Image');
   t('Project Page');
   t('Project type');
+  t('Subtitle');
   t('The main project image that is shown in features and lists.');
   t('Timespan');
   t('Title');
