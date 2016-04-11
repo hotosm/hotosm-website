@@ -49,13 +49,12 @@ class Mailchimp_Templates {
      * @param associative_array $types
      *     - user boolean Custom templates for this user account. Defaults to true.
      *     - gallery boolean Templates from our Gallery. Note that some templates that require extra configuration are withheld. (eg, the Etsy template). Defaults to false.
-     *     - base boolean Our "start from scratch" extremely basic templates. Defaults to false. As of the 9.0 update, "base" templates are no longer available via the API because they are now all saved Drag & Drop templates.
+     *     - base boolean Our "start from scratch" extremely basic templates. Defaults to false.
      * @param associative_array $filters
      *     - category string optional for Gallery templates only, limit to a specific template category
      *     - folder_id string user templates, limit to this folder_id
      *     - include_inactive boolean user templates are not deleted, only set inactive. defaults to false.
      *     - inactive_only boolean only include inactive user templates. defaults to false.
-     *     - include_drag_and_drop boolean Include templates created and saved using the new Drag & Drop editor. <strong>Note:</strong> You will not be able to edit or create new drag & drop templates via this API. This is useful only for creating a new campaign based on a drag & drop template.
      * @return associative_array for each type
      *     - user array matching user templates, if requested.
      *         - id int Id of the template
@@ -76,7 +75,15 @@ class Mailchimp_Templates {
      *         - date_created string The date/time the template was created
      *         - active boolean whether or not the template is active and available for use.
      *         - edit_source boolean Whether or not you are able to edit the source of a template.
-     *     - base array matching base templates, if requested. (Will always be empty as of 9.0)
+     *     - base array matching base templates, if requested.
+     *         - id int Id of the template
+     *         - name string Name of the template
+     *         - layout string General description of the layout of the template
+     *         - category string The category for the template, if there is one.
+     *         - preview_image string If we've generated it, the url of the preview image for the template. We do out best to keep these up to date, but Preview image urls are not guaranteed to be available
+     *         - active boolean whether or not the template is active and available for use.
+     *         - date_created string The date/time the template was created
+     *         - edit_source boolean Whether or not you are able to edit the source of a template.
      */
     public function getList($types=array(), $filters=array()) {
         $_params = array("types" => $types, "filters" => $filters);

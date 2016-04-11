@@ -10,7 +10,7 @@ class Mailchimp_Helper {
 contact info, and more. No private information like Credit Card numbers is available.
      * @param array $exclude
      * @return associative_array containing the details for the account tied to this API Key
-     *     - username string The company name associated with the account
+     *     - username string The Account username
      *     - user_id string The Account user unique id (for building some links)
      *     - is_trial bool Whether the Account is in Trial mode (can only send campaigns to less than 100 emails)
      *     - is_approved bool Whether the Account has been approved for purchases
@@ -165,8 +165,8 @@ It's also not just Lynx and is very fine tuned for our template layouts - your m
      *     - leid string the list email id (previously called web_id) for a list-member-info type call. this doesn't change when the email address changes
      * @return array An array of structs with info on the  list_id the member is subscribed to.
      *     - id string the list unique id
-     *     - web_id int the id referenced in web interface urls
-     *     - name string the list name
+     *     - the web_id id referenced in web interface urls
+     *     - the name list name
      */
     public function listsForEmail($email) {
         $_params = array("email" => $email);
@@ -196,6 +196,7 @@ string back that will explain our view on what is going on.
      *     - results array matching campaigns and snippets
      *     - snippet string the matching snippet for the campaign
      *     - campaign associative_array the matching campaign's details - will return same data as single campaign from campaigns/list()
+     *     - summary associative_array if available, the matching campaign's report/summary data, other wise empty
      */
     public function searchCampaigns($query, $offset=0, $snip_start=null, $snip_end=null) {
         $_params = array("query" => $query, "offset" => $offset, "snip_start" => $snip_start, "snip_end" => $snip_end);
@@ -208,12 +209,12 @@ string back that will explain our view on what is going on.
      * @param string $id
      * @param int $offset
      * @return associative_array An array of both exact matches and partial matches over a full search
-     *     - exact_matches associative_array containing the exact email address matches and current results
-     *         - total int total members matching
-     *         - members array each entry will be struct matching the data format for a single member as returned by lists/member-info()
+     *     - exact_matches associative_array containing the total matches and current results
+     *     - total int total members matching
+     *     - members array each entry will be struct matching the data format for a single member as returned by lists/member-info()
      *     - full_search associative_array containing the total matches and current results
-     *         - total int total members matching
-     *         - members array each entry will be struct matching  the data format for a single member as returned by lists/member-info()
+     *     - total int total members matching
+     *     - members array each entry will be struct matching  the data format for a single member as returned by lists/member-info()
      */
     public function searchMembers($query, $id=null, $offset=0) {
         $_params = array("query" => $query, "id" => $id, "offset" => $offset);

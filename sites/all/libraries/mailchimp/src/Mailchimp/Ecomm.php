@@ -23,9 +23,9 @@ class Mailchimp_Ecomm {
      *         - line_num int optional the line number of the item on the order. We will generate these if they are not passed
      *         - product_id int the store's internal Id for the product. Lines that do no contain this will be skipped
      *         - sku string optional the store's internal SKU for the product. (max 30 bytes)
-     *         - product_name string the product name for the product_id associated with this item. We will auto update these as they change (based on product_id) (max 500 bytes)
-     *         - category_id int (required) the store's internal Id for the (main) category associated with this product. Our testing has found this to be a "best guess" scenario
-     *         - category_name string (required) the category name for the category_id this product is in. Our testing has found this to be a "best guess" scenario. Our plugins walk the category heirarchy up and send "Root - SubCat1 - SubCat4", etc.
+     *         - product_name string the product name for the product_id associated with this item. We will auto update these as they change (based on product_id)
+     *         - category_id int the store's internal Id for the (main) category associated with this product. Our testing has found this to be a "best guess" scenario
+     *         - category_name string the category name for the category_id this product is in. Our testing has found this to be a "best guess" scenario. Our plugins walk the category heirarchy up and send "Root - SubCat1 - SubCat4", etc.
      *         - qty double optional the quantity of the item ordered - defaults to 1
      *         - cost double optional the cost of a single item (ie, not the extended cost of the line) - defaults to 0
      * @return associative_array with a single entry:
