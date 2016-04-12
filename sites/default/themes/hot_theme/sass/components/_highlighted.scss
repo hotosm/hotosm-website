@@ -1,5 +1,7 @@
 .l-highlighted {
 
+  margin-top: -41px;
+
   #block-views-project-projects-featured-block {
 
     overflow: hidden;
@@ -21,7 +23,7 @@
 
     .views-field-field-subtitle {
       margin: 0 auto;
-      margin-top: 40px;
+      margin-top: 80px;
 
       width: 80%;
 
@@ -58,7 +60,7 @@
 
       @include breakpoint($desktop) {
         >div {
-          background-color: rgba(255, 255, 255, 0.8);
+          background-color: rgba(255, 255, 255, 0.7);
           padding: 10px;
           width: 300px;
         }
@@ -73,6 +75,7 @@
     padding: 20px;
     margin: 30px auto;
     text-align: center;
-    font-weight: bold;
+    font-size: 1.3em;
+    line-height: 1.3em;
   }
 }

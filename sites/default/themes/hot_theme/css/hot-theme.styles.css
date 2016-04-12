@@ -63,9 +63,10 @@
   text-align: center;
   color: #000000;
   border: #989898;
-  cursor: pointer; }
+  cursor: pointer;
+  font-size: 12pt; }
 
-/* line 28, ../sass/base/_buttons.scss */
+/* line 30, ../sass/base/_buttons.scss */
 a.button:hover, input[type=submit]:hover {
   color: #ffffff;
   background-color: #333333; }
@@ -73,7 +74,8 @@ a.button:hover, input[type=submit]:hover {
 /* line 1, ../sass/base/_forms.scss */
 input[type=text] {
   border: #989898;
-  padding: 10px; }
+  padding: 10px;
+  font-size: 12pt; }
 
 /* line 1, ../sass/base/_headings.scss */
 h1 {
@@ -119,26 +121,35 @@ footer {
   padding: 30px 0; }
   /* line 6, ../sass/components/_footer.scss */
   footer h2.block__title {
+    max-width: 250px;
+    margin: 0 auto;
     font-size: 12pt;
     font-weight: bold;
     font-family: "Open Sans", Arial, sans-serif; }
-  /* line 12, ../sass/components/_footer.scss */
+  /* line 14, ../sass/components/_footer.scss */
   footer .block {
     margin: 30px 0;
     text-align: center;
     clear: both; }
-  /* line 18, ../sass/components/_footer.scss */
-  footer .button, footer input[type=submit] {
+  /* line 20, ../sass/components/_footer.scss */
+  footer .button {
+    margin: 10px auto;
+    max-width: 170px; }
+  /* line 25, ../sass/components/_footer.scss */
+  footer input[type=submit] {
     margin: 10px auto; }
-  /* line 26, ../sass/components/_footer.scss */
+  /* line 32, ../sass/components/_footer.scss */
+  footer #block-mailchimp-signup-hot-newsletter h2.block__title {
+    margin: 0 auto; }
+  /* line 37, ../sass/components/_footer.scss */
   footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div > div {
     margin-right: -4px;
     display: inline-block; }
-  /* line 31, ../sass/components/_footer.scss */
+  /* line 42, ../sass/components/_footer.scss */
   footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div .form-item, footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div .form-actions {
     margin: 0; }
   @media (min-width: 961px) {
-    /* line 23, ../sass/components/_footer.scss */
+    /* line 30, ../sass/components/_footer.scss */
     footer #block-mailchimp-signup-hot-newsletter {
       width: 23.40426%;
       float: left;
@@ -146,7 +157,7 @@ footer {
       margin-left: 0;
       clear: none; } }
   @media (min-width: 961px) {
-    /* line 43, ../sass/components/_footer.scss */
+    /* line 54, ../sass/components/_footer.scss */
     footer #block-block-7 {
       width: 23.40426%;
       float: left;
@@ -154,33 +165,43 @@ footer {
       margin-left: 25.53191%;
       clear: none; } }
   @media (min-width: 961px) {
-    /* line 50, ../sass/components/_footer.scss */
+    /* line 61, ../sass/components/_footer.scss */
     footer #block-block-8 {
       width: 23.40426%;
       float: left;
       margin-right: -100%;
       margin-left: 51.06383%;
       clear: none; } }
+  /* line 69, ../sass/components/_footer.scss */
+  footer #block-block-9 img {
+    margin-top: 20px; }
   @media (min-width: 961px) {
-    /* line 57, ../sass/components/_footer.scss */
+    /* line 68, ../sass/components/_footer.scss */
     footer #block-block-9 {
       width: 23.40426%;
       float: right;
       margin-left: 0;
       margin-right: 0;
       clear: none; } }
-  /* line 64, ../sass/components/_footer.scss */
+  /* line 78, ../sass/components/_footer.scss */
   footer #block-block-4 {
     margin: 20px 0;
     text-align: center;
     font-size: 9pt; }
-  /* line 73, ../sass/components/_footer.scss */
+  /* line 87, ../sass/components/_footer.scss */
   footer #block-system-user-menu h2 {
     display: none; }
-  /* line 76, ../sass/components/_footer.scss */
+  /* line 90, ../sass/components/_footer.scss */
   footer #block-system-user-menu ul, footer #block-system-user-menu li {
     list-style-type: none;
     list-style-image: none; }
+  /* line 96, ../sass/components/_footer.scss */
+  footer #block-system-user-menu {
+    margin: 0 auto; }
+    /* line 98, ../sass/components/_footer.scss */
+    footer #block-system-user-menu a {
+      color: #333333;
+      font-size: 9pt; }
 
 /* line 2, ../sass/components/_header.scss */
 header .l-branding {
@@ -231,7 +252,7 @@ header #block-lang-dropdown-language {
     appearance: none;
     cursor: pointer;
     padding: 6px;
-    font-size: 8px;
+    font-size: 9px;
     text-transform: uppercase;
     font-weight: bold;
     width: 70px !important; }
@@ -258,73 +279,77 @@ header #block-block-3 {
       header #block-block-3 li {
         margin: 0 6px; } }
 
-/* line 3, ../sass/components/_highlighted.scss */
-.l-highlighted #block-views-project-projects-featured-block {
-  overflow: hidden;
-  position: relative; }
-  /* line 8, ../sass/components/_highlighted.scss */
-  .l-highlighted #block-views-project-projects-featured-block img {
-    width: 100%; }
-  @media (min-width: 961px) {
-    /* line 3, ../sass/components/_highlighted.scss */
-    .l-highlighted #block-views-project-projects-featured-block {
-      height: 450px; }
-      /* line 14, ../sass/components/_highlighted.scss */
-      .l-highlighted #block-views-project-projects-featured-block img {
-        top: 25%;
-        transform: translateY(-25%);
-        z-index: -10;
-        position: absolute; } }
-  /* line 22, ../sass/components/_highlighted.scss */
-  .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle {
-    margin: 0 auto;
-    margin-top: 40px;
-    width: 80%; }
-    /* line 28, ../sass/components/_highlighted.scss */
-    .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle > div {
-      background-color: #d73f3f;
-      color: #ffffff;
-      font-weight: bold;
-      font-size: 9pt;
-      margin-bottom: 15px;
-      padding: 5px 10px; }
-      @media (min-width: 961px) {
-        /* line 28, ../sass/components/_highlighted.scss */
-        .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle > div {
-          width: 300px; } }
-  /* line 42, ../sass/components/_highlighted.scss */
-  .l-highlighted #block-views-project-projects-featured-block .views-field-body {
-    font-size: 9pt;
-    margin: 0 auto;
-    width: 80%; }
-    /* line 48, ../sass/components/_highlighted.scss */
-    .l-highlighted #block-views-project-projects-featured-block .views-field-body a {
-      color: #d73f3f;
-      font-family: "Alegreya", "Times New Roman", "Times", serif;
-      font-size: 24px;
-      font-weight: bold; }
-    /* line 55, ../sass/components/_highlighted.scss */
-    .l-highlighted #block-views-project-projects-featured-block .views-field-body h3 {
-      margin: 10px 0 20px 0; }
+/* line 1, ../sass/components/_highlighted.scss */
+.l-highlighted {
+  margin-top: -41px; }
+  /* line 5, ../sass/components/_highlighted.scss */
+  .l-highlighted #block-views-project-projects-featured-block {
+    overflow: hidden;
+    position: relative; }
+    /* line 10, ../sass/components/_highlighted.scss */
+    .l-highlighted #block-views-project-projects-featured-block img {
+      width: 100%; }
     @media (min-width: 961px) {
-      /* line 60, ../sass/components/_highlighted.scss */
-      .l-highlighted #block-views-project-projects-featured-block .views-field-body > div {
-        background-color: rgba(255, 255, 255, 0.8);
-        padding: 10px;
-        width: 300px; } }
-/* line 70, ../sass/components/_highlighted.scss */
-.l-highlighted #block-block-1 {
-  border-top: solid 2px #d73f3f;
-  border-bottom: solid 2px #d73f3f;
-  padding: 20px;
-  margin: 30px auto;
-  text-align: center;
-  font-weight: bold; }
+      /* line 5, ../sass/components/_highlighted.scss */
+      .l-highlighted #block-views-project-projects-featured-block {
+        height: 450px; }
+        /* line 16, ../sass/components/_highlighted.scss */
+        .l-highlighted #block-views-project-projects-featured-block img {
+          top: 25%;
+          transform: translateY(-25%);
+          z-index: -10;
+          position: absolute; } }
+    /* line 24, ../sass/components/_highlighted.scss */
+    .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle {
+      margin: 0 auto;
+      margin-top: 80px;
+      width: 80%; }
+      /* line 30, ../sass/components/_highlighted.scss */
+      .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle > div {
+        background-color: #d73f3f;
+        color: #ffffff;
+        font-weight: bold;
+        font-size: 9pt;
+        margin-bottom: 15px;
+        padding: 5px 10px; }
+        @media (min-width: 961px) {
+          /* line 30, ../sass/components/_highlighted.scss */
+          .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle > div {
+            width: 300px; } }
+    /* line 44, ../sass/components/_highlighted.scss */
+    .l-highlighted #block-views-project-projects-featured-block .views-field-body {
+      font-size: 9pt;
+      margin: 0 auto;
+      width: 80%; }
+      /* line 50, ../sass/components/_highlighted.scss */
+      .l-highlighted #block-views-project-projects-featured-block .views-field-body a {
+        color: #d73f3f;
+        font-family: "Alegreya", "Times New Roman", "Times", serif;
+        font-size: 24px;
+        font-weight: bold; }
+      /* line 57, ../sass/components/_highlighted.scss */
+      .l-highlighted #block-views-project-projects-featured-block .views-field-body h3 {
+        margin: 10px 0 20px 0; }
+      @media (min-width: 961px) {
+        /* line 62, ../sass/components/_highlighted.scss */
+        .l-highlighted #block-views-project-projects-featured-block .views-field-body > div {
+          background-color: rgba(255, 255, 255, 0.7);
+          padding: 10px;
+          width: 300px; } }
+  /* line 72, ../sass/components/_highlighted.scss */
+  .l-highlighted #block-block-1 {
+    border-top: solid 2px #d73f3f;
+    border-bottom: solid 2px #d73f3f;
+    padding: 20px;
+    margin: 30px auto;
+    text-align: center;
+    font-size: 1.3em;
+    line-height: 1.3em; }
 
 /* line 1, ../sass/components/_navigation.scss */
 .l-navigation {
   margin-top: 20px;
-  background-color: rgba(152, 152, 152, 0.3);
+  background-color: rgba(255, 255, 255, 0.7);
   border-bottom: solid #d73f3f 2px;
   width: 100%; }
   @media (min-width: 961px) {
@@ -359,7 +384,7 @@ header #block-block-3 {
         position: absolute; } }
     /* line 42, ../sass/components/_navigation.scss */
     .l-navigation #block-menu-block-hot-core-1 ul.menu li {
-      padding: 10px 10px 10px 20px;
+      padding: 10px 20px 10px 0px;
       border-bottom: solid 1px #989898;
       list-style-type: none;
       list-style-image: none; }
@@ -370,11 +395,12 @@ header #block-block-3 {
           border-bottom: none; } }
   /* line 55, ../sass/components/_navigation.scss */
   .l-navigation #block-menu-block-hot-core-1 a {
+    font-size: 1.2em;
     text-decoration: none;
-    color: #333333; }
-  /* line 59, ../sass/components/_navigation.scss */
-  .l-navigation #block-menu-block-hot-core-1 a:hover {
     color: #000000; }
+  /* line 60, ../sass/components/_navigation.scss */
+  .l-navigation #block-menu-block-hot-core-1 a:hover {
+    color: #d73f3f; }
 
 /* line 14, ../sass/hot-theme.styles.scss */
 * {

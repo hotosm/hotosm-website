@@ -1,6 +1,6 @@
 .l-navigation {
   margin-top: 20px;
-  background-color: rgba(152, 152, 152, 0.3);
+  background-color: rgba(255, 255, 255, 0.7);
 
   border-bottom: solid $red 2px;
   width: 100%;
@@ -40,7 +40,7 @@
 
 
       li {
-        padding: 10px 10px 10px 20px;
+        padding: 10px 20px 10px 0px;
         border-bottom: solid 1px $middlegrey;
         list-style-type: none;
         list-style-image: none;
@@ -53,11 +53,12 @@
     }
 
     a {
+      font-size: 1.2em;
       text-decoration: none;
-      color: $darkgrey;
+      color: $black;
     }
     a:hover {
-      color: $black;
+      color: $red;
     }
   }
 }
