@@ -212,7 +212,7 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['fields']['view_node']['field'] = 'view_node';
   $handler->display->display_options['fields']['view_node']['label'] = '';
   $handler->display->display_options['fields']['view_node']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['view_node']['text'] = 'Read more...';
+  $handler->display->display_options['fields']['view_node']['text'] = 'Read more';
   /* Sort criterion: Content: Post date */
   $handler->display->display_options['sorts']['created']['id'] = 'created';
   $handler->display->display_options['sorts']['created']['table'] = 'node';
@@ -352,6 +352,7 @@ function hot_updates_views_default_views() {
     'image_style' => 'update_content',
     'image_link' => '',
   );
+  $handler->display->display_options['fields']['field_images']['group_rows'] = FALSE;
   $handler->display->display_options['fields']['field_images']['delta_offset'] = '0';
   /* Field: Content: Title */
   $handler->display->display_options['fields']['title_field']['id'] = 'title_field';
@@ -361,6 +362,7 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['fields']['title_field']['element_type'] = 'h3';
   $handler->display->display_options['fields']['title_field']['element_class'] = 'node-title';
   $handler->display->display_options['fields']['title_field']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['title_field']['element_wrapper_class'] = 'first-news-element';
   $handler->display->display_options['fields']['title_field']['link_to_entity'] = 1;
   /* Field: User: Name */
   $handler->display->display_options['fields']['name']['id'] = 'name';
@@ -377,8 +379,8 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['fields']['created']['label'] = '';
   $handler->display->display_options['fields']['created']['alter']['alter_text'] = TRUE;
   $handler->display->display_options['fields']['created']['alter']['text'] = 'Posted by [name] on [created]';
-  $handler->display->display_options['fields']['created']['element_type'] = 'em';
   $handler->display->display_options['fields']['created']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['created']['element_wrapper_class'] = 'first-news-element';
   $handler->display->display_options['fields']['created']['date_format'] = 'short';
   $handler->display->display_options['fields']['created']['second_date_format'] = 'long';
   /* Field: Content: Body */
@@ -386,8 +388,14 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['fields']['body']['table'] = 'field_data_body';
   $handler->display->display_options['fields']['body']['field'] = 'body';
   $handler->display->display_options['fields']['body']['label'] = '';
-  $handler->display->display_options['fields']['body']['alter']['strip_tags'] = TRUE;
+  $handler->display->display_options['fields']['body']['alter']['text'] = '<div class="news-first-item-text>
+[title_field]
+[created]
+[body]
+[view_node]
+</div>';
   $handler->display->display_options['fields']['body']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['body']['element_wrapper_class'] = 'first-news-element';
   $handler->display->display_options['fields']['body']['type'] = 'text_summary_or_trimmed';
   $handler->display->display_options['fields']['body']['settings'] = array(
     'trim_length' => '600',
@@ -398,7 +406,8 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['fields']['view_node']['field'] = 'view_node';
   $handler->display->display_options['fields']['view_node']['label'] = '';
   $handler->display->display_options['fields']['view_node']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['view_node']['text'] = 'Read more...';
+  $handler->display->display_options['fields']['view_node']['element_wrapper_class'] = 'first-news-element';
+  $handler->display->display_options['fields']['view_node']['text'] = 'Read more';
   $handler->display->display_options['block_title'] = array(
     'more_link' => 0,
     'feed_icon' => 1,
@@ -529,15 +538,22 @@ function hot_updates_views_default_views() {
     t('last »'),
     t('author'),
     t('Posted by [name] on [created]'),
-    t('Read more...'),
+    t('Read more'),
     t('All updates page'),
     t('more'),
     t('<a href="/feed/rss2" class="feed-icon" title="Subscribe to Recent Updates"><img src="http://dev-d7-hot.gotpantheon.com/misc/feed.png" width="16" height="16" alt="Subscribe to Recent Updates" /></a>'),
+    t('Read more...'),
     t('All updates feed'),
     t('Recent Updates'),
     t('All updates block (first)'),
     t('Latest News'),
     t('See all updates'),
+    t('<div class="news-first-item-text>
+[title_field]
+[created]
+[body]
+[view_node]
+</div>'),
     t('All updates block (rest)'),
     t('Project updates block'),
     t('All'),

@@ -1,12 +1,20 @@
-.l-navigation {
-  margin-top: 20px;
-  background-color: rgba(255, 255, 255, 0.7);
-
-  border-bottom: solid $red 2px;
-  width: 100%;
-  @include breakpoint($desktop) {
+@include breakpoint($desktop) {
+  .l-navigation {
     height: 40px;
   }
+  .front .l-navigation {
+      background-color: rgba(255, 255, 255, 0.7);
+  }
+}
+
+.l-navigation {
+
+  position: relative;
+  z-index: 99;
+  margin-top: 20px;
+  background-color: $lightgrey;
+  border-bottom: solid $red 2px;
+  width: 100%;
 
   #navigation-toggle {
     background:$middlegrey;
@@ -29,15 +37,15 @@
     }
 
     ul.menu {
+
+      display: block;
       font-family: $font-serif;
       list-style-type: none;
       list-style-image: none;
-      @include breakpoint($desktop) {
 
+      @include breakpoint($desktop) {
         position: absolute;
       }
-      display: block;
-
 
       li {
         padding: 10px 20px 10px 0px;
@@ -50,10 +58,14 @@
           border-bottom: none;
         }
       }
+
+      li.last {
+        border-bottom: none;
+      }
     }
 
     a {
-      font-size: 1.2em;
+      font-size: 1.1em;
       text-decoration: none;
       color: $black;
     }

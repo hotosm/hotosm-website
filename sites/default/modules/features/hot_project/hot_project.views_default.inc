@@ -204,6 +204,14 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['title_field']['element_class'] = 'featured-title';
   $handler->display->display_options['fields']['title_field']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['title_field']['link_to_entity'] = 1;
+  /* Field: Content: Link */
+  $handler->display->display_options['fields']['view_node']['id'] = 'view_node';
+  $handler->display->display_options['fields']['view_node']['table'] = 'views_entity_node';
+  $handler->display->display_options['fields']['view_node']['field'] = 'view_node';
+  $handler->display->display_options['fields']['view_node']['label'] = '';
+  $handler->display->display_options['fields']['view_node']['exclude'] = TRUE;
+  $handler->display->display_options['fields']['view_node']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['view_node']['text'] = 'Learn more';
   /* Field: Content: Body */
   $handler->display->display_options['fields']['body']['id'] = 'body';
   $handler->display->display_options['fields']['body']['table'] = 'field_data_body';
@@ -212,7 +220,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['body']['alter']['alter_text'] = TRUE;
   $handler->display->display_options['fields']['body']['alter']['text'] = '<div>
 <h3>[title_field]</h3>
-[body]
+[body] [view_node]
 </div>';
   $handler->display->display_options['fields']['body']['alter']['max_length'] = '500';
   $handler->display->display_options['fields']['body']['element_class'] = 'featured-body';
@@ -766,9 +774,10 @@ function hot_project_views_default_views() {
     t('Featured Project Block'),
     t('flag'),
     t('<div>[field_subtitle]</div>'),
+    t('Learn more'),
     t('<div>
 <h3>[title_field]</h3>
-[body]
+[body] [view_node]
 </div>'),
     t('Ongoing projects pane'),
     t('All'),

@@ -1,6 +1,10 @@
-.l-highlighted {
+@include breakpoint($desktop) {
+  .front .l-highlighted {
+    margin-top: -41px;
+  }
+}
 
-  margin-top: -41px;
+.l-highlighted {
 
   #block-views-project-projects-featured-block {
 
@@ -23,8 +27,10 @@
 
     .views-field-field-subtitle {
       margin: 0 auto;
-      margin-top: 80px;
-
+      margin-top: 40px;
+      @include breakpoint($desktop) {
+        margin-top: 80px;
+      }
       width: 80%;
 
       >div {
@@ -47,14 +53,9 @@
       margin: 0 auto;
       width: 80%;
 
-      a {
-        color: $red;
-        font-family: $font-serif;
+      h3 {
         font-size: 24px;
         font-weight: bold;
-      }
-
-      h3 {
         margin: 10px 0 20px 0;
       }
 

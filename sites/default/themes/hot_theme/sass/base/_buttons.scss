@@ -15,19 +15,22 @@
 }
 
 
-.button, input[type=submit] {
+.button, input[type=submit], .more-link a {
 	background-color: $middlegrey;
 	display: block;
 	padding: 10px;
 	text-align: center;
 	color: $black;
-	border: $middlegrey;
+	border: none;
 	cursor: pointer;
 	font-size: $font-size-normal;
-
 }
 
-a.button:hover, input[type=submit]:hover {
+.button {
+	margin: 10px auto;
+}
+
+a.button:hover, input[type=submit]:hover, .more-link:hover a  {
 	color: $white;
 	background-color: $darkgrey;
 }

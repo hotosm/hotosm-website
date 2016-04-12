@@ -18,12 +18,16 @@
 body {
   background-color: $white;
   font-family: $font-sans-serif;
-  line-height: 125%;
+  line-height: 150%;
   font-size: $font-size-normal;
 }
 
+a {
+  color: $red;
+}
+
 .l-header,
-.l-main{
+.l-main {
   margin: 0 auto;
   width: 80%;
   clear: both;

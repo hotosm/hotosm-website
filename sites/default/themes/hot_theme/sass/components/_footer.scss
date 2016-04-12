@@ -1,14 +1,18 @@
 footer {
+  @include isolation-span(12,1,'both');
   background-color: $lightgrey;
   margin-top: 50px;
   padding: 30px 0;
 
   h2.block__title {
-    max-width: 250px;
     margin: 0 auto;
     font-size: $font-size-normal;
     font-weight: bold;
     font-family: $font-sans-serif;
+
+    @include breakpoint($desktop) {
+      max-width: 200px;
+    }
   }
 
   .block {
@@ -34,9 +38,10 @@ footer {
     }
 
     .mailchimp-signup-subscribe-form >div {
-      >div {
+      >div, >input {
         margin-right: -4px;
         display:inline-block;
+        vertical-align:top;
       }
 
       .form-item, .form-actions {

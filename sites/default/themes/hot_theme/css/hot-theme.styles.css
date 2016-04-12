@@ -56,18 +56,22 @@
     color: #ffffff; }
 
 /* line 18, ../sass/base/_buttons.scss */
-.button, input[type=submit] {
+.button, input[type=submit], .more-link a {
   background-color: #989898;
   display: block;
   padding: 10px;
   text-align: center;
   color: #000000;
-  border: #989898;
+  border: none;
   cursor: pointer;
-  font-size: 12pt; }
+  font-size: 10pt; }
 
-/* line 30, ../sass/base/_buttons.scss */
-a.button:hover, input[type=submit]:hover {
+/* line 29, ../sass/base/_buttons.scss */
+.button {
+  margin: 10px auto; }
+
+/* line 33, ../sass/base/_buttons.scss */
+a.button:hover, input[type=submit]:hover, .more-link:hover a {
   color: #ffffff;
   background-color: #333333; }
 
@@ -75,31 +79,32 @@ a.button:hover, input[type=submit]:hover {
 input[type=text] {
   border: #989898;
   padding: 10px;
-  font-size: 12pt; }
+  font-size: 10pt;
+  margin: 10px 0; }
 
 /* line 1, ../sass/base/_headings.scss */
-h1 {
+h1, h2 {
   font-family: "Alegreya", "Times New Roman", "Times", serif;
-  font-weight: bold;
-  font-size: 30px; }
+  font-size: 30px;
+  margin: 40px 0; }
+  /* line 5, ../sass/base/_headings.scss */
+  h1 img, h2 img {
+    margin-left: 10px; }
 
-/* line 7, ../sass/base/_headings.scss */
-h2 {
-  font-family: "Alegreya", "Times New Roman", "Times", serif;
-  font-weight: bold;
-  font-size: 30px; }
-
-/* line 13, ../sass/base/_headings.scss */
+/* line 10, ../sass/base/_headings.scss */
 h3 {
-  font-family: "Open Sans", Arial, sans-serif;
-  font-weight: bold;
-  font-size: 20px; }
+  font-family: "Alegreya", "Times New Roman", "Times", serif;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 120%;
+  margin: 30px 0 10px 0; }
 
-/* line 19, ../sass/base/_headings.scss */
+/* line 18, ../sass/base/_headings.scss */
 h4 {
   font-family: "Open Sans", Arial, sans-serif;
   font-weight: bold;
-  font-size: 18px; }
+  font-size: 18px;
+  margin: 10px 0; }
 
 /* line 1, ../sass/base/_helpers.scss */
 .hidden {
@@ -116,40 +121,49 @@ img, media {
 
 /* line 1, ../sass/components/_footer.scss */
 footer {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
   background-color: #e0e0e0;
   margin-top: 50px;
   padding: 30px 0; }
-  /* line 6, ../sass/components/_footer.scss */
+  /* line 7, ../sass/components/_footer.scss */
   footer h2.block__title {
-    max-width: 250px;
     margin: 0 auto;
-    font-size: 12pt;
+    font-size: 10pt;
     font-weight: bold;
     font-family: "Open Sans", Arial, sans-serif; }
-  /* line 14, ../sass/components/_footer.scss */
+    @media (min-width: 961px) {
+      /* line 7, ../sass/components/_footer.scss */
+      footer h2.block__title {
+        max-width: 200px; } }
+  /* line 18, ../sass/components/_footer.scss */
   footer .block {
     margin: 30px 0;
     text-align: center;
     clear: both; }
-  /* line 20, ../sass/components/_footer.scss */
+  /* line 24, ../sass/components/_footer.scss */
   footer .button {
     margin: 10px auto;
     max-width: 170px; }
-  /* line 25, ../sass/components/_footer.scss */
+  /* line 29, ../sass/components/_footer.scss */
   footer input[type=submit] {
     margin: 10px auto; }
-  /* line 32, ../sass/components/_footer.scss */
+  /* line 36, ../sass/components/_footer.scss */
   footer #block-mailchimp-signup-hot-newsletter h2.block__title {
     margin: 0 auto; }
-  /* line 37, ../sass/components/_footer.scss */
-  footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div > div {
+  /* line 41, ../sass/components/_footer.scss */
+  footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div > div, footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div > input {
     margin-right: -4px;
-    display: inline-block; }
-  /* line 42, ../sass/components/_footer.scss */
+    display: inline-block;
+    vertical-align: top; }
+  /* line 47, ../sass/components/_footer.scss */
   footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div .form-item, footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div .form-actions {
     margin: 0; }
   @media (min-width: 961px) {
-    /* line 30, ../sass/components/_footer.scss */
+    /* line 34, ../sass/components/_footer.scss */
     footer #block-mailchimp-signup-hot-newsletter {
       width: 23.40426%;
       float: left;
@@ -157,7 +171,7 @@ footer {
       margin-left: 0;
       clear: none; } }
   @media (min-width: 961px) {
-    /* line 54, ../sass/components/_footer.scss */
+    /* line 59, ../sass/components/_footer.scss */
     footer #block-block-7 {
       width: 23.40426%;
       float: left;
@@ -165,40 +179,40 @@ footer {
       margin-left: 25.53191%;
       clear: none; } }
   @media (min-width: 961px) {
-    /* line 61, ../sass/components/_footer.scss */
+    /* line 66, ../sass/components/_footer.scss */
     footer #block-block-8 {
       width: 23.40426%;
       float: left;
       margin-right: -100%;
       margin-left: 51.06383%;
       clear: none; } }
-  /* line 69, ../sass/components/_footer.scss */
+  /* line 74, ../sass/components/_footer.scss */
   footer #block-block-9 img {
     margin-top: 20px; }
   @media (min-width: 961px) {
-    /* line 68, ../sass/components/_footer.scss */
+    /* line 73, ../sass/components/_footer.scss */
     footer #block-block-9 {
       width: 23.40426%;
       float: right;
       margin-left: 0;
       margin-right: 0;
       clear: none; } }
-  /* line 78, ../sass/components/_footer.scss */
+  /* line 83, ../sass/components/_footer.scss */
   footer #block-block-4 {
     margin: 20px 0;
     text-align: center;
     font-size: 9pt; }
-  /* line 87, ../sass/components/_footer.scss */
+  /* line 92, ../sass/components/_footer.scss */
   footer #block-system-user-menu h2 {
     display: none; }
-  /* line 90, ../sass/components/_footer.scss */
+  /* line 95, ../sass/components/_footer.scss */
   footer #block-system-user-menu ul, footer #block-system-user-menu li {
     list-style-type: none;
     list-style-image: none; }
-  /* line 96, ../sass/components/_footer.scss */
+  /* line 101, ../sass/components/_footer.scss */
   footer #block-system-user-menu {
     margin: 0 auto; }
-    /* line 98, ../sass/components/_footer.scss */
+    /* line 103, ../sass/components/_footer.scss */
     footer #block-system-user-menu a {
       color: #333333;
       font-size: 9pt; }
@@ -279,84 +293,186 @@ header #block-block-3 {
       header #block-block-3 li {
         margin: 0 6px; } }
 
-/* line 1, ../sass/components/_highlighted.scss */
-.l-highlighted {
-  margin-top: -41px; }
-  /* line 5, ../sass/components/_highlighted.scss */
-  .l-highlighted #block-views-project-projects-featured-block {
-    overflow: hidden;
-    position: relative; }
-    /* line 10, ../sass/components/_highlighted.scss */
-    .l-highlighted #block-views-project-projects-featured-block img {
-      width: 100%; }
+@media (min-width: 961px) {
+  /* line 2, ../sass/components/_highlighted.scss */
+  .front .l-highlighted {
+    margin-top: -41px; } }
+/* line 9, ../sass/components/_highlighted.scss */
+.l-highlighted #block-views-project-projects-featured-block {
+  overflow: hidden;
+  position: relative; }
+  /* line 14, ../sass/components/_highlighted.scss */
+  .l-highlighted #block-views-project-projects-featured-block img {
+    width: 100%; }
+  @media (min-width: 961px) {
+    /* line 9, ../sass/components/_highlighted.scss */
+    .l-highlighted #block-views-project-projects-featured-block {
+      height: 450px; }
+      /* line 20, ../sass/components/_highlighted.scss */
+      .l-highlighted #block-views-project-projects-featured-block img {
+        top: 25%;
+        transform: translateY(-25%);
+        z-index: -10;
+        position: absolute; } }
+  /* line 28, ../sass/components/_highlighted.scss */
+  .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle {
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 80%; }
     @media (min-width: 961px) {
-      /* line 5, ../sass/components/_highlighted.scss */
-      .l-highlighted #block-views-project-projects-featured-block {
-        height: 450px; }
-        /* line 16, ../sass/components/_highlighted.scss */
-        .l-highlighted #block-views-project-projects-featured-block img {
-          top: 25%;
-          transform: translateY(-25%);
-          z-index: -10;
-          position: absolute; } }
-    /* line 24, ../sass/components/_highlighted.scss */
-    .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle {
-      margin: 0 auto;
-      margin-top: 80px;
-      width: 80%; }
-      /* line 30, ../sass/components/_highlighted.scss */
-      .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle > div {
-        background-color: #d73f3f;
-        color: #ffffff;
-        font-weight: bold;
-        font-size: 9pt;
-        margin-bottom: 15px;
-        padding: 5px 10px; }
-        @media (min-width: 961px) {
-          /* line 30, ../sass/components/_highlighted.scss */
-          .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle > div {
-            width: 300px; } }
-    /* line 44, ../sass/components/_highlighted.scss */
-    .l-highlighted #block-views-project-projects-featured-block .views-field-body {
+      /* line 28, ../sass/components/_highlighted.scss */
+      .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle {
+        margin-top: 80px; } }
+    /* line 36, ../sass/components/_highlighted.scss */
+    .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle > div {
+      background-color: #d73f3f;
+      color: #ffffff;
+      font-weight: bold;
       font-size: 9pt;
-      margin: 0 auto;
-      width: 80%; }
-      /* line 50, ../sass/components/_highlighted.scss */
-      .l-highlighted #block-views-project-projects-featured-block .views-field-body a {
-        color: #d73f3f;
-        font-family: "Alegreya", "Times New Roman", "Times", serif;
-        font-size: 24px;
-        font-weight: bold; }
-      /* line 57, ../sass/components/_highlighted.scss */
-      .l-highlighted #block-views-project-projects-featured-block .views-field-body h3 {
-        margin: 10px 0 20px 0; }
+      margin-bottom: 15px;
+      padding: 5px 10px; }
       @media (min-width: 961px) {
-        /* line 62, ../sass/components/_highlighted.scss */
-        .l-highlighted #block-views-project-projects-featured-block .views-field-body > div {
-          background-color: rgba(255, 255, 255, 0.7);
-          padding: 10px;
+        /* line 36, ../sass/components/_highlighted.scss */
+        .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle > div {
           width: 300px; } }
-  /* line 72, ../sass/components/_highlighted.scss */
-  .l-highlighted #block-block-1 {
-    border-top: solid 2px #d73f3f;
-    border-bottom: solid 2px #d73f3f;
-    padding: 20px;
-    margin: 30px auto;
-    text-align: center;
-    font-size: 1.3em;
-    line-height: 1.3em; }
+  /* line 50, ../sass/components/_highlighted.scss */
+  .l-highlighted #block-views-project-projects-featured-block .views-field-body {
+    font-size: 9pt;
+    margin: 0 auto;
+    width: 80%; }
+    /* line 56, ../sass/components/_highlighted.scss */
+    .l-highlighted #block-views-project-projects-featured-block .views-field-body h3 {
+      font-size: 24px;
+      font-weight: bold;
+      margin: 10px 0 20px 0; }
+    @media (min-width: 961px) {
+      /* line 63, ../sass/components/_highlighted.scss */
+      .l-highlighted #block-views-project-projects-featured-block .views-field-body > div {
+        background-color: rgba(255, 255, 255, 0.7);
+        padding: 10px;
+        width: 300px; } }
+/* line 73, ../sass/components/_highlighted.scss */
+.l-highlighted #block-block-1 {
+  border-top: solid 2px #d73f3f;
+  border-bottom: solid 2px #d73f3f;
+  padding: 20px;
+  margin: 30px auto;
+  text-align: center;
+  font-size: 1.3em;
+  line-height: 1.3em; }
 
-/* line 1, ../sass/components/_navigation.scss */
-.l-navigation {
-  margin-top: 20px;
+/* line 4, ../sass/components/_homepage.scss */
+body.front #block-block-6 {
+  clear: both;
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none; }
+  /* line 9, ../sass/components/_homepage.scss */
+  body.front #block-block-6 ul li {
+    text-align: center;
+    margin-bottom: 50px; }
+  /* line 14, ../sass/components/_homepage.scss */
+  body.front #block-block-6 h2 {
+    text-align: center !important; }
+  @media (min-width: 961px) {
+    /* line 21, ../sass/components/_homepage.scss */
+    body.front #block-block-6 ul li:nth-of-type(1) {
+      width: 31.91489%;
+      float: left;
+      margin-right: -100%;
+      margin-left: 0;
+      clear: none; }
+    /* line 24, ../sass/components/_homepage.scss */
+    body.front #block-block-6 ul li:nth-of-type(2) {
+      width: 31.91489%;
+      float: left;
+      margin-right: -100%;
+      margin-left: 34.04255%;
+      clear: none; }
+    /* line 27, ../sass/components/_homepage.scss */
+    body.front #block-block-6 ul li:nth-of-type(3) {
+      width: 31.91489%;
+      float: right;
+      margin-left: 0;
+      margin-right: 0;
+      clear: none; } }
+/* line 35, ../sass/components/_homepage.scss */
+body.front #block-views-updates-updates-all-block .first-news-element {
   background-color: rgba(255, 255, 255, 0.7);
+  position: relative;
+  padding: 0 4px; }
+  /* line 39, ../sass/components/_homepage.scss */
+  body.front #block-views-updates-updates-all-block .first-news-element h3 {
+    padding: 20px 0 10px 0;
+    margin: 0; }
+/* line 44, ../sass/components/_homepage.scss */
+body.front #block-views-updates-updates-all-block .views-field-title-field.first-news-element {
+  margin-top: -200px; }
+/* line 48, ../sass/components/_homepage.scss */
+body.front #block-views-updates-updates-all-block .views-field-created.first-news-element {
+  font-style: italic;
+  padding-bottom: 6px; }
+/* line 52, ../sass/components/_homepage.scss */
+body.front #block-views-updates-updates-all-block .views-field-body.first-news-element {
+  padding-bottom: 6px; }
+/* line 55, ../sass/components/_homepage.scss */
+body.front #block-views-updates-updates-all-block .views-field-view-node.first-news-element {
+  padding-bottom: 50px; }
+/* line 60, ../sass/components/_homepage.scss */
+body.front #block-views-updates-updates-all-block .attachment .views-field-created {
+  font-style: italic;
+  margin-bottom: 6px; }
+/* line 64, ../sass/components/_homepage.scss */
+body.front #block-views-updates-updates-all-block .attachment .views-field-body {
+  margin-bottom: 6px; }
+/* line 69, ../sass/components/_homepage.scss */
+body.front #block-views-updates-updates-all-block .view-content img {
+  width: 100%;
+  height: auto; }
+/* line 74, ../sass/components/_homepage.scss */
+body.front #block-views-updates-updates-all-block .more-link {
+  margin: 10px 0; }
+/* line 82, ../sass/components/_homepage.scss */
+body.front #block-block-5 {
+  margin-top: 56px; }
+  /* line 84, ../sass/components/_homepage.scss */
+  body.front #block-block-5 #twitter-widget-0 {
+    width: 100% !important; }
+@media (min-width: 961px) {
+  /* line 90, ../sass/components/_homepage.scss */
+  body.front #block-views-updates-updates-all-block {
+    width: 65.95745%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: both; }
+  /* line 95, ../sass/components/_homepage.scss */
+  body.front #block-block-5 {
+    width: 31.91489%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none; } }
+
+@media (min-width: 961px) {
+  /* line 2, ../sass/components/_navigation.scss */
+  .l-navigation {
+    height: 40px; }
+
+  /* line 5, ../sass/components/_navigation.scss */
+  .front .l-navigation {
+    background-color: rgba(255, 255, 255, 0.7); } }
+/* line 10, ../sass/components/_navigation.scss */
+.l-navigation {
+  position: relative;
+  z-index: 99;
+  margin-top: 20px;
+  background-color: #e0e0e0;
   border-bottom: solid #d73f3f 2px;
   width: 100%; }
-  @media (min-width: 961px) {
-    /* line 1, ../sass/components/_navigation.scss */
-    .l-navigation {
-      height: 40px; } }
-  /* line 11, ../sass/components/_navigation.scss */
+  /* line 19, ../sass/components/_navigation.scss */
   .l-navigation #navigation-toggle {
     background: #989898;
     color: #000000;
@@ -366,39 +482,42 @@ header #block-block-3 {
     width: 70px !important;
     text-decoration: none; }
     @media (min-width: 961px) {
-      /* line 11, ../sass/components/_navigation.scss */
+      /* line 19, ../sass/components/_navigation.scss */
       .l-navigation #navigation-toggle {
         display: none; } }
-  /* line 27, ../sass/components/_navigation.scss */
+  /* line 35, ../sass/components/_navigation.scss */
   .l-navigation #block-menu-block-hot-core-1 .block__title {
     display: none; }
-  /* line 31, ../sass/components/_navigation.scss */
+  /* line 39, ../sass/components/_navigation.scss */
   .l-navigation #block-menu-block-hot-core-1 ul.menu {
+    display: block;
     font-family: "Alegreya", "Times New Roman", "Times", serif;
     list-style-type: none;
-    list-style-image: none;
-    display: block; }
+    list-style-image: none; }
     @media (min-width: 961px) {
-      /* line 31, ../sass/components/_navigation.scss */
+      /* line 39, ../sass/components/_navigation.scss */
       .l-navigation #block-menu-block-hot-core-1 ul.menu {
         position: absolute; } }
-    /* line 42, ../sass/components/_navigation.scss */
+    /* line 50, ../sass/components/_navigation.scss */
     .l-navigation #block-menu-block-hot-core-1 ul.menu li {
       padding: 10px 20px 10px 0px;
       border-bottom: solid 1px #989898;
       list-style-type: none;
       list-style-image: none; }
       @media (min-width: 961px) {
-        /* line 42, ../sass/components/_navigation.scss */
+        /* line 50, ../sass/components/_navigation.scss */
         .l-navigation #block-menu-block-hot-core-1 ul.menu li {
           float: left;
           border-bottom: none; } }
-  /* line 55, ../sass/components/_navigation.scss */
+    /* line 62, ../sass/components/_navigation.scss */
+    .l-navigation #block-menu-block-hot-core-1 ul.menu li.last {
+      border-bottom: none; }
+  /* line 67, ../sass/components/_navigation.scss */
   .l-navigation #block-menu-block-hot-core-1 a {
-    font-size: 1.2em;
+    font-size: 1.1em;
     text-decoration: none;
     color: #000000; }
-  /* line 60, ../sass/components/_navigation.scss */
+  /* line 72, ../sass/components/_navigation.scss */
   .l-navigation #block-menu-block-hot-core-1 a:hover {
     color: #d73f3f; }
 
@@ -410,23 +529,27 @@ header #block-block-3 {
 body {
   background-color: #ffffff;
   font-family: "Open Sans", Arial, sans-serif;
-  line-height: 125%;
-  font-size: 12pt; }
+  line-height: 150%;
+  font-size: 10pt; }
 
 /* line 25, ../sass/hot-theme.styles.scss */
+a {
+  color: #d73f3f; }
+
+/* line 29, ../sass/hot-theme.styles.scss */
 .l-header,
 .l-main {
   margin: 0 auto;
   width: 80%;
   clear: both; }
 
-/* line 33, ../sass/hot-theme.styles.scss */
+/* line 37, ../sass/hot-theme.styles.scss */
 .l-navigation,
 .l-highlighted {
   clear: both;
   width: 100%; }
 
-/* line 39, ../sass/hot-theme.styles.scss */
+/* line 43, ../sass/hot-theme.styles.scss */
 .l-region--navigation,
 .l-navigation-toggle,
 #block-block-1,
