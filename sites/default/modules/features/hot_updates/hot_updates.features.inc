@@ -27,31 +27,6 @@ function hot_updates_views_api($module = NULL, $api = NULL) {
 }
 
 /**
- * Implements hook_image_default_styles().
- */
-function hot_updates_image_default_styles() {
-  $styles = array();
-
-  // Exported image style: update_content.
-  $styles['update_content'] = array(
-    'label' => 'update_content',
-    'effects' => array(
-      5 => array(
-        'name' => 'image_scale',
-        'data' => array(
-          'width' => 780,
-          'height' => 520,
-          'upscale' => 0,
-        ),
-        'weight' => 1,
-      ),
-    ),
-  );
-
-  return $styles;
-}
-
-/**
  * Implements hook_node_info().
  */
 function hot_updates_node_info() {

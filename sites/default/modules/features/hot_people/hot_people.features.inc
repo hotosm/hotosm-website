@@ -198,27 +198,3 @@ function hot_people_flag_default_flags() {
   return $flags;
 
 }
-
-/**
- * Implements hook_image_default_styles().
- */
-function hot_people_image_default_styles() {
-  $styles = array();
-
-  // Exported image style: small_square.
-  $styles['small_square'] = array(
-    'label' => 'Small square',
-    'effects' => array(
-      8 => array(
-        'name' => 'image_scale_and_crop',
-        'data' => array(
-          'width' => 100,
-          'height' => 100,
-        ),
-        'weight' => 1,
-      ),
-    ),
-  );
-
-  return $styles;
-}

@@ -235,12 +235,20 @@ function hot_updates_views_default_views() {
 
   /* Display: All updates page */
   $handler = $view->new_display('page', 'All updates page', 'updates_all_page');
+  $handler->display->display_options['defaults']['pager'] = FALSE;
+  $handler->display->display_options['pager']['type'] = 'full';
+  $handler->display->display_options['pager']['options']['items_per_page'] = '20';
+  $handler->display->display_options['pager']['options']['offset'] = '0';
+  $handler->display->display_options['pager']['options']['id'] = '0';
+  $handler->display->display_options['pager']['options']['quantity'] = '9';
   $handler->display->display_options['defaults']['header'] = FALSE;
-  /* Header: Global: Unfiltered text */
-  $handler->display->display_options['header']['area_text_custom']['id'] = 'area_text_custom';
-  $handler->display->display_options['header']['area_text_custom']['table'] = 'views';
-  $handler->display->display_options['header']['area_text_custom']['field'] = 'area_text_custom';
-  $handler->display->display_options['header']['area_text_custom']['content'] = '<a href="/feed/rss2" class="feed-icon" title="Subscribe to Recent Updates"><img src="http://dev-d7-hot.gotpantheon.com/misc/feed.png" width="16" height="16" alt="Subscribe to Recent Updates" /></a>';
+  $handler->display->display_options['defaults']['footer'] = FALSE;
+  /* Footer: Global: Text area */
+  $handler->display->display_options['footer']['area']['id'] = 'area';
+  $handler->display->display_options['footer']['area']['table'] = 'views';
+  $handler->display->display_options['footer']['area']['field'] = 'area';
+  $handler->display->display_options['footer']['area']['content'] = '<a href="/feed/rss2" class="feed-icon" title="Subscribe to Recent Updates"><img src="/misc/feed.png" width="16" height="16" alt="Subscribe to Recent Updates" /></a>';
+  $handler->display->display_options['footer']['area']['format'] = '2';
   $handler->display->display_options['defaults']['fields'] = FALSE;
   /* Field: Content: Title */
   $handler->display->display_options['fields']['title_field']['id'] = 'title_field';
@@ -259,7 +267,7 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['fields']['field_images']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['field_images']['click_sort_column'] = 'fid';
   $handler->display->display_options['fields']['field_images']['settings'] = array(
-    'image_style' => 'medium',
+    'image_style' => 'normal',
     'image_link' => 'content',
   );
   $handler->display->display_options['fields']['field_images']['delta_limit'] = '1';
@@ -349,7 +357,7 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['fields']['field_images']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['field_images']['click_sort_column'] = 'fid';
   $handler->display->display_options['fields']['field_images']['settings'] = array(
-    'image_style' => 'update_content',
+    'image_style' => 'banner',
     'image_link' => '',
   );
   $handler->display->display_options['fields']['field_images']['group_rows'] = FALSE;
@@ -541,7 +549,7 @@ function hot_updates_views_default_views() {
     t('Read more'),
     t('All updates page'),
     t('more'),
-    t('<a href="/feed/rss2" class="feed-icon" title="Subscribe to Recent Updates"><img src="http://dev-d7-hot.gotpantheon.com/misc/feed.png" width="16" height="16" alt="Subscribe to Recent Updates" /></a>'),
+    t('<a href="/feed/rss2" class="feed-icon" title="Subscribe to Recent Updates"><img src="/misc/feed.png" width="16" height="16" alt="Subscribe to Recent Updates" /></a>'),
     t('Read more...'),
     t('All updates feed'),
     t('Recent Updates'),

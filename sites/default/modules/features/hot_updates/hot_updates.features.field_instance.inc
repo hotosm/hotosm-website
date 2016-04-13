@@ -93,7 +93,7 @@ function hot_updates_field_default_field_instances() {
   $field_instances['node-update-field_images'] = array(
     'bundle' => 'update',
     'deleted' => 0,
-    'description' => 'You can upload several images at once. 
+    'description' => 'You can upload several images at once.
 Then use the <em>Insert</em> button to place them in the text.',
     'display' => array(
       'default' => array(
@@ -116,7 +116,7 @@ Then use the <em>Insert</em> button to place them in the text.',
     'settings' => array(
       'alt_field' => 1,
       'default_image' => 0,
-      'entity_translation_sync' => FALSE,
+      'entity_translation_sync' => 0,
       'file_directory' => '',
       'file_extensions' => 'png gif jpg jpeg',
       'max_filesize' => '',
@@ -132,23 +132,23 @@ Then use the <em>Insert</em> button to place them in the text.',
         'insert' => 1,
         'insert_absolute' => 0,
         'insert_class' => '',
-        'insert_default' => 'image_medium',
+        'insert_default' => 'image_normal',
         'insert_styles' => array(
           'auto' => 'auto',
           'icon_link' => 0,
           'image' => 'image',
-          'image_featured_project' => 0,
-          'image_large' => 'image_large',
-          'image_medium' => 'image_medium',
-          'image_mini_project_image' => 0,
-          'image_project_landing' => 0,
-          'image_project_page' => 0,
-          'image_thumbnail' => 'image_thumbnail',
-          'image_update_content' => 0,
+          'image_banner' => 0,
+          'image_big' => 'image_big',
+          'image_large' => 0,
+          'image_medium' => 0,
+          'image_medium_square' => 0,
+          'image_normal' => 'image_normal',
+          'image_small_square' => 0,
+          'image_thumbnail' => 0,
           'link' => 0,
         ),
         'insert_width' => '',
-        'preview_image_style' => 'thumbnail',
+        'preview_image_style' => 'medium',
         'progress_indicator' => 'throbber',
       ),
       'type' => 'image_miw',
@@ -435,7 +435,7 @@ Use the <em>Insert</em> button to place a link to the file in the text.',
   t('Use this to attach <strong>documents</strong> - any images can be uploaded with the <em>Images field</em> above.
 Use the <em>Insert</em> button to place a link to the file in the text.');
   t('Working group');
-  t('You can upload several images at once. 
+  t('You can upload several images at once.
 Then use the <em>Insert</em> button to place them in the text.');
 
   return $field_instances;

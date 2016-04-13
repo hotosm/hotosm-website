@@ -47,7 +47,6 @@ features[field_instance][] = node-update-field_working_group
 features[field_instance][] = node-update-taxonomy_vocabulary_3
 features[field_instance][] = node-update-title_field
 features[field_instance][] = node-update-upload
-features[image][] = update_content
 features[node][] = update
 features[taxonomy][] = vocabulary_3
 features[user_permission][] = administer node notify

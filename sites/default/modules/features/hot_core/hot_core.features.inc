@@ -40,13 +40,29 @@ function hot_core_image_default_styles() {
 
   // Exported image style: banner.
   $styles['banner'] = array(
-    'label' => 'banner',
+    'label' => 'Banner',
     'effects' => array(
       1 => array(
         'name' => 'image_scale_and_crop',
         'data' => array(
           'width' => 1024,
           'height' => 450,
+        ),
+        'weight' => 1,
+      ),
+    ),
+  );
+
+  // Exported image style: big.
+  $styles['big'] = array(
+    'label' => 'Big',
+    'effects' => array(
+      11 => array(
+        'name' => 'image_scale',
+        'data' => array(
+          'width' => 1024,
+          'height' => '',
+          'upscale' => 1,
         ),
         'weight' => 1,
       ),
@@ -62,6 +78,37 @@ function hot_core_image_default_styles() {
         'data' => array(
           'width' => 200,
           'height' => 200,
+        ),
+        'weight' => 1,
+      ),
+    ),
+  );
+
+  // Exported image style: normal.
+  $styles['normal'] = array(
+    'label' => 'Normal',
+    'effects' => array(
+      10 => array(
+        'name' => 'image_scale',
+        'data' => array(
+          'width' => 450,
+          'height' => '',
+          'upscale' => 1,
+        ),
+        'weight' => 1,
+      ),
+    ),
+  );
+
+  // Exported image style: small_square.
+  $styles['small_square'] = array(
+    'label' => 'Small Square',
+    'effects' => array(
+      8 => array(
+        'name' => 'image_scale_and_crop',
+        'data' => array(
+          'width' => 100,
+          'height' => 100,
         ),
         'weight' => 1,
       ),

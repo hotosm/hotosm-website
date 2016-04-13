@@ -338,7 +338,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'image',
         'settings' => array(
           'image_link' => 'content',
-          'image_style' => 'medium',
+          'image_style' => 'normal',
         ),
         'type' => 'image',
         'weight' => 0,
@@ -420,7 +420,7 @@ function hot_project_field_default_field_instances() {
           'link' => 0,
         ),
         'insert_width' => '',
-        'preview_image_style' => 'thumbnail',
+        'preview_image_style' => 'medium',
         'progress_indicator' => 'bar',
       ),
       'type' => 'image_image',
