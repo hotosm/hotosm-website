@@ -23,6 +23,7 @@ function hot_partnerships_views_default_views() {
   /* Display: Master */
   $handler = $view->new_display('default', 'Master', 'default');
   $handler->display->display_options['title'] = 'Partnerships';
+  $handler->display->display_options['css_class'] = 'hot-two-column-layout';
   $handler->display->display_options['use_more_always'] = FALSE;
   $handler->display->display_options['access']['type'] = 'perm';
   $handler->display->display_options['cache']['type'] = 'none';
@@ -46,7 +47,7 @@ function hot_partnerships_views_default_views() {
   $handler->display->display_options['fields']['field_icon']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['field_icon']['click_sort_column'] = 'fid';
   $handler->display->display_options['fields']['field_icon']['settings'] = array(
-    'image_style' => 'thumbnail',
+    'image_style' => 'normal',
     'image_link' => '',
   );
   /* Field: Content: Title */

@@ -32,6 +32,7 @@ body.front {
   }
   #block-views-updates-updates-all-block {
 
+    // First element with text over image
     .first-news-element {
       background-color: rgba(255, 255, 255, 0.7);
       position: relative;
@@ -48,9 +49,11 @@ body.front {
     .views-field-created.first-news-element {
       font-style: italic;
       padding-bottom: 6px;
+      margin: 0;
     }
     .views-field-body.first-news-element {
       padding-bottom: 6px;
+      margin: 0;
     }
     .views-field-view-node.first-news-element {
       padding-bottom: 50px;

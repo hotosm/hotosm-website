@@ -313,7 +313,6 @@ features[variable][] = theme_hot_theme_settings
 features[variable][] = theme_settings
 features[variable][] = tracking__active_tab
 features[variable][] = update_d7_requirements
-features[variable][] = update_last_check
 features[variable][] = upload_extensions_2
 features[variable][] = upload_extensions_3
 features[variable][] = upload_extensions_default

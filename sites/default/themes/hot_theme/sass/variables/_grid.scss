@@ -1,4 +1,6 @@
+// Definition of brakpoint
 $desktop: 961px;
 
+// Definition of the grid and gutters
 @include add-grid(12);
-@include add-gutter(1/2);
+@include add-gutter(1/0.5);

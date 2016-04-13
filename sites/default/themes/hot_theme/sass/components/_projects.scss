@@ -1,0 +1,50 @@
+.panel-page-projects {
+
+  .pane-project-panel-pane-projects-latest-disaster {
+    padding-top: 120px;
+    background: $white url(/sites/default/themes/hot_theme/images/icons/emergency-mapping.jpg) no-repeat center top;
+  }
+  .pane-project-panel-pane-projects-latest-community {
+    padding-top: 120px;
+    background: $white url(/sites/default/themes/hot_theme/images/icons/community.jpg) no-repeat center top;
+  }
+  .pane-project-panel-pane-projects-latest-technical{
+    padding-top: 120px;
+    background: $white url(/sites/default/themes/hot_theme/images/icons/technical.jpg) no-repeat center top;
+  }
+
+  h2, h3, h4 {
+    text-align: center;
+  }
+  .view-id-project {
+    .views-field-nothing {
+      background-color: $lightgrey;
+      padding: 3px;
+    }
+    .views-field-view-node {
+      margin-top: 10px;
+    }
+  }
+}
+
+.page-projects {
+
+  .pane-project-panel-pane-projects,
+  .pane-project-panel-pane-projects-old {
+    li.views-row {
+      margin-bottom: 50px;
+    }
+  }
+  .project-type-icon {
+    text-align: center;
+  }
+
+  @include breakpoint($desktop) {
+    .project-type-description {
+      @include grid-span(8,1);
+    }
+    .project-type-icon {
+      @include grid-span(4,9);
+    }
+  }
+}

@@ -1,0 +1,30 @@
+
+// Look and feel of news items in listings
+.view-id-updates {
+  .views-field-created {
+    font-style: italic;
+    margin-bottom: 6px;
+  }
+  .views-field-body {
+    margin-bottom: 6px;
+  }
+  .view-content .views-field-field-images {
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    img {
+      width: 100%;
+      height: auto;
+      display:block;
+      margin:auto;
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+    };
+  }
+  .more-link {
+    margin: 10px 0;
+  }
+}

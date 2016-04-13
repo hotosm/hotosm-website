@@ -37,7 +37,7 @@
         background-color: $red;
         color: $white;
         font-weight: bold;
-        font-size: $font-size-small;
+        font-size: $font-size-normal;
         margin-bottom: 15px;
         padding: 5px 10px;
 
@@ -49,12 +49,13 @@
 
     .views-field-body {
 
-      font-size: $font-size-small;
+      font-size: $font-size-normal;
+      line-height: 150%;
       margin: 0 auto;
       width: 80%;
 
       h3 {
-        font-size: 24px;
+        font-size: $font-size-bigger;
         font-weight: bold;
         margin: 10px 0 20px 0;
       }

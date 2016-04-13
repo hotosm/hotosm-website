@@ -29,8 +29,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['exposed_form']['type'] = 'basic';
   $handler->display->display_options['pager']['type'] = 'some';
   $handler->display->display_options['pager']['options']['items_per_page'] = '1';
-  $handler->display->display_options['style_plugin'] = 'grid';
-  $handler->display->display_options['style_options']['columns'] = '3';
+  $handler->display->display_options['style_plugin'] = 'default';
   $handler->display->display_options['row_plugin'] = 'fields';
   /* Field: Draggableviews: Content */
   $handler->display->display_options['fields']['draggableviews']['id'] = 'draggableviews';
@@ -220,7 +219,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['body']['alter']['alter_text'] = TRUE;
   $handler->display->display_options['fields']['body']['alter']['text'] = '<div>
 <h3>[title_field]</h3>
-[body] [view_node]
+[body]<br />[view_node]
 </div>';
   $handler->display->display_options['fields']['body']['alter']['max_length'] = '500';
   $handler->display->display_options['fields']['body']['element_class'] = 'featured-body';
@@ -263,16 +262,13 @@ function hot_project_views_default_views() {
   $handler->display->display_options['pager']['type'] = 'some';
   $handler->display->display_options['pager']['options']['items_per_page'] = '0';
   $handler->display->display_options['pager']['options']['offset'] = '0';
+  $handler->display->display_options['defaults']['style_plugin'] = FALSE;
+  $handler->display->display_options['style_plugin'] = 'list';
+  $handler->display->display_options['defaults']['style_options'] = FALSE;
+  $handler->display->display_options['defaults']['row_plugin'] = FALSE;
+  $handler->display->display_options['row_plugin'] = 'fields';
+  $handler->display->display_options['defaults']['row_options'] = FALSE;
   $handler->display->display_options['defaults']['fields'] = FALSE;
-  /* Field: Draggableviews: Content */
-  $handler->display->display_options['fields']['draggableviews']['id'] = 'draggableviews';
-  $handler->display->display_options['fields']['draggableviews']['table'] = 'node';
-  $handler->display->display_options['fields']['draggableviews']['field'] = 'draggableviews';
-  $handler->display->display_options['fields']['draggableviews']['label'] = '';
-  $handler->display->display_options['fields']['draggableviews']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['draggableviews']['element_default_classes'] = FALSE;
-  $handler->display->display_options['fields']['draggableviews']['hide_alter_empty'] = FALSE;
-  $handler->display->display_options['fields']['draggableviews']['draggableviews']['ajax'] = 1;
   /* Field: Content: Project Image */
   $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
   $handler->display->display_options['fields']['field_image']['table'] = 'field_data_field_image';
@@ -289,8 +285,25 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['title_field']['table'] = 'field_data_title_field';
   $handler->display->display_options['fields']['title_field']['field'] = 'title_field';
   $handler->display->display_options['fields']['title_field']['label'] = '';
+  $handler->display->display_options['fields']['title_field']['element_type'] = 'h3';
   $handler->display->display_options['fields']['title_field']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['title_field']['link_to_entity'] = 1;
+  /* Field: Content: Body */
+  $handler->display->display_options['fields']['body']['id'] = 'body';
+  $handler->display->display_options['fields']['body']['table'] = 'field_data_body';
+  $handler->display->display_options['fields']['body']['field'] = 'body';
+  $handler->display->display_options['fields']['body']['label'] = '';
+  $handler->display->display_options['fields']['body']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['body']['type'] = 'text_summary_or_trimmed';
+  $handler->display->display_options['fields']['body']['settings'] = array(
+    'trim_length' => '200',
+  );
+  $handler->display->display_options['defaults']['sorts'] = FALSE;
+  /* Sort criterion: Content: Timespan -  start date (field_timespan) */
+  $handler->display->display_options['sorts']['field_timespan_value']['id'] = 'field_timespan_value';
+  $handler->display->display_options['sorts']['field_timespan_value']['table'] = 'field_data_field_timespan';
+  $handler->display->display_options['sorts']['field_timespan_value']['field'] = 'field_timespan_value';
+  $handler->display->display_options['sorts']['field_timespan_value']['order'] = 'DESC';
   $handler->display->display_options['defaults']['arguments'] = FALSE;
   /* Contextual filter: Content: Project type (field_project_type) */
   $handler->display->display_options['arguments']['field_project_type_tid']['id'] = 'field_project_type_tid';
@@ -369,16 +382,13 @@ function hot_project_views_default_views() {
   $handler->display->display_options['pager']['type'] = 'some';
   $handler->display->display_options['pager']['options']['items_per_page'] = '0';
   $handler->display->display_options['pager']['options']['offset'] = '0';
+  $handler->display->display_options['defaults']['style_plugin'] = FALSE;
+  $handler->display->display_options['style_plugin'] = 'list';
+  $handler->display->display_options['defaults']['style_options'] = FALSE;
+  $handler->display->display_options['defaults']['row_plugin'] = FALSE;
+  $handler->display->display_options['row_plugin'] = 'fields';
+  $handler->display->display_options['defaults']['row_options'] = FALSE;
   $handler->display->display_options['defaults']['fields'] = FALSE;
-  /* Field: Draggableviews: Content */
-  $handler->display->display_options['fields']['draggableviews']['id'] = 'draggableviews';
-  $handler->display->display_options['fields']['draggableviews']['table'] = 'node';
-  $handler->display->display_options['fields']['draggableviews']['field'] = 'draggableviews';
-  $handler->display->display_options['fields']['draggableviews']['label'] = '';
-  $handler->display->display_options['fields']['draggableviews']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['draggableviews']['element_default_classes'] = FALSE;
-  $handler->display->display_options['fields']['draggableviews']['hide_alter_empty'] = FALSE;
-  $handler->display->display_options['fields']['draggableviews']['draggableviews']['ajax'] = 1;
   /* Field: Content: Project Image */
   $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
   $handler->display->display_options['fields']['field_image']['table'] = 'field_data_field_image';
@@ -395,8 +405,25 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['title_field']['table'] = 'field_data_title_field';
   $handler->display->display_options['fields']['title_field']['field'] = 'title_field';
   $handler->display->display_options['fields']['title_field']['label'] = '';
+  $handler->display->display_options['fields']['title_field']['element_type'] = 'h3';
   $handler->display->display_options['fields']['title_field']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['title_field']['link_to_entity'] = 1;
+  /* Field: Content: Body */
+  $handler->display->display_options['fields']['body']['id'] = 'body';
+  $handler->display->display_options['fields']['body']['table'] = 'field_data_body';
+  $handler->display->display_options['fields']['body']['field'] = 'body';
+  $handler->display->display_options['fields']['body']['label'] = '';
+  $handler->display->display_options['fields']['body']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['body']['type'] = 'text_summary_or_trimmed';
+  $handler->display->display_options['fields']['body']['settings'] = array(
+    'trim_length' => '200',
+  );
+  $handler->display->display_options['defaults']['sorts'] = FALSE;
+  /* Sort criterion: Content: Timespan -  start date (field_timespan) */
+  $handler->display->display_options['sorts']['field_timespan_value']['id'] = 'field_timespan_value';
+  $handler->display->display_options['sorts']['field_timespan_value']['table'] = 'field_data_field_timespan';
+  $handler->display->display_options['sorts']['field_timespan_value']['field'] = 'field_timespan_value';
+  $handler->display->display_options['sorts']['field_timespan_value']['order'] = 'DESC';
   $handler->display->display_options['defaults']['arguments'] = FALSE;
   /* Contextual filter: Content: Project type (field_project_type) */
   $handler->display->display_options['arguments']['field_project_type_tid']['id'] = 'field_project_type_tid';
@@ -468,7 +495,7 @@ function hot_project_views_default_views() {
   /* Display: Latest Disaster Mapping */
   $handler = $view->new_display('panel_pane', 'Latest Disaster Mapping', 'panel_pane_projects_latest_disaster');
   $handler->display->display_options['defaults']['title'] = FALSE;
-  $handler->display->display_options['title'] = 'Disaster Mapping';
+  $handler->display->display_options['title'] = '<h4>Disaster Mapping</h4>';
   $handler->display->display_options['defaults']['use_more'] = FALSE;
   $handler->display->display_options['defaults']['use_more_always'] = FALSE;
   $handler->display->display_options['defaults']['use_more_always'] = FALSE;
@@ -480,7 +507,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['header']['area']['id'] = 'area';
   $handler->display->display_options['header']['area']['table'] = 'views';
   $handler->display->display_options['header']['area']['field'] = 'area';
-  $handler->display->display_options['header']['area']['content'] = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis convallis placerat. Sed et venenatis neque. Integer metus massa, dictum sed elementum vel, suscipit eu justo. Praesent vestibulum pretium nisi non ullamcorper.
+  $handler->display->display_options['header']['area']['content'] = 'When major disaster strikes anywhere in the world, HOT rallies a huge network of volunteers to create, online, the maps that enable responders to reach those in need.
 
 <a href="/projects/disaster-mapping">View all disaster mapping projects</a>';
   $handler->display->display_options['header']['area']['format'] = '1';
@@ -510,6 +537,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['title']['label'] = '';
   $handler->display->display_options['fields']['title']['alter']['word_boundary'] = FALSE;
   $handler->display->display_options['fields']['title']['alter']['ellipsis'] = FALSE;
+  $handler->display->display_options['fields']['title']['element_type'] = 'h3';
   $handler->display->display_options['fields']['title']['element_label_colon'] = FALSE;
   /* Field: Content: Body */
   $handler->display->display_options['fields']['body']['id'] = 'body';
@@ -560,11 +588,31 @@ function hot_project_views_default_views() {
     'project' => 'project',
   );
   $handler->display->display_options['filters']['type']['group'] = 1;
+  /* Filter criterion: Content: Project type (field_project_type) */
+  $handler->display->display_options['filters']['field_project_type_tid_1']['id'] = 'field_project_type_tid_1';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['table'] = 'field_data_field_project_type';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['field'] = 'field_project_type_tid';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['value'] = array(
+    218 => '218',
+  );
+  $handler->display->display_options['filters']['field_project_type_tid_1']['expose']['operator_id'] = 'field_project_type_tid_1_op';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['expose']['label'] = 'Project type (field_project_type)';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['expose']['operator'] = 'field_project_type_tid_1_op';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['expose']['identifier'] = 'field_project_type_tid_1';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['expose']['required'] = TRUE;
+  $handler->display->display_options['filters']['field_project_type_tid_1']['expose']['remember_roles'] = array(
+    2 => '2',
+    1 => 0,
+    3 => 0,
+    4 => 0,
+  );
+  $handler->display->display_options['filters']['field_project_type_tid_1']['type'] = 'select';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['vocabulary'] = 'project_type';
 
   /* Display: Latest Community */
   $handler = $view->new_display('panel_pane', 'Latest Community', 'panel_pane_projects_latest_community');
   $handler->display->display_options['defaults']['title'] = FALSE;
-  $handler->display->display_options['title'] = 'Community';
+  $handler->display->display_options['title'] = '<h4>Community</h4>';
   $handler->display->display_options['defaults']['use_more'] = FALSE;
   $handler->display->display_options['defaults']['use_more_always'] = FALSE;
   $handler->display->display_options['defaults']['use_more_always'] = FALSE;
@@ -576,7 +624,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['header']['area']['id'] = 'area';
   $handler->display->display_options['header']['area']['table'] = 'views';
   $handler->display->display_options['header']['area']['field'] = 'area';
-  $handler->display->display_options['header']['area']['content'] = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis convallis placerat. Sed et venenatis neque. Integer metus massa, dictum sed elementum vel, suscipit eu justo. Praesent vestibulum pretium nisi non ullamcorper.
+  $handler->display->display_options['header']['area']['content'] = 'HOT supports community mapping projects around the world and assists people to create their own maps for socio-economic development and disaster preparedness.
 
 <a href="/projects/community">View all community projects</a>';
   $handler->display->display_options['header']['area']['format'] = '1';
@@ -586,7 +634,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['nothing']['table'] = 'views';
   $handler->display->display_options['fields']['nothing']['field'] = 'nothing';
   $handler->display->display_options['fields']['nothing']['label'] = '';
-  $handler->display->display_options['fields']['nothing']['alter']['text'] = 'Latest Disaster Mapping Project';
+  $handler->display->display_options['fields']['nothing']['alter']['text'] = 'Latest Community Project';
   $handler->display->display_options['fields']['nothing']['element_label_colon'] = FALSE;
   /* Field: Content: Project Image */
   $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
@@ -606,6 +654,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['title']['label'] = '';
   $handler->display->display_options['fields']['title']['alter']['word_boundary'] = FALSE;
   $handler->display->display_options['fields']['title']['alter']['ellipsis'] = FALSE;
+  $handler->display->display_options['fields']['title']['element_type'] = 'h3';
   $handler->display->display_options['fields']['title']['element_label_colon'] = FALSE;
   /* Field: Content: Body */
   $handler->display->display_options['fields']['body']['id'] = 'body';
@@ -656,11 +705,21 @@ function hot_project_views_default_views() {
     'project' => 'project',
   );
   $handler->display->display_options['filters']['type']['group'] = 1;
+  /* Filter criterion: Content: Project type (field_project_type) */
+  $handler->display->display_options['filters']['field_project_type_tid_1']['id'] = 'field_project_type_tid_1';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['table'] = 'field_data_field_project_type';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['field'] = 'field_project_type_tid';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['value'] = array(
+    219 => '219',
+  );
+  $handler->display->display_options['filters']['field_project_type_tid_1']['type'] = 'select';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['vocabulary'] = 'project_type';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['hierarchy'] = 1;
 
   /* Display: Latest Technical */
   $handler = $view->new_display('panel_pane', 'Latest Technical', 'panel_pane_projects_latest_technical');
   $handler->display->display_options['defaults']['title'] = FALSE;
-  $handler->display->display_options['title'] = 'Technical';
+  $handler->display->display_options['title'] = '<h4>Technical</h4>';
   $handler->display->display_options['defaults']['use_more'] = FALSE;
   $handler->display->display_options['defaults']['use_more_always'] = FALSE;
   $handler->display->display_options['defaults']['use_more_always'] = FALSE;
@@ -672,7 +731,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['header']['area']['id'] = 'area';
   $handler->display->display_options['header']['area']['table'] = 'views';
   $handler->display->display_options['header']['area']['field'] = 'area';
-  $handler->display->display_options['header']['area']['content'] = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis convallis placerat. Sed et venenatis neque. Integer metus massa, dictum sed elementum vel, suscipit eu justo. Praesent vestibulum pretium nisi non ullamcorper.
+  $handler->display->display_options['header']['area']['content'] = 'HOT develops several open source programs and applications to leverage collaborative mapping and the use of new technologies in the field of geographic information for humanitarian aid. Check them out!
 
 <a href="/projects/technical">View all technical projects</a>';
   $handler->display->display_options['header']['area']['format'] = '1';
@@ -682,7 +741,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['nothing']['table'] = 'views';
   $handler->display->display_options['fields']['nothing']['field'] = 'nothing';
   $handler->display->display_options['fields']['nothing']['label'] = '';
-  $handler->display->display_options['fields']['nothing']['alter']['text'] = 'Latest Disaster Mapping Project';
+  $handler->display->display_options['fields']['nothing']['alter']['text'] = 'Latest Technical Project';
   $handler->display->display_options['fields']['nothing']['element_label_colon'] = FALSE;
   /* Field: Content: Project Image */
   $handler->display->display_options['fields']['field_image']['id'] = 'field_image';
@@ -702,6 +761,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['title']['label'] = '';
   $handler->display->display_options['fields']['title']['alter']['word_boundary'] = FALSE;
   $handler->display->display_options['fields']['title']['alter']['ellipsis'] = FALSE;
+  $handler->display->display_options['fields']['title']['element_type'] = 'h3';
   $handler->display->display_options['fields']['title']['element_label_colon'] = FALSE;
   /* Field: Content: Body */
   $handler->display->display_options['fields']['body']['id'] = 'body';
@@ -752,6 +812,15 @@ function hot_project_views_default_views() {
     'project' => 'project',
   );
   $handler->display->display_options['filters']['type']['group'] = 1;
+  /* Filter criterion: Content: Project type (field_project_type) */
+  $handler->display->display_options['filters']['field_project_type_tid_1']['id'] = 'field_project_type_tid_1';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['table'] = 'field_data_field_project_type';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['field'] = 'field_project_type_tid';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['value'] = array(
+    220 => '220',
+  );
+  $handler->display->display_options['filters']['field_project_type_tid_1']['type'] = 'select';
+  $handler->display->display_options['filters']['field_project_type_tid_1']['vocabulary'] = 'project_type';
   $translatables['project'] = array(
     t('Master'),
     t('more'),
@@ -777,29 +846,31 @@ function hot_project_views_default_views() {
     t('Learn more'),
     t('<div>
 <h3>[title_field]</h3>
-[body] [view_node]
+[body]<br />[view_node]
 </div>'),
     t('Ongoing projects pane'),
     t('All'),
     t('View panes'),
     t('Past projects pane'),
     t('Latest Disaster Mapping'),
-    t('Disaster Mapping'),
-    t('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis convallis placerat. Sed et venenatis neque. Integer metus massa, dictum sed elementum vel, suscipit eu justo. Praesent vestibulum pretium nisi non ullamcorper.
+    t('<h4>Disaster Mapping</h4>'),
+    t('When major disaster strikes anywhere in the world, HOT rallies a huge network of volunteers to create, online, the maps that enable responders to reach those in need.
 
 <a href="/projects/disaster-mapping">View all disaster mapping projects</a>'),
     t('Latest Disaster Mapping Project'),
     t('Project type (field_project_type)'),
     t('Latest Community'),
-    t('Community'),
-    t('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis convallis placerat. Sed et venenatis neque. Integer metus massa, dictum sed elementum vel, suscipit eu justo. Praesent vestibulum pretium nisi non ullamcorper.
+    t('<h4>Community</h4>'),
+    t('HOT supports community mapping projects around the world and assists people to create their own maps for socio-economic development and disaster preparedness.
 
 <a href="/projects/community">View all community projects</a>'),
+    t('Latest Community Project'),
     t('Latest Technical'),
-    t('Technical'),
-    t('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis convallis placerat. Sed et venenatis neque. Integer metus massa, dictum sed elementum vel, suscipit eu justo. Praesent vestibulum pretium nisi non ullamcorper.
+    t('<h4>Technical</h4>'),
+    t('HOT develops several open source programs and applications to leverage collaborative mapping and the use of new technologies in the field of geographic information for humanitarian aid. Check them out!
 
 <a href="/projects/technical">View all technical projects</a>'),
+    t('Latest Technical Project'),
   );
   $export['project'] = $view;
 
