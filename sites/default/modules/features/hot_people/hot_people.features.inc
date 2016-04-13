@@ -205,21 +205,6 @@ function hot_people_flag_default_flags() {
 function hot_people_image_default_styles() {
   $styles = array();
 
-  // Exported image style: avatar.
-  $styles['avatar'] = array(
-    'label' => 'avatar',
-    'effects' => array(
-      9 => array(
-        'name' => 'image_scale_and_crop',
-        'data' => array(
-          'width' => 30,
-          'height' => 30,
-        ),
-        'weight' => 1,
-      ),
-    ),
-  );
-
   // Exported image style: small_square.
   $styles['small_square'] = array(
     'label' => 'Small square',

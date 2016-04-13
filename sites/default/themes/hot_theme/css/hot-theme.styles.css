@@ -165,7 +165,7 @@ footer {
   @media (min-width: 961px) {
     /* line 34, ../sass/components/_footer.scss */
     footer #block-mailchimp-signup-hot-newsletter {
-      width: 23.40426%;
+      width: 22.85714%;
       float: left;
       margin-right: -100%;
       margin-left: 0;
@@ -173,18 +173,18 @@ footer {
   @media (min-width: 961px) {
     /* line 59, ../sass/components/_footer.scss */
     footer #block-block-7 {
-      width: 23.40426%;
+      width: 22.85714%;
       float: left;
       margin-right: -100%;
-      margin-left: 25.53191%;
+      margin-left: 25.71429%;
       clear: none; } }
   @media (min-width: 961px) {
     /* line 66, ../sass/components/_footer.scss */
     footer #block-block-8 {
-      width: 23.40426%;
+      width: 22.85714%;
       float: left;
       margin-right: -100%;
-      margin-left: 51.06383%;
+      margin-left: 51.42857%;
       clear: none; } }
   /* line 74, ../sass/components/_footer.scss */
   footer #block-block-9 img {
@@ -192,7 +192,7 @@ footer {
   @media (min-width: 961px) {
     /* line 73, ../sass/components/_footer.scss */
     footer #block-block-9 {
-      width: 23.40426%;
+      width: 22.85714%;
       float: right;
       margin-left: 0;
       margin-right: 0;
@@ -223,7 +223,7 @@ header .l-branding {
   @media (min-width: 961px) {
     /* line 2, ../sass/components/_header.scss */
     header .l-branding {
-      width: 48.93617%;
+      width: 48.57143%;
       float: left;
       margin-right: -100%;
       margin-left: 0;
@@ -231,10 +231,10 @@ header .l-branding {
 @media (min-width: 961px) {
   /* line 9, ../sass/components/_header.scss */
   header .l-region--header {
-    width: 48.93617%;
+    width: 48.57143%;
     float: left;
     margin-right: -100%;
-    margin-left: 42.55319%;
+    margin-left: 42.85714%;
     clear: none;
     margin-top: 30px; } }
 /* line 16, ../sass/components/_header.scss */
@@ -246,10 +246,10 @@ header #block-lang-dropdown-language {
   @media (min-width: 961px) {
     /* line 21, ../sass/components/_header.scss */
     header #block-lang-dropdown-language {
-      width: 14.89362%;
+      width: 14.28571%;
       float: left;
       margin-right: -100%;
-      margin-left: 76.59574%;
+      margin-left: 77.14286%;
       clear: none; } }
   /* line 27, ../sass/components/_header.scss */
   header #block-lang-dropdown-language h2 {
@@ -272,7 +272,7 @@ header #block-lang-dropdown-language {
     width: 70px !important; }
 /* line 49, ../sass/components/_header.scss */
 header #block-block-3 {
-  width: 48.93617%;
+  width: 48.57143%;
   float: left;
   margin-right: -100%;
   margin-left: 0;
@@ -284,10 +284,10 @@ header #block-block-3 {
   @media (min-width: 961px) {
     /* line 49, ../sass/components/_header.scss */
     header #block-block-3 {
-      width: 48.93617%;
+      width: 48.57143%;
       float: left;
       margin-right: -100%;
-      margin-left: 34.04255%;
+      margin-left: 34.28571%;
       clear: none; }
       /* line 58, ../sass/components/_header.scss */
       header #block-block-3 li {
@@ -379,21 +379,21 @@ body.front #block-block-6 {
   @media (min-width: 961px) {
     /* line 21, ../sass/components/_homepage.scss */
     body.front #block-block-6 ul li:nth-of-type(1) {
-      width: 31.91489%;
+      width: 31.42857%;
       float: left;
       margin-right: -100%;
       margin-left: 0;
       clear: none; }
     /* line 24, ../sass/components/_homepage.scss */
     body.front #block-block-6 ul li:nth-of-type(2) {
-      width: 31.91489%;
+      width: 31.42857%;
       float: left;
       margin-right: -100%;
-      margin-left: 34.04255%;
+      margin-left: 34.28571%;
       clear: none; }
     /* line 27, ../sass/components/_homepage.scss */
     body.front #block-block-6 ul li:nth-of-type(3) {
-      width: 31.91489%;
+      width: 31.42857%;
       float: right;
       margin-left: 0;
       margin-right: 0;
@@ -443,14 +443,14 @@ body.front #block-block-5 {
 @media (min-width: 961px) {
   /* line 90, ../sass/components/_homepage.scss */
   body.front #block-views-updates-updates-all-block {
-    width: 65.95745%;
+    width: 65.71429%;
     float: left;
     margin-right: -100%;
     margin-left: 0;
     clear: both; }
   /* line 95, ../sass/components/_homepage.scss */
   body.front #block-block-5 {
-    width: 31.91489%;
+    width: 31.42857%;
     float: right;
     margin-left: 0;
     margin-right: 0;

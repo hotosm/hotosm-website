@@ -38,16 +38,15 @@ function hot_core_views_api($module = NULL, $api = NULL) {
 function hot_core_image_default_styles() {
   $styles = array();
 
-  // Exported image style: maximum.
-  $styles['maximum'] = array(
-    'label' => 'Maximum',
+  // Exported image style: banner.
+  $styles['banner'] = array(
+    'label' => 'banner',
     'effects' => array(
-      6 => array(
-        'name' => 'image_scale',
+      1 => array(
+        'name' => 'image_scale_and_crop',
         'data' => array(
-          'width' => 720,
-          'height' => '',
-          'upscale' => 0,
+          'width' => 1024,
+          'height' => 450,
         ),
         'weight' => 1,
       ),

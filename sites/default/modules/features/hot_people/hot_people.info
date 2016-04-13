@@ -61,7 +61,6 @@ features[flag][] = executive_director
 features[flag][] = staff
 features[flag][] = volunteer_lead
 features[flag][] = voting_member
-features[image][] = avatar
 features[image][] = small_square
 features[page_manager_handlers][] = user_view__profile
 features[page_manager_pages][] = leadership

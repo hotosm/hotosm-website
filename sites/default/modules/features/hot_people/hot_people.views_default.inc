@@ -499,7 +499,7 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['picture']['label'] = 'Avatar';
   $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['picture']['link_photo_to_profile'] = FALSE;
-  $handler->display->display_options['fields']['picture']['image_style'] = 'mini_project_image';
+  $handler->display->display_options['fields']['picture']['image_style'] = 'small_square';
   /* Field: User: Name */
   $handler->display->display_options['fields']['name']['id'] = 'name';
   $handler->display->display_options['fields']['name']['table'] = 'users';
@@ -907,10 +907,10 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['picture']['field'] = 'picture';
   $handler->display->display_options['fields']['picture']['label'] = '';
   $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['picture']['empty'] = '<img src="/sites/default/themes/hot/images/avatar_30.png" />';
+  $handler->display->display_options['fields']['picture']['empty'] = '<img src="/sites/default/themes/hot/images/avatar_100.png" />';
   $handler->display->display_options['fields']['picture']['hide_alter_empty'] = FALSE;
   $handler->display->display_options['fields']['picture']['link_photo_to_profile'] = FALSE;
-  $handler->display->display_options['fields']['picture']['image_style'] = 'avatar';
+  $handler->display->display_options['fields']['picture']['image_style'] = 'small_square';
   $handler->display->display_options['defaults']['sorts'] = FALSE;
   /* Sort criterion: Content: Title */
   $handler->display->display_options['sorts']['title']['id'] = 'title';
@@ -960,7 +960,6 @@ function hot_people_views_default_views() {
     t('working_group'),
     t('</h3><h3>[title]</h3>
 <div>[body]</div>'),
-    t('<img src="/sites/default/themes/hot/images/avatar_30.png" />'),
     t('Block: Members by working group'),
   );
   $export['user_lists'] = $view;

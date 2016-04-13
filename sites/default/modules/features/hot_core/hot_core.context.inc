@@ -74,23 +74,20 @@ function hot_core_context_default_contexts() {
   $context->description = '';
   $context->tag = 'information';
   $context->conditions = array(
-    'node' => array(
+    'path' => array(
       'values' => array(
-        'book' => 'book',
-      ),
-      'options' => array(
-        'node_form' => '1',
+        'get-involved' => 'get-involved',
       ),
     ),
   );
   $context->reactions = array(
     'block' => array(
       'blocks' => array(
-        'menu_block-hot_core-3' => array(
-          'module' => 'menu_block',
-          'delta' => 'hot_core-3',
-          'region' => 'sidebar',
-          'weight' => '-10',
+        'block-2' => array(
+          'module' => 'block',
+          'delta' => '2',
+          'region' => 'content',
+          'weight' => '2',
         ),
       ),
     ),

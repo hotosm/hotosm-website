@@ -49,7 +49,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['field_image']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['field_image']['click_sort_column'] = 'fid';
   $handler->display->display_options['fields']['field_image']['settings'] = array(
-    'image_style' => 'featured_project',
+    'image_style' => 'banner',
     'image_link' => 'content',
   );
   /* Field: Content: Title */
@@ -145,7 +145,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['field_image']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['field_image']['click_sort_column'] = 'fid';
   $handler->display->display_options['fields']['field_image']['settings'] = array(
-    'image_style' => 'mini_project_image',
+    'image_style' => 'small_square',
     'image_link' => 'content',
   );
   /* Field: Content: Title */
@@ -183,7 +183,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['field_image']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['field_image']['click_sort_column'] = 'fid';
   $handler->display->display_options['fields']['field_image']['settings'] = array(
-    'image_style' => 'featured_project',
+    'image_style' => 'banner',
     'image_link' => '',
   );
   /* Field: Content: Subtitle */
@@ -281,7 +281,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['field_image']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['field_image']['click_sort_column'] = 'fid';
   $handler->display->display_options['fields']['field_image']['settings'] = array(
-    'image_style' => 'project_landing',
+    'image_style' => 'medium',
     'image_link' => 'content',
   );
   /* Field: Content: Title */
@@ -387,7 +387,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['field_image']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['field_image']['click_sort_column'] = 'fid';
   $handler->display->display_options['fields']['field_image']['settings'] = array(
-    'image_style' => 'project_landing',
+    'image_style' => 'medium',
     'image_link' => 'content',
   );
   /* Field: Content: Title */
@@ -912,7 +912,7 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['field_image']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['field_image']['click_sort_column'] = 'fid';
   $handler->display->display_options['fields']['field_image']['settings'] = array(
-    'image_style' => 'project_page',
+    'image_style' => 'medium',
     'image_link' => '',
   );
   $translatables['project_ol_map'] = array(

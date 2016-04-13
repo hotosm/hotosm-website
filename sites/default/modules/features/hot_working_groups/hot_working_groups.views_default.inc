@@ -65,7 +65,7 @@ function hot_working_groups_views_default_views() {
   $handler->display->display_options['fields']['picture']['relationship'] = 'reverse_field_working_group_user';
   $handler->display->display_options['fields']['picture']['label'] = '';
   $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['picture']['image_style'] = 'avatar';
+  $handler->display->display_options['fields']['picture']['image_style'] = 'small_square';
   /* Filter criterion: Content: Published */
   $handler->display->display_options['filters']['status']['id'] = 'status';
   $handler->display->display_options['filters']['status']['table'] = 'node';

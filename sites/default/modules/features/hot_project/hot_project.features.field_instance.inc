@@ -322,7 +322,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'image',
         'settings' => array(
           'image_link' => 'content',
-          'image_style' => 'featured_project',
+          'image_style' => 'banner',
         ),
         'type' => 'image',
         'weight' => 0,
@@ -338,7 +338,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'image',
         'settings' => array(
           'image_link' => 'content',
-          'image_style' => 'project_landing',
+          'image_style' => 'medium',
         ),
         'type' => 'image',
         'weight' => 0,
@@ -348,7 +348,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'image',
         'settings' => array(
           'image_link' => 'content',
-          'image_style' => 'mini_project_image',
+          'image_style' => 'small_square',
         ),
         'type' => 'image',
         'weight' => 0,
