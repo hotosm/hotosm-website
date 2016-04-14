@@ -840,12 +840,16 @@ function hot_people_views_default_views() {
   $handler->display->display_options['style_plugin'] = 'default';
   $handler->display->display_options['style_options']['grouping'] = array(
     0 => array(
+      'field' => 'title',
+      'rendered' => 0,
+      'rendered_strip' => 0,
+    ),
+    1 => array(
       'field' => 'body',
       'rendered' => 0,
-      'rendered_strip' => 1,
+      'rendered_strip' => 0,
     ),
   );
-  $handler->display->display_options['style_options']['default_row_class'] = FALSE;
   $handler->display->display_options['defaults']['style_options'] = FALSE;
   $handler->display->display_options['defaults']['row_plugin'] = FALSE;
   $handler->display->display_options['row_plugin'] = 'fields';
@@ -876,7 +880,7 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['title']['relationship'] = 'field_working_group_nid';
   $handler->display->display_options['fields']['title']['label'] = '';
   $handler->display->display_options['fields']['title']['exclude'] = TRUE;
-  $handler->display->display_options['fields']['title']['element_type'] = 'div';
+  $handler->display->display_options['fields']['title']['element_type'] = 'h3';
   $handler->display->display_options['fields']['title']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['title']['element_default_classes'] = FALSE;
   /* Field: Content: Body */
@@ -886,9 +890,9 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['body']['relationship'] = 'field_working_group_nid';
   $handler->display->display_options['fields']['body']['label'] = '';
   $handler->display->display_options['fields']['body']['exclude'] = TRUE;
-  $handler->display->display_options['fields']['body']['alter']['alter_text'] = TRUE;
   $handler->display->display_options['fields']['body']['alter']['text'] = '</h3><h3>[title]</h3>
 <div>[body]</div>';
+  $handler->display->display_options['fields']['body']['element_type'] = 'div';
   $handler->display->display_options['fields']['body']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['body']['type'] = 'text_summary_or_trimmed';
   $handler->display->display_options['fields']['body']['settings'] = array(

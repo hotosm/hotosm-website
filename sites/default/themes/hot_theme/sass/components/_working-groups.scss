@@ -1,0 +1,29 @@
+ .page-working-groups .view-content {
+
+
+   .view-grouping {
+      margin-bottom: 50px;
+
+      h3 {
+         font-family: $font-sans-serif;
+         font-size: $font-size-normal;
+         line-height: 150%;
+      }
+      .view-grouping-header {
+         font-size: $font-size-big;
+         font-weight: bold;
+      }
+      .view-grouping-content .views-row {
+         margin: 0;
+      }
+   }
+
+   @include breakpoint($desktop) {
+      .view-grouping:nth-of-type(2n+1) {
+        @include isolation-span(6,1,'both');
+      }
+      .view-grouping:nth-of-type(2n+2) {
+         @include grid-span(6,7);
+      }
+   }
+ }

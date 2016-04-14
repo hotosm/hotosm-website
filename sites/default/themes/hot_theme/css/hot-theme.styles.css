@@ -1167,4 +1167,35 @@ body.front #block-block-5 {
 .view-display-id-page_working_groups_with_members .views-row-last {
   margin-bottom: 3em; }
 
+/* line 4, ../sass/components/_working-groups.scss */
+.page-working-groups .view-content .view-grouping {
+  margin-bottom: 50px; }
+  /* line 7, ../sass/components/_working-groups.scss */
+  .page-working-groups .view-content .view-grouping h3 {
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 13px;
+    line-height: 150%; }
+  /* line 12, ../sass/components/_working-groups.scss */
+  .page-working-groups .view-content .view-grouping .view-grouping-header {
+    font-size: 18px;
+    font-weight: bold; }
+  /* line 16, ../sass/components/_working-groups.scss */
+  .page-working-groups .view-content .view-grouping .view-grouping-content .views-row {
+    margin: 0; }
+@media (min-width: 961px) {
+  /* line 22, ../sass/components/_working-groups.scss */
+  .page-working-groups .view-content .view-grouping:nth-of-type(2n+1) {
+    width: 47.05882%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: both; }
+  /* line 25, ../sass/components/_working-groups.scss */
+  .page-working-groups .view-content .view-grouping:nth-of-type(2n+2) {
+    width: 47.05882%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none; } }
+
 /*# sourceMappingURL=hot-theme.styles.css.map */
