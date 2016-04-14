@@ -1248,6 +1248,135 @@ function hot_core_strongarm() {
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_css_selectors';
+  $strongarm->value = '#block-menu-block-hot-core-1 .menu';
+  $export['responsive_menus_css_selectors'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_disable_mouse_events';
+  $strongarm->value = array(
+    1 => 0,
+  );
+  $export['responsive_menus_disable_mouse_events'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_ignore_admin';
+  $strongarm->value = array(
+    1 => '1',
+  );
+  $export['responsive_menus_ignore_admin'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_media_size';
+  $strongarm->value = '961';
+  $export['responsive_menus_media_size'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_no_jquery_update';
+  $strongarm->value = array(
+    1 => 0,
+  );
+  $export['responsive_menus_no_jquery_update'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_remove_attributes';
+  $strongarm->value = array(
+    1 => '1',
+  );
+  $export['responsive_menus_remove_attributes'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_sidr_animation_speed';
+  $strongarm->value = '200';
+  $export['responsive_menus_sidr_animation_speed'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_sidr_css_selectors';
+  $strongarm->value = '#block-menu-block-hot-core-1 .menu';
+  $export['responsive_menus_sidr_css_selectors'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_sidr_displace';
+  $strongarm->value = '1';
+  $export['responsive_menus_sidr_displace'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_sidr_media_size';
+  $strongarm->value = '961';
+  $export['responsive_menus_sidr_media_size'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_sidr_menu_side';
+  $strongarm->value = 'left';
+  $export['responsive_menus_sidr_menu_side'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_sidr_on_close';
+  $strongarm->value = '';
+  $export['responsive_menus_sidr_on_close'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_sidr_on_open';
+  $strongarm->value = '';
+  $export['responsive_menus_sidr_on_open'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_sidr_trigger_txt';
+  $strongarm->value = 'Menu';
+  $export['responsive_menus_sidr_trigger_txt'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_simple_absolute';
+  $strongarm->value = array(
+    1 => '1',
+  );
+  $export['responsive_menus_simple_absolute'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_simple_text';
+  $strongarm->value = '☰ Menu';
+  $export['responsive_menus_simple_text'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'responsive_menus_style';
+  $strongarm->value = 'sidr';
+  $export['responsive_menus_style'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
   $strongarm->name = 'roles';
   $strongarm->value = array(
     2 => 'authenticated user',
