@@ -47,3 +47,23 @@ img, media {
   max-width: 100%;
   height: auto;
 }
+
+
+.node__content {
+	ol li {
+		list-style-type: decimal;
+	}
+	ul li {
+	list-style-type: circle;
+	}
+}
+
+.node__content .styled-list li {
+	margin-bottom: 50px;
+	text-align: center;
+	list-style-type: none;
+	
+	p {
+		text-align: left;
+	}
+}
