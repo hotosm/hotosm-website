@@ -48,3 +48,42 @@
     }
   }
 }
+
+
+.node-type-project {
+  .node--project {
+
+    .field--name-body {
+      @include breakpoint($desktop) {
+        @include isolation-span(8,1,'both');
+      }
+    }
+    .field--name-field-information {
+      .views-row {
+        margin-bottom: 0;
+      }
+      background-color: $lightgrey;
+      .views-field {
+        margin: 0 20px;
+        padding: 10px 0
+      }
+      .views-label {
+        font-weight: bold;
+      }
+      @include breakpoint($desktop) {
+        @include grid-span(4,9);
+      }
+    }
+  }
+  #block-views-updates-updates-project-block {
+    @include isolation-span(12,1,'both');
+    @include breakpoint($desktop) {
+      .views-row:nth-of-type(2n+1){
+        @include isolation-span(6,1,'both');
+      }
+      .views-row:nth-of-type(2n+2){
+        @include grid-span(6,7);
+      }
+    }
+  }
+}

@@ -74,37 +74,27 @@ function hot_updates_views_default_views() {
   /* Display: Update details block */
   $handler = $view->new_display('block', 'Update details block', 'block');
   $handler->display->display_options['defaults']['fields'] = FALSE;
-  /* Field: User: Picture */
-  $handler->display->display_options['fields']['picture']['id'] = 'picture';
-  $handler->display->display_options['fields']['picture']['table'] = 'users';
-  $handler->display->display_options['fields']['picture']['field'] = 'picture';
-  $handler->display->display_options['fields']['picture']['relationship'] = 'uid';
-  $handler->display->display_options['fields']['picture']['label'] = '';
-  $handler->display->display_options['fields']['picture']['exclude'] = TRUE;
-  $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['picture']['image_style'] = 'small_square';
   /* Field: User: Name */
   $handler->display->display_options['fields']['name']['id'] = 'name';
   $handler->display->display_options['fields']['name']['table'] = 'users';
   $handler->display->display_options['fields']['name']['field'] = 'name';
   $handler->display->display_options['fields']['name']['relationship'] = 'uid';
-  $handler->display->display_options['fields']['name']['label'] = '';
-  $handler->display->display_options['fields']['name']['exclude'] = TRUE;
-  $handler->display->display_options['fields']['name']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['name']['label'] = 'Posted by';
+  $handler->display->display_options['fields']['name']['element_label_type'] = 'div';
   /* Field: Content: Post date */
   $handler->display->display_options['fields']['created']['id'] = 'created';
   $handler->display->display_options['fields']['created']['table'] = 'node';
   $handler->display->display_options['fields']['created']['field'] = 'created';
-  $handler->display->display_options['fields']['created']['label'] = '';
-  $handler->display->display_options['fields']['created']['alter']['alter_text'] = TRUE;
+  $handler->display->display_options['fields']['created']['label'] = 'Date posted';
   $handler->display->display_options['fields']['created']['alter']['text'] = '[picture] Posted by [name] on [created]';
-  $handler->display->display_options['fields']['created']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['created']['element_label_type'] = 'div';
   $handler->display->display_options['fields']['created']['date_format'] = 'short';
   $handler->display->display_options['fields']['created']['second_date_format'] = 'long';
   /* Field: Content: Related Project */
   $handler->display->display_options['fields']['field_update_project']['id'] = 'field_update_project';
   $handler->display->display_options['fields']['field_update_project']['table'] = 'field_data_field_update_project';
   $handler->display->display_options['fields']['field_update_project']['field'] = 'field_update_project';
+  $handler->display->display_options['fields']['field_update_project']['element_label_type'] = 'div';
   $handler->display->display_options['fields']['field_update_project']['hide_empty'] = TRUE;
   $handler->display->display_options['fields']['field_update_project']['settings'] = array(
     'alias' => 1,
@@ -114,7 +104,7 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['fields']['field_working_group']['id'] = 'field_working_group';
   $handler->display->display_options['fields']['field_working_group']['table'] = 'field_data_field_working_group';
   $handler->display->display_options['fields']['field_working_group']['field'] = 'field_working_group';
-  $handler->display->display_options['fields']['field_working_group']['element_class'] = 'no-style';
+  $handler->display->display_options['fields']['field_working_group']['element_label_type'] = 'div';
   $handler->display->display_options['fields']['field_working_group']['hide_empty'] = TRUE;
   $handler->display->display_options['fields']['field_working_group']['delta_offset'] = '0';
   $handler->display->display_options['fields']['field_working_group']['multi_type'] = 'ul';
@@ -130,6 +120,8 @@ function hot_updates_views_default_views() {
     t('Translations'),
     t('All'),
     t('Update details block'),
+    t('Posted by'),
+    t('Date posted'),
     t('[picture] Posted by [name] on [created]'),
     t('Related Project'),
     t('Working group'),
@@ -453,6 +445,66 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['pager']['options']['id'] = '0';
   $handler->display->display_options['pager']['options']['quantity'] = '9';
   $handler->display->display_options['defaults']['header'] = FALSE;
+  $handler->display->display_options['defaults']['fields'] = FALSE;
+  /* Field: Content: Images */
+  $handler->display->display_options['fields']['field_images']['id'] = 'field_images';
+  $handler->display->display_options['fields']['field_images']['table'] = 'field_data_field_images';
+  $handler->display->display_options['fields']['field_images']['field'] = 'field_images';
+  $handler->display->display_options['fields']['field_images']['label'] = '';
+  $handler->display->display_options['fields']['field_images']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['field_images']['click_sort_column'] = 'fid';
+  $handler->display->display_options['fields']['field_images']['settings'] = array(
+    'image_style' => 'normal',
+    'image_link' => 'content',
+  );
+  $handler->display->display_options['fields']['field_images']['delta_limit'] = '1';
+  $handler->display->display_options['fields']['field_images']['delta_offset'] = '0';
+  /* Field: Content: Title */
+  $handler->display->display_options['fields']['title_field']['id'] = 'title_field';
+  $handler->display->display_options['fields']['title_field']['table'] = 'field_data_title_field';
+  $handler->display->display_options['fields']['title_field']['field'] = 'title_field';
+  $handler->display->display_options['fields']['title_field']['label'] = '';
+  $handler->display->display_options['fields']['title_field']['element_type'] = 'h3';
+  $handler->display->display_options['fields']['title_field']['element_class'] = 'node-title';
+  $handler->display->display_options['fields']['title_field']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['title_field']['link_to_entity'] = 1;
+  /* Field: User: Name */
+  $handler->display->display_options['fields']['name']['id'] = 'name';
+  $handler->display->display_options['fields']['name']['table'] = 'users';
+  $handler->display->display_options['fields']['name']['field'] = 'name';
+  $handler->display->display_options['fields']['name']['relationship'] = 'uid';
+  $handler->display->display_options['fields']['name']['label'] = '';
+  $handler->display->display_options['fields']['name']['exclude'] = TRUE;
+  $handler->display->display_options['fields']['name']['element_label_colon'] = FALSE;
+  /* Field: Content: Post date */
+  $handler->display->display_options['fields']['created']['id'] = 'created';
+  $handler->display->display_options['fields']['created']['table'] = 'node';
+  $handler->display->display_options['fields']['created']['field'] = 'created';
+  $handler->display->display_options['fields']['created']['label'] = '';
+  $handler->display->display_options['fields']['created']['alter']['alter_text'] = TRUE;
+  $handler->display->display_options['fields']['created']['alter']['text'] = 'Posted by [name] on [created]';
+  $handler->display->display_options['fields']['created']['element_type'] = 'em';
+  $handler->display->display_options['fields']['created']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['created']['date_format'] = 'short';
+  $handler->display->display_options['fields']['created']['second_date_format'] = 'long';
+  /* Field: Content: Body */
+  $handler->display->display_options['fields']['body']['id'] = 'body';
+  $handler->display->display_options['fields']['body']['table'] = 'field_data_body';
+  $handler->display->display_options['fields']['body']['field'] = 'body';
+  $handler->display->display_options['fields']['body']['label'] = '';
+  $handler->display->display_options['fields']['body']['alter']['strip_tags'] = TRUE;
+  $handler->display->display_options['fields']['body']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['body']['type'] = 'text_summary_or_trimmed';
+  $handler->display->display_options['fields']['body']['settings'] = array(
+    'trim_length' => '600',
+  );
+  /* Field: Content: Link */
+  $handler->display->display_options['fields']['view_node']['id'] = 'view_node';
+  $handler->display->display_options['fields']['view_node']['table'] = 'views_entity_node';
+  $handler->display->display_options['fields']['view_node']['field'] = 'view_node';
+  $handler->display->display_options['fields']['view_node']['label'] = '';
+  $handler->display->display_options['fields']['view_node']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['view_node']['text'] = 'Read more';
   $handler->display->display_options['defaults']['arguments'] = FALSE;
   /* Contextual filter: Content: Related Project (field_update_project) */
   $handler->display->display_options['arguments']['field_update_project_nid']['id'] = 'field_update_project_nid';

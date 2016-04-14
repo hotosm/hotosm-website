@@ -17,15 +17,15 @@ function hot_updates_ds_field_settings_info() {
   $ds_fieldsetting->bundle = 'update';
   $ds_fieldsetting->view_mode = 'default';
   $ds_fieldsetting->settings = array(
-    'links' => array(
-      'weight' => '3',
-      'label' => 'hidden',
-      'format' => 'default',
+    'author' => array(
+      'weight' => '6',
+      'label' => 'above',
+      'format' => 'author',
     ),
-    'comments' => array(
-      'weight' => '4',
-      'label' => 'hidden',
-      'format' => 'default',
+    'post_date' => array(
+      'weight' => '6',
+      'label' => 'above',
+      'format' => 'ds_post_date_long',
     ),
   );
   $export['node|update|default'] = $ds_fieldsetting;
@@ -89,16 +89,14 @@ function hot_updates_ds_layout_settings_info() {
         0 => 'field_images',
         1 => 'body',
         2 => 'upload',
-        3 => 'links',
-        4 => 'comments',
+        3 => 'field_information',
       ),
     ),
     'fields' => array(
       'field_images' => 'ds_content',
       'body' => 'ds_content',
       'upload' => 'ds_content',
-      'links' => 'ds_content',
-      'comments' => 'ds_content',
+      'field_information' => 'ds_content',
     ),
     'limit' => array(
       'field_images' => '1',

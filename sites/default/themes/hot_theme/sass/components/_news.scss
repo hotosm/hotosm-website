@@ -28,3 +28,28 @@
     margin: 10px 0;
   }
 }
+
+.node-type-update .node--update {
+
+
+  .field--name-body {
+    @include breakpoint($desktop) {
+      @include isolation-span(8,1,'both');
+    }
+  }
+  .field--name-field-information {
+    .views-row {
+      margin-bottom: 0;
+    }
+    background-color: $lightgrey;
+    .views-field {
+      margin: 20px;
+    }
+    .views-label {
+      font-weight: bold;
+    }
+    @include breakpoint($desktop) {
+      @include grid-span(4,9);
+    }
+  }
+}

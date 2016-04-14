@@ -160,6 +160,67 @@ Then use the <em>Insert</em> button to place them in the text.',
     ),
   );
 
+  // Exported field_instance: 'node-update-field_information'.
+  $field_instances['node-update-field_information'] = array(
+    'bundle' => 'update',
+    'default_value' => array(
+      0 => array(
+        'vname' => 'update|block',
+        'vargs' => '',
+      ),
+    ),
+    'deleted' => 0,
+    'description' => '',
+    'display' => array(
+      'default' => array(
+        'label' => 'hidden',
+        'module' => 'viewfield',
+        'settings' => array(),
+        'type' => 'viewfield_default',
+        'weight' => 17,
+      ),
+      'teaser' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+    ),
+    'entity_type' => 'node',
+    'field_name' => 'field_information',
+    'label' => 'Information',
+    'required' => 0,
+    'settings' => array(
+      'allowed_views' => array(
+        'User' => 0,
+        'archive' => 0,
+        'jobs' => 0,
+        'leadership' => 0,
+        'partnerships' => 0,
+        'project' => 0,
+        'project_ol_map' => 0,
+        'staff_contractors' => 0,
+        'update' => 'update',
+        'updates' => 0,
+        'user_admin' => 0,
+        'user_lists' => 0,
+        'user_profile' => 0,
+        'videos' => 0,
+        'working_group' => 0,
+      ),
+      'entity_translation_sync' => FALSE,
+      'force_default' => 1,
+      'user_register_form' => FALSE,
+    ),
+    'widget' => array(
+      'active' => 0,
+      'module' => 'viewfield',
+      'settings' => array(),
+      'type' => 'viewfield_select',
+      'weight' => 10,
+    ),
+  );
+
   // Exported field_instance: 'node-update-field_update_project'.
   $field_instances['node-update-field_update_project'] = array(
     'bundle' => 'update',
@@ -168,10 +229,10 @@ Then use the <em>Insert</em> button to place them in the text.',
     'description' => '',
     'display' => array(
       'default' => array(
-        'label' => 'inline',
+        'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 12,
+        'weight' => 4,
       ),
       'full' => array(
         'label' => 'inline',
@@ -238,7 +299,7 @@ Then use the <em>Insert</em> button to place them in the text.',
         'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 15,
+        'weight' => 5,
       ),
       'teaser' => array(
         'label' => 'above',
@@ -275,7 +336,7 @@ Then use the <em>Insert</em> button to place them in the text.',
         'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 13,
+        'weight' => 15,
       ),
       'teaser' => array(
         'label' => 'above',
@@ -314,7 +375,7 @@ Then use the <em>Insert</em> button to place them in the text.',
         'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 14,
+        'weight' => 16,
       ),
       'teaser' => array(
         'label' => 'above',
@@ -432,6 +493,7 @@ Use the <em>Insert</em> button to place a link to the file in the text.',
   t('Comment');
   t('Documents');
   t('Images');
+  t('Information');
   t('Related Project');
   t('Title');
   t('Update Tags');

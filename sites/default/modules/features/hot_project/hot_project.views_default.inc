@@ -875,6 +875,118 @@ function hot_project_views_default_views() {
   $export['project'] = $view;
 
   $view = new view();
+  $view->name = 'project_information';
+  $view->description = '';
+  $view->tag = 'default';
+  $view->base_table = 'node';
+  $view->human_name = 'Project Information';
+  $view->core = 7;
+  $view->api_version = '3.0';
+  $view->disabled = FALSE; /* Edit this to true to make a default view disabled initially */
+
+  /* Display: Master */
+  $handler = $view->new_display('default', 'Master', 'default');
+  $handler->display->display_options['use_more_always'] = FALSE;
+  $handler->display->display_options['access']['type'] = 'perm';
+  $handler->display->display_options['cache']['type'] = 'none';
+  $handler->display->display_options['query']['type'] = 'views_query';
+  $handler->display->display_options['exposed_form']['type'] = 'basic';
+  $handler->display->display_options['pager']['type'] = 'some';
+  $handler->display->display_options['pager']['options']['items_per_page'] = '1';
+  $handler->display->display_options['style_plugin'] = 'default';
+  $handler->display->display_options['row_plugin'] = 'fields';
+  $handler->display->display_options['row_options']['hide_empty'] = TRUE;
+  /* Relationship: Content: Author */
+  $handler->display->display_options['relationships']['uid']['id'] = 'uid';
+  $handler->display->display_options['relationships']['uid']['table'] = 'node';
+  $handler->display->display_options['relationships']['uid']['field'] = 'uid';
+  /* Relationship: Content: Entity translation: translations */
+  $handler->display->display_options['relationships']['entity_translations']['id'] = 'entity_translations';
+  $handler->display->display_options['relationships']['entity_translations']['table'] = 'node';
+  $handler->display->display_options['relationships']['entity_translations']['field'] = 'entity_translations';
+  /* Field: Content: Title */
+  $handler->display->display_options['fields']['title']['id'] = 'title';
+  $handler->display->display_options['fields']['title']['table'] = 'node';
+  $handler->display->display_options['fields']['title']['field'] = 'title';
+  $handler->display->display_options['fields']['title']['label'] = '';
+  $handler->display->display_options['fields']['title']['alter']['word_boundary'] = FALSE;
+  $handler->display->display_options['fields']['title']['alter']['ellipsis'] = FALSE;
+  /* Contextual filter: Content: Nid */
+  $handler->display->display_options['arguments']['nid']['id'] = 'nid';
+  $handler->display->display_options['arguments']['nid']['table'] = 'node';
+  $handler->display->display_options['arguments']['nid']['field'] = 'nid';
+  $handler->display->display_options['arguments']['nid']['default_action'] = 'default';
+  $handler->display->display_options['arguments']['nid']['default_argument_type'] = 'node';
+  $handler->display->display_options['arguments']['nid']['summary']['number_of_records'] = '0';
+  $handler->display->display_options['arguments']['nid']['summary']['format'] = 'default_summary';
+  $handler->display->display_options['arguments']['nid']['summary_options']['items_per_page'] = '25';
+  /* Filter criterion: Content: Published */
+  $handler->display->display_options['filters']['status']['id'] = 'status';
+  $handler->display->display_options['filters']['status']['table'] = 'node';
+  $handler->display->display_options['filters']['status']['field'] = 'status';
+  $handler->display->display_options['filters']['status']['value'] = 1;
+  $handler->display->display_options['filters']['status']['group'] = 1;
+  $handler->display->display_options['filters']['status']['expose']['operator'] = FALSE;
+  /* Filter criterion: Content: Type */
+  $handler->display->display_options['filters']['type']['id'] = 'type';
+  $handler->display->display_options['filters']['type']['table'] = 'node';
+  $handler->display->display_options['filters']['type']['field'] = 'type';
+  $handler->display->display_options['filters']['type']['value'] = array(
+    'project' => 'project',
+  );
+
+  /* Display: Project details block */
+  $handler = $view->new_display('block', 'Project details block', 'block');
+  $handler->display->display_options['defaults']['fields'] = FALSE;
+  /* Field: Content: Project type */
+  $handler->display->display_options['fields']['field_project_type']['id'] = 'field_project_type';
+  $handler->display->display_options['fields']['field_project_type']['table'] = 'field_data_field_project_type';
+  $handler->display->display_options['fields']['field_project_type']['field'] = 'field_project_type';
+  $handler->display->display_options['fields']['field_project_type']['type'] = 'taxonomy_term_reference_plain';
+  /* Field: Content: Contact */
+  $handler->display->display_options['fields']['field_contact']['id'] = 'field_contact';
+  $handler->display->display_options['fields']['field_contact']['table'] = 'field_data_field_contact';
+  $handler->display->display_options['fields']['field_contact']['field'] = 'field_contact';
+  $handler->display->display_options['fields']['field_contact']['label'] = 'Coordination';
+  /* Field: Content: Timespan */
+  $handler->display->display_options['fields']['field_timespan']['id'] = 'field_timespan';
+  $handler->display->display_options['fields']['field_timespan']['table'] = 'field_data_field_timespan';
+  $handler->display->display_options['fields']['field_timespan']['field'] = 'field_timespan';
+  $handler->display->display_options['fields']['field_timespan']['settings'] = array(
+    'format_type' => 'long',
+    'fromto' => 'both',
+    'multiple_number' => '',
+    'multiple_from' => '',
+    'multiple_to' => '',
+    'show_remaining_days' => 0,
+  );
+  /* Field: Content: Project Page */
+  $handler->display->display_options['fields']['field_link']['id'] = 'field_link';
+  $handler->display->display_options['fields']['field_link']['table'] = 'field_data_field_link';
+  $handler->display->display_options['fields']['field_link']['field'] = 'field_link';
+  $handler->display->display_options['fields']['field_link']['label'] = 'Project page';
+  $handler->display->display_options['fields']['field_link']['click_sort_column'] = 'url';
+  $handler->display->display_options['fields']['field_link']['type'] = 'link_url';
+  $translatables['project_information'] = array(
+    t('Master'),
+    t('more'),
+    t('Apply'),
+    t('Reset'),
+    t('Sort by'),
+    t('Asc'),
+    t('Desc'),
+    t('author'),
+    t('Translations'),
+    t('All'),
+    t('Project details block'),
+    t('Project type'),
+    t('Coordination'),
+    t('Timespan'),
+    t('Project page'),
+  );
+  $export['project_information'] = $view;
+
+  $view = new view();
   $view->name = 'project_ol_map';
   $view->description = 'Maps for HOT projects';
   $view->tag = 'default';

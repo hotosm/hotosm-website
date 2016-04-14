@@ -122,6 +122,31 @@ function hot_core_default_page_manager_pages() {
     $pane->uuid = '36e1af63-6f73-42c2-abaa-f3a679784d95';
     $display->content['new-36e1af63-6f73-42c2-abaa-f3a679784d95'] = $pane;
     $display->panels['center'][1] = 'new-36e1af63-6f73-42c2-abaa-f3a679784d95';
+    $pane = new stdClass();
+    $pane->pid = 'new-d29ee4b7-b31d-4621-b870-97957f3bf77a';
+    $pane->panel = 'center';
+    $pane->type = 'custom';
+    $pane->subtype = 'custom';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array(
+      'admin_title' => 'Tasking Manager Link',
+      'title' => '',
+      'body' => '<a class="button" href="http://tasks.hotosm.org">View more projects in the Tasking Manager</a>',
+      'format' => '2',
+      'substitute' => TRUE,
+    );
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 2;
+    $pane->locks = array();
+    $pane->uuid = 'd29ee4b7-b31d-4621-b870-97957f3bf77a';
+    $display->content['new-d29ee4b7-b31d-4621-b870-97957f3bf77a'] = $pane;
+    $display->panels['center'][2] = 'new-d29ee4b7-b31d-4621-b870-97957f3bf77a';
   $display->hide_title = PANELS_TITLE_FIXED;
   $display->title_pane = 'new-831fa318-7484-43a2-b039-a103a6f09da6';
   $handler->conf['display'] = $display;

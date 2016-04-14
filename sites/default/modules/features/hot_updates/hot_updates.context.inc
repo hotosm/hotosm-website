@@ -26,24 +26,7 @@ function hot_updates_context_default_contexts() {
       ),
     ),
   );
-  $context->reactions = array(
-    'block' => array(
-      'blocks' => array(
-        'lang_dropdown-language_content' => array(
-          'module' => 'lang_dropdown',
-          'delta' => 'language_content',
-          'region' => 'sidebar',
-          'weight' => '-10',
-        ),
-        'views-update-block' => array(
-          'module' => 'views',
-          'delta' => 'update-block',
-          'region' => 'sidebar',
-          'weight' => '-8',
-        ),
-      ),
-    ),
-  );
+  $context->reactions = array();
   $context->condition_mode = 0;
 
   // Translatables

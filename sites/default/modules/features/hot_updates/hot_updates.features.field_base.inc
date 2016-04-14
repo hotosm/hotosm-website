@@ -58,6 +58,23 @@ function hot_updates_field_default_field_bases() {
     'type' => 'image',
   );
 
+  // Exported field_base: 'field_information'.
+  $field_bases['field_information'] = array(
+    'active' => 1,
+    'cardinality' => 1,
+    'deleted' => 0,
+    'entity_types' => array(),
+    'field_name' => 'field_information',
+    'indexes' => array(),
+    'locked' => 0,
+    'module' => 'viewfield',
+    'settings' => array(
+      'entity_translation_sync' => FALSE,
+    ),
+    'translatable' => 0,
+    'type' => 'viewfield',
+  );
+
   // Exported field_base: 'field_update_project'.
   $field_bases['field_update_project'] = array(
     'active' => 1,
