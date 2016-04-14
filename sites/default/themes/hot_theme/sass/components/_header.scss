@@ -28,7 +28,7 @@ header {
       display: none;
     }
     select {
-      background:$lightgrey;
+      background:$lightgrey url('/sites/default/themes/hot_theme/images/dropdown.png') no-repeat center 24px;
       color:$black;
       border:none;
       outline:none;
@@ -37,11 +37,15 @@ header {
       -moz-appearance:none;
       appearance:none;
       cursor:pointer;
-      padding: 6px;
+      padding: 0 0 12px 10px;
       font-size: $font-size-smaller;
       text-transform: uppercase;
       font-weight: bold;
-      width: 70px !important;
+      width: 35px !important;
+      height: 40px;
+      text-align: center;
+      vertical-align: middle;
+
     }
   }
 

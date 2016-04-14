@@ -646,7 +646,7 @@ header #block-lang-dropdown-language {
     display: none; }
   /* line 30, ../sass/components/_header.scss */
   header #block-lang-dropdown-language select {
-    background: #e0e0e0;
+    background: #e0e0e0 url("/sites/default/themes/hot_theme/images/dropdown.png") no-repeat center 24px;
     color: #000000;
     border: none;
     outline: none;
@@ -655,31 +655,34 @@ header #block-lang-dropdown-language {
     -moz-appearance: none;
     appearance: none;
     cursor: pointer;
-    padding: 6px;
+    padding: 0 0 12px 10px;
     font-size: 9px;
     text-transform: uppercase;
     font-weight: bold;
-    width: 70px !important; }
-/* line 49, ../sass/components/_header.scss */
+    width: 35px !important;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle; }
+/* line 53, ../sass/components/_header.scss */
 header #block-block-3 {
   width: 47.05882%;
   float: left;
   margin-right: -100%;
   margin-left: 0;
   clear: none; }
-  /* line 51, ../sass/components/_header.scss */
+  /* line 55, ../sass/components/_header.scss */
   header #block-block-3 li {
     display: inline;
     margin: 0; }
   @media (min-width: 961px) {
-    /* line 49, ../sass/components/_header.scss */
+    /* line 53, ../sass/components/_header.scss */
     header #block-block-3 {
       width: 47.05882%;
       float: left;
       margin-right: -100%;
       margin-left: 35.29412%;
       clear: none; }
-      /* line 58, ../sass/components/_header.scss */
+      /* line 62, ../sass/components/_header.scss */
       header #block-block-3 li {
         margin: 0 6px; } }
 

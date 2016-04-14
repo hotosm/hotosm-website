@@ -438,6 +438,8 @@ function hot_updates_views_default_views() {
 
   /* Display: Project updates block */
   $handler = $view->new_display('block', 'Project updates block', 'updates_project_block');
+  $handler->display->display_options['defaults']['title'] = FALSE;
+  $handler->display->display_options['title'] = 'News from this project';
   $handler->display->display_options['defaults']['pager'] = FALSE;
   $handler->display->display_options['pager']['type'] = 'full';
   $handler->display->display_options['pager']['options']['items_per_page'] = '5';
@@ -619,6 +621,7 @@ function hot_updates_views_default_views() {
 </div>'),
     t('All updates block (rest)'),
     t('Project updates block'),
+    t('News from this project'),
     t('All'),
     t('Project updates feed'),
     t('Last updates by one user block'),

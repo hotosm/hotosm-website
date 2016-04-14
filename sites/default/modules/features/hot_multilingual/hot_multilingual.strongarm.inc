@@ -216,6 +216,7 @@ function hot_multilingual_strongarm() {
       ),
       2 => array(),
       3 => array(),
+      4 => array(),
     ),
   );
   $export['lang_dropdown_hideout_language'] = $strongarm;
@@ -228,7 +229,7 @@ function hot_multilingual_strongarm() {
     'showall' => 0,
     'tohome' => 0,
     'width' => '165',
-    'display' => '1',
+    'display' => '2',
     'widget' => '0',
     'msdropdown' => array(
       'visible_rows' => 5,
@@ -257,6 +258,7 @@ function hot_multilingual_strongarm() {
         1 => 'anonymous user',
         2 => 'authenticated user',
         3 => 'site admin',
+        4 => 'content editor',
       ),
       'languages' => array(
         'checkboxes' => array(
@@ -275,6 +277,13 @@ function hot_multilingual_strongarm() {
             'es' => 0,
           ),
           3 => array(
+            'en' => 0,
+            'fr' => 0,
+            'id' => 0,
+            'ja' => 0,
+            'es' => 0,
+          ),
+          4 => array(
             'en' => 0,
             'fr' => 0,
             'id' => 0,
