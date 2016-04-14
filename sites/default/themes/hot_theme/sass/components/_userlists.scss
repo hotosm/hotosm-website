@@ -137,3 +137,38 @@
     margin-bottom: 3em;
   }
 }
+
+
+.page-user {
+
+  p {
+    margin: 10px 0;
+  }
+
+  h2 {
+    margin: 20px 0 10px 0;
+    padding: 0;
+    font-family: $font-sans-serif;
+    font-size: $font-size-big;
+  }
+
+  .panel-2col {
+    .inside {
+      margin: 0;
+    }
+    .panel-col-first {
+      float: none;
+      width: 100%;
+      @include breakpoint($desktop) {
+        @include isolation-span(3,10,'both');
+      }
+    }
+    .panel-col-last {
+      float: none;
+      width: 100%;
+      @include breakpoint($desktop) {
+        @include grid-span(9,1);
+      }
+    }
+  }
+}

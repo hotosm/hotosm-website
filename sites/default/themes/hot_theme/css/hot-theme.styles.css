@@ -1167,6 +1167,43 @@ body.front #block-block-5 {
 .view-display-id-page_working_groups_with_members .views-row-last {
   margin-bottom: 3em; }
 
+/* line 144, ../sass/components/_userlists.scss */
+.page-user p {
+  margin: 10px 0; }
+/* line 148, ../sass/components/_userlists.scss */
+.page-user h2 {
+  margin: 20px 0 10px 0;
+  padding: 0;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 18px; }
+/* line 156, ../sass/components/_userlists.scss */
+.page-user .panel-2col .inside {
+  margin: 0; }
+/* line 159, ../sass/components/_userlists.scss */
+.page-user .panel-2col .panel-col-first {
+  float: none;
+  width: 100%; }
+  @media (min-width: 961px) {
+    /* line 159, ../sass/components/_userlists.scss */
+    .page-user .panel-2col .panel-col-first {
+      width: 20.58824%;
+      float: right;
+      margin-left: 0;
+      margin-right: 0;
+      clear: both; } }
+/* line 166, ../sass/components/_userlists.scss */
+.page-user .panel-2col .panel-col-last {
+  float: none;
+  width: 100%; }
+  @media (min-width: 961px) {
+    /* line 166, ../sass/components/_userlists.scss */
+    .page-user .panel-2col .panel-col-last {
+      width: 73.52941%;
+      float: left;
+      margin-right: -100%;
+      margin-left: 0;
+      clear: none; } }
+
 /* line 4, ../sass/components/_working-groups.scss */
 .page-working-groups .view-content .view-grouping {
   margin-bottom: 50px; }
