@@ -71,3 +71,12 @@ function hot_core_menu_block_blocks() {
     ),
   );
 }
+
+
+/**
+ * Implements hook_responsive_menus_styles_alter().
+ */
+function hot_core_responsive_menus_styles_alter(&$styles) {
+  // Use Sidr's 'light' theme instead of 'dark'
+  $styles['sidr']['css_files'] = array(libraries_get_path('sidr') . '/stylesheets/jquery.sidr.light.css');
+}

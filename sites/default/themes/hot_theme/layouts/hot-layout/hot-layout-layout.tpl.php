@@ -24,7 +24,6 @@
   </header>
 
   <div class="l-navigation">
-    <div class="l-navigation-toggle"><a id="navigation-toggle" class="hidden" href="#menu">Menu</a></div>
     <?php print render($page['navigation']); ?>
   </div>
 

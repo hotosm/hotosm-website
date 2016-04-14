@@ -1,42 +1,27 @@
 @include breakpoint($desktop) {
-  .l-navigation {
-    height: 40px;
-  }
   .front .l-navigation {
       background-color: rgba(255, 255, 255, 0.7);
   }
 }
 
 .l-navigation {
-
   position: relative;
+  height: 40px;
   z-index: 99;
   margin-top: 20px;
   background-color: $lightgrey;
   border-bottom: solid $red 2px;
   width: 100%;
 
-  #navigation-toggle {
-    background:$middlegrey;
-    color:$black;
-    padding: 6px;
-    font-size: $font-size-small;
-    font-weight: bold;
-    width: 70px !important;
-    text-decoration: none;
-
-    @include breakpoint($desktop) {
-      display: none;
-    }
-  }
   // Main menu block
   #block-menu-block-hot-core-1 {
+
 
     .block__title {
       display: none;
     }
 
-    ul.menu {
+    ul.menu, #sidr-0 {
 
       display: block;
       font-family: $font-serif;
@@ -72,5 +57,25 @@
     a:hover {
       color: $red;
     }
+
+    #sidr-0-button {
+      background:$lightgrey url('/sites/default/themes/hot_theme/images/menu.png') no-repeat center left;
+      color: $red;
+      font-size: $font-size-normal;
+      text-decoration: none;
+      text-transform: uppercase;
+      padding: 6px 0px 6px 42px;
+      position: absolute;
+      top: 6px;
+
+    }
   }
+}
+
+
+.sidr li {
+  padding: 10px 20px 10px 20px;
+  border-bottom: solid 1px $middlegrey;
+  list-style-type: none;
+  list-style-image: none;
 }
