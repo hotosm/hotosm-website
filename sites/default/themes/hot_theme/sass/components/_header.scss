@@ -28,24 +28,21 @@ header {
       display: none;
     }
     select {
+      width: 35px !important;
+      height: 40px;
+      padding: 0 0 12px 10px;
       background:$lightgrey url('/sites/default/themes/hot_theme/images/dropdown.png') no-repeat center 24px;
-      color:$black;
       border:none;
+      color:$black;
+      font-size: $font-size-smaller;
+      text-transform: uppercase;
+      font-weight: bold;
+      cursor:pointer;
       outline:none;
       display: inline-block;
       -webkit-appearance:none;
       -moz-appearance:none;
       appearance:none;
-      cursor:pointer;
-      padding: 0 0 12px 10px;
-      font-size: $font-size-smaller;
-      text-transform: uppercase;
-      font-weight: bold;
-      width: 35px !important;
-      height: 40px;
-      text-align: center;
-      vertical-align: middle;
-
     }
   }
 

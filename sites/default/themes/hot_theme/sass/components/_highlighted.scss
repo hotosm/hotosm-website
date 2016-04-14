@@ -31,7 +31,8 @@
       @include breakpoint($desktop) {
         margin-top: 80px;
       }
-      width: 80%;
+      width: $page-width;
+      max-width: $page-max-width;
 
       >div {
         background-color: $red;
@@ -52,7 +53,8 @@
       font-size: $font-size-normal;
       line-height: 150%;
       margin: 0 auto;
-      width: 80%;
+      width: $page-width;
+      max-width: $page-max-width;
 
       h3 {
         font-size: $font-size-bigger;

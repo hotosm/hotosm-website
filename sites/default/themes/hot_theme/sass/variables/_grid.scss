@@ -1,5 +1,14 @@
-// Definition of brakpoint
+// Definition of breakpoint
 $desktop: 961px;
+
+// Definition of max-width
+$page-max-width: 10240px;
+
+// Space from viewport
+$page-width: 80%;
+
+// Gimme space
+$space: 50px;
 
 // Definition of the grid and gutters
 @include add-grid(12);

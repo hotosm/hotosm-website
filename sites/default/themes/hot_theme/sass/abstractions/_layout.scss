@@ -2,8 +2,9 @@
 .l-header,
 .l-main {
   margin: 0 auto;
-  width: 80%;
+  width: $page-width;
   clear: both;
+  max-width: $page-max-width;
 }
 .l-navigation,
 .l-highlighted {
@@ -15,12 +16,14 @@
 #block-block-1,
 .l-region--footer {
   margin: 0 auto;
-  width: 80%;
+  width: $page-width;
+  max-width: $page-max-width;
 }
 
 .messages {
   margin: 10px auto;
-  width: 80%;
+  width: $page-width;
+  max-width: $page-max-width;
 }
 
 // Two columns layout

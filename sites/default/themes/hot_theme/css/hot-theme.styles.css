@@ -43,40 +43,43 @@
 .l-main {
   margin: 0 auto;
   width: 80%;
-  clear: both; }
+  clear: both;
+  max-width: 10240px; }
 
-/* line 8, ../sass/abstractions/_layout.scss */
+/* line 9, ../sass/abstractions/_layout.scss */
 .l-navigation,
 .l-highlighted {
   clear: both;
   width: 100%; }
 
-/* line 13, ../sass/abstractions/_layout.scss */
+/* line 14, ../sass/abstractions/_layout.scss */
 .l-region--navigation,
 .l-navigation-toggle,
 #block-block-1,
 .l-region--footer {
   margin: 0 auto;
-  width: 80%; }
+  width: 80%;
+  max-width: 10240px; }
 
-/* line 21, ../sass/abstractions/_layout.scss */
+/* line 23, ../sass/abstractions/_layout.scss */
 .messages {
   margin: 10px auto;
-  width: 80%; }
+  width: 80%;
+  max-width: 10240px; }
 
-/* line 29, ../sass/abstractions/_layout.scss */
+/* line 32, ../sass/abstractions/_layout.scss */
 .l-main .hot-two-column-layout .view-content .views-field-field-images,
 .l-main .hot-two-column-layout .view-content .views-field-field-image {
   height: 205px; }
 @media (min-width: 961px) {
-  /* line 35, ../sass/abstractions/_layout.scss */
+  /* line 38, ../sass/abstractions/_layout.scss */
   .l-main .hot-two-column-layout .view-content div.views-row:nth-child(odd) {
     width: 47.05882%;
     float: left;
     margin-right: -100%;
     margin-left: 0;
     clear: both; }
-  /* line 38, ../sass/abstractions/_layout.scss */
+  /* line 41, ../sass/abstractions/_layout.scss */
   .l-main .hot-two-column-layout .view-content div.views-row:nth-child(even) {
     width: 47.05882%;
     float: right;
@@ -84,21 +87,21 @@
     margin-right: 0;
     clear: none; } }
 
-/* line 49, ../sass/abstractions/_layout.scss */
+/* line 52, ../sass/abstractions/_layout.scss */
 .hot-three-column-layout .l-main .view-content .views-field-field-images,
 .hot-three-column-layout .l-main .view-content .views-field-field-image,
 .page-get-involved-disaster-mapping .l-main .view-content .views-field-field-images,
 .page-get-involved-disaster-mapping .l-main .view-content .views-field-field-image {
   height: 180px; }
   @media (min-width: 961px) {
-    /* line 49, ../sass/abstractions/_layout.scss */
+    /* line 52, ../sass/abstractions/_layout.scss */
     .hot-three-column-layout .l-main .view-content .views-field-field-images,
     .hot-three-column-layout .l-main .view-content .views-field-field-image,
     .page-get-involved-disaster-mapping .l-main .view-content .views-field-field-images,
     .page-get-involved-disaster-mapping .l-main .view-content .views-field-field-image {
       height: 125px; } }
 @media (min-width: 961px) {
-  /* line 62, ../sass/abstractions/_layout.scss */
+  /* line 65, ../sass/abstractions/_layout.scss */
   .hot-three-column-layout .l-main .panel-display .pane-project-panel-pane-projects-latest-disaster,
   .page-get-involved-disaster-mapping .l-main .panel-display .pane-project-panel-pane-projects-latest-disaster {
     width: 29.41176%;
@@ -106,7 +109,7 @@
     margin-right: -100%;
     margin-left: 0;
     clear: both; }
-  /* line 65, ../sass/abstractions/_layout.scss */
+  /* line 68, ../sass/abstractions/_layout.scss */
   .hot-three-column-layout .l-main .panel-display .pane-project-panel-pane-projects-latest-community,
   .page-get-involved-disaster-mapping .l-main .panel-display .pane-project-panel-pane-projects-latest-community {
     width: 29.41176%;
@@ -114,7 +117,7 @@
     margin-right: -100%;
     margin-left: 35.29412%;
     clear: none; }
-  /* line 68, ../sass/abstractions/_layout.scss */
+  /* line 71, ../sass/abstractions/_layout.scss */
   .hot-three-column-layout .l-main .panel-display .pane-project-panel-pane-projects-latest-technical,
   .page-get-involved-disaster-mapping .l-main .panel-display .pane-project-panel-pane-projects-latest-technical {
     width: 29.41176%;
@@ -122,7 +125,7 @@
     margin-left: 0;
     margin-right: 0;
     clear: none; }
-  /* line 72, ../sass/abstractions/_layout.scss */
+  /* line 75, ../sass/abstractions/_layout.scss */
   .hot-three-column-layout .l-main .pane-project-panel-pane-projects,
   .hot-three-column-layout .l-main .pane-project-panel-pane-projects-old,
   .page-get-involved-disaster-mapping .l-main .pane-project-panel-pane-projects,
@@ -132,7 +135,7 @@
     margin-left: 0;
     margin-right: 0;
     clear: both; }
-    /* line 76, ../sass/abstractions/_layout.scss */
+    /* line 79, ../sass/abstractions/_layout.scss */
     .hot-three-column-layout .l-main .pane-project-panel-pane-projects li.views-row:nth-child(3n+1),
     .hot-three-column-layout .l-main .pane-project-panel-pane-projects-old li.views-row:nth-child(3n+1),
     .page-get-involved-disaster-mapping .l-main .pane-project-panel-pane-projects li.views-row:nth-child(3n+1),
@@ -142,7 +145,7 @@
       margin-right: -100%;
       margin-left: 0;
       clear: both; }
-    /* line 79, ../sass/abstractions/_layout.scss */
+    /* line 82, ../sass/abstractions/_layout.scss */
     .hot-three-column-layout .l-main .pane-project-panel-pane-projects li.views-row:nth-child(3n+2),
     .hot-three-column-layout .l-main .pane-project-panel-pane-projects-old li.views-row:nth-child(3n+2),
     .page-get-involved-disaster-mapping .l-main .pane-project-panel-pane-projects li.views-row:nth-child(3n+2),
@@ -152,7 +155,7 @@
       margin-right: -100%;
       margin-left: 35.29412%;
       clear: none; }
-    /* line 82, ../sass/abstractions/_layout.scss */
+    /* line 85, ../sass/abstractions/_layout.scss */
     .hot-three-column-layout .l-main .pane-project-panel-pane-projects li.views-row:nth-child(3n+3),
     .hot-three-column-layout .l-main .pane-project-panel-pane-projects-old li.views-row:nth-child(3n+3),
     .page-get-involved-disaster-mapping .l-main .pane-project-panel-pane-projects li.views-row:nth-child(3n+3),
@@ -163,22 +166,22 @@
       margin-right: 0;
       clear: none; } }
 
-/* line 91, ../sass/abstractions/_layout.scss */
+/* line 94, ../sass/abstractions/_layout.scss */
 .l-main .view-header {
   margin-bottom: 50px; }
-/* line 95, ../sass/abstractions/_layout.scss */
+/* line 98, ../sass/abstractions/_layout.scss */
 .l-main .views-row {
   margin-bottom: 50px; }
-/* line 99, ../sass/abstractions/_layout.scss */
+/* line 102, ../sass/abstractions/_layout.scss */
 .l-main .panel-pane .view-header {
   margin-bottom: 25px; }
-/* line 103, ../sass/abstractions/_layout.scss */
+/* line 106, ../sass/abstractions/_layout.scss */
 .l-main .view-content .views-field-field-images,
 .l-main .view-content .views-field-field-image {
   height: 300px;
   overflow: hidden;
   position: relative; }
-  /* line 108, ../sass/abstractions/_layout.scss */
+  /* line 111, ../sass/abstractions/_layout.scss */
   .l-main .view-content .views-field-field-images img,
   .l-main .view-content .views-field-field-image img {
     width: 100%;
@@ -650,43 +653,41 @@ header #block-lang-dropdown-language {
     display: none; }
   /* line 30, ../sass/components/_header.scss */
   header #block-lang-dropdown-language select {
+    width: 35px !important;
+    height: 40px;
+    padding: 0 0 12px 10px;
     background: #e0e0e0 url("/sites/default/themes/hot_theme/images/dropdown.png") no-repeat center 24px;
-    color: #000000;
     border: none;
+    color: #000000;
+    font-size: 9px;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
     outline: none;
     display: inline-block;
     -webkit-appearance: none;
     -moz-appearance: none;
-    appearance: none;
-    cursor: pointer;
-    padding: 0 0 12px 10px;
-    font-size: 9px;
-    text-transform: uppercase;
-    font-weight: bold;
-    width: 35px !important;
-    height: 40px;
-    text-align: center;
-    vertical-align: middle; }
-/* line 53, ../sass/components/_header.scss */
+    appearance: none; }
+/* line 50, ../sass/components/_header.scss */
 header #block-block-3 {
   width: 47.05882%;
   float: left;
   margin-right: -100%;
   margin-left: 0;
   clear: none; }
-  /* line 55, ../sass/components/_header.scss */
+  /* line 52, ../sass/components/_header.scss */
   header #block-block-3 li {
     display: inline;
     margin: 0; }
   @media (min-width: 961px) {
-    /* line 53, ../sass/components/_header.scss */
+    /* line 50, ../sass/components/_header.scss */
     header #block-block-3 {
       width: 47.05882%;
       float: left;
       margin-right: -100%;
       margin-left: 35.29412%;
       clear: none; }
-      /* line 62, ../sass/components/_header.scss */
+      /* line 59, ../sass/components/_header.scss */
       header #block-block-3 li {
         margin: 0 6px; } }
 
@@ -715,12 +716,13 @@ header #block-block-3 {
   .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle {
     margin: 0 auto;
     margin-top: 40px;
-    width: 80%; }
+    width: 80%;
+    max-width: 10240px; }
     @media (min-width: 961px) {
       /* line 28, ../sass/components/_highlighted.scss */
       .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle {
         margin-top: 80px; } }
-    /* line 36, ../sass/components/_highlighted.scss */
+    /* line 37, ../sass/components/_highlighted.scss */
     .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle > div {
       background-color: #d73f3f;
       color: #ffffff;
@@ -729,27 +731,28 @@ header #block-block-3 {
       margin-bottom: 15px;
       padding: 5px 10px; }
       @media (min-width: 961px) {
-        /* line 36, ../sass/components/_highlighted.scss */
+        /* line 37, ../sass/components/_highlighted.scss */
         .l-highlighted #block-views-project-projects-featured-block .views-field-field-subtitle > div {
           width: 300px; } }
-  /* line 50, ../sass/components/_highlighted.scss */
+  /* line 51, ../sass/components/_highlighted.scss */
   .l-highlighted #block-views-project-projects-featured-block .views-field-body {
     font-size: 13px;
     line-height: 150%;
     margin: 0 auto;
-    width: 80%; }
-    /* line 57, ../sass/components/_highlighted.scss */
+    width: 80%;
+    max-width: 10240px; }
+    /* line 59, ../sass/components/_highlighted.scss */
     .l-highlighted #block-views-project-projects-featured-block .views-field-body h3 {
       font-size: 25px;
       font-weight: bold;
       margin: 10px 0 20px 0; }
     @media (min-width: 961px) {
-      /* line 64, ../sass/components/_highlighted.scss */
+      /* line 66, ../sass/components/_highlighted.scss */
       .l-highlighted #block-views-project-projects-featured-block .views-field-body > div {
         background-color: rgba(255, 255, 255, 0.7);
         padding: 10px;
         width: 300px; } }
-/* line 74, ../sass/components/_highlighted.scss */
+/* line 76, ../sass/components/_highlighted.scss */
 .l-highlighted #block-block-1 {
   border-top: solid 2px #d73f3f;
   border-bottom: solid 2px #d73f3f;
