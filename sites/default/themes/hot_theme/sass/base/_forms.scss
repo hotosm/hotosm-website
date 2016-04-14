@@ -1,5 +1,5 @@
-input[type=text] {
-  border: $middlegrey;
+input[type=text], input[type=password] {
+  border: $middlegrey 1px solid;
   padding: 10px;
   font-size: $font-size-normal;
   margin: 10px 0;

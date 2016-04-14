@@ -8,19 +8,39 @@
   }
 
   @include breakpoint($desktop) {
-
     @include isolation-span(12,1,'both');
-
     li:nth-child(1) {
       @include isolation-span(4,1,'both');
     }
-
     li:nth-child(2) {
       @include grid-span(4,5);
     }
-
     li:nth-child(3) {
       @include grid-span(4,9);
+    }
+  }
+}
+
+// Newsletter
+#block-mailchimp-signup-hot-newsletter {
+
+  h2.block__title {
+    margin: 0 auto;
+  }
+
+  input[type=text] {
+    border: none;
+  }
+
+  .mailchimp-signup-subscribe-form >div {
+    >div, >input {
+      margin-right: -4px;
+      display:inline-block;
+      vertical-align:top;
+    }
+
+    .form-item, .form-actions {
+      margin: 0;
     }
   }
 }

@@ -228,8 +228,8 @@ a.button:hover, input[type=submit]:hover, .more-link:hover a {
   background-color: #333333; }
 
 /* line 1, ../sass/base/_forms.scss */
-input[type=text] {
-  border: #989898;
+input[type=text], input[type=password] {
+  border: #989898 1px solid;
   padding: 10px;
   font-size: 13px;
   margin: 10px 0; }
@@ -336,27 +336,42 @@ table {
       margin-left: 0;
       margin-right: 0;
       clear: both; }
-      /* line 14, ../sass/components/_blocks.scss */
+      /* line 12, ../sass/components/_blocks.scss */
       #block-block-2 li:nth-child(1) {
         width: 29.41176%;
         float: left;
         margin-right: -100%;
         margin-left: 0;
         clear: both; }
-      /* line 18, ../sass/components/_blocks.scss */
+      /* line 15, ../sass/components/_blocks.scss */
       #block-block-2 li:nth-child(2) {
         width: 29.41176%;
         float: left;
         margin-right: -100%;
         margin-left: 35.29412%;
         clear: none; }
-      /* line 22, ../sass/components/_blocks.scss */
+      /* line 18, ../sass/components/_blocks.scss */
       #block-block-2 li:nth-child(3) {
         width: 29.41176%;
         float: right;
         margin-left: 0;
         margin-right: 0;
         clear: none; } }
+
+/* line 27, ../sass/components/_blocks.scss */
+#block-mailchimp-signup-hot-newsletter h2.block__title {
+  margin: 0 auto; }
+/* line 31, ../sass/components/_blocks.scss */
+#block-mailchimp-signup-hot-newsletter input[type=text] {
+  border: none; }
+/* line 36, ../sass/components/_blocks.scss */
+#block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div > div, #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div > input {
+  margin-right: -4px;
+  display: inline-block;
+  vertical-align: top; }
+/* line 42, ../sass/components/_blocks.scss */
+#block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div .form-item, #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div .form-actions {
+  margin: 0; }
 
 /* line 3, ../sass/components/_book-pages.scss */
 .page-node-7 .node__content h2,
@@ -541,17 +556,6 @@ footer {
   /* line 29, ../sass/components/_footer.scss */
   footer input[type=submit] {
     margin: 10px auto; }
-  /* line 36, ../sass/components/_footer.scss */
-  footer #block-mailchimp-signup-hot-newsletter h2.block__title {
-    margin: 0 auto; }
-  /* line 41, ../sass/components/_footer.scss */
-  footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div > div, footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div > input {
-    margin-right: -4px;
-    display: inline-block;
-    vertical-align: top; }
-  /* line 47, ../sass/components/_footer.scss */
-  footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div .form-item, footer #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div .form-actions {
-    margin: 0; }
   @media (min-width: 961px) {
     /* line 34, ../sass/components/_footer.scss */
     footer #block-mailchimp-signup-hot-newsletter {
@@ -561,7 +565,7 @@ footer {
       margin-left: 0;
       clear: none; } }
   @media (min-width: 961px) {
-    /* line 59, ../sass/components/_footer.scss */
+    /* line 42, ../sass/components/_footer.scss */
     footer #block-block-7 {
       width: 20.58824%;
       float: left;
@@ -569,40 +573,40 @@ footer {
       margin-left: 26.47059%;
       clear: none; } }
   @media (min-width: 961px) {
-    /* line 66, ../sass/components/_footer.scss */
+    /* line 49, ../sass/components/_footer.scss */
     footer #block-block-8 {
       width: 20.58824%;
       float: left;
       margin-right: -100%;
       margin-left: 52.94118%;
       clear: none; } }
-  /* line 74, ../sass/components/_footer.scss */
+  /* line 57, ../sass/components/_footer.scss */
   footer #block-block-9 img {
     margin-top: 20px; }
   @media (min-width: 961px) {
-    /* line 73, ../sass/components/_footer.scss */
+    /* line 56, ../sass/components/_footer.scss */
     footer #block-block-9 {
       width: 20.58824%;
       float: right;
       margin-left: 0;
       margin-right: 0;
       clear: none; } }
-  /* line 83, ../sass/components/_footer.scss */
+  /* line 66, ../sass/components/_footer.scss */
   footer #block-block-4 {
     margin: 20px 0;
     text-align: center;
     font-size: 11px; }
-  /* line 92, ../sass/components/_footer.scss */
+  /* line 75, ../sass/components/_footer.scss */
   footer #block-system-user-menu h2 {
     display: none; }
-  /* line 95, ../sass/components/_footer.scss */
+  /* line 78, ../sass/components/_footer.scss */
   footer #block-system-user-menu ul, footer #block-system-user-menu li {
     list-style-type: none;
     list-style-image: none; }
-  /* line 101, ../sass/components/_footer.scss */
+  /* line 84, ../sass/components/_footer.scss */
   footer #block-system-user-menu {
     margin: 0 auto; }
-    /* line 103, ../sass/components/_footer.scss */
+    /* line 86, ../sass/components/_footer.scss */
     footer #block-system-user-menu a {
       color: #333333;
       font-size: 11px; }

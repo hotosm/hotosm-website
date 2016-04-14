@@ -32,23 +32,6 @@ footer {
 
   // Newsletter
   #block-mailchimp-signup-hot-newsletter {
-
-    h2.block__title {
-      margin: 0 auto;
-    }
-
-    .mailchimp-signup-subscribe-form >div {
-      >div, >input {
-        margin-right: -4px;
-        display:inline-block;
-        vertical-align:top;
-      }
-
-      .form-item, .form-actions {
-        margin: 0;
-      }
-    }
-
     @include breakpoint($desktop) {
       @include grid-span (3,1);
     }
