@@ -812,7 +812,7 @@ function drush_features_revert() {
     }
   }
   else {
-    drush_features_list();
+    drush_print_table(drush_features_list());
     return;
   }
 }
@@ -866,7 +866,7 @@ function drush_features_revert_all() {
  */
 function drush_features_diff() {
   if (!$args = func_get_args()) {
-    drush_features_list();
+    drush_print_table(drush_features_list());
     return;
   }
   $module = $args[0];
