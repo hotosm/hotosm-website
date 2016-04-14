@@ -478,7 +478,7 @@ function hot_people_default_page_manager_pages() {
     ),
   );
   $display->cache = array();
-  $display->title = 'Leadership';
+  $display->title = 'The HOT board';
   $display->uuid = '1cd88d5d-93a4-4202-9fb5-8b831ced9da1';
   $display->content = array();
   $display->panels = array();
@@ -506,7 +506,7 @@ function hot_people_default_page_manager_pages() {
     $pane->panel = 'middle';
     $pane->type = 'views_panes';
     $pane->subtype = 'leadership-panel_pane_director';
-    $pane->shown = TRUE;
+    $pane->shown = FALSE;
     $pane->access = array();
     $pane->configuration = array();
     $pane->cache = array();
@@ -567,6 +567,7 @@ function hot_people_default_page_manager_pages() {
     'style_settings' => array(
       'default' => NULL,
       'center' => NULL,
+      'middle' => NULL,
     ),
   );
   $display->cache = array();
@@ -601,6 +602,25 @@ function hot_people_default_page_manager_pages() {
     $display->content['new-4f137abf-e2c4-413e-81c0-94020bb547ae'] = $pane;
     $display->panels['middle'][0] = 'new-4f137abf-e2c4-413e-81c0-94020bb547ae';
     $pane = new stdClass();
+    $pane->pid = 'new-98644e03-6120-49f5-ac5e-cec4a30bf643';
+    $pane->panel = 'middle';
+    $pane->type = 'views_panes';
+    $pane->subtype = 'staff_contractors-panel_pane_volunteer_leads';
+    $pane->shown = TRUE;
+    $pane->access = array();
+    $pane->configuration = array();
+    $pane->cache = array();
+    $pane->style = array(
+      'settings' => NULL,
+    );
+    $pane->css = array();
+    $pane->extras = array();
+    $pane->position = 1;
+    $pane->locks = array();
+    $pane->uuid = '98644e03-6120-49f5-ac5e-cec4a30bf643';
+    $display->content['new-98644e03-6120-49f5-ac5e-cec4a30bf643'] = $pane;
+    $display->panels['middle'][1] = 'new-98644e03-6120-49f5-ac5e-cec4a30bf643';
+    $pane = new stdClass();
     $pane->pid = 'new-d2e2a0c9-8b1a-4b7c-a094-6dbf0c5693a4';
     $pane->panel = 'middle';
     $pane->type = 'views_panes';
@@ -621,11 +641,11 @@ function hot_people_default_page_manager_pages() {
     );
     $pane->css = array();
     $pane->extras = array();
-    $pane->position = 1;
+    $pane->position = 2;
     $pane->locks = array();
     $pane->uuid = 'd2e2a0c9-8b1a-4b7c-a094-6dbf0c5693a4';
     $display->content['new-d2e2a0c9-8b1a-4b7c-a094-6dbf0c5693a4'] = $pane;
-    $display->panels['middle'][1] = 'new-d2e2a0c9-8b1a-4b7c-a094-6dbf0c5693a4';
+    $display->panels['middle'][2] = 'new-d2e2a0c9-8b1a-4b7c-a094-6dbf0c5693a4';
     $pane = new stdClass();
     $pane->pid = 'new-fa84992f-2709-4ad6-9862-35d12cccbd22';
     $pane->panel = 'middle';
@@ -647,11 +667,11 @@ function hot_people_default_page_manager_pages() {
     );
     $pane->css = array();
     $pane->extras = array();
-    $pane->position = 2;
+    $pane->position = 3;
     $pane->locks = array();
     $pane->uuid = 'fa84992f-2709-4ad6-9862-35d12cccbd22';
     $display->content['new-fa84992f-2709-4ad6-9862-35d12cccbd22'] = $pane;
-    $display->panels['middle'][2] = 'new-fa84992f-2709-4ad6-9862-35d12cccbd22';
+    $display->panels['middle'][3] = 'new-fa84992f-2709-4ad6-9862-35d12cccbd22';
     $pane = new stdClass();
     $pane->pid = 'new-0d2b885f-6bb8-4064-b964-aa7a99f04dd4';
     $pane->panel = 'middle';
@@ -673,30 +693,11 @@ function hot_people_default_page_manager_pages() {
     );
     $pane->css = array();
     $pane->extras = array();
-    $pane->position = 3;
+    $pane->position = 4;
     $pane->locks = array();
     $pane->uuid = '0d2b885f-6bb8-4064-b964-aa7a99f04dd4';
     $display->content['new-0d2b885f-6bb8-4064-b964-aa7a99f04dd4'] = $pane;
-    $display->panels['middle'][3] = 'new-0d2b885f-6bb8-4064-b964-aa7a99f04dd4';
-    $pane = new stdClass();
-    $pane->pid = 'new-98644e03-6120-49f5-ac5e-cec4a30bf643';
-    $pane->panel = 'middle';
-    $pane->type = 'views_panes';
-    $pane->subtype = 'staff_contractors-panel_pane_volunteer_leads';
-    $pane->shown = TRUE;
-    $pane->access = array();
-    $pane->configuration = array();
-    $pane->cache = array();
-    $pane->style = array(
-      'settings' => NULL,
-    );
-    $pane->css = array();
-    $pane->extras = array();
-    $pane->position = 4;
-    $pane->locks = array();
-    $pane->uuid = '98644e03-6120-49f5-ac5e-cec4a30bf643';
-    $display->content['new-98644e03-6120-49f5-ac5e-cec4a30bf643'] = $pane;
-    $display->panels['middle'][4] = 'new-98644e03-6120-49f5-ac5e-cec4a30bf643';
+    $display->panels['middle'][4] = 'new-0d2b885f-6bb8-4064-b964-aa7a99f04dd4';
   $display->hide_title = PANELS_TITLE_FIXED;
   $display->title_pane = '0';
   $handler->conf['display'] = $display;

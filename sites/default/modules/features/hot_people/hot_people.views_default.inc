@@ -22,7 +22,6 @@ function hot_people_views_default_views() {
 
   /* Display: Master */
   $handler = $view->new_display('default', 'Master', 'default');
-  $handler->display->display_options['title'] = 'Our board';
   $handler->display->display_options['use_more_always'] = FALSE;
   $handler->display->display_options['access']['type'] = 'none';
   $handler->display->display_options['cache']['type'] = 'none';
@@ -190,7 +189,6 @@ function hot_people_views_default_views() {
   $handler->display->display_options['filters']['field_hot_staff_type_tid']['vocabulary'] = 'hot_staff';
   $translatables['leadership'] = array(
     t('Master'),
-    t('Our board'),
     t('more'),
     t('Apply'),
     t('Reset'),
@@ -221,12 +219,7 @@ function hot_people_views_default_views() {
   $handler = $view->new_display('default', 'Master', 'default');
   $handler->display->display_options['title'] = 'Volunteer leads';
   $handler->display->display_options['use_more_always'] = FALSE;
-  $handler->display->display_options['access']['type'] = 'role';
-  $handler->display->display_options['access']['role'] = array(
-    2 => '2',
-    4 => '4',
-    3 => '3',
-  );
+  $handler->display->display_options['access']['type'] = 'none';
   $handler->display->display_options['cache']['type'] = 'none';
   $handler->display->display_options['query']['type'] = 'views_query';
   $handler->display->display_options['exposed_form']['type'] = 'basic';
@@ -726,7 +719,7 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['picture']['label'] = '';
   $handler->display->display_options['fields']['picture']['exclude'] = TRUE;
   $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['picture']['empty'] = '<img src="/sites/default/themes/hot/images/avatar_100.png" />';
+  $handler->display->display_options['fields']['picture']['empty'] = '<img src="/sites/default/themes/hot_theme/images/avatar_100.png" />';
   $handler->display->display_options['fields']['picture']['hide_alter_empty'] = FALSE;
   $handler->display->display_options['fields']['picture']['link_photo_to_profile'] = FALSE;
   $handler->display->display_options['fields']['picture']['image_style'] = 'small_square';
@@ -907,7 +900,7 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['picture']['field'] = 'picture';
   $handler->display->display_options['fields']['picture']['label'] = '';
   $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['picture']['empty'] = '<img src="/sites/default/themes/hot/images/avatar_100.png" />';
+  $handler->display->display_options['fields']['picture']['empty'] = '<img src="/sites/default/themes/hot_theme/images/avatar_100.png" />';
   $handler->display->display_options['fields']['picture']['hide_alter_empty'] = FALSE;
   $handler->display->display_options['fields']['picture']['link_photo_to_profile'] = FALSE;
   $handler->display->display_options['fields']['picture']['image_style'] = 'small_square';
@@ -944,7 +937,7 @@ function hot_people_views_default_views() {
     t('Sort by'),
     t('Asc'),
     t('Desc'),
-    t('<img src="/sites/default/themes/hot/images/avatar_100.png" />'),
+    t('<img src="/sites/default/themes/hot_theme/images/avatar_100.png" />'),
     t('[picture]
 <span class="text-content"><span><div class="full-name">[field_name]</div><br />[field_country]</span></span>'),
     t('Pane: Voting members'),

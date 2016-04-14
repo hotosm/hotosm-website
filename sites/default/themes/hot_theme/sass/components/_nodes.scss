@@ -1,0 +1,47 @@
+.page-node {
+
+  .node {
+    position: relative;
+
+
+    .image-banner,
+    .field--type-image img {
+      width: 100%;
+      height: auto;
+      margin: 20px 0;
+    }
+
+    .banner-wrapper,
+    .field--type-image {
+      margin: 20px auto;
+      height: 205px;
+      @include breakpoint($desktop) {
+        height: 450px;
+      }
+      overflow: hidden;
+      position: relative;
+
+      .image-banner {
+        display: block;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+      }
+    }
+
+    .page-icon {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+
+    @include breakpoint($desktop) {
+      .page-icon {
+        @include isolation-span(4,1,'both');
+      }
+      .page-text {
+        @include grid-span(8,5);
+      }
+    }
+  }
+}

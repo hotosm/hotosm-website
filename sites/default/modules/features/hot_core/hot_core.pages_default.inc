@@ -63,7 +63,7 @@ function hot_core_default_page_manager_pages() {
     ),
   );
   $display->cache = array();
-  $display->title = 'Help us mapping!';
+  $display->title = 'Help Us Map!';
   $display->uuid = '7120ee1d-b08d-4c8d-9e18-d2d124befda6';
   $display->content = array();
   $display->panels = array();
@@ -108,7 +108,7 @@ function hot_core_default_page_manager_pages() {
         'field_project_type_tid' => '218',
       ),
       'override_title' => 1,
-      'override_title_text' => 'Ongoing initiatives that need your help',
+      'override_title_text' => 'These ongoing projects need your help!',
       'override_title_heading' => 'h2',
     );
     $pane->cache = array();

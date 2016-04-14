@@ -1,72 +1,3 @@
-.node-type-book {
-
-  .page-icon,
-  #block-block-2 ul li {
-    text-align: center;
-    margin-bottom: 50px;
-  }
-
-  .node--book {
-    position: relative;
-
-
-    .image-banner {
-      width: 100%;
-      height: auto;
-      margin: 20px 0;
-    }
-
-    .banner-wrapper {
-      margin: 20px auto;
-      height: 205px;
-      @include breakpoint($desktop) {
-        height: 450px;
-      }
-      overflow: hidden;
-      position: relative;
-
-      .image-banner {
-        display: block;
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        margin: auto;
-      }
-    }
-
-    @include breakpoint($desktop) {
-      .page-icon {
-        @include isolation-span(4,1,'both');
-      }
-      .page-text {
-        @include grid-span(8,5);
-      }
-    }
-  }
-
-  // Get deeper involved block
-  #block-block-2 {
-    margin-top: 50px;
-
-    @include breakpoint($desktop) {
-
-      @include isolation-span(12,1,'both');
-
-      li:nth-child(1) {
-        @include isolation-span(4,1,'both');
-      }
-
-      li:nth-child(2) {
-        @include grid-span(4,5);
-      }
-
-      li:nth-child(3) {
-        @include grid-span(4,9);
-      }
-    }
-  }
-}
-
 // About page
 .page-node-7 {
   .node__content h2,
@@ -131,11 +62,17 @@
     }
   }
 }
+
+// Start mapping page
 .node-type-book.page-node-370,
 .page-get-involved-disaster-mapping  {
 
   .pane-views-panes {
     @include isolation-span(12,1,'both');
+  }
+
+  h1 {
+    margin: 40px 0 15px 0;
   }
 
   .node__content {

@@ -18,12 +18,12 @@ function hot_updates_ds_field_settings_info() {
   $ds_fieldsetting->view_mode = 'default';
   $ds_fieldsetting->settings = array(
     'links' => array(
-      'weight' => '4',
+      'weight' => '3',
       'label' => 'hidden',
       'format' => 'default',
     ),
     'comments' => array(
-      'weight' => '5',
+      'weight' => '4',
       'label' => 'hidden',
       'format' => 'default',
     ),
@@ -86,17 +86,22 @@ function hot_updates_ds_layout_settings_info() {
   $ds_layout->settings = array(
     'regions' => array(
       'ds_content' => array(
-        0 => 'body',
-        1 => 'upload',
-        2 => 'links',
-        3 => 'comments',
+        0 => 'field_images',
+        1 => 'body',
+        2 => 'upload',
+        3 => 'links',
+        4 => 'comments',
       ),
     ),
     'fields' => array(
+      'field_images' => 'ds_content',
       'body' => 'ds_content',
       'upload' => 'ds_content',
       'links' => 'ds_content',
       'comments' => 'ds_content',
+    ),
+    'limit' => array(
+      'field_images' => '1',
     ),
     'classes' => array(),
     'wrappers' => array(
@@ -107,6 +112,7 @@ function hot_updates_ds_layout_settings_info() {
     'layout_attributes_merge' => 1,
     'layout_link_attribute' => '',
     'layout_link_custom' => '',
+    'layout_disable_css' => FALSE,
   );
   $export['node|update|default'] = $ds_layout;
 

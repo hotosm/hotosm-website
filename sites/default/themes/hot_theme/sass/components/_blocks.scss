@@ -1,0 +1,26 @@
+// Get deeper involved block
+#block-block-2 {
+  margin-top: 50px;
+
+  ul li {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+  @include breakpoint($desktop) {
+
+    @include isolation-span(12,1,'both');
+
+    li:nth-child(1) {
+      @include isolation-span(4,1,'both');
+    }
+
+    li:nth-child(2) {
+      @include grid-span(4,5);
+    }
+
+    li:nth-child(3) {
+      @include grid-span(4,9);
+    }
+  }
+}

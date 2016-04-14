@@ -48,13 +48,31 @@ img, media {
   height: auto;
 }
 
+table {
+  width: 100%;
+	margin: 50px 0;
+	th {
+		padding: 10px;
+		font-weight: bold;
+	}
+	td {
+		padding: 10px;
+	}
+}
 
-.node__content {
+
+.node__content, .node {
 	ol li {
 		list-style-type: decimal;
+		margin-left: 15px;
 	}
 	ul li {
-	list-style-type: circle;
+		list-style-type: circle;
+		margin-left: 15px;
+	}
+
+	p {
+		margin: 10px 0 !important;
 	}
 }
 
@@ -62,7 +80,7 @@ img, media {
 	margin-bottom: 50px;
 	text-align: center;
 	list-style-type: none;
-	
+
 	p {
 		text-align: left;
 	}

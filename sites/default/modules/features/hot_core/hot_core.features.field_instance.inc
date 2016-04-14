@@ -133,7 +133,7 @@ function hot_core_field_default_field_instances() {
         'insert_styles' => array(
           'auto' => 0,
           'icon_link' => 0,
-          'image' => 0,
+          'image' => 'image',
           'image_banner' => 'image_banner',
           'image_big' => 'image_big',
           'image_large' => 0,

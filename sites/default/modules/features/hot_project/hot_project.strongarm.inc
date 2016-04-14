@@ -153,7 +153,7 @@ function hot_project_strongarm() {
         ),
         'flag_featured_project' => array(
           'default' => array(
-            'weight' => '10',
+            'weight' => '6',
             'visible' => FALSE,
           ),
           'title' => array(
