@@ -1,6 +1,6 @@
 @include breakpoint($desktop) {
   .front .l-navigation {
-      background-color: rgba(255, 255, 255, 0.7);
+      background-color: rgba(255, 255, 255, 0.8);
   }
 }
 
@@ -78,4 +78,8 @@
   border-bottom: solid 1px $middlegrey;
   list-style-type: none;
   list-style-image: none;
+  a {
+    font-family: $font-serif;
+    font-size: 1.3em;
+  }
 }

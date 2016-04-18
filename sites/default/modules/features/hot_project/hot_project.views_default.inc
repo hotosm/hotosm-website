@@ -298,6 +298,13 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['body']['settings'] = array(
     'trim_length' => '200',
   );
+  /* Field: Content: Link */
+  $handler->display->display_options['fields']['view_node']['id'] = 'view_node';
+  $handler->display->display_options['fields']['view_node']['table'] = 'views_entity_node';
+  $handler->display->display_options['fields']['view_node']['field'] = 'view_node';
+  $handler->display->display_options['fields']['view_node']['label'] = '';
+  $handler->display->display_options['fields']['view_node']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['view_node']['text'] = 'Learn more';
   $handler->display->display_options['defaults']['sorts'] = FALSE;
   /* Sort criterion: Content: Timespan -  start date (field_timespan) */
   $handler->display->display_options['sorts']['field_timespan_value']['id'] = 'field_timespan_value';
@@ -418,6 +425,13 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['body']['settings'] = array(
     'trim_length' => '200',
   );
+  /* Field: Content: Link */
+  $handler->display->display_options['fields']['view_node']['id'] = 'view_node';
+  $handler->display->display_options['fields']['view_node']['table'] = 'views_entity_node';
+  $handler->display->display_options['fields']['view_node']['field'] = 'view_node';
+  $handler->display->display_options['fields']['view_node']['label'] = '';
+  $handler->display->display_options['fields']['view_node']['element_label_colon'] = FALSE;
+  $handler->display->display_options['fields']['view_node']['text'] = 'Learn more';
   $handler->display->display_options['defaults']['sorts'] = FALSE;
   /* Sort criterion: Content: Timespan -  start date (field_timespan) */
   $handler->display->display_options['sorts']['field_timespan_value']['id'] = 'field_timespan_value';
@@ -495,7 +509,6 @@ function hot_project_views_default_views() {
   /* Display: Latest Disaster Mapping */
   $handler = $view->new_display('panel_pane', 'Latest Disaster Mapping', 'panel_pane_projects_latest_disaster');
   $handler->display->display_options['defaults']['title'] = FALSE;
-  $handler->display->display_options['title'] = '<h4>Disaster Mapping</h4>';
   $handler->display->display_options['defaults']['use_more'] = FALSE;
   $handler->display->display_options['defaults']['use_more_always'] = FALSE;
   $handler->display->display_options['defaults']['use_more_always'] = FALSE;
@@ -507,10 +520,11 @@ function hot_project_views_default_views() {
   $handler->display->display_options['header']['area']['id'] = 'area';
   $handler->display->display_options['header']['area']['table'] = 'views';
   $handler->display->display_options['header']['area']['field'] = 'area';
-  $handler->display->display_options['header']['area']['content'] = 'When major disaster strikes anywhere in the world, HOT rallies a huge network of volunteers to create, online, the maps that enable responders to reach those in need.
-
+  $handler->display->display_options['header']['area']['content'] = '<a href="/projects/disaster-mapping"><img src="/sites/default/themes/hot_theme/images/icons/emergency-mapping.jpg" /></a>
+<h4>Disaster Mapping</h4>
+<p>When major disaster strikes anywhere in the world, HOT rallies a huge network of volunteers to create, online, the maps that enable responders to reach those in need.</p>
 <a href="/projects/disaster-mapping">View all disaster mapping projects</a>';
-  $handler->display->display_options['header']['area']['format'] = '1';
+  $handler->display->display_options['header']['area']['format'] = 'text_editor';
   $handler->display->display_options['defaults']['fields'] = FALSE;
   /* Field: Global: Custom text */
   $handler->display->display_options['fields']['nothing']['id'] = 'nothing';
@@ -612,7 +626,6 @@ function hot_project_views_default_views() {
   /* Display: Latest Community */
   $handler = $view->new_display('panel_pane', 'Latest Community', 'panel_pane_projects_latest_community');
   $handler->display->display_options['defaults']['title'] = FALSE;
-  $handler->display->display_options['title'] = '<h4>Community</h4>';
   $handler->display->display_options['defaults']['use_more'] = FALSE;
   $handler->display->display_options['defaults']['use_more_always'] = FALSE;
   $handler->display->display_options['defaults']['use_more_always'] = FALSE;
@@ -624,10 +637,11 @@ function hot_project_views_default_views() {
   $handler->display->display_options['header']['area']['id'] = 'area';
   $handler->display->display_options['header']['area']['table'] = 'views';
   $handler->display->display_options['header']['area']['field'] = 'area';
-  $handler->display->display_options['header']['area']['content'] = 'HOT supports community mapping projects around the world and assists people to create their own maps for socio-economic development and disaster preparedness.
-
+  $handler->display->display_options['header']['area']['content'] = '<a href="/projects/community"><img src="/sites/default/themes/hot_theme/images/icons/community.jpg" /></a>
+<h4>Community</h4>
+<p>HOT supports community mapping projects around the world and assists people to create their own maps for socio-economic development and disaster preparedness.</p>
 <a href="/projects/community">View all community projects</a>';
-  $handler->display->display_options['header']['area']['format'] = '1';
+  $handler->display->display_options['header']['area']['format'] = '2';
   $handler->display->display_options['defaults']['fields'] = FALSE;
   /* Field: Global: Custom text */
   $handler->display->display_options['fields']['nothing']['id'] = 'nothing';
@@ -719,7 +733,6 @@ function hot_project_views_default_views() {
   /* Display: Latest Technical */
   $handler = $view->new_display('panel_pane', 'Latest Technical', 'panel_pane_projects_latest_technical');
   $handler->display->display_options['defaults']['title'] = FALSE;
-  $handler->display->display_options['title'] = '<h4>Technical</h4>';
   $handler->display->display_options['defaults']['use_more'] = FALSE;
   $handler->display->display_options['defaults']['use_more_always'] = FALSE;
   $handler->display->display_options['defaults']['use_more_always'] = FALSE;
@@ -731,8 +744,9 @@ function hot_project_views_default_views() {
   $handler->display->display_options['header']['area']['id'] = 'area';
   $handler->display->display_options['header']['area']['table'] = 'views';
   $handler->display->display_options['header']['area']['field'] = 'area';
-  $handler->display->display_options['header']['area']['content'] = 'HOT develops several open source programs and applications to leverage collaborative mapping and the use of new technologies in the field of geographic information for humanitarian aid. Check them out!
-
+  $handler->display->display_options['header']['area']['content'] = '<a href="/projects/technical"><img src="/sites/default/themes/hot_theme/images/icons/technical.jpg" /></a>
+<h4>Technical</h4>
+<p>HOT develops several open source programs and applications to leverage collaborative mapping and the use of new technologies in the field of geographic information for humanitarian aid. Check them out!</p>
 <a href="/projects/technical">View all technical projects</a>';
   $handler->display->display_options['header']['area']['format'] = '1';
   $handler->display->display_options['defaults']['fields'] = FALSE;
@@ -853,22 +867,22 @@ function hot_project_views_default_views() {
     t('View panes'),
     t('Past projects pane'),
     t('Latest Disaster Mapping'),
-    t('<h4>Disaster Mapping</h4>'),
-    t('When major disaster strikes anywhere in the world, HOT rallies a huge network of volunteers to create, online, the maps that enable responders to reach those in need.
-
+    t('<a href="/projects/disaster-mapping"><img src="/sites/default/themes/hot_theme/images/icons/emergency-mapping.jpg" /></a>
+<h4>Disaster Mapping</h4>
+<p>When major disaster strikes anywhere in the world, HOT rallies a huge network of volunteers to create, online, the maps that enable responders to reach those in need.</p>
 <a href="/projects/disaster-mapping">View all disaster mapping projects</a>'),
     t('Latest Disaster Mapping Project'),
     t('Project type (field_project_type)'),
     t('Latest Community'),
-    t('<h4>Community</h4>'),
-    t('HOT supports community mapping projects around the world and assists people to create their own maps for socio-economic development and disaster preparedness.
-
+    t('<a href="/projects/community"><img src="/sites/default/themes/hot_theme/images/icons/community.jpg" /></a>
+<h4>Community</h4>
+<p>HOT supports community mapping projects around the world and assists people to create their own maps for socio-economic development and disaster preparedness.</p>
 <a href="/projects/community">View all community projects</a>'),
     t('Latest Community Project'),
     t('Latest Technical'),
-    t('<h4>Technical</h4>'),
-    t('HOT develops several open source programs and applications to leverage collaborative mapping and the use of new technologies in the field of geographic information for humanitarian aid. Check them out!
-
+    t('<a href="/projects/technical"><img src="/sites/default/themes/hot_theme/images/icons/technical.jpg" /></a>
+<h4>Technical</h4>
+<p>HOT develops several open source programs and applications to leverage collaborative mapping and the use of new technologies in the field of geographic information for humanitarian aid. Check them out!</p>
 <a href="/projects/technical">View all technical projects</a>'),
     t('Latest Technical Project'),
   );
@@ -952,8 +966,9 @@ function hot_project_views_default_views() {
   $handler->display->display_options['fields']['field_timespan']['id'] = 'field_timespan';
   $handler->display->display_options['fields']['field_timespan']['table'] = 'field_data_field_timespan';
   $handler->display->display_options['fields']['field_timespan']['field'] = 'field_timespan';
+  $handler->display->display_options['fields']['field_timespan']['label'] = 'Duration';
   $handler->display->display_options['fields']['field_timespan']['settings'] = array(
-    'format_type' => 'long',
+    'format_type' => 'short',
     'fromto' => 'both',
     'multiple_number' => '',
     'multiple_from' => '',
@@ -981,7 +996,7 @@ function hot_project_views_default_views() {
     t('Project details block'),
     t('Project type'),
     t('Coordination'),
-    t('Timespan'),
+    t('Duration'),
     t('Project page'),
   );
   $export['project_information'] = $view;

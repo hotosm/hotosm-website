@@ -121,11 +121,11 @@ function hot_core_context_default_contexts() {
           'region' => 'header',
           'weight' => '-27',
         ),
-        'lang_dropdown-language' => array(
-          'module' => 'lang_dropdown',
+        'locale-language' => array(
+          'module' => 'locale',
           'delta' => 'language',
           'region' => 'header',
-          'weight' => '-26',
+          'weight' => '-10',
         ),
         'menu_block-hot_core-1' => array(
           'module' => 'menu_block',

@@ -1,16 +1,14 @@
 .panel-page-projects {
 
-  .pane-project-panel-pane-projects-latest-disaster {
-    padding-top: 120px;
-    background: $white url(/sites/default/themes/hot_theme/images/icons/emergency-mapping.jpg) no-repeat center top;
-  }
-  .pane-project-panel-pane-projects-latest-community {
-    padding-top: 120px;
-    background: $white url(/sites/default/themes/hot_theme/images/icons/community.jpg) no-repeat center top;
-  }
-  .pane-project-panel-pane-projects-latest-technical{
-    padding-top: 120px;
-    background: $white url(/sites/default/themes/hot_theme/images/icons/technical.jpg) no-repeat center top;
+  .pane-project-panel-pane-projects-latest-disaster,
+  .pane-project-panel-pane-projects-latest-community,
+  .pane-project-panel-pane-projects-latest-technical {
+    .view-header {
+      margin-bottom: 50px;
+      p:nth-of-type(1) {
+        text-align: center;
+      }
+    }
   }
 
   h2, h3, h4 {

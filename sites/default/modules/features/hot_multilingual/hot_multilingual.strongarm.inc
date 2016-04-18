@@ -214,9 +214,21 @@ function hot_multilingual_strongarm() {
         'ja' => 'ja',
         'es' => 'es',
       ),
-      2 => array(),
-      3 => array(),
-      4 => array(),
+      2 => array(
+        'id' => 'id',
+        'ja' => 'ja',
+        'es' => 'es',
+      ),
+      3 => array(
+        'id' => 'id',
+        'ja' => 'ja',
+        'es' => 'es',
+      ),
+      4 => array(
+        'id' => 'id',
+        'ja' => 'ja',
+        'es' => 'es',
+      ),
     ),
   );
   $export['lang_dropdown_hideout_language'] = $strongarm;

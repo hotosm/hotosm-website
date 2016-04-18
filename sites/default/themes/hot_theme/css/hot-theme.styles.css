@@ -196,9 +196,9 @@
 
 /* line 1, ../sass/base/_buttons.scss */
 .btn-gray {
-  background: #e0e0e0;
+  background: #F0F0F0;
   border-radius: 15px;
-  border-bottom: #989898 1px solid;
+  border-bottom: #BEBEBE 1px solid;
   color: #333333;
   font-size: 13px;
   font-weight: bold;
@@ -207,19 +207,19 @@
   /* line 10, ../sass/base/_buttons.scss */
   .btn-gray:hover {
     text-decoration: none;
-    background: #989898;
+    background: #BEBEBE;
     color: #ffffff; }
 
 /* line 18, ../sass/base/_buttons.scss */
 .button, input[type=submit], .more-link a {
-  background-color: #989898;
+  background-color: #BEBEBE;
   display: block;
   padding: 10px;
   text-align: center;
   color: #000000;
   border: none;
   cursor: pointer;
-  font-size: 13px; }
+  font-size: 14px; }
 
 /* line 29, ../sass/base/_buttons.scss */
 .button {
@@ -232,9 +232,9 @@ a.button:hover, input[type=submit]:hover, .more-link:hover a {
 
 /* line 1, ../sass/base/_forms.scss */
 input[type=text], input[type=password] {
-  border: #989898 1px solid;
+  border: #BEBEBE 1px solid;
   padding: 10px;
-  font-size: 13px;
+  font-size: 14px;
   margin: 10px 0; }
 
 /* line 1, ../sass/base/_helpers.scss */
@@ -250,7 +250,7 @@ body {
   background-color: #ffffff;
   font-family: "Open Sans", Arial, sans-serif;
   line-height: 150%;
-  font-size: 13px; }
+  font-size: 14px; }
 
 /* line 12, ../sass/base/_standards.scss */
 a {
@@ -270,7 +270,7 @@ h1, h2 {
 h3 {
   font-family: "Alegreya", "Times New Roman", "Times", serif;
   font-weight: normal;
-  font-size: 25px;
+  font-size: 26px;
   line-height: 120%;
   margin: 20px 0 10px 0; }
 
@@ -278,7 +278,7 @@ h3 {
 h4 {
   font-family: "Open Sans", Arial, sans-serif;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 19px;
   margin: 10px 0; }
 
 /* line 41, ../sass/base/_standards.scss */
@@ -534,13 +534,13 @@ footer {
   margin-left: 0;
   margin-right: 0;
   clear: both;
-  background-color: #e0e0e0;
+  background-color: #F0F0F0;
   margin-top: 50px;
   padding: 30px 0; }
   /* line 7, ../sass/components/_footer.scss */
   footer h2.block__title {
     margin: 0 auto;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: bold;
     font-family: "Open Sans", Arial, sans-serif; }
     @media (min-width: 961px) {
@@ -598,7 +598,7 @@ footer {
   footer #block-block-4 {
     margin: 20px 0;
     text-align: center;
-    font-size: 11px; }
+    font-size: 12px; }
   /* line 75, ../sass/components/_footer.scss */
   footer #block-system-user-menu h2 {
     display: none; }
@@ -612,7 +612,7 @@ footer {
     /* line 86, ../sass/components/_footer.scss */
     footer #block-system-user-menu a {
       color: #333333;
-      font-size: 11px; }
+      font-size: 12px; }
 
 /* line 2, ../sass/components/_header.scss */
 header .l-branding {
@@ -675,10 +675,10 @@ header #block-lang-dropdown-language {
     width: 40px !important;
     height: 25px;
     padding: 0 0 0 4px;
-    background: #989898 url("/sites/default/themes/hot_theme/images/dropdown.png") no-repeat 25px 10px;
+    background: #BEBEBE url("/sites/default/themes/hot_theme/images/dropdown.png") no-repeat 25px 10px;
     border: none;
     color: #000000;
-    font-size: 9px;
+    font-size: 10px;
     text-transform: uppercase;
     font-weight: bold;
     cursor: pointer;
@@ -693,7 +693,7 @@ header #block-lang-dropdown-language {
         width: 35px !important;
         height: 40px;
         padding: 0 0 12px 8px;
-        background: #e0e0e0 url("/sites/default/themes/hot_theme/images/dropdown.png") no-repeat center 24px; } }
+        background: #F0F0F0 url("/sites/default/themes/hot_theme/images/dropdown.png") no-repeat center 24px; } }
 /* line 72, ../sass/components/_header.scss */
 header #block-block-3 li {
   display: inline;
@@ -746,7 +746,7 @@ header #block-block-3 li {
       background-color: #d73f3f;
       color: #ffffff;
       font-weight: bold;
-      font-size: 13px;
+      font-size: 14px;
       margin-bottom: 15px;
       padding: 5px 10px; }
       @media (min-width: 961px) {
@@ -755,20 +755,20 @@ header #block-block-3 li {
           width: 300px; } }
   /* line 51, ../sass/components/_highlighted.scss */
   .l-highlighted #block-views-project-projects-featured-block .views-field-body {
-    font-size: 13px;
+    font-size: 14px;
     line-height: 150%;
     margin: 0 auto;
     width: 80%;
     max-width: 10240px; }
     /* line 59, ../sass/components/_highlighted.scss */
     .l-highlighted #block-views-project-projects-featured-block .views-field-body h3 {
-      font-size: 25px;
+      font-size: 26px;
       font-weight: bold;
       margin: 10px 0 20px 0; }
     @media (min-width: 961px) {
       /* line 66, ../sass/components/_highlighted.scss */
       .l-highlighted #block-views-project-projects-featured-block .views-field-body > div {
-        background-color: rgba(255, 255, 255, 0.7);
+        background-color: rgba(255, 255, 255, 0.8);
         padding: 10px;
         width: 300px; } }
 /* line 76, ../sass/components/_highlighted.scss */
@@ -820,7 +820,7 @@ body.front #block-block-6 {
       clear: none; } }
 /* line 36, ../sass/components/_homepage.scss */
 body.front #block-views-updates-updates-all-block .first-news-element {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.8);
   position: relative;
   padding: 0 4px; }
   /* line 40, ../sass/components/_homepage.scss */
@@ -881,14 +881,14 @@ body.front #block-block-5 {
 @media (min-width: 961px) {
   /* line 2, ../sass/components/_navigation.scss */
   .front .l-navigation {
-    background-color: rgba(255, 255, 255, 0.7); } }
+    background-color: rgba(255, 255, 255, 0.8); } }
 /* line 7, ../sass/components/_navigation.scss */
 .l-navigation {
   position: relative;
   height: 40px;
   z-index: 99;
   margin-top: 20px;
-  background-color: #e0e0e0;
+  background-color: #F0F0F0;
   border-bottom: solid #d73f3f 2px;
   width: 100%; }
   /* line 20, ../sass/components/_navigation.scss */
@@ -907,7 +907,7 @@ body.front #block-block-5 {
     /* line 35, ../sass/components/_navigation.scss */
     .l-navigation #block-menu-block-hot-core-1 ul.menu li, .l-navigation #block-menu-block-hot-core-1 #sidr-0 li {
       padding: 10px 20px 10px 0px;
-      border-bottom: solid 1px #989898;
+      border-bottom: solid 1px #BEBEBE;
       list-style-type: none;
       list-style-image: none; }
       @media (min-width: 961px) {
@@ -928,9 +928,9 @@ body.front #block-block-5 {
     color: #d73f3f; }
   /* line 61, ../sass/components/_navigation.scss */
   .l-navigation #block-menu-block-hot-core-1 #sidr-0-button {
-    background: #e0e0e0 url("/sites/default/themes/hot_theme/images/menu.png") no-repeat center left;
+    background: #F0F0F0 url("/sites/default/themes/hot_theme/images/menu.png") no-repeat center left;
     color: #d73f3f;
-    font-size: 13px;
+    font-size: 14px;
     text-decoration: none;
     text-transform: uppercase;
     padding: 6px 0px 6px 42px;
@@ -940,9 +940,13 @@ body.front #block-block-5 {
 /* line 76, ../sass/components/_navigation.scss */
 .sidr li {
   padding: 10px 20px 10px 20px;
-  border-bottom: solid 1px #989898;
+  border-bottom: solid 1px #BEBEBE;
   list-style-type: none;
   list-style-image: none; }
+  /* line 81, ../sass/components/_navigation.scss */
+  .sidr li a {
+    font-family: "Alegreya", "Times New Roman", "Times", serif;
+    font-size: 1.3em; }
 
 /* line 4, ../sass/components/_news.scss */
 .view-id-updates .views-field-created {
@@ -981,7 +985,7 @@ body.front #block-block-5 {
     clear: both; } }
 /* line 40, ../sass/components/_news.scss */
 .node-type-update .node--update .field--name-field-information {
-  background-color: #e0e0e0; }
+  background-color: #F0F0F0; }
   /* line 41, ../sass/components/_news.scss */
   .node-type-update .node--update .field--name-field-information .views-row {
     margin-bottom: 0; }
@@ -1049,45 +1053,43 @@ body.front #block-block-5 {
       margin-right: 0;
       clear: none; } }
 
-/* line 3, ../sass/components/_projects.scss */
-.panel-page-projects .pane-project-panel-pane-projects-latest-disaster {
-  padding-top: 120px;
-  background: #ffffff url(/sites/default/themes/hot_theme/images/icons/emergency-mapping.jpg) no-repeat center top; }
-/* line 7, ../sass/components/_projects.scss */
-.panel-page-projects .pane-project-panel-pane-projects-latest-community {
-  padding-top: 120px;
-  background: #ffffff url(/sites/default/themes/hot_theme/images/icons/community.jpg) no-repeat center top; }
-/* line 11, ../sass/components/_projects.scss */
-.panel-page-projects .pane-project-panel-pane-projects-latest-technical {
-  padding-top: 120px;
-  background: #ffffff url(/sites/default/themes/hot_theme/images/icons/technical.jpg) no-repeat center top; }
-/* line 16, ../sass/components/_projects.scss */
+/* line 6, ../sass/components/_projects.scss */
+.panel-page-projects .pane-project-panel-pane-projects-latest-disaster .view-header,
+.panel-page-projects .pane-project-panel-pane-projects-latest-community .view-header,
+.panel-page-projects .pane-project-panel-pane-projects-latest-technical .view-header {
+  margin-bottom: 50px; }
+  /* line 8, ../sass/components/_projects.scss */
+  .panel-page-projects .pane-project-panel-pane-projects-latest-disaster .view-header p:nth-of-type(1),
+  .panel-page-projects .pane-project-panel-pane-projects-latest-community .view-header p:nth-of-type(1),
+  .panel-page-projects .pane-project-panel-pane-projects-latest-technical .view-header p:nth-of-type(1) {
+    text-align: center; }
+/* line 14, ../sass/components/_projects.scss */
 .panel-page-projects h2, .panel-page-projects h3, .panel-page-projects h4 {
   text-align: center; }
-/* line 20, ../sass/components/_projects.scss */
+/* line 18, ../sass/components/_projects.scss */
 .panel-page-projects .view-id-project .views-field-nothing {
-  background-color: #e0e0e0;
+  background-color: #F0F0F0;
   padding: 3px; }
-/* line 24, ../sass/components/_projects.scss */
+/* line 22, ../sass/components/_projects.scss */
 .panel-page-projects .view-id-project .views-field-view-node {
   margin-top: 10px; }
 
-/* line 34, ../sass/components/_projects.scss */
+/* line 32, ../sass/components/_projects.scss */
 .page-projects .pane-project-panel-pane-projects li.views-row,
 .page-projects .pane-project-panel-pane-projects-old li.views-row {
   margin-bottom: 50px; }
-/* line 38, ../sass/components/_projects.scss */
+/* line 36, ../sass/components/_projects.scss */
 .page-projects .project-type-icon {
   text-align: center; }
 @media (min-width: 961px) {
-  /* line 43, ../sass/components/_projects.scss */
+  /* line 41, ../sass/components/_projects.scss */
   .page-projects .project-type-description {
     width: 64.70588%;
     float: left;
     margin-right: -100%;
     margin-left: 0;
     clear: none; }
-  /* line 46, ../sass/components/_projects.scss */
+  /* line 44, ../sass/components/_projects.scss */
   .page-projects .project-type-icon {
     width: 29.41176%;
     float: right;
@@ -1096,35 +1098,35 @@ body.front #block-block-5 {
     clear: none; } }
 
 @media (min-width: 961px) {
-  /* line 56, ../sass/components/_projects.scss */
+  /* line 54, ../sass/components/_projects.scss */
   .node-type-project .node--project .field--name-body {
     width: 64.70588%;
     float: left;
     margin-right: -100%;
     margin-left: 0;
     clear: both; } }
-/* line 61, ../sass/components/_projects.scss */
+/* line 59, ../sass/components/_projects.scss */
 .node-type-project .node--project .field--name-field-information {
-  background-color: #e0e0e0; }
-  /* line 62, ../sass/components/_projects.scss */
+  background-color: #F0F0F0; }
+  /* line 60, ../sass/components/_projects.scss */
   .node-type-project .node--project .field--name-field-information .views-row {
     margin-bottom: 0; }
-  /* line 66, ../sass/components/_projects.scss */
+  /* line 64, ../sass/components/_projects.scss */
   .node-type-project .node--project .field--name-field-information .views-field {
     margin: 0 20px;
     padding: 10px 0; }
-  /* line 70, ../sass/components/_projects.scss */
+  /* line 68, ../sass/components/_projects.scss */
   .node-type-project .node--project .field--name-field-information .views-label {
     font-weight: bold; }
   @media (min-width: 961px) {
-    /* line 61, ../sass/components/_projects.scss */
+    /* line 59, ../sass/components/_projects.scss */
     .node-type-project .node--project .field--name-field-information {
       width: 29.41176%;
       float: right;
       margin-left: 0;
       margin-right: 0;
       clear: none; } }
-/* line 78, ../sass/components/_projects.scss */
+/* line 76, ../sass/components/_projects.scss */
 .node-type-project #block-views-updates-updates-project-block {
   width: 100%;
   float: right;
@@ -1132,14 +1134,14 @@ body.front #block-block-5 {
   margin-right: 0;
   clear: both; }
   @media (min-width: 961px) {
-    /* line 81, ../sass/components/_projects.scss */
+    /* line 79, ../sass/components/_projects.scss */
     .node-type-project #block-views-updates-updates-project-block .views-row:nth-of-type(2n+1) {
       width: 47.05882%;
       float: left;
       margin-right: -100%;
       margin-left: 0;
       clear: both; }
-    /* line 84, ../sass/components/_projects.scss */
+    /* line 82, ../sass/components/_projects.scss */
     .node-type-project #block-views-updates-updates-project-block .views-row:nth-of-type(2n+2) {
       width: 47.05882%;
       float: right;
@@ -1286,7 +1288,7 @@ body.front #block-block-5 {
   margin: 20px 0 10px 0;
   padding: 0;
   font-family: "Open Sans", Arial, sans-serif;
-  font-size: 18px; }
+  font-size: 19px; }
 /* line 156, ../sass/components/_userlists.scss */
 .page-user .panel-2col .inside {
   margin: 0; }
@@ -1321,11 +1323,11 @@ body.front #block-block-5 {
   /* line 7, ../sass/components/_working-groups.scss */
   .page-working-groups .view-content .view-grouping h3 {
     font-family: "Open Sans", Arial, sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     line-height: 150%; }
   /* line 12, ../sass/components/_working-groups.scss */
   .page-working-groups .view-content .view-grouping .view-grouping-header {
-    font-size: 18px;
+    font-size: 19px;
     font-weight: bold; }
   /* line 16, ../sass/components/_working-groups.scss */
   .page-working-groups .view-content .view-grouping .view-grouping-content .views-row {

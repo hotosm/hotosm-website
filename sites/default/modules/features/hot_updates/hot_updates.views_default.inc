@@ -141,7 +141,6 @@ function hot_updates_views_default_views() {
   /* Display: Master */
   $handler = $view->new_display('default', 'Master', 'default');
   $handler->display->display_options['title'] = 'News';
-  $handler->display->display_options['use_ajax'] = TRUE;
   $handler->display->display_options['use_more_always'] = TRUE;
   $handler->display->display_options['use_more_text'] = 'More updates';
   $handler->display->display_options['access']['type'] = 'perm';
@@ -250,7 +249,8 @@ function hot_updates_views_default_views() {
   $handler->display->display_options['fields']['field_images']['field'] = 'field_images';
   $handler->display->display_options['fields']['field_images']['label'] = '';
   $handler->display->display_options['fields']['field_images']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['field_images']['hide_empty'] = TRUE;
+  $handler->display->display_options['fields']['field_images']['empty'] = '<img typeof="foaf:Image" src="http://hot.local/sites/default/files/styles/normal/public/500px-Hot_logo_0.png?itok=ifu7zIjm" width="450" height="270" alt="" />';
+  $handler->display->display_options['fields']['field_images']['hide_alter_empty'] = FALSE;
   $handler->display->display_options['fields']['field_images']['click_sort_column'] = 'fid';
   $handler->display->display_options['fields']['field_images']['settings'] = array(
     'image_style' => 'normal',
@@ -607,6 +607,7 @@ function hot_updates_views_default_views() {
     t('All updates page'),
     t('more'),
     t('<a href="/feed/rss2" class="feed-icon" title="Subscribe to Recent Updates"><img src="/misc/feed.png" width="16" height="16" alt="Subscribe to Recent Updates" /></a>'),
+    t('<img typeof="foaf:Image" src="http://hot.local/sites/default/files/styles/normal/public/500px-Hot_logo_0.png?itok=ifu7zIjm" width="450" height="270" alt="" />'),
     t('Read more...'),
     t('All updates feed'),
     t('Recent Updates'),
