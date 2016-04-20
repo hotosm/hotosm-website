@@ -10,7 +10,7 @@ regions[navigation]     = Navigation bar
 regions[highlighted]    = Highlighted
 regions[help]           = Help
 regions[content]        = Content
-regions[follow]         = Follow the content
+regions[follow]         = After content
 regions[footer]         = Footer
 
 ; Stylesheets
