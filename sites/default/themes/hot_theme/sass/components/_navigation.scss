@@ -4,6 +4,17 @@
   }
 }
 
+.l-navigation.fixed {
+  position: fixed;
+  margin-top: 0;
+
+  @include breakpoint($desktop) {
+    position: relative;
+    margin-top: 20px;
+
+  }
+}
+
 .l-navigation {
   position: relative;
   height: 40px;
@@ -15,7 +26,6 @@
 
   // Main menu block
   #block-menu-block-hot-core-1 {
-
 
     .block__title {
       display: none;

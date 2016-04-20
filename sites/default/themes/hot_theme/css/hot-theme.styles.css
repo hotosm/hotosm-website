@@ -261,12 +261,13 @@ a {
 h1, h2 {
   font-family: "Alegreya", "Times New Roman", "Times", serif;
   font-size: 30px;
+  line-height: 1.2em;
   margin: 40px 0; }
-  /* line 21, ../sass/base/_standards.scss */
+  /* line 22, ../sass/base/_standards.scss */
   h1 img, h2 img {
     margin-left: 10px; }
 
-/* line 26, ../sass/base/_standards.scss */
+/* line 27, ../sass/base/_standards.scss */
 h3 {
   font-family: "Alegreya", "Times New Roman", "Times", serif;
   font-weight: normal;
@@ -274,53 +275,53 @@ h3 {
   line-height: 120%;
   margin: 20px 0 10px 0; }
 
-/* line 34, ../sass/base/_standards.scss */
+/* line 35, ../sass/base/_standards.scss */
 h4 {
   font-family: "Open Sans", Arial, sans-serif;
   font-weight: bold;
   font-size: 19px;
   margin: 10px 0; }
 
-/* line 41, ../sass/base/_standards.scss */
+/* line 42, ../sass/base/_standards.scss */
 h5 {
   font-size: 1.3em;
   margin: 9px 0 6px 0; }
 
-/* line 46, ../sass/base/_standards.scss */
+/* line 47, ../sass/base/_standards.scss */
 img, media {
   max-width: 100%;
   height: auto; }
 
-/* line 51, ../sass/base/_standards.scss */
+/* line 52, ../sass/base/_standards.scss */
 table {
   width: 100%;
   margin: 50px 0; }
-  /* line 54, ../sass/base/_standards.scss */
+  /* line 55, ../sass/base/_standards.scss */
   table th {
     padding: 10px;
     font-weight: bold; }
-  /* line 58, ../sass/base/_standards.scss */
+  /* line 59, ../sass/base/_standards.scss */
   table td {
     padding: 10px; }
 
-/* line 65, ../sass/base/_standards.scss */
+/* line 66, ../sass/base/_standards.scss */
 .node__content ol li, .node ol li {
   list-style-type: decimal;
   margin-left: 15px; }
-/* line 69, ../sass/base/_standards.scss */
+/* line 70, ../sass/base/_standards.scss */
 .node__content ul li, .node ul li {
   list-style-type: circle;
   margin-left: 15px; }
-/* line 74, ../sass/base/_standards.scss */
+/* line 75, ../sass/base/_standards.scss */
 .node__content p, .node p {
   margin: 10px 0 !important; }
 
-/* line 79, ../sass/base/_standards.scss */
+/* line 80, ../sass/base/_standards.scss */
 .node__content .styled-list li {
   margin-bottom: 50px;
   text-align: center;
   list-style-type: none; }
-  /* line 84, ../sass/base/_standards.scss */
+  /* line 85, ../sass/base/_standards.scss */
   .node__content .styled-list li p {
     text-align: left; }
 
@@ -883,6 +884,16 @@ body.front #block-block-5 {
   .front .l-navigation {
     background-color: rgba(255, 255, 255, 0.8); } }
 /* line 7, ../sass/components/_navigation.scss */
+.l-navigation.fixed {
+  position: fixed;
+  margin-top: 0; }
+  @media (min-width: 961px) {
+    /* line 7, ../sass/components/_navigation.scss */
+    .l-navigation.fixed {
+      position: relative;
+      margin-top: 20px; } }
+
+/* line 18, ../sass/components/_navigation.scss */
 .l-navigation {
   position: relative;
   height: 40px;
@@ -891,42 +902,42 @@ body.front #block-block-5 {
   background-color: #F0F0F0;
   border-bottom: solid #d73f3f 2px;
   width: 100%; }
-  /* line 20, ../sass/components/_navigation.scss */
+  /* line 30, ../sass/components/_navigation.scss */
   .l-navigation #block-menu-block-hot-core-1 .block__title {
     display: none; }
-  /* line 24, ../sass/components/_navigation.scss */
+  /* line 34, ../sass/components/_navigation.scss */
   .l-navigation #block-menu-block-hot-core-1 ul.menu, .l-navigation #block-menu-block-hot-core-1 #sidr-0 {
     display: block;
     font-family: "Alegreya", "Times New Roman", "Times", serif;
     list-style-type: none;
     list-style-image: none; }
     @media (min-width: 961px) {
-      /* line 24, ../sass/components/_navigation.scss */
+      /* line 34, ../sass/components/_navigation.scss */
       .l-navigation #block-menu-block-hot-core-1 ul.menu, .l-navigation #block-menu-block-hot-core-1 #sidr-0 {
         position: absolute; } }
-    /* line 35, ../sass/components/_navigation.scss */
+    /* line 45, ../sass/components/_navigation.scss */
     .l-navigation #block-menu-block-hot-core-1 ul.menu li, .l-navigation #block-menu-block-hot-core-1 #sidr-0 li {
       padding: 10px 20px 10px 0px;
       border-bottom: solid 1px #BEBEBE;
       list-style-type: none;
       list-style-image: none; }
       @media (min-width: 961px) {
-        /* line 35, ../sass/components/_navigation.scss */
+        /* line 45, ../sass/components/_navigation.scss */
         .l-navigation #block-menu-block-hot-core-1 ul.menu li, .l-navigation #block-menu-block-hot-core-1 #sidr-0 li {
           float: left;
           border-bottom: none; } }
-    /* line 47, ../sass/components/_navigation.scss */
+    /* line 57, ../sass/components/_navigation.scss */
     .l-navigation #block-menu-block-hot-core-1 ul.menu li.last, .l-navigation #block-menu-block-hot-core-1 #sidr-0 li.last {
       border-bottom: none; }
-  /* line 52, ../sass/components/_navigation.scss */
+  /* line 62, ../sass/components/_navigation.scss */
   .l-navigation #block-menu-block-hot-core-1 a {
     font-size: 1.2em;
     text-decoration: none;
     color: #000000; }
-  /* line 57, ../sass/components/_navigation.scss */
+  /* line 67, ../sass/components/_navigation.scss */
   .l-navigation #block-menu-block-hot-core-1 a:hover {
     color: #d73f3f; }
-  /* line 61, ../sass/components/_navigation.scss */
+  /* line 71, ../sass/components/_navigation.scss */
   .l-navigation #block-menu-block-hot-core-1 #sidr-0-button {
     background: #F0F0F0 url("/sites/default/themes/hot_theme/images/menu.png") no-repeat center left;
     color: #d73f3f;
@@ -937,13 +948,13 @@ body.front #block-block-5 {
     position: absolute;
     top: 6px; }
 
-/* line 76, ../sass/components/_navigation.scss */
+/* line 86, ../sass/components/_navigation.scss */
 .sidr li {
   padding: 10px 20px 10px 20px;
   border-bottom: solid 1px #BEBEBE;
   list-style-type: none;
   list-style-image: none; }
-  /* line 81, ../sass/components/_navigation.scss */
+  /* line 91, ../sass/components/_navigation.scss */
   .sidr li a {
     font-family: "Alegreya", "Times New Roman", "Times", serif;
     font-size: 1.3em; }

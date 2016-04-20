@@ -38,7 +38,7 @@
    *   Drupal.settings directly you should use this because of potential
    *   modifications made by the Ajax callback that also produced 'context'.
    */
-  Drupal.behaviors.hotThemeExampleBehavior = {
+  Drupal.behaviors.hotThemeFixedResponsiveMenu  = {
     attach: function (context, settings) {
       // By using the 'context' variable we make sure that our code only runs on
       // the relevant HTML. Furthermore, by using jQuery.once() we make sure that
@@ -46,13 +46,13 @@
       // processed previously. By using .once('foo') all processed elements will
       // get tagged with a 'foo-processed' class, causing all future invocations
       // of this behavior to ignore them.
-      $('.some-selector', context).once('foo', function () {
-        // Now, we are invoking the previously declared theme function using two
-        // settings as arguments.
-        var $anchor = Drupal.theme('hotThemeExampleButton', settings.myExampleLinkPath, settings.myExampleLinkTitle);
 
-        // The anchor is then appended to the current element.
-        $anchor.appendTo(this);
+      $(window).bind('scroll', function () {
+        if ($(window).scrollTop() > 120) {
+          $('.l-navigation').addClass('fixed');
+        } else {
+          $('.l-navigation').removeClass('fixed');
+        }
       });
     }
   };
