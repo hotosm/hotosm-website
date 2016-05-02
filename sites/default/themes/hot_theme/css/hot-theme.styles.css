@@ -1064,6 +1064,13 @@ body.front #block-block-5 {
       margin-right: 0;
       clear: none; } }
 
+/* line 2, ../sass/components/_partnerships.scss */
+.page-partnerships .l-main .views-row {
+  margin-bottom: 100px !important; }
+  /* line 5, ../sass/components/_partnerships.scss */
+  .page-partnerships .l-main .views-row .views-field-field-icon .field-content {
+    text-align: center; }
+
 /* line 6, ../sass/components/_projects.scss */
 .panel-page-projects .pane-project-panel-pane-projects-latest-disaster .view-header,
 .panel-page-projects .pane-project-panel-pane-projects-latest-community .view-header,
