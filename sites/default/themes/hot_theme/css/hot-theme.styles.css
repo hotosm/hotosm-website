@@ -1069,7 +1069,14 @@ body.front #block-block-5 {
   margin-bottom: 100px !important; }
   /* line 5, ../sass/components/_partnerships.scss */
   .page-partnerships .l-main .views-row .views-field-field-icon .field-content {
-    text-align: center; }
+    text-align: center;
+    height: 100px;
+    overflow: hidden; }
+    /* line 10, ../sass/components/_partnerships.scss */
+    .page-partnerships .l-main .views-row .views-field-field-icon .field-content img {
+      height: 90px;
+      width: auto;
+      max-width: 100%; }
 
 /* line 6, ../sass/components/_projects.scss */
 .panel-page-projects .pane-project-panel-pane-projects-latest-disaster .view-header,

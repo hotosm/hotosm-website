@@ -86,8 +86,8 @@ function hot_core_context_default_contexts() {
         'block-2' => array(
           'module' => 'block',
           'delta' => '2',
-          'region' => 'content',
-          'weight' => '2',
+          'region' => 'follow',
+          'weight' => '-10',
         ),
       ),
     ),
@@ -120,12 +120,6 @@ function hot_core_context_default_contexts() {
           'delta' => '3',
           'region' => 'header',
           'weight' => '-27',
-        ),
-        'locale-language' => array(
-          'module' => 'locale',
-          'delta' => 'language',
-          'region' => 'header',
-          'weight' => '-10',
         ),
         'menu_block-hot_core-1' => array(
           'module' => 'menu_block',

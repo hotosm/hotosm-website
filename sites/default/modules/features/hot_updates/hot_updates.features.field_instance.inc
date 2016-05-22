@@ -56,7 +56,7 @@ function hot_updates_field_default_field_instances() {
         'module' => 'text',
         'settings' => array(),
         'type' => 'text_default',
-        'weight' => 1,
+        'weight' => 2,
       ),
       'teaser' => array(
         'label' => 'hidden',
@@ -93,18 +93,14 @@ function hot_updates_field_default_field_instances() {
   $field_instances['node-update-field_images'] = array(
     'bundle' => 'update',
     'deleted' => 0,
-    'description' => 'You can upload several images at once.
+    'description' => 'You can upload several images at once. 
 Then use the <em>Insert</em> button to place them in the text.',
     'display' => array(
       'default' => array(
-        'label' => 'hidden',
-        'module' => 'image',
-        'settings' => array(
-          'image_link' => '',
-          'image_style' => 'banner',
-        ),
-        'type' => 'image',
-        'weight' => 0,
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 13,
       ),
       'teaser' => array(
         'label' => 'above',
@@ -136,23 +132,24 @@ Then use the <em>Insert</em> button to place them in the text.',
         'insert' => 1,
         'insert_absolute' => 0,
         'insert_class' => '',
-        'insert_default' => 'image_normal',
+        'insert_default' => 'image_medium',
         'insert_styles' => array(
           'auto' => 'auto',
           'icon_link' => 0,
           'image' => 'image',
           'image_banner' => 0,
-          'image_big' => 'image_big',
-          'image_large' => 0,
-          'image_medium' => 0,
+          'image_big' => 0,
+          'image_fixed_height' => 0,
+          'image_large' => 'image_large',
+          'image_medium' => 'image_medium',
           'image_medium_square' => 0,
-          'image_normal' => 'image_normal',
+          'image_normal' => 0,
           'image_small_square' => 0,
-          'image_thumbnail' => 0,
+          'image_thumbnail' => 'image_thumbnail',
           'link' => 0,
         ),
         'insert_width' => '',
-        'preview_image_style' => 'medium',
+        'preview_image_style' => 'thumbnail',
         'progress_indicator' => 'throbber',
       ),
       'type' => 'image_miw',
@@ -229,10 +226,10 @@ Then use the <em>Insert</em> button to place them in the text.',
     'description' => '',
     'display' => array(
       'default' => array(
-        'label' => 'above',
+        'label' => 'inline',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 4,
+        'weight' => 0,
       ),
       'full' => array(
         'label' => 'inline',
@@ -297,9 +294,10 @@ Then use the <em>Insert</em> button to place them in the text.',
     'display' => array(
       'default' => array(
         'label' => 'above',
+        'module' => 'node_reference',
         'settings' => array(),
-        'type' => 'hidden',
-        'weight' => 5,
+        'type' => 'node_reference_default',
+        'weight' => 15,
       ),
       'teaser' => array(
         'label' => 'above',
@@ -336,7 +334,7 @@ Then use the <em>Insert</em> button to place them in the text.',
         'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 15,
+        'weight' => 12,
       ),
       'teaser' => array(
         'label' => 'above',
@@ -375,7 +373,7 @@ Then use the <em>Insert</em> button to place them in the text.',
         'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 16,
+        'weight' => 14,
       ),
       'teaser' => array(
         'label' => 'above',
@@ -419,7 +417,7 @@ Use the <em>Insert</em> button to place a link to the file in the text.',
         'module' => 'file',
         'settings' => array(),
         'type' => 'file_table',
-        'weight' => 2,
+        'weight' => 3,
       ),
       'full' => array(
         'label' => 'hidden',
@@ -500,7 +498,7 @@ Use the <em>Insert</em> button to place a link to the file in the text.',
   t('Use this to attach <strong>documents</strong> - any images can be uploaded with the <em>Images field</em> above.
 Use the <em>Insert</em> button to place a link to the file in the text.');
   t('Working group');
-  t('You can upload several images at once.
+  t('You can upload several images at once. 
 Then use the <em>Insert</em> button to place them in the text.');
 
   return $field_instances;

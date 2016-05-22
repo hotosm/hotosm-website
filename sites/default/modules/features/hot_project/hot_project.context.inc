@@ -32,20 +32,8 @@ function hot_project_context_default_contexts() {
         'views-updates-updates_project_block' => array(
           'module' => 'views',
           'delta' => 'updates-updates_project_block',
-          'region' => 'content',
-          'weight' => '10',
-        ),
-        'views-project_ol_map-block_1' => array(
-          'module' => 'views',
-          'delta' => 'project_ol_map-block_1',
-          'region' => 'sidebar',
+          'region' => 'follow',
           'weight' => '-10',
-        ),
-        'views-project_ol_map-block_2' => array(
-          'module' => 'views',
-          'delta' => 'project_ol_map-block_2',
-          'region' => 'sidebar',
-          'weight' => '-9',
         ),
       ),
     ),

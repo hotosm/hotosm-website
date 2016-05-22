@@ -115,7 +115,7 @@ function hot_project_field_default_field_instances() {
         'summary_rows' => 5,
       ),
       'type' => 'text_textarea_with_summary',
-      'weight' => 8,
+      'weight' => 7,
     ),
   );
 
@@ -231,7 +231,7 @@ function hot_project_field_default_field_instances() {
         'openlayers_cck_preset_map' => 'default',
       ),
       'type' => 'geofield_openlayers',
-      'weight' => 11,
+      'weight' => 10,
     ),
     'widget_type' => 'geofield_wkt',
   );
@@ -249,10 +249,10 @@ function hot_project_field_default_field_instances() {
     'description' => '',
     'display' => array(
       'default' => array(
-        'label' => 'above',
+        'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 6,
+        'weight' => 9,
       ),
       'feature' => array(
         'label' => 'above',
@@ -333,7 +333,7 @@ function hot_project_field_default_field_instances() {
         'size' => 60,
       ),
       'type' => 'text_textarea',
-      'weight' => 6,
+      'weight' => 5,
     ),
     'widget_type' => 'text_textarea',
   );
@@ -360,7 +360,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'image',
         'settings' => array(
           'image_link' => 'content',
-          'image_style' => 'banner',
+          'image_style' => 'featured_project',
         ),
         'type' => 'image',
         'weight' => 0,
@@ -376,7 +376,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'image',
         'settings' => array(
           'image_link' => 'content',
-          'image_style' => 'normal',
+          'image_style' => 'project_landing',
         ),
         'type' => 'image',
         'weight' => 0,
@@ -386,7 +386,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'image',
         'settings' => array(
           'image_link' => 'content',
-          'image_style' => 'small_square',
+          'image_style' => 'mini_project_image',
         ),
         'type' => 'image',
         'weight' => 0,
@@ -458,11 +458,11 @@ function hot_project_field_default_field_instances() {
           'link' => 0,
         ),
         'insert_width' => '',
-        'preview_image_style' => 'medium',
+        'preview_image_style' => 'thumbnail',
         'progress_indicator' => 'bar',
       ),
       'type' => 'image_image',
-      'weight' => 9,
+      'weight' => 8,
     ),
     'widget_type' => 'imagefield_widget',
   );
@@ -554,10 +554,10 @@ function hot_project_field_default_field_instances() {
     'description' => '',
     'display' => array(
       'default' => array(
-        'label' => 'above',
+        'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 8,
+        'weight' => 7,
       ),
       'feature' => array(
         'label' => 'above',
@@ -652,7 +652,7 @@ function hot_project_field_default_field_instances() {
         'default_value_php' => NULL,
       ),
       'type' => 'link_field',
-      'weight' => 7,
+      'weight' => 6,
     ),
     'widget_type' => 'link',
   );
@@ -668,7 +668,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 5,
+        'weight' => 4,
       ),
       'feature' => array(
         'label' => 'above',
@@ -769,7 +769,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 7,
+        'weight' => 5,
       ),
       'feature' => array(
         'label' => 'above',
@@ -894,7 +894,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 4,
+        'weight' => 8,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -979,7 +979,7 @@ function hot_project_field_default_field_instances() {
         'progress_indicator' => 'throbber',
       ),
       'type' => 'file_generic',
-      'weight' => 10,
+      'weight' => 9,
     ),
   );
 

@@ -4,6 +4,14 @@
 
     .views-field-field-icon .field-content {
       text-align: center;
+      height: 100px;
+      overflow: hidden;
+
+      img {
+        height: 90px;
+        width: auto;
+        max-width: 100%;
+      }
     }
   }
 }

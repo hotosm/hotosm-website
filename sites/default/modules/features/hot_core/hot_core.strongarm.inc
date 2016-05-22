@@ -564,10 +564,7 @@ function hot_core_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'module_filter_recent_modules';
-  $strongarm->value = array(
-    'mailchimp' => 1460381349,
-    'mailchimp_signup' => 1460381349,
-  );
+  $strongarm->value = array();
   $export['module_filter_recent_modules'] = $strongarm;
 
   $strongarm = new stdClass();
@@ -787,7 +784,7 @@ function hot_core_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'page_compression';
-  $strongarm->value = 1;
+  $strongarm->value = 0;
   $export['page_compression'] = $strongarm;
 
   $strongarm = new stdClass();
@@ -1649,40 +1646,6 @@ function hot_core_strongarm() {
     'favicon_path' => 'sites/default/themes/hot_theme/favicon.ico',
     'favicon_upload' => '',
     'omega_enable_warning' => TRUE,
-    'omega_toggle_extension_compatibility' => 1,
-    'omega_conditional_classes_html' => 1,
-    'omega_apple_touch' => 1,
-    'omega_cleartype' => 1,
-    'omega_handheld_friendly' => 1,
-    'omega_mobile_optimized' => 1,
-    'omega_viewport' => 1,
-    'omega_viewport_initial_scale' => '_default',
-    'omega_viewport_user_scaleable' => 1,
-    'omega_viewport_minimum_scale' => '_default',
-    'omega_viewport_maximum_scale' => '_default',
-    'omega_chrome_edge' => 1,
-    'omega_internet_explorer_support' => '_none',
-    'omega_toggle_extension_development' => 1,
-    'omega_enable_export_reminder' => 1,
-    'omega_rebuild_theme_registry' => 1,
-    'omega_rebuild_aggregates' => 1,
-    'omega_browser_width_indicator' => 0,
-    'omega_livereload' => 1,
-    'omega_livereload_script' => 'http://localhost:35729/livereload.js',
-    'omega_livereload_host' => 'localhost',
-    'omega_livereload_port' => '35729',
-    'omega_demo_regions' => 0,
-    'omega_demo_regions_list' => array(
-      'branding' => 'branding',
-      'header' => 'header',
-      'navigation' => 'navigation',
-      'highlighted' => 'highlighted',
-      'help' => 'help',
-      'content' => 'content',
-      'sidebar_first' => 'sidebar_first',
-      'sidebar_second' => 'sidebar_second',
-      'footer' => 'footer',
-    ),
     'omega_toggle_extension_assets' => 1,
     'omega_js_footer' => array(),
     'omega_css_exclude' => array(),
@@ -1708,6 +1671,40 @@ function hot_core_strongarm() {
     ),
     'omega_toggle_extension_layouts' => 1,
     'omega_layout' => 'hot-layout',
+    'omega_toggle_extension_development' => 0,
+    'omega_enable_export_reminder' => 1,
+    'omega_rebuild_theme_registry' => 1,
+    'omega_rebuild_aggregates' => 1,
+    'omega_browser_width_indicator' => 0,
+    'omega_livereload' => 1,
+    'omega_livereload_script' => 'http://localhost:35729/livereload.js',
+    'omega_livereload_host' => 'localhost',
+    'omega_livereload_port' => '35729',
+    'omega_demo_regions' => 0,
+    'omega_demo_regions_list' => array(
+      'branding' => 'branding',
+      'header' => 'header',
+      'navigation' => 'navigation',
+      'highlighted' => 'highlighted',
+      'help' => 'help',
+      'content' => 'content',
+      'sidebar_first' => 'sidebar_first',
+      'sidebar_second' => 'sidebar_second',
+      'footer' => 'footer',
+    ),
+    'omega_toggle_extension_compatibility' => 1,
+    'omega_conditional_classes_html' => 1,
+    'omega_apple_touch' => 1,
+    'omega_cleartype' => 1,
+    'omega_handheld_friendly' => 1,
+    'omega_mobile_optimized' => 1,
+    'omega_viewport' => 1,
+    'omega_viewport_initial_scale' => '_default',
+    'omega_viewport_user_scaleable' => 1,
+    'omega_viewport_minimum_scale' => '_default',
+    'omega_viewport_maximum_scale' => '_default',
+    'omega_chrome_edge' => 1,
+    'omega_internet_explorer_support' => '_none',
   );
   $export['theme_hot_theme_settings'] = $strongarm;
 

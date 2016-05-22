@@ -39,7 +39,7 @@ function hot_partnerships_views_default_views() {
   $handler->display->display_options['header']['area']['empty'] = TRUE;
   $handler->display->display_options['header']['area']['content'] = 'HOT assists international organizations as well as governments and first responders with mapping needs during disaster. Additionally, HOT participates in various long-term projects with our partners.';
   $handler->display->display_options['header']['area']['format'] = '1';
-  /* Field: Content: Logo */
+  /* Field: Content: Icon */
   $handler->display->display_options['fields']['field_icon']['id'] = 'field_icon';
   $handler->display->display_options['fields']['field_icon']['table'] = 'field_data_field_icon';
   $handler->display->display_options['fields']['field_icon']['field'] = 'field_icon';
@@ -47,7 +47,7 @@ function hot_partnerships_views_default_views() {
   $handler->display->display_options['fields']['field_icon']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['field_icon']['click_sort_column'] = 'fid';
   $handler->display->display_options['fields']['field_icon']['settings'] = array(
-    'image_style' => 'normal',
+    'image_style' => 'fixed_height',
     'image_link' => '',
   );
   /* Field: Content: Title */
@@ -74,7 +74,6 @@ function hot_partnerships_views_default_views() {
   $handler->display->display_options['sorts']['title']['id'] = 'title';
   $handler->display->display_options['sorts']['title']['table'] = 'node';
   $handler->display->display_options['sorts']['title']['field'] = 'title';
-  $handler->display->display_options['sorts']['title']['order'] = 'DESC';
   /* Filter criterion: Content: Published */
   $handler->display->display_options['filters']['status']['id'] = 'status';
   $handler->display->display_options['filters']['status']['table'] = 'node';
