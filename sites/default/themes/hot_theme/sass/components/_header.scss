@@ -1,0 +1,84 @@
+header {
+  .l-branding {
+    margin: 30px 0 20px 0;
+    @include grid-span(9,1);
+
+    @include breakpoint($desktop) {
+      @include grid-span(6,1);
+    }
+  }
+
+  .l-region--header {
+    @include grid-span (3,10);
+    margin-top: 30px;
+
+    @include breakpoint($desktop) {
+      @include grid-span (6,6);
+      margin-top: 30px;
+    }
+  }
+
+  .site-name {
+    display: none;
+  }
+
+
+  #block-lang-dropdown-language {
+    right: 10%;
+    top: 123px;
+    z-index: 999;
+    position: absolute;
+
+
+    @include breakpoint($desktop) {
+      position: relative;
+      top: 0;
+      right: 0;
+
+      @include grid-span (2,10);
+    }
+
+    h2 {
+      display: none;
+    }
+    select {
+      width: 40px !important;
+      height: 25px;
+      padding: 0 0 0 4px;
+      background:$middlegrey url('/sites/default/themes/hot_theme/images/dropdown.png') no-repeat 25px 10px;
+      @include breakpoint($desktop) {
+        width: 35px !important;
+        height: 40px;
+        padding: 0 0 12px 8px;
+        background:$lightgrey url('/sites/default/themes/hot_theme/images/dropdown.png') no-repeat center 24px;
+      }
+      border:none;
+      color:$black;
+      font-size: $font-size-smaller;
+      text-transform: uppercase;
+      font-weight: bold;
+      cursor:pointer;
+      outline:none;
+      display: inline-block;
+      -webkit-appearance:none;
+      -moz-appearance:none;
+      appearance:none;
+    }
+  }
+
+  //   Social media block
+  #block-block-3 {
+    //@include grid-span (1,11);
+    li {
+      display: inline;
+      margin: 0;
+    }
+
+    @include breakpoint($desktop) {
+      @include grid-span (6,5);
+      li {
+        margin: 0 6px;
+      }
+    }
+  }
+}

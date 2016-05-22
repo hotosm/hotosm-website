@@ -56,7 +56,7 @@ function hot_updates_field_default_field_instances() {
         'module' => 'text',
         'settings' => array(),
         'type' => 'text_default',
-        'weight' => 2,
+        'weight' => 1,
       ),
       'teaser' => array(
         'label' => 'hidden',
@@ -93,14 +93,18 @@ function hot_updates_field_default_field_instances() {
   $field_instances['node-update-field_images'] = array(
     'bundle' => 'update',
     'deleted' => 0,
-    'description' => 'You can upload several images at once. 
+    'description' => 'You can upload several images at once.
 Then use the <em>Insert</em> button to place them in the text.',
     'display' => array(
       'default' => array(
-        'label' => 'above',
-        'settings' => array(),
-        'type' => 'hidden',
-        'weight' => 13,
+        'label' => 'hidden',
+        'module' => 'image',
+        'settings' => array(
+          'image_link' => '',
+          'image_style' => 'banner',
+        ),
+        'type' => 'image',
+        'weight' => 0,
       ),
       'teaser' => array(
         'label' => 'above',
@@ -116,7 +120,7 @@ Then use the <em>Insert</em> button to place them in the text.',
     'settings' => array(
       'alt_field' => 1,
       'default_image' => 0,
-      'entity_translation_sync' => FALSE,
+      'entity_translation_sync' => 0,
       'file_directory' => '',
       'file_extensions' => 'png gif jpg jpeg',
       'max_filesize' => '',
@@ -132,27 +136,88 @@ Then use the <em>Insert</em> button to place them in the text.',
         'insert' => 1,
         'insert_absolute' => 0,
         'insert_class' => '',
-        'insert_default' => 'image_medium',
+        'insert_default' => 'image_normal',
         'insert_styles' => array(
           'auto' => 'auto',
           'icon_link' => 0,
           'image' => 'image',
-          'image_featured_project' => 0,
-          'image_large' => 'image_large',
-          'image_medium' => 'image_medium',
-          'image_mini_project_image' => 0,
-          'image_project_landing' => 0,
-          'image_project_page' => 0,
-          'image_thumbnail' => 'image_thumbnail',
-          'image_update_content' => 0,
+          'image_banner' => 0,
+          'image_big' => 'image_big',
+          'image_large' => 0,
+          'image_medium' => 0,
+          'image_medium_square' => 0,
+          'image_normal' => 'image_normal',
+          'image_small_square' => 0,
+          'image_thumbnail' => 0,
           'link' => 0,
         ),
         'insert_width' => '',
-        'preview_image_style' => 'thumbnail',
+        'preview_image_style' => 'medium',
         'progress_indicator' => 'throbber',
       ),
       'type' => 'image_miw',
       'weight' => 7,
+    ),
+  );
+
+  // Exported field_instance: 'node-update-field_information'.
+  $field_instances['node-update-field_information'] = array(
+    'bundle' => 'update',
+    'default_value' => array(
+      0 => array(
+        'vname' => 'update|block',
+        'vargs' => '',
+      ),
+    ),
+    'deleted' => 0,
+    'description' => '',
+    'display' => array(
+      'default' => array(
+        'label' => 'hidden',
+        'module' => 'viewfield',
+        'settings' => array(),
+        'type' => 'viewfield_default',
+        'weight' => 17,
+      ),
+      'teaser' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+    ),
+    'entity_type' => 'node',
+    'field_name' => 'field_information',
+    'label' => 'Information',
+    'required' => 0,
+    'settings' => array(
+      'allowed_views' => array(
+        'User' => 0,
+        'archive' => 0,
+        'jobs' => 0,
+        'leadership' => 0,
+        'partnerships' => 0,
+        'project' => 0,
+        'project_ol_map' => 0,
+        'staff_contractors' => 0,
+        'update' => 'update',
+        'updates' => 0,
+        'user_admin' => 0,
+        'user_lists' => 0,
+        'user_profile' => 0,
+        'videos' => 0,
+        'working_group' => 0,
+      ),
+      'entity_translation_sync' => FALSE,
+      'force_default' => 1,
+      'user_register_form' => FALSE,
+    ),
+    'widget' => array(
+      'active' => 0,
+      'module' => 'viewfield',
+      'settings' => array(),
+      'type' => 'viewfield_select',
+      'weight' => 10,
     ),
   );
 
@@ -164,10 +229,10 @@ Then use the <em>Insert</em> button to place them in the text.',
     'description' => '',
     'display' => array(
       'default' => array(
-        'label' => 'inline',
+        'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 0,
+        'weight' => 4,
       ),
       'full' => array(
         'label' => 'inline',
@@ -232,10 +297,9 @@ Then use the <em>Insert</em> button to place them in the text.',
     'display' => array(
       'default' => array(
         'label' => 'above',
-        'module' => 'node_reference',
         'settings' => array(),
-        'type' => 'node_reference_default',
-        'weight' => 15,
+        'type' => 'hidden',
+        'weight' => 5,
       ),
       'teaser' => array(
         'label' => 'above',
@@ -272,7 +336,7 @@ Then use the <em>Insert</em> button to place them in the text.',
         'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 12,
+        'weight' => 15,
       ),
       'teaser' => array(
         'label' => 'above',
@@ -311,7 +375,7 @@ Then use the <em>Insert</em> button to place them in the text.',
         'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 14,
+        'weight' => 16,
       ),
       'teaser' => array(
         'label' => 'above',
@@ -355,7 +419,7 @@ Use the <em>Insert</em> button to place a link to the file in the text.',
         'module' => 'file',
         'settings' => array(),
         'type' => 'file_table',
-        'weight' => 3,
+        'weight' => 2,
       ),
       'full' => array(
         'label' => 'hidden',
@@ -429,13 +493,14 @@ Use the <em>Insert</em> button to place a link to the file in the text.',
   t('Comment');
   t('Documents');
   t('Images');
+  t('Information');
   t('Related Project');
   t('Title');
   t('Update Tags');
   t('Use this to attach <strong>documents</strong> - any images can be uploaded with the <em>Images field</em> above.
 Use the <em>Insert</em> button to place a link to the file in the text.');
   t('Working group');
-  t('You can upload several images at once. 
+  t('You can upload several images at once.
 Then use the <em>Insert</em> button to place them in the text.');
 
   return $field_instances;

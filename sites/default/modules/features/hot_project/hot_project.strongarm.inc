@@ -119,13 +119,13 @@ function hot_project_strongarm() {
           'weight' => '1',
         ),
         'path' => array(
-          'weight' => '11',
+          'weight' => '12',
         ),
         'language' => array(
-          'weight' => '3',
+          'weight' => '4',
         ),
         'flag' => array(
-          'weight' => '4',
+          'weight' => '5',
         ),
       ),
       'display' => array(
@@ -153,7 +153,7 @@ function hot_project_strongarm() {
         ),
         'flag_featured_project' => array(
           'default' => array(
-            'weight' => '10',
+            'weight' => '9',
             'visible' => FALSE,
           ),
           'title' => array(
@@ -266,8 +266,15 @@ function hot_project_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'pathauto_node_project_und_pattern';
-  $strongarm->value = '';
+  $strongarm->value = 'project/[node:title]';
   $export['pathauto_node_project_und_pattern'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'pathauto_taxonomy_term_project_type_pattern';
+  $strongarm->value = '';
+  $export['pathauto_taxonomy_term_project_type_pattern'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */

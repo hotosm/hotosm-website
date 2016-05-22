@@ -10,6 +10,40 @@
 function hot_project_field_default_field_instances() {
   $field_instances = array();
 
+  // Exported field_instance: 'comment-comment_node_project-comment_body'.
+  $field_instances['comment-comment_node_project-comment_body'] = array(
+    'bundle' => 'comment_node_project',
+    'default_value' => NULL,
+    'deleted' => 0,
+    'description' => '',
+    'display' => array(
+      'default' => array(
+        'label' => 'hidden',
+        'module' => 'text',
+        'settings' => array(),
+        'type' => 'text_default',
+        'weight' => 0,
+      ),
+    ),
+    'entity_type' => 'comment',
+    'field_name' => 'comment_body',
+    'label' => 'Comment',
+    'required' => TRUE,
+    'settings' => array(
+      'entity_translation_sync' => FALSE,
+      'text_processing' => 1,
+      'user_register_form' => FALSE,
+    ),
+    'widget' => array(
+      'module' => 'text',
+      'settings' => array(
+        'rows' => 5,
+      ),
+      'type' => 'text_textarea',
+      'weight' => 0,
+    ),
+  );
+
   // Exported field_instance: 'node-project-body'.
   $field_instances['node-project-body'] = array(
     'bundle' => 'project',
@@ -22,7 +56,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'text',
         'settings' => array(),
         'type' => 'text_default',
-        'weight' => 1,
+        'weight' => 2,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -81,7 +115,7 @@ function hot_project_field_default_field_instances() {
         'summary_rows' => 5,
       ),
       'type' => 'text_textarea_with_summary',
-      'weight' => 7,
+      'weight' => 8,
     ),
   );
 
@@ -100,7 +134,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 13,
+        'weight' => 10,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -197,7 +231,7 @@ function hot_project_field_default_field_instances() {
         'openlayers_cck_preset_map' => 'default',
       ),
       'type' => 'geofield_openlayers',
-      'weight' => 10,
+      'weight' => 11,
     ),
     'widget_type' => 'geofield_wkt',
   );
@@ -215,10 +249,10 @@ function hot_project_field_default_field_instances() {
     'description' => '',
     'display' => array(
       'default' => array(
-        'label' => 'hidden',
+        'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 12,
+        'weight' => 6,
       ),
       'feature' => array(
         'label' => 'above',
@@ -299,7 +333,7 @@ function hot_project_field_default_field_instances() {
         'size' => 60,
       ),
       'type' => 'text_textarea',
-      'weight' => 5,
+      'weight' => 6,
     ),
     'widget_type' => 'text_textarea',
   );
@@ -313,16 +347,20 @@ function hot_project_field_default_field_instances() {
     'display' => array(
       'default' => array(
         'label' => 'hidden',
-        'settings' => array(),
-        'type' => 'hidden',
-        'weight' => 10,
+        'module' => 'image',
+        'settings' => array(
+          'image_link' => '',
+          'image_style' => 'banner',
+        ),
+        'type' => 'image',
+        'weight' => 0,
       ),
       'feature' => array(
         'label' => 'hidden',
         'module' => 'image',
         'settings' => array(
           'image_link' => 'content',
-          'image_style' => 'featured_project',
+          'image_style' => 'banner',
         ),
         'type' => 'image',
         'weight' => 0,
@@ -338,7 +376,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'image',
         'settings' => array(
           'image_link' => 'content',
-          'image_style' => 'project_landing',
+          'image_style' => 'normal',
         ),
         'type' => 'image',
         'weight' => 0,
@@ -348,7 +386,7 @@ function hot_project_field_default_field_instances() {
         'module' => 'image',
         'settings' => array(
           'image_link' => 'content',
-          'image_style' => 'mini_project_image',
+          'image_style' => 'small_square',
         ),
         'type' => 'image',
         'weight' => 0,
@@ -420,13 +458,87 @@ function hot_project_field_default_field_instances() {
           'link' => 0,
         ),
         'insert_width' => '',
-        'preview_image_style' => 'thumbnail',
+        'preview_image_style' => 'medium',
         'progress_indicator' => 'bar',
       ),
       'type' => 'image_image',
-      'weight' => 8,
+      'weight' => 9,
     ),
     'widget_type' => 'imagefield_widget',
+  );
+
+  // Exported field_instance: 'node-project-field_information'.
+  $field_instances['node-project-field_information'] = array(
+    'bundle' => 'project',
+    'default_value' => array(
+      0 => array(
+        'vname' => 'project_information|block',
+        'vargs' => '',
+      ),
+    ),
+    'deleted' => 0,
+    'description' => '',
+    'display' => array(
+      'default' => array(
+        'label' => 'hidden',
+        'module' => 'viewfield',
+        'settings' => array(),
+        'type' => 'viewfield_default',
+        'weight' => 3,
+      ),
+      'feature' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+      'list' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+      'teaser' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+    ),
+    'entity_type' => 'node',
+    'field_name' => 'field_information',
+    'label' => 'Information',
+    'required' => 0,
+    'settings' => array(
+      'allowed_views' => array(
+        'User' => 0,
+        'archive' => 0,
+        'jobs' => 0,
+        'leadership' => 0,
+        'partnerships' => 0,
+        'project' => 'project',
+        'project_information' => 0,
+        'project_ol_map' => 0,
+        'staff_contractors' => 0,
+        'update' => 0,
+        'updates' => 0,
+        'user_admin' => 0,
+        'user_lists' => 0,
+        'user_profile' => 0,
+        'videos' => 0,
+        'working_group' => 0,
+      ),
+      'entity_translation_sync' => FALSE,
+      'force_default' => 1,
+      'user_register_form' => FALSE,
+    ),
+    'widget' => array(
+      'active' => 0,
+      'module' => 'viewfield',
+      'settings' => array(),
+      'type' => 'viewfield_select',
+      'weight' => 14,
+    ),
   );
 
   // Exported field_instance: 'node-project-field_link'.
@@ -442,10 +554,10 @@ function hot_project_field_default_field_instances() {
     'description' => '',
     'display' => array(
       'default' => array(
-        'label' => 'hidden',
+        'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 9,
+        'weight' => 8,
       ),
       'feature' => array(
         'label' => 'above',
@@ -540,7 +652,7 @@ function hot_project_field_default_field_instances() {
         'default_value_php' => NULL,
       ),
       'type' => 'link_field',
-      'weight' => 6,
+      'weight' => 7,
     ),
     'widget_type' => 'link',
   );
@@ -554,10 +666,9 @@ function hot_project_field_default_field_instances() {
     'display' => array(
       'default' => array(
         'label' => 'above',
-        'module' => 'taxonomy',
         'settings' => array(),
-        'type' => 'taxonomy_term_reference_plain',
-        'weight' => 16,
+        'type' => 'hidden',
+        'weight' => 5,
       ),
       'feature' => array(
         'label' => 'above',
@@ -595,6 +706,59 @@ function hot_project_field_default_field_instances() {
     ),
   );
 
+  // Exported field_instance: 'node-project-field_subtitle'.
+  $field_instances['node-project-field_subtitle'] = array(
+    'bundle' => 'project',
+    'default_value' => NULL,
+    'deleted' => 0,
+    'description' => '',
+    'display' => array(
+      'default' => array(
+        'label' => 'hidden',
+        'module' => 'text',
+        'settings' => array(),
+        'type' => 'text_default',
+        'weight' => 1,
+      ),
+      'feature' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+      'list' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+      'teaser' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+    ),
+    'entity_type' => 'node',
+    'field_name' => 'field_subtitle',
+    'label' => 'Subtitle',
+    'required' => 0,
+    'settings' => array(
+      'entity_translation_sync' => FALSE,
+      'text_processing' => 0,
+      'user_register_form' => FALSE,
+    ),
+    'widget' => array(
+      'active' => 1,
+      'module' => 'text',
+      'settings' => array(
+        'size' => 60,
+      ),
+      'type' => 'text_textfield',
+      'weight' => 3,
+    ),
+  );
+
   // Exported field_instance: 'node-project-field_timespan'.
   $field_instances['node-project-field_timespan'] = array(
     'bundle' => 'project',
@@ -603,17 +767,9 @@ function hot_project_field_default_field_instances() {
     'display' => array(
       'default' => array(
         'label' => 'above',
-        'module' => 'date',
-        'settings' => array(
-          'format_type' => 'long',
-          'fromto' => 'both',
-          'multiple_from' => '',
-          'multiple_number' => '',
-          'multiple_to' => '',
-          'show_remaining_days' => FALSE,
-        ),
-        'type' => 'date_default',
-        'weight' => 15,
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 7,
       ),
       'feature' => array(
         'label' => 'above',
@@ -673,7 +829,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 14,
+        'weight' => 11,
       ),
       'feature' => array(
         'label' => 'above',
@@ -738,7 +894,7 @@ function hot_project_field_default_field_instances() {
         'label' => 'hidden',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 11,
+        'weight' => 4,
       ),
       'feature' => array(
         'label' => 'hidden',
@@ -823,7 +979,7 @@ function hot_project_field_default_field_instances() {
         'progress_indicator' => 'throbber',
       ),
       'type' => 'file_generic',
-      'weight' => 9,
+      'weight' => 10,
     ),
   );
 
@@ -831,11 +987,14 @@ function hot_project_field_default_field_instances() {
   // Included for use with string extractors like potx.
   t('Body');
   t('BoundingBox');
+  t('Comment');
   t('Contact');
   t('Documents');
+  t('Information');
   t('Project Image');
   t('Project Page');
   t('Project type');
+  t('Subtitle');
   t('The main project image that is shown in features and lists.');
   t('Timespan');
   t('Title');

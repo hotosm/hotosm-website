@@ -155,7 +155,7 @@ function hot_working_groups_field_default_field_instances() {
           'link' => 0,
         ),
         'insert_width' => '',
-        'preview_image_style' => 'thumbnail',
+        'preview_image_style' => 'medium',
         'progress_indicator' => 'throbber',
       ),
       'type' => 'image_image',

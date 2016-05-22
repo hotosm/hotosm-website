@@ -1,0 +1,123 @@
+// Page side margins
+.l-header,
+.l-main {
+  margin: 0 auto;
+  width: $page-width;
+  clear: both;
+  max-width: $page-max-width;
+}
+.l-navigation,
+.l-highlighted {
+  clear: both;
+  width: 100%;
+}
+.l-region--navigation,
+.l-navigation-toggle,
+#block-block-1,
+.l-region--footer {
+  margin: 0 auto;
+  width: $page-width;
+  max-width: $page-max-width;
+}
+
+.messages {
+  margin: 10px auto;
+  width: $page-width;
+  max-width: $page-max-width;
+}
+
+// Two columns layout
+.l-main .hot-two-column-layout .view-content {
+
+  .views-field-field-images,
+  .views-field-field-image {
+    height: 205px;
+  }
+
+  @include breakpoint($desktop) {
+    div.views-row:nth-child(odd) {
+      @include isolation-span(6,1,'both');
+    }
+    div.views-row:nth-child(even) {
+      @include grid-span(6,7);
+    }
+  }
+}
+
+
+// Three columns layout
+.hot-three-column-layout .l-main,
+.page-get-involved-disaster-mapping .l-main {
+  .view-content {
+    .views-field-field-images,
+    .views-field-field-image {
+      height: 180px;
+
+      @include breakpoint($desktop) {
+        height: 125px;
+      }
+    }
+  }
+
+  @include breakpoint($desktop) {
+
+    .panel-display {
+      .pane-project-panel-pane-projects-latest-disaster {
+        @include isolation-span(4,1,'both');
+      }
+      .pane-project-panel-pane-projects-latest-community {
+        @include grid-span(4,5);
+      }
+      .pane-project-panel-pane-projects-latest-technical{
+        @include grid-span(4,9);
+      }
+    }
+    .pane-project-panel-pane-projects,
+    .pane-project-panel-pane-projects-old {
+      @include isolation-span(12,1,'both');
+
+      li.views-row:nth-child(3n+1) {
+        @include isolation-span(4,1,'both');
+      }
+      li.views-row:nth-child(3n+2) {
+        @include grid-span(4,5);
+      }
+      li.views-row:nth-child(3n+3) {
+        @include grid-span(4,9);
+      }
+    }
+  }
+}
+
+// General views stuff
+.l-main {
+  .view-header {
+    margin-bottom: 50px;
+  }
+
+  .views-row {
+    margin-bottom: 50px;
+  }
+
+  .panel-pane .view-header {
+    margin-bottom: 25px;
+  }
+
+  .view-content .views-field-field-images,
+  .view-content .views-field-field-image {
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+      margin: auto;
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+    };
+  }
+}

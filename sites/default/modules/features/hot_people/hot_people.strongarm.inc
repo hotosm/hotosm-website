@@ -27,6 +27,13 @@ function hot_people_strongarm() {
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
+  $strongarm->name = 'pathauto_taxonomy_term_hot_staff_pattern';
+  $strongarm->value = '';
+  $export['pathauto_taxonomy_term_hot_staff_pattern'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
   $strongarm->name = 'user_admin_role';
   $strongarm->value = '0';
   $export['user_admin_role'] = $strongarm;
@@ -112,7 +119,7 @@ This is a one-time login, so it can be used only once.
 
 After logging in, you will be redirected to [user:edit-url] so you can change your password.
 
-Your user name is [user:name], but you can change it if you prefer a different one.  
+Your user name is [user:name], but you can change it if you prefer a different one.
 
 If you have any questions or concerns, please email Kristen, HOT\'s administrator at kegermeier@hotosm.org
 
@@ -135,7 +142,7 @@ If you have any questions or concerns, please email Kristen, HOT\'s administrato
 Thank you for registering at [site:name]. You may now log in to [site:login-url] using the following username and password:
 
 username: [user:name]
-password: 
+password:
 
 You may also log in by clicking on this link or copying and pasting it in your browser:
 
@@ -275,7 +282,7 @@ Your account on [site:name] has been deleted.';
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'user_picture_default';
-  $strongarm->value = 'sites/default/themes/hot/images/avatar.png';
+  $strongarm->value = 'sites/default/themes/hot_theme/images/avatar.png';
   $export['user_picture_default'] = $strongarm;
 
   $strongarm = new stdClass();

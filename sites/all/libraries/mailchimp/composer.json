@@ -1,7 +1,7 @@
 {
     "name": "mailchimp/mailchimp",
     "type": "library",
-    "version": "2.0.6",
+    "version": "2.0.4",
     "description": "API client library for the MailChimp bulk email as a service platform",
     "keywords": ["email", "api"],
     "homepage": "https://bitbucket.org/mailchimp/mailchimp-api-php",
@@ -9,9 +9,6 @@
     "authors": [{"name": "MailChimp Devs", "email": "api@mailchimp.com", "homepage": "http://mailchimp.com", "role": "Developer"}],
     "require": {
         "php": ">=5.2.0"
-    },
-    "require-dev": {
-        "apigen/apigen": "dev-master"
     },
     "autoload": {
         "psr-0": {

@@ -38,11 +38,23 @@ function hot_core_context_default_contexts() {
           'region' => 'highlighted',
           'weight' => '-9',
         ),
+        'block-6' => array(
+          'module' => 'block',
+          'delta' => '6',
+          'region' => 'content',
+          'weight' => '-10',
+        ),
         'views-updates-updates_all_block' => array(
           'module' => 'views',
           'delta' => 'updates-updates_all_block',
           'region' => 'content',
-          'weight' => '-10',
+          'weight' => '-9',
+        ),
+        'block-5' => array(
+          'module' => 'block',
+          'delta' => '5',
+          'region' => 'content',
+          'weight' => '-8',
         ),
       ),
     ),
@@ -62,23 +74,20 @@ function hot_core_context_default_contexts() {
   $context->description = '';
   $context->tag = 'information';
   $context->conditions = array(
-    'node' => array(
+    'path' => array(
       'values' => array(
-        'book' => 'book',
-      ),
-      'options' => array(
-        'node_form' => '1',
+        'get-involved' => 'get-involved',
       ),
     ),
   );
   $context->reactions = array(
     'block' => array(
       'blocks' => array(
-        'menu_block-hot_core-3' => array(
-          'module' => 'menu_block',
-          'delta' => 'hot_core-3',
-          'region' => 'sidebar',
-          'weight' => '-10',
+        'block-2' => array(
+          'module' => 'block',
+          'delta' => '2',
+          'region' => 'content',
+          'weight' => '2',
         ),
       ),
     ),
@@ -106,6 +115,12 @@ function hot_core_context_default_contexts() {
   $context->reactions = array(
     'block' => array(
       'blocks' => array(
+        'block-3' => array(
+          'module' => 'block',
+          'delta' => '3',
+          'region' => 'header',
+          'weight' => '-27',
+        ),
         'locale-language' => array(
           'module' => 'locale',
           'delta' => 'language',
@@ -115,26 +130,44 @@ function hot_core_context_default_contexts() {
         'menu_block-hot_core-1' => array(
           'module' => 'menu_block',
           'delta' => 'hot_core-1',
+          'region' => 'navigation',
+          'weight' => '-10',
+        ),
+        'mailchimp_signup-hot_newsletter' => array(
+          'module' => 'mailchimp_signup',
+          'delta' => 'hot_newsletter',
           'region' => 'footer',
           'weight' => '-10',
         ),
-        'block-2' => array(
+        'block-7' => array(
           'module' => 'block',
-          'delta' => '2',
+          'delta' => '7',
           'region' => 'footer',
           'weight' => '-9',
         ),
-        'block-3' => array(
+        'block-8' => array(
           'module' => 'block',
-          'delta' => '3',
+          'delta' => '8',
           'region' => 'footer',
           'weight' => '-8',
+        ),
+        'block-9' => array(
+          'module' => 'block',
+          'delta' => '9',
+          'region' => 'footer',
+          'weight' => '-7',
+        ),
+        'block-4' => array(
+          'module' => 'block',
+          'delta' => '4',
+          'region' => 'footer',
+          'weight' => '-6',
         ),
         'system-user-menu' => array(
           'module' => 'system',
           'delta' => 'user-menu',
           'region' => 'footer',
-          'weight' => '-7',
+          'weight' => '-5',
         ),
       ),
     ),

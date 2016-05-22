@@ -22,7 +22,6 @@ function hot_people_views_default_views() {
 
   /* Display: Master */
   $handler = $view->new_display('default', 'Master', 'default');
-  $handler->display->display_options['title'] = 'Our board';
   $handler->display->display_options['use_more_always'] = FALSE;
   $handler->display->display_options['access']['type'] = 'none';
   $handler->display->display_options['cache']['type'] = 'none';
@@ -190,7 +189,6 @@ function hot_people_views_default_views() {
   $handler->display->display_options['filters']['field_hot_staff_type_tid']['vocabulary'] = 'hot_staff';
   $translatables['leadership'] = array(
     t('Master'),
-    t('Our board'),
     t('more'),
     t('Apply'),
     t('Reset'),
@@ -221,12 +219,7 @@ function hot_people_views_default_views() {
   $handler = $view->new_display('default', 'Master', 'default');
   $handler->display->display_options['title'] = 'Volunteer leads';
   $handler->display->display_options['use_more_always'] = FALSE;
-  $handler->display->display_options['access']['type'] = 'role';
-  $handler->display->display_options['access']['role'] = array(
-    2 => '2',
-    4 => '4',
-    3 => '3',
-  );
+  $handler->display->display_options['access']['type'] = 'none';
   $handler->display->display_options['cache']['type'] = 'none';
   $handler->display->display_options['query']['type'] = 'views_query';
   $handler->display->display_options['exposed_form']['type'] = 'basic';
@@ -499,7 +492,7 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['picture']['label'] = 'Avatar';
   $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['picture']['link_photo_to_profile'] = FALSE;
-  $handler->display->display_options['fields']['picture']['image_style'] = 'mini_project_image';
+  $handler->display->display_options['fields']['picture']['image_style'] = 'small_square';
   /* Field: User: Name */
   $handler->display->display_options['fields']['name']['id'] = 'name';
   $handler->display->display_options['fields']['name']['table'] = 'users';
@@ -726,7 +719,7 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['picture']['label'] = '';
   $handler->display->display_options['fields']['picture']['exclude'] = TRUE;
   $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['picture']['empty'] = '<img src="/sites/default/themes/hot/images/avatar_100.png" />';
+  $handler->display->display_options['fields']['picture']['empty'] = '<img src="/sites/default/themes/hot_theme/images/avatar_100.png" />';
   $handler->display->display_options['fields']['picture']['hide_alter_empty'] = FALSE;
   $handler->display->display_options['fields']['picture']['link_photo_to_profile'] = FALSE;
   $handler->display->display_options['fields']['picture']['image_style'] = 'small_square';
@@ -847,12 +840,16 @@ function hot_people_views_default_views() {
   $handler->display->display_options['style_plugin'] = 'default';
   $handler->display->display_options['style_options']['grouping'] = array(
     0 => array(
+      'field' => 'title',
+      'rendered' => 0,
+      'rendered_strip' => 0,
+    ),
+    1 => array(
       'field' => 'body',
       'rendered' => 0,
-      'rendered_strip' => 1,
+      'rendered_strip' => 0,
     ),
   );
-  $handler->display->display_options['style_options']['default_row_class'] = FALSE;
   $handler->display->display_options['defaults']['style_options'] = FALSE;
   $handler->display->display_options['defaults']['row_plugin'] = FALSE;
   $handler->display->display_options['row_plugin'] = 'fields';
@@ -883,7 +880,7 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['title']['relationship'] = 'field_working_group_nid';
   $handler->display->display_options['fields']['title']['label'] = '';
   $handler->display->display_options['fields']['title']['exclude'] = TRUE;
-  $handler->display->display_options['fields']['title']['element_type'] = 'div';
+  $handler->display->display_options['fields']['title']['element_type'] = 'h3';
   $handler->display->display_options['fields']['title']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['title']['element_default_classes'] = FALSE;
   /* Field: Content: Body */
@@ -893,9 +890,9 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['body']['relationship'] = 'field_working_group_nid';
   $handler->display->display_options['fields']['body']['label'] = '';
   $handler->display->display_options['fields']['body']['exclude'] = TRUE;
-  $handler->display->display_options['fields']['body']['alter']['alter_text'] = TRUE;
   $handler->display->display_options['fields']['body']['alter']['text'] = '</h3><h3>[title]</h3>
 <div>[body]</div>';
+  $handler->display->display_options['fields']['body']['element_type'] = 'div';
   $handler->display->display_options['fields']['body']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['body']['type'] = 'text_summary_or_trimmed';
   $handler->display->display_options['fields']['body']['settings'] = array(
@@ -907,10 +904,10 @@ function hot_people_views_default_views() {
   $handler->display->display_options['fields']['picture']['field'] = 'picture';
   $handler->display->display_options['fields']['picture']['label'] = '';
   $handler->display->display_options['fields']['picture']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['picture']['empty'] = '<img src="/sites/default/themes/hot/images/avatar_30.png" />';
+  $handler->display->display_options['fields']['picture']['empty'] = '<img src="/sites/default/themes/hot_theme/images/avatar_100.png" />';
   $handler->display->display_options['fields']['picture']['hide_alter_empty'] = FALSE;
   $handler->display->display_options['fields']['picture']['link_photo_to_profile'] = FALSE;
-  $handler->display->display_options['fields']['picture']['image_style'] = 'avatar';
+  $handler->display->display_options['fields']['picture']['image_style'] = 'small_square';
   $handler->display->display_options['defaults']['sorts'] = FALSE;
   /* Sort criterion: Content: Title */
   $handler->display->display_options['sorts']['title']['id'] = 'title';
@@ -944,7 +941,7 @@ function hot_people_views_default_views() {
     t('Sort by'),
     t('Asc'),
     t('Desc'),
-    t('<img src="/sites/default/themes/hot/images/avatar_100.png" />'),
+    t('<img src="/sites/default/themes/hot_theme/images/avatar_100.png" />'),
     t('[picture]
 <span class="text-content"><span><div class="full-name">[field_name]</div><br />[field_country]</span></span>'),
     t('Pane: Voting members'),
@@ -960,7 +957,6 @@ function hot_people_views_default_views() {
     t('working_group'),
     t('</h3><h3>[title]</h3>
 <div>[body]</div>'),
-    t('<img src="/sites/default/themes/hot/images/avatar_30.png" />'),
     t('Block: Members by working group'),
   );
   $export['user_lists'] = $view;

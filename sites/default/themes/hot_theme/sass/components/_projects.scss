@@ -1,0 +1,87 @@
+.panel-page-projects {
+
+  .pane-project-panel-pane-projects-latest-disaster,
+  .pane-project-panel-pane-projects-latest-community,
+  .pane-project-panel-pane-projects-latest-technical {
+    .view-header {
+      margin-bottom: 50px;
+      p:nth-of-type(1) {
+        text-align: center;
+      }
+    }
+  }
+
+  h2, h3, h4 {
+    text-align: center;
+  }
+  .view-id-project {
+    .views-field-nothing {
+      background-color: $lightgrey;
+      padding: 3px;
+    }
+    .views-field-view-node {
+      margin-top: 10px;
+    }
+  }
+}
+
+.page-projects {
+
+  .pane-project-panel-pane-projects,
+  .pane-project-panel-pane-projects-old {
+    li.views-row {
+      margin-bottom: 50px;
+    }
+  }
+  .project-type-icon {
+    text-align: center;
+  }
+
+  @include breakpoint($desktop) {
+    .project-type-description {
+      @include grid-span(8,1);
+    }
+    .project-type-icon {
+      @include grid-span(4,9);
+    }
+  }
+}
+
+
+.node-type-project {
+  .node--project {
+
+    .field--name-body {
+      @include breakpoint($desktop) {
+        @include isolation-span(8,1,'both');
+      }
+    }
+    .field--name-field-information {
+      .views-row {
+        margin-bottom: 0;
+      }
+      background-color: $lightgrey;
+      .views-field {
+        margin: 0 20px;
+        padding: 10px 0
+      }
+      .views-label {
+        font-weight: bold;
+      }
+      @include breakpoint($desktop) {
+        @include grid-span(4,9);
+      }
+    }
+  }
+  #block-views-updates-updates-project-block {
+    @include isolation-span(12,1,'both');
+    @include breakpoint($desktop) {
+      .views-row:nth-of-type(2n+1){
+        @include isolation-span(6,1,'both');
+      }
+      .views-row:nth-of-type(2n+2){
+        @include grid-span(6,7);
+      }
+    }
+  }
+}
