@@ -992,7 +992,7 @@ function hot_project_views_default_views() {
   /* Display: Projects on partners block */
   $handler = $view->new_display('block', 'Projects on partners block', 'block_1');
   $handler->display->display_options['defaults']['title'] = FALSE;
-  $handler->display->display_options['title'] = 'Projects';
+  $handler->display->display_options['title'] = 'Collaborations with HOT';
   $handler->display->display_options['defaults']['pager'] = FALSE;
   $handler->display->display_options['pager']['type'] = 'none';
   $handler->display->display_options['pager']['options']['offset'] = '0';
@@ -1062,7 +1062,7 @@ function hot_project_views_default_views() {
     t('Project page'),
     t('Partner(s)'),
     t('Projects on partners block'),
-    t('Projects'),
+    t('Collaborations with HOT'),
     t('field_partners'),
   );
   $export['project_information'] = $view;

@@ -1,6 +1,12 @@
 .page-partnerships {
-  .l-main .views-row  {
-    margin-bottom: 100px !important;
+  .l-main li.views-row {
+    margin-bottom: 5px !important;
+  }
+  .l-main {
+
+    >.views-row  {
+      margin-bottom: 100px !important;
+    }
 
     .views-field-field-icon .field-content {
       text-align: center;
@@ -13,5 +19,24 @@
         max-width: 100%;
       }
     }
+
+    .views-field-view {
+      margin-top: 15px;
+    }
+  }
+}
+
+
+.node-type-partner {
+  .field--name-field-icon {
+    height: auto !important;
+    img {
+      width: auto !important;
+      height: auto !important;
+    }
+  }
+
+  .l-main li.views-row {
+    margin-bottom: 5px !important;
   }
 }

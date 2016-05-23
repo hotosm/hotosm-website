@@ -1072,18 +1072,35 @@ body.front #block-block-5 {
       clear: none; } }
 
 /* line 2, ../sass/components/_partnerships.scss */
-.page-partnerships .l-main .views-row {
+.page-partnerships .l-main li.views-row {
+  margin-bottom: 5px !important; }
+/* line 7, ../sass/components/_partnerships.scss */
+.page-partnerships .l-main > .views-row {
   margin-bottom: 100px !important; }
-  /* line 5, ../sass/components/_partnerships.scss */
-  .page-partnerships .l-main .views-row .views-field-field-icon .field-content {
-    text-align: center;
-    height: 100px;
-    overflow: hidden; }
-    /* line 10, ../sass/components/_partnerships.scss */
-    .page-partnerships .l-main .views-row .views-field-field-icon .field-content img {
-      height: 90px;
-      width: auto;
-      max-width: 100%; }
+/* line 11, ../sass/components/_partnerships.scss */
+.page-partnerships .l-main .views-field-field-icon .field-content {
+  text-align: center;
+  height: 100px;
+  overflow: hidden; }
+  /* line 16, ../sass/components/_partnerships.scss */
+  .page-partnerships .l-main .views-field-field-icon .field-content img {
+    height: 90px;
+    width: auto;
+    max-width: 100%; }
+/* line 23, ../sass/components/_partnerships.scss */
+.page-partnerships .l-main .views-field-view {
+  margin-top: 15px; }
+
+/* line 31, ../sass/components/_partnerships.scss */
+.node-type-partner .field--name-field-icon {
+  height: auto !important; }
+  /* line 33, ../sass/components/_partnerships.scss */
+  .node-type-partner .field--name-field-icon img {
+    width: auto !important;
+    height: auto !important; }
+/* line 39, ../sass/components/_partnerships.scss */
+.node-type-partner .l-main li.views-row {
+  margin-bottom: 5px !important; }
 
 /* line 6, ../sass/components/_projects.scss */
 .panel-page-projects .pane-project-panel-pane-projects-latest-disaster .view-header,
