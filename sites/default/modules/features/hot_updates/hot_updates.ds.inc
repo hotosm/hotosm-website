@@ -87,16 +87,16 @@ function hot_updates_ds_layout_settings_info() {
     'regions' => array(
       'ds_content' => array(
         0 => 'field_images',
-        1 => 'body',
-        2 => 'upload',
-        3 => 'field_information',
+        1 => 'field_information',
+        2 => 'body',
+        3 => 'upload',
       ),
     ),
     'fields' => array(
       'field_images' => 'ds_content',
+      'field_information' => 'ds_content',
       'body' => 'ds_content',
       'upload' => 'ds_content',
-      'field_information' => 'ds_content',
     ),
     'limit' => array(
       'field_images' => '1',
