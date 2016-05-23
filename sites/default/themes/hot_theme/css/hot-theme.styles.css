@@ -993,21 +993,28 @@ body.front #block-block-5 {
     float: left;
     margin-right: -100%;
     margin-left: 0;
-    clear: both; } }
+    clear: none; } }
 /* line 40, ../sass/components/_news.scss */
+.node-type-update .node--update .field--name-upload {
+  width: 64.70588%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 0;
+  clear: both; }
+/* line 43, ../sass/components/_news.scss */
 .node-type-update .node--update .field--name-field-information {
   background-color: #F0F0F0; }
-  /* line 41, ../sass/components/_news.scss */
+  /* line 44, ../sass/components/_news.scss */
   .node-type-update .node--update .field--name-field-information .views-row {
     margin-bottom: 0; }
-  /* line 45, ../sass/components/_news.scss */
+  /* line 48, ../sass/components/_news.scss */
   .node-type-update .node--update .field--name-field-information .views-field {
     margin: 20px; }
-  /* line 48, ../sass/components/_news.scss */
+  /* line 51, ../sass/components/_news.scss */
   .node-type-update .node--update .field--name-field-information .views-label {
     font-weight: bold; }
   @media (min-width: 961px) {
-    /* line 40, ../sass/components/_news.scss */
+    /* line 43, ../sass/components/_news.scss */
     .node-type-update .node--update .field--name-field-information {
       width: 29.41176%;
       float: right;

@@ -34,8 +34,11 @@
 
   .field--name-body {
     @include breakpoint($desktop) {
-      @include isolation-span(8,1,'both');
+      @include grid-span(8,1);
     }
+  }
+  .field--name-upload {
+    @include isolation-span(8,1,'both');
   }
   .field--name-field-information {
     .views-row {
