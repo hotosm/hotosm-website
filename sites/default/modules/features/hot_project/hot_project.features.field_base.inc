@@ -119,41 +119,6 @@ function hot_project_field_default_field_bases() {
     'type_name' => 'project',
   );
 
-  // Exported field_base: 'field_partners'.
-  $field_bases['field_partners'] = array(
-    'active' => 1,
-    'cardinality' => -1,
-    'deleted' => 0,
-    'entity_types' => array(),
-    'field_name' => 'field_partners',
-    'indexes' => array(
-      'nid' => array(
-        0 => 'nid',
-      ),
-    ),
-    'locked' => 0,
-    'module' => 'node_reference',
-    'settings' => array(
-      'entity_translation_sync' => FALSE,
-      'referenceable_types' => array(
-        'book' => 0,
-        'job' => 0,
-        'partner' => 'partner',
-        'project' => 0,
-        'update' => 0,
-        'video' => 0,
-        'working_group' => 0,
-      ),
-      'view' => array(
-        'args' => array(),
-        'display_name' => '',
-        'view_name' => '',
-      ),
-    ),
-    'translatable' => 0,
-    'type' => 'node_reference',
-  );
-
   // Exported field_base: 'field_project_type'.
   $field_bases['field_project_type'] = array(
     'active' => 1,

@@ -115,7 +115,7 @@ function hot_project_field_default_field_instances() {
         'summary_rows' => 5,
       ),
       'type' => 'text_textarea_with_summary',
-      'weight' => 9,
+      'weight' => 7,
     ),
   );
 
@@ -231,7 +231,7 @@ function hot_project_field_default_field_instances() {
         'openlayers_cck_preset_map' => 'default',
       ),
       'type' => 'geofield_openlayers',
-      'weight' => 12,
+      'weight' => 10,
     ),
     'widget_type' => 'geofield_wkt',
   );
@@ -462,7 +462,7 @@ function hot_project_field_default_field_instances() {
         'progress_indicator' => 'bar',
       ),
       'type' => 'image_image',
-      'weight' => 10,
+      'weight' => 8,
     ),
     'widget_type' => 'imagefield_widget',
   );
@@ -652,58 +652,9 @@ function hot_project_field_default_field_instances() {
         'default_value_php' => NULL,
       ),
       'type' => 'link_field',
-      'weight' => 7,
+      'weight' => 6,
     ),
     'widget_type' => 'link',
-  );
-
-  // Exported field_instance: 'node-project-field_partners'.
-  $field_instances['node-project-field_partners'] = array(
-    'bundle' => 'project',
-    'default_value' => NULL,
-    'deleted' => 0,
-    'description' => '',
-    'display' => array(
-      'default' => array(
-        'label' => 'hidden',
-        'settings' => array(),
-        'type' => 'hidden',
-        'weight' => 12,
-      ),
-      'feature' => array(
-        'label' => 'above',
-        'settings' => array(),
-        'type' => 'hidden',
-        'weight' => 0,
-      ),
-      'list' => array(
-        'label' => 'above',
-        'settings' => array(),
-        'type' => 'hidden',
-        'weight' => 0,
-      ),
-      'teaser' => array(
-        'label' => 'above',
-        'settings' => array(),
-        'type' => 'hidden',
-        'weight' => 0,
-      ),
-    ),
-    'entity_type' => 'node',
-    'field_name' => 'field_partners',
-    'label' => 'Partners',
-    'required' => 0,
-    'settings' => array(
-      'entity_translation_sync' => FALSE,
-      'user_register_form' => FALSE,
-    ),
-    'widget' => array(
-      'active' => 1,
-      'module' => 'options',
-      'settings' => array(),
-      'type' => 'options_select',
-      'weight' => 8,
-    ),
   );
 
   // Exported field_instance: 'node-project-field_project_type'.
@@ -1028,7 +979,7 @@ function hot_project_field_default_field_instances() {
         'progress_indicator' => 'throbber',
       ),
       'type' => 'file_generic',
-      'weight' => 11,
+      'weight' => 9,
     ),
   );
 
@@ -1040,7 +991,6 @@ function hot_project_field_default_field_instances() {
   t('Contact');
   t('Documents');
   t('Information');
-  t('Partners');
   t('Project Image');
   t('Project Page');
   t('Project type');

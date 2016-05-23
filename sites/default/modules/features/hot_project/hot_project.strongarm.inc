@@ -119,13 +119,13 @@ function hot_project_strongarm() {
           'weight' => '1',
         ),
         'path' => array(
-          'weight' => '13',
+          'weight' => '12',
         ),
         'language' => array(
           'weight' => '4',
         ),
         'flag' => array(
-          'weight' => '6',
+          'weight' => '5',
         ),
       ),
       'display' => array(
