@@ -31,11 +31,11 @@
           <small><?php echo t('Minimum online donation is $10.00.') ?>  <?php echo t('All donations are tax deductible.' ) ?></small>
       </li>
       <?php } ?>
-      <!--
       <li class="last">
         <input id="recurring" type="checkbox" class="donation-recurring" name="p3" value="<?php echo $variables['recurring_period']; ?>" /><label for="recurring">Make this a monthly donation</label>
       </li>
-    -->
+      <input type="hidden" value="" name="amount" class="amount-holder"/>
+      <input type="hidden" value="" name="a3" class="amount-holder"/>
     </ul>
     <div class="donation-paypal-description">
       <p><?php echo t('You will be redirected to Paypal in order to process your donation securely.') ?></p>
