@@ -1,0 +1,280 @@
+<?php
+/**
+ * @file
+ * PayPal donation integration.
+ */
+
+module_load_include("inc", "paypal_donations", "includes/paypal_donations.entity");
+module_load_include("inc", "paypal_donations", "includes/paypal_donations.views");
+
+/**
+ * Implements hook_menu().
+ */
+function paypal_donations_menu() {
+  $ipn_url = variable_get('paypal_donations_ipn_url', "paypal/payment/ipn");
+  $items[$ipn_url] = array(
+    'title' => 'Paypal Payment IPN',
+    'description' => 'Paypal Payment IPN',
+    'type' => MENU_CALLBACK,
+    'page callback' => 'paypal_donations__ipn_callback',
+    'file' => 'includes/paypal_donations.ipn.inc',
+    'access callback' => TRUE,
+  );
+
+  $items['admin/config/services/paypal_donations'] = array(
+    'title' => 'PayPal donation',
+    'description' => 'Manage PayPal donation Settings.',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('paypal_donations__paypal_admin_settings'),
+    'access arguments' => array('administer paypal donations'),
+    'file' => 'includes/paypal_donations.admin.inc',
+    'type' => MENU_NORMAL_ITEM,
+  );
+
+  // ENTITY URLs.
+  $items['admin/structure/paypal_donations/manage'] = array(
+    'title' => 'PayPal Donation Admin',
+    'description' => 'Manage PayPal Donations Structure',
+    'page callback' => 'paypal_donations_admin_page',
+    'access arguments' => array('administer paypal donations'),
+  );
+
+  $items['paypal_donations/%paypal_donations'] = array(
+    'title callback' => 'basic_page_title',
+    'title arguments' => array(1),
+    'page callback' => 'basic_page_view',
+    'page arguments' => array(1),
+    'access arguments' => array('view paypal donations entities'),
+    'type' => MENU_CALLBACK,
+  );
+
+  return $items;
+}
+
+/**
+ * Implements hook_permission().
+ */
+function paypal_donations_permission() {
+  return array(
+    'view paypal donations entities' => array(
+      'title' => t('View PayPal donations entities'),
+      'restrict access' => TRUE,
+    ),
+    'administer paypal donations' => array(
+      'title' => t('Administer PayPal donation module'),
+      'restrict access' => TRUE,
+    ),
+  );
+}
+
+/**
+ * Implements hook_block_info().
+ */
+function paypal_donations_block_info() {
+  $blocks['paypal_donations_single'] = array(
+    'info' => t('PayPal donation: single'),
+  );
+
+  $blocks['paypal_donations_recurring'] = array(
+    'info' => t('PayPal donation: recurring'),
+  );
+
+  return $blocks;
+}
+
+/**
+ * Implements hook_block_view().
+ */
+function paypal_donations_block_view($delta = '') {
+  $block = array();
+
+  switch ($delta) {
+    case 'paypal_donations_single':
+      drupal_add_js(drupal_get_path('module', 'paypal_donations') . '/js/paypal_donations.js');
+
+      $predefined = variable_get('paypal_donations_single_predefined_donation_amounts', "5,10,15");
+      $predefined = explode(',', $predefined);
+
+      $top_logo = variable_get('paypal_donations_header_logo', '');
+      if (!empty($top_logo)) {
+        $top_logo = file_load($top_logo);
+      }
+
+      $account_email = variable_get('paypal_donations_single_account_email', '');
+      $block['subject'] = t('Single donation');
+
+      if (empty($account_email)) {
+        $block['content'] = t("Your PayPal account is not set,") . " " . l(t('please go to the configuration first'), 'admin/config/services/paypal_donations');
+        break;
+      }
+      $block['content'] = array(
+        '#theme' => 'paypal_donations_single',
+        '#predefined_amounts' => $predefined,
+        '#notify_url' => url(variable_get('paypal_donations_ipn_url', 'paypal/payment/ipn'), array('absolute' => TRUE)),
+        '#return_url' => url(variable_get('paypal_donations_single_return_url', 'donation/thank-you'), array('absolute' => TRUE)),
+        '#item_name' => variable_get('paypal_donations_single_item_name', t('Donation')),
+        '#currency_code' => variable_get('paypal_donations_single_currency_code', 'USD'),
+        '#currency_sign' => variable_get('paypal_donations_single_currency_sign', '$'),
+        '#submit_value' => variable_get('paypal_donations_single_submit_value', 'Donate now'),
+        '#account_email' => $account_email,
+        '#custom_amount_allowed' => variable_get('paypal_donations_single_custom_amount_allowed', 1),
+        '#top_logo' => $top_logo,
+      );
+      break;
+
+    case 'paypal_donations_recurring':
+      drupal_add_js(drupal_get_path('module', 'paypal_donations') . '/js/paypal_donations.js');
+
+      $predefined = variable_get('paypal_donations_recurring_predefined_donation_amounts', '5,10,15');
+      $predefined = explode(',', $predefined);
+
+      $top_logo = variable_get('paypal_donations_header_logo', '');
+      if (!empty($top_logo)) {
+        $top_logo = file_load($top_logo);
+      }
+
+      $account_email = variable_get('paypal_donations_recurring_account_email', '');
+
+      $block['subject'] = t('Recurring donation');
+
+      if (empty($account_email)) {
+        $block['content'] = t("Your PayPal account is not set,") . " " . l(t('please go to the configuration first'), 'admin/config/services/paypal_donations');
+        break;
+      }
+      $block['content'] = array(
+        '#theme' => 'paypal_donations_recurring',
+        '#predefined_amounts' => $predefined,
+        '#notify_url' => url(variable_get('paypal_donations_ipn_url', 'paypal/payment/ipn'), array('absolute' => TRUE)),
+        '#return_url' => url(variable_get('paypal_donations_recurring_return_url', 'donation/thank-you'), array('absolute' => TRUE)),
+        '#item_name' => variable_get('paypal_donations_recurring_item_name', t('Donation')),
+        '#currency_code' => variable_get('paypal_donations_recurring_currency_code', 'USD'),
+        '#currency_sign' => variable_get('paypal_donations_recurring_currency_sign', '$'),
+        '#submit_value' => variable_get('paypal_donations_recurring_submit_value', 'Donate now'),
+        '#account_email' => $account_email,
+        '#custom_amount_allowed' => variable_get('paypal_donations_recurring_custom_amount_allowed', 1),
+        '#recurring_period' => variable_get('paypal_donations_recurring_period', 1),
+        '#recurring_unit' => variable_get('paypal_donations_recurring_unit', 'M'),
+        '#top_logo' => $top_logo,
+      );
+      break;
+  }
+  return $block;
+}
+
+/**
+ * Implements hook_mail().
+ */
+function paypal_donations_mail($key, &$message, $params) {
+  switch ($key) {
+    case 'payer_confirmation':
+      $message['from'] = variable_get('paypal_donations_notif_email', variable_get('site_mail', ini_get('sendmail_from')));
+      $message['subject'] = variable_get('paypal_donations_notif_email_subject', t('Thank you'));
+      $message['headers']['Content-Type'] = 'text/html; charset=UTF-8;';
+      $message['body'][] = nl2br(t(variable_get('paypal_donations_' . $params['donation_type'] . '_notification_email', ''), array('@first_name' => $params['first_name'], '!amount' => $params['amount'])));
+      break;
+
+    case 'admin_confirmation':
+      $message['from'] = variable_get('paypal_donations_notif_email', variable_get('site_mail', ini_get('sendmail_from')));
+      $message['subject'] = t('Donation received');
+      $message['headers']['Content-Type'] = 'text/html; charset=UTF-8;';
+      $message['body'][] = nl2br(t('
+Hello admin!
+
+A donation of $!amount has been received from @name
+
+',array('@name' => $params['name'], '!amount' => $params['amount'])));
+      break;
+  }
+}
+
+/**
+ * Implements hook_theme().
+ */
+function paypal_donations_theme($existing, $type, $theme, $path) {
+  $themes = array();
+
+  $shared_variables = array(
+    'predefined_amounts' => array(),
+    'notify_url' => '',
+    'return_url' => '',
+    'item_name' => '',
+    'submit_value' => '',
+    'currency_code' => '',
+    'currency_sign' => '',
+    'account_email' => '',
+    'custom_amount_allowed' => '',
+    'top_logo' => array(),
+  );
+
+  $themes['paypal_donations_single'] = array(
+    'template' => 'templates/paypal_donations_single',
+    'variables' => $shared_variables,
+  );
+
+  $themes['paypal_donations_recurring'] = array(
+    'template' => 'templates/paypal_donations_recurring',
+    'variables' => array_merge($shared_variables, array(
+      'recurring_period' => '',
+      'recurring_unit' => '',
+    )),
+  );
+  return $themes;
+}
+
+/**
+ * Implements hook_views_api().
+ */
+function paypal_donations_views_api() {
+  return array('api' => 2);
+}
+
+/**
+ * Implements hook_views_default_views().
+ */
+function paypal_donations_views_default_views() {
+  foreach(glob(dirname(__FILE__) . "/views/*.view.inc") as $filename) {
+    require_once ($filename);
+    $views[$view->name] = $view;
+  }
+  return $views;
+}
+
+/**
+ * Implements hook_features_api().
+ */
+function paypal_donations_features_api() {
+  return array(
+    'paypal_donations' => array(
+      'name' => 'PayPal donation',
+      'file' => drupal_get_path('module', 'paypal_donations') . '/includes/paypal_donations.features.inc',
+      'default_hook' => 'paypal_donations_features_settings',
+      'feature_source' => TRUE,
+    ),
+  );
+}
+
+/**
+ * Variable list for paypal donations.
+ */
+function paypal_donations__variable_list() {
+  return array(
+    'paypal_donations_single_account_email',
+    'paypal_donations_single_item_name',
+    'paypal_donations_single_return_ur',
+    'paypal_donations_single_predefined_donation_amounts',
+    'paypal_donations_single_currency_code',
+    'paypal_donations_single_currency_sign',
+    'paypal_donations_single_submit_value',
+    'paypal_donations_single_custom_amount_allowed',
+    'paypal_donations_recurring_account_email',
+    'paypal_donations_recurring_item_name',
+    'paypal_donations_recurring_return_url',
+    'paypal_donations_recurring_predefined_donation_amounts',
+    'paypal_donations_recurring_currency_code',
+    'paypal_donations_recurring_currency_sign',
+    'paypal_donations_recurring_submit_value',
+    'paypal_donations_recurring_custom_amount_allowed',
+    'paypal_donations_recurring_period',
+    'paypal_donations_recurring_unit',
+  );
+}

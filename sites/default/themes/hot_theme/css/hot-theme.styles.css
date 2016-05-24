@@ -528,6 +528,66 @@ table {
       float: left;
       padding-right: 10px; }
 
+/* line 3, ../sass/components/_donate.scss */
+.panel-page-donate .pane-2 {
+  margin-top: 40px; }
+  /* line 5, ../sass/components/_donate.scss */
+  .panel-page-donate .pane-2 iframe {
+    width: 100%; }
+  @media (min-width: 961px) {
+    /* line 3, ../sass/components/_donate.scss */
+    .panel-page-donate .pane-2 {
+      width: 47.05882%;
+      float: right;
+      margin-left: 0;
+      margin-right: 0;
+      clear: both; } }
+/* line 17, ../sass/components/_donate.scss */
+.panel-page-donate .pane-hot-donate-hot-donate p {
+  margin: 10px 0; }
+/* line 21, ../sass/components/_donate.scss */
+.panel-page-donate .pane-hot-donate-hot-donate small {
+  display: block;
+  font-size: 12px;
+  margin-bottom: 10px; }
+/* line 27, ../sass/components/_donate.scss */
+.panel-page-donate .pane-hot-donate-hot-donate li.donation-amount-selection {
+  display: inline; }
+  /* line 30, ../sass/components/_donate.scss */
+  .panel-page-donate .pane-hot-donate-hot-donate li.donation-amount-selection label {
+    text-align: center;
+    padding: 10px;
+    font-size: 12px;
+    width: 50px;
+    margin: 5px;
+    background-color: #BEBEBE;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block; }
+  /* line 42, ../sass/components/_donate.scss */
+  .panel-page-donate .pane-hot-donate-hot-donate li.donation-amount-selection label:hover {
+    background-color: #333333;
+    color: #F0F0F0; }
+  /* line 47, ../sass/components/_donate.scss */
+  .panel-page-donate .pane-hot-donate-hot-donate li.donation-amount-selection label.current {
+    background-color: #d73f3f;
+    font-weight: bold;
+    color: #ffffff; }
+  /* line 52, ../sass/components/_donate.scss */
+  .panel-page-donate .pane-hot-donate-hot-donate li.donation-amount-selection .donation-single {
+    display: none; }
+/* line 57, ../sass/components/_donate.scss */
+.panel-page-donate .pane-hot-donate-hot-donate li {
+  display: block; }
+@media (min-width: 961px) {
+  /* line 15, ../sass/components/_donate.scss */
+  .panel-page-donate .pane-hot-donate-hot-donate {
+    width: 47.05882%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none; } }
+
 /* line 1, ../sass/components/_footer.scss */
 footer {
   width: 100%;

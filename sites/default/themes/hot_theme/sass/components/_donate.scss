@@ -1,0 +1,66 @@
+.panel-page-donate {
+
+  .pane-2 {
+
+    iframe {
+      width: 100%;
+    }
+
+    margin-top: 40px;
+    @include breakpoint($desktop) {
+      @include isolation-span(6,7,'both');
+    }
+  }
+
+  .pane-hot-donate-hot-donate {
+
+    p {
+      margin: 10px 0;
+    }
+
+    small {
+      display: block;
+      font-size: $font-size-small;
+      margin-bottom: 10px;
+    }
+
+    li.donation-amount-selection {
+      display: inline;
+
+      label {
+        text-align: center;
+        padding: 10px;
+        font-size: $font-size-small;
+        width: 50px;
+        margin: 5px;
+        background-color: $middlegrey;
+        border-radius: 5px;
+        cursor: pointer;
+        display: inline-block;
+      }
+
+      label:hover {
+        background-color: $darkgrey;
+        color: $lightgrey;
+      }
+
+      label.current {
+        background-color: $red;
+        font-weight: bold;
+        color: $white;
+      }
+      .donation-single {
+        display: none;
+      }
+    }
+
+    li {
+      display: block;
+    }
+
+
+    @include breakpoint($desktop) {
+      @include grid-span(6,1);
+    }
+  }
+}

@@ -1,0 +1,100 @@
+<?php
+/**
+ * @file
+ * Code for the HOT Donate feature.
+ */
+
+include_once 'hot_donate.features.inc';
+
+/**
+ * Implements hook_theme().
+ */
+function hot_donate_theme($existing, $type, $theme, $path) {
+  $themes = array();
+
+  $shared_variables = array(
+    'predefined_amounts' => array(),
+    'notify_url' => '',
+    'return_url' => '',
+    'item_name' => '',
+    'submit_value' => '',
+    'currency_code' => '',
+    'currency_sign' => '',
+    'account_email' => '',
+    'custom_amount_allowed' => '',
+    'top_logo' => array(),
+  );
+
+  $themes['hot_donate_form'] = array(
+    'template' => 'hot_donate_form',
+    'variables' => array_merge($shared_variables, array(
+      'recurring_period' => '',
+      'recurring_unit' => '',
+    )),
+  );
+  return $themes;
+}
+
+/**
+ * Implements hook_block_info().
+ */
+function hot_donate_block_info() {
+  $blocks['hot_donate'] = array(
+    'info' => t('HOT donate block'),
+  );
+
+  return $blocks;
+}
+
+
+/**
+ * Implements hook_block_view().
+ */
+function hot_donate_block_view($delta = '') {
+  $block = array();
+
+  switch ($delta) {
+    case 'hot_donate':
+      drupal_add_js(drupal_get_path('module', 'paypal_donations') . '/js/paypal_donations.js');
+      drupal_add_js("jQuery(document).ready(function () {
+        jQuery('.donation-amount-selection label').click(function () {
+            jQuery('.donation-amount-selection label.current').removeClass('current');
+            jQuery(this).addClass('current');
+        });
+       });", "inline");
+
+      $predefined = variable_get('paypal_donations_recurring_predefined_donation_amounts', '5,10,15');
+      $predefined = explode(',', $predefined);
+
+      $top_logo = variable_get('paypal_donations_header_logo', '');
+      if (!empty($top_logo)) {
+        $top_logo = file_load($top_logo);
+      }
+
+      $account_email = variable_get('paypal_donations_recurring_account_email', '');
+
+      $block['subject'] = t('Recurring donation');
+
+      if (empty($account_email)) {
+        $block['content'] = t("Your PayPal account is not set,") . " " . l(t('please go to the configuration first'), 'admin/config/services/paypal_donations');
+        break;
+      }
+      $block['content'] = array(
+        '#theme' => 'hot_donate_form',
+        '#predefined_amounts' => $predefined,
+        '#notify_url' => url(variable_get('paypal_donations_ipn_url', 'paypal/payment/ipn'), array('absolute' => TRUE)),
+        '#return_url' => url(variable_get('paypal_donations_recurring_return_url', 'donation/thank-you'), array('absolute' => TRUE)),
+        '#item_name' => variable_get('paypal_donations_recurring_item_name', t('Donation')),
+        '#currency_code' => variable_get('paypal_donations_recurring_currency_code', 'USD'),
+        '#currency_sign' => variable_get('paypal_donations_recurring_currency_sign', '$'),
+        '#submit_value' => variable_get('paypal_donations_recurring_submit_value', 'Donate now'),
+        '#account_email' => $account_email,
+        '#custom_amount_allowed' => variable_get('paypal_donations_recurring_custom_amount_allowed', 1),
+        '#recurring_period' => variable_get('paypal_donations_recurring_period', 1),
+        '#recurring_unit' => variable_get('paypal_donations_recurring_unit', 'M'),
+        '#top_logo' => $top_logo,
+      );
+      break;
+  }
+  return $block;
+}
