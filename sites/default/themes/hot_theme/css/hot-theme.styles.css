@@ -569,7 +569,7 @@ table {
     background-color: #333333;
     color: #F0F0F0; }
   /* line 47, ../sass/components/_donate.scss */
-  .panel-page-donate .pane-hot-donate-hot-donate li.donation-amount-selection label.current {
+  .panel-page-donate .pane-hot-donate-hot-donate li.donation-amount-selection label.checked {
     background-color: #d73f3f;
     font-weight: bold;
     color: #ffffff; }

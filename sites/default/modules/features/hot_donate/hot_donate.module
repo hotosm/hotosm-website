@@ -11,26 +11,22 @@ include_once 'hot_donate.features.inc';
  */
 function hot_donate_theme($existing, $type, $theme, $path) {
   $themes = array();
-
-  $shared_variables = array(
-    'predefined_amounts' => array(),
-    'notify_url' => '',
-    'return_url' => '',
-    'item_name' => '',
-    'submit_value' => '',
-    'currency_code' => '',
-    'currency_sign' => '',
-    'account_email' => '',
-    'custom_amount_allowed' => '',
-    'top_logo' => array(),
-  );
-
   $themes['hot_donate_form'] = array(
     'template' => 'hot_donate_form',
-    'variables' => array_merge($shared_variables, array(
+    'variables' => array(
+      'predefined_amounts' => array(),
+      'notify_url' => '',
+      'return_url' => '',
+      'item_name' => '',
+      'submit_value' => '',
+      'currency_code' => '',
+      'currency_sign' => '',
+      'account_email' => '',
+      'custom_amount_allowed' => '',
+      'top_logo' => array(),
       'recurring_period' => '',
       'recurring_unit' => '',
-    )),
+    ),
   );
   return $themes;
 }
@@ -42,7 +38,6 @@ function hot_donate_block_info() {
   $blocks['hot_donate'] = array(
     'info' => t('HOT donate block'),
   );
-
   return $blocks;
 }
 
@@ -55,13 +50,7 @@ function hot_donate_block_view($delta = '') {
 
   switch ($delta) {
     case 'hot_donate':
-      drupal_add_js(drupal_get_path('module', 'paypal_donations') . '/js/paypal_donations.js');
-      drupal_add_js("jQuery(document).ready(function () {
-        jQuery('.donation-amount-selection label').click(function () {
-            jQuery('.donation-amount-selection label.current').removeClass('current');
-            jQuery(this).addClass('current');
-        });
-       });", "inline");
+      drupal_add_js(drupal_get_path('module', 'hot_donate') . '/hot_donate.js');
 
       $predefined = variable_get('paypal_donations_recurring_predefined_donation_amounts', '5,10,15');
       $predefined = explode(',', $predefined);

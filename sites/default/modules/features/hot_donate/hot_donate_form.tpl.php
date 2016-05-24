@@ -14,8 +14,6 @@
     <input name="cmd" type="hidden" value="_xclick-subscriptions" />
     <input type="hidden" name="src" value="1"/>
     <input type="hidden" name="srt" value="24"/>
-    <input type="hidden" name="p3" value="<?php echo $variables['recurring_period']; ?>"/>
-    <input type="hidden" name="t3" value="<?php echo $variables['recurring_unit']; ?>"/>
     <input type="hidden" name="no_note" value="1"/>
     <input type="hidden" name="no_shipping" value="2"/>
     <input type="hidden" name="notify_url" value="<?php echo $variables['notify_url']; ?>"/>
@@ -28,14 +26,15 @@
         }
       ?>
       <?php if($variables['custom_amount_allowed'] == 1) { ?>
-      <li class="last">
+      <li>
         <?php echo t('Other amount').": ".$variables['currency_sign']; ?>
           <input name="other" size="4" type="text" value="" class="other" />
           <small><?php echo t('Minimum online donation is $10.00.') ?>  <?php echo t('All donations are tax deductible.' ) ?></small>
       </li>
       <?php } ?>
       <li class="last">
-        <input id="recurring" type="checkbox" class="donation-recurring" value="1" /><label for="recurring">Make this a  monthly donation</label>
+        <input id="recurring" type="checkbox" class="donation-recurring" name="p3" value="1" /><label for="recurring">Make this a  monthly donation</label>
+        <input type="hidden" name="t3" value="<?php echo $variables['recurring_unit']; ?>"/>
       </li>
       <input type="hidden" value="" name="a3" class="amount-holder"/>
     </ul>
