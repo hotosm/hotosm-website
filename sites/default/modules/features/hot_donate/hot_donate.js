@@ -16,25 +16,32 @@
       }
     })
 
+    $('#recurring').click(function() {
+      if($('#recurring').attr('checked')) {
+        $('#form-cmd').val('_xclick-subscriptions');
+      }
+      else {
+        $('#form-cmd').val('_donations');    
+      }
+    });
+
     //radio checking
     $('.donation-amount-selection label').click(function() {
       parent_form = $(this).closest("FORM");
+      // Toggle class for current selection
       $('.donation-amount-selection label.checked').removeClass('checked');
       $(this).addClass('checked');
-      //$('.donation-amount-selection label',$(this).closest('.column')).filter(':checked').not(this).removeAttr('checked');
-      $('INPUT[type=text]',$(this).closest('.column')).val('');
-      //Refresh amount value
-      if($('INPUT:radio:checked',$(this).closest('.column')).length > 0){
-        $('.amount-holder',parent_form).val($(this).val());
-      }
-      else{
-        $('.amount-holder',parent_form).val('');
-      }
+      // Fill
+      $('.other',parent_form).val('');
+      // Fill amount into holder
+      $('.amount-holder',parent_form).val($('.donation-amount-selection label.checked input').val());
     });
 
     //When user click Donate now
     $(".donation-submit-button").click(function(){
       var post_form = false;
+
+      //TODO
       //If any checkbox is checked set true
       if($('INPUT:radio:checked',$(this).closest('.donation-form')).length > 0)
         post_form = true;

@@ -1,24 +1,23 @@
 <form action="https://<?php echo variable_get('paypal_donations_service_url', 'www.sandbox.paypal.com'); ?>/cgi-bin/webscr" method="post" target="_blank" class="monthly-donation-form donation-form">
   <div class="inner_content">
-    <input name="landing_page" type="hidden" value="billing" />
-    <input name="cpp_cart_border_color" type="hidden" value="FF0000" />
-    <?php
-      if(!empty($variables['top_logo'])) {
-    ?>
+  <input name="landing_page" type="hidden" value="billing" />
+  <input name="cpp_cart_border_color" type="hidden" value="FF0000" />
+  <?php if(!empty($variables['top_logo'])) { ?>
     <input name="cpp_header_image" type="hidden" value="<?php echo file_create_url($variables['top_logo']->uri, array('absolute' => TRUE))?>" />
-    <?php
-      }
-    ?>
-    <input name="cpp_payflow_color" type="hidden" value="D20137" />
-    <input name="business" type="hidden" value="<?php echo $variables['account_email']; ?>" />
-    <input name="cmd" type="hidden" value="_xclick-subscriptions" />
-    <input type="hidden" name="src" value="1"/>
-    <input type="hidden" name="srt" value="24"/>
-    <input type="hidden" name="no_note" value="1"/>
-    <input type="hidden" name="no_shipping" value="2"/>
-    <input type="hidden" name="notify_url" value="<?php echo $variables['notify_url']; ?>"/>
-    <input type="hidden" name="return" value="<?php echo $variables['return_url']; ?>"/>
-    <input name="item_name" type="hidden" value="<?php echo $variables['item_name']; ?>" />
+  <?php } ?>
+  <input name="cpp_payflow_color" type="hidden" value="D20137" />
+  <input name="business" type="hidden" value="<?php echo $variables['account_email']; ?>" />
+  <input type="hidden" name="notify_url" value="<?php echo $variables['notify_url']; ?>">
+  <input type="hidden" name="return" value="<?php echo $variables['return_url']; ?>"/>
+  <input name="item_name" type="hidden" value="<?php echo $variables['item_name']; ?>" />
+  <input id="form-cmd" name="cmd" type="hidden" value="_donations" />
+  <input type="hidden" name="src" value="1"/>
+  <input type="hidden" name="srt" value="24"/>
+  <input type="hidden" name="p3" value="<?php echo $variables['recurring_period']; ?>"/>
+  <input type="hidden" name="t3" value="<?php echo $variables['recurring_unit']; ?>"/>
+  <input type="hidden" name="no_note" value="1"/>
+  <input type="hidden" name="no_shipping" value="2"/>
+
     <ul class="column">
       <?php
       for($i = 0 ; $i < count($variables['predefined_amounts']) ; $i++) {
@@ -32,11 +31,11 @@
           <small><?php echo t('Minimum online donation is $10.00.') ?>  <?php echo t('All donations are tax deductible.' ) ?></small>
       </li>
       <?php } ?>
+      <!--
       <li class="last">
-        <input id="recurring" type="checkbox" class="donation-recurring" name="p3" value="1" /><label for="recurring">Make this a  monthly donation</label>
-        <input type="hidden" name="t3" value="<?php echo $variables['recurring_unit']; ?>"/>
+        <input id="recurring" type="checkbox" class="donation-recurring" name="p3" value="<?php echo $variables['recurring_period']; ?>" /><label for="recurring">Make this a monthly donation</label>
       </li>
-      <input type="hidden" value="" name="a3" class="amount-holder"/>
+    -->
     </ul>
     <div class="donation-paypal-description">
       <p><?php echo t('You will be redirected to Paypal in order to process your donation securely.') ?></p>
