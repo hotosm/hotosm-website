@@ -1,6 +1,7 @@
 
 // Look and feel of news items in listings
-.view-id-updates {
+.view-id-updates,
+.view-id-showcases.view-display-id-page {
   .views-field-created {
     font-style: italic;
     margin-bottom: 6px;
@@ -29,7 +30,8 @@
   }
 }
 
-.node-type-update .node--update {
+.node-type-update .node--update,
+.node-type-showcase .node--showcase {
 
 
   .field--name-body {

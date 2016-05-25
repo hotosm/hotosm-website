@@ -1026,20 +1026,24 @@ body.front #block-block-5 {
     font-family: "Alegreya", "Times New Roman", "Times", serif;
     font-size: 1.3em; }
 
-/* line 4, ../sass/components/_news.scss */
-.view-id-updates .views-field-created {
+/* line 5, ../sass/components/_news.scss */
+.view-id-updates .views-field-created,
+.view-id-showcases.view-display-id-page .views-field-created {
   font-style: italic;
   margin-bottom: 6px; }
-/* line 8, ../sass/components/_news.scss */
-.view-id-updates .views-field-body {
+/* line 9, ../sass/components/_news.scss */
+.view-id-updates .views-field-body,
+.view-id-showcases.view-display-id-page .views-field-body {
   margin-bottom: 6px; }
-/* line 11, ../sass/components/_news.scss */
-.view-id-updates .view-content .views-field-field-images {
+/* line 12, ../sass/components/_news.scss */
+.view-id-updates .view-content .views-field-field-images,
+.view-id-showcases.view-display-id-page .view-content .views-field-field-images {
   height: 300px;
   overflow: hidden;
   position: relative; }
-  /* line 15, ../sass/components/_news.scss */
-  .view-id-updates .view-content .views-field-field-images img {
+  /* line 16, ../sass/components/_news.scss */
+  .view-id-updates .view-content .views-field-field-images img,
+  .view-id-showcases.view-display-id-page .view-content .views-field-field-images img {
     width: 100%;
     height: auto;
     display: block;
@@ -1049,40 +1053,48 @@ body.front #block-block-5 {
     left: 0;
     right: 0;
     bottom: 0; }
-/* line 27, ../sass/components/_news.scss */
-.view-id-updates .more-link {
+/* line 28, ../sass/components/_news.scss */
+.view-id-updates .more-link,
+.view-id-showcases.view-display-id-page .more-link {
   margin: 10px 0; }
 
 @media (min-width: 961px) {
-  /* line 35, ../sass/components/_news.scss */
-  .node-type-update .node--update .field--name-body {
+  /* line 37, ../sass/components/_news.scss */
+  .node-type-update .node--update .field--name-body,
+  .node-type-showcase .node--showcase .field--name-body {
     width: 64.70588%;
     float: left;
     margin-right: -100%;
     margin-left: 0;
     clear: none; } }
-/* line 40, ../sass/components/_news.scss */
-.node-type-update .node--update .field--name-upload {
+/* line 42, ../sass/components/_news.scss */
+.node-type-update .node--update .field--name-upload,
+.node-type-showcase .node--showcase .field--name-upload {
   width: 64.70588%;
   float: left;
   margin-right: -100%;
   margin-left: 0;
   clear: both; }
-/* line 43, ../sass/components/_news.scss */
-.node-type-update .node--update .field--name-field-information {
+/* line 45, ../sass/components/_news.scss */
+.node-type-update .node--update .field--name-field-information,
+.node-type-showcase .node--showcase .field--name-field-information {
   background-color: #F0F0F0; }
-  /* line 44, ../sass/components/_news.scss */
-  .node-type-update .node--update .field--name-field-information .views-row {
+  /* line 46, ../sass/components/_news.scss */
+  .node-type-update .node--update .field--name-field-information .views-row,
+  .node-type-showcase .node--showcase .field--name-field-information .views-row {
     margin-bottom: 0; }
-  /* line 48, ../sass/components/_news.scss */
-  .node-type-update .node--update .field--name-field-information .views-field {
+  /* line 50, ../sass/components/_news.scss */
+  .node-type-update .node--update .field--name-field-information .views-field,
+  .node-type-showcase .node--showcase .field--name-field-information .views-field {
     margin: 20px; }
-  /* line 51, ../sass/components/_news.scss */
-  .node-type-update .node--update .field--name-field-information .views-label {
+  /* line 53, ../sass/components/_news.scss */
+  .node-type-update .node--update .field--name-field-information .views-label,
+  .node-type-showcase .node--showcase .field--name-field-information .views-label {
     font-weight: bold; }
   @media (min-width: 961px) {
-    /* line 43, ../sass/components/_news.scss */
-    .node-type-update .node--update .field--name-field-information {
+    /* line 45, ../sass/components/_news.scss */
+    .node-type-update .node--update .field--name-field-information,
+    .node-type-showcase .node--showcase .field--name-field-information {
       width: 29.41176%;
       float: right;
       margin-left: 0;
