@@ -69,6 +69,7 @@ function hot_core_user_default_permissions() {
   $permissions['access content overview'] = array(
     'name' => 'access content overview',
     'roles' => array(
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',
@@ -195,6 +196,7 @@ function hot_core_user_default_permissions() {
   $permissions['administer nodes'] = array(
     'name' => 'administer nodes',
     'roles' => array(
+      'content editor' => 'content editor',
       'site admin' => 'site admin',
     ),
     'module' => 'node',

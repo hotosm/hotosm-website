@@ -28,7 +28,7 @@ function hot_donate_paypal_donations_features_settings() {
     'paypal_donations_single_custom_amount_allowed' => 1,
     'paypal_donations_recurring_account_email' => 'donations@hotosm.org',
     'paypal_donations_recurring_item_name' => 'Humanitarian OpenStreetMap Team',
-    'paypal_donations_recurring_return_url' => 'donation/thank-you',
+    'paypal_donations_recurring_return_url' => '',
     'paypal_donations_recurring_predefined_donation_amounts' => '500,250,150,100,50,25',
     'paypal_donations_recurring_currency_code' => 'USD',
     'paypal_donations_recurring_currency_sign' => '$',

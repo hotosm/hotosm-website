@@ -342,38 +342,45 @@ table {
       clear: both; }
       /* line 12, ../sass/components/_blocks.scss */
       #block-block-2 li:nth-child(1) {
-        width: 29.41176%;
+        width: 47.05882%;
         float: left;
         margin-right: -100%;
         margin-left: 0;
         clear: both; }
       /* line 15, ../sass/components/_blocks.scss */
       #block-block-2 li:nth-child(2) {
-        width: 29.41176%;
-        float: left;
-        margin-right: -100%;
-        margin-left: 35.29412%;
+        width: 47.05882%;
+        float: right;
+        margin-left: 0;
+        margin-right: 0;
         clear: none; }
       /* line 18, ../sass/components/_blocks.scss */
       #block-block-2 li:nth-child(3) {
-        width: 29.41176%;
+        width: 47.05882%;
+        float: left;
+        margin-right: -100%;
+        margin-left: 0;
+        clear: both; }
+      /* line 21, ../sass/components/_blocks.scss */
+      #block-block-2 li:nth-child(4) {
+        width: 47.05882%;
         float: right;
         margin-left: 0;
         margin-right: 0;
         clear: none; } }
 
-/* line 27, ../sass/components/_blocks.scss */
+/* line 30, ../sass/components/_blocks.scss */
 #block-mailchimp-signup-hot-newsletter h2.block__title {
   margin: 0 auto; }
-/* line 31, ../sass/components/_blocks.scss */
+/* line 34, ../sass/components/_blocks.scss */
 #block-mailchimp-signup-hot-newsletter input[type=text] {
   border: none; }
-/* line 36, ../sass/components/_blocks.scss */
+/* line 39, ../sass/components/_blocks.scss */
 #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div > div, #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div > input {
   margin-right: -4px;
   display: inline-block;
   vertical-align: top; }
-/* line 42, ../sass/components/_blocks.scss */
+/* line 45, ../sass/components/_blocks.scss */
 #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div .form-item, #block-mailchimp-signup-hot-newsletter .mailchimp-signup-subscribe-form > div .form-actions {
   margin: 0; }
 
