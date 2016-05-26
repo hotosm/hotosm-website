@@ -443,13 +443,6 @@ function hot_core_strongarm() {
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'mailchimp_api_key';
-  $strongarm->value = '3e78a9af16191eff4f67b0fa65208c2f-us9';
-  $export['mailchimp_api_key'] = $strongarm;
-
-  $strongarm = new stdClass();
-  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
-  $strongarm->api_version = 1;
   $strongarm->name = 'mail_system';
   $strongarm->value = array(
     'default-system' => 'SmtpMailSystem',
