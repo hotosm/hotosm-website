@@ -40,3 +40,6 @@ extension is working.  If the SMTP module detects openssl is available it
 will display the options in the modules settings page.
 
 Sending mail to Gmail requires SSL or TLS.
+
+If the Maillog module (https://www.drupal.org/project/maillog) is installed, it
+can be used to keep copies of all messages sent through the site.

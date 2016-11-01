@@ -7,9 +7,15 @@ files[] = smtp.mail.inc
 files[] = smtp.phpmailer.inc
 files[] = smtp.transport.inc
 
-; Information added by Drupal.org packaging script on 2015-12-08
-version = "7.x-1.3"
+; Test suite.
+files[] = tests/smtp.unit.test
+
+; For the tests the Maillog module is also required.
+test_dependencies[] = maillog
+
+; Information added by Drupal.org packaging script on 2016-05-05
+version = "7.x-1.4"
 core = "7.x"
 project = "smtp"
-datestamp = "1449607140"
+datestamp = "1462454772"
 

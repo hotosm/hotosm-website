@@ -113,8 +113,9 @@ function smtp_send_queue_runner($message) {
       if ($logging == SMTP_LOGGING_ALL || $logging == SMTP_LOGGING_ERRORS) {
         watchdog('smtp', 'Error sending e-mail from @from to @to, will retry on cron run : !error_message.',
           array(
-            @from => $message['from'],
-            @to => $message['to'],
+            '@from' => $message['from'],
+            '@to' => $message['to'],
+            '!error_message' => $message['mailer']->ErrorInfo,
           ), WATCHDOG_ERROR);
       }
     }
@@ -123,7 +124,7 @@ function smtp_send_queue_runner($message) {
 
   // Let the people know what is going on.
   if ($logging == SMTP_LOGGING_ALL) {
-    watchdog('smtp', 'Sending mail to: @to', array('@to' => $to));
+    watchdog('smtp', 'Sending mail to: @to', array('@to' => $message['to']));
   }
 
   $mail_system = new SmtpMailSystem();
@@ -168,4 +169,23 @@ function smtp_failed_messages($message) {
 function smtp_failure_queue_runner($message) {
   $queue = DrupalQueue::get('smtp_send_queue');
   $queue->createItem($message);
+}
+
+/**
+ * Implements hook_variable_info().
+ *
+ * Allows for the SMTP from name to be translated
+ * if/when the Variable module is enabled.
+ *
+ * @link http://api.drupalhelp.net/api/variable/variable.api.php/function/hook_variable_info/7
+ * @param array $options
+ */
+function smtp_variable_info($options) {
+  $variable['smtp_fromname'] = array (
+    'title' => t('Email from name (SMTP module)'),
+    'type' => 'string',
+    'group' => 'smtp',
+  );
+
+  return $variable;
 }

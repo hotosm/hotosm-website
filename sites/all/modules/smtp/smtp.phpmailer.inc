@@ -620,7 +620,7 @@ class PHPMailer {
       $sendmail = sprintf("%s -oi -t", escapeshellcmd($this->Sendmail));
     }
     if ($this->SingleTo === TRUE) {
-      foreach ($this->SingleToArray as $key => $val) {
+      foreach ($this->SingleToArray as $val) {
         if (!@$mail = popen($sendmail, 'w')) {
           throw new phpmailerException(t('Could not execute: !smail', array('!smail' => $this->Sendmail)), self::STOP_CRITICAL);
         }
@@ -672,7 +672,7 @@ class PHPMailer {
       $old_from = ini_get('sendmail_from');
       ini_set('sendmail_from', $this->Sender);
       if ($this->SingleTo === TRUE && count($toArr) > 1) {
-        foreach ($toArr as $key => $val) {
+        foreach ($toArr as $val) {
           $rt = @mail($val, $this->EncodeHeader($this->SecureHeader($this->Subject)), $body, $header, $params);
           // implement call back function if it exists
           $isSent = ($rt == 1) ? 1 : 0;
@@ -688,7 +688,7 @@ class PHPMailer {
     }
     else {
       if ($this->SingleTo === TRUE && count($toArr) > 1) {
-        foreach ($toArr as $key => $val) {
+        foreach ($toArr as $val) {
           $rt = @mail($val, $this->EncodeHeader($this->SecureHeader($this->Subject)), $body, $header, $params);
           // implement call back function if it exists
           $isSent = ($rt == 1) ? 1 : 0;
@@ -2229,7 +2229,6 @@ class PHPMailer {
    * @param string $key_pass Password for private key
    */
   public function DKIM_QP($txt) {
-    $tmp="";
     $line="";
     for ($i=0;$i<strlen($txt);$i++) {
       $ord=ord($txt[$i]);

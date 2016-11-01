@@ -30,10 +30,9 @@ function smtp_uninstall() {
   variable_del('smtp_test_address');
   variable_del('smtp_username');
   variable_del('smtp_debugging');
-
-  if (variable_get('smtp_library', '') == drupal_get_path('module', 'smtp') . '/smtp.module') {
-    variable_del('smtp_library');
-  }
+  variable_del('smtp_client_hostname');
+  variable_del('smtp_client_helo');
+  variable_del('smtp_deliver');
 }
 
 /**
@@ -54,6 +53,8 @@ function smtp_update_7000() {
   if (variable_get('smtp_on', 0) != 0) {
     variable_set('mail_system', array('default-system' => 'SmtpMailSystem'));
   }
+  // Not used any more in D7.
+  variable_del('smtp_library');
 }
 
 /**
@@ -85,4 +86,11 @@ function smtp_update_7101() {
   }
 
   variable_set('smtp_debugging', $logging);
+}
+
+/**
+ * Remove the unused 'smtp_library' variable.
+ */
+function smtp_update_7102() {
+  variable_del('smtp_library');
 }

@@ -5,9 +5,9 @@ package = "Display Suite"
 dependencies[] = ds
 configure = admin/structure/ds/list/search
 
-; Information added by Drupal.org packaging script on 2016-02-11
-version = "7.x-2.13"
+; Information added by Drupal.org packaging script on 2016-04-26
+version = "7.x-2.14"
 core = "7.x"
 project = "ds"
-datestamp = "1455211441"
+datestamp = "1461696967"
 
