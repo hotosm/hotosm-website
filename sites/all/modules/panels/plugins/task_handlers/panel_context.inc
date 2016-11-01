@@ -219,23 +219,23 @@ function panels_panel_context_tab_operation($handler, $contexts, $args) {
  *   for the handler and pla
  */
 function &panels_panel_context_get_display(&$handler) {
-  if (isset($handler->conf['display'])) {
-    return $handler->conf['display'];
-  }
+  if (!isset($handler->conf['display'])) {
+    if (isset($handler->conf['did'])) {
+      $handler->conf['display'] = panels_load_display($handler->conf['did']);
+    }
 
-  if (isset($handler->conf['did'])) {
-    $handler->conf['display'] = panels_load_display($handler->conf['did']);
-
-    // Check for a valid display. If no valid display can be loaded, something
-    // is wrong and we'll create a new one.
-    if (!empty($handler->conf['display'])) {
-      return $handler->conf['display'];
+    // Check for again for a valid display. If no valid display could be loaded,
+    // something is wrong and we'll create a new one.
+    if (empty($handler->conf['display'])) {
+      $handler->conf['display'] = panels_new_display();
     }
   }
 
-  $handler->conf['display'] = panels_new_display();
+  $display =& $handler->conf['display'];
+  $display->storage_type = 'page_manager';
+  $display->storage_id = !empty($handler->name) ? $handler->name : 'new';
 
-  return $handler->conf['display'];
+  return $display;
 }
 
 /**
@@ -286,7 +286,8 @@ function panels_panel_context_render($handler, $base_contexts, $args, $test = TR
 
   $display->context = $contexts;
   $display->args = $args;
-  $display->css_id = $handler->conf['css_id'];
+  $page_css_id = ctools_context_keyword_substitute($handler->conf['css_id'], array(), $contexts);
+  $display->css_id = check_plain($page_css_id);
   $task_name = page_manager_make_task_name($handler->task, $handler->subtask);
 
   $display->cache_key = panels_panel_context_cache_key($task_name, $handler->name, $args);
@@ -297,7 +298,9 @@ function panels_panel_context_render($handler, $base_contexts, $args, $test = TR
     $css_id = 'panel_context:' . $handler->name;
     $filename = ctools_css_retrieve($css_id);
     if (!$filename) {
-      $filename = ctools_css_store($css_id, $handler->conf['css']);
+      // Add keywords from context
+      $css = ctools_context_keyword_substitute($handler->conf['css'], array(), $contexts, array('css safe' => TRUE));
+      $filename = ctools_css_store($css_id, $css);
     }
     drupal_add_css($filename);
   }
@@ -318,19 +321,21 @@ function panels_panel_context_render($handler, $base_contexts, $args, $test = TR
   $panel_body_css = &drupal_static('panel_body_css');
 
   if (isset($handler->conf['body_classes_to_remove'])) {
+    $classes = ctools_context_keyword_substitute($handler->conf['body_classes_to_remove'], array(), $contexts, array('css safe' => TRUE));
     if (!isset($panel_body_css['body_classes_to_remove'])) {
-      $panel_body_css['body_classes_to_remove'] = $handler->conf['body_classes_to_remove'];
+      $panel_body_css['body_classes_to_remove'] = check_plain($classes);
     }
     else{
-      $panel_body_css['body_classes_to_remove'] .= ' ' . $handler->conf['body_classes_to_remove'];
+      $panel_body_css['body_classes_to_remove'] .= ' ' . check_plain($classes);
     }
   }
   if (isset($handler->conf['body_classes_to_add'])) {
+    $classes = ctools_context_keyword_substitute($handler->conf['body_classes_to_add'], array(), $contexts, array('css safe' => TRUE));
     if (!isset($panel_body_css['body_classes_to_add'])) {
-      $panel_body_css['body_classes_to_add'] = $handler->conf['body_classes_to_add'];
+    $panel_body_css['body_classes_to_add'] = check_plain($classes);
     }
     else {
-      $panel_body_css['body_classes_to_add'] .= ' '. $handler->conf['body_classes_to_add'];
+      $panel_body_css['body_classes_to_add'] .= ' '. check_plain($classes);
     }
   }
 
@@ -366,8 +371,8 @@ function panels_panel_context_save(&$handler, $update) {
   ctools_include('css');
   ctools_css_clear('panel_context:' . $handler->name);
 
-  if (isset($page->conf['temp_layout'])) {
-    unset($page->conf['temp_layout']);
+  if (isset($handler->conf['temp_layout'])) {
+    unset($handler->conf['temp_layout']);
   }
 }
 
@@ -738,6 +743,10 @@ function panels_panel_context_edit_content_validate(&$form, &$form_state) {
 }
 
 function panels_panel_context_edit_content_submit(&$form, &$form_state) {
+  // Update the storage_id if this is a new variant before saving.
+  if ($form_state['display']->storage_id == 'new') {
+    $form_state['display']->storage_id = $form_state['handler_id'];
+  }
   panels_edit_display_form_submit($form, $form_state);
   $handler = &$form_state['handler'];
 
@@ -775,7 +784,7 @@ function panels_panel_context_edit_settings($form, &$form_state) {
     '#size' => 128,
     '#default_value' => empty($conf['body_classes_to_remove']) ? '' : $conf['body_classes_to_remove'],
     '#title' => t('Remove body CSS classes'),
-    '#description' => t('The CSS classes to remove from the body element of this page. Separated by a space. For example: no-sidebars one-sidebar sidebar-first sidebar-second two-sidebars.'),
+    '#description' => t('The CSS classes to remove from the body element of this page. Separated by a space. For example: no-sidebars one-sidebar sidebar-first sidebar-second two-sidebars. Keywords from context are allowed.'),
   );
 
   $form['conf']['body_classes_to_add'] = array(
@@ -783,7 +792,7 @@ function panels_panel_context_edit_settings($form, &$form_state) {
     '#size' => 128,
     '#default_value' => empty($conf['body_classes_to_add']) ? '' : $conf['body_classes_to_add'],
     '#title' => t('Add body CSS classes'),
-    '#description' => t('The CSS classes to add to the body element of this page. Separated by a space. For example: no-sidebars one-sidebar sidebar-first sidebar-second two-sidebars.'),
+    '#description' => t('The CSS classes to add to the body element of this page. Separated by a space. For example: no-sidebars one-sidebar sidebar-first sidebar-second two-sidebars. Keywords from context are allowed.'),
   );
 
   ctools_include('plugins', 'panels');
@@ -823,13 +832,13 @@ function panels_panel_context_edit_settings($form, &$form_state) {
     '#size' => 35,
     '#default_value' => $conf['css_id'],
     '#title' => t('CSS ID'),
-    '#description' => t('The CSS ID to apply to this page'),
+    '#description' => t('The CSS ID to apply to this page. Keywords from context are allowed.'),
   );
 
   $form['conf']['css'] = array(
     '#type' => 'textarea',
     '#title' => t('CSS code'),
-    '#description' => t('Enter well-formed CSS code here; this code will be embedded into the page, and should only be used for minor adjustments; it is usually better to try to put CSS for the page into the theme if possible. This CSS will be filtered for safety so some CSS may not work.'),
+    '#description' => t('Enter well-formed CSS code here; this code will be embedded into the page, and should only be used for minor adjustments; it is usually better to try to put CSS for the page into the theme if possible. This CSS will be filtered for safety so some CSS may not work. Keywords from context are allowed.'),
     '#default_value' => $conf['css'],
   );
 

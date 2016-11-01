@@ -35,7 +35,7 @@ function boost_admin_htaccess_settings() {
   $form['htaccess'] = array(
     '#type'          => 'fieldset',
     '#title'         => t('Boost Apache .htaccess settings generation'),
-    '#description'   => t('<a href="!link">Explanation of .htaccess variables</a> <br /><br /> <strong>Be sure to save the configuration and then go to the <a href="!rules">htaccess rules generation page</a> and copy the rules.</strong>', array('!link' => url('http://www.askapache.com/htaccess/mod_rewrite-variables-cheatsheet.html'), '!rules' => url('admin/config/system/boost/htaccess/generator'))),
+    '#description'   => t('<a href="!link">Explanation of .htaccess variables</a> <br /><br />  <em>Be sure to save the configuration and then go to the <a href="!rules">htaccess rules generation page</a> and copy the rules.</em> <br /><strong>Apache 2.4 users should uncomment the two marked sections, each line beginning with #</strong> ', array('!link' => url('http://www.askapache.com/htaccess/mod_rewrite-variables-cheatsheet.html'), '!rules' => url('admin/config/system/boost/htaccess/generator'))),
   );
   $form['htaccess']['boost_server_name_http_host'] = array(
     '#type'          => 'radios',
@@ -203,16 +203,12 @@ function boost_admin_htaccess_generate_htaccess() {
   $normal_count = 0;
   foreach ($enabled_file_extensions as $extension => $values) {
     $type = $values['content_type'];
-    if ($values['gzip']) {
-      $output['gzip'] .= "  RewriteCond $document_root$base_path$cache_dir/%{ENV:boostpath}/$server_name%{REQUEST_URI}$char%{QUERY_STRING}\.$extension\.gz -s\n";
-      $output['gzip'] .= "  RewriteRule .* $cache_dir/%{ENV:boostpath}/$server_name%{REQUEST_URI}$char%{QUERY_STRING}\.$extension\.gz [L,T=$type,E=no-gzip:1]\n";
-      $gzip_count++;
-    }
     $output['normal'] .= "  RewriteCond $document_root$base_path$cache_dir/%{ENV:boostpath}/$server_name%{REQUEST_URI}$char%{QUERY_STRING}\.$extension -s\n";
     $output['normal'] .= "  RewriteRule .* $cache_dir/%{ENV:boostpath}/$server_name%{REQUEST_URI}$char%{QUERY_STRING}\.$extension [L,T=$type]\n";
     $normal_count++;
   }
-  $skip = !empty($gzip_count) ? $normal_count + $gzip_count + 1 : $normal_count;
+  $skip = !empty($gzip_count) ? $normal_count + $gzip_count + 1 : $normal_count + 1;
+   
 
   // Generate the rules
   $string  = "  ### BOOST START ###\n";
@@ -222,6 +218,14 @@ function boost_admin_htaccess_generate_htaccess() {
     $string .= "  # Allow for alt paths to be set via htaccess rules; allows for cached variants (future mobile support)\n";
     $string .= "  RewriteRule .* - [E=boostpath:$normal_dir]\n";
     $string .= "\n";
+
+    $string .= "#  # Apache 2.4 bug workaround\n";
+    $string .= "#  # Enables Search from home page https://drupal.org/node/2078595#comment-8724321\n";
+    $string .= "#  RewriteCond %{REQUEST_METHOD} ^(POST)$\n";
+    $string .= "#  RewriteCond %{REQUEST_URI} $base_path\n";
+    $string .= "#  RewriteRule .* $base_path [S=" . ($skip+1) . "]\n";
+    $string .= "\n";
+
     $string .= "  # Caching for anonymous users\n";
     $string .= "  # Skip boost IF not get request OR uri has wrong dir OR cookie is set OR request came from this server" . (variable_get('boost_ssl_bypass', BOOST_SSL_BYPASS) ? " OR https request" : "") . "\n";
     $string .= "  RewriteCond %{REQUEST_METHOD} !^(GET|HEAD)$ [OR]\n";
@@ -233,11 +237,16 @@ function boost_admin_htaccess_generate_htaccess() {
     $string .= "  RewriteCond %{ENV:REDIRECT_STATUS} 200\n";
     $string .= "  RewriteRule .* - [S=$skip]\n";
     $string .= "\n";
-    $string .= "  # GZIP\n";
-    $string .= "  RewriteCond %{HTTP:Accept-encoding} !gzip\n";
-    $string .= "  RewriteRule .* - [S=$gzip_count]\n";
-    $string .= $output['gzip'];
+
+    $string .= "#  # Apache 2.4 bug workaround\n";
+    $string .= "#  # Enables caching of index/ home page\n";
+    $string .= "#  RewriteCond %{REQUEST_URI} ^" . "$base_path" . "index\.php$\n";
+    $string .= "#  RewriteCond $document_root$base_path$cache_dir/%{ENV:boostpath}/%{HTTP_HOST}" . $base_path . "\\" . $char . "%{QUERY_STRING}\.html -s\n";
+
+    $string .= "#  RewriteRule .* $cache_dir/%{ENV:boostpath}/$server_name$base_path" . "\\" . $char ."%{QUERY_STRING}\.html [L,T=text/html]";
     $string .= "\n";
+    $string .= "\n";
+
     $string .= "  # NORMAL\n";
     $string .= $output['normal'];
   }

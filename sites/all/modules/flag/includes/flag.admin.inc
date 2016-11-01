@@ -401,7 +401,7 @@ function flag_form($form, &$form_state, $flag) {
         t('Add this [node:type] to your favorites'),
         t('Vote for this proposal ([node:flag-vote-count] people have already done so)'),
       ),
-      'attributes' => array('class' => 'token-examples'),
+      'attributes' => array('class' => array('token-examples')),
     )) .
     '<p>' . t('These tokens will be replaced with the appropriate fields from the node (or user, or comment).') . '</p>' .
     theme('flag_tokens_browser', array('types' => $flag->get_labels_token_types())),

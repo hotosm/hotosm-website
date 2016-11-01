@@ -216,7 +216,7 @@ function theme_flag_tokens_browser($variables) {
   $global_types = $variables['global_types'];
 
   if (module_exists('token')) {
-    return theme('token_tree', array('token_types' => $types, 'global_types' => $global_types));
+    return theme('token_tree', array('token_types' => $types, 'global_types' => $global_types, 'dialog' => TRUE));
   }
   else {
     return '<p><em>' . t("Note: You don't have the <a href='@token-url'>Token</a> module installed, so the list of available tokens isn't shown here. You don't have to install <a href='@token-url'>Token</a> to be able to use tokens, but if you have it installed, and enabled, you'll be able to enjoy an interactive tokens browser.", array('@token-url' => 'http://drupal.org/project/token')) . '</em></p>';

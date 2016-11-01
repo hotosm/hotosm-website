@@ -275,7 +275,6 @@ function flag_menu() {
     'access callback' => 'user_access',
     'access arguments' => array('administer flags'),
     'file' => 'includes/flag.admin.inc',
-    'type' => MENU_LOCAL_TASK,
     // Make the flag title the default title for descendant menu items.
     'title callback' => '_flag_menu_title',
     'title arguments' => array(FLAG_ADMIN_PATH_START + 1),

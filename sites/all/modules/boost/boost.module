@@ -188,7 +188,7 @@ function boost_menu() {
 function boost_permission() {
   return array(
     'boost flush pages' => array(
-      'title' => t('Flush pages from Boost cache'), 
+      'title' => t('Flush pages from Boost cache'),
       'description' => t('Allow users to flush individual pages from the Boost cache using the Boost status block.'),
     ),
   );
@@ -199,7 +199,7 @@ function boost_permission() {
  */
 function boost_block_info() {
   $blocks['status'] = array(
-    'info' => t('Boost: Pages cache status'), 
+    'info' => t('Boost: Pages cache status'),
     'cache' => DRUPAL_NO_CACHE,
   );
 
@@ -257,6 +257,17 @@ function boost_init() {
   drupal_alter('boost_cookie_handler_callback', $cookie_handler_callback);
   if (function_exists($cookie_handler_callback)) {
     $cookie_handler_callback();
+  }
+}
+
+/**
+ * Implements hook_form_alter().
+ */
+function boost_form_alter(&$form, &$form_state, $form_id) {
+  global $_boost;
+
+  if (! empty($_boost['cache_this'])) {
+    $form['#immutable'] = TRUE;
   }
 }
 
@@ -326,7 +337,7 @@ function boost_exit($destination = NULL) {
 
     // Gzip support.
     if (BOOST_GZIP && $_boost['matched_header_info']['gzip']) {
-      // #1416214
+      // #1416214 https://drupal.org/node/1416214#comment-7225650
       // boost_write_file($_boost['filename'] . '.gz', gzencode($data, 9));
     }
   }
@@ -374,15 +385,16 @@ function boost_flush_caches() {
 /**
  * Implements hook_expire_cache (from the 'expire' module)
  */
-function boost_expire_cache($urls) {
+function boost_expire_cache($urls, $wildcards, $object_type, $object) {
   global $base_root;
 
-  foreach ($urls as $url) {
+  foreach ($urls as $key => $url) {
     // Check if the URL to be flushed matches our base URL
     // base_root: http://www.example.org
     // url: http://www.example.org/node/123
     if (strpos($url, $base_root) === 0) {
-      $boost = boost_transform_url($url);
+      // Decode the url since it may have a query string that has been encoded
+      $boost = boost_transform_url(urldecode($url));
 
       // We need the extention for the filename
       $boost['header_info'] = boost_get_header_info();
@@ -393,18 +405,26 @@ function boost_expire_cache($urls) {
         continue;
       }
 
-      $filename = (isset($boost['filename']) ? $boost['filename'] . '.' . $boost['matched_header_info']['extension'] : NULL);
-
-      if ($filename && file_exists($filename)) {
-        if (unlink($filename)) {
-          boost_log('Removed !file from the boost cache.', array('!file' => $filename), WATCHDOG_DEBUG);
-        }
-        else {
-          boost_log('Could not delete !file from the boost cache. Check file permissions.', array('!file' => $filename), WATCHDOG_WARNING);
-        }
+      // If wildcards are enabled, we'll need to create a wildcard pattern for globbing
+      if ($wildcards[$key]) {
+        $pattern = (isset($boost['filename']) ? $boost['filename'] . '*.' . $boost['matched_header_info']['extension'] : NULL);
       }
       else {
-        boost_log('Could not delete the cache for !url, file !file does not exist.', array('!url' => $url, '!file' => $filename), WATCHDOG_DEBUG);
+        $pattern = (isset($boost['filename']) ? $boost['filename'] . '.' . $boost['matched_header_info']['extension'] : NULL);
+      }
+
+      // Remove the files
+      $files = glob($pattern, GLOB_NOSORT);
+
+      if ($files) {
+        foreach ($files as $filename) {
+          if (unlink($filename)) {
+            boost_log('Removed !file from the boost cache.', array('!file' => $filename), WATCHDOG_DEBUG);
+          }
+          else {
+            boost_log('Could not delete the cache for !url, file !file does not exist.', array('!url' => $url, '!file' => $filename), WATCHDOG_DEBUG);
+          }
+        }
       }
     }
   }
