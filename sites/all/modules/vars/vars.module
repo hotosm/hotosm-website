@@ -36,7 +36,7 @@ function vars_modules_uninstalled($modules) {
   foreach ($defaults as $default) {
     $name = $default->name;
 
-    if ($default->flags & self::VARS_DYNAMIC) {
+    if ($default->flags & Vars::VARS_DYNAMIC) {
       $name_like = db_like($name . '_') . '%';
       $vars = db_select('variable', 'v')
         ->condition(db_or()
