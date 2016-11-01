@@ -1,0 +1,26 @@
+AddDefaultCharset utf-8
+FileETag MTime Size
+<FilesMatch "\.(html)(\.gz)?$">
+  <IfModule mod_expires.c>
+    ExpiresDefault A5
+  </IfModule>
+  <IfModule mod_headers.c>
+    Header set Expires "Sun, 19 Nov 1978 05:00:00 GMT"
+    Header unset Last-Modified
+    Header append Vary Accept-Encoding
+    Header set Cache-Control "no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+    Header set X-Cached-By "Boost"
+  </IfModule>
+</FilesMatch>
+<IfModule mod_mime.c>
+  AddCharset utf-8 .html
+  AddEncoding gzip .gz
+</IfModule>
+<FilesMatch "\.html(\.gz)?$">
+  ForceType text/html
+</FilesMatch>
+
+SetHandler Drupal_Security_Do_Not_Remove_See_SA_2006_006
+Options None
+Options +FollowSymLinks
+
