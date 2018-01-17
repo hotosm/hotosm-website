@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the HOT updates feature.
- */
-
-include_once 'hot_updates.features.inc';
