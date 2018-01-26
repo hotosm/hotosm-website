@@ -1,7 +1,7 @@
 ---
-title: "LEGIT: Supporting decentralization in Liberian cities"
+title: 'LEGIT: Supporting decentralization in Liberian cities'
 date: 2018-01-19 15:23:00 Z
-description: "Local Empowerment for Government Inclusion and Transparency (LEGIT)"
+description: Local Empowerment for Government Inclusion and Transparency (LEGIT)
 layout: page
 project-type:
 - community development

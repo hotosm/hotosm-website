@@ -1,5 +1,6 @@
 ---
-title: "Nethope Device Challenge: providing devices and training to 12 OSM communities - update!"
+title: 'Nethope Device Challenge: providing devices and training to 12 OSM communities
+  - update!'
 date: 2018-01-18 11:36:00 Z
 categories:
 - jekyll
@@ -7,7 +8,7 @@ categories:
 working-group:
 - community
 related-project:
-- "Microgrants and Community Development"
+- Microgrants and Community Development
 author:
 - Amelia Hunt
 layout: post

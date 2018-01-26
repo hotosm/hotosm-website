@@ -1,7 +1,7 @@
 ---
 title: Microgrants and Community Development
 date: 2018-01-19 15:23:00 Z
-description: "Local open geospatial projects that contribute to the #GlobalGoals"
+description: 'Local open geospatial projects that contribute to the #GlobalGoals'
 layout: page
 project-type:
 - community development
