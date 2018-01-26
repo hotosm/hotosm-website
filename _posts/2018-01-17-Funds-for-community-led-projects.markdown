@@ -3,7 +3,6 @@ title: 'Funds for community-led projects to improve resilience to disasters and 
   the 2018 HOT Microgrants program'
 date: 2018-01-17 11:36:00 Z
 categories:
-- jekyll
 - update
 working-group:
 - community
