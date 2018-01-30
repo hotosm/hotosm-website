@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the HOT Multilingual feature.
- */
-
-include_once 'hot_multilingual.features.inc';

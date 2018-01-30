@@ -1,6 +1,0 @@
-/**
- * Issue #1966296: Info tooltip styling is broken for GeofieldMap
- */
-.geofieldMap img {
-  max-width: none;
-}

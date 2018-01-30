@@ -1,7 +1,0 @@
-$debug-grid: false !default;
-
-@mixin grid-background {
-  @if $debug-grid == true {
-    @include background-grid;
-  }
-}

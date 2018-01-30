@@ -1,0 +1,26 @@
+---
+title: Humanitarian OpenStreetMap Team
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: true
+    permalink: "/projects/:path/"
+  uploads:
+    title: Uploads
+    output: true
+email: info@hotosm.org
+description: Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+baseurl: 
+url: 
+twitter_username: hotosm
+github_username: hotosm
+markdown: kramdown
+theme: minima
+plugins:
+- jekyll-feed
