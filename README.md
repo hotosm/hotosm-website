@@ -1,5 +1,12 @@
 
-This repo contains a copy of code powering the website http://hotosm.org (The Humanitarian OpenStreetMap Team)
+# HOTOSM Website
+
+This repo is the codebase for the main Humanitarian OpenStreetMap Team website. Under active development to rebuild and redesign. See `gh-pages` branch for Jekyll code. If looking for the previous Drupal codebase, see the current `master` branch. 
+
+ - See the [issues queue](https://github.com/hotosm/hotosm-website/issues) for all discussions and tasks. 
+ - Chat available on [HOTOSM Slack](https://slack.hotosm.org/) within the #hotosm-website channel.
+
+Preview site at: http://hotosm.github.io/hotosm-website/. 
 
 ## Getting Started with Development
 
