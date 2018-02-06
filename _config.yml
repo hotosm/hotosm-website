@@ -2,7 +2,7 @@
 title: Humanitarian OpenStreetMap Team
 timezone: UTC
 collections:
-  impact-areas:
+  our-work-impact-areas:
     title: Impact Areas
     output: true
   posts:
