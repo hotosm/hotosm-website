@@ -2,7 +2,7 @@
 title: Humanitarian OpenStreetMap Team
 timezone: UTC
 collections:
-  countries:
+  where-we-work:
     title: Countries
     output: true
   our-work:
