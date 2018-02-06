@@ -2,7 +2,7 @@
 title: Projects
 date: 2018-01-24 11:36:00 Z
 permalink: "/projects/"
-position: 2
+position: 1
 layout: page
 ---
 
