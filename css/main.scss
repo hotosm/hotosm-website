@@ -3,9 +3,40 @@
 
 @charset "utf-8";
 
+$red: #D73F3F;
+$red-light: #FFEDED;
+$orange: #FAA71E;
+$tan: #F0EFEF;
+$blue-dark: #2C3038;
+$blue-grey: #68707F;
+$blue-light: #929DB3;
+$grey-light: #E1E0E0;
+
+$black: $blue-dark;
+$white: #FFF;
+
+$border-color: #E1E0E0;
+
 $font-default: 'Archivo', sans-serif;
 $font-headline: 'Barlow Condensed', sans-serif;
 
+$screen-xs: 800px;
+$screen-sm: 1024px;
+$screen-md: 1280px;
+
+
+// Tint and shade mixins
+
+@function tint($color, $percentage) {
+  @return mix(white, $color, $percentage);
+}
+
+@function shade($color, $percentage) {
+  @return mix(black, $color, $percentage);
+}
+
+
 @import
+  "reset",
   "base"
 ;
