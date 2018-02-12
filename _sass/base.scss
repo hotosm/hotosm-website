@@ -21,6 +21,18 @@ h1 {
   color: $red;
 }
 
+h4 {
+  font-size: 1.375rem;
+  margin: 0 0 12px;
+  color: $blue-dark;
+}
+
+h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: $blue-grey;
+}
+
 a {
   color: $red;
 }
@@ -30,9 +42,13 @@ p {
   line-height: 1.35;
 }
 
+img {
+  max-width: 100%;
+}
+
 .hr-v {
   width: 1px;
-  height: 100%;
+  min-height: 100%;
   background-color: $border-color;
 }
 
@@ -62,55 +78,53 @@ p {
   }
 }
 
+.module-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.module-text {
+  font-size: 0.9375rem;
+  margin-bottom: 32px;
+  flex-grow: 1;
+  p {
+    margin-bottom: 12px;
+  }
+}
+
+.module-image {
+  display: block;
+}
+
+.module-cta {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: $blue-dark;
+  position: relative;
+  top: -9px;
+  &:after {
+    content: '';
+    display: block;
+    // float: right;
+    position: absolute;
+    right: 0;
+    bottom: -9px;
+    height: 40px;
+    width: 40px;
+    background-image: url(../images/chevron-white.svg);
+    background-color: $blue-dark;
+    background-repeat: no-repeat;
+    background-position: left 17px center;
+    border-radius: 20px;
+    box-shadow: $default-box-shadow;
+    transition: background-color 0.3s ease-in-out;
+  }
+}
+
 .module {
   display: block;
   padding: 24px;
-  h4 {
-    font-size: 1.375rem;
-    margin: 0 0 12px;
-  }
-  img {
-    max-width: 100%;
-  }
-  .module-details {
-    display: flex;
-    flex-direction: column;
-  }
-  .module-text {
-    font-size: 0.875rem;
-    margin-bottom: 32px;
-    flex-grow: 1;
-    p {
-      margin-bottom: 12px;
-    }
-  }
-  .module-cta {
-    font-size: 0.875rem;
-    font-weight: 600;
-    color: $blue-dark;
-    position: relative;
-    top: -9px;
-    &:after {
-      content: '';
-      display: block;
-      // float: right;
-      position: absolute;
-      right: 0;
-      bottom: -9px;
-      height: 40px;
-      width: 40px;
-      background-image: url(../images/chevron-white.svg);
-      background-color: $blue-dark;
-      background-repeat: no-repeat;
-      background-position: left 17px center;
-      border-radius: 20px;
-      box-shadow: $default-box-shadow;
-      transition: background-color 0.3s ease-in-out;
-    }
-  }
-  .module-image {
-    display: block;
-  }
+  text-decoration: none;
   &.light {
     display: grid;
     grid-gap: 24px;
@@ -144,7 +158,6 @@ p {
   }
   &.link-through {
     color: $blue-dark;
-    text-decoration: none;
     transition: box-shadow 0.3s ease-in-out;
     &:hover {
       box-shadow: $hover-box-shadow;
@@ -156,6 +169,33 @@ p {
         background-color: $red;
       }
     }
+  }
+}
+
+.box-group {
+  background-color: $tan;
+  padding: 40px;
+  margin-bottom: 24px;
+  border-radius: 2px;
+  .box-header {
+    margin-bottom: 24px;
+  }
+  .box-body {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+  }
+  .box-item {
+    text-decoration: none;
+  }
+  .hr-v {
+    width: 1px;
+    background-color: shade($border-color, 20%);
+    margin: 0 40px;
+    align-self: stretch;
+  }
+  .module-image {
+    margin-bottom: 20px;
   }
 }
 
