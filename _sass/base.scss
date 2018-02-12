@@ -8,10 +8,26 @@ html {
 
 body {
   font-family: $font-default;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-family: $font-headline;
+  font-size: 4rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: $red;
 }
 
 a {
   color: $red;
+}
+
+p {
+  color: $blue-grey;
+  line-height: 1.35;
 }
 
 .hr-v {
@@ -20,8 +36,161 @@ a {
   background-color: $border-color;
 }
 
+.page-header {
+  margin-top: 48px;
+  margin-bottom: 32px;
+}
+
+
+////////////////////////////////////////////////
+/////////////// Grid & Containers //////////////
+////////////////////////////////////////////////
+
+
+.container {
+  padding: 0 40px;
+  margin: 0 auto;
+}
+
+.module-group {
+  display: grid;
+  grid-gap: 24px;
+  grid-template-columns: repeat(3, 1fr);
+  margin-bottom: 24px;
+  &.grid-two-rows {
+    grid-template-rows: repeat(2, 1fr);
+  }
+}
+
+.module {
+  display: block;
+  padding: 24px;
+  h4 {
+    font-size: 1.375rem;
+    margin: 0 0 12px;
+  }
+  img {
+    max-width: 100%;
+  }
+  .module-details {
+    display: flex;
+    flex-direction: column;
+  }
+  .module-text {
+    font-size: 0.875rem;
+    margin-bottom: 32px;
+    flex-grow: 1;
+    p {
+      margin-bottom: 12px;
+    }
+  }
+  .module-cta {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: $blue-dark;
+    position: relative;
+    top: -9px;
+    &:after {
+      content: '';
+      display: block;
+      // float: right;
+      position: absolute;
+      right: 0;
+      bottom: -9px;
+      height: 40px;
+      width: 40px;
+      background-image: url(../images/chevron-white.svg);
+      background-color: $blue-dark;
+      background-repeat: no-repeat;
+      background-position: left 17px center;
+      border-radius: 20px;
+      box-shadow: $default-box-shadow;
+      transition: background-color 0.3s ease-in-out;
+    }
+  }
+  .module-image {
+    display: block;
+  }
+  &.light {
+    display: grid;
+    grid-gap: 24px;
+    border: 1px solid $border-color;
+    border-radius: $default-border-radius;
+    &.module-cta {
+      padding-bottom: 24px;
+    }
+  }
+  &.light-img {
+    padding: 0;
+    border-radius: $default-border-radius;
+    overflow: hidden;
+    display: grid;
+    grid-auto-rows: 1fr;
+    grid-gap: 24px;
+    border: 1px solid $border-color;
+    .module-details {
+      padding: 24px;
+      border-bottom: none;
+      border-top-left-radius: $default-border-radius;
+      border-top-right-radius: $default-border-radius;
+    }
+    .module-image {
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+  }
+  &.link-through {
+    color: $blue-dark;
+    text-decoration: none;
+    transition: box-shadow 0.3s ease-in-out;
+    &:hover {
+      box-shadow: $hover-box-shadow;
+    }
+  }
+  &:hover {
+    .module-cta {
+      &:after {
+        background-color: $red;
+      }
+    }
+  }
+}
+
+.two-rows {
+  .one {
+    grid-row: 1 / 3;
+    grid-gap: 0px;
+  }
+  .two {
+    grid-column: 2 / 4;
+    grid-row: 1 / 2;
+    grid-template-columns: repeat(2, 1fr);
+    .module-details {
+      padding-right: 0;
+    }
+  }
+  .three {
+    grid-column: 2 / 4;
+    grid-row: 2 / 3;
+    grid-template-columns: repeat(2, 1fr);
+    .module-details {
+      padding-right: 0;
+    }
+  }
+}
+
+
+////////////////////////////////////////////////
+////////////////// Navigation //////////////////
+////////////////////////////////////////////////
+
+
 .nav-container {
   position: relative;
+  margin-bottom: 24px;
   @media (min-width: $screen-sm) {
     display: flex;
     flex-direction: column-reverse;

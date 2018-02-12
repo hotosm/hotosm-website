@@ -24,6 +24,11 @@ $screen-xs: 800px;
 $screen-sm: 1024px;
 $screen-md: 1280px;
 
+$default-border-radius: 2px;
+
+$default-box-shadow: 0px 2px 10px rgba(0,0,0,.05);
+$hover-box-shadow: 0px 2px 15px rgba(0,0,0,.15);
+
 
 // Tint and shade mixins
 
