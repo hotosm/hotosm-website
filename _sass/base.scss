@@ -82,13 +82,34 @@ img {
   display: inline-block;
   text-decoration: none;
   border-radius: 2px;
+  box-shadow: $default-box-shadow;
+  transition: all .2s ease-in-out;
+  &:hover {
+    box-shadow: $hover-box-shadow;
+  }
   &.btn-primary {
     color: $white;
     background-color: $red;
     padding: 11px 14px;
+    &:hover {
+      background-color: shade($red, 10%)
+    }
   }
   &.btn-lg {
-    padding: 16px 20px;
+    padding: 16px 16px;
+  }
+  &.btn-chevron {
+    &:after {
+      content: '';
+      display: inline-block;
+      margin-left: 16px;
+      width: 6px;
+      height: 10px;
+      background-image: url(../images/chevron-white.svg);
+      background-repeat: no-repeat;
+      background-position: right center;
+      background-size: contain;
+    }
   }
 }
 
@@ -150,6 +171,16 @@ img {
   }
   h3 {
     color: $white;
+  }
+  &.primary-highlight-module {
+    .highlight-details {
+      padding: 40px;
+    }
+  }
+  &.secondary-highlight-module {
+    .highlight-details {
+      padding: 24px;
+    }
   }
 }
 
