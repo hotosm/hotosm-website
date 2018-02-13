@@ -74,6 +74,26 @@ img {
 
 
 ////////////////////////////////////////////////
+//////////////////// Buttons ///////////////////
+////////////////////////////////////////////////
+
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 2px;
+  &.btn-primary {
+    color: $white;
+    background-color: $red;
+    padding: 11px 14px;
+  }
+  &.btn-lg {
+    padding: 16px 20px;
+  }
+}
+
+
+////////////////////////////////////////////////
 /////////////// Grid & Containers //////////////
 ////////////////////////////////////////////////
 
@@ -95,6 +115,42 @@ img {
 
 .module-header {
   margin-bottom: 24px;
+}
+
+.highlight-module {
+  display: grid;
+  grid-gap: 0;
+  grid-template-columns: repeat(2, 1fr);
+  border-radius: 2px;
+  overflow: hidden;
+  .highlight-details {
+    background-color: $blue-dark;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    p {
+      color: $blue-light;
+    }
+  }
+  .highlight-info {
+    flex: 1;
+  }
+  .highlight-hr {
+    width: 40px;
+    height: 2px;
+    background-color: $blue-grey;
+    margin-bottom: 16px;
+  }
+  .highlight-image {
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+  h3 {
+    color: $white;
+  }
 }
 
 .news-preview-group {
