@@ -12,13 +12,18 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1 {
+h1, h2 {
   font-family: $font-headline;
   font-size: 4rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: .05em;
+  letter-spacing: .045em;
   color: $red;
+}
+
+h2 {
+  font-size: 3rem;
+  margin-bottom: 16px;
 }
 
 h3 {
@@ -433,6 +438,82 @@ img {
   }
 }
 
+.impact-areas-module {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40px 0;
+  @media (min-width: $screen-sm) {
+    min-height: 560px;
+  }
+  @media (max-width: $screen-sm) {
+    // h2 {
+    //   padding-top: 100px;
+    // }
+  }
+  &:before {
+    content: '';
+    display: block;
+    width: 560px;
+    height: 560px;
+    margin: 0 auto;
+    border-radius: 280px;
+    background-image: url(../images/world-blue.png);
+  	background-repeat: no-repeat;
+  	background-position: center center;
+  	background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: $grey-light;
+    opacity: .65;
+  }
+  .impact-areas-wrapper {
+    position: absolute;
+    left: 0;
+    right: 0;
+    padding-bottom: 40px;
+  }
+}
+
+.impact-description {
+  margin-bottom: 24px;
+  font-size: 0.9375rem;
+  @media (min-width: $screen-sm) {
+    display: grid;
+    grid-template-columns: 5fr 7fr;
+    grid-gap: 24px;
+    font-size: 1rem;
+  }
+}
+
+.impact-areas-list {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 0 17px;
+  @media (min-width: $screen-sm) {
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 0 24px;
+  }
+  a {
+    display: inline-block;
+    font-size: 0.9375rem;
+    color: $blue-dark;
+    text-decoration: none;
+    border-bottom: 1px solid tint($blue-dark, 65%);
+    margin-bottom: 16px;
+    @media (min-width: $screen-sm) {
+      font-size: 1.375rem;
+    }
+    &:hover, &:active, &:focus {
+      text-decoration: none;
+      border-bottom: 1px solid tint($red, 0%);
+    }
+  }
+}
+
 
 ////////////////////////////////////////////////
 ////////////////// Navigation //////////////////
@@ -705,10 +786,6 @@ img {
     width: 112px;
     height: 112px;
   }
-}
-
-.footer-nav {
-
 }
 
 .footer-logos, .footer-nav {

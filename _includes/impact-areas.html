@@ -1,0 +1,16 @@
+<div class="container">
+  <div class="impact-areas-module">
+    <div class="impact-areas-wrapper">
+      <h2>Our Impact</h2>
+      <div class="impact-description">
+        <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+      </div>
+      <ul class="impact-areas-list">
+        {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
+        {% for impact-area in sorted-impact-areas %}
+          <li><a href="#" class="nav-link">{{ impact-area.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
