@@ -5,7 +5,7 @@ collections:
   where-we-work:
     title: Countries
     output: true
-  our-work:
+  impact-areas:
     title: Impact Areas
     output: true
   posts:
