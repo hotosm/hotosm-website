@@ -21,6 +21,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  working-groups:
+    title: Working Groups
+    output: true
 defaults:
 - scope:
     path: ''
