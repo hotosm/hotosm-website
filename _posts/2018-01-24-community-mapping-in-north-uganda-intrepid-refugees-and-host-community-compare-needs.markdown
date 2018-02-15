@@ -1,5 +1,6 @@
 ---
-title: X
+title: Community Mapping in North Uganda - Intrepid Refugees and Host Community Compare
+  Needs
 date: 2018-01-24 10:10:00 Z
 ---
 
