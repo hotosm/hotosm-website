@@ -8,8 +8,8 @@ collections:
   impact-areas:
     title: Impact Areas
     output: true
-  updates:
-    title: Posts
+  people:
+    title: People
     output: true
   posts:
     title: Posts
