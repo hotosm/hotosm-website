@@ -1,7 +1,7 @@
 ---
 title: Community Mapping in North Uganda — Intrepid Refugees and Host Community Compare
   Needs
-date: 2018-02-15 10:10:00 Z
+date: 2018-01-24 10:10:00 Z
 ---
 
 Despite the constant coverage of the refugee crisis in the mediterranean, in which refugees arguably influence politics on a regular basis, the largest refugee crisis in the World goes virtually un-covered in mainstream media. Thousands of refugees are arriving from South Sudan into Northern Uganda from terrifying violence, and their new 'resource-poor' life in this unknown place has to self-define more by habits than assets. Routines are what keep order. Bidi bidi is the largest refugee settlement in the world, and a working home to tribal farmers, cowherds, and other rural dwellers from South Sudan. There is also a nautical flow of migrants across lake Albert, and refugees forced to flee are sometimes also being forced to pay an ‘Exit’ fee. Damned if you do, damned if you don’t.
