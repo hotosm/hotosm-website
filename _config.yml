@@ -21,12 +21,14 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
 - scope:
     path: ''
     type: posts
   values:
+    layout: news-item
     Author:
-    Working Group: 
+    Working Group:
 email: info@hotosm.org
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
