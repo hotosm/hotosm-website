@@ -28,6 +28,17 @@ layout: default
       {% endif %}
 
       <div class="news-meta-item">
+        {% if page['Country'] %}
+          <h5>Countries</h5>
+          <ul>
+            {% for country in page.Country %}
+              <li><a href="#">{{ country }}</a></li>
+            {% endfor %}
+          </ui>
+        {% endif %}
+      </div>
+
+      <div class="news-meta-item">
         {% if page['Working Group'] %}
           <h5>Working Groups</h5>
           <ul>
