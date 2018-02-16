@@ -832,7 +832,7 @@ img {
 }
 
 .news-header {
-  margin-top: 80px;
+  margin-top: 64px;
   h1 {
     text-transform: none;
     font-size: 3rem;
@@ -840,7 +840,7 @@ img {
     font-weight: 400;
     color: $blue-dark;
     letter-spacing: 0;
-    line-height: 1.25;
+    line-height: 1.35;
     margin-top: 8px;
     @media (max-width: $screen-sm) {
       font-size: 1.75rem;
@@ -874,6 +874,15 @@ img {
   img {
     width: 100%;
     height: auto;
+    & + em {
+      font-size: 0.8125rem;
+      font-weight: 600;
+      color: $blue-grey;
+    }
+  }
+  strong {
+    font-weight: 600;
+    color: $blue-dark;
   }
   @media (min-width: $screen-sm) {
     grid-column: 4 / -1;
@@ -928,6 +937,7 @@ img {
   padding-bottom: 40px;
   p {
     font-size: 1.375rem;
+    margin-top: 2px;
   }
 }
 
