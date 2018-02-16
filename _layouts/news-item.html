@@ -4,7 +4,7 @@ layout: default
 
 <article class="container news-item">
   <header class="news-header">
-    <h6>News</h6>
+    <h6>News <span>— {{ page.date | date: '%d %B, %Y' }}</span></h6>
     <h1>{{ page.title }}</h1>
   </header>
 
@@ -15,15 +15,37 @@ layout: default
       {{ content }}
     </section>
     <aside class="news-meta">
-      {% if page['Person'] %}
-      Posted by:
-      {{ page['Person'] }}
+      {% capture page.Person %}{% endcapture %}
+        {% assign author = site.people | where: "title", page.Person | first %}
+        {% if page.Person %}
+        <div class="news-author news-meta-item">
+          <div class="author-image"><img src="{{ author.Photo }}"></div>
+          <div>
+            <h5>Posted by</h5>
+            <p class="author-name">{{ author.title }}</p>
+          </div>
+        </div>
       {% endif %}
-      {{ page.date }}
-      {% if page['Working Group'] %}
-      Working Groups:
-      {{ page['Working Group'] }}
-      {% endif %}
+
+      <div class="news-meta-item">
+        {% if page['Working Group'] %}
+          <h5>Working Groups</h5>
+          <ul>
+            <li><a href="#">{{ page['Working Group'] }}</a></li>
+          </ui>
+        {% endif %}
+      </div>
+
+      <div class="news-meta-item">
+        {% if page['Working Group'] %}
+          <h5>Associated Projects</h5>
+          <ul>
+            <li><a href="#">Project Name</a></li>
+            <li><a href="#">Another Project Name</a></li>
+          </ui>
+        {% endif %}
+      </div>
+
     </aside>
   </div>
 </article>
