@@ -2,6 +2,7 @@
 title: Community Mapping in North Uganda — Intrepid Refugees and Host Community Compare
   Needs
 date: 2018-01-24 10:10:00 Z
+Summary Text: "Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros."
 Feature Image: "/uploads/Congestion%20at%20the%20Water%20PumpSmall.jpg"
 Person: Rupert Allan
 Working Group:

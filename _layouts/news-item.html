@@ -12,7 +12,19 @@ layout: default
 
   <div class="news-body">
     <section class="news-article">
-      {{ content }}
+
+      {% if page['Feature Image'] %}
+        <img class="news-feature-image" src="{{ page['Feature Image'] }}">
+      {% endif %}
+
+      {% if page['Summary Text'] %}
+        <p class="news-summary">{{ page['Summary Text']}}</p>
+      {% endif %}
+      
+      <div class="news-content">
+        {{ content }}
+      </div>
+
     </section>
     <aside class="news-meta">
       {% capture page.Person %}{% endcapture %}
@@ -27,25 +39,27 @@ layout: default
         </div>
       {% endif %}
 
-      <div class="news-meta-item">
-        {% if page['Country'] %}
+      {% if page.Country[0] != '' %}
+        <div class="news-meta-item">
           <h5>Countries</h5>
           <ul>
             {% for country in page.Country %}
               <li><a href="#">{{ country }}</a></li>
             {% endfor %}
           </ui>
-        {% endif %}
-      </div>
+        </div>
+      {% endif %}
 
-      <div class="news-meta-item">
-        {% if page['Working Group'] %}
+      {% if page['Working Group'][0] != '' %}
+        <div class="news-meta-item">
           <h5>Working Groups</h5>
           <ul>
-            <li><a href="#">{{ page['Working Group'] }}</a></li>
+            {% for group in page['Working Group'] %}
+              <li><a href="#">{{ group }}</a></li>
+            {% endfor %}
           </ui>
-        {% endif %}
-      </div>
+        </div>
+      {% endif %}
 
       <div class="news-meta-item">
         {% if page['Working Group'] %}
