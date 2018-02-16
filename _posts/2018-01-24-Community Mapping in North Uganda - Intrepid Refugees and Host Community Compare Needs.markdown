@@ -18,7 +18,7 @@ Despite the constant coverage of the refugee crisis in the mediterranean, in whi
 First impressions are that the spaced-out tarpaulin shelters just never stop, and as you keep driving, it can take an hour to cross even one of the divisions within the settlements.
 
 ![MosesMawa Intrepid Refugee SurveyorSmall.jpeg](/uploads/MosesMawa%20Intrepid%20Refugee%20SurveyorSmall.jpeg)
-> BidiBidi, the World’s largest Refugee Camp.
+> Sample image caption: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum
 
 The numbers of refugees in Ugandan have now swelled to more than 1.3 million people, and over the course of 2017, over 7,000 were logged as arrivals PER DAY during peak times. Most of these are Women and Children, young men in South Sudan and Congo stopped from escape, and forced as conscripts to get involved in the very skirmishes and violence that makes them take that terrifying step of deciding to go.
 
