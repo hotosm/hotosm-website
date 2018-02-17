@@ -9,7 +9,7 @@ collections:
     title: Impact Areas
     output: true
   posts:
-    title: News Posts
+    title: News
     output: true
   partners:
     title: Partners
