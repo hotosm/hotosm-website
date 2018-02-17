@@ -26,11 +26,11 @@ layout: default
       </div>
 
     </section>
-    <aside class="news-meta">
+    <aside class="meta">
       {% capture page.Person %}{% endcapture %}
         {% assign author = site.people | where: "title", page.Person | first %}
         {% if page.Person %}
-        <div class="news-author news-meta-item">
+        <div class="news-author meta-item">
           <div class="author-image"><img src="{{ author.Photo }}"></div>
           <div>
             <h5>Posted by</h5>
@@ -40,7 +40,7 @@ layout: default
       {% endif %}
 
       {% if page.Country[0] != '' %}
-        <div class="news-meta-item">
+        <div class="meta-item">
           <h5>Countries</h5>
           <ul>
             {% for country in page.Country %}
@@ -51,7 +51,7 @@ layout: default
       {% endif %}
 
       {% if page['Working Group'][0] != '' %}
-        <div class="news-meta-item">
+        <div class="meta-item">
           <h5>Working Groups</h5>
           <ul>
             {% for group in page['Working Group'] %}
@@ -61,7 +61,7 @@ layout: default
         </div>
       {% endif %}
 
-      <div class="news-meta-item news-projects">
+      <div class="meta-item news-projects">
         {% if page['Working Group'] %}
           <h5>Associated Projects</h5>
           <ul>

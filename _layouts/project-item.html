@@ -6,11 +6,36 @@ layout: default
 
   <header class="project-header">
     <h1>{{ page.title }}</h1>
+    <div class="project-header-meta">
+
+      {% if page['HOT Involvement'] %}
+        <p class="project-involvement">{{ page['HOT Involvement' ]}}
+      {% endif %}
+
+      {% if page.Country[0] != '' %}
+        <p class="project-countries">
+          {% for country in page.Country %}
+            <span class="project-country"><a href="#">{{ country }}</a></span>
+          {% endfor %}
+        </p>
+      {% endif %}
+
+    </div>
   </header>
 
   <div class="project-body">
 
+    {% if page['Feature Image'] %}
+      <img class="project-feature-image" src="https://source.unsplash.com/collection/1439704/1280x900">
+    {% endif %}
+
     <section class="article">
+
+      {% if page['Project Summary Text'] %}
+        <div class="project-summary">
+          <p>{{ page['Project Summary Text'] }}</p>
+        </div>
+      {% endif %}
 
       <div class="project-content">
         {{ content }}
@@ -18,7 +43,46 @@ layout: default
 
     </section>
 
-    <aside class="project-meta">
+    <aside class="meta">
+
+      {% if page['Impact Area'][0] != '' %}
+        <div class="meta-item project-impact">
+          <h5>Impact Areas</h5>
+          <ul>
+            {% for area in page['Impact Area'] %}
+              <li><a href="#">{{ area }}</a></li>
+            {% endfor %}
+          </ui>
+        </div>
+      {% endif %}
+
+      {% if page.Person[0] != '' %}
+        <div class="meta-item">
+          <h5>Coordination</h5>
+          <ul>
+            {% for person in page.Person %}
+              <li><a href="#">{{ person }}</a></li>
+            {% endfor %}
+          </ui>
+        </div>
+      {% endif %}
+
+      {% if page.Partner[0] != '' %}
+        <div class="meta-item">
+          <h5>Partners</h5>
+          <ul>
+            {% for partner in page.Partner %}
+              <li><a href="#">{{ partner }}</a></li>
+            {% endfor %}
+          </ui>
+        </div>
+      {% endif %}
+
+      <div class="meta-item">
+        <h5>Duration</h5>
+        <p>{{ page.Duration['Start Date'] | date:  "%e %b, %Y" }} – {{ page.Duration['End Date'] | date:  "%e %b, %Y" }}</p>
+      </div>
+
     </aside>
 
   </div>
