@@ -7,11 +7,13 @@ Project Summary Text: Cras mattis consectetur purus sit amet fermentum. Donec ul
 Country:
 - Liberia
 Impact Area: Sustainable Cities
-project-type:
-- community development
-contact:
+Person:
 - Paul Uithol
 - David Luswata
+Partner:
+- DAI
+Duration:
+  Start Date: 2017-01-01 00:00:00 Z
 ---
 
 The Liberia Local Empowerment for Government Inclusion and Transparency (LEGIT) project supports to the Ministry of Internal Affairs and Governance Commission as they lead, monitor and coordinate the implementation of the government’s decentralization agenda.
