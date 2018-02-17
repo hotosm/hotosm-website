@@ -971,6 +971,15 @@ img {
   }
 }
 
+.news-projects {
+  position: sticky;
+  top: 22px;
+  background-color: $tan;
+  padding: 16px 16px 19px;
+  border-bottom: none;
+  border-radius: 2px;
+}
+
 .author-image {
   width: 64px;
   height: 64px;
