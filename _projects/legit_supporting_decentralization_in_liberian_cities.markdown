@@ -1,6 +1,9 @@
 ---
 title: 'LEGIT: Supporting decentralization in Liberian cities'
 date: 2018-01-19 15:23:00 Z
+Project Summary Text: Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper
+  nulla non metus auctor fringilla. Aenean eu leo quam. Pellentesque ornare sem lacinia
+  quam venenatis vestibulum.
 project-type:
 - community development
 contact:
