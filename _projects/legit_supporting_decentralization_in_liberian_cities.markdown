@@ -11,6 +11,9 @@ duration:
 - Jan, 1 2017 to Dec, 31 2018
 partners:
 - DAI
+Duration:
+  Start Date: 
+  End Date: Ongoing
 ---
 
 Local Empowerment for Government Inclusion and Transparency (LEGIT)
