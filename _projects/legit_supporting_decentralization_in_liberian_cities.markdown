@@ -1,19 +1,11 @@
 ---
 title: 'LEGIT: Supporting decentralization in Liberian cities'
 date: 2018-01-19 15:23:00 Z
-description: Local Empowerment for Government Inclusion and Transparency (LEGIT)
 project-type:
 - community development
 contact:
 - Paul Uithol
 - David Luswata
-duration:
-- Jan, 1 2017 to Dec, 31 2018
-partners:
-- DAI
-Duration:
-  Start Date: 
-  End Date: Ongoing
 ---
 
 Local Empowerment for Government Inclusion and Transparency (LEGIT)
