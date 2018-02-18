@@ -5,6 +5,7 @@ Summary Text: Vestibulum id ligula porta felis euismod semper. Sed posuere conse
   est at lobortis. Praesent commodo cursus magna, vel scelerisque nisl consectetur
   et.
 Feature Image: "/uploads/01.jpg"
+Person: David Luswata
 Country:
 - Liberia
 ---
