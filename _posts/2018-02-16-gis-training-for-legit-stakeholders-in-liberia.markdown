@@ -1,10 +1,12 @@
 ---
 title: GIS Training for LEGIT stakeholders in Liberia
-date: 2018-02-18 22:14:00 Z
+date: 2018-02-16 22:14:00 Z
 Summary Text: Vestibulum id ligula porta felis euismod semper. Sed posuere consectetur
   est at lobortis. Praesent commodo cursus magna, vel scelerisque nisl consectetur
   et.
 Feature Image: "/uploads/01.jpg"
+Country:
+- Liberia
 ---
 
 2017 was a busy year in Liberia, being crowned up with the first peaceful and democratic transition of power in 47 years, and football legend George M. Weah emerging as president. The Local Empowerment for Government Inclusion and Transparency Project (LEGIT) conducted several activities in Bong, Nimba and Grand Gedeh Counties. Specifically, HOT led the mapping component of the project in cities of Zwedru, Ganta, and Gbarnga, mapping social service delivery points, administrative boundaries, structures, and other infrastructures. Working with City Corporations Officials, Civil Society Organisations (CSOs), Community-Based Organisations (CBOs) and community members, we were able to map 52,730 buildings, 181 health facilities, 380 education facilities, 3,382 shops, 75 named streets and 128 administrative boundaries in all three cities (Gbarnga, Ganta and Zwedru). LEGIT is focused on supporting Government of Liberia’s decentralizations agenda to implement the decentralization process which is in its final stages, led by Ministry of Internal Affairs and Governance Commission. The mapping process was in collaboration with these government agencies and Liberia Institute of Geo-Information Services (LISGIS).
