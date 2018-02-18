@@ -985,6 +985,21 @@ img {
 ////////////////////////////////////////////////
 
 
+
+.news-index {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  margin-top: 64px;
+}
+
+.news-index-sidebar {
+  grid-column: 1 / 4;
+}
+
+.news-index-list {
+  grid-column: 4 / -1;
+}
+
 .news-item {
   margin-bottom: 40px;
 }

@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="container news-index">
+
+  <div class="news-index-sidebar">
+    <h1>News</h1>
+  </div>
+
+  <div class="news-index-list">
+    {% for post in site.posts %}
+      <h3>{{ post.title }}</h3>
+    {% endfor %}
+  </div>
+
+</div>
