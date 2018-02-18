@@ -387,6 +387,7 @@ img {
   display: block;
   padding: 24px;
   text-decoration: none;
+  overflow: hidden;
   &.light {
     display: grid;
     grid-gap: 24px;
@@ -424,6 +425,9 @@ img {
         background-color: $red;
       }
     }
+  }
+  .project-involvement, .project-countries {
+    margin-bottom: 4px;
   }
 }
 
@@ -486,18 +490,13 @@ img {
   }
 }
 
-.light-highlight {
+.project-module {
   padding: 0;
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: 360px;
-  grid-gap: 24px;
   border: 1px solid $border-color;
   border-radius: 2px;
   margin-bottom: 24px;
   .module-details {
-    grid-column: 1 / 6;
-    padding: 24px 0 24px 24px;
+    padding: 24px;
     h3 {
       margin-bottom: 8px;
     }
@@ -506,12 +505,75 @@ img {
     padding-right: 24px;
   }
   .module-image {
-    grid-column: 6 / -1;
     display: block;
     img {
       width: 100%;
       max-height: 100%;
       object-fit: cover;
+      display: block;
+    }
+  }
+}
+
+.project-index-highlights {
+  .project-module {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 360px;
+    grid-gap: 24px;
+    .module-details {
+      grid-column: 1 / 6;
+      padding-right: 0;
+    }
+    .module-image {
+      grid-column: 6 / -1;
+    }
+  }
+}
+
+.project-index-all {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: min-content;
+  grid-gap: 0 24px;
+  .project-module {
+    display: grid;
+    grid-template-rows: auto 240px;
+    .module-details {
+      padding: 20px 24px;
+    }
+    .module-text {
+      padding-right: 0;
+      margin-bottom: 0;
+    }
+    .module-image {
+      max-height: 240px;
+      position: relative;
+      &:after {
+        content: '';
+        display: block;
+        // float: right;
+        position: absolute;
+        right: 16px;
+        bottom: 16px;
+        height: 40px;
+        width: 40px;
+        background-image: url(../images/chevron-white.svg);
+        background-color: $red;
+        background-repeat: no-repeat;
+        background-position: left 17px center;
+        border-radius: 20px;
+        box-shadow: $default-box-shadow;
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+      }
+    }
+    &:hover {
+      .module-image {
+        &:after {
+          opacity: 1;
+        }
+      }
     }
   }
 }
@@ -1083,6 +1145,7 @@ img {
     font-weight: 600;
   }
 }
+
 .project-involvement {
   color: $orange;
   display: inline-block;
@@ -1093,10 +1156,12 @@ img {
     display: inline-block;
   }
 }
+
 .project-countries {
-  display: inline-block;
+  display: inline;
   margin-left: 4px;
 }
+
 .project-country {
   color: $red;
   &:after {
@@ -1166,6 +1231,12 @@ img {
   padding-bottom: 40px;
 }
 
+.project-index {
+  h6 {
+    margin-bottom: 16px;
+  }
+}
+
 .project-map-area {
   height: 500px;
   background-color: tint($red, 85%);
@@ -1182,16 +1253,11 @@ img {
 .project-index-areas {
   padding: 24px 0 20px;
   background-color: rgba(255,255,255,.65);
-  h6 {
-    margin-bottom: 16px;
-  }
   .btn {
     margin-bottom: 4px;
   }
 }
 
 .project-index-highlights {
-  h6 {
-    margin-bottom: 16px;
-  }
+
 }

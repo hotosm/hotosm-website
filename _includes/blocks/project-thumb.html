@@ -1,0 +1,31 @@
+<a class="module link-through project-module" href="{{ project.url }}">
+
+  <div class="module-details">
+
+    <div class="module-text project-header-meta">
+
+      <h3>{{ project.title }}</h3>
+
+      {% if project['HOT Involvement'] %}
+        <p class="project-involvement">
+          {{ project['HOT Involvement'] }}
+        </p>
+      {% endif %}
+
+      {% if project.Country[0] != '' %}
+        <p class="project-countries">
+          {% for country in project.Country %}
+            <span class="project-country">{{ country }}</span>
+          {% endfor %}
+        </p>
+      {% endif %}
+
+    </div>
+
+  </div>
+
+  <div class="module-image">
+    <img src="https://source.unsplash.com/collection/1186428/800x600?v=5">
+  </div>
+
+</a>

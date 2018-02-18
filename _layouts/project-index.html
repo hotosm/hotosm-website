@@ -27,41 +27,28 @@ layout: default
   </div>
 
   <div class="container">
+
+    <h6>Highlighted Projects</h6>
+
     <div class="project-index-highlights">
-      <h6>Highlighted Projects</h6>
-      {% for project in site.projects %}
 
-        <a class="module link-through light-highlight" href="{{ project.url }}">
-          <div class="module-details">
-
-            <div class="module-text project-header-meta">
-
-              <h3>{{ project.title }}</h3>
-
-              {% if project['HOT Involvement'] %}
-                <p class="project-involvement">
-                  {{ project['HOT Involvement'] }}
-                </p>
-              {% endif %}
-
-              {% if project.Country[0] != '' %}
-                <p class="project-countries">
-                  {% for country in project.Country %}
-                    <span class="project-country">{{ country }}</span>
-                  {% endfor %}
-                </p>
-              {% endif %}
-
-            </div>
-
-            <p class="module-cta"><span>Learn more</span></p>
-          </div>
-          <div class="module-image">
-            <img src="https://source.unsplash.com/collection/1186428/800x600?v=5">
-          </div>
-        </a>
+      {% for project in site.projects limit:3 %}
+        {% include blocks/project-highlight.html %}
       {% endfor %}
-    </div>
-  </div>
 
+    </div>
+
+    <div class="hr-h"></div>
+
+    <h6>All Projects</h6>
+
+    <div class="project-index-all">
+
+      {% for project in site.projects %}
+        {% include blocks/project-thumb.html %}
+      {% endfor %}
+
+    </div>
+
+  </div>
 </div>
