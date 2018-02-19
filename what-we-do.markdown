@@ -26,3 +26,4 @@ Block 3:
   - 'LEGIT: Supporting decentralization in Liberian cities'
 ---
 
+HOT is an international community dedicated to humanitarian action and community development through open mapping. We work together to provide map data which revolutionises disaster management, reduces risks, and contributes to achievement of the Sustainable Development Goals.
