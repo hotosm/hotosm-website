@@ -5,12 +5,42 @@ layout: default
 <div class="container news-index">
 
   <div class="news-index-sidebar">
-    <h1>News</h1>
+    <div class="news-index-sidebar-wrap">
+      <h1>News</h1>
+    </div>
   </div>
 
   <div class="news-index-list">
     {% for post in site.posts %}
-      <h3>{{ post.title }}</h3>
+
+      <div class="news-index-item">
+
+        <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+
+        <div class="news-list-image">
+          {% if post['Feature Image'] %}
+            <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
+          {% endif %}
+        </div>
+
+        <div class="news-list-summary">
+
+          <div class="news-list-meta">
+            {% capture post.Person %}{% endcapture %}
+              {% assign author = site.people | where: "title", post.Person | first %}
+              {% if post.Person %}
+                <p class="news-index-author">{{ author.title }}</p>
+            {% endif %}
+            <p class="news-index-date">{{ post.date | date:  '%e %B, %Y' }}</p>
+          </div>
+
+          <div class="news-list-summary-text">
+            <p>{{ post['Summary Text']}}</p>
+          </div>
+        </div>
+
+      </div>
+
     {% endfor %}
   </div>
 
