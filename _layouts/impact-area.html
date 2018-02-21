@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+  <h1>{{ page.title }}</h1>
+
+  <h2>Is this working</h2>
+
+      <div class="container">
+
+        {% assign impact-area = site.impact-areas | sort:"position" %}
+
+        {% if page.title == 'Case Studies' %}
+
+          {% for caseStudy in sorted-case-studies %}
+            <a href="{{impact-area.url}}">
+                <header>
+                    <h3>{{impact-area.title}}</h3>
+                </header>
+            </a>
+          {% endfor %}
+
+        {% else %}
+
+        {% for impact-area in impact-areas %}
+
+          <a href="{{ impact-area.url }}">
+            <div>
+              <header>
+                  <h3>{{ impact-area.title }}</h3>
+              </header>
+            </div>
+          </a>
+
+        {% endfor %}
+
+        {% endif %}
+
+      </div>
