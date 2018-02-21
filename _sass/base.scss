@@ -81,11 +81,38 @@ img {
   max-width: 100%;
 }
 
+.highlighter-rouge {
+  max-width: 100%;
+  overflow-x: hidden;
+  .highlight {
+    overflow-x: scroll;
+    padding: 24px;
+    background-color: $tan;
+  }
+  code {
+  }
+}
+
 .article {
   p {
     font-size: 1.125rem;
     margin-bottom: 16px;
     color: tint($blue-dark, 15%);
+  }
+  ul {
+    padding-left: 28px;
+  }
+  li {
+    position: relative;
+    &:before {
+      content: '—';
+      position: absolute;
+      top: 4px;
+      left: -27px;
+      display: inline-block;
+      color: $red;
+      font-weight: 600;
+    }
   }
   img {
     width: 100%;

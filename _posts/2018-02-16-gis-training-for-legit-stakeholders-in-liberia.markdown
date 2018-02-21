@@ -16,15 +16,16 @@ LEGIT Stakeholders in Monrovia (top), Zwedru (bottom left), and Gbarnga (bottom 
 
 With all mapped data in OSM, 2018 started on a high note for the project with GIS Training workshops in Monrovia and the three LEGIT cities. The focus for the training has been to empower stakeholders to leverage the power of mapped data, using OpenSource tools. Participants were trained on how to use this mapped and open data to inform policy and advocacy by using GIS tools to analyse mapped data and produce maps. The trainings lasted five days in each of the four cities. Each of the days had a special package for the participants:
 
-    Day 1 focused on reorienting attendees with the goals of the project, introducing the project to new attendees, sharing progress, presenting maps, and reviewing the data collection process including editing OSM, using JOSM, and field data collection applications.
 
-    Day 2 introduced participants to open source GIS and QGIS. Activities with QGIS included installation, navigation, adding data, symbology, labelling, and creating maps with the print composer.
+* Day 1 focused on reorienting attendees with the goals of the project, introducing the project to new attendees, sharing progress, presenting maps, and reviewing the data collection process including editing OSM, using JOSM, and field data collection applications.
 
-    Day 3 provided participants with information and practice in downloading data from OpenStreetMap to use in a GIS application like QGIS using the HOT Export Tool and QuickOSM, as well as additional experience in creating maps with QGIS.
+* Day 2 introduced participants to open source GIS and QGIS. Activities with QGIS included installation, navigation, adding data, symbology, labelling, and creating maps with the print composer.
 
-    Day 4 focused on disaster risk reduction and planning, participants were introduced to InaSAFE, a software plugin that works with QGIS as a disaster planning tool, as well as additional experience working with QGIS and creating maps.
+* Day 3 provided participants with information and practice in downloading data from OpenStreetMap to use in a GIS application like QGIS using the HOT Export Tool and QuickOSM, as well as additional experience in creating maps with QGIS.
 
-    Day 5 brought together skills learned throughout the week for practical use of GIS in Solid Waste Management. Participants discussed solid waste management in their city and created maps to understand distribution of waste sites.
+* Day 4 focused on disaster risk reduction and planning, participants were introduced to InaSAFE, a software plugin that works with QGIS as a disaster planning tool, as well as additional experience working with QGIS and creating maps.
+
+* Day 5 brought together skills learned throughout the week for practical use of GIS in Solid Waste Management. Participants discussed solid waste management in their city and created maps to understand distribution of waste sites.
 
 In all training locations, participants had their own views about the training and what the mapping process and GIS training meant for their cities and work. The Monrovia training session brought together participants from government agencies, and other stakeholders who were introduced to GIS and the mapping process. We also had the chance to meet with the growing OSM Liberia community and to hand out registration certificates for five new Youth Mappers Chapters in Liberia.
 
@@ -38,4 +39,4 @@ Zwedru City, in Grand Gedeh county was the last training location, with a cross 
 
 In each city, though challenged with low levels of ICT skills to some extent and inconsistent internet access, participants were able to make maps for the first time showing various mapped features. With funding from USAID, LEGIT is implemented by DAI, and has put Zwedru, Ganta and Gbarnga cities on the map, preparing them for growth and resiliency against natural disasters and disease outbreaks.
 
-A showcase of maps made by participants. [These maps were made by: Alexander Y. Barleh and  J Aaron T. Wilson (Zwedru), Catherine Dolo (Gbarnga),Eric Saydee and  Cornelius Orlando Wright (Zwedru), Florence T. Nyumah (Monrovia), James Blamo and Christian Freeman (Gbarnga), James Darwolo (Monrovia), Abraham G. Seih (Ganta), Olesam A. Kamara and Arthur Kollie (Gbarnga), Leebah T. Gaye (Zwedru), Olivia T Tailey and G. Wilkins Davies (Zwedru), Oswald Dillon (Monrovia), Sagacious Meshach Gardoe (Ganta), William Says Mandein (Ganta)] 
+A showcase of maps made by participants. [These maps were made by: Alexander Y. Barleh and  J Aaron T. Wilson (Zwedru), Catherine Dolo (Gbarnga),Eric Saydee and  Cornelius Orlando Wright (Zwedru), Florence T. Nyumah (Monrovia), James Blamo and Christian Freeman (Gbarnga), James Darwolo (Monrovia), Abraham G. Seih (Ganta), Olesam A. Kamara and Arthur Kollie (Gbarnga), Leebah T. Gaye (Zwedru), Olivia T Tailey and G. Wilkins Davies (Zwedru), Oswald Dillon (Monrovia), Sagacious Meshach Gardoe (Ganta), William Says Mandein (Ganta)]

@@ -11,7 +11,6 @@ contact:
 - rebecca.firth@hotosm.org
 duration:
 - Jan, 1 2017 to Dec, 31 2018
-layout: page
 ---
 
 Local open geospatial projects that contribute to the #GlobalGoals
