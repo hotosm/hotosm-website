@@ -14,8 +14,7 @@ Country:
 
 LEGIT Stakeholders in Monrovia (top), Zwedru (bottom left), and Gbarnga (bottom right).
 
-With all mapped data in OSM, 2018 started on a high note for the project with GIS Training workshops in Monrovia and the three LEGIT cities. The focus for the training has been to empower stakeholders to leverage the power of mapped data, using OpenSource tools. Participants were trained on how to use this mapped and open data to inform policy and advocacy by using GIS tools to analyse mapped data and produce maps. The trainings lasted five days in each of the four cities. Each of the days had a special package for the participants:
-
+With all mapped data in OSM, 2018 started on a high note for the project with GIS Training workshops in Monrovia and the three LEGIT cities. The focus for the training has been to empower stakeholders to leverage the power of mapped data, using OpenSource tools. Participants were trained on how to use this mapped and open data to inform policy and advocacy by using GIS tools to analyse mapped data and produce maps. The trainings lasted five days in each of the four cities. Each of the days had a special package for the participants
 
 * Day 1 focused on reorienting attendees with the goals of the project, introducing the project to new attendees, sharing progress, presenting maps, and reviewing the data collection process including editing OSM, using JOSM, and field data collection applications.
 
