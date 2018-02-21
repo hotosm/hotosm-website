@@ -10,5 +10,7 @@ Country:
 - Guatemala
 - Cambodia
 - Laos
+Impact Area:
+- Clean Energy
 ---
 
