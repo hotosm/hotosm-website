@@ -3,23 +3,85 @@ layout: default
 ---
 
 <div class="container what-we-do">
-  
-  <div class="highlight-module secondary-highlight-module">
+
+  <header class="what-we-do-header">
+    <h1>{{ page.title }}</h1>
+    <div class="intro">
+      <div class="intro-text">
+        {{ content }}
+      </div>
+      <div class="intro-btns">
+        <a href="{{ page['Primary Button'].URL }}" class="btn btn-primary btn-block btn-lg btn-chevron">{{ page['Primary Button'].Words }}</a>
+        <a href="{{ page['Secondary Button'].URL }}" class="btn btn-primary btn-outline btn-block btn-lg btn-chevron">{{ page['Secondary Button'].Words }}</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="highlight-module secondary-highlight-module right light">
     <div class="highlight-details">
       <div class="highlight-info">
         <div class="highlight-hr"></div>
-        <h3>Secondary Highlight Module</h3>
-        <p>Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis.</p>
+        <h3>{{ page['Block 1'].Header }}</h3>
+        <p>{{ page['Block 1'].Text }}</p>
       </div>
       <div class="highlight-options">
-        <a href="#" class="btn btn-primary btn-lg btn-chevron">Sample Link</a>
-        <a href="#" class="btn btn-primary btn-lg btn-chevron">Sample Link</a>
-        <a href="#" class="btn btn-primary btn-lg btn-chevron">Sample Link</a>
+        <h6><span>Check out</span></h6>
+        <p>
+          {% for project in page['Block 1'].Projects %}
+            <a href="{{ project.url }}">{{ project }}</a>
+          {% endfor %}
+        </p>
       </div>
     </div>
     <div class="highlight-image">
-      <img src="https://source.unsplash.com/collection/1186428/800x600?v=13">
+      <img src="{{ page['Block 1'].Image }}">
     </div>
   </div>
+
+  <div class="highlight-module secondary-highlight-module left">
+    <div class="highlight-details">
+      <div class="highlight-info">
+        <div class="highlight-hr"></div>
+        <h3>{{ page['Block 2'].Header }}</h3>
+        <p>{{ page['Block 2'].Text }}</p>
+      </div>
+      <div class="highlight-options">
+        <h6><span>Check out</span></h6>
+        <p>
+          {% for project in page['Block 2'].Projects %}
+            <a href="{{ project.url }}">{{ project }}</a>
+          {% endfor %}
+        </p>
+      </div>
+    </div>
+    <div class="highlight-image">
+      <img src="{{ page['Block 2'].Image }}">
+    </div>
+  </div>
+
+  <div class="highlight-module secondary-highlight-module right">
+    <div class="highlight-details">
+      <div class="highlight-info">
+        <div class="highlight-hr"></div>
+        <h3>{{ page['Block 3'].Header }}</h3>
+        <p>{{ page['Block 3'].Text }}</p>
+      </div>
+      <div class="highlight-options">
+        <h6><span>Check out</span></h6>
+        <p>
+          {% for project in page['Block 3'].Projects %}
+            <a href="{{ project.url }}">{{ project }}</a>
+          {% endfor %}
+        </p>
+      </div>
+    </div>
+    <div class="highlight-image">
+      <img src="{{ page['Block 3'].Image }}">
+    </div>
+  </div>
+
+  <div class="hr-h"></div>
+  {% include impact-areas.html %}
+  <div class="hr-h"></div>
 
 </div>
