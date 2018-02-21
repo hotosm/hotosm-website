@@ -4,10 +4,10 @@ date: 2018-02-06 13:06:00 Z
 position: 1
 layout: what-we-do
 Primary Button:
-  URL: /our-work
+  URL: "/our-work"
   Words: Learn about our Impact
 Secondary Button:
-  URL: /get-involved
+  URL: "/get-involved"
   Words: Get involved
 Block 1:
   Header: Reaching those in need through maps

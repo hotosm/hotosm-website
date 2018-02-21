@@ -1,14 +1,16 @@
 ---
 title: Microgrants and Community Development
 date: 2018-01-19 15:23:00 Z
+Impact Area:
+- Environment
 description: 'Local open geospatial projects that contribute to the #GlobalGoals'
-layout: page
 project-type:
 - community development
 contact:
 - rebecca.firth@hotosm.org
 duration:
 - Jan, 1 2017 to Dec, 31 2018
+layout: page
 ---
 
 Local open geospatial projects that contribute to the #GlobalGoals
