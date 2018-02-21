@@ -2,7 +2,7 @@
 title: Microgrants and Community Development
 date: 2018-01-19 15:23:00 Z
 Impact Area:
-- Clean Energy
+- Environment
 description: 'Local open geospatial projects that contribute to the #GlobalGoals'
 project-type:
 - community development
