@@ -645,7 +645,7 @@ img {
   .project-module {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: 360px;
+    grid-template-rows: 400px;
     grid-gap: 24px;
     .module-details {
       grid-column: 1 / 6;

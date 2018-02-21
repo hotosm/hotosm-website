@@ -9,6 +9,7 @@ Country:
 - Liberia
 Impact Area:
 - Sustainable Cities
+- Disaster Risk Reduction
 HOT Involvement: Community-led Project
 Person:
 - Paul Uithol

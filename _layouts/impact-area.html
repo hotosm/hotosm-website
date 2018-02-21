@@ -24,14 +24,19 @@ layout: default
 
   <div class="container">
 
-    <h6>{{ page.title }} Highlights</h6>
+    <h6>{{ page.title }} Projects</h6>
 
     <div class="project-index-highlights">
 
       {% assign sorted-projects = site.projects | sort:"position" %}
 
-      {% for project in sorted-projects limit:2 %}
+      {% assign highlights = 4 %}
+
+      {% for project in sorted-projects %}
         {% if project['Impact Area'] contains page.title %}
+          {% if forloop.index > 2 %}
+            {% break %}
+          {% endif %}
           {% include blocks/project-highlight.html %}
         {% endif %}
       {% endfor %}
@@ -48,7 +53,9 @@ layout: default
 
       {% for project in sorted-projects %}
         {% if project['Impact Area'] contains page.title %}
-          {% include blocks/project-thumb.html %}
+          {% if forloop.index > 2 %}
+            {% include blocks/project-thumb.html %}
+          {% endif %}
         {% endif %}
       {% endfor %}
 
