@@ -2,38 +2,57 @@
 layout: default
 ---
 
-  <h1>{{ page.title }}</h1>
 
-  <h2>Is this working</h2>
+<div class="project-index impact-area-item-index">
+
+  <div class="project-map-area">
+
+    <div class="project-index-header">
 
       <div class="container">
-
-        {% assign impact-area = site.impact-areas | sort:"position" %}
-
-        {% if page.title == 'Case Studies' %}
-
-          {% for caseStudy in sorted-case-studies %}
-            <a href="{{impact-area.url}}">
-                <header>
-                    <h3>{{impact-area.title}}</h3>
-                </header>
-            </a>
-          {% endfor %}
-
-        {% else %}
-
-        {% for impact-area in impact-areas %}
-
-          <a href="{{ impact-area.url }}">
-            <div>
-              <header>
-                  <h3>{{ impact-area.title }}</h3>
-              </header>
-            </div>
-          </a>
-
-        {% endfor %}
-
-        {% endif %}
-
+        <div><h1 class="boxed">{{ page.title }}</h1></div>
+        <div class="impact-area-desc">
+          <span>{{ content }}<div class="hr"></div></span>
+        </div>
       </div>
+
+    </div>
+
+    <span class="btn btn-primary btn-map">Explore Map</span>
+
+  </div>
+
+  <div class="container">
+
+    <h6>{{ page.title }} Highlights</h6>
+
+    <div class="project-index-highlights">
+
+      {% assign sorted-projects = site.projects | sort:"position" %}
+
+      {% for project in sorted-projects limit:2 %}
+        {% if project['Impact Area'] contains page.title %}
+          {% include blocks/project-highlight.html %}
+        {% endif %}
+      {% endfor %}
+
+    </div>
+
+    <div class="hr-h"></div>
+
+    <h6>All Projects</h6>
+
+    <div class="project-index-all">
+
+      {% assign sorted-projects = site.projects | sort:"position" %}
+
+      {% for project in sorted-projects %}
+        {% if project['Impact Area'] contains page.title %}
+          {% include blocks/project-thumb.html %}
+        {% endif %}
+      {% endfor %}
+
+    </div>
+
+  </div>
+</div>

@@ -224,6 +224,24 @@ img {
       }
     }
   }
+  &.btn-map {
+    position: relative;
+    padding-right: 40px;
+    padding-left: 12px;
+    &:after {
+      content: '';
+      display: inline-block;
+      position: absolute;
+      top: 13px;
+      right: 12px;
+      width: 14px;
+      height: 14px;
+      background-image: url(../images/icon-map-expand.svg);
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: contain;
+    }
+  }
   &.btn-block {
     display: block;
   }
@@ -1410,12 +1428,43 @@ img {
   background-color: tint($red, 85%);
   margin-bottom: 40px;
   position: relative;
+  border-bottom: 1px solid $border-color;
+  .btn-map {
+    position: absolute;
+    bottom: 24px;
+    right: 40px;
+  }
 }
 
 .project-index-header {
   position: absolute;
   bottom: 0;
-  border-bottom: 1px solid $border-color;
+}
+
+.impact-area-item-index {
+  .project-index-header {
+    bottom: 24px;
+  }
+}
+
+.impact-area-desc {
+  display: grid;
+  grid-template-columns: repeat(24, 1fr);
+  span {
+    background-color: $blue-dark;
+    padding: 22px;
+    grid-column: 2 / 18;
+    .hr {
+      width: 40px;
+      height: 2px;
+      background-color: $blue-grey;
+      margin: 24px 0 4px;
+    }
+  }
+  p {
+    font-size: 1.125rem;
+    color: tint($blue-dark, 90%);
+  }
 }
 
 .project-index-areas {
