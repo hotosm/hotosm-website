@@ -152,6 +152,49 @@ img {
 
 
 ////////////////////////////////////////////////
+///////////////////// Forms ////////////////////
+////////////////////////////////////////////////
+
+
+.form-item {
+  font-size: 1rem;
+}
+.form-text {
+  padding: 14px 16px 15px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 2px;
+  box-shadow: $default-box-shadow;
+  display: block;
+  width: 100%;
+}
+
+.mailchimp-signup-subscribe-form {
+  position: relative;
+  .form-submit {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    display: block;
+    width: 80px;
+    height: 48px;
+    background: url(../images/arrow-submit.svg);
+    background-position: left 27px center;
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    border: none;
+    border-left: 1px solid $border-color;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+    &:hover {
+      background-color: $tan;
+      background-position: left 35px center;
+    }
+  }
+}
+
+
+////////////////////////////////////////////////
 //////////////////// Buttons ///////////////////
 ////////////////////////////////////////////////
 
@@ -1172,21 +1215,33 @@ img {
 
 .news-index-sidebar-wrap {
   position: sticky;
-  top: 24px;
-}
-
-.news-newsletter-wrap {
+  top: 30px;
 }
 
 .news-newsletter {
   width: 100%;
-  height: 180px;
-  background-color: $red-light;
+  margin: 30px 0 24px;
+  padding: 88px 24px 24px;
+  position: relative;
+  background-image: url(/images/dot-pattern.svg);
   border-radius: 2px;
-  box-shadow: $default-box-shadow;
+  // box-shadow: $default-box-shadow;
   transition: box-shadow .3s ease-in-out;
   &:hover {
-    box-shadow: $hover-box-shadow;
+    box-shadow: $default-box-shadow;
+  }
+  h2 {
+    font-size: 2.5rem;
+    position: absolute;
+    top: -20px;
+  }
+  @media (max-width: $screen-sm) {
+    padding: 60px 16px 16px;
+    h2 {
+      font-size: 1.75rem;
+      position: absolute;
+      top: -16px;
+    }
   }
 }
 
@@ -1282,6 +1337,7 @@ img {
       grid-column: 3 / -1;
       p {
         margin-bottom: 0;
+        color: $blue-dark;
       }
     }
   }
