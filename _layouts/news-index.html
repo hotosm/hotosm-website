@@ -4,44 +4,88 @@ layout: default
 
 <div class="container news-index">
 
-  <div class="news-index-sidebar">
-    <div class="news-index-sidebar-wrap">
-      <h1>News</h1>
-    </div>
-  </div>
+  <header class="news-index-header">
+    <h1>News</h1>
+  </header>
 
-  <div class="news-index-list">
-    {% for post in site.posts %}
+  <div class="news-index-body">
 
-      <div class="news-index-item">
+    <div class="news-index-sidebar">
 
-        <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+      {% for post in site.posts limit: 1 %}
 
-        <div class="news-list-image">
-          {% if post['Feature Image'] %}
-            <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
-          {% endif %}
-        </div>
+        <div class="news-index-item first">
 
-        <div class="news-list-summary">
+          <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
 
-          <div class="news-list-meta">
-            {% capture post.Person %}{% endcapture %}
-              {% assign author = site.people | where: "title", post.Person | first %}
-              {% if post.Person %}
-                <p class="news-index-author">{{ author.title }}</p>
+          <div class="news-list-image">
+            {% if post['Feature Image'] %}
+              <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
             {% endif %}
-            <p class="news-index-date">{{ post.date | date:  '%e %B, %Y' }}</p>
           </div>
 
-          <div class="news-list-summary-text">
-            <p>{{ post['Summary Text']}}</p>
+          <div class="news-list-summary">
+
+            <div class="news-list-meta">
+              {% capture post.Person %}{% endcapture %}
+                {% assign author = site.people | where: "title", post.Person | first %}
+                {% if post.Person %}
+                  <p class="news-index-author">{{ author.title }}</p>
+              {% endif %}
+              <p class="news-index-date">{{ post.date | date: '%e %B, %Y' }}</p>
+            </div>
+
+            <div class="news-list-summary-text">
+              <p>{{ post['Summary Text']}}</p>
+            </div>
           </div>
+
         </div>
 
-      </div>
+      {% endfor %}
 
-    {% endfor %}
+      <div class="news-index-sidebar-wrap">
+        <div class="news-newsletter-wrap">
+          <div class="news-newsletter">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-index-list">
+      {% for i in (1..3) %}
+      {% for post in site.posts reversed %}
+
+        <div class="news-index-item">
+
+          <div class="news-list-summary">
+
+            <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
+
+              <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+
+              <p>{{ post['Summary Text']}}</p>
+              {% capture post.Person %}{% endcapture %}
+              <div class="news-list-meta">
+                {% assign author = site.people | where: "title", post.Person | first %}
+                  <p class="news-index-author">{% if post.Person %}{{ author.title }} — {% endif %}{{ post.date | date:  '%e %B, %Y' }}</p>
+              </div>
+            </div>
+
+            {% if post['Feature Image'] %}
+              <div class="news-list-image-sm">
+                <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
+              </div>
+            {% endif %}
+
+          </div>
+
+        </div>
+
+      {% endfor %}
+      {% endfor %}
+    </div>
+
   </div>
 
 </div>
