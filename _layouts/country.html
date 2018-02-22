@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<div class="project-index impact-area-item-index">
+
+  <div class="project-map-area">
+
+    <div class="project-index-header">
+
+      <div class="container">
+        <div><h1 class="boxed">{{ page.title }}</h1></div>
+        <div class="impact-area-desc">
+          <span>{{ content }}<div class="hr"></div></span>
+        </div>
+      </div>
+
+    </div>
+
+    <span class="btn btn-primary btn-map">Explore Map</span>
+
+  </div>
+
+  <div class="container">
+
+    <h6>{{ page.title }} Projects</h6>
+
+    <div class="project-index-highlights">
+
+      {% assign sorted-projects = site.projects | sort:"position" %}
+
+      {% assign highlights = 4 %}
+
+      {% for project in sorted-projects %}
+        {% if project['Country'] contains page.title %}
+          {% if forloop.index > 2 %}
+            {% break %}
+          {% endif %}
+          {% include blocks/project-highlight.html %}
+        {% endif %}
+      {% endfor %}
+
+    </div>
+
+    <div class="hr-h"></div>
+
+    <h6>All Projects</h6>
+
+    <div class="project-index-all">
+
+      {% assign sorted-projects = site.projects | sort:"position" %}
+
+      {% for project in sorted-projects %}
+        {% if project['Country'] contains page.title %}
+          {% if forloop.index > 2 %}
+            {% include blocks/project-thumb.html %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+    </div>
+
+  </div>
+</div>
