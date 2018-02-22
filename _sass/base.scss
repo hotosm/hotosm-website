@@ -1213,6 +1213,28 @@ img {
   }
 }
 
+.news-pagination {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding-bottom: 24px;
+  border-bottom: 1px solid $border-color;
+  margin-bottom: 40px;
+  .prev {
+    border-right: 1px solid $border-color;
+  }
+  .next {
+    text-align: right;
+  }
+  a, span {
+    display: inline-block;
+    text-decoration: none;
+    padding: 8px 0;
+  }
+  span {
+    opacity: .25;
+  }
+}
+
 .news-index-sidebar-wrap {
   position: sticky;
   top: 30px;
@@ -1225,7 +1247,6 @@ img {
   position: relative;
   background-image: url(/images/dot-pattern.svg);
   border-radius: 2px;
-  // box-shadow: $default-box-shadow;
   transition: box-shadow .3s ease-in-out;
   &:hover {
     box-shadow: $default-box-shadow;
