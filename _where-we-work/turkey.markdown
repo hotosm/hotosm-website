@@ -15,9 +15,3 @@ Location:
   Map Link: https://goo.gl/maps/mqhTEmzE3P32
 ---
 
-### Can Unen, County Manager
-[can.unen@hotosm.org](can.unen@hotosm.org)
-
-Tatar Beyi Sokak, No:19/3
-Galata/ Beyoğlu
-Istanbul, Turkey
