@@ -57,14 +57,14 @@ defaults:
   values:
     layout: country
     Contact Person:
-      Name:
-      Title:
-      Email:
-      Phone:
+      Name: 
+      Title: 
+      Email: 
+      Phone: 
     Location:
-      Location Name:
-      Address:
-      Map Link:
+      Location Name: 
+      Address: 
+      Map Link: 
 - scope:
     path: ''
     type: projects
