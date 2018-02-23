@@ -34,9 +34,9 @@ defaults:
   values:
     permalink: updates/:title/
     layout: news-item
-    Summary Text: 
-    Feature Image: 
-    Person: 
+    Summary Text:
+    Feature Image:
+    Person:
     Working Group:
     - ''
     Country:
@@ -45,7 +45,7 @@ defaults:
     path: ''
     type: people
   values:
-    Photo: 
+    Photo:
 - scope:
     path: ''
     type: impact-areas
@@ -64,15 +64,16 @@ defaults:
     Location:
       Location Name:
       Address:
+      Phone:
       Map Link:
 - scope:
     path: ''
     type: projects
   values:
     layout: project-item
-    Project Summary Text: 
-    Feature Image: 
-    HOT Involvement: 
+    Project Summary Text:
+    Feature Image:
+    HOT Involvement:
     Country:
     - ''
     Impact Area:
@@ -82,14 +83,14 @@ defaults:
     Partner:
     - ''
     Duration:
-      Start Date: 
+      Start Date:
       End Date: Ongoing
 email: info@hotosm.org
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl: 
-url: 
+baseurl:
+url:
 twitter_username: hotosm
 github_username: hotosm
 markdown: kramdown
