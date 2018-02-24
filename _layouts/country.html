@@ -4,59 +4,94 @@ layout: default
 
 <div class="project-index impact-area-item-index">
 
-
-
     <div class="country-index-header">
 
       <div class="country-map-area">
-        <h1 class="boxed">{{ page.title }}</h1>
+        <div class="country-name"><h1 class="boxed">{{ page.title }}</h1></div>
       </div>
       <div class="country-contact">
-        <h4>Want to start a project in {{ page.title }}?</h4>
+        <div class="country-contact-wrapper">
+          <h4>Want to start a project in {{ page.title }}?</h4>
+          <div class="country-content">
+            {{ content }}
+          </div>
+          <h5>Contact</h5>
+          {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
+            <p><b>{{ page['Contact Person'].Name }}</b></p>
+            <p>{{ page['Contact Person'].Title }}</p>
+            <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
+            <p>{{ page['Contact Person'].Phone }}</p>
+          {% else %}
+            <a href="mailto:info@hotosm.org">info@hotosm.org</a>
+          {% endif %}
+
+          {% if page.Location.Name or page.Location.Address %}
+            <h5>Visit</h5>
+            <p><b>{{ page.Location['Location Name'] }}</b></p>
+            {{ page.Location.Address | markdownify }}
+            <p>{{ page.Location.Phone }}</p>
+          {% endif %}
+        </div>
       </div>
-
     </div>
 
   </div>
 
-  <div class="container">
+  {% assign sorted-projects = site.projects | sort:"position" %}
 
-    <h6>Our work in {{ page.title }}</h6>
+  {% for project in sorted-projects %}
+    {% if project['Country'] contains page.title %}
+      {% if forloop.index > 0 %}
 
-    <div class="project-index-highlights">
+      <div class="container">
+        <h6>Our work in {{ page.title }}</h6>
+        <div class="project-index-highlights">
 
-      {% assign sorted-projects = site.projects | sort:"position" %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 
-      {% assign highlights = 4 %}
+  {% for project in sorted-projects %}
+    {% if project['Country'] contains page.title %}
+      {% if forloop.index > 2 %}
+        {% break %}
+      {% endif %}
 
-      {% for project in sorted-projects %}
-        {% if project['Country'] contains page.title %}
-          {% if forloop.index > 2 %}
-            {% break %}
-          {% endif %}
-          {% include blocks/project-highlight.html %}
-        {% endif %}
-      {% endfor %}
+      {% include blocks/project-highlight.html %}
 
-    </div>
+    {% endif %}
+  {% endfor %}
 
-    <div class="hr-h"></div>
+  {% for project in sorted-projects %}
+    {% if project['Country'] contains page.title %}
+      {% if forloop.index > 0 %}
 
-    <h6>All Projects</h6>
+        </div>
+        <div class="hr-h"></div>
+        <h6>All Projects</h6>
+        <div class="project-index-all">
 
-    <div class="project-index-all">
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 
-      {% assign sorted-projects = site.projects | sort:"position" %}
+  {% for project in sorted-projects %}
+    {% if project['Country'] contains page.title %}
+      {% if forloop.index > 2 %}
+        {% include blocks/project-thumb.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 
-      {% for project in sorted-projects %}
-        {% if project['Country'] contains page.title %}
-          {% if forloop.index > 2 %}
-            {% include blocks/project-thumb.html %}
-          {% endif %}
-        {% endif %}
-      {% endfor %}
+  {% for project in sorted-projects %}
+    {% if project['Country'] contains page.title %}
+      {% if forloop.index > 0 %}
 
-    </div>
+          </div>
+        </div>
 
-  </div>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
 </div>

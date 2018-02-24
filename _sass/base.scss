@@ -1636,6 +1636,12 @@ img {
   // height: 500px;
   background-color: tint($red, 85%);
   grid-column: 1 / 3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  .country-name {
+    margin: 0 auto;
+  }
 }
 
 .country-contact {
@@ -1643,9 +1649,43 @@ img {
   padding: 40px;
   min-height: 500px;
   color: $white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  p {
+    color: tint($blue-light, 20%);
+    font-size: 0.875rem;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .5);
+    b {
+      font-weight: 600;
+      color: $white;
+    }
+  }
+  a {
+    color: tint($blue-light, 20%);
+  }
   h4 {
     color: $white;
+    margin-bottom: 10px;
   }
+  h5 {
+    font-size: 1rem;
+    font-family: $font-headline;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    color: $red;
+    margin: 16px 0 8px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .5);
+  }
+  .country-content {
+    p {
+
+    }
+  }
+}
+
+.country-contact-wrapper {
+
 }
 
 .project-index-header {
