@@ -72,7 +72,8 @@ layout: default
               {% capture post.Person %}{% endcapture %}
               <div class="news-list-meta">
                 {% assign author = site.people | where: "title", post.Person | first %}
-                  <p class="news-index-author">{% if post.Person %}{{ author.title }} — {% endif %}{{ post.date | date:  '%e %B, %Y' }}</p>
+                  <p class="news-index-author">
+                    {% include author.html %} — {{ post.date | date: '%e %B, %Y' }}</p>
               </div>
             </div>
 

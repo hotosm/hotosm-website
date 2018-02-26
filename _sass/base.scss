@@ -732,6 +732,7 @@ img {
   grid-template-columns: repeat(3, 1fr);
   grid-auto-rows: min-content;
   grid-gap: 0 24px;
+  margin-bottom: 16px;
   .project-module {
     display: grid;
     grid-template-rows: auto 240px;
@@ -1468,6 +1469,10 @@ img {
     font-size: 1.375rem;
     margin-top: 2px;
   }
+  a {
+    text-decoration: none;
+    border-bottom: 1px solid shade($border-color, 20%);
+  }
 }
 
 .meta-item.news-projects {
@@ -1494,23 +1499,45 @@ img {
   }
 }
 
+.author-link {
+  color: $blue-light;
+}
+
 .project-index-news {
-  background-color: tint($grey-light, 50%);
-  padding: 40px 0 16px;
+  background-color: tint($tan, 0%);
+  padding: 40px 40px 28px;
   margin-top: 40px;
+  margin-bottom: 40px;
+  display: grid;
+  border-radius: 2px;
+  // grid-gap: 40px;
+  // grid-template-columns: repeat(6, 1fr);
 }
 
 .project-index-news-list {
   display: grid;
-  grid-gap: 24px;
+  grid-gap: 24px 40px;
   grid-template-columns: repeat(2, 1fr);
+  // grid-column: 3 / -1;
+  h6 {
+    margin-bottom: 40px;
+    // grid-column: 1 / 3;
+  }
+  .news-index-item {
+    margin-bottom: 0;
+    border-bottom-color: shade($border-color, 20%);
+    &:nth-last-child(-n+2) {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+  }
   .news-summary-text {
     font-size: 0.875rem;
   }
-  .news-author, .news-date {
-    font-size: 0.875rem;
-    font-weight: 600;
-    color: $blue-light;
+  .news-feature-image {
+    height: auto;
+    object-fit: contain;
+    margin-top: 4px;
   }
 }
 
@@ -1631,6 +1658,19 @@ img {
 .project-index {
   h6 {
     margin-bottom: 16px;
+  }
+  .project-index-news {
+    h6 {
+      margin-bottom: 32px;
+      span {
+        font-weight: 400;
+        color: $blue-light;
+        display: inline-block;
+      }
+      a {
+        color: $blue-light;
+      }
+    }
   }
 }
 

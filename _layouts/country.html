@@ -92,12 +92,13 @@ layout: default
   <!--///////// Country News /////////-->
   <!--////////////////////////////////-->
 
-  <div class="project-index-news">
-    <div class="container">
-      <h6>News from {{ page.title }}</h6>
+  <div class="container">
+    <div class="project-index-news">
+
+      <h6>News from {{ page.title }} <span>(<a href="/updates">View all news</a>)</span></h6>
 
       <div class="project-index-news-list">
-        {% for post in site.posts %}
+        {% for post in site.posts limit:4 %}
 
         <div class="news-index-item">
           <div class="news-list-summary">
@@ -109,8 +110,9 @@ layout: default
               <p>{{ post['Summary Text']}}</p>
               {% capture post.Person %}{% endcapture %}
               <div class="news-list-meta">
-                {% assign author = site.people | where: "title", post.Person | first %}
-                  <p class="news-index-author">{% if post.Person %}{{ author.title }} — {% endif %}{{ post.date | date:  '%e %B, %Y' }}</p>
+                  <p class="news-index-author">
+                    {% include author.html %} — {{ post.date | date:  '%e %B, %Y' }}
+                  </p>
               </div>
             </div>
 
