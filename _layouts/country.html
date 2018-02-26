@@ -4,6 +4,12 @@ layout: default
 
 <div class="project-index country-index">
 
+
+  <!--////////////////////////////////-->
+  <!--//////// Country Header ////////-->
+  <!--////////////////////////////////-->
+
+
   <div class="country-index-header">
 
     <div class="country-map-area">
@@ -35,6 +41,12 @@ layout: default
     </div>
   </div>
 
+
+  <!--////////////////////////////////-->
+  <!--////// Country Highlights //////-->
+  <!--////////////////////////////////-->
+
+
   {% assign sorted-projects = site.projects | sort:"position" %}
 
   {% for project in sorted-projects %}
@@ -44,6 +56,8 @@ layout: default
       <div class="container">
         <div class="project-index-highlights">
           <h6>Our work in {{ page.title }}</h6>
+
+      {% break %}
 
       {% endif %}
     {% endif %}
@@ -64,19 +78,72 @@ layout: default
     {% if project['Country'] contains page.title %}
       {% if forloop.index > 0 %}
 
+          </div>
         </div>
+
+        {% break %}
 
       {% endif %}
     {% endif %}
   {% endfor %}
 
+
+  <!--////////////////////////////////-->
+  <!--///////// Country News /////////-->
+  <!--////////////////////////////////-->
+
+  <div class="project-index-news">
+    <div class="container">
+      <h6>News from {{ page.title }}</h6>
+
+      <div class="project-index-news-list">
+        {% for post in site.posts %}
+
+        <div class="news-index-item">
+          <div class="news-list-summary">
+
+            <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
+
+              <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+
+              <p>{{ post['Summary Text']}}</p>
+              {% capture post.Person %}{% endcapture %}
+              <div class="news-list-meta">
+                {% assign author = site.people | where: "title", post.Person | first %}
+                  <p class="news-index-author">{% if post.Person %}{{ author.title }} — {% endif %}{{ post.date | date:  '%e %B, %Y' }}</p>
+              </div>
+            </div>
+
+            {% if post['Feature Image'] %}
+              <div class="news-list-image-sm">
+                <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
+              </div>
+            {% endif %}
+
+          </div>
+        </div>
+
+        {% endfor %}
+      </div>
+
+    </div>
+  </div>
+
+  <!--////////////////////////////////-->
+  <!--///// Country All Projects /////-->
+  <!--////////////////////////////////-->
+
+
   {% for project in sorted-projects %}
     {% if project['Country'] contains page.title %}
       {% if forloop.index > 3 %}
 
-        <div class="hr-h"></div>
-        <h6>All Projects</h6>
-        <div class="project-index-all">
+        <div class="container">
+          <div class="hr-h"></div>
+          <h6>All Projects</h6>
+          <div class="project-index-all">
+
+        {% break %}
 
       {% endif %}
     {% endif %}
@@ -96,6 +163,8 @@ layout: default
 
           </div>
         </div>
+
+        {% break %}
 
       {% endif %}
     {% endif %}

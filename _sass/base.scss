@@ -1494,6 +1494,26 @@ img {
   }
 }
 
+.project-index-news {
+  background-color: tint($grey-light, 50%);
+  padding: 40px 0 16px;
+  margin-top: 40px;
+}
+
+.project-index-news-list {
+  display: grid;
+  grid-gap: 24px;
+  grid-template-columns: repeat(2, 1fr);
+  .news-summary-text {
+    font-size: 0.875rem;
+  }
+  .news-author, .news-date {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: $blue-light;
+  }
+}
+
 
 ////////////////////////////////////////////////
 /////////////////// Projects ///////////////////
@@ -1648,6 +1668,16 @@ img {
   .country-name {
     margin: 0 auto;
     padding: 40px;
+    &:after {
+      content: '';
+      display: block;
+      width: 0;
+      height: 0;
+      margin: 0 auto;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-top: 10px solid $red;
+    }
     h1.boxed {
       text-align: center;
     }
