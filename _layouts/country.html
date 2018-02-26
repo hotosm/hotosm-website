@@ -2,39 +2,37 @@
 layout: default
 ---
 
-<div class="project-index impact-area-item-index">
+<div class="project-index country-index">
 
-    <div class="country-index-header">
+  <div class="country-index-header">
 
-      <div class="country-map-area">
-        <div class="country-name"><h1 class="boxed">{{ page.title }}</h1></div>
-      </div>
-      <div class="country-contact">
-        <div class="country-contact-wrapper">
-          <h4>Want to start a project in {{ page.title }}?</h4>
-          <div class="country-content">
-            {{ content }}
-          </div>
-          <h5>Contact</h5>
-          {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
-            <p><b>{{ page['Contact Person'].Name }}</b></p>
-            <p>{{ page['Contact Person'].Title }}</p>
-            <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
-            <p>{{ page['Contact Person'].Phone }}</p>
-          {% else %}
-            <a href="mailto:info@hotosm.org">info@hotosm.org</a>
-          {% endif %}
-
-          {% if page.Location.Name or page.Location.Address %}
-            <h5>Visit</h5>
-            <p><b>{{ page.Location['Location Name'] }}</b></p>
-            {{ page.Location.Address | markdownify }}
-            <p>{{ page.Location.Phone }}</p>
-          {% endif %}
+    <div class="country-map-area">
+      <div class="country-name"><h1 class="boxed">{{ page.title }}</h1></div>
+    </div>
+    <div class="country-contact">
+      <div class="country-contact-wrapper">
+        <h4>Want to start a project in {{ page.title }}?</h4>
+        <div class="country-content">
+          {{ content }}
         </div>
+        <h5>Contact</h5>
+        {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
+          <p><b>{{ page['Contact Person'].Name }}</b></p>
+          <p>{{ page['Contact Person'].Title }}</p>
+          <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
+          <p>{{ page['Contact Person'].Phone }}</p>
+        {% else %}
+          <a href="mailto:info@hotosm.org">info@hotosm.org</a>
+        {% endif %}
+
+        {% if page.Location.Name or page.Location.Address %}
+          <h5>Visit</h5>
+          <p><b>{{ page.Location['Location Name'] }}</b></p>
+          {{ page.Location.Address | markdownify }}
+          <p>{{ page.Location.Phone }}</p>
+        {% endif %}
       </div>
     </div>
-
   </div>
 
   {% assign sorted-projects = site.projects | sort:"position" %}
@@ -44,8 +42,8 @@ layout: default
       {% if forloop.index > 0 %}
 
       <div class="container">
-        <h6>Our work in {{ page.title }}</h6>
         <div class="project-index-highlights">
+          <h6>Our work in {{ page.title }}</h6>
 
       {% endif %}
     {% endif %}
@@ -53,7 +51,7 @@ layout: default
 
   {% for project in sorted-projects %}
     {% if project['Country'] contains page.title %}
-      {% if forloop.index > 2 %}
+      {% if forloop.index > 3 %}
         {% break %}
       {% endif %}
 
@@ -67,6 +65,15 @@ layout: default
       {% if forloop.index > 0 %}
 
         </div>
+
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% for project in sorted-projects %}
+    {% if project['Country'] contains page.title %}
+      {% if forloop.index > 3 %}
+
         <div class="hr-h"></div>
         <h6>All Projects</h6>
         <div class="project-index-all">

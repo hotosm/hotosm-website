@@ -1627,6 +1627,12 @@ img {
   }
 }
 
+.country-index {
+  .project-index-highlights {
+    margin-top: 40px;
+  }
+}
+
 .country-index-header {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -1641,6 +1647,10 @@ img {
   justify-content: center;
   .country-name {
     margin: 0 auto;
+    padding: 40px;
+    h1.boxed {
+      text-align: center;
+    }
   }
 }
 
