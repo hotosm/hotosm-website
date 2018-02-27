@@ -12,6 +12,7 @@ Project:
 - Dar Ramani Huria — Dar Open Map
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 - 'LEGIT: Supporting decentralization in Liberian cities'
+Country: Portugal
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/nsmith
   Twitter: https://twitter.com/nas_smith
