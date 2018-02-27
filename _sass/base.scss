@@ -1849,6 +1849,89 @@ img {
 
 
 ////////////////////////////////////////////////
+//////////////////// People ////////////////////
+////////////////////////////////////////////////
+
+
+.person-profile {
+
+}
+
+.person-header {
+  margin-bottom: 40px;
+}
+
+.person-map-area {
+  background-color: tint($red, 85%);
+  padding: 40px;
+  position: relative;
+}
+
+.person-header-info {
+  display: flex;
+}
+
+.person-photo {
+  width: 153px;
+  height: 153px;
+  img {
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+  }
+}
+
+.person-type {
+  color: $white;
+  font-weight: 600;
+}
+
+.person-member-type {
+  display: inline-block;
+  background: $blue-dark;
+  padding: 19px 21px;
+}
+
+.person-title {
+  display: inline-block;
+  background: $blue-grey;
+  padding: 19px 21px;
+}
+
+.person-body {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-gap: 24px;
+  margin-bottom: 40px;
+  .person-main {
+    grid-column: span 9;
+    padding-top: 24px;
+    border-top: 1px solid $border-color;
+  }
+  .person-sidebar {
+    grid-column: span 3;
+    padding-top: 24px;
+    border-top: 1px solid $border-color;
+  }
+}
+
+.person-bio {
+  margin-bottom: 24px;
+  p {
+    font-size: 1.125rem;
+    color: $blue-dark;
+    margin-top: 16px;
+    line-height: 1.5;
+  }
+}
+
+.person-projects {
+  padding-top: 24px;
+  border-top: 1px solid $border-color;
+}
+
+
+////////////////////////////////////////////////
 /////////////// Page — What We Do //////////////
 ////////////////////////////////////////////////
 

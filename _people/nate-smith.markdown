@@ -1,7 +1,7 @@
 ---
 title: Nate Smith
 date: 2018-02-15 12:54:00 Z
-Photo: "/uploads/nate.jpg"
+Photo: "/uploads/nate-1.jpg"
 HOT Member Type: Staff
 Title: Director of Technology
 Working Group:

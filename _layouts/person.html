@@ -1,0 +1,92 @@
+---
+layout: default
+---
+
+<div class="person-profile">
+
+
+  <!--////////////////////////////////-->
+  <!--//////// Person Header /////////-->
+  <!--////////////////////////////////-->
+
+
+  <header class="person-header">
+
+    <div class="person-map-area">
+      <div class="person-header-info">
+        {% if page.Photo %}
+          <div class="person-photo">
+            <img src="{{ page.Photo }}">
+          </div>
+        {% endif %}
+        <div class="person-indentity">
+          <div class="person-name"><h1 class="boxed">{{ page.title }}</h1></div>
+          <p class="person-type">
+            {% if page['HOT Member Type'] %}<span class="person-member-type">{{ page['HOT Member Type'] }}</span>{% endif %}{% if page.Title %}<span class="person-title">{{ page.Title }}</span>{% endif %}
+          </p>
+        </div>
+      </div>
+      <div class="person-location">
+      </div>
+    </div>
+
+  </header>
+
+
+  <!--////////////////////////////////-->
+  <!--///////// Person Body //////////-->
+  <!--////////////////////////////////-->
+
+  <div class="container">
+    <div class="person-body">
+      <div class="person-main">
+        <div class="person-bio">
+          <h5>Bio</h5>
+          {{ content }}
+        </div>
+        <div class="person-projects">
+          <h5>Projects Associated with {{ page.title }}</h5>
+          {% include person-projects.html %}
+        </div>
+      </div>
+      <div class="person-sidebar meta">
+
+        {% if page['Working Group'][0] != '' %}
+          <div class="meta-item">
+            <h5>Working Groups</h5>
+            <ul>
+              {% for group in page['Working Group'] %}
+                <li><a href="#">{{ group }}</a></li>
+              {% endfor %}
+            </ui>
+          </div>
+        {% endif %}
+
+        {% if page['Social Media (Full URL)'].OSM != '' and page['Social Media (Full URL)'].Facebook != '' and page['Social Media (Full URL)'].Twitter != '' and page['Social Media (Full URL)'].LinkedIn != '' and page['Social Media (Full URL)'].Instagram != '' %}
+          <div class="meta-item">
+            <h5>On The Web</h5>
+            <ul>
+              {% if page['Social Media (Full URL)'].OSM %}
+                <li><a href="{{ page['Social Media (Full URL)'].OSM }}">OpenStreetMap</a></li>
+              {% endif %}
+              {% if page['Social Media (Full URL)'].Twitter %}
+                <li><a href="{{ page['Social Media (Full URL)'].Twitter }}">Twitter</a></li>
+              {% endif %}
+              {% if page['Social Media (Full URL)'].LinkedIn %}
+                <li><a href="{{ page['Social Media (Full URL)'].LinkedIn }}">LinkedIn</a></li>
+              {% endif %}
+              {% if page['Social Media (Full URL)'].Facebook %}
+                <li><a href="{{ page['Social Media (Full URL)'].Facebook }}">Facebook</a></li>
+              {% endif %}
+              {% if page['Social Media (Full URL)'].Instagram %}
+                <li><a href="{{ page['Social Media (Full URL)'].Instagram }}">Instagram</a></li>
+              {% endif %}
+            </ul>
+          </div>
+        {% endif %}
+
+      </div>
+    </div>
+  </div>
+
+</div>
