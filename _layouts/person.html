@@ -40,16 +40,65 @@ layout: default
   <div class="container">
     <div class="person-body">
       <div class="person-main">
+
         <div class="person-bio">
-          <h5>Bio</h5>
-          {{ content }}
+          <h6>Bio</h6>
+          <div class="person-content">
+            {{ content }}
+          </div>
         </div>
+
+        <div class="person-posts">
+          <h6>Posts</h6>
+          <div class="person-posts-list">
+            {% for post in site.posts limit:4 %}
+              <div class="news-index-item">
+                <div class="news-list-summary">
+                  <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
+                    <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+                    <p>{{ post['Summary Text']}}</p>
+                    {% capture post.Person %}{% endcapture %}
+                    <div class="news-list-meta">
+                      {% assign author = site.people | where: "title", post.Person | first %}
+                        <p class="news-index-author">
+                          {{ post.date | date: '%e %B, %Y' }}</p>
+                    </div>
+                  </div>
+                  {% if post['Feature Image'] %}
+                    <div class="news-list-image-sm">
+                      <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
+                    </div>
+                  {% endif %}
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+
         <div class="person-projects">
-          <h5>Projects Associated with {{ page.title }}</h5>
-          {% include person-projects.html %}
+          <h6>Project Contributions</h6>
+            <div class="person-projects-list">
+              {% for person-project in page.Project %}
+                {% for project in site.projects %}
+                  {% if person-project == project.title %}
+                    {% include blocks/project-thumb.html %}
+                  {% endif %}
+                {% endfor %}
+              {% endfor %}
+          </div>
         </div>
+
+
+
       </div>
       <div class="person-sidebar meta">
+
+        {% if page.Country %}
+          <div class="meta-item meta-country">
+            <img src="{{ "/images/icon-person-pin.svg" | prepend: site.baseurl }}">
+            <a href="/where-we-work/{{ page.Country }}">{{ page.Country }}</a>
+          </div>
+        {% endif %}
 
         {% if page['Working Group'][0] != '' %}
           <div class="meta-item">

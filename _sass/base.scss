@@ -543,7 +543,6 @@ img {
 
 .module-text {
   font-size: 0.9375rem;
-  margin-bottom: 32px;
   flex-grow: 1;
   p {
     margin-bottom: 12px;
@@ -704,7 +703,7 @@ img {
     display: block;
     img {
       width: 100%;
-      max-height: 100%;
+      height: 100%;
       object-fit: cover;
       display: block;
     }
@@ -1863,12 +1862,29 @@ img {
 
 .person-map-area {
   background-color: tint($red, 85%);
+  background-image: url(../uploads/portugal-sample.png);
+  background-position: center center;
+  background-size: cover;
   padding: 40px;
   position: relative;
+  &:after {
+    content: '';
+    display: block;
+    background-color: $red;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: .05;
+    z-index: 1;
+  }
 }
 
 .person-header-info {
   display: flex;
+  position: relative;
+  z-index: 10;
 }
 
 .person-photo {
@@ -1901,33 +1917,98 @@ img {
 .person-body {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  grid-gap: 24px;
+  grid-gap: 40px;
   margin-bottom: 40px;
   .person-main {
     grid-column: span 9;
-    padding-top: 24px;
+    padding-top: 40px;
     border-top: 1px solid $border-color;
   }
   .person-sidebar {
     grid-column: span 3;
-    padding-top: 24px;
+    padding-top: 40px;
     border-top: 1px solid $border-color;
+  }
+  .meta-country {
+    padding-bottom: 40px;
+    img {
+      position: relative;
+      top: 4px;
+    }
+    a {
+      display: inline-block;
+      margin-left: 4px;
+      font-size: 1.25rem;
+    }
   }
 }
 
 .person-bio {
-  margin-bottom: 24px;
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  grid-gap: 0 24px;
+  margin-bottom: 40px;
+  h6 {
+    grid-column: 1 / 3;
+  }
+  .person-content {
+    grid-column: 3 / -1;
+  }
   p {
     font-size: 1.125rem;
     color: $blue-dark;
-    margin-top: 16px;
+    margin-bottom: 16px;
     line-height: 1.5;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.person-posts {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  grid-gap: 0 24px;
+  padding-top: 40px;
+  border-top: 1px solid $border-color;
+  margin-bottom: 16px;
+  h6 {
+    margin-bottom: 36px;
+    grid-column: 1 / 3;
+  }
+  .person-posts-list {
+    grid-column: 3 / -1;
   }
 }
 
 .person-projects {
-  padding-top: 24px;
+  padding-top: 40px;
   border-top: 1px solid $border-color;
+  h6 {
+    margin-bottom: 36px;
+  }
+}
+
+.person-projects-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 24px;
+  .project-module {
+    display: grid;
+    grid-template-rows: auto 180px;
+    margin-bottom: 0;
+    h3 {
+      font-size: 1.125rem;
+    }
+    .module-details {
+      padding: 14px 16px;
+    }
+    .project-header-meta {
+      p {
+        font-size: 0.8125rem;
+      }
+    }
+  }
 }
 
 

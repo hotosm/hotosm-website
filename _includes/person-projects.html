@@ -1,8 +1,0 @@
-{% for person-project in page.Project %}
-  {% for project in site.projects %}
-    {% if person-project == project.title %}
-      <h3>{{ project.title }} HEY</h3>
-      {{ project.url }}
-    {% endif %}
-  {% endfor %}
-{% endfor %}
