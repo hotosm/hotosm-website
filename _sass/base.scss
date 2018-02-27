@@ -1202,12 +1202,12 @@ img {
 .news-index-sidebar {
   grid-column: 1 / 8;
   border-top: 1px solid $border-color;
-  padding-top: 24px;
+  padding-top: 28px;
 }
 
 .news-index-list {
   grid-column: 8 / -1;
-  padding-top: 24px;
+  padding-top: 32px;
   border-top: 1px solid $border-color;
   h3 {
     font-size: 2.25rem;
@@ -1217,7 +1217,7 @@ img {
 .news-pagination {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  padding-bottom: 24px;
+  padding-bottom: 32px;
   border-bottom: 1px solid $border-color;
   margin-bottom: 40px;
   .prev {
@@ -1322,9 +1322,12 @@ img {
 }
 
 .news-index-item {
-  padding-bottom: 16px;
+  padding-bottom: 24px;
   border-bottom: 1px solid $border-color;
-  margin-bottom: 24px;
+  margin-bottom: 32px;
+  &:last-child {
+    margin-bottom: 24px;
+  }
   a {
     text-decoration: none;
   }
@@ -1809,6 +1812,39 @@ img {
 
 .project-index-highlights {
 
+}
+
+
+////////////////////////////////////////////////
+////////////////// Page — Home /////////////////
+////////////////////////////////////////////////
+
+
+.home {
+
+}
+
+.home-header {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-gap: 24px;
+  margin: 72px 0 40px;
+  h1 {
+    font-family: $font-default;
+    font-size: 2.25rem;
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 0;
+    line-height: 1.25;
+    color: $red;
+    grid-column: 1 / 9;
+  }
+  .home-cta {
+    grid-column: 1 / 9;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 24px;
+  }
 }
 
 
