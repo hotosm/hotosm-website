@@ -31,6 +31,12 @@ h1, h2 {
     color: $white;
     background-color: $red;
     padding: 6px 18px 14px;
+    @media (max-width: $screen-sm) {
+      padding: 12px 16px 14px;
+    }
+    @media (max-width: $screen-xs) {
+      padding: 11px 16px 12px;
+    }
   }
 }
 
@@ -1865,8 +1871,11 @@ img {
   background-image: url(../uploads/portugal-sample.png);
   background-position: center center;
   background-size: cover;
-  padding: 40px;
+  padding: 16px;
   position: relative;
+  @media (min-width: $screen-xs) {
+    padding: 40px;
+  }
   &:after {
     content: '';
     display: block;
@@ -1882,18 +1891,36 @@ img {
 }
 
 .person-header-info {
-  display: flex;
-  position: relative;
   z-index: 10;
+  display: flex;
+  @media (max-width: $screen-xs) {
+    flex-direction: column;
+  }
 }
 
 .person-photo {
   width: 153px;
   height: 153px;
+  @media (max-width: $screen-sm) {
+    width: 141px;
+    height: 141px;
+  }
+  @media (max-width: $screen-xs) {
+    width: 256px;
+    height: 256px;
+    // margin-left: 24px;
+    // margin-bottom: 16px;
+  }
   img {
     min-width: 100%;
     min-height: 100%;
     object-fit: cover;
+  }
+}
+
+.person-indentity {
+  @media (max-width: $screen-xs) {
+
   }
 }
 
@@ -1902,16 +1929,24 @@ img {
   font-weight: 600;
 }
 
-.person-member-type {
+.person-member-type, .person-title {
   display: inline-block;
   background: $blue-dark;
   padding: 19px 21px;
+  @media (max-width: $screen-xs) {
+    font-size: .875rem;
+    padding: 13px 15px;
+  }
+}
+
+.person-member-type {
+  @media (max-width: $screen-xs) {
+    // margin-left: 24px;
+  }
 }
 
 .person-title {
-  display: inline-block;
   background: $blue-grey;
-  padding: 19px 21px;
 }
 
 .person-body {
