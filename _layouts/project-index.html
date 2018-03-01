@@ -13,12 +13,14 @@ layout: default
       </div>
 
       <div class="project-index-areas">
-        <div class="container">
-          <h6>Impact Areas</h6>
-          {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
-          {% for impact-area in sorted-impact-areas %}
-            <a href="{{ impact-area.url }}" class="btn btn-info btn-chevron">{{ impact-area.title }}</a>
-          {% endfor %}
+        <div class="areas-wrapper">
+          <div class="container">
+            <h6>Impact Areas</h6>
+            {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
+            {% for impact-area in sorted-impact-areas %}
+              <a href="{{ impact-area.url }}" class="btn btn-info btn-chevron">{{ impact-area.title }}</a>
+            {% endfor %}
+          </div>
         </div>
       </div>
 

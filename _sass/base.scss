@@ -10,6 +10,7 @@ body {
   font-family: $font-default;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
 }
 
 h1, h2 {
@@ -24,7 +25,7 @@ h1, h2 {
     font-size: 3rem;
   }
   @media (max-width: $screen-xs) {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
   &.boxed {
     display: inline-block;
@@ -35,7 +36,7 @@ h1, h2 {
       padding: 12px 16px 14px;
     }
     @media (max-width: $screen-xs) {
-      padding: 11px 16px 12px;
+      padding: 11px 17px 14px;
     }
   }
 }
@@ -53,6 +54,9 @@ h3 {
   line-height: 1.3;
   margin: 0 0 12px;
   color: $blue-dark;
+  @media (max-width: $screen-sm) {
+    font-size: 1.375rem;
+  }
 }
 
 h4 {
@@ -72,6 +76,9 @@ h6 {
   font-size: 1rem;
   font-weight: 600;
   color: $blue-grey;
+  @media (max-width: $screen-xs) {
+    font-size: .875rem;
+  }
 }
 
 a {
@@ -611,6 +618,9 @@ img {
       border-bottom: none;
       border-top-left-radius: $default-border-radius;
       border-top-right-radius: $default-border-radius;
+      @media (max-width: $screen-xs) {
+        padding: 16px;
+      }
     }
     .module-image {
       img {
@@ -695,9 +705,15 @@ img {
   padding: 0;
   border: 1px solid $border-color;
   border-radius: 2px;
-  margin-bottom: 24px;
+  margin-bottom: 16px;
+  @media (min-width: $screen-xs) {
+    margin-bottom: 24px;
+  }
   .module-details {
     padding: 24px;
+    @media (max-width: $screen-xs) {
+      padding: 16px;
+    }
     h3 {
       margin-bottom: 8px;
     }
@@ -718,31 +734,46 @@ img {
 
 .project-index-highlights {
   .project-module {
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: 400px;
-    grid-gap: 24px;
+    @media (min-width: $screen-xs) {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      grid-template-rows: 400px;
+      grid-gap: 24px;
+    }
     .module-details {
       grid-column: 1 / 6;
-      padding-right: 0;
+      @media (min-width: $screen-xs) {
+        padding-right: 0;
+      }
     }
     .module-image {
       grid-column: 6 / -1;
+    }
+  }
+  @media (max-width: $screen-xs) {
+    .module-cta {
+      display: none;
     }
   }
 }
 
 .project-index-all {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   grid-auto-rows: min-content;
   grid-gap: 0 24px;
-  margin-bottom: 16px;
+  @media (min-width: $screen-xs) {
+    grid-template-columns: repeat(3, 1fr);
+    margin-bottom: 16px;
+  }
   .project-module {
     display: grid;
     grid-template-rows: auto 240px;
     .module-details {
       padding: 20px 24px;
+      @media (max-width: $screen-xs) {
+        padding: 14px 16px;
+      }
     }
     .module-text {
       padding-right: 0;
@@ -1202,12 +1233,18 @@ img {
 
 .news-index-header {
   margin-bottom: 24px;
+  @media (max-width: $screen-xs) {
+    margin-bottom: 14px;
+  }
 }
 
 .news-index-sidebar {
   grid-column: 1 / 8;
   border-top: 1px solid $border-color;
   padding-top: 28px;
+  @media (max-width: $screen-xs) {
+    padding-top: 14px;
+  }
 }
 
 .news-index-list {
@@ -1351,6 +1388,9 @@ img {
     margin-bottom: 24px;
     h3 {
       font-size: 2rem;
+      @media (max-width: $screen-sm) {
+        font-size: 1.75rem;
+      }
     }
     .news-list-summary {
       grid-template-columns: repeat(6, 1fr);
@@ -1554,6 +1594,9 @@ img {
 /////////////////// Projects ///////////////////
 ////////////////////////////////////////////////
 
+
+.project-index {
+}
 
 .project-item {
 
@@ -1779,6 +1822,8 @@ img {
 .project-index-header {
   position: absolute;
   bottom: 0;
+  right: 0;
+  left: 0;
 }
 
 .impact-area-item-index {
@@ -1810,13 +1855,25 @@ img {
 .project-index-areas {
   padding: 24px 0 20px;
   background-color: rgba(255,255,255,.65);
+  @media (max-width: $screen-xs) {
+    padding: 16px 0 12px;
+  }
   .btn {
     margin-bottom: 4px;
+    @media (max-width: $screen-xs) {
+      font-size: 0.875rem;
+    }
+  }
+  @media (max-width: $screen-xs) {
+    width: 100%;
+    overflow-x: scroll;
   }
 }
 
-.project-index-highlights {
-
+.areas-wrapper {
+  @media (max-width: $screen-xs) {
+    width: 1000px;
+  }
 }
 
 
@@ -1863,7 +1920,10 @@ img {
 }
 
 .person-header {
-  margin-bottom: 40px;
+  margin-bottom: 16px;
+  @media (min-width: $screen-xs) {
+    margin-bottom: 40px;
+  }
 }
 
 .person-map-area {
@@ -1908,8 +1968,6 @@ img {
   @media (max-width: $screen-xs) {
     width: 256px;
     height: 256px;
-    // margin-left: 24px;
-    // margin-bottom: 16px;
   }
   img {
     min-width: 100%;
@@ -1950,10 +2008,12 @@ img {
 }
 
 .person-body {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-gap: 40px;
   margin-bottom: 40px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 40px;
+  }
   .person-main {
     grid-column: span 9;
     padding-top: 40px;
@@ -1979,40 +2039,53 @@ img {
 }
 
 .person-bio {
-  display: grid;
-  grid-template-columns: repeat(9, 1fr);
-  grid-gap: 0 24px;
   margin-bottom: 40px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-gap: 0 24px;
+  }
   h6 {
     grid-column: 1 / 3;
+    margin-bottom: 16px;
   }
   .person-content {
     grid-column: 3 / -1;
   }
   p {
-    font-size: 1.125rem;
     color: $blue-dark;
     margin-bottom: 16px;
     line-height: 1.5;
     &:last-child {
       margin-bottom: 0;
     }
+    @media (min-width: $screen-xs) {
+      font-size: 1.125rem;
+    }
   }
 }
 
 .person-posts {
-  display: grid;
-  grid-template-columns: repeat(9, 1fr);
-  grid-gap: 0 24px;
   padding-top: 40px;
   border-top: 1px solid $border-color;
   margin-bottom: 16px;
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  grid-gap: 0 24px;
   h6 {
     margin-bottom: 36px;
     grid-column: 1 / 3;
   }
   .person-posts-list {
     grid-column: 3 / -1;
+  }
+  @media (max-width: $screen-xs) {
+    .news-list-summary {
+      display: block;
+    }
+    .news-feature-image {
+      margin-bottom: 0;
+    }
   }
 }
 
@@ -2025,13 +2098,17 @@ img {
 }
 
 .person-projects-list {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 24px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 24px;
+  }
   .project-module {
     display: grid;
     grid-template-rows: auto 180px;
-    margin-bottom: 0;
+    @media (min-width: $screen-xs) {
+      margin-bottom: 0;
+    }
     h3 {
       font-size: 1.125rem;
     }
