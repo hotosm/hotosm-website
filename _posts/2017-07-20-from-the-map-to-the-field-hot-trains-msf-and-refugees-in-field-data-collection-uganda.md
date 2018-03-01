@@ -3,6 +3,7 @@ Person: Douglas
 date: '2017-07-20 14:10:54 Z'
 Working Group:
 - Community
+Projects: []
 title: 'From the map to the field: HOT trains MSF and refugees in field data collection
   - Uganda'
 created: 1500559854

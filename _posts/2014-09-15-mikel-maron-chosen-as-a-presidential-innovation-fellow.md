@@ -2,6 +2,7 @@
 Person: Jaakko Helleranta
 date: '2014-09-15 21:06:12 Z'
 Working Group: []
+Projects: []
 title: Mikel Maron Chosen as a Presidential Innovation Fellow
 created: 1410815172
 ---

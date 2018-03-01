@@ -3,6 +3,9 @@ Person: Heather Leson
 date: '2015-04-30 04:33:21 Z'
 Working Group:
 - Activation
+Projects:
+- Tasking Manager
+- Missing Maps
 title: 'Helping to map Nepal: getting started'
 created: 1430368401
 ---

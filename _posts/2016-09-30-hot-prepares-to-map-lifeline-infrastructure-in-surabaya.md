@@ -2,6 +2,7 @@
 Person: Biondi Sima
 date: '2016-09-30 05:44:33 Z'
 Working Group: []
+Projects: []
 title: HOT Prepares to Map Lifeline Infrastructure in Surabaya
 created: 1475214273
 ---

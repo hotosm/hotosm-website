@@ -2,6 +2,7 @@
 Person: harry
 date: '2011-01-25 10:47:41 Z'
 Working Group: []
+Projects: []
 title: The new HOT logo
 created: 1295952461
 ---

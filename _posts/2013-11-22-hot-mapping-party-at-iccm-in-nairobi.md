@@ -3,6 +3,9 @@ Person: Heather Leson
 date: '2013-11-22 13:43:47 Z'
 Working Group:
 - Training
+Projects:
+- Mapping Financial Inclusion in Uganda
+- Dar Ramani Huria - Dar Open Map
 title: 'HOT Mapping party at #ICCM in Nairobi'
 created: 1385127827
 ---

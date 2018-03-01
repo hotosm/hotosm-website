@@ -1,6 +1,10 @@
 ---
 date: '2014-12-30 17:38:59 Z'
 Working Group: []
+Projects:
+- HOT Indonesia Curriculum
+- Indonesia Disaster Management Innovation
+- InaSAFE
 title: Mapzen Donation!
 created: 1419961139
 ---

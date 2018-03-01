@@ -8,6 +8,7 @@ Person: Heather Leson
 date: '2015-05-27 19:26:28 Z'
 Working Group:
 - Community
+Projects: []
 title: Global Studies and Collaboration with CrisisMappers Japan
 created: 1432754788
 ---

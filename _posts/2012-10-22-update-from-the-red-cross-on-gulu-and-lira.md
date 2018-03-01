@@ -12,6 +12,7 @@ Summary Text: "<p><i>An update and thank you from Robert Banick at the American 
 Person: Mikel Maron
 date: '2012-10-22 16:21:49 Z'
 Working Group: []
+Projects: []
 title: Update from the Red Cross on Gulu and Lira
 created: 1350922909
 ---

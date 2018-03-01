@@ -3,6 +3,8 @@ Person: jeff
 date: '2014-11-10 18:02:09 Z'
 Working Group:
 - Community
+Projects:
+- Dar Ramani Huria - Dar Open Map
 title: Open Cities Mapping Guide Released
 created: 1415642529
 ---

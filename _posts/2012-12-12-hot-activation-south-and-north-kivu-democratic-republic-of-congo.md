@@ -2,6 +2,7 @@
 Person: pierre.beland
 date: '2012-12-12 20:11:34 Z'
 Working Group: []
+Projects: []
 title: HOT Activation, South and North Kivu, Democratic Republic of Congo
 created: 1355343094
 ---

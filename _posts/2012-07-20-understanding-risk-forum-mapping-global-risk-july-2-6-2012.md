@@ -2,6 +2,7 @@
 Person: pierre.beland
 date: '2012-07-20 18:29:42 Z'
 Working Group: []
+Projects: []
 title: Understanding Risk Forum, Mapping Global Risk, July 2-6 2012
 created: 1342808982
 ---

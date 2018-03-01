@@ -5,6 +5,13 @@ Person: pierre.beland
 date: '2014-08-08 20:55:43 Z'
 Working Group:
 - Training
+Projects:
+- OSM FlossManuals in Kreyòl (Creole)
+- 'Haiti '
+- Field Papers
+- Tasking Manager
+- HOT Training Center
+- LearnOSM
 title: WHO declares Ebola outbreak an 'international public health emergency'
 created: 1407531343
 ---

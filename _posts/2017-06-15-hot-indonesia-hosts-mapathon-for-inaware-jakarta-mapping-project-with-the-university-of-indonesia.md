@@ -2,6 +2,7 @@
 Person: Biondi Sima
 date: '2017-06-15 04:12:26 Z'
 Working Group: []
+Projects: []
 title: HOT Indonesia Hosts Mapathon for InAWARE Jakarta Mapping Project with  the
   University of Indonesia
 created: 1497499946

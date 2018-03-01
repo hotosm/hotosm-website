@@ -2,6 +2,7 @@
 Person: nicolas
 date: '2010-09-08 15:19:28 Z'
 Working Group: []
+Projects: []
 title: 'Fourth deploy of the HOT to Haiti: camp mapping project with IOM'
 created: 1283959168
 ---

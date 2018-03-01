@@ -2,6 +2,7 @@
 Person: Mikel Maron
 date: '2010-05-10 18:18:59 Z'
 Working Group: []
+Projects: []
 title: Haiti, Mission 2 by Mikel
 created: 1273515539
 ---

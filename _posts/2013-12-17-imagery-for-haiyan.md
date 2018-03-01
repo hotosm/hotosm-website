@@ -2,6 +2,7 @@
 Person: Kate Chapman
 date: '2013-12-17 12:53:26 Z'
 Working Group: []
+Projects: []
 title: Imagery for Haiyan
 created: 1387284806
 ---

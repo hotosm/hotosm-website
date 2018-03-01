@@ -10,6 +10,7 @@ Summary Text: "<p>Foreign Affairs and International Trade Canada department (DFA
 Person: pierre.beland
 date: '2012-02-22 15:24:52 Z'
 Working Group: []
+Projects: []
 title: Foreign Affairs and International Trade Canada department, Ottawa
 created: 1329924292
 ---

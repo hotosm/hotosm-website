@@ -2,6 +2,7 @@
 Person: Yohan Boniface
 date: '2013-09-29 13:52:06 Z'
 Working Group: []
+Projects: []
 title: A new window on OpenStreetMap data
 created: 1380462726
 ---

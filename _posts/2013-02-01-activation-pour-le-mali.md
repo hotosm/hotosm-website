@@ -11,6 +11,7 @@ Summary Text: "Cette activation fait suite aux discussions entre HOT et le Burea
 Person: pierre.beland
 date: '2013-02-01 17:50:29 Z'
 Working Group: []
+Projects: []
 title: Activation pour le Mali
 created: 1359741029
 ---

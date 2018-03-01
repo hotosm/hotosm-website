@@ -11,6 +11,7 @@ Summary Text: "<i>Today I bring you a guest post about a great project in Nepal.
 Person: Kate Chapman
 date: '2013-02-07 00:50:38 Z'
 Working Group: []
+Projects: []
 title: Mapping for Preparedness in Nepal
 created: 1360198238
 ---

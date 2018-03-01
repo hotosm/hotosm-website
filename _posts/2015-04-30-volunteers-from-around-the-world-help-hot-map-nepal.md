@@ -5,6 +5,9 @@ Person: Andrew Wiseman
 date: '2015-04-30 14:46:45 Z'
 Working Group:
 - Community
+Projects:
+- Mapping the world’s vulnerable places begins with you!
+- Missing Maps
 title: Volunteers from around the world help HOT map Nepal
 created: 1430405205
 ---

@@ -7,6 +7,7 @@ Summary Text: HOT has teamed up with many partners working to eliminate the dise
 Person: russell deffner
 date: '2017-10-04 15:00:49 Z'
 Working Group: []
+Projects: []
 title: Malaria Elimination Mapping Continues
 created: 1507129249
 ---

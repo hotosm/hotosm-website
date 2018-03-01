@@ -11,6 +11,7 @@ Summary Text: "After a week and a half of work on the current Syria activation, 
 Person: joseph
 date: '2013-02-06 20:51:28 Z'
 Working Group: []
+Projects: []
 title: 'Syria Activation Update: Our progress so far'
 created: 1360183888
 ---

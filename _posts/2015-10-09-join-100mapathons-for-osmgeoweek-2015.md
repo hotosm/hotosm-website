@@ -6,6 +6,7 @@ Summary Text: La semaine internationale de sensibilisation à la géographie (Ge
 Person: Pete Masters
 date: '2015-10-09 11:59:57 Z'
 Working Group: []
+Projects: []
 title: 'Join #100mapathons for OSMGeoWeek 2015!'
 created: 1444391997
 ---

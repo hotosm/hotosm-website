@@ -6,6 +6,7 @@ Summary Text: 'We have three Ugandan mapping supervisors on the HOT mapping team
 Person: Paul Uithol
 date: '2016-03-02 16:06:13 Z'
 Working Group: []
+Projects: []
 title: 'HOT Uganda profile: Douglas Ssebaggala'
 created: 1456934773
 ---

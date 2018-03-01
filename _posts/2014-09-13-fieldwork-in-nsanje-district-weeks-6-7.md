@@ -3,6 +3,13 @@ Person: emir
 date: '2014-09-13 22:54:16 Z'
 Working Group:
 - Training
+Projects:
+- Fall 2017 Disaster Response
+- LearnOSM
+- West Africa Ebola Epidemic
+- Missing Maps
+- Central African Republic Activation
+- Hurricane Matthew
 title: Fieldwork in Nsanje District (Weeks 6 - 7)
 created: 1410648856
 ---

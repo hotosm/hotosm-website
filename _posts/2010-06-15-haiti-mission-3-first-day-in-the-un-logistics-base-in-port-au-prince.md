@@ -3,6 +3,7 @@ Person: nicolas
 date: '2010-06-15 20:33:09 Z'
 Working Group:
 - Communications
+Projects: []
 title: Haiti mission 3 - First day in the UN logistics base in Port Au Prince
 created: 1276633989
 ---

@@ -2,6 +2,7 @@
 Person: nicolas
 date: '2012-01-12 00:00:00 Z'
 Working Group: []
+Projects: []
 title: A return to Haiti two years on
 created: 1326326400
 ---

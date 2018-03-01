@@ -2,6 +2,7 @@
 Person: Kate Chapman
 date: '2011-12-02 12:18:32 Z'
 Working Group: []
+Projects: []
 title: Poverty Mapping with an OpenStreetMap Base in Sumbawa
 created: 1322828312
 ---

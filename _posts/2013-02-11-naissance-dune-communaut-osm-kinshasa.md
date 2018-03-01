@@ -8,6 +8,7 @@ Summary Text: "Durant les derniers mois, de nombreux contributeurs à travers le
 Person: claire
 date: '2013-02-11 18:20:12 Z'
 Working Group: []
+Projects: []
 title: Naissance d'une communauté OSM à Kinshasa
 created: 1360606812
 ---

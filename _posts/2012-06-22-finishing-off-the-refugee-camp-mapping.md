@@ -11,6 +11,7 @@ Summary Text: "Last month <a href=\"http://hot.openstreetmap.org/updates/2012-05
 Person: harry
 date: '2012-06-22 23:04:01 Z'
 Working Group: []
+Projects: []
 title: Finishing off the refugee camp mapping
 created: 1340406241
 ---

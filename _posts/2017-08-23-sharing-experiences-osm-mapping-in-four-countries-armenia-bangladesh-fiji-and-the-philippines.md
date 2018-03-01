@@ -2,6 +2,7 @@
 Person: RebeccaFirth
 date: '2017-08-23 22:34:20 Z'
 Working Group: []
+Projects: []
 title: 'Sharing Experiences OSM Mapping in Four Countries: Armenia, Bangladesh, Fiji
   and the Philippines'
 created: 1503527660

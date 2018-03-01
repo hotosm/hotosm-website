@@ -6,6 +6,7 @@ Summary Text: "Written with Andrew Salzberg\r\n\r\nThe recent horrific <a href=\
 Person: Alyssa Wright
 date: '2013-05-31 12:22:10 Z'
 Working Group: []
+Projects: []
 title: OpenStreetMap Bangladesh Edition
 created: 1370002930
 ---

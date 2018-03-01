@@ -11,6 +11,7 @@ Summary Text: "This week we caught up with Heather, the newest board member of H
 Person: Katrina E.
 date: '2013-06-20 15:15:53 Z'
 Working Group: []
+Projects: []
 title: 'Faces of HOT: Heather Leson, newest board member'
 created: 1371741353
 ---

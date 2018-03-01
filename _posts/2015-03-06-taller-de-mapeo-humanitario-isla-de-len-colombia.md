@@ -3,6 +3,7 @@ Person: Blake Girardot
 date: '2015-03-06 17:55:39 Z'
 Working Group:
 - Fundraising
+Projects: []
 title: Taller de Mapeo Humanitario – Isla de León, Colombia
 created: 1425664539
 ---

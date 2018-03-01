@@ -8,6 +8,11 @@ Summary Text: It is our pleasure to welcome a group of student interns from the 
 Person: russell deffner
 date: '2015-05-07 05:31:27 Z'
 Working Group: []
+Projects:
+- Hurricane Matthew
+- OpenMapKit
+- 'Haiti '
+- Missing Maps
 title: Mongolia - Mapping Ulaanbaatar Update - Welcome Interns!
 created: 1430976687
 ---

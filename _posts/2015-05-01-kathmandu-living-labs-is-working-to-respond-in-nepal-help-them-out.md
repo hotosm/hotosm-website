@@ -6,6 +6,7 @@ Person: Andrew Wiseman
 date: '2015-05-01 16:31:14 Z'
 Working Group:
 - Activation
+Projects: []
 title: 'Kathmandu Living Labs is working to respond in Nepal: help them out!'
 created: 1430497874
 ---

@@ -7,6 +7,7 @@ Summary Text: The Ramani Huria team was proud to be part of the first Africa Ope
 Person: Paul Uithol
 date: '2015-09-14 23:31:49 Z'
 Working Group: []
+Projects: []
 title: Ramani Huria at the Africa Open Data Conference
 created: 1442273509
 ---

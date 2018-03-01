@@ -8,6 +8,7 @@ Summary Text: "<p>This week Vasanthi, Emir and I returned to Bima and Dompu. It 
 Person: Kate Chapman
 date: '2012-01-31 04:01:08 Z'
 Working Group: []
+Projects: []
 title: Back, back, back to Sumbawa
 created: 1327982468
 ---

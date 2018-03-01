@@ -3,6 +3,7 @@ Person: Amelia Hunt
 date: '2017-12-11 20:16:55 Z'
 Working Group:
 - Community
+Projects: []
 title: 'OpenStreetMap Niger: Scaling with the help of a Microgrant'
 created: 1513023415
 ---

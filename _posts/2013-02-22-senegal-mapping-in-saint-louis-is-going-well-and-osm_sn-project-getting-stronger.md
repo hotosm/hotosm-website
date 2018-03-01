@@ -1,6 +1,7 @@
 ---
 date: '2013-02-22 23:27:24 Z'
 Working Group: []
+Projects: []
 title: 'Senegal : mapping in Saint-Louis is going well and OSM_SN project getting
   stronger'
 created: 1361575644

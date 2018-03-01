@@ -2,6 +2,7 @@
 Person: Kate Chapman
 date: '2010-06-27 23:11:58 Z'
 Working Group: []
+Projects: []
 title: Haiti mission 3 - Training and Mapping Party in GonaÃ¯ves
 created: 1277680318
 ---

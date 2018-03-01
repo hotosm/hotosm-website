@@ -2,6 +2,7 @@
 Person: nicolas
 date: '2010-04-17 03:30:24 Z'
 Working Group: []
+Projects: []
 title: 'Mission 1: recap from third week conducting outreach and training on OSM in
   Haiti by Nicolas'
 created: 1271475024

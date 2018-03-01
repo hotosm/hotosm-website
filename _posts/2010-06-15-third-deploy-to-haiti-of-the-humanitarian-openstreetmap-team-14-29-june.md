@@ -2,6 +2,7 @@
 Person: nicolas
 date: '2010-06-15 03:53:25 Z'
 Working Group: []
+Projects: []
 title: Third Deploy to Haiti of the Humanitarian OpenStreetMap Team 14-29 June
 created: 1276574005
 ---

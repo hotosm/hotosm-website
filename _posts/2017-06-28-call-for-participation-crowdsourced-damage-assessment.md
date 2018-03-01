@@ -2,6 +2,7 @@
 Person: Cristiano Giovando
 date: '2017-06-28 06:11:15 Z'
 Working Group: []
+Projects: []
 title: 'Call For Participation: Crowdsourced Damage Assessment'
 created: 1498630275
 ---

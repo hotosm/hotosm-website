@@ -12,6 +12,7 @@ Summary Text: "This Activation follows discussions between HOT and the United Na
 Person: pierre.beland
 date: '2013-02-01 17:49:03 Z'
 Working Group: []
+Projects: []
 title: Mali Activation
 created: 1359740943
 ---

@@ -10,6 +10,7 @@ Summary Text: "Closing out 2012 HOT has been officially in existence for over tw
 Person: Kate Chapman
 date: '2013-01-02 14:39:41 Z'
 Working Group: []
+Projects: []
 title: 2012 Was HOT...Can't Wait for 2013
 created: 1357137581
 ---

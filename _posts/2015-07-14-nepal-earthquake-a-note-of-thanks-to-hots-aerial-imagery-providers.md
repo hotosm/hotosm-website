@@ -2,6 +2,7 @@
 Person: Tyler Radford
 date: '2015-07-14 13:42:15 Z'
 Working Group: []
+Projects: []
 title: 'Nepal Earthquake: A note of thanks to HOT’s aerial imagery providers'
 created: 1436881335
 ---

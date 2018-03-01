@@ -2,6 +2,7 @@
 Person: harry
 date: '2014-01-04 16:49:11 Z'
 Working Group: []
+Projects: []
 title: Thank you Lokku and Happy New Year
 created: 1388854151
 ---

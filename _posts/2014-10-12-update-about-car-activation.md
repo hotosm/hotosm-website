@@ -3,6 +3,7 @@ Person: Severin
 date: '2014-10-12 01:41:24 Z'
 Working Group:
 - Activation
+Projects: []
 title: Update about CAR Activation
 created: 1413078084
 ---

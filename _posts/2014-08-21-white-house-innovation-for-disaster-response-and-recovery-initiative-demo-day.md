@@ -2,6 +2,7 @@
 Person: Mikel Maron
 date: '2014-08-21 16:58:34 Z'
 Working Group: []
+Projects: []
 title: White House Innovation for Disaster Response and Recovery Initiative Demo Day
 created: 1408640314
 ---

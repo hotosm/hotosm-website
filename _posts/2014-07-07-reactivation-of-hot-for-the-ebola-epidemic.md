@@ -2,6 +2,7 @@
 Person: pierre.beland
 date: '2014-07-07 01:22:47 Z'
 Working Group: []
+Projects: []
 title: Reactivation of HOT for the Ebola epidemic
 created: 1404696167
 ---

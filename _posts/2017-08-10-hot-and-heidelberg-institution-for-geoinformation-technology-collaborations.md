@@ -2,6 +2,7 @@
 Person: RebeccaFirth
 date: '2017-08-10 02:27:42 Z'
 Working Group: []
+Projects: []
 title: HOT and Heidelberg Institution for Geoinformation Technology Collaborations
 created: 1502332062
 ---

@@ -7,6 +7,7 @@ Summary Text: There is no map for the 42 bus lines in Metropolitan Managua, capi
 Person: Felix Delattre
 date: '2016-01-07 19:56:18 Z'
 Working Group: []
+Projects: []
 title: A crowd-sourced public transportation map for Managua
 created: 1452196578
 ---

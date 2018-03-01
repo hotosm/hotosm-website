@@ -3,6 +3,7 @@ Person: Douglas
 date: '2017-07-06 08:41:45 Z'
 Working Group:
 - Community
+Projects: []
 title: Bringing Remote Mapping to the Field
 created: 1499330505
 ---

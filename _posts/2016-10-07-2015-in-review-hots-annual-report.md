@@ -7,6 +7,7 @@ Summary Text: 'HOT''s 2015 Annual Report is now online! The report and projects 
 Person: Tyler Radford
 date: '2016-10-07 15:28:41 Z'
 Working Group: []
+Projects: []
 title: '2015 in Review: HOT''s Annual Report'
 created: 1475854121
 ---

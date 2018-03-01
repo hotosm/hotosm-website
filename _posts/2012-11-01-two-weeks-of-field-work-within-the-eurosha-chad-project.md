@@ -12,6 +12,7 @@ Summary Text: "Last night of hard work in the meeting room of the UNHCR in Gore 
 Person: nicolas
 date: '2012-11-01 02:44:35 Z'
 Working Group: []
+Projects: []
 title: Two weeks of field work within the EUROSHA Chad Project
 created: 1351737875
 ---

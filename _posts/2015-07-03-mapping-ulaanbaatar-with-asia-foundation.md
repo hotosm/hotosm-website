@@ -8,6 +8,8 @@ Person: russell deffner
 date: '2015-07-03 15:09:26 Z'
 Working Group:
 - Security
+Projects:
+- 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 title: Mapping Ulaanbaatar with Asia Foundation
 created: 1435936166
 ---

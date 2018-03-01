@@ -6,6 +6,7 @@ Summary Text: 'This year has presented many challenges to HOT. We have been incr
 Person: russell deffner
 date: '2015-07-08 16:24:33 Z'
 Working Group: []
+Projects: []
 title: HOT Leadership 2015
 created: 1436372673
 ---

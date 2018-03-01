@@ -2,6 +2,7 @@
 Person: nicolas
 date: '2010-06-18 20:27:30 Z'
 Working Group: []
+Projects: []
 title: Haiti mission 3 - Training Day with Haitian partners of the project WINNER
 created: 1276892850
 ---

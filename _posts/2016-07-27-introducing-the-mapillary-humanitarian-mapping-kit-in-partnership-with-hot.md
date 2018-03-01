@@ -2,6 +2,7 @@
 Person: Tyler Radford
 date: '2016-07-27 14:13:45 Z'
 Working Group: []
+Projects: []
 title: Introducing the Mapillary Humanitarian Mapping Kit, in Partnership with HOT
 created: 1469628825
 ---

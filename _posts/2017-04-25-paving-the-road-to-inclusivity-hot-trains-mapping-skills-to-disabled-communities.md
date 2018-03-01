@@ -2,6 +2,7 @@
 Person: Biondi Sima
 date: '2017-04-25 08:35:39 Z'
 Working Group: []
+Projects: []
 title: Paving the Road to Inclusivity, HOT Trains Mapping Skills to Disabled Communities
 created: 1493109339
 ---

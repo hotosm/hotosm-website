@@ -2,6 +2,7 @@
 Person: Biondi Sima
 date: '2016-11-24 06:42:07 Z'
 Working Group: []
+Projects: []
 title: Boosting Spatial Data Awareness and Participation, HOT Indonesia Hosts OSMGeoWeek
   Talkshow
 created: 1479969727

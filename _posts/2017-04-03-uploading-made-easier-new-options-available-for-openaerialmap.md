@@ -2,6 +2,7 @@
 Person: Nate Smith
 date: '2017-04-03 17:18:39 Z'
 Working Group: []
+Projects: []
 title: 'Uploading made easier: new options available for OpenAerialMap'
 created: 1491239919
 ---

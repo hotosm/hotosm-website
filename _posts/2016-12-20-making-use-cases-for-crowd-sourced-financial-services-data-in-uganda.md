@@ -3,6 +3,7 @@ Person: Douglas
 date: '2016-12-20 12:07:08 Z'
 Working Group:
 - Community
+Projects: []
 title: Making use cases for crowd sourced financial services data in Uganda
 created: 1482235628
 ---

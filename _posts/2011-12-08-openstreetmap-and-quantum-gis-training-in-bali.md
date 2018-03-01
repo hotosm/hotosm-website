@@ -2,6 +2,7 @@
 Person: emir
 date: '2011-12-08 15:17:46 Z'
 Working Group: []
+Projects: []
 title: OpenStreetMap and Quantum GIS Training in Bali
 created: 1323357466
 ---

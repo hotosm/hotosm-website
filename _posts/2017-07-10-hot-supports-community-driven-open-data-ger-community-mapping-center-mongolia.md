@@ -3,6 +3,7 @@ Person: RebeccaFirth
 date: '2017-07-10 18:53:06 Z'
 Working Group:
 - Community
+Projects: []
 title: 'HOT Supports Community Driven Open Data: Ger Community Mapping Center, Mongolia'
 created: 1499712786
 ---

@@ -8,6 +8,7 @@ Summary Text: "Humberto Yances has written up his <a href=\"http://www.openstree
 Person: Mikel Maron
 date: '2013-04-24 20:00:54 Z'
 Working Group: []
+Projects: []
 title: Hottie Humberto Yances presents the La Boquilla Project
 created: 1366833654
 ---

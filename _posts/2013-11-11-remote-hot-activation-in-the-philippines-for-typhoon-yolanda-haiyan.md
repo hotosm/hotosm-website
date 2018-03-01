@@ -3,6 +3,9 @@ Person: Kate Chapman
 date: '2013-11-11 01:40:44 Z'
 Working Group:
 - Technical
+Projects:
+- West Africa Ebola Epidemic
+- Typhoon Haiyan
 title: Remote HOT Activation in the Philippines for Typhoon Yolanda/Haiyan
 created: 1384134044
 ---

@@ -7,6 +7,7 @@ Summary Text: "Two weeks ago through a micro-grant from the <a href=\"http://wil
 Person: Kate Chapman
 date: '2012-05-14 16:39:01 Z'
 Working Group: []
+Projects: []
 title: Update from HOT's Strategic Planning Meeting
 created: 1337013541
 ---

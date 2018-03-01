@@ -3,6 +3,7 @@ Person: Amelia Hunt
 date: '2018-01-18 07:38:14 Z'
 Working Group:
 - Community
+Projects: []
 title: 'Nethope Device Challenge: providing devices and training to 12 OSM communities
   - update!'
 created: 1516261094

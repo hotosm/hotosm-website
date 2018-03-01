@@ -3,6 +3,7 @@ Person: Rupert Allan
 date: '2018-01-24 10:03:27 Z'
 Working Group:
 - Communications
+Projects: []
 title: Community Mapping in North Uganda - Intrepid Refugees and Host Community Compare
   Needs
 created: 1516788207

@@ -11,6 +11,7 @@ Summary Text: "<p><b>Pierre Béland</b> and <b>Joseph Reeves</b> were voted onto
 Person: Katrina E.
 date: '2013-01-21 07:00:05 Z'
 Working Group: []
+Projects: []
 title: 'Faces of HOT:  Two New Board Members, Pierre Beland and Joseph Reeves'
 created: 1358751605
 ---

@@ -15,6 +15,7 @@ Summary Text: "When I speak with HOT staff and volunteers in our community, I of
 Person: Tyler Radford
 date: '2016-06-29 22:14:52 Z'
 Working Group: []
+Projects: []
 title: HOT's Commitment to the Sustainable Development Goals, and How You Can Help
 created: 1467238492
 ---

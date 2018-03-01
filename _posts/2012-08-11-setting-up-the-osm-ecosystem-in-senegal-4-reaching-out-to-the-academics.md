@@ -2,6 +2,7 @@
 Person: stephane
 date: '2012-08-11 11:21:52 Z'
 Working Group: []
+Projects: []
 title: 'Setting up the OSM ecosystem in Senegal 4: Reaching out to the Academics'
 created: 1344684112
 ---

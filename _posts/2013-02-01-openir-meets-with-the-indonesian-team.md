@@ -2,6 +2,7 @@
 Person: Katrina E.
 date: '2013-02-01 08:27:28 Z'
 Working Group: []
+Projects: []
 title: OpenIR meets with the Indonesian Team
 created: 1359707248
 ---

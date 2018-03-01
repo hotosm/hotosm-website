@@ -2,6 +2,7 @@
 Person: pierre.beland
 date: '2014-04-15 09:59:48 Z'
 Working Group: []
+Projects: []
 title: 2014 West Africa Ebola Outbreak Response, Second update
 created: 1397555988
 ---

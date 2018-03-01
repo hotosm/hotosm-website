@@ -2,6 +2,7 @@
 Person: Mikel Maron
 date: '2010-02-09 20:56:29 Z'
 Working Group: []
+Projects: []
 title: 'Humanitarian OSM Team: Haiti Strategy and Proposal'
 created: 1265748989
 ---

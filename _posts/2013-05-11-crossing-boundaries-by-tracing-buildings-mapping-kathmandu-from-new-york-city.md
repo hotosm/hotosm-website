@@ -5,6 +5,7 @@ Summary Text: "Throughout the day you could hear the simple question - 'Is that 
 Person: Alyssa Wright
 date: '2013-05-11 16:35:32 Z'
 Working Group: []
+Projects: []
 title: 'Crossing Boundaries by Tracing Buildings: Mapping Kathmandu from New York
   City"'
 created: 1368290132

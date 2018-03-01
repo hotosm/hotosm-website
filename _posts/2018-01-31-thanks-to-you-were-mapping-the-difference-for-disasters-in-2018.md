@@ -3,6 +3,7 @@ Person: Rachel VanNice
 date: '2018-01-31 21:27:03 Z'
 Working Group:
 - Fundraising
+Projects: []
 title: Thanks to you we're mapping the difference for disasters in 2018!
 created: 1517434023
 ---

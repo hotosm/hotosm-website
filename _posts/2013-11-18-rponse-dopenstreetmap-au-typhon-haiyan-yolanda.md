@@ -2,6 +2,7 @@
 Person: pierre.beland
 date: '2013-11-18 00:18:47 Z'
 Working Group: []
+Projects: []
 title: Réponse d'OpenStreetMap au Typhon Haiyan / Yolanda
 created: 1384733927
 ---

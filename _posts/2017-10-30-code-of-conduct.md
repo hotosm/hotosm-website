@@ -3,6 +3,7 @@ Person: Dale Kunce
 date: '2017-10-30 16:38:18 Z'
 Working Group:
 - Governance
+Projects: []
 title: Code of Conduct
 created: 1509381498
 ---

@@ -3,6 +3,7 @@ Person: innocent
 date: '2017-01-26 07:57:53 Z'
 Working Group:
 - Community
+Projects: []
 title: Ramani Huria Trains Secondary School Students During STEM Boot Camp
 created: 1485417473
 ---

@@ -3,6 +3,8 @@ Person: Kate Chapman
 date: '2014-04-11 19:37:54 Z'
 Working Group:
 - Training
+Projects:
+- Indonesia Disaster Management Innovation
 title: State of the Map US in DC!
 created: 1397245074
 ---

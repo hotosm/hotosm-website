@@ -4,6 +4,7 @@ Summary Text: "A couple weeks ago Patrick Meier wrote about HOT's new tool for t
 Person: Kate Chapman
 date: '2011-09-20 14:25:32 Z'
 Working Group: []
+Projects: []
 title: HOT Tasks! Get Your HOT Tasks!
 created: 1316528732
 ---

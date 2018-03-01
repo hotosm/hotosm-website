@@ -5,6 +5,7 @@ Person: Blake Girardot
 date: '2016-12-01 18:58:53 Z'
 Working Group:
 - Training
+Projects: []
 title: HOT's OSM Tasking Manager 3.0 Tech Challenge
 created: 1480618733
 ---

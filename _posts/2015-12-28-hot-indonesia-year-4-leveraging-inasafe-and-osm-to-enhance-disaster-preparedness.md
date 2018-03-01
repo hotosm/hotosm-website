@@ -2,6 +2,7 @@
 Person: Yantisa Akhadi
 date: '2015-12-28 07:44:25 Z'
 Working Group: []
+Projects: []
 title: 'HOT Indonesia Year 4: Leveraging InaSAFE and OSM to Enhance Disaster Preparedness'
 created: 1451288665
 ---

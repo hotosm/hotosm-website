@@ -3,6 +3,7 @@ Person: Heather Leson
 date: '2016-05-20 09:55:52 Z'
 Working Group:
 - Activation
+Projects: []
 title: Mini-Mapathon for Sri Lanka Floods at Understanding Risk
 created: 1463738152
 ---

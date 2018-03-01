@@ -3,6 +3,9 @@ Person: Heather Leson
 date: '2015-04-28 10:28:04 Z'
 Working Group:
 - Community
+Projects:
+- Mapping the world’s vulnerable places begins with you!
+- Missing Maps
 title: 'OpenStreetMap community India rallies in aid of their neighbor Nepal  Report
   #3'
 created: 1430216884

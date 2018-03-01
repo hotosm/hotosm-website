@@ -10,6 +10,7 @@ Summary Text: "<h2>Background</h2>\r\n\r\nHOT has been incorporated as a non-pro
 Person: Kate Chapman
 date: '2013-03-04 09:40:05 Z'
 Working Group: []
+Projects: []
 title: Tax-Exempt in the United States at Last!
 created: 1362390005
 ---

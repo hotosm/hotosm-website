@@ -3,6 +3,25 @@ Person: Kate Chapman
 date: '2011-07-03 17:42:56 Z'
 Working Group:
 - Security
+Projects:
+- Microgrants and Community Development
+- "#mapthedifference"
+- Nepal 2015 Earthquake Response
+- Missing Maps
+- Hurricane Patricia
+- OSM Tasking Manager 3.0 Development
+- Eastern Afghanistan Earthquake
+- Tasking Manager
+- Malaria Elimination Campaign
+- Typhoon Haiyan
+- HOT Training Center
+- LearnOSM
+- Women and Girls in Mapping
+- Mongolia, Mapping Ulaanbaatar
+- Ecuador Earthquake
+- West Africa Ebola Epidemic
+- Outreachy
+- Fall 2017 Disaster Response
 title: HOT in Indonesia
 created: 1309714976
 ---

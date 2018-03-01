@@ -3,6 +3,7 @@ Person: Geoffrey Kateregga
 date: '2017-05-19 06:51:06 Z'
 Working Group:
 - Community
+Projects: []
 title: 5,600,000 map edits to Eliminate Malaria
 created: 1495176666
 ---

@@ -2,6 +2,7 @@
 Person: emir
 date: '2014-08-19 18:19:48 Z'
 Working Group: []
+Projects: []
 title: OSM Training in Blantyre for Project Malawi (Week 3)
 created: 1408472388
 ---

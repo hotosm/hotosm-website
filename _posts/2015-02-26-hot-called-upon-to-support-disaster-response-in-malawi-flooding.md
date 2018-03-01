@@ -9,6 +9,7 @@ Person: Severin
 date: '2015-02-26 23:18:07 Z'
 Working Group:
 - Activation
+Projects: []
 title: HOT Called Upon to Support Disaster Response in Malawi Flooding
 created: 1424992687
 ---

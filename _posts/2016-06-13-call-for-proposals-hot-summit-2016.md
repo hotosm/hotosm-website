@@ -7,6 +7,7 @@ Summary Text: We invite you to submit a proposal to present a topic of interest 
 Person: cshaw
 date: '2016-06-13 23:11:54 Z'
 Working Group: []
+Projects: []
 title: Call for Proposals - HOT Summit 2016
 created: 1465859514
 ---

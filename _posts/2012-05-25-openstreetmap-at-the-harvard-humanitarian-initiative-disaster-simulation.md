@@ -8,6 +8,7 @@ Summary Text: "Last year I spent a bitterly cold day in a forest in Massachusett
 Person: Mikel Maron
 date: '2012-05-25 01:28:30 Z'
 Working Group: []
+Projects: []
 title: OpenStreetMap at the Harvard Humanitarian Initiative Disaster Simulation
 created: 1337909310
 ---

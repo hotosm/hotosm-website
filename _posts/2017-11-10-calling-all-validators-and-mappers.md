@@ -8,6 +8,7 @@ Person: russell deffner
 date: '2017-11-10 18:44:23 Z'
 Working Group:
 - Activation
+Projects: []
 title: Calling All Validators (and Mappers)!
 created: 1510339463
 ---

@@ -5,6 +5,7 @@ Summary Text: "The first days in Sénégal flew by for the three of us engaged i
 Person: will
 date: '2012-06-24 18:58:44 Z'
 Working Group: []
+Projects: []
 title: HOT's first days in Senegal
 created: 1340564324
 ---

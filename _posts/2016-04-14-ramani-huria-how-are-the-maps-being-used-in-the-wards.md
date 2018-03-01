@@ -9,6 +9,7 @@ Summary Text: "(Guest post by Mercedes Hoffay, Master of Public Administration C
 Person: Paul Uithol
 date: '2016-04-14 12:37:56 Z'
 Working Group: []
+Projects: []
 title: 'Ramani Huria: how are the maps being used in the wards?'
 created: 1460637476
 ---

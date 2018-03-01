@@ -2,6 +2,7 @@
 Person: jeff
 date: '2014-02-18 22:28:39 Z'
 Working Group: []
+Projects: []
 title: LearnOSM Updates
 created: 1392762519
 ---

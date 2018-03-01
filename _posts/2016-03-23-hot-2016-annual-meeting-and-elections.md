@@ -7,6 +7,7 @@ Summary Text: "Greetings HOT Community,\r\n\r\nEach year the Humanitarian OpenSt
 Person: russell deffner
 date: '2016-03-23 20:19:59 Z'
 Working Group: []
+Projects: []
 title: HOT 2016 Annual Meeting and Elections
 created: 1458764399
 ---

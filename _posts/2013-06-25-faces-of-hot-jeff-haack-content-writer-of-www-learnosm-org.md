@@ -10,6 +10,7 @@ Summary Text: "Jeff Haack has been working on and off for HOT since its establis
 Person: Katrina E.
 date: '2013-06-25 01:04:40 Z'
 Working Group: []
+Projects: []
 title: 'Faces of HOT: Jeff Haack, content writer of www.learnosm.org'
 created: 1372122280
 ---

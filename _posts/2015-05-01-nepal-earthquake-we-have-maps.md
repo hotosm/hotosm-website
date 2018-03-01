@@ -3,6 +3,8 @@ Person: harry
 date: '2015-05-01 01:42:43 Z'
 Working Group:
 - Fundraising
+Projects:
+- Missing Maps
 title: Nepal earthquake. We have maps
 created: 1430444563
 ---

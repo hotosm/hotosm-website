@@ -4,6 +4,11 @@ Person: brian
 date: '2013-06-06 21:42:45 Z'
 Working Group:
 - Activation
+Projects:
+- West Africa Ebola Epidemic
+- Nepal 2015 Earthquake Response
+- Central African Republic Activation
+- Typhoon Haiyan
 title: Humanitarian Data Model - REDUX
 created: 1370554965
 ---

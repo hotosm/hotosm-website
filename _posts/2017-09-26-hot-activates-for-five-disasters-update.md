@@ -3,6 +3,7 @@ Person: RebeccaFirth
 date: '2017-09-26 07:14:46 Z'
 Working Group:
 - Activation
+Projects: []
 title: 'HOT Activates for five disasters: update'
 created: 1506410086
 ---

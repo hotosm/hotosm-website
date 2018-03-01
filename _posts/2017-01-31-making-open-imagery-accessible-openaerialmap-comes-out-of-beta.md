@@ -2,6 +2,7 @@
 Person: Nate Smith
 date: '2017-01-31 13:33:57 Z'
 Working Group: []
+Projects: []
 title: 'Making open imagery accessible: OpenAerialMap comes out of beta'
 created: 1485869637
 ---

@@ -8,6 +8,7 @@ Summary Text: "Le quatrième jour de cette mission de lancement du projet Espace
 Person: nicolas
 date: '2013-06-28 22:54:32 Z'
 Working Group: []
+Projects: []
 title: Espace OSM Francophone au Togo à J+4
 created: 1372460072
 ---

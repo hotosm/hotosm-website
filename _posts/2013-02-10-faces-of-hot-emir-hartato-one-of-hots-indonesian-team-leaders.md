@@ -11,6 +11,7 @@ Summary Text: "<b>Emir Hartato</b>,22, has been working on the HOT Indonesian te
 Person: Katrina E.
 date: '2013-02-10 10:11:51 Z'
 Working Group: []
+Projects: []
 title: 'Faces of HOT:  Emir Hartato, one of HOT´s Indonesian team leaders'
 created: 1360491111
 ---

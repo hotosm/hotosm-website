@@ -2,6 +2,7 @@
 Person: Biondi Sima
 date: '2016-12-13 09:59:36 Z'
 Working Group: []
+Projects: []
 title: HOT Indonesia Launches a Tasking Manager and Pidie Mapathon in Response to
   Aceh Earthquake.
 created: 1481623176

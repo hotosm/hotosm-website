@@ -8,6 +8,7 @@ Summary Text: "<p>Northern Mindanao(specifically <a href=\"http://osm.org/go/4sX
 Person: maning
 date: '2012-01-25 06:57:12 Z'
 Working Group: []
+Projects: []
 title: HOT Mapping for flash flood affected areas in Northern Mindanao, Philippines
 created: 1327474632
 ---

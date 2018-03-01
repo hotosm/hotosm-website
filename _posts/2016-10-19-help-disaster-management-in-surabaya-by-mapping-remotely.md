@@ -2,6 +2,7 @@
 Person: Biondi Sima
 date: '2016-10-19 03:21:38 Z'
 Working Group: []
+Projects: []
 title: Help Disaster Management in Surabaya by Mapping Remotely
 created: 1476847298
 ---

@@ -9,6 +9,7 @@ Summary Text: "Hey there, Hi there, Ho there,\r\nChecking in from beautiful coas
 Person: brian
 date: '2012-02-02 03:10:07 Z'
 Working Group: []
+Projects: []
 title: Mapping in Saint Marc. Get on board or get out of the way.
 created: 1328152207
 ---

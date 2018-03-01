@@ -9,6 +9,7 @@ Summary Text: 'I reason I say "back" in quotes because since the last time I was
 Person: Kate Chapman
 date: '2014-04-09 19:35:50 Z'
 Working Group: []
+Projects: []
 title: '"Back" at the OpenGov Hub'
 created: 1397072150
 ---

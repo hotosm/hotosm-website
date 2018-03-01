@@ -10,6 +10,9 @@ Person: Mhairi O'Hara
 date: '2015-05-18 15:45:06 Z'
 Working Group:
 - Communications
+Projects:
+- HOT Summit 2016
+- Missing Maps
 title: A Warm Welcome to the Outreachy HOT Interns
 created: 1431963906
 ---

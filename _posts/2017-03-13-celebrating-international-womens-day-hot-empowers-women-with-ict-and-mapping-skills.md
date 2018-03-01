@@ -2,6 +2,7 @@
 Person: Biondi Sima
 date: '2017-03-13 09:19:04 Z'
 Working Group: []
+Projects: []
 title: 'Celebrating International Women’s Day: HOT Empowers Women with ICT and Mapping
   Skills'
 created: 1489396744

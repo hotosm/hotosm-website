@@ -2,6 +2,7 @@
 Person: Kate Chapman
 date: '2012-03-12 05:00:39 Z'
 Working Group: []
+Projects: []
 title: Creating Sustainable Community Mapping Projects Workshop
 created: 1331528439
 ---

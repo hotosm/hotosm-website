@@ -2,6 +2,7 @@
 Person: Cristiano Giovando
 date: '2015-05-29 02:14:03 Z'
 Working Group: []
+Projects: []
 title: OpenAerialMap Beta Goes Live
 created: 1432865643
 ---

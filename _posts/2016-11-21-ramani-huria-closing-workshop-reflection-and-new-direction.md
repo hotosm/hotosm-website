@@ -3,6 +3,7 @@ Person: innocent
 date: '2016-11-21 10:50:41 Z'
 Working Group:
 - Community
+Projects: []
 title: 'Ramani Huria Closing Workshop: Reflection & New Direction'
 created: 1479725441
 ---

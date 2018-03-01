@@ -9,6 +9,7 @@ Summary Text: "Came accross this serious hurricane warning today from <a href=\"
 Person: Severin
 date: '2012-08-23 16:51:19 Z'
 Working Group: []
+Projects: []
 title: Tropical Storm Isaac getting to Haiti
 created: 1345740679
 ---

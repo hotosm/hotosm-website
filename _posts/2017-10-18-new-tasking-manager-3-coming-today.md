@@ -7,6 +7,7 @@ Summary Text: After several months of development work and 20,000+ lines of new 
 Person: Blake Girardot
 date: '2017-10-18 07:18:29 Z'
 Working Group: []
+Projects: []
 title: New Tasking Manager 3 Coming Today!
 created: 1508311109
 ---

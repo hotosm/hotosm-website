@@ -3,6 +3,7 @@ Person: Douglas
 date: '2017-05-05 00:33:11 Z'
 Working Group:
 - Community
+Projects: []
 title: Gulu Mapathon and Partnerships
 created: 1493944391
 ---

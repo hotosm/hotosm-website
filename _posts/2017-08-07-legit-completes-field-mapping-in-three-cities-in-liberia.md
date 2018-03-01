@@ -2,6 +2,7 @@
 Person: David Luswata
 date: '2017-08-07 15:12:16 Z'
 Working Group: []
+Projects: []
 title: LEGIT Completes Field Mapping in Three Cities in Liberia
 created: 1502118736
 ---

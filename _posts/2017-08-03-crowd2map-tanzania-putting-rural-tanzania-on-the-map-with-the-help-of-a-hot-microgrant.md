@@ -2,6 +2,7 @@
 Person: RebeccaFirth
 date: '2017-08-03 02:31:49 Z'
 Working Group: []
+Projects: []
 title: 'Crowd2Map Tanzania: putting rural Tanzania on the map with the help of a HOT
   Microgrant'
 created: 1501727509

@@ -9,6 +9,7 @@ Summary Text: In July, HOT was voted in as a participating organization of the G
 Person: Tyler Radford
 date: '2016-08-23 15:37:12 Z'
 Working Group: []
+Projects: []
 title: HOT Joins the Group on Earth Observations
 created: 1471966632
 ---

@@ -3,6 +3,7 @@ Person: Kate Chapman
 date: '2013-12-05 10:41:45 Z'
 Working Group:
 - Security
+Projects: []
 title: 'OpenStreetMap and Yolanda: A Report from Manila'
 created: 1386240105
 ---

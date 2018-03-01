@@ -11,6 +11,7 @@ Summary Text: "Guest post by Kathryn Davis, Columbia University.\r\n\r\nJanuary 
 Person: Paul Uithol
 date: '2016-02-16 21:59:27 Z'
 Working Group: []
+Projects: []
 title: 'A day mapping in Dar Es Salaam: drainage in Chang''ombe'
 created: 1455659967
 ---

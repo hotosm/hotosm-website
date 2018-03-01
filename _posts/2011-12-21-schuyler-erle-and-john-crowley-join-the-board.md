@@ -2,6 +2,7 @@
 Person: harry
 date: '2011-12-21 10:38:32 Z'
 Working Group: []
+Projects: []
 title: Schuyler Erle and John Crowley join the board
 created: 1324463912
 ---

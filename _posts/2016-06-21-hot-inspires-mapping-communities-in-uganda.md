@@ -3,6 +3,7 @@ Person: Douglas
 date: '2016-06-21 09:46:14 Z'
 Working Group:
 - Community
+Projects: []
 title: HOT inspires mapping communities in Uganda
 created: 1466502374
 ---

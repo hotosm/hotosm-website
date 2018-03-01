@@ -2,6 +2,7 @@
 Person: Steven Johnson
 date: '2015-08-31 17:02:03 Z'
 Working Group: []
+Projects: []
 title: 'Open Data, Open Mapping: TeachOSM in the Caribbean'
 created: 1441040523
 ---

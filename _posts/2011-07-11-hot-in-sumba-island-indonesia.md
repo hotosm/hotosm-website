@@ -2,6 +2,7 @@
 Person: emir
 date: '2011-07-11 20:40:50 Z'
 Working Group: []
+Projects: []
 title: HOT in Sumba Island, Indonesia
 created: 1310416850
 ---

@@ -8,6 +8,7 @@ Summary Text: "Following a request from UN OCHA and SNAP, HOT is activating a re
 Person: joseph
 date: '2013-01-28 12:24:44 Z'
 Working Group: []
+Projects: []
 title: Syria Activation
 created: 1359375884
 ---

@@ -5,6 +5,7 @@ Summary Text: Today we are launching OSM Analytics, a platform for exploring and
 Person: Cristiano Giovando
 date: '2016-04-28 11:56:16 Z'
 Working Group: []
+Projects: []
 title: Explore How the World is Mapped with OSM Analytics
 created: 1461844576
 ---

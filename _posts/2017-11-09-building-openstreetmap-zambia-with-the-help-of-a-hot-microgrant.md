@@ -3,6 +3,7 @@ Person: RebeccaFirth
 date: '2017-11-09 18:26:54 Z'
 Working Group:
 - Community
+Projects: []
 title: Building OpenStreetMap Zambia with the help of a HOT Microgrant
 created: 1510252014
 ---

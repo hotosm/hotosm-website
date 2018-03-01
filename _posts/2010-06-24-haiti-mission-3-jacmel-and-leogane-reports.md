@@ -2,6 +2,9 @@
 Person: nicolas
 date: '2010-06-24 20:22:40 Z'
 Working Group: []
+Projects:
+- EUROSHA
+- Nepal 2015 Earthquake Response
 title: Haiti mission 3 - Jacmel and Leogane reports
 created: 1277410960
 ---

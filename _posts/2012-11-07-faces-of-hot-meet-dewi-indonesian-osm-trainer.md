@@ -7,6 +7,7 @@ Summary Text: 'Since August 2012, the HOT team has included eight Indonesian tra
 Person: Katrina E.
 date: '2012-11-07 09:19:49 Z'
 Working Group: []
+Projects: []
 title: 'Faces of HOT:  Meet Dewi, Indonesian OSM Trainer'
 created: 1352279989
 ---

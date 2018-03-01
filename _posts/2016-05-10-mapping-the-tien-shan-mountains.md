@@ -9,6 +9,7 @@ Person: Felix Delattre
 date: '2016-05-10 18:58:07 Z'
 Working Group:
 - Training
+Projects: []
 title: Mapping the Tien Shan mountains
 created: 1462906687
 ---

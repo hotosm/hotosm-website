@@ -8,6 +8,7 @@ Summary Text: The Export Tool is now pushing customised OpenStreetMap (OSM) data
 Person: Mhairi O'Hara
 date: '2017-05-19 05:57:28 Z'
 Working Group: []
+Projects: []
 title: OpenStreetMap on the Humanitarian Data Exchange
 created: 1495173448
 ---

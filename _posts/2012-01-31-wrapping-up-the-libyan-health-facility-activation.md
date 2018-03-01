@@ -6,6 +6,7 @@ Summary Text: "<p>On January 14, we formally closed <a href=\"http://hot.openstr
 Person: Mikel Maron
 date: '2012-01-31 17:50:04 Z'
 Working Group: []
+Projects: []
 title: Wrapping up the Libyan Health Facility Activation
 created: 1328032204
 ---

@@ -6,6 +6,7 @@ Summary Text: 'Efforts are still going strong 7 weeks after the initial earthqua
 Person: Mhairi O'Hara
 date: '2016-06-03 06:55:30 Z'
 Working Group: []
+Projects: []
 title: 'Ecuador Earthquake: Assessing the Extent of Damaged Buildings'
 created: 1464936930
 ---

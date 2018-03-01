@@ -8,6 +8,7 @@ Summary Text: For the past 2 years, HOT in Indonesia is implementing a universit
 Person: vasanthi
 date: '2016-03-07 03:40:57 Z'
 Working Group: []
+Projects: []
 title: Utilizing OSM Data for Disaster Risk Management Through University Engagement
   and Partnership
 created: 1457322057

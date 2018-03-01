@@ -3,6 +3,19 @@ Person: pierre.beland
 date: '2014-03-31 11:41:27 Z'
 Working Group:
 - Governance
+Projects:
+- Ecuador Earthquake
+- Mapping the world’s vulnerable places begins with you!
+- Outreachy
+- MapFugees Field Mapping
+- Nepal 2015 Earthquake Response
+- Missing Maps
+- Field Papers
+- HOT Summit 2016
+- Eastern Afghanistan Earthquake
+- Donate to HOT today
+- HOT Training Center
+- LearnOSM
 title: 2014 West Africa Ebola Outbreak Response
 created: 1396266087
 ---

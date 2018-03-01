@@ -3,6 +3,7 @@ Person: innocent
 date: '2016-08-09 17:02:51 Z'
 Working Group:
 - Community
+Projects: []
 title: 'Ramani Huria: Street View Mapping for Tanzania''s Largest City'
 created: 1470762171
 ---

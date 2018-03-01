@@ -3,6 +3,11 @@ Person: Heather Leson
 date: '2014-04-18 15:29:30 Z'
 Working Group:
 - Activation
+Projects:
+- West Africa Ebola Epidemic
+- Nepal 2015 Earthquake Response
+- Espace OSM Francophone
+- LearnOSM
 title: When Birds of a Feather Map Together
 created: 1397834970
 ---

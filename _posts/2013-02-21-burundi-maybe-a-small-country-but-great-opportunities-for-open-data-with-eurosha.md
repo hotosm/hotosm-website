@@ -12,6 +12,7 @@ Summary Text: "One Eurosha country we did not talk about so far here (sorry for 
 Person: Severin
 date: '2013-02-21 21:59:32 Z'
 Working Group: []
+Projects: []
 title: 'Burundi: maybe a small country, but great opportunities for open data with
   Eurosha'
 created: 1361483972

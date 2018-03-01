@@ -3,6 +3,7 @@ Person: Blake Girardot
 date: '2016-12-01 23:02:59 Z'
 Working Group:
 - Training
+Projects: []
 title: HOT's OSM Tasking Manager 3.0 Development Kick-Off!!
 created: 1480633379
 ---

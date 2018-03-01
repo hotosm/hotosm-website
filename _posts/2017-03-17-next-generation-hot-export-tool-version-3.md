@@ -10,6 +10,7 @@ Summary Text: The HOT Export Tool allows users to create custom OpenStreetMap (O
 Person: Mhairi O'Hara
 date: '2017-03-17 05:20:52 Z'
 Working Group: []
+Projects: []
 title: Next Generation HOT Export Tool - Version 3
 created: 1489728052
 ---

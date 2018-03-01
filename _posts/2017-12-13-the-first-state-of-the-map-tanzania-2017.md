@@ -3,6 +3,7 @@ Person: innocent
 date: '2017-12-13 07:55:46 Z'
 Working Group:
 - Community
+Projects: []
 title: The First State of the Map Tanzania - 2017
 created: 1513151746
 ---

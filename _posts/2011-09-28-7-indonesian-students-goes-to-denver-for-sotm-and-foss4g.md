@@ -2,6 +2,7 @@
 Person: emir
 date: '2011-09-28 15:00:15 Z'
 Working Group: []
+Projects: []
 title: 7 Indonesian Students goes to Denver for SotM and FOSS4G!
 created: 1317222015
 ---

@@ -2,6 +2,7 @@
 Person: Tyler Radford
 date: '2016-12-06 22:02:37 Z'
 Working Group: []
+Projects: []
 title: 'Funds for community-led projects: the 2017 HOT Microgrants program'
 created: 1481061757
 ---

@@ -2,6 +2,7 @@
 Person: Cristiano Giovando
 date: '2016-03-10 18:05:30 Z'
 Working Group: []
+Projects: []
 title: OSM Data Analysis Tool Development Kicks Off!
 created: 1457633130
 ---

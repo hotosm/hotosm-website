@@ -12,6 +12,7 @@ Person: Tyler Radford
 date: '2016-04-18 18:01:50 Z'
 Working Group:
 - Activation
+Projects: []
 title: 'Latest Update: Earthquakes in Japan and Ecuador'
 created: 1461002510
 ---

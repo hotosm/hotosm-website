@@ -2,6 +2,7 @@
 Person: Mikel Maron
 date: '2016-05-31 15:11:38 Z'
 Working Group: []
+Projects: []
 title: HOTOSM recognized by the President of Mexico during Internet Day 2016
 created: 1464707498
 ---

@@ -3,6 +3,17 @@ Person: Heather Leson
 date: '2015-04-30 11:31:15 Z'
 Working Group:
 - Training
+Projects:
+- OSM Tasking Manager 3.0 Development
+- 'Haiti '
+- LearnOSM
+- Field Papers
+- West Africa Ebola Epidemic
+- Nepal 2015 Earthquake Response
+- Malaria Elimination Campaign
+- Missing Maps
+- Typhoon Haiyan
+- Hurricane Matthew
 title: Welcome Tyler!
 created: 1430393475
 ---

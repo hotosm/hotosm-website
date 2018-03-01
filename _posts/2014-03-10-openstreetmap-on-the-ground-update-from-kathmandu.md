@@ -2,6 +2,7 @@
 Person: Nama Budhathoki
 date: '2014-03-10 10:22:59 Z'
 Working Group: []
+Projects: []
 title: 'OpenStreetMap on the Ground: Update from Kathmandu'
 created: 1394446979
 ---

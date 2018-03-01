@@ -3,6 +3,7 @@ Person: Douglas
 date: '2016-09-15 14:13:58 Z'
 Working Group:
 - Community
+Projects: []
 title: Mapping for Resilience - Karamoja Region, Uganda
 created: 1473948838
 ---

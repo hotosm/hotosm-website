@@ -2,6 +2,7 @@
 Person: stephane
 date: '2012-08-14 13:34:28 Z'
 Working Group: []
+Projects: []
 title: 'Setting up the OSM ecosystem in Senegal 5: Building a local OSM groups in
   Louga'
 created: 1344951268

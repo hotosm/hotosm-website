@@ -9,6 +9,7 @@ Person: russell deffner
 date: '2017-10-27 20:08:26 Z'
 Working Group:
 - Activation
+Projects: []
 title: OSM Puerto Rico Emerges Stronger and Ready to Help Rebuild!
 created: 1509134906
 ---

@@ -2,6 +2,7 @@
 Person: Cristiano Giovando
 date: '2016-08-15 18:32:35 Z'
 Working Group: []
+Projects: []
 title: Improving Resilience with Aerial Imagery
 created: 1471285955
 ---

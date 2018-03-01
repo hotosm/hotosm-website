@@ -2,6 +2,7 @@
 Person: harry
 date: '2011-07-18 18:46:26 Z'
 Working Group: []
+Projects: []
 title: Schuyler Erle's presentation at State Of The Map EU
 created: 1311014786
 ---

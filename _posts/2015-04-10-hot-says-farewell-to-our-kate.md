@@ -2,6 +2,7 @@
 Person: kristenegermeier
 date: '2015-04-10 03:02:37 Z'
 Working Group: []
+Projects: []
 title: HOT says Farewell to our Kate
 created: 1428634957
 ---

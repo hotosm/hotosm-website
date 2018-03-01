@@ -3,6 +3,7 @@ Person: Courtney Clark
 date: '2016-02-11 16:08:13 Z'
 Working Group:
 - Communications
+Projects: []
 title: OSM Celebrates International Women's Day 2016
 created: 1455206893
 ---

@@ -2,6 +2,7 @@
 Person: Mikel Maron
 date: '2011-03-11 05:40:54 Z'
 Working Group: []
+Projects: []
 title: An Midday Hour of Mapping on LogBase in Port au Prince
 created: 1299822054
 ---

@@ -2,6 +2,7 @@
 Person: David Luswata
 date: '2018-02-16 07:49:25 Z'
 Working Group: []
+Projects: []
 title: GIS Training for LEGIT stakeholders in Liberia
 created: 1518767365
 ---

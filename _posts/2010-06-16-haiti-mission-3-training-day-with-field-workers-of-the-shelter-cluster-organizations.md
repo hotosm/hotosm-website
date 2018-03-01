@@ -2,6 +2,8 @@
 Person: nicolas
 date: '2010-06-16 20:31:31 Z'
 Working Group: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: Haiti mission 3 - Training Day with field workers of the Shelter Cluster organizations
 created: 1276720291
 ---

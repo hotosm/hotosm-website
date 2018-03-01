@@ -3,6 +3,15 @@ Person: Heather Leson
 date: '2014-07-27 22:53:21 Z'
 Working Group:
 - Communications
+Projects:
+- OpenMapKit
+- 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+- HOT Summit 2016
+- Malaria Elimination Campaign
+- Mapping Financial Inclusion in Uganda
+- Hurricane Matthew
+- 'LEGIT: Supporting decentralization in Liberian cities'
+- Dar Ramani Huria - Dar Open Map
 title: Thank you, Gunner and Aspiration Tech
 created: 1406501601
 ---

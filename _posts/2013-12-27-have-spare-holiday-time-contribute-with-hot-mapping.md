@@ -8,6 +8,7 @@ Summary Text: "Many of us have spare quiet moments in the Christmas and New Year
 Person: Mikel Maron
 date: '2013-12-27 15:08:16 Z'
 Working Group: []
+Projects: []
 title: Have Spare Holiday Time? Contribute with HOT Mapping
 created: 1388156896
 ---

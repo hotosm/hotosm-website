@@ -2,6 +2,7 @@
 Person: Kate Chapman
 date: '2012-03-20 04:48:49 Z'
 Working Group: []
+Projects: []
 title: The World Bank and Open Maps for Development, I'm Excited
 created: 1332218929
 ---

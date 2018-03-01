@@ -7,6 +7,7 @@ Person: Mhairi O'Hara
 date: '2015-10-29 03:45:32 Z'
 Working Group:
 - Activation
+Projects: []
 title: Eastern Afghanistan Earthquake Day 2
 created: 1446090332
 ---

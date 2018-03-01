@@ -2,6 +2,7 @@
 Person: Kate Chapman
 date: '2011-12-18 17:36:23 Z'
 Working Group: []
+Projects: []
 title: Cooperation between HOT and DigitalGlobe in Turkey
 created: 1324229783
 ---

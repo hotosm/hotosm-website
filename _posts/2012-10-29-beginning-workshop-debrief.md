@@ -8,6 +8,7 @@ Summary Text: Last week we finished our Beginning OSM workshops for BPBD staff, 
 Person: Katrina E.
 date: '2012-10-29 11:00:03 Z'
 Working Group: []
+Projects: []
 title: Beginning Workshop Debrief
 created: 1351508403
 ---

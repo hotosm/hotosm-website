@@ -5,6 +5,7 @@ Summary Text: Over 200 students at 13 universities participated in the second ro
 Person: russell deffner
 date: '2017-05-08 14:40:00 Z'
 Working Group: []
+Projects: []
 title: 'YouthMappers ‘Mapping to End Malaria’ Challenge: Round 2 Results'
 created: 1494254400
 ---

@@ -11,6 +11,7 @@ Summary Text: "HOT has teamed up with the American and Ugandan Red Cross to virt
 Person: Katrina E.
 date: '2012-08-20 17:00:33 Z'
 Working Group: []
+Projects: []
 title: Preventative Mapping in Uganda with the Red Cross
 created: 1345482033
 ---

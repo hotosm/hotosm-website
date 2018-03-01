@@ -3,6 +3,16 @@ Person: Kate Chapman
 date: '2015-01-13 20:38:22 Z'
 Working Group:
 - Training
+Projects:
+- HOT Indonesia Curriculum
+- LearnOSM
+- Indonesia Disaster Management Innovation
+- 'USAID '
+- " BNPB "
+- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
+  Project in Indonesia"
+- Typhoon Haiyan
+- InaSAFE
 title: Cristiano Giovando Joins HOT to Lead OpenAerialMap Efforts
 created: 1421181502
 ---

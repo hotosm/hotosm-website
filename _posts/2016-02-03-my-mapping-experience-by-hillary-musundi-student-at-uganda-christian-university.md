@@ -9,6 +9,7 @@ Summary Text: 'When I was first told about mapping, I thought it was something t
 Person: Paul Uithol
 date: '2016-02-03 20:38:44 Z'
 Working Group: []
+Projects: []
 title: '"My mapping experience" by Hillary Musundi, student at Uganda Christian University.'
 created: 1454531924
 ---

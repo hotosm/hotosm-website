@@ -3,6 +3,15 @@ Person: Severin
 date: '2012-02-20 14:35:11 Z'
 Working Group:
 - Training
+Projects:
+- HOT Indonesia Curriculum
+- HOT Summit 2016
+- Indonesia Disaster Management Innovation
+- 'USAID '
+- " BNPB "
+- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
+  Project in Indonesia"
+- InaSAFE
 title: Hand over in Saint-Marc, Haiti
 created: 1329748511
 ---

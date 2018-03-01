@@ -3,6 +3,7 @@ Person: Heather Leson
 date: '2015-10-02 20:22:28 Z'
 Working Group:
 - Community
+Projects: []
 title: HOT Announces Tyler Radford as our Executive Director
 created: 1443817348
 ---

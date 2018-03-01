@@ -3,6 +3,7 @@ Person: innocent
 date: '2017-11-05 16:15:16 Z'
 Working Group:
 - Community
+Projects: []
 title: 'Ramani Huria: Building Open Tools to Map Drains'
 created: 1509898516
 ---

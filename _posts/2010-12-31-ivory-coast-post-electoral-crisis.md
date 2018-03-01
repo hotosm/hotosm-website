@@ -2,6 +2,7 @@
 Person: nicolas
 date: '2010-12-31 04:00:57 Z'
 Working Group: []
+Projects: []
 title: Ivory Coast post electoral crisis
 created: 1293768057
 ---

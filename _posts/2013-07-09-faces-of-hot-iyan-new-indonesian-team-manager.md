@@ -11,6 +11,7 @@ Summary Text: "<b>Yantisa Akhadi</b>, a.k.a Iyan, is the new <b>team manager</b>
 Person: Katrina E.
 date: '2013-07-09 15:08:36 Z'
 Working Group: []
+Projects: []
 title: 'Faces of HOT: Iyan, new Indonesian Team Manager'
 created: 1373382516
 ---

@@ -3,6 +3,7 @@ Person: Geoffrey Kateregga
 date: '2017-01-27 10:29:00 Z'
 Working Group:
 - Community
+Projects: []
 title: Learning from HOT Indonesia
 created: 1485512940
 ---

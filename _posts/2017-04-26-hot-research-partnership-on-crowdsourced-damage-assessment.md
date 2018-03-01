@@ -2,6 +2,7 @@
 Person: Cristiano Giovando
 date: '2017-04-26 17:28:17 Z'
 Working Group: []
+Projects: []
 title: HOT Research Partnership on Crowdsourced Damage Assessment
 created: 1493227697
 ---

@@ -5,6 +5,10 @@ Summary Text: "One of the unique features of OpenStreetMap is the license to use
 Person: will
 date: '2013-06-14 21:07:41 Z'
 Working Group: []
+Projects:
+- West Africa Ebola Epidemic
+- Nepal 2015 Earthquake Response
+- Typhoon Haiyan
 title: The HDM JOSM Style by HOT
 created: 1371244061
 ---

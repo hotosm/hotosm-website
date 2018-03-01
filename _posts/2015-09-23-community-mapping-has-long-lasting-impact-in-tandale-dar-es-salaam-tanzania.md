@@ -7,6 +7,7 @@ Summary Text: The ward of Tandale was one of the first wards in Dar es Salaam to
 Person: Sophie Lafayette
 date: '2015-09-23 09:32:53 Z'
 Working Group: []
+Projects: []
 title: Community mapping has long lasting impact in Tandale, Dar es Salaam Tanzania
 created: 1443000773
 ---

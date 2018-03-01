@@ -6,6 +6,7 @@ Summary Text: "Below is a video about OpenStreetMap in Afghanistan, HOT member H
 Person: Kate Chapman
 date: '2012-02-06 19:18:38 Z'
 Working Group: []
+Projects: []
 title: Mapping in Afghanistan with Jalalagood
 created: 1328555918
 ---

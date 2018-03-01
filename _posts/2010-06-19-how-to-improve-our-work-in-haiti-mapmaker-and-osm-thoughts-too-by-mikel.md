@@ -2,6 +2,7 @@
 Person: Mikel Maron
 date: '2010-06-19 08:33:57 Z'
 Working Group: []
+Projects: []
 title: How to improve our work in Haiti? MapMaker and OSM thoughts too by Mikel
 created: 1276936437
 ---

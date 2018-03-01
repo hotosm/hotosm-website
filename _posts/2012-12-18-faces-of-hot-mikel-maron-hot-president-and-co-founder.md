@@ -9,6 +9,7 @@ Summary Text: "As one of the co-founders of <strong>HOT</strong>, Mikel has year
 Person: Katrina E.
 date: '2012-12-18 03:41:51 Z'
 Working Group: []
+Projects: []
 title: 'Faces of HOT:  Mikel Maron, HOT President and Co-Founder'
 created: 1355802111
 ---

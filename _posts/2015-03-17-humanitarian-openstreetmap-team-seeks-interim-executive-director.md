@@ -3,6 +3,13 @@ Person: Heather Leson
 date: '2015-03-17 18:10:44 Z'
 Working Group:
 - Fundraising
+Projects:
+- Missing Maps
+- Malaria Elimination Campaign
+- 'USAID '
+- " BNPB "
+- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
+  Project in Indonesia"
 title: Humanitarian OpenStreetMap Team seeks Interim Executive Director
 created: 1426615844
 ---

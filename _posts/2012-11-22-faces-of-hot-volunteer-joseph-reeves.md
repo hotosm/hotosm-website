@@ -7,6 +7,7 @@ Summary Text: "We have been fortunate to get a few volunteers for this Indonesia
 Person: Katrina E.
 date: '2012-11-22 06:20:35 Z'
 Working Group: []
+Projects: []
 title: 'Faces of HOT:  Volunteer Joseph Reeves'
 created: 1353565235
 ---

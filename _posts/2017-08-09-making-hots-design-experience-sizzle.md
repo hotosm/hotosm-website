@@ -2,6 +2,7 @@
 Person: Nate Smith
 date: '2017-08-09 12:20:11 Z'
 Working Group: []
+Projects: []
 title: Making HOT’s Design Experience Sizzle
 created: 1502281211
 ---

@@ -10,6 +10,22 @@ Person: Mikel Maron
 date: '2013-04-25 17:41:46 Z'
 Working Group:
 - Governance
+Projects:
+- West Africa Ebola Epidemic
+- MapGive
+- OpenMapKit
+- OpenStreetMap Analytics
+- Nepal 2015 Earthquake Response
+- 'Haiti '
+- Sri Lanka Flooding 2016
+- Hurricane Patricia
+- Missing Maps
+- Field Papers
+- Tasking Manager
+- OpenAerialMap
+- Typhoon Haiyan
+- Hurricane Matthew
+- Dar Ramani Huria - Dar Open Map
 title: State Department Launches Imagery to the Crowd
 created: 1366911706
 ---

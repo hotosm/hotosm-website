@@ -3,6 +3,7 @@ Person: RebeccaFirth
 date: '2017-07-17 21:47:32 Z'
 Working Group:
 - Community
+Projects: []
 title: 'State of the Map Africa: the first conference'
 created: 1500328052
 ---

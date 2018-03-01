@@ -2,6 +2,7 @@
 Person: Kate Chapman
 date: '2012-01-10 05:48:39 Z'
 Working Group: []
+Projects: []
 title: HOT Collaboration with GIS Corps!
 created: 1326174519
 ---

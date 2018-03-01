@@ -2,6 +2,7 @@
 Person: Heather Leson
 date: '2014-06-14 12:53:05 Z'
 Working Group: []
+Projects: []
 title: 'DISPATCH: IEEE Humanitarian Technology Conference'
 created: 1402750385
 ---

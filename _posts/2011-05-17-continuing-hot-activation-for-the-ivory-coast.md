@@ -2,6 +2,7 @@
 Person: Kate Chapman
 date: '2011-05-17 10:38:19 Z'
 Working Group: []
+Projects: []
 title: Continuing HOT Activation for the Ivory Coast
 created: 1305628699
 ---

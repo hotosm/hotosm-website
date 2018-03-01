@@ -3,6 +3,9 @@ Person: admin
 date: '2010-05-19 21:52:01 Z'
 Working Group:
 - Technical
+Projects:
+- 'Haiti '
+- Senegal
 title: May Mid-Mission to Haiti Report From Nicolas and Dane
 created: 1274305921
 ---

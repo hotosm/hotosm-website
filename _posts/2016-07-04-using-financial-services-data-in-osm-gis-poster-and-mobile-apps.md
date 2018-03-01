@@ -2,6 +2,7 @@
 Person: Douglas
 date: '2016-07-04 11:24:16 Z'
 Working Group: []
+Projects: []
 title: 'Using Financial Services data in OSM: GIS Poster and Mobile apps'
 created: 1467631456
 ---

@@ -8,6 +8,7 @@ Summary Text: The Humanitarian OpenStreetMap Team has partnered with the Global 
 Person: Mhairi O'Hara
 date: '2017-06-07 20:15:19 Z'
 Working Group: []
+Projects: []
 title: Open Global Exposure Database for Multi-Hazard Risk
 created: 1496866519
 ---

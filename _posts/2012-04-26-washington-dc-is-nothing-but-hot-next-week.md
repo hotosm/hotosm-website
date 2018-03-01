@@ -11,6 +11,7 @@ Summary Text: "Next week the Board of Directors of the Humanitarian OpenStreetMa
 Person: Kate Chapman
 date: '2012-04-26 13:13:08 Z'
 Working Group: []
+Projects: []
 title: Washington DC is Nothing... but HOT next week!
 created: 1335445988
 ---

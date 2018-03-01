@@ -5,6 +5,7 @@ Person: russell deffner
 date: '2015-10-28 04:07:58 Z'
 Working Group:
 - Activation
+Projects: []
 title: Eastern Afghanistan Earthquake Day 1
 created: 1446005278
 ---

@@ -3,6 +3,7 @@ Person: innocent
 date: '2017-07-18 21:00:00 Z'
 Working Group:
 - Community
+Projects: []
 title: Three Hundred Students to Map for Flood Resilience in Dar es Salaam
 created: 1500411600
 ---

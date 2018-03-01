@@ -3,6 +3,11 @@ Person: Mikel Maron
 date: '2014-07-21 20:50:03 Z'
 Working Group:
 - Training
+Projects:
+- West Africa Ebola Epidemic
+- Nepal 2015 Earthquake Response
+- Central African Republic Activation
+- LearnOSM
 title: A new version of Tasking Manager
 created: 1405975803
 ---

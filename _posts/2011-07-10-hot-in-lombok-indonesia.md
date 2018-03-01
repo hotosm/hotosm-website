@@ -2,6 +2,7 @@
 Person: emir
 date: '2011-07-10 22:36:35 Z'
 Working Group: []
+Projects: []
 title: HOT in Lombok, Indonesia
 created: 1310337395
 ---

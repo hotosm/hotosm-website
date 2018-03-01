@@ -3,6 +3,9 @@ Person: Severin
 date: '2014-04-25 01:12:05 Z'
 Working Group:
 - Community
+Projects:
+- Espace OSM Francophone
+- Senegal
 title: CAR Activation, Year 2
 created: 1398388325
 ---

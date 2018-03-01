@@ -2,6 +2,7 @@
 Person: David Luswata
 date: '2017-06-05 15:26:09 Z'
 Working Group: []
+Projects: []
 title: LEGIT Team Completes Field Mapping in Zwedru City
 created: 1496676369
 ---

@@ -2,6 +2,7 @@
 Person: Severin
 date: '2012-11-03 08:35:07 Z'
 Working Group: []
+Projects: []
 title: Digital Humanitarian Network Simulation at ICCM Washington DC
 created: 1351931707
 ---

@@ -2,6 +2,7 @@
 Person: Nate Smith
 date: '2017-05-24 14:34:59 Z'
 Working Group: []
+Projects: []
 title: Organized, distributed OpenStreetMap field mapping
 created: 1495636499
 ---

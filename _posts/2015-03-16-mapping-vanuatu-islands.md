@@ -3,6 +3,7 @@ Person: Heather Leson
 date: '2015-03-16 05:08:37 Z'
 Working Group:
 - Activation
+Projects: []
 title: Mapping Vanuatu Islands
 created: 1426482517
 ---

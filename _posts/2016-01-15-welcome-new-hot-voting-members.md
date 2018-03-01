@@ -4,6 +4,7 @@ Summary Text: The Humanitarian OpenStreetMap Team is pleased to welcome eighteen
 Person: russell deffner
 date: '2016-01-15 21:23:05 Z'
 Working Group: []
+Projects: []
 title: Welcome new HOT Voting Members!
 created: 1452892985
 ---

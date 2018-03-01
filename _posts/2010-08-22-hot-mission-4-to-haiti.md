@@ -3,6 +3,7 @@ Person: Kate Chapman
 date: '2010-08-22 20:18:23 Z'
 Working Group:
 - Technical
+Projects: []
 title: HOT Mission 4 to Haiti
 created: 1282508303
 ---

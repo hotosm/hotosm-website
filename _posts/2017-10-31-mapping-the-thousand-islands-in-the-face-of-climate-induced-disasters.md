@@ -2,6 +2,7 @@
 Person: Biondi Sima
 date: '2017-10-31 06:31:39 Z'
 Working Group: []
+Projects: []
 title: Mapping the Thousand Islands in the Face of Climate-Induced Disasters
 created: 1509431499
 ---

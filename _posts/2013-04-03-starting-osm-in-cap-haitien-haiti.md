@@ -7,6 +7,7 @@ Summary Text: "Ten days that I am back in Haiti to start a new HOT project with 
 Person: nicolas
 date: '2013-04-03 04:14:35 Z'
 Working Group: []
+Projects: []
 title: Starting OSM in Cap-Haitien (Haiti)
 created: 1364962475
 ---

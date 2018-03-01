@@ -3,6 +3,7 @@ Person: Courtney Clark
 date: '2016-07-05 21:02:00 Z'
 Working Group:
 - Community
+Projects: []
 title: The White House Mapathon and HOT Team Up to Fight Malaria
 created: 1467752520
 ---

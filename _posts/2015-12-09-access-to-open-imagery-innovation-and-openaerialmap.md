@@ -2,6 +2,7 @@
 Person: Tyler Radford
 date: '2015-12-09 04:48:42 Z'
 Working Group: []
+Projects: []
 title: 'Access to Open Imagery: Innovation and OpenAerialMap'
 created: 1449636522
 ---

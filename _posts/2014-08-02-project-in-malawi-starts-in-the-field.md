@@ -2,6 +2,7 @@
 Person: Severin
 date: '2014-08-02 12:07:09 Z'
 Working Group: []
+Projects: []
 title: Project in Malawi starts in the field!
 created: 1406981229
 ---

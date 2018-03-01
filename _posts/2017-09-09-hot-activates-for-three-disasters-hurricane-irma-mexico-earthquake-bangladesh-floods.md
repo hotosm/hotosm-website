@@ -8,6 +8,7 @@ Person: RebeccaFirth
 date: '2017-09-09 03:35:14 Z'
 Working Group:
 - Activation
+Projects: []
 title: 'HOT Activates for Three Disasters: Hurricane Irma, Mexico Earthquake, Bangladesh
   Floods'
 created: 1504928114

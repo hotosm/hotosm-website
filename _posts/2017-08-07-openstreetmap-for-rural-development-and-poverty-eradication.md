@@ -2,6 +2,7 @@
 Person: Biondi Sima
 date: '2017-08-07 10:00:35 Z'
 Working Group: []
+Projects: []
 title: OpenStreetMap for Rural Development and Poverty Eradication
 created: 1502100035
 ---

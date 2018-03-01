@@ -8,6 +8,7 @@ Summary Text: "The fourth day of this set up mission of the project Espace OSM F
 Person: nicolas
 date: '2013-06-28 23:55:53 Z'
 Working Group: []
+Projects: []
 title: Espace OSM Francophone in Togo Day+4 - English version
 created: 1372463753
 ---

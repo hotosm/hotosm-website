@@ -2,6 +2,7 @@
 Person: Geoffrey Kateregga
 date: '2017-07-03 08:53:14 Z'
 Working Group: []
+Projects: []
 title: Volunteers in Uganda and Turkey Rally to Support Refugees on World Refugee
   Day
 created: 1499071994

@@ -10,6 +10,7 @@ Summary Text: "The six pilot workshops to the BNPB on intermediate OSM skills we
 Person: Katrina E.
 date: '2013-01-18 10:53:02 Z'
 Working Group: []
+Projects: []
 title: Completion of Intermediate Workshops
 created: 1358506382
 ---

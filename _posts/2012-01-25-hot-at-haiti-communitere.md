@@ -10,6 +10,7 @@ Summary Text: "Since returning to Haiti in preparation of launching the Saint Ma
 Person: nicolas
 date: '2012-01-25 06:16:59 Z'
 Working Group: []
+Projects: []
 title: HOT at Haiti Communitere
 created: 1327472219
 ---

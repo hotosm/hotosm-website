@@ -3,6 +3,7 @@ Person: Geoffrey Kateregga
 date: '2015-04-22 19:10:55 Z'
 Working Group:
 - Activation
+Projects: []
 title: Updates from  Dar es Salaam
 created: 1429729855
 ---

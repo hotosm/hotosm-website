@@ -2,6 +2,7 @@
 Person: Kate Chapman
 date: '2010-06-20 06:39:04 Z'
 Working Group: []
+Projects: []
 title: Haiti mission 3 - Training Day with the IOM Community Mobilizers
 created: 1277015944
 ---

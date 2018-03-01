@@ -2,6 +2,7 @@
 Person: Biondi Sima
 date: '2017-05-22 10:02:25 Z'
 Working Group: []
+Projects: []
 title: InAWARE Mapping Project Moves from Surabaya to Jakarta
 created: 1495447345
 ---
