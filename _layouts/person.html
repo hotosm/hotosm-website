@@ -1,0 +1,141 @@
+---
+layout: default
+---
+
+<div class="person-profile">
+
+
+  <!--////////////////////////////////-->
+  <!--//////// Person Header /////////-->
+  <!--////////////////////////////////-->
+
+
+  <header class="person-header">
+
+    <div class="person-map-area">
+      <div class="person-header-info">
+        {% if page.Photo %}
+          <div class="person-photo">
+            <img src="{{ page.Photo }}">
+          </div>
+        {% endif %}
+        <div class="person-indentity">
+          <div class="person-name"><h1 class="boxed">{{ page.title }}</h1></div>
+          <p class="person-type">
+            {% if page['HOT Member Type'] %}<span class="person-member-type">{{ page['HOT Member Type'] }}</span>{% endif %}{% if page.Title %}<span class="person-title">{{ page.Title }}</span>{% endif %}
+          </p>
+        </div>
+      </div>
+      <div class="person-location">
+      </div>
+    </div>
+
+  </header>
+
+
+  <!--////////////////////////////////-->
+  <!--///////// Person Body //////////-->
+  <!--////////////////////////////////-->
+
+  <div class="container">
+    <div class="person-body">
+      <div class="person-main">
+
+        <div class="person-bio">
+          <h6>Bio</h6>
+          <div class="person-content">
+            {{ content }}
+          </div>
+        </div>
+
+        <div class="person-posts">
+          <h6>Posts</h6>
+          <div class="person-posts-list">
+            {% for post in site.posts limit:4 %}
+              <div class="news-index-item">
+                <div class="news-list-summary">
+                  <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
+                    <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+                    <p>{{ post['Summary Text']}}</p>
+                    {% capture post.Person %}{% endcapture %}
+                    <div class="news-list-meta">
+                      {% assign author = site.people | where: "title", post.Person | first %}
+                        <p class="news-index-author">
+                          {{ post.date | date: '%e %B, %Y' }}</p>
+                    </div>
+                  </div>
+                  {% if post['Feature Image'] %}
+                    <div class="news-list-image-sm">
+                      <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
+                    </div>
+                  {% endif %}
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="person-projects">
+          <h6>Project Contributions</h6>
+            <div class="person-projects-list">
+              {% for person-project in page.Project %}
+                {% for project in site.projects %}
+                  {% if person-project == project.title %}
+                    {% include blocks/project-thumb.html %}
+                  {% endif %}
+                {% endfor %}
+              {% endfor %}
+          </div>
+        </div>
+
+
+
+      </div>
+      <div class="person-sidebar meta">
+
+        {% if page.Country %}
+          <div class="meta-item meta-country">
+            <img src="{{ "/images/icon-person-pin.svg" | prepend: site.baseurl }}">
+            <a href="/where-we-work/{{ page.Country }}">{{ page.Country }}</a>
+          </div>
+        {% endif %}
+
+        {% if page['Working Group'][0] != '' %}
+          <div class="meta-item">
+            <h5>Working Groups</h5>
+            <ul>
+              {% for group in page['Working Group'] %}
+                <li><a href="#">{{ group }}</a></li>
+              {% endfor %}
+            </ui>
+          </div>
+        {% endif %}
+
+        {% if page['Social Media (Full URL)'].OSM != '' and page['Social Media (Full URL)'].Facebook != '' and page['Social Media (Full URL)'].Twitter != '' and page['Social Media (Full URL)'].LinkedIn != '' and page['Social Media (Full URL)'].Instagram != '' %}
+          <div class="meta-item">
+            <h5>On The Web</h5>
+            <ul>
+              {% if page['Social Media (Full URL)'].OSM %}
+                <li><a href="{{ page['Social Media (Full URL)'].OSM }}">OpenStreetMap</a></li>
+              {% endif %}
+              {% if page['Social Media (Full URL)'].Twitter %}
+                <li><a href="{{ page['Social Media (Full URL)'].Twitter }}">Twitter</a></li>
+              {% endif %}
+              {% if page['Social Media (Full URL)'].LinkedIn %}
+                <li><a href="{{ page['Social Media (Full URL)'].LinkedIn }}">LinkedIn</a></li>
+              {% endif %}
+              {% if page['Social Media (Full URL)'].Facebook %}
+                <li><a href="{{ page['Social Media (Full URL)'].Facebook }}">Facebook</a></li>
+              {% endif %}
+              {% if page['Social Media (Full URL)'].Instagram %}
+                <li><a href="{{ page['Social Media (Full URL)'].Instagram }}">Instagram</a></li>
+              {% endif %}
+            </ul>
+          </div>
+        {% endif %}
+
+      </div>
+    </div>
+  </div>
+
+</div>

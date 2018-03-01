@@ -33,7 +33,7 @@ layout: default
 
       {% for project in sorted-projects %}
         {% if project['Impact Area'] contains page.title %}
-          {% if forloop.index > 2 %}
+          {% if forloop.index > 3 %}
             {% break %}
           {% endif %}
           {% include blocks/project-highlight.html %}

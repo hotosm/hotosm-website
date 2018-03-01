@@ -45,7 +45,21 @@ defaults:
     path: ''
     type: people
   values:
+    layout: person
     Photo: 
+    HOT Member Type: 
+    Title: 
+    Working Group:
+    - ''
+    Project:
+    - ''
+    Country: 
+    Social Media (Full URL):
+      OSM: 
+      Twitter: 
+      LinkedIn: 
+      Facebook: 
+      Instagram: 
 - scope:
     path: ''
     type: impact-areas
