@@ -2,7 +2,8 @@
 Person: Paul Uithol
 date: '2016-01-18 13:09:43 Z'
 Working Group: []
-Projects: []
+Projects:
+- Mapping Financial Inclusion in Uganda
 title: First week of mapping in Mbale, Uganda
 created: 1453122583
 ---

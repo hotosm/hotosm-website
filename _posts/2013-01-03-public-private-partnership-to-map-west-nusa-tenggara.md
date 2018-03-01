@@ -2,7 +2,8 @@
 Person: Kate Chapman
 date: '2013-01-03 05:18:00 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: Public/Private Partnership to Map West Nusa Tenggara
 created: 1357190280
 ---

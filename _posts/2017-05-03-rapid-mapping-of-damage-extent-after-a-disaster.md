@@ -2,7 +2,8 @@
 Person: Cristiano Giovando
 date: '2017-05-03 06:06:41 Z'
 Working Group: []
-Projects: []
+Projects:
+- Remote Damage Assessment Research
 title: Rapid Mapping of Damage Extent after a Disaster
 created: 1493791601
 ---

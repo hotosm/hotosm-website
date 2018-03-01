@@ -2,7 +2,8 @@
 Person: Blake Girardot
 date: '2017-03-06 16:25:29 Z'
 Working Group: []
-Projects: []
+Projects:
+- OSM Tasking Manager 3.0 Development
 title: 'OSM Tasking Manager 3 Project Update #1'
 created: 1488817529
 ---

@@ -11,7 +11,8 @@ Summary Text: "The new Field Papers site has been live for over a week now, as i
 Person: Mhairi O'Hara
 date: '2015-06-05 02:58:29 Z'
 Working Group: []
-Projects: []
+Projects:
+- Field Papers
 title: The New Field Papers Site is Live!
 created: 1433473109
 ---

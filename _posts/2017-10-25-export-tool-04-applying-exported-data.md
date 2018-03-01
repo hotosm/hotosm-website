@@ -7,7 +7,8 @@ Summary Text: "This blog is the final in a series of ‘Learn Export Tool’ pos
 Person: Mhairi O'Hara
 date: '2017-10-25 04:46:51 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'Export Tool 3.0 '
 title: Export Tool | 04 Applying Exported Data
 created: 1508906811
 ---

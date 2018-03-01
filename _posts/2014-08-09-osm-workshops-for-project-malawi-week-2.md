@@ -4,12 +4,7 @@ date: '2014-08-09 13:25:49 Z'
 Working Group:
 - Technical
 Projects:
-- OpenStreetMap Analytics
-- Missing Maps
-- 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
-- HOT Summit 2016
-- Tasking Manager
-- OpenAerialMap
+- Malawi Flood Preparedness
 title: OSM Workshops for Project Malawi (Week 2)
 created: 1407590749
 ---

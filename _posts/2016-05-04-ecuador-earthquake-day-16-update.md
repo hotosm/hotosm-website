@@ -5,7 +5,8 @@ Summary Text: 'We want to highlight the amazing work done to date by the wonderf
 Person: Mhairi O'Hara
 date: '2016-05-04 01:57:30 Z'
 Working Group: []
-Projects: []
+Projects:
+- Ecuador Earthquake
 title: 'Ecuador Earthquake: Day 16 Update'
 created: 1462327050
 ---

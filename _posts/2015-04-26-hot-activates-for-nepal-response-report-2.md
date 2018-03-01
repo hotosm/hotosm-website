@@ -3,7 +3,8 @@ Person: Heather Leson
 date: '2015-04-26 06:05:11 Z'
 Working Group:
 - Technical
-Projects: []
+Projects:
+- Nepal 2015 Earthquake Response
 title: 'HOT Activates for Nepal Response - Report #2'
 created: 1430028311
 ---

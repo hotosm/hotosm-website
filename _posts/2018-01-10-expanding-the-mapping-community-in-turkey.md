@@ -3,7 +3,8 @@ Person: Amelia Hunt
 date: '2018-01-10 12:22:42 Z'
 Working Group:
 - Community
-Projects: []
+Projects:
+- Microgrants and Community Development
 title: Expanding the mapping community in Turkey
 created: 1515586962
 ---

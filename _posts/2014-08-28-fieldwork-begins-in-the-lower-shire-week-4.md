@@ -2,7 +2,8 @@
 Person: maning
 date: '2014-08-28 23:36:30 Z'
 Working Group: []
-Projects: []
+Projects:
+- Malawi Flood Preparedness
 title: Fieldwork begins in the Lower Shire (Week 4)
 created: 1409268990
 ---

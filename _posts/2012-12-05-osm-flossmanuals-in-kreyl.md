@@ -11,7 +11,8 @@ Summary Text: "This week in Port-au-Prince is happening a booksprint to write a 
 Person: Anne Goldenberg
 date: '2012-12-05 16:31:00 Z'
 Working Group: []
-Projects: []
+Projects:
+- OSM FlossManuals in Kreyòl (Creole)
 title: OSM FlossManuals in Kreyòl
 created: 1354725060
 ---

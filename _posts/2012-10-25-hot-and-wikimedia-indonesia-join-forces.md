@@ -12,7 +12,8 @@ Summary Text: "We met at the National Library of Indonesia-- partly for its spac
 Person: Katrina E.
 date: '2012-10-25 05:22:30 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: HOT and Wikimedia Indonesia join forces
 created: 1351142550
 ---

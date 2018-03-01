@@ -2,7 +2,8 @@
 Person: Yantisa Akhadi
 date: '2016-02-01 10:11:39 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: 'Geo Data Collect: Mobile Data Collection and Tracking'
 created: 1454321499
 ---

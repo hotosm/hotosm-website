@@ -9,7 +9,8 @@ Summary Text: "Hey All,\r\n\r\nAs part of the CAP103 project, financed by USAID,
 Person: brian
 date: '2013-05-28 14:59:22 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'Haiti '
 title: Using motorcycles to survey in Haiti
 created: 1369753162
 ---

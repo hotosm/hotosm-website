@@ -2,7 +2,8 @@
 Person: Cristiano Giovando
 date: '2016-11-23 21:53:28 Z'
 Working Group: []
-Projects: []
+Projects:
+- OpenAerialMap
 title: Supporting Humanitarian Response with Better Imagery Coordination
 created: 1479938008
 ---

@@ -18,7 +18,8 @@ Summary Text: "As we near the end of the year, there’s many stories that stand
 Person: Paul Uithol
 date: '2015-12-30 15:11:52 Z'
 Working Group: []
-Projects: []
+Projects:
+- Mapping Financial Inclusion in Uganda
 title: Mapping Financial Services in Uganda - starting January 2016!
 created: 1451488312
 ---

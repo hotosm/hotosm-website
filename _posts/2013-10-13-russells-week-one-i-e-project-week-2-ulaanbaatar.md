@@ -2,7 +2,8 @@
 Person: russell deffner
 date: '2013-10-13 06:49:17 Z'
 Working Group: []
-Projects: []
+Projects:
+- Mongolia, Mapping Ulaanbaatar
 title: Russell's Week One (i.e. project week 2) Ulaanbaatar
 created: 1381646957
 ---

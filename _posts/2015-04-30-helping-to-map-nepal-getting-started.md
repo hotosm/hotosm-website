@@ -4,8 +4,7 @@ date: '2015-04-30 04:33:21 Z'
 Working Group:
 - Activation
 Projects:
-- Tasking Manager
-- Missing Maps
+- Nepal 2015 Earthquake Response
 title: 'Helping to map Nepal: getting started'
 created: 1430368401
 ---

@@ -10,7 +10,8 @@ Summary Text: "Last week, we started intermediate training for the six disaster 
 Person: Katrina E.
 date: '2012-12-07 04:52:39 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: Intermediate Trainings Begin
 created: 1354855959
 ---

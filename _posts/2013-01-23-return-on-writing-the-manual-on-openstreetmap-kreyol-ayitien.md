@@ -8,7 +8,8 @@ Summary Text: "Début décembre, j'annonçais le début d'un libérathon qui vis
 Person: Anne Goldenberg
 date: '2013-01-23 17:57:13 Z'
 Working Group: []
-Projects: []
+Projects:
+- OSM FlossManuals in Kreyòl (Creole)
 title: Return on writing the manual on OpenStreetMap kreyol ayitien
 created: 1358963833
 ---

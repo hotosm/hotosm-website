@@ -9,7 +9,8 @@ Summary Text: Inspired by our response to the West Africa Ebola epidemic, a gran
 Person: Mhairi O'Hara
 date: '2015-11-19 06:11:48 Z'
 Working Group: []
-Projects: []
+Projects:
+- West Africa Ebola Epidemic
 title: Hewlett Foundation Grant Summary | Ebola Epidemic Response
 created: 1447913508
 ---

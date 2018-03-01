@@ -2,7 +2,8 @@
 Person: Trudy Namitala
 date: '2017-02-28 19:46:50 Z'
 Working Group: []
-Projects: []
+Projects:
+- Women and Girls in Mapping
 title: WHY WOMEN IN MAPPING MATTERS - Mapping for women and girls
 created: 1488311210
 ---

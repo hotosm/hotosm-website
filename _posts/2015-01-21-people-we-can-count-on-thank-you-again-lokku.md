@@ -2,10 +2,7 @@
 Person: Blake Girardot
 date: '2015-01-21 23:08:53 Z'
 Working Group: []
-Projects:
-- HOT Indonesia Curriculum
-- Indonesia Disaster Management Innovation
-- InaSAFE
+Projects: []
 title: 'People we can count on: Thank you again Lokku!'
 created: 1421881733
 ---

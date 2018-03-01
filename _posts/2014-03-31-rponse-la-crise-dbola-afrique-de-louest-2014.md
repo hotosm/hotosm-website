@@ -2,7 +2,8 @@
 Person: pierre.beland
 date: '2014-03-31 01:59:34 Z'
 Working Group: []
-Projects: []
+Projects:
+- West Africa Ebola Epidemic
 title: Réponse à la crise d'Ébola, Afrique de l'Ouest, 2014
 created: 1396231174
 ---

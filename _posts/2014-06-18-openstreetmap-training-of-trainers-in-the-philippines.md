@@ -3,15 +3,7 @@ Person: emir
 date: '2014-06-18 05:00:09 Z'
 Working Group:
 - Training
-Projects:
-- 'Haiti '
-- West Africa Ebola Epidemic
-- Field Papers
-- Nepal 2015 Earthquake Response
-- Tasking Manager
-- OpenAerialMap
-- Typhoon Haiyan
-- LearnOSM
+Projects: []
 title: OpenStreetMap Training of Trainers in the Philippines
 created: 1403067609
 ---

@@ -2,7 +2,8 @@
 Person: joseph
 date: '2012-09-24 06:57:34 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: From Remote Tracing to Field Mapping in Padang
 created: 1348469854
 ---

@@ -2,7 +2,8 @@
 Person: Tyler Radford
 date: '2015-11-06 15:41:36 Z'
 Working Group: []
-Projects: []
+Projects:
+- Donate to HOT today
 title: HOT launches $50,000 crowdfunding campaign - donate today!
 created: 1446824496
 ---

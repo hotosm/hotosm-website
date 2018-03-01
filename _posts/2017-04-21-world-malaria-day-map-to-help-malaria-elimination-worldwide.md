@@ -2,7 +2,8 @@
 Person: RebeccaFirth
 date: '2017-04-21 16:06:41 Z'
 Working Group: []
-Projects: []
+Projects:
+- Malaria Elimination Campaign
 title: 'World Malaria Day: map to help Malaria elimination worldwide'
 created: 1492790801
 ---

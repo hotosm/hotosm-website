@@ -8,7 +8,8 @@ Summary Text: "Today we are excited to announce the relaunch of LearnOSM in conj
 Person: Kate Chapman
 date: '2013-03-20 16:06:46 Z'
 Working Group: []
-Projects: []
+Projects:
+- LearnOSM
 title: LearnOSM Origin and Relaunch
 created: 1363795606
 ---

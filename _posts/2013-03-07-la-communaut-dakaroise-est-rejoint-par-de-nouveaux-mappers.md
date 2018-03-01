@@ -1,7 +1,8 @@
 ---
 date: '2013-03-07 10:35:38 Z'
 Working Group: []
-Projects: []
+Projects:
+- Senegal
 title: La communauté Dakaroise est rejoint par de nouveaux mappers
 created: 1362652538
 ---

@@ -3,13 +3,7 @@ Person: harry
 date: '2011-09-11 22:12:59 Z'
 Working Group:
 - Training
-Projects:
-- EUROSHA
-- Missing Maps
-- Field Papers
-- Espace OSM Francophone
-- Central African Republic Activation
-- Senegal
+Projects: []
 title: Meeting face-to-face at SOTM Denver
 created: 1315779179
 ---

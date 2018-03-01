@@ -2,7 +2,8 @@
 Person: Nate Smith
 date: '2016-05-25 09:56:17 Z'
 Working Group: []
-Projects: []
+Projects:
+- OpenAerialMap
 title: New Documentation and Design System for OpenAerialMap
 created: 1464170177
 ---

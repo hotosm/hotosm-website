@@ -2,7 +2,8 @@
 Person: Cristiano Giovando
 date: '2016-07-21 01:09:37 Z'
 Working Group: []
-Projects: []
+Projects:
+- OpenAerialMap
 title: HOT Launches New PacDID Drone Imagery Project
 created: 1469063377
 ---

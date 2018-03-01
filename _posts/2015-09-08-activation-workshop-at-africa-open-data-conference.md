@@ -8,7 +8,8 @@ Person: russell deffner
 date: '2015-09-08 18:57:51 Z'
 Working Group:
 - Activation
-Projects: []
+Projects:
+- HOT Training Center
 title: Activation Workshop at Africa Open Data Conference
 created: 1441738671
 ---

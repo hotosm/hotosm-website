@@ -8,7 +8,11 @@ Summary Text: 'The Humanitarian OpenStreetMap Team’s (HOT) participation in th
 Person: Mhairi O'Hara
 date: '2016-07-30 03:55:18 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'USAID '
+- " BNPB "
+- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
+  Project in Indonesia"
 title: Kickoff of HOT's Participation with the InAWARE Programme
 created: 1469850918
 ---

@@ -3,7 +3,8 @@ Person: Geoffrey Kateregga
 date: '2015-05-12 08:34:45 Z'
 Working Group:
 - Training
-Projects: []
+Projects:
+- Dar Ramani Huria - Dar Open Map
 title: Recent flooding in Dar Es Salaam shows need for maps
 created: 1431419685
 ---

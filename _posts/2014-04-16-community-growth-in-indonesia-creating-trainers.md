@@ -2,7 +2,8 @@
 Person: Kate Chapman
 date: '2014-04-16 18:39:23 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: Community Growth in Indonesia - Creating Trainers
 created: 1397673563
 ---

@@ -4,10 +4,7 @@ date: '2013-10-29 17:47:39 Z'
 Working Group:
 - Technical
 Projects:
-- Outreachy
-- Nepal 2015 Earthquake Response
-- OpenAerialMap
-- HOT Training Center
+- Mongolia, Mapping Ulaanbaatar
 title: HOT Chilly Mapping - Ulaanbaatar Project Week 4
 created: 1383068859
 ---

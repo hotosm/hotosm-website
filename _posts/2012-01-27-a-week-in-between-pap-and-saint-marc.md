@@ -2,7 +2,8 @@
 Person: brian
 date: '2012-01-27 02:28:41 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'Haiti '
 title: A week in between Pap and Saint Marc
 created: 1327631321
 ---

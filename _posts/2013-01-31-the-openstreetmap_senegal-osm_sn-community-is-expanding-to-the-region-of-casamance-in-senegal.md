@@ -1,7 +1,8 @@
 ---
 date: '2013-01-31 00:41:37 Z'
 Working Group: []
-Projects: []
+Projects:
+- Senegal
 title: The Openstreetmap_Senegal (OSM_SN) community is expanding to the region of
   Casamance in Senegal
 created: 1359592897

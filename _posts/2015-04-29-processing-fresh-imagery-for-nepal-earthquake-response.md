@@ -5,14 +5,7 @@ Summary Text: We are heads down on processing imagery from DigitalGlobe, Airbus 
 Person: Cristiano Giovando
 date: '2015-04-29 03:00:03 Z'
 Working Group: []
-Projects:
-- Ecuador Earthquake
-- 'Haiti '
-- West Africa Ebola Epidemic
-- Donate to HOT today
-- Malaria Elimination Campaign
-- Central African Republic Activation
-- Hurricane Matthew
+Projects: []
 title: Processing Fresh Imagery for Nepal Earthquake Response
 created: 1430276403
 ---

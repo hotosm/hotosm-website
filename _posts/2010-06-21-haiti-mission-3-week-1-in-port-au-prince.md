@@ -3,9 +3,7 @@ Person: Kate Chapman
 date: '2010-06-21 01:53:01 Z'
 Working Group:
 - Training
-Projects:
-- Central African Republic Activation
-- LearnOSM
+Projects: []
 title: Haiti mission 3 - Week 1 in Port-au-Prince
 created: 1277085181
 ---

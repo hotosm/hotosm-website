@@ -2,7 +2,11 @@
 Person: Biondi Sima
 date: '2017-10-31 06:31:39 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'USAID '
+- " BNPB "
+- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
+  Project in Indonesia"
 title: Mapping the Thousand Islands in the Face of Climate-Induced Disasters
 created: 1509431499
 ---

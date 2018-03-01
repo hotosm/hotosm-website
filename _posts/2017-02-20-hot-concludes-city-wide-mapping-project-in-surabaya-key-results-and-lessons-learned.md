@@ -2,7 +2,11 @@
 Person: Biondi Sima
 date: '2017-02-20 09:09:36 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'USAID '
+- " BNPB "
+- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
+  Project in Indonesia"
 title: 'HOT Concludes City-wide Mapping Project in Surabaya: Key Results and Lessons’
   Learned'
 created: 1487581776

@@ -3,7 +3,8 @@ Person: russell deffner
 date: '2017-06-12 02:25:39 Z'
 Working Group:
 - Community
-Projects: []
+Projects:
+- Malaria Elimination Campaign
 title: 'YouthMappers ‘Mapping to End Malaria’ Challenge: Round 3 Results'
 created: 1497234339
 ---

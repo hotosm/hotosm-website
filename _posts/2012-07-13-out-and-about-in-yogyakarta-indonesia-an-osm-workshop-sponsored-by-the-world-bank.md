@@ -10,7 +10,8 @@ Summary Text: "My name is Katrina and I am a new addition to the HOT team in Ind
 Person: Katrina E.
 date: '2012-07-13 08:49:58 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: 'Out and about in Yogyakarta, Indonesia:  An OSM workshop sponsored by the
   World Bank'
 created: 1342169398

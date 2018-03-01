@@ -3,7 +3,8 @@ Person: RebeccaFirth
 date: '2017-11-02 20:00:26 Z'
 Working Group:
 - Community
-Projects: []
+Projects:
+- Microgrants and Community Development
 title: 'HOT Microgrant: Mafalala, Mozambique - Mapping history with a focus on the
   future'
 created: 1509652826

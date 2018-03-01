@@ -2,7 +2,8 @@
 Person: Steven Bukulu
 date: '2015-03-25 18:52:50 Z'
 Working Group: []
-Projects: []
+Projects:
+- Dar Ramani Huria - Dar Open Map
 title: OSM TANZANIA
 created: 1427309570
 ---

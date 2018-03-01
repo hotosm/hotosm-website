@@ -4,8 +4,7 @@ date: '2014-04-25 01:12:05 Z'
 Working Group:
 - Community
 Projects:
-- Espace OSM Francophone
-- Senegal
+- Central African Republic Activation
 title: CAR Activation, Year 2
 created: 1398388325
 ---

@@ -10,7 +10,8 @@ Summary Text: "In Dakar, back from Saint-Louis where I have been mostly working 
   Thies BarCamp</a> organized by the Senegalese OpenSource movement.\r\n"
 date: '2013-01-15 23:12:47 Z'
 Working Group: []
-Projects: []
+Projects:
+- Senegal
 title: Animating the OSM Senegal Community
 created: 1358291567
 ---

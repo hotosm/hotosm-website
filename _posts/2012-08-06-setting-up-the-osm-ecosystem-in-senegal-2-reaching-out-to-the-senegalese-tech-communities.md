@@ -2,7 +2,8 @@
 Person: will
 date: '2012-08-06 16:33:50 Z'
 Working Group: []
-Projects: []
+Projects:
+- Senegal
 title: 'Setting up the OSM ecosystem in Senegal 2: Reaching out to the Senegalese
   Tech communities'
 created: 1344270830

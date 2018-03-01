@@ -8,7 +8,8 @@ Summary Text: "Tomorrow marks the end of HOT's pilot to evaluate the use of Open
 Person: Kate Chapman
 date: '2012-03-30 05:37:35 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: Finishing Up in Indonesia...for the Moment
 created: 1333085855
 ---

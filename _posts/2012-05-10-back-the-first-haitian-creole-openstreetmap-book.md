@@ -10,7 +10,8 @@ Summary Text: "When the January 2010 Earthquake happened in Haiti the OpenStreet
 Person: Kate Chapman
 date: '2012-05-10 13:33:20 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'Haiti '
 title: Back the First Haitian Creole OpenStreetMap Book!
 created: 1336656800
 ---

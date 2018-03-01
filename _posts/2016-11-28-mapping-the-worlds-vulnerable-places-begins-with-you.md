@@ -6,7 +6,8 @@ Summary Text: "Help HOT provide 10 communities with equipment and funding to map
 Person: Tyler Radford
 date: '2016-11-28 22:22:05 Z'
 Working Group: []
-Projects: []
+Projects:
+- Mapping the world’s vulnerable places begins with you!
 title: Mapping the world’s vulnerable places begins with you!
 created: 1480371725
 ---

@@ -10,7 +10,8 @@ Summary Text: Every year during the rainy season, the largest city in Tanzania, 
 Person: Sophie Lafayette
 date: '2015-11-19 13:16:58 Z'
 Working Group: []
-Projects: []
+Projects:
+- Dar Ramani Huria - Dar Open Map
 title: Mapping Drainage in Dar es Salaam
 created: 1447939018
 ---

@@ -2,7 +2,11 @@
 Person: Biondi Sima
 date: '2017-06-15 04:12:26 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'USAID '
+- " BNPB "
+- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
+  Project in Indonesia"
 title: HOT Indonesia Hosts Mapathon for InAWARE Jakarta Mapping Project with  the
   University of Indonesia
 created: 1497499946

@@ -2,7 +2,8 @@
 Person: shenriod
 date: '2013-02-20 04:34:58 Z'
 Working Group: []
-Projects: []
+Projects:
+- EUROSHA
 title: How to engage with non-spatial partners, feedback from the field in Kenya
 created: 1361334898
 ---

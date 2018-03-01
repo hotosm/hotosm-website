@@ -11,7 +11,8 @@ Summary Text: "I am starting a second short trip (28-August – 2-September) to 
 Person: nicolas
 date: '2012-08-28 23:27:26 Z'
 Working Group: []
-Projects: []
+Projects:
+- Senegal
 title: 'The OSM Project Senegal: joining Tech Camp Dakar 30-31 August 2012'
 created: 1346196446
 ---

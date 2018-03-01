@@ -6,7 +6,8 @@ Person: russell deffner
 date: '2018-01-16 21:49:07 Z'
 Working Group:
 - Activation
-Projects: []
+Projects:
+- HOT Training Center
 title: Help Support 3 Local OpenStreetMap Communities Dealing With Disaster!
 created: 1516139347
 ---

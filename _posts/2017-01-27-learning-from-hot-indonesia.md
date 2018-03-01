@@ -3,7 +3,11 @@ Person: Geoffrey Kateregga
 date: '2017-01-27 10:29:00 Z'
 Working Group:
 - Community
-Projects: []
+Projects:
+- 'USAID '
+- " BNPB "
+- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
+  Project in Indonesia"
 title: Learning from HOT Indonesia
 created: 1485512940
 ---

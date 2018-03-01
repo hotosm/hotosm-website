@@ -3,7 +3,8 @@ Summary Text: "\r\n\r\n"
 Person: Katrina E.
 date: '2012-10-24 05:15:06 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: Asian Ministerial Conference on Disaster Risk Reduction (AMCDRR 2012)
 created: 1351055706
 ---

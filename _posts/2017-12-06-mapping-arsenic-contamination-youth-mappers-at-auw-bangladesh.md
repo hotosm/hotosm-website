@@ -3,7 +3,8 @@ Person: Amelia Hunt
 date: '2017-12-06 13:11:14 Z'
 Working Group:
 - Community
-Projects: []
+Projects:
+- Microgrants and Community Development
 title: Mapping Arsenic Contamination - Youth Mappers at AUW Bangladesh
 created: 1512565874
 ---

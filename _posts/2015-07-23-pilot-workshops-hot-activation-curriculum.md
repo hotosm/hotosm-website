@@ -2,7 +2,8 @@
 Person: Mhairi O'Hara
 date: '2015-07-23 08:54:38 Z'
 Working Group: []
-Projects: []
+Projects:
+- HOT Training Center
 title: Pilot Workshops - HOT Activation Curriculum
 created: 1437641678
 ---

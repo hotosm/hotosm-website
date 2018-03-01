@@ -4,10 +4,7 @@ date: '2014-09-07 23:39:43 Z'
 Working Group:
 - Training
 Projects:
-- LearnOSM
-- Sri Lanka Flooding 2016
-- Field Papers
-- Nepal 2015 Earthquake Response
+- Malawi Flood Preparedness
 title: Fieldwork in the heart of Shire (Week 5)
 created: 1410133183
 ---

@@ -3,7 +3,8 @@ Person: RebeccaFirth
 date: '2017-02-02 16:30:07 Z'
 Working Group:
 - Community
-Projects: []
+Projects:
+- Microgrants and Community Development
 title: HOT Microgrants Programme Launches
 created: 1486053007
 ---

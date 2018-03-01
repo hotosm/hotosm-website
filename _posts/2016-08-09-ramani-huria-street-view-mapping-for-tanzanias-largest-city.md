@@ -3,7 +3,8 @@ Person: innocent
 date: '2016-08-09 17:02:51 Z'
 Working Group:
 - Community
-Projects: []
+Projects:
+- Dar Ramani Huria - Dar Open Map
 title: 'Ramani Huria: Street View Mapping for Tanzania''s Largest City'
 created: 1470762171
 ---

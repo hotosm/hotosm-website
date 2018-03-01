@@ -8,7 +8,8 @@ Summary Text: 'The Mapping Financial Inclusion in Uganda project is truly underw
 Person: Mhairi O'Hara
 date: '2016-01-11 12:06:10 Z'
 Working Group: []
-Projects: []
+Projects:
+- Mapping Financial Inclusion in Uganda
 title: Commence - Mapping Financial Services Training
 created: 1452513970
 ---

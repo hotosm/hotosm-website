@@ -3,7 +3,8 @@ Person: innocent
 date: '2016-10-19 14:29:28 Z'
 Working Group:
 - Community
-Projects: []
+Projects:
+- Dar Ramani Huria - Dar Open Map
 title: Mapping Dar es Salaam's Water, Sanitation and Hygiene Facilities
 created: 1476887368
 ---

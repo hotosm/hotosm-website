@@ -2,7 +2,8 @@
 Person: Paul Uithol
 date: '2015-07-17 08:37:54 Z'
 Working Group: []
-Projects: []
+Projects:
+- Dar Ramani Huria - Dar Open Map
 title: '"Ramani Huria" Scale Up - Dar es Salaam, 6th July, 2015'
 created: 1437122274
 ---

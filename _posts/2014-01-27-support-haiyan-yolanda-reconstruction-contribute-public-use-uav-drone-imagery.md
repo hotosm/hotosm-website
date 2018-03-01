@@ -6,7 +6,8 @@ Summary Text: 'An unprecedented number of unmanned aerial vehicles (UAVs) -- dro
 Person: Kate Chapman
 date: '2014-01-27 02:21:15 Z'
 Working Group: []
-Projects: []
+Projects:
+- Typhoon Haiyan
 title: 'Support Haiyan/Yolanda Reconstruction:  Contribute Public Use UaV (Drone)
   Imagery'
 created: 1390789275

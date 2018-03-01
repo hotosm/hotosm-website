@@ -5,7 +5,8 @@ Summary Text: Our first round of the YouthMappers ‘Mapping to end Malaria’ C
 Person: russell deffner
 date: '2017-04-12 23:32:15 Z'
 Working Group: []
-Projects: []
+Projects:
+- Malaria Elimination Campaign
 title: 'YouthMappers ‘Mapping to End Malaria’ Challenge: Round 1 Results'
 created: 1492039935
 ---

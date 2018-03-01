@@ -2,7 +2,8 @@
 Person: Nate Smith
 date: '2016-07-28 05:44:51 Z'
 Working Group: []
-Projects: []
+Projects:
+- OpenAerialMap
 title: New Features for OpenAerialMap
 created: 1469684691
 ---

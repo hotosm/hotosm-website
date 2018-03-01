@@ -3,7 +3,8 @@ Person: pierre.mirlesse
 date: '2015-06-26 16:29:26 Z'
 Working Group:
 - Communications
-Projects: []
+Projects:
+- Nepal 2015 Earthquake Response
 title: TomTom June 2015 HOT Mapathon
 created: 1435336166
 ---

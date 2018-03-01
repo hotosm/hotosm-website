@@ -6,7 +6,8 @@ Summary Text: "With the support of the ICT Directorate and the Agence Informatiq
 Person: nicolas
 date: '2012-08-08 17:24:46 Z'
 Working Group: []
-Projects: []
+Projects:
+- Senegal
 title: 'Setting up the OSM ecosystem in Senegal 3: Reaching out the Senegalese geomatics
   scene (Senegalese SDI)'
 created: 1344446686

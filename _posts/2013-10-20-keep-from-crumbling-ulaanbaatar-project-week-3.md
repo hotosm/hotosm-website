@@ -4,34 +4,7 @@ date: '2013-10-20 12:03:56 Z'
 Working Group:
 - Training
 Projects:
-- Outreachy
-- Fall 2017 Disaster Response
-- Mapping the world’s vulnerable places begins with you!
-- OpenMapKit
-- West Africa Ebola Epidemic
-- Export Tool
-- OpenStreetMap Analytics
-- MapFugees Field Mapping
-- Sri Lanka Flooding 2016
-- Nepal 2015 Earthquake Response
-- OSM Tasking Manager 3.0 Development
-- Missing Maps
-- Field Papers
-- Hurricane Patricia
-- HOT Summit 2016
-- Eastern Afghanistan Earthquake
-- Tasking Manager
-- OpenAerialMap
-- Donate to HOT today
-- Mapping Financial Inclusion in Uganda
-- HOT Training Center
-- LearnOSM
-- InaSAFE
-- Women and Girls in Mapping
-- Hurricane Matthew
-- Cyclone Enawo Response
-- Remote Damage Assessment Research
-- Ecuador Earthquake
+- Mongolia, Mapping Ulaanbaatar
 title: Keep From Crumbling - Ulaanbaatar Project Week 3
 created: 1382270636
 ---

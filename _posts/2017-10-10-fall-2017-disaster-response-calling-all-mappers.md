@@ -4,7 +4,8 @@ Person: russell deffner
 date: '2017-10-10 18:28:28 Z'
 Working Group:
 - Activation
-Projects: []
+Projects:
+- Fall 2017 Disaster Response
 title: 'Fall 2017 Disaster Response: Calling All Mappers!'
 created: 1507660108
 ---

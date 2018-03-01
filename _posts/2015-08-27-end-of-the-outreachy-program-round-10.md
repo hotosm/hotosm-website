@@ -2,7 +2,8 @@
 Person: Mhairi O'Hara
 date: '2015-08-27 10:35:27 Z'
 Working Group: []
-Projects: []
+Projects:
+- Outreachy
 title: End of the Outreachy Program Round 10
 created: 1440671727
 ---

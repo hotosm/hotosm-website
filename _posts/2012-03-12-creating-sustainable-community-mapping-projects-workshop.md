@@ -2,7 +2,8 @@
 Person: Kate Chapman
 date: '2012-03-12 05:00:39 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: Creating Sustainable Community Mapping Projects Workshop
 created: 1331528439
 ---

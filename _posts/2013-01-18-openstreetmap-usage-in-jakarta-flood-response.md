@@ -7,7 +7,8 @@ Summary Text: "Days of rain in Jakarta and surrounding areas have caused massive
 Person: Kate Chapman
 date: '2013-01-18 11:32:41 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: OpenStreetMap Usage in Jakarta Flood Response
 created: 1358508761
 ---

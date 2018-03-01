@@ -14,7 +14,8 @@ Summary Text: Après la deuxième vague de l'épidémie d'Ebola en juin marquée
 Person: pierre.beland
 date: '2014-08-06 01:12:08 Z'
 Working Group: []
-Projects: []
+Projects:
+- West Africa Ebola Epidemic
 title: Reactivation of HOT for the Ebola epidemic, Second update
 created: 1407287528
 ---

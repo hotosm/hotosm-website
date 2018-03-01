@@ -2,7 +2,8 @@
 Person: RebeccaFirth
 date: '2017-02-21 19:07:16 Z'
 Working Group: []
-Projects: []
+Projects:
+- Microgrants and Community Development
 title: 2017 Microgrants Programme in full swing - read our Q&A summary
 created: 1487704036
 ---

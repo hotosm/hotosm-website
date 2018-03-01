@@ -2,7 +2,8 @@
 Person: Cristiano Giovando
 date: '2015-02-26 01:50:32 Z'
 Working Group: []
-Projects: []
+Projects:
+- OpenAerialMap
 title: Updates from the OpenAerialMap Project
 created: 1424915432
 ---

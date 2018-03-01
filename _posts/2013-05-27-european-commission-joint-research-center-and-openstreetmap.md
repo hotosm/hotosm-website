@@ -3,10 +3,7 @@ Person: Severin
 date: '2013-05-27 03:00:57 Z'
 Working Group:
 - Training
-Projects:
-- Hurricane Patricia
-- Donate to HOT today
-- Ecuador Earthquake
+Projects: []
 title: European Commission Joint Research Center and OpenStreetMap
 created: 1369623657
 ---

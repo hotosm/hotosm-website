@@ -2,7 +2,8 @@
 Person: joseph
 date: '2014-03-26 14:34:38 Z'
 Working Group: []
-Projects: []
+Projects:
+- West Africa Ebola Epidemic
 title: 'Mapping Guinea: Help Wanted'
 created: 1395844478
 ---

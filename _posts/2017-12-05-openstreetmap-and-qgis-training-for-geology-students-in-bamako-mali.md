@@ -3,7 +3,8 @@ Person: Amelia Hunt
 date: '2017-12-05 12:46:40 Z'
 Working Group:
 - Community
-Projects: []
+Projects:
+- Microgrants and Community Development
 title: OpenStreetMap & QGIS Training for geology students in  Bamako, Mali
 created: 1512478000
 ---

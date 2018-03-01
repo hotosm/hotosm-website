@@ -2,7 +2,8 @@
 Person: nicolas
 date: '2012-07-31 13:18:20 Z'
 Working Group: []
-Projects: []
+Projects:
+- Senegal
 title: 'Setting up the OSM ecosystem in Senegal 1: Reaching out to GIS projects'
 created: 1343740700
 ---

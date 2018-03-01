@@ -2,7 +2,8 @@
 Person: Paul Uithol
 date: '2017-02-06 15:24:17 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 title: Kicking off the “Crowdsourcing Non-Camp Refugee Data” project
 created: 1486394657
 ---

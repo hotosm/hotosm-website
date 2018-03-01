@@ -9,10 +9,7 @@ Person: russell deffner
 date: '2015-05-07 05:31:27 Z'
 Working Group: []
 Projects:
-- Hurricane Matthew
-- OpenMapKit
-- 'Haiti '
-- Missing Maps
+- Mongolia, Mapping Ulaanbaatar
 title: Mongolia - Mapping Ulaanbaatar Update - Welcome Interns!
 created: 1430976687
 ---

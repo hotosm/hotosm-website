@@ -3,7 +3,8 @@ Person: Mhairi O'Hara
 date: '2016-04-22 23:59:18 Z'
 Working Group:
 - Activation
-Projects: []
+Projects:
+- Ecuador Earthquake
 title: 'Ecuador Earthquake: Day 7 Update'
 created: 1461369558
 ---

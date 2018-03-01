@@ -3,7 +3,8 @@ Person: harry
 date: '2014-10-27 18:37:52 Z'
 Working Group:
 - Fundraising
-Projects: []
+Projects:
+- West Africa Ebola Epidemic
 title: Interview on BBC World News
 created: 1414435072
 ---

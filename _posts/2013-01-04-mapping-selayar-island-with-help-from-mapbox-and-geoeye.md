@@ -2,7 +2,8 @@
 Person: Kate Chapman
 date: '2013-01-04 16:16:02 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: Mapping Selayar Island with Help from MapBox and GeoEye
 created: 1357316162
 ---

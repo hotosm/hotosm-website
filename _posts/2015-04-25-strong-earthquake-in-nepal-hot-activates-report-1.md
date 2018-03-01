@@ -3,7 +3,8 @@ Person: russell deffner
 date: '2015-04-25 15:29:02 Z'
 Working Group:
 - Activation
-Projects: []
+Projects:
+- Nepal 2015 Earthquake Response
 title: 'Strong Earthquake in Nepal - HOT Activates!  Report #1'
 created: 1429975742
 ---

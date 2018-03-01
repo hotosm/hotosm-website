@@ -6,7 +6,8 @@ Summary Text: La quatrième conférence annuelle nationale Tanzanienne des scien
 Person: Sophie Lafayette
 date: '2015-08-09 17:20:42 Z'
 Working Group: []
-Projects: []
+Projects:
+- Dar Ramani Huria - Dar Open Map
 title: Ramani Huria community mapping showcased to Tanzanian President Jakaya Kikwete
 created: 1439140842
 ---

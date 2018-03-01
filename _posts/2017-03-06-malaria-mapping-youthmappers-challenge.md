@@ -9,7 +9,8 @@ Summary Text: HOT is managing a mapping project for malaria eradication across s
 Person: russell deffner
 date: '2017-03-06 15:49:27 Z'
 Working Group: []
-Projects: []
+Projects:
+- Malaria Elimination Campaign
 title: Malaria Mapping YouthMappers Challenge
 created: 1488815367
 ---

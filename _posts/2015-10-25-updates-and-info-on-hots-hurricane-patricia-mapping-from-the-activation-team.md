@@ -11,7 +11,8 @@ Person: Blake Girardot
 date: '2015-10-25 13:57:50 Z'
 Working Group:
 - Activation
-Projects: []
+Projects:
+- Hurricane Patricia
 title: Updates and info on HOT's Hurricane Patricia mapping from the Activation Team
 created: 1445781470
 ---

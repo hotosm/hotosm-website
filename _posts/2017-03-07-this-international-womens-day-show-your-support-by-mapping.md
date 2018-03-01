@@ -3,7 +3,8 @@ Person: RebeccaFirth
 date: '2017-03-07 02:47:00 Z'
 Working Group:
 - Communications
-Projects: []
+Projects:
+- Women and Girls in Mapping
 title: This International Women’s Day, show your support by mapping
 created: 1488854820
 ---

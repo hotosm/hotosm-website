@@ -3,7 +3,8 @@ Person: Douglas
 date: '2016-08-04 10:08:22 Z'
 Working Group:
 - Community
-Projects: []
+Projects:
+- Mapping Financial Inclusion in Uganda
 title: 'Mapping the Unmapped:  A Summer Fellows Foray into the OSM Community'
 created: 1470305302
 ---

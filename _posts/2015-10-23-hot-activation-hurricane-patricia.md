@@ -3,7 +3,8 @@ Person: Dale Kunce
 date: '2015-10-23 17:41:49 Z'
 Working Group:
 - Activation
-Projects: []
+Projects:
+- Hurricane Patricia
 title: HOT Activation Hurricane Patricia
 created: 1445622109
 ---

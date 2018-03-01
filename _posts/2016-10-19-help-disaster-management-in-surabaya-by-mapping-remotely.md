@@ -2,7 +2,11 @@
 Person: Biondi Sima
 date: '2016-10-19 03:21:38 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'USAID '
+- " BNPB "
+- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
+  Project in Indonesia"
 title: Help Disaster Management in Surabaya by Mapping Remotely
 created: 1476847298
 ---

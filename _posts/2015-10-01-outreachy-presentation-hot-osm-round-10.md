@@ -2,7 +2,8 @@
 Person: Mhairi O'Hara
 date: '2015-10-01 09:42:44 Z'
 Working Group: []
-Projects: []
+Projects:
+- Outreachy
 title: Outreachy Presentation | HOT OSM Round 10
 created: 1443692564
 ---

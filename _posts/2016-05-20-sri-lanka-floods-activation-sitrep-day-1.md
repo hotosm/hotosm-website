@@ -3,7 +3,8 @@ Person: Blake Girardot
 date: '2016-05-20 06:19:05 Z'
 Working Group:
 - Activation
-Projects: []
+Projects:
+- Sri Lanka Flooding 2016
 title: 'Sri Lanka Floods Activation: Sitrep Day 1'
 created: 1463725145
 ---

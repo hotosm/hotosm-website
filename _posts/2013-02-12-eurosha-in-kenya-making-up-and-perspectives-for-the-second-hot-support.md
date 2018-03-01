@@ -12,7 +12,8 @@ Summary Text: "In Kenya, 6 Eurosha volunteers have been deployed since Early Oct
 Person: Severin
 date: '2013-02-12 21:50:39 Z'
 Working Group: []
-Projects: []
+Projects:
+- EUROSHA
 title: 'Eurosha in Kenya: making-up and perspectives for the second Hot support'
 created: 1360705839
 ---

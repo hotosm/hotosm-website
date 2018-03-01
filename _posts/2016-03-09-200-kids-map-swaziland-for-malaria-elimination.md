@@ -2,7 +2,8 @@
 Person: Cristiano Giovando
 date: '2016-03-09 08:53:20 Z'
 Working Group: []
-Projects: []
+Projects:
+- Missing Maps
 title: 200 Kids Map Swaziland for Malaria Elimination
 created: 1457513600
 ---

@@ -2,7 +2,8 @@
 Person: Cristiano Giovando
 date: '2015-08-13 00:00:36 Z'
 Working Group: []
-Projects: []
+Projects:
+- OpenAerialMap
 title: Small UAS for Humanitarian Mapping
 created: 1439424036
 ---

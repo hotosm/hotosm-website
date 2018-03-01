@@ -11,7 +11,8 @@ Summary Text: "On the evening of April 24th there was a graduation for the young
 Person: brian
 date: '2012-04-29 20:09:12 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'Haiti '
 title: Graduation for STM020
 created: 1335730152
 ---

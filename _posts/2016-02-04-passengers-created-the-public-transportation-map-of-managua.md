@@ -9,7 +9,8 @@ Summary Text: "We made great progress on a crowd-sourced public transportation m
 Person: Felix Delattre
 date: '2016-02-04 09:06:18 Z'
 Working Group: []
-Projects: []
+Projects:
+- Public transportation map for Managua
 title: Passengers created the public transportation map of Managua
 created: 1454576778
 ---

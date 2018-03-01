@@ -2,7 +2,8 @@
 Person: Cristiano Giovando
 date: '2015-07-24 07:31:00 Z'
 Working Group: []
-Projects: []
+Projects:
+- OpenAerialMap
 title: OAM Adds Dynamic Filtering, Upload Tools Coming Soon
 created: 1437723060
 ---

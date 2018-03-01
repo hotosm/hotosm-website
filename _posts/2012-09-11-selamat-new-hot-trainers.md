@@ -3,7 +3,8 @@ Summary Text: "\r\n"
 Person: Katrina E.
 date: '2012-09-11 08:33:20 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: Selamat New HOT Trainers
 created: 1347352400
 ---

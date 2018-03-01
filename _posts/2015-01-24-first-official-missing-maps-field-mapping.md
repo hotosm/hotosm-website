@@ -3,10 +3,7 @@ Person: Jorieke Vyncke
 date: '2015-01-24 19:31:30 Z'
 Working Group: []
 Projects:
-- Ecuador Earthquake
-- HOT Indonesia Curriculum
-- Indonesia Disaster Management Innovation
-- InaSAFE
+- Missing Maps
 title: First official Missing Maps field mapping!
 created: 1422127890
 ---

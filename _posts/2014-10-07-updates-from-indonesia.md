@@ -2,7 +2,8 @@
 Person: emir
 date: '2014-10-07 14:30:32 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: Updates from Indonesia
 created: 1412692232
 ---

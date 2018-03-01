@@ -10,7 +10,8 @@ Summary Text: "I just landed in <a href=\"http://en.wikipedia.org/wiki/N'Djamena
 Person: nicolas
 date: '2013-02-01 01:48:32 Z'
 Working Group: []
-Projects: []
+Projects:
+- EUROSHA
 title: A return to Chad three months after the set up of the EUROSHA mapping team
 created: 1359683312
 ---

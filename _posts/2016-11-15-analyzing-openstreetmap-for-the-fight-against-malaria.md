@@ -2,7 +2,8 @@
 Person: Nate Smith
 date: '2016-11-15 12:31:08 Z'
 Working Group: []
-Projects: []
+Projects:
+- OpenStreetMap Analytics
 title: Analyzing OpenStreetMap for the fight against malaria
 created: 1479213068
 ---

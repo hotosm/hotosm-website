@@ -12,7 +12,8 @@ Summary Text: "<p><img class=\"image-thumbnail\" style=\"float: right;\" src=\"/
 Person: Katrina E.
 date: '2012-07-31 05:19:56 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: 'Indonesian Project Report: Get it while it''s HOT'
 created: 1343711996
 ---

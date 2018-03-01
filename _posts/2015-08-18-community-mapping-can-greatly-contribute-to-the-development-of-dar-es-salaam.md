@@ -7,7 +7,8 @@ Summary Text: Mr. Monday Anthony, a 66 year old  community member of Mchikichini
 Person: Sophie Lafayette
 date: '2015-08-18 10:52:28 Z'
 Working Group: []
-Projects: []
+Projects:
+- Dar Ramani Huria - Dar Open Map
 title: Community Mapping can greatly contribute to the development of Dar es Salaam
 created: 1439895148
 ---

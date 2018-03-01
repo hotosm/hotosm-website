@@ -2,7 +2,8 @@
 Person: Douglas
 date: '2016-07-04 11:24:16 Z'
 Working Group: []
-Projects: []
+Projects:
+- Mapping Financial Inclusion in Uganda
 title: 'Using Financial Services data in OSM: GIS Poster and Mobile apps'
 created: 1467631456
 ---

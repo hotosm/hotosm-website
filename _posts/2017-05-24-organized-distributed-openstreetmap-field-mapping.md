@@ -2,7 +2,8 @@
 Person: Nate Smith
 date: '2017-05-24 14:34:59 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 title: Organized, distributed OpenStreetMap field mapping
 created: 1495636499
 ---

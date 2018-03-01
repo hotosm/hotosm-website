@@ -4,14 +4,7 @@ date: '2013-11-05 18:44:43 Z'
 Working Group:
 - Technical
 Projects:
-- Outreachy
-- West Africa Ebola Epidemic
-- Export Tool
-- Field Papers
-- Eastern Afghanistan Earthquake
-- Mapping Financial Inclusion in Uganda
-- HOT Training Center
-- InaSAFE
+- Mongolia, Mapping Ulaanbaatar
 title: Straighten Our Ways – Ulaanbaatar Project Week 5
 created: 1383677083
 ---

@@ -11,8 +11,7 @@ date: '2013-04-11 02:24:57 Z'
 Working Group:
 - Technical
 Projects:
-- Typhoon Haiyan
-- West Africa Ebola Epidemic
+- Central African Republic Activation
 title: Starting a HOT Activation in Central African Republic
 created: 1365647097
 ---

@@ -12,7 +12,8 @@ Summary Text: "Nicolas and I have been training the 25 Eurosha volunteers who wi
 Person: Severin
 date: '2012-10-05 00:13:00 Z'
 Working Group: []
-Projects: []
+Projects:
+- EUROSHA
 title: Become a tutor of the Eurosha volunteers!
 created: 1349395980
 ---

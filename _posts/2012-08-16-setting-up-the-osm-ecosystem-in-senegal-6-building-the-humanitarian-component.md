@@ -8,7 +8,8 @@ Summary Text: "It’s finally time to mention the mapping party HOT and <a href=
 Person: nicolas
 date: '2012-08-16 14:52:51 Z'
 Working Group: []
-Projects: []
+Projects:
+- Senegal
 title: 'Setting up the OSM ecosystem in Senegal 6: Building the humanitarian component'
 created: 1345128771
 ---

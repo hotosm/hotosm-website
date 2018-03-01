@@ -3,7 +3,8 @@ Summary Text: "\r\n\r\n"
 Person: Mikel Maron
 date: '2010-01-12 17:45:35 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'Haiti '
 title: Haiti OpenStreetMap Response by Mikel
 created: 1263318335
 ---

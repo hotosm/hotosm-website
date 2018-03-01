@@ -2,13 +2,7 @@
 Person: Kate Chapman
 date: '2014-04-22 12:17:26 Z'
 Working Group: []
-Projects:
-- EUROSHA
-- Missing Maps
-- HOT Summit 2016
-- Central African Republic Activation
-- Ivory Coast
-- Senegal
+Projects: []
 title: Mapping on in Haiphong
 created: 1398169046
 ---

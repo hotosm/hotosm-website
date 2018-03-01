@@ -2,7 +2,8 @@
 Person: David Luswata
 date: '2017-05-25 12:29:56 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'LEGIT: Supporting decentralization in Liberian cities'
 title: LEGIT Kicks off Field Mapping with Training in Monrovia
 created: 1495715396
 ---

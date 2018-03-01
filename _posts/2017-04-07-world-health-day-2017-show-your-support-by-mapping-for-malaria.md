@@ -10,7 +10,8 @@ Summary Text: Malaria is a disease that affects millions of people around the wo
 Person: russell deffner
 date: '2017-04-07 19:00:49 Z'
 Working Group: []
-Projects: []
+Projects:
+- Malaria Elimination Campaign
 title: 'World Health Day 2017: show your support by mapping for malaria'
 created: 1491591649
 ---

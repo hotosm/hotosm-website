@@ -3,8 +3,7 @@ Person: Heather Leson
 date: '2013-12-01 10:28:03 Z'
 Working Group: []
 Projects:
-- 'Haiti '
-- Nepal 2015 Earthquake Response
+- Typhoon Haiyan
 title: Mapping Request for Carles area (Typhoon Haiyan)
 created: 1385893683
 ---

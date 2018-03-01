@@ -3,13 +3,7 @@ Person: Kate Chapman
 date: '2011-11-27 22:43:05 Z'
 Working Group:
 - Community
-Projects:
-- Indonesia Disaster Management Innovation
-- 'USAID '
-- " BNPB "
-- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
-  Project in Indonesia"
-- InaSAFE
+Projects: []
 title: Meetings, Conferences and Coordination in Geneva
 created: 1322433785
 ---

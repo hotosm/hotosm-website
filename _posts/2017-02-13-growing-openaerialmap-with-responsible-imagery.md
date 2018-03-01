@@ -2,7 +2,8 @@
 Person: Nate Smith
 date: '2017-02-13 10:46:38 Z'
 Working Group: []
-Projects: []
+Projects:
+- OpenAerialMap
 title: Growing OpenAerialMap with Responsible Imagery
 created: 1486982798
 ---

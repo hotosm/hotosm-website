@@ -7,7 +7,8 @@ Summary Text: As we wrote earlier, Indonesia’s disaster management agency is t
 Person: Biondi Sima
 date: '2017-04-27 08:29:50 Z'
 Working Group: []
-Projects: []
+Projects:
+- Indonesia Disaster Management Innovation
 title: Branching out Manpower to Mapping 136 Priority Areas in Indonesia through Training
   of Trainers (ToT)
 created: 1493281790

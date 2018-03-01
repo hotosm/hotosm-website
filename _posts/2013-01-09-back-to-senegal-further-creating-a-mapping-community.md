@@ -7,7 +7,8 @@ Summary Text: "Augustin and I conducted HOT’s third deployment HOT to Senegal 
 Person: nicolas
 date: '2013-01-09 11:46:22 Z'
 Working Group: []
-Projects: []
+Projects:
+- Senegal
 title: Back to Senegal, Further Creating a Mapping Community
 created: 1357731982
 ---

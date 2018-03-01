@@ -3,7 +3,8 @@ Person: Dale Kunce
 date: '2017-01-26 04:13:51 Z'
 Working Group:
 - Training
-Projects: []
+Projects:
+- Missing Maps
 title: Help Translate Training Videos
 created: 1485404031
 ---

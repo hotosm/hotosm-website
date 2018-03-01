@@ -3,13 +3,7 @@ Person: Heather Leson
 date: '2014-12-05 12:04:23 Z'
 Working Group:
 - Community
-Projects:
-- LearnOSM
-- OpenMapKit
-- 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
-- Missing Maps
-- Tasking Manager
-- Mapping Financial Inclusion in Uganda
+Projects: []
 title: Typhoon Hagupit (Ruby) Activation Live
 created: 1417781063
 ---

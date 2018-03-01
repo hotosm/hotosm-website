@@ -7,7 +7,8 @@ Summary Text: "Having had a brief moment to get out footing in Saint Marc, we we
 Person: brian
 date: '2012-01-28 18:48:19 Z'
 Working Group: []
-Projects: []
+Projects:
+- 'Haiti '
 title: Setting Up in Saint Marc, Haiti
 created: 1327776499
 ---

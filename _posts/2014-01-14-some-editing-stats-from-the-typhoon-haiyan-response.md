@@ -2,7 +2,8 @@
 Person: harry
 date: '2014-01-14 11:12:16 Z'
 Working Group: []
-Projects: []
+Projects:
+- Typhoon Haiyan
 title: Some editing stats from the Typhoon Haiyan response
 created: 1389697936
 ---

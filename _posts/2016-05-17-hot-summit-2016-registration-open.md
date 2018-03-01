@@ -2,7 +2,8 @@
 Person: cshaw
 date: '2016-05-17 21:34:51 Z'
 Working Group: []
-Projects: []
+Projects:
+- HOT Summit 2016
 title: HOT SUMMIT 2016 - Registration Open
 created: 1463520891
 ---
