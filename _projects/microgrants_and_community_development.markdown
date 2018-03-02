@@ -1,6 +1,7 @@
 ---
 title: Microgrants and Community Development
 date: 2018-01-19 15:23:00 Z
+Feature Image: https://source.unsplash.com/EYN394FC29o/1280x720
 Country:
 - Liberia
 Impact Area:
