@@ -1,6 +1,9 @@
 ---
 title: Home
 position: 0
+Project:
+- Dar Ramani Huria — Dar Open Map
+- 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 layout: home
 ---
 
