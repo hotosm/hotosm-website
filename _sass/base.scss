@@ -158,6 +158,13 @@ img {
   }
 }
 
+.highlight-hr {
+  width: 40px;
+  height: 2px;
+  background-color: shade($border-color, 10%);
+  margin-bottom: 24px;
+}
+
 .page-header {
   margin-top: 48px;
   margin-bottom: 32px;
@@ -412,12 +419,6 @@ img {
         content: '/';
       }
     }
-  }
-  .highlight-hr {
-    width: 40px;
-    height: 2px;
-    background-color: $blue-grey;
-    margin: 8px 0 24px;
   }
   .highlight-image {
     grid-column: 7 / -1;
@@ -2134,9 +2135,15 @@ img {
 }
 
 .what-we-do-header {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
   margin: 48px 0 40px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 24px;
+  }
+  @media (max-width: $screen-xs) {
+    margin-bottom: 16px;
+  }
   h1 {
     grid-column: 1 / 6;
   }
@@ -2146,14 +2153,98 @@ img {
   }
   .intro-text {
     margin-bottom: 20px;
+    @media (max-width: $screen-xs) {
+      margin-bottom: 16px;
+    }
     p {
       font-size: 1.5rem;
       color: $red;
+      @media (max-width: $screen-sm) {
+        font-size: 1.375rem;
+      }
+      @media (max-width: $screen-xs) {
+        font-size: 1.125rem;
+      }
     }
   }
   .intro-btns {
+    @media (min-width: $screen-xs) {
+      display: grid;
+      grid-gap: 24px;
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .btn {
+      @media (max-width: $screen-xs) {
+        margin-bottom: 8px;
+        display: inline-block;
+        // font-size: 0.875rem;
+        &:after {
+          background: none;
+        }
+      }
+    }
+  }
+}
+
+.what-we-do-body {
+  background-color: $tan;
+  padding: 40px 0;
+  @media (max-width: $screen-xs) {
+    padding: 24px 0;
+  }
+  .hr-h {
+    background-color: shade($border-color, 10%);
+  }
+}
+
+.highlight-block {
+  @media (min-width: $screen-xs) {
     display: grid;
+    grid-template-columns: repeat(12, 1fr);
     grid-gap: 24px;
-    grid-template-columns: repeat(2, 1fr);
+  }
+  .highlight-hr {
+    margin-bottom: 18px;
+  }
+  h3 {
+    font-weight: 600;
+    @media (min-width: $screen-sm) {
+      font-size: 1.5rem;
+    }
+  }
+  p, li {
+    font-size: 1.125rem;
+    @media (max-width: $screen-sm) {
+      font-size: 1rem;
+    }
+  }
+  .highlight-image {
+    grid-column: 1 / 6;
+    grid-row: 1 / 2;
+    img {
+      display: block;
+    }
+  }
+  .highlight-details {
+    grid-column: 6 / -1;
+    grid-row: 1 / 2;
+    display: flex;
+    flex-direction: column;
+  }
+  .highlight-info {
+    flex: 1;
+    margin-bottom: 16px;
+  }
+  .highlight-options {
+    @media (max-width: $screen-xs) {
+      margin-bottom: 16px;
+    }
+    li {
+      margin-top: 10px;
+      line-height: 1.3;
+    }
+    a {
+      color: $blue-dark;
+    }
   }
 }
