@@ -4,13 +4,13 @@ date: 2018-01-19 15:23:00 Z
 Project Summary Text: Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper
   nulla non metus auctor fringilla. Aenean eu leo quam. Pellentesque ornare sem lacinia
   quam venenatis vestibulum.
-Feature Image: Test
+Feature Image: https://source.unsplash.com/lsqLJCvr0pc/1280x720
+HOT Involvement: Community-led Project
 Country:
 - Liberia
 Impact Area:
 - Sustainable Cities
 - Disaster Risk Reduction
-HOT Involvement: Community-led Project
 Person:
 - Paul Uithol
 - David Luswata
