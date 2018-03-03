@@ -6,12 +6,149 @@ layout: default
 
   <div class="container">
     <header class="home-header">
-      <h1>{{ content | strip_html }}</h1>
-      <!-- <div class="home-cta">
+      <h1>{{ content }}</h1>
+      <div class="home-cta">
         <a href="/what-we-do" class="btn btn-primary btn-lg btn-chevron btn-block">Learn about what we do</a>
-        <a href="/what-we-do" class="btn btn-primary btn-outline btn-lg btn-chevron btn-block">Get involved</a>
-      </div> -->
+        <a href="/get-involved" class="btn btn-default btn-lg btn-chevron btn-block class hide-xs">Get involved</a>
+      </div>
     </header>
+  </div>
+
+  <div class="home-highlights">
+    <div class="home-highlights-wrapper">
+
+      {% for home-project in page.Project %}
+        {% for project in site.projects %}
+          {% if home-project == project.title %}
+            <a href="{{ project.url }}" class="home-highlight">
+              <img src="{{ project['Feature Image'] }}">
+              <div class="home-highlight-title">
+                <p>
+                  {{ project.title }}
+                </p>
+                <p><span>
+                  {% if project.Country.size < 3 %}
+                    {% for country in project.Country %}
+                      <i>{{ country }}</i>
+                    {% endfor %}
+                  {% else %}
+                    {{ project.Country.size }} Countries
+                  {% endif %}
+                </span></p>
+              </div>
+            </a>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+
+    </div>
+  </div>
+
+  <div class="container home-stats">
+    <div class="home-stat">
+      <p class="stat-number">{{ page.Stats['Community Mappers'] }}</p>
+      <p class="stat-title">Community Mappers</p>
+    </div>
+    <div class="hr-v"></div>
+    <div class="home-stat">
+      <p class="stat-number">{{ page.Stats['Total Map Edits'] }}</p>
+      <p class="stat-title">Total Map Edits</p>
+    </div>
+    <div class="hr-v hide-sm"></div>
+    <div class="home-stat">
+      <p class="stat-number">{{ page.Stats['Buildings Mapped'] }}</p>
+      <p class="stat-title">Buildings Mapped</p>
+    </div>
+    <div class="hr-v"></div>
+    <div class="home-stat">
+      <p class="stat-number">{{ page.Stats['Roads Mapped (KM)'] }}</p>
+      <p class="stat-title">Roads Mapped (KM)</p>
+    </div>
+  </div>
+
+  <div class="container news-preview">
+
+    <header class="module-header">
+      <h6>Updates</h6>
+    </header>
+
+    <div class="news-preview-group">
+
+      {% for post in site.posts limit:3 %}
+        <div class="news-preview-item item-{{ forloop.index }}">
+          <div class="news-preview-image">
+            <img src="{{ post['Feature Image'] }}">
+          </div>
+          <div class="news-preview-details">
+            <p class="news-preview-meta">{{ post.date | date: '%e %b %Y' }}</p>
+            <div class="news-preview-text">
+              <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
+              <p>{{ post['Summary Text'] }}</p>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+
+    </div>
+  </div>
+
+  <div class="container">
+
+    {% include impact-areas.html %}
+
+    <div class="hr-h"></div>
+
+    <div class="module-group two-rows">
+      <a class="module link-through light-img one" href="#">
+        <div class="module-details">
+          <h3>{{ page['Home Module 1'].Header }}</h3>
+          <div class="module-text"><p>{{ page['Home Module 1'].Text }}</p></div>
+          <p class="module-cta">{{ page['Home Module 1']['Call to Action'] }}</p>
+        </div>
+        <div class="module-image">
+          <img src="https://source.unsplash.com/collection/1186428/800x600?v=4">
+        </div>
+      </a>
+      <a class="module link-through light-img two" href="#">
+        <div class="module-details">
+          <h3>{{ page['Home Module 2'].Header }}</h3>
+          <div class="module-text"><p>{{ page['Home Module 2'].Text }}</p></div>
+          <p class="module-cta"><span>{{ page['Home Module 2']['Call to Action'] }}</span></p>
+        </div>
+        <div class="module-image">
+          <img src="https://source.unsplash.com/collection/1186428/800x600?v=5">
+        </div>
+      </a>
+      <a class="module link-through light-img three" href="#">
+        <div class="module-details">
+          <h3>{{ page['Home Module 3'].Header }}</h3>
+          <div class="module-text"><p>{{ page['Home Module 3'].Text }}</p></div>
+          <p class="module-cta">{{ page['Home Module 3']['Call to Action'] }}</p>
+        </div>
+        <div class="module-image">
+          <img src="https://source.unsplash.com/collection/1186428/800x600?v=6">
+        </div>
+      </a>
+    </div>
+
+    <div class="hr-h"></div>
+
+    <div class="home-newsletter">
+      <div class="newsletter-signup">
+        <h2>Subscribe for updates <br>& announcements</h2>
+        {% include newsletter-form.html %}
+      </div>
+      <div class="newsletter-description">
+        <h3>What you'll get</h3>
+        <ul>
+          <li>Nullam id dolor id nibh ultricies vehicula ut id elit.</li>
+          <li>Eget risus varius blandit sit amet non magna.</li>
+          <li>Vestibulum id ligula porta felis euismod semper.</li>
+          <li>Donec sed odio dui.</li>
+        </ul>
+      </div>
+    </div>
+
   </div>
 
 </div>

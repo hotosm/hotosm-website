@@ -7,4 +7,3 @@ Summary Text: Vestibulum id ligula porta felis euismod semper. Etiam porta sem m
 Feature Image: https://source.unsplash.com/JRhVvF5VHG4/1280x720
 Person: Rebecca Firth
 ---
-

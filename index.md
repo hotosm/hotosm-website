@@ -2,7 +2,7 @@
 title: Home
 position: 0
 Project:
-- Dar Ramani Huria — Dar Open Map
+- Malaria Elimination Campaign
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 Stats:
   Community Mappers: '42,575'
@@ -31,4 +31,4 @@ Home Module 3:
 layout: home
 ---
 
-HOT is an international team dedicated to humanitarian action and community development through open mapping
+HOT is an international team dedicated to <span>humanitarian action and community development </span><span>through open mapping.</span>
