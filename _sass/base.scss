@@ -13,6 +13,18 @@ body {
   overflow-x: hidden;
 }
 
+.page-body {
+  @media (min-width: $screen-sm) {
+    position: relative;
+    padding-top: 137px;
+  }
+}
+
+.page-content {
+  position: relative;
+  z-index: 100;
+}
+
 h1, h2 {
   font-family: $font-headline;
   font-size: 4rem;
@@ -946,12 +958,36 @@ img {
 ////////////////////////////////////////////////
 
 
-#nav-container {
-  position: relative;
-  margin-bottom: 24px;
+.nav-wrapper {
   @media (min-width: $screen-sm) {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+}
+
+.nav-sticky {
+  @media (min-width: $screen-sm) {
+    position: sticky;
+    top: -65px;
+    z-index: 1000;
+  }
+}
+
+#nav-container {
+  transition: all .3s ease;
+  @media (min-width: $screen-sm) {
+    background-color: $white;
     display: flex;
     flex-direction: column-reverse;
+    &.fixed-nav {
+      box-shadow: $hover-box-shadow;
+      .hr-v {
+        height: 24px;
+      }
+    }
   }
   @media (max-width: $screen-sm) {
     background-color: $red-light;
@@ -965,10 +1001,12 @@ img {
   a {
     text-decoration: none;
   }
-  .nav-logo {
-    @media (max-width: $screen-sm) {
-      display: none;
-    }
+}
+
+.nav-main-container {
+  @media (min-width: $screen-sm) {
+    position: relative;
+    height: 48px;
   }
 }
 
@@ -982,19 +1020,57 @@ img {
   }
 }
 
-.nav-main {
+.nav-logo {
   @media (min-width: $screen-sm) {
+    display: block;
+    margin-left: 40px;
+    width: 200px;
+    height: 48px;
+    transition: all .3s ease;
+    &.fixed-nav {
+      width: 132px;
+      height: 32px;
+      margin-top: 8px;
+    }
+    .nav-logo-icon {
+      width: 40%;
+      margin-right: 2%;
+    }
+    .nav-logo-text {
+      width: 54%;
+      opacity: 1;
+      transition: opacity .3s ease;
+      &.fixed-nav {
+        opacity: 0;
+      }
+    }
+  }
+  @media (max-width: $screen-sm) {
+    display: none;
+  }
+}
+
+.nav-main {
+  transition: width .3s ease;
+  @media (min-width: $screen-sm) {
+    width: 82%;
+    position: absolute;
+    top: 0;
+    right: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0 40px 0 38px;
+    &.fixed-nav {
+      width: 91%;
+    }
   }
   .nav-group {
     display: inline-block;
     a {
       padding: 6px 0;
       @media (min-width: $screen-sm) {
-        padding: 13px 0;
+        padding: 14px 0;
         margin-right: 24px;
         border-top: 2px solid transparent;
         border-bottom: 2px solid transparent;
@@ -1017,6 +1093,7 @@ img {
       width: 64px;
       margin: 16px 0;
       background-color: tint($red, 50%);
+      transition: height .3s ease;
       &.first {
         display: none;
       }
@@ -1333,7 +1410,7 @@ img {
 
 .news-index-sidebar-wrap {
   position: sticky;
-  top: 30px;
+  top: 78px;
 }
 
 .news-feature-image {
@@ -1552,7 +1629,7 @@ img {
 
 .meta-item.news-projects {
   position: sticky;
-  top: 22px;
+  top: 70px;
   background-color: $tan;
   padding: 16px 16px 19px;
   border-bottom: none;
