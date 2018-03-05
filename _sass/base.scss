@@ -398,7 +398,7 @@ img {
   @media (min-width: $screen-xs) {
     grid-template-columns: repeat(3, 1fr);
   }
-  @media (min-width: $screen-xs) {
+  @media (max-width: $screen-xs) {
     grid-template-columns: repeat(1, 1fr);
   }
 }
@@ -971,7 +971,7 @@ img {
 .nav-sticky {
   @media (min-width: $screen-sm) {
     position: sticky;
-    top: -65px;
+    top: -41px;
     z-index: 1000;
   }
 }
@@ -986,6 +986,10 @@ img {
       box-shadow: $hover-box-shadow;
       .hr-v {
         height: 24px;
+      }
+      .nav-main-container {
+        padding: 0;
+        height: 48px;
       }
     }
   }
@@ -1004,9 +1008,11 @@ img {
 }
 
 .nav-main-container {
+  transition: all .3s ease;
   @media (min-width: $screen-sm) {
     position: relative;
-    height: 48px;
+    height: 96px;
+    padding: 24px 0;
   }
 }
 
@@ -1055,14 +1061,16 @@ img {
   @media (min-width: $screen-sm) {
     width: 82%;
     position: absolute;
-    top: 0;
+    top: 24px;
     right: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0 40px 0 38px;
+    transition: all .3s ease;
     &.fixed-nav {
       width: 91%;
+      top: 0;
     }
   }
   .nav-group {
@@ -1107,7 +1115,6 @@ img {
     align-items: center;
     flex-direction: row-reverse;
     border-bottom: 1px solid $border-color;
-    margin-bottom: 24px;
   }
   .tagline {
     font-size: .75rem;
@@ -1842,6 +1849,10 @@ img {
   margin-bottom: 40px;
   position: relative;
   border-bottom: 1px solid $border-color;
+  @media (min-width: $screen-sm) {
+    height: 532px;
+    margin-top: -32px;
+  }
   .btn-map {
     position: absolute;
     bottom: 24px;
