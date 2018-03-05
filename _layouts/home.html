@@ -66,28 +66,31 @@ layout: default
     </div>
   </div>
 
-  <div class="container news-preview">
+  <div class="news-preview">
+    <div class="container">
 
-    <header class="module-header">
-      <h6>Updates</h6>
-    </header>
+      <header class="module-header">
+        <h6>Updates</h6>
+      </header>
 
-    <div class="news-preview-group">
+      <div class="news-preview-group">
 
-      {% for post in site.posts limit:3 %}
-        <div class="news-preview-item item-{{ forloop.index }}">
-          <div class="news-preview-image">
-            <img src="{{ post['Feature Image'] }}">
-          </div>
-          <div class="news-preview-details">
-            <p class="news-preview-meta">{{ post.date | date: '%e %b %Y' }}</p>
-            <div class="news-preview-text">
-              <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
-              <p>{{ post['Summary Text'] }}</p>
+        {% for post in site.posts limit:3 %}
+          <div class="news-preview-item item-{{ forloop.index }}">
+            <div class="news-preview-image">
+              <img src="{{ post['Feature Image'] }}">
+            </div>
+            <div class="news-preview-details">
+              <p class="news-preview-meta">{{ post.date | date: '%e %b %Y' }}</p>
+              <div class="news-preview-text">
+                <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
+                <p>{{ post['Summary Text'] }}</p>
+              </div>
             </div>
           </div>
-        </div>
-      {% endfor %}
+        {% endfor %}
+
+      </div>
 
     </div>
   </div>

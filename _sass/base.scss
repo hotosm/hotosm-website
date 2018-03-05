@@ -66,6 +66,9 @@ h3 {
   line-height: 1.3;
   margin: 0 0 12px;
   color: $blue-dark;
+  @media (max-width: $screen-md) {
+    font-size: 1.5rem;
+  }
   @media (max-width: $screen-sm) {
     font-size: 1.375rem;
   }
@@ -411,12 +414,14 @@ img {
   display: grid;
   grid-gap: 0;
   grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: 440px;
+  grid-template-rows: 400px;
   border-radius: 2px;
   overflow: hidden;
   margin-bottom: 24px;
-  // background-color: $tan;
   background-color: shade($blue-dark, 35%);
+  @media (max-width: $screen-md) {
+    grid-template-rows: 340px;
+  }
   .highlight-details {
     grid-column: 1 / 7;
     display: flex;
@@ -515,6 +520,11 @@ img {
   }
 }
 
+.news-preview {
+  background-color: $tan;
+  padding: 40px 0 16px;
+}
+
 .news-preview-group {
   margin-bottom: 24px;
   @media (min-width: $screen-xs) {
@@ -525,7 +535,7 @@ img {
   }
   .news-preview-item {
     padding-bottom: 28px;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid shade($border-color, 10%);
     @media (max-width: $screen-xs) {
       margin-bottom: 24px;
     }
@@ -732,7 +742,7 @@ img {
   }
   .hr-v {
     width: 1px;
-    background-color: shade($border-color, 20%);
+    background-color: shade($border-color, 10%);
     margin: 0 40px;
     align-self: stretch;
   }
@@ -802,8 +812,11 @@ img {
     @media (min-width: $screen-xs) {
       display: grid;
       grid-template-columns: repeat(12, 1fr);
-      grid-template-rows: 400px;
+      grid-template-rows: 340px;
       grid-gap: 24px;
+    }
+    @media (min-width: $screen-md) {
+      grid-template-rows: 400px;
     }
     .module-details {
       grid-column: 1 / 6;
@@ -882,14 +895,9 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 40px 0;
+  padding: 80px 0 40px;
   @media (min-width: $screen-sm) {
     min-height: 560px;
-  }
-  @media (max-width: $screen-sm) {
-    // h2 {
-    //   padding-top: 100px;
-    // }
   }
   &:before {
     content: '';
@@ -943,6 +951,9 @@ img {
     border-bottom: 1px solid tint($blue-dark, 65%);
     margin-bottom: 16px;
     @media (min-width: $screen-sm) {
+      font-size: 1.125rem;
+    }
+    @media (min-width: $screen-md) {
       font-size: 1.375rem;
     }
     &:hover, &:active, &:focus {
@@ -1023,6 +1034,9 @@ img {
     text-transform: uppercase;
     letter-spacing: .035em;
     text-decoration: none;
+    @media (min-width: $screen-sm) and (max-width: $screen-md) {
+      font-size: 0.875rem;
+    }
   }
 }
 
@@ -1033,6 +1047,11 @@ img {
     width: 200px;
     height: 48px;
     transition: all .3s ease;
+    @media (min-width: $screen-sm) and (max-width: $screen-md) {
+      width: 167px;
+      height: 40px;
+      margin-top: 4px;
+    }
     &.fixed-nav {
       width: 132px;
       height: 32px;
@@ -1082,15 +1101,19 @@ img {
         margin-right: 24px;
         border-top: 2px solid transparent;
         border-bottom: 2px solid transparent;
-        &:last-child {
-          margin-right: 0;
-        }
         &:hover, &:active, &:focus {
           border-bottom: 2px solid $red;
         }
       }
+      @media (min-width: $screen-sm) and (max-width: $screen-md) {
+        padding: 15px 0;
+        margin-right: 16px;
+      }
       @media (max-width: $screen-sm) {
         display: block;
+      }
+      &:last-child {
+        margin-right: 0;
       }
     }
   }
@@ -1544,6 +1567,10 @@ img {
     letter-spacing: 0;
     line-height: 1.35;
     grid-column: 4 / -1;
+    @media (max-width: $screen-md) {
+      font-size: 2.5rem;
+      margin-top: 4px;
+    }
     @media (max-width: $screen-sm) {
       font-size: 1.75rem;
       margin-top: 8px;
@@ -1630,7 +1657,7 @@ img {
   }
   a {
     text-decoration: none;
-    border-bottom: 1px solid shade($border-color, 20%);
+    border-bottom: 1px solid shade($border-color, 10%);
   }
 }
 
@@ -1684,7 +1711,7 @@ img {
     margin-bottom: 40px;
   }
   .news-index-item {
-    border-bottom-color: shade($border-color, 20%);
+    border-bottom-color: shade($border-color, 10%);
     margin-bottom: 24px;
     @media (min-width: $screen-xs) {
       margin-bottom: 0;
@@ -1850,8 +1877,8 @@ img {
   position: relative;
   border-bottom: 1px solid $border-color;
   @media (min-width: $screen-sm) {
-    height: 532px;
-    margin-top: -32px;
+    height: 564px;
+    margin-top: -64px;
   }
   .btn-map {
     position: absolute;
@@ -1880,6 +1907,7 @@ img {
   @media (min-width: $screen-xs) {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    margin-top: -64px;
   }
 }
 
@@ -1889,6 +1917,9 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  @media (min-width: $screen-xs) {
+    padding-top: 64px;
+  }
   .country-name {
     margin: 0 auto;
     padding: 40px;
@@ -1916,8 +1947,8 @@ img {
   flex-direction: column;
   justify-content: center;
   @media (min-width: $screen-xs) {
-    padding: 40px;
-    min-height: 500px;
+    padding: 104px 40px 40px;
+    min-height: 564px;
   }
   p {
     color: tint($blue-light, 20%);
@@ -2006,7 +2037,7 @@ img {
   }
   .btn {
     margin-bottom: 4px;
-    @media (max-width: $screen-xs) {
+    @media (max-width: $screen-md) {
       font-size: 0.875rem;
     }
   }
@@ -2035,9 +2066,9 @@ img {
 .home-header {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  grid-gap: 24px;
+  grid-gap: 16px 24px;
   margin: 72px 0 40px;
-  @media (max-width: $screen-sm) {
+  @media (max-width: $screen-md) {
     margin: 48px 0 24px;
   }
   @media (max-width: $screen-xs) {
@@ -2200,7 +2231,7 @@ img {
   display: flex;
   justify-content: space-between;
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 24px;
   position: relative;
   @media (max-width: $screen-sm) {
     flex-wrap: wrap;
