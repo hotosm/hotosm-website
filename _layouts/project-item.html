@@ -16,9 +16,15 @@ layout: default
 
       {% if page.Country[0] != '' %}
         <p class="project-countries">
-          {% for country in page.Country %}
-            <span class="project-country"><a href="#">{{ country }}</a></span>
+
+          {% for page-country in page.Country %}
+            {% for country in site.where-we-work %}
+              {% if page-country == country.title %}
+                <span class="project-country"><a href="{{ country.url }}">{{ country.title }}</a></span>
+              {% endif %}
+            {% endfor %}
           {% endfor %}
+
         </p>
       {% endif %}
 
@@ -28,7 +34,7 @@ layout: default
   <div class="project-body">
 
     {% if page['Feature Image'] %}
-      <img class="project-feature-image" src="https://source.unsplash.com/collection/1439704/1280x900">
+      <img class="project-feature-image" src="{{ page['Feature Image' ]}}">
     {% endif %}
 
     <section class="article">
@@ -51,9 +57,15 @@ layout: default
         <div class="meta-item project-impact">
           <h5>Impact Areas</h5>
           <ul>
+
             {% for area in page['Impact Area'] %}
-              <li><a href="#">{{ area }}</a></li>
+              {% for impact-area in site.impact-areas %}
+                {% if area == impact-area.title %}
+                  <li><a href="{{ impact-area.url }}">{{ impact-area.title }}</a></li>
+                {% endif %}
+              {% endfor %}
             {% endfor %}
+
           </ui>
         </div>
       {% endif %}
@@ -62,9 +74,15 @@ layout: default
         <div class="meta-item">
           <h5>Coordination</h5>
           <ul>
-            {% for person in page.Person %}
-              <li><a href="#">{{ person }}</a></li>
+
+            {% for coordinator in page.Person %}
+              {% for person in site.people %}
+                {% if coordinator == person.title %}
+                  <li><a href="{{ person.url }}">{{ person.title }}</a></li>
+                {% endif %}
+              {% endfor %}
             {% endfor %}
+
           </ui>
         </div>
       {% endif %}
@@ -73,8 +91,12 @@ layout: default
         <div class="meta-item">
           <h5>Partners</h5>
           <ul>
-            {% for partner in page.Partner %}
-              <li><a href="#">{{ partner }}</a></li>
+            {% for page-partner in page.Partner %}
+              {% for partner in site.partners %}
+                {% if page-partner == partner.title %}
+                  <li><a href="#">{{ partner.title }}</a></li>
+                {% endif %}
+              {% endfor %}
             {% endfor %}
           </ui>
         </div>

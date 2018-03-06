@@ -61,9 +61,15 @@ layout: default
         <div class="meta-item">
           <h5>Countries</h5>
           <ul>
-            {% for country in page.Country %}
-              <li><a href="#">{{ country }}</a></li>
+
+            {% for page-country in page.Country %}
+              {% for country in site.where-we-work %}
+                {% if page-country == country.title %}
+                  <li><a href="{{ country.url }}">{{ country.title }}</a></li>
+                {% endif %}
+              {% endfor %}
             {% endfor %}
+
           </ui>
         </div>
       {% endif %}

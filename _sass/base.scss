@@ -10,6 +10,19 @@ body {
   font-family: $font-default;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+.page-body {
+  @media (min-width: $screen-sm) {
+    position: relative;
+    padding-top: 137px;
+  }
+}
+
+.page-content {
+  position: relative;
+  z-index: 100;
 }
 
 h1, h2 {
@@ -24,13 +37,19 @@ h1, h2 {
     font-size: 3rem;
   }
   @media (max-width: $screen-xs) {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
   &.boxed {
     display: inline-block;
     color: $white;
     background-color: $red;
     padding: 6px 18px 14px;
+    @media (max-width: $screen-sm) {
+      padding: 12px 16px 14px;
+    }
+    @media (max-width: $screen-xs) {
+      padding: 11px 17px 14px;
+    }
   }
 }
 
@@ -47,6 +66,12 @@ h3 {
   line-height: 1.3;
   margin: 0 0 12px;
   color: $blue-dark;
+  @media (max-width: $screen-md) {
+    font-size: 1.5rem;
+  }
+  @media (max-width: $screen-sm) {
+    font-size: 1.375rem;
+  }
 }
 
 h4 {
@@ -54,6 +79,9 @@ h4 {
   line-height: 1.3;
   margin: 0 0 8px;
   color: $blue-dark;
+  @media (max-width: $screen-xs) {
+    font-size: 1.125rem;
+  }
 }
 
 h5 {
@@ -66,6 +94,9 @@ h6 {
   font-size: 1rem;
   font-weight: 600;
   color: $blue-grey;
+  @media (max-width: $screen-xs) {
+    font-size: .875rem;
+  }
 }
 
 a {
@@ -98,6 +129,9 @@ img {
     font-size: 1.125rem;
     margin-bottom: 16px;
     color: tint($blue-dark, 15%);
+    @media (max-width: $screen-xs) {
+      font-size: 1rem;
+    }
   }
   ul {
     padding-left: 28px;
@@ -145,6 +179,13 @@ img {
   }
 }
 
+.highlight-hr {
+  width: 40px;
+  height: 2px;
+  background-color: shade($border-color, 10%);
+  margin-bottom: 24px;
+}
+
 .page-header {
   margin-top: 48px;
   margin-bottom: 32px;
@@ -181,6 +222,7 @@ img {
     background: url(../images/arrow-submit.svg);
     background-position: left 27px center;
     background-repeat: no-repeat;
+    background-color: $white;
     text-indent: -9999px;
     border: none;
     border-left: 1px solid $border-color;
@@ -262,9 +304,18 @@ img {
     background-color: transparent;
     border: 1px solid $blue-grey;
     color: $blue-grey;
+    padding: 11px 13px;
+    &.btn-chevron {
+      &:after {
+        background-image: url(../images/chevron-blue-grey.svg);
+      }
+    }
   }
   &.btn-lg {
     padding: 16px 16px;
+    &.btn-outline {
+      padding: 15px 15px;
+    }
   }
   &.btn-chevron {
     position: relative;
@@ -311,6 +362,15 @@ img {
       background-position: center center;
       background-size: contain;
     }
+    @media (max-width: $screen-xs) {
+      font-size: 0.875rem;
+      padding-right: 36px;
+      padding-bottom: 13px;
+      &:after {
+        width: 12px;
+        height: 12px;
+      }
+    }
   }
   &.btn-block {
     display: block;
@@ -326,7 +386,7 @@ img {
 .container {
   padding: 0 16px;
   margin: 0 auto;
-  @media (min-width: $screen-sm) {
+  @media (min-width: $screen-xs) {
     padding: 0 40px;
   }
 }
@@ -334,10 +394,15 @@ img {
 .module-group {
   display: grid;
   grid-gap: 24px;
-  grid-template-columns: repeat(3, 1fr);
   margin-bottom: 24px;
   &.grid-two-rows {
     grid-template-rows: repeat(2, 1fr);
+  }
+  @media (min-width: $screen-xs) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  @media (max-width: $screen-xs) {
+    grid-template-columns: repeat(1, 1fr);
   }
 }
 
@@ -349,12 +414,14 @@ img {
   display: grid;
   grid-gap: 0;
   grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: 440px;
+  grid-template-rows: 400px;
   border-radius: 2px;
   overflow: hidden;
   margin-bottom: 24px;
-  // background-color: $tan;
   background-color: shade($blue-dark, 35%);
+  @media (max-width: $screen-md) {
+    grid-template-rows: 340px;
+  }
   .highlight-details {
     grid-column: 1 / 7;
     display: flex;
@@ -399,12 +466,6 @@ img {
         content: '/';
       }
     }
-  }
-  .highlight-hr {
-    width: 40px;
-    height: 2px;
-    background-color: $blue-grey;
-    margin: 8px 0 24px;
   }
   .highlight-image {
     grid-column: 7 / -1;
@@ -459,15 +520,25 @@ img {
   }
 }
 
+.news-preview {
+  background-color: $tan;
+  padding: 40px 0 16px;
+}
+
 .news-preview-group {
-  display: grid;
-  grid-gap: 24px;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, 1fr);
   margin-bottom: 24px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-gap: 24px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+  }
   .news-preview-item {
     padding-bottom: 28px;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid shade($border-color, 10%);
+    @media (max-width: $screen-xs) {
+      margin-bottom: 24px;
+    }
   }
   .news-preview-details {
     // padding: 24px 0;
@@ -482,23 +553,28 @@ img {
   .news-preview-meta {
     font-size: 0.8125rem;
     font-weight: 600;
-    color: $orange;
+    color: $blue-light;
   }
   .news-preview-text {
+    a {
+      text-decoration: none;
+    }
     h4 {
-      // margin-bottom: 16px;
+
     }
     p {
       font-size: 0.9375rem;
     }
   }
-  .one {
+  .item-1 {
     grid-column: 1 / 2;
     grid-row: 1 / 3;
     .news-preview-details {
-      display: grid;
-      grid-gap: 24px;
-      grid-template-columns: repeat(6, 1fr);
+      @media (min-width: $screen-xs) {
+        display: grid;
+        grid-gap: 24px;
+        grid-template-columns: repeat(6, 1fr);
+      }
     }
     .news-preview-text {
       grid-column: 2 / -1;
@@ -507,21 +583,24 @@ img {
       margin-bottom: 18px;
     }
     .news-preview-meta {
-      margin-top: 2px;
+      margin: 2px 0 4px;
     }
   }
-  .two {
+  .item-2 {
     grid-column: 2 / -1;
     grid-row: 1 / 2;
   }
-  .three {
+  .item-3 {
     grid-column: 2 / -1;
     grid-row: 2 / 3;
   }
-  .two, .three {
+  .item-2, .item-3 {
     display: grid;
     grid-gap: 24px;
     grid-template-columns: repeat(3, 1fr);
+    @media (max-width: $screen-xs) {
+      grid-gap: 16px;
+    }
     .news-preview-details {
       grid-column: 2 / -1;
     }
@@ -546,6 +625,9 @@ img {
   flex-grow: 1;
   p {
     margin-bottom: 12px;
+    @media (max-width: $screen-xs) {
+      font-size: 0.875rem;
+    }
   }
 }
 
@@ -559,10 +641,10 @@ img {
   color: $blue-dark;
   position: relative;
   top: -9px;
+  margin-top: 32px;
   &:after {
     content: '';
     display: block;
-    // float: right;
     position: absolute;
     right: 0;
     bottom: -9px;
@@ -600,11 +682,18 @@ img {
     grid-auto-rows: 1fr;
     grid-gap: 24px;
     border: 1px solid $border-color;
+    @media (max-width: $screen-xs) {
+      grid-template-rows: auto 240px;
+      grid-gap: 0px;
+    }
     .module-details {
       padding: 24px;
       border-bottom: none;
       border-top-left-radius: $default-border-radius;
       border-top-right-radius: $default-border-radius;
+      @media (max-width: $screen-xs) {
+        padding: 16px;
+      }
     }
     .module-image {
       img {
@@ -653,7 +742,7 @@ img {
   }
   .hr-v {
     width: 1px;
-    background-color: shade($border-color, 20%);
+    background-color: shade($border-color, 10%);
     margin: 0 40px;
     align-self: stretch;
   }
@@ -663,24 +752,26 @@ img {
 }
 
 .two-rows {
-  .one {
-    grid-row: 1 / 3;
-    grid-gap: 0px;
-  }
-  .two {
-    grid-column: 2 / -1;
-    grid-row: 1 / 2;
-    grid-template-columns: repeat(2, 1fr);
-    .module-details {
-      padding-right: 0;
+  @media (min-width: $screen-xs) {
+    .one {
+      grid-row: 1 / 3;
+      grid-gap: 0px;
     }
-  }
-  .three {
-    grid-column: 2 / -1;
-    grid-row: 2 / 3;
-    grid-template-columns: repeat(2, 1fr);
-    .module-details {
-      padding-right: 0;
+    .two {
+      grid-column: 2 / -1;
+      grid-row: 1 / 2;
+      grid-template-columns: repeat(2, 1fr);
+      .module-details {
+        padding-right: 0;
+      }
+    }
+    .three {
+      grid-column: 2 / -1;
+      grid-row: 2 / 3;
+      grid-template-columns: repeat(2, 1fr);
+      .module-details {
+        padding-right: 0;
+      }
     }
   }
 }
@@ -689,9 +780,15 @@ img {
   padding: 0;
   border: 1px solid $border-color;
   border-radius: 2px;
-  margin-bottom: 24px;
+  margin-bottom: 16px;
+  @media (min-width: $screen-xs) {
+    margin-bottom: 24px;
+  }
   .module-details {
     padding: 24px;
+    @media (max-width: $screen-xs) {
+      padding: 16px;
+    }
     h3 {
       margin-bottom: 8px;
     }
@@ -712,31 +809,49 @@ img {
 
 .project-index-highlights {
   .project-module {
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: 400px;
-    grid-gap: 24px;
+    @media (min-width: $screen-xs) {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      grid-template-rows: 340px;
+      grid-gap: 24px;
+    }
+    @media (min-width: $screen-md) {
+      grid-template-rows: 400px;
+    }
     .module-details {
       grid-column: 1 / 6;
-      padding-right: 0;
+      @media (min-width: $screen-xs) {
+        padding-right: 0;
+      }
     }
     .module-image {
       grid-column: 6 / -1;
+    }
+  }
+  @media (max-width: $screen-xs) {
+    .module-cta {
+      display: none;
     }
   }
 }
 
 .project-index-all {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   grid-auto-rows: min-content;
   grid-gap: 0 24px;
-  margin-bottom: 16px;
+  @media (min-width: $screen-xs) {
+    grid-template-columns: repeat(3, 1fr);
+    margin-bottom: 16px;
+  }
   .project-module {
     display: grid;
     grid-template-rows: auto 240px;
     .module-details {
       padding: 20px 24px;
+      @media (max-width: $screen-xs) {
+        padding: 14px 16px;
+      }
     }
     .module-text {
       padding-right: 0;
@@ -780,14 +895,9 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 40px 0;
+  padding: 80px 0 40px;
   @media (min-width: $screen-sm) {
     min-height: 560px;
-  }
-  @media (max-width: $screen-sm) {
-    // h2 {
-    //   padding-top: 100px;
-    // }
   }
   &:before {
     content: '';
@@ -841,6 +951,9 @@ img {
     border-bottom: 1px solid tint($blue-dark, 65%);
     margin-bottom: 16px;
     @media (min-width: $screen-sm) {
+      font-size: 1.125rem;
+    }
+    @media (min-width: $screen-md) {
       font-size: 1.375rem;
     }
     &:hover, &:active, &:focus {
@@ -856,12 +969,40 @@ img {
 ////////////////////////////////////////////////
 
 
-#nav-container {
-  position: relative;
-  margin-bottom: 24px;
+.nav-wrapper {
   @media (min-width: $screen-sm) {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+}
+
+.nav-sticky {
+  @media (min-width: $screen-sm) {
+    position: sticky;
+    top: -41px;
+    z-index: 1000;
+  }
+}
+
+#nav-container {
+  transition: all .3s ease;
+  @media (min-width: $screen-sm) {
+    background-color: $white;
     display: flex;
     flex-direction: column-reverse;
+    &.fixed-nav {
+      box-shadow: $hover-box-shadow;
+      .hr-v {
+        height: 24px;
+      }
+      .nav-main-container {
+        padding: 0;
+        height: 48px;
+      }
+    }
   }
   @media (max-width: $screen-sm) {
     background-color: $red-light;
@@ -875,10 +1016,14 @@ img {
   a {
     text-decoration: none;
   }
-  .nav-logo {
-    @media (max-width: $screen-sm) {
-      display: none;
-    }
+}
+
+.nav-main-container {
+  transition: all .3s ease;
+  @media (min-width: $screen-sm) {
+    position: relative;
+    height: 96px;
+    padding: 24px 0;
   }
 }
 
@@ -889,34 +1034,86 @@ img {
     text-transform: uppercase;
     letter-spacing: .035em;
     text-decoration: none;
+    @media (min-width: $screen-sm) and (max-width: $screen-md) {
+      font-size: 0.875rem;
+    }
+  }
+}
+
+.nav-logo {
+  @media (min-width: $screen-sm) {
+    display: block;
+    margin-left: 40px;
+    width: 200px;
+    height: 48px;
+    transition: all .3s ease;
+    @media (min-width: $screen-sm) and (max-width: $screen-md) {
+      width: 167px;
+      height: 40px;
+      margin-top: 4px;
+    }
+    &.fixed-nav {
+      width: 132px;
+      height: 32px;
+      margin-top: 8px;
+    }
+    .nav-logo-icon {
+      width: 40%;
+      margin-right: 2%;
+    }
+    .nav-logo-text {
+      width: 54%;
+      opacity: 1;
+      transition: opacity .3s ease;
+      &.fixed-nav {
+        opacity: 0;
+      }
+    }
+  }
+  @media (max-width: $screen-sm) {
+    display: none;
   }
 }
 
 .nav-main {
+  transition: width .3s ease;
   @media (min-width: $screen-sm) {
+    width: 82%;
+    position: absolute;
+    top: 24px;
+    right: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0 40px 0 38px;
+    transition: all .3s ease;
+    &.fixed-nav {
+      width: 91%;
+      top: 0;
+    }
   }
   .nav-group {
     display: inline-block;
     a {
       padding: 6px 0;
       @media (min-width: $screen-sm) {
-        padding: 13px 0;
+        padding: 14px 0;
         margin-right: 24px;
         border-top: 2px solid transparent;
         border-bottom: 2px solid transparent;
-        &:last-child {
-          margin-right: 0;
-        }
         &:hover, &:active, &:focus {
           border-bottom: 2px solid $red;
         }
       }
+      @media (min-width: $screen-sm) and (max-width: $screen-md) {
+        padding: 15px 0;
+        margin-right: 16px;
+      }
       @media (max-width: $screen-sm) {
         display: block;
+      }
+      &:last-child {
+        margin-right: 0;
       }
     }
   }
@@ -927,6 +1124,7 @@ img {
       width: 64px;
       margin: 16px 0;
       background-color: tint($red, 50%);
+      transition: height .3s ease;
       &.first {
         display: none;
       }
@@ -940,7 +1138,6 @@ img {
     align-items: center;
     flex-direction: row-reverse;
     border-bottom: 1px solid $border-color;
-    margin-bottom: 24px;
   }
   .tagline {
     font-size: .75rem;
@@ -1196,12 +1393,18 @@ img {
 
 .news-index-header {
   margin-bottom: 24px;
+  @media (max-width: $screen-xs) {
+    margin-bottom: 14px;
+  }
 }
 
 .news-index-sidebar {
   grid-column: 1 / 8;
   border-top: 1px solid $border-color;
   padding-top: 28px;
+  @media (max-width: $screen-xs) {
+    padding-top: 14px;
+  }
 }
 
 .news-index-list {
@@ -1237,33 +1440,7 @@ img {
 
 .news-index-sidebar-wrap {
   position: sticky;
-  top: 30px;
-}
-
-.news-newsletter {
-  width: 100%;
-  margin: 30px 0 24px;
-  padding: 88px 24px 24px;
-  position: relative;
-  background-image: url(/images/dot-pattern.svg);
-  border-radius: 2px;
-  transition: box-shadow .3s ease-in-out;
-  &:hover {
-    box-shadow: $default-box-shadow;
-  }
-  h2 {
-    font-size: 2.5rem;
-    position: absolute;
-    top: -20px;
-  }
-  @media (max-width: $screen-sm) {
-    padding: 60px 16px 16px;
-    h2 {
-      font-size: 1.75rem;
-      position: absolute;
-      top: -16px;
-    }
-  }
+  top: 78px;
 }
 
 .news-feature-image {
@@ -1345,6 +1522,9 @@ img {
     margin-bottom: 24px;
     h3 {
       font-size: 2rem;
+      @media (max-width: $screen-sm) {
+        font-size: 1.75rem;
+      }
     }
     .news-list-summary {
       grid-template-columns: repeat(6, 1fr);
@@ -1387,6 +1567,10 @@ img {
     letter-spacing: 0;
     line-height: 1.35;
     grid-column: 4 / -1;
+    @media (max-width: $screen-md) {
+      font-size: 2.5rem;
+      margin-top: 4px;
+    }
     @media (max-width: $screen-sm) {
       font-size: 1.75rem;
       margin-top: 8px;
@@ -1473,13 +1657,13 @@ img {
   }
   a {
     text-decoration: none;
-    border-bottom: 1px solid shade($border-color, 20%);
+    border-bottom: 1px solid shade($border-color, 10%);
   }
 }
 
 .meta-item.news-projects {
   position: sticky;
-  top: 22px;
+  top: 70px;
   background-color: $tan;
   padding: 16px 16px 19px;
   border-bottom: none;
@@ -1512,25 +1696,32 @@ img {
   margin-bottom: 40px;
   display: grid;
   border-radius: 2px;
-  // grid-gap: 40px;
-  // grid-template-columns: repeat(6, 1fr);
+  @media (max-width: $screen-xs) {
+    padding: 34px 24px 0px;
+  }
 }
 
 .project-index-news-list {
-  display: grid;
-  grid-gap: 24px 40px;
-  grid-template-columns: repeat(2, 1fr);
-  // grid-column: 3 / -1;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-gap: 24px 40px;
+    grid-template-columns: repeat(2, 1fr);
+  }
   h6 {
     margin-bottom: 40px;
-    // grid-column: 1 / 3;
   }
   .news-index-item {
-    margin-bottom: 0;
-    border-bottom-color: shade($border-color, 20%);
-    &:nth-last-child(-n+2) {
-      border-bottom: none;
-      padding-bottom: 0;
+    border-bottom-color: shade($border-color, 10%);
+    margin-bottom: 24px;
+    @media (min-width: $screen-xs) {
+      margin-bottom: 0;
+      &:nth-last-child(-n+2) {
+        border-bottom: none;
+        padding-bottom: 0;
+      }
+    }
+    @media (max-width: $screen-xs) {
+      padding-bottom: 20px;
     }
   }
   .news-summary-text {
@@ -1548,6 +1739,9 @@ img {
 /////////////////// Projects ///////////////////
 ////////////////////////////////////////////////
 
+
+.project-index {
+}
 
 .project-item {
 
@@ -1682,31 +1876,50 @@ img {
   margin-bottom: 40px;
   position: relative;
   border-bottom: 1px solid $border-color;
+  @media (min-width: $screen-sm) {
+    height: 564px;
+    margin-top: -64px;
+  }
   .btn-map {
     position: absolute;
     bottom: 24px;
     right: 40px;
+    @media (max-width: $screen-xs) {
+      top: 16px;
+      right: 16px;
+      bottom: auto;
+      left: auto;
+      font-size: 0.875rem;
+    }
   }
 }
 
 .country-index {
   .project-index-highlights {
     margin-top: 40px;
+    @media (max-width: $screen-xs) {
+      margin-top: 24px;
+    }
   }
 }
 
 .country-index-header {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: -64px;
+  }
 }
 
 .country-map-area {
-  // height: 500px;
   background-color: tint($red, 85%);
   grid-column: 1 / 3;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  @media (min-width: $screen-xs) {
+    padding-top: 64px;
+  }
   .country-name {
     margin: 0 auto;
     padding: 40px;
@@ -1728,12 +1941,15 @@ img {
 
 .country-contact {
   background-color: $blue-dark;
-  padding: 40px;
-  min-height: 500px;
+  padding: 28px 16px 32px;
   color: $white;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  @media (min-width: $screen-xs) {
+    padding: 104px 40px 40px;
+    min-height: 564px;
+  }
   p {
     color: tint($blue-light, 20%);
     font-size: 0.875rem;
@@ -1773,6 +1989,8 @@ img {
 .project-index-header {
   position: absolute;
   bottom: 0;
+  right: 0;
+  left: 0;
 }
 
 .impact-area-item-index {
@@ -1788,29 +2006,51 @@ img {
     background-color: $blue-dark;
     padding: 22px;
     grid-column: 2 / 18;
+    @media (max-width: $screen-xs) {
+      padding: 16px;
+      grid-column: 1 / -4;
+    }
     .hr {
       width: 40px;
       height: 2px;
       background-color: $blue-grey;
       margin: 24px 0 4px;
+      @media (max-width: $screen-xs) {
+        margin-top: 16px;
+      }
     }
   }
   p {
     font-size: 1.125rem;
     color: tint($blue-dark, 90%);
+    @media (max-width: $screen-xs) {
+      font-size: 0.875rem;
+    }
   }
 }
 
 .project-index-areas {
   padding: 24px 0 20px;
   background-color: rgba(255,255,255,.65);
+  @media (max-width: $screen-xs) {
+    padding: 16px 0 14px;
+  }
   .btn {
     margin-bottom: 4px;
+    @media (max-width: $screen-md) {
+      font-size: 0.875rem;
+    }
+  }
+  @media (max-width: $screen-xs) {
+    width: 100%;
+    overflow-x: scroll;
   }
 }
 
-.project-index-highlights {
-
+.areas-wrapper {
+  @media (max-width: $screen-xs) {
+    width: 1000px;
+  }
 }
 
 
@@ -1826,8 +2066,14 @@ img {
 .home-header {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  grid-gap: 24px;
+  grid-gap: 16px 24px;
   margin: 72px 0 40px;
+  @media (max-width: $screen-md) {
+    margin: 48px 0 24px;
+  }
+  @media (max-width: $screen-xs) {
+    margin: 40px 0 16px;
+  }
   h1 {
     font-family: $font-default;
     font-size: 2.25rem;
@@ -1835,14 +2081,207 @@ img {
     text-transform: none;
     letter-spacing: 0;
     line-height: 1.25;
-    color: $red;
-    grid-column: 1 / 9;
+    grid-column: 1 / -1;
+    p {
+      color: $red;
+    }
+    @media (max-width: $screen-sm) {
+      font-size: 1.75rem;
+    }
+    @media (max-width: $screen-xs) {
+      font-size: 1.375rem;
+    }
+    @media (min-width: $screen-xs) {
+      span {
+        display: block;
+      }
+    }
   }
   .home-cta {
     grid-column: 1 / 9;
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(8, 1fr);
     grid-gap: 24px;
+    @media (max-width: $screen-sm) {
+      grid-column: 1 / -1;
+      margin-top: -8px;
+    }
+    @media (max-width: $screen-xs) {
+      margin-top: -10px;
+    }
+    .btn {
+      grid-column: span 3;
+      @media (max-width: $screen-sm) {
+        grid-column: span 3;
+      }
+      @media (max-width: $screen-xs) {
+        font-size: 14px;
+        grid-column: span 8;
+        &.hide-xs {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+.home-highlights {
+  margin-bottom: 24px;
+  width: 100%;
+  overflow-x: scroll;
+}
+
+.home-highlights-wrapper {
+  display: grid;
+  grid-template-columns: repeat(16, 1fr);
+  grid-gap: 24px;
+  width: 132%;
+  padding: 0 40px;
+  @media (max-width: $screen-sm) {
+    width: 147%;
+  }
+  @media (max-width: $screen-xs) {
+    padding: 0 16px;
+    grid-gap: 16px;
+    width: 164%;
+  }
+}
+
+.home-highlight {
+  display: block;
+  position: relative;
+  height: 360px;
+  grid-column: span 8;
+  border-radius: 2px;
+  overflow: hidden;
+  transition: all .3s ease-in-out;
+  @media (max-width: $screen-sm) {
+    height: 280px;
+  }
+  @media (max-width: $screen-xs) {
+    height: 200px;
+  }
+  &:after {
+    content: '';
+    background-image:
+    linear-gradient(to top, rgba(44, 48, 56, .65), rgba(250, 167, 30, .03));
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    transition: all .3s ease-in-out;
+  }
+  &:before {
+    content: '';
+    background-image:
+    linear-gradient(to top, rgba(215, 63, 63, .3), rgba(250, 167, 30, .1));
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+  }
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  &:hover {
+    box-shadow: $hover-box-shadow;
+    &:before {
+      opacity: 1;
+    }
+  }
+}
+
+.home-highlight-title {
+  position: absolute;
+  bottom: 15px;
+  left: 16px;
+  padding-right: 16px;
+  z-index: 10;
+  p {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: $white;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, .5);
+  }
+  span {
+    font-weight: 400;
+    opacity: .85;
+  }
+  i {
+    &:after {
+      content: ',';
+    }
+    &:last-child {
+      &:after {
+        content: '';
+      }
+    }
+  }
+}
+
+.home-stats {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin-bottom: 24px;
+  position: relative;
+  @media (max-width: $screen-sm) {
+    flex-wrap: wrap;
+    .hide-sm {
+      display: none;
+    }
+  }
+  .hr-v {
+    height: 100%;
+    padding: 40px 0;
+    margin: 0 16px;
+    align-self: center;
+    flex-basis: 1px;
+    flex-grow: 0;
+    flex-shrink: 0;
+
+  }
+}
+
+.home-stat {
+  width: 100%;
+  align-self: center;
+  border-top: 1px solid $border-color;
+  border-bottom: 1px solid $border-color;
+  padding: 27px 0 34px;
+  @media (max-width: $screen-sm) {
+    width: calc(50% - 17px)
+  }
+  p {
+    text-align: center;
+  }
+}
+
+.stat-number {
+  font-family: $font-headline;
+  font-size: 2.25rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .02em;
+  color: $red;
+  @media (max-width: $screen-xs) {
+    font-size: 1.875rem;
+  }
+}
+
+.stat-title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  @media (max-width: $screen-xs) {
+    font-size: 0.8125rem;
   }
 }
 
@@ -1857,7 +2296,10 @@ img {
 }
 
 .person-header {
-  margin-bottom: 40px;
+  margin-bottom: 16px;
+  @media (min-width: $screen-xs) {
+    margin-bottom: 40px;
+  }
 }
 
 .person-map-area {
@@ -1865,8 +2307,11 @@ img {
   background-image: url(../uploads/portugal-sample.png);
   background-position: center center;
   background-size: cover;
-  padding: 40px;
+  padding: 16px;
   position: relative;
+  @media (min-width: $screen-xs) {
+    padding: 40px;
+  }
   &:after {
     content: '';
     display: block;
@@ -1882,18 +2327,34 @@ img {
 }
 
 .person-header-info {
-  display: flex;
-  position: relative;
   z-index: 10;
+  display: flex;
+  @media (max-width: $screen-xs) {
+    flex-direction: column;
+  }
 }
 
 .person-photo {
   width: 153px;
   height: 153px;
+  @media (max-width: $screen-sm) {
+    width: 141px;
+    height: 141px;
+  }
+  @media (max-width: $screen-xs) {
+    width: 256px;
+    height: 256px;
+  }
   img {
     min-width: 100%;
     min-height: 100%;
     object-fit: cover;
+  }
+}
+
+.person-indentity {
+  @media (max-width: $screen-xs) {
+
   }
 }
 
@@ -1902,23 +2363,32 @@ img {
   font-weight: 600;
 }
 
-.person-member-type {
+.person-member-type, .person-title {
   display: inline-block;
   background: $blue-dark;
   padding: 19px 21px;
+  @media (max-width: $screen-xs) {
+    font-size: .875rem;
+    padding: 13px 15px;
+  }
+}
+
+.person-member-type {
+  @media (max-width: $screen-xs) {
+  }
 }
 
 .person-title {
-  display: inline-block;
   background: $blue-grey;
-  padding: 19px 21px;
 }
 
 .person-body {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-gap: 40px;
   margin-bottom: 40px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 40px;
+  }
   .person-main {
     grid-column: span 9;
     padding-top: 40px;
@@ -1944,40 +2414,53 @@ img {
 }
 
 .person-bio {
-  display: grid;
-  grid-template-columns: repeat(9, 1fr);
-  grid-gap: 0 24px;
   margin-bottom: 40px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-gap: 0 24px;
+  }
   h6 {
     grid-column: 1 / 3;
+    margin-bottom: 16px;
   }
   .person-content {
     grid-column: 3 / -1;
   }
   p {
-    font-size: 1.125rem;
     color: $blue-dark;
     margin-bottom: 16px;
     line-height: 1.5;
     &:last-child {
       margin-bottom: 0;
     }
+    @media (min-width: $screen-xs) {
+      font-size: 1.125rem;
+    }
   }
 }
 
 .person-posts {
-  display: grid;
-  grid-template-columns: repeat(9, 1fr);
-  grid-gap: 0 24px;
   padding-top: 40px;
   border-top: 1px solid $border-color;
   margin-bottom: 16px;
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  grid-gap: 0 24px;
   h6 {
     margin-bottom: 36px;
     grid-column: 1 / 3;
   }
   .person-posts-list {
     grid-column: 3 / -1;
+  }
+  @media (max-width: $screen-xs) {
+    .news-list-summary {
+      display: block;
+    }
+    .news-feature-image {
+      margin-bottom: 0;
+    }
   }
 }
 
@@ -1990,13 +2473,17 @@ img {
 }
 
 .person-projects-list {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 24px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 24px;
+  }
   .project-module {
     display: grid;
     grid-template-rows: auto 180px;
-    margin-bottom: 0;
+    @media (min-width: $screen-xs) {
+      margin-bottom: 0;
+    }
     h3 {
       font-size: 1.125rem;
     }
@@ -2022,9 +2509,15 @@ img {
 }
 
 .what-we-do-header {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
   margin: 48px 0 40px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 24px;
+  }
+  @media (max-width: $screen-xs) {
+    margin-bottom: 16px;
+  }
   h1 {
     grid-column: 1 / 6;
   }
@@ -2033,15 +2526,190 @@ img {
     margin-top: 11px;
   }
   .intro-text {
-    margin-bottom: 20px;
+    margin-bottom: 28px;
+    @media (max-width: $screen-xs) {
+      margin-bottom: 16px;
+    }
     p {
       font-size: 1.5rem;
       color: $red;
+      @media (max-width: $screen-sm) {
+        font-size: 1.375rem;
+      }
+      @media (max-width: $screen-xs) {
+        font-size: 1.125rem;
+      }
     }
   }
   .intro-btns {
+    @media (min-width: $screen-xs) {
+      display: grid;
+      grid-gap: 24px;
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .btn {
+      @media (max-width: $screen-xs) {
+        margin-bottom: 8px;
+        display: inline-block;
+        // font-size: 0.875rem;
+        &:after {
+          background: none;
+        }
+      }
+    }
+  }
+}
+
+.what-we-do-body {
+  background-color: $tan;
+  padding: 40px 0;
+  @media (max-width: $screen-xs) {
+    padding: 24px 0;
+  }
+  .hr-h {
+    background-color: shade($border-color, 10%);
+  }
+}
+
+.highlight-block {
+  @media (min-width: $screen-xs) {
     display: grid;
+    grid-template-columns: repeat(12, 1fr);
     grid-gap: 24px;
-    grid-template-columns: repeat(2, 1fr);
+  }
+  .highlight-hr {
+    margin-bottom: 18px;
+  }
+  h3 {
+    font-weight: 600;
+    @media (min-width: $screen-sm) {
+      font-size: 1.5rem;
+    }
+  }
+  p, li {
+    font-size: 1.125rem;
+    @media (max-width: $screen-sm) {
+      font-size: 1rem;
+    }
+  }
+  .highlight-image {
+    grid-column: 1 / 6;
+    grid-row: 1 / 2;
+    img {
+      display: block;
+    }
+  }
+  .highlight-details {
+    grid-column: 6 / -1;
+    grid-row: 1 / 2;
+    display: flex;
+    flex-direction: column;
+  }
+  .highlight-info {
+    flex: 1;
+    margin-bottom: 16px;
+  }
+  .highlight-options {
+    @media (max-width: $screen-xs) {
+      margin-bottom: 16px;
+    }
+    li {
+      margin-top: 10px;
+      line-height: 1.3;
+    }
+    a {
+      color: $blue-dark;
+    }
+  }
+}
+
+
+////////////////////////////////////////////////
+/////////////// Newsletter Signup //////////////
+////////////////////////////////////////////////
+
+
+.newsletter-signup {
+  width: 100%;
+  padding: 88px 24px 24px;
+  position: relative;
+  background-image: url(/images/dot-pattern.svg);
+  border-radius: 2px;
+  h2 {
+    font-size: 2.5rem;
+    position: absolute;
+    top: -20px;
+  }
+  @media (max-width: $screen-sm) {
+    padding: 60px 16px 16px;
+    h2 {
+      font-size: 1.75rem;
+      position: absolute;
+      top: -16px;
+    }
+  }
+}
+
+.newsletter-description {
+  background-color: $red-light;
+  padding: 32px;
+  @media (max-width: $screen-xs) {
+    padding: 16px;
+  }
+  h3 {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: $blue-light;
+    margin-bottom: 10px;
+  }
+  li {
+    position: relative;
+    margin-bottom: 8px;
+    padding-left: 20px;
+    &:before {
+      content: '–';
+      position: absolute;
+      top: 0px;
+      left: 2px;
+      display: inline-block;
+      color: $blue-grey;
+      font-weight: 400;
+    }
+  }
+}
+
+.home-newsletter {
+  margin-bottom: 24px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin-bottom: 40px;
+  }
+  h2 {
+    @media (min-width: $screen-sm) {
+      font-size: 3rem;
+      top: -24px;
+    }
+  }
+  .newsletter-signup {
+    grid-column: span 3;
+    padding: 132px 32px 32px;
+    @media (max-width: $screen-xs) {
+      padding: 68px 16px 16px;
+    }
+  }
+  .newsletter-description {
+    grid-column: span 2;
+  }
+  #mailchimp-signup-subscribe-block-hot-newsletter-form {
+    max-width: 420px;
+  }
+}
+
+.news-index-sidebar-wrap {
+  margin: 30px 0 24px;
+  transition: box-shadow .3s ease-in-out;
+  &:hover {
+    box-shadow: $default-box-shadow;
   }
 }
