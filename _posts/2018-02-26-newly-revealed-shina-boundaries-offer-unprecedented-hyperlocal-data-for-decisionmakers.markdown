@@ -7,6 +7,7 @@ Feature Image: "/uploads/lowqual.PNG"
 Person: Hawa Adinani & Amelia Hunt
 Working Group:
 - Technical
+permalink: updates/2018-02-22_newly_revealed_shina_boundaries_offer_unprecedented_hyperlocal_data_for_decisionmakers
 ---
 
 Recent population figures estimate Dar es Salaam’s population to be over 5 million, with an annual population growth of 5.7%. Despite the rapid growth of the city, almost 70% of the city is comprised of informal unplanned settlements  - a figure that is predicted to grow dramatically as the city expands.
@@ -19,4 +20,4 @@ Wajumbe are the main, trusted point of contact for local households over issues 
 
 Wajumbe are also responsible for writing letters confirming inhabitants’ proof of residence, which is needed for community members to open bank accounts and gain travel documents. In some cases, health clinics ask patients to list their Mjumbe when registering. Without consistent records of Wajumbe and Shina administrative boundaries, these services can be difficult to access for many people.
 
-In Makangarawe, mappers asked households to name their Mjumbe. Community members are trained by the HOT mapping team in open source data collection tools (OpenDataKit and OpenMapKit) and help with the data collection process. The survey data they collect concentrates on capturing the number of members of a household, as well as the age and gender of inhabitants and the Mjumbe leader responsible for that house. After making sure that community members are equipped with the data collection skills needed, field work commences.  A community member is provided with scratch cards (to buy internet packages) and a power bank, and are accompanied by Wajumbe leaders to establish trust with inhabitants and to cross-check areas of jurisdiction. 
+In Makangarawe, mappers asked households to name their Mjumbe. Community members are trained by the HOT mapping team in open source data collection tools (OpenDataKit and OpenMapKit) and help with the data collection process. The survey data they collect concentrates on capturing the number of members of a household, as well as the age and gender of inhabitants and the Mjumbe leader responsible for that house. After making sure that community members are equipped with the data collection skills needed, field work commences.  A community member is provided with scratch cards (to buy internet packages) and a power bank, and are accompanied by Wajumbe leaders to establish trust with inhabitants and to cross-check areas of jurisdiction.
