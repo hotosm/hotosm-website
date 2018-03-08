@@ -1,6 +1,7 @@
 ---
 title: Community & Organization
 date: 2018-02-06 15:20:00 Z
+permalink: "/community/"
 position: 5
 People Description: Nulla vitae elit libero, a pharetra augue. Cum sociis natoque
   penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia
@@ -13,7 +14,7 @@ Support Programs Description: Maecenas faucibus mollis interdum. Vestibulum id l
   porta felis euismod semper.
 Event Promo:
   Event Name: HOT Summit at FOSS4G2018
-  Image: 
+  Image:
   Description: HOT and FOSS4G have joined forces to bring you the GIS and humanitarian
     mapping event of the year in Dar es Salaam, Tanzania. HOT will sponsor and lead
     the Widening Access and Humanitarian Mapping track, giving you a three-day summit,
@@ -30,6 +31,6 @@ Finances:
   Annual Report Text: Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque
     penatibus et magnis dis parturient montes, nascetur ridiculus mus.
   Annual Report Button: Download PDF
-  Anual Report URL: 
+  Anual Report URL:
+Layout: community
 ---
-
