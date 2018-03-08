@@ -2,5 +2,24 @@
 title: Community & Organization
 date: 2018-02-06 15:20:00 Z
 position: 5
+People Description: 
+Working Groups Description: 
+Support Programs Description: 
+Event Promo:
+  Event Name: HOT Summit at FOSS4G2018
+  Image: 
+  Description: HOT and FOSS4G have joined forces to bring you the GIS and humanitarian
+    mapping event of the year in Dar es Salaam, Tanzania. HOT will sponsor and lead
+    the Widening Access and Humanitarian Mapping track, giving you a three-day summit,
+    code sprints, field visits with the Ramani Huria mapping project, an optional
+    two workshop days (available as an add-on to your registration) and much more!
+  Button: Register for FOSS4G 2018
+  URL: http://2018.foss4g.org/
+Finances:
+  Text: 
+  Annual Report Header: 
+  Annual Report Text: 
+  Annual Report Button: 
+  Anual Report URL: 
 ---
 
