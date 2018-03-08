@@ -1,7 +1,7 @@
 ---
 title: Community & Organization
 date: 2018-02-06 15:20:00 Z
-permalink: "/community/"
+permalink: /community
 position: 5
 People:
   Description: Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus
@@ -16,12 +16,11 @@ Support Programs Description: Maecenas faucibus mollis interdum. Vestibulum id l
   porta felis euismod semper.
 Event Promo:
   Event Name: HOT Summit at FOSS4G2018
-  Image:
-  Description: HOT and FOSS4G have joined forces to bring you the GIS and humanitarian
-    mapping event of the year in Dar es Salaam, Tanzania. HOT will sponsor and lead
-    the Widening Access and Humanitarian Mapping track, giving you a three-day summit,
-    code sprints, field visits with the Ramani Huria mapping project, an optional
-    two workshop days (available as an add-on to your registration) and much more!
+  Image: /uploads/hot-summit-group-wave.jpg
+  Description: |-
+    HOT and FOSS4G have joined forces to bring you the GIS and humanitarian mapping event of the year in Dar es Salaam, Tanzania. HOT will sponsor and lead summit, code sprints, field visits with the Ramani Huria mapping project, an optional two workshop days (available as an add-on to your registration) and much more!
+
+    **Karibu Sana!**
   Button: Register for FOSS4G 2018
   URL: http://2018.foss4g.org/
 Finances:
@@ -33,6 +32,6 @@ Finances:
   Annual Report Text: Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque
     penatibus et magnis dis parturient montes, nascetur ridiculus mus.
   Annual Report Button: Download PDF
-  Anual Report URL:
-Layout: community
+  Anual Report URL: /uploads/HOT_annual report_2016.pdf
+layout: community
 ---

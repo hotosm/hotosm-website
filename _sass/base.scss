@@ -112,6 +112,15 @@ img {
   max-width: 100%;
 }
 
+
+strong {
+  font-weight: 600;
+}
+
+em {
+  font-style: italic;
+}
+
 .highlighter-rouge {
   max-width: 100%;
   overflow-x: hidden;
@@ -2406,7 +2415,7 @@ img {
   .event-title {
     grid-column: span 7;
     background-image: url(/images/dot-pattern.svg);
-    padding: 64px 40px 40px;
+    padding: 56px 40px 40px;
     img {
       display: block;
     }
@@ -2414,7 +2423,7 @@ img {
   .event-info {
     grid-column: span 5;
     background-color: $red-light;
-    padding: 64px 40px 40px;
+    padding: 56px 40px 40px;
     display: flex;
     flex-direction: column;
   }
@@ -2456,6 +2465,7 @@ img {
     grid-column: span 1;
     img {
       display: block;
+      box-shadow: $default-box-shadow;
     }
   }
   .annual-report-text {
