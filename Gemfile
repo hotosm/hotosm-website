@@ -20,10 +20,6 @@ gem "minima", "~> 2.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
-   gem "jekyll-import", :git => 'https://github.com/dakotabenjamin/jekyll-import.git', :branch => 'filename-length'
-   gem "sequel"
-   gem "mysql2"
-   gem "pg"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

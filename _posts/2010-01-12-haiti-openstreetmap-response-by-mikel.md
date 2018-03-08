@@ -2,7 +2,6 @@
 title: Haiti OpenStreetMap Response by Mikel
 date: 2010-01-12 17:45:35 Z
 permalink: updates/2010-01-12_haiti_openstreetmap_response_by_mikel
-Summary Text: "\r\n\r\n"
 Person: Mikel Maron
 Working Group: []
 Projects:
