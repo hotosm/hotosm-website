@@ -1,13 +1,14 @@
 ---
+title: Imagery for Haiyan
+date: 2013-12-17 12:53:26 Z
+permalink: updates/2013-12-17_imagery_for_haiyan
 Person: Kate Chapman
-date: '2013-12-17 12:53:26 Z'
 Working Group: []
 Projects:
 - Typhoon Haiyan
-permalink: updates/2013-12-17_imagery_for_haiyan
-title: Imagery for Haiyan
 created: 1387284806
 ---
+
 OpenStreetMap began with people walking, biking, and driving around their neighborhoods, surveying data using GPS to map. Starting in 2007, satellite imagery became available for OSM volunteers to trace features, complementing on the ground survey. Imagery was first provided by <a href="https://wiki.openstreetmap.org/wiki/Yahoo!_Aerial_Imagery">Yahoo</a>, and presently through <a href="https://wiki.openstreetmap.org/wiki/Bing">Bing</a>, two companies generously taking a chance with our wild idea to voluntarily map the whole world. In the <a href="https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/History">early days of OSM</a>, Mikel Maron started promoting the idea of using OSM for humanitarian purposes.
 
 <img src="/sites/default/files/Screenshot.png" width="500" height="277" alt="" title="Yahoo Imagery coverage in the Gaza response, from http://brainoff.com/weblog/2009/01/05/1385" />

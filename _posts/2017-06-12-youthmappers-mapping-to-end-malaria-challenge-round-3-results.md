@@ -1,12 +1,13 @@
 ---
+title: 'YouthMappers ‘Mapping to End Malaria’ Challenge: Round 3 Results'
+date: 2017-06-12 02:25:39 Z
+permalink: updates/2017-06-12_youthmappers_‘mapping_to_end_malaria’_challenge_round_3_results
 Person: Russell Deffner
-date: '2017-06-12 02:25:39 Z'
 Working Group:
 - Community
 Projects:
 - Malaria Elimination Campaign
-permalink: updates/2017-06-12_youthmappers_‘mapping_to_end_malaria’_challenge_round_3_results
-title: 'YouthMappers ‘Mapping to End Malaria’ Challenge: Round 3 Results'
 created: 1497234339
 ---
+
 <p dir="ltr"><strong>YouthMappers ‘Mapping to End Malaria’ Challenge: Round 3 Results</strong></p><p dir="ltr">The third and final round of the YouthMappers challenge has concluded. In round three, we had 13 Universities participate, bringing the total for all three round to 26 Universities. Also in round three we had 88 student mappers contribute just under 200,000 buildings bringing the grand total of buildings digitized in the challenge to over 600,000. Thank you to all the chapters and students who participated!</p><p style="padding-left: 30px;" dir="ltr"><img class="image-medium" title="Mappers for Life" src="/sites/default/files/styles/medium/public/20170506_173519.jpg?itok=_eFwcpzc" alt="Mappers for Life" height="124" width="220"></p><p dir="ltr">We’re pleased to announce, the winners of this round are:</p><ol><li dir="ltr"><p dir="ltr"><strong>Team Good Mappers from Busitema University, Uganda</strong>: with nearly 100,000 buildings traced and averaging over 5000 buildings per mapper, Busitema made an impressive showing in this final round.</p></li><li dir="ltr"><p dir="ltr"><strong>Mappers for Life from Uganda Christian University, Uganda</strong>: averaging over 4000 buildings per mapper, team Mappers for Life came in with a solid second place finish.</p></li><li dir="ltr"><p dir="ltr"><strong>YouthMappers Dhaka College at Dhaka College, Bangladesh</strong>: getting ahead of the pack with an average of over 3000 buildings per mapper and a total of 40,000+ buildings for the round, Dhaka College takes third place.</p></li></ol><p dir="ltr">Our congratulations and thanks go to all the YouthMappers who participated in any of the three rounds. By way of thanks for their contributions, first and second place will receive financial support from HOT for items they need to grow their mapping community, such as equipment and mapathon costs. Third place will receive a HOT Thank You pack for their team, with some HOT merchandise.</p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">Although the challenge is over, the mapping continues. Thanks to everyone who has contributed so far.</p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><strong>You can end malaria by mapping: <a href="http://bit.ly/2miQUyZ">http://bit.ly/2miQUyZ</a></strong></p>

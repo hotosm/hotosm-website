@@ -1,12 +1,13 @@
 ---
+title: White House Innovation for Disaster Response and Recovery Initiative Demo Day
+date: 2014-08-21 16:58:34 Z
+permalink: updates/2014-08-21_white_house_innovation_for_disaster_response_and_recovery_initiative_demo_day
 Person: Mikel Maron
-date: '2014-08-21 16:58:34 Z'
 Working Group: []
 Projects: []
-permalink: updates/2014-08-21_white_house_innovation_for_disaster_response_and_recovery_initiative_demo_day
-title: White House Innovation for Disaster Response and Recovery Initiative Demo Day
 created: 1408640314
 ---
+
 You may have seen a few <a href="https://twitter.com/bensonwilder/status/494208764031926272">shout</a> <a href="https://twitter.com/tomgertin/status/494208517306212353">outs</a> on twitter from last months disaster technology <a href="http://www.whitehouse.gov/blog/2014/07/07/announcing-white-house-innovation-disaster-response-and-recovery-initiative-demo-day.">event</a> at the White House.
 
 <p/>

@@ -1,12 +1,13 @@
 ---
+title: HOT Activation, South and North Kivu, Democratic Republic of Congo
+date: 2012-12-12 20:11:34 Z
+permalink: updates/2012-12-12_hot_activation_south_and_north_kivu_democratic_republic_of_congo
 Person: Pierre Béland
-date: '2012-12-12 20:11:34 Z'
 Working Group: []
 Projects: []
-permalink: updates/2012-12-12_hot_activation_south_and_north_kivu_democratic_republic_of_congo
-title: HOT Activation, South and North Kivu, Democratic Republic of Congo
 created: 1355343094
 ---
+
 <h2>Worrying situation in the Kivus</h2>
 
 <h3 style="color:purple;background-color:#dedade"><em>2012-12-16  Given the more severe situation in the Kivus, HOT changes the status from Pre-Activation to Activation.</em></h3>

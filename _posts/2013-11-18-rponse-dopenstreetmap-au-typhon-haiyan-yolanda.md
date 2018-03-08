@@ -1,13 +1,14 @@
 ---
+title: Réponse d'OpenStreetMap au Typhon Haiyan / Yolanda
+date: 2013-11-18 00:18:47 Z
+permalink: updates/2013-11-18_réponse_d'openstreetmap_au_typhon_haiyan_/_yolanda
 Person: Pierre Béland
-date: '2013-11-18 00:18:47 Z'
 Working Group: []
 Projects:
 - Typhoon Haiyan
-permalink: updates/2013-11-18_réponse_d'openstreetmap_au_typhon_haiyan_/_yolanda
-title: Réponse d'OpenStreetMap au Typhon Haiyan / Yolanda
 created: 1384733927
 ---
+
 <p>Le super-typhon Haiyan aux Philippines est le plus fort jamais enregistré. Nous supportons la communauté OpenStreetMap des Philippines. Au cours de la première semaine de notre intervention, plus de 1 000 bénévoles en provenance de 82 pays ont travaillé à distance à la mise à jour de la carte OpenStreetMap.</p>
 <p>Nous avons démarré une Activation humanitaire avec le réseau <a href="http://digitalhumanitarians.com/">Digital Humanitarian Network(DHN)</a>. Pour plus d'informations sur les autres partenaires de ce réseau, svp, <a href="http://digitalhumanitarians.com/profiles/blogs/yolanda">lire leur blog à propos de cette activation</a>. Nous travaillons aussi étroitement avec le <a href="http://www.unocha.org/">Bureau de la Coordination des réfugiés de l'ONU (OCHA)</a> la <a href="http://www.redcross.org/what-we-do/international-services">Croix-Rouge américaine</a> (ARC) pour déterminer les besoins auxquels nous pouvons répondre.<!--break--></p>
 <p style="color: purple;">Coordonnateur : Andrew Buck assisté de Maning Sambale et Pierre Béland <br>DHN Network : Kate Chapman est un des coordonnateurs Digital Humanitarian Network (DHN)<br>Support imagerie : Jean-Guilhem Cailton</p>

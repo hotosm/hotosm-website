@@ -1,12 +1,13 @@
 ---
+title: OpenStreetMap Sri Lanka
+date: 2013-08-13 14:34:17 Z
+permalink: updates/2013-08-13_openstreetmap_sri_lanka
 Person: Jeff Haack
-date: '2013-08-13 14:34:17 Z'
 Working Group: []
 Projects: []
-permalink: updates/2013-08-13_openstreetmap_sri_lanka
-title: OpenStreetMap Sri Lanka
 created: 1376404457
 ---
+
 Fort du soutien financier et opérationnel de la Direction de la Francophonie numérique (DFN) de l’Organisation Internationale de la Francophonie (OIF), HOT avec un réseau de partenaires locaux met en oeuvre le projet pilote Espace OSM Francophone (EOF). 
 
 En 2013, le projet EOF vise à consolider la communauté OpenStreetMap du Sénégal, renforcer celle du Tchad et à créer et dynamiser des communautés OpenStreetMap au Burkina Faso et au Togo. Ces objectifs d'OSM seront atteints par la mise en oeuvre d'activités de formation et de cartographie basés sur OSM ainsi que la mise en place de programmes d'appui à l'animation et à l'organisation des caommunautés OSM locales. Dans leur ensemble, ces activités constituent un programme de renforcement de capacités destiné aux représentants de structures gouvernementales, structures internationales, acteurs académiques, secteur privé et notamment secteur des TIC, ONG, groupes de la société civile, etc. 
