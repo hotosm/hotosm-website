@@ -14,6 +14,7 @@ date: '2012-07-31 05:19:56 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2012-07-31_indonesian_project_report_get_it_while_it's_hot
 title: 'Indonesian Project Report: Get it while it''s HOT'
 created: 1343711996
 ---

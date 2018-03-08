@@ -10,6 +10,7 @@ Working Group:
 - Activation
 Projects:
 - Fall 2017 Disaster Response
+permalink: updates/2017-11-10_calling_all_validators_(and_mappers)!
 title: Calling All Validators (and Mappers)!
 created: 1510339463
 ---

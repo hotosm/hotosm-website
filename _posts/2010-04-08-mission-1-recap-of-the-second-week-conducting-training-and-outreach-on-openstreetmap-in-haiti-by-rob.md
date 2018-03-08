@@ -3,6 +3,7 @@ Person: robert
 date: '2010-04-08 03:30:19 Z'
 Working Group: []
 Projects: []
+permalink: updates/2010-04-08_mission_1_recap_of_the_second_week_conducting_training_and_outreach_on_openstree
 title: 'Mission 1: recap of the second week conducting training and outreach on OpenStreetMap
   in Haiti by Robert'
 created: 1270697419

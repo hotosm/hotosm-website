@@ -5,6 +5,7 @@ Working Group:
 - Security
 Projects:
 - Typhoon Haiyan
+permalink: updates/2013-12-05_openstreetmap_and_yolanda_a_report_from_manila
 title: 'OpenStreetMap and Yolanda: A Report from Manila'
 created: 1386240105
 ---

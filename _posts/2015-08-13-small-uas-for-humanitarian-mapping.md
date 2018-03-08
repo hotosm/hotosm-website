@@ -4,6 +4,7 @@ date: '2015-08-13 00:00:36 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
+permalink: updates/2015-08-13_small_uas_for_humanitarian_mapping
 title: Small UAS for Humanitarian Mapping
 created: 1439424036
 ---

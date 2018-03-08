@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2016-10-19_mapping_dar_es_salaam's_water_sanitation_and_hygiene_facilities
 title: Mapping Dar es Salaam's Water, Sanitation and Hygiene Facilities
 created: 1476887368
 ---

@@ -3,6 +3,7 @@ date: '2013-02-22 23:27:24 Z'
 Working Group: []
 Projects:
 - Senegal
+permalink: updates/2013-02-22_senegal__mapping_in_saint-louis_is_going_well_and_osm_sn_project_getting_stronge
 title: 'Senegal : mapping in Saint-Louis is going well and OSM_SN project getting
   stronger'
 created: 1361575644

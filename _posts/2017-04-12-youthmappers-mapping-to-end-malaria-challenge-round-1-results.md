@@ -7,6 +7,7 @@ date: '2017-04-12 23:32:15 Z'
 Working Group: []
 Projects:
 - Malaria Elimination Campaign
+permalink: updates/2017-04-12_youthmappers_‘mapping_to_end_malaria’_challenge_round_1_results
 title: 'YouthMappers ‘Mapping to End Malaria’ Challenge: Round 1 Results'
 created: 1492039935
 ---

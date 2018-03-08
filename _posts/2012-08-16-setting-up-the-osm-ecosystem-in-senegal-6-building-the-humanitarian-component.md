@@ -10,6 +10,7 @@ date: '2012-08-16 14:52:51 Z'
 Working Group: []
 Projects:
 - Senegal
+permalink: updates/2012-08-16_setting_up_the_osm_ecosystem_in_senegal_6_building_the_humanitarian_component
 title: 'Setting up the OSM ecosystem in Senegal 6: Building the humanitarian component'
 created: 1345128771
 ---

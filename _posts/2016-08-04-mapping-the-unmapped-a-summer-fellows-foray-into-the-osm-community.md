@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Mapping Financial Inclusion in Uganda
+permalink: updates/2016-08-04_mapping_the_unmapped__a_summer_fellows_foray_into_the_osm_community
 title: 'Mapping the Unmapped:  A Summer Fellows Foray into the OSM Community'
 created: 1470305302
 ---

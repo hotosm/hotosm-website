@@ -4,6 +4,7 @@ date: '2012-08-06 16:33:50 Z'
 Working Group: []
 Projects:
 - Senegal
+permalink: updates/2012-08-06_setting_up_the_osm_ecosystem_in_senegal_2_reaching_out_to_the_senegalese_tech_co
 title: 'Setting up the OSM ecosystem in Senegal 2: Reaching out to the Senegalese
   Tech communities'
 created: 1344270830

@@ -9,6 +9,7 @@ date: '2012-11-07 09:19:49 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2012-11-07_faces_of_hot__meet_dewi_indonesian_osm_trainer
 title: 'Faces of HOT:  Meet Dewi, Indonesian OSM Trainer'
 created: 1352279989
 ---

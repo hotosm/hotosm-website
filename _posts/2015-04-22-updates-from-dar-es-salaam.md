@@ -5,6 +5,7 @@ Working Group:
 - Activation
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2015-04-22_updates_from__dar_es_salaam
 title: Updates from  Dar es Salaam
 created: 1429729855
 ---

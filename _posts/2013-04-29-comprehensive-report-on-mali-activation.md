@@ -3,6 +3,7 @@ Person: Mikel Maron
 date: '2013-04-29 21:14:46 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-04-29_comprehensive_report_on_mali_activation
 title: Comprehensive Report on Mali Activation
 created: 1367270086
 ---

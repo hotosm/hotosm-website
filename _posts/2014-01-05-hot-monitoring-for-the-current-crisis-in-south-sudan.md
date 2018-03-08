@@ -3,6 +3,7 @@ Person: Severin
 date: '2014-01-05 01:07:59 Z'
 Working Group: []
 Projects: []
+permalink: updates/2014-01-05_hot_monitoring_for_the_current_crisis_in_south_sudan_
 title: HOT Monitoring for the current Crisis in South Sudan
 created: 1388884079
 ---

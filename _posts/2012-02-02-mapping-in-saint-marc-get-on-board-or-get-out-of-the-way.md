@@ -10,6 +10,7 @@ Person: brian
 date: '2012-02-02 03:10:07 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-02-02_mapping_in_saint_marc_get_on_board_or_get_out_of_the_way
 title: Mapping in Saint Marc. Get on board or get out of the way.
 created: 1328152207
 ---

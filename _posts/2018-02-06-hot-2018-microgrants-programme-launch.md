@@ -3,6 +3,7 @@ Person: RebeccaFirth
 date: '2018-02-06 07:45:46 Z'
 Working Group: []
 Projects: []
+permalink: updates/2018-02-06_hot_2018_microgrants_programme_launch!
 title: HOT 2018 Microgrants Programme Launch!
 created: 1517903146
 ---

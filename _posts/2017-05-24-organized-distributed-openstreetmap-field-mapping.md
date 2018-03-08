@@ -4,6 +4,7 @@ date: '2017-05-24 14:34:59 Z'
 Working Group: []
 Projects:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+permalink: updates/2017-05-24_organized_distributed_openstreetmap_field_mapping
 title: Organized, distributed OpenStreetMap field mapping
 created: 1495636499
 ---

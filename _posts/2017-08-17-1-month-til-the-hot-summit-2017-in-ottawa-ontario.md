@@ -3,6 +3,7 @@ Person: Rachel VanNice
 date: '2017-08-17 15:15:20 Z'
 Working Group: []
 Projects: []
+permalink: updates/2017-08-17_1_month_til_the_hot_summit_2017_in_ottawa_ontario!
 title: 1 MONTH til the HOT Summit 2017 in Ottawa, Ontario!
 created: 1502982920
 ---

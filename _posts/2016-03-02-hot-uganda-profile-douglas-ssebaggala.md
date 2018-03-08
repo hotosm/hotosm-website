@@ -8,6 +8,7 @@ date: '2016-03-02 16:06:13 Z'
 Working Group: []
 Projects:
 - Mapping Financial Inclusion in Uganda
+permalink: updates/2016-03-02_hot_uganda_profile_douglas_ssebaggala
 title: 'HOT Uganda profile: Douglas Ssebaggala'
 created: 1456934773
 ---

@@ -12,6 +12,7 @@ date: '2015-11-19 13:16:58 Z'
 Working Group: []
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2015-11-19_mapping_drainage_in_dar_es_salaam
 title: Mapping Drainage in Dar es Salaam
 created: 1447939018
 ---

@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Mapping Financial Inclusion in Uganda
+permalink: updates/2016-06-21_hot_inspires_mapping_communities_in_uganda
 title: HOT inspires mapping communities in Uganda
 created: 1466502374
 ---

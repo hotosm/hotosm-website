@@ -10,6 +10,7 @@ date: '2016-01-11 12:06:10 Z'
 Working Group: []
 Projects:
 - Mapping Financial Inclusion in Uganda
+permalink: updates/2016-01-11_commence_-_mapping_financial_services_training
 title: Commence - Mapping Financial Services Training
 created: 1452513970
 ---

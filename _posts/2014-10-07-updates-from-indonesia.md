@@ -4,6 +4,7 @@ date: '2014-10-07 14:30:32 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2014-10-07_updates_from_indonesia
 title: Updates from Indonesia
 created: 1412692232
 ---

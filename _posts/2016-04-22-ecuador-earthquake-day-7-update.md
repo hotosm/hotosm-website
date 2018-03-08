@@ -5,6 +5,7 @@ Working Group:
 - Activation
 Projects:
 - Ecuador Earthquake
+permalink: updates/2016-04-22_ecuador_earthquake_day_7_update
 title: 'Ecuador Earthquake: Day 7 Update'
 created: 1461369558
 ---

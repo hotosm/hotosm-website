@@ -14,6 +14,7 @@ date: '2012-11-01 02:44:35 Z'
 Working Group: []
 Projects:
 - EUROSHA
+permalink: updates/2012-11-01_two_weeks_of_field_work_within_the_eurosha_chad_project_
 title: Two weeks of field work within the EUROSHA Chad Project
 created: 1351737875
 ---

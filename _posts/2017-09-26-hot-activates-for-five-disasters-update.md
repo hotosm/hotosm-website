@@ -5,6 +5,7 @@ Working Group:
 - Activation
 Projects:
 - Fall 2017 Disaster Response
+permalink: updates/2017-09-26_hot_activates_for_five_disasters_update
 title: 'HOT Activates for five disasters: update'
 created: 1506410086
 ---

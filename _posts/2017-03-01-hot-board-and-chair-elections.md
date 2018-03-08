@@ -3,6 +3,7 @@ Person: Mikel Maron
 date: '2017-03-01 19:48:55 Z'
 Working Group: []
 Projects: []
+permalink: updates/2017-03-01_hot_board_and_chair_elections
 title: HOT Board and Chair Elections
 created: 1488397735
 ---

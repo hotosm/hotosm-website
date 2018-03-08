@@ -4,6 +4,7 @@ date: '2016-03-10 18:05:30 Z'
 Working Group: []
 Projects:
 - OpenStreetMap Analytics
+permalink: updates/2016-03-10_osm_data_analysis_tool_development_kicks_off!
 title: OSM Data Analysis Tool Development Kicks Off!
 created: 1457633130
 ---

@@ -4,6 +4,7 @@ date: '2016-07-05 21:02:00 Z'
 Working Group:
 - Community
 Projects: []
+permalink: updates/2016-07-05_the_white_house_mapathon_and_hot_team_up_to_fight_malaria
 title: The White House Mapathon and HOT Team Up to Fight Malaria
 created: 1467752520
 ---

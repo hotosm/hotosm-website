@@ -9,6 +9,7 @@ Person: nicolas
 date: '2013-06-28 22:54:32 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-06-28_espace_osm_francophone_au_togo_à_j+4
 title: Espace OSM Francophone au Togo à J+4
 created: 1372460072
 ---

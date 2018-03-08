@@ -4,6 +4,7 @@ date: '2015-12-28 07:44:25 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2015-12-28_hot_indonesia_year_4_leveraging_inasafe_and_osm_to_enhance_disaster_preparedness
 title: 'HOT Indonesia Year 4: Leveraging InaSAFE and OSM to Enhance Disaster Preparedness'
 created: 1451288665
 ---

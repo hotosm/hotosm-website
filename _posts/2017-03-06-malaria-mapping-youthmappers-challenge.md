@@ -11,6 +11,7 @@ date: '2017-03-06 15:49:27 Z'
 Working Group: []
 Projects:
 - Malaria Elimination Campaign
+permalink: updates/2017-03-06_malaria_mapping_youthmappers_challenge
 title: Malaria Mapping YouthMappers Challenge
 created: 1488815367
 ---

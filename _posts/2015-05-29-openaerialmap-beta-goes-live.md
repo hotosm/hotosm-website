@@ -4,6 +4,7 @@ date: '2015-05-29 02:14:03 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
+permalink: updates/2015-05-29_openaerialmap_beta_goes_live
 title: OpenAerialMap Beta Goes Live
 created: 1432865643
 ---

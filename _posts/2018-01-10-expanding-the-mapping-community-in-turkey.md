@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
+permalink: updates/2018-01-10_expanding_the_mapping_community_in_turkey
 title: Expanding the mapping community in Turkey
 created: 1515586962
 ---

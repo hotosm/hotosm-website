@@ -3,6 +3,7 @@ Person: Tyler Radford
 date: '2016-05-20 16:33:43 Z'
 Working Group: []
 Projects: []
+permalink: updates/2016-05-20_hot_at_the_world_humanitarian_summit
 title: HOT at the World Humanitarian Summit
 created: 1463762023
 ---

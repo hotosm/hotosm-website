@@ -12,6 +12,7 @@ date: '2012-07-13 08:49:58 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2012-07-13_out_and_about_in_yogyakarta_indonesia__an_osm_workshop_sponsored_by_the_world_ba
 title: 'Out and about in Yogyakarta, Indonesia:  An OSM workshop sponsored by the
   World Bank'
 created: 1342169398

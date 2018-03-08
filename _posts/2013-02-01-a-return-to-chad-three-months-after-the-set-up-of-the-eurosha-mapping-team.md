@@ -12,6 +12,7 @@ date: '2013-02-01 01:48:32 Z'
 Working Group: []
 Projects:
 - EUROSHA
+permalink: updates/2013-02-01_a_return_to_chad_three_months_after_the_set_up_of_the_eurosha_mapping_team
 title: A return to Chad three months after the set up of the EUROSHA mapping team
 created: 1359683312
 ---

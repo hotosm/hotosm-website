@@ -3,6 +3,7 @@ Person: Felix Delattre
 date: '2015-06-23 15:09:28 Z'
 Working Group: []
 Projects: []
+permalink: updates/2015-06-23_case_study_humanitarian_openstreetmap_team
 title: 'Case study: Humanitarian OpenStreetMap Team'
 created: 1435072168
 ---

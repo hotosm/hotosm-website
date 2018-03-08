@@ -4,6 +4,7 @@ date: '2017-01-31 13:33:57 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
+permalink: updates/2017-01-31_making_open_imagery_accessible_openaerialmap_comes_out_of_beta
 title: 'Making open imagery accessible: OpenAerialMap comes out of beta'
 created: 1485869637
 ---

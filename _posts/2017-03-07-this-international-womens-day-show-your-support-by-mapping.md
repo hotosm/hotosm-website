@@ -5,6 +5,7 @@ Working Group:
 - Communications
 Projects:
 - Women and Girls in Mapping
+permalink: updates/2017-03-07_this_international_women’s_day_show_your_support_by_mapping
 title: This International Women’s Day, show your support by mapping
 created: 1488854820
 ---

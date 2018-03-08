@@ -11,6 +11,7 @@ date: '2016-02-03 20:38:44 Z'
 Working Group: []
 Projects:
 - Mapping Financial Inclusion in Uganda
+permalink: updates/2016-02-03_"my_mapping_experience"_by_hillary_musundi_student_at_uganda_christian_universit
 title: '"My mapping experience" by Hillary Musundi, student at Uganda Christian University.'
 created: 1454531924
 ---

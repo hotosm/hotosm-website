@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+permalink: updates/2017-05-05_gulu_mapathon_and_partnerships
 title: Gulu Mapathon and Partnerships
 created: 1493944391
 ---

@@ -8,6 +8,7 @@ date: '2014-01-27 02:21:15 Z'
 Working Group: []
 Projects:
 - Typhoon Haiyan
+permalink: updates/2014-01-27_support_haiyan/yolanda_reconstruction__contribute_public_use_uav_(drone)_imagery
 title: 'Support Haiyan/Yolanda Reconstruction:  Contribute Public Use UaV (Drone)
   Imagery'
 created: 1390789275

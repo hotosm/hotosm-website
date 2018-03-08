@@ -3,6 +3,7 @@ Person: harry
 date: '2012-01-07 04:33:15 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-01-07_christmas_donation_from_nestoria
 title: Christmas donation from nestoria
 created: 1325910795
 ---

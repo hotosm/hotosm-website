@@ -9,6 +9,7 @@ date: '2013-01-18 11:32:41 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2013-01-18_openstreetmap_usage_in_jakarta_flood_response
 title: OpenStreetMap Usage in Jakarta Flood Response
 created: 1358508761
 ---

@@ -13,6 +13,7 @@ date: '2012-12-05 16:31:00 Z'
 Working Group: []
 Projects:
 - OSM FlossManuals in Kreyòl (Creole)
+permalink: updates/2012-12-05_osm_flossmanuals_in_kreyòl
 title: OSM FlossManuals in Kreyòl
 created: 1354725060
 ---

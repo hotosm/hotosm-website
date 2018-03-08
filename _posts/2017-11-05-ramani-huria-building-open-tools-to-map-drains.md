@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2017-11-05_ramani_huria_building_open_tools_to_map_drains
 title: 'Ramani Huria: Building Open Tools to Map Drains'
 created: 1509898516
 ---

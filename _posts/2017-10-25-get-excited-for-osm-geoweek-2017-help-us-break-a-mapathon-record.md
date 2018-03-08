@@ -3,6 +3,7 @@ Person: Rachel VanNice
 date: '2017-10-25 19:48:03 Z'
 Working Group: []
 Projects: []
+permalink: updates/2017-10-25_get_excited_for_osm_geoweek_2017-_help_us_break_a_mapathon_record!
 title: Get excited for OSM GeoWeek 2017- Help us break a mapathon record!
 created: 1508960883
 ---

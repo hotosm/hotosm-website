@@ -4,6 +4,7 @@ date: '2014-06-18 05:00:09 Z'
 Working Group:
 - Training
 Projects: []
+permalink: updates/2014-06-18_openstreetmap_training_of_trainers_in_the_philippines
 title: OpenStreetMap Training of Trainers in the Philippines
 created: 1403067609
 ---

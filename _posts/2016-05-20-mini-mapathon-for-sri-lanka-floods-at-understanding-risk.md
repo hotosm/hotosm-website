@@ -5,6 +5,7 @@ Working Group:
 - Activation
 Projects:
 - Sri Lanka Flooding 2016
+permalink: updates/2016-05-20_mini-mapathon_for_sri_lanka_floods_at_understanding_risk
 title: Mini-Mapathon for Sri Lanka Floods at Understanding Risk
 created: 1463738152
 ---

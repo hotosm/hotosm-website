@@ -3,6 +3,7 @@ Person: Mikel Maron
 date: '2011-02-09 02:07:34 Z'
 Working Group: []
 Projects: []
+permalink: updates/2011-02-09_please_join!_hot_conference_call_february_16_12pm_est
 title: Please join! HOT conference call, February 16 12pm EST
 created: 1297217254
 ---

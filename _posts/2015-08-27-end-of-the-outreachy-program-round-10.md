@@ -4,6 +4,7 @@ date: '2015-08-27 10:35:27 Z'
 Working Group: []
 Projects:
 - Outreachy
+permalink: updates/2015-08-27_end_of_the_outreachy_program_round_10
 title: End of the Outreachy Program Round 10
 created: 1440671727
 ---

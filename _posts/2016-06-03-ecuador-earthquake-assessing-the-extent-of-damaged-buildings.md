@@ -8,6 +8,7 @@ date: '2016-06-03 06:55:30 Z'
 Working Group: []
 Projects:
 - Ecuador Earthquake
+permalink: updates/2016-06-03_ecuador_earthquake_assessing_the_extent_of_damaged_buildings
 title: 'Ecuador Earthquake: Assessing the Extent of Damaged Buildings'
 created: 1464936930
 ---

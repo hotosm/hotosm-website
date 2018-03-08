@@ -8,6 +8,7 @@ date: '2016-11-28 22:22:05 Z'
 Working Group: []
 Projects:
 - Mapping the world’s vulnerable places begins with you!
+permalink: updates/2016-11-28_mapping_the_world’s_vulnerable_places_begins_with_you!
 title: Mapping the world’s vulnerable places begins with you!
 created: 1480371725
 ---

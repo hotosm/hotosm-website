@@ -4,6 +4,7 @@ date: '2018-02-16 07:49:25 Z'
 Working Group: []
 Projects:
 - 'LEGIT: Supporting decentralization in Liberian cities'
+permalink: updates/2018-02-16_gis_training_for_legit_stakeholders_in_liberia
 title: GIS Training for LEGIT stakeholders in Liberia
 created: 1518767365
 ---

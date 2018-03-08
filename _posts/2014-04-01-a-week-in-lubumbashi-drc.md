@@ -3,6 +3,7 @@ Person: Jorieke Vyncke
 date: '2014-04-01 21:58:56 Z'
 Working Group: []
 Projects: []
+permalink: updates/2014-04-01_a_week_in_lubumbashi_(drc)
 title: A week in Lubumbashi (DRC)
 created: 1396389536
 ---

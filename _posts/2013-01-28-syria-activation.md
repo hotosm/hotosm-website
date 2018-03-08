@@ -9,6 +9,7 @@ Person: joseph
 date: '2013-01-28 12:24:44 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-01-28_syria_activation
 title: Syria Activation
 created: 1359375884
 ---

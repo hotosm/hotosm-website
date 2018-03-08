@@ -11,6 +11,7 @@ Working Group:
 - Activation
 Projects:
 - Fall 2017 Disaster Response
+permalink: updates/2017-10-27_osm_puerto_rico_emerges_stronger_and_ready_to_help_rebuild!
 title: OSM Puerto Rico Emerges Stronger and Ready to Help Rebuild!
 created: 1509134906
 ---

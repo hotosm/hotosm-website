@@ -11,6 +11,7 @@ date: '2016-04-14 12:37:56 Z'
 Working Group: []
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2016-04-14_ramani_huria_how_are_the_maps_being_used_in_the_wards?
 title: 'Ramani Huria: how are the maps being used in the wards?'
 created: 1460637476
 ---

@@ -4,6 +4,7 @@ date: '2017-06-28 06:11:15 Z'
 Working Group: []
 Projects:
 - Remote Damage Assessment Research
+permalink: updates/2017-06-28_call_for_participation_crowdsourced_damage_assessment
 title: 'Call For Participation: Crowdsourced Damage Assessment'
 created: 1498630275
 ---

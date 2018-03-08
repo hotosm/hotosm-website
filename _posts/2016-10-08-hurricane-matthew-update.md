@@ -5,6 +5,7 @@ Working Group:
 - Activation
 Projects:
 - Hurricane Matthew
+permalink: updates/2016-10-08_hurricane_matthew_update
 title: Hurricane Matthew Update
 created: 1475904963
 ---

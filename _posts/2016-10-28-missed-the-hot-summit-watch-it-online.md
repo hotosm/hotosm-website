@@ -3,6 +3,7 @@ Person: Tyler Radford
 date: '2016-10-28 23:19:31 Z'
 Working Group: []
 Projects: []
+permalink: updates/2016-10-28_missed_the_hot_summit?_watch_it_online!
 title: Missed the HOT Summit? Watch it online!
 created: 1477696771
 ---

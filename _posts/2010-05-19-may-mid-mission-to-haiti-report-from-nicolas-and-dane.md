@@ -4,6 +4,7 @@ date: '2010-05-19 21:52:01 Z'
 Working Group:
 - Technical
 Projects: []
+permalink: updates/2010-05-19_may_mid-mission_to_haiti_report_from_nicolas_and_dane
 title: May Mid-Mission to Haiti Report From Nicolas and Dane
 created: 1274305921
 ---

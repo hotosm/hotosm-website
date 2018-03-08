@@ -4,6 +4,7 @@ date: '2017-08-18 11:09:01 Z'
 Working Group: []
 Projects:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+permalink: updates/2017-08-18_field_mapping_organizer_reaches_first_major_milestone
 title: Field mapping organizer reaches first major milestone
 created: 1503054541
 ---

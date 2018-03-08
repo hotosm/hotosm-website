@@ -5,6 +5,7 @@ Working Group:
 - Technical
 Projects:
 - Mongolia, Mapping Ulaanbaatar
+permalink: updates/2013-10-29_hot_chilly_mapping_-_ulaanbaatar_project_week_4
 title: HOT Chilly Mapping - Ulaanbaatar Project Week 4
 created: 1383068859
 ---

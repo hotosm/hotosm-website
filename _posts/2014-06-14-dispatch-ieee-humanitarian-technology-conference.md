@@ -4,6 +4,7 @@ date: '2014-06-14 12:53:05 Z'
 Working Group: []
 Projects:
 - Typhoon Haiyan
+permalink: updates/2014-06-14_dispatch_ieee_humanitarian_technology_conference
 title: 'DISPATCH: IEEE Humanitarian Technology Conference'
 created: 1402750385
 ---

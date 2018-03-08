@@ -3,6 +3,7 @@ Person: john
 date: '2012-05-18 14:48:54 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-05-18_first_use_of_new_imagery__agreement_join_hot_to_trace_refugee_camps_in_kenya_and
 title: 'First Use of New Imagery  Agreement: Join HOT to Trace Refugee Camps in Kenya
   and Ethiopia'
 created: 1337352534

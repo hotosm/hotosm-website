@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
+permalink: updates/2017-02-02_hot_microgrants_programme_launches
 title: HOT Microgrants Programme Launches
 created: 1486053007
 ---

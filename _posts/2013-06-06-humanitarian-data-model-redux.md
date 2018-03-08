@@ -6,6 +6,7 @@ Working Group:
 - Activation
 Projects:
 - 'Haiti '
+permalink: updates/2013-06-06_humanitarian_data_model_-_redux
 title: Humanitarian Data Model - REDUX
 created: 1370554965
 ---

@@ -16,6 +16,7 @@ date: '2014-08-06 01:12:08 Z'
 Working Group: []
 Projects:
 - West Africa Ebola Epidemic
+permalink: updates/2014-08-06_reactivation_of_hot_for_the_ebola_epidemic_second_update
 title: Reactivation of HOT for the Ebola epidemic, Second update
 created: 1407287528
 ---

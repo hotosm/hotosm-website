@@ -14,6 +14,7 @@ date: '2012-10-25 05:22:30 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2012-10-25_hot_and_wikimedia_indonesia_join_forces
 title: HOT and Wikimedia Indonesia join forces
 created: 1351142550
 ---

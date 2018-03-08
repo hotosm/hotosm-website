@@ -4,6 +4,7 @@ date: '2015-08-31 17:02:03 Z'
 Working Group: []
 Projects:
 - HOT Training Center
+permalink: updates/2015-08-31_open_data_open_mapping_teachosm_in_the_caribbean
 title: 'Open Data, Open Mapping: TeachOSM in the Caribbean'
 created: 1441040523
 ---

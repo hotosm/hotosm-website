@@ -7,6 +7,7 @@ Projects:
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
   Project in Indonesia"
+permalink: updates/2016-11-11_collaborating_with_university_students_hot_hosts_a_mapathon_at_the_institut_tekn
 title: Collaborating with University Students, HOT Hosts a Mapathon at the Institut
   Teknologi Sepuluh Nopember in Surabaya
 created: 1478856766

@@ -4,6 +4,7 @@ date: '2015-07-23 08:54:38 Z'
 Working Group: []
 Projects:
 - HOT Training Center
+permalink: updates/2015-07-23_pilot_workshops_-_hot_activation_curriculum_
 title: Pilot Workshops - HOT Activation Curriculum
 created: 1437641678
 ---

@@ -9,6 +9,7 @@ Person: claire
 date: '2013-02-11 18:20:12 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-02-11_naissance_d'une_communauté_osm_à_kinshasa
 title: Naissance d'une communauté OSM à Kinshasa
 created: 1360606812
 ---

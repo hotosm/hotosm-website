@@ -3,6 +3,7 @@ Person: emir
 date: '2011-07-05 22:11:38 Z'
 Working Group: []
 Projects: []
+permalink: updates/2011-07-05_hot_in_sumbawa_island_indonesia
 title: HOT in Sumbawa Island, Indonesia
 created: 1309903898
 ---

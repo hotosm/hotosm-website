@@ -14,6 +14,7 @@ Working Group:
 - Activation
 Projects:
 - Ecuador Earthquake
+permalink: updates/2016-04-18_latest_update_earthquakes_in_japan_and_ecuador
 title: 'Latest Update: Earthquakes in Japan and Ecuador'
 created: 1461002510
 ---

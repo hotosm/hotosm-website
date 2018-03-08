@@ -4,6 +4,7 @@ date: '2016-01-14 14:47:27 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2016-01-14_jakarta_attacks_hot_indonesia_team_safe
 title: 'Jakarta Attacks: HOT Indonesia Team Safe'
 created: 1452782847
 ---

@@ -3,6 +3,7 @@ Person: robert
 date: '2011-01-26 23:54:33 Z'
 Working Group: []
 Projects: []
+permalink: updates/2011-01-26_a_big_thank_you_to_a_few_of_our_supporters
 title: A Big Thank You to a Few of Our Supporters
 created: 1296086073
 ---

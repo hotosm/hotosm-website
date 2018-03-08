@@ -3,6 +3,7 @@ Person: jeff
 date: '2011-07-17 12:17:47 Z'
 Working Group: []
 Projects: []
+permalink: updates/2011-07-17_keren_osm_(bantaeng_and_kupang_indonesia)
 title: Keren OSM (Bantaeng and Kupang, Indonesia)
 created: 1310905067
 ---

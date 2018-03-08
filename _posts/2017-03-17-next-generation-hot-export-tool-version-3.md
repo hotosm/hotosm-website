@@ -15,6 +15,7 @@ Projects:
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
   Project in Indonesia"
+permalink: updates/2017-03-17_next_generation_hot_export_tool_-_version_3
 title: Next Generation HOT Export Tool - Version 3
 created: 1489728052
 ---

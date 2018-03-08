@@ -3,6 +3,7 @@ Person: harry
 date: '2014-05-08 08:56:13 Z'
 Working Group: []
 Projects: []
+permalink: updates/2014-05-08_london_hot_congo_mapathon
 title: London HOT Congo Mapathon
 created: 1399539373
 ---

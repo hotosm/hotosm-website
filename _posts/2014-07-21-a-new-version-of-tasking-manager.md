@@ -5,6 +5,7 @@ Working Group:
 - Training
 Projects:
 - Tasking Manager
+permalink: updates/2014-07-21_a_new_version_of_tasking_manager
 title: A new version of Tasking Manager
 created: 1405975803
 ---

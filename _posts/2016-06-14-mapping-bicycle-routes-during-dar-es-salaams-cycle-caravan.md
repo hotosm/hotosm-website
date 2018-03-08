@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2016-06-14_mapping_bicycle_routes_during_dar_es_salaam's_cycle_caravan
 title: Mapping Bicycle Routes During Dar es Salaam's Cycle Caravan.
 created: 1465942633
 ---

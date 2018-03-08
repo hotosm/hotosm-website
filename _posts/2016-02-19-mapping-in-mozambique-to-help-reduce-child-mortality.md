@@ -3,6 +3,7 @@ Person: Blake Girardot
 date: '2016-02-19 15:38:45 Z'
 Working Group: []
 Projects: []
+permalink: updates/2016-02-19_mapping_in_mozambique_to_help_reduce_child_mortality
 title: Mapping in Mozambique to Help Reduce Child Mortality
 created: 1455896325
 ---

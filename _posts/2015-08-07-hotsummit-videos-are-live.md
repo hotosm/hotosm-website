@@ -3,6 +3,7 @@ Person: kristenegermeier
 date: '2015-08-07 17:55:55 Z'
 Working Group: []
 Projects: []
+permalink: updates/2015-08-07_#hotsummit_videos_are_live!
 title: "#HOTSummit Videos are Live!"
 created: 1438970155
 ---

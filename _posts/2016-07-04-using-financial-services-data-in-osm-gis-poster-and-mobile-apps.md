@@ -4,6 +4,7 @@ date: '2016-07-04 11:24:16 Z'
 Working Group: []
 Projects:
 - Mapping Financial Inclusion in Uganda
+permalink: updates/2016-07-04_using_financial_services_data_in_osm_gis_poster_and_mobile_apps
 title: 'Using Financial Services data in OSM: GIS Poster and Mobile apps'
 created: 1467631456
 ---

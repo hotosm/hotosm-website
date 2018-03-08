@@ -5,6 +5,7 @@ date: '2012-10-24 05:15:06 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2012-10-24_asian_ministerial_conference_on_disaster_risk_reduction_(amcdrr_2012)_
 title: Asian Ministerial Conference on Disaster Risk Reduction (AMCDRR 2012)
 created: 1351055706
 ---

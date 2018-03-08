@@ -6,6 +6,7 @@ Person: will
 date: '2013-06-14 21:07:41 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-06-14_the_hdm_josm_style_by_hot
 title: The HDM JOSM Style by HOT
 created: 1371244061
 ---

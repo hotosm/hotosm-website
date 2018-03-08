@@ -9,6 +9,7 @@ date: '2016-05-27 10:49:56 Z'
 Working Group: []
 Projects:
 - Mapping Financial Inclusion in Uganda
+permalink: updates/2016-05-27_new_project_“real_time_financial_location_planning_and_research”
 title: 'New project: “Real Time Financial Location Planning and Research”'
 created: 1464346196
 ---

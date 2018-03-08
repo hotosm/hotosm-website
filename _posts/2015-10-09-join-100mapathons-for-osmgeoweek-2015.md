@@ -8,6 +8,7 @@ date: '2015-10-09 11:59:57 Z'
 Working Group: []
 Projects:
 - Missing Maps
+permalink: updates/2015-10-09_join_#100mapathons_for_osmgeoweek_2015!
 title: 'Join #100mapathons for OSMGeoWeek 2015!'
 created: 1444391997
 ---

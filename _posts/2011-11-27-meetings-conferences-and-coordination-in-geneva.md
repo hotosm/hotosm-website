@@ -4,6 +4,7 @@ date: '2011-11-27 22:43:05 Z'
 Working Group:
 - Community
 Projects: []
+permalink: updates/2011-11-27_meetings_conferences_and_coordination_in_geneva
 title: Meetings, Conferences and Coordination in Geneva
 created: 1322433785
 ---

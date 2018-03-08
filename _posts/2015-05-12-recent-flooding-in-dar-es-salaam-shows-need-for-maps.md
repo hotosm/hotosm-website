@@ -5,6 +5,7 @@ Working Group:
 - Training
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2015-05-12_recent_flooding_in_dar_es_salaam_shows_need_for_maps
 title: Recent flooding in Dar Es Salaam shows need for maps
 created: 1431419685
 ---

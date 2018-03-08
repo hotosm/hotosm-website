@@ -3,6 +3,7 @@ Person: Mikel Maron
 date: '2011-08-19 23:01:58 Z'
 Working Group: []
 Projects: []
+permalink: updates/2011-08-19_activation_in_somalia
 title: Activation in Somalia
 created: 1313794918
 ---

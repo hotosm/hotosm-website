@@ -10,6 +10,7 @@ Working Group:
 - Activation
 Projects:
 - Fall 2017 Disaster Response
+permalink: updates/2017-09-09_hot_activates_for_three_disasters_hurricane_irma_mexico_earthquake_bangladesh_fl
 title: 'HOT Activates for Three Disasters: Hurricane Irma, Mexico Earthquake, Bangladesh
   Floods'
 created: 1504928114

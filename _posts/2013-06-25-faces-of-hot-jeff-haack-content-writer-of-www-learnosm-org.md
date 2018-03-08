@@ -11,6 +11,7 @@ Person: Katrina E.
 date: '2013-06-25 01:04:40 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-06-25_faces_of_hot_jeff_haack_content_writer_of_wwwlearnosmorg
 title: 'Faces of HOT: Jeff Haack, content writer of www.learnosm.org'
 created: 1372122280
 ---

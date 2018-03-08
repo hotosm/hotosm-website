@@ -12,6 +12,7 @@ Person: Kate Chapman
 date: '2012-04-26 13:13:08 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-04-26_washington_dc_is_nothing_but_hot_next_week!
 title: Washington DC is Nothing... but HOT next week!
 created: 1335445988
 ---

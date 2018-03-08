@@ -3,6 +3,7 @@ Person: Nate Smith
 date: '2017-06-09 11:12:52 Z'
 Working Group: []
 Projects: []
+permalink: updates/2017-06-09_collaborating_with_iom_the_un_migration_agency_on_openstreetmap
 title: Collaborating with IOM, the UN Migration Agency, on OpenStreetMap
 created: 1497006772
 ---

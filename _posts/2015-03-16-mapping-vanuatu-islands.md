@@ -4,6 +4,7 @@ date: '2015-03-16 05:08:37 Z'
 Working Group:
 - Activation
 Projects: []
+permalink: updates/2015-03-16_mapping_vanuatu_islands
 title: Mapping Vanuatu Islands
 created: 1426482517
 ---

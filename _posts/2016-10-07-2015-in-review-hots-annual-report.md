@@ -8,6 +8,7 @@ Person: Tyler Radford
 date: '2016-10-07 15:28:41 Z'
 Working Group: []
 Projects: []
+permalink: updates/2016-10-07_2015_in_review_hot's_annual_report
 title: '2015 in Review: HOT''s Annual Report'
 created: 1475854121
 ---

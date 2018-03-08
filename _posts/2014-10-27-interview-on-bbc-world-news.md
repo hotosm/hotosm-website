@@ -5,6 +5,7 @@ Working Group:
 - Fundraising
 Projects:
 - West Africa Ebola Epidemic
+permalink: updates/2014-10-27_interview_on_bbc_world_news
 title: Interview on BBC World News
 created: 1414435072
 ---

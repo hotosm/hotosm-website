@@ -4,6 +4,7 @@ date: '2013-02-01 08:27:28 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2013-02-01_openir_meets_with_the_indonesian_team
 title: OpenIR meets with the Indonesian Team
 created: 1359707248
 ---

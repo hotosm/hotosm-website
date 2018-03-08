@@ -4,6 +4,7 @@ date: '2013-11-18 00:18:47 Z'
 Working Group: []
 Projects:
 - Typhoon Haiyan
+permalink: updates/2013-11-18_réponse_d'openstreetmap_au_typhon_haiyan_/_yolanda
 title: Réponse d'OpenStreetMap au Typhon Haiyan / Yolanda
 created: 1384733927
 ---

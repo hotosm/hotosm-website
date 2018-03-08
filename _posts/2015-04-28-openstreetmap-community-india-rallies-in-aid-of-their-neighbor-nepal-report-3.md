@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Nepal 2015 Earthquake Response
+permalink: updates/2015-04-28_openstreetmap_community_india_rallies_in_aid_of_their_neighbor_nepal__report_#3
 title: 'OpenStreetMap community India rallies in aid of their neighbor Nepal  Report
   #3'
 created: 1430216884

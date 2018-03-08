@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2016-11-21_ramani_huria_closing_workshop_reflection_&_new_direction
 title: 'Ramani Huria Closing Workshop: Reflection & New Direction'
 created: 1479725441
 ---

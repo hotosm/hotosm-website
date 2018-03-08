@@ -11,6 +11,7 @@ date: '2013-04-25 17:41:46 Z'
 Working Group:
 - Governance
 Projects: []
+permalink: updates/2013-04-25_state_department_launches_imagery_to_the_crowd
 title: State Department Launches Imagery to the Crowd
 created: 1366911706
 ---

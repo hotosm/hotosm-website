@@ -13,6 +13,7 @@ date: '2015-06-05 02:58:29 Z'
 Working Group: []
 Projects:
 - Field Papers
+permalink: updates/2015-06-05_the_new_field_papers_site_is_live!
 title: The New Field Papers Site is Live!
 created: 1433473109
 ---

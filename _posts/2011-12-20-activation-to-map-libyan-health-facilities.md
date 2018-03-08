@@ -3,6 +3,7 @@ Person: Mikel Maron
 date: '2011-12-20 00:34:23 Z'
 Working Group: []
 Projects: []
+permalink: updates/2011-12-20_activation_to_map_libyan_health_facilities
 title: Activation to Map Libyan Health Facilities
 created: 1324341263
 ---

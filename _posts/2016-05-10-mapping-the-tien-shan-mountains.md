@@ -10,6 +10,7 @@ date: '2016-05-10 18:58:07 Z'
 Working Group:
 - Training
 Projects: []
+permalink: updates/2016-05-10_mapping_the_tien_shan_mountains
 title: Mapping the Tien Shan mountains
 created: 1462906687
 ---

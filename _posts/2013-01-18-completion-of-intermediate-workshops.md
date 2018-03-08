@@ -12,6 +12,7 @@ date: '2013-01-18 10:53:02 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2013-01-18_completion_of_intermediate_workshops
 title: Completion of Intermediate Workshops
 created: 1358506382
 ---

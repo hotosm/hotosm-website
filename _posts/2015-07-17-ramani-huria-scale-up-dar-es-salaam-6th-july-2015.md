@@ -4,6 +4,7 @@ date: '2015-07-17 08:37:54 Z'
 Working Group: []
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2015-07-17_"ramani_huria"_scale_up_-_dar_es_salaam_6th_july_2015
 title: '"Ramani Huria" Scale Up - Dar es Salaam, 6th July, 2015'
 created: 1437122274
 ---

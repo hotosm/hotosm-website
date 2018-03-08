@@ -10,6 +10,7 @@ Working Group:
 - Activation
 Projects:
 - HOT Training Center
+permalink: updates/2015-09-08_activation_workshop_at_africa_open_data_conference
 title: Activation Workshop at Africa Open Data Conference
 created: 1441738671
 ---

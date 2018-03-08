@@ -4,6 +4,7 @@ date: '2012-09-24 06:57:34 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2012-09-24_from_remote_tracing_to_field_mapping_in_padang
 title: From Remote Tracing to Field Mapping in Padang
 created: 1348469854
 ---

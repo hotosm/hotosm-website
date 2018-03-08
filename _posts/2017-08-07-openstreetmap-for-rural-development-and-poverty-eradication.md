@@ -4,6 +4,7 @@ date: '2017-08-07 10:00:35 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2017-08-07_openstreetmap_for_rural_development_and_poverty_eradication
 title: OpenStreetMap for Rural Development and Poverty Eradication
 created: 1502100035
 ---

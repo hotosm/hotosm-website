@@ -10,6 +10,7 @@ date: '2016-03-07 03:40:57 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2016-03-07_utilizing_osm_data_for_disaster_risk_management_through_university_engagement_an
 title: Utilizing OSM Data for Disaster Risk Management Through University Engagement
   and Partnership
 created: 1457322057

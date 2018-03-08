@@ -5,6 +5,7 @@ Working Group:
 - Training
 Projects:
 - Mongolia, Mapping Ulaanbaatar
+permalink: updates/2013-10-20_keep_from_crumbling_-_ulaanbaatar_project_week_3
 title: Keep From Crumbling - Ulaanbaatar Project Week 3
 created: 1382270636
 ---

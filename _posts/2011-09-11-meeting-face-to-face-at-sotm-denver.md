@@ -4,6 +4,7 @@ date: '2011-09-11 22:12:59 Z'
 Working Group:
 - Training
 Projects: []
+permalink: updates/2011-09-11_meeting_face-to-face_at_sotm_denver
 title: Meeting face-to-face at SOTM Denver
 created: 1315779179
 ---

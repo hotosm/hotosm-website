@@ -4,6 +4,7 @@ date: '2016-03-09 08:53:20 Z'
 Working Group: []
 Projects:
 - Missing Maps
+permalink: updates/2016-03-09_200_kids_map_swaziland_for_malaria_elimination
 title: 200 Kids Map Swaziland for Malaria Elimination
 created: 1457513600
 ---

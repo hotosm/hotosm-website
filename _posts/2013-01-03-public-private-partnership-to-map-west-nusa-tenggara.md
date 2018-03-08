@@ -4,6 +4,7 @@ date: '2013-01-03 05:18:00 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2013-01-03_public/private_partnership_to_map_west_nusa_tenggara
 title: Public/Private Partnership to Map West Nusa Tenggara
 created: 1357190280
 ---

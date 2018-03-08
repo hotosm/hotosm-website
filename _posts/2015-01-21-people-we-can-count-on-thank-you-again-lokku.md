@@ -3,6 +3,7 @@ Person: Blake Girardot
 date: '2015-01-21 23:08:53 Z'
 Working Group: []
 Projects: []
+permalink: updates/2015-01-21__people_we_can_count_on_thank_you_again_lokku!
 title: 'People we can count on: Thank you again Lokku!'
 created: 1421881733
 ---

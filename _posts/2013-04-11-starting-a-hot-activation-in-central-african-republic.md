@@ -12,6 +12,7 @@ Working Group:
 - Technical
 Projects:
 - Central African Republic Activation
+permalink: updates/2013-04-11_starting_a_hot_activation_in_central_african_republic
 title: Starting a HOT Activation in Central African Republic
 created: 1365647097
 ---

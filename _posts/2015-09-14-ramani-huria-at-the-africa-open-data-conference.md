@@ -9,6 +9,7 @@ date: '2015-09-14 23:31:49 Z'
 Working Group: []
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2015-09-14_ramani_huria_at_the_africa_open_data_conference
 title: Ramani Huria at the Africa Open Data Conference
 created: 1442273509
 ---

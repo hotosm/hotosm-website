@@ -12,6 +12,7 @@ Person: Kate Chapman
 date: '2013-02-07 00:50:38 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-02-07_mapping_for_preparedness_in_nepal
 title: Mapping for Preparedness in Nepal
 created: 1360198238
 ---

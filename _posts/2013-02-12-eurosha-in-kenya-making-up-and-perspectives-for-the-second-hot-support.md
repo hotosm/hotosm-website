@@ -14,6 +14,7 @@ date: '2013-02-12 21:50:39 Z'
 Working Group: []
 Projects:
 - EUROSHA
+permalink: updates/2013-02-12_eurosha_in_kenya_making-up_and_perspectives_for_the_second_hot_support
 title: 'Eurosha in Kenya: making-up and perspectives for the second Hot support'
 created: 1360705839
 ---

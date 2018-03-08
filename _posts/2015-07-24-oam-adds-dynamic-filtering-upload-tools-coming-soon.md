@@ -4,6 +4,7 @@ date: '2015-07-24 07:31:00 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
+permalink: updates/2015-07-24_oam_adds_dynamic_filtering_upload_tools_coming_soon
 title: OAM Adds Dynamic Filtering, Upload Tools Coming Soon
 created: 1437723060
 ---

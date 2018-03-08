@@ -4,6 +4,7 @@ date: '2015-10-06 15:02:45 Z'
 Working Group: []
 Projects:
 - Export Tool
+permalink: updates/2015-10-06_the_new_osm_export_tool_is_live
 title: The new OSM Export Tool is Live
 created: 1444143765
 ---

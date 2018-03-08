@@ -3,6 +3,7 @@ Person: harry
 date: '2011-06-16 18:01:23 Z'
 Working Group: []
 Projects: []
+permalink: updates/2011-06-16_bevölkerungsschutz_und_katastrophenhilfe
 title: Bevölkerungsschutz und Katastrophenhilfe
 created: 1308247283
 ---

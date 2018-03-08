@@ -3,6 +3,7 @@ Person: jeff
 date: '2013-08-13 14:34:17 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-08-13_openstreetmap_sri_lanka
 title: OpenStreetMap Sri Lanka
 created: 1376404457
 ---

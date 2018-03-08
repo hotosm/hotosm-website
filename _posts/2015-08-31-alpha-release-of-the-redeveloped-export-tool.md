@@ -4,6 +4,7 @@ date: '2015-08-31 19:40:27 Z'
 Working Group: []
 Projects:
 - Export Tool
+permalink: updates/2015-08-31_alpha_release_of_the_redeveloped_export_tool_
 title: Alpha Release of the Redeveloped Export Tool
 created: 1441050027
 ---

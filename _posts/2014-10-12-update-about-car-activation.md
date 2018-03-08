@@ -5,6 +5,7 @@ Working Group:
 - Activation
 Projects:
 - Central African Republic Activation
+permalink: updates/2014-10-12_update_about_car_activation
 title: Update about CAR Activation
 created: 1413078084
 ---

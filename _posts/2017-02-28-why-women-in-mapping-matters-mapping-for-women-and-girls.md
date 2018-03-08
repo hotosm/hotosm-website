@@ -4,6 +4,7 @@ date: '2017-02-28 19:46:50 Z'
 Working Group: []
 Projects:
 - Women and Girls in Mapping
+permalink: updates/2017-02-28_why_women_in_mapping_matters_-_mapping_for_women_and_girls
 title: WHY WOMEN IN MAPPING MATTERS - Mapping for women and girls
 created: 1488311210
 ---

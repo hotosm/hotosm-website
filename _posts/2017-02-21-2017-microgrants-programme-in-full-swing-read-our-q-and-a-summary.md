@@ -4,6 +4,7 @@ date: '2017-02-21 19:07:16 Z'
 Working Group: []
 Projects:
 - Microgrants and Community Development
+permalink: updates/2017-02-21_2017_microgrants_programme_in_full_swing_-_read_our_q&a_summary
 title: 2017 Microgrants Programme in full swing - read our Q&A summary
 created: 1487704036
 ---

@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Malaria Elimination Campaign
+permalink: updates/2017-05-19_5600000_map_edits_to_eliminate_malaria
 title: 5,600,000 map edits to Eliminate Malaria
 created: 1495176666
 ---

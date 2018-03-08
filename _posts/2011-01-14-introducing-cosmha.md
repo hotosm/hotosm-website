@@ -3,6 +3,7 @@ Person: robert
 date: '2011-01-14 06:34:38 Z'
 Working Group: []
 Projects: []
+permalink: updates/2011-01-14_introducing_cosmha
 title: Introducing COSMHA
 created: 1294986878
 ---

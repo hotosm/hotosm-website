@@ -3,6 +3,7 @@ Person: dane
 date: '2010-06-03 05:26:27 Z'
 Working Group: []
 Projects: []
+permalink: updates/2010-06-03_mission_2_report_on_field_trips_to_jacmel_and_leogane
 title: 'Mission 2: report on field trips to Jacmel and Leogane'
 created: 1275542787
 ---

@@ -4,6 +4,7 @@ date: '2017-05-25 12:29:56 Z'
 Working Group: []
 Projects:
 - 'LEGIT: Supporting decentralization in Liberian cities'
+permalink: updates/2017-05-25_legit_kicks_off_field_mapping_with_training_in_monrovia
 title: LEGIT Kicks off Field Mapping with Training in Monrovia
 created: 1495715396
 ---

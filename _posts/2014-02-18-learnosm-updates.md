@@ -4,6 +4,7 @@ date: '2014-02-18 22:28:39 Z'
 Working Group: []
 Projects:
 - LearnOSM
+permalink: updates/2014-02-18_learnosm_updates
 title: LearnOSM Updates
 created: 1392762519
 ---

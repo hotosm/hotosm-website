@@ -4,6 +4,7 @@ date: '2016-08-15 18:32:35 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
+permalink: updates/2016-08-15_improving_resilience_with_aerial_imagery
 title: Improving Resilience with Aerial Imagery
 created: 1471285955
 ---

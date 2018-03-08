@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Mapping Financial Inclusion in Uganda
+permalink: updates/2016-12-20_making_use_cases_for_crowd_sourced_financial_services_data_in_uganda
 title: Making use cases for crowd sourced financial services data in Uganda
 created: 1482235628
 ---

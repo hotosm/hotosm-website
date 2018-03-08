@@ -4,6 +4,7 @@ date: '2016-11-23 21:53:28 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
+permalink: updates/2016-11-23_supporting_humanitarian_response_with_better_imagery_coordination
 title: Supporting Humanitarian Response with Better Imagery Coordination
 created: 1479938008
 ---

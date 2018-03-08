@@ -5,6 +5,7 @@ Working Group:
 - Technical
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2015-03-24_osm_tanzania
 title: OSM TANZANIA
 created: 1427175756
 ---

@@ -9,6 +9,7 @@ Person: Kate Chapman
 date: '2012-01-31 04:01:08 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-01-31_back_back_back_to_sumbawa
 title: Back, back, back to Sumbawa
 created: 1327982468
 ---

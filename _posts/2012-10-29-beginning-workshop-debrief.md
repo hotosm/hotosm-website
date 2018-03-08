@@ -10,6 +10,7 @@ date: '2012-10-29 11:00:03 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2012-10-29_beginning_workshop_debrief
 title: Beginning Workshop Debrief
 created: 1351508403
 ---

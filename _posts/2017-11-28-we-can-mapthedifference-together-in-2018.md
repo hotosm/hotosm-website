@@ -3,6 +3,7 @@ Person: Rachel VanNice
 date: '2017-11-28 23:06:30 Z'
 Working Group: []
 Projects: []
+permalink: updates/2017-11-28_we_can_#mapthedifference_together_in_2018!
 title: 'We can #mapthedifference together in 2018!'
 created: 1511910390
 ---

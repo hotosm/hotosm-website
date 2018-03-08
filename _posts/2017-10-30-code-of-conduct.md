@@ -4,6 +4,7 @@ date: '2017-10-30 16:38:18 Z'
 Working Group:
 - Governance
 Projects: []
+permalink: updates/2017-10-30_code_of_conduct
 title: Code of Conduct
 created: 1509381498
 ---

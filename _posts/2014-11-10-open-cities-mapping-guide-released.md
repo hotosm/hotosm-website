@@ -4,6 +4,7 @@ date: '2014-11-10 18:02:09 Z'
 Working Group:
 - Community
 Projects: []
+permalink: updates/2014-11-10_open_cities_mapping_guide_released
 title: Open Cities Mapping Guide Released
 created: 1415642529
 ---

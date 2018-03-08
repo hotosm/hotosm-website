@@ -11,6 +11,7 @@ date: '2012-06-24 23:35:18 Z'
 Working Group: []
 Projects:
 - 'Haiti '
+permalink: updates/2012-06-24_return_to_the_training_in_saint-marc_haiti_mixing_generic_and_specific_teaching_
 title: 'Return to the training in Saint-Marc, Haiti: mixing generic and specific teaching
   aid to build strong OSM mapping capacities'
 created: 1340580918

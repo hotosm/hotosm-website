@@ -4,6 +4,7 @@ date: '2010-06-21 01:53:01 Z'
 Working Group:
 - Training
 Projects: []
+permalink: updates/2010-06-21_haiti_mission_3_-_week_1_in_port-au-prince
 title: Haiti mission 3 - Week 1 in Port-au-Prince
 created: 1277085181
 ---

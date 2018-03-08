@@ -4,6 +4,7 @@ date: '2017-04-03 17:18:39 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
+permalink: updates/2017-04-03_uploading_made_easier_new_options_available_for_openaerialmap
 title: 'Uploading made easier: new options available for OpenAerialMap'
 created: 1491239919
 ---

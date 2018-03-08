@@ -10,6 +10,7 @@ Working Group:
 - Security
 Projects:
 - Mongolia, Mapping Ulaanbaatar
+permalink: updates/2015-07-03_mapping_ulaanbaatar_with_asia_foundation
 title: Mapping Ulaanbaatar with Asia Foundation
 created: 1435936166
 ---

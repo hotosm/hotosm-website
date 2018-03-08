@@ -12,6 +12,7 @@ Working Group:
 - Communications
 Projects:
 - Outreachy
+permalink: updates/2015-05-18_a_warm_welcome_to_the_outreachy_hot_interns
 title: A Warm Welcome to the Outreachy HOT Interns
 created: 1431963906
 ---

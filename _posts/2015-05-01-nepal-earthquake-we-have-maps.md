@@ -5,6 +5,7 @@ Working Group:
 - Fundraising
 Projects:
 - Nepal 2015 Earthquake Response
+permalink: updates/2015-05-01_nepal_earthquake_we_have_maps
 title: Nepal earthquake. We have maps
 created: 1430444563
 ---

@@ -5,6 +5,7 @@ Working Group:
 - Technical
 Projects:
 - Nepal 2015 Earthquake Response
+permalink: updates/2015-04-26_hot_activates_for_nepal_response_-_report_#2
 title: 'HOT Activates for Nepal Response - Report #2'
 created: 1430028311
 ---

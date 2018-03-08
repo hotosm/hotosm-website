@@ -3,6 +3,7 @@ Person: Nate Smith
 date: '2017-03-15 13:59:24 Z'
 Working Group: []
 Projects: []
+permalink: updates/2017-03-15_imagery_released_for_cyclone_enawo_to_support_mapping_activities
 title: Imagery released for Cyclone Enawo to support mapping activities
 created: 1489586364
 ---

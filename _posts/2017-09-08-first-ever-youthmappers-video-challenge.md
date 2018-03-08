@@ -3,6 +3,7 @@ Person: Rachel VanNice
 date: '2017-09-08 21:48:49 Z'
 Working Group: []
 Projects: []
+permalink: updates/2017-09-08_first_ever_youthmappers_video_challenge_
 title: First Ever YouthMappers Video Challenge
 created: 1504907329
 ---

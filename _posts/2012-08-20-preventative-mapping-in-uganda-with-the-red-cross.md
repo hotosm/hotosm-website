@@ -12,6 +12,7 @@ Person: Katrina E.
 date: '2012-08-20 17:00:33 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-08-20_preventative_mapping_in_uganda_with_the_red_cross
 title: Preventative Mapping in Uganda with the Red Cross
 created: 1345482033
 ---

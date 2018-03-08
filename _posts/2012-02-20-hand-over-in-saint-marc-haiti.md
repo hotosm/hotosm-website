@@ -5,6 +5,7 @@ Working Group:
 - Training
 Projects:
 - 'Haiti '
+permalink: updates/2012-02-20_hand_over_in_saint-marc_haiti
 title: Hand over in Saint-Marc, Haiti
 created: 1329748511
 ---

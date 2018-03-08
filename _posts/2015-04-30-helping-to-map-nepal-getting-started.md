@@ -5,6 +5,7 @@ Working Group:
 - Activation
 Projects:
 - Nepal 2015 Earthquake Response
+permalink: updates/2015-04-30_helping_to_map_nepal_getting_started
 title: 'Helping to map Nepal: getting started'
 created: 1430368401
 ---

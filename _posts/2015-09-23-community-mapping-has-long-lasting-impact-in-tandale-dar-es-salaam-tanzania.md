@@ -9,6 +9,7 @@ date: '2015-09-23 09:32:53 Z'
 Working Group: []
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2015-09-23_community_mapping_has_long_lasting_impact_in_tandale_dar_es_salaam_tanzania
 title: Community mapping has long lasting impact in Tandale, Dar es Salaam Tanzania
 created: 1443000773
 ---

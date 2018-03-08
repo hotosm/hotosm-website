@@ -5,6 +5,7 @@ Person: russell deffner
 date: '2016-01-15 21:23:05 Z'
 Working Group: []
 Projects: []
+permalink: updates/2016-01-15_welcome_new_hot_voting_members!
 title: Welcome new HOT Voting Members!
 created: 1452892985
 ---

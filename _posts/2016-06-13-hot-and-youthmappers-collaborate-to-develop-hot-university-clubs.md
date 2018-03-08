@@ -8,6 +8,7 @@ Person: cshaw
 date: '2016-06-13 20:49:09 Z'
 Working Group: []
 Projects: []
+permalink: updates/2016-06-13_hot_and_youthmappers_collaborate_to_develop_hot_university_clubs
 title: HOT and YouthMappers Collaborate to Develop HOT University Clubs
 created: 1465850949
 ---

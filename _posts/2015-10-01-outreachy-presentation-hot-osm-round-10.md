@@ -4,6 +4,7 @@ date: '2015-10-01 09:42:44 Z'
 Working Group: []
 Projects:
 - Outreachy
+permalink: updates/2015-10-01_outreachy_presentation_|_hot_osm_round_10
 title: Outreachy Presentation | HOT OSM Round 10
 created: 1443692564
 ---

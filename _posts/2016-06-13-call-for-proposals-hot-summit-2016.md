@@ -9,6 +9,7 @@ date: '2016-06-13 23:11:54 Z'
 Working Group: []
 Projects:
 - HOT Summit 2016
+permalink: updates/2016-06-13_call_for_proposals_-_hot_summit_2016
 title: Call for Proposals - HOT Summit 2016
 created: 1465859514
 ---

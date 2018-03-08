@@ -4,6 +4,7 @@ date: '2016-05-25 09:56:17 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
+permalink: updates/2016-05-25_new_documentation_and_design_system_for_openaerialmap
 title: New Documentation and Design System for OpenAerialMap
 created: 1464170177
 ---

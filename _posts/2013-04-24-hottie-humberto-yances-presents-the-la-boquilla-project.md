@@ -9,6 +9,7 @@ Person: Mikel Maron
 date: '2013-04-24 20:00:54 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-04-24_hottie_humberto_yances_presents_the_la_boquilla_project
 title: Hottie Humberto Yances presents the La Boquilla Project
 created: 1366833654
 ---

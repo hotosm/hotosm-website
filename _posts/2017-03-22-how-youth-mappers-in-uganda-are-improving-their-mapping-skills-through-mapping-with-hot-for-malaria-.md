@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Malaria Elimination Campaign
+permalink: updates/2017-03-22_how_youth_mappers_in_uganda_are_improving_their_mapping_skills_through_mapping_w
 title: How Youth Mappers in Uganda are improving their mapping skills through mapping
   with HOT for Malaria Elimination
 created: 1490168878

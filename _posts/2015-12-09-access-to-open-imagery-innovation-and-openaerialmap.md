@@ -4,6 +4,7 @@ date: '2015-12-09 04:48:42 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
+permalink: updates/2015-12-09_access_to_open_imagery_innovation_and_openaerialmap
 title: 'Access to Open Imagery: Innovation and OpenAerialMap'
 created: 1449636522
 ---

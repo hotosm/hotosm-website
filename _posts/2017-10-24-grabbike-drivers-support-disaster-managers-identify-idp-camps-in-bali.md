@@ -4,6 +4,7 @@ date: '2017-10-24 07:34:57 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2017-10-24_grabbike_drivers_support_disaster_managers_identify_idp_camps_in_bali
 title: GrabBike Drivers Support Disaster Managers Identify IDP Camps in Bali
 created: 1508830497
 ---

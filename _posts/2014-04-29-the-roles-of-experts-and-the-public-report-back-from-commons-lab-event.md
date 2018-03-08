@@ -3,6 +3,7 @@ Person: Kate Chapman
 date: '2014-04-29 19:51:03 Z'
 Working Group: []
 Projects: []
+permalink: updates/2014-04-29_the_roles_of_experts_and_the_public_-_report_back_from_commons_lab_event
 title: The Roles of Experts and the Public - Report Back from Commons Lab Event
 created: 1398801063
 ---

@@ -3,6 +3,7 @@ Person: Mikel Maron
 date: '2011-11-11 05:10:12 Z'
 Working Group: []
 Projects: []
+permalink: updates/2011-11-11_the_amazing_osm_community_and_the_tasking_server_maps_swaziland
 title: The Amazing OSM Community, and the Tasking Server, Maps Swaziland
 created: 1320988212
 ---

@@ -7,6 +7,7 @@ Person: Mikel Maron
 date: '2012-01-31 17:50:04 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-01-31_wrapping_up_the_libyan_health_facility_activation
 title: Wrapping up the Libyan Health Facility Activation
 created: 1328032204
 ---

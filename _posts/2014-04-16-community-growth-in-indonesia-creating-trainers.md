@@ -4,6 +4,7 @@ date: '2014-04-16 18:39:23 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2014-04-16_community_growth_in_indonesia_-_creating_trainers
 title: Community Growth in Indonesia - Creating Trainers
 created: 1397673563
 ---

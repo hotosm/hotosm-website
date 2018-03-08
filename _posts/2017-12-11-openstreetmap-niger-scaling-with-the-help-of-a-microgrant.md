@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
+permalink: updates/2017-12-11_openstreetmap_niger_scaling_with_the_help_of_a_microgrant
 title: 'OpenStreetMap Niger: Scaling with the help of a Microgrant'
 created: 1513023415
 ---

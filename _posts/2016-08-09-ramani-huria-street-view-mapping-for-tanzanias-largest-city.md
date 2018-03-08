@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2016-08-09_ramani_huria_street_view_mapping_for_tanzania's_largest_city
 title: 'Ramani Huria: Street View Mapping for Tanzania''s Largest City'
 created: 1470762171
 ---

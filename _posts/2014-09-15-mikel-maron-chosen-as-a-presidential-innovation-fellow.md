@@ -3,6 +3,7 @@ Person: Jaakko Helleranta
 date: '2014-09-15 21:06:12 Z'
 Working Group: []
 Projects: []
+permalink: updates/2014-09-15_mikel_maron_chosen_as_a_presidential_innovation_fellow
 title: Mikel Maron Chosen as a Presidential Innovation Fellow
 created: 1410815172
 ---

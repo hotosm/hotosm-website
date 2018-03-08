@@ -4,6 +4,7 @@ date: '2015-04-30 11:31:15 Z'
 Working Group:
 - Training
 Projects: []
+permalink: updates/2015-04-30_welcome_tyler!
 title: Welcome Tyler!
 created: 1430393475
 ---

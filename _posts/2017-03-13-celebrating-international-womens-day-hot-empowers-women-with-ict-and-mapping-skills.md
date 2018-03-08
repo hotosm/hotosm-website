@@ -4,6 +4,7 @@ date: '2017-03-13 09:19:04 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2017-03-13_celebrating_international_women’s_day_hot_empowers_women_with_ict_and_mapping_
 title: 'Celebrating International Women’s Day: HOT Empowers Women with ICT and Mapping
   Skills'
 created: 1489396744

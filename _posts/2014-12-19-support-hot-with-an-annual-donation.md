@@ -3,6 +3,7 @@ Person: Heather Leson
 date: '2014-12-19 14:38:50 Z'
 Working Group: []
 Projects: []
+permalink: updates/2014-12-19_support_hot_with_an_annual_donation
 title: Support HOT with an Annual Donation
 created: 1418999930
 ---

@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+permalink: updates/2017-07-06_bringing_remote_mapping_to_the_field
 title: Bringing Remote Mapping to the Field
 created: 1499330505
 ---

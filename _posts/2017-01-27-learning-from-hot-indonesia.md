@@ -8,6 +8,7 @@ Projects:
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
   Project in Indonesia"
+permalink: updates/2017-01-27_learning_from_hot_indonesia
 title: Learning from HOT Indonesia
 created: 1485512940
 ---

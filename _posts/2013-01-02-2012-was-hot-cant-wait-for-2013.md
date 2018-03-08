@@ -11,6 +11,7 @@ Person: Kate Chapman
 date: '2013-01-02 14:39:41 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-01-02_2012_was_hotcan't_wait_for_2013
 title: 2012 Was HOT...Can't Wait for 2013
 created: 1357137581
 ---

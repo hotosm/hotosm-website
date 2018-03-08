@@ -3,6 +3,7 @@ Person: Mikel Maron
 date: '2010-03-02 20:55:03 Z'
 Working Group: []
 Projects: []
+permalink: updates/2010-03-02_hot_list_by_mikel
 title: HOT List by Mikel
 created: 1267563303
 ---

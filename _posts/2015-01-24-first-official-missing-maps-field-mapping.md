@@ -4,6 +4,7 @@ date: '2015-01-24 19:31:30 Z'
 Working Group: []
 Projects:
 - Missing Maps
+permalink: updates/2015-01-24_first_official_missing_maps_field_mapping!
 title: First official Missing Maps field mapping!
 created: 1422127890
 ---

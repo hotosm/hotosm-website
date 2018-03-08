@@ -4,6 +4,7 @@ date: '2015-10-02 20:22:28 Z'
 Working Group:
 - Community
 Projects: []
+permalink: updates/2015-10-02_hot_announces_tyler_radford_as_our_executive_director
 title: HOT Announces Tyler Radford as our Executive Director
 created: 1443817348
 ---

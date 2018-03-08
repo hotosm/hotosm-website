@@ -16,6 +16,7 @@ Person: Tyler Radford
 date: '2016-06-29 22:14:52 Z'
 Working Group: []
 Projects: []
+permalink: updates/2016-06-29_hot's_commitment_to_the_sustainable_development_goals_and_how_you_can_help
 title: HOT's Commitment to the Sustainable Development Goals, and How You Can Help
 created: 1467238492
 ---

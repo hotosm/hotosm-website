@@ -4,6 +4,7 @@ date: '2016-02-01 10:11:39 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2016-02-01_geo_data_collect_mobile_data_collection_and_tracking
 title: 'Geo Data Collect: Mobile Data Collection and Tracking'
 created: 1454321499
 ---

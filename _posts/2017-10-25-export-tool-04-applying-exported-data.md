@@ -9,6 +9,7 @@ date: '2017-10-25 04:46:51 Z'
 Working Group: []
 Projects:
 - 'Export Tool 3.0 '
+permalink: updates/2017-10-25_export_tool_|_04_applying_exported_data
 title: Export Tool | 04 Applying Exported Data
 created: 1508906811
 ---

@@ -9,6 +9,7 @@ Person: Mikel Maron
 date: '2013-12-27 15:08:16 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-12-27_have_spare_holiday_time?_contribute_with_hot_mapping
 title: Have Spare Holiday Time? Contribute with HOT Mapping
 created: 1388156896
 ---

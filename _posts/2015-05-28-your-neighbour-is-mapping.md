@@ -3,6 +3,7 @@ Person: kristenegermeier
 date: '2015-05-28 14:55:47 Z'
 Working Group: []
 Projects: []
+permalink: updates/2015-05-28_your_neighbour_is_mapping
 title: Your Neighbour is Mapping
 created: 1432824947
 ---

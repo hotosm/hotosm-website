@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2017-07-18_three_hundred_students_to_map_for_flood_resilience_in_dar_es_salaam
 title: Three Hundred Students to Map for Flood Resilience in Dar es Salaam
 created: 1500411600
 ---

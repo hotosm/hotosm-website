@@ -4,6 +4,7 @@ date: '2016-01-18 13:09:43 Z'
 Working Group: []
 Projects:
 - Mapping Financial Inclusion in Uganda
+permalink: updates/2016-01-18_first_week_of_mapping_in_mbale_uganda
 title: First week of mapping in Mbale, Uganda
 created: 1453122583
 ---

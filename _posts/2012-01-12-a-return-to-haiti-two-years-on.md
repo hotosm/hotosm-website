@@ -4,6 +4,7 @@ date: '2012-01-12 00:00:00 Z'
 Working Group: []
 Projects:
 - 'Haiti '
+permalink: updates/2012-01-12_a_return_to_haiti_two_years_on
 title: A return to Haiti two years on
 created: 1326326400
 ---

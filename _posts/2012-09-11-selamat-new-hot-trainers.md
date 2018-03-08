@@ -5,6 +5,7 @@ date: '2012-09-11 08:33:20 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2012-09-11_selamat_new_hot_trainers
 title: Selamat New HOT Trainers
 created: 1347352400
 ---

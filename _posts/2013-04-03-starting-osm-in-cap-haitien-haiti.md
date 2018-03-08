@@ -8,6 +8,7 @@ Person: nicolas
 date: '2013-04-03 04:14:35 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-04-03_starting_osm_in_cap-haitien_(haiti)
 title: Starting OSM in Cap-Haitien (Haiti)
 created: 1364962475
 ---

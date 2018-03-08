@@ -4,6 +4,7 @@ date: '2013-12-17 12:53:26 Z'
 Working Group: []
 Projects:
 - Typhoon Haiyan
+permalink: updates/2013-12-17_imagery_for_haiyan
 title: Imagery for Haiyan
 created: 1387284806
 ---

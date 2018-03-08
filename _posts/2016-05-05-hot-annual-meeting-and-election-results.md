@@ -3,6 +3,7 @@ Person: Mikel Maron
 date: '2016-05-05 19:54:12 Z'
 Working Group: []
 Projects: []
+permalink: updates/2016-05-05_hot_annual_meeting_and_election_results
 title: HOT Annual Meeting and Election Results
 created: 1462478052
 ---

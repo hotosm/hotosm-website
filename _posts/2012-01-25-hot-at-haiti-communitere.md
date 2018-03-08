@@ -12,6 +12,7 @@ date: '2012-01-25 06:16:59 Z'
 Working Group: []
 Projects:
 - 'Haiti '
+permalink: updates/2012-01-25_hot_at_haiti_communitere
 title: HOT at Haiti Communitere
 created: 1327472219
 ---

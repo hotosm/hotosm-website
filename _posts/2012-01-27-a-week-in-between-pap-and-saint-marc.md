@@ -4,6 +4,7 @@ date: '2012-01-27 02:28:41 Z'
 Working Group: []
 Projects:
 - 'Haiti '
+permalink: updates/2012-01-27_a_week_in_between_pap_and_saint_marc
 title: A week in between Pap and Saint Marc
 created: 1327631321
 ---

@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
+permalink: updates/2017-12-06_mapping_arsenic_contamination_-_youth_mappers_at_auw_bangladesh
 title: Mapping Arsenic Contamination - Youth Mappers at AUW Bangladesh
 created: 1512565874
 ---

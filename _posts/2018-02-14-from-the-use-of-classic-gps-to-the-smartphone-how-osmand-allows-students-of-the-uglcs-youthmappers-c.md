@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
+permalink: updates/2018-02-14_from_the_use_of_classic_gps_to_the_smartphone_how_osmand_allows_students_of_the_
 title: 'From the use of classic GPS to the smartphone: how OsmAnd allows students
   of the UGLCS YouthMappers chapter to collect data in the field'
 created: 1518611304

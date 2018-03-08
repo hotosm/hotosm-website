@@ -7,6 +7,7 @@ Projects:
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
   Project in Indonesia"
+permalink: updates/2017-05-22_inaware_mapping_project_moves_from_surabaya_to_jakarta
 title: InAWARE Mapping Project Moves from Surabaya to Jakarta
 created: 1495447345
 ---

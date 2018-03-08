@@ -10,6 +10,7 @@ Working Group:
 - Technical
 Projects:
 - 'Export Tool 3.0 '
+permalink: updates/2017-09-25_export_tool_|_01_selecting_area_of_interest
 title: Export Tool | 01 Selecting Area of Interest
 created: 1506375708
 ---

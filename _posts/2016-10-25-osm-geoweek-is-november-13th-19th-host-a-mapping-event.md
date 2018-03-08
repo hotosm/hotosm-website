@@ -3,6 +3,7 @@ Person: Tyler Radford
 date: '2016-10-25 15:53:49 Z'
 Working Group: []
 Projects: []
+permalink: updates/2016-10-25_osm_geoweek_is_november_13th-19th_host_a_mapping_event!
 title: 'OSM GeoWeek is November 13th-19th: Host a Mapping Event!'
 created: 1477410829
 ---

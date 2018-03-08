@@ -13,6 +13,7 @@ date: '2012-06-22 23:04:01 Z'
 Working Group: []
 Projects:
 - Somalia
+permalink: updates/2012-06-22_finishing_off_the_refugee_camp_mapping
 title: Finishing off the refugee camp mapping
 created: 1340406241
 ---

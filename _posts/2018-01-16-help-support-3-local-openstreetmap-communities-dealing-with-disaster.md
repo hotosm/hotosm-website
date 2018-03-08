@@ -8,6 +8,7 @@ Working Group:
 - Activation
 Projects:
 - HOT Training Center
+permalink: updates/2018-01-16_help_support_3_local_openstreetmap_communities_dealing_with_disaster!
 title: Help Support 3 Local OpenStreetMap Communities Dealing With Disaster!
 created: 1516139347
 ---

@@ -13,6 +13,7 @@ Working Group:
 - Activation
 Projects:
 - Hurricane Patricia
+permalink: updates/2015-10-25_updates_and_info_on_hot's_hurricane_patricia_mapping_from_the_activation_team
 title: Updates and info on HOT's Hurricane Patricia mapping from the Activation Team
 created: 1445781470
 ---

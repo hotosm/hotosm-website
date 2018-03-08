@@ -11,6 +11,7 @@ date: '2012-08-23 16:51:19 Z'
 Working Group: []
 Projects:
 - 'Haiti '
+permalink: updates/2012-08-23_tropical_storm_isaac_getting_to_haiti
 title: Tropical Storm Isaac getting to Haiti
 created: 1345740679
 ---

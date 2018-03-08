@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Mapping Financial Inclusion in Uganda
+permalink: updates/2016-09-15_mapping_for_resilience_-_karamoja_region_uganda
 title: Mapping for Resilience - Karamoja Region, Uganda
 created: 1473948838
 ---

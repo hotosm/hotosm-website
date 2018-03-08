@@ -8,6 +8,7 @@ Person: Kate Chapman
 date: '2012-05-14 16:39:01 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-05-14_update_from_hot's_strategic_planning_meeting
 title: Update from HOT's Strategic Planning Meeting
 created: 1337013541
 ---

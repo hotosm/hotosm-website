@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2017-01-26_ramani_huria_trains_secondary_school_students_during_stem_boot_camp
 title: Ramani Huria Trains Secondary School Students During STEM Boot Camp
 created: 1485417473
 ---

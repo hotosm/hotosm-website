@@ -3,6 +3,7 @@ Person: Heather Leson
 date: '2015-07-02 14:54:18 Z'
 Working Group: []
 Projects: []
+permalink: updates/2015-07-02_be_the_executive_director_of_humanitarian_openstreetmap_team
 title: Be the Executive Director of Humanitarian OpenStreetMap Team
 created: 1435848858
 ---

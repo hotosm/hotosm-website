@@ -7,6 +7,7 @@ Projects:
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
   Project in Indonesia"
+permalink: updates/2016-09-30_hot_prepares_to_map_lifeline_infrastructure_in_surabaya
 title: HOT Prepares to Map Lifeline Infrastructure in Surabaya
 created: 1475214273
 ---

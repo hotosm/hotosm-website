@@ -3,6 +3,7 @@ Person: harry
 date: '2010-08-25 17:16:19 Z'
 Working Group: []
 Projects: []
+permalink: updates/2010-08-25_pakistan_floods
 title: Pakistan floods
 created: 1282756579
 ---

@@ -11,6 +11,7 @@ date: '2015-11-19 06:11:48 Z'
 Working Group: []
 Projects:
 - West Africa Ebola Epidemic
+permalink: updates/2015-11-19_hewlett_foundation_grant_summary_|_ebola_epidemic_response_
 title: Hewlett Foundation Grant Summary | Ebola Epidemic Response
 created: 1447913508
 ---

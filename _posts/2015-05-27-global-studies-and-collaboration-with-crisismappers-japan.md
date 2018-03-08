@@ -10,6 +10,7 @@ Working Group:
 - Community
 Projects:
 - Nepal 2015 Earthquake Response
+permalink: updates/2015-05-27_global_studies_and_collaboration_with_crisismappers_japan
 title: Global Studies and Collaboration with CrisisMappers Japan
 created: 1432754788
 ---

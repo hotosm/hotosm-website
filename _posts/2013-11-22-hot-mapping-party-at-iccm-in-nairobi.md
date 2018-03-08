@@ -5,6 +5,7 @@ Working Group:
 - Training
 Projects:
 - Typhoon Haiyan
+permalink: updates/2013-11-22_hot_mapping_party_at_#iccm_in_nairobi
 title: 'HOT Mapping party at #ICCM in Nairobi'
 created: 1385127827
 ---

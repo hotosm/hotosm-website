@@ -3,6 +3,7 @@ Person: Steven Johnson
 date: '2015-05-28 20:44:06 Z'
 Working Group: []
 Projects: []
+permalink: updates/2015-05-28_hot_attends_first_white_house_mapathon
 title: HOT attends first White House Mapathon
 created: 1432845846
 ---

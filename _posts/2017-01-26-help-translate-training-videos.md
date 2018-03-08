@@ -5,6 +5,7 @@ Working Group:
 - Training
 Projects:
 - Missing Maps
+permalink: updates/2017-01-26_help_translate_training_videos
 title: Help Translate Training Videos
 created: 1485404031
 ---

@@ -8,6 +8,7 @@ Working Group:
 - Technical
 Projects:
 - 'Export Tool 3.0 '
+permalink: updates/2017-09-19_export_tool_30_launched
 title: Export Tool 3.0 Launched
 created: 1505787917
 ---

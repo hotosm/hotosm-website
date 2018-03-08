@@ -4,6 +4,7 @@ date: '2015-11-04 10:14:25 Z'
 Working Group: []
 Projects:
 - Export Tool
+permalink: updates/2015-11-04_old_export_tool_moving_to_hot_servers_as_read-only_copy
 title: Old Export Tool Moving to HOT Servers as Read-Only Copy
 created: 1446632065
 ---

@@ -4,6 +4,7 @@ date: '2012-03-12 05:00:39 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2012-03-12_creating_sustainable_community_mapping_projects_workshop
 title: Creating Sustainable Community Mapping Projects Workshop
 created: 1331528439
 ---

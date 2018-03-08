@@ -8,6 +8,7 @@ Person: russell deffner
 date: '2016-03-23 20:19:59 Z'
 Working Group: []
 Projects: []
+permalink: updates/2016-03-23_hot_2016_annual_meeting_and_elections
 title: HOT 2016 Annual Meeting and Elections
 created: 1458764399
 ---

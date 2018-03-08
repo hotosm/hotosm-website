@@ -4,6 +4,7 @@ date: '2013-12-01 10:28:03 Z'
 Working Group: []
 Projects:
 - Typhoon Haiyan
+permalink: updates/2013-12-01_mapping_request_for_carles_area_(typhoon_haiyan)
 title: Mapping Request for Carles area (Typhoon Haiyan)
 created: 1385893683
 ---

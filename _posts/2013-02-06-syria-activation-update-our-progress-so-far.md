@@ -12,6 +12,7 @@ Person: joseph
 date: '2013-02-06 20:51:28 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-02-06_syria_activation_update_our_progress_so_far
 title: 'Syria Activation Update: Our progress so far'
 created: 1360183888
 ---

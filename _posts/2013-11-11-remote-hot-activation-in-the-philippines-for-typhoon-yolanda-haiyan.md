@@ -5,6 +5,7 @@ Working Group:
 - Technical
 Projects:
 - Typhoon Haiyan
+permalink: updates/2013-11-11_remote_hot_activation_in_the_philippines_for_typhoon_yolanda/haiyan
 title: Remote HOT Activation in the Philippines for Typhoon Yolanda/Haiyan
 created: 1384134044
 ---

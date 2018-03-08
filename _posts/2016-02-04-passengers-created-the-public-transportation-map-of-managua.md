@@ -11,6 +11,7 @@ date: '2016-02-04 09:06:18 Z'
 Working Group: []
 Projects:
 - Public transportation map for Managua
+permalink: updates/2016-02-04_passengers_created_the_public_transportation_map_of_managua
 title: Passengers created the public transportation map of Managua
 created: 1454576778
 ---

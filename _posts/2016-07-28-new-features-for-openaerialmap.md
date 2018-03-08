@@ -4,6 +4,7 @@ date: '2016-07-28 05:44:51 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
+permalink: updates/2016-07-28_new_features_for_openaerialmap
 title: New Features for OpenAerialMap
 created: 1469684691
 ---

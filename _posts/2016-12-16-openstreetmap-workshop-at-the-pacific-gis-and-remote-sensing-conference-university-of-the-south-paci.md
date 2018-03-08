@@ -4,6 +4,7 @@ date: '2016-12-16 13:03:30 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
+permalink: updates/2016-12-16_openstreetmap_workshop_at_the_pacific_gis_and_remote_sensing_conference_(univers
 title: OpenStreetMap Workshop at The Pacific GIS and Remote Sensing Conference (University
   of the South Pacific)
 created: 1481893410

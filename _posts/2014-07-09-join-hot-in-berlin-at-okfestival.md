@@ -3,6 +3,7 @@ Person: Heather Leson
 date: '2014-07-09 18:10:29 Z'
 Working Group: []
 Projects: []
+permalink: updates/2014-07-09_join_hot_in_berlin_at_okfestival!
 title: Join HOT in Berlin at OKFestival!
 created: 1404929429
 ---

@@ -4,6 +4,7 @@ date: '2017-09-06 18:08:07 Z'
 Working Group:
 - Training
 Projects: []
+permalink: updates/2017-09-06_humanitarian_openstreetmap_team_and_unhcr_work_together_to_empower_refugees_and_
 title: Humanitarian OpenStreetMap Team and UNHCR work together to empower refugees
   and hosting communities in Uganda
 created: 1504721287

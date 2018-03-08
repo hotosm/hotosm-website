@@ -3,6 +3,7 @@ Person: Kate Chapman
 date: '2014-04-22 12:17:26 Z'
 Working Group: []
 Projects: []
+permalink: updates/2014-04-22_mapping_on_in_haiphong
 title: Mapping on in Haiphong
 created: 1398169046
 ---

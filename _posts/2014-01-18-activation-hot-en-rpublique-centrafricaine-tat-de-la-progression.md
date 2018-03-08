@@ -4,6 +4,7 @@ date: '2014-01-18 21:42:49 Z'
 Working Group: []
 Projects:
 - Central African Republic Activation
+permalink: updates/2014-01-18_activation_hot_en_république_centrafricaine__état_de_la_progression
 title: 'Activation HOT en République centrafricaine : état de la progression'
 created: 1390081369
 ---

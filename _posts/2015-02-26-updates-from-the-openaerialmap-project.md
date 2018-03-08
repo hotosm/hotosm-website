@@ -4,6 +4,7 @@ date: '2015-02-26 01:50:32 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
+permalink: updates/2015-02-26_updates_from_the_openaerialmap_project
 title: Updates from the OpenAerialMap Project
 created: 1424915432
 ---

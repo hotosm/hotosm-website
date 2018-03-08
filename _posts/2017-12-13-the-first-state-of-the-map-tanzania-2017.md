@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2017-12-13_the_first_state_of_the_map_tanzania_-_2017
 title: The First State of the Map Tanzania - 2017
 created: 1513151746
 ---

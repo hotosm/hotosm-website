@@ -9,6 +9,7 @@ date: '2017-10-04 15:00:49 Z'
 Working Group: []
 Projects:
 - Malaria Elimination Campaign
+permalink: updates/2017-10-04_malaria_elimination_mapping_continues
 title: Malaria Elimination Mapping Continues
 created: 1507129249
 ---

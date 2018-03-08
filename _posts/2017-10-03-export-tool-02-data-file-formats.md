@@ -9,6 +9,7 @@ date: '2017-10-03 20:08:44 Z'
 Working Group: []
 Projects:
 - 'Export Tool 3.0 '
+permalink: updates/2017-10-03_export_tool_|_02_data_file_formats
 title: Export Tool | 02 Data File Formats
 created: 1507061324
 ---

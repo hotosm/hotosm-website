@@ -9,6 +9,7 @@ Working Group:
 - Activation
 Projects:
 - Eastern Afghanistan Earthquake
+permalink: updates/2015-10-29_eastern_afghanistan_earthquake_day_2
 title: Eastern Afghanistan Earthquake Day 2
 created: 1446090332
 ---

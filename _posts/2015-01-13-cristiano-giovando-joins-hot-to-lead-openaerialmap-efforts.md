@@ -4,6 +4,7 @@ date: '2015-01-13 20:38:22 Z'
 Working Group:
 - Training
 Projects: []
+permalink: updates/2015-01-13_cristiano_giovando_joins_hot_to_lead_openaerialmap_efforts
 title: Cristiano Giovando Joins HOT to Lead OpenAerialMap Efforts
 created: 1421181502
 ---

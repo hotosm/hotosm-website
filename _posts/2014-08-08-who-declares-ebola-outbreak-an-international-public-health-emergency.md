@@ -7,6 +7,7 @@ Working Group:
 - Training
 Projects:
 - West Africa Ebola Epidemic
+permalink: updates/2014-08-08__who_declares_ebola_outbreak_an_'international_public_health_emergency'
 title: WHO declares Ebola outbreak an 'international public health emergency'
 created: 1407531343
 ---

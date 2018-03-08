@@ -7,6 +7,7 @@ Person: Kate Chapman
 date: '2012-02-06 19:18:38 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-02-06_mapping_in_afghanistan_with_jalalagood
 title: Mapping in Afghanistan with Jalalagood
 created: 1328555918
 ---

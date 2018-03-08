@@ -4,6 +4,7 @@ date: '2015-05-27 17:03:16 Z'
 Working Group: []
 Projects:
 - Nepal 2015 Earthquake Response
+permalink: updates/2015-05-27_help_improve_mapping_take_hot's_community_survey
 title: 'Help improve mapping: Take HOT''s community survey'
 created: 1432746196
 ---

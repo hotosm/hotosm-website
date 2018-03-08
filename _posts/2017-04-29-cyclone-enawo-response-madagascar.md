@@ -5,6 +5,7 @@ Working Group:
 - Activation
 Projects:
 - Cyclone Enawo Response
+permalink: updates/2017-04-29_cyclone_enawo_response_-_madagascar_
 title: Cyclone Enawo Response - Madagascar
 created: 1493429254
 ---

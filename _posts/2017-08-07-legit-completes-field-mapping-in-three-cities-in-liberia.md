@@ -4,6 +4,7 @@ date: '2017-08-07 15:12:16 Z'
 Working Group: []
 Projects:
 - 'LEGIT: Supporting decentralization in Liberian cities'
+permalink: updates/2017-08-07_legit_completes_field_mapping_in_three_cities_in_liberia
 title: LEGIT Completes Field Mapping in Three Cities in Liberia
 created: 1502118736
 ---

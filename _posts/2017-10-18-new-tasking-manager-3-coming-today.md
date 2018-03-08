@@ -9,6 +9,7 @@ date: '2017-10-18 07:18:29 Z'
 Working Group: []
 Projects:
 - Tasking Manager
+permalink: updates/2017-10-18_new_tasking_manager_3_coming_today!
 title: New Tasking Manager 3 Coming Today!
 created: 1508311109
 ---

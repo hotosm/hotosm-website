@@ -4,6 +4,7 @@ date: '2013-01-04 16:16:02 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2013-01-04_mapping_selayar_island_with_help_from_mapbox_and_geoeye
 title: Mapping Selayar Island with Help from MapBox and GeoEye
 created: 1357316162
 ---

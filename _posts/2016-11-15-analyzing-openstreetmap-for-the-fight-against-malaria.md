@@ -4,6 +4,7 @@ date: '2016-11-15 12:31:08 Z'
 Working Group: []
 Projects:
 - OpenStreetMap Analytics
+permalink: updates/2016-11-15_analyzing_openstreetmap_for_the_fight_against_malaria
 title: Analyzing OpenStreetMap for the fight against malaria
 created: 1479213068
 ---

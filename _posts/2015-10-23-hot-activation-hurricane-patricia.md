@@ -5,6 +5,7 @@ Working Group:
 - Activation
 Projects:
 - Hurricane Patricia
+permalink: updates/2015-10-23_hot_activation_hurricane_patricia
 title: HOT Activation Hurricane Patricia
 created: 1445622109
 ---

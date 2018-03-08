@@ -4,6 +4,7 @@ date: '2012-03-10 17:38:41 Z'
 Working Group: []
 Projects:
 - 'Haiti '
+permalink: updates/2012-03-10_night_of_the_living_maps_in_saint-marc_02/07/2012
 title: Night Of The Living Maps in Saint-Marc, 02/07/2012
 created: 1331401121
 ---

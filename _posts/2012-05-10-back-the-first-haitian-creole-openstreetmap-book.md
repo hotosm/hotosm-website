@@ -12,6 +12,7 @@ date: '2012-05-10 13:33:20 Z'
 Working Group: []
 Projects:
 - 'Haiti '
+permalink: updates/2012-05-10_back_the_first_haitian_creole_openstreetmap_book!
 title: Back the First Haitian Creole OpenStreetMap Book!
 created: 1336656800
 ---

@@ -3,6 +3,7 @@ Person: Kate Chapman
 date: '2010-11-24 11:08:58 Z'
 Working Group: []
 Projects: []
+permalink: updates/2010-11-24_hot's_proposal_for_the_knight_news_challenge
 title: HOT's Proposal for the Knight News Challenge
 created: 1290596938
 ---

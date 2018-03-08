@@ -3,6 +3,7 @@ Person: nicolas
 date: '2010-09-08 15:19:28 Z'
 Working Group: []
 Projects: []
+permalink: updates/2010-09-08_fourth_deploy_of_the_hot_to_haiti_camp_mapping_project_with_iom
 title: 'Fourth deploy of the HOT to Haiti: camp mapping project with IOM'
 created: 1283959168
 ---

@@ -4,6 +4,7 @@ date: '2014-03-26 14:34:38 Z'
 Working Group: []
 Projects:
 - West Africa Ebola Epidemic
+permalink: updates/2014-03-26_mapping_guinea_help_wanted
 title: 'Mapping Guinea: Help Wanted'
 created: 1395844478
 ---

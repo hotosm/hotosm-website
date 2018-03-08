@@ -4,6 +4,7 @@ date: '2017-02-06 15:24:17 Z'
 Working Group: []
 Projects:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+permalink: updates/2017-02-06_kicking_off_the_“crowdsourcing_non-camp_refugee_data”_project
 title: Kicking off the “Crowdsourcing Non-Camp Refugee Data” project
 created: 1486394657
 ---

@@ -3,6 +3,7 @@ Person: nicolas
 date: '2010-04-17 03:30:24 Z'
 Working Group: []
 Projects: []
+permalink: updates/2010-04-17_mission_1_recap_from_third_week_conducting_outreach_and_training_on_osm_in_haiti
 title: 'Mission 1: recap from third week conducting outreach and training on OSM in
   Haiti by Nicolas'
 created: 1271475024

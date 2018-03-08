@@ -7,6 +7,7 @@ Working Group:
 - Community
 Projects:
 - Nepal 2015 Earthquake Response
+permalink: updates/2015-04-30_volunteers_from_around_the_world_help_hot_map_nepal
 title: Volunteers from around the world help HOT map Nepal
 created: 1430405205
 ---

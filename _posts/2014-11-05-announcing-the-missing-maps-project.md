@@ -4,6 +4,7 @@ date: '2014-11-05 02:57:03 Z'
 Working Group: []
 Projects:
 - Missing Maps
+permalink: updates/2014-11-05_announcing_the_missing_maps_project
 title: Announcing the Missing Maps Project
 created: 1415156223
 ---

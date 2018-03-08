@@ -11,6 +11,7 @@ Person: Kate Chapman
 date: '2013-03-04 09:40:05 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-03-04_tax-exempt_in_the_united_states_at_last!
 title: Tax-Exempt in the United States at Last!
 created: 1362390005
 ---

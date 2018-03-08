@@ -3,6 +3,7 @@ Person: harry
 date: '2012-09-30 16:01:43 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-09-30_hot_at_picnic
 title: HOT at PICNIC
 created: 1349020903
 ---

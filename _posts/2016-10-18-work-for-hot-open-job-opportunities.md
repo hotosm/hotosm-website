@@ -8,6 +8,7 @@ Person: Tyler Radford
 date: '2016-10-18 19:58:34 Z'
 Working Group: []
 Projects: []
+permalink: updates/2016-10-18_work_for_hot!_open_job_opportunities
 title: Work for HOT! Open Job Opportunities
 created: 1476820714
 ---

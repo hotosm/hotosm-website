@@ -4,6 +4,7 @@ date: '2016-11-24 06:42:07 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2016-11-24_boosting_spatial_data_awareness_and_participation_hot_indonesia_hosts_osmgeoweek
 title: Boosting Spatial Data Awareness and Participation, HOT Indonesia Hosts OSMGeoWeek
   Talkshow
 created: 1479969727

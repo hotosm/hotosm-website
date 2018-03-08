@@ -12,6 +12,7 @@ Person: Katrina E.
 date: '2013-06-20 15:15:53 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-06-20_faces_of_hot_heather_leson_newest_board_member
 title: 'Faces of HOT: Heather Leson, newest board member'
 created: 1371741353
 ---

@@ -4,6 +4,7 @@ date: '2014-03-31 01:59:34 Z'
 Working Group: []
 Projects:
 - West Africa Ebola Epidemic
+permalink: updates/2014-03-31_réponse_à_la_crise_d'Ébola_afrique_de_l'ouest_2014
 title: Réponse à la crise d'Ébola, Afrique de l'Ouest, 2014
 created: 1396231174
 ---

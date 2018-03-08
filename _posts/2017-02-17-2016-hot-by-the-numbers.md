@@ -6,6 +6,7 @@ date: '2017-02-17 06:00:00 Z'
 Working Group:
 - Communications
 Projects: []
+permalink: updates/2017-02-17_2016_hot_by_the_numbers
 title: 2016 HOT by the Numbers
 created: 1487311200
 ---

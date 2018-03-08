@@ -4,6 +4,7 @@ date: '2010-08-22 20:18:23 Z'
 Working Group:
 - Technical
 Projects: []
+permalink: updates/2010-08-22_hot_mission_4_to_haiti
 title: HOT Mission 4 to Haiti
 created: 1282508303
 ---

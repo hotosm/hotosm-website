@@ -3,6 +3,7 @@ Person: harry
 date: '2010-09-04 07:54:39 Z'
 Working Group: []
 Projects: []
+permalink: updates/2010-09-04_pakistan_spot_imagery_coverage_extended
 title: Pakistan SPOT imagery coverage extended
 created: 1283586879
 ---

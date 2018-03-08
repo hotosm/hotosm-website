@@ -11,6 +11,7 @@ date: '2013-05-28 14:59:22 Z'
 Working Group: []
 Projects:
 - 'Haiti '
+permalink: updates/2013-05-28_using_motorcycles_to_survey_in_haiti
 title: Using motorcycles to survey in Haiti
 created: 1369753162
 ---

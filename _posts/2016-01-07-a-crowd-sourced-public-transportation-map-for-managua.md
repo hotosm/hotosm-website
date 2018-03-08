@@ -9,6 +9,7 @@ date: '2016-01-07 19:56:18 Z'
 Working Group: []
 Projects:
 - Public transportation map for Managua
+permalink: updates/2016-01-07_a_crowd-sourced_public_transportation_map_for_managua
 title: A crowd-sourced public transportation map for Managua
 created: 1452196578
 ---

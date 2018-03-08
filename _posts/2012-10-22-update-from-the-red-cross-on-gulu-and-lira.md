@@ -13,6 +13,7 @@ Person: Mikel Maron
 date: '2012-10-22 16:21:49 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-10-22_update_from_the_red_cross_on_gulu_and_lira
 title: Update from the Red Cross on Gulu and Lira
 created: 1350922909
 ---

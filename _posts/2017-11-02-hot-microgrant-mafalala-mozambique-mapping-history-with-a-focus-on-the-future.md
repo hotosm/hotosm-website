@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
+permalink: updates/2017-11-02_hot_microgrant_mafalala_mozambique_-_mapping_history_with_a_focus_on_the_future
 title: 'HOT Microgrant: Mafalala, Mozambique - Mapping history with a focus on the
   future'
 created: 1509652826

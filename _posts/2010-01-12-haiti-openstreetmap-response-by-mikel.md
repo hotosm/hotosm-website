@@ -5,6 +5,7 @@ date: '2010-01-12 17:45:35 Z'
 Working Group: []
 Projects:
 - 'Haiti '
+permalink: updates/2010-01-12_haiti_openstreetmap_response_by_mikel
 title: Haiti OpenStreetMap Response by Mikel
 created: 1263318335
 ---

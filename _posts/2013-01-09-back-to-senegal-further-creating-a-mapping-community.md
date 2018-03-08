@@ -9,6 +9,7 @@ date: '2013-01-09 11:46:22 Z'
 Working Group: []
 Projects:
 - Senegal
+permalink: updates/2013-01-09_back_to_senegal_further_creating_a_mapping_community
 title: Back to Senegal, Further Creating a Mapping Community
 created: 1357731982
 ---

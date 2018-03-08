@@ -11,6 +11,7 @@ Person: pierre.beland
 date: '2012-02-22 15:24:52 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-02-22_foreign_affairs_and_international_trade_canada_department_ottawa
 title: Foreign Affairs and International Trade Canada department, Ottawa
 created: 1329924292
 ---

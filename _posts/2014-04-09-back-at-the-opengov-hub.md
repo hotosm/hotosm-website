@@ -10,6 +10,7 @@ Person: Kate Chapman
 date: '2014-04-09 19:35:50 Z'
 Working Group: []
 Projects: []
+permalink: updates/2014-04-09_"back"_at_the_opengov_hub
 title: '"Back" at the OpenGov Hub'
 created: 1397072150
 ---

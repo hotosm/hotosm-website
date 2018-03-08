@@ -5,6 +5,7 @@ Working Group:
 - Governance
 Projects:
 - West Africa Ebola Epidemic
+permalink: updates/2014-03-31_2014_west_africa_ebola_outbreak_response
 title: 2014 West Africa Ebola Outbreak Response
 created: 1396266087
 ---

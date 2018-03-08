@@ -10,6 +10,7 @@ date: '2013-03-20 16:06:46 Z'
 Working Group: []
 Projects:
 - LearnOSM
+permalink: updates/2013-03-20_learnosm_origin_and_relaunch
 title: LearnOSM Origin and Relaunch
 created: 1363795606
 ---

@@ -8,6 +8,7 @@ date: '2012-08-08 17:24:46 Z'
 Working Group: []
 Projects:
 - Senegal
+permalink: updates/2012-08-08_setting_up_the_osm_ecosystem_in_senegal_3_reaching_out_the_senegalese_geomatics_
 title: 'Setting up the OSM ecosystem in Senegal 3: Reaching out the Senegalese geomatics
   scene (Senegalese SDI)'
 created: 1344446686

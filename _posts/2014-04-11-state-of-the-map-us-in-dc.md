@@ -4,6 +4,7 @@ date: '2014-04-11 19:37:54 Z'
 Working Group:
 - Training
 Projects: []
+permalink: updates/2014-04-11_state_of_the_map_us_in_dc!
 title: State of the Map US in DC!
 created: 1397245074
 ---

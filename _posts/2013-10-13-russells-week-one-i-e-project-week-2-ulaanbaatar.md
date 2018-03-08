@@ -4,6 +4,7 @@ date: '2013-10-13 06:49:17 Z'
 Working Group: []
 Projects:
 - Mongolia, Mapping Ulaanbaatar
+permalink: updates/2013-10-13_russell's_week_one_(ie_project_week_2)_ulaanbaatar
 title: Russell's Week One (i.e. project week 2) Ulaanbaatar
 created: 1381646957
 ---

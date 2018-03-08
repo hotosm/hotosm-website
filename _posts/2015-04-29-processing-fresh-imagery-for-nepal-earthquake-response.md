@@ -6,6 +6,7 @@ Person: Cristiano Giovando
 date: '2015-04-29 03:00:03 Z'
 Working Group: []
 Projects: []
+permalink: updates/2015-04-29_processing_fresh_imagery_for_nepal_earthquake_response
 title: Processing Fresh Imagery for Nepal Earthquake Response
 created: 1430276403
 ---

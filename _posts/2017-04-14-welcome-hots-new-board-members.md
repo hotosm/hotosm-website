@@ -3,6 +3,7 @@ Person: Rachel VanNice
 date: '2017-04-14 23:42:22 Z'
 Working Group: []
 Projects: []
+permalink: updates/2017-04-14_welcome_hot's_new_board_members!_
 title: Welcome HOT's new board members!
 created: 1492213342
 ---

@@ -3,6 +3,7 @@ Person: nicolas
 date: '2010-06-18 20:27:30 Z'
 Working Group: []
 Projects: []
+permalink: updates/2010-06-18_haiti_mission_3_-_training_day_with_haitian_partners_of_the_project_winner
 title: Haiti mission 3 - Training Day with Haitian partners of the project WINNER
 created: 1276892850
 ---

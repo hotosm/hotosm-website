@@ -3,6 +3,7 @@ Person: ivan
 date: '2010-11-17 18:17:41 Z'
 Working Group: []
 Projects: []
+permalink: updates/2010-11-17_maps_for_mozambique
 title: Maps for Mozambique
 created: 1290017861
 ---

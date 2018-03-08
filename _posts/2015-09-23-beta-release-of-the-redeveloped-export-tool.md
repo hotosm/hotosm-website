@@ -5,6 +5,7 @@ Working Group:
 - Technical
 Projects:
 - Export Tool
+permalink: updates/2015-09-23_beta_release_of_the_redeveloped_export_tool
 title: Beta Release of the Redeveloped Export Tool
 created: 1442983549
 ---

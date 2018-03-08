@@ -9,6 +9,7 @@ Person: Mikel Maron
 date: '2012-05-25 01:28:30 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-05-25_openstreetmap_at_the_harvard_humanitarian_initiative_disaster_simulation
 title: OpenStreetMap at the Harvard Humanitarian Initiative Disaster Simulation
 created: 1337909310
 ---

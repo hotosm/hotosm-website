@@ -13,6 +13,7 @@ date: '2012-04-24 02:05:35 Z'
 Working Group: []
 Projects:
 - 'Haiti '
+permalink: updates/2012-04-24_coming_to_a_close_in_saint_marc
 title: Coming to a close in Saint Marc
 created: 1335233135
 ---

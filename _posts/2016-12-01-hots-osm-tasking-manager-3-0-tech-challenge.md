@@ -7,6 +7,7 @@ Working Group:
 - Training
 Projects:
 - OSM Tasking Manager 3.0 Development
+permalink: updates/2016-12-01_hot's_osm_tasking_manager_30_tech_challenge
 title: HOT's OSM Tasking Manager 3.0 Tech Challenge
 created: 1480618733
 ---

@@ -7,6 +7,7 @@ Person: russell deffner
 date: '2015-07-08 16:24:33 Z'
 Working Group: []
 Projects: []
+permalink: updates/2015-07-08_hot_leadership_2015
 title: HOT Leadership 2015
 created: 1436372673
 ---

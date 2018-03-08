@@ -3,6 +3,7 @@ Person: jeff
 date: '2013-09-02 04:28:14 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-09-02_open_cities_dhaka_kicks_off
 title: Open Cities Dhaka Kicks Off
 created: 1378096094
 ---

@@ -6,6 +6,7 @@ date: '2011-09-20 14:25:32 Z'
 Working Group: []
 Projects:
 - Tasking Manager
+permalink: updates/2011-09-20_hot_tasks!_get_your_hot_tasks!
 title: HOT Tasks! Get Your HOT Tasks!
 created: 1316528732
 ---

@@ -4,6 +4,7 @@ date: '2016-05-31 15:11:38 Z'
 Working Group: []
 Projects:
 - Hurricane Patricia
+permalink: updates/2016-05-31_hotosm_recognized_by_the_president_of_mexico_during_internet_day_2016
 title: HOTOSM recognized by the President of Mexico during Internet Day 2016
 created: 1464707498
 ---

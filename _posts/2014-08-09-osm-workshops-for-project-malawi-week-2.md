@@ -5,6 +5,7 @@ Working Group:
 - Technical
 Projects:
 - Malawi Flood Preparedness
+permalink: updates/2014-08-09_osm_workshops_for_project_malawi_(week_2)
 title: OSM Workshops for Project Malawi (Week 2)
 created: 1407590749
 ---

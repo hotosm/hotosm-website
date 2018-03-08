@@ -5,6 +5,7 @@ Working Group:
 - Activation
 Projects:
 - Sri Lanka Flooding 2016
+permalink: updates/2016-05-20_sri_lanka_floods_activation_sitrep_day_1
 title: 'Sri Lanka Floods Activation: Sitrep Day 1'
 created: 1463725145
 ---

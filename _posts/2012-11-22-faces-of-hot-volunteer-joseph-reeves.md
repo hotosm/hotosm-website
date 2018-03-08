@@ -9,6 +9,7 @@ date: '2012-11-22 06:20:35 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2012-11-22_faces_of_hot__volunteer_joseph_reeves
 title: 'Faces of HOT:  Volunteer Joseph Reeves'
 created: 1353565235
 ---

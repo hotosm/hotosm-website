@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
+permalink: updates/2017-04-20_hot_microgrants_2017_results
 title: 'HOT Microgrants 2017: Results'
 created: 1492708088
 ---

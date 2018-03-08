@@ -4,6 +4,7 @@ date: '2017-03-06 16:25:29 Z'
 Working Group: []
 Projects:
 - OSM Tasking Manager 3.0 Development
+permalink: updates/2017-03-06_osm_tasking_manager_3_project_update_#1
 title: 'OSM Tasking Manager 3 Project Update #1'
 created: 1488817529
 ---

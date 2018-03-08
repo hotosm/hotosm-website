@@ -8,6 +8,7 @@ date: '2015-08-09 17:20:42 Z'
 Working Group: []
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2015-08-09_ramani_huria_community_mapping_showcased_to_tanzanian_president_jakaya_kikwete
 title: Ramani Huria community mapping showcased to Tanzanian President Jakaya Kikwete
 created: 1439140842
 ---

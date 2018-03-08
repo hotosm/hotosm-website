@@ -14,6 +14,7 @@ date: '2012-10-05 00:13:00 Z'
 Working Group: []
 Projects:
 - EUROSHA
+permalink: updates/2012-10-05_become_a_tutor_of_the_eurosha_volunteers!
 title: Become a tutor of the Eurosha volunteers!
 created: 1349395980
 ---

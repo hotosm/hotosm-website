@@ -13,6 +13,7 @@ date: '2016-02-16 21:59:27 Z'
 Working Group: []
 Projects:
 - Dar Ramani Huria - Dar Open Map
+permalink: updates/2016-02-16_a_day_mapping_in_dar_es_salaam_drainage_in_chang'ombe
 title: 'A day mapping in Dar Es Salaam: drainage in Chang''ombe'
 created: 1455659967
 ---

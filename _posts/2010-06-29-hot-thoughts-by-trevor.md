@@ -3,6 +3,7 @@ Person: tellermann
 date: '2010-06-29 01:10:05 Z'
 Working Group: []
 Projects: []
+permalink: updates/2010-06-29_hot_thoughts_by_trevor
 title: HOT thoughts by Trevor
 created: 1277773805
 ---

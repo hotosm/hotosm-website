@@ -3,6 +3,7 @@ Person: nicolas
 date: '2010-06-16 20:31:31 Z'
 Working Group: []
 Projects: []
+permalink: updates/2010-06-16_haiti_mission_3_-_training_day_with_field_workers_of_the_shelter_cluster_organiz
 title: Haiti mission 3 - Training Day with field workers of the Shelter Cluster organizations
 created: 1276720291
 ---

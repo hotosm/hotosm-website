@@ -9,6 +9,7 @@ Person: maning
 date: '2012-01-25 06:57:12 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-01-25_hot_mapping_for_flash_flood_affected_areas_in_northern_mindanao_philippines
 title: HOT Mapping for flash flood affected areas in Northern Mindanao, Philippines
 created: 1327474632
 ---

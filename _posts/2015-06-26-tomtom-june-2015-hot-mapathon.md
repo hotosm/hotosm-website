@@ -5,6 +5,7 @@ Working Group:
 - Communications
 Projects:
 - Nepal 2015 Earthquake Response
+permalink: updates/2015-06-26_tomtom_june_2015_hot_mapathon
 title: TomTom June 2015 HOT Mapathon
 created: 1435336166
 ---

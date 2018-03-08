@@ -4,6 +4,7 @@ date: '2018-01-24 10:03:27 Z'
 Working Group:
 - Communications
 Projects: []
+permalink: updates/2018-01-24_community_mapping_in_north_uganda_-_intrepid_refugees_and_host_community_compare
 title: Community Mapping in North Uganda - Intrepid Refugees and Host Community Compare
   Needs
 created: 1516788207

@@ -12,6 +12,7 @@ Person: pierre.beland
 date: '2013-02-01 17:50:29 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-02-01_activation_pour_le_mali
 title: Activation pour le Mali
 created: 1359741029
 ---

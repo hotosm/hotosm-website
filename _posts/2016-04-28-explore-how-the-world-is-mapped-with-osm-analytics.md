@@ -7,6 +7,7 @@ date: '2016-04-28 11:56:16 Z'
 Working Group: []
 Projects:
 - OpenStreetMap Analytics
+permalink: updates/2016-04-28_explore_how_the_world_is_mapped_with_osm_analytics
 title: Explore How the World is Mapped with OSM Analytics
 created: 1461844576
 ---

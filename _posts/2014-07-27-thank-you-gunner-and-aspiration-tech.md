@@ -4,6 +4,7 @@ date: '2014-07-27 22:53:21 Z'
 Working Group:
 - Communications
 Projects: []
+permalink: updates/2014-07-27_thank_you_gunner_and_aspiration_tech
 title: Thank you, Gunner and Aspiration Tech
 created: 1406501601
 ---

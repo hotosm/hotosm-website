@@ -7,6 +7,7 @@ Person: Alyssa Wright
 date: '2013-05-31 12:22:10 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-05-31_openstreetmap_bangladesh_edition
 title: OpenStreetMap Bangladesh Edition
 created: 1370002930
 ---

@@ -14,6 +14,7 @@ date: '2012-02-29 08:33:11 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2012-02-29_4th_largest_country_4th_largest_city_best_community_mapped_for_preparedness
 title: 4th Largest Country, 4th Largest City, Best Community Mapped for Preparedness
 created: 1330504391
 ---

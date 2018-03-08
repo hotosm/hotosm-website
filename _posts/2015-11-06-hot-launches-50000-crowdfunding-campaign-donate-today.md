@@ -4,6 +4,7 @@ date: '2015-11-06 15:41:36 Z'
 Working Group: []
 Projects:
 - Donate to HOT today
+permalink: updates/2015-11-06_hot_launches_$50000_crowdfunding_campaign_-_donate_today!
 title: HOT launches $50,000 crowdfunding campaign - donate today!
 created: 1446824496
 ---

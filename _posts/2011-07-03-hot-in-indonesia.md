@@ -4,6 +4,7 @@ date: '2011-07-03 17:42:56 Z'
 Working Group:
 - Security
 Projects: []
+permalink: updates/2011-07-03_hot_in_indonesia
 title: HOT in Indonesia
 created: 1309714976
 ---

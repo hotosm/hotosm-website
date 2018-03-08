@@ -10,6 +10,7 @@ date: '2017-05-19 05:57:28 Z'
 Working Group: []
 Projects:
 - 'Export Tool 3.0 '
+permalink: updates/2017-05-19_openstreetmap_on_the_humanitarian_data_exchange
 title: OpenStreetMap on the Humanitarian Data Exchange
 created: 1495173448
 ---

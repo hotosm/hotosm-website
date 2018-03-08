@@ -13,6 +13,7 @@ date: '2013-07-09 15:08:36 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+permalink: updates/2013-07-09_faces_of_hot_iyan_new_indonesian_team_manager
 title: 'Faces of HOT: Iyan, new Indonesian Team Manager'
 created: 1373382516
 ---

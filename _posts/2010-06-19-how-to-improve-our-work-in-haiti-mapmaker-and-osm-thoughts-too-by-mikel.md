@@ -3,6 +3,7 @@ Person: Mikel Maron
 date: '2010-06-19 08:33:57 Z'
 Working Group: []
 Projects: []
+permalink: updates/2010-06-19_how_to_improve_our_work_in_haiti?_mapmaker_and_osm_thoughts_too_by_mikel
 title: How to improve our work in Haiti? MapMaker and OSM thoughts too by Mikel
 created: 1276936437
 ---

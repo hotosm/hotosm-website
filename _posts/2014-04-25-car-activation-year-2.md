@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Central African Republic Activation
+permalink: updates/2014-04-25_car_activation_year_2
 title: CAR Activation, Year 2
 created: 1398388325
 ---

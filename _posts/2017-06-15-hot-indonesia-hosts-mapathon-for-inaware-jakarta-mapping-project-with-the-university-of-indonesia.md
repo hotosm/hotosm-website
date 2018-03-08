@@ -7,6 +7,7 @@ Projects:
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
   Project in Indonesia"
+permalink: updates/2017-06-15_hot_indonesia_hosts_mapathon_for_inaware_jakarta_mapping_project_with__the_unive
 title: HOT Indonesia Hosts Mapathon for InAWARE Jakarta Mapping Project with  the
   University of Indonesia
 created: 1497499946

@@ -4,6 +4,7 @@ date: '2015-07-14 13:42:15 Z'
 Working Group: []
 Projects:
 - Nepal 2015 Earthquake Response
+permalink: updates/2015-07-14_nepal_earthquake_a_note_of_thanks_to_hot’s_aerial_imagery_providers
 title: 'Nepal Earthquake: A note of thanks to HOT’s aerial imagery providers'
 created: 1436881335
 ---

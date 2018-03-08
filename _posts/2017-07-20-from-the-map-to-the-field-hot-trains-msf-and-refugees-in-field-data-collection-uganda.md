@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+permalink: updates/2017-07-20_from_the_map_to_the_field_hot_trains_msf_and_refugees_in_field_data_collection_-
 title: 'From the map to the field: HOT trains MSF and refugees in field data collection
   - Uganda'
 created: 1500559854

@@ -3,6 +3,7 @@ Person: Mikel Maron
 date: '2016-02-08 20:00:13 Z'
 Working Group: []
 Projects: []
+permalink: updates/2016-02-08_the_global_footprint_of_hot
 title: The Global Footprint of HOT
 created: 1454961613
 ---

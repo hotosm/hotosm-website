@@ -4,6 +4,7 @@ date: '2017-10-26 13:28:30 Z'
 Working Group: []
 Projects:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+permalink: updates/2017-10-26_team_in_istanbul_conducts_training_for_small_projects_istanbul
 title: Team in Istanbul conducts training for Small Projects Istanbul
 created: 1509024510
 ---

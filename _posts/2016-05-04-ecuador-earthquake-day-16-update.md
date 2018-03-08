@@ -7,6 +7,7 @@ date: '2016-05-04 01:57:30 Z'
 Working Group: []
 Projects:
 - Ecuador Earthquake
+permalink: updates/2016-05-04_ecuador_earthquake_day_16_update
 title: 'Ecuador Earthquake: Day 16 Update'
 created: 1462327050
 ---

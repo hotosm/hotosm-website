@@ -3,6 +3,7 @@ Person: Mikel Maron
 date: '2011-02-17 23:25:12 Z'
 Working Group: []
 Projects: []
+permalink: updates/2011-02-17_tufts_crisis_mapping_class
 title: Tufts Crisis Mapping Class
 created: 1297985112
 ---

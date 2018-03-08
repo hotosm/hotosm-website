@@ -3,6 +3,7 @@ Person: russell deffner
 date: '2015-02-20 22:59:23 Z'
 Working Group: []
 Projects: []
+permalink: updates/2015-02-20_welcome_new_members!
 title: Welcome New Members!
 created: 1424473163
 ---

@@ -7,6 +7,7 @@ Projects:
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
   Project in Indonesia"
+permalink: updates/2016-10-19_help_disaster_management_in_surabaya_by_mapping_remotely_
 title: Help Disaster Management in Surabaya by Mapping Remotely
 created: 1476847298
 ---

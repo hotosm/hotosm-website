@@ -7,6 +7,7 @@ Projects:
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
   Project in Indonesia"
+permalink: updates/2017-10-31_mapping_the_thousand_islands_in_the_face_of_climate-induced_disasters
 title: Mapping the Thousand Islands in the Face of Climate-Induced Disasters
 created: 1509431499
 ---

@@ -6,6 +6,7 @@ Person: will
 date: '2012-06-24 18:58:44 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-06-24_hot's_first_days_in_senegal_
 title: HOT's first days in Senegal
 created: 1340564324
 ---

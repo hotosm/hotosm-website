@@ -9,6 +9,7 @@ Working Group:
 - Community
 Projects:
 - Missing Maps
+permalink: updates/2015-11-15_don't_get_left_behind
 title: Don't get left behind...
 created: 1447611004
 ---

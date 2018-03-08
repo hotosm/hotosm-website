@@ -4,6 +4,7 @@ date: '2014-08-02 12:07:09 Z'
 Working Group: []
 Projects:
 - Malawi Flood Preparedness
+permalink: updates/2014-08-02_project_in_malawi_starts_in_the_field!
 title: Project in Malawi starts in the field!
 created: 1406981229
 ---

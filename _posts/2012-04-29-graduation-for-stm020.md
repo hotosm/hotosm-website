@@ -13,6 +13,7 @@ date: '2012-04-29 20:09:12 Z'
 Working Group: []
 Projects:
 - 'Haiti '
+permalink: updates/2012-04-29_graduation_for_stm020
 title: Graduation for STM020
 created: 1335730152
 ---

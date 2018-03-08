@@ -3,6 +3,7 @@ Person: Kate Chapman
 date: '2011-07-31 17:47:34 Z'
 Working Group: []
 Projects: []
+permalink: updates/2011-07-31_end_of_an_era_or_at_least_internship
 title: End of an Era or at Least Internship
 created: 1312134454
 ---

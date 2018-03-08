@@ -4,6 +4,7 @@ date: '2017-02-13 10:46:38 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
+permalink: updates/2017-02-13_growing_openaerialmap_with_responsible_imagery
 title: Growing OpenAerialMap with Responsible Imagery
 created: 1486982798
 ---

@@ -3,6 +3,7 @@ Person: pierre.beland
 date: '2012-12-13 19:26:24 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-12-13_hot_activation_sud_et_nord_kivu_république_démocratique_du_congo
 title: HOT Activation, Sud et Nord Kivu, République démocratique du Congo
 created: 1355426784
 ---

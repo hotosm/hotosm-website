@@ -12,6 +12,7 @@ date: '2017-04-07 19:00:49 Z'
 Working Group: []
 Projects:
 - Malaria Elimination Campaign
+permalink: updates/2017-04-07_world_health_day_2017_show_your_support_by_mapping_for_malaria
 title: 'World Health Day 2017: show your support by mapping for malaria'
 created: 1491591649
 ---

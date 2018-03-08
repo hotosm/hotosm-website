@@ -5,6 +5,7 @@ Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
+permalink: updates/2017-07-10_hot_supports_community_driven_open_data_ger_community_mapping_center_mongolia
 title: 'HOT Supports Community Driven Open Data: Ger Community Mapping Center, Mongolia'
 created: 1499712786
 ---

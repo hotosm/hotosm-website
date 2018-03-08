@@ -6,6 +6,7 @@ Person: Alyssa Wright
 date: '2013-05-11 16:35:32 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-05-11_crossing_boundaries_by_tracing_buildings_mapping_kathmandu_from_new_york_city"
 title: 'Crossing Boundaries by Tracing Buildings: Mapping Kathmandu from New York
   City"'
 created: 1368290132

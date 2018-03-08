@@ -4,6 +4,7 @@ date: '2015-03-17 18:10:44 Z'
 Working Group:
 - Fundraising
 Projects: []
+permalink: updates/2015-03-17_humanitarian_openstreetmap_team_seeks_interim_executive_director__
 title: Humanitarian OpenStreetMap Team seeks Interim Executive Director
 created: 1426615844
 ---

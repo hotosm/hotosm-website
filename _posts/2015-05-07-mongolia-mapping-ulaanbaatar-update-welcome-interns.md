@@ -10,6 +10,7 @@ date: '2015-05-07 05:31:27 Z'
 Working Group: []
 Projects:
 - Mongolia, Mapping Ulaanbaatar
+permalink: updates/2015-05-07_mongolia_-_mapping_ulaanbaatar_update_-_welcome_interns!
 title: Mongolia - Mapping Ulaanbaatar Update - Welcome Interns!
 created: 1430976687
 ---
