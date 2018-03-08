@@ -2,9 +2,15 @@
 title: Community & Organization
 date: 2018-02-06 15:20:00 Z
 position: 5
-People Description: 
-Working Groups Description: 
-Support Programs Description: 
+People Description: Nulla vitae elit libero, a pharetra augue. Cum sociis natoque
+  penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia
+  bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis.
+Working Groups Description: Vestibulum id ligula porta felis euismod semper. Sed posuere
+  consectetur est at lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing
+  elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut
+  fermentum massa justo sit amet risus.
+Support Programs Description: Maecenas faucibus mollis interdum. Vestibulum id ligula
+  porta felis euismod semper.
 Event Promo:
   Event Name: HOT Summit at FOSS4G2018
   Image: 
@@ -16,10 +22,14 @@ Event Promo:
   Button: Register for FOSS4G 2018
   URL: http://2018.foss4g.org/
 Finances:
-  Text: 
-  Annual Report Header: 
-  Annual Report Text: 
-  Annual Report Button: 
+  Text: |-
+    HOT is a not-for-profit, Nulla vitae elit libero, a risus eget urna mollis pharetra augue.
+
+    Download our IRS Form 990 Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo. financial statement Donec ullamcorper nulla non metus auctor fringilla IRS form 990.
+  Annual Report Header: 2016 Annual Report
+  Annual Report Text: Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque
+    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+  Annual Report Button: Download PDF
   Anual Report URL: 
 ---
 
