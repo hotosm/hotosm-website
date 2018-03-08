@@ -6,7 +6,7 @@ Summary Text: "Came accross this serious hurricane warning today from <a href=\"
   Jaakko Helleranta and Brian Wolford who have been living in Haiti for almost two
   years and have carried out many OSM activities and participated to HOT programs
   there. \r\n\r\n"
-Person: Severin
+Person: Séverin Ménard
 date: '2012-08-23 16:51:19 Z'
 Working Group: []
 Projects:

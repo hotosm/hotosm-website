@@ -1,6 +1,6 @@
 ---
 Summary Text: HOT continues response to multiple disasters...
-Person: russell deffner
+Person: Russell Deffner
 date: '2017-10-10 18:28:28 Z'
 Working Group:
 - Activation

@@ -1,5 +1,5 @@
 ---
-Person: nicolas
+Person: Nicolas Chavent
 date: '2012-07-31 13:18:20 Z'
 Working Group: []
 Projects:

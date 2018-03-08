@@ -5,7 +5,7 @@ Summary Text: "Following a request from UN OCHA and SNAP, HOT is activating a re
   volunteers. HOT has limited experience in working within the Arabic speaking world
   and we are hopeful that this activation will allow us to broaden our skills base
   in this area.\r\n"
-Person: joseph
+Person: Joseph Reeves
 date: '2013-01-28 12:24:44 Z'
 Working Group: []
 Projects: []

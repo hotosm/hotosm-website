@@ -1,5 +1,5 @@
 ---
-Person: Douglas
+Person: 'Douglas Ssebaggala '
 date: '2017-07-20 14:10:54 Z'
 Working Group:
 - Community

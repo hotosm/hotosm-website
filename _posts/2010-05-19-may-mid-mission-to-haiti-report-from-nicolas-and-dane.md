@@ -1,5 +1,5 @@
 ---
-Person: admin
+Person: Website Administrator
 date: '2010-05-19 21:52:01 Z'
 Working Group:
 - Technical

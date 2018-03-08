@@ -1,5 +1,5 @@
 ---
-Person: Severin
+Person: Séverin Ménard
 date: '2013-10-29 17:47:39 Z'
 Working Group:
 - Technical

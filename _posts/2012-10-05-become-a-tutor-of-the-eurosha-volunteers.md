@@ -9,7 +9,7 @@ Summary Text: "Nicolas and I have been training the 25 Eurosha volunteers who wi
   of them, coming from Czech Republic, Italy, Poland, Chad, Bulgaria, Burundi, France,
   Hungary, Kenya, Belgium, Slovenia and Central African Republic.\r\n\r\n[inline:P1200042
   1024x768.JPG]\r\n"
-Person: Severin
+Person: Séverin Ménard
 date: '2012-10-05 00:13:00 Z'
 Working Group: []
 Projects:

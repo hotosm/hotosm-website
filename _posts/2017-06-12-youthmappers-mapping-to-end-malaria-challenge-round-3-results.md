@@ -1,5 +1,5 @@
 ---
-Person: russell deffner
+Person: Russell Deffner
 date: '2017-06-12 02:25:39 Z'
 Working Group:
 - Community

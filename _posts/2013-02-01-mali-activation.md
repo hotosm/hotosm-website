@@ -9,7 +9,7 @@ Summary Text: "This Activation follows discussions between HOT and the United Na
   partners have highlighted the complex emergency situation in Mali.\r\n<ul>\r\n<li>An
   estimated 228,920 people are displaced inside Mali.</li>\r\n<li>There are an estimated
   144,446 Malian refugees in neighbouring countries.</li>\r\n"
-Person: pierre.beland
+Person: Pierre Béland
 date: '2013-02-01 17:49:03 Z'
 Working Group: []
 Projects: []

@@ -4,7 +4,7 @@ Summary Text: We invite you to submit a proposal to present a topic of interest 
   at the BTC Conference Center - Espace Jacqmotte the day before State of the Map-International.  This
   year's theme is OpenStreetMap, the Global HOT Community, and Achieving the Sustainable
   Development Goals.
-Person: cshaw
+Person: Cheryl Shaw
 date: '2016-06-13 23:11:54 Z'
 Working Group: []
 Projects:

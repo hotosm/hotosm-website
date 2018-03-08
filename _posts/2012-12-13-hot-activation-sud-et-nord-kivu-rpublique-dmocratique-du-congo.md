@@ -1,5 +1,5 @@
 ---
-Person: pierre.beland
+Person: Pierre Béland
 date: '2012-12-13 19:26:24 Z'
 Working Group: []
 Projects: []

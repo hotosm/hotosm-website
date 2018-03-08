@@ -5,7 +5,7 @@ Summary Text: "Durant les derniers mois, de nombreux contributeurs à travers le
   Manager de HOT</a>, des villes et infrastructures importantes dans des régions en
   crise ont pu être numérisées sur base de l'imagerie Bing malgré le nombre extrêmement
   réduit de contributeurs actifs à l'intérieur de la RDC.\r\n\r\n"
-Person: claire
+Person: Claire Halleux
 date: '2013-02-11 18:20:12 Z'
 Working Group: []
 Projects: []

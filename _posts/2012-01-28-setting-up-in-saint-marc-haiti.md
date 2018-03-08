@@ -4,7 +4,7 @@ Summary Text: "Having had a brief moment to get out footing in Saint Marc, we we
   their work and training in Saint Marc arrived and with it came the need to set up,
   inventory, and configure all of the equipment for the next weeks work.\r\n\r\n<img
   src=\"http://hot.openstreetmap.org/sites/default/files/DSC00313_0.jpg\" />\r\n\r\n"
-Person: brian
+Person: Brian Wolford
 date: '2012-01-28 18:48:19 Z'
 Working Group: []
 Projects:

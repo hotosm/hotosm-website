@@ -1,5 +1,5 @@
 ---
-Person: pierre.beland
+Person: Pierre Béland
 date: '2014-09-27 19:04:57 Z'
 Working Group:
 - Communications

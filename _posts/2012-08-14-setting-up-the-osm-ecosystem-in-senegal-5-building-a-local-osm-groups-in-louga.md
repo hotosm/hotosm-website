@@ -1,5 +1,5 @@
 ---
-Person: stephane
+Person: Stephane Goldstein
 date: '2012-08-14 13:34:28 Z'
 Working Group: []
 Projects: []

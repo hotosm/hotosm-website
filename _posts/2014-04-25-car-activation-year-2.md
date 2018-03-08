@@ -1,5 +1,5 @@
 ---
-Person: Severin
+Person: Séverin Ménard
 date: '2014-04-25 01:12:05 Z'
 Working Group:
 - Community

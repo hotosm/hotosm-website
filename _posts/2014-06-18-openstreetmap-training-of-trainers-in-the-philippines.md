@@ -1,5 +1,5 @@
 ---
-Person: emir
+Person: Emir Hartato
 date: '2014-06-18 05:00:09 Z'
 Working Group:
 - Training

@@ -4,7 +4,7 @@ Summary Text: The Humanitarian OpenStreetMap Team (HOT) and YouthMappers share a
   response and development. YouthMappers and HOT have already collaborated in many
   ways, including through use of HOT’s Tasking Manager, which is the platform used
   for collaborating in groups around mapping projects.
-Person: cshaw
+Person: Cheryl Shaw
 date: '2016-06-13 20:49:09 Z'
 Working Group: []
 Projects: []

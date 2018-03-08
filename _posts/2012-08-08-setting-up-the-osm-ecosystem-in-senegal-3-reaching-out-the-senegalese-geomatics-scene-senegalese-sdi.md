@@ -3,7 +3,7 @@ Summary Text: "With the support of the ICT Directorate and the Agence Informatiq
   de l’Etat (<a href=\"http://www.adie.sn/\">ADIE</a>), HOT and the Canadian Support
   Project of the Plan National Géomatique (<a href=\"http://www.rncan.gc.ca/sciences-terre/a-propos/international/collaboration/4618\">PNG</a>)
   held a one day workshop around OSM at the ADIE office on June 7th. \r\n\r\n"
-Person: nicolas
+Person: Nicolas Chavent
 date: '2012-08-08 17:24:46 Z'
 Working Group: []
 Projects:

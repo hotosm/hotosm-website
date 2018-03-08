@@ -5,7 +5,7 @@ Summary Text: "<p>Northern Mindanao(specifically <a href=\"http://osm.org/go/4sX
   The National Disaster Risk Reduction and Management Council (NDRRMC) <a href=\"http://reliefweb.int/taxonomy/term/188\">initially
   reported 900 people have been killed, over 1,500 have been injured and  almost 285,000
   are served inside and outside 62 evacuation centers</a> \r\n\r\n"
-Person: maning
+Person: Maning Sambale
 date: '2012-01-25 06:57:12 Z'
 Working Group: []
 Projects: []

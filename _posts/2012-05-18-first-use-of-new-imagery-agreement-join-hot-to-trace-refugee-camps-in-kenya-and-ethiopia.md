@@ -1,5 +1,5 @@
 ---
-Person: john
+Person: John Crowley
 date: '2012-05-18 14:48:54 Z'
 Working Group: []
 Projects: []

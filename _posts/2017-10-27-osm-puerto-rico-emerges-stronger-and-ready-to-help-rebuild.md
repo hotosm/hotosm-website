@@ -5,7 +5,7 @@ Summary Text: As Hurricane Maria‘s winds and rain battered our home in San Jua
   heavy foliage, cliffs, bridges and terrain susceptible to landslides could make
   it the worst place to be in during such a powerful storm. Many small communities
   on those mountains would become isolated for weeks.
-Person: russell deffner
+Person: Russell Deffner
 date: '2017-10-27 20:08:26 Z'
 Working Group:
 - Activation

@@ -2,7 +2,7 @@
 Summary Text: "One of the unique features of OpenStreetMap is the license to use customise
   and visualize the data as maps, charts, and more. However this is sometimes easier
   said than done. \r\n\r\n"
-Person: will
+Person: Will Skora
 date: '2013-06-14 21:07:41 Z'
 Working Group: []
 Projects: []

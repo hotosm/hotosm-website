@@ -7,7 +7,7 @@ Summary Text: "I just landed in <a href=\"http://en.wikipedia.org/wiki/N'Djamena
   and <a href=\"http://www.france-volontaires.org/\">France Volontaires</a>, HOT’s
   partners on this project. This is an interesting time for the <a href=\"http://hot.openstreetmap.org/projects/eurosha_0\">EUROSHA
   project</a> \r\n"
-Person: nicolas
+Person: Nicolas Chavent
 date: '2013-02-01 01:48:32 Z'
 Working Group: []
 Projects:

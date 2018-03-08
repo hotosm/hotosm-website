@@ -6,7 +6,7 @@ Summary Text: "Bangui, la capitale de la République Centrafricaine, a été pri
   nombreuses autres villes et villages, il est temps maintenant de démarrer une Activation
   HOT officielle afin de répondre à cette crise. Dans les lignes qui suivent, je fais
   un rapide aperçu d’OSM dans le pays et des besoins à combler. \r\n\r\n"
-Person: Severin
+Person: Séverin Ménard
 date: '2013-04-11 02:24:57 Z'
 Working Group:
 - Technical

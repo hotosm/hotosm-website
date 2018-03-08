@@ -1,5 +1,5 @@
 ---
-Person: shenriod
+Person: Stéphane Henriod
 date: '2013-02-20 04:34:58 Z'
 Working Group: []
 Projects:

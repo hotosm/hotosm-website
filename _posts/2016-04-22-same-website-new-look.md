@@ -1,5 +1,5 @@
 ---
-Person: russell deffner
+Person: Russell Deffner
 date: '2016-04-22 20:04:46 Z'
 Working Group: []
 Projects: []

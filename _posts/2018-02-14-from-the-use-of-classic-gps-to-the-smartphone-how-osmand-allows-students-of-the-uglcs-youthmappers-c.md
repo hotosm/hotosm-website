@@ -1,5 +1,5 @@
 ---
-Person: Amelia Hunt
+Person: 'Amelia Hunt '
 date: '2018-02-14 12:28:24 Z'
 Working Group:
 - Community

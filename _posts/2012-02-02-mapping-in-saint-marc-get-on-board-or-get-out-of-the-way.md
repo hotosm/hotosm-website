@@ -6,7 +6,7 @@ Summary Text: "Hey there, Hi there, Ho there,\r\nChecking in from beautiful coas
   with a COSMHA team meeting. At 8 the youth come and there is a morning lecture.
   During this time the team finishes up the preparation of any materials for the days
   activities and maybe participates in a training them selves.\r\n\r\n<img src=\"http://hot.openstreetmap.org/sites/default/files/DSC00342.jpg\"/>\r\n\r\n"
-Person: brian
+Person: Brian Wolford
 date: '2012-02-02 03:10:07 Z'
 Working Group: []
 Projects: []

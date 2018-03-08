@@ -1,5 +1,5 @@
 ---
-Person: Severin
+Person: Séverin Ménard
 date: '2014-09-07 23:39:43 Z'
 Working Group:
 - Training

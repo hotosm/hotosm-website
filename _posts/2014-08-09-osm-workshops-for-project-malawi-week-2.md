@@ -1,5 +1,5 @@
 ---
-Person: maning
+Person: Maning Sambale
 date: '2014-08-09 13:25:49 Z'
 Working Group:
 - Technical

@@ -1,5 +1,5 @@
 ---
-Person: Trudy Namitala
+Person: Gertrude (Trudy Hope) Namitala
 date: '2017-02-28 19:46:50 Z'
 Working Group: []
 Projects:

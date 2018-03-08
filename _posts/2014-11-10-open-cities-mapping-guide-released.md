@@ -1,5 +1,5 @@
 ---
-Person: jeff
+Person: Jeff Haack
 date: '2014-11-10 18:02:09 Z'
 Working Group:
 - Community

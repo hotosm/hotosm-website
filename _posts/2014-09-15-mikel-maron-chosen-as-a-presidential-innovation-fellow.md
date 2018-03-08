@@ -1,5 +1,5 @@
 ---
-Person: Jaakko Helleranta
+Person: 'Jaakko Helleranta '
 date: '2014-09-15 21:06:12 Z'
 Working Group: []
 Projects: []

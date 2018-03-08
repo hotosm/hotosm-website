@@ -1,5 +1,5 @@
 ---
-Person: Biondi Sima
+Person: Biondi Sanda Sima
 date: '2017-05-22 10:02:25 Z'
 Working Group: []
 Projects:

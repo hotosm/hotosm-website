@@ -11,7 +11,7 @@ Summary Text: Après la deuxième vague de l'épidémie d'Ebola en juin marquée
   humanitaires (OCHA) et divers partenaires  pour assurer une identification rapide
   des zones à couvrir et informer les diverses organisations humanitaires sur les
   services disponibles.
-Person: pierre.beland
+Person: Pierre Béland
 date: '2014-08-06 01:12:08 Z'
 Working Group: []
 Projects:

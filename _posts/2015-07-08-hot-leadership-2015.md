@@ -3,7 +3,7 @@ Summary Text: 'This year has presented many challenges to HOT. We have been incr
   active and successful in all of our programs: Disaster Mapping, Community Building
   and Technical Projects. However, as many of you know, 2015 has been a year of tremendous
   change in HOT leadership.'
-Person: russell deffner
+Person: Russell Deffner
 date: '2015-07-08 16:24:33 Z'
 Working Group: []
 Projects: []

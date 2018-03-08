@@ -5,7 +5,7 @@ Summary Text: The southern parts of Malawi along the Lower Shire River (that con
   critically. The Humanitarian OpenStreetMap Team (HOT) was involved in a community
   mapping and training project in Malawi last year and has been requested to provide
   baseline data of the affected areas.
-Person: Severin
+Person: Séverin Ménard
 date: '2015-02-26 23:18:07 Z'
 Working Group:
 - Activation

@@ -1,5 +1,5 @@
 ---
-Person: Nama Budhathoki
+Person: Nama Raj Budhathoki
 date: '2014-03-10 10:22:59 Z'
 Working Group: []
 Projects: []

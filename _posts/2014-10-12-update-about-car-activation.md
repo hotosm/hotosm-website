@@ -1,5 +1,5 @@
 ---
-Person: Severin
+Person: Séverin Ménard
 date: '2014-10-12 01:41:24 Z'
 Working Group:
 - Activation

@@ -8,7 +8,7 @@ Summary Text: "On the evening of April 24th there was a graduation for the young
   of Saint-Marc addressing the program graduates.\r\n\r\n<img src=\"http://hot.openstreetmap.org/sites/default/files/IMG013_0.jpg\"/>\r\n\r\nFriend
   Marc-Henry and USAID communicated how pleased they were with the project and the
   desire to see a program like this happen in the next location.\r\n\r\n"
-Person: brian
+Person: Brian Wolford
 date: '2012-04-29 20:09:12 Z'
 Working Group: []
 Projects:

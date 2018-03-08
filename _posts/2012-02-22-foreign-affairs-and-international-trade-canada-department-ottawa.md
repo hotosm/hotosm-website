@@ -7,7 +7,7 @@ Summary Text: "<p>Foreign Affairs and International Trade Canada department (DFA
   NGO's and how to adapt with collaborative efforts, etc). There were formal presentations
   in the morning from USA Secretary of State staff and DFAIT staff, Google, Wikimedia
   Foundation and World Bank representatives.\r\n\r\n"
-Person: pierre.beland
+Person: Pierre Béland
 date: '2012-02-22 15:24:52 Z'
 Working Group: []
 Projects: []

@@ -2,7 +2,7 @@
 Summary Text: "The first days in Sénégal flew by for the three of us engaged in this
   intense exploratory mission of HOT in Senegal led by Nicholas Chavent along with
   Stephane Goldstein and Will Skora.\r\n\r\n"
-Person: will
+Person: Will Skora
 date: '2012-06-24 18:58:44 Z'
 Working Group: []
 Projects: []

@@ -1,7 +1,7 @@
 ---
 Summary Text: L'Équipe humanitaire Humanitarian OpenStreetMap Team hausse le niveau
   de réponse à la demande de l'Organisation mondiale de la santé (OMS).
-Person: pierre.beland
+Person: Pierre Béland
 date: '2014-08-08 20:55:43 Z'
 Working Group:
 - Training

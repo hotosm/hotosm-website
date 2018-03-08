@@ -5,7 +5,7 @@ Summary Text: "Le quatrième jour de cette mission de lancement du projet Espace
   du WoeLab Lomé de l'Africaine d'Architecture, Amadou Ndong du projet OpenStreetMap
   Sénégal déployé avec moi sous la bannière de HOT, nous   travaillons à l'ancrage
   du projet OpenStreetMap dans ce pays de l'Afrique de l'Ouest. \r\n\r\n"
-Person: nicolas
+Person: Nicolas Chavent
 date: '2013-06-28 22:54:32 Z'
 Working Group: []
 Projects: []

@@ -9,7 +9,7 @@ Summary Text: "In Kenya, 6 Eurosha volunteers have been deployed since Early Oct
   is where the Eurosha volunteers normally works where they do not travel for their
   outreaching or collecting activities, using then a “matatu\", a local minibus, used
   the rest of time for safaris.\r\n\r\n"
-Person: Severin
+Person: Séverin Ménard
 date: '2013-02-12 21:50:39 Z'
 Working Group: []
 Projects:

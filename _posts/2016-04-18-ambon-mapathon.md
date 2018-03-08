@@ -7,7 +7,7 @@ Summary Text: Ambon, located in Maluku islands which also located inside the Mol
   is planned to be done in 2016. Before the TTX can be done, there are several activities
   that needs to be completed. One of the first activities needed to be done is data
   collection.
-Person: vasanthi
+Person: Vasanthi Hargyono
 date: '2016-04-18 20:28:57 Z'
 Working Group: []
 Projects:

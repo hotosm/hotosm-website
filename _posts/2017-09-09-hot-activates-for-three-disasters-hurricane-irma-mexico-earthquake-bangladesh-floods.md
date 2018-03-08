@@ -4,7 +4,7 @@ Summary Text: Cette première semaine de septembre 2017 a vu se produire des cat
   pour y répondre. Les projets et sur la façon de fait pour participer sont détaillés
   ci-dessous. C’est un moment critique pour la vie de millions de personnes dans le
   monde et nous remercions les cartographes volontaires pour leur soutien.
-Person: RebeccaFirth
+Person: Rebecca Firth
 date: '2017-09-09 03:35:14 Z'
 Working Group:
 - Activation

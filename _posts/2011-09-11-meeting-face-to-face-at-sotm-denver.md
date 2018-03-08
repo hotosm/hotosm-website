@@ -1,5 +1,5 @@
 ---
-Person: harry
+Person: Harry Wood
 date: '2011-09-11 22:12:59 Z'
 Working Group:
 - Training

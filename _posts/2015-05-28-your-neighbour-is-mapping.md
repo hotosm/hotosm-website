@@ -1,5 +1,5 @@
 ---
-Person: kristenegermeier
+Person: Kristen Egermeier
 date: '2015-05-28 14:55:47 Z'
 Working Group: []
 Projects: []

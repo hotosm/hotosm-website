@@ -5,7 +5,7 @@ Summary Text: For the past 2 years, HOT in Indonesia is implementing a universit
   to have the capacity to map exposure data in vulnerable areas and could support
   local disaster management agency in their area when needed. The big goal of this
   program is to have disaster prone areas in Indonesia to be well mapped.
-Person: vasanthi
+Person: Vasanthi Hargyono
 date: '2016-03-07 03:40:57 Z'
 Working Group: []
 Projects:

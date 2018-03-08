@@ -4,7 +4,7 @@ Summary Text: Recently we had a very pleasant surprise to be contacted by Nichol
   in Haiti. Nick, now working with Asia Foundation alongside Michelle Chang, knew
   about the HOT Mapping Ulaanbaatar project and reached out for advice as the Asia
   Foundation planned an OpenStreetMap Mapathon competition.
-Person: russell deffner
+Person: Russell Deffner
 date: '2015-07-03 15:09:26 Z'
 Working Group:
 - Security

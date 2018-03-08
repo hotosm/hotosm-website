@@ -9,7 +9,7 @@ Summary Text: "One Eurosha country we did not talk about so far here (sorry for 
   800x600.jpg]\r\n\r\nIn the country, there was no local mappers, but already some
   areas traced remotely by foreigners, essentially over Bujumbura, sometimes from
   old Yahoo imagery.  \r\n"
-Person: Severin
+Person: Séverin Ménard
 date: '2013-02-21 21:59:32 Z'
 Working Group: []
 Projects:

@@ -4,7 +4,7 @@ Summary Text: HOT begins to transition mapping of critical data in response to t
   threats back to local communities. It’s during this crucial time that we ask for
   mappers to become validators, and make an important second look to ensure the mapping
   was done as instructed.
-Person: russell deffner
+Person: Russell Deffner
 date: '2017-11-10 18:44:23 Z'
 Working Group:
 - Activation

@@ -4,7 +4,7 @@ Summary Text: "Augustin and I conducted HOT’s third deployment HOT to Senegal 
   of volunteering to grow the OSM SN community and to improve the maps of the area.
   \ This initiative has been possible with the funding of Fondation de France (FDF)
   and our partnership with OpenStreetMap France.\r\n\r\n"
-Person: nicolas
+Person: Nicolas Chavent
 date: '2013-01-09 11:46:22 Z'
 Working Group: []
 Projects:

@@ -1,5 +1,5 @@
 ---
-Person: joseph
+Person: Joseph Reeves
 date: '2012-09-24 06:57:34 Z'
 Working Group: []
 Projects:

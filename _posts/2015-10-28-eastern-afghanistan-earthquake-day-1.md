@@ -1,7 +1,7 @@
 ---
 Summary Text: Humanitarian OpenStreetMap Team (HOT) calls upon our community to assist
   those affected by disaster for the second time in under one week
-Person: russell deffner
+Person: Russell Deffner
 date: '2015-10-28 04:07:58 Z'
 Working Group:
 - Activation

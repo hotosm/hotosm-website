@@ -4,7 +4,7 @@ Summary Text: The first workshop for the HOT Activation Curriculum was held duri
   facilitated discussion around the benefit of Open Data on the African continent
   including lessons learned from around the globe. HOT is grateful to have been invited
   to participate in the conference and conduct our Activation workshop.
-Person: russell deffner
+Person: Russell Deffner
 date: '2015-09-08 18:57:51 Z'
 Working Group:
 - Activation

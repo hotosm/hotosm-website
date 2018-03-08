@@ -1,5 +1,5 @@
 ---
-Person: russell deffner
+Person: Russell Deffner
 date: '2015-04-25 15:29:02 Z'
 Working Group:
 - Activation

@@ -6,7 +6,7 @@ Summary Text: HOT is managing a mapping project for malaria eradication across s
   data in OpenStreetMap for a total of over 500,000 square kilometers by April 2017.
   We are starting a YouthMappers competition for the project. Prizes will be given
   to the chapters that contribute the most quality data to this project.
-Person: russell deffner
+Person: Russell Deffner
 date: '2017-03-06 15:49:27 Z'
 Working Group: []
 Projects:

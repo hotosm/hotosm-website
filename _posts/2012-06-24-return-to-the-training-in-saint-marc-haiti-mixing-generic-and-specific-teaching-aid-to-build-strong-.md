@@ -6,7 +6,7 @@ Summary Text: "Our previous posts about the Saint-Marc, Haiti project did not fo
   documentation whose main version was in French, we had to clean the English original
   version so that it fits with all the changes we made in the French one throughout
   the three months of the program. \r\n\r\n"
-Person: Severin
+Person: Séverin Ménard
 date: '2012-06-24 23:35:18 Z'
 Working Group: []
 Projects:

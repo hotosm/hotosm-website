@@ -8,7 +8,7 @@ Summary Text: "Last month <a href=\"http://hot.openstreetmap.org/updates/2012-05
   Development using special aerial imagery from NextView. They wanted to see how,
   given this imagery to trace from, our community could map the refugee camps in a
   short space of time.\r\n\r\n"
-Person: harry
+Person: Harry Wood
 date: '2012-06-22 23:04:01 Z'
 Working Group: []
 Projects:

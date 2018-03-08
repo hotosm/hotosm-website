@@ -1,5 +1,5 @@
 ---
-Person: innocent
+Person: Innocent Maholi
 date: '2017-11-05 16:15:16 Z'
 Working Group:
 - Community

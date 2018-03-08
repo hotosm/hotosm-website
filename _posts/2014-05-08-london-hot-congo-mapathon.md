@@ -1,5 +1,5 @@
 ---
-Person: harry
+Person: Harry Wood
 date: '2014-05-08 08:56:13 Z'
 Working Group: []
 Projects: []

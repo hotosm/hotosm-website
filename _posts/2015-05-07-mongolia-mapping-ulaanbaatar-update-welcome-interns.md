@@ -5,7 +5,7 @@ Summary Text: It is our pleasure to welcome a group of student interns from the 
   The project is a collaboration between HOT, the World Bank, nonprofit research group
   ICT4D (Information and Communication Technologies for Development) and the city
   of Ulaanbaatar to create and maintain a map of the city within OpenStreetMap (OSM).
-Person: russell deffner
+Person: Russell Deffner
 date: '2015-05-07 05:31:27 Z'
 Working Group: []
 Projects:

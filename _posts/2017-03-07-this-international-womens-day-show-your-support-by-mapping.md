@@ -1,5 +1,5 @@
 ---
-Person: RebeccaFirth
+Person: Rebecca Firth
 date: '2017-03-07 02:47:00 Z'
 Working Group:
 - Communications

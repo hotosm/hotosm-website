@@ -4,7 +4,7 @@ Summary Text: As we wrote earlier, Indonesia’s disaster management agency is t
   for all the 136 priority cities/districts in Indonesia. Managing risks and safeguarding
   all economic and development hubs in the country is not an easy task, but a necessary
   one.
-Person: Biondi Sima
+Person: Biondi Sanda Sima
 date: '2017-04-27 08:29:50 Z'
 Working Group: []
 Projects:

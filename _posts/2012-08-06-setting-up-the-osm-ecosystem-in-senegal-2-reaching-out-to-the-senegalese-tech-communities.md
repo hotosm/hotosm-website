@@ -1,5 +1,5 @@
 ---
-Person: will
+Person: Will Skora
 date: '2012-08-06 16:33:50 Z'
 Working Group: []
 Projects:

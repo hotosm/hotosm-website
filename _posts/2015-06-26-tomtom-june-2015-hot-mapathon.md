@@ -1,5 +1,5 @@
 ---
-Person: pierre.mirlesse
+Person: Pierre Mirlesse
 date: '2015-06-26 16:29:26 Z'
 Working Group:
 - Communications

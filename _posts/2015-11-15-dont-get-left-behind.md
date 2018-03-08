@@ -3,7 +3,7 @@ Summary Text: 'The buzz of Geography Awareness Week, has reached far corners of 
   world. This year’s  theme “Explore! The Power of Maps” has inspired more than  60
   groups  to join HOT and the Missing Maps partners during November 15 – 21 in support
   of Geography Awareness Week. '
-Person: russell deffner
+Person: Russell Deffner
 date: '2015-11-15 18:10:04 Z'
 Working Group:
 - Community

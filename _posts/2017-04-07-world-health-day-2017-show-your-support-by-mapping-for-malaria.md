@@ -7,7 +7,7 @@ Summary Text: Malaria is a disease that affects millions of people around the wo
   prevent bites, you can reduce the spread of infection. This means that you need
   to know where those vulnerable to malaria live, so you can spray their homes with
   insecticide or distribute bednets. This way you can save more lives, more quickly.
-Person: russell deffner
+Person: Russell Deffner
 date: '2017-04-07 19:00:49 Z'
 Working Group: []
 Projects:

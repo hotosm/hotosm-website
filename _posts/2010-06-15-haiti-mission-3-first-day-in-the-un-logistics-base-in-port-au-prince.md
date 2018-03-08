@@ -1,5 +1,5 @@
 ---
-Person: nicolas
+Person: Nicolas Chavent
 date: '2010-06-15 20:33:09 Z'
 Working Group:
 - Communications

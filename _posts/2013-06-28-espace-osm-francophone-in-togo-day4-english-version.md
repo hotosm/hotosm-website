@@ -5,7 +5,7 @@ Summary Text: "The fourth day of this set up mission of the project Espace OSM F
   of the WoeLab Lomé of Africaine d'Architecture, Amadou Ndong of the project OpenStreetMap
   Sénégal deployed with me under the banner of HOT, we have been working to set up
   the OSM project in this country of Western Africa\r\n\r\n"
-Person: nicolas
+Person: Nicolas Chavent
 date: '2013-06-28 23:55:53 Z'
 Working Group: []
 Projects: []

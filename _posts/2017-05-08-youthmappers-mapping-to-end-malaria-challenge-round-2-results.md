@@ -2,7 +2,7 @@
 Summary Text: Over 200 students at 13 universities participated in the second round
   of the YouthMappers ‘Mapping to end Malaria’ Challenge. Together, they mapped almost
   400,000 buildings in Zimbabwe. Thank you to all the chapters who participated!
-Person: russell deffner
+Person: Russell Deffner
 date: '2017-05-08 14:40:00 Z'
 Working Group: []
 Projects:

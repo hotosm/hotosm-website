@@ -2,7 +2,7 @@
 Summary Text: 2018 has taken no time off from disasters and HOT is supporting three
   local OpenStreetMap communities with their response to events in their countries,
   read more to find out how you can help...
-Person: russell deffner
+Person: Russell Deffner
 date: '2018-01-16 21:49:07 Z'
 Working Group:
 - Activation

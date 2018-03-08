@@ -8,7 +8,7 @@ Summary Text: "Cette activation fait suite aux discussions entre HOT et le Burea
   existantes pour les services de base.\r\n\r\nLe 16 janvier 2013, UNOCHA-Mali et
   ses partenaires humanitaires ont souligné la situation d'urgence complexe au Mali.\r\n<ul>\r\n<li>228.920
   de personnes sont déplacées à l'intérieur du Mali.\r\n</li>\r\n"
-Person: pierre.beland
+Person: Pierre Béland
 date: '2013-02-01 17:50:29 Z'
 Working Group: []
 Projects: []

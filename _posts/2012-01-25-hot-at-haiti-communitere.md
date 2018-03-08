@@ -7,7 +7,7 @@ Summary Text: "Since returning to Haiti in preparation of launching the Saint Ma
   as HOT because they allow us to arrive and use this incredibly flexible support
   environment to get things started or in country.\r\n\r\n<img src=\"http://hot.openstreetmap.org/sites/default/files/HC
   aerial.jpg\" />\r\n\r\n"
-Person: nicolas
+Person: Nicolas Chavent
 date: '2012-01-25 06:16:59 Z'
 Working Group: []
 Projects:

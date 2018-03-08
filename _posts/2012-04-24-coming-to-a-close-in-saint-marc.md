@@ -8,7 +8,7 @@ Summary Text: "Hey kiddoes!\r\nBrian checking in from Saint-Marc. We are in the 
   forming and meetings of the active youth members in the forming of COSMHA-STM, which
   will be the Saint-Marc chapter of the Community OSM Haiti. Appointments and elections
   have finished, congrats to them.\r\n"
-Person: brian
+Person: Brian Wolford
 date: '2012-04-24 02:05:35 Z'
 Working Group: []
 Projects:

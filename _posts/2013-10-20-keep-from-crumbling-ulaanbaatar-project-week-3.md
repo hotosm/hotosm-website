@@ -1,5 +1,5 @@
 ---
-Person: russell deffner
+Person: Russell Deffner
 date: '2013-10-20 12:03:56 Z'
 Working Group:
 - Training

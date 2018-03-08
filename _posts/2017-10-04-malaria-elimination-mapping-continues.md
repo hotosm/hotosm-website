@@ -4,7 +4,7 @@ Summary Text: HOT has teamed up with many partners working to eliminate the dise
   to exist. In order to effectively carry out intervention campaigns, HOT has been
   asked to help identify and map populated places in some of the most susceptible
   places.
-Person: russell deffner
+Person: Russell Deffner
 date: '2017-10-04 15:00:49 Z'
 Working Group: []
 Projects:

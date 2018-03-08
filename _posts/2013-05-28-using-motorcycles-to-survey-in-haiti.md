@@ -6,7 +6,7 @@ Summary Text: "Hey All,\r\n\r\nAs part of the CAP103 project, financed by USAID,
   it would otherwise be difficult to reach.\r\n2. To be able to collect a solid network
   of GPS traces for the area's major and minor ways. Once collected, they can be used
   as a resource for setting offsets and positions for any aerial imageries.\r\n\r\n"
-Person: brian
+Person: Brian Wolford
 date: '2013-05-28 14:59:22 Z'
 Working Group: []
 Projects:

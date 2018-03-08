@@ -1,5 +1,5 @@
 ---
-Person: harry
+Person: Harry Wood
 date: '2015-05-01 01:42:43 Z'
 Working Group:
 - Fundraising

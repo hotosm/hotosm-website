@@ -1,5 +1,5 @@
 ---
-Person: schuyler
+Person: Schuyler Erle
 date: '2013-12-19 20:38:54 Z'
 Working Group: []
 Projects: []

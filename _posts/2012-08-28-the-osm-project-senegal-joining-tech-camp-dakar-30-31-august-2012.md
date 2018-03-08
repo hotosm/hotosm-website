@@ -8,7 +8,7 @@ Summary Text: "I am starting a second short trip (28-August – 2-September) to 
   and finally, the <a href=\"http://www.fondationdefrance.org/\">Fondation de France</a>
   and the <a href=\"http://openstreetmap.fr/\">Association OpenStreetMap France (OSM-FR)</a>
   for their continued support. All made this second trip to Senegal possible.\r\n\r\n"
-Person: nicolas
+Person: Nicolas Chavent
 date: '2012-08-28 23:27:26 Z'
 Working Group: []
 Projects:

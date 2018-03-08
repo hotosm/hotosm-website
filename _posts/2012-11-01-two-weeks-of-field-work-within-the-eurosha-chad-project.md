@@ -9,7 +9,7 @@ Summary Text: "Last night of hard work in the meeting room of the UNHCR in Gore 
   26 young individuals decided to volunteer 6 months of their lives. Their energy
   was communicative and worked as a fuel keeping us up to speed. It has an  even a
   stronger effect when experienced during a deployment. \r\n\r\n"
-Person: nicolas
+Person: Nicolas Chavent
 date: '2012-11-01 02:44:35 Z'
 Working Group: []
 Projects:
