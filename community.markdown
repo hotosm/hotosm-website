@@ -3,9 +3,11 @@ title: Community & Organization
 date: 2018-02-06 15:20:00 Z
 permalink: "/community/"
 position: 5
-People Description: Nulla vitae elit libero, a pharetra augue. Cum sociis natoque
-  penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia
-  bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis.
+People:
+  Description: Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus
+    et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum
+    nulla sed consectetur. Sed posuere consectetur est at lobortis.
+  Image: https://source.unsplash.com/collection/1186428/800x600?v=13
 Working Groups Description: Vestibulum id ligula porta felis euismod semper. Sed posuere
   consectetur est at lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing
   elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut
