@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="roster">
+
+  <div class="container">
+
+    <header class="page-header">
+      <h1>{{ page.title }}</h1>
+    </header>
+
+    <div class="roster-body">
+
+      {% assign sorted-people = site.people | sort: 'position' %}
+      {% for person in sorted-people %}
+        <a href="{{ person.url }}" class="roster-link">
+          {% if person.Photo %}
+            <div class="person-photo">
+              <img src="{{ person.Photo }}">
+            </div>
+          {% endif %}
+          <div class="roster-identity">
+            <h4>{{ person.title }}</h4>
+            <p class="">
+              {% if person.Title %}
+                <span class="">{{ person.Title }}</span>
+              {% endif %}
+            </p>
+          </div>
+        </a>
+      {% endfor %}
+
+    </div>
+
+  </div>
+
+</div>
