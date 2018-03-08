@@ -49,12 +49,19 @@ layout: default
         <div class="person-posts">
           <h6>Posts</h6>
           <div class="person-posts-list">
-            {% for post in site.posts limit:4 %}
+            {% for post in site.posts %}
+              {% if post.Person contains page.title %}
               <div class="news-index-item">
                 <div class="news-list-summary">
                   <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
                     <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-                    <p>{{ post['Summary Text']}}</p>
+                    <p>
+                      {% if post['Summary Text'] %}
+                        {{ post['Summary Text']}}
+                      {% else %}
+                        {{ post.excerpt | strip_html | truncatewords:24 }}
+                      {% endif %}
+                    </p>
                     {% capture post.Person %}{% endcapture %}
                     <div class="news-list-meta">
                       {% assign author = site.people | where: "title", post.Person | first %}
@@ -69,6 +76,7 @@ layout: default
                   {% endif %}
                 </div>
               </div>
+              {% endif %}
             {% endfor %}
           </div>
         </div>
