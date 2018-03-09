@@ -12,9 +12,9 @@ layout: default
           <nav class="subnav">
             <h5>People:</h5>
             <ul>
-              <li><a href="#">Team</a></li>
-              <li><a href="#">Voting Members</a></li>
-              <li><a href="#">Board</a></li>
+              <li><a href="/team">Team</a></li>
+              <li><a href="/voting-members">Voting Members</a></li>
+              <li><a href="/board">Board</a></li>
             </ul>
             <ul>
               <li><a href="#working-groups">Working Groups</a></li>
@@ -50,15 +50,15 @@ layout: default
 
     <div class="container">
 
-      <div class="community-programs" id="working-groups">
-        <a class="module link-through light" href="/community/working-groups">
+      <div class="community-programs">
+        <a class="module link-through light" href="/working-groups" id="working-groups">
           <div class="module-details">
             <h3>Working Groups</h3>
             <div class="module-text">{{ page['Working Groups Description'] | markdownify }}</div>
             <p class="module-cta">Learn more</p>
           </div>
         </a>
-        <a class="module link-through light" href="/community/support-programs">
+        <a class="module link-through light" href="/community/support-programs" id="support-programs">
           <div class="module-details">
             <h3>Support Programs</h3>
             <div class="module-text">{{ page['Support Programs Description'] | markdownify }}</div>
@@ -69,7 +69,7 @@ layout: default
 
       <div class="hr-h"></div>
 
-      <div class="event-promo">
+      <div class="event-promo" id="events">
         <div class="event-title">
           <h2>{{ page['Event Promo']['Event Name'] }}</h2>
           <img src="{{ page['Event Promo'].Image }}">
@@ -84,8 +84,8 @@ layout: default
 
       <div class="hr-h"></div>
 
-      <div class="finances">
-        <h3>Finances</h3>
+      <div class="finances" id="financials">
+        <h3>Financials</h3>
         <div class="finances-wrapper">
           <div class="finances-text">
             {{ page.Finances.Text | markdownify }}

@@ -751,6 +751,7 @@ em {
 .module {
   display: block;
   padding: 24px;
+  margin-bottom: 24px;
   text-decoration: none;
   overflow: hidden;
   &.light {
@@ -2748,6 +2749,19 @@ em {
       }
     }
   }
+}
+
+.group-body {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+}
+
+.group-description {
+  grid-column: 1 / 6;
+}
+
+.group-list {
+  grid-column: 6 / -1;
 }
 
 
