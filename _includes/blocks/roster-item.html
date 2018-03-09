@@ -1,0 +1,15 @@
+<a href="{{ person.url }}" class="roster-link">
+  {% if person.Photo %}
+    <div class="person-photo">
+      <img src="{{ person.Photo }}">
+    </div>
+  {% endif %}
+  <div class="roster-identity">
+    <h4>{{ person.title }}</h4>
+    <p class="">
+      {% if person.Title %}
+        <span class="">{{ person.Title }}</span>
+      {% endif %}
+    </p>
+  </div>
+</a>

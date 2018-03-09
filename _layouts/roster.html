@@ -6,29 +6,24 @@ layout: default
 
   <div class="container">
 
-    <header class="page-header">
+    <header class="page-header roster-header">
       <h1>{{ page.title }}</h1>
+      <div class="roster-content article">
+        {{ content }}
+      </div>
     </header>
 
     <div class="roster-body">
 
       {% assign sorted-people = site.people | sort: 'position' %}
       {% for person in sorted-people %}
-        <a href="{{ person.url }}" class="roster-link">
-          {% if person.Photo %}
-            <div class="person-photo">
-              <img src="{{ person.Photo }}">
-            </div>
-          {% endif %}
-          <div class="roster-identity">
-            <h4>{{ person.title }}</h4>
-            <p class="">
-              {% if person.Title %}
-                <span class="">{{ person.Title }}</span>
-              {% endif %}
-            </p>
-          </div>
-        </a>
+        {% if page.title contains 'HOT Team' and person['Member Type']['Is Staff'] %}
+          {% include blocks/roster-item.html %}
+        {% elsif page.title contains 'Voting Members' and person['Member Type']['Is Voting Member'] %}
+          {% include blocks/roster-item.html %}
+        {% elsif page.title contains 'Board' and person['Member Type']['Is Board Member'] %}
+          {% include blocks/roster-item.html %}
+        {% endif %}
       {% endfor %}
 
     </div>
