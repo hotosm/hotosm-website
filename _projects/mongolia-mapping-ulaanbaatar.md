@@ -9,6 +9,7 @@ Duration:
   Start Date: '2013-06-01 00:00:00 +0000'
   End Date: '2015-11-30 00:00:00 +0000'
 permalink: mongolia_mapping_ulaanbaatar
+Contact: <p><a href="mailto:russell.deffner@hotosm.org">S.Menard<br>Russell Deffner</a></p>
 title: Mongolia, Mapping Ulaanbaatar
 created: 1381516339
 ---

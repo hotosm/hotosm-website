@@ -2,8 +2,8 @@
 date: '2015-05-28 14:17:00 Z'
 HOT Involvement: Partnerships
 Person:
-- Benoît Fournier
 - Blake Girardot
+- Benoît Fournier
 - Kate Chapman
 - Katja Ulbert
 - Cristiano Giovando

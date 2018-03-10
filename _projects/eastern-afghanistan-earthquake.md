@@ -15,6 +15,7 @@ Duration:
   Start Date: '2015-10-27 00:00:00 +0000'
   End Date: '2015-12-31 00:00:00 +0000'
 permalink: eastern_afghanistan_earthquake
+Contact: "<p>Activation@hotosm.org</p>"
 title: Eastern Afghanistan Earthquake
 created: 1445966556
 ---

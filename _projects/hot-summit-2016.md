@@ -7,21 +7,22 @@ Summary Text: Registration is now open for the second annual HOT Summit 2016 to 
 HOT Involvement: Community Development
 Person:
 - Blake Girardot
+- Dylan Moriarty
+- David Luswata
+- Miriam Gonzalez
 - Yantisa Akhadi
 - Katja Ulbert
 - Nick Allen
 - Paul Uithol
 - Adityo Dwijananto
-- Dylan Moriarty
-- David Luswata
 - Ben Abelshausen
 - Nate Smith
-- Miriam Gonzalez
 Link: http://summit.hotosm.org
 Duration:
   Start Date: '2016-05-26 00:00:00 +0000'
   End Date: '2016-09-23 00:00:00 +0000'
 permalink: hot_summit_2016
+Contact: "<p>summit@hotosm.org</p>"
 title: HOT Summit 2016
 created: 1464278315
 ---

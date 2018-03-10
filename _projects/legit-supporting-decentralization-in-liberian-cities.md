@@ -7,6 +7,8 @@ Partner: DAI
 Duration:
   Start Date: '2017-03-08 00:00:00 +0000'
 permalink: legit_supporting_decentralization_in_liberian_cities
+Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p><p><a
+  href="https://hotosm.org/users/david_luswata">David Luswata</a></p>
 title: 'LEGIT: Supporting decentralization in Liberian cities'
 created: 1489014346
 ---

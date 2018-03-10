@@ -12,6 +12,8 @@ Duration:
   Start Date: '2017-09-07 00:00:00 +0000'
   End Date: '2017-11-10 00:00:00 +0000'
 permalink: fall_2017_disaster_response
+Contact: <p>Blake Girardot</p><p>Mhairi O'Hara</p><p>Nate Smith</p><p><a href="https://www.hotosm.org/users/russ">Russell
+  Deffner</a></p><p>&nbsp;</p>
 title: Fall 2017 Disaster Response
 created: 1504929054
 ---

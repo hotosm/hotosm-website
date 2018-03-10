@@ -12,10 +12,10 @@ HOT Involvement: Disaster Mapping
 Person:
 - Claire Halleux
 - Jorieke Vyncke
-- Marco Minghini
 - Rafael Ávila Coya
 - Pierre Mirlesse
 - Pierre Mirlesse
+- Marco Minghini
 - Nick Allen
 - Michael Heißmeier
 - Harry Wood
@@ -25,6 +25,7 @@ Duration:
   Start Date: '2013-03-23 00:00:00 +0000'
   End Date: '2015-12-31 00:00:00 +0000'
 permalink: central_african_republic_activation
+Contact: <p><a href="mailto:severin.menard@hotosm.org">Severin</a></p><p><a href="mailto:ndongamadou@gmail.com">Amadou</a></p>
 title: Central African Republic Activation
 created: 1399631104
 ---

@@ -4,18 +4,18 @@ HOT Involvement: Disaster Mapping
 Person:
 - Taichi Furuhashi
 - Mark Cupitt
-- Harry Mahardhika Machmud
 - Dale Kunce
 - 'Jaakko Helleranta '
 - Rafael Ávila Coya
 - Mikel Maron
 - Robert Banick
 - Fran Boon
+- Harry Mahardhika Machmud
 - Maning Sambale
-- Ralph Aytoun
 - Kate Chapman
 - Andrew Buck
 - Pierre Béland
+- Ralph Aytoun
 - Russell Deffner
 - Harry Wood
 Link: http://wiki.osm.org/Typhoon_Haiyan

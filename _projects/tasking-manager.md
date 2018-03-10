@@ -7,14 +7,14 @@ Summary Text: The OSM Tasking Manager is a mapping coordination tool designed an
 HOT Involvement: Technical Projects
 Person:
 - Nate Smith
+- 'Douglas Ssebaggala '
 - Dale Kunce
 - Mikel Maron
 - Marc Mashawu
 - Benoît Fournier
-- Dewi Sulistioningrum
 - Blake Girardot
+- Dewi Sulistioningrum
 - Russell Deffner
-- 'Douglas Ssebaggala '
 - Jean Bully PROPHETE
 - Taichi Furuhashi
 Link: http://tasks.hotosm.org

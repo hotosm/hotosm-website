@@ -11,24 +11,25 @@ HOT Involvement: Disaster Mapping
 Person:
 - Mikel Maron
 - Rob Baker
-- Marco Minghini
 - Andrew Wiseman
 - 'Jaakko Helleranta '
-- Ralph Aytoun
+- Marco Minghini
 - Fran Boon
 - Kate Chapman
-- Matthew Gibb
+- Ralph Aytoun
 - ALCE Samuel Paul
 - Pierre Béland
 - Jean Bully PROPHETE
 - Harry Wood
 - Taichi Furuhashi
+- Matthew Gibb
 - Will Skora
 - Dale Kunce
 Duration:
   Start Date: '2010-01-12 00:00:00 +0000'
   End Date: '2011-10-31 00:00:00 +0000'
 permalink: haiti_
+Contact: <p><a href="mailto:nicolas.chavent@hotosm.org">Nicolas Chavent</a></p>
 title: Haiti
 created: 1297518826
 ---

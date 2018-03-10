@@ -9,6 +9,8 @@ Duration:
   Start Date: '2014-07-31 00:00:00 +0000'
   End Date: '2015-12-31 00:00:00 +0000'
 permalink: malawi_flood_preparedness
+Contact: <p><a href="mailto:severin.menard@hotosm.org">Severin</a></p><p><a href="mailto:emmanuel.sambale@hotosm.org">Maning</a></p><p><a
+  href="mailto:emir.hartato@hotosm.org">Emir</a></p>
 title: Malawi Flood Preparedness
 created: 1406668838
 ---

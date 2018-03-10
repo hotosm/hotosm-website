@@ -8,6 +8,7 @@ Duration:
   Start Date: '2017-11-21 00:00:00 +0000'
   End Date: '2018-01-07 00:00:00 +0000'
 permalink: "#mapthedifference"
+Contact: "<p>donations@hotosm.org</p>"
 title: "#mapthedifference"
 created: 1513183425
 ---

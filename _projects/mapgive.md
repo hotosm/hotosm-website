@@ -9,6 +9,7 @@ Link: http://mapgive.state.gov/
 Duration:
   Start Date: '2014-03-07 00:00:00 +0000'
 permalink: mapgive
+Contact: <p><a href="mailto:mapgive@state.gov">mapgive@state.gov</a></p>
 title: MapGive
 created: 1438450911
 ---

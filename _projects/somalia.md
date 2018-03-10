@@ -13,6 +13,7 @@ Duration:
   Start Date: '2011-07-01 00:00:00 +0000'
   End Date: '2011-12-31 00:00:00 +0000'
 permalink: somalia
+Contact: <p><a href="mailto:kate.chapman@hotosm.org">Kate Chapman</a></p>
 title: Somalia
 created: 1315054136
 ---

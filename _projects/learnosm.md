@@ -5,24 +5,24 @@ Summary Text: LearnOSM provides easy to understand, step-by-step guides for you 
   OpenStreetMap data.
 HOT Involvement: Technical Projects
 Person:
+- 'Douglas Ssebaggala '
 - Claire Halleux
-- Michael Heißmeier
 - Blake Girardot
-- Benoît Fournier
 - Pierre Mirlesse
-- Harry Mahardhika Machmud
 - Emir Hartato
 - Ahasanul Hoque
+- Michael Heißmeier
 - Pierre Mirlesse
-- Ralph Aytoun
+- Benoît Fournier
+- Harry Mahardhika Machmud
 - Nick Allen
 - Katja Ulbert
 - Kate Chapman
 - Russell Deffner
-- Adityo Dwijananto
-- 'Douglas Ssebaggala '
+- Ralph Aytoun
 - BAGNOUMANA Bazo FOFANA
 - Jean Bully PROPHETE
+- Adityo Dwijananto
 - Taichi Furuhashi
 Link: http://LearnOSM.org
 Duration:

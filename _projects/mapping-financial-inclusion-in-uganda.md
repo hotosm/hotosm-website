@@ -6,17 +6,18 @@ Summary Text: Access to digital financial services is fundamental to enabling po
   program in Uganda starting in December 2015.
 HOT Involvement: Community Development
 Person:
+- 'Douglas Ssebaggala '
+- David Luswata
 - Geoffrey Kateregga
 - Blake Girardot
 - Paul Uithol
-- 'Douglas Ssebaggala '
-- David Luswata
 - Mhairi O'Hara
 Partner: Bill and Melinda Gates Foundation
 Link: http://mapuganda.org/
 Duration:
   Start Date: '2015-12-01 00:00:00 +0000'
 permalink: mapping_financial_inclusion_in_uganda
+Contact: <a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a>
 title: Mapping Financial Inclusion in Uganda
 created: 1449867016
 ---

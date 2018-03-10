@@ -24,6 +24,8 @@ Duration:
   Start Date: '2012-05-01 00:00:00 +0000'
   End Date: '2012-12-31 00:00:00 +0000'
 permalink: senegal
+Contact: <p><a href="mailto:nicolas.chavent@hotosm.org">Nicolas Chavent</a> <br><a
+  href="mailto:augustin.doury@hotosm.org">Augustin Doury</a></p>
 title: Senegal
 created: 1343750591
 ---

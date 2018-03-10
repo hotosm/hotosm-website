@@ -5,36 +5,38 @@ Summary Text: Missing Maps is an open collaboration of organisations and individ
 HOT Involvement: Partnerships
 Person:
 - Ben Abelshausen
-- Janet Chapman
-- Dale Kunce
-- Michael Heißmeier
-- Jorieke Vyncke
-- Benoît Fournier
-- Pete Masters
-- Marc Mashawu
-- Blake Girardot
-- Dewi Sulistioningrum
-- Ralph Aytoun
-- Maria Longley
-- Nick Allen
-- Katja Ulbert
-- Adityo Dwijananto
-- Matthew Gibb
-- Rachel Levine
-- Russell Deffner
-- Rebecca Firth
 - Tasauf A Baki Billah (Ribin)
 - Dylan Moriarty
+- Dale Kunce
 - Enock Seth Nyamador
 - 'Douglas Ssebaggala '
 - Melanie Eckle
 - David Luswata
+- Jorieke Vyncke
+- Pete Masters
+- Janet Chapman
+- Blake Girardot
+- Michael Heißmeier
+- Benoît Fournier
+- Marc Mashawu
+- Nick Allen
+- Katja Ulbert
+- Dewi Sulistioningrum
+- Russell Deffner
+- Ralph Aytoun
+- Maria Longley
+- Rachel Levine
+- Adityo Dwijananto
 - Harry Wood
+- Matthew Gibb
+- Rebecca Firth
 - Nate Smith
 Link: http://www.missingmaps.org/
 Duration:
   Start Date: '2014-11-04 00:00:00 +0000'
 permalink: missing_maps
+Contact: <p><a href="http://twitter.com/themissingmaps">http://twitter.com/themissingmaps</a></p><p><a
+  title="Missing Maps facebook" href="http://facebook.com/theMissingMaps">http://facebook.com/theMissingMaps</a></p>
 title: Missing Maps
 created: 1438456158
 ---

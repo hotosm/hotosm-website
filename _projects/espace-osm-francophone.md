@@ -20,6 +20,7 @@ Duration:
   Start Date: '2013-06-01 00:00:00 +0000'
   End Date: '2013-12-31 00:00:00 +0000'
 permalink: espace_osm_francophone
+Contact: <p><a href="mailto:nicolas.chavent@hotosm.org">Nicolas Chavent</a></p>
 title: Espace OSM Francophone
 created: 1372796985
 ---

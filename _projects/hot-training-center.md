@@ -4,13 +4,13 @@ Summary Text: HOT has developed a protocol and training program to empower those
   Activators who coordinate our Disaster Mapping.
 HOT Involvement: Technical Projects
 Person:
+- Enock Seth Nyamador
 - Blake Girardot
 - Benoît Fournier
 - Katja Ulbert
 - Russell Deffner
-- Adityo Dwijananto
 - Cristiano Giovando
-- Enock Seth Nyamador
+- Adityo Dwijananto
 - Jean Bully PROPHETE
 - Mhairi O'Hara
 Partner: Hewlett Foundation
@@ -18,6 +18,8 @@ Link: http://courses.hotosm.org/
 Duration:
   Start Date: '2015-04-20 00:00:00 +0000'
 permalink: hot_training_center
+Contact: <p><a href="mailto:Russell.Deffner@hotosm.org">Russell Deffner</a><a href="http://hotosm.org/users/mhairi_ohara"><br>Mhairi
+  O'Hara</a></p>
 title: HOT Training Center
 created: 1432763436
 ---

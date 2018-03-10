@@ -4,8 +4,8 @@ HOT Involvement: Technical Projects
 Person:
 - Nate Smith
 - Dale Kunce
-- Pratik Yadav
 - Blake Girardot
+- Pratik Yadav
 - Kate Chapman
 - Cristiano Giovando
 - Taichi Furuhashi
@@ -14,6 +14,7 @@ Link: http://www.openaerialmap.org
 Duration:
   Start Date: '2015-01-01 00:00:00 +0000'
 permalink: openaerialmap
+Contact: <p><a href="http://hotosm.org/users/cristiano_giovando">Cristiano Giovando</a></p>
 title: OpenAerialMap
 created: 1432856210
 ---

@@ -4,25 +4,25 @@ HOT Involvement: Disaster Mapping
 Person:
 - Dale Kunce
 - Rafael Ávila Coya
+- Enock Seth Nyamador
 - Stéphane Henriod
 - Mikel Maron
 - Ismaila SEYE
 - Pierre Mirlesse
 - Andrew Wiseman
-- Benoît Fournier
 - Ahasanul Hoque
 - Blake Girardot
 - Pierre Mirlesse
 - Robert Banick
-- Courtney Clark
-- Ralph Aytoun
+- Benoît Fournier
 - Nick Allen
+- Courtney Clark
 - Katja Ulbert
 - Cristiano Giovando
 - Pierre Béland
+- Ralph Aytoun
 - Russell Deffner
 - BAGNOUMANA Bazo FOFANA
-- Enock Seth Nyamador
 - Taichi Furuhashi
 - Harry Wood
 Link: http://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake

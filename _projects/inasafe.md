@@ -2,15 +2,15 @@
 date: '2015-07-15 06:16:12 Z'
 HOT Involvement: Partnerships
 Person:
-- Ranie Dwi Anugrah
 - Blake Girardot
-- Harry Mahardhika Machmud
 - Emir Hartato
 - Biondi Sanda Sima
-- Dewi Sulistioningrum
-- Wulansari Khairunisa
+- Ranie Dwi Anugrah
+- Harry Mahardhika Machmud
 - Vasanthi Hargyono
 - Yantisa Akhadi
+- Dewi Sulistioningrum
+- Wulansari Khairunisa
 - Dewi Sulistioningrum
 - Adityo Dwijananto
 - Mhairi O'Hara

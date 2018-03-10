@@ -5,8 +5,8 @@ Summary Text: "https://donate.hotosm.org\r\nYou can make the difference in helpi
   Mapbox for matching the first $10,000. Please donate today!"
 HOT Involvement: Partnerships
 Person:
-- Marco Minghini
 - Katja Ulbert
+- Marco Minghini
 - Nick Allen
 - Humberto Yances
 - Blake Girardot
@@ -15,6 +15,7 @@ Duration:
   Start Date: '2015-11-06 00:00:00 +0000'
   End Date: '2015-12-31 00:00:00 +0000'
 permalink: donate_to_hot_today
+Contact: "<p>Tyler Radford</p>"
 title: Donate to HOT today
 created: 1446823353
 ---

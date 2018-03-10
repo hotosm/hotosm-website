@@ -7,14 +7,15 @@ Person:
 - Mikel Maron
 - Pratik Yadav
 - Marco Minghini
-- Ralph Aytoun
 - Paul Uithol
 - Russell Deffner
+- Ralph Aytoun
 - Rebecca Firth
 Duration:
   Start Date: '2016-12-01 00:00:00 +0000'
   End Date: '2018-06-04 00:00:00 +0000'
 permalink: malaria_elimination_campaign
+Contact: <p><a href="https://hotosm.org/users/russell_deffner">Russell Deffner</a></p>
 title: Malaria Elimination Campaign
 created: 1486519560
 ---

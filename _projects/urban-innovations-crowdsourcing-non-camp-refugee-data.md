@@ -3,13 +3,14 @@ date: '2017-02-06 15:06:01 Z'
 HOT Involvement: Community Development
 Person:
 - Nate Smith
+- 'Douglas Ssebaggala '
 - Rupert Allan
 - Paul Uithol
-- 'Douglas Ssebaggala '
 Partner: U.S. Department of State
 Duration:
   Start Date: '2016-12-01 00:00:00 +0000'
 permalink: urban_innovations_crowdsourcing_non-camp_refugee_data
+Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
 title: 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 created: 1486393561
 ---

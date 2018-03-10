@@ -6,26 +6,26 @@ Person:
 - Mhairi O'Hara
 - Taichi Furuhashi
 - Mark Cupitt
-- Michael Heißmeier
-- Marco Minghini
+- Enock Seth Nyamador
+- David Luswata
 - Pierre Mirlesse
 - Ismaila SEYE
 - Dale Kunce
 - Rafael Ávila Coya
 - Mikel Maron
+- Michael Heißmeier
 - Pierre Mirlesse
-- Courtney Clark
 - Robert Banick
 - Fran Boon
+- Marco Minghini
 - Blake Girardot
-- Ralph Aytoun
 - Nick Allen
+- Courtney Clark
 - Andrew Buck
 - Orsolya Jenei
 - Pierre Béland
 - BAGNOUMANA Bazo FOFANA
-- Enock Seth Nyamador
-- David Luswata
+- Ralph Aytoun
 - Mamadou Bassirou THIAM
 - Russell Deffner
 Partner: Hewlett Foundation

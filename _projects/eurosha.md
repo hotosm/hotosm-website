@@ -19,6 +19,8 @@ Duration:
   Start Date: '2012-09-01 00:00:00 +0000'
   End Date: '2013-04-30 00:00:00 +0000'
 permalink: eurosha
+Contact: <p><a href="mailto:severin.menard@hotosm.org">Nicolas Chavent<br>Severin
+  Menard</a></p>
 title: EUROSHA
 created: 1344808763
 ---

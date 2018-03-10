@@ -14,6 +14,8 @@ Duration:
   Start Date: '2012-02-01 00:00:00 +0000'
   End Date: '2012-04-30 00:00:00 +0000'
 permalink: field_mapping_in_saint-marc_haiti
+Contact: <p><a href="mailto:nicolas.chavent@hotosm.org">Nicolas Chavent</a><br><a
+  href="mailto:severin.menard@hotosm.org">Severin Menard</a></p>
 title: Field Mapping in Saint-Marc, Haiti
 created: 1344311719
 ---

@@ -8,9 +8,9 @@ HOT Involvement: Partnerships
 Person:
 - Jorieke Vyncke
 - Ahasanul Hoque
-- Ralph Aytoun
 - Katja Ulbert
 - Kate Chapman
+- Ralph Aytoun
 - Jean Bully PROPHETE
 - Taichi Furuhashi
 - Mhairi O'Hara

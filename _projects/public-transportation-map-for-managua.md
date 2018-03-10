@@ -8,6 +8,7 @@ Duration:
   Start Date: '2015-12-15 00:00:00 +0000'
   End Date: '2016-02-28 00:00:00 +0000'
 permalink: public_transportation_map_for_managua
+Contact: <a href="https://hotosm.org/users/xamanu" target="_self">Felix Delattre</a>
 title: Public transportation map for Managua
 created: 1450909562
 ---

@@ -12,6 +12,7 @@ Duration:
   Start Date: '2017-01-01 00:00:00 +0000'
   End Date: '2018-12-31 00:00:00 +0000'
 permalink: microgrants_and_community_development
+Contact: "<p>rebecca.firth@hotosm.org</p>"
 title: Microgrants and Community Development
 created: 1513029621
 ---

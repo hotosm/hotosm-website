@@ -9,6 +9,7 @@ Duration:
   Start Date: '2010-10-31 00:00:00 +0000'
   End Date: '2011-12-31 00:00:00 +0000'
 permalink: ivory_coast
+Contact: <p><a href="mailto:fredericbonifas@gmail.com">Frederic Bonifas</a></p>
 title: Ivory Coast
 created: 1314999618
 ---

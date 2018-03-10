@@ -8,21 +8,21 @@ Summary Text: "Base data serves many needs in humanitarian response.  Often resp
   in its fifth year. \r\n\r\n"
 HOT Involvement: Community Development
 Person:
-- Ranie Dwi Anugrah
 - Rob Baker
-- Harry Mahardhika Machmud
 - Emir Hartato
 - Biondi Sanda Sima
+- Ranie Dwi Anugrah
 - Chris Blow
 - Eugene Usvitsky
-- Dewi Sulistioningrum
-- Wulansari Khairunisa
 - Vasanthi Hargyono
 - Yantisa Akhadi
+- Harry Mahardhika Machmud
 - Kate Chapman
 - Dewi Sulistioningrum
-- Adityo Dwijananto
+- Wulansari Khairunisa
 - Steven Johnson
+- Dewi Sulistioningrum
+- Adityo Dwijananto
 - Harry Wood
 - Joseph Reeves
 Partner: Department of Foreign Affairs and Trade
@@ -30,6 +30,8 @@ Link: http://wiki.openstreetmap.org/wiki/WikiProject_Indonesia
 Duration:
   Start Date: '2011-01-01 00:00:00 +0000'
 permalink: indonesia_disaster_management_innovation
+Contact: <p><a title="Yantisa Akhadi" href="https://hotosm.org/users/iyan_akhadi"
+  target="_blank">Yantisa Akhadi</a></p>
 title: Indonesia Disaster Management Innovation
 created: 1314998364
 ---

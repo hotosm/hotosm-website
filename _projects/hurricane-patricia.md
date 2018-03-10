@@ -4,9 +4,9 @@ Summary Text: 'The Humanitarian OpenSteetMap Team (HOT) has activated to provide
   base data in areas affected by Hurricane Patricia in Mexico. '
 HOT Involvement: Disaster Mapping
 Person:
-- Miriam Gonzalez
 - Mikel Maron
 - Blake Girardot
+- Miriam Gonzalez
 - Russell Deffner
 - Humberto Yances
 - Dale Kunce
@@ -15,6 +15,7 @@ Duration:
   Start Date: '2015-10-23 00:00:00 +0000'
   End Date: '2015-11-13 00:00:00 +0000'
 permalink: hurricane_patricia
+Contact: "<p>Activation@hotosm.org</p>"
 title: Hurricane Patricia
 created: 1445637001
 ---

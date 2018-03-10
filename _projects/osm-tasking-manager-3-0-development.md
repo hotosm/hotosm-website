@@ -3,13 +3,20 @@ date: '2016-12-01 19:41:07 Z'
 HOT Involvement: Technical Projects
 Person:
 - Blake Girardot
-- Ralph Aytoun
 - Nick Allen
+- Ralph Aytoun
 - Russell Deffner
 Duration:
   Start Date: '2016-12-01 00:00:00 +0000'
   End Date: '2017-10-31 00:00:00 +0000'
 permalink: osm_tasking_manager_30_development
+Contact: '<p>Blake Girardot<br>Humanitarian OpenStreetMap Team, TM3 Project Manager<br><a
+  class="linkification-ext" title="Linkification: mailto:blake.girardot@hotosm.org"
+  href="mailto:blake.girardot@hotosm.org">mailto:blake.girardot@hotosm.org</a><br>skype:
+  jblakegirardot<br>Slack: <a class="linkification-ext" title="Linkification: https://hotosm-slack.herokuapp.com/"
+  href="https://hotosm-slack.herokuapp.com/">https://hotosm-slack.herokuapp.com/</a><br>GitHub:
+  <a class="linkification-ext" title="Linkification: https://github.com/hotosm/osm-tasking-manager2"
+  href="https://github.com/hotosm/osm-tasking-manager2">https://github.com/hotosm/osm-tasking-manager2</a></p>'
 title: OSM Tasking Manager 3.0 Development
 created: 1480621267
 ---

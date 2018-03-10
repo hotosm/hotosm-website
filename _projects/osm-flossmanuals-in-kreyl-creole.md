@@ -9,6 +9,7 @@ Duration:
   Start Date: '2011-12-01 00:00:00 +0000'
   End Date: '2011-12-31 00:00:00 +0000'
 permalink: osm_flossmanuals_in_kreyòl_creole
+Contact: "<p>Anne Goldenberg</p>"
 title: OSM FlossManuals in Kreyòl (Creole)
 created: 1354637402
 ---
