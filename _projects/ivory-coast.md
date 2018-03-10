@@ -1,5 +1,14 @@
 ---
 date: '2011-09-02 21:40:18 Z'
+HOT Involvement: Disaster Mapping
+Person:
+- Harry Wood
+- Ben Abelshausen
+Link: http://wiki.openstreetmap.org/wiki/En:WikiProject_Ivory_Coast
+Duration:
+  Start Date: '2010-10-31 00:00:00 +0000'
+  End Date: '2011-12-31 00:00:00 +0000'
+permalink: ivory_coast
 title: Ivory Coast
 created: 1314999618
 ---

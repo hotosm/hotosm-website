@@ -1,8 +1,33 @@
 ---
+date: '2015-06-02 18:51:01 Z'
 Summary Text: LearnOSM provides easy to understand, step-by-step guides for you to
   get started with contributing to OpenStreetMap and using OpenStreetMap and using
   OpenStreetMap data.
-date: '2015-06-02 18:51:01 Z'
+HOT Involvement: Technical Projects
+Person:
+- Claire Halleux
+- Michael Heißmeier
+- Blake Girardot
+- Benoît Fournier
+- Pierre Mirlesse
+- Harry Mahardhika Machmud
+- Emir Hartato
+- Ahasanul Hoque
+- Pierre Mirlesse
+- Ralph Aytoun
+- Nick Allen
+- Katja Ulbert
+- Kate Chapman
+- Russell Deffner
+- Adityo Dwijananto
+- 'Douglas Ssebaggala '
+- BAGNOUMANA Bazo FOFANA
+- Jean Bully PROPHETE
+- Taichi Furuhashi
+Link: http://LearnOSM.org
+Duration:
+  Start Date: '2012-06-02 00:00:00 +0000'
+permalink: learnosm
 title: LearnOSM
 created: 1433271061
 ---

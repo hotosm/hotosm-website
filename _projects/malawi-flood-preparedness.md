@@ -1,5 +1,14 @@
 ---
 date: '2014-07-29 21:20:38 Z'
+HOT Involvement: Community Development
+Person:
+- Emir Hartato
+- Maning Sambale
+Partner: GFDRR
+Duration:
+  Start Date: '2014-07-31 00:00:00 +0000'
+  End Date: '2015-12-31 00:00:00 +0000'
+permalink: malawi_flood_preparedness
 title: Malawi Flood Preparedness
 created: 1406668838
 ---

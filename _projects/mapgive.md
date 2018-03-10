@@ -1,6 +1,14 @@
 ---
-Summary Text: HOT supported the launch of MapGive in March 2014.
 date: '2015-08-01 17:41:51 Z'
+Summary Text: HOT supported the launch of MapGive in March 2014.
+HOT Involvement: Partnerships
+Person:
+- Dale Kunce
+- Mikel Maron
+Link: http://mapgive.state.gov/
+Duration:
+  Start Date: '2014-03-07 00:00:00 +0000'
+permalink: mapgive
 title: MapGive
 created: 1438450911
 ---

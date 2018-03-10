@@ -1,4 +1,5 @@
 ---
+date: '2012-07-31 16:03:11 Z'
 Summary Text: "HOT's work in Senegal started with a field mission funded through the
   <a href=\"http://www.worldbank.org/ict/\">World Bank’s ICT (Internet and Communications
   Technology)</a> Branch and the <a href=\"http://www.fondationdefrance.org/\">Fondation
@@ -9,7 +10,20 @@ Summary Text: "HOT's work in Senegal started with a field mission funded through
   projects, local Tech communities, Senegalese geomatics scene actors (Senegalese
   SDI), and Academics leading to the cultivation and training of a local OSM Community
   in Senegal.\r\n\r\n"
-date: '2012-07-31 16:03:11 Z'
+HOT Involvement: Community Development
+Person:
+- Ben Abelshausen
+- Jorieke Vyncke
+- Ismaila SEYE
+- Jean Marie MANCABOU
+- Awa Dia
+- Mamadou Bassirou THIAM
+- Will Skora
+- Amadou Ndong
+Duration:
+  Start Date: '2012-05-01 00:00:00 +0000'
+  End Date: '2012-12-31 00:00:00 +0000'
+permalink: senegal
 title: Senegal
 created: 1343750591
 ---

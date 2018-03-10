@@ -1,5 +1,19 @@
 ---
 date: '2016-10-04 04:18:22 Z'
+HOT Involvement: Disaster Mapping
+Person:
+- Miriam Gonzalez
+- Michael Heißmeier
+- Blake Girardot
+- Marco Minghini
+- Ralph Aytoun
+- Paul Uithol
+- Matthew Gibb
+- Dale Kunce
+Duration:
+  Start Date: '2016-10-03 00:00:00 +0000'
+  End Date: '2017-10-01 00:00:00 +0000'
+permalink: hurricane_matthew
 title: Hurricane Matthew
 created: 1475554702
 ---

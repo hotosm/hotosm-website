@@ -1,10 +1,17 @@
 ---
+date: '2017-12-11 22:00:21 Z'
 Summary Text: OpenStreetMap (OSM) community leaders are achieving amazing results
   leading local initiatives to map the places they live in response to disaster risks
   and to contribute to the Sustainable Development Goals. HOT supports these projects
   through Microgrants and Device Grants, strengthening OpenStreetMap communities and
   encouraging more and better open map data in vulnerable areas.
-date: '2017-12-11 22:00:21 Z'
+HOT Involvement: Community Development
+Person:
+- Russell Deffner
+Duration:
+  Start Date: '2017-01-01 00:00:00 +0000'
+  End Date: '2018-12-31 00:00:00 +0000'
+permalink: microgrants_and_community_development
 title: Microgrants and Community Development
 created: 1513029621
 ---

@@ -1,4 +1,5 @@
 ---
+date: '2011-02-12 13:53:46 Z'
 Summary Text: "Just a few hours after the 7.0 magnitude earthquake hit Haiti in January
   2010 the OpenStreetMap Community began tracing.... What did they begin tracing?
   Roads in the beginning all from imagery that was previously available from Yahoo.
@@ -6,7 +7,28 @@ Summary Text: "Just a few hours after the 7.0 magnitude earthquake hit Haiti in 
   data was from responses to 2008 cyclones Ike Hanna and Gustav that was imported
   in OSM in Jan 2009. This data served as a starting place for the mapping that would
   take place after the earthquake.\r\n\r\n"
-date: '2011-02-12 13:53:46 Z'
+HOT Involvement: Disaster Mapping
+Person:
+- Mikel Maron
+- Rob Baker
+- Marco Minghini
+- Andrew Wiseman
+- 'Jaakko Helleranta '
+- Ralph Aytoun
+- Fran Boon
+- Kate Chapman
+- Matthew Gibb
+- ALCE Samuel Paul
+- Pierre Béland
+- Jean Bully PROPHETE
+- Harry Wood
+- Taichi Furuhashi
+- Will Skora
+- Dale Kunce
+Duration:
+  Start Date: '2010-01-12 00:00:00 +0000'
+  End Date: '2011-10-31 00:00:00 +0000'
+permalink: haiti_
 title: Haiti
 created: 1297518826
 ---

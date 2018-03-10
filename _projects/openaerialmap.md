@@ -1,5 +1,19 @@
 ---
 date: '2015-05-28 23:36:50 Z'
+HOT Involvement: Technical Projects
+Person:
+- Nate Smith
+- Dale Kunce
+- Pratik Yadav
+- Blake Girardot
+- Kate Chapman
+- Cristiano Giovando
+- Taichi Furuhashi
+Partner: Humanitarian Innovation Fund
+Link: http://www.openaerialmap.org
+Duration:
+  Start Date: '2015-01-01 00:00:00 +0000'
+permalink: openaerialmap
 title: OpenAerialMap
 created: 1432856210
 ---

@@ -1,5 +1,14 @@
 ---
 date: '2013-10-11 18:32:19 Z'
+HOT Involvement: Community Development
+Person:
+- Russell Deffner
+Partner: The World Bank
+Link: http://wiki.openstreetmap.org/wiki/WikiProject_Mongolia
+Duration:
+  Start Date: '2013-06-01 00:00:00 +0000'
+  End Date: '2015-11-30 00:00:00 +0000'
+permalink: mongolia_mapping_ulaanbaatar
 title: Mongolia, Mapping Ulaanbaatar
 created: 1381516339
 ---

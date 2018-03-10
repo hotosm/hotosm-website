@@ -1,5 +1,14 @@
 ---
 date: '2012-12-04 16:10:02 Z'
+HOT Involvement: Community Development
+Person:
+- 'Jaakko Helleranta '
+- ALCE Samuel Paul
+- Jean Bully PROPHETE
+Duration:
+  Start Date: '2011-12-01 00:00:00 +0000'
+  End Date: '2011-12-31 00:00:00 +0000'
+permalink: osm_flossmanuals_in_kreyòl_creole
 title: OSM FlossManuals in Kreyòl (Creole)
 created: 1354637402
 ---

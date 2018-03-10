@@ -1,11 +1,19 @@
 ---
+date: '2012-08-07 03:55:19 Z'
 Summary Text: "In August 2011, HOT was contacted by <a href=\"http://www.chemonics.com/OurWork/OurProjects/Pages/Haiti%20Recovery%20Initiative%20II.aspx\">
   HRI (Haiti Recovery Initiative - Levekanpe in Haitian Creole) </a>, a <a href=\"http://www.globalcorps.com/oti.html\">
   USAID/OTI (Office of Transition Initiatives ) </a> and <a href=\"http://www.chemonics.com/Pages/Home.aspx\">Chemonics</a>
   program promoting recovery, long-term development and local capacity building in
   Haiti following the 2010 earthquake, especially in various Development Corridors
   identified throughout the country.\r\n\r\n"
-date: '2012-08-07 03:55:19 Z'
+HOT Involvement: Community Development
+Person:
+- 'Jaakko Helleranta '
+- ALCE Samuel Paul
+Duration:
+  Start Date: '2012-02-01 00:00:00 +0000'
+  End Date: '2012-04-30 00:00:00 +0000'
+permalink: field_mapping_in_saint-marc_haiti
 title: Field Mapping in Saint-Marc, Haiti
 created: 1344311719
 ---

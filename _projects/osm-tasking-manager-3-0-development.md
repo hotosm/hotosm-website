@@ -1,5 +1,15 @@
 ---
 date: '2016-12-01 19:41:07 Z'
+HOT Involvement: Technical Projects
+Person:
+- Blake Girardot
+- Ralph Aytoun
+- Nick Allen
+- Russell Deffner
+Duration:
+  Start Date: '2016-12-01 00:00:00 +0000'
+  End Date: '2017-10-31 00:00:00 +0000'
+permalink: osm_tasking_manager_30_development
 title: OSM Tasking Manager 3.0 Development
 created: 1480621267
 ---

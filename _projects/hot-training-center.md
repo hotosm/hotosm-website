@@ -1,7 +1,23 @@
 ---
+date: '2015-05-27 21:50:36 Z'
 Summary Text: HOT has developed a protocol and training program to empower those volunteer
   Activators who coordinate our Disaster Mapping.
-date: '2015-05-27 21:50:36 Z'
+HOT Involvement: Technical Projects
+Person:
+- Blake Girardot
+- Benoît Fournier
+- Katja Ulbert
+- Russell Deffner
+- Adityo Dwijananto
+- Cristiano Giovando
+- Enock Seth Nyamador
+- Jean Bully PROPHETE
+- Mhairi O'Hara
+Partner: Hewlett Foundation
+Link: http://courses.hotosm.org/
+Duration:
+  Start Date: '2015-04-20 00:00:00 +0000'
+permalink: hot_training_center
 title: HOT Training Center
 created: 1432763436
 ---

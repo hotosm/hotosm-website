@@ -1,10 +1,18 @@
 ---
+date: '2011-09-03 12:48:56 Z'
 Summary Text: "HOT has been working remotely to gather information for Somalia and
   the rest of the Horn of Africa.  This is in response to the severe drought and famine
   crisis the is ongoing in the area. This response has included importing compatible
   data sources, negotiating for access to imagery and tracing of already available
   satellite information.\r\n\r\n"
-date: '2011-09-03 12:48:56 Z'
+HOT Involvement: Disaster Mapping
+Person:
+- 'Jaakko Helleranta '
+Link: http://wiki.openstreetmap.org/wiki/Somalia
+Duration:
+  Start Date: '2011-07-01 00:00:00 +0000'
+  End Date: '2011-12-31 00:00:00 +0000'
+permalink: somalia
 title: Somalia
 created: 1315054136
 ---

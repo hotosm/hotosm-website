@@ -1,5 +1,14 @@
 ---
 date: '2016-11-24 23:55:02 Z'
+HOT Involvement: Community Development
+Person:
+- Blake Girardot
+- Katja Ulbert
+Link: https://mapfugees.wordpress.com/
+Duration:
+  Start Date: '2015-11-25 00:00:00 +0000'
+  End Date: '2017-11-25 00:00:00 +0000'
+permalink: mapfugees_field_mapping
 title: MapFugees Field Mapping
 created: 1480031702
 ---

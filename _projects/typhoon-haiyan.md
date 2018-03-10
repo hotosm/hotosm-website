@@ -1,5 +1,28 @@
 ---
 date: '2013-11-16 15:35:48 Z'
+HOT Involvement: Disaster Mapping
+Person:
+- Taichi Furuhashi
+- Mark Cupitt
+- Harry Mahardhika Machmud
+- Dale Kunce
+- 'Jaakko Helleranta '
+- Rafael Ávila Coya
+- Mikel Maron
+- Robert Banick
+- Fran Boon
+- Maning Sambale
+- Ralph Aytoun
+- Kate Chapman
+- Andrew Buck
+- Pierre Béland
+- Russell Deffner
+- Harry Wood
+Link: http://wiki.osm.org/Typhoon_Haiyan
+Duration:
+  Start Date: '2013-11-10 00:00:00 +0000'
+  End Date: '2014-01-31 00:00:00 +0000'
+permalink: typhoon_haiyan
 title: Typhoon Haiyan
 created: 1384616148
 ---

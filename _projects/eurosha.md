@@ -1,4 +1,5 @@
 ---
+date: '2012-08-12 21:59:23 Z'
 Summary Text: "EUROSHA is a European Union pilot project that wants to build up a
   European Open-Source Humanitarian Aid corps of volunteers to address humanitarian
   issues and specifically ensure inclusive humanitarian information-sharing in crisis
@@ -7,7 +8,17 @@ Summary Text: "EUROSHA is a European Union pilot project that wants to build up 
   team’ of four to five European citizen volunteers and of two national volunteers.
   They will be hosted in locally-based organisations, and live and work together throughout
   their mission in the field. \r\n\r\n"
-date: '2012-08-12 21:59:23 Z'
+HOT Involvement: Community Development
+Person:
+- Stéphane Henriod
+- Jorieke Vyncke
+- Fran Boon
+- Orsolya Jenei
+- Ben Abelshausen
+Duration:
+  Start Date: '2012-09-01 00:00:00 +0000'
+  End Date: '2013-04-30 00:00:00 +0000'
+permalink: eurosha
 title: EUROSHA
 created: 1344808763
 ---

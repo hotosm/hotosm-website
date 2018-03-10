@@ -1,5 +1,20 @@
 ---
 date: '2015-10-12 03:28:28 Z'
+HOT Involvement: Technical Projects
+Person:
+- Ranie Dwi Anugrah
+- Harry Mahardhika Machmud
+- Emir Hartato
+- Dewi Sulistioningrum
+- Wulansari Khairunisa
+- Yantisa Akhadi
+- Vasanthi Hargyono
+- Dewi Sulistioningrum
+- Adityo Dwijananto
+Link: http://openstreetmap.id/en/tutorial/panduansd4cp/
+Duration:
+  Start Date: '2012-11-12 00:00:00 +0000'
+permalink: hot_indonesia_curriculum
 title: HOT Indonesia Curriculum
 created: 1444620508
 ---

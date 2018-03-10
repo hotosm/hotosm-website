@@ -1,5 +1,35 @@
 ---
 date: '2015-04-27 04:39:36 Z'
+HOT Involvement: Disaster Mapping
+Person:
+- Dale Kunce
+- Rafael Ávila Coya
+- Stéphane Henriod
+- Mikel Maron
+- Ismaila SEYE
+- Pierre Mirlesse
+- Andrew Wiseman
+- Benoît Fournier
+- Ahasanul Hoque
+- Blake Girardot
+- Pierre Mirlesse
+- Robert Banick
+- Courtney Clark
+- Ralph Aytoun
+- Nick Allen
+- Katja Ulbert
+- Cristiano Giovando
+- Pierre Béland
+- Russell Deffner
+- BAGNOUMANA Bazo FOFANA
+- Enock Seth Nyamador
+- Taichi Furuhashi
+- Harry Wood
+Link: http://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake
+Duration:
+  Start Date: '2015-04-25 00:00:00 +0000'
+  End Date: '2015-12-31 00:00:00 +0000'
+permalink: nepal_2015_earthquake_response
 title: Nepal 2015 Earthquake Response
 created: 1430109576
 ---

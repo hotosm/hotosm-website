@@ -1,5 +1,13 @@
 ---
 date: '2017-03-06 23:26:57 Z'
+HOT Involvement: Community Development
+Person:
+- Miriam Gonzalez
+- Blake Girardot
+- Russell Deffner
+Duration:
+  Start Date: '2017-03-06 00:00:00 +0000'
+permalink: women_and_girls_in_mapping
 title: Women and Girls in Mapping
 created: 1488842817
 ---

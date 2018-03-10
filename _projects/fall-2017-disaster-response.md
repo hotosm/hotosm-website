@@ -1,8 +1,17 @@
 ---
+date: '2017-09-09 03:50:54 Z'
 Summary Text: The past months have seen disasters and destruction on an unprecedented
   scale, and the HOT Community has activated to respond. Read more on the projects,
   and how you can get involved.
-date: '2017-09-09 03:50:54 Z'
+HOT Involvement: Disaster Mapping
+Person:
+- Michael Heißmeier
+- Russell Deffner
+- Blake Girardot
+Duration:
+  Start Date: '2017-09-07 00:00:00 +0000'
+  End Date: '2017-11-10 00:00:00 +0000'
+permalink: fall_2017_disaster_response
 title: Fall 2017 Disaster Response
 created: 1504929054
 ---

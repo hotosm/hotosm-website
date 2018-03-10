@@ -1,8 +1,20 @@
 ---
+date: '2015-11-06 15:22:33 Z'
 Summary Text: "https://donate.hotosm.org\r\nYou can make the difference in helping
   HOT meet it's fundraising target for 2015 and raise $50,000 by Dec 31. Thank you
   Mapbox for matching the first $10,000. Please donate today!"
-date: '2015-11-06 15:22:33 Z'
+HOT Involvement: Partnerships
+Person:
+- Marco Minghini
+- Katja Ulbert
+- Nick Allen
+- Humberto Yances
+- Blake Girardot
+Link: https://donate.hotosm.org/
+Duration:
+  Start Date: '2015-11-06 00:00:00 +0000'
+  End Date: '2015-12-31 00:00:00 +0000'
+permalink: donate_to_hot_today
 title: Donate to HOT today
 created: 1446823353
 ---

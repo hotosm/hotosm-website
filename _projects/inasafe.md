@@ -1,5 +1,24 @@
 ---
 date: '2015-07-15 06:16:12 Z'
+HOT Involvement: Partnerships
+Person:
+- Ranie Dwi Anugrah
+- Blake Girardot
+- Harry Mahardhika Machmud
+- Emir Hartato
+- Biondi Sanda Sima
+- Dewi Sulistioningrum
+- Wulansari Khairunisa
+- Vasanthi Hargyono
+- Yantisa Akhadi
+- Dewi Sulistioningrum
+- Adityo Dwijananto
+- Mhairi O'Hara
+Link: http://inasafe.org
+Duration:
+  Start Date: '2011-07-15 00:00:00 +0000'
+  End Date: '2015-08-30 00:00:00 +0000'
+permalink: inasafe
 title: InaSAFE
 created: 1436940972
 ---

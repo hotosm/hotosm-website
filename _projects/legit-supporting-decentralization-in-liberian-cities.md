@@ -1,5 +1,12 @@
 ---
 date: '2017-03-08 23:05:46 Z'
+HOT Involvement: Community Development
+Person:
+- Paul Uithol
+Partner: DAI
+Duration:
+  Start Date: '2017-03-08 00:00:00 +0000'
+permalink: legit_supporting_decentralization_in_liberian_cities
 title: 'LEGIT: Supporting decentralization in Liberian cities'
 created: 1489014346
 ---

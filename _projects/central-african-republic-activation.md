@@ -1,4 +1,5 @@
 ---
+date: '2014-05-09 10:25:04 Z'
 Summary Text: "Depuis décembre 2012 et son invasion par les rebelles de la Séléka,
   la République centrafricaine vit des temps difficiles et est devenue une crise de
   niveau 3 (le maximum) pour les Nations Unies. Malheureusement, cette crise va probablement
@@ -7,7 +8,23 @@ Summary Text: "Depuis décembre 2012 et son invasion par les rebelles de la Sél
   systématique, afin de fournir la donnée géographique de base dont les acteurs humanitaires
   ont besoin, et pour faciliter les projets de développement dès que la situation
   locale s'améliorera.  "
-date: '2014-05-09 10:25:04 Z'
+HOT Involvement: Disaster Mapping
+Person:
+- Claire Halleux
+- Jorieke Vyncke
+- Marco Minghini
+- Rafael Ávila Coya
+- Pierre Mirlesse
+- Pierre Mirlesse
+- Nick Allen
+- Michael Heißmeier
+- Harry Wood
+- Ben Abelshausen
+Link: http://wiki.openstreetmap.org/wiki/FR:WikiProject_Central_African_Republic
+Duration:
+  Start Date: '2013-03-23 00:00:00 +0000'
+  End Date: '2015-12-31 00:00:00 +0000'
+permalink: central_african_republic_activation
 title: Central African Republic Activation
 created: 1399631104
 ---

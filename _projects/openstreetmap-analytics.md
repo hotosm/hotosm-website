@@ -1,5 +1,17 @@
 ---
 date: '2016-04-28 12:18:55 Z'
+HOT Involvement: Technical Projects
+Person:
+- Nate Smith
+- Dale Kunce
+- Mikel Maron
+- Blake Girardot
+- Melanie Eckle
+Partner: Knight Foundation
+Link: http://osm-analytics.org/
+Duration:
+  Start Date: '2016-01-01 00:00:00 +0000'
+permalink: openstreetmap_analytics
 title: OpenStreetMap Analytics
 created: 1461845935
 ---

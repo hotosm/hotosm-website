@@ -1,9 +1,22 @@
 ---
+date: '2015-12-11 20:50:16 Z'
 Summary Text: Access to digital financial services is fundamental to enabling poor
   people to become more economically stable, prosperous, and resilient. HOT, with
   support from the Bill and Melinda Gates Foundation, will initiate a six-month pilot
   program in Uganda starting in December 2015.
-date: '2015-12-11 20:50:16 Z'
+HOT Involvement: Community Development
+Person:
+- Geoffrey Kateregga
+- Blake Girardot
+- Paul Uithol
+- 'Douglas Ssebaggala '
+- David Luswata
+- Mhairi O'Hara
+Partner: Bill and Melinda Gates Foundation
+Link: http://mapuganda.org/
+Duration:
+  Start Date: '2015-12-01 00:00:00 +0000'
+permalink: mapping_financial_inclusion_in_uganda
 title: Mapping Financial Inclusion in Uganda
 created: 1449867016
 ---

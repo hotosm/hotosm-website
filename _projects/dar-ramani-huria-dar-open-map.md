@@ -1,5 +1,19 @@
 ---
 date: '2015-02-07 04:47:40 Z'
+HOT Involvement: Community Development
+Person:
+- Steven Bukulu
+- Geoffrey Kateregga
+- 'Amelia Hunt '
+- Paul Uithol
+- Sophie Lafayette
+- Innocent Maholi
+- Dale Kunce
+Partner: The World Bank
+Link: http://ramanihuria.org/
+Duration:
+  Start Date: '2015-04-01 00:00:00 +0000'
+permalink: dar_ramani_huria_dar_open_map
 title: Dar Ramani Huria - Dar Open Map
 created: 1423284460
 ---

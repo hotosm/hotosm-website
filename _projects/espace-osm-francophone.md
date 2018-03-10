@@ -1,10 +1,25 @@
 ---
+date: '2013-07-02 20:29:45 Z'
 Summary Text: "<em><a href=\"http://hot.openstreetmap.org/projects/espace_osm_francophone_0#english_version\">English
   version of the text follows below</a></em>\r\nFort du soutien financier et opérationnel
   de la Direction de la Francophonie numérique (DFN) de l’Organisation Internationale
   de la Francophonie (OIF), HOT avec un réseau de partenaires locaux met en oeuvre
   le projet pilote Espace OSM Francophone (EOF). \r\n\r\n"
-date: '2013-07-02 20:29:45 Z'
+HOT Involvement: Community Development
+Person:
+- Jorieke Vyncke
+- Ismaila SEYE
+- Jean Marie MANCABOU
+- Pierre Béland
+- Orsolya Jenei
+- Awa Dia
+- BAGNOUMANA Bazo FOFANA
+- Mamadou Bassirou THIAM
+- Amadou Ndong
+Duration:
+  Start Date: '2013-06-01 00:00:00 +0000'
+  End Date: '2013-12-31 00:00:00 +0000'
+permalink: espace_osm_francophone
 title: Espace OSM Francophone
 created: 1372796985
 ---

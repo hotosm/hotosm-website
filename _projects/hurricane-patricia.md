@@ -1,7 +1,20 @@
 ---
+date: '2015-10-23 21:50:01 Z'
 Summary Text: 'The Humanitarian OpenSteetMap Team (HOT) has activated to provide geographic
   base data in areas affected by Hurricane Patricia in Mexico. '
-date: '2015-10-23 21:50:01 Z'
+HOT Involvement: Disaster Mapping
+Person:
+- Miriam Gonzalez
+- Mikel Maron
+- Blake Girardot
+- Russell Deffner
+- Humberto Yances
+- Dale Kunce
+Link: http://wiki.openstreetmap.org/wiki/2015_Hurricane_Patricia
+Duration:
+  Start Date: '2015-10-23 00:00:00 +0000'
+  End Date: '2015-11-13 00:00:00 +0000'
+permalink: hurricane_patricia
 title: Hurricane Patricia
 created: 1445637001
 ---

@@ -1,5 +1,17 @@
 ---
 date: '2016-11-24 23:10:44 Z'
+HOT Involvement: Community Development
+Person:
+- Blake Girardot
+- Katja Ulbert
+- Rachel Levine
+- Janet Chapman
+Partner: Missing Maps
+Link: http://donate.hotosm.org
+Duration:
+  Start Date: '2016-11-25 00:00:00 +0000'
+  End Date: '2017-01-02 00:00:00 +0000'
+permalink: mapping_the_world’s_vulnerable_places_begins_with_you!
 title: Mapping the world’s vulnerable places begins with you!
 created: 1480029044
 ---

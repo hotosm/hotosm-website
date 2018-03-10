@@ -1,5 +1,19 @@
 ---
 date: '2015-05-28 14:17:00 Z'
+HOT Involvement: Partnerships
+Person:
+- Benoît Fournier
+- Blake Girardot
+- Kate Chapman
+- Katja Ulbert
+- Cristiano Giovando
+- Russell Deffner
+- Mhairi O'Hara
+Link: https://www.gnome.org/outreachy/
+Duration:
+  Start Date: '2015-05-25 00:00:00 +0000'
+  End Date: '2016-05-28 00:00:00 +0000'
+permalink: outreachy
 title: Outreachy
 created: 1432822620
 ---

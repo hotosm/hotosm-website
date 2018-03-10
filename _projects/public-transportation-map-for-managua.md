@@ -1,5 +1,13 @@
 ---
 date: '2015-12-23 22:26:02 Z'
+HOT Involvement: Community Development
+Person:
+- Felix Delattre
+Link: http://support.mapanica.net
+Duration:
+  Start Date: '2015-12-15 00:00:00 +0000'
+  End Date: '2016-02-28 00:00:00 +0000'
+permalink: public_transportation_map_for_managua
 title: Public transportation map for Managua
 created: 1450909562
 ---

@@ -1,7 +1,20 @@
 ---
+date: '2017-02-08 02:06:00 Z'
 Summary Text: HOT has teamed up with many partners to identify and map populated places
   in areas of the globe susceptible to the disease malaria.
-date: '2017-02-08 02:06:00 Z'
+HOT Involvement: Disaster Mapping
+Person:
+- Mikel Maron
+- Pratik Yadav
+- Marco Minghini
+- Ralph Aytoun
+- Paul Uithol
+- Russell Deffner
+- Rebecca Firth
+Duration:
+  Start Date: '2016-12-01 00:00:00 +0000'
+  End Date: '2018-06-04 00:00:00 +0000'
+permalink: malaria_elimination_campaign
 title: Malaria Elimination Campaign
 created: 1486519560
 ---

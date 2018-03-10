@@ -1,5 +1,39 @@
 ---
 date: '2014-04-15 12:25:42 Z'
+HOT Involvement: Disaster Mapping
+Person:
+- Harry Wood
+- Mhairi O'Hara
+- Taichi Furuhashi
+- Mark Cupitt
+- Michael Heißmeier
+- Marco Minghini
+- Pierre Mirlesse
+- Ismaila SEYE
+- Dale Kunce
+- Rafael Ávila Coya
+- Mikel Maron
+- Pierre Mirlesse
+- Courtney Clark
+- Robert Banick
+- Fran Boon
+- Blake Girardot
+- Ralph Aytoun
+- Nick Allen
+- Andrew Buck
+- Orsolya Jenei
+- Pierre Béland
+- BAGNOUMANA Bazo FOFANA
+- Enock Seth Nyamador
+- David Luswata
+- Mamadou Bassirou THIAM
+- Russell Deffner
+Partner: Hewlett Foundation
+Link: https://wiki.osm.org/2014_West_Africa_Ebola_Response
+Duration:
+  Start Date: '2014-03-24 00:00:00 +0000'
+  End Date: '2015-12-31 00:00:00 +0000'
+permalink: west_africa_ebola_epidemic
 title: West Africa Ebola Epidemic
 created: 1397564742
 ---

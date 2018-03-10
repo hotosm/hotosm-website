@@ -1,9 +1,20 @@
 ---
+date: '2016-07-06 00:35:42 Z'
 Summary Text: 'In collaboration with USAID, BNPB, and the Pacific Disaster Centre,
   HOT will assist improving overall risk assessment, early-warning, and disaster-management
   decision making across Indonesia through the collection and provision of supporting
   infrastructure data to the InAWARE disaster management tool. '
-date: '2016-07-06 00:35:42 Z'
+HOT Involvement: Community Development
+Person:
+- Harry Mahardhika Machmud
+- Biondi Sanda Sima
+- Dewi Sulistioningrum
+- Yantisa Akhadi
+- Rebecca Firth
+Duration:
+  Start Date: '2016-08-01 00:00:00 +0000'
+  End Date: '2018-08-01 00:00:00 +0000'
+permalink: usaid__bnpb__inaware_disaster_management_early_warning_and_decision_support_capacity_enhancement_project_in_indonesia
 title: 'USAID | BNPB | InAWARE: Disaster Management Early Warning and Decision Support
   Capacity Enhancement Project in Indonesia'
 created: 1467765342
