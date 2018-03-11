@@ -21,6 +21,9 @@ collections:
     title: Projects
     output: true
     permalink: "/projects/:path/"
+  tools:
+    title: Tools
+    output: true
   uploads:
     title: Uploads
     output: true
