@@ -28,7 +28,7 @@ body {
 h1, h2 {
   font-family: $font-headline;
   font-size: 4rem;
-  font-weight: 700;
+  font-weight: bold;
   text-transform: uppercase;
   letter-spacing: .045em;
   line-height: 1.15;
@@ -87,13 +87,15 @@ h4 {
 
 h5 {
   font-size: 0.8125rem;
-  font-weight: 600;
+  font-weight: bold;
+  font-style: normal;
   color: $blue-light;
 }
 
 h6 {
   font-size: 1rem;
-  font-weight: 600;
+  font-weight: bold;
+  font-style: normal;
   color: $blue-grey;
   @media (max-width: $screen-xs) {
     font-size: .875rem;
@@ -115,7 +117,7 @@ img {
 
 
 strong {
-  font-weight: 600;
+  font-weight: bold;
 }
 
 em {
@@ -161,7 +163,7 @@ em {
       left: -27px;
       display: inline-block;
       color: $red;
-      font-weight: 600;
+      font-weight: bold;
     }
   }
   img {
@@ -169,12 +171,12 @@ em {
     height: auto;
     & + em {
       font-size: 0.8125rem;
-      font-weight: 600;
+      font-weight: bold;
       color: $blue-grey;
     }
   }
   strong {
-    font-weight: 600;
+    font-weight: bold;
     color: $blue-dark;
   }
 }
@@ -204,7 +206,7 @@ em {
 
 .page-header {
   margin-top: 48px;
-  margin-bottom: 32px;
+  margin-bottom: 24px;
 }
 
 .header-subnav {
@@ -213,7 +215,8 @@ em {
 
 .page-subnav {
   display: inline-block;
-  float: right;
+  // float: right;
+  margin-left: 48px;
 }
 
 .subnav {
@@ -241,6 +244,12 @@ em {
   }
   a {
     color: $blue-dark;
+  }
+  &.dark {
+    background-color: $blue-dark;
+    a {
+      color: $white;
+    }
   }
 }
 
@@ -532,7 +541,7 @@ em {
       margin-top: 6px;
       span {
         font-family: $font-headline;
-        font-weight: 700;
+        font-weight: bold;
         text-transform: uppercase;
         font-size: 0.875rem;
         padding: 2px 5px 3px 6px;
@@ -546,7 +555,7 @@ em {
     }
     // a {
     //   text-decoration: none;
-    //   font-weight: 600;
+    //   font-weight: bold;
     //   text-shadow: 0 1px 2px rgba(0, 0, 0, .5);
     //   border-bottom: 1px solid $blue-grey;
     //   padding-bottom: 2px;
@@ -640,7 +649,7 @@ em {
   }
   .news-preview-meta {
     font-size: 0.8125rem;
-    font-weight: 600;
+    font-weight: bold;
     color: $blue-light;
   }
   .news-preview-text {
@@ -721,11 +730,14 @@ em {
 
 .module-image {
   display: block;
+  img {
+    display: block;
+  }
 }
 
 .module-cta {
   font-size: 0.875rem;
-  font-weight: 600;
+  font-weight: bold;
   color: $blue-dark;
   position: relative;
   top: -9px;
@@ -751,7 +763,6 @@ em {
 .module {
   display: block;
   padding: 24px;
-  margin-bottom: 24px;
   text-decoration: none;
   overflow: hidden;
   &.light {
@@ -1070,6 +1081,7 @@ em {
 
 .nav-sticky {
   @media (min-width: $screen-sm) {
+    position: -webkit-sticky;
     position: sticky;
     top: -41px;
     z-index: 1000;
@@ -1082,6 +1094,7 @@ em {
     background-color: $white;
     display: flex;
     flex-direction: column-reverse;
+    will-change: auto;
     &.fixed-nav {
       box-shadow: 0px 1px 0px rgba(225, 224, 224, 1.000);
       .hr-v {
@@ -1113,6 +1126,7 @@ em {
     position: relative;
     height: 96px;
     padding: 24px 0;
+    will-change: auto;
   }
 }
 
@@ -1136,6 +1150,7 @@ em {
     width: 200px;
     height: 48px;
     transition: all .3s ease;
+    will-change: auto;
     @media (min-width: $screen-sm) and (max-width: $screen-md) {
       width: 167px;
       height: 40px;
@@ -1338,7 +1353,7 @@ em {
       padding: 13px 0 14px;
       font-size: 0.9375rem;
       &.donate {
-        font-weight: 700;
+        font-weight: bold;
       }
       @media (max-width: 360px) {
         font-size: .875rem;
@@ -1581,7 +1596,7 @@ em {
 .news-list-meta {
   p {
     font-size: 0.875rem;
-    font-weight: 600;
+    font-weight: bold;
     color: $blue-light;
   }
 }
@@ -1651,7 +1666,7 @@ em {
     text-transform: none;
     font-size: 3rem;
     font-family: $font-default;
-    font-weight: 400;
+    font-weight: normal;
     color: $blue-dark;
     letter-spacing: 0;
     line-height: 1.35;
@@ -1673,7 +1688,7 @@ em {
       margin-top: 16px;
     }
     span {
-      font-weight: 400;
+      font-weight: normal;
       color: tint($blue-grey, 35%);
     }
   }
@@ -1851,7 +1866,7 @@ em {
 .project-header-meta {
   p {
     font-size: 0.875rem;
-    font-weight: 600;
+    font-weight: bold;
   }
 }
 
@@ -1948,7 +1963,7 @@ em {
     h6 {
       margin-bottom: 32px;
       span {
-        font-weight: 400;
+        font-weight: normal;
         color: $blue-light;
         display: inline-block;
       }
@@ -2044,7 +2059,7 @@ em {
     font-size: 0.875rem;
     text-shadow: 0 1px 2px rgba(0, 0, 0, .5);
     b {
-      font-weight: 600;
+      font-weight: bold;
       color: $white;
     }
   }
@@ -2125,7 +2140,7 @@ em {
     padding: 16px 0 14px;
   }
   .btn {
-    margin-bottom: 4px;
+    margin: 0 0 4px 0;
     @media (max-width: $screen-md) {
       font-size: 0.875rem;
     }
@@ -2182,7 +2197,7 @@ em {
   h1 {
     font-family: $font-default;
     font-size: 2.25rem;
-    font-weight: 400;
+    font-weight: normal;
     text-transform: none;
     letter-spacing: 0;
     line-height: 1.25;
@@ -2312,12 +2327,12 @@ em {
   z-index: 10;
   p {
     font-size: 0.875rem;
-    font-weight: 600;
+    font-weight: bold;
     color: $white;
     text-shadow: 0 1px 4px rgba(0, 0, 0, .5);
   }
   span {
-    font-weight: 400;
+    font-weight: normal;
     opacity: .85;
   }
   i {
@@ -2373,7 +2388,7 @@ em {
 .stat-number {
   font-family: $font-headline;
   font-size: 2.25rem;
-  font-weight: 700;
+  font-weight: bold;
   text-transform: uppercase;
   letter-spacing: .02em;
   color: $red;
@@ -2384,7 +2399,7 @@ em {
 
 .stat-title {
   font-size: 0.875rem;
-  font-weight: 600;
+  font-weight: bold;
   @media (max-width: $screen-xs) {
     font-size: 0.8125rem;
   }
@@ -2561,7 +2576,7 @@ em {
 
 .person-type {
   color: $white;
-  font-weight: 600;
+  font-weight: bold;
 }
 
 .person-member-type, .person-title {
@@ -2584,10 +2599,12 @@ em {
 }
 
 .roster-body {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 24px;
   margin-bottom: 40px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 24px;
+  }
   .person-photo {
     width: 120px;
     height: 120px;
@@ -2627,9 +2644,33 @@ em {
   }
 }
 
+.roster-list {
+  @media (min-width: $screen-xs) {
+    grid-column: 1 / 10;
+    grid-row: 1;
+  }
+}
+
+.roster-list-wrapper {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 24px;
+  @media (min-width: $screen-xs) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 .roster-content {
-  grid-column: span 8;
-  margin-top: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid $border-color;
+  border-top: 1px solid $border-color;
+  margin-bottom: 24px;
+  @media (min-width: $screen-xs) {
+    grid-column: 10 / -1;
+    grid-row: 1;
+    border-bottom: none;
+  }
   p {
     font-size: 1rem;
   }
@@ -2754,14 +2795,22 @@ em {
 .group-body {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
+  grid-gap: 24px;
 }
 
 .group-description {
-  grid-column: 1 / 6;
+  grid-column: 10 / -1;
+  grid-row: 1;
+  border-top: 1px solid $border-color;
+  padding-top: 24px;
 }
 
 .group-list {
-  grid-column: 6 / -1;
+  grid-column: 1 / 9;
+  grid-row: 1;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 24px;
 }
 
 
@@ -2826,17 +2875,6 @@ em {
   }
 }
 
-.what-we-do-body {
-  background-color: $tan;
-  padding: 40px 0;
-  @media (max-width: $screen-xs) {
-    padding: 24px 0;
-  }
-  .hr-h {
-    background-color: shade($border-color, 10%);
-  }
-}
-
 .highlight-block {
   @media (min-width: $screen-xs) {
     display: grid;
@@ -2848,7 +2886,7 @@ em {
     background-color: shade($border-color, 10%);
   }
   h3 {
-    font-weight: 600;
+    font-weight: bold;
     @media (min-width: $screen-sm) {
       font-size: 1.5rem;
     }
@@ -2890,6 +2928,44 @@ em {
   }
 }
 
+.highlight-blocks {
+  background-color: $tan;
+  padding: 40px 0;
+  @media (max-width: $screen-xs) {
+    padding: 24px 0;
+  }
+  .hr-h {
+    background-color: shade($border-color, 10%);
+  }
+  &.dark {
+    background-color: $blue-dark;
+    .hr-h {
+      background-color: $blue-grey;
+    }
+    h3 {
+      color: $white;
+    }
+    p, li {
+      color: $blue-light;
+    }
+    .highlight-options {
+      a {
+        color: $white;
+      }
+    }
+  }
+}
+
+
+////////////////////////////////////////////////
+////////////// Page — Tools & Data /////////////
+////////////////////////////////////////////////
+
+
+.tools-header {
+
+}
+
 
 ////////////////////////////////////////////////
 /////////////// Newsletter Signup //////////////
@@ -2925,7 +3001,7 @@ em {
   }
   h3 {
     font-size: 0.875rem;
-    font-weight: 600;
+    font-weight: bold;
     color: $blue-light;
     margin-bottom: 10px;
   }
@@ -2940,7 +3016,7 @@ em {
       left: 2px;
       display: inline-block;
       color: $blue-grey;
-      font-weight: 400;
+      font-weight: normal;
     }
   }
 }

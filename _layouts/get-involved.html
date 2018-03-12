@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<div class="get-involved">
+
+  <div class="container">
+    <header class="community-header header-subnav">
+      <h1>{{ page.title }}</h1>
+    </header>
+  </div>
+
+  <div class="community-body">
+
+    <div class="container">
+
+      <div class="module-group">
+        <a class="module link-through light" href="/community/support-programs" id="support-programs">
+          <div class="module-details">
+            <h3>Donate</h3>
+            <div class="module-text">{{ page['Donate Text'] | markdownify }}</div>
+            <p class="module-cta">Donate now</p>
+          </div>
+        </a>
+        <a class="module link-through light" href="/working-groups" id="working-groups">
+          <div class="module-details">
+            <h3>Working Groups</h3>
+            <div class="module-text">{{ page['Working Groups Text'] | markdownify }}</div>
+            <p class="module-cta">Learn more</p>
+          </div>
+        </a>
+        <a class="module link-through light" href="/community/support-programs" id="support-programs">
+          <div class="module-details">
+            <h3>Jobs</h3>
+            <div class="module-text">{{ page['Jobs Text'] | markdownify }}</div>
+            <p class="module-cta">See current vacancies</p>
+          </div>
+        </a>
+      </div>
+
+      <div class="hr-h"></div>
+
+      <div class="home-newsletter">
+        <div class="newsletter-signup">
+          <h2>Subscribe for updates <br>& announcements</h2>
+          {% include newsletter-form.html %}
+        </div>
+        <div class="newsletter-description">
+          <h3>What you'll get</h3>
+          <ul>
+            <li>Nullam id dolor id nibh ultricies vehicula ut id elit.</li>
+            <li>Eget risus varius blandit sit amet non magna.</li>
+            <li>Vestibulum id ligula porta felis euismod semper.</li>
+            <li>Donec sed odio dui.</li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
