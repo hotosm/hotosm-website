@@ -85,9 +85,9 @@ layout: default
       <div class="hr-h"></div>
 
       <div class="finances" id="financials">
-        <h3>Financials</h3>
         <div class="finances-wrapper">
           <div class="finances-text">
+            <h3>Financials</h3>
             {{ page.Finances.Text | markdownify }}
           </div>
           <div class="annual-report">
@@ -99,7 +99,7 @@ layout: default
               <div class="annual-report-text">
                 {{ page.Finances['Annual Report Text'] | markdownify }}
                 <a href="{{ page.Finances['Annual Report URL'] }}" class="btn btn-primary btn-block btn-download">{{ page.Finances['Annual Report Button'] }}</a>
-              </div
+              </div>
             </div>
           </div>
         </div>

@@ -316,7 +316,7 @@ em {
   border-radius: 2px;
   box-shadow: $default-box-shadow;
   transition: all .2s ease-in-out;
-  margin-right: 8px;
+  margin-right: 4px;
   &:hover {
     box-shadow: $hover-box-shadow;
   }
@@ -515,7 +515,7 @@ em {
   border-radius: 2px;
   overflow: hidden;
   margin-bottom: 24px;
-  background-color: shade($blue-dark, 35%);
+  background-color: shade($blue-dark, 20%);
   @media (max-width: $screen-md) {
     grid-template-rows: 340px;
   }
@@ -2458,11 +2458,23 @@ em {
   }
 }
 
+.finances {
+  // background-color: $tan;
+  // padding: 16px 0;
+  margin-bottom: 16px;
+  @media (min-width: $screen-xs) {
+    // padding: 40px;
+    margin-bottom: 40px;
+    h3 {
+      margin-top: -4px;
+    }
+  }
+}
+
 .finances-wrapper {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   grid-gap: 24px;
-  margin-bottom: 40px;
 }
 
 .finances-text {
@@ -2476,12 +2488,13 @@ em {
   grid-column: 7 / -1;
   padding: 24px;
   background-color: $tan;
+  // border: 1px solid shade($tan, 15%);
   h6 {
     margin-bottom: 16px;
   }
   .annual-report-wrapper {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     grid-gap: 24px;
   }
   .annual-report-image {
@@ -2492,7 +2505,7 @@ em {
     }
   }
   .annual-report-text {
-    grid-column: span 2;
+    grid-column: span 3;
     display: flex;
     flex-direction: column;
     p {
@@ -2938,9 +2951,12 @@ em {
     background-color: shade($border-color, 10%);
   }
   &.dark {
-    background-color: $blue-dark;
+    background-color: shade($blue-dark, 20%);
     .hr-h {
-      background-color: $blue-grey;
+      background-color: tint($blue-dark, 10%);
+    }
+    .highlight-hr {
+      background-color: tint($blue-dark, 15%);
     }
     h3 {
       color: $white;
@@ -2964,6 +2980,119 @@ em {
 
 .tools-header {
 
+}
+
+
+////////////////////////////////////////////////
+////////////// Page — Get Involved /////////////
+////////////////////////////////////////////////
+
+
+.get-involved-options {
+  background-color: $blue-dark;
+  padding: 24px 16px;
+  margin-bottom: 16px;
+  @media (min-width: $screen-xs) {
+    padding: 40px 0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-bottom: 40px;
+  }
+  h6 {
+    color: $white;
+    margin-bottom: 16px;
+  }
+  .user-type {
+    padding-bottom: 14px;
+    @media (min-width: $screen-xs) {
+      padding: 60px 40px 50px;
+      border-right: 1px solid $blue-grey;
+    }
+    @media (max-width: $screen-xs) {
+      border-bottom: 1px solid $blue-grey;
+    }
+    .btn {
+      margin-bottom: 10px;
+      @media (max-width: $screen-xs) {
+        font-size: 14px;
+      }
+    }
+  }
+  .country-selection {
+    padding-top: 24px;
+    @media (min-width: $screen-xs) {
+      padding: 60px 40px;
+    }
+  }
+  .country-select {
+    background-color: $white;
+    border-radius: 2px;
+    box-shadow: $default-box-shadow;
+    overflow: hidden;
+    height: 40px;
+    width: 80%;
+    position: relative;
+    @media (max-width: $screen-xs) {
+      width: 300px;
+    }
+    &:after {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 6px;
+      height: 4px;
+      right: 8px;
+      top: 0px;
+      transform: rotate(90deg);
+      background-image: url(../images/chevron-red.svg);
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: 6px 10px;
+      padding: 20px 12px;
+      border-bottom: 1px solid $border-color;
+      z-index: 0;
+    }
+  }
+  #country-select {
+    select {
+      font-family: $font-default;
+      background: transparent;
+      border: none;
+      font-size: 16px;
+      color: $blue-grey;
+      height: 40px;
+      padding: 6px;
+      width: 105%;
+      -webkit-appearance: none;
+      position: relative;
+      z-index: 10;
+      @media (max-width: $screen-xs) {
+        width: 320px;
+      }
+      option {
+        color: $blue-dark;
+      }
+    }
+  }
+}
+
+.top-image {
+  .module {
+    padding: 0;
+    grid-template-rows: 240px auto;
+    .module-image {
+      max-width: 100%;
+      max-height: 100%;
+      img {
+        width: 100%;
+        height: 240px;
+        object-fit: cover;
+      }
+    }
+    .module-details {
+      padding: 0 24px 24px;
+    }
+  }
 }
 
 

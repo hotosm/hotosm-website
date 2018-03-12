@@ -5,34 +5,69 @@ layout: default
 <div class="get-involved">
 
   <div class="container">
-    <header class="community-header header-subnav">
+    <header class="get-involved-header page-header">
       <h1>{{ page.title }}</h1>
     </header>
   </div>
 
-  <div class="community-body">
+  <div class="get-involved-body">
+
+    <div class="get-involved-options dark">
+      <div class="user-type">
+        <h6>Learn how to get involved as a:</h6>
+        <a href="/contact#" class="btn btn-default btn-chevron">Volunteer</a>
+        <a href="/contact#" class="btn btn-default btn-chevron">Journalist</a>
+        <a href="/contact#" class="btn btn-default btn-chevron">Government</a>
+      </div>
+      <div class="country-selection">
+        <h6>Choose a country to start a project in</h6>
+
+        <div class="country-select">
+          <form id="country-select" action="" method="post">
+            <select name="nav">
+              <option value="">Select a country…</option>
+              {% assign sorted-countries = site.where-we-work | sort:'title' %}
+              {% for country in sorted-countries %}
+                <option value="{{ country.url }}">{{ country.title }}</option>
+              {% endfor %}
+            </select>
+            <input type="submit" value="Go" id="submit" />
+          </form>
+        </div>
+
+      </div>
+    </div>
 
     <div class="container">
 
-      <div class="module-group">
+      <div class="module-group top-image">
         <a class="module link-through light" href="/community/support-programs" id="support-programs">
+          <div class="module-image">
+            <img src="{{ page.Donate.Image }}">
+          </div>
           <div class="module-details">
             <h3>Donate</h3>
-            <div class="module-text">{{ page['Donate Text'] | markdownify }}</div>
+            <div class="module-text">{{ page.Donate.Text | markdownify }}</div>
             <p class="module-cta">Donate now</p>
           </div>
         </a>
         <a class="module link-through light" href="/working-groups" id="working-groups">
+          <div class="module-image">
+            <img src="{{ page['Working Groups'].Image }}">
+          </div>
           <div class="module-details">
             <h3>Working Groups</h3>
-            <div class="module-text">{{ page['Working Groups Text'] | markdownify }}</div>
+            <div class="module-text">{{ page['Working Groups'].Text | markdownify }}</div>
             <p class="module-cta">Learn more</p>
           </div>
         </a>
         <a class="module link-through light" href="/community/support-programs" id="support-programs">
+          <div class="module-image">
+            <img src="{{ page.Jobs.Image }}">
+          </div>
           <div class="module-details">
             <h3>Jobs</h3>
-            <div class="module-text">{{ page['Jobs Text'] | markdownify }}</div>
+            <div class="module-text">{{ page.Jobs.Text | markdownify }}</div>
             <p class="module-cta">See current vacancies</p>
           </div>
         </a>
