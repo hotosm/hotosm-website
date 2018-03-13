@@ -82,7 +82,7 @@ defaults:
     Tool URL:
 - scope:
     path: ''
-    type: tools
+    type: jobs
   values:
     layout: page
     Deadline Date:
