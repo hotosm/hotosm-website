@@ -8,6 +8,9 @@ collections:
   impact-areas:
     title: Impact Areas
     output: true
+  jobs:
+    title: Jobs
+    output: true
   posts:
     title: News Posts
     output: true
@@ -37,9 +40,9 @@ defaults:
   values:
     permalink: updates/:title/
     layout: news-item
-    Summary Text:
-    Feature Image:
-    Person:
+    Summary Text: 
+    Feature Image: 
+    Person: 
     Working Group:
     - ''
     Country:
@@ -49,23 +52,23 @@ defaults:
     type: people
   values:
     layout: person
-    Photo:
+    Photo: 
     Member Type:
-      Is Staff:
-      Is Voting Member:
-      Is Board Member:
-    Title:
+      Is Staff: 
+      Is Voting Member: 
+      Is Board Member: 
+    Title: 
     Working Group:
     - ''
     Project:
     - ''
-    Country:
+    Country: 
     Social Media (Full URL):
-      OSM:
-      Twitter:
-      LinkedIn:
-      Facebook:
-      Instagram:
+      OSM: 
+      Twitter: 
+      LinkedIn: 
+      Facebook: 
+      Instagram: 
 - scope:
     path: ''
     type: impact-areas
@@ -76,30 +79,30 @@ defaults:
     type: tools
   values:
     layout: impact-area
-    Tool URL:
+    Tool URL: 
 - scope:
     path: ''
     type: where-we-work
   values:
     layout: country
     Contact Person:
-      Name:
-      Title:
-      Email:
-      Phone:
+      Name: 
+      Title: 
+      Email: 
+      Phone: 
     Location:
-      Location Name:
-      Address:
-      Phone:
-      Map Link:
+      Location Name: 
+      Address: 
+      Phone: 
+      Map Link: 
 - scope:
     path: ''
     type: projects
   values:
     layout: project-item
-    Project Summary Text:
-    Feature Image:
-    HOT Involvement:
+    Project Summary Text: 
+    Feature Image: 
+    HOT Involvement: 
     Country:
     - ''
     Impact Area:
@@ -109,14 +112,14 @@ defaults:
     Partner:
     - ''
     Duration:
-      Start Date:
+      Start Date: 
       End Date: Ongoing
 email: info@hotosm.org
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl:
-url:
+baseurl: 
+url: 
 twitter_username: hotosm
 github_username: hotosm
 markdown: kramdown
