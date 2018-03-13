@@ -8,6 +8,9 @@ collections:
   impact-areas:
     title: Impact Areas
     output: true
+  jobs:
+    title: Jobs
+    output: true
   posts:
     title: News Posts
     output: true
