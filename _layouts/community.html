@@ -30,7 +30,27 @@ layout: default
 
   <div class="community-body">
 
-    <div class="highlight-module primary-highlight-module" id="people">
+    <div class="half-block dark">
+      <div class="block-details">
+        <div class="block-info">
+          <!-- <div class="highlight-hr"></div> -->
+          <h3>People</h3>
+          <p>{{ page.People.Description }}</p>
+        </div>
+        <div class="block-options">
+          <ul>
+            <li><a href="/team">HOT Team</a></li>
+            <li><a href="/voting-members">Voting Members</a></li>
+            <li><a href="/board">Board</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="block-image">
+        <img src="{{ page.People.Image }}">
+      </div>
+    </div>
+
+    <!-- <div class="highlight-module primary-highlight-module" id="people">
       <div class="highlight-details">
         <div class="highlight-info">
           <div class="highlight-hr"></div>
@@ -46,7 +66,7 @@ layout: default
       <div class="highlight-image">
         <img src="{{ page.People.Image }}">
       </div>
-    </div>
+    </div> -->
 
     <div class="container">
 

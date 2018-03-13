@@ -251,3 +251,123 @@ layout: default
 <div class="container">
   <div class="hr-h"></div>
 </div>
+
+
+<div class="highlight-blocks dark">
+  <div class="container">
+
+    <div class="highlight-block dark">
+      <div class="highlight-details">
+        <div class="highlight-info">
+          <div class="highlight-hr"></div>
+          <h3>{{ page.community['Block 1'].Header }}</h3>
+          <p>{{ page.community['Block 1'].Text }}</p>
+        </div>
+        <div class="highlight-options">
+          <h5>Tools to check out</h5>
+          <ul>
+            {% for tool in page.community['Block 1'].Tools %}
+              <li><a href="{{ tool.url }}">{{ tool }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="highlight-image">
+        <img src="{{ page.community['Block 1'].Image }}">
+      </div>
+    </div>
+
+    <div class="hr-h"></div>
+
+    <div class="highlight-block">
+      <div class="highlight-details">
+        <div class="highlight-info">
+          <div class="highlight-hr"></div>
+          <h3>{{ page.community['Block 2'].Header }}</h3>
+          <p>{{ page.community['Block 2'].Text }}</p>
+        </div>
+        <div class="highlight-options">
+          <h5>Tools to check out</h5>
+          <ul>
+            {% for tool in page.community['Block 2'].Tools %}
+              <li><a href="{{ tool.url }}">{{ tool }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="highlight-image">
+        <img src="{{ page.community['Block 2'].Image }}">
+      </div>
+    </div>
+
+    <div class="hr-h"></div>
+
+    <div class="highlight-block">
+      <div class="highlight-details">
+        <div class="highlight-info">
+          <div class="highlight-hr"></div>
+          <h3>{{ page.community['Block 3'].Header }}</h3>
+          <p>{{ page.community['Block 3'].Text }}</p>
+        </div>
+        <div class="highlight-options">
+          <h5>Tools to check out</h5>
+          <ul>
+            {% for tool in page.community['Block 3'].Tools %}
+              <li><a href="{{ tool.url }}">{{ tool }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="highlight-image">
+        <img src="{{ page.community['Block 3'].Image }}">
+      </div>
+    </div>
+
+    <div class="hr-h"></div>
+
+    <div class="highlight-block">
+      <div class="highlight-details">
+        <div class="highlight-info">
+          <div class="highlight-hr"></div>
+          <h3>{{ page.community['Block 4'].Header }}</h3>
+          <p>{{ page.community['Block 4'].Text }}</p>
+        </div>
+        <div class="highlight-options">
+          <h5>Tools to check out</h5>
+          <ul>
+            {% for tool in page.community['Block 4'].Tools %}
+              <li><a href="{{ tool.url }}">{{ tool }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="highlight-image">
+        <img src="{{ page.community['Block 4'].Image }}">
+      </div>
+    </div>
+
+    <div class="hr-h"></div>
+
+    <div class="highlight-block">
+      <div class="highlight-details">
+        <div class="highlight-info">
+          <div class="highlight-hr"></div>
+          <h3>{{ page.community['Block 5'].Header }}</h3>
+          <p>{{ page.community['Block 5'].Text }}</p>
+        </div>
+        <div class="highlight-options">
+          <h5>Tools to check out</h5>
+          <ul>
+            {% for tool in page.community['Block 5'].Tools %}
+              <li><a href="{{ tool.url }}">{{ tool }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="highlight-image">
+        <img src="{{ page.community['Block 5'].Image }}">
+      </div>
+    </div>
+
+  </div>
+</div>
