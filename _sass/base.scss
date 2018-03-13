@@ -204,11 +204,6 @@ em {
   margin-bottom: 24px;
 }
 
-.page-header {
-  margin-top: 48px;
-  margin-bottom: 24px;
-}
-
 .header-subnav {
   margin: 32px 0 64px;
 }
@@ -2151,17 +2146,39 @@ em {
 
 
 ////////////////////////////////////////////////
-///////////////// Page — Default ///////////////
+//////////////// Page — Default ////////////////
 ////////////////////////////////////////////////
 
 
-.page {
-
+.page-layout-body {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-gap: 24px;
+  margin-bottom: 40px;
+  .page-content {
+    grid-column: 5 / -2;
+    grid-row: 1 / -1;
+  }
+  .meta {
+    grid-column: 1 / 4;
+    grid-row: 1 / -1;
+  }
 }
 
 .page-header {
-  @media (min-width: $screen-xs) {
-    margin-top: 64px;
+  margin-top: 48px;
+  margin-bottom: 24px;
+  h6 {
+    span {
+      color: $blue-light;
+      font-weight: normal;
+    }
+    a {
+      opacity: .65;
+      &:hover {
+        opacity: 1;
+      }
+    }
   }
 }
 

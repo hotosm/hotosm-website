@@ -5,12 +5,44 @@ layout: default
 <div class="page container">
 
   <header class="page-header">
+    {% if page.url contains "jobs" %}
+      <h6>Jobs <span>(<a href="/jobs">See all vacancies</a>)</span></h6>
+    {% endif %}
     <h1>{{ page.title }}</h1>
     <div class="hr-h"></div>
   </header>
 
-  <div class="page-body article">
-    {{ content }}
+  <div class="page-layout-body">
+    <div class="page-content article">
+      {{ content }}
+    </div>
+
+    <aside class="meta">
+
+      {% if page['Deadline Date'] %}
+        <div class="meta-item">
+          <h5>Deadline</h5>
+          <ul>
+            <li>{{ page.date | date: '%d %B, %Y' }}</li>
+          </ui>
+        </div>
+      {% endif %}
+
+      {% if page['Place of Work'] %}
+        <div class="meta-item">
+          <h5>Place of Work</h5>
+          <ul>
+            <li>{{ page['Place of Work'] }}</li>
+          </ui>
+        </div>
+      {% endif %}
+
+      {% if page['Apply Form Link'] %}
+        <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Apply Form Link'] }}">Apply</a>
+      {% endif %}
+
+    </aside>
+
   </div>
 
 </div>
