@@ -1,8 +1,8 @@
 ---
 title: Communications and Social Media Intern
 date: 2018-03-13 08:17:00 Z
-Deadline Date: 
-Place of Work: 
+Deadline Date: 2018-03-16 00:00:00 Z
+Place of Work: Remote
 ---
 
 Projected start date: February or March 2017
