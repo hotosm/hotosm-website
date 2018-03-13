@@ -10,10 +10,11 @@ layout: default
       <div class="clear">
         <div class="page-subnav">
           <nav class="subnav">
+            <h5>Our tools:</h5>
             <ul>
               {% assign sorted-tools = site.tools | sort: 'position' %}
               {% for tool in sorted-tools %}
-                <li><a href="{{ tool['Tool URL'] }}" class="external">{{ tool.title }}</a></li>
+                <li><a href="{{ tool['Tool URL'] }}">{{ tool.title }}</a></li>
               {% endfor %}
             </ul>
           </nav>
@@ -27,7 +28,6 @@ layout: default
     <div class="half-block dark">
       <div class="block-details">
         <div class="block-info">
-          <!-- <div class="highlight-hr"></div> -->
           <h3>{{ page['Block 1'].Header }}</h3>
           <p>{{ page['Block 1'].Text }}</p>
         </div>
@@ -47,7 +47,6 @@ layout: default
     <div class="half-block right dark">
       <div class="block-details">
         <div class="block-info">
-          <!-- <div class="highlight-hr"></div> -->
           <h3>{{ page['Block 2'].Header }}</h3>
           <p>{{ page['Block 2'].Text }}</p>
         </div>
@@ -67,7 +66,6 @@ layout: default
     <div class="half-block dark">
       <div class="block-details">
         <div class="block-info">
-          <!-- <div class="highlight-hr"></div> -->
           <h3>{{ page['Block 3'].Header }}</h3>
           <p>{{ page['Block 3'].Text }}</p>
         </div>
@@ -87,7 +85,6 @@ layout: default
     <div class="half-block dark right">
       <div class="block-details">
         <div class="block-info">
-          <!-- <div class="highlight-hr"></div> -->
           <h3>{{ page['Block 4'].Header }}</h3>
           <p>{{ page['Block 4'].Text }}</p>
         </div>
@@ -107,7 +104,6 @@ layout: default
     <div class="half-block dark">
       <div class="block-details">
         <div class="block-info">
-          <!-- <div class="highlight-hr"></div> -->
           <h3>{{ page['Block 5'].Header }}</h3>
           <p>{{ page['Block 5'].Text }}</p>
         </div>

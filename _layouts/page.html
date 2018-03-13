@@ -14,19 +14,13 @@ layout: default
 
   <div class="page-layout-body">
     <div class="page-content article">
+      {% if page['Intro Text'] %}
+        <p class="news-summary">{{ page['Intro Text' ]}}</p>
+      {% endif %}
       {{ content }}
     </div>
 
     <aside class="meta">
-
-      {% if page['Deadline Date'] %}
-        <div class="meta-item">
-          <h5>Deadline</h5>
-          <ul>
-            <li>{{ page.date | date: '%d %B, %Y' }}</li>
-          </ui>
-        </div>
-      {% endif %}
 
       {% if page['Place of Work'] %}
         <div class="meta-item">
@@ -37,8 +31,26 @@ layout: default
         </div>
       {% endif %}
 
+      {% if page['Deadline Date'] %}
+        <div class="meta-item">
+          <h5>Deadline</h5>
+          <ul>
+            <li>{{ page['Deadline Date'] | date: '%d %B, %Y' }}</li>
+          </ui>
+        </div>
+      {% endif %}
+
       {% if page['Apply Form Link'] %}
+      <div class="sticky-wrap">
         <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Apply Form Link'] }}">Apply</a>
+      </div>
+      {% endif %}
+
+      {% if page['Partner Contact'] %}
+        <p class="meta-p">{{ page['Partner Contact']['Text'] }}</p>
+        <div class="sticky-wrap">
+          <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Partner Contact']['Contact Email'] }}">Partner with us</a>
+        </div>
       {% endif %}
 
     </aside>

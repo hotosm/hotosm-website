@@ -27,14 +27,14 @@ Block 3:
   Tools:
   - Export Tool
 Block 4:
-  Header: Get OSM Data
+  Header: Analyze
   Text: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
   Image: https://source.unsplash.com/collection/851614/800x600?v=1
   Tools:
   - OSM Analytics
 Block 5:
-  Header: Get OSM Data
+  Header: Learn
   Text: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
   Image: https://source.unsplash.com/collection/851614/800x600?v=1
@@ -43,4 +43,3 @@ Block 5:
   - Training Center
 layout: tools-and-data
 ---
-

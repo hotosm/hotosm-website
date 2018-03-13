@@ -17,14 +17,29 @@ layout: default
       </div>
 
       <div class="group-list">
-        {% for group in site.working-groups %}
-          <a href="{{ group.url }}" class="module light link-through">
-            <div class="module-details">
-              <h3>{{ group.title }}</h3>
-              <div class="module-text"><p>{{ group.content }}</p></div>
-            </div>
-          </a>
-        {% endfor %}
+
+        {% if page.url contains "/working-groups/" %}
+          {% for group in site.working-groups %}
+            <a href="{{ group.url }}" class="module light link-through">
+              <div class="module-details">
+                <h3>{{ group.title }}</h3>
+                <div class="module-text"><p>{{ group.content }}</p></div>
+              </div>
+            </a>
+          {% endfor %}
+        {% endif %}
+
+        {% if page.url contains "/jobs/" %}
+          {% for job in site.jobs %}
+            <a href="{{ job.url }}" class="module light link-through">
+              <div class="module-details">
+                <h3>{{ job.title }}</h3>
+                <div class="module-text"><p>Location: <span>{{ job['Place of Work'] }}</span></p><p>Deadline: <span>{{ job['Deadline Date'] | date: '%d %B, %Y' }}</span></p></div>
+              </div>
+            </a>
+          {% endfor %}
+        {% endif %}
+
       </div>
 
     </div>
