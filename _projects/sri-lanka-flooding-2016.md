@@ -1,5 +1,7 @@
 ---
-date: '2016-05-20 05:44:50 Z'
+title: Sri Lanka Flooding 2016
+date: 2016-05-20 05:44:50 Z
+permalink: sri_lanka_flooding_2016
 HOT Involvement: Disaster Mapping
 Person:
 - Dale Kunce
@@ -11,10 +13,9 @@ Link: http://wiki.openstreetmap.org/wiki/2016_Sri_Lanka_Floods
 Duration:
   Start Date: '2016-05-17 00:00:00 +0000'
   End Date: '2016-07-01 00:00:00 +0000'
-permalink: sri_lanka_flooding_2016
-title: Sri Lanka Flooding 2016
 created: 1463723090
 ---
+
 <pre>Sri Lanka has been hit in the past few days by flooding:
 <a href="https://www.bing.com/search?q=sri+lanka+flooding">https://www.bing.com/search?q=sri+lanka+flooding</a>
 
