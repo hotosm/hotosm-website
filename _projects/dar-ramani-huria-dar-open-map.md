@@ -1,8 +1,14 @@
 ---
 title: Dar Ramani Huria - Dar Open Map
-date: 2015-02-07 04:47:40 Z
+date: 2015-02-07 04:47:00 Z
 permalink: dar_ramani_huria_dar_open_map
+Feature Image: "/uploads/17461400118_a8ffb298ff_o.jpg"
 HOT Involvement: Community Development
+Country:
+- Tanzania
+Impact Area:
+- Sustainable Cities
+- Water & Sanitation
 Person:
 - Innocent Maholi
 - Steven Bukulu
@@ -12,9 +18,9 @@ Person:
 - Sophie Lafayette
 - Dale Kunce
 Partner: The World Bank
-Link: http://ramanihuria.org/
 Duration:
-  Start Date: '2015-04-01 00:00:00 +0000'
+  Start Date: 2015-04-01 00:00:00 Z
+Link: http://ramanihuria.org/
 Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
 created: 1423284460
 ---
