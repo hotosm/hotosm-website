@@ -2,8 +2,8 @@
 title: Home
 position: 0
 Project:
-- Malaria Elimination Campaign
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+- Dar Ramani Huria - Dar Open Map
 Stats:
   Community Mappers: '42,575'
   Total Map Edits: '38,150,151'
