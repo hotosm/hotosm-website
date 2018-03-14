@@ -31,6 +31,21 @@ Office Locations:
   Jalan Bukit Merak No.5
   Sumurboto, Banyumanik, Semarang
   Indonesia
+- |-
+  **Tanzania**
+
+  [Tanzania Data Lab (dLab)](https://goo.gl/maps/aAhXZonPPJk)
+  New Bagamoyo Road
+  Kijitonyama
+  Dar es Salaam, Coastal, 4023
+  Tanzania
+- |-
+  **Uganda**
+
+  [Hive CoLab](https://goo.gl/maps/FT9BzJpe6JE2)
+  4th Floor, Kanjokya House
+  Plot 90, Kanjokya Street
+  Kampala, Uganda
 layout: page
 ---
 
