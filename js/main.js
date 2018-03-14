@@ -6,6 +6,13 @@ navAnchor.addEventListener('click', function(e) {
     e.preventDefault();
 });
 
+$(document).on('click', 'a[href^="#"]', function (event) {
+  event.preventDefault();
+  $('html, body').animate({
+    scrollTop: $($.attr(this, 'href')).offset().top - 72
+  }, 500);
+});
+
 var fixmeTop = $('.nav-main').offset().top;
 $(window).scroll(function() {
   var currentScroll = $(window).scrollTop();

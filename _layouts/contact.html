@@ -1,0 +1,82 @@
+---
+layout: default
+---
+
+<div class="contact container">
+
+  <header class="page-header">
+    <h1>{{ page.title }}</h1>
+    <div class="hr-h"></div>
+  </header>
+
+  <div class="contact-body">
+
+    <nav class="contact-nav">
+      <div class="sticky-wrap">
+        <h5>On this page</h5>
+        <ul>
+          <li><a href="#email">General Enquiries</a></li>
+          <li><a href="#office-locations">Office Locations</a></li>
+          <li><a href="#journalists">Journalists</a></li>
+          <li><a href="#volunteers">Volunteers</a></li>
+          <li><a href="#governments">Governments</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="contact-content article">
+
+      <h2 id="email">General Enquiries</h2>
+      <div class="contact-general">
+        {% for email in page['General Enquiries'].Emails %}
+          <div>
+            {{ email | markdownify }}
+          </div>
+        {% endfor %}
+      </div>
+
+      <div class="hr-h"></div>
+
+      <div class="contact-locations-wrap">
+        <h2 id="office-locations">Office Locations</h2>
+        <div class="contact-locations">
+          {% for location in page['Office Locations'].Locations %}
+            <div>
+              {{ location | markdownify }}
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="hr-h"></div>
+
+      <h2 id="journalists">Journalists</h2>
+      <div class="contact-persona">
+        <div>
+          {{ page.Journalists.Details | markdownify }}
+        </div>
+      </div>
+
+      <div class="hr-h"></div>
+
+      <h2 id="volunteers">Volunteeers</h2>
+      <div class="contact-persona">
+        <div>
+          {{ page.Volunteers.Details | markdownify }}
+        </div>
+      </div>
+
+      <div class="hr-h"></div>
+
+      <h2 id="governments">Governments</h2>
+      <div class="contact-persona">
+        <div>
+          {{ page.Governments.Details | markdownify }}
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>

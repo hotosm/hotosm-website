@@ -5,13 +5,13 @@ position: 12
 General Enquiries:
   Emails:
   - |-
-    General Inquiries
+    **General Enquiries**
     [info@hotosm.org](info@hotosm.org)
   - |-
-    Staff & Management
+    **Staff & Management**
     [operations@hotosm.org](operations@hotosm.org)
   - |-
-    Board
+    **Board**
     [board@hotosm.org](board@hotosm.org)
   Nav ID: email
 Office Locations:
@@ -68,6 +68,5 @@ Governments:
 
     Contact us: [info@hotosm.org](info@hotosm.org)
   Nav ID: governments
-layout: page
+layout: contact
 ---
-
