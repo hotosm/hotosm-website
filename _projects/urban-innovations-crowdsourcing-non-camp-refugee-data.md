@@ -1,8 +1,13 @@
 ---
 title: 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
-date: 2017-02-06 15:06:01 Z
+date: 2017-02-06 15:06:00 Z
 permalink: urban_innovations_crowdsourcing_non-camp_refugee_data
+Feature Image: "/uploads/Uganda_MSFCompound-Yombe-SSudanese%20refugee%20mapping_July2017.jpg"
 HOT Involvement: Community Development
+Country:
+- Uganda
+Impact Area:
+- Refugee Response
 Person:
 - Nate Smith
 - 'Douglas Ssebaggala '
@@ -10,7 +15,7 @@ Person:
 - Paul Uithol
 Partner: U.S. Department of State
 Duration:
-  Start Date: '2016-12-01 00:00:00 +0000'
+  Start Date: 2016-12-01 00:00:00 Z
 Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
 created: 1486393561
 ---
