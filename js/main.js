@@ -13,6 +13,14 @@ $(document).on('click', 'a[href^="#"]', function (event) {
   }, 500);
 });
 
+$('#control-right').on('click', function (event) {
+  $('.home-highlights-wrapper').addClass('right');
+});
+
+$('#control-left').on('click', function (event) {
+  $('.home-highlights-wrapper').removeClass('right');
+});
+
 var fixmeTop = $('.nav-main').offset().top;
 $(window).scroll(function() {
   var currentScroll = $(window).scrollTop();

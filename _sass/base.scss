@@ -2401,41 +2401,89 @@ em {
   }
 }
 
+.home-highlights-controls {
+  position: relative;
+}
+
+.home-controls {
+  display: flex;
+  position: absolute;
+  top: -72px;
+  right: 32px;
+  .control {
+    text-indent: -9999px;
+    margin-left: 16px;
+    width: 40px;
+    height: 40px;
+    background-image: url(/images/arrow-red.svg);
+    background-size: 32px 20px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    transition: background-position .3s ease;
+    cursor: pointer;
+    &:hover {
+      background-position: right center;
+    }
+    &#control-left {
+      transform: rotate(180deg)
+    }
+  }
+  @media (max-width: $screen-sm) {
+    display: none;
+  }
+}
+
 .home-highlights {
   margin-bottom: 24px;
   width: 100%;
   overflow-x: scroll;
+  position: relative;
+  @media (min-width: $screen-sm) {
+    overflow-x: hidden;
+    height: 380px;
+  }
 }
 
 .home-highlights-wrapper {
+  height: 380px;
+  position: relative;
   display: grid;
   grid-template-columns: repeat(16, 1fr);
   grid-gap: 24px;
   width: 132%;
   padding: 0 40px;
+  transition: all .5s ease;
+  @media (min-width: $screen-sm) {
+    transform: translate(0, 0);
+    &.right {
+      transform: translate(-24.25%, 0);
+    }
+  }
   @media (max-width: $screen-sm) {
     width: 147%;
+    height: 320px;
   }
   @media (max-width: $screen-xs) {
     padding: 0 16px;
     grid-gap: 16px;
     width: 164%;
+    height: 220px;
   }
 }
 
 .home-highlight {
   display: block;
   position: relative;
-  height: 360px;
+  height: 380px;
   grid-column: span 8;
   border-radius: 2px;
   overflow: hidden;
   transition: all .3s ease-in-out;
   @media (max-width: $screen-sm) {
-    height: 280px;
+    height: 320px;
   }
   @media (max-width: $screen-xs) {
-    height: 200px;
+    height: 220px;
   }
   &:after {
     content: '';

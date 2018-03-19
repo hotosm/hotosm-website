@@ -14,33 +14,42 @@ layout: default
     </header>
   </div>
 
-  <div class="home-highlights">
-    <div class="home-highlights-wrapper">
+  <div class="home-highlights-controls">
 
-      {% for home-project in page.Project %}
-        {% for project in site.projects %}
-          {% if home-project == project.title %}
-            <a href="{{ project.url }}" class="home-highlight">
-              <img src="{{ project['Feature Image'] }}">
-              <div class="home-highlight-title">
-                <p>
-                  {{ project.title }}
-                </p>
-                <p><span>
-                  {% if project.Country.size < 3 %}
-                    {% for country in project.Country %}
-                      <i>{{ country }}</i>
-                    {% endfor %}
-                  {% else %}
-                    {{ project.Country.size }} Countries
-                  {% endif %}
-                </span></p>
-              </div>
-            </a>
-          {% endif %}
+    <div class="home-controls">
+      <div class="control" id="control-left">Left</div>
+      <div class="control" id="control-right">Right</div>
+    </div>
+
+    <div class="home-highlights">
+
+      <div class="home-highlights-wrapper">
+
+        {% for home-project in page.Project %}
+          {% for project in site.projects %}
+            {% if home-project == project.title %}
+              <a href="{{ project.url }}" class="home-highlight">
+                <img src="{{ project['Feature Image'] }}">
+                <div class="home-highlight-title">
+                  <p>
+                    {{ project.title }}
+                  </p>
+                  <p><span>
+                    {% if project.Country.size < 3 %}
+                      {% for country in project.Country %}
+                        <i>{{ country }}</i>
+                      {% endfor %}
+                    {% else %}
+                      {{ project.Country.size }} Countries
+                    {% endif %}
+                  </span></p>
+                </div>
+              </a>
+            {% endif %}
+          {% endfor %}
         {% endfor %}
-      {% endfor %}
 
+      </div>
     </div>
   </div>
 
