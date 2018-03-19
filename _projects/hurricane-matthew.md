@@ -2,6 +2,7 @@
 title: Hurricane Matthew
 date: 2016-10-04 04:18:22 Z
 permalink: hurricane_matthew
+position: 38
 HOT Involvement: Disaster Mapping
 Person:
 - Blake Girardot

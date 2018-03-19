@@ -2,6 +2,7 @@
 title: Somalia
 date: 2011-09-03 12:48:56 Z
 permalink: somalia
+position: 7
 Summary Text: "HOT has been working remotely to gather information for Somalia and
   the rest of the Horn of Africa.  This is in response to the severe drought and famine
   crisis the is ongoing in the area. This response has included importing compatible

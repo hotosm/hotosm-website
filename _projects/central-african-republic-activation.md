@@ -2,6 +2,7 @@
 title: Central African Republic Activation
 date: 2014-05-09 10:25:04 Z
 permalink: central_african_republic_activation
+position: 15
 Summary Text: "Depuis décembre 2012 et son invasion par les rebelles de la Séléka,
   la République centrafricaine vit des temps difficiles et est devenue une crise de
   niveau 3 (le maximum) pour les Nations Unies. Malheureusement, cette crise va probablement

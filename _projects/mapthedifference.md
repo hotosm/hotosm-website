@@ -2,6 +2,7 @@
 title: "#mapthedifference"
 date: 2017-12-13 16:43:45 Z
 permalink: "#mapthedifference"
+position: 50
 HOT Involvement: Community Development
 Person:
 - Russell Deffner

@@ -2,6 +2,7 @@
 title: Cyclone Enawo Response
 date: 2017-04-29 01:06:55 Z
 permalink: cyclone_enawo_response
+position: 45
 HOT Involvement: Disaster Mapping
 Person:
 - Blake Girardot
