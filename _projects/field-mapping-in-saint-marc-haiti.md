@@ -2,7 +2,7 @@
 title: Field Mapping in Saint-Marc, Haiti
 date: 2012-08-07 03:55:19 Z
 permalink: field_mapping_in_saint-marc_haiti
-position: 10
+position: 11
 Summary Text: "In August 2011, HOT was contacted by <a href=\"http://www.chemonics.com/OurWork/OurProjects/Pages/Haiti%20Recovery%20Initiative%20II.aspx\">
   HRI (Haiti Recovery Initiative - Levekanpe in Haitian Creole) </a>, a <a href=\"http://www.globalcorps.com/oti.html\">
   USAID/OTI (Office of Transition Initiatives ) </a> and <a href=\"http://www.chemonics.com/Pages/Home.aspx\">Chemonics</a>

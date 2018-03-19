@@ -2,7 +2,7 @@
 title: Indonesia Disaster Management Innovation
 date: 2011-09-02 21:19:24 Z
 permalink: indonesia_disaster_management_innovation
-position: 4
+position: 6
 Summary Text: "Base data serves many needs in humanitarian response.  Often responding
   organizations are scrambling to gather data because it is not readily available.
   The focus of HOT’s work in Indonesia has been data preparedness and Disaster Risk

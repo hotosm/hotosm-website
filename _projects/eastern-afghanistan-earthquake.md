@@ -2,7 +2,7 @@
 title: Eastern Afghanistan Earthquake
 date: 2015-10-27 17:22:36 Z
 permalink: eastern_afghanistan_earthquake
-position: 30
+position: 31
 Summary Text: HOT has activated to support the response to the 2015 Eastern Afghanistan
   Earthquake, which hit remote areas of Afghanistan and Pakistan on Monday the 26th
   October.

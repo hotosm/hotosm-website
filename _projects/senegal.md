@@ -2,7 +2,7 @@
 title: Senegal
 date: 2012-07-31 16:03:11 Z
 permalink: senegal
-position: 9
+position: 10
 Summary Text: "HOT's work in Senegal started with a field mission funded through the
   <a href=\"http://www.worldbank.org/ict/\">World Bank’s ICT (Internet and Communications
   Technology)</a> Branch and the <a href=\"http://www.fondationdefrance.org/\">Fondation

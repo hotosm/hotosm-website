@@ -2,7 +2,7 @@
 title: HOT Indonesia Curriculum
 date: 2015-10-12 03:28:28 Z
 permalink: hot_indonesia_curriculum
-position: 28
+position: 29
 HOT Involvement: Technical Projects
 Person:
 - Emir Hartato

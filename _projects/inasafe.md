@@ -2,7 +2,7 @@
 title: InaSAFE
 date: 2015-07-15 06:16:12 Z
 permalink: inasafe
-position: 25
+position: 26
 HOT Involvement: Partnerships
 Person:
 - Blake Girardot
