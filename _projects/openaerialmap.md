@@ -2,7 +2,7 @@
 title: OpenAerialMap
 date: 2015-05-28 23:36:50 Z
 permalink: openaerialmap
-position: 22
+position: 23
 HOT Involvement: Technical Projects
 Person:
 - Nate Smith

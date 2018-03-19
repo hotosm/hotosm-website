@@ -2,7 +2,7 @@
 title: OSM Tasking Manager 3.0 Development
 date: 2016-12-01 19:41:07 Z
 permalink: osm_tasking_manager_30_development
-position: 41
+position: 42
 HOT Involvement: Technical Projects
 Person:
 - Blake Girardot

@@ -2,7 +2,7 @@
 title: Outreachy
 date: 2015-05-28 14:17:00 Z
 permalink: outreachy
-position: 19
+position: 20
 HOT Involvement: Partnerships
 Person:
 - Blake Girardot

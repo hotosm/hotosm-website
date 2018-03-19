@@ -2,7 +2,7 @@
 title: OpenStreetMap Analytics
 date: 2016-04-28 12:18:55 Z
 permalink: openstreetmap_analytics
-position: 34
+position: 35
 HOT Involvement: Technical Projects
 Person:
 - Nate Smith

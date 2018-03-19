@@ -2,7 +2,7 @@
 title: Sri Lanka Flooding 2016
 date: 2016-05-20 05:44:50 Z
 permalink: sri_lanka_flooding_2016
-position: 35
+position: 36
 HOT Involvement: Disaster Mapping
 Person:
 - Dale Kunce

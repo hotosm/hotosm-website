@@ -2,7 +2,7 @@
 title: Mapping the world’s vulnerable places begins with you!
 date: 2016-11-24 23:10:44 Z
 permalink: mapping_the_world’s_vulnerable_places_begins_with_you!
-position: 39
+position: 40
 HOT Involvement: Community Development
 Person:
 - Janet Chapman

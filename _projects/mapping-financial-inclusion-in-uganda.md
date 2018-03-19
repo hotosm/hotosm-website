@@ -2,7 +2,7 @@
 title: Mapping Financial Inclusion in Uganda
 date: 2015-12-11 20:50:16 Z
 permalink: mapping_financial_inclusion_in_uganda
-position: 31
+position: 32
 Summary Text: Access to digital financial services is fundamental to enabling poor
   people to become more economically stable, prosperous, and resilient. HOT, with
   support from the Bill and Melinda Gates Foundation, will initiate a six-month pilot
