@@ -1,13 +1,18 @@
 ---
 title: 'LEGIT: Supporting decentralization in Liberian cities'
-date: 2017-03-08 23:05:46 Z
+date: 2017-03-08 23:05:00 Z
 permalink: legit_supporting_decentralization_in_liberian_cities
+Feature Image: "/uploads/IMG_20170220_122606%20(1).jpg"
 HOT Involvement: Community Development
+Country:
+- Liberia
+Impact Area:
+- Sustainable Cities
 Person:
 - Paul Uithol
 Partner: DAI
 Duration:
-  Start Date: '2017-03-08 00:00:00 +0000'
+  Start Date: 2017-03-08 00:00:00 Z
 Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p><p><a
   href="https://hotosm.org/users/david_luswata">David Luswata</a></p>
 created: 1489014346

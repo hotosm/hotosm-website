@@ -1,9 +1,9 @@
 ---
 title: Partner with us
 position: 0
-Intro Text: Support from individuals and companies really matters to HOT.
-  It means we can be ready to respond when disaster strikes, and support any community
-  or organisation anywhere in the world with free, open map data.
+Intro Text: Support from individuals and companies really matters to HOT. It means
+  we can be ready to respond when disaster strikes, and support any community or organisation
+  anywhere in the world with free, open map data.
 Partner Contact:
   Text: Interested in partnering with HOT?
   Contact Email: partnerships@hotosm.org
