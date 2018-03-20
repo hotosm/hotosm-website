@@ -1,5 +1,7 @@
 ---
 title: Katja Ulbert
+date: 2015-05-25 17:50:28 Z
+permalink: users/katja_ulbert
 Working Group:
 - Fundraising
 - Community
@@ -25,8 +27,7 @@ Social Media (Full URL):
 Member Type:
   Is Staff: true
   Is Board Member: true
-permalink: users/katja_ulbert
 Photo: "/uploads/picture-283-1440077668.jpg"
-date: '2015-05-25 17:50:28 Z'
 ---
+
 <p>Visual communication, data visualisation. HOT community member, MapFugee, HOT board member.</p>

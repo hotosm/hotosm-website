@@ -1,5 +1,7 @@
 ---
 title: Rupert Allan
+date: 2017-10-27 18:18:06 Z
+permalink: users/rupert_allan
 Working Group:
 - Security
 - Communications
@@ -13,8 +15,6 @@ Social Media (Full URL):
   Twitter: https://twitter.com/rupert_allan
 Member Type:
   Is Staff: true
-permalink: users/rupert_allan
 Photo: "/uploads/picture-406-1514408728.jpg"
-date: '2017-10-27 18:18:06 Z'
 ---
 

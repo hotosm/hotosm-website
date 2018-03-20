@@ -1,5 +1,7 @@
 ---
 title: Dewi Sulistioningrum
+date: 2017-02-28 14:17:00 Z
+permalink: users/dewi_sulistioningrum
 Project:
 - 'USAID '
 - " BNPB "
@@ -18,8 +20,7 @@ Social Media (Full URL):
   Twitter: https://twitter.com/@dewisulistio
 Member Type:
   Is Staff: true
-permalink: users/dewi_sulistioningrum
 Photo: "/uploads/picture-378-1488526676.jpg"
-date: '2017-02-28 14:17:00 Z'
 ---
+
 <p><span style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;">Dewi Sulistioningrum has been working with HOT since September 2012 as the GIS Training Officer in Humanitarian OpenStreetMap Team in Indonesia.&nbsp;She was training&nbsp;to promote the use of OpenStreetMap, QGIS and InaSAFE in humanitarian response and economic development. She is also validate OSM data in Indonesia and interest about Mapping Drupal. Dewi currently as the Mapping Supervisor in the&nbsp;</span><span style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;">USAID|BNPB|InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement Project in Indonesia.</span></p>

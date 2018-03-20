@@ -1,5 +1,7 @@
 ---
 title: Cristiano Giovando
+date: 2015-01-21 20:32:39 Z
+permalink: users/cristiano_giovando
 Working Group:
 - Communications
 - Activation
@@ -15,8 +17,7 @@ Social Media (Full URL):
   Twitter: https://twitter.com/giovand
 Member Type:
   Is Staff: true
-permalink: users/cristiano_giovando
 Photo: "/uploads/picture-251-1432768691.jpg"
-date: '2015-01-21 20:32:39 Z'
 ---
+
 <p>Technical project manager leading the development of Open Aerial Map (OAM), an open source repository of aerial and satellite imagery.</p>

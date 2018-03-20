@@ -1,5 +1,7 @@
 ---
 title: Michael Heißmeier
+date: 2016-01-11 23:40:27 Z
+permalink: users/michael_heißmeier
 Working Group:
 - Training
 Project:
@@ -10,8 +12,6 @@ Project:
 - Missing Maps
 - West Africa Ebola Epidemic
 Country: Germany
-permalink: users/michael_heißmeier
 Photo: "/uploads/picture-322-1452592487.jpg"
-date: '2016-01-11 23:40:27 Z'
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: Ralph Aytoun
+date: 2017-02-28 13:58:16 Z
+permalink: users/ralph_aytoun
 Working Group:
 - Training
 Project:
@@ -17,8 +19,6 @@ Country: United Kingdom
 Social Media (Full URL):
   Facebook: https://www.facebook.com/ralph.aytoun
   Twitter: https://twitter.com/RalphAytoun1
-permalink: users/ralph_aytoun
 Photo: "/uploads/picture-366-1488296375.jpg"
-date: '2017-02-28 13:58:16 Z'
 ---
 
