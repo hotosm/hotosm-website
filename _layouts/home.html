@@ -111,34 +111,34 @@ layout: default
     <div class="hr-h"></div>
 
     <div class="module-group two-rows">
-      <a class="module link-through light-img one" href="#">
+      <a class="module link-through light-img one" href="{{ page['Home Module 1'].URL }}">
         <div class="module-details">
           <h3>{{ page['Home Module 1'].Header }}</h3>
           <div class="module-text"><p>{{ page['Home Module 1'].Text }}</p></div>
           <p class="module-cta">{{ page['Home Module 1']['Call to Action'] }}</p>
         </div>
         <div class="module-image">
-          <img src="https://source.unsplash.com/collection/1186428/800x600?v=4">
+          <img src="{{ page['Home Module 1'].Image }}">
         </div>
       </a>
-      <a class="module link-through light-img two" href="#">
+      <a class="module link-through light-img two" href="{{ page['Home Module 2'].URL }}">
         <div class="module-details">
           <h3>{{ page['Home Module 2'].Header }}</h3>
           <div class="module-text"><p>{{ page['Home Module 2'].Text }}</p></div>
           <p class="module-cta"><span>{{ page['Home Module 2']['Call to Action'] }}</span></p>
         </div>
         <div class="module-image">
-          <img src="https://source.unsplash.com/collection/1186428/800x600?v=5">
+          <img src="{{ page['Home Module 2'].Image }}">
         </div>
       </a>
-      <a class="module link-through light-img three" href="#">
+      <a class="module link-through light-img three" href="{{ page['Home Module 3'].URL }}">
         <div class="module-details">
           <h3>{{ page['Home Module 3'].Header }}</h3>
           <div class="module-text"><p>{{ page['Home Module 3'].Text }}</p></div>
           <p class="module-cta">{{ page['Home Module 3']['Call to Action'] }}</p>
         </div>
         <div class="module-image">
-          <img src="https://source.unsplash.com/collection/1186428/800x600?v=6">
+          <img src="{{ page['Home Module 3'].Image }}">
         </div>
       </a>
     </div>
