@@ -17,7 +17,7 @@ Home Module 1:
     ac.
   Image: https://source.unsplash.com/collection/1186428/800x600?v=5
   Call to Action: View our tools
-  URL: /tools-and-data
+  URL: "/tools-and-data"
 Home Module 2:
   Header: Community & Organization
   Text: Donec ullamcorper nulla non metus auctor fringilla. Donec sed odio dui. Vestibulum
@@ -25,7 +25,7 @@ Home Module 2:
     sit amet non magna.
   Image: https://source.unsplash.com/collection/1186428/800x600?v=4
   Call to Action: Learn more
-  URL: /community
+  URL: "/community"
 Home Module 3:
   Header: Partnerships
   Text: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut
@@ -33,7 +33,7 @@ Home Module 3:
     sem lacinia quam venenatis vestibulum.
   Image: https://source.unsplash.com/collection/1186428/800x600?v=6
   Call to Action: Become a partner
-  URL: /partners
+  URL: "/partners"
 layout: home
 ---
 
