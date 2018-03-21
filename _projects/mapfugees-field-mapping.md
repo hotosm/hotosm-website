@@ -2,6 +2,7 @@
 title: MapFugees Field Mapping
 date: 2016-11-24 23:55:02 Z
 permalink: mapfugees_field_mapping
+position: 42
 HOT Involvement: Community Development
 Person:
 - Blake Girardot

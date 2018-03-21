@@ -1,0 +1,26 @@
+---
+title: Yantisa Akhadi
+date: 2014-06-16 15:09:28 Z
+permalink: users/yantisa_akhadi
+Working Group:
+- Training
+- Technical
+Project:
+- HOT Indonesia Curriculum
+- HOT Summit 2016
+- Indonesia Disaster Management Innovation
+- InaSAFE
+- 'USAID '
+- " BNPB "
+- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
+  Project in Indonesia"
+Country: Indonesia
+Social Media (Full URL):
+  LinkedIn: https://id.linkedin.com/in/yantisa
+  Twitter: https://twitter.com/iyan31
+Member Type:
+  Is Staff: true
+Photo: "/uploads/picture-101-1432092398.jpg"
+---
+
+<p>Yantisa Akhadi is the Project Manager of Humanitarian OpenStreetMap Team (HOT) in Indonesia. He is currently leading 9 talented individuals to promote the use of OpenStreetMap, QGIS and InaSAFE in humanitarian response and economic development. He is also actively involved in various FOSS communities in Indonesia.</p>

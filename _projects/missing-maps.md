@@ -2,6 +2,7 @@
 title: Missing Maps
 date: 2015-08-01 19:09:18 Z
 permalink: missing_maps
+position: 28
 Summary Text: Missing Maps is an open collaboration of organisations and individuals.
   Whether you have five minutes or five days free, your time is hugely appreciated!
 HOT Involvement: Partnerships

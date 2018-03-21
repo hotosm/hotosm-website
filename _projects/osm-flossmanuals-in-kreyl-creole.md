@@ -2,6 +2,7 @@
 title: OSM FlossManuals in Kreyòl (Creole)
 date: 2012-12-04 16:10:02 Z
 permalink: osm_flossmanuals_in_kreyòl_creole
+position: 13
 HOT Involvement: Community Development
 Person:
 - 'Jaakko Helleranta '

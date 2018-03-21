@@ -100,10 +100,15 @@ layout: default
       <div class="person-sidebar meta">
 
         {% if page.Country %}
-          <div class="meta-item meta-country">
-            <img src="{{ "/images/icon-person-pin.svg" | prepend: site.baseurl }}">
-            <a href="/where-we-work/{{ page.Country }}">{{ page.Country }}</a>
-          </div>
+          {% for country in site.where-we-work %}
+            {% if country.names contains page.Country %}
+              <div class="meta-item meta-country">
+                <img src="{{ "/images/icon-person-pin.svg" | prepend: site.baseurl }}">
+                <a href="/where-we-work/{{ country.urlname }}">{{ page.Country }}</a>
+              </div>
+              {% break %}
+            {% endif %}
+          {% endfor %}
         {% endif %}
 
         {% if page['Working Group'][0] != '' %}

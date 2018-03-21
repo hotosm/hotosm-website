@@ -2,6 +2,7 @@
 title: Ivory Coast
 date: 2011-09-02 21:40:18 Z
 permalink: ivory_coast
+position: 8
 HOT Involvement: Disaster Mapping
 Person:
 - Harry Wood

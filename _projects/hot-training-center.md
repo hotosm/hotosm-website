@@ -2,6 +2,7 @@
 title: HOT Training Center
 date: 2015-05-27 21:50:36 Z
 permalink: hot_training_center
+position: 20
 Summary Text: HOT has developed a protocol and training program to empower those volunteer
   Activators who coordinate our Disaster Mapping.
 HOT Involvement: Technical Projects

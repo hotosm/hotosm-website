@@ -2,6 +2,7 @@
 title: Microgrants and Community Development
 date: 2017-12-11 22:00:21 Z
 permalink: microgrants_and_community_development
+position: 49
 Summary Text: OpenStreetMap (OSM) community leaders are achieving amazing results
   leading local initiatives to map the places they live in response to disaster risks
   and to contribute to the Sustainable Development Goals. HOT supports these projects

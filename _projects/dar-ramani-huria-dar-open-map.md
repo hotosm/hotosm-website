@@ -2,6 +2,7 @@
 title: Dar Ramani Huria - Dar Open Map
 date: 2015-02-07 04:47:00 Z
 permalink: dar_ramani_huria_dar_open_map
+position: 0
 Feature Image: "/uploads/17461400118_a8ffb298ff_o.jpg"
 HOT Involvement: Community Development
 Country:

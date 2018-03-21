@@ -2,6 +2,7 @@
 title: Typhoon Haiyan
 date: 2013-11-16 15:35:48 Z
 permalink: typhoon_haiyan
+position: 5
 HOT Involvement: Disaster Mapping
 Person:
 - Taichi Furuhashi

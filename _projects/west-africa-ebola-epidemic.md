@@ -2,6 +2,7 @@
 title: West Africa Ebola Epidemic
 date: 2014-04-15 12:25:42 Z
 permalink: west_africa_ebola_epidemic
+position: 16
 HOT Involvement: Disaster Mapping
 Person:
 - Harry Wood

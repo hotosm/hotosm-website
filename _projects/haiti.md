@@ -2,6 +2,7 @@
 title: Haiti
 date: 2011-02-12 13:53:46 Z
 permalink: haiti_
+position: 51
 Summary Text: "Just a few hours after the 7.0 magnitude earthquake hit Haiti in January
   2010 the OpenStreetMap Community began tracing.... What did they begin tracing?
   Roads in the beginning all from imagery that was previously available from Yahoo.
