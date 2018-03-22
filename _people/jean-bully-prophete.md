@@ -1,10 +1,8 @@
 ---
 title: Jean Bully PROPHETE
-date: 2016-01-11 23:24:19 Z
-permalink: users/jean_bully_prophete
 Working Group:
-- Technical
 - Training
+- Technical
 Project:
 - LearnOSM
 - 'Haiti '
@@ -13,6 +11,8 @@ Project:
 - OSM FlossManuals in Kreyòl (Creole)
 - HOT Training Center
 Country: Haiti
-Photo: "/uploads/picture-314-1452607634.jpg"
+permalink: users/jean_bully_prophete
+Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-314-1452607634.jpg
+date: '2016-01-11 23:24:19 Z'
 ---
 
