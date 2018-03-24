@@ -34,7 +34,8 @@ layout: default
 
     <div class="project-index-highlights">
 
-      {% for project in site.projects limit:3 %}
+      {% assign sorted_projects = site.projects | sort:"position" %}
+      {% for project in sorted_projects limit:3 %}
         {% include blocks/project-highlight.html %}
       {% endfor %}
 
@@ -46,7 +47,8 @@ layout: default
 
     <div class="project-index-all">
 
-      {% for project in site.projects %}
+      {% assign sorted_projects = site.projects | sort:"date" | reverse %}
+      {% for project in sorted_projects %}
         {% include blocks/project-thumb.html %}
       {% endfor %}
 
