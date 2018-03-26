@@ -1,7 +1,12 @@
 ---
 title: Katja Ulbert
-date: 2015-05-25 17:50:28 Z
+date: 2015-05-25 17:50:00 Z
 permalink: users/katja_ulbert
+Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-283-1440077668.jpg
+Member Type:
+  Is Staff: true
+  Is Voting Member: true
+  Is Board Member: false
 Working Group:
 - Fundraising
 - Communications
@@ -22,12 +27,8 @@ Project:
 - HOT Training Center
 Country: Germany
 Social Media (Full URL):
-  Facebook: https://www.facebook.com/KatjaUlbert
   Twitter: https://twitter.com/MapFugees
-Member Type:
-  Is Staff: true
-  Is Board Member: true
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-283-1440077668.jpg
+  Facebook: https://www.facebook.com/KatjaUlbert
 ---
 
 <p>Visual communication, data visualisation. HOT community member, MapFugee, HOT board member.</p>
