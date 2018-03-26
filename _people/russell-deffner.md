@@ -33,6 +33,7 @@ Project:
 - "#mapthedifference"
 Country: United States
 Social Media (Full URL):
+  OSM: https://openstreetmap.org/user/russdeffner
   Twitter: https://twitter.com/RussellDeffner
   LinkedIn: https://www.linkedin.com/in/russelldeffner
 ---
