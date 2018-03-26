@@ -1,11 +1,13 @@
 ---
 title: Dan Joseph
-date: 2015-05-27 20:21:42 Z
+date: 2015-05-27 20:21:00 Z
 permalink: users/dan_joseph
+Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-284-1432759370.jpg
+Member Type:
+  Is Voting Member: true
 Country: United States
 Social Media (Full URL):
-  LinkedIn: https://www.linkedin.com/in/danbjoseph
   Twitter: https://twitter.com/@danbjoseph
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-284-1432759370.jpg
+  LinkedIn: https://www.linkedin.com/in/danbjoseph
 ---
 
