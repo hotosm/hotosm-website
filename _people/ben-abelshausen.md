@@ -1,7 +1,9 @@
 ---
 title: Ben Abelshausen
-date: 2015-06-04 19:47:09 Z
+date: 2015-06-04 19:47:00 Z
 permalink: users/ben_abelshausen
+Member Type:
+  Is Voting Member: true
 Project:
 - HOT Summit 2016
 - Ivory Coast
@@ -10,7 +12,7 @@ Project:
 - EUROSHA
 - Missing Maps
 Social Media (Full URL):
-  LinkedIn: https://www.linkedin.com/pub/ben-abelshausen/11/32/833
   Twitter: https://twitter.com/xivk
+  LinkedIn: https://www.linkedin.com/pub/ben-abelshausen/11/32/833
 ---
 
