@@ -1,7 +1,9 @@
 ---
 title: Amadou Ndong
-date: 2014-09-30 03:28:53 Z
+date: 2014-09-30 03:28:00 Z
 permalink: users/amadou_ndong
+Member Type:
+  Is Voting Member: true
 Project:
 - Espace OSM Francophone
 - Senegal
