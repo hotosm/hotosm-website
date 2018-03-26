@@ -1,7 +1,9 @@
 ---
 title: Andrew Buck
-date: 2014-09-30 03:18:10 Z
+date: 2014-09-30 03:18:00 Z
 permalink: users/andrew_buck
+Member Type:
+  Is Voting Member: true
 Working Group:
 - Activation
 - Technical
