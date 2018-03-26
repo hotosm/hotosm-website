@@ -1,6 +1,8 @@
 ---
 title: Lisa Sweeney
-date: 2014-09-30 03:28:05 Z
+date: 2014-09-30 03:28:00 Z
 permalink: users/lisa_sweeney
+Member Type:
+  Is Voting Member: true
 ---
 
