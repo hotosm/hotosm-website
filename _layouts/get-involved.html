@@ -41,34 +41,34 @@ layout: default
     <div class="container">
 
       <div class="module-group top-image">
-        <a class="module link-through light" href="/donate" id="support-programs">
+        <a class="module link-through light" href="{{ page.block-1.Link }}" id="support-programs">
           <div class="module-image">
-            <img src="{{ page.Donate.Image }}">
+            <img src="{{ page.block-1.Image }}">
           </div>
           <div class="module-details">
-            <h3>Donate</h3>
-            <div class="module-text">{{ page.Donate.Text | markdownify }}</div>
-            <p class="module-cta">Donate now</p>
+            <h3>{{ page.block-1.Title | markdownify }}</h3>
+            <div class="module-text">{{ page.block-1.Text | markdownify }}</div>
+            <p class="module-cta">{{ page.block-1.Action-text | markdownify }}</p>
           </div>
         </a>
-        <a class="module link-through light" href="/working-groups" id="working-groups">
+        <a class="module link-through light" href="{{ page.block-2.Link }}" id="support-programs">
           <div class="module-image">
-            <img src="{{ page['Working Groups'].Image }}">
+            <img src="{{ page.block-2.Image }}">
           </div>
           <div class="module-details">
-            <h3>Working Groups</h3>
-            <div class="module-text">{{ page['Working Groups'].Text | markdownify }}</div>
-            <p class="module-cta">Learn more</p>
+            <h3>{{ page.block-2.Title | markdownify }}</h3>
+            <div class="module-text">{{ page.block-2.Text | markdownify }}</div>
+            <p class="module-cta">{{ page.block-2.Action-text | markdownify }}</p>
           </div>
         </a>
-        <a class="module link-through light" href="/jobs" id="support-programs">
+        <a class="module link-through light" href="{{ page.block-3.Link }}" id="support-programs">
           <div class="module-image">
-            <img src="{{ page.Jobs.Image }}">
+            <img src="{{ page.block-3.Image }}">
           </div>
           <div class="module-details">
-            <h3>Jobs</h3>
-            <div class="module-text">{{ page.Jobs.Text | markdownify }}</div>
-            <p class="module-cta">See current vacancies</p>
+            <h3>{{ page.block-3.Title | markdownify }}</h3>
+            <div class="module-text">{{ page.block-3.Text | markdownify }}</div>
+            <p class="module-cta">{{ page.block-3.Action-text | markdownify }}</p>
           </div>
         </a>
       </div>
