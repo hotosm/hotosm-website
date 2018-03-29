@@ -1,6 +1,8 @@
 ---
 title: Todd Huffman
+date: 2010-06-19 00:54:00 Z
 permalink: users/todd_huffman
-date: '2010-06-19 00:54:07 Z'
+Member Type:
+  Is Voting Member: true
 ---
 

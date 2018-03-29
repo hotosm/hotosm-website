@@ -1,7 +1,7 @@
 ---
 title: Stephane Goldstein
-Country: Brazil
+date: 2012-05-26 21:19:23 Z
 permalink: users/stephane_goldstein
-date: '2012-05-26 21:19:23 Z'
+Country: Brazil
 ---
 

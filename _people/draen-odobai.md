@@ -1,8 +1,9 @@
 ---
 title: Dražen Odobašić
-Member Type:
-  Is Staff: true
+date: 2015-06-04 19:50:00 Z
 permalink: users/dražen_odobašić
-date: '2015-06-04 19:50:36 Z'
+Member Type:
+  Is Staff: false
+  Is Voting Member: true
 ---
 

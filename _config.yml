@@ -5,12 +5,15 @@ collections:
   where-we-work:
     title: Countries
     output: true
+    permalink: "/where-we-work/:path/"
   impact-areas:
     title: Impact Areas
     output: true
+    permalink: "/impact-areas/:path/"
   jobs:
     title: Jobs
     output: true
+    permalink: "/jobs/:path/"
   posts:
     title: News Posts
     output: true
@@ -20,6 +23,7 @@ collections:
   people:
     title: People
     output: true
+    permalink: "/people/:path/"
   projects:
     title: Projects
     output: true
@@ -73,6 +77,7 @@ defaults:
     path: ''
     type: impact-areas
   values:
+    permalink: "/impact-areas/:path/"
     layout: impact-area
 - scope:
     path: ''

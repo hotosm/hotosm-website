@@ -1,6 +1,8 @@
 ---
 title: Elida Nurrohmah
+date: 2017-02-28 14:13:00 Z
 permalink: users/elida_nurrohmah
-date: '2017-02-28 14:13:13 Z'
+Member Type:
+  Is Voting Member: true
 ---
 

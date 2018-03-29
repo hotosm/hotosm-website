@@ -1,7 +1,7 @@
 ---
 title: Dylan Patterson
-Country: Uganda
+date: 2018-01-12 10:21:34 Z
 permalink: users/dylan_patterson
-date: '2018-01-12 10:21:34 Z'
+Country: Uganda
 ---
 

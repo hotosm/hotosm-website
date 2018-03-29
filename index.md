@@ -15,19 +15,25 @@ Home Module 1:
     vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Nullam
     id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur
     ac.
+  Image: https://source.unsplash.com/collection/1186428/800x600?v=5
   Call to Action: View our tools
+  URL: "/tools-and-data"
 Home Module 2:
   Header: Community & Organization
   Text: Donec ullamcorper nulla non metus auctor fringilla. Donec sed odio dui. Vestibulum
     id ligula porta felis euismod semper. Maecenas sed diam eget risus varius blandit
     sit amet non magna.
+  Image: https://source.unsplash.com/collection/1186428/800x600?v=4
   Call to Action: Learn more
+  URL: "/community"
 Home Module 3:
   Header: Partnerships
   Text: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut
     fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare
     sem lacinia quam venenatis vestibulum.
+  Image: https://source.unsplash.com/collection/1186428/800x600?v=6
   Call to Action: Become a partner
+  URL: "/partners"
 layout: home
 ---
 

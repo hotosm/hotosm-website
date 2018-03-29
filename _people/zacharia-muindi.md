@@ -1,6 +1,8 @@
 ---
 title: Zacharia Muindi
+date: 2015-06-04 20:02:00 Z
 permalink: users/zacharia_muindi
-date: '2015-06-04 20:02:18 Z'
+Member Type:
+  Is Voting Member: true
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: BOUKPESSI Bitalé
+date: 2015-06-04 19:48:00 Z
 permalink: users/boukpessi_bitalé
-date: '2015-06-04 19:48:15 Z'
+Member Type:
+  Is Voting Member: true
 ---
 

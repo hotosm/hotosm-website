@@ -1,5 +1,10 @@
 ---
 title: Ralph Aytoun
+date: 2017-02-28 13:58:00 Z
+permalink: users/ralph_aytoun
+Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-366-1488296375.jpg
+Member Type:
+  Is Voting Member: true
 Working Group:
 - Training
 Project:
@@ -15,10 +20,7 @@ Project:
 - Field Papers
 Country: United Kingdom
 Social Media (Full URL):
-  Facebook: https://www.facebook.com/ralph.aytoun
   Twitter: https://twitter.com/RalphAytoun1
-permalink: users/ralph_aytoun
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-366-1488296375.jpg
-date: '2017-02-28 13:58:16 Z'
+  Facebook: https://www.facebook.com/ralph.aytoun
 ---
 
