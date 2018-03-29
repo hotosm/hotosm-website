@@ -1,14 +1,14 @@
 ---
-title: When Birds of a Feather Map Together
-date: 2014-04-18 15:29:30 Z
-permalink: updates/2014-04-18_when_birds_of_a_feather_map_together
 Person: Heather Leson
+date: '2014-04-18 15:29:30 Z'
 Working Group:
 - Activation
 Projects: []
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Pasted_Image_4_18_14__3_51_PM.png
+permalink: updates/2014-04-18_when_birds_of_a_feather_map_together
+title: When Birds of a Feather Map Together
 created: 1397834970
 ---
-
 <p>All spring we’ve been thinking about how to grow and support the HOT community. We know that we need to improve support to keep up the momentum of the last year while balancing quality great work around the world. At the <a href="http://stateofthemap.us">State of the Map US</a> event, we held a HOT BoF (Birds of Feather) session with over 45 participants. It is a small section of the wider global community, but it gave us a chance to see old friends, meet with partners and potentially engage new mappers.</p>
 <p>Our conversations touched on recent activations, how to get involved, types of community members, teaching tools/methods, partnership engagement, working with imagery providers and, of course, UAVs.</p>
 <h3><strong><span style="font-size: 15px; font-family: Arial; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">How to Get Involved:</span></strong></h3>
@@ -18,7 +18,7 @@ created: 1397834970
 <li><a style="line-height: 1.538em;" href="http://tasks.hotosm.org/">Pick a Task from Task Manager.</a></li>
 </ol>
 <p>HOT’s community is gearing up. We have been doing some deep tissue analysis on how to improve in our <a href="https://hackpad.com/HOT-Community-Sprint-PT9LYvG5aDn">HOT community Sprint.</a>&nbsp; We recognize that there several distinct groups within our community who have particular needs that are unique to that group. These core types include connectors/teachers/organizers, mappers (many types), partners/mission supporters, techies, and, lastly, those involved in the business of mapping/data consumers/supporters.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/sites/default/files/blog_image.png" alt="Types of HOTties Icons" width="758" height="134"></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://s3.amazonaws.com/hotwww/files/old/blog_image.png" alt="Types of HOTties Icons" width="758" height="134"></p>
 <h3 style="line-height: 1.15; margin-top: 0pt; margin-bottom: 10pt;" dir="ltr"><span style="font-size: 15px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Activations</span></h3>
 <p>HOT has been activated many times in the past year with the largest activation Typhoon Haiyan (Philippines). The wider community works with official and unofficial partners to respond such as the <a href="http://www.redcross.org/">American Red Cross</a>, <a href="http://www.msf.org/" target="_blank">Medecins Sans Frontieres</a>, <a href="http://www.usaid.gov/" target="_blank">USAID</a>, <a title="Humanitarian Information Unit" href="http://www.state.gov/s/inr/hiu/" target="_blank">HIU</a>, <a href="http://www.cartong.org/" target="_blank">CartONG</a>, and the <a href="https://www.gfdrr.org/">World Bank’s Global Facility for Disaster Risk Reduction and Recovery</a>. Some session feedback included that HOT needs to get better with a structured owners and workflows for contact while capturing the partners needs.&nbsp;</p>
 <p><span id="docs-internal-guid-215ffd3a-7571-6a72-eb45-a5a11f4ff657">To improve the quality of data, we need better activation specific training to help compare before and after imagery sets, plus local context guidance. &nbsp;One participant advised that they would like iD (the main editing tool at OpenStreetMap.org) with a swipe function to see the before and after imagery. For remote mapping, there needs to be more training tools to help improve the first edit. But, there needs to be a validation process. While it might be time-consuming, it might be beneficial to have a Tier 1 - 4 process to improve quality checks and provide mentorship. Mentorship is actually already happening, but this would allow us to formally recognize leaders more. <a title="Map roulette" href="http://wiki.openstreetmap.org/wiki/MapRoulette" target="_blank">Map Roulette</a> might provide a way forward on this to be able to pull out the data that needs a second or third review. </span></p>
@@ -34,7 +34,7 @@ created: 1397834970
 <h3 style="line-height: 1.15; margin-top: 0pt; margin-bottom: 10pt;" dir="ltr"><span style="font-size: 15px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Building Map Literacy, One Edit at a Time</span></h3>
 <p dir="ltr">One the other end, Map literacy is hard to do in an emergency. Proactive map projects like HOT Indonesia show that this type of knowledge sharing and capacity building is much more effective done in advance. The same methods apply for our Humanitarian organization partners. &nbsp;As we working more pre-disaster, we'll have better data about the risks - the balance of working on basemapping vs. damage assessment will shift and this will change the game. &nbsp;</p>
 <p dir="ltr">One day we’d like to have all the active community participants and Board members in the same room. Until then, we are very lucky to HOTties meet and share. HOT’s community is just a small corner of the wider OpenStreetMap community. We are fortunate to have opportunities to meet. Thanks to the HOT BoF participants and State of the Map US for giving us a place to connect.</p>
-<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 10pt;" dir="ltr"><span style="font-size: 15px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"><img style="display: block; margin-left: auto; margin-right: auto;" dir="ltr" src="/sites/default/files/Pasted_Image_4_18_14__3_51_PM.png" alt="Connecting the gears" width="373" height="363">&nbsp;</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 10pt;" dir="ltr"><span style="font-size: 15px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"><img style="display: block; margin-left: auto; margin-right: auto;" dir="ltr" src="https://s3.amazonaws.com/hotwww/files/old/Pasted_Image_4_18_14__3_51_PM.png" alt="Connecting the gears" width="373" height="363">&nbsp;</span></p>
 <h3 style="line-height: 1.15; margin-top: 0pt; margin-bottom: 10pt;" dir="ltr"><span style="font-size: 15px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Some Resources</span></h3>
 <ul>
 <li><a href="https://hackpad.com/HOT-BOF-SotM-US-CnlzFvBzbVT" target="_blank">State of the Map Birds of a Feather draft notes</a></li>

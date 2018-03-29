@@ -1,11 +1,10 @@
 ---
-title: Schuyler Erle and John Crowley join the board
-date: 2011-12-21 10:38:32 Z
-permalink: updates/2011-12-21_schuyler_erle_and_john_crowley_join_the_board
 Person: Harry Wood
+date: '2011-12-21 10:38:32 Z'
 Working Group: []
 Projects: []
+permalink: updates/2011-12-21_schuyler_erle_and_john_crowley_join_the_board
+title: Schuyler Erle and John Crowley join the board
 created: 1324463912
 ---
-
 <p>We'd like to welcome two new members to the board of the Humanitarian OpenStreetMap Team:</p><blockquote><p><a href="http://www.flickr.com/photos/chrisfleming/5939723339/"><img class="alignleft size-full wp-image-222" style="margin-right: 10px;" title="Photo by Chris Fleming CC BY-SA 2.0 on flickr" src="http://hot.openstreetmap.org/weblog/wp-content/uploads/2011/12/schuyler-erle.png" alt="" width="99" height="108"></a><strong>Schuyler Erle</strong> - Long time pioneer of open Source geo-hacking, co-founder of the OSGeo Foundation and co-author of "Mapping Hacks". Of course he is also a long time OpenStreetMapper and was an early proponent of OpenStreetMap for disaster response.</p><p><a href="http://www.flickr.com/photos/harrywood/6143199572"><img class="alignleft size-full wp-image-223" style="clear: both; margin-right: 10px;" title="John Crowley photo by Harry Wood (at the hot HOT meeting SOTM11)" src="http://hot.openstreetmap.org/weblog/wp-content/uploads/2011/12/john-crowley.png" alt="" width="99" height="101"></a><strong>John Crowley</strong> - Instrumental in helping with the release of imagery for use in OpenStreetMap, requiring patience and strategy in interfacing between big government and more informal organizations. With his connections John will be able to help shape the HOT for funding and future collaborations.</p></blockquote><p>Schuyler Erle and John Crowley contributed massively to the process of enabling and encouraging OpenStreetMap use in disaster response after the Haiti earthquake. See them together (along with Jeffrey Johnson) in <a href="http://www.youtube.com/watch?v=fJvR84UX5RI">this inspiring Where 2.0 presentation in 2010</a> (14 min video) as they look back at how OSM helped in Haiti.</p><p>The new board were elected (as <a title="archived mailing list post" href="http://lists.openstreetmap.org/pipermail/hot/2011-December/001304.html">announced on the HOT mailing list</a>) along with accepting nominations for new HOT <em>members</em>, on Wed 14th December. Thankyou to all those who took part!</p><p><em>Photo of Schuyler Erle is CC-BY-SA-2 Chris Fleming</em></p>

@@ -1,7 +1,4 @@
 ---
-title: LearnOSM Origin and Relaunch
-date: 2013-03-20 16:06:46 Z
-permalink: updates/2013-03-20_learnosm_origin_and_relaunch
 Summary Text: "Today we are excited to announce the relaunch of LearnOSM in conjunction
   with the MapBox team.\r\nLearnOSM was originally envisioned by Jeff Haack, it came
   out of necessity from HOT's work in Indonesia. There are many training materials
@@ -9,15 +6,18 @@ Summary Text: "Today we are excited to announce the relaunch of LearnOSM in conj
   Often instructions are buried in a wiki or assume someone already has some indepth
   technical knowledge. \r\n"
 Person: Kate Chapman
+date: '2013-03-20 16:06:46 Z'
 Working Group: []
 Projects:
 - LearnOSM
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/screen_shot_learn.png
+permalink: updates/2013-03-20_learnosm_origin_and_relaunch
+title: LearnOSM Origin and Relaunch
 created: 1363795606
 ---
-
 Today we are excited to announce the relaunch of LearnOSM in conjunction with the <a href="http://mapbox.com/">MapBox team</a> (read their blog post about it <a href="http://mapbox.com/blog/learnosm-with-new-design/">here</a>).
 
-<img src="/sites/default/files/styles/medium/public/screen_shot_learn_0.png?itok=J4aFrzfz" width="250" height="159" alt=""  class="image-medium" />
+<img src="https://s3.amazonaws.com/hotwww/files/old/styles/medium/public/screen_shot_learn_0.png?itok=J4aFrzfz" width="250" height="159" alt=""  class="image-medium" />
 
 <a href="http://learnosm.org">LearnOSM</a> was originally envisioned by Jeff Haack, it came out of necessity from HOT's work in Indonesia. There are many training materials for OpenStreetMap, but few that have been designed in a clear way for beginners. Often instructions are buried in a wiki or assume someone already has some indepth technical knowledge. 
  

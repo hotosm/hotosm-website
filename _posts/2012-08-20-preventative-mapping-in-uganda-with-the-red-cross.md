@@ -1,7 +1,4 @@
 ---
-title: Preventative Mapping in Uganda with the Red Cross
-date: 2012-08-20 17:00:33 Z
-permalink: updates/2012-08-20_preventative_mapping_in_uganda_with_the_red_cross
 Summary Text: "HOT has teamed up with the American and Ugandan Red Cross to virtually
   map the cities of <strong>Gulu</strong> and <strong>Lira</strong>.   These two cities
   have expanded rapidly in the last twenty years and currently do not have up-to-date
@@ -12,11 +9,13 @@ Summary Text: "HOT has teamed up with the American and Ugandan Red Cross to virt
   especially so that response vehicles can identify the quickest routes for fires
   or accidents.    \r\n\r\n"
 Person: Katrina E.
+date: '2012-08-20 17:00:33 Z'
 Working Group: []
 Projects: []
+permalink: updates/2012-08-20_preventative_mapping_in_uganda_with_the_red_cross
+title: Preventative Mapping in Uganda with the Red Cross
 created: 1345482033
 ---
-
 HOT has teamed up with the American and Ugandan Red Cross to virtually map the cities of <strong>Gulu</strong> and <strong>Lira</strong>.   These two cities have expanded rapidly in the last twenty years and currently do not have up-to-date maps.  This becomes an issue for the Red Cross because maps are necessary for better community disaster response.   In Northern Uganda, mapping resources are unreliable for finding locations when emergency response, such as for a house fire or traffic accident, is required.  Updating these city maps is important for many reasons, especially so that response vehicles can identify the quickest routes for fires or accidents.    
 
 The Uganda and American Red Cross plan to use HOT’s resources to recruit and coordinate mapping volunteers.  In September, they will conduct ground-truthing surveys to fill in the details, like street names and building attributes.   Since geographical surveys will be conducted in the field it is imperative that mapping volunteers’ trace points and lines precisely.   To volunteer, please visit the <a href="http://tasks.hotosm.org/job/50">Gulu Task</a>  and <a href="http://tasks.hotosm.org/job/51">Lira Task</a> pages (you must log in to your OSM account).  You can start tracing off of high resolution satellite imagery-- donated by the U.S. State Department’s <a href="http://www.state.gov/s/inr/hiu/">Humanitarian Information Unit</a>-- on the tasking server.   If you are using JOSM, I recommend using “Orthogonalize Shape,”which corrects polygons by creating right angles,  under the Tools menu for buildings.   
