@@ -13,7 +13,7 @@ You may have seen a few <a href="https://twitter.com/bensonwilder/status/4942087
 
 <a href="https://www.youtube.com/watch?v=H2kvyhM6U38&amp;feature=youtu.be">Albert Gembara's talk is now posted</a>. The stream of the first half of the day is <a href="https://www.youtube.com/watch?v=X8eiXjbhfOc">published here</a>.
 
-<iframe width="640" height="480" src="http://www.youtube.com/embed/H2kvyhM6U38" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:640px;height:480px" src="http://www.youtube.com/embed/H2kvyhM6U38" frameborder="0" allowfullscreen></iframe>
 
 The event brought together federal agencies, technologists, and companies to share and network on disaster technology. It was remarkable moment to reflect how far things have come in just a few years. The focus was US domestic, but one presentation slot was given to Albert Gembara from USAID Office of Foreign Disaster Assistance (OFDA). Albert chose to highlight the effort of the HOT community during Typhoon Haiyan, and particularly, the OpenStreetMap Tasking Manager (which OFDA has generously supported).
 

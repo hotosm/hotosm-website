@@ -8,7 +8,7 @@ permalink: updates/2017-09-08_first_ever_youthmappers_video_challenge_
 title: First Ever YouthMappers Video Challenge
 created: 1504907329
 ---
-<img src="https://s3.amazonaws.com/hotwww/files/old/styles/medium/public/youthmappers_0.jpg?itok=5aAovPil" width="220" height="59" alt=""  class="image-medium" />
+<img src="https://s3.amazonaws.com/hotwww/files/old/styles/medium/public/youthmappers_0.jpg?itok=5aAovPil" style="width:220px;height:59px" alt=""  class="image-medium" />
 *Originally from Missing Maps Blog*
 
 First YouthMappers Video Challenge!
