@@ -4,7 +4,7 @@ date: '2017-07-03 08:53:14 Z'
 Working Group: []
 Projects:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/US-Flag+DoS.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image5.jpg
 permalink: updates/2017-07-03_volunteers_in_uganda_and_turkey_rally_to_support_refugees_on_world_refugee_day
 title: Volunteers in Uganda and Turkey Rally to Support Refugees on World Refugee
   Day

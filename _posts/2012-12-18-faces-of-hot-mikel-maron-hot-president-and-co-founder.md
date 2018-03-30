@@ -10,7 +10,7 @@ Person: Katrina E.
 date: '2012-12-18 03:41:51 Z'
 Working Group: []
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/HOT.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_294.png
 permalink: updates/2012-12-18_faces_of_hot__mikel_maron_hot_president_and_co-founder_
 title: 'Faces of HOT:  Mikel Maron, HOT President and Co-Founder'
 created: 1355802111

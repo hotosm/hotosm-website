@@ -4,7 +4,7 @@ date: '2013-02-20 04:34:58 Z'
 Working Group: []
 Projects:
 - EUROSHA
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/pic1.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/map_1.png
 permalink: updates/2013-02-20_how_to_engage_with_non-spatial_partners_feedback_from_the_field_in_kenya
 title: How to engage with non-spatial partners, feedback from the field in Kenya
 created: 1361334898

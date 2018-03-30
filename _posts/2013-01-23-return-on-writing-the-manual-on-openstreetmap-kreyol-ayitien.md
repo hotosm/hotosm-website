@@ -10,7 +10,7 @@ date: '2013-01-23 17:57:13 Z'
 Working Group: []
 Projects:
 - OSM FlossManuals in Kreyòl (Creole)
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/8298678278_8a51904512_0.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Capture+du+2012-12-23+01:01:33_0.png
 permalink: updates/2013-01-23_return_on_writing_the_manual_on_openstreetmap_kreyol_ayitien
 title: Return on writing the manual on OpenStreetMap kreyol ayitien
 created: 1358963833

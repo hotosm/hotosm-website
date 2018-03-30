@@ -5,7 +5,7 @@ Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Azavea+logo.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017+microgrants_0.png
 permalink: updates/2017-02-02_hot_microgrants_programme_launches
 title: HOT Microgrants Programme Launches
 created: 1486053007

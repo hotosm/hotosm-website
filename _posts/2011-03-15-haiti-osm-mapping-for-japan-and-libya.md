@@ -3,7 +3,7 @@ Person: Mikel Maron
 date: '2011-03-15 05:56:59 Z'
 Working Group: []
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/5527736756_06f70c7897.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/5527736750_1ca7155c84.jpg
 permalink: updates/2011-03-15_haiti_osm_mapping_for_japan_and_libya
 title: Haiti OSM Mapping for Japan and Libya
 created: 1300168619

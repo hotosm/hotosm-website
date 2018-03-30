@@ -5,7 +5,7 @@ Working Group:
 - Technical
 Projects:
 - Mongolia, Mapping Ulaanbaatar
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC01054crop_0.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCN0225crop_0.JPG
 permalink: updates/2013-11-05_straighten_our_ways_–_ulaanbaatar_project_week_5
 title: Straighten Our Ways – Ulaanbaatar Project Week 5
 created: 1383677083

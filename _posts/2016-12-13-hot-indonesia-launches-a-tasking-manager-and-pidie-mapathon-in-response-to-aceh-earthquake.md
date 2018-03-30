@@ -4,7 +4,7 @@ date: '2016-12-13 09:59:36 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/aceh-earthquake-indonesia.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Pidie+Mapathon+final.001.jpeg
 permalink: updates/2016-12-13_hot_indonesia_launches_a_tasking_manager_and_pidie_mapathon_in_response_to_aceh_
 title: HOT Indonesia Launches a Tasking Manager and Pidie Mapathon in Response to
   Aceh Earthquake.

@@ -4,7 +4,7 @@ date: '2017-07-17 21:47:32 Z'
 Working Group:
 - Community
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/SOTMAfrica1.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/SOTMAfrica.jpg
 permalink: updates/2017-07-17_state_of_the_map_africa_the_first_conference
 title: 'State of the Map Africa: the first conference'
 created: 1500328052

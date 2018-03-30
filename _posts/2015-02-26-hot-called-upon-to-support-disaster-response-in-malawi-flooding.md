@@ -11,7 +11,7 @@ Working Group:
 - Activation
 Projects:
 - Malawi Flood Preparedness
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Malawi_affected_school.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Malawi_washed_away_bridge_Chanasa.png
 permalink: updates/2015-02-26_hot_called_upon_to_support_disaster_response_in_malawi_flooding_
 title: HOT Called Upon to Support Disaster Response in Malawi Flooding
 created: 1424992687

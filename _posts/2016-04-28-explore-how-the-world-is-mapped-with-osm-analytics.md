@@ -7,7 +7,7 @@ date: '2016-04-28 11:56:16 Z'
 Working Group: []
 Projects:
 - OpenStreetMap Analytics
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2016-04-28+at+13.48.33.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2016-04-28+at+14.05.34.png
 permalink: updates/2016-04-28_explore_how_the_world_is_mapped_with_osm_analytics
 title: Explore How the World is Mapped with OSM Analytics
 created: 1461844576

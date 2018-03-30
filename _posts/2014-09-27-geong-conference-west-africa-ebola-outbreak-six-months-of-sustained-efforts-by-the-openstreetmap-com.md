@@ -5,7 +5,7 @@ Working Group:
 - Communications
 Projects:
 - West Africa Ebola Epidemic
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/GeOnG-2014-09-23-gueckedou-team-sn.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Cumulative+objects+created.png
 permalink: updates/2014-09-27_geong_conference_-_west_africa_ebola_outbreak_-_six_months_of_sustained_efforts_
 title: GeONG Conference - West Africa Ebola Outbreak - Six months of sustained efforts
   by the OpenStreetMap community

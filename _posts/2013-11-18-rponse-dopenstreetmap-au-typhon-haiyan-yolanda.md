@@ -4,7 +4,7 @@ date: '2013-11-18 00:18:47 Z'
 Working Group: []
 Projects:
 - Typhoon Haiyan
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Remotely+Traced+Areas_RedCross_HOTOSM-150dpi-01_0.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/openstreetmap-hdm-building-tacloban.png
 permalink: updates/2013-11-18_réponse_d'openstreetmap_au_typhon_haiyan_/_yolanda
 title: Réponse d'OpenStreetMap au Typhon Haiyan / Yolanda
 created: 1384733927

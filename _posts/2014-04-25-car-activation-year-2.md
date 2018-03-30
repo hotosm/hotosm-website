@@ -5,7 +5,7 @@ Working Group:
 - Community
 Projects:
 - Central African Republic Activation
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Berbérati_zoom16_20140425.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/CAR_Umap_20140425.png
 permalink: updates/2014-04-25_car_activation_year_2
 title: CAR Activation, Year 2
 created: 1398388325

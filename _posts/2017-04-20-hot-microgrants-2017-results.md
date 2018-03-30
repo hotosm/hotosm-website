@@ -5,7 +5,7 @@ Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/BM2017+034_109_colour_blog.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017+microgrants_0.png
 permalink: updates/2017-04-20_hot_microgrants_2017_results
 title: 'HOT Microgrants 2017: Results'
 created: 1492708088

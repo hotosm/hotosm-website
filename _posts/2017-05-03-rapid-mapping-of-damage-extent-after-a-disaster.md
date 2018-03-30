@@ -4,7 +4,7 @@ date: '2017-05-03 06:06:41 Z'
 Working Group: []
 Projects:
 - Remote Damage Assessment Research
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/PicturePileApp.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/PicturePileHeader.jpg
 permalink: updates/2017-05-03_rapid_mapping_of_damage_extent_after_a_disaster
 title: Rapid Mapping of Damage Extent after a Disaster
 created: 1493791601

@@ -3,7 +3,7 @@ Person: Nate Smith
 date: '2017-08-09 12:20:11 Z'
 Working Group: []
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-08-01+at+1.52.34+PM.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-08-09+at+2.07.15+PM.png
 permalink: updates/2017-08-09_making_hot’s_design_experience_sizzle
 title: Making HOT’s Design Experience Sizzle
 created: 1502281211

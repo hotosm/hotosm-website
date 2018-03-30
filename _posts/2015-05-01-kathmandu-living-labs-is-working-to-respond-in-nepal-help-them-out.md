@@ -8,7 +8,7 @@ Working Group:
 - Activation
 Projects:
 - Nepal 2015 Earthquake Response
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/kll_youngpeople.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/kll_crowdsourcing.jpg
 permalink: updates/2015-05-01_kathmandu_living_labs_is_working_to_respond_in_nepal_help_them_out!
 title: 'Kathmandu Living Labs is working to respond in Nepal: help them out!'
 created: 1430497874

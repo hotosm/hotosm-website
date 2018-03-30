@@ -10,7 +10,7 @@ Working Group:
 - Activation
 Projects:
 - Fall 2017 Disaster Response
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/MexicoEarthquakes.PNG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/CaribbeanHurricanes1109.png
 permalink: updates/2017-11-10_calling_all_validators_(and_mappers)!
 title: Calling All Validators (and Mappers)!
 created: 1510339463

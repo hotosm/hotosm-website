@@ -5,7 +5,7 @@ Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-11-09+at+13.23.12.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-11-09+at+13.23.25.png
 permalink: updates/2017-11-09_building_openstreetmap_zambia_with_the_help_of_a_hot_microgrant
 title: Building OpenStreetMap Zambia with the help of a HOT Microgrant
 created: 1510252014

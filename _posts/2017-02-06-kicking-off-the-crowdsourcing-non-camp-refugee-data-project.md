@@ -4,7 +4,7 @@ date: '2017-02-06 15:24:17 Z'
 Working Group: []
 Projects:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/US-Flag+DoS.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017-01_SSudan_Refugee_Mothers_Blog_760x428_3.jpg
 permalink: updates/2017-02-06_kicking_off_the_“crowdsourcing_non-camp_refugee_data”_project
 title: Kicking off the “Crowdsourcing Non-Camp Refugee Data” project
 created: 1486394657

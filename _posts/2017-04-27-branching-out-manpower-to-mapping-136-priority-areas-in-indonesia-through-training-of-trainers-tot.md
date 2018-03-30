@@ -9,7 +9,7 @@ date: '2017-04-27 08:29:50 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/17880152_1728450354113679_6836050245446849851_o.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/17879888_1728450020780379_3811758073513746730_o.jpg
 permalink: updates/2017-04-27_branching_out_manpower_to_mapping_136_priority_areas_in_indonesia_through_traini
 title: Branching out Manpower to Mapping 136 Priority Areas in Indonesia through Training
   of Trainers (ToT)

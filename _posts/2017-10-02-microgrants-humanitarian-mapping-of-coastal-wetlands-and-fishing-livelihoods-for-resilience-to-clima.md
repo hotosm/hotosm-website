@@ -5,7 +5,7 @@ Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Photo+6+UAV+workshop.JPG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Photo+1+Bahía+El+Uno+aerial.JPG
 permalink: updates/2017-10-02_microgrants_humanitarian_mapping_of_coastal_wetlands_and_fishing_livelihoods_for
 title: 'Microgrants: Humanitarian mapping of coastal wetlands and fishing livelihoods
   for resilience to climate change and variability, Colombia.'

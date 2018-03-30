@@ -4,7 +4,7 @@ date: '2012-12-17 09:01:06 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_297.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_296.png
 permalink: updates/2012-12-17_hot_goes_cartographic_with_tilemill
 title: HOT goes Cartographic with TileMill
 created: 1355734866

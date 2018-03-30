@@ -12,7 +12,7 @@ Person: Katrina E.
 date: '2013-01-21 07:00:05 Z'
 Working Group: []
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/pierre-beland.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/jose_0.jpg
 permalink: updates/2013-01-21_faces_of_hot__two_new_board_members_pierre_beland_and_joseph_reeves
 title: 'Faces of HOT:  Two New Board Members, Pierre Beland and Joseph Reeves'
 created: 1358751605

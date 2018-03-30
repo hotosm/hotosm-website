@@ -5,7 +5,7 @@ Working Group:
 - Training
 Projects:
 - 'Haiti '
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/P1150731_800px_0.JPG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/P1160118_800px.JPG
 permalink: updates/2012-02-20_hand_over_in_saint-marc_haiti
 title: Hand over in Saint-Marc, Haiti
 created: 1329748511

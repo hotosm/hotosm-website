@@ -3,7 +3,7 @@ date: '2013-03-07 10:35:38 Z'
 Working Group: []
 Projects:
 - Senegal
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCN0626_0.JPG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCN0412petit.JPG
 permalink: updates/2013-03-07_la_communauté_dakaroise_est_rejoint_par_de_nouveaux_mappers
 title: La communauté Dakaroise est rejoint par de nouveaux mappers
 created: 1362652538

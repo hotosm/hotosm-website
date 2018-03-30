@@ -14,7 +14,7 @@ date: '2012-10-05 00:13:00 Z'
 Working Group: []
 Projects:
 - EUROSHA
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/P1200071+1024x768.JPG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/P1200042+1024x768.JPG
 permalink: updates/2012-10-05_become_a_tutor_of_the_eurosha_volunteers!
 title: Become a tutor of the Eurosha volunteers!
 created: 1349395980

@@ -5,8 +5,8 @@ Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/title%20image.jpg
-permalink: updates/2017-12-05_openstreetmap_qgis_training_for_geology_students_in_bamako_mali
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/title+image.jpg
+permalink: updates/2017-12-05_openstreetmap_&_qgis_training_for_geology_students_in__bamako_mali
 title: OpenStreetMap & QGIS Training for geology students in  Bamako, Mali
 created: 1512478000
 ---

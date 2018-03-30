@@ -12,7 +12,7 @@ date: '2012-01-25 06:16:59 Z'
 Working Group: []
 Projects:
 - 'Haiti '
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/cosmha+at+HC.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/HC+aerial.jpg
 permalink: updates/2012-01-25_hot_at_haiti_communitere
 title: HOT at Haiti Communitere
 created: 1327472219

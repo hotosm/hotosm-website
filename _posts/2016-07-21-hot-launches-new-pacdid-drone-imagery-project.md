@@ -4,7 +4,7 @@ date: '2016-07-21 01:09:37 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/PacDID-OAM.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/PacDID-Vanuatu.jpg
 permalink: updates/2016-07-21_hot_launches_new_pacdid_drone_imagery_project
 title: HOT Launches New PacDID Drone Imagery Project
 created: 1469063377

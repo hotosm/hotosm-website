@@ -4,7 +4,7 @@ date: '2016-08-15 18:32:35 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Fiji-Meeting.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Fiji-Island.jpg
 permalink: updates/2016-08-15_improving_resilience_with_aerial_imagery
 title: Improving Resilience with Aerial Imagery
 created: 1471285955

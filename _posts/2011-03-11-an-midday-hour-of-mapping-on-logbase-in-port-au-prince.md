@@ -3,7 +3,7 @@ Person: Mikel Maron
 date: '2011-03-11 05:40:54 Z'
 Working Group: []
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/5515709460_328d7096b5.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/5515425818_92a2363b57.jpg
 permalink: updates/2011-03-11_an_midday_hour_of_mapping_on_logbase_in_port_au_prince
 title: An Midday Hour of Mapping on LogBase in Port au Prince
 created: 1299822054

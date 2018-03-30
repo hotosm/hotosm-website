@@ -13,7 +13,7 @@ Person: Mikel Maron
 date: '2012-10-22 16:21:49 Z'
 Working Group: []
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Gulu+Fire+Risk.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2012-09-03+11.47.37+HDR_0.jpg
 permalink: updates/2012-10-22_update_from_the_red_cross_on_gulu_and_lira
 title: Update from the Red Cross on Gulu and Lira
 created: 1350922909

@@ -6,7 +6,7 @@ Person: Will Skora
 date: '2012-06-24 18:58:44 Z'
 Working Group: []
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCN0006.JPG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCN0003.JPG
 permalink: updates/2012-06-24_hot's_first_days_in_senegal_
 title: HOT's first days in Senegal
 created: 1340564324

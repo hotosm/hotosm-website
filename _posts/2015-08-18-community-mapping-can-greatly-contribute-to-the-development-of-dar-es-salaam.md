@@ -9,7 +9,7 @@ date: '2015-08-18 10:52:28 Z'
 Working Group: []
 Projects:
 - Dar Ramani Huria - Dar Open Map
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/19249673496_ecae21b16b_z.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Monday-Anthony.jpg
 permalink: updates/2015-08-18_community_mapping_can_greatly_contribute_to_the_development_of_dar_es_salaam
 title: Community Mapping can greatly contribute to the development of Dar es Salaam
 created: 1439895148

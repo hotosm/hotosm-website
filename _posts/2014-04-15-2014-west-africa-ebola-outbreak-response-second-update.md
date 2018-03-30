@@ -4,7 +4,7 @@ date: '2014-04-15 09:59:48 Z'
 Working Group: []
 Projects:
 - West Africa Ebola Epidemic
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/croix-rouge-guinee-conakry-afp.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/macenta-guinea.png
 permalink: updates/2014-04-15_2014_west_africa_ebola_outbreak_response_second_update
 title: 2014 West Africa Ebola Outbreak Response, Second update
 created: 1397555988

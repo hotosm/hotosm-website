@@ -3,7 +3,7 @@ date: '2013-01-31 00:41:37 Z'
 Working Group: []
 Projects:
 - Senegal
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image4.JPG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image1.JPG
 permalink: updates/2013-01-31_the_openstreetmap_senegal_(osm_sn)_community_is_expanding_to_the_region_of_casam
 title: The Openstreetmap_Senegal (OSM_SN) community is expanding to the region of
   Casamance in Senegal

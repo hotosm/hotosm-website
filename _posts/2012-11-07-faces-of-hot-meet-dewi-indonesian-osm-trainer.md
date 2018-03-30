@@ -9,7 +9,7 @@ date: '2012-11-07 09:19:49 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/dewi_0.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/dewi2_0.jpg
 permalink: updates/2012-11-07_faces_of_hot__meet_dewi_indonesian_osm_trainer
 title: 'Faces of HOT:  Meet Dewi, Indonesian OSM Trainer'
 created: 1352279989

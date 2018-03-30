@@ -9,7 +9,7 @@ date: '2015-09-14 23:31:49 Z'
 Working Group: []
 Projects:
 - Dar Ramani Huria - Dar Open Map
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/W28yKUavxvx_LdAX02ighQhYVRx5y0r1BHRDgr4rAsOoTJfDw2XFMyU9zTdvA2Mqqt5J3y.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/rtDjzoSk_pdaHJIptNLqGBrek22PC8KQ-DROyGI9sAFbJB4j-rjaYm8Xz0Ppf1xF_Kxrq3qm4s.jpg
 permalink: updates/2015-09-14_ramani_huria_at_the_africa_open_data_conference
 title: Ramani Huria at the Africa Open Data Conference
 created: 1442273509

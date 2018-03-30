@@ -5,8 +5,8 @@ Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen%20Shot%202018-01-17%20at%2011.16.24.png
-permalink: updates/2018-01-17_funds_for_community_led_projects_to_improve_resilience_to_disasters_and_crises
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2018-01-17+at+11.16.24.png
+permalink: updates/2018-01-17_funds_for_community-led_projects_to_improve_resilience_to_disasters_and_crises_t
 title: 'Funds for community-led projects to improve resilience to disasters and crises:
   the 2018 HOT Microgrants program'
 created: 1516205301

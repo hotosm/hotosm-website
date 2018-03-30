@@ -13,7 +13,7 @@ Projects:
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
   Project in Indonesia"
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2016-07-30+at+11.24.24.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/inaware-jakarta-workshop.jpg
 permalink: updates/2016-07-30_kickoff_of_hot's_participation_with_the_inaware_programme
 title: Kickoff of HOT's Participation with the InAWARE Programme
 created: 1469850918

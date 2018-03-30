@@ -4,7 +4,7 @@ date: '2016-05-17 21:34:51 Z'
 Working Group: []
 Projects:
 - HOT Summit 2016
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/MAPS.ME_logo.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/HOT+Summit+2015.jpg
 permalink: updates/2016-05-17_hot_summit_2016_-_registration_open
 title: HOT SUMMIT 2016 - Registration Open
 created: 1463520891

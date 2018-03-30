@@ -3,7 +3,7 @@ Person: Iván Sánchez Ortega
 date: '2010-11-17 18:17:41 Z'
 Working Group: []
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/vuelo_americano.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/mozambique_visado.jpg
 permalink: updates/2010-11-17_maps_for_mozambique
 title: Maps for Mozambique
 created: 1290017861

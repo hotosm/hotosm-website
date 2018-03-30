@@ -12,7 +12,7 @@ date: '2013-01-15 23:12:47 Z'
 Working Group: []
 Projects:
 - Senegal
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_1192.JPG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/069_1.JPG
 permalink: updates/2013-01-15_animating_the_osm_senegal_community
 title: Animating the OSM Senegal Community
 created: 1358291567

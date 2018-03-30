@@ -5,7 +5,7 @@ Working Group:
 - Communications
 Projects:
 - Women and Girls in Mapping
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-03-07+at+14.46.05.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-03-06+at+21.58.01.png
 permalink: updates/2017-03-07_this_international_women’s_day_show_your_support_by_mapping
 title: This International Women’s Day, show your support by mapping
 created: 1488854820

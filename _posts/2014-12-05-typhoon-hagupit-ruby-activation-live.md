@@ -4,7 +4,7 @@ date: '2014-12-05 12:04:23 Z'
 Working Group:
 - Community
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/HOT+edits+for+Hagupit+(ruby)+Dec.+5.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Umap+of+Imagery+(Hagupit).jpg
 permalink: updates/2014-12-05_typhoon_hagupit_(ruby)_activation_live
 title: Typhoon Hagupit (Ruby) Activation Live
 created: 1417781063

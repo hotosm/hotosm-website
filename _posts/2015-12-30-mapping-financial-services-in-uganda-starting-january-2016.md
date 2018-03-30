@@ -20,7 +20,7 @@ date: '2015-12-30 15:11:52 Z'
 Working Group: []
 Projects:
 - Mapping Financial Inclusion in Uganda
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/world-poverty-since-1820-simplified_colorcorrected-4.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20151215_184503.jpg
 permalink: updates/2015-12-30_mapping_financial_services_in_uganda_-_starting_january_2016!
 title: Mapping Financial Services in Uganda - starting January 2016!
 created: 1451488312

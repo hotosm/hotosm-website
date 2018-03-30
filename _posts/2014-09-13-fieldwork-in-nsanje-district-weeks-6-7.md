@@ -5,7 +5,7 @@ Working Group:
 - Training
 Projects:
 - Malawi Flood Preparedness
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screenshot_091414_054301_AM.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC_0306.JPG
 permalink: updates/2014-09-13_fieldwork_in_nsanje_district_(weeks_6_-_7)
 title: Fieldwork in Nsanje District (Weeks 6 - 7)
 created: 1410648856

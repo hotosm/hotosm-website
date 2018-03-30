@@ -7,7 +7,7 @@ Projects:
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
   Project in Indonesia"
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-09-07+at+1.34.33+PM.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Bukit+Duri+Evacuation+(resized).png
 permalink: updates/2017-09-07_mapping_administrative_boundaries_and_evacuation_routes_for_the_pacific_disaster
 title: Mapping Administrative Boundaries and Evacuation Routes for the Pacific Disaster
   Center and BNPB's InAWARE Project

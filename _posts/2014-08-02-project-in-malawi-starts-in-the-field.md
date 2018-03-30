@@ -4,7 +4,7 @@ date: '2014-08-02 12:07:09 Z'
 Working Group: []
 Projects:
 - Malawi Flood Preparedness
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/P1040707_50%.JPG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/P1040705_50%.JPG
 permalink: updates/2014-08-02_project_in_malawi_starts_in_the_field!
 title: Project in Malawi starts in the field!
 created: 1406981229

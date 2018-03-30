@@ -4,7 +4,7 @@ date: '2014-04-18 15:29:30 Z'
 Working Group:
 - Activation
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Pasted_Image_4_18_14__3_51_PM.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/blog_image.png
 permalink: updates/2014-04-18_when_birds_of_a_feather_map_together
 title: When Birds of a Feather Map Together
 created: 1397834970

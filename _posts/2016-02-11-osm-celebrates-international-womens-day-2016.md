@@ -4,7 +4,7 @@ date: '2016-02-11 16:08:13 Z'
 Working Group:
 - Communications
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Women+Field+Papers.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Girl+Scouts+mapping++(1).jpg
 permalink: updates/2016-02-11_osm_celebrates_international_women's_day_2016
 title: OSM Celebrates International Women's Day 2016
 created: 1455206893

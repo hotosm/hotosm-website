@@ -4,7 +4,7 @@ date: '2014-08-28 23:36:30 Z'
 Working Group: []
 Projects:
 - Malawi Flood Preparedness
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image00.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screenshot+from+2014-08-29+07:26:24.png
 permalink: updates/2014-08-28_fieldwork_begins_in_the_lower_shire_(week_4)
 title: Fieldwork begins in the Lower Shire (Week 4)
 created: 1409268990

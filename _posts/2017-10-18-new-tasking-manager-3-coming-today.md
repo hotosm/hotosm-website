@@ -9,7 +9,7 @@ date: '2017-10-18 07:18:29 Z'
 Working Group: []
 Projects:
 - Tasking Manager
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017-09-05_20h56_50.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017-09-05_20h51_07.png
 permalink: updates/2017-10-18_new_tasking_manager_3_coming_today!
 title: New Tasking Manager 3 Coming Today!
 created: 1508311109

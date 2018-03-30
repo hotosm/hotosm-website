@@ -10,7 +10,7 @@ Person: Tyler Radford
 date: '2016-08-23 15:37:12 Z'
 Working Group: []
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/top_banner_main_l.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_7609.JPG
 permalink: updates/2016-08-23_hot_joins_the_group_on_earth_observations
 title: HOT Joins the Group on Earth Observations
 created: 1471966632

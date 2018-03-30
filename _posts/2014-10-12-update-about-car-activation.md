@@ -5,7 +5,7 @@ Working Group:
 - Activation
 Projects:
 - Central African Republic Activation
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/CAR_TMjob_253.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/uMap_CAR_Activation_20141011.png
 permalink: updates/2014-10-12_update_about_car_activation
 title: Update about CAR Activation
 created: 1413078084

@@ -10,7 +10,7 @@ date: '2016-05-10 18:58:07 Z'
 Working Group:
 - Training
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/kyrgyz-map-compare-2.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/kyrgyz8.jpg
 permalink: updates/2016-05-10_mapping_the_tien_shan_mountains
 title: Mapping the Tien Shan mountains
 created: 1462906687

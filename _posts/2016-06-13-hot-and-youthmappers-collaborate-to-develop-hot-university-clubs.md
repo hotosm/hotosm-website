@@ -8,7 +8,7 @@ Person: Cheryl Shaw
 date: '2016-06-13 20:49:09 Z'
 Working Group: []
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Hot_logo_with_text_rgb+(1).png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/6dd283_fd5593dd0aa6412fb57cd6877e9a0065.png
 permalink: updates/2016-06-13_hot_and_youthmappers_collaborate_to_develop_hot_university_clubs
 title: HOT and YouthMappers Collaborate to Develop HOT University Clubs
 created: 1465850949

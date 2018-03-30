@@ -3,7 +3,7 @@ Person: Dane Springmeyer
 date: '2010-06-03 05:26:27 Z'
 Working Group: []
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/4612488660_2544643673.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/4630644202_2c57b16e0c.jpg
 permalink: updates/2010-06-03_mission_2_report_on_field_trips_to_jacmel_and_leogane
 title: 'Mission 2: report on field trips to Jacmel and Leogane'
 created: 1275542787

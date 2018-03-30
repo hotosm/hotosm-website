@@ -4,7 +4,7 @@ date: '2017-08-03 02:31:49 Z'
 Working Group: []
 Projects:
 - Microgrants and Community Development
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/settin+up+phones2.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Youthmappers.jpg
 permalink: updates/2017-08-03_crowd2map_tanzania_putting_rural_tanzania_on_the_map_with_the_help_of_a_hot_micr
 title: 'Crowd2Map Tanzania: putting rural Tanzania on the map with the help of a HOT
   Microgrant'

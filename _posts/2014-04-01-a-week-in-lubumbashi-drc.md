@@ -3,7 +3,7 @@ Person: Jorieke Vyncke
 date: '2014-04-01 21:58:56 Z'
 Working Group: []
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20140320_105752.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC02921.JPG
 permalink: updates/2014-04-01_a_week_in_lubumbashi_(drc)
 title: A week in Lubumbashi (DRC)
 created: 1396389536

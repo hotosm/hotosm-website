@@ -21,7 +21,7 @@ La présente crise humanitaire est suite à des décennies de combats dans la r�
 <em>Personne contact en RDC : Claire Halleux</em>
 
 <div style='text-align:center;position:relative;margin:auto;'>
-<img src='http://hot.openstreetmap.orghttps://s3.amazonaws.com/hotwww/files/old/unhcr-p-taggart-forced-displacement-4ad5d6fc9.jpg' title='Photo : The Challenge of Forced Displacement in Africa,  UNHCR / P. Taggart' style='position:relative;margin:auto;'/><a href='http://www.unhcr.org/pages/4ad6d6f31c8.html'>Photo : UNHCR / P. Taggart</a>
+<img src='http://hot.openstreetmap.org/sites/default/files/imagecache/update_content/unhcr-p-taggart-forced-displacement-4ad5d6fc9.jpg' title='Photo : The Challenge of Forced Displacement in Africa,  UNHCR / P. Taggart' style='position:relative;margin:auto;'/><a href='http://www.unhcr.org/pages/4ad6d6f31c8.html'>Photo : UNHCR / P. Taggart</a>
 <br/></div>
 Il ya 31 camps dans la région avec plus de 100.000 réfugiés dispersés sur cet immense territoire. Les camps de réfugiés sont répartis autour du lac Kivu, à l'ouest du lac et aussi loin que 150 km au nord du Lac Kivu. Les combats récents et les violences contre les civils ont provoqué de nouveaux déplacements de population. Dans ce contexte, il est difficile d'évaluer la situation.
 

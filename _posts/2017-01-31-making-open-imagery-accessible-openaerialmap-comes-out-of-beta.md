@@ -4,7 +4,7 @@ date: '2017-01-31 13:33:57 Z'
 Working Group: []
 Projects:
 - OpenAerialMap
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/oam-tms-dropdown.gif
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/oam-malawi.jpg
 permalink: updates/2017-01-31_making_open_imagery_accessible_openaerialmap_comes_out_of_beta
 title: 'Making open imagery accessible: OpenAerialMap comes out of beta'
 created: 1485869637

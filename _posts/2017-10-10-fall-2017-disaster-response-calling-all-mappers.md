@@ -6,7 +6,7 @@ Working Group:
 - Activation
 Projects:
 - Fall 2017 Disaster Response
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/map.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/MexicoEarthquakes.PNG
 permalink: updates/2017-10-10_fall_2017_disaster_response_calling_all_mappers!
 title: 'Fall 2017 Disaster Response: Calling All Mappers!'
 created: 1507660108

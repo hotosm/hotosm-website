@@ -6,7 +6,7 @@ Working Group:
 Projects:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20171114_113048.jpg
-permalink: updates/2018-01-18_nethope_device_challenge_providing_devices_and_training_to_12_osm_communities
+permalink: updates/2018-01-18_nethope_device_challenge_providing_devices_and_training_to_12_osm_communities_-_
 title: 'Nethope Device Challenge: providing devices and training to 12 OSM communities
   - update!'
 created: 1516261094

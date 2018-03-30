@@ -9,7 +9,7 @@ date: '2012-01-28 18:48:19 Z'
 Working Group: []
 Projects:
 - 'Haiti '
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC00316_1.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC00313_0.jpg
 permalink: updates/2012-01-28_setting_up_in_saint_marc_haiti
 title: Setting Up in Saint Marc, Haiti
 created: 1327776499

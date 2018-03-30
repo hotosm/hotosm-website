@@ -4,7 +4,7 @@ date: '2015-03-06 17:55:39 Z'
 Working Group:
 - Fundraising
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Taller+de+Mapeo+Humanitario06.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Taller+de+Mapeo+Humanitario01.jpg
 permalink: updates/2015-03-06_taller_de_mapeo_humanitario_–_isla_de_león_colombia
 title: Taller de Mapeo Humanitario – Isla de León, Colombia
 created: 1425664539

@@ -12,7 +12,7 @@ date: '2012-12-07 04:52:39 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_022.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/inter.jpg
 permalink: updates/2012-12-07_intermediate_trainings_begin
 title: Intermediate Trainings Begin
 created: 1354855959

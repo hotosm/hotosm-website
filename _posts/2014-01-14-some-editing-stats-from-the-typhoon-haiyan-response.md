@@ -4,7 +4,7 @@ date: '2014-01-14 11:12:16 Z'
 Working Group: []
 Projects:
 - Typhoon Haiyan
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/haiyan-new-users-graph.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/haiyan-editing-graph.png
 permalink: updates/2014-01-14_some_editing_stats_from_the_typhoon_haiyan_response
 title: Some editing stats from the Typhoon Haiyan response
 created: 1389697936

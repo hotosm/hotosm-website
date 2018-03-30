@@ -16,7 +16,7 @@ date: '2014-08-06 01:12:08 Z'
 Working Group: []
 Projects:
 - West Africa Ebola Epidemic
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/ebola-objects-2014-05-25-2014-08-02.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/umap-tasks-2014-08-01.jpg
 permalink: updates/2014-08-06_reactivation_of_hot_for_the_ebola_epidemic_second_update
 title: Reactivation of HOT for the Ebola epidemic, Second update
 created: 1407287528

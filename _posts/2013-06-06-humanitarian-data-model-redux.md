@@ -6,7 +6,7 @@ Working Group:
 - Activation
 Projects:
 - 'Haiti '
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/loonapix_13708940622944072703.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/600185_10200894765605830_1568258984_n.jpg
 permalink: updates/2013-06-06_humanitarian_data_model_-_redux
 title: Humanitarian Data Model - REDUX
 created: 1370554965

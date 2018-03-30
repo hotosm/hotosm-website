@@ -13,7 +13,7 @@ date: '2012-04-29 20:09:12 Z'
 Working Group: []
 Projects:
 - 'Haiti '
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG036_0.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG013_0.jpg
 permalink: updates/2012-04-29_graduation_for_stm020
 title: Graduation for STM020
 created: 1335730152

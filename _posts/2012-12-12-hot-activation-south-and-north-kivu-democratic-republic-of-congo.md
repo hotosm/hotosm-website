@@ -21,7 +21,7 @@ The current humanitarian crisis follows decades of combats in the region. These 
 <em>Contact in RDC : Claire Halleux</em>
 
 <div style='text-align:center;position:relative;margin:auto;'>
-<img src='http://hot.openstreetmap.orghttps://s3.amazonaws.com/hotwww/files/old/unhcr-p-taggart-forced-displacement-4ad5d6fc9.jpg' title='Photo : The Challenge of Forced Displacement in Africa,  UNHCR / P. Taggart' style='position:relative;margin:auto;'/><a href='http://www.unhcr.org/pages/4ad6d6f31c8.html'>Photo : UNHCR / P. Taggart</a>
+<img src='http://hot.openstreetmap.org/sites/default/files/imagecache/update_content/unhcr-p-taggart-forced-displacement-4ad5d6fc9.jpg' title='Photo : The Challenge of Forced Displacement in Africa,  UNHCR / P. Taggart' style='position:relative;margin:auto;'/><a href='http://www.unhcr.org/pages/4ad6d6f31c8.html'>Photo : UNHCR / P. Taggart</a>
 <br/></div>
 
 There are 31 camps in the region with more then 100,000 refugees dispersed in this immense territory. Refugee camps are spread around Lac Kivu, west of the lake and as far as 150 km north of Lac Kivu. Recent fights and violences against civilians provoked new displacement of populations which make difficult to evaluate the situation.

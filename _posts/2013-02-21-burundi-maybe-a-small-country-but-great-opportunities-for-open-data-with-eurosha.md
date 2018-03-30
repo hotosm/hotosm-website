@@ -14,7 +14,7 @@ date: '2013-02-21 21:59:32 Z'
 Working Group: []
 Projects:
 - EUROSHA
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Burundi2+096+800x600.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC_0231+800x600.jpg
 permalink: updates/2013-02-21_burundi_maybe_a_small_country_but_great_opportunities_for_open_data_with_eurosha
 title: 'Burundi: maybe a small country, but great opportunities for open data with
   Eurosha'

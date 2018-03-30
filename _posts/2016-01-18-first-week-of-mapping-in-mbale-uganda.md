@@ -4,7 +4,7 @@ date: '2016-01-18 13:09:43 Z'
 Working Group: []
 Projects:
 - Mapping Financial Inclusion in Uganda
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screenshot_2016-01-18-14-40-00.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20160115_105334.jpg
 permalink: updates/2016-01-18_first_week_of_mapping_in_mbale_uganda
 title: First week of mapping in Mbale, Uganda
 created: 1453122583

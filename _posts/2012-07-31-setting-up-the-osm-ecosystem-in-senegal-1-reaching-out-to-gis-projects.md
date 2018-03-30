@@ -4,7 +4,7 @@ date: '2012-07-31 13:18:20 Z'
 Working Group: []
 Projects:
 - Senegal
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image002_0.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image001_0.jpg
 permalink: updates/2012-07-31_setting_up_the_osm_ecosystem_in_senegal_1_reaching_out_to_gis_projects
 title: 'Setting up the OSM ecosystem in Senegal 1: Reaching out to GIS projects'
 created: 1343740700

@@ -4,7 +4,7 @@ date: '2018-01-31 21:27:03 Z'
 Working Group:
 - Fundraising
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/wordcloud+(1).jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Campaign+Header+1.jpg
 permalink: updates/2018-01-31_thanks_to_you_we're_mapping_the_difference_for_disasters_in_2018!
 title: Thanks to you we're mapping the difference for disasters in 2018!
 created: 1517434023

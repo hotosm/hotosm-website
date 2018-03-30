@@ -10,7 +10,7 @@ date: '2012-03-30 05:37:35 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/mapping_jakarta.JPG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/mapping_bima.jpg
 permalink: updates/2012-03-30_finishing_up_in_indonesiafor_the_moment
 title: Finishing Up in Indonesia...for the Moment
 created: 1333085855

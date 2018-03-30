@@ -3,7 +3,7 @@ Person: Rebecca Firth
 date: '2017-01-27 11:03:21 Z'
 Working Group: []
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_7721.PNG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-01-27+at+14.35.39.png
 permalink: updates/2017-01-27_recap_of_the_un_world_data_forum_using_openstreetmap_for_the_sustainable_develop
 title: 'Recap of the UN World Data Forum: using OpenStreetMap for the Sustainable
   Development Goals'

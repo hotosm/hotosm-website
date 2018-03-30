@@ -9,7 +9,7 @@ date: '2013-01-09 11:46:22 Z'
 Working Group: []
 Projects:
 - Senegal
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/003.JPG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/001.JPG
 permalink: updates/2013-01-09_back_to_senegal_further_creating_a_mapping_community
 title: Back to Senegal, Further Creating a Mapping Community
 created: 1357731982

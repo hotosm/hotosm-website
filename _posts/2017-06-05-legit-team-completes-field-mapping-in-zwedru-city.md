@@ -4,7 +4,7 @@ date: '2017-06-05 15:26:09 Z'
 Working Group: []
 Projects:
 - 'LEGIT: Supporting decentralization in Liberian cities'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Zwedru_blog23.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Boundary_comparison_1.png
 permalink: updates/2017-06-05_legit_team_completes_field_mapping_in_zwedru_city
 title: LEGIT Team Completes Field Mapping in Zwedru City
 created: 1496676369

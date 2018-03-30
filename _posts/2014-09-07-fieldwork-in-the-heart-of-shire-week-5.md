@@ -5,7 +5,7 @@ Working Group:
 - Training
 Projects:
 - Malawi Flood Preparedness
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/286.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20140828_115856119.jpg
 permalink: updates/2014-09-07_fieldwork_in_the_heart_of_shire_(week_5)
 title: Fieldwork in the heart of Shire (Week 5)
 created: 1410133183

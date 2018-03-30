@@ -4,7 +4,7 @@ date: '2014-06-18 05:00:09 Z'
 Working Group:
 - Training
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/10360416_10152479516531101_7083862202147387748_n.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/10415727_10152452028951101_6542834491982019276_n-2.jpg
 permalink: updates/2014-06-18_openstreetmap_training_of_trainers_in_the_philippines
 title: OpenStreetMap Training of Trainers in the Philippines
 created: 1403067609

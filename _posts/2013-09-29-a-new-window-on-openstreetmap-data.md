@@ -3,7 +3,7 @@ Person: Yohan Boniface
 date: '2013-09-29 13:52:06 Z'
 Working Group: []
 Projects: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/humanitarian-style-water-pump.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/humanitarian-style.png
 permalink: updates/2013-09-29_a_new_window_on_openstreetmap_data
 title: A new window on OpenStreetMap data
 created: 1380462726

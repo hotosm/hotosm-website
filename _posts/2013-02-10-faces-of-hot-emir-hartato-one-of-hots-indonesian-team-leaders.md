@@ -13,7 +13,7 @@ date: '2013-02-10 10:11:51 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/emir.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/emr_0.jpg
 permalink: updates/2013-02-10_faces_of_hot__emir_hartato_one_of_hot´s_indonesian_team_leaders
 title: 'Faces of HOT:  Emir Hartato, one of HOT´s Indonesian team leaders'
 created: 1360491111
