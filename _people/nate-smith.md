@@ -6,7 +6,7 @@ Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/pictu
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Title: Director of Technology
+Job Title: Director of Technology
 Working Group:
 - Fundraising
 - Activation

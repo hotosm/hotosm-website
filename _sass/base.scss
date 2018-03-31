@@ -2775,6 +2775,7 @@ em {
 .person-header-info {
   z-index: 10;
   display: flex;
+  position: relative;
   @media (max-width: $screen-xs) {
     flex-direction: column;
   }
@@ -2813,6 +2814,22 @@ em {
   display: inline-block;
   background: $blue-dark;
   padding: 19px 21px;
+  a {
+    color: $white;
+    &:after {
+      content: '·';
+      display: inline-block;
+      opacity: .85;
+      margin: 0 7px;
+      text-decoration: none;
+    }
+    &:last-of-type {
+      &:after {
+        content: '';
+        margin: 0;
+      }
+    }
+  }
   @media (max-width: $screen-xs) {
     font-size: .875rem;
     padding: 13px 15px;

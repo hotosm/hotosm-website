@@ -19,7 +19,7 @@ Social Media (Full URL):
   Twitter: https://twitter.com/PaulUithol
 Member Type:
   Is Staff: true
-Title: Director, Community Programs
+Job Title: Director, Community Programs
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-310-1442272442.jpg
 ---
 
