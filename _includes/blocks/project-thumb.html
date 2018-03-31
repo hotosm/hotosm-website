@@ -6,11 +6,13 @@
 
       <h3>{{ project.title }}</h3>
 
-      {% if project['HOT Involvement'] %}
-        <p class="project-involvement">
-          {{ project['HOT Involvement'] }}
-        </p>
-      {% endif %}
+      <p class="project-involvement">
+        {% if project['Is Community-Led'] %}
+          Community-Led
+        {% else %}
+          HOT Program
+        {% endif %}
+      </p>
 
       {% if project.Country[0] != '' %}
         <p class="project-countries">

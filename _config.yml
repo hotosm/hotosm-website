@@ -61,7 +61,7 @@ defaults:
       Is Staff:
       Is Voting Member:
       Is Board Member:
-    Job Title: 
+    Job Title:
     Working Group:
     - ''
     Project:
@@ -114,7 +114,7 @@ defaults:
     layout: project-item
     Project Summary Text:
     Feature Image:
-    HOT Involvement:
+    Is Community-Led:
     Country:
     - ''
     Impact Area:
