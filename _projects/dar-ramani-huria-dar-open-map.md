@@ -1,10 +1,9 @@
 ---
-title: Dar Ramani Huria - Dar Open Map
+title: Dar Ramani Huria — Dar Open Map
 date: 2015-02-07 04:47:00 Z
 permalink: dar_ramani_huria_dar_open_map
 position: 0
 Feature Image: "/uploads/17461400118_a8ffb298ff_o.jpg"
-HOT Involvement: Community Development
 Country:
 - Tanzania
 Impact Area:
@@ -21,6 +20,7 @@ Person:
 Partner: The World Bank
 Duration:
   Start Date: 2015-04-01 00:00:00 Z
+HOT Involvement: Community Development
 Link: http://ramanihuria.org/
 Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
 created: 1423284460
