@@ -2,21 +2,32 @@
 layout: default
 ---
 
-<div class="page container">
+<div class="donate container">
 
   <header class="page-header">
-    <h1>{{ page.title }}</h1>
-    <div class="hr-h"></div>
+    <h1 class="secondary-h1">{{ page.title }}</h1>
+    <div class="hr-h donate-hr"></div>
   </header>
 
   <div class="donate-body">
-    <div class="donate-meta article">
-      <iframe src="https://www.youtube.com/embed/8wdzGKmZu-k" frameborder="0" width="100%" height="338"></iframe>
-      {{ content }}
-    </div>
-    <div class="page-content">
+
+    <div class="donate-form">
       {% include donate-form.html %}
     </div>
+
+    <div class="donate-content">
+      <div class="donate-video">
+        <iframe src="https://www.youtube.com/embed/8wdzGKmZu-k" frameborder="0" width="100%" height="240"></iframe>
+      </div>
+      {{ content }}
+      <div class="donate-sidebar sticky-wrap">
+        <h4>Prefer other options?</h4>
+        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8VBN9QHNVKVS6" class="btn btn-primary btn-block btn-chevron">Donate through Paypal</a>
+        <a href="https://venmo.com/hotosm" class="btn btn-primary btn-block btn-chevron">Contribute with Venmo</a>
+        <p>To donate via wire transfer, please email <a href="mailto:donations@hotosm.org" target="_blank">donations@hotosm.org</a>. To donate via mailing a check, please use <a href="/sites/default/files/Donation%20Form-%20Mailing%20_0.pdf">the paper form</a>.</p>
+      </div>
+    </div>
+
   </div>
 
 </div>

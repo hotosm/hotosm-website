@@ -55,6 +55,21 @@ h1, h2 {
       margin-right: 16px;
     }
   }
+  &.secondary-h1 {
+    text-transform: none;
+    font-size: 3rem;
+    font-family: $font-default;
+    font-weight: normal;
+    color: $blue-dark;
+    letter-spacing: 0;
+    line-height: 1.35;
+    @media (max-width: $screen-sm) {
+      font-size: 2.5rem;
+    }
+    @media (max-width: $screen-xs) {
+      font-size: 2rem;
+    }
+  }
 }
 
 h2 {
@@ -3496,10 +3511,65 @@ em {
 ////////////////////////////////////////////////
 
 
+.donate {
+  .donate-hr {
+    margin-top: 16px;
+    margin-bottom: 24px;
+  }
+}
+
 .donate-body {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 24px;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 0 24px;
+  margin-bottom: 48px;
+  @media (min-width: $screen-sm) {
+    grid-template-columns: repeat(12, 1fr);
+  }
+}
+
+.donate-form {
+  @media (min-width: $screen-sm) {
+    grid-column: 1 / 9;
+    grid-row: 1 / -1;
+    padding-right: 24px;
+    border-right: 1px solid $border-color;
+  }
+  @media (max-width: $screen-sm) {
+    margin-bottom: 24px;
+  }
+  .donate-form-wrapper {
+    padding: 24px 24px 0;
+    background-color: tint($grey-light, 75%);
+    max-width: 100%;
+    @media (min-width: $screen-sm) {
+      padding: 48px 48px 0;
+    }
+  }
+}
+
+.donate-content {
+  p {
+    margin-bottom: 16px;
+  }
+  @media (min-width: $screen-sm) {
+    grid-column: 9 / -1;
+    grid-row: 1 / -1;
+  }
+}
+
+.donate-video {
+  margin-bottom: 20px;
+}
+
+.donate-sidebar {
+  top: 48px;
+  border-top: 1px solid $border-color;
+  padding-top: 24px;
+  margin-top: 24px;
+  .btn {
+    margin-bottom: 8px;
+  }
 }
 
 
