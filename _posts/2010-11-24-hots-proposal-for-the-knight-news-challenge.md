@@ -1,11 +1,10 @@
 ---
-title: HOT's Proposal for the Knight News Challenge
-date: 2010-11-24 11:08:58 Z
-permalink: updates/2010-11-24_hot's_proposal_for_the_knight_news_challenge
 Person: Kate Chapman
+date: '2010-11-24 11:08:58 Z'
 Working Group: []
 Projects: []
+permalink: updates/2010-11-24_hot's_proposal_for_the_knight_news_challenge
+title: HOT's Proposal for the Knight News Challenge
 created: 1290596938
 ---
-
 <p>Since March HOT has been holding trainings in Haiti on how to contribute to OpenStreetMap. We've travel to many of the earthquake effected areas such as Port-au-Prince, Jacmel, LÃ©ogÃ¢ne, Carrefour and PÃ©tionville. As well as traveling to GonaÃ¯ves, which while not effected by the earthquake has been effected by flooding and the cholera epidemic. One of the successes has been teaching GPS data collection and editing within the Java OpenStreetMap editor. We have not had as much success helping people make maps from the data they have created. In OpenStreetMap this is often the case for many people. If you have an expensive smart phone or a GPS unit there are plenty of ways to use the data. If you have a phone just capable of SMS and calls there are not as many ways to utilize it. There are various projects for printing maps, but they are not as flexible as they could be. Usually designed for a specific project such as printing street maps for example. HOT is hoping to change this by making a proposal to the <a href="http://www.newschallenge.org/">Knight News Challenge</a>. The challenge is a grant program that occurs yearly and supports "innovative ideas that develop platforms, tools and services to inform and transform community news, conversations and information distribution and visualization."</p><p>Geography is always part of a story in some way. Being part of the "who, what, where, when" of news how geography is portrayed can greatly change a story. Defining ones own geography and cartography can be key to this sort of thing. When you map your own world you are giving others a glimpse into how you see things. The HOT proposal to the Knight Challenge is to work with the community in CitÃ© Soleil to create easier tools for map printing and cartographic creation.</p><p>Since the greater OpenStreetMap community has been such a part of mapping in Haiti before submission we want to get your feedback. Please <a href="http://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Knight_News_Challenge_Proposal">look at it</a> and let us know what you think.</p>

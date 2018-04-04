@@ -1,7 +1,4 @@
 ---
-title: Starting a HOT Activation in Central African Republic
-date: 2013-04-11 02:24:57 Z
-permalink: updates/2013-04-11_starting_a_hot_activation_in_central_african_republic
 Summary Text: "Bangui, la capitale de la République Centrafricaine, a été prise le
   24 mars par les rebelles de la Séléka, trois mois après leur arrivée depuis les
   contrées septentrionales du pays. Dans la mesure où la situation dans la capitale
@@ -10,13 +7,15 @@ Summary Text: "Bangui, la capitale de la République Centrafricaine, a été pri
   HOT officielle afin de répondre à cette crise. Dans les lignes qui suivent, je fais
   un rapide aperçu d’OSM dans le pays et des besoins à combler. \r\n\r\n"
 Person: Séverin Ménard
+date: '2013-04-11 02:24:57 Z'
 Working Group:
 - Technical
 Projects:
 - Central African Republic Activation
+permalink: updates/2013-04-11_starting_a_hot_activation_in_central_african_republic
+title: Starting a HOT Activation in Central African Republic
 created: 1365647097
 ---
-
 Bangui, la capitale de la République Centrafricaine, a été prise le 24 mars par les rebelles de la Séléka, trois mois après leur arrivée depuis les contrées septentrionales du pays. Dans la mesure où la situation dans la capitale est devenue assez tragique, comme elle l’était déjà depuis quelques temps pour de nombreuses autres villes et villages, il est temps maintenant de démarrer une Activation HOT officielle afin de répondre à cette crise. Dans les lignes qui suivent, je fais un rapide aperçu d’OSM dans le pays et des besoins à combler. 
  
 

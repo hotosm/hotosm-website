@@ -1,7 +1,4 @@
 ---
-title: Hottie Humberto Yances presents the La Boquilla Project
-date: 2013-04-24 20:00:54 Z
-permalink: updates/2013-04-24_hottie_humberto_yances_presents_the_la_boquilla_project
 Summary Text: "Humberto Yances has written up his <a href=\"http://www.openstreetmap.org/user/Humberto_Yances/diary/19065\">wonderful
   OSM community work in La Boquilla</a>, and HOT wants to share great work by HOT
   members (<b><i>note, this is not a formal HOT project</i></b>). From an idea, to
@@ -9,11 +6,13 @@ Summary Text: "Humberto Yances has written up his <a href=\"http://www.openstree
   what can happen with an open, networked, community based approach. \r\n\r\n[inline:equipo.jpg]\r\n\r\nFrom
   these evocative beginnings ...\r\n\r\n"
 Person: Mikel Maron
+date: '2013-04-24 20:00:54 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-04-24_hottie_humberto_yances_presents_the_la_boquilla_project
+title: Hottie Humberto Yances presents the La Boquilla Project
 created: 1366833654
 ---
-
 Humberto Yances has written up his <a href="http://www.openstreetmap.org/user/Humberto_Yances/diary/19065">wonderful OSM community work in La Boquilla</a>, and HOT wants to share great work by HOT members (<b><i>note, this is not a formal HOT project</i></b>). From an idea, to engagement, to mapping, to distribution, to use, La Boquilla clearly demonstrates what can happen with an open, networked, community based approach. 
 
 [inline:equipo.jpg]

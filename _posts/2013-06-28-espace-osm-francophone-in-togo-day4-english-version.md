@@ -1,7 +1,4 @@
 ---
-title: Espace OSM Francophone in Togo Day+4 - English version
-date: 2013-06-28 23:55:53 Z
-permalink: updates/2013-06-28_espace_osm_francophone_in_togo_day+4_-_english_version
 Summary Text: "The fourth day of this set up mission of the project Espace OSM Francophone
   in Togo is coming to its end.\r\n\r\nWith the support of the Direction de la Francophonie
   Numérique (OIF-DFN) from Organisation Internationale de la Francophonie, members
@@ -9,11 +6,13 @@ Summary Text: "The fourth day of this set up mission of the project Espace OSM F
   Sénégal deployed with me under the banner of HOT, we have been working to set up
   the OSM project in this country of Western Africa\r\n\r\n"
 Person: Nicolas Chavent
+date: '2013-06-28 23:55:53 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-06-28_espace_osm_francophone_in_togo_day+4_-_english_version
+title: Espace OSM Francophone in Togo Day+4 - English version
 created: 1372463753
 ---
-
 The fourth day of this set up mission of the project Espace OSM Francophone in Togo is coming to its end.
 
 With the support of the Direction de la Francophonie Numérique (OIF-DFN) from Organisation Internationale de la Francophonie, members of the WoeLab Lomé of Africaine d'Architecture, Amadou Ndong of the project OpenStreetMap Sénégal deployed with me under the banner of HOT, we have been working to set up the OSM project in this country of Western Africa

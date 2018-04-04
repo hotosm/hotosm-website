@@ -1,7 +1,4 @@
 ---
-title: Tax-Exempt in the United States at Last!
-date: 2013-03-04 09:40:05 Z
-permalink: updates/2013-03-04_tax-exempt_in_the_united_states_at_last!
 Summary Text: "<h2>Background</h2>\r\n\r\nHOT has been incorporated as a non-profit
   in Washington D.C. since August, 2010. The paperwork was originally done with a
   simple need in mind, that we wanted to continue to assist with the collection of
@@ -11,11 +8,13 @@ Summary Text: "<h2>Background</h2>\r\n\r\nHOT has been incorporated as a non-pro
   week we reached another administrative milestone as a young non-profit incorporated
   in the United States.\r\n\r\n"
 Person: Kate Chapman
+date: '2013-03-04 09:40:05 Z'
 Working Group: []
 Projects: []
+permalink: updates/2013-03-04_tax-exempt_in_the_united_states_at_last!
+title: Tax-Exempt in the United States at Last!
 created: 1362390005
 ---
-
 <h2>Background</h2>
 <p>HOT has been incorporated as a non-profit in Washington D.C. since August, 2010. The paperwork was originally done with a simple need in mind, that we wanted to continue to assist with the collection of data and use of OpenStreetMap in Haiti. Since this initial incorporation we have expanded our field work to include 8 countries in the Caribbean, Africa and Asia. We have also responded remotely to many kinds of disasters around the world. This week we reached another administrative milestone as a young non-profit incorporated in the United States.</p>
 <p>Many people confuse tax-exempt and non-profit status. During the past two and a half years HOT has been a non-profit. What this means is we don't distribute dividends to shareholders. All the money earned by the organization goes back into the organization. <a title="tax image by Harry Wood, on Flickr" href="http://www.flickr.com/photos/harrywood/8527977990/"><img style="float: right; margin: 15px;" src="http://farm9.staticflickr.com/8235/8527977990_6717c14ff6_n.jpg" alt="tax image" height="240" width="320"></a> This is an incorporation status, being tax exempt means that the organization does not have to pay taxes in the country or region where they have obtained such status. In the US this is a status with the Internal Revenue Service (IRS).</p>

@@ -1,15 +1,14 @@
 ---
-title: Nepal earthquake. We have maps
-date: 2015-05-01 01:42:43 Z
-permalink: updates/2015-05-01_nepal_earthquake_we_have_maps
 Person: Harry Wood
+date: '2015-05-01 01:42:43 Z'
 Working Group:
 - Fundraising
 Projects:
 - Nepal 2015 Earthquake Response
+permalink: updates/2015-05-01_nepal_earthquake_we_have_maps
+title: Nepal earthquake. We have maps
 created: 1430444563
 ---
-
 Since the earthquake struck in Nepal five days ago, 3679 mappers have made 62587 edits to the map (<a href="http://osm.townsendjennings.com/nepal/">latest stats</a>)  It's an amazing groundswell of map editing effort from our global community. We're adding lots of detail to the map, which was <i>already</i> pretty impressive due to the work of the local OpenStreetMap community.
 
 But what happens next? How can aid agencies use the maps we are creating? Well there are many ways, some very simple, some more technical. The OpenStreetMap community has 10 years of experience with access to free and open map data. We've developed all sorts of tools and processes in that time. This is a brain dump of various links you may find useful. Probably for aid agencies the most interesting ideas will be around printing the maps, or loading the maps onto devices to use offline.

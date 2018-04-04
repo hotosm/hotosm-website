@@ -1,11 +1,10 @@
 ---
-title: Activation to Map Libyan Health Facilities
-date: 2011-12-20 00:34:23 Z
-permalink: updates/2011-12-20_activation_to_map_libyan_health_facilities
 Person: Mikel Maron
+date: '2011-12-20 00:34:23 Z'
 Working Group: []
 Projects: []
+permalink: updates/2011-12-20_activation_to_map_libyan_health_facilities
+title: Activation to Map Libyan Health Facilities
 created: 1324341263
 ---
-
 <p>The World Health Organization (WHO) has asked HOT and the Stand By Task Force (SBTF) to activate to map health facilities in in Libya.</p><p>This is not an emergency activation, but still very important. The basic point is to get a final Health Facility Registry GIS layer for Libya, with the location type, status and name of health centers across the country. This helps WHO as the starting point for return and increase of crucial health services in Libya; geographic information is crucial for the Libyan health system to manage its services for benefit of all citizens.</p><p>Volunteers are asked to collect all available information on the net that can be used to create the registry. This Activation will end on January 15. Much of the work will take place in a shared Google Doc to start, with import into OSM after completion. This makes it easier to coordite with SBTF volunteers.</p><p>STEPS:</p><ol><li>Email myself (mikel_maron yahoo com) and request to join the activation. Include your Skype id, if you'd like to join the public Skype chat. I'll respond with links to the spreadsheets we're using.</li><li>Fill out a GForm with your information. You need to fill this form only the first time you start working, you do not need to do this every time.</li><li>Go to the GSpreadsheet and start looking for Health Facilities in Libya. You DO NOT need to fill in all the information if you do not find them: try to add as many info as you can find but do not get crazy if you cannot find one of the requested info. Other volunteers will look for it. The information already contained in the spreadsheet needs to be completed and checked.</li></ol><p>Under the License/Origin column, you will see different data sets with different licenses for any individual point. Some are ok to use with OSM (VRAM_WHO, ICRC), and some are clearly not (gmapmaker). OSM, of course, wants data thats free and open license wise. So as HOT, we can also contribute by finding an open source for places already mapped in un-free sources.</p><p>Otherwise, the task should be clear? We can discuss on the HOT list here, but please do not share the spreadsheets publicly for now.</p>
