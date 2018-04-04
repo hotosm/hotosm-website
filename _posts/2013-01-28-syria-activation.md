@@ -1,4 +1,7 @@
 ---
+title: Syria Activation
+date: 2013-01-28 12:24:44 Z
+permalink: updates/2013-01-28_syria_activation
 Summary Text: "Following a request from UN OCHA and SNAP, HOT is activating a remote
   mapping project in Syria to support humanitarian groups working within the current
   crisis. This post is intended to introduce the project and to appeal for help from
@@ -6,13 +9,11 @@ Summary Text: "Following a request from UN OCHA and SNAP, HOT is activating a re
   and we are hopeful that this activation will allow us to broaden our skills base
   in this area.\r\n"
 Person: Joseph Reeves
-date: '2013-01-28 12:24:44 Z'
 Working Group: []
 Projects: []
-permalink: updates/2013-01-28_syria_activation
-title: Syria Activation
 created: 1359375884
 ---
+
 The activation follows a meeting between HOT, the <a href="http://www.unocha.org/">United Nations Office for the Coordination of Humanitarian Affairs</a> (UN OCHA) and the <a href="http://data.unhcr.org/syrianrefugees/partner.php?OrgId=135">Syria Needs Analysis Project</a> (SNAP Lebanon, a partnership by ACAPS and MapAction, funded by the UK DFID). During this meeting we were asked to contribute towards base mapping, as well as thematic data and the geolocation of existing datasets.
 
 The humanitarian situation in Syria has been widely reported upon: The ongoing conflict has led to close to a million people leaving Syria as refugees and within the country a population estimated to number two million are currently displaced. Reports from Syria describe a bleak situation within which it is a struggle to access daily essentials such as food and fuel. Civilian deaths far outnumber casualties to either Government or opposition fighters. Following this request from UN OCHA and SNAP, HOT is in a position to provide an incredibly valuable resource.

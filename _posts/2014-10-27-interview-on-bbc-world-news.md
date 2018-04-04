@@ -1,14 +1,15 @@
 ---
+title: Interview on BBC World News
+date: 2014-10-27 18:37:52 Z
+permalink: updates/2014-10-27_interview_on_bbc_world_news
 Person: Harry Wood
-date: '2014-10-27 18:37:52 Z'
 Working Group:
 - Fundraising
 Projects:
 - West Africa Ebola Epidemic
-permalink: updates/2014-10-27_interview_on_bbc_world_news
-title: Interview on BBC World News
 created: 1414435072
 ---
+
 Last week we had a television interview, with me appearing alongside Andrew Braye from the British Red Cross, and with Pierre Béland joining us over video link. This was a brief segment about the Humanitarian OpenStreetMap Team on a <a href="http://www.bbc.co.uk/programmes/n3csxd44">show called "Global"</a> on BBC world news.
 
 <iframe src="//player.vimeo.com/video/110162511?title=0&amp;byline=0&amp;portrait=0" style="width:500px;height:281px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/110162511">BBC World News HOT interview</a> from <a href="http://vimeo.com/user1655591">Harry Wood</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

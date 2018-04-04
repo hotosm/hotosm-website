@@ -1,12 +1,13 @@
 ---
+title: London HOT Congo Mapathon
+date: 2014-05-08 08:56:13 Z
+permalink: updates/2014-05-08_london_hot_congo_mapathon
 Person: Harry Wood
-date: '2014-05-08 08:56:13 Z'
 Working Group: []
 Projects: []
-permalink: updates/2014-05-08_london_hot_congo_mapathon
-title: London HOT Congo Mapathon
 created: 1399539373
 ---
+
 What happens when you bring together people from Médecins Sans Frontières‎, with some people who are experienced OpenStreetMappers, and a bunch of people who just want to help humanitarian aid? Well we thought we would give this a try last weekend at an event in London.
 
 <a href="https://www.flickr.com/photos/harrywood/13935193939" title="odikitchen-pano by Harry Wood, on Flickr"><img src="https://farm8.staticflickr.com/7386/13935193939_ee100e719b_z.jpg" style="width:640px;height:236px" alt="odikitchen-pano"></a>

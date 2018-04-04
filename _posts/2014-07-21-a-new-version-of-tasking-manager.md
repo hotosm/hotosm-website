@@ -1,15 +1,16 @@
 ---
+title: A new version of Tasking Manager
+date: 2014-07-21 20:50:03 Z
+permalink: updates/2014-07-21_a_new_version_of_tasking_manager
 Person: Mikel Maron
-date: '2014-07-21 20:50:03 Z'
 Working Group:
 - Training
 Projects:
 - Tasking Manager
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/task_manager_v2_screenshot_CAR_example.png
-permalink: updates/2014-07-21_a_new_version_of_tasking_manager
-title: A new version of Tasking Manager
 created: 1405975803
 ---
+
 Last week we launched a new Version 2 update to the "<a href="http://tasks.hotosm.org">Tasking Manager</a>". This popular tool created by H.O.T.  allows people to view a set of "projects" describing recent humanitarian mapping work, and join in with the mapping by taking a task. It's a coordination tool for the community, and an easy way to for new people to figure out "where should I start?" when it comes to contributing. The new version of this tool is up and running now at the usual home:
 
 <h3><a href="http://tasks.hotosm.org">task.hotosm.org</a></h3>

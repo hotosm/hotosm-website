@@ -1,12 +1,13 @@
 ---
+title: Public/Private Partnership to Map West Nusa Tenggara
+date: 2013-01-03 05:18:00 Z
+permalink: updates/2013-01-03_public/private_partnership_to_map_west_nusa_tenggara
 Person: Kate Chapman
-date: '2013-01-03 05:18:00 Z'
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/ntb_mapping.png
-permalink: updates/2013-01-03_public/private_partnership_to_map_west_nusa_tenggara
-title: Public/Private Partnership to Map West Nusa Tenggara
 created: 1357190280
 ---
+
 <p>In December an exciting partnership agreement was signed in Indonesia which will continue the creation of freely available OpenStreetMap data in the West Nusa Tenggara Province of Indonesia (<a href="http://www.ntbprov.go.id/baca.php?berita=1523">see post from NTB government here</a>). The participants in the E-Mapping Agreement are the <a href="http://bappedantb.go.id/">Provincial Planning Agency (BAPPEDA) of West Nusa Tenggara (NTB)</a>, <a href="http://www.access-indo.or.id/">Australian Community Development and Civil Society Strengthening Scheme (ACCESS) Phase II</a>, PT Bali Seafood, <a href="http://www.giz.de/en/">Deutsche Gesellschaft für Internationale Zusammenarbeit</a> (GIZ) and the <a href="http://www.unram.ac.id/">University of Mataram</a> (UNRAM). The initial goal of this MoU is to collaboratively map 10 districts on the island of Lombok. The agreement was signed at the Lombok Plaza Hotel the first week of December 2012. This map will serve as the foundation of future planning performed by the government and be used to measure progress and successes as well (<a href="http://kmberugakdese.wordpress.com/2012/12/05/kabupatenkota-se-ntb-menandatangani-kesepakatan-e-mapping/">a blog post in Indonesian describes the partnership in further detail here</a>).</p><p>If you have been following HOT's work in Indonesia for a while you recognize ACCESS and GIZ as groups we've assisted through OpenStreetMap workshops. Both organizations participated in a workshop on <a href="http://hot.openstreetmap.org/updates/2012-03-12_creating_sustainable_community_mapping_projects_workshop">Creating Sustainable Community Mapping Projects</a> in March, signing these types of partnerships are an important step. Now they in turn will be providing technical support and guidance for this excellent initiative. With a detailed district map available the government of NTB will be empowered to make better decisions and engage with its citizenship.</p><p>At HOT we are extremely happy to see these types of events and agreements occur. When introducing OpenStreetMap to different governments and community we hope that they make the map their own. This is an example of such those living and working in communities being able to create the necessary data for better decision making. As you can see below this project is already off to a great start.</p><p><img src="https://s3.amazonaws.com/hotwww/files/old/ntb_mapping_0.png" alt="" style="width:272px;height:520px"></p><p>© OpenStreetMap contributors <a href="http://www.openstreetmap.org/?lat=-8.6194&amp;lon=116.3481&amp;zoom=12&amp;layers=M">Click to See Live Map on OpenStreetMap site</a></p>

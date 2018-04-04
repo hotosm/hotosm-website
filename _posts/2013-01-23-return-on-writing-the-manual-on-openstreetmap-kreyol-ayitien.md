@@ -1,4 +1,7 @@
 ---
+title: Return on writing the manual on OpenStreetMap kreyol ayitien
+date: 2013-01-23 17:57:13 Z
+permalink: updates/2013-01-23_return_on_writing_the_manual_on_openstreetmap_kreyol_ayitien
 Summary Text: "Début décembre, j'annonçais le début d'un libérathon qui visait à traduit
   le manuel OpenStreetMap en kreyol haïtien. Cette traduction en créole devrait permettre
   à une plus grande partie de la population haitienne de s'approprier le logiciel
@@ -6,15 +9,13 @@ Summary Text: "Début décembre, j'annonçais le début d'un libérathon qui vis
   2010, et de participer à la mise à jour de la carte la plus détaillée du pays.\r\nVoici
   donc un petit retour sur le déroulement du sprint."
 Person: Anne Goldenberg
-date: '2013-01-23 17:57:13 Z'
 Working Group: []
 Projects:
 - OSM FlossManuals in Kreyòl (Creole)
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Capture+du+2012-12-23+01:01:33_0.png
-permalink: updates/2013-01-23_return_on_writing_the_manual_on_openstreetmap_kreyol_ayitien
-title: Return on writing the manual on OpenStreetMap kreyol ayitien
 created: 1358963833
 ---
+
 <p>Début décembre, j'annonçais le début d'un libérathon qui visait à traduit le manuel OpenStreetMap en kreyol haïtien. Cette traduction en créole devrait permettre à une plus grande partie de la population haitienne de s'approprier le logiciel de cartographie collaborative si utilisé depuis le tremblement de terre de janvier 2010, et de participer à la mise à jour de la carte la plus détaillée du pays.</p>
 <p><img src="https://s3.amazonaws.com/hotwww/files/old/Capture%20du%202012-12-23%2001%3A01%3A33_0_0.png" alt="" style="width:589px;height:519px"></p>
 <p>Voici donc un petit retour sur le déroulement du sprint. </p>

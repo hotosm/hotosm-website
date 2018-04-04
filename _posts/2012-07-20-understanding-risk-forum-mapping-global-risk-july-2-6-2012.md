@@ -1,12 +1,13 @@
 ---
+title: Understanding Risk Forum, Mapping Global Risk, July 2-6 2012
+date: 2012-07-20 18:29:42 Z
+permalink: updates/2012-07-20_understanding_risk_forum_mapping_global_risk_july_2-6_2012
 Person: Pierre Béland
-date: '2012-07-20 18:29:42 Z'
 Working Group: []
 Projects: []
-permalink: updates/2012-07-20_understanding_risk_forum_mapping_global_risk_july_2-6_2012
-title: Understanding Risk Forum, Mapping Global Risk, July 2-6 2012
 created: 1342808982
 ---
+
 The World Bank’s Global Facility for Disaster Risk and Recovery (GFDRR) organizes the <a href="http://www.understandrisk.org/ur/">Understanding Risk (UR)</a> Forum every two years.  The theme of this second UR forum  in Cape Town, South Africa, was “Mapping our Global Risk”. A spatial understanding of vulnerability is central to understanding risk and making informed decisions to reduce that risk. About 400 persons attended that forum. I participated with Kate Chapman and we met very dynamic communities collaborating to this area of studies. 
 
 The Forum illustrated the important role of Open Data and Open Source communities  linked to the World Bank&#39;s <a href="http://www.gfdrr.org/gfdrr/opendri">Open Data for Resilience Initiative (OpenDRI)</a> in these projects. Many innovations were presented. Central America, Haiti and Indonesia Risk Assessment Projects were major initiatives were Open Community contributed in the development of tools presented to this conference (ie. CAPRA, Geonode, InaSAFE, HOT Task Manager).

@@ -1,14 +1,15 @@
 ---
-date: '2013-02-22 23:27:24 Z'
+title: 'Senegal : mapping in Saint-Louis is going well and OSM_SN project getting
+  stronger'
+date: 2013-02-22 23:27:24 Z
+permalink: updates/2013-02-22_senegal__mapping_in_saint-louis_is_going_well_and_osm_sn_project_getting_stronge
 Working Group: []
 Projects:
 - Senegal
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMAGE+1bis_1.JPG
-permalink: updates/2013-02-22_senegal__mapping_in_saint-louis_is_going_well_and_osm_sn_project_getting_stronge
-title: 'Senegal : mapping in Saint-Louis is going well and OSM_SN project getting
-  stronger'
 created: 1361575644
 ---
+
 <p>Après la semaine de formation réalisée au sein de l’Université de Ziguinchor, sujet du <a href="http://hot.openstreetmap.org/updates/2013-01-31_la_communaut%C3%A9_osm_sn_s%E2%80%99%C3%A9tend_%C3%A0_la_casamance_s%C3%A9n%C3%A9gal">dernier blogpost</a>, retour le 28 janvier à Saint-Louis avec Bassirou Thiam (aka Bass).<!--break--> Travaillant en tant que développeur au sein de l’espace de co-working <a href="http://ndarnumerique.com/">Ndar Numérique</a>, Saint-Louis,<a href="http://www.openstreetmap.org/user/MisterBass">Bass</a> s’est rapidement affirmé au sein de la communauté Openstreetmap Senegal par son implication et son initiative.</p>
 <p><img class="image-large" src="https://s3.amazonaws.com/hotwww/files/old/styles/large/public/IMAGE%201bis_1_0.JPG?itok=5UxB15jM" alt="" style="width:480px;height:360px"><br><em>Bass, avec ses lunettes, détaillant le fonctionnement du GPS avant une mapping-party sur l’île.</em></p>
 <p>Ce passage à Saint-Louis fut l’occasion de renforcer les capacités de plusieurs mappers locaux formant le noyau dur de la communauté OSM locale, essentiellement étudiants à l’Université Gaston Berger UGB, à travers le <a href="http://www.openstreetmap.org/?lat=16.0605&amp;lon=-16.42503&amp;zoom=15&amp;layers=M">mapping de leur université</a>, du <a href="http://www.openstreetmap.org/?lat=16.02111&amp;lon=-16.4867&amp;zoom=16&amp;layers=M"> quartier de Ndioloffène</a> et de <a href="http://www.openstreetmap.org/?lat=16.0289&amp;lon=-16.50357&amp;zoom=15&amp;layers=M"> l’île de Saint-Louis</a> (cliquez sur les liens pour voir la carte!).</p>

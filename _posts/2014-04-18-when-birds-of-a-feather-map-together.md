@@ -1,14 +1,15 @@
 ---
+title: When Birds of a Feather Map Together
+date: 2014-04-18 15:29:30 Z
+permalink: updates/2014-04-18_when_birds_of_a_feather_map_together
 Person: Heather Leson
-date: '2014-04-18 15:29:30 Z'
 Working Group:
 - Activation
 Projects: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/blog_image.png
-permalink: updates/2014-04-18_when_birds_of_a_feather_map_together
-title: When Birds of a Feather Map Together
 created: 1397834970
 ---
+
 <p>All spring we’ve been thinking about how to grow and support the HOT community. We know that we need to improve support to keep up the momentum of the last year while balancing quality great work around the world. At the <a href="http://stateofthemap.us">State of the Map US</a> event, we held a HOT BoF (Birds of Feather) session with over 45 participants. It is a small section of the wider global community, but it gave us a chance to see old friends, meet with partners and potentially engage new mappers.</p>
 <p>Our conversations touched on recent activations, how to get involved, types of community members, teaching tools/methods, partnership engagement, working with imagery providers and, of course, UAVs.</p>
 <h3><strong><span style="font-size: 15px; font-family: Arial; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">How to Get Involved:</span></strong></h3>

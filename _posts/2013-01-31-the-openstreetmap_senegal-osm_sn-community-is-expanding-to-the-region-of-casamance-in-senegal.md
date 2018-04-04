@@ -1,14 +1,15 @@
 ---
-date: '2013-01-31 00:41:37 Z'
+title: The Openstreetmap_Senegal (OSM_SN) community is expanding to the region of
+  Casamance in Senegal
+date: 2013-01-31 00:41:37 Z
+permalink: updates/2013-01-31_the_openstreetmap_senegal_(osm_sn)_community_is_expanding_to_the_region_of_casam
 Working Group: []
 Projects:
 - Senegal
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image1.JPG
-permalink: updates/2013-01-31_the_openstreetmap_senegal_(osm_sn)_community_is_expanding_to_the_region_of_casam
-title: The Openstreetmap_Senegal (OSM_SN) community is expanding to the region of
-  Casamance in Senegal
 created: 1359592897
 ---
+
 <p>Suite aux derniers évènements articulants les communautés OSM naissantes à Dakar, Thies, Saint-Louis et Rufisque, la semaine passée fut l’occasion d’un évènement majeur pour HOT et la communauté OSM_SN : les débuts du projet OSM en Casamance au sud du Sénégal, région la plus verdoyante du pays, tenante d’un potentiel majeur de développement entravé par une situation conflictuelle depuis les années 80. <!--break--></p>
 <h3>Une formation à <a href="http://www.openstreetmap.org/?lat=12.5661&amp;lon=-16.2695&amp;zoom=14&amp;layers=M"> Ziguinchor</a> organisée conjointement par le Département de Géographie de l’Université de Ziguinchor (UDZ), le Campus Numérique Francophone Partenaire (CNFP), OSM_SN et HOT</h3>
 <p>Suite à notre rencontre sur Dakar en présence de Nicolas Chavent, Oumar Sall, Chef du Département de Géographie de l’UDZ s'est impliqué activement dans l'organisation d'une session de formation sur 5 jours, du 21/01/13 au 25/01/13 pour 27 participants, majoritairement étudiants en Master de Géographie. <br>En hébergeant cette formation, le <a href="http://www.facebook.com/pages/Le-Campus-Num%C3%A9rique-Francophone-Partenaire-de-lUniversit%C3%A9-de-Ziguinchor/240116966118054"> CNFP de l’UDZ</a>, confirme ainsi l'engagement de l'<a href="http://hot.ifrik.org/node/%E2%80%9Dhttp://www.auf.org/%E2%80%9C">Agence Universitaire de la Francophonie (AUF)</a>, structure déjà clée sur Dakar et Saint-Louis. <br>Le Professeur Oumar Sock, recteur de l’UDZ, a appuyé cette initiative en assurant la prise en charge de l’intégralité des coûts associés à cette formation pour HOT et la communauté OSM_SN.</p>

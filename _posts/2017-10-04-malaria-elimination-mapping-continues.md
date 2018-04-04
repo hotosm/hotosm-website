@@ -1,17 +1,18 @@
 ---
+title: Malaria Elimination Mapping Continues
+date: 2017-10-04 15:00:49 Z
+permalink: updates/2017-10-04_malaria_elimination_mapping_continues
 Summary Text: HOT has teamed up with many partners working to eliminate the disease
   malaria. Malaria is preventable and curable and without transmission will cease
   to exist. In order to effectively carry out intervention campaigns, HOT has been
   asked to help identify and map populated places in some of the most susceptible
   places.
 Person: Russell Deffner
-date: '2017-10-04 15:00:49 Z'
 Working Group: []
 Projects:
 - Malaria Elimination Campaign
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/140909154833-malaria-map-story-top.jpg
-permalink: updates/2017-10-04_malaria_elimination_mapping_continues
-title: Malaria Elimination Mapping Continues
 created: 1507129249
 ---
+
 <p><span id="docs-internal-guid-90d47749-e7e2-bc8a-73ac-fd6a48f7e6a4">HOT has teamed up with many partners working to eliminate the disease malaria. Malaria is preventable and curable and without transmission will cease to exist. In order to effectively carry out intervention campaigns, HOT has been asked to help identify and map populated places in some of the most susceptible places.</span></p><p><span><img src="https://s3.amazonaws.com/hotwww/files/old/140909154833-malaria-map-story-top_0.jpg" alt="" height="360" width="640"></span></p><h4 id="docs-internal-guid-90d47749-e7e2-dd40-343f-6eb6f7d8ab9f" dir="ltr">Missions Complete:</h4><p dir="ltr">In partnership with DigitalGlobe, HOT mapped an area of interest covering over 560,000 square kilometers in Southern Africa (Botswana, Zambia, Zimbabwe), Southeast Asia (Cambodia, Laos) and Central America (Guatemala, Honduras) to support the Clinton Health Access Initiative (CHAI)<a href="http://www.clintonhealthaccess.org/program/malaria/"> malaria program</a> and Program for Appropriate Technology in Health (PATH)<a href="http://visualizenomalaria.org/"> Visualize No Malaria</a> campaign. From late 2016 until September 2017, 5305 mappers added 3,695,000+ buildings to OpenStreetMap.</p><p dir="ltr">From May 2017 until the end of September 2017, we entered another partnership with the USAID GeoCenter to enumerate buildings in Mali and Rwanda for malaria Indoor Residual Spray (IRS) efforts by Abt Associates under the President's Malaria Initiative (PMI). Covering another roughly 30,000 square kilometers, 315 mappers contributed another 1,000,000 buildings to OpenStreetMap.</p><h4 dir="ltr">New Initiatives:</h4><p dir="ltr">In August of 2017 our friends at CHAI were approached by the MENTOR Initiative and after demonstrating the building digitization we employ, we are now partnering with the MENTOR Initiative to map buildings in Angola for IRS campaigns. Stay tuned here for news on all these amazing initiatives to eliminate the disease malaria.</p><h3 dir="ltr">How to Get Involved:</h3><p dir="ltr">We are mapping using both our online<a href="http://tasks.hotosm.org"> Tasking Manager</a> tool and the<a href="http://mapswipe.org/"> Mapswipe</a> mobile app.</p><p dir="ltr">The tasks for mapping will be continually updated<a href="http://tasks.hotosm.org/contribute?difficulty=ALL&amp;campaign=Malaria%20Elimination"> here</a>. If you're new to mapping, you can get started with these quick training videos:</p><ol><li dir="ltr"><p dir="ltr"><a href="http://www.youtube.com/embed/HDPvn1yg64w">Create an OpenStreetMap account</a></p></li><li dir="ltr"><p dir="ltr">Select a task from<a href="http://tasks.hotosm.org/?sort_by=priority&amp;direction=asc&amp;search=malaria"> this list</a></p></li><li dir="ltr"><p dir="ltr"><a href="http://www.youtube.com/embed/waX3Nhix0-0">Learn to map buildings and roads</a> (NB: for these projects, at the moment we only need to map buildings)</p></li><li dir="ltr"><p dir="ltr"><a href="http://www.youtube.com/embed/IpgD2lWHzys">Save and complete your task</a></p></li></ol><p dir="ltr">Or, download the new <a href="http://mapswipe.org/">MapSwipe app</a> and start swiping and tapping to identify villages and homes in Angola.</p><p>&nbsp;</p><p>&nbsp;</p>
