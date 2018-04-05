@@ -5,8 +5,8 @@ permalink: updates/2012-01-28_setting_up_in_saint_marc_haiti
 Summary Text: "Having had a brief moment to get out footing in Saint Marc, we were
   supplied with our next missions to accomplish. The supplies for the team to conduct
   their work and training in Saint Marc arrived and with it came the need to set up,
-  inventory, and configure all of the equipment for the next weeks work.\r\n\r\n<img
-  src=\"http://hot.openstreetmap.org/sites/default/files/DSC00313_0.jpg\" />\r\n\r\n"
+  inventory, and configure all of the equipment for the next weeks work.<img
+  src=\"http://hot.openstreetmap.org/sites/default/files/DSC00313_0.jpg\" />"
 Person: Brian Wolford
 Working Group: []
 Projects:

@@ -8,7 +8,7 @@ Summary Text: "As one of the co-founders of <strong>HOT</strong>, Mikel has year
   start with Yahoo and wrote some of the first code for <strong>OSM</strong> in 2005.
   His programming and geography skills have enabled him to contribute to the general
   OpenStreetMap project and various aspects of the Humanitarian OpenstreetMap Team.
-  \r\n\r\n"
+  "
 Person: Katrina E.
 Working Group: []
 Projects: []

@@ -8,9 +8,9 @@ Summary Text: "Cette activation fait suite aux discussions entre HOT et le Burea
   Pour soutenir le <a href=\"http://www.unocha.org/what-we-do/coordination-tools/cluster-coordination\">système
   des clusters</a> et la communauté humanitaire, on nous demande de poursuivre la
   cartographie de base en cours et de contribuer à la géolocalisation des données
-  existantes pour les services de base.\r\n\r\nLe 16 janvier 2013, UNOCHA-Mali et
-  ses partenaires humanitaires ont souligné la situation d'urgence complexe au Mali.\r\n<ul>\r\n<li>228.920
-  de personnes sont déplacées à l'intérieur du Mali.\r\n</li>\r\n"
+  existantes pour les services de base.Le 16 janvier 2013, UNOCHA-Mali et
+  ses partenaires humanitaires ont souligné la situation d'urgence complexe au Mali.<ul><li>228.920
+  de personnes sont déplacées à l'intérieur du Mali.</li>"
 Person: Pierre Béland
 Working Group: []
 Projects: []

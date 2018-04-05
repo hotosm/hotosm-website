@@ -6,7 +6,7 @@ Summary Text: "This blog is the final in a series of ‘Learn Export Tool’ pos
   the launch of the revamped tool on the  18th September 2017 and will share some
   examples of how OSM data can be used through the Export Tool. The first blog of
   the series was on ‘Selecting Area of Interest’, the second focused on ‘Data File
-  Formats’ and the third looked at ‘Customising Map Features’. \r\n"
+  Formats’ and the third looked at ‘Customising Map Features’."
 Person: Mhairi O'Hara
 Working Group: []
 Projects:

@@ -6,7 +6,7 @@ Summary Text: "The new Field Papers site has been live for over a week now, as i
   was successfully launched on the 28th of May. Thanks to the team at Stamen Design
   in conjunction with co-funding from the Hewlett Foundation through the Humanitarian
   OpenStreetMap Team, the tool has been re-vamped to become stable and more international.
-  \r\n\r\nField Papers has been optimised for multiple languages, which include but
+  Field Papers has been optimised for multiple languages, which include but
   are not limited to Deutsch, Español, Français, Bahasa Indonesia, Italiano, 日本語,
   کوردی, Nederlands, Português, and Kiswahili. Please contribute towards the internationalisation
   and translation of Field Papers by visiting the Transifex project and joining the

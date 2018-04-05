@@ -6,7 +6,7 @@ Summary Text: "Two weeks ago through a micro-grant from the <a href=\"http://wil
   Center</a>; the Humanitarian OpenStreetMap Team board of directors, <a href=\"http://www.merid.org/\">the
   Meridian Institute</a> and staff from the Wilson Center met in Washington D.C. The
   goal of these two days of meetings was to develop a strategic plan for HOT to continue
-  to grow in the next 3-5 years.\r\n\r\n"
+  to grow in the next 3-5 years."
 Person: Kate Chapman
 Working Group: []
 Projects: []

@@ -7,10 +7,10 @@ Summary Text: "<b>Emir Hartato</b>,22, has been working on the HOT Indonesian te
   Emir (along with Vasanthi) joined HOT as an intern.  Kate Chapman, Jeff Haack, Vasanthi
   Harygono and Emir were the initial four to teach OSM under HOT.  He has traveled
   extensively throughout Indonesia teaching OpenStreetMap to government workers, NGOs
-  and other humanitarian organizations. \r\n\r\n [inline:emr.jpg]\r\nEmir lives in
+  and other humanitarian organizations.  [inline:emr.jpg]Emir lives in
   the rainy city of Bogor (outside Jakarta) and enjoys taking elaborate photos.  Here
-  is what he has to say about his work with HOT so far:\r\n\r\n<b>How did you get
-  involved with HOT/OSM?</b>\r\n"
+  is what he has to say about his work with HOT so far:<b>How did you get
+  involved with HOT/OSM?</b>"
 Person: Katrina E.
 Working Group: []
 Projects:

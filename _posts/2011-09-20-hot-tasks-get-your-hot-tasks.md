@@ -3,7 +3,7 @@ title: HOT Tasks! Get Your HOT Tasks!
 date: 2011-09-20 14:25:32 Z
 permalink: updates/2011-09-20_hot_tasks!_get_your_hot_tasks!
 Summary Text: "A couple weeks ago Patrick Meier wrote about HOT's new tool for tasking,
-  the OpenStreetMap Tasking Manager.  Now it has finally moved to its permanent home:\r\ntasks.hotosm.org"
+  the OpenStreetMap Tasking Manager.  Now it has finally moved to its permanent home:tasks.hotosm.org"
 Person: Kate Chapman
 Working Group: []
 Projects:

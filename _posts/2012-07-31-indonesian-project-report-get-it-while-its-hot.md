@@ -11,7 +11,7 @@ Summary Text: "<p><img class=\"image-thumbnail\" style=\"float: right;\" src=\"/
   <a title=\"Report: Community Mapping for Exposure in Indonesia\" href=\"/sites/default/files/CM4E-Indo-en.pdf\">Report:
   Community Mapping for Exposure in Indonesia</a></span> details details the initial
   workshops, key accomplishments, university competitions, and new software, support
-  and resources developed.\r\n\r\n"
+  and resources developed."
 Person: Katrina E.
 Working Group: []
 Projects:

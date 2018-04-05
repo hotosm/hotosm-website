@@ -6,8 +6,8 @@ Summary Text: "Humberto Yances has written up his <a href=\"http://www.openstree
   OSM community work in La Boquilla</a>, and HOT wants to share great work by HOT
   members (<b><i>note, this is not a formal HOT project</i></b>). From an idea, to
   engagement, to mapping, to distribution, to use, La Boquilla clearly demonstrates
-  what can happen with an open, networked, community based approach. \r\n\r\n[inline:equipo.jpg]\r\n\r\nFrom
-  these evocative beginnings ...\r\n\r\n"
+  what can happen with an open, networked, community based approach. [inline:equipo.jpg]From
+  these evocative beginnings ..."
 Person: Mikel Maron
 Working Group: []
 Projects: []

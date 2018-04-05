@@ -4,7 +4,7 @@ date: 2013-06-14 21:07:41 Z
 permalink: updates/2013-06-14_the_hdm_josm_style_by_hot
 Summary Text: "One of the unique features of OpenStreetMap is the license to use customise
   and visualize the data as maps, charts, and more. However this is sometimes easier
-  said than done. \r\n\r\n"
+  said than done. "
 Person: Will Skora
 Working Group: []
 Projects: []

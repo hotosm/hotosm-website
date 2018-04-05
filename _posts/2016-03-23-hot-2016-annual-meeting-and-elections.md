@@ -2,7 +2,7 @@
 title: HOT 2016 Annual Meeting and Elections
 date: 2016-03-23 20:19:59 Z
 permalink: updates/2016-03-23_hot_2016_annual_meeting_and_elections
-Summary Text: "Greetings HOT Community,\r\n\r\nEach year the Humanitarian OpenStreetMap
+Summary Text: "Greetings HOT Community,Each year the Humanitarian OpenStreetMap
   Team (HOT) Voting Members assemble for HOT’s Annual General Meeting (AGM). During
   this important event, we announce the election results for the HOT Board of Directors
   and Membership Chairperson. Also, the AGM is where we typically consider items like

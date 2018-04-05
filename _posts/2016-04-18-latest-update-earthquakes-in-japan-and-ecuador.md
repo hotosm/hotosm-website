@@ -5,7 +5,7 @@ permalink: updates/2016-04-18_latest_update_earthquakes_in_japan_and_ecuador
 Summary Text: "Ecuador: An earthquake of magnitude 7.8 hit the coastal region of Ecuador
   on April 16th. This major event was followed by several aftershocks. HOT is currently
   at \"Moderate Event (Local Leadership)\" status and is continuing to monitor the
-  situation and await more guidance from colleagues in Ecuador.\r\n\r\nJapan: On April
+  situation and await more guidance from colleagues in Ecuador.Japan: On April
   14th and 15th, several earthquakes hit Kumamoto Japan. Our colleagues at Crisis
   Mappers Japan (http://crisismappers.jp/) are taking the lead on mapping the affected
   areas in OpenStreetMap. Several members of Crisis Mappers Japan traveled to Kumamoto

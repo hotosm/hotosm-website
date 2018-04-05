@@ -2,10 +2,10 @@
 title: OpenStreetMap Bangladesh Edition
 date: 2013-05-31 12:22:10 Z
 permalink: updates/2013-05-31_openstreetmap_bangladesh_edition
-Summary Text: "Written with Andrew Salzberg\r\n\r\nThe recent horrific <a href=\"http://en.wikipedia.org/wiki/2013_Savar_building_collapse\">factory
+Summary Text: "Written with Andrew SalzbergThe recent horrific <a href=\"http://en.wikipedia.org/wiki/2013_Savar_building_collapse\">factory
   collapse</a> in Dhaka, Bangladesh drew renewed attention to the link between global
   garment industry brands and the working conditions of garment factory employees
-  at the far end of the supply chain. \r\n\r\n"
+  at the far end of the supply chain. "
 Person: Alyssa Wright
 Working Group: []
 Projects: []

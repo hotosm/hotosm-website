@@ -14,7 +14,7 @@ Summary Text: "When I speak with HOT staff and volunteers in our community, I of
   throughout the world across sectors: education, environment, health, transportation,
   water and sanitation. These projects are all taking place in challenging contexts:
   megacities in developing countries, refugee camps, and unplanned urban and rural
-  housing settlements.\r\n\r\nSo what does this have to do with the SDGs?"
+  housing settlements.So what does this have to do with the SDGs?"
 Person: Tyler Radford
 Working Group: []
 Projects: []

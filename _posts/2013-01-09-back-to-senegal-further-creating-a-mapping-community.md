@@ -6,7 +6,7 @@ Summary Text: "Augustin and I conducted HOT’s third deployment HOT to Senegal 
   to 15 December, 2012.  The main objective: set-up Augustin Doury for five months
   of volunteering to grow the OSM SN community and to improve the maps of the area.
   \ This initiative has been possible with the funding of Fondation de France (FDF)
-  and our partnership with OpenStreetMap France.\r\n\r\n"
+  and our partnership with OpenStreetMap France."
 Person: Nicolas Chavent
 Working Group: []
 Projects:

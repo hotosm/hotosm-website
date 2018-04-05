@@ -8,7 +8,7 @@ Summary Text: "Bangui, la capitale de la République Centrafricaine, a été pri
   est devenue assez tragique, comme elle l’était déjà depuis quelques temps pour de
   nombreuses autres villes et villages, il est temps maintenant de démarrer une Activation
   HOT officielle afin de répondre à cette crise. Dans les lignes qui suivent, je fais
-  un rapide aperçu d’OSM dans le pays et des besoins à combler. \r\n\r\n"
+  un rapide aperçu d’OSM dans le pays et des besoins à combler. "
 Person: Séverin Ménard
 Working Group:
 - Technical

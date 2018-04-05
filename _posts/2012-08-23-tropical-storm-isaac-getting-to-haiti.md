@@ -4,11 +4,11 @@ date: 2012-08-23 16:51:19 Z
 permalink: updates/2012-08-23_tropical_storm_isaac_getting_to_haiti
 Summary Text: "Came accross this serious hurricane warning today from <a href=\"http://www.nhc.noaa.gov/cyclones/\">NOAA</a>,
   informing that the tropical storm <a href=\"http://www.nhc.noaa.gov/refresh/graphics_at4+shtml/060337.shtml?tswind036?#contents\">Isaac</a>
-  may hit Haiti severely from the next 24-36 hours. \r\n\r\nWe think it is worthy
+  may hit Haiti severely from the next 24-36 hours. We think it is worthy
   to take Isaac seriously and so we are starting a local preparation coordinated by
   Jaakko Helleranta and Brian Wolford who have been living in Haiti for almost two
   years and have carried out many OSM activities and participated to HOT programs
-  there. \r\n\r\n"
+  there. "
 Person: Séverin Ménard
 Working Group: []
 Projects:

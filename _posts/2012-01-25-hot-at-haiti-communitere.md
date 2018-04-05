@@ -8,8 +8,8 @@ Summary Text: "Since returning to Haiti in preparation of launching the Saint Ma
   Center</a>. HC offers an open space, where organizations of many type are able to
   come to launch project within Haiti. They are very valuable to organizations such
   as HOT because they allow us to arrive and use this incredibly flexible support
-  environment to get things started or in country.\r\n\r\n<img src=\"http://hot.openstreetmap.org/sites/default/files/HC
-  aerial.jpg\" />\r\n\r\n"
+  environment to get things started or in country.<img src=\"http://hot.openstreetmap.org/sites/default/files/HC
+  aerial.jpg\" />"
 Person: Nicolas Chavent
 Working Group: []
 Projects:

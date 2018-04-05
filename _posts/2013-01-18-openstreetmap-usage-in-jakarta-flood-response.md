@@ -6,7 +6,7 @@ Summary Text: "Days of rain in Jakarta and surrounding areas have caused massive
   in the region. Today (Friday) the flooding has eased somewhat but <a href=\"http://www.thejakartaglobe.com/home/floods-ease-in-jakarta-thousands-left-homeless/566178\">thousands
   of people remain displaced</a> and <a href=\"http://www.thejakartaglobe.com/home/eleven-dead-as-floods-swamp-central-jakarta/566162\">11
   people have died</a>. A state of emergency has been called until <a href=\"http://www.thejakartapost.com/news/2013/01/18/state-emergency-jakarta.html\">January
-  27th for Indonesia's capital city</a>. \r\n\r\n"
+  27th for Indonesia's capital city</a>. "
 Person: Kate Chapman
 Working Group: []
 Projects:

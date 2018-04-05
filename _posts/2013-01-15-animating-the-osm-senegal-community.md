@@ -7,10 +7,10 @@ Summary Text: "In Dakar, back from Saint-Louis where I have been mostly working 
   and University Gaston Berger and reaching out to new partners from NGOs and Governements.
   Prior getting into details about those intense and rich days for the OSM Project
   Senegal and its community, I'd like to take a look back at the past weeks since
-  the end of the HOT set up mission of this program by Mid December.\r\n\r\n\r\n<h2>At
-  BarCamp Thies</h2>\r\n\r\nI spent a week in Dakar preparing with some active mappers
+  the end of the HOT set up mission of this program by Mid December.<h2>At
+  BarCamp Thies</h2>I spent a week in Dakar preparing with some active mappers
   of the OSM SN community the attendance of the <a href=\"http://barcampthies.org/\">
-  Thies BarCamp</a> organized by the Senegalese OpenSource movement.\r\n"
+  Thies BarCamp</a> organized by the Senegalese OpenSource movement."
 Working Group: []
 Projects:
 - Senegal
