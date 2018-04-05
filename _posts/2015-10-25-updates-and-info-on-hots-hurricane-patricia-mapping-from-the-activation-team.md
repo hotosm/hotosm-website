@@ -15,6 +15,7 @@ Working Group:
 - Activation
 Projects:
 - Hurricane Patricia
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/EMSR144-copernicus.jpg
 created: 1445781470
 ---
 

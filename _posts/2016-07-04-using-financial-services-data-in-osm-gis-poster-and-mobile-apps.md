@@ -6,6 +6,7 @@ Person: 'Douglas Ssebaggala '
 Working Group: []
 Projects:
 - Mapping Financial Inclusion in Uganda
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Poster_winner.jpg
 created: 1467631456
 ---
 

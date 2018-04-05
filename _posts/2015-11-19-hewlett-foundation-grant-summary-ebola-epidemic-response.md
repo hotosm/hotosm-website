@@ -13,6 +13,7 @@ Person: Mhairi O'Hara
 Working Group: []
 Projects:
 - West Africa Ebola Epidemic
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Ebola.png
 created: 1447913508
 ---
 

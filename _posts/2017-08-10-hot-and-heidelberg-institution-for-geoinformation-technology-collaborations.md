@@ -5,6 +5,7 @@ permalink: updates/2017-08-10_hot_and_heidelberg_institution_for_geoinformation_
 Person: Rebecca Firth
 Working Group: []
 Projects: []
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-08-09+at+21.30.45.png
 created: 1502332062
 ---
 

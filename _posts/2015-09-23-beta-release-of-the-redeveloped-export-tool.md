@@ -7,6 +7,7 @@ Working Group:
 - Technical
 Projects:
 - Export Tool
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/osm.png
 created: 1442983549
 ---
 

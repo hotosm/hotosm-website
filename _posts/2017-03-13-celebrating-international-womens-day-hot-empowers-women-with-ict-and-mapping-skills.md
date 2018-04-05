@@ -7,6 +7,7 @@ Person: Biondi Sanda Sima
 Working Group: []
 Projects:
 - Indonesia Disaster Management Innovation
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-03-10+at+12.07.21+PM.png
 created: 1489396744
 ---
 

@@ -7,6 +7,7 @@ Working Group:
 - Community
 Projects:
 - Dar Ramani Huria - Dar Open Map
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/innocent.jpg
 created: 1500411600
 ---
 

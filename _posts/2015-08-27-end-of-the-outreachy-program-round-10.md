@@ -6,6 +6,7 @@ Person: Mhairi O'Hara
 Working Group: []
 Projects:
 - Outreachy
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/save.png
 created: 1440671727
 ---
 

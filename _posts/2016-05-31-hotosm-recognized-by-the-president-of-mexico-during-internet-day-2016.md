@@ -6,6 +6,7 @@ Person: Mikel Maron
 Working Group: []
 Projects:
 - Hurricane Patricia
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Citec1kXAAIfjc5.jpg
 created: 1464707498
 ---
 

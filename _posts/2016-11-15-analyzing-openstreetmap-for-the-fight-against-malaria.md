@@ -6,6 +6,7 @@ Person: Nate Smith
 Working Group: []
 Projects:
 - OpenStreetMap Analytics
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2016-11-15+at+12.46.12+PM+copy.png
 created: 1479213068
 ---
 

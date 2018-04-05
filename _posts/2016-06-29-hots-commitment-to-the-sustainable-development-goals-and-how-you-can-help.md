@@ -18,6 +18,7 @@ Summary Text: "When I speak with HOT staff and volunteers in our community, I of
 Person: Tyler Radford
 Working Group: []
 Projects: []
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Chart_of_UN_Sustainable_Development_Goals.png
 created: 1467238492
 ---
 

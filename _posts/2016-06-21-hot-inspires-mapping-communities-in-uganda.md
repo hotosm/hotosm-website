@@ -7,6 +7,7 @@ Working Group:
 - Community
 Projects:
 - Mapping Financial Inclusion in Uganda
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20160428_182559.jpg
 created: 1466502374
 ---
 

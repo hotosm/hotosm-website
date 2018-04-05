@@ -5,6 +5,7 @@ permalink: updates/2017-10-25_get_excited_for_osm_geoweek_2017-_help_us_break_a_
 Person: Rachel VanNice
 Working Group: []
 Projects: []
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/33183211886_891b16040d_o.jpg
 created: 1508960883
 ---
 

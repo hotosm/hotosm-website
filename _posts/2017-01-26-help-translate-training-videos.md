@@ -7,6 +7,7 @@ Working Group:
 - Training
 Projects:
 - Missing Maps
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-01-25+at+8.11.04+PM.png
 created: 1485404031
 ---
 

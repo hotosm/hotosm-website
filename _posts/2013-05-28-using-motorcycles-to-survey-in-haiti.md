@@ -13,12 +13,13 @@ Person: Brian Wolford
 Working Group: []
 Projects:
 - 'Haiti '
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_2619.JPG
 created: 1369753162
 ---
 
 <p>Hey All,</p>
 <p>As part of the CAP103 project, financed by USAID, being run in the North of Haiti right now we have started coordinating motorcycles for survey purposes.<!--break--></p>
-<p><img class="image-large" src="/sites/default/files/styles/large/public/IMG_2619_0.JPG?itok=W4ak-JII" alt="" height="360" width="480"></p>
+<p><img class="image-large" src="https://s3.amazonaws.com/hotwww/files/old/styles/large/public/IMG_2619_0.JPG?itok=W4ak-JII" alt="" height="360" width="480"></p>
 <p>The purpose of using the motos is two-fold:</p>
 <ol>
 <li>To be able to transport teams of OSM surveyors to remote locations it would otherwise be difficult to reach.</li>

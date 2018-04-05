@@ -6,6 +6,7 @@ Person: Pierre Béland
 Working Group: []
 Projects:
 - West Africa Ebola Epidemic
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/amr-dale-kunce-DSCN0846b.JPG
 created: 1404696167
 ---
 

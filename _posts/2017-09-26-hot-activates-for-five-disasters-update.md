@@ -7,6 +7,7 @@ Working Group:
 - Activation
 Projects:
 - Fall 2017 Disaster Response
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-09-29+at+12.27.20.png
 created: 1506410086
 ---
 

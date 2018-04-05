@@ -7,6 +7,7 @@ Working Group:
 - Activation
 Projects:
 - Ecuador Earthquake
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Capture.JPG
 created: 1461369558
 ---
 

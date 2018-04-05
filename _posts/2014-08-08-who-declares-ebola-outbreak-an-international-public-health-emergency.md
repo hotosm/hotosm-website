@@ -9,6 +9,7 @@ Working Group:
 - Training
 Projects:
 - West Africa Ebola Epidemic
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/photo-Cosimo-Le-Quaglie-MSF-auto.jpg
 created: 1407531343
 ---
 

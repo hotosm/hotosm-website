@@ -8,6 +8,7 @@ Working Group:
 - Communications
 Projects:
 - West Africa Ebola Epidemic
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Cumulative+objects+created.png
 created: 1411844697
 ---
 

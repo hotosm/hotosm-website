@@ -15,6 +15,7 @@ Person: Mhairi O'Hara
 Working Group: []
 Projects:
 - Field Papers
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/FieldPapers.png
 created: 1433473109
 ---
 

@@ -6,6 +6,7 @@ Person: Rebecca Firth
 Working Group: []
 Projects:
 - Malaria Elimination Campaign
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017-04-21.png
 created: 1492790801
 ---
 

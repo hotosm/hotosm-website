@@ -6,6 +6,7 @@ Person: Nate Smith
 Working Group: []
 Projects:
 - OpenAerialMap
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen-Shot-2017-02-13-at-1.00.49-PM-compressor.png
 created: 1486982798
 ---
 

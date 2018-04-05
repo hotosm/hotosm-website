@@ -6,6 +6,7 @@ Person: Tyler Radford
 Working Group: []
 Projects:
 - OpenAerialMap
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Figure-1-OAM-Catalog-1024x591.png
 created: 1449636522
 ---
 

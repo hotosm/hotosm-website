@@ -5,6 +5,7 @@ permalink: updates/2017-08-17_1_month_til_the_hot_summit_2017_in_ottawa_ontario!
 Person: Rachel VanNice
 Working Group: []
 Projects: []
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Summit+Blog+1+(6).png
 created: 1502982920
 ---
 

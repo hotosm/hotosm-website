@@ -5,6 +5,7 @@ permalink: updates/2015-06-23_case_study_humanitarian_openstreetmap_team
 Person: Felix Delattre
 Working Group: []
 Projects: []
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/osm_rescueteam.jpg
 created: 1435072168
 ---
 

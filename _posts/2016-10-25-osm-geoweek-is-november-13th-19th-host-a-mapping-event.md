@@ -5,6 +5,7 @@ permalink: updates/2016-10-25_osm_geoweek_is_november_13th-19th_host_a_mapping_e
 Person: Tyler Radford
 Working Group: []
 Projects: []
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/MapOff_GWU.jpg
 created: 1477410829
 ---
 

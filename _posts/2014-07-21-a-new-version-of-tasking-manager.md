@@ -7,6 +7,7 @@ Working Group:
 - Training
 Projects:
 - Tasking Manager
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/task_manager_v2_screenshot_CAR_example.png
 created: 1405975803
 ---
 
@@ -14,7 +15,7 @@ Last week we launched a new Version 2 update to the "<a href="http://tasks.hotos
 
 <h3><a href="http://tasks.hotosm.org">task.hotosm.org</a></h3>
 
-<img class="image-large" title="Task Manager V2 Screenshot showing the latest project in CAR" src="/sites/default/files/styles/large/public/task_manager_v2_screenshot_CAR_example.png?itok=Q35ytxKl" alt="" width="510" height="336">
+<img class="image-large" title="Task Manager V2 Screenshot showing the latest project in CAR" src="https://s3.amazonaws.com/hotwww/files/old/styles/large/public/task_manager_v2_screenshot_CAR_example.png?itok=Q35ytxKl" alt="" style="width:510px;height:336px">
 
 Recent improvements include:
 <ul><li>A lot of UI/UX enhancements:
