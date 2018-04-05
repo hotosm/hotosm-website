@@ -2,25 +2,12 @@
 title: 'Indonesian Project Report: Get it while it''s HOT'
 date: 2012-07-31 05:19:56 Z
 permalink: updates/2012-07-31_indonesian_project_report_get_it_while_it's_hot
-<<<<<<< HEAD
-Summary Text: "<p><img class=\"image-thumbnail\" style=\"float: right;\" src=\"/sites/default/files/styles/thumbnail/public/cover_image_0.jpg?itok=kqyRpbbH\"
-  alt=\"\" width=\"78\" height=\"100\">Kate Chapman, with assistance from Emir Hartato,
-  her Indonesian teammate, and editing assistance from members of HOT and AusAID,
-  officially finished the project report for their work earlier in the year (March
-  2011 to March 2012). The The&nbsp;<span class=\"file\"><img class=\"file-icon\"
-  title=\"application/pdf\" src=\"/modules/file/icons/application-pdf.png\" alt=\"\">
-  <a title=\"Report: Community Mapping for Exposure in Indonesia\" href=\"/sites/default/files/CM4E-Indo-en.pdf\">Report:
-  Community Mapping for Exposure in Indonesia</a></span> details details the initial
-  workshops, key accomplishments, university competitions, and new software, support
-  and resources developed."
-=======
 Summary Text: 'Kate Chapman, with assistance from Emir Hartato, her Indonesian teammate,
   and editing assistance from members of HOT and AusAID, officially finished the project
   report for their work earlier in the year (March 2011 to March 2012). The Report:
   Community Mapping for Exposure in Indonesia details details the initial workshops,
   key accomplishments, university competitions, and new software, support and resources
   developed.'
->>>>>>> 4fd2ad06ea726627e980eb9f04b64474b6ff38b9
 Person: Katrina E.
 Working Group: []
 Projects:
