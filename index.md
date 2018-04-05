@@ -3,7 +3,7 @@ title: Home
 position: 0
 Project:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
-- Dar Ramani Huria - Dar Open Map
+- Dar Ramani Huria — Dar Open Map
 Stats:
   Community Mappers: '42,575'
   Total Map Edits: '38,150,151'
@@ -11,26 +11,20 @@ Stats:
   Roads Mapped (KM): '14,460,093'
 Home Module 1:
   Header: Tools & Data
-  Text: Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh ultricies
-    vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Nullam
-    id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur
-    ac.
+  Text: 'Access tools and data useful to HOT and OpenStreetMap. '
   Image: https://source.unsplash.com/collection/1186428/800x600?v=5
-  Call to Action: View our tools
+  Call to Action: View the tools
   URL: "/tools-and-data"
 Home Module 2:
   Header: Community & Organization
-  Text: Donec ullamcorper nulla non metus auctor fringilla. Donec sed odio dui. Vestibulum
-    id ligula porta felis euismod semper. Maecenas sed diam eget risus varius blandit
-    sit amet non magna.
+  Text: Get more information about the people and how the HOT community is organized.
   Image: https://source.unsplash.com/collection/1186428/800x600?v=4
   Call to Action: Learn more
   URL: "/community"
 Home Module 3:
   Header: Partnerships
-  Text: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut
-    fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
+  Text: Want to know more about ways you can partner with HOT? There are four key
+    ways to become a partner and start supporting the world with free, open map data.
   Image: https://source.unsplash.com/collection/1186428/800x600?v=6
   Call to Action: Become a partner
   URL: "/partners"
