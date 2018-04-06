@@ -45,14 +45,14 @@ $(function() {
 });
 
 $(".search-link").on("click",function () {
-  $(".search-overlay")
+  $("#search-overlay")
     .height($(document).height())
     .show();
   $('body').addClass('search-on');
 });
 
 $(".search-close").on("click", function() {
-  $(".search-overlay").hide();
+  $("#search-overlay").hide();
 });
 
 //esc key
@@ -67,5 +67,5 @@ var sjs = SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json',
-  searchResultTemplate: '<li><a class="results-link" href="{url}"><h3 class="search-result-title">{title}</h3><p class="search-result-summary">{summary}</p><h6>{person}</h6></a></li>'
+  searchResultTemplate: '<li><a class="results-link" href="{url}"><h3 class="search-result-title">{title}</h3><p class="search-result-summary">{summary}</p><h6>{person}</h6></a></li><div class="hr-h"></div>'
 });

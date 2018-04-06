@@ -2,8 +2,7 @@
 title: Newly-revealed Shina boundaries offer unprecedented hyperlocal data for decisionmakers
 date: 2018-02-26 12:31:00 Z
 permalink: updates/2018-02-22_newly_revealed_shina_boundaries_offer_unprecedented_hyperlocal_data_for_decisionmakers
-Summary Text: Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis
-  ornare vel eu leo.
+Summary Text: Recent population figures estimate Dar es Salaam’s population to be over 5 million, with an annual population growth of 5.7%. Despite the rapid growth of the city, almost 70% of the city is comprised of informal unplanned settlements - a figure that is predicted to grow dramatically as the city expands.
 Feature Image: "/uploads/lowqual.PNG"
 Person: Hawa Adinani & Amelia Hunt
 Working Group:

@@ -1405,7 +1405,7 @@ em {
   }
 }
 
-.search-overlay {
+#search-overlay {
   opacity : 0.9;
   position: fixed;
   top: 0;
@@ -1416,7 +1416,7 @@ em {
   z-index: 1001;
   display: none;
   overflow-y: auto;
-  transition: opacity 0.3s ease 0s,visibility 0.3s linear 0s;
+  transition: opacity 0.3s ease 0s,display 0.3s linear 0s;
 }
 
 .search-head {
@@ -1439,8 +1439,9 @@ em {
 
 .search-close {
   position: fixed;
-  top: 0;
-  right: 0;
+  top: 50px;
+  right: 50px;
+  z-index: 1002;
 }
 
 .results-link {
