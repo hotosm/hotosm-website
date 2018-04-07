@@ -24,7 +24,7 @@ layout: default
 
         <div class="country-select">
           <form id="country-select" action="" method="post">
-            <select name="nav">
+            <select name="nav" onchange="location = this.options[this.selectedIndex].value;">
               <option value="">Select a country…</option>
               {% assign sorted-countries = site.where-we-work | sort:'title' %}
               {% for country in sorted-countries %}

@@ -36,10 +36,3 @@ $(window).scroll(function() {
     $('.nav-main').removeClass( 'fixed-nav' );
   }
 });
-
-$(function() {
-  $("#submit").hide();
-  $("#country-select select").change(function() {
-    window.location = $("#page-changer select option:selected").val();
-  })
-});
