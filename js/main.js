@@ -1,13 +1,13 @@
 // add stats to the home page 
 $(document).ready(function(){
   $.get("https://tasks.hotosm.org/api/v1/stats/home-page", function(data){
-    $('#Community-Mappers').text(data['totalMappers']);
+    $('#Community-Mappers').text(formatedData(data['totalMappers']));
   });
 
   $.get("https://osm-stats-production-api.azurewebsites.net/stats/missingmaps", function(data){
-    $('#Total-Map-Edits').text(data['edits']);
-    $('#Buildings-Mapped').text(data['buildings']);
-    $('#Roads-Mapped').text(data['roads']);
+    $('#Total-Map-Edits').text(formatedData(data['edits']));
+    $('#Buildings-Mapped').text(formatedData(data['buildings']));
+    $('#Roads-Mapped').text(formatedData(Math.round(parseInt(data['roads']))));
   });
 });
 
@@ -56,3 +56,8 @@ $(function() {
     window.location = $("#page-changer select option:selected").val();
   })
 });
+
+// util functions for frontpage stats
+function formatedData(x){
+  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
