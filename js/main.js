@@ -1,3 +1,16 @@
+// add stats to the home page 
+$(document).ready(function(){
+  $.get("https://tasks.hotosm.org/api/v1/stats/home-page", function(data){
+    $('#Community-Mappers').text(data['totalMappers']);
+  });
+
+  $.get("https://osm-stats-production-api.azurewebsites.net/stats/missingmaps", function(data){
+    $('#Total-Map-Edits').text(data['edits']);
+    $('#Buildings-Mapped').text(data['buildings']);
+    $('#Roads-Mapped').text(data['roads']);
+  });
+});
+
 var navAnchor = document.getElementById('nav-anchor'),
     nav = document.getElementById('nav-container');
 
