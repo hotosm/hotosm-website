@@ -50,13 +50,6 @@ $(window).scroll(function() {
   }
 });
 
-$(function() {
-  $("#submit").hide();
-  $("#country-select select").change(function() {
-    window.location = $("#page-changer select option:selected").val();
-  })
-});
-
 // util functions for frontpage stats
 function formatedData(x){
   return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
