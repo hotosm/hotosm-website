@@ -1,7 +1,7 @@
 ---
 title: '"My mapping experience" by Hillary Musundi, student at Uganda Christian University.'
 date: 2016-02-03 20:38:44 Z
-permalink: updates/2016-02-03_"my_mapping_experience"_by_hillary_musundi_student_at_uganda_christian_universit
+permalink: updates/2016-02-03_my_mapping_experience_by_hillary_musundi_student_at_uganda_christian_universit
 Summary Text: 'When I was first told about mapping, I thought it was something to
   do sitting indoors on your laptop. Well, it’s also a bit like that, but little did
   I know the adventure that awaited me. I quickly got acquainted with the whole mapping

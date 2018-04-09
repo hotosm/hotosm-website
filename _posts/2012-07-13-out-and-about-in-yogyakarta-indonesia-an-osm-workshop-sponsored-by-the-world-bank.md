@@ -10,7 +10,7 @@ Summary Text: "My name is Katrina and I am a new addition to the HOT team in Ind
   Kate, Emir, Vau and I were too busy with the two day workshop to see the king's
   residences.  Hopefully, we can sneak away next time we visit for an intermediate
   and advanced OSM workshop we will have more time...   I would love to map those
-  quarters.  \r\n\r\n\r\n<em> The Participants </em>\r\n"
+  quarters.  <em> The Participants </em>"
 Person: Katrina E.
 Working Group: []
 Projects:

@@ -9,7 +9,7 @@ Summary Text: "Closing out 2012 HOT has been officially in existence for over tw
   remotely with the network for OpenStreetMap volunteers to respond to crisis and
   with donor partners to work on disaster preparedness project in seven countries.
   Additionally we have begun to be able to do strategic organizational work that will
-  allow the continued growth of the organization.\r\n\r\n"
+  allow the continued growth of the organization."
 Person: Kate Chapman
 Working Group: []
 Projects: []

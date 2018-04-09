@@ -7,7 +7,7 @@ Summary Text: "Tomorrow marks the end of HOT's pilot to evaluate the use of Open
   for my flight back to the United States there is a lot of reflect on and to be proud.
    Of course there are always things to do better or explore further, but overall
   I feel that the past year has been a success. There is much to continue and further
-  expand.\r\n<h2>Accomplishments</h2>\r\n"
+  expand.<h2>Accomplishments</h2>"
 Person: Kate Chapman
 Working Group: []
 Projects:

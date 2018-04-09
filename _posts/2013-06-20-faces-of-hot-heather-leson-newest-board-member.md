@@ -9,8 +9,8 @@ Summary Text: "This week we caught up with Heather, the newest board member of H
   degree in Combined Political Science and History from Carleton University in Canada’s
   capital city of Ottawa, and a Library and Information Technician diploma from Seneca
   College of Applied Arts and Technology in Toronto.  You can read more about her
-  on her <a html=\"www.textontechs.com\">textontechs</a> blog. \r\n\r\n<b>How did
-  you get involved with HOT/OSM? </b>\r\n"
+  on her <a html=\"www.textontechs.com\">textontechs</a> blog. <b>How did
+  you get involved with HOT/OSM? </b>"
 Person: Katrina E.
 Working Group: []
 Projects: []

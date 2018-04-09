@@ -10,7 +10,7 @@ Summary Text: "HOT has teamed up with the American and Ugandan Red Cross to virt
   for finding locations when emergency response, such as for a house fire or traffic
   accident, is required.  Updating these city maps is important for many reasons,
   especially so that response vehicles can identify the quickest routes for fires
-  or accidents.    \r\n\r\n"
+  or accidents.    "
 Person: Katrina E.
 Working Group: []
 Projects: []

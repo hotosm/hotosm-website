@@ -7,7 +7,7 @@ Summary Text: "Many of us have spare quiet moments in the Christmas and New Year
   and maybe had a little time to relax and reflect. Now, If you're looking for something
   to occupy your time these days as your energy builds for the new year, you're more
   than welcome to join in and map HOT tasks, and make a solid contribution to places
-  in humanitarian crisis right at this moment.\r\n"
+  in humanitarian crisis right at this moment."
 Person: Mikel Maron
 Working Group: []
 Projects: []

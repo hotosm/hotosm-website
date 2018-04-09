@@ -7,9 +7,9 @@ Summary Text: "Jeff Haack has been working on and off for HOT since its establis
   Strip to Indonesia.  The Californian studied history at University of Evansville
   and joined the Peace Corps in Georgia shortly after.  For the last couple of years,
   he has been involved on and off with the Indonesian project and has devoted much
-  time and energy to the content of www.learnosm.org.  \r\n\r\nHere is what he had
-  to say about his experience working with HOT and using OSM. \r\n\r\n [inline:Image
-  1.png]\r\n\r\n<b> How did you get involved with HOT/OSM? </b>\r\n"
+  time and energy to the content of www.learnosm.org.  Here is what he had
+  to say about his experience working with HOT and using OSM.  [inline:Image
+  1.png]<b> How did you get involved with HOT/OSM? </b>"
 Person: Katrina E.
 Working Group: []
 Projects: []

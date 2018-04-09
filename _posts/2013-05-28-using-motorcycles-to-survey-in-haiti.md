@@ -2,13 +2,13 @@
 title: Using motorcycles to survey in Haiti
 date: 2013-05-28 14:59:22 Z
 permalink: updates/2013-05-28_using_motorcycles_to_survey_in_haiti
-Summary Text: "Hey All,\r\n\r\nAs part of the CAP103 project, financed by USAID, being
+Summary Text: "Hey All,As part of the CAP103 project, financed by USAID, being
   run in the North of Haiti right now we have started coordinating motorcycles for
-  survey purposes.\r\n\r\n[inline:IMG_2619.JPG]\r\n\r\nThe purpose of using the motos
-  is two-fold:\r\n1. To be able to transport teams of OSM surveyors to remote locations
-  it would otherwise be difficult to reach.\r\n2. To be able to collect a solid network
+  survey purposes.[inline:IMG_2619.JPG]The purpose of using the motos
+  is two-fold:1. To be able to transport teams of OSM surveyors to remote locations
+  it would otherwise be difficult to reach.2. To be able to collect a solid network
   of GPS traces for the area's major and minor ways. Once collected, they can be used
-  as a resource for setting offsets and positions for any aerial imageries.\r\n\r\n"
+  as a resource for setting offsets and positions for any aerial imageries."
 Person: Brian Wolford
 Working Group: []
 Projects:

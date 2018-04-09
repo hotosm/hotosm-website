@@ -9,7 +9,7 @@ Summary Text: "The six pilot workshops to the BNPB on intermediate OSM skills we
   maps, which used the OSM data we gathered last year as a base map, that showed the
   affected areas.   (Though we knew what to expect when heading home, it still was
   a shock to see so many roads flooded and people surrendering their beds and belongings
-  to higher ground.  Read more about the Jakarta Floods <a href=“http://www.thejakartapost.com/news/2013/01/17/jakarta-flood-death-toll-increases-five.html“>here</a>.)\r\n\r\n"
+  to higher ground.  Read more about the Jakarta Floods <a href=“http://www.thejakartapost.com/news/2013/01/17/jakarta-flood-death-toll-increases-five.html“>here</a>.)"
 Person: Katrina E.
 Working Group: []
 Projects:

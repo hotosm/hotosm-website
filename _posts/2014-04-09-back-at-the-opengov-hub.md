@@ -1,7 +1,7 @@
 ---
 title: '"Back" at the OpenGov Hub'
 date: 2014-04-09 19:35:50 Z
-permalink: updates/2014-04-09_"back"_at_the_opengov_hub
+permalink: updates/2014-04-09_back_at_the_opengov_hub
 Summary Text: 'I reason I say "back" in quotes because since the last time I was at
   HOT''s office in Washington D.C. 7 months ago it was in a completely different building.
   HOT is part of the OpenGov Hub which is a coworking place and center for open government

@@ -1,7 +1,7 @@
 ---
 title: '"Ramani Huria" Scale Up - Dar es Salaam, 6th July, 2015'
 date: 2015-07-17 08:37:54 Z
-permalink: updates/2015-07-17_"ramani_huria"_scale_up_-_dar_es_salaam_6th_july_2015
+permalink: updates/2015-07-17_ramani_huria_scale_up_-_dar_es_salaam_6th_july_2015
 Person: Paul Uithol
 Working Group: []
 Projects:

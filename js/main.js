@@ -43,3 +43,29 @@ $(function() {
     window.location = $("#page-changer select option:selected").val();
   })
 });
+
+$(".search-link").on("click",function () {
+  $("#search-overlay")
+    .height($(document).height())
+    .show();
+  $('body').addClass('search-on');
+});
+
+$(".search-close").on("click", function() {
+  $("#search-overlay").hide();
+});
+
+//esc key
+$('body').on('keyup', function(e) {
+  if ($('body').hasClass('search-on') && e.keyCode == 27) {
+          $(".search-overlay").hide();
+          $('body').removeClass('search-on');
+        }
+});
+
+var sjs = SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json',
+  searchResultTemplate: '<li><a class="results-link" href="{url}"><h3 class="search-result-title">{title}</h3><p class="search-result-summary">{summary}</p><h6>{person}</h6></a></li><div class="hr-h"></div>'
+});

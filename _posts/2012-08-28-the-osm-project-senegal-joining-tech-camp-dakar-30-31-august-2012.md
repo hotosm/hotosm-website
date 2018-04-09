@@ -10,7 +10,7 @@ Summary Text: "I am starting a second short trip (28-August – 2-September) to 
   – a co-working space in Dakar - who recommended HOT to the be part of the Camp,
   and finally, the <a href=\"http://www.fondationdefrance.org/\">Fondation de France</a>
   and the <a href=\"http://openstreetmap.fr/\">Association OpenStreetMap France (OSM-FR)</a>
-  for their continued support. All made this second trip to Senegal possible.\r\n\r\n"
+  for their continued support. All made this second trip to Senegal possible."
 Person: Nicolas Chavent
 Working Group: []
 Projects:

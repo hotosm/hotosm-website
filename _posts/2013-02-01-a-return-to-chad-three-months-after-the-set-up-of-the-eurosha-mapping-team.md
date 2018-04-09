@@ -9,7 +9,7 @@ Summary Text: "I just landed in <a href=\"http://en.wikipedia.org/wiki/N'Djamena
   post</a>) in close coordination with <a href=\"http://www.acra.it/index.php?option=com_content&view=article&id=119&Itemid=263&lang=en\">ACRA</a>
   and <a href=\"http://www.france-volontaires.org/\">France Volontaires</a>, HOT’s
   partners on this project. This is an interesting time for the <a href=\"http://hot.openstreetmap.org/projects/eurosha_0\">EUROSHA
-  project</a> \r\n"
+  project</a> "
 Person: Nicolas Chavent
 Working Group: []
 Projects:
