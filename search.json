@@ -28,7 +28,7 @@ layout: null
     {
       "type"     : "News",
       "title"    : "{{ post.title | escape }}",
-      "summary"  : "{{ post['Summary Text'] | escape | truncatewords: 40 | prepend: ' ' }}",
+      "summary"  : "{{ post['Summary Text'] | escape | truncatewords: 40 | prepend: ' ' }}", 
       "person"   : "{{ post.Person | join: ', ' }}",
       "url"      : "{{ site.url }}{{ post.url }}",
       "date"     : "{{ post.date }}"

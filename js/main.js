@@ -36,7 +36,6 @@ $(window).scroll(function() {
     $('.nav-main').removeClass( 'fixed-nav' );
   }
 });
-<<<<<<< HEAD
 
 $(function() {
   $("#submit").hide();
@@ -70,5 +69,3 @@ var sjs = SimpleJekyllSearch({
   json: '/search.json',
   searchResultTemplate: '<li><a class="results-link" href="{url}"><h3 class="search-result-title">{title}</h3><p class="search-result-summary">{summary}</p><h6>{person}</h6></a></li><div class="hr-h"></div>'
 });
-=======
->>>>>>> fbc1c3ce0eef64e61a1f05bda489012321f0f465
