@@ -7,7 +7,7 @@ layout: null
       "type"    : "Project",
       "title"   : "{{ project.title | escape }}",
       "summary" : "{{ project['Summary Text'] | escape | truncatewords: 40 | prepend: ' ' }}",
-      "person"  : "{{ project.Person | join: ', ' }}",
+      "subtitle"  : "{{project['HOT Involvement'] | escape | prepend: ' ' }}",
       "url"     : "{{ site.url }}{{ project.url }}",
       "date"    : "{{ project.date }}",
       "country" : "{{ project.Country | join: ', ' }}"
@@ -18,7 +18,7 @@ layout: null
       "type"    : "Member",
       "title"   : "{{ person.title | escape }}",
       "summary" : "{{ person.body | escape | truncatewords: 40 | prepend: ' ' }}",
-      "person"  : "{{ person['Job Title'] | prepend: ' ' }}",
+      "subtitle"  : "{{ person['Job Title'] | prepend: ' ' }}",
       "url"     : "{{ site.url }}{{ person.url }}",
       "date"    : "{{ person.date }}",
       "country" : "{{ project.country | join: ', ' }}"
@@ -28,8 +28,8 @@ layout: null
     {
       "type"     : "News",
       "title"    : "{{ post.title | escape }}",
-      "summary"  : "{{ post['Summary Text'] | escape | truncatewords: 40 | prepend: ' ' }}", 
-      "person"   : "{{ post.Person | join: ', ' }}",
+      "summary"  : "{{ post['Summary Text'] | escape | truncatewords: 40 | prepend: ' ' }}",
+      "subtitle"   : "{{ post.Person | join: ', ' }}",
       "url"      : "{{ site.url }}{{ post.url }}",
       "date"     : "{{ post.date }}"
     } {% unless forloop.last %},{% endunless %}
