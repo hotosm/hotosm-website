@@ -2061,11 +2061,17 @@ em {
   }
 }
 
+#map {
+  height: 400px;
+  width: 100%;
+  position: absolute;
+}
+
 .project-map-area {
   height: 500px;
-  background-color: tint($red, 85%);
+  width: 100%;
   margin-bottom: 40px;
-  position: relative;
+  position: absolute;
   border-bottom: 1px solid $border-color;
   @media (min-width: $screen-sm) {
     height: 564px;
@@ -2083,6 +2089,10 @@ em {
       font-size: 0.875rem;
     }
   }
+}
+
+#our-work-projects {
+  padding-top: 540px;
 }
 
 .country-index {

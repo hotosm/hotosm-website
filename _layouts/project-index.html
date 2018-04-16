@@ -4,7 +4,9 @@ layout: default
 
 <div class="project-index">
 
-  <div class="project-map-area">
+  <div class="project-map-area" >
+    <div id="map">
+    </div>
 
     <div class="project-index-header">
 
@@ -28,7 +30,7 @@ layout: default
 
   </div>
 
-  <div class="container">
+  <div id="our-work-projects" class="container">
 
     <h6>Highlighted Projects</h6>
 
@@ -55,4 +57,7 @@ layout: default
     </div>
 
   </div>
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+  <script src="{{ "/js/map.js" | prepend: site.baseurl }}"></script>
 </div>
