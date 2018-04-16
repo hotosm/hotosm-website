@@ -5,10 +5,10 @@ Project:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 - Dar Ramani Huria — Dar Open Map
 Stats:
-  Community Mappers: '42,575'
-  Total Map Edits: '38,150,151'
-  Buildings Mapped: '16,679,732'
-  Roads Mapped (KM): '14,460,093'
+  Community Mappers: ''
+  Total Map Edits: ''
+  Buildings Mapped: ''
+  Roads Mapped (KM): ''
 Home Module 1:
   Header: Tools & Data
   Text: 'Access tools and data useful to HOT and OpenStreetMap. '

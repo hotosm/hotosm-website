@@ -1,3 +1,16 @@
+// add stats to the home page 
+$(document).ready(function(){
+  $.get("https://tasks.hotosm.org/api/v1/stats/home-page", function(data){
+    $('#Community-Mappers').text(formatedData(data['totalMappers']));
+  });
+
+  $.get("https://osm-stats-production-api.azurewebsites.net/stats/missingmaps", function(data){
+    $('#Total-Map-Edits').text(formatedData(data['edits']));
+    $('#Buildings-Mapped').text(formatedData(data['buildings']));
+    $('#Roads-Mapped').text(formatedData(Math.round(parseInt(data['roads']))));
+  });
+});
+
 var navAnchor = document.getElementById('nav-anchor'),
     nav = document.getElementById('nav-container');
 
@@ -69,3 +82,9 @@ var sjs = SimpleJekyllSearch({
   json: '/search.json',
   searchResultTemplate: '<li><a class="results-link" href="{url}"><h5>{type}</h5><h3 class="search-result-title">{title}</h3><p class="search-result-summary">{summary}</p><h6>{subtitle}</h6></a></li><div class="hr-h"></div>'
 });
+
+// util functions for frontpage stats
+function formatedData(x){
+  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+
