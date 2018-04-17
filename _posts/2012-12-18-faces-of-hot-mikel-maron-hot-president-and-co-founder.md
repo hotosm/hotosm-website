@@ -2,13 +2,12 @@
 title: 'Faces of HOT:  Mikel Maron, HOT President and Co-Founder'
 date: 2012-12-18 03:41:51 Z
 permalink: updates/2012-12-18_faces_of_hot__mikel_maron_hot_president_and_co-founder_
-Summary Text: "As one of the co-founders of <strong>HOT</strong>, Mikel has years
+Summary Text: 'As one of the co-founders of <strong>HOT</strong>, Mikel has years
   of experience working on mapping projects all around the world.  After studying
   computer science at the <em>University of California: Santa Cruz</em>, he got his
   start with Yahoo and wrote some of the first code for <strong>OSM</strong> in 2005.
   His programming and geography skills have enabled him to contribute to the general
-  OpenStreetMap project and various aspects of the Humanitarian OpenstreetMap Team.
-  "
+  OpenStreetMap project and various aspects of the Humanitarian OpenstreetMap Team. '
 Person: Katrina E.
 Working Group: []
 Projects: []

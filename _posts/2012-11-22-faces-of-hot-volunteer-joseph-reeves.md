@@ -2,11 +2,11 @@
 title: 'Faces of HOT:  Volunteer Joseph Reeves'
 date: 2012-11-22 06:20:35 Z
 permalink: updates/2012-11-22_faces_of_hot__volunteer_joseph_reeves
-Summary Text: "We have been fortunate to get a few volunteers for this Indonesian
-  project.  One of them is the brazen <strong>Joseph Reeves </strong> (see the pictures
-  below to get an idea of his fame).   Joseph works as the <strong>IT coordinator</strong>
+Summary Text: We have been fortunate to get a few volunteers for this Indonesian project.  One
+  of them is the brazen <strong>Joseph Reeves </strong> (see the pictures below to
+  get an idea of his fame).   Joseph works as the <strong>IT coordinator</strong>
   at the Oxford Archaeology, but twice he has devoted his vacation time to the Indonesian
-  project.  He has helped lead workshops on the basics of OpenstreetMap.  [inline:jose.jpg]"
+  project.  He has helped lead workshops on the basics of OpenstreetMap.  [inline:jose.jpg]
 Person: Katrina E.
 Working Group: []
 Projects:

@@ -2,15 +2,15 @@
 title: Activation pour le Mali
 date: 2013-02-01 17:50:29 Z
 permalink: updates/2013-02-01_activation_pour_le_mali
-Summary Text: "Cette activation fait suite aux discussions entre HOT et le Bureau
-  des Nations Unies pour la coordination des affaires humanitaires pour le Mali (UNOCHA-Mali).
+Summary Text: Cette activation fait suite aux discussions entre HOT et le Bureau des
+  Nations Unies pour la coordination des affaires humanitaires pour le Mali (UNOCHA-Mali).
   Les efforts en cours au Mali sont très utiles pour les organisations humanitaires.
-  Pour soutenir le <a href=\"http://www.unocha.org/what-we-do/coordination-tools/cluster-coordination\">système
+  Pour soutenir le <a href="http://www.unocha.org/what-we-do/coordination-tools/cluster-coordination">système
   des clusters</a> et la communauté humanitaire, on nous demande de poursuivre la
   cartographie de base en cours et de contribuer à la géolocalisation des données
-  existantes pour les services de base.Le 16 janvier 2013, UNOCHA-Mali et
-  ses partenaires humanitaires ont souligné la situation d'urgence complexe au Mali.<ul><li>228.920
-  de personnes sont déplacées à l'intérieur du Mali.</li>"
+  existantes pour les services de base.Le 16 janvier 2013, UNOCHA-Mali et ses partenaires
+  humanitaires ont souligné la situation d'urgence complexe au Mali.<ul><li>228.920
+  de personnes sont déplacées à l'intérieur du Mali.</li>
 Person: Pierre Béland
 Working Group: []
 Projects: []

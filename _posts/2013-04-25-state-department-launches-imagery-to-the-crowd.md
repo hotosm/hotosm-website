@@ -2,13 +2,13 @@
 title: State Department Launches Imagery to the Crowd
 date: 2013-04-25 17:41:46 Z
 permalink: updates/2013-04-25_state_department_launches_imagery_to_the_crowd
-Summary Text: "The State Department Humanitarian Information Unit has launched <a
-  href=\"https://hiu.state.gov/ittc/ittc.aspx\">Imagery to the Crowd</a>![inline:Screen-Shot-2013-04-24-at-2.24.34-PM.png]This
-  is important formal recognition of the partnership we've built over the past couple
-  years. The premise is simple enough. HOT needs current aerial imagery to create
-  up to date maps following a disaster event. The US government acquires that kind
-  of imagery from commercial providers. Sharing the imagery with the OSM community
-  means better maps for responders."
+Summary Text: The State Department Humanitarian Information Unit has launched <a href="https://hiu.state.gov/ittc/ittc.aspx">Imagery
+  to the Crowd</a>![inline:Screen-Shot-2013-04-24-at-2.24.34-PM.png]This is important
+  formal recognition of the partnership we've built over the past couple years. The
+  premise is simple enough. HOT needs current aerial imagery to create up to date
+  maps following a disaster event. The US government acquires that kind of imagery
+  from commercial providers. Sharing the imagery with the OSM community means better
+  maps for responders.
 Person: Mikel Maron
 Working Group:
 - Governance

@@ -2,11 +2,11 @@
 title: Starting OSM in Cap-Haitien (Haiti)
 date: 2013-04-03 04:14:35 Z
 permalink: updates/2013-04-03_starting_osm_in_cap-haitien_(haiti)
-Summary Text: "Ten days that I am back in Haiti to start a new HOT project with USAID
+Summary Text: 'Ten days that I am back in Haiti to start a new HOT project with USAID
   in the northern departments of the island with a mixed crew of hotties and Haitian
   mappers. Over the next three months, we will train 60 Youths from the communities
   and map with them as much of this region and eventually build there a strong OSM
-  local group rooted in the University of Limonade. "
+  local group rooted in the University of Limonade. '
 Person: Nicolas Chavent
 Working Group: []
 Projects: []

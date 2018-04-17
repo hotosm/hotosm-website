@@ -2,11 +2,11 @@
 title: Back to Senegal, Further Creating a Mapping Community
 date: 2013-01-09 11:46:22 Z
 permalink: updates/2013-01-09_back_to_senegal_further_creating_a_mapping_community
-Summary Text: "Augustin and I conducted HOT’s third deployment HOT to Senegal 24 November
+Summary Text: 'Augustin and I conducted HOT’s third deployment HOT to Senegal 24 November
   to 15 December, 2012.  The main objective: set-up Augustin Doury for five months
-  of volunteering to grow the OSM SN community and to improve the maps of the area.
-  \ This initiative has been possible with the funding of Fondation de France (FDF)
-  and our partnership with OpenStreetMap France."
+  of volunteering to grow the OSM SN community and to improve the maps of the area.  This
+  initiative has been possible with the funding of Fondation de France (FDF) and our
+  partnership with OpenStreetMap France.'
 Person: Nicolas Chavent
 Working Group: []
 Projects:

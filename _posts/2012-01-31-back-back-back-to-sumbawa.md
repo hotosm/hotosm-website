@@ -2,12 +2,12 @@
 title: Back, back, back to Sumbawa
 date: 2012-01-31 04:01:08 Z
 permalink: updates/2012-01-31_back_back_back_to_sumbawa
-Summary Text: "<p>This week Vasanthi, Emir and I returned to Bima and Dompu. It is
+Summary Text: <p>This week Vasanthi, Emir and I returned to Bima and Dompu. It is
   always interesting when you leave someone with technology alone and then come back
   and see what they have done. Questions often have often built up, but usually some
   solutions as well. People don’t wait for your to return to move forward, they usually
-  either abandon what they have been taught or adapt to their own situations and uses.
-  \ Bima and Dompu were no different.<p><img src=\"http://hot.openstreetmap.org/sites/default/files/emir_teaching.png\"/>"
+  either abandon what they have been taught or adapt to their own situations and uses.  Bima
+  and Dompu were no different.<p><img src="http://hot.openstreetmap.org/sites/default/files/emir_teaching.png"/>
 Person: Kate Chapman
 Working Group: []
 Projects: []

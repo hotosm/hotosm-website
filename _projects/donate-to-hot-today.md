@@ -3,9 +3,9 @@ title: Donate to HOT today
 date: 2015-11-06 15:22:33 Z
 permalink: donate_to_hot_today
 position: 32
-Summary Text: "You can make the difference in helping
-  HOT meet it's fundraising target for 2015 and raise $50,000 by Dec 31. Thank you
-  Mapbox for matching the first $10,000. Please donate today!"
+Summary Text: You can make the difference in helping HOT meet it's fundraising target
+  for 2015 and raise $50,000 by Dec 31. Thank you Mapbox for matching the first $10,000.
+  Please donate today!
 HOT Involvement: Partnerships
 Person:
 - Katja Ulbert

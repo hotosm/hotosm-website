@@ -2,14 +2,14 @@
 title: HOT at Haiti Communitere
 date: 2012-01-25 06:16:59 Z
 permalink: updates/2012-01-25_hot_at_haiti_communitere
-Summary Text: "Since returning to Haiti in preparation of launching the Saint Marc
-  mapping program with COSMHA, HOT has been staying at the <a href=\"http://www.haiti.communitere.org/\">Haiti
-  Communitere</a> (HC) <a href=\"http://www.haiti.communitere.org/current-projects/resource-center\">Resourse
+Summary Text: Since returning to Haiti in preparation of launching the Saint Marc
+  mapping program with COSMHA, HOT has been staying at the <a href="http://www.haiti.communitere.org/">Haiti
+  Communitere</a> (HC) <a href="http://www.haiti.communitere.org/current-projects/resource-center">Resourse
   Center</a>. HC offers an open space, where organizations of many type are able to
   come to launch project within Haiti. They are very valuable to organizations such
   as HOT because they allow us to arrive and use this incredibly flexible support
-  environment to get things started or in country.<img src=\"http://hot.openstreetmap.org/sites/default/files/HC
-  aerial.jpg\" />"
+  environment to get things started or in country.<img src="http://hot.openstreetmap.org/sites/default/files/HC
+  aerial.jpg" />
 Person: Nicolas Chavent
 Working Group: []
 Projects:

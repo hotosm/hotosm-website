@@ -2,14 +2,14 @@
 title: A return to Chad three months after the set up of the EUROSHA mapping team
 date: 2013-02-01 01:48:32 Z
 permalink: updates/2013-02-01_a_return_to_chad_three_months_after_the_set_up_of_the_eurosha_mapping_team
-Summary Text: "I just landed in <a href=\"http://en.wikipedia.org/wiki/N'Djamena\">Ndjamena
+Summary Text: 'I just landed in <a href="http://en.wikipedia.org/wiki/N''Djamena">Ndjamena
   (Chad)</a> for HOT. I am joining again the team of mappers of the EUROSHA Chad project
-  that I helped setting up their activities in N’Djamena and <a href=\"http://en.wikipedia.org/wiki/
-  Gor%C3%A9\">Goré</a> last fall (October/ November – see <a href=\"http://hot.openstreetmap.org/updates/2012-10-31_two_weeks_of_field_work_within_the_eurosha_chad_project\">blog
-  post</a>) in close coordination with <a href=\"http://www.acra.it/index.php?option=com_content&view=article&id=119&Itemid=263&lang=en\">ACRA</a>
-  and <a href=\"http://www.france-volontaires.org/\">France Volontaires</a>, HOT’s
-  partners on this project. This is an interesting time for the <a href=\"http://hot.openstreetmap.org/projects/eurosha_0\">EUROSHA
-  project</a> "
+  that I helped setting up their activities in N’Djamena and <a href="http://en.wikipedia.org/wiki/
+  Gor%C3%A9">Goré</a> last fall (October/ November – see <a href="http://hot.openstreetmap.org/updates/2012-10-31_two_weeks_of_field_work_within_the_eurosha_chad_project">blog
+  post</a>) in close coordination with <a href="http://www.acra.it/index.php?option=com_content&view=article&id=119&Itemid=263&lang=en">ACRA</a>
+  and <a href="http://www.france-volontaires.org/">France Volontaires</a>, HOT’s partners
+  on this project. This is an interesting time for the <a href="http://hot.openstreetmap.org/projects/eurosha_0">EUROSHA
+  project</a> '
 Person: Nicolas Chavent
 Working Group: []
 Projects:

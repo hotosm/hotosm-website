@@ -2,15 +2,15 @@
 title: 'A day mapping in Dar Es Salaam: drainage in Chang''ombe'
 date: 2016-02-16 21:59:27 Z
 permalink: updates/2016-02-16_a_day_mapping_in_dar_es_salaam_drainage_in_chang'ombe
-Summary Text: "Guest post by Kathryn Davis, Columbia University.January 14th,
-  10:30am. We arrive in Chang'ombe ward (an industrial area in Dar es Salaam) after
-  weaving in and out of traffic in the project bajaj (rickshaw) through different
-  neighborhoods. Johannes Peter, a seasoned mapper with the Dar Ramani Huria project,
-  takes another look at his drone imagery printout of the area, and indicates that
-  we’ve arrived at our starting point.Mappers like Johannes detail key drainage and
-  water infrastructure that hasn't been digitized before, and that can be used for
-  disaster risk reduction planning and flood resilience. Almost immediately, we see
-  drainage on the right side of the wide dirt road, and mark it on the map..."
+Summary Text: Guest post by Kathryn Davis, Columbia University.January 14th, 10:30am.
+  We arrive in Chang'ombe ward (an industrial area in Dar es Salaam) after weaving
+  in and out of traffic in the project bajaj (rickshaw) through different neighborhoods.
+  Johannes Peter, a seasoned mapper with the Dar Ramani Huria project, takes another
+  look at his drone imagery printout of the area, and indicates that we’ve arrived
+  at our starting point.Mappers like Johannes detail key drainage and water infrastructure
+  that hasn't been digitized before, and that can be used for disaster risk reduction
+  planning and flood resilience. Almost immediately, we see drainage on the right
+  side of the wide dirt road, and mark it on the map...
 Person: Paul Uithol
 Working Group: []
 Projects:

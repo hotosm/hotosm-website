@@ -2,10 +2,10 @@
 title: Mapping the world’s vulnerable places begins with you!
 date: 2016-11-28 22:22:05 Z
 permalink: updates/2016-11-28_mapping_the_world’s_vulnerable_places_begins_with_you!
-Summary Text: "Help HOT provide 10 communities with equipment and funding to map!Many
+Summary Text: Help HOT provide 10 communities with equipment and funding to map!Many
   of the world's most vulnerable places do not exist on any map. Meet 12 leaders who
   are working to change that by putting their communities on the global map for the
-  first time. You can show your support by making a donation today."
+  first time. You can show your support by making a donation today.
 Person: Tyler Radford
 Working Group: []
 Projects:

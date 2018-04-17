@@ -2,12 +2,12 @@
 title: Have Spare Holiday Time? Contribute with HOT Mapping
 date: 2013-12-27 15:08:16 Z
 permalink: updates/2013-12-27_have_spare_holiday_time?_contribute_with_hot_mapping
-Summary Text: "Many of us have spare quiet moments in the Christmas and New Year holiday
+Summary Text: Many of us have spare quiet moments in the Christmas and New Year holiday
   season. We've gorged ourselves on food, cleaned up wripped apart wrapping paper,
   and maybe had a little time to relax and reflect. Now, If you're looking for something
   to occupy your time these days as your energy builds for the new year, you're more
   than welcome to join in and map HOT tasks, and make a solid contribution to places
-  in humanitarian crisis right at this moment."
+  in humanitarian crisis right at this moment.
 Person: Mikel Maron
 Working Group: []
 Projects: []

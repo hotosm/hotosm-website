@@ -2,14 +2,14 @@
 title: 2012 Was HOT...Can't Wait for 2013
 date: 2013-01-02 14:39:41 Z
 permalink: updates/2013-01-02_2012_was_hotcan't_wait_for_2013
-Summary Text: "Closing out 2012 HOT has been officially in existence for over two
-  and a half years.  We continue to be able to do more to work to ensure geodata is
-  freely available in times of crisis and natural disasters. I'm proud of the progress
-  we've made and I'm excited to continue it into 2013. We have continued to respond
-  remotely with the network for OpenStreetMap volunteers to respond to crisis and
-  with donor partners to work on disaster preparedness project in seven countries.
-  Additionally we have begun to be able to do strategic organizational work that will
-  allow the continued growth of the organization."
+Summary Text: Closing out 2012 HOT has been officially in existence for over two and
+  a half years.  We continue to be able to do more to work to ensure geodata is freely
+  available in times of crisis and natural disasters. I'm proud of the progress we've
+  made and I'm excited to continue it into 2013. We have continued to respond remotely
+  with the network for OpenStreetMap volunteers to respond to crisis and with donor
+  partners to work on disaster preparedness project in seven countries. Additionally
+  we have begun to be able to do strategic organizational work that will allow the
+  continued growth of the organization.
 Person: Kate Chapman
 Working Group: []
 Projects: []

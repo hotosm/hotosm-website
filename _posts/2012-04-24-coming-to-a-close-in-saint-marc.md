@@ -2,15 +2,15 @@
 title: Coming to a close in Saint Marc
 date: 2012-04-24 02:05:35 Z
 permalink: updates/2012-04-24_coming_to_a_close_in_saint_marc
-Summary Text: "Hey kiddoes!Brian checking in from Saint-Marc. We are in the final
-  throws of the program here. Hard to believe 3 months is wrapping up. Bananas.The
-  team and trainees here has pretty sufficiently mapped the entirety of Saint-Marc.
-  The last week we have been focusing on quality control, and enhancing the data that
-  is already in OSM. Things have been going well with that, the advanced have really
-  stepped up to show their skills.Other than that there has been much council
-  forming and meetings of the active youth members in the forming of COSMHA-STM, which
-  will be the Saint-Marc chapter of the Community OSM Haiti. Appointments and elections
-  have finished, congrats to them."
+Summary Text: Hey kiddoes!Brian checking in from Saint-Marc. We are in the final throws
+  of the program here. Hard to believe 3 months is wrapping up. Bananas.The team and
+  trainees here has pretty sufficiently mapped the entirety of Saint-Marc. The last
+  week we have been focusing on quality control, and enhancing the data that is already
+  in OSM. Things have been going well with that, the advanced have really stepped
+  up to show their skills.Other than that there has been much council forming and
+  meetings of the active youth members in the forming of COSMHA-STM, which will be
+  the Saint-Marc chapter of the Community OSM Haiti. Appointments and elections have
+  finished, congrats to them.
 Person: Brian Wolford
 Working Group: []
 Projects:

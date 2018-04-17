@@ -2,14 +2,14 @@
 title: 'Faces of HOT: Jeff Haack, content writer of www.learnosm.org'
 date: 2013-06-25 01:04:40 Z
 permalink: updates/2013-06-25_faces_of_hot_jeff_haack_content_writer_of_wwwlearnosmorg
-Summary Text: "Jeff Haack has been working on and off for HOT since its establishment.
-  \ He has traveled the globe working on mapping projects-- from the Georgia to Gaza
-  Strip to Indonesia.  The Californian studied history at University of Evansville
-  and joined the Peace Corps in Georgia shortly after.  For the last couple of years,
-  he has been involved on and off with the Indonesian project and has devoted much
-  time and energy to the content of www.learnosm.org.  Here is what he had
-  to say about his experience working with HOT and using OSM.  [inline:Image
-  1.png]<b> How did you get involved with HOT/OSM? </b>"
+Summary Text: Jeff Haack has been working on and off for HOT since its establishment.  He
+  has traveled the globe working on mapping projects-- from the Georgia to Gaza Strip
+  to Indonesia.  The Californian studied history at University of Evansville and joined
+  the Peace Corps in Georgia shortly after.  For the last couple of years, he has
+  been involved on and off with the Indonesian project and has devoted much time and
+  energy to the content of www.learnosm.org.  Here is what he had to say about his
+  experience working with HOT and using OSM.  [inline:Image 1.png]<b> How did you
+  get involved with HOT/OSM? </b>
 Person: Katrina E.
 Working Group: []
 Projects: []

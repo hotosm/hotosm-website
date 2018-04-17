@@ -2,11 +2,10 @@
 title: Work for HOT! Open Job Opportunities
 date: 2016-10-18 19:58:34 Z
 permalink: updates/2016-10-18_work_for_hot!_open_job_opportunities
-Summary Text: "HOT welcomes qualified applicants to apply to work with us! There are
-  currently three open positions closing this week and next:Deadline Oct 21:
-  Community Partnerships Manager - Missing MapsDeadline Oct 21: Product Manager
-  - HOT Tasking Manager Re-DesignDeadline Oct 31: System Administrator/DevOps
-  Engineer (Part-time)"
+Summary Text: 'HOT welcomes qualified applicants to apply to work with us! There are
+  currently three open positions closing this week and next:Deadline Oct 21: Community
+  Partnerships Manager - Missing MapsDeadline Oct 21: Product Manager - HOT Tasking
+  Manager Re-DesignDeadline Oct 31: System Administrator/DevOps Engineer (Part-time)'
 Person: Tyler Radford
 Working Group: []
 Projects: []

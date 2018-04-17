@@ -1,6 +1,7 @@
 ---
-layout: null
+layout: 
 ---
+
 [
   {% for project in site.projects %}
     {

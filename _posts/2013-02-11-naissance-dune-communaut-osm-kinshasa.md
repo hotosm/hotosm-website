@@ -2,12 +2,12 @@
 title: Naissance d'une communauté OSM à Kinshasa
 date: 2013-02-11 18:20:12 Z
 permalink: updates/2013-02-11_naissance_d'une_communauté_osm_à_kinshasa
-Summary Text: "Durant les derniers mois, de nombreux contributeurs à travers le monde
-  ont participé à la cartographie de la RDC suite à l'<a href=\"http://hot.openstreetmap.org/updates/2012-12-13_hot_activation_sud_et_nord_kivu_r%C3%A9publique_d%C3%A9mocratique_du_congo\">activation
-  de HOT</a> dans l'est du pays. Grâce à leur support et au <a href=\"http://tasks.hotosm.org/\">Tasking
+Summary Text: Durant les derniers mois, de nombreux contributeurs à travers le monde
+  ont participé à la cartographie de la RDC suite à l'<a href="http://hot.openstreetmap.org/updates/2012-12-13_hot_activation_sud_et_nord_kivu_r%C3%A9publique_d%C3%A9mocratique_du_congo">activation
+  de HOT</a> dans l'est du pays. Grâce à leur support et au <a href="http://tasks.hotosm.org/">Tasking
   Manager de HOT</a>, des villes et infrastructures importantes dans des régions en
   crise ont pu être numérisées sur base de l'imagerie Bing malgré le nombre extrêmement
-  réduit de contributeurs actifs à l'intérieur de la RDC."
+  réduit de contributeurs actifs à l'intérieur de la RDC.
 Person: Claire Halleux
 Working Group: []
 Projects: []

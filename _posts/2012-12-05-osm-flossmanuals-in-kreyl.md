@@ -2,15 +2,15 @@
 title: OSM FlossManuals in Kreyòl
 date: 2012-12-05 16:31:00 Z
 permalink: updates/2012-12-05_osm_flossmanuals_in_kreyòl
-Summary Text: "This week in Port-au-Prince is happening a booksprint to write a kreyol
-  manual of OpenStreetMap.<br>On Saturday December 8, the Haitian community will
-  have a manual in its own language.<h2> Floss Manuals ? </h2>Floss Manuals
-  is a platform that promote and organise the realisation of manuals about free libre
-  open source softwares and free culture.We mostly use the booksprint methodology
-  in order to produce the manual in a week. Yes: within 5 days, 5-8 participants from
-  different though complementary horizons, decides of the table of content, write
-  the content, take care of the correction process and have the book published (online
-  and possibly on paper format). "
+Summary Text: 'This week in Port-au-Prince is happening a booksprint to write a kreyol
+  manual of OpenStreetMap.<br>On Saturday December 8, the Haitian community will have
+  a manual in its own language.<h2> Floss Manuals ? </h2>Floss Manuals is a platform
+  that promote and organise the realisation of manuals about free libre open source
+  softwares and free culture.We mostly use the booksprint methodology in order to
+  produce the manual in a week. Yes: within 5 days, 5-8 participants from different
+  though complementary horizons, decides of the table of content, write the content,
+  take care of the correction process and have the book published (online and possibly
+  on paper format). '
 Person: Anne Goldenberg
 Working Group: []
 Projects:

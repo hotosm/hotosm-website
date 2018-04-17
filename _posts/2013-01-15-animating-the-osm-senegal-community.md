@@ -2,15 +2,15 @@
 title: Animating the OSM Senegal Community
 date: 2013-01-15 23:12:47 Z
 permalink: updates/2013-01-15_animating_the_osm_senegal_community
-Summary Text: "In Dakar, back from Saint-Louis where I have been mostly working animating
+Summary Text: In Dakar, back from Saint-Louis where I have been mostly working animating
   the OSM SN community in this town harnessing on our partnerships with BantaLabs
   and University Gaston Berger and reaching out to new partners from NGOs and Governements.
   Prior getting into details about those intense and rich days for the OSM Project
   Senegal and its community, I'd like to take a look back at the past weeks since
-  the end of the HOT set up mission of this program by Mid December.<h2>At
-  BarCamp Thies</h2>I spent a week in Dakar preparing with some active mappers
-  of the OSM SN community the attendance of the <a href=\"http://barcampthies.org/\">
-  Thies BarCamp</a> organized by the Senegalese OpenSource movement."
+  the end of the HOT set up mission of this program by Mid December.<h2>At BarCamp
+  Thies</h2>I spent a week in Dakar preparing with some active mappers of the OSM
+  SN community the attendance of the <a href="http://barcampthies.org/"> Thies BarCamp</a>
+  organized by the Senegalese OpenSource movement.
 Working Group: []
 Projects:
 - Senegal
