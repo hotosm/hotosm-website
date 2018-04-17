@@ -9,8 +9,8 @@ Summary Text: "Next week the Board of Directors of the Humanitarian OpenStreetMa
   Center</a> is providing facilitation and support with help from the <a href=\"http://www.merid.org/\">Meridian Institute</a> to
   further refine our mission and goals. Along with this high-level meeting we've used
   the opportunity to speak at other events in the area. We hope to see you at some
-  of them.\r\n<h3><a href=\"http://www.meetup.com/Geo-DC/events/58473832/\">May 2nd
-  7:00pm-? GeoDC - Crisis Mapping Focused May Meet-up</a></h3>\r\n"
+  of them.<h3><a href=\"http://www.meetup.com/Geo-DC/events/58473832/\">May 2nd
+  7:00pm-? GeoDC - Crisis Mapping Focused May Meet-up</a></h3>"
 Person: Kate Chapman
 Working Group: []
 Projects: []

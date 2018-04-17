@@ -7,9 +7,9 @@ Summary Text: "When the January 2010 Earthquake happened in Haiti the OpenStreet
   base map for Port-au-Prince available. In March of that year the handover of the
   map began. Two years later the handover is not complete, HOT and Community OpenStreetMap
   Haiti continue to work together coming closer to that day. One very important missing
-  step is having adequate training materials available in Haitian Creole.\r\n\r\n<iframe
+  step is having adequate training materials available in Haitian Creole.<iframe
   frameborder=\"0\" height=\"360px\" src=\"http://www.kickstarter.com/projects/wonderchook/first-free-haiti-creole-openstreetmap-book/widget/video.html\"
-  width=\"480px\"></iframe>\r\n\r\n"
+  width=\"480px\"></iframe>"
 Person: Kate Chapman
 Working Group: []
 Projects:

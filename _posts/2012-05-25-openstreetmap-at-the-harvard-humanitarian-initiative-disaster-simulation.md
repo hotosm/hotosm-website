@@ -7,7 +7,7 @@ Summary Text: "Last year I spent a bitterly cold day in a forest in Massachusett
   taking part in a response. Instructive, frightening, and sometimes funny. Jennifer
   Chan has been bringing information tools into the process, with an Ushahidi instance
   last year. This year, there was the opportunity to bring OSM into the mix, and Christian
-  Spanring, Kate Chapman, and myself helped to bring some maps together for the sim.\r\n\r\n"
+  Spanring, Kate Chapman, and myself helped to bring some maps together for the sim."
 Person: Mikel Maron
 Working Group: []
 Projects: []

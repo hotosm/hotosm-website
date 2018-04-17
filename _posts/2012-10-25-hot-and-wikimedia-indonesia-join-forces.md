@@ -8,10 +8,10 @@ Summary Text: "We met at the National Library of Indonesia-- partly for its spac
   every sentence.  The community of wiki users in Indonesia is small and so they do
   not have the manpower to be constantly editing and administrating all the articles.
   \ Our team met up with some administrators of Wikimedia to help them create and
-  edit pages on the major roads in Jakarta.  \r\n\r\n<strong>Who: </strong> John Vandenberg,
-  the President at Wikimedia Australia, Wikimedia Indonesia teams and HOT: Indo.  \r\n<strong>What:
+  edit pages on the major roads in Jakarta.  <strong>Who: </strong> John Vandenberg,
+  the President at Wikimedia Australia, Wikimedia Indonesia teams and HOT: Indo.  <strong>What:
   </strong> Learning how to edit wiki road pages, upload pictures on wiki commons
-  and link these pages to OSM, and other maps.  \r\n"
+  and link these pages to OSM, and other maps.  "
 Person: Katrina E.
 Working Group: []
 Projects:

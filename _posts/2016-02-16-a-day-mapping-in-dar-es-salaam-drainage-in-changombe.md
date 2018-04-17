@@ -2,7 +2,7 @@
 title: 'A day mapping in Dar Es Salaam: drainage in Chang''ombe'
 date: 2016-02-16 21:59:27 Z
 permalink: updates/2016-02-16_a_day_mapping_in_dar_es_salaam_drainage_in_chang'ombe
-Summary Text: "Guest post by Kathryn Davis, Columbia University.\r\n\r\nJanuary 14th,
+Summary Text: "Guest post by Kathryn Davis, Columbia University.January 14th,
   10:30am. We arrive in Chang'ombe ward (an industrial area in Dar es Salaam) after
   weaving in and out of traffic in the project bajaj (rickshaw) through different
   neighborhoods. Johannes Peter, a seasoned mapper with the Dar Ramani Huria project,

@@ -9,10 +9,10 @@ Summary Text: "One Eurosha country we did not talk about so far here (sorry for 
   the Capital city, and are lucky to live and work in a big, quite comfortable house
   called “Le Château” (“the Castle” in French, what is though a bit exaggerated: not
   so cosy, and more pasta for dinner than game birds...), without actually being hosted
-  by lazy chatelaines, but fierce defenders of the open source and open data causes.\r\n[inline:DSC_0231
-  800x600.jpg]\r\n\r\nIn the country, there was no local mappers, but already some
+  by lazy chatelaines, but fierce defenders of the open source and open data causes.[inline:DSC_0231
+  800x600.jpg]In the country, there was no local mappers, but already some
   areas traced remotely by foreigners, essentially over Bujumbura, sometimes from
-  old Yahoo imagery.  \r\n"
+  old Yahoo imagery.  "
 Person: Séverin Ménard
 Working Group: []
 Projects:

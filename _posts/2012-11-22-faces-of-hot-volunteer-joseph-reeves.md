@@ -6,7 +6,7 @@ Summary Text: "We have been fortunate to get a few volunteers for this Indonesia
   project.  One of them is the brazen <strong>Joseph Reeves </strong> (see the pictures
   below to get an idea of his fame).   Joseph works as the <strong>IT coordinator</strong>
   at the Oxford Archaeology, but twice he has devoted his vacation time to the Indonesian
-  project.  He has helped lead workshops on the basics of OpenstreetMap.  \r\n\r\n[inline:jose.jpg]\r\n\r\n"
+  project.  He has helped lead workshops on the basics of OpenstreetMap.  [inline:jose.jpg]"
 Person: Katrina E.
 Working Group: []
 Projects:

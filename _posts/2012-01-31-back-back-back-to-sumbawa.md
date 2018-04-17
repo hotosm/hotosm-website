@@ -7,7 +7,7 @@ Summary Text: "<p>This week Vasanthi, Emir and I returned to Bima and Dompu. It 
   and see what they have done. Questions often have often built up, but usually some
   solutions as well. People don’t wait for your to return to move forward, they usually
   either abandon what they have been taught or adapt to their own situations and uses.
-  \ Bima and Dompu were no different.\r\n\r\n<p><img src=\"http://hot.openstreetmap.org/sites/default/files/emir_teaching.png\"/>\r\n\r\n\r\n"
+  \ Bima and Dompu were no different.<p><img src=\"http://hot.openstreetmap.org/sites/default/files/emir_teaching.png\"/>"
 Person: Kate Chapman
 Working Group: []
 Projects: []

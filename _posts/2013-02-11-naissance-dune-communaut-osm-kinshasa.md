@@ -7,7 +7,7 @@ Summary Text: "Durant les derniers mois, de nombreux contributeurs à travers le
   de HOT</a> dans l'est du pays. Grâce à leur support et au <a href=\"http://tasks.hotosm.org/\">Tasking
   Manager de HOT</a>, des villes et infrastructures importantes dans des régions en
   crise ont pu être numérisées sur base de l'imagerie Bing malgré le nombre extrêmement
-  réduit de contributeurs actifs à l'intérieur de la RDC.\r\n\r\n"
+  réduit de contributeurs actifs à l'intérieur de la RDC."
 Person: Claire Halleux
 Working Group: []
 Projects: []

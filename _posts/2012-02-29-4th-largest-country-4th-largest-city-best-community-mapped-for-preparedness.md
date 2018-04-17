@@ -11,7 +11,7 @@ Summary Text: "Rapid growth and low elevation makes flooding in Jakarta problema
   prepared for future floods. This first step in this type of analysis is having available
   data, without data it is impossible to make an accurate estimation. Throughout March
   mapping events will be held in DKI Jakarta to work with local leaders to collect
-  such data, by utilizing OpenStreetMap.\r\n"
+  such data, by utilizing OpenStreetMap."
 Person: Kate Chapman
 Working Group: []
 Projects:

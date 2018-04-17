@@ -6,7 +6,7 @@ Summary Text: "Ten days that I am back in Haiti to start a new HOT project with 
   in the northern departments of the island with a mixed crew of hotties and Haitian
   mappers. Over the next three months, we will train 60 Youths from the communities
   and map with them as much of this region and eventually build there a strong OSM
-  local group rooted in the University of Limonade. \r\n\r\n"
+  local group rooted in the University of Limonade. "
 Person: Nicolas Chavent
 Working Group: []
 Projects: []

@@ -7,7 +7,7 @@ Summary Text: "It’s finally time to mention the mapping party HOT and <a href=
   IM/GIS from OCHA, <a href=\"http://www.wfp.org/countries/senegal\">World Food Program</a>,
   <a href=\"http://www.unicef.org/infobycountry/senegal.html\">UNICEF</a> and <a href=\"http://www.icrc.org/eng/where-we-work/africa/senegal/index.jsp\">ICRC</a>,
   Karim Sy and Herman Koassy from <a href=\"http://www.jokkolabs.net/\">JokkoLabs</a>
-  and HOT. \r\n\r\n"
+  and HOT. "
 Person: Nicolas Chavent
 Working Group: []
 Projects:

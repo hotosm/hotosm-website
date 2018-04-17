@@ -6,7 +6,7 @@ Summary Text: "Début décembre, j'annonçais le début d'un libérathon qui vis
   le manuel OpenStreetMap en kreyol haïtien. Cette traduction en créole devrait permettre
   à une plus grande partie de la population haitienne de s'approprier le logiciel
   de cartographie collaborative si utilisé depuis le tremblement de terre de janvier
-  2010, et de participer à la mise à jour de la carte la plus détaillée du pays.\r\nVoici
+  2010, et de participer à la mise à jour de la carte la plus détaillée du pays.Voici
   donc un petit retour sur le déroulement du sprint."
 Person: Anne Goldenberg
 Working Group: []

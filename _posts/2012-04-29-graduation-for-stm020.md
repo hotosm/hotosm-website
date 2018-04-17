@@ -7,10 +7,10 @@ Summary Text: "On the evening of April 24th there was a graduation for the young
   are an important event. And this one was no different. Among those attending were
   leaders within USAID, other organizations, and the mayor of Saint-Marc. Many people
   gave speeches, certificates were dispersed, and there was even a song created by
-  the participants about their experiences.\r\n\r\nHere is a picture of the mayor
-  of Saint-Marc addressing the program graduates.\r\n\r\n<img src=\"http://hot.openstreetmap.org/sites/default/files/IMG013_0.jpg\"/>\r\n\r\nFriend
+  the participants about their experiences.Here is a picture of the mayor
+  of Saint-Marc addressing the program graduates.<img src=\"http://hot.openstreetmap.org/sites/default/files/IMG013_0.jpg\"/>Friend
   Marc-Henry and USAID communicated how pleased they were with the project and the
-  desire to see a program like this happen in the next location.\r\n\r\n"
+  desire to see a program like this happen in the next location."
 Person: Brian Wolford
 Working Group: []
 Projects:

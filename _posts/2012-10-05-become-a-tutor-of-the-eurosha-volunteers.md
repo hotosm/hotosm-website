@@ -4,14 +4,14 @@ date: 2012-10-05 00:13:00 Z
 permalink: updates/2012-10-05_become_a_tutor_of_the_eurosha_volunteers!
 Summary Text: "Nicolas and I have been training the 25 Eurosha volunteers who will
   be split in 4 four teams for being deployed 6 months in Chad, Central African Republic,
-  Burundi and Kenya over the next 6 months, starting within the next 5-10 days. \r\nMarion,
+  Burundi and Kenya over the next 6 months, starting within the next 5-10 days. Marion,
   Gloria, Alexandra, Anna, Iolanda, Adelina, Désiré, Filip, Lenka, Federica, Jorieke,
   Morgane, Assania, Serge, Aude, Katerina, Claudia, Orsolya, Pascal, Nanhas, Barbara,
   Lenka (yes, there are 2 Lenka), Janja, Marine and Hannington are enthusiastic volunteers
   with social sciences, development, humanitarian or geography backgrounds for most
   of them, coming from Czech Republic, Italy, Poland, Chad, Bulgaria, Burundi, France,
-  Hungary, Kenya, Belgium, Slovenia and Central African Republic.\r\n\r\n[inline:P1200042
-  1024x768.JPG]\r\n"
+  Hungary, Kenya, Belgium, Slovenia and Central African Republic.[inline:P1200042
+  1024x768.JPG]"
 Person: Séverin Ménard
 Working Group: []
 Projects:
