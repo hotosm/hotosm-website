@@ -1967,7 +1967,7 @@ em {
 
 .meta-item.news-author {
   display: flex;
-  align-items: center;
+  flex-direction: column;
   padding-bottom: 40px;
   p {
     font-size: 1.375rem;
@@ -1987,6 +1987,13 @@ em {
   padding: 16px 16px 19px;
   border-bottom: none;
   border-radius: 2px;
+}
+
+.author-item {
+  display: flex;
+  flex-direction: row;
+  align-self: baseline;
+  padding-top: 4px;
 }
 
 .author-image {

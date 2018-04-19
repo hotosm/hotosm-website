@@ -1,7 +1,7 @@
 ---
-title: 'Amelia Hunt '
+title: Amelia Hunt
 date: 2017-11-22 16:08:18 Z
-permalink: users/amelia_hunt_
+permalink: users/amelia_hunt
 Working Group:
 - Community
 - Communications
