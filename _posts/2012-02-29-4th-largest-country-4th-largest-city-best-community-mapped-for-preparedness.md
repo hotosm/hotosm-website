@@ -2,7 +2,7 @@
 title: 4th Largest Country, 4th Largest City, Best Community Mapped for Preparedness
 date: 2012-02-29 08:33:11 Z
 permalink: updates/2012-02-29_4th_largest_country_4th_largest_city_best_community_mapped_for_preparedness
-Summary Text: "Rapid growth and low elevation makes flooding in Jakarta problematic.
+Summary Text: Rapid growth and low elevation makes flooding in Jakarta problematic.
   Innovative approaches are needed for contingency planning and impact modeling.  DKI
   Jakarta's Disaster Management Agency (BPBD) is developing a detailed scenario to
   estimate impacts of future flooding. This scenario will estimate the impact on people,
@@ -11,7 +11,7 @@ Summary Text: "Rapid growth and low elevation makes flooding in Jakarta problema
   prepared for future floods. This first step in this type of analysis is having available
   data, without data it is impossible to make an accurate estimation. Throughout March
   mapping events will be held in DKI Jakarta to work with local leaders to collect
-  such data, by utilizing OpenStreetMap.\r\n"
+  such data, by utilizing OpenStreetMap.
 Person: Kate Chapman
 Working Group: []
 Projects:

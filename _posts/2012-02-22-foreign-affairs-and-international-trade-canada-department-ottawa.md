@@ -4,12 +4,12 @@ date: 2012-02-22 15:24:52 Z
 permalink: updates/2012-02-22_foreign_affairs_and_international_trade_canada_department_ottawa
 Summary Text: "<p>Foreign Affairs and International Trade Canada department (DFAIT)
   Open Policy Day Session, Feb. 9 in Ottawa, was attended by 200 staff members. Personal
-  in embassies could follow the morning session by teleconference.\r\n\r\n<p>The objective
+  in embassies could follow the morning session by teleconference.<p>The objective
   was to expose the DFAIT staff to new ways of working for policy making and information
   exchanges inside the department (ie. Web 2.0, Social network, Open Data, Open Innovation,
   NGO's and how to adapt with collaborative efforts, etc). There were formal presentations
   in the morning from USA Secretary of State staff and DFAIT staff, Google, Wikimedia
-  Foundation and World Bank representatives.\r\n\r\n"
+  Foundation and World Bank representatives."
 Person: Pierre Béland
 Working Group: []
 Projects: []

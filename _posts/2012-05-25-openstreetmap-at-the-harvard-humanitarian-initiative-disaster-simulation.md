@@ -2,12 +2,12 @@
 title: OpenStreetMap at the Harvard Humanitarian Initiative Disaster Simulation
 date: 2012-05-25 01:28:30 Z
 permalink: updates/2012-05-25_openstreetmap_at_the_harvard_humanitarian_initiative_disaster_simulation
-Summary Text: "Last year I spent a bitterly cold day in a forest in Massachusetts,
+Summary Text: Last year I spent a bitterly cold day in a forest in Massachusetts,
   witnessing how people who have never experienced a disaster somehow prepare for
   taking part in a response. Instructive, frightening, and sometimes funny. Jennifer
   Chan has been bringing information tools into the process, with an Ushahidi instance
   last year. This year, there was the opportunity to bring OSM into the mix, and Christian
-  Spanring, Kate Chapman, and myself helped to bring some maps together for the sim.\r\n\r\n"
+  Spanring, Kate Chapman, and myself helped to bring some maps together for the sim.
 Person: Mikel Maron
 Working Group: []
 Projects: []

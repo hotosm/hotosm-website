@@ -2,10 +2,10 @@
 title: 'Crossing Boundaries by Tracing Buildings: Mapping Kathmandu from New York
   City"'
 date: 2013-05-11 16:35:32 Z
-permalink: updates/2013-05-11_crossing_boundaries_by_tracing_buildings_mapping_kathmandu_from_new_york_city"
-Summary Text: "Throughout the day you could hear the simple question - 'Is that a
-  building?' -- followed by conversations about shadows, and people, and the construction
-  of a city that seemed so far away from our own. \r\n\r\n"
+permalink: updates/2013-05-11_crossing_boundaries_by_tracing_buildings_mapping_kathmandu_from_new_york_city
+Summary Text: 'Throughout the day you could hear the simple question - ''Is that a
+  building?'' -- followed by conversations about shadows, and people, and the construction
+  of a city that seemed so far away from our own. '
 Person: Alyssa Wright
 Working Group: []
 Projects: []

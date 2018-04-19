@@ -2,16 +2,16 @@
 title: Mali Activation
 date: 2013-02-01 17:49:03 Z
 permalink: updates/2013-02-01_mali_activation_
-Summary Text: "This Activation follows discussions between HOT and the United Nations
+Summary Text: This Activation follows discussions between HOT and the United Nations
   Office for the Coordination of Humanitarian Affairs for Mali (UNOCHA-Mali). The
   ungoing efforts to map Mali are very helpfull to humanitarian organizations.  To
-  support the <a href=\"http://www.unocha.org/what-we-do/coordination-tools/cluster-coordination\">Clusters
+  support the <a href="http://www.unocha.org/what-we-do/coordination-tools/cluster-coordination">Clusters
   coordination system</a> and the humanitarian community, we are asked to continue
   the ungoing base mapping and to contribute to the geolocation of existing datasets
-  for basic services. \r\n\r\nOn Jan 16 2013, the UNOCHA-Mali and his humanitarian
-  partners have highlighted the complex emergency situation in Mali.\r\n<ul>\r\n<li>An
-  estimated 228,920 people are displaced inside Mali.</li>\r\n<li>There are an estimated
-  144,446 Malian refugees in neighbouring countries.</li>\r\n"
+  for basic services. On Jan 16 2013, the UNOCHA-Mali and his humanitarian partners
+  have highlighted the complex emergency situation in Mali.<ul><li>An estimated 228,920
+  people are displaced inside Mali.</li><li>There are an estimated 144,446 Malian
+  refugees in neighbouring countries.</li>
 Person: Pierre Béland
 Working Group: []
 Projects: []

@@ -2,10 +2,10 @@
 title: Wrapping up the Libyan Health Facility Activation
 date: 2012-01-31 17:50:04 Z
 permalink: updates/2012-01-31_wrapping_up_the_libyan_health_facility_activation
-Summary Text: "<p>On January 14, we formally closed <a href=\"http://hot.openstreetmap.org/updates/2011-12-19_activation_to_map_libyan_health_facilities\">HOT's
-  activation to help map health facilities in Libya</a>.\r\n\r\n<p>This was definitely
-  a new kind of activity for HOT. To start, we were directly by WHO to take part,
-  and staff at the Tunis WMC office was incredibly active in the entire process.\r\n\r\n"
+Summary Text: <p>On January 14, we formally closed <a href="http://hot.openstreetmap.org/updates/2011-12-19_activation_to_map_libyan_health_facilities">HOT's
+  activation to help map health facilities in Libya</a>.<p>This was definitely a new
+  kind of activity for HOT. To start, we were directly by WHO to take part, and staff
+  at the Tunis WMC office was incredibly active in the entire process.
 Person: Mikel Maron
 Working Group: []
 Projects: []

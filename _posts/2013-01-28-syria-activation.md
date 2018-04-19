@@ -2,12 +2,12 @@
 title: Syria Activation
 date: 2013-01-28 12:24:44 Z
 permalink: updates/2013-01-28_syria_activation
-Summary Text: "Following a request from UN OCHA and SNAP, HOT is activating a remote
+Summary Text: Following a request from UN OCHA and SNAP, HOT is activating a remote
   mapping project in Syria to support humanitarian groups working within the current
   crisis. This post is intended to introduce the project and to appeal for help from
   volunteers. HOT has limited experience in working within the Arabic speaking world
   and we are hopeful that this activation will allow us to broaden our skills base
-  in this area.\r\n"
+  in this area.
 Person: Joseph Reeves
 Working Group: []
 Projects: []

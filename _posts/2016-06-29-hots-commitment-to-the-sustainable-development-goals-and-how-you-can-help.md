@@ -2,19 +2,19 @@
 title: HOT's Commitment to the Sustainable Development Goals, and How You Can Help
 date: 2016-06-29 22:14:52 Z
 permalink: updates/2016-06-29_hot's_commitment_to_the_sustainable_development_goals_and_how_you_can_help
-Summary Text: "When I speak with HOT staff and volunteers in our community, I often
-  ask what they've heard about the Sustainable Development Goals, or SDGs for short.
+Summary Text: 'When I speak with HOT staff and volunteers in our community, I often
+  ask what they''ve heard about the Sustainable Development Goals, or SDGs for short.
   Sometimes, people have heard of the term, or know that the term is somehow related
-  to the United Nations. I often chat about the types of mapping projects they're
+  to the United Nations. I often chat about the types of mapping projects they''re
   working on. In the past month, the answers have been incredibly varied: HOT staff
   are mapping safe bicycle routes and access to sanitation (public toilets) in Tanzania;
   banks, ATMs, and mobile money agent locations in Uganda, and are about to start
-  mapping critical disaster \"lifeline\" infrastructure in two of the biggest cities
+  mapping critical disaster "lifeline" infrastructure in two of the biggest cities
   in Indonesia. In addition, HOT volunteer leaders are working on dozens more projects
   throughout the world across sectors: education, environment, health, transportation,
   water and sanitation. These projects are all taking place in challenging contexts:
   megacities in developing countries, refugee camps, and unplanned urban and rural
-  housing settlements.\r\n\r\nSo what does this have to do with the SDGs?"
+  housing settlements.So what does this have to do with the SDGs?'
 Person: Tyler Radford
 Working Group: []
 Projects: []

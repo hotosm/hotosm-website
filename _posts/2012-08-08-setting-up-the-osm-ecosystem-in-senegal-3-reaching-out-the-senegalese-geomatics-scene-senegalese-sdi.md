@@ -3,10 +3,10 @@ title: 'Setting up the OSM ecosystem in Senegal 3: Reaching out the Senegalese g
   scene (Senegalese SDI)'
 date: 2012-08-08 17:24:46 Z
 permalink: updates/2012-08-08_setting_up_the_osm_ecosystem_in_senegal_3_reaching_out_the_senegalese_geomatics_
-Summary Text: "With the support of the ICT Directorate and the Agence Informatique
-  de l’Etat (<a href=\"http://www.adie.sn/\">ADIE</a>), HOT and the Canadian Support
-  Project of the Plan National Géomatique (<a href=\"http://www.rncan.gc.ca/sciences-terre/a-propos/international/collaboration/4618\">PNG</a>)
-  held a one day workshop around OSM at the ADIE office on June 7th. \r\n\r\n"
+Summary Text: 'With the support of the ICT Directorate and the Agence Informatique
+  de l’Etat (<a href="http://www.adie.sn/">ADIE</a>), HOT and the Canadian Support
+  Project of the Plan National Géomatique (<a href="http://www.rncan.gc.ca/sciences-terre/a-propos/international/collaboration/4618">PNG</a>)
+  held a one day workshop around OSM at the ADIE office on June 7th. '
 Person: Nicolas Chavent
 Working Group: []
 Projects:

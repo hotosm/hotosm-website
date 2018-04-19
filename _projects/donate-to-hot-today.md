@@ -4,9 +4,15 @@ date: 2015-11-06 15:22:33 Z
 permalink: projects/donate_to_hot_today
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/HOT_fundraising_image_hires.jpg
 position: 32
+<<<<<<< HEAD
 Summary Text: "https://donate.hotosm.org You can make the difference in helping
   HOT meet it's fundraising target for 2015 and raise $50,000 by Dec 31. Thank you
   Mapbox for matching the first $10,000. Please donate today!"
+=======
+Summary Text: You can make the difference in helping HOT meet it's fundraising target
+  for 2015 and raise $50,000 by Dec 31. Thank you Mapbox for matching the first $10,000.
+  Please donate today!
+>>>>>>> 542f91a38ed91a7c8292e4cbce800f6632190ef0
 HOT Involvement: Partnerships
 Person:
 - Katja Ulbert

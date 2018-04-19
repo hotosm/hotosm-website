@@ -2,13 +2,13 @@
 title: Passengers created the public transportation map of Managua
 date: 2016-02-04 09:06:18 Z
 permalink: updates/2016-02-04_passengers_created_the_public_transportation_map_of_managua
-Summary Text: "We made great progress on a crowd-sourced public transportation map
-  for Managua!\r\nOver seventy generous donours supported us, through our crowd-funding
-  initiative, to raise $6,212 dollars and with this they enabled us to print the city's
+Summary Text: 'We made great progress on a crowd-sourced public transportation map
+  for Managua!Over seventy generous donours supported us, through our crowd-funding
+  initiative, to raise $6,212 dollars and with this they enabled us to print the city''s
   bus map 40,000 times. Yesterday, members of the OpenStreetMap Nicaragua cummunity
   handed over the collaboratively created and printed public transportation maps to
-  the people.\r\nManagua became Central America's first capital with a complete transportation
-  map. And only the community made this possible:"
+  the people.Managua became Central America''s first capital with a complete transportation
+  map. And only the community made this possible:'
 Person: Felix Delattre
 Working Group: []
 Projects:

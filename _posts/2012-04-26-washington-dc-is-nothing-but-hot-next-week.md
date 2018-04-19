@@ -2,15 +2,15 @@
 title: Washington DC is Nothing... but HOT next week!
 date: 2012-04-26 13:13:08 Z
 permalink: updates/2012-04-26_washington_dc_is_nothing_but_hot_next_week!
-Summary Text: "Next week the Board of Directors of the Humanitarian OpenStreetMap
-  Team is descending upon Washington D.C. for a strategic planning meeting. You may
-  have previously seen an announcement on some of the digital volunteer oriented mailing
-  list.  The micro-grant provided by the <a href=\"http://www.wilsoncenter.org/\">Wilson
-  Center</a> is providing facilitation and support with help from the <a href=\"http://www.merid.org/\">Meridian Institute</a> to
+Summary Text: Next week the Board of Directors of the Humanitarian OpenStreetMap Team
+  is descending upon Washington D.C. for a strategic planning meeting. You may have
+  previously seen an announcement on some of the digital volunteer oriented mailing
+  list.  The micro-grant provided by the <a href="http://www.wilsoncenter.org/">Wilson
+  Center</a> is providing facilitation and support with help from the <a href="http://www.merid.org/">Meridian Institute</a> to
   further refine our mission and goals. Along with this high-level meeting we've used
   the opportunity to speak at other events in the area. We hope to see you at some
-  of them.\r\n<h3><a href=\"http://www.meetup.com/Geo-DC/events/58473832/\">May 2nd
-  7:00pm-? GeoDC - Crisis Mapping Focused May Meet-up</a></h3>\r\n"
+  of them.<h3><a href="http://www.meetup.com/Geo-DC/events/58473832/">May 2nd 7:00pm-?
+  GeoDC - Crisis Mapping Focused May Meet-up</a></h3>
 Person: Kate Chapman
 Working Group: []
 Projects: []

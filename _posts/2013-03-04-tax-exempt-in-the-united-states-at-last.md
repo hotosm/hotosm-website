@@ -2,14 +2,13 @@
 title: Tax-Exempt in the United States at Last!
 date: 2013-03-04 09:40:05 Z
 permalink: updates/2013-03-04_tax-exempt_in_the_united_states_at_last!
-Summary Text: "<h2>Background</h2>\r\n\r\nHOT has been incorporated as a non-profit
-  in Washington D.C. since August, 2010. The paperwork was originally done with a
-  simple need in mind, that we wanted to continue to assist with the collection of
-  data and use of OpenStreetMap in Haiti. Since this initial incorporation we have
-  expanded our field work to include 8 countries in the Caribbean, Africa and Asia.
-  We have also responded remotely to many kinds of disasters around the world.  This
-  week we reached another administrative milestone as a young non-profit incorporated
-  in the United States.\r\n\r\n"
+Summary Text: "<h2>Background</h2>HOT has been incorporated as a non-profit in Washington
+  D.C. since August, 2010. The paperwork was originally done with a simple need in
+  mind, that we wanted to continue to assist with the collection of data and use of
+  OpenStreetMap in Haiti. Since this initial incorporation we have expanded our field
+  work to include 8 countries in the Caribbean, Africa and Asia. We have also responded
+  remotely to many kinds of disasters around the world.  This week we reached another
+  administrative milestone as a young non-profit incorporated in the United States."
 Person: Kate Chapman
 Working Group: []
 Projects: []

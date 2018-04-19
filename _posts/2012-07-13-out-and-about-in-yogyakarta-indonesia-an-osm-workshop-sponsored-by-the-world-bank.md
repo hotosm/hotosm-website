@@ -3,14 +3,14 @@ title: 'Out and about in Yogyakarta, Indonesia:  An OSM workshop sponsored by th
   World Bank'
 date: 2012-07-13 08:49:58 Z
 permalink: updates/2012-07-13_out_and_about_in_yogyakarta_indonesia__an_osm_workshop_sponsored_by_the_world_ba
-Summary Text: "My name is Katrina and I am a new addition to the HOT team in Indonesia.
-  \ My first day of work started out with a morning plane from Jakarta to Yogyakarta,
-  the historic and cultural kingdom of Indonesia.  The reason why I call it a kingdom
+Summary Text: My name is Katrina and I am a new addition to the HOT team in Indonesia.  My
+  first day of work started out with a morning plane from Jakarta to Yogyakarta, the
+  historic and cultural kingdom of Indonesia.  The reason why I call it a kingdom
   is because it is the only precinct in Indonesia that still contains a king.  Unfortunately,
   Kate, Emir, Vau and I were too busy with the two day workshop to see the king's
   residences.  Hopefully, we can sneak away next time we visit for an intermediate
   and advanced OSM workshop we will have more time...   I would love to map those
-  quarters.  \r\n\r\n\r\n<em> The Participants </em>\r\n"
+  quarters.  <em> The Participants </em>
 Person: Katrina E.
 Working Group: []
 Projects:

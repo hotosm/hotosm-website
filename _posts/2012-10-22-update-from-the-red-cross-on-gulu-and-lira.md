@@ -3,15 +3,14 @@ title: Update from the Red Cross on Gulu and Lira
 date: 2012-10-22 16:21:49 Z
 permalink: updates/2012-10-22_update_from_the_red_cross_on_gulu_and_lira
 Summary Text: "<p><i>An update and thank you from Robert Banick at the American Red
-  Cross on Gulu and Lira mapping</i>\r\n\r\n<p>The first stage of the Red Cross's
-  on-the-ground mapping exercises are wrapping up and I wanted to provide an update
-  to all the incredible volunteers who got us this far.\r\n\r\n<p>[inline:2012-09-06
-  12.57.56 HDR.jpg]\r\n\r\nYour contributions to OSM were huge to us in Gulu, where
-  we led a training on GIS basics for 12 Uganda Red Cross Society members. OSM in
-  Gulu was used throughout to ground the course in real data: our GPS exercises were
-  about collecting data for OSM and our mapping sessions made heavy use of the Gulu
-  data. Uganda Red Cross staff were pretty delighted to see their contributions go
-  right into the map.\r\n \r\n[inline:Gulu Fire Risk.png]\r\n\r\n"
+  Cross on Gulu and Lira mapping</i><p>The first stage of the Red Cross's on-the-ground
+  mapping exercises are wrapping up and I wanted to provide an update to all the incredible
+  volunteers who got us this far.<p>[inline:2012-09-06 12.57.56 HDR.jpg]Your contributions
+  to OSM were huge to us in Gulu, where we led a training on GIS basics for 12 Uganda
+  Red Cross Society members. OSM in Gulu was used throughout to ground the course
+  in real data: our GPS exercises were about collecting data for OSM and our mapping
+  sessions made heavy use of the Gulu data. Uganda Red Cross staff were pretty delighted
+  to see their contributions go right into the map. [inline:Gulu Fire Risk.png]"
 Person: Mikel Maron
 Working Group: []
 Projects: []

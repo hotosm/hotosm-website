@@ -5,11 +5,10 @@ permalink: updates/2012-12-07_intermediate_trainings_begin
 Summary Text: "Last week, we started intermediate training for the six disaster prone
   provinces that we are piloting. Our intermediate material covers some gaps that
   we did not have time to cover in the beginning workshops, like how to offset imagery
-  that is incorrectly georeferenced and/or conflict resolution.\r\n\r\nWe covered
-  general topics that focused on better OSM editing and validating: \r\n01.  Editing
-  in Detail\r\n\t1.5. Conflict Resolution\r\n02.  Quality Assurance (and the Tasking
-  Manager)\r\n03.  Editing the Wiki \r\n04.  Creating XML and JOSM presets\r\n05.
-  \ Private Data Store"
+  that is incorrectly georeferenced and/or conflict resolution.We covered general
+  topics that focused on better OSM editing and validating: 01.  Editing in Detail\t1.5.
+  Conflict Resolution02.  Quality Assurance (and the Tasking Manager)03.  Editing
+  the Wiki 04.  Creating XML and JOSM presets05.  Private Data Store"
 Person: Katrina E.
 Working Group: []
 Projects:
