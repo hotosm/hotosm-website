@@ -1,7 +1,7 @@
 ---
 title: Mongolia, Mapping Ulaanbaatar
 date: 2013-10-11 18:32:19 Z
-permalink: mongolia_mapping_ulaanbaatar
+permalink: projects/mongolia_mapping_ulaanbaatar
 position: 15
 HOT Involvement: Community Development
 Person:

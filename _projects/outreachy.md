@@ -1,7 +1,7 @@
 ---
 title: Outreachy
 date: 2015-05-28 14:17:00 Z
-permalink: outreachy
+permalink: projects/outreachy
 position: 21
 HOT Involvement: Partnerships
 Person:

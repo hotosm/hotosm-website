@@ -1,7 +1,7 @@
 ---
 title: Women and Girls in Mapping
 date: 2017-03-06 23:26:57 Z
-permalink: women_and_girls_in_mapping
+permalink: projects/women_and_girls_in_mapping
 position: 45
 HOT Involvement: Community Development
 Person:

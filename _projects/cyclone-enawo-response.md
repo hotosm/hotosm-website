@@ -1,7 +1,7 @@
 ---
 title: Cyclone Enawo Response
 date: 2017-04-29 01:06:55 Z
-permalink: cyclone_enawo_response
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/
 position: 46
 HOT Involvement: Disaster Mapping
 Person:
@@ -11,4 +11,3 @@ Duration:
   End Date: '2017-10-01 00:00:00 +0000'
 created: 1493428015
 ---
-

@@ -1,7 +1,7 @@
 ---
 title: Ecuador Earthquake
 date: 2016-04-22 20:36:41 Z
-permalink: ecuador_earthquake
+permalink: projects/ecuador_earthquake
 position: 35
 Summary Text: 'HOT is supporting the Ecuador Earthquake response. The strongest earthquake
   to hit Ecuador in decades flattened buildings and buckled highways along its Pacific

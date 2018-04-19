@@ -1,7 +1,7 @@
 ---
 title: MapGive
 date: 2015-08-01 17:41:51 Z
-permalink: mapgive
+permalink: projects/mapgive
 position: 4
 Summary Text: HOT supported the launch of MapGive in March 2014.
 HOT Involvement: Partnerships

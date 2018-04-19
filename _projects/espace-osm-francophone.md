@@ -1,7 +1,7 @@
 ---
 title: Espace OSM Francophone
 date: 2013-07-02 20:29:45 Z
-permalink: espace_osm_francophone
+permalink: projects/espace_osm_francophone
 position: 14
 Summary Text: "<em><a href=\"http://hot.openstreetmap.org/projects/espace_osm_francophone_0#english_version\">English
   version of the text follows below</a></em>\r\nFort du soutien financier et opérationnel

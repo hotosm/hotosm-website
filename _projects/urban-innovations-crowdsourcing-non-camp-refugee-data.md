@@ -1,7 +1,7 @@
 ---
 title: 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 date: 2017-02-06 15:06:00 Z
-permalink: urban_innovations_crowdsourcing_non-camp_refugee_data
+permalink: projects/urban_innovations_crowdsourcing_non-camp_refugee_data
 position: 1
 Feature Image: "/uploads/Uganda_MSFCompound-Yombe-SSudanese%20refugee%20mapping_July2017.jpg"
 HOT Involvement: Community Development

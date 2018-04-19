@@ -1,7 +1,7 @@
 ---
 title: Field Papers
 date: 2015-05-28 15:30:21 Z
-permalink: field_papers
+permalink: projects/field_papers
 position: 23
 Summary Text: Field Papers is a web based tool developed by Stamen Designs which creates
   printable map atlases for anywhere in the world that can be taken out into the field.

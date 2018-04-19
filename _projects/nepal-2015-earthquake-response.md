@@ -1,7 +1,7 @@
 ---
 title: Nepal 2015 Earthquake Response
 date: 2015-04-27 04:39:36 Z
-permalink: nepal_2015_earthquake_response
+permalink: projects/nepal_2015_earthquake_response
 position: 19
 HOT Involvement: Disaster Mapping
 Person:
