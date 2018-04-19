@@ -1,4 +1,4 @@
-// add stats to the home page 
+// add stats to the home page
 $(document).ready(function(){
   $.get("https://tasks.hotosm.org/api/v1/stats/home-page", function(data){
     $('#Community-Mappers').text(formatedData(data['totalMappers']));
@@ -50,13 +50,6 @@ $(window).scroll(function() {
   }
 });
 
-$(function() {
-  $("#submit").hide();
-  $("#country-select select").change(function() {
-    window.location = $("#page-changer select option:selected").val();
-  })
-});
-
 $(".search-link").on("click",function () {
   $("#search-overlay").addClass('search-show');
   $( "#search-input" ).focus();
@@ -87,4 +80,3 @@ var sjs = SimpleJekyllSearch({
 function formatedData(x){
   return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
-
