@@ -1,7 +1,8 @@
 ---
 title: Cyclone Enawo Response
 date: 2017-04-29 01:06:55 Z
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/
+permalink: projects/cyclone_enawo_response
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/maroantsetra_buildings_lowres.png
 position: 46
 HOT Involvement: Disaster Mapping
 Person:
