@@ -127,13 +127,14 @@ a .boxed {
   background-color: $red;
   padding: 10px 42px 12px 12px;
   margin-bottom: 0;
+  z-index: 1;
   @media (max-width: $screen-sm) {
-    padding: 12px 16px 14px;
-    margin-right: 24px;
+    padding: 12px 42px 14px 12px;
+    margin-right: 0px;
   }
   @media (max-width: $screen-xs) {
-    padding: 11px 17px 14px;
-    margin-right: 16px;
+    padding: 11px 42px 14px 12px;
+    margin-right: 0px;
   }
   background-image: url(../images/icon-map-expand.svg);
   background-repeat: no-repeat;
@@ -144,6 +145,10 @@ a .boxed {
 
 .boxed-down {
   top: 410px;
+}
+
+#expand-map-btn {
+  padding-top: 8px;
 }
 
 .hide {

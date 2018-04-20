@@ -14,13 +14,15 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24
 var map = new mapboxgl.Map({
   container: 'map',
   logoPosition: 'bottom-right',
-  // scrollZoom: false,
+  scrollZoom: false,
   zoom: 1.25,
   center: [0, 25],
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 });
 
 map.on('load', function () {
+  $('.mapboxgl-ctrl').addClass('hide');
+
   countriesList = Object.keys(countries);
   var activeCountries = countriesList.filter(function(item) {
     return countries[item].hot_program || countries[item].member;
@@ -43,7 +45,8 @@ map.on('load', function () {
     "maxzoom": 8,
     'filter': ['in', 'name_low'].concat(activeCountries),
     "paint": {
-      "fill-color": "#D73F3F"
+      "fill-color": "#D73F3F",
+      "fill-outline-color": "#fff"
     }
   });
   map.addLayer({
@@ -55,8 +58,18 @@ map.on('load', function () {
     "maxzoom": 8,
     'filter': ['in', 'name_low'].concat(communityCountries),
     "paint": {
-      "fill-color": "#FAA71E"
+      "fill-color": "#FAA71E",
+      "fill-outline-color": "#fff"
     }
+  });
+
+  map.on('click', function(e) {
+    var features = map.queryRenderedFeatures(
+      [e.point.x, e.point.y],
+      {layers: ['active_countries', 'community_countries']}
+    );
+    var country_name = features[0].properties.name_low.split(' ').join('-');
+    $(location).attr('href', '/where-we-work/' + country_name);
   });
 });
 
@@ -68,6 +81,7 @@ function expandMap() {
     $('.project-index-header').removeClass('boxed-down');
     $('#close-map-txt').addClass('hide');
     $('#expand-map-txt').removeClass('hide');
+    $('.mapboxgl-ctrl').addClass('hide');
   } else {
     map.scrollZoom.enable();
     $('.project-index-header').addClass('boxed-down');
@@ -75,6 +89,7 @@ function expandMap() {
     $('.home-highlights-wrapper').addClass('right');
     $('#close-map-txt').removeClass('hide');
     $('#expand-map-txt').addClass('hide');
+    $('.mapboxgl-ctrl').removeClass('hide');
   }
   fullMap = !fullMap;
 }
