@@ -120,6 +120,36 @@ h6 {
   }
 }
 
+a .boxed {
+  font-size: 0.97rem;
+  display: inline-block;
+  color: $white;
+  background-color: $red;
+  padding: 10px 42px 12px 12px;
+  margin-bottom: 0;
+  @media (max-width: $screen-sm) {
+    padding: 12px 16px 14px;
+    margin-right: 24px;
+  }
+  @media (max-width: $screen-xs) {
+    padding: 11px 17px 14px;
+    margin-right: 16px;
+  }
+  background-image: url(../images/icon-map-expand.svg);
+  background-repeat: no-repeat;
+  background-position: 165px center;
+  background-size: 0.7;
+  cursor: pointer;
+}
+
+.boxed-down {
+  top: 410px;
+}
+
+.hide {
+  display: none !important;
+}
+
 a {
   color: $red;
 }
@@ -2065,6 +2095,14 @@ em {
   height: 400px;
   width: 100%;
   position: absolute;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
 }
 
 .project-map-area {

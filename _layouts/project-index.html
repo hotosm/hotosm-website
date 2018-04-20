@@ -11,7 +11,17 @@ layout: default
     <div class="project-index-header">
 
       <div class="container">
-        <div><h1 class="boxed">{{ page.title }}</h1></div>
+        <div>
+          <h1 class="boxed">{{ page.title }}</h1>
+          <a class="right" id="expand-map-btn" onclick="expandMap()">
+            <h6 class="boxed" id="expand-map-txt">
+              See where we work <span class="expand-our-work-map"></span>
+            </h6>
+            <h6 class="boxed hide" id="close-map-txt">
+              Exit the map
+            </h6>
+          </a>
+        </div>
       </div>
 
       <div class="project-index-areas">
