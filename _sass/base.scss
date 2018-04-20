@@ -128,6 +128,9 @@ a .boxed {
   padding: 10px 42px 12px 12px;
   margin-bottom: 0;
   z-index: 1;
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-size: 0.7;
   @media (max-width: $screen-sm) {
     padding: 12px 42px 14px 12px;
     margin-right: 0px;
@@ -136,19 +139,21 @@ a .boxed {
     padding: 11px 42px 14px 12px;
     margin-right: 0px;
   }
-  background-image: url(../images/icon-map-expand.svg);
-  background-repeat: no-repeat;
-  background-position: 165px center;
-  background-size: 0.7;
-  cursor: pointer;
 }
 
 .boxed-down {
   top: 410px;
 }
 
-#expand-map-btn {
+#close-map-txt {
+  background-position: 85px center;
+  background-image: url(../images/icon-close.svg);
+}
+
+#expand-map-txt {
   padding-top: 8px;
+  background-position: 165px center;
+  background-image: url(../images/icon-map-expand.svg);
 }
 
 .hide {
