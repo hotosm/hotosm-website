@@ -10,7 +10,7 @@ Summary Text: HOT begins to transition mapping of critical data in response to t
 Person: Russell Deffner
 Working Group:
 - Activation
-Projects:
+Project:
 - Fall 2017 Disaster Response
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/CaribbeanHurricanes1109.png
 created: 1510339463

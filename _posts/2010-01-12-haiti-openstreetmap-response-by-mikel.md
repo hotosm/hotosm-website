@@ -5,7 +5,7 @@ permalink: updates/2010-01-12_haiti_openstreetmap_response_by_mikel
 Summary Text: ''
 Person: Mikel Maron
 Working Group: []
-Projects:
+Project:
 - 'Haiti '
 created: 1263318335
 ---

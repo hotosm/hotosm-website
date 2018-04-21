@@ -7,7 +7,7 @@ Summary Text: 'One of the unique features of OpenStreetMap is the license to use
   said than done. '
 Person: Will Skora
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image.jpeg
 created: 1371244061
 ---

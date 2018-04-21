@@ -9,8 +9,8 @@ Summary Text: The Ramani Huria team was proud to be part of the first Africa Ope
   across Africa.’
 Person: Paul Uithol
 Working Group: []
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/rtDjzoSk_pdaHJIptNLqGBrek22PC8KQ-DROyGI9sAFbJB4j-rjaYm8Xz0Ppf1xF_Kxrq3qm4s.jpg
 created: 1442273509
 ---

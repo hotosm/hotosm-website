@@ -6,7 +6,7 @@ permalink: updates/2017-03-22_how_youth_mappers_in_uganda_are_improving_their_ma
 Person: Geoffrey Kateregga
 Working Group:
 - Community
-Projects:
+Project:
 - Malaria Elimination Campaign
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/makerere.jpg
 created: 1490168878

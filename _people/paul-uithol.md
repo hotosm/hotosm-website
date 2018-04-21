@@ -12,7 +12,7 @@ Project:
 - OpenMapKit
 - Hurricane Matthew
 - 'LEGIT: Supporting decentralization in Liberian cities'
-- Dar Ramani Huria - Dar Open Map
+- Dar Ramani Huria — Dar Open Map
 Country: Netherlands
 Social Media (Full URL):
   LinkedIn: https://nl.linkedin.com/in/pauluithol

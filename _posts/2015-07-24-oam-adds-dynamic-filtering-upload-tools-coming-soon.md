@@ -4,7 +4,7 @@ date: 2015-07-24 07:31:00 Z
 permalink: updates/2015-07-24_oam_adds_dynamic_filtering_upload_tools_coming_soon
 Person: Cristiano Giovando
 Working Group: []
-Projects:
+Project:
 - OpenAerialMap
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2015-07-24+at+00.13.20.png
 created: 1437723060

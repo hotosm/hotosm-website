@@ -4,7 +4,7 @@ date: 2010-06-18 20:27:30 Z
 permalink: updates/2010-06-18_haiti_mission_3_-_training_day_with_haitian_partners_of_the_project_winner
 Person: Nicolas Chavent
 Working Group: []
-Projects: []
+Project: []
 created: 1276892850
 ---
 

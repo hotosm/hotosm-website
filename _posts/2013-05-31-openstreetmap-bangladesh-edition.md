@@ -8,7 +8,7 @@ Summary Text: 'Written with Andrew SalzbergThe recent horrific <a href="http://e
   at the far end of the supply chain. '
 Person: Alyssa Wright
 Working Group: []
-Projects: []
+Project: []
 created: 1370002930
 ---
 

@@ -4,7 +4,7 @@ date: 2013-12-01 10:28:03 Z
 permalink: updates/2013-12-01_mapping_request_for_carles_area_(typhoon_haiyan)
 Person: Heather Leson
 Working Group: []
-Projects:
+Project:
 - Typhoon Haiyan
 created: 1385893683
 ---

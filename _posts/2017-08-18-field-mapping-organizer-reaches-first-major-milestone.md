@@ -4,7 +4,7 @@ date: 2017-08-18 11:09:01 Z
 permalink: updates/2017-08-18_field_mapping_organizer_reaches_first_major_milestone
 Person: Nate Smith
 Working Group: []
-Projects:
+Project:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20160119_102604-compressor.jpg
 created: 1503054541

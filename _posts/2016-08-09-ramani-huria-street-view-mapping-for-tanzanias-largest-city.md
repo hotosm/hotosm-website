@@ -5,8 +5,8 @@ permalink: updates/2016-08-09_ramani_huria_street_view_mapping_for_tanzania's_la
 Person: Innocent Maholi
 Working Group:
 - Community
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20684152284_c282fe75f0_o.jpg
 created: 1470762171
 ---

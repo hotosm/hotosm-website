@@ -5,7 +5,7 @@ permalink: updates/2016-09-15_mapping_for_resilience_-_karamoja_region_uganda
 Person: 'Douglas Ssebaggala '
 Working Group:
 - Community
-Projects:
+Project:
 - Mapping Financial Inclusion in Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/10c518ac-197a-40c6-8e4b-0aca07b88829.jpg
 created: 1473948838

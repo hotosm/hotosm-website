@@ -9,7 +9,7 @@ Summary Text: 'HOT''s 2015 Annual Report is now online! The report and projects 
   annual report. '
 Person: Tyler Radford
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/HOT_2015_Annual_Report.jpg
 created: 1475854121
 ---

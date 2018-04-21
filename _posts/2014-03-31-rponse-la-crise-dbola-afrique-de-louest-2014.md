@@ -4,7 +4,7 @@ date: 2014-03-31 01:59:34 Z
 permalink: updates/2014-03-31_réponse_à_la_crise_d'Ébola_afrique_de_l'ouest_2014
 Person: Pierre Béland
 Working Group: []
-Projects:
+Project:
 - West Africa Ebola Epidemic
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/msf-suisse-ebola-2.png
 created: 1396231174

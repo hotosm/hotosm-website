@@ -9,7 +9,7 @@ Summary Text: 'This blog is the second in a series of ‘Learn Export Tool’ po
   will cover how to ‘Customise Map Features’ and examples of ‘Applying Exported Data’. '
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - 'Export Tool 3.0 '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Export+Tool+-+Learn+Series.png
 created: 1507061324

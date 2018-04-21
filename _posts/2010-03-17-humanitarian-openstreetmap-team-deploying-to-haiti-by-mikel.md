@@ -4,7 +4,7 @@ date: 2010-03-17 18:44:35 Z
 permalink: updates/2010-03-17_humanitarian_openstreetmap_team_deploying_to_haiti_by_mikel
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 created: 1268851475
 ---
 

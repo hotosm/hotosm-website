@@ -4,7 +4,7 @@ date: 2017-02-13 10:46:38 Z
 permalink: updates/2017-02-13_growing_openaerialmap_with_responsible_imagery
 Person: Nate Smith
 Working Group: []
-Projects:
+Project:
 - OpenAerialMap
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen-Shot-2017-02-13-at-1.00.49-PM-compressor.png
 created: 1486982798

@@ -13,7 +13,7 @@ Summary Text: 'HOT has teamed up with the American and Ugandan Red Cross to virt
   or accidents.    '
 Person: Katrina E.
 Working Group: []
-Projects: []
+Project: []
 created: 1345482033
 ---
 

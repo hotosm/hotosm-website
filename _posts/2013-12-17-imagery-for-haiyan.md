@@ -4,7 +4,7 @@ date: 2013-12-17 12:53:26 Z
 permalink: updates/2013-12-17_imagery_for_haiyan
 Person: Kate Chapman
 Working Group: []
-Projects:
+Project:
 - Typhoon Haiyan
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screenshot.png
 created: 1387284806

@@ -4,7 +4,7 @@ date: 2017-02-21 19:07:16 Z
 permalink: updates/2017-02-21_2017_microgrants_programme_in_full_swing_-_read_our_q&a_summary
 Person: Rebecca Firth
 Working Group: []
-Projects:
+Project:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017+microgrants_0.png
 created: 1487704036

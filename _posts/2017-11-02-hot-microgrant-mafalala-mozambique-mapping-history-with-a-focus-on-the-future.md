@@ -6,7 +6,7 @@ permalink: updates/2017-11-02_hot_microgrant_mafalala_mozambique_-_mapping_histo
 Person: Rebecca Firth
 Working Group:
 - Community
-Projects:
+Project:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-11-02+at+21.00.42.png
 created: 1509652826

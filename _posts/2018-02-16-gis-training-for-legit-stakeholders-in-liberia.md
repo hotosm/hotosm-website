@@ -4,7 +4,7 @@ date: 2018-02-16 07:49:25 Z
 permalink: updates/2018-02-16_gis_training_for_legit_stakeholders_in_liberia
 Person: David Luswata
 Working Group: []
-Projects:
+Project:
 - 'LEGIT: Supporting decentralization in Liberian cities'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/01.jpg
 created: 1518767365

@@ -4,7 +4,7 @@ date: 2014-02-18 22:28:39 Z
 permalink: updates/2014-02-18_learnosm_updates
 Person: Jeff Haack
 Working Group: []
-Projects:
+Project:
 - LearnOSM
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/new_learn_osm.png
 created: 1392762519

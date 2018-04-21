@@ -4,7 +4,7 @@ date: 2016-03-10 18:05:30 Z
 permalink: updates/2016-03-10_osm_data_analysis_tool_development_kicks_off!
 Person: Cristiano Giovando
 Working Group: []
-Projects:
+Project:
 - OpenStreetMap Analytics
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20160303_125627609_HDR.jpg
 created: 1457633130

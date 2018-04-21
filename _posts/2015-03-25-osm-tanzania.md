@@ -4,8 +4,8 @@ date: 2015-03-25 18:52:50 Z
 permalink: updates/2015-03-25_osm_tanzania
 Person: Steven Bukulu
 Working Group: []
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 created: 1427309570
 ---
 

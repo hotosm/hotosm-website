@@ -4,7 +4,7 @@ date: 2015-08-31 19:40:27 Z
 permalink: updates/2015-08-31_alpha_release_of_the_redeveloped_export_tool_
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - Export Tool
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/export_tool.png
 created: 1441050027

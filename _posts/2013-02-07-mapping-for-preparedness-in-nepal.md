@@ -13,7 +13,7 @@ Summary Text: "<i>Today I bring you a guest post about a great project in Nepal.
   in the Kathmandu Valley alone, injuring another 300,000 and displacing up to 1 million."
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Nepal_Activites.jpg
 created: 1360198238
 ---

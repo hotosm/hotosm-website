@@ -5,7 +5,7 @@ permalink: updates/2016-12-01_hot's_osm_tasking_manager_30_development_kick-off!
 Person: Blake Girardot
 Working Group:
 - Training
-Projects:
+Project:
 - OSM Tasking Manager 3.0 Development
 created: 1480633379
 ---

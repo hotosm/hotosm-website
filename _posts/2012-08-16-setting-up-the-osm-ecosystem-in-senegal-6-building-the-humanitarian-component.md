@@ -10,7 +10,7 @@ Summary Text: 'It’s finally time to mention the mapping party HOT and <a href=
   and HOT. '
 Person: Nicolas Chavent
 Working Group: []
-Projects:
+Project:
 - Senegal
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image008_0.jpg
 created: 1345128771

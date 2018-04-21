@@ -10,7 +10,7 @@ Summary Text: As we wrote earlier, Indonesia’s disaster management agency is t
   one.
 Person: Biondi Sanda Sima
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/17879888_1728450020780379_3811758073513746730_o.jpg
 created: 1493281790

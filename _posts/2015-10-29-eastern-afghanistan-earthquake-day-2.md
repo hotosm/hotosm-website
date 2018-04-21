@@ -9,7 +9,7 @@ Summary Text: Since the Humanitarian OpenStreetMap Team (HOT) officially activat
 Person: Mhairi O'Hara
 Working Group:
 - Activation
-Projects:
+Project:
 - Eastern Afghanistan Earthquake
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/OSM+Changesets-resized.png
 created: 1446090332

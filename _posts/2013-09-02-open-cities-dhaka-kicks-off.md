@@ -4,7 +4,7 @@ date: 2013-09-02 04:28:14 Z
 permalink: updates/2013-09-02_open_cities_dhaka_kicks_off
 Person: Jeff Haack
 Working Group: []
-Projects: []
+Project: []
 created: 1378096094
 ---
 

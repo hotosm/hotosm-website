@@ -12,7 +12,7 @@ Summary Text: "<b>Emir Hartato</b>,22, has been working on the HOT Indonesian te
   has to say about his work with HOT so far:<b>How did you get involved with HOT/OSM?</b>"
 Person: Katrina E.
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/emr_0.jpg
 created: 1360491111

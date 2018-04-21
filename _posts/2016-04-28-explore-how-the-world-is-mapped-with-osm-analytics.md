@@ -7,7 +7,7 @@ Summary Text: Today we are launching OSM Analytics, a platform for exploring and
   thousands of features added every day, OSM is officially entering the big data league.
 Person: Cristiano Giovando
 Working Group: []
-Projects:
+Project:
 - OpenStreetMap Analytics
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2016-04-28+at+14.05.34.png
 created: 1461844576

@@ -5,7 +5,7 @@ permalink: updates/2016-10-04_hurricane_matthew
 Person: Dale Kunce
 Working Group:
 - Activation
-Projects:
+Project:
 - Hurricane Matthew
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/025738W5_NL_sm.gif
 created: 1475554217

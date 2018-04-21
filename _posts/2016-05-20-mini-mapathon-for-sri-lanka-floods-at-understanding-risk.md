@@ -5,7 +5,7 @@ permalink: updates/2016-05-20_mini-mapathon_for_sri_lanka_floods_at_understandin
 Person: Heather Leson
 Working Group:
 - Activation
-Projects:
+Project:
 - Sri Lanka Flooding 2016
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Mapping+for+the+Sri+Lanka+Floods+at+Understanding+Risk+(May+2016).jpg
 created: 1463738152

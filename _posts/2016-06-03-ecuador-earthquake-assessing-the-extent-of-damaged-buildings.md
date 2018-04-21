@@ -8,7 +8,7 @@ Summary Text: 'Efforts are still going strong 7 weeks after the initial earthqua
   2nd stage, a pilot project aimed at mapping building damage and temporary shelters. '
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - Ecuador Earthquake
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2016-06-03+at+14.16.32.png
 created: 1464936930

@@ -9,7 +9,7 @@ Summary Text: Greetings HOT Community,Each year the Humanitarian OpenStreetMap T
   adopting or amending policies such as the Membership Code of Conduct.
 Person: Russell Deffner
 Working Group: []
-Projects: []
+Project: []
 created: 1458764399
 ---
 

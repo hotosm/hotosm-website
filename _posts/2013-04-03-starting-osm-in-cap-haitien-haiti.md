@@ -9,7 +9,7 @@ Summary Text: 'Ten days that I am back in Haiti to start a new HOT project with 
   local group rooted in the University of Limonade. '
 Person: Nicolas Chavent
 Working Group: []
-Projects: []
+Project: []
 created: 1364962475
 ---
 

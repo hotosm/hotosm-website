@@ -4,7 +4,7 @@ date: 2010-06-15 03:53:25 Z
 permalink: updates/2010-06-15_third_deploy_to_haiti_of_the_humanitarian_openstreetmap_team_14-29_june
 Person: Nicolas Chavent
 Working Group: []
-Projects: []
+Project: []
 created: 1276574005
 ---
 

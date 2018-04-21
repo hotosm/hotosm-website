@@ -10,7 +10,7 @@ Summary Text: 'Kate Chapman, with assistance from Emir Hartato, her Indonesian t
   developed.'
 Person: Katrina E.
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/cover_image.jpg
 created: 1343711996

@@ -4,7 +4,7 @@ date: 2016-05-17 21:34:51 Z
 permalink: updates/2016-05-17_hot_summit_2016_-_registration_open
 Person: Cheryl Shaw
 Working Group: []
-Projects:
+Project:
 - HOT Summit 2016
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/HOT+Summit+2015.jpg
 created: 1463520891

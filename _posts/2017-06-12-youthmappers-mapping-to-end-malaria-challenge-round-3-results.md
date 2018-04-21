@@ -5,7 +5,7 @@ permalink: updates/2017-06-12_youthmappers_‘mapping_to_end_malaria’_challeng
 Person: Russell Deffner
 Working Group:
 - Community
-Projects:
+Project:
 - Malaria Elimination Campaign
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20170506_173519.jpg
 created: 1497234339

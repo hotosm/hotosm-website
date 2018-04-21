@@ -4,7 +4,7 @@ date: 2014-08-21 16:58:34 Z
 permalink: updates/2014-08-21_white_house_innovation_for_disaster_response_and_recovery_initiative_demo_day
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 created: 1408640314
 ---
 

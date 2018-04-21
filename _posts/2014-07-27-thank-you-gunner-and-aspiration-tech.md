@@ -5,7 +5,7 @@ permalink: updates/2014-07-27_thank_you_gunner_and_aspiration_tech
 Person: Heather Leson
 Working Group:
 - Communications
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Gunner+at+HOT+Board+meeting.jpg
 created: 1406501601
 ---

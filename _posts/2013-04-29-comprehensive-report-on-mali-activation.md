@@ -4,7 +4,7 @@ date: 2013-04-29 21:14:46 Z
 permalink: updates/2013-04-29_comprehensive_report_on_mali_activation
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/mali-report-all-log.png
 created: 1367270086
 ---

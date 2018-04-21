@@ -5,8 +5,8 @@ permalink: updates/2017-11-05_ramani_huria_building_open_tools_to_map_drains
 Person: Innocent Maholi
 Working Group:
 - Community
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/ino.jpg
 created: 1509898516
 ---

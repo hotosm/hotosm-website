@@ -14,7 +14,7 @@ Summary Text: 'We met at the National Library of Indonesia-- partly for its spac
   and link these pages to OSM, and other maps.  '
 Person: Katrina E.
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_115.png
 created: 1351142550

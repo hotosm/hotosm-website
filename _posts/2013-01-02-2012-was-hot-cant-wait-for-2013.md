@@ -12,7 +12,7 @@ Summary Text: Closing out 2012 HOT has been officially in existence for over two
   continued growth of the organization.
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 created: 1357137581
 ---
 

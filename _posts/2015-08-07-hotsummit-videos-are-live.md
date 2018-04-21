@@ -4,7 +4,7 @@ date: 2015-08-07 17:55:55 Z
 permalink: updates/2015-08-07_#hotsummit_videos_are_live!
 Person: Kristen Egermeier
 Working Group: []
-Projects: []
+Project: []
 created: 1438970155
 ---
 

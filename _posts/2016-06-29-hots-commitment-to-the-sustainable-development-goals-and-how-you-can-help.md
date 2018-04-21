@@ -17,7 +17,7 @@ Summary Text: 'When I speak with HOT staff and volunteers in our community, I of
   housing settlements.So what does this have to do with the SDGs?'
 Person: Tyler Radford
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Chart_of_UN_Sustainable_Development_Goals.png
 created: 1467238492
 ---

@@ -8,7 +8,7 @@ Summary Text: La semaine internationale de sensibilisation à la géographie (Ge
   participer massivement cette année !
 Person: Pete Masters
 Working Group: []
-Projects:
+Project:
 - Missing Maps
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/mapathon_Bangladesh_Jan15.jpg
 created: 1444391997

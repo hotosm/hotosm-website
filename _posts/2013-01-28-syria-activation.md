@@ -10,7 +10,7 @@ Summary Text: Following a request from UN OCHA and SNAP, HOT is activating a rem
   in this area.
 Person: Joseph Reeves
 Working Group: []
-Projects: []
+Project: []
 created: 1359375884
 ---
 

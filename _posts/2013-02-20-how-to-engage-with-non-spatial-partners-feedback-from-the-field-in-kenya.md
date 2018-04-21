@@ -4,7 +4,7 @@ date: 2013-02-20 04:34:58 Z
 permalink: updates/2013-02-20_how_to_engage_with_non-spatial_partners_feedback_from_the_field_in_kenya
 Person: Stéphane Henriod
 Working Group: []
-Projects:
+Project:
 - EUROSHA
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/map_1.png
 created: 1361334898

@@ -4,7 +4,7 @@ date: 2010-06-19 08:33:57 Z
 permalink: updates/2010-06-19_how_to_improve_our_work_in_haiti?_mapmaker_and_osm_thoughts_too_by_mikel
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 created: 1276936437
 ---
 

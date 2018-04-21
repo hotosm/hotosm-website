@@ -8,7 +8,7 @@ Summary Text: Help HOT provide 10 communities with equipment and funding to map!
   first time. You can show your support by making a donation today.
 Person: Tyler Radford
 Working Group: []
-Projects:
+Project:
 - Mapping the world’s vulnerable places begins with you!
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/video+screenshot.PNG
 created: 1480371725

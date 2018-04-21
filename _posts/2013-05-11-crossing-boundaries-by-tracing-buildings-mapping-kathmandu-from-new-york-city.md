@@ -8,7 +8,7 @@ Summary Text: 'Throughout the day you could hear the simple question - ''Is that
   of a city that seemed so far away from our own. '
 Person: Alyssa Wright
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2013-04-21+16.49.27.jpg
 created: 1368290132
 ---

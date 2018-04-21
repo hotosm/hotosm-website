@@ -4,7 +4,7 @@ date: 2015-05-28 20:44:06 Z
 permalink: updates/2015-05-28_hot_attends_first_white_house_mapathon
 Person: Steven Johnson
 Working Group: []
-Projects: []
+Project: []
 created: 1432845846
 ---
 

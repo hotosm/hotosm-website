@@ -4,7 +4,7 @@ date: 2010-11-24 11:08:58 Z
 permalink: updates/2010-11-24_hot's_proposal_for_the_knight_news_challenge
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 created: 1290596938
 ---
 

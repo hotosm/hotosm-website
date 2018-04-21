@@ -16,7 +16,7 @@ Summary Text: Après la deuxième vague de l'épidémie d'Ebola en juin marquée
   services disponibles.
 Person: Pierre Béland
 Working Group: []
-Projects:
+Project:
 - West Africa Ebola Epidemic
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/umap-tasks-2014-08-01.jpg
 created: 1407287528

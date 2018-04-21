@@ -5,8 +5,8 @@ permalink: updates/2016-10-19_mapping_dar_es_salaam's_water_sanitation_and_hygie
 Person: Innocent Maholi
 Working Group:
 - Community
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2.jpg
 created: 1476887368
 ---

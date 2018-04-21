@@ -5,7 +5,7 @@ permalink: updates/2014-07-21_a_new_version_of_tasking_manager
 Person: Mikel Maron
 Working Group:
 - Training
-Projects:
+Project:
 - Tasking Manager
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/task_manager_v2_screenshot_CAR_example.png
 created: 1405975803

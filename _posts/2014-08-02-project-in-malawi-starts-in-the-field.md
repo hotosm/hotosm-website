@@ -4,7 +4,7 @@ date: 2014-08-02 12:07:09 Z
 permalink: updates/2014-08-02_project_in_malawi_starts_in_the_field!
 Person: Séverin Ménard
 Working Group: []
-Projects:
+Project:
 - Malawi Flood Preparedness
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/P1040705_50%.JPG
 created: 1406981229

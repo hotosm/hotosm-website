@@ -10,7 +10,7 @@ Summary Text: Many of us have spare quiet moments in the Christmas and New Year 
   in humanitarian crisis right at this moment.
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/christmas-ornament-clip-artred-christmas-tree-ornament---free-clip-art-evnlrav0.png
 created: 1388156896
 ---

@@ -5,7 +5,7 @@ permalink: updates/2014-06-18_openstreetmap_training_of_trainers_in_the_philippi
 Person: Emir Hartato
 Working Group:
 - Training
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/10415727_10152452028951101_6542834491982019276_n-2.jpg
 created: 1403067609
 ---

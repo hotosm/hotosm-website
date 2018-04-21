@@ -8,7 +8,7 @@ Summary Text: 'HOT welcomes qualified applicants to apply to work with us! There
   Manager Re-DesignDeadline Oct 31: System Administrator/DevOps Engineer (Part-time)'
 Person: Tyler Radford
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC_0186a.jpg
 created: 1476820714
 ---

@@ -12,7 +12,7 @@ Summary Text: In Dakar, back from Saint-Louis where I have been mostly working a
   SN community the attendance of the <a href="http://barcampthies.org/"> Thies BarCamp</a>
   organized by the Senegalese OpenSource movement.
 Working Group: []
-Projects:
+Project:
 - Senegal
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/069_1.JPG
 created: 1358291567

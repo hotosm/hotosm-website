@@ -4,7 +4,7 @@ date: 2016-10-19 03:21:38 Z
 permalink: updates/2016-10-19_help_disaster_management_in_surabaya_by_mapping_remotely_
 Person: Biondi Sanda Sima
 Working Group: []
-Projects:
+Project:
 - 'USAID '
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement

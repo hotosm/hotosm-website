@@ -9,7 +9,7 @@ Summary Text: 'With the support of the ICT Directorate and the Agence Informatiq
   held a one day workshop around OSM at the ADIE office on June 7th. '
 Person: Nicolas Chavent
 Working Group: []
-Projects:
+Project:
 - Senegal
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image004_0.jpg
 created: 1344446686

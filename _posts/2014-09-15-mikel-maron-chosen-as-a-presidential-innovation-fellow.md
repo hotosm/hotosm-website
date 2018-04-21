@@ -4,7 +4,7 @@ date: 2014-09-15 21:06:12 Z
 permalink: updates/2014-09-15_mikel_maron_chosen_as_a_presidential_innovation_fellow
 Person: 'Jaakko Helleranta '
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/PIF_group_photo.jpg
 created: 1410815172
 ---

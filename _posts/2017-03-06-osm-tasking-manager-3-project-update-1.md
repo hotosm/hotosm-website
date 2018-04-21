@@ -4,7 +4,7 @@ date: 2017-03-06 16:25:29 Z
 permalink: updates/2017-03-06_osm_tasking_manager_3_project_update_#1
 Person: Blake Girardot
 Working Group: []
-Projects:
+Project:
 - OSM Tasking Manager 3.0 Development
 created: 1488817529
 ---

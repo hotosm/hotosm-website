@@ -10,7 +10,7 @@ Summary Text: On April 28, 2015, Prof. Furuhashi, of Aoyama Gakuin University's 
 Person: Heather Leson
 Working Group:
 - Community
-Projects:
+Project:
 - Nepal 2015 Earthquake Response
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Crisismappers+Japan+1.png
 created: 1432754788

@@ -5,7 +5,7 @@ permalink: updates/2013-11-11_remote_hot_activation_in_the_philippines_for_typho
 Person: Kate Chapman
 Working Group:
 - Technical
-Projects:
+Project:
 - Typhoon Haiyan
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/OpenStreetMap_Activities_for_Typhoon_Haiyan__2013_.png
 created: 1384134044

@@ -5,7 +5,7 @@ permalink: updates/2015-05-01_nepal_earthquake_we_have_maps
 Person: Harry Wood
 Working Group:
 - Fundraising
-Projects:
+Project:
 - Nepal 2015 Earthquake Response
 created: 1430444563
 ---

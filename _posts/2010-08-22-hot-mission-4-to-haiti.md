@@ -5,7 +5,7 @@ permalink: updates/2010-08-22_hot_mission_4_to_haiti
 Person: Kate Chapman
 Working Group:
 - Technical
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/4777521706_9a2f8c222d_m.jpg
 created: 1282508303
 ---

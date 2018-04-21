@@ -11,7 +11,7 @@ Summary Text: In July, HOT was voted in as a participating organization of the G
   HOT to contribute to use of Earth observation data and information for better decision-making.
 Person: Tyler Radford
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_7609.JPG
 created: 1471966632
 ---

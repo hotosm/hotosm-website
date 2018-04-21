@@ -4,8 +4,8 @@ date: 2015-07-17 08:37:54 Z
 permalink: updates/2015-07-17_ramani_huria_scale_up_-_dar_es_salaam_6th_july_2015
 Person: Paul Uithol
 Working Group: []
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/1.jpg
 created: 1437122274
 ---

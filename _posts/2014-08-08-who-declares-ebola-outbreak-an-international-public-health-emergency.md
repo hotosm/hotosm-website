@@ -7,7 +7,7 @@ Summary Text: L'Équipe humanitaire Humanitarian OpenStreetMap Team hausse le ni
 Person: Pierre Béland
 Working Group:
 - Training
-Projects:
+Project:
 - West Africa Ebola Epidemic
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/photo-Cosimo-Le-Quaglie-MSF-auto.jpg
 created: 1407531343

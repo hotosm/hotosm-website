@@ -4,7 +4,7 @@ date: 2012-01-12 00:00:00 Z
 permalink: updates/2012-01-12_a_return_to_haiti_two_years_on
 Person: Nicolas Chavent
 Working Group: []
-Projects:
+Project:
 - 'Haiti '
 created: 1326326400
 ---

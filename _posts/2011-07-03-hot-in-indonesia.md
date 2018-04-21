@@ -5,7 +5,7 @@ permalink: updates/2011-07-03_hot_in_indonesia
 Person: Kate Chapman
 Working Group:
 - Security
-Projects: []
+Project: []
 created: 1309714976
 ---
 

@@ -6,7 +6,7 @@ permalink: updates/2017-07-20_from_the_map_to_the_field_hot_trains_msf_and_refug
 Person: 'Douglas Ssebaggala '
 Working Group:
 - Community
-Projects:
+Project:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Field_Mapathon.jpg
 created: 1500559854

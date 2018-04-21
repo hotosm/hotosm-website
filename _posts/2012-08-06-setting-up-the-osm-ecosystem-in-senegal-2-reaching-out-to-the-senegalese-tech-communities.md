@@ -5,7 +5,7 @@ date: 2012-08-06 16:33:50 Z
 permalink: updates/2012-08-06_setting_up_the_osm_ecosystem_in_senegal_2_reaching_out_to_the_senegalese_tech_co
 Person: Will Skora
 Working Group: []
-Projects:
+Project:
 - Senegal
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/553835_463655630329527_1075723890_n.jpg
 created: 1344270830

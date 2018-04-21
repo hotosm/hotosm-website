@@ -12,7 +12,7 @@ Summary Text: Jeff Haack has been working on and off for HOT since its establish
   get involved with HOT/OSM? </b>
 Person: Katrina E.
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Image+1.png
 created: 1372122280
 ---

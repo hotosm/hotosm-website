@@ -5,8 +5,8 @@ permalink: updates/2017-12-13_the_first_state_of_the_map_tanzania_-_2017
 Person: Innocent Maholi
 Working Group:
 - Community
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_4336copy.jpg
 created: 1513151746
 ---

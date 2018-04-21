@@ -5,7 +5,7 @@ permalink: updates/2015-04-30_helping_to_map_nepal_getting_started
 Person: Heather Leson
 Working Group:
 - Activation
-Projects:
+Project:
 - Nepal 2015 Earthquake Response
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/tm+squares+blog.png
 created: 1430368401

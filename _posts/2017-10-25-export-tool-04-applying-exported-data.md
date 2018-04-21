@@ -9,7 +9,7 @@ Summary Text: This blog is the final in a series of ‘Learn Export Tool’ post
   Formats’ and the third looked at ‘Customising Map Features’.
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - 'Export Tool 3.0 '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Export+Tool+-+Learn+Series.png
 created: 1508906811

@@ -10,7 +10,7 @@ Summary Text: The fourth day of this set up mission of the project Espace OSM Fr
   the OSM project in this country of Western Africa
 Person: Nicolas Chavent
 Working Group: []
-Projects: []
+Project: []
 created: 1372463753
 ---
 

@@ -4,7 +4,7 @@ date: 2016-10-28 23:19:31 Z
 permalink: updates/2016-10-28_missed_the_hot_summit?_watch_it_online!
 Person: Tyler Radford
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/hot-summit-group-wave+(2).JPG
 created: 1477696771
 ---

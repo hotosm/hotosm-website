@@ -8,7 +8,7 @@ Summary Text: 'Below is a video about OpenStreetMap in Afghanistan, HOT member H
   where a reliable fast Internet connection would cost $1000 a month. '
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 created: 1328555918
 ---
 

@@ -12,7 +12,7 @@ Summary Text: Malaria is a disease that affects millions of people around the wo
   insecticide or distribute bednets. This way you can save more lives, more quickly.
 Person: Russell Deffner
 Working Group: []
-Projects:
+Project:
 - Malaria Elimination Campaign
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/29698512922_8315698194_b.jpg
 created: 1491591649

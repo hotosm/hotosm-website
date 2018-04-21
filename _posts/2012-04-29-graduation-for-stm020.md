@@ -13,7 +13,7 @@ Summary Text: On the evening of April 24th there was a graduation for the young 
   desire to see a program like this happen in the next location.
 Person: Brian Wolford
 Working Group: []
-Projects:
+Project:
 - 'Haiti '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG013_0.jpg
 created: 1335730152

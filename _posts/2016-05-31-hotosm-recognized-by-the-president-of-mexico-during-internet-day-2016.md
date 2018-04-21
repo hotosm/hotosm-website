@@ -4,7 +4,7 @@ date: 2016-05-31 15:11:38 Z
 permalink: updates/2016-05-31_hotosm_recognized_by_the_president_of_mexico_during_internet_day_2016
 Person: Mikel Maron
 Working Group: []
-Projects:
+Project:
 - Hurricane Patricia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Citec1kXAAIfjc5.jpg
 created: 1464707498

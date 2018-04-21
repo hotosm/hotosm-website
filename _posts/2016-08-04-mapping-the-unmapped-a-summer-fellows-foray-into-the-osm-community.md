@@ -5,7 +5,7 @@ permalink: updates/2016-08-04_mapping_the_unmapped__a_summer_fellows_foray_into_
 Person: 'Douglas Ssebaggala '
 Working Group:
 - Community
-Projects:
+Project:
 - Mapping Financial Inclusion in Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Gorilla+hi.png
 created: 1470305302

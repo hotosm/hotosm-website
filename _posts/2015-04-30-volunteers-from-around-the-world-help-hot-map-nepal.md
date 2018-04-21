@@ -7,7 +7,7 @@ Summary Text: Volunteers from around the world have been helping map Nepal -- he
 Person: Andrew Wiseman
 Working Group:
 - Community
-Projects:
+Project:
 - Nepal 2015 Earthquake Response
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/dcmapper.jpg
 created: 1430405205

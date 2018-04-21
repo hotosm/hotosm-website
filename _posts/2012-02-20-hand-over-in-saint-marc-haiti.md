@@ -5,7 +5,7 @@ permalink: updates/2012-02-20_hand_over_in_saint-marc_haiti
 Person: Séverin Ménard
 Working Group:
 - Training
-Projects:
+Project:
 - 'Haiti '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/P1160118_800px.JPG
 created: 1329748511

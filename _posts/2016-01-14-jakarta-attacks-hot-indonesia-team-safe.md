@@ -4,7 +4,7 @@ date: 2016-01-14 14:47:27 Z
 permalink: updates/2016-01-14_jakarta_attacks_hot_indonesia_team_safe
 Person: Tyler Radford
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 created: 1452782847
 ---

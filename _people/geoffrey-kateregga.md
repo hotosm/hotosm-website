@@ -11,7 +11,7 @@ Working Group:
 - Activation
 Project:
 - Mapping Financial Inclusion in Uganda
-- Dar Ramani Huria - Dar Open Map
+- Dar Ramani Huria — Dar Open Map
 Country: Uganda
 Social Media (Full URL):
   Twitter: https://twitter.com/@kateregga1

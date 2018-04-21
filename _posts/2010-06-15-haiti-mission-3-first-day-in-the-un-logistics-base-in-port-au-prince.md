@@ -5,7 +5,7 @@ permalink: updates/2010-06-15_haiti_mission_3_-_first_day_in_the_un_logistics_ba
 Person: Nicolas Chavent
 Working Group:
 - Communications
-Projects: []
+Project: []
 created: 1276633989
 ---
 

@@ -4,7 +4,7 @@ date: 2017-03-01 19:48:55 Z
 permalink: updates/2017-03-01_hot_board_and_chair_elections
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 created: 1488397735
 ---
 

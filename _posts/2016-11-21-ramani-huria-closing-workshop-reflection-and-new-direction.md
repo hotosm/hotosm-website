@@ -5,8 +5,8 @@ permalink: updates/2016-11-21_ramani_huria_closing_workshop_reflection_&_new_dir
 Person: Innocent Maholi
 Working Group:
 - Community
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_9878+-+1.jpg
 created: 1479725441
 ---

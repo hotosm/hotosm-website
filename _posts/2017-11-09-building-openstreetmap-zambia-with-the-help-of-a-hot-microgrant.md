@@ -5,7 +5,7 @@ permalink: updates/2017-11-09_building_openstreetmap_zambia_with_the_help_of_a_h
 Person: Rebecca Firth
 Working Group:
 - Community
-Projects:
+Project:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-11-09+at+13.23.25.png
 created: 1510252014

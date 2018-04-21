@@ -4,7 +4,7 @@ date: 2010-02-09 20:56:29 Z
 permalink: updates/2010-02-09_humanitarian_osm_team_haiti_strategy_and_proposal
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 created: 1265748989
 ---
 
