@@ -8,6 +8,7 @@ Block 1:
     Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
   Image: https://source.unsplash.com/collection/1118917/800x600?v=1
   Tools:
+  - Tasking Manager
   - OpenAerialMap
   - Map Campaigner
 Block 2:
@@ -17,7 +18,7 @@ Block 2:
   Image: https://source.unsplash.com/collection/207682/800x600?v=1
   Tools:
   - Tasking Manager
-  - Mobile OMK
+  - OpenMapKit
   - Maps.me
 Block 3:
   Header: Get OSM Data
