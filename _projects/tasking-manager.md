@@ -1,13 +1,9 @@
 ---
 title: Tasking Manager
-date: 2015-06-03 22:08:21 Z
+date: 2015-06-03 22:08:00 Z
 permalink: projects/tasking_manager
+published: false
 position: 25
-Summary Text: The OSM Tasking Manager is a mapping coordination tool designed and
-  built for the Humanitarian OSM Team collaborative mapping efforts. The purpose of
-  the tool is to divide up a mapping project into smaller tasks that can be completed
-  rapidly...
-HOT Involvement: Technical Projects
 Person:
 - Nate Smith
 - 'Douglas Ssebaggala '
@@ -20,9 +16,14 @@ Person:
 - Russell Deffner
 - Jean Bully PROPHETE
 - Taichi Furuhashi
-Link: http://tasks.hotosm.org
 Duration:
-  Start Date: '2011-06-03 00:00:00 +0000'
+  Start Date: 2011-06-03 00:00:00 Z
+Summary Text: The OSM Tasking Manager is a mapping coordination tool designed and
+  built for the Humanitarian OSM Team collaborative mapping efforts. The purpose of
+  the tool is to divide up a mapping project into smaller tasks that can be completed
+  rapidly...
+HOT Involvement: Technical Projects
+Link: http://tasks.hotosm.org
 created: 1433369301
 ---
 
