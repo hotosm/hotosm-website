@@ -1,15 +1,16 @@
 ---
 title: Public transportation map for Managua
-date: 2015-12-23 22:26:02 Z
+date: 2015-12-23 22:26:00 Z
 permalink: projects/public_transportation_map_for_managua
 position: 34
-HOT Involvement: Community Development
+Is Community-Led: true
 Person:
 - Felix Delattre
-Link: http://support.mapanica.net
 Duration:
-  Start Date: '2015-12-15 00:00:00 +0000'
-  End Date: '2016-02-28 00:00:00 +0000'
+  Start Date: 2015-12-15 00:00:00 Z
+  End Date: 2016-02-28 00:00:00 Z
+HOT Involvement: Community Development
+Link: http://support.mapanica.net
 Contact: <a href="https://hotosm.org/users/xamanu" target="_self">Felix Delattre</a>
 created: 1450909562
 ---
