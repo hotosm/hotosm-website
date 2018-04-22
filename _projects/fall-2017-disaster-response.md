@@ -1,7 +1,7 @@
 ---
 title: Fall 2017 Disaster Response
 date: 2017-09-09 03:50:54 Z
-permalink: fall_2017_disaster_response
+permalink: projects/hot_activates_for_multiple_disasters_hurricane_irma_and_maria_mexico_earthquakes_and
 position: 3
 Summary Text: The past months have seen disasters and destruction on an unprecedented
   scale, and the HOT Community has activated to respond. Read more on the projects,

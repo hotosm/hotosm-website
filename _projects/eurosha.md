@@ -1,7 +1,7 @@
 ---
 title: EUROSHA
 date: 2012-08-12 21:59:23 Z
-permalink: eurosha
+permalink: projects/eurosha
 position: 12
 Summary Text: "EUROSHA is a European Union pilot project that wants to build up a
   European Open-Source Humanitarian Aid corps of volunteers to address humanitarian

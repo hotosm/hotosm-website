@@ -1,7 +1,7 @@
 ---
 title: Tasking Manager
 date: 2015-06-03 22:08:21 Z
-permalink: tasking_manager
+permalink: projects/tasking_manager
 position: 25
 Summary Text: The OSM Tasking Manager is a mapping coordination tool designed and
   built for the Humanitarian OSM Team collaborative mapping efforts. The purpose of

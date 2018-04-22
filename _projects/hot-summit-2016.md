@@ -1,7 +1,7 @@
 ---
 title: HOT Summit 2016
 date: 2016-05-26 15:58:35 Z
-permalink: hot_summit_2016
+permalink: projects/hot_summit_2016
 position: 38
 Summary Text: Registration is now open for the second annual HOT Summit 2016 to be
   held in Brussels, Thursday, September 22nd at the BTC Conference Center. This year's

@@ -1,7 +1,7 @@
 ---
 title: OSM Tasking Manager 3.0 Development
 date: 2016-12-01 19:41:07 Z
-permalink: osm_tasking_manager_30_development
+permalink: projects/osm_tasking_manager_30_development
 position: 43
 HOT Involvement: Technical Projects
 Person:

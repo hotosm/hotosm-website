@@ -1,7 +1,7 @@
 ---
 title: LearnOSM
 date: 2015-06-02 18:51:01 Z
-permalink: learnosm
+permalink: projects/learnosm
 position: 7
 Summary Text: LearnOSM provides easy to understand, step-by-step guides for you to
   get started with contributing to OpenStreetMap and using OpenStreetMap and using

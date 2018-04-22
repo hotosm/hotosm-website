@@ -1,7 +1,7 @@
 ---
 title: OpenMapKit
 date: 2015-08-01 18:59:58 Z
-permalink: openmapkit
+permalink: projects/openmapkit
 position: 27
 Summary Text: OpenMapKit is the result of a partnership between HOT, ARC and USAID
   to build a mobile application for field surveying.

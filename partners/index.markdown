@@ -6,7 +6,7 @@ Intro Text: Support from individuals and companies really matters to HOT. It mea
   anywhere in the world with free, open map data.
 Partner Contact:
   Text: Interested in partnering with HOT?
-  Contact Email: partnerships@hotosm.org
+  Contact Email: mailto:partnerships@hotosm.org
 layout: page
 ---
 
@@ -32,7 +32,7 @@ Each year, disasters around the world kill nearly 100,000 and affect or displace
 
 - How: We will support you to engage your employees in mapping as a micro-volunteering activity, setting up large scale remote and in person mapping events, connecting all your offices in the same mission. Mapping is simple and fun, all you need is a laptop, and 20 minutes of training to get started!
 
-email [partnerships@hotosm.org](partnerships@hotosm.org)
+email [partnerships@hotosm.org](mailto:partnerships@hotosm.org)
 
 ### Part 2: Become an Disaster Partner
 
@@ -40,4 +40,4 @@ email [partnerships@hotosm.org](partnerships@hotosm.org)
 
 - **How:** We will support you to set up mapping as a disaster response offering in your organisation. Many people want to help when disaster strikes, but the only option they have is to donate money. Through mapping, employees are directly involved in disaster response activities, creating maps used immediately by relief organisations including the Red Cross and Doctors Without Borders worldwide.
 
-Get in touch: email [partnerships@hotosm.org](partnerships@hotosm.org)
+Get in touch: email [partnerships@hotosm.org](mailto:partnerships@hotosm.org)

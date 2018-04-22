@@ -1,7 +1,7 @@
 ---
 title: "#mapthedifference"
 date: 2017-12-13 16:43:45 Z
-permalink: "#mapthedifference"
+permalink: projects/mapthedifference
 position: 50
 HOT Involvement: Community Development
 Person:
@@ -11,6 +11,7 @@ Duration:
   Start Date: '2017-11-21 00:00:00 +0000'
   End Date: '2018-01-07 00:00:00 +0000'
 Contact: "<p>donations@hotosm.org</p>"
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Campaign%20Header%202%20%281%29.png
 created: 1513183425
 ---
 

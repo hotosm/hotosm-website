@@ -1,7 +1,7 @@
 ---
 title: Malaria Elimination Campaign
 date: 2017-02-08 02:06:00 Z
-permalink: malaria_elimination_campaign
+permalink: projects/malaria_elimination_campaign
 position: 44
 Summary Text: HOT has teamed up with many partners to identify and map populated places
   in areas of the globe susceptible to the disease malaria.
