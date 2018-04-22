@@ -1,13 +1,9 @@
 ---
 title: HOT Summit 2016
-date: 2016-05-26 15:58:35 Z
+date: 2016-05-26 15:58:00 Z
 permalink: projects/hot_summit_2016
+published: false
 position: 38
-Summary Text: Registration is now open for the second annual HOT Summit 2016 to be
-  held in Brussels, Thursday, September 22nd at the BTC Conference Center. This year's
-  theme is OpenStreetMap, the Global HOT Community, and Achieving the Sustainable
-  Development Goals.
-HOT Involvement: Community Development
 Person:
 - Blake Girardot
 - Dylan Moriarty
@@ -20,10 +16,15 @@ Person:
 - Adityo Dwijananto
 - Ben Abelshausen
 - Nate Smith
-Link: http://summit.hotosm.org
 Duration:
-  Start Date: '2016-05-26 00:00:00 +0000'
-  End Date: '2016-09-23 00:00:00 +0000'
+  Start Date: 2016-05-26 00:00:00 Z
+  End Date: 2016-09-23 00:00:00 Z
+Summary Text: Registration is now open for the second annual HOT Summit 2016 to be
+  held in Brussels, Thursday, September 22nd at the BTC Conference Center. This year's
+  theme is OpenStreetMap, the Global HOT Community, and Achieving the Sustainable
+  Development Goals.
+HOT Involvement: Community Development
+Link: http://summit.hotosm.org
 Contact: "<p>summit@hotosm.org</p>"
 created: 1464278315
 ---
