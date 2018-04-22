@@ -1,20 +1,21 @@
 ---
 title: OpenMapKit
-date: 2015-08-01 18:59:58 Z
+date: 2015-08-01 18:59:00 Z
 permalink: projects/openmapkit
+published: false
 position: 27
-Summary Text: OpenMapKit is the result of a partnership between HOT, ARC and USAID
-  to build a mobile application for field surveying.
-HOT Involvement: Partnerships
 Person:
 - 'Douglas Ssebaggala '
 - Dale Kunce
 - Blake Girardot
 - Paul Uithol
 - Matthew Gibb
-Link: https://github.com/AmericanRedCross/openmapkit
 Duration:
-  Start Date: '2014-06-10 00:00:00 +0000'
+  Start Date: 2014-06-10 00:00:00 Z
+Summary Text: OpenMapKit is the result of a partnership between HOT, ARC and USAID
+  to build a mobile application for field surveying.
+HOT Involvement: Partnerships
+Link: https://github.com/AmericanRedCross/openmapkit
 Contact: <p><a href="mailto:admin@openmapkit.org">admin@openmapkit.org</a></p>
 created: 1438455598
 ---
