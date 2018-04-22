@@ -2,8 +2,8 @@
 title: Central African Republic Activation
 date: 2014-05-09 10:25:04 Z
 permalink: projects/central_african_republic_activation
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/uMap_CAR_20140509.png
 position: 17
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/uMap_CAR_20140509.png
 Summary Text: "Depuis décembre 2012 et son invasion par les rebelles de la Séléka,
   la République centrafricaine vit des temps difficiles et est devenue une crise de
   niveau 3 (le maximum) pour les Nations Unies. Malheureusement, cette crise va probablement
