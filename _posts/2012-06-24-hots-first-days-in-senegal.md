@@ -7,7 +7,7 @@ Summary Text: The first days in Sénégal flew by for the three of us engaged in
   Stephane Goldstein and Will Skora.
 Person: Will Skora
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCN0003.JPG
 created: 1340564324
 ---

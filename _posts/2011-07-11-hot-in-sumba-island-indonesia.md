@@ -4,7 +4,7 @@ date: 2011-07-11 20:40:50 Z
 permalink: updates/2011-07-11_hot_in_sumba_island_indonesia
 Person: Emir Hartato
 Working Group: []
-Projects: []
+Project: []
 created: 1310416850
 ---
 

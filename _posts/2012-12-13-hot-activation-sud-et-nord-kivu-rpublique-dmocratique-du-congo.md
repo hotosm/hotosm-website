@@ -4,7 +4,7 @@ date: 2012-12-13 19:26:24 Z
 permalink: updates/2012-12-13_hot_activation_sud_et_nord_kivu_république_démocratique_du_congo
 Person: Pierre Béland
 Working Group: []
-Projects: []
+Project: []
 created: 1355426784
 ---
 

@@ -1947,9 +1947,10 @@ em {
 }
 
 .meta {
+  line-height: 1.3;
   p, li {
     color: $blue-dark;
-    margin-top: 8px;
+    margin-top: 6px;
   }
   a {
     color: $blue-dark;
@@ -1961,7 +1962,7 @@ em {
 
 .meta-item {
   padding-bottom: 24px;
-  margin-bottom: 24px;
+  margin-bottom: 22px;
   border-bottom: 1px solid $border-color;
 }
 

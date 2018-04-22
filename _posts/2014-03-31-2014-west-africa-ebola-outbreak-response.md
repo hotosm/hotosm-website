@@ -5,7 +5,7 @@ permalink: updates/2014-03-31_2014_west_africa_ebola_outbreak_response
 Person: Pierre Béland
 Working Group:
 - Governance
-Projects:
+Project:
 - West Africa Ebola Epidemic
 created: 1396266087
 ---

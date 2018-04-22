@@ -4,7 +4,7 @@ date: 2011-07-31 17:47:34 Z
 permalink: updates/2011-07-31_end_of_an_era_or_at_least_internship
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 created: 1312134454
 ---
 

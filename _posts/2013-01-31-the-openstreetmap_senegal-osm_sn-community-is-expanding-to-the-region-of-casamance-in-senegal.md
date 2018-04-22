@@ -4,7 +4,7 @@ title: The Openstreetmap_Senegal (OSM_SN) community is expanding to the region o
 date: 2013-01-31 00:41:37 Z
 permalink: updates/2013-01-31_the_openstreetmap_senegal_(osm_sn)_community_is_expanding_to_the_region_of_casam
 Working Group: []
-Projects:
+Project:
 - Senegal
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image1.JPG
 created: 1359592897

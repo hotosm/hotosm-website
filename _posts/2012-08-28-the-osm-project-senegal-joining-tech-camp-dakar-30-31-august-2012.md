@@ -13,7 +13,7 @@ Summary Text: I am starting a second short trip (28-August – 2-September) to D
   for their continued support. All made this second trip to Senegal possible.
 Person: Nicolas Chavent
 Working Group: []
-Projects:
+Project:
 - Senegal
 created: 1346196446
 ---

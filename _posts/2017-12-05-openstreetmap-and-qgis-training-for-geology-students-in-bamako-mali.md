@@ -5,7 +5,7 @@ permalink: updates/2017-12-05_openstreetmap_&_qgis_training_for_geology_students
 Person: 'Amelia Hunt '
 Working Group:
 - Community
-Projects:
+Project:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/title+image.jpg
 created: 1512478000

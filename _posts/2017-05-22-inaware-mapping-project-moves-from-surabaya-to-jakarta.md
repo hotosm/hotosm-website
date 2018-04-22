@@ -4,7 +4,7 @@ date: 2017-05-22 10:02:25 Z
 permalink: updates/2017-05-22_inaware_mapping_project_moves_from_surabaya_to_jakarta
 Person: Biondi Sanda Sima
 Working Group: []
-Projects:
+Project:
 - 'USAID '
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement

@@ -6,7 +6,7 @@ Summary Text: A couple weeks ago Patrick Meier wrote about HOT's new tool for ta
   the OpenStreetMap Tasking Manager.  Now it has finally moved to its permanent home:tasks.hotosm.org
 Person: Kate Chapman
 Working Group: []
-Projects:
+Project:
 - Tasking Manager
 created: 1316528732
 ---

@@ -12,7 +12,7 @@ Summary Text: When the January 2010 Earthquake happened in Haiti the OpenStreetM
   width="480px"></iframe>
 Person: Kate Chapman
 Working Group: []
-Projects:
+Project:
 - 'Haiti '
 created: 1336656800
 ---

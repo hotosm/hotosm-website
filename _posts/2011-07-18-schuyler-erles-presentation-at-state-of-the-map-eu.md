@@ -4,7 +4,7 @@ date: 2011-07-18 18:46:26 Z
 permalink: updates/2011-07-18_schuyler_erle's_presentation_at_state_of_the_map_eu
 Person: Harry Wood
 Working Group: []
-Projects: []
+Project: []
 created: 1311014786
 ---
 

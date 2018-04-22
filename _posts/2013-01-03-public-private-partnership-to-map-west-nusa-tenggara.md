@@ -4,7 +4,7 @@ date: 2013-01-03 05:18:00 Z
 permalink: updates/2013-01-03_public/private_partnership_to_map_west_nusa_tenggara
 Person: Kate Chapman
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/ntb_mapping.png
 created: 1357190280

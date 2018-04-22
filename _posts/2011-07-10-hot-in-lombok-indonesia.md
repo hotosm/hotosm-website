@@ -4,7 +4,7 @@ date: 2011-07-10 22:36:35 Z
 permalink: updates/2011-07-10_hot_in_lombok_indonesia
 Person: Emir Hartato
 Working Group: []
-Projects: []
+Project: []
 created: 1310337395
 ---
 

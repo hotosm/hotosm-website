@@ -13,7 +13,7 @@ Summary Text: The new Field Papers site has been live for over a week now, as it
   of your desired language.
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - Field Papers
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/FieldPapers.png
 created: 1433473109

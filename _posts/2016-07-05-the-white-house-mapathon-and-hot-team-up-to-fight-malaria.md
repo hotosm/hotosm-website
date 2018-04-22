@@ -5,7 +5,7 @@ permalink: updates/2016-07-05_the_white_house_mapathon_and_hot_team_up_to_fight_
 Person: Courtney Clark
 Working Group:
 - Community
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/13580517_898774090250057_841324353105762206_o.jpg
 created: 1467752520
 ---

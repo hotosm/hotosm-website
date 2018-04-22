@@ -5,7 +5,7 @@ permalink: updates/2013-11-22_hot_mapping_party_at_#iccm_in_nairobi
 Person: Heather Leson
 Working Group:
 - Training
-Projects:
+Project:
 - Typhoon Haiyan
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/HOT_Mapping_Action_Shot_0.jpg
 created: 1385127827

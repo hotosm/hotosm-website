@@ -8,7 +8,7 @@ Summary Text: 'This year has presented many challenges to HOT. We have been incr
   change in HOT leadership.'
 Person: Russell Deffner
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/hotlogo.png
 created: 1436372673
 ---

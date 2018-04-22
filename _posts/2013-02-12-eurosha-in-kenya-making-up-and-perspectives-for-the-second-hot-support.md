@@ -14,7 +14,7 @@ Summary Text: In Kenya, 6 Eurosha volunteers have been deployed since Early Octo
   of time for safaris.
 Person: Séverin Ménard
 Working Group: []
-Projects:
+Project:
 - EUROSHA
 created: 1360705839
 ---

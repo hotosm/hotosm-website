@@ -5,7 +5,7 @@ date: 2017-02-20 09:09:36 Z
 permalink: updates/2017-02-20_hot_concludes_city-wide_mapping_project_in_surabaya_key_results_and_lessons’_l
 Person: Biondi Sanda Sima
 Working Group: []
-Projects:
+Project:
 - 'USAID '
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement

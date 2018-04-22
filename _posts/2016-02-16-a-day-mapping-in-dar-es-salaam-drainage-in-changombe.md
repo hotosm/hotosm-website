@@ -13,8 +13,8 @@ Summary Text: Guest post by Kathryn Davis, Columbia University.January 14th, 10:
   side of the wide dirt road, and mark it on the map...
 Person: Paul Uithol
 Working Group: []
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Photo1_EPD+Columbia.jpg
 created: 1455659967
 ---

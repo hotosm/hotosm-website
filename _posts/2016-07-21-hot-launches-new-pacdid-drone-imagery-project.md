@@ -4,7 +4,7 @@ date: 2016-07-21 01:09:37 Z
 permalink: updates/2016-07-21_hot_launches_new_pacdid_drone_imagery_project
 Person: Cristiano Giovando
 Working Group: []
-Projects:
+Project:
 - OpenAerialMap
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/PacDID-Vanuatu.jpg
 created: 1469063377

@@ -11,7 +11,7 @@ Summary Text: For the past 2 years, HOT in Indonesia is implementing a universit
   program is to have disaster prone areas in Indonesia to be well mapped.
 Person: Vasanthi Hargyono
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 created: 1457322057
 ---

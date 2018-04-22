@@ -4,7 +4,7 @@ date: 2015-05-27 17:03:16 Z
 permalink: updates/2015-05-27_help_improve_mapping_take_hot's_community_survey
 Person: Tyler Radford
 Working Group: []
-Projects:
+Project:
 - Nepal 2015 Earthquake Response
 created: 1432746196
 ---

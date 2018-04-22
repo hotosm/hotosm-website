@@ -4,7 +4,7 @@ date: 2014-04-29 19:51:03 Z
 permalink: updates/2014-04-29_the_roles_of_experts_and_the_public_-_report_back_from_commons_lab_event
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/cover_osm_quality-724x1024.png
 created: 1398801063
 ---

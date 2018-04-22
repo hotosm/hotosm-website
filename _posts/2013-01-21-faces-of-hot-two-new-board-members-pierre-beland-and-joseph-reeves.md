@@ -12,7 +12,7 @@ Summary Text: <p><b>Pierre Béland</b> and <b>Joseph Reeves</b> were voted onto 
   can read about that active project <a href="/updates/2012-12-12_hot_activation_south_and_north_kivu_democratic_republic_of_congo">here</a>.  <p>[inline:jose.jpg]
 Person: Katrina E.
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/jose_0.jpg
 created: 1358751605
 ---

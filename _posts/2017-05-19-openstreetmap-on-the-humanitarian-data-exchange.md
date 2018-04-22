@@ -10,7 +10,7 @@ Summary Text: The Export Tool is now pushing customised OpenStreetMap (OSM) data
   and allows the administrators to select any country for export.
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - 'Export Tool 3.0 '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-05-19+at+14.23.46.png
 created: 1495173448

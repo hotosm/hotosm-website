@@ -10,7 +10,7 @@ Summary Text: 'Today we are excited to announce the relaunch of LearnOSM in conj
   knowledge. '
 Person: Kate Chapman
 Working Group: []
-Projects:
+Project:
 - LearnOSM
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/screen_shot_learn.png
 created: 1363795606

@@ -10,7 +10,7 @@ Summary Text: <p>This week Vasanthi, Emir and I returned to Bima and Dompu. It i
   and Dompu were no different.<p><img src="http://hot.openstreetmap.org/sites/default/files/emir_teaching.png"/>
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/emir_teaching.png
 created: 1327982468
 ---

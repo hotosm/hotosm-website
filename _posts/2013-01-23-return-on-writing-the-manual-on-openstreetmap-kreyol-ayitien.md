@@ -10,7 +10,7 @@ Summary Text: Début décembre, j'annonçais le début d'un libérathon qui visa
   donc un petit retour sur le déroulement du sprint.
 Person: Anne Goldenberg
 Working Group: []
-Projects:
+Project:
 - OSM FlossManuals in Kreyòl (Creole)
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Capture+du+2012-12-23+01:01:33_0.png
 created: 1358963833

@@ -11,7 +11,7 @@ Summary Text: Hey there, Hi there, Ho there,Checking in from beautiful coastal S
   activities and maybe participates in a training them selves.<img src="http://hot.openstreetmap.org/sites/default/files/DSC00342.jpg"/>
 Person: Brian Wolford
 Working Group: []
-Projects: []
+Project: []
 created: 1328152207
 ---
 

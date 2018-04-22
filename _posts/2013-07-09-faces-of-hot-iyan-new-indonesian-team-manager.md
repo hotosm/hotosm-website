@@ -13,7 +13,7 @@ Summary Text: "<b>Yantisa Akhadi</b>, a.k.a Iyan, is the new <b>team manager</b>
   Information Science at the <em>University of Melbourne</em>."
 Person: Katrina E.
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/iyan.png
 created: 1373382516

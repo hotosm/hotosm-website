@@ -11,7 +11,7 @@ Summary Text: Hey All,As part of the CAP103 project, financed by USAID, being ru
   for setting offsets and positions for any aerial imageries.
 Person: Brian Wolford
 Working Group: []
-Projects:
+Project:
 - 'Haiti '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_2619.JPG
 created: 1369753162

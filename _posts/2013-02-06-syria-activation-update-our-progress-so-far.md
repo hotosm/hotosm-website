@@ -12,7 +12,7 @@ Summary Text: After a week and a half of work on the current Syria activation, w
   that, I've just added the next three jobs to the Tasking Manager:<ul><li><a href="http://tasks.hotosm.org/job/168">Hama</a></li>
 Person: Joseph Reeves
 Working Group: []
-Projects: []
+Project: []
 created: 1360183888
 ---
 

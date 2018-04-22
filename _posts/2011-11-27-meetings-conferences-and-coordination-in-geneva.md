@@ -5,7 +5,7 @@ permalink: updates/2011-11-27_meetings_conferences_and_coordination_in_geneva
 Person: Kate Chapman
 Working Group:
 - Community
-Projects: []
+Project: []
 created: 1322433785
 ---
 

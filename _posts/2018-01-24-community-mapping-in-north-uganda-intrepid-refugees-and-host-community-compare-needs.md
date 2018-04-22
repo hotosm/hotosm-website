@@ -6,7 +6,7 @@ permalink: updates/2018-01-24_community_mapping_in_north_uganda_-_intrepid_refug
 Person: Rupert Allan
 Working Group:
 - Communications
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/MosesMawa+Intrepid+Refugee+SurveyorSmall.jpeg
 created: 1516788207
 ---

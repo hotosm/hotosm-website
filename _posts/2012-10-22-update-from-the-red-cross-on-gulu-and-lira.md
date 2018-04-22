@@ -13,7 +13,7 @@ Summary Text: "<p><i>An update and thank you from Robert Banick at the American 
   to see their contributions go right into the map. [inline:Gulu Fire Risk.png]"
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2012-09-03+11.47.37+HDR_0.jpg
 created: 1350922909
 ---

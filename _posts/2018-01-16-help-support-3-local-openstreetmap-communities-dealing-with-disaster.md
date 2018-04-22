@@ -8,7 +8,7 @@ Summary Text: 2018 has taken no time off from disasters and HOT is supporting th
 Person: Russell Deffner
 Working Group:
 - Activation
-Projects:
+Project:
 - HOT Training Center
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Mayon.PNG
 created: 1516139347

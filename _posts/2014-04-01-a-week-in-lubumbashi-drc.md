@@ -4,7 +4,7 @@ date: 2014-04-01 21:58:56 Z
 permalink: updates/2014-04-01_a_week_in_lubumbashi_(drc)
 Person: Jorieke Vyncke
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC02921.JPG
 created: 1396389536
 ---

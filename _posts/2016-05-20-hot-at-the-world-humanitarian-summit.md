@@ -4,7 +4,7 @@ date: 2016-05-20 16:33:43 Z
 permalink: updates/2016-05-20_hot_at_the_world_humanitarian_summit
 Person: Tyler Radford
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/WHS_Logo_0_0.png
 created: 1463762023
 ---

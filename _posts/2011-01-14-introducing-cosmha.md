@@ -4,7 +4,7 @@ date: 2011-01-14 06:34:38 Z
 permalink: updates/2011-01-14_introducing_cosmha
 Person: robert
 Working Group: []
-Projects: []
+Project: []
 created: 1294986878
 ---
 

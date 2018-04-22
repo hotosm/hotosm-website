@@ -4,7 +4,7 @@ date: 2016-08-15 18:32:35 Z
 permalink: updates/2016-08-15_improving_resilience_with_aerial_imagery
 Person: Cristiano Giovando
 Working Group: []
-Projects:
+Project:
 - OpenAerialMap
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Fiji-Island.jpg
 created: 1471285955

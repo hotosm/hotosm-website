@@ -4,7 +4,7 @@ date: 2011-05-17 10:38:19 Z
 permalink: updates/2011-05-17_continuing_hot_activation_for_the_ivory_coast
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 created: 1305628699
 ---
 

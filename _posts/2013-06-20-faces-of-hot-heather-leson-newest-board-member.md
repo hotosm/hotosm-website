@@ -13,7 +13,7 @@ Summary Text: This week we caught up with Heather, the newest board member of HO
   with HOT/OSM? </b>
 Person: Katrina E.
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Heatherprofile+(Fun).jpg
 created: 1371741353
 ---

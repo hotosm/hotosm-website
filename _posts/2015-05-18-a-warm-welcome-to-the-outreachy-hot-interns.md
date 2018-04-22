@@ -12,7 +12,7 @@ Summary Text: 'The Humanitarian OpenStreetMap Team (HOT) and the OpenStreetMap (
 Person: Mhairi O'Hara
 Working Group:
 - Communications
-Projects:
+Project:
 - Outreachy
 created: 1431963906
 ---

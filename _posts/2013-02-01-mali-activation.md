@@ -14,7 +14,7 @@ Summary Text: This Activation follows discussions between HOT and the United Nat
   refugees in neighbouring countries.</li>
 Person: Pierre Béland
 Working Group: []
-Projects: []
+Project: []
 created: 1359740943
 ---
 

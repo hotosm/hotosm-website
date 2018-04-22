@@ -8,7 +8,7 @@ Summary Text: 'Version 3 of the Export Tool officially LAUNCHED on 18th Septembe
 Person: Mhairi O'Hara
 Working Group:
 - Technical
-Projects:
+Project:
 - 'Export Tool 3.0 '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-09-18+at+22.08.50.png
 created: 1505787917

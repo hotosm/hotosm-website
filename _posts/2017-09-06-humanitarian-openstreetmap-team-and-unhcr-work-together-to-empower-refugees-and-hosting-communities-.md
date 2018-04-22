@@ -6,7 +6,7 @@ permalink: updates/2017-09-06_humanitarian_openstreetmap_team_and_unhcr_work_tog
 Person: Geoffrey Kateregga
 Working Group:
 - Training
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/melisa.jpeg
 created: 1504721287
 ---

@@ -14,7 +14,7 @@ Block 1:
     come together online and on the ground to create open map data that enables disaster
     responders to reach those in need.
   Image: https://source.unsplash.com/collection/1118917/800x600?v=1
-  Projects:
+  Project:
   - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 Block 2:
   Header: Putting the world's most vulnerable people and places on the map
@@ -22,7 +22,7 @@ Block 2:
     high vulnerability areas where data is scarce, putting millions of people onto
     the world map in OpenStreetMap.
   Image: https://source.unsplash.com/collection/207682/800x600?v=1
-  Projects:
+  Project:
   - Malaria Elimination Campaign
   - Microgrants and Community Development
 Block 3:
@@ -31,7 +31,7 @@ Block 3:
     partners to use and contribute to OpenStreetMap for locally-relevant challenges
     through provision of training, equipment, knowledge exchange, and field projects.
   Image: https://source.unsplash.com/collection/851614/800x600?v=1
-  Projects:
+  Project:
   - 'LEGIT: Supporting decentralization in Liberian cities'
 layout: what-we-do
 ---

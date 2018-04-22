@@ -4,7 +4,7 @@ date: 2014-02-10 21:08:37 Z
 permalink: updates/2014-02-10_peace_corps_+_openstreetmap
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Webcam-1372355183.png
 created: 1392066517
 ---

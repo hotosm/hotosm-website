@@ -6,7 +6,7 @@ permalink: updates/2017-10-02_microgrants_humanitarian_mapping_of_coastal_wetlan
 Person: Rebecca Firth
 Working Group:
 - Community
-Projects:
+Project:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Photo+1+Bahía+El+Uno+aerial.JPG
 created: 1506965660

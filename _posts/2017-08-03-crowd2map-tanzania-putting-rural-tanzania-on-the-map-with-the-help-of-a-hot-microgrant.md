@@ -5,7 +5,7 @@ date: 2017-08-03 02:31:49 Z
 permalink: updates/2017-08-03_crowd2map_tanzania_putting_rural_tanzania_on_the_map_with_the_help_of_a_hot_micr
 Person: Rebecca Firth
 Working Group: []
-Projects:
+Project:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Youthmappers.jpg
 created: 1501727509

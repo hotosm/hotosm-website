@@ -4,7 +4,7 @@ date: 2010-06-29 01:10:05 Z
 permalink: updates/2010-06-29_hot_thoughts_by_trevor
 Person: Trevor Ellerman
 Working Group: []
-Projects: []
+Project: []
 created: 1277773805
 ---
 

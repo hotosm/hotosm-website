@@ -4,7 +4,7 @@ date: 2017-05-24 14:34:59 Z
 permalink: updates/2017-05-24_organized_distributed_openstreetmap_field_mapping
 Person: Nate Smith
 Working Group: []
-Projects:
+Project:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCF5987-compressor.jpg
 created: 1495636499

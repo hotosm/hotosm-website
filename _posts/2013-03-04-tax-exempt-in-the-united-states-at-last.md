@@ -11,7 +11,7 @@ Summary Text: "<h2>Background</h2>HOT has been incorporated as a non-profit in W
   administrative milestone as a young non-profit incorporated in the United States."
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 created: 1362390005
 ---
 

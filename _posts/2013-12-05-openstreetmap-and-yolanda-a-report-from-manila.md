@@ -5,7 +5,7 @@ permalink: updates/2013-12-05_openstreetmap_and_yolanda_a_report_from_manila
 Person: Kate Chapman
 Working Group:
 - Security
-Projects:
+Project:
 - Typhoon Haiyan
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/philipinnes-osm-data.png
 created: 1386240105

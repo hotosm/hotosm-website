@@ -12,7 +12,7 @@ Summary Text: Ambon, located in Maluku islands which also located inside the Mol
   collection.
 Person: Vasanthi Hargyono
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Ambon+Mapathon.jpg
 created: 1461011337

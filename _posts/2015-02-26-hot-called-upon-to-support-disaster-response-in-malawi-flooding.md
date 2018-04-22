@@ -11,7 +11,7 @@ Summary Text: The southern parts of Malawi along the Lower Shire River (that con
 Person: Séverin Ménard
 Working Group:
 - Activation
-Projects:
+Project:
 - Malawi Flood Preparedness
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Malawi_washed_away_bridge_Chanasa.png
 created: 1424992687

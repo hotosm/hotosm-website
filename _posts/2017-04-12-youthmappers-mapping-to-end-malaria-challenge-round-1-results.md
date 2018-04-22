@@ -7,7 +7,7 @@ Summary Text: Our first round of the YouthMappers ‘Mapping to end Malaria’ C
   in Zambia and Zimbabwe. Thank you to all the chapters who participated!
 Person: Russell Deffner
 Working Group: []
-Projects:
+Project:
 - Malaria Elimination Campaign
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/udea+177.JPG
 created: 1492039935

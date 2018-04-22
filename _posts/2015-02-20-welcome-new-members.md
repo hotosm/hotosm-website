@@ -4,7 +4,7 @@ date: 2015-02-20 22:59:23 Z
 permalink: updates/2015-02-20_welcome_new_members!
 Person: Russell Deffner
 Working Group: []
-Projects: []
+Project: []
 created: 1424473163
 ---
 

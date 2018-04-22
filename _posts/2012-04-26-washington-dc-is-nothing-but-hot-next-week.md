@@ -13,7 +13,7 @@ Summary Text: Next week the Board of Directors of the Humanitarian OpenStreetMap
   GeoDC - Crisis Mapping Focused May Meet-up</a></h3>
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 created: 1335445988
 ---
 

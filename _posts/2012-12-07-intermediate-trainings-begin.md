@@ -11,7 +11,7 @@ Summary Text: "Last week, we started intermediate training for the six disaster 
   the Wiki 04.  Creating XML and JOSM presets05.  Private Data Store"
 Person: Katrina E.
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/inter.jpg
 created: 1354855959

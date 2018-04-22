@@ -4,7 +4,7 @@ date: 2014-06-14 12:53:05 Z
 permalink: updates/2014-06-14_dispatch_ieee_humanitarian_technology_conference
 Person: Heather Leson
 Working Group: []
-Projects:
+Project:
 - Typhoon Haiyan
 created: 1402750385
 ---

@@ -5,7 +5,7 @@ permalink: updates/2011-09-11_meeting_face-to-face_at_sotm_denver
 Person: Harry Wood
 Working Group:
 - Training
-Projects: []
+Project: []
 created: 1315779179
 ---
 

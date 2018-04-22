@@ -9,7 +9,7 @@ Summary Text: 'An unprecedented number of unmanned aerial vehicles (UAVs) -- dro
   can benefit from these "bird''s eye" views of the typhoon affected areas. '
 Person: Kate Chapman
 Working Group: []
-Projects:
+Project:
 - Typhoon Haiyan
 created: 1390789275
 ---

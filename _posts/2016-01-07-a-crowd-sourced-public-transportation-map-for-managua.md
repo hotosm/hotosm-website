@@ -9,7 +9,7 @@ Summary Text: There is no map for the 42 bus lines in Metropolitan Managua, capi
   they seek support (http://support.mapanica.net) to print it.
 Person: Felix Delattre
 Working Group: []
-Projects:
+Project:
 - Public transportation map for Managua
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/banner1.jpg
 created: 1452196578

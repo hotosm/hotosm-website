@@ -6,7 +6,7 @@ Working Group:
 - Community
 - Communications
 Project:
-- Dar Ramani Huria - Dar Open Map
+- Dar Ramani Huria — Dar Open Map
 Social Media (Full URL):
   LinkedIn: https://www.linkedin.com/in/ameliahunt/
   Twitter: https://twitter.com/ameliahunt92

@@ -5,7 +5,7 @@ permalink: updates/2017-01-27_learning_from_hot_indonesia
 Person: Geoffrey Kateregga
 Working Group:
 - Community
-Projects:
+Project:
 - 'USAID '
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement

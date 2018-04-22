@@ -12,7 +12,7 @@ Summary Text: The six pilot workshops to the BNPB on intermediate OSM skills wer
   to higher ground.  Read more about the Jakarta Floods <a href=“http://www.thejakartapost.com/news/2013/01/17/jakarta-flood-death-toll-increases-five.html“>here</a>.)
 Person: Katrina E.
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_124.png
 created: 1358506382

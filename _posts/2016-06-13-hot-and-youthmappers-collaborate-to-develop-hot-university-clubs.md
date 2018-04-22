@@ -9,7 +9,7 @@ Summary Text: The Humanitarian OpenStreetMap Team (HOT) and YouthMappers share a
   for collaborating in groups around mapping projects.
 Person: Cheryl Shaw
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/6dd283_fd5593dd0aa6412fb57cd6877e9a0065.png
 created: 1465850949
 ---

@@ -4,7 +4,7 @@ date: 2014-01-05 01:07:59 Z
 permalink: updates/2014-01-05_hot_monitoring_for_the_current_crisis_in_south_sudan_
 Person: Séverin Ménard
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Bor_z14_20140105.png
 created: 1388884079
 ---

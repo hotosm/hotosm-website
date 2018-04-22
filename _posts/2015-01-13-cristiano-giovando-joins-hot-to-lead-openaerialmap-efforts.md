@@ -5,7 +5,7 @@ permalink: updates/2015-01-13_cristiano_giovando_joins_hot_to_lead_openaerialmap
 Person: Kate Chapman
 Working Group:
 - Training
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_8849_Cri.jpg
 created: 1421181502
 ---

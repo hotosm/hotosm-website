@@ -20,7 +20,7 @@ Project:
 - Missing Maps
 - Tasking Manager
 - Hurricane Patricia
-- Dar Ramani Huria - Dar Open Map
+- Dar Ramani Huria — Dar Open Map
 - Sri Lanka Flooding 2016
 - West Africa Ebola Epidemic
 - OpenAerialMap

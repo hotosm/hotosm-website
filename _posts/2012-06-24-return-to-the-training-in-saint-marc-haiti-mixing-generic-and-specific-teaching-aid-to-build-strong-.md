@@ -12,7 +12,7 @@ Summary Text: 'Our previous posts about the Saint-Marc, Haiti project did not fo
   the three months of the program. '
 Person: Séverin Ménard
 Working Group: []
-Projects:
+Project:
 - 'Haiti '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/STM020_training_Nicolas.jpg
 created: 1340580918

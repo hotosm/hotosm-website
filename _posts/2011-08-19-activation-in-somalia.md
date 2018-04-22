@@ -4,7 +4,7 @@ date: 2011-08-19 23:01:58 Z
 permalink: updates/2011-08-19_activation_in_somalia
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 created: 1313794918
 ---
 

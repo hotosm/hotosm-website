@@ -5,7 +5,7 @@ permalink: updates/2014-12-05_typhoon_hagupit_(ruby)_activation_live
 Person: Heather Leson
 Working Group:
 - Community
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Umap+of+Imagery+(Hagupit).jpg
 created: 1417781063
 ---

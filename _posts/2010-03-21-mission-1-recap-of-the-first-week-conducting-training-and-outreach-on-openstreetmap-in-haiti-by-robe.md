@@ -5,7 +5,7 @@ date: 2010-03-21 03:25:18 Z
 permalink: updates/2010-03-21_mission_1_recap_of_the_first_week_conducting_training_and_outreach_on_openstreet
 Person: robert
 Working Group: []
-Projects: []
+Project: []
 created: 1269141918
 ---
 

@@ -13,7 +13,7 @@ Summary Text: 'Ecuador: An earthquake of magnitude 7.8 hit the coastal region of
 Person: Tyler Radford
 Working Group:
 - Activation
-Projects:
+Project:
 - Ecuador Earthquake
 created: 1461002510
 ---

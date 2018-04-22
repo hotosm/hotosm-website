@@ -4,7 +4,7 @@ date: 2017-09-08 21:48:49 Z
 permalink: updates/2017-09-08_first_ever_youthmappers_video_challenge_
 Person: Rachel VanNice
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/youthmappers.jpg
 created: 1504907329
 ---

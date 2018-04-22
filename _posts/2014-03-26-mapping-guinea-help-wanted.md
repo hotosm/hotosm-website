@@ -4,7 +4,7 @@ date: 2014-03-26 14:34:38 Z
 permalink: updates/2014-03-26_mapping_guinea_help_wanted
 Person: Joseph Reeves
 Working Group: []
-Projects:
+Project:
 - West Africa Ebola Epidemic
 created: 1395844478
 ---

@@ -14,7 +14,7 @@ Summary Text: Nicolas and I have been training the 25 Eurosha volunteers who wil
   1024x768.JPG]
 Person: Séverin Ménard
 Working Group: []
-Projects:
+Project:
 - EUROSHA
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/P1200042+1024x768.JPG
 created: 1349395980

@@ -5,7 +5,7 @@ permalink: updates/2016-05-20_sri_lanka_floods_activation_sitrep_day_1
 Person: Blake Girardot
 Working Group:
 - Activation
-Projects:
+Project:
 - Sri Lanka Flooding 2016
 created: 1463725145
 ---

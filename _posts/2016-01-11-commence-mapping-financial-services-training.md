@@ -10,7 +10,7 @@ Summary Text: 'The Mapping Financial Inclusion in Uganda project is truly underw
   mapping the district of Mbale. '
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - Mapping Financial Inclusion in Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/training_geoffrey.jpg
 created: 1452513970

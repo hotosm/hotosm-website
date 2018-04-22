@@ -4,7 +4,7 @@ date: 2012-01-27 02:28:41 Z
 permalink: updates/2012-01-27_a_week_in_between_pap_and_saint_marc
 Person: Brian Wolford
 Working Group: []
-Projects:
+Project:
 - 'Haiti '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC00057_0.jpg
 created: 1327631321

@@ -4,7 +4,7 @@ date: 2012-09-24 06:57:34 Z
 permalink: updates/2012-09-24_from_remote_tracing_to_field_mapping_in_padang
 Person: Joseph Reeves
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 created: 1348469854
 ---

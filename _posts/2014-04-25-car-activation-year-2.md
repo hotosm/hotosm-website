@@ -5,7 +5,7 @@ permalink: updates/2014-04-25_car_activation_year_2
 Person: Séverin Ménard
 Working Group:
 - Community
-Projects:
+Project:
 - Central African Republic Activation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/CAR_Umap_20140425.png
 created: 1398388325

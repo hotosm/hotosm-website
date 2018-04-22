@@ -5,7 +5,7 @@ permalink: updates/2017-07-06_bringing_remote_mapping_to_the_field
 Person: 'Douglas Ssebaggala '
 Working Group:
 - Community
-Projects:
+Project:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20170622_110950_data+col.jpg
 created: 1499330505

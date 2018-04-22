@@ -5,7 +5,7 @@ permalink: updates/2016-02-11_osm_celebrates_international_women's_day_2016
 Person: Courtney Clark
 Working Group:
 - Communications
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Girl+Scouts+mapping++(1).jpg
 created: 1455206893
 ---

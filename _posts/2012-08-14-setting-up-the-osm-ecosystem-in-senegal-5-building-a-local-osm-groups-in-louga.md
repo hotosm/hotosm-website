@@ -5,7 +5,7 @@ date: 2012-08-14 13:34:28 Z
 permalink: updates/2012-08-14_setting_up_the_osm_ecosystem_in_senegal_5_building_a_local_osm_groups_in_louga
 Person: Stephane Goldstein
 Working Group: []
-Projects: []
+Project: []
 created: 1344951268
 ---
 

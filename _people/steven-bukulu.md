@@ -7,7 +7,7 @@ Working Group:
 - Communications
 - Community
 Project:
-- Dar Ramani Huria - Dar Open Map
+- Dar Ramani Huria — Dar Open Map
 Country: Uganda
 Social Media (Full URL):
   LinkedIn: https://www.linkedin.com/profile/view?id=AAIAABQzoywBw1S9LZAa67zFg0RCDnU9WOf2Ex0&trk=nav_responsive_tab_profile_pic

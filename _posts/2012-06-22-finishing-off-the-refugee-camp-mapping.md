@@ -12,7 +12,7 @@ Summary Text: Last month <a href="http://hot.openstreetmap.org/updates/2012-05-1
   to trace from, our community could map the refugee camps in a short space of time.
 Person: Harry Wood
 Working Group: []
-Projects:
+Project:
 - Somalia
 created: 1340406241
 ---

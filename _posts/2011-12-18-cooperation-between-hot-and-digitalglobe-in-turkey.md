@@ -4,7 +4,7 @@ date: 2011-12-18 17:36:23 Z
 permalink: updates/2011-12-18_cooperation_between_hot_and_digitalglobe_in_turkey
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 created: 1324229783
 ---
 
