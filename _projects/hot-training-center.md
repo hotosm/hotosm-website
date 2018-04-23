@@ -1,11 +1,9 @@
 ---
 title: HOT Training Center
-date: 2015-05-27 21:50:36 Z
+date: 2015-05-27 21:50:00 Z
 permalink: projects/hot_training_center
+published: false
 position: 20
-Summary Text: HOT has developed a protocol and training program to empower those volunteer
-  Activators who coordinate our Disaster Mapping.
-HOT Involvement: Technical Projects
 Person:
 - Enock Seth Nyamador
 - Blake Girardot
@@ -17,9 +15,12 @@ Person:
 - Jean Bully PROPHETE
 - Mhairi O'Hara
 Partner: Hewlett Foundation
-Link: http://courses.hotosm.org/
 Duration:
-  Start Date: '2015-04-20 00:00:00 +0000'
+  Start Date: 2015-04-20 00:00:00 Z
+Summary Text: HOT has developed a protocol and training program to empower those volunteer
+  Activators who coordinate our Disaster Mapping.
+HOT Involvement: Technical Projects
+Link: http://courses.hotosm.org/
 Contact: <p><a href="mailto:Russell.Deffner@hotosm.org">Russell Deffner</a><a href="http://hotosm.org/users/mhairi_ohara"><br>Mhairi
   O'Hara</a></p>
 created: 1432763436

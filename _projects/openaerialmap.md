@@ -1,9 +1,9 @@
 ---
 title: OpenAerialMap
-date: 2015-05-28 23:36:50 Z
+date: 2015-05-28 23:36:00 Z
 permalink: projects/openaerialmap
+published: false
 position: 24
-HOT Involvement: Technical Projects
 Person:
 - Nate Smith
 - Dale Kunce
@@ -13,9 +13,10 @@ Person:
 - Cristiano Giovando
 - Taichi Furuhashi
 Partner: Humanitarian Innovation Fund
-Link: http://www.openaerialmap.org
 Duration:
-  Start Date: '2015-01-01 00:00:00 +0000'
+  Start Date: 2015-01-01 00:00:00 Z
+HOT Involvement: Technical Projects
+Link: http://www.openaerialmap.org
 Contact: <p><a href="http://hotosm.org/users/cristiano_giovando">Cristiano Giovando</a></p>
 created: 1432856210
 ---

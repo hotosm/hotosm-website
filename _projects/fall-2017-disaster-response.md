@@ -1,19 +1,20 @@
 ---
 title: Fall 2017 Disaster Response
-date: 2017-09-09 03:50:54 Z
+date: 2017-09-09 03:50:00 Z
 permalink: projects/hot_activates_for_multiple_disasters_hurricane_irma_and_maria_mexico_earthquakes_and
+published: false
 position: 3
-Summary Text: The past months have seen disasters and destruction on an unprecedented
-  scale, and the HOT Community has activated to respond. Read more on the projects,
-  and how you can get involved.
-HOT Involvement: Disaster Mapping
 Person:
 - Michael Heißmeier
 - Russell Deffner
 - Blake Girardot
 Duration:
-  Start Date: '2017-09-07 00:00:00 +0000'
-  End Date: '2017-11-10 00:00:00 +0000'
+  Start Date: 2017-09-07 00:00:00 Z
+  End Date: 2017-11-10 00:00:00 Z
+Summary Text: The past months have seen disasters and destruction on an unprecedented
+  scale, and the HOT Community has activated to respond. Read more on the projects,
+  and how you can get involved.
+HOT Involvement: Disaster Mapping
 Contact: <p>Blake Girardot</p><p>Mhairi O'Hara</p><p>Nate Smith</p><p><a href="https://www.hotosm.org/users/russ">Russell
   Deffner</a></p><p>&nbsp;</p>
 created: 1504929054

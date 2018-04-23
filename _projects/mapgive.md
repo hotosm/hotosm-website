@@ -1,16 +1,17 @@
 ---
 title: MapGive
-date: 2015-08-01 17:41:51 Z
+date: 2015-08-01 17:41:00 Z
 permalink: projects/mapgive
+published: false
 position: 4
-Summary Text: HOT supported the launch of MapGive in March 2014.
-HOT Involvement: Partnerships
 Person:
 - Dale Kunce
 - Mikel Maron
-Link: http://mapgive.state.gov/
 Duration:
-  Start Date: '2014-03-07 00:00:00 +0000'
+  Start Date: 2014-03-07 00:00:00 Z
+Summary Text: HOT supported the launch of MapGive in March 2014.
+HOT Involvement: Partnerships
+Link: http://mapgive.state.gov/
 Contact: <p><a href="mailto:mapgive@state.gov">mapgive@state.gov</a></p>
 created: 1438450911
 ---
