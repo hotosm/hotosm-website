@@ -3381,6 +3381,21 @@ em {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   background-color: $tan;
+  &:nth-of-type(3n+1) {
+    .block-screenshot {
+      background-image: url(../images/topo-2.jpg);
+    }
+  }
+  &:nth-of-type(3n+2) {
+    .block-screenshot {
+      background-image: url(../images/topo-1.jpg);
+    }
+  }
+  &:nth-of-type(3n+3) {
+    .block-screenshot {
+      background-image: url(../images/topo-3.jpg);
+    }
+  }
   @media (min-width: $screen-sm) {
     h3 {
       font-size: 2.125rem;
@@ -3455,6 +3470,7 @@ em {
   .block-screenshot {
     padding: 80px 0 0 80px;
     background-color: $blue-grey;
+    background-size: cover;
     @media (max-width: $screen-sm) {
       padding: 64px 0 0 64px;
     }
