@@ -3219,7 +3219,24 @@ em {
 
 
 .what-we-do {
-
+  .half-block .block-details {
+    display: flex;
+    flex-direction: column;
+    @media (min-width: $screen-sm) {
+      padding: 60px 60px 40px 40px;
+      h3 {
+        font-size: 1.875rem;
+      }
+    }
+  }
+  .block-info {
+    flex: 1;
+  }
+  .block-options {
+    h5 {
+      margin-bottom: 8px;
+    }
+  }
 }
 
 .what-we-do-header {
@@ -3227,16 +3244,15 @@ em {
   @media (min-width: $screen-xs) {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    grid-gap: 24px;
   }
   @media (max-width: $screen-xs) {
     margin-bottom: 16px;
   }
   h1 {
-    grid-column: 1 / 6;
+    grid-column: 1 / 7;
   }
   .intro {
-    grid-column: 6 / -1;
+    grid-column: 7 / -1;
     margin-top: 11px;
   }
   .intro-text {
@@ -3245,13 +3261,13 @@ em {
       margin-bottom: 16px;
     }
     p {
-      font-size: 1.5rem;
+      font-size: 1.375rem;
       color: $red;
       @media (max-width: $screen-sm) {
-        font-size: 1.375rem;
+        font-size: 1.125rem;
       }
       @media (max-width: $screen-xs) {
-        font-size: 1.125rem;
+        font-size: 1rem;
       }
     }
   }
@@ -3365,6 +3381,21 @@ em {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   background-color: $tan;
+  &:nth-of-type(3n+1) {
+    .block-screenshot {
+      background-image: url(../images/topo-2.jpg);
+    }
+  }
+  &:nth-of-type(3n+2) {
+    .block-screenshot {
+      background-image: url(../images/topo-1.jpg);
+    }
+  }
+  &:nth-of-type(3n+3) {
+    .block-screenshot {
+      background-image: url(../images/topo-3.jpg);
+    }
+  }
   @media (min-width: $screen-sm) {
     h3 {
       font-size: 2.125rem;
@@ -3434,6 +3465,28 @@ em {
       width: 100%;
       height: 100%;
       object-fit: cover;
+    }
+  }
+  .block-screenshot {
+    padding: 80px 0 0 80px;
+    background-color: $blue-grey;
+    background-size: cover;
+    @media (max-width: $screen-sm) {
+      padding: 64px 0 0 64px;
+    }
+    @media (max-width: $screen-xs) {
+      padding: 32px 0 0 32px;
+    }
+  }
+  .block-screenshot-wrap {
+    box-shadow: 0px 0px 25px rgba(0,0,0,.35);
+    background-color: $white;
+    border-top-left-radius: 5px;
+    overflow: hidden;
+    height: 100%;
+    img {
+      max-width: 140%;
+      width: 140%;
     }
   }
   &.dark {
@@ -3534,7 +3587,7 @@ em {
 ////////////////////////////////////////////////
 
 
-.tools-header {
+.tools {
 
 }
 
