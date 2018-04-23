@@ -10,7 +10,7 @@ block-1:
     HOT's policy and plans are discussed in a public, collaborative, participatory
     way.
   Action-text: Learn More
-  Image: /uploads/IMG_6695.jpg
+  Image: "/uploads/IMG_6695.jpg"
   Link: "/working-groups"
 block-2:
   Title: Volunteer
@@ -18,7 +18,7 @@ block-2:
     activities or contributing time by supporting training materials or helping develop
     and maintain our tools
   Action-text: See more ways you can volunteer
-  Image: /uploads/id-mapathon.jpeg
+  Image: "/uploads/id-mapathon.jpeg"
   Link: "/volunteer"
 block-3:
   Title: Join the conversation online
@@ -26,7 +26,7 @@ block-3:
     or IRC. On Slack, you can join topic based channels to hear about what is going
     on, ask questions, or communicate with community members.
   Action-text: Get connected now
-  Image: /uploads/IMG_6660.jpg
+  Image: "/uploads/IMG_6660.jpg"
   Link: https://slack.hotosm.org/
 layout: get-involved
 ---
