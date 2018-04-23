@@ -98,33 +98,36 @@ layout: default
       <h6>News from {{ page.title }} <span>(<a href="/updates">View all news</a>)</span></h6>
 
       <div class="project-index-news-list">
-        {% for post in site.posts limit:4 %}
 
-        <div class="news-index-item">
-          <div class="news-list-summary">
+        {% for post in site.posts limit:10 %}
+          {% if post['Country'] contains page.title %}
 
-            <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
+          <div class="news-index-item">
+            <div class="news-list-summary">
 
-              <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+              <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
 
-              <p>{{ post['Summary Text']}}</p>
-              {% capture post.Person %}{% endcapture %}
-              <div class="news-list-meta">
-                  <p class="news-index-author">
-                    {% include author.html %} — {{ post.date | date:  '%e %B, %Y' }}
-                  </p>
+                <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+
+                <p>{{ post['Summary Text']}}</p>
+                {% capture post.Person %}{% endcapture %}
+                <div class="news-list-meta">
+                    <p class="news-index-author">
+                      {% include author.html %} — {{ post.date | date:  '%e %B, %Y' }}
+                    </p>
+                </div>
               </div>
+
+              {% if post['Feature Image'] %}
+                <div class="news-list-image-sm">
+                  <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
+                </div>
+              {% endif %}
+
             </div>
-
-            {% if post['Feature Image'] %}
-              <div class="news-list-image-sm">
-                <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
-              </div>
-            {% endif %}
-
           </div>
-        </div>
 
+          {% endif %}
         {% endfor %}
       </div>
 
