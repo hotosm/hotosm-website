@@ -3,6 +3,10 @@ title: Public transportation map for Managua
 date: 2015-12-23 22:26:00 Z
 permalink: projects/public_transportation_map_for_managua
 position: 36
+Project Summary Text: HOT supports transportation mapping in Metropolitan Managua,
+  capital of Nicaragua, where over 1.5 million inhabitants are dependent on buses
+  each day.
+Feature Image: "/uploads/banner1.jpg"
 Is Community-Led: true
 Country:
 - Nicaragua
