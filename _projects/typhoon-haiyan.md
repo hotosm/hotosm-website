@@ -1,9 +1,12 @@
 ---
 title: Typhoon Haiyan
-date: 2013-11-16 15:35:48 Z
+date: 2013-11-16 15:35:00 Z
 permalink: projects/typhoon_haiyan
 position: 5
-HOT Involvement: Disaster Mapping
+Country:
+- Philippines
+Impact Area:
+- Disaster Response
 Person:
 - Taichi Furuhashi
 - Mark Cupitt
@@ -21,10 +24,11 @@ Person:
 - Ralph Aytoun
 - Russell Deffner
 - Harry Wood
-Link: http://wiki.osm.org/Typhoon_Haiyan
 Duration:
-  Start Date: '2013-11-10 00:00:00 +0000'
-  End Date: '2014-01-31 00:00:00 +0000'
+  Start Date: 2013-11-10 00:00:00 Z
+  End Date: 2014-01-31 00:00:00 Z
+HOT Involvement: Disaster Mapping
+Link: http://wiki.osm.org/Typhoon_Haiyan
 created: 1384616148
 ---
 
