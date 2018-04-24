@@ -1,20 +1,25 @@
 ---
 title: Somalia
-date: 2011-09-03 12:48:56 Z
+date: 2011-09-03 12:48:00 Z
 permalink: projects/somalia
 position: 9
+Is Community-Led: true
+Country:
+- Somalia
+Impact Area:
+- Disaster Response
+Person:
+- 'Jaakko Helleranta '
+Duration:
+  Start Date: 2011-07-01 00:00:00 Z
+  End Date: 2011-12-31 00:00:00 Z
 Summary Text: "HOT has been working remotely to gather information for Somalia and
   the rest of the Horn of Africa.  This is in response to the severe drought and famine
   crisis the is ongoing in the area. This response has included importing compatible
   data sources, negotiating for access to imagery and tracing of already available
-  satellite information.\r\n\r\n"
+  satellite information.\n\n"
 HOT Involvement: Disaster Mapping
-Person:
-- 'Jaakko Helleranta '
 Link: http://wiki.openstreetmap.org/wiki/Somalia
-Duration:
-  Start Date: '2011-07-01 00:00:00 +0000'
-  End Date: '2011-12-31 00:00:00 +0000'
 Contact: <p><a href="mailto:kate.chapman@hotosm.org">Kate Chapman</a></p>
 created: 1315054136
 ---
