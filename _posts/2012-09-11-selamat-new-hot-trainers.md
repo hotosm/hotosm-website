@@ -2,10 +2,10 @@
 title: Selamat New HOT Trainers
 date: 2012-09-11 08:33:20 Z
 permalink: updates/2012-09-11_selamat_new_hot_trainers
-Summary Text: "\r\n"
+Summary Text: ''
 Person: Katrina E.
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_026_1.png
 created: 1347352400

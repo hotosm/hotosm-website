@@ -2,11 +2,11 @@
 title: Humanitarian Data Model - REDUX
 date: 2013-06-06 21:42:45 Z
 permalink: updates/2013-06-06_humanitarian_data_model_-_redux
-Summary Text: "\r\n"
+Summary Text: ''
 Person: Brian Wolford
 Working Group:
 - Activation
-Projects:
+Project:
 - 'Haiti '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/600185_10200894765605830_1568258984_n.jpg
 created: 1370554965

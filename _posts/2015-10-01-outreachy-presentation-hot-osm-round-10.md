@@ -4,7 +4,7 @@ date: 2015-10-01 09:42:44 Z
 permalink: updates/2015-10-01_outreachy_presentation_|_hot_osm_round_10
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - Outreachy
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/youtube.png
 created: 1443692564

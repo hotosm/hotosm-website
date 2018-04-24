@@ -2,19 +2,19 @@
 title: Two weeks of field work within the EUROSHA Chad Project
 date: 2012-11-01 02:44:35 Z
 permalink: updates/2012-11-01_two_weeks_of_field_work_within_the_eurosha_chad_project_
-Summary Text: "Last night of hard work in the meeting room of the UNHCR in Gore (Southern
+Summary Text: 'Last night of hard work in the meeting room of the UNHCR in Gore (Southern
   Chad) debriefing the two weeks of field work.  Tomorrow we head North to Ndjamena.
   I feel that this is the right time to share with you impressions and facts from
-  those last intense and beautiful days. \r\n\r\nI'd like to start first with the
-  vitality, the energy the EUROSHA project created. Especially that of the Team who
-  had been engaged in the 4 days October training in Plaisians (France) at the premises
-  of the Group URD. There is something simple, strong and beautiful in the way those
+  those last intense and beautiful days. I''d like to start first with the vitality,
+  the energy the EUROSHA project created. Especially that of the Team who had been
+  engaged in the 4 days October training in Plaisians (France) at the premises of
+  the Group URD. There is something simple, strong and beautiful in the way those
   26 young individuals decided to volunteer 6 months of their lives. Their energy
   was communicative and worked as a fuel keeping us up to speed. It has an  even a
-  stronger effect when experienced during a deployment. \r\n\r\n"
+  stronger effect when experienced during a deployment. '
 Person: Nicolas Chavent
 Working Group: []
-Projects:
+Project:
 - EUROSHA
 created: 1351737875
 ---

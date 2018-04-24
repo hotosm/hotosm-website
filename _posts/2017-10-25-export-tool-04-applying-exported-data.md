@@ -2,14 +2,14 @@
 title: Export Tool | 04 Applying Exported Data
 date: 2017-10-25 04:46:51 Z
 permalink: updates/2017-10-25_export_tool_|_04_applying_exported_data
-Summary Text: "This blog is the final in a series of ‘Learn Export Tool’ posts following
+Summary Text: This blog is the final in a series of ‘Learn Export Tool’ posts following
   the launch of the revamped tool on the  18th September 2017 and will share some
   examples of how OSM data can be used through the Export Tool. The first blog of
   the series was on ‘Selecting Area of Interest’, the second focused on ‘Data File
-  Formats’ and the third looked at ‘Customising Map Features’. \r\n"
+  Formats’ and the third looked at ‘Customising Map Features’.
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - 'Export Tool 3.0 '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Export+Tool+-+Learn+Series.png
 created: 1508906811

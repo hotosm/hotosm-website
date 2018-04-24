@@ -4,7 +4,7 @@ date: 2015-04-10 03:02:37 Z
 permalink: updates/2015-04-10_hot_says_farewell_to_our_kate
 Person: Kristen Egermeier
 Working Group: []
-Projects: []
+Project: []
 created: 1428634957
 ---
 

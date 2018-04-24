@@ -4,7 +4,7 @@ date: 2010-06-16 20:31:31 Z
 permalink: updates/2010-06-16_haiti_mission_3_-_training_day_with_field_workers_of_the_shelter_cluster_organiz
 Person: Nicolas Chavent
 Working Group: []
-Projects: []
+Project: []
 created: 1276720291
 ---
 

@@ -4,7 +4,7 @@ date: 2011-12-02 12:18:32 Z
 permalink: updates/2011-12-02_poverty_mapping_with_an_openstreetmap_base_in_sumbawa
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 created: 1322828312
 ---
 

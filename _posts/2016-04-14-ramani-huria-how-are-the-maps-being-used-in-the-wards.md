@@ -3,16 +3,16 @@ title: 'Ramani Huria: how are the maps being used in the wards?'
 date: 2016-04-14 12:37:56 Z
 permalink: updates/2016-04-14_ramani_huria_how_are_the_maps_being_used_in_the_wards?
 Summary Text: "(Guest post by Mercedes Hoffay, Master of Public Administration Candidate
-  - Columbia University).\r\n\r\nAll policy students are obsessed with the effectiveness
-  and feasibility of policies and programs that governments implement. So when we
-  find a tool that allows significant efficiency gains in government planning, we
-  are thrilled. That is how we felt when we embarked on our Graduate Capstone Project
-  to evaluate the Humanitarian OpenStreetMap Team’s work in Tanzania and their role
-  in Dar Ramani Huria."
+  - Columbia University).All policy students are obsessed with the effectiveness and
+  feasibility of policies and programs that governments implement. So when we find
+  a tool that allows significant efficiency gains in government planning, we are thrilled.
+  That is how we felt when we embarked on our Graduate Capstone Project to evaluate
+  the Humanitarian OpenStreetMap Team’s work in Tanzania and their role in Dar Ramani
+  Huria."
 Person: Paul Uithol
 Working Group: []
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/17639216374_f1e8eb7881_o.jpg
 created: 1460637476
 ---

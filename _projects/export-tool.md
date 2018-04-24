@@ -1,19 +1,20 @@
 ---
 title: Export Tool
-date: 2015-05-28 14:58:06 Z
-permalink: export_tool
-position: 22
-HOT Involvement: Technical Projects
+date: 2015-05-28 14:58:00 Z
+permalink: projects/export_tool
+published: false
+position: 24
 Person:
 - Ismaila SEYE
 - Kate Chapman
 - Mhairi O'Hara
 - Blake Girardot
 Partner: Hewlett Foundation
-Link: http://export.hotosm.org/
 Duration:
-  Start Date: '2015-05-18 00:00:00 +0000'
-  End Date: '2016-10-02 00:00:00 +0000'
+  Start Date: 2015-05-18 00:00:00 Z
+  End Date: 2016-10-02 00:00:00 Z
+HOT Involvement: Technical Projects
+Link: http://export.hotosm.org/
 created: 1432825086
 ---
 

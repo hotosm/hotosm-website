@@ -4,7 +4,7 @@ date: 2011-02-09 02:07:34 Z
 permalink: updates/2011-02-09_please_join!_hot_conference_call_february_16_12pm_est
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 created: 1297217254
 ---
 

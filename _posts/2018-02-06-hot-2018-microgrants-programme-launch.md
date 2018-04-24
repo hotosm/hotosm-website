@@ -4,7 +4,7 @@ date: 2018-02-06 07:45:46 Z
 permalink: updates/2018-02-06_hot_2018_microgrants_programme_launch!
 Person: Rebecca Firth
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2018-01-17+at+11.16.24.png
 created: 1517903146
 ---

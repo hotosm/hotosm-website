@@ -1,10 +1,11 @@
 ---
 title: 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 date: 2017-02-06 15:06:00 Z
-permalink: urban_innovations_crowdsourcing_non-camp_refugee_data
-position: 1
+permalink: projects/urban_innovations_crowdsourcing_non-camp_refugee_data
+position: 0
+Project Summary Text: The “Crowdsourcing Non-Camp Refugee Data Through OpenStreetMap”
+  project aims to improve program planning and  service delivery to refugee communities.
 Feature Image: "/uploads/Uganda_MSFCompound-Yombe-SSudanese%20refugee%20mapping_July2017.jpg"
-HOT Involvement: Community Development
 Country:
 - Uganda
 Impact Area:
@@ -17,6 +18,7 @@ Person:
 Partner: U.S. Department of State
 Duration:
   Start Date: 2016-12-01 00:00:00 Z
+HOT Involvement: Community Development
 Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
 created: 1486393561
 ---

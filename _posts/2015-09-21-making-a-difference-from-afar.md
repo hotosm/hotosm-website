@@ -4,7 +4,7 @@ date: 2015-09-21 14:05:50 Z
 permalink: updates/2015-09-21_making_a_difference__from_afar
 Person: Kristen Egermeier
 Working Group: []
-Projects: []
+Project: []
 created: 1442844350
 ---
 

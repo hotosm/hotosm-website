@@ -5,7 +5,7 @@ permalink: updates/2015-10-02_hot_announces_tyler_radford_as_our_executive_direc
 Person: Heather Leson
 Working Group:
 - Community
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Tyler+dar+2(1).jpg
 created: 1443817348
 ---

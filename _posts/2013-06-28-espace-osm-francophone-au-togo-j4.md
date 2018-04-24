@@ -2,15 +2,15 @@
 title: Espace OSM Francophone au Togo à J+4
 date: 2013-06-28 22:54:32 Z
 permalink: updates/2013-06-28_espace_osm_francophone_au_togo_à_j+4
-Summary Text: "Le quatrième jour de cette mission de lancement du projet Espace OSM
-  Francophone au Togo s'achève.\r\n\r\nAvec le soutien de la Direction de la Francophonie
-  Numérique (OIF-DFN) de l'Organisation Internationale de la Francophonie, les membres
-  du WoeLab Lomé de l'Africaine d'Architecture, Amadou Ndong du projet OpenStreetMap
-  Sénégal déployé avec moi sous la bannière de HOT, nous   travaillons à l'ancrage
-  du projet OpenStreetMap dans ce pays de l'Afrique de l'Ouest. \r\n\r\n"
+Summary Text: 'Le quatrième jour de cette mission de lancement du projet Espace OSM
+  Francophone au Togo s''achève.Avec le soutien de la Direction de la Francophonie
+  Numérique (OIF-DFN) de l''Organisation Internationale de la Francophonie, les membres
+  du WoeLab Lomé de l''Africaine d''Architecture, Amadou Ndong du projet OpenStreetMap
+  Sénégal déployé avec moi sous la bannière de HOT, nous   travaillons à l''ancrage
+  du projet OpenStreetMap dans ce pays de l''Afrique de l''Ouest. '
 Person: Nicolas Chavent
 Working Group: []
-Projects: []
+Project: []
 created: 1372460072
 ---
 

@@ -10,7 +10,7 @@ Summary Text: The Humanitarian OpenStreetMap Team has partnered with the Global 
   through innovation in order to better identify risk and enable more effective decision-making.
 Person: Mhairi O'Hara
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/GED4ALL+-+Project+Overview.png
 created: 1496866519
 ---

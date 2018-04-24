@@ -5,7 +5,7 @@ permalink: updates/2014-10-27_interview_on_bbc_world_news
 Person: Harry Wood
 Working Group:
 - Fundraising
-Projects:
+Project:
 - West Africa Ebola Epidemic
 created: 1414435072
 ---

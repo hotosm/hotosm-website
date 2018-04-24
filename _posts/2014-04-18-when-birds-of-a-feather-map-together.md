@@ -5,7 +5,7 @@ permalink: updates/2014-04-18_when_birds_of_a_feather_map_together
 Person: Heather Leson
 Working Group:
 - Activation
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/blog_image.png
 created: 1397834970
 ---

@@ -51,6 +51,8 @@ defaults:
     - ''
     Country:
     - ''
+    Project:
+    - ''
 - scope:
     path: ''
     type: people

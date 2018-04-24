@@ -1,17 +1,19 @@
 ---
 title: EUROSHA
-date: 2012-08-12 21:59:23 Z
-permalink: eurosha
-position: 12
-Summary Text: "EUROSHA is a European Union pilot project that wants to build up a
-  European Open-Source Humanitarian Aid corps of volunteers to address humanitarian
+date: 2012-08-12 21:59:00 Z
+permalink: projects/eurosha
+position: 14
+Project Summary Text: EUROSHA is a European Union pilot project that wants to build
+  up a European Open-Source Humanitarian Aid corps of volunteers to address humanitarian
   issues and specifically ensure inclusive humanitarian information-sharing in crisis
-  preparedness.\r\n\r\nVolunteers are young people aged under 26 who will be trained
-  in September-October then deployed for 6 months from mid-October as part of a ‘country
-  team’ of four to five European citizen volunteers and of two national volunteers.
-  They will be hosted in locally-based organisations, and live and work together throughout
-  their mission in the field. \r\n\r\n"
-HOT Involvement: Community Development
+  preparedness.
+Feature Image: "/uploads/P1200100.jpg"
+Is Community-Led: true
+Country:
+- Burundi
+- Chad
+- Kenya
+- Central African Republic
 Person:
 - Stéphane Henriod
 - Jorieke Vyncke
@@ -19,8 +21,17 @@ Person:
 - Orsolya Jenei
 - Ben Abelshausen
 Duration:
-  Start Date: '2012-09-01 00:00:00 +0000'
-  End Date: '2013-04-30 00:00:00 +0000'
+  Start Date: 2012-09-01 00:00:00 Z
+  End Date: 2013-04-30 00:00:00 Z
+Summary Text: "EUROSHA is a European Union pilot project that wants to build up a
+  European Open-Source Humanitarian Aid corps of volunteers to address humanitarian
+  issues and specifically ensure inclusive humanitarian information-sharing in crisis
+  preparedness.\n\nVolunteers are young people aged under 26 who will be trained in
+  September-October then deployed for 6 months from mid-October as part of a ‘country
+  team’ of four to five European citizen volunteers and of two national volunteers.
+  They will be hosted in locally-based organisations, and live and work together throughout
+  their mission in the field. \n\n"
+HOT Involvement: Community Development
 Contact: <p><a href="mailto:severin.menard@hotosm.org">Nicolas Chavent<br>Severin
   Menard</a></p>
 created: 1344808763

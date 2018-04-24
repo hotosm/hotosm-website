@@ -10,7 +10,7 @@ Summary Text: Last week we finished our Beginning OSM workshops for BPBD staff, 
   what our team had to say about the beginning workshops
 Person: Katrina E.
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image.jpg
 created: 1351508403

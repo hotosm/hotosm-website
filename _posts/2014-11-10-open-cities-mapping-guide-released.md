@@ -5,7 +5,7 @@ permalink: updates/2014-11-10_open_cities_mapping_guide_released
 Person: Jeff Haack
 Working Group:
 - Community
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/wb_guide.png
 created: 1415642529
 ---

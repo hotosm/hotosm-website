@@ -1,17 +1,18 @@
 ---
 title: OSM Tasking Manager 3.0 Development
-date: 2016-12-01 19:41:07 Z
-permalink: osm_tasking_manager_30_development
-position: 43
-HOT Involvement: Technical Projects
+date: 2016-12-01 19:41:00 Z
+permalink: projects/osm_tasking_manager_30_development
+published: false
+position: 45
 Person:
 - Blake Girardot
 - Nick Allen
 - Ralph Aytoun
 - Russell Deffner
 Duration:
-  Start Date: '2016-12-01 00:00:00 +0000'
-  End Date: '2017-10-31 00:00:00 +0000'
+  Start Date: 2016-12-01 00:00:00 Z
+  End Date: 2017-10-31 00:00:00 Z
+HOT Involvement: Technical Projects
 Contact: '<p>Blake Girardot<br>Humanitarian OpenStreetMap Team, TM3 Project Manager<br><a
   class="linkification-ext" title="Linkification: mailto:blake.girardot@hotosm.org"
   href="mailto:blake.girardot@hotosm.org">mailto:blake.girardot@hotosm.org</a><br>skype:

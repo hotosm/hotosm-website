@@ -10,7 +10,7 @@ Summary Text: 'This blog focuses on how to ''Select Area of Interest'', and is t
 Person: Mhairi O'Hara
 Working Group:
 - Technical
-Projects:
+Project:
 - 'Export Tool 3.0 '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Untitled+presentation.png
 created: 1506375708

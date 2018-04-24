@@ -5,8 +5,8 @@ permalink: updates/2017-01-26_ramani_huria_trains_secondary_school_students_duri
 Person: Innocent Maholi
 Working Group:
 - Community
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/15941302_1911596629070902_2449297582192792374_n.jpg
 created: 1485417473
 ---

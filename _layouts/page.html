@@ -49,7 +49,7 @@ layout: default
       {% if page['Partner Contact'] %}
         <p class="meta-p">{{ page['Partner Contact']['Text'] }}</p>
         <div class="sticky-wrap">
-          <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Partner Contact']['Contact Email'] }}">Partner with us</a>
+          <a class="btn btn-primary btn-block btn-chevron" href="mailto:{{ page['Partner Contact']['Contact Email'] }}">Partner with us</a>
         </div>
       {% endif %}
 

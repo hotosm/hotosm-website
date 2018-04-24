@@ -13,7 +13,7 @@ Summary Text: 'HOT, en coordinación con la comunidad mexicana de OSM, ha sido a
 Person: Blake Girardot
 Working Group:
 - Activation
-Projects:
+Project:
 - Hurricane Patricia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/EMSR144-copernicus.jpg
 created: 1445781470

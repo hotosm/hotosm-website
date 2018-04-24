@@ -2,10 +2,10 @@
 title: Asian Ministerial Conference on Disaster Risk Reduction (AMCDRR 2012)
 date: 2012-10-24 05:15:06 Z
 permalink: updates/2012-10-24_asian_ministerial_conference_on_disaster_risk_reduction_(amcdrr_2012)_
-Summary Text: "\r\n\r\n"
+Summary Text: ''
 Person: Katrina E.
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20121022_101027.jpg
 created: 1351055706

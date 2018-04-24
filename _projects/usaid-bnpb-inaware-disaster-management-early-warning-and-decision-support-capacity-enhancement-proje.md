@@ -1,23 +1,36 @@
 ---
 title: 'USAID | BNPB | InAWARE: Disaster Management Early Warning and Decision Support
   Capacity Enhancement Project in Indonesia'
-date: 2016-07-06 00:35:42 Z
-permalink: usaid__bnpb__inaware_disaster_management_early_warning_and_decision_support_capacity_enhancement_project_in_indonesia
-position: 39
-Summary Text: 'In collaboration with USAID, BNPB, and the Pacific Disaster Centre,
-  HOT will assist improving overall risk assessment, early-warning, and disaster-management
-  decision making across Indonesia through the collection and provision of supporting
-  infrastructure data to the InAWARE disaster management tool. '
-HOT Involvement: Community Development
+date: 2016-07-06 00:35:00 Z
+permalink: projects/usaid__bnpb__inaware_disaster_management_early_warning_and_decision_support_capacity_enhancement_project_in_indonesia
+position: 41
+Project Summary Text: HOT is supporting the development of InAWARE, a disaster management
+  tool, to improve risk assessment, early-warning, and disaster-management decision
+  making in Indonesia.
+Feature Image: "/uploads/Untitled%20presentation.png"
+Country:
+- Indonesia
+Impact Area:
+- Disaster Risk Reduction
 Person:
 - Rebecca Firth
 - Biondi Sanda Sima
 - Harry Mahardhika Machmud
 - Yantisa Akhadi
 - Dewi Sulistioningrum
+Partner:
+- USAID
+- Massachusetts Institute of Technology
+- Government of Indonesia
+- Pacific Disaster Centre
 Duration:
-  Start Date: '2016-08-01 00:00:00 +0000'
-  End Date: '2018-08-01 00:00:00 +0000'
+  Start Date: 2016-08-01 00:00:00 Z
+  End Date: 2018-08-01 00:00:00 Z
+Summary Text: 'In collaboration with USAID, BNPB, and the Pacific Disaster Centre,
+  HOT will assist improving overall risk assessment, early-warning, and disaster-management
+  decision making across Indonesia through the collection and provision of supporting
+  infrastructure data to the InAWARE disaster management tool. '
+HOT Involvement: Community Development
 Contact: '<p><a href="Harry%20Madhardhika">Harry Mahardhika</a></p><p><a href="https://hotosm.org/users/iyan">Yantisa
   Akhadi</a></p><p><a style="font-style: normal; font-variant: normal; font-weight:
   normal; font-size: 14px; line-height: 21px; font-family: ''Open Sans'', Arial, sans-serif;"

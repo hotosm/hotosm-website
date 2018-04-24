@@ -1,9 +1,13 @@
 ---
 title: InaSAFE
-date: 2015-07-15 06:16:12 Z
-permalink: inasafe
-position: 26
-HOT Involvement: Partnerships
+date: 2015-07-15 06:16:00 Z
+permalink: projects/inasafe
+position: 28
+Project Summary Text: HOT have trained and assisted government and communities on
+  exposure mapping through OSM and disaster impact analysis using InaSAFE.
+Feature Image: "/uploads/about-screenshot14.png"
+Country:
+- Indonesia
 Person:
 - Blake Girardot
 - Emir Hartato
@@ -17,10 +21,14 @@ Person:
 - Dewi Sulistioningrum
 - Adityo Dwijananto
 - Mhairi O'Hara
-Link: http://inasafe.org
+Partner:
+- AIFDR
+- BNPB
 Duration:
-  Start Date: '2011-07-15 00:00:00 +0000'
-  End Date: '2015-08-30 00:00:00 +0000'
+  Start Date: 2011-07-15 00:00:00 Z
+  End Date: 2015-08-30 00:00:00 Z
+HOT Involvement: Partnerships
+Link: http://inasafe.org
 created: 1436940972
 ---
 

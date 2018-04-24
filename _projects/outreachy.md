@@ -1,9 +1,9 @@
 ---
 title: Outreachy
 date: 2015-05-28 14:17:00 Z
-permalink: outreachy
-position: 21
-HOT Involvement: Partnerships
+permalink: projects/outreachy
+published: false
+position: 23
 Person:
 - Blake Girardot
 - Benoît Fournier
@@ -12,10 +12,11 @@ Person:
 - Cristiano Giovando
 - Russell Deffner
 - Mhairi O'Hara
-Link: https://www.gnome.org/outreachy/
 Duration:
-  Start Date: '2015-05-25 00:00:00 +0000'
-  End Date: '2016-05-28 00:00:00 +0000'
+  Start Date: 2015-05-25 00:00:00 Z
+  End Date: 2016-05-28 00:00:00 Z
+HOT Involvement: Partnerships
+Link: https://www.gnome.org/outreachy/
 created: 1432822620
 ---
 

@@ -9,7 +9,7 @@ Summary Text: 'Since August 2012, the HOT team has included eight Indonesian tra
   Sulistioningrum </strong> (say that ten times fast...).  '
 Person: Katrina E.
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/dewi2_0.jpg
 created: 1352279989

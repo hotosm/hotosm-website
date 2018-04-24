@@ -4,7 +4,7 @@ date: 2017-10-24 07:34:57 Z
 permalink: updates/2017-10-24_grabbike_drivers_support_disaster_managers_identify_idp_camps_in_bali
 Person: Biondi Sanda Sima
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/All+Participants.png
 created: 1508830497

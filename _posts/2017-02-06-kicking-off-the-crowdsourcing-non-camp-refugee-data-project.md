@@ -4,7 +4,7 @@ date: 2017-02-06 15:24:17 Z
 permalink: updates/2017-02-06_kicking_off_the_“crowdsourcing_non-camp_refugee_data”_project
 Person: Paul Uithol
 Working Group: []
-Projects:
+Project:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017-01_SSudan_Refugee_Mothers_Blog_760x428_3.jpg
 created: 1486394657

@@ -4,7 +4,7 @@ date: 2016-02-01 10:11:39 Z
 permalink: updates/2016-02-01_geo_data_collect_mobile_data_collection_and_tracking
 Person: Yantisa Akhadi
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/GeoDataCollect.PNG
 created: 1454321499

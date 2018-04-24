@@ -5,7 +5,7 @@ date: 2017-07-03 08:53:14 Z
 permalink: updates/2017-07-03_volunteers_in_uganda_and_turkey_rally_to_support_refugees_on_world_refugee_day
 Person: Geoffrey Kateregga
 Working Group: []
-Projects:
+Project:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image5.jpg
 created: 1499071994

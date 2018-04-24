@@ -5,7 +5,7 @@ permalink: updates/2018-01-31_thanks_to_you_we're_mapping_the_difference_for_dis
 Person: Rachel VanNice
 Working Group:
 - Fundraising
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Campaign+Header+1.jpg
 created: 1517434023
 ---

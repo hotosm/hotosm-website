@@ -4,7 +4,7 @@ date: 2011-07-17 12:17:47 Z
 permalink: updates/2011-07-17_keren_osm_(bantaeng_and_kupang_indonesia)
 Person: Jeff Haack
 Working Group: []
-Projects: []
+Project: []
 created: 1310905067
 ---
 

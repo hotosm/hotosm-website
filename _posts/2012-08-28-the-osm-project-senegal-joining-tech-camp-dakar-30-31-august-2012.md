@@ -2,18 +2,18 @@
 title: 'The OSM Project Senegal: joining Tech Camp Dakar 30-31 August 2012'
 date: 2012-08-28 23:27:26 Z
 permalink: updates/2012-08-28_the_osm_project_senegal_joining_tech_camp_dakar_30-31_august_2012
-Summary Text: "I am starting a second short trip (28-August – 2-September) to Dakar
-  where HOT has been invited to be part of the <a href=\"http://techcampglobal.org/\">TechCamp</a>
+Summary Text: I am starting a second short trip (28-August – 2-September) to Dakar
+  where HOT has been invited to be part of the <a href="http://techcampglobal.org/">TechCamp</a>
   organized these 30 and 31 August by the US Embassy to facilitate sessions around
   OpenStreetMap and mapping. We'd like here to thank the organizers for choosing HOT,
-  our friends and partners from <a href=\"http://www.jokkolabs.net/\">JokkoLabs</a>
+  our friends and partners from <a href="http://www.jokkolabs.net/">JokkoLabs</a>
   – a co-working space in Dakar - who recommended HOT to the be part of the Camp,
-  and finally, the <a href=\"http://www.fondationdefrance.org/\">Fondation de France</a>
-  and the <a href=\"http://openstreetmap.fr/\">Association OpenStreetMap France (OSM-FR)</a>
-  for their continued support. All made this second trip to Senegal possible.\r\n\r\n"
+  and finally, the <a href="http://www.fondationdefrance.org/">Fondation de France</a>
+  and the <a href="http://openstreetmap.fr/">Association OpenStreetMap France (OSM-FR)</a>
+  for their continued support. All made this second trip to Senegal possible.
 Person: Nicolas Chavent
 Working Group: []
-Projects:
+Project:
 - Senegal
 created: 1346196446
 ---

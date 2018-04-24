@@ -11,7 +11,7 @@ Summary Text: Cette première semaine de septembre 2017 a vu se produire des cat
 Person: Rebecca Firth
 Working Group:
 - Activation
-Projects:
+Project:
 - Fall 2017 Disaster Response
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-09-08+at+22.29.14.png
 created: 1504928114

@@ -5,7 +5,7 @@ permalink: updates/2015-04-26_hot_activates_for_nepal_response_-_report_#2
 Person: Heather Leson
 Working Group:
 - Technical
-Projects:
+Project:
 - Nepal 2015 Earthquake Response
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Katmandu+Living+Labs+for+Nepal+Earthquake.png
 created: 1430028311

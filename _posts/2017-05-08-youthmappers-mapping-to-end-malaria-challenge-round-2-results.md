@@ -7,7 +7,7 @@ Summary Text: Over 200 students at 13 universities participated in the second ro
   400,000 buildings in Zimbabwe. Thank you to all the chapters who participated!
 Person: Russell Deffner
 Working Group: []
-Projects:
+Project:
 - Malaria Elimination Campaign
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/UCC+YM.jpg
 created: 1494254400

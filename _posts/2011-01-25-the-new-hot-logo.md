@@ -4,7 +4,7 @@ date: 2011-01-25 10:47:41 Z
 permalink: updates/2011-01-25_the_new_hot_logo
 Person: Harry Wood
 Working Group: []
-Projects: []
+Project: []
 created: 1295952461
 ---
 

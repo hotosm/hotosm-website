@@ -1,11 +1,22 @@
 ---
 title: Malaria Elimination Campaign
 date: 2017-02-08 02:06:00 Z
-permalink: malaria_elimination_campaign
-position: 44
-Summary Text: HOT has teamed up with many partners to identify and map populated places
-  in areas of the globe susceptible to the disease malaria.
-HOT Involvement: Disaster Mapping
+permalink: projects/malaria_elimination_campaign
+position: 46
+Project Summary Text: HOT has teamed up with partners working to eliminate malaria
+  across Southern Africa, Southeast Asia and Central America.
+Feature Image: "/uploads/busitema.jpg"
+Country:
+- Botswana
+- Zimbabwe
+- Zambia
+- Cambodia
+- Laos
+- Guatemala
+- Honduras
+Impact Area:
+- Disaster Risk Reduction
+- Public Health
 Person:
 - Mikel Maron
 - Pratik Yadav
@@ -14,9 +25,14 @@ Person:
 - Russell Deffner
 - Ralph Aytoun
 - Rebecca Firth
+Partner:
+- DigitalGlobe
 Duration:
-  Start Date: '2016-12-01 00:00:00 +0000'
-  End Date: '2018-06-04 00:00:00 +0000'
+  Start Date: 2016-12-01 00:00:00 Z
+  End Date: 2018-06-04 00:00:00 Z
+Summary Text: HOT has teamed up with many partners to identify and map populated places
+  in areas of the globe susceptible to the disease malaria.
+HOT Involvement: Disaster Mapping
 Contact: <p><a href="https://hotosm.org/users/russell_deffner">Russell Deffner</a></p>
 created: 1486519560
 ---

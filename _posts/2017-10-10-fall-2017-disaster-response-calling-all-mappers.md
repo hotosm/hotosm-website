@@ -6,7 +6,7 @@ Summary Text: HOT continues response to multiple disasters...
 Person: Russell Deffner
 Working Group:
 - Activation
-Projects:
+Project:
 - Fall 2017 Disaster Response
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/MexicoEarthquakes.PNG
 created: 1507660108

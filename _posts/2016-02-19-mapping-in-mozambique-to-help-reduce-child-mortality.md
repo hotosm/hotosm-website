@@ -4,7 +4,7 @@ date: 2016-02-19 15:38:45 Z
 permalink: updates/2016-02-19_mapping_in_mozambique_to_help_reduce_child_mortality
 Person: Blake Girardot
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/innocent-and-calist-ramani-.jpg
 created: 1455896325
 ---

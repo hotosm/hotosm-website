@@ -5,7 +5,7 @@ permalink: updates/2017-12-06_mapping_arsenic_contamination_-_youth_mappers_at_a
 Person: 'Amelia Hunt '
 Working Group:
 - Community
-Projects:
+Project:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Capture.JPG
 created: 1512565874

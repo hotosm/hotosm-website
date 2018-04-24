@@ -5,7 +5,7 @@ date: 2016-12-16 13:03:30 Z
 permalink: updates/2016-12-16_openstreetmap_workshop_at_the_pacific_gis_and_remote_sensing_conference_(univers
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - OpenAerialMap
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2016-12-17+at+02.57.57.png
 created: 1481893410

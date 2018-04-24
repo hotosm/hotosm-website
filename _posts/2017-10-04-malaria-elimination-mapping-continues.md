@@ -9,7 +9,7 @@ Summary Text: HOT has teamed up with many partners working to eliminate the dise
   places.
 Person: Russell Deffner
 Working Group: []
-Projects:
+Project:
 - Malaria Elimination Campaign
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/140909154833-malaria-map-story-top.jpg
 created: 1507129249

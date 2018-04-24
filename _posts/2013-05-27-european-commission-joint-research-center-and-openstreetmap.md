@@ -5,7 +5,7 @@ permalink: updates/2013-05-27_european_commission_joint_research_center_and_open
 Person: Séverin Ménard
 Working Group:
 - Training
-Projects: []
+Project: []
 created: 1369623657
 ---
 

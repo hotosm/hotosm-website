@@ -4,16 +4,16 @@ date: 2013-07-09 15:08:36 Z
 permalink: updates/2013-07-09_faces_of_hot_iyan_new_indonesian_team_manager
 Summary Text: "<b>Yantisa Akhadi</b>, a.k.a Iyan, is the new <b>team manager</b> for
   the Indonesia project.  He has an extensive background with open source software
-  and web development through working at the UNDP and IFRC. <br>\r\n\r\n Iyan grew
-  up in one of the hottest cities in Indonesia, Semarang.   As a teenager on the brink
-  of internet revolution, he quickly fall in love with ICT and decided to concentrate
-  in Informatics Engineering at Islamic University of Indonesia.  After he graduated,
-  he joined IFRC and then move to the UNDP for about 5 years. While working at the
-  UNDP, he became interested in web-based mapping.  Thus, he decided to get his Masters
-  in Spatial Information Science at the <em>University of Melbourne</em>.\r\n\r\n"
+  and web development through working at the UNDP and IFRC. <br> Iyan grew up in one
+  of the hottest cities in Indonesia, Semarang.   As a teenager on the brink of internet
+  revolution, he quickly fall in love with ICT and decided to concentrate in Informatics
+  Engineering at Islamic University of Indonesia.  After he graduated, he joined IFRC
+  and then move to the UNDP for about 5 years. While working at the UNDP, he became
+  interested in web-based mapping.  Thus, he decided to get his Masters in Spatial
+  Information Science at the <em>University of Melbourne</em>."
 Person: Katrina E.
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/iyan.png
 created: 1373382516

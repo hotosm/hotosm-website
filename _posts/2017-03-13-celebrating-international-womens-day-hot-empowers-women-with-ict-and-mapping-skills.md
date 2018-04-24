@@ -5,7 +5,7 @@ date: 2017-03-13 09:19:04 Z
 permalink: updates/2017-03-13_celebrating_international_women’s_day_hot_empowers_women_with_ict_and_mapping_
 Person: Biondi Sanda Sima
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-03-10+at+12.07.21+PM.png
 created: 1489396744

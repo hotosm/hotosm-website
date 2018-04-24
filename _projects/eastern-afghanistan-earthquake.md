@@ -1,22 +1,28 @@
 ---
 title: Eastern Afghanistan Earthquake
-date: 2015-10-27 17:22:36 Z
-permalink: eastern_afghanistan_earthquake
-position: 31
-Summary Text: HOT has activated to support the response to the 2015 Eastern Afghanistan
-  Earthquake, which hit remote areas of Afghanistan and Pakistan on Monday the 26th
-  October.
-HOT Involvement: Disaster Mapping
+date: 2015-10-27 17:22:00 Z
+permalink: projects/eastern_afghanistan_earthquake
+position: 33
+Project Summary Text: 'HOT support magnitude 7.5 Eastern Afghanistan Earthquake '
+Feature Image: "/uploads/EasternAfghanEarthquake.png"
+Country:
+- Afghanistan
+Impact Area:
+- Disaster Response
 Person:
 - Katja Ulbert
 - Russell Deffner
 - Adityo Dwijananto
 - Mhairi O'Hara
 - Blake Girardot
-Link: http://wiki.openstreetmap.org/wiki/2015_Eastern_Afghanistan_Earthquake
 Duration:
-  Start Date: '2015-10-27 00:00:00 +0000'
-  End Date: '2015-12-31 00:00:00 +0000'
+  Start Date: 2015-10-27 00:00:00 Z
+  End Date: 2015-12-31 00:00:00 Z
+Summary Text: HOT has activated to support the response to the 2015 Eastern Afghanistan
+  Earthquake, which hit remote areas of Afghanistan and Pakistan on Monday the 26th
+  October.
+HOT Involvement: Disaster Mapping
+Link: http://wiki.openstreetmap.org/wiki/2015_Eastern_Afghanistan_Earthquake
 Contact: "<p>Activation@hotosm.org</p>"
 created: 1445966556
 ---

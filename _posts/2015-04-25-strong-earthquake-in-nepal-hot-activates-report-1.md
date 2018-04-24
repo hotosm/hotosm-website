@@ -5,7 +5,7 @@ permalink: updates/2015-04-25_strong_earthquake_in_nepal_-_hot_activates!__repor
 Person: Russell Deffner
 Working Group:
 - Activation
-Projects:
+Project:
 - Nepal 2015 Earthquake Response
 created: 1429975742
 ---

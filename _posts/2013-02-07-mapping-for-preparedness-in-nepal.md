@@ -4,16 +4,16 @@ date: 2013-02-07 00:50:38 Z
 permalink: updates/2013-02-07_mapping_for_preparedness_in_nepal
 Summary Text: "<i>Today I bring you a guest post about a great project in Nepal. It
   comes courtesy of Nama Budhathoki, who is working to help ensure there is better
-  data for disaster planning using OSM in Nepal.</a>\r\n\r\nNepal is a beautiful country
-  with eight out of ten highest mountains in the world including Mt Everest. Its capital
+  data for disaster planning using OSM in Nepal.</a>Nepal is a beautiful country with
+  eight out of ten highest mountains in the world including Mt Everest. Its capital
   city has eight UNESCO-listed heritage sites. Nepal is a popular destination for
   tourists. Recently, several reports have warned that this spectacular nation is
   at high risks from earthquakes. According to Nepal Risk Reduction Consortium Secretariat,
   a mega-earthquake—which could occur at any time—is estimated to kill more than 100,000
-  in the Kathmandu Valley alone, injuring another 300,000 and displacing up to 1 million.\r\n\r\n"
+  in the Kathmandu Valley alone, injuring another 300,000 and displacing up to 1 million."
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Nepal_Activites.jpg
 created: 1360198238
 ---

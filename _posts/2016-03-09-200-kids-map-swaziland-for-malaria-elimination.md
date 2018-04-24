@@ -4,7 +4,7 @@ date: 2016-03-09 08:53:20 Z
 permalink: updates/2016-03-09_200_kids_map_swaziland_for_malaria_elimination
 Person: Cristiano Giovando
 Working Group: []
-Projects:
+Project:
 - Missing Maps
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/int7.jpg
 created: 1457513600

@@ -1,9 +1,9 @@
 ---
 title: OpenStreetMap Analytics
-date: 2016-04-28 12:18:55 Z
-permalink: openstreetmap_analytics
-position: 36
-HOT Involvement: Technical Projects
+date: 2016-04-28 12:18:00 Z
+permalink: projects/openstreetmap_analytics
+published: false
+position: 38
 Person:
 - Nate Smith
 - Melanie Eckle
@@ -11,9 +11,10 @@ Person:
 - Mikel Maron
 - Blake Girardot
 Partner: Knight Foundation
-Link: http://osm-analytics.org/
 Duration:
-  Start Date: '2016-01-01 00:00:00 +0000'
+  Start Date: 2016-01-01 00:00:00 Z
+HOT Involvement: Technical Projects
+Link: http://osm-analytics.org/
 Contact: "<p>cristiano.giovando@hotosm.org</p>"
 created: 1461845935
 ---

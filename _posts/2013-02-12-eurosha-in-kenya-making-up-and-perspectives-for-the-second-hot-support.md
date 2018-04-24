@@ -2,19 +2,19 @@
 title: 'Eurosha in Kenya: making-up and perspectives for the second Hot support'
 date: 2013-02-12 21:50:39 Z
 permalink: updates/2013-02-12_eurosha_in_kenya_making-up_and_perspectives_for_the_second_hot_support
-Summary Text: "In Kenya, 6 Eurosha volunteers have been deployed since Early October.
+Summary Text: In Kenya, 6 Eurosha volunteers have been deployed since Early October.
   Caroline, and Hannington from Kenya and Janja, Barbara Lenka, Marine from Europe
-  are all are hosted in Molo by <a href=\"http://www.clovekvohrozeni.sk/en/\">People
+  are all are hosted in Molo by <a href="http://www.clovekvohrozeni.sk/en/">People
   in Peril Association</a>, a Eurosha partner that works with a Kenyan NGO called
-  <a href=\"http://necofakenya.wordpress.com\">NECOFA</a> (Network for Ecofarming
-  in Africa) they fund with the support of Slovak Aid. \r\nNecofa acts on various
-  areas in Central Kenya, especially along the Molo River. Necofa’s office in Molo
-  is where the Eurosha volunteers normally works where they do not travel for their
-  outreaching or collecting activities, using then a “matatu\", a local minibus, used
-  the rest of time for safaris.\r\n\r\n"
+  <a href="http://necofakenya.wordpress.com">NECOFA</a> (Network for Ecofarming in
+  Africa) they fund with the support of Slovak Aid. Necofa acts on various areas in
+  Central Kenya, especially along the Molo River. Necofa’s office in Molo is where
+  the Eurosha volunteers normally works where they do not travel for their outreaching
+  or collecting activities, using then a “matatu", a local minibus, used the rest
+  of time for safaris.
 Person: Séverin Ménard
 Working Group: []
-Projects:
+Project:
 - EUROSHA
 created: 1360705839
 ---

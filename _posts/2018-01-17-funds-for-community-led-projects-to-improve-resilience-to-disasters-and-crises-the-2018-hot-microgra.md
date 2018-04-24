@@ -6,7 +6,7 @@ permalink: updates/2018-01-17_funds_for_community-led_projects_to_improve_resili
 Person: Rebecca Firth
 Working Group:
 - Community
-Projects:
+Project:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2018-01-17+at+11.16.24.png
 created: 1516205301

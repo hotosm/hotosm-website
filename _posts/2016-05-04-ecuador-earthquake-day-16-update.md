@@ -7,7 +7,7 @@ Summary Text: 'We want to highlight the amazing work done to date by the wonderf
   map changes with the associated #MappingEcuador changeset comment.'
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - Ecuador Earthquake
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/blog3_a.png
 created: 1462327050

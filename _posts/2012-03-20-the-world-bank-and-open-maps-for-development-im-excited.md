@@ -4,7 +4,7 @@ date: 2012-03-20 04:48:49 Z
 permalink: updates/2012-03-20_the_world_bank_and_open_maps_for_development_i'm_excited
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/world_bank_map_cake.jpg
 created: 1332218929
 ---

@@ -5,7 +5,7 @@ permalink: updates/2016-06-21_hot_inspires_mapping_communities_in_uganda
 Person: 'Douglas Ssebaggala '
 Working Group:
 - Community
-Projects:
+Project:
 - Mapping Financial Inclusion in Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20160428_182559.jpg
 created: 1466502374

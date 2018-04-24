@@ -11,7 +11,7 @@ Summary Text: Inspired by our response to the West Africa Ebola epidemic, a gran
   as well as building the numbers of Activation Coordinators.
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - West Africa Ebola Epidemic
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Ebola.png
 created: 1447913508

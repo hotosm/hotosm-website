@@ -4,7 +4,7 @@ date: 2016-05-05 19:54:12 Z
 permalink: updates/2016-05-05_hot_annual_meeting_and_election_results
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 created: 1462478052
 ---
 

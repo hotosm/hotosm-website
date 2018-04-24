@@ -4,7 +4,7 @@ date: 2017-06-09 11:12:52 Z
 permalink: updates/2017-06-09_collaborating_with_iom_the_un_migration_agency_on_openstreetmap
 Person: Nate Smith
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/AX3A9733+(2).jpg
 created: 1497006772
 ---

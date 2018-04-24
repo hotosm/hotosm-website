@@ -5,7 +5,7 @@ permalink: updates/2014-04-11_state_of_the_map_us_in_dc!
 Person: Kate Chapman
 Working Group:
 - Training
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Boy-and-the-world-image-312x500.jpg
 created: 1397245074
 ---

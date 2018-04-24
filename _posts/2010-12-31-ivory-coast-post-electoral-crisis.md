@@ -4,7 +4,7 @@ date: 2010-12-31 04:00:57 Z
 permalink: updates/2010-12-31_ivory_coast_post_electoral_crisis
 Person: Nicolas Chavent
 Working Group: []
-Projects: []
+Project: []
 created: 1293768057
 ---
 

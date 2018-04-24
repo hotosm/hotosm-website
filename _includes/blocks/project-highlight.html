@@ -27,7 +27,9 @@
     <p class="module-cta"><span>Learn more</span></p>
   </div>
   <div class="module-image">
-    <img src="{{ project['Feature Image']}}">
+    {% if project['Feature Image'] %}
+      <img src="{{ project['Feature Image']}}">
+    {% endif %}
   </div>
 
 </a>

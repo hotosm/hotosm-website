@@ -4,7 +4,7 @@ date: 2014-01-14 11:12:16 Z
 permalink: updates/2014-01-14_some_editing_stats_from_the_typhoon_haiyan_response
 Person: Harry Wood
 Working Group: []
-Projects:
+Project:
 - Typhoon Haiyan
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/haiyan-editing-graph.png
 created: 1389697936

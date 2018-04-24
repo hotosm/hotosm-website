@@ -4,7 +4,7 @@ date: 2014-04-16 18:39:23 Z
 permalink: updates/2014-04-16_community_growth_in_indonesia_-_creating_trainers
 Person: Kate Chapman
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/13835766473_2f4a67ee7f_o.jpg
 created: 1397673563

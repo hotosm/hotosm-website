@@ -2,18 +2,17 @@
 title: Finishing off the refugee camp mapping
 date: 2012-06-22 23:04:01 Z
 permalink: updates/2012-06-22_finishing_off_the_refugee_camp_mapping
-Summary Text: "Last month <a href=\"http://hot.openstreetmap.org/updates/2012-05-18_first_use_of_new_imagery_agreement_join_hot_to_trace_refugee_camps_in_kenya_and_e\">we
-  asked people</a> to help map refugee camps in Kenya and Ethiopia.\r\n\r\nIt was
-  an excercise in coordination using the HOT Tasking Manager, but this was initially
-  also an experiment testing out various workflows and organisational interactions
-  as part of a \"Camp Roberts\" excercise for the acquisition and setting up of imagery.
-  We were working with the U.S. State Department and U.S. Agency for International
-  Development using special aerial imagery from NextView. They wanted to see how,
-  given this imagery to trace from, our community could map the refugee camps in a
-  short space of time.\r\n\r\n"
+Summary Text: Last month <a href="http://hot.openstreetmap.org/updates/2012-05-18_first_use_of_new_imagery_agreement_join_hot_to_trace_refugee_camps_in_kenya_and_e">we
+  asked people</a> to help map refugee camps in Kenya and Ethiopia.It was an excercise
+  in coordination using the HOT Tasking Manager, but this was initially also an experiment
+  testing out various workflows and organisational interactions as part of a "Camp
+  Roberts" excercise for the acquisition and setting up of imagery. We were working
+  with the U.S. State Department and U.S. Agency for International Development using
+  special aerial imagery from NextView. They wanted to see how, given this imagery
+  to trace from, our community could map the refugee camps in a short space of time.
 Person: Harry Wood
 Working Group: []
-Projects:
+Project:
 - Somalia
 created: 1340406241
 ---

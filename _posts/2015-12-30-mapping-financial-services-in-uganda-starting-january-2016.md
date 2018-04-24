@@ -2,25 +2,25 @@
 title: Mapping Financial Services in Uganda - starting January 2016!
 date: 2015-12-30 15:11:52 Z
 permalink: updates/2015-12-30_mapping_financial_services_in_uganda_-_starting_january_2016!
-Summary Text: "As we near the end of the year, there’s many stories that stand out
+Summary Text: 'As we near the end of the year, there’s many stories that stand out
   and define the past year. One that I’d like to highlight here is a positive one
-  - the continuation of the sharp decline of absolute poverty over the past year.\r\nOne
+  - the continuation of the sharp decline of absolute poverty over the past year.One
   of the factors that’s shown to contribute to raising people’s standards of living,
   especially for those living on next to nothing, is financial inclusion. And one
   of the success stories here is the rise of mobile money - at number 5 in the Gates
   Foundation list of Good News stories for 2015: “Mobile Banking Exceeds Our Optimistic
-  Projections”.\r\n\r\nThe mobile money sector in countries like Uganda is growing
-  at an enormous pace, processing over 500 million transactions in 2015, with many
-  more people using mobile money than a traditional bank account - and these services
-  only came into existence six years ago!\r\n\r\nWith the HOT project on “Mapping
-  Financial Services” in Uganda (more background on the CGAP blog here), we’ll be
-  updating, opening up and increasing access to data on financial services, and specifically
-  mobile money services, for Uganda. With only a short time to go until we start our
-  field survey on January 5th, the project team is working hard to finalize our training
-  curriculum, logistics and mapping process."
+  Projections”.The mobile money sector in countries like Uganda is growing at an enormous
+  pace, processing over 500 million transactions in 2015, with many more people using
+  mobile money than a traditional bank account - and these services only came into
+  existence six years ago!With the HOT project on “Mapping Financial Services” in
+  Uganda (more background on the CGAP blog here), we’ll be updating, opening up and
+  increasing access to data on financial services, and specifically mobile money services,
+  for Uganda. With only a short time to go until we start our field survey on January
+  5th, the project team is working hard to finalize our training curriculum, logistics
+  and mapping process.'
 Person: Paul Uithol
 Working Group: []
-Projects:
+Project:
 - Mapping Financial Inclusion in Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20151215_184503.jpg
 created: 1451488312

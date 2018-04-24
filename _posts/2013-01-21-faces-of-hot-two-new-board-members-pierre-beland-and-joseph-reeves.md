@@ -2,18 +2,17 @@
 title: 'Faces of HOT:  Two New Board Members, Pierre Beland and Joseph Reeves'
 date: 2013-01-21 07:00:05 Z
 permalink: updates/2013-01-21_faces_of_hot__two_new_board_members_pierre_beland_and_joseph_reeves
-Summary Text: "<p><b>Pierre Béland</b> and <b>Joseph Reeves</b> were voted onto the
+Summary Text: <p><b>Pierre Béland</b> and <b>Joseph Reeves</b> were voted onto the
   HOT board last week.  Their nominations put the board to a total of seven for this
   year (with continuing five other members being Nicolas Chavent, Schuyler Erle, Mikel
   Maron, John Crowley and Harry Wood).  They join the board after multiple years of
-  active volunteering and coordinating of HOT projects.  \r\n<p>[inline:pierre-beland.png]\r\nPierre
-  Beland comes from Monteal, Canada.  An economist/programmer in his previous life,
-  \ He has set up many remote projects, most currently in the DRC with Claire Halleux.
-  \ You can read about that active project <a href=\"/updates/2012-12-12_hot_activation_south_and_north_kivu_democratic_republic_of_congo\">here</a>.
-  \ \r\n<p>[inline:jose.jpg]\r\n"
+  active volunteering and coordinating of HOT projects.  <p>[inline:pierre-beland.png]Pierre
+  Beland comes from Monteal, Canada.  An economist/programmer in his previous life,  He
+  has set up many remote projects, most currently in the DRC with Claire Halleux.  You
+  can read about that active project <a href="/updates/2012-12-12_hot_activation_south_and_north_kivu_democratic_republic_of_congo">here</a>.  <p>[inline:jose.jpg]
 Person: Katrina E.
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/jose_0.jpg
 created: 1358751605
 ---

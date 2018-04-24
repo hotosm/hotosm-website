@@ -5,7 +5,7 @@ permalink: updates/2017-04-29_cyclone_enawo_response_-_madagascar_
 Person: Matthew Gibb
 Working Group:
 - Activation
-Projects:
+Project:
 - Cyclone Enawo Response
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/maroantsetra_buildings_lowres.png
 created: 1493429254

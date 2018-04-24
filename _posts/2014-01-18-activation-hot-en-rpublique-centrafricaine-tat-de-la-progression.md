@@ -4,7 +4,7 @@ date: 2014-01-18 21:42:49 Z
 permalink: updates/2014-01-18_activation_hot_en_république_centrafricaine__état_de_la_progression
 Person: Séverin Ménard
 Working Group: []
-Projects:
+Project:
 - Central African Republic Activation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/uMap_CAR_OSM_progresses.png
 created: 1390081369

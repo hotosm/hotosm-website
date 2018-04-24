@@ -5,7 +5,7 @@ permalink: updates/2017-10-30_code_of_conduct
 Person: Dale Kunce
 Working Group:
 - Governance
-Projects: []
+Project: []
 created: 1509381498
 ---
 

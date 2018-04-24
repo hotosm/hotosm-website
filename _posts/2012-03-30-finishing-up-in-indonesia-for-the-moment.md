@@ -2,15 +2,15 @@
 title: Finishing Up in Indonesia...for the Moment
 date: 2012-03-30 05:37:35 Z
 permalink: updates/2012-03-30_finishing_up_in_indonesiafor_the_moment
-Summary Text: "Tomorrow marks the end of HOT's pilot to evaluate the use of OpenStreetMap
+Summary Text: Tomorrow marks the end of HOT's pilot to evaluate the use of OpenStreetMap
   for collection of information for exposure models in Indonesia. As I sit waiting
   for my flight back to the United States there is a lot of reflect on and to be proud.
    Of course there are always things to do better or explore further, but overall
   I feel that the past year has been a success. There is much to continue and further
-  expand.\r\n<h2>Accomplishments</h2>\r\n"
+  expand.<h2>Accomplishments</h2>
 Person: Kate Chapman
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/mapping_bima.jpg
 created: 1333085855

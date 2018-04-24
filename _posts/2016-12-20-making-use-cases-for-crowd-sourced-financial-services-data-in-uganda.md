@@ -5,7 +5,7 @@ permalink: updates/2016-12-20_making_use_cases_for_crowd_sourced_financial_servi
 Person: 'Douglas Ssebaggala '
 Working Group:
 - Community
-Projects:
+Project:
 - Mapping Financial Inclusion in Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20161206_121846.jpg
 created: 1482235628

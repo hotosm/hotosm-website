@@ -5,7 +5,7 @@ permalink: updates/2015-04-30_welcome_tyler!
 Person: Heather Leson
 Working Group:
 - Training
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Tyler+(HOT)+April+29,+2015.png
 created: 1430393475
 ---

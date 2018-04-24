@@ -4,7 +4,7 @@ date: 2013-11-18 00:18:47 Z
 permalink: updates/2013-11-18_réponse_d'openstreetmap_au_typhon_haiyan_/_yolanda
 Person: Pierre Béland
 Working Group: []
-Projects:
+Project:
 - Typhoon Haiyan
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/openstreetmap-hdm-building-tacloban.png
 created: 1384733927

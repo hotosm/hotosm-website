@@ -9,8 +9,8 @@ Summary Text: The ward of Tandale was one of the first wards in Dar es Salaam to
   mapping.
 Person: Sophie Lafayette
 Working Group: []
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/tandaleblog1.png
 created: 1443000773
 ---

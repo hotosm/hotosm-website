@@ -2,14 +2,14 @@
 title: Export Tool | 03 Customise Map Features
 date: 2017-10-10 02:05:56 Z
 permalink: updates/2017-10-10_export_tool_|_03_customise_map_features
-Summary Text: "This blog is the third in a series of ‘Learn Export Tool’ posts and
+Summary Text: 'This blog is the third in a series of ‘Learn Export Tool’ posts and
   focuses on how to customise the OSM map features for export. Following the launch
   of the revamped tool on the 18th September 2017, the first Learn blog focused on
   ‘Selecting Area of Interest’, the second focused on ‘Data File Formats’ and the
-  last will look at examples of ‘Applying Exported Data’. \r\n"
+  last will look at examples of ‘Applying Exported Data’. '
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - 'Export Tool 3.0 '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Export+Tool+-+Learn+Series.png
 created: 1507601156

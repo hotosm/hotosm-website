@@ -5,7 +5,7 @@ permalink: updates/2015-03-16_mapping_vanuatu_islands
 Person: Heather Leson
 Working Group:
 - Activation
-Projects: []
+Project: []
 created: 1426482517
 ---
 

@@ -9,7 +9,7 @@ Summary Text: 'The buzz of Geography Awareness Week, has reached far corners of 
 Person: Russell Deffner
 Working Group:
 - Community
-Projects:
+Project:
 - Missing Maps
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/ZimbabweRC.png
 created: 1447611004

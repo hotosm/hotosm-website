@@ -5,7 +5,7 @@ permalink: updates/2014-09-13_fieldwork_in_nsanje_district_(weeks_6_-_7)
 Person: Emir Hartato
 Working Group:
 - Training
-Projects:
+Project:
 - Malawi Flood Preparedness
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC_0306.JPG
 created: 1410648856

@@ -4,7 +4,7 @@ date: 2011-07-05 22:11:38 Z
 permalink: updates/2011-07-05_hot_in_sumbawa_island_indonesia
 Person: Emir Hartato
 Working Group: []
-Projects: []
+Project: []
 created: 1309903898
 ---
 

@@ -1,19 +1,20 @@
 ---
 title: Mapping the world’s vulnerable places begins with you!
-date: 2016-11-24 23:10:44 Z
-permalink: mapping_the_world’s_vulnerable_places_begins_with_you!
-position: 41
-HOT Involvement: Community Development
+date: 2016-11-24 23:10:00 Z
+permalink: projects/mapping_the_world’s_vulnerable_places_begins_with_you!
+published: false
+position: 43
 Person:
 - Janet Chapman
 - Blake Girardot
 - Katja Ulbert
 - Rachel Levine
 Partner: Missing Maps
-Link: http://donate.hotosm.org
 Duration:
-  Start Date: '2016-11-25 00:00:00 +0000'
-  End Date: '2017-01-02 00:00:00 +0000'
+  Start Date: 2016-11-25 00:00:00 Z
+  End Date: 2017-01-02 00:00:00 Z
+HOT Involvement: Community Development
+Link: http://donate.hotosm.org
 Contact: "<p>info@hotosm.org</p>"
 created: 1480029044
 ---

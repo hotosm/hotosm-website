@@ -1,24 +1,31 @@
 ---
 title: Sri Lanka Flooding 2016
-date: 2016-05-20 05:44:50 Z
-permalink: sri_lanka_flooding_2016
-position: 37
-HOT Involvement: Disaster Mapping
+date: 2016-05-20 05:44:00 Z
+permalink: projects/sri_lanka_flooding_2016
+position: 39
+Project Summary Text: HOT activated to trace buildings by the Disaster Management
+  Center (DMC) of Sri Lanka in response to the 2016 Sri Lanka floods
+Feature Image: "/uploads/Mapping%20for%20the%20Sri%20Lanka%20Floods%20at%20Understanding%20Risk%20(May%202016).jpg"
+Country:
+- Sri Lanka
+Impact Area:
+- Disaster Response
 Person:
 - Dale Kunce
 - Mikel Maron
 - Ahasanul Hoque
 - Blake Girardot
 Partner: GFDRR
-Link: http://wiki.openstreetmap.org/wiki/2016_Sri_Lanka_Floods
 Duration:
-  Start Date: '2016-05-17 00:00:00 +0000'
-  End Date: '2016-07-01 00:00:00 +0000'
+  Start Date: 2016-05-17 00:00:00 Z
+  End Date: 2016-07-01 00:00:00 Z
+HOT Involvement: Disaster Mapping
+Link: http://wiki.openstreetmap.org/wiki/2016_Sri_Lanka_Floods
 created: 1463723090
 ---
 
 <pre>Sri Lanka has been hit in the past few days by flooding:
-<a href="https://www.bing.com/search?q=sri+lanka+flooding">https://www.bing.com/search?q=sri+lanka+flooding</a>
+<a href="https://www.bing.com/search?q=sri\+lanka\+flooding">https://www.bing.com/search?q=sri\+lanka\+flooding</a>
 
 HOT has been asked to activate and immediately start tracing buildings
 by the Disaster Management Center (DMC) of Sri Lanka, who work closely
@@ -43,12 +50,11 @@ response to this crisis. They can be contacted at:
 For more information visit the 2016 Sri Lanka Floods wiki-page:
 <a href="http://wiki.openstreetmap.org/wiki/2016_Sri_Lanka_Floods">http://wiki.openstreetmap.org/wiki/2016_Sri_Lanka_Floods<br></a>
 
-If you’d like to help with coordination, speak up, and we’ll bring you
-into the Slack channel and Trello.
+
 <br>
 Regretfully,
-Blake Girardot, 
-Humanitarian OpenStreetMap Team, 
-President, HOT Board of Directors, 
-skype: jblakegirardot, 
+Blake Girardot,
+Humanitarian OpenStreetMap Team,
+President, HOT Board of Directors,
+skype: jblakegirardot,
 HOT Core Team Contact: <a href="https://lists.openstreetmap.org/listinfo/hot">info at hotosm.org</a></pre>

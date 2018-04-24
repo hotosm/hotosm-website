@@ -4,7 +4,7 @@ date: 2014-01-04 16:49:11 Z
 permalink: updates/2014-01-04_thank_you_lokku_and_happy_new_year
 Person: Harry Wood
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/donate.png
 created: 1388854151
 ---

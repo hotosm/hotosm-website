@@ -4,7 +4,7 @@ date: 2014-12-19 14:38:50 Z
 permalink: updates/2014-12-19_support_hot_with_an_annual_donation
 Person: Heather Leson
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/missing+maps+London++(Dec.+2014).jpg
 created: 1418999930
 ---

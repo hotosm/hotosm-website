@@ -5,7 +5,7 @@ date: 2012-05-18 14:48:54 Z
 permalink: updates/2012-05-18_first_use_of_new_imagery__agreement_join_hot_to_trace_refugee_camps_in_kenya_and
 Person: John Crowley
 Working Group: []
-Projects: []
+Project: []
 created: 1337352534
 ---
 

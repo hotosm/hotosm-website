@@ -4,7 +4,7 @@ date: 2013-09-29 13:52:06 Z
 permalink: updates/2013-09-29_a_new_window_on_openstreetmap_data
 Person: Yohan Boniface
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/humanitarian-style.png
 created: 1380462726
 ---

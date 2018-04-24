@@ -4,7 +4,7 @@ date: 2011-11-11 05:10:12 Z
 permalink: updates/2011-11-11_the_amazing_osm_community_and_the_tasking_server_maps_swaziland
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 created: 1320988212
 ---
 
