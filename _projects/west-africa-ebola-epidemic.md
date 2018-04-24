@@ -10,6 +10,10 @@ Country:
 - Guinea
 - Liberia
 - Sierra Leone
+Impact Area:
+- Public Health
+- Disaster Response
+- Disaster Risk Reduction
 Person:
 - Harry Wood
 - Mhairi O'Hara
