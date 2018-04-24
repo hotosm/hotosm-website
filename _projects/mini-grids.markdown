@@ -2,6 +2,9 @@
 title: Mini Grids
 date: 2018-04-24 12:45:00 Z
 position: 2
+Project Summary Text: The Mini Grid project is run by the HOT Tanzania team and involves
+  mapping rural areas of Tanzania to better understand the viability of providing
+  off-grid, renewable electricity electricity solutions.
 Feature Image: "/uploads/WhatsApp%20Image%202018-03-19%20at%207.45.20%20PM.jpeg"
 Country:
 - Tanzania
