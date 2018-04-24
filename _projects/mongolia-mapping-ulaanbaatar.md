@@ -1,16 +1,20 @@
 ---
 title: Mongolia, Mapping Ulaanbaatar
-date: 2013-10-11 18:32:19 Z
+date: 2013-10-11 18:32:00 Z
 permalink: projects/mongolia_mapping_ulaanbaatar
 position: 15
-HOT Involvement: Community Development
+Country:
+- Mongolia
+Impact Area:
+- Sustainable Cities
 Person:
 - Russell Deffner
 Partner: The World Bank
-Link: http://wiki.openstreetmap.org/wiki/WikiProject_Mongolia
 Duration:
-  Start Date: '2013-06-01 00:00:00 +0000'
-  End Date: '2015-11-30 00:00:00 +0000'
+  Start Date: 2013-06-01 00:00:00 Z
+  End Date: 2015-11-30 00:00:00 Z
+HOT Involvement: Community Development
+Link: http://wiki.openstreetmap.org/wiki/WikiProject_Mongolia
 Contact: <p><a href="mailto:russell.deffner@hotosm.org">S.Menard<br>Russell Deffner</a></p>
 created: 1381516339
 ---
