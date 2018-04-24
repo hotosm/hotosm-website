@@ -2,6 +2,9 @@
 title: Data Zetu
 date: 2018-04-24 12:10:00 Z
 position: 1
+Project Summary Text: The HOT Tanzania team are collaborating with Data Zetu to focus
+  on health mapping in Dar es Salaam and Mbeya in Tanzania to improve access public
+  health facilities.
 Feature Image: "/uploads/Community%20Mapping%20Dar%20es%20Salaam-c1e9ab.jpg"
 Is Community-Led: false
 Country:
