@@ -1,7 +1,8 @@
 ---
 title: David Luswata
 date: 2017-02-08 15:48:00 Z
-permalink: users/david_luswata
+redirect_from:
+  - /users/david_luswata
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-358-1487343133.jpg
 Member Type:
   Is Staff: true

@@ -1,7 +1,8 @@
 ---
 title: Steven Johnson
 date: 2015-05-28 19:38:41 Z
-permalink: users/steven_johnson
+redirect_from:
+  - /users/steven_johnson
 Working Group:
 - Training
 - Activation

@@ -1,7 +1,8 @@
 ---
 title: Nathalie Sidibe
 date: 2017-02-28 14:19:00 Z
-permalink: users/nathalie_sidibe
+redirect_from:
+  - /users/nathalie_sidibe
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-381-1498331929.jpg
 Member Type:
   Is Voting Member: true

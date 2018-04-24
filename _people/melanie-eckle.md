@@ -1,7 +1,8 @@
 ---
 title: Melanie Eckle
 date: 2017-02-28 14:26:00 Z
-permalink: users/melanie_eckle
+redirect_from:
+  - /users/melanie_eckle
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-387-1489498023.jpg
 Member Type:
   Is Voting Member: true

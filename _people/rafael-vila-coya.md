@@ -1,7 +1,8 @@
 ---
 title: Rafael Ávila Coya
 date: 2014-09-30 03:30:00 Z
-permalink: users/rafael_Ávila_coya
+redirect_from:
+  - /users/rafael_Ávila_coya
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-231-1432071490.jpg
 Member Type:
   Is Voting Member: true

@@ -1,7 +1,8 @@
 ---
 title: Felix Delattre
 date: 2013-12-01 16:40:00 Z
-permalink: users/felix_delattre
+redirect_from:
+  - /users/felix_delattre
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-72-1435074751.jpg
 Member Type:
   Is Voting Member: true

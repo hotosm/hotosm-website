@@ -1,7 +1,8 @@
 ---
 title: Ismaila SEYE
 date: 2015-06-04 19:52:00 Z
-permalink: users/ismaila_seye
+redirect_from:
+  - /users/ismaila_seye
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-296-1433503071.jpg
 Member Type:
   Is Voting Member: true

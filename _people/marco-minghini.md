@@ -1,7 +1,8 @@
 ---
 title: Marco Minghini
 date: 2017-02-28 13:55:00 Z
-permalink: users/marco_minghini
+redirect_from:
+  - /users/marco_minghini
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-364-1488489604.jpg
 Member Type:
   Is Voting Member: true

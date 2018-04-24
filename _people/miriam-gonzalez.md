@@ -1,7 +1,8 @@
 ---
 title: Miriam Gonzalez
 date: 2017-02-28 14:06:00 Z
-permalink: users/miriam_gonzalez
+redirect_from:
+  - /users/miriam_gonzalez
 Member Type:
   Is Voting Member: true
 Project:
