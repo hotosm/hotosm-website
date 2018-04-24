@@ -9,7 +9,6 @@ fetch('/countries.json')
   }
 );
 
-
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
 var map = new mapboxgl.Map({
   container: 'map',
@@ -39,11 +38,11 @@ map.on('load', function () {
   map.addLayer({
     "id": "active_countries",
     "type": "fill",
-    "source": 'countriesbetter',
-    "source-layer": 'countriesbetter',
+    "source": "countriesbetter",
+    "source-layer": "countriesbetter",
     "minzoom": 0,
     "maxzoom": 8,
-    'filter': ['in', 'name_low'].concat(activeCountries),
+    "filter": ['in', 'name_low'].concat(activeCountries),
     "paint": {
       "fill-color": "#D73F3F",
       "fill-outline-color": "#fff"
@@ -52,11 +51,11 @@ map.on('load', function () {
   map.addLayer({
     "id": "community_countries",
     "type": "fill",
-    "source": 'countriesbetter',
-    "source-layer": 'countriesbetter',
+    "source": "countriesbetter",
+    "source-layer": "countriesbetter",
     "minzoom": 0,
     "maxzoom": 8,
-    'filter': ['in', 'name_low'].concat(communityCountries),
+    "filter": ['in', 'name_low'].concat(communityCountries),
     "paint": {
       "fill-color": "#FAA71E",
       "fill-outline-color": "#fff"
