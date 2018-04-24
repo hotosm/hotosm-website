@@ -1,14 +1,17 @@
 ---
 title: Remote Damage Assessment Research
-date: 2017-06-28 14:29:10 Z
+date: 2017-06-28 14:29:00 Z
 permalink: projects/remote_damage_assessment_research
 position: 50
-HOT Involvement: Disaster Mapping
+Project Summary Text: This research project focuses on improving how building damage
+  information is gathered through crowdsourcing
+Feature Image: "/uploads/Screen%20Shot%202017-06-27%20at%2022.57.42.jpg"
 Person:
 - Blake Girardot
 Duration:
-  Start Date: '2017-06-28 00:00:00 +0000'
-  End Date: '2018-06-01 00:00:00 +0000'
+  Start Date: 2017-06-28 00:00:00 Z
+  End Date: 2018-06-01 00:00:00 Z
+HOT Involvement: Disaster Mapping
 created: 1498660150
 ---
 
