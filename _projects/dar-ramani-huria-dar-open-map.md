@@ -3,20 +3,19 @@ title: Dar Ramani Huria — Dar Open Map
 date: 2015-02-07 04:47:00 Z
 permalink: projects/dar_ramani_huria_dar_open_map
 position: 0
-Feature Image: "/uploads/17461400118_a8ffb298ff_o.jpg"
+Feature Image: "/uploads/RH2.PNG"
+Is Community-Led: false
 Country:
 - Tanzania
 Impact Area:
 - Sustainable Cities
 - Water & Sanitation
+- Disaster Risk Reduction
 Person:
 - Innocent Maholi
-- Steven Bukulu
-- Geoffrey Kateregga
+- Ivan Gayton
 - Paul Uithol
 - 'Amelia Hunt '
-- Sophie Lafayette
-- Dale Kunce
 Partner: The World Bank
 Duration:
   Start Date: 2015-04-01 00:00:00 Z
