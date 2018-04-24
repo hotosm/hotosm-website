@@ -1,6 +1,7 @@
 ---
 title: Data Zetu
 date: 2018-04-24 12:10:00 Z
+position: 1
 Feature Image: "/uploads/Community%20Mapping%20Dar%20es%20Salaam-c1e9ab.jpg"
 Is Community-Led: false
 Country:

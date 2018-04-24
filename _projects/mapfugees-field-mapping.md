@@ -2,7 +2,7 @@
 title: MapFugees Field Mapping
 date: 2016-11-24 23:55:00 Z
 permalink: projects/mapfugees_field_mapping
-position: 42
+position: 44
 Country:
 - France
 Impact Area:

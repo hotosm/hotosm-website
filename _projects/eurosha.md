@@ -2,7 +2,7 @@
 title: EUROSHA
 date: 2012-08-12 21:59:00 Z
 permalink: projects/eurosha
-position: 12
+position: 14
 Country:
 - Burundi
 - Chad

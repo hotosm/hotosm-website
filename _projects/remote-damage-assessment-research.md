@@ -2,7 +2,7 @@
 title: Remote Damage Assessment Research
 date: 2017-06-28 14:29:10 Z
 permalink: projects/remote_damage_assessment_research
-position: 48
+position: 50
 HOT Involvement: Disaster Mapping
 Person:
 - Blake Girardot

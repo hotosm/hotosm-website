@@ -2,7 +2,7 @@
 title: Malaria Elimination Campaign
 date: 2017-02-08 02:06:00 Z
 permalink: projects/malaria_elimination_campaign
-position: 44
+position: 46
 Country:
 - Botswana
 - Zimbabwe

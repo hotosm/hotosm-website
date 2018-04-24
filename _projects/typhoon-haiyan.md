@@ -2,7 +2,7 @@
 title: Typhoon Haiyan
 date: 2013-11-16 15:35:00 Z
 permalink: projects/typhoon_haiyan
-position: 5
+position: 7
 Country:
 - Philippines
 Impact Area:

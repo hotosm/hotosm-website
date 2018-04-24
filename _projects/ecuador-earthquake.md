@@ -2,7 +2,7 @@
 title: Ecuador Earthquake
 date: 2016-04-22 20:36:00 Z
 permalink: projects/ecuador_earthquake
-position: 35
+position: 37
 Country:
 - Ecuador
 Impact Area:

@@ -2,7 +2,7 @@
 title: OSM FlossManuals in Kreyòl (Creole)
 date: 2012-12-04 16:10:00 Z
 permalink: projects/osm_flossmanuals_in_kreyòl_creole
-position: 13
+position: 15
 Country:
 - Haiti
 Person:

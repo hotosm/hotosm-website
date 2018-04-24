@@ -2,7 +2,7 @@
 title: Ivory Coast
 date: 2011-09-02 21:40:00 Z
 permalink: projects/ivory_coast
-position: 8
+position: 10
 Country:
 - Ivory Coast
 Person:

@@ -2,7 +2,7 @@
 title: Senegal
 date: 2012-07-31 16:03:00 Z
 permalink: projects/senegal
-position: 10
+position: 12
 Country:
 - Senegal
 Person:

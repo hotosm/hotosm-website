@@ -2,7 +2,7 @@
 title: LearnOSM
 date: 2015-06-02 18:51:00 Z
 permalink: projects/learnosm
-position: 7
+position: 9
 Feature Image: "/uploads/learnosm.PNG"
 Is Community-Led: true
 Person:

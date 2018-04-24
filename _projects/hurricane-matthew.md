@@ -2,7 +2,7 @@
 title: Hurricane Matthew
 date: 2016-10-04 04:18:00 Z
 permalink: projects/hurricane_matthew
-position: 40
+position: 42
 Country:
 - Haiti
 - United States

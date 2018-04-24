@@ -2,7 +2,7 @@
 title: West Africa Ebola Epidemic
 date: 2014-04-15 12:25:00 Z
 permalink: projects/west_africa_ebola_epidemic
-position: 16
+position: 18
 Country:
 - Guinea
 - Liberia

@@ -2,7 +2,7 @@
 title: Mapping Financial Inclusion in Uganda
 date: 2015-12-11 20:50:00 Z
 permalink: projects/mapping_financial_inclusion_in_uganda
-position: 33
+position: 35
 Feature Image: "/uploads/Mobile%20money%20uganda.jpg"
 Country:
 - Uganda

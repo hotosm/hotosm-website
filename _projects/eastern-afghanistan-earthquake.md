@@ -2,7 +2,7 @@
 title: Eastern Afghanistan Earthquake
 date: 2015-10-27 17:22:00 Z
 permalink: projects/eastern_afghanistan_earthquake
-position: 31
+position: 33
 Country:
 - Afghanistan
 Impact Area:

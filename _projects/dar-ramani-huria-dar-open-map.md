@@ -2,7 +2,7 @@
 title: Dar Ramani Huria — Dar Open Map
 date: 2015-02-07 04:47:00 Z
 permalink: projects/dar_ramani_huria_dar_open_map
-position: 0
+position: 3
 Feature Image: "/uploads/RH2.PNG"
 Is Community-Led: false
 Country:

@@ -2,7 +2,7 @@
 title: Somalia
 date: 2011-09-03 12:48:00 Z
 permalink: projects/somalia
-position: 9
+position: 11
 Is Community-Led: true
 Country:
 - Somalia

@@ -1,6 +1,7 @@
 ---
 title: Mini Grids
 date: 2018-04-24 12:45:00 Z
+position: 2
 Feature Image: "/uploads/WhatsApp%20Image%202018-03-19%20at%207.45.20%20PM.jpeg"
 Country:
 - Tanzania

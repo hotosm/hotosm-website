@@ -2,7 +2,7 @@
 title: 'LEGIT: Supporting decentralization in Liberian cities'
 date: 2017-03-08 23:05:00 Z
 permalink: projects/legit_supporting_decentralization_in_liberian_cities
-position: 2
+position: 4
 Feature Image: "/uploads/IMG_20170220_122606%20(1).jpg"
 Country:
 - Liberia

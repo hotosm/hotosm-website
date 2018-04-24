@@ -2,7 +2,7 @@
 title: Central African Republic Activation
 date: 2014-05-09 10:25:00 Z
 permalink: projects/central_african_republic_activation
-position: 17
+position: 19
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/uMap_CAR_20140509.png
 Country:
 - Central African Republic

@@ -2,7 +2,7 @@
 title: HOT Indonesia Curriculum
 date: 2015-10-12 03:28:00 Z
 permalink: projects/hot_indonesia_curriculum
-position: 29
+position: 31
 Country:
 - Indonesia
 Impact Area:

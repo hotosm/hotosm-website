@@ -2,7 +2,7 @@
 title: Mongolia, Mapping Ulaanbaatar
 date: 2013-10-11 18:32:00 Z
 permalink: projects/mongolia_mapping_ulaanbaatar
-position: 15
+position: 17
 Country:
 - Mongolia
 Impact Area:

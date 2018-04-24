@@ -2,7 +2,7 @@
 title: Cyclone Enawo Response
 date: 2017-04-29 01:06:00 Z
 permalink: projects/cyclone_enawo_response
-position: 46
+position: 48
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/maroantsetra_buildings_lowres.png
 Country:
 - Madagascar

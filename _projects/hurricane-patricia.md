@@ -2,7 +2,7 @@
 title: Hurricane Patricia
 date: 2015-10-23 21:50:00 Z
 permalink: projects/hurricane_patricia
-position: 30
+position: 32
 Country:
 - Mexico
 Impact Area:
