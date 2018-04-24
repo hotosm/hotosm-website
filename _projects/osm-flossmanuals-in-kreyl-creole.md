@@ -1,16 +1,18 @@
 ---
 title: OSM FlossManuals in Kreyòl (Creole)
-date: 2012-12-04 16:10:02 Z
+date: 2012-12-04 16:10:00 Z
 permalink: projects/osm_flossmanuals_in_kreyòl_creole
 position: 13
-HOT Involvement: Community Development
+Country:
+- Haiti
 Person:
 - 'Jaakko Helleranta '
 - ALCE Samuel Paul
 - Jean Bully PROPHETE
 Duration:
-  Start Date: '2011-12-01 00:00:00 +0000'
-  End Date: '2011-12-31 00:00:00 +0000'
+  Start Date: 2011-12-01 00:00:00 Z
+  End Date: 2011-12-31 00:00:00 Z
+HOT Involvement: Community Development
 Contact: "<p>Anne Goldenberg</p>"
 created: 1354637402
 ---
