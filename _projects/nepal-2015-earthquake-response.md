@@ -5,6 +5,7 @@ permalink: projects/nepal_2015_earthquake_response
 position: 21
 Project Summary Text: HOT supports with magnitude 7.3 earthquake in Nepal
 Feature Image: "/uploads/2015_Nepal_Earthquake_USGS_map_0.png"
+Is Community-Led: true
 Country:
 - Nepal
 Impact Area:
