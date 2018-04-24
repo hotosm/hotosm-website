@@ -3,6 +3,7 @@ title: Malawi Flood Preparedness
 date: 2014-07-29 21:20:00 Z
 permalink: projects/malawi_flood_preparedness
 position: 20
+Feature Image: "/uploads/P1050175_50%25_0.png"
 Country:
 - Malawi
 Impact Area:
