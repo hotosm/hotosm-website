@@ -6,6 +6,8 @@ position: 46
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/maroantsetra_buildings_lowres.png
 Country:
 - Madagascar
+Impact Area:
+- Disaster Response
 Person:
 - Blake Girardot
 Duration:
