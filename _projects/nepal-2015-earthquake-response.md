@@ -1,9 +1,12 @@
 ---
 title: Nepal 2015 Earthquake Response
-date: 2015-04-27 04:39:36 Z
+date: 2015-04-27 04:39:00 Z
 permalink: projects/nepal_2015_earthquake_response
 position: 19
-HOT Involvement: Disaster Mapping
+Country:
+- Nepal
+Impact Area:
+- Disaster Response
 Person:
 - Dale Kunce
 - Rafael Ávila Coya
@@ -28,10 +31,11 @@ Person:
 - BAGNOUMANA Bazo FOFANA
 - Taichi Furuhashi
 - Harry Wood
-Link: http://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake
 Duration:
-  Start Date: '2015-04-25 00:00:00 +0000'
-  End Date: '2015-12-31 00:00:00 +0000'
+  Start Date: 2015-04-25 00:00:00 Z
+  End Date: 2015-12-31 00:00:00 Z
+HOT Involvement: Disaster Mapping
+Link: http://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake
 created: 1430109576
 ---
 
