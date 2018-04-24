@@ -2959,20 +2959,15 @@ em {
   }
 }
 
+#person-map-area > .mapboxgl-canvas-container {
+  top: 0px;
+}
+
 .person-map-area {
-  background-color: tint($red, 85%);
-  background-image: url(../uploads/portugal-sample.png);
-  background-position: center center;
-  background-size: cover;
-  padding: 16px;
-  position: relative;
-  @media (min-width: $screen-xs) {
-    padding: 40px;
-  }
+  position: absolute;
   &:after {
     content: '';
     display: block;
-    background-color: $red;
     position: absolute;
     top: 0;
     right: 0;
@@ -2984,6 +2979,10 @@ em {
 }
 
 .person-header-info {
+  @media (min-width: $screen-xs) {
+    margin: 40px;
+  }
+  margin: 16px;
   z-index: 10;
   display: flex;
   position: relative;
