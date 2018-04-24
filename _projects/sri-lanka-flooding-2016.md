@@ -1,19 +1,23 @@
 ---
 title: Sri Lanka Flooding 2016
-date: 2016-05-20 05:44:50 Z
+date: 2016-05-20 05:44:00 Z
 permalink: projects/sri_lanka_flooding_2016
 position: 37
-HOT Involvement: Disaster Mapping
+Country:
+- Sri Lanka
+Impact Area:
+- Disaster Response
 Person:
 - Dale Kunce
 - Mikel Maron
 - Ahasanul Hoque
 - Blake Girardot
 Partner: GFDRR
-Link: http://wiki.openstreetmap.org/wiki/2016_Sri_Lanka_Floods
 Duration:
-  Start Date: '2016-05-17 00:00:00 +0000'
-  End Date: '2016-07-01 00:00:00 +0000'
+  Start Date: 2016-05-17 00:00:00 Z
+  End Date: 2016-07-01 00:00:00 Z
+HOT Involvement: Disaster Mapping
+Link: http://wiki.openstreetmap.org/wiki/2016_Sri_Lanka_Floods
 created: 1463723090
 ---
 
