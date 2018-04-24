@@ -1,16 +1,10 @@
 ---
 title: Haiti
-date: 2011-02-12 13:53:46 Z
+date: 2011-02-12 13:53:00 Z
 permalink: projects/haiti_
 position: 51
-Summary Text: "Just a few hours after the 7.0 magnitude earthquake hit Haiti in January
-  2010 the OpenStreetMap Community began tracing.... What did they begin tracing?
-  Roads in the beginning all from imagery that was previously available from Yahoo.
-  This initial tracing enhanced the base data that was already present.  The initial
-  data was from responses to 2008 cyclones Ike Hanna and Gustav that was imported
-  in OSM in Jan 2009. This data served as a starting place for the mapping that would
-  take place after the earthquake.\r\n\r\n"
-HOT Involvement: Disaster Mapping
+Country:
+- Haiti
 Person:
 - Mikel Maron
 - Rob Baker
@@ -29,8 +23,16 @@ Person:
 - Will Skora
 - Dale Kunce
 Duration:
-  Start Date: '2010-01-12 00:00:00 +0000'
-  End Date: '2011-10-31 00:00:00 +0000'
+  Start Date: 2010-01-12 00:00:00 Z
+  End Date: 2011-10-31 00:00:00 Z
+Summary Text: "Just a few hours after the 7.0 magnitude earthquake hit Haiti in January
+  2010 the OpenStreetMap Community began tracing.... What did they begin tracing?
+  Roads in the beginning all from imagery that was previously available from Yahoo.
+  This initial tracing enhanced the base data that was already present.  The initial
+  data was from responses to 2008 cyclones Ike Hanna and Gustav that was imported
+  in OSM in Jan 2009. This data served as a starting place for the mapping that would
+  take place after the earthquake.\n\n"
+HOT Involvement: Disaster Mapping
 Contact: <p><a href="mailto:nicolas.chavent@hotosm.org">Nicolas Chavent</a></p>
 created: 1297518826
 ---
