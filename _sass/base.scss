@@ -2166,12 +2166,13 @@ em {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  @media (min-width: $screen-xs) {
-    padding-top: 64px;
-  }
+  // @media (min-width: $screen-xs) {
+  //   padding-top: 64px;
+  // }
   .country-name {
     margin: 0 auto;
     padding: 40px;
+    z-index: 1;
     &:after {
       content: '';
       display: block;
@@ -2186,6 +2187,14 @@ em {
       text-align: center;
     }
   }
+}
+
+#country-map-area {
+  margin-top: -28px;
+}
+
+.mapboxgl-canvas-container {
+  position: absolute;
 }
 
 .country-contact {
