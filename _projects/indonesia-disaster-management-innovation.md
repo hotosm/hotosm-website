@@ -1,15 +1,13 @@
 ---
 title: Indonesia Disaster Management Innovation
-date: 2011-09-02 21:19:24 Z
+date: 2011-09-02 21:19:00 Z
 permalink: projects/indonesia_disaster_management_innovation
 position: 6
-Summary Text: "Base data serves many needs in humanitarian response.  Often responding
-  organizations are scrambling to gather data because it is not readily available.
-  The focus of HOT’s work in Indonesia has been data preparedness and Disaster Risk
-  Reduction (DRR), which has been pursued by a combination of primary data creation
-  and training new mappers and mapping trainers across Indonesia. The program is now
-  in its fifth year. \r\n\r\n"
-HOT Involvement: Community Development
+Country:
+- Indonesia
+Impact Area:
+- Disaster Risk Reduction
+- Sustainable Cities
 Person:
 - Rob Baker
 - Emir Hartato
@@ -29,9 +27,16 @@ Person:
 - Harry Wood
 - Joseph Reeves
 Partner: Department of Foreign Affairs and Trade
-Link: http://wiki.openstreetmap.org/wiki/WikiProject_Indonesia
 Duration:
-  Start Date: '2011-01-01 00:00:00 +0000'
+  Start Date: 2011-01-01 00:00:00 Z
+Summary Text: "Base data serves many needs in humanitarian response.  Often responding
+  organizations are scrambling to gather data because it is not readily available.
+  The focus of HOT’s work in Indonesia has been data preparedness and Disaster Risk
+  Reduction (DRR), which has been pursued by a combination of primary data creation
+  and training new mappers and mapping trainers across Indonesia. The program is now
+  in its fifth year. \n\n"
+HOT Involvement: Community Development
+Link: http://wiki.openstreetmap.org/wiki/WikiProject_Indonesia
 Contact: <p><a title="Yantisa Akhadi" href="https://hotosm.org/users/iyan_akhadi"
   target="_blank">Yantisa Akhadi</a></p>
 created: 1314998364
