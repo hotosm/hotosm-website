@@ -5,6 +5,8 @@ permalink: projects/hot_indonesia_curriculum
 position: 29
 Country:
 - Indonesia
+Impact Area:
+- Disaster Risk Reduction
 Person:
 - Emir Hartato
 - Ranie Dwi Anugrah
