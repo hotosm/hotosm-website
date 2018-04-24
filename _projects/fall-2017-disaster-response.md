@@ -4,6 +4,18 @@ date: 2017-09-09 03:50:00 Z
 permalink: projects/hot_activates_for_multiple_disasters_hurricane_irma_and_maria_mexico_earthquakes_and
 published: false
 position: 3
+Feature Image: "/uploads/Screen%20Shot%202017-09-08%20at%2022.29.14_0.png"
+Country:
+- Bangladesh
+- Nepal
+- Mexico
+- Dominica
+- Puerto Rico
+- India
+- Indonesia
+Impact Area:
+- Disaster Response
+- Disaster Risk Reduction
 Person:
 - Michael Heißmeier
 - Russell Deffner
