@@ -3,6 +3,9 @@ title: Hurricane Patricia
 date: 2015-10-23 21:50:00 Z
 permalink: projects/hurricane_patricia
 position: 32
+Project Summary Text: The Humanitarian OpenSteetMap Team (HOT) has activated to provide
+  geographic base data in areas affected by Hurricane Patricia in Mexico.
+Feature Image: "/uploads/EMSR144-copernicus.jpg"
 Country:
 - Mexico
 Impact Area:
