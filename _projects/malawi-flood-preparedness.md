@@ -1,16 +1,20 @@
 ---
 title: Malawi Flood Preparedness
-date: 2014-07-29 21:20:38 Z
+date: 2014-07-29 21:20:00 Z
 permalink: projects/malawi_flood_preparedness
 position: 18
-HOT Involvement: Community Development
+Country:
+- Malawi
+Impact Area:
+- Disaster Risk Reduction
 Person:
 - Emir Hartato
 - Maning Sambale
 Partner: GFDRR
 Duration:
-  Start Date: '2014-07-31 00:00:00 +0000'
-  End Date: '2015-12-31 00:00:00 +0000'
+  Start Date: 2014-07-31 00:00:00 Z
+  End Date: 2015-12-31 00:00:00 Z
+HOT Involvement: Community Development
 Contact: <p><a href="mailto:severin.menard@hotosm.org">Severin</a></p><p><a href="mailto:emmanuel.sambale@hotosm.org">Maning</a></p><p><a
   href="mailto:emir.hartato@hotosm.org">Emir</a></p>
 created: 1406668838
