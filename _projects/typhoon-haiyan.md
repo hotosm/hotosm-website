@@ -3,6 +3,10 @@ title: Typhoon Haiyan
 date: 2013-11-16 15:35:00 Z
 permalink: projects/typhoon_haiyan
 position: 7
+Project Summary Text: We activated to provide geographic base data in areas affected
+  by typhoon Yolanda/Haiyan in the Philippines.
+Feature Image: "/uploads/Haiyan.png"
+Is Community-Led: true
 Country:
 - Philippines
 Impact Area:
