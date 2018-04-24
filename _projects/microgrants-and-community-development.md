@@ -6,7 +6,7 @@ position: 49
 Feature Image: "/uploads/received_1740826335961060.jpeg"
 Country:
 - Bangladesh
-- Colombia
+- Niger
 - Benin
 - Botswana
 - Colombia
@@ -14,7 +14,7 @@ Country:
 - Guinea
 - Haiti
 - Indonesia
-- Dominican Republic
+- Democratic Republic of the Congo
 - Kenya
 - Liberia
 - Mali
@@ -34,6 +34,8 @@ Impact Area:
 - 
 Person:
 - Russell Deffner
+- Rebecca Firth
+- 'Amelia Hunt '
 Duration:
   Start Date: 2017-01-01 00:00:00 Z
   End Date: 2018-12-31 00:00:00 Z
