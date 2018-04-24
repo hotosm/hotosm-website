@@ -5,6 +5,8 @@ permalink: projects/haiti_
 position: 51
 Country:
 - Haiti
+Impact Area:
+- Disaster Response
 Person:
 - Mikel Maron
 - Rob Baker
