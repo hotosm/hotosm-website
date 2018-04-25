@@ -21,7 +21,7 @@ layout: default
       <div class="roster-list">
         <div class="roster-list-wrapper">
 
-          {% assign sorted-people = site.people | sort: 'position' %}
+          {% assign sorted-people = site.people | sort: 'date' | reverse %}
           {% for person in sorted-people %}
             {% if page.title contains 'HOT Team' and person['Member Type']['Is Staff'] %}
               {% include blocks/roster-item.html %}
