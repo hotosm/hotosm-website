@@ -120,40 +120,8 @@ h6 {
   }
 }
 
-a .boxed {
-  font-size: 0.97rem;
-  display: inline-block;
-  color: $white;
-  background-color: $red;
-  padding: 10px 42px 12px 12px;
-  margin-bottom: 0;
-  z-index: 1;
-  cursor: pointer;
-  background-repeat: no-repeat;
-  background-size: 0.7;
-  @media (max-width: $screen-sm) {
-    padding: 12px 42px 14px 12px;
-    margin-right: 0px;
-  }
-  @media (max-width: $screen-xs) {
-    padding: 11px 42px 14px 12px;
-    margin-right: 0px;
-  }
-}
-
 .boxed-down {
   top: 410px;
-}
-
-#close-map-txt {
-  background-position: 85px center;
-  background-image: url(../images/icon-close.svg);
-}
-
-#expand-map-txt {
-  padding-top: 8px;
-  background-position: 165px center;
-  background-image: url(../images/icon-map-expand.svg);
 }
 
 .hide {
@@ -447,6 +415,7 @@ em {
   box-shadow: $default-box-shadow;
   transition: all .2s ease-in-out;
   margin-right: 4px;
+  cursor: pointer;
   &:hover {
     box-shadow: $hover-box-shadow;
   }
@@ -544,7 +513,7 @@ em {
       }
     }
   }
-  &.btn-map {
+  &.btn-expand {
     position: relative;
     padding-right: 40px;
     padding-left: 12px;
@@ -557,6 +526,33 @@ em {
       width: 14px;
       height: 14px;
       background-image: url(../images/icon-map-expand.svg);
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: contain;
+    }
+    @media (max-width: $screen-xs) {
+      font-size: 0.875rem;
+      padding-right: 36px;
+      padding-bottom: 13px;
+      &:after {
+        width: 12px;
+        height: 12px;
+      }
+    }
+  }
+  &.btn-close {
+    position: relative;
+    padding-right: 40px;
+    padding-left: 12px;
+    &:after {
+      content: '';
+      display: inline-block;
+      position: absolute;
+      top: 9px;
+      right: 8px;
+      width: 22px;
+      height: 22px;
+      background-image: url(../images/icon-close.svg);
       background-repeat: no-repeat;
       background-position: center center;
       background-size: contain;
@@ -2236,7 +2232,6 @@ em {
   right: 0;
   bottom: 0;
   left: 0;
-  // height: 400px;
 }
 
 .right {
@@ -2257,9 +2252,9 @@ em {
     height: 564px;
     margin-top: -64px;
   }
-  .btn-map {
+  #expand-map-btn {
     position: absolute;
-    bottom: 24px;
+    top: -66px;
     right: 40px;
     @media (max-width: $screen-xs) {
       top: 16px;
@@ -2422,6 +2417,7 @@ em {
 .project-index-areas {
   padding: 24px 0 20px;
   background-color: rgba(255,255,255,.65);
+  position: relative;
   @media (max-width: $screen-xs) {
     padding: 16px 0 14px;
   }
