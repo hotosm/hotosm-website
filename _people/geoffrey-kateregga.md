@@ -1,7 +1,8 @@
 ---
 title: Geoffrey Kateregga
 date: 2015-03-24 06:22:00 Z
-permalink: users/geoffrey_kateregga
+redirect_from:
+  - /users/geoffrey_kateregga
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-256-1454138810.jpg
 Member Type:
   Is Staff: true

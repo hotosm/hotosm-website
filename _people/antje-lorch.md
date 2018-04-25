@@ -1,7 +1,8 @@
 ---
 title: Antje Lorch
 date: 2013-07-22 16:10:52 Z
-permalink: users/antje_lorch
+redirect_from:
+  - /users/antje_lorch
 Working Group:
 - Technical
 Country: United Kingdom

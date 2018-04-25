@@ -1,7 +1,8 @@
 ---
 title: Gertrude (Trudy Hope) Namitala
 date: 2017-02-28 01:49:00 Z
-permalink: users/gertrude_(trudy_hope)_namitala
+redirect_from:
+  - /users/gertrude_(trudy_hope)_namitala
 Member Type:
   Is Voting Member: true
 Working Group:

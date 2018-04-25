@@ -1,7 +1,8 @@
 ---
 title: Jaakko Helleranta
 date: 2013-03-22 14:22:00 Z
-permalink: users/jaakko_helleranta_
+redirect_from:
+  - /users/jaakko_helleranta_
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-52-1411584364.jpg
 Member Type:
   Is Voting Member: true

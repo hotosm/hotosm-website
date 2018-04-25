@@ -1,7 +1,8 @@
 ---
 title: Ralph Aytoun
 date: 2017-02-28 13:58:00 Z
-permalink: users/ralph_aytoun
+redirect_from:
+  - /users/ralph_aytoun
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-366-1488296375.jpg
 Member Type:
   Is Voting Member: true

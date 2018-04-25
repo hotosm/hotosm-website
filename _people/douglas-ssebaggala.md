@@ -1,7 +1,8 @@
 ---
 title: 'Douglas Ssebaggala '
 date: 2016-06-09 19:24:49 Z
-permalink: users/douglas_ssebaggala_
+redirect_from:
+  - /users/douglas_ssebaggala_
 Working Group:
 - Community
 Project:

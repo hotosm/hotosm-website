@@ -1,7 +1,8 @@
 ---
 title: Schuyler Erle
 date: 2011-09-10 20:25:00 Z
-permalink: users/schuyler_erle
+redirect_from:
+  - /users/schuyler_erle
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-8-1411583908.jpg
 Member Type:
   Is Voting Member: true

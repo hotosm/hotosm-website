@@ -1,7 +1,8 @@
 ---
 title: Paul Stewart
 date: 2016-02-19 16:45:52 Z
-permalink: users/paul_stewart
+redirect_from:
+  - /users/paul_stewart
 Working Group:
 - Community
 - Technical

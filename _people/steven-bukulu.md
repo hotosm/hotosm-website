@@ -1,7 +1,8 @@
 ---
 title: Steven Bukulu
 date: 2015-03-24 05:24:00 Z
-permalink: users/steven_bukulu
+redirect_from:
+  - /users/steven_bukulu
 Working Group:
 - Training
 - Communications

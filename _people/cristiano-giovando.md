@@ -1,7 +1,8 @@
 ---
 title: Cristiano Giovando
 date: 2015-01-21 20:32:00 Z
-permalink: users/cristiano_giovando
+redirect_from:
+  - /users/cristiano_giovando
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-251-1432768691.jpg
 Member Type:
   Is Staff: true

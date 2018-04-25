@@ -1,7 +1,8 @@
 ---
 title: Orsolya Jenei
 date: 2015-06-04 19:57:00 Z
-permalink: users/orsolya_jenei
+redirect_from:
+  - /users/orsolya_jenei
 Member Type:
   Is Voting Member: true
 Working Group:

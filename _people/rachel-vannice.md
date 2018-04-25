@@ -1,7 +1,8 @@
 ---
 title: Rachel VanNice
 date: 2016-11-08 21:00:59 Z
-permalink: users/rachel_vannice
+redirect_from:
+  - /users/rachel_vannice
 Working Group:
 - Fundraising
 - Communications

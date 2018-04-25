@@ -1,7 +1,8 @@
 ---
 title: Samuel Olubunmi Aiyeoribe
 date: 2016-01-11 23:28:00 Z
-permalink: users/samuel_olubunmi_aiyeoribe
+redirect_from:
+  - /users/samuel_olubunmi_aiyeoribe
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-316-1452585655.jpg
 Member Type:
   Is Voting Member: true
