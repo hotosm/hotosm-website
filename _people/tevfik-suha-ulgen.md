@@ -2,7 +2,7 @@
 title: Tevfik Suha Ulgen
 date: 2014-09-30 03:33:00 Z
 redirect_from:
-  - /users/tevfik_suha_ulgen
+- "/users/tevfik_suha_ulgen"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-241-1432790290.jpg
 Member Type:
   Is Voting Member: true

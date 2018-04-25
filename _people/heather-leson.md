@@ -2,7 +2,7 @@
 title: Heather Leson
 date: 2013-12-01 16:39:00 Z
 redirect_from:
-  - /users/heather_leson
+- "/users/heather_leson"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-70-1411583393.jpg
 Member Type:
   Is Voting Member: true

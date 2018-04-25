@@ -2,7 +2,7 @@
 title: Hameed Tasal
 date: 2011-10-19 01:09:00 Z
 redirect_from:
-  - /users/hameed_tasal
+- "/users/hameed_tasal"
 Member Type:
   Is Voting Member: true
 Working Group:

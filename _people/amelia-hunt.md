@@ -2,7 +2,7 @@
 title: 'Amelia Hunt '
 date: 2017-11-22 16:08:18 Z
 redirect_from:
-  - /users/amelia_hunt_
+- "/users/amelia_hunt_"
 Working Group:
 - Community
 - Communications

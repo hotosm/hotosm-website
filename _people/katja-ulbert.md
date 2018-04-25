@@ -2,7 +2,7 @@
 title: Katja Ulbert
 date: 2015-05-25 17:50:00 Z
 redirect_from:
-  - /users/katja_ulbert
+- "/users/katja_ulbert"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-283-1440077668.jpg
 Member Type:
   Is Staff: true

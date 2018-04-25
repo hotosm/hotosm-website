@@ -2,7 +2,7 @@
 title: Sajjad Anwar
 date: 2016-01-11 23:39:00 Z
 redirect_from:
-  - /users/sajjad_anwar
+- "/users/sajjad_anwar"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-321-1452658791.jpg
 Member Type:
   Is Voting Member: true

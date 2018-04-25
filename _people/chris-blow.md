@@ -2,7 +2,7 @@
 title: Chris Blow
 date: 2011-07-15 09:39:42 Z
 redirect_from:
-  - /users/chris_blow
+- "/users/chris_blow"
 Project:
 - Indonesia Disaster Management Innovation
 Country: United States

@@ -2,7 +2,7 @@
 title: Ranie Dwi Anugrah
 date: 2016-06-15 03:14:00 Z
 redirect_from:
-  - /users/ranie_dwi_anugrah
+- "/users/ranie_dwi_anugrah"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-335-1465965209.jpg
 Member Type:
   Is Voting Member: true

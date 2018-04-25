@@ -2,7 +2,7 @@
 title: Kristen Egermeier
 date: 2012-09-20 00:15:00 Z
 redirect_from:
-  - /users/kristen_egermeier
+- "/users/kristen_egermeier"
 Member Type:
   Is Staff: false
 Working Group:

@@ -2,7 +2,7 @@
 title: Rachel VanNice
 date: 2016-11-08 21:00:59 Z
 redirect_from:
-  - /users/rachel_vannice
+- "/users/rachel_vannice"
 Working Group:
 - Fundraising
 - Communications

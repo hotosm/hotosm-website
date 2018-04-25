@@ -2,7 +2,7 @@
 title: Vitor George
 date: 2015-06-04 20:00:00 Z
 redirect_from:
-  - /users/vitor_george
+- "/users/vitor_george"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-304-1434988965.jpg
 Member Type:
   Is Voting Member: true

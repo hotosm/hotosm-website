@@ -2,7 +2,7 @@
 title: Jorieke Vyncke
 date: 2014-03-30 01:28:00 Z
 redirect_from:
-  - /users/jorieke_vyncke
+- "/users/jorieke_vyncke"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-79-1432475599.jpg
 Member Type:
   Is Voting Member: true

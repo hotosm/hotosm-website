@@ -2,7 +2,7 @@
 title: Steven Johnson
 date: 2015-05-28 19:38:41 Z
 redirect_from:
-  - /users/steven_johnson
+- "/users/steven_johnson"
 Working Group:
 - Training
 - Activation

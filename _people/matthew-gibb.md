@@ -2,7 +2,7 @@
 title: Matthew Gibb
 date: 2017-02-28 14:23:00 Z
 redirect_from:
-  - /users/matthew_gibb
+- "/users/matthew_gibb"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-383-1488293342.jpg
 Member Type:
   Is Voting Member: true

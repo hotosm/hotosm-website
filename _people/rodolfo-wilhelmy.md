@@ -2,7 +2,7 @@
 title: Rodolfo Wilhelmy
 date: 2016-01-11 23:34:43 Z
 redirect_from:
-  - /users/rodolfo_wilhelmy
+- "/users/rodolfo_wilhelmy"
 Country: Mexico
 Social Media (Full URL):
   LinkedIn: https://www.linkedin.com/in/rodowi

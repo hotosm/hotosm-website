@@ -2,7 +2,7 @@
 title: Rupert Allan
 date: 2017-10-27 18:18:06 Z
 redirect_from:
-  - /users/rupert_allan
+- "/users/rupert_allan"
 Working Group:
 - Community
 - Communications

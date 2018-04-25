@@ -2,7 +2,7 @@
 title: Paul Stewart
 date: 2016-02-19 16:45:52 Z
 redirect_from:
-  - /users/paul_stewart
+- "/users/paul_stewart"
 Working Group:
 - Community
 - Technical

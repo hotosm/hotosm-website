@@ -2,7 +2,7 @@
 title: Emir Hartato
 date: 2011-07-04 21:12:00 Z
 redirect_from:
-  - /users/emir_hartato
+- "/users/emir_hartato"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-14-1497475546.jpg
 Member Type:
   Is Voting Member: true

@@ -2,7 +2,7 @@
 title: Maria Longley
 date: 2017-02-28 14:18:53 Z
 redirect_from:
-  - /users/maria_longley
+- "/users/maria_longley"
 Project:
 - Missing Maps
 Country: United Kingdom

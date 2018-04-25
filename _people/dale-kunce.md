@@ -2,7 +2,7 @@
 title: Dale Kunce
 date: 2014-09-30 03:20:00 Z
 redirect_from:
-  - /users/dale_kunce
+- "/users/dale_kunce"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-210-1518189300.jpg
 Member Type:
   Is Voting Member: true

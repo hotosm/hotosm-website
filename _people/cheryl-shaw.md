@@ -2,7 +2,7 @@
 title: Cheryl Shaw
 date: 2016-04-28 12:49:32 Z
 redirect_from:
-  - /users/cheryl_shaw
+- "/users/cheryl_shaw"
 Working Group:
 - Fundraising
 - Communications

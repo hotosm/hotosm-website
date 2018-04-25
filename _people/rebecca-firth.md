@@ -2,7 +2,7 @@
 title: Rebecca Firth
 date: 2016-12-21 15:24:56 Z
 redirect_from:
-  - /users/rebecca_firth
+- "/users/rebecca_firth"
 Working Group:
 - Fundraising
 - Communications

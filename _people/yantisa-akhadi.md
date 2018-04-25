@@ -2,7 +2,7 @@
 title: Yantisa Akhadi
 date: 2014-06-16 15:09:00 Z
 redirect_from:
-  - /users/yantisa_akhadi
+- "/users/yantisa_akhadi"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-101-1432092398.jpg
 Member Type:
   Is Staff: true

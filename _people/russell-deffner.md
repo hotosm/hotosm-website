@@ -2,7 +2,7 @@
 title: Russell Deffner
 date: 2013-12-01 16:40:00 Z
 redirect_from:
-  - /users/russell_deffner
+- "/users/russell_deffner"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-71-1515514638.jpg
 Member Type:
   Is Staff: true

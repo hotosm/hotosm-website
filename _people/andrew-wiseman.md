@@ -2,7 +2,7 @@
 title: Andrew Wiseman
 date: 2015-04-28 20:22:00 Z
 redirect_from:
-  - /users/andrew_wiseman
+- "/users/andrew_wiseman"
 Project:
 - Nepal 2015 Earthquake Response
 - 'Haiti '

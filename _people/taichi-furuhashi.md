@@ -2,7 +2,7 @@
 title: Taichi Furuhashi
 date: 2015-06-04 19:59:00 Z
 redirect_from:
-  - /users/taichi_furuhashi
+- "/users/taichi_furuhashi"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-303-1433533133.jpg
 Member Type:
   Is Voting Member: true

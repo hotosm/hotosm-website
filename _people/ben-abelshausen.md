@@ -2,7 +2,7 @@
 title: Ben Abelshausen
 date: 2015-06-04 19:47:00 Z
 redirect_from:
-  - /users/ben_abelshausen
+- "/users/ben_abelshausen"
 Member Type:
   Is Voting Member: true
 Project:

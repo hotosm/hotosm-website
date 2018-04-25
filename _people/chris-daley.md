@@ -2,7 +2,7 @@
 title: Chris Daley
 date: 2014-11-05 03:32:36 Z
 redirect_from:
-  - /users/chris_daley
+- "/users/chris_daley"
 Country: Australia
 Social Media (Full URL):
   Twitter: https://twitter.com/chebizarro

@@ -2,7 +2,7 @@
 title: Nate Smith
 date: 2016-01-11 23:27:00 Z
 redirect_from:
-  - /users/nate_smith
+- "/users/nate_smith"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-315-1464686481.png
 Member Type:
   Is Staff: true

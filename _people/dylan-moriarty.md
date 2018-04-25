@@ -2,7 +2,7 @@
 title: Dylan Moriarty
 date: 2017-02-28 14:25:00 Z
 redirect_from:
-  - /users/dylan_moriarty
+- "/users/dylan_moriarty"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-385-1488293671.jpg
 Member Type:
   Is Voting Member: true

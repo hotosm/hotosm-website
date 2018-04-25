@@ -2,7 +2,7 @@
 title: Adityo Dwijananto
 date: 2016-01-11 23:46:00 Z
 redirect_from:
-  - /users/adityo_dwijananto
+- "/users/adityo_dwijananto"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-326-1466048750.jpg
 Member Type:
   Is Staff: true

@@ -2,7 +2,7 @@
 title: Baiduri Ismayanti Fitriana
 date: 2016-12-15 19:23:43 Z
 redirect_from:
-  - /users/baiduri_ismayanti_fitriana
+- "/users/baiduri_ismayanti_fitriana"
 Country: Indonesia
 Social Media (Full URL):
   Facebook: https://www.facebook.com/baiduri.i.ismail
