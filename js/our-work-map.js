@@ -44,7 +44,7 @@ map.on('load', function () {
     "maxzoom": 8,
     "filter": ['in', 'name_low'].concat(activeCountries),
     "paint": {
-      "fill-color": "#D73F3F",
+      "fill-pattern": "lines-red-4",
       "fill-outline-color": "#fff"
     }
   });
@@ -57,7 +57,7 @@ map.on('load', function () {
     "maxzoom": 8,
     "filter": ['in', 'name_low'].concat(communityCountries),
     "paint": {
-      "fill-color": "#FAA71E",
+      "fill-pattern": "lines-orange-4",
       "fill-outline-color": "#fff"
     }
   });
@@ -67,8 +67,10 @@ map.on('load', function () {
       [e.point.x, e.point.y],
       {layers: ['active_countries', 'community_countries']}
     );
-    var country_name = features[0].properties.name_low.split(' ').join('-');
-    $(location).attr('href', '/where-we-work/' + country_name);
+    if (features.length) {
+      var country_name = features[0].properties.name_low.split(' ').join('-');
+      $(location).attr('href', '/where-we-work/' + country_name);
+    }
   });
 });
 
