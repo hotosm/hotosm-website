@@ -24,7 +24,7 @@ map.on('load', function() {
     "filter": ['in', 'name_low', country.toLowerCase()],
     "paint": {
       "fill-pattern": "lines-red-4",
-      "fill-outline-color": "#fff"
+      "fill-outline-color": "#EFB4B4"
     }
   }, 'place-city-sm');
   fetch('/js/bbox.json')

@@ -57,8 +57,10 @@ map.on('load', function () {
     "maxzoom": 8,
     "filter": ['in', 'name_low'].concat(memberCountries),
     "paint": {
-      "fill-pattern": "lines-orange-4",
-      "fill-outline-color": "#EFB4B4"
+      // "fill-pattern": "lines-orange-4",
+      // "fill-outline-color": "#FBD088"
+      "fill-pattern": "lines-blue-4",
+      "fill-outline-color": "#C2C6CE"
     }
   }, 'place-city-sm');
 

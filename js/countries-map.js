@@ -24,7 +24,7 @@ map.on('load', function() {
     "filter": ['any', ['in', 'name_low'].concat(countryName), ['in', 'ISO_A2'].concat(countryCode)],
     "paint": {
       "fill-pattern": "lines-red-4",
-      "fill-outline-color": "#fff"
+      "fill-outline-color": "#EFB4B4"
     }
   }, 'place-city-sm');
   fetch('/js/bbox.json')
