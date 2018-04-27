@@ -8,11 +8,13 @@ layout: default
     <h1>{{ page.title }}</h1>
     <div class="project-header-meta">
 
-      {% if page['HOT Involvement'] %}
-        <p class="project-involvement">
-          {{ page['HOT Involvement'] }}
-        </p>
-      {% endif %}
+      <p class="project-involvement">
+        {% if project['Is Community-Led'] %}
+          Community-Led
+        {% else %}
+          HOT Program
+        {% endif %}
+      </p>
 
       {% if page.Country[0] != '' %}
         <p class="project-countries">

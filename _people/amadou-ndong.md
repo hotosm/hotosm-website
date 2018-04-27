@@ -1,7 +1,8 @@
 ---
 title: Amadou Ndong
 date: 2014-09-30 03:28:00 Z
-permalink: users/amadou_ndong
+redirect_from:
+- "/users/amadou_ndong"
 Member Type:
   Is Voting Member: true
 Project:

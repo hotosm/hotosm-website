@@ -1,7 +1,8 @@
 ---
 title: Paul Uithol
 date: 2015-07-14 16:44:48 Z
-permalink: users/paul_uithol
+redirect_from:
+- "/users/paul_uithol"
 Working Group:
 - Communications
 Project:

@@ -1,7 +1,8 @@
 ---
 title: Biondi Sanda Sima
 date: 2014-04-17 18:25:00 Z
-permalink: users/biondi_sanda_sima
+redirect_from:
+- "/users/biondi_sanda_sima"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-83-1482132491.jpg
 Member Type:
   Is Staff: true

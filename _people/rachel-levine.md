@@ -1,7 +1,8 @@
 ---
 title: Rachel Levine
 date: 2017-02-28 13:59:00 Z
-permalink: users/rachel_levine
+redirect_from:
+- "/users/rachel_levine"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-367-1488393062.jpg
 Member Type:
   Is Voting Member: true

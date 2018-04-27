@@ -1,7 +1,8 @@
 ---
 title: Dewi Sulistioningrum
 date: 2017-02-28 14:17:00 Z
-permalink: users/dewi_sulistioningrum
+redirect_from:
+- "/users/dewi_sulistioningrum"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-378-1488526676.jpg
 Member Type:
   Is Staff: true

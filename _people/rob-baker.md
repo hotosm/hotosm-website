@@ -1,7 +1,8 @@
 ---
 title: Rob Baker
 date: 2011-03-17 04:53:00 Z
-permalink: users/rob_baker
+redirect_from:
+- "/users/rob_baker"
 Member Type:
   Is Voting Member: true
 Working Group:

@@ -1,7 +1,8 @@
 ---
 title: Blake Girardot
 date: 2015-01-21 19:58:00 Z
-permalink: users/blake_girardot
+redirect_from:
+- "/users/blake_girardot"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-250-1455894309.jpg
 Member Type:
   Is Staff: true

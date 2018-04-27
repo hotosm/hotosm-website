@@ -1,7 +1,8 @@
 ---
 title: Pierre Béland
 date: 2012-02-03 17:23:00 Z
-permalink: users/pierre_béland
+redirect_from:
+- "/users/pierre_béland"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-25-1433014712.jpg
 Member Type:
   Is Voting Member: true

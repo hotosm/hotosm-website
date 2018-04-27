@@ -1,7 +1,8 @@
 ---
 title: Humberto Yances
 date: 2014-09-30 03:25:18 Z
-permalink: users/humberto_yances
+redirect_from:
+- "/users/humberto_yances"
 Working Group:
 - Fundraising
 - Training

@@ -1,7 +1,8 @@
 ---
 title: Sophie Lafayette
 date: 2015-07-14 16:45:43 Z
-permalink: users/sophie_lafayette
+redirect_from:
+- "/users/sophie_lafayette"
 Project:
 - Dar Ramani Huria — Dar Open Map
 Country: Tanzania

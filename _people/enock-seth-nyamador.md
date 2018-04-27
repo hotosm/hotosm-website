@@ -1,7 +1,8 @@
 ---
 title: Enock Seth Nyamador
 date: 2017-02-28 14:02:00 Z
-permalink: users/enock_seth_nyamador
+redirect_from:
+- "/users/enock_seth_nyamador"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-370-1492038845.jpg
 Member Type:
   Is Voting Member: true
