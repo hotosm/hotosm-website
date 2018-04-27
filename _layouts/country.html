@@ -13,8 +13,14 @@ layout: default
   <div class="country-index-header">
 
     <div class="country-map-area" id="country-map-area">
-      <div class="country-name"><h1 class="boxed">{{ page.title }}</h1></div>
+      <div class="country-name-wrap">
+        <div class="country-name">
+          <h1 class="boxed">{{ page.title }}</h1>
+        </div>
+      </div>
+      <div class="country-map-wrap" id="country-map-wrap"></div>
     </div>
+
     <div class="country-contact">
       <div class="country-contact-wrapper">
         <h4>Want to start a project in {{ page.title }}?</h4>

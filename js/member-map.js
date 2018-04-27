@@ -2,7 +2,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24
 var map = new mapboxgl.Map({
   container: 'person-map-area',
   logoPosition: 'bottom-right',
-  zoom: 0.5,
+  zoom: 4,
   center: [0, 15],
   scrollZoom: false,
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
@@ -22,7 +22,7 @@ map.on('load', function() {
       });
       if (bbox.length > 0) {
         map.fitBounds(bbox[0], {
-          padding: 60
+          padding: 10
         });
       }
 
