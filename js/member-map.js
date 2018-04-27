@@ -9,6 +9,24 @@ var map = new mapboxgl.Map({
 });
 
 map.on('load', function() {
+  map.addSource('countriesbetter', {
+    "type": "vector",
+    "url": "mapbox://hot.9fvp7us2"
+  });
+
+  map.addLayer({
+    "id": "active_countries",
+    "type": "fill",
+    "source": "countriesbetter",
+    "source-layer": "countriesbetter",
+    "minzoom": 0,
+    "maxzoom": 8,
+    "filter": ['in', 'name_low', country.toLowerCase()],
+    "paint": {
+      "fill-pattern": "lines-red-4",
+      "fill-outline-color": "#fff"
+    }
+  }, 'place-city-sm');
   fetch('/js/bbox.json')
     .then(function(response) {
       return response.json();
