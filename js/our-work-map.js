@@ -15,7 +15,7 @@ var map = new mapboxgl.Map({
   logoPosition: 'bottom-right',
   scrollZoom: false,
   zoom: 1.25,
-  center: [0, 25],
+  center: [0, 17],
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 });
 
@@ -45,7 +45,7 @@ map.on('load', function () {
     "filter": ['in', 'name_low'].concat(activeCountries),
     "paint": {
       "fill-pattern": "lines-red-4",
-      "fill-outline-color": "#fff"
+      "fill-outline-color": "#EFB4B4"
     }
   });
   map.addLayer({
@@ -58,7 +58,7 @@ map.on('load', function () {
     "filter": ['in', 'name_low'].concat(communityCountries),
     "paint": {
       "fill-pattern": "lines-orange-4",
-      "fill-outline-color": "#fff"
+      "fill-outline-color": "#EFB4B4"
     }
   });
 
