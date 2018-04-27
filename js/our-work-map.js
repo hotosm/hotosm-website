@@ -1,4 +1,9 @@
+String.prototype.capitalize = function() {
+    return this.replace(/(?:^|\s)\S/g, function(a) { return a.toUpperCase(); });
+};
+
 var countries = {};
+var projectCountries, memberCountries = [];
 
 fetch('/countries.json')
   .then(function(response) {
@@ -6,8 +11,59 @@ fetch('/countries.json')
   })
   .then(function(jsonData) {
     countries = jsonData;
+    countriesList = Object.keys(countries);
+    projectCountries = countriesList.filter(function(item) {
+      return countries[item].hot_program || countries[item].community_program;
+    });
+    memberCountries = countriesList.filter(function(item) {
+      return countries[item].member && !projectCountries.includes(item);
+    });
   }
 );
+
+function getCountriesByContinent(continent) {
+  return projectCountries.filter(function(item) {
+    return countries[item].continent === continent;
+  });
+}
+
+function generateCountriesLinks(continent) {
+  continentCountries = getCountriesByContinent(continent);
+  $("#continents").addClass('hide');
+  $("#countries-list").empty();
+  continentCountries.map(function(item) {
+    $("#countries-list").append(
+      '<a href="/where-we-work/' + item.split(' ').join('-') + '" class="regions-link">' +
+      item.capitalize() +
+      '</a>'
+    );
+  });
+  $("#countries-list").append('<p><a class="btn btn-outline" onClick="showContinents()">Back to regions</a></p>');
+}
+
+function activateAfrica() {
+  generateCountriesLinks('AF');
+}
+function activateAsia() {
+  generateCountriesLinks('AS');
+}
+function activateEurope() {
+  generateCountriesLinks('EU');
+}
+function activateNAmerica() {
+  generateCountriesLinks('NA');
+}
+function activateSAmerica() {
+  generateCountriesLinks('SA');
+}
+function activateOceania() {
+  generateCountriesLinks('OC');
+}
+
+function showContinents() {
+  $("#continents").removeClass('hide');
+  $("#countries-list").empty();
+}
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
 var map = new mapboxgl.Map({
@@ -21,14 +77,6 @@ var map = new mapboxgl.Map({
 
 map.on('load', function () {
   $('.mapboxgl-ctrl').addClass('hide');
-
-  countriesList = Object.keys(countries);
-  var projectCountries = countriesList.filter(function(item) {
-    return countries[item].hot_program || countries[item].community_program;
-  });
-  var memberCountries = countriesList.filter(function(item) {
-    return countries[item].member && !projectCountries.includes(item);
-  });
 
   map.addSource('countriesbetter', {
     "type": "vector",
@@ -48,6 +96,7 @@ map.on('load', function () {
       "fill-outline-color": "#EFB4B4"
     }
   }, 'place-city-sm');
+
   map.addLayer({
     "id": "member_countries",
     "type": "fill",
@@ -85,6 +134,8 @@ function expandMap() {
     $('#close-map-txt').addClass('hide');
     $('#expand-map-txt').removeClass('hide');
     $('.mapboxgl-ctrl').addClass('hide');
+    $('#regions-select').addClass('hide');
+    $('#our-work-title').removeClass('hide');
   } else {
     map.scrollZoom.enable();
     $('.project-index-header').addClass('boxed-down');
@@ -93,6 +144,8 @@ function expandMap() {
     $('#close-map-txt').removeClass('hide');
     $('#expand-map-txt').addClass('hide');
     $('.mapboxgl-ctrl').removeClass('hide');
+    $('#regions-select').removeClass('hide');
+    $('#our-work-title').addClass('hide');
   }
   fullMap = !fullMap;
 }

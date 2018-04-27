@@ -3944,3 +3944,10 @@ em {
     box-shadow: $default-box-shadow;
   }
 }
+
+.regions-link {
+  padding-right: 20px;
+  color: #2C3038;
+  text-decoration: underline;
+  cursor: pointer;
+}

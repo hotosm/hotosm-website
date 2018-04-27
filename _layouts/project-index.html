@@ -12,7 +12,22 @@ layout: default
 
       <div class="container">
         <div>
-          <h1 class="boxed">{{ page.title }}</h1>
+          <h1 class="boxed" id="our-work-title">{{ page.title }}</h1>
+          <div class="hide" id="regions-select">
+            <h6>
+              Choose region
+            </h6>
+            <div id="continents">
+              <a onClick="activateAfrica()" class="regions-link">Africa</a>
+              <a onClick="activateAsia()" class="regions-link">Asia</a>
+              <a onClick="activateEurope()" class="regions-link">Europe</a>
+              <a onClick="activateNAmerica()" class="regions-link">North America</a>
+              <a onClick="activateSAmerica()" class="regions-link">South America</a>
+              <a onClick="activateOceania()" class="regions-link">Oceania</a>
+            </div>
+            <div id="countries-list">
+            </div>
+          </div>
         </div>
       </div>
 
