@@ -23,11 +23,11 @@ map.on('load', function () {
   $('.mapboxgl-ctrl').addClass('hide');
 
   countriesList = Object.keys(countries);
-  var activeCountries = countriesList.filter(function(item) {
-    return countries[item].hot_program || countries[item].member;
+  var projectCountries = countriesList.filter(function(item) {
+    return countries[item].hot_program || countries[item].community_program;
   });
-  var communityCountries = countriesList.filter(function(item) {
-    return countries[item].community_program && !activeCountries.includes(item);
+  var memberCountries = countriesList.filter(function(item) {
+    return countries[item].member && !projectCountries.includes(item);
   });
 
   map.addSource('countriesbetter', {
@@ -36,36 +36,36 @@ map.on('load', function () {
   });
 
   map.addLayer({
-    "id": "active_countries",
+    "id": "project_countries",
     "type": "fill",
     "source": "countriesbetter",
     "source-layer": "countriesbetter",
     "minzoom": 0,
     "maxzoom": 8,
-    "filter": ['in', 'name_low'].concat(activeCountries),
+    "filter": ['in', 'name_low'].concat(projectCountries),
     "paint": {
       "fill-pattern": "lines-red-4",
       "fill-outline-color": "#EFB4B4"
     }
-  });
+  }, 'place-city-sm');
   map.addLayer({
-    "id": "community_countries",
+    "id": "member_countries",
     "type": "fill",
     "source": "countriesbetter",
     "source-layer": "countriesbetter",
     "minzoom": 0,
     "maxzoom": 8,
-    "filter": ['in', 'name_low'].concat(communityCountries),
+    "filter": ['in', 'name_low'].concat(memberCountries),
     "paint": {
       "fill-pattern": "lines-orange-4",
       "fill-outline-color": "#EFB4B4"
     }
-  });
+  }, 'place-city-sm');
 
   map.on('click', function(e) {
     var features = map.queryRenderedFeatures(
       [e.point.x, e.point.y],
-      {layers: ['active_countries', 'community_countries']}
+      {layers: ['project_countries', 'member_countries']}
     );
     if (features.length) {
       var country_name = features[0].properties.name_low.split(' ').join('-');
