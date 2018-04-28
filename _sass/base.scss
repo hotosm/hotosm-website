@@ -110,17 +110,13 @@ h5 {
 }
 
 h6 {
-  font-size: 1rem;
+  font-size: .875rem;
   font-weight: bold;
   font-style: normal;
   color: $blue-grey;
   @media (max-width: $screen-xs) {
     font-size: .875rem;
   }
-}
-
-.boxed-down {
-  top: 410px;
 }
 
 .hide {
@@ -596,6 +592,27 @@ em {
   &.btn-block {
     display: block;
     margin-right: 0;
+  }
+}
+
+.back-btn {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 0.875rem;
+  cursor: pointer;
+  &:before {
+    content: '';
+    display: inline-block;
+    width: 6px;
+    height: 9px;
+    background-image: url(../images/chevron-red-thick.svg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 6px 9px;
+    margin-right: 5px;
+    position: relative;
+    transform: scaleX(-1);
+    transition: background-position .3s ease;
   }
 }
 
@@ -2247,11 +2264,12 @@ em {
   margin-bottom: 40px;
   position: absolute;
   border-bottom: 1px solid $border-color;
+  overflow: hidden;
   @media (min-width: $screen-sm) {
-    height: 564px;
+    height: 624px;
     margin-top: -64px;
   }
-  #expand-map-btn {
+  #expand-map-btn, #close-map-btn {
     position: absolute;
     top: -66px;
     right: 40px;
@@ -2267,6 +2285,9 @@ em {
 
 #our-work-projects {
   padding-top: 540px;
+  @media (min-width: $screen-sm) {
+    padding-top: 600px;
+  }
 }
 
 .country-index {
@@ -2287,7 +2308,7 @@ em {
 }
 
 .country-map-area {
-  background-color: tint($red, 85%);
+  background-color: #FDF3F3;
   grid-column: 1 / 3;
   position: relative;
   .country-name-wrap {
@@ -2302,7 +2323,7 @@ em {
   }
   .country-map-wrap {
     position: absolute;
-    top: 0;
+    top: 64px;
     right: 0;
     bottom: 0;
     left: 0;
@@ -2387,6 +2408,22 @@ em {
   bottom: 0;
   right: 0;
   left: 0;
+  transition: all .3s ease;
+  &.hidden {
+    bottom: -400px;
+  }
+}
+
+#regions-select {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  transition: all .3s ease;
+  min-height: 146px;
+  &.hidden {
+    bottom: -400px;
+  }
 }
 
 .impact-area-item-index {
@@ -2425,8 +2462,8 @@ em {
   }
 }
 
-.project-index-areas {
-  padding: 24px 0 20px;
+.our-work-filters {
+  padding: 28px 0 18px;
   background-color: rgba(255,255,255,.65);
   position: relative;
   @media (max-width: $screen-xs) {
@@ -2447,6 +2484,26 @@ em {
 .areas-wrapper {
   @media (max-width: $screen-xs) {
     width: 1000px;
+  }
+}
+
+.map-impact-area {
+  display: inline-block;
+  font-weight: normal;
+  font-size: 1.125rem;
+  color: $blue-dark;
+  text-decoration: none;
+  margin: 0 16px 16px 0;
+  border-bottom: 1px solid #b5b7b9;
+  &:hover {
+    border-bottom: 1px solid $red;
+  }
+}
+
+#our-work-title {
+  transition: all .25s ease;
+  &.hidden {
+
   }
 }
 
@@ -3946,7 +4003,8 @@ em {
 }
 
 .regions-link {
-  padding-right: 20px;
+  display: inline-block;
+  padding: 0 16px 16px 0;
   color: #2C3038;
   text-decoration: underline;
   cursor: pointer;

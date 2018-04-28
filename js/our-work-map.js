@@ -38,7 +38,7 @@ function generateCountriesLinks(continent) {
       '</a>'
     );
   });
-  $("#countries-list").append('<p><a class="btn btn-outline" onClick="showContinents()">Back to regions</a></p>');
+  $("#countries-list").append('<p><a class="back-btn" onClick="showContinents()">Back to regions</a></p>');
 }
 
 function activateAfrica() {
@@ -68,7 +68,7 @@ function showContinents() {
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
 var map = new mapboxgl.Map({
   container: 'map',
-  logoPosition: 'bottom-right',
+  logoPosition: 'top-right',
   scrollZoom: false,
   zoom: 1.25,
   center: [0, 17],
@@ -106,9 +106,7 @@ map.on('load', function () {
     "maxzoom": 8,
     "filter": ['in', 'name_low'].concat(memberCountries),
     "paint": {
-      // "fill-pattern": "lines-orange-4",
-      // "fill-outline-color": "#FBD088"
-      "fill-pattern": "lines-blue-4",
+      "fill-pattern": "lines-bluelight-4",
       "fill-outline-color": "#C2C6CE"
     }
   }, 'place-city-sm');
@@ -130,22 +128,16 @@ var fullMap = false;
 function expandMap() {
   if (fullMap) {
     map.scrollZoom.disable();
-    $('.project-index-header').removeClass('boxed-down');
-    $('#close-map-txt').addClass('hide');
-    $('#expand-map-txt').removeClass('hide');
+    $('.project-index-header').removeClass('hidden');
     $('.mapboxgl-ctrl').addClass('hide');
-    $('#regions-select').addClass('hide');
-    $('#our-work-title').removeClass('hide');
+    $('#regions-select').addClass('hidden');
   } else {
     map.scrollZoom.enable();
-    $('.project-index-header').addClass('boxed-down');
+    $('.project-index-header').addClass('hidden');
     $('.home-highlights-wrapper').addClass('right');
     $('.home-highlights-wrapper').addClass('right');
-    $('#close-map-txt').removeClass('hide');
-    $('#expand-map-txt').addClass('hide');
     $('.mapboxgl-ctrl').removeClass('hide');
-    $('#regions-select').removeClass('hide');
-    $('#our-work-title').addClass('hide');
+    $('#regions-select').removeClass('hidden');
   }
   fullMap = !fullMap;
 }
