@@ -1,7 +1,8 @@
 ---
 title: Kate Chapman
 date: 2010-05-24 15:42:00 Z
-permalink: users/kate_chapman
+redirect_from:
+- "/users/kate_chapman"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-5-1412307645.jpg
 Member Type:
   Is Voting Member: true

@@ -1,7 +1,8 @@
 ---
 title: Emily Eros
 date: 2016-01-11 23:43:00 Z
-permalink: users/emily_eros
+redirect_from:
+- "/users/emily_eros"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-324-1488822447.jpg
 Member Type:
   Is Voting Member: true

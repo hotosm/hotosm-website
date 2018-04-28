@@ -1,7 +1,8 @@
 ---
 title: Ahasanul Hoque
 date: 2016-01-11 23:36:00 Z
-permalink: users/ahasanul_hoque
+redirect_from:
+- "/users/ahasanul_hoque"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-319-1452842533.jpg
 Member Type:
   Is Voting Member: true

@@ -1,7 +1,8 @@
 ---
 title: Shu Higashi
 date: 2014-09-30 03:24:00 Z
-permalink: users/shu_higashi
+redirect_from:
+- "/users/shu_higashi"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-218-1432862914.jpg
 Member Type:
   Is Voting Member: true

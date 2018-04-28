@@ -1,7 +1,8 @@
 ---
 title: Mhairi O'Hara
 date: 2015-02-12 14:16:00 Z
-permalink: users/mhairi_o'hara
+redirect_from:
+- "/users/mhairi_o'hara"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-252-1461153821.png
 Member Type:
   Is Staff: true

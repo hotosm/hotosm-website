@@ -1,7 +1,8 @@
 ---
 title: Mark Cupitt
 date: 2015-02-18 16:15:19 Z
-permalink: users/mark_cupitt
+redirect_from:
+- "/users/mark_cupitt"
 Working Group:
 - Activation
 - Technical

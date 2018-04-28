@@ -69,9 +69,12 @@ layout: default
     {% endif %}
   {% endfor %}
 
+  {% assign highlight_count = 0 %}
   {% for project in sorted-projects %}
     {% if project['Country'] contains page.title %}
-      {% if forloop.index > 3 %}
+
+      {% assign highlight_count = highlight_count | plus: 1 %}
+      {% if highlight_count > 3 %}
         {% break %}
       {% endif %}
 
@@ -98,60 +101,77 @@ layout: default
   <!--///////// Country News /////////-->
   <!--////////////////////////////////-->
 
-  <div class="container">
-    <div class="project-index-news">
 
-      <h6>News from {{ page.title }} <span>(<a href="/updates">View all news</a>)</span></h6>
+  {% for post in site.posts %}
+    {% if post['Country'] contains page.title %}
 
-      <div class="project-index-news-list">
+    <div class="container">
+      <div class="project-index-news">
+        <h6>News from {{ page.title }} <span>(<a href="/updates">View all news</a>)</span></h6>
+        <div class="project-index-news-list">
 
-        {% for post in site.posts limit:10 %}
-          {% if post['Country'] contains page.title %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
 
-          <div class="news-index-item">
-            <div class="news-list-summary">
+  {% for post in site.posts limit:10 %}
+    {% if post['Country'] contains page.title %}
 
-              <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
+    <div class="news-index-item">
+      <div class="news-list-summary">
 
-                <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+        <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
 
-                <p>{{ post['Summary Text']}}</p>
-                {% capture post.Person %}{% endcapture %}
-                <div class="news-list-meta">
-                    <p class="news-index-author">
-                      {% include author.html %} — {{ post.date | date:  '%e %B, %Y' }}
-                    </p>
-                </div>
-              </div>
+          <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
 
-              {% if post['Feature Image'] %}
-                <div class="news-list-image-sm">
-                  <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
-                </div>
-              {% endif %}
-
-            </div>
+          <p>{{ post['Summary Text']}}</p>
+          {% capture post.Person %}{% endcapture %}
+          <div class="news-list-meta">
+              <p class="news-index-author">
+                {% include author.html %} — {{ post.date | date:  '%e %B, %Y' }}
+              </p>
           </div>
+        </div>
 
-          {% endif %}
-        {% endfor %}
+        {% if post['Feature Image'] %}
+          <div class="news-list-image-sm">
+            <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
+          </div>
+        {% endif %}
+
+      </div>
+    </div>
+
+    {% endif %}
+  {% endfor %}
+
+  {% for post in site.posts %}
+    {% if post['Country'] contains page.title %}
+
+          </div>
+        </div>
       </div>
 
-    </div>
-  </div>
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
 
   <!--////////////////////////////////-->
   <!--///// Country All Projects /////-->
   <!--////////////////////////////////-->
 
 
+  {% assign project_head_count = 0 %}
   {% for project in sorted-projects %}
     {% if project['Country'] contains page.title %}
-      {% if forloop.index > 3 %}
+
+      {% assign project_head_count = project_head_count | plus: 1 %}
+      {% if project_head_count > 3 %}
 
         <div class="container">
           <div class="hr-h"></div>
-          <h6>All Projects</h6>
+          <h6>More Projects</h6>
           <div class="project-index-all">
 
         {% break %}
@@ -160,17 +180,28 @@ layout: default
     {% endif %}
   {% endfor %}
 
+
+  {% assign project_count = 0 %}
   {% for project in sorted-projects %}
     {% if project['Country'] contains page.title %}
-      {% if forloop.index > 2 %}
-        {% include blocks/project-thumb.html %}
+
+      {% assign project_count = project_count | plus: 1 %}
+      {% if project_count > 3 %}
+        {% unless project_count < 4 %}
+          {% include blocks/project-thumb.html %}
+        {% endunless %}
+
       {% endif %}
     {% endif %}
   {% endfor %}
 
+
+  {% assign project_foot_count = 0 %}
   {% for project in sorted-projects %}
     {% if project['Country'] contains page.title %}
-      {% if forloop.index > 0 %}
+
+      {% assign project_foot_count = project_foot_count | plus: 1 %}
+      {% if project_foot_count > 3 %}
 
           </div>
         </div>

@@ -1,7 +1,8 @@
 ---
 title: Harry Wood
 date: 2010-08-03 16:09:00 Z
-permalink: users/harry_wood
+redirect_from:
+- "/users/harry_wood"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-11-1411586463.jpg
 Member Type:
   Is Voting Member: true
