@@ -4,10 +4,18 @@ date: 2018-02-06 15:20:00 Z
 permalink: "/community"
 position: 5
 People:
-  Description: HOT is a community of community leaders, volunteers, and professionals committed to the mission of helping reach those in need with maps. The community is a diverse group of dedicated voting members, staff, contractors, volunteers, interns, and board members. Read more about each community member or learn more about becoming a part of the community.
-  Image: /uploads/Ramani-Huria-TZ-3.jpg
-Working Groups Description: Working Groups are at the core of how the HOT organizes projects, supports disaster response, and functions as a community. Each working group consists of members across the community and week on a monthly, bi-weekly, or weekly basis.
-Support Programs Description: HOT organizes a number of support programs for mapping projects.
+  Description: HOT is a community of community leaders, volunteers, and professionals
+    committed to the mission of helping reach those in need with maps. The community
+    is a diverse group of dedicated voting members, staff, contractors, volunteers,
+    interns, and board members. Read more about each community member or learn more
+    about becoming a part of the community.
+  Image: "/uploads/Ramani-Huria-TZ-3.jpg"
+Working Groups Description: Working Groups are at the core of how the HOT organizes
+  projects, supports disaster response, and functions as a community. Each working
+  group consists of members across the community and week on a monthly, bi-weekly,
+  or weekly basis.
+Support Programs Description: HOT organizes a number of support programs for mapping
+  projects.
 Event Promo:
   Event Name: HOT Summit at FOSS4G2018
   Image: "/uploads/hot-summit-group-wave.jpg"
@@ -29,3 +37,4 @@ Finances:
   Anual Report URL: "/uploads/HOT_annual report_2016.pdf"
 layout: community
 ---
+
