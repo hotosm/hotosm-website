@@ -9,7 +9,7 @@ People:
     is a diverse group of dedicated voting members, staff, contractors, volunteers,
     interns, and board members. Read more about each community member or learn more
     about becoming a part of the community.
-  Image: "/uploads/Ramani-Huria-TZ-3.jpg"
+  Image: "/uploads/RH2.PNG"
 Working Groups Description: Working Groups are at the core of how the HOT organizes
   projects, supports disaster response, and functions as a community. Each working
   group consists of members across the community and week on a monthly, bi-weekly,
