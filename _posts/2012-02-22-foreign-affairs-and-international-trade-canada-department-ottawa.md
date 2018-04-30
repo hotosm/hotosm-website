@@ -12,7 +12,7 @@ Summary Text: "<p>Foreign Affairs and International Trade Canada department (DFA
   Foundation and World Bank representatives."
 Person: Pierre Béland
 Working Group: []
-Projects: []
+Project: []
 created: 1329924292
 ---
 

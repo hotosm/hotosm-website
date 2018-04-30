@@ -1,7 +1,8 @@
 ---
 title: Tyler Radford
 date: 2015-05-01 15:58:28 Z
-permalink: users/tyler_radford
+redirect_from:
+- "/users/tyler_radford"
 Working Group:
 - Fundraising
 - Communications

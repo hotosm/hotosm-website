@@ -10,7 +10,7 @@ Summary Text: '<p>Northern Mindanao(specifically <a href="http://osm.org/go/4sXd
   are served inside and outside 62 evacuation centers</a> '
 Person: Maning Sambale
 Working Group: []
-Projects: []
+Project: []
 created: 1327474632
 ---
 

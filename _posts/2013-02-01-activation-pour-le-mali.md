@@ -13,7 +13,7 @@ Summary Text: Cette activation fait suite aux discussions entre HOT et le Bureau
   de personnes sont déplacées à l'intérieur du Mali.</li>
 Person: Pierre Béland
 Working Group: []
-Projects: []
+Project: []
 created: 1359741029
 ---
 

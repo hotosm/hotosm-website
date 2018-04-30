@@ -12,7 +12,7 @@ Summary Text: 'Bangui, la capitale de la République Centrafricaine, a été pri
 Person: Séverin Ménard
 Working Group:
 - Technical
-Projects:
+Project:
 - Central African Republic Activation
 created: 1365647097
 ---

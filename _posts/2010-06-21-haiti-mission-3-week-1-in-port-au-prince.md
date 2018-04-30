@@ -5,7 +5,7 @@ permalink: updates/2010-06-21_haiti_mission_3_-_week_1_in_port-au-prince
 Person: Kate Chapman
 Working Group:
 - Training
-Projects: []
+Project: []
 created: 1277085181
 ---
 

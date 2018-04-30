@@ -4,7 +4,7 @@ date: 2015-07-14 13:42:15 Z
 permalink: updates/2015-07-14_nepal_earthquake_a_note_of_thanks_to_hot’s_aerial_imagery_providers
 Person: Tyler Radford
 Working Group: []
-Projects:
+Project:
 - Nepal 2015 Earthquake Response
 created: 1436881335
 ---

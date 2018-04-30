@@ -7,7 +7,7 @@ Summary Text: We've put together some of the 2016 highlights so you can see what
 Person: Rachel VanNice
 Working Group:
 - Communications
-Projects: []
+Project: []
 created: 1487311200
 ---
 

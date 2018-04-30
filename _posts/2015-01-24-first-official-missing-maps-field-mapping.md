@@ -4,7 +4,7 @@ date: 2015-01-24 19:31:30 Z
 permalink: updates/2015-01-24_first_official_missing_maps_field_mapping!
 Person: Jorieke Vyncke
 Working Group: []
-Projects:
+Project:
 - Missing Maps
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/10382623_10202632159000013_5184172476893308300_n.jpg
 created: 1422127890

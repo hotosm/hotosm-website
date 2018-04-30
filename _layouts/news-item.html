@@ -84,21 +84,26 @@ layout: default
           <h5>Working Groups</h5>
           <ul>
             {% for group in page['Working Group'] %}
-              <li><a href="#">{{ group }}</a></li>
+              <li><a href="/working-groups">{{ group }}</a></li>
             {% endfor %}
           </ui>
         </div>
       {% endif %}
 
-      <div class="meta-item news-projects">
-        {% if page['Working Group'] %}
+      {% if page['Project'][0] != '' %}
+        <div class="meta-item news-projects">
           <h5>Associated Projects</h5>
           <ul>
-            <li><a href="#">Project Name</a></li>
-            <li><a href="#">Another Project Name</a></li>
+            {% for news-project in page.Project %}
+              {% for project in site.projects %}
+                {% if news-project == project.title %}
+                  <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
           </ui>
-        {% endif %}
-      </div>
+        </div>
+      {% endif %}
 
     </aside>
   </div>

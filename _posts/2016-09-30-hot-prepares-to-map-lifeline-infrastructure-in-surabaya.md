@@ -4,7 +4,7 @@ date: 2016-09-30 05:44:33 Z
 permalink: updates/2016-09-30_hot_prepares_to_map_lifeline_infrastructure_in_surabaya
 Person: Biondi Sanda Sima
 Working Group: []
-Projects:
+Project:
 - 'USAID '
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement

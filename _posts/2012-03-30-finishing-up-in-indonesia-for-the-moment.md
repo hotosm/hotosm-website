@@ -10,7 +10,7 @@ Summary Text: Tomorrow marks the end of HOT's pilot to evaluate the use of OpenS
   expand.<h2>Accomplishments</h2>
 Person: Kate Chapman
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/mapping_bima.jpg
 created: 1333085855

@@ -4,7 +4,7 @@ date: 2017-04-14 23:42:22 Z
 permalink: updates/2017-04-14_welcome_hot's_new_board_members!_
 Person: Rachel VanNice
 Working Group: []
-Projects: []
+Project: []
 created: 1492213342
 ---
 

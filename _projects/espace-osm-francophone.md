@@ -1,14 +1,12 @@
 ---
 title: Espace OSM Francophone
-date: 2013-07-02 20:29:45 Z
+date: 2013-07-02 20:29:00 Z
 permalink: projects/espace_osm_francophone
-position: 14
-Summary Text: "<em><a href=\"http://hot.openstreetmap.org/projects/espace_osm_francophone_0#english_version\">English
-  version of the text follows below</a></em>\r\nFort du soutien financier et opérationnel
-  de la Direction de la Francophonie numérique (DFN) de l’Organisation Internationale
-  de la Francophonie (OIF), HOT avec un réseau de partenaires locaux met en oeuvre
-  le projet pilote Espace OSM Francophone (EOF). \r\n\r\n"
-HOT Involvement: Community Development
+position: 16
+Project Summary Text: In 2013, the Espace OSM Francophone project began consolidating
+  OSM communities in Chad and Senegal and initiating OSM projects in Togo and Burkina
+  Faso.
+Feature Image: "/uploads/P1000157_0.jpg"
 Person:
 - Jorieke Vyncke
 - Ismaila SEYE
@@ -20,8 +18,14 @@ Person:
 - Mamadou Bassirou THIAM
 - Amadou Ndong
 Duration:
-  Start Date: '2013-06-01 00:00:00 +0000'
-  End Date: '2013-12-31 00:00:00 +0000'
+  Start Date: 2013-06-01 00:00:00 Z
+  End Date: 2013-12-31 00:00:00 Z
+Summary Text: "<em><a href=\"http://hot.openstreetmap.org/projects/espace_osm_francophone_0#english_version\">English
+  version of the text follows below</a></em>\nFort du soutien financier et opérationnel
+  de la Direction de la Francophonie numérique (DFN) de l’Organisation Internationale
+  de la Francophonie (OIF), HOT avec un réseau de partenaires locaux met en oeuvre
+  le projet pilote Espace OSM Francophone (EOF). \n\n"
+HOT Involvement: Community Development
 Contact: <p><a href="mailto:nicolas.chavent@hotosm.org">Nicolas Chavent</a></p>
 created: 1372796985
 ---

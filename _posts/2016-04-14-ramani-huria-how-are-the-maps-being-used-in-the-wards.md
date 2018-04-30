@@ -11,8 +11,8 @@ Summary Text: "(Guest post by Mercedes Hoffay, Master of Public Administration C
   Huria."
 Person: Paul Uithol
 Working Group: []
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/17639216374_f1e8eb7881_o.jpg
 created: 1460637476
 ---

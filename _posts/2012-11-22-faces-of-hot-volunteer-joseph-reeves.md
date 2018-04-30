@@ -9,7 +9,7 @@ Summary Text: We have been fortunate to get a few volunteers for this Indonesian
   project.  He has helped lead workshops on the basics of OpenstreetMap.  [inline:jose.jpg]
 Person: Katrina E.
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/jose.jpg
 created: 1353565235

@@ -8,8 +8,8 @@ Summary Text: La quatrième conférence annuelle nationale Tanzanienne des scien
   Huria de Dar es Salaam au President de la république de Tanzanie, Jakaya Kikwete.
 Person: Sophie Lafayette
 Working Group: []
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/CIQ2a_CXAAAdvcq-1024x768.jpg
 created: 1439140842
 ---

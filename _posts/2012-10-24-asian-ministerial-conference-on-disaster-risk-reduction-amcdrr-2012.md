@@ -5,7 +5,7 @@ permalink: updates/2012-10-24_asian_ministerial_conference_on_disaster_risk_redu
 Summary Text: ''
 Person: Katrina E.
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20121022_101027.jpg
 created: 1351055706

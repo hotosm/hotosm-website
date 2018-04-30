@@ -4,7 +4,7 @@ date: 2017-03-13 03:51:49 Z
 permalink: updates/2017-03-13_mapping_for_government_inclusion_and_service_delivery_in_liberia
 Person: David Luswata
 Working Group: []
-Projects:
+Project:
 - 'LEGIT: Supporting decentralization in Liberian cities'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20170220_122606.jpg
 created: 1489377109

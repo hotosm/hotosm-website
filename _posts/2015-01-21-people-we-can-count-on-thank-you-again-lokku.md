@@ -4,7 +4,7 @@ date: 2015-01-21 23:08:53 Z
 permalink: updates/2015-01-21__people_we_can_count_on_thank_you_again_lokku!
 Person: Blake Girardot
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/lokku_sprite.png
 created: 1421881733
 ---

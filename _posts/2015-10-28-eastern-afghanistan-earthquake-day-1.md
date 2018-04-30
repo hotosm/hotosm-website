@@ -7,7 +7,7 @@ Summary Text: Humanitarian OpenStreetMap Team (HOT) calls upon our community to 
 Person: Russell Deffner
 Working Group:
 - Activation
-Projects:
+Project:
 - Eastern Afghanistan Earthquake
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/AfghanEarthquakeDay1.PNG
 created: 1446005278

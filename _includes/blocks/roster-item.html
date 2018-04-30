@@ -3,6 +3,10 @@
     <div class="person-photo">
       <img src="{{ person.Photo }}">
     </div>
+  {% else %}
+    <div class="person-photo">
+      <img src="/images/avatar.png">
+    </div>
   {% endif %}
   <div class="roster-identity">
     <h4>{{ person.title }}</h4>

@@ -1,7 +1,8 @@
 ---
 title: Martin Dittus
 date: 2017-02-28 14:07:00 Z
-permalink: users/martin_dittus
+redirect_from:
+- "/users/martin_dittus"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-374-1488815016.jpg
 Member Type:
   Is Voting Member: true

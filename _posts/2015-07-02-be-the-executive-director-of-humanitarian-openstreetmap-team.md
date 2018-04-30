@@ -4,7 +4,7 @@ date: 2015-07-02 14:54:18 Z
 permalink: updates/2015-07-02_be_the_executive_director_of_humanitarian_openstreetmap_team
 Person: Heather Leson
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/hot-logo-white-bg+(1)+(1).png
 created: 1435848858
 ---

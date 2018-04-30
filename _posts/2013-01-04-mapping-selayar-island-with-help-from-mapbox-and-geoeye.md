@@ -4,7 +4,7 @@ date: 2013-01-04 16:16:02 Z
 permalink: updates/2013-01-04_mapping_selayar_island_with_help_from_mapbox_and_geoeye
 Person: Kate Chapman
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/selayar.jpg
 created: 1357316162

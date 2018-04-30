@@ -5,7 +5,7 @@ permalink: updates/2017-05-05_gulu_mapathon_and_partnerships
 Person: 'Douglas Ssebaggala '
 Working Group:
 - Community
-Projects:
+Project:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20170407_090235.jpg
 created: 1493944391

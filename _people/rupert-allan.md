@@ -1,7 +1,8 @@
 ---
 title: Rupert Allan
 date: 2017-10-27 18:18:06 Z
-permalink: users/rupert_allan
+redirect_from:
+- "/users/rupert_allan"
 Working Group:
 - Community
 - Communications

@@ -1,7 +1,8 @@
 ---
 title: Fran Boon
 date: 2014-09-30 03:22:00 Z
-permalink: users/fran_boon
+redirect_from:
+- "/users/fran_boon"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-214-1412247838.jpg
 Member Type:
   Is Voting Member: true

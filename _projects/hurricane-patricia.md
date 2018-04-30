@@ -1,11 +1,15 @@
 ---
 title: Hurricane Patricia
-date: 2015-10-23 21:50:01 Z
+date: 2015-10-23 21:50:00 Z
 permalink: projects/hurricane_patricia
-position: 30
-Summary Text: 'The Humanitarian OpenSteetMap Team (HOT) has activated to provide geographic
-  base data in areas affected by Hurricane Patricia in Mexico. '
-HOT Involvement: Disaster Mapping
+position: 32
+Project Summary Text: The Humanitarian OpenSteetMap Team (HOT) has activated to provide
+  geographic base data in areas affected by Hurricane Patricia in Mexico.
+Feature Image: "/uploads/EMSR144-copernicus.jpg"
+Country:
+- Mexico
+Impact Area:
+- Disaster Response
 Person:
 - Mikel Maron
 - Blake Girardot
@@ -13,10 +17,13 @@ Person:
 - Russell Deffner
 - Humberto Yances
 - Dale Kunce
-Link: http://wiki.openstreetmap.org/wiki/2015_Hurricane_Patricia
 Duration:
-  Start Date: '2015-10-23 00:00:00 +0000'
-  End Date: '2015-11-13 00:00:00 +0000'
+  Start Date: 2015-10-23 00:00:00 Z
+  End Date: 2015-11-13 00:00:00 Z
+Summary Text: 'The Humanitarian OpenSteetMap Team (HOT) has activated to provide geographic
+  base data in areas affected by Hurricane Patricia in Mexico. '
+HOT Involvement: Disaster Mapping
+Link: http://wiki.openstreetmap.org/wiki/2015_Hurricane_Patricia
 Contact: "<p>Activation@hotosm.org</p>"
 created: 1445637001
 ---

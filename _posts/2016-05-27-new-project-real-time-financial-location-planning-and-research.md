@@ -9,7 +9,7 @@ Summary Text: Humanitarian OpenStreetMap Team (HOT) announces it is a <a href="h
   Research”.
 Person: Paul Uithol
 Working Group: []
-Projects:
+Project:
 - Mapping Financial Inclusion in Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20160304-104825_DSCF5989.jpg
 created: 1464346196

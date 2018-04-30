@@ -4,7 +4,7 @@ date: 2011-03-11 05:40:54 Z
 permalink: updates/2011-03-11_an_midday_hour_of_mapping_on_logbase_in_port_au_prince
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/5515425818_92a2363b57.jpg
 created: 1299822054
 ---

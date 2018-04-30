@@ -5,7 +5,7 @@ permalink: updates/2013-11-05_straighten_our_ways_–_ulaanbaatar_project_week_5
 Person: Russell Deffner
 Working Group:
 - Technical
-Projects:
+Project:
 - Mongolia, Mapping Ulaanbaatar
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCN0225crop_0.JPG
 created: 1383677083

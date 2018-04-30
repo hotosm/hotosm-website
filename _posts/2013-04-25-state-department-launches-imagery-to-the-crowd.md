@@ -12,7 +12,7 @@ Summary Text: The State Department Humanitarian Information Unit has launched <a
 Person: Mikel Maron
 Working Group:
 - Governance
-Projects: []
+Project: []
 created: 1366911706
 ---
 

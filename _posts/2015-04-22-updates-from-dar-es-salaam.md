@@ -5,8 +5,8 @@ permalink: updates/2015-04-22_updates_from__dar_es_salaam
 Person: Geoffrey Kateregga
 Working Group:
 - Activation
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 created: 1429729855
 ---
 

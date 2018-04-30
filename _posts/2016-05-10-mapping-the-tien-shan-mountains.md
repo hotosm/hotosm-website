@@ -11,7 +11,7 @@ Summary Text: "(Guest post by Aline Rosset, University of Central Asia) OpenStre
 Person: Felix Delattre
 Working Group:
 - Training
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/kyrgyz8.jpg
 created: 1462906687
 ---

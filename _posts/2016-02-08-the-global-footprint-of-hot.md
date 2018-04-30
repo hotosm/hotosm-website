@@ -4,7 +4,7 @@ date: 2016-02-08 20:00:13 Z
 permalink: updates/2016-02-08_the_global_footprint_of_hot
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 created: 1454961613
 ---
 

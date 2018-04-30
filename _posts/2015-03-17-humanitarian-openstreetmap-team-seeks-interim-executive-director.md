@@ -5,7 +5,7 @@ permalink: updates/2015-03-17_humanitarian_openstreetmap_team_seeks_interim_exec
 Person: Heather Leson
 Working Group:
 - Fundraising
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/120px-Hot_logo.svg_.png
 created: 1426615844
 ---

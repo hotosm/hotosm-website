@@ -51,6 +51,8 @@ defaults:
     - ''
     Country:
     - ''
+    Project:
+    - ''
 - scope:
     path: ''
     type: people
@@ -139,5 +141,6 @@ theme: minima
 plugins:
 - jekyll-feed
 - jekyll-paginate
+- jekyll-redirect-from
 paginate: 16
 paginate_path: "/updates/page:num/"

@@ -4,7 +4,7 @@ date: 2012-08-11 11:21:52 Z
 permalink: updates/2012-08-11_setting_up_the_osm_ecosystem_in_senegal_4_reaching_out_to_the_academics
 Person: Stephane Goldstein
 Working Group: []
-Projects: []
+Project: []
 created: 1344684112
 ---
 

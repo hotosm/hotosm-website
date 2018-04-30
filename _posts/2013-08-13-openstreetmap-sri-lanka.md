@@ -4,7 +4,7 @@ date: 2013-08-13 14:34:17 Z
 permalink: updates/2013-08-13_openstreetmap_sri_lanka
 Person: Jeff Haack
 Working Group: []
-Projects: []
+Project: []
 created: 1376404457
 ---
 

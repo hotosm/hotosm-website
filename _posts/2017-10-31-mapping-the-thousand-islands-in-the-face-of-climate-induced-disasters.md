@@ -4,7 +4,7 @@ date: 2017-10-31 06:31:39 Z
 permalink: updates/2017-10-31_mapping_the_thousand_islands_in_the_face_of_climate-induced_disasters
 Person: Biondi Sanda Sima
 Working Group: []
-Projects:
+Project:
 - 'USAID '
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement

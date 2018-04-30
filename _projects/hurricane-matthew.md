@@ -1,9 +1,15 @@
 ---
 title: Hurricane Matthew
-date: 2016-10-04 04:18:22 Z
+date: 2016-10-04 04:18:00 Z
 permalink: projects/hurricane_matthew
-position: 40
-HOT Involvement: Disaster Mapping
+position: 42
+Project Summary Text: The HOT community activated to support mapping efforts in the
+  aftermath of Hurricane Matthew in Haiti
+Feature Image: "/uploads/30144517616_fe5c10a6bf_k.jpg"
+Country:
+- Haiti
+Impact Area:
+- Disaster Response
 Person:
 - Blake Girardot
 - Miriam Gonzalez
@@ -14,8 +20,9 @@ Person:
 - Matthew Gibb
 - Dale Kunce
 Duration:
-  Start Date: '2016-10-03 00:00:00 +0000'
-  End Date: '2017-10-01 00:00:00 +0000'
+  Start Date: 2016-10-03 00:00:00 Z
+  End Date: 2017-10-01 00:00:00 Z
+HOT Involvement: Disaster Mapping
 Contact: '<p><font style="font-family: ''Helvetica Neue'', Helvetica, ''Segoe UI'',
   Arial, freesans, sans-serif; font-size: 16px; line-height: 28.4444px;" face="Helvetica
   Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif"><span style="font-size:

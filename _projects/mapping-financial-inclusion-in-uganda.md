@@ -1,13 +1,15 @@
 ---
 title: Mapping Financial Inclusion in Uganda
-date: 2015-12-11 20:50:16 Z
+date: 2015-12-11 20:50:00 Z
 permalink: projects/mapping_financial_inclusion_in_uganda
-position: 33
-Summary Text: Access to digital financial services is fundamental to enabling poor
-  people to become more economically stable, prosperous, and resilient. HOT, with
-  support from the Bill and Melinda Gates Foundation, will initiate a six-month pilot
-  program in Uganda starting in December 2015.
-HOT Involvement: Community Development
+position: 35
+Project Summary Text: In order to increase digital financial inclusion, HOT maps access
+  to financial services in Uganda to allow service providers to analyze gaps in coverage.
+Feature Image: "/uploads/Mobile%20money%20uganda.jpg"
+Country:
+- Uganda
+Impact Area:
+- Poverty Elimination
 Person:
 - 'Douglas Ssebaggala '
 - David Luswata
@@ -16,9 +18,14 @@ Person:
 - Paul Uithol
 - Mhairi O'Hara
 Partner: Bill and Melinda Gates Foundation
-Link: http://mapuganda.org/
 Duration:
-  Start Date: '2015-12-01 00:00:00 +0000'
+  Start Date: 2015-12-01 00:00:00 Z
+Summary Text: Access to digital financial services is fundamental to enabling poor
+  people to become more economically stable, prosperous, and resilient. HOT, with
+  support from the Bill and Melinda Gates Foundation, will initiate a six-month pilot
+  program in Uganda starting in December 2015.
+HOT Involvement: Community Development
+Link: http://mapuganda.org/
 Contact: <a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a>
 created: 1449867016
 ---

@@ -10,7 +10,7 @@ Summary Text: 'The Humanitarian OpenStreetMap Team’s (HOT) participation in th
   Innovation (DMI), HOT and various other stakeholders. '
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - 'USAID '
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement

@@ -1,13 +1,9 @@
 ---
 title: Field Papers
-date: 2015-05-28 15:30:21 Z
+date: 2015-05-28 15:30:00 Z
 permalink: projects/field_papers
-position: 23
-Summary Text: Field Papers is a web based tool developed by Stamen Designs which creates
-  printable map atlases for anywhere in the world that can be taken out into the field.
-  Notes and sketches can be applied directly to the print out, which can then be photographed
-  or scanned and uploaded back to the website.
-HOT Involvement: Partnerships
+published: false
+position: 25
 Person:
 - Jorieke Vyncke
 - Ahasanul Hoque
@@ -19,10 +15,15 @@ Person:
 - Mhairi O'Hara
 - Dale Kunce
 - Blake Girardot
-Link: http://fieldpapers.org/
 Duration:
-  Start Date: '2015-02-14 00:00:00 +0000'
-  End Date: '2016-05-28 00:00:00 +0000'
+  Start Date: 2015-02-14 00:00:00 Z
+  End Date: 2016-05-28 00:00:00 Z
+Summary Text: Field Papers is a web based tool developed by Stamen Designs which creates
+  printable map atlases for anywhere in the world that can be taken out into the field.
+  Notes and sketches can be applied directly to the print out, which can then be photographed
+  or scanned and uploaded back to the website.
+HOT Involvement: Partnerships
+Link: http://fieldpapers.org/
 created: 1432827021
 ---
 

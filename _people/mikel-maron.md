@@ -1,7 +1,8 @@
 ---
 title: Mikel Maron
 date: 2010-05-24 15:40:00 Z
-permalink: users/mikel_maron
+redirect_from:
+- "/users/mikel_maron"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-3-1411582700.jpg
 Member Type:
   Is Voting Member: true

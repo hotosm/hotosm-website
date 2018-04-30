@@ -1,7 +1,8 @@
 ---
 title: Will Skora
 date: 2012-05-26 21:17:00 Z
-permalink: users/will_skora
+redirect_from:
+- "/users/will_skora"
 Member Type:
   Is Voting Member: true
 Working Group:

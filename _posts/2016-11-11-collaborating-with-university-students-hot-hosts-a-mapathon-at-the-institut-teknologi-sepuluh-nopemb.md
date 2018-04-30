@@ -5,7 +5,7 @@ date: 2016-11-11 09:32:46 Z
 permalink: updates/2016-11-11_collaborating_with_university_students_hot_hosts_a_mapathon_at_the_institut_tekn
 Person: Biondi Sanda Sima
 Working Group: []
-Projects:
+Project:
 - 'USAID '
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement

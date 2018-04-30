@@ -8,7 +8,7 @@ Summary Text: <p>On January 14, we formally closed <a href="http://hot.openstree
   at the Tunis WMC office was incredibly active in the entire process.
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 created: 1328032204
 ---
 

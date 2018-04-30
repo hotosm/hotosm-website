@@ -1,16 +1,24 @@
 ---
 title: MapFugees Field Mapping
-date: 2016-11-24 23:55:02 Z
+date: 2016-11-24 23:55:00 Z
 permalink: projects/mapfugees_field_mapping
-position: 42
-HOT Involvement: Community Development
+position: 44
+Project Summary Text: Mapfugees coordinated digitization of the refugee camps of Calais
+  and Grande-Synthe/Dunkirk in Northern France in 2016
+Feature Image: "/uploads/img-08.png"
+Is Community-Led: true
+Country:
+- France
+Impact Area:
+- Refugee Response
 Person:
 - Blake Girardot
 - Katja Ulbert
-Link: https://mapfugees.wordpress.com/
 Duration:
-  Start Date: '2015-11-25 00:00:00 +0000'
-  End Date: '2017-11-25 00:00:00 +0000'
+  Start Date: 2015-11-25 00:00:00 Z
+  End Date: 2017-11-25 00:00:00 Z
+HOT Involvement: Community Development
+Link: https://mapfugees.wordpress.com/
 created: 1480031702
 ---
 

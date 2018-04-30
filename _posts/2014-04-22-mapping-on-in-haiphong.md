@@ -4,7 +4,7 @@ date: 2014-04-22 12:17:26 Z
 permalink: updates/2014-04-22_mapping_on_in_haiphong
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/maritime-students-vietnam.jpg
 created: 1398169046
 ---

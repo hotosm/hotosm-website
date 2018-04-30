@@ -10,7 +10,7 @@ Summary Text: Last year I spent a bitterly cold day in a forest in Massachusetts
   Spanring, Kate Chapman, and myself helped to bring some maps together for the sim.
 Person: Mikel Maron
 Working Group: []
-Projects: []
+Project: []
 created: 1337909310
 ---
 

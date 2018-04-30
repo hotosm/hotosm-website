@@ -4,7 +4,7 @@ date: 2014-03-10 10:22:59 Z
 permalink: updates/2014-03-10_openstreetmap_on_the_ground_update_from_kathmandu
 Person: Nama Raj Budhathoki
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2.jpg
 created: 1394446979
 ---

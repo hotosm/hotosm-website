@@ -14,7 +14,7 @@ Summary Text: 'One Eurosha country we did not talk about so far here (sorry for 
   remotely by foreigners, essentially over Bujumbura, sometimes from old Yahoo imagery.  '
 Person: Séverin Ménard
 Working Group: []
-Projects:
+Project:
 - EUROSHA
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC_0231+800x600.jpg
 created: 1361483972

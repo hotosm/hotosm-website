@@ -5,8 +5,8 @@ permalink: updates/2016-06-14_mapping_bicycle_routes_during_dar_es_salaam's_cycl
 Person: Innocent Maholi
 Working Group:
 - Community
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 created: 1465942633
 ---
 

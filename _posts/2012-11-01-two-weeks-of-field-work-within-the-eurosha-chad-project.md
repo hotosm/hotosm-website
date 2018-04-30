@@ -14,7 +14,7 @@ Summary Text: 'Last night of hard work in the meeting room of the UNHCR in Gore 
   stronger effect when experienced during a deployment. '
 Person: Nicolas Chavent
 Working Group: []
-Projects:
+Project:
 - EUROSHA
 created: 1351737875
 ---

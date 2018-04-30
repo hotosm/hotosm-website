@@ -4,7 +4,7 @@ date: 2017-01-31 13:33:57 Z
 permalink: updates/2017-01-31_making_open_imagery_accessible_openaerialmap_comes_out_of_beta
 Person: Nate Smith
 Working Group: []
-Projects:
+Project:
 - OpenAerialMap
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/oam-malawi.jpg
 created: 1485869637

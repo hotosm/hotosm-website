@@ -13,7 +13,7 @@ Summary Text: 'This week in Port-au-Prince is happening a booksprint to write a 
   on paper format). '
 Person: Anne Goldenberg
 Working Group: []
-Projects:
+Project:
 - OSM FlossManuals in Kreyòl (Creole)
 created: 1354725060
 ---

@@ -6,7 +6,7 @@ permalink: updates/2018-01-18_nethope_device_challenge_providing_devices_and_tra
 Person: 'Amelia Hunt '
 Working Group:
 - Community
-Projects:
+Project:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20171114_113048.jpg
 created: 1516261094

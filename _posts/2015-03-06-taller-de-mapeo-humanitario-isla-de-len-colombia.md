@@ -5,7 +5,7 @@ permalink: updates/2015-03-06_taller_de_mapeo_humanitario_–_isla_de_león_colo
 Person: Blake Girardot
 Working Group:
 - Fundraising
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Taller+de+Mapeo+Humanitario01.jpg
 created: 1425664539
 ---

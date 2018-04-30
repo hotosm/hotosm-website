@@ -1,9 +1,16 @@
 ---
 title: HOT Indonesia Curriculum
-date: 2015-10-12 03:28:28 Z
+date: 2015-10-12 03:28:00 Z
 permalink: projects/hot_indonesia_curriculum
-position: 29
-HOT Involvement: Technical Projects
+position: 31
+Project Summary Text: HOT has developed curriculum called SD4CP (Scenario Development
+  for Contingency Planning) with the goal to deliver knowledges and skill of OSM,
+  QGIS and InaSAFE for provincial and district disaster management agencies
+Feature Image: "/uploads/Modul.png"
+Country:
+- Indonesia
+Impact Area:
+- Disaster Risk Reduction
 Person:
 - Emir Hartato
 - Ranie Dwi Anugrah
@@ -14,9 +21,10 @@ Person:
 - Wulansari Khairunisa
 - Dewi Sulistioningrum
 - Adityo Dwijananto
-Link: http://openstreetmap.id/en/tutorial/panduansd4cp/
 Duration:
-  Start Date: '2012-11-12 00:00:00 +0000'
+  Start Date: 2012-11-12 00:00:00 Z
+HOT Involvement: Technical Projects
+Link: http://openstreetmap.id/en/tutorial/panduansd4cp/
 Contact: "<p>adityo.dwijananto@hotosm.org</p>"
 created: 1444620508
 ---

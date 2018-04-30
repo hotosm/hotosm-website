@@ -9,7 +9,7 @@ Summary Text: 'Augustin and I conducted HOT’s third deployment HOT to Senegal 
   partnership with OpenStreetMap France.'
 Person: Nicolas Chavent
 Working Group: []
-Projects:
+Project:
 - Senegal
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/001.JPG
 created: 1357731982

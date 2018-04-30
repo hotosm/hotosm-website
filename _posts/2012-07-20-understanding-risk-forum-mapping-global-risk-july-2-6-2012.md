@@ -4,7 +4,7 @@ date: 2012-07-20 18:29:42 Z
 permalink: updates/2012-07-20_understanding_risk_forum_mapping_global_risk_july_2-6_2012
 Person: Pierre Béland
 Working Group: []
-Projects: []
+Project: []
 created: 1342808982
 ---
 

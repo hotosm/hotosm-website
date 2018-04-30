@@ -1,11 +1,13 @@
 ---
 title: Missing Maps
-date: 2015-08-01 19:09:18 Z
+date: 2015-08-01 19:09:00 Z
 permalink: projects/missing_maps
-position: 28
-Summary Text: Missing Maps is an open collaboration of organisations and individuals.
-  Whether you have five minutes or five days free, your time is hugely appreciated!
-HOT Involvement: Partnerships
+position: 30
+Project Summary Text: The Missing Maps is a collaborative project powered by HOT,
+  MSF, the British / American Red Cross, and partners to provide base maps in the
+  most vulnerable places in the developing world.
+Feature Image: "/uploads/Screen%20Shot%202018-04-23%20at%2012.08.05%20AM.png"
+Is Community-Led: true
 Person:
 - Ben Abelshausen
 - Tasauf A Baki Billah (Ribin)
@@ -34,9 +36,12 @@ Person:
 - Matthew Gibb
 - Rebecca Firth
 - Nate Smith
-Link: http://www.missingmaps.org/
 Duration:
-  Start Date: '2014-11-04 00:00:00 +0000'
+  Start Date: 2014-11-04 00:00:00 Z
+Summary Text: Missing Maps is an open collaboration of organisations and individuals.
+  Whether you have five minutes or five days free, your time is hugely appreciated!
+HOT Involvement: Partnerships
+Link: http://www.missingmaps.org/
 Contact: <p><a href="http://twitter.com/themissingmaps">http://twitter.com/themissingmaps</a></p><p><a
   title="Missing Maps facebook" href="http://facebook.com/theMissingMaps">http://facebook.com/theMissingMaps</a></p>
 created: 1438456158

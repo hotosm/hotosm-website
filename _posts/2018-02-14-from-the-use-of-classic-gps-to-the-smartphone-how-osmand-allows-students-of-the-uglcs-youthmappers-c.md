@@ -6,7 +6,7 @@ permalink: updates/2018-02-14_from_the_use_of_classic_gps_to_the_smartphone_how_
 Person: 'Amelia Hunt '
 Working Group:
 - Community
-Projects:
+Project:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/3_1.jpg
 created: 1518611304

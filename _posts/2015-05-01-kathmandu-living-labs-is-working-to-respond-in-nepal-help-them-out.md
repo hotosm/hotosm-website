@@ -8,7 +8,7 @@ Summary Text: Kathmandu Living Labs is a great local non-profit working to help 
 Person: Andrew Wiseman
 Working Group:
 - Activation
-Projects:
+Project:
 - Nepal 2015 Earthquake Response
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/kll_crowdsourcing.jpg
 created: 1430497874

@@ -4,7 +4,7 @@ date: 2015-05-29 02:14:03 Z
 permalink: updates/2015-05-29_openaerialmap_beta_goes_live
 Person: Cristiano Giovando
 Working Group: []
-Projects:
+Project:
 - OpenAerialMap
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/oam_beta_pre.jpg
 created: 1432865643

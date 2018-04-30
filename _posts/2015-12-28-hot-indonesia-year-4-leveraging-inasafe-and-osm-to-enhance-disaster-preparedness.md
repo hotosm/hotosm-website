@@ -4,7 +4,7 @@ date: 2015-12-28 07:44:25 Z
 permalink: updates/2015-12-28_hot_indonesia_year_4_leveraging_inasafe_and_osm_to_enhance_disaster_preparedness
 Person: Yantisa Akhadi
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/InaSAFE_EN_New.PNG
 created: 1451288665

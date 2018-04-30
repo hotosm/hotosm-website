@@ -17,77 +17,68 @@ layout: default
     </div>
   </header>
 
-  <div class="highlight-blocks">
-    <div class="container">
+  <div class="half-blocks">
 
-      <div class="highlight-block">
-        <div class="highlight-details">
-          <div class="highlight-info">
-            <div class="highlight-hr"></div>
-            <h3>{{ page['Block 1'].Header }}</h3>
-            <p>{{ page['Block 1'].Text }}</p>
-          </div>
-          <div class="highlight-options">
-            <h5>Projects to check out</h5>
-            <ul>
-              {% for project in page['Block 1'].Projects %}
-                <li><a href="{{ project.url }}">{{ project }}</a></li>
-              {% endfor %}
-            </ul>
-          </div>
+    <div class="half-block dark">
+      <div class="block-details">
+        <div class="block-info">
+          <h3>{{ page['Block 1'].Header }}</h3>
+          <p>{{ page['Block 1'].Text }}</p>
         </div>
-        <div class="highlight-image">
-          <img src="{{ page['Block 1'].Image }}">
+        <div class="block-options">
+          <h5>Projects to check out</h5>
+          <ul>
+            {% for project in page['Block 1'].Project %}
+              <li><a href="{{ project.url }}">{{ project }}</a></li>
+            {% endfor %}
+          </ul>
         </div>
       </div>
-
-      <div class="hr-h"></div>
-
-      <div class="highlight-block">
-        <div class="highlight-details">
-          <div class="highlight-info">
-            <div class="highlight-hr"></div>
-            <h3>{{ page['Block 2'].Header }}</h3>
-            <p>{{ page['Block 2'].Text }}</p>
-          </div>
-          <div class="highlight-options">
-            <h5>Projects to check out</h5>
-            <ul>
-              {% for project in page['Block 2'].Projects %}
-                <li><a href="{{ project.url }}">{{ project }}</a></li>
-              {% endfor %}
-            </ul>
-          </div>
-        </div>
-        <div class="highlight-image">
-          <img src="{{ page['Block 2'].Image }}">
-        </div>
+      <div class="block-image">
+        <img src="{{ page['Block 1'].Image }}">
       </div>
-
-      <div class="hr-h"></div>
-
-      <div class="highlight-block">
-        <div class="highlight-details">
-          <div class="highlight-info">
-            <div class="highlight-hr"></div>
-            <h3>{{ page['Block 3'].Header }}</h3>
-            <p>{{ page['Block 3'].Text }}</p>
-          </div>
-          <div class="highlight-options">
-            <h5>Projects to check out</h5>
-            <ul>
-              {% for project in page['Block 3'].Projects %}
-                <li><a href="{{ project.url }}">{{ project }}</a></li>
-              {% endfor %}
-            </ul>
-          </div>
-        </div>
-        <div class="highlight-image">
-          <img src="{{ page['Block 3'].Image }}">
-        </div>
-      </div>
-
     </div>
+
+    <div class="half-block right dark">
+      <div class="block-details">
+        <div class="block-info">
+          <h3>{{ page['Block 2'].Header }}</h3>
+          <p>{{ page['Block 2'].Text }}</p>
+        </div>
+        <div class="block-options">
+          <h5>Projects to check out</h5>
+          <ul>
+            {% for project in page['Block 2'].Project %}
+              <li><a href="{{ project.url }}">{{ project }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="block-image">
+        <img src="{{ page['Block 2'].Image }}">
+      </div>
+    </div>
+
+    <div class="half-block dark">
+      <div class="block-details">
+        <div class="block-info">
+          <h3>{{ page['Block 3'].Header }}</h3>
+          <p>{{ page['Block 3'].Text }}</p>
+        </div>
+        <div class="block-options">
+          <h5>Projects to check out</h5>
+          <ul>
+            {% for project in page['Block 3'].Project %}
+              <li><a href="{{ project.url }}">{{ project }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="block-image">
+        <img src="{{ page['Block 3'].Image }}">
+      </div>
+    </div>
+
   </div>
 
   <div class="container">

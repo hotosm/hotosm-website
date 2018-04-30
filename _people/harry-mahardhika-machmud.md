@@ -1,7 +1,8 @@
 ---
 title: Harry Mahardhika Machmud
 date: 2016-06-15 03:26:00 Z
-permalink: users/harry_mahardhika_machmud
+redirect_from:
+- "/users/harry_mahardhika_machmud"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-336-1475208816.jpg
 Member Type:
   Is Staff: true

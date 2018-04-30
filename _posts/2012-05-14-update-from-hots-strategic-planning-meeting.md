@@ -9,7 +9,7 @@ Summary Text: Two weeks ago through a micro-grant from the <a href="http://wilso
   to grow in the next 3-5 years.
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/hot_board.jpg
 created: 1337013541
 ---

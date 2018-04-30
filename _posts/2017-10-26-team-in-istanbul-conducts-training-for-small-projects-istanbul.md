@@ -4,7 +4,7 @@ date: 2017-10-26 13:28:30 Z
 permalink: updates/2017-10-26_team_in_istanbul_conducts_training_for_small_projects_istanbul
 Person: Paul Uithol
 Working Group: []
-Projects:
+Project:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Copy-of-SPI-PROJECT1.jpg
 created: 1509024510

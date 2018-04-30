@@ -13,7 +13,7 @@ Summary Text: My name is Katrina and I am a new addition to the HOT team in Indo
   quarters.  <em> The Participants </em>
 Person: Katrina E.
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/1_0.jpg
 created: 1342169398

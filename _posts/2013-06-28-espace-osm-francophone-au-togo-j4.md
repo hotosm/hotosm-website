@@ -10,7 +10,7 @@ Summary Text: 'Le quatrième jour de cette mission de lancement du projet Espace
   du projet OpenStreetMap dans ce pays de l''Afrique de l''Ouest. '
 Person: Nicolas Chavent
 Working Group: []
-Projects: []
+Project: []
 created: 1372460072
 ---
 

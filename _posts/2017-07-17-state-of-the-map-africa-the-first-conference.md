@@ -5,7 +5,7 @@ permalink: updates/2017-07-17_state_of_the_map_africa_the_first_conference
 Person: Rebecca Firth
 Working Group:
 - Community
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/SOTMAfrica.jpg
 created: 1500328052
 ---

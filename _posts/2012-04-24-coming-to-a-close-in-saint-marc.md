@@ -13,7 +13,7 @@ Summary Text: Hey kiddoes!Brian checking in from Saint-Marc. We are in the final
   finished, congrats to them.
 Person: Brian Wolford
 Working Group: []
-Projects:
+Project:
 - 'Haiti '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2012-01-08.png
 created: 1335233135

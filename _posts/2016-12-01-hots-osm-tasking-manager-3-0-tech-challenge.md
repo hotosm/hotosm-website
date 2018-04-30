@@ -7,7 +7,7 @@ Summary Text: Humanitarian OpenStreetMap Team (HOT) is seeking proposals for the
 Person: Blake Girardot
 Working Group:
 - Training
-Projects:
+Project:
 - OSM Tasking Manager 3.0 Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2016-12-01_14h49_35.png
 created: 1480618733

@@ -5,8 +5,8 @@ permalink: updates/2017-07-18_three_hundred_students_to_map_for_flood_resilience
 Person: Innocent Maholi
 Working Group:
 - Community
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/innocent.jpg
 created: 1500411600
 ---

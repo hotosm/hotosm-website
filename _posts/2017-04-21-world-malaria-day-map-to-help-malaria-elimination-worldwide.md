@@ -4,7 +4,7 @@ date: 2017-04-21 16:06:41 Z
 permalink: updates/2017-04-21_world_malaria_day_map_to_help_malaria_elimination_worldwide
 Person: Rebecca Firth
 Working Group: []
-Projects:
+Project:
 - Malaria Elimination Campaign
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017-04-21.png
 created: 1492790801

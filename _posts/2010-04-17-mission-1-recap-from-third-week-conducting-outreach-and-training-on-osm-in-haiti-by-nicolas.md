@@ -5,7 +5,7 @@ date: 2010-04-17 03:30:24 Z
 permalink: updates/2010-04-17_mission_1_recap_from_third_week_conducting_outreach_and_training_on_osm_in_haiti
 Person: Nicolas Chavent
 Working Group: []
-Projects: []
+Project: []
 created: 1271475024
 ---
 

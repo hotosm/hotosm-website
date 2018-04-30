@@ -5,7 +5,7 @@ permalink: updates/2017-03-07_this_international_women’s_day_show_your_support
 Person: Rebecca Firth
 Working Group:
 - Communications
-Projects:
+Project:
 - Women and Girls in Mapping
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-03-06+at+21.58.01.png
 created: 1488854820

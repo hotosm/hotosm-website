@@ -4,7 +4,7 @@ date: 2014-08-19 18:19:48 Z
 permalink: updates/2014-08-19_osm_training_in_blantyre_for_project_malawi_(week_3)
 Person: Emir Hartato
 Working Group: []
-Projects:
+Project:
 - Malawi Flood Preparedness
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/collage.jpg
 created: 1408472388

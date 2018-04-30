@@ -5,7 +5,7 @@ permalink: updates/2015-10-23_hot_activation_hurricane_patricia
 Person: Dale Kunce
 Working Group:
 - Activation
-Projects:
+Project:
 - Hurricane Patricia
 created: 1445622109
 ---

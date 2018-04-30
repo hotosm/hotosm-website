@@ -5,7 +5,7 @@ permalink: updates/2017-12-11_openstreetmap_niger_scaling_with_the_help_of_a_mic
 Person: 'Amelia Hunt '
 Working Group:
 - Community
-Projects:
+Project:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20171012_1012162.JPG
 created: 1513023415

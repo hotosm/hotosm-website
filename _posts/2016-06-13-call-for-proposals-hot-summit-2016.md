@@ -9,7 +9,7 @@ Summary Text: We invite you to submit a proposal to present a topic of interest 
   Development Goals.
 Person: Cheryl Shaw
 Working Group: []
-Projects:
+Project:
 - HOT Summit 2016
 created: 1465859514
 ---

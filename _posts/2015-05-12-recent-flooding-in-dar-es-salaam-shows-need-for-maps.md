@@ -5,8 +5,8 @@ permalink: updates/2015-05-12_recent_flooding_in_dar_es_salaam_shows_need_for_ma
 Person: Geoffrey Kateregga
 Working Group:
 - Training
-Projects:
-- Dar Ramani Huria - Dar Open Map
+Project:
+- Dar Ramani Huria — Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_1253+(1).JPG
 created: 1431419685
 ---

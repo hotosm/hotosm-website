@@ -4,7 +4,7 @@ date: 2017-08-07 10:00:35 Z
 permalink: updates/2017-08-07_openstreetmap_for_rural_development_and_poverty_eradication
 Person: Biondi Sanda Sima
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-08-07+at+4.58.52+PM.png
 created: 1502100035

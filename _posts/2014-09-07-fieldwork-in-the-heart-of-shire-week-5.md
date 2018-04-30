@@ -5,7 +5,7 @@ permalink: updates/2014-09-07_fieldwork_in_the_heart_of_shire_(week_5)
 Person: Séverin Ménard
 Working Group:
 - Training
-Projects:
+Project:
 - Malawi Flood Preparedness
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20140828_115856119.jpg
 created: 1410133183

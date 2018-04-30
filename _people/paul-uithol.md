@@ -1,7 +1,8 @@
 ---
 title: Paul Uithol
 date: 2015-07-14 16:44:48 Z
-permalink: users/paul_uithol
+redirect_from:
+- "/users/paul_uithol"
 Working Group:
 - Communications
 Project:
@@ -12,7 +13,7 @@ Project:
 - OpenMapKit
 - Hurricane Matthew
 - 'LEGIT: Supporting decentralization in Liberian cities'
-- Dar Ramani Huria - Dar Open Map
+- Dar Ramani Huria — Dar Open Map
 Country: Netherlands
 Social Media (Full URL):
   LinkedIn: https://nl.linkedin.com/in/pauluithol

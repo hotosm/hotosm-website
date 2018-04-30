@@ -1,7 +1,8 @@
 ---
 title: Nama Raj Budhathoki
 date: 2014-02-03 11:01:00 Z
-permalink: users/nama_raj_budhathoki
+redirect_from:
+- "/users/nama_raj_budhathoki"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-78-1430499781.jpg
 Member Type:
   Is Voting Member: true

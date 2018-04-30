@@ -1,9 +1,19 @@
 ---
 title: West Africa Ebola Epidemic
-date: 2014-04-15 12:25:42 Z
+date: 2014-04-15 12:25:00 Z
 permalink: projects/west_africa_ebola_epidemic
-position: 16
-HOT Involvement: Disaster Mapping
+position: 18
+Project Summary Text: During the West Africa Ebola Epidemic, Humanitarian OpenStreetMap
+  Team helped coordinate mapping community activities and deliver maps to field workers.
+Feature Image: "/uploads/macenta-guinea_0.png"
+Country:
+- Guinea
+- Liberia
+- Sierra Leone
+Impact Area:
+- Public Health
+- Disaster Response
+- Disaster Risk Reduction
 Person:
 - Harry Wood
 - Mhairi O'Hara
@@ -32,10 +42,11 @@ Person:
 - Mamadou Bassirou THIAM
 - Russell Deffner
 Partner: Hewlett Foundation
-Link: https://wiki.osm.org/2014_West_Africa_Ebola_Response
 Duration:
-  Start Date: '2014-03-24 00:00:00 +0000'
-  End Date: '2015-12-31 00:00:00 +0000'
+  Start Date: 2014-03-24 00:00:00 Z
+  End Date: 2015-12-31 00:00:00 Z
+HOT Involvement: Disaster Mapping
+Link: https://wiki.osm.org/2014_West_Africa_Ebola_Response
 created: 1397564742
 ---
 

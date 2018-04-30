@@ -14,7 +14,7 @@ Summary Text: Rapid growth and low elevation makes flooding in Jakarta problemat
   such data, by utilizing OpenStreetMap.
 Person: Kate Chapman
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/osm_id_sticker.png
 created: 1330504391

@@ -10,7 +10,7 @@ Summary Text: 'Came accross this serious hurricane warning today from <a href="h
   and have carried out many OSM activities and participated to HOT programs there. '
 Person: Séverin Ménard
 Working Group: []
-Projects:
+Project:
 - 'Haiti '
 created: 1345740679
 ---

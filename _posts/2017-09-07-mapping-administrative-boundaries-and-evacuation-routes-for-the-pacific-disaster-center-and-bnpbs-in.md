@@ -5,7 +5,7 @@ date: 2017-09-07 06:41:50 Z
 permalink: updates/2017-09-07_mapping_administrative_boundaries_and_evacuation_routes_for_the_pacific_disaster
 Person: Biondi Sanda Sima
 Working Group: []
-Projects:
+Project:
 - 'USAID '
 - " BNPB "
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement

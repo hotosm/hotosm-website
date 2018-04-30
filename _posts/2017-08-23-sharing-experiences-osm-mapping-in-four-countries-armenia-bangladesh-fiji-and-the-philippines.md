@@ -5,7 +5,7 @@ date: 2017-08-23 22:34:20 Z
 permalink: updates/2017-08-23_sharing_experiences_osm_mapping_in_four_countries_armenia_bangladesh_fiji_and_th
 Person: Rebecca Firth
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image5.png
 created: 1503527660
 ---

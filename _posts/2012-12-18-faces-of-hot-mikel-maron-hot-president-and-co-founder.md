@@ -10,7 +10,7 @@ Summary Text: 'As one of the co-founders of <strong>HOT</strong>, Mikel has year
   OpenStreetMap project and various aspects of the Humanitarian OpenstreetMap Team. '
 Person: Katrina E.
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_294.png
 created: 1355802111
 ---

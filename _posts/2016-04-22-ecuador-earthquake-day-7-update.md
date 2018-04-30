@@ -5,7 +5,7 @@ permalink: updates/2016-04-22_ecuador_earthquake_day_7_update
 Person: Mhairi O'Hara
 Working Group:
 - Activation
-Projects:
+Project:
 - Ecuador Earthquake
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Capture.JPG
 created: 1461369558

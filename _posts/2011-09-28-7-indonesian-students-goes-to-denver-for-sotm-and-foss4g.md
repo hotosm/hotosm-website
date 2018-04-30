@@ -4,7 +4,7 @@ date: 2011-09-28 15:00:15 Z
 permalink: updates/2011-09-28_7_indonesian_students_goes_to_denver_for_sotm_and_foss4g!
 Person: Emir Hartato
 Working Group: []
-Projects: []
+Project: []
 created: 1317222015
 ---
 

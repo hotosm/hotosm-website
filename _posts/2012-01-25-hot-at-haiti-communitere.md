@@ -12,7 +12,7 @@ Summary Text: Since returning to Haiti in preparation of launching the Saint Mar
   aerial.jpg" />
 Person: Nicolas Chavent
 Working Group: []
-Projects:
+Project:
 - 'Haiti '
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/HC+aerial.jpg
 created: 1327472219

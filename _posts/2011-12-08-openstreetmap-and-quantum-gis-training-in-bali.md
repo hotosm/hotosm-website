@@ -4,7 +4,7 @@ date: 2011-12-08 15:17:46 Z
 permalink: updates/2011-12-08_openstreetmap_and_quantum_gis_training_in_bali
 Person: Emir Hartato
 Working Group: []
-Projects: []
+Project: []
 created: 1323357466
 ---
 

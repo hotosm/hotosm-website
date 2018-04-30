@@ -1,12 +1,12 @@
 ---
 title: LearnOSM
-date: 2015-06-02 18:51:01 Z
+date: 2015-06-02 18:51:00 Z
 permalink: projects/learnosm
-position: 7
-Summary Text: LearnOSM provides easy to understand, step-by-step guides for you to
-  get started with contributing to OpenStreetMap and using OpenStreetMap and using
-  OpenStreetMap data.
-HOT Involvement: Technical Projects
+position: 9
+Project Summary Text: LearnOSM provides easy to understand, step-by-step guides for
+  you to get started to contributing and using OpenStreetMap.
+Feature Image: "/uploads/learnosm.PNG"
+Is Community-Led: true
 Person:
 - 'Douglas Ssebaggala '
 - Claire Halleux
@@ -27,9 +27,13 @@ Person:
 - Jean Bully PROPHETE
 - Adityo Dwijananto
 - Taichi Furuhashi
-Link: http://LearnOSM.org
 Duration:
-  Start Date: '2012-06-02 00:00:00 +0000'
+  Start Date: 2012-06-02 00:00:00 Z
+Summary Text: LearnOSM provides easy to understand, step-by-step guides for you to
+  get started with contributing to OpenStreetMap and using OpenStreetMap and using
+  OpenStreetMap data.
+HOT Involvement: Technical Projects
+Link: http://LearnOSM.org
 created: 1433271061
 ---
 

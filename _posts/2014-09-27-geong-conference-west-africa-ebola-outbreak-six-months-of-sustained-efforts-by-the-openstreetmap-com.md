@@ -6,7 +6,7 @@ permalink: updates/2014-09-27_geong_conference_-_west_africa_ebola_outbreak_-_si
 Person: Pierre Béland
 Working Group:
 - Communications
-Projects:
+Project:
 - West Africa Ebola Epidemic
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Cumulative+objects+created.png
 created: 1411844697

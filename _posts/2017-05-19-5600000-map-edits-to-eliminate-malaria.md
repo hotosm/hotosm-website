@@ -5,7 +5,7 @@ permalink: updates/2017-05-19_5600000_map_edits_to_eliminate_malaria
 Person: Geoffrey Kateregga
 Working Group:
 - Community
-Projects:
+Project:
 - Malaria Elimination Campaign
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/busitema.jpg
 created: 1495176666

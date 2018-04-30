@@ -10,7 +10,7 @@ Summary Text: Durant les derniers mois, de nombreux contributeurs à travers le 
   réduit de contributeurs actifs à l'intérieur de la RDC.
 Person: Claire Halleux
 Working Group: []
-Projects: []
+Project: []
 created: 1360606812
 ---
 

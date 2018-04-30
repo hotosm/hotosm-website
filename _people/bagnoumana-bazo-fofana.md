@@ -1,7 +1,8 @@
 ---
 title: BAGNOUMANA Bazo FOFANA
 date: 2015-06-04 19:45:00 Z
-permalink: users/bagnoumana_bazo_fofana
+redirect_from:
+- "/users/bagnoumana_bazo_fofana"
 Member Type:
   Is Voting Member: true
 Working Group:

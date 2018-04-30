@@ -9,7 +9,7 @@ Summary Text: After several months of development work and 20,000+ lines of new 
   next several days, but you can get an introduction and preview of it now.
 Person: Blake Girardot
 Working Group: []
-Projects:
+Project:
 - Tasking Manager
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017-09-05_20h51_07.png
 created: 1508311109

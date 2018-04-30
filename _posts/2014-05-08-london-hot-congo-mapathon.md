@@ -4,7 +4,7 @@ date: 2014-05-08 08:56:13 Z
 permalink: updates/2014-05-08_london_hot_congo_mapathon
 Person: Harry Wood
 Working Group: []
-Projects: []
+Project: []
 created: 1399539373
 ---
 

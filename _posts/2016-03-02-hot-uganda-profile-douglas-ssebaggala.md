@@ -8,7 +8,7 @@ Summary Text: 'We have three Ugandan mapping supervisors on the HOT mapping team
   story and mapping history. Today, we''re speaking to Douglas.'
 Person: Paul Uithol
 Working Group: []
-Projects:
+Project:
 - Mapping Financial Inclusion in Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG-20160302-WA0000.jpg
 created: 1456934773

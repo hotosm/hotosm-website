@@ -4,7 +4,7 @@ date: 2017-05-03 06:06:41 Z
 permalink: updates/2017-05-03_rapid_mapping_of_damage_extent_after_a_disaster
 Person: Cristiano Giovando
 Working Group: []
-Projects:
+Project:
 - Remote Damage Assessment Research
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/PicturePileHeader.jpg
 created: 1493791601

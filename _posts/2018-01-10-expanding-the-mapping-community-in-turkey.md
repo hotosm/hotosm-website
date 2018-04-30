@@ -5,7 +5,7 @@ permalink: updates/2018-01-10_expanding_the_mapping_community_in_turkey
 Person: 'Amelia Hunt '
 Working Group:
 - Community
-Projects:
+Project:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_1168_(1)+(1).jpg
 created: 1515586962

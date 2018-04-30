@@ -4,7 +4,7 @@ date: 2017-04-25 08:35:39 Z
 permalink: updates/2017-04-25_paving_the_road_to_inclusivity_hot_trains_mapping_skills_to_disabled_communities
 Person: Biondi Sanda Sima
 Working Group: []
-Projects:
+Project:
 - Indonesia Disaster Management Innovation
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-04-25+at+3.31.37+PM.png
 created: 1493109339

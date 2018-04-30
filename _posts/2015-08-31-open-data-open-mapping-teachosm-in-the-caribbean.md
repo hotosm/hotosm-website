@@ -4,7 +4,7 @@ date: 2015-08-31 17:02:03 Z
 permalink: updates/2015-08-31_open_data_open_mapping_teachosm_in_the_caribbean
 Person: Steven Johnson
 Working Group: []
-Projects:
+Project:
 - HOT Training Center
 created: 1441040523
 ---

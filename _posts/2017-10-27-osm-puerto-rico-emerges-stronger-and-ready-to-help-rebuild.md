@@ -11,7 +11,7 @@ Summary Text: As Hurricane Maria‘s winds and rain battered our home in San Jua
 Person: Russell Deffner
 Working Group:
 - Activation
-Projects:
+Project:
 - Fall 2017 Disaster Response
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/pasted+image+0.png
 created: 1509134906

@@ -5,7 +5,7 @@ permalink: updates/2017-07-10_hot_supports_community_driven_open_data_ger_commun
 Person: Rebecca Firth
 Working Group:
 - Community
-Projects:
+Project:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Ger2.png
 created: 1499712786

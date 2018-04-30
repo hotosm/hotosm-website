@@ -10,7 +10,7 @@ Summary Text: The first workshop for the HOT Activation Curriculum was held duri
 Person: Russell Deffner
 Working Group:
 - Activation
-Projects:
+Project:
 - HOT Training Center
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/activation.jpg
 created: 1441738671

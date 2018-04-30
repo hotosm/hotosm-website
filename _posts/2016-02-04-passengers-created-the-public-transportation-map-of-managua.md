@@ -11,7 +11,7 @@ Summary Text: 'We made great progress on a crowd-sourced public transportation m
   map. And only the community made this possible:'
 Person: Felix Delattre
 Working Group: []
-Projects:
+Project:
 - Public transportation map for Managua
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_4772.JPG
 created: 1454576778

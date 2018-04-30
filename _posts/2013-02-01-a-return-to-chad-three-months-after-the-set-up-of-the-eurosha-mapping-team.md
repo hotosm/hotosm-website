@@ -12,7 +12,7 @@ Summary Text: 'I just landed in <a href="http://en.wikipedia.org/wiki/N''Djamena
   project</a> '
 Person: Nicolas Chavent
 Working Group: []
-Projects:
+Project:
 - EUROSHA
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/262743_375600389201144_554436941_n_1.jpg
 created: 1359683312

@@ -5,7 +5,7 @@ permalink: updates/2015-09-23_beta_release_of_the_redeveloped_export_tool
 Person: Mhairi O'Hara
 Working Group:
 - Technical
-Projects:
+Project:
 - Export Tool
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/osm.png
 created: 1442983549

@@ -4,7 +4,7 @@ date: 2012-01-10 05:48:39 Z
 permalink: updates/2012-01-10_hot_collaboration_with_gis_corps!
 Person: Kate Chapman
 Working Group: []
-Projects: []
+Project: []
 created: 1326174519
 ---
 

@@ -1,12 +1,13 @@
 ---
 title: Amelia Hunt
 date: 2017-11-22 16:08:18 Z
-permalink: users/amelia_hunt
+redirect_from:
+- "/users/amelia_hunt_"
 Working Group:
 - Community
 - Communications
 Project:
-- Dar Ramani Huria - Dar Open Map
+- Dar Ramani Huria — Dar Open Map
 Social Media (Full URL):
   LinkedIn: https://www.linkedin.com/in/ameliahunt/
   Twitter: https://twitter.com/ameliahunt92

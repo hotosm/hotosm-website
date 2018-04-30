@@ -4,7 +4,7 @@ date: 2016-11-15 12:31:08 Z
 permalink: updates/2016-11-15_analyzing_openstreetmap_for_the_fight_against_malaria
 Person: Nate Smith
 Working Group: []
-Projects:
+Project:
 - OpenStreetMap Analytics
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2016-11-15+at+12.46.12+PM+copy.png
 created: 1479213068

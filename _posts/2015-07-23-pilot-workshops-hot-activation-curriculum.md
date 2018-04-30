@@ -4,7 +4,7 @@ date: 2015-07-23 08:54:38 Z
 permalink: updates/2015-07-23_pilot_workshops_-_hot_activation_curriculum_
 Person: Mhairi O'Hara
 Working Group: []
-Projects:
+Project:
 - HOT Training Center
 created: 1437641678
 ---

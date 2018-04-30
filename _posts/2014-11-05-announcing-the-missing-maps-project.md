@@ -4,7 +4,7 @@ date: 2014-11-05 02:57:03 Z
 permalink: updates/2014-11-05_announcing_the_missing_maps_project
 Person: Kate Chapman
 Working Group: []
-Projects:
+Project:
 - Missing Maps
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/process.png
 created: 1415156223

@@ -7,7 +7,7 @@ Summary Text: We are heads down on processing imagery from DigitalGlobe, Airbus 
   have processed and made available over 3,000 square kilometers of updated imagery!
 Person: Cristiano Giovando
 Working Group: []
-Projects: []
+Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/ab-np-image-1.png
 created: 1430276403
 ---
