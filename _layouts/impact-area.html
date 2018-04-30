@@ -3,51 +3,21 @@ layout: default
 ---
 
 <div class="project-index">
-
-  <div class="project-map-area">
-
+  <div class="impact-map-area">
     <div id="map">
     </div>
 
     <div class="project-index-header" id="impact-areas-select">
       <div class="container">
         <h1 class="boxed" id="our-work-title">{{ page.title }}</h1>
-        <div class="impact-area-desc">
-          <span>{{ content }}<div class="hr"></div></span>
-        </div>
-      </div>
-
-      <div class="our-work-filters">
-
-        <div class="btn btn-primary btn-expand" id="expand-map-btn" onclick="expandMap()">See where we work</div>
-
       </div>
     </div>
-
-
-    <div class="our-work-filters hidden" id="regions-select">
-      <div class="btn btn-primary btn-close" id="close-map-btn" onclick="expandMap()">Exit map</div>
-      <div class="container">
-        <h6>
-          Choose region
-        </h6>
-        <div id="continents">
-          <a onClick="activateAfrica()" class="regions-link">Africa</a>
-          <a onClick="activateAsia()" class="regions-link">Asia</a>
-          <a onClick="activateEurope()" class="regions-link">Europe</a>
-          <a onClick="activateNAmerica()" class="regions-link">North America</a>
-          <a onClick="activateSAmerica()" class="regions-link">South America</a>
-          <a onClick="activateOceania()" class="regions-link">Oceania</a>
-        </div>
-        <div id="countries-list">
-        </div>
-      </div>
-    </div>
-
-
+  </div>
+  <div class="impact-area-desc">
+    <span>{{ content }}<div class="hr"></div></span>
   </div>
 
-  <div id="our-work-projects" class="container">
+  <div id="impact-projects" class="container">
 
     <h6>Highlighted Projects</h6>
 
@@ -89,6 +59,6 @@ layout: default
   </div>
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
   <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
-  <script src="{{ "/js/our-work-map.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/js/impact-areas-map.js" | prepend: site.baseurl }}"></script>
 
 </div>
