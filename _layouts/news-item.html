@@ -29,31 +29,36 @@ layout: default
     <aside class="meta">
 
       {% capture page.Person %}{% endcapture %}
-      {% assign author = site.people | where: "title", page.Person | first %}
       {% if page.Person %}
         <div class="news-author meta-item">
-          {% if page.Person == author.title %}
-            <div class="author-image">
-              {% if author.Photo %}
-              <img src="{{ author.Photo }}">
-              {% else %}
-              <img src="{{ '/images/avatar.png' | prepend: site.baseurl }}">
-              {% endif %}
-            </div>
-            <div>
-              <h5>Posted by</h5>
-              <p class="author-name">
-                <a href="{{ author.url }}">{{ author.title }}</a>
-              </p>
-            </div>
-          {% elsif page.Person %}
-            <div>
-              <h5>Posted by</h5>
-              <p class="author-name">
-                {{ page.Person }}
-              </p>
-            </div>
-          {% endif %}
+          <h5>Posted by</h5>
+        {% for person in page.Person %}
+          <div class="author-item">
+          {% assign author = site.people | where: "title", person | first %}
+            {% if person == author.title %}
+              <div class="author-image">
+                {% if author.Photo %}
+                <img src="{{ author.Photo }}">
+                {% else %}
+                <img src="{{ '/images/avatar.png' | prepend: site.baseurl }}">
+                {% endif %}
+              </div>
+              <div>
+                <p class="author-name">
+                  <a href="{{ author.url }}">{{ author.title }}</a>
+                </p>
+              </div>
+            {% elsif person %}
+              <div>
+                <img src="{{ '/images/avatar.png' | prepend: site.baseurl }}">
+                <p class="author-name">
+                  {{ person }}
+                </p>
+              </div>
+            {% endif %}
+          </div>
+                      <br>
+          {% endfor %}
         </div>
       {% endif %}
 
