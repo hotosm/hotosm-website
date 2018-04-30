@@ -129,10 +129,12 @@ function expandMap() {
   if (fullMap) {
     map.scrollZoom.disable();
     $('.project-index-header').removeClass('hidden');
+    $('.our-work-map-legend').addClass('hide');
     $('.mapboxgl-ctrl').addClass('hide');
     $('#regions-select').addClass('hidden');
   } else {
     map.scrollZoom.enable();
+    $('.our-work-map-legend').removeClass('hide');
     $('.project-index-header').addClass('hidden');
     $('.home-highlights-wrapper').addClass('right');
     $('.home-highlights-wrapper').addClass('right');
