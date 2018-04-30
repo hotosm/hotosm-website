@@ -2290,6 +2290,32 @@ em {
   }
 }
 
+.our-work-map-legend {
+  margin-top: 70px;
+  margin-right: 40px;
+  position: relative;
+  display: block;
+  float: right;
+  z-index: 4;
+  background-color: $red;
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 4px 5px 1px 6px;
+  border-radius: 2px;
+}
+
+.our-work-map-legend > div > svg {
+  height: 15px;
+  width: 15px;
+  vertical-align: middle;
+}
+
+.our-work-map-legend > div > span {
+  padding-top: 4px;
+  vertical-align: middle;
+}
+
 .country-index {
   .project-index-highlights {
     margin-top: 40px;
