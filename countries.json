@@ -1,6 +1,7 @@
 ---
-layout: null
+layout: 
 ---
+
 {
  {% for country in site.where-we-work %}
    "{{ country.title | downcase }}": {
