@@ -43,7 +43,6 @@ map.on('load', function() {
           padding: 10
         });
       }
-
     }
   );
 });
