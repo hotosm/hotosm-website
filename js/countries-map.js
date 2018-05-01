@@ -5,6 +5,7 @@ var map = new mapboxgl.Map({
   container: 'country-map-wrap',
   logoPosition: 'bottom-left',
   scrollZoom: false,
+  dragRotate: false,
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 });
 
