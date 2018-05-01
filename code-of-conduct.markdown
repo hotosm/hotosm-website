@@ -2,6 +2,12 @@
 title: HOT Code of Conduct
 layout: page
 Intro Text: Openness, collaboration and participation are core aspects of our work – from mapping with local communities, remotely and in person, to developing tools, training materials, and processes. This Code of Conduct outlines the behaviour we expect of all participants of the HOT community in all activities, across online and offline spaces. This includes voting members, board members, staff, volunteers, supporters, and any person participating in HOT activities or visiting HOT spaces, working with HOT, or representing the organisation, online or in person.
+Page Contact:
+  Label: Contact Community Working Group
+  Text: Have a question about the code of conduct?
+  Contact Email: community@hotosm.org
+redirect_from:
+- "/hot_code_of_conduct"
 ---
 
 [Short Version](#short-version) \| [Full Version](#full-version) \| [Complaint Handling Process](#complaint-handling-process)
