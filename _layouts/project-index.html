@@ -6,29 +6,64 @@ layout: default
 
   <div class="project-map-area">
 
-    <div class="project-index-header">
+    <div id="map">
+      <div class="our-work-map-legend hide">
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="4" height="4" viewBox="0 0 4 4"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><rect width="4" height="4" fill="#fbecec"/><polygon points="4 0 3.75 0 0 3.75 0 4 0.25 4 4 0.25 4 0" fill="#d73f3f"/><polygon points="4 3.75 3.75 4 4 4 4 3.75" fill="#d73f3f"/><polygon points="0 0 0 0.25 0.25 0 0 0" fill="#d73f3f"/></g></g></svg>
+          <span>Projects</span>
+        </div>
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="4" height="4" viewBox="0 0 4 4"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><rect width="4" height="4" fill="#f2f4f7"/><polygon points="4 0 3.75 0 0 3.75 0 4 0.25 4 4 0.25 4 0" fill="#a4a9b2"/><polygon points="4 3.75 3.75 4 4 4 4 3.75" fill="#a4a9b2"/><polygon points="0 0 0 0.25 0.25 0 0 0" fill="#a4a9b2"/></g></g></svg>
+          <span>Members</span>
+        </div>
+      </div>
+    </div>
 
+    <div class="project-index-header" id="impact-areas-select">
       <div class="container">
-        <div><h1 class="boxed">{{ page.title }}</h1></div>
+        <h1 class="boxed" id="our-work-title">{{ page.title }}</h1>
       </div>
 
-      <div class="project-index-areas">
+      <div class="our-work-filters">
+
+        <div class="btn btn-primary btn-expand" id="expand-map-btn" onclick="expandMap()">See where we work</div>
+
         <div class="areas-wrapper">
           <div class="container">
             <h6>Impact Areas</h6>
             {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
             {% for impact-area in sorted-impact-areas %}
-              <a href="{{ impact-area.url }}" class="btn btn-info btn-chevron">{{ impact-area.title }}</a>
+              <a href="{{ impact-area.url }}" class="map-impact-area">{{ impact-area.title }}</a>
             {% endfor %}
           </div>
         </div>
       </div>
-
     </div>
+
+
+    <div class="our-work-filters hidden" id="regions-select">
+      <div class="btn btn-primary btn-close" id="close-map-btn" onclick="expandMap()">Exit map</div>
+      <div class="container">
+        <h6>
+          Choose region
+        </h6>
+        <div id="continents">
+          <a onClick="activateAfrica()" class="regions-link">Africa</a>
+          <a onClick="activateAsia()" class="regions-link">Asia</a>
+          <a onClick="activateEurope()" class="regions-link">Europe</a>
+          <a onClick="activateNAmerica()" class="regions-link">North America</a>
+          <a onClick="activateSAmerica()" class="regions-link">South America</a>
+          <a onClick="activateOceania()" class="regions-link">Oceania</a>
+        </div>
+        <div id="countries-list">
+        </div>
+      </div>
+    </div>
+
 
   </div>
 
-  <div class="container">
+  <div id="our-work-projects" class="container">
 
     <h6>Highlighted Projects</h6>
 
@@ -55,4 +90,7 @@ layout: default
     </div>
 
   </div>
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+  <script src="{{ "/js/our-work-map.js" | prepend: site.baseurl }}"></script>
 </div>

@@ -4,15 +4,12 @@ layout: default
 
 <div class="person-profile">
 
-
   <!--////////////////////////////////-->
   <!--//////// Person Header /////////-->
   <!--////////////////////////////////-->
 
-
   <header class="person-header">
-
-    <div class="person-map-area">
+    <div class="person-map-area" id="person-map-area">
       <div class="person-header-info">
         {% if page.Photo %}
           <div class="person-photo">
@@ -27,9 +24,7 @@ layout: default
         </div>
       </div>
     </div>
-
   </header>
-
 
   <!--////////////////////////////////-->
   <!--///////// Person Body //////////-->
@@ -150,3 +145,10 @@ layout: default
   </div>
 
 </div>
+
+<script>
+  var country = "{{ page.Country }}";
+</script>
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+<script src="{{ "/js/member-map.js" | prepend: site.baseurl }}"></script>

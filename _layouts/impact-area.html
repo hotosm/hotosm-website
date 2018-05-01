@@ -2,28 +2,24 @@
 layout: default
 ---
 
-<div class="project-index impact-area-item-index">
-
-  <div class="project-map-area">
-
-    <div class="project-index-header">
-
-      <div class="container">
-        <div><h1 class="boxed">{{ page.title }}</h1></div>
-        <div class="impact-area-desc">
-          <span>{{ content }}<div class="hr"></div></span>
-        </div>
-      </div>
-
+<div class="project-index">
+  <div class="impact-map-area">
+    <div id="map">
     </div>
 
-    <span class="btn btn-primary btn-map">Explore Map</span>
-
+    <div class="project-index-header" id="impact-areas-select">
+      <div class="container">
+        <h1 class="boxed" id="our-work-title">{{ page.title }}</h1>
+      </div>
+    </div>
+  </div>
+  <div class="impact-area-desc">
+    <span>{{ content }}<div class="hr"></div></span>
   </div>
 
-  <div class="container">
+  <div id="impact-projects" class="container">
 
-    <h6>{{ page.title }} Projects</h6>
+    <h6>Highlighted Projects</h6>
 
     <div class="project-index-highlights">
 
@@ -44,7 +40,7 @@ layout: default
 
     <div class="hr-h"></div>
 
-    <h6>All Projects</h6>
+    <h6>All {{ page.title }} Projects</h6>
 
     <div class="project-index-all">
 
@@ -61,4 +57,8 @@ layout: default
     </div>
 
   </div>
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+  <script src="{{ "/js/impact-areas-map.js" | prepend: site.baseurl }}"></script>
+
 </div>

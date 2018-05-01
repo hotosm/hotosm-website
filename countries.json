@@ -1,0 +1,13 @@
+---
+layout: null
+---
+{
+ {% for country in site.where-we-work %}
+   "{{ country.title | downcase }}": {
+     "continent": "{{ country.continent }}",
+     "hot_program": {% for project in site.projects %}{% if project.Country contains country.title %}true{% break %}{% elsif forloop.last %}false{% endif %}{% endfor %},
+     "community_program": {% for project in site.projects %}{% if country.names contains project.Country and project['Is Community-Led'] %}true{% break %}{% elsif forloop.last %}false{% endif %}{% endfor %},
+     "member": {% for person in site.people %}{% if country.names contains person.Country %}true{% break %}{% elsif forloop.last %}false{% endif %}{% endfor %}
+   } {% unless forloop.last %},{% endunless %}
+{% endfor %}
+}

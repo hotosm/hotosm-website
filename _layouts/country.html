@@ -12,9 +12,15 @@ layout: default
 
   <div class="country-index-header">
 
-    <div class="country-map-area">
-      <div class="country-name"><h1 class="boxed">{{ page.title }}</h1></div>
+    <div class="country-map-area" id="country-map-area">
+      <div class="country-name-wrap">
+        <div class="country-name">
+          <h1 class="boxed">{{ page.title }}</h1>
+        </div>
+      </div>
+      <div class="country-map-wrap" id="country-map-wrap"></div>
     </div>
+
     <div class="country-contact">
       <div class="country-contact-wrapper">
         <h4>Want to start a project in {{ page.title }}?</h4>
@@ -207,3 +213,11 @@ layout: default
   {% endfor %}
 
 </div>
+
+<script>
+  var countryName = "{{ page.urlname }}".split('-').join(' ');
+  var countryCode = "{{ page.names }}".substr(-5, 2);
+</script>
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+<script src="{{ "/js/countries-map.js" | prepend: site.baseurl }}"></script>

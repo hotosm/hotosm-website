@@ -45,7 +45,6 @@ h1, h2 {
     background-color: $red;
     padding: 6px 18px 14px;
     margin-bottom: 0;
-    margin-right: 40px;
     @media (max-width: $screen-sm) {
       padding: 12px 16px 14px;
       margin-right: 24px;
@@ -111,13 +110,17 @@ h5 {
 }
 
 h6 {
-  font-size: 1rem;
+  font-size: .875rem;
   font-weight: bold;
   font-style: normal;
   color: $blue-grey;
   @media (max-width: $screen-xs) {
     font-size: .875rem;
   }
+}
+
+.hide {
+  display: none !important;
 }
 
 a {
@@ -407,6 +410,7 @@ em {
   box-shadow: $default-box-shadow;
   transition: all .2s ease-in-out;
   margin-right: 4px;
+  cursor: pointer;
   &:hover {
     box-shadow: $hover-box-shadow;
   }
@@ -504,7 +508,7 @@ em {
       }
     }
   }
-  &.btn-map {
+  &.btn-expand {
     position: relative;
     padding-right: 40px;
     padding-left: 12px;
@@ -517,6 +521,33 @@ em {
       width: 14px;
       height: 14px;
       background-image: url(../images/icon-map-expand.svg);
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: contain;
+    }
+    @media (max-width: $screen-xs) {
+      font-size: 0.875rem;
+      padding-right: 36px;
+      padding-bottom: 13px;
+      &:after {
+        width: 12px;
+        height: 12px;
+      }
+    }
+  }
+  &.btn-close {
+    position: relative;
+    padding-right: 40px;
+    padding-left: 12px;
+    &:after {
+      content: '';
+      display: inline-block;
+      position: absolute;
+      top: 9px;
+      right: 8px;
+      width: 22px;
+      height: 22px;
+      background-image: url(../images/icon-close.svg);
       background-repeat: no-repeat;
       background-position: center center;
       background-size: contain;
@@ -561,6 +592,27 @@ em {
   &.btn-block {
     display: block;
     margin-right: 0;
+  }
+}
+
+.back-btn {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 0.875rem;
+  cursor: pointer;
+  &:before {
+    content: '';
+    display: inline-block;
+    width: 6px;
+    height: 9px;
+    background-image: url(../images/chevron-red-thick.svg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 6px 9px;
+    margin-right: 5px;
+    position: relative;
+    transform: scaleX(-1);
+    transition: background-position .3s ease;
   }
 }
 
@@ -2197,19 +2249,43 @@ em {
   }
 }
 
+#map {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.impact-map-area {
+  width: 100%;
+  height: 412px;
+  position: relative;
+}
+
+
 .project-map-area {
   height: 500px;
-  background-color: tint($red, 85%);
+  width: 100%;
   margin-bottom: 40px;
-  position: relative;
+  position: absolute;
   border-bottom: 1px solid $border-color;
+  overflow: hidden;
   @media (min-width: $screen-sm) {
-    height: 564px;
+    height: 624px;
     margin-top: -64px;
   }
-  .btn-map {
+  #expand-map-btn, #close-map-btn {
     position: absolute;
-    bottom: 24px;
+    top: -66px;
     right: 40px;
     @media (max-width: $screen-xs) {
       top: 16px;
@@ -2219,6 +2295,39 @@ em {
       font-size: 0.875rem;
     }
   }
+}
+
+#our-work-projects {
+  padding-top: 540px;
+  @media (min-width: $screen-sm) {
+    padding-top: 600px;
+  }
+}
+
+.our-work-map-legend {
+  margin-top: 70px;
+  margin-right: 40px;
+  position: relative;
+  display: block;
+  float: right;
+  z-index: 4;
+  background-color: $red;
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 4px 5px 1px 6px;
+  border-radius: 2px;
+}
+
+.our-work-map-legend > div > svg {
+  height: 15px;
+  width: 15px;
+  vertical-align: middle;
+}
+
+.our-work-map-legend > div > span {
+  padding-top: 4px;
+  vertical-align: middle;
 }
 
 .country-index {
@@ -2239,17 +2348,30 @@ em {
 }
 
 .country-map-area {
-  background-color: tint($red, 85%);
+  background-color: #FDF3F3;
   grid-column: 1 / 3;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  @media (min-width: $screen-xs) {
-    padding-top: 64px;
+  position: relative;
+  .country-name-wrap {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .country-map-wrap {
+    position: absolute;
+    top: 64px;
+    right: 0;
+    bottom: 0;
+    left: 0;
   }
   .country-name {
     margin: 0 auto;
     padding: 40px;
+    z-index: 1;
     &:after {
       content: '';
       display: block;
@@ -2264,6 +2386,14 @@ em {
       text-align: center;
     }
   }
+}
+
+#country-map-area {
+  margin-top: -28px;
+}
+
+.mapboxgl-canvas-container {
+  position: absolute;
 }
 
 .country-contact {
@@ -2318,6 +2448,22 @@ em {
   bottom: 0;
   right: 0;
   left: 0;
+  transition: all .3s ease;
+  &.hidden {
+    bottom: -400px;
+  }
+}
+
+#regions-select {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  transition: all .3s ease;
+  min-height: 146px;
+  &.hidden {
+    bottom: -400px;
+  }
 }
 
 .impact-area-item-index {
@@ -2329,6 +2475,7 @@ em {
 .impact-area-desc {
   display: grid;
   grid-template-columns: repeat(24, 1fr);
+  margin-bottom: 40px;
   span {
     background-color: $blue-dark;
     padding: 22px;
@@ -2356,9 +2503,10 @@ em {
   }
 }
 
-.project-index-areas {
-  padding: 24px 0 20px;
+.our-work-filters {
+  padding: 28px 0 18px;
   background-color: rgba(255,255,255,.65);
+  position: relative;
   @media (max-width: $screen-xs) {
     padding: 16px 0 14px;
   }
@@ -2377,6 +2525,26 @@ em {
 .areas-wrapper {
   @media (max-width: $screen-xs) {
     width: 1000px;
+  }
+}
+
+.map-impact-area {
+  display: inline-block;
+  font-weight: normal;
+  font-size: 1.125rem;
+  color: $blue-dark;
+  text-decoration: none;
+  margin: 0 16px 16px 0;
+  border-bottom: 1px solid #b5b7b9;
+  &:hover {
+    border-bottom: 1px solid $red;
+  }
+}
+
+#our-work-title {
+  transition: all .25s ease;
+  &.hidden {
+
   }
 }
 
@@ -2894,25 +3062,25 @@ em {
 
 .person-header {
   margin-bottom: 16px;
+  background-color: $red-light;
   @media (min-width: $screen-xs) {
     margin-bottom: 40px;
+    min-height: 221px;
+  }
+  @media (min-width: $screen-sm) {
+    min-height: 233px;
   }
 }
 
+#person-map-area > .mapboxgl-canvas-container {
+  top: 0px;
+}
+
 .person-map-area {
-  background-color: tint($red, 85%);
-  background-image: url(../uploads/portugal-sample.png);
-  background-position: center center;
-  background-size: cover;
-  padding: 16px;
-  position: relative;
-  @media (min-width: $screen-xs) {
-    padding: 40px;
-  }
+  position: absolute;
   &:after {
     content: '';
     display: block;
-    background-color: $red;
     position: absolute;
     top: 0;
     right: 0;
@@ -2924,6 +3092,10 @@ em {
 }
 
 .person-header-info {
+  @media (min-width: $screen-xs) {
+    margin: 40px;
+  }
+  margin: 16px;
   z-index: 10;
   display: flex;
   position: relative;
@@ -2967,6 +3139,8 @@ em {
   padding: 19px 21px;
   a {
     color: $white;
+    font-family: $font-default;
+    font-size: 1rem;
     &:after {
       content: '·';
       display: inline-block;
@@ -3867,4 +4041,12 @@ em {
   &:hover {
     box-shadow: $default-box-shadow;
   }
+}
+
+.regions-link {
+  display: inline-block;
+  padding: 0 16px 16px 0;
+  color: #2C3038;
+  text-decoration: underline;
+  cursor: pointer;
 }

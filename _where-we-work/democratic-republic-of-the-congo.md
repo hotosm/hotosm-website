@@ -5,7 +5,6 @@ urlname: congo-kinshasa
 names:
 - Congo (Kinshasa)
 - Democratic Republic of the Congo
-- CD
+- CO
 - COD
 ---
-
