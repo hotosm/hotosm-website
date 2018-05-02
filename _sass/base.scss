@@ -2255,14 +2255,12 @@ em {
   right: 0;
   bottom: 0;
   left: 0;
-}
-
-.right {
-  float: right;
-}
-
-.left {
-  float: left;
+  .right {
+    float: right;
+  }
+  .left {
+    float: left;
+  }
 }
 
 .impact-map-area {
