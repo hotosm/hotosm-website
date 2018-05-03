@@ -11,6 +11,7 @@ Working Group:
 - Security
 Country: United States
 Social Media (Full URL):
+  OSM: TylerOSM
   Twitter: https://twitter.com/TylerSRadford
   LinkedIn: https://www.linkedin.com/in/tylerradford
 redirect_from:
