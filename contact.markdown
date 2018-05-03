@@ -52,7 +52,7 @@ Office Locations:
   Nav ID: office-locations
 Journalists:
   Details: |-
-    Vestibulum id ligula porta felis euismod semper. Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla.
+    Vestibulum id ligula porta felis euismod semper. Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Tyler
 
     Contact us: [info@hotosm.org](info@hotosm.org)
   Nav ID: journalists
