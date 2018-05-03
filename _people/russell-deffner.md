@@ -31,6 +31,7 @@ Project:
 - Microgrants and Community Development
 - Eastern Afghanistan Earthquake
 - "#mapthedifference"
+- Indonesia Disaster Management Innovation
 Country: United States
 Social Media (Full URL):
   OSM: https://openstreetmap.org/user/russdeffner
