@@ -37,6 +37,7 @@ collections:
   working-groups:
     title: Working Groups
     output: true
+    permalink: "/community/working-groups/:path/"
 defaults:
 - scope:
     path: ''
