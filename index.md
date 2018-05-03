@@ -4,7 +4,6 @@ position: 0
 Project:
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
 - Dar Ramani Huria — Dar Open Map
-- Microgrants and Community Development
 Stats:
   Community Mappers: 
   Total Map Edits: 
