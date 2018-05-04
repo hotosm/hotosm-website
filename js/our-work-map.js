@@ -122,6 +122,31 @@ map.on('load', function () {
       $(location).attr('href', '/where-we-work/' + country_name);
     }
   });
+
+  var lastCountry;
+  map.on('mousemove', function(e) {
+    var areaHover = map.queryRenderedFeatures(
+      e.point,
+      {layers: ['member_countries', 'project_countries']}
+    );
+    if (areaHover.length) {
+      map.getCanvas().style.cursor = 'pointer';
+      if (lastCountry !== areaHover[0].properties.NAME_LONG) {
+        $("#hover-country").empty();
+        $("#hover-country").append(
+          '<p><strong>' + areaHover[0].properties.NAME_LONG + '</strong></p>' +
+          '<p>(click on the country to see the details)</p>'
+        );
+        lastCountry = areaHover[0].properties.NAME_LONG;
+      }
+      console.log(areaHover[0].properties.name_low);
+    } else {
+      console.log('limpando');
+      map.getCanvas().style.cursor = '';
+      lastCountry = '';
+      $("#hover-country").empty();
+    }
+  });
 });
 
 var fullMap = false;
@@ -130,12 +155,10 @@ function expandMap() {
   if (fullMap) {
     map.scrollZoom.disable();
     $('.project-index-header').removeClass('hidden');
-    $('.our-work-map-legend').addClass('hide');
     $('.mapboxgl-ctrl').addClass('hide');
     $('#regions-select').addClass('hidden');
   } else {
     map.scrollZoom.enable();
-    $('.our-work-map-legend').removeClass('hide');
     $('.project-index-header').addClass('hidden');
     $('.home-highlights-wrapper').addClass('right');
     $('.home-highlights-wrapper').addClass('right');
