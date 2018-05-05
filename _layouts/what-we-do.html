@@ -29,7 +29,18 @@ layout: default
           <h5>Projects to check out</h5>
           <ul>
             {% for project in page['Block 1'].Project %}
-              <li><a href="{{ project.url }}">{{ project }}</a></li>
+
+              {% comment %}
+                The for loop below seems to be required to get the project url
+              {% endcomment %}
+
+              {% for p in site.projects %}
+                {% if p.title == project %}
+                    {% capture pURL %} {{p.url}} {% endcapture %}
+                    {% break %}     
+                {% endif %}
+              {% endfor %}
+              <li><a href="{{ pURL }}">{{ project }}</a></li>
             {% endfor %}
           </ul>
         </div>
@@ -49,7 +60,18 @@ layout: default
           <h5>Projects to check out</h5>
           <ul>
             {% for project in page['Block 2'].Project %}
-              <li><a href="{{ project.url }}">{{ project }}</a></li>
+              
+              {% comment %}
+                The for loop below seems to be required to get the project url
+              {% endcomment %}
+
+              {% for p in site.projects %}
+                {% if p.title == project %}
+                    {% capture pURL %} {{p.url}} {% endcapture %}
+                    {% break %}     
+                {% endif %}
+              {% endfor %}
+              <li><a href="{{ pURL }}">{{ project }}</a></li>
             {% endfor %}
           </ul>
         </div>
@@ -69,7 +91,18 @@ layout: default
           <h5>Projects to check out</h5>
           <ul>
             {% for project in page['Block 3'].Project %}
-              <li><a href="{{ project.url }}">{{ project }}</a></li>
+
+              {% comment %}
+                The for loop below seems to be required to get the project url
+              {% endcomment %}
+
+              {% for p in site.projects %}
+                {% if p.title == project %}
+                    {% capture pURL %} {{p.url}} {% endcapture %}
+                    {% break %}     
+                {% endif %}
+              {% endfor %}
+              <li><a href="{{ pURL }}">{{ project }}</a></li>
             {% endfor %}
           </ul>
         </div>
