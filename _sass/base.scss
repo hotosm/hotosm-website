@@ -2303,14 +2303,13 @@ em {
 }
 
 .our-work-map-legend {
-  margin-top: 70px;
+  margin-top: 75px;
   margin-right: 40px;
   position: relative;
   display: block;
   float: right;
   z-index: 4;
-  background-color: $red;
-  color: #fff;
+  background-color: #fff;
   font-size: 12px;
   font-weight: bold;
   padding: 4px 5px 1px 6px;
@@ -2326,6 +2325,26 @@ em {
 .our-work-map-legend > div > span {
   padding-top: 4px;
   vertical-align: middle;
+}
+
+.legend-blue {
+  color: $blue-light;
+}
+
+.legend-red {
+  color: $red;
+}
+
+#hover-country {
+  margin-top: 75px;
+  position: absolute;
+  display: inline-block;
+  z-index: 4;
+  max-width: 150px;
+  background-color: #fff;
+  padding: 4px 5px 1px 6px;
+  border-radius: 2px;
+  font-size: 12px;
 }
 
 .country-index {
