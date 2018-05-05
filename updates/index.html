@@ -35,6 +35,9 @@ layout: default
                   <p class="news-index-author">{{ author.title }}</p>
               {% endif %}
               <p class="news-index-date">{{ post.date | date: '%e %B, %Y' }}</p>
+              {% if post.Country %}
+              <p class="news-index-country">{{ post.Country | first }}</p>
+              {% endif %}
             </div>
 
             <div class="news-list-summary-text">
@@ -79,6 +82,7 @@ layout: default
                 {% assign author = site.people | where: "title", post.Person | first %}
                   <p class="news-index-author">
                     {% include author.html %} — {{ post.date | date: '%e %B, %Y' }}</p>
+                    <p class="news-index-date">{% if post.Country %} {{ post.Country | join: ", " }} {% endif %}</p>
               </div>
             </div>
 
