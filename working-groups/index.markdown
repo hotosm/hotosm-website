@@ -1,10 +1,10 @@
 ---
 title: Working Groups
+permalink: "/community/working-groups/"
 position: 0
 layout: groups
-permalink: /community/working-groups/
 redirect_from:
-  - /working-groups
+- "/working-groups"
 ---
 
 Description of working groups, how they are used by HOT and along

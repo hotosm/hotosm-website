@@ -1,8 +1,8 @@
 ---
 title: Support Programs
 date: 2018-03-09 09:19:00 Z
+permalink: "/community/support-programs/"
 layout: page
-permalink: /community/support-programs/
 Intro Text: A short intro to the program
 Page Contact:
   Label: draft
