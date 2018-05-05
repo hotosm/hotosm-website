@@ -1,9 +1,9 @@
 ---
-Person: Rachel VanNice
-date: '2018-04-12 17:54:15 Z'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_2897.JPG
-permalink: updates/2018-04-12_hot_summit_at_foss4g_2018_updates
 title: HOT Summit at FOSS4G 2018 Updates
+date: 2018-04-12 17:54:15 Z
+permalink: updates/2018-04-12_hot_summit_at_foss4g_2018_updates
+Person: Rachel VanNice
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_2897.JPG
 created: 1523555655
 ---
 

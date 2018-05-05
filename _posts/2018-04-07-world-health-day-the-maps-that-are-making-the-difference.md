@@ -1,12 +1,12 @@
 ---
+title: 'World Health Day: The maps that are making the difference'
+date: 2018-04-07 10:47:14 Z
+permalink: updates/2018-04-07_world_health_day_the_maps_that_are_making_the_difference
 Person: Amelia Hunt
-date: '2018-04-07 10:47:14 Z'
 Working Group:
 - Community
 Projects: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/johnsnow.jpg
-permalink: updates/2018-04-07_world_health_day_the_maps_that_are_making_the_difference
-title: 'World Health Day: The maps that are making the difference'
 created: 1523098034
 ---
 

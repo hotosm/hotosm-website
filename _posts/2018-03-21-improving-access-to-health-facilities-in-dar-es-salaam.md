@@ -1,16 +1,17 @@
 ---
+title: Improving Access to Health Facilities in Dar es Salaam
+date: 2018-03-21 06:59:16 Z
+permalink: updates/2018-03-21_improving_access_to_health_facilities_in_dar_es_salaam
 Person: Amelia Hunt
-date: '2018-03-21 06:59:16 Z'
 Working Group:
 - Community
 Country: Tanzania
 Projects:
 - Dar Ramani Huria - Dar Open Map
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Time+to+Maternity+in+Temeke.jpg
-permalink: updates/2018-03-21_improving_access_to_health_facilities_in_dar_es_salaam
-title: Improving Access to Health Facilities in Dar es Salaam
 created: 1521615556
 ---
+
 *Written by Hawa Adinani and Amelia Hunt - HOT Tanzania team*
 
 In Dar es Salaam, the HOT Tanzania team have been mapping healthcare data in Temeke District in collaboration with Data Zetu. Local residents have been asked specific questions about maternal health, infant health and senior health care services such as access and travel time to health facilities. Using the community-driven data collection model, community members have conducted over 22,882 health care surveys so far. The digitised maps of healthcare access issues will help shape the development of facilities in Dar es Salaam.

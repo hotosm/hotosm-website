@@ -1,6 +1,8 @@
 ---
+title: 'Update: Open Data Day in Mwanza, Tanzania'
+date: 2018-03-26 12:00:34 Z
+permalink: updates/2018-03-26_update_open_data_day_in_mwanza_tanzania
 Person: Amelia Hunt
-date: '2018-03-26 12:00:34 Z'
 Working Group:
 - Community
 Projects:
@@ -8,10 +10,9 @@ Projects:
 Country:
 - Tanzania
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/mwanzatraining.PNG
-permalink: updates/2018-03-26_update_open_data_day_in_mwanza_tanzania
-title: 'Update: Open Data Day in Mwanza, Tanzania'
 created: 1522065634
 ---
+
 *Guest Blog - Janet Chapman, Founder of Crowd2Map and Campaigns Manager Tanzania Development Trust*
 
 To commemorate <a href="https://opendataday.org/">Open Data Day</a> on March 3rd, <a href="https://crowd2map.wordpress.com/">Crowd2Map</a> and Humanitarian OpenStreetMap Team Tanzania organised a free 3 day training conference on how Open Data and Mapping using OpenStreetMap can aid development in Tanzania. Over 90 people from across Tanzania attended the event at the Institute of Rural Development Planning in Mwanza, including community mapping groups from Kigoma, Kagera, Mara and other regions, students from IRDP Mwanza and Dodoma, as well as representatives from Tanzania Red Cross, Tanzania Wildlife Service, Uwezo and many other organisations.

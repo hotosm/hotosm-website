@@ -1,8 +1,8 @@
 ---
-Person: Tyler Radford
-date: '2018-04-10 20:45:24 Z'
-permalink: updates/2018-04-10_update_on_hot’s_strategic_planning_process
 title: Update on HOT’s Strategic Planning Process
+date: 2018-04-10 20:45:24 Z
+permalink: updates/2018-04-10_update_on_hot’s_strategic_planning_process
+Person: Tyler Radford
 created: 1523393124
 ---
 

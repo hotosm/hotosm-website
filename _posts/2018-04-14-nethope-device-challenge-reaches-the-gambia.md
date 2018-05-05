@@ -1,6 +1,8 @@
 ---
+title: Nethope Device Challenge reaches the Gambia
+date: 2018-04-14 07:46:48 Z
+permalink: updates/2018-04-14_nethope_device_challenge_reaches_the_gambia
 Person: Amelia Hunt
-date: '2018-04-14 07:46:48 Z'
 Working Group:
 - Community
 Projects:
@@ -8,8 +10,6 @@ Projects:
 Country:
 - Gambia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG-20180416-WA0037.jpg
-permalink: updates/2018-04-14_nethope_device_challenge_reaches_the_gambia
-title: Nethope Device Challenge reaches the Gambia
 created: 1523692008
 ---
 

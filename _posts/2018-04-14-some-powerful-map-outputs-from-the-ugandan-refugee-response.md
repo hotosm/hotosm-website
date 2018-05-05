@@ -1,15 +1,16 @@
 ---
+title: Some Powerful Map Outputs From The Ugandan Refugee Response
+date: 2018-04-14 08:14:19 Z
+permalink: updates/2018-04-14_some_powerful_map_outputs_from_the_ugandan_refugee_response
 Person: Rupert Allan
-date: '2018-04-14 08:14:19 Z'
 Projects:
 - Missing Maps
 Country:
 - Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/27580116_959865527505210_4064508284428615680_n.jpg
-permalink: updates/2018-04-14_some_powerful_map_outputs_from_the_ugandan_refugee_response
-title: Some Powerful Map Outputs From The Ugandan Refugee Response
 created: 1523693659
 ---
+
 *Image: Waiting for Water - Long queues of Jerrycans at the dried-out borehole near BidiBidi Refugee Settlement*
 
 Since December 2017, HOT Uganda Community Surveyors have mapped more than eleven thousand geopoints in and around some of the biggest refugee settlements in the world. These are located in Northern Uganda south sudanese refugee response areas. This is not one refugee camp, but several.

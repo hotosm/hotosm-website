@@ -1,13 +1,13 @@
 ---
+title: Empowering female mappers in Nigeria
+date: 2018-03-28 09:49:01 Z
+permalink: updates/2018-03-28_empowering_female_mappers_in_nigeria
 Person: Amelia Hunt
-date: '2018-03-28 09:49:01 Z'
 Working Group:
 - Community
 Country:
 - Nigeria
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/LetGirlsMap5.jpg
-permalink: updates/2018-03-28_empowering_female_mappers_in_nigeria
-title: Empowering female mappers in Nigeria
 created: 1522230541
 ---
 

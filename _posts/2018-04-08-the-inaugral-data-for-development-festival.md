@@ -1,9 +1,9 @@
 ---
-Person: Geoffrey Kateregga
-date: '2018-04-08 11:42:34 Z'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image666.png
-permalink: updates/2018-04-08_the_inaugral_data_for_development_festival
 title: The Inaugral Data for Development Festival
+date: 2018-04-08 11:42:34 Z
+permalink: updates/2018-04-08_the_inaugral_data_for_development_festival
+Person: Geoffrey Kateregga
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image666.png
 created: 1523187754
 ---
 

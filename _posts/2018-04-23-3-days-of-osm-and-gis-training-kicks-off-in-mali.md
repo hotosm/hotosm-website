@@ -1,13 +1,13 @@
 ---
+title: 3 days of OSM and GIS training kicks off in Mali!
+date: 2018-04-23 10:38:39 Z
+permalink: updates/2018-04-23_3_days_of_osm_and_gis_training_kicks_off_in_mali
 Person: Amelia Hunt
-date: '2018-04-23 10:38:39 Z'
 Working Group:
 - Community
 Country:
 - Mali
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/osmmali.PNG
-permalink: updates/2018-04-23_3_days_of_osm_and_gis_training_kicks_off_in_mali
-title: 3 days of OSM and GIS training kicks off in Mali!
 created: 1524479919
 ---
 

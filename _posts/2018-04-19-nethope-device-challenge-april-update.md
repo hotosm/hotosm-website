@@ -1,6 +1,8 @@
 ---
+title: Nethope Device Challenge - April Update!
+date: 2018-04-19 13:40:20 Z
+permalink: updates/2018-04-19_nethope_device_challenge_april_update
 Person: Amelia Hunt
-date: '2018-04-19 13:40:20 Z'
 Working Group:
 - Community
 Projects:
@@ -16,8 +18,6 @@ Country:
 - Uganda
 - Zambia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20180408_121822.jpg
-permalink: updates/2018-04-19_nethope_device_challenge_april_update
-title: Nethope Device Challenge - April Update!
 created: 1524145220
 ---
 

@@ -1,6 +1,8 @@
 ---
+title: 'Microgrants 2018: HOT supports eight OSM communities!'
+date: 2018-04-20 22:02:49 Z
+permalink: updates/2018-04-20_microgrants_2018_hot_supports_eight_osm_communities
 Person: Rebecca Firth
-date: '2018-04-20 22:02:49 Z'
 Working Group:
 - Communications
 Country:
@@ -13,10 +15,9 @@ Country:
 - Peru
 - Sri Lanka
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/MG2018.PNG
-permalink: updates/2018-04-20_microgrants_2018_hot_supports_eight_osm_communities
-title: 'Microgrants 2018: HOT supports eight OSM communities!'
 created: 1524261769
 ---
+
 We are pleased to announce the launch of this year’s Microgrant programme, which will support communities across South America, the Caribbean, West Africa and Southeast Asia. Thanks to the huge success of this year’s <a style="text-decoration: none;" href="https://hotosm.org/donate">#mapthedifference campaign</a> and the generous contributions of donors, eight communities will receive Microgrants to help them expand their activities to improve the use of OpenStreetMap to minimise the impact of disasters in their local areas. This is the second year we have run this programme. After much deliberation over the 50 applications received, we’re pleased to announce the Micrograntees for 2018:
 
 ### Benin - OSM Benin

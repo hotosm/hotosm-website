@@ -1,9 +1,9 @@
 ---
-Person: Alyssa Wright
-date: '2018-04-09 12:21:14 Z'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/38424798-2a5a569a-3980-11e8-81ed-35e6f31926dd+copy.jpg
-permalink: updates/2018-04-09_osm_quality_reporting_malaria_prevention
 title: 'OSM Quality Reporting: Malaria Prevention'
+date: 2018-04-09 12:21:14 Z
+permalink: updates/2018-04-09_osm_quality_reporting_malaria_prevention
+Person: Alyssa Wright
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/38424798-2a5a569a-3980-11e8-81ed-35e6f31926dd+copy.jpg
 created: 1523276474
 ---
 

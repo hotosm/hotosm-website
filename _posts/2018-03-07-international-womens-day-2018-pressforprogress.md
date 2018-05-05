@@ -1,13 +1,13 @@
 ---
+title: 'International Women’s Day 2018: #pressforprogress'
+date: 2018-03-07 17:09:34 Z
+permalink: updates/2018-03-07_international_women’s_day_2018_pressforprogress
 Person: Rebecca Firth
-date: '2018-03-07 17:09:34 Z'
 Working Group:
 - Community
 Projects:
 - Microgrants and Community Development
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen%20Shot%202018-03-07%20at%2012.13.18_0.png
-permalink: updates/2018-03-07_international_women’s_day_2018_pressforprogress
-title: 'International Women’s Day 2018: #pressforprogress'
 created: 1520442574
 ---
 

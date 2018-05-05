@@ -1,16 +1,17 @@
 ---
+title: Engaging with Youth, HOT’s Uni Battle Map Winner Becomes the First YouthMappers
+  Chapter in Indonesia
+date: 2018-04-26 09:51:09 Z
+permalink: updates/2018-04-26_engaging_with_youth_hot’s_uni_battle_map_winner_becomes_the_first_youthmappers
 Person: Biondi Sanda Sima
-date: '2018-04-26 09:51:09 Z'
 Projects:
 - Indonesia Disaster Management Innovation
 Country:
 - Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2018-04-26+at+4.48.43+PM.png
-permalink: updates/2018-04-26_engaging_with_youth_hot’s_uni_battle_map_winner_becomes_the_first_youthmappers
-title: Engaging with Youth, HOT’s Uni Battle Map Winner Becomes the First YouthMappers
-  Chapter in Indonesia
 created: 1524736269
 ---
+
 Youth is a critical partner in carrying out HOT’s mission. We worked together with university students and young people since the very inception of HOT in Indonesia. Youth is a tech native and is very agile in absorbing lessons, processing data, and making use of the innovative tools we developed. HOT has collaborated with 25 universities and academic institutions as proxies to engage with youth.
 
 Scaling up HOT’s endeavours to provide exposure data in Indonesia, especially in the 136 disaster prone cities and villages, HOT proactively explores new opportunities to deepen its engagement with youth. HOT does this in two ways. First, HOT pioneered a programme where multiple universities can be engaged in parallel but also in a shorter amount of time. Second, HOT aims to assist the initiation of university-base communities to self-organize and pass around our training materials to their peers and incoming students. The first endeavour was executed through a nation-wide remote mapping competition, called Uni Battle Mapping, whilst the latter was manifested through collaboration with YouthMappers.

@@ -1,13 +1,13 @@
 ---
+title: Mapping to support local NGOs in Kenya
+date: 2018-04-12 14:37:01 Z
+permalink: updates/2018-04-12_mapping_to_support_local_ngos_in_kenya
 Person: Amelia Hunt
-date: '2018-04-12 14:37:01 Z'
 Working Group:
 - Community
 Country:
 - Kenya
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/thika.jpg
-permalink: updates/2018-04-12_mapping_to_support_local_ngos_in_kenya
-title: Mapping to support local NGOs in Kenya
 created: 1523543821
 ---
 

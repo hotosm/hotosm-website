@@ -1,16 +1,17 @@
 ---
+title: HOT InAWARE Project Relocates to Mapping Lifeline Infrastructures in Semarang
+date: 2018-03-12 03:34:05 Z
+permalink: updates/2018-03-12_hot_inaware_project_relocates_to_mapping_lifeline_infrastructures_in_semarang
 Person: Biondi Sanda Sima
-date: '2018-03-12 03:34:05 Z'
 Projects:
 - USAID
 - BNPB
-- "InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
-  Project in Indonesia"
+- 'InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
+  Project in Indonesia'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2018-03-12+at+10.33.16+AM.png
-permalink: updates/2018-03-12_hot_inaware_project_relocates_to_mapping_lifeline_infrastructures_in_semarang
-title: HOT InAWARE Project Relocates to Mapping Lifeline Infrastructures in Semarang
 created: 1520825645
 ---
+
 By the end of 2017, HOT concluded the mapping of lifeline infrastructure in Indonesia’s capital, Jakarta. Our data entry specialists swept through 44 subdistricts and 267 villages in just 6 months. Over 1.5 million buildings, 12 million km roads, 24,000 &nbsp;public facilities are now mapped in OpenStreetMap (OSM) as the result of this project. The number of buildings mapped in Jakarta is now 33 times larger than before the project started, and over 10 thousands kilometres longer for the mapped highways and roads.
 
 <img style="border: none; transform: rotate(0.00rad); -webkit-transform: rotate(0.00rad);width:476px;height:281;" src="https://lh3.googleusercontent.com/VdGKxHfiqPkrbU_y4m0_KIEfAMF62bm9tAr69QVnt8Y6RwO8IimYZp0t6-c77T0THRaw6ZFU08g2hnPHKHwuM-709mVLI2EFt8SlJkaIeOA7JqbX_GHSkYxFLhZMT_--RP9gWTsw" alt="">
