@@ -2,6 +2,9 @@
 title: Working Groups
 position: 0
 layout: groups
+permalink: /community/working-groups/
+redirect_from:
+  - /working-groups
 ---
 
 Description of working groups, how they are used by HOT and along
