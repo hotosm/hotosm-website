@@ -93,7 +93,23 @@ layout: default
               <p class="news-preview-meta">{{ post.date | date: '%e %b %Y' }}</p>
               <div class="news-preview-text">
                 <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
-                <p>{{ post['Summary Text'] }}</p>
+                <p>
+                  {% if post['Summary Text'] %}
+                    {{ post['Summary Text']}}
+                  {% else %}
+                    {{ post.excerpt | strip_html | truncatewords:24 }}
+                  {% endif %}
+                </p>
+                <p class="news-preview-meta">
+                  {% if post.Country %}
+                    {{ post.Country | first }} — 
+                  {% endif %}
+                  {% capture post.Person %}{% endcapture %}
+                  {% assign author = site.people | where: "title", post.Person | first %}
+                  {% if post.Person %}
+                    {{ author.title }}
+                  {% endif %}
+                </p>
               </div>
             </div>
           </div>
