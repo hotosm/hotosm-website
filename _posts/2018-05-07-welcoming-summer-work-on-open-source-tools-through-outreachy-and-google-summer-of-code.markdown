@@ -6,6 +6,7 @@ Feature Image: "/uploads/Photo-Mar-02,-06-43-47-2-compressor.jpg"
 Person: Nate Smith
 Working Group:
 - Technical
+redirect_from: "/2018-05-04_welcoming_summer_work_on_open_source_tools_through_outreachy_and_google_summer_of"
 ---
 
 Welcome to the new Google Summer of Code and Outreachy students! The HOT Community is getting a significant amount of support this summer on our open source tools. Through the generous efforts of the [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Outreachy](https://www.outreachy.org/) programs and sponsorship by the [DIAL Open Source Center](http://www.osc.dial.community/), we have four new students and interns working with HOT and our partner organizations. [OpenAerialMap](https://openaerialmap.org/), [Tasking Manager](https://tasks.hotosm.org/), [MapCampaigner](http://campaigns.hotosm.org/all), and the upcoming new HOT website will be the focus this summer. 
