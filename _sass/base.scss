@@ -3248,6 +3248,7 @@ em {
   @media (min-width: $screen-xs) {
     grid-template-columns: repeat(2, 1fr);
   }
+  margin-bottom: 40px;
 }
 
 .roster-content {

@@ -13,9 +13,6 @@ layout: default
 
       <div class="roster-content article">
         {{ content }}
-        {% if page.title contains 'HOT Team' %}
-          <a href="/jobs" class="btn btn-primary btn-block btn-chevron">Current vacancies</a>
-        {% endif %}
       </div>
 
       <div class="roster-list">
@@ -23,9 +20,7 @@ layout: default
 
           {% assign sorted-people = site.people | sort: 'date' | reverse %}
           {% for person in sorted-people %}
-            {% if page.title contains 'HOT Team' and person['Member Type']['Is Staff'] %}
-              {% include blocks/roster-item.html %}
-            {% elsif page.title contains 'Voting Members' and person['Member Type']['Is Voting Member'] %}
+            {% if page.title contains 'Voting Members' and person['Member Type']['Is Voting Member'] %}
               {% include blocks/roster-item.html %}
             {% elsif page.title contains 'Board' and person['Member Type']['Is Board Member'] %}
               {% include blocks/roster-item.html %}
