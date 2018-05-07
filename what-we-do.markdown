@@ -35,12 +35,17 @@ Block 3:
   - 'LEGIT: Supporting decentralization in Liberian cities'
 Block 4:
   Header: Working to support and build OpenStreetMap
-  Text: All of this work is done through <a href="https://www.openstreetmap.org/">OpenStreetMap</a>. OpenStreetMap is the community-driven free and editable map of the world, supported by the not-for-profit OpenStreetMap Foundation. HOT works around the globe to support and increase the use of OpenStreetMap and help build local OpenStreetMap communities.  
+  Text: All of this work is done through <a href="https://www.openstreetmap.org/">OpenStreetMap</a>.
+    OpenStreetMap is the community-driven free and editable map of the world, supported
+    by the not-for-profit OpenStreetMap Foundation. HOT works around the globe to
+    support and increase the use of OpenStreetMap and help build local OpenStreetMap
+    communities.
   Image: "/uploads/osm-landing-page.png"
-  Links: 
+  Links:
   - <a href="https://wiki.osmfoundation.org/wiki/Main_Page">OpenStreetMap Foundation</a>
   - <a href="https://wiki.openstreetmap.org/wiki/Main_Page">OSM Wiki</a>
-  - <a href="http://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists">Local community discussions</a>
+  - <a href="http://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists">Local
+    community discussions</a>
 layout: what-we-do
 ---
 
