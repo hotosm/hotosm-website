@@ -53,6 +53,14 @@ layout: default
         </div>
       {% endif %}
 
+      {% if page['Page Link'] %}
+        <p class="meta-p">{{ page['Page Link']['Text'] }}</p>
+        <div class="sticky-wrap">
+          <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Page Link']['Link'] }}">{{ page['Page Link']['Label'] }}</a>
+        </div>
+      {% endif %}
+
+
     </aside>
 
   </div>

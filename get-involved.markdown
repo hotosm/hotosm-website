@@ -21,7 +21,7 @@ block-2:
   Image: "/uploads/id-mapathon.jpeg"
   Link: "/volunteer"
 block-3:
-  Title: Join the conversation online
+  Title: Join our Slack community online
   Text: Sign up for the mailiing list below or join the community online via Slack
     or IRC. On Slack, you can join topic based channels to hear about what is going
     on, ask questions, or communicate with community members.

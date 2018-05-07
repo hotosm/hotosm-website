@@ -1,0 +1,67 @@
+---
+layout: default
+---
+
+<div class="roster">
+  <div class="container">
+
+    <header class="page-header roster-header">
+      <h1>{{ page.title }}</h1>
+    </header>
+
+    <!-- based on the grid, placing first country title above content grid for alignment -->
+    <h2>Indonesia</h2>
+
+    <div class="roster-body">
+
+      <div class="roster-content article">
+        {{ content }}
+        <a href="/jobs" class="btn btn-primary btn-block btn-chevron">Current vacancies</a>
+      </div>
+
+      <div class="roster-list">
+        
+          {% assign sorted-people = site.people | sort: 'date' | reverse %}
+                <div class="roster-list-wrapper">
+                {% for person in sorted-people %}
+                {% if person.Country == 'Indonesia' and person['Member Type']['Is Staff'] %}
+                {% include blocks/roster-item.html %}
+                {% endif %}
+                {% endfor %}
+                </div>
+
+                <h2>Uganda</h2>
+                <div class="roster-list-wrapper">
+                {% for person in sorted-people %}
+                {% if person.Country == 'Uganda' and person['Member Type']['Is Staff'] %}
+
+                {% include blocks/roster-item.html %}
+                {% endif %}
+                {% endfor %}
+                </div>
+
+                <h2>Tanzania</h2>
+                <div class="roster-list-wrapper">
+                {% for person in sorted-people %}
+                {% if person.Country == 'Tanzania' and person['Member Type']['Is Staff'] %}
+
+                {% include blocks/roster-item.html %}
+                {% endif %}
+                {% endfor %}
+                </div>
+
+                <h2>Global</h2>
+                <div class="roster-list-wrapper">
+                {% for person in sorted-people %}
+                {% if person.Country != 'Uganda' and person.Country != 'Tanzania' and person.Country != 'Indonesia' and person['Member Type']['Is Staff'] %}
+
+                {% include blocks/roster-item.html %}
+                {% endif %}
+                {% endfor %}
+                </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
