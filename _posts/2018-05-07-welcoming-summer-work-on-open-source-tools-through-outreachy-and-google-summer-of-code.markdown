@@ -15,14 +15,10 @@ Welcome to the new Google Summer of Code and Outreachy students! The HOT Communi
 
 From May to August, we will have four projects happening. Kartoza and many mentors from within the HOT community are helping to support these projects.
 
-* Ankita Khurana, Google Summer of Code, working on OAM API
-  - Mentor: Sean Harkins, HOT
-* Surya Saini, Google Summer of Code, working on MapCampaigner
-  - Mentor: Tim Sutton, Kartoza
-* Sunidhi Raheja, Outreachy, working on Tasking Manager API
-  - Mentor: Dakota Benjamin & Ethan Nelson, HOT
-* Ramya Ragupathy, Outreachy, working on OSM data portals and website maps
-  - Mentor: Nate, HOT
+* **Ankita Khurana**, Google Summer of Code, working on OAM API. Mentor: Sean Harkins, HOT
+* **Surya Saini**, Google Summer of Code, working on MapCampaigner. Mentor: Tim Sutton, Kartoza
+* **Sunidhi Raheja**, Outreachy, working on Tasking Manager API. Mentor: Dakota Benjamin & Ethan Nelson, HOT
+* **Ramya Ragupathy**, Outreachy, working on OSM data portals and website maps. Mentor: Nate, HOT
 
 You’ll be able to track and see the final project outlines [via Github](https://github.com/hotosm/tech/issues/114).
 
