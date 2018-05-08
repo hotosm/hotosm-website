@@ -13,3 +13,4 @@ redirect_from:
 - "/users/maria_longley"
 ---
 
+Voting Member of HOT.
