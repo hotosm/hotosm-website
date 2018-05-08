@@ -88,8 +88,9 @@ layout: default
       <div class="finances" id="financials">
         <div class="finances-wrapper">
           <div class="finances-text">
-            <h3>Financials</h3>
+            <h3>Financials and Organization</h3>
             {{ page.Finances.Text | markdownify }}
+            <a href="{{ page.Finances['990 Report URL'] }}" class="btn btn-primary btn-block btn-download">{{ page.Finances['990 Report Button'] }}</a>
           </div>
           <div class="annual-report">
             <h6>{{ page.Finances['Annual Report Header'] }}</h6>
