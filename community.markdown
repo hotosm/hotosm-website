@@ -35,10 +35,10 @@ Finances:
   990 Report Button: Download 2016 990 PDF
   990 Report URL: "/uploads/HOT_annual report_2016.pdf"
   Annual Report Header: 2016 Annual Report
-  Annual Report Text: |-
-    Each year we publish an annual report to recap projects and share updates from the community. We cover stories from our projects and share data about the successes and impact of the community. 
-
-    Download our latest annual report below. Access our annual report archive <a href="https://github.com/hotosm/hotosm-website/tree/gh-pages/downloads">here.</a>
+  Annual Report Text: "Each year we publish an annual report to recap projects and
+    share updates from the community. We cover stories from our projects and share
+    data about the successes and impact of the community. \n\nDownload our latest
+    annual report below. Access our annual report archive <a href=\"https://github.com/hotosm/hotosm-website/tree/gh-pages/downloads\">here.</a>"
   Annual Report Button: Download 2016 PDF
   Annual Report URL: "/uploads/HOT_annual report_2016.pdf"
 layout: community

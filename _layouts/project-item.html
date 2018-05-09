@@ -9,7 +9,7 @@ layout: default
     <div class="project-header-meta">
 
       <p class="project-involvement">
-        {% if page['Is Community-Led'] %}
+        {% if project['Is Community-Led'] %}
           Community-Led
         {% else %}
           HOT Program
@@ -27,10 +27,6 @@ layout: default
             {% endfor %}
           {% endfor %}
 
-        </p>
-        {% else %}
-        <p class="project-countries">
-          <span class="project-country">Global</span>
         </p>
       {% endif %}
 
