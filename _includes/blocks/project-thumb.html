@@ -20,6 +20,10 @@
             <span class="project-country">{{ country }}</span>
           {% endfor %}
         </p>
+      {% else %}
+        <p class="project-countries">
+          <span class="project-country">Global</span>
+        </p>
       {% endif %}
 
     </div>
