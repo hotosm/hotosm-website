@@ -51,7 +51,33 @@ layout: default
   <!--////////////////////////////////-->
   <!--////// Country Highlights //////-->
   <!--////////////////////////////////-->
+  
 
+  <div class="container home-stats">
+    <div class="home-stat">
+      <center><p class="loader"></p></center>
+      <p class="stat-number" id="Community-Mappers"></p>
+      <p class="stat-title">Community Mappers</p>
+    </div>
+    <div class="hr-v"></div>
+    <div class="home-stat">
+      <center><p class="loader"></p></center>
+      <p class="stat-number" id="Total-Map-Edits"></p>
+      <p class="stat-title">Total Map Edits</p>
+    </div>
+    <div class="hr-v hide-sm"></div>
+    <div class="home-stat">
+      <center><p class="loader"></p></center>
+      <p class="stat-number" id="Buildings-Mapped"></p>
+      <p class="stat-title">Buildings Mapped</p>
+    </div>
+    <div class="hr-v"></div>
+    <div class="home-stat">
+      <center><p class="loader"></p></center>
+      <p class="stat-number" id="Roads-Mapped"></p>
+      <p class="stat-title">Roads Mapped (KM)</p>
+    </div>
+  </div>
 
   {% assign sorted-projects = site.projects | sort:"position" %}
 
@@ -217,6 +243,7 @@ layout: default
 <script>
   var countryName = "{{ page.urlname }}".split('-').join(' ');
   var countryCode = "{{ page.names }}".substr(-5, 2);
+  var missingMapsCode = "{{ page.names }}".substr(-3, 3);
 </script>
 <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
 <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
