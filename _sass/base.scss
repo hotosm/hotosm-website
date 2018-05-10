@@ -3175,10 +3175,10 @@ em {
   display: inline-block;
   background: $blue-dark;
   padding: 19px 21px;
+  font-family: $font-default;
+  font-size: 1rem;
   a {
     color: $white;
-    font-family: $font-default;
-    font-size: 1rem;
     &:after {
       content: '·';
       display: inline-block;
