@@ -58,4 +58,29 @@ map.on('load', function () {
       $(location).attr('href', '/where-we-work/' + country_name);
     }
   });
+
+  var lastCountry;
+  map.on('mousemove', function(e) {
+    var areaHover = map.queryRenderedFeatures(
+      e.point,
+      {layers: ['project_countries']}
+    );
+    if (areaHover.length) {
+      map.getCanvas().style.cursor = 'pointer';
+      if (lastCountry !== areaHover[0].properties.NAME_LONG) {
+        $("#hover-country").empty();
+        $("#hover-country").append(
+          '<p><strong>' + areaHover[0].properties.NAME_LONG + '</strong></p>' +
+          '<p>(click on the country to see the details)</p>'
+        );
+        lastCountry = areaHover[0].properties.NAME_LONG;
+      }
+      console.log(areaHover[0].properties.name_low);
+    } else {
+      console.log('limpando');
+      map.getCanvas().style.cursor = '';
+      lastCountry = '';
+      $("#hover-country").empty();
+    }
+  });
 });
