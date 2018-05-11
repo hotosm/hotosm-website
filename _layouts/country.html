@@ -1,6 +1,25 @@
 ---
 layout: default
 ---
+{% assign sorted-projects = site.projects | sort:"position" %}
+{% assign projects = false %}
+{% assign members = false %}
+{% assign projectcount = 0 %}
+{% assign memberscount = 0 %}
+
+{% for project in sorted-projects %}
+  {% if project['Country'] contains page.title %}
+    {% assign projects = true %}
+    {% assign projectcount = projectcount | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+{% for person in site.people %}
+  {% if page.title contains person.Country %}
+    {% assign members = true %}
+    {% assign memberscount = memberscount | plus: 1 %}
+  {% endif %}
+{% endfor %}
 
 <div class="project-index country-index">
 
@@ -23,11 +42,21 @@ layout: default
 
     <div class="country-contact">
       <div class="country-contact-wrapper">
-        <h4>Want to start a project in {{ page.title }}?</h4>
-        <div class="country-content">
-          {{ content }}
+
+        {% if projects %}
+
+        <!-- Countries with projects -->
+
+        <h4>{{ page.title }} has {{ projectcount }} project{% if projectcount > 1%}s{%endif%}{% if memberscount > 0%} and {{ memberscount }} voting member{% if memberscount > 1%}s{%endif%}{%endif%}</h4>
+        <div class="country-content top">
+          <p>Read more about each project below or learn more about <a href="/get-invovled">getting invovled</a>.</p>
         </div>
-        <h5>Contact</h5>
+
+        <h4>Travelling to {{ page.title }} or want to get in touch about a collaboration?</h4>
+        <div class="country-content">
+          <p>Get in touch with HOT or reach out to the <a href="https://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists">local community</a>.</p>
+        </div>
+        <h5>Contact HOT</h5>
         {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
           <p><b>{{ page['Contact Person'].Name }}</b></p>
           <p>{{ page['Contact Person'].Title }}</p>
@@ -42,6 +71,62 @@ layout: default
           <p><b>{{ page.Location['Location Name'] }}</b></p>
           {{ page.Location.Address | markdownify }}
           <p>{{ page.Location.Phone }}</p>
+        {% endif %}
+        
+        {% elsif members %}
+
+        <!-- Countries with members only -->
+
+        <h4>{{ page.title }} has {{ memberscount }} voting member{% if memberscount > 1%}s{%endif%}</h4>
+        <div class="country-content top">
+          <p>Read more about <a href="/get-invovled">getting invovled</a> with HOT.</p>
+        </div>
+
+        <h4>Travelling to {{ page.title }} or want to get in touch about a collaboration?</h4>
+        <div class="country-content">
+          <p>Get in touch with HOT or reach out to the <a href="https://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists">local community</a>.</p>
+        </div>
+        <h5>Contact HOT</h5>
+        {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
+          <p><b>{{ page['Contact Person'].Name }}</b></p>
+          <p>{{ page['Contact Person'].Title }}</p>
+          <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
+          <p>{{ page['Contact Person'].Phone }}</p>
+        {% else %}
+          <a href="mailto:info@hotosm.org">info@hotosm.org</a>
+        {% endif %}
+
+        {% if page.Location.Name or page.Location.Address %}
+          <h5>Visit</h5>
+          <p><b>{{ page.Location['Location Name'] }}</b></p>
+          {{ page.Location.Address | markdownify }}
+          <p>{{ page.Location.Phone }}</p>
+        {% endif %}
+        
+        {% else %}
+
+        <!-- Countries without projects or members -->
+        <h4>Have a project or collaboration idea for {{ page.title }}?</h4>
+        <div class="country-content">
+          <p>Get in touch with HOT or reach out to the <a href="https://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists">local community</a>.</p>
+        </div>
+        <h5>Contact HOT</h5>
+        {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
+          <p><b>{{ page['Contact Person'].Name }}</b></p>
+          <p>{{ page['Contact Person'].Title }}</p>
+          <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
+          <p>{{ page['Contact Person'].Phone }}</p>
+        {% else %}
+          <a href="mailto:info@hotosm.org">info@hotosm.org</a>
+        {% endif %}
+
+        {% if page.Location.Name or page.Location.Address %}
+          <h5>Visit</h5>
+          <p><b>{{ page.Location['Location Name'] }}</b></p>
+          {{ page.Location.Address | markdownify }}
+          <p>{{ page.Location.Phone }}</p>
+        {% endif %}
+
         {% endif %}
       </div>
     </div>
@@ -78,8 +163,6 @@ layout: default
       <p class="stat-title">Roads Mapped (KM)</p>
     </div>
   </div>
-
-  {% assign sorted-projects = site.projects | sort:"position" %}
 
   {% for project in sorted-projects %}
     {% if project['Country'] contains page.title %}
