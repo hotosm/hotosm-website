@@ -133,6 +133,7 @@ map.on('load', function () {
       map.getCanvas().style.cursor = 'pointer';
       if (lastCountry !== areaHover[0].properties.NAME_LONG) {
         $("#hover-country").empty();
+        $("#hover-country").removeClass('hide');
         $("#hover-country").append(
           '<p><strong>' + areaHover[0].properties.NAME_LONG + '</strong></p>' +
           '<p>(click on the country to see the details)</p>'
@@ -143,6 +144,7 @@ map.on('load', function () {
       map.getCanvas().style.cursor = '';
       lastCountry = '';
       $("#hover-country").empty();
+      $("#hover-country").addClass('hide');
     }
   });
 });
