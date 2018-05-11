@@ -16,9 +16,15 @@
 
       {% if project.Country[0] != '' %}
         <p class="project-countries">
-          {% for country in project.Country %}
-            <span class="project-country">{{ country }}</span>
-          {% endfor %}
+
+          {% if project.Country.size < 3 %}
+            {% for country in project.Country %}
+              <span class="project-country">{{ country }}</span>
+            {% endfor %}
+          {% else %}
+            {% assign countrycount = project.Country.size %}
+            <span class="project-country">{{ project.Country | first }} and {{ countrycount | minus: 1 }} other countries</span>
+          {% endif %}
         </p>
       {% else %}
         <p class="project-countries">
