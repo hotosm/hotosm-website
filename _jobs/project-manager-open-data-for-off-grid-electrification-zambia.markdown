@@ -3,6 +3,7 @@ title: Project Manager - Open Data for Off-Grid Electrification - Zambia
 date: 2018-05-14 12:17:00 Z
 Deadline Date: 2018-05-20 00:00:00 Z
 Place of Work: Lusaka, Zambia
+redirect_from: "/job/project_manager_open_data_for_off_grid_electrification_zambia/2018"
 ---
 
 Contract duration: Fixed-term 4 month contract (full-time) with possible extension for an additional 2 months
