@@ -3,6 +3,7 @@ title: Project Manager - Open Data for Off-Grid Electrification - Zambia
 date: 2018-05-14 12:17:00 Z
 Deadline Date: 2018-05-20 00:00:00 Z
 Place of Work: Lusaka, Zambia
+Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfV4nZkFImD6RUlDEp-BauZv3vVY-ZPHgznFZbg0nReurZ8Og/viewform
 redirect_from: "/job/project_manager_open_data_for_off_grid_electrification_zambia/2018"
 ---
 
@@ -24,37 +25,60 @@ The Project Manager will direct this effort, reporting to HOT’s Director of Co
 
 ### Responsibilities
 * Serve as the senior HOT representative in Zambia
+
 * Develop project strategy and approach in coordination with HOT senior management and local stakeholders, and manage project implementation in Zambia
+
 * Ensure timely implementation of all program activities
+
 * Manage a team of local staff and oversee work of interns and community volunteers
+
 * Assist with writing and delivering project reports according to donor schedule
+
 * Accurately manage project budget and track projected vs. actual spending
+
 * Direct production of communications about project activity, including regular blogs posts and (social) media updates
+
 * Provide technical guidance and expertise on participatory mapping and OpenStreetMap
+
 * Assist in proposal development, and other duties as assigned
 
 ### About You
 
 #### Essential:
 * University or college degree in international development, public health, GIS, Disaster Risk Management, urban planning or other related field
+
 * A least 3 years experience working in development cooperation and donor funded projects involving community/participatory mapping, of which 2 years are in management positions
+
 * Experience managing project budgets of $100,000 USD and greater
+
 * Excellent analytical skills, and able to prioritize and meet deadlines
+
 * Excellent team management skills in managing and coordinating groups of people, including speaking and training sessions
+
 * Experience designing and carrying out community mapping exercises, including: collecting data, using OSM, teaching quality assurance, collaborating with various stakeholders, and building capacity in mapping
+
 * Experience in participatory data collection, preferably using mobile, digital data collection tools such as Kobo and OpenMapKit
+
 * Experience developing self-sufficient and sustainable community groups, including developing technical skillsets
+
 * Fluency in English and ability to work in an environment of diverse languages and cultures
+
 * Demonstrated cultural competency including experience working in a developing country context
+
 * Demonstrated leadership, versatility, and integrity
+
 * Demonstrated understanding of open source culture and ethos across cultural contexts.
+
 * Able to travel 100%
 
 
 #### Additional desirable skillsets:
 * Experience in disaster response, open data or open source strongly desired
+
 * OpenMapKit, OpenDataKit, or Kobo Collect experience
+
 * Sector expertise in rural electrification projects
+
 * QGIS
 
 ### Conditions

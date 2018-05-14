@@ -30,14 +30,41 @@ layout: default
         {% endif %}
 
         {% if page.url contains "/jobs/" %}
-          {% for job in site.jobs %}
+
+          <h2>Current Openings</h2>
+
+          {% assign current_date = site.time | date: '%Y%m%d' %}
+          {% assign jobs_sorted = site.jobs | sort: 'Deadline Date' %}
+
+          {% for job in jobs_sorted %}
+            {% assign job_date = job['Deadline Date'] | date: '%Y%m%d' %}
+            {% if job_date >= current_date %}
             <a href="{{ job.url }}" class="module light link-through">
               <div class="module-details">
                 <h3>{{ job.title }}</h3>
                 <div class="module-text"><p>Location: <span>{{ job['Place of Work'] }}</span></p><p>Deadline: <span>{{ job['Deadline Date'] | date: '%d %B, %Y' }}</span></p></div>
               </div>
             </a>
+            {% elsif forloop.last %}
+              <p>There are no current openings. Please check back for updates or keep a watch <a href="https://twitter.com/hotosm">on Twitter</a> for updates.</p>
+            {% endif %}
           {% endfor %}
+
+          <h2>Recently closed jobs</h2>
+
+          {% for job in jobs_sorted limit: 3 %}
+            {% assign job_date = job['Deadline Date'] | date: '%Y%m%d' %}
+            {% if job_date <= current_date %}
+            <a href="{{ job.url }}" class="module light link-through">
+              <div class="module-details">
+                <h3>{{ job.title }}</h3>
+                <div class="module-text"><p>Location: <span>{{ job['Place of Work'] }}</span></p><p>Deadline: <span>{{ job['Deadline Date'] | date: '%d %B, %Y' }}</span></p></div>
+              </div>
+            </a>
+            {% endif %}
+          {% endfor %}
+
+
         {% endif %}
 
       </div>
