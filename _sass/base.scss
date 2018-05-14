@@ -2951,6 +2951,39 @@ em {
   @media (max-width: $screen-xs) {
     font-size: 0.8125rem;
   }
+  position: relative;
+}
+
+.tooltiptext {
+  visibility: hidden;
+  width: 160px;
+  top: 22px;
+  left: 50px;
+  background-color: rgba(107, 97, 97, 0.5);
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.stat-title:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1; 
+}
+
+.stat-title .tooltiptext::after {
+  content: " ";
+  position: absolute;
+  bottom: 100%; 
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent rgba(107, 97, 97, 0.5) transparent;
 }
 
 
