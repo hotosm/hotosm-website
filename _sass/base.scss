@@ -2953,7 +2953,10 @@ em {
   }
   position: relative;
 }
-
+sup {
+  vertical-align: super;
+  font-size: xx-small;
+}
 .tooltiptext {
   visibility: hidden;
   width: 160px;
