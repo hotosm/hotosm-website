@@ -13,7 +13,7 @@ Impact Area:
 - Public Health
 Person:
 - Tasauf A Baki Billah (Ribin)
-Website: http://boiledbhoot.org/
+Link: http://boiledbhoot.org/
 ---
 
 OSM Bangladesh, led by the Bangladesh HumanitarianOpenStreetMap Operation Team (BHOOT), have been helping across various projects to support NGOs and Government agencies. The devices granted under the Nethope Device Challenge have been frequently used for four specific projects - Map Your City, South Asian Flood Activation, Clean Dhaka: Smart Dhaka, and NIHR Global Health Unit on Improving Health in Slums.
