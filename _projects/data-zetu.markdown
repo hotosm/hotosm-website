@@ -4,7 +4,7 @@ date: 2018-04-24 12:10:00 Z
 position: 1
 Project Summary Text: Using community mapping methods to improve HIV services and
   access to public health facilities in Dar es Salaam and Mbeya.
-Feature Image: "/uploads/Community%20Mapping%20Dar%20es%20Salaam-c1e9ab.jpg"
+Feature Image: "/uploads/IMG_1137.JPG"
 Is Community-Led: false
 Country:
 - Tanzania
