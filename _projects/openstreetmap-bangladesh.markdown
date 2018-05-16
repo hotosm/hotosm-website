@@ -1,7 +1,20 @@
 ---
 title: OpenStreetMap Bangladesh
 date: 2018-05-16 06:40:00 Z
+Project Summary Text: 'The Bangladesh HumanitarianOpenStreetMap Operation Team (BHOOT),
+  are currently focusing on four main projects - Map Your City, South Asian Flood
+  Activation, Clean Dhaka: Smart Dhaka, and NIHR Global Health Unit on Improving Health
+  in Slums.'
 Feature Image: "/uploads/IMG_20180408_120916.jpg"
+Is Community-Led: true
+Country:
+- Bangladesh
+Impact Area:
+- Sustainable Cities
+- Disaster Response
+- Public Health
+Person:
+- Tasauf A Baki Billah (Ribin)
 ---
 
 OSM Bangladesh, led by the Bangladesh HumanitarianOpenStreetMap Operation Team (BHOOT), have been helping across various projects to support NGOs and Government agencies. The devices granted under the Nethope Device Challenge have been frequently used for four specific projects - Map Your City, South Asian Flood Activation, Clean Dhaka: Smart Dhaka, and NIHR Global Health Unit on Improving Health in Slums.
