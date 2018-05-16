@@ -2,9 +2,8 @@
 title: Data Zetu
 date: 2018-04-24 12:10:00 Z
 position: 1
-Project Summary Text: The HOT Tanzania team are collaborating with Data Zetu to focus
-  on health mapping in Dar es Salaam and Mbeya in Tanzania to improve access public
-  health facilities.
+Project Summary Text: Using community mapping methods to improve HIV services and
+  access to public health facilities in Dar es Salaam and Mbeya.
 Feature Image: "/uploads/Community%20Mapping%20Dar%20es%20Salaam-c1e9ab.jpg"
 Is Community-Led: false
 Country:
@@ -16,6 +15,8 @@ Person:
 - Paul Uithol
 Partner:
 - Data Zetu
+Duration:
+  Start Date: 2017-10-02 00:00:00 Z
 ---
 
 In partnership with Data Zetu, the HOT Tanzania team are collecting health data in Dar es Salaam and Mbeya region to improve public health services. Through community mapping initiatives, the team are training local people to better understand access to maternal health, childcare, HIV services and sexual reproductive facilities. This data will be used by community members, government officials and health initiatives to pinpoint areas in need of health facilities and resources.
