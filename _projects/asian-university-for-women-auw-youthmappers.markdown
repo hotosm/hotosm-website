@@ -1,7 +1,8 @@
 ---
 title: Asian University for Women (AUW) YouthMappers
 date: 2018-05-16 06:31:00 Z
-Project Summary Text: AUW is the first all women's YouthMappers chapter in the world
+Project Summary Text: All female YouthMapper's Team push for gender equality and improved
+  water & sanitation in Bangladesh
 Feature Image: "/uploads/_DSC9754.JPG"
 Is Community-Led: true
 Country:
