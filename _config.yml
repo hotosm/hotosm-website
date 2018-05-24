@@ -94,7 +94,7 @@ defaults:
   values:
     layout: page
     Deadline Date: 
-    Place of Work:
+    Place of Work: 
     Apply Form Link: 
 - scope:
     path: ''
