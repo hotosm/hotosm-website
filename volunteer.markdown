@@ -15,7 +15,7 @@ Join the conversation on [Slack](http://slack.hotosm.org/)! A large number of vo
 
 ## Mapping Volunteers
 
-Start mapping on the [Tasking Manager](https://tasks.hotosm.org/). Then, please also join the discussion on Slack (see above).
+Start mapping on the [Tasking Manager](https://tasks.hotosm.org/). Please also join the discussion on Slack (see above).
 
 ## Humanitarian and GIS Professionals
 
