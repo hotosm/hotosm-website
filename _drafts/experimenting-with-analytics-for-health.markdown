@@ -1,12 +1,24 @@
 ---
 title: Experimenting with Analytics for Health
 date: 2018-05-25 12:55:00 Z
+categories:
+- malaria
+- analytics
+- Botswana
+- DevSeed
+- Azavea
+- health
 tags:
 - analytics
 - malaria
+- Botswana
+Summary Text: OSM for Health Analytics works to assess the quality and accuracy of
+  local OSM data using population data and machine learning.
+Country:
+- Botswana
 ---
 
-Malaria prevention experts are moving towards OpenStreetMap (OSM) data to plan spraying campaigns, distribute supplies, and prioritize tasks. In order to improve this crucial data infrastructure, we're working on **[OpenStreetMap Analytics for Health. ](https://health.osm-analytics.org/)**This analytics tool is a general purpose validator applied to Malaria prevention specifically. It is designed assess the quality and accuracy of local OpenStreetMap using population data and machine learning.
+Malaria prevention experts are moving towards OpenStreetMap (OSM) data to plan spraying campaigns, distribute supplies, and prioritize tasks. In order to improve this crucial data infrastructure, we're working on **[OpenStreetMap Analytics for Health. ](https://health.osm-analytics.org/)**This analytics tool is a general purpose OSM evaluation tool applied to Malaria prevention specifically. It is designed assess the quality and accuracy of local OpenStreetMap using population data and machine learning.
 
 
 The Humanitarian OpenStreetMap Team, Development Seed, and Azavea have rolled out a first version of HOT Analytics for Health for districts in Botswana. We invite you try and give us feedback. https://github.com/hotosm/osma-health/issues
