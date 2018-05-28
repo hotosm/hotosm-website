@@ -17,15 +17,20 @@ Join the conversation on [Slack](http://slack.hotosm.org/)! A large number of vo
 
 As a mapping volunteer, you can get involved with projects around the world by using your time to remotely map. Even if you are a new mapper, anyone who can use a computer to draw lines and boxes or use a phone to swipe and tap can meaningfully contribute to humanitarian mapping through OpenStreetMap. If you have never mapped before and would like to help, visit the Tasking Manager's [Learn page](https://tasks.hotosm.org/learn) to get started mapping in less than 30 minutes.
 
-<a href="https://tasks.hotosm.org/contribute" class="btn btn-primary btn-lg btn-chevron">Start Mapping Now</a>.
+<a href="https://tasks.hotosm.org/learn" class="btn btn-primary btn-lg btn-chevron">Learn how to map</a>
 
 Please also join the discussion on Slack (see above).
 
 ## Humanitarian and GIS Professionals
 
-We can always use help on our field projects, both volunteer (remote) support and in the field
-Job and volunteering opportunities will also be posted on the [Jobs page](http://www-dev.hotosm.org/jobs/).
+Are you a humanitarian or GIS professional? In addition to remotely mapping, you can volunteer with HOT in other mapping related tasks. We could use help on data processing, validating remote mapping, or creating maps and other visualizations. 
+
+We also have opportunities to support field projects, both volunteer (remote) support and in the field. Job and volunteering opportunities will also be posted on the [Jobs page](http://www-dev.hotosm.org/jobs/).
 
 ## Software Engineers
 
-All our projects are open source, and the code is on [Github](https://github.com/hotosm/).
+HOT builds and maintains over ten open source mapping tools. If you are a new or experienced software engineer, you can get involved in these open source projects. A good place to start is our [Tech repo](https://github.com/hotosm/tech) which serves as the coordinating place for technical activity across our tools. 
+
+<a href="https://github.com/hotosm" class="btn btn-primary btn-lg btn-chevron">Access our GitHub page</a>
+
+All our projects are open source, and the code is on [GitHub](https://github.com/hotosm/).
