@@ -3,7 +3,7 @@ title: Asian University for Women (AUW) YouthMappers
 date: 2018-05-16 06:31:00 Z
 Project Summary Text: All female YouthMapper's Team push for gender equality and improved
   water & sanitation in Bangladesh
-Feature Image: "/uploads/_DSC9754.JPG"
+Feature Image: "/uploads/DSC9754.JPG"
 Is Community-Led: true
 Country:
 - Bangladesh
