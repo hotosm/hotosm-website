@@ -15,7 +15,11 @@ Join the conversation on [Slack](http://slack.hotosm.org/)! A large number of vo
 
 ## Mapping Volunteers
 
-Start mapping on the [Tasking Manager](https://tasks.hotosm.org/). Please also join the discussion on Slack (see above).
+As a mapping volunteer, you can get involved with projects around the world by using your time to remotely map. Even if you are a new mapper, anyone who can use a computer to draw lines and boxes or use a phone to swipe and tap can meaningfully contribute to humanitarian mapping through OpenStreetMap. If you have never mapped before and would like to help, visit the Tasking Manager's [Learn page](https://tasks.hotosm.org/learn) to get started mapping in less than 30 minutes.
+
+<a href="https://tasks.hotosm.org/contribute" class="btn btn-primary btn-lg btn-chevron">Start Mapping Now</a>.
+
+Please also join the discussion on Slack (see above).
 
 ## Humanitarian and GIS Professionals
 
