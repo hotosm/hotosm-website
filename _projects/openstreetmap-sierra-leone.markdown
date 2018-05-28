@@ -1,7 +1,7 @@
 ---
 title: OpenStreetMap Sierra Leone
 date: 2018-05-17 06:25:00 Z
-position: 18
+position: 19
 Project Summary Text: Preparing for epidemiological crises in Sierra Leone using OSM
 Feature Image: "/uploads/sierraleonefreetown.PNG"
 Is Community-Led: true

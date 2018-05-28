@@ -1,7 +1,7 @@
 ---
 title: UniqueMappersTeam (UMT) YouthMappers
 date: 2018-05-16 09:15:00 Z
-position: 4
+position: 5
 Project Summary Text: UMT YouthMappers provide OpenStreetMap data to allow stakeholders
   respond rapidly to vulnerable communities and crises in Nigeria
 Feature Image: "/uploads/LetGirlsMap1.jpg"

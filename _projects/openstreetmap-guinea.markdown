@@ -1,7 +1,7 @@
 ---
 title: OpenStreetMap Guinea
 date: 2018-05-16 08:07:00 Z
-position: 2
+position: 3
 Project Summary Text: Using OpenStreetMap to improve the private health sector in
   Conakry
 Feature Image: "/uploads/Training%20December%2023,%20OSM%20Guinea,%20Nethope%202017.jpg"
