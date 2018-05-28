@@ -5,6 +5,7 @@ position: 19
 Project Summary Text: Preparing for epidemiological crises in Sierra Leone using OSM
 Feature Image: "/uploads/sierraleonefreetown.PNG"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Sierra Leone
 Impact Area:

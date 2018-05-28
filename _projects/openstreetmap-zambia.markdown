@@ -6,6 +6,7 @@ Project Summary Text: Mapping to support water & sanitation initiatives and dece
   in Zambia
 Feature Image: "/uploads/zambiaphoto.PNG"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Zambia
 Impact Area:

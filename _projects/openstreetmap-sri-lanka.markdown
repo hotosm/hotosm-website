@@ -6,6 +6,7 @@ Project Summary Text: Building detailed maps of Sri Lanka for emergency response
   natural disasters
 Feature Image: "/uploads/2.jpg"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Sri Lanka
 Impact Area:

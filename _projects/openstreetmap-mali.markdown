@@ -6,6 +6,7 @@ Project Summary Text: 'Mapping Bamako city and rural Mali to inform development 
   and health services.  '
 Feature Image: "/uploads/IMG_0190.JPG"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Mali
 Impact Area:

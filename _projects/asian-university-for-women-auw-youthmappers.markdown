@@ -6,6 +6,7 @@ Project Summary Text: All female YouthMapper's Team push for gender equality and
   water & sanitation in Bangladesh
 Feature Image: "/uploads/DSC9754.JPG"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Bangladesh
 Impact Area:

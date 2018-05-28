@@ -6,6 +6,7 @@ Project Summary Text: Using OpenStreetMap to improve the private health sector i
   Conakry
 Feature Image: "/uploads/Training%20December%2023,%20OSM%20Guinea,%20Nethope%202017.jpg"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Guinea
 Impact Area:

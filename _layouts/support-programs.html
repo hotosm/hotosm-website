@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<div class="page container">
+
+  <header class="page-header">
+    <h6>Community <span>(<a href="/community">Back</a>)</span></h6>
+    <h1>{{ page.title }}</h1>
+    <div class="hr-h"></div>
+  </header>
+
+  <div class="page-layout-body">
+    <div class="page-content">
+      <div class="article">
+        {% if page['Intro Text'] %}
+          <p class="news-summary">{{ page['Intro Text' ]}}</p>
+        {% endif %}
+        
+        {{ content }}
+      </div>
+
+      <div class="project-index-all support-programs">
+
+      {% for project in site.projects %}
+        {% if project['Micrograntee'] %}
+<!--           <a href="{{ project.url }}" class="module light link-through">
+            <div class="module-details">
+              <h3>{{ project.title }}</h3>
+              <div class="module-text"><p>{{ project.content }}</p></div>
+            </div>
+          </a> -->
+          {% include blocks/project-thumb.html %}
+        {% endif %}
+      {% endfor %}
+      </div>
+
+    </div>
+
+    <aside class="meta">
+
+      {% if page['Page Contact'] %}
+        <p class="meta-p">{{ page['Page Contact']['Text'] }}</p>
+        <div class="sticky-wrap">
+          <a class="btn btn-primary btn-block btn-chevron" href="mailto:{{ page['Page Contact']['Contact Email'] }}">{{ page['Page Contact']['Label'] }}</a>
+        </div>
+      {% endif %}
+
+      {% if page['Page Link'] %}
+        <p class="meta-p">{{ page['Page Link']['Text'] }}</p>
+        <div class="sticky-wrap">
+          <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Page Link']['Link'] }}">{{ page['Page Link']['Label'] }}</a>
+        </div>
+      {% endif %}
+
+
+    </aside>
+
+  </div>
+
+</div>

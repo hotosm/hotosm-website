@@ -5,6 +5,7 @@ position: 15
 Project Summary Text: Improving health maps in Liberia through youth participation
 Feature Image: "/uploads/Liberia_Monrovia_mapping%20workshops_IMG_20170427_111804-a6abe1.jpg"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Liberia
 Impact Area:
