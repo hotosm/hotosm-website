@@ -4,7 +4,7 @@ date: 2018-02-06 13:06:00 Z
 position: 1
 Primary Button:
   URL: "/our-work"
-  Words: Learn about our Impact
+  Words: Learn about our impact
 Secondary Button:
   URL: "/get-involved"
   Words: Get involved
@@ -49,4 +49,4 @@ Block 4:
 layout: what-we-do
 ---
 
-HOT is an international community dedicated to humanitarian action and community development through open mapping. We work together to provide map data which revolutionises disaster management, reduces risks, and contributes to achievement of the Sustainable Development Goals.
+HOT is an international team dedicated to humanitarian action and community development through open mapping. We work together to provide map data which revolutionises disaster management, reduces risks, and contributes to achievement of the Sustainable Development Goals.
