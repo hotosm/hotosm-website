@@ -2,7 +2,7 @@
 title: Central African Republic Activation
 date: 2014-05-09 10:25:00 Z
 permalink: projects/central_african_republic_activation
-position: 19
+position: 37
 Project Summary Text: In 2012 HOT was involved in a field project and remote mapping
   during the Seleka Rebellion invasion in the Central African Republic
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/uMap_CAR_20140509.png

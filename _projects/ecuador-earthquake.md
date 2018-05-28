@@ -2,7 +2,7 @@
 title: Ecuador Earthquake
 date: 2016-04-22 20:36:00 Z
 permalink: projects/ecuador_earthquake
-position: 37
+position: 55
 Project Summary Text: HOT is supporting the Ecuador Earthquake by assisting the local
   OSM community to engage global volunteers and international responders
 Feature Image: "/uploads/blog3_b_0.png"

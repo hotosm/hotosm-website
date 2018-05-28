@@ -2,7 +2,7 @@
 title: Microgrants and Community Development
 date: 2017-12-11 22:00:00 Z
 permalink: projects/microgrants_and_community_development
-position: 51
+position: 69
 Project Summary Text: HOT supports global OSM communities to expand their local projects
   through Microgrants and Device Grants.
 Feature Image: "/uploads/received_1740826335961060.jpeg"

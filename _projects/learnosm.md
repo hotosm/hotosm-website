@@ -2,7 +2,7 @@
 title: LearnOSM
 date: 2015-06-02 18:51:00 Z
 permalink: projects/learnosm
-position: 9
+position: 27
 Project Summary Text: LearnOSM provides easy to understand, step-by-step guides for
   you to get started to contributing and using OpenStreetMap.
 Feature Image: "/uploads/learnosm.PNG"
