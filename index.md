@@ -17,14 +17,15 @@ Home Module 1:
   URL: "/tools-and-data"
 Home Module 2:
   Header: Community & Organization
-  Text: Get more information about the people and how the HOT community is organized.
+  Text: Get more information about who makes up HOT, and how the HOT community is
+    organized.
   Image: "/uploads/IMG_1683.jpg"
   Call to Action: Learn more
   URL: "/community"
 Home Module 3:
   Header: Partnerships
-  Text: Want to know more about ways you can partner with HOT? There are four key
-    ways to become a partner and start supporting the world with free, open map data.
+  Text: Want to know more about ways you can partner with HOT? Start creating, and
+    supporting the world with free, open map data through becoming a partner.
   Image: "/uploads/HOT-ID---Mapping-the-Thousand-Islands.jpg"
   Call to Action: Become a partner
   URL: "/partners"
