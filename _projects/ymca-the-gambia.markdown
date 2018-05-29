@@ -5,6 +5,7 @@ position: 13
 Project Summary Text: Mapping social services and flood risk areas in The Gambia
 Feature Image: "/uploads/IMG-20180416-WA0037.jpg"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Gambia
 Website: http://www.ymca.gm/

@@ -6,6 +6,7 @@ Project Summary Text: 'Supporting flood activations, waste management, sustainab
   planning and access to health in Bangladesh. '
 Feature Image: "/uploads/IMG_20180408_120916.jpg"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Bangladesh
 Impact Area:

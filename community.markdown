@@ -14,9 +14,7 @@ Working Groups Description: Working Groups are at the core of how the HOT organi
   projects, supports disaster response, and functions as a community. Each Working
   Group consists of members across the community and meeting on a monthly, bi-weekly,
   or weekly basis.
-Community Grants: HOT organizes a number of support programs for mapping projects,
-  providing Microgrants, Device Grant, Training and other support to OpenStreetMap
-  communities worldwide.
+Community Grants Description: Each year HOT mobilizes resources through community grants to support local OSM communities. Find out more about the communities that have received grants and the work they have done.
 Event Promo:
   Event Name: HOT Summit at FOSS4G2018
   Image: "/uploads/hot-summit-group-wave.jpg"

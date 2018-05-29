@@ -4,6 +4,7 @@ date: 2018-05-16 09:37:00 Z
 position: 8
 Feature Image: "/uploads/IMG_20180304_162924.jpg"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Tanzania
 Impact Area:

@@ -5,6 +5,7 @@ position: 11
 Project Summary Text: Supporting agricultural communities to prepare for disasters
 Feature Image: "/uploads/Mocoa3.jpg"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Colombia
 Impact Area:

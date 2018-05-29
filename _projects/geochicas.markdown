@@ -4,6 +4,7 @@ date: 2018-05-16 08:43:00 Z
 position: 18
 Feature Image: "/uploads/GeoChicas_-_SotM_Latam_2016_(30742065444)-f43c1a.jpg"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Mexico
 Impact Area:

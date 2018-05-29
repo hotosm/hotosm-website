@@ -5,6 +5,7 @@ position: 14
 Project Summary Text: Disaster preparedness planning in Haiti
 Feature Image: "/uploads/Comunity%20OSM%20Haiti.png"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Haiti
 Impact Area:

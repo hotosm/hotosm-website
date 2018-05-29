@@ -5,6 +5,7 @@ position: 10
 Project Summary Text: Mapping areas at risk of epidemiological crises in Benin
 Feature Image: "/uploads/osmbenin2.PNG"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Benin
 Impact Area:

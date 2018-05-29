@@ -1125,6 +1125,14 @@ em {
   }
 }
 
+.support-programs {
+  grid-template-columns: repeat(2, 1fr);
+  margin-top: 35px;
+  h3 {
+    font-size: 1.25rem;
+  }
+}
+
 .impact-areas-module {
   width: 100%;
   position: relative;

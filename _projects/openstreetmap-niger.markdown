@@ -5,6 +5,7 @@ position: 16
 Project Summary Text: Increasing OSM contributors for sustainable development in Niger
 Feature Image: "/uploads/IMG_20171114_113048.jpg"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Niger
 Impact Area:
