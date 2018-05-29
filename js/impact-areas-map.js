@@ -1,4 +1,5 @@
 var countries = {};
+var impactAreas;
 var projectCountries, memberCountries = [];
 
 fetch('/countries.json')
@@ -7,6 +8,7 @@ fetch('/countries.json')
   })
   .then(function(jsonData) {
     countries = jsonData;
+    console.log(countries)
     countriesList = Object.keys(countries);
     projectCountries = countriesList.filter(function(item) {
       return countries[item].hot_program || countries[item].community_program;
@@ -14,6 +16,17 @@ fetch('/countries.json')
     memberCountries = countriesList.filter(function(item) {
       return countries[item].member && !projectCountries.includes(item);
     });
+  }
+);
+
+fetch('/impact-filter.json')
+  .then(function(response) {
+    console.log(JSON.stringify(response))
+    return response.json();
+  })
+  .then(function(jsonData) {
+    impactAreas = jsonData;
+    console.log('ImpactAreas: ', impactAreas)
   }
 );
 
