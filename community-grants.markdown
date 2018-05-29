@@ -3,7 +3,8 @@ title: Community Grants
 date: 2018-03-09 09:19:00 Z
 permalink: "/community/community-grants/"
 layout: community-grants
-Intro Text: Supporting global OSM communities to expand their local projects through community grants
+Intro Text: Supporting global OSM communities to expand their local projects through
+  community grants
 Page Contact:
   Label: Contact HOT
   Text: Want to know more about next round of grants?
