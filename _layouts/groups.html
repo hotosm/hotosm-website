@@ -26,10 +26,18 @@ layout: default
                 <div class="module-text">
                   {{ group.content }}
                   <p>
-                    <a href="{{ group['TOR'] }}">Purpose and details</a> | 
-                    <a href="{{ group['Project Tracking'] }}">Project Tracking</a> | 
-                    <a href="{{ group['Calendar'] }}">Calendar link</a> | 
-                    <a href="{{ group['Slack Channel'] }}">Chat Space</a>
+                    {% if group['Details'] %}
+                    <a href="{{ group['Details'] }}">Details</a> | 
+                    {% endif %}
+                    {% if group['Coordination'] %}
+                    <a href="{{ group['Coordination'] }}">Coordination</a> | 
+                    {% endif %}
+                    {% if group['Calendar'] %}
+                    <a href="{{ group['Calendar'] }}">Calendar</a> | 
+                    {% endif %}
+                    {% if group['Chat'] %}
+                    <a href="{{ group['Chat'] }}">Chat</a>
+                    {% endif %}
                   </p>
                 </div>
               </div>
