@@ -6,6 +6,7 @@ Project Summary Text: UMT YouthMappers provide OpenStreetMap data to allow stake
   respond rapidly to vulnerable communities and crises in Nigeria
 Feature Image: "/uploads/LetGirlsMap1.jpg"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Nigeria
 Impact Area:

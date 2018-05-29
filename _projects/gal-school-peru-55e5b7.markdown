@@ -6,6 +6,7 @@ Project Summary Text: GAL School is empowering students to develop projects for 
   good using OpenStreetMap
 Feature Image: "/uploads/IMG_3538.JPG"
 Is Community-Led: true
+Micrograntee: true
 Country:
 - Peru
 Impact Area:
