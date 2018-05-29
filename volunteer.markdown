@@ -1,21 +1,21 @@
 ---
 title: Volunteering with HOT
 date: 2018-03-09 09:19:00 Z
-Intro Text: Anyone can get involved. Volunteering with HOT can be done in a number
-  of ways. To get started quickly, jump into a mapping project and contribute.
+Intro Text: There are many different ways to volunteer with HOT, and anyone can get
+  involved. To get started quickly, jump into a mapping project and contribute.
 Page Link:
   Label: Start mapping now!
-  Text: Skip the intro and get started volunteering your time immediately by mapping.
+  Text: Skip the intro and start volunteering your time immediately by mapping.
   Link: https://tasks.hotosm.org/contribute
 layout: page
 ---
 
 ## Get in touch and talk to us
-Join the conversation on [Slack](http://slack.hotosm.org/)! A large number of volunteer and staff discuss mapping, emergencies, working groups and other matters on our Slack channel.
+Join the conversation on [Slack](http://slack.hotosm.org/)! A large number of volunteers and staff discuss mapping, emergencies, Working Groups and other matters on our Slack channel.
 
 ## Mapping Volunteers
 
-As a mapping volunteer, you can get involved with projects around the world by using your time to remotely map. Even if you are a new mapper, anyone who can use a computer to draw lines and boxes or use a phone to swipe and tap can meaningfully contribute to humanitarian mapping through OpenStreetMap. If you have never mapped before and would like to help, visit the Tasking Manager's [Learn page](https://tasks.hotosm.org/learn) to get started mapping in less than 30 minutes.
+As a mapping volunteer, you can get involved with projects around the world, and contribute to humanitarian mapping through OpenStreetMap. Even if you are a new mapper, anyone can use a computer to create basemaps by drawing over buildings and roads, or use a phone to swipe and tap population hotspots in the MapSwipe app. If you have never mapped before and would like to help, visit the Tasking Manager's [Learn page](https://tasks.hotosm.org/learn) to get started mapping in less than 30 minutes.
 
 <a href="https://tasks.hotosm.org/learn" class="btn btn-primary btn-lg btn-chevron">Learn how to map</a>
 
@@ -23,7 +23,7 @@ Please also join the discussion on Slack (see above).
 
 ## Humanitarian and GIS Professionals
 
-Are you a humanitarian or GIS professional? In addition to remotely mapping, you can volunteer with HOT in other mapping related tasks. We could use help on data processing, validating remote mapping, or creating maps and other visualizations. 
+Are you a humanitarian or GIS professional? In addition to remote mapping, you can volunteer with HOT in other mapping related tasks. We could use help on data processing, validating remote mapping, or creating maps and other visualizations. 
 
 We also have opportunities to support field projects, both volunteer (remote) support and in the field. Job and volunteering opportunities will also be posted on the [Jobs page](http://www-dev.hotosm.org/jobs/).
 
