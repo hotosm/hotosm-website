@@ -1,10 +1,6 @@
 ---
 title: HOT Hosted a Mapathon in the State University of Semarang
 date: 2018-05-18 08:18:00 Z
-Summary Text: In April 16-18, Humanitarian OpenStreetMap Team (HOT) Indonesia collaborated
-  with the State University of Semarang (UNNES) to host a mapathon for the capital
-  of Central Java. HOT currently deploys a team of 24 to map key lifeline infrastructures
-  in Semarang over a period of four months for the InAWARE-PDC project.
 Feature Image: "/uploads/IMG_4025.JPG"
 Person: Biondi Sanda Sima
 Country:
