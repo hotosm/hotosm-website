@@ -1,6 +1,6 @@
 ---
 title: Field surveying in Botswana to support the National Malaria Programme
-date: 2018-05-30 08:10:00 Z
+date: 2018-05-16 08:10:00 Z
 Summary Text: Although a lot of progress has been made to combat malaria, and yearly
   deaths worldwide have declined from over 1 million in 2000 to an estimated 429 000
   in 2015 (according to the WHO; estimates vary, see below), it is still one of the
