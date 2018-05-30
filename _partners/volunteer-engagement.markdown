@@ -5,11 +5,11 @@ permalink: /partners/volunteer-engagement
 Intro Text: 
 Page Contact:
   Label: Contact HOT
-  Text: Have a question about ways to Partner?
+  Text: Have a question about ways to partner?
   Contact Email: partnerships@hotosm.org
 ---
 
-# HOT helps organizations engage employees through digital mapping volunteer coordination
+# HOT helps organizations engage employees through digital mapping volunteer coordination  
 
 Corporate social responsibility & employee engagement: join the Missing Maps project!
 

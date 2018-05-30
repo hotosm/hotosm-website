@@ -5,7 +5,7 @@ permalink: /partners/field-data-collection
 Intro Text: 
 Page Contact:
   Label: Contact HOT
-  Text: Have a question about ways to Partner?
+  Text: Have a question about ways to partner?
   Contact Email: partnerships@hotosm.org
 ---
 

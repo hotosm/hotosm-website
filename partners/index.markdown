@@ -16,7 +16,7 @@ block-1:
     your organization’s values and commitment through mapping as an employee volunteering
     opportunity.
   Action-text: Learn More
-  Image: "/images/topo-1.jpg"
+  Image: "/uploads/missingmaps-mapathon.jpg"
   Link: '/partners/volunteer-engagement'
 block-2:
   Title: Rapid, detailed field data collection
@@ -25,14 +25,14 @@ block-2:
     collectors to gather data on the places they live and work, ensuring data accuracy,
     and enabling you to answer different questions through hyper local knowledge.
   Action-text: Learn More
-  Image: "/images/topo-2.jpg"
+  Image: "/uploads/botswana-field-data-collection.jpg"
   Link: '/partners/field-data-collection'
 block-3:
   Title: Technology training and support
   Text: We provide training across data literacy, data use, and mapping, to strengthen
     your organisation to harness geospatial and citizen-generated data.
   Action-text: Learn More
-  Image: "/images/topo-3.jpg"
+  Image: "/uploads/moses-github.jpg"
   Link: '/partners/technology-and-training'
 ---
 
