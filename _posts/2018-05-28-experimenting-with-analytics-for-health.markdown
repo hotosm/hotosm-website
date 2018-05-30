@@ -12,12 +12,6 @@ tags:
 - analytics
 - malaria
 - Botswana
-Summary Text: Over the last couple of years, HOT has been working with partners like
-  the Clinton Health Access Initiative (CHAI) and the Botswana Ministry of Health
-  and Wellness on malaria elimination. As these experts move towards using OpenStreetMap
-  data to plan spraying spraying campaigns, distribute prevention supplies, and prioritize
-  geographies of the mission, we’ve been working on better ways to understand map
-  completeness using machine learning, quality and progress of mapping.
 Feature Image: "/uploads/OpenStreetMap%20Analytics%20for%20Health%202018-05-28%2018-41-01.png"
 Person: Alyssa Wright
 Country:
