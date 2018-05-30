@@ -50,24 +50,18 @@ Office Locations:
     Plot 90, Kanjokya Street
     Kampala, Uganda
   Nav ID: office-locations
-Journalists:
+Media:
   Details: |-
-    Vestibulum id ligula porta felis euismod semper. Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Tyler
+    
+    Are you looking to report about HOT, use our logo, or share about the organization? You can find versions of our logo, photos, and recent articles:
+     
+    [Logo, colors, and fonts](https://github.com/hotosm/hotosm-website/wiki/Colors-Fonts-and-Logo)
+    [Photos from HOT activities](https://www.flickr.com/photos/hotosm/)
+    [Photos from Missing Maps](https://www.flickr.com/photos/126636925@N06/)
+    Previous Articles
 
     Contact us: [info@hotosm.org](info@hotosm.org)
-  Nav ID: journalists
-Volunteers:
-  Details: |-
-    Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras mattis consectetur purus sit amet fermentum.
-
-    Contact us: [info@hotosm.org](info@hotosm.org)
-  Nav ID: volunteers
-Governments:
-  Details: |-
-    Etiam porta sem malesuada magna mollis euismod. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Curabitur blandit tempus porttitor. Maecenas faucibus mollis interdum. Vestibulum id ligula porta felis euismod semper. Sed posuere consectetur est at lobortis.
-
-    Contact us: [info@hotosm.org](info@hotosm.org)
-  Nav ID: governments
+  Nav ID: media
 layout: contact
 ---
 
