@@ -14,7 +14,6 @@ Block 1:
     URL: http://learnosm.org
   - Name: Training Center
     URL: http://courses.hotosm.org/
-
 Block 2:
   Header: Plan a Mapping Campaign
   Text: If you are intersted starting a remote or field mapping campaign, you can
@@ -42,7 +41,7 @@ Block 3:
   - Name: OpenMapKit
     URL: http://openmapkit.org/
   - Name: Maps.me
-    URL: https://maps.me/ 
+    URL: https://maps.me/
 Block 4:
   Header: Get OSM Data
   Text: To access OSM data, HOT built the Export Tool which allows anyone to create
