@@ -10,8 +10,11 @@ Block 1:
     available within LearnOSM or the HOT Training Center.
   Image: "/uploads/tools-learnosm.png"
   Tools:
-  - LearnOSM
-  - Training Center
+  - Name: LearnOSM
+    URL: http://learnosm.org
+  - Name: Training Center
+    URL: http://courses.hotosm.org/
+
 Block 2:
   Header: Plan a Mapping Campaign
   Text: If you are intersted starting a remote or field mapping campaign, you can
@@ -20,9 +23,12 @@ Block 2:
     with MapCampaigner.
   Image: "/uploads/tools-taskingmanager.png"
   Tools:
-  - OpenAerialMap
-  - Tasking Manager
-  - Map Campaigner
+  - Name: OpenAerialMap
+    URL: https://openaerialmap.org/
+  - Name: Tasking Manager
+    URL: https://tasks.hotosm.org/
+  - Name: Map Campaigner
+    URL: http://campaigns.hotosm.org/
 Block 3:
   Header: Edit the Map
   Text: Quickly get started with editing and contibuting to OpenStreetMap via the
@@ -31,9 +37,12 @@ Block 3:
     for field based editing of OpenStreetMap.
   Image: "/uploads/tools-openmapkit.png"
   Tools:
-  - Tasking Manager
-  - OpenMapKit
-  - Maps.me
+  - Name: Tasking Manager
+    URL: https://tasks.hotosm.org/
+  - Name: OpenMapKit
+    URL: http://openmapkit.org/
+  - Name: Maps.me
+    URL: https://maps.me/ 
 Block 4:
   Header: Get OSM Data
   Text: To access OSM data, HOT built the Export Tool which allows anyone to create
@@ -41,7 +50,8 @@ Block 4:
     Export Tool allows you to save, rerun, and share OSM data.
   Image: "/uploads/tools-export.png"
   Tools:
-  - Export Tool
+  - Name: Export Tool
+    URL: https://export.hotosm.org/en/v3/
 Block 5:
   Header: Analyze
   Text: To understand more about how and when editing took place, or assess quality
@@ -50,7 +60,8 @@ Block 5:
     of data is available.
   Image: "/uploads/tools-osm-analytics.png"
   Tools:
-  - OSM Analytics
+  - Name: OSM Analytics
+    URL: http://osm-analytics.org/
 layout: tools-and-data
 ---
 
