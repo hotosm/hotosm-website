@@ -1,5 +1,5 @@
 ---
-title: Mini Grids
+title: 'Informing rural electrification: Mini Grids'
 date: 2018-04-24 12:45:00 Z
 position: 1
 Project Summary Text: The HOT Tanzania team are mapping rural areas of Tanzania to
