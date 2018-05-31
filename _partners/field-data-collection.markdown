@@ -19,11 +19,11 @@ We rapidly create datasets at large scale, both in field programs and remotely. 
 
 * **Speed**: we are a nimble organisation, able to set up projects in our existing country offices or new locations very quickly.
 
-* **Ease & Scalability**: working with community members we are able to reach scale very quickly, and ensure our data collection is ethical and appropriate to local context
+* **Ease & Scalability**: working with community members we are able to reach scale very quickly, and ensure our data collection is ethical and appropriate to local context.
 
 * **Answer any question**: our methodology works across a huge range of issues, both physical environment mapping and qualitative data gathering. Examples of current projects include sanitation access, service access for refugees, flood risk, infectious disease & healthcare.
 
-* **Sustainability**: by working with local community members and supporting local OpenStreetMap communities, we encourage data sustainability far beyond the project lifetime
+* **Sustainability**: by working with local community members and supporting local OpenStreetMap communities, we encourage data sustainability far beyond the project lifetime.
 
 * **Impact**: good quality, up to date, open data enables you to take better decisions in your projects, and gain valuable insights to improve how you work. For examples of this in action, [read about our projects](http://www-dev.hotosm.org/our-work).
 
