@@ -1,5 +1,5 @@
 ---
-title: 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+title: 'Refugee response: South Sudan and Syria'
 date: 2017-02-06 15:06:00 Z
 permalink: projects/urban_innovations_crowdsourcing_non-camp_refugee_data
 position: 2
