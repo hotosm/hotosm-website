@@ -9,7 +9,7 @@ Page Contact:
   Text: Interested in partnering with HOT?
   Contact Email: partnerships@hotosm.org
 block-1:
-  Title: Grow your volunteering program
+  Title: Increase employee engagement and drive social impact
   Text: Corporate social responsibility & employee engagement through the Missing
     Maps project. Map vulnerable unmapped places through digital volunteering. Demonstrate
     your organization’s values and commitment to disasters, health crises, refugee
@@ -18,7 +18,7 @@ block-1:
   Image: "/uploads/missingmaps-mapathon.jpg"
   Link: "/partners/volunteer-engagement"
 block-2:
-  Title: Rapid, detailed field data collection
+  Title: Collect geospatial data quickly and at scale
   Text: Need data for a project? We rapidly create datasets at large scale, both in
     field programs and remotely. Our methodology works directly with community data
     collectors to gather data on the places they live and work, ensuring data accuracy,
@@ -27,7 +27,7 @@ block-2:
   Image: "/uploads/botswana-field-data-collection.jpg"
   Link: "/partners/field-data-collection"
 block-3:
-  Title: Technology, training and support
+  Title: Strengthen geospatial data literacy, usage and analysis
   Text: We provide training across data literacy, data use, and mapping, to strengthen
     your organisation's potential to harness geospatial and citizen-generated data.
   Action-text: Learn More
