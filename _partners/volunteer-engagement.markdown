@@ -26,7 +26,7 @@ Digital volunteering to map vulnerable unmapped places: your global workforce ca
 
 * **Scale**: unite your global offices and remote workers to volunteer together on the same project.
 
-* **Micro-volunteering**: have an impact with as little as one hour of volunteering
+* **Micro-volunteering**: have an impact with as little as one hour of volunteering.
 
 * **Impact**: mapping is one of the only ways for volunteers to be directly involved in major crises happening in other countries. Mapping provides measurable outputs to understand your impact. Additionally, through mapping you can support a wide range of organisations and global issues, broadening the opportunities available to your volunteers.
 
