@@ -2295,11 +2295,7 @@ em {
     top: -66px;
     right: 40px;
     @media (max-width: $screen-xs) {
-      top: 16px;
-      right: 16px;
-      bottom: auto;
-      left: auto;
-      font-size: 0.875rem;
+      display: none;
     }
   }
 }
@@ -2323,6 +2319,9 @@ em {
   font-weight: bold;
   padding: 4px 5px 1px 6px;
   border-radius: 2px;
+  @media (max-width: $screen-xs) {
+    margin-top: 10px;
+  }
 }
 
 .our-work-map-legend > div > svg {
@@ -2417,6 +2416,9 @@ em {
     }
     h1.boxed {
       text-align: center;
+    }
+    @media (max-width: $screen-xs) {
+      display: none;
     }
   }
 }
