@@ -1,8 +1,7 @@
 
   var countries = {};
-  var impactAreas;
-  var projectCountries, memberCountries = [];
-  var impactTitle;
+  var impactCountries = [];
+  var impactTitle = '';
   
   fetch('/countries.json')
     .then(function(response) {
@@ -10,36 +9,15 @@
     })
     .then(function(jsonData) {
       countries = jsonData;
-      console.log(countries)
-      countriesList = Object.keys(countries);
-      projectCountries = countriesList.filter(function(item) {
-        return countries[item].hot_program || countries[item].community_program;
-      });
-      memberCountries = countriesList.filter(function(item) {
-        return countries[item].member && !projectCountries.includes(item);
-      });
-    }
-  );
-  
-  fetch('/impact-filter.json')
-    .then(function(response) {
-      console.log(JSON.stringify(response))
-      return response.json();
-    })
-    .then(function(jsonData) {
-      impactAreas = jsonData;
       impactTitle = $(document).find("title").text().split('|')[1].trim()
       console.log(impactTitle)
-      countriesList = Object.keys(impactAreas);
+      countriesList = Object.keys(countries);
       impactCountries = countriesList.filter(function(item){
-        return impactAreas[item][impactTitle];
+        return countries[item][impactTitle];
       })
-      console.log('ImpactAreas: ', impactAreas)
-      console.log('ImpactCountries: ', impactCountries)
-     
-
     }
   );
+ 
   
   mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
   var map = new mapboxgl.Map({
@@ -108,6 +86,3 @@
       }
     });
   });
-  
-
-
