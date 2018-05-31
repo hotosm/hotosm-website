@@ -1,5 +1,5 @@
 ---
-title: Haiti
+title: Post-earthquake response and recovery
 date: 2011-02-12 13:53:00 Z
 permalink: projects/haiti_
 position: 72
