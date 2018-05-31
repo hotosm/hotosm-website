@@ -1,5 +1,5 @@
 ---
-title: 'LEGIT: Supporting decentralization in Liberian cities'
+title: 'Supporting decentralization in Liberian cities: LEGIT'
 date: 2017-03-08 23:05:00 Z
 permalink: projects/legit_supporting_decentralization_in_liberian_cities
 position: 23
