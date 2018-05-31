@@ -1,9 +1,9 @@
 ---
 title: Dam safety and public protection through InaSAFE
 date: 2018-05-31 22:40:00 Z
-Project Summary Text: HOT mapped x and y communities to provide critical data on households
-  and key infrastructure. This exposure data was subsequently used to run scenarios
-  on dam collapse using InaSAFE.
+Project Summary Text: HOT mapped x and y communities to provide comprehensive data
+  on households and key infrastructure. The resulting exposure data was subsequently
+  used to run scenarios on dam failure using InaSAFE.
 Is Community-Led: false
 Country:
 - Indonesia
