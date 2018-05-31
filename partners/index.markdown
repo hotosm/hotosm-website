@@ -8,13 +8,12 @@ Page Contact:
   Label: Partner with us
   Text: Interested in partnering with HOT?
   Contact Email: partnerships@hotosm.org
-layout: partner
 block-1:
   Title: Grow your volunteering program
   Text: Corporate social responsibility & employee engagement through the Missing
-    Maps project. Use digital volunteering to map vulnerable unmapped places. Demonstrate
-    your organization’s values and commitment through mapping as an employee volunteering
-    opportunity.
+    Maps project. Map vulnerable unmapped places through digital volunteering. Demonstrate
+    your organization’s values and commitment to disasters, health crises, refugee
+    response, and the SDGs through mapping.
   Action-text: Learn More
   Image: "/uploads/missingmaps-mapathon.jpg"
   Link: "/partners/volunteer-engagement"
@@ -30,9 +29,10 @@ block-2:
 block-3:
   Title: Technology training and support
   Text: We provide training across data literacy, data use, and mapping, to strengthen
-    your organisation to harness geospatial and citizen-generated data.
+    your organisation's potential to harness geospatial and citizen-generated data.
   Action-text: Learn More
   Image: "/uploads/moses-github.jpg"
   Link: "/partners/technology-and-training"
+layout: partner
 ---
 
