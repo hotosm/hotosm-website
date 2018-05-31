@@ -1,5 +1,5 @@
 ---
-title: Mapping Financial Inclusion in Uganda
+title: Mapping access to digital financial services
 date: 2015-12-11 20:50:00 Z
 permalink: projects/mapping_financial_inclusion_in_uganda
 position: 54
