@@ -1,5 +1,5 @@
 ---
-title: Microgrants and Community Development
+title: 'Community development: Microgrants and Device Grants'
 date: 2017-12-11 22:00:00 Z
 permalink: projects/microgrants_and_community_development
 position: 70
