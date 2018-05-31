@@ -10,7 +10,6 @@
     .then(function(jsonData) {
       countries = jsonData;
       impactTitle = $(document).find("title").text().split('|')[1].trim()
-      console.log(impactTitle)
       countriesList = Object.keys(countries);
       impactCountries = countriesList.filter(function(item){
         return countries[item][impactTitle];
