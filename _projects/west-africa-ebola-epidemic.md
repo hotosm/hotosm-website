@@ -1,5 +1,5 @@
 ---
-title: West Africa Ebola Epidemic
+title: West Africa Ebola Epidemic 2014-16
 date: 2014-04-15 12:25:00 Z
 permalink: projects/west_africa_ebola_epidemic
 position: 37
