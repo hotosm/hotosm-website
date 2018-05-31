@@ -1,5 +1,5 @@
 ---
-title: Dar Ramani Huria — Dar Open Map
+title: 'Urban flood resilience: Ramani Huria'
 date: 2015-02-07 04:47:00 Z
 permalink: projects/dar_ramani_huria_dar_open_map
 position: 22
