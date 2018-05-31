@@ -27,7 +27,7 @@ block-2:
   Image: "/uploads/botswana-field-data-collection.jpg"
   Link: "/partners/field-data-collection"
 block-3:
-  Title: Technology training and support
+  Title: Technology, training and support
   Text: We provide training across data literacy, data use, and mapping, to strengthen
     your organisation's potential to harness geospatial and citizen-generated data.
   Action-text: Learn More
