@@ -1,6 +1,5 @@
 ---
-title: 'USAID | BNPB | InAWARE: Disaster Management Early Warning and Decision Support
-  Capacity Enhancement Project in Indonesia'
+title: 'Disaster early warning and capacity building: InAWARE'
 date: 2016-07-06 00:35:00 Z
 permalink: projects/usaid__bnpb__inaware_disaster_management_early_warning_and_decision_support_capacity_enhancement_project_in_indonesia
 position: 60
