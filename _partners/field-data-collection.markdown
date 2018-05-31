@@ -9,7 +9,7 @@ Page Contact:
 layout: page
 ---
 
-# HOT helps support field data collection projects around the world
+# HOT leads and supports field data collection projects around the world
 
 ### What?
 
