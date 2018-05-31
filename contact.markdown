@@ -19,25 +19,25 @@ Office Locations:
   - |-
     **United States**
 
-    [OpenGov Hub](https://goo.gl/maps/t5G9nNSRQ5x)
+    [OpenGov Hub](https://www.openstreetmap.org/node/4489226846)
     1110 Vermont Ave. NW Suite 500
     Washington, D.C. 20005
   - |-
     **Indonesia**
 
-    [HOT Indonesia Office](https://goo.gl/maps/W7dfhmkej1N2)
+    [HOT Indonesia Office](https://www.openstreetmap.org/way/480363603)
     Jalan Tebet Timur Dalam VII No. 15
     Tebet, Jakarta 12820
     Indonesia
 
-    [HOT Indonesia Semarang Office](https://goo.gl/maps/Przead662Yz)
+    [HOT Indonesia Semarang Office](https://www.openstreetmap.org/way/477532474)
     Jalan Bukit Merak No.5
     Sumurboto, Banyumanik, Semarang
     Indonesia
   - |-
     **Tanzania**
 
-    [Tanzania Data Lab (dLab)](https://goo.gl/maps/aAhXZonPPJk)
+    [Tanzania Data Lab (dLab)](https://www.openstreetmap.org/node/5467972321)
     New Bagamoyo Road
     Kijitonyama
     Dar es Salaam, Coastal, 4023
@@ -45,7 +45,7 @@ Office Locations:
   - |-
     **Uganda**
 
-    [Hive CoLab](https://goo.gl/maps/FT9BzJpe6JE2)
+    [Hive CoLab](https://www.openstreetmap.org/node/2792068002)
     4th Floor, Kanjokya House
     Plot 90, Kanjokya Street
     Kampala, Uganda
