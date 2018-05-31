@@ -1,5 +1,5 @@
 ---
-title: Indonesia Disaster Management Innovation
+title: Disaster Management Innovation
 date: 2011-09-02 21:19:00 Z
 permalink: projects/indonesia_disaster_management_innovation
 position: 27
