@@ -1,7 +1,7 @@
 ---
 title: Technology and Training
+permalink: "/partners/technology-and-training"
 layout: page
-permalink: /partners/technology-and-training
 Intro Text: 
 Page Contact:
   Label: Contact HOT

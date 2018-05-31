@@ -1,7 +1,7 @@
 ---
 title: OpenStreetMap Mali
 date: 2018-05-16 08:27:00 Z
-position: 17
+position: 18
 Project Summary Text: 'Mapping Bamako city and rural Mali to inform development initiatives
   and health services.  '
 Feature Image: "/uploads/IMG_0190.JPG"

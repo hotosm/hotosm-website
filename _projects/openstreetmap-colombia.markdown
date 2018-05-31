@@ -1,7 +1,7 @@
 ---
 title: OpenStreetMap Colombia
 date: 2018-05-16 07:27:00 Z
-position: 11
+position: 12
 Project Summary Text: Supporting agricultural communities to prepare for disasters
 Feature Image: "/uploads/Mocoa3.jpg"
 Is Community-Led: true

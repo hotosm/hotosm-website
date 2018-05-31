@@ -1,7 +1,7 @@
 ---
 title: OpenStreetMap Benin
 date: 2018-05-16 07:16:00 Z
-position: 10
+position: 11
 Project Summary Text: Mapping areas at risk of epidemiological crises in Benin
 Feature Image: "/uploads/osmbenin2.PNG"
 Is Community-Led: true

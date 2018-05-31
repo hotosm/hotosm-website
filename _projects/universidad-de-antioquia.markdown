@@ -1,7 +1,7 @@
 ---
 title: Universidad de Antioquia
 date: 2018-05-16 07:34:00 Z
-position: 12
+position: 13
 Project Summary Text: Mapping coastal wetlands for climate change resilience
 Feature Image: "/uploads/Final%20field%20workshop%20stakeholders%203.JPG"
 Is Community-Led: true

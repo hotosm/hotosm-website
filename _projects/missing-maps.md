@@ -2,7 +2,7 @@
 title: Missing Maps
 date: 2015-08-01 19:09:00 Z
 permalink: projects/missing_maps
-position: 48
+position: 49
 Project Summary Text: The Missing Maps is a collaborative project powered by HOT,
   MSF, the British / American Red Cross, and partners to provide base maps in the
   most vulnerable places in the developing world.

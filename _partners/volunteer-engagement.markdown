@@ -1,7 +1,7 @@
 ---
 title: Volunteer Engagement
+permalink: "/partners/volunteer-engagement"
 layout: page
-permalink: /partners/volunteer-engagement
 Intro Text: 
 Page Contact:
   Label: Contact HOT

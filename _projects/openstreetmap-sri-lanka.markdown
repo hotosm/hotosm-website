@@ -1,7 +1,7 @@
 ---
 title: OpenStreetMap Sri Lanka
 date: 2018-05-16 09:23:00 Z
-position: 6
+position: 7
 Project Summary Text: Building detailed maps of Sri Lanka for emergency response during
   natural disasters
 Feature Image: "/uploads/2.jpg"

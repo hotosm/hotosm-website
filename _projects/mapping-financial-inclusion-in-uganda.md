@@ -2,7 +2,7 @@
 title: Mapping Financial Inclusion in Uganda
 date: 2015-12-11 20:50:00 Z
 permalink: projects/mapping_financial_inclusion_in_uganda
-position: 53
+position: 54
 Project Summary Text: In order to increase digital financial inclusion, HOT maps access
   to financial services in Uganda to allow service providers to analyze gaps in coverage.
 Feature Image: "/uploads/Mobile%20money%20uganda.jpg"

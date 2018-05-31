@@ -17,7 +17,7 @@ block-1:
     opportunity.
   Action-text: Learn More
   Image: "/uploads/missingmaps-mapathon.jpg"
-  Link: '/partners/volunteer-engagement'
+  Link: "/partners/volunteer-engagement"
 block-2:
   Title: Rapid, detailed field data collection
   Text: Need data for a project? We rapidly create datasets at large scale, both in
@@ -26,13 +26,13 @@ block-2:
     and enabling you to answer different questions through hyper local knowledge.
   Action-text: Learn More
   Image: "/uploads/botswana-field-data-collection.jpg"
-  Link: '/partners/field-data-collection'
+  Link: "/partners/field-data-collection"
 block-3:
   Title: Technology training and support
   Text: We provide training across data literacy, data use, and mapping, to strengthen
     your organisation to harness geospatial and citizen-generated data.
   Action-text: Learn More
   Image: "/uploads/moses-github.jpg"
-  Link: '/partners/technology-and-training'
+  Link: "/partners/technology-and-training"
 ---
 

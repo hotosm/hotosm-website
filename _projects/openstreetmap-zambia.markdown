@@ -1,7 +1,7 @@
 ---
 title: OpenStreetMap Zambia
 date: 2018-05-16 09:51:00 Z
-position: 7
+position: 8
 Project Summary Text: Mapping to support water & sanitation initiatives and decentralization
   in Zambia
 Feature Image: "/uploads/zambiaphoto.PNG"

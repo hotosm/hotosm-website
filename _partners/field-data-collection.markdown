@@ -1,7 +1,7 @@
 ---
 title: Field Data Collection
+permalink: "/partners/field-data-collection"
 layout: page
-permalink: /partners/field-data-collection
 Intro Text: 
 Page Contact:
   Label: Contact HOT

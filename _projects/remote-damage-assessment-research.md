@@ -2,7 +2,7 @@
 title: Remote Damage Assessment Research
 date: 2017-06-28 14:29:00 Z
 permalink: projects/remote_damage_assessment_research
-position: 68
+position: 69
 Project Summary Text: This research project focuses on improving how building damage
   information is gathered through crowdsourcing
 Feature Image: "/uploads/Screen%20Shot%202017-06-27%20at%2022.57.42.jpg"
