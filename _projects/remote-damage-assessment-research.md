@@ -1,5 +1,5 @@
 ---
-title: Remote Damage Assessment Research
+title: Rapid post-disaster damage assessment research
 date: 2017-06-28 14:29:00 Z
 permalink: projects/remote_damage_assessment_research
 position: 69
