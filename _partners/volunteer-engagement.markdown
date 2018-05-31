@@ -33,7 +33,7 @@ Digital volunteering to map vulnerable unmapped places: your global workforce ca
 
 * Partner with us to map vulnerable places before the next disaster strikes to increase resiliency and support international development, and participate in disaster response. We will support you to engage your employees in mapping as a micro-volunteering activity, setting up large-scale remote and in person mapping events, connecting all your offices in the same mission. Mapping is simple and fun, all you need is a laptop, and 20 minutes of training to get started!
 
-* Email [partnerships@hotosm.org](mailto:partnerships@hotosm.org) for more information
+* Email [partnerships@hotosm.org](mailto:partnerships@hotosm.org) for more information.
 
 ### What have other partners done?
 Watch this quick video to see how Accenture engaged employees in 42 cities to put 230,000 people on the map in just 24 hours:
