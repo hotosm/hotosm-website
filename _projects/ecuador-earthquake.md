@@ -1,5 +1,5 @@
 ---
-title: Ecuador Earthquake
+title: 'Disaster Activation: Ecuador Earthquake 2016'
 date: 2016-04-22 20:36:00 Z
 permalink: projects/ecuador_earthquake
 position: 58
