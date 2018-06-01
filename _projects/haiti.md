@@ -1,5 +1,5 @@
 ---
-title: Post-earthquake response and recovery
+title: 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 date: 2011-02-12 13:53:00 Z
 permalink: projects/haiti_
 position: 74
