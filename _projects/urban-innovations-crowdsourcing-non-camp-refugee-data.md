@@ -8,6 +8,9 @@ Project Summary Text: The “Crowdsourcing Non-Camp Refugee Data Through OpenStr
 Feature Image: "/uploads/Uganda_MSFCompound-Yombe-SSudanese%20refugee%20mapping_July2017.jpg"
 Country:
 - Uganda
+- Turkey
+- Syria
+- South Sudan
 Impact Area:
 - Refugee Response
 Person:
