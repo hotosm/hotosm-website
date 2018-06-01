@@ -1,6 +1,7 @@
 ---
 layout: 
 ---
+
 {% capture countries_list %}
 {% for country in site.where-we-work %}
 {{ country.title }}::
