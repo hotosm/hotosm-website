@@ -1,6 +1,7 @@
 ---
 title: Stephanie Skryzowski
 date: 2017-11-20 14:29:00 Z
+Photo: "/uploads/Stephanie-f8b940.jpg"
 Member Type:
   Is Staff: true
 redirect_from:
