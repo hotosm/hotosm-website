@@ -1,5 +1,5 @@
 ---
-title: Hurricane Matthew
+title: 'Disaster Activation: Hurricane Matthew 2016'
 date: 2016-10-04 04:18:00 Z
 permalink: projects/hurricane_matthew
 position: 63
