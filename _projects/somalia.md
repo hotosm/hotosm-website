@@ -1,5 +1,5 @@
 ---
-title: Somalia
+title: 'Disaster Activation: Somalia 2011'
 date: 2011-09-03 12:48:00 Z
 permalink: projects/somalia
 position: 32
