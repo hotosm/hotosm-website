@@ -1,5 +1,5 @@
 ---
-title: Central African Republic Activation
+title: 'Disaster Activation: Central African Republic 2013'
 date: 2014-05-09 10:25:00 Z
 permalink: projects/central_african_republic_activation
 position: 40
