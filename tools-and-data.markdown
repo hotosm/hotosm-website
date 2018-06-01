@@ -33,8 +33,9 @@ Block 3:
   Text: Quickly get started with editing and contibuting to OpenStreetMap via the
     Tasking Manager. You can volunteer your time to active mapping projects and support
     organizations in need of map data around the world. Check out OpenMapKit or Maps.me
-    for field based editing of OpenStreetMap. Field Papers can be used for paper-based
-    data capture and upload.
+    for field based editing of OpenStreetMap. In low-bandwidth or disconnected environments,
+    Field Papers can be used for paper-based data capture and POSM can be used for
+    offline OSM editing.
   Image: "/uploads/tools-openmapkit.png"
   Tools:
   - Name: Tasking Manager
@@ -45,6 +46,8 @@ Block 3:
     URL: https://maps.me/
   - Name: Field Papers
     URL: http://www.fieldpapers.org
+  - Name: Portable OpenStreetMap (POSM)
+    URL: http://posm.io/
 Block 4:
   Header: Get OSM Data
   Text: To access OSM data, HOT built the Export Tool which allows anyone to create
