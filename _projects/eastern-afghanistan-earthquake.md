@@ -1,5 +1,5 @@
 ---
-title: Eastern Afghanistan Earthquake
+title: 'Disaster Activation: Eastern Afghanistan Earthquake 2015'
 date: 2015-10-27 17:22:00 Z
 permalink: projects/eastern_afghanistan_earthquake
 position: 54
