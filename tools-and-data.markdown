@@ -51,6 +51,8 @@ Block 4:
   Tools:
   - Name: Export Tool
     URL: https://export.hotosm.org/en/v3/
+  - Name: Humanitarian Data Exchange (HDX)
+    URL: https://data.humdata.org/organization/hot
 Block 5:
   Header: Analyze
   Text: To understand more about how and when editing took place, or assess quality
