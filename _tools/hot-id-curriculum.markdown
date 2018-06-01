@@ -2,7 +2,7 @@
 title: HOT ID Curriculum
 date: 2018-05-24 22:24:00 Z
 published: false
-position: 11
+position: 12
 Tool URL: http://openstreetmap.id/en/tutorial/panduansd4cp/
 ---
 
