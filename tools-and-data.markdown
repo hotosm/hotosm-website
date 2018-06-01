@@ -52,7 +52,8 @@ Block 4:
   Header: Get OSM Data
   Text: To access OSM data, HOT built the Export Tool which allows anyone to create
     custom extracts of OSM based on the area and type of data you want to access.
-    Export Tool allows you to save, rerun, and share OSM data.
+    Export Tool allows you to save, rerun, and share OSM data. Exports for selected
+    countries with active disaster or crisis responses are also available via HDX.
   Image: "/uploads/tools-export.png"
   Tools:
   - Name: Export Tool
