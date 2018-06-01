@@ -5,6 +5,10 @@ Photo: "/uploads/Wulan.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
+Job Title: Mapping Supervisor
+Project:
+- Facebook
+Country: Indonesia
 redirect_from:
 - "/users/wulansari_khairunisa"
 ---
