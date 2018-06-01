@@ -1,5 +1,5 @@
 ---
-title: 'Disaster Activation: Hurricane Patricia'
+title: 'Disaster Activation: Hurricane Patricia 2015'
 date: 2015-10-23 21:50:00 Z
 permalink: projects/hurricane_patricia
 position: 53
