@@ -1,5 +1,5 @@
 ---
-title: Cyclone Enawo Response
+title: 'Disaster Activation: Cyclone Enawo 2017'
 date: 2017-04-29 01:06:00 Z
 permalink: projects/cyclone_enawo_response
 position: 69
