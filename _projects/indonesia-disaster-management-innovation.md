@@ -2,7 +2,7 @@
 title: Disaster Management Innovation
 date: 2011-09-02 21:19:00 Z
 permalink: projects/indonesia_disaster_management_innovation
-position: 27
+position: 29
 Project Summary Text: HOT Indonesia is now in its third year of its data preparedness
   and Disaster Risk Reduction (DRR) project.
 Feature Image: "/uploads/WhatsApp%20Image%202017-10-27%20at%205.24.44%20PM.jpeg"

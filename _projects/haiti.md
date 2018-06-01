@@ -2,7 +2,7 @@
 title: Post-earthquake response and recovery
 date: 2011-02-12 13:53:00 Z
 permalink: projects/haiti_
-position: 72
+position: 74
 Project Summary Text: Since the 2010 Haiti earthquake, HOT has undertaken six field
   missions and remote mapping to create basemaps for post-disaster development
 Feature Image: "/uploads/Haiti%20(1).png"

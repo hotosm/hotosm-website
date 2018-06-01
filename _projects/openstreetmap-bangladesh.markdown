@@ -1,7 +1,7 @@
 ---
 title: Bangladesh Humanitarian OpenStreetMap Operation Team (BHOOT)
 date: 2018-05-16 06:40:00 Z
-position: 5
+position: 7
 Project Summary Text: 'Supporting flood activations, waste management, sustainable
   planning and access to health in Bangladesh. '
 Feature Image: "/uploads/IMG_20180408_120916.jpg"

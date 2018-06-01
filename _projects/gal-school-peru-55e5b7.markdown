@@ -1,7 +1,7 @@
 ---
 title: GAL School Peru
 date: 2018-05-17 06:15:00 Z
-position: 21
+position: 23
 Project Summary Text: GAL School is empowering students to develop projects for social
   good using OpenStreetMap
 Feature Image: "/uploads/IMG_3538.JPG"

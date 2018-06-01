@@ -1,7 +1,7 @@
 ---
 title: 'Field data collection for malaria elimination: National Malaria Programme'
 date: 2018-05-30 14:56:00 Z
-position: 3
+position: 5
 Feature Image: "/uploads/IMG_20180417_151354-2.jpg"
 Country:
 - Botswana
