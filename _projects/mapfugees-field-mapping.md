@@ -1,5 +1,5 @@
 ---
-title: MapFugees Field Mapping
+title: 'Syria refugee response: Mapfugees'
 date: 2016-11-24 23:55:00 Z
 permalink: projects/mapfugees_field_mapping
 position: 65
