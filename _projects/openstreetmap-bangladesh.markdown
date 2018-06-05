@@ -9,8 +9,6 @@ Country:
 - Bangladesh
 Impact Area:
 - Sustainable Cities
-- Disaster Response
-- Public Health
 Person:
 - Tasauf A Baki Billah (Ribin)
 Micrograntee: true
