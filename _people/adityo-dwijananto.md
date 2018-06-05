@@ -1,7 +1,7 @@
 ---
 title: Adityo Dwijananto
 date: 2016-01-11 23:46:00 Z
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-326-1466048750.jpg
+Photo: "/uploads/HOT_ID_Staff_Adis.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
