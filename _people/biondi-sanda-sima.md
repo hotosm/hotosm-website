@@ -1,7 +1,7 @@
 ---
 title: Biondi Sanda Sima
 date: 2014-04-17 18:25:00 Z
-Photo: "/uploads/HOT_ID_Staff_Biondi.png"
+Photo: "/uploads/DSC_0522.jpg"
 Member Type:
   Is Staff: true
   Is Voting Member: true
