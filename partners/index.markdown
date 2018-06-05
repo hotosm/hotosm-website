@@ -1,9 +1,9 @@
 ---
 title: Partner with us
 position: 0
-Intro Text: Support from organisations really matters to HOT. It means we can be ready
-  to respond when disaster strikes, and support any community or organisation anywhere
-  in the world with free, up to date, open map data.
+Intro Text: HOT provides tools, training and expertise to help organisations get started
+  with large scale volunteering, run rapid field data collection campaigns, and improve
+  the way they use technology and data in their organisations.
 Page Contact:
   Label: Partner with us
   Text: Interested in partnering with HOT?
