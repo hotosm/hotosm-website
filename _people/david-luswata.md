@@ -5,7 +5,7 @@ Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/pictu
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Training Specialist/Project Manager
+Job Title: Project Manager
 Working Group:
 - Training
 - Communications
