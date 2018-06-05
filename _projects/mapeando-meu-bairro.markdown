@@ -1,5 +1,5 @@
 ---
-title: 'Mapeando Meu Bairro:'
+title: 'Mapeando Meu Bairro: Mapping Mafalala'
 date: 2018-06-05 13:56:00 Z
 Project Summary Text: Preserving cultural heritage
 Is Community-Led: true
