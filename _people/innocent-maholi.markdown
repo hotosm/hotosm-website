@@ -4,7 +4,7 @@ date: 2018-06-01 19:58:00 Z
 Photo: "/uploads/IMG_1612.JPG"
 Member Type:
   Is Staff: true
-Job Title: Mapping & Training Supervisor
+Job Title: Deputy Country Manager
 Country: Tanzania
 ---
 
