@@ -1,0 +1,45 @@
+<a class="project-archived" href="{{ project.url }}">
+
+  <div class="module-details">
+
+    <div class="module-text">
+
+      <h3>{{ project.title }}</h3>
+
+      <p class="project-involvement">
+        {% if project['Is Community-Led'] %}
+          Community-Led
+        {% else %}
+          HOT Program
+        {% endif %}
+      </p>
+
+      {% if project.Country[0] != '' %}
+        <p class="project-countries">
+
+          {% if project.Country.size < 3 %}
+            {% for country in project.Country %}
+              <span class="project-country">{{ country }}</span>
+            {% endfor %}
+          {% else %}
+            {% assign countrycount = project.Country.size %}
+            <span class="project-country">{{ project.Country | first }} and {{ countrycount | minus: 1 }} other countries</span>
+          {% endif %}
+        </p>
+      {% else %}
+        <p class="project-countries">
+          <span class="project-country">Global</span>
+        </p>
+      {% endif %}
+
+    </div>
+
+  </div>
+
+  <!-- <div class="module-image">
+    {% if project['Feature Image'] %}
+      <img src="{{ project['Feature Image']}}">
+    {% endif %}
+  </div> -->
+
+</a>
