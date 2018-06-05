@@ -7,6 +7,8 @@ Feature Image: "/uploads/IMG-20180416-WA0037.jpg"
 Is Community-Led: true
 Country:
 - Gambia
+Impact Area:
+- Disaster Risk Reduction
 Micrograntee: true
 Website: http://www.ymca.gm/
 ---
