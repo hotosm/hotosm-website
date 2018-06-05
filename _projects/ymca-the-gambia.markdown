@@ -1,13 +1,13 @@
 ---
-title: YMCA The Gambia
+title: 'YMCA Gambia: Developing Young Mappers'
 date: 2018-05-16 07:44:00 Z
 position: 16
 Project Summary Text: Mapping social services and flood risk areas in The Gambia
 Feature Image: "/uploads/IMG-20180416-WA0037.jpg"
 Is Community-Led: true
-Micrograntee: true
 Country:
 - Gambia
+Micrograntee: true
 Website: http://www.ymca.gm/
 ---
 
