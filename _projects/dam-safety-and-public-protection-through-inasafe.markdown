@@ -5,6 +5,7 @@ position: 4
 Project Summary Text: HOT mapped x and y communities to provide comprehensive data
   on households and key infrastructure. The resulting exposure data was subsequently
   used to run scenarios on dam failure using InaSAFE.
+Feature Image: "/uploads/Screen%20Shot%202018-06-04%20at%201.54.25%20PM-4a0eaa.png"
 Is Community-Led: false
 Country:
 - Indonesia
