@@ -1,7 +1,7 @@
 ---
 title: Adhitya Dido
 date: 2016-12-15 19:21:00 Z
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-348-1481831993.png
+Photo: "/uploads/Screen%20Shot%202018-06-05%20at%202.11.22%20PM.png"
 Member Type:
   Is Staff: true
 Job Title: GIS Training Officer
