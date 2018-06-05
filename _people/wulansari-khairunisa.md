@@ -1,7 +1,7 @@
 ---
 title: Wulansari Khairunisa
 date: 2017-02-28 14:00:00 Z
-Photo: "/uploads/Wulan.png"
+Photo: "/uploads/HOT_ID_Staff_Wulan.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
