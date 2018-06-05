@@ -6,6 +6,7 @@ Page Contact:
   Label: Contact HOT
   Text: Have a question about ways to partner?
   Contact Email: partnerships@hotosm.org
+Project: Missing Maps
 layout: page
 ---
 
