@@ -30,7 +30,7 @@ potential impact associated with dam failures.
 In order to improve the capacity for disaster preparedness, the National Disaster Management Authority (BNPB) has been collaborating with Global Facility for Disaster Reduction and Recovery (GFDRR) and the Australian Government to develop and continuously refine an open-source natural hazard impact assessment software InaSAFE (Indonesia Scenario Assessment for Emergency). InaSAFE produces realistic natural hazard impact scenarios from different technical and social data to inform
 better planning, preparedness and response activities. 
 ![Screen Shot 2018-06-04 at 1.53.59 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.53.59%20PM.png)
-![Screen Shot 2018-06-04 at 1.53.59 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.53.59%20PM.png)
+![Screen Shot 2018-06-04 at 1.55.33 PM-35757c.png](/uploads/Screen%20Shot%202018-06-04%20at%201.55.33%20PM-35757c.png)
 It provides a simple but rigorous way to combine data from scientists, local governments and communities to provide insights into the likely impacts of future disaster events that can be used to communicate the risk with key stakeholders and to Scope of the just-in-time support for Dam Safety.
 ![Screen Shot 2018-06-04 at 1.54.25 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.54.25%20PM.png)
 ![Screen Shot 2018-06-04 at 1.53.17 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.53.17%20PM.png)
