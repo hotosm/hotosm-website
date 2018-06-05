@@ -1,9 +1,9 @@
 ---
 title: Partner with us
 position: 0
-Intro Text: HOT provides tools, training and expertise to help organisations get started
-  with large scale volunteering, run rapid field data collection campaigns, and improve
-  the way they use technology and data in their organisations.
+Intro Text: HOT provides open source tools, training and expertise to help organisations
+  get started with large scale volunteering, run rapid field data collection campaigns,
+  and improve the way they use technology and open map data in their organisations.
 Page Contact:
   Label: Partner with us
   Text: Interested in partnering with HOT?
