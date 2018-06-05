@@ -1,7 +1,7 @@
 ---
 title: Biondi Sanda Sima
 date: 2014-04-17 18:25:00 Z
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-83-1482132491.jpg
+Photo: "/uploads/HOT_ID_Staff_Biondi.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
