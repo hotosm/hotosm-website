@@ -7,6 +7,7 @@ Page Contact:
   Text: Have a question about ways to partner?
   Contact Email: partnerships@hotosm.org
 layout: page
+Project: Missing Maps
 ---
 
 # HOT leads and supports field data collection projects around the world
@@ -30,3 +31,5 @@ We rapidly create datasets at large scale, both in field programs and remotely. 
 ### How?
 
 Get in touch at [partnerships@hotosm.org](mailto:partnerships@hotosm.org) to discuss your project.
+
+### Example

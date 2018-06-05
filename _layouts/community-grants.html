@@ -24,12 +24,6 @@ layout: default
 
       {% for project in site.projects %}
         {% if project['Micrograntee'] %}
-<!--           <a href="{{ project.url }}" class="module light link-through">
-            <div class="module-details">
-              <h3>{{ project.title }}</h3>
-              <div class="module-text"><p>{{ project.content }}</p></div>
-            </div>
-          </a> -->
           {% include blocks/project-thumb.html %}
         {% endif %}
       {% endfor %}
