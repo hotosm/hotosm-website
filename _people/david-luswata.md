@@ -15,7 +15,7 @@ Project:
 - HOT Summit 2016
 - West Africa Ebola Epidemic
 - Mapping Financial Inclusion in Uganda
-Country: Uganda
+Country: Botswana
 Social Media (Full URL):
   Twitter: https://twitter.com/lusdavo
 redirect_from:
