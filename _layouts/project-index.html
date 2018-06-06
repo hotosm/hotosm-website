@@ -96,7 +96,7 @@ layout: default
 
     <div class="project-index-impact-areas">
       <div class="impact-areas-wrapper">
-        <h2 class="boxed">Narrow projects by impact area</h2>
+        <h2 class="boxed">See more projects by impact area</h2>
         <ul class="impact-areas-list">
           {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
           {% for impact-area in sorted-impact-areas %}
@@ -108,12 +108,17 @@ layout: default
 
   </div>
 
-  <div class="project-archive-wrap">
+  <div
+    class="archive-header container"
+    data-toggle="collapse"
+    data-target=".collapse"
+    data-text="Collapse"
+    >
+      All projects
+  </div>
+
+  <div class="project-archive-wrap collapse">
     <div class="container">
-      <h6>Project Archive</h6>
-
-      <div class="hr-h"></div>
-
       <div class="project-index-archive">
 
         {% assign sorted_projects = site.projects | sort:"position" | reverse %}

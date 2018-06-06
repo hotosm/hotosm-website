@@ -616,6 +616,31 @@ em {
   }
 }
 
+.collapse {
+  display: block;
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .5s cubic-bezier(0, 1, 0, 1);;
+
+  &.show {
+    max-height: 100em;
+    transition: max-height .5s ease-in-out;
+  }
+}
+
+.block {
+  margin-top: 10px;
+  background: #f5f5f5;
+  padding: 0;
+  // height: 250px;
+
+  &__content {
+    border: 1px solid #ccc;
+    padding: 1.5em;
+    height: 100%;
+  }
+}
+
 
 ////////////////////////////////////////////////
 /////////////// Grid & Containers //////////////
@@ -1140,15 +1165,50 @@ em {
   }
 }
 
+.archive-header {
+  background-color: $tan;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-top: 1px solid shade($tan, 10%);
+  position: relative;
+  font-size: 1.375rem;
+  text-transform: lowercase;
+  cursor: pointer;
+  transition: background-color .25s ease;
+  &:before {
+    content: 'View';
+    text-transform: capitalize;
+  }
+  &:after {
+    content: '';
+    display: block;
+    position: absolute;
+    right: 40px;
+    top: 30px;
+    height: 40px;
+    width: 40px;
+    background-image: url(../images/chevron-white.svg);
+    background-color: shade($tan, 20%);
+    background-repeat: no-repeat;
+    background-position: left 17px center;
+    border-radius: 20px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    transform: rotate(90deg);
+    transition: background-color 0.3s ease-in-out;
+    @media (max-width: $screen-xs) {
+      right: 16px;
+    }
+  }
+  &:hover {
+    background-color: shade($tan, 2%);
+    &:after {
+      background-color: $red;
+    }
+  }
+}
+
 .project-archive-wrap {
   background-color: $tan;
-  padding: 40px 0;
-  .hr-h, .hr-v {
-    background-color: 1px solid shade($tan, 10%);
-  }
-  .hr-h {
-    margin-bottom: 32px;
-  }
 }
 
 .project-index-archive {
@@ -1156,6 +1216,8 @@ em {
   grid-template-columns: repeat(1, 1fr);
   grid-auto-rows: min-content;
   grid-gap: 26px 32px;
+  padding: 40px 0;
+  border-top: 1px solid shade($tan, 10%);
   @media (min-width: $screen-xs) {
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 26px 32px;
