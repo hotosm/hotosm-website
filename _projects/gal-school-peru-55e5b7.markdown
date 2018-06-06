@@ -1,18 +1,18 @@
 ---
-title: GAL School Peru
+title: 'GAL School Peru: Developing Young Mappers'
 date: 2018-05-17 06:15:00 Z
 position: 23
 Project Summary Text: GAL School is empowering students to develop projects for social
   good using OpenStreetMap
 Feature Image: "/uploads/IMG_3538.JPG"
 Is Community-Led: true
-Micrograntee: true
 Country:
 - Peru
 Impact Area:
 - Transportation
 - Disaster Risk Reduction
 - Sustainable Cities
+Micrograntee: true
 ---
 
 In Peru, GAL (Global Active Learning) School is empowering 11-16 year olds to develop their own projects for social good using OpenStreetMap, Open Data and 360 imagery. Students are currently developing mapping projects in three main areas of focus:
