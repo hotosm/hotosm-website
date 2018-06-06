@@ -38,7 +38,7 @@
 
   <div class="module-image">
     {% if project['Feature Image'] %}
-      <img src="{{ project['Feature Image']}}">
+      <img {% if project['Is image top aligned'] %} style="object-position: top center" {% endif %} src="{{ project['Feature Image']}}">
     {% endif %}
   </div>
 
