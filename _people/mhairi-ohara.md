@@ -1,7 +1,7 @@
 ---
 title: Mhairi O'Hara
 date: 2015-02-12 14:16:00 Z
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-252-1461153821.png
+Photo: "/uploads/MEO-1.JPG"
 Member Type:
   Is Staff: true
   Is Voting Member: true
