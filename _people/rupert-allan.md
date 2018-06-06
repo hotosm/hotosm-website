@@ -1,7 +1,7 @@
 ---
 title: Rupert Allan
 date: 2017-10-27 18:18:00 Z
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-406-1514408728.jpg
+Photo: "/uploads/Rupert_headshot.jpg"
 Member Type:
   Is Staff: true
 Job Title: Country Manager
