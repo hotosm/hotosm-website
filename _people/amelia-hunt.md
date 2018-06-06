@@ -1,7 +1,7 @@
 ---
 title: Amelia Hunt
 date: 2017-11-22 16:08:00 Z
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-414-1511451702.jpg
+Photo: "/uploads/IMG_1719-585a24.JPG"
 Member Type:
   Is Staff: true
 Job Title: Project Assistant
