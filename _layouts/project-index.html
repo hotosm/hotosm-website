@@ -41,6 +41,7 @@ layout: default
           </div>
         </div>
       </div>
+      
     </div>
 
 
@@ -66,8 +67,35 @@ layout: default
 
   </div>
 
-  <div id="our-work-projects" class="container">
-
+    <div id="our-work-projects" class="container">
+      <div class="container home-stats">
+        <div class="home-stat">
+            <center><p id ="mappers" class="loader"></p></center>
+            <p class="stat-number" id="Community-Mappers"></p>
+            <p class="stat-title">Total Mappers<sup>&#9432;</sup>
+              <span class="tooltiptext">Total number of HOT Community Mappers</span>
+            </p>
+        </div>
+        <div class="hr-v"></div>
+        <div class="home-stat">
+          <center><p id ="online-mappers" class="loader"></p></center>
+          <p class="stat-number" id="Online-Mappers"></p>
+          <p class="stat-title">Mappers Online<sup>&#9432;</sup>
+            <span class="tooltiptext">Total number of mappers currently active on HOT</span>
+          </p>
+        </div>
+        <div class="hr-v"></div>
+    
+        <div class="hr-v hide-sm"></div>
+        <div class="home-stat">
+          <center><p id ="task" class="loader"></p></center>
+          <p class="stat-number" id="Tasks-Mapped"></p>
+          <p class="stat-title">Total Tasks<sup>&#9432;</sup>
+            <span class="tooltiptext">Total number of tasks mapped by the Community</span>
+          </p>
+        </div>
+        
+      </div>
     <h6>Highlighted Projects</h6>
 
     <div class="project-index-highlights">
@@ -93,6 +121,7 @@ layout: default
     </div>
 
   </div>
+  
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
   <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
   <script src="{{ "/js/our-work-map.js" | prepend: site.baseurl }}"></script>
