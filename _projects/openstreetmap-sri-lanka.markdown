@@ -1,5 +1,5 @@
 ---
-title: 'OSM Sierra Leone: Improving the Basemap'
+title: 'OSM Sri Lanka: Disaster Risk Reduction'
 date: 2018-05-16 09:23:00 Z
 position: 9
 Project Summary Text: Building detailed maps of Sri Lanka for emergency response during
