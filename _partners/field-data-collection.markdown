@@ -3,7 +3,7 @@ title: Field Data Collection
 permalink: "/partners/field-data-collection"
 Intro Text: 
 Page Contact:
-  Label: Contact HOT
+  Label: Email Us
   Text: Have a question about ways to partner?
   Contact Email: partnerships@hotosm.org
 layout: page

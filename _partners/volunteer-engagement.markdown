@@ -3,7 +3,7 @@ title: Increase employee engagement and drive social impact
 permalink: "/partners/volunteer-engagement"
 Intro Text: 
 Page Contact:
-  Label: Contact HOT
+  Label: Email Us
   Text: Have a question about ways to partner?
   Contact Email: partnerships@hotosm.org
 Project: Missing Maps

@@ -3,7 +3,14 @@ title: Tools & Data
 date: 2018-02-06 15:16:00 Z
 position: 4
 Block 1:
-  Header: Learn
+  Header: Open Source
+  Text: Open source is at the heart of the HOT Community. We create and build open source tools and run our projects with an open source ethos. If you are interested in using our tools or contributing, you can access all our code, documentation, and other resources on GitHub.
+  Image: "/uploads/open-source.png"
+  Tools:
+  - Name: Access our repositories
+    URL: http://github.com/hotosm
+Block 2:
+  Header: Learn about OpenStreetMap
   Text: OpenStreetMap is a free street level map of the world, created by an ever
     growing community of mappers. Get started by learning about how to edit OpenStreetMap
     or using the many tools available to edit or use OSM data. Check out the resources
@@ -14,7 +21,7 @@ Block 1:
     URL: http://learnosm.org
   - Name: Training Center
     URL: http://courses.hotosm.org/
-Block 2:
+Block 3:
   Header: Plan a Mapping Campaign
   Text: If you are intersted starting a remote or field mapping campaign, you can
     get started by finding available imagery to use via OpenAerialMap, plan a remote
@@ -28,7 +35,7 @@ Block 2:
     URL: https://tasks.hotosm.org/
   - Name: Map Campaigner
     URL: http://campaigns.hotosm.org/
-Block 3:
+Block 4:
   Header: Edit the Map
   Text: Quickly get started with editing and contibuting to OpenStreetMap via the
     Tasking Manager. You can volunteer your time to active mapping projects and support
@@ -48,7 +55,7 @@ Block 3:
     URL: http://www.fieldpapers.org
   - Name: Portable OpenStreetMap (POSM)
     URL: http://posm.io/
-Block 4:
+Block 5:
   Header: Get OSM Data
   Text: To access OSM data, HOT built the Export Tool which allows anyone to create
     custom extracts of OSM based on the area and type of data you want to access.
@@ -60,8 +67,8 @@ Block 4:
     URL: https://export.hotosm.org/en/v3/
   - Name: Humanitarian Data Exchange (HDX)
     URL: https://data.humdata.org/organization/hot
-Block 5:
-  Header: Analyze
+Block 6:
+  Header: Analyze the data
   Text: To understand more about how and when editing took place, or assess quality
     within OSM, use the OSM Analytics suite of tools. You can view how data has changed
     over time within OSM, understand quality within an area, or analyze what type
