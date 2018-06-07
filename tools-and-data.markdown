@@ -4,7 +4,10 @@ date: 2018-02-06 15:16:00 Z
 position: 4
 Block 1:
   Header: Open Source
-  Text: Open source is at the heart of the HOT Community. We create and build open source tools and run our projects with an open source ethos. If you are interested in using our tools or contributing, you can access all our code, documentation, and other resources on GitHub.
+  Text: Open source is at the heart of the HOT Community. We create and build open
+    source tools and run our projects with an open source ethos. If you are interested
+    in using our tools or contributing, you can access all our code, documentation,
+    and other resources on GitHub.
   Image: "/uploads/open-source.png"
   Tools:
   - Name: Access our repositories
