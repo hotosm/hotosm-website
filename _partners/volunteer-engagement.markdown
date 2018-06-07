@@ -6,7 +6,6 @@ Page Contact:
   Label: Email Us
   Text: Have a question about ways to partner?
   Contact Email: partnerships@hotosm.org
-Project: Missing Maps
 layout: page
 ---
 
@@ -39,4 +38,5 @@ Digital volunteering to map vulnerable unmapped places: your global workforce ca
 
 ### What have other partners done?
 Watch this quick video to see how Accenture engaged employees in 42 cities to put 230,000 people on the map in just 24 hours:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tHr6Pf4W_gg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/tHr6Pf4W_gg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

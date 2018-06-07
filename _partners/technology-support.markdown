@@ -7,6 +7,7 @@ Page Contact:
   Text: Have a question about ways to partner?
   Contact Email: partnerships@hotosm.org
 layout: page
+Project: Missing Maps
 ---
 
 # HOT helps build technology capacity and provide support to help you use open source mapping technologies and software
@@ -25,4 +26,4 @@ We provide training across data literacy, data use, and mapping using multiple d
 
 ### How?
 
-Get in touch at [partnerships@hotosm.org](mailto:partnerships@hotosm.org) to discuss your project.
+Get in touch at [partnerships@hotosm.org](mailto:partnerships@hotosm.org) to discuss your project. Read more about [all our projects](/our-work) or check out what we're doing now in field data collection with a recent project:

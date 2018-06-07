@@ -21,6 +21,21 @@ layout: default
         <p class="news-summary">{{ page['Intro Text' ]}}</p>
       {% endif %}
       {{ content }}
+
+
+      {% if page.url contains "partners" %}
+      {% if page.Project %}
+        {% for partner-project in page.Project %}
+          {% for project in site.projects %}
+            {% if partner-project == project.title %}
+              <div class="project-index-all partner-projects">
+                {% include blocks/project-thumb.html %}
+              </div>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      {% endif %}
+      {% endif %}
     </div>
 
     <aside class="meta">
