@@ -4,7 +4,7 @@ date: 2017-11-22 16:08:00 Z
 Photo: "/uploads/IMG_1719-585a24.JPG"
 Member Type:
   Is Staff: true
-Job Title: Project Assistant
+Job Title: Community programmes & Communications Manager
 Working Group:
 - Community
 - Communications
