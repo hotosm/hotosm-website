@@ -130,6 +130,27 @@ layout: default
       </div>
     </div>
 
+    <div class="half-block dark right">
+      <div class="block-details">
+        <div class="block-info">
+          <h3>{{ page['Block 6'].Header }}</h3>
+          <p>{{ page['Block 6'].Text }}</p>
+        </div>
+        <div class="block-options">
+          <ul>
+            {% for tool in page['Block 6'].Tools %}
+              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="block-screenshot">
+        <div class="block-screenshot-wrap">
+          <img src="{{ page['Block 6'].Image }}">
+        </div>
+      </div>
+    </div>
+
   </div>
 
 </div>
