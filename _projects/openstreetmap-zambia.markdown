@@ -12,6 +12,7 @@ Impact Area:
 Person:
 - Gertrude (Trudy Hope) Namitala
 Micrograntee: true
+Is image top aligned: true
 ---
 
 OSM Zambia are currently working on the 'Lusaka Sanitation Program'. The Lusaka Sanitation Program is a two month project which is part of the Climate-friendly Sanitation in Peri-Urban areas of Lusaka (CFS-Lusaka) initiative. The data collected by OSM Zambia aims to provide development services with detailed maps of the city to improve on-site sanitation and waste management facilities to prevent outbreaks of diseases such as cholera. 
