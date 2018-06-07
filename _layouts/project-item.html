@@ -40,7 +40,7 @@ layout: default
   <div class="project-body">
 
     {% if page['Feature Image'] %}
-      <img class="project-feature-image" src="{{ page['Feature Image' ]}}">
+      <img class="project-feature-image" {% if page['Is image top aligned'] %} style="object-position: top center" {% endif %} src="{{ page['Feature Image' ]}}">
     {% endif %}
 
     <section class="article">
