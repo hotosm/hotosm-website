@@ -135,8 +135,8 @@ map.on('load', function () {
         $("#hover-country").empty();
         $("#hover-country").removeClass('hide');
         $("#hover-country").append(
-          '<p><strong>' + areaHover[0].properties.NAME_LONG + '</strong></p>' +
-          '<p>(click on the country to see the details)</p>'
+          '<p class="hover-name">' + areaHover[0].properties.NAME_LONG + '</p>' +
+          '<p>Click on the country to see the details</p>'
         );
         lastCountry = areaHover[0].properties.NAME_LONG;
       }

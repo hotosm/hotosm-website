@@ -25,7 +25,7 @@ $('#control-left').on('click', function (event) {
 var fixmeTop = $('.nav-main').offset().top;
 $(window).scroll(function() {
   var currentScroll = $(window).scrollTop();
-  if (currentScroll >= fixmeTop) {
+  if (currentScroll >= fixmeTop + 64) {
     $('#nav-container').addClass( 'fixed-nav' );
     $('.nav-logo').addClass( 'fixed-nav' );
     $('.nav-logo-text').addClass( 'fixed-nav' );
