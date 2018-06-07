@@ -2466,11 +2466,16 @@ em {
   font-size: 12px;
   font-weight: bold;
   border-radius: 2px;
-  box-shadow: $default-box-shadow;
   @media (max-width: $screen-xs) {
     margin-top: 10px;
     margin-right: 16px;
   }
+}
+
+.mapboxgl-ctrl-bottom-right a.mapboxgl-ctrl-logo {
+  position: absolute;
+  bottom: 13px;
+  right: 42px;
 }
 
 .legend-item {
@@ -2648,10 +2653,6 @@ em {
   }
 }
 
-.country-contact-wrapper {
-
-}
-
 .project-index-header {
   position: absolute;
   bottom: 0;
@@ -2765,6 +2766,8 @@ em {
 
 #our-work-title {
   transition: all .25s ease;
+  position: relative;
+  z-index: 10;
 }
 
 .project-map-area #our-work-title {

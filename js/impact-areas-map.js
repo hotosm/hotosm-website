@@ -21,7 +21,7 @@
   mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
   var map = new mapboxgl.Map({
     container: 'map',
-    logoPosition: 'top-right',
+    logoPosition: 'bottom-right',
     scrollZoom: false,
     dragRotate: false,
     zoom: 1.25,
