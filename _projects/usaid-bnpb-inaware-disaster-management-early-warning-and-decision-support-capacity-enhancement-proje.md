@@ -6,7 +6,7 @@ position: 62
 Project Summary Text: HOT is supporting the development of InAWARE, a disaster management
   tool, to improve risk assessment, early-warning, and disaster-management decision
   making in Indonesia.
-Feature Image: "/uploads/Untitled%20presentation.png"
+Feature Image: "/uploads/Screen%20Shot%202018-06-07%20at%2022.04.38.png"
 Country:
 - Indonesia
 Impact Area:
