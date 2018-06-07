@@ -118,6 +118,7 @@ defaults:
     layout: project-item
     Project Summary Text: 
     Feature Image: 
+    Is image top aligned: 
     Is Community-Led: 
     Country:
     - ''

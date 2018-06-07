@@ -1,8 +1,8 @@
 ---
-title: Malawi Flood Preparedness
+title: Community mapping for flood resilience
 date: 2014-07-29 21:20:00 Z
 permalink: projects/malawi_flood_preparedness
-position: 38
+position: 41
 Project Summary Text: HOT supports community mapping project in the Lower Shire of
   Malawi, whose two districts, Chikwawa and Nsanje, are the most flood-prone areas
   of the country.

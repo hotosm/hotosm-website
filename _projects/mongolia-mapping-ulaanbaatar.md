@@ -1,8 +1,8 @@
 ---
-title: Mongolia, Mapping Ulaanbaatar
+title: 'Smart cities: Mapping Ulaanbaatar'
 date: 2013-10-11 18:32:00 Z
 permalink: projects/mongolia_mapping_ulaanbaatar
-position: 35
+position: 38
 Project Summary Text: Ulaanbaatar City’s ‘Smart City’ project, funded by ICT, aims
   to enable city residents to get access to information regarding public services,
   and send comments, reports, and request to relevant officials.

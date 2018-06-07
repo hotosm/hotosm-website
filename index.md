@@ -2,8 +2,8 @@
 title: Home
 position: 0
 Project:
-- 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
-- Dar Ramani Huria — Dar Open Map
+- 'Refugee response: South Sudan and Syria'
+- 'Urban flood resilience: Ramani Huria'
 Stats:
   Community Mappers: 
   Total Map Edits: 

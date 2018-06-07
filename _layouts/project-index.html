@@ -81,18 +81,55 @@ layout: default
 
     <div class="hr-h"></div>
 
-    <h6>All Projects</h6>
+    <h6>Recent Projects</h6>
 
     <div class="project-index-all">
 
-      {% assign sorted_projects = site.projects | sort:"date" | reverse %}
-      {% for project in sorted_projects %}
+      {% assign sorted_projects = site.projects | sort:"position" | reverse %}
+      {% for project in sorted_projects limit:9 %}
         {% include blocks/project-thumb.html %}
       {% endfor %}
 
     </div>
 
+    <div class="hr-h"></div>
+
+    <div class="project-index-impact-areas">
+      <div class="impact-areas-wrapper">
+        <h2 class="boxed">See more projects by impact area</h2>
+        <ul class="impact-areas-list">
+          {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
+          {% for impact-area in sorted-impact-areas %}
+            <li><a href="{{ impact-area.url }}" class="nav-link">{{ impact-area.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
   </div>
+
+  <div
+    class="archive-header container"
+    data-toggle="collapse"
+    data-target=".collapse"
+    data-text="Collapse"
+    >
+      All projects
+  </div>
+
+  <div class="project-archive-wrap collapse">
+    <div class="container">
+      <div class="project-index-archive">
+
+        {% assign sorted_projects = site.projects | sort:"position" | reverse %}
+        {% for project in sorted_projects offset:9 %}
+          {% include blocks/project-archived.html %}
+        {% endfor %}
+
+      </div>
+    </div>
+  </div>
+
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
   <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
   <script src="{{ "/js/our-work-map.js" | prepend: site.baseurl }}"></script>

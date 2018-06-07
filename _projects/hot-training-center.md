@@ -3,7 +3,7 @@ title: HOT Training Center
 date: 2015-05-27 21:50:00 Z
 permalink: projects/hot_training_center
 published: false
-position: 40
+position: 43
 Person:
 - Enock Seth Nyamador
 - Blake Girardot
