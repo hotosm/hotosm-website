@@ -1,7 +1,7 @@
 ---
 title: Kiggudde Deogratias
 date: 2017-05-03 20:43:00 Z
-Photo: "/uploads/Deo.jpg"
+Photo: "/uploads/DeogratiasKiggudee.jpg"
 Member Type:
   Is Staff: true
 Job Title: Mapping Supervisor
