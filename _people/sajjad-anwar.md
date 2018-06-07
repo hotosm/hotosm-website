@@ -15,4 +15,4 @@ Social Media (Full URL):
   Twitter: https://twitter.com/geohacker
 ---
 
-<p>Sajjad is a Bangalore based hacktivist and programmer, building tools to scale the data team and analyze large spatial data-sets at Mapbox. He has been working closely with OpenStreetMap data and technology for over 7 years.</p>
+<p>Sajjad Anwar is a cartographer and programmer based in Bangalore, India. Currently, he leads open data initiatives for governments and institutions. Previously, he helped build the foundation of the data team at Mapbox. He has been working closely with OpenStreetMap data and technology for over 10 years.</p>
