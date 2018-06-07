@@ -30,6 +30,4 @@ We rapidly create datasets at large scale, both in field programs and remotely. 
 
 ### How?
 
-Get in touch at [partnerships@hotosm.org](mailto:partnerships@hotosm.org) to discuss your project.
-
-### Example
+Get in touch at [partnerships@hotosm.org](mailto:partnerships@hotosm.org) to discuss your project. Read more about [all our projects](/our-work) or check out what we're doing now in field data collection with a recent project:
