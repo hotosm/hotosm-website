@@ -18,7 +18,7 @@ The Communications Manager is a newly created position that will work closely wi
 
 We’re looking for a individual well versed in ICT4D/digital development or use of ICT in a humanitarian context. Our preferred candidate is comfortable working in a very fast paced, startup-like environment with a highly motivated and unconventional team. You should have three or more years working in a communications management role in a tech startup, NGO, or humanitarian/development agency. You should thrive in an environment where you direct your day-to-day tasks and build a strategy through consensus with a team of staff and volunteers. Our ideal candidate moves fluently between the styles of our partners which range from formal inter-governmental processes to informal tech speak. You can choose your own office location and should love working with remote teams as you’ll spend significant time on the phone, on Slack, and Skype.
 
-##### Responsibilities:
+### Responsibilities:
 
 * Develop and oversee the implementation of an overall external communications strategy including targeted communications campaigns
 
@@ -46,7 +46,7 @@ We’re looking for a individual well versed in ICT4D/digital development or use
 
 * Assist with the development of marketing/communications materials and other information resources
 
-##### Required Skills and Qualifications :
+### Required Skills and Qualifications :
 
 * 3\+ years in similar communications management, public relations or external affairs role with desire to use digital skills for development/humanitarian relief and improving the lives of others
 
@@ -60,7 +60,7 @@ We’re looking for a individual well versed in ICT4D/digital development or use
 
 * Excellent data management, organised, and attentive to detail
 
-##### Desirable Qualifications:
+### Desirable Qualifications:
 
 * Previous journalism experience
 
