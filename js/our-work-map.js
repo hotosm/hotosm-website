@@ -68,7 +68,7 @@ function showContinents() {
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
 var map = new mapboxgl.Map({
   container: 'map',
-  logoPosition: 'top-right',
+  logoPosition: 'bottom-right',
   scrollZoom: false,
   dragRotate: false,
   zoom: 1.25,
@@ -135,8 +135,8 @@ map.on('load', function () {
         $("#hover-country").empty();
         $("#hover-country").removeClass('hide');
         $("#hover-country").append(
-          '<p><strong>' + areaHover[0].properties.NAME_LONG + '</strong></p>' +
-          '<p>(click on the country to see the details)</p>'
+          '<p class="hover-name">' + areaHover[0].properties.NAME_LONG + '</p>' +
+          '<p>Click on the country to see the details</p>'
         );
         lastCountry = areaHover[0].properties.NAME_LONG;
       }

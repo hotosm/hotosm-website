@@ -2,7 +2,7 @@
   var countries = {};
   var impactCountries = [];
   var impactTitle = '';
-  
+
   fetch('/countries.json')
     .then(function(response) {
       return response.json();
@@ -16,8 +16,8 @@
       })
     }
   );
- 
-  
+
+
   mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
   var map = new mapboxgl.Map({
     container: 'map',
@@ -28,13 +28,13 @@
     center: [0, 17],
     style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
   });
-  
+
   map.on('load', function () {
     map.addSource('countriesbetter', {
       "type": "vector",
       "url": "mapbox://hot.9fvp7us2"
     });
-  
+
     map.addLayer({
       "id": "project_countries",
       "type": "fill",
@@ -48,7 +48,7 @@
         "fill-outline-color": "#EFB4B4"
       }
     }, 'place-city-sm');
-  
+
     map.on('click', function(e) {
       var features = map.queryRenderedFeatures(
         [e.point.x, e.point.y],
@@ -59,7 +59,7 @@
         $(location).attr('href', '/where-we-work/' + country_name);
       }
     });
-  
+
     var lastCountry;
     map.on('mousemove', function(e) {
       var areaHover = map.queryRenderedFeatures(
@@ -71,8 +71,8 @@
         if (lastCountry !== areaHover[0].properties.NAME_LONG) {
           $("#hover-country").empty();
           $("#hover-country").append(
-            '<p><strong>' + areaHover[0].properties.NAME_LONG + '</strong></p>' +
-            '<p>(click on the country to see the details)</p>'
+            '<p class="hover-name">' + areaHover[0].properties.NAME_LONG + '</strong></p>' +
+            '<p>Click on the country to see the details</p>'
           );
           lastCountry = areaHover[0].properties.NAME_LONG;
         }
