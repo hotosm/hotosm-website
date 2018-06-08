@@ -1,8 +1,8 @@
 ---
-title: 'OSM Colombia: Mitigating against  Rural Landslides'
+title: 'OSM Colombia: mitigating rural landslides'
 date: 2018-05-16 07:27:00 Z
 position: 30
-Project Summary Text: Supporting agricultural communities to prepare for disasters
+Project Summary Text: Building resilience of agricultural communities to disasters
 Feature Image: "/uploads/Mocoa3.jpg"
 Is Community-Led: true
 Country:
@@ -12,4 +12,8 @@ Impact Area:
 Micrograntee: true
 ---
 
-In Colombia, Fundación OpenStreetMap Colombia are collaborating on the Countryside Mappers program to empower people, associations, and communities for territorial management, particularly within times of crisis. Recently, agricultural communities have suffered from devastating earthquakes as well as landslides during rainy seasons. The updated data collected will be used to create Territorial Arrangement Planning maps.
+Fundación OpenStreetMap Colombia are collaborating with local government and local organisations on the Countryside Mappers Program. This empowers people, associations, and communities for territorial management, particularly within times of crisis.
+
+Recently, agricultural communities in Colombia have suffered due to devastating earthquakes and high volumes of landslides during rainy seasons.
+
+The updated maps the project is creating will be used with local government to create Territorial Arrangement Planning maps.
