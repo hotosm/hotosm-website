@@ -1,7 +1,7 @@
 ---
 title: 'Palang Merah Indonesia: Disaster Risk Reduction'
 date: 2018-06-05 10:08:00 Z
-position: 7
+position: 8
 Project Summary Text: Community disaster mitigtion planning in Indonesia
 Is Community-Led: true
 Country:
