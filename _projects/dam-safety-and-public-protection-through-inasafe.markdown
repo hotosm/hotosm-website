@@ -1,5 +1,5 @@
 ---
-title: 'Dam safety and public protection: InaSAFE'
+title: 'Dam Safety And Public Protection: InaSAFE'
 date: 2018-05-31 22:40:00 Z
 position: 4
 Project Summary Text: HOT mapped x and y communities to provide comprehensive data
