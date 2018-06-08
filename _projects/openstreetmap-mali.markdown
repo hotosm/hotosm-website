@@ -4,7 +4,7 @@ date: 2018-05-16 08:27:00 Z
 position: 20
 Project Summary Text: 'Mapping Bamako city and rural Mali to inform development initiatives
   and health services.  '
-Feature Image: "/uploads/5_OSM%20Mali,%20Nethope%20Device%20Grant.JPG"
+Feature Image: "/uploads/Copy%20of%20IMG_0190.JPG"
 Is Community-Led: true
 Country:
 - Mali
