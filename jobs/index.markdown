@@ -4,4 +4,4 @@ position: 0
 layout: groups
 ---
 
-Do you want to work with the Humanitarian OpenStreetMap Team? We are seeking good people for the following jobs.
+Want to work with us? We are seeking excellent candidates for the following positions.
