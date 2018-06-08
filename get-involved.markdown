@@ -2,7 +2,7 @@
 title: Get Involved
 date: 2018-02-06 15:18:00 Z
 position: 7
-block-2:
+block-1:
   Title: Interested in Volunteering?
   Text: There are lots of ways to volunteer with HOT, including participating in mapping,
     validation, and contributing a key skillset you have such as supporting training
@@ -10,7 +10,7 @@ block-2:
   Action-text: Ways you can volunteer
   Image: "/uploads/id-mapathon.jpeg"
   Link: "/volunteer"
-block-1:
+block-2:
   Title: Want to join a Working Group?
   Text: HOT's Working Groups are open to everyone. They are where the wider HOT/OSM
     community comes together to plan and work projects that support of HOT's community
