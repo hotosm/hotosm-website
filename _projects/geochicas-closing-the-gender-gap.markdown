@@ -1,7 +1,7 @@
 ---
 title: 'Geochicas: Closing the Gender Gap'
 date: 2018-06-05 13:24:00 Z
-position: 6
+position: 10
 Project Summary Text: Improving female inclusion within the GIS sector and beyond
 Is Community-Led: true
 Country:
