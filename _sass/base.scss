@@ -1286,7 +1286,8 @@ em {
 }
 
 .impact-areas-module {
-  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
   position: relative;
   display: flex;
   flex-direction: column;
