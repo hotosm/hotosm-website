@@ -1,5 +1,5 @@
 ---
-title: Disaster Management Innovation
+title: 'Disaster management through geospatial data: DMI'
 date: 2011-09-02 21:19:00 Z
 permalink: projects/indonesia_disaster_management_innovation
 position: 29
@@ -12,23 +12,23 @@ Impact Area:
 - Disaster Risk Reduction
 - Sustainable Cities
 Person:
-- Rob Baker
-- Emir Hartato
-- Biondi Sanda Sima
-- Ranie Dwi Anugrah
-- Chris Blow
-- Eugene Usvitsky
-- Vasanthi Hargyono
 - Yantisa Akhadi
-- Harry Mahardhika Machmud
-- Kate Chapman
-- Dewi Sulistioningrum
-- Wulansari Khairunisa
-- Steven Johnson
-- Dewi Sulistioningrum
+- Mhairi O'Hara
 - Adityo Dwijananto
-- Harry Wood
-- Joseph Reeves
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 Partner: Department of Foreign Affairs and Trade
 Duration:
   Start Date: 2011-01-01 00:00:00 Z
