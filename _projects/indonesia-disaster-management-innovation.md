@@ -13,8 +13,8 @@ Impact Area:
 - Sustainable Cities
 Person:
 - Yantisa Akhadi
-- Mhairi O'Hara
 - Adityo Dwijananto
+- Mhairi O'Hara
 - 
 - 
 - 
