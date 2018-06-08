@@ -11,7 +11,7 @@ block-1:
   Image: "/uploads/id-mapathon.jpeg"
   Link: "/volunteer"
 block-2:
-  Title: Want to join a Working Group?
+  Title: Join a Working Group?
   Text: HOT's Working Groups are open to everyone. They are where the wider HOT/OSM
     community comes together to plan and work projects that support of HOT's community
     and mission. These groups discuss HOT's strategy, governance and plans, in a public,
