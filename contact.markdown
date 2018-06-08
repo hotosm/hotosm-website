@@ -44,6 +44,7 @@ Office Locations:
     Tanzania
   - |-
     **Uganda**
+
     [HOT Uganda Office]
     Plot 53, Kira Road
     Kampala, Uganda
