@@ -38,7 +38,7 @@ Summary Text: "Just a few hours after the 7.0 magnitude earthquake hit Haiti in 
   in OSM in Jan 2009. This data served as a starting place for the mapping that would
   take place after the earthquake.\n\n"
 HOT Involvement: Disaster Mapping
-Contact: <p><a href="mailto:nicolas.chavent@hotosm.org">Nicolas Chavent</a></p>
+Contact: 
 created: 1297518826
 ---
 
