@@ -2,10 +2,10 @@
 title: Contact
 date: 2018-02-06 15:16:00 Z
 position: 12
-General Enquiries:
+General Inquiries:
   Emails:
   - |-
-    **General Enquiries**
+    **General Inquiries**
     [info@hotosm.org](info@hotosm.org)
   - |-
     **Staff & Management**
@@ -42,13 +42,7 @@ Office Locations:
     Kijitonyama
     Dar es Salaam, Coastal, 4023
     Tanzania
-  - |-
-    **Uganda**
-
-    [Hive CoLab](https://www.openstreetmap.org/node/2792068002)
-    4th Floor, Kanjokya House
-    Plot 90, Kanjokya Street
-    Kampala, Uganda
+  - "**Uganda**\n\nPlot 53, Kira Road \nKampala, Uganda"
   Nav ID: office-locations
 Media:
   Details: "\nAre you looking to report about HOT, use our logo, or share about the
