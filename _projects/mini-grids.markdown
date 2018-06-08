@@ -12,6 +12,8 @@ Impact Area:
 Person:
 - Ivan Gayton
 - Paul Uithol
+Partner:
+- International Finance Corporation (IFC)
 Duration:
   Start Date: 2018-01-01 00:00:00 Z
 ---
