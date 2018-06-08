@@ -1,7 +1,7 @@
 ---
 title: 'OSM Colombia: Mitigating against  Rural Landslides'
 date: 2018-05-16 07:27:00 Z
-position: 28
+position: 29
 Project Summary Text: Supporting agricultural communities to prepare for disasters
 Feature Image: "/uploads/Mocoa3.jpg"
 Is Community-Led: true

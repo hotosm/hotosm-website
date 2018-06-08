@@ -1,7 +1,7 @@
 ---
 title: 'OSM Bangladesh: Map Your City'
 date: 2018-05-16 06:40:00 Z
-position: 21
+position: 22
 Project Summary Text: Mapping all major cities in Bangladesh.
 Feature Image: "/uploads/5_OSM%20Bangladesh,%20Nethope%20Device%20Grant%202017.JPG"
 Is Community-Led: true

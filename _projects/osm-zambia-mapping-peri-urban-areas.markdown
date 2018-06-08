@@ -1,7 +1,7 @@
 ---
 title: 'OSM Zambia: Mapping Peri-Urban Areas'
 date: 2018-06-06 08:13:00 Z
-position: 8
+position: 10
 Project Summary Text: Improving basemaps of peri-urban areas in Zambia
 Is Community-Led: true
 Country:
