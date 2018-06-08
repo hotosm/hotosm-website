@@ -61,9 +61,8 @@ layout: default
         {% assign project_head_count = project_head_count | plus: 1 %}
         {% if project_head_count > 3 %}
 
-          <div class="container">
-            <h6>More {{ page.title }} Projects</h6>
-            <div class="project-index-all">
+          <h6>More {{ page.title }} Projects</h6>
+          <div class="project-index-all">
 
           {% break %}
 
@@ -100,7 +99,6 @@ layout: default
       {% endif %}
     {% endfor %}
 
-  </div>
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
   <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
   <script src="{{ "/js/impact-areas-map.js" | prepend: site.baseurl }}"></script>

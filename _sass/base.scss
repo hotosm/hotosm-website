@@ -889,8 +889,10 @@ em {
 
 .module-image {
   display: block;
+  background-color: $blue-dark;
   img {
     display: block;
+    opacity: .95;
   }
 }
 
@@ -2555,6 +2557,7 @@ em {
 }
 
 .country-index-header {
+  margin-bottom: 24px;
   @media (min-width: $screen-xs) {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -2915,6 +2918,7 @@ em {
     }
     @media (max-width: $screen-xs) {
       font-size: 1.375rem;
+      margin-bottom: 4px;
     }
     @media (min-width: $screen-xs) {
       span {
@@ -3652,9 +3656,25 @@ sup {
 }
 
 .group-body {
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 24px;
+  }
+}
+
+.group-section {
+  border-top: 1px solid $border-color;
+  padding-top: 24px;
+  margin-bottom: 40px;
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
   grid-gap: 24px;
+  h4 {
+    font-size: 1.125rem;
+    font-weight: bold;
+    color: $blue-grey;
+    margin-bottom: 0;
+  }
 }
 
 .group-description {

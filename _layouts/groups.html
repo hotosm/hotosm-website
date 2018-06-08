@@ -27,13 +27,13 @@ layout: default
                   {{ group.content }}
                   <p>
                     {% if group['Details'] %}
-                    <a href="{{ group['Details'] }}">Details</a> | 
+                    <a href="{{ group['Details'] }}">Details</a> |
                     {% endif %}
                     {% if group['Coordination'] %}
-                    <a href="{{ group['Coordination'] }}">Coordination</a> | 
+                    <a href="{{ group['Coordination'] }}">Coordination</a> |
                     {% endif %}
                     {% if group['Calendar'] %}
-                    <a href="{{ group['Calendar'] }}">Calendar</a> | 
+                    <a href="{{ group['Calendar'] }}">Calendar</a> |
                     {% endif %}
                     {% if group['Chat'] %}
                     <a href="{{ group['Chat'] }}">Chat</a>
@@ -47,41 +47,49 @@ layout: default
 
         {% if page.url contains "/jobs/" %}
 
-          <h2>Current Openings</h2>
+          <div class="group-section">
 
-          {% assign current_date = site.time | date: '%Y%m%d' %}
-          {% assign jobs_sorted = site.jobs | sort: 'Deadline Date' %}
+            <h4>Current Openings</h4>
 
-          {% for job in jobs_sorted %}
-            {% assign job_date = job['Deadline Date'] | date: '%Y%m%d' %}
-            {% if job_date >= current_date %}
-            <a href="{{ job.url }}" class="module light link-through">
-              <div class="module-details">
-                <h3>{{ job.title }}</h3>
-                <div class="module-text"><p>Location: <span>{{ job['Place of Work'] }}</span></p><p>Deadline: <span>{{ job['Deadline Date'] | date: '%d %B, %Y' }}</span></p></div>
-              </div>
-            </a>
-            {% elsif forloop.last %}
-              <p>There are no current openings. Please check back for updates or keep a watch <a href="https://twitter.com/hotosm">on Twitter</a> for updates.</p>
-            {% endif %}
-          {% endfor %}
+            {% assign current_date = site.time | date: '%Y%m%d' %}
+            {% assign jobs_sorted = site.jobs | sort: 'Deadline Date' %}
 
-          <h2>Recently closed jobs</h2>
+            {% for job in jobs_sorted %}
+              {% assign job_date = job['Deadline Date'] | date: '%Y%m%d' %}
+              {% if job_date >= current_date %}
+              <a href="{{ job.url }}" class="module light link-through">
+                <div class="module-details">
+                  <h3>{{ job.title }}</h3>
+                  <div class="module-text"><p>Location: <span>{{ job['Place of Work'] }}</span></p><p>Deadline: <span>{{ job['Deadline Date'] | date: '%d %B, %Y' }}</span></p></div>
+                </div>
+              </a>
+              {% elsif forloop.last %}
+                <p><em>There are no current openings. Please check back for updates or keep a watch <a href="https://twitter.com/hotosm">on Twitter</a> for updates.</em></p>
+              {% endif %}
+            {% endfor %}
 
-          {% for job in jobs_sorted limit: 3 %}
-            {% assign job_date = job['Deadline Date'] | date: '%Y%m%d' %}
-            {% if job_date <= current_date %}
-            <a href="{{ job.url }}" class="module light link-through">
-              <div class="module-details">
-                <h3>{{ job.title }}</h3>
-                <div class="module-text"><p>Location: <span>{{ job['Place of Work'] }}</span></p><p>Deadline: <span>{{ job['Deadline Date'] | date: '%d %B, %Y' }}</span></p></div>
-              </div>
-            </a>
-            {% endif %}
-          {% endfor %}
+          </div>
+
+          <div class="group-section">
+
+            <h4>Recently closed jobs</h4>
+
+            {% for job in jobs_sorted limit: 3 %}
+              {% assign job_date = job['Deadline Date'] | date: '%Y%m%d' %}
+              {% if job_date <= current_date %}
+              <a href="{{ job.url }}" class="module light link-through">
+                <div class="module-details">
+                  <h3>{{ job.title }}</h3>
+                  <div class="module-text"><p>Location: <span>{{ job['Place of Work'] }}</span></p><p>Deadline: <span>{{ job['Deadline Date'] | date: '%d %B, %Y' }}</span></p></div>
+                </div>
+              </a>
+              {% endif %}
+            {% endfor %}
 
 
-        {% endif %}
+          {% endif %}
+
+        </div>
 
       </div>
 
