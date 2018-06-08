@@ -7,6 +7,6 @@ redirect_from:
 layout: roster-staff
 ---
 
-A team of dedicated community leaders, staff, contractors, volunteers, and interns lead HOT's work.
+A team of dedicated volunteer leaders, staff, contractors, and interns lead HOT's work.
 
 Interested in joining the team? Take a look at our [jobs](/jobs) or learn how you can [get involved](/get-involved).
