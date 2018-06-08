@@ -16,16 +16,16 @@
         <nav class="nav-main">
           <div class="hr-v first"></div>
           <div class="nav-group">
-            <a href="/what-we-do">What we do</a>
-            <a href="/our-work">Our work</a>
-            <a href="/tools-and-data">Tools & Data</a>
-            <a href="/updates">News</a>
+            <a href="/what-we-do" class="{% if page.url contains '/what-we-do.html' %}active{% endif %}">What we do</a>
+            <a href="/our-work" class="{% if page.url contains '/our-work.html' or page.url contains '/impact-areas/' or page.url contains '/where-we-work/' or page.url contains '/projects/' %}active{% endif %}">Our work</a>
+            <a href="/tools-and-data" class="{% if page.url contains '/tools-and-data.html' %}active{% endif %}">Tools & Data</a>
+            <a href="/updates" class="{% if page.url contains '/updates' %}active{% endif %}">News</a>
           </div>
           <div class="hr-v"></div>
           <div class="nav-group">
-            <a href="/community">Community & Organization</a>
-            <a href="/partners">Partner with us</a>
-            <a href="/get-involved">Get involved</a>
+            <a href="/community" class="{% if page.url contains '/community/' or page.url contains '/voting-members.html' page.url contains '/board.html'  page.url contains '/staff/'  page.url contains '/people' %}active{% endif %}">Community & Organization</a>
+            <a href="/partners" class="{% if page.url contains '/partners/'%}active{% endif %}">Partner with us</a>
+            <a href="/get-involved" class="{% if page.url contains 'get-involved.html'%}active{% endif %}">Get involved</a>
           </div>
           <div class="hr-v"></div>
           <a class="search-link" href="#">Search</a>
