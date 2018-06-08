@@ -134,6 +134,37 @@ layout: default
       </div>
     </div>
 
+    <div class="half-block dark">
+      <div class="block-details">
+        <div class="block-info">
+          <h3>{{ page['Block 5'].Header }}</h3>
+          <p>{{ page['Block 5'].Text }}</p>
+        </div>
+        <div class="block-options">
+          <h5>Projects to check out</h5>
+          <ul>
+            {% for project in page['Block 5'].Project %}
+
+              {% comment %}
+                The for loop below seems to be required to get the project url
+              {% endcomment %}
+
+              {% for p in site.projects %}
+                {% if p.title == project %}
+                    {% capture pURL %} {{p.url}} {% endcapture %}
+                    {% break %}     
+                {% endif %}
+              {% endfor %}
+              <li><a href="{{ pURL }}">{{ project }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="block-image">
+        <img src="{{ page['Block 5'].Image }}">
+      </div>
+    </div>
+
   </div>
 
   <div class="container">

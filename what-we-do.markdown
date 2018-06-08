@@ -34,6 +34,12 @@ Block 3:
   Project:
   - 'LEGIT: Supporting decentralization in Liberian cities'
 Block 4:
+  Header: To fill
+  Text: to fill
+  Image: "/uploads/01.jpg"
+  Project:
+  - 'LEGIT: Supporting decentralization in Liberian cities'
+Block 5:
   Header: Working to support and build OpenStreetMap
   Text: All of this work is done through <a href="https://www.openstreetmap.org/">OpenStreetMap</a>.
     OpenStreetMap is the community-driven free and editable map of the world, supported
