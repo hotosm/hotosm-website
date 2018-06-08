@@ -5,7 +5,7 @@ permalink: projects/indonesia_disaster_management_innovation
 position: 29
 Project Summary Text: HOT Indonesia is now in its third year of its data preparedness
   and Disaster Risk Reduction (DRR) project.
-Feature Image: "/uploads/WhatsApp%20Image%202017-10-27%20at%205.24.44%20PM.jpeg"
+Feature Image: "/uploads/OSM-Indonesia.png"
 Country:
 - Indonesia
 Impact Area:
