@@ -85,7 +85,7 @@ layout: default
 
     <div class="project-index-all">
 
-      {% assign sorted_projects = site.projects | sort:"position" | reverse %}
+      {% assign sorted_projects = site.projects | sort:"date" | reverse %}
       {% for project in sorted_projects limit:9 %}
         {% include blocks/project-thumb.html %}
       {% endfor %}
