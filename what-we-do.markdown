@@ -40,7 +40,7 @@ Block 4:
     data collection. Our tools are free for all to use and leveraged by partners such
     as Red Cross societies, Médecins Sans Frontières, UN agencies and programmes,
     government agencies, and local NGOs and communities.
-  Image: "/uploads/01.jpg"
+  Image: "/uploads/DW4U0XgXkAEncby%20country%20teams%20in%20Kampala%20Feb%202018.jpg"
   Project:
   - 
 Block 5:
