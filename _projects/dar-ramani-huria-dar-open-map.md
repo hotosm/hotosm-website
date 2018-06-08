@@ -18,7 +18,9 @@ Person:
 - Innocent Maholi
 - Paul Uithol
 - 'Amelia Hunt '
-Partner: U.K. Department for International Development (DfID)
+Partner:
+- World Bank
+- U.K. Department for International Development (DfID)
 Duration:
   Start Date: 2015-04-01 00:00:00 Z
 HOT Involvement: Community Development
