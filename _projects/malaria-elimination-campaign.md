@@ -29,6 +29,7 @@ Partner:
 - Digital Globe
 - Bill and Melinda Gates Foundation
 - Clinton Health Access Initiative (CHAI)
+- YouthMappers
 Duration:
   Start Date: 2016-12-01 00:00:00 Z
   End Date: 2018-06-04 00:00:00 Z
