@@ -7,7 +7,7 @@ Intro Text: Supporting local mapping communities to expand their projects throug
 Page Contact:
   Label: Contact HOT
   Text: Want to know more about next round of grants?
-  Contact Email: rebecca@hotosm.org
+  Contact Email: microgrants@hotosm.org
 layout: community-grants
 ---
 
