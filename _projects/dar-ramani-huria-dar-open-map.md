@@ -14,8 +14,8 @@ Impact Area:
 - Water & Sanitation
 - Disaster Risk Reduction
 Person:
-- Innocent Maholi
 - Ivan Gayton
+- Innocent Maholi
 - Paul Uithol
 - 'Amelia Hunt '
 Partner: World Bank
