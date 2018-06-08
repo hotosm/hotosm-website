@@ -42,7 +42,11 @@ Office Locations:
     Kijitonyama
     Dar es Salaam, Coastal, 4023
     Tanzania
-  - "**Uganda**\n[HOT Uganda Office]\nPlot 53, Kira Road \nKampala, Uganda"
+  - |-
+    **Uganda**
+    [HOT Uganda Office]
+    Plot 53, Kira Road
+    Kampala, Uganda
   Nav ID: office-locations
 Media:
   Details: "\nAre you looking to report about HOT, use our logo, or share about the
