@@ -1,5 +1,6 @@
 ---
-title: 'Disaster Activation: Cyclones, Flooding, Volcanic Eruption, Ebola outbreak'
+title: 'Disaster Activation: Cyclones, Flooding, Volcanic Eruption, Ebola outbreak
+  2018'
 date: 2018-06-01 11:50:00 Z
 position: 17
 Project Summary Text: Since the beginning of May 2018, HOT has been called upon to
