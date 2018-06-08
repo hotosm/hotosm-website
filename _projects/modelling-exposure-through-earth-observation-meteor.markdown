@@ -36,6 +36,6 @@ Contact: '<p><a style="font-style: normal; font-variant: normal; font-weight: no
 
 The project, METEOR is aimed at building local and global resilience through innovation in order to better identify risk and enable more effective decision-making, delivering exposure data for 48 of the least developed Official Development Assistance (ODA) countries.</p><p>
 
-METEOR has a specific focus on the countries of Nepal and Tanzania, with the partners of the project will be working closely with the National Society for Earthquake Technology (NSET) and the Disaster Management Department of the United Republic of Tanzania.</p><p></p><p>
+METEOR has a specific focus on the countries of Nepal and Tanzania, with the partners of the project working closely with the National Society for Earthquake Technology (NSET) and the Disaster Management Department of the United Republic of Tanzania.</p><p></p><p>
 
 
