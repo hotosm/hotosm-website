@@ -4,10 +4,10 @@ date: 2018-02-06 15:20:00 Z
 permalink: "/community/"
 position: 5
 People:
-  Description: The HOT community is made up of community leaders, volunteers, and
-    professionals committed to the mission of helping reach those in need through
-    maps. The community is a diverse group of dedicated voting members, staff, contractors,
-    volunteers, interns, and board members. Read more about each community member
+  Description: The HOT community is made up of volunteers, local community leaders,
+    and professionals committed to the mission of helping reach those in need through
+    maps. This diverse group includes dedicated voting members, staff, contractors,
+    volunteers, interns, and board members. Read more about different community members
     or learn more about becoming a part of the community.
   Image: "/uploads/RH2.PNG"
 Working Groups Description: Working Groups are at the core of how HOT organizes projects,
