@@ -34,36 +34,69 @@ layout: default
 
       {% assign sorted-projects = site.projects | sort:"position" %}
 
-      {% assign highlights = 4 %}
-
+      {% assign highlight_count = 0 %}
       {% for project in sorted-projects %}
         {% if project['Impact Area'] contains page.title %}
-          {% if forloop.index > 3 %}
+
+          {% assign highlight_count = highlight_count | plus: 1 %}
+          {% if highlight_count > 3 %}
             {% break %}
           {% endif %}
+
           {% include blocks/project-highlight.html %}
+
         {% endif %}
       {% endfor %}
 
+      <div class="hr-h"></div>
+
     </div>
 
-    <div class="hr-h"></div>
+    {% assign project_head_count = 0 %}
+    {% for project in sorted-projects %}
+      {% if project['Impact Area'] contains page.title %}
 
-    <h6>All {{ page.title }} Projects</h6>
+        {% assign project_head_count = project_head_count | plus: 1 %}
+        {% if project_head_count > 3 %}
 
-    <div class="project-index-all">
+          <div class="container">
+            <h6>More {{ page.title }} Projects</h6>
+            <div class="project-index-all">
 
-      {% assign sorted-projects = site.projects | sort:"position" %}
+          {% break %}
 
-      {% for project in sorted-projects %}
-        {% if project['Impact Area'] contains page.title %}
-          {% if forloop.index > 2 %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign project_count = 0 %}
+    {% for project in sorted-projects %}
+      {% if project['Impact Area'] contains page.title %}
+
+        {% assign project_count = project_count | plus: 1 %}
+        {% if project_count > 3 %}
+          {% unless project_count < 4 %}
             {% include blocks/project-thumb.html %}
-          {% endif %}
-        {% endif %}
-      {% endfor %}
+          {% endunless %}
 
-    </div>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign project_foot_count = 0 %}
+    {% for project in sorted-projects %}
+      {% if project['Impact Area'] contains page.title %}
+
+        {% assign project_foot_count = project_foot_count | plus: 1 %}
+        {% if project_foot_count > 3 %}
+
+          </div>
+
+          {% break %}
+
+        {% endif %}
+      {% endif %}
+    {% endfor %}
 
   </div>
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
