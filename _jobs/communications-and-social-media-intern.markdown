@@ -7,7 +7,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfRwVIte1bZZmPuPAT4_yo
 layout: page
 ---
 
-Projected start date: February or March 2017
+Projected start date: February or March 2018
 
 Reports to: Senior Project Manager, Botswana
 
