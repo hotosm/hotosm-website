@@ -4,9 +4,9 @@ date: 2018-02-06 15:18:00 Z
 position: 7
 block-1:
   Title: Interested in Volunteering?
-  Text: There are lots of ways to volunteer with HOT, including participating in mapping,
-    validation, and contributing a key skillset you have such as supporting training
-    material creation, or helping develop and maintain our tools.
+  Text: There are lots of ways to volunteer with HOT, including mapping, validation,
+    and contributing a key skillset you have such as supporting training material
+    creation, or helping develop and maintain our tools.
   Action-text: Ways you can volunteer
   Image: "/uploads/id-mapathon.jpeg"
   Link: "/volunteer"
