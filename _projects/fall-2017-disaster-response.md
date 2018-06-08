@@ -14,6 +14,7 @@ Country:
 - Puerto Rico
 - India
 - Indonesia
+- United States
 Impact Area:
 - Disaster Response
 - Disaster Risk Reduction
