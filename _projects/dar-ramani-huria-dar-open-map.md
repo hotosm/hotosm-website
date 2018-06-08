@@ -33,6 +33,7 @@ Severe flooding in December 2011 - January 2012 displaced at least 10,000 people
 
 In 2015 HOT began an initiative to mapping infrastructure data in various parts of Dar es Salaam. Now in its second phase, Ramani Huria 2.0, which began in 2017, is combining exposure data and flood hazard data to conduct risk analysis of potential future disasters. The team are using community mapping techniques to engage with local leaders and teach community inhabitants free, open source data collection tools from their smartphones. The data collected is enabling people across all levels of society to improve flood mitigation plans and raise awareness and resiliency to natural threats.
 
- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4FFHLbRUcY4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Twitter](http://twitter.com/ramanihuria)
+[Photo Gallery](https://www.flickr.com/photos/ramanihuria/)
