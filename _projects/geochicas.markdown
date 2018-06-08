@@ -1,7 +1,7 @@
 ---
 title: 'Geochicas: Mapping the Gendered Effects of Disasters'
 date: 2018-05-16 08:43:00 Z
-position: 36
+position: 37
 Project Summary Text: Mapping gender violence and inequalities in the aftermath of
   a disaster
 Feature Image: "/uploads/GeoChicas_-_SotM_Latam_2016_(30742065444)-f43c1a.jpg"

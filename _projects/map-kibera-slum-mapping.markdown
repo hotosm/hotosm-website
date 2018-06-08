@@ -1,7 +1,7 @@
 ---
 title: 'Map Kibera: Slum Mapping'
 date: 2018-06-05 10:11:00 Z
-position: 18
+position: 19
 Project Summary Text: Using citizen-generated data to improve local initiatives
 Is Community-Led: true
 Country:
