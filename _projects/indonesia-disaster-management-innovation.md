@@ -2,7 +2,7 @@
 title: 'Disaster Management Through Geospatial Data: DMI'
 date: 2011-09-02 21:19:00 Z
 permalink: projects/indonesia_disaster_management_innovation
-position: 29
+position: 42
 Project Summary Text: HOT Indonesia is now in its third year of its data preparedness
   and Disaster Risk Reduction (DRR) project.
 Feature Image: "/uploads/OSM-Indonesia.png"
