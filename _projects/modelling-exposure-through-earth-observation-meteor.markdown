@@ -1,6 +1,10 @@
 ---
 title: 'Modelling exposure through earth observation: METEOR'
 date: 2018-06-08 05:11:00 Z
+Project Summary Text: HOT has partnered with the British Geological Survey (BGS),
+  ImageCat, and the Global Earthquake Model (GEM) on a UK Space Agency funded initiative
+  focused on developing innovative applications of Earth Observation (EO) technologies
+  to improve understanding of exposure.
 Feature Image: "/uploads/Screen%20Shot%202018-06-08%20at%2012.39.32.png"
 Country:
 - Global
@@ -27,4 +31,9 @@ Contact: '<p><a style="font-style: normal; font-variant: normal; font-weight: no
   color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration:
   underline; white-space: pre-wrap; background-color: transparent;">&nbsp;</span></a></span></p>'
 ---
+
+<p><span id="docs-internal-guid-62b2c4d3-2d74-788e-3898-a65299fea496" style="font-weight: normal;"><span style="font-size: 15.3333px; font-family: Calibri; color: #232429; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; white-space: pre-wrap;"> </span></span></p><p> </p><p>HOT has partnered with the British Geological Survey (BGS), ImageCat, and the Global Earthquake Model (GEM) on a UK Space Agency funded initiative focused on developing innovative applications of Earth Observation (EO) technologies to improve understanding of exposure.</p><p> </p><p>
+
+The project, METEOR is aimed at building local and global resilience through innovation in order to better identify risk and enable more effective decision-making, delivering exposure data for 48 of the least developed Official Development Assistance (ODA) countries. METEOR has a specific focus on the countries of Nepal and Tanzania, with the partners of the project will be working closely with the National Society for Earthquake Technology (NSET) and the Disaster Management Department of the United Republic of Tanzania.</p><p> </p><p>
+
 
