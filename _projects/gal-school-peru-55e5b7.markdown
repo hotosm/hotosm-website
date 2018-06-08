@@ -20,7 +20,5 @@ In Peru, GAL (Global Active Learning) School is empowering 11-16 year olds to de
 2. Cultural heritage – improving awareness and exchange of traditional heritage as a form of preservation across Cusco and La Convencion 
 3. Bus routes – improving the Cusco transport system through creating the first mapping of "combi”/ bus routes
 
-The project has multiple objectives:
-* Firstly, to encourage and empower youth to engage in improving the societies they live through responding to challenges they themselves identify
-* Secondly to improve awareness of open source, digital technologies and platforms amongst children and all stakeholders in the area through peer learning
-* Thirdly, to encourage sharing of experiences, specifically in the exchange of cultures through the global OSM network and other schools nationally and globally. 
+
+The project has multiple objectives: firstly, to encourage and empower youth to engage in improving the societies they live through responding to challenges they themselves identify. Secondly to improve awareness of open source, digital technologies and platforms amongst children and all stakeholders in the area through peer learning. Finally, to encourage sharing of experiences, specifically in the exchange of cultures through the global OSM network and other schools nationally and globally. 
