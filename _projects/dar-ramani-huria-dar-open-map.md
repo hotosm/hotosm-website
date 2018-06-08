@@ -35,4 +35,4 @@ In 2015 HOT began an initiative to mapping infrastructure data in various parts 
 
  
 
-Twitter: https://twitter.com/ramanihuria
+[Twitter](http://twitter.com/ramanihuria)
