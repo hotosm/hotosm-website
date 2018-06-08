@@ -14,7 +14,7 @@ Person:
 - Ivan Gayton
 - Paul Uithol
 Partner:
-- Data Zetu
+- IREX
 Duration:
   Start Date: 2017-10-02 00:00:00 Z
 Link: https://datazetu.or.tz/
