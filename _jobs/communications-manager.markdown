@@ -2,8 +2,8 @@
 title: Communications Manager
 date: 2018-06-08 19:27:00 Z
 Deadline Date: 2018-06-29 00:00:00 Z
-Place of Work: HOT Office (Washington, D.C.; New York City; Kampala, Uganda; Dar Es
-  Salaam, Tanzania or Remote)
+Place of Work: Remote or co-located in HOT Office (Washington, D.C.; New York City;
+  Kampala, Uganda; Dar Es Salaam, Tanzania)
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdkJUuN21QvvJ1tlOzxHtmfICJy9EmPqRvNpVl_QMxSfWIy_g/viewform
 ---
 
