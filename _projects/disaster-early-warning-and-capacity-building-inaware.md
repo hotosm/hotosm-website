@@ -1,5 +1,5 @@
 ---
-title: 'Disaster early warning and capacity building: InAWARE'
+title: 'Disaster Early Warning And Capacity Building: InAWARE'
 date: 2016-07-06 00:35:00 Z
 permalink: projects/usaid__bnpb__inaware_disaster_management_early_warning_and_decision_support_capacity_enhancement_project_in_indonesia
 position: 62
