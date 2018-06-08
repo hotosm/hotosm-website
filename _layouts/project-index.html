@@ -121,7 +121,7 @@ layout: default
     <div class="container">
       <div class="project-index-archive">
 
-        {% assign sorted_projects = site.projects | sort:"position" | reverse %}
+        {% assign sorted_projects = site.projects | sort:"date" | reverse %}
         {% for project in sorted_projects offset:9 %}
           {% include blocks/project-archived.html %}
         {% endfor %}
