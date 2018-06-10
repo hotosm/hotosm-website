@@ -3,6 +3,7 @@ title: 'Palang Merah Indonesia: Disaster Risk Reduction'
 date: 2018-06-05 10:08:00 Z
 position: 13
 Project Summary Text: Community disaster mitigtion planning in Indonesia
+Feature Image: "/uploads/Okta%20Raharjo%20-%20Evakuasi%20masyarakat%20korban%20banjir%20Desa%20Ujung%20Gede%20Kabupaten%20Pemalang.jpg"
 Is Community-Led: true
 Country:
 - Indonesia
