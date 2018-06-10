@@ -16,7 +16,7 @@ layout: default
 {% endfor %}
 
 {% for person in site.people %}
-  {% if page.title contains person.Country %}
+  {% if page.title contains person.Country and person['Member Type']['Is Voting Member'] %}
     {% assign members = true %}
     {% assign memberscount = memberscount | plus: 1 %}
   {% endif %}
