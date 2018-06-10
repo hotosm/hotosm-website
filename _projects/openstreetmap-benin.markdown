@@ -13,4 +13,4 @@ Impact Area:
 Micrograntee: true
 ---
 
-The Northern part of Benin is currently facing an epidemiological crisis: the Lassa fever. The Benin OpenStreetMap community are mapping areas at risk of the Lassa virus and the north-western border region to enable health authorities to better understand these territories and better monitor patients' cases. The data collected will be used by researchers, research institutes, NGOs and health structures.
+The Northern part of Benin is currently facing an epidemiological crisis: Lassa fever. The Benin OpenStreetMap community are mapping areas at risk of the Lassa virus and the north-western border region to enable health authorities to better understand these territories and better monitor patients' cases. The data collected will be used by researchers, research institutes, NGOs and health structures.
