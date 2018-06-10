@@ -85,9 +85,18 @@ layout: default
 
     <div class="project-index-all">
 
-      {% assign sorted_projects = site.projects | sort:"date" | reverse %}
-      {% for project in sorted_projects limit:9 %}
-        {% include blocks/project-thumb.html %}
+      {% assign recent_projects = site.projects | sort:"date" | reverse %}
+      {% assign project_count = 0 %}
+      {% for project in recent_projects %}
+        {% unless project.title == sorted_projects[0].title or project.title == sorted_projects[1].title or project.title == sorted_projects[2].title  %}
+
+          {% assign project_count = project_count | plus: 1 %}
+          {% include blocks/project-thumb.html %}
+          {% if project_count > 8 %}
+            {% break %}
+          {% endif %}
+
+        {% endunless %}
       {% endfor %}
 
     </div>
@@ -121,8 +130,9 @@ layout: default
     <div class="container">
       <div class="project-index-archive">
 
-        {% assign sorted_projects = site.projects | sort:"date" | reverse %}
-        {% for project in sorted_projects offset:9 %}
+        {% assign archived_projects = site.projects | sort:"date" | reverse %}
+        {% for project in archived_projects offset:9 %}
+
           {% include blocks/project-archived.html %}
         {% endfor %}
 
