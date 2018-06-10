@@ -1,5 +1,5 @@
 ---
-title: 'Geochicas: Closing the Gender Gap'
+title: 'GeoChicas: Closing the Gender Gap'
 date: 2018-06-05 13:24:00 Z
 position: 11
 Project Summary Text: Improving female inclusion within the GIS sector and beyond
