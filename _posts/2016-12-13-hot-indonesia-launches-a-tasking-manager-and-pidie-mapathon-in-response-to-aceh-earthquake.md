@@ -6,7 +6,9 @@ permalink: updates/2016-12-13_hot_indonesia_launches_a_tasking_manager_and_pidie
 Person: Biondi Sanda Sima
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Pidie+Mapathon+final.001.jpeg
 created: 1481623176
 ---

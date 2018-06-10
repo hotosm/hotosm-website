@@ -12,7 +12,9 @@ Summary Text: 'When I was first told about mapping, I thought it was something t
 Person: Paul Uithol
 Working Group: []
 Project:
-- Mapping Financial Inclusion in Uganda
+- Mapping access to digital financial services
+Country:
+- Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2016-02-01_IMG_20160127_113514.jpg
 created: 1454531924
 ---

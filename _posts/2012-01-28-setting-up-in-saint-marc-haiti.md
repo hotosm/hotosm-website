@@ -10,7 +10,9 @@ Summary Text: Having had a brief moment to get out footing in Saint Marc, we wer
 Person: Brian Wolford
 Working Group: []
 Project:
-- 'Haiti '
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
+Country:
+- Haiti
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC00313_0.jpg
 created: 1327776499
 ---

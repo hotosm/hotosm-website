@@ -6,7 +6,9 @@ Person: Séverin Ménard
 Working Group:
 - Community
 Project:
-- Central African Republic Activation
+- 'Disaster Activation: Central African Republic 2013'
+Country:
+- Central African Republic
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/CAR_Umap_20140425.png
 created: 1398388325
 ---

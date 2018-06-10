@@ -5,7 +5,9 @@ permalink: updates/2015-05-27_help_improve_mapping_take_hot's_community_survey
 Person: Tyler Radford
 Working Group: []
 Project:
-- Nepal 2015 Earthquake Response
+- 'Disaster Activation: Nepal Earthquake 2015'
+Country:
+- Nepal
 created: 1432746196
 ---
 

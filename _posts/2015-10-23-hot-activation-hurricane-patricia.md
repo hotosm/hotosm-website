@@ -6,7 +6,9 @@ Person: Dale Kunce
 Working Group:
 - Activation
 Project:
-- Hurricane Patricia
+- 'Disaster Activation: Hurricane Patricia 2015'
+Country:
+- Mexico
 created: 1445622109
 ---
 

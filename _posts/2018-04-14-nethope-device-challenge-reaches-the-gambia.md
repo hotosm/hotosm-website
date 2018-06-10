@@ -6,7 +6,7 @@ Person: Amelia Hunt
 Working Group:
 - Community
 Projects:
-- Microgrants and Community Development
+- 'Community development: Microgrants and Device Grants'
 Country:
 - Gambia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG-20180416-WA0037.jpg

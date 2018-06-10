@@ -6,10 +6,9 @@ permalink: updates/2017-06-15_hot_indonesia_hosts_mapathon_for_inaware_jakarta_m
 Person: Biondi Sanda Sima
 Working Group: []
 Project:
-- 'USAID '
-- " BNPB "
-- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
-  Project in Indonesia"
+- 'Disaster Early Warning And Capacity Building: InAWARE'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-06-15+at+10.45.06+AM.png
 created: 1497499946
 ---

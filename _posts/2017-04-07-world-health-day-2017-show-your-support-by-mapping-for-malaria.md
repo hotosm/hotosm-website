@@ -13,7 +13,7 @@ Summary Text: Malaria is a disease that affects millions of people around the wo
 Person: Russell Deffner
 Working Group: []
 Project:
-- Malaria Elimination Campaign
+- 'Infectious diseases: Malaria elimination'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/29698512922_8315698194_b.jpg
 created: 1491591649
 ---

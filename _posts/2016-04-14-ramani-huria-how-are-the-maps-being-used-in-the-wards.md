@@ -12,7 +12,9 @@ Summary Text: "(Guest post by Mercedes Hoffay, Master of Public Administration C
 Person: Paul Uithol
 Working Group: []
 Project:
-- Dar Ramani Huria — Dar Open Map
+- 'Urban flood resilience: Ramani Huria'
+Country:
+- Tanzania
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/17639216374_f1e8eb7881_o.jpg
 created: 1460637476
 ---

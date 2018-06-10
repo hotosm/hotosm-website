@@ -6,7 +6,7 @@ Person: Kate Chapman
 Working Group:
 - Security
 Project:
-- Typhoon Haiyan
+- 'Disaster Activation: Typhoon Haiyan 2013'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/philipinnes-osm-data.png
 created: 1386240105
 ---

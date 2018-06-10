@@ -10,7 +10,9 @@ Summary Text: 'Since August 2012, the HOT team has included eight Indonesian tra
 Person: Katrina E.
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/dewi2_0.jpg
 created: 1352279989
 ---

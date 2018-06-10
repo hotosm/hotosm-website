@@ -5,7 +5,7 @@ permalink: updates/2016-07-04_using_financial_services_data_in_osm_gis_poster_an
 Person: 'Douglas Ssebaggala '
 Working Group: []
 Project:
-- Mapping Financial Inclusion in Uganda
+- Mapping access to digital financial services
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Poster_winner.jpg
 created: 1467631456
 ---

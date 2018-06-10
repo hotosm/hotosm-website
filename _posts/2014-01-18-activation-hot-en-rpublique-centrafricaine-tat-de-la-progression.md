@@ -5,7 +5,9 @@ permalink: updates/2014-01-18_activation_hot_en_république_centrafricaine__éta
 Person: Séverin Ménard
 Working Group: []
 Project:
-- Central African Republic Activation
+- 'Disaster Activation: Central African Republic 2013'
+Country:
+- Central African Republic
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/uMap_CAR_OSM_progresses.png
 created: 1390081369
 ---

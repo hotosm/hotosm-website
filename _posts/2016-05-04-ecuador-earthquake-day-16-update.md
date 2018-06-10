@@ -8,7 +8,9 @@ Summary Text: 'We want to highlight the amazing work done to date by the wonderf
 Person: Mhairi O'Hara
 Working Group: []
 Project:
-- Ecuador Earthquake
+- 'Disaster Activation: Ecuador Earthquake 2016'
+Country:
+- Ecuador
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/blog3_a.png
 created: 1462327050
 ---

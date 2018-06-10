@@ -5,7 +5,9 @@ permalink: updates/2015-03-25_osm_tanzania
 Person: Steven Bukulu
 Working Group: []
 Project:
-- Dar Ramani Huria — Dar Open Map
+- 'Urban flood resilience: Ramani Huria'
+Country:
+- Tanzania
 created: 1427309570
 ---
 

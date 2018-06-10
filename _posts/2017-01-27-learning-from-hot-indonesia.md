@@ -6,10 +6,9 @@ Person: Geoffrey Kateregga
 Working Group:
 - Community
 Project:
-- 'USAID '
-- " BNPB "
-- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
-  Project in Indonesia"
+- 'Disaster Early Warning And Capacity Building: InAWARE'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/surabaya.jpg
 created: 1485512940
 ---

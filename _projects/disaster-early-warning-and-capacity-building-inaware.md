@@ -15,8 +15,6 @@ Person:
 - Mhairi O'Hara
 - Yantisa Akhadi
 - Harry Mahardhika Machmud
-- 
-- 
 Partner:
 - USAID
 - Pacific Disaster Centre

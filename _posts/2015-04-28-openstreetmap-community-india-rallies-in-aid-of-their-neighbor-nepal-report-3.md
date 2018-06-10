@@ -7,7 +7,9 @@ Person: Heather Leson
 Working Group:
 - Community
 Project:
-- Nepal 2015 Earthquake Response
+- 'Disaster Activation: Nepal Earthquake 2015'
+Country:
+- Nepal
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Mapping+Nepal+photo+by+Gopinath+Parayil.png
 created: 1430216884
 ---

@@ -13,7 +13,9 @@ Summary Text: 'Our previous posts about the Saint-Marc, Haiti project did not fo
 Person: Séverin Ménard
 Working Group: []
 Project:
-- 'Haiti '
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
+Country:
+- Haiti
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/STM020_training_Nicolas.jpg
 created: 1340580918
 ---

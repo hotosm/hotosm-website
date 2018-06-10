@@ -12,7 +12,9 @@ Summary Text: Hey All,As part of the CAP103 project, financed by USAID, being ru
 Person: Brian Wolford
 Working Group: []
 Project:
-- 'Haiti '
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
+Country:
+- Haiti
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_2619.JPG
 created: 1369753162
 ---

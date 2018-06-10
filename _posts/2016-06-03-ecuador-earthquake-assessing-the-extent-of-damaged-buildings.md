@@ -9,7 +9,9 @@ Summary Text: 'Efforts are still going strong 7 weeks after the initial earthqua
 Person: Mhairi O'Hara
 Working Group: []
 Project:
-- Ecuador Earthquake
+- 'Disaster Activation: Ecuador Earthquake 2016'
+Country:
+- Ecuador
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2016-06-03+at+14.16.32.png
 created: 1464936930
 ---

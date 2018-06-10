@@ -6,7 +6,9 @@ Person: Harry Wood
 Working Group:
 - Fundraising
 Project:
-- Nepal 2015 Earthquake Response
+- 'Disaster Activation: Nepal Earthquake 2015'
+Country:
+- Nepal
 created: 1430444563
 ---
 

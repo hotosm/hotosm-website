@@ -7,7 +7,7 @@ Person: Russell Deffner
 Working Group:
 - Activation
 Project:
-- Fall 2017 Disaster Response
+- 'Disaster Activation: Hurricanes Irma, Maria, Mexico Earthquake, Bangladesh flooding'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/MexicoEarthquakes.PNG
 created: 1507660108
 ---

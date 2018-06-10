@@ -6,10 +6,9 @@ permalink: updates/2017-02-20_hot_concludes_city-wide_mapping_project_in_surabay
 Person: Biondi Sanda Sima
 Working Group: []
 Project:
-- 'USAID '
-- " BNPB "
-- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
-  Project in Indonesia"
+- 'Disaster Early Warning And Capacity Building: InAWARE'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/pilihan.JPG
 created: 1487581776
 ---

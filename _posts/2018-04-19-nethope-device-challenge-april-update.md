@@ -6,7 +6,7 @@ Person: Amelia Hunt
 Working Group:
 - Community
 Projects:
-- Microgrants and Community Development
+- 'Community development: Microgrants and Device Grants'
 Country:
 - Bangladesh
 - Guinea

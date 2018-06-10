@@ -6,7 +6,9 @@ Person: Dale Kunce
 Working Group:
 - Activation
 Project:
-- Hurricane Matthew
+- 'Disaster Activation: Hurricane Matthew 2016'
+Country:
+- Haiti
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/025738W5_NL_sm.gif
 created: 1475554217
 ---

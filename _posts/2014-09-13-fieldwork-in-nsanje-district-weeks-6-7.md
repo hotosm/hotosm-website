@@ -6,7 +6,7 @@ Person: Emir Hartato
 Working Group:
 - Training
 Project:
-- Malawi Flood Preparedness
+- Community mapping for flood resilience
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC_0306.JPG
 created: 1410648856
 ---

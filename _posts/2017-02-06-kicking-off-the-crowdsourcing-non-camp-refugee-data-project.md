@@ -5,7 +5,9 @@ permalink: updates/2017-02-06_kicking_off_the_“crowdsourcing_non-camp_refugee_
 Person: Paul Uithol
 Working Group: []
 Project:
-- 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+- 'Refugee response: South Sudan and Syria'
+Country:
+- Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017-01_SSudan_Refugee_Mothers_Blog_760x428_3.jpg
 created: 1486394657
 ---

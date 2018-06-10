@@ -5,7 +5,9 @@ permalink: updates/2013-01-04_mapping_selayar_island_with_help_from_mapbox_and_g
 Person: Kate Chapman
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/selayar.jpg
 created: 1357316162
 ---

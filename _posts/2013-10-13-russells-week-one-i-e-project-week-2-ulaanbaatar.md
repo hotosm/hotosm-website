@@ -5,7 +5,7 @@ permalink: updates/2013-10-13_russell's_week_one_(ie_project_week_2)_ulaanbaatar
 Person: Russell Deffner
 Working Group: []
 Project:
-- Mongolia, Mapping Ulaanbaatar
+- 'Smart cities: Mapping Ulaanbaatar'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/UBTrainingDay1_2.JPG
 created: 1381646957
 ---

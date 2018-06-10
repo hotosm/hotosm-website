@@ -8,7 +8,7 @@ Summary Text: Over 200 students at 13 universities participated in the second ro
 Person: Russell Deffner
 Working Group: []
 Project:
-- Malaria Elimination Campaign
+- 'Infectious diseases: Malaria elimination'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/UCC+YM.jpg
 created: 1494254400
 ---

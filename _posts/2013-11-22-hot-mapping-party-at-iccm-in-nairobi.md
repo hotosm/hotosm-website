@@ -6,7 +6,7 @@ Person: Heather Leson
 Working Group:
 - Training
 Project:
-- Typhoon Haiyan
+- 'Disaster Activation: Typhoon Haiyan 2013'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/HOT_Mapping_Action_Shot_0.jpg
 created: 1385127827
 ---

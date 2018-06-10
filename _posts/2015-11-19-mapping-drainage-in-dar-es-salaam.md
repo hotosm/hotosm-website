@@ -13,7 +13,9 @@ Summary Text: Every year during the rainy season, the largest city in Tanzania, 
 Person: Sophie Lafayette
 Working Group: []
 Project:
-- Dar Ramani Huria — Dar Open Map
+- 'Urban flood resilience: Ramani Huria'
+Country:
+- Tanzania
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/drainage-map.png
 created: 1447939018
 ---

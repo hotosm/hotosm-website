@@ -5,7 +5,9 @@ permalink: updates/2017-05-25_legit_kicks_off_field_mapping_with_training_in_mon
 Person: David Luswata
 Working Group: []
 Project:
-- 'LEGIT: Supporting decentralization in Liberian cities'
+- 'Supporting decentralization in Liberian cities: LEGIT'
+Country:
+- Liberia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/monrovia_training.jpg
 created: 1495715396
 ---

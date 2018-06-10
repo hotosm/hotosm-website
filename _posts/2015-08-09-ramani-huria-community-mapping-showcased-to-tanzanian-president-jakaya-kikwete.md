@@ -9,7 +9,9 @@ Summary Text: La quatrième conférence annuelle nationale Tanzanienne des scien
 Person: Sophie Lafayette
 Working Group: []
 Project:
-- Dar Ramani Huria — Dar Open Map
+- 'Urban flood resilience: Ramani Huria'
+Country:
+- Tanzania
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/CIQ2a_CXAAAdvcq-1024x768.jpg
 created: 1439140842
 ---

@@ -6,7 +6,7 @@ Person: 'Douglas Ssebaggala '
 Working Group:
 - Community
 Project:
-- Mapping Financial Inclusion in Uganda
+- Mapping access to digital financial services
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/10c518ac-197a-40c6-8e4b-0aca07b88829.jpg
 created: 1473948838
 ---

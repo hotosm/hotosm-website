@@ -14,7 +14,9 @@ Summary Text: On the evening of April 24th there was a graduation for the young 
 Person: Brian Wolford
 Working Group: []
 Project:
-- 'Haiti '
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
+Country:
+- Haiti
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG013_0.jpg
 created: 1335730152
 ---

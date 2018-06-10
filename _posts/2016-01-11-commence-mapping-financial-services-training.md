@@ -11,7 +11,9 @@ Summary Text: 'The Mapping Financial Inclusion in Uganda project is truly underw
 Person: Mhairi O'Hara
 Working Group: []
 Project:
-- Mapping Financial Inclusion in Uganda
+- Mapping access to digital financial services
+Country:
+- Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/training_geoffrey.jpg
 created: 1452513970
 ---

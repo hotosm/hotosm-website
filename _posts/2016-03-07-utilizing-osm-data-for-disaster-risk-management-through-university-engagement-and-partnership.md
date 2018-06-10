@@ -12,7 +12,7 @@ Summary Text: For the past 2 years, HOT in Indonesia is implementing a universit
 Person: Vasanthi Hargyono
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1457322057
 ---
 

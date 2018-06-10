@@ -12,7 +12,7 @@ Person: Séverin Ménard
 Working Group:
 - Activation
 Project:
-- Malawi Flood Preparedness
+- Community mapping for flood resilience
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Malawi_washed_away_bridge_Chanasa.png
 created: 1424992687
 ---

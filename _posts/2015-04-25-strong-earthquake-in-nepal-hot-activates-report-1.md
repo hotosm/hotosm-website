@@ -6,7 +6,9 @@ Person: Russell Deffner
 Working Group:
 - Activation
 Project:
-- Nepal 2015 Earthquake Response
+- 'Disaster Activation: Nepal Earthquake 2015'
+Country:
+- Nepal
 created: 1429975742
 ---
 

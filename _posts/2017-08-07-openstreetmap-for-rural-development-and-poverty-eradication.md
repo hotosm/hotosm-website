@@ -5,7 +5,9 @@ permalink: updates/2017-08-07_openstreetmap_for_rural_development_and_poverty_er
 Person: Biondi Sanda Sima
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-08-07+at+4.58.52+PM.png
 created: 1502100035
 ---

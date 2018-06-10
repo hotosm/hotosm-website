@@ -6,7 +6,7 @@ Person: 'Amelia Hunt '
 Working Group:
 - Community
 Project:
-- Microgrants and Community Development
+- 'Community development: Microgrants and Device Grants'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_1168_(1)+(1).jpg
 created: 1515586962
 ---

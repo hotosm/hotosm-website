@@ -5,7 +5,9 @@ permalink: updates/2017-04-25_paving_the_road_to_inclusivity_hot_trains_mapping_
 Person: Biondi Sanda Sima
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-04-25+at+3.31.37+PM.png
 created: 1493109339
 ---

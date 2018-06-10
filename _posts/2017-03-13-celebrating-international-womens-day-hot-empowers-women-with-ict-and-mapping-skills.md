@@ -6,7 +6,9 @@ permalink: updates/2017-03-13_celebrating_international_women’s_day_hot_empowe
 Person: Biondi Sanda Sima
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-03-10+at+12.07.21+PM.png
 created: 1489396744
 ---

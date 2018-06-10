@@ -11,7 +11,7 @@ Person: Russell Deffner
 Working Group:
 - Community
 Projects:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/RoadMasks.png
