@@ -3,6 +3,7 @@ title: 'GeoChicas: Closing the Gender Gap'
 date: 2018-06-05 13:24:00 Z
 position: 11
 Project Summary Text: Improving female inclusion within the GIS sector and beyond
+Feature Image: "/uploads/geochicascallesdellasmujeres.PNG"
 Is Community-Led: true
 Country:
 - Mexico
