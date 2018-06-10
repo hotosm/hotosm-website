@@ -4,7 +4,7 @@ date: 2018-05-16 09:15:00 Z
 position: 24
 Project Summary Text: UMT YouthMappers provide OpenStreetMap data to allow stakeholders
   respond rapidly to vulnerable communities and crises in Nigeria
-Feature Image: "/uploads/LetGirlsMap1.jpg"
+Feature Image: "/uploads/umt.jpg"
 Is Community-Led: true
 Country:
 - Nigeria
