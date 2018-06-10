@@ -3,7 +3,7 @@ title: 'Disaster Response: South Asian Floods 2017'
 date: 2018-06-05 09:00:00 Z
 position: 14
 Project Summary Text: Supporting the 2017 South Asian Floods in Bangladesh
-Feature Image: "/uploads/Screen%20Shot%202017-09-08%20at%2022.29.14-0375e6.png"
+Feature Image: "/uploads/17425122_1266135073474949_2019968961198925397_n.jpg"
 Is Community-Led: true
 Country:
 - Bangladesh
