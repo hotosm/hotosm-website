@@ -37,15 +37,21 @@ layout: default
         <div class="person-bio">
           <h6>Bio</h6>
           <div class="person-content">
+            {% assign content = post.content | strip_newlines %}
             {{ content }}
+            {% if content == "" %}
+              <p>{{ page.title }} is a voting member of HOT.</p>
+            {% endif %}
           </div>
         </div>
 
         <div class="person-posts">
           <h6>Posts</h6>
           <div class="person-posts-list">
+            {% assign checkposts = false %}
             {% for post in site.posts %}
               {% if post.Person contains page.title %}
+              {% assign checkposts = true %}
               <div class="news-index-item">
                 <div class="news-list-summary">
                   <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
@@ -73,19 +79,29 @@ layout: default
               </div>
               {% endif %}
             {% endfor %}
+
+            {% if checkposts == false %}
+              <p>No blog posts yet. <a href="/updates">View all news.</a></p>
+            {% endif %}
           </div>
         </div>
 
         <div class="person-projects">
           <h6>Project Contributions</h6>
             <div class="person-projects-list">
+              {% assign checkprojects = false %}
               {% for person-project in page.Project %}
                 {% for project in site.projects %}
                   {% if person-project == project.title %}
                     {% include blocks/project-thumb.html %}
+                    {% assign checkprojects = true %}
                   {% endif %}
                 {% endfor %}
               {% endfor %}
+
+              {% if checkprojects == false %}
+                <p>Not listed as coordinator on any projects. <a href="/our-work">View all projects.</a></p>
+              {% endif %}
           </div>
         </div>
 
