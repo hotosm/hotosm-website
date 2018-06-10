@@ -18,7 +18,7 @@ layout: default
       <div class="roster-list">
         <div class="roster-list-wrapper">
 
-          {% assign sorted-people = site.people | sort: 'date' | reverse %}
+          {% assign sorted-people = site.people | sort: 'title', 'last' %}
           {% for person in sorted-people %}
             {% if page.title contains 'Voting Members' and person['Member Type']['Is Voting Member'] %}
               {% include blocks/roster-item.html %}
