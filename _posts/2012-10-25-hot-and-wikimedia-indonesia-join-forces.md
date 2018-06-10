@@ -15,7 +15,9 @@ Summary Text: 'We met at the National Library of Indonesia-- partly for its spac
 Person: Katrina E.
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_115.png
 created: 1351142550
 ---

@@ -14,7 +14,9 @@ Summary Text: My name is Katrina and I am a new addition to the HOT team in Indo
 Person: Katrina E.
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/1_0.jpg
 created: 1342169398
 ---

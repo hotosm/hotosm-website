@@ -5,7 +5,9 @@ permalink: updates/2016-05-31_hotosm_recognized_by_the_president_of_mexico_durin
 Person: Mikel Maron
 Working Group: []
 Project:
-- Hurricane Patricia
+- 'Disaster Activation: Hurricane Patricia 2015'
+Country:
+- Mexico
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Citec1kXAAIfjc5.jpg
 created: 1464707498
 ---

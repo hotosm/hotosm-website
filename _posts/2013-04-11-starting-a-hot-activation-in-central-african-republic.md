@@ -13,7 +13,9 @@ Person: Séverin Ménard
 Working Group:
 - Technical
 Project:
-- Central African Republic Activation
+- 'Disaster Activation: Central African Republic 2013'
+Country:
+- Central African Republic
 created: 1365647097
 ---
 

@@ -6,7 +6,7 @@ Person: Pierre Béland
 Working Group:
 - Governance
 Project:
-- West Africa Ebola Epidemic
+- 'Disaster Activation: Ebola Epidemic 2014-16'
 created: 1396266087
 ---
 

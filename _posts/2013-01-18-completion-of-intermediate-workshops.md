@@ -13,7 +13,9 @@ Summary Text: The six pilot workshops to the BNPB on intermediate OSM skills wer
 Person: Katrina E.
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_124.png
 created: 1358506382
 ---

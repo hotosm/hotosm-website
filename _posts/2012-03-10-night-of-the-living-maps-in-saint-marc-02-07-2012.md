@@ -5,7 +5,7 @@ permalink: updates/2012-03-10_night_of_the_living_maps_in_saint-marc_02/07/2012
 Person: Séverin Ménard
 Working Group: []
 Project:
-- 'Haiti '
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1331401121
 ---
 

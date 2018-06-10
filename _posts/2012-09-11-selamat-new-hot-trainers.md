@@ -6,7 +6,9 @@ Summary Text: ''
 Person: Katrina E.
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_026_1.png
 created: 1347352400
 ---

@@ -8,7 +8,7 @@ Summary Text: Our first round of the YouthMappers ‘Mapping to end Malaria’ C
 Person: Russell Deffner
 Working Group: []
 Project:
-- Malaria Elimination Campaign
+- 'Infectious diseases: Malaria elimination'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/udea+177.JPG
 created: 1492039935
 ---

@@ -6,7 +6,7 @@ Person: Séverin Ménard
 Working Group:
 - Training
 Project:
-- Malawi Flood Preparedness
+- Community mapping for flood resilience
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20140828_115856119.jpg
 created: 1410133183
 ---

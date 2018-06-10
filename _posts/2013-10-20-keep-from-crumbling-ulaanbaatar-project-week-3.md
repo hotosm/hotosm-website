@@ -6,7 +6,7 @@ Person: Russell Deffner
 Working Group:
 - Training
 Project:
-- Mongolia, Mapping Ulaanbaatar
+- 'Smart cities: Mapping Ulaanbaatar'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_0140.JPG
 created: 1382270636
 ---

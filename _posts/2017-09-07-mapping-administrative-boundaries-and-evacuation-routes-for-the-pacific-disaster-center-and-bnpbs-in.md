@@ -6,10 +6,9 @@ permalink: updates/2017-09-07_mapping_administrative_boundaries_and_evacuation_r
 Person: Biondi Sanda Sima
 Working Group: []
 Project:
-- 'USAID '
-- " BNPB "
-- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
-  Project in Indonesia"
+- 'Disaster Early Warning And Capacity Building: InAWARE'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Bukit+Duri+Evacuation+(resized).png
 created: 1504766510
 ---

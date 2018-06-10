@@ -11,7 +11,9 @@ Summary Text: As we wrote earlier, Indonesia’s disaster management agency is t
 Person: Biondi Sanda Sima
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/17879888_1728450020780379_3811758073513746730_o.jpg
 created: 1493281790
 ---

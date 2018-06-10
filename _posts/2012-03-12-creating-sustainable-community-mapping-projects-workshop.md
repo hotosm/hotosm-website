@@ -5,7 +5,7 @@ permalink: updates/2012-03-12_creating_sustainable_community_mapping_projects_wo
 Person: Kate Chapman
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1331528439
 ---
 

@@ -5,7 +5,9 @@ permalink: updates/2017-10-24_grabbike_drivers_support_disaster_managers_identif
 Person: Biondi Sanda Sima
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/All+Participants.png
 created: 1508830497
 ---

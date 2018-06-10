@@ -6,7 +6,7 @@ Summary Text: ''
 Person: Mikel Maron
 Working Group: []
 Project:
-- 'Haiti '
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1263318335
 ---
 

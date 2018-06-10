@@ -5,7 +5,7 @@ date: 2018-04-26 09:51:09 Z
 permalink: updates/2018-04-26_engaging_with_youth_hot’s_uni_battle_map_winner_becomes_the_first_youthmappers
 Person: Biondi Sanda Sima
 Projects:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2018-04-26+at+4.48.43+PM.png

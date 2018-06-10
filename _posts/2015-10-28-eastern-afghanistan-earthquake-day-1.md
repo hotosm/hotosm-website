@@ -8,7 +8,9 @@ Person: Russell Deffner
 Working Group:
 - Activation
 Project:
-- Eastern Afghanistan Earthquake
+- 'Disaster Activation: Eastern Afghanistan Earthquake 2015'
+Country:
+- Afghanistan
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/AfghanEarthquakeDay1.PNG
 created: 1446005278
 ---

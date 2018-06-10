@@ -7,7 +7,7 @@ Person: Rebecca Firth
 Working Group:
 - Community
 Project:
-- Microgrants and Community Development
+- 'Community development: Microgrants and Device Grants'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2018-01-17+at+11.16.24.png
 created: 1516205301
 ---

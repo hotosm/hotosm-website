@@ -14,7 +14,9 @@ Summary Text: "<b>Yantisa Akhadi</b>, a.k.a Iyan, is the new <b>team manager</b>
 Person: Katrina E.
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/iyan.png
 created: 1373382516
 ---

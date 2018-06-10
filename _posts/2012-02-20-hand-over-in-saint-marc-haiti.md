@@ -6,7 +6,9 @@ Person: Séverin Ménard
 Working Group:
 - Training
 Project:
-- 'Haiti '
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
+Country:
+- Haiti
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/P1160118_800px.JPG
 created: 1329748511
 ---

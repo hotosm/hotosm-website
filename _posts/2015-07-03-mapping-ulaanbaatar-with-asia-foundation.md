@@ -11,7 +11,7 @@ Person: Russell Deffner
 Working Group:
 - Security
 Project:
-- Mongolia, Mapping Ulaanbaatar
+- 'Smart cities: Mapping Ulaanbaatar'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/11422721_880758605351234_60885064_n.jpg
 created: 1435936166
 ---

@@ -6,7 +6,7 @@ Person: Paul Uithol
 Country:
 - Botswana
 Project:
-- Malaria Elimination Campaign
+- 'Field data collection for malaria elimination: National Malaria Programme'
 redirect_from: "/updates/2018-05-16_field_surveying_in_botswana_to_support_the_national_malaria_programme"
 ---
 

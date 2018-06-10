@@ -17,7 +17,7 @@ Person: Alyssa Wright
 Country:
 - Botswana
 Project:
-- Malaria Elimination Campaign
+- 'Infectious diseases: Malaria elimination'
 redirect_from: "/updates/2018-05-28_map_completeness_estimation_and_experimental_analytics_for_health"
 ---
 

@@ -10,7 +10,7 @@ Summary Text: 'An unprecedented number of unmanned aerial vehicles (UAVs) -- dro
 Person: Kate Chapman
 Working Group: []
 Project:
-- Typhoon Haiyan
+- 'Disaster Activation: Typhoon Haiyan 2013'
 created: 1390789275
 ---
 

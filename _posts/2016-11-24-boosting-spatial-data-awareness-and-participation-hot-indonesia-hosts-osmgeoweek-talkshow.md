@@ -6,7 +6,9 @@ permalink: updates/2016-11-24_boosting_spatial_data_awareness_and_participation_
 Person: Biondi Sanda Sima
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/15195813_1667479563544092_5619402404480047323_o.jpg
 created: 1479969727
 ---

@@ -5,10 +5,9 @@ permalink: updates/2016-10-19_help_disaster_management_in_surabaya_by_mapping_re
 Person: Biondi Sanda Sima
 Working Group: []
 Project:
-- 'USAID '
-- " BNPB "
-- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
-  Project in Indonesia"
+- 'Disaster Early Warning And Capacity Building: InAWARE'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/059088300_1456456413-11220803_956871331016318_2490627325798833591_n-2.jpg
 created: 1476847298
 ---

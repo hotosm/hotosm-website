@@ -14,7 +14,9 @@ Summary Text: Hey kiddoes!Brian checking in from Saint-Marc. We are in the final
 Person: Brian Wolford
 Working Group: []
 Project:
-- 'Haiti '
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
+Country:
+- Haiti
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2012-01-08.png
 created: 1335233135
 ---

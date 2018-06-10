@@ -15,20 +15,6 @@ Person:
 - Yantisa Akhadi
 - Adityo Dwijananto
 - Mhairi O'Hara
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 Partner: Department of Foreign Affairs and Trade
 Duration:
   Start Date: 2011-01-01 00:00:00 Z

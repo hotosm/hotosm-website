@@ -13,7 +13,9 @@ Summary Text: Since returning to Haiti in preparation of launching the Saint Mar
 Person: Nicolas Chavent
 Working Group: []
 Project:
-- 'Haiti '
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
+Country:
+- Haiti
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/HC+aerial.jpg
 created: 1327472219
 ---

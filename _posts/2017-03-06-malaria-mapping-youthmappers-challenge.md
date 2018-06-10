@@ -12,7 +12,7 @@ Summary Text: HOT is managing a mapping project for malaria eradication across s
 Person: Russell Deffner
 Working Group: []
 Project:
-- Malaria Elimination Campaign
+- 'Infectious diseases: Malaria elimination'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/YM-HIRES-banner.jpg
 created: 1488815367
 ---

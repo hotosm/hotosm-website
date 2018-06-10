@@ -5,7 +5,7 @@ permalink: updates/2017-04-26_hot_research_partnership_on_crowdsourced_damage_as
 Person: Cristiano Giovando
 Working Group: []
 Project:
-- Remote Damage Assessment Research
+- Rapid post-disaster damage assessment research
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/S_header.jpg
 created: 1493227697
 ---

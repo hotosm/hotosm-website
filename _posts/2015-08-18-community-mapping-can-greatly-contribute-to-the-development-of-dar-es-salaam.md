@@ -10,7 +10,9 @@ Summary Text: Mr. Monday Anthony, a 66 year old  community member of Mchikichini
 Person: Sophie Lafayette
 Working Group: []
 Project:
-- Dar Ramani Huria — Dar Open Map
+- 'Urban flood resilience: Ramani Huria'
+Country:
+- Tanzania
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Monday-Anthony.jpg
 created: 1439895148
 ---

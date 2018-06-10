@@ -5,7 +5,9 @@ permalink: updates/2017-05-24_organized_distributed_openstreetmap_field_mapping
 Person: Nate Smith
 Working Group: []
 Project:
-- 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+- 'Refugee response: South Sudan and Syria'
+Country:
+- Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCF5987-compressor.jpg
 created: 1495636499
 ---

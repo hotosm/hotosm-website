@@ -5,7 +5,9 @@ permalink: updates/2017-08-07_legit_completes_field_mapping_in_three_cities_in_l
 Person: David Luswata
 Working Group: []
 Project:
-- 'LEGIT: Supporting decentralization in Liberian cities'
+- 'Supporting decentralization in Liberian cities: LEGIT'
+Country:
+- Liberia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/01.png
 created: 1502118736
 ---

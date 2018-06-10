@@ -5,7 +5,9 @@ permalink: updates/2017-10-26_team_in_istanbul_conducts_training_for_small_proje
 Person: Paul Uithol
 Working Group: []
 Project:
-- 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+- 'Refugee response: South Sudan and Syria'
+Country:
+- Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Copy-of-SPI-PROJECT1.jpg
 created: 1509024510
 ---

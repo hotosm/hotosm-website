@@ -17,7 +17,7 @@ Summary Text: Après la deuxième vague de l'épidémie d'Ebola en juin marquée
 Person: Pierre Béland
 Working Group: []
 Project:
-- West Africa Ebola Epidemic
+- 'Disaster Activation: Ebola Epidemic 2014-16'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/umap-tasks-2014-08-01.jpg
 created: 1407287528
 ---

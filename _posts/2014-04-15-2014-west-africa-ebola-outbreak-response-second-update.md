@@ -5,7 +5,7 @@ permalink: updates/2014-04-15_2014_west_africa_ebola_outbreak_response_second_up
 Person: Pierre Béland
 Working Group: []
 Project:
-- West Africa Ebola Epidemic
+- 'Disaster Activation: Ebola Epidemic 2014-16'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/macenta-guinea.png
 created: 1397555988
 ---

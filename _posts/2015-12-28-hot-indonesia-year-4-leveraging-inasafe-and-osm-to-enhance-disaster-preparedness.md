@@ -5,7 +5,9 @@ permalink: updates/2015-12-28_hot_indonesia_year_4_leveraging_inasafe_and_osm_to
 Person: Yantisa Akhadi
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/InaSAFE_EN_New.PNG
 created: 1451288665
 ---

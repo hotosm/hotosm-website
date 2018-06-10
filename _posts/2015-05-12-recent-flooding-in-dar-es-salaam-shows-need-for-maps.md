@@ -6,7 +6,9 @@ Person: Geoffrey Kateregga
 Working Group:
 - Training
 Project:
-- Dar Ramani Huria — Dar Open Map
+- 'Urban flood resilience: Ramani Huria'
+Country:
+- Tanzania
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_1253+(1).JPG
 created: 1431419685
 ---

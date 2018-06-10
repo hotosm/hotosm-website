@@ -5,7 +5,9 @@ permalink: updates/2015-07-17_ramani_huria_scale_up_-_dar_es_salaam_6th_july_201
 Person: Paul Uithol
 Working Group: []
 Project:
-- Dar Ramani Huria — Dar Open Map
+- 'Urban flood resilience: Ramani Huria'
+Country:
+- Tanzania
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/1.jpg
 created: 1437122274
 ---

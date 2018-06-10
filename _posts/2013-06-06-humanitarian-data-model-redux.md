@@ -7,7 +7,9 @@ Person: Brian Wolford
 Working Group:
 - Activation
 Project:
-- 'Haiti '
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
+Country:
+- Haiti
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/600185_10200894765605830_1568258984_n.jpg
 created: 1370554965
 ---

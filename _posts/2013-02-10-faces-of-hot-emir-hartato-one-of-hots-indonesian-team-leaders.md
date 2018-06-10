@@ -13,7 +13,9 @@ Summary Text: "<b>Emir Hartato</b>,22, has been working on the HOT Indonesian te
 Person: Katrina E.
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/emr_0.jpg
 created: 1360491111
 ---

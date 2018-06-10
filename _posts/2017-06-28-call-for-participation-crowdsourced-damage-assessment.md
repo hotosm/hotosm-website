@@ -5,7 +5,7 @@ permalink: updates/2017-06-28_call_for_participation_crowdsourced_damage_assessm
 Person: Cristiano Giovando
 Working Group: []
 Project:
-- Remote Damage Assessment Research
+- Rapid post-disaster damage assessment research
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-06-27+at+22.57.42.jpg
 created: 1498630275
 ---
