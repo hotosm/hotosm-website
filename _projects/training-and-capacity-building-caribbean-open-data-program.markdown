@@ -11,7 +11,7 @@ Country:
 - Saint Lucia
 Impact Area:
 - Poverty Elimination
-- 
+- Disaster Risk Reduction
 Person:
 - Steven Johnson
 - 
