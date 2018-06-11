@@ -9,7 +9,7 @@ Project:
 - 'Urban flood resilience: Ramani Huria'
 Country:
 - Tanzania
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_9878+-+1.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_9878%20-%201_1.jpg
 created: 1479725441
 ---
 
