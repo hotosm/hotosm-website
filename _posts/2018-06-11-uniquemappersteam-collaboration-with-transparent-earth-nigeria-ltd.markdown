@@ -9,12 +9,10 @@ Country:
 - Nigeria
 Project:
 - 'Community development: Microgrants and Device Grants'
+redirect_from: https://www.hotosm.org/updates/2018-06-08_uniquemappersteam_collaboration_with_transparent_earth_nigeria_ltd
 ---
 
 Guest blog - Valerie Odeam Osuamkpe (Ag.Team Secretary General,UMT) and Victor N.Sunday (Team Coordinator)
-
-![1a.jpg](/uploads/1a.jpg)
-*A selfie with the Managing Director, Transparent Earth Nigeria Ltd*
 
 On the 23rd May 2018, the UniqueMappersTeam went on the first official visit to Transparent Earth Nigeria Ltd. The event agenda consisted of presentations, an MOU negotiation between Transparent Earth and UniqueMappersTeam (UMT), speeches, and a vote of thanks.
 
@@ -39,12 +37,12 @@ A major feat of the day’s deliberation was the announcement of an employment o
 To wrap up the event, a representative of Transparent Earth gave a farewell speech while Miss Ifeoma, the Director finance of UMT gave a speech focusing on the ‘Let Girls Map’ wing of UMT and its impact on female participation. Mr. Victor Sunday, the coordinator of the team, gave the vote of thanks.
 
 ![62.jpg](/uploads/62.jpg)
+*LetGirlsMap and the General Manager, Transparent Earth Nigeria Ltd*
 
-LetGirlsMap and the General Manager, Transparent Earth Nigeria Ltd
+![image8.jpg](/uploads/image8.jpg)
+*UniqueMappersTeam discharges Hired bus on Arrival from a trip to Transparent Earth Nig.Ltd*
 
-UniqueMappersTeam discharges Hired bus on Arrival from a trip to Transparent Earth Nig.Ltd
-
-
-UniqueMappersTeam Leaders celebrates on arrival to University of Port Harcourt
+![image6.jpg](/uploads/image6.jpg)
+*UniqueMappersTeam Leaders celebrates on arrival to University of Port Harcourt*
 
 This event was a very educational, fun and exciting moment for both parties. UMT looks forward to greater collaborations with Transparent Earth to facilitate effective humanitarian mapping in Nigeria and beyond, especially as UMT commences its HOT Microgrant project supporting communities vulnerable to flooding and oils spill disasters in Rivers State,Nigeria.
