@@ -219,21 +219,26 @@ layout: default
   <!--///////// Country News /////////-->
   <!--////////////////////////////////-->
 
-
   {% for post in site.posts %}
     {% if post['Country'] contains page.title %}
 
     <div class="container">
       <div class="project-index-news">
-        <h6>News from {{ page.title }} <span>(<a href="/updates">View all news</a>)</span></h6>
+        <h6>Recent news from {{ page.title }} <span>(<a href="/updates">View all news</a>)</span></h6>
         <div class="project-index-news-list">
 
       {% break %}
     {% endif %}
   {% endfor %}
 
-  {% for post in site.posts limit:10 %}
+  {% assign news_count = 0 %}
+  {% for post in site.posts %}
     {% if post['Country'] contains page.title %}
+
+    {% assign news_count = news_count | plus: 1 %}
+    {% if news_count > 6 %}
+      {% break %}
+    {% else %}
 
     <div class="news-index-item">
       <div class="news-list-summary">
@@ -259,6 +264,7 @@ layout: default
 
       </div>
     </div>
+    {% endif %}
 
     {% endif %}
   {% endfor %}
@@ -268,6 +274,7 @@ layout: default
 
           </div>
         </div>
+      </div>
       </div>
 
       {% break %}

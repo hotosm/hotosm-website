@@ -2259,6 +2259,17 @@ em {
   }
 }
 
+.project-item-news {
+  background-color: $tan;
+  .project-index-news {
+    padding: 40px 0;
+    margin-bottom: 0;
+    @media (max-width: $screen-xs) {
+      padding: 24px 0 0;
+    }
+  }
+}
+
 .project-index-news-list {
   @media (min-width: $screen-xs) {
     display: grid;
