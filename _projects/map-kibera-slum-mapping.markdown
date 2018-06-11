@@ -1,5 +1,5 @@
 ---
-title: 'Map Kibera: Engaging Local People in Development Processes'
+title: 'Map Kibera: Engaging Local People in the Development Process'
 date: 2018-06-05 10:11:00 Z
 position: 19
 Project Summary Text: Using citizen-generated data to improve local initiatives
