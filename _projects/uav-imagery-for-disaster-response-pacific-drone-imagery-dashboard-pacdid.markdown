@@ -23,6 +23,8 @@ In places like Fiji and Vanuatu, which have experienced significant typhoon dama
 
 The Pacific Drone Imagery Dashboard (PacDID) is a platform that leverages the OpenAerialMap (OAM) concept to making open imagery collected by satellites and drones easily available to humanitarian actors across all Pacific Island Countries (PICs). OpenAerialMap has become the reference platform for finding and sharing openly licensed imagery made available for preparing, responding and recovering from natural disasters.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7xvo5ilpGXU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Over the last 18 months, HOT collaborated with disaster specialists at the GeoScience Division of the Pacific Community (SPC) to implement a customized version of OAM that addresses the specific needs of working with imagery in the challenging PIC environment. This platform, called PacDID, provides some key innovative features:
 
 * A single entry point to finding aerial and satellite imagery which is otherwise traditionally stored in disconnected spaces and disparate formats;
@@ -31,5 +33,3 @@ Over the last 18 months, HOT collaborated with disaster specialists at the GeoSc
 * Scalable imagery web services for integration with GIS and mapping software.
 
 OpenAerialMap was launched less than two years ago, but already allows easy access to thousands of openly licensed images that are provided by over 160 providers. OAM is built using open source software and common data standards that enable fast indexing and interoperability with other mapping systems.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7xvo5ilpGXU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
