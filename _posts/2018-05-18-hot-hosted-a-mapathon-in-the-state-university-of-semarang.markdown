@@ -6,8 +6,7 @@ Person: Biondi Sanda Sima
 Country:
 - Indonesia
 Project:
-- 'USAID | BNPB | InAWARE: Disaster Management Early Warning and Decision Support
-  Capacity Enhancement Project in Indonesia'
+- 'Disaster Early Warning And Capacity Building: InAWARE'
 redirect_from: "/updates/2018-05-18_hot_hosted_a_mapathon_in_the_state_university_of_semarang_1"
 ---
 
