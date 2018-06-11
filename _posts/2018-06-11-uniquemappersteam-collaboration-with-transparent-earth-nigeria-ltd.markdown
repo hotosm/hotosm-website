@@ -1,6 +1,9 @@
 ---
 title: UniqueMappersTeam Collaboration with Transparent Earth Nigeria Ltd.
 date: 2018-06-11 09:38:00 Z
+Feature Image: "/uploads/1a.jpg"
+Country:
+- Nigeria
 ---
 
 Guest blog - Valerie Odeam Osuamkpe (Ag.Team Secretary General,UMT) and Victor N.Sunday (Team Coordinator)
