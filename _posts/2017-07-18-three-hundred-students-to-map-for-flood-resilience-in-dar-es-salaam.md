@@ -2,7 +2,7 @@
 title: Three Hundred Students to Map for Flood Resilience in Dar es Salaam
 date: 2017-07-18 21:00:00 Z
 permalink: updates/2017-07-18_three_hundred_students_to_map_for_flood_resilience_in_dar_es_salaam
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/innocent.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/innocent_0.jpg
 Person: Innocent Maholi
 Working Group:
 - Community
