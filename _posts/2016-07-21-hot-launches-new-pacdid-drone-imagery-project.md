@@ -1,12 +1,12 @@
 ---
 title: HOT Launches New PacDID Drone Imagery Project
-date: 2016-07-21 01:09:37 Z
+date: 2016-07-21 01:09:00 Z
 permalink: updates/2016-07-21_hot_launches_new_pacdid_drone_imagery_project
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/PacDID-Vanuatu.jpg
 Person: Cristiano Giovando
-Working Group: []
 Project:
 - OpenAerialMap
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/PacDID-Vanuatu.jpg
+- 'UAV Imagery for Disaster Response: Pacific Drone Imagery Dashboard (PacDID)'
 created: 1469063377
 ---
 
