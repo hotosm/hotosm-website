@@ -1,12 +1,12 @@
 ---
 title: New Documentation and Design System for OpenAerialMap
-date: 2016-05-25 09:56:17 Z
+date: 2016-05-25 09:56:00 Z
 permalink: updates/2016-05-25_new_documentation_and_design_system_for_openaerialmap
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/oam-browser-post-illu-cover.png
 Person: Nate Smith
-Working Group: []
 Project:
 - OpenAerialMap
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/oam-browser-post-illu-cover.png
+- 'UAV Imagery for Disaster Response: Pacific Drone Imagery Dashboard (PacDID)'
 created: 1464170177
 ---
 
