@@ -4,4 +4,4 @@ date: 2018-02-06 13:07:00 Z
 position: 10
 ---
 
-Responders need quick, reliable information to reach vulnerable people and understand community needs to connect them to vital services during a crisis. The Activation Working Group help map this information for all natural disasters, at any geographical scale.
+Location is critical to disaster response: first responders need fast, reliable information to reach affected areas post-disaster and prioritize aid. Through rapid response activations, the HOT community works together online using satellite and drone imagery to rapidly generate map data in OpenStreetMap. The resulting data is made available via the Humanitarian Data Exchange (HDX) and can be used to create printed maps, for analysis, or for navigation on the ground.
