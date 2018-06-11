@@ -27,7 +27,9 @@ Over the last 18 months, HOT collaborated with disaster specialists at the GeoSc
 
 * A single entry point to finding aerial and satellite imagery which is otherwise traditionally stored in disconnected spaces and disparate formats;
 * An easy mechanism for drone pilots to upload and rapidly share imagery they collected with decision makers, analysts and responders;
-* A visual map tool for DRM managers to requests new imagery for specific areas and for drone pilots to coordinate surveys on the ground.
-* Scalable imagery web services for integration with GIS and mapping software
+* A visual map tool for DRM managers to requests new imagery for specific areas and for drone pilots to coordinate surveys on the ground; and
+* Scalable imagery web services for integration with GIS and mapping software.
 
 OpenAerialMap was launched less than two years ago, but already allows easy access to thousands of openly licensed images that are provided by over 160 providers. OAM is built using open source software and common data standards that enable fast indexing and interoperability with other mapping systems.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7xvo5ilpGXU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
