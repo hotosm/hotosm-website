@@ -5,7 +5,7 @@ permalink: projects/women_and_girls_in_mapping
 position: 81
 Project Summary Text: The Women and Girls in Mapping project is aimed at including
   greater female participation across the global OpenStreetMap community.
-Feature Image: "/uploads/GeoChicas_-_SotM_Latam_2016_(30742065444).jpg"
+Feature Image: "/uploads/girls%20mapping.jpeg"
 Is Community-Led: true
 Impact Area:
 - Gender Equality
