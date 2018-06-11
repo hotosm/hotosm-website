@@ -16,8 +16,8 @@ Person:
 - Yantisa Akhadi
 - Harry Mahardhika Machmud
 Partner:
-- USAID
-- Pacific Disaster Centre
+- USAID Office of Foreign Disaster Assistance (OFDA)
+- Pacific Disaster Center
 - Massachusetts Institute of Technology
 - Government of Indonesia
 Duration:
