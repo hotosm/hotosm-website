@@ -186,19 +186,32 @@ em {
       }
     }
   }
+  li {
+    font-size: 1.125rem;
+    line-height: 1.35;
+    margin-bottom: 14px;
+    color: tint($blue-dark, 15%);
+    position: relative;
+  }
   ul {
     padding-left: 28px;
+    li {
+      position: relative;
+      &:before {
+        content: '—';
+        position: absolute;
+        top: 0px;
+        left: -27px;
+        display: inline-block;
+        color: $red;
+        font-weight: bold;
+      }
+    }
   }
-  li {
-    position: relative;
-    &:before {
-      content: '—';
-      position: absolute;
-      top: 4px;
-      left: -27px;
-      display: inline-block;
-      color: $red;
-      font-weight: bold;
+  ol {
+    padding-left: 20px;
+    li {
+      list-style: decimal;
     }
   }
   img {
