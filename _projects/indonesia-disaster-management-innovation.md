@@ -10,7 +10,7 @@ Project Summary Text: 'The DMInnovation (DMI) program is the science and innovat
   Build and Maintain Links between People and Institutions in the Field of Disaster
   Management. Key implementation principles for the program are sustainability, interoperability
   and supporting an inclusivity agenda.'
-Feature Image: "/uploads/OSM-Indonesia.png"
+Feature Image: "/uploads/Screen%20Shot%202018-06-11%20at%2014.38.24.png"
 Country:
 - Indonesia
 Impact Area:
