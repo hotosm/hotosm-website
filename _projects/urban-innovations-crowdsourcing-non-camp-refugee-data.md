@@ -18,7 +18,10 @@ Person:
 - 'Douglas Ssebaggala '
 - Rupert Allan
 - Paul Uithol
-Partner: US. Department of State Bureau of Population, Refugees, and Migration
+Partner:
+- US. Department of State Bureau of Population, Refugees, and Migration
+- Global Partnership for Sustainable Development Data
+- World Bank
 Duration:
   Start Date: 2016-12-01 00:00:00 Z
 HOT Involvement: Community Development
