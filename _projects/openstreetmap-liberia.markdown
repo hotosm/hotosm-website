@@ -12,4 +12,4 @@ Impact Area:
 Micrograntee: true
 ---
 
-OSM Liberia are expanding youth participation by establishing new YouthMappers chapters and providing training to improve basemaps and health mapping across the country. Many health services were severely affected by the Ebola Crisis and the mapping efforts of OSM Liberia will help contribute to re-building health systems in rural areas.
+OSM Liberia are expanding youth participation by establishing new YouthMappers chapters and providing training sessions. The goal is to grow the community, and improve basemaps and health mapping across the country. Many health services were severely affected by the Ebola Crisis and the mapping efforts of OSM Liberia will help contribute to re-building health systems in rural areas.
