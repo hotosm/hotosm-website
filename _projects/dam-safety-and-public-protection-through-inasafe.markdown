@@ -42,15 +42,11 @@ better planning, preparedness and response activities.
 
 ![Screen Shot 2018-06-04 at 1.53.59 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.53.59%20PM.png)
 <br />
-![Screen Shot 2018-06-04 at 1.55.33 PM-35757c.png](/uploads/Screen%20Shot%202018-06-04%20at%201.55.33%20PM-35757c.png)
-<br />
 
 It provides a simple but rigorous way to combine data from scientists, local governments and communities to provide insights into the likely impacts of future disaster events that can be used to communicate the risk with key stakeholders and to Scope of the just-in-time support for Dam Safety.
 <br />
 
 ![Screen Shot 2018-06-04 at 1.54.25 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.54.25%20PM.png)
-<br />
-![Screen Shot 2018-06-04 at 1.53.17 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.53.17%20PM.png)
 <br />
 
 [123650-REVISED-DAM-Safety-12MAR2018-compressed.pdf](/uploads/123650-REVISED-DAM-Safety-12MAR2018-compressed.pdf)
