@@ -72,7 +72,7 @@ var map = new mapboxgl.Map({
   scrollZoom: false,
   dragRotate: false,
   zoom: 1.25,
-  center: [0, 17],
+  center: [0, 8],
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 });
 

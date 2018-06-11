@@ -186,19 +186,32 @@ em {
       }
     }
   }
+  li {
+    font-size: 1.125rem;
+    line-height: 1.35;
+    margin-bottom: 14px;
+    color: tint($blue-dark, 15%);
+    position: relative;
+  }
   ul {
     padding-left: 28px;
+    li {
+      position: relative;
+      &:before {
+        content: '—';
+        position: absolute;
+        top: 0px;
+        left: -27px;
+        display: inline-block;
+        color: $red;
+        font-weight: bold;
+      }
+    }
   }
-  li {
-    position: relative;
-    &:before {
-      content: '—';
-      position: absolute;
-      top: 4px;
-      left: -27px;
-      display: inline-block;
-      color: $red;
-      font-weight: bold;
+  ol {
+    padding-left: 20px;
+    li {
+      list-style: decimal;
     }
   }
   img {
@@ -266,7 +279,8 @@ em {
     margin-left: 24px;
   }
   @media (max-width: $screen-xs) {
-    margin-left: 16px;
+    margin-left: 0;
+    display: block;
   }
 }
 
@@ -276,16 +290,17 @@ em {
   flex-direction: row;
   flex-wrap: wrap;
   padding: 26px 32px 26px;
-  @media (max-width: $screen-sm) {
+  @media (max-width: $screen-xs) {
+    display: block;
     padding: 15px 24px 20px;
   }
   h5 {
     margin: 10px 16px 4px 0;
   }
   ul {
-    display: flex;
-    flex-wrap: wrap;
-    @media (min-width: $screen-sm) {
+    @media (min-width: $screen-xs) {
+      display: flex;
+      flex-wrap: wrap;
       padding-right: 4px;
       border-right: 1px solid shade($border-color, 10%);
       margin-right: 24px;
@@ -616,13 +631,10 @@ em {
 
 .collapse {
   display: block;
-  max-height: 0px;
+  max-height: 0;
   overflow: hidden;
-  transition: max-height .5s cubic-bezier(0, 1, 0, 1);;
-
   &.show {
-    max-height: 100em;
-    transition: max-height .5s ease-in-out;
+    max-height: 100%;
   }
 }
 
@@ -889,8 +901,10 @@ em {
 
 .module-image {
   display: block;
+  background-color: $blue-dark;
   img {
     display: block;
+    opacity: .95;
   }
 }
 
@@ -2558,6 +2572,7 @@ em {
 }
 
 .country-index-header {
+  margin-bottom: 24px;
   @media (min-width: $screen-xs) {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -2826,14 +2841,21 @@ em {
 }
 
 .contact-body {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-gap: 24px;
   margin-bottom: 40px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 24px;
+  }
 }
 
 .contact-nav {
   grid-column: 1 / 3;
+  margin-bottom: 24px;
+  @media (max-width: $screen-xs) {
+    padding-bottom: 24px;
+    border-bottom: 1px solid $border-color;
+  }
   li {
     margin-top: 12px;
     a {
@@ -2859,20 +2881,30 @@ em {
   a {
     display: block;
   }
+  .contact-general, .contact-locations, .contact-persona {
+    @media (min-width: $screen-xs) {
+      display: grid;
+      grid-gap: 24px;
+    }
+  }
   .contact-general {
-    display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 24px;
+    @media (max-width: $screen-xs) {
+      p {
+        margin-bottom: 24px;
+      }
+    }
   }
   .contact-locations {
-    display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-gap: 24px;
+    @media (max-width: $screen-xs) {
+      div {
+        margin-bottom: 40px;
+      }
+    }
   }
   .contact-persona {
-    display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 24px;
   }
 }
 
@@ -2918,6 +2950,7 @@ em {
     }
     @media (max-width: $screen-xs) {
       font-size: 1.375rem;
+      margin-bottom: 4px;
     }
     @media (min-width: $screen-xs) {
       span {
@@ -3655,9 +3688,25 @@ sup {
 }
 
 .group-body {
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 24px;
+  }
+}
+
+.group-section {
+  border-top: 1px solid $border-color;
+  padding-top: 24px;
+  margin-bottom: 40px;
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
   grid-gap: 24px;
+  h4 {
+    font-size: 1.125rem;
+    font-weight: bold;
+    color: $blue-grey;
+    margin-bottom: 0;
+  }
 }
 
 .group-description {
