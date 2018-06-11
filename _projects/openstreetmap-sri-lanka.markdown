@@ -4,7 +4,7 @@ date: 2018-05-16 09:23:00 Z
 position: 25
 Project Summary Text: Building detailed maps of Sri Lanka for emergency response during
   natural disasters
-Feature Image: "/uploads/2.jpg"
+Feature Image: "/uploads/6.jpg"
 Is Community-Led: true
 Country:
 - Sri Lanka
