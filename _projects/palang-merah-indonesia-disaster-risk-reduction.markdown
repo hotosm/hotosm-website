@@ -5,7 +5,7 @@ position: 13
 Project Summary Text: Palang Merah Indonesia is working on a project to create a detailed
   base map of the infrastructure, land use, amenities, and other key community assets
   such as schools and community centres in the country for community disaster planning.
-Feature Image: "/uploads/Okta%20Raharjo%20-%20Evakuasi%20masyarakat%20korban%20banjir%20Desa%20Ujung%20Gede%20Kabupaten%20Pemalang.jpg"
+Feature Image: "/uploads/Screen%20Shot%202018-06-11%20at%2014.21.28.png"
 Is Community-Led: true
 Country:
 - Indonesia
