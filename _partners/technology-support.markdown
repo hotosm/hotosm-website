@@ -16,7 +16,8 @@ layout: page
 
 We provide training across geospatial data literacy, collection, and analysis using multiple different tools and approaches, to strengthen your organisation's ability to harness citizen-generated and open data. Training can be customized to meet the needs of your organisation, and may include topics such as:
 * Introduction to OpenStreetMap, desktop editors and the Tasking Manager
-* Mobile data collection tools, planning campaigns, and surveying guidelines
+* Mobile data collection tools (OpenDataKit, KoboCollect, OpenMapKit)
+* Planning campaigns and field surveying guidelines
 * Data management
 * Data validation and quality assurance
 * Exporting and utilizing OpenStreetMap data in GIS applications
