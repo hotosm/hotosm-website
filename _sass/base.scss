@@ -629,13 +629,10 @@ em {
 
 .collapse {
   display: block;
-  max-height: 0px;
+  max-height: 0;
   overflow: hidden;
-  transition: max-height .5s cubic-bezier(0, 1, 0, 1);;
-
   &.show {
-    max-height: 100em;
-    transition: max-height .5s ease-in-out;
+    max-height: 100%;
   }
 }
 
