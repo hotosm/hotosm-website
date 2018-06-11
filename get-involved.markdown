@@ -18,7 +18,7 @@ block-2:
     collaborative, participatory way.
   Action-text: Working Group Details
   Image: "/uploads/IMG_6695.jpg"
-  Link: "/working-groups"
+  Link: community/working-groups/
 block-3:
   Title: Chat with the community?
   Text: Sign up for the mailing list below or join the community online via Slack
