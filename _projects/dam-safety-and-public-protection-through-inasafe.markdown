@@ -26,32 +26,33 @@ Duration:
   End Date: 2017-12-31 00:00:00 Z
 ---
 
-<p><span id="docs-internal-guid-62b2c4d3-2d74-788e-3898-a65299fea496" style="font-weight: normal;"><span style="font-size: 15.3333px; font-family: Calibri; color: #232429; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; white-space: pre-wrap;"> </span></span></p><p> </p><p>
-
-Dam safety is increasingly important to ensuring public safety and economic
-security in Indonesia. The challenges of rapid population growth and urbanization,
-coupled with increasing climate variability and rainfall intensification, will accentuate the downstream hazards with the development of 65 new large dams. Most climate models predict the already constrained availability of water will be exacerbated in many areas along with further increases in the probability and frequency of water related disasters, such as floods, especially in densely
-populated urban areas near the coast. The poorest will bear the brunt of this burden as they are typically the most vulnerable to the impacts of drought, floods, and landslides and pursue livelihoods that are highly dependent on climate-sensitive sectors. The importance of dam safety was highlighted by two widely-reported dam
+Dam safety is increasingly important to ensuring public safety and economic security in Indonesia. The challenges of rapid population growth and urbanization, coupled with increasing climate variability and rainfall intensification, will accentuate the downstream hazards with the development of 65 new large dams. Most climate models predict the already constrained availability of water will be exacerbated in many areas along with further increases in the probability and frequency of water related disasters, such as floods, especially in densely populated urban areas near the coast. 
+<br />
+The poorest will bear the brunt of this burden as they are typically the most vulnerable to the impacts of drought, floods, and landslides and pursue livelihoods that are highly dependent on climate-sensitive sectors. The importance of dam safety was highlighted by two widely-reported dam
 failures; Gintung Dam (Province of Banten) in 2009 (previously named Situ Gintung) and Way Ela Natural Dam (Province of Maluku) in 2012. These events have urged the government to improve its disaster preparedness and planning in order to minimize the
 potential impact associated with dam failures.
-</p><p> 
+<br />
 
 ![InaSAFE_Project_Dam.png](/uploads/InaSAFE_Project_Dam.png)
+<br />
+
 In order to improve the capacity for disaster preparedness, the National Disaster Management Authority (BNPB) has been collaborating with Global Facility for Disaster Reduction and Recovery (GFDRR) and the Australian Government to develop and continuously refine an open-source natural hazard impact assessment software InaSAFE (Indonesia Scenario Assessment for Emergency). InaSAFE produces realistic natural hazard impact scenarios from different technical and social data to inform
 better planning, preparedness and response activities. 
-</p><p> 
+<br />
 
 ![Screen Shot 2018-06-04 at 1.53.59 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.53.59%20PM.png)
+<br />
 ![Screen Shot 2018-06-04 at 1.55.33 PM-35757c.png](/uploads/Screen%20Shot%202018-06-04%20at%201.55.33%20PM-35757c.png)
-</p><p> 
+<br />
 
 It provides a simple but rigorous way to combine data from scientists, local governments and communities to provide insights into the likely impacts of future disaster events that can be used to communicate the risk with key stakeholders and to Scope of the just-in-time support for Dam Safety.
-</p><p> 
+<br />
 
 ![Screen Shot 2018-06-04 at 1.54.25 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.54.25%20PM.png)
+<br />
 ![Screen Shot 2018-06-04 at 1.53.17 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.53.17%20PM.png)
-</p><p> 
+<br />
 
 [123650-REVISED-DAM-Safety-12MAR2018-compressed.pdf](/uploads/123650-REVISED-DAM-Safety-12MAR2018-compressed.pdf)
 
-</p><p></p><p></p>
+<br />
