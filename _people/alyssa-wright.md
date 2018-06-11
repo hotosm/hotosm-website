@@ -4,6 +4,9 @@ date: 2013-05-08 04:56:14 Z
 redirect_from:
 - "/users/alyssa_wright"
 Country: United States
+Member Type:
+  Is Staff: true
+Job Title: Technical Project Manager
 Social Media (Full URL):
   LinkedIn: https://www.linkedin.com/pub/alyssa-wright/4/79/7a8
   Twitter: https://twitter.com/alyssapwright
