@@ -1,12 +1,15 @@
 ---
 title: Cristiano Giovando Joins HOT to Lead OpenAerialMap Efforts
-date: 2015-01-13 20:38:22 Z
+date: 2015-01-13 20:38:00 Z
 permalink: updates/2015-01-13_cristiano_giovando_joins_hot_to_lead_openaerialmap_efforts
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_8849_Cri.jpg
 Person: Kate Chapman
 Working Group:
 - Training
-Project: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_8849_Cri.jpg
+Project:
+- OpenAerialMap
+- 'UAV Imagery for Disaster Response: Pacific Drone Imagery Dashboard (PacDID)'
+- 
 created: 1421181502
 ---
 
