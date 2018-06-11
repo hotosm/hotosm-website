@@ -28,4 +28,4 @@ Prior to the workshops, St Lucia and Jamaica completed the World Bank Open Data 
 
 These workshops represent first steps to realize countries goals based on open geo-data. HOT is pursuing support to build on these initial trainings with mapping events and additional training in each country.
 
-[IMG_3015 steven st lucia.JPG](/uploads/IMG_3015%20steven%20st%20lucia.JPG)
+![IMG_3015 steven st lucia.JPG](/uploads/IMG_3015%20steven%20st%20lucia.JPG)
