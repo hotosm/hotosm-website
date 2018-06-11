@@ -28,14 +28,7 @@ Summary Text: 'In collaboration with USAID, BNPB, and the Pacific Disaster Centr
   decision making across Indonesia through the collection and provision of supporting
   infrastructure data to the InAWARE disaster management tool. '
 HOT Involvement: Community Development
-Contact: '<p><a href="Harry%20Madhardhika">Harry Mahardhika</a></p><p><a href="https://hotosm.org/users/iyan">Yantisa
-  Akhadi</a></p><p><a style="font-style: normal; font-variant: normal; font-weight:
-  normal; font-size: 14px; line-height: 21px; font-family: ''Open Sans'', Arial, sans-serif;"
-  href="https://hotosm.org/users/mhairi_ohara">Mhairi O''Hara</a></p><p><span id="docs-internal-guid-5b0146ac-bd95-b3a9-b5e1-d7577b7d9ba3"
-  style="font-weight: normal;"><a href="https://hotosm.org/users/vasanthi"><span style="font-size:
-  13.3333px; font-family: Calibri; color: #1155cc; font-weight: 400; font-style: normal;
-  font-variant: normal; text-decoration: underline; white-space: pre-wrap; background-color:
-  transparent;">&nbsp;</span></a></span></p>'
+Contact: yantisa.ahkhadi@hotosm.org
 created: 1467765342
 ---
 
