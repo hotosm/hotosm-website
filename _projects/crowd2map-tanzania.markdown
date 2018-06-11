@@ -36,4 +36,4 @@ Crowd2Map also helped organise the first [State of the Map Tanzania](https://www
 Our mapping process has two phases. Firstly, online volunteers trace roads and buildings from satellite images, then volunteers on the ground add names of villages, offices, churches, shops and other Points of Interest using a free smartphone app Maps.Me and printed Field Papers. The data is then emailed to a remote volunteer helper to input into OSM. The output is printable maps of villages, wards, whichare free for anyone to use.
 
 ## Join us
-Support mapping for Crowd2Map projects [here](https://tasks.hotosm.org/contribute?difficulty=ALL&organisation=Tanzania%20Development%20Trust).
+Map for Crowd2Map projects [here](https://tasks.hotosm.org/contribute?difficulty=ALL&organisation=Tanzania%20Development%20Trust).
