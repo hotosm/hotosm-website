@@ -9,7 +9,6 @@ Country:
 - Benin
 Impact Area:
 - Public Health
-- Disaster Risk Reduction
 Micrograntee: true
 ---
 
