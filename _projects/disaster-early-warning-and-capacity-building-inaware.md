@@ -33,7 +33,10 @@ created: 1467765342
 Wiki Page: "[InAWARE Project OSM Wiki Page](https://wiki.openstreetmap.org/wiki/HOT_-_PDC_InAWARE_Indonesia_Project_(Surabaya_%26_Jakarta))"
 ---
 
+<br/>
+<br/>
 HOT is collaborating on a USAID, Office of U.S. Foreign Disaster Assistance (OFDA) funded program together with the University of Hawaii: Pacific Disaster Centre (PDC) and the Massachusetts Institute of Technology (MIT): PetaBencana to support the Government of Indonesia: Badan Nasional Penanggulangan Bencana (BNPB). The program is focused on the development of InAWARE, a disaster management tool, aimed at improving overall risk assessment, early-warning, and disaster-management decision making in Indonesia.
+<br/>
 
 A well established relationship between PDC and the Indonesian national disaster management agency, BNPB, led to the development of a customised version of the DisasterAWARE system for Indonesia. Initiated in 2013, InAWARE provides hazard monitoring, disaster early warning, and decision support capabilities to disaster managers in Indonesia at both the national and provincial levels. Early in 2016, a second phase of the program was approved, focusing on the enhancement of crowdsourced data derived by the PetaBencana tool and the collection of key disaster management planning and response data by HOT in Surabaya, Jakarta and Semarang for incorporation into InAWARE.
 <br/>
