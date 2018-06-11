@@ -32,23 +32,23 @@ The poorest will bear the brunt of this burden as they are typically the most vu
 failures; Gintung Dam (Province of Banten) in 2009 (previously named Situ Gintung) and Way Ela Natural Dam (Province of Maluku) in 2012. These events have urged the government to improve its disaster preparedness and planning in order to minimize the
 potential impact associated with dam failures.
 <br />
-
+<br />
 ![InaSAFE_Project_Dam.png](/uploads/InaSAFE_Project_Dam.png)
 <br />
-
+<br />
 In order to improve the capacity for disaster preparedness, the National Disaster Management Authority (BNPB) has been collaborating with Global Facility for Disaster Reduction and Recovery (GFDRR) and the Australian Government to develop and continuously refine an open-source natural hazard impact assessment software InaSAFE (Indonesia Scenario Assessment for Emergency). InaSAFE produces realistic natural hazard impact scenarios from different technical and social data to inform
 better planning, preparedness and response activities. 
 <br />
-
+<br />
 ![Screen Shot 2018-06-04 at 1.53.59 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.53.59%20PM.png)
 <br />
-
+<br />
 It provides a simple but rigorous way to combine data from scientists, local governments and communities to provide insights into the likely impacts of future disaster events that can be used to communicate the risk with key stakeholders and to Scope of the just-in-time support for Dam Safety.
 <br />
-
+<br />
 ![Screen Shot 2018-06-04 at 1.54.25 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.54.25%20PM.png)
 <br />
-
+<br />
 [123650-REVISED-DAM-Safety-12MAR2018-compressed.pdf](/uploads/123650-REVISED-DAM-Safety-12MAR2018-compressed.pdf)
 
 <br />
