@@ -15,7 +15,7 @@ Person:
 - Mikel Maron
 - Ahasanul Hoque
 - Blake Girardot
-Partner: GFDRR
+Partner: Global Facility for Disaster Reduction and Recovery (GFDRR)
 Duration:
   Start Date: 2016-05-17 00:00:00 Z
   End Date: 2016-07-01 00:00:00 Z
