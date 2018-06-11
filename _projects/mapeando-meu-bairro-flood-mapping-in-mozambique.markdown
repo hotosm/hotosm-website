@@ -12,4 +12,4 @@ Impact Area:
 - Disaster Risk Reduction
 ---
 
-Every year Mozambique suffers from flooding. The Mapeando Meu Bairro team are conducting flood extent surveys to better understand community risks and assets and improve flood prevention planning. Their project draws on flood mapping methodologies adopted by the Ramani Huria team in Tanzania. 
+Every year Mozambique suffers from extreme seasonal flooding. Learning from HOT's Ramani Huria project, the Mapeando Meu Bairro team are conducting flood extent surveys to better understand community risks and assets, and improve flood prevention planning. With this data, the community hopes to work with local decision makers to improve the resilience of vulnerable areas.
