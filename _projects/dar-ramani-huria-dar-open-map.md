@@ -38,5 +38,5 @@ In 2015 HOT began an initiative to mapping infrastructure data in various parts 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FFHLbRUcY4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Twitter](http://twitter.com/ramanihuria)
+[Twitter](http://twitter.com/ramanihuria) <br>
 [Photo Gallery](https://www.flickr.com/photos/ramanihuria/)
