@@ -16,7 +16,6 @@ Country:
 - United States
 Impact Area:
 - Disaster Response
-- Disaster Risk Reduction
 Person:
 - Michael Heißmeier
 - Russell Deffner
