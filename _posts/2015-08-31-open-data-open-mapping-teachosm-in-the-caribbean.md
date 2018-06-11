@@ -1,11 +1,14 @@
 ---
 title: 'Open Data, Open Mapping: TeachOSM in the Caribbean'
-date: 2015-08-31 17:02:03 Z
+date: 2015-08-31 17:02:00 Z
 permalink: updates/2015-08-31_open_data_open_mapping_teachosm_in_the_caribbean
+Feature Image: "/uploads/GISWomenJamaica-ac07ab.jpg"
 Person: Steven Johnson
-Working Group: []
+Country:
+- Jamaica
+- Saint Lucia
 Project:
-- HOT Training Center
+- 'Training and Capacity Building: Caribbean Open Data Program'
 created: 1441040523
 ---
 
