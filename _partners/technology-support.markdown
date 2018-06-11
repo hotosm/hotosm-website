@@ -6,7 +6,7 @@ Page Contact:
   Label: Email Us
   Text: Have a question about ways to partner?
   Contact Email: partnerships@hotosm.org
-Project: Missing Maps
+Project: 'Training and Capacity Building: Caribbean Open Data Program'
 layout: page
 ---
 
