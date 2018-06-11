@@ -33,23 +33,18 @@ created: 1467765342
 Wiki Page: "[InAWARE Project OSM Wiki Page](https://wiki.openstreetmap.org/wiki/HOT_-_PDC_InAWARE_Indonesia_Project_(Surabaya_%26_Jakarta))"
 ---
 
-<br/>
-<br/>
-HOT is collaborating on a USAID, Office of U.S. Foreign Disaster Assistance (OFDA) funded program together with the University of Hawaii: Pacific Disaster Centre (PDC) and the Massachusetts Institute of Technology (MIT): PetaBencana to support the Government of Indonesia: Badan Nasional Penanggulangan Bencana (BNPB). The program is focused on the development of InAWARE, a disaster management tool, aimed at improving overall risk assessment, early-warning, and disaster-management decision making in Indonesia.
-<br/>
+<p>HOT is collaborating on a USAID, Office of U.S. Foreign Disaster Assistance (OFDA) funded program together with the University of Hawaii: Pacific Disaster Centre (PDC) and the Massachusetts Institute of Technology (MIT): PetaBencana to support the Government of Indonesia: Badan Nasional Penanggulangan Bencana (BNPB). The program is focused on the development of InAWARE, a disaster management tool, aimed at improving overall risk assessment, early-warning, and disaster-management decision making in Indonesia.<p/>
 
-A well established relationship between PDC and the Indonesian national disaster management agency, BNPB, led to the development of a customised version of the DisasterAWARE system for Indonesia. Initiated in 2013, InAWARE provides hazard monitoring, disaster early warning, and decision support capabilities to disaster managers in Indonesia at both the national and provincial levels. Early in 2016, a second phase of the program was approved, focusing on the enhancement of crowdsourced data derived by the PetaBencana tool and the collection of key disaster management planning and response data by HOT in Surabaya, Jakarta and Semarang for incorporation into InAWARE.
-<br/>
+<p>A well established relationship between PDC and the Indonesian national disaster management agency, BNPB, led to the development of a customised version of the DisasterAWARE system for Indonesia. Initiated in 2013, InAWARE provides hazard monitoring, disaster early warning, and decision support capabilities to disaster managers in Indonesia at both the national and provincial levels. Early in 2016, a second phase of the program was approved, focusing on the enhancement of crowdsourced data derived by the PetaBencana tool and the collection of key disaster management planning and response data by HOT in Surabaya, Jakarta and Semarang for incorporation into InAWARE.<p/>
 
 ![Jakarta-Mapping-Timeline.png](/uploads/Jakarta-Mapping-Timeline.png)
 <br/>
 
-Harry Mahardhika is leading the operations and logistics of the mapping project, while being overseen by Yantisa Akhadi (Local Project Manager) and Mhairi O’Hara (International Programme Manager). HOT is tasked with the development of a comprehensive geospatial dataset for baseline data that can be used for disaster risk assessment. This data includes administrative boundaries, building footprints, road networks, waterways and disaster vulnerability characteristics. The building footprints, road networks and waterways will be mapped remotely with the use of the HOT, using up-to-date satellite imagery provided by GeoCenter. This data will then be enriched through the collection of attribute information on the ground with the use of the OpenMapKit mobile phone application.
-<br/>
+<p>Harry Mahardhika is leading the operations and logistics of the mapping project, while being overseen by Yantisa Akhadi (Local Project Manager) and Mhairi O’Hara (International Programme Manager). HOT is tasked with the development of a comprehensive geospatial dataset for baseline data that can be used for disaster risk assessment. This data includes administrative boundaries, building footprints, road networks, waterways and disaster vulnerability characteristics. The building footprints, road networks and waterways will be mapped remotely with the use of the HOT, using up-to-date satellite imagery provided by GeoCenter. This data will then be enriched through the collection of attribute information on the ground with the use of the OpenMapKit mobile phone application.<p/>
 
 ![survei OMK.jpeg](/uploads/survei%20OMK.jpeg)
-<br/>
 
-Once the information is mapped by the Data Entry specialists, it will be reviewed and validated by a team of dedicated Quality Assurance specialists.The HOT team will also assist with training sessions for local BPBD staff, looking at the collection of OpenStreetMap data and its maintenance, as well as disaster management operational activities using InAWARE, PetaJakarta, and InaSAFE. The overall goal is to enhance capacity within national and provincial disaster management agencies to access automated international, regional, national, and local hazard information and supporting infrastructure data, as well as sharing information between agencies, and disseminating alert warnings to communities and populations at risk.
-<br/>
-<br/>
+
+<p>Once the information is mapped by the Data Entry specialists, it will be reviewed and validated by a team of dedicated Quality Assurance specialists.The HOT team will also assist with training sessions for local BPBD staff, looking at the collection of OpenStreetMap data and its maintenance, as well as disaster management operational activities using InAWARE, PetaJakarta, and InaSAFE. The overall goal is to enhance capacity within national and provincial disaster management agencies to access automated international, regional, national, and local hazard information and supporting infrastructure data, as well as sharing information between agencies, and disseminating alert warnings to communities and populations at risk.<p/>
+
+[InAWARE Project OSM Wiki Page](https://wiki.openstreetmap.org/wiki/HOT_-_PDC_InAWARE_Indonesia_Project_(Surabaya_%26_Jakarta))
