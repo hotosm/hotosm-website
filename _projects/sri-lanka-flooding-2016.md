@@ -28,5 +28,4 @@ Sri Lanka was affected by heavy flooding in May 2016. HOT was asked to activate 
 
 HOT members Robert Banick and Mikel Maron led HOT's response to this crisis.
 
-For more information visit the 2016 Sri Lanka Floods wiki-page:
-http://wiki.openstreetmap.org/wiki/2016_Sri_Lanka_Floods
+For more information visit the 2016 Sri Lanka Floods [wiki-page](http://wiki.openstreetmap.org/wiki/2016_Sri_Lanka_Floods).
