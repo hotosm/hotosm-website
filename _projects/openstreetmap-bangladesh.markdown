@@ -2,7 +2,7 @@
 title: 'OSM Bangladesh: Map Your City'
 date: 2018-05-16 06:40:00 Z
 position: 24
-Project Summary Text: Mapping all major cities in Bangladesh.
+Project Summary Text: A community project to map all major cities in Bangladesh
 Feature Image: "/uploads/5_OSM%20Bangladesh,%20Nethope%20Device%20Grant%202017.JPG"
 Is Community-Led: true
 Country:
@@ -15,4 +15,4 @@ Micrograntee: true
 Link: http://boiledbhoot.org/
 ---
 
-Initiated by the Bangladesh HumanitarianOpenStreetMap Operation Team (BHOOT) in collaboration with Pathao Ltd, one of the major ride sharing service providers in Bangladesh besides Uber, the Map Your City initiative aims to map all major cities in Bangladesh. So far, the initiative has mapped across Dhaka to Chittagong, Sylhet, Khulna, Rajshahi, Comilla, Mymensingh and Jessore. These maps will contribute to sustainable urban development initiatives.
+The Bangladesh Humanitarian OpenStreetMap Operation Team (BHOOT) and Pathao Ltd, one of the major ride sharing service providers in Bangladesh besides Uber, are collaborating in the Map Your City initiative which aims to map all major cities in Bangladesh. So far, the initiative has mapped extensively in Dhaka and since expanded to Chittagong, Sylhet, Khulna, Rajshahi, Comilla, Mymensingh and Jessore. These maps will contribute to sustainable urban development initiatives.
