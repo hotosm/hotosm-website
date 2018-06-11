@@ -5,7 +5,7 @@ permalink: updates/2018-03-07_international_women’s_day_2018_pressforprogress
 Person: Rebecca Firth
 Working Group:
 - Community
-Project:
+Projects:
 - 'Community development: Microgrants and Device Grants'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen%20Shot%202018-03-07%20at%2012.13.18_0.png
 created: 1520442574

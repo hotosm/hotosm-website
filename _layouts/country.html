@@ -232,8 +232,7 @@ layout: default
   {% endfor %}
 
   {% assign news_count = 0 %}
-  {% assign posts_sorted = site.posts | sort:"date" | reverse %}
-  {% for post in posts_sorted %}
+  {% for post in site.posts %}
     {% if post['Country'] contains page.title %}
 
     {% assign news_count = news_count | plus: 1 %}

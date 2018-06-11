@@ -5,7 +5,7 @@ permalink: updates/2018-03-26_update_open_data_day_in_mwanza_tanzania
 Person: Amelia Hunt
 Working Group:
 - Community
-Project:
+Projects:
 - 'Community development: Microgrants and Device Grants'
 Country:
 - Tanzania

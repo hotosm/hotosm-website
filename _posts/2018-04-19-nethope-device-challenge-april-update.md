@@ -5,7 +5,7 @@ permalink: updates/2018-04-19_nethope_device_challenge_april_update
 Person: Amelia Hunt
 Working Group:
 - Community
-Project:
+Projects:
 - 'Community development: Microgrants and Device Grants'
 Country:
 - Bangladesh

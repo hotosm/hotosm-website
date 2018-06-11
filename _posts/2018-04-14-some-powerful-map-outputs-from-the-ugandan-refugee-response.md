@@ -3,7 +3,7 @@ title: Some Powerful Map Outputs From The Ugandan Refugee Response
 date: 2018-04-14 08:14:19 Z
 permalink: updates/2018-04-14_some_powerful_map_outputs_from_the_ugandan_refugee_response
 Person: Rupert Allan
-Project:
+Projects:
 - Missing Maps
 Country:
 - Uganda

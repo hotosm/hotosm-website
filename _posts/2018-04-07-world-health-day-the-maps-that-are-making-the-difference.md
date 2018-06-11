@@ -5,7 +5,7 @@ permalink: updates/2018-04-07_world_health_day_the_maps_that_are_making_the_diff
 Person: Amelia Hunt
 Working Group:
 - Community
-Project: []
+Projects: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/johnsnow.jpg
 created: 1523098034
 ---

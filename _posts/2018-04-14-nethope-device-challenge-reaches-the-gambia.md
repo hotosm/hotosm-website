@@ -5,7 +5,7 @@ permalink: updates/2018-04-14_nethope_device_challenge_reaches_the_gambia
 Person: Amelia Hunt
 Working Group:
 - Community
-Project:
+Projects:
 - 'Community development: Microgrants and Device Grants'
 Country:
 - Gambia

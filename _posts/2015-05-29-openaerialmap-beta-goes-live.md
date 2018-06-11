@@ -1,12 +1,12 @@
 ---
 title: OpenAerialMap Beta Goes Live
-date: 2015-05-29 02:14:03 Z
+date: 2015-05-29 02:14:00 Z
 permalink: updates/2015-05-29_openaerialmap_beta_goes_live
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/oam_beta_pre.jpg
 Person: Cristiano Giovando
-Working Group: []
 Project:
 - OpenAerialMap
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/oam_beta_pre.jpg
+- 'UAV Imagery for Disaster Response: Pacific Drone Imagery Dashboard (PacDID)'
 created: 1432865643
 ---
 

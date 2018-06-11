@@ -10,7 +10,7 @@ Summary Text: HOT has been mapping Indonesia for disaster preparedness and resil
 Person: Russell Deffner
 Working Group:
 - Community
-Project:
+Projects:
 - 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
