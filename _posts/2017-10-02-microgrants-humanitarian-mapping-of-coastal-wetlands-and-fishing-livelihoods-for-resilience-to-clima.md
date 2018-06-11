@@ -7,7 +7,7 @@ Person: Rebecca Firth
 Working Group:
 - Community
 Project:
-- Microgrants and Community Development
+- 'Community development: Microgrants and Device Grants'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Photo+1+Bahía+El+Uno+aerial.JPG
 created: 1506965660
 ---

@@ -6,10 +6,9 @@ permalink: updates/2016-11-11_collaborating_with_university_students_hot_hosts_a
 Person: Biondi Sanda Sima
 Working Group: []
 Project:
-- 'USAID '
-- " BNPB "
-- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
-  Project in Indonesia"
+- 'Disaster Early Warning And Capacity Building: InAWARE'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2016-11-11+at+4.40.51+PM.png
 created: 1478856766
 ---

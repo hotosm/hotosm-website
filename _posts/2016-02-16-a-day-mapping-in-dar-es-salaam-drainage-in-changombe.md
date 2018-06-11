@@ -14,7 +14,9 @@ Summary Text: Guest post by Kathryn Davis, Columbia University.January 14th, 10:
 Person: Paul Uithol
 Working Group: []
 Project:
-- Dar Ramani Huria — Dar Open Map
+- 'Urban flood resilience: Ramani Huria'
+Country:
+- Tanzania
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Photo1_EPD+Columbia.jpg
 created: 1455659967
 ---

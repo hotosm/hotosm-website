@@ -6,7 +6,7 @@ Person: Maning Sambale
 Working Group:
 - Technical
 Project:
-- Malawi Flood Preparedness
+- Community mapping for flood resilience
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2014-08-04+12.07.13.jpg
 created: 1407590749
 ---

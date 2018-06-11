@@ -1,7 +1,7 @@
 ---
 title: 'Data for evidence-based decisions: Data Zetu'
 date: 2018-04-24 12:10:00 Z
-position: 1
+position: 3
 Project Summary Text: Using community mapping methods to improve HIV services and
   access to public health facilities in Dar es Salaam and Mbeya.
 Feature Image: "/uploads/IMG_1137.JPG"
@@ -14,7 +14,9 @@ Person:
 - Ivan Gayton
 - Paul Uithol
 Partner:
-- Data Zetu
+- IREX
+- Millennium Challenge Corporation
+- PEPFAR
 Duration:
   Start Date: 2017-10-02 00:00:00 Z
 Link: https://datazetu.or.tz/

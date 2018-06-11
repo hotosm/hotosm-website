@@ -11,7 +11,9 @@ Summary Text: Tomorrow marks the end of HOT's pilot to evaluate the use of OpenS
 Person: Kate Chapman
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/mapping_bima.jpg
 created: 1333085855
 ---

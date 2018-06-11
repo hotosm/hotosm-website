@@ -5,7 +5,9 @@ permalink: updates/2015-07-14_nepal_earthquake_a_note_of_thanks_to_hot’s_aeria
 Person: Tyler Radford
 Working Group: []
 Project:
-- Nepal 2015 Earthquake Response
+- 'Disaster Activation: Nepal Earthquake 2015'
+Country:
+- Nepal
 created: 1436881335
 ---
 

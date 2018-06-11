@@ -7,6 +7,8 @@ Summary Text: The Humanitarian OpenStreetMap Team is pleased to welcome eighteen
 Person: Russell Deffner
 Working Group: []
 Project: []
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/500px-Hot_logo.png
 created: 1452892985
 ---

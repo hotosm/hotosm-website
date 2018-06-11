@@ -5,7 +5,9 @@ permalink: updates/2016-02-01_geo_data_collect_mobile_data_collection_and_tracki
 Person: Yantisa Akhadi
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/GeoDataCollect.PNG
 created: 1454321499
 ---

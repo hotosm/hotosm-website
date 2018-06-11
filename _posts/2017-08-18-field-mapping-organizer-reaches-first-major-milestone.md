@@ -5,7 +5,9 @@ permalink: updates/2017-08-18_field_mapping_organizer_reaches_first_major_milest
 Person: Nate Smith
 Working Group: []
 Project:
-- 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+- 'Refugee response: South Sudan and Syria'
+Country:
+- Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20160119_102604-compressor.jpg
 created: 1503054541
 ---

@@ -6,7 +6,7 @@ Person: Geoffrey Kateregga
 Working Group:
 - Community
 Project:
-- Malaria Elimination Campaign
+- 'Infectious diseases: Malaria elimination'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/busitema.jpg
 created: 1495176666
 ---

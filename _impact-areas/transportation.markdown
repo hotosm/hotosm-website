@@ -4,4 +4,4 @@ date: 2018-02-06 13:09:00 Z
 position: 4
 ---
 
-Transport mapping improves local infrastructure by creating public transportation maps, clarifying features such as street names, and providing information which helps people access and improve local services. 
+Transport mapping helps navigation in areas with informal transport routes by providing information which helps people access and improve local services, and helps clarify features such as street names. It can also help improve local infrastructure by identifying poorly connected places, and areas where routing could be improved.

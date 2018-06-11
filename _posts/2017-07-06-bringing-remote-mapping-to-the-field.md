@@ -6,7 +6,9 @@ Person: 'Douglas Ssebaggala '
 Working Group:
 - Community
 Project:
-- 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+- 'Refugee response: South Sudan and Syria'
+Country:
+- Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20170622_110950_data+col.jpg
 created: 1499330505
 ---

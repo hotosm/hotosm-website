@@ -6,7 +6,7 @@ Person: Kate Chapman
 Working Group:
 - Technical
 Project:
-- Typhoon Haiyan
+- 'Disaster Activation: Typhoon Haiyan 2013'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/OpenStreetMap_Activities_for_Typhoon_Haiyan__2013_.png
 created: 1384134044
 ---

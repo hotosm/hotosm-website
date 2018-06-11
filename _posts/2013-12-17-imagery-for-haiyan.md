@@ -5,7 +5,7 @@ permalink: updates/2013-12-17_imagery_for_haiyan
 Person: Kate Chapman
 Working Group: []
 Project:
-- Typhoon Haiyan
+- 'Disaster Activation: Typhoon Haiyan 2013'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screenshot.png
 created: 1387284806
 ---

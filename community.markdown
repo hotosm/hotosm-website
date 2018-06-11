@@ -4,16 +4,15 @@ date: 2018-02-06 15:20:00 Z
 permalink: "/community/"
 position: 5
 People:
-  Description: The HOT community is made up of community leaders, volunteers, and
-    professionals committed to the mission of helping reach those in need through
-    maps. The community is a diverse group of dedicated voting members, staff, contractors,
-    volunteers, interns, and board members. Read more about each community member
+  Description: The HOT community is made up of volunteers, local community leaders,
+    and professionals committed to the mission of helping reach those in need through
+    maps. This diverse group includes dedicated voting members, staff, contractors,
+    volunteers, interns, and board members. Read more about different community members
     or learn more about becoming a part of the community.
   Image: "/uploads/RH2.PNG"
-Working Groups Description: Working Groups are at the core of how the HOT organizes
-  projects, supports disaster response, and functions as a community. Each Working
-  Group consists of members across the community and meeting on a monthly, bi-weekly,
-  or weekly basis.
+Working Groups Description: Working Groups are at the core of how HOT organizes projects,
+  supports disaster response, and functions as a community. Each Working Group consists
+  of members across the community meeting on a monthly, bi-weekly, or weekly basis.
 Community Grants Description: Each year HOT mobilizes resources through community
   grants to support local OSM communities. Find out more about the communities that
   have received grants and the work they have done.
@@ -21,7 +20,7 @@ Event Promo:
   Event Name: HOT Summit at FOSS4G2018
   Image: "/uploads/hot-summit-group-wave.jpg"
   Description: |-
-    HOT and FOSS4G have joined forces to bring you the GIS and humanitarian mapping event of the year in Dar es Salaam, Tanzania. HOT will sponsor and lead a conference track, code sprints, field visits with the Ramani Huria mapping project, an optional two workshop days (available as an add-on to your registration) and much more!
+    HOT and FOSS4G have joined forces to bring you the GIS and humanitarian mapping event of the year in Dar es Salaam, Tanzania. HOT will sponsor and lead a conference track on Widening Access & Humanitarian Mapping, in addition to opportunities to join code sprints, field visits with the Ramani Huria mapping project, two workshop days (available as an add-on to your registration) and much more!
 
     **Karibu Sana!**
   Button: Register for FOSS4G 2018

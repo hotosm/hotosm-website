@@ -7,7 +7,7 @@ Working Group:
 - Community
 Country: Tanzania
 Projects:
-- Dar Ramani Huria - Dar Open Map
+- 'Urban flood resilience: Ramani Huria'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Time+to+Maternity+in+Temeke.jpg
 created: 1521615556
 ---

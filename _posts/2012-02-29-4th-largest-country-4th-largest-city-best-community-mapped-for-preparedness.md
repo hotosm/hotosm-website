@@ -15,7 +15,9 @@ Summary Text: Rapid growth and low elevation makes flooding in Jakarta problemat
 Person: Kate Chapman
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/osm_id_sticker.png
 created: 1330504391
 ---

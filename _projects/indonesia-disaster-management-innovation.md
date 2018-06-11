@@ -1,37 +1,29 @@
 ---
-title: Disaster Management Innovation
+title: 'Disaster Management Through Geospatial Data: DMI'
 date: 2011-09-02 21:19:00 Z
 permalink: projects/indonesia_disaster_management_innovation
-position: 29
-Project Summary Text: HOT Indonesia is now in its third year of its data preparedness
-  and Disaster Risk Reduction (DRR) project.
-Feature Image: "/uploads/WhatsApp%20Image%202017-10-27%20at%205.24.44%20PM.jpeg"
+position: 43
+Project Summary Text: 'The DMInnovation (DMI) program is the science and innovation
+  component of the Department of Foreign Affairs and Trade (DFAT) Disaster Risk Management
+  (DRM) program in Indonesia. DMI has two overarching objectives that support DFAT’s
+  DRM program: Support Indonesia to Make Informed Disaster Management Decisions and
+  Build and Maintain Links between People and Institutions in the Field of Disaster
+  Management. Key implementation principles for the program are sustainability, interoperability
+  and supporting an inclusivity agenda.'
+Feature Image: "/uploads/Screen%20Shot%202018-06-11%20at%2014.56.17.png"
 Country:
 - Indonesia
 Impact Area:
 - Disaster Risk Reduction
 - Sustainable Cities
 Person:
-- Rob Baker
-- Emir Hartato
-- Biondi Sanda Sima
-- Ranie Dwi Anugrah
-- Chris Blow
-- Eugene Usvitsky
-- Vasanthi Hargyono
 - Yantisa Akhadi
-- Harry Mahardhika Machmud
-- Kate Chapman
-- Dewi Sulistioningrum
-- Wulansari Khairunisa
-- Steven Johnson
-- Dewi Sulistioningrum
 - Adityo Dwijananto
-- Harry Wood
-- Joseph Reeves
+- Mhairi O'Hara
 Partner: Department of Foreign Affairs and Trade
 Duration:
   Start Date: 2011-01-01 00:00:00 Z
+  End Date: 2018-04-30 00:00:00 Z
 Summary Text: "Base data serves many needs in humanitarian response.  Often responding
   organizations are scrambling to gather data because it is not readily available.
   The focus of HOT’s work in Indonesia has been data preparedness and Disaster Risk

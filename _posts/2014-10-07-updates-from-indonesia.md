@@ -5,7 +5,9 @@ permalink: updates/2014-10-07_updates_from_indonesia
 Person: Emir Hartato
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/10644870_10153125121658465_3116090092438134384_n.jpg
 created: 1412692232
 ---

@@ -2,7 +2,7 @@
 title: 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 date: 2011-02-12 13:53:00 Z
 permalink: projects/haiti_
-position: 74
+position: 87
 Project Summary Text: Since the 2010 Haiti earthquake, HOT has undertaken six field
   missions and remote mapping to create basemaps for post-disaster development
 Feature Image: "/uploads/Haiti%20(1).png"
@@ -38,7 +38,7 @@ Summary Text: "Just a few hours after the 7.0 magnitude earthquake hit Haiti in 
   in OSM in Jan 2009. This data served as a starting place for the mapping that would
   take place after the earthquake.\n\n"
 HOT Involvement: Disaster Mapping
-Contact: <p><a href="mailto:nicolas.chavent@hotosm.org">Nicolas Chavent</a></p>
+Contact: 
 created: 1297518826
 ---
 

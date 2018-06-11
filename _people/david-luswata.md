@@ -15,11 +15,13 @@ Project:
 - HOT Summit 2016
 - West Africa Ebola Epidemic
 - Mapping Financial Inclusion in Uganda
+- 'Field data collection for malaria elimination: National Malaria Programme'
 Country: Botswana
 Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/lusdavo
   Twitter: https://twitter.com/lusdavo
 redirect_from:
 - "/users/david_luswata"
 ---
 
-<p>David has spent the last over half a decade blending ICT with Geospatial data for government agencies, humanitarian organizations and education institutions. From preparing a nation for the National Population and Housing Census, to research firms conducting nation wide surveys, to helping nations recover from the worst disease outbreak of recent history [Ebola Virus Disease], he has seen GIS at play and much more appreciated the power of OpenData and the importance of mapping. David leads HOT's work in Liberia.</p>
+David leads HOT’s mapping work in Liberia and Botswana. In Liberia, as Country Manager, he has led the Local Empowerment for Government Inclusion and Transparency project with field mapping activities in Zwedru, Ganta and Gbarnga cities and technical GIS trainings in the same cities and Monrovia. In Botswana, he leads OpenStreetMap field data collection for the National Malaria Program. He has supported other HOT projects in Uganda and Tanzania. In his work, he leads trainings, develops and documents work flows and builds capacity of staff and local stakeholders. Prior to his work with HOT, he led the West Africa Mapping Project with American Red Cross mapping in the border regions of Guinea, Sierra Leone and Liberia and worked with the Division of GIS at Uganda Bureau of Statistics. David is passionate about building mapping communities/teams that can continue putting their communities on the map, creating Open Data for resilience and development.

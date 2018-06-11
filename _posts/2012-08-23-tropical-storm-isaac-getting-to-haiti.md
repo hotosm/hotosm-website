@@ -11,7 +11,7 @@ Summary Text: 'Came accross this serious hurricane warning today from <a href="h
 Person: Séverin Ménard
 Working Group: []
 Project:
-- 'Haiti '
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1345740679
 ---
 

@@ -6,7 +6,7 @@ Person: Séverin Ménard
 Working Group:
 - Technical
 Project:
-- Mongolia, Mapping Ulaanbaatar
+- 'Smart cities: Mapping Ulaanbaatar'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Mongolia_ITOworld_90days_20131027.png
 created: 1383068859
 ---

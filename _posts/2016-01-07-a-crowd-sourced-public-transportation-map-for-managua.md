@@ -11,6 +11,8 @@ Person: Felix Delattre
 Working Group: []
 Project:
 - Public transportation map for Managua
+Country:
+- Nicaragua
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/banner1.jpg
 created: 1452196578
 ---

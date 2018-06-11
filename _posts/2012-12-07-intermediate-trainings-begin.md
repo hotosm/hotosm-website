@@ -12,7 +12,9 @@ Summary Text: "Last week, we started intermediate training for the six disaster 
 Person: Katrina E.
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/inter.jpg
 created: 1354855959
 ---

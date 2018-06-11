@@ -13,7 +13,7 @@ Summary Text: Last month <a href="http://hot.openstreetmap.org/updates/2012-05-1
 Person: Harry Wood
 Working Group: []
 Project:
-- Somalia
+- 'Disaster Activation: Somalia 2011'
 created: 1340406241
 ---
 

@@ -59,7 +59,7 @@ Block 4:
   - Name: Portable OpenStreetMap (POSM)
     URL: http://posm.io/
 Block 5:
-  Header: Get OSM Data
+  Header: Access OSM Data
   Text: To access OSM data, HOT built the Export Tool which allows anyone to create
     custom extracts of OSM based on the area and type of data you want to access.
     Export Tool allows you to save, rerun, and share OSM data. Exports for selected
@@ -71,7 +71,7 @@ Block 5:
   - Name: Humanitarian Data Exchange (HDX)
     URL: https://data.humdata.org/organization/hot
 Block 6:
-  Header: Analyze the data
+  Header: Analyze the Data
   Text: To understand more about how and when editing took place, or assess quality
     within OSM, use the OSM Analytics suite of tools. You can view how data has changed
     over time within OSM, understand quality within an area, or analyze what type

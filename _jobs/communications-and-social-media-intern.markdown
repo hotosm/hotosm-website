@@ -1,13 +1,14 @@
 ---
 title: Communications and Social Media Intern
 date: 2018-03-13 08:17:00 Z
+published: false
 Deadline Date: 2018-03-16 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfRwVIte1bZZmPuPAT4_yo_4zqHPqPTOBBBhzZYtWFhBoXvjA/viewform
 layout: page
 ---
 
-Projected start date: February or March 2017
+Projected start date: February or March 2018
 
 Reports to: Senior Project Manager, Botswana
 

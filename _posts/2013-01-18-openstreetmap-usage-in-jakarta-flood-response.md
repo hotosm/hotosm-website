@@ -10,7 +10,9 @@ Summary Text: 'Days of rain in Jakarta and surrounding areas have caused massive
 Person: Kate Chapman
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/flooding.jpg
 created: 1358508761
 ---

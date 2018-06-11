@@ -5,7 +5,9 @@ permalink: updates/2013-01-03_public/private_partnership_to_map_west_nusa_tengga
 Person: Kate Chapman
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/ntb_mapping.png
 created: 1357190280
 ---

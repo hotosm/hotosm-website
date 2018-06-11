@@ -12,6 +12,8 @@ Person: Felix Delattre
 Working Group:
 - Training
 Project: []
+Country:
+- Kyrgyzstan
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/kyrgyz8.jpg
 created: 1462906687
 ---

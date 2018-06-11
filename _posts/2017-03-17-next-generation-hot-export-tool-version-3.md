@@ -13,10 +13,9 @@ Summary Text: The HOT Export Tool allows users to create custom OpenStreetMap (O
 Person: Mhairi O'Hara
 Working Group: []
 Project:
-- 'USAID '
-- " BNPB "
-- " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
-  Project in Indonesia"
+- 'Disaster Early Warning And Capacity Building: InAWARE'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-03-17+at+13.26.38.png
 created: 1489728052
 ---

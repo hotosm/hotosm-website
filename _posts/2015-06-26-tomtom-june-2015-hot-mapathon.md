@@ -6,7 +6,9 @@ Person: Pierre Mirlesse
 Working Group:
 - Communications
 Project:
-- Nepal 2015 Earthquake Response
+- 'Disaster Activation: Nepal Earthquake 2015'
+Country:
+- Nepal
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20150623_091011.jpg
 created: 1435336166
 ---

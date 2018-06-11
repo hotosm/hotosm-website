@@ -3,8 +3,7 @@ title: 'Disaster Activation: Hurricanes Irma, Maria, Mexico Earthquake, Banglade
   flooding'
 date: 2017-09-09 03:50:00 Z
 permalink: projects/hot_activates_for_multiple_disasters_hurricane_irma_and_maria_mexico_earthquakes_and
-published: false
-position: 26
+position: 40
 Feature Image: "/uploads/Screen%20Shot%202017-09-08%20at%2022.29.14_0.png"
 Country:
 - Bangladesh
@@ -14,6 +13,7 @@ Country:
 - Puerto Rico
 - India
 - Indonesia
+- United States
 Impact Area:
 - Disaster Response
 - Disaster Risk Reduction

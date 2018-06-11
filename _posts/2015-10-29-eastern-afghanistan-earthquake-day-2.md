@@ -10,7 +10,9 @@ Person: Mhairi O'Hara
 Working Group:
 - Activation
 Project:
-- Eastern Afghanistan Earthquake
+- 'Disaster Activation: Eastern Afghanistan Earthquake 2015'
+Country:
+- Afghanistan
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/OSM+Changesets-resized.png
 created: 1446090332
 ---

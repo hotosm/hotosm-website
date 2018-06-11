@@ -98,11 +98,7 @@ layout: default
           <h5>Partners</h5>
           <ul>
             {% for page-partner in page.Partner %}
-              {% for partner in site.partners %}
-                {% if page-partner == partner.title %}
-                  <li><a href="#">{{ partner.title }}</a></li>
-                {% endif %}
-              {% endfor %}
+              <li>{{ page-partner }}</li>
             {% endfor %}
           </ui>
         </div>

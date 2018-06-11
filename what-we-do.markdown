@@ -15,7 +15,7 @@ Block 1:
     responders to reach those in need.
   Image: "/uploads/DOceJ9QWkAAYthW.jpg"
   Project:
-  - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+  - 'Refugee response: South Sudan and Syria'
 Block 2:
   Header: Putting the world's most vulnerable people and places on the map
   Text: Through the Missing Maps project, the HOT global community creates maps of
@@ -24,7 +24,7 @@ Block 2:
   Image: "/uploads/Congestion at the Water PumpSmall.jpg"
   Project:
   - Malaria Elimination Campaign
-  - Microgrants and Community Development
+  - Missing Maps
 Block 3:
   Header: Expanding knowledge across partners and communities
   Text: HOT enables communities, NGOs, international organizations, and government
@@ -32,8 +32,18 @@ Block 3:
     through provision of training, equipment, knowledge exchange, and field projects.
   Image: "/uploads/01.jpg"
   Project:
-  - 'LEGIT: Supporting decentralization in Liberian cities'
+  - 'Supporting decentralization in Liberian cities: LEGIT'
 Block 4:
+  Header: Developing innovative new technology to serve the humanitarian and development
+    communities
+  Text: HOT develops open source apps and tools for collaborative mapping and geospatial
+    data collection. Our tools are free for all to use and leveraged by partners such
+    as Red Cross societies, Médecins Sans Frontières, UN agencies and programmes,
+    government agencies, and local NGOs and communities.
+  Image: "/uploads/DW4U0XgXkAEncby%20country%20teams%20in%20Kampala%20Feb%202018.jpg"
+  Project:
+  - OpenAerialMap
+Block 5:
   Header: Working to support and build OpenStreetMap
   Text: All of this work is done through <a href="https://www.openstreetmap.org/">OpenStreetMap</a>.
     OpenStreetMap is the community-driven free and editable map of the world, supported

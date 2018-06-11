@@ -5,7 +5,7 @@ permalink: updates/2014-08-28_fieldwork_begins_in_the_lower_shire_(week_4)
 Person: Maning Sambale
 Working Group: []
 Project:
-- Malawi Flood Preparedness
+- Community mapping for flood resilience
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screenshot+from+2014-08-29+07:26:24.png
 created: 1409268990
 ---

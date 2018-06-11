@@ -6,7 +6,7 @@ Person: Russell Deffner
 Working Group:
 - Community
 Project:
-- Malaria Elimination Campaign
+- 'Infectious diseases: Malaria elimination'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20170506_173519.jpg
 created: 1497234339
 ---

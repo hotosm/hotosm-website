@@ -6,7 +6,9 @@ Person: Matthew Gibb
 Working Group:
 - Activation
 Project:
-- Cyclone Enawo Response
+- 'Disaster Activation: Cyclone Enawo 2017'
+Country:
+- Madagascar
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/maroantsetra_buildings_lowres.png
 created: 1493429254
 ---

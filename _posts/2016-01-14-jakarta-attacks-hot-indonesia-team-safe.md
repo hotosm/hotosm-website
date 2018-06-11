@@ -5,7 +5,9 @@ permalink: updates/2016-01-14_jakarta_attacks_hot_indonesia_team_safe
 Person: Tyler Radford
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 created: 1452782847
 ---
 

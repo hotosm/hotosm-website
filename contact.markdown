@@ -2,10 +2,10 @@
 title: Contact
 date: 2018-02-06 15:16:00 Z
 position: 12
-General Enquiries:
+General Inquiries:
   Emails:
   - |-
-    **General Enquiries**
+    **General Inquiries**
     [info@hotosm.org](info@hotosm.org)
   - |-
     **Staff & Management**
@@ -45,9 +45,8 @@ Office Locations:
   - |-
     **Uganda**
 
-    [Hive CoLab](https://www.openstreetmap.org/node/2792068002)
-    4th Floor, Kanjokya House
-    Plot 90, Kanjokya Street
+    [HOT Uganda Office]
+    Plot 53, Kira Road
     Kampala, Uganda
   Nav ID: office-locations
 Media:

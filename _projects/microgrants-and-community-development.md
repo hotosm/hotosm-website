@@ -2,7 +2,7 @@
 title: 'Community development: Microgrants and Device Grants'
 date: 2017-12-11 22:00:00 Z
 permalink: projects/microgrants_and_community_development
-position: 72
+position: 85
 Project Summary Text: HOT supports global OSM communities to expand their local projects
   through Microgrants and Device Grants.
 Feature Image: "/uploads/received_1740826335961060.jpeg"
@@ -37,18 +37,18 @@ Impact Area:
 Person:
 - Rebecca Firth
 - 'Amelia Hunt '
-- Russell Deffner
+- 
 Duration:
   Start Date: 2017-01-01 00:00:00 Z
   End Date: 2018-12-31 00:00:00 Z
-Summary Text: OpenStreetMap (OSM) community leaders are achieving amazing results
-  leading local initiatives to map the places they live in response to disaster risks
-  and to contribute to the Sustainable Development Goals. HOT supports these projects
-  through Microgrants and Device Grants, strengthening OpenStreetMap communities and
-  encouraging more and better open map data in vulnerable areas.
+Summary Text: OpenStreetMap community leaders are achieving amazing results leading
+  local initiatives to map the places they live in response to disaster risks, and
+  to contribute to the Sustainable Development Goals. HOT supports these projects
+  through Microgrants and Device Grants, growing community capacity and encouraging
+  more and better open map data in vulnerable areas.
 HOT Involvement: Community Development
 Contact: "<p>rebecca.firth@hotosm.org</p>"
 created: 1513029621
 ---
 
-<p><span style="font-family: Arial; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; white-space: pre-wrap;">OpenStreetMap (OSM) community leaders are achieving amazing results on zero or near-zero budgets. Many have a desire or opportunity to map their local communities, cities, and countries, but lack the basics to be able to do so, such as reliable equipment and funding to pay for transport and internet. HOT supports these projects through Microgrants and Device Grants. HOT's aim is to support and strengthen local OpenStreetMap communities through providing these basics in the form of small grants to key leaders who are transforming their countries through more maps.</span></p>
+OpenStreetMap community leaders around the world are achieving amazing results on zero or near-zero budgets. Many have a desire or an opportunity to grow their projects mapping their local communities, cities, and countries, but lack the basics to be able to do so. HOT supports these communities through Microgrants and Device Grants, which cover costs for internet access, devices, training, and field activities. Our aim is to support and strengthen local OpenStreetMap communities through providing these basics to key leaders who are transforming their communities through mapping.

@@ -14,7 +14,10 @@ Person: Tyler Radford
 Working Group:
 - Activation
 Project:
-- Ecuador Earthquake
+- 'Disaster Activation: Ecuador Earthquake 2016'
+Country:
+- Japan
+- Ecuador
 created: 1461002510
 ---
 

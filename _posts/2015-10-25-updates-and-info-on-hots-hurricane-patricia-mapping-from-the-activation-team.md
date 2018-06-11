@@ -14,7 +14,9 @@ Person: Blake Girardot
 Working Group:
 - Activation
 Project:
-- Hurricane Patricia
+- 'Disaster Activation: Hurricane Patricia 2015'
+Country:
+- Mexico
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/EMSR144-copernicus.jpg
 created: 1445781470
 ---

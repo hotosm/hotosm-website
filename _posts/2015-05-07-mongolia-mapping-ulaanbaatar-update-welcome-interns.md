@@ -11,7 +11,7 @@ Summary Text: It is our pleasure to welcome a group of student interns from the 
 Person: Russell Deffner
 Working Group: []
 Project:
-- Mongolia, Mapping Ulaanbaatar
+- 'Smart cities: Mapping Ulaanbaatar'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/MUST.JPG
 created: 1430976687
 ---

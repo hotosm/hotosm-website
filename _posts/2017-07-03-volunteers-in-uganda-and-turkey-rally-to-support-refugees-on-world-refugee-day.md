@@ -6,7 +6,9 @@ permalink: updates/2017-07-03_volunteers_in_uganda_and_turkey_rally_to_support_r
 Person: Geoffrey Kateregga
 Working Group: []
 Project:
-- 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'
+- 'Refugee response: South Sudan and Syria'
+Country:
+- Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image5.jpg
 created: 1499071994
 ---

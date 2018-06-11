@@ -6,7 +6,9 @@ Person: Blake Girardot
 Working Group:
 - Activation
 Project:
-- Sri Lanka Flooding 2016
+- 'Disaster Activation: Sri Lanka Flooding 2016'
+Country:
+- Sri Lanka
 created: 1463725145
 ---
 

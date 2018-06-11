@@ -1,8 +1,9 @@
 ---
 title: 'OSM Bangladesh: Improving Healthcare in Slums'
 date: 2018-06-05 09:18:00 Z
+position: 17
 Project Summary Text: Mapping health facilities in slums to improve services
-Feature Image: "/uploads/IMG_20171125_180226%20(1).jpg"
+Feature Image: "/uploads/31369346_10156288038994137_5469002039495229440_n-51c652.jpg"
 Is Community-Led: true
 Country:
 - Bangladesh

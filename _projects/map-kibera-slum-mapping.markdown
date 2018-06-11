@@ -1,7 +1,9 @@
 ---
 title: 'Map Kibera: Slum Mapping'
 date: 2018-06-05 10:11:00 Z
+position: 19
 Project Summary Text: Using citizen-generated data to improve local initiatives
+Feature Image: "/uploads/thika2-f56ff3.jpg"
 Is Community-Led: true
 Country:
 - Kenya

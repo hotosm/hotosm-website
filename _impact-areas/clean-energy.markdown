@@ -4,4 +4,4 @@ date: 2018-02-06 13:10:00 Z
 position: 3
 ---
 
-Our clean energy projects concentrate on collecting data and mapping areas to improve the utilization of renewable energy such as solar or hydro power. This involves collaborating with government bodies and renewable energy providers to investigate sustainable energy solutions. 
+Our clean energy projects concentrate on collecting data to improve the utilization of renewable energy such as solar or hydro power. This involves collaborating with government bodies and renewable energy providers to investigate sustainable energy solutions. 

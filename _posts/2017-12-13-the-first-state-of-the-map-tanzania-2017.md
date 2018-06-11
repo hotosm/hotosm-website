@@ -6,7 +6,9 @@ Person: Innocent Maholi
 Working Group:
 - Community
 Project:
-- Dar Ramani Huria — Dar Open Map
+- 'Urban flood resilience: Ramani Huria'
+Country:
+- Tanzania
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_4336copy.jpg
 created: 1513151746
 ---

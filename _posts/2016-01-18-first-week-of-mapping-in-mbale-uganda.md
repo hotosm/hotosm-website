@@ -5,7 +5,9 @@ permalink: updates/2016-01-18_first_week_of_mapping_in_mbale_uganda
 Person: Paul Uithol
 Working Group: []
 Project:
-- Mapping Financial Inclusion in Uganda
+- Mapping access to digital financial services
+Country:
+- Uganda
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20160115_105334.jpg
 created: 1453122583
 ---

@@ -5,7 +5,9 @@ permalink: updates/2013-02-01_openir_meets_with_the_indonesian_team
 Person: Katrina E.
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_349.png
 created: 1359707248
 ---

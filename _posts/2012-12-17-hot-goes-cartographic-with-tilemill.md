@@ -5,7 +5,9 @@ permalink: updates/2012-12-17_hot_goes_cartographic_with_tilemill
 Person: Katrina E.
 Working Group: []
 Project:
-- Indonesia Disaster Management Innovation
+- 'Disaster Management Through Geospatial Data: DMI'
+Country:
+- Indonesia
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_296.png
 created: 1355734866
 ---

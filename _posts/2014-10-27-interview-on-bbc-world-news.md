@@ -6,7 +6,7 @@ Person: Harry Wood
 Working Group:
 - Fundraising
 Project:
-- West Africa Ebola Epidemic
+- 'Disaster Activation: Ebola Epidemic 2014-16'
 created: 1414435072
 ---
 

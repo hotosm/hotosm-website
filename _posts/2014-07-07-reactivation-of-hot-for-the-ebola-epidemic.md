@@ -5,7 +5,7 @@ permalink: updates/2014-07-07__reactivation_of_hot_for_the_ebola_epidemic
 Person: Pierre Béland
 Working Group: []
 Project:
-- West Africa Ebola Epidemic
+- 'Disaster Activation: Ebola Epidemic 2014-16'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/amr-dale-kunce-DSCN0846b.JPG
 created: 1404696167
 ---

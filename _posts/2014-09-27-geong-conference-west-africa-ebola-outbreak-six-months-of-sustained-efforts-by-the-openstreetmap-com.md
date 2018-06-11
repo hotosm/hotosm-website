@@ -7,7 +7,7 @@ Person: Pierre Béland
 Working Group:
 - Communications
 Project:
-- West Africa Ebola Epidemic
+- 'Disaster Activation: Ebola Epidemic 2014-16'
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Cumulative+objects+created.png
 created: 1411844697
 ---

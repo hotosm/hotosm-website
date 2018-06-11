@@ -6,7 +6,9 @@ Person: Heather Leson
 Working Group:
 - Activation
 Project:
-- Sri Lanka Flooding 2016
+- 'Disaster Activation: Sri Lanka Flooding 2016'
+Country:
+- Sri Lanka
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Mapping+for+the+Sri+Lanka+Floods+at+Understanding+Risk+(May+2016).jpg
 created: 1463738152
 ---

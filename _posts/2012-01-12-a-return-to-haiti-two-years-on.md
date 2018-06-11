@@ -5,7 +5,7 @@ permalink: updates/2012-01-12_a_return_to_haiti_two_years_on
 Person: Nicolas Chavent
 Working Group: []
 Project:
-- 'Haiti '
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1326326400
 ---
 
