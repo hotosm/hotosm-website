@@ -2,7 +2,7 @@
 title: Volunteering with HOT
 date: 2018-03-09 09:19:00 Z
 Intro Text: There are many different ways to volunteer with HOT, and anyone can get
-  involved. To get started quickly, jump into a mapping project and contribute.
+  involved. To get started quickly, jump into a mapping project and contribute online.
 Page Link:
   Label: Start mapping now!
   Text: Skip the intro and start volunteering your time immediately by mapping.
