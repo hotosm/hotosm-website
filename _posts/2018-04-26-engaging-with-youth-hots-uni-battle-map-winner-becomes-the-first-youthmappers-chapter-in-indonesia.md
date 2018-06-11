@@ -4,7 +4,7 @@ title: Engaging with Youth, HOT’s Uni Battle Map Winner Becomes the First Yout
 date: 2018-04-26 09:51:09 Z
 permalink: updates/2018-04-26_engaging_with_youth_hot’s_uni_battle_map_winner_becomes_the_first_youthmappers
 Person: Biondi Sanda Sima
-Projects:
+Project:
 - 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
