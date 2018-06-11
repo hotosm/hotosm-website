@@ -1,11 +1,11 @@
 ---
 title: Updates from the OpenAerialMap Project
-date: 2015-02-26 01:50:32 Z
+date: 2015-02-26 01:50:00 Z
 permalink: updates/2015-02-26_updates_from_the_openaerialmap_project
 Person: Cristiano Giovando
-Working Group: []
 Project:
 - OpenAerialMap
+- 'UAV Imagery for Disaster Response: Pacific Drone Imagery Dashboard (PacDID)'
 created: 1424915432
 ---
 
