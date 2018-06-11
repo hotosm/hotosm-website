@@ -15,7 +15,6 @@ Country:
 - Guatemala
 - Honduras
 Impact Area:
-- Disaster Risk Reduction
 - Public Health
 Person:
 - Mikel Maron
