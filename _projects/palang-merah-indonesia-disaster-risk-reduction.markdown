@@ -12,7 +12,7 @@ Country:
 Impact Area:
 - Disaster Risk Reduction
 Person:
-- 'Yantisa Akhadi '
+- Yantisa Akhadi
 - Adityo Dwijananto
 Partner:
 - Palang Merah Indonesia
