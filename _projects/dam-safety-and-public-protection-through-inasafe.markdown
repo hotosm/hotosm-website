@@ -6,7 +6,7 @@ Project Summary Text: "HOT mapped the village of Cirendu, in the province of Ban
   and the Jatigede\nsub-district, in the \nProvince of West Java to provide comprehensive
   data on households and key infrastructure. The resulting exposure data was subsequently
   used to run scenarios on dam failure using InaSAFE."
-Feature Image: "/uploads/Screen%20Shot%202018-06-04%20at%201.54.25%20PM-4a0eaa.png"
+Feature Image: "/uploads/Screen%20Shot%202018-06-11%20at%2014.30.36.png"
 Is Community-Led: false
 Country:
 - Indonesia
@@ -16,10 +16,17 @@ Impact Area:
 - Water & Sanitation
 Person:
 - Yantisa Akhadi
+- Adityo Dwijananto
+Partner:
+- Government of Indonesia
+- World Bank
+- Global Facility for Disaster Reduction and Recovery
 Duration:
   Start Date: 2017-01-01 00:00:00 Z
   End Date: 2017-12-31 00:00:00 Z
 ---
+
+<p><span id="docs-internal-guid-62b2c4d3-2d74-788e-3898-a65299fea496" style="font-weight: normal;"><span style="font-size: 15.3333px; font-family: Calibri; color: #232429; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; white-space: pre-wrap;"> </span></span></p><p> </p><p>
 
 Dam safety is increasingly important to ensuring public safety and economic
 security in Indonesia. The challenges of rapid population growth and urbanization,
@@ -43,5 +50,8 @@ It provides a simple but rigorous way to combine data from scientists, local gov
 
 ![Screen Shot 2018-06-04 at 1.54.25 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.54.25%20PM.png)
 ![Screen Shot 2018-06-04 at 1.53.17 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.53.17%20PM.png)
+</p><p> 
 
 [123650-REVISED-DAM-Safety-12MAR2018-compressed.pdf](/uploads/123650-REVISED-DAM-Safety-12MAR2018-compressed.pdf)
+
+</p><p></p><p></p>
