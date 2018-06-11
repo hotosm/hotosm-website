@@ -1,8 +1,8 @@
 ---
 title: 'UAV Imagery for Disaster Response: Pacific Drone Imagery Dashboard (PacDID)'
 date: 2018-06-11 21:17:00 Z
-Project Summary Text: HOT deployed OpenAerialMap for use by the Secretariat for the
-  Pacific Community (SPC) as part of the Pacific Humanitarian Innovation Challenge.
+Project Summary Text: HOT deployed OpenAerialMap for use by the Pacific Community
+  (SPC) as part of the Pacific Humanitarian Innovation Challenge.
 Feature Image: "/uploads/Picture1.png"
 Country:
 - Fiji
@@ -13,6 +13,7 @@ Person:
 - Nate Smith
 Partner:
 - Australian Government Department of Foreign Affairs and Trade (DFAT)
+- Pacific Community (SPC)
 Duration:
   Start Date: 2016-08-01 00:00:00 Z
   End Date: 2018-01-31 00:00:00 Z
