@@ -1,12 +1,12 @@
 ---
 title: 'Uploading made easier: new options available for OpenAerialMap'
-date: 2017-04-03 17:18:39 Z
+date: 2017-04-03 17:18:00 Z
 permalink: updates/2017-04-03_uploading_made_easier_new_options_available_for_openaerialmap
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-04-03+at+6.02.53+PM.png
 Person: Nate Smith
-Working Group: []
 Project:
 - OpenAerialMap
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-04-03+at+6.02.53+PM.png
+- 'UAV Imagery for Disaster Response: Pacific Drone Imagery Dashboard (PacDID)'
 created: 1491239919
 ---
 
