@@ -134,7 +134,8 @@ layout: default
 {% endfor %}
 
 {% assign news_count = 0 %}
-{% for post in site.posts %}
+{% assign posts_sorted = site.posts | sort:"date" | reverse %}
+{% for post in posts_sorted %}
   {% if post['Project'] contains page.title %}
 
   {% assign news_count = news_count | plus: 1 %}
