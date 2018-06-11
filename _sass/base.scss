@@ -2839,14 +2839,21 @@ em {
 }
 
 .contact-body {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-gap: 24px;
   margin-bottom: 40px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 24px;
+  }
 }
 
 .contact-nav {
   grid-column: 1 / 3;
+  margin-bottom: 24px;
+  @media (max-width: $screen-xs) {
+    padding-bottom: 24px;
+    border-bottom: 1px solid $border-color;
+  }
   li {
     margin-top: 12px;
     a {
@@ -2872,20 +2879,30 @@ em {
   a {
     display: block;
   }
+  .contact-general, .contact-locations, .contact-persona {
+    @media (min-width: $screen-xs) {
+      display: grid;
+      grid-gap: 24px;
+    }
+  }
   .contact-general {
-    display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 24px;
+    @media (max-width: $screen-xs) {
+      p {
+        margin-bottom: 24px;
+      }
+    }
   }
   .contact-locations {
-    display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-gap: 24px;
+    @media (max-width: $screen-xs) {
+      div {
+        margin-bottom: 40px;
+      }
+    }
   }
   .contact-persona {
-    display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 24px;
   }
 }
 
