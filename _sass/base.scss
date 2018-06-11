@@ -279,7 +279,8 @@ em {
     margin-left: 24px;
   }
   @media (max-width: $screen-xs) {
-    margin-left: 16px;
+    margin-left: 0;
+    display: block;
   }
 }
 
@@ -289,16 +290,17 @@ em {
   flex-direction: row;
   flex-wrap: wrap;
   padding: 26px 32px 26px;
-  @media (max-width: $screen-sm) {
+  @media (max-width: $screen-xs) {
+    display: block;
     padding: 15px 24px 20px;
   }
   h5 {
     margin: 10px 16px 4px 0;
   }
   ul {
-    display: flex;
-    flex-wrap: wrap;
-    @media (min-width: $screen-sm) {
+    @media (min-width: $screen-xs) {
+      display: flex;
+      flex-wrap: wrap;
       padding-right: 4px;
       border-right: 1px solid shade($border-color, 10%);
       margin-right: 24px;
