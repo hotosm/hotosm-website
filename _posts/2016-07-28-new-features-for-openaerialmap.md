@@ -1,12 +1,12 @@
 ---
 title: New Features for OpenAerialMap
-date: 2016-07-28 05:44:51 Z
+date: 2016-07-28 05:44:00 Z
 permalink: updates/2016-07-28_new_features_for_openaerialmap
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/oam-browser-post-illu-cover.png
 Person: Nate Smith
-Working Group: []
 Project:
 - OpenAerialMap
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/oam-browser-post-illu-cover.png
+- 'UAV Imagery for Disaster Response: Pacific Drone Imagery Dashboard (PacDID)'
 created: 1469684691
 ---
 
