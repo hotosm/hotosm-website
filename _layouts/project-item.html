@@ -111,6 +111,71 @@ layout: default
 
     </aside>
 
+    <!--////////////////////////////////-->
+    <!--///////// Project News /////////-->
+    <!--////////////////////////////////-->
+
+
+    {% for post in site.posts %}
+      {% if post['Project'] contains page.title %}
+
+      <div class="container">
+        <div class="project-index-news">
+          <h6>News from {{ page.title }} <span>(<a href="/updates">View all news</a>)</span></h6>
+          <div class="project-index-news-list">
+
+        {% break %}
+      {% endif %}
+    {% endfor %}
+
+    {% for post in site.posts %}
+      {% if post['Project'] contains page.title %}
+
+      {% if forloop.index == 10 %}
+        break
+      {% else %}
+
+      <div class="news-index-item">
+        <div class="news-list-summary">
+
+          <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
+
+            <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+
+            <p>{{ post['Summary Text']}}</p>
+            {% capture post.Person %}{% endcapture %}
+            <div class="news-list-meta">
+                <p class="news-index-author">
+                  {% include author.html %} — {{ post.date | date:  '%e %B, %Y' }}
+                </p>
+            </div>
+          </div>
+
+          {% if post['Feature Image'] %}
+            <div class="news-list-image-sm">
+              <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
+            </div>
+          {% endif %}
+
+        </div>
+      </div>
+
+      {% endif %}
+
+      {% endif %}
+    {% endfor %}
+
+    {% for post in site.posts %}
+      {% if post['Project'] contains page.title %}
+
+            </div>
+          </div>
+        </div>
+
+        {% break %}
+      {% endif %}
+    {% endfor %}
+
   </div>
 
 </article>
