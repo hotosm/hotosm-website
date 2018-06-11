@@ -4,6 +4,7 @@ date: 2018-06-05 14:00:00 Z
 position: 12
 Project Summary Text: Mapping for flood prevention in Mozambique
 Feature Image: "/uploads/2018-01-12_10-51-31%20(1)-7bd0b2.jpg"
+Is image top aligned: true
 Is Community-Led: true
 Country:
 - Mozambique
