@@ -13,4 +13,4 @@ Person:
 - Tasauf A Baki Billah (Ribin)
 ---
 
-The health situation in Dhaka slums is a major concern. Poor living conditions, drainage systems, and ventilation make these areas prone to diseases. The NIHR Global Health Unit on Improving Health in Slums and Warwick University are facilitating research to identify the location and details of health facilities in the slums. The Bangladesh HumanitarianOpenStreetMap Operation Team (BHOOT) is supporting the project with the initial mapping process and structure verification. The health data collected will be utilised to improve health standards in slums. 
+The health situation in Dhaka slums is a major concern. Poor living conditions, drainage systems, and ventilation make these areas prone to diseases. The NIHR Global Health Unit on Improving Health in Slums and Warwick University are facilitating research to identify the location and details of health facilities in the slums. The Bangladesh HumanitarianOpenStreetMap Operation Team (BHOOT) is supporting this project with the initial mapping process and structure verification. The health data collected will be utilised to improve health standards in slums. 
