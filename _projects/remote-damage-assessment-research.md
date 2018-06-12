@@ -5,7 +5,7 @@ permalink: projects/remote_damage_assessment_research
 position: 85
 Project Summary Text: This research project focuses on improving how building damage
   information is gathered through crowdsourcing
-Feature Image: "/uploads/Screen%20Shot%202017-06-27%20at%2022.57.42.jpg"
+Feature Image: "/uploads/Rapid%20post-disaster.PNG"
 Person:
 - Blake Girardot
 Duration:
