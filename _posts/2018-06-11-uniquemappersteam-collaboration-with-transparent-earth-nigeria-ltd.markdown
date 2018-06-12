@@ -2,7 +2,6 @@
 title: UniqueMappersTeam Collaboration with Transparent Earth Nigeria Ltd.
 date: 2018-06-11 09:38:00 Z
 Feature Image: "/uploads/1a.jpg"
-Is image top aligned: true
 Country:
 - Nigeria
 ---
