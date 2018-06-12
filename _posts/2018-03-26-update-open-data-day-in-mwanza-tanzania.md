@@ -1,15 +1,16 @@
 ---
 title: 'Update: Open Data Day in Mwanza, Tanzania'
-date: 2018-03-26 12:00:34 Z
+date: 2018-03-26 12:00:00 Z
 permalink: updates/2018-03-26_update_open_data_day_in_mwanza_tanzania
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/mwanzatraining.PNG
 Person: Amelia Hunt
 Working Group:
 - Community
-Projects:
-- 'Community development: Microgrants and Device Grants'
 Country:
 - Tanzania
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/mwanzatraining.PNG
+Projects:
+- 'Community development: Microgrants and Device Grants'
+- Crowd2Map Tanzania
 created: 1522065634
 ---
 
