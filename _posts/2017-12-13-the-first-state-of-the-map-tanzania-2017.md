@@ -13,7 +13,6 @@ Project:
 created: 1513151746
 ---
 
-
 On the 8th to 10th December Crowd2Map collaborated with Ramani Huria to host the first state of the map conference in Dar es Salaam, Tanzania. We initially expected 150 participants but the number of attendees exceeded our estimates and reached 170 attendees from across 10 countries: Malawi, Kenya, Uganda, Rwanda, Zambia, Germany, America, Canada, Italy and Tanzania itself. It was an event where people from diverse background came together to train, network and interact.
 
 **Participants**
