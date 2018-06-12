@@ -8,6 +8,9 @@ Working Group:
 - Community
 Country:
 - Tanzania
+Project:
+- 'Community development: Microgrants and Device Grants'
+- Crowd2Map Tanzania
 Projects:
 - 'Community development: Microgrants and Device Grants'
 - Crowd2Map Tanzania
