@@ -1,6 +1,6 @@
 ---
 title: 'Palang Merah Indonesia: Disaster Risk Reduction'
-date: 2018-06-05 10:08:00 Z
+date: 2018-05-01 10:08:00 Z
 position: 23
 Project Summary Text: Palang Merah Indonesia is working on a project to create a detailed
   base map of the infrastructure, land use, amenities, and other key community assets
