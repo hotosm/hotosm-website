@@ -29,8 +29,8 @@ Summary Text: 'In collaboration with USAID, BNPB, and the Pacific Disaster Centr
   infrastructure data to the InAWARE disaster management tool. '
 HOT Involvement: Community Development
 Contact: yantisa.ahkhadi@hotosm.org
-created: 1467765342
 Wiki Page: "[InAWARE Project OSM Wiki Page](https://wiki.openstreetmap.org/wiki/HOT_-_PDC_InAWARE_Indonesia_Project_(Surabaya_%26_Jakarta))"
+created: 1467765342
 ---
 
 
