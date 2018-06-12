@@ -12,9 +12,9 @@ Country:
 Impact Area:
 - Disaster Risk Reduction
 Person:
-- Mhairi O'Hara
 - Yantisa Akhadi
 - Harry Mahardhika Machmud
+- Mhairi O'Hara
 Partner:
 - USAID Office of Foreign Disaster Assistance (OFDA)
 - Pacific Disaster Center
