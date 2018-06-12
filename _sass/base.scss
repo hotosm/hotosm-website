@@ -2983,13 +2983,13 @@ sup {
 
 .stat-title:hover .tooltiptext {
   visibility: visible;
-  opacity: 1; 
+  opacity: 1;
 }
 
 .stat-title .tooltiptext::after {
   content: " ";
   position: absolute;
-  bottom: 100%; 
+  bottom: 100%;
   left: 50%;
   margin-left: -5px;
   border-width: 5px;
@@ -3082,6 +3082,10 @@ sup {
       margin-bottom: 14px;
     }
   }
+}
+
+.four-oh-four .event-promo {
+  margin-bottom: 0;
 }
 
 .finances {
