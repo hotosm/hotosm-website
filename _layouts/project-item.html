@@ -63,6 +63,12 @@ layout: default
 
     <aside class="meta">
 
+      {% if page['Project Logo Image'] %}
+        <div class="meta-item project-logo">
+          <img src="{{ page['Project Logo Image'] }}">
+        </div>
+      {% endif %}
+
       {% if page['Impact Area'][0] != '' %}
         <div class="meta-item project-impact">
           <h5>Impact Areas</h5>
