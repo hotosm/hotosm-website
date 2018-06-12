@@ -1,13 +1,14 @@
 ---
 title: 'HOT Supports Community Driven Open Data: Ger Community Mapping Center, Mongolia'
-date: 2017-07-10 18:53:06 Z
+date: 2017-07-10 18:53:00 Z
 permalink: updates/2017-07-10_hot_supports_community_driven_open_data_ger_community_mapping_center_mongolia
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Ger2.png
 Person: Rebecca Firth
 Working Group:
 - Community
 Project:
 - 'Community development: Microgrants and Device Grants'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Ger2.png
+- 'Ger Community Map Center: Improving Emergency Response Maps'
 created: 1499712786
 ---
 
