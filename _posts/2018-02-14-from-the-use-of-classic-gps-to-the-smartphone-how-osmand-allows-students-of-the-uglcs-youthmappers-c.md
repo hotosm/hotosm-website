@@ -1,14 +1,15 @@
 ---
 title: 'From the use of classic GPS to the smartphone: how OsmAnd allows students
   of the UGLCS YouthMappers chapter to collect data in the field'
-date: 2018-02-14 12:28:24 Z
+date: 2018-02-14 12:28:00 Z
 permalink: updates/2018-02-14_from_the_use_of_classic_gps_to_the_smartphone_how_osmand_allows_students_of_the
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/3_1.jpg
 Person: 'Amelia Hunt '
 Working Group:
 - Community
 Project:
 - 'Community development: Microgrants and Device Grants'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/3_1.jpg
+- 'OSM Guinea: Mapping Health Services'
 created: 1518611304
 ---
 
