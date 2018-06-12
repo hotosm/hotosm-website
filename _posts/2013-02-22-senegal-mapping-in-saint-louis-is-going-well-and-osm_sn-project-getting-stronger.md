@@ -6,7 +6,7 @@ permalink: updates/2013-02-22_senegal__mapping_in_saint-louis_is_going_well_and_
 Working Group: []
 Project:
 - Senegal
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMAGE+1bis_1.JPG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/IMAGE+1bis_1.JPG
 created: 1361575644
 ---
 
