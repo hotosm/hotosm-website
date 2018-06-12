@@ -5,7 +5,7 @@ permalink: projects/field_mapping_in_saint-marc_haiti
 position: 49
 Project Summary Text: In 2011 HOT began its involvement in a program promoting recovery,
   long-term development and local capacity building in Haiti following the 2010 earthquake.
-Feature Image: "/uploads/haiti.jpg"
+Feature Image: "/uploads/Haiti.Saint-Marc.jpg"
 Country:
 - Haiti
 Impact Area:
