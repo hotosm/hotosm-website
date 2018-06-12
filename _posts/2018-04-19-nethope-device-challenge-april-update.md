@@ -1,12 +1,11 @@
 ---
 title: Nethope Device Challenge - April Update!
-date: 2018-04-19 13:40:20 Z
+date: 2018-04-19 13:40:00 Z
 permalink: updates/2018-04-19_nethope_device_challenge_april_update
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20180408_121822.jpg
 Person: Amelia Hunt
 Working Group:
 - Community
-Projects:
-- 'Community development: Microgrants and Device Grants'
 Country:
 - Bangladesh
 - Guinea
@@ -17,7 +16,10 @@ Country:
 - Turkey
 - Uganda
 - Zambia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20180408_121822.jpg
+Project:
+- 'Community development: Microgrants and Device Grants'
+Projects:
+- 'Community development: Microgrants and Device Grants'
 created: 1524145220
 ---
 
