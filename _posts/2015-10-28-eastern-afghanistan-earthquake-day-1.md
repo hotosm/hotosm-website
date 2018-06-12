@@ -24,3 +24,5 @@ On Monday, October 26th an [earthquake struck](http://www.aljazeera.com/news/201
 Therefore we are currently working on the road network and populated place identification through this mapping project: [http://tasks.hotosm.org/project/1264](http://tasks.hotosm.org/project/1264)
 
 Here is a look at the first day's progress:
+
+![AfghanEarthquakeDay1.PNG](/uploads/AfghanEarthquakeDay1.PNG)
