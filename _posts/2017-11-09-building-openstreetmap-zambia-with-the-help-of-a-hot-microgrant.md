@@ -1,13 +1,14 @@
 ---
 title: Building OpenStreetMap Zambia with the help of a HOT Microgrant
-date: 2017-11-09 18:26:54 Z
+date: 2017-11-09 18:26:00 Z
 permalink: updates/2017-11-09_building_openstreetmap_zambia_with_the_help_of_a_hot_microgrant
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-11-09+at+13.23.25.png
 Person: Rebecca Firth
 Working Group:
 - Community
 Project:
 - 'Community development: Microgrants and Device Grants'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-11-09+at+13.23.25.png
+- 'OSM Zambia: Mapping Peri-Urban Areas'
 created: 1510252014
 ---
 
