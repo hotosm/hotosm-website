@@ -52,6 +52,6 @@ Harry Mahardhika is leading the operations and logistics of the mapping project,
 
 Once the information is mapped by the Data Entry specialists, it will be reviewed and validated by a team of dedicated Quality Assurance specialists.The HOT team will also assist with training sessions for local BPBD staff, looking at the collection of OpenStreetMap data and its maintenance, as well as disaster management operational activities using InAWARE, PetaJakarta, and InaSAFE. The overall goal is to enhance capacity within national and provincial disaster management agencies to access automated international, regional, national, and local hazard information and supporting infrastructure data, as well as sharing information between agencies, and disseminating alert warnings to communities and populations at risk.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ruHf_cVZTuM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ruHf_cVZTuM?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [InAWARE Project OSM Wiki Page](https://wiki.openstreetmap.org/wiki/HOT_-_PDC_InAWARE_Indonesia_Project_(Surabaya_%26_Jakarta))
