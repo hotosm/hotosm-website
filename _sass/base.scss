@@ -3567,6 +3567,10 @@ sup {
       font-size: 1.25rem;
     }
   }
+  .empty {
+    color: $blue-light;
+    margin-bottom: 32px;
+  }
 }
 
 .person-bio {
@@ -3600,12 +3604,17 @@ sup {
   padding-top: 40px;
   border-top: 1px solid $border-color;
   margin-bottom: 16px;
-  display: grid;
-  grid-template-columns: repeat(9, 1fr);
-  grid-gap: 0 24px;
+  &.present {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-gap: 0 24px;
+  }
   h6 {
-    margin-bottom: 36px;
+    margin-bottom: 18px;
     grid-column: 1 / 3;
+    @media (max-width: $screen-xs) {
+      margin-bottom: 36px;
+    }
   }
   .person-posts-list {
     grid-column: 3 / -1;
@@ -3624,7 +3633,11 @@ sup {
   padding-top: 40px;
   border-top: 1px solid $border-color;
   h6 {
-    margin-bottom: 36px;
+    margin-bottom: 18px;
+    grid-column: 1 / 3;
+    @media (max-width: $screen-xs) {
+      margin-bottom: 36px;
+    }
   }
 }
 
