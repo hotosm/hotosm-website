@@ -117,10 +117,11 @@ defaults:
     type: projects
   values:
     layout: project-item
-    Project Summary Text:
-    Feature Image:
-    Is image top aligned:
-    Is Community-Led:
+    Project Summary Text: 
+    Feature Image: 
+    Is image top aligned: 
+    Project Logo Image: 
+    Is Community-Led: 
     Country:
     - ''
     Impact Area:
