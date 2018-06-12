@@ -2380,15 +2380,21 @@ em {
     margin: 24px 0 40px;
     padding-top: 24px;
     @media (min-width: $screen-sm) {
+      padding-top: 40px;
       grid-column: 1 / 10;
+    }
+  }
+  .pro-summary-wrap, .pro-content-wrap {
+    @media (min-width: $screen-sm) {
+      grid-column: 1 / -1;
       display: grid;
       grid-gap: 0 24px;
       grid-template-columns: repeat(8, 1fr);
-      padding-top: 40px;
     }
   }
   .project-summary {
     grid-column: 1 / -1;
+    margin-bottom: 16px;
     p {
       font-size: 1.25rem;
       color: $red;
