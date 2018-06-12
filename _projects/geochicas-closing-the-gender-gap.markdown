@@ -1,7 +1,7 @@
 ---
 title: 'GeoChicas: Closing the Gender Gap'
 date: 2018-06-01 13:24:00 Z
-position: 11
+position: 10
 Project Summary Text: Improving gender inclusion in OpenStreetMap and beyond
 Feature Image: "/uploads/geochicascallesdellasmujeres.PNG"
 Is Community-Led: true
