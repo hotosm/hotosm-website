@@ -1,13 +1,13 @@
 ---
 title: 'Crowd2Map Tanzania: putting rural Tanzania on the map with the help of a HOT
   Microgrant'
-date: 2017-08-03 02:31:49 Z
+date: 2017-08-03 02:31:00 Z
 permalink: updates/2017-08-03_crowd2map_tanzania_putting_rural_tanzania_on_the_map_with_the_help_of_a_hot_micr
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Youthmappers.jpg
 Person: Rebecca Firth
-Working Group: []
 Project:
 - 'Community development: Microgrants and Device Grants'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Youthmappers.jpg
+- Crowd2Map Tanzania
 created: 1501727509
 ---
 
