@@ -9,7 +9,7 @@ People:
     maps. This diverse group includes dedicated voting members, staff, contractors,
     volunteers, interns, and board members. Read more about different community members
     or learn more about becoming a part of the community.
-  Image: "/uploads/RH2.PNG"
+  Image: "/uploads/inno.jpg"
 Working Groups Description: Working Groups are at the core of how HOT organizes projects,
   supports disaster response, and functions as a community. Each Working Group consists
   of members across the community meeting on a monthly, bi-weekly, or weekly basis.
