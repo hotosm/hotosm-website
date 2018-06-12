@@ -1,6 +1,6 @@
 ---
 title: 'Disaster Early Warning And Capacity Building: InAWARE'
-date: 2016-07-06 00:35:00 Z
+date: 2018-06-12 00:35:00 Z
 permalink: projects/disaster-early-warning-and-capacity-building-inaware
 position: 3
 Project Summary Text: HOT is supporting the development of InAWARE, a disaster management
