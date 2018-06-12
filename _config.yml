@@ -145,5 +145,6 @@ plugins:
 - jekyll-feed
 - jekyll-paginate
 - jekyll-redirect-from
+- jekyll-sitemap
 paginate: 16
 paginate_path: "/updates/page:num/"
