@@ -1,7 +1,7 @@
 ---
 title: Crowd2Map Tanzania
 date: 2018-05-16 09:37:00 Z
-position: 14
+position: 16
 Project Summary Text: 'Crowd2Map Tanzania is a crowdsourced mapping project aiming
   to put rural Tanzania on the map, particularly those areas where girls are at risk
   of Female Genital Mutilation (FGM). '
