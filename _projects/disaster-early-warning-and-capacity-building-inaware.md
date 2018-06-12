@@ -31,6 +31,7 @@ HOT Involvement: Community Development
 Contact: yantisa.ahkhadi@hotosm.org
 Wiki Page: "[InAWARE Project OSM Wiki Page](https://wiki.openstreetmap.org/wiki/HOT_-_PDC_InAWARE_Indonesia_Project_(Surabaya_%26_Jakarta))"
 created: 1467765342
+redirect_from: projects/usaid__bnpb__inaware_disaster_management_early_warning_and_decision_support_capacity_enhancement_project_in_indonesia
 ---
 
 
