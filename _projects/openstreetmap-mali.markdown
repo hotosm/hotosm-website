@@ -1,7 +1,7 @@
 ---
 title: 'OSM Mali: Developing the Community'
 date: 2018-05-16 08:27:00 Z
-position: 37
+position: 38
 Project Summary Text: 'Mapping Bamako city and rural Mali to inform development initiatives
   and health services.  '
 Feature Image: "/uploads/IMG_0188.JPG"
