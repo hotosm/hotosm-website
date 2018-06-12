@@ -7,7 +7,7 @@ Today we flipped the switch on a new look for hotosm.org. The new hotosm.org has
 
 ### Projects, stats, and maps
 
-The new hotosm.org has a number of new views that focus helping communicate what HOT does, who the HOT community is, and how to get directed to the right place.
+The new hotosm.org has a number of new views that communicate what HOT does, who the HOT community is, and how to get directed to the right place.
 
 screenshot
 
@@ -19,9 +19,9 @@ In addition to project information, we’ve integrated the Missing Maps API to g
 
 ### Implementing a process to design and build
 
-Over a year ago, Felix Delattre and I discussed ideas and options for how we can reduce maintenance and overhead of keeping our Drupal site up and secure. After our discussion, we agreed at looking into other options and we began a process of not only looking at the technology behind the website but also conduct a design update. Since last summer, the website working group has been engaging in a process that has taken us from research and strategy phase, to designing and developing a prototype with designer Brendan Gatens, and now has finished not only content migration but with the Communications Working Group engaging with HOT and OSM community projects to have their information highlighted and accessible on the website.
+Over a year ago, Felix Delattre and I discussed ideas and options for how we can reduce maintenance and overhead of keeping our Drupal site up and secure. After our discussion, we agreed at looking into other options and we began a process of not only looking at the technology behind the website but also conduct a design update. Since last summer, the website working group has been engaging in a process that has taken us from research and strategy phase, to designing and developing a prototype with designer Brendan Gatens. The Working Group has now finished not only content migration, but collaborated with the Communications Working Group to engage HOT and OSM community projects to have their information highlighted and accessible on the website.
 
-On the technical side, the entire site is built using Jekyll, a simple static site generator. We’ve integrated a content editor called Siteleaf, which gives us the ability to add another option of editing beyond Github.
+On the technical side, the entire site is built using Jekyll, a simple open source static site generator. We’ve integrated a content editor called Siteleaf, which gives us the ability to add another option of editing beyond Github.
 
 ### What’s Next
 
