@@ -1,6 +1,6 @@
 ---
 title: 'UAV Imagery for Disaster Response: Pacific Drone Imagery Dashboard (PacDID)'
-date: 2018-06-10 21:17:00 Z
+date: 2018-05-02 21:17:00 Z
 position: 13
 Project Summary Text: HOT deployed OpenAerialMap for use by the Pacific Community
   (SPC) as part of the Pacific Humanitarian Innovation Challenge.
