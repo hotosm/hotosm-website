@@ -1,6 +1,6 @@
 ---
 title: 'Global exposure database for all: GED4ALL'
-date: 2018-06-08 05:01:00 Z
+date: 2018-06-09 05:01:00 Z
 position: 6
 Project Summary Text: HOT has partnered with the Global Earthquake Model (GEM) and
   ImageCat on a Challenge Fund focused on developing a global exposure database for
