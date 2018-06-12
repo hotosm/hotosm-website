@@ -6,7 +6,7 @@ position: 48
 Project Summary Text: In 2012, HOT participants conducted training and networking
   activities over three weeks aiming to foster the growth of the OpenStreetMap (OSM)
   project in Senegal.
-Feature Image: "/uploads/OSM%20Senegal.jpg"
+Feature Image: "/uploads/Somalia-%20OSM.PNG"
 Country:
 - Senegal
 Person:
