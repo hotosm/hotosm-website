@@ -1,6 +1,6 @@
 ---
 title: 'Field data collection for malaria elimination: National Malaria Programme'
-date: 2018-05-30 14:56:00 Z
+date: 2018-06-06 14:56:00 Z
 position: 8
 Feature Image: "/uploads/IMG_1152-botswana-compressor.jpg"
 Country:
