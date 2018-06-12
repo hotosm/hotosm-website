@@ -37,10 +37,11 @@ layout: default
         <div class="person-bio">
           <h6>Bio</h6>
           <div class="person-content">
-            {% assign content = post.content | strip_newlines %}
-            {{ content }}
-            {% if content == "" %}
-              <p>{{ page.title }} is a voting member of HOT.</p>
+            {% assign page-content = page.content | strip_newlines %}
+            {% if page-content != "" %}
+              {{ content }}
+              {% else %}
+              <p>{{ page.title }} is a HOT {% if page['Member Type']['Is Staff'] %}staff member{% elsif page['Member Type']['Is Board'] %}board member{% else %}voting member{% endif %}.</p>
             {% endif %}
           </div>
         </div>
