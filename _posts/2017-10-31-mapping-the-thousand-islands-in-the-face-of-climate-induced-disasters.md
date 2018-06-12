@@ -1,14 +1,13 @@
 ---
 title: Mapping the Thousand Islands in the Face of Climate-Induced Disasters
-date: 2017-10-31 06:31:39 Z
+date: 2017-10-31 06:31:00 Z
 permalink: updates/2017-10-31_mapping_the_thousand_islands_in_the_face_of_climate-induced_disasters
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/WhatsApp+Image+2017-10-27+at+5.24.44+PM.jpeg
 Person: Biondi Sanda Sima
-Working Group: []
-Project:
-- 'Disaster Early Warning And Capacity Building: InAWARE'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/WhatsApp+Image+2017-10-27+at+5.24.44+PM.jpeg
+Project:
+- 'Disaster Early Warning And Capacity Building: InAWARE'
 created: 1509431499
 ---
 
