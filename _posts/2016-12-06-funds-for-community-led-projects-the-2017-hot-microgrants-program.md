@@ -1,11 +1,11 @@
 ---
 title: 'Funds for community-led projects: the 2017 HOT Microgrants program'
-date: 2016-12-06 22:02:37 Z
+date: 2016-12-06 22:02:00 Z
 permalink: updates/2016-12-06_funds_for_community-led_projects_the_2017_hot_microgrants_program
-Person: Tyler Radford
-Working Group: []
-Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017%20microgrants_0.png
+Person: Tyler Radford
+Project:
+- 'Community development: Microgrants and Device Grants'
 created: 1481061757
 ---
 
