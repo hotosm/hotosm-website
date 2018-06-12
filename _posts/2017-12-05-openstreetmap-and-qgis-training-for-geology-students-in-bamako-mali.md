@@ -1,13 +1,14 @@
 ---
 title: OpenStreetMap & QGIS Training for geology students in  Bamako, Mali
-date: 2017-12-05 12:46:40 Z
+date: 2017-12-05 12:46:00 Z
 permalink: updates/2017-12-05_openstreetmap_&_qgis_training_for_geology_students_in__bamako_mali
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/title+image.jpg
 Person: 'Amelia Hunt '
 Working Group:
 - Community
 Project:
 - 'Community development: Microgrants and Device Grants'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/title+image.jpg
+- 'OSM Mali: Developing the Community'
 created: 1512478000
 ---
 

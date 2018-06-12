@@ -1,13 +1,14 @@
 ---
 title: Mapping Arsenic Contamination - Youth Mappers at AUW Bangladesh
-date: 2017-12-06 13:11:14 Z
+date: 2017-12-06 13:11:00 Z
 permalink: updates/2017-12-06_mapping_arsenic_contamination_-_youth_mappers_at_auw_bangladesh
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Capture.JPG
 Person: 'Amelia Hunt '
 Working Group:
 - Community
 Project:
 - 'Community development: Microgrants and Device Grants'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Capture.JPG
+- 'Asian University for Women: Mapping Arsenic Contamination'
 created: 1512565874
 ---
 
