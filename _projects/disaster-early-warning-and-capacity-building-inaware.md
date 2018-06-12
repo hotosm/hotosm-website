@@ -2,7 +2,7 @@
 title: 'Disaster Early Warning And Capacity Building: InAWARE'
 date: 2016-07-06 00:35:00 Z
 permalink: projects/disaster-early-warning-and-capacity-building-inaware
-position: 2
+position: 1
 Project Summary Text: HOT is supporting the development of InAWARE, a disaster management
   tool, aimed at improving risk assessment, early-warning, and disaster-management
   decision making in Indonesia.
