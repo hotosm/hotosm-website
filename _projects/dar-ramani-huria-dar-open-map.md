@@ -6,6 +6,7 @@ position: 2
 Project Summary Text: Ramani Huria, "Open Map" in Swahili, is a HOT Tanzania project
   focused on mapping Dar es Salaam to inform flood prevention plans.
 Feature Image: "/uploads/Ramani%20Huria%20TZ%202.jpg"
+Project Logo Image: "/uploads/dar-ramani-huria-logo.jpg"
 Is Community-Led: false
 Country:
 - Tanzania
