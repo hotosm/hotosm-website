@@ -34,8 +34,6 @@ created: 1467765342
 redirect_from: projects/usaid__bnpb__inaware_disaster_management_early_warning_and_decision_support_capacity_enhancement_project_in_indonesia
 ---
 
-
-
 HOT is collaborating on a USAID, Office of U.S. Foreign Disaster Assistance (OFDA) funded program together with the University of Hawaii: Pacific Disaster Centre (PDC) and the Massachusetts Institute of Technology (MIT): PetaBencana to support the Government of Indonesia: Badan Nasional Penanggulangan Bencana (BNPB). The program is focused on the development of InAWARE, a disaster management tool, aimed at improving overall risk assessment, early-warning, and disaster-management decision making in Indonesia.
 
 
