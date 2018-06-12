@@ -1,14 +1,15 @@
 ---
 title: 'HOT Microgrant: Mafalala, Mozambique - Mapping history with a focus on the
   future'
-date: 2017-11-02 20:00:26 Z
+date: 2017-11-02 20:00:00 Z
 permalink: updates/2017-11-02_hot_microgrant_mafalala_mozambique_-_mapping_history_with_a_focus_on_the_future
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-11-02+at+21.00.42.png
 Person: Rebecca Firth
 Working Group:
 - Community
 Project:
 - 'Community development: Microgrants and Device Grants'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-11-02+at+21.00.42.png
+- 'Mapeando Meu Bairro: Mapping Mafalala'
 created: 1509652826
 ---
 
