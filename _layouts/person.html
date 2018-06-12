@@ -37,15 +37,21 @@ layout: default
         <div class="person-bio">
           <h6>Bio</h6>
           <div class="person-content">
+            {% assign content = post.content | strip_newlines %}
             {{ content }}
+            {% if content == "" %}
+              <p>{{ page.title }} is a voting member of HOT.</p>
+            {% endif %}
           </div>
         </div>
 
-        <div class="person-posts">
+        <div class="person-posts {% for post in site.posts %}{% if post.Person contains page.title %}present{% break %}{% endif %}{% endfor %}">
           <h6>Posts</h6>
           <div class="person-posts-list">
+            {% assign checkposts = false %}
             {% for post in site.posts %}
               {% if post.Person contains page.title %}
+              {% assign checkposts = true %}
               <div class="news-index-item">
                 <div class="news-list-summary">
                   <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
@@ -74,22 +80,28 @@ layout: default
               {% endif %}
             {% endfor %}
           </div>
+          {% if checkposts == false %}
+            <p class="empty">No blog posts yet. <a href="/updates">View all news.</a></p>
+          {% endif %}
         </div>
 
         <div class="person-projects">
           <h6>Project Contributions</h6>
-            <div class="person-projects-list">
-              {% for person-project in page.Project %}
-                {% for project in site.projects %}
-                  {% if person-project == project.title %}
-                    {% include blocks/project-thumb.html %}
-                  {% endif %}
-                {% endfor %}
+          <div class="person-projects-list">
+            {% assign checkprojects = false %}
+            {% for person-project in page.Project %}
+              {% for project in site.projects %}
+                {% if person-project == project.title %}
+                  {% include blocks/project-thumb.html %}
+                  {% assign checkprojects = true %}
+                {% endif %}
               {% endfor %}
+            {% endfor %}
           </div>
+          {% if checkprojects == false %}
+            <p class="empty">Not listed as coordinator on any projects. <a href="/our-work">View all projects.</a></p>
+          {% endif %}
         </div>
-
-
 
       </div>
       <div class="person-sidebar meta">
@@ -117,7 +129,7 @@ layout: default
           </div>
         {% endif %}
 
-        {% if page['Social Media (Full URL)'].OSM != '' and page['Social Media (Full URL)'].Facebook != '' and page['Social Media (Full URL)'].Twitter != '' and page['Social Media (Full URL)'].LinkedIn != '' and page['Social Media (Full URL)'].Instagram != '' %}
+        {% if page['Social Media (Full URL)'].OSM or page['Social Media (Full URL)'].Twitter or page['Social Media (Full URL)'].LinkedIn or page['Social Media (Full URL)'].Facebook or page['Social Media (Full URL)'].Instagram %}
           <div class="meta-item">
             <h5>On The Web</h5>
             <ul>
