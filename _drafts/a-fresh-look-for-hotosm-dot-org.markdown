@@ -1,6 +1,10 @@
 ---
 title: A fresh look for hotosm.org
 date: 2018-06-12 21:16:00 Z
+Feature Image: "/uploads/hotosm-dot-org-3-compressor.png"
+Person: Nate Smith
+Working Group:
+- Technical
 ---
 
 Today we flipped the switch on a new look for [hotosm.org](https://www.hotosm.org/). The new design has updated information on projects, new ways of accessing information about the community, and most of all maps!
