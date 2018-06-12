@@ -1,6 +1,6 @@
 ---
 title: 'Modelling exposure through earth observation: METEOR'
-date: 2018-06-04 05:11:00 Z
+date: 2018-05-01 05:11:00 Z
 position: 14
 Project Summary Text: HOT has partnered with the British Geological Survey (BGS),
   ImageCat, and the Global Earthquake Model (GEM) on a UK Space Agency funded initiative
