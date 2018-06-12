@@ -54,4 +54,5 @@ Once the information is mapped by the Data Entry specialists, it will be reviewe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ruHf_cVZTuM?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[InAWARE Project OSM Wiki Page](https://wiki.openstreetmap.org/wiki/HOT_-_PDC_InAWARE_Indonesia_Project_(Surabaya_%26_Jakarta))
+
+
