@@ -5,7 +5,7 @@ permalink: updates/2013-03-07_la_communauté_dakaroise_est_rejoint_par_de_nouvea
 Working Group: []
 Project:
 - Senegal
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCN0412petit.JPG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/DSCN0412petit.JPG
 created: 1362652538
 ---
 

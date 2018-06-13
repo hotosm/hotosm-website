@@ -3,7 +3,7 @@ title: Outreachy
 date: 2015-05-28 14:17:00 Z
 permalink: projects/outreachy
 published: false
-position: 59
+position: 61
 Person:
 - Blake Girardot
 - Benoît Fournier

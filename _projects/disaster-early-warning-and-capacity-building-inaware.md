@@ -1,8 +1,8 @@
 ---
 title: 'Disaster Early Warning And Capacity Building: InAWARE'
-date: 2016-07-06 00:35:00 Z
-permalink: projects/usaid__bnpb__inaware_disaster_management_early_warning_and_decision_support_capacity_enhancement_project_in_indonesia
-position: 1
+date: 2018-06-12 00:35:00 Z
+permalink: projects/disaster-early-warning-and-capacity-building-inaware
+position: 3
 Project Summary Text: HOT is supporting the development of InAWARE, a disaster management
   tool, aimed at improving risk assessment, early-warning, and disaster-management
   decision making in Indonesia.
@@ -31,9 +31,8 @@ HOT Involvement: Community Development
 Contact: yantisa.ahkhadi@hotosm.org
 Wiki Page: "[InAWARE Project OSM Wiki Page](https://wiki.openstreetmap.org/wiki/HOT_-_PDC_InAWARE_Indonesia_Project_(Surabaya_%26_Jakarta))"
 created: 1467765342
+redirect_from: projects/usaid__bnpb__inaware_disaster_management_early_warning_and_decision_support_capacity_enhancement_project_in_indonesia
 ---
-
-
 
 HOT is collaborating on a USAID, Office of U.S. Foreign Disaster Assistance (OFDA) funded program together with the University of Hawaii: Pacific Disaster Centre (PDC) and the Massachusetts Institute of Technology (MIT): PetaBencana to support the Government of Indonesia: Badan Nasional Penanggulangan Bencana (BNPB). The program is focused on the development of InAWARE, a disaster management tool, aimed at improving overall risk assessment, early-warning, and disaster-management decision making in Indonesia.
 

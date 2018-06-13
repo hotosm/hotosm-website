@@ -1,14 +1,15 @@
 ---
 title: 'Microgrants: Humanitarian mapping of coastal wetlands and fishing livelihoods
   for resilience to climate change and variability, Colombia.'
-date: 2017-10-02 17:34:20 Z
+date: 2017-10-02 17:34:00 Z
 permalink: updates/2017-10-02_microgrants_humanitarian_mapping_of_coastal_wetlands_and_fishing_livelihoods_for
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Photo+1+Bahía+El+Uno+aerial.JPG
 Person: Rebecca Firth
 Working Group:
 - Community
 Project:
 - 'Community development: Microgrants and Device Grants'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Photo+1+Bahía+El+Uno+aerial.JPG
+- 'Universidad de Antioquia: Mapping Coastal Wetlands to understand Flooding'
 created: 1506965660
 ---
 

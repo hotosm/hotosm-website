@@ -6,7 +6,7 @@ permalink: updates/2013-01-31_the_openstreetmap_senegal_(osm_sn)_community_is_ex
 Working Group: []
 Project:
 - Senegal
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image1.JPG
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/image1.JPG
 created: 1359592897
 ---
 

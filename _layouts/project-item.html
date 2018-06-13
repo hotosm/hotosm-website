@@ -46,18 +46,28 @@ layout: default
     <section class="article">
 
       {% if page['Project Summary Text'] %}
-        <div class="project-summary">
-          <p>{{ page['Project Summary Text'] }}</p>
+        <div class="pro-summary-wrap">
+          <div class="project-summary">
+            <p>{{ page['Project Summary Text'] }}</p>
+          </div>
         </div>
       {% endif %}
 
-      <div class="project-content">
-        {{ content }}
+      <div class="pro-content-wrap">
+        <div class="project-content">
+          {{ content }}
+        </div>
       </div>
 
     </section>
 
     <aside class="meta">
+
+      {% if page['Project Logo Image'] %}
+        <div class="meta-item project-logo">
+          <img src="{{ page['Project Logo Image'] }}">
+        </div>
+      {% endif %}
 
       {% if page['Impact Area'][0] != '' %}
         <div class="meta-item project-impact">

@@ -1,7 +1,8 @@
 ---
 title: 'Microgrants 2018: HOT supports eight OSM communities!'
-date: 2018-04-20 22:02:49 Z
+date: 2018-04-20 22:02:00 Z
 permalink: updates/2018-04-20_microgrants_2018_hot_supports_eight_osm_communities
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/MG2018.PNG
 Person: Rebecca Firth
 Working Group:
 - Communications
@@ -14,7 +15,8 @@ Country:
 - Mozambique
 - Peru
 - Sri Lanka
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/MG2018.PNG
+Project:
+- 'Community development: Microgrants and Device Grants'
 created: 1524261769
 ---
 

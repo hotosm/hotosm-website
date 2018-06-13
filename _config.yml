@@ -47,6 +47,7 @@ defaults:
     layout: news-item
     Summary Text:
     Feature Image:
+    Is image top aligned:
     Person:
     Working Group:
     - ''
@@ -119,6 +120,7 @@ defaults:
     Project Summary Text:
     Feature Image:
     Is image top aligned:
+    Project Logo Image:
     Is Community-Led:
     Country:
     - ''

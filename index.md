@@ -27,7 +27,7 @@ Home Module 3:
   Header: Partnerships
   Text: 'Want to know more about ways you can partner with HOT? Start creating and
     supporting the #GlobalGoals with free, open map data through becoming a partner.'
-  Image: "/uploads/HOT-ID---Mapping-the-Thousand-Islands.jpg"
+  Image: "/uploads/HOT%20Data%20Entry%20specialists%20handed%20over%20framed,%20printed%20maps%20back%20to%20the%20village%20offices.%20HOT%20IndonesiaRiyadi%20Wibowo%20cropped.jpeg"
   Call to Action: Become a partner
   URL: "/partners"
 layout: home

@@ -10,6 +10,8 @@ Country:
 - Mali
 Project:
 - OpenStreetMap Mali
+- 'Community development: Microgrants and Device Grants'
+- 
 ---
 
 *Guest blog; Nathalie Sidibe, OSM Mali* 
