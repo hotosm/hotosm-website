@@ -8,7 +8,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdkJUuN21QvvJ1tlOzxHtm
 ---
 
 **Contract duration:** Flexible hours up to 2 days per week <br>
-**Closes: **June 29, 2018 <br>
+**Closes:** June 29, 2018 <br>
 **Projected start date:** July 16, 2018 <br>
 **Reports to:** Executive Director <br>
 
