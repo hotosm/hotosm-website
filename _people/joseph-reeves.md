@@ -13,4 +13,4 @@ Social Media (Full URL):
   Twitter: https://twitter.com/IknowJoseph
 ---
 
-<p>Joseph Reeves works by day as a professional archaeologist, albiet one that sits at a desk and works on computers. Joseph is an advocate of Open Source Software and Open Data. A HOT Board member for the 2013 term, Joseph is currently writing this from the HOT office, Jakarta.</p>
+<p>Joseph Reeves works by day in Internet Engineering. A HOT Board member for the 2013 term, Joseph curently holds the position of Chair of Voting Members.</p>
