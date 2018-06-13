@@ -7,7 +7,7 @@ Place of Work: Remote or co-located in HOT Office (Washington, D.C.; New York Ci
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdkJUuN21QvvJ1tlOzxHtmfICJy9EmPqRvNpVl_QMxSfWIy_g/viewform
 ---
 
-**Contract duration:** Flexible hours up to 2 days per week <br>
+**Contract duration:** Flexible hours up to 2 days total per week <br>
 **Closes:** June 29, 2018 <br>
 **Projected start date:** July 16, 2018 <br>
 **Reports to:** Executive Director <br>
