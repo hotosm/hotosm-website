@@ -7,21 +7,24 @@ Place of Work: Flexible – any HOT office (Washington, D.C., New York, Kampala,
   es Salaam) or Remote
 ---
 
-**Schedule:** Monday-Thursday 9am-1pm US Eastern (flexible) on an ongoing basis
-**Location/Duty Station:** Flexible – any HOT office (Washington, D.C., New York, Kampala, Dar es Salaam) or Remote
-**Closes:** June 29, 2018
-**Projected start date:** July 16, 2018
-**Reports to:** Executive Director
-**Travel:** 10-20%
+**Schedule:** Monday-Thursday 9am-1pm US Eastern (flexible) on an ongoing basis <br>
+**Location/Duty Station:** Flexible – any HOT office (Washington, D.C., New York, Kampala, Dar es Salaam) or Remote <br>
+**Closes:** June 29, 2018 <br>
+**Projected start date:** July 16, 2018 <br>
+**Reports to:** Executive Director <br>
+**Travel:** 10-20% <br>
 
 **About HOT**
 Humanitarian OpenStreetMap Team (HOT) is a Washington, D.C.-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 100,000 people with ground operations in five countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need, serving humanitarian partners such as UNHCR, American Red Cross, and MSF.
 
+
 **About the Position – Director of Finance & Administration (Part-Time)**
 HOT is searching for a Director of Finance & Administration (Part-Time) to join our senior management team, leading HOT’s strategy, vision, and day-to-day monitoring of finances, accounting, and administration. As HOT continues to grow, the Director of Finance & Administration will work closely with HOT’s senior management, playing a leadership role in simplifying accounting and financial management for our staff, making it coherent across country operations, and ensuring accuracy and timeliness for our donors. The ideal candidate will be looking to balance a part-time position with other commitments on an ongoing basis. Travel will be required on a periodic basis to HOT’s country locations. The position has three direct reports in country offices.
 
+
 **About You**
 Our preferred candidate is comfortable working in a very fast paced, startup-like environment with a highly motivated and unconventional team. You should have three or more years working in a similar role in an NGO or humanitarian/development agency. You should thrive in an environment where you direct your day-to-day tasks and build a strategy through consensus with a team of staff and volunteers. You can choose your own office location and should love working with remote teams as you’ll spend significant time on the phone, on Slack, and Skype.
+
 
 **Near-term Objectives (First 60-90 days)**
 * Analysis of cash flow, projecting out revenue and spend, considering the specifics of each project’s budget and invoicing schedule. Suggest and take action on a per-project basis for improving cash flow/cash balance.
@@ -33,6 +36,7 @@ Our preferred candidate is comfortable working in a very fast paced, startup-lik
 * Provide a simple way for each project manager to have full visibility on invoicing for their projects•	.
 * Management/board level financial analysis: Produce a draft “dashboard" with quantitative/qualitative analysis•	.
 * Involvement in CRM/grant management software implementation as needed.
+
 
 **Longer-term Objectives (Post-90 days)**
 * Lead HOT to a place where managing finances is a pleasant, easy-to-understand process for our staff and timely and accurate for our donors.
@@ -47,6 +51,7 @@ Our preferred candidate is comfortable working in a very fast paced, startup-lik
 * Org-wide budget & cash flow on monthly basis.
 * Ongoing, project-specific insight & analysis, recommendations to project managers.
 * Assess and select accounting software packages.
+
 
 **Required Skills and Qualifications**
 * Care deeply about the mission: passionate about humanitarian / development work demonstrated through prior professional or volunteer experiences.
