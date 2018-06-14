@@ -117,7 +117,7 @@ DigitalGlobe has released more recent imagery of Fuego Volcano area, which we ha
 
 ## More resources:
 
-* Learn to Map, or brush up on your mapping skills: the more people that contribute, the quicker we can provide the maps needed to response teams. High quality data is important, and we have a lot of materials online to help create this, visit \[http://www.missingmaps.org/learn/#beginner/ and http://learnosm.org/en/\](http://www.missingmaps.org/learn/#beginner/ and http://learnosm.org/en/)
+* Learn to Map, or brush up on your mapping skills: the more people that contribute, the quicker we can provide the maps needed to response teams. High quality data is important, and we have a lot of materials online to help create this, visit [http://learnosm.org/](http://learnosm.org/) and [http://www.missingmaps.org/learn/#beginner](http://www.missingmaps.org/learn/#beginner)
 
 * Want to help with or watch the activation coordination? Join us on Slack ([https://slack.hotosm.org/](https://slack.hotosm.org/)) and then join #disaster-mapping
 
