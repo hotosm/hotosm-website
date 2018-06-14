@@ -113,7 +113,7 @@ We have increased the frequency of data exports to HDX, now Guatemala is updated
 
 ### View the newly released imagery
 
-DigitalGlobe has released more recent imagery of Fuego Volcano area, which we have uploaded to OpenAerialMap
+DigitalGlobe has released more recent imagery of Fuego Volcano area, which we have uploaded to [http://openaerialmap.org](OpenAerialMap)
 
 ## More resources:
 
