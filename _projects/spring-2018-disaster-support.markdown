@@ -16,6 +16,7 @@ Country:
 - Sri Lanka
 - Colombia
 - United States
+- Guatemala
 Impact Area:
 - Disaster Response
 Person:
@@ -27,23 +28,21 @@ redirect_from: https://www.hotosm.org/projects/spring_2018_disaster_support
 ---
 
 ## Somalia and Cyclone Sagar
-
 ### Context
 Our first request came from the United Nations Institute for Training and Research (UNITAR) regarding flooding in Somalia. After delivering building data for the requested area we were asked to monitor any needs for Cyclone Sagar.
 
 ### Progress made
 We were able to quickly map the areas of interest in Somalia adding over 18,000 buildings to the impacted area.
 
-#### Results of the mapping
+### Results of the mapping
 UNITAR was able to conduct analysis and produce maps using OpenStreetMap data: http://www.unitar.org/unosat/node/44/2806
 
 ## Ebola in the DRC
-
 ### Context
 Ebola has made a resurgence in the Democratic Republic of Congo. A well prepared local OpenStreetMap community has been working with the Congolese Ministry of Public Health, local aid organizations as well as Missing Maps partners such as Médecins Sans Frontières (MSF) to coordinate the mapping effort. HOT is supporting this locally led response to help with mapping and validation as well as communications and coordination between stakeholders.
 
 ### Progress so far
-As of May 29, 700+ mappers have added over 90,000 buildings and thousands of kilometers of road network to the map in support of relief efforts led by organisations including MSF.
+As of June 10, ~800 mappers have added over 200,000 buildings and thousands of kilometers of roads and waterways to the map in support of relief efforts led by organisations including MSF.
 
 ### Get involved
 Mapping tasks and their status can be found on the 2018 Ebola Outbreak OSM Response OSM wiki page. Map tasks here: https://tasks.hotosm.org/contribute?difficulty=ALL&campaign=Ebola2018
@@ -65,7 +64,7 @@ Colombia mapping projects can be found at https://tareas.openstreetmap.co/
 In late May, HOT was contacted with a request on behalf of the Disaster Management Centre of Sri Lanka for building data in the most heavily affected areas experiencing flooding. This is seasonal, monsoon rain and just two years ago we coordinated a similar response. The area is quite large with many buildings, so we have Activated a team to coordinate the mapping response.
 
 ### Progress so far
-In just the first hours of mapping, 37 mappers have added over three thousand buildings to the area experiencing the worst of the flooding.
+In just the first hours of mapping, 37 mappers added over three thousand buildings to the area experiencing the worst of the flooding. As of June 10, almost 600 mappers have joined the effort and have digitized almost 100,000 buildings to the map of Sri Lanka.
 
 ### Get involved
 Mapping tasks can be found here: https://tasks.hotosm.org/contribute?difficulty=ALL&campaign=Disaster%20Response
@@ -81,6 +80,16 @@ About 70 mappers have made almost 60,000 changes to the map of Hawai'i including
 
 ### View the map
 The area around Leilani Estates has been heavily impacted, the mapping results can be viewed here: https://osm.org/go/Q0fnIqxI-?relation=6526869
+
+## Fuego Volcano, Guatemala
+### Context
+Just after the eruption of the Fuego Volcano in Guatemala, OpenStreetMap contributors began filling in the impacted area's buildings. HOT has been monitoring the needs of response agencies and are publishing targeted projects to fulfill those requests. We have also been preparing additional resources described below.
+
+### Use the data
+We have increased the frequency of data exports to HDX, now Guatemala is updated daily: https://data.humdata.org/search?q=HOTOSM+Guatemala&ext_search_source=main-nav
+
+### View the newly released imagery
+DigitalGlobe has released more recent imagery of Fuego Volcano area, which we have uploaded to OpenAerialMap
 
 ## More resources:
 
