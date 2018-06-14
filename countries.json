@@ -1,5 +1,5 @@
 ---
-layout:
+layout: 
 ---
 
 {% capture countries_list %}{% for country in site.where-we-work %}{{ country.title }}::{% for project in site.projects %}{% if project.Country contains country.title %}{% if project['Impact Area'].size > 1 %}|{{ project['Impact Area'] | join: ',' }}|{% else %}|{{ project['Impact Area'] }}|{% endif %}{% endif %}{% if forloop.last == true %};{% endif %}{% endfor %}{% endfor %}{% endcapture %}{% assign countries_array = countries_list | split: ';' %}{
