@@ -4,7 +4,7 @@ date: 2018-06-14
 Person: Joseph Reeves
 ---
 
-HOT Voting Members held their 2018 Annual General Meeting On JUne 7th, during which we heard an update on the Strategic Plan, and ratified the results of the election for the Board and Member's Chair.
+HOT Voting Members held their 2018 Annual General Meeting On June 7th, during which we heard an update on the Strategic Plan, and ratified the results of the election for the Board and Member's Chair.
 
 [Trudy Hope](https://www.hotosm.org/people/gertrude-trudy-hope-namitala/) and [Natalie Sidibe](https://www.hotosm.org/people/nathalie-sidibe/) are joining [Ahasanul Hoque](https://www.hotosm.org/people/ahasanul-hoque/), [Melanie Eckle](https://www.hotosm.org/people/melanie-eckle/) and [Pete Masters](https://www.hotosm.org/people/pete-masters/) on the Board. [Dale Kunce](https://www.hotosm.org/people/dale-kunce/) and [Kuo-Yu Chuang](https://www.hotosm.org/people/kuo-yu-slayer-chuang/) are stepping down at this time. Member's Chair is [Joseph Reeves](https://www.hotosm.org/people/joseph-reeves/).
 
