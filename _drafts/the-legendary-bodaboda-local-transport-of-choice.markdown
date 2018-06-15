@@ -6,6 +6,7 @@ Country:
 - Uganda
 Project:
 - 'Refugee response: South Sudan and Syria'
+redirect_from: "/updates/2018-04-29_motorcycle_mapping_bodabodas_and_the_knowledge"
 ---
 
 Uganda's capital city, Kampala, has Uber taxis. It is crazy. They are highly unreliable, not surprisingly given the traffic behaviour here - which could only be described as 'creative'. The service is worth having though, but Boda Bodas (Mad Motorcycle Taxis) seem a better option around the city. One particular morning, spinning along in the cool morning air in the beautiful city of Kampala, I realised that these BodaBoda riders have what in London is called ‘The Knowledge’. This is the term which refers to the mental retention of every street and its whereabouts in central London. 
