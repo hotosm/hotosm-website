@@ -7,7 +7,7 @@ Page Contact:
   Contact Email: activation@hotosm.org
 redirect_from:
 - "/activation_protocol"
-- "/sites/default/files/HOTActivationProtocol.pdf"
+layout: page
 ---
 
 [Download the activation protocol](/downloads/HOTActivationProtocol.pdf). 
