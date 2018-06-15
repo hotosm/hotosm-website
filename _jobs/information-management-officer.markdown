@@ -11,11 +11,11 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScjXZVY9zsrZQ2-wGM_euZ
 
 The Humanitarian OpenStreetMap Team (HOT) is a U.S.-based NGO that applies the principles of open data sharing for humanitarian response and achieving the Sustainable Development Goals. Free, up-to-date maps are a critical resource when relief organizations are responding to natural and man-made disasters, and political crises. The Humanitarian OpenStreetMap Team (HOT) creates and provides those maps.
 
-\*\*Contract Duration: \*\*2 months, with probable extension
+**Contract Duration: **2 months, with probable extension
 
-\*\*Reports to: \*\*Country Manager
+**Reports to:** Country Manager
 
-\*\*Starting date: \*\*July 2018
+**Starting date: **July 2018
 
 **Position Overview:**
 
