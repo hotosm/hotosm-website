@@ -15,7 +15,7 @@ Black Cab drivers in London have to sit an exam before they can get their licens
 
 There is no ‘Knowledge’ exam in Uganda, but Boda Boda riders are famous for their local geography. And this is where the idea of Motorcycle Mapping came from. In order to get the very best map data, we deploy the formula: ‘Local People, Local Tech, Just add Knowledge’. We train local community members who are familiar with, and trusted by, their communities. When they go further afield, having gained surveyor experience – even expertise, they depend more and more on their Boda Boda rider.
 
-[DSC_1152forWEB.JPG](/uploads/DSC_1152forWEB.JPG)
+![DSC_1152forWEB.JPG](/uploads/DSC_1152forWEB.JPG)
 *Decoration and Customisation is a major part of practical ownership*
 
 Bodas provide a public service, and expect to protect as well as serve. Usually the motorcycle is the family business - whether a refugee or Ugandan family. It is a way to survive, and the 100cc bikes are often prized more than a bigger bikes, because they represent income and social cohesion.
@@ -26,7 +26,7 @@ Surveyors working with the local workforce who posess ‘the Knowledge’, have 
 
 Memory-mapping. Transcribing the KnowledgeThe team assembles...
 
-[DSC_0573forWEB.JPG](/uploads/DSC_0573forWEB.JPG)
+![DSC_0573forWEB.JPG](/uploads/DSC_0573forWEB.JPG)
 *Bodas Strategise on the Bike Saddle - Transcribing 'The Knowledge', they draw routes from memory...*
 
 Like Black Cab Drivers, the Boda riders havve a professional ethic, and a sense of 'Duty of Care'. Many a time, their network of 'brothers in arms' have protected, guided and assisted our surveyors through thick and thin.  Often knowing the local language, they help the surveys to happen, and we actively welcom them into the OSM trainings we do. They always want the OSMAnd 'free, offline SatNav', and sometimes get extremely involved in dicussion and updates.
@@ -39,7 +39,7 @@ This is an account:
 
 But on this occasion, it is not enough. This is a WhatsApp call to tell me that Moses Mawa, a refugee from Rhino Camp Settlement, has been 'arrested'. Stop the car. Immediately we stop, people walking on the roadside begin to congregate whilst I make the call. Moses is across a river, having taken his motorcycle over earlier that day. We all know that he is way over the border in a far-flung sub-county. We know that, from the proud images of him, looking less than comfortable in the unstable dug-out canoe. But we have informed the Local Council that he will be there, and so why is he under arrest? And is that really a criminal situation, or simply the community being inquisitive?  Sometimes, terms can be misleading in Uganda.
 
-[DSC_0557forWEB.JPG](/uploads/DSC_0557forWEB.JPG)
+![DSC_0557forWEB.JPG](/uploads/DSC_0557forWEB.JPG)
 Deploying Surveyors per Parish sending pictures of maps via Whatsapp
 
 As a matter of course, we send members of the refugee community out with local motorbikers (‘Boda Boda’ riders), to both translate and explain to locals that the mapping is for their benefit. Refugees pick up the mapping techniques. Moses is a refugee surveyor, using a Boda rider to translate as he fearlessly makes his way through the potentially hostile countryside, asking penetrating questions to people who will recognise his South Sudanese accent, and possibly wonder who on earth he thinks he is.
@@ -51,7 +51,7 @@ Meanwhile, all of our surveyor-boda rider teams record their tracks using 'OSM f
 
 Tracks like these...
 
-[josm_tracks_example_arua.PNG](/uploads/josm_tracks_example_arua.PNG)
+![josm_tracks_example_arua.PNG](/uploads/josm_tracks_example_arua.PNG)
 
 in turn, become the roads - never recorded before - and appear in maps like this:
 
@@ -70,5 +70,5 @@ The fearlessness and dedication of Boda riders is what much of our mission, both
 
 The Easy Riders.
 
-[DSC_0705forWEB.JPG](/uploads/DSC_0705forWEB.JPG)
+![DSC_0705forWEB.JPG](/uploads/DSC_0705forWEB.JPG)
 *Hot-wiring the Battery of a BodaBoda, for Survey Purposes. Mvepi Refugee Camp, Northern Uganda. Local People, Local Tech, ‘just add knowledge’.* 
