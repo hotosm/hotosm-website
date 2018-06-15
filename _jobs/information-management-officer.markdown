@@ -13,8 +13,6 @@ The Humanitarian OpenStreetMap Team (HOT) is a U.S.-based NGO that applies the p
 
 \*\*Contract Duration: \*\*2 months, with probable extension
 
-\*\*Location: \*\*
-
 \*\*Reports to: \*\*Country Manager
 
 \*\*Starting date: \*\*July 2018
