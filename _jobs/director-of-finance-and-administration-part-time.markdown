@@ -33,8 +33,8 @@ Our preferred candidate is comfortable working in a very fast paced, startup-lik
 * Implement an electronic time tracking system linked to payroll.
 * Carry out in-country internal audits in Uganda, Tanzania, and Turkey offices.
 * Review finance procedures, asset management (inventory) in detail, assess readiness for A-133 audit.
-* Provide a simple way for each project manager to have full visibility on invoicing for their projects•	.
-* Management/board level financial analysis: Produce a draft “dashboard" with quantitative/qualitative analysis•	.
+* Provide a simple way for each project manager to have full visibility on invoicing for their projects.
+* Management/board level financial analysis: Produce a draft “dashboard" with quantitative/qualitative analysis.
 * Involvement in CRM/grant management software implementation as needed. <br>
 
 
