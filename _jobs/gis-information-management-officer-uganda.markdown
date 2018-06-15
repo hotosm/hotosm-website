@@ -4,19 +4,20 @@ date: 2018-06-15 16:48:00 Z
 published: false
 Deadline Date: 2018-06-30 19:15:00 Z
 Place of Work: Based in Kampala and various locations in northern/western Uganda
+Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScjXZVY9zsrZQ2-wGM_euZYzGoHit1zLcNbUPHx9GFhQde5iA/viewform
 ---
 
 **General Information**
 
 The Humanitarian OpenStreetMap Team (HOT) is a U.S.-based NGO that applies the principles of open data sharing for humanitarian response and achieving the Sustainable Development Goals. Free, up-to-date maps are a critical resource when relief organizations are responding to natural and man-made disasters, and political crises. The Humanitarian OpenStreetMap Team (HOT) creates and provides those maps.
 
-**Contract Duration: **2 months, with probable extension
+\*\*Contract Duration: \*\*2 months, with probable extension
 
-**Location: **
+\*\*Location: \*\*
 
-**Reports to: **Country Manager
+\*\*Reports to: \*\*Country Manager
 
-**Starting date: **July 2018
+\*\*Starting date: \*\*July 2018
 
 **Position Overview:**
 
@@ -53,3 +54,11 @@ This role demands a nuanced understanding of the impact of well-defined datasets
 * Bachelor's degree or equivalent in a relevant field, or track record of commercial project management in a fast-moving results-orientated environment.
 
 * Strong writing, advocacy, and analytical skills, including experience preparing reports for clients.
+
+**Application Instructions**
+
+On or before 30th June 2018
+
+Fill in the application form[ here.](https://docs.google.com/forms/d/e/1FAIpQLScjXZVY9zsrZQ2-wGM_euZYzGoHit1zLcNbUPHx9GFhQde5iA/viewform) (Please be sure to continue to 2nd part to submit CV)
+
+No telephone inquiries please. Finalists will be contacted.
