@@ -20,12 +20,12 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScjXZVY9zsrZQ2-wGM_euZ
 **General Information**
 The Humanitarian OpenStreetMap Team (HOT) is a U.S.- based NGO that applies the principles of open data sharing for humanitarian response and achieving the Sustainable Development Goals. Free, up-to-date maps are a critical resource when relief organizations are responding to disasters or political crises. The Humanitarian OpenStreetMap Team (HOT) creates and provides those maps.
 
-**Number of Positions: **1
+\*\*Number of Positions: \*\*1
 
-**Contract duration: **6 months, Part-time 4 days per week initially, with possible expansion to 5 days
+\*\*Contract duration: \*\*6 months, Part-time 4 days per week initially, with possible expansion to 5 days
 
 **Reports to:** Country Manager
-**Starting date:** June/July 2018
+**Starting date:** July 2018
 
 **Project Overview**
 Humanitarian OpenStreetMap Team is an implementing partner of UNHCR, situated in a strategic position central to the coordination of the Combined Refugee Response in Uganda. HOT aims to improve program planning and service delivery to refugee communities, develop better integration with host communities, and build refugee self-reliance through through sustained ‘citizen interaction’ with Open Map Data.
@@ -70,5 +70,3 @@ On or before 30th June 2018
 Fill in the application form[ here.](https://docs.google.com/forms/d/e/1FAIpQLScjXZVY9zsrZQ2-wGM_euZYzGoHit1zLcNbUPHx9GFhQde5iA/viewform) (Please be sure to continue to 2nd part to submit CV)
 
 No telephone inquiries please. Finalists will be contacted.
-
-
