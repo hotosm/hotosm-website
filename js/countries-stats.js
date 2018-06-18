@@ -20,10 +20,10 @@ $(document).ready(function () {
       updateStats(stats)
     } else {
       $.get('https://osm-stats-production-api.azurewebsites.net/countries/' + missingMapsCode, function (data) {
-        stats.edits = formatedData(data['all_edits']);
-        stats.buildings = formatedData(data['building_count_add'] + data['building_count_mod']);
-        stats.roads = formatedData(Math.round(parseInt(data['road_km_add']) + parseInt(data['road_km_mod'])));
-        stats.mappers = formatedData(data['contributors']);
+        stats.edits = data['all_edits'];
+        stats.buildings = data['building_count_add'] + data['building_count_mod'];
+        stats.roads = Math.round(parseInt(data['road_km_add']) + parseInt(data['road_km_mod']));
+        stats.mappers = data['contributors'];
         updateStats(stats)
       });
     }
@@ -32,9 +32,9 @@ $(document).ready(function () {
 })
 
 function updateStats (stats) {
-  $('#Total-Map-Edits').text(stats.edits);
-  $('#Buildings-Mapped').text(stats.buildings);
-  $('#Roads-Mapped').text(stats.roads);
-  $('#Community-Mappers').text(stats.mappers);
+  $('#Total-Map-Edits').text(formatedData(stats.edits));
+  $('#Buildings-Mapped').text(formatedData(stats.buildings));
+  $('#Roads-Mapped').text(formatedData(stats.roads));
+  $('#Community-Mappers').text(formatedData(stats.mappers));
   $('.loader').hide();
 }
