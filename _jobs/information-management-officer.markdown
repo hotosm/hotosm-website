@@ -19,11 +19,13 @@ The Humanitarian OpenStreetMap Team (HOT) is a U.S.- based NGO that applies the 
 
 **Position Overview:**
 
-This role demands a nuanced understanding of the impact of well-defined datasets within humanitarian disaster response and for rural communities in resource-poor settings. The Information Management Officer will be able to take an improvised and creative yet orderly approach to the design of ‘hyper-local’ data management and creating highly detailed maps. The GIMO will oversee, manage and implement meticulous and structured field data collection, uploads to OpenStreetMap, and the processing of confidential or non-public data. The GIMO will ensure that data is up-to-date and correctly attributed. This individual will co-operate with multiple partner organisations working with data around refugees in Uganda, and promote access to and use of OpenStreetMap data by all stakeholders. S/he may also serve in a monitoring and evaluation capacity, ensuring that outputs and outcomes of project activities are appropriately captured and reported. The GIS Information Management Officer (GIMO) reports directly to HOT’s Country Manager in Uganda, working in close coordination with Operations and Mapping Supervisors.
+This role demands understanding of the impact of data upon modern humanitarian disaster response, and a nuanced grasp of rural communities in resource-poor settings. The ideal candidate will be able to have an empathic yet orderly approach to the design of ‘hyper-local’ data collection, a careful attitude to the management and distribution of data, and a desire to communicate highly detailed map products - both through advocacy and through the creation of clearly composed visual outputs. 
+
+The GIS Information Management Officer (GIMO) will oversee, manage and implement meticulous and structured field data collection, uploads to OpenStreetMap, and the processing of confidential or non-public humanitarian data. The GIMO will ensure that data is up-to-date, well-defined, and correctly attributed. S/he will cooperate with multiple partner organisations working with data around refugees in Uganda, and promote access to and use of OpenStreetMap data by all stakeholders. S/he may also serve in a monitoring and evaluation capacity, ensuring that outputs and outcomes of project activities are appropriately captured and reported. The GIMO reports directly to HOT’s Country Manager in Uganda, working in close coordination with Operations and Mapping Supervisors.
 
 **Responsibilities**
 
-* Oversee all GIS-related data management, and create map products in interactive and static map formats.
+* Oversee all GIS-related data management, and create map products in interactive and static map format, providing regular reports on timeframe and scope.
 
 * Assist in designing data products and establishing partnerships to integrate OSM and (open) geospatial data into pre-existing data sources and platforms.
 
