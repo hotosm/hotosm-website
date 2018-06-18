@@ -62,3 +62,7 @@ On or before 30th June 2018
 Fill in the application form[ here.](https://docs.google.com/forms/d/e/1FAIpQLScjXZVY9zsrZQ2-wGM_euZYzGoHit1zLcNbUPHx9GFhQde5iA/viewform) (Please be sure to continue to 2nd part to submit CV)
 
 No telephone inquiries please. Finalists will be contacted.
+
+**HOT Uganda - Further Information:**
+Humanitarian OpenStreetMap Team is an implementing partner of UNHCR, situated in a strategic position central to the coordination of the Combined Refugee Response in Uganda. HOT aims to improve program planning and service delivery to refugee communities, develop better integration with host communities, and build refugee self-reliance through through sustained ‘citizen interaction’ with Open Map Data.
+Our programs train and equip members of refugee communities to map their own vulnerabilities and assets in the places they live, filling in key data gaps and “blank spots” on the map. These micro-level maps are created using techniques including crowd-sourced data collection on mobile phones and the global community mapping efforts of the 65,000-strong Humanitarian OpenStreetMap community. The resulting multi-language maps and map data are then made openly available on-line in OSM, on mobile phones for navigation, in printed form in refugee social/community centers, and are being integrated with stakeholder/government information systems at local and national levels.
