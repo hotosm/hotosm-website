@@ -1,6 +1,5 @@
 // add stats to the home page
 $(document).ready(function () {
-  $('.loader').show()
   fetch('/aggregatedStats.json')
   .then(function (response) {
     return response.json()

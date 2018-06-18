@@ -4,7 +4,6 @@ var country = $(document).find("title").text().split('|')[1].trim();
 if (country.startsWith('United')) country = 'United States of America'
 
 $(document).ready(function () {
-  $('.loader').show()
   fetch('/aggregatedStats.json')
   .then(function (response) {
     return response.json()
