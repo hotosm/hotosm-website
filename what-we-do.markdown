@@ -23,7 +23,7 @@ Block 2:
     the world map in OpenStreetMap.
   Image: "/uploads/Congestion at the Water PumpSmall.jpg"
   Project:
-  - Malaria Elimination Campaign
+  - 'Infectious diseases: Malaria elimination'
   - Missing Maps
 Block 3:
   Header: Expanding knowledge across partners and communities
@@ -42,7 +42,7 @@ Block 4:
     government agencies, and local NGOs and communities.
   Image: "/uploads/DW4U0XgXkAEncby%20country%20teams%20in%20Kampala%20Feb%202018.jpg"
   Project:
-  - OpenAerialMap
+  - 'UAV Imagery for Disaster Response: Pacific Drone Imagery Dashboard (PacDID)'
 Block 5:
   Header: Working to support and build OpenStreetMap
   Text: All of this work is done through <a href="https://www.openstreetmap.org/">OpenStreetMap</a>.

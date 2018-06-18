@@ -5,12 +5,9 @@ Photo: "/uploads/wille-medium-size.jpg"
 Member Type:
   Is Staff: true
 Job Title: Developer
-Working Group: 
-Project: 
 Country: Brazil
 Social Media (Full URL):
   Twitter: https://twitter.com/_wille
-  LinkedIn: 
 ---
 
-Wille is a developer for HOT.
+Wille started contributing to OpenStreetMap in 2010 and is a GIS developer since 2014. He has worked with most aspects of GIS, like satellite imagery, web map applications, databases, but is specialist on osm tools and designing REST APIs. He is the creator of OSMCha, a tool that helps the OSM community to review and validate the changesets.

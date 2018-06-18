@@ -1,11 +1,17 @@
 ---
-title: Communications Manager
+title: Communications Manager (Part-Time)
 date: 2018-06-08 19:27:00 Z
 Deadline Date: 2018-06-29 00:00:00 Z
 Place of Work: Remote or co-located in HOT Office (Washington, D.C.; New York City;
   Kampala, Uganda; Dar Es Salaam, Tanzania)
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdkJUuN21QvvJ1tlOzxHtmfICJy9EmPqRvNpVl_QMxSfWIy_g/viewform
 ---
+
+**Contract duration:** Flexible hours up to 2 days total per week <br>
+**Closes:** June 29, 2018 <br>
+**Projected start date:** July 16, 2018 <br>
+**Reports to:** Executive Director <br>
+**Travel:** Occasionally (2-3 times per year) to project locations
 
 **About HOT**
 Humanitarian OpenStreetMap Team (HOT) is a Washington, D.C. -based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 100,000 people with ground operations in five countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need, serving humanitarian partners such as UNHCR, American Red Cross, and MSF.

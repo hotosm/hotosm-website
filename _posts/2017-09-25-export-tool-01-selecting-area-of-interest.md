@@ -1,18 +1,18 @@
 ---
 title: Export Tool | 01 Selecting Area of Interest
-date: 2017-09-25 21:41:48 Z
+date: 2017-09-25 21:41:00 Z
 permalink: updates/2017-09-25_export_tool_|_01_selecting_area_of_interest
 Summary Text: 'This blog focuses on how to ''Select Area of Interest'', and is the
   first in a series of ‘Learn Export Tool’ posts following the launch of the revamped
   tool on the 18th September 2017. Three more blogs in the series will cover the different
   available ‘Data File Formats’, how to ‘Customise Map Features’ and examples of ‘Applying
   Exported Data’. '
+Feature Image: "/uploads/Export%20Tool%20-%20Learn%20Series.png"
 Person: Mhairi O'Hara
 Working Group:
 - Technical
 Project:
 - 'Export Tool 3.0 '
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Untitled+presentation.png
 created: 1506375708
 ---
 
