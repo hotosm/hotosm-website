@@ -39,11 +39,11 @@ The Finance and Administrative Officer will maintain and develop efficient admin
 
 **Responsibilities:**
 
-* Implementation of structured financial culture within a fast-moving field-based international tech-enabled NGO.
+* Implementation of structured financial culture within a fast-moving field-based international tech-enabled NGO, in which improvisation and innovation are daily realities.
 
 * Monitoring and accountability for spending across field and office-related expenses, and in both monthly and project-based settings.
 
-* To deliver procurement capability in both account-based and ad-hoc purchasing on a monthly, quarterly, and yearly basis.
+* Deliver procurement capability in both account-based and ad-hoc purchasing on a monthly, quarterly, and yearly basis.
 
 * Yearly accounting, supported at international level, for HOT’s operations in Uganda.
 
