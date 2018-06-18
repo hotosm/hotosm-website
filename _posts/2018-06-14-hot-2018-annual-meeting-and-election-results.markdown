@@ -1,6 +1,6 @@
 ---
 title: HOT 2018 Annual Meeting and Election Results
-date: 2018-06-14
+date: 2018-06-14 00:00:00 Z
 Person: Joseph Reeves
 ---
 
