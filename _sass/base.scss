@@ -2469,6 +2469,25 @@ em {
   }
 }
 
+#loading-map {
+  height: 430px;
+  margin-top: 10%;
+  position: relative;
+  text-align: center;
+  color: #D73F3F;
+  font-weight: bold;
+  font-size: 0.875rem;
+}
+
+#rotate-icon {
+  -webkit-animation:spin 4s linear infinite;
+  -moz-animation:spin 4s linear infinite;
+  animation:spin 4s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
 .impact-map-area {
   width: 100%;
   height: 400px;
