@@ -76,9 +76,7 @@
           );
           lastCountry = areaHover[0].properties.NAME_LONG;
         }
-        console.log(areaHover[0].properties.name_low);
       } else {
-        console.log('limpando');
         map.getCanvas().style.cursor = '';
         lastCountry = '';
         $("#hover-country").empty();
