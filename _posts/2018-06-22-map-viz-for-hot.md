@@ -40,6 +40,7 @@ Here's what we'll be focusing on in the coming days:
 - Jump to the respective project tasking manager page &
 - Filter projects across different years
 
+• Country page statistics at present is restricted to just tasking manager projects. A toggle view is planned to alternate between OpenStreetMap & HOTOSM counts for each country.
 
 • At present there is a separate page for each project listing out coordinators, duration, impact areas and description of the project. A map view is being planned for this page to highlight the geographical coverage & let end user understand the mapping progress through the project duration. Similar to country page, there will be numbers on area covered, mappers & edit counts.
 
