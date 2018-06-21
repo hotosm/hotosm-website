@@ -39,20 +39,21 @@ The GIS Information Management Officer (GIMO) will oversee, manage and implement
 * Provide advice and counsel concerning information management issues and industry trend to the partners.
 
 ### The ideal candidate will have:
-
+**Preferable:**
 * Strong deadline-oriented organisational skills, a commitment to deliver, and a track-record of time-critical project management delivery.
 
 * A demonstrable and adaptive understanding of the principles underlying OpenStreetMap.
 
 * Collaborative managerial approach, and team ethos.
 
-* Experience of use of OSM tools at field level, and ability to effectively learn and carry out training and outreach activities.
-
-* Experience working with Open-Source GIS, and OpenStreetMap tools such OpenDataKit(ODK), Kobo Collect, Field Papers and X-form building.
-
 * Bachelor's degree or equivalent in a relevant field, or track record of commercial project management in a fast-moving results-orientated environment.
 
 * Strong writing, advocacy, and analytical skills, including experience preparing reports for clients.
+
+**Desirable:**
+* Experience of use of OSM tools at field level, and ability to effectively learn and carry out training and outreach activities.
+
+* Experience working with Open-Source GIS, and OpenStreetMap tools such OpenDataKit(ODK), Kobo Collect, Field Papers and X-form building.
 
 ### Application Instructions
 
