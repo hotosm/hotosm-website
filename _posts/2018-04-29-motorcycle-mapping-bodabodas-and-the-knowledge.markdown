@@ -61,7 +61,5 @@ in turn, become the roads - never recorded before - and appear in maps like this
 
 The fearlessness and dedication of Boda riders is what much of our mission, both here and in West Africa, relies on. It is derived from the age-old field mantra, 'Local People, Local Tech, Just add Knowledge'. It has been deployed before us, in the work of partners like MSF, and we stand on the shoulders of giants. But we stand on the shoulders, too, of the small-business owners, and their sense of common decency and social responsibility.
 
-The Easy Riders.
-
 ![boda_blog_6.jpg](/uploads/boda_blog_6.jpg)
 *Hot-wiring the Battery of a BodaBoda, for Survey Purposes. Mvepi Refugee Camp, Northern Uganda. Local People, Local Tech, ‘just add knowledge’.*
