@@ -10,7 +10,10 @@ Country:
 Project:
 - 'OSM Zambia: WASH Mapping'
 - 'OSM Zambia: Mapping Peri-Urban Areas'
+- 'Community development: Microgrants and Device Grants'
 ---
+
+*Guest blog: Trudy Hope, OSM Zambia lead*
 
 OSM Zambia started in 2016 with barely a hand full of mappers but has now grown to hundreds of mappers both in the communities and universities. Our growth has been pushed by the Microgrant we received last year from the Humanitarian OpenStreetMap Team and also the Nethope Device Challenge which was awarded last year in 2017 but unfortunately couldn’t be used until early this year due to the cholera outbreak.
 
