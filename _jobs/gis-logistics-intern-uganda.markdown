@@ -1,5 +1,5 @@
 ---
-title: GIS/Logistics Intern - Uganda
+title: GIS Logistics Intern - Uganda
 date: 2018-06-22 19:19:00 Z
 published: false
 Deadline Date: 2018-06-30 12:01:00 Z
