@@ -12,8 +12,6 @@ Project:
 - 'OSM Zambia: Mapping Peri-Urban Areas'
 ---
 
-*Guest blog: Trudy Hope, OSM Zambia lead*
-
 OSM Zambia started in 2016 with barely a hand full of mappers but has now grown to hundreds of mappers both in the communities and universities. Our growth has been pushed by the Microgrant we received last year from the Humanitarian OpenStreetMap Team and also the Nethope Device Challenge which was awarded last year in 2017 but unfortunately couldn’t be used until early this year due to the cholera outbreak.
 
 This year in February the devices were finally purchased and since then over 50 new mappers have joined the community. The devices have been used in the Lusaka Sanitation Programme (LSP) where 3 peri-urban areas have been mapped to improve on-site sanitation in those areas. The LSP mapping is funded by GIZ and the World Bank and is being conducted on behalf of Lusaka Water and Sewerage Company Ltd and Lusaka City Council. The Lusaka Sanitation Programme aims to improve sanitation services in Lusaka and prevent future outbreaks of water-borne diseases such as cholera.  Open data is incredibly important and advantageous since other organizations are able to use the data for other development purposes and development planning in the peri-urban areas. Fredrik Winsnes from Nethope also visited the project areas to see how the devices are being used to map.
