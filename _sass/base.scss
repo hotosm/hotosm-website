@@ -2469,6 +2469,16 @@ em {
   }
 }
 
+#loading-map {
+  height: 430px;
+  margin-top: 10%;
+  position: relative;
+  text-align: center;
+  color: #D73F3F;
+  font-weight: bold;
+  font-size: 0.875rem;
+}
+
 .impact-map-area {
   width: 100%;
   height: 400px;
@@ -3256,7 +3266,6 @@ sup {
   border-color: transparent transparent rgba(107, 97, 97, 0.5) transparent;
 }
 
-
 .loader {
   border: 2px solid #f3f3f3;
   border-radius: 50%;
@@ -3265,6 +3274,22 @@ sup {
   height: 20px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
+}
+
+.red-border {
+  border-bottom: 2px solid #d73f3f;
+}
+
+.h40 {
+  height: 40px !important;
+}
+
+.w40 {
+  width: 40px !important;
+}
+
+.mb20 {
+  margin-bottom: 20px;
 }
 
 @-webkit-keyframes spin {

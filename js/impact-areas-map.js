@@ -30,6 +30,7 @@
   });
 
   map.on('load', function () {
+    $('#loading-map').detach();
     map.addSource('countriesbetter', {
       "type": "vector",
       "url": "mapbox://hot.9fvp7us2"

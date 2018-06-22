@@ -78,6 +78,7 @@ var map = new mapboxgl.Map({
 
 map.on('load', function () {
   $('.mapboxgl-ctrl').addClass('hide');
+  $('#loading-map').detach();
 
   map.addSource('countriesbetter', {
     "type": "vector",
