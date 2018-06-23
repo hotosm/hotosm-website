@@ -42,7 +42,7 @@ Working in tandem with one other summer Intern, the GIS/Logistics Intern will re
 
 \*\*Qualifications and Preferred Skills:\*\*
 
-* Experience of OpenStreetMap tools and platforms such as JOSM and iD, QGIS, OpenDataKit(ODK), Kobo Collect, Field Papers and X-form building.
+* Some exposure to OpenStreetMap tools and platforms such as JOSM and iD, QGIS, OpenDataKit(ODK), Kobo Collect, Field Papers and X-form building.
 
 * Strong practical problem-solving and coordination skills, and a mechanical/technical understanding of field situations.
 
