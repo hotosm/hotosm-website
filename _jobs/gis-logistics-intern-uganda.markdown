@@ -10,8 +10,11 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSc4QcfjeY0AuMUgYwi87wM
 The Humanitarian OpenStreetMap Team (HOT) in Uganda plays a central part in the UNHCR’s coordination of the refugee response, and also engages with projects around OSM citizen mapping for disaster risk reduction in Urban and rural environment development. As an international NGO, HOT applies the principles of open data sharing for humanitarian response and achieving the Sustainable Development Goals. Free, up-to-date maps are a critical resource when relief organizations are responding to disasters or political crises. The Humanitarian OpenStreetMap Team (HOT) creates and provides those maps.
 
 **Positions:** 2
+
 **Contract duration:** 3 months (July - September)
+
 **Reports to:** Country Manager
+
 **Starting date:** July 2018
 
 **Project Overview**
@@ -39,7 +42,7 @@ Working in tandem with one other summer Intern, the GIS/Logistics Intern will re
 
 * Other duties as assigned.
 
-\*\*Qualifications and Preferred Skills:\*\*
+**Qualifications and Preferred Skills:**
 
 * Some exposure to OpenStreetMap tools and platforms such as JOSM and iD, QGIS, OpenDataKit(ODK), Kobo Collect, Field Papers and X-form building.
 
