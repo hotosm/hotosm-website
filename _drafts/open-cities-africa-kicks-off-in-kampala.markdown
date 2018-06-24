@@ -41,7 +41,7 @@ The kickoff week brought together all 10 cities to learn, discuss, and plan for 
 *Teams meeting and networking. Making connections across cities was a big part of the week.*
 
 ![opencities-training-1.JPG](/uploads/opencities-training-1.JPG)
-*Nuala Cowan conducting an OSM editing with iD training.*
+*Nuala Cowan conducting a training on editing OSM with iD.*
 
 ![open-cities-africa.JPG](/uploads/open-cities-africa.JPG)
 *Group work on M&E and implementation planning.*
