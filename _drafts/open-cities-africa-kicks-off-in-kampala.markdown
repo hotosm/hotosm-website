@@ -11,7 +11,7 @@ Country:
 - Ghana
 ---
 
-The latest installment of the [Open Cities project](http://www.opencitiesproject.org), Open Cities Africa, from the World Bank kicked off last week in Kampala. We were there supporting training sessions and working with the participants to prepare and plan to collect OpenStreetMap data across the ten cities where the Open Cities Africa project is being implemented. Below is a quick update on what is happening and how HOT is supporting. 
+The latest installment of the [Open Cities project](http://www.opencitiesproject.org), Open Cities Africa, from the World Bank kicked off last week in Kampala. We were there supporting training sessions and working with the participants to prepare and plan to collect [OpenStreetMap](https://www.openstreetmap.org/) data across the ten cities where the Open Cities Africa project is being implemented. Below is a quick update on what is happening and how HOT is supporting. 
 
 ### Open Cities Africa
 
@@ -32,11 +32,11 @@ HOT is working with GFDRR to support city engagements in Accra, Ghana and Monrov
 
 ### Accra
 
-Accra is suffering from chronic urban flooding, especially around the Odaw river basin. The Open Cities project in Accra will support components of the Greater Accra Resilience and Integrated Development (GARID) program, including informing planned improvements in solid waste disposal and management, engaging and working with vulnerable communities in the hardest hit areas of Accra, and providing baseline infrastructure maps and information. The team in Accra consists of representatives from OSM Ghana, Mobile Web Ghana, and HOT. The project will be working with the local WB team, Accra municipality, and other government partners.
+Accra is suffering from chronic urban flooding, especially around the Odaw river basin. The Open Cities project in Accra will support components of the Greater Accra Resilience and Integrated Development (GARID) program, including informing planned improvements in solid waste disposal and management, engaging and working with vulnerable communities in the hardest hit areas of Accra, and providing baseline infrastructure maps and information. The team in Accra consists of representatives from [OSM Ghana](https://twitter.com/osmghana), [Mobile Web Ghana](https://mobilewebghana.org/), and HOT. The project will be working with the local WB team, Accra municipality, and other government partners.
 
 ### Monrovia
 
-Due to its location in a low-lying coastal delta in one of the wettest places on earth, Monrovia is very vulnerable to a range of hazards. Extreme precipitation, river, and coastal flooding and erosion all affect the city. In Monrovia, iLab Liberia and OSM Liberia will be working with Monrovia municipality and government agencies to address urban planning challenges. Areas such as West Point, Monrovia’s largest and most densely populated slum, will be a focal point of the work.
+Due to its location in a low-lying coastal delta in one of the wettest places on earth, Monrovia is very vulnerable to a range of hazards. Extreme precipitation, river, and coastal flooding and erosion all affect the city. In Monrovia, [iLab Liberia](http://www.ilabliberia.org/) and [OSM Liberia](https://twitter.com/osmliberia) will be working with Monrovia municipality and government agencies to address urban planning challenges. Areas such as West Point, Monrovia’s largest and most densely populated slum, will be a focal point of the work.
 
 ### Kickoff week
 
