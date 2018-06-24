@@ -11,11 +11,16 @@ Country:
 - Ghana
 ---
 
-The latest installment of the Open Cities program from the World Bank kicked off last week in Kampala. We were there supporting training sessions and working with the participants to prepare and plan to collect OpenStreetMap data across all ten cities. Below is a quick update on what is happening and how HOT is supporting. 
+The latest installment of the [Open Cities project](http://www.opencitiesproject.org), Open Cities Africa, from the World Bank kicked off last week in Kampala. We were there supporting training sessions and working with the participants to prepare and plan to collect OpenStreetMap data across the ten cities where the Open Cities Africa project is being implemented. Below is a quick update on what is happening and how HOT is supporting. 
 
 ### Open Cities Africa
 
-Open Cities Africa is part of the World Bank's Global Facility for Disaster Reduction and Recovery (GFDRR) OpenDRI (Open Data for Resilience Initiative) program. OpenDRI over the past seven years has promoted and supported the use of open data to reduce vulnerability to natural hazards. The program has championed the advancement of OSM in government in disaster-prone areas in Africa and Asia. Open Cities Africa builds upon the work of the OpenDRI program to engage local government, civil society, and the private sector across ten cities in Africa to map public infrastructure data in growing urban environments. Each city has a local partner working alongside city government officials to map public infrastructure using OpenStreetMap and its ecosystem of open source tools.
+Open Cities Africa is part of the World Bank's Global Facility for Disaster Reduction and Recovery (GFDRR) [OpenDRI (Open Data for Resilience Initiative)](https://opendri.org/) program. OpenDRI over the past seven years has promoted and supported the use of open data to reduce vulnerability to natural hazards. The program has championed the advancement of OSM in government in disaster-prone areas in Africa and Asia. This includes the [Open Cities guide](http://gfdrr.github.io/community-mapping/) - a full manual for implementing open mapping projects.
+
+Open Cities Africa builds upon the work of the OpenDRI program to engage local government, civil society, and the private sector across ten cities in Africa to map public infrastructure data in growing urban environments. Each city has a local partner working alongside city government officials to map public infrastructure using OpenStreetMap and its ecosystem of open source tools.
+
+![oc-africa-cities.png](/uploads/oc-africa-cities.png)
+*The participating cities in Open Cities Africa*
 
 ### The participating cities
 
