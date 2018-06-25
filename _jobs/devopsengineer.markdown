@@ -71,7 +71,7 @@ HOT has a diverse technology stack and utilizes a number of cloud provider servi
 
 **Application Instructions**
 
-On or before 8th July 2018
+On or before 8th July 2018.
 
 
 Fill in the application form [here](https://docs.google.com/forms/d/e/1FAIpQLSe0LKbfiUZKeXJHC_FwdQHoNbV18QMEFjXpmipuMJ2o2J1hKw/viewform).
