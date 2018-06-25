@@ -63,13 +63,6 @@ HOT has a diverse technology stack and utilizes a number of cloud provider servi
 
 4. Experience working with geospatial software and data.
 
-Application Instructions
-On or before 30th June 2018
-
-Fill in the application form here. (Please be sure to continue to 2nd part to submit CV)
-
-No telephone inquiries please. Finalists will be contacted.
-
 **Application Instructions**
 
 On or before 8th July 2018
