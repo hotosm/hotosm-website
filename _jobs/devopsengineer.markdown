@@ -7,11 +7,10 @@ Place of Work: Jakarta, Indonesia
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSe0LKbfiUZKeXJHC_FwdQHoNbV18QMEFjXpmipuMJ2o2J1hKw/viewform
 ---
 
-**Contract duration:** Flexible hours up to 2 days total per week
+**Contract duration:** 11 months
 **Closes:** July 8, 2018
 **Projected start date:** July 16, 2018
-**Reports to: **Director Technology Innovation
-**Travel: **Occasionally (2-3 times per year) to project locations
+**Reports to:** Director Technology Innovation
 
 Free, up-to-date maps are a critical resource when relief organizations are responding to disasters or political crises. The Humanitarian OpenStreetMap Team (HOT) creates and provides those maps. When major disaster strikes anywhere in the world, HOT rallies a huge network of volunteers to create, online in OpenStreetMap, the maps that enable responders to reach those in need.
 
@@ -19,13 +18,11 @@ HOT is hiring a full-time engineer to work closely with our Director of Technolo
 
 HOT has a diverse technology stack and utilizes a number of cloud provider services. We’re looking for an experienced person who is well-versed in web and cloud-computing and is eager to develop an infrastructure with HOT staff and volunteers in an open source software environment. In addition to supporting currently running services, a key component of responsibilities will be to support the HOT community and projects through collaborating on decision making, listening about needs and developing solutions, and helping curate a tech support community.
 
-**What you will do: **
+**What you will do:**
 
 * Administer, maintain, and support HOT servers and community-critical applications including Tasking Manager, OSM Export Tool, OpenAerialMap, OSM Analytics, and HOT website. This includes administering our cloud-providers like AWS, Heroku, Hetzner, and Microsoft Azure.
 
-* Support manual and automated deployment of code to staging and production environments.
-  Develop backup and monitoring of all applications and services, including ensuring and improving the security of all HOT applications and services.
-  Support volunteers, developers, and project managers for all HOT applications and services
+* Support manual and automated deployment of code to staging and production environments. Develop backup and monitoring of all applications and services, including ensuring and improving the security of all HOT applications and services. Support volunteers, developers, and project managers for all HOT applications and services
 
 * Join and contribute to bi-weekly technical working group meetings.
 
@@ -43,7 +40,7 @@ HOT has a diverse technology stack and utilizes a number of cloud provider servi
 
 * Provide technical guidance to existing and new HOT software development projects.
 
-**Qualifications we’re looking for: **
+**Qualifications we’re looking for:**
 
 * Experience in cloud-computing architecture and administration (AWS EC2, S3, etc); significant experience with Linux administration and security including shell scripting, Docker, and Git
 
@@ -65,3 +62,15 @@ HOT has a diverse technology stack and utilizes a number of cloud provider servi
 3. Experience working within a nonprofit or NGO environment
 
 4. Experience working with geospatial software and data.
+
+Application Instructions
+On or before 30th June 2018
+
+Fill in the application form here. (Please be sure to continue to 2nd part to submit CV)
+
+No telephone inquiries please. Finalists will be contacted.
+
+**Application Instructions**
+
+On or before 8th July 2018
+Fill in the application form [here](https://docs.google.com/forms/d/e/1FAIpQLSe0LKbfiUZKeXJHC_FwdQHoNbV18QMEFjXpmipuMJ2o2J1hKw/viewform).
