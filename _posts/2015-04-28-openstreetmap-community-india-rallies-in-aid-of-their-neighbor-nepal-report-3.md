@@ -2,7 +2,7 @@
 title: 'OpenStreetMap community India rallies in aid of their neighbor Nepal  Report
   #3'
 date: 2015-04-28 10:28:00 Z
-permalink: updates/2015-04-28_openstreetmap_community_india_rallies_in_aid_of_their_neighbor_nepal__report_#3
+permalink: updates/2015-04-28_openstreetmap_community_india_rallies_in_aid_of_their_neighbor_nepal__report_3
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Mapping+Nepal+photo+by+Gopinath+Parayil.png
 Person: Heather Leson
 Working Group:
