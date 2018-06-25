@@ -4,7 +4,7 @@ date: 2016-12-21 15:24:00 Z
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-354-1483036450.jpg
 Member Type:
   Is Staff: true
-Job Title: Community Partnerships Manager
+Job Title: Community & Partnerships Manager
 Working Group:
 - Fundraising
 - Communications
