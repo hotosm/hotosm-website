@@ -12,7 +12,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSe0LKbfiUZKeXJHC_FwdQH
 
 **Projected start date:** July 16, 2018
 
-**Reports to:** Director Technology Innovation
+**Reports to:** Director, Technology Innovation
 
 Free, up-to-date maps are a critical resource when relief organizations are responding to disasters or political crises. The Humanitarian OpenStreetMap Team (HOT) creates and provides those maps. When major disaster strikes anywhere in the world, HOT rallies a huge network of volunteers to create, online in OpenStreetMap, the maps that enable responders to reach those in need.
 
