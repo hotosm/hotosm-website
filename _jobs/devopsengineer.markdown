@@ -8,7 +8,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSe0LKbfiUZKeXJHC_FwdQH
 
 **Contract duration:** 11 months
 
-**Closes:** July 8, 2018
+**Closes:** July 8, 2018 at 11:59pm
 
 **Projected start date:** July 16, 2018
 
