@@ -1,5 +1,5 @@
 ---
-title: 'Bringing together West African OSM communities: OSM & GIS workshops In Lomé,
+title: 'Bringing together West African OSM communities: OSM & GIS workshops in Lomé,
   Togo'
 date: 2018-06-26 06:52:00 Z
 Summary Text: OSM & GIS worshops in Togo in May 2018
