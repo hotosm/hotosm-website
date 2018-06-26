@@ -6,6 +6,10 @@ Feature Image: "/uploads/P_20180623_123431.jpg"
 Person: Nathalie Sidibe
 Working Group:
 - Community
+Country:
+- Mali
+Project:
+- 'Community development: Microgrants and Device Grants'
 ---
 
 On 23rd June 2018 OSM Mali facilitated training sessions on data collection tools for volunteers at Jokkolabs Bamako co-working space.
