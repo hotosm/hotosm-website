@@ -9,6 +9,8 @@ On the 12th of March the latest Data Zetu project launched in Mbeya, West Tanzan
 
 ![1.jpg](/uploads/1.jpg)
 
+> “I’m very impressed to be part of the process — I argue that we stick together until the government has made use of this data. We will be pleased if this data reaches central government so then they can make reliable decisions toward the health sector” — Zawadi Majaliwa, Balozi
+
 Community participants were asked questions such as, “Do you think collecting health information is important for the welfare and development of your community?”, to which 94.7% agreed. We also asked ‘Do you think data is important in your daily activities now that you have been involved in the process?’ — 53.2% agreed, 37.6% absolutely agreed and 9.6% were neutral. This implies that as local capacity increases, these communities will start using data in their daily lives which will positively impact the fight against HIV.
 
 Our ultimate goal is for health partners, NGOs and any stakeholders within the health sector such as Executive District Health Officers, to use the data that we’ve collected to;
@@ -16,6 +18,8 @@ Our ultimate goal is for health partners, NGOs and any stakeholders within the h
 * Inform evidence based decision making on how to tackle immediate challenges identified by community members through the surveys
 
 * Develop a method for key personnel in local communities (i.e. registration attendants at health facilities/testing centers/clinics) to use to be able to locate the source of a virus/illness if there have been similar cases reported in a specific area/subward. We cannot force anyone to use our data, but we hope to empower them with enough training and capacity-building that these individuals will see the value of map data and make use of it to inform better delivery of health services to communities.
+
+> “We never really had “a good map” in the Ward, just a sketch, and the boundaries in the sketch map were not clear — I am happy to be part of this process of tracing boundaries and collecting health information in the Shina to help improve different services in the Ward. We need this initiative to be a sustainable process following up on the data that we collect to see if it really helps our community” — Patrick Mwanyelele, Shina Balozi and Mtaa Mjumbe.
 
 Community members have also been trained to use open source data mapping tools to collect household data on access to HIV-related services. This data will allow local governments and supporting NGOs to better understand how much residents are aware of the HIV-related services available to them, where there are information gaps and where HIV facilities and what resources are lacking. The surveys also capture the challenges that people face in physically accessing HIV services and their knowledge on Post-Exposure Prophylaxis.
 
