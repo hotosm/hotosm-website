@@ -8,6 +8,9 @@ Working Group:
 - Community
 Country:
 - Tanzania
+Project:
+- 'Data for evidence-based decisions: Data Zetu'
+- 'Community development: Microgrants and Device Grants'
 ---
 
 On the 12th of March the latest Data Zetu project launched in Mbeya, West Tanzania. A team from Humanitarian OpenStreetMap Tanzania have been working in six wards in Mbeya to gather data on HIV awareness and service access in the region as part of PEPFAR’s initiatives to improve public health management. Replicating the community mapping model implemented in Dar es Salaam, the team have been working closely with “Balozi” leaders to produce maps detailing hyperlocal boundaries. “Balozi”, known as “Wajumbe” in other parts of Tanzania, are responsible for Shina, hyperlocal areas which were discovered as a result of [health mapping in Dar es Salaam](https://medium.com/data-zetu/newly-revealed-shina-boundaries-offer-unprecedented-hyperlocal-data-for-decisionmakers-91a2bce04a3e). So far, the team have received positive responses to the training and community mapping that has been undertaken.
