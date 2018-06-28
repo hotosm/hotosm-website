@@ -4,6 +4,7 @@ title: 'Mapping HIV/AIDS in Tanzania: Using community-generated data to improve
 date: 2018-06-27 13:01:00 Z
 Summary Text: Mapping HIV/AIDS in Tanzania
 Feature Image: "/uploads/6-56c8e2.jpg"
+Person: Amelia Hunt
 Working Group:
 - Community
 Country:
