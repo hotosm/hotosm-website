@@ -102,8 +102,7 @@ layout: default
               <img src="{{ post['Feature Image'] }}">
             </div>
             <div class="news-preview-details">
-              <p class="news-preview-meta">{{ post.date | date: '%e %b %Y' }}</p>
-              <div class="news-preview-text">
+             <div class="news-preview-text">
                 <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
                 <p>
                   {% if post['Summary Text'] %}
@@ -113,14 +112,18 @@ layout: default
                   {% endif %}
                 </p>
                 <p class="news-preview-meta">
-                  {% if post.Country %}
-                    {{ post.Country | first }} — 
-                  {% endif %}
-                  {% capture post.Person %}{% endcapture %}
-                  {% assign author = site.people | where: "title", post.Person | first %}
-                  {% if post.Person %}
-                    {{ author.title }}
-                  {% endif %}
+                    {% include author.html %} — {{ post.date | date: '%e %B, %Y' }}</p>
+                    {% if post.Country != '' %}
+                      <p class="news-index-country">
+                        {% for country in post.Country %}
+                          {% if country != '' %}
+                            {{ country }}{% unless forloop.last %},{% endunless %}
+                          {% else %}
+                            Global
+                          {% endif %}
+                        {% endfor %}
+                      </p>
+                    {% endif %}
                 </p>
               </div>
             </div>
