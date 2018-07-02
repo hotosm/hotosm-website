@@ -1,11 +1,12 @@
 ---
-title: "Website Update: Powering our maps with data"
-date: 2018-06-29
+title: 'Website Update: Powering our maps with data'
+date: 2018-06-29 00:00:00 Z
 Feature Image: "/uploads/hotosm-dot-org-3-compressor.png"
 Person: Ramya Ragupathy
 Working Group:
 - Technical
-Summary Text: An update on how we are integrating data and visulisations across the site.
+Summary Text: An update on how we are integrating data and visulisations across the
+  site.
 ---
 
 Making maps and operationalizing data is core at the [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/). Starting mid-May, as an [Outreachy participant](https://www.outreachy.org/), I've been working with HOT on improving map visualisations and how we integrate data into the new website. I'd like to share the progress so far and what's cooking next!
