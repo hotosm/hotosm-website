@@ -39,11 +39,10 @@ Partner:
 - PATH
 Duration:
   Start Date: 2016-12-01 00:00:00 Z
-  End Date: 2018-08-31 00:00:00 Z
+  End Date: 2018-06-04 00:00:00 Z
 Summary Text: HOT has teamed up with many partners to identify and map populated places
   in areas of the globe susceptible to the disease malaria.
 HOT Involvement: Disaster Mapping
-Contact: <p><a href="https://hotosm.org/users/russell_deffner">Russell Deffner</a></p>
 created: 1486519560
 ---
 
