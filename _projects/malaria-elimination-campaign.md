@@ -2,6 +2,8 @@
 title: 'Infectious diseases: Malaria elimination'
 date: 2017-02-08 02:06:00 Z
 permalink: projects/malaria_elimination_campaign
+categories:
+- public health
 position: 83
 Project Summary Text: HOT has teamed up with partners working to eliminate malaria
   across Southern Africa, Southeast Asia and Central America.
@@ -37,7 +39,7 @@ Partner:
 - PATH
 Duration:
   Start Date: 2016-12-01 00:00:00 Z
-  End Date: 2018-06-04 00:00:00 Z
+  End Date: 2018-08-31 00:00:00 Z
 Summary Text: HOT has teamed up with many partners to identify and map populated places
   in areas of the globe susceptible to the disease malaria.
 HOT Involvement: Disaster Mapping
