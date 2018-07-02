@@ -2,12 +2,13 @@
 title: 'Fast, Powerful, and Practical: New Technology for Aerial Imagery in Disaster
   Response'
 date: 2018-07-02 06:30:00 Z
-Feature Image: "/uploads/hotosm-dot-org-3-compressor.png"
+Summary Text: An update on how we are integrating data and visulisations across the
+  site.
+Feature Image: "/uploads/poam-santa-rosa.png"
+Is image top aligned: true
 Person: Seth Fitzsimmons
 Working Group:
 - Technical
-Summary Text: An update on how we are integrating data and visulisations across the
-  site.
 ---
 
 _Aerial imagery can play an important role in disaster response operations, enabling response teams to identify and prioritize hardest-hit areas, conduct damage assessments, and plan response activities. Existing tools make this relatively easy in connected environments; users can browse high-resolution satellite imagery catalogs and download the relevant imagery, and can process drone imagery using online tools. Current solutions don’t work well in disconnected environments, however. Even offline tools lack the storage space and processing power to be effective for addressing large areas._
