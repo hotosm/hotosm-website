@@ -28,7 +28,7 @@ Person:
 - Ralph Aytoun
 - Rebecca Firth
 Partner:
-- Digital Globe
+- DigitalGlobe
 - Bill and Melinda Gates Foundation
 - Clinton Health Access Initiative (CHAI)
 - YouthMappers
