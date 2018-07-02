@@ -49,8 +49,10 @@ layout: default
                 </p>
               </div>
             {% elsif person %}
-              <div>
+              <div class="author-image">
                 <img src="{{ '/images/avatar.png' | prepend: site.baseurl }}">
+              </div>
+              <div>
                 <p class="author-name">
                   {{ person }}
                 </p>

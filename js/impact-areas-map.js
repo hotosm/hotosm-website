@@ -30,6 +30,7 @@
   });
 
   map.on('load', function () {
+    $('#loading-map').detach();
     map.addSource('countriesbetter', {
       "type": "vector",
       "url": "mapbox://hot.9fvp7us2"
@@ -76,9 +77,7 @@
           );
           lastCountry = areaHover[0].properties.NAME_LONG;
         }
-        console.log(areaHover[0].properties.name_low);
       } else {
-        console.log('limpando');
         map.getCanvas().style.cursor = '';
         lastCountry = '';
         $("#hover-country").empty();
