@@ -4,7 +4,7 @@ title: 'Fast, Powerful, and Practical: New Technology for Aerial Imagery in Disa
 date: 2018-07-02 06:30:00 Z
 Summary Text: An update on how we are integrating data and visulisations across the
   site.
-Feature Image: "/uploads/poam-santa-rosa.png"
+Feature Image: "/uploads/sbe.png"
 Is image top aligned: true
 Person: Seth Fitzsimmons
 Working Group:
@@ -15,8 +15,7 @@ _Aerial imagery can play an important role in disaster response operations, enab
 
 _This blog post shows how rugged, portable Amazon Web Services (AWS) servers can be turned into a kit that’s mega-powerful, deployable, and purpose-built for post-disaster imagery operations. This can help humanitarians and government agencies to more accurately and efficiently conduct damage assessments and identify hardest-hit areas, potentially making a real difference in the aftermath of a natural disaster._
 
-![Snowball Edges](/uploads/sbe.png)
-_A pair of AWS Snowball Edges after playing “checked luggage.”_
+_Top image: A pair of AWS Snowball Edges after playing “checked luggage.”_
 
 ### Overview: So what is this thing?
 
@@ -64,8 +63,7 @@ Data that’s collected in the field can be merged with existing OSM data and tu
 
 When a field deployment has completed, the AWS Snowball Edge is powered off, turning its Kindle Paperwhite-powered status display into a shipping label, and returned to an AWS region where data that’s been created in the field and added to the local S3 buckets (UAV imagery, augmented OSM data, and ODK submissions) will be copied into internet-accessible buckets for subsequent use and analysis.
 
-
-![SBE ready for shipping](/uploads/sbe-shipping.png)
+<img src="/uploads/sbe-shipping.png" style="width:30%;">
 _Return shipping mode: activated._
 
 We believe that this solution has a lot of potential to allow organizations to embrace fully offline workflows, complete with access to large quantities of imagery and tools to collect more. We hope to expand and polish this more, including investigating how other open source tools like [OpenDroneMap](http://opendronemap.org/) and [Tasking Manager](https://tasks.hotosm.org/) can be integrated. Over the next few months we’ll be working with groups like [WeRobotics](https://werobotics.org/) to test this further and document how Portable OpenAerialMap can be made available for disaster response.
