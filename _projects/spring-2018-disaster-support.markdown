@@ -17,6 +17,7 @@ Country:
 - Colombia
 - United States
 - Guatemala
+- Japan
 Impact Area:
 - Disaster Response
 Person:
