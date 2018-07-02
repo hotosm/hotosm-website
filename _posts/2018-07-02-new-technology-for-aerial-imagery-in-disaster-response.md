@@ -1,5 +1,6 @@
 ---
-title: 'Fast, Powerful, and Practical: New Technology for Aerial Imagery in Disaster Response'
+title: 'Fast, Powerful, and Practical: New Technology for Aerial Imagery in Disaster
+  Response'
 date: 2018-07-02 06:30:00 Z
 Feature Image: "/uploads/hotosm-dot-org-3-compressor.png"
 Person: Seth Fitzsimmons
