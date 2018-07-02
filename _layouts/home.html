@@ -126,7 +126,7 @@ layout: default
                   {% capture post.Person %}{% endcapture %}
                   {% assign author = site.people | where: "title", post.Person | first %}
                   {% if post.Person %}
-                    {{ author.title }}
+                    {{ post.Person }}
                   {% endif %}
                 </p>
               </div>
