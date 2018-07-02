@@ -4,7 +4,7 @@ title: 'Fast, Powerful, and Practical: New Technology for Aerial Imagery in Disa
 date: 2018-07-02 06:30:00 Z
 Summary Text: How rugged, portable AWS servers can be used for post-disaster imagery
   operations.
-Feature Image: "/uploads/poam-santa-rosa.png"
+Feature Image: "/uploads/sbe.png"
 Is image top aligned: true
 Person: Seth Fitzsimmons
 Working Group:
