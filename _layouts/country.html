@@ -137,41 +137,80 @@ layout: default
   <!--////////////////////////////////-->
   <!--////// Country Highlights //////-->
   <!--////////////////////////////////-->
-  
+  <!-- Tab links -->
+<div class="tab">
+  <button class="tablinks active" onclick="switchTab(event, 'hot-stats')">HOT-stats</button>
+  <button class="tablinks" onclick="switchTab(event, 'osm-stats')">OSM-stats</button>
+</div>
 
-  <div class="container home-stats">
-    <div class="home-stat">
-      <center><p class="loader"></p></center>
-      <p class="stat-number" id="Community-Mappers"></p>
-      <p class="stat-title">Community Mappers<sup>&#9432;</sup>
-        <span class="tooltiptext">Total number of Mappers using HOT Tasking Manager</span>
-      </p>
-    </div>
-    <div class="hr-v"></div>
-    <div class="home-stat">
-      <center><p class="loader"></p></center>
-      <p class="stat-number" id="Total-Map-Edits"></p>
-      <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
-        <span class="tooltiptext">Total number of edits using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> API</span>
-      </p>
-    </div>
-    <div class="hr-v hide-sm"></div>
-    <div class="home-stat">
-      <center><p class="loader"></p></center>
-      <p class="stat-number" id="Buildings-Mapped"></p>
-      <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
-        <span class="tooltiptext">Total number of buildings mapped using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> API</span>
-      </p>
-    </div>
-    <div class="hr-v"></div>
-    <div class="home-stat">
-      <center><p class="loader"></p></center>
-      <p class="stat-number" id="Roads-Mapped"></p>
-      <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
-        <span class="tooltiptext">Total length of roads mapped using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> API</span>
-      </p>
-    </div>
+<!-- Tab content -->
+<div id="hot-stats" class="tabcontent container home-stats">
+  <div class="home-stat">
+    <center><p class="loader"></p></center>
+    <p class="stat-number" id="Community-Mappers"></p>
+    <p class="stat-title">Community Mappers<sup>&#9432;</sup>
+      <span class="tooltiptext">Total number of Mappers using HOT Tasking Manager</span>
+    </p>
   </div>
+  <div class="hr-v"></div>
+  <div class="home-stat">
+    <center><p class="loader"></p></center>
+    <p class="stat-number" id="Total-Map-Edits"></p>
+    <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
+      <span class="tooltiptext">Total number of edits using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> API</span>
+    </p>
+  </div>
+  <div class="hr-v hide-sm"></div>
+  <div class="home-stat">
+    <center><p class="loader"></p></center>
+    <p class="stat-number" id="Buildings-Mapped"></p>
+    <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
+      <span class="tooltiptext">Total number of buildings mapped using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> API</span>
+    </p>
+  </div>
+  <div class="hr-v"></div>
+  <div class="home-stat">
+    <center><p class="loader"></p></center>
+    <p class="stat-number" id="Roads-Mapped"></p>
+    <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
+      <span class="tooltiptext">Total length of roads mapped using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> API</span>
+    </p>
+  </div>
+</div>
+
+<div id="osm-stats" class="tabcontent container home-stats" style="display: none">
+  <div class="home-stat">
+    <center><p class="loader"></p></center>
+    <p class="stat-number" id="OSM-Community-Mappers"></p>
+    <p class="stat-title">Community Mappers<sup>&#9432;</sup>
+      <span class="tooltiptext">Total number of Mappers using HOT Tasking Manager</span>
+    </p>
+  </div>
+  <div class="hr-v"></div>
+  <div class="home-stat">
+    <center><p class="loader"></p></center>
+    <p class="stat-number" id="OSM-Total-Map-Edits"></p>
+    <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
+      <span class="tooltiptext">Total number of edits using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> API</span>
+    </p>
+  </div>
+  <div class="hr-v hide-sm"></div>
+  <div class="home-stat">
+    <center><p class="loader"></p></center>
+    <p class="stat-number" id="OSM-Buildings-Mapped"></p>
+    <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
+      <span class="tooltiptext">Total number of buildings mapped using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> API</span>
+    </p>
+  </div>
+  <div class="hr-v"></div>
+  <div class="home-stat">
+    <center><p class="loader"></p></center>
+    <p class="stat-number" id="OSM-Roads-Mapped"></p>
+    <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
+      <span class="tooltiptext">Total length of roads mapped using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> API</span>
+    </p>
+  </div>
+</div>
 
   {% for project in sorted-projects %}
     {% if project['Country'] contains page.title %}
