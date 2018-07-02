@@ -5,6 +5,7 @@ date: 2018-07-02 06:30:00 Z
 Summary Text: An update on how we are integrating data and visulisations across the
   site.
 Feature Image: "/uploads/poam-santa-rosa.png"
+Is image top aligned: true
 Person: Seth Fitzsimmons
 Working Group:
 - Technical
