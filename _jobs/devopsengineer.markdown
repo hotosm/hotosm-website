@@ -56,14 +56,14 @@ HOT has a diverse technology stack and utilizes a number of cloud provider servi
 
 * Advantages:
 
-1. Minimum 2 years experience in a devops or support engineer role. Experience with both virtual and physical servers, and working with open source software and communities
+  - Minimum 2 years experience in a devops or support engineer role. Experience with both virtual and physical servers, and working with open source software and communities
 
-2. Experience with Node.js, Python, SQL and NoSQL databases.
+  - Experience with Node.js, Python, SQL and NoSQL databases.
    Participation in OpenStreetMap related projects
 
-3. Experience working within a nonprofit or NGO environment
+  - Experience working within a nonprofit or NGO environment
 
-4. Experience working with geospatial software and data.
+  - Experience working with geospatial software and data.
 
 **Application Instructions**
 
