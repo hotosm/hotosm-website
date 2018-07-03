@@ -5,6 +5,6 @@ Photo: "/uploads/Will%20Evans%20photo-c90725.JPG"
 Member Type:
   Is Staff: true
 Job Title: Project Manager
-Country: Turkey
+Country: Tanzania
 ---
 
