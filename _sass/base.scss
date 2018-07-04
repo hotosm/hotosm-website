@@ -2608,7 +2608,7 @@ em {
 }
 
 .country-index-header {
-  margin-bottom: 24px;
+  margin-bottom: 32px;
   @media (min-width: $screen-xs) {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -3172,6 +3172,55 @@ em {
   }
 }
 
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: none;
+  background-color: none;
+  margin-bottom: 16px;
+  h6 {
+    display: inline-block;
+    font-weight: normal;
+    color: $blue-light;
+    margin: 0 6px 0 0;
+  }
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  display: inline-block;
+  text-decoration: underline;
+  margin-right: 6px;
+  border: none;
+  outline: none;
+  padding: 0;
+  cursor: pointer;
+  font-family: $font-default;
+  font-size: 0.875rem;
+  font-weight: bold;
+  color: $blue-light;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  color: $blue-grey;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  color: $blue-dark;
+  text-decoration: none;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  border: none;
+  border-bottom: none;
+  border-top: none;
+}
 .home-stats {
   display: flex;
   justify-content: space-between;
@@ -3266,7 +3315,7 @@ sup {
   border-color: transparent transparent rgba(107, 97, 97, 0.5) transparent;
 }
 
-.loader {
+.loader, .osm-loader {
   border: 2px solid #f3f3f3;
   border-radius: 50%;
   border-bottom: 2px solid grey;
