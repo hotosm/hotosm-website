@@ -17,6 +17,7 @@ Country:
 - Colombia
 - United States
 - Guatemala
+- Japan
 Impact Area:
 - Disaster Response
 Person:
@@ -119,7 +120,7 @@ The area around Leilani Estates has been heavily impacted, the mapping results c
 
 ### Context
 
-Just after the eruption of the Fuego Volcano in Guatemala, OpenStreetMap contributors began filling in the impacted area's buildings. HOT has been monitoring the needs of response agencies and are publishing targeted projects to fulfill those requests. We have also been preparing additional resources described below.
+Just after the eruption of the Fuego Volcano in Guatemala, OpenStreetMap contributors began filling in the impacted area's buildings. HOT has been monitoring the needs of response agencies and are publishing targeted projects to fulfill those requests. Just over 17,000 buildings have been added in the area surrounding the Fuego Volcano, see also the additional resources described below.
 
 ### Use the data
 
