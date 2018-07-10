@@ -33,7 +33,7 @@ Finances:
 
     Access older financial reports and organization bylaws in our archive <a href="https://github.com/hotosm/hotosm-website/tree/gh-pages/downloads">here.</a>
   990 Report Button: Download 2016 990 PDF
-  990 Report URL: "/uploads/HOT_annual report_2016.pdf"
+  990 Report URL: "/downloads/2016-Form-990.pdf"
   Annual Report Header: 2016 Annual Report
   Annual Report Text: "Each year we publish an annual report to recap projects and
     share updates from the community. We cover stories from our projects and share
