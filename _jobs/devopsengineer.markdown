@@ -1,16 +1,16 @@
 ---
 title: DevOps Engineer (Full-Time)
 date: 2018-06-25 08:44:00 Z
-Deadline Date: 2018-07-08 23:59:00 Z
+Deadline Date: 2018-07-16 23:59:00 Z
 Place of Work: Jakarta, Indonesia
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSe0LKbfiUZKeXJHC_FwdQHoNbV18QMEFjXpmipuMJ2o2J1hKw/viewform
 ---
 
 **Contract duration:** 11 months
 
-**Closes:** July 8, 2018 at 11:59pm
+**Closes:** July 16, 2018 at 11:59pm
 
-**Projected start date:** July 16, 2018
+**Projected start date:** August 1, 2018
 
 **Reports to:** Director, Technology Innovation
 
