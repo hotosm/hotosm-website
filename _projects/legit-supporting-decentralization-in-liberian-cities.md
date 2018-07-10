@@ -16,7 +16,7 @@ Person:
 - Paul Uithol
 Partner:
 - DAI
-- 
+- USAID
 Duration:
   Start Date: 2017-03-08 00:00:00 Z
 HOT Involvement: Community Development
