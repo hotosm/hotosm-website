@@ -3,7 +3,7 @@ title: Gabor Bakos
 date: 2018-05-01 22:25:00 Z
 Member Type:
   Is Voting Member: true
-Photo: http://www.fragosus.com/portfolio/img/portfolio/gbakos.jpg
+Photo: "/uploads/gbakos.jpg"
 Project:
 - Missing Maps
 - Mapswipe
