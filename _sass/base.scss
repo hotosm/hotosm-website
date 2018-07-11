@@ -2955,8 +2955,66 @@ em {
 ////////////////////////////////////////////////
 
 
-.home {
+.home-banner {
+  width: 100%;
+  background-color: $red-light;
+  background-image: url(/images/dot-pattern.svg);
+  border-bottom: 1px solid $border-color;
+  .container {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 24px;
+  }
+}
 
+.banner-headers {
+  padding: 24px 0;
+  grid-column: 1 / 5;
+  .banner-header-main {
+    display: inline-block;
+    background-color: $red;
+    color: $white;
+    font-size: 1.5rem;
+    margin-bottom: 0;
+    padding: 7px 8px 8px;
+  }
+  .banner-header-sub {
+    display: inline-block;
+    background-color: $blue-dark;
+    color: $white;
+    font-family: $font-headline;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: .035em;
+    margin-bottom: 0;
+    padding: 4px 9px 6px;
+  }
+  .banner-header-small {
+    display: inline-block;
+    background-color: rgba(250, 232, 232, .75);
+    color: $blue-dark;
+    // margin: -2px 0 8px;
+    padding: 5px 8px 6px;
+  }
+}
+
+.banner-body {
+  grid-column: 5 / -1;
+  background-color: $red-light;
+  // box-shadow: $default-box-shadow;
+  padding: 14px 16px 16px;
+  margin: 24px 0;
+  .banner-desc {
+    p {
+      font-size: 0.875rem;
+      color: $blue-dark;
+      margin-bottom: 14px;
+    }
+  }
+  .banner-cta {
+    font-size: 0.875rem;
+    font-weight: bold;
+  }
 }
 
 .home-header {
