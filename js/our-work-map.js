@@ -119,7 +119,7 @@ map.on('load', function () {
   }, 'place-city-sm');
 
   map.addLayer({
-    "id": "centroids_countries",
+    "id": "centroids_project_countries",
     "type": "circle",
     "source": "countriescentroids",
     "source-layer": "country-centroids",
@@ -127,8 +127,22 @@ map.on('load', function () {
     "maxzoom": 8,
     "filter": ['in', 'NAME'].concat(projectCountries),
     "paint": {
-      "circle-radius": 5,
-      "circle-color": "#EFB4B4"
+      "circle-radius": 3,
+      "circle-color": "#D73F3F"
+    }
+  }, 'place-city-sm');
+
+  map.addLayer({
+    "id": "centroids_member_countries",
+    "type": "circle",
+    "source": "countriescentroids",
+    "source-layer": "country-centroids",
+    "minzoom": 0,
+    "maxzoom": 8,
+    "filter": ['in', 'NAME'].concat(memberCountries),
+    "paint": {
+      "circle-radius": 3,
+      "circle-color": "#929DB3"
     }
   }, 'place-city-sm');
 
