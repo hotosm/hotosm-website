@@ -21,6 +21,15 @@ fetch('/countries.json')
   }
 );
 
+fetch('/allProjects.json')
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function(jsonData) {
+    allProjects = jsonData;
+  }
+);
+
 function getCountriesByContinent(continent) {
   return projectCountries.filter(function(item) {
     return countries[item].continent === continent;
@@ -67,7 +76,7 @@ function showContinents() {
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
 var map = new mapboxgl.Map({
-  container: 'country-map',
+  container: 'map',
   logoPosition: 'bottom-right',
   scrollZoom: false,
   dragRotate: false,
@@ -75,20 +84,6 @@ var map = new mapboxgl.Map({
   center: [0, 8],
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 });
-var projectMap = new mapboxgl.Map({
-  container: 'project-map',
-  logoPosition: 'bottom-right',
-  scrollZoom: false,
-  dragRotate: false,
-  zoom: 1.25,
-  center: [0, 8],
-  style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
-});
-
-projectMap.on('load', function(){
-  $('.mapboxgl-ctrl').addClass('hide');
-  $('#loading-map').detach();
-})
 
 map.on('load', function () {
   $('.mapboxgl-ctrl').addClass('hide');
@@ -103,6 +98,12 @@ map.on('load', function () {
     "type": "vector",
     "url": "mapbox://hot.cjjiblfuc0ka332olxirvpuwa-13mqx"
   });
+
+  map.addSource('allprojects', {
+    "type": "geojson",
+    "data": allProjects
+  });
+
 
   map.addLayer({
     "id": "project_countries",
@@ -157,6 +158,21 @@ map.on('load', function () {
     "paint": {
       "circle-radius": 3,
       "circle-color": "#929DB3"
+    }
+  }, 'place-city-sm');
+
+  map.addLayer({
+    "id": "all-projects",
+    "type": "circle",
+    "source": "allprojects",
+    "minzoom": 0,
+    "maxzoom": 8,
+    "layout" : {
+      "visibility": "none"
+    },
+   "paint": {
+      "circle-radius": 3,
+      "circle-color": "#000000"
     }
   }, 'place-city-sm');
 
@@ -218,11 +234,26 @@ function expandMap() {
 
 function countryTabSwitch(evt, tabName) {
   console.log(' from ', tabName)
-  var tabContent = ['country-map', 'project-map']
-  for (let i = 0; i < tabContent.length; i++) {
-    document.getElementById(tabContent[i]).style.display = 'none';
-    console.log(tabContent[i])
+  evt.currentTarget.className += ' active';
+  var projectLayers = ['all-projects']
+  var countryLayers = ['project_countries', 'member_countries', 'centroids_project_countries', 'centroids_member_countries']
+  tablinks = document.getElementsByClassName('tablinks');
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(' active', '');
   }
-  console.log('Displaying ', tabName)
-  document.getElementById(tabName).style.display = 'block';
+  evt.currentTarget.className += ' active';
+  if (tabName === 'project-map') {
+    for (let i=0; i< projectLayers.length; i++) {
+      map.setLayoutProperty(projectLayers[i], 'visibility', 'visible')
+    }
+    for (let j=0; j< countryLayers.length; j++) {
+      map.setLayoutProperty(countryLayers[j], 'visibility', 'none')
+    }
+  } else if (tabName === 'country-map') {
+    for (let i=0; i< projectLayers.length; i++) {
+      map.setLayoutProperty(projectLayers[i], 'visibility', 'none')
+    }
+    for (let j=0; j< countryLayers.length; j++) {
+      map.setLayoutProperty(countryLayers[j], 'visibility', 'visible')
+    }}
 }
