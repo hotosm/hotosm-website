@@ -67,7 +67,16 @@ function showContinents() {
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
 var map = new mapboxgl.Map({
-  container: 'map',
+  container: 'country-map',
+  logoPosition: 'bottom-right',
+  scrollZoom: false,
+  dragRotate: false,
+  zoom: 1.25,
+  center: [0, 8],
+  style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
+});
+var projectMap = new mapboxgl.Map({
+  container: 'project-map',
   logoPosition: 'bottom-right',
   scrollZoom: false,
   dragRotate: false,
@@ -76,6 +85,10 @@ var map = new mapboxgl.Map({
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 });
 
+projectMap.on('load', function(){
+  $('.mapboxgl-ctrl').addClass('hide');
+  $('#loading-map').detach();
+})
 
 map.on('load', function () {
   $('.mapboxgl-ctrl').addClass('hide');
@@ -190,15 +203,12 @@ function expandMap() {
 }
 
 function countryTabSwitch(evt, tabName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName('tabcontent');
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = 'none';
+  console.log(' from ', tabName)
+  var tabContent = ['country-map', 'project-map']
+  for (let i = 0; i < tabContent.length; i++) {
+    document.getElementById(tabContent[i]).style.display = 'none';
+    console.log(tabContent[i])
   }
-  tablinks = document.getElementsByClassName('tablinks');
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(' active', '');
-  }
+  console.log('Displaying ', tabName)
   document.getElementById(tabName).style.display = 'block';
-  evt.currentTarget.className += ' active';
 }
