@@ -76,6 +76,7 @@ var map = new mapboxgl.Map({
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 });
 
+
 map.on('load', function () {
   $('.mapboxgl-ctrl').addClass('hide');
   $('#loading-map').detach();
@@ -87,7 +88,7 @@ map.on('load', function () {
 
   map.addSource('countriescentroids', {
     "type": "vector",
-    "url": "mapbox://hot.cjjedy3an1j6o2wkh86a92hww-2cvn1"
+    "url": "mapbox://hot.cjjiblfuc0ka332olxirvpuwa-13mqx"
   });
 
   map.addLayer({
@@ -186,4 +187,18 @@ function expandMap() {
     $('#regions-select').removeClass('hidden');
   }
   fullMap = !fullMap;
+}
+
+function countryTabSwitch(evt, tabName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName('tabcontent');
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = 'none';
+  }
+  tablinks = document.getElementsByClassName('tablinks');
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(' active', '');
+  }
+  document.getElementById(tabName).style.display = 'block';
+  evt.currentTarget.className += ' active';
 }
