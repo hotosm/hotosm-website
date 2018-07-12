@@ -2526,10 +2526,35 @@ em {
   }
 }
 
+.our-work-map-tabs {
+  margin-top: 350px;
+  margin-right: 40px;
+  position: relative;
+  display: flex;
+  float: right;
+  z-index: 4;
+  background-color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 2px;
+  @media (max-width: $screen-xs) {
+    margin-top: 10px;
+    margin-right: 16px;
+  }
+}
+
 .mapboxgl-ctrl-bottom-right a.mapboxgl-ctrl-logo {
   position: absolute;
   bottom: 13px;
   right: 42px;
+}
+
+.our-work-tab {
+  padding: 6px 8px;
+  border-right: 1px solid $border-color;
+  &:last-child {
+    border-right: none;
+  }
 }
 
 .legend-item {
