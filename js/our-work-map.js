@@ -213,6 +213,25 @@ map.on('load', function () {
   });
  });
 
+ map.on('click', 'all-projects', function (e) {
+  var coordinates = e.features[0].geometry.coordinates.slice();
+  var description = "<html><h6><a target='_blank' href='https://tasks.hotosm.org/project/" + e.features[0].properties.id
+                     + "'</a>#" + e.features[0].properties.id + " - " 
+                     + e.features[0].properties.title + "</h6></html>";
+  console.log(description)
+  // Ensure that if the map is zoomed out such that multiple
+  // copies of the feature are visible, the popup appears
+  // over the copy being pointed to.
+  while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+      coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+  }
+
+  new mapboxgl.Popup()
+      .setLngLat(coordinates)
+      .setHTML(description)
+      .addTo(map);
+});
+
 var fullMap = false;
 
 function expandMap() {
