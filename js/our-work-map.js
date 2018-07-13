@@ -103,7 +103,8 @@ map.on('load', function () {
     "type": "geojson",
     "data": allProjects,
     "cluster": true,
-    "clusterRadius": 50
+    "clusterRadius": 50,
+    "clusterMaxZoom": 6
   });
 
 
@@ -174,9 +175,25 @@ map.on('load', function () {
       "visibility": "none"
     },
    "paint": {
-    "circle-radius": 6,
-    "circle-blur": 1,
-    "circle-color": "#D73F3F"
+    'circle-radius': {
+      property: 'edits',
+      stops: [
+      [0, 1],
+      [5000, 3],
+      [10000, 5],
+      [50000, 7],
+      [100000, 10],
+      [125000, 13],
+      [150000, 15],
+      [200000, 18]
+
+      ]
+     },
+    "circle-opacity": 0.7,
+    //"circle-blur": 1,
+    "circle-color": "#D73F3F",
+    "circle-stroke-width": 1,
+    "circle-stroke-color": "#fff"
     }
   }, 'place-city-sm');
 
@@ -248,14 +265,13 @@ map.on('load', function () {
  });
 
  map.on('click', 'all-projects', function (e) {
+  var zoom = map.getZoom()
+  console.log(zoom)
   var coordinates = e.features[0].geometry.coordinates.slice();
   var description = "<html><h6><a target='_blank' href='https://tasks.hotosm.org/project/" + e.features[0].properties.id
                      + "'</a>#" + e.features[0].properties.id + " - " 
                      + e.features[0].properties.title + "</h6></html>";
   console.log(description)
-  // Ensure that if the map is zoomed out such that multiple
-  // copies of the feature are visible, the popup appears
-  // over the copy being pointed to.
   while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
       coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
   }
