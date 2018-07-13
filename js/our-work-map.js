@@ -78,8 +78,8 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24
 var map = new mapboxgl.Map({
   container: 'map',
   logoPosition: 'bottom-right',
-  scrollZoom: false,
-  dragRotate: false,
+  // scrollZoom: false,
+  // dragRotate: false,
   zoom: 1.25,
   center: [0, 8],
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
@@ -101,7 +101,9 @@ map.on('load', function () {
 
   map.addSource('allprojects', {
     "type": "geojson",
-    "data": allProjects
+    "data": allProjects,
+    "cluster": true,
+    "clusterRadius": 50
   });
 
 
@@ -167,14 +169,46 @@ map.on('load', function () {
     "source": "allprojects",
     "minzoom": 0,
     "maxzoom": 8,
+    "filter": ['!has', 'point_count'],
     "layout" : {
       "visibility": "none"
     },
    "paint": {
-      "circle-radius": 3,
-      "circle-color": "#000000"
+    "circle-radius": 6,
+    "circle-blur": 1,
+    "circle-color": "#D73F3F"
     }
   }, 'place-city-sm');
+
+  map.addLayer({
+    id: 'all-projects-clusters',
+    type: 'circle',
+    source: 'allprojects',
+    filter: ['has', 'point_count'],
+    "layout" : {
+      "visibility": "none"
+    },
+    paint: {
+        'circle-color': {
+            property: 'point_count',
+            type: 'interval',
+            stops: [
+                [0, '#D73F3F'],
+                [100, '#D73F3F'],
+                [750, '#D73F3F'],
+            ]
+        },
+        'circle-radius': {
+            property: 'point_count',
+            type: 'interval',
+            stops: [
+                [0, 20],
+                [100, 30],
+                [750, 40]
+            ]
+        }
+    }
+}, 'place-city-sm');
 
   map.on('click', function(e) {
     var features = map.queryRenderedFeatures(
@@ -254,7 +288,7 @@ function expandMap() {
 function countryTabSwitch(evt, tabName) {
   console.log(' from ', tabName)
   evt.currentTarget.className += ' active';
-  var projectLayers = ['all-projects']
+  var projectLayers = ['all-projects', 'all-projects-clusters']
   var countryLayers = ['project_countries', 'member_countries', 'centroids_project_countries', 'centroids_member_countries']
   tablinks = document.getElementsByClassName('tablinks');
   for (i = 0; i < tablinks.length; i++) {
