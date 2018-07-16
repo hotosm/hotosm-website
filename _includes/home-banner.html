@@ -1,0 +1,22 @@
+{% if page['Banner']['Is Activated'] %}
+  <a href="https://2018.foss4g.org/" class="home-banner small-banner">
+    <div class="banner-container">
+      <header class="banner-header">
+        <h5 class="banner-header-small">{{ page['Banner']['Small Block'] }}</h5>
+        <br>
+        <div class="banner-headers">
+          <h2 class="banner-header-main">{{ page['Banner']['Main Block'] }}</h2>
+          <h3 class="banner-header-sub">{{ page['Banner']['Secondary Block'] }}</h3>
+        </div>
+      </header>
+      <div class="banner-body">
+        {% if page['Banner']['Optional Text'] %}
+          {{ page['Banner']['Optional Text' ] | markdownify }}
+        {% endif %}
+        <div class="banner-cta">
+          <span href="{{ page['Banner']['URL'] }}">{{ page['Banner']['Link Copy'] }}</span>
+        </div>
+      </div>
+    </div>
+  </a>
+{% endif %}

@@ -3019,19 +3019,14 @@ em {
 }
 .banner-header-small {
   display: inline-block;
-  // background-color: rgba(250, 232, 232, .75);
-  // background-color: $red-light;
-  // color: $blue-dark;
   color: $white;
-  // margin: -2px 0 8px;
-  // padding: 5px 8px 6px;
   padding: 0 1px 6px;
 }
 
 .banner-body {
   grid-column: 6 / -1;
   background-color: $red-light;
-  padding: 24px 40px 22px 24px;
+  padding: 12px 40px 14px 16px;
   margin: 0 0;
   transition: background-color .3s ease;
   @media (max-width: $screen-xs) {
@@ -3040,12 +3035,11 @@ em {
   @media (min-width: $screen-xs) {
     box-shadow: inset 0 -5px 5px 0px rgba(0,0,0,.05);
   }
-  .banner-desc {
-    p {
-      font-size: 0.875rem;
-      color: $blue-dark;
-      margin-bottom: 14px;
-    }
+  p {
+    font-size: 0.8125rem;
+    color: $blue-dark;
+    margin-bottom: 12px;
+    opacity: .75;
   }
   .banner-cta {
     span {
