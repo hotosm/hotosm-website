@@ -1,14 +1,17 @@
 ---
 title: Home
 position: 0
+Banner:
+  Is Activated: True
+  Small Block: Upcoming event
+  Main Block: HOT Summit at FOSS4G2018
+  Secondary Block: 27 Aug – 2 Sep 2018
+  Optional Text:
+  Link Copy: Register for FOSS4G 2018
+  URL: "https://2018.foss4g.org/"
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
-Stats:
-  Community Mappers: 
-  Total Map Edits: 
-  Buildings Mapped: 
-  Roads Mapped (KM): 
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
