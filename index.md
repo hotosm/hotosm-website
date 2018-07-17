@@ -8,7 +8,7 @@ Banner:
   Secondary Block: 27 Aug – 2 Sep 2018
   Optional Text: 
   Link Copy: Register for FOSS4G 2018
-  URL: https://2018.foss4g.org/
+  URL: http://summit.hotosm.org/
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
