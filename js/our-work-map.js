@@ -80,6 +80,8 @@ var map = new mapboxgl.Map({
   logoPosition: 'bottom-right',
   // scrollZoom: false,
   // dragRotate: false,
+  maxZoom: 7.5,
+  minZoom: 1.25,
   zoom: 1.25,
   center: [0, 8],
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
@@ -178,8 +180,8 @@ map.on('load', function () {
     'circle-radius': {
       property: 'edits',
       stops: [
-      [0, 1],
-      [5000, 3],
+      [0, 2],
+      //[5000, 3],
       [10000, 5],
       [50000, 7],
       [100000, 10],
@@ -190,10 +192,10 @@ map.on('load', function () {
       ]
      },
     "circle-opacity": 0.7,
-    //"circle-blur": 1,
+    "circle-blur": 0.4,
     "circle-color": "#D73F3F",
     "circle-stroke-width": 1,
-    "circle-stroke-color": "#fff"
+    "circle-stroke-color": "#000000"
     }
   }, 'place-city-sm');
 
@@ -201,11 +203,14 @@ map.on('load', function () {
     id: 'all-projects-clusters',
     type: 'circle',
     source: 'allprojects',
+    "minzoom": 0,
+    "maxzoom": 8,
     filter: ['has', 'point_count'],
     "layout" : {
       "visibility": "none"
     },
     paint: {
+        'circle-blur': 0.4,
         'circle-color': {
             property: 'point_count',
             type: 'interval',
@@ -219,9 +224,9 @@ map.on('load', function () {
             property: 'point_count',
             type: 'interval',
             stops: [
-                [0, 20],
-                [100, 30],
-                [750, 40]
+                [0, 15],
+                [100, 20],
+                [750, 30]
             ]
         }
     }
@@ -280,6 +285,12 @@ map.on('load', function () {
       .setLngLat(coordinates)
       .setHTML(description)
       .addTo(map);
+});
+
+map.on('mousemove', 'all-projects-clusters', function (e) {
+  map.getCanvas().style.cursor = 'pointer';
+  $("#hover-country").empty();
+  $("#hover-country").removeClass('hide');
 });
 
 var fullMap = false;
