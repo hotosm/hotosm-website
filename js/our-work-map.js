@@ -192,7 +192,7 @@ map.on('load', function () {
       ]
      },
     "circle-opacity": 0.7,
-    "circle-blur": 0.4,
+    // "circle-blur": 0.4,
     "circle-color": "#D73F3F",
     "circle-stroke-width": 1,
     "circle-stroke-color": "#000000"
