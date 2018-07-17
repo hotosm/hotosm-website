@@ -2,13 +2,13 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: True
+  Is Activated: true
   Small Block: Upcoming event
   Main Block: HOT Summit at FOSS4G2018
   Secondary Block: 27 Aug – 2 Sep 2018
-  Optional Text:
+  Optional Text: 
   Link Copy: Register for FOSS4G 2018
-  URL: "https://2018.foss4g.org/"
+  URL: https://2018.foss4g.org/
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
