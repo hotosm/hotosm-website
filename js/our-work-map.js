@@ -192,7 +192,6 @@ map.on('load', function () {
       ]
      },
     "circle-opacity": 0.7,
-    // "circle-blur": 0.4,
     "circle-color": "#D73F3F",
     "circle-stroke-width": 1,
     "circle-stroke-color": "#000000"
@@ -210,23 +209,23 @@ map.on('load', function () {
       "visibility": "none"
     },
     paint: {
-        'circle-blur': 0.4,
+        'circle-opacity': .65,
         'circle-color': {
             property: 'point_count',
             type: 'interval',
             stops: [
-                [0, '#D73F3F'],
-                [100, '#D73F3F'],
-                [750, '#D73F3F'],
+                [0, '#929DB3'],
+                [50, '#929DB3'],
+                [200, '#929DB3'],
             ]
         },
         'circle-radius': {
             property: 'point_count',
             type: 'interval',
             stops: [
-                [0, 15],
-                [100, 20],
-                [750, 30]
+                [0, 35],
+                [50, 50],
+                [200, 65]
             ]
         }
     }
@@ -274,7 +273,7 @@ map.on('load', function () {
   console.log(zoom)
   var coordinates = e.features[0].geometry.coordinates.slice();
   var description = "<html><h6><a target='_blank' href='https://tasks.hotosm.org/project/" + e.features[0].properties.id
-                     + "'</a>#" + e.features[0].properties.id + " - " 
+                     + "'</a>#" + e.features[0].properties.id + " - "
                      + e.features[0].properties.title + "</h6></html>";
   console.log(description)
   while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
