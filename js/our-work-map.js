@@ -4,6 +4,7 @@ String.prototype.capitalize = function() {
 
 var countries = {};
 var projectCountries, memberCountries = [];
+var activeCountries = {};
 
 fetch('/countries.json')
   .then(function(response) {
@@ -11,10 +12,12 @@ fetch('/countries.json')
   })
   .then(function(jsonData) {
     countries = jsonData;
+    console.log(JSON.stringify(countries))
     countriesList = Object.keys(countries);
     projectCountries = countriesList.filter(function(item) {
       return countries[item].hot_program || countries[item].community_program;
     });
+    console.log('projectCountries: ', projectCountries)
     memberCountries = countriesList.filter(function(item) {
       return countries[item].member && !projectCountries.includes(item);
     });
@@ -27,6 +30,17 @@ fetch('/allProjects.json')
   })
   .then(function(jsonData) {
     allProjects = jsonData;
+  }
+);
+
+fetch('/activeCountries.json')
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function(jsonData) {
+    activeCountries = jsonData;
+    console.log(activeCountries.countries.length)
+    console.log(JSON.stringify(activeCountries))
   }
 );
 
@@ -93,7 +107,7 @@ map.on('load', function () {
 
   map.addSource('countriesbetter', {
     "type": "vector",
-    "url": "mapbox://hot.9fvp7us2"
+    "url": "mapbox://hot.6w45pyli"
   });
 
   map.addSource('countriescentroids', {
@@ -114,7 +128,7 @@ map.on('load', function () {
     "id": "project_countries",
     "type": "fill",
     "source": "countriesbetter",
-    "source-layer": "countriesbetter",
+    "source-layer": "countries-polygon-7jl2br",
     "minzoom": 0,
     "maxzoom": 8,
     "filter": ['in', 'name_low'].concat(projectCountries),
@@ -128,7 +142,7 @@ map.on('load', function () {
     "id": "member_countries",
     "type": "fill",
     "source": "countriesbetter",
-    "source-layer": "countriesbetter",
+    "source-layer": "countries-polygon-7jl2br",
     "minzoom": 0,
     "maxzoom": 8,
     "filter": ['in', 'name_low'].concat(memberCountries),
@@ -163,6 +177,32 @@ map.on('load', function () {
     "paint": {
       "circle-radius": 3,
       "circle-color": "#929DB3"
+    }
+  }, 'place-city-sm');
+
+  map.addLayer({
+    'id': 'active_centroids_project_countries',
+    'type': 'circle',
+    "source": "countriescentroids",
+    "source-layer": "country-centroids",
+    "filter":['all', ['in', 'NAME'].concat(activeCountries.countries), ['in', 'NAME'].concat(projectCountries) ],
+    "paint": {
+            "circle-radius": 2,
+            "circle-color": "#FFFFFF"
+        }
+  }, 'place-city-sm');
+
+  map.addLayer({
+    "id": "active_centroids_project_countries_pulse",
+    "type": "circle",
+    "source": "countriescentroids",
+    "source-layer": "country-centroids",
+    "minzoom": 0,
+    "maxzoom": 8,
+    "filter":['all', ['in', 'NAME'].concat(activeCountries.countries), ['in', 'NAME'].concat(projectCountries) ],
+    "paint": {
+      "circle-radius": 6,
+      "circle-color": "#D73F3F"
     }
   }, 'place-city-sm');
 
@@ -231,6 +271,32 @@ map.on('load', function () {
     }
 }, 'place-city-sm');
 
+var framesPerSecond = 2;
+var multiplier = 0.1;
+var opacity = .1;
+var circleRadius = 3;
+
+function pulseMarker(timestamp){
+  setTimeout(function() {
+    requestAnimationFrame(pulseMarker)
+    multiplier += .1;
+    opacity -= ( .3 / framesPerSecond );
+    circleRadius += ( 1 / framesPerSecond );
+
+    map.setPaintProperty('active_centroids_project_countries_pulse', 'circle-opacity', opacity)
+    map.setPaintProperty('active_centroids_project_countries_pulse', 'circle-radius', circleRadius)
+
+    if (opacity <= 0.1) {
+      opacity = 1;
+      circleRadius = 3;
+    }
+
+  }, 1000 / framesPerSecond );
+}
+
+pulseMarker(0);
+
+})
   map.on('click', function(e) {
     var features = map.queryRenderedFeatures(
       [e.point.x, e.point.y],
@@ -266,7 +332,7 @@ map.on('load', function () {
       $("#hover-country").addClass('hide');
     }
   });
- });
+
 
  map.on('click', 'all-projects', function (e) {
   var zoom = map.getZoom()
@@ -315,7 +381,7 @@ function countryTabSwitch(evt, tabName) {
   console.log(' from ', tabName)
   evt.currentTarget.className += ' active';
   var projectLayers = ['all-projects', 'all-projects-clusters']
-  var countryLayers = ['project_countries', 'member_countries', 'centroids_project_countries', 'centroids_member_countries']
+  var countryLayers = ['project_countries', 'member_countries', 'centroids_project_countries', 'centroids_member_countries', 'active_centroids_project_countries', 'active_centroids_project_countries_pulse']
   tablinks = document.getElementsByClassName('tablinks');
   for (i = 0; i < tablinks.length; i++) {
     tablinks[i].className = tablinks[i].className.replace(' active', '');
