@@ -10,11 +10,26 @@ layout: default
         <span>Loading Map</span>
       </div>
       <div id="hover-details" class="center-hover-map-area"></div>
-      <div id = 'our-work-legend' class="our-work-map-legend">
-        <div class="legend-item projects">
+      <div id = 'legend-details' class="center-hover-map-area">
+        <div id = 'prefix-legend' class="legend-prefix">
+          <p>Countries with </p>
+        </div>
+        <center><div class="dot-projects"></div></center>
+        
+        <div id = 'projects-legend' class="legend-projects">
           <p>Projects</p>
         </div>
-        <div class="legend-item members">
+        <center><div class="dot-projects">
+            <div class="outer circle shapeborder">
+                <div class="inner circle shapeborder">&nbsp;</div>
+          </div>
+        </div></center>
+        <div id = 'active-legend' class="legend-active">
+          <p>Active tasks</p>
+        </div>
+        <center><div class="dot-members"></div></center>
+        
+        <div id = 'member-legend' class="legend-members">
           <p>Members</p>
         </div>
       </div>

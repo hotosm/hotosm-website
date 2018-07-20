@@ -2639,6 +2639,15 @@ em {
   }
 }
 
+#legend-details {
+  position: absolute;
+  right: 40px;
+  top: 24px;
+  @media (max-width: $screen-xs) {
+    display: none;
+  }
+}
+
 .center-hover-map-area {
   display: inline-block;
   z-index: 4;
@@ -2661,6 +2670,75 @@ em {
     background-color: #FFC151;
     color: $white;
     font-weight: bold;
+  }
+  .legend-prefix {
+    background-color: #F0EFEF;
+    color: #A9ACB5;
+  
+  }
+
+  .dot-projects{
+    top: 2px;
+    height: 6px;
+    width: 6px;
+    left: 2px;
+    background-color: $red;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+  }
+  .dot-members{
+    top: 2px;
+    height: 6px;
+    width: 6px;
+    left: 2px;
+    background-color: $blue-light;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+  }
+  .legend-projects {
+    background-color: $white;
+    color: $red;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    font-weight: bold;
+  }
+  .legend-members {
+    background-color: $white;
+    color: $blue-light;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    font-weight: bold;
+  }
+  .legend-active {
+    background-color: $white;
+    color: $red;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    font-weight: bold;
+  }
+  .shapeborder { border:1px solid black; }
+  .circle { border-radius: 50%; }
+
+  .outer {
+              background-color: $red;
+              width:6px;
+              height:6px;
+              position:relative;
+  }
+
+  .inner {
+              background-color:$white;
+              top: 3%; left:3%;
+              width:94%;
+              height:94%;
+              position: relative;
   }
 }
 
