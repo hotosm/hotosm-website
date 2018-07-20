@@ -254,12 +254,13 @@ map.on('load', function () {
             property: 'point_count',
             type: 'interval',
             stops: [
-                [0, '#929DB3'],
-                [50, '#929DB3'],
-                [200, '#929DB3'],
+                [0, '#B7BACB'],
+                [50, '#B7BACB'],
+                [200, '#B7BACB'],
             ]
         },
-        'circle-radius': {
+        'circle-radius': 
+        {
             property: 'point_count',
             type: 'interval',
             stops: [
