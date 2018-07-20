@@ -5,6 +5,7 @@ String.prototype.capitalize = function() {
 var countries = {};
 var projectCountries, memberCountries = [];
 var activeCountries = {};
+var currentTab = '';
 
 fetch('/countries.json')
   .then(function(response) {
@@ -12,12 +13,10 @@ fetch('/countries.json')
   })
   .then(function(jsonData) {
     countries = jsonData;
-    console.log(JSON.stringify(countries))
     countriesList = Object.keys(countries);
     projectCountries = countriesList.filter(function(item) {
       return countries[item].hot_program || countries[item].community_program;
     });
-    console.log('projectCountries: ', projectCountries)
     memberCountries = countriesList.filter(function(item) {
       return countries[item].member && !projectCountries.includes(item);
     });
@@ -39,8 +38,6 @@ fetch('/activeCountries.json')
   })
   .then(function(jsonData) {
     activeCountries = jsonData;
-    console.log(activeCountries.countries.length)
-    console.log(JSON.stringify(activeCountries))
   }
 );
 
@@ -329,6 +326,11 @@ function pulseMarker(timestamp){
 pulseMarker(0);
 
 })
+var popup = new mapboxgl.Popup({
+  closeButton: false,
+  closeOnClick: false
+});
+
   map.on('click', function(e) {
     var features = map.queryRenderedFeatures(
       [e.point.x, e.point.y],
@@ -342,52 +344,81 @@ pulseMarker(0);
 
   var lastCountry;
   map.on('mousemove', function(e) {
-    var areaHover = map.queryRenderedFeatures(
-      e.point,
-      {layers: ['member_countries', 'project_countries']}
-    );
-    if (areaHover.length) {
-      map.getCanvas().style.cursor = 'pointer';
-      if (lastCountry !== areaHover[0].properties.NAME_LONG) {
-        $("#hover-country").empty();
-        $("#hover-country").removeClass('hide');
-        $("#hover-country").append(
-          '<p class="hover-name">' + areaHover[0].properties.NAME_LONG + '</p>' +
-          '<p>Click on the country to see the details</p>'
-        );
-        lastCountry = areaHover[0].properties.NAME_LONG;
+    if (currentTab === 'country-map'){
+      var areaHover = map.queryRenderedFeatures(
+        e.point,
+        {layers: ['member_countries', 'project_countries']}
+      );
+      if (areaHover.length) {
+        map.getCanvas().style.cursor = 'pointer';
+        if (lastCountry !== areaHover[0].properties.NAME_LONG) {
+          $("#hover-details").empty();
+          $("#hover-details").removeClass('hide');
+          $("#hover-details").append(
+            '<p class="hover-name">' + areaHover[0].properties.NAME_LONG + '</p>' +
+            '<p>Click on the country to see the details</p>'
+          );
+          lastCountry = areaHover[0].properties.NAME_LONG;
+        }
+      } else {
+        map.getCanvas().style.cursor = '';
+        lastCountry = '';
+        $("#hover-details").empty();
+        $("#hover-details").addClass('hide');
       }
     } else {
-      map.getCanvas().style.cursor = '';
-      lastCountry = '';
-      $("#hover-country").empty();
-      $("#hover-country").addClass('hide');
+      var projectHover = map.queryRenderedFeatures(
+        e.point,
+        {layers: ['all-projects-symbol', 'all-projects-black-circle', 'all-projects-edits-circle']}
+      );
+      if (projectHover.length){
+        map.getCanvas().style.cursor = 'pointer';
+        $("#hover-details").empty();
+        $("#hover-details").removeClass('hide');
+        $("#hover-details").append(
+          '<p class="hover-name">' + projectHover[0].properties.title + '</p>' +
+          '<p class= "hover-edits">' + projectHover[0].properties.edits + ' Edits </p>' 
+        );
+        
+      } else {
+        map.getCanvas().style.cursor = '';
+        $("#hover-details").empty();
+        $("#hover-details").addClass('hide');
+      }
     }
   });
+  
+map.on('mouseleave', {'layers': ['all-projects-symbol', 'all-projects-black-circle', 'all-projects-edits-circle']}, function() {
+    map.getCanvas().style.cursor = '';
+    popup.remove();
+});
 
-
- map.on('click', 'all-projects', function (e) {
-  var zoom = map.getZoom()
-  console.log(zoom)
-  var coordinates = e.features[0].geometry.coordinates.slice();
-  var description = "<html><h6><a target='_blank' href='https://tasks.hotosm.org/project/" + e.features[0].properties.id
-                     + "'</a>#" + e.features[0].properties.id + " - "
-                     + e.features[0].properties.title + "</h6></html>";
-  console.log(description)
+ map.on('mouseenter', function (e) {
+  var projectHover = map.queryRenderedFeatures(
+    e.point,
+    {layers: ['all-projects-symbol', 'all-projects-black-circle', 'all-projects-edits-circle']}
+  );
+  var coordinates = projectHover[0].geometry.coordinates.slice();
+  var description = "<html><h6><a target='_blank' href='https://tasks.hotosm.org/project/" + projectHover[0].properties.id
+                     + "'</a>#" + projectHover[0].properties.id + " - "
+                     + projectHover[0].properties.title + "</h6></html>";
   while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
       coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
   }
 
-  new mapboxgl.Popup()
-      .setLngLat(coordinates)
-      .setHTML(description)
-      .addTo(map);
+  popup.setLngLat(coordinates)
+       .setHTML(description)
+       .addTo(map);
 });
 
 map.on('mousemove', 'all-projects-clusters', function (e) {
-  map.getCanvas().style.cursor = 'pointer';
-  $("#hover-country").empty();
-  $("#hover-country").removeClass('hide');
+  // map.getCanvas().style.cursor = 'pointer';
+  $("#hover-details").empty();
+  $("#hover-details").removeClass('hide');
+  $("#hover-details").append(
+    '<p class="hover-name">'+ e.features[0].properties.point_count + ' tasking manager projects</p>' +
+    '<p>Zoom in to explore projects in the cluster</p>'
+ );
 });
 
 var fullMap = false;
@@ -410,7 +441,7 @@ function expandMap() {
 }
 
 function countryTabSwitch(evt, tabName) {
-  console.log(' from ', tabName)
+  currentTab = tabName;
   evt.currentTarget.className += ' active';
   var projectLayers = ['all-projects-symbol', 'all-projects-black-circle', 'all-projects-edits-circle', 'all-projects-clusters']
   var countryLayers = ['project_countries', 'member_countries', 'centroids_project_countries', 'centroids_member_countries', 'active_centroids_project_countries', 'active_centroids_project_countries_pulse']
@@ -420,6 +451,7 @@ function countryTabSwitch(evt, tabName) {
   }
   evt.currentTarget.className += ' active';
   if (tabName === 'project-map') {
+    $('#our-work-legend').addClass('hide');
     for (let i=0; i< projectLayers.length; i++) {
       map.setLayoutProperty(projectLayers[i], 'visibility', 'visible')
     }
@@ -427,6 +459,7 @@ function countryTabSwitch(evt, tabName) {
       map.setLayoutProperty(countryLayers[j], 'visibility', 'none')
     }
   } else if (tabName === 'country-map') {
+    $('#our-work-legend').removeClass('hide');
     for (let i=0; i< projectLayers.length; i++) {
       map.setLayoutProperty(projectLayers[i], 'visibility', 'none')
     }

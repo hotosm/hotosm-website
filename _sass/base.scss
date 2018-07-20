@@ -2630,7 +2630,7 @@ em {
   }
 }
 
-#hover-country {
+#hover-details {
   position: absolute;
   left: 40px;
   top: 24px;
@@ -2654,6 +2654,11 @@ em {
   }
   .hover-name {
     background-color: $blue-dark;
+    color: $white;
+    font-weight: bold;
+  }
+  .hover-edits {
+    background-color: #FFC151;
     color: $white;
     font-weight: bold;
   }
