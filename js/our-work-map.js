@@ -94,7 +94,7 @@ var map = new mapboxgl.Map({
   logoPosition: 'bottom-right',
   // scrollZoom: false,
   // dragRotate: false,
-  maxZoom: 7.5,
+  maxZoom: 18,
   minZoom: 1.25,
   zoom: 1.25,
   center: [0, 8],
@@ -207,11 +207,11 @@ map.on('load', function () {
   }, 'place-city-sm');
 
   map.addLayer({
-    "id": "all-projects",
+    "id": "all-projects-edits-circle",
     "type": "circle",
     "source": "allprojects",
     "minzoom": 0,
-    "maxzoom": 8,
+    "maxzoom": 18,
     "filter": ['!has', 'point_count'],
     "layout" : {
       "visibility": "none"
@@ -220,21 +220,52 @@ map.on('load', function () {
     'circle-radius': {
       property: 'edits',
       stops: [
-      [0, 2],
-      //[5000, 3],
-      [10000, 5],
-      [50000, 7],
-      [100000, 10],
-      [125000, 13],
-      [150000, 15],
-      [200000, 18]
+      [0, 10],
+      [10000, 15],
+      [50000, 20],
+      [100000, 25],
+      [125000, 30],
+      [150000, 35],
+      [200000, 40]
 
       ]
      },
     "circle-opacity": 0.7,
-    "circle-color": "#D73F3F",
-    "circle-stroke-width": 1,
-    "circle-stroke-color": "#000000"
+    "circle-color": "#FFC151",
+    }
+  }, 'place-city-sm');
+
+  map.addLayer({
+    "id": "all-projects-black-circle",
+    "type": "circle",
+    "source": "allprojects",
+    "minzoom": 0,
+    "maxzoom": 18,
+    "filter": ['!has', 'point_count'],
+    "layout" : {
+      "visibility": "none"
+    },
+   "paint": {
+    'circle-radius': 6.5,
+    "circle-opacity": 1,
+    "circle-color": "#000000",
+    }
+  }, 'place-city-sm');
+  
+map.addLayer({
+    "id": "all-projects-symbol",
+    "type": "symbol",
+    "source": "allprojects",
+    "minzoom": 0,
+    "maxzoom": 18,
+    "filter": ['!has', 'point_count'],
+    "layout" : {
+      "visibility": "none",
+      "text-field": "+",
+      "text-font" : ["Open Sans Bold"]
+    },
+   "paint": {
+     "text-color": "#FFFFFF"
     }
   }, 'place-city-sm');
 
@@ -381,7 +412,7 @@ function expandMap() {
 function countryTabSwitch(evt, tabName) {
   console.log(' from ', tabName)
   evt.currentTarget.className += ' active';
-  var projectLayers = ['all-projects', 'all-projects-clusters']
+  var projectLayers = ['all-projects-symbol', 'all-projects-black-circle', 'all-projects-edits-circle', 'all-projects-clusters']
   var countryLayers = ['project_countries', 'member_countries', 'centroids_project_countries', 'centroids_member_countries', 'active_centroids_project_countries', 'active_centroids_project_countries_pulse']
   tablinks = document.getElementsByClassName('tablinks');
   for (i = 0; i < tablinks.length; i++) {
