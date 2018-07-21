@@ -158,7 +158,7 @@ map.on('load', function () {
     "maxzoom": 8,
     "filter": ['in', 'NAME'].concat(projectCountries),
     "paint": {
-      "circle-radius": 3,
+      "circle-radius": 4,
       "circle-color": "#D73F3F"
     }
   }, 'place-city-sm');
