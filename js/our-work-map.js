@@ -445,13 +445,16 @@ function countryTabSwitch(evt, tabName) {
   evt.currentTarget.className += ' active';
   var projectLayers = ['all-projects-symbol', 'all-projects-black-circle', 'all-projects-edits-circle', 'all-projects-clusters']
   var countryLayers = ['project_countries', 'member_countries', 'centroids_project_countries', 'centroids_member_countries', 'active_centroids_project_countries', 'active_centroids_project_countries_pulse']
+  var countryLegends = ['country-legend-details']
   tablinks = document.getElementsByClassName('tablinks');
   for (i = 0; i < tablinks.length; i++) {
     tablinks[i].className = tablinks[i].className.replace(' active', '');
   }
   evt.currentTarget.className += ' active';
   if (tabName === 'project-map') {
-    $('#our-work-legend').addClass('hide');
+    for (let i =0; i<countryLegends.length; i++){
+      $('#'+countryLegends[i]).addClass('hide');
+    }
     for (let i=0; i< projectLayers.length; i++) {
       map.setLayoutProperty(projectLayers[i], 'visibility', 'visible')
     }
@@ -459,7 +462,9 @@ function countryTabSwitch(evt, tabName) {
       map.setLayoutProperty(countryLayers[j], 'visibility', 'none')
     }
   } else if (tabName === 'country-map') {
-    $('#our-work-legend').removeClass('hide');
+    for (let i =0; i<countryLegends.length; i++){
+      $('#'+countryLegends[i]).removeClass('hide');
+    }
     for (let i=0; i< projectLayers.length; i++) {
       map.setLayoutProperty(projectLayers[i], 'visibility', 'none')
     }
