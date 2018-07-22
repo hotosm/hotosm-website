@@ -445,13 +445,18 @@ function countryTabSwitch(evt, tabName) {
   evt.currentTarget.className += ' active';
   var projectLayers = ['all-projects-symbol', 'all-projects-black-circle', 'all-projects-edits-circle', 'all-projects-clusters']
   var countryLayers = ['project_countries', 'member_countries', 'centroids_project_countries', 'centroids_member_countries', 'active_centroids_project_countries', 'active_centroids_project_countries_pulse']
-  var countryLegends = ['country-legend-details']
+  var countryLegends = ['prefix-legend', 'projects-legend', 'active-legend', 'member-legend']
+  var projectLegends = ['lone-project-legend','cluster-legend']
   tablinks = document.getElementsByClassName('tablinks');
   for (i = 0; i < tablinks.length; i++) {
     tablinks[i].className = tablinks[i].className.replace(' active', '');
   }
   evt.currentTarget.className += ' active';
   if (tabName === 'project-map') {
+    $('#expand-collapse').removeClass('hide');
+    for (let i =0; i<projectLegends.length; i++){
+      $('#'+projectLegends[i]).removeClass('hide');
+    }
     for (let i =0; i<countryLegends.length; i++){
       $('#'+countryLegends[i]).addClass('hide');
     }
@@ -462,8 +467,12 @@ function countryTabSwitch(evt, tabName) {
       map.setLayoutProperty(countryLayers[j], 'visibility', 'none')
     }
   } else if (tabName === 'country-map') {
+    $('#expand-collapse').addClass('hide');
     for (let i =0; i<countryLegends.length; i++){
       $('#'+countryLegends[i]).removeClass('hide');
+    }
+    for (let i =0; i<projectLegends.length; i++){
+      $('#'+projectLegends[i]).addClass('hide');
     }
     for (let i=0; i< projectLayers.length; i++) {
       map.setLayoutProperty(projectLayers[i], 'visibility', 'none')
@@ -472,3 +481,23 @@ function countryTabSwitch(evt, tabName) {
       map.setLayoutProperty(countryLayers[j], 'visibility', 'visible')
     }}
 }
+
+function legend(event){
+  if (event === 'expand'){
+    console.log('Give details')
+    $('#collapse').removeClass('hide')
+    $('#expand').addClass('hide')
+    $('#lone-project-detailed').removeClass('hide')
+    $('#cluster-detailed').removeClass('hide')
+    $('#legend-sep').removeClass('hide')
+  } else {
+    console.log('Hide details')
+    $('#expand').removeClass('hide')
+    $('#collapse').addClass('hide')
+    $('#lone-project-detailed').addClass('hide')
+    $('#cluster-detailed').addClass('hide')
+    $('#legend-sep').addClass('hide')
+  }
+  
+}
+

@@ -23,8 +23,84 @@ layout: default
         <div id = 'member-legend'>
             <p><img src= 'images/dot-blue.png' width="7" height="7"/> <span style="color:#929DB3"> Members</span></p>
         </div>
+        <div id = 'lone-project-legend' class='hide'>
+          <p style="display: inline-block;">
+              <div class = "edits-circle" style='display:inline-block;top: 6px; border: 10px solid rgb(255,193,81,0.7);'>
+                  <div class ="black-circle" style="top:-6.7px; left:-6px" >
+                    <div class ="plus bold" style="top:-4px; left:2px" >+
+                    </div>
+                  </div>
+                </div>
+            <!-- <img src='images/lone-project.png' style="top:3px" height="17px" width="17px"/>&nbsp;&nbsp; -->
+            <span style="color: #929DB3;" >Tasking Manager project</span>  
+          </p>
+          <p>
+            <center>
+              <div id = 'lone-project-detailed' style="display: inline-block" class='hide'>
+                  <span style="font-style:italic; color:#929DB3">Less edits</span>
+                  <div class = "edits-circle" style='display:inline-block;border: 10px solid rgb(255,193,81,0.7);'>
+                    <div class ="black-circle" style="top:-6.7px; left:-6px" >
+                      <div class ="plus bold" style="top:-4px; left:2px" >+
+                      </div>
+                    </div>
+                  </div>
+                  
+                  <div class = "edits-circle" style='display:inline-block;border: 15px solid rgb(255,193,81,0.7);'>
+                    <div class ="black-circle" style="top:-6.7px; left:-6px" >
+                      <div class ="plus bold" style="top:-4px; left:2px" >+
+                      </div>
+                    </div>
+                  </div>
+                    
+                  <div class = "edits-circle" style='display:inline-block;border: 20px solid rgb(255,193,81,0.7);'>
+                    <div class ="black-circle" style="top:-6.7px; left:-6px" >
+                      <div class ="plus bold" style="top:-4px; left:2px" >+
+                      </div>
+                    </div>
+                  </div>
+                  <div class = "edits-circle" style='display:inline-block;border: 25px solid rgb(255,193,81,0.7);'>
+                      <div class ="black-circle" style="top:-6.7px; left:-6px" >
+                        <div class ="plus bold" style="top:-4px; left:2px" >+
+                        </div>
+                      </div>
+                    </div>
+                  <span style="font-style:italic; color:#929DB3">More edits</span>
+                 
+                </div>
+                 
+            </div>
+          </center>
+          </p>
+          
+        <!-- <div id='legend-sep' class="hr-v hide"></div> -->
+        <div id = 'cluster-legend' class='hide' >
+            <p style="display: inline-block;">
+                <div class = "edits-circle" style='top: 6px; display:inline-block;border: 10px solid rgb(183,186,203,0.65);'></div>
+                <span style="vertical-align: middle; color: #929DB3;">Cluster of projects in vicinity</span>    
+            </p>
+            <p>
+              <center>
+                  <div id = 'cluster-detailed' class='hide' style="display: inline-block">
+                      <span style="font-style:italic; color:#929DB3">&nbsp;Less</span>
+                      <div class='cluster-circle' style="display:inline-block;height: 20px; width: 20px;"></div>
+                       <div class='cluster-circle' style="display:inline-block;height: 30px; width: 30px;"></div>
+                       <div class='cluster-circle' style="display:inline-block;height: 40px; width: 40px;"></div>
+                       <div class='cluster-circle' style="display:inline-block;height: 50px; width: 50px;"></div>
+                       <span style="font-style:italic; color:#929DB3">More</span>
+                   </div>
+              </center>
+                
+            </p>
+            
+         </div>
+        <div id ='expand-collapse' class='hide'>
+          <p>
+            <i id ='expand' class="down" onclick="legend('expand')"></i> 
+            <i id ='collapse' class="up hide" onclick="legend('collapse')"></i>
+          </p>
+         </div>
       </div>
-
+      
       <div class="our-work-map-tabs">
         <div class="our-work-map-tab">
           <button class="tablinks active" onclick="countryTabSwitch(event, 'country-map')">Countries we work in</button>
@@ -163,4 +239,5 @@ layout: default
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
   <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
   <script src="{{ "/js/our-work-map.js" | prepend: site.baseurl }}"></script>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
 </div>
