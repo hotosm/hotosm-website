@@ -341,6 +341,16 @@ var popup = new mapboxgl.Popup({
       $(location).attr('href', '/where-we-work/' + country_name);
     }
   });
+  
+  map.on('click', function(e) {
+    var features = map.queryRenderedFeatures(
+      [e.point.x, e.point.y],
+      {layers: ['all-projects-symbol', 'all-projects-black-circle', 'all-projects-edits-circle']}
+    );
+    if (features.length) {
+      
+    }
+  });
 
   var lastCountry;
   map.on('mousemove', function(e) {
@@ -377,42 +387,30 @@ var popup = new mapboxgl.Popup({
         $("#hover-details").removeClass('hide');
         $("#hover-details").append(
           '<p class="hover-name">' + projectHover[0].properties.title + '</p>' +
-          '<p class= "hover-edits">' + projectHover[0].properties.edits + ' Edits </p>' 
+          '<p class= "hover-edits">' + formatedData(projectHover[0].properties.edits) + ' Edits </p>' 
         );
+        var coordinates = projectHover[0].geometry.coordinates.slice();
+        var description = "<html><h6><a target='_blank' href='https://tasks.hotosm.org/project/" + projectHover[0].properties.id
+                          + "'</a>#" + projectHover[0].properties.id + " - "
+                          + projectHover[0].properties.title + "</h6></html>";
+        while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+            coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+        }
+
+        popup.setLngLat(coordinates)
+            .setHTML(description)
+            .addTo(map);
         
       } else {
         map.getCanvas().style.cursor = '';
         $("#hover-details").empty();
         $("#hover-details").addClass('hide');
+        popup.remove();
       }
     }
   });
-  
-map.on('mouseleave', {'layers': ['all-projects-symbol', 'all-projects-black-circle', 'all-projects-edits-circle']}, function() {
-    map.getCanvas().style.cursor = '';
-    popup.remove();
-});
-
- map.on('mouseenter', function (e) {
-  var projectHover = map.queryRenderedFeatures(
-    e.point,
-    {layers: ['all-projects-symbol', 'all-projects-black-circle', 'all-projects-edits-circle']}
-  );
-  var coordinates = projectHover[0].geometry.coordinates.slice();
-  var description = "<html><h6><a target='_blank' href='https://tasks.hotosm.org/project/" + projectHover[0].properties.id
-                     + "'</a>#" + projectHover[0].properties.id + " - "
-                     + projectHover[0].properties.title + "</h6></html>";
-  while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-      coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-  }
-
-  popup.setLngLat(coordinates)
-       .setHTML(description)
-       .addTo(map);
-});
 
 map.on('mousemove', 'all-projects-clusters', function (e) {
-  // map.getCanvas().style.cursor = 'pointer';
   $("#hover-details").empty();
   $("#hover-details").removeClass('hide');
   $("#hover-details").append(
