@@ -198,7 +198,7 @@ map.on('load', function () {
     "maxzoom": 8,
     "filter":['all', ['in', 'NAME'].concat(activeCountries.countries), ['in', 'NAME'].concat(projectCountries) ],
     "paint": {
-      "circle-radius": 6,
+      "circle-radius": 4,
       "circle-color": "#D73F3F"
     }
   }, 'place-city-sm');
@@ -301,7 +301,7 @@ map.addLayer({
 }, 'place-city-sm');
 
 var framesPerSecond = 2;
-var multiplier = 0.1;
+var multiplier = 0.01;
 var opacity = .1;
 var circleRadius = 3;
 
