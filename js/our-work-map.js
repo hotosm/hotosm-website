@@ -446,7 +446,7 @@ function countryTabSwitch(evt, tabName) {
   var projectLayers = ['all-projects-symbol', 'all-projects-black-circle', 'all-projects-edits-circle', 'all-projects-clusters']
   var countryLayers = ['project_countries', 'member_countries', 'centroids_project_countries', 'centroids_member_countries', 'active_centroids_project_countries', 'active_centroids_project_countries_pulse']
   var countryLegends = ['prefix-legend', 'projects-legend', 'active-legend', 'member-legend']
-  var projectLegends = ['lone-project-legend','cluster-legend']
+  var projectLegends = ['project-area-legend']
   tablinks = document.getElementsByClassName('tablinks');
   for (i = 0; i < tablinks.length; i++) {
     tablinks[i].className = tablinks[i].className.replace(' active', '');
@@ -482,22 +482,39 @@ function countryTabSwitch(evt, tabName) {
     }}
 }
 
-function legend(event){
-  if (event === 'expand'){
-    console.log('Give details')
-    $('#collapse').removeClass('hide')
-    $('#expand').addClass('hide')
-    $('#lone-project-detailed').removeClass('hide')
-    $('#cluster-detailed').removeClass('hide')
-    $('#legend-sep').removeClass('hide')
+function legend(event, legend){
+  if (legend === 'cluster'){
+    if (event === 'expand'){
+      // $('#legend-sep').removeClass('hide')
+      $('#lone-project-legend').addClass('hide')
+      $('#cluster-detailed').removeClass('hide')
+      $('#cluster-collapse').removeClass('hide')
+      $('#cluster-expand').addClass('hide')
+    } else {
+      $('#lone-project-legend').removeClass('hide')
+      $('#cluster-detailed').addClass('hide')
+      $('#cluster-collapse').addClass('hide')
+      $('#cluster-expand').removeClass('hide')
+    }
+    
   } else {
-    console.log('Hide details')
-    $('#expand').removeClass('hide')
-    $('#collapse').addClass('hide')
-    $('#lone-project-detailed').addClass('hide')
-    $('#cluster-detailed').addClass('hide')
-    $('#legend-sep').addClass('hide')
+    if (event === 'expand'){
+      console.log('Give details')
+      $('#cluster-legend').addClass('hide')
+      $('#collapse').removeClass('hide')
+      $('#expand').addClass('hide')
+      $('#lone-project-detailed').removeClass('hide')
+      // $('#legend-sep').removeClass('hide')
+    } else {
+      console.log('Hide details')
+      $('#cluster-legend').removeClass('hide')
+      $('#expand').removeClass('hide')
+      $('#collapse').addClass('hide')
+      $('#lone-project-detailed').addClass('hide')
+      // $('#legend-sep').addClass('hide')
+    }
   }
+  
   
 }
 
