@@ -6,6 +6,7 @@ var countries = {};
 var projectCountries, memberCountries = [];
 var activeCountries = {};
 var currentTab = '';
+var centroids = {};
 
 fetch('/countries.json')
   .then(function(response) {
@@ -20,6 +21,15 @@ fetch('/countries.json')
     memberCountries = countriesList.filter(function(item) {
       return countries[item].member && !projectCountries.includes(item);
     });
+  }
+);
+
+fetch('/country-centroids.json')
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function(jsonData) {
+    centroids = jsonData;
   }
 );
 
@@ -108,8 +118,8 @@ map.on('load', function () {
   });
 
   map.addSource('countriescentroids', {
-    "type": "vector",
-    "url": "mapbox://hot.cjjiblfuc0ka332olxirvpuwa-13mqx"
+    "type": "geojson",
+    "data": centroids
   });
 
   map.addSource('allprojects', {
@@ -153,7 +163,6 @@ map.on('load', function () {
     "id": "centroids_project_countries",
     "type": "circle",
     "source": "countriescentroids",
-    "source-layer": "country-centroids",
     "minzoom": 0,
     "maxzoom": 8,
     "filter": ['in', 'NAME'].concat(projectCountries),
@@ -167,7 +176,6 @@ map.on('load', function () {
     "id": "centroids_member_countries",
     "type": "circle",
     "source": "countriescentroids",
-    "source-layer": "country-centroids",
     "minzoom": 0,
     "maxzoom": 8,
     "filter": ['in', 'NAME'].concat(memberCountries),
@@ -181,7 +189,6 @@ map.on('load', function () {
     'id': 'active_centroids_project_countries',
     'type': 'circle',
     "source": "countriescentroids",
-    "source-layer": "country-centroids",
     "filter":['all', ['in', 'NAME'].concat(activeCountries.countries), ['in', 'NAME'].concat(projectCountries) ],
     "paint": {
             "circle-radius": 2,
@@ -193,7 +200,6 @@ map.on('load', function () {
     "id": "active_centroids_project_countries_pulse",
     "type": "circle",
     "source": "countriescentroids",
-    "source-layer": "country-centroids",
     "minzoom": 0,
     "maxzoom": 8,
     "filter":['all', ['in', 'NAME'].concat(activeCountries.countries), ['in', 'NAME'].concat(projectCountries) ],
