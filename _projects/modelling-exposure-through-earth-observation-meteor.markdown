@@ -1,5 +1,5 @@
 ---
-title: 'Modelling exposure through earth observation: METEOR'
+title: 'Modelling Exposure Through Earth Observation Routines: METEOR'
 date: 2018-05-01 05:11:00 Z
 position: 16
 Project Summary Text: HOT has partnered with the British Geological Survey (BGS),
