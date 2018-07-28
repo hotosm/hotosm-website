@@ -2,12 +2,15 @@
 title: HOT Conversations at State of the Map 2018
 date: 2018-07-28 09:39:00 Z
 Feature Image: "/uploads/IMG_3803-small.JPG"
-Person: Nate Smith
+Person:
+- Nate Smith
+- Amelia Hunt
+- Russell Deffner
 ---
 
 There has been a lot of activity lately within the HOT Community and we’re ready to share this at [State of the Map 2018](https://2018.stateofthemap.org/) in Milan this weekend. Many from the community will be in attendance, giving talks, or holding birds of a feather conversations.
 
-Here is a quick rundown of talks from community members and some of the birds of a feather conversations being planned.
+Here is a quick rundown of talks from community members and some of the birds of a feather conversations being planned. Check out the [full program](https://2018.stateofthemap.org/program/) or watch the [live stream](https://www.youtube.com/channel/UCLqJsr_5PfdvDFbgv1qp2aQ).
 
 ## Talks and Workshops
 
@@ -53,8 +56,12 @@ Here is a quick rundown of talks from community members and some of the birds of
 
 ## Birds of a Feather
 
-* OSM Analytics, Saturday at 14:00
+* OSM Analytics, Saturday @ 14:00
 
-* Tasking Manager, Monday morning
+* Mapathon with YouthMappers/PoliMappers, Sunday @ 16:45
+
+* Tasking Manager, Monday @ 10:15
+
+* Machine Learning Best Practices, Monday @ 11:30
 
 After State of the Map is over, we’ll post links to the videos and pictures online here. [Reach out on Twitter](https://twitter.com/hotosm) if you want to meet up with anyone from the HOT community while you’re in Milan, we'd love to see you!
