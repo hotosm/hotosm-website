@@ -10,7 +10,7 @@ Person:
 
 There has been a lot of activity lately within the HOT Community and we’re ready to share this at [State of the Map 2018](https://2018.stateofthemap.org/) in Milan this weekend. Many from the community will be in attendance, giving talks, or holding birds of a feather conversations.
 
-Here is a quick rundown of talks from community members and some of the birds of a feather conversations being planned. Check out the [full program](https://2018.stateofthemap.org/program/) or watch the [live stream](https://www.youtube.com/channel/UCLqJsr_5PfdvDFbgv1qp2aQ).
+Here is a quick rundown of talks from community members and some of the birds of a feather conversations being planned. This is just the talks and workshops, there a number of [lightning talks](https://2018.stateofthemap.org/lightning_talks/) as well. Check out the [full program](https://2018.stateofthemap.org/program/) or watch the [live stream](https://www.youtube.com/channel/UCLqJsr_5PfdvDFbgv1qp2aQ).
 
 ## Talks and Workshops
 
