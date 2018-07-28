@@ -60,7 +60,7 @@ Here is a quick rundown of talks from community members and some of the birds of
 
 * Mapathon with YouthMappers/PoliMappers, Sunday @ 16:45
 
-* Tasking Manager, Monday @ 10:15
+* Tasking Manager Roadmap, Monday @ 10:15
 
 * Machine Learning Best Practices, Monday @ 11:30
 
