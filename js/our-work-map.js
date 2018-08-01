@@ -317,14 +317,14 @@ function pulseMarker(timestamp){
     multiplier += .1;
     opacity -= ( .3 / framesPerSecond );
     circleRadius += ( 1 / framesPerSecond );
-
-    map.setPaintProperty('active_centroids_project_countries_pulse', 'circle-opacity', opacity)
-    map.setPaintProperty('active_centroids_project_countries_pulse', 'circle-radius', circleRadius)
-
-    if (opacity <= 0.1) {
+    if (opacity <= 0) {
       opacity = 1;
       circleRadius = 3;
     }
+    map.setPaintProperty('active_centroids_project_countries_pulse', 'circle-opacity', opacity)
+    map.setPaintProperty('active_centroids_project_countries_pulse', 'circle-radius', circleRadius)
+
+    
 
   }, 1000 / framesPerSecond );
 }
