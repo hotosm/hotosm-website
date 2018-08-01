@@ -26,18 +26,23 @@ layout: default
         <div id = 'project-area-legend' class='hide'>
             <div id = 'cluster-legend' >
                 <p style="display: inline-block;">
-                    <div class = "edits-circle" style='left:-12px;top: 6px; display:inline-block;border: 13px solid rgb(183,186,203,0.65);'></div>
-                    <span style = "font-size:14px; color: $blue-grey;"># of projects in the vicinity</span>    
-                    <div id ='cluster-expand-collapse' style="display: inline-block;">
-                      <i id ='cluster-expand' class="right" onclick="legend('expand', 'cluster')"></i> 
-                      <i id ='cluster-collapse' class="left hide" onclick="legend('collapse', 'cluster')"></i>
-                    </div> 
+                    <div class = "edits-circle" style='left:-12px;top: 6px; display:inline-block;border: 10px solid rgb(183,186,203,0.65);'></div>
+                    <span style = "font-size:12px; color:#929DB3"># of Tasking Manager projects 
+                      <span id ='cluster-expand' onclick="legend('expand', 'cluster')" style="font-size: 18px; color:#000000; font-weight:bold; padding:5px;">></span>
+                      <span id ='cluster-collapse' onclick="legend('collapse', 'cluster')" class="hide" style="font-size: 18px; color:#000000; font-weight:bold; padding:5px;" class="hide"><</span>
+                    
+                    <!-- <span id ='cluster-expand-collapse' style="padding:4px; display: inline-block;">
+                        <i id ='cluster-expand' class="right" onclick="legend('expand', 'cluster')"></i> 
+                        <i id ='cluster-collapse' class="left hide" onclick="legend('collapse', 'cluster')"></i>
+                      </span>  -->
+                    </span>    
+                    
                     <div id = 'cluster-detailed' class='hide' style="display: inline-block">
                         <span style="font-style:italic; font-size:10px; color:#929DB3">&nbsp;Less projects</span>
                         <div class='cluster-circle' style="display:inline-block;height: 20px; width: 20px;"></div>
                          <div class='cluster-circle' style="display:inline-block;height: 30px; width: 30px;"></div>
                          <div class='cluster-circle' style="display:inline-block;height: 40px; width: 40px;"></div>
-                         <div class='cluster-circle' style="display:inline-block;height: 50px; width: 50px;"></div>
+                         <div class='cluster-circle' style="display:inline-block;height: 50px; width: 50px; margin-top:5px"></div>
                          <span style="font-style:italic; font-size:10px; color:#929DB3">More projects</span>
                      </div>
                 </p>
@@ -51,11 +56,15 @@ layout: default
                           </div>
                         </div>
                       </div>
-                  <span style="font-size:14px; color:$blue-grey;" >Tasking Manager project</span>  
-                  <div id ='project-expand-collapse' style="display: inline-block;">
+                  <span id="project-expand-collapse" style="font-size:12px; color:#929DB3" >Tasking Manager project
+                      <span id ='expand' onclick="legend('expand')" style="font-size: 18px; color:#000000; font-weight:bold; padding:5px;">></span>
+                      <span id ='collapse' onclick="legend('collapse')" class="hide" style="font-size: 18px; color:#000000; font-weight:bold; padding:5px;" class="hide"><</span>
+                    
+                  </span>  
+                  <!-- <div id ='project-expand-collapse' style="display: inline-block;">
                       <i id ='expand' class="right" onclick="legend('expand')"></i> 
                       <i id ='collapse' class="left hide" onclick="legend('collapse')"></i>
-                  </div> 
+                  </div>  -->
                   <div id = 'lone-project-detailed' style="display: inline-block" class='hide'>
                       <span style="font-style:italic; font-size:10px; color:#929DB3">Less edits</span>
                       <div class = "edits-circle" style='display:inline-block;border: 10px solid rgb(255,193,81,0.7);'>
@@ -78,7 +87,7 @@ layout: default
                           </div>
                         </div>
                       </div>
-                      <div class = "edits-circle" style='display:inline-block;border: 25px solid rgb(255,193,81,0.7);'>
+                      <div class = "edits-circle" style='display:inline-block;border: 25px solid rgb(255,193,81,0.7); margin-top:5px'>
                           <div class ="black-circle" style="top:-6.7px; left:-6px" >
                             <div class ="plus bold" style="top:-4px; left:2px" >+
                             </div>
