@@ -265,7 +265,8 @@ map.addLayer({
     "layout" : {
       "visibility": "none",
       "text-field": "+",
-      "text-font" : ["Open Sans Bold"]
+      "text-font" : ["Open Sans Bold"],
+      "text-offset": [-0.001, -0.03]
     },
    "paint": {
      "text-color": "#FFFFFF"
