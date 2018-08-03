@@ -602,6 +602,19 @@ em {
       }
     }
   }
+  &.btn-icon-lg {
+    height: 48px;
+    width: 48px;
+    padding-right: 0;
+    overflow: hidden;
+    text-indent: -9999px;
+    &:after {
+      width: 18px;
+      height: 18px;
+      top: 15px;
+      right: 15px;
+    }
+  }
   &.btn-block {
     display: block;
     margin-right: 0;
@@ -2474,9 +2487,9 @@ em {
   margin-top: 10%;
   position: relative;
   text-align: center;
-  color: #D73F3F;
+  color: rgba(215, 63, 63, .75);
   font-weight: bold;
-  font-size: 0.875rem;
+  font-size: 0.8125rem;
 }
 
 .impact-map-area {
@@ -2490,6 +2503,7 @@ em {
   width: 100%;
   margin-bottom: 40px;
   position: absolute;
+  background-color: $red-light;
   border-bottom: 1px solid $border-color;
   overflow: hidden;
   #expand-map-btn, #close-map-btn {
@@ -2498,8 +2512,8 @@ em {
     right: 40px;
     background-color: $blue-dark;
     @media (max-width: $screen-xs) {
-      top: -56px;
-      left: 16px;
+      top: -64px;
+      left: auto;
       right: 16px;
     }
   }
@@ -2526,10 +2540,57 @@ em {
   }
 }
 
+.our-work-map-tabs {
+  position: absolute;
+  bottom: 164px;
+  right: 104px;
+  display: flex;
+  z-index: 4;
+  background-color: #fff;
+  border-radius: $default-border-radius;
+  box-shadow: $default-box-shadow;
+  @media (max-width: $screen-xs) {
+    bottom: 147px;
+    left: 16px;
+    right: auto;
+  }
+}
+
 .mapboxgl-ctrl-bottom-right a.mapboxgl-ctrl-logo {
   position: absolute;
   bottom: 13px;
   right: 42px;
+}
+
+.our-work-map-tab {
+  padding: 0 16px;
+  border-right: 1px solid $border-color;
+  &:last-child {
+    border-right: none;
+  }
+  .tablinks {
+    font-family: $font-headline;
+    font-size: 1rem;
+    letter-spacing: .035em;
+    color: $red;
+    text-transform: uppercase;
+    background: none;
+    min-height: 48px;
+    border: none;
+    border-bottom: 2px solid transparent;
+    padding: 13px 0;
+    cursor: pointer;
+    &:hover {
+      border-color: tint($red, 75%);
+    }
+    &.active {
+      border-color: $red;
+      cursor: default;
+      &:hover {
+        border-color: $red;
+      }
+    }
+  }
 }
 
 .legend-item {
@@ -2569,9 +2630,18 @@ em {
   }
 }
 
-#hover-country {
+#hover-details {
   position: absolute;
   left: 40px;
+  top: 24px;
+  @media (max-width: $screen-xs) {
+    display: none;
+  }
+}
+
+#country-legend-details {
+  position: absolute;
+  right: 40px;
   top: 24px;
   @media (max-width: $screen-xs) {
     display: none;
@@ -2595,6 +2665,96 @@ em {
     background-color: $blue-dark;
     color: $white;
     font-weight: bold;
+  }
+  .hover-edits {
+    background-color: #FFC151;
+    color: $white;
+    font-weight: bold;
+  }
+  .legend-prefix {
+    background-color: #F0EFEF;
+    color: #A9ACB5;
+  
+  }
+}
+
+.full-circle {
+  background-color:red;
+  height:150px;
+  width:150px;
+  -webkit-border-radius:75px;
+  -moz-border-radius:75px;
+}
+
+
+
+.edits-circle {
+  background-color: rgba(204, 0, 102, 0);
+  border: 10px solid rgba(255,193,81,0.7);
+  height:10px;
+  width:10px;
+  -webkit-border-radius:25px;
+  -moz-border-radius:25px;
+  position:relative;
+}
+
+.black-circle {
+ height: 13px;
+ width: 13px;
+ background-color: #000;
+ opacity: 1;
+ position: absolute;
+ border-radius: 50%;
+}
+
+.plus {
+  font-family:'Open Sans',sans-serif;
+  .bold {
+    font-weight:700;
+  }
+ font-style: 'bold';
+ font-size: 16px;
+ color: white;
+ position: absolute;
+ opacity: 1;
+ top: -2px;
+ left: 2px;
+}
+
+.cluster-circle {
+  height: 20px;
+  width: 20px;
+  background-color: #B7BACB;
+  opacity: 0.65;
+  border-radius: 50%;
+ }
+
+#project-expand-collapse, #cluster-expand-collapse{
+  // background-color: #F0EFEF;
+  color: #A9ACB5;
+  padding: 5px;
+  i {
+    border:solid #000000;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 2px;
+  }
+  .up {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+  }
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+  .left {
+      transform: rotate(135deg);
+      -webkit-transform: rotate(135deg);
   }
 }
 
@@ -2663,6 +2823,11 @@ em {
 
 .mapboxgl-canvas-container {
   position: absolute;
+}
+
+.mapboxgl-canvas {
+  // width: 100% !important;
+  // height: 100% !important;
 }
 
 .country-contact {
@@ -2828,7 +2993,7 @@ em {
 .project-map-area #our-work-title {
   @media (max-width: $screen-xs) {
     position: relative;
-    top: -72px;
+    top: -80px;
   }
 }
 
@@ -3491,9 +3656,9 @@ sup {
 }
 
 .loader, .osm-loader {
-  border: 2px solid #f3f3f3;
+  border: 2px solid rgba(215, 63, 63, .35);
   border-radius: 50%;
-  border-bottom: 2px solid grey;
+  border-bottom: 2px solid $blue-dark;
   width: 20px;
   height: 20px;
   -webkit-animation: spin 2s linear infinite;
