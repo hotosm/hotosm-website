@@ -1,4 +1,8 @@
 var countries;
+var countryData = {
+  "type": "FeatureCollection",
+  "features": []
+};
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
 var map = new mapboxgl.Map({
@@ -9,12 +13,27 @@ var map = new mapboxgl.Map({
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 });
 
+fetch('/aggregatedStats.json')
+.then(function(response) {
+  return response.json();
+})
+.then(function(jsonData) {
+  var countryTitle = $(document).find("title").text().split('|')[1].trim();
+  countryData.features = (jsonData[countryTitle]);
+  console.log(countryData);
+}
+);
+
 map.on('load', function() {
   map.addSource('countriesbetter', {
     "type": "vector",
     "url": "mapbox://hot.9fvp7us2"
   });
-
+  map.addSource('countriesProjects', {
+    "type": "geojson",
+    "data": countryData
+  });
+  
   map.addLayer({
     "id": "active_countries",
     "type": "fill",
@@ -28,6 +47,35 @@ map.on('load', function() {
       "fill-outline-color": "#EFB4B4"
     }
   }, 'place-city-sm');
+
+  map.addLayer({
+    "id": "country-projects-black-circle",
+    "type": "circle",
+    "source": "countriesProjects",
+    "minzoom": 0,
+    "maxzoom": 18,
+   "paint": {
+    'circle-radius': 6.5,
+    "circle-opacity": 1,
+    "circle-color": "#000000",
+    }
+  }, 'place-city-sm');
+  
+map.addLayer({
+    "id": "country-projects-symbol",
+    "type": "symbol",
+    "source": "countriesProjects",
+    "minzoom": 0,
+    "maxzoom": 18,
+    "layout" : {
+      "text-field": "+",
+      "text-font" : ["Open Sans Bold"]
+    },
+   "paint": {
+     "text-color": "#FFFFFF"
+    }
+  }, 'place-city-sm');
+
   fetch('/js/bbox.json')
     .then(function(response) {
       return response.json();
