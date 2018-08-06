@@ -49,6 +49,31 @@ map.on('load', function() {
   }, 'place-city-sm');
 
   map.addLayer({
+    "id": "country-projects-edits-circle",
+    "type": "circle",
+    "source": "countriesProjects",
+    "minzoom": 0,
+    "maxzoom": 18,
+   "paint": {
+    'circle-radius': {
+      property: 'edits',
+      stops: [
+      [0, 10],
+      [10000, 15],
+      [50000, 20],
+      [100000, 25],
+      [125000, 30],
+      [150000, 35],
+      [200000, 40]
+
+      ]
+     },
+    "circle-opacity": 0.7,
+    "circle-color": "#FFC151",
+    }
+  }, 'place-city-sm');
+
+  map.addLayer({
     "id": "country-projects-black-circle",
     "type": "circle",
     "source": "countriesProjects",
@@ -69,7 +94,8 @@ map.addLayer({
     "maxzoom": 18,
     "layout" : {
       "text-field": "+",
-      "text-font" : ["Open Sans Bold"]
+      "text-font" : ["Open Sans Bold"],
+      "text-offset": [-0.001, -0.03]
     },
    "paint": {
      "text-color": "#FFFFFF"
