@@ -26,21 +26,21 @@ Untuk membantu administrasi dan manajemen internal, HOT merekrut seorang Junior 
 
 Junior Finance and Accounting Officer akan bertanggung jawab kepada Senior Finance and Accounting Officer untuk membantu mengelola keuangan dan administrasi proyek HOT di Indonesia, termasuk di dalamnya manajemen anggaran, administrasi perjalanan dan penyusunan laporan keuangan. Tanggung jawab utamanya adalah sebagai berikut:
 
-Manajemen semua operasi keuangan dari HOT Indonesia untuk proyek PDC,
-Manajemen anggaran dan pengeluaran,
-Manajemen gaji dan pajak,
-Administrasi yang berkaitan dengan perjalanan,
-Penyusunan laporan keuangan proyek
+* Manajemen semua operasi keuangan dari HOT Indonesia untuk proyek PDC,
+* Manajemen anggaran dan pengeluaran,
+* Manajemen gaji dan pajak,
+* Administrasi yang berkaitan dengan perjalanan,
+* Penyusunan laporan keuangan proyek.
  
 
 ## Kualifikasi
 
-1. Sarjana di bidang ekonomi dan akuntansi,
-Setidaknya memiliki 1 tahun pengalaman kerja di bidang keuangan dan akuntansi,
-Memiliki pengetahuan tentang pajak lebih disukai,
-Pengalaman kerja sebelumnya di organisasi non-profit lebih disukai,
-Lancar berbahasa Indonesia dan mampu bekerja dengan Bahasa Inggris.
-Berdomisili di Jakarta.
+* Sarjana di bidang ekonomi dan akuntansi,
+* Setidaknya memiliki 1 tahun pengalaman kerja di bidang keuangan dan akuntansi,
+* Memiliki pengetahuan tentang pajak lebih disukai,
+* Pengalaman kerja sebelumnya di organisasi non-profit lebih disukai,
+* Lancar berbahasa Indonesia dan mampu bekerja dengan Bahasa Inggris.
+* Berdomisili di Jakarta.
  
 
 ## Informasi Tambahan
@@ -51,4 +51,4 @@ Posisi ini berbasis di Jakarta di kantor yang akan disediakan HOT. Saat ini posi
 
 ## Untuk Melamar
 
-Kirim surat lamaran, CV dan gaji yang diharapkan ke recruitment.id@hotosm.org dengan menuliskan format (NAMA)_JFAO. Lamaran paling lambat diterima 24 Agustus 2018 pukul 23.59 WIB
+Kirim surat lamaran, CV dan gaji yang diharapkan ke recruitment.id@hotosm.org dengan menuliskan format (NAMA)_JFAO. Lamaran paling lambat diterima 24 Agustus 2018 pukul 23.59 WIB.
