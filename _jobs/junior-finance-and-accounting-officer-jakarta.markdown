@@ -39,7 +39,7 @@ Sarjana di bidang ekonomi dan akuntansi,
 Setidaknya memiliki 1 tahun pengalaman kerja di bidang keuangan dan akuntansi,
 Memiliki pengetahuan tentang pajak lebih disukai,
 Pengalaman kerja sebelumnya di organisasi non-profit lebih disukai,
-Lancar berbahasa Indonesia dan mampu bekerja dengan Bahasa Inggris,
+Lancar berbahasa Indonesia dan mampu bekerja dengan Bahasa Inggris.
 Berdomisili di Jakarta.
  
 
