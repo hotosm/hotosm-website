@@ -12,7 +12,7 @@ Humanitarian OpenStreetMap Team (HOT) telah berada di Indonesia sejak 2011 dan b
 Untuk membantu administrasi dan manajemen internal, HOT merekrut seorang Junior Finance and Accounting Officer.
 
 
-Tugas dan Tanggung Jawab
+## Tugas dan Tanggung Jawab
 
 Junior Finance and Accounting Officer akan bertanggung jawab kepada Senior Finance and Accounting Officer untuk membantu mengelola keuangan dan administrasi proyek HOT di Indonesia, termasuk di dalamnya manajemen anggaran, administrasi perjalanan dan penyusunan laporan keuangan. Tanggung jawab utamanya adalah sebagai berikut:
 
@@ -23,7 +23,7 @@ Administrasi yang berkaitan dengan perjalanan,
 Penyusunan laporan keuangan proyek
  
 
-Kualifikasi
+## Kualifikasi
 
 Sarjana di bidang ekonomi dan akuntansi,
 Setidaknya memiliki 1 tahun pengalaman kerja di bidang keuangan dan akuntansi,
@@ -33,12 +33,12 @@ Lancar berbahasa Indonesia dan mampu bekerja dengan Bahasa Inggris,
 Berdomisili di Jakarta.
  
 
-Informasi Tambahan
+## Informasi Tambahan
 
 Posisi ini berbasis di Jakarta di kantor yang akan disediakan HOT. Saat ini posisi ini sudah disetujui pendanaannya hingga akhir Desember 2018 dan kemungkinan diperpanjang sejalan dengan pendanaan HOT di Indonesia.
 
  
 
-Untuk Melamar
+## **Untuk Melamar**
 
 Kirim surat lamaran, CV dan gaji yang diharapkan ke recruitment.id@hotosm.org dengan menuliskan format (NAMA)_JFAO. Lamaran paling lambat diterima 24 Agustus 2018 pukul 23.59 WIB
