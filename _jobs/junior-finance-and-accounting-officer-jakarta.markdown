@@ -1,7 +1,7 @@
 ---
 title: Junior Finance and Accounting Officer (Jakarta)
 date: 2018-08-10 09:47:00 Z
-Deadline Date: 2024-01-01 00:00:00 Z
+Deadline Date: 2018-08-24 00:00:00 Z
 Place of Work: Jakarta, Indonesia
 ---
 
