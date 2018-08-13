@@ -124,17 +124,13 @@
                             {% for country in post.Country %}
                               {% if country != '' %}
                                 {{ country }}{% unless forloop.last %},{% endunless %}
-                                {% if forloop.last %} - {% endif %}
                               {% else %}
-                                Global -
+                                Global
                               {% endif %}
                             {% endfor %}
                           {% endif %}
-                          <!-- {% capture post.Person %}{% endcapture %} -->
-                          <!-- {% assign author = site.people | where: "title", post.Person | first %} -->
                           {% if post.Person %}
-                          <!-- {% assign authors = post.Person | split: ", " %} -->
-                            {% for author in post.Person %}
+                            -{% for author in post.Person %}
                               {{ author }}{% unless forloop.last %},{% endunless %}
                             {% endfor %}
                           {% endif %}
