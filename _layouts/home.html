@@ -130,10 +130,13 @@
                               {% endif %}
                             {% endfor %}
                           {% endif %}
-                          {% capture post.Person %}{% endcapture %}
-                          {% assign author = site.people | where: "title", post.Person | first %}
+                          <!-- {% capture post.Person %}{% endcapture %} -->
+                          <!-- {% assign author = site.people | where: "title", post.Person | first %} -->
                           {% if post.Person %}
-                            {{ post.Person }}
+                          <!-- {% assign authors = post.Person | split: ", " %} -->
+                            {% for author in post.Person %}
+                              {{ author }}{% unless forloop.last %},{% endunless %}
+                            {% endfor %}
                           {% endif %}
                         </p>
                       </div>
