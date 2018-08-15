@@ -1,7 +1,7 @@
 ---
 title: Exploring the possibilities of mapping and identity in Cusco, Peru
 date: 2018-08-14 10:52:00 Z
-Summary Text: Empowering youth under the Nethope grant at GAL School in Cusco
+Summary Text: Using a Nethope Device Grant to empower young people in Peru
 Feature Image: "/uploads/GAL2.jpg"
 Working Group:
 - Community
@@ -11,9 +11,9 @@ Project:
 - 'Community development: Microgrants and Device Grants'
 ---
 
-In 2017 HOT received a grant from Nethope under the Nethope Device Challenge program. 22 OpenStreetMap communities were beneficiaries of the grant across 20 countries. Over the next few weeks we will be sharing some of their success stories. The following story is from the Global Active Learning (GAL) School in Peru, where children are being taught the impact of OSM in their communities. 
+In 2017 HOT received a grant from Nethope under the Nethope Device Challenge program. 22 OpenStreetMap communities were beneficiaries of the grant across 20 countries. Over the next few weeks we will be sharing some of their success stories. The following story is from the Global Active Learning (GAL) School in Peru, where children are being taught the impact of OSM in their communities.
 
-\*Guest blog from Pete 
+\*Guest blog from Pete Ward, Community Lead for GAL School\*
 
 Our objective is to empower secondary school children in Cusco to improve their society through projects using OpenStreetMap (OSM) tools and a 360 camera to create extended reality content. Youth in two schools have explored the art of the possible with the tools available, analysed their own societies and targeted specific things they want to change. Ideas currently being developed by youth range from improving the semi-formal public transport system to sharing and promoting regional and local cultures and traditions to raising awareness of gender biases. In one instance, an informal conversation occurred with two 9th grade female students discussing sexist stereotyping from others in their class, which turned into a project they’re now leading to map sexist advertising and imagery across the city, inspired by the work of other groups using OSM.
 
@@ -31,7 +31,6 @@ In the short-term we will work with three schools from different geo-social area
 
 In the longer-term, we plan to build OSM activities with youth into multiple future projects outside of the school. We are already in advanced stages of confirming an alliance with an international NGO focused on immaterial cultural with the goal of expanding the use of mapping and documenting cultural traditions nationally and across Latin America. We also hope to partner with Ministry of Culture to create an open-source, participative version of Google Open Heritage – empowering youth to working with government authorities and map areas of historic interest.
 
-\
 In addition to the mapping focus, the technology has already provided additional educational benefits to Peruvian youth – providing the school with its first computer laboratory and enabling students of all ages to experience extended reality content in lessons, including a VR flight through space with primary school students to teach about the solar system in Physics classes, a VR experience of how it feels to have autism for teachers being challenged to work with an autistic child, and secondary school students exploring the human heart through Augmented Reality to support Biology classes.
 
 *"I feel very lucky to be using these devices. Its helped to show me that we can use technology to help our city and society"* - Abril, Year 9
@@ -39,5 +38,3 @@ In addition to the mapping focus, the technology has already provided additional
 ***![](https://lh3.googleusercontent.com/jr1igS5f1zDRpbOcgCIqt835WuiPI8q6iRuT9rQ5NKHmn0d-K8__7SRJlHIetSGbtrbKdaK1gVGPLJZbfaXKPVQDzAcWHkuREHksDJSCijR22wa6O9UShb7G2PKwLphGworSh3oj)***
 
 360 photo of pupils at Panticalle School, a rural remote school where children have no technology access. Using the devices, and in collaboration with children at the school, we’ve mapped the Inca trails surrounding the school - June 2018.
-
-\
