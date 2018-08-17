@@ -9,9 +9,6 @@ tags:
 - risk analysis and mitigation
 Deadline Date: 2018-08-28 00:00:00 Z
 Place of Work: Any HOT office location or remote
-Contract duration: Estimated 25 working days over up to 3 months
-Projected start date: 2018-09-20 00:00:00 Z
-Reports to: Executive Director, Director of Community Programs
 ---
 
 **About HOT**
