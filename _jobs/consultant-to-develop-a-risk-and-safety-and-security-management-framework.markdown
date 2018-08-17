@@ -97,10 +97,10 @@ Provided by the client:
 
 Please submit a single PDF containing the following, on or before 28 August 2018:
 
-1. A resume including qualifications, capacity and expertise;
+1. A resume including qualifications, capacity and expertise (maximum 2 pages);
 
-2. A proposal (max 3 pages) outlining the proposed Methodology, Approach and Implementation Plan;
+2. A proposal (maximum 3 pages) outlining the proposed Methodology, Approach and Implementation Plan;
 
-3. Examples or links to examples of relevant prior work.
+3. Examples or links to examples of relevant prior work (maximum 2 pages).
 
 Fill in the application form [here]()
