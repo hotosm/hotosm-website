@@ -51,7 +51,7 @@ Provided by the client:
 3. Standard Operating Procedures and Safety Management Plan templates at the country and project level.
 
 ## About You
-Essential:
+### Essential:
 * University or college degree.
 * At least 5 years experience working in development cooperation and donor funded projects.
 * At least 2-3 years experience working in a mid/senior level security management roles.
@@ -64,7 +64,7 @@ Essential:
 * Able to travel 1-2 times during consultancy.
 
 
-## Additional desirable skillsets
+### Additional desirable skillsets
 * Masters degree or PhD. 
 * Experience in humanitarian response, open data or open source strongly desired.
 * Sector expertise in disaster risk reduction or management and/or public health.
