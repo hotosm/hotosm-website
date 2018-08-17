@@ -38,9 +38,9 @@ Provided by the client:
 
 ## Activities include:
 1. Review/Desk Study
-  * Conduct a desk review and produce a synthesis of HOT’s current safety and security planning, risks and procedures across 3-4 country locations.
-  * Review existing Security Plans and procedures across projects to determine common approaches, identified risks, mitigations and procedures.
-  * Consult with and survey HOT staff, including country and project managers and HQ staff, to assess prevalent risks to individual projects, country level operations and financial, programmatic and institutional to the organization.
+ * Conduct a desk review and produce a synthesis of HOT’s current safety and security planning, risks and procedures across 3-4 country locations.
+ * Review existing Security Plans and procedures across projects to determine common approaches, identified risks, mitigations and procedures.
+ * Consult with and survey HOT staff, including country and project managers and HQ staff, to assess prevalent risks to individual projects, country level operations and financial, programmatic and institutional to the organization.
 2. Identification of specific areas of risk, recommendations for mitigation of these risks, and creating recommendations for the strengthening and improvement of HOT’s overall safety and security planning.
 3. Assist country offices in implementing safety assurance and promotion, and effective communication and implementation of safety planning.
 
