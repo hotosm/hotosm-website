@@ -71,8 +71,10 @@ Provided by the client:
 
 ## To Apply
 
-Please submit a single PDF containing the following:
+Please submit a single PDF containing the following, on or before 28 August 2018:
 
 1. A resume including qualifications, capacity and expertise;
 2. A proposal (max 3 pages) outlining the proposed Methodology, Approach and Implementation Plan;
 3. Examples or links to examples of relevant prior work.
+
+Fill in the application form [here]()
