@@ -11,14 +11,17 @@ Deadline Date: 2018-08-28 00:00:00 Z
 Place of Work: Any HOT office location or remote
 ---
 
+**Contract duration:** Estimated 25 working days over up to 3 months
+
+**Location/Duty Station:** Any HOT office location or remote
+
+**Projected start date:** 3 September, 2018
+
+**Reports to:** Executive Director, Director of Community Programs
+
 ##About HOT
 
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 50,000 people with ground operations in five countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
-
-**Contract duration:** Estimated 25 working days over up to 3 months
-**Location/Duty Station:** Any HOT office location or remote
-**Projected start date:** 3 September, 2018
-**Reports to:** Executive Director, Director of Community Programs
  
 ##About the Position
 As HOT grows, the diverse set of mapping, training, data collection, and technology innovation projects in our portfolio have increasingly varying ways of contributing to our overall impact. Each project carries out important activities, but we currently lack a consolidated approach to safety and security planning across these projects. This also covers an assessment of risk to the organization itself, country offices (3-4 countries), and a selected set of individual projects.
