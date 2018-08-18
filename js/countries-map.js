@@ -4,6 +4,7 @@ var countryData = {
   "features": []
 };
 var years = []
+var count = {}
 var container = document.getElementById('year-checkbox')
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
@@ -27,10 +28,30 @@ fetch('/aggregatedStats.json')
     if (years.indexOf(countryProject.properties['created']) < 0) {
       years.push(countryProject.properties['created'])
     }
+    if (count[countryProject.properties['status']]){
+      count[countryProject.properties['status']]++
+    } else {
+      count[countryProject.properties['status']] = 1
+    }
+    if (count[countryProject.properties['created']]){
+      count[countryProject.properties['created']]++
+    } else {
+      count[countryProject.properties['created']] = 1
+    }
   })
+  var activeCount = countryData.features.filter(proj => proj.properties['status'] === 'PUBLISHED').length
   console.log(countryData);
   console.log(years);
+  console.log(activeCount);
+  console.log(count);
   years.sort();
+  var filterHeader = document.getElementById('filter-header')
+  filterHeader.innerHTML = 'Filter ' + countryData.features.length + ' tasking manager projects by:'
+  var activeLabel = document.getElementById('active-label')
+  activeLabel.innerHTML = 'Active (' + count['PUBLISHED'] + ')'
+  var archivedLabel = document.getElementById('archived-label')
+  archivedLabel.innerHTML = 'Archived (' + count['ARCHIVED'] + ')'
+  
   years.forEach(year => {
     var checkbox = document.createElement('input');
     checkbox.type = "checkbox";
@@ -40,7 +61,7 @@ fetch('/aggregatedStats.json')
     checkbox.id = year;
     var label = document.createElement('label')
     label.htmlFor = year;
-    label.appendChild(document.createTextNode(year));
+    label.appendChild(document.createTextNode(year + ' (' + count[year] + ')'));
 
     container.appendChild(checkbox);
     container.appendChild(label);

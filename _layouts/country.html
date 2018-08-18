@@ -43,23 +43,22 @@ layout: default
     <div class="country-contact">
       
       <div class="wrap">
-          Filter projects by:
+          <span id='filter-header'></span>
           <form action="">
-              <div class="ctn-inputs checkbox">
-                  <h2 class="title">
-                    Status
-                  </h2>
-                  <input type="checkbox" class="style-checkbox" name="checkbox" id="active">
-                  <label for="active">
-                    Active
-                  </label>
-                  <input type="checkbox" class="style-checkbox" name="checkbox" id="archived">
-                  <label for="archived">
-                    Archived
-                  </label>
-                
+            <div class="ctn-inputs checkbox">
+                <h2 class="title">
+                  Status
+                </h2>
+                <input type="checkbox" class="style-checkbox" name="checkbox" id="active">
+                <label id='active-label' for="active">
+                  Active
+                </label>
+                <input type="checkbox" class="style-checkbox" name="checkbox" id="archived">
+                <label id = 'archived-label' for="archived">
+                  Archived
+                </label>
             </div>
-           
+          
             <div id = "year-checkbox" class="ctn-inputs checkbox">
               <h2 class="title">
                 Year
