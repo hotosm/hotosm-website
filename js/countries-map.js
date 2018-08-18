@@ -3,6 +3,8 @@ var countryData = {
   "type": "FeatureCollection",
   "features": []
 };
+var years = []
+var container = document.getElementById('year-checkbox')
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
 var map = new mapboxgl.Map({
@@ -21,7 +23,28 @@ fetch('/aggregatedStats.json')
 .then(function(jsonData) {
   var countryTitle = $(document).find("title").text().split('|')[1].trim();
   countryData.features = (jsonData[countryTitle]);
+  countryData.features.forEach(countryProject => {
+    if (years.indexOf(countryProject.properties['created']) < 0) {
+      years.push(countryProject.properties['created'])
+    }
+  })
   console.log(countryData);
+  console.log(years);
+  years.sort();
+  years.forEach(year => {
+    var checkbox = document.createElement('input');
+    checkbox.type = "checkbox";
+    checkbox.classList.add("style-checkbox");
+    checkbox.name = year;
+    checkbox.value = year;
+    checkbox.id = year;
+    var label = document.createElement('label')
+    label.htmlFor = year;
+    label.appendChild(document.createTextNode(year));
+
+    container.appendChild(checkbox);
+    container.appendChild(label);
+  })
 }
 );
 
