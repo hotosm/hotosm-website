@@ -21,7 +21,7 @@ fetch('/aggregatedStats.json')
 .then(function(response) {
   return response.json();
 })
-.then(function(jsonData) {
+.then(function (jsonData) {
   var countryTitle = $(document).find("title").text().split('|')[1].trim();
   countryData.features = (jsonData[countryTitle]);
   countryData.features.forEach(countryProject => {
@@ -47,18 +47,24 @@ fetch('/aggregatedStats.json')
   years.sort();
   var filterHeader = document.getElementById('filter-header')
   filterHeader.innerHTML = 'Filter ' + countryData.features.length + ' tasking manager projects by:'
-  var activeLabel = document.getElementById('active-label')
-  activeLabel.innerHTML = 'Active (' + count['PUBLISHED'] + ')'
+  var publishedLabel = document.getElementById('published-label')
+  publishedLabel.innerHTML = 'Active (' + count['PUBLISHED'] + ')'
   var archivedLabel = document.getElementById('archived-label')
   archivedLabel.innerHTML = 'Archived (' + count['ARCHIVED'] + ')'
   
   years.forEach(year => {
     var checkbox = document.createElement('input');
-    checkbox.type = "checkbox";
-    checkbox.classList.add("style-checkbox");
-    checkbox.name = year;
-    checkbox.value = year;
+    checkbox.type = 'checkbox';
+    checkbox.classList.add('style-checkbox');
+    checkbox.name = 'checkbox';
+    checkbox.value = 'created';
     checkbox.id = year;
+    
+    // checkbox.addEventListener('click', function() {
+    //   showValues(year);
+    // }, false)
+    
+    checkbox.checked = true;
     var label = document.createElement('label')
     label.htmlFor = year;
     label.appendChild(document.createTextNode(year + ' (' + count[year] + ')'));
@@ -77,8 +83,7 @@ map.on('load', function() {
   map.addSource('countriesProjects', {
     "type": "geojson",
     "data": countryData
-  });
-  
+  }); 
   map.addLayer({
     "id": "active_countries",
     "type": "fill",
@@ -129,8 +134,7 @@ map.on('load', function() {
     "circle-opacity": 1,
     "circle-color": "#000000",
     }
-  }, 'place-city-sm');
-  
+  }, 'place-city-sm');  
 map.addLayer({
     "id": "country-projects-symbol",
     "type": "symbol",
@@ -159,8 +163,7 @@ map.addLayer({
         var boxZoom = map.getZoom();
         map.setMinZoom(boxZoom);
         console.log(boxZoom);
-      }, 2000));
-      
+      }, 2000));     
     }
   );
   map.on('mousemove', function(e) {
@@ -168,7 +171,7 @@ map.addLayer({
       e.point,
       {layers: ['country-projects-edits-circle', 'country-projects-black-circle', 'country-projects-symbol']}
     );
-    if (projectHover.length){
+    if (projectHover.length) {
       map.getCanvas().style.cursor = 'pointer';
       $("#hover-details").empty();
       $("#hover-details").removeClass('hide');
@@ -187,12 +190,32 @@ map.addLayer({
                         + "'</a>#" + projectHover[0].properties.id + " - "
                         + projectHover[0].properties.title + "</h6></html>";
       while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-          coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+        coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
       }
     } else {
       map.getCanvas().style.cursor = '';
     }
   });
+
+  $(document).ready(function() {
+    $("input[type='checkbox']").on('change', function() {
+      var yearFilter = ['any']
+      var statusFilter = ['any']
+      var layers = ['country-projects-edits-circle', 'country-projects-black-circle', 'country-projects-symbol']
+      var chkBoxes = document.getElementsByName('checkbox')
+      chkBoxes.forEach(chkBox => {
+        if (chkBox.checked) {
+          var chkBoxFilter = ['==', chkBox.value, chkBox.id.toUpperCase()]
+          if (chkBox.value === 'created') {
+            yearFilter.push(chkBoxFilter)
+          } else statusFilter.push(chkBoxFilter)
+        }
+      })
+      var filter = ['all', yearFilter, statusFilter]
+      console.log(filter)
+      layers.forEach(layer => {
+        map.setFilter(layer, filter)
+      })
+    });
+  });
 });
-
-
