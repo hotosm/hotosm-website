@@ -5,7 +5,7 @@ String.prototype.capitalize = function() {
 var countries = {};
 var projectCountries, memberCountries = [];
 var activeCountries = {};
-var currentTab = '';
+var currentTab = 'country-map';
 var centroids = {};
 
 fetch('/countries.json')
