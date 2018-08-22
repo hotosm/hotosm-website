@@ -39,10 +39,8 @@ fetch('/aggregatedStats.json')
       count[countryProject.properties['created']] = 1
     }
   })
-  var activeCount = countryData.features.filter(proj => proj.properties['status'] === 'PUBLISHED').length
   console.log(countryData);
   console.log(years);
-  console.log(activeCount);
   console.log(count);
   years.sort();
   var filterHeader = document.getElementById('filter-header')
@@ -66,6 +64,7 @@ fetch('/aggregatedStats.json')
     
     checkbox.checked = true;
     var label = document.createElement('label')
+    label.id = year + '-label';
     label.htmlFor = year;
     label.appendChild(document.createTextNode(year + ' (' + count[year] + ')'));
 
@@ -199,8 +198,10 @@ map.addLayer({
 
   $(document).ready(function() {
     $("input[type='checkbox']").on('change', function() {
+      count = {}
       var yearFilter = ['any']
       var statusFilter = ['any']
+      var updateList = []
       var layers = ['country-projects-edits-circle', 'country-projects-black-circle', 'country-projects-symbol']
       var chkBoxes = document.getElementsByName('checkbox')
       chkBoxes.forEach(chkBox => {
@@ -208,14 +209,49 @@ map.addLayer({
           var chkBoxFilter = ['==', chkBox.value, chkBox.id.toUpperCase()]
           if (chkBox.value === 'created') {
             yearFilter.push(chkBoxFilter)
-          } else statusFilter.push(chkBoxFilter)
+            count[chkBoxFilter[2]] = 0;
+            updateList.push(chkBoxFilter[2])
+          } else {
+            statusFilter.push(chkBoxFilter)
+            count[chkBoxFilter[2]] = 0;
+          }
+        }
+        
+      })
+      console.log(count)
+      countryData.features.forEach(proj => {
+        if (count.hasOwnProperty(proj.properties.created) &&
+            count.hasOwnProperty(proj.properties.status)) {
+          count[proj.properties.created]++
+          count[proj.properties.status]++
         }
       })
       var filter = ['all', yearFilter, statusFilter]
-      console.log(filter)
       layers.forEach(layer => {
         map.setFilter(layer, filter)
       })
+      
+      var publishedLabel = document.getElementById('published-label')
+      if (count['PUBLISHED']) {
+        publishedLabel.innerHTML = 'Active (' + count['PUBLISHED'] + ')'
+      } else {
+        publishedLabel.innerHTML = 'Active (0)'
+      }
+      var archivedLabel = document.getElementById('archived-label')
+      if (count['ARCHIVED']) {
+        archivedLabel.innerHTML = 'Archived (' + count['ARCHIVED'] + ')'
+      } else {
+        archivedLabel.innerHTML = 'Archived (0)'
+      }
+      years.forEach(year => {
+        var yearLabel = document.getElementById(year + '-label')
+        if (count[year]) {
+          yearLabel.innerHTML = year + ' (' + count[year] + ')'
+        } else {
+          yearLabel.innerHTML = year + ' (0)'
+        }
+      })
+      
     });
   });
 });
