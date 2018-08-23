@@ -89,7 +89,13 @@ layout: default
               <div class="news-list-meta">
                 {% assign author = site.people | where: "title", post.Person | first %}
                   <p class="news-index-author">
-                    {% include author.html %} — {{ post.date | date: '%e %B, %Y' }}</p>
+                    {% if post.Person %}
+                      {% for author in post.Person %}
+                        {{ author }}{% unless forloop.last %},{% endunless %}
+                        {% if forloop.last %} - {% endif %}
+                      {% endfor %}
+                    {% endif %}
+                    {{ post.date | date: '%e %B, %Y' }}</p>
                       {% if post.Country != '' %}
                         <p class="news-index-country">
                           {% for country in post.Country %}
