@@ -39,9 +39,7 @@ fetch('/aggregatedStats.json')
       count[countryProject.properties['created']] = 1
     }
   })
-  console.log(countryData);
-  console.log(years);
-  console.log(count);
+  
   years.sort();
   var filterHeader = document.getElementById('filter-header')
   filterHeader.innerHTML = 'Filter ' + countryData.features.length + ' tasking manager projects by:'
@@ -57,11 +55,6 @@ fetch('/aggregatedStats.json')
     checkbox.name = 'checkbox';
     checkbox.value = 'created';
     checkbox.id = year;
-    
-    // checkbox.addEventListener('click', function() {
-    //   showValues(year);
-    // }, false)
-    
     checkbox.checked = true;
     var label = document.createElement('label')
     label.id = year + '-label';
@@ -71,10 +64,11 @@ fetch('/aggregatedStats.json')
     container.appendChild(checkbox);
     container.appendChild(label);
   })
-}
-);
+  map.resize();
+});
 
 map.on('load', function() {
+  
   map.addSource('countriesbetter', {
     "type": "vector",
     "url": "mapbox://hot.9fvp7us2"
@@ -149,7 +143,6 @@ map.addLayer({
      "text-color": "#FFFFFF"
     }
   }, 'place-city-sm');
-
   fetch('/js/bbox.json')
     .then(function(response) {
       return response.json();
@@ -197,6 +190,7 @@ map.addLayer({
   });
 
   $(document).ready(function() {
+    
     $("input[type='checkbox']").on('change', function() {
       count = {}
       var yearFilter = ['any']
