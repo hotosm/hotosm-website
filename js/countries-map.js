@@ -60,15 +60,14 @@ fetch('/aggregatedStats.json')
     label.id = year + '-label';
     label.htmlFor = year;
     label.appendChild(document.createTextNode(year + ' (' + count[year] + ')'));
-
     container.appendChild(checkbox);
     container.appendChild(label);
   })
   map.resize();
+  
 });
 
 map.on('load', function() {
-  
   map.addSource('countriesbetter', {
     "type": "vector",
     "url": "mapbox://hot.9fvp7us2"
@@ -150,11 +149,10 @@ map.addLayer({
     .then(function(jsonData) {
       countries = jsonData;
       map.fitBounds(countries[countryCode][1], {
-        padding: 40
+        // padding: 40
       }, setTimeout(() => {
         var boxZoom = map.getZoom();
         map.setMinZoom(boxZoom);
-        console.log(boxZoom);
       }, 2000));     
     }
   );
@@ -176,7 +174,6 @@ map.addLayer({
         projectHover[0].properties.title + '</p>' +
         '<p class= "hover-edits">' + formatedData(projectHover[0].properties.edits) + ' Edits </p>' 
       );
-      console.log()
       var coordinates = projectHover[0].geometry.coordinates.slice();
       var description = "<html><h6><a target='_blank' href='https://tasks.hotosm.org/project/" + projectHover[0].properties.id
                         + "'</a>#" + projectHover[0].properties.id + " - "
@@ -190,7 +187,6 @@ map.addLayer({
   });
 
   $(document).ready(function() {
-    
     $("input[type='checkbox']").on('change', function() {
       count = {}
       var yearFilter = ['any']
@@ -210,9 +206,7 @@ map.addLayer({
             count[chkBoxFilter[2]] = 0;
           }
         }
-        
       })
-      console.log(count)
       countryData.features.forEach(proj => {
         if (count.hasOwnProperty(proj.properties.created) &&
             count.hasOwnProperty(proj.properties.status)) {
@@ -238,13 +232,16 @@ map.addLayer({
         archivedLabel.innerHTML = 'Archived (0)'
       }
       years.forEach(year => {
+        setTimeout(() => {
+          map.resize();
+        }, 100); 
         var yearLabel = document.getElementById(year + '-label')
         if (count[year]) {
           yearLabel.innerHTML = year + ' (' + count[year] + ')'
         } else {
           yearLabel.innerHTML = year + ' (0)'
         }
-      })
+      }); 
       
     });
   });

@@ -35,12 +35,12 @@ layout: default
     <div class="country-map-area" id="country-map-area">
       <div id="hover-details" class="center-hover-map-area"></div>
       <div class="container">
-        <h2 class="boxed" style="position:absolute; bottom:0.01%; left:0.8%;" id="country-title">{{ page.title }}</h2>
+        <h2 class="boxed" style="position:absolute; bottom:0%; left:0.8%;" id="country-title">{{ page.title }}</h2>
       </div>
       <div class="country-map-wrap" id="country-map-wrap"></div>
     </div>
 
-    <div class="country-contact">
+    <div id="country-contact" class="country-contact">
       
       <div class="wrap">
           <span id='filter-header'></span>
@@ -158,6 +158,7 @@ layout: default
       </div>
     </div>
   </div>
+
 
 
   <!--////////////////////////////////-->
@@ -416,6 +417,7 @@ layout: default
   var countryCode = "{{ page.names }}".substr(-5, 2);
   var missingMapsCode = "{{ page.names }}".substr(-3, 3);
 </script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
 <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
 <script src="{{ "/js/countries-map.js" | prepend: site.baseurl }}"></script>
