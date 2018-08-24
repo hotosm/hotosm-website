@@ -8,7 +8,7 @@ tags:
 - malaria elimination
 - IRS
 - surveying
-Deadline Date: 2018-09-08 00:00:00 Z
+Deadline Date: 2018-09-07 23:00:00 Z
 Place of Work: Guatemala
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSe20QSnSqFbRRqgLqVBwHNkr216qZ5X4vdlW6ANBNdf0uAjPA/viewform
 ---
