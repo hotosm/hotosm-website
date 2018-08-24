@@ -1,6 +1,8 @@
 ---
 title: 'State of the Map 2018: reflections on inclusivity'
 date: 2018-08-24 12:44:00 Z
+Feature Image: "/uploads/State_of_the_Map_2018_Milano_day_1_53.jpg"
+Person: Rebecca Firth
 Working Group:
 - Community
 - 
