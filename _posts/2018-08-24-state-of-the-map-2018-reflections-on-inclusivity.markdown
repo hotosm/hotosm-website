@@ -30,9 +30,12 @@ Looking to the HOT Summit / FOSS4G next week, there are many sessions in the pro
 * More information: https://2018.foss4g.org/
 
 
+
 I’m very grateful to the SOTM scholarship program for enabling me to attend in Milan this year, and also grateful to the FOSS4G/HOT Summit Travel Grants Program which will enable over 150 people to attend and further the agenda to make both the community and the map itself as inclusive as possible.
 
+
 If you’re interested to talk/work more on this topic, please join HOT’s [Community Working Group](https://www.hotosm.org/community/working-groups/) to share ideas.
+
 
 
 
