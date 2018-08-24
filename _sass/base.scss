@@ -2558,7 +2558,7 @@ em {
   }
 }
 
-.mapboxgl-ctrl-bottom-right a.mapboxgl-ctrl-logo {
+.mapboxgl-ctrl-bottom-right, .mapboxgl-ctrl-logo {
   position: absolute;
   bottom: 13px;
   right: 42px;
@@ -3442,8 +3442,19 @@ em {
   transition: 0.3s;
 }
 
+.detailsTab button {
+ color: $blue-grey;
+ text-transform: uppercase;
+ text-decoration: underline;
+ font-size: 0.975rem;
+}
+
 /* Change background color of buttons on hover */
 .tab button:hover {
+  color: $blue-grey;
+}
+
+.detailsTab button:hover {
   color: $blue-grey;
 }
 
@@ -3453,6 +3464,10 @@ em {
   text-decoration: none;
 }
 
+.detailsTab button.active {
+  color: $white;
+  text-decoration: none;
+}
 /* Style the tab content */
 .tabcontent {
   display: none;
@@ -3699,9 +3714,9 @@ sup {
   }
 }
 .wrap {
-	// margin: auto;
-	// max-width: 1000px;
-	// width: 90%;
+	margin: auto;
+	max-width: 1000px;
+	width: 90%;
 }
 
 .title {

@@ -35,15 +35,23 @@ layout: default
     <div class="country-map-area" id="country-map-area">
       <div id="hover-details" class="center-hover-map-area"></div>
       <div class="container">
-        <h2 class="boxed" style="position:absolute; bottom:0%; left:0.8%;" id="country-title">{{ page.title }}</h2>
+        <h2 class="boxed" style="position:absolute; bottom:0%;" id="country-title">{{ page.title }}</h2>
       </div>
       <div class="country-map-wrap" id="country-map-wrap"></div>
     </div>
 
-    <div id="country-contact" class="country-contact">
+    <div class="country-contact">
       
-      <div class="wrap">
-          <span id='filter-header'></span>
+
+        <!-- Tab links -->
+    
+        <div class="tab detailsTab">
+          <button class="detailsTabLinks active" onclick="switchInfo(event, 'country-details')" >Country Information</button>|
+          <button class="detailsTabLinks" onclick="switchInfo(event, 'country-filters')" >Project Filters</button>
+        </div>
+    
+        <div id="country-filters" style="display:none;" class="detailsTabContent country-contact-wrapper">
+          <h4 id='filter-header'></h4>
           <form action="">
             <div class="ctn-inputs checkbox">
                 <h2 class="title">
@@ -68,7 +76,7 @@ layout: default
         </div>
 
 
-      <div class="country-contact-wrapper">
+      <div id="country-details"  class="detailsTabContent country-contact-wrapper">
 
         {% if projects %}
 
@@ -156,6 +164,8 @@ layout: default
 
         {% endif %}
       </div>
+      
+      
     </div>
   </div>
 
