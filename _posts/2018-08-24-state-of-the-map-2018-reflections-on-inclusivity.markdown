@@ -1,6 +1,9 @@
 ---
 title: 'State of the Map 2018: reflections on inclusivity'
 date: 2018-08-24 12:44:00 Z
+Working Group:
+- Community
+- 
 ---
 
 The beauty of OpenStreetMap is it’s potential to be the most inclusive and representative map there is. Inclusion has long been discussed in the OpenStreetMap community as the way to achieve this, and with good reason. Estimations of female participation in OSM vary, however often hover around 2-5% (references below), and inclusion for non-English speaking, non-US/Europe based, and LGBTQ individuals are regularly raised as barriers to the global community as it progresses.
@@ -15,7 +18,7 @@ OpenStreetMap Award 2018 Winners:
 * The Expanding the Community Award went to Christine Karch
 * The Improving the Latin America Award went to Natalia da Silveira Arruda
 * The Improving the Africa Award went to Crowd2Map Tanzania
-* *The Improving the Asia Award went to State of the Map Asia 2017 organizing team
+* The Improving the Asia Award went to State of the Map Asia 2017 organizing team
 * The Ulf Möller Memorial Award went to Richard Fairhurst
 
 
