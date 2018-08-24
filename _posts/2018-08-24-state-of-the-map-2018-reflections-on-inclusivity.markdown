@@ -20,12 +20,12 @@ OpenStreetMap Award 2018 Winners:
 
 
 Looking to the HOT Summit / FOSS4G next week, there are many sessions in the program which will advance these discussions, and shape HOT’s work reducing the digital gender divide through mapping. For those attending/following on Twitter/watching recordings, sessions to watch out for include:
-* Championing SDGs with Disenfranchised Groups: Indonesian Case Study Mapping with Youth, Women, and Disabled Communities - Biondi Sima – 29/08 – 13:30-15:00
-* Female Gender involvement in humanitarian crowdsourced mapping using OpenStreetMap Global Web Atlas in Africa – Faith UniqueMappersTeam Nigeria - 30/08 1300-13:30
-* Balancing Diversity and Inclusion in Open Geo – Denise McKenzie & Rebecca Firth - 30/09 – 16:30-17:50
-* Engaging the Female Gender in Active Humanitarian Mapping for Sustainable National Development in Africa Using OpenStreetMap (Victor N. Sunday, Peace Bairidapsi Nyiaghan, Faith Umuokoro, Rebecca Firth, Janet Chapman)
-* Authors: Selene Yang Categories: OSGEO community A - Community health
+* Sustainable developments goals, technology and women empowerment - Biondi Sima, Faith Umuokoro, Rebecca Firth, Maureen Nkiruka Ezebube, Chukwunonyelum Okpala-Okaka - 29/08/18 13:30-15:00
+* OSGEO community A - Community health - Selene Yang - 29/08 - 13:30-14:00
+* Balancing Diversity and Inclusion in Open Geo – Denise McKenzie & Rebecca Firth - 30/08 – 16:30-17:50
+* Engaging the Female Gender in Active Humanitarian Mapping for Sustainable National Development in Africa Using OpenStreetMap - Victor N. Sunday, Faith Umuokoro - 
 * More information: https://2018.foss4g.org/
+
 
 I’m very grateful to the SOTM scholarship program for enabling me to attend in Milan this year, and also grateful to the FOSS4G/HOT Summit Travel Grants Program which will enable over 150 people to attend and further the agenda to make both the community and the map itself as inclusive as possible.
 
