@@ -6,7 +6,7 @@ tags:
 - safety management
 - security
 - risk analysis and mitigation
-Deadline Date: 2018-08-28 00:00:00 Z
+Deadline Date: 2018-08-31 00:00:00 Z
 Place of Work: Any HOT office location or remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSceKBGEl6WGqHPwsEvuEdibTTYA7vHgO2j1000MyJt22OyDow/viewform
 ---
@@ -15,7 +15,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSceKBGEl6WGqHPwsEvuEdi
 
 **Location/Duty Station:** Any HOT office location or remote
 
-**Projected start date:** 3 September, 2018
+**Projected start date:** 7 September, 2018
 
 **Reports to:** Executive Director, Director of Community Programs
 
