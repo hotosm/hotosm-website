@@ -3446,7 +3446,7 @@ em {
  color: $blue-grey;
  text-transform: uppercase;
  text-decoration: underline;
- font-size: 0.975rem;
+ font-size: 0.976rem;
 }
 
 /* Change background color of buttons on hover */
@@ -3744,7 +3744,9 @@ sup {
 	font-size: 1em;
 	padding: 5px 15px 5px 51px;
 	position: relative;
-	transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  margin-right: 4px;
+  margin-bottom: 4px;
 }
 
 .radio label:hover,
@@ -3763,7 +3765,9 @@ sup {
 	left: 17px;
 	position: absolute;
 	top: 4px;
-	width: 17px;
+  width: 17px;
+  margin-right: 4px;
+  margin-bottom: 4px;
 }
 
 .checkbox label:before {
@@ -3775,7 +3779,9 @@ sup {
 	background-color: $red;
 	border-radius: 2px;
 	color: #ffffff;
-	padding: 5px 15px;
+  padding: 5px 15px;
+  margin-right: 4px;
+  margin-bottom: 4px;
 }
 
 .style-radio:checked + label:before,

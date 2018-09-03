@@ -201,10 +201,7 @@ map.addLayer({
     }
   });
 
-  
-
   $(document).ready(function() {
-    
     $("input[type='checkbox']").on('change', function() {
       count = {}
       var yearFilter = ['any']
@@ -228,26 +225,25 @@ map.addLayer({
       countryData.features.forEach(proj => {
         if (count.hasOwnProperty(proj.properties.created) &&
             count.hasOwnProperty(proj.properties.status)) {
-          count[proj.properties.created]++
-          count[proj.properties.status]++
+          count[proj.properties.created]++;
+          count[proj.properties.status]++;
         }
       })
       var filter = ['all', yearFilter, statusFilter]
       layers.forEach(layer => {
-        map.setFilter(layer, filter)
+        map.setFilter(layer, filter);
       })
-      
       var publishedLabel = document.getElementById('published-label')
       if (count['PUBLISHED']) {
-        publishedLabel.innerHTML = 'Active (' + count['PUBLISHED'] + ')'
+        publishedLabel.innerHTML = 'Active (' + count['PUBLISHED'] + ')';
       } else {
-        publishedLabel.innerHTML = 'Active (0)'
+        publishedLabel.innerHTML = 'Active';
       }
       var archivedLabel = document.getElementById('archived-label')
       if (count['ARCHIVED']) {
-        archivedLabel.innerHTML = 'Archived (' + count['ARCHIVED'] + ')'
+        archivedLabel.innerHTML = 'Archived (' + count['ARCHIVED'] + ')';
       } else {
-        archivedLabel.innerHTML = 'Archived (0)'
+        archivedLabel.innerHTML = 'Archived';
       }
       years.forEach(year => {
         setTimeout(() => {
@@ -255,12 +251,11 @@ map.addLayer({
         }, 100); 
         var yearLabel = document.getElementById(year + '-label')
         if (count[year]) {
-          yearLabel.innerHTML = year + ' (' + count[year] + ')'
+          yearLabel.innerHTML = year + ' (' + count[year] + ')';
         } else {
-          yearLabel.innerHTML = year + ' (0)'
+          yearLabel.innerHTML = year;
         }
-      }); 
-      
+      });
     });
   });
 });
