@@ -2,6 +2,7 @@
 title: Launching Visualize Change!
 date: 2018-09-04 10:34:00 Z
 Feature Image: "/uploads/hot-visualize-change-image.png"
+Is image top aligned: true
 Person: Nate Smith
 Working Group:
 - Technical
@@ -17,10 +18,10 @@ We soft-launched the tool late this Spring and have been honing features and tes
 
 ### Accra, Ghana
 <video controls
-       muted
+       loop
        src="https://visualize-change-dev.hotosm.org/renders/90abda4e4291e538c1a2e6c9ff725d6b/render.mp4"
-       width="300"
-       height="200">
+       width="100%"
+       height="400">
     Sorry, your browser doesn't support embedded videos.
 </video>
 
@@ -28,10 +29,10 @@ https://visualize-change-dev.hotosm.org/view/28
 
 ### Monrovia, Liberia
 <video controls
-       muted
+       loop
        src="http://visualize-change-dev.hotosm.org/renders/545a33032ae5afc37fc15f7111d25fcc/render.mp4"
-       width="300"
-       height="200">
+       width="100%"
+       height="400">
     Sorry, your browser doesn't support embedded videos.
 </video>
 
