@@ -14,15 +14,15 @@ Visualizing OSM data is helpful for analyzing what and where data has changed. V
 
 ## Visualizing change across Open Cities Africa projects
 
-We soft-launched the tool late this Spring and have been honing features and testing across the ten Open Cities Africa projects where we are supporting the World Bank. Check them out below:
+We soft-launched the tool late this Spring and have been honing features and testing across the ten Open Cities Africa projects where we are supporting the World Bank. Check out two cities below:
 
 ### Accra, Ghana
-<video controls autoplay loop src="https://visualize-change-dev.hotosm.org/renders/90abda4e4291e538c1a2e6c9ff725d6b/render.mp4" width="100%" height="400">Sorry, your browser doesn't support embedded videos.</video>
-_[Access full visualization](https://visualize-change-dev.hotosm.org/view/28)_
+<video controls autoplay loop src="https://http://visualize-change.hotosm.org/renders/bfcad2152d02b8a170cbc54377ac4338/render.mp4" width="100%" height="400">Sorry, your browser doesn't support embedded videos.</video>
+_Daily change from July 1 to Sept 1 2018, [access full visualization](https://visualize-change-dev.hotosm.org/view/28)_
 
 ### Monrovia, Liberia
-<video controls autoplay loop src="http://visualize-change-dev.hotosm.org/renders/545a33032ae5afc37fc15f7111d25fcc/render.mp4" width="100%" height="400">Sorry, your browser doesn't support embedded videos.</video>
-_[Access full visualization](https://visualize-change-dev.hotosm.org/view/29)_
+<video controls autoplay loop src="http://http://visualize-change.hotosm.org/renders/6d94e6078d2bc38064cd4368d272cddf/render.mp4" width="100%" height="400">Sorry, your browser doesn't support embedded videos.</video>
+_Daily change from Sept 1 to Nov 1 2014, [access full visualization](https://visualize-change-dev.hotosm.org/view/29)_
 ## Make your own and share it on Twitter
 
 Want to try it out? Create your own and share with us on Twitter. 
