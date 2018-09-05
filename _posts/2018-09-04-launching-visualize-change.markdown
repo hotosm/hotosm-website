@@ -43,4 +43,4 @@ Within each mode, you can save the view to then share it via a URL or create a d
 
 ![vc-advanced.gif](/uploads/vc-advanced.gif)
 
-Give it a spin and then share your results with #hotosm #visualizechange. 
+Thanks to [Flow/Control](http://flow-control.io/) for helping build and support the development of the tool. Give it a spin and then share your results with #hotosm #visualizechange. 
