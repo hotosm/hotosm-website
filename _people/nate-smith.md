@@ -1,7 +1,7 @@
 ---
 title: Nate Smith
 date: 2016-01-11 23:27:00 Z
-Photo: "/uploads/nate-7db7c3.JPG"
+Photo: "/uploads/nate-260502.JPG"
 Member Type:
   Is Staff: true
   Is Voting Member: true
