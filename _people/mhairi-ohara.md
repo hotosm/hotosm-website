@@ -1,7 +1,7 @@
 ---
 title: Mhairi O'Hara
 date: 2015-02-12 14:16:00 Z
-Photo: "/uploads/MEO-1.JPG"
+Photo: "/uploads/mhairi.JPG"
 Member Type:
   Is Staff: true
   Is Voting Member: true
