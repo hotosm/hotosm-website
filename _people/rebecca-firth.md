@@ -1,7 +1,7 @@
 ---
 title: Rebecca Firth
 date: 2016-12-21 15:24:00 Z
-Photo: "/uploads/rebecca.JPG"
+Photo: "/uploads/rebecca-74099a.JPG"
 Member Type:
   Is Staff: true
 Job Title: Community & Partnerships Manager
