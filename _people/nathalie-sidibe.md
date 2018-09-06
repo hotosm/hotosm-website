@@ -1,7 +1,7 @@
 ---
 title: Nathalie Sidibe
 date: 2017-02-28 14:19:00 Z
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-381-1498331929.jpg
+Photo: "/uploads/nathalie.JPG"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
