@@ -1,7 +1,7 @@
 ---
 title: Dakota Benjamin
 date: 2018-06-01 19:55:00 Z
-Photo: "/uploads/dakota-c531f7.JPG"
+Photo: "/uploads/dakota-6aee4b.JPG"
 Member Type:
   Is Staff: true
 Job Title: Support Engineer
