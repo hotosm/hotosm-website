@@ -1,7 +1,7 @@
 ---
 title: Nathalie Sidibe
 date: 2017-02-28 14:19:00 Z
-Photo: "/uploads/nathalie.JPG"
+Photo: "/uploads/nathalie-2bf060.JPG"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
