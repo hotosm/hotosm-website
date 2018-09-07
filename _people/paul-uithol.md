@@ -14,8 +14,15 @@ Project:
 - Malaria Elimination Campaign
 - OpenMapKit
 - Hurricane Matthew
-- 'LEGIT: Supporting decentralization in Liberian cities'
+- 'Supporting decentralization in Liberian cities: LEGIT'
 - Dar Ramani Huria — Dar Open Map
+- 'Data for evidence-based decisions: Data Zetu'
+- 'Informing rural electrification: Mini Grids'
+- 'Field data collection for malaria elimination: National Malaria Programme'
+- 'Refugee response: South Sudan and Syria'
+- Mapping Access to Digital Financial Services
+- 'Urban flood resilience: Ramani Huria'
+- 
 Country: Netherlands
 Social Media (Full URL):
   Twitter: https://twitter.com/PaulUithol
