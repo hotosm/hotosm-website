@@ -24,4 +24,6 @@ redirect_from:
 - "/users/paul_uithol"
 ---
 
-<p>With a background in software engineering and GIS/LBS (Location-based Services), I have been using OSM since around 2008. At HOT, I started managing ground survey projects like "Dar Ramani Huria" in Tanzania and "Mapping Financial Services" in Uganda for HOT, and very much enjoy doing so. The combination of educational aspects, local skills and capacity building, and working with local government officials and NGOs to incorporate open (geo)data into their policy and decision making make these tremendously valuable projects. At the moment, I'm HOT's Director of Community Projects, overseeing projects and communities based in Africa and beyond.</p>
+As HOT's Director of Community Projects, I'm overseeing all our mapping projects and communities based in Africa and beyond. With a background in software engineering and GIS/LBS (Location-based Services), I have been working with (open) geospatial data since around 2003, and started using OSM professionally.
+
+I've worked with HOT since 2015, originally managing mapping projects such as "Ramani Huria" in Tanzania, and have since continued supporting the growth and expansion of our communities and projects. I immensely enjoy the combination of the educational aspects, local skills and capacity building, and working with local government officials and NGOs to incorporate open (geo)data into their policy and decision making.
