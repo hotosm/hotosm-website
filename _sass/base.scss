@@ -3429,6 +3429,7 @@ em {
 .tab button {
   background-color: inherit;
   display: inline-block;
+  font-family: $font-headline;
   text-decoration: underline;
   margin-right: 6px;
   border: none;
@@ -3436,7 +3437,7 @@ em {
   padding: 0;
   cursor: pointer;
   font-family: $font-default;
-  font-size: 0.875rem;
+  font-size: 0.975rem;
   font-weight: bold;
   color: $blue-light;
   transition: 0.3s;
@@ -3444,9 +3445,12 @@ em {
 
 .detailsTab button {
  color: $blue-grey;
+ font-family: $font-headline;
  text-transform: uppercase;
- text-decoration: underline;
- font-size: 0.976rem;
+ font-size: 1.25rem;
+ letter-spacing: .035em;
+ text-decoration: none;
+ border-bottom: 3px solid $blue-grey;
 }
 
 /* Change background color of buttons on hover */
@@ -3456,17 +3460,20 @@ em {
 
 .detailsTab button:hover {
   color: $blue-grey;
+  border-bottom-color: tint($red, 75%);
 }
 
 /* Create an active/current tablink class */
 .tab button.active {
   color: $blue-dark;
+  // background-color:rgba(105,105,105,0.7);
   text-decoration: none;
 }
 
 .detailsTab button.active {
   color: $white;
   text-decoration: none;
+  border-bottom: 3px solid red;
 }
 /* Style the tab content */
 .tabcontent {
@@ -3610,7 +3617,6 @@ sup {
 //////////////// Page — Country //////////////
 ////////////////////////////////////////////////
 
-
 .country-index {
   .project-index-highlights {
     margin-top: 40px;
@@ -3673,11 +3679,11 @@ sup {
 
 .country-contact {
   background-color: $blue-dark;
-  padding: 28px 16px 32px;
+  // padding: 28px 16px 32px;
   color: $white;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  // justify-content: center;
   @media (min-width: $screen-xs) {
     padding: 40px 40px 40px;
     min-height: 500px;

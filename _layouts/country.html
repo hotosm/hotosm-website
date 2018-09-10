@@ -44,13 +44,13 @@ layout: default
       
 
         <!-- Tab links -->
-    
+        
         <div class="tab detailsTab">
-          <button class="detailsTabLinks active" onclick="switchInfo(event, 'country-details')" >Country Information</button>|
+          <button class="detailsTabLinks active" onclick="switchInfo(event, 'country-details')" >Country Contact</button>
           <button class="detailsTabLinks" onclick="switchInfo(event, 'country-filters')" >Project Filters</button>
         </div>
     
-        <div id="country-filters" style="display:none;" class="detailsTabContent country-contact-wrapper">
+        <div id="country-filters" style="padding-top: 15px; display:none; justify-content: center" class="detailsTabContent country-contact-wrapper">
           <h4 id='filter-header'></h4>
           <form action="">
             <div class="ctn-inputs checkbox">
@@ -76,7 +76,7 @@ layout: default
         </div>
 
 
-      <div id="country-details"  class="detailsTabContent country-contact-wrapper">
+      <div id="country-details" style="padding-top: 15px; justify-content: center" class="detailsTabContent country-contact-wrapper">
 
         {% if projects %}
 
