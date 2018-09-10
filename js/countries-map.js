@@ -178,9 +178,9 @@ map.addLayer({
     );
     if (projectHover.length) {
       map.getCanvas().style.cursor = 'pointer';
-      $("#hover-details").empty();
-      $("#hover-details").removeClass('hide');
-      $("#hover-details").append(
+      $("#project-details").empty();
+      $("#project-details").removeClass('hide');
+      $("#project-details").append(
         '<p class="hover-name">' + 
         '<a target="_blank" href="https://tasks.hotosm.org/project/' +
         projectHover[0].properties.id + 

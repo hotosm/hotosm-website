@@ -33,11 +33,19 @@ layout: default
   <div class="country-index-header">
 
     <div class="country-map-area" id="country-map-area">
-      <div id="hover-details" class="center-hover-map-area"></div>
+      
+      <div class="country-map-wrap" id="country-map-wrap">
+        <div id = "where-we-work-legend-details" class="center-hover-map-area">
+          <div id = "tm-legend">
+              <p><img src= '../../images/lone-project.png' width="10" height="12" style="padding-top: 2px"/><span style="color:#929DB3"> Project sized by edits</span></p>
+          </div>
+        </div>
+        <div id="project-details" class="center-hover-map-area"></div>
+      
       <div class="container">
         <h2 class="boxed" style="position:absolute; bottom:0%;" id="country-title">{{ page.title }}</h2>
       </div>
-      <div class="country-map-wrap" id="country-map-wrap"></div>
+      </div>
     </div>
 
     <div class="country-contact">
