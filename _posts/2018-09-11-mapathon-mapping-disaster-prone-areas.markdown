@@ -11,6 +11,7 @@ Project:
 
 *Guest blog, Ashish Chalise, Geomatics Engineering Students' Association of Nepal (GESAN.)*
 
+# Mapathon Event
 On June 17 2018, GESAN organized a mapathon event with a theme of mapping a specific disaster prone area. The program was organized in collaboration with FSU as a pre-event for upcoming FSU Technical Fair 2075. The event was mainly focused on first, second and third year geomatics engineering students to make them more familiar with mapping and its importance. Er. Roshan Poudel from KLL and our senior brothers from fourth year contributed their valuable time for guiding the event.
 
 Each year disasters around the world kill nearly 100000 and effect and displace nearly 200 million people. Many of these places where disasters occur are literally missing from any map and first responder lacks the information to make valuable decisions regarding relief efforts. Missing Maps is an open collaborative project in which we can help to map the areas where humanitarian organizations are trying to meet the needs of vulnerable people.
@@ -19,6 +20,7 @@ Mapathon is a coordinated mapping event. It is a fantastic way of building a com
 
 ![nepal.jpg](/uploads/nepal.jpg)
 
+# Flood Prone Community Mapping
 Nepal is located in the center of the Himalayan range. It is one of the most disaster-prone countries in the world due to its topography and climatic condition. Every monsoon southern plains of Nepal suffers flooding due to heavy rainfall. **A good map can be very beneficial in disaster risk reduction and disaster reduction risk management.** So in order to map such flooding prone plains of southern Nepal, GESAN in association with KLL hosted a project named “Flood Prone Community Mapping – Dang Nepal”. This project is an effort to map these places so that field-based organizations can use it to prepare for and respond to these floods.
 
 
@@ -31,6 +33,7 @@ The mapathon event lasted for three hours. Er. Roshan Poudel from KLL delivered 
 
 ![mapathon 3.jpg](/uploads/mapathon%203.jpg)
 
+# The Power of Collaboration
 We GESAN members are very grateful to KLL for their collaboration and support to organize this event. All the participants actively took part in the mapathon event and we received lots of positive responses. Moreover they are curious and eager to join other similar workshops in near future. The event was successfully organized without any difficulties providing lots of mapping knowledge to participants and inspired and motivated them to keep on mapping. Congratulations for the top mappers and keep on mapping! 
 
 ![mapathon 4.jpg](/uploads/mapathon%204.jpg)
