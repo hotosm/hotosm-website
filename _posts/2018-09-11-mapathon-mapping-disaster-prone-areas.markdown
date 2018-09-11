@@ -1,8 +1,6 @@
 ---
 title: 'MAPATHON : Mapping disaster prone areas'
 date: 2018-09-11 11:04:00 Z
-Summary Text: Guest blog, Ashish Chalise, Geomatics Engineering Students' Association
-  of Nepal (GESAN.)
 Feature Image: "/uploads/mapathon%201.jpg"
 Person: Sıla Alıcı
 Country:
@@ -11,7 +9,7 @@ Project:
 - Missing Maps
 ---
 
-
+*Guest blog, Ashish Chalise, Geomatics Engineering Students' Association of Nepal (GESAN.)*
 
 On June 17 2018, GESAN organized a mapathon event with a theme of mapping a specific disaster prone area. The program was organized in collaboration with FSU as a pre-event for upcoming FSU Technical Fair 2075. The event was mainly focused on first, second and third year geomatics engineering students to make them more familiar with mapping and its importance. Er. Roshan Poudel from KLL and our senior brothers from fourth year contributed their valuable time for guiding the event.
 
