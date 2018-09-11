@@ -1,8 +1,8 @@
 ---
 title: 'MAPATHON : Mapping disaster prone areas'
 date: 2018-09-11 11:04:00 Z
-Summary Text: "*Guest blog, Ashish Chalise, Geomatics Engineering Students' Association
-  of Nepal (GESAN)*"
+Summary Text: Guest blog, Ashish Chalise, Geomatics Engineering Students' Association
+  of Nepal (GESAN.)
 Feature Image: "/uploads/mapathon%201.jpg"
 Person: Sıla Alıcı
 Country:
