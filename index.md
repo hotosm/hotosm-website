@@ -2,7 +2,7 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: true
+  Is Activated: false
   Small Block: Upcoming event
   Main Block: HOT Summit at FOSS4G2018
   Secondary Block: 27 Aug – 2 Sep 2018

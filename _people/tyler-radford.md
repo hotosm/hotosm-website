@@ -1,7 +1,7 @@
 ---
 title: Tyler Radford
 date: 2015-05-01 15:58:00 Z
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-262-1432307818.jpg
+Photo: "/uploads/tyler-34c360.JPG"
 Member Type:
   Is Staff: true
 Job Title: Executive Director
