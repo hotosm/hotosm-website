@@ -23,7 +23,11 @@ Mapathon is a coordinated mapping event. It is a fantastic way of building a com
 
 Nepal is located in the center of the Himalayan range. It is one of the most disaster-prone countries in the world due to its topography and climatic condition. Every monsoon southern plains of Nepal suffers flooding due to heavy rainfall. **A good map can be very beneficial in disaster risk reduction and disaster reduction risk management.** So in order to map such flooding prone plains of southern Nepal, GESAN in association with KLL hosted a project named “Flood Prone Community Mapping – Dang Nepal”. This project is an effort to map these places so that field-based organizations can use it to prepare for and respond to these floods.
 
+
+
 ![mapathon 2-39dec0.jpg](/uploads/mapathon%202-39dec0.jpg)
+
+
 
 The mapathon event lasted for three hours. Er. Roshan Poudel from KLL delivered short speech highlighting OpenStreetMap (OSM), map editors (JOSM), Missing Maps and YouthMappers. He introduced the project zones that are yet to be mapped and the tasks lying ahead. The map of southern plain of Dang was divided into series of square boxes which participants had to choose from for mapping. The mapping task was done using JOSM map editor and the task was to map roads, building, waterways and land use. Participants were very eager and enthusiastic and actively took part in mapping. Shree Krishna Adhikari helped participants to overcome any technical problems during mapping while GESAN members monitored the program making all necessary arrangements. Participants who could map more or who can add more information to the map within the given timeframe were rewarded. Since the participants were instructed to upload their map using same #tag (#gesan, #missingmap etc.)  it was easy to view the details of the mapping of the participants from the leaderboard on the Missing Mapa website. The leaderboard ranked the mappers based on the points they obtained from the number of places they mapped.The final result of the mapathon is shown below:
 
