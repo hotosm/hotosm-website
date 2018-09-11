@@ -69,7 +69,6 @@ fetch('/aggregatedStats.json')
 
 function switchInfo(evt, tabName) {
   var i, tabcontent, tablinks;
-  console.log(tabName)
   tabcontent = document.getElementsByClassName('detailsTabContent');
   for (i = 0; i < tabcontent.length; i++) {
     tabcontent[i].style.display = 'none';
@@ -80,9 +79,14 @@ function switchInfo(evt, tabName) {
   }
   document.getElementById(tabName).style.display = 'block';
   evt.currentTarget.className += ' active';
+  map.resize();
 }
 
 map.on('load', function() {
+  var mapHeight = $('#country-map-wrap').height();
+  $('#country-details').height(mapHeight);
+  $('#country-filters').height(mapHeight);
+  map.resize();
   map.addSource('countriesbetter', {
     "type": "vector",
     "url": "mapbox://hot.9fvp7us2"

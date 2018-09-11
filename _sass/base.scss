@@ -3700,6 +3700,7 @@ sup {
   color: $white;
   display: flex;
   flex-direction: column;
+  min-height: 700px;
   // justify-content: center;
   @media (min-width: $screen-xs) {
     padding: 40px 40px 40px;
