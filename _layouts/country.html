@@ -37,13 +37,15 @@ layout: default
       <div class="country-map-wrap" id="country-map-wrap">
         <div id = "where-we-work-legend-details" class="center-hover-map-area">
           <div id = "tm-legend">
-              <p><img src= '../../images/lone-project.png' width="10" height="12" style="padding-top: 2px"/><span style="color:#929DB3"> Project sized by edits</span></p>
+              <p><img src= '../../images/lone-project.png' width="10" height="12" style="padding-top: 2px"/><span style="color:#929DB3"> Campaigns sized by edits</span></p>
           </div>
         </div>
         <div id="project-details" class="center-hover-map-area"></div>
       
-      <div class="container">
-        <h2 class="boxed" style="position:absolute; bottom:0%;" id="country-title">{{ page.title }}</h2>
+      <div class="country-name-wrap">
+        <div class="country-name">
+        <h2 class="boxed" id="country-title">{{ page.title }}</h2>
+      </div>
       </div>
       </div>
     </div>
@@ -53,7 +55,7 @@ layout: default
         
         <div class="tab detailsTab">
           <button class="detailsTabLinks active" onclick="switchInfo(event, 'country-details')" >Country Contact</button>
-          <button class="detailsTabLinks" onclick="switchInfo(event, 'country-filters')" >Project Filters</button>
+          <button class="detailsTabLinks" onclick="switchInfo(event, 'country-filters')" >Campaign Filters</button>
         </div>
     
         <div id="country-filters" style="padding-top: 15px; display:none; justify-content: center" class="detailsTabContent country-contact-wrapper">
@@ -87,8 +89,8 @@ layout: default
         {% if projects %}
 
         <!-- Countries with projects -->
-
-        <h4>{{ page.title }} has {{ projectcount }} project{% if projectcount > 1%}s{%endif%}{% if memberscount > 0%} and {{ memberscount }} voting member{% if memberscount > 1%}s{%endif%}{%endif%}</h4>
+        <h4 id="contact-header"></h4>
+        <!-- <h4 id="contact-header">{{ page.title }} has {{ projectcount }} HOT project{% if projectcount > 1%}s{%endif%}{% if memberscount > 0%} and {{ memberscount }} voting member{% if memberscount > 1%}s{%endif%}{%endif%}</h4> -->
         <div class="country-content top">
           <p>Read more about each project below or learn more about <a href="/get-involved">getting involved</a>.</p>
         </div>
@@ -432,6 +434,8 @@ layout: default
   var countryName = "{{ page.urlname }}".split('-').join(' ');
   var countryCode = "{{ page.names }}".substr(-5, 2);
   var missingMapsCode = "{{ page.names }}".substr(-3, 3);
+  var memberCount = "{{ memberscount }}"
+  var projectCount = "{{ projectcount }}"
 </script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>

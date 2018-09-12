@@ -6,21 +6,6 @@ var countryData = {
 var years = []
 var count = {}
 var container = document.getElementById('year-checkbox')
-
-mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
-var map = new mapboxgl.Map({
-  container: 'country-map-wrap',
-  logoPosition: 'bottom-left',
-  // scrollZoom: false,
-  // dragRotate: false,
-  maxzoom: 16,
-  style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
-});
-var mapHeight = $('#country-map-wrap').height();
-$('#country-details').height(mapHeight);
-$('#country-filters').height(mapHeight);
-map.resize();
-
 fetch('/aggregatedStats.json')
 .then(function(response) {
   return response.json();
@@ -28,25 +13,27 @@ fetch('/aggregatedStats.json')
 .then(function (jsonData) {
   var countryTitle = $(document).find("title").text().split('|')[1].trim();
   countryData.features = (jsonData[countryTitle]);
+  var campaignCount = countryData.features.length;
+  updateContactHeader(campaignCount);
   countryData.features.forEach(countryProject => {
     if (years.indexOf(countryProject.properties['created']) < 0) {
-      years.push(countryProject.properties['created'])
+      years.push(countryProject.properties['created']);
     }
     if (count[countryProject.properties['status']]){
-      count[countryProject.properties['status']]++
+      count[countryProject.properties['status']]++;
     } else {
-      count[countryProject.properties['status']] = 1
+      count[countryProject.properties['status']] = 1;
     }
     if (count[countryProject.properties['created']]){
-      count[countryProject.properties['created']]++
+      count[countryProject.properties['created']]++;
     } else {
-      count[countryProject.properties['created']] = 1
+      count[countryProject.properties['created']] = 1;
     }
   })
   
   years.sort();
   var filterHeader = document.getElementById('filter-header')
-  filterHeader.innerHTML = 'Filter ' + countryData.features.length + ' tasking manager projects by:'
+  filterHeader.innerHTML = 'Filter ' + countryData.features.length + ' Campaigns by:'
   var publishedLabel = document.getElementById('published-label')
   publishedLabel.innerHTML = 'Active (' + count['PUBLISHED'] + ')'
   var archivedLabel = document.getElementById('archived-label')
@@ -69,6 +56,20 @@ fetch('/aggregatedStats.json')
   });
   
 });
+
+mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
+var map = new mapboxgl.Map({
+  container: 'country-map-wrap',
+  logoPosition: 'bottom-left',
+  // scrollZoom: false,
+  // dragRotate: false,
+  maxzoom: 16,
+  style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
+});
+var mapHeight = $('#country-map-wrap').height();
+$('#country-details').height(mapHeight);
+$('#country-filters').height(mapHeight);
+map.resize();
 
 function switchInfo(evt, tabName) {
   var i, tabcontent, tablinks;
@@ -258,3 +259,22 @@ map.addLayer({
     });
   });
 });
+
+function updateContactHeader (campaignCount) {
+  var contactHeader = document.getElementById('contact-header');
+  if (campaignCount > 1) {
+    campaignCount += ' Campaigns ';
+  } else campaignCount += ' Campaign ';
+  if (projectCount > 1) {
+    projectCount += ' HOT Projects ';
+  } else projectCount += ' HOT Project ';
+  console.log(typeof memberCount)
+  if (memberCount !== '0') {
+    if (memberCount > 1){
+      memberCount = ' and ' + memberCount + ' voting members';
+    } else memberCount = ' and ' + memberCount + ' voting member';
+  } else memberCount = '';
+  contactHeader.innerHTML = countryName.replace(/^\w/, c => c.toUpperCase()) + ' has ' +
+                            campaignCount + ' across ' + 
+                            projectCount + memberCount; 
+}
