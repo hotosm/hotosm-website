@@ -14,11 +14,12 @@ Humanitarian OpenStreetMap Team (HOT) is a Washington, D.C. based NGO and global
 **About the Position** – **Partnerships & Community Programs Assistant**
 
 HOT is searching for a Partnerships & Community Programs assistant to join our Partnerships and Community team. The role will involve:
+
 Community responsibilities:
-Coordinate activities for HOT Community programs including the 8 communities benefiting from the HOT Microgrants Program (https://www.hotosm.org/projects/microgrants_and_community_development). Includes assisting with management of: set up of Microgrants program each year, selection of communities to receive grants, monitoring progress through mid-term and end-of-term reports, managing financial disbursements.
-Monitoring and Evaluation of community grants
-Set up and manage a Community Volunteer recognition program to provide monthly recognition to active volunteers in the HOT Community
-Assisting with management of HOT’s monthly Community Webinars program, to share projects and experience across the HOT Community.
+* Coordinate activities for HOT Community programs including the 8 communities benefiting from the HOT Microgrants Program (https://www.hotosm.org/projects/microgrants_and_community_development). Includes assisting with management of: set up of Microgrants program each year, selection of communities to receive grants, monitoring progress through mid-term and end-of-term reports, managing financial disbursements.
+* Monitoring and Evaluation of community grants
+* Set up and manage a Community Volunteer recognition program to provide monthly recognition to active volunteers in the HOT Community
+* Assisting with management of HOT’s monthly Community Webinars program, to share projects and experience across the HOT Community.
 
 **Partnerships responsibilities:**
 
@@ -52,3 +53,6 @@ Essential requirements include:
 * Strong communication skills, including advanced written and spoken English
 
 * Proven ability to work independently and lead activities
+
+**To Apply**
+Fill in the application form linked to in the 'Apply' button. Email any questions to partnerships@hotosm.org.
