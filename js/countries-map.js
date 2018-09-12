@@ -16,6 +16,10 @@ var map = new mapboxgl.Map({
   maxzoom: 16,
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 });
+var mapHeight = $('#country-map-wrap').height();
+$('#country-details').height(mapHeight);
+$('#country-filters').height(mapHeight);
+map.resize();
 
 fetch('/aggregatedStats.json')
 .then(function(response) {
@@ -62,8 +66,7 @@ fetch('/aggregatedStats.json')
     label.appendChild(document.createTextNode(year + ' (' + count[year] + ')'));
     container.appendChild(checkbox);
     container.appendChild(label);
-  })
-  map.resize();
+  });
   
 });
 
@@ -79,14 +82,9 @@ function switchInfo(evt, tabName) {
   }
   document.getElementById(tabName).style.display = 'block';
   evt.currentTarget.className += ' active';
-  map.resize();
 }
 
 map.on('load', function() {
-  var mapHeight = $('#country-map-wrap').height();
-  $('#country-details').height(mapHeight);
-  $('#country-filters').height(mapHeight);
-  map.resize();
   map.addSource('countriesbetter', {
     "type": "vector",
     "url": "mapbox://hot.9fvp7us2"
@@ -250,9 +248,6 @@ map.addLayer({
         archivedLabel.innerHTML = 'Archived';
       }
       years.forEach(year => {
-        setTimeout(() => {
-          map.resize();
-        }, 100); 
         var yearLabel = document.getElementById(year + '-label')
         if (count[year]) {
           yearLabel.innerHTML = year + ' (' + count[year] + ')';

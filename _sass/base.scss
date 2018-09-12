@@ -3482,7 +3482,7 @@ em {
 .detailsTab button.active {
   color: $white;
   text-decoration: none;
-  border-bottom: 3px solid red;
+  border-bottom: 3px solid $red;
 }
 /* Style the tab content */
 .tabcontent {
@@ -3696,11 +3696,12 @@ sup {
 
 .country-contact {
   background-color: $blue-dark;
-  // padding: 28px 16px 32px;
+  padding-left: 28px;
+  padding-top: 16px;
+  padding-right: 28px;
   color: $white;
   display: flex;
   flex-direction: column;
-  min-height: 700px;
   // justify-content: center;
   @media (min-width: $screen-xs) {
     padding: 40px 40px 40px;
