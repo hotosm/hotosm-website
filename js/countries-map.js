@@ -45,8 +45,8 @@ fetch('/aggregatedStats.json')
         })
         years.sort();
         var filterHeader = document.getElementById('filter-header');
-        if (campaignCount === 1) filterHeader.innerHTML = 'Filter ' + campaignCount + ' Campaign by:';
-        else filterHeader.innerHTML = 'Filter ' + campaignCount + ' Campaigns by:';
+        if (campaignCount === 1) filterHeader.innerHTML = 'Filter ' + campaignCount + ' mapping campaign by:';
+        else filterHeader.innerHTML = 'Filter ' + campaignCount + ' mapping campaigns by:';
         var publishedLabel = document.getElementById('published-label');
         if (count['PUBLISHED']) publishedLabel.innerHTML = 'Active (' + count['PUBLISHED'] + ')';
         else publishedLabel.innerHTML = 'Active';
@@ -287,19 +287,18 @@ map.on('load', function() {
 function updateContactHeader (campaignCount) {
   var contactHeader = document.getElementById('contact-header');
   if (campaignCount !== 0) {
-    console.log('campaigns present')
     if (campaignCount > 1) {
-      campaignCount += ' Campaigns ';
-    } else campaignCount += ' Campaign ';
+      campaignCount += ' mapping campaigns';
+    } else campaignCount += ' mapping campaign';
   } else campaignCount = '';
   if (projectCount !== '0') {
     if (projectCount > 1 ) {
       if (campaignCount !== '') {
-        projectCount = ' across ' + projectCount + ' HOT Projects ';
+        projectCount = ', including ' + projectCount + ' HOT Projects ';
       } else  projectCount += ' HOT Projects ';
     } else {
       if (campaignCount !== '') {
-        projectCount = ' across ' + projectCount + ' HOT Project ';
+        projectCount = ', including ' + projectCount + ' HOT Project ';
       } else  projectCount += ' HOT Project ';
     }
   } else projectCount = '';
