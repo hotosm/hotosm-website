@@ -17,7 +17,7 @@ fetch('/aggregatedStats.json')
       if (countryData.features) {
         var displayElements = ["country-filters-btn", "tm-legend"]
         displayElements.forEach ( ele => {
-          document.getElementById(ele).style.display = "block";
+          document.getElementById(ele).classList.remove("hide");
         })
         var hotStatsElements = ["hot-stats", "hot-stats-tab"]
         hotStatsElements.forEach( hotStatsEle => {
@@ -71,13 +71,13 @@ fetch('/aggregatedStats.json')
         });
       } else {
         var campaignCount = 0;
-        console.log('NO TM PROJECTS')
-        
         document.getElementById("osm-stats").style.display = "flex";
-        document.getElementById("osm-stats-tab").addClass("active");
+        document.getElementById("osm-stats-tab").classList.add("active");
         updateContactHeader(campaignCount);
       }
     } else {
+      document.getElementById("osm-stats").style.display = "flex";
+      document.getElementById("osm-stats-tab").classList.add("active");
     }
   });
 
@@ -286,31 +286,27 @@ map.on('load', function() {
 
 function updateContactHeader (campaignCount) {
   var contactHeader = document.getElementById('contact-header');
-  console.log(contactHeader)
-  console.log(campaignCount)
   if (campaignCount !== 0) {
     console.log('campaigns present')
     if (campaignCount > 1) {
       campaignCount += ' Campaigns ';
     } else campaignCount += ' Campaign ';
-  } else { console.log('campaigns absent'); campaignCount = '';}
+  } else campaignCount = '';
   if (projectCount !== '0') {
     if (projectCount > 1 ) {
       if (campaignCount !== '') {
-        console.log('> 1 project present; campaigns present')
         projectCount = ' across ' + projectCount + ' HOT Projects ';
-      } else {console.log('> 1 project present; campaigns not present'); projectCount =  projectCount + ' HOT Projects '};
+      } else  projectCount += ' HOT Projects ';
     } else {
       if (campaignCount !== '') {
-        console.log(' 1 project present; campaigns present')
         projectCount = ' across ' + projectCount + ' HOT Project ';
-      } else {console.log('1 project present; campaigns not present'); projectCount =  projectCount + ' HOT Project '};
+      } else  projectCount += ' HOT Project ';
     }
   } else projectCount = '';
   if (memberCount !== '0') {
     if (memberCount > 1) {
-      memberCount =  memberCount + ' voting members';
-    } else memberCount =  memberCount + ' voting member';
+      memberCount += ' voting members';
+    } else memberCount += ' voting member';
   } else memberCount = '';
   if (projectCount !== '' && memberCount !== '') {
     contactHeader.innerHTML = countryName.replace(/^\w/, c => c.toUpperCase()) + ' has ' +
