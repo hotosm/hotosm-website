@@ -8,7 +8,10 @@ Job Title: Operations Manager
 Working Group:
 - Fundraising
 - Communications
-Country: Canada
+Country: United States
+Social Media (Full URL):
+  OSM: vannicer
+  Twitter: "@rachelkvannice"
 redirect_from:
 - "/users/rachel_vannice"
 ---
