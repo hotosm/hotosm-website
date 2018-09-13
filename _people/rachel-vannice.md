@@ -16,4 +16,4 @@ redirect_from:
 - "/users/rachel_vannice"
 ---
 
-Rachel joined HOT back in 2016 and even with a background in Humanitarian Action and Development, was new to mapping. Since then, she's been amazed and excited at the potential for mapping to impact development work and humanitarian action from so many angles. She's always looking forward to the next mapathon and the next chance to be with the mappers in the field. 
+Rachel joined HOT back in 2016 and even with a background in Humanitarian Action and International Development, was new to mapping. Since then, she's been amazed and excited at the potential for mapping to impact development work and humanitarian action from so many angles. She's always looking forward to the next mapathon and the next chance to be with the mappers in the field. 
