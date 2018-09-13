@@ -4,12 +4,11 @@ date: 2017-11-22 16:08:00 Z
 Photo: "/uploads/IMG_1719-585a24.JPG"
 Member Type:
   Is Staff: false
-Job Title: Project Assistant
 Working Group:
 - Community
 - Communications
 Project:
-- Dar Ramani Huria — Dar Open Map
+- 
 - Nethope
 Country: Tanzania
 Social Media (Full URL):
