@@ -55,7 +55,7 @@ Country level stats bar, present below the map view now lets you toggle between 
 In the coming days, I’ll be focusing on:
 
   - [OSM Community Index](https://github.com/osmlab/osm-community-index) integration for the Country page to pull in contact information, specific to each OpenStreetMap Community.
-  - An interactive map for each HOT project page, highlighting the mapping areas and key statistics at project level.
+  - An interactive map for each HOT project page, highlighting the mapping areas, key statistics, and data available for download at project level.
   - Faster maps and lighter data load on the website.
 
 Inputs from the community has been integral in shaping the website.  Very soon we’ll be organising a community discussion to gather ideas on directions. Keep watching our [Slack](http://hotosm.slack.com) & [Twitter](https://twitter.com/hotosm) for announcement. Meanwhile, if you’d like to discuss further or work on any of these ideas, here’s where [you begin](https://github.com/hotosm/hotosm-website/issues)! 
