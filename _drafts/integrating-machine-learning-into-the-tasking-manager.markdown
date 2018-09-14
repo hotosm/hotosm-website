@@ -1,10 +1,10 @@
 ---
-title: 'Integrating Machine Learning into the Tasking Manager: Notes on our Direction'
+title: 'Integrating Machine Learning into the Tasking Manager: Notes on a Direction'
 date: 2018-09-14 16:12:00 Z
 Summary Text: We're moving towards how we leverage machine learning tools to improve
   data quality and help mappers map. Above is a shot from our design workshop we held
   at the HOT Summit in Dar es Salaam on August 31. Read more below about our ideas
-  and direction.
+  and a direction we'd like to see within the Tasking Manager.
 Feature Image: "/uploads/tm-ml-workshop-compressor.jpg"
 Person: Nate Smith
 Working Group:
