@@ -1,5 +1,5 @@
 ---
-title: Integrating Machine Learning into the Tasking Manager
+title: 'Integrating Machine Learning into the Tasking Manager: Notes on our Direction'
 date: 2018-09-14 16:12:00 Z
 Summary Text: We're moving towards how we leverage machine learning tools to improve
   data quality and help mappers map. Above is a shot from our design workshop we held
