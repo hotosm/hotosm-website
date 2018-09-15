@@ -1,7 +1,7 @@
 ---
 title: Melanie Eckle
 date: 2017-02-28 14:26:00 Z
-Photo: "/uploads/melanie-aa9144.JPG"
+Photo: "/uploads/melanie-5840c2.JPG"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
