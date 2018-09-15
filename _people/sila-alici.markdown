@@ -9,9 +9,9 @@ Working Group:
 - Communications
 Country: Turkey
 Social Media (Full URL):
-  Twitter: silaalici
-  LinkedIn: in/silaalici
-  Instagram: silaalici
+  Twitter: https://twitter.com/silaalici
+  LinkedIn: https://www.linkedin.com/in/silaalici/
+  Instagram: https://www.instagram.com/silaalici/
 ---
 
 Sıla is a digital storyteller and communications professional, who has previously worked for UNDP and UNICEF as Communications Officer. She holds a BA in Communication and Design and is interested in multimedia journalism, video production and all things humanitarian.
