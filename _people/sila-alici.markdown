@@ -7,7 +7,6 @@ Member Type:
 Job Title: Communications Manager
 Working Group:
 - Communications
-Country: Turkey
 Social Media (Full URL):
   Twitter: https://twitter.com/silaalici
   LinkedIn: https://www.linkedin.com/in/silaalici/
