@@ -27,14 +27,14 @@ It is also amazing to see the pulling effect of new members to the community and
 
 4)lovel4all (Godslove Ishola)with more than 2000 edits taking 4th position on the same leader board of letgirlsmap and the leaderboard of UniqueMappersTeam
 
-5)Emmanuel Chidera Ikeogu ,a current final year male student of Computer science and the director,technical of  UniqueMappersTeam takes 2nd position on the UniqueMappersTeam leader board with more than 5000 edits. 
+5)Emmanuel Chidera Ikeogu ,a current final year male student of Computer science and the director,technical of  UniqueMappersTeam takes 2nd position on the UniqueMappersTeam leader board with more than 5000 edits.
 
 ![nigeria3.jpg](/uploads/nigeria3.jpg)
 *Final Result of a 2-weeks OSMfight in July,2018*
 
 These Micro grant induced OSMfight has impacted on the community such that the missing map leader board has become a daily watch for ranking of our daily, weekly and monthly contributions as well as knowing identifying active mappers of our team. The impact is so glaring, that, even, our senior friends, mentors and university dons have joined the mapping race, with targets of beating those ahead. I was so excited, when, Professor J. E. Umeuduji (our faculty Advisor) came up to join the mapping race and currently rose from less than 50 edits to more than 1600 edits within the last two months of the Micro grant impact.
 
-Most of these contributions cut across HOT priority mapping task projects in more than 40 countries as remote mapping contributions, in addition to local mapping in Nigeria, which includes MSF task in Niger State, mapping around the University of Port Harcourt campus and team members’ villages. Our mapping has also increased to cover vulnerable flood communities in Port Harcourt. 
+Most of these contributions cut across HOT priority mapping task projects in more than 40 countries as remote mapping contributions, in addition to local mapping in Nigeria, which includes MSF task in Niger State, mapping around the University of Port Harcourt campus and team members’ villages. Our mapping has also increased to cover vulnerable flood communities in Port Harcourt.
 
 # #Impact on Female Gender Inclusion in Mapping Community
 
@@ -43,7 +43,7 @@ There is a fierce but friendly and gender sensitive and competitive passion amon
 ![nigeria4.jpg](/uploads/nigeria4.jpg)
 *Exclusive female Mapathon August,2018*
 
-# #Impact on YouthMappers chapter expansion in Nigeria and Africa 
+# #Impact on YouthMappers chapter expansion in Nigeria and Africa
 
 As part of our focus, with the micro grant support, we have reached out other universities to create and mentor new youth mappers chapter. We created and travelled to Abia State university to support AbsuMappersTeam in the month of July. We are also reaching out to 5 other new chapters we have created using WhatsApp chat groups. Just few weeks ago, as a result of our social media presence and advert for our training, we batched into a student contact from University of Zimbabwe, we have leveraged on to start up a Youth Mappers chapter and with the whatsapp chat group, we have mobilized about 44 volunteers who are signing up OSM as volunteer mappers. We have also reached out and organized training for LionMappersTeam-Enugu Campus and IgnatiusMappersTeam-Port Harcourt, linking them up to participate in micro grant community knowledge sharing webinar. After series of WhatsApp group knowledge sharing on OSM,Ijeoma Ladele had to travel more than 700km through the rough  South Western Nigeria Road from  University of Ibadan, Oyo State .to UniqueMappersTeam-University of Port Harcourt for one-one Impact training with the team coordinator,Ijeoma,an advocate of female gender mapping inclusion, will be raising an exclusive passionate team of female OSM Volunteers in Ibadan via the support of UniqueMappersTeam impact factor.
 
@@ -87,8 +87,3 @@ This impact has a trigger effect  and confidence to foreign  and local end users
 ![nigeria10.jpg](/uploads/nigeria10.jpg)
 ![nigeria11.jpg](/uploads/nigeria11.jpg)
 ![nigeria12.jpg](/uploads/nigeria12.jpg)
-
-
-
-
-
