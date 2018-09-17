@@ -8,4 +8,4 @@ Job Title: Developer
 Country: India
 ---
 
-Ramya has been involved in the OpenStreetMap community since 2015 and has contributed to the project at various levels.She supports building a data for good community and likes fun maps, taking GPS traces, and photographic records of her travels. She is currently based in Bengaluru, India.\
+Ramya has been involved in the OpenStreetMap community since 2015 and has contributed to the project at various levels. She supports building a data for good community and likes fun maps, taking GPS traces, and photographic records of her travels. She is currently based in Bengaluru, India.
