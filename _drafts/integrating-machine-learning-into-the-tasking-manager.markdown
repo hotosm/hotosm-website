@@ -1,6 +1,6 @@
 ---
 title: 'Integrating Machine Learning into the Tasking Manager: Notes on a Direction'
-date: 2018-09-14 16:12:00 Z
+date: 2018-09-17 16:12:00 Z
 Summary Text: We're moving towards how we leverage machine learning tools to improve
   data quality and help mappers map. Above is a shot from our design workshop we held
   at the HOT Summit in Dar es Salaam on August 31. Read more below about our ideas
@@ -69,8 +69,8 @@ Further work would look to improve automatic road classification and other autom
 
 ## Ways we will get started on this
 
-We are planning for a design and code sprint right after the upcoming SatSummit conference in Washington, DC next week. We’ll look to sketch out some implementation ideas plus begin building the initial pieces to get things working.
+We are planning for a design and code sprint right after the upcoming [SatSummit conference](https://2018.satsummit.io/) in Washington, DC this week. We’ll look to sketch out some implementation ideas plus begin building the initial pieces to get things working.
 
 Furthermore, this work will be a big driver within our Tasking Manager roadmap. Next week the Tasking Manager working group will be meeting to review the roadmap and discuss any other components of beginning to work on this.
 
-Want to join in on this process? Contribute to the ideas by jumping into [our shared document](https://docs.google.com/document/d/1O964dO7YAqp-GMzzzeI2t3U0g4sFaSIzlgngYDHizxU/edit?usp=sharing) which includes these notes. We'd like to see this grow and are open to ideas and ways the direction can be improved. 
+Want to join in on this process? Contribute to the ideas by jumping into [our shared document](https://docs.google.com/document/d/1O964dO7YAqp-GMzzzeI2t3U0g4sFaSIzlgngYDHizxU/edit?usp=sharing) which includes these notes. We'd like to see this grow and are open to ideas and ways the direction can be improved. You can also join the discussion online through HOT's Slack community ([register here](http://slack.hotosm.org/)).
