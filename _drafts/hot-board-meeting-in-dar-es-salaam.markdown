@@ -4,11 +4,13 @@ date: 2018-09-17 06:56:00 Z
 tags:
 - board
 - hotsummit
-Summary Text: 'HOT straddles a line between a community organisation and a humanitarian
+Summary Text: HOT straddles a line between a community organisation and a humanitarian
   NGO and the balance between the two is not always easy to maintain. However, we
   believe that it is important to try and achieve this, remaining true to the open,
   transparent and participatory nature of the community that HOT evolved from whilst
-  delivering value through humanitarian action and development. '
+  delivering value through humanitarian action and development. This feedback from
+  the in-person HOT board meeting in August outlines some of the ways we want to evolve
+  HOT to enable these powerful twin aims.
 Feature Image: "/uploads/hotboardtz.JPG"
 Country:
 - Tanzania
