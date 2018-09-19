@@ -21,13 +21,13 @@ In 2017 and 2018 there were 2,253 projects created within the Tasking Manager. W
 
 * 1% used OpenAerialMap imagery
 
-_Note: Many projects reference multiple imagery sources, so totals add up beyond 100%_
+*Note: Many projects reference multiple imagery sources, so totals add up beyond 100%*
 
 Thank you imagery providers for enabling OpenStreetMap mapping with open imagery!
 
 ### Clear image for better data
 
-The choice of imagery provider for any project depends on the clarity and recency of the images. Bing & DigitalGlobe are the most preferred imagery layers for mapping in majority of projects because of wide coverage & availability of imagery resolutions that makes it suitable for mapping. Since mid-2017, both ESRI and DigitalGlobe made their global layers available for OpenStreetMap use. When looking at 2018 only, use of ESRI imagery jumps up to one-third of all projects.
+The choice of imagery provider for any project depends on the clarity and recency of the images. Bing & DigitalGlobe are the most preferred imagery layers for mapping in a majority of projects because of wide coverage & availability of imagery resolutions that make it ideal for mapping. Since mid-2017, both ESRI and DigitalGlobe made their global layers available for OpenStreetMap use. When looking at 2018 only, use of ESRI imagery jumps up to one-third of all projects.
 
 Dig into the outputs of the data [here](https://docs.google.com/spreadsheets/d/1D1VRwJODtjrkTSGMc_nO2CzK9KZuDWhk2_YlSs_IKHE/edit#gid=0).
 
