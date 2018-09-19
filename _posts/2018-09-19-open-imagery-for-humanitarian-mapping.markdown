@@ -10,7 +10,7 @@ Working Group:
 - Technical
 ---
 
-Today is [SatSummit](https://2018.satsummit.io/) and we want to give a shout out to imagery providers and the layers they provide to the OpenStreetMap (OSM) community. As discussions about all aspects of processing and using satellite imagery, one aspect continues to make a huge impact -- access to imagery for OpenStreetMap. Microsoft, DigitalGlobe, Mapbox, and ESRI all provide global layers that make humanitarian mapping in OpenStreetMap possible.
+Today is [SatSummit](https://2018.satsummit.io/) and we want to give a shout out to imagery providers and the layers they provide to the OpenStreetMap (OSM) community. As discussions about all aspects of processing and using satellite imagery, one aspect continues to make a huge impact -- access to imagery for OpenStreetMap. [Microsoft Bing](https://www.bing.com/maps), [DigitalGlobe](https://www.digitalglobe.com/), [Mapbox](http://mapbox.com), and [ESRI](https://www.esri.com) all provide global layers that make humanitarian mapping in OpenStreetMap possible.
 
 We’ve been exploring the metadata of our [Tasking Manager projects](https://tasks.hotosm.org/contribute?difficulty=ALL) to gain insights about different project parameters and how we can improve data quality in our mapping. Today we've taken a look at the imagery source used across projects in the recent years. The HOT community continues to use the global layers and open imagery made available for OpenStreetMap and we see the impact of the open access through the Tasking Manager.
 
