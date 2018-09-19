@@ -3,6 +3,9 @@ title: Open Imagery for Humanitarian Mapping
 date: 2018-09-19 11:13:00 Z
 Summary Text: Analysis of imagery source use within the Tasking Manager
 Feature Image: "/uploads/ethiopia-wide.png"
+Person:
+- Ramya Ragupathy
+- Nate Smith
 ---
 
 Today is [SatSummit](https://2018.satsummit.io/) and we want to give a shout out to imagery providers and the layers they provide to the OpenStreetMap (OSM) community. As discussions about all aspects of processing and using satellite imagery, one aspect continues to make a huge impact -- access to imagery for OpenStreetMap. Microsoft, DigitalGlobe, Mapbox, and ESRI all provide global layers that make humanitarian mapping in OpenStreetMap possible.
@@ -21,13 +24,13 @@ In 2017 and 2018 there were 2,253 projects created within the Tasking Manager. W
 
 * 1% used OpenAerialMap imagery
 
-*Note: Many projects reference multiple imagery sources, so totals add up beyond 100%*
+*Note: Many projects reference multiple imagery sources, so totals add up beyond 100%. Keep reading for caveats and limitations.*
 
 Thank you imagery providers for enabling OpenStreetMap mapping with open imagery!
 
 ### Clear image for better data
 
-The choice of imagery provider for any project depends on the clarity and recency of the images. Bing & DigitalGlobe are the most preferred imagery layers for mapping in a majority of projects because of wide coverage & availability of imagery resolutions that make it ideal for mapping. Since mid-2017, both ESRI and DigitalGlobe made their global layers available for OpenStreetMap use. When looking at 2018 only, use of ESRI imagery jumps up to one-third of all projects.
+The choice of imagery provider for any project depends on the clarity and recency of the images. Bing & DigitalGlobe are the most preferred imagery layers for mapping in a majority of projects because of wide coverage & availability of imagery resolutions that make it ideal for mapping. Since mid-2017, both [ESRI](https://www.esri.com/arcgis-blog/products/arcgis-hub/constituent-engagement/esri-world-imagery-in-openstreetmap/) and [DigitalGlobe](http://blog.digitalglobe.com/news/digitalglobe-satellite-imagery-launch-for-openstreetmap/) made their global layers available for OpenStreetMap use. When looking at 2018 only, use of ESRI imagery jumps up to one-third of all projects.
 
 Dig into the outputs of the data [here](https://docs.google.com/spreadsheets/d/1D1VRwJODtjrkTSGMc_nO2CzK9KZuDWhk2_YlSs_IKHE/edit#gid=0).
 
