@@ -3,7 +3,6 @@ title: Open Imagery for Humanitarian Mapping
 date: 2018-09-19 11:13:00 Z
 Summary Text: Analysis of imagery source use within the Tasking Manager
 Feature Image: "/uploads/ethiopia-wide.png"
-Person: Ramya Ragupathy
 ---
 
 Today is [SatSummit](https://2018.satsummit.io/) and we want to give a shout out to imagery providers and the layers they provide to the OpenStreetMap (OSM) community. As discussions about all aspects of processing and using satellite imagery, one aspect continues to make a huge impact -- access to imagery for OpenStreetMap. Microsoft, DigitalGlobe, Mapbox, and ESRI all provide global layers that make humanitarian mapping in OpenStreetMap possible.
@@ -21,6 +20,8 @@ In 2017 and 2018 there were 2,253 projects created within the Tasking Manager. W
 * 17% used ESRI imagery
 
 * 1% used OpenAerialMap imagery
+
+_Note: Many projects reference multiple imagery sources, so totals add up beyond 100%_
 
 Thank you imagery providers for enabling OpenStreetMap mapping with open imagery!
 
