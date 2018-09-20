@@ -150,3 +150,4 @@ plugins:
 - jekyll-sitemap
 paginate: 16
 paginate_path: "/updates/page:num/"
+data_dir: ["_data/map/lastActive.json"]
