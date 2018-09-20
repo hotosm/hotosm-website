@@ -5,6 +5,7 @@ Photo: "/uploads/sila2.jpg"
 Member Type:
   Is Staff: true
 Job Title: Communications Manager
+Country: Turkey
 Working Group:
 - Communications
 Social Media (Full URL):
