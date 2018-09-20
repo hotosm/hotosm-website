@@ -63,7 +63,7 @@ layout: default
                 <h2>Global</h2>
                 <div class="roster-list-wrapper">
                 {% for person in sorted-people %}
-                {% if person.Country != 'Botswana' and person.Country != 'Turkey' and person.Country != 'Uganda' and person.Country != 'Tanzania' and person.Country != 'Indonesia' and person['Member Type']['Is Staff'] %}
+                {% if person.Country != 'Botswana' and person.Country != 'Uganda' and person.Country != 'Tanzania' and person.Country != 'Indonesia' and person['Member Type']['Is Staff'] %}
 
                 {% include blocks/roster-item.html %}
                 {% endif %}
