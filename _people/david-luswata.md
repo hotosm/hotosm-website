@@ -16,7 +16,6 @@ Project:
 - West Africa Ebola Epidemic
 - Mapping Financial Inclusion in Uganda
 - 'Field data collection for malaria elimination: National Malaria Programme'
-Country: Botswana
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/lusdavo
   Twitter: https://twitter.com/lusdavo
