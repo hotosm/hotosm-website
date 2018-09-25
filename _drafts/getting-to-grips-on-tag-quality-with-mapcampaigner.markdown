@@ -22,7 +22,7 @@ When we first launched, we had limited options for what tags could be tracked. U
 
 ![mapcampaign-yaml.png](/uploads/mapcampaign-yaml.png)
 
-To improve the experience when viewing a campaign, we evaluated the speed of how data was being shown on a campaign page. A key point of feedback has been that the data was slow to load or they were not able to process large areas of interest. Working with our partners [Kartoza](http://kartoza.com), we’ve been able to revamp how MapCampaigner queries data and makes it available for monitoring an area. Behind the scenes the application uses AWS Lambda to run functions that process data from HOT’s Overpass server for an active campaign area. We run this processing on an hourly basis to keep load on the Overpass server to a minimum and keep the data shown on the front-end fast for the user. 
+To improve the experience when viewing a campaign, we evaluated the speed of how data was being shown on a campaign page. A key point of feedback has been that the data was slow to load or they were not able to process large areas of interest. Working with our partners [Kartoza](http://kartoza.com), we’ve been able to revamp how MapCampaigner queries data and makes it available for monitoring an area. Behind the scenes the application uses [AWS Lambda](https://aws.amazon.com/lambda/) to run functions that process data from HOT’s Overpass server for an active campaign area. We run this processing on an hourly basis to keep load on the Overpass server to a minimum and keep the data shown on the front-end fast for the user. 
 
 ## How to get started?
 
@@ -44,8 +44,10 @@ The next step is to submit your campaign. The application will process the data 
 
 ![mapcampaigner-page.gif](/uploads/mapcampaigner-page.gif)
 
+*Check out this [example campaign](https://campaigns.hotosm.org/campaign/2d9946dc09a94ee8989fb3672fec44f9) across Lisbon, Portugal*
+
 ## Where is next?
 
-We’ve launched today but are continuing to work on the application. We wanted to push this work out as quick as possible to get it into the hands of the community to start using. We’re adding some features back that were left off this release and we will be rolling this out for wider use within projects. New features and updates will be rolled out periodically. 
+We’ve launched today but are continuing to work on the application. Thanks to Kartoza for supporting us in this work. We wanted to push this work out as quick as possible to get it into the hands of the community to start using. We’re adding some features back that were left off this release and we will be rolling this out for wider use within projects. New features and updates will be rolled out periodically. 
 
-Have some ideas about how we can improve or want to contribute to the development? Head over to GitHub and join the conversation online. Tweet your ideas or the campaign you created using the #MapCampaigner #hotosm hashtags. 
+Have some ideas about how we can improve or want to contribute to the development? Head over to the [GitHub repository](https://github.com/hotosm/MapCampaigner) and join the conversation online. Tweet your ideas or the campaign you created using the #MapCampaigner #hotosm hashtags. 
