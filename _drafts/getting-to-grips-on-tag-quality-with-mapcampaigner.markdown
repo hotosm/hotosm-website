@@ -10,7 +10,7 @@ Working Group:
 - Technical
 ---
 
-Last year at State of the Map in Boulder we announced a new tool called [MapCampaigner](https://campaigns.hotosm.org/). Today we're opening it up to anyone to create campaigns. MapCampaigner gives anyone the ability to monitor the quality and progress of OpenStreetMap field mapping anywhere around the world. We built this tool to enable project managers to track and evaluate data quality — in this case, attribute completeness — of an area. 
+Last year at State of the Map in Boulder [we announced](https://2017.stateofthemap.us/program/humanitarian-openstreetmap-team.html) a new tool called [MapCampaigner](https://campaigns.hotosm.org/). Today we're opening it up to anyone to create campaigns. MapCampaigner gives anyone the ability to monitor the quality and progress of OpenStreetMap field mapping anywhere around the world. We built this tool to enable project managers to track and evaluate data quality — in this case, attribute completeness — of an area. 
 
 Our initial announcement was a soft launch to test and see how mapping organizers or project managers could use the tool. Our goal with slowly rolling this out was to understand what was working, what wasn’t working, and how teams in the field could use it. Over the last three months, we’ve taken some of the primary feedback — speed and performance — and revamped how we process data to monitor an area. 
 
