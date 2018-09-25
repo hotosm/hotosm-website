@@ -1,6 +1,10 @@
 ---
 title: Getting to grips on tag quality with MapCampaigner
 date: 2018-09-25 08:20:00 Z
+Summary Text: Last year at State of the Map in Boulder we announced a new tool called
+  MapCampaigner. Today we're opening it up to anyone to create campaigns.
+Feature Image: "/uploads/mapcampaigner-landing.png"
+Person: Nate Smith
 ---
 
 Last year at State of the Map in Boulder we announced a new tool called [MapCampaigner](https://campaigns.hotosm.org/). Today we're opening it up to anyone to create campaigns. MapCampaigner gives anyone the ability to monitor the quality and progress of OpenStreetMap field mapping anywhere around the world. We built this tool to enable project managers to track and evaluate data quality — in this case, attribute completeness — of an area. 
