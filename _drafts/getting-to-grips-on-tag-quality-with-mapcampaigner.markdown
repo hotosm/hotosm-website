@@ -4,12 +4,15 @@ date: 2018-09-25 08:20:00 Z
 Summary Text: Last year at State of the Map in Boulder we announced a new tool called
   MapCampaigner. Today we're opening it up to anyone to create campaigns.
 Feature Image: "/uploads/mapcampaigner-landing.png"
+Is image top aligned: true
 Person: Nate Smith
+Working Group:
+- Technical
 ---
 
 Last year at State of the Map in Boulder we announced a new tool called [MapCampaigner](https://campaigns.hotosm.org/). Today we're opening it up to anyone to create campaigns. MapCampaigner gives anyone the ability to monitor the quality and progress of OpenStreetMap field mapping anywhere around the world. We built this tool to enable project managers to track and evaluate data quality — in this case, attribute completeness — of an area. 
 
-Our initial announcement was a soft launch to test and see how mapping project managers could use the tool. Our goal with slowly rolling this out was to understand what was working, what wasn’t working, and how teams in the field could use it. Over the last three months, we’ve taken some of the primary feedback — speed and performance — and revamped how we process data to monitor an area. 
+Our initial announcement was a soft launch to test and see how mapping organizers or project managers could use the tool. Our goal with slowly rolling this out was to understand what was working, what wasn’t working, and how teams in the field could use it. Over the last three months, we’ve taken some of the primary feedback — speed and performance — and revamped how we process data to monitor an area. 
 
 ![mapcampaigner-landing.png](/uploads/mapcampaigner-landing.png)
 
@@ -19,7 +22,7 @@ When we first launched, we had limited options for what tags could be tracked. U
 
 ![mapcampaign-yaml.png](/uploads/mapcampaign-yaml.png)
 
-To improve the experience when viewing a campaign, we evaluated the speed of how data was being shown on a campaign page. A key point of feedback has been that the data was slow to load or they were not able to process large areas of interest. Working with our partners [Kartoza](http://kartoza.com), we’ve been able to revamp how MapCampaigner queries data and makes it available for monitoring an area. Behind the scenes the application uses AWS Lambda to run and process data from HOT’s Overpass server for an active campaign area. We run this processing on an hourly basis to keep load on the Overpass server to a minimum and keep the data shown on the front-end fast for the user. 
+To improve the experience when viewing a campaign, we evaluated the speed of how data was being shown on a campaign page. A key point of feedback has been that the data was slow to load or they were not able to process large areas of interest. Working with our partners [Kartoza](http://kartoza.com), we’ve been able to revamp how MapCampaigner queries data and makes it available for monitoring an area. Behind the scenes the application uses AWS Lambda to run functions that process data from HOT’s Overpass server for an active campaign area. We run this processing on an hourly basis to keep load on the Overpass server to a minimum and keep the data shown on the front-end fast for the user. 
 
 ## How to get started?
 
@@ -43,6 +46,6 @@ The next step is to submit your campaign. The application will process the data 
 
 ## Where is next?
 
-We’ve launched today but are continuing to work on the application. We wanted to push this work out as quick as possible to get it into the hands of the community to start using. We’re adding some features back that were left off this release and we will be rolling this out for wider use within projects. 
+We’ve launched today but are continuing to work on the application. We wanted to push this work out as quick as possible to get it into the hands of the community to start using. We’re adding some features back that were left off this release and we will be rolling this out for wider use within projects. New features and updates will be rolled out periodically. 
 
 Have some ideas about how we can improve or want to contribute to the development? Head over to GitHub and join the conversation online. Tweet your ideas or the campaign you created using the #MapCampaigner #hotosm hashtags. 
