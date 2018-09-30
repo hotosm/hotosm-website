@@ -12,7 +12,7 @@ Working Group:
 
 Last year at State of the Map in Boulder [we announced](https://2017.stateofthemap.us/program/humanitarian-openstreetmap-team.html) a new tool called [MapCampaigner](https://campaigns.hotosm.org/). Today we're opening it up to anyone to create campaigns. MapCampaigner gives anyone the ability to monitor the quality and progress of OpenStreetMap field mapping anywhere around the world. We built this tool to enable project managers to track and evaluate data quality — in this case, completeness of [OpenStreetMap tags](https://wiki.openstreetmap.org/wiki/Tags) — of an area. 
 
-Our initial announcement was a soft launch to test and see how mapping organizers or project managers could use the tool. Our goal with slowly rolling this out was to understand what was working, what wasn’t working, and how teams in the field could use it. Over the last three months, we’ve taken some of the primary feedback — speed and performance — and revamped how we process data to monitor an area. 
+Our [initial announcement](https://www.hotosm.org/updates/2017-08-18_field_mapping_organizer_reaches_first_major_milestone) was a soft launch to test and see how mapping organizers or project managers could use the tool. Our goal with slowly rolling this out was to understand what was working, what wasn’t working, and how teams in the field could use it. Over the last three months, we’ve taken some of the primary feedback — speed and performance — and revamped how we process data to monitor an area. 
 
 ![mapcampaigner-landing.png](/uploads/mapcampaigner-landing.png)
 
@@ -26,7 +26,7 @@ To improve the experience when viewing a campaign, we evaluated the speed of how
 
 ## How to get started?
 
-To get started using MapCampaigner, head over to https://campaigns.hotosm.org where you will see a map of active campaigns. You can filter by those that are nearby, inactive, or browse projects globally. 
+To get started using MapCampaigner, head over to [campaigns.hotosm.org](https://campaigns.hotosm.org) where you will see a map of active campaigns. You can filter by those that are nearby, inactive, or browse projects globally. 
 
 Once you’ve signed in with OSM username, you can create a new campaign to track an area. As you fill in the details about your campaign, you choose the date range for what you want to monitor. You can go back in time to see what was previously collected and by whom, or you can set it for the future to monitor and create an active campaign to collect a feature with attributes. 
 
