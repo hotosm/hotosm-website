@@ -1,5 +1,5 @@
 ---
-title: Associate Project Manager- Aruba
+title: Associate Project Manager- Aruba (Contingent on Funding)
 date: 2018-10-03 13:48:00 Z
 published: false
 Deadline Date: 2018-10-14 00:00:00 Z
@@ -9,7 +9,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdj-WEutX5aIkvy2wRqyff
 
 **Contract duration:** Fixed-term 3 month contract (full-time)
 **Location/Duty Station:** Aruba
-**Closes: **14 October, 2018
+**Closes:** 14 October, 2018
 **Projected start date:** November 2018
 **Reports to:** Director, Community Programs 
 
