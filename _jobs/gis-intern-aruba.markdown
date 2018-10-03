@@ -7,11 +7,15 @@ Place of Work: Aruba
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeWhpvZj5rCHj9Ye1dKh3IkR4oW_R3dVnenheW8gzHegRsKmw/viewform
 ---
 
-**Contract duration:**  Fixed-term 6 week contract (full-time) <br>
-**Location/Duty Station: ** Oranjestad, Aruba <br>
-**Closes:**  14 October 2018 <br>
-**Projected start date: **November, 2018 <br>
-**Reports to:**  Director, Community Programs <br>
+**Contract duration:**  Fixed-term 6 week contract (full-time)
+
+**Location/Duty Station:** Oranjestad, Aruba
+
+**Closes:**  14 October 2018
+
+**Projected start date:** November, 2018
+
+**Reports to:**  Director, Community Programs 
 
 # About HOT
 
