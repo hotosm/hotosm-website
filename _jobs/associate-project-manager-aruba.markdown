@@ -7,9 +7,13 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdj-WEutX5aIkvy2wRqyff
 ---
 
 **Contract duration:** Fixed-term 3 month contract (full-time)
+
 **Location/Duty Station:** Aruba
+
 **Closes:** 14 October, 2018
+
 **Projected start date:** November 2018
+
 **Reports to:** Director, Community Programs 
 
 ## About HOT
