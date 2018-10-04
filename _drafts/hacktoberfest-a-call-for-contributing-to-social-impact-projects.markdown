@@ -11,16 +11,16 @@ Working Group:
 
 It’s October and [Hacktoberfest](https://hacktoberfest.digitalocean.com/) has started. Hacktoberfest is the annual celebration of open source software hosted by Digital Ocean, GitHub, and Twilio to promote contributing to open source projects. This year [GitHub is calling for a Social Impact Challenge](https://blog.github.com/2018-10-02-join-the-social-impact-hacktoberfest-challenge/) during the month to highlight open source projects focused on social impact. We’re working with GitHub to have the [Tasking Manager project highlighted](https://blog.github.com/2018-10-02-join-the-social-impact-hacktoberfest-challenge/#humanitarian-openstreetmap) as open source project available for contributions. 
 
-Join us in celebrating open source and get started working on the Tasking Manager or any of HOT’s other open source projects. Keep reading for what we're focused on this Hacktoberfest and how you can get started. Or [sign up for GitHub's Challenge](https://github.community/t5/Social-Impact-Collection/con-p/SocialImpactCollectionChallenge) now.
+Join us in celebrating open source by working on the Tasking Manager or any of HOT’s other open source projects. Keep reading for what we're focused on this Hacktoberfest and how you can get started. Or jump in and [check out our projects](https://github.com/hotosm) and then [sign up for GitHub's Challenge](https://github.community/t5/Social-Impact-Collection/con-p/SocialImpactCollectionChallenge).
 
 ## Highlighting priorities
 
 Anyone can get involved with our projects. In addition to the Tasking Manager, HOT has over 15 active open source open source projects. Interested? Here are the projects we’re highlighting alongside the Tasking Manager that have introductory issues for first-time contributors. 
 
-- Tasking Manager
-- Visualize Change
-- OpenMapKit
-- HOTOSM.org
+- [Tasking Manager](https://github.com/hotosm/tasking-manager)
+- [Visualize Change](https://github.com/hotosm/visualize-change)
+- [OpenMapKit](https://github.com/hotosm/OpenMapKitServer)
+- [HOTOSM.org](https://github.com/hotosm/hotosm-website)
 
 Haven’t contributed before or want to offer a small contribution to start with? Check out the Easy Difficulty issues. Or if you’re interested in tackling a harder problem, look at the Medium or Hard level problems to see where you can get involved. 
 
