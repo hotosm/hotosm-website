@@ -40,9 +40,9 @@ There will be a need for strong organisational skills, and understanding of the 
 * Adapt to changing project priorities and support other duties as assigned.
 
  
-## About You
+# About You
 
-### Required
+## Required
 * Care deeply about the mission: passionate about humanitarian / development work demonstrated through prior professional or volunteer experiences
 * At least 2-3 years professional experience
 Bachelor’s or Master’s degree (Preferred)
@@ -58,7 +58,7 @@ Bachelor’s or Master’s degree (Preferred)
 * Demonstrated understanding of open source culture and ethos across cultural contexts.
 * Able to travel 100%
 
-### Additional desirable skillsets:
+## Additional desirable skillsets:
 * Experience working in or knowledge of complex refugee and migration situations.
 * Clear vision of participatory data collection methods and community involvement, preferably using OpenStreetMap.
 * Experience with OpenStreetMap tools, such JOSM and iD.
