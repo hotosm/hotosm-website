@@ -8,7 +8,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeWhpvZj5rCHj9Ye1dKh3I
 
 **Contract duration:**  Fixed-term 6 week contract (full-time)
 
-**Location/Duty Station:** Oranjestad, Aruba
+**Location/Duty Station:** Aruba
 
 **Closes:**  14 October 2018
 
