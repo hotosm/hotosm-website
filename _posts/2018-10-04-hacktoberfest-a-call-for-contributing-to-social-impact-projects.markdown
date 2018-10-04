@@ -41,6 +41,6 @@ Here's how you contribute:
 
 ## A start to additional volunteer opportunities
 
-This month also marks a starting point for new volunteer opportunities and roles. We will be rolling out more clarified ways you can be a volunteer with non-mapping activities with HOT’s open source tools. Stay tuned to further calls for helping support the HOT Community through open source project contributions and support. 
+This month also marks a starting point for new tech volunteer opportunities and roles within HOT. We will be rolling out more clarified ways you can be a volunteer with non-mapping activities with HOT’s open source tools. Stay tuned to further calls for helping support the HOT Community through open source project contributions and support. 
 
 Thank you to [GitHub](https://github.com/), [Twillio](https://www.twilio.com/), and [Digital Ocean](https://www.digitalocean.com/) for helping organize Hacktoberfest. Happy contributing!
