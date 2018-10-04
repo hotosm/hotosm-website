@@ -13,7 +13,7 @@ It’s October and [Hacktoberfest](https://hacktoberfest.digitalocean.com/) has 
 
 Join us in celebrating open source and get started working on the Tasking Manager or any of HOT’s other open source projects. Keep reading for what we're focused on this Hacktoberfest and how you can get started. Or [sign up for GitHub's Challenge](https://github.community/t5/Social-Impact-Collection/con-p/SocialImpactCollectionChallenge) now.
 
-Highlighting priorities
+## Highlighting priorities
 
 Anyone can get involved with our projects. In addition to the Tasking Manager, HOT has over 15 active open source open source projects. Interested? Here are the projects we’re highlighting alongside the Tasking Manager that have introductory issues for first-time contributors. 
 
@@ -26,7 +26,7 @@ Haven’t contributed before or want to offer a small contribution to start with
 
 You don’t have to be a programmer to participate. We have a diverse set of tasks for anyone to work on. 
 
-Steps to contribute
+## Steps to contribute
 
 Here's how you contribute:
 
@@ -38,6 +38,9 @@ Here's how you contribute:
 - Create a separate branch on your fork for the issue that you wish to work on.
 - Push your changes to the forked repository and then create a pull request on the main repository.
 - If you still need help, ask for help on the relevant issue.
-A start to additional volunteer opportunities
 
-This month also marks a starting point for new volunteer opportunities and roles. We will be rolling out more clarified ways you can be a volunteer with non-mapping activities with HOT’s open source tools. 
+## A start to additional volunteer opportunities
+
+This month also marks a starting point for new volunteer opportunities and roles. We will be rolling out more clarified ways you can be a volunteer with non-mapping activities with HOT’s open source tools. Stay tuned to further calls for helping support the HOT Community through open source project contributions and support. 
+
+Thank you to [GitHub](https://github.com/), [Twillio](https://www.twilio.com/), and [Digital Ocean](https://www.digitalocean.com/) for helping organize Hacktoberfest. Happy contributing!
