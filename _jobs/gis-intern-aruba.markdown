@@ -18,7 +18,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeWhpvZj5rCHj9Ye1dKh3I
 
 # About HOT
 
-Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 50,000 people with ground operations in five countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
+Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 130,000 people with ground operations in five countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
 
 HOT is soliciting CVs of applicants for positions in Aruba for an anticipated project supporting an UNHCR initiative that can help in overcoming the data gaps and challenges in the Aruba and enhance the response to the Venezuela situation through gathering needed data and expanding analysis on the population characteristics, needs and their living conditions in the host countries.  **This position is contingent on receipt of funding for project.**
 
