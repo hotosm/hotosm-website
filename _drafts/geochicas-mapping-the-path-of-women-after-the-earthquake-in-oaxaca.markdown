@@ -2,12 +2,7 @@
 title: 'GeoChicas: Mapping the path of women after the earthquake in Oaxaca'
 date: 2018-10-05 08:55:00 Z
 Summary Text: The earthquakes that occurred in September 2017 in Mexico affected different
-  areas of the country, including Mexico City, Chiapas and the State of Oaxaca, the
-  latter being one of the regions most damaged by the disaster due to the different
-  conditions of high vulnerability of the place. The Oaxaca region, historically recognized
-  as a territory with many cultural, socio-economic and political complexities is
-  also an area of ​​difficult access, so working in the communities represented a
-  double challenge.
+  areas of the country, including Mexico City, Chiapas and the State of Oaxaca.
 Feature Image: "/uploads/IMG-20180602-WA0004.jpg"
 Is image top aligned: false
 Person: Geoffrey Kateregga
