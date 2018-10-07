@@ -10,7 +10,8 @@ Project:
 - 'Field data collection for malaria elimination: National Malaria Programme'
 - 'Supporting decentralization in Liberian cities: LEGIT'
 Social Media (Full URL):
-  OSM: jessbeutler
+  OSM: https://www.openstreetmap.org/user/jessbeutler
+  LinkedIn: https://www.linkedin.com/in/jess-beutler/
 redirect_from:
 - "/users/jessica_beutler"
 ---
