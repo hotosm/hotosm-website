@@ -6,8 +6,11 @@ Member Type:
   Is Staff: true
 Job Title: Training Specialist/Data Quality Coordinator
 Project:
+- Eliminar la Malaria 2020
 - 'Field data collection for malaria elimination: National Malaria Programme'
 - 'Supporting decentralization in Liberian cities: LEGIT'
+Social Media (Full URL):
+  OSM: jessbeutler
 redirect_from:
 - "/users/jessica_beutler"
 ---
