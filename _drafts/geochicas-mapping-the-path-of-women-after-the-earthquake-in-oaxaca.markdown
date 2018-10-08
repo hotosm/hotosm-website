@@ -15,10 +15,11 @@ Project:
 - 'GeoChicas: Mapping the Gendered Effects of Disasters'
 ---
 
+*Guest blog - Selene Yang, GeoChicas*
+
 The earthquakes that occurred in September 2017 in Mexico affected different areas of the country, including Mexico City, Chiapas and the State of Oaxaca, the latter being one of the regions most damaged by the disaster due to the different conditions of high vulnerability of the place. The Oaxaca region, historically recognized as a territory with many cultural, socio-economic and political complexities is also an area of ​​difficult access, so working in the communities represented a double challenge.
 
 The field work consisted of conducting interviews with different community leaders, generating documentation through photomapping with Mapillary and OpenStreetCam on the status of the area's affectation and recovery, and also the survey of infrastructure that needed to be mapped in OpenStreetMap. In total, 18 municipalities and 11 localities in the State of Oaxaca were visited; more than 10 interviews were carried out with people affected by the earthquake, more than 900 amenities were added and more than 166K of photographs were loaded to Mapillary and OpenStreetCam, with the intention of producing the maximum amount of cartographic information at the building level in the region of Oaxaca, street-level images, covering entire villages, provide material for the community to participate in identifying and counting damaged buildings.
-
 
 Through fieldwork carried out initially, we have been able to gather information that guides us towards the lack of use of official shelters by the affected people, since there is a feeling of the community and strong family ties, and in that way their needs based on the support of the neighbors, so they generated transient informal shelters; many of which - almost a year later - are no longer in operation. Many of the formal shelters established by the government response authorities were not used because of the complexity of the logistics processes and requirements to access the support they provided.
 ![IMG_20180531_083336-dbe35e.jpg](/uploads/IMG_20180531_083336-dbe35e.jpg)
