@@ -10,7 +10,7 @@ layout: default
     </header>
 
     <!-- based on the grid, placing first country title above content grid for alignment -->
-    <h2>Botswana</h2>
+    <h2>Guatemala</h2>
 
     <div class="roster-body">
 
@@ -25,7 +25,7 @@ layout: default
 
                 <div class="roster-list-wrapper">
                 {% for person in sorted-people %}
-                {% if person.Country == 'Botswana' and person['Member Type']['Is Staff'] %}
+                {% if person.Country == 'Guatemala' and person['Member Type']['Is Staff'] %}
                 {% include blocks/roster-item.html %}
                 {% endif %}
                 {% endfor %}
@@ -60,10 +60,20 @@ layout: default
                 {% endfor %}
                 </div>
 
+                <h2>Zambia</h2>
+                <div class="roster-list-wrapper">
+                {% for person in sorted-people %}
+                {% if person.Country == 'Zambia' and person['Member Type']['Is Staff'] %}
+
+                {% include blocks/roster-item.html %}
+                {% endif %}
+                {% endfor %}
+                </div>
+
                 <h2>Global</h2>
                 <div class="roster-list-wrapper">
                 {% for person in sorted-people %}
-                {% if person.Country != 'Botswana' and person.Country != 'Uganda' and person.Country != 'Tanzania' and person.Country != 'Indonesia' and person['Member Type']['Is Staff'] %}
+                {% if person.Country != 'Guatemala' and person.Country != 'Zambia' and person.Country != 'Uganda' and person.Country != 'Tanzania' and person.Country != 'Indonesia' and person['Member Type']['Is Staff'] %}
 
                 {% include blocks/roster-item.html %}
                 {% endif %}
