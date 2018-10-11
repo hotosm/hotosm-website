@@ -1,5 +1,5 @@
 ---
-title: Mapping Supervisors -Aruba (2 Positions)
+title: Mapping Supervisors - Aruba (2 Positions)
 date: 2018-10-04 18:15:00 Z
 Deadline Date: 2018-10-14 00:00:00 Z
 Place of Work: Aruba
