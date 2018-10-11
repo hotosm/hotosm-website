@@ -28,7 +28,8 @@ Around 25000 new edits were contributed via this exercise and 125 new mappers fr
 
 As per the above the mentioned task, 21 individuals have contributed to trace the building’s footprints amounting to around 5840 buildings and 447 km of roads. Top 6 volunteer contributors were identified out of 21 contributors for this particular task. Their contribution is extremely important for the development of the geo database for the divisional secretariat office. They had created a database with the administrative information which will be linked with spatial data using QGIS interface which would act as a model for all administrative divisions of Sri Lanka.  
 
-![image7.png](/uploads/image7.png)![image6.png](/uploads/image6.png)
+![image7.png](/uploads/image7.png)
+![image6.png](/uploads/image6.png)
 The working task for the Hot micro-grant project 
 
 
@@ -44,10 +45,8 @@ There were around 40 participants including both undergraduate and postgraduate 
 * Mapillary
 * Building Survey Quaternaries
 
-Inauguration of the workshop at the University of Peradeniya
-
-University of Peradeniya - Lab training
 ![image11.png](/uploads/image11.png)
+
 The University of Peradeniya - Field work
 
 
@@ -60,7 +59,9 @@ This workshop was held on 31st of May 2018 at the Eastern University of Sri Lank
 OSM for engineering students:  Workshop at South Eastern University of Sri Lanka
 Another workshop was held on 1st of June 2018 at the South Eastern University of Sri Lanka, Oluvil, Sri Lanka. The target OSM community was civil engineering undergraduates and there were around 40 participants. This one-day workshop was conducted by the OSM Sri Lanka Community members in collaboration with OSGeo Sri Lanka Chapter. The training was a new experience for them and they were surprised when they themselves have completed a task to trace their University premises and surrounding areas.  This workshop would be a beginning to introduce the OSM and its advantages for civil engineering students.  
 (https://tasks.hotosm.org/project/4634/dashboard)
+
 ![image4.jpg](/uploads/image4.jpg)
+
 Workshop at South Eastern University of Sri Lanka
 
 **The exhibition on Cyber Tech – 2018 held at Advance Technological Institute of Education in Batticaloa Sri Lanka.** 
@@ -68,4 +69,5 @@ Workshop at South Eastern University of Sri Lanka
 Young members of the OSM Batticaloa community had participated in the Cyber Tech – 2018, IT awareness exhibition held at ATI, Batticaloa, providing well-deserved publicity for OSM and its application for the young community.  The exhibition organizers have realized the valuable contribution by the OSM Sri Lanka Community to develop the maps around the island and it is a highly fulfilling achievement for the youth who are involved in the community mapping.
 
 ![image2.jpg](/uploads/image2.jpg)  
+
 The exhibition on Cyber Tech - 2018, Batticaloa 
