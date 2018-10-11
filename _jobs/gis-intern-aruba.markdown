@@ -6,7 +6,7 @@ Place of Work: Aruba
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeWhpvZj5rCHj9Ye1dKh3IkR4oW_R3dVnenheW8gzHegRsKmw/viewform
 ---
 
-**Contract duration:**  Fixed-term 6 week contract (full-time)
+**Contract duration:**  Fixed-term 6-8 week contract (full-time)
 
 **Location/Duty Station:** Aruba
 
@@ -14,71 +14,57 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeWhpvZj5rCHj9Ye1dKh3I
 
 **Projected start date:** 22-29 October, 2018
 
-**Reports to:**  Director, Community Programs 
+**Reports to:**  Information Management Associate 
 
 # About HOT
 
-Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 130,000 people with ground operations in five countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
+Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 130,000 people with ground operations in eight countries. During crisis, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
 
-HOT is soliciting CVs of applicants for positions in Aruba for an anticipated project supporting an UNHCR initiative that can help in overcoming the data gaps and challenges in the Aruba and enhance the response to the Venezuela situation through gathering needed data and expanding analysis on the population characteristics, needs and their living conditions in the host countries.  **This position is contingent on receipt of funding for project.**
+HOT is soliciting CVs of applicants for positions in Aruba for an anticipated project supporting UNHCR and the Government of Aruba. Goals of the project include rapid population estimation, profiling of migration / populations of concern (including migration related to the Venezuela crisis) and mapping access to key social services related to protection issues.
 
 ## About the Position
 
-The GIS/Field Mapping Intern will support HOT’s mapping, data collection, and training activities on the project in close coordination with the Project Manager. This includes delivering in-person training, and assisting with implementation of field data collection. This role is a six (6) week assignment based in select localities of Aruba.
+This position will support a workstream related to gathering, analyzing, and reporting on data related to a rapid population estimation and profiling exercise. The intern will, in addition to co-designing data collection methods and instruments, support data analysis and information product design. This includes statistical and qualitative analysis of household survey data, producing infographics, print and web maps, data visualizations (charts/graphs), and reports. The candidate selected will work closely with another team responsible for managing data collection and survey operations.
+
+This individual will ensure that data is up to date, correctly attributed and openly accessible, to facilitate the creation of comprehensive, highly detailed common operational datasets, population estimates, and protection profiles for populations of concern.
+
+S/he may also support monitoring and evaluation, ensuring that outputs and outcomes of project activities are appropriately captured in order to provide accurate, nuanced reporting to project partners. The intern will involve management and manipulations of data across platforms, and require inclusion of responsible data practices for working with sensitive data.
+
 
 ## Responsibilities
+* Support development of household surveys using mobile tools such as OpenDataKit (ODK) and Kobo Collect.
+* Help organise and manage survey forms and resulting data sets conduct initial analysis of the data.
+* Analyze qualitative and quantitative data sets using statistical software and GIS tools.
+* Assist in creating data products such as web and print maps and infographics which integrate open geospatial data / OpenStreetMap with household survey quantitative and qualitative data sets.
+* Communicate about project activity, including assisting with regular blogs posts and (social) media updates as required.
+* Assist with production of detailed reports and presentations incorporating above outputs.
+* Adapt to changing project priorities and support other duties as assigned.
 
-* Support the mapping process for localities in Aruba.
-
-* Receive technical training from the HOT Project Manager in order to build capacity in mapping, mobile data collection, understanding of OpenStreetMap principles and procedures, data analysis, and map production.
-
-* Work with HOT Project Manager to train mapping teams in mobile data collection methodologies and purposes.
-
-* Assist in overseeing mapping team efforts to ensure that mapping is completed on time and to a high standard of quality.
-
-* Assist mapping teams with any difficulties encountered during the mapping process.
-
-* Support uploading of mapped data into OSM.
-
-* Working closely with partner organization staff to ensure that the data collected provides useful insight to guide their malaria control programs.
-
-* Engage local communities and partners to educate people about the value of open data and mapping as a key infrastructure to sustainable development and the use of available open data repositories for the appropriate geographic data.
 
 # About You
 
 ## Essential:
 
-* Hold, or in the process of obtaining, a university or college degree in Public Health, Geography, GIS, Disaster Risk Management, Urban Planning, or a related field.
+* Care deeply about the mission: passionate about humanitarian / development work demonstrated through prior professional or volunteer experience
+* Bachelor’s or Master’s degree (Preferred)
+* Experience in GIS and geospatial data analysis
+* Experience with mobile survey tools including OpenMapKit, OpenDataKit (ODK), Kobo Collect, X-form building
+* Experience running training sessions, workshops or teaching
+ICT and information management skills and eagerness/ability to learn new technologies
+* Strong communication skills, including advanced written and spoken English
+* Qualitative and quantitative analytical skills using statistical software or programming languages
+* Proven ability to work independently and lead activities, complete deliverables with minimal supervision.
+* Demonstrated understanding of open source culture and ethos across cultural contexts
+* Able to travel 100%
 
-* Strong computer skills and eagerness/ability to learn new technologies.
-
-* Interest in mapping, open data and open source technologies. Experience with GIS, and especially OpenStreetMap, is a strong advantage.
-
-* Experience in field data collection, preferable with mobile (digital) data collection tools.
-
-* Experience with spatial data analysis.
-
-* Good communication skills, experience in presenting and training is highly preferred
-
-* Confidence in speaking to groups and leading training sessions.
-
-* Ability to work in an environment of diverse languages and cultures.
-
-* Willingness to live and work in a challenging environment with limited amenities.
-
-* Able to travel and be deployed for the full contract duration
 
 ## Additional desirable skill sets/experience:
+* Experience working in or knowledge of complex refugee and migration situations
+* Clear vision of participatory data collection methods and community involvement, preferably using OpenStreetMap
+* Experience with OpenStreetMap tools, such JOSM and iD
+* Experience with open source GIS tools such as QGIS
+* Experience working with business intelligence/reporting tools such as PowerBI
 
-* Experience in disaster response, open data or open source strongly desired
-
-* Experience working in Caribbean  strongly desired
-
-* OpenMapKit, OpenDataKit, and/or Kobo Collect experience
-
-* Experience with QGIS
-
-* Previous experience in community building and development.
 
 ## Conditions
 
