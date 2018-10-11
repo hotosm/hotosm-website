@@ -16,8 +16,7 @@ Project:
 
 Since May 2018, the HOT Microgrants program has supported the OSM Sri Lanka Community to conduct a series of workshops and training programs throughout the country, including underdeveloped rural areas, Universities, and Local Authorities. The workshops were aimed at updating the building information, land use information, road network, points of interest and identifying the hazard areas in particular regions using community participatory methods and building the capacity of the community in mapping with OSM for the betterment of all.
 
-![image5.jpg](/uploads/image5.jpg)
-Northern Local OSM Contributors
+![34777648_10216920423102817_8461302164025769984_n.jpg](/uploads/34777648_10216920423102817_8461302164025769984_n.jpg)
 
 **Impact on OSM in Sri Lanka and for Disaster Risk Reduction**
 
@@ -75,7 +74,7 @@ Another workshop was held on 1st of June 2018 at the South Eastern University of
 
 ![34049204_10216871482839341_5918604670648975360_o (1).jpg](/uploads/34049204_10216871482839341_5918604670648975360_o%20(1).jpg)
 
-Workshop at South Eastern University of Sri Lanka**-**Certificate awarding ceremony
+Workshop at South Eastern University of Sri Lanka\*\*-\*\*Certificate awarding ceremony
 
 **The exhibition on Cyber Tech – 2018 held at Advance Technological Institute of Education in Batticaloa Sri Lanka.**
 
@@ -83,4 +82,4 @@ The young members of the OSM Batticaloa community participated in the Cyber Tech
 
 ![image2.jpg](/uploads/image2.jpg)
 
-_The exhibition on Cyber Tech - 2018, Batticaloa_
+*The exhibition on Cyber Tech - 2018, Batticaloa*
