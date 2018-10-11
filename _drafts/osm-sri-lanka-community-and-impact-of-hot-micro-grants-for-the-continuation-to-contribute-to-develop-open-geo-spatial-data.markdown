@@ -29,7 +29,6 @@ Around 25000 new edits were contributed via this exercise and 125 new mappers fr
 As per the above the mentioned task, 21 individuals have contributed to trace the building’s footprints amounting to around 5840 buildings and 447 km of roads. Top 6 volunteer contributors were identified out of 21 contributors for this particular task. Their contribution is extremely important for the development of the geo database for the divisional secretariat office. They had created a database with the administrative information which will be linked with spatial data using QGIS interface which would act as a model for all administrative divisions of Sri Lanka.  
 
 ![image7.png](/uploads/image7.png)
-![image6.png](/uploads/image6.png)
 The working task for the Hot micro-grant project 
 
 
