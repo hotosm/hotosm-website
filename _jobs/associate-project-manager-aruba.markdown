@@ -14,7 +14,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdj-WEutX5aIkvy2wRqyff
 
 **Projected start date:** 22-29 October, 2018
 
-**Reports to:** Director, Community Programs 
+**Reports to:** Project Manager, Aruba 
 
 ## About HOT
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 130,000 people with ground operations in eight countries. During crisis, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
@@ -47,7 +47,7 @@ S/he may also serve in a monitoring and evaluation capacity, ensuring that outpu
 * Experience in GIS and geospatial data analysis
 * Experience with mobile survey tools including OpenMapKit, OpenDataKit (ODK), Kobo Collect, X-form building
 * Experience running training sessions, workshops or teaching
-* Strong ICT and information management skills and eagerness/ability to learn new technologies.
+* Strong ICT and information management skills and eagerness/ability to learn new technologies
 * Strong organisational skills
 * Strong communication skills, including advanced written and spoken English
 * Qualitative and quantitative analytical skills using statistical software or programming languages (STATA, R, or others)
