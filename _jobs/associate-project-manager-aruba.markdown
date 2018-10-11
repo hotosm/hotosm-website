@@ -1,12 +1,12 @@
 ---
-title: Information Management Associate- Aruba (Contingent on Funding)
+title: Information Management Associate- Aruba
 date: 2018-10-03 13:48:00 Z
 Deadline Date: 2018-10-14 00:00:00 Z
 Place of Work: Aruba
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdj-WEutX5aIkvy2wRqyffgFfSLyI4NgDRZ5GYPiQK6y2TuKQ/viewform
 ---
 
-**Contract duration:** Fixed-term 3 month contract (full-time)
+**Contract duration:** Fixed-term 6-8 week contract (full-time)
 
 **Location/Duty Station:** Aruba
 
