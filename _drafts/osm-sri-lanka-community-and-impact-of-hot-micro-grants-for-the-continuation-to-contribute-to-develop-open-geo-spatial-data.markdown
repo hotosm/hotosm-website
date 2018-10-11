@@ -53,14 +53,13 @@ The University of Peradeniya - Field work
 **Bringing OSM to the university community:  Workshop at the Easter University of Sri Lanka**
 This workshop was held on 31st of May 2018 at the Eastern University of Sri Lanka, Vantharamulai, Sri Lanka. The target OSM community was Geography Special Degree undergraduate students. Located in the Eastern province of Sri Lanka, in the District of Batticaloa, where OSM was practiced previously as well, this is a very productive place to train the community in OSM.  OSM Community of Sri Lanka had previously held a two days' training workshop on OSM at the same university. With the financial support of the HOT Microgtants project and the technical support of OSGeo Local Chapter and OSM Sri Lanka Community, this workshop has helped them to continue to learn OSM and enhance and upgrade their current knowledge.  Being one of the most affected city by intensive flooding, the community of Batticaloa are highly motivated and actively involved with the OSM data creation.
 
-
+![34049204_10216871482839341_5918604670648975360_o (1).jpg](/uploads/34049204_10216871482839341_5918604670648975360_o%20(1).jpg)
 **Workshop at the Easter University of Sri Lanka -Trainees and resource persons**
 
 OSM for engineering students:  Workshop at South Eastern University of Sri Lanka
 Another workshop was held on 1st of June 2018 at the South Eastern University of Sri Lanka, Oluvil, Sri Lanka. The target OSM community was civil engineering undergraduates and there were around 40 participants. This one-day workshop was conducted by the OSM Sri Lanka Community members in collaboration with OSGeo Sri Lanka Chapter. The training was a new experience for them and they were surprised when they themselves have completed a task to trace their University premises and surrounding areas.  This workshop would be a beginning to introduce the OSM and its advantages for civil engineering students.  
 (https://tasks.hotosm.org/project/4634/dashboard)
-
-![image4.jpg](/uploads/image4.jpg)
+![34049204_10216871482839341_5918604670648975360_o (1).jpg]
 
 Workshop at South Eastern University of Sri Lanka
 
