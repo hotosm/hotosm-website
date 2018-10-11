@@ -5,6 +5,13 @@ date: 2018-10-11 09:05:00 Z
 Summary Text: Since May 2018, the HOT Microgrants program has supported the OSM Sri
   Lanka Community to conduct a series of workshops and training programs throughout
   the country, including underdeveloped rural areas, Universities, and Local Authorities.
+Feature Image: "/uploads/image5.jpg"
+Working Group:
+- Community
+Country:
+- Sri Lanka
+Project:
+- 'Community development: Microgrants and Device Grants'
 ---
 
 Since May 2018, the HOT Microgrants program has supported the OSM Sri Lanka Community to conduct a series of workshops and training programs throughout the country, including underdeveloped rural areas, Universities, and Local Authorities. The workshops were aimed at updating the building information, land use information, road network, points of interest and identifying the hazard areas in particular regions using community participatory methods and building the capacity of the community in mapping with OSM for the betterment of all.
