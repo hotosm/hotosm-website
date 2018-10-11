@@ -72,9 +72,7 @@ This workshop was held on 31st of May 2018 at the Eastern University of Sri Lank
 Workshop at South Eastern University of Sri Lanka**-**Certificate awarding ceremony
 
 **OSM for engineering students:  Workshop at South Eastern University of Sri Lanka**
-Another workshop was held on 1st of June 2018 at the South Eastern University of Sri Lanka, Oluvil, Sri Lanka. The target OSM community was civil engineering undergraduates and there were around 40 participants. This one-day workshop was conducted by the OSM Sri Lanka Community members in collaboration with OSGeo Sri Lanka Chapter. The training was a new experience for them and they were surprised when they themselves completed a task to trace their University premises and surrounding areas.  This workshop was the beginning to introduce the OSM and its advantages for civil engineering students.\
-\(https://tasks.hotosm.org/project/4634/dashboard)
-!\[34049204_10216871482839341_5918604670648975360_o (1).jpg\]
+Another workshop was held on 1st of June 2018 at the South Eastern University of Sri Lanka, Oluvil, Sri Lanka. The target OSM community was civil engineering undergraduates and there were around 40 participants. This one-day workshop was conducted by the OSM Sri Lanka Community members in collaboration with OSGeo Sri Lanka Chapter. The training was a new experience for them and they were surprised when they themselves completed a task to trace their University premises and surrounding areas.  This workshop was the beginning to introduce the OSM and its advantages for civil engineering students.
 
 _Workshop at South Eastern University of Sri Lanka_
 
