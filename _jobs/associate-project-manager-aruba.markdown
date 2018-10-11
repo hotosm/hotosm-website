@@ -12,7 +12,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdj-WEutX5aIkvy2wRqyff
 
 **Closes:** 14 October, 2018
 
-**Projected start date:** November 2018
+**Projected start date:** 22-29 October, 2018
 
 **Reports to:** Director, Community Programs 
 
