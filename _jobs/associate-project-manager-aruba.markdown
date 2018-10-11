@@ -29,36 +29,36 @@ This individual will ensure that data is up to date, correctly attributed and op
 S/he may also serve in a monitoring and evaluation capacity, ensuring that outputs and outcomes of project activities are appropriately captured in order to provide accurate, nuanced reporting to project partners. The position will involve management and manipulations of data across platforms, and require inclusion of responsible data practices for working with sensitive data.
 
 **Responsibilities**
-*Support development of household surveys using mobile data collection tools such as OpenDataKit (ODK) and Kobo Collect.
-*Organise and manage survey forms, data flows, and resulting data sets, and  conduct initial analysis of the data.
-*Design, implement and regularly update the Information Management Strategy and the Dissemination Plan for information management products produced by HOT, and in-line with the UNHCR portal.
-*Analyze qualitative and quantitative data sets using statistical software and GIS tools.
-*Design data products such as web and print maps and infographics which integrate open geospatial data / OpenStreetMap with household survey quantitative and qualitative data sets.
-*Communicate about project activity, including assisting with regular blogs posts and (social) media updates as required.
-*Produce detailed reports and presentations incorporating above outputs.
-*Adapt to changing project priorities and support other duties as assigned.
+* Support development of household surveys using mobile data collection tools such as OpenDataKit (ODK) and Kobo Collect.
+* Organise and manage survey forms, data flows, and resulting data sets, and  conduct initial analysis of the data.
+* Design, implement and regularly update the Information Management Strategy and the Dissemination Plan for information management products produced by HOT, and in-line with the UNHCR portal.
+* Analyze qualitative and quantitative data sets using statistical software and GIS tools.
+* Design data products such as web and print maps and infographics which integrate open geospatial data / OpenStreetMap with household survey quantitative and qualitative data sets.
+* Communicate about project activity, including assisting with regular blogs posts and (social) media updates as required.
+* Produce detailed reports and presentations incorporating above outputs.
+* Adapt to changing project priorities and support other duties as assigned.
  
 ***About You***
 
 **Required**
-*Care deeply about the mission: passionate about humanitarian / development work demonstrated through prior professional experience
-*At least 2-3 years professional experience
-*Bachelor’s or Master’s degree (Preferred)
-*Experience in GIS and geospatial data analysis
-*Experience with mobile survey tools including OpenMapKit, OpenDataKit (ODK), Kobo Collect, X-form building
-*Experience running training sessions, workshops or teaching
-*Strong ICT and information management skills and eagerness/ability to learn new technologies.
-*Strong organisational skills
-*Strong communication skills, including advanced written and spoken English
-*Qualitative and quantitative analytical skills using statistical software or programming languages (STATA, R, or others)
-*Proven ability to work independently and lead activities, complete deliverables with minimal supervision
-*Demonstrated leadership, versatility, and integrity in other professional/personal environments
-*Demonstrated understanding of open source culture and ethos across cultural contexts
-*Able to travel 100%
+* Care deeply about the mission: passionate about humanitarian / development work demonstrated through prior professional experience
+* At least 2-3 years professional experience
+* Bachelor’s or Master’s degree (Preferred)
+* Experience in GIS and geospatial data analysis
+* Experience with mobile survey tools including OpenMapKit, OpenDataKit (ODK), Kobo Collect, X-form building
+* Experience running training sessions, workshops or teaching
+* Strong ICT and information management skills and eagerness/ability to learn new technologies.
+* Strong organisational skills
+* Strong communication skills, including advanced written and spoken English
+* Qualitative and quantitative analytical skills using statistical software or programming languages (STATA, R, or others)
+* Proven ability to work independently and lead activities, complete deliverables with minimal supervision
+* Demonstrated leadership, versatility, and integrity in other professional/personal environments
+* Demonstrated understanding of open source culture and ethos across cultural contexts
+* Able to travel 100%
 
 **Additional desirable skillsets**
-*Experience working in or knowledge of complex refugee and migration situations
-*Clear vision of participatory data collection methods and community involvement, preferably using OpenStreetMap
-*Experience with OpenStreetMap tools, such JOSM and iD
-*Experience with open source GIS tools such as QGIS
-*Experience working with business intelligence/reporting tools such as PowerBI
+* Experience working in or knowledge of complex refugee and migration situations
+* Clear vision of participatory data collection methods and community involvement, preferably using OpenStreetMap
+* Experience with OpenStreetMap tools, such JOSM and iD
+* Experience with open source GIS tools such as QGIS
+* Experience working with business intelligence/reporting tools such as PowerBI
