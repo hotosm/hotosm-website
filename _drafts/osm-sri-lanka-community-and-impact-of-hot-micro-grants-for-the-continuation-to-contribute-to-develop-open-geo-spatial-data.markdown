@@ -16,8 +16,6 @@ Project:
 
 Since May 2018, the HOT Microgrants program has supported the OSM Sri Lanka Community to conduct a series of workshops and training programs throughout the country, including underdeveloped rural areas, Universities, and Local Authorities. The workshops were aimed at updating the building information, land use information, road network, points of interest and identifying the hazard areas in particular regions using community participatory methods and building the capacity of the community in mapping with OSM for the betterment of all.
 
-![34777648_10216920423102817_8461302164025769984_n.jpg](/uploads/34777648_10216920423102817_8461302164025769984_n.jpg)
-
 **Impact on OSM in Sri Lanka and for Disaster Risk Reduction**
 
 With the generous support of the HOT Microgrant, one of the largest OSM Sri Lanka Community mapping exercises was carried out in the northern part of Sri Lanka for several months in 2018. The objective of this mapping exercise was to establish an OSM Local Community for the northern part of Sri Lanka while creating data which can be useful for disaster risk reduction (DRR) and administrative work. The Vavuniya South Divisional Secretariat (DS) division, one of the administrative divisions of the Northern Province was considered for implementing the project with the support of the administrative officers there. This is an area frequently affected by extreme weather conditions of floods and droughts.
@@ -34,6 +32,8 @@ With the support of this valuable grant, the OSM Sri Lanka Community has impleme
 * Prepare vulnerability maps and risk maps for the particular DS Division
 
 Divisional secretariat’s staff were involved in the tracing of the administrative boundary area to update the building characteristics, infrastructure, and land use. Then the community participants were trained to continue the work and throughout the workshops, several new OSM contributors registered. They are all continuing to develop a geo-spatial database which would be useful in DRR. Furthermore, seven mobile phones were handed over to the DS of Vavuniya South for data collection via the HOT Microgrant financial support, which would strengthen the capacities of the local communities for their volunteer contribution in data preparation. Finally, this exercise has helped to form a strong OSM local community for the Northern Region.
+
+![34777648_10216920423102817_8461302164025769984_n.jpg](/uploads/34777648_10216920423102817_8461302164025769984_n.jpg)
 
 Around 25000 new edits were contributed via this exercise and 125 new mappers from the undergraduate, post-graduate and local community were registered. The task prepared can be seen here [https://tasks.hotosm.org/project/3507](https://tasks.hotosm.org/project/3507)
 
@@ -66,7 +66,7 @@ There were around 40 participants including both undergraduate and postgraduate 
 **Bringing OSM to the university community:  Workshop at the Eastern University of Sri Lanka**
 This workshop was held on 31st of May 2018 at the Eastern University of Sri Lanka, Vantharamulai, Sri Lanka. The target OSM community was Geography Special Degree undergraduate students. Located in the Eastern province of Sri Lanka, in the District of Batticaloa, where OSM was practiced previously as well, this is a very productive place to train the community in OSM.  OSM Community of Sri Lanka had previously held a two days' training workshop on OSM at the same university. With the financial support of the HOT Microgtants project and the technical support of OSGeo Local Chapter and OSM Sri Lanka Community, this workshop has helped them to continue to learn OSM and enhance and upgrade their knowledge.  Being one of the most affected cities by intensive flooding, the community of Batticaloa are highly motivated and actively involved with the OSM data creation.
 
-[IMG_1816.JPG](/uploads/IMG_1816.JPG)
+![IMG_1816.JPG](/uploads/IMG_1816.JPG)
 Workshop at the Easter University of Sri Lanka -Trainees and resource persons
 
 **OSM for engineering students:  Workshop at South Eastern University of Sri Lanka**
