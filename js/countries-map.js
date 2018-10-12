@@ -13,9 +13,10 @@ fetch('/aggregatedStats.json')
   .then(function (jsonData) {
     if (projectCount !== '0') {
       var countryTitle = $(document).find("title").text().split('|')[1].trim();
-      countryData.features = (jsonData[countryTitle]);
-      if (countryData.features) {
-        var displayElements = ["country-filters-btn", "tm-legend"]
+      if (jsonData[countryTitle]) countryData.features = (jsonData[countryTitle]);
+      var campaignCount = countryData.features.length;
+      if (campaignCount) {
+        var displayElements = ["tm-legend", "country-filters-btn"]
         displayElements.forEach ( ele => {
           document.getElementById(ele).classList.remove("hide");
         })
@@ -25,19 +26,18 @@ fetch('/aggregatedStats.json')
           ele.classList.remove("hide");
           ele.classList.add("active");
         })
-        document.getElementById("osm-stats-tab").classList.remove("active");
-        var campaignCount = countryData.features.length;
+        document.getElementById("osm-stats-tab").classList.remove("active");  
         updateContactHeader(campaignCount);
         countryData.features.forEach(countryProject => {
           if (years.indexOf(countryProject.properties['created']) < 0) {
             years.push(countryProject.properties['created']);
           }
-          if (count[countryProject.properties['status']]){
+          if (count[countryProject.properties['status']]) {
             count[countryProject.properties['status']]++;
           } else {
             count[countryProject.properties['status']] = 1;
           }
-          if (count[countryProject.properties['created']]){
+          if (count[countryProject.properties['created']]) {
             count[countryProject.properties['created']]++;
           } else {
             count[countryProject.properties['created']] = 1;
@@ -125,7 +125,7 @@ map.on('load', function() {
     "source-layer": "countriesbetter",
     "minzoom": 0,
     "maxzoom": 8,
-    "filter": ['any', ['in', 'name_low'].concat(countryName), ['in', 'ISO_A2'].concat(countryCode)],
+    "filter": ['any', ['in', 'name_low'].concat(countryName.toLowerCase()), ['in', 'ISO_A2'].concat(countryCode)],
     "paint": {
       "fill-pattern": "lines-red-4",
       "fill-outline-color": "#EFB4B4"
@@ -308,10 +308,10 @@ function updateContactHeader (campaignCount) {
     } else memberCount += ' voting member';
   } else memberCount = '';
   if (projectCount !== '' && memberCount !== '') {
-    contactHeader.innerHTML = countryName.replace(/^\w/, c => c.toUpperCase()) + ' has ' +
+    contactHeader.innerHTML = countryName + ' has ' +
     campaignCount + projectCount + ' and ' + memberCount; 
   } else {
-    contactHeader.innerHTML = countryName.replace(/^\w/, c => c.toUpperCase()) + ' has ' +
+    contactHeader.innerHTML = countryName + ' has ' +
     campaignCount + projectCount + memberCount; 
   }
 }
