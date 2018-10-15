@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<header class="page-header">
+  <div class="container">
+    <h1>{{ page.title }}</h1>
+  </div>
+</header>
+
+
+<div class="container">
+  <div class="highlight-module secondary-highlight-module">
+    <div class="highlight-details">
+      <div class="highlight-info">
+        <div class="highlight-hr"></div>
+        <h3>{{ page.Subtitle }}</h3>
+        <p>{{ page.Intro }}</p>
+      </div>
+      <div class="highlight-options">
+        <a href="{{ page.action-link-1 }}" class="btn btn-primary btn-lg btn-chevron">{{ page.Action-text-1 }}</a>
+        <a href="{{ page.action-link-2 }}" class="btn btn-primary btn-lg btn-chevron">{{ page.Action-text-2 }}</a>
+      </div>
+    </div>
+    <div class="highlight-image">
+      <img src="{{ page.Main-image }}">
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="hr-h"></div>
+</div>
+
+
+<div class="container module-group">
+  <a class="module link-through light" href="{{ page.block-1.Link }}">
+    <div class="module-details">
+      <h3>{{ page.block-1.Title }}</h3>
+      <div class="module-text"><p>{{ page.block-1.Text }}</p></div>
+      <p class="module-cta">{{ page.block-1.Action-text }}</p>
+    </div>
+    <img class="module-image" src="{{ page.block-1.Image }}">
+  </a>
+  <a class="module link-through light" href="{{ page.block-2.Link }}">
+    <div class="module-details">
+      <h3>{{ page.block-2.Title }}</h3>
+      <div class="module-text"><p>{{ page.block-2.Text }}</p></div>
+      <p class="module-cta">{{ page.block-2.Action-text }}</p>
+    </div>
+    <img class="module-image" src="{{ page.block-2.Image }}">
+  </a>
+  <a class="module link-through light" href="{{ page.block-3.Link }}">
+    <div class="module-details">
+      <h3>{{ page.block-3.Title }}</h3>
+      <div class="module-text"><p>{{ page.block-3.Text }}</p></div>
+      <p class="module-cta">{{ page.block-3.Action-text }}</p>
+    </div>
+    <img class="module-image" src="{{ page.block-3.Image }}">
+  </a>
+</div>
