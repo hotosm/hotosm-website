@@ -431,7 +431,7 @@ layout: default
 </div>
 
 <script>
-  var countryName = "{{ page.urlname }}".split('-').join(' ');
+  var countryName = "{{ page.title }}";
   var countryCode = "{{ page.names }}".substr(-5, 2);
   var missingMapsCode = "{{ page.names }}".substr(-3, 3);
   var memberCount = "{{ memberscount }}"
