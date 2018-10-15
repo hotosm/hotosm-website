@@ -1,5 +1,5 @@
 ---
-title: Mapping Supervisors -Aruba (2 Positions, Contingent on Funding)
+title: Mapping Supervisors - Aruba (2 Positions)
 date: 2018-10-04 18:15:00 Z
 Deadline Date: 2018-10-14 00:00:00 Z
 Place of Work: Aruba
@@ -22,10 +22,10 @@ Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of 
 HOT is soliciting CVs of applicants for positions in Aruba for an anticipated project supporting UNHCR and the Government of Aruba. Goals of the project include rapid population estimation, profiling of migration / populations of concern (including migration related to the Venezuela crisis) and mapping access to key social services related to protection issues.
  
 ## About the Position
-Mapping Supervisors will lead HOT’s field data collection activities on the project in close coordination with the Associate Project Manager and Project Managers. This includes assisting with in-person training, providing into into the design of field data collection, and supervising the work of up to 5 surveyors.
+Mapping Supervisors will lead HOT’s field data collection activities on the project in close coordination with the Associate Project Manager and Project Managers. This includes assisting with in-person training, providing input into the design of field data collection, and supervising the work of up to 5 surveyors.
 
 ## Responsibilities
-* Support the Associate Project Manager and Project Managers in organizing and facilitating OSM trainings, workshops, and awareness sessions
+* Support the Associate Project Manager and Project Manager in organizing and facilitating OpenStreetMap trainings, workshops, and awareness sessions
 * Organize large-scale data collection campaigns in coordination with partner organizations
 * Implement data collection forms using OpenDataKit Collect, OpenMapKit and other mobile data collection tools
 * Provide technical guidance and expertise on participatory mapping and OpenStreetMap
