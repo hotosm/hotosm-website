@@ -11,6 +11,7 @@ Summary Text: In October 2018, HOT officially endorsed the Principles for Digita
   integrate established best practices into technology-enabled programs. The Principles
   focus heavily on many of HOT's core values, including community, openness, collaboration,
   and innovation and will continue to guide our work going forward.
+Feature Image: "/uploads/DpUWakkX4AAWyaE.jpg"
 Person: Tyler Radford
 ---
 
