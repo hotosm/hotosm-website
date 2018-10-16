@@ -8,7 +8,9 @@ tags:
 Summary Text: In October 2018, HOT officially endorsed the Principles for Digital
   Development, joining just over 100 organizations who have done so to date. The Digital
   Principles are nine “living” guidelines designed to help digital development practitioners
-  integrate established best practices into technology-enabled programs.
+  integrate established best practices into technology-enabled programs. The Principles
+  focus heavily on many of HOT's core values, including community, openness, collaboration,
+  and innovation.
 Person: Tyler Radford
 ---
 
