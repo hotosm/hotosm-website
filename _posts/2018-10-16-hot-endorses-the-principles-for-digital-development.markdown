@@ -51,6 +51,7 @@ This has been core to HOT’s culture and thinking from Day 1. This is not only 
 <iframe width="100%" height="1000" src="https://docs.google.com/document/d/e/2PACX-1vRv6zQesobJuWnIv8fb56xaVWZNaL-kWaoaie7Gs_8_TNVt4w5kBcnX7lyQ7mAXIO9uyJce89ydZ8eN/pub?embedded=true"></iframe>
 
 Thanks to HOT staff members Ivan Gayton and Yantisa Akhadi for contributions to our endorsement. For more, join the discussion in DIAL's [Digital Principles Forum](https://forum.digitalprinciples.org/) or on HOT's [Slack](http://slack.hotosm.org).
+
 -Tyler
 
 
