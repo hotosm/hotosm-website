@@ -24,13 +24,13 @@ Coincidentally, these are also some of the same themes that emerge in the [Princ
 ![1_-TK6hWAH7NWK0YVfwD5-Xg-fe3a66.png](/uploads/1_-TK6hWAH7NWK0YVfwD5-Xg-fe3a66.png)
 *The nine Principles for Digital Development*
 
-Starting in late 2017, HOT team members participated in and led conversations at two DIAL events around the Principles in Jakarta and Dar es Salaam:
+Starting in late 2017, as we considered endorsing the Principles, HOT team members participated in and led conversations at two DIAL events around the Principles in Jakarta and Dar es Salaam:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TBT?src=hash&amp;ref_src=twsrc%5Etfw">#TBT</a> to bringing the <a href="https://twitter.com/hashtag/digitalprinciples?src=hash&amp;ref_src=twsrc%5Etfw">#digitalprinciples</a> to life in <a href="https://twitter.com/hashtag/Jakarta?src=hash&amp;ref_src=twsrc%5Etfw">#Jakarta</a>. Participants discussed Design for Scale, Reuse &amp; Improve, and Building for Sustainability. Read more about our event <a href="https://t.co/znVqTmxXLU">https://t.co/znVqTmxXLU</a> <a href="https://t.co/DilwvSBafO">pic.twitter.com/DilwvSBafO</a></p>&mdash; Digital Impact Alliance (DIAL) (@DIAL_community) <a href="https://twitter.com/DIAL_community/status/989613752784957440?ref_src=twsrc%5Etfw">April 26, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 *HOT Indonesia Country Manager Yantisa Akhadi moderates a panel on the Build for Sustainability principle with the DIAL community in Jakarta, Indonesia in February, 2017.*
 
-While HOT endeavors to promote all nine Principles, I believe that three have special relevance for our organization:
+Coming out of events in Dar es Salaam and Jakarta, we found that while we endeavor to promote all nine Principles, three have special relevance for our organization:
 
 **Be Collaborative:**
 HOT is both an NGO and a global network. Our work developing software tools and open geospatial datasets would not be possible without involvement and collaboration within our community. This includes individual volunteers, private sector companies, and our government and NGO partners across geographies, focus areas and organizations. Our open source ethos requires us to be collaborative: when we bring together partners to contribute code and pool resources, we deliver better products that meet the needs of not only HOT but also communities and other organizations.
@@ -48,7 +48,7 @@ This has been core to HOT’s culture and thinking from Day 1. This is not only 
 
 <iframe width="100%" height="1000" src="https://docs.google.com/document/d/e/2PACX-1vRv6zQesobJuWnIv8fb56xaVWZNaL-kWaoaie7Gs_8_TNVt4w5kBcnX7lyQ7mAXIO9uyJce89ydZ8eN/pub?embedded=true"></iframe>
 
-For more, join the discussion in DIAL's [Digital Principles Forum](https://forum.digitalprinciples.org/) or on HOT's [Slack](http://slack.hotosm.org).
+Thanks to HOT staff members Ivan Gayton and Yantisa Akhadi for contributions to our endorsement. For more, join the discussion in DIAL's [Digital Principles Forum](https://forum.digitalprinciples.org/) or on HOT's [Slack](http://slack.hotosm.org).
 -Tyler
 
 
