@@ -1,7 +1,11 @@
 ---
 title: HOT Endorses the Principles for Digital Development
-date: 2018-10-16 21:38:00 Z
+date: 2018-10-16 18:00:00 Z
 published: false
+tags:
+- DIAL
+- Principles for Digital Development
+- ICT4D
 ---
 
 When I think about HOT, some of the first words that come to mind are:
@@ -30,4 +34,4 @@ Starting in late 2017, HOT team members participated and spoke at two DIAL event
 
 View HOT’s full endorsement letter below.
 
-<iframe width="1024" src="https://docs.google.com/document/d/e/2PACX-1vRv6zQesobJuWnIv8fb56xaVWZNaL-kWaoaie7Gs_8_TNVt4w5kBcnX7lyQ7mAXIO9uyJce89ydZ8eN/pub?embedded=true"></iframe>
+<iframe width="800" src="https://docs.google.com/document/d/e/2PACX-1vRv6zQesobJuWnIv8fb56xaVWZNaL-kWaoaie7Gs_8_TNVt4w5kBcnX7lyQ7mAXIO9uyJce89ydZ8eN/pub?embedded=true"></iframe>
