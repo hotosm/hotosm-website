@@ -1,6 +1,7 @@
 ---
 title: HOT Endorses the Principles for Digital Development
 date: 2018-10-16 21:38:00 Z
+published: false
 ---
 
 When I think about HOT, some of the first words that come to mind are:
