@@ -30,4 +30,4 @@ Starting in late 2017, HOT team members participated and spoke at two DIAL event
 View HOT’s full endorsement letter below.
 
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRv6zQesobJuWnIv8fb56xaVWZNaL-kWaoaie7Gs_8_TNVt4w5kBcnX7lyQ7mAXIO9uyJce89ydZ8eN/pub?embedded=true" allowfullscreen></iframe>
+<iframe width="1024" src="https://docs.google.com/document/d/e/2PACX-1vRv6zQesobJuWnIv8fb56xaVWZNaL-kWaoaie7Gs_8_TNVt4w5kBcnX7lyQ7mAXIO9uyJce89ydZ8eN/pub?embedded=true" allowfullscreen></iframe>
