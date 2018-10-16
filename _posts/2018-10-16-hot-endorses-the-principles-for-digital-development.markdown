@@ -6,6 +6,7 @@ tags:
 - DIAL
 - Principles for Digital Development
 - ICT4D
+Person: Tyler Radford
 ---
 
 When I think about HOT, some of the first words that come to mind are:
@@ -17,7 +18,7 @@ When I think about HOT, some of the first words that come to mind are:
 
 Coincidentally, these are also the same themes that emerge in the Principles for Digital Development. The Principles are a set of living guidance intended to help practitioners succeed in applying digital technologies to development programs.
 
-![1_-TK6hWAH7NWK0YVfwD5-Xg.png](/uploads/1_-TK6hWAH7NWK0YVfwD5-Xg.png)
+![1_-TK6hWAH7NWK0YVfwD5-Xg-fe3a66.png](/uploads/1_-TK6hWAH7NWK0YVfwD5-Xg-fe3a66.png)
 
 Over the past nine years, our community has supported and advocated for many of the concepts that become enshrined in the Principles for Digital Development in 2014-15. 
 
