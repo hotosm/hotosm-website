@@ -30,7 +30,7 @@ Coincidentally, these are also some of the same themes that emerge in the [Princ
 
 
 
-<img src="/uploads/1_-TK6hWAH7NWK0YVfwD5-Xg-fe3a66.png" style="width: 300px !important" alt="DigitalPrinciples">
+<img src="/uploads/1_-TK6hWAH7NWK0YVfwD5-Xg-fe3a66.png" style="width: 500px !important" alt="DigitalPrinciples">
 *The nine Principles for Digital Development*
 
 Starting in late 2017, as we considered endorsing the Principles, HOT team members participated in and led conversations at two DIAL events around the Principles in Jakarta and Dar es Salaam:
