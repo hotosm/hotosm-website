@@ -1,6 +1,7 @@
 ---
 title: HOT Endorses the Principles for Digital Development
 date: 2018-10-16 18:00:00 Z
+published: false
 tags:
 - DIAL
 - Principles for Digital Development
