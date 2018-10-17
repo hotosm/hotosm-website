@@ -134,6 +134,17 @@ layout: default
                         <p>{{ page.Duration['Start Date'] | date: "%e %b, %Y" }} – {{ page.Duration['End Date'] | date: "%e %b, %Y" }}</p>
                     </div>
 
+                    {% if page.Documents %}
+                    <div class="meta-item">
+                        <h5>Documents</h5>
+                        <ul>
+                        {% for document in page.Documents %}
+                            <li><a href="{{ document.link }}">{{ document.title }}</a></li>
+                        {% endfor %}
+                        </ul>
+                    </div>
+                    {% endif %}
+
                 </aside>
 
             </div>
