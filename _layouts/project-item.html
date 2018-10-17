@@ -1,6 +1,38 @@
 --- 
 layout: default
 ---
+<header class="project-header">
+    <h1>{{ page.title }}</h1>
+    <div class="project-header-meta">
+
+      <p class="project-involvement">
+        {% if page['Is Community-Led'] %}
+          Community-Led
+        {% else %}
+          HOT Program
+        {% endif %}
+      </p>
+
+      {% if page.Country[0] != '' %}
+        <p class="project-countries">
+
+          {% for page-country in page.Country %}
+            {% for country in site.where-we-work %}
+              {% if page-country == country.title %}
+                <span class="project-country"><a href="{{ country.url }}">{{ country.title }}</a></span>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+
+        </p>
+        {% else %}
+        <p class="project-countries">
+          <span class="project-country">Global</span>
+        </p>
+      {% endif %}
+
+    </div>
+  </header>
 
 <div class="project-index">
     <div class="project-map-area">
@@ -13,12 +45,6 @@ layout: default
             </div>
             <div id="hover-details" class="center-hover-map-area"></div>
 
-        </div>
-
-        <div class="project-index-header" id="impact-areas-select">
-            <div class="container">
-                <h1 class="boxed" id="our-work-title">{{ page.title }}</h1>
-            </div>
         </div>
 
     </div>
