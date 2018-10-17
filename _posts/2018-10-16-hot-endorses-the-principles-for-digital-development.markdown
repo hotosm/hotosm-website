@@ -34,7 +34,6 @@ Starting in late 2017, as we considered endorsing the Principles, HOT team membe
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TBT?src=hash&ref_src=twsrc%5Etfw">#TBT</a> to bringing the <a href="https://twitter.com/hashtag/digitalprinciples?src=hash&ref_src=twsrc%5Etfw">#digitalprinciples</a> to life in <a href="https://twitter.com/hashtag/Jakarta?src=hash&ref_src=twsrc%5Etfw">#Jakarta</a>. Participants discussed Design for Scale, Reuse & Improve, and Building for Sustainability. Read more about our event <a href="https://t.co/znVqTmxXLU">https://t.co/znVqTmxXLU</a> <a href="https://t.co/DilwvSBafO">pic.twitter.com/DilwvSBafO</a></p>— Digital Impact Alliance (DIAL) (@DIAL_community) <a href="https://twitter.com/DIAL_community/status/989613752784957440?ref_src=twsrc%5Etfw">April 26, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<img>
 *HOT Indonesia Country Manager Yantisa Akhadi moderates a panel on the Build for Sustainability principle with the DIAL community in Jakarta, Indonesia in February, 2017.*
 
 Coming out of events in Dar es Salaam and Jakarta, we found that while we endeavor to promote all nine Principles, three have special relevance for our organization:
