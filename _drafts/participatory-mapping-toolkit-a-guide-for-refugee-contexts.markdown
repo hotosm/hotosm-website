@@ -11,7 +11,7 @@ Country:
 
 The world continues to witness some of the highest levels of displacement on record, with nearly **70 million people** who have been forced from their homes. At Humanitarian OpenStreetMap Team, we have been using participatory mapping to assist in these refugee contexts. Our aims are simple: **save lives, alleviate suffering, and restore dignity.** The Toolkit is meant for organizations and individuals working towards these same ends - it is field-derived, fundamentally responsive to people’s needs, and written so that anyone can pick it up and begin using open mapping for humanitarian action. 
 
-<img src="/uploads/HOT%20Tool%20Box%20Icon-2.jpg" width="300" title="HOT Tool Box Icon-2.jpg"/>
+<img src="/uploads/HOT%20Tool%20Box%20Icon-2.jpg" style="width: 300px !important" title="HOT Tool Box Icon-2.jpg"/>
 
 Two of the most complex and deadly crises of our time are happening in Syria and South Sudan. To respond to these, HOT developed projects supported by the Bureau of Population, Refugees, and Migration, to engage in Turkey and Uganda. 
 
