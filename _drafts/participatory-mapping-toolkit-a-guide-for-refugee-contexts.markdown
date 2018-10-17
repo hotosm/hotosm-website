@@ -27,7 +27,10 @@ We have attempted to strike a balance between guides that are overly technical a
 
 ![2.png](/uploads/2.png) ![3.png](/uploads/3.png)
 
-The Toolkit contains three separate sections. Section One: The Power of Participatory Mapping explains how these methods are in fact a means of mainstreaming protection into operations. Section Two: Refugee Contexts reviews all of the different factors an organization should consider before engaging in a project. Finally, Section Three: Tools and Processes is the true heart of the toolkit - it is a series of powerful tools and processes that span the lifecycle of mapping, from remote to field mapping, quality assurance to map creation. It has everything you need to begin, and links out to more in depth resources such as our growing Github [toolbox. ](https://github.com/hotosm/toolbox/wiki)
+The Toolkit contains three separate sections.
+- Section One: The Power of Participatory Mapping explains how these methods are in fact a means of mainstreaming protection into operations.
+- Section Two: Refugee Contexts reviews all of the different factors an organization should consider before engaging in a project.
+- Finally, Section Three: Tools and Processes is the true heart of the toolkit - it is a series of powerful tools and processes that span the lifecycle of mapping, from remote to field mapping, quality assurance to map creation. It has everything you need to begin, and links out to more in depth resources such as our growing Github [toolbox. ](https://github.com/hotosm/toolbox/wiki)
 
 You can explore the toolkit in detail from here.
 
