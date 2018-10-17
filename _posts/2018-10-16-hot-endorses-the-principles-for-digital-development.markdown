@@ -27,7 +27,7 @@ When I think about HOT, some of the first words that come to mind are:
 
 Coincidentally, these are also some of the same themes that emerge in the [Principles for Digital Development](https://digitalprinciples.org/). The Principles are a set of living guidance intended to help practitioners succeed in applying digital technologies to development programs. Over the past nine years, our community has supported and advocated for many of the concepts that become enshrined in the Principles for Digital Development in 2014-15.
 
-![DigitalPrinciples.png](/uploads/1_-TK6hWAH7NWK0YVfwD5-Xg-fe3a66.png)
+<img src="/uploads/1_-TK6hWAH7NWK0YVfwD5-Xg-fe3a66.png" alt="DigitalPrinciples" height="300" width="300">
 *The nine Principles for Digital Development*
 
 Starting in late 2017, as we considered endorsing the Principles, HOT team members participated in and led conversations at two DIAL events around the Principles in Jakarta and Dar es Salaam:
