@@ -42,7 +42,7 @@ As per the above the mentioned task, 21 individuals have contributed to trace th
 ![image7.png](/uploads/image7.png)
 *The working task for the HOT micro-grant project*
 
-\*\*Bringing OSM to the university community:  University of Peradeniya in Sri Lanka \*\*
+**Bringing OSM to the university community:  University of Peradeniya in Sri Lanka **
 
 We believe introducing OSM to university communities is one key way to promote its value among larger community through staff and students, that is why we conducted several university-based workshops. The free lab and infrastructure facilities of the universities provide a highly cost saving option for training.  The Postgraduate Institute of Humanities and Social Sciences (PGIHS), University of Peradeniya facilitated the first workshop of the series, on 17th and 18th of May, 2018 and the OSGeo Sri Lanka chapter with the support of OSM experts contributed voluntarily as trainers. The basic expenses including foods, refreshments, stationary, and accommodation of resource persons were covered using the HOT Microgrant.
 
@@ -72,11 +72,12 @@ This workshop was held on 31st of May 2018 at the Eastern University of Sri Lank
 Workshop at the Easter University of Sri Lanka -Trainees and resource persons
 
 **OSM for engineering students:  Workshop at South Eastern University of Sri Lanka**
+
 Another workshop was held on 1st of June 2018 at the South Eastern University of Sri Lanka, Oluvil, Sri Lanka. The target OSM community was civil engineering undergraduates and there were around 40 participants. This one-day workshop was conducted by the OSM Sri Lanka Community members in collaboration with OSGeo Sri Lanka Chapter. The training was a new experience for them and they were surprised when they themselves completed a task to trace their University premises and surrounding areas.  This workshop was the beginning to introduce the OSM and its advantages for civil engineering students.
 
 ![34049204_10216871482839341_5918604670648975360_o (1).jpg](/uploads/34049204_10216871482839341_5918604670648975360_o%20(1).jpg)
 
-Workshop at South Eastern University of Sri Lanka\*\*-\*\*Certificate awarding ceremony
+*Workshop at South Eastern University of Sri Lanka, Certificate awarding ceremony*
 
 **The exhibition on Cyber Tech – 2018 held at Advance Technological Institute of Education in Batticaloa Sri Lanka.**
 
