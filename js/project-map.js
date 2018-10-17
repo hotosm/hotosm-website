@@ -1,3 +1,8 @@
+var allProjects = {}
+var tmProjects = {
+    "type": "FeatureCollection",
+    "features": []
+}
 var countryList = countries.split(',')
 countryList.forEach((country, countryIndex) => {
   countryList[countryIndex] = country.trim().toLowerCase()
@@ -20,6 +25,28 @@ var map = new mapboxgl.Map({
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 });
 
+fetch('/campaigns.json')
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function (jsonData) {
+    allProjects = jsonData
+    console.log(allProjects)
+    console.log(campaignTags)
+    campaignTags = campaignTags.split(',')
+    console.log(campaignTags)
+    
+
+    campaignTags.forEach(campaignTag => {
+        campaignTag = campaignTag.trim()
+        allProjects[campaignTag].forEach(campaignProject => {
+            tmProjects.features.push(campaignProject)
+        })
+        console.log(JSON.stringify(tmProjects))
+        console.log(tmProjects.features.length)
+    })
+});
+
 map.on('load', function () {
   $('.mapboxgl-ctrl').addClass('hide');
   $('#loading-map').detach();
@@ -27,20 +54,77 @@ map.on('load', function () {
     "type": "vector",
     "url": "mapbox://hot.6w45pyli"
   });
-
+  map.addSource('tmProjects', {
+    "type": "geojson",
+    "data": tmProjects
+  });
  
+//   map.addLayer({
+//     "id": "project_countries",
+//     "type": "fill",
+//     "source": "countriesbetter",
+//     "source-layer": "countries-polygon-7jl2br",
+//     "minzoom": 0,
+//     "maxzoom": 8,
+//     "filter": ['in', 'name_low'].concat(countryList),
+//     "paint": {
+//       "fill-pattern": "lines-red-4",
+//       "fill-outline-color": "#EFB4B4"
+//     }
+//   }, 'place-city-sm');
+
   map.addLayer({
-    "id": "project_countries",
-    "type": "fill",
-    "source": "countriesbetter",
-    "source-layer": "countries-polygon-7jl2br",
+    "id": "tm-projects-edits-circle",
+    "type": "circle",
+    "source": "tmProjects",
     "minzoom": 0,
-    "maxzoom": 8,
-    "filter": ['in', 'name_low'].concat(countryList),
+    "maxzoom": 18,
     "paint": {
-      "fill-pattern": "lines-red-4",
-      "fill-outline-color": "#EFB4B4"
+      'circle-radius': {
+        property: 'edits',
+        stops: [
+          [0, 10],
+          [10000, 15],
+          [50000, 20],
+          [100000, 25],
+          [125000, 30],
+          [150000, 35],
+          [200000, 40]
+
+        ]
+      },
+      "circle-opacity": 0.7,
+      "circle-color": "#FFC151",
     }
   }, 'place-city-sm');
+
+  map.addLayer({
+    "id": "tm-projects-black-circle",
+    "type": "circle",
+    "source": "tmProjects",
+    "minzoom": 0,
+    "maxzoom": 18,
+    "paint": {
+      'circle-radius': 6.5,
+      "circle-opacity": 1,
+      "circle-color": "#000000",
+    }
+  }, 'place-city-sm');  
+  map.addLayer({
+    "id": "tm-projects-symbol",
+    "type": "symbol",
+    "source": "tmProjects",
+    "minzoom": 0,
+    "maxzoom": 18,
+    "layout" : {
+      "text-field": "+",
+      "text-font" : ["Open Sans Bold"],
+      "text-offset": [-0.001, -0.03]
+    },
+    "paint": {
+      "text-color": "#FFFFFF"
+    }
+  }, 'place-city-sm');
+
  
 });
