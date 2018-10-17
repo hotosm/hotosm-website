@@ -250,6 +250,7 @@ layout: default
 
     <script>
       var countries = "{{ page.Country | join: ', ' }}";
+      var campaignTags = "{{ page.tm_projects | join: ', ' }}";
     </script>
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />

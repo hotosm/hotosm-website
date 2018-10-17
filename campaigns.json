@@ -1,0 +1,2738 @@
+{
+	"PH disaster response": [{
+		"projectId": 5256,
+		"name": "Post-Disaster Mapping in Brgy. Naalad and Brgy. Tinaan, Naga City, Cebu",
+		"campaignTag": "PH disaster response",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-09-21T02:10:32.905109",
+		"lastUpdated": "2018-09-22T02:39:51.387637",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [123.744010558498, 10.2094401920945]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": null,
+		"shortDescription": "A landslide struck Barangay Naalad and Barangay Tinaan in Naga City, Cebu last September 20, 2018. In order to help and assist the search and rescue team from the Philippines, UP NOAH aims to map out the building footprints in the affected areas.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.744010558498, 10.2094401920945]
+		}
+	}, {
+		"projectId": 5242,
+		"name": "Typhoon Ompong: Cordillera Region structures",
+		"campaignTag": "PH disaster response",
+		"percentMapped": 100,
+		"percentValidated": 45,
+		"created": "2018-09-15T01:33:41.992726",
+		"lastUpdated": "2018-10-17T02:09:36.236135",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [121.150332148109, 18.0659829308276]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM-PH",
+		"shortDescription": "Typhoon Ompong (Mangkhut) hit the northern areas of the Philippines. Mapping buildings is needed to augment the existing OpenStreetMap data for use in emergency response, damage assessment and spatial analysis",
+		"status": "PUBLISHED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.150332148109, 18.0659829308276]
+		}
+	}, {
+		"projectId": 5234,
+		"name": "Typhoon Ompong: Isabela Structures 1",
+		"campaignTag": "PH disaster response",
+		"percentMapped": 73,
+		"percentValidated": 17,
+		"created": "2018-09-13T17:41:14.417222",
+		"lastUpdated": "2018-10-16T18:48:33.210953",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [122.204399806909, 16.9572292235093]
+		},
+		"mapperLevel": "INTERMEDIATE",
+		"organisationTag": "OSM-PH",
+		"shortDescription": "Typhoon Ompong (Mangkhut) is projected to hit the northern areas of the Philippines. Mapping buildings is needed to augment the existing OSM layers.",
+		"status": "PUBLISHED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [122.204399806909, 16.9572292235093]
+		}
+	}],
+	"Disaster Response": [{
+		"projectId": 4944,
+		"name": "LAOS - Attapeu Dam Collapse",
+		"campaignTag": "Disaster Response",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-08-01T02:46:03.270459",
+		"lastUpdated": "2018-08-02T00:18:53.730867",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [106.358927208356, 14.7411202310839]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "HOT",
+		"shortDescription": "`Validation Please - should be pretty easy, a lot of forest`\n\nDam under construction in southwestern Laos collapsed on July 23, displacing at least 6,000 people. This OSM mapping task is part of a World Bank effort to provide immediate support to the local government.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.358927208356, 14.7411202310839]
+		}
+	}, {
+		"projectId": 5253,
+		"name": "Sri Lanka Flood Response 2018 Project 6b",
+		"campaignTag": "Disaster Response",
+		"percentMapped": 99,
+		"percentValidated": 0,
+		"created": "2018-09-20T17:40:13.082836",
+		"lastUpdated": "2018-10-17T06:00:31.229790",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [80.2105580696691, 7.35809774281115]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Disaster Management Centre of Sri Lanka",
+		"shortDescription": "Monsoon rains have caused severe flooding in the Kurunagala and Puttalam districts of Sri Lanka. Your help is needed to map these areas so aid agencies can better assist in the recovery.",
+		"status": "PUBLISHED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [80.2105580696691, 7.35809774281115]
+		}
+	}, {
+		"projectId": 4521,
+		"name": "Mapping roads and buildings in Solai village, Subukia Sub-County",
+		"campaignTag": "Disaster Response",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-11T08:17:36.334138",
+		"lastUpdated": "2018-05-14T07:28:26.241336",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [36.1245245588229, -0.058130510859953]
+		},
+		"mapperLevel": "INTERMEDIATE",
+		"organisationTag": "Map Kibera",
+		"shortDescription": "The aim of this project is to map in details the road network and buildings in Solai village that was swept away by water after a private dam bursts it's walls.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [36.1245245588229, -0.058130510859953]
+		}
+	}],
+	"2018IndiaFloods": [{
+		"projectId": 5024,
+		"name": "Alleppey, Kerala, India Road Network Improvement",
+		"campaignTag": "2018IndiaFloods",
+		"percentMapped": 70,
+		"percentValidated": 28,
+		"created": "2018-08-21T12:09:51.913396",
+		"lastUpdated": "2018-09-04T11:31:35.186698",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [76.4490323522352, 9.4516518320635]
+		},
+		"mapperLevel": "ADVANCED",
+		"organisationTag": "OSM-IN",
+		"shortDescription": "EXPERIENCED OR LOCAL MAPPERS ONLY - 1+ YEAR OF OSM MAPPING NEEDED\n\n`This is a validation and road improvement only project - See instructions - Experienced JOSM mappers only please`\n\n`You can join HOTOSM local slack #disaster channel while mapping this project` (https://slack.hotosm.org)\n\nMapping project in response to 2018 Flooding in India",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [76.4490323522352, 9.4516518320635]
+		}
+	}, {
+		"projectId": 5190,
+		"name": "Nagaland, India Road Network Improvement",
+		"campaignTag": "2018IndiaFloods",
+		"percentMapped": 17,
+		"percentValidated": 0,
+		"created": "2018-09-08T21:49:53.301262",
+		"lastUpdated": "2018-10-16T14:51:36.416459",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [94.8258832403271, 26.1713278164795]
+		},
+		"mapperLevel": "ADVANCED",
+		"organisationTag": "OSM-IN",
+		"shortDescription": "EXPERIENCED OR LOCAL MAPPERS ONLY - 1+ YEAR OF OSM MAPPING NEEDED\n\n`This is a validation and road improvement only project - See instructions - Experienced JOSM mappers only please`\n\n`You can join HOTOSM local slack #disaster channel while mapping this project` (https://slack.hotosm.org)\n\nMapping project in response to 2018 Flooding in India",
+		"status": "PUBLISHED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [94.8258832403271, 26.1713278164795]
+		}
+	}, {
+		"projectId": 5170,
+		"name": "India Flood Response 2018 - South of Kochi, India - 01",
+		"campaignTag": "2018IndiaFloods",
+		"percentMapped": 18,
+		"percentValidated": 0,
+		"created": "2018-09-05T12:56:44.765297",
+		"lastUpdated": "2018-10-17T07:30:57.386591",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [76.501163491796, 9.35388455315477]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM-IN",
+		"shortDescription": "`Please complete Project 5026 before starting this project`\n\n`Bing Imagery` \n\nMonsoon rains have caused severe flooding in the Kerala Region of India. Your help is needed to map affect areas so aid agencies and local responders can better assist in the recovery.",
+		"status": "PUBLISHED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [76.501163491796, 9.35388455315477]
+		}
+	}, {
+		"projectId": 5009,
+		"name": "India Flood Response 2018 - North of Kochi, India - 01",
+		"campaignTag": "2018IndiaFloods",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-08-17T16:57:19.388733",
+		"lastUpdated": "2018-08-20T05:46:16.100079",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [76.53093325138, 10.167274220295]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM-IN",
+		"shortDescription": "`URGENTLY NEEDS VALIDATION - Please work north to south`\n\nMonsoon rains have caused severe flooding in the Kerala Region of India. Your help is needed to map affect areas so aid agencies and local responders can better assist in the recovery.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [76.53093325138, 10.167274220295]
+		}
+	}, {
+		"projectId": 5003,
+		"name": "Pathanamthitta, Kerala, India Road Network Improvement",
+		"campaignTag": "2018IndiaFloods",
+		"percentMapped": 5,
+		"percentValidated": 1,
+		"created": "2018-08-16T02:46:56.755284",
+		"lastUpdated": "2018-10-08T20:40:28.198987",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [76.7507417059935, 9.27950834561744]
+		},
+		"mapperLevel": "ADVANCED",
+		"organisationTag": "OSM-IN",
+		"shortDescription": "EXPERIENCED OR LOCAL MAPPERS ONLY - 1+ YEAR OF OSM MAPPING NEEDED\n\n`This is a validation and road improvement only project - See instructions - Experienced JOSM mappers only please`\n\n`You can join HOTOSM local slack #disaster channel while mapping these tasks` (https://slack.hotosm.org)\n\nMapping project in response to 2018 Flooding in India",
+		"status": "PUBLISHED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [76.7507417059935, 9.27950834561744]
+		}
+	}],
+	"Ebola2018": [{
+		"projectId": 4755,
+		"name": "2018 Ebola #54, South west of Ingende, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-06-13T18:09:22.214138",
+		"lastUpdated": "2018-06-15T13:37:32.913687",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.7705122947346, -0.413055560240571]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages around Ingende, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.7705122947346, -0.413055560240571]
+		}
+	}, {
+		"projectId": 4691,
+		"name": "2018 Ebola #51, road Mbandaka - Bikoro 2, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-06-05T16:39:05.574000",
+		"lastUpdated": "2018-06-11T16:25:05.293327",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.2136720117279, -0.108981204760534]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages on the Mbandaka - Bikoro road, in Equateur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.2136720117279, -0.108981204760534]
+		}
+	}, {
+		"projectId": 4690,
+		"name": "2018 Ebola #50, road Mbandaka - Bikoro 1, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 98,
+		"created": "2018-06-05T16:09:16.529515",
+		"lastUpdated": "2018-06-11T16:24:57.971474",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.2899421417415, -0.462946111197856]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages on the Mbandaka - Bikoro road, in Equateur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.2899421417415, -0.462946111197856]
+		}
+	}, {
+		"projectId": 4632,
+		"name": "2018 Ebola #49, Lac Tumba south 2, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-30T10:59:36.348234",
+		"lastUpdated": "2018-06-01T22:04:45.203245",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.1316855227947, -1.26628631083629]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages south of Lac Tumba, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.1316855227947, -1.26628631083629]
+		}
+	}, {
+		"projectId": 4631,
+		"name": "2018 Ebola #48, Lac Tumba south 1, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-30T10:36:51.148118",
+		"lastUpdated": "2018-06-01T10:58:09.259453",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [17.944906060793, -0.826875903158574]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages south of Lac Tumba, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [17.944906060793, -0.826875903158574]
+		}
+	}, {
+		"projectId": 4630,
+		"name": "2018 Ebola #47, Lac Tumba north, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-30T10:32:48.005378",
+		"lastUpdated": "2018-06-01T13:45:51.056702",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.1551071622072, -0.586621599372581]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages north of Lac Tumba, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.1551071622072, -0.586621599372581]
+		}
+	}, {
+		"projectId": 4629,
+		"name": "2018 Ebola #46, west of Kiri, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-30T10:07:08.314828",
+		"lastUpdated": "2018-06-11T16:23:29.185341",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.5380972044585, -1.43500248166916]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages around Kiri, in Mai-Ndombe.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.5380972044585, -1.43500248166916]
+		}
+	}, {
+		"projectId": 4628,
+		"name": "2018 Ebola #45, Kiri and surroundings, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 99,
+		"percentValidated": 100,
+		"created": "2018-05-30T09:13:45.684374",
+		"lastUpdated": "2018-06-03T22:53:22.396779",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [19.0334045619371, -1.41162867776431]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages around Kiri, in Mai-Ndombe.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.0334045619371, -1.41162867776431]
+		}
+	}, {
+		"projectId": 4626,
+		"name": "2018 Ebola #44, east of Iboko, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 98,
+		"percentValidated": 100,
+		"created": "2018-05-30T08:48:53.173359",
+		"lastUpdated": "2018-05-31T09:25:05.624112",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [19.0778325910921, -0.944688082095729]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages east of Iboko, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.0778325910921, -0.944688082095729]
+		}
+	}, {
+		"projectId": 4625,
+		"name": "2018 Ebola #43, further East of Ingende, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-30T07:36:03.249142",
+		"lastUpdated": "2018-05-31T10:59:51.269411",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [19.2487016260006, -0.58708638924466]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This forthy third task aims to improve the map (roads, residential landuse, waterways) in the area further East of Ingende.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.2487016260006, -0.58708638924466]
+		}
+	}, {
+		"projectId": 4608,
+		"name": "2018 Ebola #42, around Iboko, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-28T09:39:58.334708",
+		"lastUpdated": "2018-05-31T10:59:43.150746",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.5726655021791, -1.05884914759738]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages around Iboko, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.5726655021791, -1.05884914759738]
+		}
+	}, {
+		"projectId": 4606,
+		"name": "2018 Ebola #41, South of Bikoro, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 99,
+		"created": "2018-05-28T09:29:49.045700",
+		"lastUpdated": "2018-05-28T17:21:43.180227",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.2040257749543, -0.962228937091529]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages south of Bikoro, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.2040257749543, -0.962228937091529]
+		}
+	}, {
+		"projectId": 4600,
+		"name": "2018 Ebola #40, Lokoro, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-26T10:26:34.393320",
+		"lastUpdated": "2018-05-31T10:59:33.662590",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [19.1231202546398, -2.02937688669494]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This forthieth task aims to improve the map (roads, residential landuse, waterways) in the area along Lokoro stream.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.1231202546398, -2.02937688669494]
+		}
+	}, {
+		"projectId": 4599,
+		"name": "2018 Ebola #39, East of Lake Mai-Ndombe, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-26T09:36:31.527791",
+		"lastUpdated": "2018-05-30T07:53:14.112517",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.7762399811196, -2.02677861446578]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This thirthy ninth task aims to improve the map (roads, residential landuse, waterways) in the area East of Lake Mai-Ndombe.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.7762399811196, -2.02677861446578]
+		}
+	}, {
+		"projectId": 4598,
+		"name": "2018 Ebola #38, North East Kiri, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-26T09:27:36.167334",
+		"lastUpdated": "2018-05-29T19:16:38.233595",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [19.195746304154, -1.21794730344669]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This thirthy eighth task aims to improve the map (roads, residential landuse, waterways) in the area North East of Kiri.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.195746304154, -1.21794730344669]
+		}
+	}, {
+		"projectId": 4597,
+		"name": "2018 Ebola #37, East Kiri, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-26T08:57:53.137735",
+		"lastUpdated": "2018-05-28T19:05:08.889254",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [19.2513846681451, -1.59114234491489]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This thirthy seventh task aims to improve the map (roads, residential landuse, waterways) in the area East of Kiri.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.2513846681451, -1.59114234491489]
+		}
+	}, {
+		"projectId": 4594,
+		"name": "2018 Ebola #36, Kiri, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-25T13:16:13.062372",
+		"lastUpdated": "2018-05-26T21:12:15.184696",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.815575644476, -1.57981435593016]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This thirthy sixth task aims to improve the map (roads, residential landuse, waterways) in the area around Kiri.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.815575644476, -1.57981435593016]
+		}
+	}, {
+		"projectId": 4592,
+		"name": "2018 Ebola #35, West of Inongo, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-25T00:33:56.156896",
+		"lastUpdated": "2018-05-29T14:52:54.198324",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.0737045052463, -1.96909439712331]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This thirthy fifth task aims to improve the map (roads, residential landuse, waterways) in the area West of Inongo.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.0737045052463, -1.96909439712331]
+		}
+	}, {
+		"projectId": 4591,
+		"name": "2018 Ebola #34, Inongo, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 99,
+		"percentValidated": 100,
+		"created": "2018-05-25T00:31:26.625360",
+		"lastUpdated": "2018-05-29T06:44:14.589069",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.4438176099286, -1.94603531516757]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This thirthy fourth task aims to improve the map (roads, residential landuse, waterways) in the area of Inongo.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.4438176099286, -1.94603531516757]
+		}
+	}, {
+		"projectId": 4590,
+		"name": "2018 Ebola #33, South West of Lukolela, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 94,
+		"percentValidated": 100,
+		"created": "2018-05-25T00:29:26.365993",
+		"lastUpdated": "2018-05-27T19:44:48.739175",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [16.9345736390793, -1.45562416591498]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This thirthy third task aims to improve the map (roads, residential landuse, waterways) in the area South West of Lukolela.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [16.9345736390793, -1.45562416591498]
+		}
+	}, {
+		"projectId": 4589,
+		"name": "2018 Ebola #32, South East of Lukolela, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 99,
+		"percentValidated": 100,
+		"created": "2018-05-25T00:26:00.153231",
+		"lastUpdated": "2018-05-25T21:42:52.325168",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [17.3327174947974, -1.43249211776356]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This thirthy second task aims to improve the map (roads, residential landuse, waterways) in the area South East of Lukolela.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [17.3327174947974, -1.43249211776356]
+		}
+	}, {
+		"projectId": 4588,
+		"name": "2018 Ebola #31, East of Tumba-Ledima, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-24T20:48:47.367967",
+		"lastUpdated": "2018-05-25T19:12:52.958180",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [17.7012075612875, -1.42592133564583]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This thirthy first task aims to improve the map (roads, residential landuse, waterways) in the area East of Tumba-Ledima.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [17.7012075612875, -1.42592133564583]
+		}
+	}, {
+		"projectId": 4587,
+		"name": "2018 Ebola #30, North-West of Lake Mai-Ndombe, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-24T20:44:59.794241",
+		"lastUpdated": "2018-05-25T19:13:47.585654",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.0642466460537, -1.43046680835656]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This thirthieth task aims to improve the map (roads, residential landuse, waterways) in the area North-West of Lake Mai-Ndombe.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.0642466460537, -1.43046680835656]
+		}
+	}, {
+		"projectId": 4582,
+		"name": "2018 Ebola #29, South of Ingende, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-23T22:55:28.013197",
+		"lastUpdated": "2018-05-25T07:02:32.799519",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [19.0027023819558, -0.818823338486154]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This twenty ninth task aims to improve the map (roads, residential landuse, waterways) in the area South of Ingende.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.0027023819558, -0.818823338486154]
+		}
+	}, {
+		"projectId": 4581,
+		"name": "2018 Ebola #28, North of Lake Mai-Ndombe, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-23T22:48:45.943587",
+		"lastUpdated": "2018-05-25T00:36:23.970399",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.4157526431121, -1.43131260916133]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This twenty eight task aims to improve the map (roads, residential landuse, waterways) in the area North of Lake Mai-Ndombe.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.4157526431121, -1.43131260916133]
+		}
+	}, {
+		"projectId": 4580,
+		"name": "2018 Ebola #27, South-East of Iboko, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-23T22:39:59.788350",
+		"lastUpdated": "2018-05-24T20:59:40.797610",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.8212408487306, -1.22229593004386]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This twenty seventh task aims to improve the map (roads, residential landuse, waterways) in the area South East of Iboko.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.8212408487306, -1.22229593004386]
+		}
+	}, {
+		"projectId": 4575,
+		"name": "2018 Ebola #26, East of Itipo, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-22T10:54:44.151996",
+		"lastUpdated": "2018-05-23T23:45:29.546871",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.6799148931041, -0.849378204803166]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages east of Itipo, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.6799148931041, -0.849378204803166]
+		}
+	}, {
+		"projectId": 4574,
+		"name": "2018 Ebola #25, East of Bikoro, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-22T10:18:36.389920",
+		"lastUpdated": "2018-05-23T23:45:54.092353",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.2345315166897, -0.739440755940976]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This twenty fifth task aims to map the buildings in the villages surrounding Bikoro, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.2345315166897, -0.739440755940976]
+		}
+	}, {
+		"projectId": 4567,
+		"name": "2018 Ebola #24, Makanza, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 97,
+		"percentValidated": 100,
+		"created": "2018-05-21T23:18:13.995954",
+		"lastUpdated": "2018-05-24T20:58:58.424711",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [19.0909235714459, 1.61806216248831]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This twenty fourth task aims to improve the map (roads, residential landuse, waterways) in the area of Makanza.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.0909235714459, 1.61806216248831]
+		}
+	}, {
+		"projectId": 4566,
+		"name": "2018 Ebola #23, South of Makanza, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-21T23:09:02.261355",
+		"lastUpdated": "2018-05-24T14:16:27.992262",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.8819232020023, 1.31528014817499]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This twenty third task aims to improve the map (roads, residential landuse, waterways) in the area South of Makanza.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.8819232020023, 1.31528014817499]
+		}
+	}, {
+		"projectId": 4565,
+		"name": "2018 Ebola #22, North of Mampoko, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-21T20:55:11.126892",
+		"lastUpdated": "2018-05-25T13:14:52.893492",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.7590983487615, 1.06215397641751]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This twenty second task aims to improve the map (roads, residential landuse, waterways) in the area North of Mampoko.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.7590983487615, 1.06215397641751]
+		}
+	}, {
+		"projectId": 4562,
+		"name": "2018 Ebola #21, Lukolela surroundings, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 99,
+		"percentValidated": 100,
+		"created": "2018-05-20T22:38:46.692260",
+		"lastUpdated": "2018-05-23T17:27:05.171967",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [17.4495001896384, -1.07426596043063]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "`Thank you very much! 100 % mapped and validated - will be archived soon`\n\nOn 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This twenty first task aims to improve the map (roads, residential landuse, waterways) around Lukolela.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [17.4495001896384, -1.07426596043063]
+		}
+	}, {
+		"projectId": 4561,
+		"name": "2018 Ebola #20, North of Mbandaka, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-20T22:18:37.406447",
+		"lastUpdated": "2018-05-25T13:15:12.975699",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.386118626577, 0.323834089601862]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This twentieth task aims to improve the map (roads, residential landuse, waterways) in the area North of Mbandaka.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.386118626577, 0.323834089601862]
+		}
+	}, {
+		"projectId": 4560,
+		"name": "2018 Ebola #19, Lolanga - Mampoko, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 99,
+		"created": "2018-05-20T21:51:13.699029",
+		"lastUpdated": "2018-05-25T13:15:36.256216",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.6066842078246, 0.743852155236109]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This nineteenth task aims to improve the map (roads, residential landuse, waterways) in a Northern area, around Lolanga and Mampoko that are places from which people travel regularly to Mbandaka.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.6066842078246, 0.743852155236109]
+		}
+	}, {
+		"projectId": 4559,
+		"name": "2018 Ebola #18, North of Ruki, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-19T10:57:20.030539",
+		"lastUpdated": "2018-05-31T10:59:27.753681",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.9670145804051, 0.035803923133312]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This eighteenth task aims to improve the map (roads, residential landuse, waterways) in the area North of Ruki river, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.9670145804051, 0.035803923133312]
+		}
+	}, {
+		"projectId": 4558,
+		"name": "2018 Ebola #17, West of Lake Tumba, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-19T10:54:10.655129",
+		"lastUpdated": "2018-05-25T13:12:59.314227",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [17.8103299067143, -0.889247773483224]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This seventeenth task aims to improve the map (roads, residential landuse, waterways) in the area West of Lake Tumba, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [17.8103299067143, -0.889247773483224]
+		}
+	}, {
+		"projectId": 4554,
+		"name": "2018 Ebola #16, East of Ingende, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-17T23:44:53.887386",
+		"lastUpdated": "2018-05-25T13:16:11.458847",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [19.0763837731612, -0.308677159822863]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This sixteenth task aims to improve the map (roads, residential landuse, waterways) East of Ingende, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.0763837731612, -0.308677159822863]
+		}
+	}, {
+		"projectId": 4553,
+		"name": "2018 Ebola #15, Irebu surroundings, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-17T23:44:36.969256",
+		"lastUpdated": "2018-05-31T10:59:00.842023",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [17.9470490447885, -0.49688022790963]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This fifteenth task aims to improve the map (roads, residential landuse, waterways) in Irebu surroundings, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [17.9470490447885, -0.49688022790963]
+		}
+	}, {
+		"projectId": 4552,
+		"name": "2018 Ebola #14, Ruki river to Ingende, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-17T23:29:35.703796",
+		"lastUpdated": "2018-05-25T13:15:58.277218",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.6918488065037, -0.167204266941964]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This fourteenth task aims to improve the map (roads, residential landuse, waterways) in the area around Ruki river up to Ingende, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.6918488065037, -0.167204266941964]
+		}
+	}, {
+		"projectId": 4551,
+		"name": "2018 Ebola #13, South of Mbandaka, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-17T23:29:21.051641",
+		"lastUpdated": "2018-05-25T13:12:04.297079",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.2648235044152, -0.105632550202885]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This thirteenth task aims to improve the map (roads, residential landuse, waterways) in the area South of Mbandaka, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.2648235044152, -0.105632550202885]
+		}
+	}, {
+		"projectId": 4550,
+		"name": "2018 Ebola #12, South of Ingende, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-17T22:47:33.015452",
+		"lastUpdated": "2018-05-25T13:11:36.039791",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.7677302882419, -0.459362708279654]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This twelveth task aims to improve the map (roads, residential landuse, waterways) in the area South of Ingende, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.7677302882419, -0.459362708279654]
+		}
+	}, {
+		"projectId": 4549,
+		"name": "2018 Ebola #11, North of Bikoro, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-17T22:46:33.180273",
+		"lastUpdated": "2018-05-25T13:11:52.873571",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.3299779789334, -0.463559290123896]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This eleventh task aims to improve the map (roads, residential landuse, waterways) in the area North of Bikoro, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.3299779789334, -0.463559290123896]
+		}
+	}, {
+		"projectId": 4543,
+		"name": "2018 Ebola #10, Irebu, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-17T15:59:57.430333",
+		"lastUpdated": "2018-05-25T13:11:11.409744",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [17.7985190306168, -0.60658220043042]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This tenth task aims to map Irebu area in details (buildings, roads, waterways), it is one of the important market places of the area.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [17.7985190306168, -0.60658220043042]
+		}
+	}, {
+		"projectId": 4541,
+		"name": "2018 Ebola #9, Ingende, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-17T15:22:24.266496",
+		"lastUpdated": "2018-05-25T13:10:28.092276",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.9601701901266, -0.316819168607092]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This ninth task aims to map Ingende town in details (buildings and roads), it is one of the important market places of the area.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.9601701901266, -0.316819168607092]
+		}
+	}, {
+		"projectId": 4525,
+		"name": "2018 Ebola #8, Mbandaka (E Av. Revolution), DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-12T12:19:24.181304",
+		"lastUpdated": "2018-05-25T13:10:57.112647",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.2789789858524, 0.04126200032361]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This eighth task aims to map Mbandaka city in details (buildings in particular), for the area located east of Avenue Révolution.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.2789789858524, 0.04126200032361]
+		}
+	}, {
+		"projectId": 4524,
+		"name": "2018 Ebola #7, Mbandaka (S Av. Revolution), DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-12T12:14:14.667889",
+		"lastUpdated": "2018-05-25T13:10:14.723999",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.2425099229452, 0.0202054774011]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This seventh task aims to map Mbandaka city in details (buildings in particular), for the area located south of Avenue Révolution.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.2425099229452, 0.0202054774011]
+		}
+	}, {
+		"projectId": 4523,
+		"name": "Ebola #6 2018, Mbandaka (NO de Av. Revolution), RDC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-12T11:01:06.054694",
+		"lastUpdated": "2018-05-25T13:09:30.732358",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.2547794540417, 0.048372248656735]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On May 8, 2018, the Ministry of Health announced the 9th Ebola epidemic in the Democratic Republic of Congo (DRC). This sixth task aims to map the town of Mbandaka in detail (buildings in particular), for the area located north-west of Revolution Avenue.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.2547794540417, 0.048372248656735]
+		}
+	}, {
+		"projectId": 4522,
+		"name": "2018 Ebola #5, RP301, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 99,
+		"created": "2018-05-11T16:46:35.622755",
+		"lastUpdated": "2018-05-25T13:09:48.208322",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.4646418806696, -0.776097084665321]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This fifth task aims to map the buildings in the villages along the RP301 road and its surroundings, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.4646418806696, -0.776097084665321]
+		}
+	}, {
+		"projectId": 4506,
+		"name": "2018 Ebola, Itipo surroundings, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-09T15:05:11.787327",
+		"lastUpdated": "2018-05-25T13:14:15.587917",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.6701159438654, -0.836325942226073]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This fourth task aims to improve the map around Itipo health area, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.6701159438654, -0.836325942226073]
+		}
+	}, {
+		"projectId": 4505,
+		"name": "2018 Ebola, Lukanga - Mpangi area, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 98,
+		"percentValidated": 100,
+		"created": "2018-05-09T15:02:47.300674",
+		"lastUpdated": "2018-05-11T23:47:08.138748",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.3376275929732, -0.988373976365813]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "**- Validators wanted -**\n\nOn 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This third task aims to improve the map for the area around Lukanga and the health area of Mpangi, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.3376275929732, -0.988373976365813]
+		}
+	}, {
+		"projectId": 4503,
+		"name": "2018 Ebola, Bikoro - Ikoko Impenge surroundings, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-09T08:34:26.675897",
+		"lastUpdated": "2018-05-25T02:59:49.127721",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.3415273401671, -0.709335073853154]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "**- Validators wanted -**\n\nOn 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This second task aims to improve the map for the area around the town of Bikoro and the health area of Ikoko Impenge, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.3415273401671, -0.709335073853154]
+		}
+	}, {
+		"projectId": 4502,
+		"name": "2018 Ebola, Bikoro, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-08T17:50:22.270488",
+		"lastUpdated": "2018-05-25T03:00:02.966262",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.1300332467447, -0.73549194582927]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "**- Validators wanted -**\n\nOn 2018 May 8th, the Ministry of Health has just announced the 9th Ebola outbreak in the Democratic Republic of the Congo. The first task aim to map the town of Bikoro in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.1300332467447, -0.73549194582927]
+		}
+	}, {
+		"projectId": 5307,
+		"name": "DRC/Bundibugyo District Border Mapping",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 79,
+		"percentValidated": 6,
+		"created": "2018-10-02T07:48:25.086975",
+		"lastUpdated": "2018-10-15T09:04:11.352334",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [29.9023571310443, 0.650051053822993]
+		},
+		"mapperLevel": "ADVANCED",
+		"organisationTag": "HOT",
+		"shortDescription": "Author: Missing Maps / HOT Uganda\n* Requesting organization:  HOT Uganda/UNHCR\n### Imagery: Esri World Imagery\nThe escalation of violence in DRC  has led to 48,105 refugees arriving in Uganda since January 2018. This rapidly developing situation is not helped by the Ebola outbreak in the DRC. It is vital that accurate and up-to-date mapping information is available to allow UNHCR and partners to respond to needs more effectively and efficiently.",
+		"status": "PUBLISHED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [29.9023571310443, 0.650051053822993]
+		}
+	}, {
+		"projectId": 5226,
+		"name": "Ebola 2018, Malambo, Nord-Kivu, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 96,
+		"percentValidated": 54,
+		"created": "2018-09-12T10:02:46.024365",
+		"lastUpdated": "2018-10-16T17:27:25.525974",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [29.7159930285264, 0.332677334702665]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM-CD",
+		"shortDescription": "On 2018 August 1st, the Ministry of Health has announced the 10th Ebola outbreak in the Democratic Republic of the Congo. This task aims to update the inhabited areas and map visible infrastructures in the villages around Beni, in Nord-Kivu province.",
+		"status": "PUBLISHED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [29.7159930285264, 0.332677334702665]
+		}
+	}, {
+		"projectId": 5208,
+		"name": "DRC/Bundibugyo District Border Mapping- Buildings",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 83,
+		"percentValidated": 0,
+		"created": "2018-09-10T13:08:23.230512",
+		"lastUpdated": "2018-10-16T20:21:48.446837",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [29.9023571310443, 0.650051053822987]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "HOT",
+		"shortDescription": "Author: Missing Maps / HOT Uganda\n* Requesting organization:  HOT Uganda/UNHCR\n### Imagery: Esri World Imagery\nThe escalation of violence in DRC  has led to 48,105 refugees arriving in Uganda since January 2018. This rapidly developing situation is not helped by the Ebola outbreak in the DRC. It is vital that accurate and up-to-date mapping information is available to allow UNHCR and partners to respond to needs more effectively and efficiently.",
+		"status": "PUBLISHED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [29.9023571310443, 0.650051053822987]
+		}
+	}, {
+		"projectId": 5207,
+		"name": "Ebola 2018, DRC/Ntoroko District Border Mapping",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 45,
+		"percentValidated": 0,
+		"created": "2018-09-10T12:53:33.696998",
+		"lastUpdated": "2018-10-16T20:47:55.275388",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [30.2710121990189, 1.08357516305285]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "HOT",
+		"shortDescription": "Author: Missing Maps / HOT Uganda\n* Requesting organization:  HOT Uganda/UNHCR\n### Imagery: Bing Imagery\nThe escalation of violence in DRC  has led to 48,105 refugees arriving in Uganda since January 2018. This rapidly developing situation is not helped by the Ebola outbreak in the DRC. It is vital that accurate and up-to-date mapping information is available to allow UNHCR and partners to respond to needs more effectively and efficiently.",
+		"status": "PUBLISHED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [30.2710121990189, 1.08357516305285]
+		}
+	}, {
+		"projectId": 5180,
+		"name": "2018 Ebola, South of Beni, Nord-Kivu, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 99,
+		"percentValidated": 100,
+		"created": "2018-09-06T16:07:50.701331",
+		"lastUpdated": "2018-09-20T09:34:55.517211",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [29.4194734211863, 0.409250170256753]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM-CD",
+		"shortDescription": "On 2018 August 1st, the Ministry of Health has announced the 10th Ebola outbreak in the Democratic Republic of the Congo. This  task aims to update the inhabited areas and map visible infrastructures in the villages around Beni, in Nord-Kivu province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [29.4194734211863, 0.409250170256753]
+		}
+	}, {
+		"projectId": 5176,
+		"name": "2018 Ebola, North-West of Beni, Nord-Kivu, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 99,
+		"percentValidated": 100,
+		"created": "2018-09-06T14:32:09.176842",
+		"lastUpdated": "2018-09-12T09:59:30.667827",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [29.1630430370293, 0.631378590717463]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM-CD",
+		"shortDescription": "On 2018 August 1st, the Ministry of Health has announced the 10th Ebola outbreak in the Democratic Republic of the Congo. This task aims to update the inhabited areas and map visible infrastructures in the villages West of Beni, in Nord-Kivu province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [29.1630430370293, 0.631378590717463]
+		}
+	}, {
+		"projectId": 5160,
+		"name": "2018 Ebola, North-West of Beni, Nord-Kivu, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 89,
+		"percentValidated": 60,
+		"created": "2018-09-04T11:46:18.076202",
+		"lastUpdated": "2018-09-06T14:56:21.453929",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [29.3062631770409, 0.631593962576439]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM-CD",
+		"shortDescription": "On 2018 August 1st, the Ministry of Health has announced the 10th Ebola outbreak in the Democratic Republic of the Congo. This second task aims to update the inhabited areas and map visible infrastructures in the villages West of Beni, in Nord-Kivu province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [29.3062631770409, 0.631593962576439]
+		}
+	}, {
+		"projectId": 4958,
+		"name": "Ebola2018, Beni, Nord-Kivu, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 99,
+		"percentValidated": 100,
+		"created": "2018-08-04T12:33:34.272863",
+		"lastUpdated": "2018-08-13T09:08:36.652394",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [29.459962322097, 0.497868139306192]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM-CD",
+		"shortDescription": "During the month of October 2014, repeated massacres in the city of Beni killed more than one hundred people.\n\n**2018 EDIT: we are relaunching this task!**",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [29.459962322097, 0.497868139306192]
+		}
+	}, {
+		"projectId": 4953,
+		"name": "2018 Ebola, West of Beni, Nord-Kivu, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-08-02T15:56:00.770175",
+		"lastUpdated": "2018-08-13T09:08:31.119375",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [29.3368765464649, 0.523409977552767]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM-CD",
+		"shortDescription": "On 2018 August 1st, the Ministry of Health has announced the 10th Ebola outbreak in the Democratic Republic of the Congo. This second task aims to update the inhabited areas and map visible infrastructures in the villages West of Beni, in Nord-Kivu province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [29.3368765464649, 0.523409977552767]
+		}
+	}, {
+		"projectId": 4947,
+		"name": "2018 Ebola, Mangina, Nord-Kivu, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-08-01T15:52:31.087665",
+		"lastUpdated": "2018-08-13T09:55:20.365891",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [29.3091212818356, 0.633273460405425]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM-CD",
+		"shortDescription": "On 2018 August 1st, the Ministry of Health has announced the 10th Ebola outbreak in the Democratic Republic of the Congo. This task aims to update the inhabited areas and map visible infrastructures in the villages of Mangina health area, in Nord-Kivu province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [29.3091212818356, 0.633273460405425]
+		}
+	}, {
+		"projectId": 4784,
+		"name": "2018 Ebola #58, Along the Congo river 2, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-06-20T11:11:51.882259",
+		"lastUpdated": "2018-07-03T14:13:10.849432",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.2155357232769, 0.095667094655171]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages along the Congo river, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.2155357232769, 0.095667094655171]
+		}
+	}, {
+		"projectId": 4783,
+		"name": "2018 Ebola #57, Along the Congo river 1, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-06-20T11:06:57.262895",
+		"lastUpdated": "2018-07-16T12:02:12.626238",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [17.9245281927784, -0.332350366129487]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages along the Congo river, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [17.9245281927784, -0.332350366129487]
+		}
+	}, {
+		"projectId": 4782,
+		"name": "2018 Ebola #56, South east of Mbandaka, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-06-20T10:52:52.658915",
+		"lastUpdated": "2018-07-03T14:13:08.726350",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.3784524045596, -0.085669870987342]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "`Please validate to Esri World Imagery`\n\nOn 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages around Mbandaka, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.3784524045596, -0.085669870987342]
+		}
+	}, {
+		"projectId": 4754,
+		"name": "2018 Ebola #53, Bolaka, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-06-13T18:05:03.757890",
+		"lastUpdated": "2018-06-15T12:59:52.006974",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.5172506708689, -0.365034922374921]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages around Bolaka, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.5172506708689, -0.365034922374921]
+		}
+	}, {
+		"projectId": 4718,
+		"name": "2018 Ebola #52, around Ngengobala, DRC",
+		"campaignTag": "Ebola2018",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-06-11T09:48:23.580645",
+		"lastUpdated": "2018-06-13T14:49:58.397078",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [18.5567058952405, -0.533860795497544]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "OSM RDC",
+		"shortDescription": "On 2018 May 8th, the Ministry of Health has announced the 9th Ebola outbreak in the Democratic Republic of the Congo. This task aims to map the buildings in the villages around Ngengobala, in Equateur province.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.5567058952405, -0.533860795497544]
+		}
+	}],
+	"null": [{
+		"projectId": 4586,
+		"name": "Missing Maps - Peru - Iquitos",
+		"campaignTag": null,
+		"percentMapped": 99,
+		"percentValidated": 18,
+		"created": "2018-05-24T09:24:04.788425",
+		"lastUpdated": "2018-10-16T14:27:02.371870",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [-73.1451800753969, -3.70658740963958]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Netherlands Red Cross",
+		"shortDescription": "- Author: **Missing Maps**\n- Requesting organization: **Netherlands Red Cross**\n- Priority: **Medium**",
+		"status": "PUBLISHED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.1451800753969, -3.70658740963958]
+		}
+	}, {
+		"projectId": 4199,
+		"name": "Lake Chad Region",
+		"campaignTag": null,
+		"percentMapped": 66,
+		"percentValidated": 58,
+		"created": "2018-02-20T19:24:12.206225",
+		"lastUpdated": "2018-08-09T19:30:47.314926",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [14.3260552617894, 13.4265457896431]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "USAID",
+		"shortDescription": "This project will focus on the islands of Chad’s Lac region, part of the greater Lake Chad basin.  Multiple overlapping problems have converged to produce one of the world's most complex humanitarian crisis.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [14.3260552617894, 13.4265457896431]
+		}
+	}],
+	"SomaliaFloodsMay2018": [{
+		"projectId": 4490,
+		"name": "Beledweyne, Somalia - 2018 Flood Crisis Project 01",
+		"campaignTag": "SomaliaFloodsMay2018",
+		"percentMapped": 99,
+		"percentValidated": 99,
+		"created": "2018-05-04T14:03:55.931611",
+		"lastUpdated": "2018-05-08T12:46:52.348569",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [45.2096566347826, 4.74292984949932]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "HOT",
+		"shortDescription": "`Good for new mappers - small task squares`\n\nIncreased rainfall since the beginning of April has resulted in a sharp rise in the Shabelle and Juba rivers, leading to severe flooding. Almost 700,000 people have been affected by flooding in riverine and flood-prone areas. There are concerns that the severe flooding will trigger a cholera outbreak.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [45.2096566347826, 4.74292984949932]
+		}
+	}],
+	"": [{
+		"projectId": 2211,
+		"name": "Hurricane Matthew: Leogane",
+		"campaignTag": "",
+		"percentMapped": 100,
+		"percentValidated": 68,
+		"created": "2016-10-06T14:51:24.148234",
+		"lastUpdated": "2017-12-23T11:26:27.982644",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [-72.6356352556371, 18.4748148400757]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "",
+		"shortDescription": "`Current #HurricaneMatthew Project`\r\n\r\n`Next Haiti Project is 2218 above`\r\n\r\n- Author: **HOT**\r\n- Requesting organization: **Red Cross**\r\n- Priority: **Urgent**\r\n\r\n`Buildings Only`\r\n\r\nHurricane Matthew a category 4 hurricane caused catastrophic damage to western Haiti. Over 2 feet of rain fell, causing flooding, damaging homes and washing away infrastructure. According to reports over 15,000 people have been displaced including destroying almost 4,000 homes. Bridges and roads have been affected including critical links for relief efforts. The government has estimated at least 350,000 people need some kind of assistance after the disaster.\r\n\r\nThis data will be used for a detailed damage assessment, relief planning, and for future cholera prevention efforts.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-72.6356352556371, 18.4748148400757]
+		}
+	}, {
+		"projectId": 2210,
+		"name": "Hurricane Matthew: Leogane Urban",
+		"campaignTag": "",
+		"percentMapped": 99,
+		"percentValidated": 5,
+		"created": "2016-10-06T14:49:01.407094",
+		"lastUpdated": "2016-10-11T23:31:25.258448",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [-72.6109178235495, 18.5068013112223]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "",
+		"shortDescription": "`Current #HurricaneMatthew Project`\r\n\r\n- Author: **HOT**\r\n- Requesting organization: **Red Cross**\r\n- Priority: **Urgent**\r\n\r\n`Buildings Only`\r\n\r\nHurricane Matthew a category 4 hurricane caused catastrophic damage to western Haiti. Over 2 feet of rain fell, causing flooding, damaging homes and washing away infrastructure. According to reports over 15,000 people have been displaced including destroying almost 4,000 homes. Bridges and roads have been affected including critical links for relief efforts. The government has estimated at least 350,000 people need some kind of assistance after the disaster.\r\n\r\nThis data will be used for a detailed damage assessment, relief planning, and for future cholera prevention efforts.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-72.6109178235495, 18.5068013112223]
+		}
+	}, {
+		"projectId": 2205,
+		"name": "Hurricane Matthew: Nippes coast",
+		"campaignTag": "",
+		"percentMapped": 99,
+		"percentValidated": 39,
+		"created": "2016-10-06T03:55:34.838621",
+		"lastUpdated": "2017-03-31T21:10:11.768790",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [-73.0168605515557, 18.445445160502]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "",
+		"shortDescription": "`Current #HurricaneMatthew Project`\r\n\r\n- Author: **HOT**\r\n- Requesting organization: **Red Cross**\r\n- Priority: **Urgent**\r\n\r\n`Buildings Only`\r\n\r\nHurricane Matthew a category 4 hurricane caused catastrophic damage to western Haiti. Over 2 feet of rain fell, causing flooding, damaging homes and washing away infrastructure. According to reports over 15,000 people have been displaced including destroying almost 2,000 homes. Bridges and roads have been affected including critical links for relief efforts.\r\n\r\nThis data will be used for a detailed damage assessment, relief planning, and for future cholera prevention efforts.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.0168605515557, 18.445445160502]
+		}
+	}, {
+		"projectId": 2204,
+		"name": "Hurricane Matthew: Ils a Vache",
+		"campaignTag": "",
+		"percentMapped": 100,
+		"percentValidated": 55,
+		"created": "2016-10-04T19:44:47.355057",
+		"lastUpdated": "2017-12-10T20:30:15.345925",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [-73.6393242561424, 18.0780788326364]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "",
+		"shortDescription": "- Author: **HOT**\r\n- Requesting organization: **Red Cross**\r\n- Priority: **Urgent**\r\n\r\n`Buildings Only`\r\n\r\nHurricane Matthew a category 4 hurricane caused catastrophic damage to western Haiti. Over 2 feet of rain fell, causing flooding, damaging homes and washing away infrastructure. According to reports over 15,000 people have been displaced including destroying almost 2,000 homes. Bridges and roads have been affected including critical links for relief efforts.\r\n\r\nThis data will be used for a detailed damage assessment, relief planning, and for future cholera prevention efforts.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.6393242561424, 18.0780788326364]
+		}
+	}, {
+		"projectId": 2202,
+		"name": "Hurricane Matthew: Cuba",
+		"campaignTag": "",
+		"percentMapped": 0,
+		"percentValidated": 0,
+		"created": "2016-10-04T14:02:29.145878",
+		"lastUpdated": "2018-02-03T14:27:26.035070",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [-74.8373856858069, 20.0350377605549]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "",
+		"shortDescription": "`Current Hurricane Matthew Project, please concentrate here!`\r\n\r\n- Author: **HOT**\r\n- Requesting organization: **Red Cross**\r\n- Priority: **Urgent**\r\n\r\n`Buildings Only`\r\n\r\nHurricane Matthew a category 4 hurricane is likely to hit the western part of Cuba. The storm is projected to cause flooding due to storm surge and torrential rain of over 2 feet in some areas.\r\n\r\nThis is the first task to map roads and existing villages and towns to enable a detailed risk assessment.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-74.8373856858069, 20.0350377605549]
+		}
+	}, {
+		"projectId": 2201,
+		"name": "Hurricane Matthew: Jereme Buildings",
+		"campaignTag": "",
+		"percentMapped": 100,
+		"percentValidated": 29,
+		"created": "2016-10-04T13:53:32.195356",
+		"lastUpdated": "2017-12-22T13:50:28.983272",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [-74.1491711057336, 18.6338500530503]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "",
+		"shortDescription": "`Current #HurricaneMatthew Project`\r\n\r\n- Author: **HOT**\r\n- Requesting organization: **Red Cross**\r\n- Priority: **Urgent**\r\n\r\n`Buildings Only`\r\n\r\nHurricane Matthew a category 4 hurricane caused catastrophic damage to western Haiti. Over 2 feet of rain fell, causing flooding, damaging homes and washing away infrastructure. According to reports over 15,000 people have been displaced including destroying almost 2,000 homes. Bridges and roads have been affected including critical links for relief efforts.\r\n\r\nThis data will be used for a detailed damage assessment, relief planning, and for future cholera prevention efforts.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-74.1491711057336, 18.6338500530503]
+		}
+	}],
+	"Missing Maps": [{
+		"projectId": 4978,
+		"name": "Tanzania Development Trust: Magata Karutonga  Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-08-09T07:43:54.488440",
+		"lastUpdated": "2018-08-19T12:38:08.139958",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [31.6336096442559, -1.87369450984158]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nMorogoro, Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [31.6336096442559, -1.87369450984158]
+		}
+	}, {
+		"projectId": 4886,
+		"name": "Mapping buildings in Al Azariq, Yemen",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-07-20T09:45:01.148026",
+		"lastUpdated": "2018-07-25T08:12:03.205963",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [44.705429034235, 13.621150674685]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Médecins Sans Frontières",
+		"shortDescription": "Since March 2015, a Saudi-led coalition has been fighting anti-government Houthi forces, resulting in widespread destruction, bombing and gun battles. Ordinary people in Yemen are bearing the brunt of an increasingly brutal conflict.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [44.705429034235, 13.621150674685]
+		}
+	}, {
+		"projectId": 4885,
+		"name": "Mapping roads in Al Azariq, Yemen",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-07-20T09:28:04.354990",
+		"lastUpdated": "2018-07-24T11:48:01.148290",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [44.705429034235, 13.621150674685]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Médecins Sans Frontières",
+		"shortDescription": "Since March 2015, a Saudi-led coalition has been fighting anti-government Houthi forces, resulting in widespread destruction, bombing and gun battles. Ordinary people in Yemen are bearing the brunt of an increasingly brutal conflict.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [44.705429034235, 13.621150674685]
+		}
+	}, {
+		"projectId": 4867,
+		"name": "Missing Maps: Residential areas in Sokoto State, Nigeria (1)",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-07-13T16:02:31.897265",
+		"lastUpdated": "2018-09-05T08:44:08.038022",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [6.48241023533448, 13.1612540958641]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Médecins Sans Frontières",
+		"shortDescription": "MSF teams working in Sokoto state, northern Nigeria, respond to a variety of different health needs. These include emergency response to disease outbreaks across the area, outreach and specialised surgical care for noma - a gangrenous infection of the mouth and face , care for children under five, etc. Accurate maps of the area will assist the MSF teams with epidemiological analysis, disease surveillance and logistical planning.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [6.48241023533448, 13.1612540958641]
+		}
+	}, {
+		"projectId": 4838,
+		"name": "Mapping buildings in Qataba, Yemen",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-07-06T08:40:32.628308",
+		"lastUpdated": "2018-07-24T12:12:40.896700",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [44.7067329664529, 13.8403954335386]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Médecins Sans Frontières",
+		"shortDescription": "Since March 2015, a Saudi-led coalition has been fighting anti-government Houthi forces, resulting in widespread destruction, bombing and gun battles. Ordinary people in Yemen are bearing the brunt of an increasingly brutal conflict.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [44.7067329664529, 13.8403954335386]
+		}
+	}, {
+		"projectId": 4837,
+		"name": "Missing Maps: Mapping roads in Qataba, Yemen",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-07-06T08:36:16.759279",
+		"lastUpdated": "2018-07-08T15:06:59.240739",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [44.7067329664529, 13.8403954335386]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Médecins Sans Frontières",
+		"shortDescription": "Since March 2015, a Saudi-led coalition has been fighting anti-government Houthi forces, resulting in widespread destruction, bombing and gun battles. Ordinary people in Yemen are bearing the brunt of an increasingly brutal conflict.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [44.7067329664529, 13.8403954335386]
+		}
+	}, {
+		"projectId": 4831,
+		"name": "Missing Maps: Mapping roads in Ad Dhale, Yemen",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-07-05T09:09:57.476332",
+		"lastUpdated": "2018-07-06T08:17:09.120232",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [44.7312218753365, 13.7001647466239]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Médecins Sans Frontières",
+		"shortDescription": "Since March 2015, a Saudi-led coalition has been fighting anti-government Houthi forces, resulting in widespread destruction, bombing and gun battles. Ordinary people in Yemen are bearing the brunt of an increasingly brutal conflict.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [44.7312218753365, 13.7001647466239]
+		}
+	}, {
+		"projectId": 4710,
+		"name": "Tanzania Development Trust: Rubale Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-06-09T09:44:29.903596",
+		"lastUpdated": "2018-06-11T09:48:35.474821",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [31.5198154824657, -1.60317363606181]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [31.5198154824657, -1.60317363606181]
+		}
+	}, {
+		"projectId": 4470,
+		"name": "Missing Maps: West Harare, Zimbabwe 5/5",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 98,
+		"created": "2018-04-26T15:04:37.653763",
+		"lastUpdated": "2018-05-03T12:03:52.583236",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [30.9408151333863, -17.90220137385]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Médecins Sans Frontières",
+		"shortDescription": "Budiriro and Glenview are two suburbs in Harare that have repeatedly been the epicentres of typhoid outbreaks. The mapping of these neighbourhoods will help MSF to understand the reasons of the recurring outbreaks.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [30.9408151333863, -17.90220137385]
+		}
+	}, {
+		"projectId": 4469,
+		"name": "Missing Maps: West Harare, Zimbabwe 4/5",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-04-26T14:59:26.139943",
+		"lastUpdated": "2018-05-16T16:52:58.400760",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [30.9505247033697, -17.9029029929578]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Médecins Sans Frontières",
+		"shortDescription": "Budiriro and Glenview are two suburbs in Harare that have repeatedly been the epicentres of typhoid outbreaks. The mapping of these neighbourhoods will help MSF to understand the reasons of the recurring outbreaks.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [30.9505247033697, -17.9029029929578]
+		}
+	}, {
+		"projectId": 4468,
+		"name": "Missing Maps: West Harare, Zimbabwe 3/5",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-04-26T14:53:41.504800",
+		"lastUpdated": "2018-05-04T11:27:13.389786",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [30.9191490199491, -17.8906588959121]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Médecins Sans Frontières",
+		"shortDescription": "Budiriro and Glenview are two suburbs in Harare that have repeatedly been the epicentres of typhoid outbreaks. The mapping of these neighbourhoods will help MSF to understand the reasons of the recurring outbreaks.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [30.9191490199491, -17.8906588959121]
+		}
+	}, {
+		"projectId": 4467,
+		"name": "Missing Maps: West Harare, Zimbabwe 2/5",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-04-26T14:49:46.130844",
+		"lastUpdated": "2018-04-30T08:51:07.030415",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [30.9351296047106, -17.919704092956]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Médecins Sans Frontières",
+		"shortDescription": "Budiriro and Glenview are two suburbs in Harare that have repeatedly been the epicentres of typhoid outbreaks. The mapping of these neighbourhoods will help MSF to understand the reasons of the recurring outbreaks.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [30.9351296047106, -17.919704092956]
+		}
+	}, {
+		"projectId": 4466,
+		"name": "Missing Maps: West Harare, Zimbabwe 1/5",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-04-26T13:55:59.180010",
+		"lastUpdated": "2018-05-02T21:55:54.305281",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [30.8995299705196, -17.8794812737692]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Médecins Sans Frontières",
+		"shortDescription": "Budiriro and Glenview are two suburbs in Harare that have repeatedly been the epicentres of typhoid outbreaks. The mapping of these neighbourhoods will help MSF to understand the reasons of the recurring outbreaks.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [30.8995299705196, -17.8794812737692]
+		}
+	}, {
+		"projectId": 4440,
+		"name": "Tanzania Development Trust: Kihurio Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-04-18T13:46:26.007985",
+		"lastUpdated": "2018-04-22T11:26:59.833557",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [38.0710346364441, -4.47694510234758]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKihurio has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [38.0710346364441, -4.47694510234758]
+		}
+	}, {
+		"projectId": 4406,
+		"name": "Tanzania Development Trust: Kyaibumba Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-04-08T09:52:44.232170",
+		"lastUpdated": "2018-04-09T13:11:38.149943",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [31.4548536327291, -1.9073101465972]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [31.4548536327291, -1.9073101465972]
+		}
+	}, {
+		"projectId": 4405,
+		"name": "Tanzania Development Trust: Rushwa Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-04-08T09:47:15.544744",
+		"lastUpdated": "2018-04-12T15:18:37.886694",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [31.4939209647812, -1.78766119268283]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [31.4939209647812, -1.78766119268283]
+		}
+	}, {
+		"projectId": 4404,
+		"name": "Tanzania Development Trust: Kiyebe Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 98,
+		"percentValidated": 100,
+		"created": "2018-04-08T09:42:25.331106",
+		"lastUpdated": "2018-04-13T10:31:49.691976",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [31.5213611368364, -2.01443774986169]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [31.5213611368364, -2.01443774986169]
+		}
+	}, {
+		"projectId": 4368,
+		"name": "Tanzania Development Trust: Morogoro Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 98,
+		"percentValidated": 44,
+		"created": "2018-03-28T10:55:00.082853",
+		"lastUpdated": "2018-07-11T09:23:52.366860",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [37.6521283051778, -6.82130428335325]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **Medium**\n\nMorogoro, Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.6521283051778, -6.82130428335325]
+		}
+	}, {
+		"projectId": 4357,
+		"name": "Tanzania Development Trust: Rungwe Kasulu Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 99,
+		"percentValidated": 99,
+		"created": "2018-03-24T09:33:42.283227",
+		"lastUpdated": "2018-06-17T13:13:26.143001",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [30.2493018751241, -4.77015701562809]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [30.2493018751241, -4.77015701562809]
+		}
+	}, {
+		"projectId": 4336,
+		"name": "Tanzania Development Trust: Mingoyo Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 97,
+		"percentValidated": 100,
+		"created": "2018-03-20T09:28:38.609578",
+		"lastUpdated": "2018-03-26T14:05:02.495927",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [39.6150235515117, -10.1073176624119]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nLindi  region, Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [39.6150235515117, -10.1073176624119]
+		}
+	}, {
+		"projectId": 4335,
+		"name": "Tanzania Development Trust: Urambo Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-19T22:32:58.061448",
+		"lastUpdated": "2018-03-25T19:18:49.557524",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [32.0763834649408, -5.08236418614099]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nUrambo district in central Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [32.0763834649408, -5.08236418614099]
+		}
+	}, {
+		"projectId": 4334,
+		"name": "Tanzania Development Trust: Ihemi Iringa Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-19T21:24:29.599703",
+		"lastUpdated": "2018-03-24T09:40:04.137238",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [35.5059379677161, -8.01149565167227]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [35.5059379677161, -8.01149565167227]
+		}
+	}, {
+		"projectId": 4329,
+		"name": "Tanzania Development Trust: Chabuhora Karagwe Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-19T08:28:45.060124",
+		"lastUpdated": "2018-03-24T09:47:06.756563",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [30.9793967385239, -1.78282439868476]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [30.9793967385239, -1.78282439868476]
+		}
+	}, {
+		"projectId": 4326,
+		"name": "Tanzania Development Trust: Chamchuzi Karagwe Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-18T09:18:45.015782",
+		"lastUpdated": "2018-03-19T08:49:59.326747",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [30.8657918691606, -1.79784583007795]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [30.8657918691606, -1.79784583007795]
+		}
+	}, {
+		"projectId": 4325,
+		"name": "Tanzania Development Trust: Kakuraijo Karagwe Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-18T09:12:45.813787",
+		"lastUpdated": "2018-03-19T18:46:49.850824",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [30.9998529759753, -1.76362344469638]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [30.9998529759753, -1.76362344469638]
+		}
+	}, {
+		"projectId": 4324,
+		"name": "Tanzania Development Trust: Nyakaiga Karagwe Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-18T09:05:35.847576",
+		"lastUpdated": "2018-03-18T16:31:42.693442",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [30.9630721040928, -1.72913994836662]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [30.9630721040928, -1.72913994836662]
+		}
+	}, {
+		"projectId": 4316,
+		"name": "Tanzania Development Trust: Ngara Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 96,
+		"percentValidated": 100,
+		"created": "2018-03-16T08:49:57.347275",
+		"lastUpdated": "2018-03-31T15:18:18.809399",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [30.6563660461257, -2.51312893241178]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [30.6563660461257, -2.51312893241178]
+		}
+	}, {
+		"projectId": 4315,
+		"name": "Tanzania Development Trust: Nshamba Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-16T08:43:37.490133",
+		"lastUpdated": "2018-03-18T17:02:10.199901",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [31.5495323621043, -1.80167815244229]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [31.5495323621043, -1.80167815244229]
+		}
+	}, {
+		"projectId": 4307,
+		"name": "Tanzania Development Trust: Burungura Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-15T09:13:25.712410",
+		"lastUpdated": "2018-03-16T08:40:50.498915",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [31.4863826867625, -1.89364869788793]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [31.4863826867625, -1.89364869788793]
+		}
+	}, {
+		"projectId": 4303,
+		"name": "Missing Maps: Mapping waterways and roads in central Burundi (2)",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-14T13:12:04.773335",
+		"lastUpdated": "2018-04-15T13:11:27.494983",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [29.7823569502621, -3.24306708222962]
+		},
+		"mapperLevel": "INTERMEDIATE",
+		"organisationTag": "Médecins Sans Frontières",
+		"shortDescription": "`This project is complete, thank you for your magnificent mapping work!`\n\nTo understand which places are more vulnerable to malaria, MSF teams are requesting a mapping of waterways in the centre of the country of Burundi.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [29.7823569502621, -3.24306708222962]
+		}
+	}, {
+		"projectId": 4299,
+		"name": "Missing Maps: Mapping waterways and roads in central Burundi (1)",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-14T08:49:03.978496",
+		"lastUpdated": "2018-04-12T11:36:20.835096",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [29.7768265131524, -3.74946967402011]
+		},
+		"mapperLevel": "INTERMEDIATE",
+		"organisationTag": "Médecins Sans Frontières",
+		"shortDescription": "`This project is complete, thank you for your magnificent mapping work!`\n\nTo understand which places are more vulnerable to malaria, MSF teams are requesting a mapping of waterways in the centre of the country of Burundi.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [29.7768265131524, -3.74946967402011]
+		}
+	}, {
+		"projectId": 4294,
+		"name": "Tanzania Development Trust: Mubunda Muleba Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-13T18:58:21.898928",
+		"lastUpdated": "2018-03-15T13:48:49.258339",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [31.5148740880789, -1.94608709963417]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [31.5148740880789, -1.94608709963417]
+		}
+	}, {
+		"projectId": 4293,
+		"name": "Tanzania Development Trust: Kibirizi Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 99,
+		"created": "2018-03-13T15:07:24.762634",
+		"lastUpdated": "2018-03-25T19:24:01.412718",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [31.4031606875565, -1.63216015619948]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [31.4031606875565, -1.63216015619948]
+		}
+	}, {
+		"projectId": 4292,
+		"name": "Tanzania Development Trust: Nyaishozi Karagwe Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-13T10:06:27.193231",
+		"lastUpdated": "2018-03-19T08:49:27.827278",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [31.1192616184384, -1.74718623175017]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nKaragwe  region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [31.1192616184384, -1.74718623175017]
+		}
+	}, {
+		"projectId": 4284,
+		"name": "Tanzania Development Trust: Nyakigando Ikimba Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-10T16:05:16.842070",
+		"lastUpdated": "2018-03-13T09:44:52.262026",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [31.5705837031557, -1.51810455931155]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nIkimba region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [31.5705837031557, -1.51810455931155]
+		}
+	}, {
+		"projectId": 4282,
+		"name": "Tanzania Development Trust: Kamishango Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-10T09:01:55.664954",
+		"lastUpdated": "2018-03-13T15:14:18.925056",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [31.6140883568513, -1.8374625035104]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nMuleba region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [31.6140883568513, -1.8374625035104]
+		}
+	}, {
+		"projectId": 4281,
+		"name": "Tanzania Development Trust: Muleba Community Mapping Project",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-03-10T08:42:22.762790",
+		"lastUpdated": "2018-03-14T08:45:03.391663",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [31.6560461932452, -1.84575729647524]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Tanzania Development Trust",
+		"shortDescription": "- Author: HOT\n- Requesting Organization: **Tanzania Development Trust**\n- Priority: **High**\n\nMuleba region in western Tanzania has a high incidence of extreme poverty, early marriage and Gender Based Violence. NGOs on the ground need better road and residential area data to facilitate their outreach work.\n\nThe Missing Maps project aims to map the most vulnerable places in the world (affected by humanitarian crises: disease epidemics, conflict, natural disasters, poverty, environmental crises). Building on HOT's disaster preparedness projects, the Missing Maps tasks facilitate pre-emptive mapping of priority countries to better facilitate disaster response, medical activities and resource allocation when crises occur.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [31.6560461932452, -1.84575729647524]
+		}
+	}, {
+		"projectId": 4244,
+		"name": "Neglected tropical diseases in Liberia",
+		"campaignTag": "Missing Maps",
+		"percentMapped": 99,
+		"percentValidated": 98,
+		"created": "2018-03-01T15:08:26.445886",
+		"lastUpdated": "2018-03-14T09:04:03.199179",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [-7.68580696577556, 4.59969639701035]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "LSHTM",
+		"shortDescription": "Neglected tropical diseases affect people living in the most remote and inaccessible places so it is crucial to know where everyone is. In Liberia the London School of Hygiene and Tropical Medicine (LSHTM) is providing technical support to the Liberian Ministry of Health and the [AIM Initiative](http://aiminitiative.org/) for active case finding of four neglected tropical diseases.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-7.68580696577556, 4.59969639701035]
+		}
+	}],
+	"Mapping Flood Disaster Communities in Nigeria 2018": [],
+	"Malaria Elimination": [{
+		"projectId": 4203,
+		"name": "Mapinhane, Mozambique - Vilankulo Bed Net Surveillance Program",
+		"campaignTag": "Malaria Elimination",
+		"percentMapped": 99,
+		"percentValidated": 99,
+		"created": "2018-02-22T19:24:03.889581",
+		"lastUpdated": "2018-02-24T19:42:11.415657",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [35.1186902145645, -22.2636024680931]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "Peace Corps",
+		"shortDescription": "`Great for new mappers - Squares go very fast!`\n\nPeace Corps Mozambique is requesting assistance in creating a basemap of all towns and cities within the district of Vilankulo, Inhambane Province. The finished maps will be used primarily as foundations for mapping mosquito net coverage within each town. Surveys regarding net coverage will be facilitated by local health workers through CommCare's smart phone-driven, paperless survey application. Follow-up distributions of bed nets will use the subsequent survey data and OSM basemap to inform their campaigns.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [35.1186902145645, -22.2636024680931]
+		}
+	}],
+	"Open Cities Africa": [],
+	"Rohingyia Crisis": [{
+		"projectId": 4651,
+		"name": "Bangladesh Refugee Crisis - Teknaf camp shelters (new area 21)",
+		"campaignTag": "Rohingyia Crisis",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-06-03T21:38:40.664991",
+		"lastUpdated": "2018-06-07T15:30:28.852684",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [92.2537198202293, 20.9585820642033]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "CartONG",
+		"shortDescription": "Almost 1 million Rohingya refugees have fled Myanmar for Southeast Bangladesh in the past few months. CartONG is supporting several humanitarian organizations and in particular UNHCR in mapping the camp to support the humanitarian response to the crisis.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [92.2537198202293, 20.9585820642033]
+		}
+	}, {
+		"projectId": 4609,
+		"name": "Bangladesh Refugee Crisis camp mapping - Shamlapur camp",
+		"campaignTag": "Rohingyia Crisis",
+		"percentMapped": 100,
+		"percentValidated": 98,
+		"created": "2018-05-28T09:50:40.126916",
+		"lastUpdated": "2018-07-11T21:13:29.332642",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [92.1436713031273, 21.07621360468]
+		},
+		"mapperLevel": "INTERMEDIATE",
+		"organisationTag": "CartONG",
+		"shortDescription": "Almost 1 million Rohingya refugees have fled Myanmar for Southeast Bangladesh in the past few months. CartONG is supporting several humanitarian organizations, in particular UNHCR and the Inter Sector Coordination Group,  in mapping the camp to support the humanitarian response to the crisis.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [92.1436713031273, 21.07621360468]
+		}
+	}, {
+		"projectId": 4605,
+		"name": "Bangladesh Refugee Crisis camp mapping - Charkmarkul camp",
+		"campaignTag": "Rohingyia Crisis",
+		"percentMapped": 100,
+		"percentValidated": 99,
+		"created": "2018-05-28T09:12:55.699847",
+		"lastUpdated": "2018-07-11T21:14:35.422866",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [92.1719303368657, 21.1287523168181]
+		},
+		"mapperLevel": "INTERMEDIATE",
+		"organisationTag": "CartONG",
+		"shortDescription": "Almost 1 million Rohingya refugees have fled Myanmar for Southeast Bangladesh in the past few months. CartONG is supporting several humanitarian organizations, in particular UNHCR and the Inter Sector Coordination Group,  in mapping the camp to support the humanitarian response to the crisis.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [92.1719303368657, 21.1287523168181]
+		}
+	}, {
+		"projectId": 4578,
+		"name": "Bangladesh Refugee Crisis - Teknaf camp shelters (new area 20)",
+		"campaignTag": "Rohingyia Crisis",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-23T13:00:03.128188",
+		"lastUpdated": "2018-05-29T09:19:39.560090",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [92.2602092870735, 20.9381257997458]
+		},
+		"mapperLevel": "INTERMEDIATE",
+		"organisationTag": "CartONG",
+		"shortDescription": "Almost 1 million Rohingya refugees have fled Myanmar for Southeast Bangladesh in the past few months. CartONG is supporting several humanitarian organizations and in particular UNHCR in mapping the camp to support the humanitarian response to the crisis.",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [92.2602092870735, 20.9381257997458]
+		}
+	}, {
+		"projectId": 4573,
+		"name": "Bangladesh Refugee Crisis - Teknaf camp shelters (new area 19)",
+		"campaignTag": "Rohingyia Crisis",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-05-22T08:34:15.799579",
+		"lastUpdated": "2018-05-26T06:53:59.332536",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [92.252873870817, 20.9455177795897]
+		},
+		"mapperLevel": "INTERMEDIATE",
+		"organisationTag": "CartONG",
+		"shortDescription": "Almost 1 million Rohingya refugees have fled Myanmar for Southeast Bangladesh in the past few months. CartONG is supporting several humanitarian organizations and in particular UNHCR & ISCG in mapping the camp to support the humanitarian response to the crisis.\n\nBeginners welcome - buildings only!",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [92.252873870817, 20.9455177795897]
+		}
+	}, {
+		"projectId": 4473,
+		"name": "Bangladesh Refugee Crisis - Kutupalong camp shelters (new area 18)",
+		"campaignTag": "Rohingyia Crisis",
+		"percentMapped": 99,
+		"percentValidated": 100,
+		"created": "2018-05-02T13:03:57.323509",
+		"lastUpdated": "2018-05-29T09:21:08.091551",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [92.1420695382031, 21.1932191290579]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "CartONG",
+		"shortDescription": "Almost 1 million Rohingya refugees have fled Myanmar for Southeast Bangladesh in the past few months. CartONG is supporting several humanitarian organizations and in particular UNHCR in mapping the camp to support the humanitarian response to the crisis.\n\nBeginners welcome - buildings only!",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [92.1420695382031, 21.1932191290579]
+		}
+	}, {
+		"projectId": 4200,
+		"name": "Bangladesh Refugee Crisis - Kutupalong camp shelters (new area 17)",
+		"campaignTag": "Rohingyia Crisis",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-02-21T11:33:06.160743",
+		"lastUpdated": "2018-02-22T17:30:06.092461",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [92.1503377538941, 21.1961051271021]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "CartONG",
+		"shortDescription": "Almost 1 million Rohingya refugees have fled Myanmar for Southeast Bangladesh in the past few months. CartONG is supporting several humanitarian organizations and in particular UNHCR in mapping the camp to support the humanitarian response to the crisis.\n\nBeginners welcome - buildings only!",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [92.1503377538941, 21.1961051271021]
+		}
+	}, {
+		"projectId": 4196,
+		"name": "Bangladesh Refugee Crisis - Kutupalong camp shelters (new area 16)",
+		"campaignTag": "Rohingyia Crisis",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-02-20T14:24:15.840502",
+		"lastUpdated": "2018-02-24T19:52:41.913294",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [92.142771220254, 21.2026621791434]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "CartONG",
+		"shortDescription": "Almost 1 million Rohingya refugees have fled Myanmar for Southeast Bangladesh in the past few months. CartONG is supporting several humanitarian organizations and in particular UNHCR in mapping the camp to support the humanitarian response to the crisis.\n\nBeginners welcome - buildings only!",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [92.142771220254, 21.2026621791434]
+		}
+	}, {
+		"projectId": 4146,
+		"name": "Bangladesh Refugee Crisis - Kutupalong camp shelters (new area 15)",
+		"campaignTag": "Rohingyia Crisis",
+		"percentMapped": 99,
+		"percentValidated": 99,
+		"created": "2018-02-05T14:38:08.782295",
+		"lastUpdated": "2018-02-08T10:12:28.812709",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [92.1643718910906, 21.1924972954646]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "CartONG",
+		"shortDescription": "Almost 1 million Rohingya refugees have fled Myanmar for Southeast Bangladesh in the past few months. CartONG is supporting several humanitarian organizations and in particular UNHCR in mapping the camp to support the humanitarian response to the crisis.\n\nBeginners welcome - buildings only!",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [92.1643718910906, 21.1924972954646]
+		}
+	}, {
+		"projectId": 4145,
+		"name": "Bangladesh Refugee Crisis - Kutupalong camp shelters (new area 14)",
+		"campaignTag": "Rohingyia Crisis",
+		"percentMapped": 100,
+		"percentValidated": 100,
+		"created": "2018-02-05T08:40:30.623617",
+		"lastUpdated": "2018-02-07T15:16:29.589943",
+		"aoiCentroid": {
+			"type": "Point",
+			"coordinates": [92.1561954122302, 21.1903851920751]
+		},
+		"mapperLevel": "BEGINNER",
+		"organisationTag": "CartONG",
+		"shortDescription": "Almost 1 million Rohingya refugees have fled Myanmar for Southeast Bangladesh in the past few months. CartONG is supporting several humanitarian organizations and in particular UNHCR in mapping the camp to support the humanitarian response to the crisis.\n\nBeginners welcome - buildings only!",
+		"status": "ARCHIVED",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [92.1561954122302, 21.1903851920751]
+		}
+	}],
+	"OpenCitiesKinshasa": [],
+	"Crowdsourcing Non-Camp Refugee Data": [],
+	"#RRRDC": [],
+	"Kenya PB Project": []
+}
