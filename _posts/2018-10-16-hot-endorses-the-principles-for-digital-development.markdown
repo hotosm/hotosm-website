@@ -30,7 +30,7 @@ Coincidentally, these are also some of the same themes that emerge in the [Princ
 
 
 
-<img src="/uploads/1_-TK6hWAH7NWK0YVfwD5-Xg-fe3a66.png?noresize" alt="DigitalPrinciples" height="200" width="200">
+<img src="/uploads/1_-TK6hWAH7NWK0YVfwD5-Xg-fe3a66.png" style="width: 300px !important" alt="DigitalPrinciples">
 *The nine Principles for Digital Development*
 
 Starting in late 2017, as we considered endorsing the Principles, HOT team members participated in and led conversations at two DIAL events around the Principles in Jakarta and Dar es Salaam:
@@ -55,7 +55,7 @@ This has been core to HOT’s culture and thinking from Day 1. This is not only 
 
 **HOT's full endorsement letter:**
 
-<iframe width="100%" height="1000" src="https://docs.google.com/document/d/e/2PACX-1vRv6zQesobJuWnIv8fb56xaVWZNaL-kWaoaie7Gs_8_TNVt4w5kBcnX7lyQ7mAXIO9uyJce89ydZ8eN/pub?embedded=true"></iframe>
+<iframe width="800" height="1000" src="https://docs.google.com/document/d/e/2PACX-1vRv6zQesobJuWnIv8fb56xaVWZNaL-kWaoaie7Gs_8_TNVt4w5kBcnX7lyQ7mAXIO9uyJce89ydZ8eN/pub?embedded=true"></iframe>
 <br>
 Thanks to HOT staff members Ivan Gayton and Yantisa Akhadi for contributions to our endorsement. For more, join the discussion in DIAL's [Digital Principles Forum](https://forum.digitalprinciples.org/) or on HOT's [Slack](http://slack.hotosm.org).
 
