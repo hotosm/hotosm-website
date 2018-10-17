@@ -25,9 +25,9 @@ In Northern Uganda, HOT has trained refugees and host community members on mobil
 
 We have attempted to strike a balance between guides that are overly technical and those that are too simple or generic. At the same time, the lessons of Turkey and Uganda are distilled in the Toolkit so that it is a practical how-to guide for other organizations working in refugee contexts. Simply put, very few other documents exist that explain how Geographic Information Systems are being used for humanitarian purposes. 
 
-<img src="/uploads/2.png" style="width: 300px !important" title="2.png"/>
+<img src="/uploads/2.png" alt="2.png" height="100" width="100">
 
-<img src="/uploads/3.png" style="width: 300px !important" title="3.png"/>
+<img src="/uploads/3.png" alt="3.png" height="100" width="100">
 
 The Toolkit contains three separate sections. Section One: The Power of Participatory Mapping explains how these methods are in fact a means of mainstreaming protection into operations. Section Two: Refugee Contexts reviews all of the different factors an organization should consider before engaging in a project. Finally, Section Three: Tools and Processes is the true heart of the toolkit - it is a series of powerful tools and processes that span the lifecycle of mapping, from remote to field mapping, quality assurance to map creation. It has everything you need to begin, and links out to more in depth resources such as our growing Github [toolbox. ](https://github.com/hotosm/toolbox/wiki)
 
