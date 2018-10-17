@@ -1,6 +1,7 @@
 ---
 title: HOT Endorses the Principles for Digital Development
 date: 2018-10-16 18:00:00 Z
+published: false
 tags:
 - DIAL
 - Principles for Digital Development
@@ -30,7 +31,6 @@ Coincidentally, these are also some of the same themes that emerge in the [Princ
 
 
 <img src="/uploads/1_-TK6hWAH7NWK0YVfwD5-Xg-fe3a66.png?noresize" alt="DigitalPrinciples" height="200" width="200">
-
 *The nine Principles for Digital Development*
 
 Starting in late 2017, as we considered endorsing the Principles, HOT team members participated in and led conversations at two DIAL events around the Principles in Jakarta and Dar es Salaam:
