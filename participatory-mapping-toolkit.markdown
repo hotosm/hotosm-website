@@ -25,7 +25,7 @@ block-2:
   Title: "Section Two: Refugee Contexts"
   Text: "Section Two identifies important contextual factors that affect how organizations respond. It has been written for refugee contexts, and gives users an idea of what to keep in mind before getting started."
   Action-text: "Download Section Two (PDF 244KB)"
-  Image: "/uploads/process-diagram.png"
+  Image: "/uploads/section2-process-diagram.jpg"
   Link: "Toolkit-for-Participatory-Mapping-Section-Two.pdf"
 block-3:
   Title: "Section Three: Tools and Processes"
