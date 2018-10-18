@@ -24,7 +24,7 @@ In Northern Uganda, HOT has trained refugees and host community members on mobil
 
 We have attempted to strike a balance between guides that are overly technical and those that are too simple or generic. At the same time, the lessons of Turkey and Uganda are distilled in the Toolkit so that it is a practical how-to guide for other organizations working in refugee contexts. Simply put, very few other documents exist that explain how Geographic Information Systems are being used for humanitarian purposes. 
 
-![Asset 1.png](/uploads/Asset%201.png)
+![Asset 2.png](/uploads/Asset%202.png)
 
 The Toolkit contains three separate sections.
 * Section One: The Power of Participatory Mapping explains how these methods are in fact a means of mainstreaming protection into operations.
