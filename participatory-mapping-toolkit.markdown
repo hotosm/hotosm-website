@@ -2,6 +2,8 @@
 title: Participatory Mapping Toolkit
 date: 2018-10-15 08:38:00 Z
 permalink: "/resources/participatory-mapping-toolkit"
+redirect_from: 
+  - "/refugeetoolkit"
 Page Contact:
   Label: Contact Activation Working Group
   Text: Have a question about the activation protocol?
