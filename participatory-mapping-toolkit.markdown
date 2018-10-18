@@ -25,7 +25,7 @@ block-1:
     used to map and how to use the guide.
   Action-text: Download Section One (PDF 219KB)
   Image: "/uploads/2-e857cc.jpg"
-  Link: Toolkit-for-Participatory-Mapping-Section-One.pdf
+  Link: "/downloads/Toolkit-for-Participatory-Mapping-Section-One.pdf"
 block-2:
   Title: 'Section Two: Refugee Contexts'
   Text: Section Two identifies important contextual factors that affect how organizations
@@ -33,14 +33,14 @@ block-2:
     what to keep in mind before getting started.
   Action-text: Download Section Two (PDF 244KB)
   Image: "/uploads/section2-process-diagram.jpg"
-  Link: Toolkit-for-Participatory-Mapping-Section-Two.pdf
+  Link: "/downloads/Toolkit-for-Participatory-Mapping-Section-Two.pdf"
 block-3:
   Title: 'Section Three: Tools and Processes'
   Text: Section Three is the heart of the toolkit - a series of tools and processes
     that offer practical solutions for humanitarians.
   Action-text: Download Section Three (PDF 613KB)
   Image: "/uploads/toolkit-tools.png"
-  Link: Toolkit-for-Participatory-Mapping-Section-Three.pdf
+  Link: "/downloads/Toolkit-for-Participatory-Mapping-Section-Three.pdf"
 layout: resource
 ---
 
