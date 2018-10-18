@@ -1,7 +1,7 @@
 ---
 title: Participatory Mapping Toolkit
 date: 2018-10-15 08:38:00 Z
-permalink: "/resources/participatory-mapping-toolkit"
+permalink: "/resources/participatory-mapping-toolkit/"
 redirect_from:
 - "/refugeetoolkit"
 Page Contact:
