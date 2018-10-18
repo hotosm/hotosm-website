@@ -8,7 +8,6 @@ Page Contact:
   Label: Contact Activation Working Group
   Text: Have a question about the activation protocol?
   Contact Email: activation@hotosm.org
-layout: resource
 Subtitle: A Guide for Refugee Contexts
 Intro: This toolkit serves as a practical how-to guide for participatory mapping in
   refugee contexts. It provides organizations with the necessary tools and processes
@@ -42,5 +41,6 @@ block-3:
   Action-text: Download Section Three (PDF 613KB)
   Image: "/uploads/toolkit-tools.png"
   Link: Toolkit-for-Participatory-Mapping-Section-Three.pdf
+layout: resource
 ---
 
