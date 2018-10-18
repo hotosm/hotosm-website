@@ -33,6 +33,8 @@ The Toolkit contains three separate sections.
 
 You can explore the toolkit in detail from [here](/resources/participatory-mapping-toolkit/).
 
+
 <iframe src="https://e.issuu.com/anonymous-embed.html?u=hotosm&d=digital-toolkit_for_participatory_m" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
+
 
 Please join the conversation on social media, using #refugeetoolkit and #hotosm to let us know about your opinions and your own personal experiences from the field.
