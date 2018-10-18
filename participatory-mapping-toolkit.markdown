@@ -17,19 +17,19 @@ Action-link-2: /downloads/Toolkit-for-Participatory-Mapping.pdf
 Main-image: "/uploads/toolkit-cover.png"
 block-1:
   Title: "Section One: The Power of Participatory Mapping"
-  Text: "Download and access the full report. The full report covers three sections: The Power of Participatory Mapping, Refugee Contexts, and Tools and Processes. Read to more to get started on mapping projects within refugee contexts."
+  Text: "Section One introduces what participatory mapping is and why it is vital in refugee contexts. It gives important background information about the platform used to map and how to use the guide."
   Action-text: "Download Section One (PDF 219KB)"
   Image: "/uploads/2-e857cc.jpg"
   Link: "Toolkit-for-Participatory-Mapping-Section-One.pdf"
 block-2:
   Title: "Section Two: Refugee Contexts"
-  Text: "The toolkit was built to help support organizations working in refugee contexts wanting to conduct open and participatory mapping for humanitarian action. Read more about the announcement blog post and access the PDF in interactive form."
+  Text: "Section Two identifies important contextual factors that affect how organizations respond. It has been written for refugee contexts, and gives users an idea of what to keep in mind before getting started."
   Action-text: "Download Section Two (PDF 244KB)"
   Image: "/uploads/process-diagram.png"
   Link: "Toolkit-for-Participatory-Mapping-Section-Two.pdf"
 block-3:
   Title: "Section Three: Tools and Processes"
-  Text: "The toolkit covers many topics with an in-depth guide to the tools and processes of open mapping. Download the individual chapter that covers the tools and processes needed to conduct open mapping in refugee contexts."
+  Text: "Section Three is the heart of the toolkit - a series of tools and processes that offer practical solutions for humanitarians."
   Action-text: "Download Section Three (PDF 613KB)"
   Image: "/uploads/toolkit-tools.png"
   Link: "Toolkit-for-Participatory-Mapping-Section-Three.pdf"
