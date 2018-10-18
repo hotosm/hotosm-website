@@ -1,6 +1,7 @@
 --- 
 layout: default
 ---
+
 <header class="project-header">
     <h1>{{ page.title }}</h1>
     <div class="project-header-meta">
@@ -34,7 +35,7 @@ layout: default
     </div>
   </header>
 
-<div class="project-index">
+
     <div class="project-map-area">
         <div id="map">
             <div id="loading-map">
@@ -49,7 +50,7 @@ layout: default
 
     </div>
 
-    <div id="our-work-projects" class="container">
+    <div id="our-work-projects" class="container"></div>
         <div id="hot-stats" class="tabcontent container home-stats">
             <div class="home-stat">
                 <p class="stat-number" id="Community-Mappers">200</p>
@@ -94,10 +95,8 @@ layout: default
             </div>
         </div>
     
-       
+       <article class="container project-item">
             <div class="project-body">
-
-
                 <section class="article">
 
                     {% if page['Project Summary Text'] %}
@@ -110,7 +109,14 @@ layout: default
 
                     <div class="pro-content-wrap">
                         <div class="project-content">
-                            {{ content }}
+                            <div class="panel-wrapper">
+                                <button class="more" id="more" onclick="content('more')">Read more</button>
+                                <button class="less" id="less" onclick="content('less')">Show less</button>
+                                <div id="panel" class="panel">
+                                    {{ content }}
+                                </div>
+                                <div class="fade"></div>
+                            </div>
                         </div>
                     </div>
 
@@ -175,7 +181,7 @@ layout: default
 
             </div>
 
-
+        </article>
         <!--////////////////////////////////-->
         <!--///////// Project News /////////-->
         <!--////////////////////////////////-->
@@ -227,53 +233,9 @@ layout: default
 
         {% break %} {% endif %} {% endfor %}
 
-
-        <div class="project-index-highlights">
-
-            {% assign sorted_projects = site.projects | sort:"position" %} {% for project in sorted_projects limit:3 %} {% include blocks/project-highlight.html %} {% endfor %}
-
-        </div>
-
-        <div class="hr-h"></div>
-
-        <h6>Recent Projects</h6>
-
-        <div class="project-index-all">
-
-            {% assign recent_projects = site.projects | sort:"date" | reverse %} {% assign project_count = 0 %} {% for project in recent_projects %} {% unless project.title == sorted_projects[0].title or project.title == sorted_projects[1].title or project.title
-            == sorted_projects[2].title %} {% assign project_count = project_count | plus: 1 %} {% include blocks/project-thumb.html %} {% if project_count > 8 %} {% break %} {% endif %} {% endunless %} {% endfor %}
-
-        </div>
-
-        <div class="hr-h"></div>
-
-        <div class="project-index-impact-areas">
-            <div class="impact-areas-wrapper">
-                <h2 class="boxed">See more projects by impact area</h2>
-                <ul class="impact-areas-list">
-                    {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %} {% for impact-area in sorted-impact-areas %}
-                    <li><a href="{{ impact-area.url }}" class="nav-link">{{ impact-area.title }}</a></li>
-                    {% endfor %}
-                </ul>
-            </div>
-        </div>
-
     </div>
 
-    <div class="archive-header container" data-toggle="collapse" data-target=".collapse" data-text="Collapse">
-        All projects
-    </div>
-
-    <div class="project-archive-wrap collapse">
-        <div class="container">
-            <div class="project-index-archive">
-
-                {% assign archived_projects = site.projects | sort:"date" | reverse %} {% for project in archived_projects offset:9 %} {% include blocks/project-archived.html %} {% endfor %}
-
-            </div>
-        </div>
-    </div>
-
+    
     <script>
       var countries = "{{ page.Country | join: ', ' }}";
       var campaignTags = "{{ page.tm_projects | join: ', ' }}";
@@ -283,4 +245,3 @@ layout: default
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="{{ "/js/project-map.js" | prepend: site.baseurl }}"></script>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
-</div>
