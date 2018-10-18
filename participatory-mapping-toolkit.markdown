@@ -13,7 +13,7 @@ Intro: This toolkit serves as a practical how-to guide for participatory mapping
   for responding to refugee situations by leveraging open and free map data for humanitarian
   assistance.
 Action-text-1: Read the announcement
-Action-link-1: 
+Action-link-1: "/updates/participatory-mapping-toolkit-a-guide-for-refugee-contexts"
 Action-text-2: Download (PDF 2.2MB)
 Action-link-2: "/downloads/Toolkit-for-Participatory-Mapping.pdf"
 Main-image: "/uploads/toolkit-cover.png"
