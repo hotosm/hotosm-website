@@ -32,6 +32,8 @@ The Toolkit contains three separate sections.
 * Section Two: Refugee Contexts reviews all of the different factors an organization should consider before engaging in a project.
 * Finally, Section Three: Tools and Processes is the true heart of the toolkit - it is a series of powerful tools and processes that span the lifecycle of mapping, from remote to field mapping, quality assurance to map creation. It has everything you need to begin, and links out to more in depth resources such as our growing Github [toolbox. ](https://github.com/hotosm/toolbox/wiki)
 
-You can explore the toolkit in detail from here.
+You can explore the toolkit in detail from [here](/resources/participatory-mapping-toolkit/).
+
+<iframe src="https://e.issuu.com/anonymous-embed.html?u=hotosm&d=digital-toolkit_for_participatory_m" height="500" frameborder="0" allowfullscreen="true"></iframe>
 
 Please join the conversation on social media, using #refugeetoolkit and #hotosm to let us know about your opinions and your own personal experiences from the field.
