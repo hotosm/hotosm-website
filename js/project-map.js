@@ -126,5 +126,16 @@ map.on('load', function () {
     }
   }, 'place-city-sm');
 
- 
 });
+
+function content(action) {
+  if (action === 'more') {
+    document.getElementById("panel").style.height="100%"
+    document.getElementById("less").style.display="block"
+    document.getElementById("more").style.display="none"
+  } else {
+    document.getElementById("panel").style.height="100px"
+    document.getElementById("more").style.display="block"
+    document.getElementById("less").style.display="none"
+  }
+}
