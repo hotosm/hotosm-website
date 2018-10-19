@@ -709,7 +709,8 @@ em {
   margin-bottom: 24px;
   background-color: shade($blue-dark, 20%);
   @media (max-width: $screen-md) {
-    grid-template-rows: 340px;
+    grid-template-rows: 460px;
+    grid-template-columns: repeat(2, 1fr);
   }
   .highlight-details {
     grid-column: 1 / 7;
@@ -744,6 +745,9 @@ em {
     }
     p {
       line-height: 1.5;
+    }
+    @media (max-width: $screen-md) {
+      font-size: 1rem;
     }
   }
   .highlight-image {
