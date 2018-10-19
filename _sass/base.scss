@@ -749,7 +749,7 @@ em {
   .highlight-image {
     grid-column: 7 / -1;
     img {
-      width: 100%;
+      float: right;
       height: 100%;
       object-fit: cover;
     }
