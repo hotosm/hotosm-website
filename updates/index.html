@@ -38,8 +38,10 @@ layout: default
               {% if post.Country != '' %}
                 <p class="news-index-country">
                   {% for country in post.Country %}
-                    {% if country != '' %}
-                      {{ country }}{% unless forloop.last %},{% endunless %}
+                    {% if country != '' and forloop.index > 5 %}
+                  {% if forloop.last %}etc.{% endif %}
+                    {% elsif country != '' and forloop.index <= 5 %}
+                  {{ country }}{% unless forloop.last %},{% endunless %}
                     {% else %}
                       Global
                     {% endif %}
@@ -99,7 +101,9 @@ layout: default
                       {% if post.Country != '' %}
                         <p class="news-index-country">
                           {% for country in post.Country %}
-                            {% if country != '' %}
+                            {% if country != '' and forloop.index > 5 %}
+                              {% if forloop.last %}etc.{% endif %}
+                            {% elsif country != '' and forloop.index <= 5 %}
                               {{ country }}{% unless forloop.last %},{% endunless %}
                             {% else %}
                               Global
