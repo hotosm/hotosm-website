@@ -1,9 +1,9 @@
 ---
 title: 'Hacktoberfest Update: Tasking Manager Improvements and More'
 date: 2018-10-23 11:44:00 Z
-Summary Text: Tasking Manager, Visualize Change, HOTOSM.org, and OpenMapKit Server
-  have all received contributions during Hacktoberfest. While there is only one week
-  left in October, anyone can still get involved in supporting our open source projects.
+Summary Text: Hacktoberfest has been a great success and has helped support many of
+  our core open source projects. Check out the progress and continue to get involved
+  during the last week of the month.
 Person:
 - Nate Smith
 - Ethan Nelson
