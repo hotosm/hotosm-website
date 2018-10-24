@@ -4,6 +4,7 @@ date: 2018-10-24 08:38:00 Z
 Project Summary Text: Developing a global database of informal settlement location,
   schema, and SDGs indicators
 Feature Image: "/uploads/Screen%20Shot%202018-10-24%20at%2017.00.49.png"
+Project Logo Image: "/uploads/nasa-logo.png"
 Is Community-Led: false
 Country:
 - 'Nepal '
