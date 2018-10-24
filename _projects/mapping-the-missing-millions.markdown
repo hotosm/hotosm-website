@@ -2,7 +2,7 @@
 title: Mapping the Missing Millions
 date: 2018-10-24 08:38:00 Z
 Project Summary Text: Developing a global database of informal settlement location,
-  schema, and SDGs indicators
+  schema, and SDGs indicators. Complete with previously unknown informal settlements.
 Feature Image: "/uploads/Screen%20Shot%202018-10-24%20at%2017.00.49.png"
 Project Logo Image: "/uploads/nasa-logo.png"
 Is Community-Led: false
@@ -28,8 +28,8 @@ The United Nations (UN) introduced 17 Sustainable Development Goals (SDGs) and 1
 
 These missing millions, living in informal refugee and internally displaced peoples (IDP) settlements are unaccounted for in national surveys, yet they are the world’s most vulnerable populations who have been displaced and resettled due to disaster, development and/or conflict and violence. The Internal Displacement Monitoring Center (IDMC) [reported](http://www.internal-displacement.org/global-report/grid2018/) an estimated 30.6 million people as newly displaced internally by the end of 2017. 
 
-“39% of new internal displacements were triggered by conflict and 61% by disasters.
- as a result of conflict and disasters.”
+*“39% of new internal displacements were triggered by conflict and 61% by disasters.
+ as a result of conflict and disasters.”*
 
 The above figure is for individuals newly displaced by conflict and disaster, but does not take into account internal displacement due to development or the ‘unknown’ number of people displaced by disasters in 2017. Including these might take the number of internally displaced people closer to 40 million as [reported](http://www.unhcr.org/figures-at-a-glance.html) by the UN Refugee Agency (UNHCR). An estimate of 68.5 million people, which includes refugees, asylum seekers and those internally displaced were forcibly displaced worldwide. 
 
@@ -64,4 +64,4 @@ HOT has partnered with Development Seed and Oregon State University, who is lead
 * Measure SDGs at informal settlements
 
 
-HOT will be assisting with the locating of unknown informal settlements with the crowd. This will be carried out with either the Tasking Manager or MapSwipe, following a research and development phase to help decide which tool is fit for purpose. Watch this space as the project unfolds. Getting the community involved is key to taking steps in the right direction as we work towards leaving no one behind.
+HOT will be assisting with the locating of unknown informal settlements with the OpenStreetMap community. This will be carried out with either the Tasking Manager or MapSwipe, following a research and development phase to help decide which tool is fit for purpose. Watch this space as the project unfolds. Getting the community involved is key to taking steps in the right direction as we work towards leaving no one behind. 
