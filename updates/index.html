@@ -93,7 +93,7 @@ layout: default
                   <p class="news-index-author">
                     {% if post.Person %}
                       {% for author in post.Person %}
-                        {{ author }}{% unless forloop.last %}, {% endunless %}
+                        {{ author }}{% unless forloop.last %},{% endunless %}
                         {% if forloop.last %} - {% endif %}
                       {% endfor %}
                     {% endif %}
