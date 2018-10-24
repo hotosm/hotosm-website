@@ -37,8 +37,7 @@ This number is still not a true representation of the actual number of individua
 
 
 
-![Screen Shot 2018-10-23 at 16.23.07.png](/uploads/Screen%20Shot%202018-10-23%20at%2016.23.07.png)
-Data source: IDMC
+![Screen Shot 2018-10-24 at 17.18.19.png](/uploads/Screen%20Shot%202018-10-24%20at%2017.18.19.png)
 
 
 Problem
@@ -51,16 +50,18 @@ Value
 Knowing where informal settlements is a key step for implementing the 2030 Agenda for SDGs, as well as the Sendai Framework for Disaster Risk Reduction 2015-2030, among others.
 
 
+
 ![Screen Shot 2018-10-24 at 16.42.48.png](/uploads/Screen%20Shot%202018-10-24%20at%2016.42.48.png)
+
 
 
 HOT has partnered with Development Seed and Oregon State University, who is leading the Missing Millions project, funded through NASA. In pursuit of creating an open global database of informal settlements, the use of crowdsourced data, machine learning, and multi-sensor satellite imagery will be utilised to reach the our objectives:
 
-1. Collect global data on known informal settlements
-2. Train machine learning algorithm with characteristics of known informal settlements
-3. Locate as-yet-unrecorded informal settlements with the crowd
-4. Locate and characterize global informal settlements with machine learning 
-5. Measure SDGs at informal settlements
+* Collect global data on known informal settlements
+* Train machine learning algorithm with characteristics of known informal settlements
+* Locate as-yet-unrecorded informal settlements with the crowd
+* Locate and characterise global informal settlements with machine learning 
+* Measure SDGs at informal settlements
 
 
 HOT will be assisting with the locating of unknown informal settlements with the crowd. This will be carried out with either the Tasking Manager or MapSwipe, following a research and development phase to help decide which tool is fit for purpose. Watch this space as the project unfolds. Getting the community involved is key to taking steps in the right direction as we work towards leaving no one behind.
