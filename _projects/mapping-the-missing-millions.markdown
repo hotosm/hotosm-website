@@ -10,7 +10,7 @@ Country:
 - 'Nepal '
 - Uganda
 Impact Area:
-- 'Displaced People '
+- Refugee Response
 Person:
 - Mhairi O'Hara
 - Cristiano Giovando
