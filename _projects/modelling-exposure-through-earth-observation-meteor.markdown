@@ -32,7 +32,7 @@ Contact:
 
 The escalating impacts of natural hazards are caused mostly by increasing exposure of populations and assets. It is estimated that the world will see the construction of 1 billion new dwellings by 2050 and this growth may lead to rapid increase in risk.
 
--*UK Space Agency *
+*UK Space Agency *
 
 HOT is working together with the British Geological Survey (BGS), ImageCat, and the Global Earthquake Model (GEM) on a UK Space Agency International Partnership Programme focused on developing innovative applications of earth observation  technologies to improve understanding of exposure to help minimise these risks.
 
