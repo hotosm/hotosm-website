@@ -34,9 +34,7 @@ The escalating impacts of natural hazards are caused mostly by increasing exposu
 
 - *UK Space Agency*
 
-HOT is working together with the British Geological Survey, ImageCat, and the Global Earthquake Model on a UK Space Agency International Partnership Programme, focused on developing innovative applications of earth observation  technologies to improve understanding of exposure to help minimise these risks.
-
-The project aims to build and strengthen local and global resilience through innovation in order to better identify risk and enable more effective decision-making through the following objectives:
+HOT is working together with the British Geological Survey, ImageCat, and the Global Earthquake Model on a UK Space Agency International Partnership Programme, focused on developing innovative applications of earth observation  technologies to improve understanding of exposure to help minimise these risks. The project aims to build and strengthen local and global resilience through innovation in order to better identify risk and enable more effective decision-making through the following objectives:
 
 - Deliver exposure data for 46 of the least developed Official Development Assistance (ODA) countries
 - Capacity-building of local decision makers to apply data and assess hazard exposure
