@@ -42,7 +42,9 @@ HOT is working together with the British Geological Survey, ImageCat, and the Gl
 
 ![Screen Shot 2018-10-29 at 14.29.43.png](/uploads/Screen%20Shot%202018-10-29%20at%2014.29.43.png)
 
-The exposure datasets will be tested and validated against surveyed information within the cities of Kathmandu and Dar es Salaam. Detailed attribute information following on from the [GED4ALL](https://wiki.openstreetmap.org/wiki/GED4ALL) taxonomy developed as part of the GFDRR Challenge Fund, will be collected for buildings randomly selected within homogenous zones by Kathmandu Living Labs and Ramani Huria for their cities. 
+The exposure datasets will be tested and validated against surveyed information within the cities of Kathmandu and Dar es Salaam. Detailed attribute information following the [GED4ALL](https://wiki.openstreetmap.org/wiki/GED4ALL) taxonomy developed as part of the GFDRR Challenge Fund, will be collected for buildings randomly selected within homogenous zones by Kathmandu Living Labs and Ramani Huria for their cities. 
+
+![Screen Shot 2018-10-29 at 14.43.44.png](/uploads/Screen%20Shot%202018-10-29%20at%2014.43.44.png)
 
 METEOR is also working closely with the National Society for Earthquake Technology of Nepal and the Disaster Management Department of the United Republic of Tanzania to ensure that the project is effectively received by local partners.
 
