@@ -36,8 +36,16 @@ The escalating impacts of natural hazards are caused mostly by increasing exposu
 
 HOT is working together with the British Geological Survey, ImageCat, and the Global Earthquake Model on a UK Space Agency International Partnership Programme, focused on developing innovative applications of earth observation  technologies to improve understanding of exposure to help minimise these risks.
 
-The project aims to build and strengthen local and global resilience through innovation in order to better identify risk and enable more effective decision-making, delivering exposure data for 48 of the least developed Official Development Assistance (ODA) countries.
+The project aims to build and strengthen local and global resilience through innovation in order to better identify risk and enable more effective decision-making through the following objectives:
 
-METEOR has a specific focus on the countries of Nepal and Tanzania, with the partners of the project working closely with the National Society for Earthquake Technology and the Disaster Management Department of the United Republic of Tanzania.
+- Deliver exposure data for 46 of the least developed Official Development Assistance (ODA) countries
+- Capacity-building of local decision makers to apply data and assess hazard exposure
+- Create open protocols to develop critical exposure information from EO data
+
+![Screen Shot 2018-10-29 at 14.29.43.png](/uploads/Screen%20Shot%202018-10-29%20at%2014.29.43.png)
+
+The exposure datasets will be tested and validated against surveyed information within the cities of Kathmandu and Dar es Salaam. Detailed attribute information following on from the [GED4ALL](https://wiki.openstreetmap.org/wiki/GED4ALL) taxonomy developed as part of the GFDRR Challenge Fund, will be collected for buildings randomly selected within homogenous zones by Kathmandu Living Labs and Ramani Huria for their cities. 
+
+METEOR is also working closely with the National Society for Earthquake Technology of Nepal and the Disaster Management Department of the United Republic of Tanzania to ensure that the project is effectively received by local partners.
 
 ![Screen Shot 2018-10-24 at 19.14.23.png](/uploads/Screen%20Shot%202018-10-24%20at%2019.14.23.png)
