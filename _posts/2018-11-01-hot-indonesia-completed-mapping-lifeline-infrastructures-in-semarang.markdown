@@ -31,4 +31,4 @@ The following factsheet summarizes key metrics and lessons learned from the mapp
 
 Watch the following video to see footages from our ground survey activities. Our project could only be completed with continuous support from local communities, universities ([State University of Semarang](https://unnes.ac.id)), and [BPBD Semarang](http://bpbd.semarangkota.go.id). We distributed printed OSM maps to all village offices and now move onto creating atlas for local disaster management agency and village officials to use. Check out [this webpage](https://openstreetmap.id/en/pemetaan-hot-pdc/) to explore about this project further.
 
-[https://www.youtube.com/watch?v=AFiTDDxzhYc ](https://www.youtube.com/watch?v=AFiTDDxzhYc )
+[https://www.youtube.com/watch?v=AFiTDDxzhYc](https://www.youtube.com/watch?v=AFiTDDxzhYc)
