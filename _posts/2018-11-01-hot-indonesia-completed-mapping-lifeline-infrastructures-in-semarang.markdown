@@ -9,8 +9,8 @@ categories:
 Summary Text: Humanitarian OpenStreetMap Team has completed mapping Semarang, the
   capital and largest city of Central Java. A city of 373.8 square kilometres and
   a home to over 1,5 million people, Semarang is the fifth largest city in Indonesia.
-  Due its unique topography with coastal lowland to the north and bumpy highlands
-  to the south. This makes the city particularly prone to tidal flood and landslides.
+  The city's unique topography-- coastal lowland to the north and bumpy highlands
+  to the south--makes it particularly prone to tidal flood and landslides.
 Feature Image: "/uploads/DSC_1483.JPG"
 Country:
 - Indonesia
@@ -26,7 +26,7 @@ The mapping project [focuses on digitizing](https://www.hotosm.org/updates/2018-
 
 The following factsheet summarizes key metrics and lessons learned from the mapping project in Semarang, alongside with the ones collected in Surabaya and Jakarta. Our team managed to map over 482,000 buildings; 4.4 million metres roads; 433 metres waterways; and 11,000 infrastructures. The whole process took only four months, covering all 177 villages and 16 subdistricts. A comprehensive map like this is not only useful for disaster management, but can be further utilized for a variety of city planning purposes.
 
-![InAWARE FactSheet.003.jpeg](/uploads/InAWARE%20FactSheet.003.jpeg)
+![Screen Shot 2018-11-01 at 6.06.31 PM.png](/uploads/Screen%20Shot%202018-11-01%20at%206.06.31%20PM.png)
 ![InAWARE FactSheet.004.jpeg](/uploads/InAWARE%20FactSheet.004.jpeg)
 
 Watch the following video to see footages from our ground survey activities. Our project could only be completed with continuous support from local communities, universities ([State University of Semarang](https://unnes.ac.id)), and [BPBD Semarang](http://bpbd.semarangkota.go.id). We distributed printed OSM maps to all village offices and now move onto creating atlas for local disaster management agency and village officials to use. Check out [this webpage](https://openstreetmap.id/en/pemetaan-hot-pdc/) to explore about this project further.
