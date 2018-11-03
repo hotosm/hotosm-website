@@ -3,13 +3,16 @@ var tmProjects = {
     "type": "FeatureCollection",
     "features": []
 }
+var totalArea = 0, totalEdits = 0, totalMappers = 0
+var totalRoads = 0, totalBuildings = 0, totalChangesets = 0
+
 var countryList = countries.split(',')
 countryList.forEach((country, countryIndex) => {
   countryList[countryIndex] = country.trim().toLowerCase()
 })
 
 $(document).ready(function (){
-  document.getElementById('Countries-Covered').innerHTML = countryList.length
+  
 })
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
@@ -41,9 +44,27 @@ fetch('/campaigns.json')
         campaignTag = campaignTag.trim()
         allProjects[campaignTag].forEach(campaignProject => {
             tmProjects.features.push(campaignProject)
+            totalArea += campaignProject.properties.area
+            totalEdits += campaignProject.properties.edits
+            totalMappers += campaignProject.properties.mappers
+            totalChangesets += campaignProject.properties.changesets
+            totalRoads += campaignProject.properties.roads
+            totalBuildings += campaignProject.properties.buildings
         })
-        console.log(JSON.stringify(tmProjects))
-        console.log(tmProjects.features.length)
+        console.log('Total Projects: ', tmProjects.features.length)
+        console.log('Total Area: ', totalArea)
+        console.log('Total Buildings: ', totalBuildings)
+        console.log('Total Roads: ', totalRoads)
+        console.log('Total Mappers: ', totalMappers)
+        console.log('Total Edits: ', totalEdits)
+        console.log('Total Changesets: ', totalChangesets)
+        console.log('Total Countries: ', countryList.length)
+        document.getElementById('Project-Area').innerHTML = formatedData(Math.round(totalArea))
+        // document.getElementById('Buildings-Mapped').innerHTML = formatedData(Math.round(totalBuildings))
+        // document.getElementById('Roads-Mapped').innerHTML = formatedData(Math.round(totalRoads))
+        document.getElementById('Total-Map-Edits').innerHTML = formatedData(Math.round(totalEdits))
+        document.getElementById('Community-Mappers').innerHTML = formatedData(Math.round(totalMappers))
+        document.getElementById('Countries-Covered').innerHTML = countryList.length
     })
 });
 
@@ -59,19 +80,6 @@ map.on('load', function () {
     "data": tmProjects
   });
  
-//   map.addLayer({
-//     "id": "project_countries",
-//     "type": "fill",
-//     "source": "countriesbetter",
-//     "source-layer": "countries-polygon-7jl2br",
-//     "minzoom": 0,
-//     "maxzoom": 8,
-//     "filter": ['in', 'name_low'].concat(countryList),
-//     "paint": {
-//       "fill-pattern": "lines-red-4",
-//       "fill-outline-color": "#EFB4B4"
-//     }
-//   }, 'place-city-sm');
 
   map.addLayer({
     "id": "tm-projects-edits-circle",
