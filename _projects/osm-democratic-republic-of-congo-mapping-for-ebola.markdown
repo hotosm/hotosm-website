@@ -1,7 +1,7 @@
 ---
 title: 'OSM Democratic Republic of Congo: Mapping for Ebola'
 date: 2018-06-05 09:37:00 Z
-position: 26
+position: 29
 Project Summary Text: Supporting the 2018 Ebola outbreak in DRC
 Feature Image: "/uploads/TG6_4343.JPG"
 Is Community-Led: true

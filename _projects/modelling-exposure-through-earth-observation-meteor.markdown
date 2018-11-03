@@ -1,7 +1,7 @@
 ---
 title: 'Modelling Exposure Through Earth Observation Routines: METEOR'
 date: 2018-05-01 05:11:00 Z
-position: 16
+position: 19
 Project Summary Text: Increasing the resilience of countries to natural hazards through
   the integration of open exposure data derived through satellite imagery and open
   protocols.
