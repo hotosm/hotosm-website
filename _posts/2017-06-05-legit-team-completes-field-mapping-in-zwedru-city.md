@@ -3,7 +3,7 @@ title: LEGIT Team Completes Field Mapping in Zwedru City
 date: 2017-06-05 15:26:00 Z
 permalink: updates/2017-06-05_legit_team_completes_field_mapping_in_zwedru_city
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Boundary_comparison_1.png
-Person: David Luswata
+Person: Jess Beutler
 Country:
 - Liberia
 Project:
