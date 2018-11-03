@@ -1,6 +1,7 @@
 ---
 title: Maggie Cawley
 date: 2018-11-03 12:58:00 Z
+Photo: "/uploads/IMG_20180828_174601523.jpg"
 Member Type:
   Is Staff: true
 Job Title: Project Manager
