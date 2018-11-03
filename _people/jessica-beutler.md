@@ -9,6 +9,7 @@ Project:
 - Eliminar la Malaria 2020
 - 'Field data collection for malaria elimination: National Malaria Programme'
 - 'Supporting decentralization in Liberian cities: LEGIT'
+- 'Responding to the Venezuela Situation: Aruba & the Southern Caribbean'
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/jessbeutler
   LinkedIn: https://www.linkedin.com/in/jess-beutler/
