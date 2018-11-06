@@ -40,7 +40,7 @@ Finances:
     data about the successes and impact of the community. \n\nDownload our latest
     annual report below. Access our annual report archive <a href=\"https://github.com/hotosm/hotosm-website/tree/gh-pages/downloads\">here.</a>"
   Annual Report Button: Download 2017 PDF
-  Annual Report URL: "/uploads/HOT%20Annual%20Report.pdf"
+  Annual Report URL: "/downloads/2017-Annual-Report.pdf"
 layout: community
 ---
 
