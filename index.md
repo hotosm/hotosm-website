@@ -4,11 +4,11 @@ position: 0
 Banner:
   Is Activated: false
   Small Block: Upcoming event
-  Main Block: HOT Summit at FOSS4G2018
-  Secondary Block: 27 Aug – 2 Sep 2018
+  Main Block: "#mapthedifference for Local Leaders!"
+  Secondary Block: 27 Nov – 5 Jan 2019
   Optional Text: 
-  Link Copy: Register for FOSS4G 2018
-  URL: http://summit.hotosm.org/
+  Link Copy: Donate now!
+  URL: http://donate.hotosm.org
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
