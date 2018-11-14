@@ -4,8 +4,8 @@ date: 2018-11-14 15:24:00 Z
 Summary Text: 'HOT is supporting the Clinton Health Access Initiative and the Guatemala
   Ministry of Health to assist local technicians who are in the field fighting Malaria
   in the area of Escuintla. Guatemala has provided a unique opportunity for HOT to
-  leverage open source tools for use during indoor residual spraying to monitor activities
-  and progress as they occur. '
+  leverage open source tools for use during indoor residual spraying to monitor progress
+  and activities as they occur. '
 Feature Image: "/uploads/IMG_20181023_082642.jpg"
 Person: Miriam Gonzalez
 Country:
