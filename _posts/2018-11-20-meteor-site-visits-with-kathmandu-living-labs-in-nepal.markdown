@@ -17,8 +17,6 @@ Project:
 
 Kathmandu is one of the two cities that is the focus for testing and validating the exposure datasets created by ImageCat as part of the Monitoring Exposure Through Earth Observation Routines: METEOR project. The Humanitarian OpenStreetMap Team made a trip over to Nepal last week to meet with Kathmandu Living Labs (KLL), who are partnering on the METEOR project and will be collecting data in the city. Following the second biggest festival in the country, Tihar, also known as the festival for lights, the team set out on site visits across Kathmandu to assess the homogenous zones identified for mapping in OpenStreetMap. 
 
-![Kathmandu-HomogenousZones-efde26.png](/uploads/Kathmandu-HomogenousZones-efde26.png)
-
 The homogenous zones are areas of the city that have been classified to have general building patterns. For Kathmandu, there are 7 homogeneous zones which have been identified as rural, residential, dense residential, urban, industrial, informal, high urban and new industrial. The plan is that KLL will remotely digitise all the building footprints within the homogenous zones, before collecting detailed attribute information on the ground for a select sample of these buildings. 
 
 ![Screen Shot 2018-11-20 at 20.58.16.png](/uploads/Screen%20Shot%202018-11-20%20at%2020.58.16.png)
