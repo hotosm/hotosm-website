@@ -1,12 +1,13 @@
 ---
 title: 'METEOR: Site Visits with Kathmandu Living Labs in Nepal'
 date: 2018-11-20 12:39:00 Z
-Summary Text: The Humanitarian OpenStreetMap Team made a trip over to Nepal last week
-  to meet with Kathmandu Living Labs (KLL), who are partnering on the METEOR project
-  and will be collecting data in the city. Following the second biggest festival in
-  the country, Tihar, also known as the festival for lights, the team set out on site
-  visits across Kathmandu to assess the homogenous zones identified for mapping in
-  OpenStreetMap.
+Summary Text: The Humanitarian OpenStreetMap Team and Kathmandu Living Labs set out
+  on site visits across Kathmandu to assess the homogenous zones identified for mapping
+  in OpenStreetMap. These seven zones have been identified as rural, residential,
+  dense residential, urban, industrial, informal, high urban and new industrial. KLL
+  will remotely digitise all the building footprints within the homogenous zones,
+  before collecting detailed attribute information on the ground for a select sample
+  of these buildings.
 Feature Image: "/uploads/IMG_8247.jpg"
 Person: Mhairi O'Hara
 Country:
