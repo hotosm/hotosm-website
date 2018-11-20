@@ -2,6 +2,11 @@
 title: 'METEOR: Site Visits with Kathmandu Living Labs in Nepal'
 date: 2018-11-20 12:39:00 Z
 Feature Image: "/uploads/IMG_8247.jpg"
+Person: Mhairi O'Hara
+Country:
+- Nepal
+Project:
+- 'METEOR '
 ---
 
 Kathmandu is one of the two cities that is the focus for testing and validating the exposure datasets created by ImageCat as part of the Monitoring Through Earth Observation Routines: METEOR project. The Humanitarian OpenStreetMap Team made a trip over to Nepal last week to meet with Kathmandu Living Labs (KLL), who are partnering on the METEOR project and will be collecting data in the city. Following the second biggest festival in the country, Tihar, also known as the festival for lights, the team set out on site visits across Kathmandu to assess the homogenous zones identified for mapping in OpenStreetMap. 
