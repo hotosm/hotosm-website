@@ -1,13 +1,12 @@
 ---
 title: 'METEOR: Site Visits with Kathmandu Living Labs in Nepal'
 date: 2018-11-20 12:39:00 Z
-Summary Text: The Humanitarian OpenStreetMap Team and Kathmandu Living Labs set out
-  on site visits across Kathmandu to assess the homogenous zones identified for mapping
-  in OpenStreetMap. These seven zones have been identified as rural, residential,
-  dense residential, urban, industrial, informal, high urban and new industrial. KLL
-  will remotely digitise all the building footprints within the homogenous zones,
-  before collecting detailed attribute information on the ground for a select sample
-  of these buildings.
+Summary Text: HOT and KLL set out on site visits across Kathmandu to assess the homogenous
+  zones identified for mapping in OpenStreetMap. These seven zones have been identified
+  as rural, residential, dense residential, urban, industrial, informal, high urban
+  and new industrial. KLL will remotely digitise all the building footprints within
+  the homogenous zones, before collecting detailed attribute information on the ground
+  for a select sample of these buildings.
 Feature Image: "/uploads/IMG_8247.jpg"
 Person: Mhairi O'Hara
 Country:
