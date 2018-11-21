@@ -9,7 +9,9 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScNN4QiDh7Oj0h_dmPeVAk
 ---
 
 **Contract duration:** 3-12 months
+
 **Projected start date:** Deployed as needed
+
 **Reports to:** Director, HOT Community Programs
 
 ## About HOT
