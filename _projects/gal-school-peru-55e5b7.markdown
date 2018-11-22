@@ -13,6 +13,7 @@ Impact Area:
 - Disaster Risk Reduction
 - Sustainable Cities
 Micrograntee: true
+tm_campaigns:
 ---
 
 In Peru, GAL (Global Active Learning) School is empowering 11-16 year olds to develop their own projects for social good using OpenStreetMap, Open Data and 360 imagery.

@@ -44,7 +44,7 @@ Link: http://www.missingmaps.org/
 Contact: <p><a href="http://twitter.com/themissingmaps">http://twitter.com/themissingmaps</a></p><p><a
   title="Missing Maps facebook" href="http://facebook.com/theMissingMaps">http://facebook.com/theMissingMaps</a></p>
 created: 1438456158
-tm_projects:
+tm_campaigns:
 - Missing Maps
 ---
 

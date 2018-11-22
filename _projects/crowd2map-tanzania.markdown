@@ -16,6 +16,10 @@ Person:
 - Janet Chapman
 Micrograntee: true
 Link: http://www.tanzdevtrust.org/
+tm_campaigns:
+- Missing Maps
+- Female Genital Mutilation
+- GISCorps
 ---
 
 ## Project

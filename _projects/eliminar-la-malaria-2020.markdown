@@ -17,6 +17,8 @@ Partner:
 Duration:
   Start Date: 2018-10-01 00:00:00 Z
   End Date: 2018-11-09 00:00:00 Z
+tm_campaigns:
+- Malaria Elimination
 ---
 
 Although Guatemala has made great progress in reducing its Malaria burden in recent decades, the national program aims to scale up program capacity to address the ongoing threat of Malaria. National surveillance data from Guatemala suggest that malaria transmission is highly concentrated in certain regions of the country. In 2015, 5,437 confirmed cases were reported, with approximately 66% in the department of Escuintla. Escuintla is heavily characterized by agriculture including large-scale sugar, banana and palm oil plantations. 

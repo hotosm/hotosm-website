@@ -29,6 +29,7 @@ Link: http://wiki.openstreetmap.org/wiki/2016_Ecuador_earthquake
 Contact: <p>activation@hotosm.org</p><p><a href="https://hotosm.org/users/hyancesgmailcom">Humberto
   Yances</a></p>
 created: 1461357401
+tm_campaigns:
 ---
 
 <p>The strongest earthquake to hit Ecuador in decades flattened buildings and buckled highways along its Pacific coast, sending the Andean nation into a state of emergency. HOT is supporting the response by assisting the local OSM community to engage the global volunteer community and interface with international aid organizations and imagery providers. </p>

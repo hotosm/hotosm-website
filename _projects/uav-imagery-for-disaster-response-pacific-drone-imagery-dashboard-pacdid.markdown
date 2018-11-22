@@ -18,6 +18,7 @@ Partner:
 Duration:
   Start Date: 2016-08-01 00:00:00 Z
   End Date: 2018-01-31 00:00:00 Z
+tm_campaigns:
 ---
 
 In places like Fiji and Vanuatu, which have experienced significant typhoon damage in recent years, the "view from above" provided by satellites, aircraft and more recently by drones, is a crucial resource needed in any phase of disaster risk management, from preparedness, to response, to recovery. The PacDID project was formed out of the need to further enable imagery as a resource within Pacific island communities through the Pacific Humanitarian Challenge (PHC), and built on the work we’ve done with [OpenAerialMap](http://openaerialmap.org).

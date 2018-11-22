@@ -26,6 +26,7 @@ Contact: '<p><a style="font-style: normal; font-variant: normal; font-weight: no
   style="font-weight: normal;"><span style="font-size: 13.3333px; font-family: Calibri;
   color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration:
   underline; white-space: pre-wrap; background-color: transparent;">&nbsp;</span></a></span></p>'
+tm_campaigns:
 ---
 
 HOT has partnered with the Global Earthquake Model (GEM) and ImageCat on a Challenge Fund focused on developing a global exposure database for multi-hazard risk analysis. The Challenge Fund, formed by the Global Facility for Disaster Reduction and Recovery (GFDRR) and the UK’s Department for International Development (DFID) is aimed at building local and global resilience through innovation in order to better identify risk and enable more effective decision-making.

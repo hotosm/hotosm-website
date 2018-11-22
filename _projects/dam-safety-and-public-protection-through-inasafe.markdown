@@ -24,6 +24,8 @@ Partner:
 Duration:
   Start Date: 2017-01-01 00:00:00 Z
   End Date: 2017-12-31 00:00:00 Z
+tm_campaigns:
+
 ---
 
 Dam safety is increasingly important to ensuring public safety and economic security in Indonesia. The challenges of rapid population growth and urbanization, coupled with increasing climate variability and rainfall intensification, will accentuate the downstream hazards with the development of 65 new large dams. Most climate models predict the already constrained availability of water will be exacerbated in many areas along with further increases in the probability and frequency of water related disasters, such as floods, especially in densely populated urban areas near the coast. 

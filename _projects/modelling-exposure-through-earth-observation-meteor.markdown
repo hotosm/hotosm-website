@@ -31,6 +31,7 @@ Contact: '<p><a style="font-style: normal; font-variant: normal; font-weight: no
   style="font-weight: normal;"><span style="font-size: 13.3333px; font-family: Calibri;
   color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration:
   underline; white-space: pre-wrap; background-color: transparent;">&nbsp;</span></a></span></p>'
+tm_campaigns:
 ---
 
 HOT has partnered with the British Geological Survey (BGS), ImageCat, and the Global Earthquake Model (GEM) on a UK Space Agency funded initiative focused on developing innovative applications of Earth Observation (EO) technologies to improve understanding of exposure.

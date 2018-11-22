@@ -44,7 +44,7 @@ Summary Text: HOT has teamed up with many partners to identify and map populated
   in areas of the globe susceptible to the disease malaria.
 HOT Involvement: Disaster Mapping
 created: 1486519560
-tm_projects:
+tm_campaigns:
 - Malaria Elimination
 ---
 

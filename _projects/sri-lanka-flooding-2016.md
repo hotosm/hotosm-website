@@ -22,6 +22,7 @@ Duration:
 HOT Involvement: Disaster Mapping
 Link: http://wiki.openstreetmap.org/wiki/2016_Sri_Lanka_Floods
 created: 1463723090
+tm_campaigns:
 ---
 
 Sri Lanka was affected by heavy flooding in May 2016. HOT was asked to activate and immediately start tracing buildings by the Disaster Management Center (DMC) of Sri Lanka, who work closely with World Bank GFDRR. DMC was in urgent need of detailed housing unit information.

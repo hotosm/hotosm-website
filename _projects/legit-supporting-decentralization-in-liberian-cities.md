@@ -23,6 +23,7 @@ HOT Involvement: Community Development
 Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p><p><a
   href="https://hotosm.org/users/david_luswata">David Luswata</a></p>
 created: 1489014346
+tm_campaigns:
 ---
 
 The Liberia Local Empowerment for Government Inclusion and Transparency (LEGIT) project supports the Ministry of Internal Affairs and Governance Commission as they lead, monitor and coordinate the implementation of the government’s decentralization agenda.
