@@ -1,7 +1,7 @@
 ---
 title: 'OSM Sri Lanka: Disaster Risk Reduction'
 date: 2018-05-16 09:23:00 Z
-position: 33
+position: 36
 Project Summary Text: Building detailed maps of Sri Lanka for emergency response during
   natural disasters
 Feature Image: "/uploads/6.jpg"

@@ -2,7 +2,7 @@
 title: Missing Maps
 date: 2015-08-01 19:09:00 Z
 permalink: projects/missing_maps
-position: 68
+position: 71
 Project Summary Text: The Missing Maps is a collaborative project founded by HOT,
   Medecins Sans Frontieres, British Red Cross, and the American Red Cross.
 Feature Image: "/uploads/Screen%20Shot%202018-04-23%20at%2012.08.05%20AM.png"

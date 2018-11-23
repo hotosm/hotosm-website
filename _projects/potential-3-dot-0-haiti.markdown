@@ -1,7 +1,7 @@
 ---
 title: 'Potential 3.0: Disaster Preparedness in Haiti'
 date: 2018-05-16 08:12:00 Z
-position: 38
+position: 41
 Project Summary Text: Disaster preparedness planning in Haiti
 Feature Image: "/uploads/Comunity%20OSM%20Haiti.png"
 Is Community-Led: true

@@ -1,6 +1,7 @@
 ---
 title: Partnerships & Community Programs Assistant
 date: 2018-09-11 19:16:00 Z
+published: false
 Deadline Date: 2018-10-12 00:00:00 Z
 Place of Work: Flexible – any HOT office (Washington, D.C., New York, Kampala, Dar
   es Salaam) or Remote working

@@ -1,7 +1,7 @@
 ---
 title: 'Asian University for Women: Mapping Arsenic Contamination'
 date: 2018-05-16 06:31:00 Z
-position: 34
+position: 37
 Project Summary Text: An all female mapping group push for improved water & sanitation
   in Bangladesh
 Feature Image: "/uploads/DSC9754.JPG"

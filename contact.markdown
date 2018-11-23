@@ -45,7 +45,7 @@ Office Locations:
   - |-
     **Uganda**
 
-    [HOT Uganda Office]
+    [HOT Uganda Office](https://www.openstreetmap.org/node/5601564057)
     Plot 53, Kira Road
     Kampala, Uganda
   Nav ID: office-locations

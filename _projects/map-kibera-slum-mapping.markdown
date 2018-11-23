@@ -1,7 +1,7 @@
 ---
 title: 'Map Kibera: Engaging Local People in the Development Process'
 date: 2018-05-01 10:11:00 Z
-position: 28
+position: 31
 Project Summary Text: Using citizen-generated data to improve local initiatives
 Feature Image: "/uploads/thika2-f56ff3.jpg"
 Is Community-Led: true

@@ -3,7 +3,7 @@ title: OSM Tasking Manager 3.0 Development
 date: 2016-12-01 19:41:00 Z
 permalink: projects/osm_tasking_manager_30_development
 published: false
-position: 82
+position: 85
 Person:
 - Blake Girardot
 - Nick Allen

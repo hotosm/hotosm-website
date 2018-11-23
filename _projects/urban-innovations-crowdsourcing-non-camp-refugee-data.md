@@ -2,7 +2,7 @@
 title: 'Refugee response: South Sudan and Syria'
 date: 2017-02-06 15:06:00 Z
 permalink: projects/urban_innovations_crowdsourcing_non-camp_refugee_data
-position: 0
+position: 3
 Project Summary Text: The “Crowdsourcing Non-Camp Refugee Data Through OpenStreetMap”
   project aims to improve program planning and service delivery to refugee communities.
 Feature Image: "/uploads/DSC_0780.JPG"

@@ -1,7 +1,7 @@
 ---
 title: 'Data for evidence-based decisions: Data Zetu'
 date: 2018-06-11 12:10:00 Z
-position: 4
+position: 7
 Project Summary Text: Using community mapping methods to improve HIV services and
   access to public health facilities in Dar es Salaam and Mbeya.
 Feature Image: "/uploads/IMG_1137.JPG"

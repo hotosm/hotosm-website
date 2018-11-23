@@ -3,7 +3,7 @@ title: OSM FlossManuals in Kreyòl (Creole)
 date: 2012-12-04 16:10:00 Z
 permalink: projects/osm_flossmanuals_in_kreyòl_creole
 published: false
-position: 53
+position: 56
 Project Summary Text: Booksprint to create a Kreyol OSM manual for the Haitian community
 Feature Image: "/uploads/P1210301.jpg"
 Country:
