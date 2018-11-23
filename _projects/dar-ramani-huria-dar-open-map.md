@@ -29,9 +29,9 @@ Link: http://ramanihuria.org/
 Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
 created: 1423284460
 tm_campaigns:
-- #ramanihuria
-- #Trash mapping
-- #METEOR
+- '#ramanihuria'
+- '#Trash mapping'
+- '#METEOR'
 - Tanzania Mini-Grids
 - Mini grids
 - Mini grids x
