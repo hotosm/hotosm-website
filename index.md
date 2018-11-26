@@ -2,13 +2,13 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: false
-  Small Block: Upcoming event
-  Main Block: "#mapthedifference for Local Leaders!"
-  Secondary Block: 27 Nov – 5 Jan 2019
+  Is Activated: true
+  Small Block: Microgrants Giving Campaign
+  Main Block: "#mapthedifference for Local Leaders"
+  Secondary Block: Join the campaign today!
   Optional Text: 
   Link Copy: Donate now!
-  URL: http://donate.hotosm.org
+  URL: https://donate.hotosm.org
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
