@@ -63,6 +63,10 @@ With the help of the HOT Microgrant Potential 3.0 were able to run an intensive 
 
 # Mapeando Meu Bairro
 
+![Mapeando Meu Bairro .jpg](/uploads/Mapeando%20Meu%20Bairro%20.jpg)
+
+![Mapeando Meu Bairro 2.jpg](/uploads/Mapeando%20Meu%20Bairro%202.jpg)
+
 With support of the HOT Microgrant, #MapeandoMeuBairro, Mozambique's OSM community, are conducting mapping of the drainage features of Mafalala, one of Maputo's most important and iconic informal settlements. So far #MapeandoMeuBairro is training staff members and volunteer activists from two local NGO's at neighbourhood level (Associação IVERCA, and Associação DAMBO), in the use of JOSM to upload field data collected about drainage, sewage, and other features relevant for general public health. You can find part of the ongoing work under “damboinquerito” custom tag on the OSM database.
 
 Aside from the two NGOs in Mafalala, #MapeandoMeuBairro is also working in the Chamanculo and Aeroporto neighbourhoods, and in the context of these wide scope of mapping activities, was invited to present and train Maputo's Municipal Council, Architects Without Borders Mozambique, and other partner NGO in the great potential that OpenStreetMap has to improve informal settlement management in third world cities like Maputo.
