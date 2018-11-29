@@ -4,6 +4,7 @@ date: 2018-11-27 13:07:00 Z
 Summary Text: 'Here are a few updates from local communities all around the world
   who have received a Microgrant from HOT in 2018, all the more reason to donate to
   #mapthedifference in 2019!'
+Feature Image: "/uploads/Blog%20post%20header%20-%20Microgrants%202018.png"
 Person: Geoffrey Kateregga
 Working Group:
 - Community
@@ -76,4 +77,5 @@ All of these communities are able to effectively continue their mapping efforts 
 Go to donate.hotosm.org today and let's #mapthedifference together!
 
 You can also use the hashtags #hotosm, #mapthedifference, #supportlocalleaders on Twitter and help us circulate the video for this year's campaign by retweeting and sharing on social media: https://www.youtube.com/watch?v=KTt_a_H-_j0
+
 
