@@ -32,11 +32,13 @@ var map = new mapboxgl.Map({
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 })
 
-fetch('/campaigns-boundaries.json')
+const loadMapLayers = (boxZoom) => {
+  fetch('/campaigns-boundaries.json')
   .then(function (response) {
     return response.json()
   })
   .then(function (jsonData) {
+    if (campaignTags[0] !== ""){
     campaignTags.forEach(campaignTag => {
       if (jsonData[campaignTag]) {
         jsonData[campaignTag].forEach(campaignProject => {
@@ -45,6 +47,31 @@ fetch('/campaigns-boundaries.json')
       }
     })
     console.log('Total Project Boundaries: ', tmProjectPolygons.features.length)
+    var polygonZoom = 3.25
+    if (boxZoom) {
+      polygonZoom = boxZoom + 2
+    }
+    map.addSource('tmProjectPolygons', {
+      'type': 'geojson',
+      'data': tmProjectPolygons
+    })
+  
+    map.addLayer({
+      'id': 'tm-projects-polygons',
+      'type': 'fill',
+      'source': 'tmProjectPolygons',
+      'minzoom': polygonZoom,
+      'maxzoom': 19,
+      'paint': {
+        'fill-opacity': 0.2,
+        'fill-color': '#000000'
+      }
+    }, 'place-city-sm')
+  } else {
+    if (boxZoom){
+      map.setMaxZoom(boxZoom)
+    } else map.setMaxZoom(1.25)
+  }
   })
 
 fetch('/campaigns-centroids.json')
@@ -53,6 +80,7 @@ fetch('/campaigns-centroids.json')
   })
   .then(function (jsonData) {
     allProjects = jsonData
+    if (campaignTags[0] !== ""){
     campaignTags.forEach(campaignTag => {
       campaignTag = campaignTag.trim()
       if (allProjects[campaignTag]) {
@@ -79,8 +107,75 @@ fetch('/campaigns-centroids.json')
       document.getElementById('Total-Map-Edits').innerHTML = formatedData(Math.round(totalEdits))
       document.getElementById('Community-Mappers').innerHTML = formatedData(Math.round(totalMappers))
       document.getElementById('Countries-Covered').innerHTML = countryList.length
+      
     })
+    map.addSource('tmProjectCentroids', {
+      'type': 'geojson',
+      'data': tmProjectCentroids
+    })
+    
+  
+    // map.addLayer({
+    //   'id': 'tm-projects-edits-circle',
+    //   'type': 'circle',
+    //   'source': 'tmProjectCentroids',
+    //   'minzoom': 0,
+    //   'maxzoom': 19,
+    //   'paint': {
+    //     'circle-radius': {
+    //       property: 'edits',
+    //       stops: [
+    //         [0, 10],
+    //         [10000, 15],
+    //         [50000, 20],
+    //         [100000, 25],
+    //         [125000, 30],
+    //         [150000, 35],
+    //         [200000, 40]
+  
+    //       ]
+    //     },
+    //     'circle-opacity': 0.7,
+    //     'circle-color': '#FFC151'
+    //   }
+    // }, 'place-city-sm')
+    var centroidZoom = 1.25
+    if (boxZoom){
+      centroidZoom = boxZoom
+    }
+    map.addLayer({
+      'id': 'tm-projects-black-circle',
+      'type': 'circle',
+      'source': 'tmProjectCentroids',
+      'minzoom': centroidZoom,
+      'maxzoom': 19,
+      'paint': {
+        'circle-radius': 5,
+        'circle-opacity': 0.7,
+        'circle-color': '#000000'
+      }
+    }, 'place-city-sm')
+  
+    map.addLayer({
+      'id': 'tm-projects-symbol',
+      'type': 'symbol',
+      'source': 'tmProjectCentroids',
+      'minzoom': centroidZoom,
+      'maxzoom': 19,
+      'layout': {
+        'text-field': '+',
+        'text-font': ['Open Sans Bold'],
+        'text-offset': [-0.001, -0.03],
+        'text-size':10
+      },
+      'paint': {
+        'text-color': '#FFFFFF'
+      }
+    }, 'place-city-sm')
+  }
   })
+}
+
 
 map.on('load', function () {
   $('.mapboxgl-ctrl').addClass('hide')
@@ -89,81 +184,7 @@ map.on('load', function () {
     'type': 'vector',
     'url': 'mapbox://hot.6w45pyli'
   })
-  map.addSource('tmProjectCentroids', {
-    'type': 'geojson',
-    'data': tmProjectCentroids
-  })
-  map.addSource('tmProjectPolygons', {
-    'type': 'geojson',
-    'data': tmProjectPolygons
-  })
-
-  map.addLayer({
-    'id': 'tm-projects-polygons',
-    'type': 'fill',
-    'source': 'tmProjectPolygons',
-    'minzoom': 4,
-    'maxzoom': 18,
-    'paint': {
-      'fill-opacity': 1,
-      'fill-color': '#000000'
-    }
-  }, 'place-city-sm')
-
-  map.addLayer({
-    'id': 'tm-projects-edits-circle',
-    'type': 'circle',
-    'source': 'tmProjectCentroids',
-    'minzoom': 0,
-    'maxzoom': 6,
-    'paint': {
-      'circle-radius': {
-        property: 'edits',
-        stops: [
-          [0, 10],
-          [10000, 15],
-          [50000, 20],
-          [100000, 25],
-          [125000, 30],
-          [150000, 35],
-          [200000, 40]
-
-        ]
-      },
-      'circle-opacity': 0.7,
-      'circle-color': '#FFC151'
-    }
-  }, 'place-city-sm')
-
-  map.addLayer({
-    'id': 'tm-projects-black-circle',
-    'type': 'circle',
-    'source': 'tmProjectCentroids',
-    'minzoom': 0,
-    'maxzoom': 6,
-    'paint': {
-      'circle-radius': 6.5,
-      'circle-opacity': 1,
-      'circle-color': '#000000'
-    }
-  }, 'place-city-sm')
-
-  map.addLayer({
-    'id': 'tm-projects-symbol',
-    'type': 'symbol',
-    'source': 'tmProjectCentroids',
-    'minzoom': 0,
-    'maxzoom': 6,
-    'layout': {
-      'text-field': '+',
-      'text-font': ['Open Sans Bold'],
-      'text-offset': [-0.001, -0.03]
-    },
-    'paint': {
-      'text-color': '#FFFFFF'
-    }
-  }, 'place-city-sm')
-
+  
   if (countryList.length < 2) {
     fetch('/js/bbox.json')
       .then(function (response) {
@@ -185,9 +206,40 @@ map.on('load', function () {
         }, setTimeout(() => {
           var boxZoom = map.getZoom()
           map.setMinZoom(boxZoom)
+          map.addLayer({
+            "id": "active_countries",
+            "type": "fill",
+            "source": "countriesbetter",
+            "source-layer": "countries-polygon-7jl2br",
+            "minzoom": 0,
+            "maxzoom": 8,
+            "filter": ['any', ['in', 'name_low'].concat(countryList)],
+            "paint": {
+              "fill-pattern": "lines-red-4",
+              "fill-outline-color": "#EFB4B4"
+            }
+          }, 'place-city-sm');
+          loadMapLayers(boxZoom)
         }, 2000))
+       
       }
       )
+  }
+  else {
+    map.addLayer({
+      "id": "active_countries",
+      "type": "fill",
+      "source": "countriesbetter",
+      "source-layer": "countries-polygon-7jl2br",
+      "minzoom": 0,
+      "maxzoom": 8,
+      "filter": ['any', ['in', 'name_low'].concat(countryList)],
+      "paint": {
+        "fill-pattern": "lines-red-4",
+        "fill-outline-color": "#EFB4B4"
+      }
+    }, 'place-city-sm');
+    loadMapLayers()
   }
 })
 
@@ -202,3 +254,4 @@ function content (action) {
     document.getElementById('less').style.display = 'none'
   }
 }
+
