@@ -76,6 +76,8 @@ All of these communities are able to effectively continue their mapping efforts 
 
 Go to donate.hotosm.org today and let's #mapthedifference together!
 
-You can also use the hashtags #hotosm, #mapthedifference, #supportlocalleaders on Twitter and help us circulate the video for this year's campaign by retweeting and sharing on social media: https://www.youtube.com/watch?v=KTt_a_H-_j0
+You can also use the hashtags #hotosm, #mapthedifference, #supportlocalleaders on Twitter and help us circulate the video for this year's campaign by retweeting and sharing on social media.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KTt_a_H-_j0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
