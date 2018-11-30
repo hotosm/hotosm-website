@@ -87,7 +87,7 @@ Aside from the two NGOs in Mafalala, #MapeandoMeuBairro is also working in the C
 
 Coming up next for the mapping community with HOT's Microgrant support is the field data collection, in extreme detail, of all formal and informal drainage features of Mafalala, including surface, blockages, widths and depths, among other properties.
 
-[IMG_9872.JPG](/uploads/IMG_9872.JPG)
+![IMG_9872.JPG](/uploads/IMG_9872.JPG)
 
 # YerÇizenler
 YerÇizenler had partnered with and been supported by HOT between July 2018 and June 2018 for the “Crowdsourcing of Non-Camp Refugee Data Through Openstreetmap” Project. During that 1-year period, Yer Çizenler has established itself within the NGO coordination network and within the Turkish OSM community, and in the long term is aiming to act as a community hub for the OSM contributors in Turkey. There are currently ongoing funding applications aiming to support further HOT and OSM activities in Turkey. The Microgrant will help Yer Çizenler to carry itself throughout this hiatus period and support OSM-related activities with the local community and help maintain communication within its established network at a basic level.
