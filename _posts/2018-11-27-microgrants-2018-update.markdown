@@ -94,7 +94,7 @@ YerÇizenler had partnered with and been supported by HOT between July 2018 and 
 
 All of these communities are able to effectively continue their mapping efforts thanks to the donations we've been receiving during our year-end fundraising campaigns each year. You can join our campaign to map the difference by becoming a fundraiser and helping us spread the word out there, so that we can support these local leaders you have been reading about with the necessary tools and equipment they need. 
 
-Go to donate.hotosm.org today and let's #mapthedifference together!
+Go to [donate.hotosm.org](donate.hotosm.org) today and let's #mapthedifference together!
 
 You can also use the hashtags #hotosm, #mapthedifference, #supportlocalleaders on Twitter and help us circulate the video for this year's campaign by retweeting and sharing on social media.
 
