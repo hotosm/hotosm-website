@@ -115,20 +115,17 @@ document.addEventListener("DOMContentLoaded", function(event) {
     setOptOutText(optOut);
   });
   setOptOutText(optOut);
-  // if (!localStorage.getItem("optout-closed")) {
-  //   document.getElementById("optout-form").style.display = "grid";
-  //   console.log("Opened")
-  // }
-  $("#optout-form").addClass("optout-show");
+  if (!localStorage.getItem("optout-closed")) {
+    $("#optout-form").addClass("optout-show");
+  }
+
+
+  $('.optout-close').click(function() {
+    $("#optout-form").removeClass("optout-show");
+    localStorage.setItem("optout-closed", 1);
+  });
 });
 
-// $('#optout-close').on("click", function() {
-//   document.getElementById("optout-form").style.display = "none";
-//   console.log("Closing")
-//   localStorage.setItem("optout-closed", 1);
-// });
 
-$(".optout-close").click(function() {
-  $("#optout-form").removeClass("optout-show");
-  console.log("Closing");
-});
+
+

@@ -5,7 +5,7 @@
 {% if page.layout == 'country' %}<script src="{{ "/js/countries-stats.js" | prepend: site.baseurl }}"></script>{% endif %}
 
 <!-- Piwik -->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   var _paq = _paq || [];
   _paq.push(["setDomains", ["*.hotosm.org","*.hot.openstreetmap.org","*.hot.osm.org"]]);
   _paq.push(['trackPageView']);
@@ -18,20 +18,29 @@
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
-<noscript><p><img src="//piwik.hotosm.org/piwik.php?idsite=5" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->
+<noscript><p><img src="//piwik.hotosm.org/piwik.php?idsite=5" style="border:0;" alt="" /></p></noscript> -->
+<!-- End Piwik Code --> 
 
 <!-- Matomo -->
 <script type="text/javascript">
   var _paq = _paq || [];
   /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['requireConsent'])
+  _paq.push(['requireConsent']);
+  _paq.push(["setDomains", ["*.hotosm.org","*.hot.openstreetmap.org","*.hot.osm.org"]]);
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
     var u="https://matomo.hotosm.org/";
     _paq.push(['setTrackerUrl', u+'piwik.php']);
     _paq.push(['setSiteId', '1']);
+
+    //old piwik tracker - remove this when ready
+    var secondaryTracker = "https://piwik.hotosm.org/piwik.php"
+    var secondaryWebsiteId = 5;
+    // Also send all of the tracking data to this other Matomo server, in website ID 77
+    _paq.push(['addTracker', secondaryTracker, secondaryWebsiteId]);
+    // End Piwik code
+
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
