@@ -92,3 +92,43 @@ const collapse = (selector, cmd) => {
     target.classList[fnmap[cmd]]('show');
   });
 }
+
+
+document.addEventListener("DOMContentLoaded", function(event) {
+  
+  function setOptOutText(element) {
+    _paq.push([function() {
+      element.checked = !this.isUserOptedOut();
+      document.querySelector('label[for=optout] strong').innerText = this.isUserOptedOut()
+        ? 'You are currently opted out. Click here to opt in.'
+        : 'You are currently opted in. Click here to opt out.';
+    }]);
+  }
+
+  var optOut = document.getElementById("optout");
+  optOut.addEventListener("click", function() {
+    if (this.checked) {
+      _paq.push(['forgetUserOptOut']);
+    } else {
+      _paq.push(['optUserOut']);
+    }
+    setOptOutText(optOut);
+  });
+  setOptOutText(optOut);
+  // if (!localStorage.getItem("optout-closed")) {
+  //   document.getElementById("optout-form").style.display = "grid";
+  //   console.log("Opened")
+  // }
+  $("#optout-form").addClass("optout-show");
+});
+
+// $('#optout-close').on("click", function() {
+//   document.getElementById("optout-form").style.display = "none";
+//   console.log("Closing")
+//   localStorage.setItem("optout-closed", 1);
+// });
+
+$(".optout-close").click(function() {
+  $("#optout-form").removeClass("optout-show");
+  console.log("Closing");
+});
