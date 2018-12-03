@@ -21,7 +21,7 @@ Partner:
 Duration:
   Start Date: 2015-06-01 00:00:00 Z
   End Date: 2015-08-31 00:00:00 Z
-tm_campaigns:
+
 ---
 
 Web-based mapping is an activity of growing importance in many countries around the world, especially in places where base map data is often scarce and out of date. Governments are collecting more and more data, including geospatial data, and are beginning to understand the social and economic benefits of sharing the data. As part of the World Bank-DFID partnership to support Open Data in the Caribbean, HOT conducted one-day open mapping workshops in Castries, St. Lucia, and Kingston, Jamaica.

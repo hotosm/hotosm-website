@@ -21,7 +21,7 @@ HOT Involvement: Community Development
 Link: http://wiki.openstreetmap.org/wiki/WikiProject_Mongolia
 Contact: <p><a href="mailto:russell.deffner@hotosm.org">S.Menard<br>Russell Deffner</a></p>
 created: 1381516339
-tm_campaigns:
+
 ---
 
 Ulaanbaatar City’s ‘Smart City’ project, funded by ICT, aims to enable city residents to get access to information regarding public services, and send comments, reports, and request to relevant officials via the Internet in the Capital City of Mongolia.

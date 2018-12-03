@@ -35,7 +35,6 @@ HOT Involvement: Disaster Mapping
 Link: http://wiki.openstreetmap.org/wiki/FR:WikiProject_Central_African_Republic
 Contact: <p><a href="mailto:severin.menard@hotosm.org">Severin</a></p><p><a href="mailto:ndongamadou@gmail.com">Amadou</a></p>
 created: 1399631104
-tm_campaigns:
 
 ---
 

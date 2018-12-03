@@ -26,7 +26,7 @@ Person:
 Duration:
   Start Date: 2018-05-01 00:00:00 Z
 redirect_from: https://www.hotosm.org/projects/spring_2018_disaster_support
-tm_campaigns:
+
 ---
 
 ## Somalia and Cyclone Sagar

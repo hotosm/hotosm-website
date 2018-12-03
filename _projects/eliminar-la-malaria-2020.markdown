@@ -1,6 +1,7 @@
 ---
 title: Eliminar la Malaria 2020
 date: 2018-10-05 01:00:00 Z
+permalink: projects/eliminar-la-malaria-2020
 position: 1
 Project Summary Text: In partnership with the Clinton Health Access Initiative (CHAI),
   HOT is performing an on-the-ground validation exercise across eight localities in

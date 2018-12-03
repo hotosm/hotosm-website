@@ -137,6 +137,9 @@ const loadMapLayers = () => {
   }, setTimeout(() => {
     var boxZoom = map.getZoom();
     map.setMinZoom(boxZoom);
+    // map.getLayer('tm-projects-polygons').minzoom = boxZoom + 2
+    // map.getLayer('tm-projects-black-circle').minzoom = boxZoom
+    // map.getLayer('tm-projects-symbol').minzoom = boxZoom
   }, 2000));  
 }
 

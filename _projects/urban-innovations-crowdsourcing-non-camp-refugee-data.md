@@ -28,7 +28,7 @@ Duration:
 HOT Involvement: Community Development
 Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
 created: 1486393561
-tm_projects: 
+tm_campaigns: 
 - Crowdsourcing Non-Camp Refugee Data
 Documents:
   - title: Title 1

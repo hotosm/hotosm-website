@@ -12,7 +12,7 @@ Impact Area:
 - Gender Equality
 - Water & Sanitation
 Micrograntee: true
-tm_campaigns:
+
 ---
 
 The Asian University for Women (AUW) YouthMappers team in Bangladesh is the first all women's YouthMappers chapter in the world. AUW have been gathering field data from deep tube-wells in Barayadala, Sitakunda where arsenic contamination affects water sources.
