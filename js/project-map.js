@@ -142,9 +142,8 @@ map.on('click', function(e) {
     document.getElementById('details').classList.remove('hide')
     $('#details').empty()
     $('#details').append(
-      '<p id= "details-id">Edits: <a href="' + features[0].properties.id +  'item.split(' ').join('-') + '" class="regions-link">' +
-      item.capitalize() +
-      '</a>' features[0].properties.id + '</p>'
+      '<p id= "details-id"><a target="_blank" href="https://tasks.hotosm.org/project/' + features[0].properties.id +'">'+ features[0].properties.id +' - ' +
+      features[0].properties.name + '</a></p>' +
       '<p id = "details-mappers">Mappers: ' + features[0].properties.mappers + '</p>' +
       '<p id= "details-edits">Edits: ' + features[0].properties.edits + '</p>'
       
