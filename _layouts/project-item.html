@@ -44,6 +44,27 @@ layout: default
 
 
     <div class="project-map-area">
+            <div id="hover-details" class="center-hover-map-area">
+                <p class="hover-name"></p>
+                <p>Click on a project centroid to see more details</p>
+            </div>
+            <div id = 'project-legend-details' class="center-hover-map-area">
+              <!-- <div id = 'prefix-legend' class="legend-prefix">
+                <p>Countries with </p>
+              </div> -->
+              <div id = 'projects-legend'>
+                <p><img src= '../images/dot-black.png' width="9" height="9"/> <span style="color:#929DB3">TM Project Centroids</span> </p>
+              </div> &nbsp;
+              <div id = 'active-legend'>
+                  <p><img src= '../images/polygon-black.png' width="10" height="10"/><span  style="color:#929DB3"> TM Project Boundaries</span></p>
+              </div>&nbsp;
+              <div id = 'member-legend'>
+                  <p><img src= '../images/polygon-dash.png' width="10" height="10"/> <span style="color:#929DB3"> Project Coverage Area</span></p>
+              </div>
+              
+            </div>
+            
+      
         <div id="map">
             <div id="loading-map">
                 <center>
@@ -244,9 +265,11 @@ layout: default
 
     
     <script>
-      var countries = "{{ page.Country | join: ', ' }}";
-      var campaignTags = "{{ page.tm_campaigns | join: ', ' }}";
+      var countries = "{{ page.Country | join: ', ' }}"
+      var campaignTags = "{{ page.tm_campaigns | join: ', ' }}"
+      var projectExtent = "{{ page.project_extent }}"
       console.log('From layout: ', campaignTags)
+      console.log('Project Extent: ', projectExtent)
     </script>
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />

@@ -40,7 +40,6 @@ var map = new mapboxgl.Map({
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 })
 
-
 const loadMapLayers = () => {
   console.log('Load Map Layers')
   console.log('loadMapLayers() tmProjectPolygons: ', JSON.stringify(tmProjectPolygons))
@@ -53,7 +52,7 @@ const loadMapLayers = () => {
     'type': 'geojson',
     'data': tmProjectCentroids
   })
-  
+
   map.addLayer({
     'id': 'tm-projects-polygons',
     'type': 'fill',
@@ -65,7 +64,7 @@ const loadMapLayers = () => {
       'fill-color': '#000000'
     }
   }, 'place-city-sm')
-  
+
   map.addLayer({
     'id': 'tm-projects-black-circle',
     'type': 'circle',
@@ -78,7 +77,7 @@ const loadMapLayers = () => {
       'circle-color': '#000000'
     }
   }, 'place-city-sm')
-  
+
   map.addLayer({
     'id': 'tm-projects-symbol',
     'type': 'symbol',
@@ -95,7 +94,33 @@ const loadMapLayers = () => {
       'text-color': '#FFFFFF'
     }
   }, 'place-city-sm')
-  
+
+  if (projectExtent !== '') {
+    console.log('Custom Project Extent detected')
+    var projectExtentJSON
+    fetch('.' + projectExtent)
+      .then(function (response) {
+        return response.json()
+      })
+      .then(function (jsonData) {
+        projectExtentJSON = jsonData
+        map.addSource('projectExtent', {
+          'type': 'geojson',
+          'data': projectExtentJSON
+        })
+        map.addLayer({
+          'id': 'project-extent',
+          'source': 'projectExtent',
+          'type': 'line',
+          'layout': {},
+          'paint': {
+            'line-dasharray': [2, 1, 2, 1, 2],
+            'line-gap-width': 1,
+            'line-color': '#000000'
+          }
+        }, 'place-city-sm')
+      })
+  }
 }
 
 map.on('load', function () {
@@ -105,8 +130,6 @@ map.on('load', function () {
     'type': 'vector',
     'url': 'mapbox://hot.6w45pyli'
   })
-  
-  
 })
 
 fetch('/allProjects-minified-v2.json')
@@ -144,7 +167,7 @@ fetch('/allProjects-minified-v2.json')
           feature.properties['roads'] = allProjects[project][9]
           feature.properties['buildings'] = allProjects[project][10]
           feature.properties['edits'] = allProjects[project][11]
-          
+
           totalEdits += allProjects[project][11]
           totalMappers += allProjects[project][8]
           totalChangesets += allProjects[project][7]
@@ -156,7 +179,7 @@ fetch('/allProjects-minified-v2.json')
           // console.log('Point geometry: ', feature.geometry['coordinates'])
           // console.log('Point Feature: ', JSON.stringify(feature))
           // console.log('before pushing: ',JSON.stringify(tmProjectCentroids))
-          // tmProjectCentroids.features.push(feature)
+          tmProjectCentroids.features.push(feature)
           // console.log('After pushing: ', JSON.stringify(tmProjectCentroids))
           // map.getSource('tmProjectCentroids').setData(tmProjectCentroids)
           options.url = 'https://s3.amazonaws.com/hotosm-stats-collector/' + project + '-aoi.json'
@@ -182,9 +205,9 @@ fetch('/allProjects-minified-v2.json')
               // console.log('Polygon geometry: ',aoi.geometry)
               tmProjectPolygons.features.push(polygonFeature)
               // map.getSource('tmProjectPolygons').setData(tmProjectPolygons)
-              
+
               // console.log('projectCount: ', projectCount)
-              if (projectCount === (totalProjects - 1)){
+              if (projectCount === (totalProjects - 1)) {
                 // console.log('Last project reached')
                 document.getElementById('Project-Area').innerHTML = formatedData(Math.round(totalArea))
                 document.getElementById('Total-Map-Edits').innerHTML = formatedData(Math.round(totalEdits))
@@ -202,5 +225,3 @@ fetch('/allProjects-minified-v2.json')
         })
       })
   })
-
-

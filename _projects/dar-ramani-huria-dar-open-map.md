@@ -35,6 +35,7 @@ tm_campaigns:
 - Tanzania Mini-Grids
 - Mini grids
 - Mini grids x
+project_extent: "/dar-ramani-huria.json"
 ---
 
 Dar es Salaam is one of the fastest growing cities in Africa, with an annual population growth of over 5.7%.  In 2002 there were approximately 2.5 million inhabitants, increasing to 4.4 million in 2012, and currently estimated at over 5.5 million.  The population is expected to exceed 10 million by 2040, making Dar es Salaam a megacity.  Urbanization is largely unplanned, and around 70% of city residents live in informal settlements.  The poorest citizens who settle in these areas not only have less access to basic services, but are also the most exposed to natural hazards.
