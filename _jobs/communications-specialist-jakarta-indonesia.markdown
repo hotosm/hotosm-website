@@ -5,6 +5,9 @@ Deadline Date: 2018-12-31 00:00:00 Z
 Place of Work: Jakarta, Indonesia
 ---
 
+Location: Jakarta, Indonesia
+Reports to: Indonesian Country Manager
+
 **Background**
 
 HOT is collaborating on a USAID, Office of U.S. Foreign Disaster Assistance (OFDA) funded program together with the University of Hawaii: Pacific Disaster Centre (PDC) and the Massachusetts Institute of Technology (MIT): PetaBencana to support the Government of Indonesia: Badan Nasional Penanggulangan Bencana (BNPB). The program is focused on the development of InAWARE, a disaster management tool, aimed at improving overall risk assessment, early-warning, and disaster-management decision making in Indonesia.
