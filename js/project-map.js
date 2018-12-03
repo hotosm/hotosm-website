@@ -15,6 +15,8 @@ var tmProjectPolygons = {
   'type': 'FeatureCollection',
   'features': []
 }
+
+var polygon =[[]]
 console.log(campaignTags)
 campaignTags = campaignTags.split(',')
 console.log('Campaign Tags: ', campaignTags)
@@ -44,6 +46,14 @@ const loadMapLayers = () => {
   console.log('Load Map Layers')
   console.log('loadMapLayers() tmProjectPolygons: ', JSON.stringify(tmProjectPolygons))
   console.log('loadMapLayers() tmProjectCentroids: ', JSON.stringify(tmProjectCentroids))
+  polygon[0].push(polygon[0][0])
+  console.log('loadMapLayers() polygon: ', polygon)
+  polygon = turf.polygon(polygon)
+  var bbox = turf.bbox(tmProjectCentroids);
+  console.log('bbox: ', bbox)
+  
+  var allProjectCentroid = turf.centroid(polygon)
+  map.flyTo({center: allProjectCentroid.geometry.coordinates})
   map.addSource('tmProjectPolygons', {
     'type': 'geojson',
     'data': tmProjectPolygons
@@ -121,6 +131,13 @@ const loadMapLayers = () => {
         }, 'place-city-sm')
       })
   }
+
+  map.fitBounds(bbox, {
+    // padding: 40
+  }, setTimeout(() => {
+    var boxZoom = map.getZoom();
+    map.setMinZoom(boxZoom);
+  }, 2000));  
 }
 
 map.on('load', function () {
@@ -193,6 +210,7 @@ fetch('/allProjects-minified-v2.json')
           totalBuildings += allProjects[project][10]
           feature.geometry['type'] = 'Point'
           feature.geometry['coordinates'] = allProjects[project][5]
+          polygon[0].push(allProjects[project][5])
           // console.log('From minified file: ', allProjects[project][5])
           // console.log('Point geometry: ', feature.geometry['coordinates'])
           // console.log('Point Feature: ', JSON.stringify(feature))
