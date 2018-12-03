@@ -132,6 +132,25 @@ map.on('load', function () {
   })
 })
 
+map.on('click', function(e) {
+  var features = map.queryRenderedFeatures(
+    [e.point.x, e.point.y],
+    {layers: ['tm-projects-black-circle', 'tm-projects-symbol']}
+  );
+  if (features.length) {
+    document.getElementById('info-bar').classList.add('hide')
+    document.getElementById('details').classList.remove('hide')
+    $('#details').empty()
+    $('#details').append(
+      '<p id= "details-id">Edits: <a href="' + features[0].properties.id +  'item.split(' ').join('-') + '" class="regions-link">' +
+      item.capitalize() +
+      '</a>' features[0].properties.id + '</p>'
+      '<p id = "details-mappers">Mappers: ' + features[0].properties.mappers + '</p>' +
+      '<p id= "details-edits">Edits: ' + features[0].properties.edits + '</p>'
+      
+    )
+  }
+});
 fetch('/allProjects-minified-v2.json')
   .then(function (response) {
     return response.json()

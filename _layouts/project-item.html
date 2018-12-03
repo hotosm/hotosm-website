@@ -44,21 +44,20 @@ layout: default
 
 
     <div class="project-map-area">
-            <div id="hover-details" class="center-hover-map-area">
-                <p class="hover-name"></p>
-                <p>Click on a project centroid to see more details</p>
+            <div id="hover-details" style="display:flex" class="center-hover-map-area">
+                <p id = "info-bar">Click on a project centroid to see more details</p>
+                <p id="details" class="hide">
+                </p>
+                
             </div>
-            <div id = 'project-legend-details' class="center-hover-map-area">
-              <!-- <div id = 'prefix-legend' class="legend-prefix">
-                <p>Countries with </p>
-              </div> -->
-              <div id = 'projects-legend'>
-                <p><img src= '../images/dot-black.png' width="9" height="9"/> <span style="color:#929DB3">TM Project Centroids</span> </p>
+            <div id = 'project-legend-details' style="display:flex" class="center-hover-map-area">
+              <div id = 'centroid-legend'>
+                <p><img src= '../images/dot-black.png' width="10" height="10"/> <span style="color:#929DB3">TM Project Centroids</span> </p>
               </div> &nbsp;
-              <div id = 'active-legend'>
+              <div id = 'polygon-legend'>
                   <p><img src= '../images/polygon-black.png' width="10" height="10"/><span  style="color:#929DB3"> TM Project Boundaries</span></p>
               </div>&nbsp;
-              <div id = 'member-legend'>
+              <div id = 'dash-legend'>
                   <p><img src= '../images/polygon-dash.png' width="10" height="10"/> <span style="color:#929DB3"> Project Coverage Area</span></p>
               </div>
               
