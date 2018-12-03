@@ -5,8 +5,9 @@ Deadline Date: 2018-12-31 00:00:00 Z
 Place of Work: Jakarta, Indonesia
 ---
 
-Location: Jakarta, Indonesia
-Reports to: Indonesian Country Manager
+**Location:** Jakarta, Indonesia
+
+**Reports to:** Indonesian Country Manager
 
 **Background**
 
