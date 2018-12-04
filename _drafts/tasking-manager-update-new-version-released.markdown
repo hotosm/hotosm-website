@@ -10,7 +10,7 @@ Working Group:
 - Technical
 ---
 
-October and November have been busy months and today we updated the [Tasking Manager](https://tasks.hotosm.org/) with new features and fixes. We received nearly 60 different commits from around the globe through [Hacktoberfest](https://hacktoberfest.digitalocean.com/) in October. In November we've worked to review and integrate these contributions. The new work included documentation updates, layout improvements, and bug fixes large and small. Below is a run down of what we completed and how it will impact your mapping.
+October and November have been busy months and today we updated the [Tasking Manager](https://tasks.hotosm.org/) with new features and fixes. We received nearly 60 different commits from around the globe through [Hacktoberfest](https://hacktoberfest.digitalocean.com/) in October. In November we've worked to review and integrate these contributions. The new work included documentation updates, layout improvements, and bug fixes large and small. Below is a rundown of what we completed and how it will impact your mapping.
 
 Want to hear more about what’s next or see some of the [new features live](https://tasks.hotosm.org/)? Join us on Tuesday for the monthly Tech Working Group meeting. Check out the meeting details. 
 
@@ -21,8 +21,8 @@ We’ve improved the layout of the mapping tab to better separate the different 
 
 ![tm-mapping-layout.png](/uploads/tm-mapping-layout.png) 
 
-### New layout for history of a task
-We improved the layout for the history of a task for readability. It is helpful to see the state and the progress of the task grid and the new layout improves readability by separating history by user, color coding the status according to the map, and ordering by most recently updated. 
+### New layout for the history of a task
+We improved the layout for the history of a task for readability. It is helpful to see the state and the progress of the task grid and the new layout improves readability by separating history by a user, color coding the status according to the map, and ordering by most recently updated. 
 
 ![tm-history.png](/uploads/tm-history.png)
 
@@ -32,7 +32,7 @@ You can now write in Markdown for the task description and contribute card. This
 ![tm-markdown-comments.png](/uploads/tm-markdown-comments.png)
 
 ### Expert Mode foundation
-Expert mode will be a new function for exposing more advanced mapping or validation features. We started the foundation for this mode and you are able to turn if on via your profile. Expert mode will include improved links to Achavi and enabling opening of Overpass queries to compare specific task changes. The new features are not fully implemented yet but will be available in the next few releases. 
+Expert mode will be a new function for exposing more advanced mapping or validation features. We started the foundation for this mode and you are able to turn it on via your profile. Expert mode will include improved links to Achavi and enabling opening of Overpass queries to compare specific task changes. The new features are not fully implemented yet but will be available in the next few releases. 
 
 ![tm-expert-mode.png](/uploads/tm-expert-mode.png)
 
@@ -45,7 +45,7 @@ When building web applications, you're bound to run into browser issues or other
 
 - When paging through the Contribute page, each new page brings you back to the top
 
-- Fixed some map legend issues and the mini map sizing issue on certain screen sizes 
+- Fixed some map legend issues and the minimap sizing issue on certain screen sizes 
 
 Check out the release versions for a full changelog: https://github.com/hotosm/tasking-manager/releases. 
 
