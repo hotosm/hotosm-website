@@ -2,7 +2,7 @@
 title: Building Disaster Resilient Countries/Cities Through Open Spatial Data and
   Exposure Analysis.
 date: 2018-12-04 12:18:00 Z
-Feature Image: "/uploads/IMG_2500.JPG"
+Feature Image: "/uploads/compressed-digitzation.jpg"
 Person: Hawa Adinani
 Country:
 - Tanzania
