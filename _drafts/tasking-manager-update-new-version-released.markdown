@@ -2,14 +2,15 @@
 title: 'Tasking Manager Update: New Version Released!'
 date: 2018-12-04 01:44:00 Z
 Summary Text: As December has started we’ve also released another update to the Tasking
-  Manager. Head to tasks.hotosm.org and start mapping to check them out.
+  Manager. Head to [tasks.hotosm.org](https://tasks.hotosm.org/) and start mapping
+  to check them out.
 Feature Image: "/uploads/tm-history-update.png"
 Person: Nate Smith
 Working Group:
 - Technical
 ---
 
-October and November have been busy months and today we updated the [Tasking Manager](https://tasks.hotosm.org/) with new features and fixes. We received nearly 60 different commits from around the globe through [Hacktoberfest](https://hacktoberfest.digitalocean.com/) in October. In November we're worked to review and integrate the contributions. The new work ranged from documentation updates, layout updates, to bug fixes large and small. Below is a run down of what we completed and how it will impact your mapping.
+October and November have been busy months and today we updated the [Tasking Manager](https://tasks.hotosm.org/) with new features and fixes. We received nearly 60 different commits from around the globe through [Hacktoberfest](https://hacktoberfest.digitalocean.com/) in October. In November we've worked to review and integrate these contributions. The new work included documentation updates, layout improvements, and bug fixes large and small. Below is a run down of what we completed and how it will impact your mapping.
 
 Want to hear more about what’s next or see some of the [new features live](https://tasks.hotosm.org/)? Join us on Tuesday for the monthly Tech Working Group meeting. Check out the meeting details. 
 
