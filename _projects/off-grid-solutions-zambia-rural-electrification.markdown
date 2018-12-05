@@ -13,6 +13,7 @@ Impact Area:
 - Clean Energy
 Person:
 - Riley Moepswa
+- Paul Uithol
 Partner:
 - International Finance Corporation (IFC)
 ---
