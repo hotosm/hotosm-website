@@ -9,7 +9,7 @@ Working Group:
 - 
 ---
 
-We are happy to share latest information about the 5th HOT Summit, the annual gathering of the Humanitarian OpenStreetMap Team community, which is next year coming to the picturesque city of Heidelberg!
+We are happy to share latest information about the 5th HOT Summit which is next year coming to the picturesque city of Heidelberg!
 
 After great events in Washington, Brussels, Ottawa and Dar es Salaam, we are very looking forward to gathering again in the heart of Europe and hope you’ll join us there, September 19th and 20th!
 
