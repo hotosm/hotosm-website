@@ -1,7 +1,6 @@
 ---
 title: HOT Summit 2019 is coming to Heidelberg
 date: 2018-12-11 14:57:00 Z
-published: false
 Feature Image: "/uploads/HOT%20Summit%202018.jpg"
 Is image top aligned: true
 Person: Melanie Eckle
