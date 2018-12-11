@@ -10,6 +10,7 @@ Working Group:
 ---
 
 We are happy to share latest information about the 5th HOT Summit, the annual gathering of the Humanitarian OpenStreetMap Team community, which is next year coming to the picturesque city of Heidelberg.
+
 After great events in Washington, Brussels, Ottawa and Dar es Salaam, we are very looking forward to gathering again in the heart of Europe and hope you’ll join us there, September 19th and 20th!
 
 HOT Summit 2019 as well as the immediately preceding State of the Map, the global OpenStreetMap conference, will be hosted by [Heidelberg University](https://2019.stateofthemap.org/). Therefore, members of the OSM and HOT community will have the chance to visit both events and spend a whole 5 days to mingle, share ideas, discuss current topics- and most importantly Bridge the Map, the theme for the [State of the Map 2019](http://summit2019.hotosm.org/). Find more about the Summit 2019 and get latest updates here.
