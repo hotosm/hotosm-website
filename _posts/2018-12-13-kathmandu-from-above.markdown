@@ -1,8 +1,6 @@
 ---
 title: Kathmandu from above
 date: 2018-12-13 15:58:00 Z
-Summary Text: KLLC is working directly with HOT on the digitization and the subsequent
-  building exposure survey of Kathmandu Valley.
 Feature Image: "/uploads/Screen%20Shot%202018-12-13%20at%2008.06.34-ea3319.png"
 Person: Gaurav Shumsher Thapa
 Country:
@@ -36,11 +34,11 @@ Almost 19,000 of these buildings were modifications that were carried out during
 
 
 ![image6-691d19.png](/uploads/image6-691d19.png)
-*Image 2: Homogenous Zone 1- Bhaktapur with previous data overlayed on Bing imagery
+*Image 2: Homogenous Zone 1- Bhaktapur with previous data overlayed on Bing imagery*
 
 
 ![image3.png](/uploads/image3.png)
-Image 3: Homogenous Zone 1- Bhaktapur with latest data overlayed on New imagery*
+*Image 3: Homogenous Zone 1- Bhaktapur with latest data overlayed on New imagery*
 
 One of the challenges of working with OSM in Nepal is that there are many people from outside the country who want to help map Kathmandu due to the surge in need of mapping post-Earthquake. Unfortunately, this leads to a lot of beginner mappers ‘learning by doing’ in Kathmandu. The density of the buildings makes this very challenging which can lead to scenarios where mappers create overlapping buildings using multiple image sources.
 
