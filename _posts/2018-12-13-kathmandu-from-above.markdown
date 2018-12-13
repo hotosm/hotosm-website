@@ -1,6 +1,8 @@
 ---
 title: Kathmandu from above
 date: 2018-12-13 15:58:00 Z
+Summary Text: KLLC is working directly with HOT on the digitization and the subsequent
+  building exposure survey of Kathmandu Valley.
 Feature Image: "/uploads/Screen%20Shot%202018-12-13%20at%2008.06.34-ea3319.png"
 Person: Gaurav Shumsher Thapa
 Country:
