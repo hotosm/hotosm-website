@@ -11,7 +11,7 @@ Project:
 
 **Project**
 
-Kathmandu Living Labs Consult (KLLC) is working together with the Humanitarian OpenStreetMap Team (HOT) on the Modelling Exposure through Earth Observation Routines (METEOR) project. Our work is part of a larger collaboration between HOT, the British Geological Survey, ImageCat, and the UK Space Agency International Partnership Programme. This overall project is focused on developing innovative applications of earth observation (EO) technologies to improve understanding of exposure to help minimise risks from natural hazards. KLLC is working directly with HOT on the digitization and the subsequent building exposure survey of Kathmandu Valley. 
+Kathmandu Living Labs (KLL) is working together with the Humanitarian OpenStreetMap Team (HOT) on the Modelling Exposure through Earth Observation Routines (METEOR) project. Our work is part of a larger collaboration between HOT, the British Geological Survey, ImageCat, and the UK Space Agency International Partnership Programme. This overall project is focused on developing innovative applications of earth observation (EO) technologies to improve understanding of exposure to help minimise risks from natural hazards. We are working directly with HOT on the digitization and the subsequent building exposure survey of Kathmandu Valley. 
 
 **State of the Map: Kathmandu Valley**
 
@@ -79,5 +79,5 @@ However, the mapping effort was not limited to buildings. Nor was it limited to 
 
 These stats also show that periodic concentrated efforts of mapping is vital for countries like Nepal where the OSM community is not as robust as in Europe or the Americas. The amount of error correction that had to be done also tells us that (i) even remote mapping should be led locally and (ii) adequate focus must be given to periodic updating, gardening,  and cleaning of data in order to best utilize the OSM data that has been generated.  
 
-For the project, KLLC will continue to work with HOT for the next three months to field validate and add building attributes to as many as 3,000 of these traced buildings. 
+For the project, we will continue to work with HOT for the next three months to field validate and add building attributes to as many as 3,000 of these traced buildings. 
 
