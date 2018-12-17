@@ -47,7 +47,7 @@ Twenty core mappers entered the field to collect and validate data on the state 
 
 YOTAN provided a drone to capture up-to-date, high-resolution images of our target communities, which facilitated successful remote mapping of buildings footprint. Using a community mapping approach, we have mapped over two thousand buildings, hundreds of water, drainage, and solid waste lines, and dozens of key service facilities. Meanwhile our historic flood points dataset extends across the entire Clara Town and Doe Community.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/vzMcfJpIax4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzMcfJpIax4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Drone footage of a flooded community*
 
