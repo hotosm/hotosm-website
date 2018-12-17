@@ -1,7 +1,7 @@
 ---
 title: 'My Experience as a Student Mapper: Open Cities Accra'
 date: 2018-12-16 12:10:00 Z
-Feature Image: "/uploads/01-776952.jpg"
+Feature Image: "/uploads/02-4337cb.jpg"
 Is image top aligned: true
 Person: David Luswata
 Working Group:
@@ -52,4 +52,4 @@ Participating in the Open Cities Project has given me knowledge and skills in ho
 
 For more information about the Open Cities Accra project, follow our progress at [https://opencitiesproject.org/accra/](https://opencitiesproject.org/accra/) and [http://mobilewebghana.org/blog/](http://mobilewebghana.org/blog/).
 
-*Field narrative by **Chris Eshun**, third-year Geomatic Engineering student and[YouthMappers](http://youthmappers.org/)Training Coordinator at [University of Mines and Technology](https://www.umat.edu.gh/Home/). Co-authored by **Eli Sabblah**, Project Coordinator at [Mobile Web Ghana](http://mobilewebghana.org/), **David Luswata**, Technical Advisor at Humanitarian OpenStreetMap Team ([HOT](http://hotosm.org/)), and **Grace Doherty**, Geospatial Consultant at OpenDRI.*
+*Field narrative by **Chris Eshun**, third-year Geomatic Engineering student and [YouthMappers](http://youthmappers.org/) Training Coordinator at [University of Mines and Technology](https://www.umat.edu.gh/Home/). Co-authored by **Eli Sabblah**, Project Coordinator at [Mobile Web Ghana](http://mobilewebghana.org/), **David Luswata**, Technical Advisor at Humanitarian OpenStreetMap Team ([HOT](http://hotosm.org/)), and **Grace Doherty**, Geospatial Consultant at OpenDRI.*
