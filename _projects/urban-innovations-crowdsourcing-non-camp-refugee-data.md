@@ -32,11 +32,11 @@ tm_campaigns:
 - Crowdsourcing Non-Camp Refugee Data
 Documents:
   - title: Title 1
-    link: http://example.com
+    link: https://docs.google.com/spreadsheets/d/1oyFJyk3ZQDGMURR2VxcxyhPDZiQO0eMlxGNl25hVyEI/edit#gid=1045622858
   - title: Title 2
-    link: http://example.com
+    link: https://docs.google.com/spreadsheets/d/1oyFJyk3ZQDGMURR2VxcxyhPDZiQO0eMlxGNl25hVyEI/edit#gid=1045622858
   - title: Document Archive
-    link: http://example.com
+    link: https://drive.google.com/drive/u/1/folders/1LW7RbSO4TK5VmKTMS2eyQ9NfMpZjks0u
 Data:
   - title: OSM Data
     link: http://example.com

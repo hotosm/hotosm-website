@@ -157,10 +157,22 @@ layout: default
                                     {{ content }}
                                 </div>
                                 <div class="fade"></div>
+                                
+                            </div>
+                            <div class="panel-wrapper">
+                                <iframe height=300 width =450 style="margin-top:50px; border: 2px solid black;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS6FsnVNnKpdiJEvUfU_ZW8yUvnz9pk2nD6d67OkYz6nU5yOspSJThZe4BotZ1RJw85gP9lG3ahkPTP/pubhtml?widget=true&amp;headers=false"></iframe>
+                                <iframe height=300 width =450 style="margin-top:50px;margin-left:40px;border: 2px solid black;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS6FsnVNnKpdiJEvUfU_ZW8yUvnz9pk2nD6d67OkYz6nU5yOspSJThZe4BotZ1RJw85gP9lG3ahkPTP/pubhtml?widget=true&amp;headers=false"></iframe>
+                                <button id="view-archive" style="margin-top:20px; width:950px; height: 50px;  color: #fff;
+                                background: #2C3038; font-size: 16px">View document archive on drive</button>
+                            </div>
+                            <div class="panel-wrapper">
+                               
                             </div>
                         </div>
                     </div>
-
+                    
+                    
+                                
                 </section>
 
                 <aside class="meta">
@@ -206,13 +218,22 @@ layout: default
                         <h5>Duration</h5>
                         <p>{{ page.Duration['Start Date'] | date: "%e %b, %Y" }} – {{ page.Duration['End Date'] | date: "%e %b, %Y" }}</p>
                     </div>
-
-                    {% if page.Documents %}
+                    {% if page.Data %}
                     <div class="meta-item">
-                        <h5>Documents</h5>
+                        <h5>Data</h5>
                         <ul>
-                        {% for document in page.Documents %}
-                            <li><a href="{{ document.link }}">{{ document.title }}</a></li>
+                        {% for data in page.Data %}
+                            <li><a href="{{ data.link }}">{{ data.title }}</a></li>
+                        {% endfor %}
+                        </ul>
+                    </div>
+                    {% endif %}
+                    {% if page.Tools %}
+                    <div class="meta-item">
+                        <h5>Tools</h5>
+                        <ul>
+                        {% for tool in page.Tools %}
+                            <li><a href="{{ tool.link }}">{{ tool.tool }}</a></li>
                         {% endfor %}
                         </ul>
                     </div>
@@ -221,7 +242,7 @@ layout: default
                 </aside>
 
             </div>
-
+            
         </article>
         <!--////////////////////////////////-->
         <!--///////// Project News /////////-->
