@@ -1,5 +1,5 @@
 ---
-title: Information Management Associate
+title: Information Management Associate-Uganda
 date: 2018-12-18 16:04:00 Z
 Deadline Date: 2018-12-31 00:00:00 Z
 Place of Work: Based in Kampala and various locations in northern and western Uganda
