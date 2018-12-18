@@ -41,7 +41,7 @@ There will be a need for skilled organisation of personnel, workflows and data, 
 *Adapt to changing project priorities and support other  duties as assigned.
 
 ***About You***
-*Strong ICT and information management skills and eagerness/ability to learn new technologies.
+* Strong ICT and information management skills and eagerness/ability to learn new technologies.
 *Experience of OpenSource GIS and Data Management tools (and content).
 *Commitment to OpenSource ethos.
 *Humanitarian values, community focus, and field empathy. 
