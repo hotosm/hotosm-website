@@ -18,7 +18,7 @@ Geospatial data collection at Alogboshie has been a key activity for understandi
 
 ![01-b3940b.jpg](/uploads/01-b3940b.jpg)
 
-*Student mappers in the field collect data using mobile survey apps*
+*Chris working with other mappers in the field to collect data using mobile survey apps*
 
 [OpenStreetMap](https://www.openstreetmap.org/) (OSM) is a freely accessible and editable map of the world, which means anyone can contribute to it and participate in a collaborative mapping workflow. But few gain the chance to see the other side of the collaborative mapping process: when field mappers take to the streets gathering information on critical infrastructure and hazard-prone sites. We asked Chris Eshun, one of the mappers who worked on the Open Cities Accra project, to offer readers a first hand look at what it’s like to be part of a community mapping team in Ghana. This is what he had to share:
 
