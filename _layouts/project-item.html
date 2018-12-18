@@ -183,7 +183,7 @@ layout: default
                     </div>
                     {% endif %} {% if page['Impact Area'][0] != '' %}
                     <div class="meta-item project-impact">
-                        <h5>Impact Areas</h5>
+                        <h5>Impact Areas  <object height="16" width="16" data="/images/target.svg" type="image/svg+xml"></object></h5>
                         <ul>
 
                             {% for area in page['Impact Area'] %} {% for impact-area in site.impact-areas %} {% if area == impact-area.title %}
@@ -194,7 +194,7 @@ layout: default
                     </div>
                     {% endif %} {% if page.Person[0] != '' %}
                     <div class="meta-item">
-                        <h5>Coordination</h5>
+                        <h5>Coordination <object height="16" width="16" data="/images/users.svg" type="image/svg+xml"></object></h5>
                         <ul>
 
                             {% for coordinator in page.Person %} {% for person in site.people %} {% if coordinator == person.title %}
@@ -205,7 +205,7 @@ layout: default
                     </div>
                     {% endif %} {% if page.Partner[0] != '' %}
                     <div class="meta-item">
-                        <h5>Partners</h5>
+                        <h5>Partners <object height="16" width="16" data="/images/link.svg" type="image/svg+xml"></object></h5>
                         <ul>
                             {% for page-partner in page.Partner %}
                             <li>{{ page-partner }}</li>
@@ -215,12 +215,12 @@ layout: default
                     {% endif %}
 
                     <div class="meta-item">
-                        <h5>Duration</h5>
+                        <h5>Duration <object height="16" width="16" data="/images/clock.svg" type="image/svg+xml"></object></h5>
                         <p>{{ page.Duration['Start Date'] | date: "%e %b, %Y" }} – {{ page.Duration['End Date'] | date: "%e %b, %Y" }}</p>
                     </div>
                     {% if page.Data %}
                     <div class="meta-item">
-                        <h5>Data</h5>
+                        <h5>Data <object height="16" width="16" data="/images/map.svg" type="image/svg+xml"></object></h5>
                         <ul>
                         {% for data in page.Data %}
                             <li><a href="{{ data.link }}">{{ data.title }}</a></li>
@@ -230,7 +230,7 @@ layout: default
                     {% endif %}
                     {% if page.Tools %}
                     <div class="meta-item">
-                        <h5>Tools</h5>
+                        <h5>Tools <object height="16" width="16" data="/images/cog.svg" type="image/svg+xml"></object></h5>
                         <ul>
                         {% for tool in page.Tools %}
                             <li><a href="{{ tool.link }}">{{ tool.tool }}</a></li>
@@ -313,3 +313,4 @@ layout: default
     <script src="https://cdn.jsdelivr.net/npm/@turf/turf@5/turf.min.js"></script>
     <script src="{{ "/js/project-map.js" | prepend: site.baseurl }}"></script>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
+    
