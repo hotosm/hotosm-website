@@ -7,8 +7,11 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSccvsLc5Fo0LOwMD426Gr6
 ---
 
 **Contract duration:** 3 months, option of extension based on funding availability
+
 **Location:** Based in Kampala and various locations in northern and western Uganda
+
 **Reports to:** Country Manager
+
 **Starting date:** January 2018
 
 ## About HOT
