@@ -20,7 +20,7 @@ Country:
 
 It has now been a little over a year since we began partnering with Facebook to map the road network of Indonesia. In December of 2017 a team in our Jakarta office began cleaning up the existing road network as preparation for filling the gaps using a machine learning technique developed by Facebook.
 ![Indonesia Roads April 2018](/uploads/IDN_road_density_Sula_Kali_04_01_2018_transparent.png)
-![Indonesia Roads December 2018](/uploads/IDN_road_density_Sula_Kali_12_01_2018_transparent.png)
+![Indonesia Roads December 2018](/uploads/IDN_road_density_Sula_Kali_12_01_2018_transparent.png =250x)
 !<img src="/uploads/IDN_road_density_Sula_Kali_12_01_2018_transparent.png" width="250" />
 
 While the AI assisted roads created by the Facebook team helped to speed up mapping, it was an educated guess on how long it would take to review and merge the results for all of Indonesia. Given much of our timeline is also dictated by the local community.
