@@ -1,16 +1,16 @@
 ---
 title: 1 Year & 1 Hundred-Thousand Kilometers with HOT & Facebook
-date: 2018-12-19 18:39:00 Z
+date: 2018-12-20 18:39:00 Z
 categories:
 - Indonesia
 - Mapping
 tags:
 - AI-Assisted
 - Roads
-Summary Text: It has now been a little over a year since we began partnering with
-  Facebook to map the road network of Indonesia. The HOT Indonesia team has added
-  about 125,000 kilometers (80,000 miles) of road network to Indonesia so far using
-  a machine learning technique developed by Facebook.
+Summary Text: It has been a little over a year since we began partnering with Facebook
+  to map the road network of Indonesia. The HOT Indonesia team has added about 125,000
+  kilometers (80,000 miles) of road to Indonesia so far using a machine learning technique
+  developed by Facebook.
 Feature Image: "/uploads/IDN_road_density_Sula_Kali_12_01_2018_transparent.png"
 Person: Russell Deffner
 Country:
