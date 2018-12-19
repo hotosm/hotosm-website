@@ -1,7 +1,6 @@
 ---
 title: 1 Year & 1 Hundred-Thousand Kilometers with HOT & Facebook
 date: 2018-12-19 18:39:00 Z
-published: false
 categories:
 - Indonesia
 - Mapping
