@@ -2,7 +2,7 @@
 title: Call for CVs- Country Managers for Participatory Mapping and Data Collection
   Projects
 date: 2018-11-21 19:06:00 Z
-Deadline Date: 2018-12-21 00:00:00 Z
+Deadline Date: 2018-12-31 00:00:00 Z
 Place of Work: Global
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScNN4QiDh7Oj0h_dmPeVAk0suGi2K3FMxOjbhYnpEm-WEtm7g/viewform
 ---
