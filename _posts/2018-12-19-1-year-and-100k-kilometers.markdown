@@ -28,7 +28,7 @@ While the AI assisted roads created by the Facebook team helped to speed up mapp
 
 The HOT Indonesia team is currently adding about 20,000 kilometers (12,500 miles) of road network per month on average to OpenStreetMap; adding-up-to \~125,000 kilometers (80,000 miles) of road network to Indonesia so far.
 
-![Kilometers per Month](/uploads/IndonesiaKilometers.png)
+![Kilometers.png](/uploads/Kilometers.png)
 
 The team has also focussed on mapping for disaster response when we teamed up with the Facebook mapping team to map in Kerala, India during the severe flooding this year and, as you may be aware, there was a powerful earthquake and tsunami that hit Sulawesi island, Indonesia in late September. Although we had finished the road network on the island, a buildings mapping project was needed for the local disaster management agencies. Facebook had no qualms with our team helping to validate the data from that mapping response.
 
