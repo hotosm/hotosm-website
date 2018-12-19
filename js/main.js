@@ -93,39 +93,3 @@ const collapse = (selector, cmd) => {
   });
 }
 
-
-document.addEventListener("DOMContentLoaded", function(event) {
-  
-  function setOptOutText(element) {
-    _paq.push([function() {
-      element.checked = !this.isUserOptedOut();
-      document.querySelector('label[for=optout] strong').innerText = this.isUserOptedOut()
-        ? 'You are currently opted out. Click here to opt in.'
-        : 'You are currently opted in. Click here to opt out.';
-    }]);
-  }
-
-  var optOut = document.getElementById("optout");
-  optOut.addEventListener("click", function() {
-    if (this.checked) {
-      _paq.push(['forgetUserOptOut']);
-    } else {
-      _paq.push(['optUserOut']);
-    }
-    setOptOutText(optOut);
-  });
-  setOptOutText(optOut);
-  if (!localStorage.getItem("optout-closed")) {
-    $("#optout-form").addClass("optout-show");
-  }
-
-
-  $('.optout-close').click(function() {
-    $("#optout-form").removeClass("optout-show");
-    localStorage.setItem("optout-closed", 1);
-  });
-});
-
-
-
-
