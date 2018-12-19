@@ -2526,6 +2526,26 @@ $bg-color: rgb(100,100,100);
   }
 }
 
+.iframe-container{
+  display: inline-table;
+  width: 100%; 
+  }
+.gsheet-iframe{
+display: table-cell;
+width: 45%; 
+margin-top:50px;
+border: 2px solid black;
+}
+.right{
+  float:right;
+}
+.left{
+  float:left;
+}
+.archive-link{
+  margin-top: 25px;
+}
+
 #map {
   position: absolute;
   top: 0;
@@ -5026,4 +5046,6 @@ sup {
   text-decoration: underline;
   cursor: pointer;
 }
+
+
 
