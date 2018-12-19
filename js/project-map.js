@@ -33,8 +33,8 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24
 var map = new mapboxgl.Map({
   container: 'map',
   logoPosition: 'bottom-left',
-  // scrollZoom: false,
-  // dragRotate: false,
+  scrollZoom: false,
+  dragRotate: false,
   maxZoom: 18,
   minZoom: 1.25,
   zoom: 1.25,
@@ -43,17 +43,12 @@ var map = new mapboxgl.Map({
 })
 
 const loadMapLayers = () => {
-  console.log('Load Map Layers')
-  console.log('loadMapLayers() tmProjectPolygons: ', JSON.stringify(tmProjectPolygons))
-  console.log('loadMapLayers() tmProjectCentroids: ', JSON.stringify(tmProjectCentroids))
   polygon[0].push(polygon[0][0])
-  console.log('loadMapLayers() polygon: ', polygon)
   polygon = turf.polygon(polygon)
   var bbox = turf.bbox(tmProjectCentroids);
-  console.log('bbox: ', bbox)
-  
   var allProjectCentroid = turf.centroid(polygon)
   map.flyTo({center: allProjectCentroid.geometry.coordinates})
+  var minZoom = map.getZoom()
   map.addSource('tmProjectPolygons', {
     'type': 'geojson',
     'data': tmProjectPolygons
@@ -67,7 +62,7 @@ const loadMapLayers = () => {
     'id': 'tm-projects-polygons',
     'type': 'fill',
     'source': 'tmProjectPolygons',
-    'minzoom': 0,
+    'minzoom': minZoom + 4.5,
     'maxzoom': 19,
     'paint': {
       'fill-opacity': 0.2,
@@ -79,7 +74,7 @@ const loadMapLayers = () => {
     'id': 'tm-projects-black-circle',
     'type': 'circle',
     'source': 'tmProjectCentroids',
-    'minzoom': 0,
+    'minzoom': minZoom,
     'maxzoom': 19,
     'paint': {
       'circle-radius': 5,
@@ -92,7 +87,7 @@ const loadMapLayers = () => {
     'id': 'tm-projects-symbol',
     'type': 'symbol',
     'source': 'tmProjectCentroids',
-    'minzoom': 0,
+    'minzoom': minZoom,
     'maxzoom': 19,
     'layout': {
       'text-field': '+',
@@ -106,7 +101,6 @@ const loadMapLayers = () => {
   }, 'place-city-sm')
 
   if (projectExtent !== '') {
-    console.log('Custom Project Extent detected')
     var projectExtentJSON
     fetch('.' + projectExtent)
       .then(function (response) {
@@ -137,20 +131,41 @@ const loadMapLayers = () => {
   }, setTimeout(() => {
     var boxZoom = map.getZoom();
     map.setMinZoom(boxZoom);
-    // map.getLayer('tm-projects-polygons').minzoom = boxZoom + 2
-    // map.getLayer('tm-projects-black-circle').minzoom = boxZoom
-    // map.getLayer('tm-projects-symbol').minzoom = boxZoom
   }, 2000));  
 }
 
 map.on('load', function () {
-  $('.mapboxgl-ctrl').addClass('hide')
+  // $('.mapboxgl-ctrl').addClass('hide')
   $('#loading-map').detach()
   map.addSource('countriesbetter', {
     'type': 'vector',
     'url': 'mapbox://hot.6w45pyli'
   })
 })
+map.addControl(new mapboxgl.NavigationControl())
+map.on('mousemove', function(e) {
+  var features = map.queryRenderedFeatures(
+    [e.point.x, e.point.y],
+    {layers: ['tm-projects-black-circle', 'tm-projects-symbol']}
+  );
+  if (features.length) {
+    map.getCanvas().style.cursor = 'pointer';
+    $("#hover-details").empty();
+    $("#hover-details").removeClass('hide');
+    $("#hover-details").append(
+      '<p class="hover-name">' + 
+      '<a target="_blank" href="https://tasks.hotosm.org/project/' +
+      features[0].properties.id + 
+      '">#' + features[0].properties.id +'</a>' +
+        " - " +
+        features[0].properties.name + '</p>' +
+        '<p id="proj-details">Click on the project to see more details</p>'
+    
+    );
+    
+  }
+  
+});
 
 map.on('click', function(e) {
   var features = map.queryRenderedFeatures(
@@ -158,18 +173,19 @@ map.on('click', function(e) {
     {layers: ['tm-projects-black-circle', 'tm-projects-symbol']}
   );
   if (features.length) {
-    document.getElementById('info-bar').classList.add('hide')
-    document.getElementById('details').classList.remove('hide')
-    $('#details').empty()
-    $('#details').append(
-      '<p id= "details-id"><a target="_blank" href="https://tasks.hotosm.org/project/' + features[0].properties.id +'">'+ features[0].properties.id +' - ' +
-      features[0].properties.name + '</a></p>' +
-      '<p id = "details-mappers">Mappers: ' + features[0].properties.mappers + '</p>' +
-      '<p id= "details-edits">Edits: ' + features[0].properties.edits + '</p>'
-      
+    $('#proj-details').empty()
+    $('#proj-details').append(
+      '<p style="font-weight:bold" id = "details-mappers">Mappers: ' + features[0].properties.mappers + '</p>' +
+      '<p style="font-weight:bold" id= "details-edits">Edits: ' + features[0].properties.edits + '</p>' 
     )
   }
 });
+
+map.on('mouseleave',  function (e) {
+  map.getCanvas().style.cursor = '';
+  $("#hover-details").empty();
+});
+
 fetch('/allProjects-minified-v2.json')
   .then(function (response) {
     return response.json()
@@ -214,15 +230,8 @@ fetch('/allProjects-minified-v2.json')
           feature.geometry['type'] = 'Point'
           feature.geometry['coordinates'] = allProjects[project][5]
           polygon[0].push(allProjects[project][5])
-          // console.log('From minified file: ', allProjects[project][5])
-          // console.log('Point geometry: ', feature.geometry['coordinates'])
-          // console.log('Point Feature: ', JSON.stringify(feature))
-          // console.log('before pushing: ',JSON.stringify(tmProjectCentroids))
           tmProjectCentroids.features.push(feature)
-          // console.log('After pushing: ', JSON.stringify(tmProjectCentroids))
-          // map.getSource('tmProjectCentroids').setData(tmProjectCentroids)
           options.url = 'https://s3.amazonaws.com/hotosm-stats-collector/' + project + '-aoi.json'
-          // console.log('Fetching from, ', options.url)
           $.ajax({
             url: options.url,
             type: 'GET',
@@ -234,26 +243,16 @@ fetch('/allProjects-minified-v2.json')
                 'geometry': {}
               }
               var aoi = result
-              // console.log(typeof aoi)
               aoi = JSON.parse(JSON.stringify(aoi))
-              // console.log(typeof aoi)
-              // console.log(aoi.properties)
               polygonFeature.properties['area'] = aoi.properties.area
               totalArea += aoi.properties.area
               polygonFeature.geometry = aoi.geometry
-              // console.log('Polygon geometry: ',aoi.geometry)
               tmProjectPolygons.features.push(polygonFeature)
-              // map.getSource('tmProjectPolygons').setData(tmProjectPolygons)
-
-              // console.log('projectCount: ', projectCount)
               if (projectCount === (totalProjects - 1)) {
-                // console.log('Last project reached')
                 document.getElementById('Project-Area').innerHTML = formatedData(Math.round(totalArea))
                 document.getElementById('Total-Map-Edits').innerHTML = formatedData(Math.round(totalEdits))
                 document.getElementById('Community-Mappers').innerHTML = formatedData(Math.round(totalMappers))
                 document.getElementById('Countries-Covered').innerHTML = countryList.length
-                // console.log('tmProjectPolygons: ', tmProjectPolygons)
-                // console.log('tmProjectCentroids: ', tmProjectCentroids)
                 loadMapLayers()
               }
             },
