@@ -16,15 +16,12 @@ var tmProjectPolygons = {
   'features': []
 }
 
-var polygon =[[]]
-console.log(campaignTags)
+var polygon = [[]]
+var minZoom
 campaignTags = campaignTags.split(',')
-console.log('Campaign Tags: ', campaignTags)
-
 var totalArea = 0, totalEdits = 0, totalMappers = 0
 var totalRoads = 0, totalBuildings = 0, totalChangesets = 0
 var countryList = countries.split(',')
-console.log('Country List: ', countryList)
 countryList.forEach((country, countryIndex) => {
   countryList[countryIndex] = country.trim().toLowerCase()
 })
@@ -48,7 +45,7 @@ const loadMapLayers = () => {
   var bbox = turf.bbox(tmProjectCentroids);
   var allProjectCentroid = turf.centroid(polygon)
   map.flyTo({center: allProjectCentroid.geometry.coordinates})
-  var minZoom = map.getZoom()
+  minZoom = map.getZoom()
   map.addSource('tmProjectPolygons', {
     'type': 'geojson',
     'data': tmProjectPolygons
@@ -133,6 +130,13 @@ const loadMapLayers = () => {
     map.setMinZoom(boxZoom);
   }, 2000));  
 }
+map.on('zoom', function() {
+  if (map.getZoom() >= minZoom + 4) {
+    $('#polygon-legend').removeClass('hide')
+  } else {
+    $('#polygon-legend').addClass('hide')
+  }
+})
 
 map.on('load', function () {
   // $('.mapboxgl-ctrl').addClass('hide')

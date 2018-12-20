@@ -52,13 +52,14 @@ layout: default
         <div id = 'centroid-legend'>
             <p><img src= '../../images/dot-black.png' width="10" height="10"/> <span style="color:#929DB3"> TM Project Centroids</span> </p>
         </div> &nbsp;
-        <div id = 'polygon-legend'>
+        <div class="hide" id = 'polygon-legend'>
             <p><img src= '../../images/polygon-black.png' width="10" height="10"/><span  style="color:#929DB3"> TM Project Boundaries</span></p>
         </div>&nbsp;
+        {% if page['project_extent'] %}
         <div id = 'dash-legend'>
             <p><img src= '../../images/polygon-dash.png' width="10" height="10"/> <span style="color:#929DB3"> Project Coverage Area</span></p>
         </div>
-        
+        {% endif %}
         </div>
     
 
