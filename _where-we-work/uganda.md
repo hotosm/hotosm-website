@@ -22,3 +22,4 @@ names:
 - UGA
 ---
 
+![Cool Shammie Training.JPG](/uploads/Cool%20Shammie%20Training.JPG)
