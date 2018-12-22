@@ -1,6 +1,17 @@
 ---
 title: The Search for a Solution
 date: 2018-12-22 17:47:00 Z
+categories:
+- Mapping
+tags:
+- UNHCR
+- United Nations
+- MissingMaps
+- WASH
+- Community
+- Education
+- Schools
+- Refugee
 Summary Text: 'HOT Uganda welcomes interns to teach, learn, and cross-fertilize the
   projects we run. These positions are usually self-funded or voluntary, but HOT fund-raises
   to cover expenses and insurances to make the most of these opportunities. '
