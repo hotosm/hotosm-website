@@ -3,6 +3,9 @@ title: The Search for a Solution
 date: 2018-12-22 17:47:00 Z
 categories:
 - Mapping
+- health
+- analytics
+- Uganda
 tags:
 - UNHCR
 - United Nations
@@ -18,6 +21,14 @@ Summary Text: 'HOT Uganda welcomes interns to teach, learn, and cross-fertilize 
 Is image top aligned:
   Key 1:
     Key 1: 
+Person: Kiggudde Deogratias
+Working Group:
+- Activation
+Country:
+- Uganda
+Project:
+- Missing Maps
+Field name: 
 ---
 
 ***Amna Adrees was recently deployed as an intern for the Humanitarian OpenStreetMap Team (HOT) Uganda project. Here is an account of some of her time in the field.***
