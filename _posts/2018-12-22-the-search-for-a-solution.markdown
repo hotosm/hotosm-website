@@ -42,8 +42,7 @@ There are currently estimated to be \~1.4 million refugees in Uganda. It is here
 I spent my first few days getting oriented in the HOT office in Kampala, and thoroughly enjoying all the city has to offer ([rolex ](https://en.wikipedia.org/wiki/Rolex_(food))stands need to make their way to the States, pronto!). We then headed north to Arua where the huge settlements of Rhino and Imvepi are located.
 
 ![Macintosh HD:Users:amnaadrees:Pictures:iPhoto Library.photolibrary:Masters:2018:07:21:20180721-091643:IMG_2618.JPG](https://lh6.googleusercontent.com/2Yzz8sI11VLYhRnrkNzvrHlQ5Cjs3THj-2S0OjITw8gKxta0TRzx164ZqaA_TsCaDk4BLDo_NkSusCs1EpDgMfFmddxUm8g1GEfzr1VyIoUgyJuw8oiTI3SnxVoK9AI2-V5ueupo)
-*Allan...
-... and Shamillah *![Macintosh HD:Users:amnaadrees:Pictures:iPhoto Library.photolibrary:Masters:2018:07:21:20180721-091750:IMG_2875.JPG](https://lh6.googleusercontent.com/Lgo4gZTZo6irNjlIburZrrRw5L3e48VDRFNHEOy5Siu93Ee_5gHBEu2AznIaXxt7IOu_XmoHK8iIpu8t6nO4Wc7vS7TfRC1ZwcAw58GiUaY3BylCM13cYJgBysSfw8ZNeNNEna6t)*... my amazing partners in crime*
+*Allan... and Shamillah*![Macintosh HD:Users:amnaadrees:Pictures:iPhoto Library.photolibrary:Masters:2018:07:21:20180721-091750:IMG_2875.JPG](https://lh6.googleusercontent.com/Lgo4gZTZo6irNjlIburZrrRw5L3e48VDRFNHEOy5Siu93Ee_5gHBEu2AznIaXxt7IOu_XmoHK8iIpu8t6nO4Wc7vS7TfRC1ZwcAw58GiUaY3BylCM13cYJgBysSfw8ZNeNNEna6t)*...my amazing partners in crime*
 
 **OSM in Refugee-Hosting Schools**
 
