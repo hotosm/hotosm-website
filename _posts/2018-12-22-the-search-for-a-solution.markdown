@@ -41,9 +41,9 @@ There are currently estimated to be \~1.4 million refugees in Uganda. It is here
 
 I spent my first few days getting oriented in the HOT office in Kampala, and thoroughly enjoying all the city has to offer ([rolex ](https://en.wikipedia.org/wiki/Rolex_(food))stands need to make their way to the States, pronto!). We then headed north to Arua where the huge settlements of Rhino and Imvepi are located.
 
-![Macintosh HD:Users:amnaadrees:Pictures:iPhoto Library.photolibrary:Masters:2018:07:21:20180721-091643:IMG_2618.JPG](https://lh6.googleusercontent.com/2Yzz8sI11VLYhRnrkNzvrHlQ5Cjs3THj-2S0OjITw8gKxta0TRzx164ZqaA_TsCaDk4BLDo_NkSusCs1EpDgMfFmddxUm8g1GEfzr1VyIoUgyJuw8oiTI3SnxVoK9AI2-V5ueupo)*Allan.... *
-
-*... and Shamillah *![Macintosh HD:Users:amnaadrees:Pictures:iPhoto Library.photolibrary:Masters:2018:07:21:20180721-091750:IMG_2875.JPG](https://lh6.googleusercontent.com/Lgo4gZTZo6irNjlIburZrrRw5L3e48VDRFNHEOy5Siu93Ee_5gHBEu2AznIaXxt7IOu_XmoHK8iIpu8t6nO4Wc7vS7TfRC1ZwcAw58GiUaY3BylCM13cYJgBysSfw8ZNeNNEna6t)*.... my amazing partners in crime*
+![Macintosh HD:Users:amnaadrees:Pictures:iPhoto Library.photolibrary:Masters:2018:07:21:20180721-091643:IMG_2618.JPG](https://lh6.googleusercontent.com/2Yzz8sI11VLYhRnrkNzvrHlQ5Cjs3THj-2S0OjITw8gKxta0TRzx164ZqaA_TsCaDk4BLDo_NkSusCs1EpDgMfFmddxUm8g1GEfzr1VyIoUgyJuw8oiTI3SnxVoK9AI2-V5ueupo)
+*Allan...*
+*... and Shamillah* ![Macintosh HD:Users:amnaadrees:Pictures:iPhoto Library.photolibrary:Masters:2018:07:21:20180721-091750:IMG_2875.JPG](https://lh6.googleusercontent.com/Lgo4gZTZo6irNjlIburZrrRw5L3e48VDRFNHEOy5Siu93Ee_5gHBEu2AznIaXxt7IOu_XmoHK8iIpu8t6nO4Wc7vS7TfRC1ZwcAw58GiUaY3BylCM13cYJgBysSfw8ZNeNNEna6t).... my amazing partners in crime*
 
 **OSM in Refugee-Hosting Schools**
 
@@ -59,7 +59,7 @@ A bit more about HOT’s mission before I continue: HOT, through training local 
 
 ![Macintosh HD:Users:amnaadrees:Pictures:iPhoto Library.photolibrary:Masters:2018:07:21:20180721-091550:IMG_2791.JPG](https://lh5.googleusercontent.com/Pj14A2hVZ2sFncWVdIa_pQfldieqreVeM0e2f2NjUaZFyNA9RHjfdR8fJnho-gwchWuH1SR2hk1vRB18Ya2PZ9kStVKk1yp0-jL5f-nEc2VoO2EoZLAUZagBM20xYIMyJAw_tn1Q)*Me, trying to explain GPS coordinates to students. I thought I was making sense…*
 
-Shamilah, Allan, and I spent the next three days visiting the schools and training both teachers and students on these two facets of our work. Our first training site, Afua Secondary School, presented the unique challenge of working (in ICT) without a power source. Since we were not able to project the website and guide the trainees as easily as we would’ve liked, Allan improvised, using his amazing drawing skills to replicate the web interface on the chalkboard and direct the students that way. 
+Shamilah, Allan, and I spent the next three days visiting the schools and training both teachers and students on these two facets of our work. Our first training site, Afua Secondary School, presented the unique challenge of working (in ICT) without a power source. Since we were not able to project the website and guide the trainees as easily as we would’ve liked, Allan improvised, using his amazing drawing skills to replicate the web interface on the chalkboard and direct the students that way.
 
 Luckily, power was available at our next site, Rhino High School, so we were able to use the projector. I still remember the energy in the room when we searched for the students’ hometown in South Sudan, Yei, on OSM. Hope, pain, longing, and awe all pervaded through the class as we virtually walked through the streets of Yei. Re-energized by the enthusiasm, we returned to the camps the next day for our final training only to find that due to miscommunication amongst staff members of Imvepi Secondary School, time had not been allotted for our visit - we unfortunately had to leave without training the students at that location.
 
