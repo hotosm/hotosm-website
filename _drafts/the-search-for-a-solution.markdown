@@ -1,7 +1,6 @@
 ---
 title: The Search for a Solution
 date: 2018-12-22 17:47:00 Z
-published: false
 categories:
 - Mapping
 - health
