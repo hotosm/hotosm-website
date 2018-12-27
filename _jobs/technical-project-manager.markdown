@@ -6,9 +6,9 @@ Place of Work: Remote
 Apply Form Link: https://humanitarian-openstreetmap-team.forms.fm/hot-tech-submission/
 ---
 
-**Location: Remote**
-**Anticipated Start Date: 21 January 2019**   
-**Contract length: 9 months**
+**Location: Remote**  
+**Anticipated Start Date: 21 January 2019**  
+**Contract length: 9 months**  
 **Reports to: Director, Technology Innovation**  
 
 Free, up-to-date maps are a critical resource when relief organizations are responding to disasters or political crises. The Humanitarian OpenStreetMap Team (HOT) creates and provides those maps. When major disaster strikes anywhere in the world, HOT rallies a huge network of volunteers to create open data, online in OpenStreetMap, the maps that enable responders to reach those in need.
