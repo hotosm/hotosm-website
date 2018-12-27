@@ -45,4 +45,6 @@ Objective: To research and design a new Tasking Manager mapping workflow that fo
   - Validation workflow
   - Project Manager workflow
 
-Application instructions: Complete online form by January 11. Applications will be reviewed on a rolling basis as they are received. Fill in the application form [here](https://humanitarian-openstreetmap-team.forms.fm/hot-tech-submission/).
+**Application Instructions**
+
+Review project brief and draft a proposal with budget (max 5 pages). Submit proposal via online form by January 11. Applications will be reviewed on a rolling basis as they are received. Fill in the application form [here](https://humanitarian-openstreetmap-team.forms.fm/hot-tech-submission/).
