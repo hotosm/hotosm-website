@@ -42,7 +42,7 @@ var map = new mapboxgl.Map({
 const loadMapLayers = () => {
   polygon[0].push(polygon[0][0])
   polygon = turf.polygon(polygon)
-  var bbox = turf.bbox(tmProjectCentroids);
+  var bbox = turf.bbox(tmProjectCentroids)
   var allProjectCentroid = turf.centroid(polygon)
   map.flyTo({center: allProjectCentroid.geometry.coordinates})
   minZoom = map.getZoom()
@@ -126,11 +126,11 @@ const loadMapLayers = () => {
   map.fitBounds(bbox, {
     // padding: 40
   }, setTimeout(() => {
-    var boxZoom = map.getZoom();
-    map.setMinZoom(boxZoom);
-  }, 2000));  
+    var boxZoom = map.getZoom()
+    map.setMinZoom(boxZoom)
+  }, 2000))  
 }
-map.on('zoom', function() {
+map.on('zoom', function () {
   if (map.getZoom() >= minZoom + 4) {
     $('#polygon-legend').removeClass('hide')
   } else {
@@ -147,48 +147,47 @@ map.on('load', function () {
   })
 })
 map.addControl(new mapboxgl.NavigationControl())
-map.on('mousemove', function(e) {
+map.on('mousemove', function (e) {
   var features = map.queryRenderedFeatures(
     [e.point.x, e.point.y],
     {layers: ['tm-projects-black-circle', 'tm-projects-symbol']}
-  );
+  )
   if (features.length) {
-    map.getCanvas().style.cursor = 'pointer';
-    $("#hover-details").empty();
-    $("#hover-details").removeClass('hide');
-    $("#hover-details").append(
-      '<p class="hover-name">' + 
+    map.getCanvas().style.cursor = 'pointer'
+    $('#hover-details').empty()
+    $('#hover-details').removeClass('hide')
+    $('#hover-details').append(
+      '<p class="hover-name">' +
       '<a target="_blank" href="https://tasks.hotosm.org/project/' +
-      features[0].properties.id + 
-      '">#' + features[0].properties.id +'</a>' +
-        " - " +
+      features[0].properties.id +
+      '">#' + features[0].properties.id + '</a>' +
+        ' - ' +
         features[0].properties.name + '</p>' +
         '<p id="proj-details">Click on the project to see more details</p>'
-    
-    );
+
+    )
     
   }
-  
-});
+})
 
-map.on('click', function(e) {
+map.on('click', function (e) {
   var features = map.queryRenderedFeatures(
     [e.point.x, e.point.y],
     {layers: ['tm-projects-black-circle', 'tm-projects-symbol']}
-  );
+  )
   if (features.length) {
     $('#proj-details').empty()
     $('#proj-details').append(
       '<p style="font-weight:bold" id = "details-mappers">Mappers: ' + features[0].properties.mappers + '</p>' +
-      '<p style="font-weight:bold" id= "details-edits">Edits: ' + features[0].properties.edits + '</p>' 
+      '<p style="font-weight:bold" id= "details-edits">Edits: ' + features[0].properties.edits + '</p>'
     )
   }
-});
+})
 
-map.on('mouseleave',  function (e) {
-  map.getCanvas().style.cursor = '';
-  $("#hover-details").empty();
-});
+map.on('mouseleave', function (e) {
+  map.getCanvas().style.cursor = ''
+  $('#hover-details').empty()
+})
 
 fetch('/allProjects-minified-v2.json')
   .then(function (response) {
@@ -261,21 +260,20 @@ fetch('/allProjects-minified-v2.json')
               }
             },
             error: function (error) {
-              console.log('Error')
             }
           })
         })
       })
   })
 
-  function content(action) {
-    if (action === 'more') {
-      document.getElementById("panel").style.height="100%"
-      document.getElementById("less").style.display="block"
-      document.getElementById("more").style.display="none"
-    } else {
-      document.getElementById("panel").style.height="100px"
-      document.getElementById("more").style.display="block"
-      document.getElementById("less").style.display="none"
-    }
-  } 
+function content (action) {
+  if (action === 'more') {
+    document.getElementById('panel').style.height = '100%'
+    document.getElementById('less').style.display = 'block'
+    document.getElementById('more').style.display = 'none'
+  } else {
+    document.getElementById('panel').style.height = '100px'
+    document.getElementById('more').style.display = 'block'
+    document.getElementById('less').style.display = 'none'
+  }
+}

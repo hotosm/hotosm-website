@@ -44,10 +44,7 @@ layout: default
   {% if page['tm_campaigns'] %}
   
   <div class="project-map-area">
-   
-   
         <div id="hover-details" style="display:block" class="hide center-hover-map-area"></div>
-        <!-- <div id="project-details" style="margin-top:20px;display:block" class="hide center-hover-map-area"></div> -->
         <div id = 'project-legend-details' style="margin-right: 10px;display:flex" class="center-hover-map-area">
         <div id = 'centroid-legend'>
             <p><img src= '../../images/dot-black.png' width="10" height="10"/> <span style="color:#929DB3"> TM Project Centroids</span> </p>
@@ -61,8 +58,6 @@ layout: default
         </div>
         {% endif %}
         </div>
-    
-
         <div id="map">
             <div id="loading-map">
                 <center>
@@ -105,20 +100,6 @@ layout: default
             <span class="tooltiptext">Total number of OSM edits</span>
         </p>
     </div>
-    <!-- <div class="hr-v hide-sm"></div>
-    <div class="home-stat">
-        <p class="stat-number" id="Buildings-Mapped"></p>
-        <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
-            <span class="tooltiptext">Total number of buildings mapped</span>
-        </p>
-    </div>
-    <div class="hr-v"></div>
-    <div class="home-stat">
-        <p class="stat-number" id="Roads-Mapped"></p>
-        <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
-            <span class="tooltiptext">Total length of roads mapped</span>
-        </p>
-    </div> -->
 </div>
 
     
@@ -298,12 +279,8 @@ layout: default
     
     <script>
       var countries = "{{ page.Country | join: ', ' }}"
-      var test = "{{ page.tm_campaigns }}"
-      console.log('"' + test + '"') 
       var campaignTags = "{{ page.tm_campaigns | join: ', ' }}"
       var projectExtent = "{{ page.project_extent }}"
-      console.log('From layout: ', campaignTags)
-      console.log('Project Extent: ', projectExtent)
     </script>
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
