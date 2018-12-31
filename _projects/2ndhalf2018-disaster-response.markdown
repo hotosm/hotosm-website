@@ -2,6 +2,15 @@
 title: 'Disaster Response: Typhoons, Tsunami, Ebola, Friaje and More'
 date: 2018-12-31 22:52:00 Z
 published: false
+Country:
+- Indonesia
+- Guinea
+- India
+- Democratic Republic of the Congo
+- Uganda
+- Philippines
+- Peru
+- Laos
 Impact Area:
 - Disaster Response
 Person:
