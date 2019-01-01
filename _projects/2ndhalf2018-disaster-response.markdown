@@ -22,7 +22,7 @@ Person:
 - Russell Deffner
 Duration:
   Start Date: 2018-07-01 00:00:00 Z
-  End Date: 2018-12-31 19:00:00 Z
+  End Date: 2019-01-01 00:00:00 Z
 ---
 
 In 2018, the Humanitarian OpenStreetMap Team (HOT) responded to more incidents than any year ever before; 24 disaster responses. Many have been reported on before, so here we will look at just the last half of the year.
