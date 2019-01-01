@@ -38,7 +38,7 @@ In September we had more issues with water and weather; responding to floods in 
 
 We also supported a few smaller responses in Indonesia and Mexico in response to earthquakes and flooding in Veracruz. Most significantly the two areas in Indonesia hit by tsunamis: one following an earthquake in November on Saluwesi island, and recently the tsunami that followed the eruption of the Krakatao Volcano in the Sunda Strait - impacting both Java and Sumatra islands. The response to the latter incident is still active, and so far, 175 contributors have helped add 467 kilometers of road network and over 67,000 buildings.
 
-Last, and potentially most important, the mapping to fight Ebola has not stopped since earlier in the year. In September it became even more significant as the risk for the disease to move from the Democratic Replic of Congo, to Uganda, was high. As of the beginning of December 2018, we have collectively mapped almost 400,000 features - including over 8000 kilometers of road network and 300,000 buildings.
+Last, and potentially most important, the mapping to fight Ebola has not stopped since earlier in the year. In September it became even more significant as the risk for the disease to move from the Democratic Republic of Congo, to Uganda, was high. As of the beginning of December 2018, we have collectively mapped almost 400,000 features - including over 8000 kilometers of road network and 300,000 buildings.
 
-There may not be a lot of hope for less disasters in 2019, but over 1700 individauls have contributed to the Ebola response alone, and that should give us all hope for our ability to continue to respond and help those in need for many years to come.
+There may not be a lot of hope for less disasters in 2019, but over 1700 individuals have contributed to the Ebola response alone, and that should give us all hope for our ability to continue to respond and help those in need for many years to come.
 
