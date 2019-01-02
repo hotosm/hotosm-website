@@ -1,7 +1,7 @@
 ---
 title: Information Management Associate-Uganda
 date: 2018-12-18 16:04:00 Z
-Deadline Date: 2018-12-31 00:00:00 Z
+Deadline Date: 2019-01-16 00:00:00 Z
 Place of Work: Based in Kampala and various locations in northern and western Uganda
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSccvsLc5Fo0LOwMD426Gr6puC_E-v25WzEOW0nmHJIMrTWBXA/viewform
 ---
