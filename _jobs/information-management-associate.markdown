@@ -6,7 +6,7 @@ Place of Work: Based in Kampala and various locations in northern and western Ug
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSccvsLc5Fo0LOwMD426Gr6puC_E-v25WzEOW0nmHJIMrTWBXA/viewform
 ---
 
-**Contract duration:** 3 months, option of extension based on funding availability
+**Contract duration:** 5-6 months, option of extension based on funding availability
 
 **Location:** Based in Kampala and various locations in northern and western Uganda
 
