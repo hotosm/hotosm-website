@@ -4,6 +4,7 @@ date: 2016-12-21 15:24:00 Z
 Photo: "/uploads/rebecca-74099a.JPG"
 Member Type:
   Is Staff: true
+  Is Voting Member: true
 Job Title: Community & Partnerships Manager
 Working Group:
 - Fundraising
