@@ -45,6 +45,7 @@ Tools:
     link: http://example.com
   - tool: MapCampaigner
     link: http://example.com
+project_extent: "/uganda.json"
 ---
 
 <p>The “Crowdsourcing Non-Camp Refugee Data Through OpenStreetMap” project aims to improve program planning and&nbsp; service delivery to refugee communities, develop better integration with host communities, and build refugee self-reliance through open map data. The program trains and equips community leaders in refugee communities to map vulnerabilities and assets in the places they live, filling in key data gaps and “blank spots” on the map. These micro-level maps are created using techniques including crowdsourced data collection on mobile phones. The resulting multilanguage maps and map data are then made openly available online in OpenStreetMap, on mobile phones for navigation, in printed form in refugee social/community centers, and provided to host country governments, PRM, UNHCR, and NGOs.

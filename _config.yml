@@ -134,19 +134,20 @@ defaults:
     Duration:
       Start Date: 
       End Date: Ongoing
-    Documents:
-      - title: ''
-        link: ''
-      - title: ''
-        link: ''
-      - title: 'Document Archive'
-        link: ''
+    Google Drive: ''
+    Map Products:
+      - ''
+      - ''
     Data:
       - title: ''
         link: ''
     Tools:
       - tool: ''
         link: ''
+    project_extent: ''
+    tm_campaigns:
+      - ''
+      - ''
 email: info@hotosm.org
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
