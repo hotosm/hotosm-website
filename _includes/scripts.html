@@ -1,22 +1,6 @@
 <script src="{{ "/js/simple-jekyll-search.min.js" | prepend: site.baseurl }}"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
+<script src="https://cdn.hotosm.org/tracking-v1.js"></script>
 {% if page.layout == 'home' %}<script src="{{ "/js/stats.js" | prepend: site.baseurl }}"></script>{% endif %}
 {% if page.layout == 'country' %}<script src="{{ "/js/countries-stats.js" | prepend: site.baseurl }}"></script>{% endif %}
-
-<!-- Piwik -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(["setDomains", ["*.hotosm.org","*.hot.openstreetmap.org","*.hot.osm.org"]]);
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//piwik.hotosm.org/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 5]);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<noscript><p><img src="//piwik.hotosm.org/piwik.php?idsite=5" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->

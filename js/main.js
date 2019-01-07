@@ -92,3 +92,4 @@ const collapse = (selector, cmd) => {
     target.classList[fnmap[cmd]]('show');
   });
 }
+
