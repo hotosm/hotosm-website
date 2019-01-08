@@ -2,7 +2,7 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: true
+  Is Activated: false
   Small Block: Microgrants Giving Campaign
   Main Block: "#mapthedifference for Local Leaders"
   Secondary Block: Join the campaign today!
