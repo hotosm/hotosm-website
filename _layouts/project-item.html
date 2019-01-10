@@ -41,7 +41,7 @@ layout: default
         </p>
     </div>
   </header>
-  {% if page['tm_campaigns'] %}
+  {% if page['tm_campaigns'][0] != ''%}
   
   <div class="project-map-area">
         <div id="hover-details" style="display:block" class="hide center-hover-map-area"></div>
@@ -103,7 +103,7 @@ layout: default
 </div>
 
     
-      {% else %}
+{% else %}
       <div class="project-body">
 
             {% if page['Feature Image'] %}
@@ -112,7 +112,7 @@ layout: default
           </div>
             
   
-  {% endif %}
+{% endif %}
     
        <article class="container project-item">
             <div class="project-body">
@@ -197,7 +197,7 @@ layout: default
                             {% for page-partner in page.Partner %}
                             <li>{{ page-partner }}</li>
                             {% endfor %}
-                            </ui>
+                        </ul>
                     </div>
                     {% endif %}
 
@@ -287,6 +287,7 @@ layout: default
     
     <script>
       var countries = "{{ page.Country | join: ', ' }}"
+      var exist = "{{ page['tm_campaigns'] }}"
       var campaignTags = "{{ page.tm_campaigns | join: ', ' }}"
       var projectExtent = "{{ page.project_extent }}"
     </script>
@@ -294,6 +295,8 @@ layout: default
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@turf/turf@5/turf.min.js"></script>
+    {% if page['tm_campaigns'][0] != ''%}
     <script src="{{ "/js/project-map.js" | prepend: site.baseurl }}"></script>
+    {% endif %}
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
     
