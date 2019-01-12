@@ -1,5 +1,5 @@
 ---
-title: Information Management Associate-Uganda
+title: Information Management Associate - Uganda
 date: 2018-12-18 16:04:00 Z
 Deadline Date: 2019-01-16 00:00:00 Z
 Place of Work: Based in Kampala and various locations in northern and western Uganda
@@ -12,7 +12,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSccvsLc5Fo0LOwMD426Gr6
 
 **Reports to:** Country Manager
 
-**Starting date:** January 2018
+**Starting date:** January 2019
 
 ## About HOT
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 150,000 people with ground operations in eight countries. During crisis, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
