@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Douglas Ssebaggala
 date: 2016-06-09 19:24:00 Z
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-333-1500557660.jpg

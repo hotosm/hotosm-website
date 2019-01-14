@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Andrew Wiseman
 date: 2015-04-28 20:22:00 Z
 redirect_from:

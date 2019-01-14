@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Chris Blow
 date: 2011-07-15 09:39:42 Z
 redirect_from:

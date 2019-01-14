@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Amelia Hunt
 date: 2017-11-22 16:08:00 Z
 Photo: "/uploads/IMG_1719-585a24.JPG"

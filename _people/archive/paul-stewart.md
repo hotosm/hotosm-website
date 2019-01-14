@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Paul Stewart
 date: 2016-02-19 16:45:52 Z
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Stephanie Skryzowski
 date: 2017-11-20 14:29:00 Z
 published: false

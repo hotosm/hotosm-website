@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Cavin Rowayi
 date: 2018-06-01 20:56:00 Z
 Photo: "/uploads/cavin_rowayi.jpg"

@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Kristen Egermeier
 date: 2012-09-20 00:15:00 Z
 redirect_from:

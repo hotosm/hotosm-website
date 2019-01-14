@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Steven Bukulu
 date: 2015-03-24 05:24:00 Z
 redirect_from:

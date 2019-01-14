@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Chris Daley
 date: 2014-11-05 03:32:36 Z
 redirect_from:

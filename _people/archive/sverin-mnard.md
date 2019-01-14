@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Séverin Ménard
 date: 2011-07-08 10:05:00 Z
 redirect_from:

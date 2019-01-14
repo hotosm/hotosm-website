@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Dylan Patterson
 date: 2018-01-12 10:21:34 Z
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: David Neudorfer
 date: 2017-02-24 17:44:34 Z
 redirect_from:

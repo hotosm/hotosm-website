@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Baiduri Ismayanti Fitriana
 date: 2016-12-15 19:23:00 Z
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-350-1481831640.png

@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Sophie Lafayette
 date: 2015-07-14 16:45:43 Z
 redirect_from:

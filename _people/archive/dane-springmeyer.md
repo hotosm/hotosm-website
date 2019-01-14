@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Dane Springmeyer
 date: 2010-05-24 15:42:00 Z
 redirect_from:

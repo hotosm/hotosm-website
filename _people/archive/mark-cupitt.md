@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Mark Cupitt
 date: 2015-02-18 16:15:19 Z
 redirect_from:

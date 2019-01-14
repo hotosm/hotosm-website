@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Stephane Goldstein
 date: 2012-05-26 21:19:23 Z
 redirect_from:

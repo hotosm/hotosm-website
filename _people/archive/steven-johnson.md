@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Steven Johnson
 date: 2015-05-28 19:38:41 Z
 redirect_from:
