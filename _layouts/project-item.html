@@ -41,7 +41,7 @@ layout: default
         </p>
     </div>
   </header>
-  {% if page['tm_campaigns'][0] != ''%}
+  {% if page['tm_campaigns'][0] != '' %}
   
   <div class="project-map-area">
         <div id="hover-details" style="display:block" class="hide center-hover-map-area"></div>
@@ -128,16 +128,7 @@ layout: default
 
                     <div class="pro-content-wrap">
                         <div class="project-content">
-                            <div class="panel-wrapper">
-                                <button class="more" id="more" onclick="content('more')">Read more</button>
-                                <button class="less" id="less" onclick="content('less')" style="display:none;">Show less</button>
-                                <div id="panel" class="panel">
-                                    {{ content }}
-                                </div>
-                                <div class="fade"></div>
-                                
-                            </div>
-                            {% if page['Map Products'] %}
+                            {% if page['Map Products'][0] != '' %}
                             <div class="iframe-container">
 
                                 {% for id in page['Map Products'] %}
@@ -152,9 +143,18 @@ layout: default
                                 {% endif %}
                                 {% endfor %}
 
-                                <a target="_blank" class="archive-link right" href="page['Google Drive']">View complete document archive >></a>
+                                <a target="_blank" class="archive-link right" href="{{ page['Google Drive'] }}">View complete document archive >></a>
                             </div>
                             {% endif %}
+                            <div class="panel-wrapper">
+                                <button class="more" id="more" onclick="content('more')">Read more</button>
+                                <button class="less" id="less" onclick="content('less')" style="display:none;">Show less</button>
+                                <div id="panel" class="panel">
+                                    {{ content }}
+                                </div>
+                                <div class="fade"></div>
+                                
+                            </div>
                         </div>
                     </div>
                     

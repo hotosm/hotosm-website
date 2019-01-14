@@ -9,32 +9,14 @@ Feature Image: "/uploads/Screen%20Shot%202018-04-23%20at%2012.08.05%20AM.png"
 Is Community-Led: true
 Person:
 - Rebecca Firth
-- 
-- 
-- 
 - Dale Kunce
-- 
-- 
 - Melanie Eckle
-- 
 - Jorieke Vyncke
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 - Russell Deffner
 - Ralph Aytoun
 - Chad Blevins
 - Rachel Levine
 - Patricia Solis
-- 
-- 
-- 
 Duration:
   Start Date: 2014-11-04 00:00:00 Z
 Summary Text: Missing Maps is an open collaboration of organisations and individuals.

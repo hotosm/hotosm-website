@@ -30,13 +30,10 @@ Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
 created: 1486393561
 tm_campaigns: 
 - Crowdsourcing Non-Camp Refugee Data
-Documents:
-  - title: Title 1
-    link: https://docs.google.com/spreadsheets/d/1oyFJyk3ZQDGMURR2VxcxyhPDZiQO0eMlxGNl25hVyEI/edit#gid=1045622858
-  - title: Title 2
-    link: https://docs.google.com/spreadsheets/d/1oyFJyk3ZQDGMURR2VxcxyhPDZiQO0eMlxGNl25hVyEI/edit#gid=1045622858
-  - title: Document Archive
-    link: https://drive.google.com/drive/u/1/folders/1LW7RbSO4TK5VmKTMS2eyQ9NfMpZjks0u
+Google Drive: https://drive.google.com/drive/u/1/folders/1ofRyAs4WZoftpFj8aeDkx1c4_kwdXCPR
+Map Products:
+- 1orMk7MfxVeqdWh3TTnAZ5l9G69ww_1ld
+- 1ItDJek8Rveu99-tIfnzJ1r_dD1rhBmRY
 Data:
   - title: OSM Data
     link: http://example.com
