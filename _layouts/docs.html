@@ -1,0 +1,156 @@
+---
+layout: default
+---
+
+<div class="tools">
+
+  <div class="container">
+    <header class="tools-header header-subnav">
+      <h1 class="boxed">{{ page.title }}</h1>
+      <div class="clear">
+        <div class="page-subnav">
+          <nav class="subnav">
+            <h5>Tools we use:</h5>
+            <ul>
+              {% assign sorted-tools = site.tools | sort: 'position' %}
+              {% for tool in sorted-tools %}
+                <li><a href="{{ tool['Tool URL'] }}">{{ tool.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+  </div>
+
+  <div class="half-blocks">
+
+    <div class="half-block dark">
+      <div class="block-details">
+        <div class="block-info">
+          <h3>{{ page['Block 1'].Header }}</h3>
+          <p>{{ page['Block 1'].Text }}</p>
+        </div>
+        <div class="block-options">
+          <ul>
+            {% for tool in page['Block 1'].Tools %}
+              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="block-screenshot">
+        <div class="block-screenshot-wrap">
+          <img src="{{ page['Block 1'].Image }}">
+        </div>
+      </div>
+    </div>
+
+    <div class="half-block right dark">
+      <div class="block-details">
+        <div class="block-info">
+          <h3>{{ page['Block 2'].Header }}</h3>
+          <p>{{ page['Block 2'].Text }}</p>
+        </div>
+        <div class="block-options">
+          <ul>
+            {% for tool in page['Block 2'].Tools %}
+              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="block-screenshot">
+        <div class="block-screenshot-wrap">
+          <img src="{{ page['Block 2'].Image }}">
+        </div>
+      </div>
+    </div>
+
+    <div class="half-block dark">
+      <div class="block-details">
+        <div class="block-info">
+          <h3>{{ page['Block 3'].Header }}</h3>
+          <p>{{ page['Block 3'].Text }}</p>
+        </div>
+        <div class="block-options">
+          <ul>
+            {% for tool in page['Block 3'].Tools %}
+              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="block-screenshot">
+        <div class="block-screenshot-wrap">
+          <img src="{{ page['Block 3'].Image }}">
+        </div>
+      </div>
+    </div>
+
+    <div class="half-block dark right">
+      <div class="block-details">
+        <div class="block-info">
+          <h3>{{ page['Block 4'].Header }}</h3>
+          <p>{{ page['Block 4'].Text }}</p>
+        </div>
+        <div class="block-options">
+          <ul>
+            {% for tool in page['Block 4'].Tools %}
+              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="block-screenshot">
+        <div class="block-screenshot-wrap">
+          <img src="{{ page['Block 4'].Image }}">
+        </div>
+      </div>
+    </div>
+
+    <div class="half-block dark">
+      <div class="block-details">
+        <div class="block-info">
+          <h3>{{ page['Block 5'].Header }}</h3>
+          <p>{{ page['Block 5'].Text }}</p>
+        </div>
+        <div class="block-options">
+          <ul>
+            {% for tool in page['Block 5'].Tools %}
+              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="block-screenshot">
+        <div class="block-screenshot-wrap">
+          <img src="{{ page['Block 5'].Image }}">
+        </div>
+      </div>
+    </div>
+
+    <div class="half-block dark right">
+      <div class="block-details">
+        <div class="block-info">
+          <h3>{{ page['Block 6'].Header }}</h3>
+          <p>{{ page['Block 6'].Text }}</p>
+        </div>
+        <div class="block-options">
+          <ul>
+            {% for tool in page['Block 6'].Tools %}
+              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="block-screenshot">
+        <div class="block-screenshot-wrap">
+          <img src="{{ page['Block 6'].Image }}">
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
