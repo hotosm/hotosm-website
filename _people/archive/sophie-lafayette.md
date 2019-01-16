@@ -1,7 +1,7 @@
 ---
-published: false
 title: Sophie Lafayette
 date: 2015-07-14 16:45:43 Z
+published: false
 redirect_from:
 - "/users/sophie_lafayette"
 Project:
@@ -13,3 +13,4 @@ Social Media (Full URL):
   Twitter: https://twitter.com/slafayette
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-311-1437125294.jpg
 ---
+

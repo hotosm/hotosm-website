@@ -1,7 +1,7 @@
 ---
-published: false
 title: Steven Johnson
 date: 2015-05-28 19:38:41 Z
+published: false
 redirect_from:
 - "/users/steven_johnson"
 Working Group:
@@ -15,3 +15,4 @@ Social Media (Full URL):
   Twitter: https://twitter.com/@geomantic
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-287-1432844357.jpg
 ---
+

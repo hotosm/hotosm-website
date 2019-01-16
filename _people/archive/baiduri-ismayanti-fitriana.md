@@ -1,7 +1,7 @@
 ---
-published: false
 title: Baiduri Ismayanti Fitriana
 date: 2016-12-15 19:23:00 Z
+published: false
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-350-1481831640.png
 Member Type:
   Is Staff: false
@@ -12,3 +12,4 @@ Social Media (Full URL):
 redirect_from:
 - "/users/baiduri_ismayanti_fitriana"
 ---
+

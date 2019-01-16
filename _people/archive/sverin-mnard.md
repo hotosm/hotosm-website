@@ -1,7 +1,7 @@
 ---
-published: false
 title: Séverin Ménard
 date: 2011-07-08 10:05:00 Z
+published: false
 redirect_from:
 - "/users/séverin_ménard"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-15-1411584466.jpg
