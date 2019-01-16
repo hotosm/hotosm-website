@@ -23,7 +23,7 @@ collections:
   people:
     title: People
     output: true
-    permalink: "/people/:path/"
+    permalink: "/people/:title/"
   projects:
     title: Projects
     output: true
