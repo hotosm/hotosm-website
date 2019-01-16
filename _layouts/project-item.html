@@ -33,7 +33,7 @@ layout: default
 <div class="project-map-area">
     <div id="hover-details" style="display:block" class="hide center-hover-map-area"></div>
     <div id='project-legend-details' style="margin-right: 10px;display:flex" class="center-hover-map-area">
-        {% if page['tm_campaigns'] != '' %}
+        {% if page['tm_campaigns'][0] != '' %}
         <div id='centroid-legend'>
             <p><img src='../../images/dot-black.png' width="10" height="10" /> <span style="color:#929DB3"> TM Project Centroids</span> </p>
         </div> &nbsp;
