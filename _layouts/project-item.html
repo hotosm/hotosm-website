@@ -1,77 +1,65 @@
 --- 
-layout: default
+layout: default 
 ---
 
 <header class="project-header">
     <h1>{{ page.title }}</h1>
     <div class="project-header-meta">
 
-      <p class="project-involvement">
-        {% if page['Is Community-Led'] %}
-          Community-Led
+        <p class="project-involvement">
+            {% if page['Is Community-Led'] %} Community-Led {% else %} HOT Program {% endif %}
+        </p>
+
+        {% if page.Country[0] != '' %}
+        <p class="project-countries">
+
+            {% for page-country in page.Country %} {% for country in site.where-we-work %} {% if page-country == country.title %}
+            <span class="project-country"><a href="{{ country.url }}">{{ country.title }}</a></span> {% endif %} {% endfor %} {% endfor %}
+
+        </p>
         {% else %}
-          HOT Program
+        <p class="project-countries">
+            <span class="project-country">Global</span>
+        </p>
         {% endif %}
-      </p>
-
-      {% if page.Country[0] != '' %}
-        <p class="project-countries">
-
-          {% for page-country in page.Country %}
-            {% for country in site.where-we-work %}
-              {% if page-country == country.title %}
-                <span class="project-country"><a href="{{ country.url }}">{{ country.title }}</a></span>
-              {% endif %}
-            {% endfor %}
-          {% endfor %}
-
-        </p>
-        {% else %}
-        <p class="project-countries">
-          <span class="project-country">Global</span>
-        </p>
-      {% endif %}
         <p class="project-status">
-            
-          {% if page['Duration']['End Date'] == 'Ongoing' %}
-            Active
-          {% else %}
-            Completed
-          {% endif %}
+
+            {% if page['Duration']['End Date'] == 'Ongoing' %} Active {% else %} Completed {% endif %}
         </p>
     </div>
-  </header>
-  {% if page['tm_campaigns'] %}
-  
-  <div class="project-map-area">
-        <div id="hover-details" style="display:block" class="hide center-hover-map-area"></div>
-        <div id = 'project-legend-details' style="margin-right: 10px;display:flex" class="center-hover-map-area">
-        <div id = 'centroid-legend'>
-            <p><img src= '../../images/dot-black.png' width="10" height="10"/> <span style="color:#929DB3"> TM Project Centroids</span> </p>
+</header>
+{% if page['project_extent'] != '' %}
+
+<div class="project-map-area">
+    <div id="hover-details" style="display:block" class="hide center-hover-map-area"></div>
+    <div id='project-legend-details' style="margin-right: 10px;display:flex" class="center-hover-map-area">
+        {% if page['tm_campaigns'][0] != '' %}
+        <div id='centroid-legend'>
+            <p><img src='../../images/dot-black.png' width="10" height="10" /> <span style="color:#929DB3"> TM Project Centroids</span> </p>
         </div> &nbsp;
-        <div class="hide" id = 'polygon-legend'>
-            <p><img src= '../../images/polygon-black.png' width="10" height="10"/><span  style="color:#929DB3"> TM Project Boundaries</span></p>
-        </div>&nbsp;
-        {% if page['project_extent'] %}
-        <div id = 'dash-legend'>
-            <p><img src= '../../images/polygon-dash.png' width="10" height="10"/> <span style="color:#929DB3"> Project Coverage Area</span></p>
+        <div id='polygon-legend'>
+            <p><img src='../../images/polygon-black.png' width="10" height="10" /><span style="color:#929DB3"> TM Project Boundaries</span></p>
+        </div>&nbsp; {% endif %} {% if page['project_extent'] != '' %}
+        <div id='dash-legend'>
+            <p><img src='../../images/polygon-dash.png' width="10" height="10" /> <span style="color:#929DB3"> Project Coverage Area</span></p>
         </div>
         {% endif %}
-        </div>
-        <div id="map">
-            <div id="loading-map">
-                <center>
-                    <p class="loader w40 h40 mb20 red-border"></p>
-                </center>
-                <span>Loading Map</span>
-            </div>
-    
+    </div>
+    <div id="map">
+        <div id="loading-map">
+            <center>
+                <p class="loader w40 h40 mb20 red-border"></p>
+            </center>
+            <span>Loading Map</span>
         </div>
 
     </div>
-    
+
+</div>
+
 
 <div id="our-work-projects" class="container"></div>
+{% if page['tm_campaigns'][0] != '' %}
 <div id="hot-stats" class="tabcontent container home-stats">
     <div class="home-stat">
         <p class="stat-number" id="Community-Mappers"></p>
@@ -81,17 +69,17 @@ layout: default
     </div>
     <div class="hr-v"></div>
     <div class="home-stat">
-      <p class="stat-number" id="Countries-Covered"></p>
-      <p class="stat-title">Countries<sup>&#9432;</sup>
-          <span class="tooltiptext">Total number of Countries covered in the project</span>
-      </p>
-  </div>
-  <div class="hr-v"></div>
+        <p class="stat-number" id="Countries-Covered"></p>
+        <p class="stat-title">Countries<sup>&#9432;</sup>
+            <span class="tooltiptext">Total number of Countries covered in the project</span>
+        </p>
+    </div>
+    <div class="hr-v"></div>
     <div class="home-stat">
-      <p class="stat-number" id="Project-Area"></p>
-      <p class="stat-title">Area Covered (Sq.KM)<sup>&#9432;</sup>
-          <span class="tooltiptext">Total area covered by the project</span>
-      </p>
+        <p class="stat-number" id="Project-Area"></p>
+        <p class="stat-title">Area Covered (Sq.KM)<sup>&#9432;</sup>
+            <span class="tooltiptext">Total area covered by the project</span>
+        </p>
     </div>
     <div class="hr-v"></div>
     <div class="home-stat">
@@ -101,191 +89,206 @@ layout: default
         </p>
     </div>
 </div>
+{% endif %} {% else %}
+<div class="project-body">
 
-    
-      {% else %}
-      <div class="project-body">
+    {% if page['Feature Image'] %}
+    <img class="project-feature-image" {% if page[ 'Is image top aligned'] %} style="object-position: top center" {% endif %} src="{{ page['Feature Image' ]}}"> {% endif %}
+</div>
 
-            {% if page['Feature Image'] %}
-                <img class="project-feature-image" {% if page['Is image top aligned'] %} style="object-position: top center" {% endif %} src="{{ page['Feature Image' ]}}">
-            {% endif %}
-          </div>
-            
-  
-  {% endif %}
-    
-       <article class="container project-item">
-            <div class="project-body">
-                <section class="article">
 
-                    {% if page['Project Summary Text'] %}
-                    <div class="pro-summary-wrap">
-                        <div class="project-summary">
-                            <p>{{ page['Project Summary Text'] }}</p>
-                        </div>
-                    </div>
-                    {% endif %}
+{% endif %}
 
-                    <div class="pro-content-wrap">
-                        <div class="project-content">
-                            <div class="panel-wrapper">
-                                <button class="more" id="more" onclick="content('more')">Read more</button>
-                                <button class="less" id="less" onclick="content('less')" style="display:none;">Show less</button>
-                                <div id="panel" class="panel">
-                                    {{ content }}
-                                </div>
-                                <div class="fade"></div>
-                                
-                            </div>
-                            <div class="iframe-container">
-                                <div class="gsheet-iframe left">
-                                <iframe frameborder="0" height="250" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS6FsnVNnKpdiJEvUfU_ZW8yUvnz9pk2nD6d67OkYz6nU5yOspSJThZe4BotZ1RJw85gP9lG3ahkPTP/pubhtml?widget=true&amp;headers=false"></iframe>
-                                </div>
-                              
-                                <div class="gsheet-iframe right">
-                                <iframe frameborder="0" height="250" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS6FsnVNnKpdiJEvUfU_ZW8yUvnz9pk2nD6d67OkYz6nU5yOspSJThZe4BotZ1RJw85gP9lG3ahkPTP/pubhtml?widget=true&amp;headers=false"></iframe>
-                                </div>
-                                <a target="_blank" class="archive-link right" href="https://drive.google.com/drive/u/1/folders/1LW7RbSO4TK5VmKTMS2eyQ9NfMpZjks0u">View complete document archive >></a>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    
-                                
-                </section>
+<article class="container project-item">
+    <div class="project-body">
+        <section class="article">
 
-                <aside class="meta">
-
-                    {% if page['Project Logo Image'] %}
-                    <div class="meta-item project-logo">
-                        <img src="{{ page['Project Logo Image'] }}">
-                    </div>
-                    {% endif %} {% if page['Impact Area'][0] != '' %}
-                    <div class="meta-item project-impact">
-                        <h5>Impact Areas  <object height="16" width="16" data="/images/target.svg" type="image/svg+xml"></object></h5>
-                        <ul>
-
-                            {% for area in page['Impact Area'] %} {% for impact-area in site.impact-areas %} {% if area == impact-area.title %}
-                            <li><a href="{{ impact-area.url }}">{{ impact-area.title }}</a></li>
-                            {% endif %} {% endfor %} {% endfor %}
-
-                            </ui>
-                    </div>
-                    {% endif %} {% if page.Person[0] != '' %}
-                    <div class="meta-item">
-                        <h5>Coordination <object height="16" width="16" data="/images/users.svg" type="image/svg+xml"></object></h5>
-                        <ul>
-
-                            {% for coordinator in page.Person %} {% for person in site.people %} {% if coordinator == person.title %}
-                            <li><a href="{{ person.url }}">{{ person.title }}</a></li>
-                            {% endif %} {% endfor %} {% endfor %}
-
-                            </ui>
-                    </div>
-                    {% endif %} {% if page.Partner[0] != '' %}
-                    <div class="meta-item">
-                        <h5>Partners <object height="16" width="16" data="/images/link.svg" type="image/svg+xml"></object></h5>
-                        <ul>
-                            {% for page-partner in page.Partner %}
-                            <li>{{ page-partner }}</li>
-                            {% endfor %}
-                            </ui>
-                    </div>
-                    {% endif %}
-
-                    <div class="meta-item">
-                        <h5>Duration <object height="16" width="16" data="/images/clock.svg" type="image/svg+xml"></object></h5>
-                        <p>{{ page.Duration['Start Date'] | date: "%e %b, %Y" }} – {{ page.Duration['End Date'] | date: "%e %b, %Y" }}</p>
-                    </div>
-                    {% if page.Data %}
-                    <div class="meta-item">
-                        <h5>Data <object height="16" width="16" data="/images/map.svg" type="image/svg+xml"></object></h5>
-                        <ul>
-                        {% for data in page.Data %}
-                            <li><a href="{{ data.link }}">{{ data.title }}</a></li>
-                        {% endfor %}
-                        </ul>
-                    </div>
-                    {% endif %}
-                    {% if page.Tools %}
-                    <div class="meta-item">
-                        <h5>Tools <object height="16" width="16" data="/images/cog.svg" type="image/svg+xml"></object></h5>
-                        <ul>
-                        {% for tool in page.Tools %}
-                            <li><a href="{{ tool.link }}">{{ tool.tool }}</a></li>
-                        {% endfor %}
-                        </ul>
-                    </div>
-                    {% endif %}
-
-                </aside>
-
+            {% if page['Project Summary Text'] %}
+            <div class="pro-summary-wrap">
+                <div class="project-summary">
+                    <p>{{ page['Project Summary Text'] }}</p>
+                </div>
             </div>
-            
-        </article>
-        <!--////////////////////////////////-->
-        <!--///////// Project News /////////-->
-        <!--////////////////////////////////-->
+            {% endif %}
 
+            <div class="pro-content-wrap">
+                <div class="project-content">
+                    {% if page['Map Products'][0] != '' %}
+                    <div class="iframe-container">
 
-        {% for post in site.posts %} {% if post['Project'] contains page.title %}
-
-        <div class="project-index project-item-news">
-            <div class="container">
-                <div class="project-index-news">
-                    <h6>Recent news from {{ page.title }} <span>(<a href="/updates">View all news</a>)</span></h6>
-                    <div class="project-index-news-list">
-
-                        {% break %} {% endif %} {% endfor %} {% assign news_count = 0 %} {% for post in site.posts %} {% if post['Project'] contains page.title %} {% assign news_count = news_count | plus: 1 %} {% if news_count == 6 %} {% break %} {% else %}
-
-                        <div class="news-index-item">
-                            <div class="news-list-summary">
-
-                                <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
-
-                                    <a href="{{ post.url }}">
-                                        <h3>{{ post.title }}</h3>
-                                    </a>
-
-                                    <p>{{ post['Summary Text']}}</p>
-                                    {% capture post.Person %}{% endcapture %}
-                                    <div class="news-list-meta">
-                                        <p class="news-index-author">
-                                            {% include author.html %} — {{ post.date | date: '%e %B, %Y' }}
-                                        </p>
-                                    </div>
-                                </div>
-
-                                {% if post['Feature Image'] %}
-                                <div class="news-list-image-sm">
-                                    <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
-                                </div>
-                                {% endif %}
-
-                            </div>
+                        {% for id in page['Map Products'] %} {% if forloop.last == true %}
+                        <div class="gsheet-iframe right">
+                            <iframe src="https://drive.google.com/file/d/{{ id }}/preview" width="100%" height="250"></iframe>
                         </div>
+                        {% else %}
+                        <div class="gsheet-iframe left">
+                            <iframe src="https://drive.google.com/file/d/{{ id }}/preview" width="100%" height="250"></iframe>
+                        </div>
+                        {% endif %} {% endfor %}
 
-                        {% endif %} {% endif %} {% endfor %} {% for post in site.posts %} {% if post['Project'] contains page.title %}
+                        <a target="_blank" class="archive-link right" href="{{ page['Google Drive'] }}">View complete document archive >></a>
+                    </div>
+                    {% endif %}
+                    <div class="panel-wrapper">
+                        <button class="more" id="more" onclick="content('more')">Read more</button>
+                        <button class="less" id="less" onclick="content('less')" style="display:none;">Show less</button>
+                        <div id="panel" class="panel">
+                            {{ content }}
+                        </div>
+                        <div class="fade"></div>
 
                     </div>
                 </div>
             </div>
-        </div>
 
-        {% break %} {% endif %} {% endfor %}
+
+
+        </section>
+
+        <aside class="meta">
+
+            {% if page['Project Logo Image'] %}
+            <div class="meta-item project-logo">
+                <img src="{{ page['Project Logo Image'] }}">
+            </div>
+            {% endif %} {% if page['Impact Area'][0] != '' %}
+            <div class="meta-item project-impact">
+                <h5>Impact Areas <object height="16" width="16" data="/images/target.svg" type="image/svg+xml"></object></h5>
+                <ul>
+
+                    {% for area in page['Impact Area'] %} {% for impact-area in site.impact-areas %} {% if area == impact-area.title %}
+                    <li><a href="{{ impact-area.url }}">{{ impact-area.title }}</a></li>
+                    {% endif %} {% endfor %} {% endfor %}
+
+                    </ui>
+            </div>
+            {% endif %} {% if page.Person[0] != '' %}
+            <div class="meta-item">
+                <h5>Coordination <object height="16" width="16" data="/images/users.svg" type="image/svg+xml"></object></h5>
+                <ul>
+
+                    {% for coordinator in page.Person %} {% for person in site.people %} {% if coordinator == person.title %}
+                    <li><a href="{{ person.url }}">{{ person.title }}</a></li>
+                    {% endif %} {% endfor %} {% endfor %}
+
+                    </ui>
+            </div>
+            {% endif %} {% if page.Partner[0] != '' %}
+            <div class="meta-item">
+                <h5>Partners <object height="16" width="16" data="/images/link.svg" type="image/svg+xml"></object></h5>
+                <ul>
+                    {% for page-partner in page.Partner %}
+                    <li>{{ page-partner }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+
+            <div class="meta-item">
+                <h5>Duration <object height="16" width="16" data="/images/clock.svg" type="image/svg+xml"></object></h5>
+                <p>{{ page.Duration['Start Date'] | date: "%e %b, %Y" }} – {{ page.Duration['End Date'] | date: "%e %b, %Y" }}</p>
+            </div>
+            {% if page.Data %}
+            <div class="meta-item">
+                <h5>Data <object height="16" width="16" data="/images/map.svg" type="image/svg+xml"></object></h5>
+                <ul>
+                    {% for data in page.Data %}
+                    <li><a href="{{ data.link }}">{{ data.title }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %} {% if page.Tools %}
+            <div class="meta-item">
+                <h5>Tools <object height="16" width="16" data="/images/cog.svg" type="image/svg+xml"></object></h5>
+                <ul>
+                    {% for tool in page.Tools %}
+                    <li><a href="{{ tool.link }}">{{ tool.tool }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+
+        </aside>
 
     </div>
 
-    
-    <script>
-      var countries = "{{ page.Country | join: ', ' }}"
-      var campaignTags = "{{ page.tm_campaigns | join: ', ' }}"
-      var projectExtent = "{{ page.project_extent }}"
-    </script>
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@turf/turf@5/turf.min.js"></script>
-    <script src="{{ "/js/project-map.js" | prepend: site.baseurl }}"></script>
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
-    
+</article>
+<!--////////////////////////////////-->
+<!--///////// Project News /////////-->
+<!--////////////////////////////////-->
+
+
+{% for post in site.posts %} {% if post['Project'] contains page.title %}
+
+<div class="project-index project-item-news">
+    <div class="container">
+        <div class="project-index-news">
+            <h6>Recent news from {{ page.title }} <span>(<a href="/updates">View all news</a>)</span></h6>
+            <div class="project-index-news-list">
+
+                {% break %} {% endif %} {% endfor %} {% assign news_count = 0 %} {% for post in site.posts %} {% if post['Project'] contains page.title %} {% assign news_count = news_count | plus: 1 %} {% if news_count == 6 %} {% break %} {% else %}
+
+                <div class="news-index-item">
+                    <div class="news-list-summary">
+
+                        <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
+
+                            <a href="{{ post.url }}">
+                                <h3>{{ post.title }}</h3>
+                            </a>
+
+                            <p>{{ post['Summary Text']}}</p>
+                            {% capture post.Person %}{% endcapture %}
+                            <div class="news-list-meta">
+                                <p class="news-index-author">
+                                    {% include author.html %} — {{ post.date | date: '%e %B, %Y' }}
+                                </p>
+                            </div>
+                        </div>
+
+                        {% if post['Feature Image'] %}
+                        <div class="news-list-image-sm">
+                            <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
+                        </div>
+                        {% endif %}
+
+                    </div>
+                </div>
+
+                {% endif %} {% endif %} {% endfor %} {% for post in site.posts %} {% if post['Project'] contains page.title %}
+
+            </div>
+        </div>
+    </div>
+</div>
+
+{% break %} {% endif %} {% endfor %}
+
+</div>
+
+
+<script>
+    var countries = "{{ page.Country | join: ', ' }}"
+    var campaignTags = "{{ page.tm_campaigns | join: ', ' }}"
+    var projectExtent = "{{ page.project_extent }}"
+
+    function content(action) {
+        if (action === 'more') {
+            document.getElementById('panel').style.height = '100%'
+            document.getElementById('less').style.display = 'block'
+            document.getElementById('more').style.display = 'none'
+        } else {
+            document.getElementById('panel').style.height = '100px'
+            document.getElementById('more').style.display = 'block'
+            document.getElementById('less').style.display = 'none'
+        }
+    }
+</script>
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@turf/turf@5/turf.min.js"></script>
+{% if page['project_extent'] != ''%}
+<script src="{{ " /js/project-map.js " | prepend: site.baseurl }}"></script>
+{% endif %}
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
