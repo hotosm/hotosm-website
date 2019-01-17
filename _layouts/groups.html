@@ -77,7 +77,7 @@ layout: default
             {% assign jobs_closed = site.jobs | sort: 'Deadline Date' | reverse %}
             {% for job in jobs_closed limit: 6 %}
               {% assign job_date = job['Deadline Date'] | date: '%Y%m%d' %}
-              {% if job_date <= current_date %}
+              {% if job_date < current_date %}
               <a href="{{ job.url }}" class="module light link-through">
                 <div class="module-details">
                   <h3>{{ job.title }}</h3>
