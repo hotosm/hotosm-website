@@ -1,13 +1,14 @@
 ---
 title: Sıla Alıcı
 date: 2018-09-10 14:24:00 Z
+published: false
 Photo: "/uploads/sila2.jpg"
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Communications Manager
-Country: Turkey
 Working Group:
 - Communications
+Country: Turkey
 Social Media (Full URL):
   Twitter: https://twitter.com/silaalici
   LinkedIn: https://www.linkedin.com/in/silaalici/
