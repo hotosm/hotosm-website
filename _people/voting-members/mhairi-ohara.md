@@ -31,9 +31,9 @@ redirect_from:
 ---
 
 <p>Mhairi is a Project Manager with the technical team at HOT. She has been with the organisation over 4 years and is delighted to see it grow larger and stronger with each passing month. Mhairi has lead numerous projects focusing on research, technology, data creation and community development. These include the GFDRR Challenge Fund, the UK Space Agency METEOR initiative, the HOT Export Tool development and the USAID funded InAWARE programme in Indonesia.
-
+<br>
 Receiving her Masters degree in Geographical Information Science from the University of Edinburgh, Mhairi focused her research on the modelling of historical lava flows at Hekla and Eyjafjallajökull in Iceland. She completed her Bachelors degree in Geography at King’s College London, focusing on the development of urban landscapes and the impact of natural hazards on cities. She has also spent time with the USGS Hawaiian Volcano Observatory on the Big Island and worked on WASH solutions in Turkana, Northern Kenya.
-
+<br>
 Growing up all over the world, it was really her time spent in Fiji and Indonesia that nurtured her interest in natural hazards. She continues to travel, and loves meeting new people and having new experiences. She would say she has a healthy obsession of volcanoes, surfing, food, gaming and anime, in addition to promoting the use open source and open data for humanitarian mapping. She is passionate about personally engaging with individuals, sharing skills, and community driven projects. Helping HOT develop the tools that transcend technical ability, language barriers and financial status, is at the heart of her work. 
-
+<br>
 Mhairi believes everyone has a right to have access to information and tools to empower themselves and take on issues they deem most prevalent in their local environment. Providing the tools and sharing skills for local citizens to participate and apply OSM to their own initiatives is just a small way in which she can support the world as we work together towards the SDGs. </p><p><span style="color: #292f33; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #f5f8fa;">&nbsp;</span></p>
