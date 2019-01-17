@@ -30,7 +30,7 @@ redirect_from:
 - "/users/mhairi_o'hara"
 ---
 
-Mhairi is a Project Manager with the technical team at HOT. She has been with the organisation over 4 years and is delighted to see it grow larger and stronger with each passing month. Mhairi has lead numerous projects focusing on research, technology, data creation and community development. These include the GFDRR Challenge Fund, the UK Space Agency METEOR initiative, the HOT Export Tool development and the USAID funded InAWARE programme in Indonesia.
+Mhairi is a project manager with the technical team at HOT. She has been with the organisation over 4 years and is delighted to see it grow larger and stronger with each passing month. Mhairi has lead numerous projects focusing on research, technology, data creation and community development. These include the GFDRR Challenge Fund, the UK Space Agency METEOR initiative, the HOT Export Tool development and the USAID funded InAWARE programme in Indonesia.
 
 Receiving her Masters degree in Geographical Information Science from the University of Edinburgh, Mhairi focused her research on the modelling of historical lava flows at Hekla and Eyjafjallajökull in Iceland. She completed her Bachelors degree in Geography at King’s College London, focusing on the development of urban landscapes and the impact of natural hazards on cities. She has also spent time with the USGS Hawaiian Volcano Observatory on the Big Island and worked on WASH solutions in Turkana, Northern Kenya.
 
