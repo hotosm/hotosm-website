@@ -1,9 +1,10 @@
 ---
 title: Biondi Sanda Sima
 date: 2014-04-17 18:25:00 Z
+published: false
 Photo: "/uploads/DSC_0522.jpg"
 Member Type:
-  Is Staff: true
+  Is Staff: false
   Is Voting Member: true
 Job Title: Communications Specialist
 Working Group:
