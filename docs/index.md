@@ -14,12 +14,14 @@ block-2:
   Text: Read our guidelines for writing blog posts, editing your HOT profile, and selecting and uploading images.
   Action-text: Content guidelines
   Image: ""
-  Link: /docs/guidelines
+  Link: /guidelines
+  layout: guidelines
 block-3:
   Title: Siteleaf
   Text: Learn to use the Siteleaf interface to write posts on the HOT website.
   Action-text: Use Siteleaf
   Image: "/images/docs/siteleaf.png"
-  Link: /docs/siteleaf
+  Link: /siteleaf
+  layout: siteleaf
 layout: docs-landing
 ---
