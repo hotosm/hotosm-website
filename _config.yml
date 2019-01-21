@@ -2,6 +2,18 @@
 title: Humanitarian OpenStreetMap Team
 timezone: UTC
 collections:
+  assets:
+    title: Assets
+    output: true
+    permalink: "/assets/:title/"
+  guidelines:
+    title: Guidelines
+    output: true
+    permalink: "/guidelines/:title/"
+  siteleaf:
+    title: Siteleaf
+    output: true
+    permalink: "/siteleaf/:title/"
   docs:
     title: Docs & Guidelines
     output: true
@@ -93,6 +105,24 @@ defaults:
   values:
     permalink: "/docs/:path/"
     layout: docs
+- scope:
+    path: ''
+    type: assets
+  values:
+    permalink: "/assets/:path/"
+    layout: assets
+- scope:
+    path: ''
+    type: guidelines
+  values:
+    permalink: "/guidelines/:path/"
+    layout: guidelines
+- scope:
+    path: ''
+    type: siteleaf
+  values:
+    permalink: "/siteleaf/:path/"
+    layout: siteleaf
 - scope:
     path: ''
     type: tools
