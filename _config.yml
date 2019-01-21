@@ -2,6 +2,10 @@
 title: Humanitarian OpenStreetMap Team
 timezone: UTC
 collections:
+  docs:
+    title: Docs & Guidelines
+    output: true
+    permalink: "/docs/:title/"
   where-we-work:
     title: Countries
     output: true
@@ -83,6 +87,12 @@ defaults:
   values:
     permalink: "/impact-areas/:path/"
     layout: impact-area
+- scope:
+    path: ''
+    type: docs
+  values:
+    permalink: "/docs/:path/"
+    layout: docs
 - scope:
     path: ''
     type: tools
