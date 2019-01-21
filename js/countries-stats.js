@@ -5,37 +5,49 @@ var country = $(document).find('title').text().split('|')[1].trim();
 if (country.startsWith('United')) country = 'United States of America'
 
 $(document).ready(function () {
-  fetch('/aggregatedStats.json')
-  .then(function (response) {
-    return response.json()
-  })
-  .then(function (jsonData) {
-    if (jsonData[country]) {
-      jsonData[country].forEach(project => {
-        hotStats.edits += project.properties['edits']
-        hotStats.mappers += project.properties['mappers']
-        hotStats.buildings += project.properties['buildings']
-        hotStats.roads += Math.round(project.properties['roads'])
-      })
-      updateStats(hotStats, 'hot')
-    } else {
-      $.get('https://osm-stats-production-api.azurewebsites.net/countries/' + missingMapsCode, function (data) {
-        hotStats.edits = data['all_edits'];
-        hotStats.buildings = data['building_count_add'] + data['building_count_mod'];
-        hotStats.roads = Math.round(parseInt(data['road_km_add']) + parseInt(data['road_km_mod']));
-        hotStats.mappers = data['contributors'];
-        updateStats(hotStats, 'hot')
-    });
+  var options = {
+    headers: {
+      'Accept': 'application/json',
+      'Accept-Language': 'en'
     }
-    $.get('https://osm-stats-production-api.azurewebsites.net/countries/' + missingMapsCode, function (data) {
-      osmStats.edits = data['all_edits'];
-      osmStats.buildings = data['building_count_add'] + data['building_count_mod'];
-      osmStats.roads = Math.round(parseInt(data['road_km_add']) + parseInt(data['road_km_mod']));
-      osmStats.mappers = data['contributors'];
-      updateStats(osmStats, 'osm')
-    });
   }
-  )
+  
+  options.url = 'https://s3.amazonaws.com/hotosm-stats-collector/aggregatedStats.json'
+  $.ajax({
+    url: options.url,
+    type: 'GET',
+    dataType: 'json',
+    success: function (jsonData) {
+      if (jsonData[country]) {
+        jsonData[country].forEach(project => {
+          hotStats.edits += project.properties['edits']
+          hotStats.mappers += project.properties['mappers']
+          hotStats.buildings += project.properties['buildings']
+          hotStats.roads += Math.round(project.properties['roads'])
+        })
+        updateStats(hotStats, 'hot')
+      } else {
+        $.get('https://osm-stats-production-api.azurewebsites.net/countries/' + missingMapsCode, function (data) {
+          hotStats.edits = data['all_edits'];
+          hotStats.buildings = data['building_count_add'] + data['building_count_mod'];
+          hotStats.roads = Math.round(parseInt(data['road_km_add']) + parseInt(data['road_km_mod']));
+          hotStats.mappers = data['contributors'];
+          updateStats(hotStats, 'hot')
+      });
+      }
+      $.get('https://osm-stats-production-api.azurewebsites.net/countries/' + missingMapsCode, function (data) {
+        osmStats.edits = data['all_edits'];
+        osmStats.buildings = data['building_count_add'] + data['building_count_mod'];
+        osmStats.roads = Math.round(parseInt(data['road_km_add']) + parseInt(data['road_km_mod']));
+        osmStats.mappers = data['contributors'];
+        updateStats(osmStats, 'osm')
+      });
+    },
+    error: function (error) {
+    }
+  })
+    
+  
 })
 
 function updateStats (stats, type) {

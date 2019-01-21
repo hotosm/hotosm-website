@@ -6,11 +6,19 @@ var countryData = {
 var years = []
 var count = {}
 var container = document.getElementById('year-checkbox')
-fetch('/aggregatedStats.json')
-  .then(function(response) {
-    return response.json();
-  })
-  .then(function (jsonData) {
+var options = {
+  headers: {
+    'Accept': 'application/json',
+    'Accept-Language': 'en'
+  }
+}
+
+options.url = 'https://s3.amazonaws.com/hotosm-stats-collector/aggregatedStats.json'
+$.ajax({
+  url: options.url,
+  type: 'GET',
+  dataType: 'json',
+  success: function (jsonData) {
     if (projectCount !== '0') {
       var countryTitle = $(document).find("title").text().split('|')[1].trim();
       if (jsonData[countryTitle]) countryData.features = (jsonData[countryTitle]);
@@ -79,7 +87,17 @@ fetch('/aggregatedStats.json')
       document.getElementById("osm-stats").style.display = "flex";
       document.getElementById("osm-stats-tab").classList.add("active");
     }
-  });
+  },
+  error: function (error) {
+  }
+})
+// fetch('/aggregatedStats.json')
+//   .then(function(response) {
+//     return response.json();
+//   })
+//   .then(function (jsonData) {
+    
+//   });
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
 var map = new mapboxgl.Map({
