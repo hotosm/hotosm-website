@@ -7,12 +7,6 @@ var projectCountries, memberCountries = []
 var activeCountries = {}
 var currentTab = 'country-map'
 var centroids = {}
-var options = {
-  headers: {
-    'Accept': 'application/json',
-    'Accept-Language': 'en'
-  }
-}
 
 fetch('/countries.json')
   .then(function (response) {
@@ -39,29 +33,21 @@ fetch('/country-centroids.json')
   }
   )
 
-options.url = 'https://s3.amazonaws.com/hotosm-stats-collector/allProjects.json'
-$.ajax({
-  url: options.url,
-  type: 'GET',
-  dataType: 'json',
-  success: function (result) {
-    allProjects = result
-  },
-  error: function (error) {
-  }
-})
+fetch('https://s3.amazonaws.com/hotosm-stats-collector/allProjects.json')
+  .then(function (response) {
+    return response.json()
+  })
+  .then(function (jsonData) {
+    allProjects = jsonData
+  })
 
-options.url = 'https://s3.amazonaws.com/hotosm-stats-collector/activeCountries.json'
-$.ajax({
-  url: options.url,
-  type: 'GET',
-  dataType: 'json',
-  success: function (result) {
-    activeCountries = result
-  },
-  error: function (error) {
-  }
-})
+fetch('https://s3.amazonaws.com/hotosm-stats-collector/activeCountries.json')
+  .then(function (response) {
+    return response.json()
+  })
+  .then(function (jsonData) {
+    activeCountries = jsonData
+  })
 
 function getCountriesByContinent (continent) {
   return projectCountries.filter(function (item) {
