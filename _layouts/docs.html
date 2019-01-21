@@ -2,155 +2,172 @@
 layout: default
 ---
 
-<div class="docs">
+<div class="project-index">
+  <div class="project-map-area">
+    <div id="map">
+      <div id="loading-map">
+        <center><p class="loader w40 h40 mb20 red-border"></p></center>
+        <span>Loading Map</span>
+      </div>
+      <div id="hover-details" class="center-hover-map-area"></div>
+      <div id = 'country-legend-details' class="center-hover-map-area">
+        <div id = 'prefix-legend' class="legend-prefix">
+          <p>Countries with </p>
+        </div>
+        <div id = 'projects-legend'>
+          <p><img src= 'images/dot-red.png' width="9" height="9"/> <span style="color:#D73F3F"> Projects</span> </p>
+        </div> &nbsp;
+        <div id = 'active-legend'>
+            <p><img src= 'images/dot-active.png' width="10" height="10"/><span  style="color:#D73F3F"> Active tasks</span></p>
+        </div>&nbsp;
+        <div id = 'member-legend'>
+            <p><img src= 'images/dot-blue.png' width="7" height="7"/> <span style="color:#929DB3"> Members</span></p>
+        </div>
+        <div id = 'cluster-legend' class='hide'>
+            <p><img src= 'images/cluster.png' width="12" height="12"/> <span style="color:#929DB3">   # of Tasking Manager projects</span></p>
+        </div>
+        <div id = 'tm-legend' class='hide'>
+            <p><img src= 'images/lone-project.png' width="10" height="12" style="padding-top: 2px"/><span style="color:#929DB3">  Tasking Manager project sized by edits</span></p>
+        </div>
+      </div>
 
-  <div class="container">
-    <header class="tools-header header-subnav">
-      <h1 class="boxed">{{ page.title }}</h1>
-      <div class="clear">
-        <div class="page-subnav">
-          <nav class="subnav">
-            <h5>Tools we use:</h5>
-            <ul>
-              {% assign sorted-tools = site.tools | sort: 'position' %}
-              {% for tool in sorted-tools %}
-                <li><a href="{{ tool['Tool URL'] }}">{{ tool.title }}</a></li>
+      <div class="our-work-map-tabs">
+        <div class="our-work-map-tab">
+          <button class="tablinks active" onclick="countryTabSwitch(event, 'country-map')">Countries we work in</button>
+        </div>
+        <div class="our-work-map-tab">
+        <button class="tablinks" onclick="countryTabSwitch(event, 'project-map')">Locations mapped</button>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="project-index-header" id="impact-areas-select">
+      <div class="container">
+        <h1 class="boxed" id="our-work-title">{{ page.title }}</h1>
+      </div>
+
+      <div class="our-work-filters">
+
+        <div class="btn btn-primary btn-expand btn-icon-lg" id="expand-map-btn" onclick="expandMap()">
+          See where we work
+        </div>
+
+        <div class="our-work-hidden">
+
+          <div class="areas-wrapper">
+            <div class="container">
+              <h6>Impact Areas</h6>
+              {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
+              {% for impact-area in sorted-impact-areas %}
+                <a href="{{ impact-area.url }}" class="map-impact-area">{{ impact-area.title }}</a>
               {% endfor %}
-            </ul>
-          </nav>
+            </div>
+          </div>
+
         </div>
       </div>
-    </header>
+    </div>
+
+
+    <div class="our-work-filters hidden" id="regions-select">
+      <div class="btn btn-primary btn-close btn-icon-lg" id="close-map-btn" onclick="expandMap()">Exit map</div>
+      <div class="container">
+        <h6>
+          Choose region
+        </h6>
+        <div id="continents">
+          <a onClick="activateAfrica()" class="regions-link">Africa</a>
+          <a onClick="activateAsia()" class="regions-link">Asia</a>
+          <a onClick="activateEurope()" class="regions-link">Europe</a>
+          <a onClick="activateNAmerica()" class="regions-link">North America</a>
+          <a onClick="activateSAmerica()" class="regions-link">South America</a>
+          <a onClick="activateOceania()" class="regions-link">Oceania</a>
+        </div>
+        <div id="countries-list">
+        </div>
+      </div>
+    </div>
+
+
   </div>
 
-  <div class="half-blocks">
+  <div id="our-work-projects" class="container">
 
-    <div class="half-block dark">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 1'].Header }}</h3>
-          <p>{{ page['Block 1'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <ul>
-            {% for tool in page['Block 1'].Tools %}
-              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-screenshot">
-        <div class="block-screenshot-wrap">
-          <img src="{{ page['Block 1'].Image }}">
-        </div>
-      </div>
+    <h6>Highlighted Projects</h6>
+
+    <div class="project-index-highlights">
+
+      {% assign sorted_projects = site.projects | sort:"position" %}
+      {% for project in sorted_projects limit:3 %}
+        {% include blocks/project-highlight.html %}
+      {% endfor %}
+
     </div>
 
-    <div class="half-block right dark">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 2'].Header }}</h3>
-          <p>{{ page['Block 2'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <ul>
-            {% for tool in page['Block 2'].Tools %}
-              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-screenshot">
-        <div class="block-screenshot-wrap">
-          <img src="{{ page['Block 2'].Image }}">
-        </div>
-      </div>
+    <div class="hr-h"></div>
+
+    <h6>Recent Projects</h6>
+
+    <div class="project-index-all">
+
+      {% assign recent_projects = site.projects | sort:"date" | reverse %}
+      {% assign project_count = 0 %}
+      {% for project in recent_projects %}
+        {% unless project.title == sorted_projects[0].title or project.title == sorted_projects[1].title or project.title == sorted_projects[2].title  %}
+
+          {% assign project_count = project_count | plus: 1 %}
+          {% include blocks/project-thumb.html %}
+          {% if project_count > 8 %}
+            {% break %}
+          {% endif %}
+
+        {% endunless %}
+      {% endfor %}
+
     </div>
 
-    <div class="half-block dark">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 3'].Header }}</h3>
-          <p>{{ page['Block 3'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <ul>
-            {% for tool in page['Block 3'].Tools %}
-              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-screenshot">
-        <div class="block-screenshot-wrap">
-          <img src="{{ page['Block 3'].Image }}">
-        </div>
-      </div>
-    </div>
+    <div class="hr-h"></div>
 
-    <div class="half-block dark right">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 4'].Header }}</h3>
-          <p>{{ page['Block 4'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <ul>
-            {% for tool in page['Block 4'].Tools %}
-              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-screenshot">
-        <div class="block-screenshot-wrap">
-          <img src="{{ page['Block 4'].Image }}">
-        </div>
-      </div>
-    </div>
-
-    <div class="half-block dark">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 5'].Header }}</h3>
-          <p>{{ page['Block 5'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <ul>
-            {% for tool in page['Block 5'].Tools %}
-              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-screenshot">
-        <div class="block-screenshot-wrap">
-          <img src="{{ page['Block 5'].Image }}">
-        </div>
-      </div>
-    </div>
-
-    <div class="half-block dark right">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 6'].Header }}</h3>
-          <p>{{ page['Block 6'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <ul>
-            {% for tool in page['Block 6'].Tools %}
-              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-screenshot">
-        <div class="block-screenshot-wrap">
-          <img src="{{ page['Block 6'].Image }}">
-        </div>
+    <div class="project-index-impact-areas">
+      <div class="impact-areas-wrapper">
+        <h2 class="boxed">See more projects by impact area</h2>
+        <ul class="impact-areas-list">
+          {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
+          {% for impact-area in sorted-impact-areas %}
+            <li><a href="{{ impact-area.url }}" class="nav-link">{{ impact-area.title }}</a></li>
+          {% endfor %}
+        </ul>
       </div>
     </div>
 
   </div>
 
+  <div
+    class="archive-header container"
+    data-toggle="collapse"
+    data-target=".collapse"
+    data-text="Collapse"
+    >
+      All projects
+  </div>
+
+  <div class="project-archive-wrap collapse">
+    <div class="container">
+      <div class="project-index-archive">
+
+        {% assign archived_projects = site.projects | sort:"date" | reverse %}
+        {% for project in archived_projects offset:9 %}
+
+          {% include blocks/project-archived.html %}
+        {% endfor %}
+
+      </div>
+    </div>
+  </div>
+
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+  <script src="{{ "/js/our-work-map.js" | prepend: site.baseurl }}"></script>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
 </div>
