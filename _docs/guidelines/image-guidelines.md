@@ -2,6 +2,8 @@
 title: Image guidelines for the website
 date: 2019-01-16 16:16:00 Z
 position: 1
+Doc Type:
+  Is Guideline: true
 ---
 
 ## General Guidelines

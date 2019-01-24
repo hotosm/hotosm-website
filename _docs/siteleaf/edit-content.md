@@ -2,6 +2,8 @@
 title: Editing content on Siteleaf
 date: 2019-01-16 16:16:00 Z
 position: 1
+Doc Type:
+  Is Siteleaf: true
 ---
 
 Content on Siteleaf is organized into two types:

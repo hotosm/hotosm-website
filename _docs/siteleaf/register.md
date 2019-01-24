@@ -2,6 +2,8 @@
 title: Registering on Siteleaf
 date: 2019-01-16 16:16:00 Z
 position: 1
+Doc Type:
+  Is Siteleaf: true
 ---
 
 Siteleaf is a content management wrapper on top of Github. We will use it as a primary tool for managing content of the site. Content can be managed directly through Github if preferred. It is connected directly to our Github account and allows us to manage three types of users: Admin, Publisher, and Writer.
