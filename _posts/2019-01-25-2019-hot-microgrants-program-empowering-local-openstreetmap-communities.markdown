@@ -43,4 +43,4 @@ The HOT Review Committee will score applications based on the following:
 
 
 
-*Thank you to the generous supporters who made these microgrants possible by participating in the 2018 [#mapthedifference campaign](https://hotosm.org/donate). Empowering local leaders begins with you. If you or your company are interested in supporting communities to grow their mapping capacity, please contact us at [partnerships@hotosm.org](partnerships@hotosm.org).*
+*Thank you to the generous supporters who made these microgrants possible by participating in the 2018 [#mapthedifference campaign](https://hotosm.org/donate). Additional thanks to our our corporate contributors Digital Globe, Salesforce France, Newlight Technologies, and GeoawesomenessEmpowering local leaders begins with you. If you or your company are interested in supporting communities to grow their mapping capacity, please contact us at [partnerships@hotosm.org](partnerships@hotosm.org).*
