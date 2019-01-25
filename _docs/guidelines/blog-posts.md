@@ -1,10 +1,9 @@
 ---
 title: Guidelines for writing blog posts
-date: 2019-01-16 16:16:00 Z
-position: 1
 Doc Type:
   Is Guideline: true
-permalink: "/docs/guidelines/"
+permalink: "/docs/guidelines/blog-posts"
+Apply Form Link: https://hotosm.slack.com/messages/hotosm-website/
 ---
 
 1. Review the images you plan to include in your post.

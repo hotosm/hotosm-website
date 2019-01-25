@@ -1,10 +1,9 @@
 ---
 title: Logging in and editing content on Siteleaf
-date: 2019-01-16 16:16:00 Z
-position: 1
 Doc Type:
   Is Siteleaf: true
-permalink: "/docs/siteleaf/:title:/"
+permalink: "/docs/siteleaf/login/"
+Apply Form Link: https://hotosm.slack.com/messages/hotosm-website/
 ---
 
 ## Logging in:

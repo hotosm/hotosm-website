@@ -1,10 +1,9 @@
 ---
-title: Guidelines to edit your profile
-date: 2019-01-16 16:16:00 Z
-position: 1
+title: Guidelines to edit your  HOTprofile
 Doc Type:
   Is Guideline: true
-permalink: "/docs/guidelines/"
+permalink: "/docs/guidelines/edit-profile"
+Apply Form Link: https://hotosm.slack.com/messages/hotosm-website/
 ---
 
 To update your profile, you have two methods:
@@ -19,10 +18,10 @@ To update your profile, you have two methods:
 ### Editing via Github
 
 * Navigate to https://github.com/hotosm/hotosm-website/tree/gh-pages/_people
-* Select Edit this file. This will fork the project into your repo and you'll be able to edit the markdown file directly.
+* Select `Edit this file`. This will fork the project into your repo and you'll be able to edit the markdown file directly.
   - ![Alt text](https://monosnap.com/image/NpWG7gOGsuZ80eFxr12X0LKYFQjWyk.png)
 * Make your edits within the file.
-* Create a pull request back to the main hotosm-website repo.
+* Create a pull request back to the main `hotosm-website` repo.
 
 ### Editing via Siteleaf
 

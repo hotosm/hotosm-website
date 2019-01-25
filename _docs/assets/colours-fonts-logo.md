@@ -1,10 +1,9 @@
 ---
 title: Colours and fonts for the HOT theme
-date: 2019-01-16 16:16:00 Z
-position: 1
 Doc Type:
   Is Asset: true
-permalink: "/docs/assets/"
+permalink: "/docs/assets/colours-fonts-logo"
+Apply Form Link: https://hotosm.slack.com/messages/hotosm-website/
 ---
 
 We have a standard set of colours, fonts, and logos in use on the HOT website.
@@ -18,14 +17,14 @@ Use the information here to make decisions about the assets you want to use.
 
 ## Colours in use
 
-* red: #D73F3F <img src="https://www.colorhexa.com/d73f3f.png" height="15px" width="15px">
-* red-light: #FFEDED <img src="https://www.colorhexa.com/FFEDED.png" height="15px" width="15px">
-* orange: #FAA71E <img src="https://www.colorhexa.com/FAA71E.png" height="15px" width="15px">
-* tan: #F0EFEF <img src="https://www.colorhexa.com/F0EFEF.png" height="15px" width="15px">
-* blue-dark: #2C3038 <img src="https://www.colorhexa.com/2C3038.png" height="15px" width="15px">
-* blue-grey: #68707F <img src="https://www.colorhexa.com/68707F.png" height="15px" width="15px">
-* blue-light: #929DB3 <img src="https://www.colorhexa.com/929DB3.png" height="15px" width="15px">
-* grey-light: #E1E0E0 <img src="https://www.colorhexa.com/E1E0E0.png" height="15px" width="15px">
+* red: #D73F3F <img src="https://www.colorhexa.com/d73f3f.png">
+* red-light: #FFEDED <img src="https://www.colorhexa.com/FFEDED.png">
+* orange: #FAA71E <img src="https://www.colorhexa.com/FAA71E.png">
+* tan: #F0EFEF <img src="https://www.colorhexa.com/F0EFEF.png">
+* blue-dark: #2C3038 <img src="https://www.colorhexa.com/2C3038.png">
+* blue-grey: #68707F <img src="https://www.colorhexa.com/68707F.png">
+* blue-light: #929DB3 <img src="https://www.colorhexa.com/929DB3.png">
+* grey-light: #E1E0E0 <img src="https://www.colorhexa.com/E1E0E0.png">
 
 ## Logo
 

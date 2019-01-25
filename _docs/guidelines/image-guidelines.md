@@ -1,23 +1,22 @@
 ---
 title: Image guidelines for the website
-date: 2019-01-16 16:16:00 Z
-position: 1
 Doc Type:
   Is Guideline: true
-permalink: "/docs/guidelines/"
+permalink: "/docs/guidelines/image-guidelines"
+Apply Form Link: https://hotosm.slack.com/messages/hotosm-website/
 ---
 
 ## General Guidelines
 
 Image Size:
-  - All images should be <500kb
-  - Resize your image before you upload
-  - Use compression tools before you upload, use [Compressor.io](https://compressor.io/compress) or [ImageOptim](https://imageoptim.com/mac)
+  - All images should be under 500kb in size.
+  - Resize your image before you upload.
+  - Use compression tools before you upload, use [Compressor.io](https://compressor.io/compress) or [ImageOptim](https://imageoptim.com/mac).
 
 Image Quality:
-  - well-framed
-  - in-focus
-  - tweak colors, contrast if needed
+  - well-framed.
+  - in-focus.
+  - tweak colors, contrast if needed.
 
 ## Project pages and blog posts
 

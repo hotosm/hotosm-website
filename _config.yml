@@ -91,7 +91,7 @@ defaults:
     path: ''
     type: docs
   values:
-    layout: project-item
+    layout: page
     Doc Type:
       Is Asset:
       Is Guideline:
