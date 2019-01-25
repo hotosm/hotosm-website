@@ -17,7 +17,7 @@ Use the information here to make decisions about the assets you want to use.
 
 ## Colours in use
 
-* red: #D73F3F <img src="https://www.colorhexa.com/d73f3f.png">
+* red: #D73F3F <img src="https://www.colorhexa.com/d73f3f.png" style="height:16px; width:16px">
 * red-light: #FFEDED <img src="https://www.colorhexa.com/FFEDED.png">
 * orange: #FAA71E <img src="https://www.colorhexa.com/FAA71E.png">
 * tan: #F0EFEF <img src="https://www.colorhexa.com/F0EFEF.png">
