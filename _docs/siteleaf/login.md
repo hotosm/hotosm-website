@@ -8,7 +8,7 @@ Apply Form Link: https://hotosm.slack.com/messages/hotosm-website/
 
 ## Logging in:
 
-Go to https://manage.siteleaf.com. If you haven't registered or logged into Siteleaf before, [follow these instructions first](https://github.com/hotosm/hotosm-website/wiki/Registering-with-Siteleaf).
+Go to https://manage.siteleaf.com. If you haven't registered or logged into Siteleaf before, [follow these instructions first](/docs/siteleaf/register).
 
 Once logged in, you’ll see a view like this:
 

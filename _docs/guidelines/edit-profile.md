@@ -11,7 +11,7 @@ To update your profile, you have two methods:
 1. Edit via Github. You will need a Github account.
 2. Edit via Siteleaf. This is our content management tool for content writing and editing.
 
-**BEFORE YOU CAN EDIT:** You need to have an account on Github or a SiteLeaf account (our content management tool for editing). [Follow these instructions first if you want to edit via Siteleaf](https://github.com/hotosm/hotosm-website/wiki/Registering-with-Siteleaf). For Github, make sure you have an account and then follow the instructions below.
+**BEFORE YOU CAN EDIT:** You need to have an account on Github or a SiteLeaf account (our content management tool for editing). [Follow these instructions first if you want to edit via Siteleaf](/docs/siteleaf/register). For Github, make sure you have an account and then follow the instructions below.
 
 ****
 
