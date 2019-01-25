@@ -18,13 +18,13 @@ Use the information here to make decisions about the assets you want to use.
 ## Colours in use
 
 * red: #D73F3F <img src="https://www.colorhexa.com/d73f3f.png" style="height:16px; width:16px">
-* red-light: #FFEDED <img src="https://www.colorhexa.com/FFEDED.png">
-* orange: #FAA71E <img src="https://www.colorhexa.com/FAA71E.png">
-* tan: #F0EFEF <img src="https://www.colorhexa.com/F0EFEF.png">
-* blue-dark: #2C3038 <img src="https://www.colorhexa.com/2C3038.png">
-* blue-grey: #68707F <img src="https://www.colorhexa.com/68707F.png">
-* blue-light: #929DB3 <img src="https://www.colorhexa.com/929DB3.png">
-* grey-light: #E1E0E0 <img src="https://www.colorhexa.com/E1E0E0.png">
+* red-light: #FFEDED <img src="https://www.colorhexa.com/FFEDED.png" style="height:16px; width:16px">
+* orange: #FAA71E <img src="https://www.colorhexa.com/FAA71E.png"  style="height:16px; width:16px">
+* tan: #F0EFEF <img src="https://www.colorhexa.com/F0EFEF.png"  style="height:16px; width:16px">
+* blue-dark: #2C3038 <img src="https://www.colorhexa.com/2C3038.png"  style="height:16px; width:16px">
+* blue-grey: #68707F <img src="https://www.colorhexa.com/68707F.png"  style="height:16px; width:16px">
+* blue-light: #929DB3 <img src="https://www.colorhexa.com/929DB3.png"  style="height:16px; width:16px">
+* grey-light: #E1E0E0 <img src="https://www.colorhexa.com/E1E0E0.png"  style="height:16px; width:16px">
 
 ## Logo
 
