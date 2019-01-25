@@ -28,6 +28,7 @@ In 2019, the HOT Microgrants program will specifically focus on the following ar
 **Continuity:** HOT understands that sustainability does not happen overnight, and in recognition of this, we will award one 2018 Micrograntee a follow-on grant in 2019. The winner of this grant will be decided via a vote by HOT Voting Members, based on summaries of the 2018 grantee project achievements and goals for 2019.
 
 
+
 The HOT Review Committee will score applications based on the following:
 
 **Community Maturity:** HOT looks for communities that have demonstrated a commitment to open mapping through past activities. Communities should have some previous experience using OpenStreetMap. While communities **do not** need to be large in number, smaller mapping communities should demonstrate a clear plan for growing their community and sustaining it in the long-term with the assistance of a HOT Microgrant. **Preference will be given to those that apply as groups rather than individuals.**
