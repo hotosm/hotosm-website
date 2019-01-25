@@ -4,6 +4,7 @@ date: 2019-01-16 16:16:00 Z
 position: 1
 Doc Type:
   Is Guideline: true
+permalink: "/docs/guidelines/"
 ---
 
 1. Review the images you plan to include in your post.

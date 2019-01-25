@@ -4,6 +4,7 @@ date: 2019-01-16 16:16:00 Z
 position: 1
 Doc Type:
   Is Asset: true
+permalink: "/docs/assets/"
 ---
 
 We have a standard set of colours, fonts, and logos in use on the HOT website.

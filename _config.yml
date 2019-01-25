@@ -91,8 +91,11 @@ defaults:
     path: ''
     type: docs
   values:
-    permalink: "/docs/:path/"
-    layout: docs
+    layout: project-item
+    Doc Type:
+      Is Asset:
+      Is Guideline:
+      Is Siteleaf:
 - scope:
     path: ''
     type: tools
