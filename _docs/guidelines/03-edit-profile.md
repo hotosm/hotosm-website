@@ -18,7 +18,7 @@ To update your profile, you have two methods:
 
 ### Editing via Github
 
-* Navigate to https://github.com/hotosm/hotosm-website/tree/gh-pages/_people
+* Navigate to `https://github.com/hotosm/hotosm-website/tree/gh-pages/_people`
 
 * Select `Edit this file`. This will fork the project into your repo and you'll be able to edit the markdown file directly.
 
