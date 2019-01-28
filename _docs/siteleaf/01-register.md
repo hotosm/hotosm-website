@@ -1,5 +1,5 @@
 ---
-title: Registering on Siteleaf
+title: How to register an account on Siteleaf
 Doc Type:
   Is Siteleaf: true
 permalink: "/docs/siteleaf/register"
@@ -21,10 +21,13 @@ Start by going to go to https://github.com/join. Register and choose a username.
 ### Step 2 (required): Create a Siteleaf account
 
 * Go to https://manage.siteleaf.com/signup
+
 * Here you can log in with your Github account or create a brand new account.
+
 * *If you would like to use your hotosm.org email for your account and don't have your hotosm.org email connected to your Github account, make sure you have it added in your [account profile](https://manage.siteleaf.com/account).*
 
 ### Step 3: Request access for your account with the HOT website
 
 * Request access via this form: https://goo.gl/forms/yrC3UszDIBIL82T12
+
 * Someone will respond within 24 hours linking your account
