@@ -1,6 +1,7 @@
 ---
 title: Mapping Sexist Publicity
 date: 2019-01-28 12:24:00 Z
+Feature Image: "/uploads/image3-d59a3b.png"
 ---
 
 Guest blog by Ana Paula Figueroa, 15 years old. Student at GAL School, Cusco, Peru. 
@@ -16,13 +17,17 @@ Our mapping process lasted for about 5 months, from July to October. We used cel
 After gathering the images, we uploaded the information to MapHub and analyzed the content. We categorised the information collected in MapHub, with the objectification of women in advertising identified as a star, the perpetuation of gender roles identified as droplets and all the advertising that imposes unrealistic expectations of female bodies, identified with the flame.
 
 ![image6-7d7a5e.png](/uploads/image6-7d7a5e.png)
+
 The objectification of women is a brutally exploited resource. In Peru, it's completely normal to see a naked woman used simply to draw attention to something. We are forced to separate the female physical form from her emotional or intellectual characteristics, categorizing it as an object with the exclusive function of satisfying the needs of the viewer.
 
 In this case, the woman is bending over in an unnatural position, showing her body in an explicit way. She is also covering her face, which is one of the easiest ways of identifying objectification in publicity because it eliminates important aspects of personality that could assign individuality to this body. We can easily think about it as a harmless way of drawing attention, but perceiving women as objects leads to the normalization of violence, just as seeing anyone as an object has consequences, which can even include infringing on their rights as a person.
 
 Gender roles are social constructions that set parameters on the way we live, think and the perception of goals for each gender. They are generally based on stereotypes that become rules for our behaviour.
  
-![image4-75d14d.png](/uploads/image4-75d14d.png) ![image5.png](/uploads/image5.png)       
+![image4-75d14d.png](/uploads/image4-75d14d.png) 
+
+![image5.png](/uploads/image5.png)  
+     
 In this example, we are comparing the difference between the messages in clothing for girls and boys in a large clothing chain in the mall in Cusco. We can see that when it comes to the clothing advertised specifically for girls we find messages like 'mommy's helper', while in the t-shirt we found on the boys section we found messages like 'big trouble'. These kinds of messages confirm that the natural attitude of boys should be to be naughty and make trouble, while limiting the role of girls to simply help their mothers, meaning being obedient. Besides this, both messages are in clothing of shapes and colors stereotypically assigned for each gender, providing clear evidence of the differences in the way society perceives the expected attitudes of girls and boys from that early age.
 
 Amongst the types of publicity that we saw the most during the mapping process, we found the ones that set unrealistic goals on the female appearance and expresses that there's just one way of being beautiful to be the most common. This teaches girls that they need to be beautiful to be valid and achieve their optimal development. In simple words, the messages to girls is: If you aren't pretty (according to the concept defined for you), all of your other intellectual and emotional characteristics will stay in the background.
