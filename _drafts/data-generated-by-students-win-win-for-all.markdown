@@ -4,6 +4,11 @@ date: 2019-01-26 18:52:00 Z
 Feature Image: "/uploads/image2-65e087.jpg"
 Working Group:
 - Community
+Country:
+- Peru
+Project:
+- 'Women Connect: #LetGirlsMap'
+- 'Community development: Microgrants and Device Grants'
 ---
 
 It’s not news to anyone familiar with the Latin American context that public institutions and social organisations are facing a wave of challenges. The high levels of inequality combined with corruption scandals mean that confidence in public sector institutions remains extremely low. Within the education sector, critical thinking and problem-solving skills are recognised as vital characteristics in young citizens. The need to motivate youth to actively participate in society, to build and maintain positive relations with public and private institutions and prevent them falling into the traps of populism is also widely accepted. Yet despite the importance of these theories, putting them into practice on a daily basis in the classroom isn’t always as easy.    
