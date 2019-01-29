@@ -1,8 +1,8 @@
 ---
 title: Steps for writing blog posts
+permalink: "/docs/guidelines/blog-posts"
 Doc Type:
   Is Guideline: true
-permalink: "/docs/guidelines/blog-posts"
 Apply Form Link: https://hotosm.slack.com/messages/hotosm-website/
 ---
 

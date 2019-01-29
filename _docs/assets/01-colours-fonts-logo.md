@@ -1,8 +1,8 @@
 ---
 title: Colours and fonts for the HOT style
+permalink: "/docs/assets/colours-fonts-logo"
 Doc Type:
   Is Asset: true
-permalink: "/docs/assets/colours-fonts-logo"
 Apply Form Link: https://hotosm.slack.com/messages/hotosm-website/
 ---
 

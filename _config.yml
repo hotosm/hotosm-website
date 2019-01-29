@@ -2,14 +2,14 @@
 title: Humanitarian OpenStreetMap Team
 timezone: UTC
 collections:
-  docs:
-    title: Docs & Guidelines
-    output: true
-    permalink: "/docs/:title/"
   where-we-work:
     title: Countries
     output: true
     permalink: "/where-we-work/:path/"
+  docs:
+    title: Docs & Guidelines
+    output: true
+    permalink: "/docs/:title/"
   impact-areas:
     title: Impact Areas
     output: true
@@ -49,10 +49,10 @@ defaults:
   values:
     permalink: updates/:title/
     layout: news-item
-    Summary Text:
-    Feature Image:
-    Is image top aligned:
-    Person:
+    Summary Text: 
+    Feature Image: 
+    Is image top aligned: 
+    Person: 
     Working Group:
     - ''
     Country:
@@ -64,23 +64,23 @@ defaults:
     type: people
   values:
     layout: person
-    Photo:
+    Photo: 
     Member Type:
-      Is Staff:
-      Is Voting Member:
-      Is Board Member:
-    Job Title:
+      Is Staff: 
+      Is Voting Member: 
+      Is Board Member: 
+    Job Title: 
     Working Group:
     - ''
     Project:
     - ''
-    Country:
+    Country: 
     Social Media (Full URL):
-      OSM:
-      Twitter:
-      LinkedIn:
-      Facebook:
-      Instagram:
+      OSM: 
+      Twitter: 
+      LinkedIn: 
+      Facebook: 
+      Instagram: 
 - scope:
     path: ''
     type: impact-areas
@@ -93,48 +93,48 @@ defaults:
   values:
     layout: page
     Doc Type:
-      Is Asset:
-      Is Guideline:
-      Is Siteleaf:
+      Is Asset: 
+      Is Guideline: 
+      Is Siteleaf: 
 - scope:
     path: ''
     type: tools
   values:
     layout: impact-area
-    Tool URL:
+    Tool URL: 
 - scope:
     path: ''
     type: jobs
   values:
     layout: page
-    Deadline Date:
-    Place of Work:
-    Apply Form Link:
+    Deadline Date: 
+    Place of Work: 
+    Apply Form Link: 
 - scope:
     path: ''
     type: where-we-work
   values:
     layout: country
     Contact Person:
-      Name:
-      Title:
-      Email:
-      Phone:
+      Name: 
+      Title: 
+      Email: 
+      Phone: 
     Location:
-      Location Name:
-      Address:
-      Phone:
-      Map Link:
+      Location Name: 
+      Address: 
+      Phone: 
+      Map Link: 
 - scope:
     path: ''
     type: projects
   values:
     layout: project-item
-    Project Summary Text:
-    Feature Image:
-    Is image top aligned:
-    Project Logo Image:
-    Is Community-Led:
+    Project Summary Text: 
+    Feature Image: 
+    Is image top aligned: 
+    Project Logo Image: 
+    Is Community-Led: 
     Country:
     - ''
     Impact Area:
@@ -144,14 +144,14 @@ defaults:
     Partner:
     - ''
     Duration:
-      Start Date:
+      Start Date: 
       End Date: Ongoing
 email: info@hotosm.org
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl:
-url:
+baseurl: 
+url: 
 twitter_username: hotosm
 github_username: hotosm
 markdown: kramdown

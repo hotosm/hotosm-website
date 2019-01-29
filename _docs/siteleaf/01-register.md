@@ -1,8 +1,8 @@
 ---
 title: How to register an account on Siteleaf
+permalink: "/docs/siteleaf/register"
 Doc Type:
   Is Siteleaf: true
-permalink: "/docs/siteleaf/register"
 Apply Form Link: https://hotosm.slack.com/messages/hotosm-website/
 ---
 

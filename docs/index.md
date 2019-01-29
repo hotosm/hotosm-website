@@ -4,14 +4,16 @@ date: 2019-01-21 08:30:00 Z
 position: 7
 block-1:
   Title: Assets
-  Text: Learn which fonts and colours to use, as you design for the website. Download relevant logos to include in your website or press release.
+  Text: Learn which fonts and colours to use, as you design for the website. Download
+    relevant logos to include in your website or press release.
 block-2:
   Title: Guidelines
-  Text: Read our guidelines for writing blog posts, editing your HOT profile, and selecting and uploading images.
+  Text: Read our guidelines for writing blog posts, editing your HOT profile, and
+    selecting and uploading images.
 block-3:
   Title: Siteleaf
   Text: Learn to use the Siteleaf interface to write posts on the HOT website.
-  Link: /docs/siteleaf/
+  Link: "/docs/siteleaf/"
 layout: groups
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: How to edit your profile page
+permalink: "/docs/guidelines/edit-profile"
 Doc Type:
   Is Guideline: true
-permalink: "/docs/guidelines/edit-profile"
 Apply Form Link: https://hotosm.slack.com/messages/hotosm-website/
 ---
 

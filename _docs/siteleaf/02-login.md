@@ -1,8 +1,8 @@
 ---
 title: How to login to Siteleaf
+permalink: "/docs/siteleaf/login/"
 Doc Type:
   Is Siteleaf: true
-permalink: "/docs/siteleaf/login/"
 Apply Form Link: https://hotosm.slack.com/messages/hotosm-website/
 ---
 

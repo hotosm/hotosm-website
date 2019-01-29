@@ -1,8 +1,8 @@
 ---
 title: Image guidelines for the website
+permalink: "/docs/guidelines/image-guidelines"
 Doc Type:
   Is Guideline: true
-permalink: "/docs/guidelines/image-guidelines"
 Apply Form Link: https://hotosm.slack.com/messages/hotosm-website/
 ---
 
