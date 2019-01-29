@@ -60,7 +60,12 @@ layout: default
 
       {% if page['Apply Form Link'] %}
       <div class="sticky-wrap">
-        <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Apply Form Link'] }}">Apply</a>
+        {% if page.url contains "jobs" %}
+          <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Apply Form Link'] }}">Apply</a>
+        {% elsif page.url contains "docs" %}
+          <p>Reach out to us on Slack, for additional support!</p><br/>
+          <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Apply Form Link'] }}">Slack channel</a>
+        {% endif %}
       </div>
       {% endif %}
 
