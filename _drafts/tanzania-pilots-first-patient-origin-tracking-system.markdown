@@ -1,16 +1,11 @@
 ---
 title: Tanzania Pilots First Patient Origin Tracking System
 date: 2019-01-29 18:10:00 Z
-Summary Text: 'Imagine you’re a doctor in one of the most densely populated cities
-  in East Africa. Imagine seeing a sharp spike in patients suffering from a certain
-  disease but, when examining the hospital’s record system, all you find is the most
-  basic patient location information: name and city of residence. Let’s say it is
-  the rainy season in Dar es Salaam and cholera cases are popping up across the city
-  but you lack the tools to pinpoint precisely where the origin and high risk areas
-  are. What do you do?'
 Country:
 - Tanzania
 ---
+
+Imagine you’re a doctor in one of the most densely populated cities in East Africa. Imagine seeing a sharp spike in patients suffering from a certain disease but, when examining the hospital’s record system, all you find is the most basic patient location information: name and city of residence. Let’s say it is the rainy season in Dar es Salaam and cholera cases are popping up across the city but you lack the tools to pinpoint precisely where the origin and high risk areas are. What do you do?
 
 This is the exact position that Dr. Omari Mahiza, a pediatrician at Amana Regional Referral Hospital in Dar es Salaam, has regularly found himself in. Some would say that Tanzania’s health sector is already struggling with a lack of system and infrastructure to add even more nuanced requirements. However, Dr. Mahiza in collaboration with the HOT team in Tanzania developed a method to collect more useful patient location data using the local knowledge citizens already possess of their own communities.
 
