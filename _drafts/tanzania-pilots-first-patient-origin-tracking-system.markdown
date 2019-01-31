@@ -29,6 +29,8 @@ To foster this change - along with adaptations to the hospital’s eHIS - HOT or
 ![hyperlocal-blog-image2.jpg](/uploads/hyperlocal-blog-image2.jpg)
 _Dr. Mahiza explains how assigning hyperlocal areas could help to identify patients and improve disease surveillance (feature image)_
 
+![amana-infographic.png](/uploads/amana-infographic.png)
+
 ## Disease/infection prevention
 
 Dr. Mahiza is even more optimistic: “The end goal for this project is disease prevention, once we have enough data we can get to work on identifying problem diseases in their problem (geographic) areas.” Dr. Mahiza’s method of disease prevention is simple, “Education and awareness raising are key. Once we have highlighted which areas are prone to malnutrition in infants, for example, we can take more aggressive steps to work with those specific communities and their leaders to educate parents about needed nutrition.”
