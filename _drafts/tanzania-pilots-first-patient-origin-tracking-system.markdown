@@ -4,6 +4,9 @@ date: 2019-01-29 18:10:00 Z
 Summary Text: 'Putting hyperlocal data to use at the Amana Regional Referral Hospital
   in Dar es Salaam. Pictured above: Dr. Omari Mahiza.'
 Feature Image: "/uploads/dr-omari-mahiza-image3.jpg"
+Person:
+- Belinda Japhet
+- Sara Amadi
 Country:
 - Tanzania
 ---
