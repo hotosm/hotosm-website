@@ -51,4 +51,11 @@ _Verifying the boundary traced by phone with the actual map of the area._
 
 Hyperlocal maps can help solve this problem. According to subward leader, Issa Suleiman, shina maps provide crucial information for leaders: “I need shina maps because they may help future subward leaders who may come after me to know how many wajumbe that the subward has, where they are located, and the number of houses each shina has. This will help ward management and record keeping.” Furthermore this will help community leaders to work with institutions such as hospitals to prevent disease outbreaks in their communities.
 
+<details>
+<summary> View the Amana Hospital infographic
+</summary>
+<hr>
+<p>
 ![amana-infographic.png](/uploads/amana-infographic.png)
+</p>
+</details>
