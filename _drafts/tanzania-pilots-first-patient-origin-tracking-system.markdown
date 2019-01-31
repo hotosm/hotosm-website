@@ -29,6 +29,13 @@ To foster this change - along with adaptations to the hospital’s eHIS - HOT or
 ![hyperlocal-blog-image2.jpg](/uploads/hyperlocal-blog-image2.jpg)
 _Dr. Mahiza explains how assigning hyperlocal areas could help to identify patients and improve disease surveillance (feature image)_
 
+<details>
+<summary>View the Amana Hospital Project infographic
+    <img src="/uploads/amana-info-top.png">
+</summary>
+<img src="/uploads/amana-info-bottom.png">
+</details>
+
 ## Disease/infection prevention
 
 Dr. Mahiza is even more optimistic: “The end goal for this project is disease prevention, once we have enough data we can get to work on identifying problem diseases in their problem (geographic) areas.” Dr. Mahiza’s method of disease prevention is simple, “Education and awareness raising are key. Once we have highlighted which areas are prone to malnutrition in infants, for example, we can take more aggressive steps to work with those specific communities and their leaders to educate parents about needed nutrition.”
@@ -50,12 +57,3 @@ Wajumbe play a key role in community members’ wellbeing. In some cases, health
 _Verifying the boundary traced by phone with the actual map of the area._
 
 Hyperlocal maps can help solve this problem. According to subward leader, Issa Suleiman, shina maps provide crucial information for leaders: “I need shina maps because they may help future subward leaders who may come after me to know how many wajumbe that the subward has, where they are located, and the number of houses each shina has. This will help ward management and record keeping.” Furthermore this will help community leaders to work with institutions such as hospitals to prevent disease outbreaks in their communities.
-
-<details>
-<summary> View the Amana Hospital infographic
-</summary>
-<hr>
-<p>
-![amana-infographic.png](/uploads/amana-infographic.png)
-</p>
-</details>
