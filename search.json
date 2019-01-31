@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: null
 ---
 
 [
@@ -7,7 +7,7 @@ layout:
 {
 "type":"Project",
 "title":"{{ project.title | escape }}",
-"summary":"{{ project['Summary Text'] | escape | truncatewords: 40 | prepend: ' ' }}",
+"summary":"{{ project['Summary Text'] | escape | truncatewords: 40 | strip | prepend: ' ' }}",
 "subtitle":"{{project['HOT Involvement'] | escape | prepend: ' ' }}",
 "url":"{{ site.url }}{{ project.url }}",
 "date":"{{ project.date }}",
@@ -18,7 +18,7 @@ layout:
 {
 "type":"Member",
 "title":"{{ person.title | escape }}",
-"summary":"{{ person.body | escape | truncatewords: 40 | prepend: ' ' }}",
+"summary":"{{ person.body | escape | truncatewords: 40 | strip | prepend: ' ' }}",
 "subtitle":"{{ person['Job Title'] | prepend: ' ' }}",
 "url":"{{ site.url }}{{ person.url }}",
 "date":"{{ person.date }}",
@@ -29,7 +29,7 @@ layout:
 {
 "type":"News",
 "title":"{{ post.title | escape }}",
-"summary":"{{ post['Summary Text'] | escape | truncatewords: 40 | prepend: ' ' }}",
+"summary":"{{ post['Summary Text'] | escape | truncatewords: 40 | strip | prepend: ' ' }}",
 "subtitle":"{{ post.Person | join: ', ' }}",
 "url":"{{ site.url }}{{ post.url }}",
 "date":"{{ post.date }}"
