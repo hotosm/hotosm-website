@@ -1,5 +1,5 @@
 ---
-title: Tanzania Pilots First Patient Origin Tracking System
+title: Piloting Tanzania's First Patient Origin Tracking System
 date: 2019-01-31 18:10:00 Z
 Summary Text: Putting hyperlocal data to use at the Amana Regional Referral Hospital
   in Dar es Salaam. Pictured above is Dr. Omari Mahiza who is helping lead the charge.
@@ -10,6 +10,7 @@ Person:
 - Sara Amadi
 Country:
 - Tanzania
+redirect_from: updates/tanzania-pilots-first-patient-origin-tracking-system/
 ---
 
 Imagine you’re a doctor in one of the most densely populated cities in East Africa. Imagine seeing a sharp spike in patients suffering from a certain disease but, when examining the hospital’s record system, all you find is the most basic patient location information: name and city of residence. Let’s say it is the rainy season in Dar es Salaam and cholera cases are popping up across the city but you lack the tools to pinpoint precisely where the origin and high risk areas are. What do you do?
