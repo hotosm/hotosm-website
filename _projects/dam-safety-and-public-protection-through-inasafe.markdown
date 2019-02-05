@@ -24,6 +24,8 @@ Partner:
 Duration:
   Start Date: 2017-01-01 00:00:00 Z
   End Date: 2017-12-31 00:00:00 Z
+permalink: projects/dam-safety-and-public-protection-through-inasafe
+redirect_from: projects/dam-safety-and-public-protection-through-inasafe
 
 
 ---

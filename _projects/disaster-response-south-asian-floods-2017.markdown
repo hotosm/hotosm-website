@@ -11,6 +11,8 @@ Impact Area:
 - Disaster Response
 Person:
 - Tasauf A Baki Billah (Ribin)
+permalink: projects/disaster-response-south-asian-floods-2017
+redirect_from: projects/disaster-response-south-asian-floods-2017
 
 
 ---

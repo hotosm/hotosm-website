@@ -12,6 +12,8 @@ Impact Area:
 - Gender Equality
 - Water & Sanitation
 Micrograntee: true
+permalink: projects/asian-university-for-women-auw-youthmappers
+redirect_from: projects/asian-university-for-women-auw-youthmappers
 
 ---
 

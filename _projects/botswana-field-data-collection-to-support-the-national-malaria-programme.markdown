@@ -16,7 +16,8 @@ Partner:
 Duration:
   Start Date: 2018-04-01 00:00:00 Z
   End Date: 2018-06-30 00:00:00 Z
-redirect_from: "/projects/botswana_field_data_collection_to_support_the_national_malaria_programme"
+permalink: /projects/botswana_field_data_collection_to_support_the_national_malaria_programme
+redirect_from: /projects/botswana_field_data_collection_to_support_the_national_malaria_programme
 tm_campaigns:
 - Malaria Elimination
 ---

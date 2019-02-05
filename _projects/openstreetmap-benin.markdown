@@ -1,6 +1,8 @@
 ---
 title: 'OSM Benin: Mapping for Lassa Fever'
 date: 2018-05-16 07:16:00 Z
+permalink: projects/openstreetmap-benin
+redirect_from: projects/openstreetmap-benin
 position: 38
 Project Summary Text: Mapping areas at risk of epidemiological crises in Benin
 Feature Image: "/uploads/WhatsApp%20Image%202018-06-08%20at%2012.34.39%20PM%20(2).jpeg"

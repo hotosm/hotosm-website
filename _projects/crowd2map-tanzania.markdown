@@ -16,6 +16,8 @@ Person:
 - Janet Chapman
 Micrograntee: true
 Link: http://www.tanzdevtrust.org/
+permalink: projects/crowd2map-tanzania
+redirect_from: projects/crowd2map-tanzania
 tm_campaigns:
 - Missing Maps
 - Female Genital Mutilation

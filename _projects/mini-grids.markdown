@@ -2,6 +2,8 @@
 title: 'Informing rural electrification: Mini Grids'
 date: 2018-06-07 12:45:00 Z
 position: 8
+permalink: projects/mini-grids
+redirect_from: projects/mini-grids
 Project Summary Text: The HOT Tanzania team are mapping rural areas of Tanzania to
   better understand the viability of providing off-grid, renewable electricity solutions.
 Feature Image: "/uploads/WhatsApp%20Image%202018-03-19%20at%207.45.20%20PM.jpeg"
