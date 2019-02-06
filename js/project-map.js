@@ -135,7 +135,7 @@ const loadMapLayers = () => {
     })
     .then(function (jsonData) {
       projectExtentJSON = jsonData
-      var bbox = turf.bbox(projectExtentJSON)
+      var bbox = turf.bbox(projectExtentJSON.features[0])
       // set bounds according to features
       map.fitBounds(bbox, {
         padding: 50,

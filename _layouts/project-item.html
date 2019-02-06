@@ -23,8 +23,12 @@ layout: default
         </p>
         {% endif %}
         <p class="project-status">
-
-            {% if page['Duration']['End Date'] == 'Ongoing' %} Active {% else %} Completed {% endif %}
+            {% if page['Duration']['End Date'] == 'Ongoing' %} ACTIVE {% else %} 
+            {% capture currenttime %}{{ 'now' | date: "%Y-%m-%d %H:%M:%s" }}{% endcapture %}
+            {% capture pagetime %}{{ page['Duration']['End Date'] }}{% endcapture %}
+            {% if pagetime < currenttime %} COMPLETED 
+            {% else %} ACTIVE {% endif %}
+            {% endif %}
         </p>
     </div>
 </header>
