@@ -5,6 +5,7 @@ Project Summary Text: HOT is working with UNDP and Uganda’s Office of the Prim
   (OPM) to provide additional data and mapping inputs to hazard, exposure, vulnerability,
   and risk profiling in support of the development of the “Refugee hosting district
   Risk profiles” and Risk Atlas, based on the methodology developed by the OPM.
+Feature Image: "/uploads/IMG_20180628_152721.jpg"
 Country:
 - Uganda
 Impact Area:
