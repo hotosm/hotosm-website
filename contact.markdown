@@ -29,11 +29,6 @@ Office Locations:
     Jalan Tebet Timur Dalam VII No. 15
     Tebet, Jakarta 12820
     Indonesia
-
-    [HOT Indonesia Semarang Office](https://www.openstreetmap.org/way/477532474)
-    Jalan Bukit Merak No.5
-    Sumurboto, Banyumanik, Semarang
-    Indonesia
   - |-
     **Tanzania**
 
