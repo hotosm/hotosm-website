@@ -32,11 +32,10 @@ Office Locations:
   - |-
     **Tanzania**
 
-    [Tanzania Data Lab (dLab)](https://www.openstreetmap.org/node/5467972321)
-    New Bagamoyo Road
-    Kijitonyama
-    Dar es Salaam, Coastal, 4023
-    Tanzania
+    [OpenMap Development Tanzania](https://www.openstreetmap.org/way/363709398)
+    Plot 228, House 15, Lukuledi Street
+    Regent Estate, Mikocheni
+    Dar es Salaam
   - |-
     **Uganda**
 
