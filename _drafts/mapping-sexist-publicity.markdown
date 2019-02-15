@@ -21,7 +21,7 @@ Our mapping process lasted for about 5 months, from July to October. We used cel
 
 After gathering the images, we uploaded the information to MapHub and analyzed the content. We categorised the information collected in MapHub, with the objectification of women in advertising identified as a star, the perpetuation of gender roles identified as droplets and all the advertising that imposes unrealistic expectations of female bodies, identified with the flame.
 
-![image6_cropped.png](/uploads/image6_cropped.png)
+![image6_crop.png](/uploads/image6_crop.png)
 
 The objectification of women is a brutally exploited resource. In Peru, it's completely normal to see a naked woman used simply to draw attention to something. We are forced to separate the female physical form from her emotional or intellectual characteristics, categorizing it as an object with the exclusive function of satisfying the needs of the viewer.
 
