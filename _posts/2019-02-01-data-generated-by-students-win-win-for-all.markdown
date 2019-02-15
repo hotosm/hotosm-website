@@ -13,14 +13,19 @@ Project:
 - 'Community development: Microgrants and Device Grants'
 ---
 
+(Photo: Secondary school students from GAL School with the Regional Director of Education, Dr Patricia Luksic during the Semana de la Evidencia event Connected Youth and the creation of evidence for public policy)
+
 It’s not news to anyone familiar with the Latin American context that public institutions and social organisations are facing a wave of challenges. The high levels of inequality combined with corruption scandals mean that confidence in public sector institutions remains extremely low. Within the education sector, critical thinking and problem-solving skills are recognised as vital characteristics in young citizens. The need to motivate youth to actively participate in society, to build and maintain positive relations with public and private institutions and prevent them from falling into the traps of populism is also widely accepted. Yet despite the importance of these theories, putting them into practice on a daily basis in the classroom isn’t always as easy.   
 
 ![image1.jpg](/uploads/image1.jpg) 
+
 (Today’s context complicates the future for tomorrow’s citizens)
+
 Public institutions also feel social pressure to be more transparent, to better understand the needs of their populations and to provide more efficient solutions. The decision in Peru last year to postpone the national student evaluation, known as the Evaluación Censal de Estudiantes, or ECE, in the face of the extreme climate of El Niño provides a concrete example of what the state faces in terms of the punctual, accurate and cost-effective collection of data. 
 At the same time, disruption created by new digital technologies creates both threats and opportunities for government and schools alike. For each case of bullying on Facebook, sexist comment shared on Instagram or, negative “fake news” story that goes viral there is an opportunity for youth to observe, analyse and ask themselves: Why is this happening? Is it ok? What can I do to change things in line with what I want to see in my society? The use of technology stimulates students, who in many cases know how to leverage it much better than their teachers. 
 
 ![image3-410a1e.jpg](/uploads/image3-410a1e.jpg) 
+
 (Part of a heatmap developed by students using OSM, OSMTracker and QGIS to test their hypothesis that the closer to rubbish bins they are, the less rubbish they will find.)
 
 Within this context, GAL Group, an innovative education association in Cusco, Peru, has been leveraging OSM in a 5-step process with secondary school students. First, students are encouraged to identify challenges in their own societies, which they then create hypotheses around. Using mobile phones bought thanks to the HOT Device Grants program they create maps to prove or disprove their hypotheses before analysing them using Thinking routines, Thinking maps and graphic organisers. The final step for students is to propose and share potential solutions. 
@@ -29,8 +34,8 @@ In the first cohort of secondary school students, sexism, racism and the lack of
 
 On the 25th October, the students had the opportunity to present their projects to the Regional Director of Education and the Mayor of Cusco as part of an event during the Semana de la Evidencia, a decentralised annual festival celebrating the creation and use of evidence to improve policymaking in Latin America. 
 
-![GAL-MESA EVIDENCIA-18.jpg](/uploads/GAL-MESA%20EVIDENCIA-18.jpg)
-(Secondary school students from GAL School with the Regional Director of Education, Dr Patricia Luksic during the Semana de la Evidencia event Connected Youth and the creation of evidence for public policy)
+
+
 Whilst this initial project has served to test a new way of stimulating students to actively engage with their own socio-economic contexts, we hope to scale the project into more schools, and improve the matching between national priorities and student activities in the future. 
 
 *The educational organisation GAL Group was created by a family from Cusco, Peru in response to the poor education offering available in the region and is made up of GAL School and GAL Center. GAL School is based on three pedagogical pillars: Active Learning, Project-Based Learning, and Thinking. GAL Center focuses on diffusing the best of GAL School nationally through capacity building, teacher accompaniment and the innovative use of technology. *
