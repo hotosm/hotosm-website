@@ -1,5 +1,5 @@
 ---
-title: 'A community of collaborators for the Tasking Manager'
+title: A community of collaborators for the Tasking Manager
 date: 2019-02-18 11:11:11 Z
 Summary Text: 
 Feature Image: "/uploads/2019-02-tm-workshop-2.jpg"
