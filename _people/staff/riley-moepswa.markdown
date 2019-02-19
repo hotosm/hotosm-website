@@ -5,6 +5,6 @@ Photo: "/uploads/riley-2b680f.JPG"
 Member Type:
   Is Staff: true
 Job Title: Assistant Project Manager
-Country: Zambia
+Country: Global
 ---
 
