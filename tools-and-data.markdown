@@ -12,6 +12,8 @@ Block 1:
   Tools:
   - Name: Access our repositories
     URL: http://github.com/hotosm
+  - Name: Check Status
+    URL: https://status.hotosm.org
 Block 2:
   Header: Learn about OpenStreetMap
   Text: OpenStreetMap is a free street level map of the world, created by an ever
