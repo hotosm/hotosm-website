@@ -22,7 +22,7 @@ layout: default
           <h2>{{ page.block-1.Title }}</h2>
           <p>{{ page.block-1.Text }}</p>
           {% for group in site.docs %}
-            {% if group['Doc Type']['Is Asset'] %}
+            {% if group['Doc Type']['Is Siteleaf'] %}
               <a href="{{ group.url }}" class="module light link-through">
                 <div class="module-details">
                   <h3>{{ group.title }}</h3>
@@ -50,7 +50,7 @@ layout: default
         <h2>{{ page.block-3.Title }}</h2>
         <p>{{ page.block-3.Text }}</p>
           {% for group in site.docs %}
-            {% if group['Doc Type']['Is Siteleaf'] %}
+            {% if group['Doc Type']['Is Asset'] %}
               <a href="{{ group.url }}" class="module light link-through">
                 <div class="module-details">
                   <h3>{{ group.title }}</h3>

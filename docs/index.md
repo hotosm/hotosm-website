@@ -1,19 +1,18 @@
 ---
-title: Community Documentation
+title: Site Login & Documentation
 date: 2019-01-21 08:30:00 Z
 position: 7
 block-1:
-  Title: Website Assets
-  Text: Learn which fonts and colours to use, as you design for the website. Download
-    relevant logos to include in your website or press release.
+  Title: Access for Staff
+  Text: Learn to use the Siteleaf or GitHub interface to write posts on the HOT website.
 block-2:
   Title: Guidelines for Staff and Voting Members
   Text: Read our guidelines for writing blog posts, editing your HOT profile, and
     selecting and uploading images.
 block-3:
-  Title: Siteleaf Access for Staff
-  Text: Learn to use the Siteleaf interface to write posts on the HOT website.
-  Link: "/docs/siteleaf/"
+  Title: Website Assets
+  Text: Learn which fonts and colours to use, as you design for the website. Download
+    relevant logos to include in your website or press release.
 layout: groups
 ---
 
