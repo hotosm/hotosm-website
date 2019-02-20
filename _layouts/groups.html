@@ -22,12 +22,12 @@ layout: default
           <h2>{{ page.block-1.Title }}</h2>
           <p>{{ page.block-1.Text }}</p>
           {% for group in site.docs %}
-            {% if group['Doc Type']['Is Asset'] %}
-              <div class="module light link-through">
+            {% if group['Doc Type']['Is Siteleaf'] %}
+              <a href="{{ group.url }}" class="module light link-through">
                 <div class="module-details">
-                  <a href="{{ group.url }}"><h3>{{ group.title }}</h3></a>
+                  <h3>{{ group.title }}</h3>
                 </div>
-              </div>
+              </a>
             {% endif %}
           {% endfor %}
         {% endif %}
@@ -37,11 +37,11 @@ layout: default
           <p>{{ page.block-2.Text }}</p>
           {% for group in site.docs %}
             {% if group['Doc Type']['Is Guideline'] %}
-              <div class="module light link-through">
+              <a href="{{ group.permalink }}" class="module light link-through">
                 <div class="module-details">
-                  <a href="{{ group.permalink }}"><h3>{{ group.title }}</h3></a>
+                  <h3>{{ group.title }}</h3>
                 </div>
-              </div>
+              </a>
             {% endif %}
           {% endfor %}
         {% endif %}
@@ -50,12 +50,12 @@ layout: default
         <h2>{{ page.block-3.Title }}</h2>
         <p>{{ page.block-3.Text }}</p>
           {% for group in site.docs %}
-            {% if group['Doc Type']['Is Siteleaf'] %}
-              <div class="module light link-through">
+            {% if group['Doc Type']['Is Asset'] %}
+              <a href="{{ group.url }}" class="module light link-through">
                 <div class="module-details">
-                  <a href="{{ group.url }}"><h3>{{ group.title }}</h3></a>
+                  <h3>{{ group.title }}</h3>
                 </div>
-              </div>
+              </a>
             {% endif %}
           {% endfor %}
         {% endif %}

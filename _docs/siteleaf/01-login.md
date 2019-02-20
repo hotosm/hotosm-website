@@ -1,5 +1,5 @@
 ---
-title: How to login to Siteleaf
+title: Login to Website
 permalink: "/docs/siteleaf/login/"
 Doc Type:
   Is Siteleaf: true
@@ -8,9 +8,12 @@ Apply Form Link: https://hotosm.slack.com/messages/hotosm-website/
 
 If you need to edit content on the website, one method is to use Siteleaf, our content editing platform connected to Github. This allows a registered user to login and make edits through a lightweight content management system. Read more below about logging into Siteleaf.
 
-## Logging in:
+<a href="https://manage.siteleaf.com" class="btn btn-primary btn-lg btn-chevron">Login to Siteleaf</a>
+<a href="https://github.com" class="btn btn-primary btn-lg btn-chevron">Login to GitHub</a>
 
-Go to https://manage.siteleaf.com. If you haven't registered or logged into Siteleaf before, [follow these instructions first](/docs/siteleaf/register).
+## Logging into Siteleaf:
+
+Go to [manage.siteleaf.com](https://manage.siteleaf.com). If you haven't registered or logged into Siteleaf before, [follow these instructions first](/docs/siteleaf/register).
 
 Once logged in, you’ll see a view like this:
 
