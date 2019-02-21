@@ -74,18 +74,4 @@ The design MAY
 
 Have a look at the previous logos to get inspired
 
-HOT Summit 2018  
-
-![image4-63202e.png](/uploads/image4-63202e.png)
-
-HOT Summit 2017
-
-![image2-387607.png](/uploads/image2-387607.png)
-
-HOT Summit 2016 
-
-![image1-eb0250.png](/uploads/image1-eb0250.png =150x150)
-
-HOT Summit 2015
-
-![image3-0e6257.png](/uploads/image3-0e6257.png)
+![logos.png](/uploads/logos.png)
