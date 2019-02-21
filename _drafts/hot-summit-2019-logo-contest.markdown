@@ -15,10 +15,12 @@ By submitting a logo you will be assigning your copyright to HOT so that it can 
 Please submit your logo in PNG file format and a scalable file format (either SVG or PDF).
 
 **How to enter**
+
 Create your logo in PNG file format and a scalable file format (either SVG or PDF).
 Submit your logo via this [form](https://goo.gl/forms/lNk9YzmNcLTwAOe02)
 
 **Distribution**
+
 The [HOT Summit website](http://summit2019.hotosm.org/), flyers, emails, sponsor communications, t-shirts and potentially other conference ‘swag’ like fabric or plastic bags, keychains, pens etc. Printed material at the conference such as timetable of talks, notebooks, banners and conference guide. Potentially small web-based button images for use on third party websites to promote the conference or fact that someone is speaking there, for placement on blogs and other web pages.
 
 **Design**
