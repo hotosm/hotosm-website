@@ -50,7 +50,7 @@ The design MAY
 * For geeks only
 * Closed community
 
-**Previous logos **
+**Previous logos**
 
 Have a look at the previous logos to get inspired
 | HOTSummit 2018 | HOT Summit2017 | HOTSummit 2016 |HOTSummit 2015 |
