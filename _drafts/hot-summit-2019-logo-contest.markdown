@@ -84,7 +84,7 @@ HOT Summit 2017
 
 HOT Summit 2016 
 
-![image1-eb0250.png](/uploads/image1-eb0250.png){:height="150px" width="150px"}
+![image1-eb0250.png](/uploads/image1-eb0250.png =150x150)
 
 HOT Summit 2015
 
