@@ -21,6 +21,7 @@ Submit your logo via this [form](https://goo.gl/forms/lNk9YzmNcLTwAOe02)
 The [HOT Summit website](http://summit2019.hotosm.org/), flyers, emails, sponsor communications, t-shirts and potentially other conference ‘swag’ like fabric or plastic bags, keychains, pens etc. Printed material at the conference such as timetable of talks, notebooks, banners and conference guide. Potentially small web-based button images for use on third party websites to promote the conference or fact that someone is speaking there, for placement on blogs and other web pages.
 
 **Design**
+
 The design MUST
 * Include themes for Heidelberg, Germany
 * Be easily printable on t-shirts with as few colours as possible (no more than 3). This keeps the cost of printing down.
@@ -42,7 +43,7 @@ The design MAY
 * Trustworthiness
 * Global movement
 
-The design should not communicate
+**The design should not communicate**
 * Corporate/big business (as the sole element)
 * Complexity
 * Expensive
@@ -50,4 +51,5 @@ The design should not communicate
 * Closed community
 
 **Previous logos **
+
 Have a look at the previous logos to get inspired
