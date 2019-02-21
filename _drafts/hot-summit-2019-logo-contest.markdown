@@ -73,8 +73,19 @@ The design MAY
 **Previous logos**
 
 Have a look at the previous logos to get inspired
-![logos.png](/uploads/logos.png)
 
-| HOT Summit 2018  | HOT Summit 2017 | HOT Summit 2016 |
-| ---------------- | --------------- | --------------- |
-| !\[image4-63202e.png\](/uploads/image4-63202e.png)    | Content Cell    | Content Cell    |
+HOT Summit 2018  
+
+![image4-63202e.png](/uploads/image4-63202e.png)
+
+HOT Summit 2017
+
+![image2-387607.png](/uploads/image2-387607.png)
+
+HOT Summit 2016 
+
+![image1-eb0250.png](/uploads/image1-eb0250.png)
+
+HOT Summit 2015
+
+![image3-0e6257.png](/uploads/image3-0e6257.png)
