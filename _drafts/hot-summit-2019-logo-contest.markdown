@@ -3,7 +3,7 @@ title: HOT Summit 2019 Logo Contest
 date: 2019-02-21 19:29:00 Z
 ---
 
-HOT Summit, the annual global community meeting for the Humanitarian OpenStreetMap team is happening again this year from 19th - 20th September, in Heidelberg, Germany alongside the global State of the Map OpenStreetMap conference. The entire HOT community will come together to showcase projects, debate and share ideas, and learn how mapping projects are contributing to the Sustainable Development Goals. 
+[HOT Summit](https://summit.hotosm.org/), the annual global community meeting for the Humanitarian OpenStreetMap team is happening again this year from 19th - 20th September, in Heidelberg, Germany alongside the global [State of the Map OpenStreetMap conference](https://2019.stateofthemap.org/). The entire HOT community will come together to showcase projects, debate and share ideas, and learn how mapping projects are contributing to the Sustainable Development Goals. 
 
 The Summit Working Group is pleased to announce a call for logo designs. This is your opportunity to take part in the build up to the conference. You can submit your design as an individual or a team of people.
 
@@ -14,39 +14,40 @@ Please submit your logo in PNG file format and a scalable file format (either SV
 
 **How to enter**
 Create your logo in PNG file format and a scalable file format (either SVG or PDF).
-Submit your logo via this form https://goo.gl/forms/lNk9YzmNcLTwAOe02
+Submit your logo via this [form](https://goo.gl/forms/lNk9YzmNcLTwAOe02) 
 
 
 **Distribution**
-The HOT Summit website (http://summit2019.hotosm.org/), flyers, emails, sponsor communications, t-shirts and potentially other conference ‘schwag’ like fabric or plastic bags, keychains, pens etc. Printed material at the conference such as timetable of talks, notebooks, banners and conference guide. Potentially small web-based button images for use on third party websites to promote the conference or fact that someone is speaking there, for placement on blogs and other web pages.
+The [HOT Summit website](http://summit2019.hotosm.org/), flyers, emails, sponsor communications, t-shirts and potentially other conference ‘swag’ like fabric or plastic bags, keychains, pens etc. Printed material at the conference such as timetable of talks, notebooks, banners and conference guide. Potentially small web-based button images for use on third party websites to promote the conference or fact that someone is speaking there, for placement on blogs and other web pages.
 
 **Design**
 The design MUST
-Include themes for Heidelberg, Germany
-Be easily printable on t-shirts with as few colours as possible (no more than 3). This keeps the cost of printing down.
+* Include themes for Heidelberg, Germany
+* Be easily printable on t-shirts with as few colours as possible (no more than 3). This keeps the cost of printing down.
 Be delivered in PNG file format and a scalable format (SVG or PDF).
-Not include copyrighted material that is not yours
+* Not include copyrighted material that is not yours
+
 The design MAY
-Be able to be colour-negated so that black is white, white is black etc.
-Come in different sizes (example: the main logo and a variant for use on small print media such as badges).
+* Be able to be colour-negated so that black is white, white is black etc.
+* Come in different sizes (example: the main logo and a variant for use on small print media such as badges).
 
 **The design should communicate**
-Fun
-Cool
-Openness
-A sense of community
-The potential of OpenStreetMap
-A sense of learning and education
-Intelligence
-Trustworthiness
-Global movement
+* Fun
+* Cool
+* Openness
+* A sense of community
+* The potential of OpenStreetMap
+* A sense of learning and education
+* Intelligence
+* Trustworthiness
+* Global movement
 
 The design should not communicate
-Corporate/big business (as the sole element)
-Complexity
-Expensive
-For geeks only
-Closed community
-Previous logos 
+* Corporate/big business (as the sole element)
+* Complexity
+* Expensive
+* For geeks only
+* Closed community
 
-**Have a look at the previous logos to get inspired**
+**Previous logos **
+Have a look at the previous logos to get inspired
