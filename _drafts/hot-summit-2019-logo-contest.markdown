@@ -4,6 +4,11 @@ date: 2019-02-21 19:29:00 Z
 Summary Text: The Summit Working Group is pleased to announce the call for logo designs.
   This is your opportunity to take part in the build up to the conference. You can
   submit your design as an individual or as a group.
+Working Group:
+- Community
+Project:
+- HOT Summit 2019
+Field name: 
 ---
 
 [HOT Summit](https://summit.hotosm.org/), the annual global community meeting for the Humanitarian OpenStreetMap team is happening again this year from 19th - 20th September, in Heidelberg, Germany alongside the global [State of the Map OpenStreetMap conference](https://2019.stateofthemap.org/). The entire HOT community will come together to showcase projects, debate and share ideas, and learn how mapping projects are contributing to the Sustainable Development Goals.
