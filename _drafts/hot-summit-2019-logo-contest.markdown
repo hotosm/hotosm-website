@@ -1,7 +1,7 @@
 ---
 title: HOT Summit 2019 Logo Contest
 date: 2019-02-21 19:29:00 Z
-Summary Text: The Summit Working Group is pleased to announce a call for logo designs.
+Summary Text: The Summit Working Group is pleased to announce the call for logo designs.
   This is your opportunity to take part in the build up to the conference. You can
   submit your design as an individual or a team of people.
 ---
