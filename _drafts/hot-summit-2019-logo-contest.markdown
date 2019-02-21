@@ -54,6 +54,6 @@ The design MAY
 
 Have a look at the previous logos to get inspired
 | HOTSummit 2018 | HOT Summit2017 | HOTSummit 2016 |HOTSummit 2015 |
-|![image4-63202e.png](/uploads/image4-63202e.png)| ![image2-387607.png](/uploads/image2-387607.png) | ![image1-eb0250.png](/uploads/image1-eb0250.png) |![image3-0e6257.png](/uploads/image3-0e6257.png) |
+|![image4-63202e.png](/uploads/image4-63202e.png = 50x50)| ![image2-387607.png](/uploads/image2-387607.png = 50x50) | ![image1-eb0250.png](/uploads/image1-eb0250.png = 50x50) |![image3-0e6257.png](/uploads/image3-0e6257.png = 50x50) |
 
 
