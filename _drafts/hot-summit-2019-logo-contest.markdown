@@ -19,7 +19,6 @@ Please submit your logo in PNG file format and a scalable file format (either SV
 Create your logo in PNG file format and a scalable file format (either SVG or PDF).
 Submit your logo via this [form](https://goo.gl/forms/lNk9YzmNcLTwAOe02) 
 
-
 **Distribution**
 The [HOT Summit website](http://summit2019.hotosm.org/), flyers, emails, sponsor communications, t-shirts and potentially other conference ‘swag’ like fabric or plastic bags, keychains, pens etc. Printed material at the conference such as timetable of talks, notebooks, banners and conference guide. Potentially small web-based button images for use on third party websites to promote the conference or fact that someone is speaking there, for placement on blogs and other web pages.
 
@@ -58,4 +57,7 @@ The design MAY
 Have a look at the previous logos to get inspired
 ![logos.png](/uploads/logos.png)
 
+| HOT Summit 2018  | HOT Summit 2017 | HOT Summit 2016 |
+| ---------------- | --------------- | --------------- |
+| ![image4-63202e.png](/uploads/image4-63202e.png = 100x100)    | Content Cell    | Content Cell    |
 
