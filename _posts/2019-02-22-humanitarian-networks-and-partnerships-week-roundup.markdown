@@ -49,7 +49,7 @@ A key Alliance achievement was the launch of five new knowledge products. HOT, a
 
 **Data and Doing No Digital Harm**
 
-A prominent theme of the week was responsible data. Nathaniel Raymond brought up key points to challenge norms including proposing “info as aid” and questioning whether it is possible to “do no harm” if we do not know the full implications of the way data is currently used in our sector. 
+A prominent theme of the week was responsible data. Nathaniel Raymond, Professor at Jackson Institute, Yale University brought up key points to challenge norms including proposing “info as aid” and questioning whether it is possible to “do no harm” if we do not know the full implications of the way data is currently used in our sector. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/HNPW2019?src=hash&amp;ref_src=twsrc%5Etfw">#HNPW2019</a>: we don’t know if the way we use data is humanitarian. We need to move away from innovation and move towards protection before <a href="https://twitter.com/hashtag/innovation?src=hash&amp;ref_src=twsrc%5Etfw">#innovation</a> says <a href="https://twitter.com/nattyray11?ref_src=twsrc%5Etfw">@nattyray11</a> (my fav 🧠 in any humanitarian discussion)<a href="https://twitter.com/humdata?ref_src=twsrc%5Etfw">@humdata</a></p>&mdash; Alexandra Sicotte-Levesque (@alexandrasl) <a href="https://twitter.com/alexandrasl/status/1093093765613522944?ref_src=twsrc%5Etfw">February 6, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
