@@ -39,7 +39,7 @@ There is some exciting potential around H2H, and here’s why:
 
 The [Global Alliance for Urban Crises](http://urbancrises.org/) is is a global, multi-disciplinary and collaborative community of practice. It is a ‘network of networks’ working to prevent, prepare for and effectively respond to humanitarian crises in urban settings. One of the unique aspects of the Alliance is that it brings together groups who don’t typically work together -- from UN agencies to NGOs to city mayors to urban planners and built environment professionals.
 
-A key Alliance achievement was the launch of five new knowledge products. HOT, as a member of Alliance Working Group 1, provided input into the Urban Profiling product which can be found at http://urbancrises.org/downloads-0 
+A key Alliance achievement was the launch of five new knowledge products. HOT, as a member of Alliance Working Group 1, provided input into the [Urban Profiling product](http://urbancrises.org/downloads-0).
 
 ![IMG_20190210_083554.jpg](/uploads/IMG_20190210_083554.jpg)
 <em style="font-size: 0.8125rem;font-weight: bold;color: #68707F;"> The knowledge products in beautiful printed form.</em>
