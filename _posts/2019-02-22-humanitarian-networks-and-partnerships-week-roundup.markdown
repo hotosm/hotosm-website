@@ -14,6 +14,7 @@ Person: Tyler Radford
 Here are a few highlights from the week, and how they relate to HOT:
 
 **HOT and the H2H Network**
+
 The H2H Network is made up of humanitarian organizations that provide products or services to other humanitarian organizations - similar to the “business to business” or B2B model. The H2H concept got its start around the time of the 2016 inaugural World Humanitarian Summit in Istanbul. It’s now estimated that there are more than 70 such H2H organizations in Europe and North America alone.
 
 ![IMG_20190210_083404.jpg](/uploads/IMG_20190210_083404.jpg) The H2H brochure
@@ -32,6 +33,7 @@ Christina Wille of [Insecurity Insight](http://insecurityinsight.org/) and Marti
 4. Finally, with the size and diversity of the network’s members, there is a huge potential for collaborations and “packaging” humanitarian services in new ways. Assessment providers like [ACAPS](https://www.acaps.org/) could inform or be informed by geospatial data or map products produced by HOT, [MapAction](https://mapaction.org/) or [CartONG](http://www.cartong.org/). Voices of affected people could be captured and reported by organizations such as [Internews](https://www.internews.org/) or [GroundTruth Solutions](http://groundtruthsolutions.org/). Access to clean and safe drinking water could be informed by HOT and [Ground Water Relief](https://groundwater-relief.org/) opening up datasets on wells, boreholes and water systems. Safety and security of operations on the ground could be informed by organizations like Insecurity Insight. These are only but a few H2H member organizations.
 
 **Global Alliance for Urban Crises**
+
 The [Global Alliance for Urban Crises](http://urbancrises.org/) is is a global, multi-disciplinary and collaborative community of practice. It is a ‘network of networks’ working to prevent, prepare for and effectively respond to humanitarian crises in urban settings. One of the unique aspects of the Alliance is that it brings together groups who don’t typically work together -- from UN agencies to NGOs to city mayors to urban planners and built environment professionals.
 
 A key Alliance achievement was the launch of five new knowledge products. HOT, as a member of Alliance Working Group 1, provided input into the Urban Profiling product which can be found at http://urbancrises.org/downloads-0 
@@ -40,6 +42,7 @@ A key Alliance achievement was the launch of five new knowledge products. HOT, a
 The knowledge products in beautiful booklet form.
 
 **Data and Doing No Digital Harm**
+
 A prominent theme of the week was responsible data. Nathaniel Raymond brought up key points to challenge norms including proposing “info as aid” and questioning whether it is possible to “do no harm” if we do not know the full implications of the way data is currently used in our sector. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/HNPW2019?src=hash&amp;ref_src=twsrc%5Etfw">#HNPW2019</a>: we don’t know if the way we use data is humanitarian. We need to move away from innovation and move towards protection before <a href="https://twitter.com/hashtag/innovation?src=hash&amp;ref_src=twsrc%5Etfw">#innovation</a> says <a href="https://twitter.com/nattyray11?ref_src=twsrc%5Etfw">@nattyray11</a> (my fav 🧠 in any humanitarian discussion)<a href="https://twitter.com/humdata?ref_src=twsrc%5Etfw">@humdata</a></p>&mdash; Alexandra Sicotte-Levesque (@alexandrasl) <a href="https://twitter.com/alexandrasl/status/1093093765613522944?ref_src=twsrc%5Etfw">February 6, 2019</a></blockquote>
