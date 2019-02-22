@@ -23,7 +23,7 @@ The [H2H Network](https://www.h2hworks.org/) is made up of humanitarian organiza
 
 There is some exciting potential around H2H, and here’s why:
 
-* First, it builds on the concept of the [Digital Humanitarian Network](http://digitalhumanitarians.com/) but takes it to the next level. A number of our longstanding DHN partners such as Translators Without Borders, MapAction, CartONG, and Standby Task Force are also H2H members. Through these members and others such as ACAPS, IDMC, IMPACT Initiatives / REACH, IRIN, RedR UK -- we go beyond “digital” humanitarianism to include organizations providing valuable services both remotely and on the ground.
+* First, it builds on the concept of the [Digital Humanitarian Network](http://digitalhumanitarians.com/) but takes it to the next level. A number of our longstanding DHN partners such as [Translators Without Borders](https://translatorswithoutborders.org/), [MapAction](https://mapaction.org/), [CartONG](http://www.cartong.org/), and [Standby Task Force](http://www.standbytaskforce.org/) are also H2H members. Through these members and others such as [ACAPS](https://www.acaps.org/), [IDMC](http://www.internal-displacement.org/), [IMPACT Initiatives](http://www.impact-initiatives.org/) / [REACH](http://www.reach-initiative.org/), [IRIN](https://www.irinnews.org/), [RedR UK](https://www.redr.org.uk/) -- we go beyond “digital” humanitarianism to include organizations providing valuable services both remotely and on the ground.
 
 * Second, donors have recognized the potential. DfID has granted the network £3.3 million over 3 years to support humanitarian response by H2H members. The fund will be managed by Danish Refugee Council.
 
