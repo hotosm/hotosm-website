@@ -55,7 +55,7 @@ A prominent theme of the week was responsible data. Nathaniel Raymond, Professor
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br />
 
-Heather Leson of IFRC and Javier Teran of UN OCHA’s Centre for Humanitarian Data co-led a session on data literacy:
+Former HOT Board member Heather Leson (of IFRC and current OpenStreetMap Foundation President) and Javier Teran of UN OCHA’s Centre for Humanitarian Data co-led a session on data literacy:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks for joining our discussion about <a href="https://twitter.com/hashtag/dataliteracy?src=hash&amp;ref_src=twsrc%5Etfw">#dataliteracy</a> &amp; convening a Data Literacy Consortium with <a href="https://twitter.com/Federation?ref_src=twsrc%5Etfw">@Federation</a> <a href="https://twitter.com/humdata?ref_src=twsrc%5Etfw">@humdata</a> Here are our slides - <a href="https://t.co/ryMAPOpFpB">https://t.co/ryMAPOpFpB</a> <a href="https://twitter.com/hashtag/hnpw2019?src=hash&amp;ref_src=twsrc%5Etfw">#hnpw2019</a> .</p>&mdash; HeatherLeson (@HeatherLeson) <a href="https://twitter.com/HeatherLeson/status/1092417777984516097?ref_src=twsrc%5Etfw">February 4, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
