@@ -12,8 +12,6 @@ Person: Tyler Radford
 ---
 
 Here are a few highlights from the week, and how they relate to HOT:
-![IMG_20190206_133814.jpg](/uploads/IMG_20190206_133814.jpg)
-Notes on a bulletin board: Why participants came to Geneva
 
 **HOT and the H2H Network**
 The H2H Network is made up of humanitarian organizations that provide products or services to other humanitarian organizations - similar to the “business to business” or B2B model. The H2H concept got its start around the time of the 2016 inaugural World Humanitarian Summit in Istanbul. It’s now estimated that there are more than 70 such H2H organizations in Europe and North America alone.
