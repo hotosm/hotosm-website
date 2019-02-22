@@ -27,7 +27,7 @@ There is some exciting potential around H2H, and here’s why:
 
 * Second, donors have recognized the potential. DfID has granted the network £3.3 million over 3 years to support humanitarian response by H2H members. The fund will be managed by Danish Refugee Council.
 
-* Third, design of the services provided by the network and its members and the way funding gets disbursed was entrusted to the H2H network itself. In Geneva, we made some significant progress on this in facilitated sessions, thanks to a small but talented group of professionals leading the “secretariat” of the network including Jude Burchett (ACAPS) and Rebecca Petras (formerly Translators Without Borders).
+* Third, design of the services provided by the network and its members and the way funding gets disbursed was entrusted to the H2H network itself. In Geneva, we made some significant progress on this in facilitated sessions, thanks to a small but talented group of professionals leading the “secretariat” of the network including Jude Burchett (previously with ACAPS) and Rebecca Petras (previously with Translators Without Borders).
 
 ![IMG_20190207_152430.jpg](/uploads/IMG_20190207_152430.jpg)
 <em style="font-size: 0.8125rem;font-weight: bold;color: #68707F;">Christina Wille of Insecurity Insight and Martin Noblecourt of CartONG present thoughts on the H2H funding mechanism</em>
