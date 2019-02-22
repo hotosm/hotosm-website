@@ -63,7 +63,6 @@ Former HOT Board member Heather Leson (of IFRC and current OpenStreetMap Foundat
 
 For more information on Humanitarian Networks and Partnerships Week, please read the official [Event Summary](https://vosocc.unocha.org/GetFile.aspx?file=86207_HNPW2019_Event_Summary_version_1.pdf) or [get in contact with me anytime](https://www.hotosm.org/people/tyler-radford/).
 
-- *Tyler *
+- Tyler
 
-*All photos CC-BY Tyler Radford*
-*Header photo by Anna Francesca Jennings (www.annafrancescajennings.com)*
+*All photos CC-BY Tyler Radford except header photo by Anna Francesca Jennings (www.annafrancescajennings.com)*
