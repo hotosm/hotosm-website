@@ -18,7 +18,7 @@ Here are a few highlights from the week, and how they relate to HOT:
 The H2H Network is made up of humanitarian organizations that provide products or services to other humanitarian organizations - similar to the “business to business” or B2B model. The H2H concept got its start around the time of the 2016 inaugural World Humanitarian Summit in Istanbul. It’s now estimated that there are more than 70 such H2H organizations in Europe and North America alone.
 
 ![The H2H brochure](/uploads/IMG_20190210_083404.jpg)
-*The H2H broche*
+<em style="font-size: 0.8125rem;font-weight: bold;color: #68707F;">The H2H brochure</em>
 
 There is some exciting potential around H2H, and here’s why:
 
@@ -29,7 +29,7 @@ There is some exciting potential around H2H, and here’s why:
 3. Third, design of the services provided by the network and its members and the way funding gets disbursed was entrusted to the H2H network itself. In Geneva, we made some significant progress on this in facilitated sessions, thanks to a small but talented group of professionals leading the “secretariat” of the network including Jude Burchett (ACAPS) and Rebecca Petras (formerly Translators Without Borders).
 
 ![IMG_20190207_152430.jpg](/uploads/IMG_20190207_152430.jpg)
-Christina Wille of Insecurity Insight and Martin Noblecourt of CartONG present thoughts on the H2H funding mechanism
+<em style="font-size: 0.8125rem;font-weight: bold;color: #68707F;">Christina Wille of Insecurity Insight and Martin Noblecourt of CartONG present thoughts on the H2H funding mechanism</em>
 
 4. Finally, with the size and diversity of the network’s members, there is a huge potential for collaborations and “packaging” humanitarian services in new ways. Assessment providers like [ACAPS](https://www.acaps.org/) could inform or be informed by geospatial data or map products produced by HOT, [MapAction](https://mapaction.org/) or [CartONG](http://www.cartong.org/). Voices of affected people could be captured and reported by organizations such as [Internews](https://www.internews.org/) or [GroundTruth Solutions](http://groundtruthsolutions.org/). Access to clean and safe drinking water could be informed by HOT and [Ground Water Relief](https://groundwater-relief.org/) opening up datasets on wells, boreholes and water systems. Safety and security of operations on the ground could be informed by organizations like [Insecurity Insight](http://insecurityinsight.org/). These are only but a few H2H member organizations.
 
@@ -41,7 +41,7 @@ The [Global Alliance for Urban Crises](http://urbancrises.org/) is is a global, 
 A key Alliance achievement was the launch of five new knowledge products. HOT, as a member of Alliance Working Group 1, provided input into the Urban Profiling product which can be found at http://urbancrises.org/downloads-0 
 
 ![IMG_20190210_083554.jpg](/uploads/IMG_20190210_083554.jpg)
-The knowledge products in beautiful booklet form.
+<em style="font-size: 0.8125rem;font-weight: bold;color: #68707F;"> The knowledge products in beautiful printed form.</em>
 
 
 **Data and Doing No Digital Harm**
