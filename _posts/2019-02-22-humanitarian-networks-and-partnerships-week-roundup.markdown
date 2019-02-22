@@ -8,7 +8,7 @@ Summary Text: 'Humanitarian Networks and Partnerships Week is a week when more t
   and Cooperation (SDC). HOT is a member of two of the networks: the Humanitarian
   to Humanitarian (known as the “H2H Network”) and the Global Alliance for Urban Crises.'
 Feature Image: "/uploads/52268880_2522441977784681_7337789782258352128_o%20(2).jpg"
-Is image top aligned: true
+Is image top aligned: false
 Person: Tyler Radford
 ---
 
