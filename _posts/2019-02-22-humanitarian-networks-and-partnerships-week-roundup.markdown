@@ -35,6 +35,7 @@ There is some exciting potential around H2H, and here’s why:
 * Finally, with the size and diversity of the network’s members, there is a huge potential for collaborations and “packaging” humanitarian services in new ways. Assessment providers like [ACAPS](https://www.acaps.org/) could inform or be informed by geospatial data or map products produced by HOT, [MapAction](https://mapaction.org/) or [CartONG](http://www.cartong.org/). Voices of affected people could be captured and reported by organizations such as [Internews](https://www.internews.org/) or [GroundTruth Solutions](http://groundtruthsolutions.org/). Access to clean and safe drinking water could be informed by HOT and [Ground Water Relief](https://groundwater-relief.org/) opening up datasets on wells, boreholes and water systems. Safety and security of operations on the ground could be improved by organizations like [Insecurity Insight](http://insecurityinsight.org/). These are only but a few H2H member organizations.
 <br />
 
+
 **Global Alliance for Urban Crises**
 
 The [Global Alliance for Urban Crises](http://urbancrises.org/) is is a global, multi-disciplinary and collaborative community of practice. It is a ‘network of networks’ working to prevent, prepare for and effectively respond to humanitarian crises in urban settings. One of the unique aspects of the Alliance is that it brings together groups who don’t typically work together -- from UN agencies to NGOs to city mayors to urban planners and built environment professionals.
