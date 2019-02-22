@@ -43,7 +43,7 @@ A key Alliance achievement was the launch of five new knowledge products. HOT, a
 
 ![IMG_20190210_083554.jpg](/uploads/IMG_20190210_083554.jpg)
 <em style="font-size: 0.8125rem;font-weight: bold;color: #68707F;"> The knowledge products in beautiful printed form.</em>
-
+<br />
 
 **Data and Doing No Digital Harm**
 
