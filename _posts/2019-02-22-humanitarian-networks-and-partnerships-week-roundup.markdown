@@ -39,11 +39,6 @@ A key Alliance achievement was the launch of five new knowledge products. HOT, a
 ![IMG_20190210_083554.jpg](/uploads/IMG_20190210_083554.jpg)
 The knowledge products in beautiful booklet form.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/GAUrbanCrises?ref_src=twsrc%5Etfw">@GAUrbanCrises</a> meeting with Mayor of Geneva, <a href="https://twitter.com/sami_kanaan?ref_src=twsrc%5Etfw">@sami_kanaan</a> <a href="https://twitter.com/hashtag/ThinkUrban?src=hash&amp;ref_src=twsrc%5Etfw">#ThinkUrban</a> <a href="https://t.co/d0WvZHzhoc">pic.twitter.com/d0WvZHzhoc</a></p>&mdash; GAUrbanCrises (@GAUrbanCrises) <a href="https://twitter.com/GAUrbanCrises/status/1093482653133750272?ref_src=twsrc%5Etfw">February 7, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
 **Data and Doing No Digital Harm**
 A prominent theme of the week was responsible data. Nathaniel Raymond brought up key points to challenge norms including proposing “info as aid” and questioning whether it is possible to “do no harm” if we do not know the full implications of the way data is currently used in our sector. 
 
