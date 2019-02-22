@@ -65,5 +65,5 @@ For more information on Humanitarian Networks and Partnerships Week, please read
 
 - *Tyler *
 
-*All photos CC-BY Tyler Radford
-Header photo by Anna Francesca Jennings (www.annafrancescajennings.com)*
+*All photos CC-BY Tyler Radford*
+*Header photo by Anna Francesca Jennings (www.annafrancescajennings.com)*
