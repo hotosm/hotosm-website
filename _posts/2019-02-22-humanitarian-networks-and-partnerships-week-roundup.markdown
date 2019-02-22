@@ -16,8 +16,7 @@ Here are a few highlights from the week, and how they relate to HOT:
 **HOT and the H2H Network**
 The H2H Network is made up of humanitarian organizations that provide products or services to other humanitarian organizations - similar to the “business to business” or B2B model. The H2H concept got its start around the time of the 2016 inaugural World Humanitarian Summit in Istanbul. It’s now estimated that there are more than 70 such H2H organizations in Europe and North America alone.
 
-![IMG_20190210_083404.jpg](/uploads/IMG_20190210_083404.jpg)
-The H2H brochure
+![IMG_20190210_083404.jpg](/uploads/IMG_20190210_083404.jpg) The H2H brochure
 
 There is some exciting potential around H2H, and here’s why:
 
