@@ -16,14 +16,14 @@ Here are a few highlights from the week, and how they relate to HOT:
 
 **HOT and the H2H Network**
 
-The H2H Network is made up of humanitarian organizations that provide products or services to other humanitarian organizations - similar to the “business to business” or B2B model. The H2H concept got its start around the time of the 2016 inaugural World Humanitarian Summit in Istanbul. It’s now estimated that there are more than 70 such H2H organizations in Europe and North America alone.
+The [H2H Network](https://www.h2hworks.org/) is made up of humanitarian organizations that provide products or services to other humanitarian organizations - similar to the “business to business” or B2B model. The H2H concept got its start around the time of the 2016 inaugural World Humanitarian Summit in Istanbul. It’s now estimated that there are more than 70 such H2H organizations in Europe and North America alone.
 
 ![The H2H brochure](/uploads/IMG_20190210_083404.jpg)
 <em style="font-size: 0.8125rem;font-weight: bold;color: #68707F;">The H2H brochure</em>
 
 There is some exciting potential around H2H, and here’s why:
 
-* First, it builds on the concept of the Digital Humanitarian Network but takes it to the next level. A number of our longstanding DHN partners such as Translators Without Borders, MapAction, CartONG, and Standby Task Force are also H2H members. Through these members and others such as ACAPS, IDMC, IMPACT Initiatives / REACH, IRIN, RedR UK -- we go beyond “digital” humanitarianism to include organizations providing valuable services both remotely and on the ground.
+* First, it builds on the concept of the [Digital Humanitarian Network](http://digitalhumanitarians.com/) but takes it to the next level. A number of our longstanding DHN partners such as Translators Without Borders, MapAction, CartONG, and Standby Task Force are also H2H members. Through these members and others such as ACAPS, IDMC, IMPACT Initiatives / REACH, IRIN, RedR UK -- we go beyond “digital” humanitarianism to include organizations providing valuable services both remotely and on the ground.
 
 * Second, donors have recognized the potential. DfID has granted the network £3.3 million over 3 years to support humanitarian response by H2H members. The fund will be managed by Danish Refugee Council.
 
