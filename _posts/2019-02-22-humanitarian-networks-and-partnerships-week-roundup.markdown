@@ -1,6 +1,7 @@
 ---
 title: Humanitarian Networks and Partnerships Week Roundup
 date: 2019-02-22 20:55:00 Z
+published: false
 Summary Text: 'Humanitarian Networks and Partnerships Week is a week when more than
   25 networks and partnerships hold annual meetings in Geneva. This year, the event
   was held from February 4-8 and co-chaired by OCHA and the Swiss Agency for Development
