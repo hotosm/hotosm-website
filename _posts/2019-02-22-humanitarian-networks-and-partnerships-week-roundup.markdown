@@ -23,17 +23,17 @@ The H2H Network is made up of humanitarian organizations that provide products o
 
 There is some exciting potential around H2H, and here’s why:
 
-1. First, it builds on the concept of the Digital Humanitarian Network but takes it to the next level. A number of our longstanding DHN partners such as Translators Without Borders, MapAction, CartONG, and Standby Task Force are also H2H members. Through these members and others such as ACAPS, IDMC, IMPACT Initiatives / REACH, IRIN, RedR UK -- we go beyond “digital” humanitarianism to include organizations providing valuable services both remotely and on the ground.
+* First, it builds on the concept of the Digital Humanitarian Network but takes it to the next level. A number of our longstanding DHN partners such as Translators Without Borders, MapAction, CartONG, and Standby Task Force are also H2H members. Through these members and others such as ACAPS, IDMC, IMPACT Initiatives / REACH, IRIN, RedR UK -- we go beyond “digital” humanitarianism to include organizations providing valuable services both remotely and on the ground.
 
-2. Second, donors have recognized the potential. DfID has granted the network £3.3 million over 3 years to support humanitarian response by H2H members. The fund will be managed by Danish Refugee Council.
+* Second, donors have recognized the potential. DfID has granted the network £3.3 million over 3 years to support humanitarian response by H2H members. The fund will be managed by Danish Refugee Council.
 
-3. Third, design of the services provided by the network and its members and the way funding gets disbursed was entrusted to the H2H network itself. In Geneva, we made some significant progress on this in facilitated sessions, thanks to a small but talented group of professionals leading the “secretariat” of the network including Jude Burchett (ACAPS) and Rebecca Petras (formerly Translators Without Borders).
+* Third, design of the services provided by the network and its members and the way funding gets disbursed was entrusted to the H2H network itself. In Geneva, we made some significant progress on this in facilitated sessions, thanks to a small but talented group of professionals leading the “secretariat” of the network including Jude Burchett (ACAPS) and Rebecca Petras (formerly Translators Without Borders).
 
 ![IMG_20190207_152430.jpg](/uploads/IMG_20190207_152430.jpg)
 <em style="font-size: 0.8125rem;font-weight: bold;color: #68707F;">Christina Wille of Insecurity Insight and Martin Noblecourt of CartONG present thoughts on the H2H funding mechanism</em>
 
-4. Finally, with the size and diversity of the network’s members, there is a huge potential for collaborations and “packaging” humanitarian services in new ways. Assessment providers like [ACAPS](https://www.acaps.org/) could inform or be informed by geospatial data or map products produced by HOT, [MapAction](https://mapaction.org/) or [CartONG](http://www.cartong.org/). Voices of affected people could be captured and reported by organizations such as [Internews](https://www.internews.org/) or [GroundTruth Solutions](http://groundtruthsolutions.org/). Access to clean and safe drinking water could be informed by HOT and [Ground Water Relief](https://groundwater-relief.org/) opening up datasets on wells, boreholes and water systems. Safety and security of operations on the ground could be informed by organizations like [Insecurity Insight](http://insecurityinsight.org/). These are only but a few H2H member organizations.
-
+* Finally, with the size and diversity of the network’s members, there is a huge potential for collaborations and “packaging” humanitarian services in new ways. Assessment providers like [ACAPS](https://www.acaps.org/) could inform or be informed by geospatial data or map products produced by HOT, [MapAction](https://mapaction.org/) or [CartONG](http://www.cartong.org/). Voices of affected people could be captured and reported by organizations such as [Internews](https://www.internews.org/) or [GroundTruth Solutions](http://groundtruthsolutions.org/). Access to clean and safe drinking water could be informed by HOT and [Ground Water Relief](https://groundwater-relief.org/) opening up datasets on wells, boreholes and water systems. Safety and security of operations on the ground could be informed by organizations like [Insecurity Insight](http://insecurityinsight.org/). These are only but a few H2H member organizations.
+<br />
 
 **Global Alliance for Urban Crises**
 
@@ -61,7 +61,7 @@ Heather Leson of IFRC and Javier Teran of UN OCHA’s Centre for Humanitarian Da
 
 For more information on Humanitarian Networks and Partnerships Week, please read the official [Event Summary](https://vosocc.unocha.org/GetFile.aspx?file=86207_HNPW2019_Event_Summary_version_1.pdf) or [get in contact with me anytime](https://www.hotosm.org/people/tyler-radford/).
 
-- Tyler 
+- *Tyler *
 
 *All photos CC-BY Tyler Radford
 Header photo by Anna Francesca Jennings (www.annafrancescajennings.com)*
