@@ -19,7 +19,7 @@ Here are a few highlights from the week, and how they relate to HOT:
 The [H2H Network](https://www.h2hworks.org/) is made up of humanitarian organizations that provide products or services to other humanitarian organizations - similar to the “business to business” or B2B model. The H2H concept got its start around the time of the 2016 inaugural World Humanitarian Summit in Istanbul. It’s now estimated that there are more than 70 such H2H organizations in Europe and North America alone.
 
 ![The H2H brochure](/uploads/IMG_20190210_083404.jpg)
-_The H2H brochure_
+*The H2H brochure*
 
 There is some exciting potential around H2H, and here’s why:
 
@@ -29,8 +29,8 @@ There is some exciting potential around H2H, and here’s why:
 
 * Third, design of the services provided by the network and its members and the way funding gets disbursed was entrusted to the H2H network itself. In Geneva, we made some significant progress on this in facilitated sessions, thanks to a small but talented group of professionals leading the “secretariat” of the network including Jude Burchett (previously with ACAPS) and Rebecca Petras (previously with Translators Without Borders).
 
-![IMG_20190207_152430](/uploads/IMG_20190207_152430.jpg)
-_Christina Wille of Insecurity Insight and Martin Noblecourt of CartONG present thoughts on the H2H funding mechanism_
+![IMG_20190207_152430.jpg](/uploads/IMG_20190207_152430.jpg)
+*Christina Wille of Insecurity Insight and Martin Noblecourt of CartONG present thoughts on the H2H funding mechanism*
 
 * Finally, with the size and diversity of the network’s members, there is a huge potential for collaborations and “packaging” humanitarian services in new ways. Assessment providers like [ACAPS](https://www.acaps.org/) could inform or be informed by geospatial data or map products produced by HOT, [MapAction](https://mapaction.org/) or [CartONG](http://www.cartong.org/). Voices of affected people could be captured and reported by organizations such as [Internews](https://www.internews.org/) or [GroundTruth Solutions](http://groundtruthsolutions.org/). Access to clean and safe drinking water could be informed by HOT and [Ground Water Relief](https://groundwater-relief.org/) opening up datasets on wells, boreholes and water systems. Safety and security of operations on the ground could be improved by organizations like [Insecurity Insight](http://insecurityinsight.org/). These are only but a few H2H member organizations.
 
@@ -40,8 +40,8 @@ The [Global Alliance for Urban Crises](http://urbancrises.org/) is is a global, 
 
 A key Alliance achievement was the launch of five new knowledge products. HOT, as a member of Alliance Working Group 1, provided input into the [Urban Profiling product](http://urbancrises.org/downloads-0).
 
-![IMG_20190210_083554](/uploads/IMG_20190210_083554.jpg)
-_The knowledge products in beautiful printed form._
+![IMG_20190210_083554.jpg](/uploads/IMG_20190210_083554.jpg)
+*The knowledge products in beautiful printed form.*
 
 ## Data and Doing No Digital Harm
 
@@ -50,10 +50,11 @@ A prominent theme of the week was responsible data. Nathaniel Raymond, Professor
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/HNPW2019?src=hash&ref_src=twsrc%5Etfw">#HNPW2019</a>: we don’t know if the way we use data is humanitarian. We need to move away from innovation and move towards protection before <a href="https://twitter.com/hashtag/innovation?src=hash&ref_src=twsrc%5Etfw">#innovation</a> says <a href="https://twitter.com/nattyray11?ref_src=twsrc%5Etfw">@nattyray11</a> (my fav 🧠 in any humanitarian discussion)<a href="https://twitter.com/humdata?ref_src=twsrc%5Etfw">@humdata</a></p>— Alexandra Sicotte-Levesque (@alexandrasl) <a href="https://twitter.com/alexandrasl/status/1093093765613522944?ref_src=twsrc%5Etfw">February 6, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Former HOT Board member Heather Leson (of IFRC and current OpenStreetMap Foundation President) and Javier Teran of UN OCHA’s Centre for Humanitarian Data co-led a session on data literacy:  
+Former HOT Board member Heather Leson (of IFRC and current OpenStreetMap Foundation President) and Javier Teran of UN OCHA’s Centre for Humanitarian Data co-led a session on data literacy:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks for joining our discussion about <a href="https://twitter.com/hashtag/dataliteracy?src=hash&ref_src=twsrc%5Etfw">#dataliteracy</a> & convening a Data Literacy Consortium with <a href="https://twitter.com/Federation?ref_src=twsrc%5Etfw">@Federation</a> <a href="https://twitter.com/humdata?ref_src=twsrc%5Etfw">@humdata</a> Here are our slides - <a href="https://t.co/ryMAPOpFpB">https://t.co/ryMAPOpFpB</a> <a href="https://twitter.com/hashtag/hnpw2019?src=hash&ref_src=twsrc%5Etfw">#hnpw2019</a> .</p>— HeatherLeson (@HeatherLeson) <a href="https://twitter.com/HeatherLeson/status/1092417777984516097?ref_src=twsrc%5Etfw">February 4, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</br>
 
 For more information on Humanitarian Networks and Partnerships Week, please read the official [Event Summary](https://vosocc.unocha.org/GetFile.aspx?file=86207_HNPW2019_Event_Summary_version_1.pdf) or [get in contact with me anytime](https://www.hotosm.org/people/tyler-radford/).
 
