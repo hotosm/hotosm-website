@@ -1,7 +1,6 @@
 ---
 title: Humanitarian Networks and Partnerships Week Roundup
 date: 2019-02-22 20:55:00 Z
-published: false
 Summary Text: 'Humanitarian Networks and Partnerships Week is a week when more than
   25 networks and partnerships hold annual meetings in Geneva. This year, the event
   was held from February 4-8 and co-chaired by OCHA and the Swiss Agency for Development
@@ -36,7 +35,7 @@ There is some exciting potential around H2H, and here’s why:
 
 ## Global Alliance for Urban Crises
 
-The [Global Alliance for Urban Crises](http://urbancrises.org/) is is a global, multi-disciplinary and collaborative community of practice. It is a ‘network of networks’ working to prevent, prepare for and effectively respond to humanitarian crises in urban settings. One of the unique aspects of the Alliance is that it brings together groups who don’t typically work together -- from UN agencies to NGOs to city mayors to urban planners and built environment professionals.
+The [Global Alliance for Urban Crises](http://urbancrises.org/) is a global, multi-disciplinary and collaborative community of practice. It is a ‘network of networks’ working to prevent, prepare for and effectively respond to humanitarian crises in urban settings. One of the unique aspects of the Alliance is that it brings together groups who don’t typically work together -- from UN agencies to NGOs to city mayors to urban planners and built environment professionals.
 
 A key Alliance achievement was the launch of five new knowledge products. HOT, as a member of Alliance Working Group 1, provided input into the [Urban Profiling product](http://urbancrises.org/downloads-0).
 
