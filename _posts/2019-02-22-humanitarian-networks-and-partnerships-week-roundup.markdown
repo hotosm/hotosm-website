@@ -54,7 +54,7 @@ Former HOT Board member Heather Leson (of IFRC and current OpenStreetMap Foundat
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks for joining our discussion about <a href="https://twitter.com/hashtag/dataliteracy?src=hash&ref_src=twsrc%5Etfw">#dataliteracy</a> & convening a Data Literacy Consortium with <a href="https://twitter.com/Federation?ref_src=twsrc%5Etfw">@Federation</a> <a href="https://twitter.com/humdata?ref_src=twsrc%5Etfw">@humdata</a> Here are our slides - <a href="https://t.co/ryMAPOpFpB">https://t.co/ryMAPOpFpB</a> <a href="https://twitter.com/hashtag/hnpw2019?src=hash&ref_src=twsrc%5Etfw">#hnpw2019</a> .</p>— HeatherLeson (@HeatherLeson) <a href="https://twitter.com/HeatherLeson/status/1092417777984516097?ref_src=twsrc%5Etfw">February 4, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br>
+<br />
 
 For more information on Humanitarian Networks and Partnerships Week, please read the official [Event Summary](https://vosocc.unocha.org/GetFile.aspx?file=86207_HNPW2019_Event_Summary_version_1.pdf) or [get in contact with me anytime](https://www.hotosm.org/people/tyler-radford/).
 
