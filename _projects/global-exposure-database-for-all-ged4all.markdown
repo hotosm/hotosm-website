@@ -42,7 +42,7 @@ An online tool following the database schemas developed as part of the Challenge
 
 HOT provided guidance on how GED4ALL can be populated with building level data from OpenStreetMap (OSM), assigning the most commonly used tags for the attributes identified by GEM as integral to determining the structural integrity of infrastructure in the wake of a hazard. The following OSM wiki pages proposes and welcomes contributions from the community on how tags can be best aligned with the GED4ALL taxonomy:
 
-https://wiki.openstreetmap.org/wiki/GED4ALL
+[OSM Wiki Page](https://wiki.openstreetmap.org/wiki/GED4ALL)  
 
 ![Screen Shot 2019-03-01 at 12.37.11.png](/uploads/Screen%20Shot%202019-03-01%20at%2012.37.11.png)
 
