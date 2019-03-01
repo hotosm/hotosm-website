@@ -44,4 +44,6 @@ HOT provided guidance on how GED4ALL can be populated with building level data f
 
 https://wiki.openstreetmap.org/wiki/GED4ALL
 
+![Screen Shot 2019-03-01 at 12.37.11.png](/uploads/Screen%20Shot%202019-03-01%20at%2012.37.11.png)
+
 Although the three Challenge Funds are being developed somewhat independently, it is crucial to ensure their compatibility. For example, the spatial resolution between the exposure and the hazard must be compatible, as well as the taxonomy employed for the classification of the exposed elements and respective vulnerability functions. All three databases will be tested with data for the country of Tanzania.
