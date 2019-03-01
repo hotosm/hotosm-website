@@ -40,10 +40,8 @@ Development of the open global exposure database, aims to store different assets
 
 An online tool following the database schemas developed as part of the Challenge Fund is currently in the pipeline by GFDRR to host the GED4ALL data, along with the hazard footprints and vulnerability models. The data itself is slowly being populated globally through various projects, such as the [Open Cities Africa](https://www.hotosm.org/updates/open-cities-africa-kicks-off-in-kampala/) initiative lead by GFDRR and the [METEOR](https://www.hotosm.org/projects/modelling-exposure-through-earth-observation-meteor/) project lead by the British Geological Survey (BGS).
 
-HOT provided guidance on how GED4ALL can be populated with building level data from OpenStreetMap (OSM), assigning the most commonly used tags for the attributes identified by GEM as integral to determining the structural integrity of infrastructure in the wake of a hazard. The following OSM wiki pages proposes and welcomes contributions from the community on how tags can be best aligned with the GED4ALL taxonomy:
+HOT provided guidance on how GED4ALL can be populated with building level data from OpenStreetMap (OSM), assigning the most commonly used tags for the attributes identified by GEM as integral to determining the structural integrity of infrastructure in the wake of a hazard. The following OSM wiki page proposes and welcomes contributions from the community on how tags can be best aligned with the GED4ALL taxonomy:
 
 [OSM Wiki Page](https://wiki.openstreetmap.org/wiki/GED4ALL)  
 
 ![Screen Shot 2019-03-01 at 12.37.11.png](/uploads/Screen%20Shot%202019-03-01%20at%2012.37.11.png)
-
-Although the three initiatives that make up the Challenge Fund were developed somewhat independently, but it was crucial to ensure their compatibility. For example, the spatial resolution between the exposure and the hazard must be compatible, as well as the taxonomy employed for the classification of the exposed elements and respective vulnerability functions. All three databases were tested with data for the country of Tanzania to ensure its usability.
