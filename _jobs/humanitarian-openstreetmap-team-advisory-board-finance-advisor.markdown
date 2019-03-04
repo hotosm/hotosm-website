@@ -1,5 +1,5 @@
 ---
-title: Humanitarian OpenStreetMap Team Advisory Board- Finance Advisor
+title: HOT Advisory Board- Finance Advisor
 date: 2019-03-04 16:12:00 Z
 Deadline Date: 2019-03-22 00:00:00 Z
 Place of Work: Remote
