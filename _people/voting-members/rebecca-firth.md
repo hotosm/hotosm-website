@@ -5,7 +5,7 @@ Photo: "/uploads/rebecca-74099a.JPG"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Community & Partnerships Manager
+Job Title: Director of Partnerships & Community
 Working Group:
 - Fundraising
 - Communications
