@@ -21,8 +21,10 @@ Project:
 ## Read up on our gender highlights from the past 12 months:
 1. Together with FOSS4G, we supported Travel Grants for 137 people - the majority women & girls from East Africa - to attend the HOT Summit and FOSS4G in Dar es Salaam in Africa this year. 13% of the 1000+ conference-goers attended with a Travel Grant, positively impacting diversity at the conference.
 ![HOT Summit 2018 (1).jpg](/uploads/HOT%20Summit%202018%20(1).jpg)
+
 1. HOT Voting Members voted in a majority female board for the first time, and placed Gender equality in HOT’s 2021 Strategic plan
 [hotboardtz-5c84fb.JPG](/uploads/hotboardtz-5c84fb.JPG)
+
 1. We launched our first ever gender program, supporting three projects in Peru, Tanzania, and Paraguay, and working with YouthMappers to close to digital gender divide through the [USAID Women Connect Challenge](https://www.hotosm.org/projects/women-connect-number-letgirlsmap-growing-female-open-data-leaders-across-5-continents/).
 
 [WCC Blog-9609de.JPG](/uploads/WCC%20Blog-9609de.JPG) *Mapping to support Women and Girls at risk of Female Genital Mutilation and Gender Based Violence in Serengeti, Tanzania*
