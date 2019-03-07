@@ -30,19 +30,19 @@ Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
 created: 1486393561
 tm_campaigns: 
 - Crowdsourcing Non-Camp Refugee Data
-Google Drive: https://drive.google.com/drive/u/1/folders/1ofRyAs4WZoftpFj8aeDkx1c4_kwdXCPR
+Google Drive: https://drive.google.com/drive/u/1/folders/1weybMzn2QmlNedYvqEN1W-RCPJma-5_P
 Map Products:
-- 1orMk7MfxVeqdWh3TTnAZ5l9G69ww_1ld
-- 1ItDJek8Rveu99-tIfnzJ1r_dD1rhBmRY
+- 1ko3FpSVIJN7py7GIs5dh8bdwgm9JLNKi
+- 1E0y01hILm6f-IdP_ebaAcyWhkygigyc8
 Data:
-  - title: OSM Data
-    link: http://example.com
+- title: Humanitarian Data Exchange
+  link: https://data.humdata.org/organization/hot
 Tools:
-  - tool: Visualize Change
-    link: http://example.com
-  - tool: MapCampaigner
-    link: http://example.com
-project_extent: "/uganda.json"
+- tool: Export Tool 
+  link: https://export.hotosm.org/en/v3/
+- tool: OSM Analytics
+  link: http://osm-analytics.org
+project_extent: 1oFjmYmQ2Y6miEYU9iO_cG6j3Elf8Zz3s
 ---
 
 <p>The “Crowdsourcing Non-Camp Refugee Data Through OpenStreetMap” project aims to improve program planning and&nbsp; service delivery to refugee communities, develop better integration with host communities, and build refugee self-reliance through open map data. The program trains and equips community leaders in refugee communities to map vulnerabilities and assets in the places they live, filling in key data gaps and “blank spots” on the map. These micro-level maps are created using techniques including crowdsourced data collection on mobile phones. The resulting multilanguage maps and map data are then made openly available online in OpenStreetMap, on mobile phones for navigation, in printed form in refugee social/community centers, and provided to host country governments, PRM, UNHCR, and NGOs.

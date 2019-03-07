@@ -20,6 +20,16 @@ permalink: /projects/botswana_field_data_collection_to_support_the_national_mala
 redirect_from: /projects/botswana_field_data_collection_to_support_the_national_malaria_programme
 tm_campaigns:
 - Malaria Elimination
+- '#EliminateMalaria'
+- '#Botswana'
+Google Drive: https://drive.google.com/drive/u/1/folders/1idEdt2y2GwHKOynZ61b03YiUOCmaA8ae
+project_extent: 1a_LzwR6AxCjp69FIyYEJcj-85MMcu0tD
+Data:
+- title: Humanitarian Data Exchange
+  link: https://data.humdata.org/organization/hot
+Tools:
+- tool: OSM Analytics
+  link: https://osm-analytics.org/#/show/hot:4317/buildings/recency
 ---
 
 Current OpenStreetMap data in Botswana include polygons (outlines) of all buildings identified via satellite imagery, but no additional information about the type of buildings mapped, or of household size are included, nor information on the general accuracy, validity, and completeness of remotely mapped data.

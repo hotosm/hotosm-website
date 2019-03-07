@@ -1,5 +1,9 @@
 var allProjects = {}
 var projectList = []
+const proxyUrl = "https://cors-anywhere.herokuapp.com/"
+const driveUrl = "https://drive.google.com/uc?export=download&id="
+var totalArea = 0, totalEdits = 0, totalMappers = 0
+var totalRoads = 0, totalBuildings = 0, totalChangesets = 0
 var options = {
   headers: {
     'Accept': 'application/json',
@@ -17,8 +21,6 @@ var tmProjectPolygons = {
 }
 
 campaignTags = campaignTags.split(',')
-var totalArea = 0, totalEdits = 0, totalMappers = 0
-var totalRoads = 0, totalBuildings = 0, totalChangesets = 0
 var countryList = countries.split(',')
 countryList.forEach((country, countryIndex) => {
   countryList[countryIndex] = country.trim().toLowerCase()
@@ -88,7 +90,7 @@ const loadMapLayers = () => {
         'text-color': '#FFFFFF'
       }
     }, 'place-city-sm')
-    $('#loading-map').detach()
+    
     document.getElementById('Project-Area').innerHTML = formatedData(Math.round(totalArea))
     document.getElementById('Total-Map-Edits').innerHTML = formatedData(Math.round(totalEdits))
     document.getElementById('Community-Mappers').innerHTML = formatedData(Math.round(totalMappers))
@@ -112,6 +114,8 @@ const loadMapLayers = () => {
             '<p id="proj-details">Click on the project to see more details</p>'
 
         )
+      } else {
+        map.getCanvas().style.cursor = ''
       }
     })
     map.on('click', function (e) {
@@ -122,43 +126,40 @@ const loadMapLayers = () => {
       if (features.length) {
         $('#proj-details').empty()
         $('#proj-details').append(
-          '<p style="font-weight:bold" id = "details-mappers">Mappers: ' + features[0].properties.mappers + '</p>' +
-          '<p style="font-weight:bold" id= "details-edits">Edits: ' + features[0].properties.edits + '</p>'
+          '<p style="font-weight:bold" id = "details-mappers">Mappers: ' + formatedData(features[0].properties.mappers) + '</p>' +
+          '<p style="font-weight:bold" id= "details-edits">Edits: ' + formatedData(features[0].properties.edits) + '</p>'
         )
       }
     })
   }
-  var projectExtentJSON, projectExtentCentroid
-  fetch('.' + projectExtent)
-    .then(function (response) {
-      return response.json()
+  var projectExtentJSON
+  const downloadUrl = proxyUrl + driveUrl + fileId
+  $.get(downloadUrl, function (data) {
+    projectExtentJSON = data
+    var bbox = turf.bbox(projectExtentJSON.features[0])
+    // set bounds according to features
+    map.fitBounds(bbox, {
+      padding: 50,
+      maxZoom: 14.15,
+      duration: 2000
     })
-    .then(function (jsonData) {
-      projectExtentJSON = jsonData
-      var bbox = turf.bbox(projectExtentJSON.features[0])
-      // set bounds according to features
-      map.fitBounds(bbox, {
-        padding: 50,
-        maxZoom: 14.15,
-        duration: 2000
-      })
-      map.addSource('projectExtent', {
-        'type': 'geojson',
-        'data': projectExtentJSON
-      })
-      map.addLayer({
-        'id': 'project-extent',
-        'source': 'projectExtent',
-        'type': 'line',
-        'layout': {},
-        'paint': {
-          'line-dasharray': [2, 1, 2, 1, 2],
-          'line-gap-width': 1,
-          'line-color': '#000000'
-        }
-      }, 'place-city-sm')
-      $('#loading-map').detach()
+    map.addSource('projectExtent', {
+      'type': 'geojson',
+      'data': projectExtentJSON
     })
+    map.addLayer({
+      'id': 'project-extent',
+      'source': 'projectExtent',
+      'type': 'line',
+      'layout': {},
+      'paint': {
+        'line-dasharray': [2, 1, 2, 1, 2],
+        'line-gap-width': 1,
+        'line-color': '#000000'
+      }
+    }, 'place-city-sm')
+    $('#loading-map').detach()
+  })
 }
 
 map.addControl(new mapboxgl.NavigationControl())

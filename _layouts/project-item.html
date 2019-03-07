@@ -192,7 +192,7 @@ layout: default
                 <h5>Duration <object height="16" width="16" data="/images/clock.svg" type="image/svg+xml"></object></h5>
                 <p>{{ page.Duration['Start Date'] | date: "%e %b, %Y" }} – {{ page.Duration['End Date'] | date: "%e %b, %Y" }}</p>
             </div>
-            {% if page.Data %}
+            {% if page.Data[0] != '' %}
             <div class="meta-item">
                 <h5>Data <object height="16" width="16" data="/images/map.svg" type="image/svg+xml"></object></h5>
                 <ul>
@@ -201,12 +201,12 @@ layout: default
                     {% endfor %}
                 </ul>
             </div>
-            {% endif %} {% if page.Tools %}
+            {% endif %} {% if page.Tools[0] != '' %}
             <div class="meta-item">
                 <h5>Tools <object height="16" width="16" data="/images/cog.svg" type="image/svg+xml"></object></h5>
                 <ul>
                     {% for tool in page.Tools %}
-                    <li><a href="{{ tool.link }}">{{ tool.tool }}</a></li>
+                    <li><a href="{{ tool.link }}" target="_blank">{{ tool.tool }}</a></li>
                     {% endfor %}
                 </ul>
             </div>
@@ -274,7 +274,7 @@ layout: default
 <script>
     var countries = "{{ page.Country | join: ', ' }}"
     var campaignTags = "{{ page.tm_campaigns | join: ', ' }}"
-    var projectExtent = "{{ page.project_extent }}"
+    var fileId = "{{ page.project_extent }}"
 
     function content(action) {
         if (action === 'more') {

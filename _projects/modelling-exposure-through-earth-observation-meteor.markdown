@@ -30,21 +30,19 @@ Link: http://meteor.openquake.org/
 Contact:  <p><a href="https://hotosm.org/users/mhairi_ohara">Mhairi O'Hara</a></p>
 tm_campaigns:
 - '#METEOR'
-project_extent: /meteor-project-extent.json
-Google Drive: https://drive.google.com/drive/u/0/folders/1ofRyAs4WZoftpFj8aeDkx1c4_kwdXCPR
+project_extent: 1yhnXZXrMD1AC00TrOKgzMJtVJHtea4xF
+Google Drive: https://drive.google.com/drive/u/1/folders/1l6nMr0axyBoo9rWWdI_E4CqLLjwmWAoD
 Map Products:
-- 1xQHcVncuA5m1eea-BWd_OQnGXlasbPyZ
-- 14-_3GRNS-_8gkMc2cfCGhQ8xXAr94-wm
+- 16KOkpG5Sy3eI_7ZbTcIsq_Ou5Rj44VPN
+- 14MZjshh0GXfmprkYnj6G4k2LBOxcMV6l
 Data:
 - title: Humanitarian Data Exchange
   link: https://data.humdata.org/organization/hot
 Tools:
 - tool: Export Tool
-  link1: https://export.hotosm.org/en/v3/exports/bf3c20c6-dc0e-423a-a9b9-97b53cd7a8da
-  link2: https://export.hotosm.org/en/v3/exports/841859fc-4e3e-4f13-95f9-787ee868786f
+  link: https://export.hotosm.org/en/v3/exports/bf3c20c6-dc0e-423a-a9b9-97b53cd7a8da
 - tool: OSM Analytics
-  link1: https://osm-analytics.org/#/show/hot:5370/buildings/recency
-  link2: https://osm-analytics.org/#/show/hot:5371/buildings/recency
+  link: https://osm-analytics.org/#/show/hot:5370/buildings/recency
 ---
 
 Dar es Salaam is one of the fastest growing cities in Africa, with an annual population growth of over 5.7%.  In 2002 there were approximately 2.5 million inhabitants, increasing to 4.4 million in 2012, and currently estimated at over 5.5 million.  The population is expected to exceed 10 million by 2040, making Dar es Salaam a megacity.  Urbanization is largely unplanned, and around 70% of city residents live in informal settlements.  The poorest citizens who settle in these areas not only have less access to basic services, but are also the most exposed to natural hazards.

@@ -23,6 +23,19 @@ HOT Involvement: Community Development
 Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p><p><a
   href="https://hotosm.org/users/david_luswata">David Luswata</a></p>
 created: 1489014346
+tm_campaigns:
+- '#LEGIT'
+- '#Liberia'
+Google Drive: https://drive.google.com/drive/u/1/folders/1NpPO7H_Gy0s5NCKfMDJ8qAYYy11JEO-z
+Map Products:
+- 143pmRsdrJoyzlEisY0vTCQqs8qAM03Dy
+- 1vXc00Zpm96iDxZkXayxrIWF6oYrx_sGt
+Data:
+- title: Humanitarian Data Exchange
+  link: https://data.humdata.org/organization/hot
+Tools:
+- tool: OSM Analytics
+  link: https://osm-analytics.org/#/show/hot:2769/buildings/recency
 
 ---
 

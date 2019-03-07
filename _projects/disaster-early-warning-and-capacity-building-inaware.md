@@ -35,11 +35,8 @@ redirect_from: projects/usaid__bnpb__inaware_disaster_management_early_warning_a
 tm_campaigns:
 - Inaware
 - Missing Maps
-project_extent: "/disaster-early-warning-and-capacity-building-inaware.json"
-Google Drive: https://drive.google.com/drive/u/1/folders/1ofRyAs4WZoftpFj8aeDkx1c4_kwdXCPR
-Map Products:
-- 1orMk7MfxVeqdWh3TTnAZ5l9G69ww_1ld
-- 1ItDJek8Rveu99-tIfnzJ1r_dD1rhBmRY
+project_extent: 11jcYlURgz0AFHfPO5iYiehGR4hiNrVY1
+Google Drive: https://drive.google.com/drive/u/1/folders/1XLIMF8Cv_fWtBDzv8sk95KpGfdW58qze
 Data:
 - title: Humanitarian Data Exchange
   link: https://data.humdata.org/organization/hot
@@ -65,7 +62,7 @@ Harry Mahardhika is leading the operations and logistics of the mapping project,
 ![survei OMK.jpeg](/uploads/survei%20OMK.jpeg)
 
 
-Once the information is mapped by the Data Entry specialists, it will be reviewed and validated by a team of dedicated Quality Assurance specialists.The HOT team will also assist with training sessions for local BPBD staff, looking at the collection of OpenStreetMap data and its maintenance, as well as disaster management operational activities using InAWARE, PetaJakarta, and InaSAFE. The overall goal is to enhance capacity within national and provincial disaster management agencies to access automated international, regional, national, and local hazard information and supporting infrastructure data, as well as sharing information between agencies, and disseminating alert warnings to communities and populations at risk.
+Once the information is mapped by the Data Entry specialists, it will be reviewed and validated by a team of dedicated Quality Assurance specialists.The HOT team will also assist with training sessions for local BPBD staff, looking at the collection of OpenStreetMap data and its maintenance, as well as disaster management operational activities using InAWARE, PetaJakarta, and InaSAFE. The overall goal is to enhance capacity within national and provincial disaster management agencies to access automated international, regional, national, and local hazard information an information between agencies, and disseminating alert warnings to communities and populations at risk.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ruHf_cVZTuM?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

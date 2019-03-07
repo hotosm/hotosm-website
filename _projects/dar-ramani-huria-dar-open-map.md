@@ -35,11 +35,8 @@ tm_campaigns:
 - Tanzania Mini-Grids
 - Mini grids
 - Mini grids x
-project_extent: "/dar-ramani-huria.json"
-Google Drive: https://drive.google.com/drive/u/1/folders/1ofRyAs4WZoftpFj8aeDkx1c4_kwdXCPR
-Map Products:
-- 1orMk7MfxVeqdWh3TTnAZ5l9G69ww_1ld
-- 1ItDJek8Rveu99-tIfnzJ1r_dD1rhBmRY
+project_extent: 1SIeG90TwCHDiXBQ8LJItBMAMWi5luN9K
+Google Drive: https://drive.google.com/drive/u/1/folders/1pSiIHo8G4f9RkRbOVfG-yR6BvbkIpg6-
 Data:
 - title: Humanitarian Data Exchange
   link: https://data.humdata.org/organization/hot

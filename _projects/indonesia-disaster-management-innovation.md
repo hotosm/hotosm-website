@@ -35,6 +35,7 @@ Link: http://wiki.openstreetmap.org/wiki/WikiProject_Indonesia
 Contact: <p><a title="Yantisa Akhadi" href="https://hotosm.org/users/iyan_akhadi"
   target="_blank">Yantisa Akhadi</a></p>
 created: 1314998364
+project_extent: 1QuuNoxkdz2I4I2-ssIRlb26q7XDkwPzY
 
 ---
 
