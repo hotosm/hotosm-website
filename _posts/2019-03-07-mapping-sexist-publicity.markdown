@@ -1,6 +1,6 @@
 ---
 title: Mapping Sexist Publicity
-date: 2019-01-28 12:24:00 Z
+date: 2019-03-07 12:24:00 Z
 Summary Text: Guest blog by Ana Paula Figueroa, 15 years old. Student at GAL School,
   Cusco, Peru.
 Feature Image: "/uploads/image3-d59a3b.png"
