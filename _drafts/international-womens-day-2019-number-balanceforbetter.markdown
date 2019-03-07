@@ -23,9 +23,9 @@ Project:
 ![HOT Summit 2018 (1).jpg](/uploads/HOT%20Summit%202018%20(1).jpg)
 1. HOT Voting Members voted in a majority female board for the first time, and placed Gender equality in HOT’s 2021 Strategic plan
 [hotboardtz-5c84fb.JPG](/uploads/hotboardtz-5c84fb.JPG)
-1. We launched our first ever gender program, supporting three projects in Peru, Tanzania, and Paraguay, and working with YouthMappers to close to digital gender divide through the [USAID Women Connect Challenge](https://www.hotosm.org/projects/women-connect-number-letgirlsmap-growing-female-open-data-leaders-across-5-continents/).
+1. We launched our first ever gender program, supporting three projects in Peru, Tanzania, and Paraguay, and working with YouthMappers to close to digital gender divide through the [USAID Women Connect Challenge](https://www.hotosm.org/projects/women-connect-number-letgirlsmap-growing-female-open-data-leaders-across-5-continents/).[WCC Blog-9609de.JPG](/uploads/WCC%20Blog-9609de.JPG)
 
-![WCC Blog-9609de.JPG](/uploads/WCC%20Blog-9609de.JPG) *Mapping to support Women and Girls at risk of Female Genital Mutilation and Gender Based Violence in Serengeti, Tanzania*
+[WCC Blog-9609de.JPG](/uploads/WCC%20Blog-9609de.JPG) *Mapping to support Women and Girls at risk of Female Genital Mutilation and Gender Based Violence in Serengeti, Tanzania*
 
 ![Gutierrez t-shirt design.png](/uploads/Gutierrez%20t-shirt%20design.png)
 *Students mapping sexist publicity in their neighbourhoods were given the opportunity to present their findings to regional mayors in Cusco, Peru*
