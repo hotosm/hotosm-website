@@ -3,8 +3,7 @@ title: 'International Women''s Day 2019: #balanceforbetter'
 date: 2019-03-07 21:34:00 Z
 Summary Text: HOT celebrates work to improve gender inclusion across OpenStreetMap.
   While no country in the world has achieved gender parity, inequality is particularly
-  extreme in many of the places HOT works. Scroll down to see how you can get involved,
-  or see pictures of our highlights from the past year.
+  extreme in many of the places HOT works.
 Feature Image: "/uploads/InternationalWomensDay-landscape-purpleonwhite-242b5d.jpg"
 Person: Rebecca Firth
 Working Group:
@@ -13,8 +12,9 @@ Project:
 - 'Women Connect: #LetGirlsMap'
 ---
 
-## Want to get involved in putting gendered issues on the map and creating a more inclusive digital community for women:
+Scroll down to see how you can get involved, or see pictures of our highlights from the past year.
 
+## Want to get involved in putting gendered issues on the map and creating a more inclusive digital community for women:
 
 *Contribute to #IWD2019 Tasks on Tasking Manager: map and validate Task [#5795](https://tasks.hotosm.org/project/5795). The maps will be used by HOT’s Missing Maps partner CartONG and CARE to identify areas in Jeremie, Haiti where women and girls are at high-risk of violence.
 
