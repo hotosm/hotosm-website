@@ -30,7 +30,7 @@ Project:
 
 1. We launched our first ever gender program, supporting three projects in Peru, Tanzania, and Paraguay, and working with YouthMappers to close to digital gender divide through the [USAID Women Connect Challenge](https://www.hotosm.org/projects/women-connect-number-letgirlsmap-growing-female-open-data-leaders-across-5-continents/).
 
-[WCC Blog-9609de.JPG](/uploads/WCC%20Blog-9609de.JPG)
+![WCC Blog-9609de.JPG](/uploads/WCC%20Blog-9609de.JPG)
 *Mapping to support Women and Girls at risk of Female Genital Mutilation and Gender Based Violence in Serengeti, Tanzania*
 
 ![Gutierrez t-shirt design.png](/uploads/Gutierrez%20t-shirt%20design.png  style="width: 600px !important")
