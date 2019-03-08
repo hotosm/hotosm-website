@@ -1,6 +1,6 @@
 ---
 title: 'International Women''s Day 2019: #balanceforbetter'
-date: 2019-03-07 21:34:00 Z
+date: 2019-03-08 07:34:00 Z
 Summary Text: HOT celebrates work to improve gender inclusion across OpenStreetMap.
   While no country in the world has achieved gender parity, inequality is particularly
   extreme in many of the places HOT works. Scroll on to see how you can get involved,
