@@ -25,7 +25,6 @@ date: 2019-03-08 14:11:00 Z
 ![WCC Blog-9609de.JPG](/uploads/WCC%20Blog-9609de.JPG)
 *Mapping to support Women and Girls at risk of Female Genital Mutilation and Gender Based Violence in Serengeti, Tanzania*
 
-![Gutierrez t-shirt design.png](/uploads/Gutierrez%20t-shirt%20design.png)
 <img src="/uploads/Gutierrez%20t-shirt%20design.png" style="width:auto;">Gutierrez t-shirt design.png</img>
 
 *Students mapping sexist publicity in their neighbourhoods were given the opportunity to present their findings to regional mayors in Cusco, Peru*
