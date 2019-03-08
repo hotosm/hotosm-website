@@ -35,4 +35,14 @@ layout:
 "date":"{{ post.date }}"
 } {% unless forloop.last %},{% endunless %}
 {% endfor %}
+{% for jobs in site.jobs %}
+{
+"type":"Jobs",
+"title":"{{ jobs.title | escape }}",
+"summary":"{{ jobs.body | escape | truncatewords: 40 | strip | prepend: ' ' }}",
+"subtitle":"{{ jobs['Job Description'] | join: ', ' }}",
+"url":"{{ site.url }}{{ jobs.url }}",
+"date":"{{jobs.date }}"
+} {% unless forloop.last %},{% endunless %}
+{% endfor %}
 ]
