@@ -21,6 +21,7 @@ Duration:
 HOT Involvement: Community Development
 Link: https://mapfugees.wordpress.com/
 created: 1480031702
+
 ---
 
 Unplanned refugee camps often consist of streets, tents, temporary shelters, shipping containers and temporary cutoffs. As a result, NGOs, volunteers and residents (especially those newly arrived) have difficulties finding their way to facilities, services and other resources. In addition, no information is available about the conditions of roads, shelters and safety risks. This needlessly complicates and delays aid programs and services, as well as finding proper locations for new facilities.

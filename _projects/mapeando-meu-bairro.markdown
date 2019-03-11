@@ -1,6 +1,7 @@
 ---
 title: 'Mapeando Meu Bairro: Mapping Mafalala'
 date: 2018-05-01 13:56:00 Z
+permalink: projects/mapeando-meu-bairro
 position: 20
 Project Summary Text: Preserving cultural heritage
 Feature Image: "/uploads/reading%20field%20papers%20(blog).jpg"
@@ -9,6 +10,7 @@ Country:
 - Mozambique
 Impact Area:
 - Sustainable Cities
+
 ---
 
 Mapeando Meu Bairro have been working to preserve the cultural heritage of Mafalala in Mozambique with the help of a 2017 HOT Microgrant.

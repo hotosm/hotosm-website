@@ -2,6 +2,7 @@
 title: 'Disaster Activation: Cyclones, Flooding, Volcanic Eruption, Ebola outbreak
   2018'
 date: 2018-06-12 11:50:00 Z
+permalink: projects/spring-2018-disaster-support
 position: 5
 Project Summary Text: Since the beginning of May 2018, HOT has been called upon to
   respond to, or assist, a handful of disasters across the globe. Details on the projects,
@@ -27,6 +28,7 @@ Duration:
   Start Date: 2018-05-01 00:00:00 Z
   End Date: 2018-06-30 00:00:00 Z
 redirect_from: https://www.hotosm.org/projects/spring_2018_disaster_support
+
 ---
 
 ## Somalia and Cyclone Sagar

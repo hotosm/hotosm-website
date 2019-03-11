@@ -11,6 +11,8 @@ Impact Area:
 - Disaster Response
 Person:
 - Tasauf A Baki Billah (Ribin)
+permalink: projects/disaster-response-south-asian-floods-2017
+
 ---
 
 To support response to the devastating after-effects of the 2017 Bangladesh floods, HOT initiated the “South Asian Flood Activation” to support aid agencies working in the region. Led by the Bangladesh Humanitarian OpenStreetMap Operation Team (BHOOT), the OSM Bangladesh community started mapping residential areas and connecting roads of flooded areas to enable aid agencies to support affected populations and improve future response mechanisms.

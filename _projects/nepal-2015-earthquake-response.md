@@ -40,6 +40,7 @@ Duration:
 HOT Involvement: Disaster Mapping
 Link: http://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake
 created: 1430109576
+
 ---
 
 The 2015 Nepal earthquake struck on 25th April with a magnitude of 7.8, followed by many aftershocks including a large magnitude 7.3 quake on 12 May. The quakes have caused widespread damage in the city of Kathmandu and the surrounding region. Thanks to a spectacular volunteer effort, HOT has boosted [OpenStreetMap coverage of these areas](http://pierzen.dev.openstreetmap.org/hot/leaflet/OSM-Compare-before-after.html#12/27.7548/85.3373 "OSMcompare Before / After"), building upon detailed maps already created by the local OpenStreetMap community and [Kathmandu Living Labs](http://kathmandulivinglabs.org/ "KLL"). This allows us to offer to help with aid delivery and reconstruction efforts. See the [Maps and Data services ](http://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake#Map_and_Data_Services "OSM Maps & Services for the Nepal Response")in a variety of formats on the 2015 Nepal Earthquake wiki page.
