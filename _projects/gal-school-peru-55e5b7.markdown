@@ -14,7 +14,6 @@ Impact Area:
 - Sustainable Cities
 Micrograntee: true
 permalink: projects/gal-school-peru-55e5b7
-redirect_from: projects/gal-school-peru-55e5b7
 
 ---
 

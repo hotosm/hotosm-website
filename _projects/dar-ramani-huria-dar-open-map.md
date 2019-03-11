@@ -32,9 +32,6 @@ tm_campaigns:
 - '#ramanihuria'
 - '#Trash mapping'
 - '#METEOR'
-- Tanzania Mini-Grids
-- Mini grids
-- Mini grids x
 project_extent: 1SIeG90TwCHDiXBQ8LJItBMAMWi5luN9K
 Google Drive: https://drive.google.com/drive/u/1/folders/1pSiIHo8G4f9RkRbOVfG-yR6BvbkIpg6-
 Data:

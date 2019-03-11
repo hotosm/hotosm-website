@@ -2,7 +2,6 @@
 title: Mapping the Missing Millions
 date: 2018-10-24 08:38:00 Z
 permalink: projects/mapping-the-missing-millions
-redirect_from: projects/mapping-the-missing-millions
 position: 2
 Project Summary Text: Developing a global database of informal settlement location,
   schema, and SDGs indicators. Complete with previously unknown informal settlements.
