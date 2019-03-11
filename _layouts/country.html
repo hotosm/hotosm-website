@@ -109,11 +109,20 @@ layout: default
           <a href="mailto:info@hotosm.org">info@hotosm.org</a>
         {% endif %}
 
-        {% if page.Location.Name or page.Location.Address %}
+        {% if page.Location['Location Name'] or page.Location.Address %}
           <h5>Visit</h5>
-          <p><b>{{ page.Location['Location Name'] }}</b></p>
-          {{ page.Location.Address | markdownify }}
-          <p>{{ page.Location.Phone }}</p>
+          {% if page.Location['Location Name'] and page.Location['Map Link'] %}
+	    <a href="{{ page.Location['Map Link'] }}"><b>
+		{{ page.Location['Location Name'] }}</b></a>
+	  {% elsif page.Location['Location Name'] %}
+	    <p><b> {{ page.Location['Location Name'] }} </b></p>
+	  {% endif %}
+	  {% if page.Location.Address %}
+            {{ page.Location.Address | markdownify }}
+          {% endif %}
+          {% if page.Location.Phone %}
+	    <p>{{ page.Location.Phone }}</p>
+	  {% endif %}
         {% endif %}
 
         {% elsif members %}
@@ -165,7 +174,7 @@ layout: default
 
         {% if page.Location.Name or page.Location.Address %}
           <h5>Visit</h5>
-          <p><b>{{ page.Location['Location Name'] }}</b></p>
+          <p><b>{{ page.Location['Map Link'] }}</b></p>
           {{ page.Location.Address | markdownify }}
           <p>{{ page.Location.Phone }}</p>
         {% endif %}
