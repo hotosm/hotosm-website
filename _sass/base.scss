@@ -2970,11 +2970,19 @@ border: 2px solid black;
 	padding: 0;
 }
 
-#our-work-title, #country-title {
+#our-work-title {
   transition: all .25s ease;
   position: relative;
   z-index: 10;
   pointer-events: auto;
+}
+
+#country-title{
+  transition: all .25s ease;
+  position: relative;
+  z-index: 10;
+  pointer-events: auto;
+  margin-left: 40px;  
 }
 
 .project-map-area #our-work-title {
@@ -3746,8 +3754,12 @@ sup {
   }
   .country-name {
     margin: 0 auto 20px auto;
-    padding: 40px;
+    padding: 0;
     z-index: 1;
+    position: absolute;
+    bottom: 0;
+    margin: 0;
+    
     &:after {
       content: '';
       display: block;
@@ -3756,10 +3768,11 @@ sup {
       margin: 0 auto;
       border-left: 10px solid transparent;
       border-right: 10px solid transparent;
-      border-top: 10px solid $red;
+      border-top: 0;
     }
     h1.boxed {
       text-align: center;
+      margin-bottom: 0;
     }
   }
 }
