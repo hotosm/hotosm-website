@@ -1,6 +1,7 @@
 ---
 title: 'Field data collection for malaria elimination: National Malaria Programme'
 date: 2018-06-06 14:56:00 Z
+permalink: "/projects/botswana_field_data_collection_to_support_the_national_malaria_programme"
 position: 9
 Feature Image: "/uploads/IMG_1152-botswana-compressor.jpg"
 Country:
@@ -16,12 +17,11 @@ Partner:
 Duration:
   Start Date: 2018-04-01 00:00:00 Z
   End Date: 2018-06-30 00:00:00 Z
-permalink: /projects/botswana_field_data_collection_to_support_the_national_malaria_programme
-redirect_from: /projects/botswana_field_data_collection_to_support_the_national_malaria_programme
+redirect_from: "/projects/botswana_field_data_collection_to_support_the_national_malaria_programme"
 tm_campaigns:
 - Malaria Elimination
-- '#EliminateMalaria'
-- '#Botswana'
+- "#EliminateMalaria"
+- "#Botswana"
 Google Drive: https://drive.google.com/drive/u/1/folders/1idEdt2y2GwHKOynZ61b03YiUOCmaA8ae
 project_extent: 1a_LzwR6AxCjp69FIyYEJcj-85MMcu0tD
 Data:

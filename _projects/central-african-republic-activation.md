@@ -35,7 +35,6 @@ HOT Involvement: Disaster Mapping
 Link: http://wiki.openstreetmap.org/wiki/FR:WikiProject_Central_African_Republic
 Contact: <p><a href="mailto:severin.menard@hotosm.org">Severin</a></p><p><a href="mailto:ndongamadou@gmail.com">Amadou</a></p>
 created: 1399631104
-
 ---
 
 Since December 2012, with the incursion by the Seleka Rebellion, Central African Republic has seen drastic suffering and has become a Level 3 (=max) Crisis for the United Nations. Unfortunately, this Crisis will likely last for years.

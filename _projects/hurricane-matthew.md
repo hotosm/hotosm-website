@@ -29,7 +29,6 @@ Contact: '<p><font style="font-family: ''Helvetica Neue'', Helvetica, ''Segoe UI
   16px; line-height: 28.4444px;">activation@hotosm.org</span></font></p>'
 created: 1475554702
 Link: https://wiki.openstreetmap.org/wiki/2016_Hurricane_Matthew
-
 ---
 
 The Humanitarian OpenSteetMap Team (HOT) has activated to provide geographic base data in areas affected by Hurricane Matthew. Category 4 Hurricane Matthew continues to strengthen and is advancing on Haiti and the Bahamas. Hurricane Matthew is expected to cause 'catastrophic' damage including extreme flooding and landslides potentially affecting millions in Haiti, Jamaica, and Bahamas.

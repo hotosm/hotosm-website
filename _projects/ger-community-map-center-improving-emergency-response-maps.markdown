@@ -1,8 +1,8 @@
 ---
 title: 'Ger Community Map Center: Improving Emergency Response Maps'
 date: 2018-05-01 13:47:00 Z
-position: 30
 permalink: projects/ger-community-map-center-improving-emergency-response-maps
+position: 30
 Project Summary Text: Improving maps for emergency responders
 Feature Image: "/uploads/IMG_1682%20(1).JPG"
 Is Community-Led: true

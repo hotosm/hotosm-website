@@ -21,8 +21,6 @@ Duration:
   Start Date: 2017-11-01 00:00:00 Z
 ---
 
-
-
 Palang Merah Indonesia (PMI) is the Red Cross society working in Indonesia. They are focusing on a project to create a detailed base map of infrastructure, land use, amenities, and other key community assets such as schools and community centres. This data will the be used as part of the PMI risk reduction programme and community disaster mitigation plan, as well as for use in emergency response.
 
 

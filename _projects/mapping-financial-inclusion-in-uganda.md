@@ -29,7 +29,6 @@ HOT Involvement: Community Development
 Link: 
 Contact: <a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a>
 created: 1449867016
-
 ---
 
 Access to digital financial services is fundamental to enabling struggling people to become more economically stable, prosperous, and resilient. These services – payments, credit, savings and insurance offered through mobile phones or other technology – are reaching millions of people around the world who had not previously been included in the financial system. Historically, being included in the system meant living close enough to access a physical bank branch, credit union, or ATM location. With the advent of mobile money, location still matters, but the proximity of the nearest mobile money agent is now more important than the nearest bank branch or ATM.

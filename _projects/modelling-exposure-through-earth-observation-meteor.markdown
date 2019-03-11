@@ -27,9 +27,9 @@ Duration:
   End Date: 2021-04-01 00:00:00 Z
 HOT Involvement: Community Development
 Link: http://meteor.openquake.org/
-Contact:  <p><a href="https://hotosm.org/users/mhairi_ohara">Mhairi O'Hara</a></p>
+Contact: <p><a href="https://hotosm.org/users/mhairi_ohara">Mhairi O'Hara</a></p>
 tm_campaigns:
-- '#METEOR'
+- "#METEOR"
 project_extent: 1yhnXZXrMD1AC00TrOKgzMJtVJHtea4xF
 Google Drive: https://drive.google.com/drive/u/1/folders/1l6nMr0axyBoo9rWWdI_E4CqLLjwmWAoD
 Map Products:

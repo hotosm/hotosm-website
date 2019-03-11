@@ -1,6 +1,7 @@
 ---
 title: 'Data for evidence-based decisions: Data Zetu'
 date: 2018-06-11 12:10:00 Z
+permalink: projects/data-zetu
 position: 7
 Project Summary Text: Using community mapping methods to improve HIV services and
   access to public health facilities in Dar es Salaam and Mbeya.
@@ -23,7 +24,6 @@ Link: https://datazetu.or.tz/
 tm_campaigns:
 - Missing Maps
 - Capacity Building
-permalink: projects/data-zetu
 ---
 
 Data Zetu is a coalition of Tanzanian and international organizations that aim to empower communities to make better, evidence-based decisions to improve their lives. An initiative of the Tanzania Data Lab (dLab), the coalition consists of Sahara Sparks (SS), Humanitarian OpenStreetMap Team (HOT), and Tanzania Bora Initiative (TBI), with global expertise from SBC4D and IREX. It is funded by the United States President’s Emergency Plan for AIDS Relief (PEPFAR) and administered by the Millennium Challenge Corporation (MCC) as part of the Data Collaboratives for Local Impact program (DCLI).

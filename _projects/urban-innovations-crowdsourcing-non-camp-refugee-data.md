@@ -28,7 +28,7 @@ Duration:
 HOT Involvement: Community Development
 Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
 created: 1486393561
-tm_campaigns: 
+tm_campaigns:
 - Crowdsourcing Non-Camp Refugee Data
 Google Drive: https://drive.google.com/drive/u/1/folders/1weybMzn2QmlNedYvqEN1W-RCPJma-5_P
 Map Products:
@@ -38,7 +38,7 @@ Data:
 - title: Humanitarian Data Exchange
   link: https://data.humdata.org/organization/hot
 Tools:
-- tool: Export Tool 
+- tool: Export Tool
   link: https://export.hotosm.org/en/v3/
 - tool: OSM Analytics
   link: http://osm-analytics.org

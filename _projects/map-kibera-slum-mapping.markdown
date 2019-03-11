@@ -10,7 +10,6 @@ Country:
 - Kenya
 Impact Area:
 - Poverty Elimination
-
 ---
 
 The World Bank has partnered with Map Kibera to aid regional counties to engage citizens in an ongoing participatory budgeting process for development initiatives. The main purpose of this project is to use citizen-generated data to ensure that development projects within the counties meet the needs of the people. Map Kibera, using participatory mapping tools, has offered technical support in two Wards by training the county staff and youth within Makueni county on how to map using ODK and edit the data collected through JOSM. The maps will then be digitized to enable citizens engage their leaders further in the participatory budgeting process. 

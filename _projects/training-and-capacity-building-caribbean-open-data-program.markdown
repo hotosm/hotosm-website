@@ -1,8 +1,8 @@
 ---
 title: 'Training and Capacity Building: Caribbean Open Data Program'
 date: 2015-08-01 20:46:00 Z
-position: 22
 permalink: projects/training-and-capacity-building-caribbean-open-data-program
+position: 22
 Project Summary Text: HOT provided OpenStreetMap training as part of the World Bank's
   Caribbean Open Data Program, which aims to increase the ability of countries to
   create new businesses and generate more value, as well as improve the delivery of
@@ -22,7 +22,6 @@ Partner:
 Duration:
   Start Date: 2015-06-01 00:00:00 Z
   End Date: 2015-08-31 00:00:00 Z
-
 ---
 
 Web-based mapping is an activity of growing importance in many countries around the world, especially in places where base map data is often scarce and out of date. Governments are collecting more and more data, including geospatial data, and are beginning to understand the social and economic benefits of sharing the data. As part of the World Bank-DFID partnership to support Open Data in the Caribbean, HOT conducted one-day open mapping workshops in Castries, St. Lucia, and Kingston, Jamaica.

@@ -28,7 +28,6 @@ Duration:
   Start Date: 2018-05-01 00:00:00 Z
   End Date: 2018-06-30 00:00:00 Z
 redirect_from: https://www.hotosm.org/projects/spring_2018_disaster_support
-
 ---
 
 ## Somalia and Cyclone Sagar

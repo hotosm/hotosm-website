@@ -29,16 +29,16 @@ Link: http://ramanihuria.org/
 Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
 created: 1423284460
 tm_campaigns:
-- '#ramanihuria'
-- '#Trash mapping'
-- '#METEOR'
+- "#ramanihuria"
+- "#Trash mapping"
+- "#METEOR"
 project_extent: 1SIeG90TwCHDiXBQ8LJItBMAMWi5luN9K
 Google Drive: https://drive.google.com/drive/u/1/folders/1pSiIHo8G4f9RkRbOVfG-yR6BvbkIpg6-
 Data:
 - title: Humanitarian Data Exchange
   link: https://data.humdata.org/organization/hot
 Tools:
-- tool: Export Tool 
+- tool: Export Tool
   link: https://export.hotosm.org/en/v3/
 - tool: OSM Analytics
   link: http://osm-analytics.org

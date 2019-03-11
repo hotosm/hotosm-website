@@ -41,7 +41,7 @@ Data:
 - title: Humanitarian Data Exchange
   link: https://data.humdata.org/organization/hot
 Tools:
-- tool: Export Tool 
+- tool: Export Tool
   link: https://export.hotosm.org/en/v3/
 - tool: OSM Analytics
   link: http://osm-analytics.org

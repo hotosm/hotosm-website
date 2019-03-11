@@ -1,6 +1,7 @@
 ---
 title: Crowd2Map Tanzania
 date: 2018-06-05 23:00:00 Z
+permalink: projects/crowd2map-tanzania
 position: 12
 Project Summary Text: 'Crowd2Map Tanzania is a crowdsourced mapping project aiming
   to put rural Tanzania on the map, particularly those areas where girls are at risk
@@ -16,7 +17,6 @@ Person:
 - Janet Chapman
 Micrograntee: true
 Link: http://www.tanzdevtrust.org/
-permalink: projects/crowd2map-tanzania
 redirect_from: projects/crowd2map-tanzania
 tm_campaigns:
 - Missing Maps

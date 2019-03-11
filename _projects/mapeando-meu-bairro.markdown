@@ -10,7 +10,6 @@ Country:
 - Mozambique
 Impact Area:
 - Sustainable Cities
-
 ---
 
 Mapeando Meu Bairro have been working to preserve the cultural heritage of Mafalala in Mozambique with the help of a 2017 HOT Microgrant.
