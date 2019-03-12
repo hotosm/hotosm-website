@@ -11,6 +11,7 @@ Working Group:
 - Activation
 - Technical
 Project:
+- AI for Humanitarian Action
 - OpenAerialMap
 - HOT Summit 2016
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'

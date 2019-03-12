@@ -10,6 +10,7 @@ Working Group:
 - Governance
 - Technical
 Project:
+- AI for Humanitarian Action
 - Public transportation map for Managua
 Country: Germany
 Social Media (Full URL):
