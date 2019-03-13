@@ -30,10 +30,6 @@ Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
 created: 1486393561
 tm_campaigns:
 - Crowdsourcing Non-Camp Refugee Data
-Google Drive: https://drive.google.com/drive/u/1/folders/1weybMzn2QmlNedYvqEN1W-RCPJma-5_P
-Map Products:
-- 1ko3FpSVIJN7py7GIs5dh8bdwgm9JLNKi
-- 1E0y01hILm6f-IdP_ebaAcyWhkygigyc8
 Data:
 - title: Humanitarian Data Exchange
   link: https://data.humdata.org/organization/hot
