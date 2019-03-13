@@ -1,7 +1,10 @@
 {% assign author = site.people | where: "title", post.Person | first %}
 
-{% if post.Person == author.title %}
-  <a class="author-link" href="{{ author.url}}">{{ author.title }}</a>
-{% elsif post.Person %}
-  {{ post.Person }}
+{% if post.Person %}
+   {% if post.Person == author.title %}
+      <a class="author-link" href="{{ author.url}}">{{ author.title }}</a>
+   {% elsif post.Person %}
+      {{ post.Person | join :','}}
+    {% endif %}
+   —
 {% endif %}
