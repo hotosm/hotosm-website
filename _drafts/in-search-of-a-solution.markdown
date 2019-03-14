@@ -13,8 +13,8 @@ Over time, I have come to value experience over theory. No amount of rote knowle
 Uganda has an open-door policy towards refugees. South Sudanese, Congolese, Somali, Ethiopian, and Eritrean nationals arrive at Uganda’s doorstep, where they are taken under the wing of the Office of the Prime Minister and transported to refugee camps nearby. There are currently estimated to be ~1.4 million refugees in the country. It is here that, after a 25 hour flight with two layovers and multiple anti-nausea tablets, I arrived, eager to work with the Humanitarian OpenStreetMap Team (HOT) to promote the mapping of refugee environments for humanitarian purposes. 
 
 I spent my first few days getting oriented in the HOT office in Kampala (and thoroughly enjoying all the city has to offer – rolex stands need to make their way to the States, pronto!) before heading north to Arua. Both the Rhino and Imvepi camps are located near this area. Our task was simple – we train refugee students and teachers on the OpenStreetMap (OSM) platform and mobile data collection in three secondary schools: Ofua Secondary School, Rhino High School, and Imvepi Secondary School. We set off from Kampala at 10 AM on Tuesday and two car breakdowns, a driving ticket, a taxi, and 15 hours later, Shamillah, Allan, and I finally arrived. 
-![image2-3c4186.jpg](/uploads/image2-3c4186.jpg)![image4-ec24b9.jpg](/uploads/image4-ec24b9.jpg)
 
+![allan_shami.png](/uploads/allan_shami.png)
 Shamillah and Allan, my amazing partners in crime 
 
 ![image3-5029d5.jpg](/uploads/image3-5029d5.jpg)
