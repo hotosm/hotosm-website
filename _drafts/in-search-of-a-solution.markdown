@@ -4,6 +4,8 @@ date: 2019-03-14 08:52:00 Z
 Feature Image: "/uploads/image1-6e4c85.jpg"
 ---
 
+Guest blogpost from Amna Adrees written during her travels between Arua and Rhino/ Imvepi Camps when working with the HOT Uganda team.
+
 My past two years working on global health and development in the epicentre of the field - Washington, D.C. - gave me a good understanding of the refugee crisis and the problems faced by displaced populations around the world. Or so I had thought. 
 
 Over time, I have come to value experience over theory. No amount of rote knowledge can replace the understanding your senses provide you. Read all the poetry in the world, but until you experience love, you do not know what it means to find home in another being. Study music theory all you want, but it can never invoke the feeling of transcendence that the sound of a sitar brings with it. The refugee crisis is no exception. Nothing prepared me for witnessing the aftermath of the mass migration of people fleeing war and conflict. 
