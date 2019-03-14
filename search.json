@@ -43,6 +43,6 @@ layout:
 "subtitle":"{{ jobs['Job Description'] | join: ', ' }}",
 "url":"{{ site.url }}{{ jobs.url }}",
 "date":"{{jobs.date }}"
-} {% unless forloop.last %},{% endunless %}
+},
 {% endfor %}
 ]
