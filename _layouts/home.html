@@ -123,10 +123,16 @@
                           {% if post.Country != '' %}
                             {% for country in post.Country %}
                               {% if country != '' %}
-                                {{ country }}{% unless forloop.last %},{% endunless %}
+                                {% if post.Country.size <= 3 %}
+                                  {{ country }}{% unless forloop.last %},{% endunless %}
+                                {% else %}
+                                  {% assign count = post.Country.size %}
+                                  {{post.Country[0]}} and {{ count | minus:1 }} other countries
+                                  {% break %}
+                                {% endif %}
                               {% else %}
                                 Global
-                              {% endif %}
+                              {% endif %}  
                             {% endfor %}
                           {% endif %}
                           {% if post.Person %}

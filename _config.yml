@@ -146,6 +146,20 @@ defaults:
     Duration:
       Start Date: 
       End Date: Ongoing
+    tm_campaigns:
+    - ''
+    project_extent: ''
+    Google Drive: ''
+    Map Products:
+    - ''
+    - ''
+    Data:
+    - title: ''
+    - link: ''
+    Tools:
+    - title: ''
+    - link: ''
+future: true
 email: info@hotosm.org
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search

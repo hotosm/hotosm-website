@@ -1007,7 +1007,7 @@ em {
       }
     }
   }
-  .project-involvement, .project-countries {
+  .project-involvement, .project-countries, .project-status {
     margin-bottom: 4px;
   }
 }
@@ -2338,7 +2338,47 @@ em {
 
 }
 
+* {box-sizing: border-box;}
+$bg-color: rgb(100,100,100);
+
+
+.panel-wrapper {
+  position: relative;
+}
+
+.more, .less {
+  position: absolute;
+  color: #fff;
+  background: #2C3038;
+  left: 30%;
+  padding: 1em;
+  text-decoration: none;
+  width: 40%;
+  bottom: -1em;
+  z-index: 100;
+  font-size: 16px;
+  text-align: center;
+}
+
+
+.panel {
+  position: relative;
+  margin: 2em auto;
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+  transition: max-height .5s ease;
+}
+.fade {
+  // background: linear-gradient(to bottom, rgba($bg-color,0) 0%,rgba($bg-color,1) 100%);
+  height: 75px;
+  margin-top: -50px;
+  position: relative;
+}
+
 .project-header {
+  margin-left: 48px;
+  margin-bottom:10px;
   h1 {
     margin-top: 40px;
     @media (min-width: $screen-xs) {
@@ -2372,6 +2412,14 @@ em {
 .project-countries {
   display: inline;
   margin-left: 4px;
+  &:after {
+    content: '·';
+  }
+}
+
+.project-status {
+  display: inline;
+  margin-left: 4px;
 }
 
 .project-country {
@@ -2398,7 +2446,7 @@ em {
     grid-template-columns: repeat(12, 1fr);
   }
   .article {
-    border-top: 1px solid $border-color;
+    // border-top: 1px solid $border-color;
     margin: 24px 0 40px;
     padding-top: 24px;
     @media (min-width: $screen-sm) {
@@ -2437,7 +2485,7 @@ em {
   }
   .meta {
     padding-top: 40px;
-    border-top: 1px solid $border-color;
+    // border-top: 1px solid $border-color;
     margin: 24px 0 40px;
     @media (min-width: $screen-sm) {
       grid-column: 10 / -1;
@@ -2475,6 +2523,26 @@ em {
       }
     }
   }
+}
+
+.iframe-container{
+  display: inline-table;
+  width: 100%; 
+  }
+.gsheet-iframe{
+display: table-cell;
+width: 45%; 
+margin-top:50px;
+border: 2px solid black;
+}
+.right{
+  float:right;
+}
+.left{
+  float:left;
+}
+.archive-link{
+  margin-top: 25px;
 }
 
 #map {
@@ -2516,6 +2584,7 @@ em {
   border-bottom: 1px solid $border-color;
   overflow: hidden;
   #expand-map-btn, #close-map-btn {
+    pointer-events: auto;
     position: absolute;
     top: -66px;
     right: 40px;
@@ -2570,6 +2639,7 @@ em {
   bottom: 13px;
   right: 42px;
 }
+
 
 .our-work-map-tab {
   padding: 0 16px;
@@ -2657,7 +2727,7 @@ em {
   }
 }
 
-#country-legend-details {
+#country-legend-details, #project-legend-details {
   position: absolute;
   right: 40px;
   top: 24px;
@@ -2787,6 +2857,7 @@ em {
   bottom: 0;
   right: 0;
   left: 0;
+  pointer-events: none;
   transition: all .3s ease;
   &.hidden {
     bottom: -400px;
@@ -2859,6 +2930,7 @@ em {
   @media (max-width: $screen-xs) {
     padding: 16px 0 14px;
   }
+  pointer-events: auto;
   .btn {
     margin: 0 0 4px 0;
     @media (max-width: $screen-md) {
@@ -2903,6 +2975,7 @@ em {
   transition: all .25s ease;
   position: relative;
   z-index: 10;
+  pointer-events: auto;
 }
 
 .project-map-area #our-work-title {
@@ -4976,3 +5049,6 @@ sup {
   text-decoration: underline;
   cursor: pointer;
 }
+
+
+

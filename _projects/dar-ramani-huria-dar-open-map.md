@@ -28,6 +28,20 @@ HOT Involvement: Community Development
 Link: http://ramanihuria.org/
 Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
 created: 1423284460
+tm_campaigns:
+- "#ramanihuria"
+- "#Trash mapping"
+- "#METEOR"
+project_extent: 1SIeG90TwCHDiXBQ8LJItBMAMWi5luN9K
+Google Drive: https://drive.google.com/drive/u/1/folders/1pSiIHo8G4f9RkRbOVfG-yR6BvbkIpg6-
+Data:
+- title: Humanitarian Data Exchange
+  link: https://data.humdata.org/organization/hot
+Tools:
+- tool: Export Tool
+  link: https://export.hotosm.org/en/v3/
+- tool: OSM Analytics
+  link: http://osm-analytics.org
 ---
 
 Dar es Salaam is one of the fastest growing cities in Africa, with an annual population growth of over 5.7%.  In 2002 there were approximately 2.5 million inhabitants, increasing to 4.4 million in 2012, and currently estimated at over 5.5 million.  The population is expected to exceed 10 million by 2040, making Dar es Salaam a megacity.  Urbanization is largely unplanned, and around 70% of city residents live in informal settlements.  The poorest citizens who settle in these areas not only have less access to basic services, but are also the most exposed to natural hazards.
