@@ -4402,6 +4402,7 @@ sup {
   .half-block .block-details {
     display: flex;
     flex-direction: column;
+    width: 835.455px;
     @media (min-width: $screen-sm) {
       padding: 60px 60px 40px 40px;
       h3 {
@@ -4410,7 +4411,8 @@ sup {
     }
   }
   .block-info {
-    flex: 1;
+    display: flex;
+    flex-direction: column;
   }
   .block-options {
     h5 {
@@ -4663,6 +4665,7 @@ sup {
     background-color: $white;
     border-top-left-radius: 5px;
     overflow: hidden;
+    display: none:
     height: 100%;
     img {
       max-width: 140%;
