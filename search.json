@@ -40,9 +40,9 @@ layout:
 "type":"Jobs",
 "title":"{{ jobs.title | escape }}",
 "summary":"{{ jobs.body | escape | truncatewords: 40 | strip | prepend: ' ' }}",
-"subtitle":"{{ jobs['Job Description'] | join: ', ' }}",
+"subtitle":"{{ jobs['Place of Work'] | join: ', ' }}",
 "url":"{{ site.url }}{{ jobs.url }}",
 "date":"{{jobs.date }}"
 },
 {% endfor %}
-]
+
