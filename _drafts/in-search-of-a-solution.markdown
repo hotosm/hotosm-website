@@ -1,6 +1,7 @@
 ---
 title: In search of a solution!
 date: 2019-03-14 08:52:00 Z
+Feature Image: "/uploads/image1-6e4c85.jpg"
 ---
 
 My past two years working on global health and development in the epicentre of the field - Washington, D.C. - gave me a good understanding of the refugee crisis and the problems faced by displaced populations around the world. Or so I had thought. 
