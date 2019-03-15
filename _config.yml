@@ -32,6 +32,18 @@ collections:
     title: Projects
     output: true
     permalink: "/projects/:path/"
+    tm_campaigns:
+    - 
+    Map Products:
+    - 
+    Data:
+    - title: 
+      link: 
+    Tools:
+    - tool: 
+      link: 
+    - link: 
+      tool: 
   tools:
     title: Tools
     output: true
