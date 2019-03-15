@@ -1,7 +1,9 @@
 ---
-title: "Integrating Deep Learning: AI-Assisted Humanitarian Mapping"
+title: 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
 date: 2019-03-12 12:00:00 Z
-Project Summary Text: HOT is partnering with Microsoft Philanthropies and Bing Maps to build a Machine Learning assisted workflow into the Tasking Manager application in order to enhance the project creation process and mapping experience.
+Project Summary Text: HOT is partnering with Microsoft Philanthropies and Bing Maps
+  to build a Machine Learning assisted workflow into the Tasking Manager application
+  in order to enhance the project creation process and mapping experience.
 Feature Image: "/uploads/oam-kampala.jpg"
 Country:
 - Tanzania
@@ -15,11 +17,11 @@ Partner:
 - Microsoft
 Duration:
   Start Date: 2019-01-01 00:00:00 Z
-  End Date: 2019-09-31 00:00:00 Z
+  End Date: '2019-09-31 00:00:00 Z'
 Link: https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action
 Data:
 - title: Coming soon
-  link: ""
+  link: ''
 Tools:
 - tool: Tasking Manager
   link: https://github.com/hotosm/tasking-manager
