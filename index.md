@@ -2,13 +2,13 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: false
-  Small Block: Microgrants Giving Campaign
-  Main Block: "#mapthedifference for Local Leaders"
-  Secondary Block: Join the campaign today!
+  Is Activated: true
+  Small Block: HOT Activation
+  Main Block: Venezuela Situation in Colombia | Cyclone Idai in Mozambique
+  Secondary Block: Help us map affected locations
   Optional Text: 
-  Link Copy: Donate now!
-  URL: https://donate.hotosm.org
+  Link Copy: Help Map or Donate
+  URL: https://tasks.hotosm.org/learn
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
