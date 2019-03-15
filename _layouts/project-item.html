@@ -190,7 +190,11 @@ layout: default
 
             <div class="meta-item">
                 <h5>Duration <object height="16" width="16" data="/images/clock.svg" type="image/svg+xml"></object></h5>
-                <p>{{ page.Duration['Start Date'] | date: "%e %b, %Y" }} – {{ page.Duration['End Date'] | date: "%e %b, %Y" }}</p>
+                {% if page.Duration['Start Date']  and page.Duration['End Date'] %}
+                  <p>{{ page.Duration['Start Date'] | date: "%e %b, %Y" }} – {{ page.Duration['End Date'] | date: "%e %b, %Y" }}</p>
+                {% else %}
+                  <p>Ongoing</p>
+                {% endif %}
             </div>
             {% if page.Data[0] != '' %}
             <div class="meta-item">
