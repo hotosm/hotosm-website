@@ -4647,7 +4647,8 @@ sup {
     }
   }
   .block-screenshot {
-    padding: 80px 0 0 80px;
+    padding-left: 40px;
+    
     background-color: $blue-grey;
     background-size: cover;
     @media (max-width: $screen-sm) {
@@ -4767,6 +4768,27 @@ sup {
 
 
 .tools {
+  .half-block .block-details {
+    display: flex;
+    flex-direction: column;
+    width: 825.455px;
+    @media (min-width: $screen-sm) {
+      padding: 60px 60px 40px 40px;
+      h3 {
+        font-size: 1.875rem;
+      }
+    }
+  }
+  .block-info {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+  }
+  .block-options {
+    h5 {
+      margin-bottom: 8px;
+    }
+  }
 
 }
 

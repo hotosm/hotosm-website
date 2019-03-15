@@ -6,13 +6,13 @@ General Inquiries:
   Emails:
   - |-
     **General Inquiries**
-    [info@hotosm.org](info@hotosm.org)
+    [info@hotosm.org](mailto:info@hotosm.org)
   - |-
     **Staff & Management**
-    [operations@hotosm.org](operations@hotosm.org)
+    [operations@hotosm.org](mailto:operations@hotosm.org)
   - |-
     **Board**
-    [board@hotosm.org](board@hotosm.org)
+    [board@hotosm.org](mailto:board@hotosm.org)
   Nav ID: email
 Office Locations:
   Locations:
