@@ -192,7 +192,7 @@ layout: default
                 <h5>Duration <object height="16" width="16" data="/images/clock.svg" type="image/svg+xml"></object></h5>
                 <p>{{ page.Duration['Start Date'] | date: "%e %b, %Y" }} – {{ page.Duration['End Date'] | date: "%e %b, %Y" }}</p>
             </div>
-            {% if page.Data[0] != '' %}
+            {% if page.Data[0].title != '' %}
             <div class="meta-item">
                 <h5>Data <object height="16" width="16" data="/images/map.svg" type="image/svg+xml"></object></h5>
                 <ul>
@@ -201,7 +201,7 @@ layout: default
                     {% endfor %}
                 </ul>
             </div>
-            {% endif %} {% if page.Tools[0] != '' %}
+            {% endif %} {% if page.Tools[0].tool %}
             <div class="meta-item">
                 <h5>Tools <object height="16" width="16" data="/images/cog.svg" type="image/svg+xml"></object></h5>
                 <ul>

@@ -11,7 +11,7 @@ Country:
 Impact Area:
 - Disaster Risk Reduction
 Person:
-- 'Jaakko Helleranta '
+- Jaakko Helleranta
 - ALCE Samuel Paul
 Duration:
   Start Date: 2012-02-01 00:00:00 Z
