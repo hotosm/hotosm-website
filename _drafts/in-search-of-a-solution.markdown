@@ -1,8 +1,8 @@
 ---
 title: In search of a solution!
 date: 2019-03-14 08:52:00 Z
-Summary Text: Guest blogpost from Amna Adrees written during her travels between Arua
-  and Rhino/ Imvepi Camps when she was working as in intern with the HOT Uganda team.
+Summary Text: Blogpost from Amna Adrees during her travels between Arua and Rhino/
+  Imvepi Camps when she was working as an intern with the HOT Uganda team.
 Feature Image: "/uploads/image1-6e4c85.jpg"
 ---
 
