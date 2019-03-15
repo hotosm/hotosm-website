@@ -42,8 +42,8 @@ collections:
     Tools:
     - tool: 
       link: 
-    - link: 
-      tool: 
+    - tool: 
+      link: 
   tools:
     title: Tools
     output: true
