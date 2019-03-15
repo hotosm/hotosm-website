@@ -3,7 +3,7 @@ title: Home
 position: 0
 Banner:
   Is Activated: true
-  Small Block: HOT Activation
+  Small Block: Current Activation
   Main Block: Venezuela Situation in Colombia | Cyclone Idai in Mozambique
   Secondary Block: Help us map affected locations
   Optional Text: 
