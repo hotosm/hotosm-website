@@ -249,6 +249,7 @@ em {
 
 .hr-h {
   min-width: 100%;
+  width: 100%;
   height: 1px;
   background-color: $border-color;
   margin: 40px 0 40px;
@@ -675,6 +676,7 @@ em {
 .container {
   padding: 0 16px;
   margin: 0 auto;
+  width: 100%;
   @media (min-width: $screen-xs) {
     padding: 0 40px;
   }
@@ -705,7 +707,6 @@ em {
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: 400px;
   border-radius: 2px;
-  overflow: hidden;
   margin-bottom: 24px;
   background-color: shade($blue-dark, 20%);
   @media (max-width: $screen-md) {
@@ -1854,6 +1855,8 @@ em {
 
 .site-footer {
   background-color: $red;
+  float: left;
+  width: 100%;
   h4 {
     color: $white;
   }
@@ -1927,6 +1930,7 @@ em {
 .footer-copyright {
   background-color: shade($red, 50%);
   padding: 12px 0;
+  overflow: auto;
   .container {
     display: flex;
     align-items: center;
@@ -4648,9 +4652,10 @@ sup {
     }
   }
   .block-screenshot {
-    //padding: 80px 0 0 80px;
     background-color: $blue-grey;
     background-size: cover;
+    width: 100%;
+    height: 100%;
     @media (max-width: $screen-sm) {
       padding: 64px 0 0 64px;
     }
@@ -4664,12 +4669,12 @@ sup {
     border-top-left-radius: 5px;
     overflow: hidden;
     width: 100%;
-    height: 100%;
+    height: 100%; 
     img {
       display: block;
       max-width: 140%;
       width: 140%;
-      object-fit: cover
+      object-fit: contain;
     }
   }
   &.dark {
