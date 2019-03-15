@@ -33,6 +33,12 @@ layout:
 "subtitle":"{{ post.Person | join: ', ' }}",
 "url":"{{ site.url }}{{ post.url }}",
 "date":"{{ post.date }}"
+},
+{% endfor %}
+{% for job in site.jobs %}
+{
+"type": "Job",
+"title": "{{ job.title | escape }}"
 } {% unless forloop.last %},{% endunless %}
 {% endfor %}
 ]
