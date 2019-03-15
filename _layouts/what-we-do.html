@@ -4,172 +4,189 @@ layout: default
 
 <div class="what-we-do">
 
-  <header class="container what-we-do-header">
-    <h1>{{ page.title }}</h1>
-    <div class="intro">
-      <div class="intro-text">
-        {{ content }}
-      </div>
-      <div class="intro-btns">
-        <a href="{{ page['Primary Button'].URL }}" class="btn btn-primary btn-block btn-lg btn-chevron">{{ page['Primary Button'].Words }}</a>
-        <a href="{{ page['Secondary Button'].URL }}" class="btn btn-default btn-block btn-lg btn-chevron">{{ page['Secondary Button'].Words }}</a>
-      </div>
-    </div>
-  </header>
-
-  <div class="half-blocks">
-
-    <div class="half-block dark">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 1'].Header }}</h3>
-          <p>{{ page['Block 1'].Text }}</p>
+    <header class="container what-we-do-header">
+      <h1>{{ page.title }}</h1>
+      <div class="intro">
+        <div class="intro-text">
+          {{ content }}
         </div>
-        <div class="block-options">
-          <h5>Projects to check out</h5>
-          <ul>
-            {% for project in page['Block 1'].Project %}
-
-              {% comment %}
-                The for loop below seems to be required to get the project url
-              {% endcomment %}
-
-              {% for p in site.projects %}
-                {% if p.title == project %}
-                    {% capture pURL %} {{p.url}} {% endcapture %}
-                    {% break %}     
-                {% endif %}
-              {% endfor %}
-              <li><a href="{{ pURL }}">{{ project }}</a></li>
-            {% endfor %}
-          </ul>
+        <div class="intro-btns">
+          <a href="{{ page['Primary Button'].URL }}" class="btn btn-primary btn-block btn-lg btn-chevron">{{ page['Primary Button'].Words }}</a>
+          <a href="{{ page['Secondary Button'].URL }}" class="btn btn-default btn-block btn-lg btn-chevron">{{ page['Secondary Button'].Words }}</a>
         </div>
       </div>
-      <div class="block-image">
-        <img src="{{ page['Block 1'].Image }}">
-      </div>
-    </div>
-
-    <div class="half-block dark">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 2'].Header }}</h3>
-          <p>{{ page['Block 2'].Text }}</p>
+    </header>
+  
+    
+  <div>
+    <div class="half-blocks">
+        <div class="half-block dark left">
+          <div class="block-details left">
+            <div class="block-info">
+              <h3>{{ page['Block 1'].Header }}</h3>
+              <p>{{ page['Block 1'].Text }}</p>
+            </div>
+            <div class="block-options">
+              <h5>Projects to check out</h5>
+              <ul>
+                {% for project in page['Block 1'].Project %}
+    
+                  {% comment %}
+                    The for loop below seems to be required to get the project url
+                  {% endcomment %}
+    
+                  {% for p in site.projects %}
+                    {% if p.title == project %}
+                        {% capture pURL %} {{p.url}} {% endcapture %}
+                        {% break %}     
+                    {% endif %}
+                  {% endfor %}
+                  <li><a href="{{ pURL }}">{{ project }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+            
+          </div>
+          <div class="block-image right">
+            <img src="{{ page['Block 1'].Image }}">
+          </div>
         </div>
-        <div class="block-options">
-          <h5>Projects to check out</h5>
-          <ul>
-            {% for project in page['Block 2'].Project %}
+      
+      
+  
+
+      <div class="half-block dark right">
+        <div class="block-details right">
+          <div class="block-info">
+            <h3>{{ page['Block 2'].Header }}</h3>
+            <p>{{ page['Block 2'].Text }}</p>
+          </div>
+          <div class="block-options">
+            <h5>Projects to check out</h5>
+            <ul>
+              {% for project in page['Block 2'].Project %}
               
               {% comment %}
-                The for loop below seems to be required to get the project url
-              {% endcomment %}
+                  The for loop below seems to be required to get the project url
+                  {% endcomment %}
+                  
+                  {% for p in site.projects %}
+                  {% if p.title == project %}
+                  {% capture pURL %} {{p.url}} {% endcapture %}
+                      {% break %}     
+                      {% endif %}
+                      {% endfor %}
+                      <li><a href="{{ pURL }}">{{ project }}</a></li>
+                      {% endfor %}
+                    </ul>
+            </div>
+          </div>
+               <div class="block-image left">
+                      <img src="{{ page['Block 2'].Image }}">
+                </div>
+                
+         </div>
+              
+    
+            
 
-              {% for p in site.projects %}
-                {% if p.title == project %}
-                    {% capture pURL %} {{p.url}} {% endcapture %}
-                    {% break %}     
-                {% endif %}
-              {% endfor %}
-              <li><a href="{{ pURL }}">{{ project }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-image">
-        <img src="{{ page['Block 2'].Image }}">
-      </div>
-    </div>
-
-    <div class="half-block dark">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 3'].Header }}</h3>
-          <p>{{ page['Block 3'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <h5>Projects to check out</h5>
-          <ul>
-            {% for project in page['Block 3'].Project %}
-
+      <div class="half-block dark left">
+        
+        <div class="block-details left">
+          <div class="block-info">
+            <h3>{{ page['Block 3'].Header }}</h3>
+            <p>{{ page['Block 3'].Text }}</p>
+          </div>
+          <div class="block-options">
+            <h5>Projects to check out</h5>
+            <ul>
+              {% for project in page['Block 3'].Project %}
+              
               {% comment %}
-                The for loop below seems to be required to get the project url
+              The for loop below seems to be required to get the project url
               {% endcomment %}
-
+              
               {% for p in site.projects %}
-                {% if p.title == project %}
-                    {% capture pURL %} {{p.url}} {% endcapture %}
-                    {% break %}     
-                {% endif %}
+              {% if p.title == project %}
+              {% capture pURL %} {{p.url}} {% endcapture %}
+              {% break %}     
+              {% endif %}
               {% endfor %}
               <li><a href="{{ pURL }}">{{ project }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-image">
-        <img src="{{ page['Block 3'].Image }}">
-      </div>
-    </div>
-
-    <div class="half-block dark">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 4'].Header }}</h3>
-          <p>{{ page['Block 4'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <h5>Projects to check out</h5>
-          <ul>
-            {% for project in page['Block 4'].Project %}
-
-              {% comment %}
-                The for loop below seems to be required to get the project url
-              {% endcomment %}
-
-              {% for p in site.projects %}
-                {% if p.title == project %}
-                    {% capture pURL %} {{p.url}} {% endcapture %}
-                    {% break %}     
-                {% endif %}
               {% endfor %}
-              <li><a href="{{ pURL }}">{{ project }}</a></li>
-            {% endfor %}
-          </ul>
+            </ul>
+          </div>
+        </div>
+            <div class="block-image right">
+              <img src="{{ page['Block 3'].Image }}">
+            </div>
+        
+      </div>
+      
+      
+      <div class="half-block dark right ">
+        <div class="block-details right">
+          <div class="block-info">
+            <h3>{{ page['Block 4'].Header }}</h3>
+            <p>{{ page['Block 4'].Text }}</p>
+          </div>
+          <div class="block-options">
+            <h5>Projects to check out</h5>
+            <ul>
+              {% for project in page['Block 4'].Project %}
+  
+                {% comment %}
+                  The for loop below seems to be required to get the project url
+                {% endcomment %}
+  
+                {% for p in site.projects %}
+                  {% if p.title == project %}
+                      {% capture pURL %} {{p.url}} {% endcapture %}
+                      {% break %}     
+                  {% endif %}
+                {% endfor %}
+                <li><a href="{{ pURL }}">{{ project }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+        <div class="block-image left">
+          <img src="{{ page['Block 4'].Image }}">
+        </div>
+       
+      </div>
+      
+      <div class="half-block dark left">
+        <div class="block-details left">
+          <div class="block-info">
+            <h3>{{ page['Block 5'].Header }}</h3>
+            <p>{{ page['Block 5'].Text }}</p>
+          </div>
+          <div class="block-options">
+            <h5>Learn more about OpenStreetMap</h5>
+            <ul>
+              {% for link in page['Block 5'].Links %}
+                <li>{{ link }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div> 
+        <div class="block-screenshot right">
+            <div class="block-screenshot-wrap">
+              <img src="{{ page['Block 5'].Image }}">
+            </div>
         </div>
       </div>
-      <div class="block-image">
-        <img src="{{ page['Block 4'].Image }}">
-      </div>
+     
     </div>
 
-    <div class="half-block dark">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 5'].Header }}</h3>
-          <p>{{ page['Block 5'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <h5>Learn more about OpenStreetMap</h5>
-          <ul>
-            {% for link in page['Block 5'].Links %}
-              <li>{{ link }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-screenshot">
-        <div class="block-screenshot-wrap">
-          <img src="{{ page['Block 5'].Image }}">
-        </div>
-      </div>
-    </div>
-
+  <div class="container right"  >
+      {% include impact-areas.html %}
+      <div class="hr-h"></div>
   </div>
-
-  <div class="container">
-    {% include impact-areas.html %}
-    <div class="hr-h"></div>
-  </div>
-
 </div>
+  
+  
+</div>
+     
+  
