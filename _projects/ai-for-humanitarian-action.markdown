@@ -1,5 +1,5 @@
 ---
-title: "Integrating Artificial Intelligence: AI-Assisted Humanitarian Mapping"
+title: "Integrating Deep Learning: AI-Assisted Humanitarian Mapping"
 date: 2019-03-12 12:00:00 Z
 Project Summary Text: HOT is partnering with Microsoft Philanthropies and Bing Maps to build a Machine Learning assisted workflow into the Tasking Manager application in order to enhance the project creation process and mapping experience.
 Feature Image: "/uploads/oam-kampala.jpg"
@@ -25,9 +25,9 @@ Tools:
   link: https://github.com/hotosm/tasking-manager
 ---
 
-The power of volunteer mapping is shown when disaster-affected areas can be mapped in a few days. When thousands of volunteers join together quickly, areas affected by a disaster then have the necessary data for a robust humanitarian response. Through our Missing Maps work, we continue to focus on preparedness mapping for unmapped areas but a challenge still exists to map at a scale and quality for humanitarian use. Around the world, there are still hundreds of millions of buildings and millions of kilometers of road missing from OpenStreetMap, and the data quality for humanitarians must be higher. To meet the challenge of mapping the unmapped areas, the Tasking Manager requires two key improvements to the workflow: an increase in data quality of edits being made, and an increase in mapping and validating efficiency. 
+The power of volunteer mapping is shown when disaster-affected areas can be mapped in a few days. When thousands of volunteers join together quickly, areas affected by a disaster then have the necessary data for a robust humanitarian response. Through our [Missing Maps](https://www.missingmaps.org/) work, we continue to focus on preparedness mapping for unmapped areas but a challenge still exists to map at a scale and quality for humanitarian use. Around the world, there are still hundreds of millions of buildings and millions of kilometers of road missing from [OpenStreetMap](https://www.openstreetmap.org/), and the data quality for humanitarians must be higher. To meet the challenge of mapping the unmapped areas, the Tasking Manager requires two key improvements to the workflow: an increase in data quality of edits being made, and an increase in mapping and validating efficiency. 
 
-Building upon the work the HOT community started in the fall of 2018, HOT is working with Microsoft to address these challenges by building enhanced assisted mapping workflows with machine learning into the Tasking Manager and create an open building dataset in Uganda and Tanzania. 
+Building upon the work the HOT community started in the fall of 2018, HOT is working with [Microsoft](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action) to address these challenges by building enhanced assisted mapping workflows with machine learning into the Tasking Manager and create an open building dataset in Uganda and Tanzania. 
 
 _[Read more about notes on a machine learning direction](https://www.hotosm.org/updates/integrating-machine-learning-into-the-tasking-manager/)._
 
@@ -41,4 +41,4 @@ _[Check out the machine learning primer from the World Bank.](https://www.gfdrr.
 
 We are teaming up with Microsoft, in order to provide an Open Source solution to include any kind of machine learning models into the Tasking Manager and other applications around OpenStreetMap. In addition through the project, Microsoft will be creating open building datasets for Uganda and Tanzania. These building datasets will be made available with an open license and used during the piloting of the new Tasking Manager workflows. 
 
-Photo credit: OpenAerialMap
+_Photo credit: OpenAerialMap_
