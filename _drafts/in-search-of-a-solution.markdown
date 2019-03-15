@@ -36,5 +36,5 @@ Integration of the various humanitarian efforts underway in Uganda is a big firs
 
 One last note: seeing and hearing Ugandans’ warm and welcoming attitude towards refugees was such a breath of fresh air. I found Uganda to be a far less antagonistic host country than America, both in policy and in practice, despite its greater limitation on resources. America could learn a thing or two on how to approach displaced populations from Uganda…
 
-![image1-6e4c85.jpg](/uploads/image1-6e4c85.jpg)
+![allan_shami.png](/uploads/allan_shami.png)
 All smiles outside Rhino Camp High School
