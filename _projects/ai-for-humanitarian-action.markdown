@@ -15,6 +15,7 @@ Person:
 - Nate Smith
 Partner:
 - Microsoft
+- American Red Cross
 Duration:
   Start Date: 2019-01-01 00:00:00 Z
   End Date: '2019-09-31 00:00:00 Z'
@@ -42,5 +43,7 @@ _[Check out the machine learning primer from the World Bank.](https://www.gfdrr.
 </p>
 
 We are teaming up with Microsoft, in order to provide an Open Source solution to include any kind of machine learning models into the Tasking Manager and other applications around OpenStreetMap. In addition through the project, Microsoft will be creating open building datasets for Uganda and Tanzania. These building datasets will be made available with an open license and used during the piloting of the new Tasking Manager workflows. 
+
+All this new work is thanks in part to the American Red Cross and the work they’ve done with Microsoft through the Missing Maps project with Microsoft. American Red Cross is a key partner in the project and will be helping work with us as we implement the work on the Tasking Manager.
 
 _Photo credit: OpenAerialMap_
