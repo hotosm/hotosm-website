@@ -2982,7 +2982,10 @@ border: 2px solid black;
   position: relative;
   z-index: 10;
   pointer-events: auto;
-  margin-left: 40px;  
+  margin-left: 40px;
+  @media (max-width: $screen-sm) {
+    margin-left: 16px;
+  }  
 }
 
 .project-map-area #our-work-title {
