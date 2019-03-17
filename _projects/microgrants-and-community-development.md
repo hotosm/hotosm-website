@@ -31,7 +31,7 @@ Country:
 - Turkey
 - Uganda
 - Zambia
-Impact Area:
+Impact Area: 
 Person:
 - Rebecca Firth
 - 'Amelia Hunt '

@@ -14,7 +14,7 @@ Person:
 - Mikel Maron
 - Rob Baker
 - Andrew Wiseman
-- Jaakko Helleranta 
+- Jaakko Helleranta
 - Marco Minghini
 - Fran Boon
 - Kate Chapman
