@@ -1721,13 +1721,20 @@ em {
   color: $blue-dark;
   box-shadow: none;
   flex: 1;
-  background-image: url(../images/icon-search.svg);
-  background-repeat: no-repeat;
-  background-size: 18px 18px;
-  background-position: right 14px center;
+  
+  &.background{
+    background-image: url(../images/icon-search.svg);
+    background-repeat: no-repeat;
+    background-size: 18px 18px;
+    background-position: right 14px center;
+  }
   &:focus {
     border-color: $red;
   }
+}
+
+#closeButton{
+  margin-left:2px;  
 }
 
 .close-overlay {

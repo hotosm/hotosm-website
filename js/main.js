@@ -53,6 +53,29 @@ $(".search-close").on("click", function() {
   $('body').removeClass('search-on');
 });
 
+$("#search-input").on("input", function() {
+  var content = $(this).val();
+  if(content=='')
+  {
+    $('#search-input').addClass('background');
+    $('#closeButton').hide();
+  }
+  else
+  {
+    $('#closeButton').show();
+    $('#search-input').removeClass('background');
+  }
+});
+
+$("#closeButton").on("click", function() {
+  $('#search-input').addClass('background');
+  $("#results-container").empty();
+  $('#search-input').val('');
+  $('#search-input').focus();
+  $('#closeButton').hide();
+
+});
+
 //esc key
 $('body').on('keyup', function(e) {
   if ($('body').hasClass('search-on') && e.keyCode == 27) {
@@ -98,5 +121,7 @@ const collapse = (selector, cmd) => {
 }
 
 $(document).ready(function() {
+      $('#closeButton').css("display","none");
       $('#control-left').css({'cursor' : 'not-allowed', 'opacity' : 0.4});
+      $('#search-input').addClass('background');
 });
