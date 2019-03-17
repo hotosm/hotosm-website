@@ -13,7 +13,7 @@ Country:
 Impact Area:
 - Disaster Response
 Person:
-- 'Jaakko Helleranta '
+- Jaakko Helleranta
 Duration:
   Start Date: 2011-07-01 00:00:00 Z
   End Date: 2011-12-31 00:00:00 Z

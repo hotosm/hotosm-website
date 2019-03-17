@@ -9,7 +9,7 @@ Feature Image: "/uploads/Screen%20Shot%202018-10-24%20at%2017.00.49.png"
 Project Logo Image: "/uploads/nasa-logo.png"
 Is Community-Led: false
 Country:
-- 'Nepal '
+- Nepal
 - Uganda
 Impact Area:
 - Refugee Response

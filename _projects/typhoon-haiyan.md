@@ -15,7 +15,7 @@ Person:
 - Taichi Furuhashi
 - Mark Cupitt
 - Dale Kunce
-- 'Jaakko Helleranta '
+- Jaakko Helleranta 
 - Rafael Ávila Coya
 - Mikel Maron
 - Robert Banick
