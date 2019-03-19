@@ -5,10 +5,12 @@ layout: default
 <div class="project-index">
   <div class="impact-map-area">
     <div id="map">
-        <div id="loading-map">
-            <center><p class="loader w40 h40 mb20 red-border"></p></center>
-            <span>Loading map...</span>
-          </div>
+      <div id="loading-map">
+        <center>
+          <p class="loader w40 h40 mb20 red-border"></p>
+        </center>
+        <span>Loading map...</span>
+      </div>
       <center>
         <div id="hover-country" class="center-hover-map-area"></div>
       </center>
@@ -25,14 +27,16 @@ layout: default
       </div>
     </div>
   </div>
-
-  <div class="container impact-desc-container">
-    <div class="impact-area-desc">
-      <span>{{ content }}<div class="hr"></div></span>
+  <div class="areas-wrapper">
+    <div class="container">
+      <div class="impact-area-desc">
+        <span>{{ content }}</span>
+      </div>
     </div>
   </div>
-
   <div id="impact-projects" class="container">
+
+    <div class="hr-h"></div>
 
     <h6>Highlighted Projects</h6>
 
@@ -42,67 +46,43 @@ layout: default
 
       {% assign highlight_count = 0 %}
       {% for project in sorted-projects %}
-        {% if project['Impact Area'] contains page.title %}
+      {% if project['Impact Area'] contains page.title %}
 
-          {% assign highlight_count = highlight_count | plus: 1 %}
-          {% if highlight_count > 3 %}
-            {% break %}
-          {% endif %}
+      {% assign highlight_count = highlight_count | plus: 1 %}
+      {% if highlight_count > 3 %}
+      {% break %}
+      {% endif %}
 
-          {% include blocks/project-highlight.html %}
+      {% include blocks/project-highlight.html %}
 
-        {% endif %}
+      {% endif %}
       {% endfor %}
-
-      <div class="hr-h"></div>
 
     </div>
 
-    {% assign project_head_count = 0 %}
-    {% for project in sorted-projects %}
+    <div class="hr-h"></div>
+
+    <h6>More {{ page.title }} Projects</h6>
+
+    <div class="project-index-all">
+      {% assign project_count = 0 %}
+      {% for project in sorted-projects %}
       {% if project['Impact Area'] contains page.title %}
 
-        {% assign project_head_count = project_head_count | plus: 1 %}
-        {% if project_head_count > 3 %}
+      {% assign project_count = project_count | plus: 1 %}
+      {% if project_count > 3 %}
+      {% unless project_count < 4 %} {% include blocks/project-thumb.html %} {% endunless %} {% endif %} {% endif %} {%
+        endfor %} {% assign project_foot_count=0 %} {% for project in sorted-projects %} {% if project['Impact Area']
+        contains page.title %} {% assign project_foot_count=project_foot_count | plus: 1 %} {% if project_foot_count> 3
+        %}
 
-          <h6>More {{ page.title }} Projects</h6>
-          <div class="project-index-all">
-
-          {% break %}
-
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-
-    {% assign project_count = 0 %}
-    {% for project in sorted-projects %}
-      {% if project['Impact Area'] contains page.title %}
-
-        {% assign project_count = project_count | plus: 1 %}
-        {% if project_count > 3 %}
-          {% unless project_count < 4 %}
-            {% include blocks/project-thumb.html %}
-          {% endunless %}
+        {% break %}
 
         {% endif %}
-      {% endif %}
-    {% endfor %}
-
-    {% assign project_foot_count = 0 %}
-    {% for project in sorted-projects %}
-      {% if project['Impact Area'] contains page.title %}
-
-        {% assign project_foot_count = project_foot_count | plus: 1 %}
-        {% if project_foot_count > 3 %}
-
-          </div>
-
-          {% break %}
-
         {% endif %}
-      {% endif %}
-    {% endfor %}
-
+        {% endfor %}
+    </div>
+  </div>
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
   <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
   <script src="{{ "/js/impact-areas-map.js" | prepend: site.baseurl }}"></script>
