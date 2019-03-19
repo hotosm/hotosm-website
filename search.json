@@ -40,7 +40,7 @@ layout:
 "type": "Job",
 "title": "{{ job.title | escape }}",
 "summary":"{{ job.body | escape | truncatewords : 40 | strip | prepend: ' ' }}",
-"subtitle":"Deadline: {{ job['Deadline Date'] }}",
+"subtitle":"Deadline: {{ job['Deadline Date'] | date_to_long_string }}",
 "url":"{{ site.url }}{{ job.url }}",
 "date":"{{ job.date }}"
 } {% unless forloop.last %},{% endunless %}
