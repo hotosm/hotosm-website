@@ -6,9 +6,12 @@ Place of Work: Dar es Salaam, Tanzania
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeSPHVyux5TnQ9ZU0wW6Cq90R18JwbntaRgYClMbvmYtE2d2g/viewform
 ---
 
-**Location: **Preferably in Dar es Salaam, Tanzania. Remote possible, but travel to Dar required.
+**Location:** Preferably in Dar es Salaam, Tanzania. Remote possible, but travel to Dar required.
+
 **Projected start date:** ASAP
+
 **Reports to:** Country Manager, Tanzania
+
 **Duration:** April - July 2019
  
 # Background
