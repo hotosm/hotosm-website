@@ -1,6 +1,6 @@
 ---
 title: Bringing machine learning and open data to the Tasking Manager
-date: 2019-03-19 16:58:00 Z
+date: 2019-03-20 10:00:00 Z
 Summary Text: Addressing the unmapped gap with high quality and greater efficiency.
 Feature Image: "/uploads/ml-msft-blog.jpg"
 Person: Nate Smith
