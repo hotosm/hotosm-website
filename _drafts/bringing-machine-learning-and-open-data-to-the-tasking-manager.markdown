@@ -32,7 +32,7 @@ Over the next seven months, the partnership will work on the following:
 
 4. Pilot a feedback loop to help improve machine learning models and outputs
 
-In February, we kicked off the first two items and you’ll begin to see outputs over the next month. This work is a part of the increase in development on the Tasking Manager from contributing organizations and we’re having [bi-weekly working group meetings](https://github.com/hotosm/tasking-manager/wiki/TM-Working-Group-Meeting-Details) and an active [Slack channel](https://slack.hotosm.org/) discussions (#ml4tm and #tasking_manager_3 channels).
+In February, we kicked off the first two items and you’ll begin to see outputs over the next month. This work is a part of the increase in development on the Tasking Manager from contributing organizations and we’re having [bi-weekly working group meetings](https://github.com/hotosm/tasking-manager/wiki/TM-Working-Group-Meeting-Details) and an active [Slack channel](https://slack.hotosm.org/) discussions -- see the `#ml4tm` and `#tasking_manager_3 channels`.
 
 <p>
 <div class="highlight-options"><a href="https://github.com/hotosm/tasking-manager/projects" class="btn btn-primary btn-block btn-chevron">Access the roadmap</a></div>
