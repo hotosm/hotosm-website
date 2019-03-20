@@ -3,6 +3,7 @@ title: Community & Organization
 date: 2018-02-06 15:20:00 Z
 permalink: "/community/"
 position: 5
+redirect_from: "/people"
 People:
   Description: The HOT community is made up of volunteers, local community leaders,
     and professionals committed to the mission of helping reach those in need through
