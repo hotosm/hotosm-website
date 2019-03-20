@@ -11,7 +11,7 @@ Project:
 - 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
 ---
 
-Last month we kicked off a new phase for the Tasking Manager -- building a [community of collaborators](https://www.hotosm.org/updates/a-community-of-collaborators-for-the-tasking-manager/) for software development. The community is addressing usability and user flows, metrics and statistics, and machine learning. Today we're sharing about a new partnership with [Microsoft Philanthropies and Bing Maps](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action) to bring design updates, machine learning integration, and new open building datasets into the Tasking Manager.
+Last month we kicked off a new phase for the Tasking Manager -- building a [community of collaborators](https://www.hotosm.org/updates/a-community-of-collaborators-for-the-tasking-manager/) for software development. The community is addressing usability and user flows, metrics and statistics, and machine learning. Today we're sharing about a new partnership with Microsoft Philanthropies and Bing Maps to bring design updates, machine learning integration, and new open building datasets into the Tasking Manager through [Microsoft's AI for Humanitarian Action program](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action).
 
 ## Why does this matter?
 
@@ -47,6 +47,6 @@ A couple near term items to keep on the lookout:
 
 2. A deep dive into Tasking Manager data. As we’ve been working with Major, we’ve been looking into the data about task completion, validation, and other metrics about speed and coverage of mapping. 
 
-All this new work is thanks in part to the American Red Cross and the work they’ve done with Microsoft through the [Missing Maps])(https://www.missingmaps.org/) project. American Red Cross is a key partner in the project and will be helping work with us as we implement the work on the Tasking Manager. 
+All this new work is thanks in part to the American Red Cross and the work they’ve done with Microsoft through the [Missing Maps](https://www.missingmaps.org/) project. American Red Cross is a key partner in the project and will be helping work with us as we implement the work on the Tasking Manager. 
 
 Keep watching this blog for more updates on the project and other Tasking Manager work!
