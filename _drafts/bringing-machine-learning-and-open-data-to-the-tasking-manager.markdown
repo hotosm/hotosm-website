@@ -1,7 +1,8 @@
 ---
 title: Bringing machine learning and open data to the Tasking Manager
 date: 2019-03-20 10:00:00 Z
-Summary Text: Addressing the unmapped gap with high quality and greater efficiency.
+Summary Text: 'Addressing the unmapped gap with high quality and greater efficiency.
+  Photo above from the Tasking Manager meeting held last month in Washington, DC. '
 Feature Image: "/uploads/IMG_7699.jpg"
 Person: Nate Smith
 Working Group:
@@ -10,7 +11,7 @@ Project:
 - 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
 ---
 
-Last month we kicked off a new phase for the Tasking Manager -- building a community of collaborators for software development. The community is addressing usability and user flows, metrics and statistics, and machine learning. Today we're sharing about a new partnership with [Microsoft Philanthropies and Bing Maps](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action) to bring design updates, machine learning integration, and new open building datasets into the Tasking Manager.
+Last month we kicked off a new phase for the Tasking Manager -- building a [community of collaborators](https://www.hotosm.org/updates/a-community-of-collaborators-for-the-tasking-manager/) for software development. The community is addressing usability and user flows, metrics and statistics, and machine learning. Today we're sharing about a new partnership with [Microsoft Philanthropies and Bing Maps](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action) to bring design updates, machine learning integration, and new open building datasets into the Tasking Manager.
 
 ## Why does this matter?
 
@@ -48,4 +49,4 @@ A couple near term items to keep on the lookout:
 
 All this new work is thanks in part to the American Red Cross and the work they’ve done with Microsoft through the [Missing Maps])(https://www.missingmaps.org/) project. American Red Cross is a key partner in the project and will be helping work with us as we implement the work on the Tasking Manager. 
 
-Keep watching this blog for more updates on the project and other Tasking Manager work streams!
+Keep watching this blog for more updates on the project and other Tasking Manager work!
