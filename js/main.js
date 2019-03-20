@@ -97,6 +97,16 @@ const collapse = (selector, cmd) => {
   });
 }
 
+var count=0;
+$("#toggle-arrow").on("click",function(){
+  count++;
+  $('#toggle-arrow').css("transform",'');
+  if(count%2!=0)
+    $('#toggle-arrow').css("transform","rotate(270deg)");
+  else
+    $('#toggle-arrow').css("transform","rotate(90deg)");
+});
+
 $(document).ready(function() {
       $('#control-left').css({'cursor' : 'not-allowed', 'opacity' : 0.4});
 });
