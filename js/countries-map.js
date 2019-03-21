@@ -199,6 +199,7 @@ map.on('load', function() {
     }
     );
   map.on('mousemove', function(e) {
+    map.dragPan.disable();
     var projectHover = map.queryRenderedFeatures(
       e.point,
       {layers: ['country-projects-edits-circle', 'country-projects-black-circle', 'country-projects-symbol']}
