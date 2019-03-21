@@ -22,7 +22,7 @@ Duration:
   Start Date: 2013-06-01 00:00:00 Z
   End Date: 2013-12-31 00:00:00 Z
 Summary Text: "<em><a href=\"http://hot.openstreetmap.org/projects/espace_osm_francophone_0#english_version\">English
-  version of the text follows below</a></em> \nFort du soutien financier et opérationnel
+  version of the text follows below</a></em>\nFort du soutien financier et opérationnel
   de la Direction de la Francophonie numérique (DFN) de l’Organisation Internationale
   de la Francophonie (OIF), HOT avec un réseau de partenaires locaux met en oeuvre
   le projet pilote Espace OSM Francophone (EOF). \n\n"
