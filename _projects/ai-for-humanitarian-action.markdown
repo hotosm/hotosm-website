@@ -32,10 +32,6 @@ The power of volunteer mapping is shown when disaster-affected areas can be mapp
 
 Building upon the work the HOT community started in the fall of 2018, HOT is working with Microsoft's [AI for Humanitarian Action](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action) program to address these challenges by building enhanced assisted mapping workflows with machine learning into the Tasking Manager and create an open building dataset in Uganda and Tanzania. 
 
-<p>
-<div class="highlight-options"><a href="https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action" class="btn btn-primary btn-block btn-chevron">Read more about AI for Humanitarian Action</a></div>
-</p>
-
 _[Read about our notes on a machine learning direction](https://www.hotosm.org/updates/integrating-machine-learning-into-the-tasking-manager/)._
 
 There are promising potentials for machine/deep/statistical learning assisted mapping. Especially when it comes to image processing the achievements are tangible. HOT will pilot the use of this machine leveraged power of the newly available programming models to improve data quality and mapping experience. In this project, a well-designed use case around the Tasking Manager is to be implemented, which is focusing on machine learning assisted project creation and task facilitation.
@@ -49,5 +45,9 @@ _[Check out the machine learning primer from the World Bank.](https://www.gfdrr.
 We are teaming up with Microsoft, in order to provide an Open Source solution to include any kind of machine learning models into the Tasking Manager and other applications around OpenStreetMap. In addition through the project, Microsoft will be creating open building datasets for Uganda and Tanzania. These building datasets will be made available with an open license and used during the piloting of the new Tasking Manager workflows. 
 
 All this new work is thanks in part to the American Red Cross and the work they’ve done with Microsoft through the Missing Maps project with Microsoft. American Red Cross is a key partner in the project and will be helping work with us as we implement the work on the Tasking Manager.
+
+<p>
+<div class="highlight-options"><a href="https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action" class="btn btn-primary btn-block btn-chevron">Read more about AI for Humanitarian Action</a></div>
+</p>
 
 _Photo credit: OpenAerialMap_
