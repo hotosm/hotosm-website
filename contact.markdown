@@ -6,13 +6,13 @@ General Inquiries:
   Emails:
   - |-
     **General Inquiries**
-    [info@hotosm.org](info@hotosm.org)
+    [info@hotosm.org](mailto:info@hotosm.org)
   - |-
     **Staff & Management**
-    [operations@hotosm.org](operations@hotosm.org)
+    [operations@hotosm.org](mailto:operations@hotosm.org)
   - |-
     **Board**
-    [board@hotosm.org](board@hotosm.org)
+    [board@hotosm.org](mailto:board@hotosm.org)
   Nav ID: email
 Office Locations:
   Locations:
@@ -49,7 +49,7 @@ Media:
     \n[Logo, colors, and fonts](https://github.com/hotosm/hotosm-website/wiki/Colors-Fonts-and-Logo)\n[Photos
     from HOT activities](https://www.flickr.com/photos/hotosm/)\n[Photos from Missing
     Maps](https://www.flickr.com/photos/126636925@N06/)\n[Previous Articles](https://github.com/hotosm/hotosm-website/wiki/Media-Kit#previously-written-articles)\n\nContact
-    us: [info@hotosm.org](info@hotosm.org)"
+    us: [info@hotosm.org](mailto:info@hotosm.org)"
   Nav ID: media
 layout: contact
 ---

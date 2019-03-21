@@ -97,7 +97,9 @@ layout: default
 
         <h4>Travelling to {{ page.title }} or want to get in touch about a collaboration?</h4>
         <div class="country-content">
-          <p>Get in touch with HOT or reach out to the <a href="https://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists">local community</a>.</p>
+          <p>Get in touch with HOT or reach out to the 
+            <a href="https://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists" 
+            target="_blank">local community</a>.</p>
         </div>
         <h5>Contact HOT</h5>
         {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
@@ -109,11 +111,20 @@ layout: default
           <a href="mailto:info@hotosm.org">info@hotosm.org</a>
         {% endif %}
 
-        {% if page.Location.Name or page.Location.Address %}
+        {% if page.Location['Location Name'] or page.Location.Address %}
           <h5>Visit</h5>
-          <p><b>{{ page.Location['Location Name'] }}</b></p>
-          {{ page.Location.Address | markdownify }}
-          <p>{{ page.Location.Phone }}</p>
+          {% if page.Location['Location Name'] and page.Location['Map Link'] %}
+	          <a href="{{ page.Location['Map Link'] }}" target="_blank"><b>
+		          {{ page.Location['Location Name'] }}</b></a>
+	        {% elsif page.Location['Location Name'] %}
+	          <p><b> {{ page.Location['Location Name'] }} </b></p>
+	        {% endif %}
+	        {% if page.Location.Address %}
+            {{ page.Location.Address | markdownify }}
+          {% endif %}
+          {% if page.Location.Phone %}
+	          <p>{{ page.Location.Phone }}</p>
+	        {% endif %}
         {% endif %}
 
         {% elsif members %}
@@ -165,7 +176,7 @@ layout: default
 
         {% if page.Location.Name or page.Location.Address %}
           <h5>Visit</h5>
-          <p><b>{{ page.Location['Location Name'] }}</b></p>
+          <p><b>{{ page.Location['Map Link'] }}</b></p>
           {{ page.Location.Address | markdownify }}
           <p>{{ page.Location.Phone }}</p>
         {% endif %}
