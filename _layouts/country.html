@@ -342,7 +342,7 @@ layout: default
           {% capture post.Person %}{% endcapture %}
           <div class="news-list-meta">
               <p class="news-index-author">
-                {% include author.html %} — {{ post.date | date:  '%e %B, %Y' }}
+                {% include author.html %}{{ post.date | date:  '%e %B, %Y' }}
               </p>
           </div>
         </div>
