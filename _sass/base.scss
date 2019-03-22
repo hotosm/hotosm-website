@@ -1820,11 +1820,16 @@ em {
 .nav-mobile-links {
   border-top: 1px solid $border-color;
   border-bottom: 1px solid $border-color;
+  .hr-v{
+    width: 1px;
+    background-color: shade($border-color, 10%);
+    margin: 5px 5px 5px 5px; 
+  }
   .nav-group {
     display: flex;
     justify-content: space-between;
     a {
-      padding: 13px 0 14px;
+      padding: 13px 10px 14px 10px;
       font-size: 0.9375rem;
       &.donate {
         font-weight: bold;
