@@ -86,7 +86,8 @@ var map = new mapboxgl.Map({
   container: 'country-map-wrap',
   logoPosition: 'bottom-left',
   // scrollZoom: false,
-  // dragRotate: false,
+  dragRotate: false,
+  touchZoomRotate: false,
   maxzoom: 16,
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 });
@@ -190,16 +191,21 @@ map.on('load', function() {
     })
     .then(function(jsonData) {
       countries = jsonData;
-      map.fitBounds(countries[countryCode][1], {
-        // padding: 40
+      bounds = countries[countryCode][1];
+      console.log(bounds)
+      map.fitBounds(bounds, {
       }, setTimeout(() => {
         var boxZoom = map.getZoom();
         map.setMinZoom(boxZoom);
+        var west = map.getBounds().getWest();
+        var south = map.getBounds().getSouth();
+        var east = map.getBounds().getEast();
+        var north = map.getBounds().getNorth();
+        map.setMaxBounds([[west-2, south-2], [east+2, north+2]]);
       }, 2000));     
     }
     );
   map.on('mousemove', function(e) {
-    map.dragPan.disable();
     var projectHover = map.queryRenderedFeatures(
       e.point,
       {layers: ['country-projects-edits-circle', 'country-projects-black-circle', 'country-projects-symbol']}
