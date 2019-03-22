@@ -4988,12 +4988,12 @@ sup {
     position: absolute;
     top: -20px;
   }
-  @media (max-width: $screen-sm) {
+  @media (max-width: $screen-xs) {
     padding: 60px 16px 16px;
     h2 {
       font-size: 1.75rem;
-      position: absolute;
-      top: -16px;
+      position: relative;
+      top: -30px;
     }
   }
 }
@@ -5043,7 +5043,7 @@ sup {
     grid-column: span 3;
     padding: 132px 32px 32px;
     @media (max-width: $screen-xs) {
-      padding: 68px 16px 16px;
+      padding: 16px 16px 16px;
     }
   }
   .newsletter-description {
