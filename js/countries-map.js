@@ -192,15 +192,15 @@ map.on('load', function() {
     .then(function(jsonData) {
       countries = jsonData;
       bounds = countries[countryCode][1];
-      console.log(bounds)
       map.fitBounds(bounds, {
       }, setTimeout(() => {
         var boxZoom = map.getZoom();
         map.setMinZoom(boxZoom);
-        var west = map.getBounds().getWest();
-        var south = map.getBounds().getSouth();
-        var east = map.getBounds().getEast();
-        var north = map.getBounds().getNorth();
+        var currentBounds = map.getBounds();
+        var west = currentBounds.getWest();
+        var south = currentBounds.getSouth();
+        var east = currentBounds.getEast();
+        var north = currentBounds.getNorth();
         map.setMaxBounds([[west-2, south-2], [east+2, north+2]]);
       }, 2000));     
     }
