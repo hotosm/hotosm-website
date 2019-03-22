@@ -26,7 +26,7 @@ Tools:
 - tool: Tasking Manager
   link: https://github.com/hotosm/tasking-manager
 Link: https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action
-redirect_from: "/ai-for-humanitarian-action"
+redirect_from: "/projects/ai-for-humanitarian-action"
 ---
 
 The power of volunteer mapping is shown when disaster-affected areas can be mapped in a few days. When thousands of volunteers join together quickly, areas affected by a disaster then have the necessary data for a robust humanitarian response. Through our [Missing Maps](https://www.missingmaps.org/) work, we continue to focus on preparedness mapping for unmapped areas but a challenge still exists to map at a scale and quality for humanitarian use. Around the world, there are still hundreds of millions of buildings and millions of kilometers of road missing from [OpenStreetMap](https://www.openstreetmap.org/), and the data quality for humanitarians must be higher. To meet the challenge of mapping the unmapped areas, the Tasking Manager requires two key improvements to the workflow: an increase in data quality of edits being made, and an increase in mapping and validating efficiency. 
