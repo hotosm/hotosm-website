@@ -30,9 +30,11 @@ On 13th March, the International Federation of the Red Cross/Red Crescent (IFRC)
 In the following days Médecins Sans Frontières also launched projects for the area impacted in Zimbabwe, which had by then expanded out to impact the wider region.
 
 **What has HOT done?**
+
 In the first nine days, nearly 850 HOT mappers added over one million data points to the map of the affected area, providing critical geographical information responders will use to understand the extent of flooding and plan response activities.
 
 **Get involved**
+
 * For mappers:
  * We need more mappers and every little helps. Start mapping by going to HOT Tasking Manager.
  * Information is available at the [https://wiki.openstreetmap.org/wiki/Cyclone_Idai](Cyclone Idai Wikipage).
