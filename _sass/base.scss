@@ -4814,15 +4814,7 @@ sup {
   }
   .country-select {
     background-color: $white;
-    border-radius: 2px;
-    box-shadow: $default-box-shadow;
-    overflow: hidden;
     height: 40px;
-    width: 80%;
-    position: relative;
-    @media (max-width: $screen-xs) {
-      width: 300px;
-    }
     &:after {
       content: '';
       display: block;
@@ -4840,17 +4832,24 @@ sup {
       border-bottom: 1px solid $border-color;
       z-index: 0;
     }
+    &:hover{
+      &:after{
+        background-image: url(../images/chevron-red-thick.svg);
+      }
+    }
   }
   #country-select {
     select {
+      background-color: $white;
+      box-shadow: $default-box-shadow;
+      overflow: hidden;
+      height: 40px;
+      width: 75%;
       font-family: $font-default;
-      background: transparent;
       border: none;
       font-size: 16px;
       color: $blue-grey;
-      height: 40px;
       padding: 6px;
-      width: 105%;
       -webkit-appearance: none;
       position: relative;
       z-index: 10;
@@ -4860,6 +4859,10 @@ sup {
       option {
         color: $blue-dark;
       }
+     .button{
+      height: 40px;
+      border: 0;
+    }
     }
   }
 }
