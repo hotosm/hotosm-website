@@ -34,11 +34,11 @@ In the first nine days, nearly 850 HOT mappers added over one million data point
 
 **Get involved**
 
-* For mappers:
+For mappers:
  * We need more mappers and every little helps. Start mapping by going to HOT Tasking Manager.
  * Information is available at the [https://wiki.openstreetmap.org/wiki/Cyclone_Idai](Cyclone Idai Wikipage).
  * For more information on how to map, visit: [LearnOSM.org](learnosm.org)
  * Expert mappers: We need to put good quality maps into the hands of frontline responders, so we need validators! Ask the project manager for more information.
-* For first responders:
+For first responders:
  * Get daily updates of roads and buildings on [https://data.humdata.org/](HDX) for Mozambique, Zimbabwe and Malawi.
  * Quickly start using our mapping data by downloading Maps.me. Create custom extracts for offline navigation at https://export.hotosm.org/en/v3/.
