@@ -5069,5 +5069,27 @@ sup {
   cursor: pointer;
 }
 
-
-
+#backToTop {
+    width: 40px;
+    line-height: 40px;
+    overflow: hidden;
+    z-index: 999;
+    display: none;
+    cursor: pointer;
+    -moz-transform: rotate(270deg);
+    -webkit-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    background-color: shade($tan, 80%);
+    color: $white;
+    text-align: center;
+    font-size: 23px;
+    text-decoration: none;
+    &:hover{
+      background-color: shade($tan, 50%);      
+    }
+}

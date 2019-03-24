@@ -97,6 +97,21 @@ const collapse = (selector, cmd) => {
   });
 }
 
+$(window).scroll(function() {
+    var height = $(window).scrollTop();
+    if (height > 100) {
+        $('#backToTop').fadeIn();
+    } else {
+        $('#backToTop').fadeOut();
+    }
+});
+  
+
 $(document).ready(function() {
       $('#control-left').css({'cursor' : 'not-allowed', 'opacity' : 0.4});
+      $("#backToTop").click(function(event) {
+        event.preventDefault();
+        $("html, body").animate({ scrollTop: 0 }, "slow");
+        return false;
+      });
 });
