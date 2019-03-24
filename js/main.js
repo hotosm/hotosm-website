@@ -22,6 +22,12 @@ $('#control-left').on('click', function (event) {
   $('.home-highlights-wrapper').removeClass('right');
 });
 
+$('#country-button').on('click',function(event){
+  var x=$('#country-option').find(":selected").val();
+  if(x!="")
+  location=`${x}`;
+})
+
 var fixmeTop = $('.nav-main').offset().top;
 $(window).scroll(function() {
   var currentScroll = $(window).scrollTop();
