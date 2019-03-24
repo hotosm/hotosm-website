@@ -31,7 +31,7 @@ In the following days Médecins Sans Frontières also launched projects for the 
 
 In the first nine days, nearly 850 HOT mappers added over one million data points to the map of the affected area, providing critical geographical information responders will use to understand the extent of flooding and plan response activities.
 
-**Get involved**
+**Get involved!**
 
 For mappers:
 
