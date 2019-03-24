@@ -35,7 +35,7 @@ In the first nine days, nearly 850 HOT mappers added over one million data point
 
 For mappers:
 
- * We need more mappers and every little bit helps. Start mapping by going to HOT Tasking Manager.
+ * We need more mappers and every little bit helps. Start mapping by going to [https:tasks.hotosm.org](HOT Tasking Manager).
  * Information is available at the [https://wiki.openstreetmap.org/wiki/Cyclone_Idai](Cyclone Idai Wikipage).
  * For more information on how to map, visit: [LearnOSM.org](learnosm.org)
  * Expert mappers: We need to put good quality maps into the hands of frontline responders, so we need validators! Ask the project manager for more information.
