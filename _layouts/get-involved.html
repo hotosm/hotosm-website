@@ -22,16 +22,17 @@ layout: default
       <div class="country-selection">
         <h6>Choose a country to connect with the community:</h6>
 
-        <div class="country-select">
+        <div >
           <form id="country-select" action="" method="post">
-            <select name="nav" onchange="location = this.options[this.selectedIndex].value;">
+            <select name="nav" id='country-option'>
               <option value="">Select a country…</option>
               {% assign sorted-countries = site.where-we-work | sort:'title' %}
               {% for country in sorted-countries %}
                 <option value="{{ country.url }}">{{ country.title }}</option>
               {% endfor %}
             </select>
-            <input type="submit" value="Go" id="submit" />
+            <div class="country-select"></div>
+            <input type="button" class="button btn btn-default btn-chevron" value="Go" id='country-button'>
           </form>
         </div>
 
