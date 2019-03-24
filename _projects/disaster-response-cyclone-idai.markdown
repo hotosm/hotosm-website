@@ -11,6 +11,7 @@ Is Community-Led: false
 Country:
 - Mozambique
 - Zimbabwe
+- Malawi
 Impact Area:
 - Disaster Response
 Person:
