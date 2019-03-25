@@ -30,7 +30,7 @@ Link: http://meteor.openquake.org/
 Contact: <p><a href="https://hotosm.org/users/mhairi_ohara">Mhairi O'Hara</a></p>
 tm_campaigns:
 - "#METEOR"
-project_extent: 1yhnXZXrMD1AC00TrOKgzMJtVJHtea4xF
+project_extent: 1Gwzi-6DwC7A6itvCIJ7mC30ZxiQsGo_k
 Google Drive: https://drive.google.com/drive/u/1/folders/1l6nMr0axyBoo9rWWdI_E4CqLLjwmWAoD
 Map Products:
 - 16KOkpG5Sy3eI_7ZbTcIsq_Ou5Rj44VPN
