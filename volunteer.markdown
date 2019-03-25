@@ -17,7 +17,7 @@ Join the conversation on [Slack](http://slack.hotosm.org/)! A large number of vo
 
 As a mapping volunteer, you can get involved with projects around the world, and contribute to humanitarian mapping through OpenStreetMap. Even if you are a new mapper, anyone can use a computer to create basemaps by drawing over buildings and roads, or use a phone to swipe and tap population hotspots in the MapSwipe app. If you have never mapped before and would like to help, visit the Tasking Manager's [Learn page](https://tasks.hotosm.org/learn) to get started mapping in less than 30 minutes.
 
-<a href="https://tasks.hotosm.org/learn" class="btn btn-primary btn-lg btn-chevron">Learn how to map</a>
+<a href="https://tasks.hotosm.org/learn" class="btn btn-hover btn-primary btn-lg btn-chevron">Learn how to map</a>
 
 Please also join the discussion on Slack (see above).
 
@@ -31,6 +31,6 @@ We also have opportunities to support field projects, both volunteer (remote) su
 
 HOT builds and maintains over ten open source mapping tools. If you are a new or experienced software engineer, you can get involved in these open source projects. A good place to start is our [Tech repo](https://github.com/hotosm/tech) which serves as the coordinating place for technical activity across our tools. 
 
-<a href="https://github.com/hotosm" class="btn btn-primary btn-lg btn-chevron">Access our GitHub page</a>
+<a href="https://github.com/hotosm" class="btn btn-hover btn-primary btn-lg btn-chevron">Access our GitHub page</a>
 
 All our projects are open source, and the code is on [GitHub](https://github.com/hotosm/).
