@@ -621,6 +621,11 @@ em {
     display: block;
     margin-right: 0;
   }
+  &.btn-hover{
+    &:hover{
+      color:$white;
+    }
+  }
 }
 
 .back-btn {
