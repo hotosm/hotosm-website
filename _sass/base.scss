@@ -1810,8 +1810,16 @@ em {
   }
 }
 
+.sticky {  
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    z-index: 1000;
+}
+
 .nav-mobile-links-wrapper {
   padding: 0 16px;
+  background-color : $white;
   @media (min-width: $screen-sm) {
     display: none;
   }
