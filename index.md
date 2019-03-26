@@ -8,7 +8,7 @@ Banner:
   Secondary Block: Help us map affected locations
   Optional Text: 
   Link Copy: Help Map or Donate
-  URL: https://tasks.hotosm.org/learn
+  URL: https://www.hotosm.org/projects/CycloneIdai
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
