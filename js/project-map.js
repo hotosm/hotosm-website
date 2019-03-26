@@ -104,7 +104,22 @@ const loadMapLayers = () => {
     document.getElementById('Community-Mappers').innerHTML = formatedData(Math.round(totalMappers))
     document.getElementById('Countries-Covered').innerHTML = countryList.length
 
+    map.on('mousemove', function (e) {
+      var features = map.queryRenderedFeatures(e.point, {
+        layers: ['tm-projects-black-circle', 'tm-projects-symbol']
+      });
 
+      map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
+
+      if (!features.length) {
+        popup.remove();
+        return;
+      }
+
+      var feature = features[0];
+
+      populatePopupOnHover(feature);
+    })
 
     map.on('click', function (e) {
       var features = map.queryRenderedFeatures(
