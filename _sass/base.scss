@@ -2721,6 +2721,14 @@ border: 2px solid black;
   }
 }
 
+.flybtn-holder {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 100%;
+  height: 500px; 
+}
+
 #flybtn {
   z-index: 999999;
   margin-right: 30px;
