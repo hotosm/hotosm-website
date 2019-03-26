@@ -42,6 +42,11 @@ var map = new mapboxgl.Map({
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 })
 
+var popup = new mapboxgl.Popup({
+  closeButton: false,
+  closeOnClick: false
+}).setHTML('')
+
 const loadMapLayers = () => {
   if (tmProjectCentroids.features.length > 0) {
     map.addSource('tmProjectPolygons', {
