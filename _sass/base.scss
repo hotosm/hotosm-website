@@ -2712,24 +2712,6 @@ border: 2px solid black;
   }
 }
 
-#hover-details {
-  position: absolute;
-  left: 40px;
-  top: 24px;
-  @media (max-width: $screen-xs) {
-    display: none;
-  }
-}
-
-#project-details {
-  position: absolute;
-  left: 5px;
-  top: 24px;
-  @media (max-width: $screen-xs) {
-    display: none;
-  }
-}
-
 #country-legend-details, #project-legend-details {
   position: absolute;
   right: 40px;
