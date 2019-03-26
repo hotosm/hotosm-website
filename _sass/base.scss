@@ -2352,7 +2352,7 @@ $bg-color: rgb(100,100,100);
 .more, .less {
   position: absolute;
   color: #fff;
-  background: #2C3038;
+  background: #5D6472;
   left: 30%;
   padding: 1em;
   text-decoration: none;
@@ -2361,6 +2361,10 @@ $bg-color: rgb(100,100,100);
   z-index: 100;
   font-size: 16px;
   text-align: center;
+  cursor:pointer;
+  &:hover {
+    background: #3E434C;
+  }
 }
 
 
