@@ -183,7 +183,7 @@ function populatePopupOnHover(currentFeature) {
 }
 
 function updatePopupOnClick(currentFeature) {
-  popup = new mapboxgl.Popup()
+  var popup = new mapboxgl.Popup()
     .setLngLat(currentFeature.geometry.coordinates)
     .setHTML('<p class="hover-name">' +
       '<a target="_blank" href="https://tasks.hotosm.org/project/' +
