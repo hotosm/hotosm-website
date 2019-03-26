@@ -182,6 +182,20 @@ function populatePopupOnHover(currentFeature) {
     .addTo(map);
 }
 
+function updatePopupOnClick(currentFeature) {
+  popup = new mapboxgl.Popup()
+    .setLngLat(currentFeature.geometry.coordinates)
+    .setHTML('<p class="hover-name">' +
+      '<a target="_blank" href="https://tasks.hotosm.org/project/' +
+      currentFeature.properties.id +
+      '">#' + currentFeature.properties.id + '</a>' +
+      ' - ' +
+      currentFeature.properties.name + '</p>' +
+      '<p class="proj-details">Mappers: ' + formatedData(currentFeature.properties.mappers) + '</p>'
+      + '<p class="proj-details">Edits: ' + formatedData(currentFeature.properties.edits) + '</p>')
+    .addTo(map);
+}
+
 if (campaignTags[0] !== '') {
   fetch('/allProjects-minified-v2.json')
     .then(function (response) {
