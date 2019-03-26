@@ -1606,9 +1606,6 @@ em {
     line-height: 1;
     text-align: center;
     padding: 11px 40px 13px;
-    &:hover {
-      color: tint($red, 75%);
-    }
     @media (max-width: $screen-sm) {
       display: block;
       margin: 16px 0 24px;
@@ -5071,7 +5068,3 @@ sup {
   text-decoration: underline;
   cursor: pointer;
 }
-
-
-
-
