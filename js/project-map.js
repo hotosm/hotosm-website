@@ -73,7 +73,7 @@ const loadMapLayers = () => {
       'id': 'tm-projects-black-circle',
       'type': 'circle',
       'source': 'tmProjectCentroids',
-      'minzoom': 0,
+      'minzoom': 10,
       'maxzoom': 19,
       'paint': {
         'circle-radius': 5,
@@ -86,7 +86,7 @@ const loadMapLayers = () => {
       'id': 'tm-projects-symbol',
       'type': 'symbol',
       'source': 'tmProjectCentroids',
-      'minzoom': 0,
+      'minzoom': 10,
       'maxzoom': 19,
       'layout': {
         'text-field': '+',
