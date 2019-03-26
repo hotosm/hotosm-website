@@ -103,29 +103,9 @@ const loadMapLayers = () => {
     document.getElementById('Total-Map-Edits').innerHTML = formatedData(Math.round(totalEdits))
     document.getElementById('Community-Mappers').innerHTML = formatedData(Math.round(totalMappers))
     document.getElementById('Countries-Covered').innerHTML = countryList.length
-    map.on('mousemove', function (e) {
-      var features = map.queryRenderedFeatures(
-        [e.point.x, e.point.y],
-        { layers: ['tm-projects-black-circle', 'tm-projects-symbol'] }
-      )
-      if (features.length) {
-        map.getCanvas().style.cursor = 'pointer'
-        $('#hover-details').empty()
-        $('#hover-details').removeClass('hide')
-        $('#hover-details').append(
-          '<p class="hover-name">' +
-          '<a target="_blank" href="https://tasks.hotosm.org/project/' +
-          features[0].properties.id +
-          '">#' + features[0].properties.id + '</a>' +
-          ' - ' +
-          features[0].properties.name + '</p>' +
-          '<p id="proj-details">Click on the project to see more details</p>'
 
-        )
-      } else {
-        map.getCanvas().style.cursor = ''
-      }
-    })
+
+
     map.on('click', function (e) {
       var features = map.queryRenderedFeatures(
         [e.point.x, e.point.y],
