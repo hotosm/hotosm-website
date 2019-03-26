@@ -170,6 +170,17 @@ const loadMapLayers = () => {
 
 map.addControl(new mapboxgl.NavigationControl())
 
+function populatePopupOnHover(currentFeature) {
+  popup.setLngLat(currentFeature.geometry.coordinates)
+    .setHTML('<p class="hover-name">' +
+      '<a target="_blank" href="https://tasks.hotosm.org/project/' +
+      currentFeature.properties.id +
+      '">#' + currentFeature.properties.id + '</a>' +
+      ' - ' +
+      currentFeature.properties.name + '</p>' +
+      '<p>Click on the project to see more details</p>')
+    .addTo(map);
+}
 
 if (campaignTags[0] !== '') {
   fetch('/allProjects-minified-v2.json')
