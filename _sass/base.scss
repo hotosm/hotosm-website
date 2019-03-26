@@ -2862,6 +2862,54 @@ border: 2px solid black;
   // height: 100% !important;
 }
 
+div.mapboxgl-popup.mapboxgl-popup-anchor-bottom {
+  background: transparent;
+}
+
+div.mapboxgl-popup-content {
+  z-index: 4;
+  overflow: hidden;
+  padding: 0;
+  border-radius: $default-border-radius;
+  background-color: $white;
+  box-shadow: $default-box-shadow;
+  font-size: 12px; 
+}
+
+div.mapboxgl-popup-content .hover-name {
+  background-color: $blue-dark;
+  color:$white;
+  font-weight: bold;
+}
+
+div.mapboxgl-popup-content .hover-name a {
+  color: $red;
+}
+
+div.mapboxgl-popup-content p {
+  padding: 6px 8px;
+  color: $blue-grey;
+  line-height: 1.35;
+}
+
+div.mapboxgl-popup-content .proj-details {
+  font-weight: bold;
+}
+
+div.mapboxgl-popup.mapboxgl-popup-anchor-bottom {
+  transform: none !important;
+}
+
+.mapboxgl-popup-close-button {
+  display: none !important;
+}
+
+.mapboxgl-popup-anchor-bottom-left .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-bottom-right .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip {
+  border-top-color: transparent !important;
+}
+
 .project-index-header {
   position: absolute;
   bottom: 0;
