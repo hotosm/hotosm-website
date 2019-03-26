@@ -132,9 +132,10 @@ const loadMapLayers = () => {
 
       var feature = features[0];
 
-      updatePopupOnClick(feature)
+      updatePopupOnClick(feature);
     });
   }
+
   var projectExtentJSON
   const downloadUrl = proxyUrl + driveUrl + fileId
   $.get(downloadUrl, function (data) {
@@ -162,14 +163,13 @@ const loadMapLayers = () => {
       }
     }, 'place-city-sm')
     $('#loading-map').detach()
+
+    flyToNextArea();
   })
 }
 
 map.addControl(new mapboxgl.NavigationControl())
-map.on('mouseleave', function (e) {
-  map.getCanvas().style.cursor = ''
-  $('#hover-details').empty()
-})
+
 
 if (campaignTags[0] !== '') {
   fetch('/allProjects-minified-v2.json')
