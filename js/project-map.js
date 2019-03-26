@@ -121,7 +121,19 @@ const loadMapLayers = () => {
       populatePopupOnHover(feature);
     })
 
+    map.on('click', function (e) {
+      var features = map.queryRenderedFeatures(e.point, {
+        layers: ['tm-projects-black-circle', 'tm-projects-symbol']
+      });
 
+      if (!features.length) {
+        return;
+      }
+
+      var feature = features[0];
+
+      updatePopupOnClick(feature)
+    });
   }
   var projectExtentJSON
   const downloadUrl = proxyUrl + driveUrl + fileId
