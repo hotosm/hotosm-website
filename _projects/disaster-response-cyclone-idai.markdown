@@ -20,8 +20,10 @@ Duration:
   Start Date: 2019-03-09 00:00:00 Z
 tm_campaigns:
 - Cyclone Idai
+project_extent: 1vdQAORtvOjvRTkWJp3BngrpSMn_TgJzF
 Tools:
 - title: Tasking Manager
+- link: https://tasks.hotosm.org/
 Working Group: Activation
 ---
 
