@@ -27,6 +27,9 @@ countryList.forEach((country, countryIndex) => {
 })
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA'
+
+var bboxArray = [[106.4784234, -6.3744575, 106.973975, -5.6480984], [112.5915698, -7.3514405, 112.84644, -7.1919398], [110.2672863, -7.1144639, 110.5088836, -6.9319917]];
+
 var map = new mapboxgl.Map({
   container: 'map',
   logoPosition: 'bottom-left',
@@ -90,7 +93,7 @@ const loadMapLayers = () => {
         'text-color': '#FFFFFF'
       }
     }, 'place-city-sm')
-    
+
     document.getElementById('Project-Area').innerHTML = formatedData(Math.round(totalArea))
     document.getElementById('Total-Map-Edits').innerHTML = formatedData(Math.round(totalEdits))
     document.getElementById('Community-Mappers').innerHTML = formatedData(Math.round(totalMappers))
@@ -98,7 +101,7 @@ const loadMapLayers = () => {
     map.on('mousemove', function (e) {
       var features = map.queryRenderedFeatures(
         [e.point.x, e.point.y],
-        {layers: ['tm-projects-black-circle', 'tm-projects-symbol']}
+        { layers: ['tm-projects-black-circle', 'tm-projects-symbol'] }
       )
       if (features.length) {
         map.getCanvas().style.cursor = 'pointer'
@@ -109,9 +112,9 @@ const loadMapLayers = () => {
           '<a target="_blank" href="https://tasks.hotosm.org/project/' +
           features[0].properties.id +
           '">#' + features[0].properties.id + '</a>' +
-            ' - ' +
-            features[0].properties.name + '</p>' +
-            '<p id="proj-details">Click on the project to see more details</p>'
+          ' - ' +
+          features[0].properties.name + '</p>' +
+          '<p id="proj-details">Click on the project to see more details</p>'
 
         )
       } else {
@@ -121,7 +124,7 @@ const loadMapLayers = () => {
     map.on('click', function (e) {
       var features = map.queryRenderedFeatures(
         [e.point.x, e.point.y],
-        {layers: ['tm-projects-black-circle', 'tm-projects-symbol']}
+        { layers: ['tm-projects-black-circle', 'tm-projects-symbol'] }
       )
       if (features.length) {
         $('#proj-details').empty()
