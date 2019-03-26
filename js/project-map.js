@@ -121,19 +121,7 @@ const loadMapLayers = () => {
       populatePopupOnHover(feature);
     })
 
-    map.on('click', function (e) {
-      var features = map.queryRenderedFeatures(
-        [e.point.x, e.point.y],
-        { layers: ['tm-projects-black-circle', 'tm-projects-symbol'] }
-      )
-      if (features.length) {
-        $('#proj-details').empty()
-        $('#proj-details').append(
-          '<p style="font-weight:bold" id = "details-mappers">Mappers: ' + formatedData(features[0].properties.mappers) + '</p>' +
-          '<p style="font-weight:bold" id= "details-edits">Edits: ' + formatedData(features[0].properties.edits) + '</p>'
-        )
-      }
-    })
+
   }
   var projectExtentJSON
   const downloadUrl = proxyUrl + driveUrl + fileId
