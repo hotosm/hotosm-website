@@ -157,13 +157,6 @@ em {
   }
 }
 
-.anchor{
-  display: block;
-  height: 96px;
-  margin-top: -96px;
-  visibility: hidden;
-}
-
 .article {
   h1, h2 {
     font-family: $font-default;
@@ -4868,6 +4861,15 @@ sup {
         color: $blue-dark;
       }
     }
+  }
+}
+
+.volunteers{
+  .anchor{
+    display: block;
+    height: 96px;
+    margin-top: -96px;
+    visibility: hidden;
   }
 }
 
