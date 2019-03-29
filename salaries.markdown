@@ -25,8 +25,8 @@ Next, a "Nonprofit Multiplier" of 90% is applied. We are driven by mission - not
 
 ## Location Factor
 HOT work locations are grouped into several bands according to two inputs:
-1. Cost of living (compared to Washington, DC, US) Source: Numbeo.com
-2: Average salary (in your country compared to the US) Sources: ILO, OECD, Gallup
+* Cost of living (compared to Washington, DC, US) Source: Numbeo.com
+* Average salary (in your country compared to the US) Sources: ILO, OECD, Gallup
 
 Bands range from 0.20 to 1.0. HOT's base band is 1.0 for US-based staff based on a Washington, D.C. benchmark.
 
