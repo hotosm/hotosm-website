@@ -562,7 +562,11 @@ em {
       right: 8px;
       width: 22px;
       height: 22px;
-      background-image: url(../images/icon-close.svg);
+      background-image: url(../images/icon-close.svg);////////////////////////////////////////////////
+////////////// Page — Volunteer ////////////////
+////////////////////////////////////////////////
+
+
       background-repeat: no-repeat;
       background-position: center center;
       background-size: contain;
@@ -4864,15 +4868,6 @@ sup {
   }
 }
 
-.volunteers{
-  .anchor{
-    display: block;
-    height: 96px;
-    margin-top: -96px;
-    visibility: hidden;
-  }
-}
-
 .top-image {
   .module {
     padding: 0;
@@ -4892,6 +4887,16 @@ sup {
   }
 }
 
+////////////////////////////////////////////////
+////////////// Page — Volunteer ////////////////
+////////////////////////////////////////////////
+
+.anchor{
+    display: block;
+    height: 96px;
+    margin-top: -96px;
+    visibility: hidden;
+}
 
 ////////////////////////////////////////////////
 ///////////////// Page — Donate ////////////////
