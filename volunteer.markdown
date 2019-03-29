@@ -13,9 +13,7 @@ layout: page
 ## Get in touch and talk to us
 Join the conversation on [Slack](http://slack.hotosm.org/)! A large number of volunteers and staff discuss mapping, emergencies, Working Groups and other matters on our Slack channel.
 
-<div class="volunteers">
-    <div class="anchor" id="mapping-volunteers"></div>
-</div>
+<div class="anchor" id="mapping-volunteers"></div>
 <h2>Mapping Volunteers</h2>
 
 As a mapping volunteer, you can get involved with projects around the world, and contribute to humanitarian mapping through OpenStreetMap. Even if you are a new mapper, anyone can use a computer to create basemaps by drawing over buildings and roads, or use a phone to swipe and tap population hotspots in the MapSwipe app. If you have never mapped before and would like to help, visit the Tasking Manager's [Learn page](https://tasks.hotosm.org/learn) to get started mapping in less than 30 minutes.
@@ -24,18 +22,14 @@ As a mapping volunteer, you can get involved with projects around the world, and
 
 Please also join the discussion on Slack (see above).
 
-<div class="volunteers">
-    <div class="anchor" id="humanitarian-and-gis-professionals"></div>
-</div>
+<div class="anchor" id="humanitarian-and-gis-professionals"></div>
 <h2>Humanitarian and GIS Professionals</h2>
 
 Are you a humanitarian or GIS professional? In addition to remote mapping, you can volunteer with HOT in other mapping related tasks. We could use help on data processing, validating remote mapping, or creating maps and other visualizations. 
 
 We also have opportunities to support field projects, both volunteer (remote) support and in the field. Job and volunteering opportunities will also be posted on the [Jobs page](http://www-dev.hotosm.org/jobs/).
 
-<div class="volunteers">
-    <div class="anchor" id="software-engineers"></div>
-</div>
+<div class="anchor" id="software-engineers"></div>
 <h2>Software Engineers</h2>
 
 HOT builds and maintains over ten open source mapping tools. If you are a new or experienced software engineer, you can get involved in these open source projects. A good place to start is our [Tech repo](https://github.com/hotosm/tech) which serves as the coordinating place for technical activity across our tools. 
