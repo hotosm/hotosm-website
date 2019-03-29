@@ -33,6 +33,7 @@ Bands range from 0.20 to 1.0. HOT's base band is 1.0 for US-based staff based on
 ### Staff deployed on mission with HOT outside of their home country for long periods of time (over one month)
 Staff deployed from lower cost of living locations receive a "bump up" to the 0.50 band to recognize hardship in being away from home. Staff deployed from higher cost of living locations continue to be paid based on their home band in recognition of costs that they continue to bear in their home country such as housing, retirement savings, student loan or housing debt, etc.)
 
-The HOT Framework also accounts for "Global Nomads": Those staff with a permanent address in 1.00 or 0.90 bands but who choose to live/work in a lower cost of living country. HOT's "Global Nomad" rate is 0.80, which gives staff on the global team the flexibility to live and work where they choose while sharing cost savings between the staff member and HOT.
+Digital Nomads
+The HOT Framework also accounts for "Digital Nomads": Those staff with a permanent address in 1.00 or 0.90 bands but who choose to live/work in a lower cost of living country. HOT's "Digital Nomad" rate is 0.80, which gives staff on the global team the flexibility to live and work where they choose while sharing cost savings between the staff member and HOT.
 
 <iframe  width="100%" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdXjAIerpHVv-O-7VrNpDy4HAZBH-KCgkl0990ZqhzdqW9mDlPU9PCvfcFbKfS1G2JyyBkRd-YOVfA/pubhtml?gid=2146878660&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
