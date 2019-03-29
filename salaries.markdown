@@ -37,16 +37,17 @@ Bands range from 0.20 to 1.0. HOT's base band is 1.0 for US-based staff based on
 Staff deployed from lower cost of living locations receive a "bump up" to the 0.50 band to recognize hardship in being away from home. Staff deployed from higher cost of living locations continue to be paid based on their home band in recognition of costs that they continue to bear in their home country such as housing, retirement savings, student loan or housing debt, etc.)
 
 ### Digital Nomads
-The HOT Framework also accounts for "Digital Nomads": Those staff with a permanent address in 1.00 or 0.90 bands but who choose to live/work in a lower cost of living country. HOT's "Digital Nomad" rate is 0.80, which gives staff on the global team the flexibility to live and work where they choose while sharing cost savings between the staff member and HOT.
+The HOT Framework also accounts for "Digital Nomads": Those staff with a permanent address in 1.00 or 0.90 bands but who choose to live/work in a lower cost of living country. HOT's "Digital Nomad" rate is 0.80, which gives staff on the global team the flexibility to live and work where they choose while sharing cost savings between the staff member and HOT. HOT also has a Nomad rate for remote staff hired from lower cost of living countries. A higher than normal multiplier of 0.50 is used in recognition of the fact that HOT is recruiting their talent from a global hiring pool.
 
-<iframe  width="100%" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdXjAIerpHVv-O-7VrNpDy4HAZBH-KCgkl0990ZqhzdqW9mDlPU9PCvfcFbKfS1G2JyyBkRd-YOVfA/pubhtml?gid=2146878660&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdXjAIerpHVv-O-7VrNpDy4HAZBH-KCgkl0990ZqhzdqW9mDlPU9PCvfcFbKfS1G2JyyBkRd-YOVfA/pubhtml?gid=2146878660&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ## Personal Capital Factor
 
-Each staff member is assigned a “Personal Capital Factor” at time of hire. This determines a staff member's level within a given role. This factor ranges from 1.0 to 1.3, allowing for a range within each role. Personal Capital Factor is set by hiring Director at time of hire and approved by HOT's Finance Director to ensure consistency. The default level is 1.0, which may increase based on:
+Each staff member is assigned a “Personal Capital Factor” at time of hire. This determines a staff member's level within a given role. This factor ranges from 1.0 to 1.25, allowing for a range within each role. Personal Capital Factor is set by hiring Director at time of hire and approved by HOT's Finance Director to ensure consistency. The default level is 1.0, which may increase based on:
 
 * Skills (gained from prior experience and education - may include language, technical skills/programming languages)
 * Scope of responsibility
 * Results/achievements (within HOT or previous)
 
+<iframe width="100%" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdXjAIerpHVv-O-7VrNpDy4HAZBH-KCgkl0990ZqhzdqW9mDlPU9PCvfcFbKfS1G2JyyBkRd-YOVfA/pubhtml?gid=130468659&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
