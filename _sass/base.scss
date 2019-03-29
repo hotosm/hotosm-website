@@ -433,6 +433,7 @@ em {
     color: $white;
     background-color: $red;
     &:hover {
+      color:$white;
       background-color: shade($red, 15%)
     }
     &.btn-outline {
@@ -620,11 +621,6 @@ em {
   &.btn-block {
     display: block;
     margin-right: 0;
-  }
-  &.btn-hover{
-    &:hover{
-      color:$white;
-    }
   }
 }
 
