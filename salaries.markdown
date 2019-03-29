@@ -16,7 +16,7 @@ layout: page
 ![HOT salary formula.png](/uploads/HOT%20salary%20formula.png)
 
 ## Role Base
-Each staff member is assigned a standard role based on duties, level of responsibility, and years of experience. All roles are benchmarked against US average pay for that position using Glassdoor.com with an organization size of 0-50 employees (no location specified). This is the organization size that best aligns with HOT's annual revenue. A similar or "best fit" title is used if there is insufficient data for HOT’s exact title.
+Each staff member is assigned a standard role based on duties, level of responsibility, and years of experience. All roles are benchmarked against US average pay for that position using Glassdoor.com with an organization size of 0-50 employees (no location specified). This is the organization size that best aligns with HOT's annual revenue. A similar or "best fit" title is used if there is not enough data points on Glassdoor.com for HOT’s exact title.
 
 Next, a "Nonprofit Multiplier" of 90% is applied. We are driven by mission - not profit - but still want to compensate staff well, within our means. For us, this means paying 90% of market average salary for organizations of our size.
 
