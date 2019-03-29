@@ -21,4 +21,4 @@ Each staff member is assigned a standard role based on duties, level of responsi
 
 Next, a "Nonprofit Multiplier" of 90% is applied. We are driven by mission - not profit - but still want to compensate staff well, within our means. For us, this means paying 90% of market average salary for organizations of our size.
 
-<iframe width=100% height=800px src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdXjAIerpHVv-O-7VrNpDy4HAZBH-KCgkl0990ZqhzdqW9mDlPU9PCvfcFbKfS1G2JyyBkRd-YOVfA/pubhtml?gid=0&single=true&widget=true&headers=false"></iframe>
+<iframe width="100%" height="800px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdXjAIerpHVv-O-7VrNpDy4HAZBH-KCgkl0990ZqhzdqW9mDlPU9PCvfcFbKfS1G2JyyBkRd-YOVfA/pubhtml?gid=0&single=true&widget=true&headers=false"></iframe>
