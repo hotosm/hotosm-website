@@ -145,6 +145,10 @@ const loadMapLayers = () => {
 
     var numOfPolygons = projectExtentJSON.features.length;
 
+    if (numOfPolygons.length === 1) {
+      setMapView();
+    }
+
     map.fitBounds(bbox, {
       padding: 50,
       maxZoom: 14.15,
