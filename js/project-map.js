@@ -32,8 +32,6 @@ countryList.forEach((country, countryIndex) => {
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA'
 
-var bboxArray = [[106.4784234, -6.3744575, 106.973975, -5.6480984], [112.5915698, -7.3514405, 112.84644, -7.1919398], [110.2672863, -7.1144639, 110.5088836, -6.9319917]];
-
 var map = new mapboxgl.Map({
   container: 'map',
   logoPosition: 'bottom-left',
