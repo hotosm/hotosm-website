@@ -186,7 +186,15 @@ const loadMapLayers = () => {
   })
 }
 
-map.addControl(new mapboxgl.NavigationControl())
+map.addControl(new mapboxgl.NavigationControl());
+
+function addFlyBtn() {
+  var flyButton = document.createElement('button');
+  flyButton.id = 'flybtn';
+  flyButton.classList.add('btn', 'btn-primary', 'btn-block');
+  flyButton.textContent = "Zoom to next area";
+  document.querySelector('.flybtn-holder').appendChild(flyButton);
+};
 
 function setMapView() {
   map.fitBounds(bboxCoordinatesArray[currentPolygonIndex], {
@@ -194,7 +202,7 @@ function setMapView() {
     maxZoom: 14.15,
     duration: 2000
   })
-}
+};
 
 function updatePopupOnClick(currentFeature) {
   var popup = new mapboxgl.Popup()
