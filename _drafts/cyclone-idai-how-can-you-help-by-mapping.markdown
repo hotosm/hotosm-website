@@ -8,6 +8,7 @@ Summary Text: 'Volunteers, we need your help! Over the past few weeks, Cyclone I
   to update maps of the areas affected by the Cyclone. This is a critical time in
   the lives of millions of people and you can help humanitarian responders provide
   lifesaving aid.  '
+Feature Image: "/uploads/Idai.jpg"
 ---
 
 # What do we need?
@@ -33,4 +34,5 @@ Find out more
 * [Learn more about the IFRC response](https://media.ifrc.org/ifrc/2019/04/01/mapping-cyclone-idai/)
 * [Find out more about HOT’s work](https://www.hotosm.org/)
 
+`Photo credit: Luke Caley, IFRC IM Lead detailing the Assessment`
 
