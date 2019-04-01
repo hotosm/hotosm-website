@@ -25,16 +25,16 @@ To assist in outreach and communications, HOT seeks to hire a Communication Spec
 
 The Communications Specialist will be responsible for coordinating outreach for InAWARE and other relevant HOT projects in Indonesia. This entails:
 * Creating and coordinating content on OpenStreetMap.id with the community and HOT team.
-* Administering both conventional and new media presence through writing press releases and social media activities, including on Twitter, Facebook, Instagram, Youtube and other platforms.
+* Supporting HOT to raise our press and digital media presence by writing press releases and social media activities, including on Twitter, Facebook, Instagram, Youtube and other platforms.
 * Organizing conference outreach through booths and presentations from InAWARE team.
-* Leading the development of use cases and white papers regarding OSM in Indonesia.
+* Leading the development of case studies and white papers regarding OSM in Indonesia.
 * Creating print and marketing materials
 * Coordinating HOT related communications and outreach outside of Indonesia.
 * Working with HOT team to create marketing and How-to videos. 
 
 **Practicalities**
 
-This position is based in Jakarta, Indonesia, with the primary place of work being at HOT Indonesia’s workspace. Depending on the grant requirements, there might be some travel within and outside Indonesia. The position is currently funded until the end of September 2019, with possible extension.
+This position is based in Jakarta, Indonesia, with the primary place of work being at HOT Indonesia’s workspace. Depending on the grant requirements, there might be some travel within and outside Indonesia. The position is currently funded until the end of December 2019, with possible extension.
 
 **Eligibility Criteria**
 
@@ -42,8 +42,8 @@ This position is based in Jakarta, Indonesia, with the primary place of work bei
 * Skilled in technical writing and able to assist monthly project reporting. 
 * Ability to manage and execute communications strategy, including through social media outreach.
 * Previous experience in mass media outreach, such as writing press releases.
-* Experience in video blog shooting and editing.
-* Ability to create graphic design, such as flyers and infographics (preferably with open source tools).
-* Able to manage community meetup and other form of engagement.
+* Experience in video shooting and editing.
+* Experience in graphic design, such as publications layout and infographics (preferably with open source tools).
+* Able to manage community meetup and other forms of engagement.
 * Experience / substantive knowledge in disaster response, open data or open source is strongly desired.
 * Able to speak and write professionally in Bahasa Indonesia and in English.
