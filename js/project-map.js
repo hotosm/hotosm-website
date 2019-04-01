@@ -5,6 +5,9 @@ const driveUrl = "https://drive.google.com/uc?export=download&id="
 var totalArea = 0, totalEdits = 0, totalMappers = 0
 var totalRoads = 0, totalBuildings = 0, totalChangesets = 0
 var bboxCoordinatesArray = [];
+var currentPolygonIndex;
+var numOfPolygons;
+
 var options = {
   headers: {
     'Accept': 'application/json',
