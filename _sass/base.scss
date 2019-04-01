@@ -2859,8 +2859,6 @@ div.mapboxgl-popup.mapboxgl-popup-anchor-bottom {
 }
 
 div.mapboxgl-popup-content {
-  z-index: 4;
-  overflow: hidden;
   padding: 0;
   border-radius: $default-border-radius;
   background-color: $white;
@@ -2888,18 +2886,8 @@ div.mapboxgl-popup-content .proj-details {
   font-weight: bold;
 }
 
-div.mapboxgl-popup.mapboxgl-popup-anchor-bottom {
-  transform: none !important;
-}
-
 .mapboxgl-popup-close-button {
   display: none !important;
-}
-
-.mapboxgl-popup-anchor-bottom-left .mapboxgl-popup-tip,
-.mapboxgl-popup-anchor-bottom-right .mapboxgl-popup-tip,
-.mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip {
-  border-top-color: transparent !important;
 }
 
 .project-index-header {
