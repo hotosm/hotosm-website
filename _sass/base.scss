@@ -2865,6 +2865,10 @@ div.mapboxgl-popup.mapboxgl-popup-anchor-bottom {
   transform:none !important;
 }
 
+.mapboxgl-map .mapboxgl-popup-tip {
+  display:none;
+}
+
 div.mapboxgl-popup-content {
   padding: 0;
   border-radius: $default-border-radius;
