@@ -138,8 +138,9 @@ const loadMapLayers = () => {
   const downloadUrl = proxyUrl + driveUrl + fileId
   $.get(downloadUrl, function (data) {
     projectExtentJSON = JSON.parse(data)
-    var bbox = turf.bbox(projectExtentJSON.features[0])
-    // set bounds according to features
+
+
+
     map.fitBounds(bbox, {
       padding: 50,
       maxZoom: 14.15,
