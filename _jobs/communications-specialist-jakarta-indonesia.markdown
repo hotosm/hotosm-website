@@ -1,6 +1,7 @@
 ---
 title: Communications Specialist - Indonesia
 date: 2019-04-01 04:33:00 Z
+position: 0
 Deadline Date: 2019-04-16 00:00:00 Z
 Place of Work: Jakarta, Indonesia
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf7J12yRFNXmuvxkdxXdrCd2cJGwhrpCj9NeX5-P03ZldaX9g/viewform

@@ -2,6 +2,7 @@
 title: Job Associate Project Manager — Botswana
 date: 2018-03-13 08:44:00 Z
 published: false
+position: 4
 Deadline Date: 2018-03-30 00:00:00 Z
 Place of Work: Chobe, North-West, and Central Districts, Botswana
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfRwVIte1bZZmPuPAT4_yo_4zqHPqPTOBBBhzZYtWFhBoXvjA/viewform

@@ -1,6 +1,7 @@
 ---
 title: Director of Finance & Administration (Part-Time)
 date: 2018-06-13 22:56:00 Z
+position: 8
 Deadline Date: 2018-06-29 00:00:00 Z
 Place of Work: Flexible – any HOT office (Washington, D.C., New York, Kampala, Dar
   es Salaam) or Remote

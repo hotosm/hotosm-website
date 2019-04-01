@@ -2,6 +2,7 @@
 title: Finance Officer/Accountant
 date: 2018-06-11 18:50:00 Z
 published: false
+position: 1
 Deadline Date: 2018-06-29 00:00:00 Z
 Place of Work: Dar es Salaam, Tanzania
 Apply Form Link: " nuru.kalulunga@hotosm.org"

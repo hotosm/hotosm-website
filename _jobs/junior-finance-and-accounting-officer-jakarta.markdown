@@ -11,6 +11,7 @@ tags:
 - accounting
 - indonesia
 - vacancy
+position: 2
 Deadline Date: 2018-08-24 23:59:00 Z
 Place of Work: Jakarta, Indonesia
 ---
