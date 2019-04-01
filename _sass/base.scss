@@ -2877,13 +2877,13 @@ div.mapboxgl-popup-content {
   font-size: 12px; 
 }
 
-div.mapboxgl-popup-content .hover-name {
+div.mapboxgl-popup-content .project__title {
   background-color: $blue-dark;
   color:$white;
   font-weight: bold;
 }
 
-div.mapboxgl-popup-content .hover-name a {
+div.mapboxgl-popup-content .project__title .project__title__link {
   color: $red;
 }
 
@@ -2893,7 +2893,7 @@ div.mapboxgl-popup-content p {
   line-height: 1.35;
 }
 
-div.mapboxgl-popup-content .proj-details {
+div.mapboxgl-popup-content .project__details {
   font-weight: bold;
 }
 
