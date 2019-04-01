@@ -174,14 +174,14 @@ map.addControl(new mapboxgl.NavigationControl())
 function updatePopupOnClick(currentFeature) {
   var popup = new mapboxgl.Popup()
     .setLngLat(currentFeature.geometry.coordinates)
-    .setHTML('<p class="hover-name">' +
-      '<a target="_blank" href="https://tasks.hotosm.org/project/' +
+    .setHTML('<p class="project__title">' +
+      '<a class="project__title__link" target="_blank" href="https://tasks.hotosm.org/project/' +
       currentFeature.properties.id +
       '">#' + currentFeature.properties.id + '</a>' +
       ' - ' +
       currentFeature.properties.name + '</p>' +
-      '<p class="proj-details">Mappers: ' + formatedData(currentFeature.properties.mappers) + '</p>'
-      + '<p class="proj-details">Edits: ' + formatedData(currentFeature.properties.edits) + '</p>')
+      '<p class="project__details">Mappers: ' + formatedData(currentFeature.properties.mappers) + '</p>'
+      + '<p class="project__details">Edits: ' + formatedData(currentFeature.properties.edits) + '</p>')
     .addTo(map);
 }
 
