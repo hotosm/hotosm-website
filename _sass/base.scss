@@ -2858,6 +2858,13 @@ div.mapboxgl-popup.mapboxgl-popup-anchor-bottom {
   background: transparent;
 }
 
+.mapboxgl-map .mapboxgl-popup {
+  position:absolute;
+  top:10px;
+  left:10px;
+  transform:none !important;
+}
+
 div.mapboxgl-popup-content {
   padding: 0;
   border-radius: $default-border-radius;
