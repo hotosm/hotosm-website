@@ -117,9 +117,6 @@ const loadMapLayers = () => {
         popup.remove();
         return;
       }
-
-      var feature = features[0];
-
     })
 
     map.on('click', function (e) {
