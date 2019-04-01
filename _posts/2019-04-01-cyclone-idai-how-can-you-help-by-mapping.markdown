@@ -29,6 +29,7 @@ HOT is working with the IFRC and MSF to map the critical areas. Humanitarian org
 
 ### A big thank you to the mapping community! From everyone at HOT, we wish the best possible outcome for anyone affected by these disasters.
 
+
 Find out more
 * [Learn more about the MSF response](https://www.msf.org/crisis-update-cyclone-idai)
 * [Learn more about the IFRC response](https://media.ifrc.org/ifrc/2019/04/01/mapping-cyclone-idai/)
