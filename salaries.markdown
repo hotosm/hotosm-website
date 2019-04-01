@@ -21,7 +21,7 @@ For part-time employees and contractors, divide the annual salary by 2080 to det
 
 ## Role Base
 
-Each staff member is assigned a standard role based on duties, level of responsibility, and years of experience. All roles are benchmarked against US average pay for that position using Glassdoor.com with an organization size of 0-50 employees (no location specified). This is the organization size that best aligns with HOT's annual revenue. A similar or "best fit" title is used if there is not enough data points on Glassdoor.com for HOT’s exact title.
+Each staff member is assigned a standard role based on duties, level of responsibility, and years of experience. All roles are benchmarked against US average pay for that position using [Glassdoor.com](https://www.glassdoor.com/Salaries/index.htm) with an organization size of 0-50 employees (no location specified). This is the organization size that best aligns with HOT's annual revenue. A similar or "best fit" title is used if there is not enough data points on Glassdoor.com for HOT’s exact title.
 
 Next, a "Nonprofit Multiplier" of 90% is applied. We are driven by mission - not profit - but still want to compensate staff well, within our means. For us, this means paying 90% of market average salary for organizations of our size.
 
@@ -31,8 +31,8 @@ Next, a "Nonprofit Multiplier" of 90% is applied. We are driven by mission - not
 ## Location Factor
 
 HOT work locations are grouped into several bands according to two inputs:
-* Cost of living (compared to Washington, DC, US) Source: Numbeo.com
-* Average salary (in your country compared to the US) Sources: ILO, OECD, Gallup
+* Cost of living (compared to Washington, DC, US) Source: [Numbeo.com](https://www.numbeo.com/cost-of-living/comparison.jsp)
+* Average salary (in your country compared to the US) Sources: [ILO](https://www.ilo.org/ilostat), [UNECE](https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__20-ME__3-MELF/60_en_MECCWagesY_r.px/?rxid=0806c85a-23f8-4249-a4d0-10980df459d1), [Gallup](https://news.gallup.com/poll/166211/worldwide-median-household-income-000.aspx)
 
 Bands range from 0.20 to 1.0. HOT's base band is 1.0 for US-based staff based on a Washington, D.C. benchmark.
 
@@ -64,4 +64,4 @@ Because HOT often takes on short term, time-sensitive projects, we rely heavily 
 A 1.08 multiplier is used (**8% additional pay**) when calculating a contractor’s rate in locations where HOT does not incur any tax liability for hiring contractors.
 
 ### Other Additional Earnings
-Deployed staff may receive a housing stipend, per diem (time limited), and home leave travel allowance (for long deployments). More information on these benefits can be found in HOT's Travel Reimbursement Policy.
+Deployed staff may receive a housing stipend, per diem (time limited), and home leave travel allowance (for long deployments). More information on these benefits can be found in HOT's [Expense Reimbursement Policy](https://sites.google.com/a/hotosm.org/hot-intranet/timeexpensestravel/expense-reimbursement) (staff access).
