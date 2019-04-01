@@ -218,31 +218,6 @@ function updatePopupOnClick(currentFeature) {
     .addTo(map);
 }
 
-function flyToNextArea() {
-  var flyButton = document.createElement('button');
-  flyButton.id = 'flybtn';
-  flyButton.classList.add('btn', 'btn-primary', 'btn-block');
-  flyButton.textContent = "Zoom to next area";
-  document.querySelector('.flybtn-holder').appendChild(flyButton);
-
-  var index = 0;
-  document.getElementById('flybtn').addEventListener('click', function () {
-    if (index >= bboxArray.length) {
-      index = 0;
-    }
-
-    var popUps = document.getElementsByClassName('mapboxgl-popup');
-    if (popUps[0]) popUps[0].remove();
-
-    map.fitBounds(bboxArray[index], {
-      padding: 50,
-      maxZoom: 14.15,
-      duration: 2000
-    })
-    index++;
-  });
-}
-
 if (campaignTags[0] !== '') {
   fetch('/allProjects-minified-v2.json')
     .then(function (response) {
