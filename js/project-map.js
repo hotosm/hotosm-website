@@ -149,6 +149,8 @@ const loadMapLayers = () => {
       setMapView();
     }
 
+    currentPolygonIndex = 0;
+
     map.fitBounds(bbox, {
       padding: 50,
       maxZoom: 14.15,
