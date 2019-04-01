@@ -189,7 +189,7 @@ const loadMapLayers = () => {
 map.addControl(new mapboxgl.NavigationControl())
 
 function setMapView() {
-  map.fitBounds(bbox, {
+  map.fitBounds(bboxCoordinatesArray[currentPolygonIndex], {
     padding: 50,
     maxZoom: 14.15,
     duration: 2000
