@@ -1,8 +1,9 @@
 ---
-title: Communications Specialist - Jakarta, Indonesia
-date: 2018-12-03 04:33:00 Z
-Deadline Date: 2018-12-31 00:00:00 Z
+title: Communications Specialist - Indonesia
+date: 2019-04-01 04:33:00 Z
+Deadline Date: 2019-04-16 00:00:00 Z
 Place of Work: Jakarta, Indonesia
+Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf7J12yRFNXmuvxkdxXdrCd2cJGwhrpCj9NeX5-P03ZldaX9g/viewform
 ---
 
 **Location:** Jakarta, Indonesia
@@ -22,7 +23,7 @@ To assist in outreach and communications, HOT seeks to hire a Communication Spec
 **Profile**
 
 The Communications Specialist will be responsible for coordinating outreach for InAWARE and other relevant HOT projects in Indonesia. This entails:
-* Creating and coordinating content on OpenStreetMap.or.id with the community and HOT team.
+* Creating and coordinating content on OpenStreetMap.id with the community and HOT team.
 * Administering both conventional and new media presence through writing press releases and social media activities, including on Twitter, Facebook, Instagram, Youtube and other platforms.
 * Organizing conference outreach through booths and presentations from InAWARE team.
 * Leading the development of use cases and white papers regarding OSM in Indonesia.
@@ -45,7 +46,3 @@ This position is based in Jakarta, Indonesia, with the primary place of work bei
 * Able to manage community meetup and other form of engagement.
 * Experience / substantive knowledge in disaster response, open data or open source is strongly desired.
 * Able to speak and write professionally in Bahasa Indonesia and in English.
-
-**To Apply**
-
-Send cover letter, CV, portfolio and expected salary to recruitment.id@hotosm.org before December 31st, 2018 23:59PM WIB. Portfolio should contain examples of blog posts, flyers, press releases and other materials from outreach campaigns.
