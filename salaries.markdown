@@ -8,7 +8,7 @@ Intro Text: HOT began to roll out our new salary framework in January 2019. The 
   HOT aims to provide more transparency into the salary decision making process and
   ensure equitable outcomes for all staff, regardless of position, location, gender,
   or any other distinguishing characteristic.
-layout: page
+layout: default
 ---
 
 # The HOT Salary Framework
