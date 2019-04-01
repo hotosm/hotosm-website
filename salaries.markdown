@@ -13,6 +13,9 @@ layout: page
 
 # The HOT Salary Framework
 
+The HOT Salary Framework is based upon a formula made up of four factors that, when multiplied together, determine a HOT employee's annual salary or, for contractors, hourly rate. To calculate a salary, first determine the Role Base, then multiply it by the Location Factor, Personal Capital Factor, and Additional Earnings Factor (if any). 
+
+For part-time employees and contractors, divide the annual salary by 2080 to determine hourly rate.
 ![HOT salary formula.png](/uploads/HOT%20salary%20formula.png)
 
 
@@ -51,3 +54,14 @@ Each staff member is assigned a “Personal Capital Factor” at time of hire. T
 * Results/achievements (within HOT or previous)
 
 <iframe width="100%" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdXjAIerpHVv-O-7VrNpDy4HAZBH-KCgkl0990ZqhzdqW9mDlPU9PCvfcFbKfS1G2JyyBkRd-YOVfA/pubhtml?gid=130468659&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+
+## Additional Earnings
+
+### Individual Contractors
+Because HOT often takes on short term, time-sensitive projects, we rely heavily on contracting individual specialists for time-limited projects. Working as an independent contractor offers great flexibility in terms of where, when, and how work is performed. However, we recognize that contractors need to cover more of their own costs (tax, health, equipment, workspace, cost of taking time off).
+
+A 1.08 multiplier is used (**8% additional pay**) when calculating a contractor’s rate in locations where HOT does not incur any tax liability for hiring contractors.
+
+### Other Additional Earnings
+Deployed staff may receive a housing stipend, per diem (time limited), and home leave travel allowance (for long deployments). More information on these benefits can be found in HOT's Travel Reimbursement Policy.
