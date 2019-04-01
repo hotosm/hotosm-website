@@ -151,6 +151,9 @@ const loadMapLayers = () => {
 
     currentPolygonIndex = 0;
 
+    addFlyBtn();
+    setMapView();
+
     map.fitBounds(bbox, {
       padding: 50,
       maxZoom: 14.15,
