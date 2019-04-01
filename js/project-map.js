@@ -167,11 +167,6 @@ const loadMapLayers = () => {
       if (popUps[0]) popUps[0].remove();
     });
 
-    map.fitBounds(bbox, {
-      padding: 50,
-      maxZoom: 14.15,
-      duration: 2000
-    })
     map.addSource('projectExtent', {
       'type': 'geojson',
       'data': projectExtentJSON
@@ -188,12 +183,18 @@ const loadMapLayers = () => {
       }
     }, 'place-city-sm')
     $('#loading-map').detach()
-
-    flyToNextArea();
   })
 }
 
 map.addControl(new mapboxgl.NavigationControl())
+
+function setMapView() {
+  map.fitBounds(bbox, {
+    padding: 50,
+    maxZoom: 14.15,
+    duration: 2000
+  })
+}
 
 function updatePopupOnClick(currentFeature) {
   var popup = new mapboxgl.Popup()
