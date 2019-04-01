@@ -2755,15 +2755,7 @@ border: 2px solid black;
   display: flex;
   overflow: hidden;
   box-shadow: $default-box-shadow;
-  p {
-    color: $blue-grey;
-    padding: 6px 8px;
-  }
-  .hover-name {
-    background-color: $blue-dark;
-    color: $white;
-    font-weight: bold;
-  }
+ 
   .hover-edits {
     background-color: #FFC151;
     color: $white;
