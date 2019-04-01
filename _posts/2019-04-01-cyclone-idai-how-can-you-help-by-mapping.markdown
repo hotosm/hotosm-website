@@ -34,5 +34,6 @@ Find out more
 * [Learn more about the IFRC response](https://media.ifrc.org/ifrc/2019/04/01/mapping-cyclone-idai/)
 * [Find out more about HOT’s work](https://www.hotosm.org/)
 
+
 `Photo credit: Luke Caley, IFRC IM Lead detailing the Assessment`
 
