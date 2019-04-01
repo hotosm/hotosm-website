@@ -12,10 +12,12 @@ layout: page
 ---
 
 # The HOT Salary Framework
+<br />
 
 The HOT Salary Framework is based upon a formula made up of four factors that, when multiplied together, determine a HOT employee's annual salary or, for contractors, hourly rate. To calculate a salary, first determine the Role Base, then multiply it by the Location Factor, Personal Capital Factor, and Additional Earnings Factor (if any). 
 
 For part-time employees and contractors, divide the annual salary by 2080 to determine hourly rate.
+
 ![HOT salary formula.png](/uploads/HOT%20salary%20formula.png)
 
 
