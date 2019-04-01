@@ -139,7 +139,9 @@ const loadMapLayers = () => {
   $.get(downloadUrl, function (data) {
     projectExtentJSON = JSON.parse(data)
 
-
+    projectExtentJSON.features.forEach(function (feature) {
+      bboxCoordinatesArray.push(turf.bbox(feature));
+    });
 
     map.fitBounds(bbox, {
       padding: 50,
