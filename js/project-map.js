@@ -143,6 +143,8 @@ const loadMapLayers = () => {
       bboxCoordinatesArray.push(turf.bbox(feature));
     });
 
+    var numOfPolygons = projectExtentJSON.features.length;
+
     map.fitBounds(bbox, {
       padding: 50,
       maxZoom: 14.15,
