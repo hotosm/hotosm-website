@@ -154,6 +154,19 @@ const loadMapLayers = () => {
     addFlyBtn();
     setMapView();
 
+    document.getElementById('flybtn').addEventListener('click', function () {
+      if (currentPolygonIndex >= (numOfPolygons - 1)) {
+        currentPolygonIndex = 0;
+      } else {
+        currentPolygonIndex++;
+      }
+
+      setMapView();
+
+      var popUps = document.getElementsByClassName('mapboxgl-popup');
+      if (popUps[0]) popUps[0].remove();
+    });
+
     map.fitBounds(bbox, {
       padding: 50,
       maxZoom: 14.15,
