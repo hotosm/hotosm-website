@@ -39,7 +39,7 @@ Next, a "Nonprofit Multiplier" of 90% is applied. We are driven by mission - not
 **Roles in HOT**
 <iframe width="100%" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdXjAIerpHVv-O-7VrNpDy4HAZBH-KCgkl0990ZqhzdqW9mDlPU9PCvfcFbKfS1G2JyyBkRd-YOVfA/pubhtml?gid=0&range=A1:E59&single=true&widget=true&headers=false"></iframe>
 
-
+<br />
 **Guidelines for roles**
 <iframe width="100%" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdXjAIerpHVv-O-7VrNpDy4HAZBH-KCgkl0990ZqhzdqW9mDlPU9PCvfcFbKfS1G2JyyBkRd-YOVfA/pubhtml?gid=0&range=A65:B80&single=true&widget=true&headers=false"></iframe>
 
