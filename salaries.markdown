@@ -25,7 +25,7 @@ The HOT Salary Framework is based upon a formula made up of four factors that, w
 
 * The "Role Base Salary" is a number in USD that serves as the base benchmark salary for each position in our organization.
 * The "Location Factor" (between 0.2 and 1.0) adjusts the base salary to local cost of living (taking data on salaries, housing, food etc into account).
-* The "Personal Capital Factor" (between 1.0 and 1.25) factors in applicable skills, level of responsibility, and demonstrated achievements.
+* The "Personal Capital Factor" (between 1.0 and 1.25) factors in applicable skills, level of responsibility, and demonstrated achievements unique to each individual.
 * Lastly, the "Additional Earnings" provides an additional 8% for contractors for whom HOT does not pay any local taxes.
 
 To calculate a salary, first determine the Role Base, then multiply it by the Location Factor, Personal Capital Factor, and Additional Earnings Factor (if any). The resulting number is an annual salary for full-time employees. For part-time employees and contractors, divide the annual salary by 2080 (based on 40 hours per week x 52 weeks) to determine hourly rate.
