@@ -3,11 +3,10 @@ title: HOT Salary Framework
 date: 2019-03-29 20:14:00 Z
 Intro Text: HOT began to roll out our new salary framework in January 2019. The framework
   is a simple, global standard that we use to determine salaries and wages at HOT,
-  and applies to all HOT employees in all locations. The framework is also used to
-  negotiate rates for individual contractors working with HOT. With this framework,
-  HOT aims to provide more transparency into the salary decision making process and
-  ensure equitable outcomes for all staff, regardless of position, location, gender,
-  or any other distinguishing characteristic.
+  that applies to all HOT employees and individual contractors in all locations. With
+  this framework, HOT aims to provide more transparency into salary decision making
+  and ensure a consistent and equitable process for all staff, regardless of position,
+  location, gender, or any other distinguishing characteristic.
 Page Link:
   Label: Read More
   Text: This is not yet working but will link to a blog post explaining a bit more
