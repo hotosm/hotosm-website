@@ -34,7 +34,7 @@ There were certain steps we had to take before beginning the data collection sur
 Through ImageCat we were given a list of 53,000 randomized points covering all areas of Kathmandu Valley. We clipped these points along development pattern boundaries and got a smaller list of randomized points. To make sure that there is no bias we then sorted each of these lists by their randomly created unique identity (UID) numbers and settled on 40 randomized points per development pattern. Each of these points then acted as a reference around, which 10 households would be surveyed. After all the clipping, sorting and selecting we had a task of surveying approximately 2600 buildings. However, in reality several points fell under military/government complexes where ground survey is prohibited. In these cases, where possible alternative points were chosen and when not possible these points had to be ignored. 
 
 ## Recruitment of surveyors
-For this project we primarily recruited recently graduated civil engineers with a sound understanding of building structures. We brought a local engineering consultancy firm, named Engineering Mantra, on-board to identify and recruit these surveyors. We recruited 12 engineers after a rigorous selection process. 
+For this project we primarily recruited recently graduated civil engineers with a sound understanding of building structures from the Himalaya College of Engineering, Kathmandu Engineering College, Universal Engineering College, Kantipur International College, Aryan School of Engineering and Sagarmatha Engineering College. We brought a local engineering consultancy firm, named Engineering Mantra, on-board to identify and recruit these surveyors. We recruited 12 engineers after a rigorous selection process. 
 
 ![image12.jpg](/uploads/image12.jpg)
 *Image 1: Group interviews of potential surveyors*
@@ -94,15 +94,7 @@ The attributes collected were built upon the GED4ALL taxonomy developed as part 
 
 Finally, after four months of data collection, cleaning and upload 100% of the attribute listed above for 2,705 buildings (calculated by downloading all data containing unique source tag ‘METEOR Kathmandu Field Survey 2019’. Due to various difficulties on the ground and some zones being larger than others the breakdown by zone looked like this:
 
-
-| Zone 1: Residential | 450 |
-| Zone 2: Dense Residential | 860 |
-| Zone 3: Urban | 505 |
-| Zone 4: Industrial | 370 |
-| Zone 5: Informal | 60 |
-| Zone 6: High Urban | 285 |
-| Zone 7: New Industrial | 175 |
-
+![Screen Shot 2019-04-03 at 14.39.09.png](/uploads/Screen%20Shot%202019-04-03%20at%2014.39.09.png)
 
 ## Future
 Kathmandu Living Labs as a local organization plans to monitor and maintain the data uploaded to OSM. We are also hopeful that we will be able to improve the data utilizing tools such as Map Campaigner in the coming months. Each one of the surveyors were also trained on the basics of mapping and in addition at the end of each survey form a ‘fixme=*’ tag was kept. This tag was used to describe any mapping errors discovered by the surveyors on the ground. Some examples could be “north side of the building is attached to a neighbouring wall” or “the building complex is actually 4 separate buildings evenly divided”. This tag has been specifically included to maximize the improvement of OSM. It has also made it easier for the OSM Nepal community to continue improving OSM beyond the project period. 
