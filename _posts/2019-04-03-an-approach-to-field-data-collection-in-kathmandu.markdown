@@ -95,13 +95,13 @@ The attributes collected were built upon the GED4ALL taxonomy developed as part 
 Finally, after four months of data collection, cleaning and upload 100% of the attribute listed above for 2,705 buildings (calculated by downloading all data containing unique source tag ‘METEOR Kathmandu Field Survey 2019’. Due to various difficulties on the ground and some zones being larger than others the breakdown by zone looked like this.
 
 
-| Zone 1: Residential | 450 |
+**| Zone 1: Residential | 450 |
 | Zone 2: Dense Residential | 860 |
 | Zone 3: Urban | 505 |
 | Zone 4: Industrial | 370 |
 | Zone 5: Informal | 60 |
 | Zone 6: High Urban | 285 |
-| Zone 7: New Industrial |175 |
+| Zone 7: New Industrial |175 |**
 
 
 ## Future
