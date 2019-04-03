@@ -3,7 +3,7 @@ title: Blake Girardot
 date: 2015-01-21 19:58:00 Z
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-250-1455894309.jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
   Is Voting Member: true
   Is Board Member: false
 Job Title: Community Support Manager
