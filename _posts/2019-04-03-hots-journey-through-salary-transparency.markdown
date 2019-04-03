@@ -19,7 +19,7 @@ HOT as a global community and staff team have always held the core values of ope
 
 In the fall of 2018 we realized that as HOT grew -- nearing 100 staff when including our local affiliates in Tanzania and Indonesia -- no longer did each person know everybody else on the team. That was a bit of a culture shock for us. At the same time, some team members expressed frustration at the lack of explanation around why a colleague in the same office and similar position could be paid a different rate. No one knew whether there even were disparities in pay. Could a man and a woman in similar roles be paid two completely different amounts, for example?
 
-![tz team.png](/uploads/tz%20team.png) *HOT Tanzania / Open Map Development Tanzania team and pet drone*
+<img src="/uploads/tz%20team.png" style="width: 600px !important" alt="HOT Tanzania team"> *HOT Tanzania / Open Map Development Tanzania team and pet drone*
 
 In short - we were attempting to promote a culture of openness and trust yet not talking about how decisions on salary were being made. While pursuing transparency we were inadvertently promoting -- among some, at least -- feelings of inequity. No one knew whether salaries were fair or unfair, equitable or inequitable - in part because we had never analysed it. An important point for us was that feelings of inequity -- even if not always grounded in reality -- were as equally problematic as real inequalities. After all, who wants to work in an organization that tolerates unfair treatment of staff?
 
