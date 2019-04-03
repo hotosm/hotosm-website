@@ -7,7 +7,7 @@ Summary Text: 'In September 2018, HOT held an in-person meeting of staff alongsi
   we ran a survey. The results: highest priorities for improvement were salary, benefits
   (specifically health care) and learning. This is the first post about what action
   we''re taking based on what we heard, focusing on what we believe is a major leap
-  forward for HOT: Salary Transparency.'
+  forward for HOT: salary transparency.'
 Person: Tyler Radford
 Country:
 - United States
