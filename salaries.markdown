@@ -9,9 +9,9 @@ Intro Text: HOT began to roll out our new salary framework in January 2019. The 
   location, gender, or any other distinguishing characteristic.
 Page Link:
   Label: Read More
-  Text: This is not yet working but will link to a blog post explaining a bit more
-    about the history
-  Link: 
+  Text: Read more from HOT's Executive Director on the impetus behind the framework,
+    what it's meant to achieve, and results so far
+  Link: "/updates/hots-journey-through-salary-transparency/"
 layout: page
 ---
 
