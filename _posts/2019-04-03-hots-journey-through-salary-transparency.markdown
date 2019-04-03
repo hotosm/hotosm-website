@@ -27,7 +27,7 @@ In short - we were attempting to promote a culture of openness and trust yet not
 We knew HOT had to get more transparent about the salary decisions we were making, and we knew it was going to be tricky. Here’s just one example why: It’s always been in our blood that we’re truly a global team. That is -- we do not, and should not, value the contributions of one type of team member more than another (employee vs. contractor or local vs. international). We wanted to avoid the “dual system” of job classification that has plagued the UN system and certain other NGOs, where international staff could be classified - and paid - on completely separate scales and receive vastly different benefit packages than local staff. This, in my view, is even more critical in an international NGO like HOT where we have all types of unique arrangements -- staff hired locally to work locally on a HOT project, staff hired from a global candidate pool to support the global team, and staff hired from a global pool to deploy to a project location outside their home country. We have staff from countries with higher costs of living deploying to and working in lower cost of living countries. And staff from countries with lower cost of living deploying to other low cost of living (or sometimes higher cost of living) countries.
 
 <img src="/uploads/HOT%20ID%20-%20Mhairi%20Harry%20(2).jpg" style="width: 600px !important" alt="HOT ID - Mhairi and Harry">
-*Mhairi and Harry in between mapping at the HOT Indonesia office*
+*Harry and Mhairi in between mapping at the HOT Indonesia office*
 
 # Salary transparency and our goals for HOT
 
