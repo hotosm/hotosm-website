@@ -2,6 +2,12 @@
 title: HOT’s Journey through Salary Transparency
 date: 2019-04-03 20:25:00 Z
 published: false
+Summary Text: 'In September 2018, HOT held an in-person meeting of staff alongside
+  our annual Summit in Dar es Salaam, Tanzania. After gathering ideas from staff,
+  we ran a survey. The results: highest priorities for improvement were salary, benefits
+  (specifically health care) and learning. This is the first post about what action
+  we''re taking based on what we heard, focusing on what we believe is a major leap
+  forward for HOT: Salary Transparency.'
 Person: Tyler Radford
 Country:
 - United States
