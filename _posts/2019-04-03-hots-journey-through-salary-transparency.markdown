@@ -20,6 +20,7 @@ HOT as a global community and staff team have always held the core values of ope
 In the fall of 2018 we realized that as HOT grew -- nearing 100 staff when including our local affiliates in Tanzania and Indonesia -- no longer did each person know everybody else on the team. That was a bit of a culture shock for us. At the same time, some team members expressed frustration at the lack of explanation around why a colleague in the same office and similar position could be paid a different rate. No one knew whether there even were disparities in pay. Could a man and a woman in similar roles be paid two completely different amounts, for example?
 
 <img src="/uploads/tz%20team.png" style="width: 600px !important" alt="HOT Tanzania team">
+
 *HOT Tanzania / Open Map Development Tanzania team and pet drone*
 
 In short - we were attempting to promote a culture of openness and trust yet not talking about how decisions on salary were being made. While pursuing transparency we were inadvertently promoting -- among some, at least -- feelings of inequity. No one knew whether salaries were fair or unfair, equitable or inequitable - in part because we had never analysed it. An important point for us was that feelings of inequity -- even if not always grounded in reality -- were as equally problematic as real inequalities. After all, who wants to work in an organization that tolerates unfair treatment of staff?
@@ -27,6 +28,7 @@ In short - we were attempting to promote a culture of openness and trust yet not
 We knew HOT had to get more transparent about the salary decisions we were making, and we knew it was going to be tricky. Here’s just one example why: It’s always been in our blood that we’re truly a global team. That is -- we do not, and should not, value the contributions of one type of team member more than another (employee vs. contractor or local vs. international). We wanted to avoid the “dual system” of job classification that has plagued the UN system and certain other NGOs, where international staff could be classified - and paid - on completely separate scales and receive vastly different benefit packages than local staff. This, in my view, is even more critical in an international NGO like HOT where we have all types of unique arrangements -- staff hired locally to work locally on a HOT project, staff hired from a global candidate pool to support the global team, and staff hired from a global pool to deploy to a project location outside their home country. We have staff from countries with higher costs of living deploying to and working in lower cost of living countries. And staff from countries with lower cost of living deploying to other low cost of living (or sometimes higher cost of living) countries.
 
 <img src="/uploads/HOT%20ID%20-%20Mhairi%20Harry%20(2).jpg" style="width: 600px !important" alt="HOT ID - Mhairi and Harry">
+
 *Harry and Mhairi in between mapping at the HOT Indonesia office*
 
 # Salary transparency and our goals for HOT
@@ -71,6 +73,7 @@ We’re currently moving forward with rolling out the new framework globally. It
 * In Indonesia and Tanzania, because HOT works through affiliates Perkumpulan OpenStreetMap Indonesia (POI) and Open Map Development Tanzania (OMDTZ) respectively, we are still working with our colleagues to apply the framework within those partner organizations. HOT, POI, and OMDTZ have decided to apply the framework to all staff working exclusively on HOT funded projects and will share back results in the coming months.
 
 <img src="/uploads/hot%20volunteer%20crop.png" style="width: 600px !important" alt="HOT Volunteer">
+
 *Pictured: HOT volunteer*
 
 As we enter the second quarter of 2019, there are a number questions for which we don’t have all the answers yet. I’ll make it a priority to report back on these, including: Has the framework made the hiring/recruitment process more straightforward? Did the new framework reduce the gap between the average woman’s pay in HOT and the average man’s pay? How did rollout in Indonesia and Tanzania affect pay? Are staff generally pleased with the outcome or do we have more work to do?
