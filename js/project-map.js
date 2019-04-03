@@ -191,7 +191,7 @@ map.addControl(new mapboxgl.NavigationControl());
 function addFlyBtn() {
   var flyButton = document.createElement('a');
   flyButton.id = 'flybtn';
-  flyButton.classList.add('btn', 'btn-primary', 'btn-block');
+  flyButton.classList.add('btn', 'btn-primary', 'btn-block', 'btn-chevron');
   flyButton.textContent = "Zoom to next area";
   document.querySelector('.flybtn-holder').appendChild(flyButton);
 };
