@@ -21,7 +21,7 @@ Kathmandu Living Labs (KLL) is working together with the Humanitarian OpenStreet
 The field survey of the project entails building attribute data collection and took place from 1st January 2019 till 1st March 2019. The final phase of the project: field data validation, verification, and upload to OpenStreetMap (OSM) took place from 15th February 2019 till 15th March 2019.
 
 ## Area of Interest
-The project is limited to Kathmandu Valley, with seven homogeneous zones/development patterns  identified by ImageCat. To know exactly where these areas are within the valley, please see: https://tasks.hotosm.org/project/5432 for a rough idea see the maps below.
+The project is limited to Kathmandu Valley, with seven homogeneous zones/development patterns  identified by ImageCat. To know exactly where these areas are within the valley, please see: [https://tasks.hotosm.org/project/5432](https://tasks.hotosm.org/project/5432) for a rough idea see the maps below.
 
 ![1.png](/uploads/1.png)
 ![2-defc59.png](/uploads/2-defc59.png)
