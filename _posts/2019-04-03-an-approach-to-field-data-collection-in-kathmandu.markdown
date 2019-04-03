@@ -94,7 +94,15 @@ The attributes collected were built upon the GED4ALL taxonomy developed as part 
 
 Finally, after four months of data collection, cleaning and upload 100% of the attribute listed above for 2,705 buildings (calculated by downloading all data containing unique source tag ‘METEOR Kathmandu Field Survey 2019’. Due to various difficulties on the ground and some zones being larger than others the breakdown by zone looked like this.
 
-![Screen Shot 2019-04-03 at 12.11.00.png](/uploads/Screen%20Shot%202019-04-03%20at%2012.11.00.png)
+
+| Zone 1: Residential | 450 |
+| Zone 2: Dense Residential | 860 |
+| Zone 3: Urban | 505 |
+| Zone 4: Industrial | 370 |
+| Zone 5: Informal | 60 |
+| Zone 6: High Urban | 285 |
+| Zone 7: New Industrial |175 |
+
 
 ## Future
 Kathmandu Living Labs as a local organization plans to monitor and maintain the data uploaded to OSM. We are also hopeful that we will be able to improve the data utilizing tools such as Map Campaigner in the coming months. Each one of the surveyors were also trained on the basics of mapping and in addition at the end of each survey form a ‘fixme=*’ tag was kept. This tag was used to describe any mapping errors discovered by the surveyors on the ground. Some examples could be “north side of the building is attached to a neighbouring wall” or “the building complex is actually 4 separate buildings evenly divided”. This tag has been specifically included to maximize the improvement of OSM. It has also made it easier for the OSM Nepal community to continue improving OSM beyond the project period. 
