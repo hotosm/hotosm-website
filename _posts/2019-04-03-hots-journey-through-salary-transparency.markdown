@@ -63,8 +63,8 @@ Gender disparities are an issue and we need to figure out what’s causing them.
 # The HOT Salary Framework Formula
 In the end, after consultation with our entire management team and all country offices across HOT, we decided to adapt a variant of the Ushahidi/Buffer model. We ended up with a simple, global standard that will be used to determine salaries and wages at HOT, and that applies to all HOT employees and individual contractors in all locations. With this framework, HOT aims to provide more transparency into salary decision making and ensure a consistent and equitable process for all staff, regardless of position, location, gender, or any other distinguishing characteristic.
 The HOT Salary Framework is based upon a formula made up of four factors that, when multiplied together, determine a HOT employee's annual salary or, for contractors, hourly rate. Each of these factors is explained in more detail below:
-![HOT salary formula.png](/uploads/HOT%20salary%20formula.png)
-Read how the formula works
+[![HOT salary formula.png](/uploads/HOT%20salary%20formula.png)](https://www.hotosm.org/salaries.html)
+[Read how the formula works](https://www.hotosm.org/salaries.html)
 
 # After rolling out the framework
 We’re currently moving forward with rolling out the new framework globally. It was applied retroactively to all staff on the global team (remote staff) of which we had 20 as of January 1, 2019. Some initial findings:
