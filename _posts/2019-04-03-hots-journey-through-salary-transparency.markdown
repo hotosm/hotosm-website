@@ -15,13 +15,11 @@ Country:
 
 HOT as a global community and staff team have always held the core values of openness and trust near and dear to us. For the staff team, that’s allowed us to do some really creative and unique things. For example, since 2011 we’ve maintained a remote-first workforce. Apart from teams in-country for a specific project, the remainder of HOT’s workforce - currently 20 people, typically work from a location of their choice. Team members trust each other to deliver on their commitments, help colleagues, and be open to feedback when something isn’t working.
 
-![team.png](/uploads/team.png)
-Our amazing global (remote) team.
+![team-99800e.png](/uploads/team-99800e.png) Our amazing global (remote) team.
 
 In the fall of 2018 we realized that as HOT grew -- nearing 100 staff when including our local affiliates in Tanzania and Indonesia -- no longer did each person know everybody else on the team. That was a bit of a culture shock for us. At the same time, some team members expressed frustration at the lack of explanation around why a colleague in the same office and similar position could be paid a different rate. No one knew whether there even were disparities in pay. Could a man and a woman in similar roles be paid two completely different amounts, for example?
 
-![tz team.png](/uploads/tz%20team.png)
-HOT Tanzania / Open Map Development Tanzania team and pet drone
+![tz team.png](/uploads/tz%20team.png) HOT Tanzania / Open Map Development Tanzania team and pet drone
 
 In short - we were attempting to promote a culture of openness and trust yet not talking about how decisions on salary were being made. While pursuing transparency we were inadvertently promoting -- among some, at least -- feelings of inequity. No one knew whether salaries were fair or unfair, equitable or inequitable - in part because we had never analysed it. An important point for us was that feelings of inequity -- even if not always grounded in reality -- were as equally problematic as real inequalities. After all, who wants to work in an organization that tolerates unfair treatment of staff?
 
@@ -42,7 +40,6 @@ To address this, we decided to aim for complete salary transparency across all p
 8. Each staff member is aware of the factors that went into their salary decision and how they were weighted
 9. Each staff member understands the reasoning behind their salary and can compute it themselves if desired since the factors are known
 10. Each staff member feels they are treated fairly and consistently based on a defined system
-
 
 # Before rolling out the framework
 As we moved toward salary transparency, we took at look at salaries across HOT. Here’s what we found:
@@ -70,8 +67,7 @@ We’re currently moving forward with rolling out the new framework globally. It
 * In Uganda, all HOT staff were already contracted above the framework amount.
 * In Indonesia and Tanzania, because HOT works through affiliates Perkumpulan OpenStreetMap Indonesia (POI) and Open Map Development Tanzania (OMDTZ) respectively, we are still working with our colleagues to apply the framework within those partner organizations. HOT, POI, and OMDTZ have decided to apply the framework to all staff working exclusively on HOT funded projects and will share back results in the coming months.
 
-![hot volunteer.png](/uploads/hot%20volunteer.png)
-Pictured: HOT volunteer
+![hot volunteer.png](/uploads/hot%20volunteer.png) Pictured: HOT volunteer
 
 As we enter the second quarter of 2019, there are a number questions for which we don’t have all the answers yet. I’ll make it a priority to report back on these, including: Has the framework made the hiring/recruitment process more straightforward? Did the new framework reduce the gap between the average woman’s pay in HOT and the average man’s pay? How did rollout in Indonesia and Tanzania affect pay? Are staff generally pleased with the outcome or do we have more work to do?
 I welcome your feedback, comments, and suggestions!
