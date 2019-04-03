@@ -15,7 +15,8 @@ Impact Area:
 - Disaster Risk Reduction
 Person:
 - Mhairi O'Hara
-- Tyler Radford
+- William Evans
+- Gaurav Thapa
 Partner:
 - British Geological Survey
 - ImageCat
@@ -25,9 +26,6 @@ Partner:
 Duration:
   Start Date: 2018-05-01 00:00:00 Z
   End Date: 2021-04-01 00:00:00 Z
-HOT Involvement: Community Development
-Link: http://meteor.openquake.org/
-Contact: <p><a href="https://hotosm.org/users/mhairi_ohara">Mhairi O'Hara</a></p>
 tm_campaigns:
 - "#METEOR"
 project_extent: 1Gwzi-6DwC7A6itvCIJ7mC30ZxiQsGo_k
@@ -41,8 +39,11 @@ Data:
 Tools:
 - tool: Export Tool
   link: https://export.hotosm.org/en/v3/exports/bf3c20c6-dc0e-423a-a9b9-97b53cd7a8da
-- tool: OSM Analytics
-  link: https://osm-analytics.org/#/show/hot:5370/buildings/recency
+- link: https://osm-analytics.org/#/show/hot:5370/buildings/recency
+  tool: OSM Analytics
+HOT Involvement: Community Development
+Link: http://meteor.openquake.org/
+Contact: <p><a href="https://hotosm.org/users/mhairi_ohara">Mhairi O'Hara</a></p>
 ---
 
 Dar es Salaam is one of the fastest growing cities in Africa, with an annual population growth of over 5.7%.  In 2002 there were approximately 2.5 million inhabitants, increasing to 4.4 million in 2012, and currently estimated at over 5.5 million.  The population is expected to exceed 10 million by 2040, making Dar es Salaam a megacity.  Urbanization is largely unplanned, and around 70% of city residents live in informal settlements.  The poorest citizens who settle in these areas not only have less access to basic services, but are also the most exposed to natural hazards.
