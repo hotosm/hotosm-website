@@ -1,6 +1,9 @@
 ---
-title: Kathmandu from above
+title: Digitising Kathmandu from above
 date: 2018-12-13 15:58:00 Z
+Summary Text: Guest blog by Gaurav Thapa from Kathmandu Living Labs. Covering the
+  digitisation process carried out by the team for mapping building footprints in
+  Kathmandu Valley, Nepal as part of the METEOR project.
 Feature Image: "/uploads/Screen%20Shot%202018-12-13%20at%2008.06.34-ea3319.png"
 Person: Gaurav Shumsher Thapa
 Country:
