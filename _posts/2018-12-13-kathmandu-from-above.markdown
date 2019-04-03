@@ -12,6 +12,8 @@ Project:
 - 'Modelling Exposure Through Earth Observation Routines: METEOR'
 ---
 
+This blog outlines the mapping carried out by KLL as part of the HOT METEOR project. Please check out the dedicated [OSM wiki page](https://wiki.openstreetmap.org/wiki/Directed_Edits/METEOR_Digitizing_Kathmandu) for more details project.
+
 ## Project
 
 Kathmandu Living Labs (KLL) is working together with the Humanitarian OpenStreetMap Team (HOT) on the Modelling Exposure through Earth Observation Routines (METEOR) project. Our work is part of a larger collaboration between HOT, the British Geological Survey, ImageCat, and the UK Space Agency International Partnership Programme. This overall project is focused on developing innovative applications of earth observation (EO) technologies to improve understanding of exposure to help minimise risks from natural hazards. We are working directly with HOT on the digitization and the subsequent building exposure survey of Kathmandu Valley. 
