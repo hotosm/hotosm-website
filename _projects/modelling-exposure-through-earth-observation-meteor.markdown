@@ -15,7 +15,8 @@ Impact Area:
 - Disaster Risk Reduction
 Person:
 - Mhairi O'Hara
-- Tyler Radford
+- William Evans
+- Gaurav Thapa
 Partner:
 - British Geological Survey
 - ImageCat
