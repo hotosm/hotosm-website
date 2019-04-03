@@ -34,7 +34,7 @@ Through ImageCat we were given a list of 53,000 randomized points covering all a
 For this project we primarily recruited recently graduated civil engineers with a sound understanding of building structures. We brought a local engineering consultancy firm, named Engineering Mantra, on-board to identify and recruit these surveyors. We recruited 12 engineers after a rigorous selection process. 
 
 ![image12.jpg](/uploads/image12.jpg)
-*Image 1: Group interviews of potential surveyors *
+*Image 1: Group interviews of potential surveyors*
 
 
 ## Surveyor training
