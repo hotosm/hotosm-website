@@ -34,23 +34,23 @@ Through ImageCat we were given a list of 53,000 randomized points covering all a
 For this project we primarily recruited recently graduated civil engineers with a sound understanding of building structures. We brought a local engineering consultancy firm, named Engineering Mantra, on-board to identify and recruit these surveyors. We recruited 12 engineers after a rigorous selection process. 
 
 ![image12.jpg](/uploads/image12.jpg)
-Image 1: Group interviews of potential surveyors 
+*Image 1: Group interviews of potential surveyors *
 
 
 ## Surveyor training
 
 ![image21.jpg](/uploads/image21.jpg)
-Image 2: First training of surveyors 
+*Image 2: First training of surveyors* 
 
 A two-day training session was conducted by two senior civil engineers from engineering firm Resilient Structures. Resilient Structures, is a pioneering firm of Nepal, that focuses on minimizing potential risk factors of buildings that exist in any severe hazardous events. The first day the engineers from Resilient Structures provided details on building structures, materials commonly used in Nepal and challenges of visual inspection of buildings. Second day of the training session focused on the use of the data collection tools, OpenDataKit (OMK) and OpenMapKit (OMK), as well the process of field data collection and uploading to OSM. For this the surveyors were also taken out to the field where they collected real world data. This data was subsequently evaluated and feedback given to the surveyors.
 
 ![image4-e7a6f0.jpg](/uploads/image4-e7a6f0.jpg)
-Image 3: Field training of surveyors (Chundevi, Kathmandu)
+*Image 3: Field training of surveyors (Chundevi, Kathmandu)*
 
 Before surveyors were sent out to the field, a map with all the randomized sample points was created. From local understanding of Kathmandu and its roads, six clusters were created. The clusters were digitised in QGIS and the total number of points each cluster contained were calculated and adjusted so that all six clusters contained between 45-55 points each. Based on these clusters six groups of two surveyors each was created. Groups that had longer travel times were assigned fewer points. Maps of the field areas were created and given to each group. The maps ensure that there are no overlapping field areas and thus prevents duplication of collected data. 
 
 ![image16.jpg](/uploads/image16.jpg)
-Image 4: Creating clusters for surveyor deployment 
+*Image 4: Creating clusters for surveyor deployment* 
 
 Additionally, surveyors were trained on the navigation app Maps.me. This application also uses OSM data and can be used while offline. A list of bookmarks was created for each group, where the bookmarks were the coordinates of the randomised points where the engineers conducted the surveying. 10 houses around each point was chosen and visually inspected by the surveyors. The field surveyors were given discretion on how far or near from the specific coordinate they can move. However, they were told not to infringe on the 20 metre buffer of another point. Surveyors were asked to ignore any point that fell inside military/restricted zones. Any surveyors encountering problems of not having access on the particular direction of a point were asked to collect data in a direction where possible.
 
@@ -58,30 +58,30 @@ Additionally, surveyors were trained on the navigation app Maps.me. This applica
 Throughout the data collection period, weekly meetings were held. These in-person meetings were used as a place for surveyors to discuss the challenges they faced, ask specific technical questions to experts, learn more about OSM andOMK, while getting feedback on the quality of the data being collected.
 
 ![main-image.png](/uploads/main-image.png)
-Image 5: Photographs collected of the same building to aid remote validation
+*Image 5: Photographs collected of the same building to aid remote validation*
 
 Desk validations by our experts were conducted two times. Once when 50% of the data was collected and second time when 90% of the data was collected. To do this a .csv file of all survey groups were downloaded. These were then divided into six groups based on the individual name/device id through which the data was uploaded.
 
 ![image21-71aa2e.jpg](/uploads/image21-71aa2e.jpg)
-Image 6: Weekly feedback session
+*Image 6: Weekly feedback session*
 
 Once sorted into groups, each tenth row was validated by experts based on the images gathered by the surveyors. This was done so that 10% of all data brought in is validated through desk research. After 100% of the data was collected, a peer desk validation was also conducted where surveyors went through each other’s data and left comments where they felt potential errors had been made, on a shared spreadsheet.
 
 ![image15.jpg](/uploads/image15.jpg)
-Image 7: Desk validation being performed
+*Image 7: Desk validation being performed*
 
 ![image2-b07c3f.png](/uploads/image2-b07c3f.png)
 ![image1-6a1945.png](/uploads/image1-6a1945.png)
 ![image14.png](/uploads/image14.png)
-Image 8: Peer evaluation spreadsheets
+*Image 8: Peer evaluation spreadsheets*
 
 Further spot/field checking was also conducted. This was done once by the experts after around 50% of the data had been collected by the surveyors. Spot checking occured by taking the 10% data that had been validated through desk research out of which latitude and longitude of every tenth row was noted. These locations were then visited to ensure that data on the ground matched the images and data collected by field surveyors.
 
 ![image18.jpg](/uploads/image18.jpg)
-Image 9: Spot checking of field data by expert
+*Image 9: Spot checking of field data by expert*
 
 ![image13.jpg](/uploads/image13.jpg)
-Image 10: Spot checking of field data in highly dense areas
+*Image 10: Spot checking of field data in highly dense areas*
 
 ## What did they collect?
 The attributes collected were built upon the GED4ALL taxonomy developed as part of the GFDRR Challenge Fund. The ODK questionnaire contained the following building features and their attributes (see table below). Two civil engineering experts were brought in by KLL to localise the values. They were also able to tell us which building materials were more likely to be found within Kathmandu Valley and needed to be added as options. We hope that eventually such localized data will also help improve the vocabulary of OSM.
