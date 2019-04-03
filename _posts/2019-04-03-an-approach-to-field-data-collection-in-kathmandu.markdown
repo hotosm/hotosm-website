@@ -1,7 +1,7 @@
 ---
 title: An approach to field data collection in Kathmandu
 date: 2019-04-03 03:47:00 Z
-Feature Image: "/uploads/Screen%20Shot%202019-04-03%20at%2011.04.58.png"
+Feature Image: "/uploads/image13-529210.jpg"
 Person: Gaurav Thapa
 Country:
 - Nepal
@@ -9,7 +9,7 @@ Project:
 - 'Modelling Exposure Through Earth Observation Routines: METEOR'
 ---
 
-*This blog is a continuation of the work described in the blog [Kathmandu from above](https://www.hotosm.org/updates/kathmandu-from-above/)*
+*This blog is a continuation of the work described in the blog [Kathmandu from above](https://www.hotosm.org/updates/kathmandu-from-above/). Please check out the dedicated [OSM wiki page](https://wiki.openstreetmap.org/wiki/Directed_Edits/METEOR_Digitizing_Kathmandu) for more details project.*
 
 ## Project
 Kathmandu Living Labs (KLL) is working together with the Humanitarian OpenStreetMap Team (HOT) on the Modelling Exposure through Earth Observation Routines (METEOR) project. Our work is part of a larger collaboration between HOT, the British Geological Survey (BGS), ImageCat, and the UK Space Agency International Partnership Programme (IPP). This overall project is focused on developing innovative applications of earth observation (EO) technologies to improve understanding of exposure to help minimise risks from natural hazards. Our contribution to this project has been the digitization of building footprints and the subsequent building exposure survey of Kathmandu Valley. This blog describes how the building exposure survey was carried out by our team and the results of the survey.
