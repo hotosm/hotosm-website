@@ -13,7 +13,7 @@ Country:
 - United States
 ---
 
-HOT as a global community and staff team have always held the core values of openness and trust near and dear to us. For the staff team, that’s allowed us to do some really creative and unique things. For example, since 2011 we’ve maintained a remote-first workforce. Apart from teams in-country for a specific project, the remainder of HOT’s workforce - currently 20 people, typically work from a location of their choice. Team members trust each other to deliver on their commitments, help colleagues, and be open to feedback when something isn’t working.
+HOT as a global community and staff team have always held the core values of openness and trust near and dear to us. For the staff team, that’s allowed us to do some really creative and unique things. For example, since 2011 we’ve maintained a remote-first workforce. Apart from teams in-country for a specific project, the remainder of HOT’s workforce - currently 20 people, typically work from a location of their choice. Team members trust each other to deliver on their commitments, help colleagues, and are open to feedback when something isn’t working.
 
 ![team-99800e.png](/uploads/team-99800e.png) Our amazing global (remote) team.
 
