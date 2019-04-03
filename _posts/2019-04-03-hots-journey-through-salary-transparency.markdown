@@ -70,7 +70,8 @@ We’re currently moving forward with rolling out the new framework globally. It
 * In Uganda, all HOT staff were already contracted above the framework amount.
 * In Indonesia and Tanzania, because HOT works through affiliates Perkumpulan OpenStreetMap Indonesia (POI) and Open Map Development Tanzania (OMDTZ) respectively, we are still working with our colleagues to apply the framework within those partner organizations. HOT, POI, and OMDTZ have decided to apply the framework to all staff working exclusively on HOT funded projects and will share back results in the coming months.
 
-<img src="/uploads/hot%20volunteer%20crop.png" style="width: 250px !important" alt="HOT Volunteer"> *Pictured: HOT volunteer*
+<img src="/uploads/hot%20volunteer%20crop.png" style="width: 600px !important" alt="HOT Volunteer">
+*Pictured: HOT volunteer*
 
 As we enter the second quarter of 2019, there are a number questions for which we don’t have all the answers yet. I’ll make it a priority to report back on these, including: Has the framework made the hiring/recruitment process more straightforward? Did the new framework reduce the gap between the average woman’s pay in HOT and the average man’s pay? How did rollout in Indonesia and Tanzania affect pay? Are staff generally pleased with the outcome or do we have more work to do?
 I welcome your feedback, comments, and suggestions!
