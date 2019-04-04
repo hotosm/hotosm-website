@@ -9,7 +9,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf7J12yRFNXmuvxkdxXdrC
 
 **Location:** Jakarta, Indonesia
 
-**Report to:** Indonesian Country Manager
+**Report to:** Indonesian Country Manager & HOT Senior Communications Specialist
 
 
 
