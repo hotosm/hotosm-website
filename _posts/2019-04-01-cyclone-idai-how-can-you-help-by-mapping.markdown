@@ -9,6 +9,11 @@ Summary Text: 'Volunteers, we need your help! Over the past few weeks, Cyclone I
   the lives of millions of people and you can help humanitarian responders provide
   lifesaving aid.  '
 Feature Image: "/uploads/Idai.jpg"
+Person: Rebecca Firth
+Working Group:
+- Activation
+Project:
+- 'Disaster Response: Cyclone Idai'
 ---
 
 # What do we need?
