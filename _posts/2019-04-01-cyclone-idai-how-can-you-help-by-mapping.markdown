@@ -36,5 +36,5 @@ Find out more
 * [Find out more about HOT’s work](https://www.hotosm.org/)
 
 
-`Photo credit: Luke Caley, IFRC IM Lead detailing the Assessment`
+`Photo credit: Jamie LeSueur, IFRC`
 
