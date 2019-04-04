@@ -145,7 +145,7 @@ const loadMapLayers = () => {
 
     var numOfPolygons = projectExtentJSON.features.length;
 
-    if (numOfPolygons.length === 1) {
+    if (numOfPolygons === 1) {
       setMapView();
     }
 
