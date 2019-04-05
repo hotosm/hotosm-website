@@ -40,6 +40,8 @@ Find out more
 * [Learn more about the IFRC response](https://media.ifrc.org/ifrc/2019/04/01/mapping-cyclone-idai/)
 * [Find out more about HOT’s work](https://www.hotosm.org/)
 
-
 `Photo credit: Jamie LeSueur, IFRC`
 
+This project was funded by the H2H Fund, which is supported by UK aid from the UK government.
+
+![h2h.jpg](/uploads/h2h.jpg)
