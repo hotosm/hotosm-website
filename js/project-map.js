@@ -47,7 +47,7 @@ var map = new mapboxgl.Map({
 var popup = new mapboxgl.Popup({
   closeButton: false,
   closeOnClick: false
-}).setHTML('')
+})
 
 const loadMapLayers = () => {
   if (tmProjectCentroids.features.length > 0) {
@@ -112,11 +112,6 @@ const loadMapLayers = () => {
       });
 
       map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
-
-      if (!features.length) {
-        popup.remove();
-        return;
-      }
     })
 
     map.on('click', function (e) {
