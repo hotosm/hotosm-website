@@ -1546,6 +1546,8 @@ em {
         }
         &:hover, &:active, &:focus {
           border-bottom: 2px solid tint($red, 75%);
+          transition-property: left right;
+          transition: all .3s ease-out;
         }
       }
       @media (min-width: $screen-sm) and (max-width: $screen-md) {
