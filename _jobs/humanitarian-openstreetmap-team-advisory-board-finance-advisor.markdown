@@ -1,6 +1,7 @@
 ---
 title: HOT Advisory Board- Finance Advisor
 date: 2019-03-04 16:12:00 Z
+position: 26
 Deadline Date: 2019-03-22 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScjVsljz143zSq3wwgrbc9ki8N0kYQ72viM88n0y8gIL2-fHA/viewform

@@ -1,6 +1,7 @@
 ---
 title: 'RFP: Tasking Manager Design Improvements'
 date: 2018-12-27 11:31:00 Z
+position: 25
 Deadline Date: 2019-01-11 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://humanitarian-openstreetmap-team.forms.fm/hot-tech-submission/

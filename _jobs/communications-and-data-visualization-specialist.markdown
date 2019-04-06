@@ -1,6 +1,7 @@
 ---
 title: Communications and Data Visualization Specialist
 date: 2019-03-19 16:03:00 Z
+position: 27
 Deadline Date: 2019-04-03 00:00:00 Z
 Place of Work: Dar es Salaam, Tanzania
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeSPHVyux5TnQ9ZU0wW6Cq90R18JwbntaRgYClMbvmYtE2d2g/viewform

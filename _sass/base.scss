@@ -4903,6 +4903,16 @@ sup {
   }
 }
 
+////////////////////////////////////////////////
+////////////// Page — Volunteer ////////////////
+////////////////////////////////////////////////
+
+.anchor {
+    display: block;
+    height: 96px;
+    margin-top: -96px;
+    visibility: hidden;
+}
 
 ////////////////////////////////////////////////
 ///////////////// Page — Donate ////////////////
@@ -5067,12 +5077,6 @@ sup {
   color: #2C3038;
   text-decoration: underline;
   cursor: pointer;
-}
-
-.project-para {
-  display: flex;
-  flex-direction: column;
-  align-items: space-between;
 }
 
 
