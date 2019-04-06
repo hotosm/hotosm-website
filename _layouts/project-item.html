@@ -134,13 +134,14 @@ layout: default
                     </div>
                     {% endif %}
                     <div class="panel-wrapper">
-                        <button class="more" id="more" onclick="content('more')">Read more</button>
-                        <button class="less" id="less" onclick="content('less')" style="display:none;">Show less</button>
                         <div id="panel" class="panel">
+                            {{ content | truncatewords: 125 }}
+                        </div>
+                        <div id="panel-new" class="panel" style="display:none; margin-bottom:5%; ">
                             {{ content }}
                         </div>
-                        <div class="fade"></div>
-
+                        <button class="more" id="more" onclick="content('more')">Read more</button>
+                        <button class="less" id="less" onclick="content('less')" style="display:none;">Show less</button>
                     </div>
                 </div>
             </div>
@@ -278,15 +279,24 @@ layout: default
 <script>
     var countries = "{{ page.Country | join: ', ' }}"
     var campaignTags = "{{ page.tm_campaigns | join: ', ' }}"
-    var fileId = "{{ page.project_extent }}"
-
+    var fileId = "{{ page.project_extent }}"     
+    var count = 0;
+    var str = document.getElementById('panel-new').innerHTML
+    var res = str.split(" ")
+    if (res.length < 170) {
+        document.getElementById('more').style.display = 'none'
+    }
+    
     function content(action) {
         if (action === 'more') {
-            document.getElementById('panel').style.height = '100%'
+            document.getElementById('panel').style.display = 'none'
+            document.getElementById('panel-new').style.display = 'block'
             document.getElementById('less').style.display = 'block'
             document.getElementById('more').style.display = 'none'
         } else {
-            document.getElementById('panel').style.height = '200px'
+            document.getElementById('panel').style.display = 'block'
+            document.getElementById('panel-new').style.display = 'none'
+            document.getElementById('panel-new').style.height = '100%'
             document.getElementById('more').style.display = 'block'
             document.getElementById('less').style.display = 'none'
         }

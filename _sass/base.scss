@@ -1546,8 +1546,6 @@ em {
         }
         &:hover, &:active, &:focus {
           border-bottom: 2px solid tint($red, 75%);
-          transition-property: left right;
-          transition: all .3s ease-out;
         }
       }
       @media (min-width: $screen-sm) and (max-width: $screen-md) {
@@ -2349,10 +2347,13 @@ $bg-color: rgb(100,100,100);
 
 .panel-wrapper {
   position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
-.more, .less {
-  position: absolute;
+.more, .less {  
   color: #fff;
   background: #2C3038;
   left: 30%;
@@ -2370,15 +2371,8 @@ $bg-color: rgb(100,100,100);
   position: relative;
   margin: 2em auto;
   width: 100%;
-  height: 100px;
   overflow: hidden;
   transition: max-height .5s ease;
-}
-.fade {
-  // background: linear-gradient(to bottom, rgba($bg-color,0) 0%,rgba($bg-color,1) 100%);
-  height: 75px;
-  margin-top: -50px;
-  position: relative;
 }
 
 .project-header {
