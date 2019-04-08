@@ -45,6 +45,6 @@ For mappers:
 
 For first responders:
 
- * Get daily updates of roads and buildings on [HDX](https://data.humdata.org/) for Mozambique, Zimbabwe and Malawi.
+ * Get daily updates of roads and buildings on [HDX](https://data.humdata.org/search?groups=mwi&groups=moz&groups=zwe&organization=hot) for Mozambique, Zimbabwe and Malawi.
  * Quickly start using our mapping data by downloading [Maps.me](https://maps.me/) on your phone.
 * Create custom extracts for offline navigation with the [HOT Export Tool](https://export.hotosm.org/en/v3/)
