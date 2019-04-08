@@ -128,7 +128,7 @@ const loadMapLayers = () => {
 
       var feature = features[0];
 
-      addPopupOnClick(feature);
+      displayPopupOnClick(feature);
     });
   }
 
@@ -178,7 +178,7 @@ function setMapView() {
   })
 };
 
-function addPopupOnClick(currentFeature) {
+function displayPopupOnClick(currentFeature) {
   var popup = new mapboxgl.Popup()
     .setLngLat(currentFeature.geometry.coordinates)
     .setHTML('<p class="project__title">' +
