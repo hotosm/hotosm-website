@@ -217,7 +217,7 @@ em {
     }
   }
   img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
     & + em {
       font-size: 0.8125rem;
