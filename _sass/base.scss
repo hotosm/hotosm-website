@@ -160,7 +160,7 @@ em {
 .article {
   h1, h2 {
     font-family: $font-default;
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     text-transform: none;
     letter-spacing: 0;
     font-weight: normal;
@@ -217,7 +217,7 @@ em {
     }
   }
   img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
     & + em {
       font-size: 0.8125rem;
@@ -231,6 +231,7 @@ em {
   }
   .news-summary {
     font-size: 1.125rem;
+    font-weight: bold;
     color: $red;
     padding-bottom: 32px;
     border-bottom: 1px solid $border-color;
