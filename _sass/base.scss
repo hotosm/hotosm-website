@@ -5079,5 +5079,25 @@ sup {
   cursor: pointer;
 }
 
+#share-bar{     
+  text-align:center;
+  padding-right:5px;
+  padding-bottom : 15px;
+}
 
+#share-bar h4 {
+  margin-bottom: 10px;
+  font-weight: 500;
+}
 
+#share-bar a{
+  color:#fff !important;
+  padding-right:5px;
+  height:100%;
+  width:100%;
+}
+
+#share-buttons img {
+  width: 35px;
+  padding: 100px;
+}
