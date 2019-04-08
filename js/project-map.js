@@ -4,9 +4,6 @@ const proxyUrl = "https://cors-anywhere.herokuapp.com/"
 const driveUrl = "https://drive.google.com/uc?export=download&id="
 var totalArea = 0, totalEdits = 0, totalMappers = 0
 var totalRoads = 0, totalBuildings = 0, totalChangesets = 0
-var bboxCoordinatesArray = [];
-var currentPolygonIndex;
-var numOfPolygons;
 
 var options = {
   headers: {
@@ -136,30 +133,6 @@ const loadMapLayers = () => {
 
     projectExtentJSON.features.forEach(function (feature) {
       bboxCoordinatesArray.push(turf.bbox(feature));
-    });
-
-    var numOfPolygons = projectExtentJSON.features.length;
-
-    if (numOfPolygons === 1) {
-      setMapView();
-    }
-
-    currentPolygonIndex = 0;
-
-    addFlyBtn();
-    setMapView();
-
-    document.getElementById('flybtn').addEventListener('click', function () {
-      if (currentPolygonIndex >= (numOfPolygons - 1)) {
-        currentPolygonIndex = 0;
-      } else {
-        currentPolygonIndex++;
-      }
-
-      setMapView();
-
-      var popUps = document.getElementsByClassName('mapboxgl-popup');
-      if (popUps[0]) popUps[0].remove();
     });
 
     map.addSource('projectExtent', {
