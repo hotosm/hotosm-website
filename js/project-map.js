@@ -141,6 +141,14 @@ const loadMapLayers = () => {
       bboxCoordinatesArray.push(turf.bbox(feature));
     });
 
+    if (bboxCoordinatesArray.length === 1) {
+      setMapView();
+    } else {
+      displayFlyBtn();
+      setMapView();
+      flyToNextArea();
+    }
+
     map.addSource('projectExtent', {
       'type': 'geojson',
       'data': projectExtentJSON
