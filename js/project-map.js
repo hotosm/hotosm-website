@@ -170,7 +170,7 @@ const loadMapLayers = () => {
 
 map.addControl(new mapboxgl.NavigationControl());
 
-function addFlyBtn() {
+function displayFlyBtn() {
   var flyButton = document.createElement('a');
   flyButton.id = 'flybtn';
   flyButton.classList.add('btn', 'btn-primary', 'btn-block', 'btn-chevron');
