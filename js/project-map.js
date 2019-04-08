@@ -4,6 +4,12 @@ const proxyUrl = "https://cors-anywhere.herokuapp.com/"
 const driveUrl = "https://drive.google.com/uc?export=download&id="
 var totalArea = 0, totalEdits = 0, totalMappers = 0
 var totalRoads = 0, totalBuildings = 0, totalChangesets = 0
+var index = 0;
+var fitBoundsOptions = {
+  padding: 50,
+  maxZoom: 14.15,
+  duration: 2000
+};
 
 var options = {
   headers: {
