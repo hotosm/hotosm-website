@@ -182,13 +182,19 @@ function displayFlyBtn() {
   document.querySelector('.flybtn-holder').appendChild(flyButton);
 };
 
-function setMapView() {
-  map.fitBounds(bboxCoordinatesArray[currentPolygonIndex], {
-    padding: 50,
-    maxZoom: 14.15,
-    duration: 2000
-  })
-};
+function flyToNextArea() {
+  document.getElementById('flybtn').addEventListener('click', function () {
+    if (index >= bboxCoordinatesArray.length - 1) {
+      index = 0;
+    } else {
+      index++;
+    }
+
+    setMapView();
+    var popUps = document.getElementsByClassName('mapboxgl-popup');
+    if (popUps[0]) popUps[0].remove();
+  });
+}
 
 function displayPopupOnClick(currentFeature) {
   var popup = new mapboxgl.Popup()
