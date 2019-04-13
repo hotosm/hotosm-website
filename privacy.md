@@ -25,9 +25,9 @@ In general, we collect information about the actions that you take on the Servic
 
 1. [Information We Collect From You and How We Collect It](#information-we-collect-from-you-and-how-we-collect-it)
 
-2. [How And Why We Use the Information We Collect](#how-and-why-we-use-the-tnformation-we-collect)
+2. [How And Why We Use the Information We Collect](#how-and-why-we-use-the-information-we-collect)
 
-3. [How and When We Share Information](#how-and-when-we-whare-information)
+3. [How and When We Share Information](#how-and-when-we-share-information)
 
 4. [How We Protect Your Information](#how-we-protect-your-information)
 
