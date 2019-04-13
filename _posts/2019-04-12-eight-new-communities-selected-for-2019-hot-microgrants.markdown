@@ -1,6 +1,6 @@
 ---
 title: Eight New Communities Selected for 2019 HOT Microgrants
-date: 2019-04-12 17:01:00 Z
+date: 2019-04-12 20:34:00 Z
 Summary Text: Female drone pilots mapping Africa’s largest slum, a youth group changing
   waste management behaviours in mega-cities, and mappers making Manila more accessible
   for persons with disabilities. These are a few examples of the eight incredible
