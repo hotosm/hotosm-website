@@ -2747,6 +2747,9 @@ border: 2px solid black;
   display: flex;
   overflow: hidden;
   box-shadow: $default-box-shadow;
+  p { 
+    padding: 6px 8px;
+  }
  
   .hover-edits {
     background-color: #FFC151;
