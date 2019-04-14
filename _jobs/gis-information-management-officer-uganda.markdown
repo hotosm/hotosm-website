@@ -1,6 +1,7 @@
 ---
 title: GIS Information Management Officer - Uganda
 date: 2018-06-15 16:48:00 Z
+position: 10
 Deadline Date: 2018-06-30 19:15:00 Z
 Place of Work: Based in Kampala and various locations in northern/western Uganda
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScjXZVY9zsrZQ2-wGM_euZYzGoHit1zLcNbUPHx9GFhQde5iA/viewform

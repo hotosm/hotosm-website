@@ -1,6 +1,7 @@
 ---
 title: Communications Manager (Part-Time)
 date: 2018-06-08 19:27:00 Z
+position: 3
 Deadline Date: 2018-06-29 00:00:00 Z
 Place of Work: Remote or co-located in HOT Office (Washington, D.C.; New York City;
   Kampala, Uganda; Dar Es Salaam, Tanzania)

@@ -22,7 +22,7 @@ tm_campaigns:
 - Tanzania Mini-Grids
 - Mini grids
 - Mini grids x
-project_extent: 1qjHUaPtk-bkmo5uFRut_cBTP56HULVlC
+project_extent: 18sQUqGmqyr3dtv1xwkTKugDIMlBdrFtK
 Google Drive: https://drive.google.com/drive/folders/1WrPMJukORSruKeyml42BIEiojwhYVRKu?usp=sharing
 Data:
 - title: Humanitarian Data Exchange

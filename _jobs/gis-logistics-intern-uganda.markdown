@@ -1,6 +1,7 @@
 ---
 title: GIS Logistics Intern - Uganda
 date: 2018-06-22 19:19:00 Z
+position: 12
 Deadline Date: 2018-06-30 12:01:00 Z
 Place of Work: Based in Kampala and various locations in Northern Uganda
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSc4QcfjeY0AuMUgYwi87wMqKjw5jrjFXGfLh4xXYq0L1UKupA/viewform

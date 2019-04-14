@@ -32,7 +32,7 @@ tm_campaigns:
 - "#ramanihuria"
 - "#Trash mapping"
 - "#METEOR"
-project_extent: 1SIeG90TwCHDiXBQ8LJItBMAMWi5luN9K
+project_extent: 1CzitDAxCT9u0Mn6WDw17ArysN538MFEQ
 Google Drive: https://drive.google.com/drive/u/1/folders/1pSiIHo8G4f9RkRbOVfG-yR6BvbkIpg6-
 Data:
 - title: Humanitarian Data Exchange

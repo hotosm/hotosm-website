@@ -1,6 +1,7 @@
 ---
 title: Communications Specialist- Tanzania
 date: 2018-10-04 19:29:00 Z
+position: 19
 Deadline Date: 2018-10-19 00:00:00 Z
 Place of Work: Dar Es Salaam, Tanzania
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSffVMM1Hfep40l-35kyYfYAzRlB93upQ7LxJYqiQ4yIuoVjMw/viewform
