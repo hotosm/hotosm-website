@@ -2440,6 +2440,9 @@ $bg-color: rgb(100,100,100);
   }
   a {
     color: $red;
+    &:hover {
+      color: tint($red, 30%);
+    }
   }
 }
 
