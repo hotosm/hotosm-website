@@ -44,8 +44,8 @@ OSM Gambia has been building its mapping community for over a year. Placing a hi
 
 OSM Gambia will work with the Gambia Tourism Board and the National Environmental Agency to identify ecotourism areas and capture the current state of vegetation and wildlife to stimulate The Gambia’s tourism industry and assist in planning efforts focused on environmental conservation and preservation.
 
-### OpenStreetMap Nicaragua (Nicaragua)
-OSM Nicaragua has a vision to create the most detailed and complete map of Nicaragua that empowers individuals to use open data and participatory technologies to solve common challenges. OSM Nicaragua’s aim is to continue mapping the public transit routes in Managua and surrounding cities, expecting to reach at least five new cities. They believe mapping is the first step towards improving the transportation system, while engaging new individuals in mapping. By engaging local stakeholders to use OSM for urban planning, the goal is to improve mobility and transport policies in the country.
+### OpenStreetMap Nicaragua-MapaNica.net (Nicaragua)
+OSM Nicaragua-MapaNica.net has a vision to create the most detailed and complete map of Nicaragua that empowers individuals to use open data and participatory technologies to solve common challenges. OSM Nicaragua-MapaNica.net’s aim is to continue mapping the public transit routes in Managua and surrounding cities, expecting to reach at least five new cities. They believe mapping is the first step towards improving the transportation system, while engaging new individuals in mapping. By engaging local stakeholders to use OSM for urban planning, the goal is to improve mobility and transport policies in the country.
 ![Mapnica.jpg](/uploads/Mapnica.jpg)
 
 ### YouthMappers Dhaka College (Bangladesh)
