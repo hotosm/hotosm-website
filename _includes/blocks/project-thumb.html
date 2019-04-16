@@ -31,7 +31,14 @@
           <span class="project-country">Global</span>
         </p>
       {% endif %}
-
+      <p class="project-status">
+          {% if project['Duration']['End Date'] == 'Ongoing' %} ACTIVE {% else %} 
+          {% capture currenttime %}{{ 'now' | date: "%Y-%m-%d %H:%M:%s" }}{% endcapture %}
+          {% capture projecttime %}{{ project['Duration']['End Date'] }}{% endcapture %}
+          {% if projecttime < currenttime %} COMPLETED 
+          {% else %} ACTIVE {% endif %}
+          {% endif %}
+      </p>
     </div>
 
   </div>
