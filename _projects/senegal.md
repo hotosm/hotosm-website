@@ -25,12 +25,12 @@ Duration:
   End Date: 2012-12-31 00:00:00 Z
 Summary Text: "HOT's work in Senegal started with a field mission funded through the
   World Bank’s ICT (Internet and Communications Technology) Branch and the Fondation
-  de France, thanks to a partnership with OpenStreetMap France (OSM-FR). Three HOT participants conducted training and networking activities
-  over three weeks (20 May - 9 June, 2012) aiming to fostering the growth of the OpenStreetMap
-  (OSM) project in Senegal. In this first mission, HOT reached out to ongoing GIS
-  projects, local Tech communities, Senegalese geomatics scene actors (Senegalese
-  SDI), and Academics leading to the cultivation and training of a local OSM Community
-  in Senegal.\n\n"
+  de France, thanks to a partnership with OpenStreetMap France (OSM-FR). Three HOT
+  participants conducted training and networking activities over three weeks (20 May
+  - 9 June, 2012) aiming to fostering the growth of the OpenStreetMap (OSM) project
+  in Senegal. In this first mission, HOT reached out to ongoing GIS projects, local
+  Tech communities, Senegalese geomatics scene actors (Senegalese SDI), and Academics
+  leading to the cultivation and training of a local OSM Community in Senegal.\n\n"
 HOT Involvement: Community Development
 Contact: <p><a href="mailto:nicolas.chavent@hotosm.org">Nicolas Chavent</a> <br><a
   href="mailto:augustin.doury@hotosm.org">Augustin Doury</a></p>

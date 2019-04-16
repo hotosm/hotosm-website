@@ -21,11 +21,10 @@ Person:
 Duration:
   Start Date: 2013-06-01 00:00:00 Z
   End Date: 2013-12-31 00:00:00 Z
-Summary Text: "English
-  version of the text follows below \nFort du soutien financier et opérationnel
-  de la Direction de la Francophonie numérique (DFN) de l’Organisation Internationale
-  de la Francophonie (OIF), HOT avec un réseau de partenaires locaux met en oeuvre
-  le projet pilote Espace OSM Francophone (EOF). \n\n"
+Summary Text: "English version of the text follows below \nFort du soutien financier
+  et opérationnel de la Direction de la Francophonie numérique (DFN) de l’Organisation
+  Internationale de la Francophonie (OIF), HOT avec un réseau de partenaires locaux
+  met en oeuvre le projet pilote Espace OSM Francophone (EOF). \n\n"
 HOT Involvement: Community Development
 Contact: <p><a href="mailto:nicolas.chavent@hotosm.org">Nicolas Chavent</a></p>
 created: 1372796985
