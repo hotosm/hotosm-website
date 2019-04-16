@@ -2605,6 +2605,12 @@ border: 2px solid black;
   padding-top: 600px;
 }
 
+#hot-stats { 
+  @media (max-width: $screen-xs) {
+    justify-content:center;
+  }
+ }
+
 .our-work-map-legend {
   margin-top: 24px;
   margin-right: 40px;
