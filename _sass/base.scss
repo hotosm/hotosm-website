@@ -2735,7 +2735,11 @@ border: 2px solid black;
   justify-content: flex-end;
   align-items: flex-end;
   width: 100%;
-  height: 500px; 
+  height: 500px;
+  @media (max-width: 414px) {
+    justify-content: center;
+    height:560px; 
+    } 
 }
 
 #flybtn {
@@ -2745,6 +2749,9 @@ border: 2px solid black;
   font-family:$font-default;
   font-size: 16px;
   line-height: 21px;
+  @media (max-width: 414px) {
+    margin-right: 0px;
+  }
 }
 
 .center-hover-map-area {
