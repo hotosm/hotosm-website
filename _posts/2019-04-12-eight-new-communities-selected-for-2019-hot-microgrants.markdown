@@ -29,7 +29,7 @@ CfA will be mapping Makoko, one of Africa’s largest slums. A third of the comm
 
 ### Cuerpo Consultivo para el Desarrollo de Río Piedras (Puerto Rico)
 [Cuerpo Consultivo para el Desarrollo de Río Piedras](http://ccriopiedras.pr/) (CCDRP) aims to develop the first community-driven disaster preparedness and recovery mapping inventory in Puerto Rico. Created in 2016, CCDRP is an effort to establish a new governance framework for the city of San Juan, Puerto Rico. They aim to design a project from the grassroots, community-level, changing the top-down approach of government-led development initiatives. Mapping activities will be completed across the eight communities that form Río Piedras to understand what unmet needs still exist from past disaster events, to identify critical infrastructure needed to support disaster relief efforts, and to identify organizations and individuals who can support future relief efforts.
-![CCDRP 2.jpg](/uploads/CCDRP%202.jpg)
+![CCDRP3.jpg](/uploads/CCDRP3.jpg)
 
 ### Leclara (Ghana)
 Leclara introduced community-run, sustainable tourism initiatives in Larabanga, Ghana, in order to generate revenue at the local level. A prerequisite for successful tourism is having a map of the community. Leclara plans to train groups of youth in the region on open mapping, conducting regular exchanges with experienced mappers from OSM Ghana. Using OpenStreetMap, Leclara aims to build a meaningful source of sustainable income and new pathways for youth to gain skills that unlock future job opportunities. 
