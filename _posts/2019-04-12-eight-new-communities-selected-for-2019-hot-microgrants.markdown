@@ -33,7 +33,7 @@ CfA will be mapping Makoko, one of Africa’s largest slums. A third of the comm
 
 ### Leclara (Ghana)
 Leclara introduced community-run, sustainable tourism initiatives in Larabanga, Ghana, in order to generate revenue at the local level. A prerequisite for successful tourism is having a map of the community. Leclara plans to train groups of youth in the region on open mapping, conducting regular exchanges with experienced mappers from OSM Ghana. Using OpenStreetMap, Leclara aims to build a meaningful source of sustainable income and new pathways for youth to gain skills that unlock future job opportunities. 
-![Leclara center Seidu left Danziger.JPG (/uploads/Leclara%20center%20Seidu%20left%20Danziger.JPG)
+![Leclara center Seidu left Danziger.JPG](/uploads/Leclara%20center%20Seidu%20left%20Danziger.JPG)
 
 ### OpenStreetMap Cameroon (Cameroon)
 OSM Cameroon’s aim is to not only produce data in OpenStreetMap, but also to ensure that the data creates value-added services that have an impact on people's lives. OSM Cameroon aims to create a free provision of GitHub – the code of the infrastructure they have built – so that the OSM Communities of surrounding African countries have an OSM data recovery infrastructure. Boot camps and work sessions will focus on introducing and training participants from different backgrounds to contribute towards and reuse OpenStreetMap data. They will also be equipped with tools to create their own open source geospatial products and platforms based on OpenStreetMap.
