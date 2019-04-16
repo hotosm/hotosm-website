@@ -3690,6 +3690,14 @@ div.mapboxgl-popup-content .project__details {
   }
 }
 
+.hr-v.invisible {
+  @media (max-width: $screen-sm) {
+    &:not(:nth-child(2)) {
+      visibility:hidden;
+    }
+  } 
+}
+
 .home-stat {
   width: 100%;
   align-self: center;
@@ -3697,7 +3705,13 @@ div.mapboxgl-popup-content .project__details {
   border-bottom: 1px solid $border-color;
   padding: 27px 0 34px;
   @media (max-width: $screen-sm) {
-    width: calc(50% - 17px)
+    width: calc(50% - 17px);
+    &:not(:nth-child(3n)) {
+      border-top:none;
+    }
+     &:nth-child(1) {
+      border-top: 1px solid $border-color; 
+    } 
   }
   p {
     text-align: center;
