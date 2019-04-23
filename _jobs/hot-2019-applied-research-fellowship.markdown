@@ -1,7 +1,7 @@
 ---
 title: HOT 2019 Applied Research Fellowship
 date: 2019-04-23 21:18:00 Z
-Deadline Date: 2019-05-17 00:00:00 Z
+Deadline Date: 2019-05-23 23:59:00 Z
 Place of Work: Uganda, Tanzania, and/or Liberia
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSek0umsu6RaTrYWIfGsq0405G4rgsobHx81YHFAj5Y3S2vHJw/
 ---
