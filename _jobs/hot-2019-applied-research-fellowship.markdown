@@ -6,24 +6,24 @@ Place of Work: Uganda, Tanzania, and/or Liberia
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSek0umsu6RaTrYWIfGsq0405G4rgsobHx81YHFAj5Y3S2vHJw/
 ---
 
+## About this Fellowship
 HOT is seeking an Applied Research Fellow (recent graduates, Masters and PhD candidates preferred) to undertake a project in a HOT country location from June-August 2019. HOT has formulated this research opportunity as a way to support our country teams in evaluating the impact of, building the evidence base for, and continuously improving their work. Projects are intended to be co-developed with HOT in such a way that fills an applied knowledge and evidence gap within HOT and provides meaningful experience, contributing to research goals of the Fellow.
 
 ## Research Topic/Country Options (Please select one when applying)
 
 ### Uganda
-HOT has supported the development of open data and the OpenStreetMap ecosystem in Uganda since 2015. OpenStreetMap became integral to the massive refugee response related to the crises in South Sudan and Democratic Republic of Congo in 2017-19. We now need to assess the use and impact of open data across the response, looking at how data is being used by NGOs and government agencies toward the Refugee Response Plan (RRP) and Uganda’s long term development. https://reliefweb.int/sites/reliefweb.int/files/resources/67314.pdf 
+HOT has supported the development of open data and the OpenStreetMap ecosystem in Uganda since 2015. OpenStreetMap became integral to the massive refugee response related to the crises in South Sudan and Democratic Republic of Congo in 2017-19. We now need to assess the use and impact of open data across the response, looking at how data is being used by NGOs and government agencies toward the [Refugee Response Plan (RRP)](https://reliefweb.int/sites/reliefweb.int/files/resources/67314.pdf) and Uganda’s long term development. 
 
 HOT has trained more than a dozen partners in use of OpenStreetMap in Uganda - this project will focus on following up on that training via qualitative and quantitative methods e.g. interviews, gathering information on what innovative uses have emerged & what humanitarian outcomes have improved as a result.
 
-Project Background: https://www.hotosm.org/projects/urban_innovations_crowdsourcing_non-camp_refugee_data 
+[Project Background ](https://www.hotosm.org/projects/urban_innovations_crowdsourcing_non-camp_refugee_data)
 
 ### Tanzania/Liberia
 In both Tanzania and Liberia, HOT has worked to build open geospatial data that supports delivery of basic services, such as effective solid waste management. This research project will develop a case study on how OpenStreetMap data supports this, focusing on effective solid waste management using better data and mapping.
 In Dar es Salaam, research will focus on the collaboration with GreenWaste Pro (& Yoshimi), and how that's been instrumental in supporting private sector execution and improvement of their business model - leading to much more waste being collected and disposed properly, at the end of the day.
 In Liberia (Ganta, Zwedru, and Gbarnga) a combination of service, household and solid waste mapping has been used to inform the three different methods and business models in all three cities we've worked in.
-Project Background:
-https://www.hotosm.org/projects/legit_supporting_decentralization_in_liberian_cities 
 
+[Project Background](https://www.hotosm.org/projects/legit_supporting_decentralization_in_liberian_cities)
 
 ### Tanzania
 
@@ -34,7 +34,7 @@ HOT has worked in Tanzania since 2014 under the Ramani Huria project, focusing o
 * Locally-built drones: How is local tech, local knowledge, and a dose of creativity being used to build “do-it-yourself” drones? We’re looking for help writing up the process and documenting what’s working around control software, use of OpenDroneMap, OpenAerialMap.
 * Soil composition of Dar es Salaam
 
-General Background on HOT in Tanzania: https://www.hotosm.org/where-we-work/tanzania/ 
+[General Background on HOT in Tanzania](https://www.hotosm.org/where-we-work/tanzania/)
 
 ### Requirements
 * Desire to structure a research project around one of these options
