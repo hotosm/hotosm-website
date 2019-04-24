@@ -2,7 +2,7 @@
 title: Uganda
 Contact Person:
   Name: Paul Uithol
-  Title: Director, Community Programs
+  Title: Director of Programs
   Email: paul.uithol@hotosm.org
 Location:
   Location Name: HOT Uganda Offices
