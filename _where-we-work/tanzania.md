@@ -2,16 +2,17 @@
 title: Tanzania
 Contact Person:
   Name: Paul Uithol
-  Title: Director, Community Programs
+  Title: Director of Programs
   Email: paul.uithol@hotosm.org
 Location:
-  Location Name: Tanzania Data Lab (dLab)
+  Location Name: 'OpenMap Development Tanzania
+
+'
   Address: |-
-    New Bagamoyo Road <br>
-    Kijitonyama <br>
-    Dar es Salaam, Coastal, 4023 <br>
-    Tanzania
-  Map Link: https://www.openstreetmap.org/node/5467972321
+    Plot 228, House 15<br/>
+    Lukuledi Street Regent Estate<br/>
+    Mikocheni, Dar es Salaam
+  Map Link: https://www.openstreetmap.org/way/363709398
 continent: AF
 urlname: tanzania
 names:
