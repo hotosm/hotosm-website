@@ -1,5 +1,9 @@
 ---
 title: Liberia
+Contact Person:
+  Name: David Luswata
+  Title: Project Manager
+  Email: david.luswata@hotosm.org
 continent: AF
 urlname: liberia
 names:
@@ -7,9 +11,5 @@ names:
 - Republic of Liberia
 - LR
 - LBR
-Contact Person:
-  Name: David Luswata
-  Title: Country Manager
-  Email: david.luswata@hotosm.org
 ---
 
