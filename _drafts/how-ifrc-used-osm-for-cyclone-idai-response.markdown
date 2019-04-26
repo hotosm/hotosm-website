@@ -1,5 +1,5 @@
 ---
-title: How IFRC used OSM for Cyclone Idai response
+title: How IFRC used maps for Cyclone Idai response
 date: 2019-04-26 10:21:00 Z
 Summary Text: 'How do humanitarians use the data and maps provided by HOT and OpenStreetMap?
   Lauren Bateman, Remote Coordinator for Information Management Team for Cyclone Idai
