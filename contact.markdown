@@ -22,13 +22,8 @@ Office Locations:
     [OpenGov Hub](https://www.openstreetmap.org/node/4489226846)
     1110 Vermont Ave. NW Suite 500
     Washington, D.C. 20005
-  - |-
-    **Indonesia**
-
-    [HOT Indonesia Office](https://www.openstreetmap.org/way/480363603)
-    Jalan Tebet Timur Dalam VII No. 15
-    Tebet, Jakarta 12820
-    Indonesia
+  - "**Indonesia**\n\n[HOT Indonesia Office](https://www.openstreetmap.org/?mlat=-6.2367019057273865&mlon=106.85639351606369#map=19/-6.23670/106.85639)\nJalan
+    Tebet Timur III/i No. 4 \nTebet, Jakarta 12820\nIndonesia"
   - |-
     **Tanzania**
 
