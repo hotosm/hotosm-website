@@ -1,7 +1,7 @@
 ---
 title: Russell Deffner
 date: 2013-12-01 16:40:00 Z
-Photo: "/uploads/RussellDeffner.JPG"
+Photo: "/uploads/russell.jpg"
 Member Type:
   Is Staff: true
   Is Voting Member: true
