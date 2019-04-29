@@ -1,6 +1,7 @@
 ---
-title: How IFRC used maps for Cyclone Idai response
+title: How have maps helped the aid response for Cyclone Idai?
 date: 2019-04-26 10:21:00 Z
+published: false
 Summary Text: 'How do humanitarians use the data and maps provided by HOT and OpenStreetMap?
   Lauren Bateman, Remote Coordinator for Information Management Team for Cyclone Idai
   Response, American Red Cross, talks about how the IFRC used the maps on the ground
