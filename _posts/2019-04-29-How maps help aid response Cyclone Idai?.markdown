@@ -1,5 +1,5 @@
 ---
-title: How do maps help the aid response for Cyclone Idai?
+title: 'Maps in action: How maps help the aid response for Cyclone Idai'
 date: 2019-04-29 15:54:00 Z
 Summary Text: 'How do humanitarians use the data and maps provided by HOT and OpenStreetMap?
   Lauren Bateman, Remote Coordinator for Information Management Team for Cyclone Idai
