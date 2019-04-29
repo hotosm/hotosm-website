@@ -20,7 +20,7 @@ As soon as the Cyclone happened on 14th March 2019, I first talked with the IFRC
 IFRC has a globally dispersed team of information managers and GIS folks who make maps, data clean and make mobile data collection forms, so I coordinated that team of people to make sure we get the Team Leader the information he needs, when he needs it.
 
 ![CycloneIdai-map-blue.jpg](/uploads/CycloneIdai-map-blue.jpg)
-*Map of all the contributions to OpenStreetMap for Cyclone Idai*
+*Map of contributions to OpenStreetMap for Cyclone Idai*
 
 We start by going to the places we know the data exists in these contexts. We begin with OpenStreetMap (OSM) as our base map - it’s our go to and we build everything else off of it. Complementary data sets are then found and added from other places, such as HDX and humanitarianresponse.info. The next step, I’ll work with the mapper to decide how we want to present the data, what story we want to tell, and how the information can answer the questions we’ve been asked.
 
