@@ -1,7 +1,8 @@
 ---
-title: "User Experience Discovery with the Tasking Manager"
+title: User Experience Discovery with the Tasking Manager
 date: 2019-04-30 10:00:00 Z
-Summary Text: "Conducting design research to evaluate mapping and validation workflows within the Tasking Manager."
+Summary Text: Conducting design research to evaluate mapping and validation workflows
+  within the Tasking Manager.
 Feature Image: "/uploads/major-mapping-userflow.png"
 Person: Leihla Pinho
 Working Group:
