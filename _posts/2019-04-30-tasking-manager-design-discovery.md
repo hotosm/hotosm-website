@@ -7,6 +7,8 @@ Feature Image: "/uploads/major-mapping-userflow.png"
 Person: Leihla Pinho
 Working Group:
 - Technical
+Project:
+- 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
 ---
 
 _Guest post by Leihla Pinho from [Major](http://wegomajor.com/)_
