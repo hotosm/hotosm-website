@@ -24,9 +24,23 @@ To begin all of this work, we started with identifying what we wanted to underst
 
 We were interested in how users choose a project over another. And how they select specific tasks. And what are the factors that drive the persons to take these decisions? And then to come up with recommendations to improve the Tasking Manager’s interaction with the users.
 
+## Usability Analysis
+
+![usability](/uploads/major-usability.jpg)
+*Website usability review*
+
+We started by performing a [usability analysis](https://invis.io/TAQL0SMCXH3) where we looked at individual pages and flows to understand how easy they are to use if they follow best practices and standards and if they ultimately help users achieve their goals. We looked at usability heuristics like the visibility of system status, user control and freedom, consistency and standards, flexibility and efficiency and also aesthetics in order to look for improvement points.
+
+Key Findings:
+
+* There is a lack of system feedback and error prevention
+* Tasking Manager is not following new HOT style guidelines yet
+* Lack of affordance and content overload, especially in project pages when presented to new mappers
+* There are too many buttons competing for attention, making it harder for users to know where they should click next
+
 ## User Flow Analysis
 
-A user flow is the path and steps taken by a user to complete a task. After our initial research, we focused our analysis on four [key processes](https://invis.io/TVRRBVF7DKW) within the Tasking Manager:
+After our initial research, we focused our analysis on user flows within the Tasking Manager. A user flow is the path and steps taken by a user to complete a task. While we are focused on mapping and validation flows, we looked a four key user flows in the Tasking Manager: 
 
 1. [On-boarding](https://projects.invisionapp.com/share/W3Q5Q01MYNE#/screens/342897260) of new users (how users join the Tasking Manager)
 2. [Mapping a task](https://projects.invisionapp.com/share/W3Q5Q01MYNE#/screens/342897259) (choosing a project and a task, mapping and marking as complete)
@@ -55,20 +69,6 @@ While there are many similar findings as to the ones of the mapping workflow, so
 * The onboarding process is quite long and time-consuming
 * There are too many steps needed to achieve the main action (map or validate)
 * It is not always obvious what the user needs to do in order to achieve his goal during the workflow
-
-## Usability Analysis
-
-![usability](/uploads/major-usability.jpg)
-*Website usability review*
-
-We also performed a [usability analysis](https://invis.io/TAQL0SMCXH3) where we looked at individual pages and flows to understand how easy they are to use if they follow best practices and standards and if they ultimately help users achieve their goals. We looked at usability heuristics like the visibility of system status, user control and freedom, consistency and standards, flexibility and efficiency and also aesthetics in order to look for improvement points.
-
-Key Findings:
-
-* There is a lack of system feedback and error prevention
-* Tasking Manager is not following new HOT style guidelines yet
-* Lack of affordance and content overload, especially in project pages when presented to new mappers
-* There are too many buttons competing for attention, making it harder for users to know where they should click next
 
 ## What’s next?
 
