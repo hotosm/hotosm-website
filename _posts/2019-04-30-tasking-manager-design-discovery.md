@@ -40,7 +40,7 @@ Key Findings:
 
 ## User Flow Analysis
 
-After our initial research, we focused our analysis on user flows within the Tasking Manager. A user flow is the path and steps taken by a user to complete a task. While we are focused on mapping and validation flows, we looked a four key user flows in the Tasking Manager: 
+After our initial research, we focused our analysis on user flows within the Tasking Manager. A user flow is the path and steps taken by a user to complete a task. While we are focused on mapping and validation flows, we looked at four key user flows in the Tasking Manager: 
 
 1. [On-boarding](https://projects.invisionapp.com/share/W3Q5Q01MYNE#/screens/342897260) of new users (how users join the Tasking Manager)
 2. [Mapping a task](https://projects.invisionapp.com/share/W3Q5Q01MYNE#/screens/342897259) (choosing a project and a task, mapping and marking as complete)
@@ -54,7 +54,7 @@ Within each user flow, we looked at the actions the user has to take, where the 
 
 ### Mapping user flow key challenge 
 
-One of the strongest challenges, which we have been identified is the jump to the iD editor when starting to map, which confused a lot of users. Then, whether to know or not that they have to save and report back on their work on both platforms, the iD editor and the Tasking Manager, is one of the biggest bottlenecks and causes for users’ unpleasant experience.
+One of the strongest challenges, which we have identified is the jump to the iD editor when starting to map, which confused a lot of users. Then, whether to know or not that they have to save and report back on their work on both platforms, the iD editor and the Tasking Manager, is one of the biggest bottlenecks and causes for users’ unpleasant experience.
 
 ![user-flow](/uploads/major-validation-userflow.png)
 *Validation user flow analysis document*
