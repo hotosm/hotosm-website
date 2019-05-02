@@ -9,6 +9,9 @@ Country:
 - Nicaragua
 Impact Area:
 - Transportation
+Follow this community:
+- title: Website
+- link: https://www.mapanica.net
 Micrograntee: true
 Link: https://www.mapanica.net
 ---
