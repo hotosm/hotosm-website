@@ -8,6 +8,9 @@ Feature Image: "/uploads/CCDRP4.jpg"
 Is Community-Led: true
 Country:
 - Puerto Rico
+Impact Area:
+- Disaster Risk Reduction
+- Disaster Response
 ---
 
 **2019 Microgrant**
