@@ -3,6 +3,11 @@ title: YMCA Computer Training Centre and Digital Studio (YPlus) - Mapping Local 
 date: 2019-05-02 09:45:00 Z
 Project Summary Text: Engaging youth to map ecotourism sites in the West Coast Region
   and Central River Region of The Gambia
+Is Community-Led: true
+Country:
+- Gambia
+Impact Area:
+- Environment
 ---
 
 The Gambia YMCA’s Computer Training Centre and Digital Studio started operations in late 1995. The Centre is supporting education through ICT programs with the goal of empowering youth, engaging them in activities that will help them develop positive outcomes to achieve greater future, and also providing needed professional development for teachers.
