@@ -1,5 +1,5 @@
 ---
-title: YMCA Computer Training Centre and Digital Studio (YPlus) - Mapping Local Ecotourism
+title: YMCA Gambia - Mapping Local Ecotourism
 date: 2019-05-02 09:45:00 Z
 Project Summary Text: Engaging youth to map ecotourism sites in the West Coast Region
   and Central River Region of The Gambia
