@@ -36,6 +36,18 @@ HOT has worked in Tanzania since 2014 under the Ramani Huria project, focusing o
 
 [General Background on HOT in Tanzania](https://www.hotosm.org/where-we-work/tanzania/)
 
+### Tanzania
+
+As part of the USAID Women Connect Challenge, HOT is supporting Crowd2Map, a mapping community working put rural communities of Tanzania on the map to prevent and respond to gender based violence, particularly Female Genital Mutilation (FGM). As part of the Women Connect Challenge, Crowd2Map has been training women to use technology and simple mapping tools, such as Maps.Me, to put their community on the map.
+
+As part of this program, HOT is looking to better understand:
+
+* What is the larger technology landscape within Tanzania, and how are women either included or excluded from technology access and usage? What are the positive and negative implications of women using technology?
+* What is the connection between mapping & FGM in Tanzania? Are women finding out about mapping which increases their awareness of FGM, or are women engaged already in FGM advocacy and response and then finding out about mapping and using it in their work? 
+* What are the larger benefits of connecting women to technology (on society, on women's confidence levels, etc.) 
+
+[General Background on Crowd2Map](https://www.hotosm.org/projects/crowd2map-tanzania)
+
 ### Requirements
 * Desire to structure a research project around one of these options
 * Enrolled in a related degree program with a faculty advisor OR able to structure an independent research project with the support of a research institution
