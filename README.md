@@ -33,5 +33,10 @@ bundle exec jekyll serve -- --livereload
 
 Finally, navigate to http://127.0.0.1:4000/ and you should see the new website!
 
+## Key pages & script/data dependencies
+
+![Website](https://user-images.githubusercontent.com/12103383/55768572-96f22280-5aa7-11e9-998d-9667f5d3a7dc.png)
+
+
 ## Website issues
 Please use the issue tracker at https://github.com/hotosm/hotosm-website/issues to report bugs, develop ideas, ask questions or give feedback. Thank you!
