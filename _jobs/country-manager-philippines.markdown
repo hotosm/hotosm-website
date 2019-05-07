@@ -46,21 +46,21 @@ HOT typically works with a range of international and national partners (both go
 * Care deeply about the mission: passionate about humanitarian / development work demonstrated through prior professional or volunteer experiences.
 * Fluent in written and spoken English.
 * Experience working with governments and in the international humanitarian system, preferably on Disaster Risk Management and Reduction projects.
-*University or college degree in international development, public health, GIS, Disaster Risk Management, urban planning, or a related field.
-*A least 5 years experience working in development cooperation and donor funded projects involving digital development, of which 3 years must be in management positions.
-*Experience managing project budgets of $200,000 USD and greater.
-*Excellent analytical skills, and able to prioritize and meet deadlines.
-*Excellent team management skills in managing and coordinating groups of people, including speaking and training sessions.
-*Experience designing and carrying out community mapping exercises, including: collecting data, using OpenStreetMap, teaching data quality assurance, collaborating with various stakeholders, and building capacity in partner organizations.
-*Experience in data analysis and information management.
-*Experience in participatory data collection, preferably using mobile, digital data collection tools such as Kobo, OpenDataKit, and OpenMapKit.
-*Experience developing self-sufficient and sustainable community groups, including developing technical skillsets.
-*Demonstrated cultural competency including experience working in a developing country context.
-*Demonstrated leadership, versatility, and integrity.
-*Demonstrated understanding of open source culture and ethos across cultural contexts.
-*Ability to solve practical problems and react quickly and calmly to changing or emergency circumstances.
-*Willingness to live and work in a challenging environment with limited amenities .
-*Able to travel 100% and be deployed/stationed in countries of operation.
+* University or college degree in international development, public health, GIS, Disaster Risk Management, urban planning, or a related field.
+* A least 5 years experience working in development cooperation and donor funded projects involving digital development, of which 3 years must be in management positions.
+* Experience managing project budgets of $200,000 USD and greater.
+* Excellent analytical skills, and able to prioritize and meet deadlines.
+* Excellent team management skills in managing and coordinating groups of people, including speaking and training sessions.
+* Experience designing and carrying out community mapping exercises, including: collecting data, using OpenStreetMap, teaching data quality assurance, collaborating with various stakeholders, and building capacity in partner organizations.
+* Experience in data analysis and information management.
+* Experience in participatory data collection, preferably using mobile, digital data collection tools such as Kobo, OpenDataKit, and OpenMapKit.
+* Experience developing self-sufficient and sustainable community groups, including developing technical skillsets.
+* Demonstrated cultural competency including experience working in a developing country context.
+* Demonstrated leadership, versatility, and integrity.
+* Demonstrated understanding of open source culture and ethos across cultural contexts.
+* Ability to solve practical problems and react quickly and calmly to changing or emergency circumstances.
+* Willingness to live and work in a challenging environment with limited amenities .
+* Able to travel 100% and be deployed/stationed in countries of operation.
 
 ### Additional desirable skills
 
