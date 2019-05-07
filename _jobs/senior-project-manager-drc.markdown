@@ -6,7 +6,7 @@ Place of Work: Democratic Republic of Congo
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd_YNivHVky9oLDOtrtyrfuUjufv2g8atSaEjEObi3QCshD6A/viewform
 ---
 
-**Contract duration: ** 12 months, with possible extension for 6 months
+**Contract duration:** 12 months, with possible extension for 6 months
 
 **Location/Duty Station:** Democratic Republic of Congo (DRC), likely in the Goma area
 
