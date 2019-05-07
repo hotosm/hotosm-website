@@ -7,8 +7,11 @@ Apply Form Link: https://docs.google.com/forms/u/1/d/e/1FAIpQLScLI9Aotk_MsNA-skF
 ---
 
 **Contract duration:** 12 months
+
 **Location/Duty Station:** Philippines
+
 **Projected start date:** Mid 2019
+
 **Reports to:** Director of Programs
 
 ## About HOT
