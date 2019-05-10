@@ -38,6 +38,6 @@ Here’s to better maps, everywhere.
 
 Rebecca Firth, HOT & Edoardo Neerhut, Mapillary
 
-## Submissions now being accepted
+**## Submissions now being accepted**
 
-Submissions for organizations that would like to take part in the #map2020 campaign are now being accepted. Read through the project requirements and submit your intention to participate by [visiting Mapillary's website](https://www.mapillary.com/map2020).**
+**Submissions for organizations that would like to take part in the #map2020 campaign are now being accepted. Read through the project requirements and submit your intention to participate by [visiting Mapillary's website](https://www.mapillary.com/map2020).**
