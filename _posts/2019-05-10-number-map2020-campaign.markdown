@@ -13,7 +13,7 @@ Person: Rebecca Firth
 
 **This article was also published on [Mapillary](https://blog.mapillary.com/update/2019/05/09/launching-map-2020.html) and [GeoAwesomeness](https://t.co/Hy1RA69HH6)**
 
-## Map data saves lives.
+## Map data saves lives
 
 There are few places where this is more evident than where street scenes change dramatically as a result of a natural disaster, or where maps are outdated or otherwise lacking in information. Without maps it becomes a lot harder to get medical assistance to those in need, infrastructure planning and maintenance becomes impossible, and disaster resilience efforts are hampered.
 
@@ -23,6 +23,7 @@ Despite this, a significant portion of the world’s population lives in areas l
 
 
 ## Building better maps, together
+
 Street-level imagery is an important asset for all mapmakers as it provides a detailed view of the situation on the ground. Map data is easily extracted from street-level images by humans, and when the imagery is uploaded to Mapillary, computer vision takes that to the next level by detecting and extracting map data from the imagery at scale. 
 
 With #map2020 we’re inviting local mappers to make street-level imagery an integrated part of their map data collection from the get-go. By capturing imagery with Mapillary, the data will be accessible to anyone who might need it and, as per Mapillary’s commitment to OpenStreetMap, it will remain freely available for editing and improving OpenStreetMap.
@@ -38,4 +39,5 @@ Here’s to better maps, everywhere.
 Rebecca Firth, HOT & Edoardo Neerhut, Mapillary
 
 ## Submissions now being accepted
+
 Submissions for organizations that would like to take part in the #map2020 campaign are now being accepted. Read through the project requirements and submit your intention to participate by [visiting Mapillary's website](https://www.mapillary.com/map2020).**
