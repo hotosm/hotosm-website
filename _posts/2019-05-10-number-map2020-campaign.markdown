@@ -2,13 +2,11 @@
 title: "#map2020: A campaign to accelerate critical map data collection for humanitarian
   challenges"
 date: 2019-05-10 07:58:00 Z
-Summary Text: "[Mapillary ](https://www.mapillary.com/) and Humanitarian OpenStreetMap
-  Team are joining forces to accelerate map data collection in undermapped regions.
-  Local mappers are invited to use street-level imagery in mapping projects that address
-  humanitarian or developmental challenges. Two of the projects submitted to the #map2020
-  campaign will be selected for a fully-funded trip to [HOT Summit](https://summit.hotosm.org/)
-  in Heidelberg, Germany this September. Learn more and apply by [visiting Mapillary's
-  website](https://www.mapillary.com/map2020).**"
+Summary Text: 'Mapillary and HOT are joining forces to accelerate map data collection
+  in undermapped regions. Local mappers are invited to use street-level imagery in
+  mapping projects that address humanitarian or developmental challenges. Two of the
+  projects submitted to the #map2020 campaign will be selected for a fully-funded
+  trip to the HOT Summit in Heidelberg, Germany this September.'
 Feature Image: "/uploads/20180903_141952.jpg"
 Person: Rebecca Firth
 ---
@@ -17,9 +15,9 @@ Person: Rebecca Firth
 
 **Map data saves lives.** There are few places where this is more evident than where street scenes change dramatically as a result of a natural disaster, or where maps are outdated or otherwise lacking in information. Without maps it becomes a lot harder to get medical assistance to those in need, infrastructure planning and maintenance becomes impossible, and disaster resilience efforts are hampered.
 
-Despite this, a significant portion of the world’s population lives in areas lacking detailed and up-to-date maps. The 20º north of the equator and 20º south of the equator are particularly in need of more accurate maps. That’s why Mapillary and Humanitarian OpenStreetMap Team are joining forces and launching #map2020, a new campaign for using street-level imagery and computer vision to fill in the missing maps.
+Despite this, a significant portion of the world’s population lives in areas lacking detailed and up-to-date maps. The 20º north of the equator and 20º south of the equator are particularly in need of more accurate maps. That’s why [Mapillary](https://www.mapillary.com/) and HOT are joining forces and launching #map2020, a new campaign for using street-level imagery and computer vision to fill in the missing maps.
 
-#map2020 invites local mappers to submit mapping projects that use street-level imagery and collected map data for humanitarian purposes. By submitting mapping projects, mappers of the two most successful projects will be offered a fully-funded trip to HOT Summit in Heidelberg, Germany, where they will present their projects and findings to the international humanitarian mapping community.
+#map2020 invites local mappers to submit mapping projects that use street-level imagery and collected map data for humanitarian purposes. By submitting mapping projects, mappers of the two most successful projects will be offered a fully-funded trip to the [HOT Summit](http://summit2019.hotosm.org) in Heidelberg, Germany, where they will present their projects and findings to the international humanitarian mapping community.
 
 **Building better maps, together**
 Street-level imagery is an important asset for all mapmakers as it provides a detailed view of the situation on the ground. Map data is easily extracted from street-level images by humans, and when the imagery is uploaded to Mapillary, computer vision takes that to the next level by detecting and extracting map data from the imagery at scale. 
