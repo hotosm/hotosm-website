@@ -1,7 +1,7 @@
 ---
 title: Finance Associate/Accountant
 date: 2019-05-13 20:23:00 Z
-Deadline Date: 2019-05-28 00:00:00 Z
+Deadline Date: 2019-06-04 00:00:00 Z
 Place of Work: Remote (Washington, D.C.)
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfLaibViQqDoWjKKTPy_Tqre0hBLH3SVFljdaZoYRXRIzHayg/viewform
 ---
