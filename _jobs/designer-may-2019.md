@@ -1,5 +1,5 @@
 ---
-title: "Designer - Part-time"
+title: Designer - Part-time
 date: 2019-05-13 05:00:00 Z
 Deadline Date: 2019-05-31 23:59:00 Z
 Place of Work: Remote
