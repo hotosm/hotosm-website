@@ -3,7 +3,7 @@ title: Rupert Allan
 date: 2017-10-27 18:18:00 Z
 Photo: "/uploads/Rupert_headshot.jpg"
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Country Manager
 Working Group:
 - Community
