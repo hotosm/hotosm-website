@@ -40,7 +40,7 @@ HOT develops and maintains over [ten open source tools](https://github.com/hotos
 * Experience designing web applications for an international community of users. Proven experience designing products with teams.
 * Highly skilled in HTML and CSS
 * Attention to detail in any work you share -- prototypes, wireframes, designs have a high attention to detail.
-I* An excellent communicator. Ability to show empathy through online communication and an ability to explain your thought process and how you developed your work. 
+* An excellent communicator. Ability to show empathy through online communication and an ability to explain your thought process and how you developed your work. 
 * Experience facilitating design reviews and feedback sessions.
 * Fluent in English
 * Bachelor’s degree or higher
