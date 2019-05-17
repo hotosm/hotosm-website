@@ -18,14 +18,12 @@ Community Grants Description: Each year HOT mobilizes resources through communit
   grants to support local OSM communities. Find out more about the communities that
   have received grants and the work they have done.
 Event Promo:
-  Event Name: HOT Summit at FOSS4G2018
+  Event Name: HOT Summit 2019
   Image: "/uploads/hot-summit-group-wave.jpg"
   Description: |-
-    HOT and FOSS4G have joined forces to bring you the GIS and humanitarian mapping event of the year in Dar es Salaam, Tanzania. HOT will sponsor and lead a conference track on Widening Access & Humanitarian Mapping, in addition to opportunities to join code sprints, field visits with the Ramani Huria mapping project, two workshop days (available as an add-on to your registration) and much more!
-
-    **Karibu Sana!**
-  Button: Register for FOSS4G 2018
-  URL: http://2018.foss4g.org/
+    On September 19-20, 2019 HOT will convene for a global community meeting. The entire HOT community will come together to showcase projects, discuss and share ideas, and learn how mapping projects can have impact on the lives beyond the people mapping and create better disaster and development outcomes. 
+  Button: Register for HOT Summit 2019
+  URL: https://www.eventbrite.com/e/hot-summit-2019-heidelberg-germany-tickets-60315779119
 Finances:
   Text: |-
     HOT is a global not-for-profit organization registered in the United States of America.
