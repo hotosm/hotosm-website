@@ -2897,20 +2897,18 @@ div.mapboxgl-popup.mapboxgl-popup-anchor-bottom {
 
 .mapboxgl-map .mapboxgl-popup {
   position:absolute;
+  top:70px;
   left:10px;
   transform:none !important;
-  width:auto;
-  @media (max-width: 415px) {
-   top:70px;
+  width:55%;
+  @media (min-width: 320px) {
+    top:90px; 
+    left:0px;  
   }
-  @media (max-width: 767px) {
-   top:90px; 
-   left:0px;
-   width: 40%;
-  }
-  @media (max-width: $screen-md) {
-   width: 33%;
-  }
+  @media (min-width: 768px) {
+    top:24px;
+    width: 33%;
+  } 
 }
 
 .mapboxgl-map .mapboxgl-popup-tip {
