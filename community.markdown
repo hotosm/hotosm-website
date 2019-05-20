@@ -21,7 +21,9 @@ Event Promo:
   Event Name: HOT Summit 2019
   Image: "/uploads/hot-summit-group-wave.jpg"
   Description: |-
-    On September 19-20, 2019 HOT will convene for a global community meeting. The entire HOT community will come together to showcase projects, discuss and share ideas, and learn how mapping projects can have impact on the lives beyond the people mapping and create better disaster and development outcomes. 
+    On September 19-20, 2019 HOT will convene for a global community meeting. The entire HOT community will come together to showcase projects, discuss and share ideas, and learn how mapping projects can have impact on the lives beyond the people mapping and create better disaster and development outcomes.
+
+    Check out the program on <a href="https://summit2019.hotosm.org">summit2019.hotosm.org</a>
   Button: Register for HOT Summit 2019
   URL: https://www.eventbrite.com/e/hot-summit-2019-heidelberg-germany-tickets-60315779119
 Finances:
