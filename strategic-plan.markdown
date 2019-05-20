@@ -11,4 +11,5 @@ Page Link:
   Link: https://www.hotosm.org/updates/2018-04-10_update_on_hot%E2%80%99s_strategic_planning_process
 ---
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSOjJ9uuyUrexxuZX3_thHR03hZAe8OYNasMfGyoq5OhQpkEl8B3yVZ0NMJSLfRhbEvP_SRHL0u5qfW/pub?embedded=true"></iframe>
+<iframe width="100%" height="800px
+src="https://docs.google.com/document/d/e/2PACX-1vSOjJ9uuyUrexxuZX3_thHR03hZAe8OYNasMfGyoq5OhQpkEl8B3yVZ0NMJSLfRhbEvP_SRHL0u5qfW/pub?embedded=true"></iframe>
