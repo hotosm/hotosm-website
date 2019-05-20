@@ -2728,6 +2728,19 @@ border: 2px solid black;
   }
 }
 
+#project-details{
+  position: absolute;
+  top: 24px;
+  background-color: transparent; 
+  box-shadow: 0px 2px 10px rgba(0,0,0,0);
+  @media (max-width: 798px){
+    display: none;
+  }
+  @media (max-width: $screen-md){
+    width: 70%;
+  } 
+}
+
 #country-legend-details, #project-legend-details {
   position: absolute;
   right: 40px;
