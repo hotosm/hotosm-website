@@ -16,6 +16,8 @@ HOT has supported the development of open data and the OpenStreetMap ecosystem i
 
 HOT has trained more than a dozen partners in use of OpenStreetMap in Uganda - this project will focus on following up on that training via qualitative and quantitative methods e.g. interviews, gathering information on what innovative uses have emerged & what humanitarian outcomes have improved as a result.
 
+The purpose for this impact evaluation is to better understand the extent to which OSM data and Open Source tools like have been incorporated in the trained government and NGO planning and strategizing workflows, how OSM data and tools have  improved community and national resilience, and how OSM data and tools have impacted the Refugee Response Coordination and planning in Uganda.
+
 [Project Background ](https://www.hotosm.org/projects/urban_innovations_crowdsourcing_non-camp_refugee_data)
 
 ### Tanzania/Liberia
