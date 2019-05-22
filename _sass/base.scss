@@ -2731,6 +2731,7 @@ border: 2px solid black;
 #project-details{
   position: absolute;
   top: 24px;
+  left: 5px;
   background-color: transparent; 
   box-shadow: 0px 2px 10px rgba(0,0,0,0);
   @media (max-width: 798px){
@@ -2749,6 +2750,13 @@ border: 2px solid black;
     display: none;
   }
 }
+
+#project-legend-details {
+  margin-left: 5px;
+  @media (min-width: 768px) {
+    margin-left: 0px;
+  }
+ }
 
 .flybtn-holder {
   display: flex;
