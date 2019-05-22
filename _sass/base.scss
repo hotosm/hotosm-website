@@ -1815,8 +1815,16 @@ em {
   }
 }
 
+.sticky {  
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    z-index: 1000;
+}
+
 .nav-mobile-links-wrapper {
   padding: 0 16px;
+  background-color : $white;
   @media (min-width: $screen-sm) {
     display: none;
   }
@@ -1825,11 +1833,16 @@ em {
 .nav-mobile-links {
   border-top: 1px solid $border-color;
   border-bottom: 1px solid $border-color;
+  .hr-v{
+    width: 1px;
+    background-color: shade($border-color, 10%);
+    margin: 5px 5px 5px 5px; 
+  }
   .nav-group {
     display: flex;
     justify-content: space-between;
     a {
-      padding: 13px 0 14px;
+      padding: 13px 10px 14px 10px;
       font-size: 0.9375rem;
       &.donate {
         font-weight: bold;
@@ -1845,6 +1858,7 @@ em {
   display: block;
   width: 72px;
   height: 40px;
+  cursor: pointer;
   background-image: url(../images/icon-nav.svg);
   background-position: center center;
   background-repeat: no-repeat;
@@ -5006,12 +5020,12 @@ sup {
     position: absolute;
     top: -20px;
   }
-  @media (max-width: $screen-sm) {
+  @media (max-width: $screen-xs) {
     padding: 60px 16px 16px;
     h2 {
       font-size: 1.75rem;
-      position: absolute;
-      top: -16px;
+      position: relative;
+      top: -30px;
     }
   }
 }
@@ -5061,7 +5075,7 @@ sup {
     grid-column: span 3;
     padding: 132px 32px 32px;
     @media (max-width: $screen-xs) {
-      padding: 68px 16px 16px;
+      padding: 16px 16px 16px;
     }
   }
   .newsletter-description {

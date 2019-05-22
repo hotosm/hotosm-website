@@ -1,6 +1,8 @@
 <div class="nav-mobile">
   <div class="nav-mobile-header">
-    <a class="nav-mobile-logo" href="/"><img src="{{ '/images/hot-logo.svg' | prepend: site.baseurl }}"></a>
+    <div class="nav-mobile-logo">
+      <a href="/"><img src="{{ '/images/hot-logo.svg' | prepend: site.baseurl }}"></a>
+    </div>
     <a id="nav-anchor"></a>
   </div>
 </div>
@@ -41,14 +43,19 @@
   </div>
 </div>
 
-<div class="nav-mobile-links-wrapper">
+<div class="nav-mobile-links-wrapper sticky">
   <div class="nav-mobile-links">
+  
     <div class="nav-group">
-      <a href="/what-we-do">What we do</a>
+      <a  href="/what-we-do">What we do</a>
+      <span class="hr-v"></span>
       <a href="/our-work">Our work</a>
-      <a href="/get-involved">Get Involved</a>
+      <span class="hr-v"></span>
+      <a  href="/get-involved">Get Involved</a>
+      <span class="hr-v"></span>
       <a href="/donate" class="donate">Donate</a>
     </div>
+  
   </div>
 </div>
 
