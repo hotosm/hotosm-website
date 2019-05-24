@@ -1,32 +1,41 @@
-var allProjects = {}
-var projectList = []
-const proxyUrl = "https://cors-anywhere.herokuapp.com/"
-const driveUrl = "https://drive.google.com/uc?export=download&id="
-var totalArea = 0, totalEdits = 0, totalMappers = 0
-var totalRoads = 0, totalBuildings = 0, totalChangesets = 0
+var allProjects = {};
+var projectList = [];
+const proxyUrl = "https://cors-anywhere.herokuapp.com/";
+const driveUrl = "https://drive.google.com/uc?export=download&id=";
+var totalArea = 0, totalEdits = 0, totalMappers = 0;
+var totalRoads = 0, totalBuildings = 0, totalChangesets = 0;
+var bboxCoordinatesArray = [];
+var index = 0;
+var fitBoundsOptions = {
+  padding: 50,
+  maxZoom: 14.15,
+  duration: 2000
+};
+
 var options = {
   headers: {
     'Accept': 'application/json',
     'Accept-Language': 'en'
   }
-}
+};
 var tmProjectCentroids = {
   'type': 'FeatureCollection',
   'features': []
-}
+};
 
 var tmProjectPolygons = {
   'type': 'FeatureCollection',
   'features': []
-}
+};
 
-campaignTags = campaignTags.split(',')
-var countryList = countries.split(',')
+campaignTags = campaignTags.split(',');
+var countryList = countries.split(',');
 countryList.forEach((country, countryIndex) => {
   countryList[countryIndex] = country.trim().toLowerCase()
-})
+});
 
-mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA'
+mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
+
 var map = new mapboxgl.Map({
   container: 'map',
   logoPosition: 'bottom-left',
@@ -37,18 +46,23 @@ var map = new mapboxgl.Map({
   zoom: 1.25,
   center: [0, 8],
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
-})
+});
+
+var popup = new mapboxgl.Popup({
+  closeButton: false,
+  closeOnClick: false
+});
 
 const loadMapLayers = () => {
   if (tmProjectCentroids.features.length > 0) {
     map.addSource('tmProjectPolygons', {
       'type': 'geojson',
       'data': tmProjectPolygons
-    })
+    });
     map.addSource('tmProjectCentroids', {
       'type': 'geojson',
       'data': tmProjectCentroids
-    })
+    });
     map.addLayer({
       'id': 'tm-projects-polygons',
       'type': 'fill',
@@ -59,26 +73,26 @@ const loadMapLayers = () => {
         'fill-opacity': 0.2,
         'fill-color': '#000000'
       }
-    }, 'place-city-sm')
+    }, 'place-city-sm');
 
     map.addLayer({
       'id': 'tm-projects-black-circle',
       'type': 'circle',
       'source': 'tmProjectCentroids',
-      'minzoom': 0,
+      'minzoom': 7,
       'maxzoom': 19,
       'paint': {
         'circle-radius': 5,
         'circle-opacity': 0.7,
         'circle-color': '#000000'
       }
-    }, 'place-city-sm')
+    }, 'place-city-sm');
 
     map.addLayer({
       'id': 'tm-projects-symbol',
       'type': 'symbol',
       'source': 'tmProjectCentroids',
-      'minzoom': 0,
+      'minzoom': 7,
       'maxzoom': 19,
       'layout': {
         'text-field': '+',
@@ -89,64 +103,57 @@ const loadMapLayers = () => {
       'paint': {
         'text-color': '#FFFFFF'
       }
-    }, 'place-city-sm')
-    
-    document.getElementById('Project-Area').innerHTML = formatedData(Math.round(totalArea))
-    document.getElementById('Total-Map-Edits').innerHTML = formatedData(Math.round(totalEdits))
-    document.getElementById('Community-Mappers').innerHTML = formatedData(Math.round(totalMappers))
-    document.getElementById('Countries-Covered').innerHTML = countryList.length
-    map.on('mousemove', function (e) {
-      var features = map.queryRenderedFeatures(
-        [e.point.x, e.point.y],
-        {layers: ['tm-projects-black-circle', 'tm-projects-symbol']}
-      )
-      if (features.length) {
-        map.getCanvas().style.cursor = 'pointer'
-        $('#hover-details').empty()
-        $('#hover-details').removeClass('hide')
-        $('#hover-details').append(
-          '<p class="hover-name">' +
-          '<a target="_blank" href="https://tasks.hotosm.org/project/' +
-          features[0].properties.id +
-          '">#' + features[0].properties.id + '</a>' +
-            ' - ' +
-            features[0].properties.name + '</p>' +
-            '<p id="proj-details">Click on the project to see more details</p>'
+    }, 'place-city-sm');
 
-        )
-      } else {
-        map.getCanvas().style.cursor = ''
-      }
-    })
+    document.getElementById('Project-Area').innerHTML = formatedData(Math.round(totalArea));
+    document.getElementById('Total-Map-Edits').innerHTML = formatedData(Math.round(totalEdits));
+    document.getElementById('Community-Mappers').innerHTML = formatedData(Math.round(totalMappers));
+    document.getElementById('Countries-Covered').innerHTML = countryList.length;
+
+    map.on('mousemove', function (e) {
+      var features = map.queryRenderedFeatures(e.point, {
+        layers: ['tm-projects-black-circle', 'tm-projects-symbol']
+      });
+
+      map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
+    });
+
     map.on('click', function (e) {
-      var features = map.queryRenderedFeatures(
-        [e.point.x, e.point.y],
-        {layers: ['tm-projects-black-circle', 'tm-projects-symbol']}
-      )
-      if (features.length) {
-        $('#proj-details').empty()
-        $('#proj-details').append(
-          '<p style="font-weight:bold" id = "details-mappers">Mappers: ' + formatedData(features[0].properties.mappers) + '</p>' +
-          '<p style="font-weight:bold" id= "details-edits">Edits: ' + formatedData(features[0].properties.edits) + '</p>'
-        )
+      var features = map.queryRenderedFeatures(e.point, {
+        layers: ['tm-projects-black-circle', 'tm-projects-symbol']
+      });
+
+      if (!features.length) {
+        return;
       }
-    })
+
+      var feature = features[0];
+
+      displayPopupOnClick(feature);
+    });
   }
-  var projectExtentJSON
-  const downloadUrl = proxyUrl + driveUrl + fileId
+
+  var projectExtentJSON;
+  const downloadUrl = proxyUrl + driveUrl + fileId;
   $.get(downloadUrl, function (data) {
-    projectExtentJSON = JSON.parse(data)
-    var bbox = turf.bbox(projectExtentJSON.features[0])
-    // set bounds according to features
-    map.fitBounds(bbox, {
-      padding: 50,
-      maxZoom: 14.15,
-      duration: 2000
-    })
+    projectExtentJSON = JSON.parse(data);
+
+    projectExtentJSON.features.forEach(function (feature) {
+      bboxCoordinatesArray.push(turf.bbox(feature));
+    });
+
+    if (bboxCoordinatesArray.length === 1) {
+      setMapView();
+    } else {
+      displayFlyBtn();
+      setMapView();
+      flyToNextArea();
+    }
+
     map.addSource('projectExtent', {
       'type': 'geojson',
       'data': projectExtentJSON
-    })
+    });
     map.addLayer({
       'id': 'project-extent',
       'source': 'projectExtent',
@@ -157,16 +164,52 @@ const loadMapLayers = () => {
         'line-gap-width': 1,
         'line-color': '#000000'
       }
-    }, 'place-city-sm')
+    }, 'place-city-sm');
     $('#loading-map').detach()
   })
 }
 
-map.addControl(new mapboxgl.NavigationControl())
-map.on('mouseleave', function (e) {
-  map.getCanvas().style.cursor = ''
-  $('#hover-details').empty()
-})
+map.addControl(new mapboxgl.NavigationControl());
+
+function setMapView() {
+  map.fitBounds(bboxCoordinatesArray[index], fitBoundsOptions);
+}
+
+function displayFlyBtn() {
+  var flyButton = document.createElement('a');
+  flyButton.id = 'flybtn';
+  flyButton.classList.add('btn', 'btn-primary', 'btn-block', 'btn-chevron');
+  flyButton.textContent = "Zoom to next area";
+  document.querySelector('.flybtn-holder').appendChild(flyButton);
+};
+
+function flyToNextArea() {
+  document.getElementById('flybtn').addEventListener('click', function () {
+    if (index >= bboxCoordinatesArray.length - 1) {
+      index = 0;
+    } else {
+      index++;
+    }
+
+    setMapView();
+    var popUps = document.getElementsByClassName('mapboxgl-popup');
+    if (popUps[0]) popUps[0].remove();
+  });
+}
+
+function displayPopupOnClick(currentFeature) {
+  var popup = new mapboxgl.Popup()
+    .setLngLat(currentFeature.geometry.coordinates)
+    .setHTML('<p class="project__title">' +
+      '<a class="project__title__link" target="_blank" href="https://tasks.hotosm.org/project/' +
+      currentFeature.properties.id +
+      '">#' + currentFeature.properties.id + '</a>' +
+      ' - ' +
+      currentFeature.properties.name + '</p>' +
+      '<p class="project__details">Mappers: ' + formatedData(currentFeature.properties.mappers) + '</p>'
+      + '<p class="project__details">Edits: ' + formatedData(currentFeature.properties.edits) + '</p>')
+    .addTo(map);
+}
 
 if (campaignTags[0] !== '') {
   fetch('/allProjects-minified-v2.json')

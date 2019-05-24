@@ -25,6 +25,7 @@ body {
 .page-content {
   position: relative;
   z-index: 100;
+  overflow: hidden;
 }
 
 h1, h2 {
@@ -2627,6 +2628,12 @@ border: 2px solid black;
   padding-top: 600px;
 }
 
+#hot-stats { 
+  @media (max-width: $screen-xs) {
+    justify-content:center;
+  }
+ }
+
 .our-work-map-legend {
   margin-top: 24px;
   margin-right: 40px;
@@ -2744,13 +2751,18 @@ border: 2px solid black;
   }
 }
 
-#project-details {
+#project-details{
   position: absolute;
-  left: 5px;
   top: 24px;
-  @media (max-width: $screen-xs) {
+  left: 5px;
+  background-color: transparent; 
+  box-shadow: 0px 2px 10px rgba(0,0,0,0);
+  @media (max-width: 798px){
     display: none;
   }
+  @media (max-width: $screen-md){
+    width: 70%;
+  } 
 }
 
 #country-legend-details, #project-legend-details {
@@ -2759,6 +2771,37 @@ border: 2px solid black;
   top: 24px;
   @media (max-width: $screen-xs) {
     display: none;
+  }
+}
+
+#project-legend-details {
+  margin-left: 5px;
+  @media (min-width: 768px) {
+    margin-left: 0px;
+  }
+ }
+
+.flybtn-holder {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 100%;
+  height: 500px;
+  @media (max-width: 414px) {
+    justify-content: center;
+    height:560px; 
+    } 
+}
+
+#flybtn {
+  z-index: 999999;
+  padding: 8px 40px 10px;
+  margin-right: 30px;
+  font-family:$font-default;
+  font-size: 16px;
+  line-height: 21px;
+  @media (max-width: 414px) {
+    margin-right: 0px;
   }
 }
 
@@ -2771,15 +2814,16 @@ border: 2px solid black;
   display: flex;
   overflow: hidden;
   box-shadow: $default-box-shadow;
-  p {
-    color: $blue-grey;
+  p { 
     padding: 6px 8px;
   }
+
   .hover-name {
     background-color: $blue-dark;
     color: $white;
     font-weight: bold;
   }
+ 
   .hover-edits {
     background-color: #FFC151;
     color: $white;
@@ -2876,6 +2920,62 @@ border: 2px solid black;
 .mapboxgl-canvas {
   // width: 100% !important;
   // height: 100% !important;
+}
+
+div.mapboxgl-popup.mapboxgl-popup-anchor-bottom {
+  background: transparent;
+}
+
+.mapboxgl-map .mapboxgl-popup {
+  position:absolute;
+  top:70px;
+  left:10px;
+  transform:none !important;
+  width:55%;
+  @media (min-width: 320px) {
+    top:90px; 
+    left:5px; 
+  }
+  @media (min-width: 768px) {
+    top:24px;
+    width: 33%;
+  } 
+}
+
+.mapboxgl-map .mapboxgl-popup-tip {
+  display:none;
+}
+
+div.mapboxgl-popup-content {
+  padding: 0;
+  border-radius: $default-border-radius;
+  background-color: $white;
+  box-shadow: $default-box-shadow;
+  font-size: 12px; 
+}
+
+div.mapboxgl-popup-content .project__title {
+  background-color: $blue-dark;
+  color:$white;
+  font-weight: bold;
+}
+
+div.mapboxgl-popup-content .project__title .project__title__link {
+  color: $red;
+}
+
+div.mapboxgl-popup-content p {
+  padding: 6px 8px;
+  color: $blue-grey;
+  line-height: 1.35;
+}
+
+div.mapboxgl-popup-content .project__details {
+  font-weight: bold;
+}
+
+.mapboxgl-popup-close-button {
+  display: none !important;
 }
 
 .project-index-header {
@@ -3632,6 +3732,14 @@ border: 2px solid black;
   }
 }
 
+.hr-v.invisible {
+  @media (max-width: $screen-sm) {
+    &:not(:nth-child(2)) {
+      visibility:hidden;
+    }
+  } 
+}
+
 .home-stat {
   width: 100%;
   align-self: center;
@@ -3639,7 +3747,13 @@ border: 2px solid black;
   border-bottom: 1px solid $border-color;
   padding: 27px 0 34px;
   @media (max-width: $screen-sm) {
-    width: calc(50% - 17px)
+    width: calc(50% - 17px);
+    &:not(:nth-child(3n)) {
+      border-top:none;
+    }
+     &:nth-child(1) {
+      border-top: 1px solid $border-color; 
+    } 
   }
   p {
     text-align: center;
