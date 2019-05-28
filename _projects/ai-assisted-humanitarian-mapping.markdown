@@ -18,7 +18,7 @@ Partner:
 - American Red Cross
 Duration:
   Start Date: 2019-01-01 00:00:00 Z
-  End Date: 2019-01-01 00:00:00 Z
+  End Date: 2019-09-30 00:00:00 Z
 Data:
 - title: Coming soon
   link: 
