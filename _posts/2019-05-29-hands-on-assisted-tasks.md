@@ -32,6 +32,6 @@ Our new experimental testing Tasking Manager is a playground for new ideas. On t
 On this testing version of the Tasking Manager we are partnering with Development Seed, Microsoft and Facebook for researching different machine learning assisted functionalities:
 
 * Complexity measurements for better project creation and to facilitate tasks better, depending on their complexity, to the most suitable mappers.
-* Helping mappers map with explicit data derived from satellite imageries through machine learning models (see [Drishtie’s OSM diary post](https://www.openstreetmap.org/user/DrishT/diary/368711)).
+* Helping mappers map with explicit data derived from satellite imageries through machine learning models (see [Facebook's OSM diary post](https://www.openstreetmap.org/user/DrishT/diary/368711)).
 
 Please stay tuned for more follow up blog posts we are going to write to document and share with you the insights and experiences we are gathering from this testing.
