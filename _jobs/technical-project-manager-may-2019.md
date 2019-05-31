@@ -8,7 +8,7 @@ Apply Form Link: https://humanitarian-openstreetmap-team.forms.fm/hot-tech-submi
 ---
 
 **Location: Remote**  
-**Anticipated Start Date: 14 June 2019**  
+**Anticipated Start Date: 1 July 2019**  
 **Contract length: 6 months**  
 **Reports to: Director, Technology Innovation**  
 
