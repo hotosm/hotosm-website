@@ -1,0 +1,8 @@
+---
+title: Kassalouwa Kolemagah Hermann
+date: 2019-06-04 13:44:00 Z
+published: false
+Member Type:
+  Is Voting Member: true
+---
+
