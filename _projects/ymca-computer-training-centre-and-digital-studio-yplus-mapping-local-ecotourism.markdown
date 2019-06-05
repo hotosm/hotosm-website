@@ -14,6 +14,7 @@ Impact Area:
 
 The Gambia YMCA’s Computer Training Centre and Digital Studio will work with the Gambia Tourism Board and the National Environmental Agency to identify ecotourism areas and capture the current state of vegetation and wildlife to stimulate The Gambia’s tourism industry and assist in planning efforts focused on environmental conservation and preservation.
 
+
 **About the community**  
 
 The Gambia YMCA’s Computer Training Centre and Digital Studio started operations in late 1995. The Centre is supporting education through ICT programs with the goal of empowering youth, engaging them in activities that will help them develop positive outcomes to achieve greater future, and also providing needed professional development for teachers.
