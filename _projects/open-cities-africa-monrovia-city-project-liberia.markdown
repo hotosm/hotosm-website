@@ -6,6 +6,28 @@ Project Summary Text: Open Cities Monrovia project activities were centered on a
   flooding and challenges relating to flooding through the provision of up-to-date
   data of Zone 300, the area of interest. Flooding in Monrovia is cyclical and occurs
   during the rainy season every year (April - October).
+Is image top aligned: true
+Country:
+- Liberia
+Impact Area:
+- Disaster Risk Reduction
+- Sustainable Cities
+- Water & Sanitation
+Person:
+- David Luswata
+- Paul Uithol
+Partner:
+- Global Facility for Disaster Reduction and Recovery (GFDRR)
+- Open Data for Resilience Initiative (OpenDRI)
+- World Bank
+Duration:
+  Start Date: 2018-06-04 09:00:00 Z
+  End Date: 2019-02-28 23:59:00 Z
+tm_campaigns:
+- https://tasks.hotosm.org/contribute?difficulty=ALL&text=OCA-Monrovia
+Map Products:
+- https://drive.google.com/drive/u/1/folders/1uLK78U-TWJowJdVfAa9tfMb4q98JO_XN
+- https://drive.google.com/drive/u/1/folders/1fhEU_gnNoLA9w7cd0lFYi9juTfZhNMQI
 ---
 
 Monrovia City, the capital of Liberia, is located along the Cape Mesurado peninsula, between the Atlantic Ocean and the Mesurado River, whose mouth forms a large natural harbor. The Saint Paul River lies directly north of the city and forms the northern boundary of Bushrod Island. These rivers open north of Monrovia’s largest slum, West Point, home to approximately 75,000 residents and several other unplanned settlements. These unplanned settlements became densely populated during Liberia’s 14 year-long civil war - a period where most rural dwellers relocated to the capital to seek employment, education, trading opportunities and security. In 2014, the city was also greatly affected by the Ebola outbreak that impacted several West African countries.
