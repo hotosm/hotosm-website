@@ -26,6 +26,6 @@ In 2016, Facebook started researching how various machine learning algorithms co
 
 Leveraging the AI generated roads, tools and training, combined with the local knowledge of the HOT and Local OSM Indonesian community, we are confident that we can increase the coverage of roads with the appropriate classifications.
 
-Read more about HOT Indonesia here:<a href="http://www.hotosm.org/projects/indonesia_disaster_management_innovation"> http://www-dev.hotosm.org/projects/indonesia_disaster_management_innovation</a> and the OpenStreetMap Community in Indonesia here:<a href="https://openstreetmap.id/"> https://openstreetmap.id/</a>
+Read more about HOT Indonesia here:<a href="http://www.hotosm.org/projects/indonesia_disaster_management_innovation"> http://www.hotosm.org/projects/indonesia_disaster_management_innovation</a> and the OpenStreetMap Community in Indonesia here:<a href="https://openstreetmap.id/"> https://openstreetmap.id/</a>
 
 <img class="image-large" title="Indonesia Team" src="https://s3.amazonaws.com/hotwww/files/old/styles/large/public/IDTeam.jpg?itok=f8N438A5" alt="HOT Indonesia Road Mapping Team" style="width:480px;height:319px;">
