@@ -25,7 +25,7 @@ Duration:
   Start Date: 2018-06-04 09:00:00 Z
   End Date: 2019-02-28 23:59:00 Z
 tm_campaigns:
-- https://tasks.hotosm.org/contribute?difficulty=ALL&text=OCA-Monrovia
+- OCA-Monrovia
 Map Products:
 - https://drive.google.com/drive/u/1/folders/1uLK78U-TWJowJdVfAa9tfMb4q98JO_XN
 - https://drive.google.com/drive/u/1/folders/1fhEU_gnNoLA9w7cd0lFYi9juTfZhNMQI
