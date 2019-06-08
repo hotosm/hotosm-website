@@ -11,7 +11,7 @@ Apply Form Link: https://hotosm.slack.com/messages/hotosm-website/
 Image Size:
   - All images should be under 500kb in size.
   - Resize your image before you upload.
-  - Use compression tools before you upload, use [Compressor.io](https://compressor.io/compress) or [ImageOptim](https://imageoptim.com/mac).
+  - Use compression tools before you upload, use [Compressor.io](https://compressor.io/compress), [ImageOptim](https://imageoptim.com/mac), or [Squoosh App](https://squoosh.app/).
 
 Image Quality:
   - well-framed.
