@@ -1,6 +1,6 @@
 ---
 title: Welcome HOT’s New Voting Members for 2019
-date: 2019-06-11 10:15:00 Z
+date: 2019-06-11 15:01:00 Z
 published: false
 Summary Text: We are excited to announce 38 new HOT Voting Members! Each year, existing
   HOT voting members nominate new key contributors from our community to become Voting
