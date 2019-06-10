@@ -2212,6 +2212,14 @@ em {
     }
     .news-content {
       grid-column: 1 / -2;
+      blockquote {
+        padding: 24px;
+        background-color: $tan;
+        margin-bottom: 14px;
+      }
+      h2,h3 {
+        margin-top: 14px;
+      }
     }
   }
   .meta {
