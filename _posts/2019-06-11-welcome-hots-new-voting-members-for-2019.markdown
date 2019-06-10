@@ -5,6 +5,8 @@ published: false
 Summary Text: We are excited to announce 38 new HOT Voting Members! Each year, existing
   HOT voting members nominate new key contributors from our community to become Voting
   Members and act as local representatives of HOT’s global network.
+Feature Image: "/uploads/hot-summit-group-wave-7e914b.JPG"
+Person: Tyler Radford
 ---
 
 One of HOT’s biggest strengths is our large and diverse volunteer community, which has been growing in size and experience since 2010. Our voting members epitomise the best of this community, taking a leading role in guiding our organisation and network towards putting people on the map and supporting the Sustainable Development Goals.
