@@ -45,4 +45,4 @@ The project had the following objectives:
 
 4. Promote peer mentorship and build regional networks across cities.
 
-The project was led by Humanitarian OpenStreetMap Team (HOT), iLab Liberia and OSM Liberia and worked with stakeholders such as the Monrovia City Corporation (MCC), Liberia Institute of Statistics and Geo-Information Services (LSGIS), National Disaster Management Agency (NDM), the Ministry of Public Works, the Liberia Water and Sewer Corporation, and Ministry of Gender, Child and Social Protection.
+The project was led by Humanitarian OpenStreetMap Team (HOT), iLab Liberia and OSM Liberia and worked with stakeholders including Monrovia City Corporation (MCC), Liberia Institute of Statistics and Geo-Information Services (LSGIS), National Disaster Management Agency (NDM), the Ministry of Public Works, the Liberia Water and Sewer Corporation, and Ministry of Gender, Child and Social Protection.
