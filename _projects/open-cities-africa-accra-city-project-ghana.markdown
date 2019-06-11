@@ -9,6 +9,14 @@ Is image top aligned: true
 Country:
 - Ghana
 - 
+Impact Area:
+- Disaster Risk Reduction
+- Sustainable Cities
+- Water & Sanitation
+Partner:
+- Global Facility for Disaster Reduction and Recovery (GFDRR)
+- World Bank
+- Open Data for Resilience Initiative (OpenDRI)
 ---
 
 The [Open Cities Accra](https://opencitiesproject.org/accra/) Project was led by Humanitarian OpenStreetMap Team (HOT) in partnership with [Mobile Web Ghana](https://mobilewebghana.org/) and [OSM Ghana](https://osmghana.org/). The OCA project was carried out in 11 cities across 10 countries in sub-saharan Africa: Accra, Antananarivo, Brazzaville, Kampala, Kinshasa, Monrovia, Ngaoundéré, Pointe-Noire, Saint-Louis, Seychelles and Zanzibar City. In June 2018, delegates from these various cities convened at the Makerere University, Kampala for the official Open Cities Africa kick-off and training event.
