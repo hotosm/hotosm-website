@@ -29,6 +29,7 @@ tm_campaigns:
 Google Drive: https://drive.google.com/drive/u/1/folders/1Aefgx0egk7SXcklzhK4KpCzP5knuNvwN
 Map Products:
 - 1NbB8kBM5S7OQqpWhfg0O5ZEAUzeabJoi
+- 1AILRbHeeTJEhKa8GJUTA37XHxyr5FIh6
 ---
 
 Monrovia City, the capital of Liberia, is located along the Cape Mesurado peninsula, between the Atlantic Ocean and the Mesurado River, whose mouth forms a large natural harbor. The Saint Paul River lies directly north of the city and forms the northern boundary of Bushrod Island. These rivers open north of Monrovia’s largest slum, West Point, home to approximately 75,000 residents and several other unplanned settlements. These unplanned settlements became densely populated during Liberia’s 14 year-long civil war - a period where most rural dwellers relocated to the capital to seek employment, education, trading opportunities and security. In 2014, the city was also greatly affected by the Ebola outbreak that impacted several West African countries.
