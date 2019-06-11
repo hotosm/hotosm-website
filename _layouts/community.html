@@ -90,7 +90,7 @@ layout: default
           <div class="finances-text">
             <h3>Financials and Organization</h3>
             {{ page.Finances.Text | markdownify }}
-            <a href="{{ page.Finances['990 Report URL'] }}" class="btn btn-primary btn-block btn-download">{{ page.Finances['990 Report Button'] }}</a>
+            <a class='piwik_download' href="{{ page.Finances['990 Report URL'] }}" class="btn btn-primary btn-block btn-download">{{ page.Finances['990 Report Button'] }}</a>
           </div>
           <div class="annual-report">
             <h6>{{ page.Finances['Annual Report Header'] }}</h6>
@@ -100,7 +100,7 @@ layout: default
               </div>
               <div class="annual-report-text">
                 {{ page.Finances['Annual Report Text'] | markdownify }}
-                <a href="{{ page.Finances['Annual Report URL'] }}" class="btn btn-primary btn-block btn-download">{{ page.Finances['Annual Report Button'] }}</a>
+                <a class='piwik_download' href="{{ page.Finances['Annual Report URL'] }}" class="btn btn-primary btn-block btn-download">{{ page.Finances['Annual Report Button'] }}</a>
               </div>
             </div>
           </div>
