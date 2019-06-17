@@ -1,7 +1,6 @@
 ---
 title: Open Cities Africa - Accra City Project - Ghana
 date: 2019-06-03 08:06:00 Z
-published: false
 Project Summary Text: The Open Cities Africa, Accra project sought to make Alogboshie
   and its environs resilient to natural disasters, especially flooding.
 Feature Image: "/uploads/photo_2019-06-11_16-32-27.jpg"
