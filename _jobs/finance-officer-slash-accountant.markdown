@@ -8,8 +8,11 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf4okYFOuJ-6aHJexzIMzq
 ---
 
 **Contract duration:** 12 months, option of extension based on funding availability
+
 **Location:** Kampala, Uganda
+
 **Reports to:** Country Manager
+
 **Starting date:** July 2019 
 
 **POSITION SUMMARY:**
