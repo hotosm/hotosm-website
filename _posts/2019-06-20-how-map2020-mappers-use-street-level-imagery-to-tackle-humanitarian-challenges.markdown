@@ -59,4 +59,4 @@ These are just a few of the extraordinary stories the #map2020 participants have
 
 We’re now entering the second half of #map2020, where the focus will shift to using the collected street-level imagery and the data Mapillary has extracted with computer vision to edit OpenStreetMap. Two mappers will be invited to [HOT Summit](https://summit2019.hotosm.org/) in September to present their projects, and we can’t wait to hear the stories they’ll share.
 
-Written by **Rebecca Firth, HOTOSM and Edoardo Neerhut, Mapillary**. The blog was also published on Mapillary's website. To find out more about the project, read our [previous blog](https://www.hotosm.org/updates/number-map2020-campaign/).
+Written by **Rebecca Firth, HOTOSM and Edoardo Neerhut, Mapillary**. The blog was also published on [Mapillary's website](https://blog.mapillary.com/update/2019/06/20/map2020-tackling-humanitarian-challenges.html). To find out more about the project, read our [previous blog](https://www.hotosm.org/updates/number-map2020-campaign/).
