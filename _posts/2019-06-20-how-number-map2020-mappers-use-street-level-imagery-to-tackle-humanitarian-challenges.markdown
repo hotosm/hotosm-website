@@ -47,16 +47,16 @@ In Kampala, the capital of Uganda, a group of Geo Youthmappers are collecting st
 Chomba Chishala with YouthMappers and OpenStreetMap Zambiza (Mapillary member [mbacho](https://www.mapillary.com/app/user/mbacho)) is tackling similar issues in Lusaka, the capital of Zambia: *"People have no choice but dumping their waste near the roadside, which blocks drainage during the rainy season and causes flooding. It also puts children at risk of catching different diseases.”*
 
 ![2019-06-20-uganda-waste-collection.jpg](/uploads/2019-06-20-uganda-waste-collection.jpg)
-\*Henry Sseruwagi is taking part in #map2020 to tackle illegal waste dumping in Kampala, Uganda, where unplanned dumping sites block drainage systems. \*
+*Henry Sseruwagi is taking part in #map2020 to tackle illegal waste dumping in Kampala, Uganda, where unplanned dumping sites block drainage systems.*
 
 Both these mapping groups want to make sure every dump site is mapped and known to the people who are in charge of collecting waste. This will beef up collection efforts and combat illegal dumping, ultimately resulting in cleaner cities and healthier citizens.
 
 **Next steps of #map2020**
 
-These are just a few of the extraordinary stories the #map2020 participants have shared. Over the past few weeks, we’ve held webinars on how to best use Mapillary when capturing imagery and uploading these to the platform to be able to access the computer vision-generated data. Even if you’re not taking part in #map2020, you can watch it here.
+These are just a few of the extraordinary stories the #map2020 participants have shared. Over the past few weeks, we’ve held webinars on how to best use Mapillary when capturing imagery and uploading these to the platform to be able to access the computer vision-generated data. Even if you’re not taking part in #map2020, you can watch it below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NIR2_SR5nLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We’re now entering the second half of #map2020, where the focus will shift to using the collected street-level imagery and the data Mapillary has extracted with computer vision to edit OpenStreetMap. Two mappers will be invited to [HOT Summit](https://summit2019.hotosm.org/) in September to present their projects, and we can’t wait to hear the stories they’ll share.
 
-Written by **Rebecca Firth, HOTOSM and Edoardo Neerhut, Mapillary**. The blog was also published on Mapillary's website. To find out more about the project, read our [previous blog](https://www.hotosm.org/updates/number-map2020-campaign/). 
+Written by **Rebecca Firth, HOTOSM and Edoardo Neerhut, Mapillary**. The blog was also published on Mapillary's website. To find out more about the project, read our [previous blog](https://www.hotosm.org/updates/number-map2020-campaign/).
