@@ -43,4 +43,4 @@ The OCA Accra project had the following objectives:
 
 4. Promote peer mentorship and build regional networks across cities.
 
-Data collected in Alogboshie and Akweteyman includes building footprints details (only Alogboshie), drainage networks, flood history, roads, water ways, water points, solid waste points, health facilities, educational facilities among others. The same data was collected in Akweteyman, except for building details.\
+Data collected in Alogboshie and Akweteyman includes building footprints details (only Alogboshie), drainage networks, flood history, roads, water ways, water points, solid waste points, health facilities, educational facilities among others. The same data was collected in Akweteyman, except for building details.
