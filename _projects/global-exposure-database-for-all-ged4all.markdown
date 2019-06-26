@@ -30,6 +30,7 @@ Contact: '<p><a style="font-style: normal; font-variant: normal; font-weight: no
 ---
 
 The Challenge Fund, formed by the Global Facility for Disaster Reduction and Recovery (GFDRR) and the UK’s Department for International Development (DFID) is aimed at building local and global resilience through innovation in order to better identify risk and enable more effective decision-making. This is the second round of the Challenge Fund, which focuses on three initiatives attempting to address recommendations outlined in the GFDRR report ‘Solving the Puzzle: Innovating to Reduce Risk’. 
+
 To decrease disaster risk management costs and increase resilience by developing a framework that facilitates a multi-hazard view of risk, through the development of the first set of open and internally consistent hazards, exposure, and vulnerability data. Please read the '[Extensible data schemas for multiple hazards, exposure and vulnerability data](https://www.preventionweb.net/publications/view/65804)' paper published on PreventionWeb to learn more about the work involved with the second round of the Challenge Fund in 2017.
 
 Initiative 1, is led by the British Geological Survey (BGS) and focuses on developing a data schema and data for a multi-hazard database. Initiative 2, is led by GEM and focuses on developing the schema and data for a global exposure database, whom HOT is partner with. Initiative 3, is led by University College of London (UCL) and focuses on developing a global database of vulnerability functions.
