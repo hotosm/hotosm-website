@@ -2,7 +2,7 @@
 title: Finance Officer/Accountant
 date: 2018-06-11 18:50:00 Z
 position: 1
-Deadline Date: 2019-07-05 00:00:00 Z
+Deadline Date: 2019-06-28 00:00:00 Z
 Place of Work: 'Kampala, Uganda '
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf4okYFOuJ-6aHJexzIMzqdvMBLwizQjE_vCcqbw4SOXmxtLg/viewform
 ---
