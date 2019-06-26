@@ -2,9 +2,16 @@
 title: Collecting building data sets for exposure data in Tanzania
 date: 2019-06-27 09:05:00 Z
 published: false
+Summary Text: Since 2018, HOT-Tanzania has been carrying out the [METEOR project](https://www.gov.uk/government/case-studies/modelling-exposure-through-earth-observation-routines-meteor),  a
+  project that uses [Earth Observation (EO)](https://earthdata.nasa.gov/earth-observation-data)
+  data to assess the level of exposure to improve disaster risk management efforts.
+  Natural hazards are becoming increasingly dangerous, mainly due to the increasing
+  exposure faced by people and infrastructure. It is estimated that the world will
+  see the construction of one billion new buildings by 2050, growth which may lead
+  to a rapid increase in risk. (According to [UNDP-Human Development Report-2016](http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf))
+Feature Image: "/uploads/IMG_9613.JPG"
+Person: Hawa Adinani
 ---
-
-Since 2018, HOT-Tanzania has been carrying out the [METEOR project](https://www.gov.uk/government/case-studies/modelling-exposure-through-earth-observation-routines-meteor),  a project that uses [Earth Observation (EO)](https://earthdata.nasa.gov/earth-observation-data) data to assess the level of exposure to improve disaster risk management efforts. Natural hazards are becoming increasingly dangerous, mainly due to the increasing exposure faced by people and infrastructure. It is estimated that the world will see the construction of one billion new buildings by 2050, growth which may lead to a rapid increase in risk. (According to [UNDP-Human Development Report-2016](http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf))
 
 How can this data be used to develop a model for measuring exposure of people and infrastructure to risk? We explore how the METEOR project in Tanzania has already been developed, walking through how we collected field data, our methodology and how the data will be used.
 
@@ -46,3 +53,5 @@ After field collection, the data was then validated by a group of experienced ma
 * Inaccessible roads meant mappers had to use alternative transport, such as motorbikes, which were more costly.
 
 * Map campaigns had to be created to monitor attributes completeness. We encountered technical difficulties as only closer polygons were allowed within one campaign, therefore, distant polygons caused a failure of rendering all the buildings. After flagging the problem to the HOT technical team, they solved the issue and now map campaigns can be created even though there are more scattered polygons to fit in a single Map campaigner.
+
+*Featured image: Field Mapping, Kariakoo ward: Photo; Godfrey Kassano-HOT-Tanzania*
