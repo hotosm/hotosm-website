@@ -48,11 +48,11 @@ The attributes were built upon [GED4ALL](https://wiki.openstreetmap.org/wiki/GED
 
 ![Screenshot 2019-07-02 at 11.21.23.png](/uploads/Screenshot%202019-07-02%20at%2011.21.23.png)
 
-### Map Campaigner 
+### Map Campaigner
 
-To monitor attributes completeness, we ran them through Map Campaigner. Below are examples of the campaigns we ran:
+To monitor attributes completeness, we ran them through [Map Campaigner](https://campaigns.hotosm.org/). Below are examples of the campaigns we ran:
 
-* ***[Meteor/Dar es Salaam/Urban-Development- Mchikichini](Meteor/Dar es Salaam/Urban-Development- Mchikichini)***
+* ***[Meteor/Dar es Salaam/Urban-Development- Mchikichini](https://campaigns.hotosm.org/campaign/203467dc917f4f39ad25cace439555b3)***
 
 * ***[Meteor/Dar es Salaam/Industrial-Development-Zone_2](https://campaigns.hotosm.org/campaign/6e03da6b7af54bf48d44d5adb0ddc17e)***
 
