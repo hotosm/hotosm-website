@@ -1,7 +1,7 @@
 ---
 title: Collecting building data sets for exposure data in Tanzania
 date: 2019-06-27 06:05:00 Z
-Feature Image: "/uploads/IMG_9613-21fb59.JPG"
+Feature Image: "/uploads/IMG_9613-small.JPG"
 ---
 
 Since 2018, HOT-Tanzania has been carrying out the [METEOR project](https://www.gov.uk/government/case-studies/modelling-exposure-through-earth-observation-routines-meteor),  a project that uses [Earth Observation (EO)](https://earthdata.nasa.gov/earth-observation-data) data to assess the level of exposure – the situation of people, infrastructure, housing, production capacities and other tangible human assets located in hazard-prone areas – and improve disaster risk management efforts. Natural hazards are becoming more dangerous, mainly due to the increase in exposure faced by people and infrastructure. Add to that one billion new buildings estimated to be constructed by 2050, and the level of risk increases even more (according to [UNDP-Human Development Report-2016](http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf)).
