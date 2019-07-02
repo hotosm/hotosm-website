@@ -1,7 +1,6 @@
 ---
 title: Collecting building data sets for exposure data in Tanzania
 date: 2019-06-27 09:05:00 Z
-published: false
 Feature Image: "/uploads/IMG_9613-21fb59.JPG"
 ---
 
