@@ -2,7 +2,7 @@
 title: Collecting building data sets for exposure data in Tanzania
 date: 2019-06-27 06:05:00 Z
 Feature Image: "/uploads/IMG_9613-small.JPG"
-Person: Hawa Adinani
+Person: Emmanuel Kombe
 Country:
 - Tanzania
 Project:
