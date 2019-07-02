@@ -45,7 +45,21 @@ For the digitization process, which involved identifying and mapping houses remo
 
 For each homogeneous zone, buildings were systematically randomised to identify sample areas for data collection. Details were mostly based on the material of the building, as one of the aims is to assess how resistant the building materials are, in case of being hit by a disaster. The team used OpenMapKit to select building features on a prepared map layer and then used OpenDataKit to add details about buildings.
 
-The attributes were built upon [GED4ALL](https://wiki.openstreetmap.org/wiki/GED4ALL) and we adapted a data model from the [Kathmandu project,](https://wiki.openstreetmap.org/wiki/Directed_Edits/METEOR_Digitizing_Kathmandu) involving a structural engineer to localise the model to cope with the Tanzanian context and fit with local buildings.
+The attributes were built upon [GED4ALL](https://wiki.openstreetmap.org/wiki/GED4ALL) and we adapted a data model from the [Kathmandu project,](https://wiki.openstreetmap.org/wiki/Directed_Edits/METEOR_Digitizing_Kathmandu) involving a structural engineer to localise the model to cope with the Tanzanian context and fit with local buildings. Here are some examples of the categorisations:
+
+![Screenshot 2019-07-02 at 11.21.23.png](/uploads/Screenshot%202019-07-02%20at%2011.21.23.png)
+
+### Map Campaigner 
+
+To monitor attributes completeness, we ran them through Map Campaigner. Below are examples of the campaigns we ran:
+
+* ***[Meteor/Dar es Salaam/Urban-Development- Mchikichini](Meteor/Dar es Salaam/Urban-Development- Mchikichini)***
+
+* ***[Meteor/Dar es Salaam/Industrial-Development-Zone_2](https://campaigns.hotosm.org/campaign/6e03da6b7af54bf48d44d5adb0ddc17e)***
+
+* ***[Meteor/Dar es Salaam/Single-Family-Residential](https://campaigns.hotosm.org/campaign/90c4cc568a5a47d49db343a08d658d1e)***
+
+* ***[Meteor/Dar es Salaam/Informal-zone](https://campaigns.hotosm.org/campaign/7316fb4466ce4393879ab9501556c9c1)***
 
 ![METEOR.JPG](/uploads/METEOR.JPG)
 *A screenshot of a campaign that covers an informal zone*
