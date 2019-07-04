@@ -13,5 +13,5 @@ Social Media (Full URL):
 Jorge started contributing to FOSS since 2014. He received Masters and Bachelor degrees in electronic engineering,
 both from Universidad del Norte, in Barranquilla, Colombia. His research was focused on the development of computer vision
 algorithms to track and recognize objects and actions in videos. After finishing his work as a visiting researcher at
-Stanford University, Jorge started working in GIS development in 2016, committing to different projects such as
-Geonode, Worldmap, among others.
+Stanford University, Jorge started working in image processing and GIS development in 2016, committing to different projects
+such as Geonode, Worldmap, among others.
