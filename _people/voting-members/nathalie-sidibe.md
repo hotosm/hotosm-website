@@ -9,7 +9,7 @@ Working Group:
 - Training
 Country: Mali
 Social Media (Full URL):
-  Twitter: https://twitter.com/Nathalie SIDIBE
+  Twitter: https://twitter.com/Honorable_Nath
   LinkedIn: https://www.linkedin.com/feed/
   Facebook: https://www.facebook.com/nathalie.sidibe
 redirect_from:
