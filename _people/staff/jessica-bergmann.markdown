@@ -1,7 +1,7 @@
 ---
 title: Jessica Bergmann
 date: 2019-01-17 14:21:00 Z
-Photo: "/uploads/IMG_7181.jpg"
+Photo: "/uploads/jessica-bergmann.jpg"
 Member Type:
   Is Staff: true
 Job Title: Partnerships and Community Programs Associate
