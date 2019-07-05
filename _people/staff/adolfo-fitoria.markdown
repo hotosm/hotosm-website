@@ -1,11 +1,11 @@
 ---
-title: Adolfo Fitoria 
+title: Adolfo Fitoria
 date: 2019-07-04 09:47:00 Z
 Photo: "/uploads/fitoria.jpg"
 Member Type:
   Is Staff: true
 Job Title: Developer
-Country: Nicaragua 
+Country: Nicaragua
 Social Media (Full URL):
   Twitter: https://twitter.com/fitoria
 ---
