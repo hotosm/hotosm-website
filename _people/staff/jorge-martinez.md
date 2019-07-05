@@ -1,6 +1,6 @@
 ---
 title: Jorge Martínez
-date: 2019-07-03 8:13:00 Z
+date: 2019-07-03 08:13:00 Z
 Photo: "/uploads/jorge.jpg"
 Member Type:
   Is Staff: true
