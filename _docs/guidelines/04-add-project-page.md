@@ -14,7 +14,7 @@ Project pages are individual pages about current or historical projects at HOTOS
 
 ### 2. Decide if you want to have a map-based project view or static hero image
   
-  * Map-based will look like the screenshot above with a map view at the top of the page. 
+  * Map-based will have an interactive map view at the top of the page instead of an image.
   
   * Static hero image will not have map but only a large full-width image that you choose. 
 
