@@ -64,4 +64,4 @@ For first responders:
 
 *“OSM is not only the very foundation of all of our maps but by asking HOT to add to those base maps, we can also use it to identify and map severely affected communities,”* said Lauren. *“It’s hard to overstate that how useful HOT is for providing the starting point for us. We’re all big fans!”*
 
-We would like to thank the [H2H Fund](https://www.h2hworks.org/), supported by DIFD, for the funding received for this activation.
+We would like to thank the [H2H Fund](https://www.h2hworks.org/), supported by DFID, for the funding received for this activation.
