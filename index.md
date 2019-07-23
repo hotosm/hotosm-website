@@ -3,12 +3,12 @@ title: Home
 position: 0
 Banner:
   Is Activated: true
-  Small Block: Join us in Heidelberg
+  Small Block: Our Annual Global Community Meeting
   Main Block: HOT Summit 2019
-  Secondary Block: 
+  Secondary Block: Join us in Heidelberg, Germany!
   Optional Text: 
   Link Copy: Register today!
-  URL: https://www.eventbrite.com/e/hot-summit-2019-heidelberg-germany-tickets-60315779119
+  URL: https://summit2019.hotosm.org/
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
