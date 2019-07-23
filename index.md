@@ -2,13 +2,13 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: false
-  Small Block: Current Activation
-  Main Block: Cyclone Idai in Mozambique | Venezuela Situation in Colombia
-  Secondary Block: Help us map affected locations
+  Is Activated: true
+  Small Block: Join us in Heidelberg
+  Main Block: HOT Summit 2019
+  Secondary Block: 
   Optional Text: 
-  Link Copy: Help Map or Donate
-  URL: https://www.hotosm.org/projects/CycloneIdai
+  Link Copy: Register today!
+  URL: https://www.eventbrite.com/e/hot-summit-2019-heidelberg-germany-tickets-60315779119
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
