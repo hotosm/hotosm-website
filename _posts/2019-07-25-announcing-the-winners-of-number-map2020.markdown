@@ -1,7 +1,6 @@
 ---
 title: 'Announcing the Winners of #map2020'
 date: 2019-07-25 16:51:00 Z
-published: false
 tags:
 - "#map2020"
 - mapillary
@@ -28,7 +27,7 @@ Selecting the winning projects from all of the excellent submissions was tough. 
 
 * **Showed ongoing viability**: As mentioned at the start of #map2020, a key goal of this initiative was to develop clear lessons that can be shared that show how street-level images can be used to address different humanitarian projects. It is hoped that the selected projects will live on beyond #map2020, and also inspire others to replicate them elsewhere.
 
-### Mapping for humanitarian response efforts in Erbil, Iraq
+## Mapping for humanitarian response efforts in Erbil, Iraq
 
 As one of the most active mapping projects in terms of images contributed, the team lead by Mohammed Faisal captured over 103,000 street-level images of Erbil, the capital city of Iraqi Kurdistan. This team experimented with dense image capture in one neighborhood as well as more widespread capture throughout the city, all done with mobile phones and the Mapillary Android app.
 
@@ -46,7 +45,7 @@ The Erbil team’s strategy was to cover all of the main roads of Erbil before f
 
 For team lead Mohammed, the next step is to bring his team’s ideas to HOT Summit in September. In addition to presenting their project, Mohammed is looking forward to meeting other mappers at HOT Summit and getting new ideas for how to continue this work.
 
-### Highlighting illegal waste disposal in Kampala, Uganda
+## Highlighting illegal waste disposal in Kampala, Uganda
 
 Led by Henry Sseruwagi, this project came up with one of the best workflows for using street-level imagery to create data on OpenStreetMap. Capturing over 110,000 images, they have shown where illegal dumping of rubbish is occurring in Kampala and added around 50 of those sites to OpenStreetMap.
 
@@ -66,7 +65,7 @@ The core group of four mappers in Kampala was also responsible for making map ed
 
 The team’s plan is to use the data they added to OpenStreetMap as a source for the map they present to city officials. As for Henry, he is looking forward to meeting mappers from other disciplines at HOT Summit and learning how they address real-world problems with open data.
 
-### Summary
+## Summary
 
 The #map2020 campaign has been an effective way to better understand how street-level imagery can be utilized to address a humanitarian challenge. While these tools have been used before, #map2020 was about integrating them from the start with a focus on dense image capture. This allowed projects to download data automatically detected by Mapillary such as road information and the location of objects such as street-lights, catch basins and signage.
 This led to substantial contributions to OpenStreetMap which you can search with the #map2020 hashtag. Our next efforts will seek to understand which OpenStreetMap tags are most useful for each humanitarian challenge and how data derived from images using computer vision can help to speed up the process.
