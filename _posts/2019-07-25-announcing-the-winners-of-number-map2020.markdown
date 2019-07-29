@@ -51,8 +51,6 @@ Led by Henry Sseruwagi, this project came up with one of the best workflows for 
 
 In Kampala, sanitation is a major problem, especially in the many slums of the city where illegal trash dumping is very prevalent—a lack of proper waste disposal areas and missing trash bins in many areas compounds the situation. Because of this poor sanitation, and congested living conditions, communicable diseases are a major concern. Earlier this year a cholera outbreak spread through Kampala—killing several people and infecting dozens more.
 
-![Screenshot 2019-07-25 at 18.07.00.png](/uploads/Screenshot%202019-07-25%20at%2018.07.00.png)
-
 Henry is part of YouthMappers, a student organization in Kampala and it was with three of his fellow YouthMappers that this project idea was born. Their goal was to map the location of illegal dumping sites, so they could present the information to city officials. The core group of four quickly grew to nine mappers, and they covered four areas of Kampala on foot to capture imagery using the Mapillary Android app. The biggest challenge faced by the Kampala team was a lack of reliable internet coverage.
 
 “The internet connection in Uganda is a big problem. We had to let our computers run overnight and then in the morning there would be enough images uploaded,” said Henry Sseruwagi.
