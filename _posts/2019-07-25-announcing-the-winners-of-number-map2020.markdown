@@ -59,7 +59,7 @@ Henry is part of YouthMappers, a student organization in Kampala and it was with
 
 The core group of four mappers in Kampala was also responsible for making map edits to OpenStreetMap. Using the Mapillary photo overlay in the iD editor, they manually identified illegal dumping sites to add using the tag `landuse=landfill + informal=yes`. Henry mentioned this was the tag that best fit their needs, but the team would have liked to be more specific about each dumping site.
 
-![2019-07-25-kampala-osm.jpg](/uploads/2019-07-25-kampala-osm.jpg)
+<iframe width="800" height="600" src="https://embed-v1.mapillary.com/embed?version=1&filter=%5B%22all%22%5D&map_filter=%5B%22all%22%5D&map_style=Mapillary streets&image_key=FP27-kgrJvsc6_ehKk1Bzw&x=0.5&y=0.5&client_id=VVlyd19uOXY0cHdnV1M5dUYwamZlZzoxODYyZTVmMWU0ZTg3OWFk&style=classic" frameborder="0"></iframe>
 
 *Using the Mapillary photo overlay in the iD editor, the team identified and added illegal dumping sites to OpenStreetMap.*
 
