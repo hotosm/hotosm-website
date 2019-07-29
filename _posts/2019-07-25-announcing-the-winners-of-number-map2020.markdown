@@ -1,6 +1,7 @@
 ---
 title: 'Announcing the Winners of #map2020'
 date: 2019-07-25 16:51:00 Z
+published: false
 tags:
 - "#map2020"
 - mapillary
@@ -31,7 +32,7 @@ Selecting the winning projects from all of the excellent submissions was tough. 
 
 As one of the most active mapping projects in terms of images contributed, the team lead by Mohammed Faisal captured over 103,000 street-level images of Erbil, the capital city of Iraqi Kurdistan. This team experimented with dense image capture in one neighborhood as well as more widespread capture throughout the city, all done with mobile phones and the Mapillary Android app.
 
-![Screenshot 2019-07-25 at 18.02.56.png](/uploads/Screenshot%202019-07-25%20at%2018.02.56.png)
+<iframe width="640" height="480" src="https://embed-v1.mapillary.com/embed?version=1&filter=%5B%22all%22%5D&map_filter=%5B%22all%22%5D&map_style=Mapillary streets&image_key=SQxhncy1l2InDLUckIi_uw&x=0.5&y=0.5&client_id=VVlyd19uOXY0cHdnV1M5dUYwamZlZzoxODYyZTVmMWU0ZTg3OWFk&style=photo" frameborder="0"></iframe>
 
 The two original team members, Mohammed and Hamza, have backgrounds in humanitarian assistance operations following environmental disasters like earthquakes in northern Iraq. They noticed that because of a lack of adequate and dependable maps, humanitarian agencies were struggling to find routes to reach people in affected areas. Using Mapillary, the two team members began capturing imagery to help during times of crisis. Eventually, the Erbil team grew to become ten mappers and together they improved OpenStreetMap with almost 400 changesets.
 
