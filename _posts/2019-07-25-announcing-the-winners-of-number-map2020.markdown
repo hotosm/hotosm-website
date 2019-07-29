@@ -1,7 +1,6 @@
 ---
 title: 'Announcing the Winners of #map2020'
 date: 2019-07-25 16:51:00 Z
-published: false
 tags:
 - "#map2020"
 - mapillary
