@@ -51,7 +51,7 @@ Here are a some of the ways we’re working to integrate iD and Tasking Manager:
 
 *Extend mapping - for example with AI*
 
-Last week’s [announcement of Facebook’s Map with AI service](https://tech.fb.com/ai-is-supercharging-the-creation-of-maps-around-the-world/) is an exciting development in how machine learning can predict roads from satellite imagery for mapping. This can also support mapping volunteers and professional teams to pull AI-detected map features step-by-step, and verify, adjust and improve with the human eye to build the map with the quality standard OpenStreetMap is famous for. The same extension is also currently being tested to include all kinds of datasets, such as government or other open data.
+Last week’s [announcement of Facebook’s Map with AI service](https://tech.fb.com/ai-is-supercharging-the-creation-of-maps-around-the-world/) is an exciting development in how machine learning can predict roads from satellite imagery for mapping. This can also support mapping volunteers and professional teams to pull AI-detected map features step-by-step, and verify, adjust and improve with the human eye to build the map with the quality standard OpenStreetMap is famous for.
 
 ![Rapid editor](/uploads/rapid-editor.jpg)
 
