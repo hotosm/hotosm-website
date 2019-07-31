@@ -14,7 +14,7 @@ The mappers of the HOT Tasking Manager are our driving force to generate vital d
 
 ## What did the user experience review say?
 
-Until now, when a mapper chooses a task on the Tasking Manager, to carry out the task, it  sent them over to external map editor applications, such as [iD](http://ideditor.com/), OpenStreetMap’s web-based map editor. This workflow required mappers to manually navigate back to the Taksing Manager when they finished with their assigned task.
+Until now, when a mapper chooses a task on the Tasking Manager, to carry out the task, it  sent them over to external map editor applications, such as [iD](http://ideditor.com/), OpenStreetMap’s web-based map editor. This workflow required mappers to manually navigate back to the Tasking Manager when they finished with their assigned task.
 
 In February and March, we conducted a [user experience study](https://www.hotosm.org/updates/tasking-manager-design-discovery/) including a number of tests on how mappers are using the Tasking Manager, and dug into the data to see how this workflow could be improved. We also checked usage statistics, followed people's mapping journey during mapathons, and analyzed session recordings to see how users were spending time within the software.
 
@@ -36,7 +36,9 @@ Because there is no optimized technical integration between Tasking Manager and 
 
 ## How we plan to improve the workflow
 
-New mappers usually rely on the web-based OpenStreetMap editor, called iD, and we can work to optimize the integration between the iD editor and the Tasking Manager to solve some of the challenges identified in the user experience review. We are currently working on better integrating these two programs, in order to improve the experience for our mappers and provide user instructions in one tool. This will allow the mapper to report back from a task directly from inside the integrated iD editor. 
+New mappers usually rely on the web-based OpenStreetMap editor, called iD, and we can work to optimize the integration between the iD editor and the Tasking Manager to solve some of the challenges identified in the user experience review. We are currently working on better integrating these two programs, in order to improve the experience for our mappers and provide user instructions in one tool. This will allow the mapper to report back from a task directly from inside the integrated iD editor.
+
+![TM and iD together](/uploads/tm-and-id-2.jpg)
 
 Here are a some of the ways we’re working to integrate iD and Tasking Manager:
 
