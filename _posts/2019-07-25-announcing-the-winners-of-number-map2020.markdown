@@ -14,7 +14,7 @@ Summary Text: 'There were 33 projects submitted for the #map2020 challenge to bu
 Feature Image: "/uploads/2019-07-25-erbil-6e7861.jpg"
 Person:
 - Rebecca Firth
-- " Edoardo Neerhut"
+- Edoardo Neerhut
 ---
 
 This spring, [Mapillary and Humanitarian OpenStreetMap Team](https://www.hotosm.org/updates/number-map2020-campaign/) (HOT) joined forces to accelerate map data collection in undermapped regions with the #map2020 campaign. The number of outstanding [applications from all over the world blew us away](https://www.hotosm.org/updates/how-map2020-mappers-use-street-level-imagery-to-tackle-humanitarian-challenges/), and after careful deliberation, we have invited two projects, one from Iraq and one from Kampala, to present their work at [HOT Summit](https://summit2019.hotosm.org/) in September.
