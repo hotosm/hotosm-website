@@ -6,6 +6,7 @@ categories:
 tags:
 - strategy
 - Community
+Feature Image: "/uploads/HOT-summit-2019Artboard%201@3x.png"
 Person: Tyler Radford
 ---
 
