@@ -1,6 +1,12 @@
 ---
 title: 'Launch of Mapping 2021: HOT’s Three Year Strategy'
 date: 2019-08-05 10:08:00 Z
+categories:
+- Strategy
+tags:
+- strategy
+- Community
+Person: Tyler Radford
 ---
 
 We envision a world where:
