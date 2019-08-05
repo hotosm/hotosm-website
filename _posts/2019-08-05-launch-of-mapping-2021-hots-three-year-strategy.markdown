@@ -6,7 +6,7 @@ categories:
 tags:
 - strategy
 - Community
-Feature Image: "/uploads/HOT-summit-2019Artboard%201@3x.png"
+Feature Image: "/uploads/Peru-girls-mm-4b7dbd.jpeg"
 Person: Tyler Radford
 ---
 
@@ -20,11 +20,11 @@ We envision a world where:
 
 In 2018 the HOT community worked together to formulate a vision and strategy to guide our work over the next three years. The three parts to our vision, articulated above, are both simple and incredibly ambitious. The Sustainable Development Goals emphasize leaving no one behind - but at the same time, millions of people are still not represented in OpenStreetMap. This is problematic because OpenStreetMap happens to be the humanitarian and development community’s most prevalent open map data source, and the actions that are taken based on it (or lack of it) directly impact people’s lives. The HOT community made huge strides to reduce this gap in 2018, but we need to get better over the next three years: working faster, producing higher quality data, and – as laid out in the [Strategic Plan](https://www.hotosm.org/strategic-plan) – adding an area home to one billion people to OpenStreetMap.
 
+### [Read the Strategic Plan](https://www.hotosm.org/strategic-plan)
+
 We believe that the best map of the world we can build is a map where individuals and communities can represent themselves via a global open knowledge platform like OpenStreetMap. HOT certainly had some [successes in 2018](https://www.hotosm.org/downloads/2018-Annual-Report.pdf). To name a few: involving South Sudanese refugees in [mapping refugee settlements in Uganda](https://www.hotosm.org/updates/2017-07-20_from_the_map_to_the_field_hot_trains_msf_and_refugees_in_field_data_collection_-), supporting displaced Venezuelans in the Caribbean, and working toward greater inclusion of underrepresented communities, such as women and girls, by supporting these groups through [Microgrants](https://www.hotosm.org/projects/microgrants_and_community_development) and the [WomenConnect project](https://www.hotosm.org/projects/women-connect-number-letgirlsmap-growing-female-open-data-leaders-across-5-continents/) in Peru and Tanzania.
 
-![Peru-girls-mm-4b7dbd.jpeg](/uploads/Peru-girls-mm-4b7dbd.jpeg)
-
-*Girls playing with virtual reality maps at  GAL Peru School, HOT's Women Connect partner in Peru*
+![HOT-summit-2019Artboard 1@3x.png](/uploads/HOT-summit-2019Artboard%201@3x.png)
 
 While communities in dozens of countries contributed to our mission last year, we are still quite far from achieving our vision that everyone, everywhere can do so. Forming this strategy has made us challenge our openness. Yes, our tools and tech are open - but are our processes? What barriers might we be unintentionally creating and how can we minimise them? We saw great interest by the membership to contribute to the strategic process and a desire to support its implementation. We also learnt that while we think we offer various opportunities, these are not always aligned with their interests and needs, and furthermore are not always easy to comprehend. Our vision is that ‘Everyone can contribute to the map’, but who isn’t in the room? How can we find the communities that are not contributing to OpenStreetMap and reduce the barriers they face?
 
