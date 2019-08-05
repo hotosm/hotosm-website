@@ -30,7 +30,7 @@ While communities in dozens of countries contributed to our mission last year, w
 
 In the first months of 2019, we began piloting new tools, methods, and innovations to break down some of these barriers, including machine learning to ‘supercharge’ the contributions of each map contributor. We are investing in AI and machine learning, not with the goal of de-valuing community input, but rather quite the opposite. There will always be knowledge that AI and machine learning will not be able to extract map data. Machine learning will help us provide hints, suggestions, and tips to mappers that save time and focus on where they can provide the most value: contributing the uniquely human knowledge that only those who live in a place can provide.
 
-> "This is not my plan, but our plan."
+> **"This is not my plan, but our plan."**
 
 Finally, the plan very clearly indicates that achieving the vision is not only about HOT the organisation, HOT staff, nor voting members alone. It is about our entire global community and movement contributing toward the vision in their own ways. This is what makes HOT’s plan unique and different from that of most NGOs. While setting out a single overarching vision, it emphasizes that members and contributors in each country will determine what and where to map, based on local priorities, and how HOT can support these processes. In contrast to ‘top-down’, centralized planning, HOT voting members formed an open working group and consulted with more than 20 members across the globe over more than six months. Consultations were furthermore held among each staff team and with partners outside of HOT, with many ideas from each stakeholder group finding their way into the final plan.
 
