@@ -57,7 +57,9 @@ HDX groups crisis data into six categories:
 * Population and socio-economic indicators
 
 
+
 The Data Grid looks at these datasets at the country level and assesses whether the data is in a common format, tidy, geo-spatially referenced, comprehensive, and up-to-date. Additional OSM datasets provided through the Export Tool will help support this.
+
 
 
 ## What is the Focus this Time Round?
