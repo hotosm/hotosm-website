@@ -1,11 +1,13 @@
 ---
 title: Partners Can’t Get Enough of OSM Data for their Humanitarian Needs
 date: 2019-08-07 00:54:00 Z
-Summary Text: "HOT is currently in a round of development for the Export Tool looking
+Summary Text: 'HOT is currently in a round of development for the Export Tool looking
   to improve overall functionality. Streamlining the infrastructure and enhancing
-  admin functionality are some of the key focuses, as we aim to increase volunteer
-  participation and get a better understanding of how, where, what and when the service
-  is being used, which will help pave the way for future rounds of development. \n"
+  admin features are some of the key focuses, as we aim to increase volunteer participation
+  and get a better understanding of how, where, what and when the service is being
+  used, which will help pave the way for future rounds of development
+
+'
 Feature Image: "/uploads/Screen%20Shot%202019-08-06%20at%2017.58.06.png"
 Person: Mhairi O'Hara
 Working Group:
@@ -25,16 +27,18 @@ There are some great tools out there, such as Overpass Turbo which is a powerful
 
 
 
-A Tool Is Never Perfect!
+## A Tool Is Never Perfect!
 
 This is why the Export Tool was conceived, to build an online tool that would allow users and our partners with little to no technical expertise or OSM knowledge to extract data easily. The tool allows users to define an area of interest and select map features through a tag tree.  Similar to a category tree with a hierarchical ‘Parent’ and ‘Child’ categories, a user does not have to know how tags are set up in OSM for map features and can simply select from a list of options. This is the aim, but just to reiterate - a tool is never perfect. Since its initial conception in 2015, it has undergone several rounds of development as we attempt to get it closer to delivering what a variety of users need.
 
 
 ![](https://paper-attachments.dropbox.com/s_512B01FC0F3AB3136BE50AE5A252375639A06472CADC109B782DFBD989DD4637_1564596152616_Screen+Shot+2019-07-31+at+10.56.11.png)
 
-Match Made in Heaven
+## Match Made in Heaven
 
-The last big round of development took place in 2017, which focused on opening up the tool for global exports, improving the way features are filtered, adding additional file formats and integrating the OSM2HDX extension to push datasets onto the Humanitarian Data Exchange (HDX) platform. The collaboration with HDX was a great success, enabling us to get OSM datasets to an even wider audience, which have gone on to be among the most downloaded datasets in 2018 and 2019! As we continue to support partner organisations respond to numerous crisis across the globe, we are looking to increase the usefulness of OSM datasets. Part of this includes breaking out the Points of Interests (POIs) datasets on HDX into standalone datasets for airports, health and education facilities, as well as the addition of populated places. This will help support the new ‘Data Grid’ feature from HDX, which aims to get the right data to the right people, depending on who is looking and what they are looking for. 
+The last big round of development took place in 2017, which focused on opening up the tool for global exports, improving the way features are filtered, adding additional file formats and integrating the OSM2HDX extension to push datasets onto the Humanitarian Data Exchange (HDX) platform. The collaboration with HDX was a great success, enabling us to get OSM datasets to an even wider audience, which have gone on to be among the most downloaded datasets in 2018 and 2019! 
+
+As we continue to support partner organisations respond to numerous crisis across the globe, we are looking to increase the usefulness of OSM datasets. Part of this includes breaking out the Points of Interests (POIs) datasets on HDX into standalone datasets for airports, health and education facilities, as well as the addition of populated places. This will help support the new ‘Data Grid’ feature from HDX, which aims to get the right data to the right people, depending on who is looking and what they are looking for. 
 
 
 
@@ -44,28 +48,24 @@ The last big round of development took place in 2017, which focused on opening u
 HDX groups crisis data into six categories: 
 
 
-1. Affected people
-2. Coordination and context
-3. Food security and nutrition
-4. Geography and infrastructure
-5. Health and education
-6. Population and socio-economic indicators
+* Affected people
+* Coordination and context
+* Food security and nutrition
+* Geography and infrastructure
+* Health and education
+* Population and socio-economic indicators
 
 
 The Data Grid looks at these datasets at the country level and assesses whether the data is in a common format, tidy, geo-spatially referenced, comprehensive, and up-to-date. Additional OSM datasets provided through the Export Tool will help support this.
 
 
-What is the Focus this Time Round?
+## What is the Focus this Time Round?
 
 
 This round of development looks at improving the overall functionality of the tool, with no major new features introduced. We are streamlining the infrastructure setup to help future deployments and encourage contributions from the public to improve the tool and better support a variety of use cases. A major focus is also on enhancing the Export Tool admin functionality, so that we can capture user statistics to get a better understanding of how, where, what and when the service is being used. This will help pave the way for future rounds of development. 
 
 
-| Matomo                                                                                                                                                                   | Admin Tool                                                                                                                                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - no. of visitors <br>- no. of unique visitors <br>- geospatial distribution of visitors (city, country, continent)<br>- most visited page <br>- most time spent on page | - no. of jobs created <br>- no. of downloads <br>- no. of file formats exported<br>- types of features exported<br>- most downloaded job<br>- geospatial distribution of jobs created (city, country, continent)<br>- geospatial distribution of jobs downloaded (city, country, continent) |
-| * all of the stats should be able to be filtered and disaggregated based on day/week/year                                                                                |                                                                                                                                                                                                                                                                                             |
-
+![Screen Shot 2019-08-06 at 18.14.03.png](/uploads/Screen%20Shot%202019-08-06%20at%2018.14.03.png)
 
 
 The introduction of a secondary pipeline and priority queue system has been on the back burner for a while now, and is sorely needed to help reduce bottlenecks in the system and support the creation of exports as the demand for OSM datasets grows, particularly for country-wide datasets through HDX. Extracting, filtering and converting data into different file formats can be machine intensive and we are looking at ways to distribute the tasks a little more evenly across demands. Lastly, we will be building out a new extension that will push OSM data to the Pacific Disaster Center’s (PDC) InAWARE platform.  
@@ -73,7 +73,7 @@ The introduction of a secondary pipeline and priority queue system has been on t
 
 
 
-Helping Partners Access OSM Data
+## Helping Partners Access OSM Data
 
 HOT has partnered with PDC since 2016 in Indonesia, focusing on the data collection of key lifeline infrastructure data in OSM. These datasets were then brought in as base maps to their early warning and decision support system, InAWARE, which is a customised version of their core DisasterWare product specifically for the Indonesian Disaster Management Agency, Badan Nasional Penanggulangan Bencana (BNPB). As OSM data is always evolving to reflect changes occurring on the ground, it is important to ensure that the lifeline infrastructure base map is kept up-to-date. This can be an intensive manual procedure, so we are looking to automate the process for the whole of Indonesia, where previously data was only provided for the cities of Surabaya, Jakarta and Semarang.
  
