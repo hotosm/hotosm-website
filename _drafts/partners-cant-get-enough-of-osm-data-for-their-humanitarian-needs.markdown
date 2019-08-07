@@ -76,7 +76,9 @@ The introduction of a secondary pipeline and priority queue system has been on t
 
 
 
+
 ## Helping Partners Access OSM Data
+
 
 HOT has partnered with PDC since 2016 in Indonesia, focusing on the data collection of key lifeline infrastructure data in OSM. These datasets were then brought in as base maps to their early warning and decision support system, InAWARE, which is a customised version of their core DisasterWare product specifically for the Indonesian Disaster Management Agency, Badan Nasional Penanggulangan Bencana (BNPB). As OSM data is always evolving to reflect changes occurring on the ground, it is important to ensure that the lifeline infrastructure base map is kept up-to-date. This can be an intensive manual procedure, so we are looking to automate the process for the whole of Indonesia, where previously data was only provided for the cities of Surabaya, Jakarta and Semarang.
  
