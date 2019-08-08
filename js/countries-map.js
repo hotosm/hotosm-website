@@ -76,7 +76,7 @@ var map = new mapboxgl.Map({
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 });
 var mapHeight = $('#map-content').height();
-$('#country-details').height(mapHeight);
+$('#country-contact-info__details').height(mapHeight);
 $('#country-filters').height(mapHeight);
 map.resize();
 
