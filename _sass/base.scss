@@ -3937,21 +3937,22 @@ sup {
 		right: 0;
     bottom: 0;
     left: 0;
-    .map-content__legend {
+    #map-content__legend {
       position: absolute;
       right: 35px;
-     bottom: 34px;
-     z-index: 99999;
-      p {
-       color: $blue-dark;
-       font-size: 16px;
-       img {
-         width: 10px;
-         height: 12px;
-         padding-top: 2px;
-       }   
-     }
-     } 
+      bottom: 34px;
+      z-index: 99999;
+      #tm-legend {
+        img {
+          width: 10px; 
+          height: 12px; 
+          padding-top:2px;
+        }
+        p {
+          color:$blue-dark;
+        }
+      }
+    }
 	}
 }
 
