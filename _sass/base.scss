@@ -3919,6 +3919,42 @@ sup {
 	}
 }
 
+.country-map-area {
+	grid-column: 1 / 5;
+  position: relative;
+  background-color: #FDF3F3;
+	@media (min-width: 320px) {
+		grid-column: 1/5;
+		display: none
+	}
+	@media (min-width: 768px) {
+		grid-column: 1/5;
+		display: block;
+	}
+	.map-content {
+		position: absolute;
+		top: 0;
+		right: 0;
+    bottom: 0;
+    left: 0;
+    .map-content__legend {
+      position: absolute;
+      right: 35px;
+     bottom: 34px;
+     z-index: 99999;
+      p {
+       color: $blue-dark;
+       font-size: 16px;
+       img {
+         width: 10px;
+         height: 12px;
+         padding-top: 2px;
+       }   
+     }
+     } 
+	}
+}
+
 
 
 
