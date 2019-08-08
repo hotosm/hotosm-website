@@ -68,14 +68,14 @@ fetch('/aggregatedStats.json')
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
 var map = new mapboxgl.Map({
-  container: 'country-map-wrap',
+  container: 'map-content',
   logoPosition: 'bottom-left',
   // scrollZoom: false,
   // dragRotate: false,
   maxzoom: 16,
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 });
-var mapHeight = $('#country-map-wrap').height();
+var mapHeight = $('#map-content').height();
 $('#country-details').height(mapHeight);
 $('#country-filters').height(mapHeight);
 map.resize();
