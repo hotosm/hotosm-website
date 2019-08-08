@@ -23,7 +23,7 @@ fetch('/aggregatedStats.json')
           ele.classList.add("active");
         })
         document.getElementById("osm-stats-tab").classList.remove("active");
-        updateContactHeader(campaignCount);
+        updateIntro(campaignCount);
         countryData.features.forEach(countryProject => {
           if (years.indexOf(countryProject.properties['created']) < 0) {
             years.push(countryProject.properties['created']);
