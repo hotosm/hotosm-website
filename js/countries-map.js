@@ -255,34 +255,31 @@ map.on('load', function () {
   });
 });
 
-function updateContactHeader(campaignCount) {
-  var contactHeader = document.getElementById('contact-header');
+function updateIntro(campaignCount) {
+  var intro = document.querySelector('.country-map-section__description');
   if (campaignCount !== 0) {
     if (campaignCount > 1) {
       campaignCount += ' mapping campaigns';
     } else campaignCount += ' mapping campaign';
   } else campaignCount = '';
+
   if (projectCount !== '0') {
     if (projectCount > 1) {
       if (campaignCount !== '') {
-        projectCount = ', including ' + projectCount + ' HOT Projects ';
+        projectCount = ', including ' + projectCount + ' HOT Projects.';
       } else projectCount += ' HOT Projects ';
     } else {
       if (campaignCount !== '') {
-        projectCount = ', including ' + projectCount + ' HOT Project ';
-      } else projectCount += ' HOT Project ';
+        projectCount = ', including ' + projectCount + ' HOT Project.';
+      } else projectCount += ' HOT Project.';
     }
   } else projectCount = '';
-  if (memberCount !== '0') {
-    if (memberCount > 1) {
-      memberCount += ' voting members';
-    } else memberCount += ' voting member';
-  } else memberCount = '';
-  if (projectCount !== '' && memberCount !== '') {
-    contactHeader.innerHTML = countryName + ' has ' +
-      campaignCount + projectCount + ' and ' + memberCount;
+
+  if (projectCount !== '') {
+    intro.innerHTML = countryName + ' has ' +
+      campaignCount + projectCount;
   } else {
-    contactHeader.innerHTML = countryName + ' has ' +
-      campaignCount + projectCount + memberCount;
+    intro.innerHTML = countryName + ' has ' +
+      campaignCount + projectCount;
   }
 }
