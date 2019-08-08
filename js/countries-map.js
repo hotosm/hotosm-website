@@ -53,8 +53,6 @@ fetch('/aggregatedStats.json')
           label.id = year + '-label';
           label.htmlFor = year;
           label.appendChild(document.createTextNode(year + ' (' + count[year] + ')'));
-          container.appendChild(checkbox);
-          container.appendChild(label);
         });
       } else {
         var campaignCount = 0;
