@@ -102,7 +102,7 @@ layout: default
           <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
           <p>{{ page['Contact Person'].Phone }}</p>
           {% else %}
-          <a href="mailto:info@hotosm.org">info@hotosm.org</a>
+          <a class="country-contact-info__details__link" href="mailto:info@hotosm.org">info@hotosm.org</a>
           {% endif %}
 
           {% if page.Location.Name or page.Location.Address %}
