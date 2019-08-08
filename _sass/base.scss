@@ -3878,6 +3878,57 @@ sup {
 	}
 }
 
+.country-map-section {
+	.country-map-section__header {
+		color: $red;
+		font-family: $font-headline;
+		font-size: 32px;
+		letter-spacing: 0;
+		font-weight: normal;
+		text-transform: initial;
+		@media (min-width: 320px) {	
+      padding: 10px 10px 10px 10px;
+      line-height: 32px;
+		}
+		@media (min-width: 375px) {
+			padding: 10px 10px 10px 0px;
+		}
+		@media (min-width: 768px) {
+			padding: 10px 0px 10px 0px;
+		}
+	}
+	.country-map-section__description {
+		display: none;
+		padding: 0 0 20px;
+		@media (min-width: 768px) {
+      display: block;
+			color: $blue-dark;
+			font-family: $font-default;
+			font-size: 18px;
+			font-weight: normal;	
+		}
+	}
+	.country-map-section__content {
+		margin-bottom: 32px;
+		@media (min-width: 768px) {
+			display: grid;
+			grid-template-columns: repeat(5, 1fr);
+			grid-gap: 0px;
+			padding: 0px;
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
 .country-index-header {
   margin-bottom: 32px;
   @media (min-width: $screen-xs) {
