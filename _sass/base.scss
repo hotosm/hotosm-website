@@ -3866,12 +3866,16 @@ sup {
 ////////////////////////////////////////////////
 
 .country-index {
-  .project-index-highlights {
-    margin-top: 40px;
-    @media (max-width: $screen-xs) {
-      margin-top: 24px;
-    }
-  }
+  margin: 0 auto;
+	padding: 0 2.5rem;
+	@media (min-width: 320px) {
+		margin: 0 auto;
+		padding: 0 2rem;
+	}
+	@media (min-width: 768px) {
+		margin: 0 auto;
+		padding: 0 2.5rem;
+	}
 }
 
 .country-index-header {
