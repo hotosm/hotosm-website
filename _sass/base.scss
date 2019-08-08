@@ -3955,6 +3955,120 @@ sup {
 	}
 }
 
+.country-contact-info {
+	border-right: 1px solid rgba(228, 228, 228, 0.38);
+	border-bottom: 1px solid rgba(228, 228, 228, 0.38);
+	@media (min-width: 320px) {
+		grid-column: 1/5;
+		border: 1px solid rgba(228, 228, 228, 0.4);
+	}
+	@media (min-width: 768px) {
+		grid-column: 5/6;
+	}
+	.country-contact-info__header {
+    overflow: hidden;
+    margin-bottom: 16px;
+    background: rgba(164, 162, 163, 0.26);
+		.header__content {
+			margin: 1em;
+			color: $blue-dark;
+			font-family: $font-headline;
+			font-size: 20px;
+			line-height: 20px;
+			text-align: center;
+		}
+  }
+  
+  #country-contact-info__details {
+    min-height: 45vh;
+    height: 100%;
+    padding: 0 10px 0 30px;
+    h4 {
+      font-family: $font-default;
+      font-size: 16px;
+      line-height: 18px;
+      font-weight: bold;
+      .info-icon {
+        padding-left: 27px;
+        &:before {
+          position: relative;
+          right: 8px;
+          content: '';
+          display: inline-block;
+          width: 11px;
+          height: 11px;
+          background-image: url(../images/chevron-red-thick.svg);
+          background-repeat: no-repeat;
+          background-position: left center;
+          background-size: 7px 11px;      
+        }
+      }
+    }
+    p {
+      margin: 14px 0px;
+    }
+    .country-contact-info__details__content {
+      padding-bottom: 1rem;
+      border-color: rgba(204, 204, 204, 0.6);
+      border-bottom-style: solid;
+      border-bottom-width: 1px;
+    }
+    .country-contact-info__details__link {
+      padding-left: 28px;
+    }
+  }
+
+	p {
+		font-family: $font-default;
+		font-size: 16px;
+		font-weight: normal;
+		b {
+			font-weight: bold;
+			color: $blue-dark;
+			font-family: $font-default;
+			font-size: 16px;
+			line-height: 18px;
+		}
+	}
+	a {
+		color: $blue-dark;
+		font-family: $font-default;
+		font-size: 16px;
+		line-height: 18px;
+		font-weight: normal;
+		text-decoration: none;
+	}
+	h4 {
+		margin-bottom: 10px;
+		font-family: $font-default;
+		font-size: 15px;
+		line-height: 18px;
+		font-weight: bold;
+		color: $blue-dark;
+	}
+	h5 {
+		font-size: 1rem;
+		font-family: $font-headline;
+		text-transform: uppercase;
+		letter-spacing: .05em;
+		color: $red;
+		margin: 16px 0 8px;
+		font-size: 1rem;
+		font-family: $font-headline;
+		text-transform: uppercase;
+		letter-spacing: .05em;
+		color: $blue-dark;
+		margin: 16px 0 8px;
+	}
+	.country-content {
+		p {
+			margin-bottom: 24px;
+		}
+		a {
+			padding-left: 0px;
+		}
+	}
+}
 
 
 
