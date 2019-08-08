@@ -64,7 +64,7 @@ layout: default
           </h4>
           <h5>Contact HOT</h5>
           {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
-          <p><b>{{ page['Contact Person'].Name }}</b></p>
+          <p>{{ page['Contact Person'].Name }}</p>
           <p>{{ page['Contact Person'].Title }}</p>
           <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
           <p>{{ page['Contact Person'].Phone }}</p>
