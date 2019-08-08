@@ -71,7 +71,7 @@ This round of development looks at improving the overall functionality of the to
 ![Screen Shot 2019-08-06 at 18.14.03.png](/uploads/Screen%20Shot%202019-08-06%20at%2018.14.03.png)
 
 
-The introduction of a secondary pipeline and priority queue system has been on the back burner for a while now, and is sorely needed to help reduce bottlenecks in the system and support the creation of exports as the demand for OSM datasets grows, particularly for country-wide datasets through HDX. Extracting, filtering and converting data into different file formats can be machine intensive and we are looking at ways to distribute the tasks a little more evenly across demands. Lastly, we will be building out a new extension that will push OSM data to the Pacific Disaster Center’s (PDC) InAWARE platform.  
+The introduction of a secondary pipeline and priority queue system has been on the back burner for a while now, and is sorely needed to help reduce bottlenecks in the system and support the creation of exports as the demand for OSM datasets grows, particularly for country-wide datasets through HDX. Extracting, filtering and converting data into different file formats can be machine intensive and we are looking at ways to distribute the tasks a little more evenly across demands. Lastly, we will be building out a new extension that will push OSM data to the [Pacific Disaster Center’s (PDC)](https://www.pdc.org/) InAWARE platform.  
 
 
 
