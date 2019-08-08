@@ -58,14 +58,8 @@ layout: default
         {% if projects %}
 
         <!-- Countries with projects -->
-
         <!-- <h4 id="contact-header">{{ page.title }} has {{ projectcount }} HOT project{% if projectcount > 1%}s{%endif%}{% if memberscount > 0%} and {{ memberscount }} voting member{% if memberscount > 1%}s{%endif%}{%endif%}</h4> -->
         <h4>Travelling to {{ page.title }} or want to get in touch about a collaboration?</h4>
-        <div class="country-content">
-          <p>Get in touch with HOT or reach out to the
-            <a href="https://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists" target="_blank">local
-              community</a>.</p>
-        </div>
         <h5>Contact HOT</h5>
         {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
         <p><b>{{ page['Contact Person'].Name }}</b></p>
