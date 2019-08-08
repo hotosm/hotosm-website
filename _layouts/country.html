@@ -90,7 +90,10 @@ layout: default
           {% elsif members %}
 
           <!-- Countries with members only -->
-          <h4>Travelling to {{ page.title }} or want to get in touch about a collaboration?</h4>
+          <h4>
+            <span class="info-icon"></span>Travelling to
+            {{ page.title }} or want to get in touch about a collaboration?
+          </h4>
 
           <h5>Contact HOT</h5>
           {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
