@@ -33,109 +33,112 @@ layout: default
   <div class="country-map-section">
     <h1 class="country-map-section__header">Mapping Campaigns in {{ page.title }}</h1>
     <p class="country-map-section__description"></p>
+    <div class="country-map-section__content">
+      <div class="country-map-area" id="country-map-area">
+        <div class="country-map-area" id="country-map-area">
 
-    <div class="country-map-area" id="country-map-area">
-      <div class="country-map-wrap" id="country-map-wrap">
-        <div id="where-we-work-legend-details" class="center-hover-map-area">
-          <div id="tm-legend">
-            <p><img src='../../images/lone-project.png' alt="Map Legend" />mapping campaigns
-            </p>
+
+          <div id="where-we-work-legend-details" class="center-hover-map-area">
+            <div id="tm-legend">
+              <p><img src='../../images/lone-project.png' alt="Map Legend" />mapping campaigns
+              </p>
+            </div>
           </div>
+          <div id="project-details" class="center-hover-map-area"></div>
         </div>
-        <div id="project-details" class="center-hover-map-area"></div>
       </div>
-    </div>
 
-    <div class="country-contact">
-      <div class="tab detailsTab">
+      <div class="country-contact">
+        <div class="tab detailsTab">
 
 
-      </div>
-      <div id="country-details
+        </div>
+        <div id="country-details
         class=" detailsTabContent country-contact-wrapper">
-        <h4 id="contact-header"></h4>
-        {% if projects %}
+          <h4 id="contact-header"></h4>
+          {% if projects %}
 
-        <!-- Countries with projects -->
-        <!-- <h4 id="contact-header">{{ page.title }} has {{ projectcount }} HOT project{% if projectcount > 1%}s{%endif%}{% if memberscount > 0%} and {{ memberscount }} voting member{% if memberscount > 1%}s{%endif%}{%endif%}</h4> -->
-        <h4>Travelling to {{ page.title }} or want to get in touch about a collaboration?</h4>
-        <h5>Contact HOT</h5>
-        {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
-        <p><b>{{ page['Contact Person'].Name }}</b></p>
-        <p>{{ page['Contact Person'].Title }}</p>
-        <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
-        <p>{{ page['Contact Person'].Phone }}</p>
-        {% else %}
-        <a href="mailto:info@hotosm.org">info@hotosm.org</a>
-        {% endif %}
+          <!-- Countries with projects -->
+          <!-- <h4 id="contact-header">{{ page.title }} has {{ projectcount }} HOT project{% if projectcount > 1%}s{%endif%}{% if memberscount > 0%} and {{ memberscount }} voting member{% if memberscount > 1%}s{%endif%}{%endif%}</h4> -->
+          <h4>Travelling to {{ page.title }} or want to get in touch about a collaboration?</h4>
+          <h5>Contact HOT</h5>
+          {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
+          <p><b>{{ page['Contact Person'].Name }}</b></p>
+          <p>{{ page['Contact Person'].Title }}</p>
+          <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
+          <p>{{ page['Contact Person'].Phone }}</p>
+          {% else %}
+          <a href="mailto:info@hotosm.org">info@hotosm.org</a>
+          {% endif %}
 
-        {% if page.Location['Location Name'] or page.Location.Address %}
-        <h5>Visit</h5>
-        {% if page.Location['Location Name'] and page.Location['Map Link'] %}
-        <a href="{{ page.Location['Map Link'] }}" target="_blank"><b>
-            {{ page.Location['Location Name'] }}</b></a>
-        {% elsif page.Location['Location Name'] %}
-        <p><b> {{ page.Location['Location Name'] }} </b></p>
-        {% endif %}
-        {% if page.Location.Address %}
-        {{ page.Location.Address | markdownify }}
-        {% endif %}
-        {% if page.Location.Phone %}
-        <p>{{ page.Location.Phone }}</p>
-        {% endif %}
-        {% endif %}
+          {% if page.Location['Location Name'] or page.Location.Address %}
+          <h5>Visit</h5>
+          {% if page.Location['Location Name'] and page.Location['Map Link'] %}
+          <a href="{{ page.Location['Map Link'] }}" target="_blank"><b>
+              {{ page.Location['Location Name'] }}</b></a>
+          {% elsif page.Location['Location Name'] %}
+          <p><b> {{ page.Location['Location Name'] }} </b></p>
+          {% endif %}
+          {% if page.Location.Address %}
+          {{ page.Location.Address | markdownify }}
+          {% endif %}
+          {% if page.Location.Phone %}
+          <p>{{ page.Location.Phone }}</p>
+          {% endif %}
+          {% endif %}
 
-        {% elsif members %}
+          {% elsif members %}
 
-        <!-- Countries with members only -->
-        <h4>Travelling to {{ page.title }} or want to get in touch about a collaboration?</h4>
+          <!-- Countries with members only -->
+          <h4>Travelling to {{ page.title }} or want to get in touch about a collaboration?</h4>
 
-        <h5>Contact HOT</h5>
-        {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
-        <p><b>{{ page['Contact Person'].Name }}</b></p>
-        <p>{{ page['Contact Person'].Title }}</p>
-        <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
-        <p>{{ page['Contact Person'].Phone }}</p>
-        {% else %}
-        <a href="mailto:info@hotosm.org">info@hotosm.org</a>
-        {% endif %}
+          <h5>Contact HOT</h5>
+          {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
+          <p><b>{{ page['Contact Person'].Name }}</b></p>
+          <p>{{ page['Contact Person'].Title }}</p>
+          <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
+          <p>{{ page['Contact Person'].Phone }}</p>
+          {% else %}
+          <a href="mailto:info@hotosm.org">info@hotosm.org</a>
+          {% endif %}
 
-        {% if page.Location.Name or page.Location.Address %}
-        <h5>Visit</h5>
-        <p><b>{{ page.Location['Location Name'] }}</b></p>
-        {{ page.Location.Address | markdownify }}
-        <p>{{ page.Location.Phone }}</p>
-        {% endif %}
+          {% if page.Location.Name or page.Location.Address %}
+          <h5>Visit</h5>
+          <p><b>{{ page.Location['Location Name'] }}</b></p>
+          {{ page.Location.Address | markdownify }}
+          <p>{{ page.Location.Phone }}</p>
+          {% endif %}
 
-        {% else %}
+          {% else %}
 
-        <!-- Countries without projects or members -->
-        <h4>Have a project or collaboration idea for {{ page.title }}?</h4>
-        <div class="country-content">
-          <p>Get in touch with HOT or reach out to the <a
-              href="https://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists">local community</a>.</p>
+          <!-- Countries without projects or members -->
+          <h4>Have a project or collaboration idea for {{ page.title }}?</h4>
+          <div class="country-content">
+            <p>Get in touch with HOT or reach out to the <a
+                href="https://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists">local community</a>.</p>
+          </div>
+          <h5>Contact HOT</h5>
+          {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
+          <p><b>{{ page['Contact Person'].Name }}</b></p>
+          <p>{{ page['Contact Person'].Title }}</p>
+          <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
+          <p>{{ page['Contact Person'].Phone }}</p>
+          {% else %}
+          <a href="mailto:info@hotosm.org">info@hotosm.org</a>
+          {% endif %}
+
+          {% if page.Location.Name or page.Location.Address %}
+          <h5>Visit</h5>
+          <p><b>{{ page.Location['Map Link'] }}</b></p>
+          {{ page.Location.Address | markdownify }}
+          <p>{{ page.Location.Phone }}</p>
+          {% endif %}
+
+          {% endif %}
         </div>
-        <h5>Contact HOT</h5>
-        {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
-        <p><b>{{ page['Contact Person'].Name }}</b></p>
-        <p>{{ page['Contact Person'].Title }}</p>
-        <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
-        <p>{{ page['Contact Person'].Phone }}</p>
-        {% else %}
-        <a href="mailto:info@hotosm.org">info@hotosm.org</a>
-        {% endif %}
 
-        {% if page.Location.Name or page.Location.Address %}
-        <h5>Visit</h5>
-        <p><b>{{ page.Location['Map Link'] }}</b></p>
-        {{ page.Location.Address | markdownify }}
-        <p>{{ page.Location.Phone }}</p>
-        {% endif %}
 
-        {% endif %}
       </div>
-
-
     </div>
   </div>
 
