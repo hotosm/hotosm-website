@@ -36,8 +36,6 @@ layout: default
     <div class="country-map-section__content">
       <div class="country-map-area" id="country-map-area">
         <div class="map-content" id="map-content">
-
-
           <div id="map-content__legend" class="center-hover-map-area">
             <div id="tm-legend">
               <p><img src='../../images/lone-project.png' alt="Map Legend" />mapping campaigns
@@ -66,10 +64,11 @@ layout: default
           {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
           <p>{{ page['Contact Person'].Name }}</p>
           <p>{{ page['Contact Person'].Title }}</p>
-          <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
+          <p class="country-contact-info__details__content"><a
+              href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
           <p>{{ page['Contact Person'].Phone }}</p>
           {% else %}
-          <a href="mailto:info@hotosm.org">info@hotosm.org</a>
+          <a class="country-contact-info__details__link" href="mailto:info@hotosm.org">info@hotosm.org</a>
           {% endif %}
 
           {% if page.Location['Location Name'] or page.Location.Address %}
