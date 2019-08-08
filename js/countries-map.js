@@ -40,15 +40,6 @@ fetch('/aggregatedStats.json')
           }
         })
         years.sort();
-        var filterHeader = document.getElementById('filter-header');
-        if (campaignCount === 1) filterHeader.innerHTML = 'Filter ' + campaignCount + ' mapping campaign by:';
-        else filterHeader.innerHTML = 'Filter ' + campaignCount + ' mapping campaigns by:';
-        var publishedLabel = document.getElementById('published-label');
-        if (count['PUBLISHED']) publishedLabel.innerHTML = 'Active (' + count['PUBLISHED'] + ')';
-        else publishedLabel.innerHTML = 'Active';
-        var archivedLabel = document.getElementById('archived-label');
-        if (count['ARCHIVED']) archivedLabel.innerHTML = 'Archived (' + count['ARCHIVED'] + ')';
-        else archivedLabel.innerHTML = 'Archived';
 
         years.forEach(year => {
           var checkbox = document.createElement('input');
