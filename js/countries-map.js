@@ -7,7 +7,7 @@ var years = []
 var count = {}
 var container = document.getElementById('year-checkbox')
 fetch('/aggregatedStats.json')
-  .then(function(response) {
+  .then(function (response) {
     return response.json();
   })
   .then(function (jsonData) {
@@ -16,17 +16,13 @@ fetch('/aggregatedStats.json')
       if (jsonData[countryTitle]) countryData.features = (jsonData[countryTitle]);
       var campaignCount = countryData.features.length;
       if (campaignCount) {
-        var displayElements = ["tm-legend", "country-filters-btn"]
-        displayElements.forEach ( ele => {
-          document.getElementById(ele).classList.remove("hide");
-        })
         var hotStatsElements = ["hot-stats", "hot-stats-tab"]
-        hotStatsElements.forEach( hotStatsEle => {
+        hotStatsElements.forEach(hotStatsEle => {
           var ele = document.getElementById(hotStatsEle);
           ele.classList.remove("hide");
           ele.classList.add("active");
         })
-        document.getElementById("osm-stats-tab").classList.remove("active");  
+        document.getElementById("osm-stats-tab").classList.remove("active");
         updateContactHeader(campaignCount);
         countryData.features.forEach(countryProject => {
           if (years.indexOf(countryProject.properties['created']) < 0) {
@@ -109,7 +105,7 @@ function switchInfo(evt, tabName) {
   evt.currentTarget.className += ' active';
 }
 
-map.on('load', function() {
+map.on('load', function () {
   map.addSource('countriesbetter', {
     "type": "vector",
     "url": "mapbox://hot.9fvp7us2"
@@ -117,7 +113,7 @@ map.on('load', function() {
   map.addSource('countriesProjects', {
     "type": "geojson",
     "data": countryData
-  }); 
+  });
   map.addLayer({
     "id": "active_countries",
     "type": "fill",
@@ -168,16 +164,16 @@ map.on('load', function() {
       "circle-opacity": 1,
       "circle-color": "#000000",
     }
-  }, 'place-city-sm');  
+  }, 'place-city-sm');
   map.addLayer({
     "id": "country-projects-symbol",
     "type": "symbol",
     "source": "countriesProjects",
     "minzoom": 0,
     "maxzoom": 18,
-    "layout" : {
+    "layout": {
       "text-field": "+",
-      "text-font" : ["Open Sans Bold"],
+      "text-font": ["Open Sans Bold"],
       "text-offset": [-0.001, -0.03]
     },
     "paint": {
@@ -185,41 +181,41 @@ map.on('load', function() {
     }
   }, 'place-city-sm');
   fetch('/js/bbox.json')
-    .then(function(response) {
+    .then(function (response) {
       return response.json();
     })
-    .then(function(jsonData) {
+    .then(function (jsonData) {
       countries = jsonData;
       map.fitBounds(countries[countryCode][1], {
         // padding: 40
       }, setTimeout(() => {
         var boxZoom = map.getZoom();
         map.setMinZoom(boxZoom);
-      }, 2000));     
+      }, 2000));
     }
     );
-  map.on('mousemove', function(e) {
+  map.on('mousemove', function (e) {
     var projectHover = map.queryRenderedFeatures(
       e.point,
-      {layers: ['country-projects-edits-circle', 'country-projects-black-circle', 'country-projects-symbol']}
+      { layers: ['country-projects-edits-circle', 'country-projects-black-circle', 'country-projects-symbol'] }
     );
     if (projectHover.length) {
       map.getCanvas().style.cursor = 'pointer';
       $("#project-details").empty();
       $("#project-details").removeClass('hide');
       $("#project-details").append(
-        '<p class="hover-name">' + 
+        '<p class="hover-name">' +
         '<a target="_blank" href="https://tasks.hotosm.org/project/' +
-        projectHover[0].properties.id + 
-        '">#' + projectHover[0].properties.id +'</a>' +
-          " - " +
+        projectHover[0].properties.id +
+        '">#' + projectHover[0].properties.id + '</a>' +
+        " - " +
         projectHover[0].properties.title + '</p>' +
-        '<p class= "hover-edits">' + formatedData(projectHover[0].properties.edits) + ' Edits </p>' 
+        '<p class= "hover-edits">' + formatedData(projectHover[0].properties.edits) + ' Edits </p>'
       );
       var coordinates = projectHover[0].geometry.coordinates.slice();
       var description = "<html><h6><a target='_blank' href='https://tasks.hotosm.org/project/" + projectHover[0].properties.id
-                        + "'</a>#" + projectHover[0].properties.id + " - "
-                        + projectHover[0].properties.title + "</h6></html>";
+        + "'</a>#" + projectHover[0].properties.id + " - "
+        + projectHover[0].properties.title + "</h6></html>";
       while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
         coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
       }
@@ -228,8 +224,8 @@ map.on('load', function() {
     }
   });
 
-  $(document).ready(function() {
-    $("input[type='checkbox']").on('change', function() {
+  $(document).ready(function () {
+    $("input[type='checkbox']").on('change', function () {
       count = {}
       var yearFilter = ['any']
       var statusFilter = ['any']
@@ -251,7 +247,7 @@ map.on('load', function() {
       })
       countryData.features.forEach(proj => {
         if (count.hasOwnProperty(proj.properties.created) &&
-            count.hasOwnProperty(proj.properties.status)) {
+          count.hasOwnProperty(proj.properties.status)) {
           count[proj.properties.created]++;
           count[proj.properties.status]++;
         }
@@ -284,7 +280,7 @@ map.on('load', function() {
   });
 });
 
-function updateContactHeader (campaignCount) {
+function updateContactHeader(campaignCount) {
   var contactHeader = document.getElementById('contact-header');
   if (campaignCount !== 0) {
     if (campaignCount > 1) {
@@ -292,14 +288,14 @@ function updateContactHeader (campaignCount) {
     } else campaignCount += ' mapping campaign';
   } else campaignCount = '';
   if (projectCount !== '0') {
-    if (projectCount > 1 ) {
+    if (projectCount > 1) {
       if (campaignCount !== '') {
         projectCount = ', including ' + projectCount + ' HOT Projects ';
-      } else  projectCount += ' HOT Projects ';
+      } else projectCount += ' HOT Projects ';
     } else {
       if (campaignCount !== '') {
         projectCount = ', including ' + projectCount + ' HOT Project ';
-      } else  projectCount += ' HOT Project ';
+      } else projectCount += ' HOT Project ';
     }
   } else projectCount = '';
   if (memberCount !== '0') {
@@ -309,9 +305,9 @@ function updateContactHeader (campaignCount) {
   } else memberCount = '';
   if (projectCount !== '' && memberCount !== '') {
     contactHeader.innerHTML = countryName + ' has ' +
-    campaignCount + projectCount + ' and ' + memberCount; 
+      campaignCount + projectCount + ' and ' + memberCount;
   } else {
     contactHeader.innerHTML = countryName + ' has ' +
-    campaignCount + projectCount + memberCount; 
+      campaignCount + projectCount + memberCount;
   }
 }
