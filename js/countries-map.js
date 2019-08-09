@@ -162,60 +162,60 @@ map.on('load', function () {
     }
   });
 
-  $(document).ready(function () {
-    $("input[type='checkbox']").on('change', function () {
-      count = {}
-      var yearFilter = ['any']
-      var statusFilter = ['any']
-      var updateList = []
-      var layers = ['country-projects-edits-circle', 'country-projects-black-circle', 'country-projects-symbol']
-      var chkBoxes = document.getElementsByName('checkbox')
-      chkBoxes.forEach(chkBox => {
-        if (chkBox.checked) {
-          var chkBoxFilter = ['==', chkBox.value, chkBox.id.toUpperCase()]
-          if (chkBox.value === 'created') {
-            yearFilter.push(chkBoxFilter)
-            count[chkBoxFilter[2]] = 0;
-            updateList.push(chkBoxFilter[2])
-          } else {
-            statusFilter.push(chkBoxFilter)
-            count[chkBoxFilter[2]] = 0;
-          }
-        }
-      })
-      countryData.features.forEach(proj => {
-        if (count.hasOwnProperty(proj.properties.created) &&
-          count.hasOwnProperty(proj.properties.status)) {
-          count[proj.properties.created]++;
-          count[proj.properties.status]++;
-        }
-      })
-      var filter = ['all', yearFilter, statusFilter]
-      layers.forEach(layer => {
-        map.setFilter(layer, filter);
-      })
-      var publishedLabel = document.getElementById('published-label')
-      if (count['PUBLISHED']) {
-        publishedLabel.innerHTML = 'Active (' + count['PUBLISHED'] + ')';
-      } else {
-        publishedLabel.innerHTML = 'Active';
-      }
-      var archivedLabel = document.getElementById('archived-label')
-      if (count['ARCHIVED']) {
-        archivedLabel.innerHTML = 'Archived (' + count['ARCHIVED'] + ')';
-      } else {
-        archivedLabel.innerHTML = 'Archived';
-      }
-      years.forEach(year => {
-        var yearLabel = document.getElementById(year + '-label')
-        if (count[year]) {
-          yearLabel.innerHTML = year + ' (' + count[year] + ')';
-        } else {
-          yearLabel.innerHTML = year;
-        }
-      });
-    });
-  });
+  // $(document).ready(function () {
+  //   $("input[type='checkbox']").on('change', function () {
+  //     count = {}
+  //     var yearFilter = ['any']
+  //     var statusFilter = ['any']
+  //     var updateList = []
+  //     var layers = ['country-projects-edits-circle', 'country-projects-black-circle', 'country-projects-symbol']
+  //     var chkBoxes = document.getElementsByName('checkbox')
+  //     chkBoxes.forEach(chkBox => {
+  //       if (chkBox.checked) {
+  //         var chkBoxFilter = ['==', chkBox.value, chkBox.id.toUpperCase()]
+  //         if (chkBox.value === 'created') {
+  //           yearFilter.push(chkBoxFilter)
+  //           count[chkBoxFilter[2]] = 0;
+  //           updateList.push(chkBoxFilter[2])
+  //         } else {
+  //           statusFilter.push(chkBoxFilter)
+  //           count[chkBoxFilter[2]] = 0;
+  //         }
+  //       }
+  //     })
+  //     countryData.features.forEach(proj => {
+  //       if (count.hasOwnProperty(proj.properties.created) &&
+  //         count.hasOwnProperty(proj.properties.status)) {
+  //         count[proj.properties.created]++;
+  //         count[proj.properties.status]++;
+  //       }
+  //     })
+  //     var filter = ['all', yearFilter, statusFilter]
+  //     layers.forEach(layer => {
+  //       map.setFilter(layer, filter);
+  //     })
+  //     var publishedLabel = document.getElementById('published-label')
+  //     if (count['PUBLISHED']) {
+  //       publishedLabel.innerHTML = 'Active (' + count['PUBLISHED'] + ')';
+  //     } else {
+  //       publishedLabel.innerHTML = 'Active';
+  //     }
+  //     var archivedLabel = document.getElementById('archived-label')
+  //     if (count['ARCHIVED']) {
+  //       archivedLabel.innerHTML = 'Archived (' + count['ARCHIVED'] + ')';
+  //     } else {
+  //       archivedLabel.innerHTML = 'Archived';
+  //     }
+  //     years.forEach(year => {
+  //       var yearLabel = document.getElementById(year + '-label')
+  //       if (count[year]) {
+  //         yearLabel.innerHTML = year + ' (' + count[year] + ')';
+  //       } else {
+  //         yearLabel.innerHTML = year;
+  //       }
+  //     });
+  //   });
+  // });
 });
 
 function updateIntro(campaignCount) {
