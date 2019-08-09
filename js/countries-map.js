@@ -21,7 +21,7 @@ fetch('/aggregatedStats.json')
           ele.classList.add("active");
         })
         document.getElementById("osm-stats-tab").classList.remove("active");
-        updateIntro(campaignCount);
+        updateCountryPageIntro(campaignCount);
       } else {
         var campaignCount = 0;
         document.getElementById("osm-stats").style.display = "flex";
@@ -163,7 +163,7 @@ map.on('load', function () {
   });
 });
 
-function updateIntro(campaignCount) {
+function updateCountryPageIntro(campaignCount) {
   var intro = document.querySelector('.country-map-section__description');
   if (campaignCount !== 0) {
     if (campaignCount > 1) {
