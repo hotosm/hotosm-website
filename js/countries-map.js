@@ -22,22 +22,6 @@ fetch('/aggregatedStats.json')
         })
         document.getElementById("osm-stats-tab").classList.remove("active");
         updateIntro(campaignCount);
-        countryData.features.forEach(countryProject => {
-          if (years.indexOf(countryProject.properties['created']) < 0) {
-            years.push(countryProject.properties['created']);
-          }
-          if (count[countryProject.properties['status']]) {
-            count[countryProject.properties['status']]++;
-          } else {
-            count[countryProject.properties['status']] = 1;
-          }
-          if (count[countryProject.properties['created']]) {
-            count[countryProject.properties['created']]++;
-          } else {
-            count[countryProject.properties['created']] = 1;
-          }
-        })
-        years.sort();
 
         years.forEach(year => {
           var checkbox = document.createElement('input');
