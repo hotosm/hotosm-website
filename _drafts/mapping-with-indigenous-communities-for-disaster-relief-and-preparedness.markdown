@@ -1,6 +1,6 @@
 ---
 title: Mapping with Indigenous Communities for Disaster Relief and Preparedness
-date: 2019-08-09 20:23:00 Z
+date: 2019-08-14 08:23:00 Z
 Summary Text: Melanie Charbot is a GIS Coordinator with the Canadian Red Cross. She
   leads the Missing Maps pilot project in Canada which aims to map areas important
   to indigenous communities, and to assist with disaster preparedness and response
