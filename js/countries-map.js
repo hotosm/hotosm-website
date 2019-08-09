@@ -26,7 +26,6 @@ fetch('/aggregatedStats.json')
         var campaignCount = 0;
         document.getElementById("osm-stats").style.display = "flex";
         document.getElementById("osm-stats-tab").classList.add("active");
-        updateContactHeader(campaignCount);
       }
     } else {
       document.getElementById("osm-stats").style.display = "flex";
