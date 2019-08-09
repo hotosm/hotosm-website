@@ -44,7 +44,6 @@ var map = new mapboxgl.Map({
 });
 var mapHeight = $('#map-content').height();
 $('#country-contact-info__details').height(mapHeight);
-$('#country-filters').height(mapHeight);
 map.resize();
 
 map.on('load', function () {
