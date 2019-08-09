@@ -3,9 +3,7 @@ var countryData = {
   "type": "FeatureCollection",
   "features": []
 };
-var years = []
-var count = {}
-var container = document.getElementById('year-checkbox')
+
 fetch('/aggregatedStats.json')
   .then(function (response) {
     return response.json();
