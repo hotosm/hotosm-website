@@ -22,20 +22,6 @@ fetch('/aggregatedStats.json')
         })
         document.getElementById("osm-stats-tab").classList.remove("active");
         updateIntro(campaignCount);
-
-        years.forEach(year => {
-          var checkbox = document.createElement('input');
-          checkbox.type = 'checkbox';
-          checkbox.classList.add('style-checkbox');
-          checkbox.name = 'checkbox';
-          checkbox.value = 'created';
-          checkbox.id = year;
-          checkbox.checked = true;
-          var label = document.createElement('label')
-          label.id = year + '-label';
-          label.htmlFor = year;
-          label.appendChild(document.createTextNode(year + ' (' + count[year] + ')'));
-        });
       } else {
         var campaignCount = 0;
         document.getElementById("osm-stats").style.display = "flex";
