@@ -167,6 +167,18 @@ map.on('load', function () {
             </a>
         </figcaption>`
       );
+
+      var projectStatus = document.querySelector('.projectinfo__item > .projectinfo__item__status-1');
+      var popoverTitle = document.querySelector('.popover__body__key');
+      if (projectHover[0].properties.status === 'PUBLISHED') {
+        projectStatus.textContent = "Active";
+        popoverTitle.innerHTML = "Active";
+      }
+      if (projectHover[0].properties.status === 'ARCHIVED') {
+        projectStatus.textContent = "Completed";
+        popoverTitle.textContent = "Completed";
+      }
+
       var coordinates = projectHover[0].geometry.coordinates.slice();
       while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
         coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
