@@ -145,7 +145,27 @@ map.on('load', function () {
       $("#popover").empty();
       $("#popover").removeClass('hide');
       $("#popover").append(
-
+        `<figcaption class="popover__body">
+            <p class="popover__body__key">${projectHover[0].properties.status}</p>
+            <p class="popover__body__title">${projectHover[0].properties.title}</p>
+            <ul class="popover__body__data">
+                <li>
+                    <span>${projectHover[0].properties.created}</span>
+                    <span>started</span>
+                </li>
+                <li class="projectinfo__item">
+                    <span class="projectinfo__item__status-1">${projectHover[0].properties.status}</span>
+                    <span>status</span>
+                </li>
+                <li>
+                    <span>${projectHover[0].properties.edits} </span>
+                    <span>edits</span>
+                </li>
+            </ul>
+            <a class="popover__body__link" target="_blank" href="https://tasks.hotosm.org/project/${projectHover[0].properties.id}"> 
+                <p>See Tasking Manager for details</p>
+            </a>
+        </figcaption>`
       );
       var coordinates = projectHover[0].geometry.coordinates.slice();
       while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
