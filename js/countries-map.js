@@ -142,9 +142,9 @@ map.on('load', function () {
     );
     if (projectHover.length) {
       map.getCanvas().style.cursor = 'pointer';
-      $("#project-details").empty();
-      $("#project-details").removeClass('hide');
-      $("#project-details").append(
+      $("#popover").empty();
+      $("#popover").removeClass('hide');
+      $("#popover").append(
         '<p class="hover-name">' +
         '<a target="_blank" href="https://tasks.hotosm.org/project/' +
         projectHover[0].properties.id +
