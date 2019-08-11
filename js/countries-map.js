@@ -145,13 +145,7 @@ map.on('load', function () {
       $("#popover").empty();
       $("#popover").removeClass('hide');
       $("#popover").append(
-        '<p class="hover-name">' +
-        '<a target="_blank" href="https://tasks.hotosm.org/project/' +
-        projectHover[0].properties.id +
-        '">#' + projectHover[0].properties.id + '</a>' +
-        " - " +
-        projectHover[0].properties.title + '</p>' +
-        '<p class= "hover-edits">' + formatedData(projectHover[0].properties.edits) + ' Edits </p>'
+
       );
       var coordinates = projectHover[0].geometry.coordinates.slice();
       while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
