@@ -4078,6 +4078,61 @@ sup {
   color: $blue-dark;
 }
 
+#popover{
+  position:absolute;
+  z-index: 999999;
+  .popover__body {
+    position: absolute;
+    top: 0.4rem;
+    left: 0.4rem;
+    padding: 1rem 0rem 1rem 1rem;
+    background:$white;
+    border-radius: 5px;
+    .popover__body__key {
+      padding-left: 0.5rem;
+      border-left: 2px solid $red;
+      line-height: 1;
+      text-transform: uppercase;
+      color: $blue-dark;
+      font-family: $font-default;
+      font-size: 12px;
+      line-height: 17px;
+      font-weight: normal;
+    }
+    .popover__body__title {
+      padding: 0.3rem 1rem 0rem 0rem;
+      color: $blue-dark;
+      font-family: $font-default;
+      font-size: 16px;
+      font-weight: normal;
+      line-height: 22px;
+    }
+    .popover__body__data {
+      display: flex;
+      margin: 0.7rem 0;
+      padding: 0;
+      text-align: center;
+      li {
+        padding: 0 2rem;
+        font-family: $font-default;
+        font-size: 16px;
+        &::first-child {
+          padding-left: 0;
+        }
+      }
+    }  
+    .popover__body__link {
+      font-family: $font-default;
+      font-size: 14px;
+      line-height: 24px;
+      text-decoration: none;
+       p {
+        color: $blue-dark;
+       }
+    }
+  }
+}
+
 ////////////////////////////////////////////////
 //////////////// Page — Community //////////////
 ////////////////////////////////////////////////
