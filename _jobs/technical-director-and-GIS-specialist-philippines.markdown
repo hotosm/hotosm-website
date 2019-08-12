@@ -1,5 +1,5 @@
 ---
-title: Technical Director & GIS Specialist - Philippines
+title: Technical and GIS Specialist - Philippines
 date: 2019-08-12 18:55:00 Z
 published: false
 Deadline Date: 2019-08-28 00:00:00 Z
