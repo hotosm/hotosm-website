@@ -10,7 +10,7 @@ Place of Work: Philippines
 
 **Location/Duty Station: Philippines**
 
-**Closes: Monday August 26th 2019**
+**Closes: Wednesday August 26th 2019**
 
 **Projected start date: September 2019**
 
