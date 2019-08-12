@@ -34,7 +34,7 @@ HOT typically works with a range of international and national partners (both go
 This is a full-time position that is preferably based in Manila, Philippines, but likely with lots of travel and with the potential for location flexibility.
 
  
-## Responsibilities
+## Responsibilities include:
 * Serve as the deputy and 2nd in command of the Philippines Country Manager.
 * Liaise and collaborate with partner organizations and government agencies.
 * Support timely implementation of all project activities.
@@ -62,8 +62,7 @@ This is a full-time position that is preferably based in Manila, Philippines, bu
 * Ability to solve practical problems and react quickly and calmly to changing or emergency circumstances.
 * Willingness to travel and work for prolonged periods  in challenging environments with limited amenities.
 
-### Additional desirable skills
-
+### Additional desirable skills:
 * Fluent in Bisaya and/or other Filipino dialects.
 * Experience in open data projects and/or open source software development.
 * Experience in working in startup ventures.
