@@ -50,7 +50,6 @@ The Data Grid looks at these datasets at the country level and assesses whether 
 
 For the latest round of development, we’re focused on making the tool easier for users to create Exports, help administrators at HOT to manage the tool, and add external integrations for more humanitarian partners. This round of development looks at improving the overall functionality of the tool while optimizing the administrative tasks to service more external integrations. We are streamlining the technology infrastructure setup to help future code updates and encourage contributions from the public to improve the tool and better support a variety of use cases. A major focus is also on enhancing the Export Tool admin functionality so that we can capture user statistics to get a better understanding of how, where, what and when the service is being used. This will help pave the way for future rounds of development. 
 
-> 
 > ### Examples of metrics we will add
 > 
 * no. of visitors 
@@ -66,7 +65,7 @@ For the latest round of development, we’re focused on making the tool easier f
 * geospatial distribution of jobs created (city, country, continent)
 * geospatial distribution of jobs downloaded (city, country, continent)
 >
->** **all of the stats should be able to be filtered and disaggregated based on day/week/year**
+>** *all of the stats should be able to be filtered and disaggregated based on day/week/year*
 
 We will introduce a secondary data processing pipeline to help ease the ability of anyone getting access to full country extracts of OSM data. We currently experience bottlenecks in the processing and we will help support the speed of exports as the demand for OpenStreetMap datasets grows, particularly for country-wide datasets through HDX. Extracting, filtering and converting data into different file formats can be machine intensive and we are looking at ways to distribute the tasks a little more evenly across demands. Lastly, we will be building out a new extension that will push OpenStreetMap data to the [Pacific Disaster Center (PDC)](https://www.pdc.org/) InAWARE platform. 
 
