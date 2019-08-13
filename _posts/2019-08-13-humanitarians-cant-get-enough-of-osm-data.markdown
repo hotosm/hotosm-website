@@ -1,6 +1,6 @@
 ---
 title: Partners Can’t Get Enough of OSM Data for their Humanitarian Needs
-date: 2019-08-07 00:54:00 Z
+date: 2019-08-13 01:02:00 Z
 Summary Text: HOT is currently in a new round of software development for the Export
   Tool. We're extending integrations with humanitarian partners while helping updating
   core functionality and optimzing how the tool runs to help provide more data to
