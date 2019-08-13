@@ -17,7 +17,7 @@ Project:
 
 At HOT, we’re constantly looking to improve our tools to address user needs and help OSM data be delivered in the right format at the right time. In July we started a new round of software development on the Export Tool to continue to help humanitarian partners get the data they need. We continue to update and develop the Export Tool as we attempt to provide our users with the best possible experience and answer a wider variety of their needs.
 
-## A Tool Is Never Perfect!
+## The right tool for the right job
 
 There are many tools out there that help us create data in OpenStreetMap, whether you’re looking to outline building footprints or add attribute information to features. iD Editor and JOSM are some favourites for digitising features by tracing visible geometries from aerial imagery, while mobile phone applications like Maps.ME and OpenMapKit let you add details to these features observed on the ground. 
 
