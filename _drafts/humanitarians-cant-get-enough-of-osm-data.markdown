@@ -76,3 +76,4 @@ The last major component of the development will be to extend external integrati
 Have an idea for a new integration? [Get in touch with us on Github.](https://github.com/hotosm/osm-export-tool/issues)
 
 ![](https://paper-attachments.dropbox.com/s_512B01FC0F3AB3136BE50AE5A252375639A06472CADC109B782DFBD989DD4637_1564697640861_Screen+Shot+2019-08-01+at+15.13.37.png)
+*Screenshot of the InAWARE Platform*
