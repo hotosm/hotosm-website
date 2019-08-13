@@ -1,13 +1,10 @@
 ---
 title: Partners Can’t Get Enough of OSM Data for their Humanitarian Needs
 date: 2019-08-07 00:54:00 Z
-Summary Text: 'HOT is currently in a round of development for the Export Tool looking
-  to improve overall functionality. Streamlining the infrastructure and enhancing
-  admin features are some of the key focuses, as we aim to increase volunteer participation
-  and get a better understanding of how, where, what and when the service is being
-  used, which will help pave the way for future rounds of development
-
-'
+Summary Text: HOT is currently in a new round of software development for the Export
+  Tool. We're extending integrations with humanitarian partners while helping updating
+  core functionality and optimzing how the tool runs to help provide more data to
+  our users.
 Feature Image: "/uploads/Screen%20Shot%202019-08-06%20at%2017.58.06.png"
 Person: Mhairi O'Hara
 Working Group:
