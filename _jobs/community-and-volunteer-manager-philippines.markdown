@@ -1,7 +1,6 @@
 ---
 title: Community & Volunteer Manager - Philippines
 date: 2019-08-12 19:00:00 Z
-published: false
 Deadline Date: 2019-08-28 00:00:00 Z
 Apply Form Link: https://docs.google.com/forms/u/1/d/e/1FAIpQLScauVya8XcDmb5M_P1L0SSvQH6CMMeMg5S9oVuTmn-zNUOLBg/viewform
 ---
