@@ -199,7 +199,7 @@ map.on('load', function () {
 });
 
 function updateCountryPageIntro(campaignCount) {
-  var intro = document.querySelector('.country-map-section__description');
+  var intro = document.querySelector('.country-page__description');
   if (campaignCount !== 0) {
     if (campaignCount > 1) {
       campaignCount += ' mapping campaigns';
