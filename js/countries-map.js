@@ -232,3 +232,20 @@ function getProjectsYearRange() {
     .map(item => Number(item));
   return arrayOfYears.filter((year, index) => index === arrayOfYears.indexOf(year)).sort((a, b) => a - b);
 }
+
+function createTimeSlider() {
+  const sliderInput = document.createElement("input");
+  sliderInput.setAttribute("id", "slider");
+  sliderInput.setAttribute("class", "slider");
+  sliderInput.type = "range";
+  sliderInput.min = projectYears[0];
+  sliderInput.max = projectYears[projectYears.length - 1];
+  sliderInput.step = "1";
+  sliderInput.value = projectYears[projectYears.length - 1];
+  const sliderContainer = document.querySelector(".map__slider")
+  sliderContainer.appendChild(sliderInput);
+  const sliderTicksDiv = document.createElement('div');
+  sliderTicksDiv.className = "slider-ticks";
+  sliderTicksDiv.setAttribute("id", "slider-ticks");
+  sliderContainer.appendChild(sliderTicksDiv);
+}
