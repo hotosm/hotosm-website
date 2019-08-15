@@ -20,17 +20,21 @@ The project’s purpose was to find communities that are interested in improving
 
 ### **About the communities**
 
-We’ve worked with two communities and completed mapping activities with them, and visited a total of five communities, mainly in Alberta and Saskatchewan and one community in Ontario. Four are communities on First Nations reserves - which is not always their traditional land. Sometimes the communities have been relocated or it’s a small portion of their traditional land.
+We’ve worked and completed mapping with two communities, and visited a total of five communities, mainly in Alberta and Saskatchewan and one community in Ontario. Four are communities on First Nations reserves – which is not always their traditional land. Sometimes the communities have been relocated or it’s a small portion of their traditional land.
 
 They’re fairly remote communities, which are culturally and geographically distant from non-reserve communities. We’ve also worked with a Métis Nation community who live in an urban environment.
 
 **Putting people on the map for disasters and cultural significance**
 
-We worked with a Métis community in a city that was severely damaged by a large forest fire a few years ago. The map hadn’t been updated in OpenStreetMap since the fires, so we supported them to update the it. Some Métis members’ houses were burnt down completely and many relocated to other parts of the city or other cities or towns. It’s quite difficult for the community to track the dispersion, so these maps can help them identify where the members of the community are and how they can best help them. The Canadian Red Cross has been quite involved with the people of that community (both Indigenous and non-Indigenous) so updating the map was useful for our staff as well as the Métis group.
+Once the communities are mapped in OpenStreetMap, the Canadian Red Cross can use the data to respond to large scale disasters (such as forest fires or floods). A few years ago a forest fire severely damaged an area of a Canadian city home to a Métis community, but no one had updated the map of that area since the fires. Some Métis members’ houses were burnt down completely and many had to relocate to other parts of the city or even other cities or towns, making it difficult to track the dispersion of the community. We worked with them to update the affected area on OpenStreetMap, which not only helped identify where the members of the community are now and what help they need, but also provided updated maps for the Canadian Red Cross, who are quite involved with the people of that community (both Indigenous and non-Indigenous).
 
-Once the communities are mapped in OpenStreetMap, the Canadian Red Cross can use the data to respond to large scale disasters (such as forest fires or floods). The maps can also help the community plan for emergencies - we work with them to build products that they need, such as a large printed map that they can have in their emergency operations centre.
+The maps can also help the community plan for emergencies - we work with them to build products that they need, such as a large printed map that they can have in their emergency operations centre. One Indigenous community I’ve been working with needed to update their Community Emergency Plan, so we trained the local Emergency Management Coordinator to map the area through OpenStreetMap. He got bitten by the mapping bug and wanted to map everything! In only two weeks he jumped to the top 30 mappers in Canada! It’s probably made his job a lot easier and we’re excited to see what comes with the final map.
+
+Everyone in these small rural communities tends to know exactly where people live, so they don’t necessarily need a map and there aren’t posted road signs or house numbers, like most of Canada. Indigenous people on the reserves tend to have to look after themselves unless there’s a large emergency. That’s when there can be problems, as first responders and outsiders find it hard to navigate and find people in need. By mapping these areas, it helps improve communication and response. Even on a smaller scale, e.g. when someone calls an ambulance, it will be 1-2 hours away, so any time first responders can save to find that house will make a big difference. Imagine trying to find a house but there are no road names or house numbers marked - you have to ask people which wastes a lot of time, so having a road map with house numbers and overlaying local knowledge makes a big difference.
 
 A lot of communities are interested and see the value in improving their maps, but they don’t have the resources, capacity or the time themselves to map their community. Our project provides support on how to build GIS skills and use maps. We have volunteers to support with time and effort required to do these maps.
+
+![Tweet_ Quote for Melanie Charbot blog 1.png](/uploads/Tweet_%20Quote%20for%20Melanie%20Charbot%20blog%201.png)
 
 ### Challenges of mapping indigenous areas
 
@@ -40,15 +44,13 @@ Another challenge is what information do we put in OpenStreetMap? There is a his
 
 Every community has different perceptions of how much information they want to put up on OpenStreetMap. Some members of the community are open to sharing their culture and others are more apprehensive. We’re taking it step-by-step and working with them. One solution is to create maps that are offline and aren’t open source.
 
-The main goal of the project is to map what is important to them. Sometimes we give the sites a vague tag, such as a leisure area rather than a ceremonial site, other times they have features they want to be mapped (such as teepees or cultural centres), and we’ve had to create a new tag for that feature in OpenStreetMap. It’s been fun to map these Indigenous features as it’s a voice we haven’t seen in OpenStreetMap yet.
+The main goal of the project is to map what is important to them. Sometimes we give the sites a vague tag, such as a leisure area rather than a ceremonial site, other times they have features they want to be mapped (such as teepees or cultural centres), and we’ve had to create a new tag for that feature in OpenStreetMap.
 
-### Giving Indigenous Emergency Management Coordinators the tools to prepare their communities
+It’s been fun to map these Indigenous features as it’s a voice we haven’t seen in OpenStreetMap yet.
 
-One Indigenous community I’ve been working with needed to update their Community Emergency Plan, so we trained the local Emergency Management Coordinator to map the area through OpenStreetMap. He got bitten by the mapping bug and wanted to map everything! In only two weeks he jumped to the top 30 mappers in Canada! It’s probably made his job a lot easier and we’re excited to see what comes with the final map.
+![Tweet_ Quote for Melanie Charbot blog 2.png](/uploads/Tweet_%20Quote%20for%20Melanie%20Charbot%20blog%202.png)
 
-Everyone in these small rural communities tends to know exactly where people live, so they don’t necessarily need a map and there aren’t posted road signs or house numbers, like most of Canada. Indigenous people on the reserves tend to have to look after themselves unless there’s a large emergency. That’s when there can be problems, as first responders and outsiders find it hard to navigate and find people in need. By mapping these areas, it helps improve communication and response. Even on a smaller scale, e.g. when someone calls an ambulance, it will be 1-2 hours away, so any time first responders can save to find that house will make a big difference. Imagine trying to find a house but there are no road names or house numbers marked - you have to ask people which wastes a lot of time, so having a road map with house numbers and overlaying local knowledge makes a big difference.
-
-### How have missing maps and the HOT community supported the project
+### How HOT and missing maps communities have supported the project
 
 We ran a Mapswipe project in May to scan through the forests looking for houses and roads. There are a lot of forests in Canada so that was really helpful! We had 18 incredibly helpful mapping volunteers that supported us on the project and we couldn’t have done it without them! They’re remote mappers from across the country with extensive mapping and GIS experience. The Tasking Manager helped us to coordinate the mapping tasks with our team of volunteers.
 
