@@ -91,7 +91,6 @@ map.on('load', function () {
           [125000, 30],
           [150000, 35],
           [200000, 40]
-
         ]
       },
       "circle-opacity": 0.7,
@@ -126,6 +125,9 @@ map.on('load', function () {
       "text-color": "#FFFFFF"
     }
   }, 'place-city-sm');
+
+  setSliderFilters();
+
   fetch('/js/bbox.json')
     .then(function (response) {
       return response.json();
