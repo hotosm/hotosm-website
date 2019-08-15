@@ -27,7 +27,6 @@ But what about tools for when we want to use data from OpenStreetMap when we wan
 
 This is why the [Export Tool ](https://export.hotosm.org/en/v3/)was built — create an online tool that would allow users and our partners with little to no technical expertise or OpenStreetMap knowledge to extract data easily. The Export Tool allows users to define an area of interest and select map features and quickly export in a GIS-friendly file format to start to analyze. A user does not have to know how tags are set up in OpenStreetMap for map features and can simply select from a list of options to start exporting the data.
 
-### [Visit the Export Tool.](export.hotosm.org/en/v3/)
 
 [![](https://paper-attachments.dropbox.com/s_512B01FC0F3AB3136BE50AE5A252375639A06472CADC109B782DFBD989DD4637_1564596152616_Screen\+Shot\+2019-07-31\+at\+10.56.11.png)](export.hotosm.org/en/v3/)
 
