@@ -2,11 +2,11 @@
 title: How We're Making it Easier for Humanitarians to Use OpenStreetMap Data
 date: 2019-08-13 01:02:00 Z
 Summary Text: At HOT, we’re constantly looking to improve our tools to address user
-  needs and help OSM data be delivered in the right format at the right time. In July
-  we started a new round of software development on the Export Tool to continue to
-  help humanitarian partners get the data they need. We continue to update and develop
-  the Export Tool as we attempt to provide our users with the best possible experience
-  and answer a wider variety of their needs.
+  needs and help OpenStreetMap data be delivered in the right format at the right
+  time. In July we started a new round of software development on the [Export Tool](https://export.hotosm.org/en/v3/)
+  to continue to help humanitarian partners get the data they need. We continue to
+  update and develop the Export Tool as we attempt to provide our users with the best
+  possible experience and answer a wider variety of their needs.
 Feature Image: "/uploads/Screen%20Shot%202019-08-06%20at%2017.58.06.png"
 Person: Mhairi O'Hara
 Working Group:
@@ -19,15 +19,17 @@ Project:
 
 ## The right tool for the right job
 
-There are many tools out there that help us create data in OpenStreetMap, whether you’re looking to outline building footprints or add attribute information to features. iD Editor and JOSM are some favourites for digitising features by tracing visible geometries from aerial imagery, while mobile phone applications like Maps.ME and OpenMapKit let you add details to these features observed on the ground.
+There are many tools out there that help us create data in [OpenStreetMap](https://www.openstreetmap.org/), whether you’re looking to outline building footprints or add attribute information to features. [iD Editor](http://ideditor.com/) and [JOSM](https://josm.openstreetmap.de/) are some favourites for digitising features by tracing visible geometries from aerial imagery, while mobile phone applications like [Maps.ME](https://maps.me/) and [OpenMapKit](http://openmapkit.org/) let you add details to these features observed on the ground.
 
-But what about tools for when we want to use data from OpenStreetMap when we want to analyze distance to a hospital or simulate the impact of a disaster? There are some great tools out there, such as Overpass Turbo which is a powerful tool for querying and exporting OpenStreetMap data for an area of interest into a variety of file formats. There is even GeoFabrik, a platform which hosts regularly updated OpenStreetMap data extracts at the country and continent level. But every tool has its limitations, and Overpass Turbo is no exception. Although brilliant at querying and viewing OpenStreetMap data, it can be slightly perplexing for users with little knowledge of OpenStreetMap.
+But what about tools for when we want to use data from OpenStreetMap when we want to analyze distance to a hospital or simulate the impact of a disaster? There are some great tools out there, such as [Overpass Turbo](https://overpass-turbo.eu/) which is a powerful tool for querying and exporting OpenStreetMap data for an area of interest into a variety of file formats. There is even [GeoFabrik](https://www.geofabrik.de/), a platform which hosts regularly updated OpenStreetMap data extracts at the country and continent level. But every tool has its limitations, and Overpass Turbo is no exception. Although brilliant at querying and viewing OpenStreetMap data, it can be slightly perplexing for users with little knowledge of OpenStreetMap.
 
 ![](https://paper-attachments.dropbox.com/s_512B01FC0F3AB3136BE50AE5A252375639A06472CADC109B782DFBD989DD4637_1564596081817_Screen\+Shot\+2019-07-31\+at\+11.00.37.png)
 
-This is why the Export Tool was built — create an online tool that would allow users and our partners with little to no technical expertise or OpenStreetMap knowledge to extract data easily. The Export Tool allows users to define an area of interest and select map features and quickly export in a GIS-friendly file format to start to analyze. A user does not have to know how tags are set up in OpenStreetMap for map features and can simply select from a list of options to start exporting the data.
+This is why the [Export Tool ](https://export.hotosm.org/en/v3/)was built — create an online tool that would allow users and our partners with little to no technical expertise or OpenStreetMap knowledge to extract data easily. The Export Tool allows users to define an area of interest and select map features and quickly export in a GIS-friendly file format to start to analyze. A user does not have to know how tags are set up in OpenStreetMap for map features and can simply select from a list of options to start exporting the data.
 
-![](https://paper-attachments.dropbox.com/s_512B01FC0F3AB3136BE50AE5A252375639A06472CADC109B782DFBD989DD4637_1564596152616_Screen\+Shot\+2019-07-31\+at\+10.56.11.png)
+### [Visit the Export Tool.](export.hotosm.org/en/v3/)
+
+[![](https://paper-attachments.dropbox.com/s_512B01FC0F3AB3136BE50AE5A252375639A06472CADC109B782DFBD989DD4637_1564596152616_Screen\+Shot\+2019-07-31\+at\+10.56.11.png)](export.hotosm.org/en/v3/)
 
 ## Match Made in Heaven: Making HOT data more complementary for humanitarians
 
@@ -89,7 +91,7 @@ We will introduce a secondary data processing pipeline to help ease the ability 
 
 The last major component of the development will be to extend external integration to include the Pacific Disaster Center. HOT has partnered with PDC since 2016 in Indonesia, focusing on the data collection of key lifeline infrastructure data in OpenStreetMap. These datasets were then brought in as base maps to their early warning and decision support system, InAWARE, which is a customised version of their core [DisasterWare](https://www.pdc.org/apps/disasteraware/) product specifically for the Indonesian Disaster Management Agency, [Badan Nasional Penanggulangan Bencana (BNPB)](https://bnpb.go.id/). As OpenStreetMap data is always evolving to reflect changes occurring on the ground, it is important to ensure that the lifeline infrastructure base map is kept up-to-date. This can be an intensive manual procedure, so we are looking to automate the process for the whole of Indonesia, where previously data was only provided for the cities of Surabaya, Jakarta, and Semarang.
 
-Have an idea for a new integration? [Get in touch with us on Github.](https://github.com/hotosm/osm-export-tool/issues)
+Have an idea for a new integration? [Get in touch with us on Github. ](https://github.com/hotosm/osm-export-tool/issues)
 
 ![](https://paper-attachments.dropbox.com/s_512B01FC0F3AB3136BE50AE5A252375639A06472CADC109B782DFBD989DD4637_1564697640861_Screen\+Shot\+2019-08-01\+at\+15.13.37.png)
 *Screenshot of the InAWARE Platform*
