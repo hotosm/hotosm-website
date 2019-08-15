@@ -30,6 +30,7 @@ fetch('/aggregatedStats.json')
         var campaignCount = 0;
         document.getElementById("osm-stats").style.display = "flex";
         document.getElementById("osm-stats-tab").classList.add("active");
+        updateCountryPageIntro(campaignCount);
       }
     } else {
       document.getElementById("osm-stats").style.display = "flex";
@@ -39,7 +40,7 @@ fetch('/aggregatedStats.json')
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
 var map = new mapboxgl.Map({
-  container: 'map-content',
+  container: 'map-view',
   logoPosition: 'bottom-left',
   // scrollZoom: false,
   // dragRotate: false,
