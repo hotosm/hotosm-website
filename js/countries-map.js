@@ -249,3 +249,11 @@ function createTimeSlider() {
   sliderTicksDiv.setAttribute("id", "slider-ticks");
   sliderContainer.appendChild(sliderTicksDiv);
 }
+
+function setSliderTimeRange() {
+  projectYears.forEach(function (projectYear) {
+    const paragraph = document.createElement("p");
+    paragraph.textContent = projectYear;
+    document.getElementById("slider-ticks").appendChild(paragraph);
+  })
+}
