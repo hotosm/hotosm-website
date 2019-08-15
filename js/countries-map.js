@@ -27,10 +27,10 @@ fetch('/aggregatedStats.json')
         createTimeSlider();
         setSliderTimeRange();
       } else {
-        var campaignCount = 0;
+        // var campaignCount = 0;
         document.getElementById("osm-stats").style.display = "flex";
         document.getElementById("osm-stats-tab").classList.add("active");
-        updateCountryPageIntro(campaignCount);
+        // updateCountryPageIntro(campaignCount);
       }
     } else {
       document.getElementById("osm-stats").style.display = "flex";
