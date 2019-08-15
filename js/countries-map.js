@@ -152,7 +152,25 @@ map.on('load', function () {
       $("#map__popover").empty();
       $("#map__popover").removeClass('hide');
       $("#map__popover").append(
-
+        `<p class="popover__key">${projectHover[0].properties.status}</p>
+            <p class="popover__title">${projectHover[0].properties.title}</p>
+            <ul class="popover__data">
+                <li>
+                    <span>${projectHover[0].properties.created}</span>
+                    <span>started</span>
+                </li>
+                <li>
+                    <span class="project-status">${projectHover[0].properties.status}</span>
+                    <span>status</span>
+                </li>
+                <li>
+                    <span>${projectHover[0].properties.edits} </span>
+                    <span>edits</span>
+                </li>
+            </ul>
+            <a class="popover__link" target="_blank" href="https://tasks.hotosm.org/project/${projectHover[0].properties.id}"> 
+                <p>See Tasking Manager for details</p>
+            </a>`
       );
 
       var projectStatus = document.querySelector('.projectinfo__item > .projectinfo__item__status-1');
