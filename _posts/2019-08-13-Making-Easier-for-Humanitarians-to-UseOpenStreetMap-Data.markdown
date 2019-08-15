@@ -55,7 +55,7 @@ The Data Grid looks at these datasets at the country level and assesses whether 
 
 ## Plan for upcoming development on Export Tool
 
-For the latest round of development, we’re focused on making the tool easier for users to create Exports, help administrators at HOT to manage the tool, and add external integrations for more humanitarian partners. This round of development looks at improving the overall functionality of the tool while optimizing the administrative tasks to service more external integrations. We are streamlining the technology infrastructure setup to help future code updates and encourage contributions from the public to improve the tool and better support a variety of use cases. A major focus is also on enhancing the Export Tool admin functionality so that we can capture user statistics to get a better understanding of how, where, what and when the service is being used. This will help pave the way for future rounds of development.
+For the latest round of development, we’re focused on making the tool easier for users to create Exports, help administrators at HOT to manage the tool, and add external integrations for more humanitarian partners. This round of development looks at improving the overall functionality of the tool while optimising the administrative tasks to service more external integrations. We are streamlining the technology infrastructure setup to help future code updates and encourage contributions from the public to improve the tool and better support a variety of use cases. A major focus is also on enhancing the Export Tool admin functionality so that we can capture user statistics to get a better understanding of how, where, what and when the service is being used. This will help pave the way for future rounds of development.
 
 > ### Examples of metrics we will add
 
@@ -94,4 +94,3 @@ The last major component of the development will be to extend external integrati
 Have an idea for a new integration? [Get in touch with us on Github. ](https://github.com/hotosm/osm-export-tool/issues)
 
 ![](https://paper-attachments.dropbox.com/s_512B01FC0F3AB3136BE50AE5A252375639A06472CADC109B782DFBD989DD4637_1564697640861_Screen\+Shot\+2019-08-01\+at\+15.13.37.png)
-*Screenshot of the InAWARE Platform*
