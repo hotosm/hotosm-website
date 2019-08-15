@@ -53,6 +53,7 @@ HDX groups crisis data into six categories:
 * Population and socio-economic indicators
 
 The Data Grid looks at these datasets at the country level and assesses whether the data is in a common format, tidy, geo-spatially referenced, comprehensive, and up-to-date. Additional OpenStreetMap datasets provided through the Export Tool will help support this.
+
 <br>
 <br>
 
@@ -89,6 +90,9 @@ For the latest round of development, we’re focused on making the tool easier f
 > \*\* *all of the stats should be able to be filtered and disaggregated based on day/week/year*
 
 We will introduce a secondary data processing pipeline to help ease the ability of anyone getting access to full country extracts of OSM data. We currently experience bottlenecks in the processing and we will help support the speed of exports as the demand for OpenStreetMap datasets grows, particularly for country-wide datasets through HDX. Extracting, filtering and converting data into different file formats can be machine intensive and we are looking at ways to distribute the tasks a little more evenly across demands. Lastly, we will be building out a new extension that will push OpenStreetMap data to the [Pacific Disaster Center (PDC)](https://www.pdc.org/) InAWARE platform.
+
+<br>
+<br>
 
 ## Helping partners access OpenStreetMap Data with new integrations
 
