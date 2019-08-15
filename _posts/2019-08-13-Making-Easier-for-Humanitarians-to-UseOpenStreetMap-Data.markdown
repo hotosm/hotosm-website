@@ -37,7 +37,6 @@ The last big round of development took place in 2017, which focused on opening u
 Part of this includes breaking out the Points of Interests (POIs) datasets – which are specific points on the map about places – on HDX into standalone datasets for airports, health and education facilities, as well as the addition of populated places. This more granular level of detail can make the difference when you’re working in a crisis and need to understand where is the closest health centre. This will help support the new ‘Data Grid’ feature from HDX, which aims to get the right data to the right people, depending on who is looking and what they are looking for.
 
 <br>
-<br>
 
 ![](https://paper-attachments.dropbox.com/s_512B01FC0F3AB3136BE50AE5A252375639A06472CADC109B782DFBD989DD4637_1564595467749_hdx-download-stats.png)
 
@@ -57,7 +56,6 @@ HDX groups crisis data into six categories:
 
 The Data Grid looks at these datasets at the country level and assesses whether the data is in a common format, tidy, geo-spatially referenced, comprehensive, and up-to-date. Additional OpenStreetMap datasets provided through the Export Tool will help support this.
 
-<br>
 <br>
 
 ## Plan for upcoming development on Export Tool
@@ -94,7 +92,6 @@ For the latest round of development, we’re focused on making the tool easier f
 
 We will introduce a secondary data processing pipeline to help ease the ability of anyone getting access to full country extracts of OSM data. We currently experience bottlenecks in the processing and we will help support the speed of exports as the demand for OpenStreetMap datasets grows, particularly for country-wide datasets through HDX. Extracting, filtering and converting data into different file formats can be machine intensive and we are looking at ways to distribute the tasks a little more evenly across demands. Lastly, we will be building out a new extension that will push OpenStreetMap data to the [Pacific Disaster Center (PDC)](https://www.pdc.org/) InAWARE platform.
 
-<br>
 <br>
 
 ## Helping partners access OpenStreetMap Data with new integrations
