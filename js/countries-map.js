@@ -24,6 +24,7 @@ fetch('/aggregatedStats.json')
         document.getElementById("osm-stats-tab").classList.remove("active");
         updateCountryPageIntro(campaignCount);
         projectYears = getProjectsYearRange();
+        createTimeSlider();
       } else {
         var campaignCount = 0;
         document.getElementById("osm-stats").style.display = "flex";
