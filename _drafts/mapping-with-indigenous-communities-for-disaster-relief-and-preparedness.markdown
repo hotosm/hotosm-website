@@ -3,16 +3,20 @@ title: Mapping with Indigenous Communities for Disaster Relief and Preparedness
 date: 2019-08-14 08:23:00 Z
 Summary Text: Melanie Charbot is a GIS Coordinator with the Canadian Red Cross. She
   leads the Missing Maps pilot project in Canada which aims to map areas important
-  to indigenous communities, and to assist with disaster preparedness and response
+  to indigenous communities and to assist with disaster preparedness and response
   in these areas.
 Person: Melanie Charbot
 Country:
 - Canada
 ---
 
-In June 2018 we started a pilot project to bring Missing Maps to Canada and build resilience in remote communities. Many of these remote communities in Canada are Indigenous Peoples who live on reserves and although we didn’t explicitly set out to map Indigenous communities, we think this is a really interesting part of the project. The Canadian Red Cross wants to reduce the impact and risk of disasters, so building community resilience and disaster preparedness in Indigenous communities is an important part of that.
+In June 2018 we started a pilot project to bring [Missing Maps](http://www.missingmaps.org/) to Canada and build resilience in remote communities. Many of these remote communities in Canada are Indigenous Peoples who live on reserves and although we didn’t explicitly set out to map Indigenous communities, we think this is a really interesting part of the project. The Canadian Red Cross wants to reduce the impact and risk of disasters, so building community resilience and disaster preparedness in Indigenous communities is an important part of that.
 
 The project’s purpose was to find communities that are interested in improving their maps in OpenStreetMap. We work with them to map their community in a way that they see fit and create mapping products with them to improve their emergency preparedness.
+
+![IMG_0728-small.JPG](/uploads/IMG_0728-small.JPG)
+
+*Melanie creates GPS track of an interpretive trail used by a Missing Maps pilot community with the help of a community member to be uploaded into OpenStreetMap.*
 
 ### **About the communities**
 
