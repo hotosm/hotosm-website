@@ -4268,6 +4268,168 @@ svg.spritesheet {
 	}
 }
 
+// our work section
+.section-title {
+	padding-left: 0.5rem;
+	margin: 0rem 0rem 1.5rem 2.1rem;
+	border-left: 2px solid $red;
+	text-transform: uppercase;
+	color: $blue-dark;
+	font-family: $font-default;
+	font-size: 12px;
+	line-height: 17px;
+	font-weight: normal;
+}
+
+.aligned {
+	margin: 0 auto;
+}
+
+.projects-list {
+	display: grid;
+	@media (min-width: 320px) {
+		grid-gap: 20px;
+		padding: 20px;
+	}
+	@media (min-width: 480px) {
+		grid-template-columns: repeat(4, 1fr);
+	}
+	@media (min-width: 768px) {
+		display: grid;
+		grid-template-columns: [start] minmax(20px, 1fr) [wrapper-start] repeat(2, minmax(0, 70px)) [wrapper-end] minmax(20px, 1fr) [end];
+		grid-gap: 20px;
+		padding: 40px 40px;
+	}
+	li h3 {
+		font-family: "Archivo";
+		font-size: 18px;
+		line-height: 23px;
+		color: #2C3038;
+		font-weight: bold;
+	}
+	li p {
+		font-family: "Archivo";
+		font-size: 18px;
+		line-height: 23px;
+		color: #2C3038;
+		font-weight: normal;
+	}
+}
+
+.projects-list>li:first-child {
+	@media (min-width: 480px) {
+		grid-column: 1/5;
+	}
+	@media (min-width: 768px) {
+		grid-column: 1/2;
+		grid-column: 1/4;
+	}
+}
+
+.projects-list li:nth-child(2) {
+	@media (min-width: 480px) {
+		grid-column: 1/5;
+	}
+	@media (min-width: 768px) {
+		grid-column: 4/5;
+		padding-right: 30px;
+	}
+}
+
+.projects-list li:nth-child(3) {
+	@media (min-width: 480px) {
+		grid-column: 1/3;
+	}
+	@media (min-width: 768px) {
+		grid-column: 1/3;
+	}
+}
+
+.projects-list li:nth-child(4) {
+	@media (min-width: 480px) {
+		grid-column: 3/5;
+	}
+	@media (min-width: 768px) {
+		grid-column: 3/5;
+	}
+}
+
+.item__image {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	height: 0;
+	padding-bottom: 56.25%;
+}
+
+.item__image__1 {
+	padding-left: 0;
+	width: 100%;
+	max-width: 900px;
+	@media (min-width: 768px) {
+		width: 680px;
+	}
+}
+
+.item-link {
+	text-decoration: none;
+	.item-info {
+		overflow: hidden;
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+		margin-bottom: 0;
+	}
+}
+
+.item-link::after {
+	display: inline-block;
+	text-align: center;
+	vertical-align: center;
+	vertical-align: top;
+	content: "";
+	width: 100%;
+	width: 25px;
+	height: 25px;
+	border-radius: 20px;
+	background-color: $blue-dark;
+	background-image: url(../images/chevron-white.svg);
+	background-repeat: no-repeat;
+	background-position: left 10px center;
+	box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+	transition: background-color 0.3s ease-in-out;
+	margin-left: 5px;
+}
+
+.item-link:hover::after {
+	background-color: $red;
+}
+
+.item-link:hover .item-link:after {
+	background-color: $red;
+}
+
+.item__image__1,
+.item__image__3,
+.item__image__4 {
+	width: 100%;
+}
+
+.item__image__3 {
+	padding-left: 0px;
+}
+
+.item__image__3,
+.item__image__4 {
+	transform: scale(1.1);
+	display: block;
+	width: 100%;
+}
+
+.map__checkbox {
+	display: none;
+}
+
 
 ////////////////////////////////////////////////
 //////////////// Page — Community //////////////
