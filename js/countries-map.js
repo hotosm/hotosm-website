@@ -226,3 +226,9 @@ function updateCountryPageIntro(campaignCount) {
       campaignCount + projectCount;
   }
 }
+
+function getProjectsYearRange() {
+  const arrayOfYears = countryData.features.map(countryProject => countryProject.properties.created)
+    .map(item => Number(item));
+  return arrayOfYears.filter((year, index) => index === arrayOfYears.indexOf(year)).sort((a, b) => a - b);
+}
