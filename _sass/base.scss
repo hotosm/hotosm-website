@@ -3865,6 +3865,40 @@ sup {
 //////////////// Page — Country //////////////
 ////////////////////////////////////////////////
 
+.country-page {
+	display: grid;
+	overflow-y: auto;
+	@media (min-width: 768px) {
+		place-content: center;
+	}
+	.country-page__header {
+		color: $red;
+		font-family: $font-headline;
+		font-size: 32px;
+		font-weight: normal;
+		letter-spacing: 0;
+		text-transform: initial;
+		@media (min-width: 320px) {
+			text-align: center;
+		}
+		@media (min-width: 768px) {
+			text-align: left;
+		}
+	}
+	.country-page__description {
+		display: none;
+		padding: 0 0 20px;
+		@media (min-width: 768px) {
+			display: block;
+			color: $blue-dark;
+			font-family: $font-default;
+			font-size: 18px;
+			font-weight: normal;
+		}
+		@media (min-width: 1024px) {}
+	}
+}
+
 
 ////////////////////////////////////////////////
 //////////////// Page — Community //////////////
