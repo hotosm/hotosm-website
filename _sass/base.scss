@@ -4049,8 +4049,8 @@ sup {
     height: 10px;	
     line-height: 40px;
     margin: 0 0 20px 0;
-    color: #2C3038;
-    font-family: "Archivo";
+    color: $blue-dark;
+    font-family: $font-default;;
     font-weight: normal;
     font-size: 16px;
   }
@@ -4107,7 +4107,7 @@ sup {
 	padding-left: 35px;
 	margin-bottom: 12px;
 	cursor: pointer;
-	font-family: "Archivo";
+  font-family: $font-default;
 	font-size: 16px;
 	-webkit-user-select: none;
 	-moz-user-select: none;
@@ -4173,7 +4173,7 @@ sup {
     padding: 1rem;
     text-align: center;
     background: rgba(164, 162, 163, 0.26);
-    color: #2C3038;
+    color: $blue-dark;
     font-family: $font-headline;
     font-size: 20px;
     font-weight: normal;
@@ -4192,8 +4192,8 @@ sup {
   }
   .info__link {
     position: relative;
-    color: #2C3038;
-    font-family: "Archivo";
+    color: $blue-dark;
+    font-family: $font-default;
     font-size: 16px;
     font-weight: bold;
     line-height: 19px;
@@ -4203,11 +4203,11 @@ sup {
       height: 24px;
       left: -30px;
       fill: none;
-      stroke: #2C3038;
+      stroke: $blue-dark;
       stroke-width: 2;
       stroke-linecap: round;
       stroke-linejoin: round;
-      color: #2C3038;
+      color: $blue-dark;
     }
   }
 }
@@ -4232,7 +4232,7 @@ sup {
   padding: 1rem 2rem; 
   .info-segment__subtitle {
     padding-top: 1rem;
-    color: #2C3038;
+    color: $blue-dark;
     font-family: "Barlow Condensed", sans-serif;
     font-size: 16px;
     text-transform: uppercase;
@@ -4301,17 +4301,17 @@ svg.spritesheet {
 		padding: 40px 40px;
 	}
 	li h3 {
-		font-family: "Archivo";
+    font-family: $font-default;
 		font-size: 18px;
 		line-height: 23px;
-		color: #2C3038;
+		color: $blue-dark;
 		font-weight: bold;
 	}
 	li p {
-		font-family: "Archivo";
+    font-family: $font-default;
 		font-size: 18px;
 		line-height: 23px;
-		color: #2C3038;
+		color: $blue-dark;
 		font-weight: normal;
 	}
 }
@@ -5592,7 +5592,7 @@ svg.spritesheet {
 .regions-link {
   display: inline-block;
   padding: 0 16px 16px 0;
-  color: #2C3038;
+  color: $blue-dark;
   text-decoration: underline;
   cursor: pointer;
 }
