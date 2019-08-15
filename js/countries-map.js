@@ -173,8 +173,8 @@ map.on('load', function () {
             </a>`
       );
 
-      var projectStatus = document.querySelector('.projectinfo__item > .projectinfo__item__status-1');
-      var popoverTitle = document.querySelector('.popover__body__key');
+      var projectStatus = document.querySelector('.project-status');
+      var popoverTitle = document.querySelector('.popover__key');
       if (projectHover[0].properties.status === 'PUBLISHED') {
         projectStatus.textContent = "Active";
         popoverTitle.innerHTML = "Active";
@@ -182,6 +182,10 @@ map.on('load', function () {
       if (projectHover[0].properties.status === 'ARCHIVED') {
         projectStatus.textContent = "Completed";
         popoverTitle.textContent = "Completed";
+      }
+      if (projectHover[0].properties.title === 'Untitled project') {
+        projectStatus.textContent = "Unknown";
+        popoverTitle.textContent = "Unkown";
       }
 
       var coordinates = projectHover[0].geometry.coordinates.slice();
