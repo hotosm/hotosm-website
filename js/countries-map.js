@@ -149,9 +149,9 @@ map.on('load', function () {
     );
     if (projectHover.length) {
       map.getCanvas().style.cursor = 'pointer';
-      $("#popover").empty();
-      $("#popover").removeClass('hide');
-      $("#popover").append(
+      $("#map__popover").empty();
+      $("#map__popover").removeClass('hide');
+      $("#map__popover").append(
         `<figcaption class="popover__body">
             <p class="popover__body__key">${projectHover[0].properties.status}</p>
             <p class="popover__body__title">${projectHover[0].properties.title}</p>
