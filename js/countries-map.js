@@ -3,7 +3,6 @@ var countryData = {
   "type": "FeatureCollection",
   "features": []
 };
-
 var projectYears;
 
 fetch('/aggregatedStats.json')
@@ -24,6 +23,7 @@ fetch('/aggregatedStats.json')
         })
         document.getElementById("osm-stats-tab").classList.remove("active");
         updateCountryPageIntro(campaignCount);
+        projectYears = getProjectsYearRange();
       } else {
         var campaignCount = 0;
         document.getElementById("osm-stats").style.display = "flex";
