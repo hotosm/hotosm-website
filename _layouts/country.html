@@ -18,8 +18,7 @@ layout: default
 {% assign memberscount = memberscount | plus: 1 %}
 {% endif %}
 {% endfor %}
-<!-- <div class="project-index country-index"> -->
-<!-- main was here -->
+
 <!--////////////////////////////////-->
 <!--//////// Country Header ////////-->
 <!--////////////////////////////////-->
@@ -34,12 +33,12 @@ layout: default
       <div class="map__slider">
         <div class="slider-ticks">
         </div>
-        <div class="map__checkbox">
+        <!-- <div class="map__checkbox">
           <label class="map__checkbox__label">all years
-            <input type="checkbox" name="checkbox">
-            <span class="checkmark"></span>
+          <input type="checkbox" name="checkbox">
+          <span class="checkmark"></span>
           </label>
-        </div>
+        </div> -->
       </div>
       <figcaption class="map__legend">
         <img src='../../images/lone-project.png' alt="Map Legend" />
@@ -264,7 +263,9 @@ layout: default
       </p>
     </div>
   </div>
-  {% for project in sorted-projects %}
+
+
+  <!-- {% for project in sorted-projects %}
   {% if project['Country'] contains page.title %}
   {% if forloop.index > 0 %}
   <div class="container">
@@ -292,7 +293,91 @@ layout: default
   {% break %}
   {% endif %}
   {% endif %}
-  {% endfor %}
+  {% endfor %} -->
+
+  <h5 class="section-title">Our work in {{ page.title }}</h5>
+  <div class="country-page__section aligned">
+    {% for project in sorted-projects %}
+    {% if project['Country'] contains page.title %}
+    {% assign project_count = project_count | plus: 1 %}
+    {% if project_count > 3 %}
+    <ul class="projects-list">
+      <li class="projects-list__item">
+        <div class="item__image">
+          {% if project['Feature Image'] %}
+          <img class="item__image__1" src="{{ project['Feature Image']}}" alt="project image">
+          {% endif %}
+        </div>
+      </li>
+
+      <li class="projects-list__item">
+        <h3>{{ project.title }}</h3>
+        <a class="item-link" href="{{ project.url }}">
+          <p class="item-info">Lorem ipsum dolor sit amet, consectetur
+            adipiscing
+            elit,
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, Lorem ipsum dolor sit amet,
+            consectetur
+            adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor
+            sit
+            amet,
+            consectetur adipiscing elit, sed.
+          </p>
+        </a>
+      </li>
+
+      <li class="projects-list__item">
+        <div class="item__image">
+          {% if project['Feature Image'] %}
+          <img class="item__image__3" src="{{ project['Feature Image']}}" alt="project image">
+          {% endif %}
+        </div>
+        <h3>{{ project.title }}</h3>
+
+        <a class="item-link" href="{{ project.url }}">
+          <p class="item-info">Lorem ipsum dolor sit amet, consectetur
+            adipiscing
+            elit,
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, Lorem ipsum dolor sit amet,
+            consectetur
+            adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor
+            sit
+            amet,
+            consectetur adipiscing elit, sed.
+          </p>
+        </a>
+      </li>
+
+      <li class="projects-list__item">
+        <div class="item__image">
+          {% if project['Feature Image'] %}
+          <img class="item__image__4" src="{{ project['Feature Image']}}" alt="project image">
+          {% endif %}
+        </div>
+        <h3>{{ project.title }}
+        </h3>
+        <a class="item-link" href="{{ project.url }}">
+          <p class="item-info">Lorem ipsum dolor sit amet, consectetur
+            adipiscing
+            elit,
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, Lorem ipsum dolor sit amet,
+            consectetur
+            adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor
+            sit
+            amet,
+            consectetur adipiscing elit, sed.
+          </p>
+        </a>
+      </li>
+    </ul>
+
+    {% break %}
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+
+  </div>
+
   <!--////////////////////////////////-->
   <!--///////// Country News /////////-->
   <!--////////////////////////////////-->
