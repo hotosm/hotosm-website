@@ -25,6 +25,7 @@ fetch('/aggregatedStats.json')
         updateCountryPageIntro(campaignCount);
         projectYears = getProjectsYearRange();
         createTimeSlider();
+        setSliderTimeRange();
       } else {
         var campaignCount = 0;
         document.getElementById("osm-stats").style.display = "flex";
