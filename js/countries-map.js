@@ -4,6 +4,8 @@ var countryData = {
   "features": []
 };
 
+var projectYears;
+
 fetch('/aggregatedStats.json')
   .then(function (response) {
     return response.json();
