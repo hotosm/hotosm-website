@@ -27,10 +27,10 @@ fetch('/aggregatedStats.json')
         createTimeSlider();
         setSliderTimeRange();
       } else {
-        // var campaignCount = 0;
+        var campaignCount = 0;
         document.getElementById("osm-stats").style.display = "flex";
         document.getElementById("osm-stats-tab").classList.add("active");
-        // updateCountryPageIntro(campaignCount);
+        updateCountryPageIntro(campaignCount);
       }
     } else {
       document.getElementById("osm-stats").style.display = "flex";
@@ -265,14 +265,14 @@ function setSliderFilters() {
     map.setFilter('country-projects-edits-circle', ['==', ['string', ['get', 'created']], year]);
     map.setFilter('country-projects-black-circle', ['==', ['string', ['get', 'created']], year]);
     map.setFilter('country-projects-symbol', ['==', ['string', ['get', 'created']], year]);
-    checkbox.checked = false;
+    //checkbox.checked = false;
   })
 
-  checkbox.addEventListener('change', function () {
-    if (this.checked == true) {
-      map.setFilter('country-projects-edits-circle', null);
-      map.setFilter('country-projects-black-circle', null);
-      map.setFilter('country-projects-symbol', null);
-    }
-  });
+  // checkbox.addEventListener('change', function () {
+  //   if (this.checked == true) {
+  //     map.setFilter('country-projects-edits-circle', null);
+  //     map.setFilter('country-projects-black-circle', null);
+  //     map.setFilter('country-projects-symbol', null);
+  //   }
+  // });
 }
