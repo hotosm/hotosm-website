@@ -30,7 +30,7 @@ This is why the [Export Tool ](https://export.hotosm.org/en/v3/)was built — cr
 
 [![](https://paper-attachments.dropbox.com/s_512B01FC0F3AB3136BE50AE5A252375639A06472CADC109B782DFBD989DD4637_1564596152616_Screen\+Shot\+2019-07-31\+at\+10.56.11.png)](export.hotosm.org/en/v3/)
 
-## Match Made in Heaven: Making HOT data more complementary for humanitarians
+## Making HOT data more complementary for humanitarians
 
 The last big round of development took place in 2017, which focused on opening up the tool for global exports, improving the way features are filtered, adding additional file formats and integrating the OSM2HDX extension to push datasets onto the Humanitarian Data Exchange (HDX) platform. The collaboration with HDX was a great success, enabling us to get OSM datasets to more humanitarians which have gone on to be among the most downloaded datasets in 2018 and 2019! As we continue to support partner organisations respond to numerous crises across the globe, we are looking to make OSM datasets even more useful for humanitarians. Part of this includes breaking out the Points of Interests (POIs) datasets – which are specific points on the map about places – on HDX into standalone datasets for airports, health and education facilities, as well as the addition of populated places. This more granular level of detail can make the difference when you’re working in a crisis and need to understand where is the closest health centre. This will help support the new ‘Data Grid’ feature from HDX, which aims to get the right data to the right people, depending on who is looking and what they are looking for.
 
