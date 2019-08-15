@@ -6,7 +6,7 @@ Summary Text: Melanie Chabot is a GIS Coordinator with the Canadian Red Cross. S
   to indigenous communities and to assist with disaster preparedness and response
   in these areas.
 Feature Image: "/uploads/IMG_0728-small.JPG"
-Person: Melanie Charbot
+Person: Melanie Chabot
 Country:
 - Canada
 ---
