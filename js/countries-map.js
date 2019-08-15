@@ -257,3 +257,22 @@ function setSliderTimeRange() {
     document.getElementById("slider-ticks").appendChild(paragraph);
   })
 }
+
+function setSliderFilters() {
+  const checkbox = document.querySelector("input[name=checkbox]");
+  document.getElementById('slider').addEventListener('input', function (e) {
+    const year = e.target.value;
+    map.setFilter('country-projects-edits-circle', ['==', ['string', ['get', 'created']], year]);
+    map.setFilter('country-projects-black-circle', ['==', ['string', ['get', 'created']], year]);
+    map.setFilter('country-projects-symbol', ['==', ['string', ['get', 'created']], year]);
+    checkbox.checked = false;
+  })
+
+  checkbox.addEventListener('change', function () {
+    if (this.checked == true) {
+      map.setFilter('country-projects-edits-circle', null);
+      map.setFilter('country-projects-black-circle', null);
+      map.setFilter('country-projects-symbol', null);
+    }
+  });
+}
