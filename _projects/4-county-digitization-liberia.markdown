@@ -9,6 +9,7 @@ Country:
 Impact Area:
 - Poverty Elimination
 Person:
+- Paul Uithol
 - Jess Beutler
 Partner:
 - World Bank
