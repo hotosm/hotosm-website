@@ -5,6 +5,7 @@ Summary Text: Melanie Charbot is a GIS Coordinator with the Canadian Red Cross. 
   leads the Missing Maps pilot project in Canada which aims to map areas important
   to indigenous communities and to assist with disaster preparedness and response
   in these areas.
+Feature Image: "/uploads/IMG_0728-small.JPG"
 Person: Melanie Charbot
 Country:
 - Canada
@@ -13,10 +14,6 @@ Country:
 In June 2018 we started a pilot project to bring [Missing Maps](http://www.missingmaps.org/) to Canada and build resilience in remote communities. Many of these remote communities in Canada are Indigenous Peoples who live on reserves and although we didn’t explicitly set out to map Indigenous communities, we think this is a really interesting part of the project. The Canadian Red Cross wants to reduce the impact and risk of disasters, so building community resilience and disaster preparedness in Indigenous communities is an important part of that.
 
 The project’s purpose was to find communities that are interested in improving their maps in OpenStreetMap. We work with them to map their community in a way that they see fit and create mapping products with them to improve their emergency preparedness.
-
-![IMG_0728-small.JPG](/uploads/IMG_0728-small.JPG)
-
-*Melanie creates GPS track of an interpretive trail used by a Missing Maps pilot community with the help of a community member to be uploaded into OpenStreetMap.*
 
 ### **About the communities**
 
@@ -56,4 +53,4 @@ We ran a Mapswipe project in May to scan through the forests looking for houses 
 
 The OpenStreetMap community in Canada has been really supportive of this project as they’re also interested in mapping rural and remote areas of Canada. For me, this was a dream opportunity to use mapping to help other communities. It’s nice to know that I can help others learn how to map and to use that mapping for emergency preparedness is exciting. I’m honoured that they welcomed me into their community and shared their local knowledge with me.
 
-*This article was written from an interview with Melanie Charbot, GIS Coordinator, Canadian Red Cross.*
+*This article was written from an interview with Melanie Charbot, GIS Coordinator, Canadian Red Cross. Featured image at the top shows Melanie creating a GPS track of an interpretive trail used by a Missing Maps pilot community with the help of a community member, to be uploaded into OpenStreetMap.*
