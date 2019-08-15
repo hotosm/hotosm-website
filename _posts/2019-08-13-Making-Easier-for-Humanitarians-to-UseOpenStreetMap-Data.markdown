@@ -36,6 +36,9 @@ The last big round of development took place in 2017, which focused on opening u
 
 Part of this includes breaking out the Points of Interests (POIs) datasets – which are specific points on the map about places – on HDX into standalone datasets for airports, health and education facilities, as well as the addition of populated places. This more granular level of detail can make the difference when you’re working in a crisis and need to understand where is the closest health centre. This will help support the new ‘Data Grid’ feature from HDX, which aims to get the right data to the right people, depending on who is looking and what they are looking for.
 
+<br>
+<br>
+
 ![](https://paper-attachments.dropbox.com/s_512B01FC0F3AB3136BE50AE5A252375639A06472CADC109B782DFBD989DD4637_1564595467749_hdx-download-stats.png)
 
 HDX groups crisis data into six categories:
