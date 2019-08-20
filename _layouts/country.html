@@ -446,44 +446,7 @@ layout: default
   {% break %}
   {% endif %}
   {% endfor %}
-  <!--////////////////////////////////-->
-  <!--///// Country All Projects /////-->
-  <!--////////////////////////////////-->
-  {% assign project_head_count = 0 %}
-  {% for project in sorted-projects %}
-  {% if project['Country'] contains page.title %}
-  {% assign project_head_count = project_head_count | plus: 1 %}
-  {% if project_head_count > 3 %}
-  <div class="container">
-    <div class="hr-h"></div>
-    <h6>More Projects</h6>
-    <div class="project-index-all">
-      {% break %}
-      {% endif %}
-      {% endif %}
-      {% endfor %}
-      {% assign project_count = 0 %}
-      {% for project in sorted-projects %}
-      {% if project['Country'] contains page.title %}
-      {% assign project_count = project_count | plus: 1 %}
-      {% if project_count > 3 %}
-      {% unless project_count < 4 %}
-      {% include blocks/project-thumb.html %}
-      {% endunless %}
-      {% endif %}
-      {% endif %}
-      {% endfor %}
-      {% assign project_foot_count = 0 %}
-      {% for project in sorted-projects %}
-      {% if project['Country'] contains page.title %}
-      {% assign project_foot_count = project_foot_count | plus: 1 %}
-      {% if project_foot_count > 3 %}
-    </div>
-  </div>
-  {% break %}
-  {% endif %}
-  {% endif %}
-  {% endfor %}
+
 </div>
 <script>
   var countryName = "{{ page.title }}";
