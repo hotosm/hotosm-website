@@ -35,7 +35,7 @@ layout: default
   <div class="country-page__section">
     <figure class="map">
       <div id="map-view" class="map__view"></div>
-      <figcaption class="map__popover" id="map__popover">
+      <figcaption class="map__popover hide" id="map__popover">
       </figcaption>
       <div class="map__slider">
         <div class="slider-ticks">
@@ -172,7 +172,7 @@ layout: default
   <!--////////////////////////////////-->
   <!--////// Country Highlights //////-->
   <!--////////////////////////////////-->
-  <div class="container">
+  <div class="country-page__section aligned">
     <!-- Tab links -->
     <div class="tab">
       <h6>{{ page.title }} Stats:</h6>
@@ -181,7 +181,7 @@ layout: default
     </div>
   </div>
   <!-- Tab content -->
-  <div id="hot-stats" class="hide tabcontent container home-stats">
+  <div id="hot-stats" class="hide tabcontent country-page__section aligned home-stats">
     <div class="home-stat">
       <center>
         <p class="loader"></p>
@@ -225,7 +225,7 @@ layout: default
       </p>
     </div>
   </div>
-  <div id="osm-stats" class="tabcontent container home-stats" style="display:none">
+  <div id="osm-stats" class="tabcontent country-page__section aligned home-stats" style="display:none">
     <div class="home-stat">
       <center>
         <p class="osm-loader"></p>
@@ -280,15 +280,15 @@ layout: default
       <!-- if  1 project  -->
       {% if highlight_count == 1 %}
       <li class="projects-list__item">
-        <div class="item__image">
+        <div class="projects-list__item__body">
           {% assign project = country-projects[0] | split: '||' %}
           {% if project[1] %}
-          <img class="item__image__1" src="{{ project[1]}}" alt="project image">
+          <img class="item-image1" src="{{ project[1]}}" alt="project image">
           {% endif %}
         </div>
       </li>
       <li class="projects-list__item">
-        <h3>{{ project[0] }}</h3>
+        <h3 class="item-title">{{ project[0] }}</h3>
         <a class="item-link" href="{{ project.url }}">
           <p class="item-info">{{ project[3] }}
           </p>
@@ -300,14 +300,14 @@ layout: default
       {% if highlight_count == 2 %}
       {% assign project = country-projects[0] | split: '||' %}
       <li class="projects-list__item">
-        <div class="item__image">
+        <div class="projects-list__item__body">
           {% if project[1] %}
-          <img class="item__image__1" src="{{ project[1] }}" alt="project image">
+          <img class="item-image" src="{{ project[1] }}" alt="project image">
           {% endif %}
         </div>
       </li>
       <li class="projects-list__item">
-        <h3>{{ project[0] }}</h3>
+        <h3 class="item-title">{{ project[0] }}</h3>
         <a class="item-link" href="{{ project.url }}">
           <p class="item-info">{{ project[3] }}
           </p>
@@ -315,12 +315,12 @@ layout: default
       </li>
       {% assign project = country-projects[1] | split: '||' %}
       <li class="projects-list__item">
-        <div class="item__image">
+        <div class="projects-list__item__body">
           {% if project[1] %}
-          <img class="item__image__3" src="{{ project[1] }}" alt="project image">
+          <img class="item-image" src="{{ project[1] }}" alt="project image">
           {% endif %}
         </div>
-        <h3>{{ project[0] }}</h3>
+        <h3 class="item-title">{{ project[0] }}</h3>
         <a class="item-link" href="{{ project.url }}">
           {% if project[2] %}
           <p class="item-info">{{ project[2] }}
@@ -335,14 +335,14 @@ layout: default
       {% assign project = country-projects[0] | split: '||' %}
       {% assign projectdescription = project[2] | split: '||' %}
       <li class="projects-list__item">
-        <div class="item__image">
+        <div class="projects-list__item__body">
           {% if project[1] %}
-          <img class="item__image__1" src="{{ project[1] }}" alt="project image">
+          <img class="item-image" src="{{ project[1] }}" alt="project image">
           {% endif %}
         </div>
       </li>
       <li class="projects-list__item">
-        <h3>{{ project[0]}}</h3>
+        <h3 class="item-title">{{ project[0]}}</h3>
         <a class="item-link" href="{{ project.url }}">
           <p class="item-info">
             <!-- {{ project[3] }} -->
@@ -354,12 +354,12 @@ layout: default
       {% assign project = country-projects[1] | split: '||' %}
       {% assign projectdescription = project[2] | split: '||' %}
       <li class="projects-list__item">
-        <div class="item__image">
+        <div class="projects-list__item__body">
           {% if project[1] %}
-          <img class="item__image__3" src="{{ project[1] }}" alt="project image">
+          <img class="item-image" src="{{ project[1] }}" alt="project image">
           {% endif %}
         </div>
-        <h3>{{ project[0] }}</h3>
+        <h3 class="item-title">{{ project[0] }}</h3>
         <a class="item-link" href="{{ project.url }}">
           {% if project[3] %}
           <p class="item-info">
@@ -373,12 +373,12 @@ layout: default
       {% assign project = country-projects[2] | split: '||' %}
       {% assign projectdescription = project[2] | split: '||' %}
       <li class="projects-list__item">
-        <div class="item__image">
+        <div class="projects-list__item__body">
           {% if project[1] %}
-          <img class="item__image__4" src="{{ project[1] }}" alt="project image">
+          <img class="item-image" src="{{ project[1] }}" alt="project image">
           {% endif %}
         </div>
-        <h3>{{ project[0] }}
+        <h3 class="item-title">{{ project[0] }}
         </h3>
         <a class="item-link" href="{{ project.url }}">
           {% if project[3] %}
@@ -422,16 +422,12 @@ layout: default
 
           {% if post['Feature Image'] %}
           <div class="news-item__link__content">
-            <img class="news-item__img" src="{{ post['Feature Image'] }}" alt=" " />
+            <img class="news-item-img" src="{{ post['Feature Image'] }}" alt=" " />
             {% endif %}
           </div>
           <h6 class="news-item__title">
             {{ post.title }}
           </h6>
-
-
-
-
         </a>
       </article>
 
@@ -448,6 +444,7 @@ layout: default
   {% endfor %}
 
 </div>
+
 <script>
   var countryName = "{{ page.title }}";
   var countryCode = "{{ page.names }}".substr(-5, 2);
