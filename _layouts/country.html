@@ -2,16 +2,23 @@
 layout: default
 ---
 {% assign sorted-projects = site.projects | sort:"position" %}
+{% assign country-projects = '' | split: '' %}
 {% assign projects = false %}
 {% assign members = false %}
 {% assign projectcount = 0 %}
 {% assign memberscount = 0 %}
+{% capture country-projects %}
 {% for project in sorted-projects %}
 {% if project['Country'] contains page.title %}
+{% assign project = project | split: '' %}
 {% assign projects = true %}
 {% assign projectcount = projectcount | plus: 1 %}
+{{ project.title }} || {{ project['Feature Image'] }} || {{ project['Project Summary Text'] }} ||
+{{ project.description }}^^
 {% endif %}
 {% endfor %}
+{% endcapture %}
+{% assign country-projects = country-projects | split: '^^' %}
 {% for person in site.people %}
 {% if page.title contains person.Country and person['Member Type']['Is Voting Member'] %}
 {% assign members = true %}
@@ -265,118 +272,128 @@ layout: default
   </div>
 
 
-  <!-- {% for project in sorted-projects %}
-  {% if project['Country'] contains page.title %}
-  {% if forloop.index > 0 %}
-  <div class="container">
-    <div class="project-index-highlights">
-      <h6>Our work in {{ page.title }}</h6>
-      {% break %}
-      {% endif %}
-      {% endif %}
-      {% endfor %}
-      {% assign highlight_count = 0 %}
-      {% for project in sorted-projects %}
-      {% if project['Country'] contains page.title %}
-      {% assign highlight_count = highlight_count | plus: 1 %}
-      {% if highlight_count > 3 %}
-      {% break %}
-      {% endif %}
-      {% include blocks/project-highlight.html %}
-      {% endif %}
-      {% endfor %}
-      {% for project in sorted-projects %}
-      {% if project['Country'] contains page.title %}
-      {% if forloop.index > 0 %}
-    </div>
-  </div>
-  {% break %}
-  {% endif %}
-  {% endif %}
-  {% endfor %} -->
 
   <h5 class="section-title">Our work in {{ page.title }}</h5>
   <div class="country-page__section aligned">
-    {% for project in sorted-projects %}
-    {% if project['Country'] contains page.title %}
-    {% assign project_count = project_count | plus: 1 %}
-    {% if project_count > 3 %}
     <ul class="projects-list">
+      {% assign highlight_count = country-projects.size | minus: 1 %}
+      <!-- if  1 project  -->
+      {% if highlight_count == 1 %}
       <li class="projects-list__item">
         <div class="item__image">
-          {% if project['Feature Image'] %}
-          <img class="item__image__1" src="{{ project['Feature Image']}}" alt="project image">
+          {% assign project = country-projects[0] | split: '||' %}
+          {% if project[1] %}
+          <img class="item__image__1" src="{{ project[1]}}" alt="project image">
           {% endif %}
         </div>
       </li>
-
       <li class="projects-list__item">
-        <h3>{{ project.title }}</h3>
+        <h3>{{ project[0] }}</h3>
         <a class="item-link" href="{{ project.url }}">
-          <p class="item-info">Lorem ipsum dolor sit amet, consectetur
-            adipiscing
-            elit,
-            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, Lorem ipsum dolor sit amet,
-            consectetur
-            adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor
-            sit
-            amet,
-            consectetur adipiscing elit, sed.
+          <p class="item-info">{{ project[3] }}
+          </p>
+        </a>
+      </li>
+      {% endif %}
+
+      <!-- if 2 projects  -->
+      {% if highlight_count == 2 %}
+      {% assign project = country-projects[0] | split: '||' %}
+      <li class="projects-list__item">
+        <div class="item__image">
+          {% if project[1] %}
+          <img class="item__image__1" src="{{ project[1] }}" alt="project image">
+          {% endif %}
+        </div>
+      </li>
+      <li class="projects-list__item">
+        <h3>{{ project[0] }}</h3>
+        <a class="item-link" href="{{ project.url }}">
+          <p class="item-info">{{ project[3] }}
+          </p>
+        </a>
+      </li>
+      {% assign project = country-projects[1] | split: '||' %}
+      <li class="projects-list__item">
+        <div class="item__image">
+          {% if project[1] %}
+          <img class="item__image__3" src="{{ project[1] }}" alt="project image">
+          {% endif %}
+        </div>
+        <h3>{{ project[0] }}</h3>
+        <a class="item-link" href="{{ project.url }}">
+          {% if project[2] %}
+          <p class="item-info">{{ project[2] }}
+          </p>
+          {% endif %}
+        </a>
+      </li>
+      {% endif %}
+
+      <!-- if 3 projects  -->
+      {% if highlight_count > 2 %}
+      {% assign project = country-projects[0] | split: '||' %}
+      {% assign projectdescription = project[2] | split: '||' %}
+      <li class="projects-list__item">
+        <div class="item__image">
+          {% if project[1] %}
+          <img class="item__image__1" src="{{ project[1] }}" alt="project image">
+          {% endif %}
+        </div>
+      </li>
+      <li class="projects-list__item">
+        <h3>{{ project[0]}}</h3>
+        <a class="item-link" href="{{ project.url }}">
+          <p class="item-info">
+            <!-- {{ project[3] }} -->
+            {{ projectdescription }}
           </p>
         </a>
       </li>
 
+      {% assign project = country-projects[1] | split: '||' %}
+      {% assign projectdescription = project[2] | split: '||' %}
       <li class="projects-list__item">
         <div class="item__image">
-          {% if project['Feature Image'] %}
-          <img class="item__image__3" src="{{ project['Feature Image']}}" alt="project image">
+          {% if project[1] %}
+          <img class="item__image__3" src="{{ project[1] }}" alt="project image">
           {% endif %}
         </div>
-        <h3>{{ project.title }}</h3>
-
+        <h3>{{ project[0] }}</h3>
         <a class="item-link" href="{{ project.url }}">
-          <p class="item-info">Lorem ipsum dolor sit amet, consectetur
-            adipiscing
-            elit,
-            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, Lorem ipsum dolor sit amet,
-            consectetur
-            adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor
-            sit
-            amet,
-            consectetur adipiscing elit, sed.
+          {% if project[3] %}
+          <p class="item-info">
+            <!-- {{ project[3] }} -->
+            {{ projectdescription }}
           </p>
+          {% endif %}
         </a>
       </li>
 
+      {% assign project = country-projects[2] | split: '||' %}
+      {% assign projectdescription = project[2] | split: '||' %}
       <li class="projects-list__item">
         <div class="item__image">
-          {% if project['Feature Image'] %}
-          <img class="item__image__4" src="{{ project['Feature Image']}}" alt="project image">
+          {% if project[1] %}
+          <img class="item__image__4" src="{{ project[1] }}" alt="project image">
           {% endif %}
         </div>
-        <h3>{{ project.title }}
+        <h3>{{ project[0] }}
         </h3>
         <a class="item-link" href="{{ project.url }}">
-          <p class="item-info">Lorem ipsum dolor sit amet, consectetur
-            adipiscing
-            elit,
-            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, Lorem ipsum dolor sit amet,
-            consectetur
-            adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor
-            sit
-            amet,
-            consectetur adipiscing elit, sed.
+          {% if project[3] %}
+          <p class="item-info">
+            <!-- {{ project[3] }} -->
+            {{ projectdescription }}
           </p>
+          {% endif %}
         </a>
       </li>
+      {% endif %}
     </ul>
-
-    {% break %}
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-
   </div>
+
+
 
   <!--////////////////////////////////-->
   <!--///////// Country News /////////-->
