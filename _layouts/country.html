@@ -398,50 +398,50 @@ layout: default
   <!--////////////////////////////////-->
   <!--///////// Country News /////////-->
   <!--////////////////////////////////-->
+
   {% for post in site.posts %}
   {% if post['Country'] contains page.title %}
-  <div class="container">
-    <div class="project-index-news">
-      <h6>Recent news from {{ page.title }} <span>(<a href="/updates">View all news</a>)</span></h6>
-      <div class="project-index-news-list">
-        {% break %}
-        {% endif %}
-        {% endfor %}
-        {% assign news_count = 0 %}
-        {% for post in site.posts %}
-        {% if post['Country'] contains page.title %}
-        {% assign news_count = news_count | plus: 1 %}
-        {% if news_count > 6 %}
-        {% break %}
-        {% else %}
-        <div class="news-index-item">
-          <div class="news-list-summary">
-            <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
-              <a href="{{ post.url }}">
-                <h3>{{ post.title }}</h3>
-              </a>
-              <p>{{ post['Summary Text']}}</p>
-              {% capture post.Person %}{% endcapture %}
-              <div class="news-list-meta">
-                <p class="news-index-author">
-                  {% include author.html %} — {{ post.date | date:  '%e %B, %Y' }}
-                </p>
-              </div>
-            </div>
-            {% if post['Feature Image'] %}
-            <div class="news-list-image-sm">
-              <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
-            </div>
+
+  <h5 class="section-title">NEWS</h5>
+  <div class="country-page__section aligned">
+    <section class="newsgroup">
+      {% break %}
+      {% endif %}
+      {% endfor %}
+      {% assign news_count = 0 %}
+      {% for post in site.posts %}
+      {% if post['Country'] contains page.title %}
+
+      {% assign news_count = news_count | plus: 1 %}
+      {% if news_count > 4 %}
+      {% break %}
+      {% else %}
+      <article class="news-item">
+        <a class="news-item__link" href="{{ post.url }}">
+
+
+          {% if post['Feature Image'] %}
+          <div class="news-item__link__content">
+            <img class="news-item__img" src="{{ post['Feature Image'] }}" alt=" " />
             {% endif %}
           </div>
-        </div>
-        {% endif %}
-        {% endif %}
-        {% endfor %}
-        {% for post in site.posts %}
-        {% if post['Country'] contains page.title %}
-      </div>
-    </div>
+          <h6 class="news-item__title">
+            {{ post.title }}
+          </h6>
+
+
+
+
+        </a>
+      </article>
+
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+      {% for post in site.posts %}
+      {% if post['Country'] contains page.title %}
+      <span><a class="newsgroup__link" href="/updates">More news</a></span>
+    </section>
   </div>
   {% break %}
   {% endif %}
