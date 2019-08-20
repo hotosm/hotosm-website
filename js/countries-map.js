@@ -185,7 +185,7 @@ map.on('load', function () {
       }
       if (projectHover[0].properties.title === 'Untitled project') {
         projectStatus.textContent = "Unknown";
-        popoverTitle.textContent = "Unkown";
+        popoverTitle.textContent = "Unknown";
       }
 
       var coordinates = projectHover[0].geometry.coordinates.slice();
