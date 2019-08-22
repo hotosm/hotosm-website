@@ -1,6 +1,6 @@
 ---
 title: Using machine learning to identify the effort and complexity of mapping areas
-date: 2019-08-15 09:00:00 Z
+date: 2019-08-22 09:00:00 Z
 Summary Text: Testing more machine learning integrations with the Tasking Manager
 Feature Image: "/uploads/tm-ml-project-creation.jpg"
 Person: 
@@ -33,3 +33,5 @@ Automated splitting is also available for users to choose to split based on expe
 We also see an opportunity to use this predicted estimation to help the Tasking Manager assign the tasks to the right mappers, depending on the estimated complexity and the experience level of the users. And for example, assign highly complex tasks to more experienced mappers.
 
 Here, machine learning is being used as a decision support tool, making the job of the project manager easier, and enabling faster completion of the mapping project with right-sized chunks of work for mappers of different skill levels.
+
+All of this work builds on the [ML Enabler work](https://www.hotosm.org/updates/the-machine-learning-enabler/) we launched in July with [Development Seed](https://developmentseed.org/). The new features have been rolled out on the [tasks-assisted.hotosm.org](https://tasks-assisted.hotosm.org) and currently only available for project managers to test within Uganda. We'll be soliciting feedback and working to get these features available into the main Tasking Manager soon.
