@@ -181,9 +181,7 @@ layout: default
   <!-- Tab content -->
   <div id="hot-stats" class="hide tabcontent country-page__section aligned home-stats">
     <div class="home-stat">
-      <center>
-        <p class="loader"></p>
-      </center>
+      <p class="loader"></p>
       <p class="stat-number" id="Community-Mappers">
         <span class="icon-user icon-responsive"></span>
       </p>
@@ -193,9 +191,7 @@ layout: default
     </div>
     <div class="hr-v"></div>
     <div class="home-stat">
-      <center>
-        <p class="loader"></p>
-      </center>
+      <p class="loader"></p>
       <p class="stat-number" id="Total-Map-Edits">
         <span class="icon-pencil icon-responsive"></span>
       </p>
@@ -206,9 +202,7 @@ layout: default
     </div>
     <div class="hr-v hide-sm"></div>
     <div class="home-stat">
-      <center>
-        <p class="loader"></p>
-      </center>
+      <p class="loader"></p>
       <p class="stat-number" id="Buildings-Mapped">
         <span class="icon-house icon-responsive"></span>
       </p>
@@ -219,9 +213,7 @@ layout: default
     </div>
     <div class="hr-v"></div>
     <div class="home-stat">
-      <center>
-        <p class="loader"></p>
-      </center>
+      <p class="loader"></p>
       <p class="stat-number" id="Roads-Mapped">
         <span class="icon-road icon-responsive"></span>
       </p>
@@ -233,9 +225,9 @@ layout: default
   </div>
   <div id="osm-stats" class="tabcontent country-page__section aligned home-stats" style="display:none">
     <div class="home-stat">
-      <center>
+      <div class="home-stat__osm-loader-container">
         <p class="osm-loader"></p>
-      </center>
+      </div>
       <p class="stat-number" id="OSM-Community-Mappers">
         <span class="icon-user icon-responsive"></span>
       </p>
@@ -246,9 +238,9 @@ layout: default
     </div>
     <div class="hr-v"></div>
     <div class="home-stat">
-      <center>
+      <div class="home-stat__osm-loader-container">
         <p class="osm-loader"></p>
-      </center>
+      </div>
       <p class="stat-number" id="OSM-Total-Map-Edits">
         <span class="icon-pencil icon-responsive"></span>
       </p>
@@ -259,9 +251,9 @@ layout: default
     </div>
     <div class="hr-v hide-sm"></div>
     <div class="home-stat">
-      <center>
+      <div class="home-stat__osm-loader-container">
         <p class="osm-loader"></p>
-      </center>
+      </div>
       <p class="stat-number" id="OSM-Buildings-Mapped">
         <span class="icon-house icon-responsive"></span>
       </p>
@@ -272,9 +264,11 @@ layout: default
     </div>
     <div class="hr-v"></div>
     <div class="home-stat">
-      <center>
+      <!-- <center> -->
+      <div class="home-stat__osm-loader-container">
         <p class="osm-loader"></p>
-      </center>
+      </div>
+      <!-- </center> -->
       <p class="stat-number" id="OSM-Roads-Mapped">
         <span class="icon-road icon-responsive"></span>
       </p>
