@@ -275,11 +275,11 @@ function setSliderFilters() {
     checkbox.checked = false;
   })
 
-  // checkbox.addEventListener('change', function () {
-  //   if (this.checked == true) {
-  //     map.setFilter('country-projects-edits-circle', null);
-  //     map.setFilter('country-projects-black-circle', null);
-  //     map.setFilter('country-projects-symbol', null);
-  //   }
-  // });
+  checkbox.addEventListener('change', function () {
+    if (this.checked == true) {
+      map.setFilter('country-projects-edits-circle', null);
+      map.setFilter('country-projects-black-circle', null);
+      map.setFilter('country-projects-symbol', null);
+    }
+  });
 }
