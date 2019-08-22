@@ -3,7 +3,7 @@ title: Using machine learning to identify the effort and complexity of mapping a
 date: 2019-08-22 09:00:00 Z
 Summary Text: Testing more machine learning integrations with the Tasking Manager
 Feature Image: "/uploads/tm-ml-project-creation.jpg"
-Person: 
+Person:
 - Matthias Funke
 - Felix Delattre
 Working Group:
