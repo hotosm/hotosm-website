@@ -230,7 +230,11 @@ function updateCountryPageIntro(campaignCount) {
 function getProjectsYearRange() {
   const arrayOfYears = countryData.features.map(countryProject => countryProject.properties.created)
     .map(item => Number(item));
-  return arrayOfYears.filter((year, index) => index === arrayOfYears.indexOf(year)).sort((a, b) => a - b);
+  const removeDuplicateYears = arrayOfYears.filter((year, index) => index === arrayOfYears.indexOf(year)).sort((a, b) => a - b);
+  const minYear = Math.min(...removeDuplicateYears);
+  const maxYear = Math.max(...removeDuplicateYears);
+  const createRangeofYears = Array.from({ length: maxYear - minYear }, (x, index) => minYear + index).filter(year => !removeDuplicateYears.includes(year));
+  return [...removeDuplicateYears, ...createRangeofYears].sort((a, b) => a - b);
 }
 
 function createTimeSlider() {
@@ -265,7 +269,7 @@ function setSliderFilters() {
     map.setFilter('country-projects-edits-circle', ['==', ['string', ['get', 'created']], year]);
     map.setFilter('country-projects-black-circle', ['==', ['string', ['get', 'created']], year]);
     map.setFilter('country-projects-symbol', ['==', ['string', ['get', 'created']], year]);
-    //checkbox.checked = false;
+    checkbox.checked = false;
   })
 
   // checkbox.addEventListener('change', function () {
