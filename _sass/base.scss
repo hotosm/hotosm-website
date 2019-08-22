@@ -3768,6 +3768,12 @@ div.mapboxgl-popup-content .project__details {
   }
 }
 
+.home-stat__osm-loader-container {
+  display:flex;
+  justify-content: center;
+  align-items:center;
+}
+
 .stat-number {
   font-family: $font-headline;
   font-size: 2.25rem;
