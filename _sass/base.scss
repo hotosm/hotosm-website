@@ -3776,8 +3776,75 @@ div.mapboxgl-popup-content .project__details {
   letter-spacing: .02em;
   color: $red;
   @media (max-width: $screen-xs) {
-    font-size: 1.875rem;
+    font-size: 20px;
   }
+}
+
+.icon-user:before {
+	background-image: url(../images/m-users.svg);
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	content: '';
+	position: absolute;
+	top: 50%;
+	transform: translate(0, -50%);
+	left: 10px;
+}
+
+.icon-pencil:before {
+	background-image: url(../images/m-edit.svg);
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	content: '';
+	position: absolute;
+	top: 50%;
+	transform: translate(0, -50%);
+	left: 10px;
+}
+
+.icon-road:before {
+	background-image: url(../images/m-road.svg);
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	content: '';
+	position: absolute;
+	top: 50%;
+	transform: translate(0, -50%);
+	left: 10px;
+}
+
+.icon-house:before {
+	background-image: url(../images/m-building.svg);
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	content: '';
+	position: absolute;
+	top: 50%;
+	transform: translate(0, -50%);
+	left: 10px;
+}
+
+.icon-user,
+.icon-pencil,
+.icon-house,
+.icon-road {
+	position: relative;
+	padding-left: 52px;
+}
+
+.icon-responsive,
+.icon-responsive:before,
+.icon-responsive:after {
+	width: 34px;
+	height: 34px;
+}
+
+.icon-responsive:before {
+	left: 5px;
 }
 
 .stat-title {
@@ -4127,7 +4194,6 @@ input[type=range]::-webkit-slider-thumb {
   } 
 }
 
-
 [type=range]::-webkit-slider-thumb {
   -webkit-appearance: none;
   width: 30px;
@@ -4445,6 +4511,8 @@ svg.spritesheet {
 
   @media (min-width: 320px) {
     margin: 50px 0 40px;
+
+    margin: 50px 4px 0px;
   }
 
   @media (min-width: 768px) {
@@ -4472,6 +4540,8 @@ svg.spritesheet {
   @media (min-width: 320px) {
     grid-gap: 0;
     padding: 0;
+
+    padding:40px;
   }
 
   @media (min-width: 480px) {
@@ -4637,6 +4707,10 @@ svg.spritesheet {
 .newsgroup {
   display: grid;
   background: rgba(246, 246, 246, 0.5);
+
+  @media (min-width: 320px) { 
+    padding: 40px;
+  }
 
   @media (min-width: 768px) {
     grid-template-columns: repeat(2, minmax(0, 1fr));
