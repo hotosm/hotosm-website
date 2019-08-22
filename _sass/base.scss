@@ -4053,6 +4053,8 @@ sup {
     font-family: $font-default;;
     font-weight: normal;
     font-size: 16px;
+    z-index: -1;
+    background: rgba(70, 134, 146, 0.5);
   }
 }
 
@@ -4085,8 +4087,164 @@ sup {
 .slider::-moz-range-thumb {
 	width: 25px;
 	height: 25px;
-	background: #D73F3F;
+	background: $red;
 	cursor: pointer;
+}
+
+input[type=range] {
+  -webkit-appearance: none;
+  display: block;
+  margin: 0;
+  width: 100%;
+  background: transparent; 
+}
+
+[type=range] {
+  -webkit-appearance: none;
+  margin: 20px 0;
+
+}
+
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 40px;
+  height: 40px; 
+  border-radius: 30px;
+  cursor: pointer; 
+}
+
+input[type=range]::-webkit-slider-thumb {
+  background: $red;
+
+  @media (min-width: 768px) {
+        height: 30px;
+        width: 30px;
+  }
+
+  @media (min-width: 1024px) {
+        height: 30px;
+        width: 30px;
+  } 
+}
+
+
+[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  background: transparent;
+}
+
+input[type=range]:focus {
+  outline: none;
+}
+
+[type=range]:focus {
+  outline: 0;
+}
+input[type=range]::-moz-focus-outer { 
+  border: 0; 
+}
+
+input[type=range]::-ms-thumb {
+  height: 40px;
+  width: 40px;
+  border-radius: 30px;
+  cursor: pointer;
+  background: $red;
+}
+
+[type=range]::-ms-thumb {
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+  margin-top: 0;
+  background: transparent;
+}
+
+[type=range]::-moz-range-thumb {
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+  background: transparent;
+  border-radius: 30px;
+  cursor: pointer;
+  background:$red;
+}
+
+input[type=range]::-ms-track {
+  width: 100%;
+  height: 25px;
+  cursor: pointer;
+  background: transparent;
+  border-color: transparent;
+  color: transparent; 
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 25px;
+  cursor: pointer;
+  background: transparent;
+}
+
+[type=range]::-moz-range-track {
+  cursor: pointer;
+  height: 25px;
+  background: transparent;
+}
+
+.range {
+  position: relative;
+  margin-bottom: 20px;
+  margin-bottom: 60px;
+
+  @media (min-width: 320px) {
+    display: none;
+  }
+
+  @media (min-width: 768px) {
+    display: block;
+    width: 360px;
+  }
+  @media (min-width: 1024px) {
+    width: 600px;
+  }
+}
+
+.ticks {
+  position: absolute;
+  z-index: -1;
+  top: -30%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 22.5px;
+  color: $blue-dark;
+  font-family: $font-default;
+}
+
+.tick {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  width: 8px;
+  height: 8px; 
+  border-radius: 100%;
+  background: rgba(104, 112, 127, 0.8);
+  line-height: 60px;
+}
+
+.track {
+  position: relative;
+  top: 19px;
+  height: 1px;
+  background: rgba(70, 134, 146, 0.5); 
 }
 
 .map__checkbox {
@@ -4130,7 +4288,7 @@ sup {
 	left: 0;
 	height: 24px;
 	width: 24px;
-	border: 3px solid rgba(164, 162, 163, 0.5);
+	border: 1px solid rgba(164, 162, 163, 1);
 }
 
 .map__checkbox__label:hover input~.checkmark {
@@ -4139,7 +4297,7 @@ sup {
 }
 
 .map__checkbox__label input:checked~.checkmark {
-	// background-color: #D73F3F;
+
 }
 
 .checkmark:after {
@@ -4268,13 +4426,9 @@ svg.spritesheet {
 	}
 }
 
-// .map__checkbox {
-// 	display: none;
-// }
-
 //OUR WORK SECTION
 
-  .aligned {
+ .aligned {
     margin: 0 auto;
   }
 
