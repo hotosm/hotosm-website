@@ -1,7 +1,6 @@
 ---
 title: A map editor for the Tasking Manager
 date: 2019-07-31 09:00:00 Z
-Summary Text: 
 Feature Image: "/uploads/tm-and-id.jpg"
 Person: Felix Delattre
 Working Group:
@@ -10,7 +9,7 @@ Project:
 - 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
 ---
 
-The mappers of the HOT Tasking Manager are our driving force to generate vital data for humanitarian response. Over the past six months, we have been hard at work to put their experience first. Earlier this year we reached out to the community to understand how they use the [Tasking Manager](https://tasks.hotosm.org) – the open source software that coordinates mapping for OpenStreetMap – and looked at how our mappers use the tool. What problems were they facing? How easy is it for them to map? Do they want to return? Our findings have helped us identify ways forward for making mapping for OpenStreetMap more user friendly, and I'm excited to share some of our ideas with the community.
+The mappers of the HOT Tasking Manager are our driving force to generate vital data for humanitarian response. Over the past six months, we have been hard at work to put their experience first. Earlier this year we reached out to the community to understand what they think of the [Tasking Manager](https://tasks.hotosm.org) – the open source software that coordinates mapping for OpenStreetMap – and looked at how our mappers use the tool. What problems were they facing? How easy is it for them to map? Do they want to return? Our findings have helped us identify ways forward for making mapping for OpenStreetMap more user friendly, and I'm excited to share some of our ideas with the community.
 
 ## What did the user experience review say?
 
@@ -21,15 +20,21 @@ In February and March, we conducted a [user experience study](https://www.hotosm
 *Some highlights from the data:*
 
 * 97% of mappers are OpenStreetMap beginners.
+
 * Registration numbers follow an upward trend every year. And the rate of people actually mapping once they have registered has dropped from 80% to 50%.
+
 * 21% of users contributed to at least two projects.
 
 *Key findings from the analysis:*
 
 * Users spend a lot of time moving between projects before choosing one to contribute.
+
 * Users spend a lot of time previewing different tasks in the map editor applications before mapping.
+
 * Users got stuck in the process of choosing a project or a task, with many never even attempting to map a task.
+
 * Low conversion rates may be due to the fact that users start mapping but never mark the task complete.
+
 * Mappers don't know they need to return to the Tasking Manager and mark tasks as complete, which leads to inaccuracy in project completeness.
 
 Because there is no optimized technical integration between Tasking Manager and any map editor, it’s not obvious to users what to do. Do they have to save their work twice? Report twice? Or save in one, and report in the other?
@@ -43,9 +48,10 @@ New mappers usually rely on the web-based OpenStreetMap editor, called iD, and w
 Here are a some of the ways we’re working to integrate iD and Tasking Manager:
 
 1. Improved instructions and support for mappers
-2. Streamlined submission and task completion process
-3. Adding a User Interface so mappers can jump immediately into a new task to keep mapping
 
+2. Streamlined submission and task completion process
+
+3. Adding a User Interface so mappers can jump immediately into a new task to keep mapping
 
 ## With an included editor - what else can we do?
 
