@@ -239,6 +239,8 @@ function getProjectsYearRange() {
 
 function createTimeSlider() {
   const sliderInput = document.createElement("input");
+  const newDiv = document.createElement('div');
+  newDiv.setAttribute("class", "track");
   sliderInput.setAttribute("id", "slider");
   sliderInput.setAttribute("class", "slider");
   sliderInput.type = "range";
@@ -252,6 +254,7 @@ function createTimeSlider() {
   sliderTicksDiv.className = "slider-ticks";
   sliderTicksDiv.setAttribute("id", "slider-ticks");
   sliderContainer.appendChild(sliderTicksDiv);
+  sliderInput.before(newDiv);
 }
 
 function setSliderTimeRange() {
