@@ -3856,6 +3856,11 @@ div.mapboxgl-popup-content .project__details {
 .stat-title {
   font-size: 0.875rem;
   font-weight: bold;
+  margin:0;
+  
+  @media (min-width: 768px) {
+    margin: 0px auto 0 40px;
+  }
   @media (max-width: $screen-xs) {
     font-size: 0.8125rem;
   }
