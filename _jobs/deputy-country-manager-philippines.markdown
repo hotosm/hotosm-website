@@ -1,7 +1,7 @@
 ---
 title: Deputy Country Manager - Philippines
 date: 2019-08-12 18:36:00 Z
-Deadline Date: 2019-08-26 00:00:00 Z
+Deadline Date: 2019-09-02 00:00:00 Z
 Place of Work: Philippines
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeT5LHAU243-8bB4dLpcwSPfz6iQhx592K-JijTE9cKPxjh0g/viewform
 ---
@@ -10,7 +10,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeT5LHAU243-8bB4dLpcwS
 
 **Location/Duty Station: Philippines**
 
-**Closes: Monday August 26th 2019**
+**Closes: Monday September 2nd 2019**
 
 **Projected start date: September 2019**
 
