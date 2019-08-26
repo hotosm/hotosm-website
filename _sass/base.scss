@@ -3651,6 +3651,15 @@ div.mapboxgl-popup-content .project__details {
   border: none;
   background-color: none;
   margin-bottom: 16px;
+  margin-top: 16px;
+  @media (min-width: 320px) {
+    padding-left: 10px;
+  }
+
+  @media (min-width: 768px) {
+    padding-left: 0;
+  }
+
   h6 {
     display: inline-block;
     font-weight: normal;
@@ -4521,15 +4530,15 @@ svg.spritesheet {
   text-transform: uppercase;
 
   @media (min-width: 320px) {
-    margin: 50px 0 40px;
-
     margin: 50px 4px 0px;
+    padding-left: 10px;
   }
 
   @media (min-width: 768px) {
     display: flex;
     width: 94vw;
     margin: 50px auto 0px;
+    padding-left: 0px;
   }
  
   &::before {
