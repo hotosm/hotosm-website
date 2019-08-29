@@ -63,7 +63,7 @@ This is a full-time position that is preferably based in Manila, Philippines, bu
 * Willingness to travel and work for prolonged periods  in challenging environments with limited amenities.
 
 ### Additional desirable skills:
-* Fluent in Bisaya and/or other Filipino dialects.
+* Fluent in Bisaya and/or other Filipino languages.
 * Experience in open data projects and/or open source software development.
 * Experience in working in startup ventures.
 * Expertise in the humanitarian sector, especially disaster risk reduction and response.
