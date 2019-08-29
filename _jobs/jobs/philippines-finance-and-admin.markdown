@@ -61,7 +61,7 @@ The Philippines Finance & Admin Coordinator will report to the Philippines Count
 * Honest and reliable.
 
 ### Additional desirable skills:
-* Fluent in Bisaya and/or other dialects of the Philippines.
+* Fluent in Bisaya and/or other Filipino languages.
 * Experience in working fast-paced startup ventures.
 * Experience as an executive assistant to senior management.
 * Expertise in disaster risk reduction and response.

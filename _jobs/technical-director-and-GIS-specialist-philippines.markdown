@@ -77,7 +77,7 @@ This is a full-time position that is preferably based in Manila, Philippines, bu
 * Fluent in written and spoken English and Tagalog.
 
 ### Additional desirable skills
-* Fluent in Bisaya and other local dialects.
+* Fluent in Bisaya and/or other Filipino languages.
 * Experience in working in startup ventures.
 * Expertise in disaster risk reduction and response.
 * Experience working with governments and in the international humanitarian system, preferably on disaster risk management and reduction projects.

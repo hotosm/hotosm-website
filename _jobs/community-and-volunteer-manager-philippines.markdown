@@ -70,7 +70,7 @@ Maintain the OSM Wiki for the Philippines.
 * Experience with Social Media Management.
 
 ### Additional desirable skills:
-* Fluent in Bisaya and/or other dialects of the Philippines.
+* Fluent in Bisaya and/or other languages of the Philippines.
 * Experience in working fast-paced startup ventures.
 * Expertise in disaster risk reduction and response.
 * Experience working with the OpenStreetMap platform.
