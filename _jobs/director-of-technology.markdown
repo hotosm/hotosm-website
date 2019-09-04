@@ -22,9 +22,9 @@ HOT’s Director of Technology serves as the organization’s Chief Technology O
 * The home for open source: A neutral convener and steward of open source mapping software for humanitarian action and sustainable development
 * Principles for Digital Development: HOT’s work, where possible, aligns with the Digital Principles
 
-The Director of Technology oversees a team of 11 staff members, including four project/product managers and seven developers, support engineers, and designers working remotely across multiple time zones. This team is responsible for the development, maintenance, and support of 10 open source apps and tools that enable collaborative editing, analysis, and visualization around OpenStreetMap (see https://www.hotosm.org/tools-and-data) These tools are relied upon by dozens of humanitarian and development sector partners including UN agencies, the World Bank, Red Cross societies, Médecins Sans Frontières and other NGOs.
+The Director of Technology oversees a team of 11 staff members, including four project/product managers and seven developers, support engineers, and designers working remotely across multiple time zones. This team is responsible for the development, maintenance, and support of [10 open source apps and tools](https://www.hotosm.org/tools-and-data) that enable collaborative editing, analysis, and visualization around OpenStreetMap. These tools are relied upon by dozens of humanitarian and development sector partners including UN agencies, the World Bank, Red Cross societies, Médecins Sans Frontières and other NGOs.
 
-In line with HOT’s Strategic Plan https://www.hotosm.org/strategic-plan.html, the Director of Technology will have a significant role in advancing technology strategy for the organization, community of volunteers, and partner organizations relying on HOT tools. This includes dramatically scaling the quantity and quality of data produced by the HOT network through the introduction of machine learning and shifting toward mobile-first workflows as we aim to map an area home to 1 billion people over the next three years. To succeed in this role, the Director will work closely with HOT field programs and community teams, remotely and with occasional travel to HOT program locations in Africa, Asia, and Latin America.
+In line with HOT’s [Strategic Plan](https://www.hotosm.org/strategic-plan.html), the Director of Technology will have a significant role in advancing technology strategy for the organization, community of volunteers, and partner organizations relying on HOT tools. This includes dramatically scaling the quantity and quality of data produced by the HOT network through the introduction of machine learning and shifting toward mobile-first workflows as we aim to map an area home to 1 billion people over the next three years. To succeed in this role, the Director will work closely with HOT field programs and community teams, remotely and with occasional travel to HOT program locations in Africa, Asia, and Latin America.
 
 
 ## Responsibilities and Priority Areas for Action
@@ -68,5 +68,7 @@ We’re seeking a senior digital development or humanitarian technology innovati
 * Speak and write English fluently; French or Spanish in addition to English are preferred
 
 ## Compensation
-All HOT salaries globally are set according to a framework detailed on our website: https://www.hotosm.org/salaries
+All HOT salaries globally are set according to a [framework](https://www.hotosm.org/salaries) detailed on our website.
+
+HOT offers a work-from-anywhere culture, flexible working arrangements, a variety of health care options, 401k retirement savings plans, and 24 days of annual leave for all full-time employees.
 
