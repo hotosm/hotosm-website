@@ -17,10 +17,10 @@ Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of 
 
 # About the Role
 HOT’s Director of Technology serves as the organization’s Chief Technology Officer as part of HOT’s senior management team, reporting to the Executive Director. Leading via collaboration, the Director of Technology guides HOT’s thinking around innovative open-source software tools and workflows, supporting our vision of enabling every person to contribute to a collective map of our world. The Director of Technology will advance our core beliefs around technology:
-Design with the user: Producing tech that meets local needs & community-identified problems
-A space for technology innovation: Leading the way in conceptualizing and developing humanitarian map data apps, tools, & defining workflows used across the sector
-The home for open source: A neutral convenor and steward of open source mapping software for humanitarian action and sustainable development
-Principles for Digital Development: HOT’s work, where possible, aligns with the Digital Principles
+*Design with the user: Producing tech that meets local needs & community-identified problems
+*A space for technology innovation: Leading the way in conceptualizing and developing humanitarian map data apps, tools, & defining workflows used across the sector
+*The home for open source: A neutral convener and steward of open source mapping software for humanitarian action and sustainable development
+*Principles for Digital Development: HOT’s work, where possible, aligns with the Digital Principles
 
 The Director of Technology oversees a team of 11 staff members, including four project/product managers and seven developers, support engineers, and designers working remotely across multiple time zones. This team is responsible for the development, maintenance, and support of 10 open source apps and tools that enable collaborative editing, analysis, and visualization around OpenStreetMap (see https://www.hotosm.org/tools-and-data) These tools are relied upon by dozens of humanitarian and development sector partners including UN agencies, the World Bank, Red Cross societies, Medecins Sans Frontieres and other NGOs.
 
