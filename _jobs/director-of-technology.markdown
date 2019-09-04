@@ -55,18 +55,18 @@ We’re seeking a senior digital development or humanitarian technology innovati
 
 * Think big about strategy, but also be an implementer, capable of hands-on guidance and helping see projects through to completion.
 * Be able to convene and motivate others to deliver on open source projects, including a community composed of a mix of paid and volunteer developers and private sector tech partners providing in-kind developer hours.
-*Be fluent in working in a fully or partially remote work environment, including management of diverse, geographically distributed teams and managing staff across multiple timezones.
-*Share an optimistic vision of our future tech, co-create and refine that vision with our network, and lead our community toward the end goal without acquiescing to roadblocks.
-*Be driven by compassion, humanitarian ethics, and a sense of humor.
-*Possess 10+ years of relevant experience with 5+ years leading and managing technology teams.
-*Have experience managing budgets in the $500k - $1m USD or greater range.
-*Demonstrate evidence of success in managing agile software engineering teams deploying solutions to support complex organizational processes.
-*Focus on mobile-first solutions and locally relevant technology that works for people at all income levels.
-*Demonstrate experience translating complex partner needs into high-quality tech solutions that deliver impact.
-*Utilize strong verbal and written communication to articulate complex concepts across varied audiences to build consensus and lead change.
-*Have experience working in international humanitarian or development agencies/NGOs with a preference for geospatial sector experience/familiarity.
-*Masters or Bachelors degree preferred.
-*Speak and write English fluently; French or Spanish in addition to English are preferred
+* Be fluent in working in a fully or partially remote work environment, including management of diverse, geographically distributed teams and managing staff across multiple timezones.
+* Share an optimistic vision of our future tech, co-create and refine that vision with our network, and lead our community toward the end goal without acquiescing to roadblocks.
+* Be driven by compassion, humanitarian ethics, and a sense of humor.
+* Possess 10+ years of relevant experience with 5+ years leading and managing technology teams.
+* Have experience managing budgets in the $500k - $1m USD or greater range.
+* Demonstrate evidence of success in managing agile software engineering teams deploying solutions to support complex organizational processes.
+* Focus on mobile-first solutions and locally relevant technology that works for people at all income levels.
+* Demonstrate experience translating complex partner needs into high-quality tech solutions that deliver impact.
+* Utilize strong verbal and written communication to articulate complex concepts across varied audiences to build consensus and lead change.
+* Have experience working in international humanitarian or development agencies/NGOs with a preference for geospatial sector experience/familiarity.
+* Masters or Bachelors degree preferred.
+* Speak and write English fluently; French or Spanish in addition to English are preferred
 
 ## Compensation
 All HOT salaries globally are set according to a framework detailed on our website: https://www.hotosm.org/salaries
