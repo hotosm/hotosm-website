@@ -8,7 +8,9 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScGu--rDO2vAqj8q4taRQS
 ---
 
 **Work Schedule:** Full-time Monday - Friday. Schedule flexible; with a minimum of 3-4 hours overlap with US East Coast business hours required
+
 **Travel:** Up to 20% international, including to HOT field project locations
+
 **Estimated Start Date:** 28 October 2019
 
 # About HOT
