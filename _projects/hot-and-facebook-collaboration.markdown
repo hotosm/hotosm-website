@@ -10,6 +10,7 @@ Impact Area:
 - Transportation
 - Disaster Risk Reduction
 - Sustainable Cities
+- Technology Development
 Person:
 - Russell Deffner
 Partner:
