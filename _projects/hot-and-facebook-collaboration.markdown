@@ -33,7 +33,9 @@ In 2017 the HOT partnered with Facebook to build up and improve the data in OSM 
 Machine Learning is the field of Artificial Intelligence (AI), which is gaining huge momentum and using it as a tool to assist the individual mapper is a powerful idea and a hot topic in OpenStreetMap, and the worldwide geodata community. There are many people, companies and organizations working on a wide variety of methods. Facebook introduced their AI-Assisted Road tracing project at State of the Map 2017, it gave the community the opportunity to make use of predicted roads from satellite imagery to be a base for OpenStreetMap mapping. The approach was promising; teams digitizing large areas rapidly. HOT sees a great potential for Machine Learning assisted processes to leverage the fast obtention of data for the areas with urgent needs.
 
 The first activities in our mapping efforts focused on all of Indonesia, one of the countries in which HOT is most active. Our teams started using Facebook’s extended iD editor (RapiD) to pull-in in portions of predicted roads, while the mapper retains all the power, tools and oversight to build as accurate data as tracing the roads manually.
+
 ![IDTeam.jpg](/uploads/IDTeam.jpg)
+
 For their mapping teams, Facebook is using the Tasking Manager, the tool for coordination of volunteers and organization of groups to map on OpenStreetMap developed within HOT. Their programmers extended the Software to their needs and continuously contribute to improve the Tasking Manager for everybody, by upstreaming their changes into the Open Source application.
 
 HOT is excited about the ongoing collaboration with Facebook and sees a good path ahead for sharing more and improved data, software tools and human power to be used for the benefit of everybody; especially in the context of humanitarian aid and assuring equal representation for the whole world.
