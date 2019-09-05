@@ -3,6 +3,8 @@ title: Helping Communicate Operational Status of HOT Tools
 date: 2019-09-05 06:19:00 Z
 Summary Text: Sharing up to date information about the current status and operation
   of all our tools through a simple status dashboard.
+Feature Image: "/uploads/status-blog-1.png"
+Is image top aligned: true
 Person:
 - Ramya Ragupathy
 - Dakota Benjamin
