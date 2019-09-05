@@ -4,6 +4,8 @@ date: 2019-09-05 22:18:00 Z
 published: false
 Project Summary Text: The Humanitarian OpenStreetMap Team (HOT) and Facebook are partnering
   on Open Data mapping, as well as Free Software projects.
+Feature Image: "/uploads/IDRoads.PNG"
+Is Community-Led: false
 Country:
 - Indonesia
 Impact Area:
