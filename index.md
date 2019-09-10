@@ -8,7 +8,7 @@ Banner:
   Secondary Block: Bolivia Fires & Hurricane Dorian
   Optional Text: 
   Link Copy: Find out more...
-  URL: https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Humanitarian_OpenStreetMap_Team
+  URL: https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Humanitarian_OpenStreetMap_Team#Current_Activities
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
