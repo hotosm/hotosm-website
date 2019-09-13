@@ -106,7 +106,7 @@
                 {% for post in site.posts limit:3 %}
                   <div class="news-preview-item item-{{ forloop.index }}">
                     <div class="news-preview-image">
-                      <img src="{{ post['Feature Image'] }}">
+                      <img {% if post['Is image top aligned'] %} style="object-position: top center" {% endif %} src="{{ post['Feature Image'] }}">
                     </div>
                     <div class="news-preview-details">
                      <p class="news-preview-meta">{{ post.date | date: '%e %b %Y' }}</p>
