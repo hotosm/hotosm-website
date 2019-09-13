@@ -1,6 +1,6 @@
 ---
 title: Communicating Operational Status of HOT Tools
-date: 2019-09-05 06:19:00 Z
+date: 2019-09-13 10:00:00 Z
 Summary Text: Sharing up to date information about the current status and operation
   of all our tools through a simple status dashboard.
 Feature Image: "/uploads/status-blog-1.png"
@@ -32,7 +32,7 @@ So, if you ever experience an interruption in service, be sure to check the stat
 
 ## How do I access or get updates? 
 
-The status page supports updates notifications via email,  so you can sign up to be notified via email when an issue comes up. There is also a dedicated slack channel `#status-rss` that has notifications enabled for any operational issues.
+The status page supports updates notifications via email,  so you can sign up to be notified via email when an issue comes up. We have a dedicated slack channel `#status-rss` that has notifications enabled for any operational issues. You can also always find the link to the Status page in the footer of hotosm.org.
 
 ![hotosm-footer-status.png](/uploads/hotosm-footer-status.png)
 *You can quickly find the link in the footer of hotosm.org*
