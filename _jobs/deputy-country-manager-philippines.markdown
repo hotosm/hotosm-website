@@ -1,7 +1,7 @@
 ---
 title: Deputy Country Manager - Philippines
 date: 2019-08-12 18:36:00 Z
-Deadline Date: 2019-08-26 00:00:00 Z
+Deadline Date: 2019-09-02 00:00:00 Z
 Place of Work: Philippines
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeT5LHAU243-8bB4dLpcwSPfz6iQhx592K-JijTE9cKPxjh0g/viewform
 ---
@@ -10,7 +10,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeT5LHAU243-8bB4dLpcwS
 
 **Location/Duty Station: Philippines**
 
-**Closes: Monday August 26th 2019**
+**Closes: Monday September 2nd 2019**
 
 **Projected start date: September 2019**
 
@@ -63,7 +63,7 @@ This is a full-time position that is preferably based in Manila, Philippines, bu
 * Willingness to travel and work for prolonged periods  in challenging environments with limited amenities.
 
 ### Additional desirable skills:
-* Fluent in Bisaya and/or other Filipino dialects.
+* Fluent in Bisaya and/or other Filipino languages.
 * Experience in open data projects and/or open source software development.
 * Experience in working in startup ventures.
 * Expertise in the humanitarian sector, especially disaster risk reduction and response.

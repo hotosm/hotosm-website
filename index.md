@@ -3,12 +3,12 @@ title: Home
 position: 0
 Banner:
   Is Activated: true
-  Small Block: Our Annual Global Community Meeting
-  Main Block: HOT Summit 2019
-  Secondary Block: Join us in Heidelberg, Germany!
+  Small Block: HOT has Activated!!!
+  Main Block: TASKS.HOTOSM.ORG
+  Secondary Block: Bolivia Fires & Hurricane Dorian
   Optional Text: 
-  Link Copy: Register today!
-  URL: https://summit2019.hotosm.org/
+  Link Copy: Find out more...
+  URL: https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Humanitarian_OpenStreetMap_Team#Current_Activities
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'

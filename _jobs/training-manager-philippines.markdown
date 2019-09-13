@@ -74,7 +74,7 @@ Liaise and collaborate with partner organizations and government agencies to sch
 * Fluent in written and spoken English and Tagalog.
 
 ### Additional desirable skills
-* Fluent in Bisaya and/or other local dialects.
+* Fluent in Bisaya and/or other languages of the Philippines.
 * Demonstrated experience developing teams, especially volunteer teams.
 * Experience in working in startup ventures.
 * Expertise in disaster risk reduction and response.
