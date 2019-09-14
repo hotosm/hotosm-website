@@ -132,6 +132,35 @@ layout: default
         
         {% endif %}
 
+        {% if page.url contains "/volunteer-opportunities/" %}
+
+          <div class="group-section">
+            <h4>Current Opportunities</h4>  
+            
+              {% assign current_date = site.time | date: '%Y%m%d' %}
+              {% assign volunteer-opportunities_sorted = site.volunteer-opportunities | sort: 'Deadline Date' %}
+  
+              {% for volunteer-opportunities in volunteer-opportunities_sorted %}
+                {% assign volunteer-opportunities_date = volunteer-opportunities['Deadline Date'] | date: '%Y%m%d' %}
+                {% if volunteer-opportunities_date >= current_date %}  
+
+              <a href="{{ volunteer-opportunities.url }}" class="module light link-through">
+                <div class="module-details">
+                  <h3>{{ volunteer-opportunities.title }}</h3>
+                  <div class="module-text"><p>Location: <span>{{ volunteer-opportunities['Place of Work'] }}</span></p><p>Deadline: <span>{{ volunteer-opportunities['Deadline Date'] | date: '%d %B, %Y' }}</span></p></div>
+                </div>
+              </a>
+
+             {% elsif forloop.last %}
+            <p><em>There are no current openings. Please check back for updates or keep a watch <a href="https://twitter.com/hotosm">on Twitter</a> for updates.</em></p>
+            {% endif %}
+          {% endfor %}
+        
+        </div>
+
+       {% endif %}
+
+
       </div>
 
     </div>
