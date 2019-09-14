@@ -18,6 +18,10 @@ collections:
     title: Jobs
     output: true
     permalink: "/jobs/:path/"
+  volunteer-opportunities:
+    title: Volunteer Opportunities
+    output: true
+    permalink: "/volunteer-opportunities/:path/"
   posts:
     title: News Posts
     output: true
