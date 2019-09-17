@@ -4,6 +4,7 @@ date: 2019-09-14 18:43:00 Z
 Deadline Date: 2019-09-26 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfRwVIte1bZZmPuPAT4_yo_4zqHPqPTOBBBhzZYtWFhBoXvjA/viewform
+layout: page
 ---
 
 **Timeframe: 6 months minimum**
