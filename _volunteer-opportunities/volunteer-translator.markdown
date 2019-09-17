@@ -2,6 +2,7 @@
 title: Volunteer Translator
 date: 2019-09-14 18:43:00 Z
 Place of Work: Remote
+Deadline Date: 2020-09-26 00:00:00 Z
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfRwVIte1bZZmPuPAT4_yo_4zqHPqPTOBBBhzZYtWFhBoXvjA/viewform
 layout: page
 ---

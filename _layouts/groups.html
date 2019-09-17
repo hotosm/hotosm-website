@@ -149,7 +149,7 @@ layout: default
                   <h3>{{ volunteer-opportunities.title }}</h3>
                   <div class="module-text">
                     <p>Location: <span>{{ volunteer-opportunities['Place of Work'] }}</span></p>
-                    {% if volunteer-opportunities['Deadline Date'] %} <p>Deadline: <span>{{ volunteer-opportunities['Deadline Date'] | date: '%d %B, %Y' }}</span></p>{% endif %}
+                    <p>Deadline: <span>{{ volunteer-opportunities['Deadline Date'] | date: '%d %B, %Y' }}</span></p>
                   </div>
                 </div>
               </a>
