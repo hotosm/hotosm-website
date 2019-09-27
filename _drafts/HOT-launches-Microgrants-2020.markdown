@@ -21,7 +21,7 @@ Project:
 
 Part of [HOT’s mission](https://www.hotosm.org/updates/launch-of-mapping-2021-hots-three-year-strategy/) is to enable anyone, anywhere, to contribute to the map. One of the ways we work towards this is through providing [Microgrants](https://www.hotosm.org/projects/microgrants_and_community_development) to OpenStreetMap communities worldwide, equipping them with funding and access to training. The goal of Microgrants is to enable communities to overcome the barriers they face in growing contributions to their local map. Since 2017, HOT has provided grants to 38 communities worldwide.
 
-For the 2020 Microgrants campaign, we’re doing something a little different. This year, applicant communities will have the chance to share their stories and funding needs more directly with the HOT community. In the past, HOT has carried out a fundraising campaign, then chooses the communities who will receive a grant. Instead, we will select a number communities, provide them with a platform to reach our global audience and support them to fundraise for their individual projects. Communities can pitch for smaller grants for specific activities, or larger grants for long-term projects.
+For the 2020 Microgrants campaign, we’re doing something a little different. This year, applicant communities will have the chance to share their stories and funding needs more directly with the HOT community. In the past, HOT has carried out a fundraising campaign, then chooses the communities who will receive a grant. Instead, we will select several communities, provide them with a platform to reach our global audience and support them to fundraise for their individual projects. Communities can pitch for smaller grants for specific activities, or larger grants for long-term projects.
 
 [Fill out this form to pitch your project](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform).
 
@@ -29,21 +29,21 @@ For the 2020 Microgrants campaign, we’re doing something a little different. T
 
 * **Applicants will [submit short pitches](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform), and [HOT Voting Members](https://www.hotosm.org/voting-members) will vote for the shortlist of communities to receive funding.** Typically, communities applying for a microgrant have filled out a relatively long, traditional-style grant application. This year, we’re updating the application to a shorter, pitch-style format.
 
-* **Communities will pitch their project to receive a grant before the fundraising campaign, not after.** Over the past few years, a small number of projects receiving Microgrants have been selected by a panel of Board Members, Voting Members, and staff. This year, we want to give communities the platform to ‘pitch’ projects or activities directly to the HOT Community, so supporters of their campaigns know exactly what their donations are going towards.
+* **Communities will pitch their project to receive a grant before the fundraising campaign, not after.** Over the past few years, a small number of projects receiving Microgrants have been selected by a panel of Board Members, Voting Members, and staff. This year, we want to give communities the platform to ‘pitch’ projects or activities directly to the HOT community, so supporters of their campaigns know exactly what their donations are going towards.
 
-* **Communities can apply for two levels of grant funding: USD $200-$1000, and $1000-7000.** In prior years, we offered grants in the range of $2000-5000. Many prior applicants have said they would prefer smaller funds to host shorter events, such as workshops or projects that last a few months, rather than an entire year. To suit these requests, we’ve opened up two levels of funding for 2020.
+* **Communities can apply for two levels of grant funding: USD $200-1,000, and $1,000-7,000.** In prior years, we offered grants in the range of $2,000-5,000. Many prior applicants have said they would prefer smaller funds to host shorter events, such as workshops or projects that last a few months, rather than an entire year. To suit these requests, we’ve opened up two levels of funding for 2020.
 
 * **Donors to the fundraising campaign can choose directly which project to support, or support all of them**: Each of the shortlisted community pitches will be shared with donors. People will have the option to donate to a community project directly, or to make one donation to be split between all of them.
 
   **Timeline: to pitch for a 2020 Microgrant, activities will be as follows:**
 
-  * **27th September: Applications for 2020 Microgrants open– fill in a short [online form](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform)**
+  * **27 September: Applications for 2020 Microgrants open – fill in a short [online form](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform)**
 
-  * **9th October:** Pitches are screened, and eligible pitches are sent to the HOT Voting Members to vote for a shortlist by 11th October
+  * **9 October:** Pitches are screened, and eligible pitches are sent to the HOT Voting Members to vote for a shortlist by 11 October.
 
-  * **20th October**: Shortlisted communities are informed and HOT will work with them to develop their project plan and fundraising materials
+  * **20 October**: Shortlisted communities are informed and HOT will work with them to develop their project plan and fundraising materials.
 
-  * **14th November**: Fundraising campaign begins
+  * **14 November**: Fundraising campaign begins.
 
   * \*\*5 January 2020: \*\*Microgrant projects begin!
 
@@ -60,7 +60,7 @@ For the 2020 Microgrants campaign, we’re doing something a little different. T
   Eligible costs are largely determined on a grant-by-grant basis, and could include, but are not limited to, equipment such as GPS devices, phones, laptops and other technical resources to transportation and internet connectivity and meeting/working space rental. Additional eligible costs could include field or technical leadership/management training for key community leaders. If funding permits, costs of pursuing legal registration may also be eligible.
 
 * **Where does funding come from?**
-  Funding will come from the HOT annual fundraising campaign, which starts on 11 November2019. Communities will pitch their projects to the HOT Community for funding during this time. If you’re interested in donating in general, please contact donations\[AT\]hotosm.org or visit [www.hotosm.org/donate](https://www.hotosm.org/donate/)
+  Funding will come from the HOT annual fundraising campaign, which starts on 11 November 2019. Communities will pitch their projects to the HOT Community for funding during this time. If you’re interested in donating in general, please contact donations\[AT\]hotosm.org or visit [www.hotosm.org/donate](https://www.hotosm.org/donate/)
 
 * **Can I pitch more than one project?**
   Yes, but to have a stronger chance of receiving a grant, we recommend you focus your energy on creating one pitch.
@@ -69,7 +69,7 @@ For the 2020 Microgrants campaign, we’re doing something a little different. T
   The shortlist of communities who will participate in the fundraising campaign will be decided by the HOT Voting Members. The amount of funding they receive will be dependent on how many donations are made directly to their individual project, and how many general (or corporate) donations are made, which will be split between all projects.
 
 * **How many grants will be made?**
-  We anticipate supporting 3 projects in the $100-1000 range, and 5 projects in the $1000-7000 range. Applicants may apply for a grant of any amount in these ranges that enables a successful OSM focused project or local organization.
+  We anticipate supporting three projects in the $100-1,000 range, and five projects in the $1,000-7,000 range. Applicants may apply for a grant of any amount in these ranges that enables a successful OpenStreetMap focused project or local organization.
 
 * **When do grants start and end?**
   Projects are expected to be carried out between January and December 2020.
