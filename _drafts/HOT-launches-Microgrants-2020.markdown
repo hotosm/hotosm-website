@@ -23,7 +23,7 @@ Part of [HOT’s mission](https://www.hotosm.org/updates/launch-of-mapping-2021-
 
 For the Microgrants 2020 campaign, we’re doing something a little different. This year, applicant communities will have the chance to share their stories and funding needs more directly with the HOT community. In the past, HOT has carried out a fundraising campaign, then chooses the communities who will receive a grant. Instead, we will select several communities, provide them with a platform to reach our global audience and support them to fundraise for their individual projects. Communities can pitch for smaller grants for specific activities, or larger grants for long-term projects.
 
-[Fill out this form to pitch your project](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform).
+## [Fill out this form to pitch your project](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform).
 
 **What’s changing for Microgrants 2020?**
 
@@ -47,7 +47,7 @@ For the Microgrants 2020 campaign, we’re doing something a little different. T
 
   * **5 January 2020**: Microgrant projects begin!
 
-# [Fill out this form to pitch your project](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform).
+### [Fill out this form to pitch your project](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform).
 
 ## Frequently Asked Questions (FAQs)
 
