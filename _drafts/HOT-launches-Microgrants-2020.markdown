@@ -45,7 +45,7 @@ For the Microgrants 2020 campaign, we’re doing something a little different. T
 
   * **14 November**: Fundraising campaign begins.
 
-  * \*\*5 January 2020: \*\*Microgrant projects begin!
+  * **5 January 2020**: Microgrant projects begin!
 
 # [Fill out this form to pitch your project](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform).
 
