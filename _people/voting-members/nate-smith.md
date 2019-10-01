@@ -3,7 +3,7 @@ title: Nate Smith
 date: 2016-01-11 23:27:00 Z
 Photo: "/uploads/Screen%20Shot%202018-09-15%20at%2012.31.42.png"
 Member Type:
-  Is Staff: true
+  Is Staff: false
   Is Voting Member: true
 Job Title: Director, Technology Innovation
 Working Group:
