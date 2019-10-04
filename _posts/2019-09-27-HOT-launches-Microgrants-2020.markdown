@@ -23,11 +23,11 @@ Part of [HOT’s mission](https://www.hotosm.org/updates/launch-of-mapping-2021-
 
 For the Microgrants 2020 campaign, we’re doing something a little different. This year, applicant communities will have the chance to share their stories and funding needs more directly with the HOT community. In the past, HOT has carried out a fundraising campaign, then chooses the communities who will receive a grant. Instead, we will select several communities, provide them with a platform to reach our global audience and support them to fundraise for their individual projects. Communities can pitch for smaller grants for specific activities, or larger grants for long-term projects.
 
-## [Fill out this form to pitch your project](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform).
+### [Apply for a HOT Microgrant before 16 October!](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform)
 
 **What’s changing for Microgrants 2020?**
 
-* **Applicants will [submit short pitches](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform), and [HOT Voting Members](https://www.hotosm.org/voting-members) will vote for the shortlist of communities to receive funding.** Typically, communities applying for a microgrant have filled out a relatively long, traditional-style grant application. This year, we’re updating the application to a shorter, pitch-style format.
+* **Applicants will [submit short pitches](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform) telling us in a short 2-5 minute video about their project and why they should get the grant. [HOT Voting Members](https://www.hotosm.org/voting-members) will then vote for the shortlist of communities to receive funding.** Typically, communities applying for a microgrant have filled out a relatively long, traditional-style grant application. This year, we’re updating the application to a shorter, video pitch-style format. All you need is yourself and a cameraphone! Tell us about your project and why you should get the funding in under five minutes.
 
 * **Communities will pitch their project to receive a grant before the fundraising campaign, not after.** Over the past few years, a small number of projects receiving Microgrants have been selected by a panel of Board Members, Voting Members, and staff. This year, we want to give communities the platform to ‘pitch’ projects or activities directly to the HOT community, so supporters of their campaigns know exactly what their donations are going towards.
 
@@ -39,15 +39,17 @@ For the Microgrants 2020 campaign, we’re doing something a little different. T
 
   * **27 September: Applications for 2020 Microgrants open – fill in a short [online form](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform)**
 
-  * **9 October:** Pitches are screened, and eligible pitches are sent to the HOT Voting Members to vote for a shortlist by 11 October.
+  * **16 October:** Applications close.
 
-  * **20 October**: Shortlisted communities are informed and HOT will work with them to develop their project plan and fundraising materials.
+  * **16-18 October:** Pitches are screened, and eligible pitches are sent to the HOT Voting Members to vote for a shortlist by 18 October.
+
+  * **22 October**: Shortlisted communities are informed and HOT will work with them to develop their project plan and fundraising materials.
 
   * **14 November**: Fundraising campaign begins.
 
   * **5 January 2020**: Microgrant projects begin!
 
-### [Fill out this form to pitch your project](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform).
+### [Apply for a Microgrant](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform).
 
 ## Frequently Asked Questions (FAQs)
 
@@ -61,6 +63,9 @@ For the Microgrants 2020 campaign, we’re doing something a little different. T
 
 * **Where does funding come from?**
   Funding will come from the HOT annual fundraising campaign, which starts on 11 November 2019. Communities will pitch their projects to the HOT Community for funding during this time. If you’re interested in donating in general, please contact donations\[AT\]hotosm.org or visit [www.hotosm.org/donate](https://www.hotosm.org/donate/)
+
+* **Does the video have to be high production?**
+  No, we don't need a high-production video - all we want to see are the people who will be carrying out the project telling us how they will use the money to help improve lives! 
 
 * **Can I pitch more than one project?**
   Yes, but to have a stronger chance of receiving a grant, we recommend you focus your energy on creating one pitch.
@@ -77,4 +82,4 @@ For the Microgrants 2020 campaign, we’re doing something a little different. T
 * **How do I get more information?**
   Email microgrants\[AT\]hotosm.org
 
-[Fill out this form to pitch your project](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform).
+[Apply for a Microgrant.](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform)
