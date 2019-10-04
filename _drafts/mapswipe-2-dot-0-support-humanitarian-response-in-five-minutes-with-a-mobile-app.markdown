@@ -2,8 +2,10 @@
 title: 'MapSwipe 2.0: Support humanitarian response in five minutes with a mobile
   app'
 date: 2019-10-04 12:20:00 Z
-Summary Text: MapSwipe 2.0 introduces new project types that allow volunteers to support
-  humanitarian response from their mobile phone.
+Summary Text: With two new projects types and an improved user experience, MapSwipe
+  is making it easier than ever for volunteers to get involved in mapping, one swipe
+  at a time.
+Feature Image: "/uploads/Screen%20Shot%202019-10-04%20at%202.16.44%20PM.png"
 Person: Jessica Bergmann
 ---
 
