@@ -3,12 +3,12 @@ title: Home
 position: 0
 Banner:
   Is Activated: true
-  Small Block: HOT has Activated!!!
-  Main Block: TASKS.HOTOSM.ORG
-  Secondary Block: Bolivia Fires & Hurricane Dorian
+  Small Block: 'Apply now! '
+  Main Block: "#MICROGRANTS2020"
+  Secondary Block: 'Funding for OSM communities '
   Optional Text: 
   Link Copy: Find out more...
-  URL: https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Humanitarian_OpenStreetMap_Team#Current_Activities
+  URL: https://www.hotosm.org/updates/HOT-launches-Microgrants-2020/
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
