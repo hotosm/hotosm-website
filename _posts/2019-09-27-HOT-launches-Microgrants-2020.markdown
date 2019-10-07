@@ -23,7 +23,7 @@ Part of [HOT’s mission](https://www.hotosm.org/updates/launch-of-mapping-2021-
 
 For the Microgrants 2020 campaign, we’re doing something a little different. This year, applicant communities will have the chance to share their stories and funding needs more directly with the HOT community. In the past, HOT has carried out a fundraising campaign, then chooses the communities who will receive a grant. Instead, we will select several communities, provide them with a platform to reach our global audience and support them to fundraise for their individual projects. Communities can pitch for smaller grants for specific activities, or larger grants for long-term projects.
 
-### [Apply for a HOT Microgrant before 16 October!](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform)
+### [Apply for a HOT Microgrant by 4:00 UTC on 17 October!](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform)
 
 **What’s changing for Microgrants 2020?**
 
@@ -39,9 +39,9 @@ For the Microgrants 2020 campaign, we’re doing something a little different. T
 
   * **27 September: Applications for 2020 Microgrants open – fill in a short [online form](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform)**
 
-  * **16 October:** Applications close.
+  * **4:00 on 17 October:** Applications close.
 
-  * **16-18 October:** Pitches are screened, and eligible pitches are sent to the HOT Voting Members to vote for a shortlist by 18 October.
+  * **17-18 October:** Pitches are screened, and eligible pitches are sent to the HOT Voting Members to vote for a shortlist by 18 October.
 
   * **22 October**: Shortlisted communities are informed and HOT will work with them to develop their project plan and fundraising materials.
 
