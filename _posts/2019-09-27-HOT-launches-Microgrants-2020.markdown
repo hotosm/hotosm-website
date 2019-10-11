@@ -27,7 +27,7 @@ For the Microgrants 2020 campaign, we’re doing something a little different. T
 
 **What’s changing for Microgrants 2020?**
 
-* **Applicants will [submit short pitches](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform) telling us in a short 2-5 minute video about their project and why they should get the grant. [HOT Voting Members](https://www.hotosm.org/voting-members) will then vote for the shortlist of communities to receive funding.** Typically, communities applying for a microgrant have filled out a relatively long, traditional-style grant application. This year, we’re updating the application to a shorter, video pitch-style format. All you need is yourself and a cameraphone! Tell us about your project and why you should get the funding in under five minutes.
+* **Applicants will [submit short pitches](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform) telling us in a short 2-5 minute video about their project and why they should get the grant. [HOT Voting Members](https://www.hotosm.org/voting-members) will then vote for the shortlist of communities to receive funding.** Typically, communities applying for a microgrant have filled out a relatively long, traditional-style grant application. This year, we’re updating the application to a shorter, video pitch-style format. All you need is yourself and a cameraphone! Tell us about your project and why you should get the funding in under five minutes. We've put together an example video for you below and read our [advice for creating a good video](https://docs.google.com/document/d/19Oxozu-A1c5bRS_I4HvMrYnPIMVJzIT8pPccYIEjZwg).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/glctZXuijRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -67,7 +67,7 @@ For the Microgrants 2020 campaign, we’re doing something a little different. T
   Funding will come from the HOT annual fundraising campaign, which starts on 11 November 2019. Communities will pitch their projects to the HOT Community for funding during this time. If you’re interested in donating in general, please contact donations\[AT\]hotosm.org or visit [www.hotosm.org/donate](https://www.hotosm.org/donate/)
 
 * **Does the video have to be high production?**
-  No, we don't need a high-production video - all we want to see are the people who will be carrying out the project telling us how they will use the money to help improve lives! 
+  No, we don't need a high-production video - all we want to see are the people who will be carrying out the project telling us how they will use the money to help improve lives!
 
 * **Can I pitch more than one project?**
   Yes, but to have a stronger chance of receiving a grant, we recommend you focus your energy on creating one pitch.
