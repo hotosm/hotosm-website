@@ -24,7 +24,7 @@ HOT is a global leader in open mapping learning and training. HOT publishes and 
 
 ## About the Position
 
-The Training Materials & Documentation Translator (French) will work with the HOT Programs Associate to translate all materials available on HOT’s Toolbox, a repository of HOT’s training materials, for OSM Communities and Project Managers, into French.
+The Training Materials & Documentation Translator (French) will work with the HOT Programs Associate to translate all materials available on HOT’s Toolbox, a repository of HOT training materials for OSM Communities and Project Managers, into French.
 
 ## Responsibilities
 
