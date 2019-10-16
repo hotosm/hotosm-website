@@ -12,7 +12,7 @@ Country:
 Impact Area:
 - Transportation
 - Disaster Risk Reduction
-- Sustainable Cities
+- Gender Equality
 Micrograntee: true
 ---
 
