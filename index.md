@@ -5,7 +5,7 @@ Banner:
   Is Activated: true
   Small Block: 'Apply now! '
   Main Block: "#MICROGRANTS2020"
-  Secondary Block: 'Funding for OpenStreetMap communities'
+  Secondary Block: Funding for OpenStreetMap communities
   Optional Text: 
   Link Copy: Find out more...
   URL: https://www.hotosm.org/updates/HOT-launches-Microgrants-2020/
