@@ -6,11 +6,11 @@ Place of Work: Liberia, Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScLyXceNN_pq59LiCuXfM8uMpGWPdrfmmAsUBzNd2zHdfIZRQ/viewform
 ---
 
-**Contract duration:** Fixed-term 4-6 week contract
-**Location/Duty Station:** Liberia, remote
-**Closes:** 01 November 2019
-**Projected start date:** 18 November 2019
-**Reports to:** HOT Project Manager
+**Contract duration:** Fixed-term 4-6 week contract <br>
+**Location/Duty Station:** Liberia, remote <br>
+**Closes:** 01 November 2019 <br>
+**Projected start date:** 18 November 2019 <br>
+**Reports to:** HOT Project Manager <br>
 
 ## About HOT
 
@@ -20,7 +20,7 @@ HOT is soliciting CVs of applicants for positions in Monrovia, Liberia to suppor
 
 ## About the Position
 
-The Associate Project Manager will lead HOT’s mapping, data collection, and training activities on the project in close coordination with the Project Manager. This includes customizing and delivering in-person training, assisting with implementation of field data collection, managing the work of surveyors, designing and implementing qualitative data collection, and supporting in data collation following project activities. This role is a six (6) week assignment partially based in Monrovia, Liberia.
+The Associate Project Manager will lead HOT’s mapping, data collection, and training activities on the project in close coordination with the Project Manager. This includes customizing and delivering in-person training, assisting with implementation of field data collection, managing the work of surveyors, designing and implementing qualitative data collection, and supporting in data collation following project activities. This role is a four to six week assignment partially based in Monrovia, Liberia, depending on time of hire.
 
 ## Responsibilities
 
