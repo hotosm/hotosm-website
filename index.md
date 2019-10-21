@@ -2,13 +2,13 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: false
-  Small Block: Current Activation
-  Main Block: Cyclone Idai in Mozambique | Venezuela Situation in Colombia
-  Secondary Block: Help us map affected locations
+  Is Activated: true
+  Small Block: 'Apply now! '
+  Main Block: "#MICROGRANTS2020"
+  Secondary Block: Funding for OpenStreetMap communities
   Optional Text: 
-  Link Copy: Help Map or Donate
-  URL: https://www.hotosm.org/projects/CycloneIdai
+  Link Copy: Find out more...
+  URL: https://www.hotosm.org/updates/HOT-launches-Microgrants-2020/
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'

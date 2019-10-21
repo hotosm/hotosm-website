@@ -11,6 +11,8 @@ Page Contact:
 layout: community-grants
 ---
 
+Could a grant help your community? We are now accepting applications for our 2020 Microgrants! Read [our blog](https://www.hotosm.org/updates/HOT-launches-Microgrants-2020/) on how to apply, or go to the [application form](https://docs.google.com/forms/d/e/1FAIpQLSc0znsv5ls1gMCaI2e4ZgI-XfOdtMpbFk-rslC9SdO3fH_BZA/viewform).
+
 As part of our mission to reduce barriers for anyone, anywhere in the world to map, each year HOT supports local OpenStreetMap communities with Microgrants, Device grants, and training to provide the tools and resources needed to operate and engage in mapping.
 
 [Read more](/projects/microgrants_and_community_development) about our community grants program, and hear updates from the communities we support.

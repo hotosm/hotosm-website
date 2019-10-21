@@ -13,6 +13,8 @@ Feature Image: "/uploads/IDN_road_density_Sula_Kali_12_01_2018_transparent.png"
 Person: Russell Deffner
 Country:
 - Indonesia
+Project:
+- 'HOT and Facebook: Collaboration for open maps and free technology'
 ---
 
 It has now been a little over a year since we began partnering with Facebook to map the road network of Indonesia. In December of 2017 a team in our Jakarta office began cleaning up the existing road network as preparation for filling the gaps using a machine learning technique developed by Facebook.

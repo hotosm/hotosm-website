@@ -10,8 +10,8 @@ Working Group:
 - Communications
 Country: United States
 Social Media (Full URL):
-  OSM: vannicer
-  Twitter: "@rachelkvannice"
+  OSM: https://www.openstreetmap.org/user/vannicer
+  Twitter: https://twitter.com/rachelkvannice
 redirect_from:
 - "/users/rachel_vannice"
 ---

@@ -13,7 +13,7 @@ Project:
 
 In March we shared an update about how we've started [to move towards bringing machine learning and more open data into the Tasking Manager](https://www.hotosm.org/updates/bringing-machine-learning-and-open-data-to-the-tasking-manager/). Machine learning is making real progress and - of course not being a solution for everything - it is starting to become a reality for specific use cases, where especially deep learning techniques can improve our existing mechanisms for voice detection (Alexa, Siri and Google voice features are all based on machine learning technology), voice generation and imitation ([Wavenet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)), automated text translations ([DeepL](https://www.deepl.com)) and computer vision or image processing ([DeepArt](https://deepart.io/)). In OpenStreetMap, significant progress is being made and ready for testing. As a first step we are launching a testing environment for machine learning and OpenStreetMap - an experimental Tasking Manager instance - [tasks-assisted.hotosm.org](https://tasks-assisted.hotosm.org).
 
-Why do we need a place for experimenting?
+## Why do we need a place for experimenting?
 
 Especially the advancements on computer vision and image processing are opening promising perspectives for using machine learning produced data derived from satellite imagery. While the whole field is under strong development, there might be some useful tools based on deep learning for OpenStreetMap, too. For example, check out the recent work Development Seed has done [to find unmapped schools in Colombia](https://medium.com/devseed/finding-unmapped-schools-from-space-with-ai-28459f68c2f3).
 

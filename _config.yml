@@ -161,7 +161,7 @@ defaults:
     tm_campaigns:
     - ''
     project_extent: ''
-    Google Drive: ''
+    Google Drive: https://drive.google.com/drive/folders/1p-dGhQsB4SSlucT3Yen1LlhqBj3Yvy-_
     Map Products:
     - ''
     - ''

@@ -73,7 +73,7 @@
               <center><p class="loader"></p></center>
               <p class="stat-number" id="Total-Map-Edits"></p>
               <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
-                <span class="tooltiptext">Total number of edits from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> API</span>
+                <span class="tooltiptext">Total number of edits from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
               </p>
             </div>
             <div class="hr-v hide-sm"></div>
@@ -81,7 +81,7 @@
               <center><p class="loader"></p></center>
               <p class="stat-number" id="Buildings-Mapped"></p>
               <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
-                <span class="tooltiptext">Total number of buildings mapped from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> API</span>
+                <span class="tooltiptext">Total number of buildings mapped from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
               </p>
             </div>
             <div class="hr-v"></div>
@@ -89,7 +89,7 @@
               <center><p class="loader"></p></center>
               <p class="stat-number" id="Roads-Mapped"></p>
               <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
-                <span class="tooltiptext">Total length of roads mapped from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> API</span>
+                <span class="tooltiptext">Total length of roads mapped from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
               </p>
             </div>
           </div>
@@ -106,7 +106,7 @@
                 {% for post in site.posts limit:3 %}
                   <div class="news-preview-item item-{{ forloop.index }}">
                     <div class="news-preview-image">
-                      <img src="{{ post['Feature Image'] }}">
+                      <img {% if post['Is image top aligned'] %} style="object-position: top center" {% endif %} src="{{ post['Feature Image'] }}">
                     </div>
                     <div class="news-preview-details">
                      <p class="news-preview-meta">{{ post.date | date: '%e %b %Y' }}</p>
