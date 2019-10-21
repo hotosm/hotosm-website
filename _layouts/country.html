@@ -1,320 +1,406 @@
 ---
 layout: default
 ---
-
 {% assign sorted-projects = site.projects | sort:"position" %}
+{% assign country-projects = '' | split: '' %}
 {% assign projects = false %}
 {% assign members = false %}
 {% assign projectcount = 0 %}
 {% assign memberscount = 0 %}
-
+{% capture country-projects %}
 {% for project in sorted-projects %}
-  {% if project['Country'] contains page.title %}
-    {% assign projects = true %}
-    {% assign projectcount = projectcount | plus: 1 %}
-  {% endif %}
+{% if project['Country'] contains page.title %}
+{% assign project = project | split: '' %}
+{% assign projects = true %}
+{% assign projectcount = projectcount | plus: 1 %}
+{{ project.title }} || {{ project['Feature Image'] }} || {{ project['Project Summary Text'] }} ||
+{{ project.description }}^^
+{% endif %}
 {% endfor %}
-
+{% endcapture %}
+{% assign country-projects = country-projects | split: '^^' %}
 {% for person in site.people %}
-  {% if page.title contains person.Country and person['Member Type']['Is Voting Member'] %}
-    {% assign members = true %}
-    {% assign memberscount = memberscount | plus: 1 %}
-  {% endif %}
+{% if page.title contains person.Country and person['Member Type']['Is Voting Member'] %}
+{% assign members = true %}
+{% assign memberscount = memberscount | plus: 1 %}
+{% endif %}
 {% endfor %}
 
-<div class="project-index country-index">
-
-
-  <!--////////////////////////////////-->
-  <!--//////// Country Header ////////-->
-  <!--////////////////////////////////-->
-
-
-  <div class="country-index-header">
-
-    <div class="country-map-area" id="country-map-area">
-      
-      <div class="country-map-wrap" id="country-map-wrap">
-        <div id = "where-we-work-legend-details" class="center-hover-map-area">
-          <div id = "tm-legend" class="hide">
-              <p><img src= '../../images/lone-project.png' width="10" height="12" style="padding-top: 2px"/><span style="color:#929DB3"> Campaigns sized by edits</span></p>
-          </div>
+<!--////////////////////////////////-->
+<!--//////// Country Header ////////-->
+<!--////////////////////////////////-->
+<div class="country-page">
+  <h3 class="country-page__header">Mapping Campaigns in {{ page.title }}</h3>
+  <p class="country-page__description"></p>
+  <div class="country-page__section">
+    <figure class="map">
+      <div id="map-view" class="map__view"></div>
+      <figcaption class="map__popover hide" id="map__popover">
+      </figcaption>
+      <div class="map__slider">
+        <div class="map__checkbox">
+          <label class="map__checkbox__label">all years
+            <input type="checkbox" name="checkbox">
+            <span class="checkmark"></span>
+          </label>
         </div>
-        <div id="project-details" class="center-hover-map-area"></div>
-      
-      <div class="country-name-wrap">
-        <div class="country-name">
-        <h2 class="boxed" id="country-title">{{ page.title }}</h2>
       </div>
+      <figcaption class="map__legend">
+        <img src='../../images/lone-project.png' alt="Map Legend" />
+        <p> mapping campaigns
+        </p>
+      </figcaption>
+    </figure>
+    <div class="map__info">
+      <h2 class="map__info__title">Get involved</h2>
+      {% if projects %}
+      <!-- Countries with projects -->
+      <div class="map__info__links">
+        <a class="info__link">
+          <svg class="info__link__bullet">
+            <use href="#info" />
+          </svg>
+          Travelling to {{ page.title }} or want to get in touch about a collaboration?
+        </a>
       </div>
-      </div>
-    </div>
-
-    <div class="country-contact">
-      <!-- Tab links -->
-        
-        <div class="tab detailsTab">
-          <button id="country-details-btn" class="detailsTabLinks active" onclick="switchInfo(event, 'country-details')" >Country Contact</button>
-          <button id="country-filters-btn" class="hide detailsTabLinks" onclick="switchInfo(event, 'country-filters')" >Campaign Filters</button>
-        </div>
-    
-        <div id="country-filters" style="padding-top: 15px; display:none; justify-content: center" class="detailsTabContent country-contact-wrapper">
-          <h4 id='filter-header'></h4>
-          <form action="">
-            <div class="ctn-inputs checkbox">
-                <h2 class="title">
-                  Status: (Click on a label to select/deselect)
-                </h2>
-                <input type="checkbox"  checked="true" class="style-checkbox" name="checkbox" value="status" id="published">
-                <label id='published-label' for="published">
-                  Active
-                </label>
-                <input type="checkbox"  checked="true" class="style-checkbox" name="checkbox" value="status" id="archived">
-                <label id = 'archived-label' for="archived">
-                  Archived
-                </label>
-            </div>
-          
-            <div id = "year-checkbox" class="ctn-inputs checkbox">
-              <h2 class="title">
-                Year: (Click on a label to select/deselect)
-              </h2>
-            </div>
-          </form>
-        </div>
-
-
-      <div id="country-details" style="padding-top: 15px; justify-content: center" class="detailsTabContent country-contact-wrapper">
-        <h4 id="contact-header"></h4>
-        {% if projects %}
-
-        <!-- Countries with projects -->
-        
-        <!-- <h4 id="contact-header">{{ page.title }} has {{ projectcount }} HOT project{% if projectcount > 1%}s{%endif%}{% if memberscount > 0%} and {{ memberscount }} voting member{% if memberscount > 1%}s{%endif%}{%endif%}</h4> -->
-        <div class="country-content top">
-          <p>Read more about each project below or learn more about <a href="/get-involved">getting involved</a>.</p>
-        </div>
-
-        <h4>Travelling to {{ page.title }} or want to get in touch about a collaboration?</h4>
-        <div class="country-content">
-          <p>Get in touch with HOT or reach out to the 
-            <a href="https://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists" 
-            target="_blank">local community</a>.</p>
-        </div>
-        <h5>Contact HOT</h5>
-        {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
-          <p><b>{{ page['Contact Person'].Name }}</b></p>
+      <div class="map__info__segments">
+        <div class="info-segment">
+          <h3 class="info-segment__subtitle">Contact HOT</h3>
+          {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
+          <strong>{{ page['Contact Person'].Name }}</strong>
           <p>{{ page['Contact Person'].Title }}</p>
-          <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
+          <p><a class="info-segment__contact-details__email"
+              href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
           <p>{{ page['Contact Person'].Phone }}</p>
-        {% else %}
-          <a href="mailto:info@hotosm.org">info@hotosm.org</a>
-        {% endif %}
-
+          {% else %}
+          <a class="info-segment__contact-details__email" href="mailto:info@hotosm.org">info@hotosm.org</a>
+          {% endif %}
+        </div>
         {% if page.Location['Location Name'] or page.Location.Address %}
-          <h5>Visit</h5>
+        <div class="info-segment">
+          <h3 class="info-segment__subtitle">Visit</h3>
           {% if page.Location['Location Name'] and page.Location['Map Link'] %}
-	          <a href="{{ page.Location['Map Link'] }}" target="_blank"><b>
-		          {{ page.Location['Location Name'] }}</b></a>
-	        {% elsif page.Location['Location Name'] %}
-	          <p><b> {{ page.Location['Location Name'] }} </b></p>
-	        {% endif %}
-	        {% if page.Location.Address %}
-            {{ page.Location.Address | markdownify }}
+          <a class="info-segment__contact-details__email" href="{{ page.Location['Map Link'] }}" target="_blank">
+            <strong>{{ page.Location['Location Name'] }}</strong></a>
+          {% elsif page.Location['Location Name'] %}
+          <p><strong> {{ page.Location['Location Name'] }} </strong></p>
+          {% endif %}
+          {% if page.Location.Address %}
+          {{ page.Location.Address | markdownify }}
           {% endif %}
           {% if page.Location.Phone %}
-	          <p>{{ page.Location.Phone }}</p>
-	        {% endif %}
-        {% endif %}
-
-        {% elsif members %}
-
-        <!-- Countries with members only -->
-
-        <h4>{{ page.title }} has {{ memberscount }} voting member{% if memberscount > 1%}s{%endif%}</h4>
-        <div class="country-content top">
-          <p>Read more about <a href="/get-involved">getting involved</a> with HOT.</p>
+          <p>{{ page.Location.Phone }}</p>
+          {% endif %}
+          {% endif %}
         </div>
-
-        <h4>Travelling to {{ page.title }} or want to get in touch about a collaboration?</h4>
-        <div class="country-content">
-          <p>Get in touch with HOT or reach out to the <a href="https://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists">local community</a>.</p>
-        </div>
-        <h5>Contact HOT</h5>
-        {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
-          <p><b>{{ page['Contact Person'].Name }}</b></p>
+      </div>
+      {% elsif members %}
+      <!-- Countries with members only -->
+      <div class="map__info__links">
+        <a class="info__link">
+          <svg class="info__link__bullet">
+            <use href="#info" />
+          </svg>
+          Travelling to {{ page.title }} or want to get in touch about a collaboration?
+        </a>
+      </div>
+      <div class="map__info__segments">
+        <div class="info-segment">
+          <h3 class="info-segment__subtitle">Contact HOT</h3>
+          {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
+          <strong>{{ page['Contact Person'].Name }}</strong>
           <p>{{ page['Contact Person'].Title }}</p>
           <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
           <p>{{ page['Contact Person'].Phone }}</p>
-        {% else %}
-          <a href="mailto:info@hotosm.org">info@hotosm.org</a>
-        {% endif %}
-
-        {% if page.Location.Name or page.Location.Address %}
-          <h5>Visit</h5>
-          <p><b>{{ page.Location['Location Name'] }}</b></p>
-          {{ page.Location.Address | markdownify }}
-          <p>{{ page.Location.Phone }}</p>
-        {% endif %}
-
-        {% else %}
-
-        <!-- Countries without projects or members -->
-        <h4>Have a project or collaboration idea for {{ page.title }}?</h4>
-        <div class="country-content">
-          <p>Get in touch with HOT or reach out to the <a href="https://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists">local community</a>.</p>
+          {% else %}
+          <a class="info-segment__contact-details__email" href="mailto:info@hotosm.org">info@hotosm.org</a>
+          {% endif %}
         </div>
-        <h5>Contact HOT</h5>
-        {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
-          <p><b>{{ page['Contact Person'].Name }}</b></p>
-          <p>{{ page['Contact Person'].Title }}</p>
-          <p><a href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
-          <p>{{ page['Contact Person'].Phone }}</p>
-        {% else %}
-          <a href="mailto:info@hotosm.org">info@hotosm.org</a>
-        {% endif %}
-
         {% if page.Location.Name or page.Location.Address %}
-          <h5>Visit</h5>
-          <p><b>{{ page.Location['Map Link'] }}</b></p>
+        <div class="info-segment">
+          <h3 class="info-segment__subtitle">Visit</h3>
+          <p><strong>{{ page.Location['Location Name'] }}</strong></p>
           {{ page.Location.Address | markdownify }}
           <p>{{ page.Location.Phone }}</p>
-        {% endif %}
-
+          {% endif %}
+        </div>
+      </div>
+      {% else %}
+      <!-- Countries without projects or members -->
+      <div class="map__info__links">
+        <a class="info__link">
+          <svg class="info__link__bullet">
+            <use href="#info" />
+          </svg>
+          Have a project or collaboration idea for {{ page.title }}?
+        </a>
+      </div>
+      <div class="map__info__segments">
+        <div class="info-segment">
+          <h3 class="info-segment__subtitle">Contact HOT</h3>
+          {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
+          <strong>{{ page['Contact Person'].Name }}</strong>
+          <p>{{ page['Contact Person'].Title }}</p>
+          <p><a class="info-segment__contact-details__email"
+              href="mailto:{{ page['Contact Person'].Email }}">{{ page['Contact Person'].Email }}</a></p>
+          <p>{{ page['Contact Person'].Phone }}</p>
+          {% else %}
+          <a class="info-segment__contact-details__email" href="mailto:info@hotosm.org">info@hotosm.org</a>
+          {% endif %}
+        </div>
+        {% if page.Location.Name or page.Location.Address %}
+        <div class="info-segment">
+          <h3 class="info-segment__subtitle">Visit</h3>
+          <p><strong>{{ page.Location['Map Link'] }}</strong></p>
+          {{ page.Location.Address | markdownify }}
+          <p>{{ page.Location.Phone }}</p>
+          {% endif %}
+        </div>
         {% endif %}
       </div>
-      
-      
     </div>
+    <svg viewBox="0 0 24 24" class="spritesheet">
+      <symbol id="info">
+        <circle cx="12" cy="12" r="10"></circle>
+        <line x1="12" y1="16" x2="12" y2="12"></line>
+        <line x1="12" y1="8" x2="12" y2="8"></line>
+      </symbol>
+    </svg>
   </div>
-
-
-
   <!--////////////////////////////////-->
   <!--////// Country Highlights //////-->
   <!--////////////////////////////////-->
-
-  <div class="container">
-
+  <div class="country-page__section aligned">
     <!-- Tab links -->
-
     <div class="tab">
       <h6>{{ page.title }} Stats:</h6>
       <button id="hot-stats-tab" class="hide tablinks active" onclick="switchTab(event, 'hot-stats')">HOT</button>
       <button id="osm-stats-tab" class="tablinks active" onclick="switchTab(event, 'osm-stats')">OSM</button>
     </div>
-
   </div>
-
   <!-- Tab content -->
-  <div id="hot-stats" class="hide tabcontent container home-stats">
+  <div id="hot-stats" class="hide tabcontent country-page__section aligned home-stats">
     <div class="home-stat">
-      <center><p class="loader"></p></center>
-      <p class="stat-number" id="Community-Mappers"></p>
+      <p class="loader"></p>
+      <p class="stat-number" id="Community-Mappers">
+        <span class="icon-user icon-responsive"></span>
+      </p>
       <p class="stat-title">Community Mappers<sup>&#9432;</sup>
         <span class="tooltiptext">Total number of Mappers using HOT Tasking Manager</span>
       </p>
     </div>
     <div class="hr-v"></div>
     <div class="home-stat">
-      <center><p class="loader"></p></center>
-      <p class="stat-number" id="Total-Map-Edits"></p>
+      <p class="loader"></p>
+      <p class="stat-number" id="Total-Map-Edits">
+        <span class="icon-pencil icon-responsive"></span>
+      </p>
       <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
-        <span class="tooltiptext">Total number of edits using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+        <span class="tooltiptext">Total number of edits using HOT Tasking Manager from <a
+            href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
       </p>
     </div>
     <div class="hr-v hide-sm"></div>
     <div class="home-stat">
-      <center><p class="loader"></p></center>
-      <p class="stat-number" id="Buildings-Mapped"></p>
+      <p class="loader"></p>
+      <p class="stat-number" id="Buildings-Mapped">
+        <span class="icon-house icon-responsive"></span>
+      </p>
       <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
-        <span class="tooltiptext">Total number of buildings mapped using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+        <span class="tooltiptext">Total number of buildings mapped using HOT Tasking Manager from <a
+            href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
       </p>
     </div>
     <div class="hr-v"></div>
     <div class="home-stat">
-      <center><p class="loader"></p></center>
-      <p class="stat-number" id="Roads-Mapped"></p>
+      <p class="loader"></p>
+      <p class="stat-number" id="Roads-Mapped">
+        <span class="icon-road icon-responsive"></span>
+      </p>
       <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
-        <span class="tooltiptext">Total length of roads mapped using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+        <span class="tooltiptext">Total length of roads mapped using HOT Tasking Manager from <a
+            href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
       </p>
     </div>
   </div>
-
-  <div id="osm-stats" class="tabcontent container home-stats" style="display:none">
+  <div id="osm-stats" class="tabcontent country-page__section aligned home-stats" style="display:none">
     <div class="home-stat">
-      <center><p class="osm-loader"></p></center>
-      <p class="stat-number" id="OSM-Community-Mappers"></p>
+      <div class="home-stat__osm-loader-container">
+        <p class="osm-loader"></p>
+      </div>
+      <p class="stat-number" id="OSM-Community-Mappers">
+        <span class="icon-user icon-responsive"></span>
+      </p>
       <p class="stat-title">Community Mappers<sup>&#9432;</sup>
-        <span class="tooltiptext">Total number of OSM Mappers in {{ page.title }} from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+        <span class="tooltiptext">Total number of OSM Mappers in {{ page.title }} from <a
+            href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
       </p>
     </div>
     <div class="hr-v"></div>
     <div class="home-stat">
-      <center><p class="osm-loader"></p></center>
-      <p class="stat-number" id="OSM-Total-Map-Edits"></p>
+      <div class="home-stat__osm-loader-container">
+        <p class="osm-loader"></p>
+      </div>
+      <p class="stat-number" id="OSM-Total-Map-Edits">
+        <span class="icon-pencil icon-responsive"></span>
+      </p>
       <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
-        <span class="tooltiptext">Total number of OSM edits in {{ page.title }} from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+        <span class="tooltiptext">Total number of OSM edits in {{ page.title }} from <a
+            href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
       </p>
     </div>
     <div class="hr-v hide-sm"></div>
     <div class="home-stat">
-      <center><p class="osm-loader"></p></center>
-      <p class="stat-number" id="OSM-Buildings-Mapped"></p>
+      <div class="home-stat__osm-loader-container">
+        <p class="osm-loader"></p>
+      </div>
+      <p class="stat-number" id="OSM-Buildings-Mapped">
+        <span class="icon-house icon-responsive"></span>
+      </p>
       <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
-        <span class="tooltiptext">Total number of OSM buildings in {{ page.title }} from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+        <span class="tooltiptext">Total number of OSM buildings in {{ page.title }} from <a
+            href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
       </p>
     </div>
     <div class="hr-v"></div>
     <div class="home-stat">
-      <center><p class="osm-loader"></p></center>
-      <p class="stat-number" id="OSM-Roads-Mapped"></p>
+      <!-- <center> -->
+      <div class="home-stat__osm-loader-container">
+        <p class="osm-loader"></p>
+      </div>
+      <!-- </center> -->
+      <p class="stat-number" id="OSM-Roads-Mapped">
+        <span class="icon-road icon-responsive"></span>
+      </p>
       <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
-        <span class="tooltiptext">Total length of OSM roads in {{ page.title }} from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+        <span class="tooltiptext">Total length of OSM roads in {{ page.title }} from <a
+            href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
       </p>
     </div>
   </div>
 
-  {% for project in sorted-projects %}
-    {% if project['Country'] contains page.title %}
-      {% if forloop.index > 0 %}
 
-      <div class="container">
-        <div class="project-index-highlights">
-          <h6>Our work in {{ page.title }}</h6>
 
-      {% break %}
-
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-
-  {% assign highlight_count = 0 %}
-  {% for project in sorted-projects %}
-    {% if project['Country'] contains page.title %}
-
-      {% assign highlight_count = highlight_count | plus: 1 %}
-      {% if highlight_count > 3 %}
-        {% break %}
-      {% endif %}
-
-      {% include blocks/project-highlight.html %}
-
-    {% endif %}
-  {% endfor %}
-
-  {% for project in sorted-projects %}
-    {% if project['Country'] contains page.title %}
-      {% if forloop.index > 0 %}
-
-          </div>
+  <h5 class="section-title">Our work in {{ page.title }}</h5>
+  <div class="country-page__section aligned">
+    <ul class="projects-list">
+      {% assign highlight_count = country-projects.size | minus: 1 %}
+      <!-- if  1 project  -->
+      {% if highlight_count == 1 %}
+      <li class="projects-list__item">
+        <div class="projects-list__item__body">
+          {% assign project = country-projects[0] | split: '||' %}
+          {% if project[1] %}
+          <img class="item-image" src="{{ project[1]}}" alt="project image">
+          {% endif %}
         </div>
-
-        {% break %}
-
+      </li>
+      <li class="projects-list__item">
+        <h3 class="item-title">{{ project[0] }}</h3>
+        <a class="item-link" href="{{ project.url }}">
+          <p class="item-info">{{ project[3] }}
+          </p>
+        </a>
+      </li>
       {% endif %}
-    {% endif %}
-  {% endfor %}
+
+      <!-- if 2 projects  -->
+      {% if highlight_count == 2 %}
+      {% assign project = country-projects[0] | split: '||' %}
+      <li class="projects-list__item">
+        <div class="projects-list__item__body">
+          {% if project[1] %}
+          <img class="item-image" src="{{ project[1] }}" alt="project image">
+          {% endif %}
+        </div>
+      </li>
+      <li class="projects-list__item">
+        <h3 class="item-title">{{ project[0] }}</h3>
+        <a class="item-link" href="{{ project.url }}">
+          <p class="item-info">{{ project[3] }}
+          </p>
+        </a>
+      </li>
+      {% assign project = country-projects[1] | split: '||' %}
+      <li class="projects-list__item">
+        <div class="projects-list__item__body">
+          {% if project[1] %}
+          <img class="item-image" src="{{ project[1] }}" alt="project image">
+          {% endif %}
+        </div>
+        <h3 class="item-title">{{ project[0] }}</h3>
+        <a class="item-link" href="{{ project.url }}">
+          {% if project[2] %}
+          <p class="item-info">{{ project[2] }}
+          </p>
+          {% endif %}
+        </a>
+      </li>
+      {% endif %}
+
+      <!-- if 3 projects  -->
+      {% if highlight_count > 2 %}
+      {% assign project = country-projects[0] | split: '||' %}
+      {% assign projectdescription = project[2] | split: '||' %}
+      <li class="projects-list__item">
+        <div class="projects-list__item__body">
+          {% if project[1] %}
+          <img class="item-image" src="{{ project[1] }}" alt="project image">
+          {% endif %}
+        </div>
+      </li>
+      <li class="projects-list__item">
+        <h3 class="item-title">{{ project[0]}}</h3>
+        <a class="item-link" href="{{ project.url }}">
+          <p class="item-info">
+            <!-- {{ project[3] }} -->
+            {{ projectdescription }}
+          </p>
+        </a>
+      </li>
+
+      {% assign project = country-projects[1] | split: '||' %}
+      {% assign projectdescription = project[2] | split: '||' %}
+      <li class="projects-list__item">
+        <div class="projects-list__item__body">
+          {% if project[1] %}
+          <img class="item-image" src="{{ project[1] }}" alt="project image">
+          {% endif %}
+        </div>
+        <h3 class="item-title">{{ project[0] }}</h3>
+        <a class="item-link" href="{{ project.url }}">
+          {% if project[3] %}
+          <p class="item-info">
+            <!-- {{ project[3] }} -->
+            {{ projectdescription }}
+          </p>
+          {% endif %}
+        </a>
+      </li>
+
+      {% assign project = country-projects[2] | split: '||' %}
+      {% assign projectdescription = project[2] | split: '||' %}
+      <li class="projects-list__item">
+        <div class="projects-list__item__body">
+          {% if project[1] %}
+          <img class="item-image" src="{{ project[1] }}" alt="project image">
+          {% endif %}
+        </div>
+        <h3 class="item-title">{{ project[0] }}
+        </h3>
+        <a class="item-link" href="{{ project.url }}">
+          {% if project[3] %}
+          <p class="item-info">
+            <!-- {{ project[3] }} -->
+            {{ projectdescription }}
+          </p>
+          {% endif %}
+        </a>
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+
 
 
   <!--////////////////////////////////-->
@@ -322,121 +408,47 @@ layout: default
   <!--////////////////////////////////-->
 
   {% for post in site.posts %}
-    {% if post['Country'] contains page.title %}
+  {% if post['Country'] contains page.title %}
 
-    <div class="container">
-      <div class="project-index-news">
-        <h6>Recent news from {{ page.title }} <span>(<a href="/updates">View all news</a>)</span></h6>
-        <div class="project-index-news-list">
-
+  <h5 class="section-title">NEWS</h5>
+  <div class="country-page__section aligned">
+    <section class="newsgroup">
       {% break %}
-    {% endif %}
-  {% endfor %}
+      {% endif %}
+      {% endfor %}
+      {% assign news_count = 0 %}
+      {% for post in site.posts %}
+      {% if post['Country'] contains page.title %}
 
-  {% assign news_count = 0 %}
-  {% for post in site.posts %}
-    {% if post['Country'] contains page.title %}
-
-    {% assign news_count = news_count | plus: 1 %}
-    {% if news_count > 6 %}
+      {% assign news_count = news_count | plus: 1 %}
+      {% if news_count > 4 %}
       {% break %}
-    {% else %}
+      {% else %}
+      <article class="news-item">
+        <a class="news-item__link" href="{{ post.url }}">
 
-    <div class="news-index-item">
-      <div class="news-list-summary">
 
-        <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
-
-          <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-
-          <p>{{ post['Summary Text']}}</p>
-          {% capture post.Person %}{% endcapture %}
-          <div class="news-list-meta">
-              <p class="news-index-author">
-                {% include author.html %} — {{ post.date | date:  '%e %B, %Y' }}
-              </p>
+          {% if post['Feature Image'] %}
+          <div class="news-item__link__content">
+            <img class="news-item-img" src="{{ post['Feature Image'] }}" alt=" " />
+            {% endif %}
           </div>
-        </div>
-
-        {% if post['Feature Image'] %}
-          <div class="news-list-image-sm">
-            <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
-          </div>
-        {% endif %}
-
-      </div>
-    </div>
-    {% endif %}
-
-    {% endif %}
-  {% endfor %}
-
-  {% for post in site.posts %}
-    {% if post['Country'] contains page.title %}
-
-          </div>
-        </div>
-      </div>
-      </div>
-
-      {% break %}
-    {% endif %}
-  {% endfor %}
-
-
-  <!--////////////////////////////////-->
-  <!--///// Country All Projects /////-->
-  <!--////////////////////////////////-->
-
-
-  {% assign project_head_count = 0 %}
-  {% for project in sorted-projects %}
-    {% if project['Country'] contains page.title %}
-
-      {% assign project_head_count = project_head_count | plus: 1 %}
-      {% if project_head_count > 3 %}
-
-        <div class="container">
-          <div class="hr-h"></div>
-          <h6>More Projects</h6>
-          <div class="project-index-all">
-
-        {% break %}
+          <h6 class="news-item__title">
+            {{ post.title }}
+          </h6>
+        </a>
+      </article>
 
       {% endif %}
-    {% endif %}
-  {% endfor %}
-
-
-  {% assign project_count = 0 %}
-  {% for project in sorted-projects %}
-    {% if project['Country'] contains page.title %}
-
-      {% assign project_count = project_count | plus: 1 %}
-      {% if project_count > 3 %}
-        {% unless project_count < 4 %}
-          {% include blocks/project-thumb.html %}
-        {% endunless %}
-
       {% endif %}
-    {% endif %}
-  {% endfor %}
-
-
-  {% assign project_foot_count = 0 %}
-  {% for project in sorted-projects %}
-    {% if project['Country'] contains page.title %}
-
-      {% assign project_foot_count = project_foot_count | plus: 1 %}
-      {% if project_foot_count > 3 %}
-
-          </div>
-        </div>
-
-        {% break %}
-
-      {% endif %}
-    {% endif %}
+      {% endfor %}
+      {% for post in site.posts %}
+      {% if post['Country'] contains page.title %}
+      <span><a class="newsgroup__link" href="/updates">More news</a></span>
+    </section>
+  </div>
+  {% break %}
+  {% endif %}
   {% endfor %}
 
 </div>

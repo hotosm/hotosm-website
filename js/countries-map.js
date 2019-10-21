@@ -3,11 +3,10 @@ var countryData = {
   "type": "FeatureCollection",
   "features": []
 };
-var years = []
-var count = {}
-var container = document.getElementById('year-checkbox')
+var projectYears;
+
 fetch('/aggregatedStats.json')
-  .then(function(response) {
+  .then(function (response) {
     return response.json();
   })
   .then(function (jsonData) {
@@ -16,64 +15,22 @@ fetch('/aggregatedStats.json')
       if (jsonData[countryTitle]) countryData.features = (jsonData[countryTitle]);
       var campaignCount = countryData.features.length;
       if (campaignCount) {
-        var displayElements = ["tm-legend", "country-filters-btn"]
-        displayElements.forEach ( ele => {
-          document.getElementById(ele).classList.remove("hide");
-        })
         var hotStatsElements = ["hot-stats", "hot-stats-tab"]
-        hotStatsElements.forEach( hotStatsEle => {
+        hotStatsElements.forEach(hotStatsEle => {
           var ele = document.getElementById(hotStatsEle);
           ele.classList.remove("hide");
           ele.classList.add("active");
         })
-        document.getElementById("osm-stats-tab").classList.remove("active");  
-        updateContactHeader(campaignCount);
-        countryData.features.forEach(countryProject => {
-          if (years.indexOf(countryProject.properties['created']) < 0) {
-            years.push(countryProject.properties['created']);
-          }
-          if (count[countryProject.properties['status']]) {
-            count[countryProject.properties['status']]++;
-          } else {
-            count[countryProject.properties['status']] = 1;
-          }
-          if (count[countryProject.properties['created']]) {
-            count[countryProject.properties['created']]++;
-          } else {
-            count[countryProject.properties['created']] = 1;
-          }
-        })
-        years.sort();
-        var filterHeader = document.getElementById('filter-header');
-        if (campaignCount === 1) filterHeader.innerHTML = 'Filter ' + campaignCount + ' mapping campaign by:';
-        else filterHeader.innerHTML = 'Filter ' + campaignCount + ' mapping campaigns by:';
-        var publishedLabel = document.getElementById('published-label');
-        if (count['PUBLISHED']) publishedLabel.innerHTML = 'Active (' + count['PUBLISHED'] + ')';
-        else publishedLabel.innerHTML = 'Active';
-        var archivedLabel = document.getElementById('archived-label');
-        if (count['ARCHIVED']) archivedLabel.innerHTML = 'Archived (' + count['ARCHIVED'] + ')';
-        else archivedLabel.innerHTML = 'Archived';
-
-        years.forEach(year => {
-          var checkbox = document.createElement('input');
-          checkbox.type = 'checkbox';
-          checkbox.classList.add('style-checkbox');
-          checkbox.name = 'checkbox';
-          checkbox.value = 'created';
-          checkbox.id = year;
-          checkbox.checked = true;
-          var label = document.createElement('label')
-          label.id = year + '-label';
-          label.htmlFor = year;
-          label.appendChild(document.createTextNode(year + ' (' + count[year] + ')'));
-          container.appendChild(checkbox);
-          container.appendChild(label);
-        });
+        document.getElementById("osm-stats-tab").classList.remove("active");
+        updateCountryPageIntro(campaignCount);
+        projectYears = getProjectsYearRange();
+        createTimeSlider();
+        setSliderTimeRange();
       } else {
         var campaignCount = 0;
         document.getElementById("osm-stats").style.display = "flex";
         document.getElementById("osm-stats-tab").classList.add("active");
-        updateContactHeader(campaignCount);
+        updateCountryPageIntro(campaignCount);
       }
     } else {
       document.getElementById("osm-stats").style.display = "flex";
@@ -83,33 +40,18 @@ fetch('/aggregatedStats.json')
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
 var map = new mapboxgl.Map({
-  container: 'country-map-wrap',
+  container: 'map-view',
   logoPosition: 'bottom-left',
   // scrollZoom: false,
   // dragRotate: false,
   maxzoom: 16,
   style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
 });
-var mapHeight = $('#country-map-wrap').height();
-$('#country-details').height(mapHeight);
-$('#country-filters').height(mapHeight);
+var mapHeight = $('#map-content').height();
+$('#country-contact-info__details').height(mapHeight);
 map.resize();
 
-function switchInfo(evt, tabName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName('detailsTabContent');
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = 'none';
-  }
-  tablinks = document.getElementsByClassName('detailsTabLinks');
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(' active', '');
-  }
-  document.getElementById(tabName).style.display = 'block';
-  evt.currentTarget.className += ' active';
-}
-
-map.on('load', function() {
+map.on('load', function () {
   map.addSource('countriesbetter', {
     "type": "vector",
     "url": "mapbox://hot.9fvp7us2"
@@ -117,7 +59,7 @@ map.on('load', function() {
   map.addSource('countriesProjects', {
     "type": "geojson",
     "data": countryData
-  }); 
+  });
   map.addLayer({
     "id": "active_countries",
     "type": "fill",
@@ -149,7 +91,6 @@ map.on('load', function() {
           [125000, 30],
           [150000, 35],
           [200000, 40]
-
         ]
       },
       "circle-opacity": 0.7,
@@ -168,58 +109,86 @@ map.on('load', function() {
       "circle-opacity": 1,
       "circle-color": "#000000",
     }
-  }, 'place-city-sm');  
+  }, 'place-city-sm');
   map.addLayer({
     "id": "country-projects-symbol",
     "type": "symbol",
     "source": "countriesProjects",
     "minzoom": 0,
     "maxzoom": 18,
-    "layout" : {
+    "layout": {
       "text-field": "+",
-      "text-font" : ["Open Sans Bold"],
+      "text-font": ["Open Sans Bold"],
       "text-offset": [-0.001, -0.03]
     },
     "paint": {
       "text-color": "#FFFFFF"
     }
   }, 'place-city-sm');
+
+  setSliderFilters();
+
   fetch('/js/bbox.json')
-    .then(function(response) {
+    .then(function (response) {
       return response.json();
     })
-    .then(function(jsonData) {
+    .then(function (jsonData) {
       countries = jsonData;
       map.fitBounds(countries[countryCode][1], {
         // padding: 40
       }, setTimeout(() => {
         var boxZoom = map.getZoom();
         map.setMinZoom(boxZoom);
-      }, 2000));     
+      }, 2000));
     }
     );
-  map.on('mousemove', function(e) {
+  map.on('mousemove', function (e) {
     var projectHover = map.queryRenderedFeatures(
       e.point,
-      {layers: ['country-projects-edits-circle', 'country-projects-black-circle', 'country-projects-symbol']}
+      { layers: ['country-projects-edits-circle', 'country-projects-black-circle', 'country-projects-symbol'] }
     );
     if (projectHover.length) {
       map.getCanvas().style.cursor = 'pointer';
-      $("#project-details").empty();
-      $("#project-details").removeClass('hide');
-      $("#project-details").append(
-        '<p class="hover-name">' + 
-        '<a target="_blank" href="https://tasks.hotosm.org/project/' +
-        projectHover[0].properties.id + 
-        '">#' + projectHover[0].properties.id +'</a>' +
-          " - " +
-        projectHover[0].properties.title + '</p>' +
-        '<p class= "hover-edits">' + formatedData(projectHover[0].properties.edits) + ' Edits </p>' 
+      $("#map__popover").empty();
+      $("#map__popover").removeClass('hide');
+      $("#map__popover").append(
+        `<p class="popover__key">${projectHover[0].properties.status}</p>
+            <p class="popover__title">${projectHover[0].properties.title}</p>
+            <ul class="popover__data">
+                <li>
+                    <span>${projectHover[0].properties.created}</span>
+                    <span>started</span>
+                </li>
+                <li>
+                    <span class="project-status">${projectHover[0].properties.status}</span>
+                    <span>status</span>
+                </li>
+                <li>
+                    <span>${projectHover[0].properties.edits} </span>
+                    <span>edits</span>
+                </li>
+            </ul>
+            <a class="popover__link" target="_blank" href="https://tasks.hotosm.org/project/${projectHover[0].properties.id}"> 
+                <p>See Tasking Manager for details</p>
+            </a>`
       );
+
+      var projectStatus = document.querySelector('.project-status');
+      var popoverTitle = document.querySelector('.popover__key');
+      if (projectHover[0].properties.status === 'PUBLISHED') {
+        projectStatus.textContent = "Active";
+        popoverTitle.innerHTML = "Active";
+      }
+      if (projectHover[0].properties.status === 'ARCHIVED') {
+        projectStatus.textContent = "Completed";
+        popoverTitle.textContent = "Completed";
+      }
+      if (projectHover[0].properties.title === 'Untitled project') {
+        projectStatus.textContent = "Unknown";
+        popoverTitle.textContent = "Unknown";
+      }
+
       var coordinates = projectHover[0].geometry.coordinates.slice();
-      var description = "<html><h6><a target='_blank' href='https://tasks.hotosm.org/project/" + projectHover[0].properties.id
-                        + "'</a>#" + projectHover[0].properties.id + " - "
-                        + projectHover[0].properties.title + "</h6></html>";
       while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
         coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
       }
@@ -227,91 +196,90 @@ map.on('load', function() {
       map.getCanvas().style.cursor = '';
     }
   });
-
-  $(document).ready(function() {
-    $("input[type='checkbox']").on('change', function() {
-      count = {}
-      var yearFilter = ['any']
-      var statusFilter = ['any']
-      var updateList = []
-      var layers = ['country-projects-edits-circle', 'country-projects-black-circle', 'country-projects-symbol']
-      var chkBoxes = document.getElementsByName('checkbox')
-      chkBoxes.forEach(chkBox => {
-        if (chkBox.checked) {
-          var chkBoxFilter = ['==', chkBox.value, chkBox.id.toUpperCase()]
-          if (chkBox.value === 'created') {
-            yearFilter.push(chkBoxFilter)
-            count[chkBoxFilter[2]] = 0;
-            updateList.push(chkBoxFilter[2])
-          } else {
-            statusFilter.push(chkBoxFilter)
-            count[chkBoxFilter[2]] = 0;
-          }
-        }
-      })
-      countryData.features.forEach(proj => {
-        if (count.hasOwnProperty(proj.properties.created) &&
-            count.hasOwnProperty(proj.properties.status)) {
-          count[proj.properties.created]++;
-          count[proj.properties.status]++;
-        }
-      })
-      var filter = ['all', yearFilter, statusFilter]
-      layers.forEach(layer => {
-        map.setFilter(layer, filter);
-      })
-      var publishedLabel = document.getElementById('published-label')
-      if (count['PUBLISHED']) {
-        publishedLabel.innerHTML = 'Active (' + count['PUBLISHED'] + ')';
-      } else {
-        publishedLabel.innerHTML = 'Active';
-      }
-      var archivedLabel = document.getElementById('archived-label')
-      if (count['ARCHIVED']) {
-        archivedLabel.innerHTML = 'Archived (' + count['ARCHIVED'] + ')';
-      } else {
-        archivedLabel.innerHTML = 'Archived';
-      }
-      years.forEach(year => {
-        var yearLabel = document.getElementById(year + '-label')
-        if (count[year]) {
-          yearLabel.innerHTML = year + ' (' + count[year] + ')';
-        } else {
-          yearLabel.innerHTML = year;
-        }
-      });
-    });
-  });
 });
 
-function updateContactHeader (campaignCount) {
-  var contactHeader = document.getElementById('contact-header');
+function updateCountryPageIntro(campaignCount) {
+  var intro = document.querySelector('.country-page__description');
   if (campaignCount !== 0) {
     if (campaignCount > 1) {
       campaignCount += ' mapping campaigns';
     } else campaignCount += ' mapping campaign';
   } else campaignCount = '';
+
   if (projectCount !== '0') {
-    if (projectCount > 1 ) {
+    if (projectCount > 1) {
       if (campaignCount !== '') {
-        projectCount = ', including ' + projectCount + ' HOT Projects ';
-      } else  projectCount += ' HOT Projects ';
+        projectCount = ', including ' + projectCount + ' HOT Projects.';
+      } else projectCount += ' HOT Projects ';
     } else {
       if (campaignCount !== '') {
-        projectCount = ', including ' + projectCount + ' HOT Project ';
-      } else  projectCount += ' HOT Project ';
+        projectCount = ', including ' + projectCount + ' HOT Project.';
+      } else projectCount += ' HOT Project.';
     }
   } else projectCount = '';
-  if (memberCount !== '0') {
-    if (memberCount > 1) {
-      memberCount += ' voting members';
-    } else memberCount += ' voting member';
-  } else memberCount = '';
-  if (projectCount !== '' && memberCount !== '') {
-    contactHeader.innerHTML = countryName + ' has ' +
-    campaignCount + projectCount + ' and ' + memberCount; 
+
+  if (projectCount !== '') {
+    intro.innerHTML = countryName + ' has ' +
+      campaignCount + projectCount;
   } else {
-    contactHeader.innerHTML = countryName + ' has ' +
-    campaignCount + projectCount + memberCount; 
+    intro.innerHTML = countryName + ' has ' +
+      campaignCount + projectCount;
   }
+}
+
+function getProjectsYearRange() {
+  const arrayOfYears = countryData.features.map(countryProject => countryProject.properties.created)
+    .map(item => Number(item));
+  const removeDuplicateYears = arrayOfYears.filter((year, index) => index === arrayOfYears.indexOf(year)).sort((a, b) => a - b);
+  const minYear = Math.min(...removeDuplicateYears);
+  const maxYear = Math.max(...removeDuplicateYears);
+  const createRangeofYears = Array.from({ length: maxYear - minYear }, (x, index) => minYear + index).filter(year => !removeDuplicateYears.includes(year));
+  return [...removeDuplicateYears, ...createRangeofYears].sort((a, b) => a - b);
+}
+
+function createTimeSlider() {
+  const sliderInput = document.createElement("input");
+  const newDiv = document.createElement('div');
+  newDiv.setAttribute("class", "track");
+  sliderInput.setAttribute("id", "slider");
+  sliderInput.setAttribute("class", "slider");
+  sliderInput.type = "range";
+  sliderInput.min = projectYears[0];
+  sliderInput.max = projectYears[projectYears.length - 1];
+  sliderInput.step = "1";
+  sliderInput.value = projectYears[projectYears.length - 1];
+  const sliderContainer = document.querySelector(".map__slider")
+  sliderContainer.appendChild(sliderInput);
+  const sliderTicksDiv = document.createElement('div');
+  sliderTicksDiv.className = "slider-ticks";
+  sliderTicksDiv.setAttribute("id", "slider-ticks");
+  sliderContainer.appendChild(sliderTicksDiv);
+  sliderInput.before(newDiv);
+}
+
+function setSliderTimeRange() {
+  projectYears.forEach(function (projectYear) {
+    const paragraph = document.createElement("p");
+    paragraph.textContent = projectYear;
+    document.getElementById("slider-ticks").appendChild(paragraph);
+  })
+}
+
+function setSliderFilters() {
+  const checkbox = document.querySelector("input[name=checkbox]");
+  document.getElementById('slider').addEventListener('input', function (e) {
+    const year = e.target.value;
+    map.setFilter('country-projects-edits-circle', ['==', ['string', ['get', 'created']], year]);
+    map.setFilter('country-projects-black-circle', ['==', ['string', ['get', 'created']], year]);
+    map.setFilter('country-projects-symbol', ['==', ['string', ['get', 'created']], year]);
+    checkbox.checked = false;
+  })
+
+  checkbox.addEventListener('change', function () {
+    if (this.checked == true) {
+      map.setFilter('country-projects-edits-circle', null);
+      map.setFilter('country-projects-black-circle', null);
+      map.setFilter('country-projects-symbol', null);
+    }
+  });
 }
