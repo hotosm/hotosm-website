@@ -45,7 +45,7 @@ For the Microgrants 2020 campaign, we’re doing something a little different. T
 
   * **17-18 October:** Pitches are screened, and eligible pitches are sent to the HOT Voting Members to vote for a shortlist by 18 October.
 
-  * **22 October**: Shortlisted communities are informed and HOT will work with them to develop their project plan and fundraising materials.
+  * **29 October**: Shortlisted communities are informed and HOT will work with them to develop their project plan and fundraising materials.
 
   * **14 November**: Fundraising campaign begins.
 
