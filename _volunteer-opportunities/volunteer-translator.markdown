@@ -1,6 +1,6 @@
 ---
 title: Volunteer Translator
-date: 2019-09-14 18:43:00 Z
+date: 2019-10-24 18:43:00 Z
 Place of Work: Remote
 Deadline Date: 2020-09-26 00:00:00 Z
 Apply Form Link: http://bit.ly/HOTvolunteer1
@@ -16,6 +16,7 @@ layout: page
 ## About HOT
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 175,000 people with ground operations in eight countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
 
+## Overview
 HOT is seeking individuals who have native or advanced language skills in English and a second language to assist in translating training materials, reports, and other documents on an as-needed basis. 
 
 Languages Desired: Spanish, French, German, Italian, Chinese, Japanese, Arabic, Swahili, Filipino. Individuals with other language backgrounds encouraged to apply.
