@@ -50,4 +50,4 @@ Administration, Nonprofit Management, English, Journalism, Marketing, or Communi
 * Professional experience maintaining social media platforms and executing social media strategies.
 
 ## How to Apply 
-* Please complete the [online application](http://bit.ly/HOTvolunteer1) by 31 October 2019. Please FOLLOW LINK after form submission TO UPLOAD CV.
+* Please complete the [online application](http://bit.ly/HOTvolunteer1) by 31 October 2019. 
