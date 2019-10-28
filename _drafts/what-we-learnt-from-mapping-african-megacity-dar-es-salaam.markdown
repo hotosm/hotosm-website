@@ -36,7 +36,7 @@ Although the city is rapidly urbanizing and becoming a regional commercial hub, 
 
 ![image3-1db5b7.jpg](/uploads/image3-1db5b7.jpg)
 
-A mapper collecting trash points along the river. Photo: Chris Morgan
+A mapper collecting trash points along the river. Photo by Chris Morgan
 
 ## Challenges Facing the City
 
@@ -57,7 +57,7 @@ By using locally available tools and methods such as smartphones, measuring tape
 
 ![image2-f55541.jpg](/uploads/image2-f55541.jpg)
 
-University Students during 2018 Industrial Training. Photo: Ramani Huria
+University Students during 2018 Industrial Training. Photo by Ramani Huria
 
 ## Community Mapping Coming In
 
@@ -82,7 +82,7 @@ Today, Ramani Huria is working on a new solution -using low-cost survey drones t
 
 ![image1-eaf443.jpg](/uploads/image1-eaf443.jpg)
 
-Flying a locally made bamboo drone at Lake Victoria challenge, 2018- Photo by Sala Lewis
+Flying a locally made bamboo drone at Lake Victoria challenge. Photo by Sala Lewis
 
 We have trained local pilots and worked with regulatory authorities to get permits - and now we are developing and flying a locally made bamboo drone and are able to capture images from above whenever we need it.
 How Maps Help Fill Existing Data Gaps
@@ -94,7 +94,7 @@ Looking to the future, rainfall patterns are uncertain, variability is likely to
 
 ## 
 
-The Legacy of Ramani Huria
+## The Legacy of Ramani Huria
 
 1. **Students and community members gained knowledge of a suite of open mapping tools, deepening their technical skills and awareness of data**     
 
