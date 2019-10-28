@@ -1,6 +1,14 @@
 ---
 title: What we Learnt from Mapping African Megacity Dar es Salaam
-date: 2019-10-28 13:12:00 Z
+date: 2019-10-28 23:34:00 Z
+categories:
+- Mapping
+tags:
+- floods
+- urbanresilience
+- floodresilience
+- darsalaam
+- tanzania
 ---
 
 Since the project kicked-off in 2015, Ramani Huria, funded by the World Bank and implemented by Humanitarian OpenStreetMap Team (HOT), has managed to map three-quarters of one of Africa’s megacities, Dar es Salaam. As a city that is particularly vulnerable to floods, the team focused their mapping on flood-prone areas, especially in informal settlements where vulnerable populations live.
