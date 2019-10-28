@@ -27,6 +27,7 @@ Project:
 
 Since the project kicked-off in 2015, Ramani Huria, funded by the World Bank and implemented by Humanitarian OpenStreetMap Team (HOT), has managed to map three-quarters of one of Africa’s megacities, Dar es Salaam. As a city that is particularly vulnerable to floods, the team focused their mapping on flood-prone areas, especially in informal settlements where vulnerable populations live.
 ![image4-99318d.png](/uploads/image4-99318d.png)
+
 Informal Settlement in Dar es Salaam. Source: Drone Image by Frederick Mbuya, UhuruLabs.
 
 Dar es Salaam is vulnerable to floods, rising sea-levels, coastal erosion, water scarcity, and outbreaks of diseases. The city, home to an estimated 6,368,000 people, is particularly vulnerable to climate change effects, caused among other things by poor planning and infrastructure, construction in hazardous lands and riparian areas.
@@ -37,9 +38,7 @@ Although the city is rapidly urbanizing and becoming a regional commercial hub, 
 
 A mapper collecting trash points along the river. Photo: Chris Morgan
 
-## 
-
-Challenges Facing the City
+## Challenges Facing the City
 
 Heavy rainfall and other natural hazards are a big issue in Dar es Salaam that will only increase as the climate crisis grows. The potential tragedy that might occur in Tanzania was evident in the consequences of Cyclone Idai, which ravaged Mozambique, Zimbabwe, and Malawi. That storm alone left more than 1000 people dead and caused an estimated $2 billion worth of damages. Projects like Rarmani Huria are ultimately meant to reduce the risk from such disasters.
 
