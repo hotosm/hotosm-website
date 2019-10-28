@@ -9,6 +9,20 @@ tags:
 - floodresilience
 - darsalaam
 - tanzania
+Summary Text: Since the project kicked-off in 2015, Ramani Huria, funded by the World
+  Bank and implemented by Humanitarian OpenStreetMap Team (HOT), has managed to map
+  three-quarters of one of Africa’s megacities, Dar es Salaam. As a city that is particularly
+  vulnerable to floods, the team focused their mapping on flood-prone areas, especially
+  in informal settlements where vulnerable populations live.
+Feature Image: "/uploads/image4-99318d.png"
+Is image top aligned: true
+Person: Hawa Adinani
+Working Group:
+- Community
+Country:
+- Tanzania
+Project:
+- 'Urban flood resilience: Ramani Huria'
 ---
 
 Since the project kicked-off in 2015, Ramani Huria, funded by the World Bank and implemented by Humanitarian OpenStreetMap Team (HOT), has managed to map three-quarters of one of Africa’s megacities, Dar es Salaam. As a city that is particularly vulnerable to floods, the team focused their mapping on flood-prone areas, especially in informal settlements where vulnerable populations live.
@@ -17,7 +31,6 @@ Informal Settlement in Dar es Salaam. Source: Drone Image by Frederick Mbuya, Uh
 
 Dar es Salaam is vulnerable to floods, rising sea-levels, coastal erosion, water scarcity, and outbreaks of diseases. The city, home to an estimated 6,368,000 people, is particularly vulnerable to climate change effects, caused among other things by poor planning and infrastructure, construction in hazardous lands and riparian areas.
 
-
 Although the city is rapidly urbanizing and becoming a regional commercial hub, flooding causes huge problems for residents and impacts the economy. Participatory mapping is both an innovative and ideal way to get a city-wide picture of road and building conditions and other infrastructure. By empowering students and local communities to do the mapping, Ramani Huria was able to collect data at a much larger scale and at a much cheaper price than would have been possible with traditional surveyors.
 
 ![image3-1db5b7.jpg](/uploads/image3-1db5b7.jpg)
@@ -25,8 +38,8 @@ Although the city is rapidly urbanizing and becoming a regional commercial hub, 
 A mapper collecting trash points along the river. Photo: Chris Morgan
 
 ## 
-Challenges Facing the City
 
+Challenges Facing the City
 
 Heavy rainfall and other natural hazards are a big issue in Dar es Salaam that will only increase as the climate crisis grows. The potential tragedy that might occur in Tanzania was evident in the consequences of Cyclone Idai, which ravaged Mozambique, Zimbabwe, and Malawi. That storm alone left more than 1000 people dead and caused an estimated $2 billion worth of damages. Projects like Rarmani Huria are ultimately meant to reduce the risk from such disasters.
 
@@ -34,14 +47,12 @@ As Dar es Salaam grows, construction increases in whatever space is available no
 
 ## Training an Army of Students
 
-
 We started phase one of the project in 2015, training more than 150 students to map the city and create maps. The phase was mainly characterized by paperwork data collection and using GPS to collect locations. Data from the field were then added to JOSM and uploaded to OpenStreetMap. Data management and monitoring of collection were relatively poor as it was hard to track the data collection process from the field and if the GPS locations were taken correctly.
 
 * The first phase of Ramani Huria was successful and gave way to open mapping in Tanzania –making the authorities and other organizations, including community members, understand the power of mapping and how the map can be a creative tool to integrate with disaster planning, relief, and recovery.
 
 
-* Phase two began in 2017 and was characterized by the use of mobile data collection applications such as Open Data Kit and Open Map Kit. Using these tools made data collection and management much easier as we were able to monitor the field data in real-time, as well as trace the history, time of collection and who collected it, in case of any discrepancies. This made data more systematic and stored in a server which allows better efficiency as users can access their files remotely eliminating the burden of physically accessing data.
-
+* Phase two began in 2017 and was characterized by the use of mobile data collection applications such as [Open Data Kit](https://opendatakit.org/) and [Open Map Kit](http://openmapkit.org/). Using these tools made data collection and management much easier as we were able to monitor the field data in real-time, as well as trace the history, time of collection and who collected it, in case of any discrepancies. This made data more systematic and stored in a server which allows better efficiency as users can access their files remotely eliminating the burden of physically accessing data.
 
 By using locally available tools and methods such as smartphones, measuring tapes, community knowledge etc, Ramani Huria created quality, actionable map data, i.e inundation maps, flood extent maps, trash point maps, community assets and threats map to mention a few.
 
@@ -50,7 +61,6 @@ By using locally available tools and methods such as smartphones, measuring tape
 University Students during 2018 Industrial Training. Photo: Ramani Huria
 
 ## Community Mapping Coming In
-
 
 The next step was for communities to work with students trained as field mappers to carry out ground surveys to add different layers of data to the map - including drainage, infrastructure, and assets. This community-derived data cannot be obtained without working with and listening to the communities.
 These  added layers of  map data help communities and government agencies better prepare for floods, as they can:
@@ -63,12 +73,10 @@ These  added layers of  map data help communities and government agencies better
 
 * Locate critical facilities, i.e. schools, hospitals, and shelters to better inform disaster preparedness plans.
 
-> 
 > “Ramani Huria should stand as an example to other projects. The way community members were involved in the whole process of data collection adds value to data collected. Information collected stands as evidence of development priorities, including effective waste management and proper planning of settlements”.
 > -Osiligi Olasai, Ward Executive officer, Kigogo Ward
 
 ## Keeping up with the Pace of Technology
-
 
 In the past, in order to digitize buildings, roads, and other infrastructure, it was necessary to use satellite imagery from corporate vendors. This imagery is very useful, but can often be low resolution, or subject to cloud cover. More significantly, it is not always within the power of local people to update when they need it.
 Today, Ramani Huria is working on a new solution -using low-cost survey drones that cost a few thousand dollars and can even be deployed when it’s cloudy. These drones make it so much easier to map different features, monitor particular infrastructure or river basins and even respond more quickly to flood events.
@@ -76,7 +84,6 @@ Today, Ramani Huria is working on a new solution -using low-cost survey drones t
 ![image1-eaf443.jpg](/uploads/image1-eaf443.jpg)
 
 Flying a locally made bamboo drone at Lake Victoria challenge, 2018- Photo by Sala Lewis
-
 
 We have trained local pilots and worked with regulatory authorities to get permits - and now we are developing and flying a locally made bamboo drone and are able to capture images from above whenever we need it.
 How Maps Help Fill Existing Data Gaps
@@ -87,17 +94,20 @@ When mapping Dar es Salaam we didn’t want it to simply inform one particular d
 Looking to the future, rainfall patterns are uncertain, variability is likely to increase and intensification of heavy rainfall is expected. Thus, flooding is likely to become an increasingly severe issue, particularly taken together with socioeconomic projections. That is why this is just one part of a broader resilience framework - and why it is so important for authorities to continue utilizing data to strengthen the city.
 
 ## 
+
 The Legacy of Ramani Huria
 
-1. **Students and community members gained knowledge of a suite of open mapping tools, deepening their technical skills and awareness of data                        **More than 1,000 students and 300 community members have been involved in the project. The knowledge gained will increase the use of datasets produced and contribute to a resilient city with strong, young and enthusiastic communities that believes in data-driven policies and decisions.
+1. **Students and community members gained knowledge of a suite of open mapping tools, deepening their technical skills and awareness of data**     
 
-2. **It provides a template for other countries     **
+   More than 1,000 students and 300 community members have been involved in the project. The knowledge gained will increase the use of datasets produced and contribute to a resilient city with strong, young and enthusiastic communities that believes in data-driven policies and decisions.
 
-   Other countries like Zambia, Mozambique, Sierra Leone are now looking back at the project and see the potential of replicating it. The project has gone far beyond and is called ‘The largest community mapping initiative in Africa’. Furthermore, all of the data and projects have been thoroughly documented and are openly available for others.** **
+2. **It provides a template for other countries  **   
 
-3. **Transferring of knowledge to a Resilience Academy **
+   Other countries like Zambia, Mozambique, Sierra Leone are now looking back at the project and see the potential of replicating it. The project has gone far beyond and is called ‘The largest community mapping initiative in Africa’. Furthermore, all of the data and projects have been thoroughly documented and are openly available for others.
 
-    Ramani Huria did not just collect and store data, but rather created a way to collect this data, guidelines, and is transferring this knowledge to students who will be carrying the project forward. Datasets, maps, tools, learning materials and documentation of the project will be carried on and used by the Resilience Academy.
+3. **Transferring of knowledge to a Resilience Academy**
+
+   Ramani Huria did not just collect and store data, but rather created a way to collect this data, guidelines, and is transferring this knowledge to students who will be carrying the project forward. Datasets, maps, tools, learning materials and documentation of the project will be carried on and used by the [Resilience Academy.](https://resilienceacademy.ac.tz)
 
 4. **Enhanced private sector use of data**
 
@@ -109,7 +119,6 @@ The Legacy of Ramani Huria
 
 6. **Building local capacity amongst graduates**
 
-   Non-government organizations like OpenMap Development Tanzania (OMDTZ) have developed technical capabilities and managerial skills to run projects beyond the initial scope of the project. HOT encourages the continuation of a local mapping community through OMDTZ, and as the torch-bearers of open mapping in East Africa.
-   
+   Non-government organizations like [OpenMap Development Tanzania (OMDTZ)](omdtz.or.tz/) have developed technical capabilities and managerial skills to run projects beyond the initial scope of the project. HOT encourages the continuation of a local mapping community through OMDTZ, and as the torch-bearers of open mapping in East Africa.
 
 Ramani Huria as a project is ending, but the legacy will manifest over the coming years under the Resilience Academy, OpenMap Development Tanzania, and the many communities who have been involved in the project - but as an approach, open mapping in Tanzania is just beginning.
