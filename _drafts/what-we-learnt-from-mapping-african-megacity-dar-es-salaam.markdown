@@ -92,9 +92,9 @@ As part of this new project, we trained local pilots and worked with regulatory 
 
 ## How maps can help fill existing data gaps
 
-Before Ramani Huria, there was little spatial data in Dar es Salaam that could be used to establish trends and assess impacts and damage caused by flooding. The city council wanted to fill this gap, but also find a program that empowered students and community members to build resilience. We also wanted to make sure map data inform decisions across sectors, including city planning, disaster management, community development, and decisions on land use. 
+Before Ramani Huria, there was little spatial data in Dar es Salaam that could be used to establish trends and assess impacts and damage caused by flooding. The city council wanted to fill this gap, but also find a program that empowered students and community members to build resilience. We also wanted to make sure map data inform decisions across sectors, including city planning, disaster management, community development, and decisions on land use.
 
-With flooding likely to become an increasingly severe issue due to climate change, creating good maps is a necessary part of building a broader resilience framework - and why it is so important for authorities to continue utilizing map data to strengthen the city. 
+With flooding likely to become an increasingly severe issue due to climate change, creating good maps is a necessary part of building a broader resilience framework - and why it is so important for authorities to continue utilizing map data to strengthen the city.
 
 What legacy has Ramani Huria left and what can it teach future projects? The team reflected on the main successes and lessons learned over the last four years:
 
@@ -108,7 +108,7 @@ What legacy has Ramani Huria left and what can it teach future projects? The tea
 
 3. **Transferring of knowledge to a Resilience Academy**
 
-   Ramani Huria did not just collect and store data, but also devised a method to collect data,  created guidelines. We are transferring all the datasets, maps, tools, learning materials and documentation of the project  to the [Resilience Academy,](https://resilienceacademy.ac.tz) who will be carrying the project forward. 
+   Ramani Huria did not just collect and store data, but also devised a method to collect data,  created guidelines. We are transferring all the datasets, maps, tools, learning materials and documentation of the project  to the [Resilience Academy,](https://resilienceacademy.ac.tz) who will be carrying the project forward.
 
 4. **Enhanced private sector use of data**
 
@@ -122,4 +122,4 @@ What legacy has Ramani Huria left and what can it teach future projects? The tea
 
    Non-government organizations like [OpenMap Development Tanzania (OMDTZ)](omdtz.or.tz/) have developed technical capabilities and managerial skills to run projects beyond the initial scope of the project. HOT is excited that OMDTZ will continue to grow the local mapping community in Tanzania as the torch-bearers of open mapping in East Africa!
 
-Ramani Huria the project might be ending, but the legacy will continue over the coming years with the Resilience Academy, OpenMap Development Tanzania, and the many communities who have been involved in the project - but open mapping in Tanzania is just beginning.
+Ramani Huria the project might be ending, but the legacy will continue over the coming years with the Resilience Academy, OpenMap Development Tanzania, and the many communities who have been involved in the project. But open mapping in Tanzania is just beginning.
