@@ -26,7 +26,8 @@ Project:
 ---
 
 Since the project kicked-off in 2015, Ramani Huria, funded by the World Bank and implemented by Humanitarian OpenStreetMap Team (HOT), has managed to map three-quarters of one of Africa’s megacities, Dar es Salaam. As a city that is particularly vulnerable to floods, the team focused their mapping on flood-prone areas, especially in informal settlements where vulnerable populations live.
-![image4-99318d.png](/uploads/image4-99318d.png)
+
+![image4-compressor.png](/uploads/image4-compressor.png)
 
 Informal Settlement in Dar es Salaam. Source: Drone Image by Frederick Mbuya, UhuruLabs.
 
@@ -34,7 +35,7 @@ Dar es Salaam is vulnerable to floods, rising sea-levels, coastal erosion, water
 
 Although the city is rapidly urbanizing and becoming a regional commercial hub, flooding causes huge problems for residents and impacts the economy. Participatory mapping is both an innovative and ideal way to get a city-wide picture of road and building conditions and other infrastructure. By empowering students and local communities to do the mapping, Ramani Huria was able to collect data at a much larger scale and at a much cheaper price than would have been possible with traditional surveyors.
 
-![image3-1db5b7.jpg](/uploads/image3-1db5b7.jpg)
+![image3-compressor.jpg](/uploads/image3-compressor.jpg)
 
 A mapper collecting trash points along the river. Photo by Chris Morgan
 
@@ -80,7 +81,7 @@ These  added layers of  map data help communities and government agencies better
 In the past, in order to digitize buildings, roads, and other infrastructure, it was necessary to use satellite imagery from corporate vendors. This imagery is very useful, but can often be low resolution, or subject to cloud cover. More significantly, it is not always within the power of local people to update when they need it.
 Today, Ramani Huria is working on a new solution -using low-cost survey drones that cost a few thousand dollars and can even be deployed when it’s cloudy. These drones make it so much easier to map different features, monitor particular infrastructure or river basins and even respond more quickly to flood events.
 
-![image1-eaf443.jpg](/uploads/image1-eaf443.jpg)
+![image1-compressor.jpg](/uploads/image1-compressor.jpg)
 
 Flying a locally made bamboo drone at Lake Victoria challenge. Photo by Sala Lewis
 
@@ -94,11 +95,11 @@ Looking to the future, rainfall patterns are uncertain, variability is likely to
 
 ## The Legacy of Ramani Huria
 
-1. **Students and community members gained knowledge of a suite of open mapping tools, deepening their technical skills and awareness of data**     
+1. **Students and community members gained knowledge of a suite of open mapping tools, deepening their technical skills and awareness of data**
 
    More than 1,000 students and 300 community members have been involved in the project. The knowledge gained will increase the use of datasets produced and contribute to a resilient city with strong, young and enthusiastic communities that believes in data-driven policies and decisions.
 
-2. **It provides a template for other countries  **   
+2. \*\*It provides a template for other countries  \*\*
 
    Other countries like Zambia, Mozambique, Sierra Leone are now looking back at the project and see the potential of replicating it. The project has gone far beyond and is called ‘The largest community mapping initiative in Africa’. Furthermore, all of the data and projects have been thoroughly documented and are openly available for others.
 
