@@ -92,8 +92,6 @@ When mapping Dar es Salaam we didn’t want it to simply inform one particular d
 
 Looking to the future, rainfall patterns are uncertain, variability is likely to increase and intensification of heavy rainfall is expected. Thus, flooding is likely to become an increasingly severe issue, particularly taken together with socioeconomic projections. That is why this is just one part of a broader resilience framework - and why it is so important for authorities to continue utilizing data to strengthen the city.
 
-## 
-
 ## The Legacy of Ramani Huria
 
 1. **Students and community members gained knowledge of a suite of open mapping tools, deepening their technical skills and awareness of data**     
