@@ -77,7 +77,7 @@ These  added layers of  map data help communities and government agencies better
 
 ![41402115084_bd78889bc0_c-compressor.jpg](/uploads/41402115084_bd78889bc0_c-compressor.jpg)
 
-*Trained community mapper interviewing fellow community member during historical flood extent mapping in 2017. Photo: Ramani Huria*
+*Trained community mapper interviewing fellow community member during historical flood extent mapping in 2017. Photo by Ramani Huria*
 
 > “Ramani Huria should stand as an example to other projects. The way community members were involved in the whole process of data collection adds value to data collected. Information collected stands as evidence of development priorities, including effective waste management and proper planning of settlements.”
 > **Osiligi Olasai, Ward Executive Officer, Kigogo Ward**
