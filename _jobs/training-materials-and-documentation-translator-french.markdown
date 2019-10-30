@@ -3,7 +3,6 @@ title: Training Materials & Documentation Translator (French)
 date: 2019-10-15 18:49:00 Z
 Deadline Date: 2019-10-27 00:00:00 Z
 Place of Work: Remote
-Apply Form Link: https://forms.gle/y2pYEGEntogDwcai8
 ---
 
 **Contract duration:** Fixed-term 3 week contract
