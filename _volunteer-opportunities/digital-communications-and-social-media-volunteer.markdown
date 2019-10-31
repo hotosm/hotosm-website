@@ -1,7 +1,7 @@
 ---
 title: Digital Communications and Social Media Volunteer
 date: 2019-10-24 18:43:00 Z
-Deadline Date: 2019-11-20 00:00:00 Z
+Deadline Date: 2019-11-14 21:06:00 Z
 Place of Work: Remote
 Apply Form Link: http://bit.ly/HOTvolunteer1
 layout: page
