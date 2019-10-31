@@ -11,7 +11,7 @@ layout: page
 
 **Location: Remote**
 
-**Closes: {{page['Deadline Date']}}**
+**Closes: {{page['Deadline Date'] | date_to_string }}**
 
 **Projected start date: November 2019**
 
@@ -50,4 +50,4 @@ Administration, Nonprofit Management, English, Journalism, Marketing, or Communi
 * Professional experience maintaining social media platforms and executing social media strategies.
 
 ## How to Apply 
-* Please complete the [online application](http://bit.ly/HOTvolunteer1) by {{page['Deadline Date']}}. 
+* Please complete the [online application](http://bit.ly/HOTvolunteer1) by {{page['Deadline Date'] | date_to_string }}. 
