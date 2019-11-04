@@ -2,7 +2,7 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: true
+  Is Activated: false
   Small Block: 'Apply now! '
   Main Block: "#MICROGRANTS2020"
   Secondary Block: Funding for OpenStreetMap communities
