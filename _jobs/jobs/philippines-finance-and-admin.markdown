@@ -1,8 +1,8 @@
 ---
-title: Finance & Admin Coordinator- Philippines
+title: Finance & Admin Coordinator - Philippines
 date: 2019-08-12 18:43:00 Z
-Deadline Date: 2019-08-26 00:00:00 Z
-Place of Work: Philippines
+Deadline Date: 2019-11-26 00:00:00 Z
+Place of Work: Manila, Philippines
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfgYOEOmOqFD-bXoccyrGG1ftgED-0WFrP0OS2lfRuMDZJ8GQ/viewform
 ---
 
@@ -10,9 +10,9 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfgYOEOmOqFD-bXoccyrGG
 
 **Location/Duty Station: Philippines**
 
-**Closes: Monday August 26th 2019**
+**Closes: Tuesday November 26 2019**
 
-**Projected start date: September 2019**
+**Projected start date: December 2019**
 
 **Reports to: Country Manager - Philippines**
 
