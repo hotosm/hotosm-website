@@ -17,6 +17,7 @@ Person:
 - Sara Amadi
 Duration:
   Start Date: 2019-07-01 00:00:00 Z
+  End Date: 2019-09-20 00:00:00 Z
 ---
 
 In August 2018, the Ministry of Health of the Democratic Republic of the Congo (DRC) declared a new outbreak of the Ebola Virus Disease (EVD) in the North Kivu Province. One year later, according to a situation report published by the World Health Organization on August 8, 2019, the outbreak continues to spread in North Kivu and Ituri provinces of DRC, as does the complexity around coordination on the ground. Community mistrust, coupled with intensifying unrest, has further derailed the progress made by the Ministry of Health and its partners in the DRC to contain the virus and protect the health and well-being of local communities.
