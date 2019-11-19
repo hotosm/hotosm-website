@@ -5,7 +5,6 @@ Photo: "/uploads/Screen%20Shot%202018-09-15%20at%2012.31.42.png"
 Member Type:
   Is Staff: false
   Is Voting Member: true
-Job Title: Director, Technology Innovation
 Working Group:
 - Fundraising
 - Activation
@@ -26,4 +25,4 @@ redirect_from:
 - "/users/nate_smith"
 ---
 
-Nate is the Director of Technology at HOT. He helps lead the Tech Working Group and supports all technology-related projects. Previously as a technical project manager at HOT, he worked on satellite imagery and health related projects. He's actively involved in the Technical, Imagery Coordination, Activation, and Fundraising Working Groups.
+Nate is a product manager and data analyst building software to solve societal challenges. Nate has been a long time member of HOT and served as the Director of Technology for HOT from 2017-2019. He now leads Map Operations at Gojek. He participates in the Tech Working Group. Previously as a technical project manager at HOT, he worked on satellite imagery and health related projects. He is involved in the Technical, Imagery Coordination, Activation Working Groups.
