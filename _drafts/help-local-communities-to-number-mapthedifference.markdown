@@ -27,10 +27,12 @@ In the past three years, HOT's fundraising campaign has supported 24 communities
 This year we are providing a platform for six grassroots mapping communities to speak to you directly in seeking funding for their projects. Find out below about the incredible work these communities are doing. Can't choose which community to support? You can also donate to HOT's general fund which goes towards supporting all communities mapping to improve lives.
 
 ![gal 4 (2).jpg](/uploads/gal%204%20(2).jpg)
-**GAL Peru** will train students to create map data on gender issues and other social issues affecting their community. 
+
+**GAL Peru** will train students to create map data on gender issues and other social issues affecting their community.
 [Donate now >>](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=73e86ec192&e=c5bab6c553)
 
 ![60000857_437307660367154_2533659245803470848_n.jpg](/uploads/60000857_437307660367154_2533659245803470848_n.jpg)
+
 **Mental Health aWHEREness** aims to reduce the stigma around ill mental health and increase access to mental health services.
 [Donate now >>](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=99a182573f&e=c5bab6c553)
 
@@ -47,6 +49,5 @@ This year we are providing a platform for six grassroots mapping communities to 
 [Donate now >>](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=88a02282e7&e=c5bab6c553)
 
 ![IMG-20191107-WA0002.jpg](/uploads/IMG-20191107-WA0002.jpg)
-**OSM Iraq** will create maps that support humanitarian response amidst ongoing conflict and natural disasters in Iraq. 
+**OSM Iraq** will create maps that support humanitarian response amidst ongoing conflict and natural disasters in Iraq.
 [Donate now >>](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=9be392f4c9&e=c5bab6c553)
-
