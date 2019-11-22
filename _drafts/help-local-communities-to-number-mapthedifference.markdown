@@ -30,9 +30,11 @@ This year we are providing a platform for six grassroots mapping communities to 
 **OSM South Sudan** is building the first OpenStreetMap community in South Sudan to map communities affected by flooding.
 [Donate now >>](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=f2e4072c1b&e=c5bab6c553)
 
+![22788893_385032798595591_7947227522823474237_n.jpg](/uploads/22788893_385032798595591_7947227522823474237_n.jpg)
 **OSM Sierra Leone** is driving sustainable development in Sierra Leone through mapping.
 [Donate now >>](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=88a02282e7&e=c5bab6c553)
 
+![IMG-20191107-WA0002.jpg](/uploads/IMG-20191107-WA0002.jpg)
 **OSM Iraq** will create maps that support humanitarian response amidst ongoing conflict and natural disasters in Iraq. 
 [Donate now >>](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=9be392f4c9&e=c5bab6c553)
 
