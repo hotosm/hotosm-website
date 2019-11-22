@@ -2,13 +2,13 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: false
-  Small Block: 'Apply now! '
-  Main Block: "#MICROGRANTS2020"
+  Is Activated: true
+  Small Block: 'Donate now and help local communities to #MaptheDifference'
+  Main Block: "#MaptheDifference"
   Secondary Block: Funding for OpenStreetMap communities
   Optional Text: 
   Link Copy: Find out more...
-  URL: https://www.hotosm.org/updates/HOT-launches-Microgrants-2020/
+  URL: hotosm-website.siteleaf.net/updates/help-local-communities-to-number-mapthedifference/
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
