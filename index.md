@@ -8,7 +8,7 @@ Banner:
   Secondary Block: Funding for OpenStreetMap communities
   Optional Text: 
   Link Copy: Find out more...
-  URL: hotosm-website.siteleaf.net/updates/help-local-communities-to-number-mapthedifference/
+  URL: https://hotosm.org/updates/help-local-communities-to-number-mapthedifference/
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
