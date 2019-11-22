@@ -1,6 +1,17 @@
 ---
 title: 'Help local communities to #MaptheDifference'
 date: 2019-11-22 17:09:00 Z
+tags:
+- microgrants
+- "#MaptheDifference"
+- Map the Difference
+- Community
+- Fundriasing
+Person: Alex Glynn
+Working Group:
+- Fundraising
+Project:
+- 'Community development: Microgrants and Device Grants'
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1xZv53B1-GU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -9,6 +20,7 @@ HOT’s annual fundraising campaign supports communities with Microgrants to put
 
 In the past three years, HOT's fundraising campaign has supported 24 communities across 22 countries with over US$100,000. By donating, you will provide these communities with the technology, training and equipment they need to make sure no one is left behind.
 
+![BlogArtboard 10 copy 4.png](/uploads/BlogArtboard%2010%20copy%204.png)
 
 ### Meet the 2020 Microgrant Communities!
 
