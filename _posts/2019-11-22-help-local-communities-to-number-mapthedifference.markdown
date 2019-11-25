@@ -25,7 +25,7 @@ In the past three years, HOT's fundraising campaign has supported 24 communities
 
 ### Meet the 2020 Microgrant Communities!
 
-This year we are providing a platform for six grassroots mapping communities to speak to you directly in seeking funding for their projects. Find out below about the incredible work these communities are doing. Can't choose which community to support? You can also donate to HOT's general fund which goes towards supporting all communities mapping to improve lives.
+This year we are providing a platform for six grassroots mapping communities to speak to you directly in seeking funding for their projects. Find out below about the incredible work these communities are doing. Can't choose which community to support? You can also [donate to HOT's general fund](https://pages.donately.com/hotosm/campaign/hot-helps-communities-mapthedifference) which goes towards supporting all communities mapping to improve lives.
 
 ![gal 4 (2).jpg](/uploads/gal%204%20(2).jpg)
 
