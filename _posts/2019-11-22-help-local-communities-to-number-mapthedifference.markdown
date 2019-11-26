@@ -25,28 +25,28 @@ In the past three years, HOT's fundraising campaign has supported 24 communities
 
 This year we are providing a platform for six grassroots mapping communities to speak to you directly in seeking funding for their projects. Find out below about the incredible work these communities are doing. Can't choose which community to support? You can also [donate to HOT's general fund](https://pages.donately.com/hotosm/campaign/hot-helps-communities-mapthedifference) which goes towards supporting all communities mapping to improve lives.
 
-![gal 4 (2).jpg](/uploads/gal%204%20(2).jpg)
+![gal 4 (2).jpg](/uploads/gal%204%20(2).jpg)<br />
 
 **GAL Peru** will train students to create map data on gender issues and other social issues affecting their community.
 [Donate now >>](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=73e86ec192&e=c5bab6c553)
 
-![60000857_437307660367154_2533659245803470848_n.jpg](/uploads/60000857_437307660367154_2533659245803470848_n.jpg)
+![60000857_437307660367154_2533659245803470848_n.jpg](/uploads/60000857_437307660367154_2533659245803470848_n.jpg)<br />
 
 **Mental Health aWHEREness** aims to reduce the stigma around ill mental health and increase access to mental health services.
 [Donate now >>](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=99a182573f&e=c5bab6c553)
 
-![Bolivia-SIV_04.jpg](/uploads/Bolivia-SIV_04.jpg)
+![Bolivia-SIV_04.jpg](/uploads/Bolivia-SIV_04.jpg)<br />
 **Practical Action** will support early recovery for communities affected by the Amazon wildfires in Bolivia via mapping.
 [Donate now >>](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=57635d7a03&e=c5bab6c553)
 
-![Flooding in Nadapal, Kapoeta State, Eastern Equatorial.jpg](/uploads/Flooding%20in%20Nadapal,%20Kapoeta%20State,%20Eastern%20Equatorial.jpg)
+![Flooding in Nadapal, Kapoeta State, Eastern Equatorial.jpg](/uploads/Flooding%20in%20Nadapal,%20Kapoeta%20State,%20Eastern%20Equatorial.jpg)<br />
 **OSM South Sudan** is building the first OpenStreetMap community in South Sudan to map communities affected by flooding.
 [Donate now >>](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=f2e4072c1b&e=c5bab6c553)
 
-![22788893_385032798595591_7947227522823474237_n.jpg](/uploads/22788893_385032798595591_7947227522823474237_n.jpg)
+![22788893_385032798595591_7947227522823474237_n.jpg](/uploads/22788893_385032798595591_7947227522823474237_n.jpg)<br />
 **OSM Sierra Leone** is driving sustainable development in Sierra Leone through mapping.
 [Donate now >>](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=88a02282e7&e=c5bab6c553)
 
-![IMG-20191107-WA0002.jpg](/uploads/IMG-20191107-WA0002.jpg)
+![IMG-20191107-WA0002.jpg](/uploads/IMG-20191107-WA0002.jpg)<br />
 **OSM Iraq** will create maps that support humanitarian response amidst ongoing conflict and natural disasters in Iraq.
 [Donate now >>](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=9be392f4c9&e=c5bab6c553)
