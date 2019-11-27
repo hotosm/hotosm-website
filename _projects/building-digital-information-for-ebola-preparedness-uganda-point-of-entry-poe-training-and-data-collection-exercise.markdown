@@ -16,8 +16,8 @@ Person:
 - Paul Uithol
 - Sara Amadi
 Duration:
-  Start Date: 0001-07-01 00:00:00 Z
-  End Date: 2020-09-01 00:00:00 Z
+  Start Date: 2019-07-01 00:00:00 Z
+  End Date: 2019-09-01 00:00:00 Z
 Field name: 
 ---
 
