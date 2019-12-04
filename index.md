@@ -3,12 +3,12 @@ title: Home
 position: 0
 Banner:
   Is Activated: true
-  Small Block: 'Donate now and help local communities to #MaptheDifference'
+  Small Block: 'Donate by Dec. 31 and help local communities to #MaptheDifference'
   Main Block: "#MaptheDifference"
   Secondary Block: Funding for OpenStreetMap communities
   Optional Text: 
   Link Copy: Find out more...
-  URL: https://hotosm.org/updates/help-local-communities-to-number-mapthedifference/
+  URL: https://donate.hotosm.org
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
