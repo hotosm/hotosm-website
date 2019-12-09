@@ -3,9 +3,10 @@ title: Home
 position: 0
 Banner:
   Is Activated: true
-  Small Block: 'Donate by Dec. 31 and help local communities to #MaptheDifference'
+  Small Block: Donate by Dec. 31 and help local communities to improve lives with
+    maps!
   Main Block: "#MaptheDifference"
-  Secondary Block: Funding for OpenStreetMap communities
+  Secondary Block: 'Give directly to local mapping communities '
   Optional Text: 
   Link Copy: Find out more...
   URL: https://donate.hotosm.org
