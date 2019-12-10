@@ -50,15 +50,15 @@ The Philippines Finance & Admin Coordinator will report to the Philippines Count
 * Fluent in English and Tagalog.
 * An understanding of financial management and accounting in nonprofit organizations.
 * Knowledge of the Philippines Government’s legal, HR and administrative requirements for non-profit organizations.
-* Minimum 3 years experience, preferably more, in international NGO accounting, particularly looking for experience:
-** Managing large grants and contracts;
-** Working with remote/virtual teams;
-** Coordinating between field offices; and,
-** Experience with US federal government regulations, in particular USAID.
 * Familiarity with accounting software, preferably Quickbooks.
 * Experience developing and/or implementing finance policies & procedures.
 * Detail-oriented & able to employ critical thinking to solve problems.
 * Honest and reliable.
+* Minimum 3 years experience, preferably more, in international NGO accounting, particularly looking for experience:
+* Managing large grants and contracts;
+* Working with remote/virtual teams;
+* Coordinating between field offices; and,
+* Experience with US federal government regulations, in particular USAID.
 
 ### Additional desirable skills:
 * Fluent in Bisaya and/or other Filipino languages.
