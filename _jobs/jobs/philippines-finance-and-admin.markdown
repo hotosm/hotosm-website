@@ -10,7 +10,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfgYOEOmOqFD-bXoccyrGG
 
 **Location/Duty Station: Philippines**
 
-**Closes: Sunday December 15 2019 at 12 NOON**
+**Closes: Sunday December 15 2019 at NOON**
 
 **Projected start date: December 2019**
 
