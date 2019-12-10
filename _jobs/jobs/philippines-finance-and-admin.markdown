@@ -22,7 +22,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfgYOEOmOqFD-bXoccyrGG
 
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 180,000 people with ground operations in eight countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
 
-HOT is soliciting CVs of experienced finance & admin staff to support our operations in the Philippines starting as soon as possible (December 2019). This assignment is expected to last 12 months with the possibility of extension.
+HOT is soliciting CVs of experienced finance & admin staff to support our operations in the Philippines starting as soon as possible. This assignment is expected to last 12 months with the possibility of extension.
  
 ## Profile
 
