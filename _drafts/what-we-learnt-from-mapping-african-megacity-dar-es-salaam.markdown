@@ -18,7 +18,7 @@ Summary Text: Since the project kicked-off in 2015, Ramani Huria, funded by the 
   three-quarters of one of Africa’s megacities, Dar es Salaam. As a city that is particularly
   vulnerable to floods, the team focused their mapping on flood-prone areas, especially
   in informal settlements where vulnerable populations live.
-Feature Image: "/uploads/image4-99318d.png"
+Feature Image: "/uploads/Feature_image.JPG"
 Is image top aligned: true
 Person: Hawa Adinani
 Working Group:
