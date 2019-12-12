@@ -102,11 +102,11 @@ With flooding likely to become an increasingly severe issue due to climate chang
 
 What legacy has Ramani Huria left and what can it teach future projects? The team reflected on the main successes and lessons learned over the last four years:
 
-1. **Students and community members gained knowledge of a suite of open mapping tools, deepening their technical skills and awareness of data.**
+1. **Students and community members gained knowledge of a suite of open mapping tools, deepening their technical skills and awareness of data**
 
    More than 1,000 students and 300 community members have been involved in the project. The knowledge gained will increase the use of datasets produced and contribute to a resilient city with strong, young and enthusiastic communities that believe in data-driven policies and decisions.
 
-2. **It provides a template for other countries.**
+2. **It provides a template for other countries**
 
    Other countries like Zambia, Mozambique, Sierra Leone are now looking at potentially replicating Ramani Huria, dubbed "the largest community mapping initiative in Africa". Furthermore, all of the data and projects have been thoroughly documented and are openly available for others to use.
 
