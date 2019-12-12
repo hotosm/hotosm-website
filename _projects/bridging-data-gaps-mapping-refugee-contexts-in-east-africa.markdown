@@ -16,8 +16,6 @@ Partner:
 Duration:
   Start Date: 2018-04-01 00:00:00 Z
   End Date: 2019-05-31 00:00:00 Z
-Map Products:
-- https://drive.google.com/open?id=15mJsWaPrFgVpc7sNn9cstcG0Wj4hxE7-
 ---
 
 East Africa (and Uganda specifically) continues to be the center of one of the world’s largest and fastest growing refugee crises. Uganda’s progressive open-door policy alone has led to an influx of approximately 1.4 million refugees into the country. High mobility of refugees means distribution and size of refugee settlements changes constantly and the need for standardized accessible information to make timely informed decisions about where services need to be planned and built becomes more crucial than ever.
