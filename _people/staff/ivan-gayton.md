@@ -5,7 +5,6 @@ Photo: "/uploads/IMG_1616.JPG"
 Member Type:
   Is Staff: true
 Job Title: Senior Technical Advisor
-Country: Tanzania
 redirect_from:
 - "/users/ivan_gayton"
 ---
