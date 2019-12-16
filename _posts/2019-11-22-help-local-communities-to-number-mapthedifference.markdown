@@ -37,7 +37,7 @@ This year we are providing a platform for six grassroots mapping communities to 
 
 ![Bolivia-SIV_04.jpg](/uploads/Bolivia-SIV_04.jpg)<br />
 **Practical Action** will support early recovery for communities affected by the Amazon wildfires in Bolivia via mapping.
-[Donate now >>](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=57635d7a03&e=c5bab6c553)
+[Donate now >>](https://pages.donately.com/hotosm/campaign/amazon-wildfires-mapping-for-early-recovery-and-prevention-in-bolivia)
 
 ![Flooding in Nadapal, Kapoeta State, Eastern Equatorial.jpg](/uploads/Flooding%20in%20Nadapal,%20Kapoeta%20State,%20Eastern%20Equatorial.jpg)<br />
 **OSM South Sudan** is building the first OpenStreetMap community in South Sudan to map communities affected by flooding.
