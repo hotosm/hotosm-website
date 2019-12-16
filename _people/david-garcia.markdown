@@ -6,6 +6,7 @@ Member Type:
 Working Group:
 - Activation
 Country: New Zealand
+Photo: /uploads/mapmakerdavid.jpg
 Social Media (Full URL):
   OSM: http://www.hdyc.neis-one.org/?mapmakerdavid
   Twitter: https://twitter.com/mapmakerdavid
