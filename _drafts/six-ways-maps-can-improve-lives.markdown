@@ -1,6 +1,19 @@
 ---
 title: Six ways maps can improve lives
 date: 2019-12-16 13:53:00 Z
+tags:
+- microgrants
+- "#Microgrant2020"
+- Donate
+- fundraising
+- Community
+- Local
+- Peru
+- bolivia
+- Sierra Leone
+- South Sudan
+- Philippines
+- Iraq
 Feature Image: "/uploads/TALLER%20ACCHA-1%20small-3dd472.jpg"
 Person: Alex Glynn
 Working Group:
