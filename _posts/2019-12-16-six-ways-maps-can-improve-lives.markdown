@@ -43,7 +43,7 @@ This year, the Bolivian Amazon was hit by forest fires, causing the highest rate
 
 [Practical Action Bolivia](https://www.facebook.com/PracticalAction/?__tn__=K-R&eid=ARDyFJHVcuE-hGrDKhH_54BPqo6Iq2DwmUyhQEWSbBeAomDIzRdv3Db-uTfNRVvFjvDl5jZPGTO5fqCP&fref=mentions&__xts__%5B0%5D=68.ARCXlYe7jahSbwHlU14UwKMRr0USlH6xtO6WmFzxDknjAXRUD05bGuqU5ihraq-IkYhIx9aLrDM0qUB5fdwnjJBJ5JPEAwREXVlPzc2avRNYoNRIK9I8QE79ZqZxIDuOTsTgckzR_Y0jEtTpqeQAqQnDRT2kkJ-igNoGPtp8-2SsLFz2ju2hQq5y1XBN6xJFalMtaCfNjFgSI2XnnfBhDg3slVoZ5_cMrvU11yo2nmjifOW6o9bOWiVSmNyc7qHOwahAGyOOJj1YMxYaECsKCe2gfBgyXVTmVsLyYsXyTJF9_ldls8rLYKMHBSrcU31AU2aT5VOx9tu5Q32jJex2tiNgFw) want to change this. They're raising money to train local communities to put themselves on the map and make sure they get the assistance they need to recover from the wildfires and to prepare for future crises.
 
-> [>> Give today and help build local resilience!](https://pages.donately.com/hotosm/campaign/amazon-wildfires-mapping-for-early-recovery-and-prevention-in-bolivia)
+> **[Give today and help build local resilience!](https://pages.donately.com/hotosm/campaign/amazon-wildfires-mapping-for-early-recovery-and-prevention-in-bolivia)**
 
 ## 2. Raising mental health awareness in the Philippines
 
@@ -53,7 +53,7 @@ Imagine you are dealing with severe mental health issues, but have no one to tal
 
 This is a problem that millions of people face in the Philippines, a country where stigma around ill mental health prevents people from finding information and seeking the help they need. [Mental Health AWHEREness](https://www.facebook.com/mentalhealthaWHEREness/?__tn__=%2Cd%2CP-R&eid=ARDLJtueYw89wABQ3HnZDnVfET2fFq1UOFo0KOP3luNxnQwMgUXmEyKRwIiJv3VSWtTJf9DlEHJTzXFS)​ is hoping to change that by adding mental health services in the Philippines to the map and use the data as evidence for policy-makers to increase access for all.
 
-> [>> Donate now to help Mental Health AWHEREness](https://pages.donately.com/hotosm/campaign/raising-mental-health-awhereness-with-maps) to develop a map that can really help change not only access to mental health services but also the stigma that surrounds it.
+> **[Donate now to help Mental Health AWHEREness](https://pages.donately.com/hotosm/campaign/raising-mental-health-awhereness-with-maps) to develop a map that can really help change not only access to mental health services but also the stigma that surrounds it.**
 
 ## 3. Providing humanitarians with the life-saving information in Iraq
 
@@ -63,7 +63,7 @@ Since the war started in Iraq in 2014, millions of people have been displaced, f
 
 OpenStreetMap Iraq want to create the first OpenStreetMap community in Iraq so they can start populating unmapped areas with evidence-based data so organizations, such as the UN, have the information they need to carry out life-saving operations.
 
-> [>> Donate and help them create the first open-source base map of Iraq.](https://pages.donately.com/hotosm/campaign/mapping-to-improve-lives-in-iraq)
+> **[Donate and help them create the first open-source base map of Iraq.](https://pages.donately.com/hotosm/campaign/mapping-to-improve-lives-in-iraq)**
 
 ## 4. Driving sustainable development in Sierra Leone
 
@@ -73,7 +73,7 @@ When Tommy Charles first visited a slum on the outskirts of Freetown, Sierra Leo
 
 Tommy, who is a member of OpenStreetMap Sierra Leone, knew that if he didn’t know what life was like in the slum, then others wouldn’t either. When people are not represented on a map, the community and the services it lacks, can be invisible. It can lead government agencies and aid organizations working on the ground to adopt a 'one size fits all' approach that doesn't address the challenges that are unique to each slum. “By mapping these places, we can show people the reality of people on the ground - we can do a lot to improve livelihoods, reduce hazards, and reduce the vulnerability of high-risk communities.”
 
-> [>> Donate to help OpenStreetMap Sierra Leone train more people to map their own communities and demand better basic services.](https://pages.donately.com/hotosm/campaign/driving-sustainable-development-in-sierra-leone-through-mapping)
+> **[Donate to help OpenStreetMap Sierra Leone train more people to map their own communities and demand better basic services.](https://pages.donately.com/hotosm/campaign/driving-sustainable-development-in-sierra-leone-through-mapping)**
 
 ## 5. Making sure people are counted in South Sudan
 
@@ -83,7 +83,7 @@ Every year, floods devastate South Sudan. This July, almost one million people n
 
 That’s where OpenStreetMap South Sudan comes in. They want to create an open-source base map of South Sudan by building the first mapping community in the country. “We want to start by mapping the areas affected by flooding in three regions of the country,” says Dima Emmanuel. “This information is critical for the humanitarian response.”
 
-> [>> Donate now to help provide relief to people affected by floods in South Sudan.](https://pages.donately.com/hotosm/campaign/putting-south-sudan-on-the-map)
+> **[Donate now to help provide relief to people affected by floods in South Sudan.](https://pages.donately.com/hotosm/campaign/putting-south-sudan-on-the-map)**
 
 ## 6. Improving gender equality and education in Peru
 
@@ -93,4 +93,4 @@ Access to technology is starkly unequal in Peru and gender inequality is pervasi
 
 Last year, students surveyed women across the region about how ‘machismo’ affected their lives, for example, if they had suffered violence. They mapped where the women lived, their viewpoints, and how far they are to shelters, police stations and other safe spaces they could ask for help.
 
-> [>> Donate now and help GAL School advance education and gender equality in Peru!](https://pages.donately.com/hotosm/campaign/advancing-education-with-mapping-in-peru)
+> **[Donate now and help GAL School advance education and gender equality in Peru!](https://pages.donately.com/hotosm/campaign/advancing-education-with-mapping-in-peru)**
