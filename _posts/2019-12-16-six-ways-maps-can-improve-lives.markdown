@@ -67,7 +67,7 @@ OpenStreetMap Iraq want to create the first OpenStreetMap community in Iraq so t
 
 ## 4. Driving sustainable development in Sierra Leone
 
-![Screenshot 2019-11-14 at 22.56.53 small.png](/uploads/Screenshot%202019-11-14%20at%2022.56.53%20small.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zf68zEf_ZKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 When Tommy Charles first visited a slum on the outskirts of Freetown, Sierra Leone, he was shocked by the lack of basic services. “I went to visit the slum communities along the seaside that had been experiencing annual flooding and fire outbreaks,” says Tommy. “But when I got there, I saw they had no running water or health facilities. They had poor drainage and garbage disposal methods.”
 
