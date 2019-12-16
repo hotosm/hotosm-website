@@ -6,12 +6,11 @@ Member Type:
 Working Group:
 - Activation
 Country: New Zealand
-Photo: /uploads/mapmakerdavid.jpg
+Photo: "/uploads/mapmakerdavid.jpg"
 Social Media (Full URL):
   OSM: http://www.hdyc.neis-one.org/?mapmakerdavid
   Twitter: https://twitter.com/mapmakerdavid
   LinkedIn: https://www.linkedin.com/in/mapmakerdavid/
-  
 ---
 
 In the Philippines, I was working as a geographer and urban planner in cities and communities that were hit by disaster or war. At present, I am based in Aotearoa New Zealand. At this stage of my life, I am becoming a scholar of Geographic Information Science. My PhD project is an ethnography of crowdsourcing and mapping by working on OpenStreetMap in the Pacific region.
