@@ -94,3 +94,5 @@ Access to technology is starkly unequal in Peru and gender inequality is pervasi
 Last year, students surveyed women across the region about how ‘machismo’ affected their lives, for example, if they had suffered violence. They mapped where the women lived, their viewpoints, and how far they are to shelters, police stations and other safe spaces they could ask for help.
 
 > **[Donate now and help GAL School advance education and gender equality in Peru!](https://pages.donately.com/hotosm/campaign/advancing-education-with-mapping-in-peru)**
+
+Can’t choose which community to support? You can also donate to > [HOT’s general fund](https://pages.donately.com/hotosm/campaign/hot-helps-communities-mapthedifference) which goes towards supporting all communities mapping to improve lives.
