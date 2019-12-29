@@ -1,9 +1,11 @@
 ---
-title: 'Burundi: maybe a small country, but great opportunities for open data with
-  Eurosha'
+title:
+  "Burundi: maybe a small country, but great opportunities for open data with
+  Eurosha"
 date: 2013-02-21 21:59:32 Z
 permalink: updates/2013-02-21_burundi_maybe_a_small_country_but_great_opportunities_for_open_data_with_eurosha
-Summary Text: 'One Eurosha country we did not talk about so far here (sorry for this)
+Summary Text:
+  "One Eurosha country we did not talk about so far here (sorry for this)
   is Burundi, this small but crowded country between DRC, Rwanda and Tanzania. There,
   Adelina, Alexandra, Anna, Désiré, Gloria, Iolanda and Marion are hosted in Bujumbura,
   the Capital city, and are lucky to live and work in a big, quite comfortable house
@@ -11,12 +13,12 @@ Summary Text: 'One Eurosha country we did not talk about so far here (sorry for 
   so cosy, and more pasta for dinner than game birds...), without actually being hosted
   by lazy chatelaines, but fierce defenders of the open source and open data causes.[inline:DSC_0231
   800x600.jpg]In the country, there was no local mappers, but already some areas traced
-  remotely by foreigners, essentially over Bujumbura, sometimes from old Yahoo imagery.  '
+  remotely by foreigners, essentially over Bujumbura, sometimes from old Yahoo imagery.  "
 Person: Séverin Ménard
 Working Group: []
 Project:
-- EUROSHA
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC_0231+800x600.jpg
+  - EUROSHA
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC_0231+800x600_0.jpg
 created: 1361483972
 ---
 
