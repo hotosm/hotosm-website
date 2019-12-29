@@ -5,7 +5,7 @@ permalink: updates/2013-02-20_how_to_engage_with_non-spatial_partners_feedback_f
 Person: Stéphane Henriod
 Working Group: []
 Project:
-  - EUROSHA
+- EUROSHA
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/map_1_0.png
 created: 1361334898
 ---
