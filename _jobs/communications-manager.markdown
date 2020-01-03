@@ -1,5 +1,5 @@
 ---
-title: Communications Manager (Part-Time)
+title: Communications Manager
 date: 2018-06-08 19:27:00 Z
 position: 3
 Deadline Date: 2020-01-31 00:00:00 Z
