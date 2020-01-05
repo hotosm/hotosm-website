@@ -12,7 +12,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdCpExCFH4y2qNL8chcVvF
 **Closes:** January 31 2020; Applications will be reviewed on a rolling basis and early applicants will be prioritised.<br>
 **Projected start date:** February 24, 2020 <br>
 **Reports to:** Director, Partnerships and Community<br>
-**Location: Remote working. Must work in or between US Eastern Standard Time and Central European Time time zones.
+**Location: Remote working. Must work in or between US Eastern Standard Time and Central European Time time zones.<br>
 **Travel:** 6-10 times per year to project locations, staff meetings, and conferences
 
 **About HOT**
