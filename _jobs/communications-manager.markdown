@@ -12,7 +12,8 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdCpExCFH4y2qNL8chcVvF
 **Closes:** January 31 2020; Applications will be reviewed on a rolling basis and early applicants will be prioritised.<br>
 **Projected start date:** February 24, 2020 <br>
 **Reports to:** Director, Partnerships and Community<br>
-**Travel:** Occasionally (2-3 times per year) to project locations
+**Location: Remote working. Must work in or between US Eastern Standard Time and Central European Time time zones.
+**Travel:** 6-10 times per year to project locations, staff meetings, and conferences
 
 **About HOT**
 Humanitarian OpenStreetMap Team (HOT) is a Washington, D.C.- based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 200,000 people with ground operations in six countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need, serving humanitarian partners such as UNHCR, American Red Cross, and MSF- Doctors Without Borders.
@@ -78,7 +79,7 @@ We’re looking for an individual well versed in ICT4D/digital development or us
 * Media contacts in the humanitarian and development space
 
 ### Compensation & Benefits: 
-* All HOT salaries globally are set according to a framework detailed on our website: https://www.hotosm.org/salaries
+* All HOT salaries globally are set according to a framework detailed on our website: https://www.hotosm.org/salaries. HOT offers a work-from-anywhere culture, flexible working arrangements, a variety of health care options, 401k retirement savings plans, and 24 days of annual leave for all full-time employees.
 * All staff working for HOT > 0.5 FTE are eligible for stipend or support for health insurance. 
 * Completely remote team enabling flexible work schedules. 
 * Generous leave for employees. 
