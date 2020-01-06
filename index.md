@@ -2,7 +2,7 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: true
+  Is Activated: false
   Small Block: Donate by Dec. 31 and help local communities to improve lives with
     maps!
   Main Block: "#MaptheDifference"
