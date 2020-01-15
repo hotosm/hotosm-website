@@ -5,7 +5,7 @@ Photo: "/uploads/pete%20headshot.PNG"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
-Job Title: Board President
+Job Title: President
 Working Group:
 - Communications
 Project:
