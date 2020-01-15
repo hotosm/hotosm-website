@@ -5,7 +5,7 @@ Photo: "/uploads/foto_MG.jpg"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
-Job Title: Board Vice President
+Job Title: Vice President
 Project:
 - HOT Summit 2016
 - Hurricane Matthew
