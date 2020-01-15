@@ -3,7 +3,7 @@ title: Jian He
 date: 2019-07-08 23:07:00 Z
 Photo: "/uploads/jianhe_profile.jpg"
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Designer
 Country: Singapore
 Social Media (Full URL):

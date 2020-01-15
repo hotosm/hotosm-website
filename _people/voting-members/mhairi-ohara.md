@@ -3,7 +3,7 @@ title: Mhairi O'Hara
 date: 2015-02-12 14:16:00 Z
 Photo: "/uploads/Screen%20Shot%202018-09-15%20at%2012.30.21.png"
 Member Type:
-  Is Staff: true
+  Is Staff: false
   Is Voting Member: true
 Job Title: Technical Project Manager
 Working Group:
