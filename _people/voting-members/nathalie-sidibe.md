@@ -16,4 +16,4 @@ redirect_from:
 - "/users/nathalie_sidibe"
 ---
 
-<p>Social Activist and Cofounder of OpenStreetMap Mali and OpenStreetMap Girls.</p>
+Natalie is a Co-founder of OpenStreetMap Mali and OpenStreetMap Girls and a social activist and advocate for open data and open geospatial data. She has successfully organized and implemented open mapping trainings and activities throughout Mali and participated in work and conferences throughout Africa. She is a Graduate in Land-Use and Planning and Languages. 
