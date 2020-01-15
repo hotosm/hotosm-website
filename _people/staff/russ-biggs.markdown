@@ -3,7 +3,7 @@ title: Russ Biggs
 date: 2019-07-01 15:58:00 Z
 Photo: "/uploads/russ_biggs.jpg"
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Technical Project Manager
 Country: United States
 Social Media (Full URL):
