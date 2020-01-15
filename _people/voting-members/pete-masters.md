@@ -1,7 +1,7 @@
 ---
 title: Pete Masters
 date: 2015-04-30 11:55:00 Z
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-258-1433935659.jpg
+Photo: "/uploads/pete%20headshot.PNG"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
