@@ -1,6 +1,7 @@
 ---
 title: Rob Baker
 date: 2011-03-17 04:53:00 Z
+Photo: "/uploads/Rob%20Baker%20headshot.jpg"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
