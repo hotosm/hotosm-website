@@ -32,7 +32,7 @@ Since then, HOT’s dedicated community has grown to nearly 200,000 volunteers, 
 
 While we haven’t yet achieved our vision, I’m optimistic that we’ll get there: OpenStreetMap’s promise in disaster is now proven, and the future potential to reduce human suffering and improve lives is only as limited as our imaginations.
 
-> **To mark the anniversary of the Haiti response, two members of our community share their memories:**
+**To mark the anniversary of the Haiti response, two members of our community share their memories:**
 
 ### Chad Blevins, USAID Senior Geographer and co-founder of YouthMappers
 
