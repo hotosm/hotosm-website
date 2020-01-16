@@ -1,7 +1,7 @@
 ---
 title: Tasauf A Baki Billah (Ribin)
 date: 2017-02-28 14:02:00 Z
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-369-1488295145.jpg
+Photo: "/uploads/Ribin%20headshot.PNG"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
