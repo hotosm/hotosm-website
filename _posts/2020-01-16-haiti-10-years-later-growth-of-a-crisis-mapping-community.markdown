@@ -1,5 +1,5 @@
 ---
-title: 'Haiti 10 Years Later: Growth of a Mapping Community'
+title: 'Haiti 10 Years Later: Growth of a Humanitarian Mapping Community'
 date: 2020-01-16 17:31:00 Z
 tags:
 - Haiti
