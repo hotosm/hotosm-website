@@ -1,5 +1,5 @@
 ---
-title: Six ways maps can improve lives
+title: Six Ways Maps can Improve Lives
 date: 2019-12-16 13:53:00 Z
 tags:
 - microgrants
