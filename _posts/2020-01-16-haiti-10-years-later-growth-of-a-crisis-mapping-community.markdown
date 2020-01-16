@@ -26,7 +26,7 @@ For the Haitian people, the sadness of the day and following weeks was incompreh
 
 *Search and rescue teams using OpenStreetMap Garmin downloads in the Haiti Earthquake response. Credit: Fairfax County Urban Search and Rescue Team*
 
-> For the Haitian people, the sadness of the day and following weeks was incomprehensible, but it also spawned an overwhelming desire to help using digital technology to unite rather than divide. 
+> ***"For the Haitian people, the sadness of the day and following weeks was incomprehensible, but it also spawned an overwhelming desire to help using digital technology to unite rather than divide."***
 
 As recalled by Kate Chapman, HOT’s Executive Director from 2010–15, “HOT was an idea prior to the Haitian earthquake, the difference being was others started to actually believe it after \[the earthquake\]”. John Whelan, HOT member, reflected on how the response birthed new mapping technology and awareness, “We have the Tasking Manager system that came out of the Haiti response, which isn’t just used for HOT projects, but elsewhere in OpenStreetMap. It also established a way of tagging things, e.g. highway=unclassified,” he said. “Even the less than perfect mapping has saved a few lives. Getting vaccines to the right place, in the right quantities, without any maps or population counts is a problem. With maps – even imperfect maps – it is less of a problem.”
 
@@ -42,11 +42,11 @@ In 2010 I was less than a year into my new role at USAID’s Office of Foreign D
 
 There was an immediate push to collect as much spatial data as possible. As post-event imagery became available, we began mapping the size and locations of displaced persons camps, as seen in the picture below. This was valuable information but an accurate roadmap was still missing.
 
-\*\*\*![](https://lh4.googleusercontent.com/4-1YxYZnUSNWfPRRajFNNtkyfg_5m6kmfo_MT-QNQfirhdeTSv80XtQNuXQ2T3PAMom1Uu0asOVqNBRwK3pi05zZMcta9UKq820Z3GIvWu5eTGogL8WcfLHobQvf7x0lE1Es7W5H)*Impromptu camp on 20 January 2010 (RIT, ImageCat Inc., World Bank)*
+![](https://lh4.googleusercontent.com/4-1YxYZnUSNWfPRRajFNNtkyfg_5m6kmfo_MT-QNQfirhdeTSv80XtQNuXQ2T3PAMom1Uu0asOVqNBRwK3pi05zZMcta9UKq820Z3GIvWu5eTGogL8WcfLHobQvf7x0lE1Es7W5H)*Impromptu camp on 20 January 2010 (RIT, ImageCat Inc., World Bank)*
 
 I had never heard of OpenStreetMap and was amazed when I discovered the community initiative taking place. The immediate value of that effort can never be monetarily quantified but the impact changed expectations from humanitarian responders forever.
 
-> The immediate value of that effort can never be monetarily quantified but the impact changed expectations from humanitarian responders forever.
+> ***"The immediate value of that effort can never be monetarily quantified but the impact changed expectations from humanitarian responders forever."***
 
 ## Ivan Gayton, Technical Project Manager, HOT
 
