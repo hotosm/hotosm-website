@@ -24,7 +24,7 @@ For the Haitian people, the sadness of the day and following weeks was incompreh
 
 **![](https://lh6.googleusercontent.com/Q_amLMGeE9-bSZwsGkZLeHh5hnFy1H7nPMMf0e9LqXGuccK0zT3qpBbFFe6DqM7MPOJrLdPU8nz-4JpBk6MKtMh4IafgRRx1gIU1eYNHbqZLIh9WGgCmIvQnlKNx4uxkEGmyjTGY)**
 
-***Search and rescue teams using OpenStreetMap Garmin downloads in the Haiti Earthquake response. Credit: Fairfax County Urban Search and Rescue Team***
+*Search and rescue teams using OpenStreetMap Garmin downloads in the Haiti Earthquake response. Credit: Fairfax County Urban Search and Rescue Team*
 
 > For the Haitian people, the sadness of the day and following weeks was incomprehensible, but it also spawned an overwhelming desire to help using digital technology to unite rather than divide. 
 
@@ -42,7 +42,7 @@ In 2010 I was less than a year into my new role at USAID’s Office of Foreign D
 
 There was an immediate push to collect as much spatial data as possible. As post-event imagery became available, we began mapping the size and locations of displaced persons camps, as seen in the picture below. This was valuable information but an accurate roadmap was still missing.
 
-\*\*\*![](https://lh4.googleusercontent.com/4-1YxYZnUSNWfPRRajFNNtkyfg_5m6kmfo_MT-QNQfirhdeTSv80XtQNuXQ2T3PAMom1Uu0asOVqNBRwK3pi05zZMcta9UKq820Z3GIvWu5eTGogL8WcfLHobQvf7x0lE1Es7W5H)\**Impromptu camp on 20 January 2010 (RIT, ImageCat Inc., World Bank)*
+\*\*\*![](https://lh4.googleusercontent.com/4-1YxYZnUSNWfPRRajFNNtkyfg_5m6kmfo_MT-QNQfirhdeTSv80XtQNuXQ2T3PAMom1Uu0asOVqNBRwK3pi05zZMcta9UKq820Z3GIvWu5eTGogL8WcfLHobQvf7x0lE1Es7W5H)*Impromptu camp on 20 January 2010 (RIT, ImageCat Inc., World Bank)*
 
 I had never heard of OpenStreetMap and was amazed when I discovered the community initiative taking place. The immediate value of that effort can never be monetarily quantified but the impact changed expectations from humanitarian responders forever.
 
