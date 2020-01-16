@@ -2,6 +2,17 @@
 title: 'Haiti 10 years later: Growth of a humanitarian mapping community'
 date: 2020-01-16 17:31:00 Z
 published: false
+tags:
+- Haiti
+- OpenStreetMap
+- Earthquake
+- humanitarian
+Feature Image: "/uploads/Haiti%20(1)-205990.png"
+Person: Tyler Radford
+Country:
+- Haiti
+Project:
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 ---
 
 Ten years ago this week, on 12 January 2010, Haiti experienced a devastating earthquake - one of the worst disasters in recent history. Within 48 hours of the earthquake, the [OpenStreetMap](https://www.openstreetmap.org/) community started using high-resolution, post-event satellite imagery to map the area impacted by the earthquake, and it would forever change crisis mapping.
@@ -30,7 +41,7 @@ In 2010 I was less than a year into my new role at USAID’s Office of Foreign D
 
 There was an immediate push to collect as much spatial data as possible. As post-event imagery became available, we began mapping the size and locations of displaced persons camps, as seen in the picture below. This was valuable information but an accurate roadmap was still missing.
 
-***![](https://lh4.googleusercontent.com/4-1YxYZnUSNWfPRRajFNNtkyfg_5m6kmfo_MT-QNQfirhdeTSv80XtQNuXQ2T3PAMom1Uu0asOVqNBRwK3pi05zZMcta9UKq820Z3GIvWu5eTGogL8WcfLHobQvf7x0lE1Es7W5H)**Impromptu camp on 20 January 2010 (RIT, ImageCat Inc., World Bank)*
+\*\*\*![](https://lh4.googleusercontent.com/4-1YxYZnUSNWfPRRajFNNtkyfg_5m6kmfo_MT-QNQfirhdeTSv80XtQNuXQ2T3PAMom1Uu0asOVqNBRwK3pi05zZMcta9UKq820Z3GIvWu5eTGogL8WcfLHobQvf7x0lE1Es7W5H)\**Impromptu camp on 20 January 2010 (RIT, ImageCat Inc., World Bank)*
 
 I had never heard of OpenStreetMap and was amazed when I discovered the community initiative taking place. The immediate value of that effort can never be monetarily quantified but the impact changed expectations from humanitarian responders forever.
 
@@ -46,4 +57,6 @@ We got lucky in Haiti for this to work so well. Remote mappers, many of whom wer
 
 As far as I know, Haiti in 2010 was the first demonstrably life-saving use of patient origin data in humanitarian medicine; it showed us the way, and that it can be done. I now consider it a basic humanitarian duty to ensure that this life-saving data and capacity is available everywhere so that public health practitioners (both local and external) can do their work effectively.
 
-![Haiti (1)-05fb2c.png](/uploads/Haiti%20(1)-05fb2c.png)
+![65fbfc5ecfc0a6046c2852dadf3c2834.jpg](/uploads/65fbfc5ecfc0a6046c2852dadf3c2834.jpg)
+
+***Outside the Haiti Field Hospital after the 18 January aftershock. **Photo credit: Olav A. Saltbones, Norwegian Red Cross*
