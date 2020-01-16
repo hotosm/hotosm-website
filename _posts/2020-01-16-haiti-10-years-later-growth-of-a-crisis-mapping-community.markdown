@@ -34,7 +34,7 @@ While we haven’t yet achieved our vision, I’m optimistic that we’ll get th
 
 **To mark the anniversary of the Haiti response, two members of our community share their memories:**
 
-### Chad Blevins, USAID Senior Geographer and co-founder of YouthMappers
+## Chad Blevins, USAID Senior Geographer and co-founder of YouthMappers
 
 In 2010 I was less than a year into my new role at USAID’s Office of Foreign Disaster Assistance (OFDA), the United States lead agency for international disaster response.  I had just arrived home when my boss called and said there was a major earthquake in Haiti, and to get back to the office. Part of my role was to provide search and rescue teams maps to assist with the response, but the problem was – no current maps of Port-au-Prince existed.
 
@@ -44,7 +44,7 @@ There was an immediate push to collect as much spatial data as possible. As post
 
 I had never heard of OpenStreetMap and was amazed when I discovered the community initiative taking place. The immediate value of that effort can never be monetarily quantified but the impact changed expectations from humanitarian responders forever.
 
-### Ivan Gayton, Technical Project Manager, HOT
+## Ivan Gayton, Technical Project Manager, HOT
 
 I was the Emergency Coordinator for Médecins Sans Frontières in Haiti in 2010, responding to the cholera outbreak that occurred in the aftermath of the earthquake. Our cholera treatment centers in the capital, Port-au-Prince, recorded where patients were coming from, but we weren't able to systematically map them. We didn't know if  – or where – there were hotspots of the disease. If a cluster of cases came from a single named neighborhood we might see it from a graph, but if it was in several adjacent neighborhoods there was no way to see it.
 
