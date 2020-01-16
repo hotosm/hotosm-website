@@ -10,7 +10,7 @@ Working Group:
 
 [MapCampaigner](https://campaigns.hotosm.org/) has some exciting new features coming soon! As we look to consistently improve our tools based on user input, we are kicking off a new phase of MapCampaigner development to address significant gaps in the utility of the tool. Last month we kicked off a user-centered design process to start to plan new features to expand MapCampaigner from a progress tracking and quality monitoring tool to an end-to-end mapping campaign management platform.
 
-Planning and conducting field data collection projects is not an easy task. It requires organizations to assess, prepare, and then monitor using a wide variety of tools across each step. MapCampaigner has been a tool that has helped out during one part of this process — monitoring the quality of data going to OSM. Users have been able to create project areas to run assessments on the “quality” of the data based on the tags you define. This has given mapping organizers the ability to see what work has been done and what needs to be fixed.
+Planning and conducting field data collection projects is not an easy task. It requires organizations to assess, prepare, and then monitor using a wide variety of tools across each step. [MapCampaigner](https://campaigns.hotosm.org/) has been a tool that has helped out during one part of this process — monitoring the quality of data going to OSM. Users have been able to create project areas to run assessments on the “quality” of the data based on the tags you define. This has given mapping organizers the ability to see what work has been done and what needs to be fixed.
 
 ## What are we planning this fall?
 
