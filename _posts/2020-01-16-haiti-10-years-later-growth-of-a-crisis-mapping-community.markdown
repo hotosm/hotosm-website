@@ -1,7 +1,6 @@
 ---
-title: 'Haiti 10 years later: Growth of a humanitarian mapping community'
+title: 'Haiti 10 years later: Growth of a crisis mapping community'
 date: 2020-01-16 17:31:00 Z
-published: false
 tags:
 - Haiti
 - OpenStreetMap
