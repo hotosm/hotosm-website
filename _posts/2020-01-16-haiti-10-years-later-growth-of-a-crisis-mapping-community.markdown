@@ -58,4 +58,4 @@ As far as I know, Haiti in 2010 was the first demonstrably life-saving use of pa
 
 ![65fbfc5ecfc0a6046c2852dadf3c2834.jpg](/uploads/65fbfc5ecfc0a6046c2852dadf3c2834.jpg)
 
-***Outside the Haiti Field Hospital after the 18 January aftershock. **Photo credit: Olav A. Saltbones, Norwegian Red Cross*
+*Outside the Haiti Field Hospital after the 18 January aftershock. Photo credit: Olav A. Saltbones, Norwegian Red Cross*
