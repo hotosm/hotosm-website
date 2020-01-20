@@ -14,7 +14,7 @@ Partner:
 layout: community-grants
 ---
 
-**2020 MicroGrant **
+**2020 MicroGrant**
 
 Since the community’s creation in 2016, OSM Sierra Leone has worked to create university mapping chapters, partner with the Red Cross and other organizations, to increase the quality of maps across the country. The community is seeking to expand its impact, training more individuals and increasing the diversity of their community, particularly with female mappers. 
 
