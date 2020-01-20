@@ -14,6 +14,8 @@ Partner:
 - GAL School Peru
 ---
 
+**2020 Microgrant**
+
 GAL School, based in Cusco, Peru, has been teaching high school and university students how to use digital mapping to collect information that is important to them, such as gender discrimination or waste disposal. By teaching mapping, the project aims to not only provide school kids with vital tech skills they wouldn’t be exposed to but also an opportunity for them to learn research skills, how to collect data and provide evidence to be used to improve local services.
 
 GAL is planning to work with a team of mappers to create geospatial data for the regional government that will help to improve health indicators in children under five. 
