@@ -11,7 +11,6 @@ Country:
 - South Sudan
 Partner:
 - OpenStreetMap South Sudan
-layout: community-grants
 ---
 
 **2020 Microgrant** 
