@@ -14,6 +14,7 @@ Partner:
 ---
 
 **2020 MicroGrant **
+
 Since the community’s creation in 2016, OSM Sierra Leone has worked to create university mapping chapters, partner with the Red Cross and other organizations, to increase the quality of maps across the country. The community is seeking to expand its impact, training more individuals and increasing the diversity of their community, particularly with female mappers. 
 
 In a country that suffers from floods and even epidemics – the Ebola outbreak in 2014 devastated the country – putting places and people on the map means communities can demand the humanitarian and development assistance they need to thrive. OSM Sierra Leone has even been using mapping to fight female genital mutilation in the country, holding mapathons with the Red Cross to map at-risk areas.
