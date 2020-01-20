@@ -5,6 +5,7 @@ published: false
 Project Summary Text: OSM Sierra Leone aims to strengthen and expand their community
   of mappers and provide relief and development organizations with the information
   they need to respond to improve lives across the country.
+Feature Image: "/uploads/Screenshot%202019-11-14%20at%2022.56.53%20small.png"
 Is Community-Led: true
 Country:
 - Sierra Leone
