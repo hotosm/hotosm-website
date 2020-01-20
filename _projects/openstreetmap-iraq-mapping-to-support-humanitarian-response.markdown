@@ -11,7 +11,6 @@ Country:
 - Iraq
 Partner:
 - OpenStreetMap Iraq
-layout: community-grants
 ---
 
 Since the war started in Iraq in 2014, millions of people have been displaced, forced to leave their homes and set up in temporary camps, needing ongoing support from aid organizations to survive. Many organizations and government agencies are working tirelessly to assist people during this crisis, but they lack basic information such as how many people live in an area, if they have enough clean water, are the roads to settlements driveable.
