@@ -11,6 +11,7 @@ Country:
 - Sierra Leone
 Partner:
 - OpenStreetMap Sierra Leone
+layout: community-grants
 ---
 
 **2020 MicroGrant **
