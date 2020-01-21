@@ -15,6 +15,7 @@ Partner:
 - Mental Health aWHEREness
 ---
 
+**2020 Microgrant**
 
 To reduce the stigma and increase access to mental health services, Mental Health AWHEREness aims to use map data that highlights the locations and supports of mental health services and work with policy-makers to increase access for all.
 
