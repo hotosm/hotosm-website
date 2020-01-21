@@ -10,6 +10,9 @@ Feature Image: "/uploads/TALLER%20ACCHA-1%20small.jpg"
 Is Community-Led: true
 Country:
 - Peru
+Impact Area:
+- Public Health
+- Gender Equality
 Partner:
 - GAL School Peru
 ---
