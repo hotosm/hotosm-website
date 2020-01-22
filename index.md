@@ -3,13 +3,12 @@ title: Home
 position: 0
 Banner:
   Is Activated: false
-  Small Block: Donate by Dec. 31 and help local communities to improve lives with
-    maps!
-  Main Block: "#MaptheDifference"
-  Secondary Block: 'Give directly to local mapping communities '
+  Small Block: 
+  Main Block: 
+  Secondary Block: 
   Optional Text: 
-  Link Copy: Find out more...
-  URL: https://donate.hotosm.org
+  Link Copy: 
+  URL: 
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'
