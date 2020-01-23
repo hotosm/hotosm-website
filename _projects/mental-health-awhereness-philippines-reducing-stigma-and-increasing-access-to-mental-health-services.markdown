@@ -13,6 +13,7 @@ Impact Area:
 - Public Health
 Partner:
 - Mental Health aWHEREness
+Micrograntee: true
 ---
 
 **2020 Microgrant**
