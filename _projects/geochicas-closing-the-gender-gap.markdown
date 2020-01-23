@@ -26,6 +26,8 @@ Impact Area:
 Person:
 - Miriam Gonzalez
 - Céline Jacquin
+Duration:
+  End Date: 2019-01-01 00:00:00 Z
 ---
 
 GeoChicas are an international women’s mapping community with members in more than 12 different countries. Our aim is for women to have a greater presence and participation in key OSM events, increase female participation and leadership, and work on mapping projects which benefit women. Our main focus as a group is to help close the gender gap in the OSM community across participation, data creation and curation.
