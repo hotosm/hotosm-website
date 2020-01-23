@@ -17,7 +17,7 @@ Tools:
 - link: 
 - link: 
 Micrograntee:
-  Key: true
+- true
 Field name: 
 layout: community-grants
 ---
