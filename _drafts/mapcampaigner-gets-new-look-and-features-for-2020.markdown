@@ -11,8 +11,6 @@ Project:
 - MapCampaigner
 ---
 
-![Russ MapCampaigner 1.png](/uploads/Russ%20MapCampaigner%201.png)
-
 MapCampaigner has a new look! We spent the fall of 2019 conducting user research to better understand how users interact with MapCampaigner. This research has informed a new layout and added functionality. Since October we’ve been busy implementing this new design, fixing bugs, and adding new features, including downloadable MBTiles for your project area and a PDF atlas for printing in the field.
 
 ## What’s New?
