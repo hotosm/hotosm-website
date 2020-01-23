@@ -15,6 +15,7 @@ Impact Area:
 - Gender Equality
 Partner:
 - GAL School Peru
+Micrograntee: true
 ---
 
 **2020 Microgrant**

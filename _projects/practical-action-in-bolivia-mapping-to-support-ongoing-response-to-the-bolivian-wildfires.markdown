@@ -13,6 +13,7 @@ Impact Area:
 - Disaster Response
 Partner:
 - Practical Action en América Latina
+Micrograntee: true
 ---
 
 **2020 Microgrant**

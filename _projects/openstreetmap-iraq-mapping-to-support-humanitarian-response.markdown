@@ -12,6 +12,7 @@ Impact Area:
 - Refugee Response
 Partner:
 - OpenStreetMap Iraq
+Micrograntee: true
 ---
 
 **2020 Microgrant**

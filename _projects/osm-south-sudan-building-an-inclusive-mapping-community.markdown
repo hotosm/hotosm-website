@@ -12,6 +12,7 @@ Impact Area:
 - Disaster Response
 Partner:
 - OpenStreetMap South Sudan
+Micrograntee: true
 ---
 
 **2020 Microgrant** 
