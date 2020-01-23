@@ -12,6 +12,8 @@ Impact Area:
 - Sustainable Cities
 Person:
 - Tasauf A Baki Billah (Ribin)
+Duration:
+  End Date: 2019-01-01 00:00:00 Z
 Micrograntee: true
 Link: http://boiledbhoot.org/
 ---
