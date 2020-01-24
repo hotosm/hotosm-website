@@ -12,6 +12,6 @@ Social Media (Full URL):
   LinkedIn: linkedin.com/in/bopercival
 ---
 
-Sitting at the junction of technology and development, Bo Percival is a self-proclaimed ‘giant nerd’, dedicated to uncovering insights at the intersection of behaviour, economics, technology and development.
+Sitting at the junction of technology and development, Bo Percival is a self-proclaimed ‘geek for good’, dedicated to uncovering insights at the intersection of behaviour, economics, technology and development.
 
-He has worked extensively in digital development for Education, HIV, LGBT rights, Youth Development and WASH; providing support to over 25 countries worldwide. Bo has a Ba. in economics and marketing, diplomas in interpreting and development and is currently completing his masters in psychology and behavioural science.  His current role as Director of Technology and Innovation at HOT is a perfect collision of passion and profession. 
+Bo has worked extensively in digital development for Gender, Education, HIV, LGBT rights, Youth Development and WASH; providing support to over 25 countries worldwide. Bo has a Ba. in economics and marketing, diplomas in interpreting and development and is currently completing his masters in psychology and behavioural science. He emphasizes the interaction between humans and information technology in a big way. His current role as Director of Technology and Innovation at HOT is a perfect collision of passion and profession. 
