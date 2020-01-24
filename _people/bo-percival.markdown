@@ -11,3 +11,6 @@ Social Media (Full URL):
   LinkedIn: linkedin.com/in/bopercival
 ---
 
+Sitting at the junction of technology and development, Bo Percival is a self proclaimed ‘giant nerd’, dedicated to uncovering insights at the intersection of behaviour, economics, technology and development.
+
+He has worked extensively in digital development for Education, HIV, LGBT rights, Youth Development and WASH; providing support to over 25 countries world-wide. Bo has a Ba. in economics and marketing, diplomas in interpreting and development and is currently completing his masters in psychology and behavioural science
