@@ -18,7 +18,7 @@ MapCampaigner has a new look! We spent the fall of 2019 conducting user research
 
 ## What’s New?
 
-**Bug fixes:** To kick-off the redesign work, we addressed a number of issues reported on the MapCampaigner Github. These fixes ranged from fixing the layout to data processing errors and performance improvements.
+**Bug fixes:** To kick-off the redesign work, we addressed several issues reported on the MapCampaigner Github. These fixes ranged from fixing the layout to data processing errors and performance improvements.
 
 **Redesign:** Our redesign is based on feedback from users. With their help, we simplified functions from campaign creation and management to viewing and exploring data in MapCampaigner.
 
