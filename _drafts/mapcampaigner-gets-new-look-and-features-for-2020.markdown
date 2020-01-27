@@ -3,6 +3,9 @@ title: MapCampaigner Gets New Look and Features for 2020
 date: 2020-01-23 18:22:00 Z
 tags:
 - MapCampaigner
+- Tech
+- Field Mapping
+- Tools
 Feature Image: "/uploads/Russ%20MapCampaigner%201.png"
 Person: Russ Biggs
 Working Group:
