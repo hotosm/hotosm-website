@@ -10,6 +10,7 @@ Summary Text: MapCampaigner is our open source tool that monitors the quality an
   progress of OpenStreetMap field mapping anywhere around the world. For 2020, we've
   made it better.
 Feature Image: "/uploads/Russ%20MapCampaigner%201.png"
+Is image top aligned: true
 Person: Russ Biggs
 Working Group:
 - Technical
