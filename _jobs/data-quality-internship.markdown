@@ -3,8 +3,7 @@ title: Data Quality Internship
 date: 2020-01-28 11:49:00 Z
 published: false
 Deadline Date: 2020-02-28 00:00:00 Z
-Place of Work: This is a remote working position, we welcome applications from any
-  location.
+Place of Work: Remote
 Apply Form Link: https://forms.gle/q9eyULFVmWwQsyoL8
 ---
 
