@@ -7,12 +7,17 @@ Place of Work: Remote
 Apply Form Link: https://forms.gle/q9eyULFVmWwQsyoL8
 ---
 
-Duration: 10-12 weeks (Part-time)
-Hours Required: 6-8 hours per week
-Positions available: 25 people
-Closes: 28 February 2020
-Projected start date: 09 March 2020
-Reports to: Community Programs Manager
+**Duration:** 10-12 weeks (Part-time)
+
+**Hours Required:** 6-8 hours per week
+
+**Positions available:** 25 people
+
+**Closes:** 28 February 2020
+
+**Projected start date:** 09 March 2020
+
+**Reports to:** Community Programs Manager
 
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 130,000 people with ground operations in eight countries. During crisis, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
 
