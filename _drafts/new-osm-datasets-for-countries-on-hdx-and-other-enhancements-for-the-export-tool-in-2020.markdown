@@ -2,6 +2,12 @@
 title: New OSM Datasets for Countries on HDX and Other Enhancements for the Export
   Tool in 2020
 date: 2020-02-06 09:00:00 Z
+tags:
+- HDX
+- Tech
+- Tools
+- Export
+- Code
 Summary Text: "The most recent round of HDX development work focused on streamlining
   the backend so jobs run faster, delivering much needed OSM data into the hands of
   our users. Another key area of enhancement was admin functionality, including adding
@@ -12,6 +18,10 @@ Summary Text: "The most recent round of HDX development work focused on streamli
   data for all of Indonesia through InAWARE.  \n"
 Feature Image: "/uploads/Export%20Tool%20Blog%201.png"
 Person: Mhairi O'Hara
+Working Group:
+- Technical
+Project:
+- HDX
 ---
 
 ## **Greater Data Outreach**
