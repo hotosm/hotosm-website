@@ -166,7 +166,7 @@ The HDX data model used to extract OSM data through the tool can be found on the
 
 Similarly, there are ‘Featured Export’ jobs listed on the ‘[About](https://export.hotosm.org/en/v3/)’ page, which are generally focused on OSM extracts created in response to a HOT activation and cover the exact area of mapping interest outlined in the Tasking Manager. These exports are also set to update automatically based on the selected frequency (such as hourly, daily, or weekly), so that disaster response partners can keep their data up to date as new data gets added to OSM by mappers.
 
-![Export Tool Blog 4.png](/uploads/Export%20Tool%20Blog%204.png)
+![Export Tool Blog 4B.png](/uploads/Export%20Tool%20Blog%204B.png)
 
 ![Export Tool Blog 5.png](/uploads/Export%20Tool%20Blog%205.png)
 
@@ -176,6 +176,6 @@ A major focus in enhancing the Export Tool admin functionality is to capture add
 
 ![Export Tool Blog 6.png](/uploads/Export%20Tool%20Blog%206.png)
 
-![Export Tool Blog 7.png](/uploads/Export%20Tool%20Blog%207.png)
+![Export Tool Blog 7B.png](/uploads/Export%20Tool%20Blog%207B.png)
 
 These stats are visually supported with a map of the exports on the right side of the page, as well as the ability to export the information in a CSV file for further analysis and data visualization by users. Please note that the stats page is currently only accessible to admin users of the tool, but there are plans to open this to the general public in the next round of development.
