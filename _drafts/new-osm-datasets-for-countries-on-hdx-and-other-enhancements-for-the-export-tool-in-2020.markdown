@@ -34,56 +34,56 @@ The YAML code used by the Export Tool to extract features and filter specific at
 
 **Airports and Helipads**
 
-  types:
-    - points
-    - lines
-    - polygons
-  select:
-    - name
-    - aeroway
-    - building
-    - emergency
-    - emergency:helipad
-    - operator:type
-    - capacity:persons
-    - addr:full
-    - addr:city
-    - source
-  where: aeroway IS NOT NULL OR building = 'aerodrome' OR emergency:helipad IS NOT NULL OR emergency = 'landing_site'
+    types:
+      - points
+      - lines
+      - polygons
+    select:
+      - name
+      - aeroway
+      - building
+      - emergency
+      - emergency:helipad
+      - operator:type
+      - capacity:persons
+      - addr:full
+      - addr:city
+      - source
+    where: aeroway IS NOT NULL OR building = 'aerodrome' OR emergency:helipad IS NOT NULL OR emergency = 'landing_site'
 
 **Education Facilities**
 
-  types:
-    - points
-    - polygons
-  select:
-    - name
-    - amenity
-    - building
-    - operator:type
-    - capacity:persons
-    - addr:full
-    - addr:city
-    - source
-  where: amenity IN ('kindergarten', 'school', 'college', 'university') OR building IN ('kindergarten', 'school', 'college', 'university')
+    types:
+      - points
+      - polygons
+    select:
+      - name
+      - amenity
+      - building
+      - operator:type
+      - capacity:persons
+      - addr:full
+      - addr:city
+      - source
+    where: amenity IN ('kindergarten', 'school', 'college', 'university') OR building IN ('kindergarten', 'school', 'college', 'university')
 
 **Health Facilities**
 
-  types:
-    - points
-    - polygons
-  select:
-    - name
-    - amenity
-    - building
-    - healthcare
-    - healthcare:speciality
-    - operator:type
-    - capacity:persons
-    - addr:full
-    - addr:city
-    - source
-  where: healthcare IS NOT NULL OR amenity IN ('doctors', 'dentist', 'clinic', 'hospital', 'pharmacy')
+    types:
+      - points
+      - polygons
+    select:
+      - name
+      - amenity
+      - building
+      - healthcare
+      - healthcare:speciality
+      - operator:type
+      - capacity:persons
+      - addr:full
+      - addr:city
+      - source
+    where: healthcare IS NOT NULL OR amenity IN ('doctors', 'dentist', 'clinic', 'hospital', 'pharmacy')
 
 **Financial Services**
 
@@ -102,32 +102,32 @@ The YAML code used by the Export Tool to extract features and filter specific at
 
 **Populated Places**
 
-  types:
-    - points
-    - polygons
-  select:
-    - name
-    - place
-    - population
-    - is_in
-    - source
-  where: place IN ('isolated_dwelling', 'town', 'village', 'hamlet', 'city')
+    types:
+      - points
+      - polygons
+    select:
+      - name
+      - place
+      - population
+      - is_in
+      - source
+    where: place IN ('isolated_dwelling', 'town', 'village', 'hamlet', 'city')
 
 **Railways**
 
-  types:
-    - lines
-    - polygons
-  select:
-    - name
-    - railway
-    - ele
-    - operator:type
-    - layer
-    - addr:full
-    - addr:city
-    - source
-  where: railway IN ('rail','station')
+    types:
+      - lines
+      - polygons
+    select:
+      - name
+      - railway
+      - ele
+      - operator:type
+      - layer
+      - addr:full
+      - addr:city
+      - source
+    where: railway IN ('rail','station')
 
 **Seaports**
 
