@@ -1,5 +1,5 @@
 ---
-title: New OSM Datasets for Countries on HDX and other Enhancements for the Export
+title: New OSM Datasets for Countries on HDX and Other Enhancements for the Export
   Tool in 2020
 date: 2020-02-03 18:14:00 Z
 Summary Text: "The most recent round of HDX development work focused on streamlining
@@ -34,17 +34,117 @@ The YAML code used by the Export Tool to extract features and filter specific at
 
 **Airports and Helipads**
 
+  types:
+    - points
+    - lines
+    - polygons
+  select:
+    - name
+    - aeroway
+    - building
+    - emergency
+    - emergency:helipad
+    - operator:type
+    - capacity:persons
+    - addr:full
+    - addr:city
+    - source
+  where: aeroway IS NOT NULL OR building = 'aerodrome' OR emergency:helipad IS NOT NULL OR emergency = 'landing_site'
+
 **Education Facilities**
+
+  types:
+    - points
+    - polygons
+  select:
+    - name
+    - amenity
+    - building
+    - operator:type
+    - capacity:persons
+    - addr:full
+    - addr:city
+    - source
+  where: amenity IN ('kindergarten', 'school', 'college', 'university') OR building IN ('kindergarten', 'school', 'college', 'university')
 
 **Health Facilities**
 
+  types:
+    - points
+    - polygons
+  select:
+    - name
+    - amenity
+    - building
+    - healthcare
+    - healthcare:speciality
+    - operator:type
+    - capacity:persons
+    - addr:full
+    - addr:city
+    - source
+  where: healthcare IS NOT NULL OR amenity IN ('doctors', 'dentist', 'clinic', 'hospital', 'pharmacy')
+
 **Financial Services**
+
+    types:
+      - points
+      - polygons
+    select:
+      - name
+      - amenity
+      - operator
+      - network
+      - addr:full
+      - addr:city
+      - source
+    where: amenity IN ('mobile_money_agent','bureau_de_change','bank','microfinance','atm','sacco','money_transfer','post_office')
 
 **Populated Places**
 
+  types:
+    - points
+    - polygons
+  select:
+    - name
+    - place
+    - population
+    - is_in
+    - source
+  where: place IN ('isolated_dwelling', 'town', 'village', 'hamlet', 'city')
+
 **Railways**
 
+  types:
+    - lines
+    - polygons
+  select:
+    - name
+    - railway
+    - ele
+    - operator:type
+    - layer
+    - addr:full
+    - addr:city
+    - source
+  where: railway IN ('rail','station')
+
 **Seaports**
+
+    types:
+      - points
+      - lines
+      - polygons
+    select:
+      - name
+      - amenity
+      - building
+      - port
+      - operator:type
+      - addr:full
+      - addr:city
+      - source
+    where: amenity = 'ferry_terminal' OR building = 'ferry_terminal' OR port IS NOT NULL
 
 ## **Integrations for Partner Platforms**
 
