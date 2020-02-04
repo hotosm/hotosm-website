@@ -8,21 +8,19 @@ tags:
 - Tools
 - Export
 - Code
-Summary Text: "The most recent round of HDX development work focused on streamlining
-  the backend so jobs run faster, delivering much needed OSM data into the hands of
-  our users. Another key area of enhancement was admin functionality, including adding
-  the ability to feature specific ‘Exports’ and ‘Configs’ right on the home page,
-  as well as capturing usage statistics so that future rounds of development will
-  be better informed. Our humanitarian users continue to be supported through the
-  addition of new baseline datasets of countries to HDX as well as key lifeline infrastructure
-  data for all of Indonesia through InAWARE.  \n"
+Summary Text: "The most recent round of HDX development work focused on delivering
+  much needed OSM data into the hands of our users faster than ever, offer new export
+  features, and capture usage statistics to support future development. \n"
 Feature Image: "/uploads/Export%20Tool%20Blog%201.png"
+Is image top aligned: true
 Person: Mhairi O'Hara
 Working Group:
 - Technical
 Project:
 - HDX
 ---
+
+The most recent round of HDX development work focused on streamlining the backend so jobs run faster, delivering much needed OSM data into the hands of our users. Another key area of enhancement was admin functionality, including adding the ability to feature specific ‘Exports’ and ‘Configs’ right on the home page, as well as capturing usage statistics so that future rounds of development will be better informed. Our humanitarian users continue to be supported through the addition of new baseline datasets of countries to HDX as well as key lifeline infrastructure data for all of Indonesia through InAWARE.  
 
 ## **Greater Data Outreach**
 
