@@ -51,6 +51,7 @@ The YAML code used by the Export Tool to extract features and filter specific at
       - source
     where: aeroway IS NOT NULL OR building = 'aerodrome' OR emergency:helipad IS NOT NULL OR emergency = 'landing_site'
 
+
 **Education Facilities**
 
     types:
@@ -66,6 +67,7 @@ The YAML code used by the Export Tool to extract features and filter specific at
       - addr:city
       - source
     where: amenity IN ('kindergarten', 'school', 'college', 'university') OR building IN ('kindergarten', 'school', 'college', 'university')
+
 
 **Health Facilities**
 
@@ -85,6 +87,7 @@ The YAML code used by the Export Tool to extract features and filter specific at
       - source
     where: healthcare IS NOT NULL OR amenity IN ('doctors', 'dentist', 'clinic', 'hospital', 'pharmacy')
 
+
 **Financial Services**
 
     types:
@@ -100,6 +103,7 @@ The YAML code used by the Export Tool to extract features and filter specific at
       - source
     where: amenity IN ('mobile_money_agent','bureau_de_change','bank','microfinance','atm','sacco','money_transfer','post_office')
 
+
 **Populated Places**
 
     types:
@@ -112,6 +116,7 @@ The YAML code used by the Export Tool to extract features and filter specific at
       - is_in
       - source
     where: place IN ('isolated_dwelling', 'town', 'village', 'hamlet', 'city')
+
 
 **Railways**
 
@@ -128,6 +133,7 @@ The YAML code used by the Export Tool to extract features and filter specific at
       - addr:city
       - source
     where: railway IN ('rail','station')
+
 
 **Seaports**
 
