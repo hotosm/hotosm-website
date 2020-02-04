@@ -9,8 +9,8 @@ tags:
 - Export
 - Code
 Summary Text: "The most recent round of HDX development work focused on delivering
-  much needed OSM data into the hands of our users faster than ever, offer new export
-  features, and capture usage statistics to support future development. \n"
+  much needed OSM data into the hands of our users faster than ever, offering new
+  export features, and capturing usage statistics to support future development. \n"
 Feature Image: "/uploads/Export%20Tool%20Blog%201.png"
 Is image top aligned: true
 Person: Mhairi O'Hara
