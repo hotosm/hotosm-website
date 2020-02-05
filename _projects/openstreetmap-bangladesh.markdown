@@ -1,7 +1,8 @@
 ---
 title: 'OSM Bangladesh: Map Your City'
 date: 2018-05-16 06:40:00 Z
-position: 31
+permalink: projects/openstreetmap-bangladesh
+position: 34
 Project Summary Text: A community project to map all major cities in Bangladesh
 Feature Image: "/uploads/5_OSM%20Bangladesh,%20Nethope%20Device%20Grant%202017.JPG"
 Is Community-Led: true
@@ -11,6 +12,8 @@ Impact Area:
 - Sustainable Cities
 Person:
 - Tasauf A Baki Billah (Ribin)
+Duration:
+  End Date: 2019-01-01 00:00:00 Z
 Micrograntee: true
 Link: http://boiledbhoot.org/
 ---

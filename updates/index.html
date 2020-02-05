@@ -35,8 +35,22 @@ layout: default
                   <p class="news-index-author">{{ author.title }}</p>
               {% endif %}
               <p class="news-index-date">{{ post.date | date: '%e %B, %Y' }}</p>
-              {% if post.Country %}
-              <p class="news-index-country">{{ post.Country | first }}</p>
+              {% if post.Country != '' %}
+                <p class="news-index-country">
+                  {% for country in post.Country %}
+                    {% if country != '' %}
+                      {% if post.Country.size <= 3 %}
+                        {{ country }}{% unless forloop.last and country != '' %}, {% endunless %}
+                      {% else post.Country.size > 3 %}
+                        {% assign countrycount = post.Country.size %}
+                        {{ post.Country[0] }} and {{ countrycount | minus: 1 }} other countries
+                        {% break %}
+                     {% endif %}
+                    {% else %}
+                      Global
+                    {% endif %}
+                  {% endfor %}
+                </p>
               {% endif %}
             </div>
 
@@ -81,8 +95,30 @@ layout: default
               <div class="news-list-meta">
                 {% assign author = site.people | where: "title", post.Person | first %}
                   <p class="news-index-author">
-                    {% include author.html %} — {{ post.date | date: '%e %B, %Y' }}</p>
-                    <p class="news-index-date">{% if post.Country %} {{ post.Country | join: ", " }} {% endif %}</p>
+                    {% if post.Person %}
+                      {% for author in post.Person %}
+                        {{ author }}{% unless forloop.last %},{% endunless %}
+                        {% if forloop.last %} - {% endif %}
+                      {% endfor %}
+                    {% endif %}
+                    {{ post.date | date: '%e %B, %Y' }}</p>
+                      {% if post.Country != '' %}
+                        <p class="news-index-country">
+                            {% for country in post.Country %}
+                              {% if country != '' %}
+                                {% if post.Country.size <= 3 %}
+                                  {{ country }}{% unless forloop.last %}, {% endunless %}
+                                {% else post.Country.size > 3 %}
+                                  {% assign countrycount = post.Country.size %}
+                                   {{ post.Country[0] }} and {{ countrycount | minus: 1 }} other countries
+                                  {% break %}
+                               {% endif %}
+                              {% else %}
+                                Global
+                              {% endif %}
+                            {% endfor %}
+                        </p>
+                      {% endif %}
               </div>
             </div>
 

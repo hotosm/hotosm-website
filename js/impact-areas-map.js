@@ -3,21 +3,6 @@
   var impactCountries = [];
   var impactTitle = '';
 
-  fetch('/countries.json')
-    .then(function(response) {
-      return response.json();
-    })
-    .then(function(jsonData) {
-      countries = jsonData;
-      impactTitle = $(document).find("title").text().split('|')[1].trim()
-      countriesList = Object.keys(countries);
-      impactCountries = countriesList.filter(function(item){
-        return countries[item][impactTitle];
-      })
-    }
-  );
-
-
   mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
   var map = new mapboxgl.Map({
     container: 'map',
@@ -30,6 +15,19 @@
   });
 
   map.on('load', function () {
+    fetch('/countries.json')
+    .then(function(response) {
+      return response.json();
+    })
+    .then(function(jsonData) {
+      countries = jsonData;
+      impactTitle = $(document).find("title").text().split('|')[1].trim()
+      countriesList = Object.keys(countries);
+      impactCountries = countriesList.filter(function(item){
+        return countries[item][impactTitle];
+      })
+      $('#loading-map').detach();
+
     map.addSource('countriesbetter', {
       "type": "vector",
       "url": "mapbox://hot.9fvp7us2"
@@ -76,12 +74,11 @@
           );
           lastCountry = areaHover[0].properties.NAME_LONG;
         }
-        console.log(areaHover[0].properties.name_low);
       } else {
-        console.log('limpando');
         map.getCanvas().style.cursor = '';
         lastCountry = '';
         $("#hover-country").empty();
       }
+      });
     });
-  });
+});

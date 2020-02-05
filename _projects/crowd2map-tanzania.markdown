@@ -1,7 +1,8 @@
 ---
 title: Crowd2Map Tanzania
 date: 2018-06-05 23:00:00 Z
-position: 9
+permalink: projects/crowd2map-tanzania
+position: 12
 Project Summary Text: 'Crowd2Map Tanzania is a crowdsourced mapping project aiming
   to put rural Tanzania on the map, particularly those areas where girls are at risk
   of Female Genital Mutilation (FGM). '
@@ -14,8 +15,15 @@ Impact Area:
 - Public Health
 Person:
 - Janet Chapman
+Duration:
+  End Date: 2019-01-01 00:00:00 Z
+tm_campaigns:
+- Missing Maps
+- Female Genital Mutilation
+- GISCorps
 Micrograntee: true
 Link: http://www.tanzdevtrust.org/
+redirect_from: projects/crowd2map-tanzania
 ---
 
 ## Project

@@ -2,7 +2,7 @@
 title: 'Disaster Activation: Somalia 2011'
 date: 2011-09-03 12:48:00 Z
 permalink: projects/somalia
-position: 49
+position: 52
 Project Summary Text: HOT has been working remotely to gather information for Somalia
   and the rest of the Horn of Africa. This is in response to the severe drought and
   famine crisis the is ongoing in the area.
@@ -13,7 +13,7 @@ Country:
 Impact Area:
 - Disaster Response
 Person:
-- 'Jaakko Helleranta '
+- Jaakko Helleranta
 Duration:
   Start Date: 2011-07-01 00:00:00 Z
   End Date: 2011-12-31 00:00:00 Z

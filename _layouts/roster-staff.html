@@ -10,7 +10,7 @@ layout: default
     </header>
 
     <!-- based on the grid, placing first country title above content grid for alignment -->
-    <h2>Botswana</h2>
+    <!-- <h2>Guatemala</h2> -->
 
     <div class="roster-body">
 
@@ -21,64 +21,28 @@ layout: default
 
       <div class="roster-list">
         
-          {% assign sorted-people = site.people | sort: 'title', 'last' %}
+            {% assign sorted-people = site.people | sort: 'title', 'last' %}
 
+            {% for country in page.countries %}
+                <h2>{{ country }}</h2>
                 <div class="roster-list-wrapper">
                 {% for person in sorted-people %}
-                {% if person.Country == 'Botswana' and person['Member Type']['Is Staff'] %}
-                {% include blocks/roster-item.html %}
-                {% endif %}
+                    {% if person.Country == country and person['Member Type']['Is Staff'] %}
+                        {% include blocks/roster-item.html %}
+                    {% endif %}
                 {% endfor %}
                 </div>
+            {% endfor %}
+                
+            <h2>Global</h2>
+            <div class="roster-list-wrapper">
+            {% for person in sorted-people %}
+            {% if person.Country != 'Guatemala' and person.Country != 'Zambia' and person.Country != 'Uganda' and person.Country != 'Tanzania' and person.Country != 'Indonesia' and person['Member Type']['Is Staff'] %}
 
-                <h2>Indonesia</h2>
-                <div class="roster-list-wrapper">
-                {% for person in sorted-people %}
-                {% if person.Country == 'Indonesia' and person['Member Type']['Is Staff'] %}
-                {% include blocks/roster-item.html %}
-                {% endif %}
-                {% endfor %}
-                </div>
-
-                <h2>Tanzania</h2>
-                <div class="roster-list-wrapper">
-                {% for person in sorted-people %}
-                {% if person.Country == 'Tanzania' and person['Member Type']['Is Staff'] %}
-
-                {% include blocks/roster-item.html %}
-                {% endif %}
-                {% endfor %}
-                </div>
-
-                <h2>Turkey</h2>
-                <div class="roster-list-wrapper">
-                {% for person in sorted-people %}
-                {% if person.Country == 'Turkey' and person['Member Type']['Is Staff'] %}
-
-                {% include blocks/roster-item.html %}
-                {% endif %}
-                {% endfor %}
-                </div>
-
-                <h2>Uganda</h2>
-                <div class="roster-list-wrapper">
-                {% for person in sorted-people %}
-                {% if person.Country == 'Uganda' and person['Member Type']['Is Staff'] %}
-
-                {% include blocks/roster-item.html %}
-                {% endif %}
-                {% endfor %}
-                </div>
-
-                <h2>Global</h2>
-                <div class="roster-list-wrapper">
-                {% for person in sorted-people %}
-                {% if person.Country != 'Botswana' and person.Country != 'Turkey' and person.Country != 'Uganda' and person.Country != 'Tanzania' and person.Country != 'Indonesia' and person['Member Type']['Is Staff'] %}
-
-                {% include blocks/roster-item.html %}
-                {% endif %}
-                {% endfor %}
-                </div>
+            {% include blocks/roster-item.html %}
+            {% endif %}
+            {% endfor %}
+            </div>
       </div>
 
     </div>

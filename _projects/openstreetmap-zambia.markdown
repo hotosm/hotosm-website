@@ -1,7 +1,8 @@
 ---
 title: 'OSM Zambia: WASH Mapping'
 date: 2018-06-05 23:01:00 Z
-position: 10
+permalink: projects/openstreetmap-zambia
+position: 13
 Project Summary Text: Mapping to support water & sanitation initiatives in Zambia
 Feature Image: "/uploads/zambiaphoto.PNG"
 Is image top aligned: true
@@ -12,6 +13,8 @@ Impact Area:
 - Water & Sanitation
 Person:
 - Gertrude (Trudy Hope) Namitala
+Duration:
+  End Date: 2019-01-01 00:00:00 Z
 Micrograntee: true
 ---
 

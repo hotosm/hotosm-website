@@ -6,6 +6,7 @@
   <title>{{ site.title }} | {{ page.title }}</title>
 
   <meta name="description" content="{% if page.Meta %}{{ page.Meta }}{% endif %}{% for tag in page.tags %}{% if forloop.last == true %}{{ tag }}{% else %}{{ tag }}, {% endif %}{% endfor %}">
+  {% feed_meta %}
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 

@@ -1,7 +1,7 @@
 ---
 title: Two weeks of field work within the EUROSHA Chad Project
 date: 2012-11-01 02:44:35 Z
-permalink: updates/2012-11-01_two_weeks_of_field_work_within_the_eurosha_chad_project_
+permalink: updates/2012-11-01_two_weeks_of_field_work_within_the_eurosha_chad_project
 Summary Text: 'Last night of hard work in the meeting room of the UNHCR in Gore (Southern
   Chad) debriefing the two weeks of field work.  Tomorrow we head North to Ndjamena.
   I feel that this is the right time to share with you impressions and facts from

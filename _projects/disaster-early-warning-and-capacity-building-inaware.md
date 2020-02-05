@@ -2,7 +2,7 @@
 title: 'Disaster Early Warning And Capacity Building: InAWARE'
 date: 2018-06-12 00:35:00 Z
 permalink: projects/disaster-early-warning-and-capacity-building-inaware
-position: 3
+position: 6
 Project Summary Text: HOT is supporting the development of InAWARE, a disaster management
   tool, aimed at improving risk assessment, early-warning, and disaster-management
   decision making in Indonesia.
@@ -32,6 +32,19 @@ Contact: yantisa.ahkhadi@hotosm.org
 Wiki Page: "[InAWARE Project OSM Wiki Page](https://wiki.openstreetmap.org/wiki/HOT_-_PDC_InAWARE_Indonesia_Project_(Surabaya_%26_Jakarta))"
 created: 1467765342
 redirect_from: projects/usaid__bnpb__inaware_disaster_management_early_warning_and_decision_support_capacity_enhancement_project_in_indonesia
+tm_campaigns:
+- Inaware
+- Missing Maps
+project_extent: 1H-YsfFE18Pv0pGrnAPAeGtL91tfaJT8u
+Google Drive: https://drive.google.com/drive/u/1/folders/1XLIMF8Cv_fWtBDzv8sk95KpGfdW58qze
+Data:
+- title: Humanitarian Data Exchange
+  link: https://data.humdata.org/organization/hot
+Tools:
+- tool: Export Tool
+  link: https://export.hotosm.org/en/v3/
+- tool: OSM Analytics
+  link: http://osm-analytics.org
 ---
 
 HOT is collaborating on a USAID, Office of U.S. Foreign Disaster Assistance (OFDA) funded program together with the University of Hawaii: Pacific Disaster Centre (PDC) and the Massachusetts Institute of Technology (MIT): PetaBencana to support the Government of Indonesia: Badan Nasional Penanggulangan Bencana (BNPB). The program is focused on the development of InAWARE, a disaster management tool, aimed at improving overall risk assessment, early-warning, and disaster-management decision making in Indonesia.
@@ -49,7 +62,7 @@ Harry Mahardhika is leading the operations and logistics of the mapping project,
 ![survei OMK.jpeg](/uploads/survei%20OMK.jpeg)
 
 
-Once the information is mapped by the Data Entry specialists, it will be reviewed and validated by a team of dedicated Quality Assurance specialists.The HOT team will also assist with training sessions for local BPBD staff, looking at the collection of OpenStreetMap data and its maintenance, as well as disaster management operational activities using InAWARE, PetaJakarta, and InaSAFE. The overall goal is to enhance capacity within national and provincial disaster management agencies to access automated international, regional, national, and local hazard information and supporting infrastructure data, as well as sharing information between agencies, and disseminating alert warnings to communities and populations at risk.
+Once the information is mapped by the Data Entry specialists, it will be reviewed and validated by a team of dedicated Quality Assurance specialists.The HOT team will also assist with training sessions for local BPBD staff, looking at the collection of OpenStreetMap data and its maintenance, as well as disaster management operational activities using InAWARE, PetaJakarta, and InaSAFE. The overall goal is to enhance capacity within national and provincial disaster management agencies to access automated international, regional, national, and local hazard information an information between agencies, and disseminating alert warnings to communities and populations at risk.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ruHf_cVZTuM?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

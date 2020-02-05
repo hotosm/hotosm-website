@@ -12,6 +12,8 @@ Block 1:
   Tools:
   - Name: Access our repositories
     URL: http://github.com/hotosm
+  - Name: Check Status
+    URL: https://status.hotosm.org
 Block 2:
   Header: Learn about OpenStreetMap
   Text: OpenStreetMap is a free street level map of the world, created by an ever
@@ -26,9 +28,9 @@ Block 2:
     URL: http://courses.hotosm.org/
 Block 3:
   Header: Plan a Mapping Campaign
-  Text: If you are intersted starting a remote or field mapping campaign, you can
-    get started by finding available imagery to use via OpenAerialMap, plan a remote
-    mapping campaign via the Tasking Manager, or set up and track a field campaign
+  Text: If you are interested in starting a remote or field mapping campaign, you
+    can get started by finding available imagery to use via OpenAerialMap, plan a
+    remote mapping campaign via the Tasking Manager, or set up and track a field campaign
     with MapCampaigner.
   Image: "/uploads/tools-taskingmanager.png"
   Tools:

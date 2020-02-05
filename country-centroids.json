@@ -1,0 +1,765 @@
+{"type": "FeatureCollection","features": [{"type": "Feature","properties": {"NAME": "indonesia","NAME_LONG": "Indonesia","ADM0_A3_IS": "IDN","ADM0_A3_US": "IDN","WIKIDATAID": "Q252","NAME_EN": "Indonesia"
+},
+"geometry": {"type": "Point","coordinates": [117.27043333916548,-2.222961002517392]}},
+{"type": "Feature","properties": {"NAME": "malaysia","NAME_LONG": "Malaysia","ADM0_A3_IS": "MYS","ADM0_A3_US": "MYS","WIKIDATAID": "Q833","NAME_EN": "Malaysia"
+},
+"geometry": {"type": "Point","coordinates": [109.69886844216687,3.792392850953034]}},
+{"type": "Feature","properties": {"NAME": "chile","NAME_LONG": "Chile","ADM0_A3_IS": "CHL","ADM0_A3_US": "CHL","WIKIDATAID": "Q298","NAME_EN": "Chile"
+},
+"geometry": {"type": "Point","coordinates": [-71.36437463800704,-37.74360561760632]}},
+{"type": "Feature","properties": {"NAME": "bolivia","NAME_LONG": "Bolivia","ADM0_A3_IS": "BOL","ADM0_A3_US": "BOL","WIKIDATAID": "Q750","NAME_EN": "Bolivia"
+},
+"geometry": {"type": "Point","coordinates": [-64.68475372880839,-16.7068768105592]}},
+{"type": "Feature","properties": {"NAME": "peru","NAME_LONG": "Peru","ADM0_A3_IS": "PER","ADM0_A3_US": "PER","WIKIDATAID": "Q419","NAME_EN": "Peru"
+},
+"geometry": {"type": "Point","coordinates": [-74.37806457210715,-9.15438848075216]}},
+{"type": "Feature","properties": {"NAME": "argentina","NAME_LONG": "Argentina","ADM0_A3_IS": "ARG","ADM0_A3_US": "ARG","WIKIDATAID": "Q414","NAME_EN": "Argentina"
+},
+"geometry": {"type": "Point","coordinates": [-65.1781906426369,-35.38755136485631]}},
+{"type": "Feature","properties": {"NAME": "dhekelia","NAME_LONG": "Dhekelia","ADM0_A3_IS": "GBR","ADM0_A3_US": "ESB","WIKIDATAID": "Q9206745","NAME_EN": "Dhekelia Cantonment"
+},
+"geometry": {"type": "Point","coordinates": [33.792996881125475,35.017796312297094]}},
+{"type": "Feature","properties": {"NAME": "cyprus","NAME_LONG": "Cyprus","ADM0_A3_IS": "CYP","ADM0_A3_US": "CYP","WIKIDATAID": "Q229","NAME_EN": "Cyprus"
+},
+"geometry": {"type": "Point","coordinates": [32.98999169732055,34.91521704381187]}},
+{"type": "Feature","properties": {"NAME": "india","NAME_LONG": "India","ADM0_A3_IS": "IND","ADM0_A3_US": "IND","WIKIDATAID": "Q668","NAME_EN": "India"
+},
+"geometry": {"type": "Point","coordinates": [79.6157216256458,22.88795251947475]}},
+{"type": "Feature","properties": {"NAME": "china","NAME_LONG": "China","ADM0_A3_IS": "CHN","ADM0_A3_US": "CHN","WIKIDATAID": "Q148","NAME_EN": "People's Republic of China"
+},
+"geometry": {"type": "Point","coordinates": [103.83157169004852,36.560115147303364]}},
+{"type": "Feature","properties": {"NAME": "israel","NAME_LONG": "Israel","ADM0_A3_IS": "ISR","ADM0_A3_US": "ISR","WIKIDATAID": "Q801","NAME_EN": "Israel"
+},
+"geometry": {"type": "Point","coordinates": [34.99603425494348,31.443960609581573]}},
+{"type": "Feature","properties": {"NAME": "palestine","NAME_LONG": "Palestine","ADM0_A3_IS": "PSE","ADM0_A3_US": "PSX","WIKIDATAID": "Q23792","NAME_EN": "Palestine"
+},
+"geometry": {"type": "Point","coordinates": [35.1978123627652,31.91608337816735]}},
+{"type": "Feature","properties": {"NAME": "lebanon","NAME_LONG": "Lebanon","ADM0_A3_IS": "LBN","ADM0_A3_US": "LBN","WIKIDATAID": "Q822","NAME_EN": "Lebanon"
+},
+"geometry": {"type": "Point","coordinates": [35.87993656035061,33.92035932831538]}},
+{"type": "Feature","properties": {"NAME": "ethiopia","NAME_LONG": "Ethiopia","ADM0_A3_IS": "ETH","ADM0_A3_US": "ETH","WIKIDATAID": "Q115","NAME_EN": "Ethiopia"
+},
+"geometry": {"type": "Point","coordinates": [39.60055103486152,8.622951736470814]}},
+{"type": "Feature","properties": {"NAME": "south sudan","NAME_LONG": "South Sudan","ADM0_A3_IS": "SSD","ADM0_A3_US": "SDS","WIKIDATAID": "Q958","NAME_EN": "South Sudan"
+},
+"geometry": {"type": "Point","coordinates": [30.301119612240235,7.283530707685808]}},
+{"type": "Feature","properties": {"NAME": "somalia","NAME_LONG": "Somalia","ADM0_A3_IS": "SOM","ADM0_A3_US": "SOM","WIKIDATAID": "Q1045","NAME_EN": "Somalia"
+},
+"geometry": {"type": "Point","coordinates": [45.706144375313585,4.748836792329111]}},
+{"type": "Feature","properties": {"NAME": "kenya","NAME_LONG": "Kenya","ADM0_A3_IS": "KEN","ADM0_A3_US": "KEN","WIKIDATAID": "Q114","NAME_EN": "Kenya"
+},
+"geometry": {"type": "Point","coordinates": [37.822439906248086,0.550766077128081]}},
+{"type": "Feature","properties": {"NAME": "pakistan","NAME_LONG": "Pakistan","ADM0_A3_IS": "PAK","ADM0_A3_US": "PAK","WIKIDATAID": "Q843","NAME_EN": "Pakistan"
+},
+"geometry": {"type": "Point","coordinates": [69.3413431056524,29.948496826001858]}},
+{"type": "Feature","properties": {"NAME": "malawi","NAME_LONG": "Malawi","ADM0_A3_IS": "MWI","ADM0_A3_US": "MWI","WIKIDATAID": "Q1020","NAME_EN": "Malawi"
+},
+"geometry": {"type": "Point","coordinates": [34.28990780344173,-13.217225864686151]}},
+{"type": "Feature","properties": {"NAME": "tanzania","NAME_LONG": "Tanzania","ADM0_A3_IS": "TZA","ADM0_A3_US": "TZA","WIKIDATAID": "Q924","NAME_EN": "Tanzania"
+},
+"geometry": {"type": "Point","coordinates": [34.81358642052754,-6.275097481093868]}},
+{"type": "Feature","properties": {"NAME": "syria","NAME_LONG": "Syria","ADM0_A3_IS": "SYR","ADM0_A3_US": "SYR","WIKIDATAID": "Q858","NAME_EN": "Syria"
+},
+"geometry": {"type": "Point","coordinates": [38.504564356341774,35.02300228338533]}},
+{"type": "Feature","properties": {"NAME": "somaliland","NAME_LONG": "Somaliland","ADM0_A3_IS": "SOM","ADM0_A3_US": "SOM","WIKIDATAID": "Q34754","NAME_EN": "Somaliland"
+},
+"geometry": {"type": "Point","coordinates": [46.25481907392482,9.731015816127845]}},
+{"type": "Feature","properties": {"NAME": "france","NAME_LONG": "France","ADM0_A3_IS": "FRA","ADM0_A3_US": "FRA","WIKIDATAID": "Q142","NAME_EN": "France"
+},
+"geometry": {"type": "Point","coordinates": [3.2958984375,46.9502622421856]}},
+{"type": "Feature","properties": {"NAME": "suriname","NAME_LONG": "Suriname","ADM0_A3_IS": "SUR","ADM0_A3_US": "SUR","WIKIDATAID": "Q730","NAME_EN": "Suriname"
+},
+"geometry": {"type": "Point","coordinates": [-55.91107136077704,4.131244979145136]}},
+{"type": "Feature","properties": {"NAME": "guyana","NAME_LONG": "Guyana","ADM0_A3_IS": "GUY","ADM0_A3_US": "GUY","WIKIDATAID": "Q734","NAME_EN": "Guyana"
+},
+"geometry": {"type": "Point","coordinates": [-58.98011465278882,4.793461869442655]}},
+{"type": "Feature","properties": {"NAME": "south korea","NAME_LONG": "Republic of Korea","ADM0_A3_IS": "KOR","ADM0_A3_US": "KOR","WIKIDATAID": "Q884","NAME_EN": "South Korea"
+},
+"geometry": {"type": "Point","coordinates": [127.81909396670257,36.373353545846236]}},
+{"type": "Feature","properties": {"NAME": "north korea","NAME_LONG": "Dem. Rep. Korea","ADM0_A3_IS": "PRK","ADM0_A3_US": "PRK","WIKIDATAID": "Q423","NAME_EN": "North Korea"
+},
+"geometry": {"type": "Point","coordinates": [127.18377777896634,40.15064274466065]}},
+{"type": "Feature","properties": {"NAME": "morocco","NAME_LONG": "Morocco","ADM0_A3_IS": "MAR","ADM0_A3_US": "MAR","WIKIDATAID": "Q1028","NAME_EN": "Morocco"
+},
+"geometry": {"type": "Point","coordinates": [-8.396435049672846,29.84169214305202]}},
+{"type": "Feature","properties": {"NAME": "western sahara","NAME_LONG": "Western Sahara","ADM0_A3_IS": "MAR","ADM0_A3_US": "SAH","WIKIDATAID": "Q6250","NAME_EN": "Western Sahara"
+},
+"geometry": {"type": "Point","coordinates": [-12.214961674551875,24.23256063542087]}},
+{"type": "Feature","properties": {"NAME": "costa rica","NAME_LONG": "Costa Rica","ADM0_A3_IS": "CRI","ADM0_A3_US": "CRI","WIKIDATAID": "Q800","NAME_EN": "Costa Rica"
+},
+"geometry": {"type": "Point","coordinates": [-84.19359756003357,9.973309520250844]}},
+{"type": "Feature","properties": {"NAME": "nicaragua","NAME_LONG": "Nicaragua","ADM0_A3_IS": "NIC","ADM0_A3_US": "NIC","WIKIDATAID": "Q811","NAME_EN": "Nicaragua"
+},
+"geometry": {"type": "Point","coordinates": [-85.03333837244406,12.845392598361656]}},
+{"type": "Feature","properties": {"NAME": "congo","NAME_LONG": "Republic of the Congo","ADM0_A3_IS": "COG","ADM0_A3_US": "COG","WIKIDATAID": "Q971","NAME_EN": "Republic of the Congo"
+},
+"geometry": {"type": "Point","coordinates": [15.21833615591201,-0.838879989081795]}},
+{"type": "Feature","properties": {"NAME": "democratic republic of the congo","NAME_LONG": "Democratic Republic of the Congo","ADM0_A3_IS": "COD","ADM0_A3_US": "COD","WIKIDATAID": "Q974","NAME_EN": "Democratic Republic of the Congo"
+},
+"geometry": {"type": "Point","coordinates": [23.645113654233672,-2.879799873230942]}},
+{"type": "Feature","properties": {"NAME": "bhutan","NAME_LONG": "Bhutan","ADM0_A3_IS": "BTN","ADM0_A3_US": "BTN","WIKIDATAID": "Q917","NAME_EN": "Bhutan"
+},
+"geometry": {"type": "Point","coordinates": [90.40446020012097,27.42175656152405]}},
+{"type": "Feature","properties": {"NAME": "ukraine","NAME_LONG": "Ukraine","ADM0_A3_IS": "UKR","ADM0_A3_US": "UKR","WIKIDATAID": "Q212","NAME_EN": "Ukraine"
+},
+"geometry": {"type": "Point","coordinates": [31.25530614318157,49.160078290898056]}},
+{"type": "Feature","properties": {"NAME": "belarus","NAME_LONG": "Belarus","ADM0_A3_IS": "BLR","ADM0_A3_US": "BLR","WIKIDATAID": "Q184","NAME_EN": "Belarus"
+},
+"geometry": {"type": "Point","coordinates": [28.033566394959315,53.53188047834662]}},
+{"type": "Feature","properties": {"NAME": "namibia","NAME_LONG": "Namibia","ADM0_A3_IS": "NAM","ADM0_A3_US": "NAM","WIKIDATAID": "Q1030","NAME_EN": "Namibia"
+},
+"geometry": {"type": "Point","coordinates": [17.21113319741009,-22.12924663866726]}},
+{"type": "Feature","properties": {"NAME": "south africa","NAME_LONG": "South Africa","ADM0_A3_IS": "ZAF","ADM0_A3_US": "ZAF","WIKIDATAID": "Q258","NAME_EN": "South Africa"
+},
+"geometry": {"type": "Point","coordinates": [25.087364435238115,-29.001032178253535]}},
+{"type": "Feature","properties": {"NAME": "saint martin","NAME_LONG": "Saint-Martin","ADM0_A3_IS": "MAF","ADM0_A3_US": "MAF","WIKIDATAID": "Q126125","NAME_EN": "Saint Martin"
+},
+"geometry": {"type": "Point","coordinates": [-63.05507063109814,18.077620618727945]}},
+{"type": "Feature","properties": {"NAME": "sint maarten","NAME_LONG": "Sint Maarten","ADM0_A3_IS": "SXM","ADM0_A3_US": "SXM","WIKIDATAID": "Q26273","NAME_EN": "Sint Maarten"
+},
+"geometry": {"type": "Point","coordinates": [-63.070132700299546,18.040630483456788]}},
+{"type": "Feature","properties": {"NAME": "oman","NAME_LONG": "Oman","ADM0_A3_IS": "OMN","ADM0_A3_US": "OMN","WIKIDATAID": "Q842","NAME_EN": "Oman"
+},
+"geometry": {"type": "Point","coordinates": [56.09265654256306,20.601805654197815]}},
+{"type": "Feature","properties": {"NAME": "uzbekistan","NAME_LONG": "Uzbekistan","ADM0_A3_IS": "UZB","ADM0_A3_US": "UZB","WIKIDATAID": "Q265","NAME_EN": "Uzbekistan"
+},
+"geometry": {"type": "Point","coordinates": [63.1399088906856,41.75603586883188]}},
+{"type": "Feature","properties": {"NAME": "kazakhstan","NAME_LONG": "Kazakhstan","ADM0_A3_IS": "KAZ","ADM0_A3_US": "KAZ","WIKIDATAID": "Q232","NAME_EN": "Kazakhstan"
+},
+"geometry": {"type": "Point","coordinates": [67.29596458659323,48.16065184728959]}},
+{"type": "Feature","properties": {"NAME": "tajikistan","NAME_LONG": "Tajikistan","ADM0_A3_IS": "TJK","ADM0_A3_US": "TJK","WIKIDATAID": "Q863","NAME_EN": "Tajikistan"
+},
+"geometry": {"type": "Point","coordinates": [71.01583423690649,38.5298856470237]}},
+{"type": "Feature","properties": {"NAME": "lithuania","NAME_LONG": "Lithuania","ADM0_A3_IS": "LTU","ADM0_A3_US": "LTU","WIKIDATAID": "Q37","NAME_EN": "Lithuania"
+},
+"geometry": {"type": "Point","coordinates": [23.88824901574169,55.32702364118213]}},
+{"type": "Feature","properties": {"NAME": "brazil","NAME_LONG": "Brazil","ADM0_A3_IS": "BRA","ADM0_A3_US": "BRA","WIKIDATAID": "Q155","NAME_EN": "Brazil"
+},
+"geometry": {"type": "Point","coordinates": [-53.092482350709574,-10.78085885093039]}},
+{"type": "Feature","properties": {"NAME": "uruguay","NAME_LONG": "Uruguay","ADM0_A3_IS": "URY","ADM0_A3_US": "URY","WIKIDATAID": "Q77","NAME_EN": "Uruguay"
+},
+"geometry": {"type": "Point","coordinates": [-56.017155095430276,-32.79821074905005]}},
+{"type": "Feature","properties": {"NAME": "mongolia","NAME_LONG": "Mongolia","ADM0_A3_IS": "MNG","ADM0_A3_US": "MNG","WIKIDATAID": "Q711","NAME_EN": "Mongolia"
+},
+"geometry": {"type": "Point","coordinates": [103.05628666206529,46.8258060660322]}},
+{"type": "Feature","properties": {"NAME": "russia","NAME_LONG": "Russian Federation","ADM0_A3_IS": "RUS","ADM0_A3_US": "RUS","WIKIDATAID": "Q159","NAME_EN": "Russia"
+},
+"geometry": {"type": "Point","coordinates": [96.62758842282376,61.96685291889969]}},
+{"type": "Feature","properties": {"NAME": "czechia","NAME_LONG": "Czech Republic","ADM0_A3_IS": "CZE","ADM0_A3_US": "CZE","WIKIDATAID": "Q213","NAME_EN": "Czech Republic"
+},
+"geometry": {"type": "Point","coordinates": [15.314103103255446,49.73244820549173]}},
+{"type": "Feature","properties": {"NAME": "germany","NAME_LONG": "Germany","ADM0_A3_IS": "DEU","ADM0_A3_US": "DEU","WIKIDATAID": "Q183","NAME_EN": "Germany"
+},
+"geometry": {"type": "Point","coordinates": [10.381493843426865,51.106363486335496]}},
+{"type": "Feature","properties": {"NAME": "estonia","NAME_LONG": "Estonia","ADM0_A3_IS": "EST","ADM0_A3_US": "EST","WIKIDATAID": "Q191","NAME_EN": "Estonia"
+},
+"geometry": {"type": "Point","coordinates": [25.535793207468018,58.67101415039652]}},
+{"type": "Feature","properties": {"NAME": "latvia","NAME_LONG": "Latvia","ADM0_A3_IS": "LVA","ADM0_A3_US": "LVA","WIKIDATAID": "Q211","NAME_EN": "Latvia"
+},
+"geometry": {"type": "Point","coordinates": [24.908622427569235,56.851819479606235]}},
+{"type": "Feature","properties": {"NAME": "norway","NAME_LONG": "Norway","ADM0_A3_IS": "NOR","ADM0_A3_US": "NOR","WIKIDATAID": "Q20","NAME_EN": "Norway"
+},
+"geometry": {"type": "Point","coordinates": [8.876953125,60.28340847828243]}},
+{"type": "Feature","properties": {"NAME": "sweden","NAME_LONG": "Sweden","ADM0_A3_IS": "SWE","ADM0_A3_US": "SWE","WIKIDATAID": "Q34","NAME_EN": "Sweden"
+},
+"geometry": {"type": "Point","coordinates": [16.75446643393161,62.77709986484409]}},
+{"type": "Feature","properties": {"NAME": "finland","NAME_LONG": "Finland","ADM0_A3_IS": "FIN","ADM0_A3_US": "FIN","WIKIDATAID": "Q33","NAME_EN": "Finland"
+},
+"geometry": {"type": "Point","coordinates": [26.2707950346287,64.4953589823139]}},
+{"type": "Feature","properties": {"NAME": "vietnam","NAME_LONG": "Vietnam","ADM0_A3_IS": "VNM","ADM0_A3_US": "VNM","WIKIDATAID": "Q881","NAME_EN": "Vietnam"
+},
+"geometry": {"type": "Point","coordinates": [106.30093523657634,16.642182843821004]}},
+{"type": "Feature","properties": {"NAME": "cambodia","NAME_LONG": "Cambodia","ADM0_A3_IS": "KHM","ADM0_A3_US": "KHM","WIKIDATAID": "Q424","NAME_EN": "Cambodia"
+},
+"geometry": {"type": "Point","coordinates": [104.90280421515192,12.715562475443047]}},
+{"type": "Feature","properties": {"NAME": "luxembourg","NAME_LONG": "Luxembourg","ADM0_A3_IS": "LUX","ADM0_A3_US": "LUX","WIKIDATAID": "Q32","NAME_EN": "Luxembourg"
+},
+"geometry": {"type": "Point","coordinates": [6.071763967273559,49.76682427581087]}},
+{"type": "Feature","properties": {"NAME": "united arab rmirates","NAME_LONG": "United Arab Emirates","ADM0_A3_IS": "ARE","ADM0_A3_US": "ARE","WIKIDATAID": "Q878","NAME_EN": "United Arab Emirates"
+},
+"geometry": {"type": "Point","coordinates": [54.30079560308414,23.905783055559723]}},
+{"type": "Feature","properties": {"NAME": "belgium","NAME_LONG": "Belgium","ADM0_A3_IS": "BEL","ADM0_A3_US": "BEL","WIKIDATAID": "Q31","NAME_EN": "Belgium"
+},
+"geometry": {"type": "Point","coordinates": [4.639960507668174,50.63746163533435]}},
+{"type": "Feature","properties": {"NAME": "georgia","NAME_LONG": "Georgia","ADM0_A3_IS": "GEO","ADM0_A3_US": "GEO","WIKIDATAID": "Q230","NAME_EN": "Georgia"
+},
+"geometry": {"type": "Point","coordinates": [43.50752633170685,42.16880077667827]}},
+{"type": "Feature","properties": {"NAME": "macedonia","NAME_LONG": "Macedonia","ADM0_A3_IS": "MKD","ADM0_A3_US": "MKD","WIKIDATAID": "Q221","NAME_EN": "Republic of Macedonia"
+},
+"geometry": {"type": "Point","coordinates": [21.68383041005993,41.59500492668465]}},
+{"type": "Feature","properties": {"NAME": "albania","NAME_LONG": "Albania","ADM0_A3_IS": "ALB","ADM0_A3_US": "ALB","WIKIDATAID": "Q222","NAME_EN": "Albania"
+},
+"geometry": {"type": "Point","coordinates": [20.05381919704362,41.142482060445545]}},
+{"type": "Feature","properties": {"NAME": "azerbaijan","NAME_LONG": "Azerbaijan","ADM0_A3_IS": "AZE","ADM0_A3_US": "AZE","WIKIDATAID": "Q227","NAME_EN": "Azerbaijan"
+},
+"geometry": {"type": "Point","coordinates": [47.54211124798294,40.289119040096814]}},
+{"type": "Feature","properties": {"NAME": "kosovo","NAME_LONG": "Kosovo","ADM0_A3_IS": "KOS","ADM0_A3_US": "KOS","WIKIDATAID": "Q1246","NAME_EN": "Kosovo"
+},
+"geometry": {"type": "Point","coordinates": [20.873743193547163,42.57288338533321]}},
+{"type": "Feature","properties": {"NAME": "turkey","NAME_LONG": "Turkey","ADM0_A3_IS": "TUR","ADM0_A3_US": "TUR","WIKIDATAID": "Q43","NAME_EN": "Turkey"
+},
+"geometry": {"type": "Point","coordinates": [35.16723939316205,39.06108061573045]}},
+{"type": "Feature","properties": {"NAME": "spain","NAME_LONG": "Spain","ADM0_A3_IS": "ESP","ADM0_A3_US": "ESP","WIKIDATAID": "Q29","NAME_EN": "Spain"
+},
+"geometry": {"type": "Point","coordinates": [-3.652637016952276,40.22723370141882]}},
+{"type": "Feature","properties": {"NAME": "laos","NAME_LONG": "Lao PDR","ADM0_A3_IS": "LAO","ADM0_A3_US": "LAO","WIKIDATAID": "Q819","NAME_EN": "Laos"
+},
+"geometry": {"type": "Point","coordinates": [103.7378722004685,18.502301472821873]}},
+{"type": "Feature","properties": {"NAME": "kyrgyzstan","NAME_LONG": "Kyrgyzstan","ADM0_A3_IS": "KGZ","ADM0_A3_US": "KGZ","WIKIDATAID": "Q813","NAME_EN": "Kyrgyzstan"
+},
+"geometry": {"type": "Point","coordinates": [74.54166938687005,41.4619186595216]}},
+{"type": "Feature","properties": {"NAME": "armenia","NAME_LONG": "Armenia","ADM0_A3_IS": "ARM","ADM0_A3_US": "ARM","WIKIDATAID": "Q399","NAME_EN": "Armenia"
+},
+"geometry": {"type": "Point","coordinates": [44.93230121812847,40.28813415391144]}},
+{"type": "Feature","properties": {"NAME": "denmark","NAME_LONG": "Denmark","ADM0_A3_IS": "DNK","ADM0_A3_US": "DNK","WIKIDATAID": "Q35","NAME_EN": "Denmark"
+},
+"geometry": {"type": "Point","coordinates": [10.051389702776833,55.965377456637846]}},
+{"type": "Feature","properties": {"NAME": "libya","NAME_LONG": "Libya","ADM0_A3_IS": "LBY","ADM0_A3_US": "LBY","WIKIDATAID": "Q1016","NAME_EN": "Libya"
+},
+"geometry": {"type": "Point","coordinates": [18.009605121039368,27.030277975756945]}},
+{"type": "Feature","properties": {"NAME": "tunisia","NAME_LONG": "Tunisia","ADM0_A3_IS": "TUN","ADM0_A3_US": "TUN","WIKIDATAID": "Q948","NAME_EN": "Tunisia"
+},
+"geometry": {"type": "Point","coordinates": [9.554626245563435,34.11940522293032]}},
+{"type": "Feature","properties": {"NAME": "romania","NAME_LONG": "Romania","ADM0_A3_IS": "ROU","ADM0_A3_US": "ROU","WIKIDATAID": "Q218","NAME_EN": "Romania"
+},
+"geometry": {"type": "Point","coordinates": [24.97294185520809,45.853464097817536]}},
+{"type": "Feature","properties": {"NAME": "hungary","NAME_LONG": "Hungary","ADM0_A3_IS": "HUN","ADM0_A3_US": "HUN","WIKIDATAID": "Q28","NAME_EN": "Hungary"
+},
+"geometry": {"type": "Point","coordinates": [19.396759267358174,47.163243686593276]}},
+{"type": "Feature","properties": {"NAME": "slovakia","NAME_LONG": "Slovakia","ADM0_A3_IS": "SVK","ADM0_A3_US": "SVK","WIKIDATAID": "Q214","NAME_EN": "Slovakia"
+},
+"geometry": {"type": "Point","coordinates": [19.480382971203444,48.70493530170968]}},
+{"type": "Feature","properties": {"NAME": "poland","NAME_LONG": "Poland","ADM0_A3_IS": "POL","ADM0_A3_US": "POL","WIKIDATAID": "Q36","NAME_EN": "Poland"
+},
+"geometry": {"type": "Point","coordinates": [19.39432213976466,52.124771818873704]}},
+{"type": "Feature","properties": {"NAME": "ireland","NAME_LONG": "Ireland","ADM0_A3_IS": "IRL","ADM0_A3_US": "IRL","WIKIDATAID": "Q27","NAME_EN": "Ireland"
+},
+"geometry": {"type": "Point","coordinates": [-8.14504467255118,53.17822137271367]}},
+{"type": "Feature","properties": {"NAME": "united kingdom","NAME_LONG": "United Kingdom","ADM0_A3_IS": "GBR","ADM0_A3_US": "GBR","WIKIDATAID": "Q145","NAME_EN": "United Kingdom"
+},
+"geometry": {"type": "Point","coordinates": [-2.886951519374981,54.14704818822808]}},
+{"type": "Feature","properties": {"NAME": "greece","NAME_LONG": "Greece","ADM0_A3_IS": "GRC","ADM0_A3_US": "GRC","WIKIDATAID": "Q41","NAME_EN": "Greece"
+},
+"geometry": {"type": "Point","coordinates": [22.974818925497363,39.05118118244428]}},
+{"type": "Feature","properties": {"NAME": "zambia","NAME_LONG": "Zambia","ADM0_A3_IS": "ZMB","ADM0_A3_US": "ZMB","WIKIDATAID": "Q953","NAME_EN": "Zambia"
+},
+"geometry": {"type": "Point","coordinates": [27.7742123347968,-13.460110018365599]}},
+{"type": "Feature","properties": {"NAME": "sierra leone","NAME_LONG": "Sierra Leone","ADM0_A3_IS": "SLE","ADM0_A3_US": "SLE","WIKIDATAID": "Q1044","NAME_EN": "Sierra Leone"
+},
+"geometry": {"type": "Point","coordinates": [-11.795015578320847,8.563085842860374]}},
+{"type": "Feature","properties": {"NAME": "guinea","NAME_LONG": "Guinea","ADM0_A3_IS": "GIN","ADM0_A3_US": "GIN","WIKIDATAID": "Q1006","NAME_EN": "Guinea"
+},
+"geometry": {"type": "Point","coordinates": [-10.94306126600144,10.434649046539635]}},
+{"type": "Feature","properties": {"NAME": "liberia","NAME_LONG": "Liberia","ADM0_A3_IS": "LBR","ADM0_A3_US": "LBR","WIKIDATAID": "Q1014","NAME_EN": "Liberia"
+},
+"geometry": {"type": "Point","coordinates": [-9.319863993262315,6.452232554621305]}},
+{"type": "Feature","properties": {"NAME": "central african republic","NAME_LONG": "Central African Republic","ADM0_A3_IS": "CAF","ADM0_A3_US": "CAF","WIKIDATAID": "Q929","NAME_EN": "Central African Republic"
+},
+"geometry": {"type": "Point","coordinates": [20.464809197122108,6.566321860159108]}},
+{"type": "Feature","properties": {"NAME": "sudan","NAME_LONG": "Sudan","ADM0_A3_IS": "SDN","ADM0_A3_US": "SDN","WIKIDATAID": "Q1049","NAME_EN": "Sudan"
+},
+"geometry": {"type": "Point","coordinates": [29.939617816084144,15.986881165181932]}},
+{"type": "Feature","properties": {"NAME": "djibouti","NAME_LONG": "Djibouti","ADM0_A3_IS": "DJI","ADM0_A3_US": "DJI","WIKIDATAID": "Q977","NAME_EN": "Djibouti"
+},
+"geometry": {"type": "Point","coordinates": [42.566453652312454,11.750155875505786]}},
+{"type": "Feature","properties": {"NAME": "eritrea","NAME_LONG": "Eritrea","ADM0_A3_IS": "ERI","ADM0_A3_US": "ERI","WIKIDATAID": "Q986","NAME_EN": "Eritrea"
+},
+"geometry": {"type": "Point","coordinates": [38.85294444471567,15.357513732313867]}},
+{"type": "Feature","properties": {"NAME": "austria","NAME_LONG": "Austria","ADM0_A3_IS": "AUT","ADM0_A3_US": "AUT","WIKIDATAID": "Q40","NAME_EN": "Austria"
+},
+"geometry": {"type": "Point","coordinates": [14.130672887313157,47.5856569205222]}},
+{"type": "Feature","properties": {"NAME": "iraq","NAME_LONG": "Iraq","ADM0_A3_IS": "IRQ","ADM0_A3_US": "IRQ","WIKIDATAID": "Q796","NAME_EN": "Iraq"
+},
+"geometry": {"type": "Point","coordinates": [43.744977016238074,33.03980377980842]}},
+{"type": "Feature","properties": {"NAME": "italy","NAME_LONG": "Italy","ADM0_A3_IS": "ITA","ADM0_A3_US": "ITA","WIKIDATAID": "Q38","NAME_EN": "Italy"
+},
+"geometry": {"type": "Point","coordinates": [12.07190709272926,42.78643399636794]}},
+{"type": "Feature","properties": {"NAME": "switzerland","NAME_LONG": "Switzerland","ADM0_A3_IS": "CHE","ADM0_A3_US": "CHE","WIKIDATAID": "Q39","NAME_EN": "Switzerland"
+},
+"geometry": {"type": "Point","coordinates": [8.215353657454004,46.79895686977883]}},
+{"type": "Feature","properties": {"NAME": "iran","NAME_LONG": "Iran","ADM0_A3_IS": "IRN","ADM0_A3_US": "IRN","WIKIDATAID": "Q794","NAME_EN": "Iran"
+},
+"geometry": {"type": "Point","coordinates": [54.2769467292128,32.5706781779139]}},
+{"type": "Feature","properties": {"NAME": "netherlands","NAME_LONG": "Netherlands","ADM0_A3_IS": "NLD","ADM0_A3_US": "NLD","WIKIDATAID": "Q55","NAME_EN": "Netherlands"
+},
+"geometry": {"type": "Point","coordinates": [5.216814209195711,52.06979165435115]}},
+{"type": "Feature","properties": {"NAME": "liechtenstein","NAME_LONG": "Liechtenstein","ADM0_A3_IS": "LIE","ADM0_A3_US": "LIE","WIKIDATAID": "Q347","NAME_EN": "Liechtenstein"
+},
+"geometry": {"type": "Point","coordinates": [9.540900288636877,47.13820642945771]}},
+{"type": "Feature","properties": {"NAME": "ivory coast","NAME_LONG": "Côte d'Ivoire","ADM0_A3_IS": "CIV","ADM0_A3_US": "CIV","WIKIDATAID": "Q1008","NAME_EN": "Ivory Coast"
+},
+"geometry": {"type": "Point","coordinates": [-5.569000185937266,7.627966516559823]}},
+{"type": "Feature","properties": {"NAME": "serbia","NAME_LONG": "Serbia","ADM0_A3_IS": "SRB","ADM0_A3_US": "SRB","WIKIDATAID": "Q403","NAME_EN": "Serbia"
+},
+"geometry": {"type": "Point","coordinates": [20.7904024710302,44.221375921176374]}},
+{"type": "Feature","properties": {"NAME": "mali","NAME_LONG": "Mali","ADM0_A3_IS": "MLI","ADM0_A3_US": "MLI","WIKIDATAID": "Q912","NAME_EN": "Mali"
+},
+"geometry": {"type": "Point","coordinates": [-3.539079412022707,17.34416279095623]}},
+{"type": "Feature","properties": {"NAME": "senegal","NAME_LONG": "Senegal","ADM0_A3_IS": "SEN","ADM0_A3_US": "SEN","WIKIDATAID": "Q1041","NAME_EN": "Senegal"
+},
+"geometry": {"type": "Point","coordinates": [-14.471306027638754,14.367788578853146]}},
+{"type": "Feature","properties": {"NAME": "nigeria","NAME_LONG": "Nigeria","ADM0_A3_IS": "NGA","ADM0_A3_US": "NGA","WIKIDATAID": "Q1033","NAME_EN": "Nigeria"
+},
+"geometry": {"type": "Point","coordinates": [8.09123927608595,9.595314826321532]}},
+{"type": "Feature","properties": {"NAME": "benin","NAME_LONG": "Benin","ADM0_A3_IS": "BEN","ADM0_A3_US": "BEN","WIKIDATAID": "Q962","NAME_EN": "Benin"
+},
+"geometry": {"type": "Point","coordinates": [2.328740730882776,9.641216685182675]}},
+{"type": "Feature","properties": {"NAME": "angola","NAME_LONG": "Angola","ADM0_A3_IS": "AGO","ADM0_A3_US": "AGO","WIKIDATAID": "Q916","NAME_EN": "Angola"
+},
+"geometry": {"type": "Point","coordinates": [17.53698501236062,-12.292315690929811]}},
+{"type": "Feature","properties": {"NAME": "croatia","NAME_LONG": "Croatia","ADM0_A3_IS": "HRV","ADM0_A3_US": "HRV","WIKIDATAID": "Q224","NAME_EN": "Croatia"
+},
+"geometry": {"type": "Point","coordinates": [16.398548837820275,45.06772616795662]}},
+{"type": "Feature","properties": {"NAME": "slovenia","NAME_LONG": "Slovenia","ADM0_A3_IS": "SVN","ADM0_A3_US": "SVN","WIKIDATAID": "Q215","NAME_EN": "Slovenia"
+},
+"geometry": {"type": "Point","coordinates": [14.808089624829949,46.116110984325694]}},
+{"type": "Feature","properties": {"NAME": "qatar","NAME_LONG": "Qatar","ADM0_A3_IS": "QAT","ADM0_A3_US": "QAT","WIKIDATAID": "Q846","NAME_EN": "Qatar"
+},
+"geometry": {"type": "Point","coordinates": [51.18683129355732,25.31307459410549]}},
+{"type": "Feature","properties": {"NAME": "saudi arabia","NAME_LONG": "Saudi Arabia","ADM0_A3_IS": "SAU","ADM0_A3_US": "SAU","WIKIDATAID": "Q851","NAME_EN": "Saudi Arabia"
+},
+"geometry": {"type": "Point","coordinates": [44.53686367735415,24.12232706946392]}},
+{"type": "Feature","properties": {"NAME": "botswana","NAME_LONG": "Botswana","ADM0_A3_IS": "BWA","ADM0_A3_US": "BWA","WIKIDATAID": "Q963","NAME_EN": "Botswana"
+},
+"geometry": {"type": "Point","coordinates": [23.798986732813958,-22.185772321029273]}},
+{"type": "Feature","properties": {"NAME": "zimbabwe","NAME_LONG": "Zimbabwe","ADM0_A3_IS": "ZWE","ADM0_A3_US": "ZWE","WIKIDATAID": "Q954","NAME_EN": "Zimbabwe"
+},
+"geometry": {"type": "Point","coordinates": [29.851884620576858,-19.002536710001976]}},
+{"type": "Feature","properties": {"NAME": "bulgaria","NAME_LONG": "Bulgaria","ADM0_A3_IS": "BGR","ADM0_A3_US": "BGR","WIKIDATAID": "Q219","NAME_EN": "Bulgaria"
+},
+"geometry": {"type": "Point","coordinates": [25.217512511716738,42.76852261435958]}},
+{"type": "Feature","properties": {"NAME": "thailand","NAME_LONG": "Thailand","ADM0_A3_IS": "THA","ADM0_A3_US": "THA","WIKIDATAID": "Q869","NAME_EN": "Thailand"
+},
+"geometry": {"type": "Point","coordinates": [101.00333333152456,15.114399997938756]}},
+{"type": "Feature","properties": {"NAME": "san marino","NAME_LONG": "San Marino","ADM0_A3_IS": "SMR","ADM0_A3_US": "SMR","WIKIDATAID": "Q238","NAME_EN": "San Marino"
+},
+"geometry": {"type": "Point","coordinates": [12.442222558812462,43.9364661945967]}},
+{"type": "Feature","properties": {"NAME": "haiti","NAME_LONG": "Haiti","ADM0_A3_IS": "HTI","ADM0_A3_US": "HTI","WIKIDATAID": "Q790","NAME_EN": "Haiti"
+},
+"geometry": {"type": "Point","coordinates": [-72.69087406294184,18.938371436631975]}},
+{"type": "Feature","properties": {"NAME": "dominican republic","NAME_LONG": "Dominican Republic","ADM0_A3_IS": "DOM","ADM0_A3_US": "DOM","WIKIDATAID": "Q786","NAME_EN": "Dominican Republic"
+},
+"geometry": {"type": "Point","coordinates": [-70.49658653845668,18.896365870018776]}},
+{"type": "Feature","properties": {"NAME": "chad","NAME_LONG": "Chad","ADM0_A3_IS": "TCD","ADM0_A3_US": "TCD","WIKIDATAID": "Q657","NAME_EN": "Chad"
+},
+"geometry": {"type": "Point","coordinates": [18.64625111400218,15.33307810506183]}},
+{"type": "Feature","properties": {"NAME": "kuwait","NAME_LONG": "Kuwait","ADM0_A3_IS": "KWT","ADM0_A3_US": "KWT","WIKIDATAID": "Q817","NAME_EN": "Kuwait"
+},
+"geometry": {"type": "Point","coordinates": [47.594623502581406,29.34004208696261]}},
+{"type": "Feature","properties": {"NAME": "el salvador","NAME_LONG": "El Salvador","ADM0_A3_IS": "SLV","ADM0_A3_US": "SLV","WIKIDATAID": "Q792","NAME_EN": "El Salvador"
+},
+"geometry": {"type": "Point","coordinates": [-88.87103252208958,13.735849549208531]}},
+{"type": "Feature","properties": {"NAME": "guatemala","NAME_LONG": "Guatemala","ADM0_A3_IS": "GTM","ADM0_A3_US": "GTM","WIKIDATAID": "Q774","NAME_EN": "Guatemala"
+},
+"geometry": {"type": "Point","coordinates": [-90.36015745805935,15.696016481240855]}},
+{"type": "Feature","properties": {"NAME": "east timor","NAME_LONG": "Timor-Leste","ADM0_A3_IS": "TLS","ADM0_A3_US": "TLS","WIKIDATAID": "Q574","NAME_EN": "East Timor"
+},
+"geometry": {"type": "Point","coordinates": [125.85107557065291,-8.823778733775619]}},
+{"type": "Feature","properties": {"NAME": "brunei","NAME_LONG": "Brunei Darussalam","ADM0_A3_IS": "BRN","ADM0_A3_US": "BRN","WIKIDATAID": "Q921","NAME_EN": "Brunei"
+},
+"geometry": {"type": "Point","coordinates": [114.72724575216533,4.516500312656111]}},
+{"type": "Feature","properties": {"NAME": "monaco","NAME_LONG": "Monaco","ADM0_A3_IS": "MCO","ADM0_A3_US": "MCO","WIKIDATAID": "Q235","NAME_EN": "Monaco"
+},
+"geometry": {"type": "Point","coordinates": [7.39897432482874,43.73984618741346]}},
+{"type": "Feature","properties": {"NAME": "algeria","NAME_LONG": "Algeria","ADM0_A3_IS": "DZA","ADM0_A3_US": "DZA","WIKIDATAID": "Q262","NAME_EN": "Algeria"
+},
+"geometry": {"type": "Point","coordinates": [2.653091376797369,28.14888965733064]}},
+{"type": "Feature","properties": {"NAME": "mozambique","NAME_LONG": "Mozambique","ADM0_A3_IS": "MOZ","ADM0_A3_US": "MOZ","WIKIDATAID": "Q1029","NAME_EN": "Mozambique"
+},
+"geometry": {"type": "Point","coordinates": [35.53810553248426,-17.270010026863297]}},
+{"type": "Feature","properties": {"NAME": "eswatini","NAME_LONG": "eSwatini","ADM0_A3_IS": "SWZ","ADM0_A3_US": "SWZ","WIKIDATAID": "Q1050","NAME_EN": "eSwatini"
+},
+"geometry": {"type": "Point","coordinates": [31.48002410300916,-26.56191434902775]}},
+{"type": "Feature","properties": {"NAME": "burundi","NAME_LONG": "Burundi","ADM0_A3_IS": "BDI","ADM0_A3_US": "BDI","WIKIDATAID": "Q967","NAME_EN": "Burundi"
+},
+"geometry": {"type": "Point","coordinates": [29.87508269442289,-3.35742533641364]}},
+{"type": "Feature","properties": {"NAME": "rwanda","NAME_LONG": "Rwanda","ADM0_A3_IS": "RWA","ADM0_A3_US": "RWA","WIKIDATAID": "Q1037","NAME_EN": "Rwanda"
+},
+"geometry": {"type": "Point","coordinates": [29.919060704593246,-1.992750527894079]}},
+{"type": "Feature","properties": {"NAME": "myanmar","NAME_LONG": "Myanmar","ADM0_A3_IS": "MMR","ADM0_A3_US": "MMR","WIKIDATAID": "Q836","NAME_EN": "Myanmar"
+},
+"geometry": {"type": "Point","coordinates": [96.48928940717676,21.16766986450683]}},
+{"type": "Feature","properties": {"NAME": "bangladesh","NAME_LONG": "Bangladesh","ADM0_A3_IS": "BGD","ADM0_A3_US": "BGD","WIKIDATAID": "Q902","NAME_EN": "Bangladesh"
+},
+"geometry": {"type": "Point","coordinates": [90.24200001632245,23.84567734760213]}},
+{"type": "Feature","properties": {"NAME": "andorra","NAME_LONG": "Andorra","ADM0_A3_IS": "AND","ADM0_A3_US": "AND","WIKIDATAID": "Q228","NAME_EN": "Andorra"
+},
+"geometry": {"type": "Point","coordinates": [1.56075624107325,42.54132652502616]}},
+{"type": "Feature","properties": {"NAME": "afghanistan","NAME_LONG": "Afghanistan","ADM0_A3_IS": "AFG","ADM0_A3_US": "AFG","WIKIDATAID": "Q889","NAME_EN": "Afghanistan"
+},
+"geometry": {"type": "Point","coordinates": [66.00844768723816,33.83626707196046]}},
+{"type": "Feature","properties": {"NAME": "montenegro","NAME_LONG": "Montenegro","ADM0_A3_IS": "MNE","ADM0_A3_US": "MNE","WIKIDATAID": "Q236","NAME_EN": "Montenegro"
+},
+"geometry": {"type": "Point","coordinates": [19.238500286403184,42.78581805456313]}},
+{"type": "Feature","properties": {"NAME": "bosnia and herzegovina","NAME_LONG": "Bosnia and Herzegovina","ADM0_A3_IS": "BIH","ADM0_A3_US": "BIH","WIKIDATAID": "Q225","NAME_EN": "Bosnia and Herzegovina"
+},
+"geometry": {"type": "Point","coordinates": [17.773408020339712,44.17173405647711]}},
+{"type": "Feature","properties": {"NAME": "uganda","NAME_LONG": "Uganda","ADM0_A3_IS": "UGA","ADM0_A3_US": "UGA","WIKIDATAID": "Q1036","NAME_EN": "Uganda"
+},
+"geometry": {"type": "Point","coordinates": [32.36703985272497,1.275691192508609]}},
+{"type": "Feature","properties": {"NAME": "guantanam0 bay naval base","NAME_LONG": "US Naval Base Guantanamo Bay","ADM0_A3_IS": -99,"ADM0_A3_US": "USG","WIKIDATAID": "Q762570","NAME_EN": "Guantanamo Bay Naval Base"
+},
+"geometry": {"type": "Point","coordinates": [-75.15467340559012,19.92925360144392]}},
+{"type": "Feature","properties": {"NAME": "cuba","NAME_LONG": "Cuba","ADM0_A3_IS": "CUB","ADM0_A3_US": "CUB","WIKIDATAID": "Q241","NAME_EN": "Cuba"
+},
+"geometry": {"type": "Point","coordinates": [-79.03521175659478,21.625298051297964]}},
+{"type": "Feature","properties": {"NAME": "honduras","NAME_LONG": "Honduras","ADM0_A3_IS": "HND","ADM0_A3_US": "HND","WIKIDATAID": "Q783","NAME_EN": "Honduras"
+},
+"geometry": {"type": "Point","coordinates": [-86.62522745581308,14.82100941980532]}},
+{"type": "Feature","properties": {"NAME": "ecuador","NAME_LONG": "Ecuador","ADM0_A3_IS": "ECU","ADM0_A3_US": "ECU","WIKIDATAID": "Q736","NAME_EN": "Ecuador"
+},
+"geometry": {"type": "Point","coordinates": [-78.77228231120478,-1.426241473610283]}},
+{"type": "Feature","properties": {"NAME": "colombia","NAME_LONG": "Colombia","ADM0_A3_IS": "COL","ADM0_A3_US": "COL","WIKIDATAID": "Q739","NAME_EN": "Colombia"
+},
+"geometry": {"type": "Point","coordinates": [-73.08384210425315,3.909413048850169]}},
+{"type": "Feature","properties": {"NAME": "paraguay","NAME_LONG": "Paraguay","ADM0_A3_IS": "PRY","ADM0_A3_US": "PRY","WIKIDATAID": "Q733","NAME_EN": "Paraguay"
+},
+"geometry": {"type": "Point","coordinates": [-58.39842280769376,-23.227518815638398]}},
+{"type": "Feature","properties": {"NAME": "portugal","NAME_LONG": "Portugal","ADM0_A3_IS": "PRT","ADM0_A3_US": "PRT","WIKIDATAID": "Q45","NAME_EN": "Portugal"
+},
+"geometry": {"type": "Point","coordinates": [-8.590837589005911,39.587146863899214]}},
+{"type": "Feature","properties": {"NAME": "moldova","NAME_LONG": "Moldova","ADM0_A3_IS": "MDA","ADM0_A3_US": "MDA","WIKIDATAID": "Q217","NAME_EN": "Moldova"
+},
+"geometry": {"type": "Point","coordinates": [28.461397130424853,47.19510148899436]}},
+{"type": "Feature","properties": {"NAME": "turkmenistan","NAME_LONG": "Turkmenistan","ADM0_A3_IS": "TKM","ADM0_A3_US": "TKM","WIKIDATAID": "Q874","NAME_EN": "Turkmenistan"
+},
+"geometry": {"type": "Point","coordinates": [59.37596073562031,39.11593390244868]}},
+{"type": "Feature","properties": {"NAME": "jordan","NAME_LONG": "Jordan","ADM0_A3_IS": "JOR","ADM0_A3_US": "JOR","WIKIDATAID": "Q810","NAME_EN": "Jordan"
+},
+"geometry": {"type": "Point","coordinates": [36.77092180236232,31.245574139571087]}},
+{"type": "Feature","properties": {"NAME": "nepal","NAME_LONG": "Nepal","ADM0_A3_IS": "NPL","ADM0_A3_US": "NPL","WIKIDATAID": "Q837","NAME_EN": "Nepal"
+},
+"geometry": {"type": "Point","coordinates": [83.91625344320002,28.24792218518564]}},
+{"type": "Feature","properties": {"NAME": "lesotho","NAME_LONG": "Lesotho","ADM0_A3_IS": "LSO","ADM0_A3_US": "LSO","WIKIDATAID": "Q1013","NAME_EN": "Lesotho"
+},
+"geometry": {"type": "Point","coordinates": [28.228622924994475,-29.579730444231824]}},
+{"type": "Feature","properties": {"NAME": "cameroon","NAME_LONG": "Cameroon","ADM0_A3_IS": "CMR","ADM0_A3_US": "CMR","WIKIDATAID": "Q1009","NAME_EN": "Cameroon"
+},
+"geometry": {"type": "Point","coordinates": [12.736984165340337,5.693058205843001]}},
+{"type": "Feature","properties": {"NAME": "gabon","NAME_LONG": "Gabon","ADM0_A3_IS": "GAB","ADM0_A3_US": "GAB","WIKIDATAID": "Q1000","NAME_EN": "Gabon"
+},
+"geometry": {"type": "Point","coordinates": [11.789569256833328,-0.591655916851915]}},
+{"type": "Feature","properties": {"NAME": "niger","NAME_LONG": "Niger","ADM0_A3_IS": "NER","ADM0_A3_US": "NER","WIKIDATAID": "Q1032","NAME_EN": "Niger"
+},
+"geometry": {"type": "Point","coordinates": [9.38603399667612,17.41846377101854]}},
+{"type": "Feature","properties": {"NAME": "burkina faso","NAME_LONG": "Burkina Faso","ADM0_A3_IS": "BFA","ADM0_A3_US": "BFA","WIKIDATAID": "Q965","NAME_EN": "Burkina Faso"
+},
+"geometry": {"type": "Point","coordinates": [-1.755527695256622,12.269553913794407]}},
+{"type": "Feature","properties": {"NAME": "togo","NAME_LONG": "Togo","ADM0_A3_IS": "TGO","ADM0_A3_US": "TGO","WIKIDATAID": "Q945","NAME_EN": "Togo"
+},
+"geometry": {"type": "Point","coordinates": [0.962271599645205,8.526788206050865]}},
+{"type": "Feature","properties": {"NAME": "ghana","NAME_LONG": "Ghana","ADM0_A3_IS": "GHA","ADM0_A3_US": "GHA","WIKIDATAID": "Q117","NAME_EN": "Ghana"
+},
+"geometry": {"type": "Point","coordinates": [-1.216523831432959,7.953954723676246]}},
+{"type": "Feature","properties": {"NAME": "guinea-bissau","NAME_LONG": "Guinea-Bissau","ADM0_A3_IS": "GNB","ADM0_A3_US": "GNB","WIKIDATAID": "Q1007","NAME_EN": "Guinea-Bissau"
+},
+"geometry": {"type": "Point","coordinates": [-14.977513754161713,12.026921903332775]}},
+{"type": "Feature","properties": {"NAME": "gibraltar","NAME_LONG": "Gibraltar","ADM0_A3_IS": "GIB","ADM0_A3_US": "GIB","WIKIDATAID": "Q1410","NAME_EN": "Gibraltar"
+},
+"geometry": {"type": "Point","coordinates": [-5.346700323709023,36.12946367036623]}},
+{"type": "Feature","properties": {"NAME": "united states","NAME_LONG": "United States","ADM0_A3_IS": "USA","ADM0_A3_US": "USA","WIKIDATAID": "Q30","NAME_EN": "United States of America"
+},
+"geometry": {"type": "Point","coordinates": [-102.3046875,38.8225909761771]}},
+{"type": "Feature","properties": {"NAME": "canada","NAME_LONG": "Canada","ADM0_A3_IS": "CAN","ADM0_A3_US": "CAN","WIKIDATAID": "Q16","NAME_EN": "Canada"
+},
+"geometry": {"type": "Point","coordinates": [-104.4140625,55.57834467218206]}},
+{"type": "Feature","properties": {"NAME": "mexico","NAME_LONG": "Mexico","ADM0_A3_IS": "MEX","ADM0_A3_US": "MEX","WIKIDATAID": "Q96","NAME_EN": "Mexico"
+},
+"geometry": {"type": "Point","coordinates": [-102.53030787352775,23.949171200329012]}},
+{"type": "Feature","properties": {"NAME": "belize","NAME_LONG": "Belize","ADM0_A3_IS": "BLZ","ADM0_A3_US": "BLZ","WIKIDATAID": "Q242","NAME_EN": "Belize"
+},
+"geometry": {"type": "Point","coordinates": [-88.69388853141695,17.208318691527907]}},
+{"type": "Feature","properties": {"NAME": "panama","NAME_LONG": "Panama","ADM0_A3_IS": "PAN","ADM0_A3_US": "PAN","WIKIDATAID": "Q804","NAME_EN": "Panama"
+},
+"geometry": {"type": "Point","coordinates": [-80.12129495069975,8.514556966455007]}},
+{"type": "Feature","properties": {"NAME": "venezuela","NAME_LONG": "Venezuela","ADM0_A3_IS": "VEN","ADM0_A3_US": "VEN","WIKIDATAID": "Q717","NAME_EN": "Venezuela"
+},
+"geometry": {"type": "Point","coordinates": [-66.16884026306441,7.127731536981321]}},
+{"type": "Feature","properties": {"NAME": "papua new guinea","NAME_LONG": "Papua New Guinea","ADM0_A3_IS": "PNG","ADM0_A3_US": "PNG","WIKIDATAID": "Q691","NAME_EN": "Papua New Guinea"
+},
+"geometry": {"type": "Point","coordinates": [145.23152362072213,-6.470120595703029]}},
+{"type": "Feature","properties": {"NAME": "egypt","NAME_LONG": "Egypt","ADM0_A3_IS": "EGY","ADM0_A3_US": "EGY","WIKIDATAID": "Q79","NAME_EN": "Egypt"
+},
+"geometry": {"type": "Point","coordinates": [29.861208709032564,26.49291962647038]}},
+{"type": "Feature","properties": {"NAME": "yemen","NAME_LONG": "Yemen","ADM0_A3_IS": "YEM","ADM0_A3_US": "YEM","WIKIDATAID": "Q805","NAME_EN": "Yemen"
+},
+"geometry": {"type": "Point","coordinates": [47.59060193296752,15.905421285478393]}},
+{"type": "Feature","properties": {"NAME": "mauritania","NAME_LONG": "Mauritania","ADM0_A3_IS": "MRT","ADM0_A3_US": "MRT","WIKIDATAID": "Q1025","NAME_EN": "Mauritania"
+},
+"geometry": {"type": "Point","coordinates": [-10.343397875690936,20.256218126413504]}},
+{"type": "Feature","properties": {"NAME": "equatorial guinea","NAME_LONG": "Equatorial Guinea","ADM0_A3_IS": "GNQ","ADM0_A3_US": "GNQ","WIKIDATAID": "Q983","NAME_EN": "Equatorial Guinea"
+},
+"geometry": {"type": "Point","coordinates": [10.332885460483293,1.706961040047456]}},
+{"type": "Feature","properties": {"NAME": "gambia","NAME_LONG": "The Gambia","ADM0_A3_IS": "GMB","ADM0_A3_US": "GMB","WIKIDATAID": "Q1005","NAME_EN": "The Gambia"
+},
+"geometry": {"type": "Point","coordinates": [-15.397582025689497,13.44972955855733]}},
+{"type": "Feature","properties": {"NAME": "hong kong","NAME_LONG": "Hong Kong","ADM0_A3_IS": "HKG","ADM0_A3_US": "HKG","WIKIDATAID": "Q8646","NAME_EN": "Hong Kong"
+},
+"geometry": {"type": "Point","coordinates": [114.13144688684184,22.384636894076475]}},
+{"type": "Feature","properties": {"NAME": "vatican","NAME_LONG": "Vatican","ADM0_A3_IS": "VAT","ADM0_A3_US": "VAT","WIKIDATAID": "Q237","NAME_EN": "Vatican City"
+},
+"geometry": {"type": "Point","coordinates": [12.453417729395621,41.903312469243915]}},
+{"type": "Feature","properties": {"NAME": "turkish republic of northern cyprus","NAME_LONG": "Northern Cyprus","ADM0_A3_IS": "CYP","ADM0_A3_US": "CYP","WIKIDATAID": "Q23681","NAME_EN": "Turkish Republic of Northern Cyprus"
+},
+"geometry": {"type": "Point","coordinates": [33.597794235143084,35.27642109577868]}},
+{"type": "Feature","properties": {"NAME": "united nations buffer zone in cyprus","NAME_LONG": "Cyprus U.N. Buffer Zone","ADM0_A3_IS": "CYP","ADM0_A3_US": "CYP","WIKIDATAID": "Q116970","NAME_EN": "United Nations Buffer Zone in Cyprus"
+},
+"geometry": {"type": "Point","coordinates": [33.25746991813937,35.10199665620324]}},
+{"type": "Feature","properties": {"NAME": "siachen glacier","NAME_LONG": "Siachen Glacier","ADM0_A3_IS": -99,"ADM0_A3_US": "KAS","WIKIDATAID": "Q333946","NAME_EN": "Siachen Glacier"
+},
+"geometry": {"type": "Point","coordinates": [77.17995279874272,35.39108198127974]}},
+{"type": "Feature","properties": {"NAME": "baikonur","NAME_LONG": "Baikonur Cosmodrome","ADM0_A3_IS": "KAZ","ADM0_A3_US": "KAB","WIKIDATAID": "Q165413","NAME_EN": "Baikonur"
+},
+"geometry": {"type": "Point","coordinates": [63.38389700313771,45.978330138225104]}},
+{"type": "Feature","properties": {"NAME": "akrotiri","NAME_LONG": "Akrotiri","ADM0_A3_IS": "GBR","ADM0_A3_US": "WSB","WIKIDATAID": "Q9143535","NAME_EN": "Akrotiri"
+},
+"geometry": {"type": "Point","coordinates": [32.93399486034772,34.631813284864926]}},
+{"type": "Feature","properties": {"NAME": "antarctica","NAME_LONG": "Antarctica","ADM0_A3_IS": "ATA","ADM0_A3_US": "ATA","WIKIDATAID": "Q51","NAME_EN": "Antarctica"
+},
+"geometry": {"type": "Point","coordinates": [19.90839906393786,-80.50821937877443]}},
+{"type": "Feature","properties": {"NAME": "australia","NAME_LONG": "Australia","ADM0_A3_IS": "AUS","ADM0_A3_US": "AUS","WIKIDATAID": "Q408","NAME_EN": "Australia"
+},
+"geometry": {"type": "Point","coordinates": [134.49111878779996,-25.732310539055923]}},
+{"type": "Feature","properties": {"NAME": "greenland","NAME_LONG": "Greenland","ADM0_A3_IS": "GRL","ADM0_A3_US": "GRL","WIKIDATAID": "Q223","NAME_EN": "Greenland"
+},
+"geometry": {"type": "Point","coordinates": [-41.34573936675015,74.73599062156111]}},
+{"type": "Feature","properties": {"NAME": "fiji","NAME_LONG": "Fiji","ADM0_A3_IS": "FJI","ADM0_A3_US": "FJI","WIKIDATAID": "Q712","NAME_EN": "Fiji"
+},
+"geometry": {"type": "Point","coordinates": [163.40784770308915,-17.447561917429933]}},
+{"type": "Feature","properties": {"NAME": "new zealand","NAME_LONG": "New Zealand","ADM0_A3_IS": "NZL","ADM0_A3_US": "NZL","WIKIDATAID": "Q664","NAME_EN": "New Zealand"
+},
+"geometry": {"type": "Point","coordinates": [171.4706906821364,-41.82952216955142]}},
+{"type": "Feature","properties": {"NAME": "new caledonia","NAME_LONG": "New Caledonia","ADM0_A3_IS": "NCL","ADM0_A3_US": "NCL","WIKIDATAID": "Q33788","NAME_EN": "New Caledonia"
+},
+"geometry": {"type": "Point","coordinates": [165.70265474852295,-21.304340145282612]}},
+{"type": "Feature","properties": {"NAME": "madagascar","NAME_LONG": "Madagascar","ADM0_A3_IS": "MDG","ADM0_A3_US": "MDG","WIKIDATAID": "Q1019","NAME_EN": "Madagascar"
+},
+"geometry": {"type": "Point","coordinates": [46.70599831334861,-19.373167530006743]}},
+{"type": "Feature","properties": {"NAME": "philippines","NAME_LONG": "Philippines","ADM0_A3_IS": "PHL","ADM0_A3_US": "PHL","WIKIDATAID": "Q928","NAME_EN": "Philippines"
+},
+"geometry": {"type": "Point","coordinates": [122.87448426004921,11.763015052629612]}},
+{"type": "Feature","properties": {"NAME": "sri lanka","NAME_LONG": "Sri Lanka","ADM0_A3_IS": "LKA","ADM0_A3_US": "LKA","WIKIDATAID": "Q854","NAME_EN": "Sri Lanka"
+},
+"geometry": {"type": "Point","coordinates": [80.70316283569835,7.615914048409341]}},
+{"type": "Feature","properties": {"NAME": "curaçao","NAME_LONG": "Curaçao","ADM0_A3_IS": "CUW","ADM0_A3_US": "CUW","WIKIDATAID": "Q25279","NAME_EN": "Curaçao"
+},
+"geometry": {"type": "Point","coordinates": [-68.97130560700961,12.193821089163583]}},
+{"type": "Feature","properties": {"NAME": "aruba","NAME_LONG": "Aruba","ADM0_A3_IS": "ABW","ADM0_A3_US": "ABW","WIKIDATAID": "Q21203","NAME_EN": "Aruba"
+},
+"geometry": {"type": "Point","coordinates": [-69.97420075028728,12.516935269076269]}},
+{"type": "Feature","properties": {"NAME": "bahamas","NAME_LONG": "Bahamas","ADM0_A3_IS": "BHS","ADM0_A3_US": "BHS","WIKIDATAID": "Q778","NAME_EN": "The Bahamas"
+},
+"geometry": {"type": "Point","coordinates": [-76.55125221251897,24.222809281568857]}},
+{"type": "Feature","properties": {"NAME": "turks and caicos islands","NAME_LONG": "Turks and Caicos Islands","ADM0_A3_IS": "TCA","ADM0_A3_US": "TCA","WIKIDATAID": "Q18221","NAME_EN": "Turks and Caicos Islands"
+},
+"geometry": {"type": "Point","coordinates": [-71.87330660170545,21.780045376327067]}},
+{"type": "Feature","properties": {"NAME": "taiwan","NAME_LONG": "Taiwan","ADM0_A3_IS": "TWN","ADM0_A3_US": "TWN","WIKIDATAID": "Q865","NAME_EN": "Taiwan"
+},
+"geometry": {"type": "Point","coordinates": [120.94987532976887,23.752985113410126]}},
+{"type": "Feature","properties": {"NAME": "japan","NAME_LONG": "Japan","ADM0_A3_IS": "JPN","ADM0_A3_US": "JPN","WIKIDATAID": "Q17","NAME_EN": "Japan"
+},
+"geometry": {"type": "Point","coordinates": [137.97834760987652,37.55117739361514]}},
+{"type": "Feature","properties": {"NAME": "saint pierre and miquelon","NAME_LONG": "Saint Pierre and Miquelon","ADM0_A3_IS": "SPM","ADM0_A3_US": "SPM","WIKIDATAID": "Q34617","NAME_EN": "Saint Pierre and Miquelon"
+},
+"geometry": {"type": "Point","coordinates": [-56.30781354248258,46.930457949750945]}},
+{"type": "Feature","properties": {"NAME": "iceland","NAME_LONG": "Iceland","ADM0_A3_IS": "ISL","ADM0_A3_US": "ISL","WIKIDATAID": "Q189","NAME_EN": "Iceland"
+},
+"geometry": {"type": "Point","coordinates": [-18.596445927816298,64.99831582047344]}},
+{"type": "Feature","properties": {"NAME": "pitcairn islands","NAME_LONG": "Pitcairn Islands","ADM0_A3_IS": "PCN","ADM0_A3_US": "PCN","WIKIDATAID": "Q35672","NAME_EN": "Pitcairn Islands"
+},
+"geometry": {"type": "Point","coordinates": [-128.4792670607327,-24.412769983988092]}},
+{"type": "Feature","properties": {"NAME": "french polynesia","NAME_LONG": "French Polynesia","ADM0_A3_IS": "PYF","ADM0_A3_US": "PYF","WIKIDATAID": "Q30971","NAME_EN": "French Polynesia"
+},
+"geometry": {"type": "Point","coordinates": [-145.05204035835544,-15.188779595799456]}},
+{"type": "Feature","properties": {"NAME": "french southern and antarctic lands","NAME_LONG": "French Southern and Antarctic Lands","ADM0_A3_IS": "ATF","ADM0_A3_US": "ATF","WIKIDATAID": "Q129003","NAME_EN": "French Southern and Antarctic Lands"
+},
+"geometry": {"type": "Point","coordinates": [68.99213404477693,-49.065151470726605]}},
+{"type": "Feature","properties": {"NAME": "seychelles","NAME_LONG": "Seychelles","ADM0_A3_IS": "SYC","ADM0_A3_US": "SYC","WIKIDATAID": "Q1042","NAME_EN": "Seychelles"
+},
+"geometry": {"type": "Point","coordinates": [52.06229190040475,-6.489990483710342]}},
+{"type": "Feature","properties": {"NAME": "kiribati","NAME_LONG": "Kiribati","ADM0_A3_IS": "KIR","ADM0_A3_US": "KIR","WIKIDATAID": "Q710","NAME_EN": "Kiribati"
+},
+"geometry": {"type": "Point","coordinates": [-51.52532536016883,0.615185708161475]}},
+{"type": "Feature","properties": {"NAME": "marshall islands","NAME_LONG": "Marshall Islands","ADM0_A3_IS": "MHL","ADM0_A3_US": "MHL","WIKIDATAID": "Q709","NAME_EN": "Marshall Islands"
+},
+"geometry": {"type": "Point","coordinates": [170.09952781207963,7.114465335463286]}},
+{"type": "Feature","properties": {"NAME": "trinidad and tobago","NAME_LONG": "Trinidad and Tobago","ADM0_A3_IS": "TTO","ADM0_A3_US": "TTO","WIKIDATAID": "Q754","NAME_EN": "Trinidad and Tobago"
+},
+"geometry": {"type": "Point","coordinates": [-61.25844983927549,10.46882985676472]}},
+{"type": "Feature","properties": {"NAME": "grenada","NAME_LONG": "Grenada","ADM0_A3_IS": "GRD","ADM0_A3_US": "GRD","WIKIDATAID": "Q769","NAME_EN": "Grenada"
+},
+"geometry": {"type": "Point","coordinates": [-61.65668238326523,12.153372404312481]}},
+{"type": "Feature","properties": {"NAME": "saint vincent and the grenadines","NAME_LONG": "Saint Vincent and the Grenadines","ADM0_A3_IS": "VCT","ADM0_A3_US": "VCT","WIKIDATAID": "Q757","NAME_EN": "Saint Vincent and the Grenadines"
+},
+"geometry": {"type": "Point","coordinates": [-61.20335326632455,13.216215919317465]}},
+{"type": "Feature","properties": {"NAME": "barbados","NAME_LONG": "Barbados","ADM0_A3_IS": "BRB","ADM0_A3_US": "BRB","WIKIDATAID": "Q244","NAME_EN": "Barbados"
+},
+"geometry": {"type": "Point","coordinates": [-59.56121774811805,13.18105382678023]}},
+{"type": "Feature","properties": {"NAME": "saint lucia","NAME_LONG": "Saint Lucia","ADM0_A3_IS": "LCA","ADM0_A3_US": "LCA","WIKIDATAID": "Q760","NAME_EN": "Saint Lucia"
+},
+"geometry": {"type": "Point","coordinates": [-60.970316531144185,13.90267054680924]}},
+{"type": "Feature","properties": {"NAME": "dominica","NAME_LONG": "Dominica","ADM0_A3_IS": "DMA","ADM0_A3_US": "DMA","WIKIDATAID": "Q784","NAME_EN": "Dominica"
+},
+"geometry": {"type": "Point","coordinates": [-61.35691759205698,15.436440485357714]}},
+{"type": "Feature","properties": {"NAME": "united states minor outlying islands","NAME_LONG": "United States Minor Outlying Islands","ADM0_A3_IS": "UMI","ADM0_A3_US": "UMI","WIKIDATAID": "Q16645","NAME_EN": "United States Minor Outlying Islands"
+},
+"geometry": {"type": "Point","coordinates": [-103.2789202905243,13.302974243555324]}},
+{"type": "Feature","properties": {"NAME": "montserrat","NAME_LONG": "Montserrat","ADM0_A3_IS": "MSR","ADM0_A3_US": "MSR","WIKIDATAID": "Q13353","NAME_EN": "Montserrat"
+},
+"geometry": {"type": "Point","coordinates": [-62.1873987829564,16.737523565117023]}},
+{"type": "Feature","properties": {"NAME": "antigua and barbuda","NAME_LONG": "Antigua and Barbuda","ADM0_A3_IS": "ATG","ADM0_A3_US": "ATG","WIKIDATAID": "Q781","NAME_EN": "Antigua and Barbuda"
+},
+"geometry": {"type": "Point","coordinates": [-61.79173246216333,17.28438023471199]}},
+{"type": "Feature","properties": {"NAME": "saint kitts and nevis","NAME_LONG": "Saint Kitts and Nevis","ADM0_A3_IS": "KNA","ADM0_A3_US": "KNA","WIKIDATAID": "Q763","NAME_EN": "Saint Kitts and Nevis"
+},
+"geometry": {"type": "Point","coordinates": [-62.698545446231876,17.271042252571828]}},
+{"type": "Feature","properties": {"NAME": "united states virgin islands","NAME_LONG": "United States Virgin Islands","ADM0_A3_IS": "VIR","ADM0_A3_US": "VIR","WIKIDATAID": "Q11703","NAME_EN": "United States Virgin Islands"
+},
+"geometry": {"type": "Point","coordinates": [-64.79765445027644,17.98054560633745]}},
+{"type": "Feature","properties": {"NAME": "saint-barthélemy","NAME_LONG": "Saint-Barthélemy","ADM0_A3_IS": "BLM","ADM0_A3_US": "BLM","WIKIDATAID": "Q25362","NAME_EN": "Saint-Barthélemy"
+},
+"geometry": {"type": "Point","coordinates": [-62.83261962488822,17.90558452184925]}},
+{"type": "Feature","properties": {"NAME": "puerto rico","NAME_LONG": "Puerto Rico","ADM0_A3_IS": "PRI","ADM0_A3_US": "PRI","WIKIDATAID": "Q1183","NAME_EN": "Puerto Rico"
+},
+"geometry": {"type": "Point","coordinates": [-66.46760029282001,18.223816465407836]}},
+{"type": "Feature","properties": {"NAME": "anguilla","NAME_LONG": "Anguilla","ADM0_A3_IS": "AIA","ADM0_A3_US": "AIA","WIKIDATAID": "Q25228","NAME_EN": "Anguilla"
+},
+"geometry": {"type": "Point","coordinates": [-63.058571246802096,18.22569251092134]}},
+{"type": "Feature","properties": {"NAME": "british virgin islands","NAME_LONG": "British Virgin Islands","ADM0_A3_IS": "VGB","ADM0_A3_US": "VGB","WIKIDATAID": "Q25305","NAME_EN": "British Virgin Islands"
+},
+"geometry": {"type": "Point","coordinates": [-64.50286319380184,18.50988412918682]}},
+{"type": "Feature","properties": {"NAME": "jamaica","NAME_LONG": "Jamaica","ADM0_A3_IS": "JAM","ADM0_A3_US": "JAM","WIKIDATAID": "Q766","NAME_EN": "Jamaica"
+},
+"geometry": {"type": "Point","coordinates": [-77.31881046598318,18.155226388380452]}},
+{"type": "Feature","properties": {"NAME": "cayman islands","NAME_LONG": "Cayman Islands","ADM0_A3_IS": "CYM","ADM0_A3_US": "CYM","WIKIDATAID": "Q5785","NAME_EN": "Cayman Islands"
+},
+"geometry": {"type": "Point","coordinates": [-80.87702589066528,19.426331163818016]}},
+{"type": "Feature","properties": {"NAME": "bermuda","NAME_LONG": "Bermuda","ADM0_A3_IS": "BMU","ADM0_A3_US": "BMU","WIKIDATAID": "Q23635","NAME_EN": "Bermuda"
+},
+"geometry": {"type": "Point","coordinates": [-64.76349138259151,32.31013657811678]}},
+{"type": "Feature","properties": {"NAME": "heard island and mcdonald islands","NAME_LONG": "Heard I. and McDonald Islands","ADM0_A3_IS": "HMD","ADM0_A3_US": "HMD","WIKIDATAID": "Q131198","NAME_EN": "Heard Island and McDonald Islands"
+},
+"geometry": {"type": "Point","coordinates": [73.5052101888993,-53.08881702579286]}},
+{"type": "Feature","properties": {"NAME": "saint helena","NAME_LONG": "Saint Helena","ADM0_A3_IS": "SHN","ADM0_A3_US": "SHN","WIKIDATAID": "Q34497","NAME_EN": "Saint Helena"
+},
+"geometry": {"type": "Point","coordinates": [-10.138417837168642,-24.911350236284456]}},
+{"type": "Feature","properties": {"NAME": "mauritius","NAME_LONG": "Mauritius","ADM0_A3_IS": "MUS","ADM0_A3_US": "MUS","WIKIDATAID": "Q1027","NAME_EN": "Mauritius"
+},
+"geometry": {"type": "Point","coordinates": [57.849700164766794,-20.18554386969475]}},
+{"type": "Feature","properties": {"NAME": "comoros","NAME_LONG": "Comoros","ADM0_A3_IS": "COM","ADM0_A3_US": "COM","WIKIDATAID": "Q970","NAME_EN": "Comoros"
+},
+"geometry": {"type": "Point","coordinates": [43.68016318654985,-11.884216211489981]}},
+{"type": "Feature","properties": {"NAME": "são tomé and principe","NAME_LONG": "São Tomé and Principe","ADM0_A3_IS": "STP","ADM0_A3_US": "STP","WIKIDATAID": "Q1039","NAME_EN": "São Tomé and Príncipe"
+},
+"geometry": {"type": "Point","coordinates": [6.726442874193786,0.444260037724663]}},
+{"type": "Feature","properties": {"NAME": "cabo verde","NAME_LONG": "Republic of Cabo Verde","ADM0_A3_IS": "CPV","ADM0_A3_US": "CPV","WIKIDATAID": "Q1011","NAME_EN": "Cape Verde"
+},
+"geometry": {"type": "Point","coordinates": [-23.967239766336434,15.936140242230122]}},
+{"type": "Feature","properties": {"NAME": "malta","NAME_LONG": "Malta","ADM0_A3_IS": "MLT","ADM0_A3_US": "MLT","WIKIDATAID": "Q233","NAME_EN": "Malta"
+},
+"geometry": {"type": "Point","coordinates": [14.403754031434131,35.9210269870066]}},
+{"type": "Feature","properties": {"NAME": "jersey","NAME_LONG": "Jersey","ADM0_A3_IS": "JEY","ADM0_A3_US": "JEY","WIKIDATAID": "Q785","NAME_EN": "Jersey"
+},
+"geometry": {"type": "Point","coordinates": [-2.127430814463968,49.22106421105889]}},
+{"type": "Feature","properties": {"NAME": "guernsey","NAME_LONG": "Guernsey","ADM0_A3_IS": "GGY","ADM0_A3_US": "GGY","WIKIDATAID": "Q25230","NAME_EN": "Guernsey"
+},
+"geometry": {"type": "Point","coordinates": [-2.530480023291007,49.4843729228669]}},
+{"type": "Feature","properties": {"NAME": "isle of man","NAME_LONG": "Isle of Man","ADM0_A3_IS": "IMN","ADM0_A3_US": "IMN","WIKIDATAID": "Q9676","NAME_EN": "Isle of Man"
+},
+"geometry": {"type": "Point","coordinates": [-4.533695083083717,54.229101900397424]}},
+{"type": "Feature","properties": {"NAME": "aland islands","NAME_LONG": "Åland Islands","ADM0_A3_IS": "ALA","ADM0_A3_US": "ALD","WIKIDATAID": "Q5689","NAME_EN": "Åland Islands"
+},
+"geometry": {"type": "Point","coordinates": [20.05558282178146,60.18644725136]}},
+{"type": "Feature","properties": {"NAME": "faroe islands","NAME_LONG": "Faeroe Islands","ADM0_A3_IS": "FRO","ADM0_A3_US": "FRO","WIKIDATAID": "Q4628","NAME_EN": "Faroe Islands"
+},
+"geometry": {"type": "Point","coordinates": [-6.870554776167022,62.074027254458485]}},
+{"type": "Feature","properties": {"NAME": "australian indian ocean territories","NAME_LONG": "Indian Ocean Territories","ADM0_A3_IS": "AUS","ADM0_A3_US": "AUS","WIKIDATAID": "Q4824275","NAME_EN": "Australian Indian Ocean Territories"
+},
+"geometry": {"type": "Point","coordinates": [104.61939744151046,-10.69217409183099]}},
+{"type": "Feature","properties": {"NAME": "british indian ocean territory","NAME_LONG": "British Indian Ocean Territory","ADM0_A3_IS": "IOT","ADM0_A3_US": "IOT","WIKIDATAID": "Q43448","NAME_EN": "British Indian Ocean Territory"
+},
+"geometry": {"type": "Point","coordinates": [72.29881482081551,-7.144331220255646]}},
+{"type": "Feature","properties": {"NAME": "singapore","NAME_LONG": "Singapore","ADM0_A3_IS": "SGP","ADM0_A3_US": "SGP","WIKIDATAID": "Q334","NAME_EN": "Singapore"
+},
+"geometry": {"type": "Point","coordinates": [103.81346765801736,1.358921020243696]}},
+{"type": "Feature","properties": {"NAME": "norfolk island","NAME_LONG": "Norfolk Island","ADM0_A3_IS": "NFK","ADM0_A3_US": "NFK","WIKIDATAID": "Q31057","NAME_EN": "Norfolk Island"
+},
+"geometry": {"type": "Point","coordinates": [167.95516933251736,-29.03497510327645]}},
+{"type": "Feature","properties": {"NAME": "cook islands","NAME_LONG": "Cook Islands","ADM0_A3_IS": "COK","ADM0_A3_US": "COK","WIKIDATAID": "Q26988","NAME_EN": "Cook Islands"
+},
+"geometry": {"type": "Point","coordinates": [-158.79121360531184,-19.814508526850837]}},
+{"type": "Feature","properties": {"NAME": "tonga","NAME_LONG": "Tonga","ADM0_A3_IS": "TON","ADM0_A3_US": "TON","WIKIDATAID": "Q678","NAME_EN": "Tonga"
+},
+"geometry": {"type": "Point","coordinates": [-174.86851227248414,-20.066559736563296]}},
+{"type": "Feature","properties": {"NAME": "wallis and futuna","NAME_LONG": "Wallis and Futuna Islands","ADM0_A3_IS": "WLF","ADM0_A3_US": "WLF","WIKIDATAID": "Q35555","NAME_EN": "Wallis and Futuna"
+},
+"geometry": {"type": "Point","coordinates": [-177.0589960231392,-13.738101960846322]}},
+{"type": "Feature","properties": {"NAME": "samoa","NAME_LONG": "Samoa","ADM0_A3_IS": "WSM","ADM0_A3_US": "WSM","WIKIDATAID": "Q683","NAME_EN": "Samoa"
+},
+"geometry": {"type": "Point","coordinates": [-172.16124929903563,-13.754595654027648]}},
+{"type": "Feature","properties": {"NAME": "solomon islands","NAME_LONG": "Solomon Islands","ADM0_A3_IS": "SLB","ADM0_A3_US": "SLB","WIKIDATAID": "Q685","NAME_EN": "Solomon Islands"
+},
+"geometry": {"type": "Point","coordinates": [159.63809446287206,-8.909583205357327]}},
+{"type": "Feature","properties": {"NAME": "tuvalu","NAME_LONG": "Tuvalu","ADM0_A3_IS": "TUV","ADM0_A3_US": "TUV","WIKIDATAID": "Q672","NAME_EN": "Tuvalu"
+},
+"geometry": {"type": "Point","coordinates": [178.52035316254938,-7.759069095632198]}},
+{"type": "Feature","properties": {"NAME": "maldives","NAME_LONG": "Maldives","ADM0_A3_IS": "MDV","ADM0_A3_US": "B13","WIKIDATAID": "Q826","NAME_EN": "Maldives"
+},
+"geometry": {"type": "Point","coordinates": [73.30227719689731,3.827779807162631]}},
+{"type": "Feature","properties": {"NAME": "nauru","NAME_LONG": "Nauru","ADM0_A3_IS": "NRU","ADM0_A3_US": "NRU","WIKIDATAID": "Q697","NAME_EN": "Nauru"
+},
+"geometry": {"type": "Point","coordinates": [166.93313192931075,-0.520782884828543]}},
+{"type": "Feature","properties": {"NAME": "micronesia","NAME_LONG": "Federated States of Micronesia","ADM0_A3_IS": "FSM","ADM0_A3_US": "FSM","WIKIDATAID": "Q702","NAME_EN": "Federated States of Micronesia"
+},
+"geometry": {"type": "Point","coordinates": [155.26063353368679,6.967281078923215]}},
+{"type": "Feature","properties": {"NAME": "south georgia and the south sandwich islands","NAME_LONG": "South Georgia and the Islands","ADM0_A3_IS": "SGS","ADM0_A3_US": "SGS","WIKIDATAID": "Q35086","NAME_EN": "South Georgia and the South Sandwich Islands"
+},
+"geometry": {"type": "Point","coordinates": [-35.882316614537764,-54.67921915300405]}},
+{"type": "Feature","properties": {"NAME": "falkland islands","NAME_LONG": "Falkland Islands","ADM0_A3_IS": "FLK","ADM0_A3_US": "FLK","WIKIDATAID": "Q9648","NAME_EN": "Falkland Islands"
+},
+"geometry": {"type": "Point","coordinates": [-59.37610280610833,-51.73330727597217]}},
+{"type": "Feature","properties": {"NAME": "vanuatu","NAME_LONG": "Vanuatu","ADM0_A3_IS": "VUT","ADM0_A3_US": "VUT","WIKIDATAID": "Q686","NAME_EN": "Vanuatu"
+},
+"geometry": {"type": "Point","coordinates": [167.70084414094163,-16.201267919694747]}},
+{"type": "Feature","properties": {"NAME": "niue","NAME_LONG": "Niue","ADM0_A3_IS": "NIU","ADM0_A3_US": "NIU","WIKIDATAID": "Q34020","NAME_EN": "Niue"
+},
+"geometry": {"type": "Point","coordinates": [-169.8693460421284,-19.048919755968992]}},
+{"type": "Feature","properties": {"NAME": "american aamoa","NAME_LONG": "American Samoa","ADM0_A3_IS": "ASM","ADM0_A3_US": "ASM","WIKIDATAID": "Q16641","NAME_EN": "American Samoa"
+},
+"geometry": {"type": "Point","coordinates": [-170.39892092275616,-14.254943512405326]}},
+{"type": "Feature","properties": {"NAME": "palau","NAME_LONG": "Palau","ADM0_A3_IS": "PLW","ADM0_A3_US": "PLW","WIKIDATAID": "Q695","NAME_EN": "Palau"
+},
+"geometry": {"type": "Point","coordinates": [134.3480333383713,7.197635973951884]}},
+{"type": "Feature","properties": {"NAME": "guam","NAME_LONG": "Guam","ADM0_A3_IS": "GUM","ADM0_A3_US": "GUM","WIKIDATAID": "Q16635","NAME_EN": "Guam"
+},
+"geometry": {"type": "Point","coordinates": [144.77193912022267,13.443793017343745]}},
+{"type": "Feature","properties": {"NAME": "northern mariana islands","NAME_LONG": "Northern Mariana Islands","ADM0_A3_IS": "MNP","ADM0_A3_US": "MNP","WIKIDATAID": "Q16644","NAME_EN": "Northern Mariana Islands"
+},
+"geometry": {"type": "Point","coordinates": [145.59995500569485,16.250859762436193]}},
+{"type": "Feature","properties": {"NAME": "bahrain","NAME_LONG": "Bahrain","ADM0_A3_IS": "BHR","ADM0_A3_US": "BHR","WIKIDATAID": "Q398","NAME_EN": "Bahrain"
+},
+"geometry": {"type": "Point","coordinates": [50.54661934758981,26.052784294408646]}},
+{"type": "Feature","properties": {"NAME": "coral sea islands","NAME_LONG": "Coral Sea Islands","ADM0_A3_IS": "AUS","ADM0_A3_US": "CSI","WIKIDATAID": "Q172216","NAME_EN": "Coral Sea Islands"
+},
+"geometry": {"type": "Point","coordinates": [154.3903643456667,-21.029283678666598]}},
+{"type": "Feature","properties": {"NAME": "spratly islands","NAME_LONG": "Spratly Islands","ADM0_A3_IS": -99,"ADM0_A3_US": "PGA","WIKIDATAID": "Q215664","NAME_EN": "Spratly Islands"
+},
+"geometry": {"type": "Point","coordinates": [114.92703993375544,10.545020314740169]}},
+{"type": "Feature","properties": {"NAME": "clipperton island","NAME_LONG": "Clipperton Island","ADM0_A3_IS": "FRA","ADM0_A3_US": "CLP","WIKIDATAID": "Q161258","NAME_EN": "Clipperton Island"
+},
+"geometry": {"type": "Point","coordinates": [-109.22126424250814,10.297389383681706]}},
+{"type": "Feature","properties": {"NAME": "macao","NAME_LONG": "Macao","ADM0_A3_IS": "MAC","ADM0_A3_US": "MAC","WIKIDATAID": "Q14773","NAME_EN": "Macau"
+},
+"geometry": {"type": "Point","coordinates": [113.55019686490212,22.157785198349384]}},
+{"type": "Feature","properties": {"NAME": "sshmore and cartier islands","NAME_LONG": "Ashmore and Cartier Islands","ADM0_A3_IS": "AUS","ADM0_A3_US": "ATC","WIKIDATAID": "Q133888","NAME_EN": "Ashmore and Cartier Islands"
+},
+"geometry": {"type": "Point","coordinates": [123.58636778644266,-12.432577176848286]}},
+{"type": "Feature","properties": {"NAME": "bajo nuevo bank","NAME_LONG": "Bajo Nuevo Bank (Petrel Islands)","ADM0_A3_IS": -99,"ADM0_A3_US": "B41","WIKIDATAID": "Q1257783","NAME_EN": "Bajo Nuevo Bank"
+},
+"geometry": {"type": "Point","coordinates": [-79.9878658593175,15.795009963377407]}},
+{"type": "Feature","properties": {"NAME": "serranilla bank","NAME_LONG": "Serranilla Bank","ADM0_A3_IS": -99,"ADM0_A3_US": "B42","WIKIDATAID": "Q1169008","NAME_EN": "Serranilla Bank"
+},
+"geometry": {"type": "Point","coordinates": [-78.63811872766658,15.864460896333414]}},
+{"type": "Feature","properties": {"NAME": "scarborough shoal","NAME_LONG": "Scarborough Reef","ADM0_A3_IS": -99,"ADM0_A3_US": "SCR","WIKIDATAID": "Q628716","NAME_EN": "Scarborough Shoal"
+},
+"geometry": {"type": "Point","coordinates": [117.75381196333339,15.152112822000067]}}]}

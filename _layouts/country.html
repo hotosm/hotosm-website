@@ -33,29 +33,73 @@ layout: default
   <div class="country-index-header">
 
     <div class="country-map-area" id="country-map-area">
+      
+      <div class="country-map-wrap" id="country-map-wrap">
+        <div id = "where-we-work-legend-details" class="center-hover-map-area">
+          <div id = "tm-legend" class="hide">
+              <p><img src= '../../images/lone-project.png' width="10" height="12" style="padding-top: 2px"/><span style="color:#929DB3"> Campaigns sized by edits</span></p>
+          </div>
+        </div>
+        <div id="project-details" class="center-hover-map-area"></div>
+      
       <div class="country-name-wrap">
         <div class="country-name">
-          <h1 class="boxed">{{ page.title }}</h1>
-        </div>
+        <h2 class="boxed" id="country-title">{{ page.title }}</h2>
       </div>
-      <div class="country-map-wrap" id="country-map-wrap"></div>
+      </div>
+      </div>
     </div>
 
     <div class="country-contact">
-      <div class="country-contact-wrapper">
+      <!-- Tab links -->
+        
+        <div class="tab detailsTab">
+          <button id="country-details-btn" class="detailsTabLinks active" onclick="switchInfo(event, 'country-details')" >Country Contact</button>
+          <button id="country-filters-btn" class="hide detailsTabLinks" onclick="switchInfo(event, 'country-filters')" >Campaign Filters</button>
+        </div>
+    
+        <div id="country-filters" style="padding-top: 15px; display:none; justify-content: center" class="detailsTabContent country-contact-wrapper">
+          <h4 id='filter-header'></h4>
+          <form action="">
+            <div class="ctn-inputs checkbox">
+                <h2 class="title">
+                  Status: (Click on a label to select/deselect)
+                </h2>
+                <input type="checkbox"  checked="true" class="style-checkbox" name="checkbox" value="status" id="published">
+                <label id='published-label' for="published">
+                  Active
+                </label>
+                <input type="checkbox"  checked="true" class="style-checkbox" name="checkbox" value="status" id="archived">
+                <label id = 'archived-label' for="archived">
+                  Archived
+                </label>
+            </div>
+          
+            <div id = "year-checkbox" class="ctn-inputs checkbox">
+              <h2 class="title">
+                Year: (Click on a label to select/deselect)
+              </h2>
+            </div>
+          </form>
+        </div>
 
+
+      <div id="country-details" style="padding-top: 15px; justify-content: center" class="detailsTabContent country-contact-wrapper">
+        <h4 id="contact-header"></h4>
         {% if projects %}
 
         <!-- Countries with projects -->
-
-        <h4>{{ page.title }} has {{ projectcount }} project{% if projectcount > 1%}s{%endif%}{% if memberscount > 0%} and {{ memberscount }} voting member{% if memberscount > 1%}s{%endif%}{%endif%}</h4>
+        
+        <!-- <h4 id="contact-header">{{ page.title }} has {{ projectcount }} HOT project{% if projectcount > 1%}s{%endif%}{% if memberscount > 0%} and {{ memberscount }} voting member{% if memberscount > 1%}s{%endif%}{%endif%}</h4> -->
         <div class="country-content top">
           <p>Read more about each project below or learn more about <a href="/get-involved">getting involved</a>.</p>
         </div>
 
         <h4>Travelling to {{ page.title }} or want to get in touch about a collaboration?</h4>
         <div class="country-content">
-          <p>Get in touch with HOT or reach out to the <a href="https://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists">local community</a>.</p>
+          <p>Get in touch with HOT or reach out to the 
+            <a href="https://wiki.openstreetmap.org/wiki/Mailing_lists#Country-Specific_Lists" 
+            target="_blank">local community</a>.</p>
         </div>
         <h5>Contact HOT</h5>
         {% if page['Contact Person'].Name or page['Contact Person'].Title or page['Contact Person'].Email or page['Contact Person'].Phone %}
@@ -67,13 +111,22 @@ layout: default
           <a href="mailto:info@hotosm.org">info@hotosm.org</a>
         {% endif %}
 
-        {% if page.Location.Name or page.Location.Address %}
+        {% if page.Location['Location Name'] or page.Location.Address %}
           <h5>Visit</h5>
-          <p><b>{{ page.Location['Location Name'] }}</b></p>
-          {{ page.Location.Address | markdownify }}
-          <p>{{ page.Location.Phone }}</p>
+          {% if page.Location['Location Name'] and page.Location['Map Link'] %}
+	          <a href="{{ page.Location['Map Link'] }}" target="_blank"><b>
+		          {{ page.Location['Location Name'] }}</b></a>
+	        {% elsif page.Location['Location Name'] %}
+	          <p><b> {{ page.Location['Location Name'] }} </b></p>
+	        {% endif %}
+	        {% if page.Location.Address %}
+            {{ page.Location.Address | markdownify }}
+          {% endif %}
+          {% if page.Location.Phone %}
+	          <p>{{ page.Location.Phone }}</p>
+	        {% endif %}
         {% endif %}
-        
+
         {% elsif members %}
 
         <!-- Countries with members only -->
@@ -103,7 +156,7 @@ layout: default
           {{ page.Location.Address | markdownify }}
           <p>{{ page.Location.Phone }}</p>
         {% endif %}
-        
+
         {% else %}
 
         <!-- Countries without projects or members -->
@@ -123,28 +176,43 @@ layout: default
 
         {% if page.Location.Name or page.Location.Address %}
           <h5>Visit</h5>
-          <p><b>{{ page.Location['Location Name'] }}</b></p>
+          <p><b>{{ page.Location['Map Link'] }}</b></p>
           {{ page.Location.Address | markdownify }}
           <p>{{ page.Location.Phone }}</p>
         {% endif %}
 
         {% endif %}
       </div>
+      
+      
     </div>
   </div>
+
 
 
   <!--////////////////////////////////-->
   <!--////// Country Highlights //////-->
   <!--////////////////////////////////-->
-  
 
-  <div class="container home-stats">
+  <div class="container">
+
+    <!-- Tab links -->
+
+    <div class="tab">
+      <h6>{{ page.title }} Stats:</h6>
+      <button id="hot-stats-tab" class="hide tablinks active" onclick="switchTab(event, 'hot-stats')">HOT</button>
+      <button id="osm-stats-tab" class="tablinks active" onclick="switchTab(event, 'osm-stats')">OSM</button>
+    </div>
+
+  </div>
+
+  <!-- Tab content -->
+  <div id="hot-stats" class="hide tabcontent container home-stats">
     <div class="home-stat">
       <center><p class="loader"></p></center>
       <p class="stat-number" id="Community-Mappers"></p>
       <p class="stat-title">Community Mappers<sup>&#9432;</sup>
-        <span class="tooltiptext">Total number of Mappers from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> project</span>
+        <span class="tooltiptext">Total number of Mappers using HOT Tasking Manager</span>
       </p>
     </div>
     <div class="hr-v"></div>
@@ -152,7 +220,7 @@ layout: default
       <center><p class="loader"></p></center>
       <p class="stat-number" id="Total-Map-Edits"></p>
       <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
-        <span class="tooltiptext">Total number of Edits from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> project</span>
+        <span class="tooltiptext">Total number of edits using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
       </p>
     </div>
     <div class="hr-v hide-sm"></div>
@@ -160,7 +228,7 @@ layout: default
       <center><p class="loader"></p></center>
       <p class="stat-number" id="Buildings-Mapped"></p>
       <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
-        <span class="tooltiptext">Total number of Buildings mapped from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> project</span>
+        <span class="tooltiptext">Total number of buildings mapped using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
       </p>
     </div>
     <div class="hr-v"></div>
@@ -168,7 +236,41 @@ layout: default
       <center><p class="loader"></p></center>
       <p class="stat-number" id="Roads-Mapped"></p>
       <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
-        <span class="tooltiptext">Total length of Roads mapped from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> project</span>
+        <span class="tooltiptext">Total length of roads mapped using HOT Tasking Manager from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+      </p>
+    </div>
+  </div>
+
+  <div id="osm-stats" class="tabcontent container home-stats" style="display:none">
+    <div class="home-stat">
+      <center><p class="osm-loader"></p></center>
+      <p class="stat-number" id="OSM-Community-Mappers"></p>
+      <p class="stat-title">Community Mappers<sup>&#9432;</sup>
+        <span class="tooltiptext">Total number of OSM Mappers in {{ page.title }} from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+      </p>
+    </div>
+    <div class="hr-v"></div>
+    <div class="home-stat">
+      <center><p class="osm-loader"></p></center>
+      <p class="stat-number" id="OSM-Total-Map-Edits"></p>
+      <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
+        <span class="tooltiptext">Total number of OSM edits in {{ page.title }} from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+      </p>
+    </div>
+    <div class="hr-v hide-sm"></div>
+    <div class="home-stat">
+      <center><p class="osm-loader"></p></center>
+      <p class="stat-number" id="OSM-Buildings-Mapped"></p>
+      <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
+        <span class="tooltiptext">Total number of OSM buildings in {{ page.title }} from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+      </p>
+    </div>
+    <div class="hr-v"></div>
+    <div class="home-stat">
+      <center><p class="osm-loader"></p></center>
+      <p class="stat-number" id="OSM-Roads-Mapped"></p>
+      <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
+        <span class="tooltiptext">Total length of OSM roads in {{ page.title }} from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
       </p>
     </div>
   </div>
@@ -340,10 +442,13 @@ layout: default
 </div>
 
 <script>
-  var countryName = "{{ page.urlname }}".split('-').join(' ');
+  var countryName = "{{ page.title }}";
   var countryCode = "{{ page.names }}".substr(-5, 2);
   var missingMapsCode = "{{ page.names }}".substr(-3, 3);
+  var memberCount = "{{ memberscount }}"
+  var projectCount = "{{ projectcount }}"
 </script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
 <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
 <script src="{{ "/js/countries-map.js" | prepend: site.baseurl }}"></script>

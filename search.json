@@ -3,36 +3,46 @@ layout:
 ---
 
 [
-  {% for project in site.projects %}
-    {
-      "type"    : "Project",
-      "title"   : "{{ project.title | escape }}",
-      "summary" : "{{ project['Summary Text'] | escape | truncatewords: 40 | prepend: ' ' }}",
-      "subtitle"  : "{{project['HOT Involvement'] | escape | prepend: ' ' }}",
-      "url"     : "{{ site.url }}{{ project.url }}",
-      "date"    : "{{ project.date }}",
-      "country" : "{{ project.Country | join: ', ' }}"
-    },
-  {% endfor %}
-  {% for person in site.people %}
-    {
-      "type"    : "Member",
-      "title"   : "{{ person.title | escape }}",
-      "summary" : "{{ person.body | escape | truncatewords: 40 | prepend: ' ' }}",
-      "subtitle"  : "{{ person['Job Title'] | prepend: ' ' }}",
-      "url"     : "{{ site.url }}{{ person.url }}",
-      "date"    : "{{ person.date }}",
-      "country" : "{{ project.country | join: ', ' }}"
-    },
-  {% endfor %}
-  {% for post in site.posts %}
-    {
-      "type"     : "News",
-      "title"    : "{{ post.title | escape }}",
-      "summary"  : "{{ post['Summary Text'] | escape | truncatewords: 40 | prepend: ' ' }}",
-      "subtitle"   : "{{ post.Person | join: ', ' }}",
-      "url"      : "{{ site.url }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+{% for project in site.projects %}
+{
+"type":"Project",
+"title":"{{ project.title | escape }}",
+"summary":"{{ project['Summary Text'] | escape | truncatewords: 40 | strip | prepend: ' ' }}",
+"subtitle":"{{project['HOT Involvement'] | escape | prepend: ' ' }}",
+"url":"{{ site.url }}{{ project.url }}",
+"date":"{{ project.date }}",
+"country":"{{ project.Country | join: ', ' }}"
+},
+{% endfor %}
+{% for person in site.people %}
+{
+"type":"Member",
+"title":"{{ person.title | escape }}",
+"summary":"{{ person.body | escape | truncatewords: 40 | strip | prepend: ' ' }}",
+"subtitle":"{{ person['Job Title'] | prepend: ' ' }}",
+"url":"{{ site.url }}{{ person.url }}",
+"date":"{{ person.date }}",
+"country":"{{ project.country | join: ', ' }}"
+},
+{% endfor %}
+{% for post in site.posts %}
+{
+"type":"News",
+"title":"{{ post.title | escape }}",
+"summary":"{{ post['Summary Text'] | escape | truncatewords: 40 | strip | prepend: ' ' }}",
+"subtitle":"{{ post.Person | join: ', ' | prepend: ' '}}",
+"url":"{{ site.url }}{{ post.url }}",
+"date":"{{ post.date }}"
+}, 
+{% endfor %}
+{% for job in site.jobs %}
+{
+"type": "Job",
+"title": "{{ job.title | escape }}",
+"summary":"{{ job.body | escape | truncatewords : 40 | strip | prepend: ' ' }}",
+"subtitle":"Deadline: {{ job['Deadline Date'] | date_to_long_string }}",
+"url":"{{ site.url }}{{ job.url }}",
+"date":"{{ job.date }}"
+} {% unless forloop.last %},{% endunless %}
+{% endfor %}
 ]

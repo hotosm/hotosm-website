@@ -2,14 +2,16 @@
 title: Uganda
 Contact Person:
   Name: Paul Uithol
-  Title: Director, Community Programs
+  Title: Director of Programs
   Email: paul.uithol@hotosm.org
 Location:
-  Location Name: Hive CoLab
+  Location Name: HOT Uganda Offices
   Address: |-
-    4th Floor, Kanjokya House<br>
-    Plot 90, Kanjokya Street<br>
-    Kampala, Uganda
+    Plot 53 Kira Road,
+    Kamwokya,
+    Kampala,
+    Uganda
+  Phone: "+256777656999"
   Map Link: https://www.openstreetmap.org/node/5563939535
 continent: AF
 urlname: uganda
@@ -20,3 +22,4 @@ names:
 - UGA
 ---
 
+![Cool Shammie Training.JPG](/uploads/Cool%20Shammie%20Training.JPG)

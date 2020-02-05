@@ -1,15 +1,17 @@
 ---
 title: 'Global exposure database for all: GED4ALL'
 date: 2018-05-01 05:01:00 Z
-position: 14
+permalink: projects/global-exposure-database-for-all-ged4all
+position: 17
 Project Summary Text: HOT has partnered with the Global Earthquake Model (GEM) and
-  ImageCat on a Challenge Fund focused on developing a global exposure database for
-  multi-hazard risk analysis.
+  ImageCat on a Challenge Fund, focused on developing a global exposure database designed
+  for multi-hazard risk analysis.
 Feature Image: "/uploads/Screen%20Shot%202018-06-08%20at%2012.17.26%201.png"
 Country:
 - Global
 Impact Area:
 - Disaster Risk Reduction
+- Sustainable Cities
 Person:
 - Mhairi O'Hara
 Partner:
@@ -27,12 +29,18 @@ Contact: '<p><a style="font-style: normal; font-variant: normal; font-weight: no
   underline; white-space: pre-wrap; background-color: transparent;">&nbsp;</span></a></span></p>'
 ---
 
-<p><span id="docs-internal-guid-62b2c4d3-2d74-788e-3898-a65299fea496" style="font-weight: normal;"><span style="font-size: 15.3333px; font-family: Calibri; color: #232429; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; white-space: pre-wrap;"> </span></span></p><p> </p><p>HOT has partnered with the Global Earthquake Model (GEM) and ImageCat on a Challenge Fund focused on developing a global exposure database for multi-hazard risk analysis. The Challenge Fund, formed by the Global Facility for Disaster Reduction and Recovery (GFDRR) and the UK’s Department for International Development (DFID) is aimed at building local and global resilience through innovation in order to better identify risk and enable more effective decision-making.</p><p>
+The Challenge Fund, formed by the Global Facility for Disaster Reduction and Recovery (GFDRR) and the UK’s Department for International Development (DFID) is aimed at building local and global resilience through innovation in order to better identify risk and enable more effective decision-making. This is the second round of the Challenge Fund, which focuses on three initiatives attempting to address recommendations outlined in the GFDRR report ‘Solving the Puzzle: Innovating to Reduce Risk’. 
 
-This is the second round of the Challenge Fund, which focuses on three pilot projects that address the recommendations made in the recent GFDRR report ‘Solving the Puzzle: Innovating to Reduce Risk’ - namely, to expand the effort to decrease disaster risk management costs and increase resilience by developing a framework that facilitates a multi-hazard view of risk. Based on this research, efforts are being focused on developing the first set of open and internally consistent data on hazards, exposure, and vulnerability.</p><p> 
+To decrease disaster risk management costs and increase resilience by developing a framework that facilitates a multi-hazard view of risk, through the development of the first set of open and internally consistent hazards, exposure, and vulnerability data. Please read the '[Extensible data schemas for multiple hazards, exposure and vulnerability data](https://www.preventionweb.net/publications/view/65804)' paper published on PreventionWeb to learn more about the work involved with the second round of the Challenge Fund in 2017.
 
-Challenge 1, is led by the British Geological Survey (BGS) and focuses on developing a data schema and data for a multi-hazard database. Challenge 2, is led by GEM and focuses on developing a data schema and data for a global exposure database, whom HOT is partner with. Challenger 3, is led by University College of London (UCL) and focuses on developing a data schema and data for a global database of vulnerability functions.</p><p> 
+Initiative 1, is led by the British Geological Survey (BGS) and focuses on developing a data schema and data for a multi-hazard database. Initiative 2, is led by GEM and focuses on developing the schema and data for a global exposure database, whom HOT is partner with. Initiative 3, is led by University College of London (UCL) and focuses on developing a global database of vulnerability functions.
 
-The development of the open global exposure database aims to store different assets including, infrastructure, land-use, and socio-economic data. These assets will be relevant for multiple natural hazards, including earthquakes, floods, volcanoes, strong winds, tsunamis and drought. Individual infrastructure features will be populated with OpenStreetMap (OSM) data, as this is considered to have the best global coverage at the building level. HOT will support GEM with Challenge 2 by proposing a methodology for creating a bottom-up exposure model with the use of OSM, taking into account its data model and the use of associated tools. </p><p>
+GEM, ImageCat and HOT worked together on developing a ‘Global Exposure Database for Multi-Hazard Risk Analysis’ schema, which resulted in the creation of the Global Exposure Database for ALL (GED4ALL), along with protocols to integrate existing datasets, as well as the generation of new exposure information. Development of the open global exposure database, aims to store different assets including, infrastructure, land-use, and socio-economic data. These assets will be relevant for multiple natural hazards, including earthquakes, floods, volcanoes, strong winds, tsunamis and drought. 
 
-Although the three Challenge Funds are being developed somewhat independently, it is crucial to ensure their compatibility. For example, the spatial resolution between the exposure and the hazard must be compatible, as well as the taxonomy employed for the classification of the exposed elements and respective vulnerability functions. In parallel, two other databases are being created to store hazard footprints and vulnerability models. All three databases will be tested with data for the country of Tanzania.</p><p></p>
+An online tool is being developed by GFDRR, which will host the exposure data, along with the hazard footprints and vulnerability models. The data itself is slowly being populated globally through various projects, such as the [Open Cities Africa](https://www.hotosm.org/updates/open-cities-africa-kicks-off-in-kampala/) initiative lead by GFDRR and the [METEOR](https://www.hotosm.org/projects/modelling-exposure-through-earth-observation-meteor/) project lead by the British Geological Survey (BGS).
+
+HOT provided guidance on how GED4ALL can be populated with building level data from OpenStreetMap (OSM), assigning the most commonly used tags for the attributes identified by GEM as integral to determining the structural integrity of infrastructure in the wake of a hazard. The following OSM wiki page proposes and welcomes contributions from the community on how tags can be best aligned with the GED4ALL taxonomy:
+
+[OSM Wiki Page](https://wiki.openstreetmap.org/wiki/GED4ALL)  
+
+![Screen Shot 2019-03-01 at 12.37.11.png](/uploads/Screen%20Shot%202019-03-01%20at%2012.37.11.png)

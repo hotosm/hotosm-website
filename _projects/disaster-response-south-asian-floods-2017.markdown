@@ -1,7 +1,8 @@
 ---
 title: 'Disaster Response: South Asian Floods 2017'
 date: 2018-06-05 09:00:00 Z
-position: 21
+permalink: projects/disaster-response-south-asian-floods-2017
+position: 24
 Project Summary Text: Supporting the 2017 South Asian Floods in Bangladesh
 Feature Image: "/uploads/17425122_1266135073474949_2019968961198925397_n.jpg"
 Is Community-Led: true

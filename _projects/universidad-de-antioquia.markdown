@@ -1,7 +1,8 @@
 ---
 title: 'Universidad de Antioquia: Mapping Coastal Wetlands to understand Flooding'
 date: 2018-05-16 07:34:00 Z
-position: 20
+permalink: projects/universidad-de-antioquia
+position: 23
 Project Summary Text: Mapping coastal wetlands for climate change resilience
 Feature Image: "/uploads/Final%20field%20workshop%20stakeholders%203.JPG"
 Is Community-Led: true
@@ -10,6 +11,8 @@ Country:
 Impact Area:
 - Environment
 - Disaster Risk Reduction
+Duration:
+  End Date: 2019-01-01 00:00:00 Z
 Micrograntee: true
 ---
 

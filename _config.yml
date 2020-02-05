@@ -6,6 +6,10 @@ collections:
     title: Countries
     output: true
     permalink: "/where-we-work/:path/"
+  docs:
+    title: Docs & Guidelines
+    output: true
+    permalink: "/docs/:title/"
   impact-areas:
     title: Impact Areas
     output: true
@@ -23,17 +27,33 @@ collections:
   people:
     title: People
     output: true
-    permalink: "/people/:path/"
+    permalink: "/people/:title/"
   projects:
     title: Projects
     output: true
     permalink: "/projects/:path/"
+    tm_campaigns:
+    - 
+    Map Products:
+    - 
+    Data:
+    - title: 
+      link: 
+    Tools:
+    - tool: 
+      link: 
+    - tool: 
+      link: 
   tools:
     title: Tools
     output: true
   uploads:
     title: Uploads
     output: true
+  volunteer-opportunities:
+    title: Volunteer Opportunities
+    output: true
+    permalink: "/volunteer-opportunities/:path/"
   working-groups:
     title: Working Groups
     output: true
@@ -85,6 +105,15 @@ defaults:
     layout: impact-area
 - scope:
     path: ''
+    type: docs
+  values:
+    layout: page
+    Doc Type:
+      Is Asset: 
+      Is Guideline: 
+      Is Siteleaf: 
+- scope:
+    path: ''
     type: tools
   values:
     layout: impact-area
@@ -133,6 +162,20 @@ defaults:
     Duration:
       Start Date: 
       End Date: Ongoing
+    tm_campaigns:
+    - ''
+    project_extent: ''
+    Google Drive: https://drive.google.com/drive/folders/1p-dGhQsB4SSlucT3Yen1LlhqBj3Yvy-_
+    Map Products:
+    - ''
+    - ''
+    Data:
+    - title: ''
+    - link: ''
+    Tools:
+    - title: ''
+    - link: ''
+future: true
 email: info@hotosm.org
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search

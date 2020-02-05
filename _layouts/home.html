@@ -1,188 +1,215 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
 
-<div class="home">
+    {% include home-banner.html %}
 
-  <div class="container">
-    <header class="home-header">
-      <h1>{{ content }}</h1>
-      <div class="home-cta">
-        <a href="/what-we-do" class="btn btn-primary btn-lg btn-chevron btn-block">Learn about what we do</a>
-        <a href="/get-involved" class="btn btn-default btn-lg btn-chevron btn-block class hide-xs">Get involved</a>
-      </div>
-    </header>
-  </div>
+    <div class="page-body">
+      {% include nav.html %}
+      <div class="page-content">
 
-  <div class="home-highlights-controls">
+        <div class="home">
 
-    <div class="home-controls">
-      <div class="control" id="control-left">Left</div>
-      <div class="control" id="control-right">Right</div>
-    </div>
+          <div class="container">
+            <header class="home-header">
+              <h1>{{ content }}</h1>
+              <div class="home-cta">
+                <a href="/what-we-do" class="btn btn-primary btn-lg btn-chevron btn-block">Learn about what we do</a>
+                <a href="/get-involved" class="btn btn-default btn-lg btn-chevron btn-block class hide-xs">Get involved</a>
+              </div>
+            </header>
+          </div>
 
-    <div class="home-highlights">
+          <div class="home-highlights-controls">
 
-      <div class="home-highlights-wrapper">
-
-        {% for home-project in page.Project %}
-          {% for project in site.projects %}
-            {% if home-project == project.title %}
-              <a href="{{ project.url }}" class="home-highlight">
-                <img src="{{ project['Feature Image'] }}">
-                <div class="home-highlight-title">
-                  <p>
-                    {{ project.title }}
-                  </p>
-                  <p><span>
-                    {% if project.Country.size < 3 %}
-                      {% for country in project.Country %}
-                        <i>{{ country }}</i>
-                      {% endfor %}
-                    {% else %}
-                      {{ project.Country.size }} Countries
-                    {% endif %}
-                  </span></p>
-                </div>
-              </a>
-            {% endif %}
-          {% endfor %}
-        {% endfor %}
-
-      </div>
-    </div>
-  </div>
-
-  <div class="container home-stats">
-    <div class="home-stat">
-      <center><p id ="mappers" class="loader"></p></center>
-      <p class="stat-number" id="Community-Mappers"></p>
-      <p class="stat-title">Community Mappers<sup>&#9432;</sup>
-        <span class="tooltiptext">Total number of Mappers from HOT Community</span>
-      </p>
-    </div>
-    <div class="hr-v"></div>
-    <div class="home-stat">
-      <center><p id ="edits" class="loader"></p></center>
-      <p class="stat-number" id="Total-Map-Edits"></p>
-      <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
-        <span class="tooltiptext">Total number of Edits from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> project</span>
-      </p>
-    </div>
-    <div class="hr-v hide-sm"></div>
-    <div class="home-stat">
-      <center><p id ="buildings" class="loader"></p></center>
-      <p class="stat-number" id="Buildings-Mapped"></p>
-      <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
-        <span class="tooltiptext">Total number of Buildings mapped from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> project</span>
-      </p>
-    </div>
-    <div class="hr-v"></div>
-    <div class="home-stat">
-      <center><p id ="roads" class="loader"></p></center>
-      <p class="stat-number" id="Roads-Mapped"></p>
-      <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
-        <span class="tooltiptext">Total length of Roads mapped from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a> project</span>
-      </p>
-    </div>
-  </div>
-
-  <div class="news-preview">
-    <div class="container">
-
-      <header class="module-header">
-        <h6>Updates</h6>
-      </header>
-
-      <div class="news-preview-group">
-
-        {% for post in site.posts limit:3 %}
-          <div class="news-preview-item item-{{ forloop.index }}">
-            <div class="news-preview-image">
-              <img src="{{ post['Feature Image'] }}">
+            <div class="home-controls">
+              <div class="control" id="control-left">Left</div>
+              <div class="control" id="control-right">Right</div>
             </div>
-            <div class="news-preview-details">
-              <p class="news-preview-meta">{{ post.date | date: '%e %b %Y' }}</p>
-              <div class="news-preview-text">
-                <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
-                <p>
-                  {% if post['Summary Text'] %}
-                    {{ post['Summary Text']}}
-                  {% else %}
-                    {{ post.excerpt | strip_html | truncatewords:24 }}
-                  {% endif %}
-                </p>
-                <p class="news-preview-meta">
-                  {% if post.Country %}
-                    {{ post.Country | first }} — 
-                  {% endif %}
-                  {% capture post.Person %}{% endcapture %}
-                  {% assign author = site.people | where: "title", post.Person | first %}
-                  {% if post.Person %}
-                    {{ author.title }}
-                  {% endif %}
-                </p>
+
+            <div class="home-highlights">
+
+              <div class="home-highlights-wrapper piwikTrackContent">
+
+                {% for home-project in page.Project %}
+                  {% for project in site.projects %}
+                    {% if home-project == project.title %}
+                      <a href="{{ project.url }}" class="home-highlight">
+                        <img src="{{ project['Feature Image'] }}">
+                        <div class="home-highlight-title">
+                          <p>
+                            {{ project.title }}
+                          </p>
+                          <p><span>
+                            {% if project.Country.size < 3 %}
+                              {% for country in project.Country %}
+                                <i>{{ country }}</i>
+                              {% endfor %}
+                            {% else %}
+                              {{ project.Country.size }} Countries
+                            {% endif %}
+                          </span></p>
+                        </div>
+                      </a>
+                    {% endif %}
+                  {% endfor %}
+                {% endfor %}
+
               </div>
             </div>
           </div>
-        {% endfor %}
 
+          <div class="container home-stats">
+            <div class="home-stat">
+              <center><p class="loader"></p></center>
+              <p class="stat-number" id="Community-Mappers"></p>
+              <p class="stat-title">Community Mappers<sup>&#9432;</sup>
+                <span class="tooltiptext">Total number of Mappers using HOT Tasking Manager</span>
+              </p>
+            </div>
+            <div class="hr-v"></div>
+            <div class="home-stat">
+              <center><p class="loader"></p></center>
+              <p class="stat-number" id="Total-Map-Edits"></p>
+              <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
+                <span class="tooltiptext">Total number of edits from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+              </p>
+            </div>
+            <div class="hr-v hide-sm"></div>
+            <div class="home-stat">
+              <center><p class="loader"></p></center>
+              <p class="stat-number" id="Buildings-Mapped"></p>
+              <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
+                <span class="tooltiptext">Total number of buildings mapped from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+              </p>
+            </div>
+            <div class="hr-v"></div>
+            <div class="home-stat">
+              <center><p class="loader"></p></center>
+              <p class="stat-number" id="Roads-Mapped"></p>
+              <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
+                <span class="tooltiptext">Total length of roads mapped from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+              </p>
+            </div>
+          </div>
+
+          <div class="news-preview">
+            <div class="container">
+
+              <header class="module-header">
+                <h6>Updates</h6>
+              </header>
+
+              <div class="news-preview-group">
+
+                {% for post in site.posts limit:3 %}
+                  <div class="news-preview-item item-{{ forloop.index }}">
+                    <div class="news-preview-image">
+                      <img {% if post['Is image top aligned'] %} style="object-position: top center" {% endif %} src="{{ post['Feature Image'] }}">
+                    </div>
+                    <div class="news-preview-details">
+                     <p class="news-preview-meta">{{ post.date | date: '%e %b %Y' }}</p>
+                     <div class="news-preview-text">
+                        <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
+                        <p>
+                          {% if post['Summary Text'] %}
+                            {{ post['Summary Text']}}
+                          {% else %}
+                            {{ post.excerpt | strip_html | truncatewords:24 }}
+                          {% endif %}
+                        </p>
+                        <p class="news-preview-meta">
+                          {% if post.Country != '' %}
+                            {% for country in post.Country %}
+                              {% if country != '' %}
+                                {% if post.Country.size <= 3 %}
+                                  {{ country }}{% unless forloop.last %},{% endunless %}
+                                {% else %}
+                                  {% assign count = post.Country.size %}
+                                  {{post.Country[0]}} and {{ count | minus:1 }} other countries
+                                  {% break %}
+                                {% endif %}
+                              {% else %}
+                                Global
+                              {% endif %}  
+                            {% endfor %}
+                          {% endif %}
+                          {% if post.Person %}
+                            -{% for author in post.Person %}
+                              {{ author }}{% unless forloop.last %},{% endunless %}
+                            {% endfor %}
+                          {% endif %}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                {% endfor %}
+
+              </div>
+
+            </div>
+          </div>
+
+          <div class="container">
+
+            {% include impact-areas.html %}
+
+            <div class="hr-h"></div>
+
+            <div class="module-group two-rows">
+              <a class="module link-through light-img one" href="{{ page['Home Module 1'].URL }}">
+                <div class="module-details">
+                  <h3>{{ page['Home Module 1'].Header }}</h3>
+                  <div class="module-text"><p>{{ page['Home Module 1'].Text }}</p></div>
+                  <p class="module-cta">{{ page['Home Module 1']['Call to Action'] }}</p>
+                </div>
+                <div class="module-image">
+                  <img src="{{ page['Home Module 1'].Image }}">
+                </div>
+              </a>
+              <a class="module link-through light-img two" href="{{ page['Home Module 2'].URL }}">
+                <div class="module-details">
+                  <h3>{{ page['Home Module 2'].Header }}</h3>
+                  <div class="module-text"><p>{{ page['Home Module 2'].Text }}</p></div>
+                  <p class="module-cta"><span>{{ page['Home Module 2']['Call to Action'] }}</span></p>
+                </div>
+                <div class="module-image">
+                  <img src="{{ page['Home Module 2'].Image }}">
+                </div>
+              </a>
+              <a class="module link-through light-img three" href="{{ page['Home Module 3'].URL }}">
+                <div class="module-details">
+                  <h3>{{ page['Home Module 3'].Header }}</h3>
+                  <div class="module-text"><p>{{ page['Home Module 3'].Text }}</p></div>
+                  <p class="module-cta">{{ page['Home Module 3']['Call to Action'] }}</p>
+                </div>
+                <div class="module-image">
+                  <img src="{{ page['Home Module 3'].Image }}">
+                </div>
+              </a>
+            </div>
+
+            <div class="hr-h"></div>
+
+            <div class="home-newsletter">
+              <div class="newsletter-signup">
+                <h2>Subscribe for updates <br>& announcements</h2>
+                {% include newsletter-form.html %}
+              </div>
+              <div class="newsletter-description">
+                {% include newsletter-description.html %}
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+        {% include footer.html %}
       </div>
-
-    </div>
-  </div>
-
-  <div class="container">
-
-    {% include impact-areas.html %}
-
-    <div class="hr-h"></div>
-
-    <div class="module-group two-rows">
-      <a class="module link-through light-img one" href="{{ page['Home Module 1'].URL }}">
-        <div class="module-details">
-          <h3>{{ page['Home Module 1'].Header }}</h3>
-          <div class="module-text"><p>{{ page['Home Module 1'].Text }}</p></div>
-          <p class="module-cta">{{ page['Home Module 1']['Call to Action'] }}</p>
-        </div>
-        <div class="module-image">
-          <img src="{{ page['Home Module 1'].Image }}">
-        </div>
-      </a>
-      <a class="module link-through light-img two" href="{{ page['Home Module 2'].URL }}">
-        <div class="module-details">
-          <h3>{{ page['Home Module 2'].Header }}</h3>
-          <div class="module-text"><p>{{ page['Home Module 2'].Text }}</p></div>
-          <p class="module-cta"><span>{{ page['Home Module 2']['Call to Action'] }}</span></p>
-        </div>
-        <div class="module-image">
-          <img src="{{ page['Home Module 2'].Image }}">
-        </div>
-      </a>
-      <a class="module link-through light-img three" href="{{ page['Home Module 3'].URL }}">
-        <div class="module-details">
-          <h3>{{ page['Home Module 3'].Header }}</h3>
-          <div class="module-text"><p>{{ page['Home Module 3'].Text }}</p></div>
-          <p class="module-cta">{{ page['Home Module 3']['Call to Action'] }}</p>
-        </div>
-        <div class="module-image">
-          <img src="{{ page['Home Module 3'].Image }}">
-        </div>
-      </a>
     </div>
 
-    <div class="hr-h"></div>
-
-    <div class="home-newsletter">
-      <div class="newsletter-signup">
-        <h2>Subscribe for updates <br>& announcements</h2>
-        {% include newsletter-form.html %}
-      </div>
-      <div class="newsletter-description">
-        {% include newsletter-description.html %}
-      </div>
-    </div>
-
-  </div>
-
-</div>
+    <div id="optout-form"></div>
+  </body>
+</html>

@@ -16,10 +16,14 @@ $(document).on('click', 'a[href^="#"]', function (event) {
 
 $('#control-right').on('click', function (event) {
   $('.home-highlights-wrapper').addClass('right');
+  $('#control-right').css({'cursor' : 'auto', 'opacity' : 0.4});
+  $('#control-left').css({'cursor' : 'pointer', 'opacity' : 1});
 });
 
 $('#control-left').on('click', function (event) {
   $('.home-highlights-wrapper').removeClass('right');
+  $('#control-right').css({'cursor' : 'pointer', 'opacity' : 1});
+  $('#control-left').css({'cursor' : 'auto', 'opacity' : 0.4});
 });
 
 var fixmeTop = $('.nav-main').offset().top;
@@ -92,3 +96,17 @@ const collapse = (selector, cmd) => {
     target.classList[fnmap[cmd]]('show');
   });
 }
+
+var count=0;
+$("#toggle-arrow").on("click",function(){
+  count++;
+  $('#toggle-arrow').css("transform",'');
+  if(count%2!=0)
+    $('#toggle-arrow').css("transform","rotate(270deg)");
+  else
+    $('#toggle-arrow').css("transform","rotate(90deg)");
+});
+
+$(document).ready(function() {
+      $('#control-left').css({'cursor' : 'not-allowed', 'opacity' : 0.4});
+});

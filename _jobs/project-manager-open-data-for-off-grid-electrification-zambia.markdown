@@ -1,6 +1,8 @@
 ---
 title: Project Manager - Open Data for Off-Grid Electrification - Zambia
 date: 2018-05-14 12:17:00 Z
+published: false
+position: 7
 Deadline Date: 2018-05-20 00:00:00 Z
 Place of Work: Lusaka, Zambia
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfV4nZkFImD6RUlDEp-BauZv3vVY-ZPHgznFZbg0nReurZ8Og/viewform

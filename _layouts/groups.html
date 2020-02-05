@@ -18,6 +18,48 @@ layout: default
 
       <div class="group-list">
 
+        {% if page.url contains "/docs/" %}
+          <h2>{{ page.block-1.Title }}</h2>
+          <p>{{ page.block-1.Text }}</p>
+          {% for group in site.docs %}
+            {% if group['Doc Type']['Is Siteleaf'] %}
+              <a href="{{ group.url }}" class="module light link-through">
+                <div class="module-details">
+                  <h3>{{ group.title }}</h3>
+                </div>
+              </a>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+
+        {% if page.url contains "/docs/" %}
+          <h2>{{ page.block-2.Title }}</h2>
+          <p>{{ page.block-2.Text }}</p>
+          {% for group in site.docs %}
+            {% if group['Doc Type']['Is Guideline'] %}
+              <a href="{{ group.permalink }}" class="module light link-through">
+                <div class="module-details">
+                  <h3>{{ group.title }}</h3>
+                </div>
+              </a>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+
+        {% if page.url contains "/docs/" %}
+        <h2>{{ page.block-3.Title }}</h2>
+        <p>{{ page.block-3.Text }}</p>
+          {% for group in site.docs %}
+            {% if group['Doc Type']['Is Asset'] %}
+              <a href="{{ group.url }}" class="module light link-through">
+                <div class="module-details">
+                  <h3>{{ group.title }}</h3>
+                </div>
+              </a>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+
         {% if page.url contains "/working-groups/" %}
           {% for group in site.working-groups %}
             <div class="module light link-through">
@@ -74,9 +116,10 @@ layout: default
 
             <h4>Recently closed jobs</h4>
 
-            {% for job in jobs_sorted limit: 3 %}
+            {% assign jobs_closed = site.jobs | sort: 'Deadline Date' | reverse %}
+            {% for job in jobs_closed limit: 6 %}
               {% assign job_date = job['Deadline Date'] | date: '%Y%m%d' %}
-              {% if job_date <= current_date %}
+              {% if job_date < current_date %}
               <a href="{{ job.url }}" class="module light link-through">
                 <div class="module-details">
                   <h3>{{ job.title }}</h3>
@@ -85,11 +128,41 @@ layout: default
               </a>
               {% endif %}
             {% endfor %}
-
-
-          {% endif %}
-
         </div>
+        
+        {% endif %}
+
+        {% if page.url contains "/volunteer-opportunities/" %}
+
+          <div class="group-section">
+            <h4>Current Opportunities</h4>  
+            
+              {% assign current_date = site.time | date: '%Y%m%d' %}
+              {% assign volunteer-opportunities_sorted = site.volunteer-opportunities | sort: 'Deadline Date' %}
+  
+              {% for volunteer-opportunities in volunteer-opportunities_sorted %}
+                {% assign volunteer-opportunities_date = volunteer-opportunities['Deadline Date'] | date: '%Y%m%d' %}
+                {% if volunteer-opportunities_date >= current_date %}  
+
+              <a href="{{ volunteer-opportunities.url }}" class="module light link-through">
+                <div class="module-details">
+                  <h3>{{ volunteer-opportunities.title }}</h3>
+                  <div class="module-text">
+                    <p>Location: <span>{{ volunteer-opportunities['Place of Work'] }}</span></p>
+                    <p>Deadline: <span>{{ volunteer-opportunities['Deadline Date'] | date: '%d %B, %Y' }}</span></p>
+                  </div>
+                </div>
+              </a>
+
+             {% elsif forloop.last %}
+            <p><em>There are no current openings. Please check back for updates or keep a watch <a href="https://twitter.com/hotosm">on Twitter</a> for updates.</em></p>
+            {% endif %}
+          {% endfor %}
+        
+        </div>
+
+       {% endif %}
+
 
       </div>
 

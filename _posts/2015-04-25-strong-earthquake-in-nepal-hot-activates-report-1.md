@@ -1,7 +1,7 @@
 ---
 title: 'Strong Earthquake in Nepal - HOT Activates!  Report #1'
 date: 2015-04-25 15:29:02 Z
-permalink: updates/2015-04-25_strong_earthquake_in_nepal_-_hot_activates!__report_#1
+permalink: updates/2015-04-25_strong_earthquake_in_nepal_-_hot_activates!__report_1
 Person: Russell Deffner
 Working Group:
 - Activation

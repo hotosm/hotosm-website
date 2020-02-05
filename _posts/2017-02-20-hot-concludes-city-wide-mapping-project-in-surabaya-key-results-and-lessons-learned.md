@@ -1,15 +1,14 @@
 ---
-title: 'HOT Concludes City-wide Mapping Project in Surabaya: Key Results and Lessons’
+title: 'HOT Concludes City-wide Mapping Project in Surabaya: Key Results and Lessons
   Learned'
-date: 2017-02-20 09:09:36 Z
+date: 2017-02-20 09:09:00 Z
 permalink: updates/2017-02-20_hot_concludes_city-wide_mapping_project_in_surabaya_key_results_and_lessons’_l
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/pilihan.JPG
 Person: Biondi Sanda Sima
-Working Group: []
-Project:
-- 'Disaster Early Warning And Capacity Building: InAWARE'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/pilihan.JPG
+Project:
+- 'Disaster Early Warning And Capacity Building: InAWARE'
 created: 1487581776
 ---
 

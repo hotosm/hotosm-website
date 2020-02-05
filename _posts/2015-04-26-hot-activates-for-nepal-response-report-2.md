@@ -1,7 +1,7 @@
 ---
 title: 'HOT Activates for Nepal Response - Report #2'
 date: 2015-04-26 06:05:11 Z
-permalink: updates/2015-04-26_hot_activates_for_nepal_response_-_report_#2
+permalink: updates/2015-04-26_hot_activates_for_nepal_response_-_report_2
 Person: Heather Leson
 Working Group:
 - Technical

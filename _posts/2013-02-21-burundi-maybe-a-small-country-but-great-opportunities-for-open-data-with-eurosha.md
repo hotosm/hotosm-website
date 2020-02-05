@@ -16,7 +16,7 @@ Person: Séverin Ménard
 Working Group: []
 Project:
 - EUROSHA
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC_0231+800x600.jpg
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC_0231+800x600_0.jpg
 created: 1361483972
 ---
 
