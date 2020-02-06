@@ -1,5 +1,5 @@
 ---
-title: New OSM Datasets for Countries on HDX and Export Tool Updates
+title: 'Export Tool Updates: New OSM Datasets for Countries on HDX and More'
 date: 2020-02-06 09:00:00 Z
 published: false
 tags:
@@ -8,10 +8,10 @@ tags:
 - Tools
 - Export
 - Code
-Summary Text: "The most recent round of Humanitarian Data Exchange (HDX) development
-  work focused on delivering much needed OpenStreetMap data into the hands of our
-  users faster than ever, offering new export features, and capturing usage statistics
-  to support future development. \n"
+Summary Text: "We've updated the Export Tool! It's now even easier to deliver much
+  needed OpenStreetMap data into the HDX and the hands of our users faster than ever.
+  The update offers new export features, and captures usage statistics to support
+  future development. \n"
 Feature Image: "/uploads/Export%20Tool%20Blog%201.png"
 Is image top aligned: true
 Person: Mhairi O'Hara
@@ -21,7 +21,7 @@ Project:
 - HDX
 ---
 
-The most recent round of [HDX](https://data.humdata.org/) development work focused on streamlining the backend so jobs run faster, delivering much needed OpenStreetMap data into the hands of our users. Another key area of enhancement was admin functionality, including adding the ability to feature specific ‘Exports’ and ‘Configs’ right on the home page, as well as capturing usage statistics so that future rounds of development will be better informed. Our humanitarian users continue to be supported through the addition of new baseline datasets of countries to HDX as well as key lifeline infrastructure data for all of Indonesia through InAWARE.
+The new Export Tool will streamline the backend so jobs run faster, delivering much needed OpenStreetMap data into the hands of our users via  [HDX](https://data.humdata.org/). Another key area of enhancement was admin functionality, including adding the ability to feature specific ‘Exports’ and ‘Configs’ right on the home page, as well as capturing usage statistics so that future rounds of development will be better informed. Our humanitarian users continue to be supported through the addition of new baseline datasets of countries to HDX as well as key lifeline infrastructure data for all of Indonesia through InAWARE.
 
 ## **Greater Data Outreach**
 
