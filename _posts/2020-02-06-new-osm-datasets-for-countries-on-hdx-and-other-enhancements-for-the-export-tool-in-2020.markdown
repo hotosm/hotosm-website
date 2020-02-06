@@ -1,6 +1,5 @@
 ---
-title: New OSM Datasets for Countries on HDX and Other Enhancements for the Export
-  Tool in 2020
+title: New OSM Datasets for Countries on HDX and Export Tool Updates
 date: 2020-02-06 09:00:00 Z
 published: false
 tags:
@@ -9,9 +8,10 @@ tags:
 - Tools
 - Export
 - Code
-Summary Text: "The most recent round of HDX development work focused on delivering
-  much needed OSM data into the hands of our users faster than ever, offering new
-  export features, and capturing usage statistics to support future development. \n"
+Summary Text: "The most recent round of Humanitarian Data Exchange (HDX) development
+  work focused on delivering much needed OpenStreetMap data into the hands of our
+  users faster than ever, offering new export features, and capturing usage statistics
+  to support future development. \n"
 Feature Image: "/uploads/Export%20Tool%20Blog%201.png"
 Is image top aligned: true
 Person: Mhairi O'Hara
@@ -21,19 +21,19 @@ Project:
 - HDX
 ---
 
-The most recent round of HDX development work focused on streamlining the backend so jobs run faster, delivering much needed OSM data into the hands of our users. Another key area of enhancement was admin functionality, including adding the ability to feature specific ‘Exports’ and ‘Configs’ right on the home page, as well as capturing usage statistics so that future rounds of development will be better informed. Our humanitarian users continue to be supported through the addition of new baseline datasets of countries to HDX as well as key lifeline infrastructure data for all of Indonesia through InAWARE.  
+The most recent round of [HDX](https://data.humdata.org/) development work focused on streamlining the backend so jobs run faster, delivering much needed OpenStreetMap data into the hands of our users. Another key area of enhancement was admin functionality, including adding the ability to feature specific ‘Exports’ and ‘Configs’ right on the home page, as well as capturing usage statistics so that future rounds of development will be better informed. Our humanitarian users continue to be supported through the addition of new baseline datasets of countries to HDX as well as key lifeline infrastructure data for all of Indonesia through InAWARE.
 
 ## **Greater Data Outreach**
 
-Our aim for the Export Tool has always been to make it easier for users to select and download OpenStreetMap (OSM) data, independent of their technical skills and experience. The Export Tool allows users to identify which map features they want to extract within a chosen area of interest. These are then converted into the file format of their choice.
+Our aim for the [Export Tool](https://export.hotosm.org/en/v3/) has always been to make it easier for users to select and download OpenStreetMap data, independent of their technical skills and experience. The Export Tool allows users to identify which map features they want to extract within a chosen area of interest. These are then converted into the file format of their choice.
 
 It sounds simple enough, but there are still difficulties that users can encounter, such as actually knowing what features might be within the area of interest. And there is the issue of knowing what tagging names are used in OpenStreetMap for specific features. This is particularly tricky for users unfamiliar with the data structure and tagging system.
 
-This is where the collaboration with the Humanitarian Data Exchange (HDX) back in 2017 was a game changer for getting up-to-date OSM data into the hands of even more humanitarians. HDX is an open data sharing platform managed by the United Nations Office for the Coordination of Humanitarian Affairs, and a key online resource that individuals and organisations go to when looking for baseline map data.  There was a clear opportunity to provide OSM building, road, waterway, and points of interest datasets to the HDX platform through the Export Tool, making accessing OSM data easier than ever for its users.
+This is where the collaboration with the HDX back in 2017 was a game-changer for getting up-to-date OpenStreetMap data into the hands of even more humanitarians. HDX is an open data-sharing platform managed by the United Nations Office for the Coordination of Humanitarian Affairs, and a key online resource that individuals and organizations go to when looking for baseline map data.  There was a clear opportunity to provide OpenStreetMap building, road, waterway, and points of interest datasets to the HDX platform through the Export Tool, making accessing the data easier than ever for its users.
 
-An integration component was built into the Export Tool so that these four OSM datasets for specific countries could be set up to automatically export on a specified schedule. This way, any new data that is added to OSM for the country will be extracted and hosted on HDX, ready for download and use in a variety of common GIS file formats. This integration led to the OSM datasets being among the most downloaded on HDX in 2019, so it only made sense that we would continue to support the needs of the public with even more OSM datasets.
+An integration component was built into the Export Tool so that these four OpenStreetMap datasets for specific countries could be set up to automatically export on a specified schedule. This way, any new data that is added to OpenStreetMap for the country will be extracted and hosted on HDX, ready for download and use in a variety of common GIS file formats. This integration led to the OpenStreetMap datasets being among the most downloaded on HDX in 2019, so it only made sense that we would continue to support the needs of the public with even more datasets.
 
-This successful collaboration led to the addition of seven more datasets on top of the four outlined above. Airports and helipads, education facilities, health facilities, financial services, populated places, railways and sea ports were identified as key through discussions with our partners at [MapAction](https://mapaction.org/) to see what baseline data is generally required when they are deployed for a humanitarian response. These new datasets are now included to support the Geography & Infrastructure category of the new ‘[Data Grid](https://centre.humdata.org/introducing-the-hdx-data-grid-a-way-to-find-and-fill-data-gaps/)’ feature of HDX. This feature aims to provide data for a wide range of users and needs. The Data Grid looks at country level datasets and assesses whether the data is in a common format, tidy, geo-spatially referenced, comprehensive, and up-to-date.
+This successful collaboration led to the addition of seven more datasets on top of the four outlined above. Airports and helipads, education facilities, health facilities, financial services, populated places, railways, and seaports were identified as key through discussions with our partners at [MapAction](https://mapaction.org/) to see what baseline data is generally required when they are deployed for a humanitarian response. These new datasets are now included to support the Geography & Infrastructure category of the new ‘[Data Grid](https://centre.humdata.org/introducing-the-hdx-data-grid-a-way-to-find-and-fill-data-gaps/)’ feature of HDX. This feature aims to provide data for a wide range of users and needs. The Data Grid looks at country level datasets and assesses whether the data is in a common format, tidy, geo-spatially referenced, comprehensive, and up-to-date.
 
 ![Export Tool Blog 2.png](/uploads/Export%20Tool%20Blog%202.png)
 
@@ -60,7 +60,6 @@ The YAML code used by the Export Tool to extract features and filter specific at
       - source
     where: aeroway IS NOT NULL OR building = 'aerodrome' OR emergency:helipad IS NOT NULL OR emergency = 'landing_site'
 
-
 **Education Facilities**
 
     types:
@@ -76,7 +75,6 @@ The YAML code used by the Export Tool to extract features and filter specific at
       - addr:city
       - source
     where: amenity IN ('kindergarten', 'school', 'college', 'university') OR building IN ('kindergarten', 'school', 'college', 'university')
-
 
 **Health Facilities**
 
@@ -96,7 +94,6 @@ The YAML code used by the Export Tool to extract features and filter specific at
       - source
     where: healthcare IS NOT NULL OR amenity IN ('doctors', 'dentist', 'clinic', 'hospital', 'pharmacy')
 
-
 **Financial Services**
 
     types:
@@ -112,7 +109,6 @@ The YAML code used by the Export Tool to extract features and filter specific at
       - source
     where: amenity IN ('mobile_money_agent','bureau_de_change','bank','microfinance','atm','sacco','money_transfer','post_office')
 
-
 **Populated Places**
 
     types:
@@ -125,7 +121,6 @@ The YAML code used by the Export Tool to extract features and filter specific at
       - is_in
       - source
     where: place IN ('isolated_dwelling', 'town', 'village', 'hamlet', 'city')
-
 
 **Railways**
 
@@ -142,7 +137,6 @@ The YAML code used by the Export Tool to extract features and filter specific at
       - addr:city
       - source
     where: railway IN ('rail','station')
-
 
 **Seaports**
 
@@ -165,15 +159,15 @@ The YAML code used by the Export Tool to extract features and filter specific at
 
 Continuing on from the success of the integration of the Export Tool and HDX, it made sense to build out another integration for our long time partner, the [Pacific Disaster Center](https://www.pdc.org/) (PDC). We started working with them in 2016 on the [InAWARE](https://www.hotosm.org/projects/disaster-early-warning-and-capacity-building-inaware) project in Indonesia, which focused on the data collection of key lifeline infrastructure in Surabaya and Jakarta in collaboration with the [National Disaster Management Agency](https://bnpb.go.id/) (BNPB). The city of Semarang was added in 2018, and a scale up program focused on training BNPB staff to replicate the mapping process for collecting key lifeline infrastructure data across the country began in 2019. As responsibility for maintaining and updating the data shifts to the hands of BNPB and the citizens they are collaborating with, we decided to automate how this data is brought into the disaster management platform InAWARE.
 
-Previously static datasets were exported and provided to PDC for integration into the platform for the cities of Surabaya, Jakarta, and Semarang. Now with the new integration, similar to the setup for HDX, the exports are automatically set to update based on a specified time interval (such as hourly, daily, or weekly). This will help our partners and their end users keep their data up to date as new information is added to OSM. One of the key goals during the development of the integration for PDC was to set up the tool so that it will be easy to continually adapt for existing partners, as well as add new partners in future collaborations.
+Previously static datasets were exported and provided to PDC for integration into the platform for the cities of Surabaya, Jakarta, and Semarang. Now with the new integration, similar to the setup for HDX, the exports are automatically set to update based on a specified time interval (such as hourly, daily, or weekly). This will help our partners and their end-users keep their data up to date as new information is added to OpenStreetMap. One of the key goals during the development of the integration for PDC was to set up the tool so that it will be easy to continually adapt for existing partners, as well as add new partners in future collaborations.
 
 ![Export Tool Blog 3.png](/uploads/Export%20Tool%20Blog%203.png)
 
 ## **Featured Exports and Configurations**
 
-The HDX data model used to extract OSM data through the tool can be found on the ‘[About](https://export.hotosm.org/en/v3/)’ page as a ‘[Featured Configuration](https://export.hotosm.org/en/v3/configurations/detail/b96a923b-8b43-437b-9dce-b4fb09530750)’. This can easily be applied to your own export by copying and pasting the YAML syntax under the ‘Feature Selection’ box into the ‘3 Data’ tab during the job creation. Currently the OSM data models used as part of the ‘[Global Exposure Database 4 All](https://wiki.openstreetmap.org/wiki/GED4ALL)’ and ‘[Global Healthsites Mapping Project](https://wiki.openstreetmap.org/wiki/Global_Healthsites_Mapping_Project)’ are also featured configurations. Please let us know if you have any other OSM data models that you would like to feature on the Export Tool. Get in touch via the #export-tool channel on the [HOT Slack](https://slack.hotosm.org/).
+The HDX data model used to extract OpenStreetMap data through the tool can be found on the ‘[About](https://export.hotosm.org/en/v3/)’ page as a ‘[Featured Configuration](https://export.hotosm.org/en/v3/configurations/detail/b96a923b-8b43-437b-9dce-b4fb09530750)’. This can easily be applied to your own export by copying and pasting the YAML syntax under the ‘Feature Selection’ box into the ‘3 Data’ tab during the job creation. Currently, the OpenStreetMap data models used as part of the ‘[Global Exposure Database 4 All](https://wiki.openstreetmap.org/wiki/GED4ALL)’ and ‘[Global Healthsites Mapping Project](https://wiki.openstreetmap.org/wiki/Global_Healthsites_Mapping_Project)’ are also featured configurations. Please let us know if you have any other data models that you would like to feature on the Export Tool. Get in touch via the #export-tool channel on the [HOT Slack](https://slack.hotosm.org/).
 
-Similarly, there are ‘Featured Export’ jobs listed on the ‘[About](https://export.hotosm.org/en/v3/)’ page, which are generally focused on OSM extracts created in response to a HOT activation and cover the exact area of mapping interest outlined in the Tasking Manager. These exports are also set to update automatically based on the selected frequency (such as hourly, daily, or weekly), so that disaster response partners can keep their data up to date as new data gets added to OSM by mappers.
+Similarly, there are ‘Featured Export’ jobs listed on the ‘[About](https://export.hotosm.org/en/v3/)’ page, which are generally focused on OSM extracts created in response to a HOT activation and cover the exact area of mapping interest outlined in the Tasking Manager. These exports are also set to update automatically based on the selected frequency (such as hourly, daily, or weekly), so that disaster response partners can keep their data up to date as new data gets added to OpenStreetMap by mappers.
 
 ![Export Tool Blog 4-736828.png](/uploads/Export%20Tool%20Blog%204-736828.png)
 
@@ -181,7 +175,7 @@ Similarly, there are ‘Featured Export’ jobs listed on the ‘[About](https:/
 
 ## Aggregated Tool Stats
 
-A major focus in enhancing the Export Tool admin functionality is to capture additional user statistics to better understand how, where, what, and when the service is being used. This will help pave the way for future rounds of development. The stats that are currently being collected and aggregated are the number of new users of the tool as well as the number of exports being generated and their geospatial distribution across regions. These stats can be filtered and disaggregated based on the past week, past month, past 3 months, past 6 months, past year, past 2 years, as well as custom time intervals. 
+A major focus in enhancing the Export Tool admin functionality is to capture additional user statistics to better understand how, where, what, and when the service is being used. This will help pave the way for future rounds of development. The stats that are currently being collected and aggregated are the number of new users of the tool as well as the number of exports being generated and their geospatial distribution across regions. These stats can be filtered and disaggregated based on the past week, past month, past three months, past six months, past year, past two years, as well as custom time intervals.
 
 ![Export Tool Blog 6.png](/uploads/Export%20Tool%20Blog%206.png)
 
