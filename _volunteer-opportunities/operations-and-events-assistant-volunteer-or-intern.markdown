@@ -1,6 +1,9 @@
 ---
 title: Operations & Events Assistant (Volunteer or Intern)
 date: 2020-02-14 12:47:00 Z
+Deadline date: 2020-02-28 00:00:00 Z
+Place of work: Washington DC preferred; remote possible
+Apply form link: http://bit.ly/HOTvolunteer1
 ---
 
 **Team:** Operations and Finance Team
@@ -9,6 +12,8 @@ date: 2020-02-14 12:47:00 Z
 **Start Date:** ASAP
 **Hours Required:** 15-20 hours per week
 
+## About HOT
+Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 175,000 people with ground operations in eight countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
 
 **Overview: **
 HOT’s Operations Team is looking for an Operations and Events Assistant to work closely with the Global Operations Manager and Director of Finance & Admin to support project operations and staff across multiple countries and support logistics for planning the annual HOT Summit, taking place this year in Cape Town, South Africa in July 2020. **Please note this is an unpaid position and available either to a volunteer or individual seeking internship credit.**
@@ -46,4 +51,4 @@ HOT’s Operations Team is looking for an Operations and Events Assistant to wor
 
 **This position is unpaid; however, HOT will support academic credit through your institution, if available, and the Operations & Event Assistant will have the opportunity to attend the HOT Summit in Cape Town, South Africa in July 2020 with all expenses paid by HOT.**
 
-To apply please [complete the online application](https://docs.google.com/forms/d/e/1FAIpQLSfRwVIte1bZZmPuPAT4_yo_4zqHPqPTOBBBhzZYtWFhBoXvjA/viewform) by 28 February, 2020. Applications will be reviewed on a rolling basis.
+To apply please [complete the online application](http://bit.ly/HOTvolunteer1) by 28 February, 2020. Applications will be reviewed on a rolling basis.
