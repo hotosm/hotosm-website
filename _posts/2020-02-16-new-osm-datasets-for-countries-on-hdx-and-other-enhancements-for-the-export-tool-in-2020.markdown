@@ -1,17 +1,17 @@
 ---
 title: 'Export Tool Updates: New OSM Datasets for Countries on HDX and More'
-date: 2020-02-06 09:00:00 Z
-published: false
+date: 2020-02-16 09:00:00 Z
 tags:
 - HDX
 - Tech
 - Tools
 - Export
 - Code
-Summary Text: "We've updated the Export Tool! It's now even easier to deliver much
-  needed OpenStreetMap data into the HDX and the hands of our users faster than ever.
-  The update offers new export features, and captures usage statistics to support
-  future development. \n"
+Summary Text: "We've updated the Export Tool! It's now even easier to deliver critical
+  OpenStreetMap data into the [Humanitarian Data Exchange (HDX)](https://data.humdata.org/),
+  and the hands of the organizations that use it, faster than ever. The update offers
+  new export features, and captures how people are using it, so we can further tailor
+  it to users' needs. \n"
 Feature Image: "/uploads/Export%20Tool%20Blog%201.png"
 Is image top aligned: true
 Person: Mhairi O'Hara
@@ -21,7 +21,9 @@ Project:
 - HDX
 ---
 
-The new Export Tool will streamline the backend so jobs run faster, delivering much needed OpenStreetMap data into the hands of our users via  [HDX](https://data.humdata.org/). Another key area of enhancement was admin functionality, including adding the ability to feature specific ‘Exports’ and ‘Configs’ right on the home page, as well as capturing usage statistics so that future rounds of development will be better informed. Our humanitarian users continue to be supported through the addition of new baseline datasets of countries to HDX as well as key lifeline infrastructure data for all of Indonesia through InAWARE.
+When you're working in a disaster or emergencies, accessing the information you need as quickly and easily as possible makes all the difference. With our users in mind, we've launched the new Export Tool, which is even faster, delivering much needed OpenStreetMap data into the hands of those who need it as quickly as possible – via  [HDX](https://data.humdata.org/). It is now easier to navigate, with Export and Configuration tabs easier to find on the navigation bar.
+
+By capturing usage metrics, we will also be able to further develop the tool with better informed and data-driven changes. We will continue to add new baseline datasets of countries to HDX, as well as add key lifeline infrastructure data for all of Indonesia to InAWARE.
 
 ## **Greater Data Outreach**
 
