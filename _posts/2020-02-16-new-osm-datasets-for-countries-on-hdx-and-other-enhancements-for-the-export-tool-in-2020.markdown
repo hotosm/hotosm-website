@@ -8,10 +8,10 @@ tags:
 - Export
 - Code
 Summary Text: "We've updated the Export Tool! It's now even easier to deliver critical
-  OpenStreetMap data into the [Humanitarian Data Exchange (HDX)](https://data.humdata.org/),
-  and the hands of the organizations that use it, faster than ever. The update offers
-  new export features, and captures how people are using it, so we can further tailor
-  it to users' needs. \n"
+  OpenStreetMap data into the [Humanitarian Data Exchange](https://data.humdata.org/)
+  (HDX), and the hands of the organizations that use it, faster than ever. The update
+  offers new export features, and captures how people are using it, so we can further
+  tailor it to users' needs. \n"
 Feature Image: "/uploads/Export%20Tool%20Blog%201.png"
 Is image top aligned: true
 Person: Mhairi O'Hara
