@@ -182,6 +182,6 @@ A major focus in enhancing the Export Tool admin functionality is to capture add
 
 ![Export Tool Blog 6.png](/uploads/Export%20Tool%20Blog%206.png)
 
-![Export Tool Blog 7-74b54c.png](/uploads/Export%20Tool%20Blog%207-74b54c.png)
+![Export Tool Blog 7B-74b54c.png](/uploads/Export%20Tool%20Blog%207B-74b54c.png)
 
 These stats are visually supported with a map of the exports on the right side of the page, as well as the ability to export the information in a CSV file for further analysis and data visualization by users. Please note that the stats page is currently only accessible to admin users of the tool, but there are plans to open this to the general public in the next round of development.
