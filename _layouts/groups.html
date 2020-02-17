@@ -148,7 +148,7 @@ layout: default
                 <div class="module-details">
                   <h3>{{ volunteer-opportunities.title }}</h3>
                   <div class="module-text">
-                    <p>Location: <span>{{ volunteer-opportunities['Place of Work'] }}</span></p>
+                    <p>Location: <span>{{ volunteer-opportunities['Place of Work'] | escape }}</span></p>
                     <p>Deadline: <span>{{ volunteer-opportunities['Deadline Date'] | date: '%d %B, %Y' }}</span></p>
                   </div>
                 </div>

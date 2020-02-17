@@ -1,15 +1,20 @@
 ---
 title: Operations & Events Assistant (Volunteer or Intern)
 date: 2020-02-14 12:47:00 Z
-Deadline date: 2020-02-28 00:00:00 Z
-Place of work: Washington DC preferred; remote possible
-Apply form link: http://bit.ly/HOTvolunteer1
+Deadline Date: 2020-02-28 00:00:00 Z
+Place of Work: Washington DC preferred; remote possible
+Apply Form Link: http://bit.ly/HOTvolunteer1
+layout: page
 ---
 
 **Team:** Operations and Finance Team
-**Location:** Washington, DC preferred; remote will be considered
+
+**Location:** Washington, DC preferred; remote will be considered 
+
 **Timeframe:** 6 months minimum 
+
 **Start Date:** ASAP
+
 **Hours Required:** 15-20 hours per week
 
 ## About HOT
