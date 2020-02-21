@@ -19,8 +19,8 @@ layout: page
 ## About HOT
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 175,000 people with ground operations in eight countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
 
-**Overview: **
-HOT’s Technical Team is looking for a HOT Summit Website Volunteer to help create a website for the annual HOT Summit taking place in Cape Town, South Africa in July 2020. Using existing code and formatting of the HOT Summit’s website from 2019, the volunteer will create and update content for this year’s event and ensure full functionality of the website, applying feature improvements and bug fixes as needed.**
+**Overview:**
+HOT’s Technical Team is looking for a HOT Summit Website Volunteer to help create a website for the annual HOT Summit taking place in Cape Town, South Africa in July 2020. Using existing code and formatting of the HOT Summit’s website from 2019, the volunteer will create and update content for this year’s event and ensure full functionality of the website, applying feature improvements and bug fixes as needed.
 
 **Responsibilities:**
 
