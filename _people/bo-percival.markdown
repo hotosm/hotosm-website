@@ -7,9 +7,9 @@ Member Type:
 Job Title: Director of Technology and Innovation
 Country: France
 Social Media (Full URL):
-  OSM: openstreetmap.org/user/bo_hot
-  Twitter: "@bopercival"
-  LinkedIn: linkedin.com/in/bopercival
+  OSM: https://openstreetmap.org/user/bo_hot
+  Twitter: https://twitter.com/bopercival
+  LinkedIn: https://linkedin.com/in/bopercival
 ---
 
 Sitting at the junction of technology and development, Bo Percival is a self-proclaimed ‘geek for good’, dedicated to uncovering insights at the intersection of behaviour, economics, technology and development.
