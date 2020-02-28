@@ -144,15 +144,25 @@ layout: default
                     {% endif %}
                     <div class="panel-wrapper">
 
+                    {% if page['project_extent'] != '' %}
+                        <button class="more" id="more" onclick="content('more')">Read more</button>
+                        <button class="less" id="less" onclick="content('less')" style="display:none;">Show less</button>
+
                         <div id="panel" class="panel">
                             {{ content | truncatewords: 125 }}
                         </div>
                         <div id="panel-new" class="panel" style="display:none; margin-bottom:5%; ">
                             {{ content }}
                         </div>
-                        <button class="more" id="more" onclick="content('more')">Read more</button>
-                        <button class="less" id="less" onclick="content('less')" style="display:none;">Show less</button>
-                    </div>
+
+                        <div class="fade"></div>
+                        
+                        {% else %} 
+
+                            {{ content }}
+
+                    {% endif %}
+                   </div>
                 </div>
             </div>
 
@@ -294,7 +304,11 @@ layout: default
 
 </div>
 
-
+{% if page['project_extent'] != '' %}
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@turf/turf@5/turf.min.js"></script>
 <script>
     var countries = "{{ page.Country | join: ', ' }}"
     var campaignTags = "{{ page.tm_campaigns | join: ', ' }}"
@@ -321,11 +335,13 @@ layout: default
         }
     }
 </script>
+
 <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
 <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@turf/turf@5/turf.min.js"></script>
 {% if page['project_extent'] != ''%}
 <script src="{{ '/js/project-map.js' | prepend: site.baseurl }}"></script>
+
 {% endif %}
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
