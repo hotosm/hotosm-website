@@ -9,7 +9,7 @@ Feature Image: "/uploads/P1210301.jpg"
 Country:
 - Haiti
 Person:
-- 'Jaakko Helleranta '
+- Jaakko Helleranta
 - ALCE Samuel Paul
 - Jean Bully PROPHETE
 Duration:

@@ -20,7 +20,7 @@ map.on('load', function() {
     "source": "countriesbetter",
     "source-layer": "countriesbetter",
     "minzoom": 0,
-    "maxzoom": 8,
+    "maxzoom": 18,
     "filter": ['in', 'name_low', country.toLowerCase()],
     "paint": {
       "fill-pattern": "lines-red-4",

@@ -25,20 +25,21 @@ Partner:
 - UN High Commissioner for Refugees (UNHCR)
 Duration:
   Start Date: 2016-12-01 00:00:00 Z
-HOT Involvement: Community Development
-Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
-created: 1486393561
+  End Date: 2018-07-31 00:00:00 Z
 tm_campaigns:
 - Crowdsourcing Non-Camp Refugee Data
+project_extent: 1VuEc-Uji6DUm9TTnnXSpCRUt5ZLxVOOK
 Data:
 - title: Humanitarian Data Exchange
   link: https://data.humdata.org/organization/hot
 Tools:
 - tool: Export Tool
   link: https://export.hotosm.org/en/v3/
-- tool: OSM Analytics
-  link: http://osm-analytics.org
-project_extent: 1oFjmYmQ2Y6miEYU9iO_cG6j3Elf8Zz3s
+- link: http://osm-analytics.org
+  tool: OSM Analytics
+HOT Involvement: Community Development
+Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
+created: 1486393561
 ---
 
 <p>The “Crowdsourcing Non-Camp Refugee Data Through OpenStreetMap” project aims to improve program planning and&nbsp; service delivery to refugee communities, develop better integration with host communities, and build refugee self-reliance through open map data. The program trains and equips community leaders in refugee communities to map vulnerabilities and assets in the places they live, filling in key data gaps and “blank spots” on the map. These micro-level maps are created using techniques including crowdsourced data collection on mobile phones. The resulting multilanguage maps and map data are then made openly available online in OpenStreetMap, on mobile phones for navigation, in printed form in refugee social/community centers, and provided to host country governments, PRM, UNHCR, and NGOs.

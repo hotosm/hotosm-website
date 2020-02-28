@@ -2,6 +2,7 @@
 title: Crowd2Map- Assistant Project Manager (Internship)
 date: 2018-10-04 21:23:00 Z
 published: false
+position: 20
 Deadline Date: 2018-10-18 00:00:00 Z
 ---
 

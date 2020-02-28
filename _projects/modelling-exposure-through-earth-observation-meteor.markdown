@@ -15,7 +15,8 @@ Impact Area:
 - Disaster Risk Reduction
 Person:
 - Mhairi O'Hara
-- Tyler Radford
+- William Evans
+- Gaurav Thapa
 Partner:
 - British Geological Survey
 - ImageCat
@@ -25,12 +26,9 @@ Partner:
 Duration:
   Start Date: 2018-05-01 00:00:00 Z
   End Date: 2021-04-01 00:00:00 Z
-HOT Involvement: Community Development
-Link: http://meteor.openquake.org/
-Contact: <p><a href="https://hotosm.org/users/mhairi_ohara">Mhairi O'Hara</a></p>
 tm_campaigns:
 - "#METEOR"
-project_extent: 1yhnXZXrMD1AC00TrOKgzMJtVJHtea4xF
+project_extent: 1Gwzi-6DwC7A6itvCIJ7mC30ZxiQsGo_k
 Google Drive: https://drive.google.com/drive/u/1/folders/1l6nMr0axyBoo9rWWdI_E4CqLLjwmWAoD
 Map Products:
 - 16KOkpG5Sy3eI_7ZbTcIsq_Ou5Rj44VPN
@@ -41,17 +39,38 @@ Data:
 Tools:
 - tool: Export Tool
   link: https://export.hotosm.org/en/v3/exports/bf3c20c6-dc0e-423a-a9b9-97b53cd7a8da
-- tool: OSM Analytics
-  link: https://osm-analytics.org/#/show/hot:5370/buildings/recency
+- link: https://osm-analytics.org/#/show/hot:5370/buildings/recency
+  tool: OSM Analytics
+HOT Involvement: Community Development
+Link: http://meteor.openquake.org/
+Contact: <p><a href="https://hotosm.org/users/mhairi_ohara">Mhairi O'Hara</a></p>
 ---
 
-Dar es Salaam is one of the fastest growing cities in Africa, with an annual population growth of over 5.7%.  In 2002 there were approximately 2.5 million inhabitants, increasing to 4.4 million in 2012, and currently estimated at over 5.5 million.  The population is expected to exceed 10 million by 2040, making Dar es Salaam a megacity.  Urbanization is largely unplanned, and around 70% of city residents live in informal settlements.  The poorest citizens who settle in these areas not only have less access to basic services, but are also the most exposed to natural hazards.
+The escalating impacts of natural hazards are caused mostly by increasing exposure of populations and assets. It is estimated that the world will see the construction of 1 billion new dwellings by 2050 and this growth may lead to rapid increase in risk.
 
-Severe flooding in December 2011 - January 2012 displaced at least 10,000 people in Dar es Salaam and caused 40 deaths.  Heavy rains in April 2014 also led to widespread flooding and infrastructure damage.  Climate change is expected to exacerbate these trends, as Tanzania’s coastal region is likely to experience heavier, more concentrated rainfall events.  Increasing frequency of floods, landslides, and other hazards is expected to impact the most fragile, unplanned parts of the city.
+.: *UK Space Agency* :.
 
-In 2015 HOT began an initiative to mapping infrastructure data in various parts of Dar es Salaam. Now in its second phase, Ramani Huria 2.0, which began in 2017, is combining exposure data and flood hazard data to conduct risk analysis of potential future disasters. The team are using community mapping techniques to engage with local leaders and teach community inhabitants free, open source data collection tools from their smartphones. The data collected is enabling people across all levels of society to improve flood mitigation plans and raise awareness and resiliency to natural threats.
+HOT is working together with the British Geological Survey, ImageCat, and the Global Earthquake Model on a UK Space Agency International Partnership Programme, focused on developing innovative applications of earth observation (EO) technologies to improve understanding of exposure to help minimise these risks.
 
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/VtDcR_e8_vQ?ecver=2" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+The project aims to build and strengthen local and global resilience through complete, up-to-date, accurate exposure data in order to better identify risk and enable more effective decision-making:
 
-[Twitter](http://twitter.com/ramanihuria) <br>
-[Photo Gallery](https://www.flickr.com/photos/ramanihuria/)
+* Deliver exposure data for 46 of the least developed Official Development Assistance (ODA) countries
+
+* Capacity-building of local decision makers to apply data and assess hazard exposure
+
+* Create open protocols to develop critical exposure information from EO data
+
+![Screen Shot 2018-10-29 at 14.29.43.png](/uploads/Screen%20Shot%202018-10-29%20at%2014.29.43.png)
+
+The country-wide datasets developed by ImageCat will be tested for their suitability of purpose against OSM data surveyed on the ground within the cities of Kathmandu and Dar es Salaam. Detailed attribute information following the [GED4ALL](https://wiki.openstreetmap.org/wiki/GED4ALL) taxonomy developed as part of the GFDRR Challenge Fund, will be collected for buildings randomly selected within homogenous zones by Kathmandu Living Labs and Ramani Huria for their cities.
+
+For more detailed information regarding the organised editing work in OSM for Kathmandu and Dar es Salaam, please see their respective OSM wiki pages set up by Kathmandu Living Labs and Ramani Huria:
+
+* [Kathmandu Organised Editing Wiki Page](https://wiki.openstreetmap.org/wiki/Directed_Edits/METEOR_Digitizing_Kathmandu) 
+* [Dar es Salaam Organised Editing Wiki Page](https://wiki.openstreetmap.org/wiki/Meteor_project_in_Tanzania)
+
+![Screen Shot 2018-10-29 at 14.55.22.png](/uploads/Screen%20Shot%202018-10-29%20at%2014.55.22.png)
+
+METEOR is also working closely with the National Society for Earthquake Technology of Nepal and the Disaster Management Department of the United Republic of Tanzania to ensure that the project is effectively received by local partners.
+
+![Screen Shot 2018-10-24 at 19.14.23.png](/uploads/Screen%20Shot%202018-10-24%20at%2019.14.23.png)

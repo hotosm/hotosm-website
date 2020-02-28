@@ -9,6 +9,7 @@ tags:
 - Uganda
 - Jobs
 - Kampala
+position: 9
 Deadline Date: 2018-06-30 12:00:00 Z
 Place of Work: 'Kampala (possible travel to Northern/Western Uganda)
 

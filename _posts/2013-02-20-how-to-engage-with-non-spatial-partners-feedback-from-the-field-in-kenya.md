@@ -6,7 +6,7 @@ Person: Stéphane Henriod
 Working Group: []
 Project:
 - EUROSHA
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/map_1.png
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/map_1_0.png
 created: 1361334898
 ---
 

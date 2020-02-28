@@ -16,7 +16,6 @@ Impact Area:
 - Disaster Risk Reduction
 Person:
 - Steven Johnson
-- 
 Partner:
 - World Bank
 Duration:

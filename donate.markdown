@@ -1,6 +1,7 @@
 ---
 title: 'Support HOT''s work: Donate today!'
 date: 2018-02-06 15:16:00 Z
+permalink: "/donate/"
 position: 13
 layout: donate
 ---

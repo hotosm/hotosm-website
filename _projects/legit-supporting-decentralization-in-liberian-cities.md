@@ -19,10 +19,7 @@ Partner:
 - USAID
 Duration:
   Start Date: 2017-03-08 00:00:00 Z
-HOT Involvement: Community Development
-Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p><p><a
-  href="https://hotosm.org/users/david_luswata">David Luswata</a></p>
-created: 1489014346
+  End Date: 2019-02-23 00:00:00 Z
 tm_campaigns:
 - "#LEGIT"
 - "#Liberia"
@@ -36,6 +33,10 @@ Data:
 Tools:
 - tool: OSM Analytics
   link: https://osm-analytics.org/#/show/hot:2769/buildings/recency
+HOT Involvement: Community Development
+Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p><p><a
+  href="https://hotosm.org/users/david_luswata">David Luswata</a></p>
+created: 1489014346
 ---
 
 The Liberia Local Empowerment for Government Inclusion and Transparency (LEGIT) project supports the Ministry of Internal Affairs and Governance Commission as they lead, monitor and coordinate the implementation of the government’s decentralization agenda.

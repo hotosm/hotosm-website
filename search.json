@@ -30,9 +30,19 @@ layout:
 "type":"News",
 "title":"{{ post.title | escape }}",
 "summary":"{{ post['Summary Text'] | escape | truncatewords: 40 | strip | prepend: ' ' }}",
-"subtitle":"{{ post.Person | join: ', ' }}",
+"subtitle":"{{ post.Person | join: ', ' | prepend: ' '}}",
 "url":"{{ site.url }}{{ post.url }}",
 "date":"{{ post.date }}"
+}, 
+{% endfor %}
+{% for job in site.jobs %}
+{
+"type": "Job",
+"title": "{{ job.title | escape }}",
+"summary":"{{ job.body | escape | truncatewords : 40 | strip | prepend: ' ' }}",
+"subtitle":"Deadline: {{ job['Deadline Date'] | date_to_long_string }}",
+"url":"{{ site.url }}{{ job.url }}",
+"date":"{{ job.date }}"
 } {% unless forloop.last %},{% endunless %}
 {% endfor %}
 ]

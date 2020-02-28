@@ -1,20 +1,22 @@
 ---
 title: Local Indonesia OSM Chapter teams up with HOT and Facebook to improve road
   coverage in Indonesia.
-date: 2018-04-04 01:09:04 Z
+date: 2018-04-04 01:09:00 Z
 permalink: updates/2018-04-04_local_indonesia_osm_chapter_teams_up_with_hot_and_facebook_to_improve_road
 Summary Text: HOT has been mapping Indonesia for disaster preparedness and resiliency
   since 2011. However, there is still a lot of road network missing outside the major
   cities. Learn how the local community is working with Facebook to fill in the gaps
   using artificial intelligence tools.
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/RoadMasks.png
 Person: Russell Deffner
 Working Group:
 - Community
-Projects:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/RoadMasks.png
+Project:
+- 'HOT and Facebook: Collaboration for open maps and free technology'
+Projects:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1522804144
 ---
 
@@ -26,6 +28,6 @@ In 2016, Facebook started researching how various machine learning algorithms co
 
 Leveraging the AI generated roads, tools and training, combined with the local knowledge of the HOT and Local OSM Indonesian community, we are confident that we can increase the coverage of roads with the appropriate classifications.
 
-Read more about HOT Indonesia here:<a href="http://www.hotosm.org/projects/indonesia_disaster_management_innovation"> http://www-dev.hotosm.org/projects/indonesia_disaster_management_innovation</a> and the OpenStreetMap Community in Indonesia here:<a href="https://openstreetmap.id/"> https://openstreetmap.id/</a>
+Read more about HOT Indonesia here:<a href="http://www.hotosm.org/projects/indonesia_disaster_management_innovation"> http://www.hotosm.org/projects/indonesia_disaster_management_innovation</a> and the OpenStreetMap Community in Indonesia here:<a href="https://openstreetmap.id/"> https://openstreetmap.id/</a>
 
 <img class="image-large" title="Indonesia Team" src="https://s3.amazonaws.com/hotwww/files/old/styles/large/public/IDTeam.jpg?itok=f8N438A5" alt="HOT Indonesia Road Mapping Team" style="width:480px;height:319px;">

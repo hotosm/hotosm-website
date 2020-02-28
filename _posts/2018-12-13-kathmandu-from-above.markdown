@@ -1,19 +1,24 @@
 ---
-title: Kathmandu from above
+title: Digitising Kathmandu from above
 date: 2018-12-13 15:58:00 Z
+Summary Text: Guest blog by Gaurav Thapa from Kathmandu Living Labs. Covering the
+  digitisation process carried out by the team for mapping building footprints in
+  Kathmandu Valley, Nepal as part of the METEOR project.
 Feature Image: "/uploads/Screen%20Shot%202018-12-13%20at%2008.06.34-ea3319.png"
-Person: Gaurav Shumsher Thapa
+Person: Mhairi O'Hara
 Country:
 - Nepal
 Project:
 - 'Modelling Exposure Through Earth Observation Routines: METEOR'
 ---
 
-**Project**
+This blog outlines the mapping carried out by KLL as part of the HOT METEOR project. Please check out the dedicated [OSM wiki page](https://wiki.openstreetmap.org/wiki/Directed_Edits/METEOR_Digitizing_Kathmandu) for more details project.
+
+## Project
 
 Kathmandu Living Labs (KLL) is working together with the Humanitarian OpenStreetMap Team (HOT) on the Modelling Exposure through Earth Observation Routines (METEOR) project. Our work is part of a larger collaboration between HOT, the British Geological Survey, ImageCat, and the UK Space Agency International Partnership Programme. This overall project is focused on developing innovative applications of earth observation (EO) technologies to improve understanding of exposure to help minimise risks from natural hazards. We are working directly with HOT on the digitization and the subsequent building exposure survey of Kathmandu Valley. 
 
-**State of the Map: Kathmandu Valley**
+## State of the Map: Kathmandu Valley
 
 For this project urban areas of Kathmandu Valley were divided into 7 homogeneous zones. These homogeneous zones were created based on ImageCat’s model where they took remotely sensed imagery to find similar development patterns and based on that seven zones were identified for mapping.
 
@@ -55,7 +60,7 @@ Correcting such errors and aligning the new imagery, bing imagery and data layer
 
 As image 5 shows, even the latest satellite imagery had sections where tracing building was not possible. This was because the contrast was not good most likely due to dust cover. Unfortunately, the poor satellite imagery covered the urban core of Kathmandu and were areas that are highly dense. These were labeled as poor imagery and only clearly visible building were traced in these areas. We hope to improve this data while on the ground. 
 
-**Timeframe**
+## Timeframe
 
 We wanted to complete the remote mapping portion of the project before the beginning of December. In order to do this, we recruited 8 students from Pokhara. The students worked for weeks with our expert mappers to digitize  an additional number of around 45,000 buildings. 
 
@@ -64,7 +69,7 @@ We wanted to complete the remote mapping portion of the project before the begin
 *Images 6 & 7: Remote mappers*
 
 
-**Result and way forward**
+## Result and way forward
 
 We reiterate that the result of the project was an addition of 45,013 buildings. The table below shows the breakdown of this number in terms of specific homogeneous zones created by ImageCat.
 

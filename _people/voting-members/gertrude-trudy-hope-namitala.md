@@ -5,6 +5,7 @@ Photo: "/uploads/trudy-712dec.JPG"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
+Job Title: Treasurer
 Working Group:
 - Fundraising
 Country: Zambia
@@ -16,4 +17,4 @@ redirect_from:
 - "/users/gertrude_(trudy_hope)_namitala"
 ---
 
-Namitala (Trudy Hope) is a data enthusiastic who contributes to OpenStreetMap, advocates for the use of opendata and software developer. She studied Bachelor of science in Information Technology started her own IT firm and started OSM Zambia community. She is part of the OSM Africa community and supports humanitarian data. In March 2016 she developed the first community mapped in Zambia involving women as a way of supporting water sanitation and hygiene. She has trained community members, government officials and students on how to contribute to OSM and the use of opendata.Together with the decentralization for development program supported by German development cooperation (GIZ) they piloted the use of OSM as a tool to be used by councils for integrated development planning. She supports women organizations encouraging the use of OSM to address SDG5. &nbsp;She supports baseline mapping and surveys in the field of basic sanitation and hygiene. She believes all software developed should be opensource.
+Gertrude Namitala (Trudy Hope) is the senior developer and founder of Trudigital Technologies Ltd an ICT and GIS company operating in Sub-Saharan Africa. She is the co-founder of OpenStreetMap Zambia and Open Data Zambia,  organisations that are promoting the use and adaption of open data and open data tools among organisations in Zambia. She is also the the chairperson for AWEaP (African Women in Energy and Power) in Uganda an organisation designed to accelerate African women entrepreneurs' participation in the power and energy sector.  She is among the investment advisors for Wecreate a USAID funded organisation in the energy and WASH sectors. She is a data enthusiast who contributes to OpenStreetMap, advocates for the use of open data around Africa and has supported different communities in Africa to start OSM chapters and strongly supports and promotes Humanitarian OpenStreetMap Team (HOTOSM) among the communities and different stakeholders.

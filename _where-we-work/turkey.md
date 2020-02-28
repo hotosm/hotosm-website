@@ -1,5 +1,16 @@
 ---
 title: Turkey
+Contact Person:
+  Name: Can Unen
+  Title: Project Manager
+  Email: can.unen@hotosm.org
+Location:
+  Location Name: Yer Çizenler
+  Address: |-
+    Kurbağalıdere Caddesi 49/3
+    Hasanpaşa Mah. Kadıköy İstanbul
+  Phone: "+905308789010"
+  Map Link: https://osm.org/go/x2SYc_gug?node=5202240891
 continent: AS
 urlname: turkey
 names:
@@ -7,15 +18,5 @@ names:
 - Republic of Turkey
 - TR
 - TUR
-Contact Person:
-  Name: Can Unen
-  Title: County Manager
-  Email: can.unen@hotosm.org
-Location:
-  Location Name: Tatar Beyi Sokak, No:19/3
-  Address: |-
-    Galata/ Beyoğlu
-    Istanbul, Turkey
-  Map Link: https://goo.gl/maps/mqhTEmzE3P32
 ---
 

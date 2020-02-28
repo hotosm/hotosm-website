@@ -1,6 +1,7 @@
 ---
 title: Technical Project Manager - Tasking Manager
 date: 2018-11-28 15:10:00 Z
+position: 24
 Deadline Date: 2019-01-07 23:59:00 Z
 Place of Work: Remote
 Apply Form Link: https://humanitarian-openstreetmap-team.forms.fm/hot-tech-submission/

@@ -1,7 +1,7 @@
 ---
 title: David Luswata
 date: 2017-02-08 15:48:00 Z
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-358-1487343133.jpg
+Photo: "/uploads/david_luswata_1-aa94bc.JPG"
 Member Type:
   Is Staff: true
   Is Voting Member: true

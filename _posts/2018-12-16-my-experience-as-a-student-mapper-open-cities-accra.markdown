@@ -9,7 +9,7 @@ Working Group:
 Country:
 - Ghana
 Project:
-- Open Cities Africa
+- Open Cities Africa - Accra City Project - Ghana
 ---
 
 [Open Cities Accra](https://opencitiesproject.org/accra/) has conducted detailed mapping in [Alogboshie](https://www.openstreetmap.org/#map=15/5.6329/-0.2357) community and its environs to improve resilience to natural disasters, especially flooding. Alogboshie, a suburb of Accra, is known to be one of the most flood-prone areas in Ghana’s capital city. Located along the Odaw River, Alogboshie is one of the four focus communities for the World Bank’s Greater Accra Climate Resilient and Integrated Development ([GARID](http://projects.worldbank.org/P164330?lang=en)) project.\[1\] Protecting Alogboshie will require an integrated approach that addresses drainage improvements, flood forecasting, solid waste management, improved urban planning and support to communities.

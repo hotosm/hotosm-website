@@ -8,7 +8,7 @@ Person: David Luswata
 Country:
 - Liberia
 Project:
-- Open Cities Africa
+- Open Cities Africa - Monrovia City Project - Liberia
 ---
 
 In the informal settlements of Liberia’s largest city, [Open Cities Africa](http://opencitiesproject.org) is introducing a dynamic open data workflow to support urban planning and protect residents from floods.

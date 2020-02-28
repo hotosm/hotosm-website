@@ -1,11 +1,9 @@
 # HOTOSM Website
 
-This repo is the codebase for the main Humanitarian OpenStreetMap Team website. Under active development to rebuild and redesign. See `gh-pages` branch for Jekyll code. If looking for the previous Drupal codebase, see the current `master` branch.
+This repo is the codebase for the main Humanitarian OpenStreetMap Team website. See `gh-pages` branch for Jekyll code. If looking for the previous Drupal codebase, see the current `master` branch.
 
  - See the [issues queue](https://github.com/hotosm/hotosm-website/issues) for all discussions and tasks.
  - Chat available on [HOTOSM Slack](https://slack.hotosm.org/) within the #hotosm-website channel.
-
-Preview site at: https://hotosm.github.io/hotosm-website/.
 
 ## Getting Started with Development
 
@@ -34,6 +32,11 @@ bundle exec jekyll serve -- --livereload
 ```
 
 Finally, navigate to http://127.0.0.1:4000/ and you should see the new website!
+
+## Key pages & script/data dependencies
+
+![Website](https://user-images.githubusercontent.com/12103383/55768572-96f22280-5aa7-11e9-998d-9667f5d3a7dc.png)
+
 
 ## Website issues
 Please use the issue tracker at https://github.com/hotosm/hotosm-website/issues to report bugs, develop ideas, ask questions or give feedback. Thank you!
