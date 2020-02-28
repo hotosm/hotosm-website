@@ -8,7 +8,7 @@ Job Title: Director of Technology and Innovation
 Country: France
 Social Media (Full URL):
   OSM: openstreetmap.org/user/bo_hot
-  Twitter: "@bopercival"
+  Twitter: https://twitter.com/bopercival
   LinkedIn: linkedin.com/in/bopercival
 ---
 
