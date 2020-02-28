@@ -27,7 +27,7 @@ Please also join the discussion on Slack (see above).
 
 Are you a humanitarian or GIS professional? In addition to remote mapping, you can volunteer with HOT in other mapping related tasks. We could use help on data processing, validating remote mapping, or creating maps and other visualizations. 
 
-We also have opportunities to support field projects, both volunteer (remote) support and in the field. Job and volunteering opportunities will also be posted on the [Jobs page](http://www-dev.hotosm.org/jobs/).
+We also have opportunities to support field projects, both volunteer (remote) support and in the field. Job and volunteering opportunities will also be posted on the [Jobs page](http://www.hotosm.org/jobs/).
 
 <div class="anchor" id="software-engineers"></div>
 <h2>Software Engineers</h2>

@@ -13,6 +13,8 @@ Impact Area:
 - Water & Sanitation
 Person:
 - Gertrude (Trudy Hope) Namitala
+Duration:
+  End Date: 2019-01-01 00:00:00 Z
 Micrograntee: true
 ---
 

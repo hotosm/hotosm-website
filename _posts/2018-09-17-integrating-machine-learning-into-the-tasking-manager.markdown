@@ -15,7 +15,7 @@ For the past year we've been discussing ideas around how to integrate machine le
 
 ## What do we mean by ML/AI?
 
-Right now we mean using a computer program that looks at aerial imagery and automatically extracts data, making it available for mappers to use. In the same way humans use their eyes to look at satellite imagery to digitally trace buildings, a computer program can now perform that same type of operation. Our approach with using computers has been that they support mapping, not replace mapping. Read more about [ML/AI here](https://towardsdatascience.com/introduction-to-machine-learning-db7c668822c4) or read Daniel J.H.’s [post on ML + OSM](https://www.openstreetmap.org/user/daniel-j-h/diary/44145).
+Right now we mean using a computer program that looks at aerial imagery and automatically extracts data, making it available for mappers to use. In the same way humans use their eyes to look at satellite imagery to digitally trace buildings, a computer program can now perform that same type of operation. Our approach with using computers has been that they support mapping, not replace mapping. Read more about [ML/AI here](https://builtin.com/data-science/introduction-to-machine-learning) or read Daniel J.H.’s [post on ML + OSM](https://www.openstreetmap.org/user/daniel-j-h/diary/44145).
 
 ## What we've heard from the HOT community
 

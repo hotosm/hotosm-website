@@ -26,7 +26,7 @@ We rapidly create datasets at large scale, both in field programs and remotely. 
 
 * **Sustainability**: by working with local community members and supporting local OpenStreetMap communities, we encourage data sustainability far beyond the project lifetime.
 
-* **Impact**: good quality, up to date, open data enables you to take better decisions in your projects, and gain valuable insights to improve how you work. For examples of this in action, [read about our projects](http://www-dev.hotosm.org/our-work).
+* **Impact**: good quality, up to date, open data enables you to take better decisions in your projects, and gain valuable insights to improve how you work. For examples of this in action, [read about our projects](https://www.hotosm.org/our-work).
 
 ### How?
 

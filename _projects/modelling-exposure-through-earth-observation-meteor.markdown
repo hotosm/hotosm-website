@@ -62,7 +62,12 @@ The project aims to build and strengthen local and global resilience through com
 
 ![Screen Shot 2018-10-29 at 14.29.43.png](/uploads/Screen%20Shot%202018-10-29%20at%2014.29.43.png)
 
-The country-wide datasets developed by ImageCat will be tested for their suitability of purpose against OSM data surveyed on the ground  within the cities of Kathmandu and Dar es Salaam. Detailed attribute information following the [GED4ALL](https://wiki.openstreetmap.org/wiki/GED4ALL) taxonomy developed as part of the GFDRR Challenge Fund, will be collected for buildings randomly selected within homogenous zones by Kathmandu Living Labs and Ramani Huria for their cities.
+The country-wide datasets developed by ImageCat will be tested for their suitability of purpose against OSM data surveyed on the ground within the cities of Kathmandu and Dar es Salaam. Detailed attribute information following the [GED4ALL](https://wiki.openstreetmap.org/wiki/GED4ALL) taxonomy developed as part of the GFDRR Challenge Fund, will be collected for buildings randomly selected within homogenous zones by Kathmandu Living Labs and Ramani Huria for their cities.
+
+For more detailed information regarding the organised editing work in OSM for Kathmandu and Dar es Salaam, please see their respective OSM wiki pages set up by Kathmandu Living Labs and Ramani Huria:
+
+* [Kathmandu Organised Editing Wiki Page](https://wiki.openstreetmap.org/wiki/Directed_Edits/METEOR_Digitizing_Kathmandu) 
+* [Dar es Salaam Organised Editing Wiki Page](https://wiki.openstreetmap.org/wiki/Meteor_project_in_Tanzania)
 
 ![Screen Shot 2018-10-29 at 14.55.22.png](/uploads/Screen%20Shot%202018-10-29%20at%2014.55.22.png)
 

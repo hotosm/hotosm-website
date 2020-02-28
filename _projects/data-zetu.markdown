@@ -20,10 +20,11 @@ Partner:
 - PEPFAR
 Duration:
   Start Date: 2017-10-02 00:00:00 Z
-Link: https://datazetu.or.tz/
+  End Date: 2018-12-31 00:00:00 Z
 tm_campaigns:
 - Missing Maps
 - Capacity Building
+Link: https://datazetu.or.tz/
 ---
 
 Data Zetu is a coalition of Tanzanian and international organizations that aim to empower communities to make better, evidence-based decisions to improve their lives. An initiative of the Tanzania Data Lab (dLab), the coalition consists of Sahara Sparks (SS), Humanitarian OpenStreetMap Team (HOT), and Tanzania Bora Initiative (TBI), with global expertise from SBC4D and IREX. It is funded by the United States President’s Emergency Plan for AIDS Relief (PEPFAR) and administered by the Millennium Challenge Corporation (MCC) as part of the Data Collaboratives for Local Impact program (DCLI).

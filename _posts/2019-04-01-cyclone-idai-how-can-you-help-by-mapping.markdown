@@ -44,4 +44,4 @@ Find out more
 
 This project was funded by the H2H Fund, which is supported by UK aid from the UK government.
 
-![h2h.jpg](/uploads/h2h.jpg)
+<img src="/uploads/h2h.jpg" style="width:100px;">

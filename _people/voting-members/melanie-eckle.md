@@ -4,7 +4,7 @@ date: 2017-02-28 14:26:00 Z
 Photo: "/uploads/Screen%20Shot%202018-09-15%20at%2012.30.13.png"
 Member Type:
   Is Voting Member: true
-  Is Board Member: true
+  Is Board Member: false
 Working Group:
 - Fundraising
 - Training

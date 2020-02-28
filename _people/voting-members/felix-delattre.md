@@ -1,7 +1,7 @@
 ---
 title: Felix Delattre
 date: 2013-12-01 16:40:00 Z
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-72-1435074751.jpg
+Photo: "/uploads/felix.jpg"
 Member Type:
   Is Staff: true
   Is Voting Member: true

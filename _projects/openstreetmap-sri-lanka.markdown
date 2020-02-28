@@ -11,6 +11,8 @@ Country:
 - Sri Lanka
 Impact Area:
 - Disaster Risk Reduction
+Duration:
+  End Date: 2019-01-01 00:00:00 Z
 Micrograntee: true
 ---
 

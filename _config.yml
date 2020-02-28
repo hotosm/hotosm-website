@@ -50,6 +50,10 @@ collections:
   uploads:
     title: Uploads
     output: true
+  volunteer-opportunities:
+    title: Volunteer Opportunities
+    output: true
+    permalink: "/volunteer-opportunities/:path/"
   working-groups:
     title: Working Groups
     output: true
@@ -161,7 +165,7 @@ defaults:
     tm_campaigns:
     - ''
     project_extent: ''
-    Google Drive: ''
+    Google Drive: https://drive.google.com/drive/folders/1p-dGhQsB4SSlucT3Yen1LlhqBj3Yvy-_
     Map Products:
     - ''
     - ''

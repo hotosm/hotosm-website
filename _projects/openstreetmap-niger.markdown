@@ -11,6 +11,8 @@ Country:
 Impact Area:
 - Sustainable Cities
 - Public Health
+Duration:
+  End Date: 2019-01-01 00:00:00 Z
 Micrograntee: true
 ---
 

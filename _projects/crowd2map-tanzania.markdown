@@ -15,13 +15,15 @@ Impact Area:
 - Public Health
 Person:
 - Janet Chapman
-Micrograntee: true
-Link: http://www.tanzdevtrust.org/
-redirect_from: projects/crowd2map-tanzania
+Duration:
+  End Date: 2019-01-01 00:00:00 Z
 tm_campaigns:
 - Missing Maps
 - Female Genital Mutilation
 - GISCorps
+Micrograntee: true
+Link: http://www.tanzdevtrust.org/
+redirect_from: projects/crowd2map-tanzania
 ---
 
 ## Project

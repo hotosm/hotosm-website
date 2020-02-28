@@ -2,13 +2,13 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: true
-  Small Block: Current Activation
-  Main Block: Cyclone Idai in Mozambique | Venezuela Situation in Colombia
-  Secondary Block: Help us map affected locations
+  Is Activated: false
+  Small Block: 
+  Main Block: 
+  Secondary Block: 
   Optional Text: 
-  Link Copy: Help Map or Donate
-  URL: https://www.hotosm.org/projects/CycloneIdai
+  Link Copy: 
+  URL: 
 Project:
 - 'Refugee response: South Sudan and Syria'
 - 'Urban flood resilience: Ramani Huria'

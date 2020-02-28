@@ -1,46 +1,45 @@
 ---
 title: Finance Officer/Accountant
 date: 2018-06-11 18:50:00 Z
-published: false
 position: 1
-Deadline Date: 2018-06-29 00:00:00 Z
-Place of Work: Dar es Salaam, Tanzania
-Apply Form Link: " nuru.kalulunga@hotosm.org"
+Deadline Date: 2019-06-28 00:00:00 Z
+Place of Work: 'Kampala, Uganda '
+Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf4okYFOuJ-6aHJexzIMzqdvMBLwizQjE_vCcqbw4SOXmxtLg/viewform
 ---
+
+**Contract duration:** 12 months, option of extension based on funding availability
+
+**Reports to:** Country Manager
+
+**Starting date:** July 2019 
 
 **POSITION SUMMARY:**
 Humanitarian OpenStreetMap Team seeks an energetic, experienced and self-motivated candidate with a strong background in finance and accounting. 
 
-**POSITION DESCRIPTION:** Duties and Responsibilities
-* Prepare and submit monthly fund requests and financial reports in coordination with the country team
-* Ensure the accuracy, timeliness of the reports, propriety of supporting documents and compliance with budget allocations
-* Prepare monthly bank reconciliations for submission to the HQ
-* Submit weekly progress reports and participate in conference calls with HQ
-* Process monthly payroll
-* Prepare payment vouchers and ensure vendors are paid on time
-* Maintain the required accounting records (trial balance, general ledger and others)
-* Manage and maintain all personnel files (contracts, performance reviews, etc)
-* Train new staff on financial processes and reporting requirements
-* Develop yearly budgets in coordination with the country team and in accordance with organization-wide agreed parameters and deadlines
-* Serve as the focal point for salary and benefit surveys to be incorporated in the annual budgets
-*Update and improve the Finance Manual
-*Ensure that the policies and procedures as established in the guide are implemented and followed by all staff
-*Coordinate with the HQ to ensure that funds are available for program activities
-*Monitor cash flow projections 
-*Ensure pertinent government forms, reports and payments are submitted accurately and in a timely manner
-*Prepare employee or contractor agreements/contracts
-*Manage withholding  taxes, social security and others.
-(Assist the Country Director with the regular renewal of tax exemption and other registration requirements
-*Travel to project sites to monitor material inventory, management, etc.
-*Facilitate the work of internal and external auditors 
-*Work on special projects as assigned by Country Director and supervisor
-**QUALIFICATIONS:**
-*Degree/ Diploma in accounting or relevant education field
-*Minimum 3 years previous accounting and NGO experience
-*Fluent in English
-*Excellent MS Excel skills and other relevant computer software programs
-*Demonstrated ability to work in a team and in a multicultural setting
-*Excellent references
+The Uganda Finance Manager will report to the Director of Finance & Administration. This position is responsible for the financial oversight of the Uganda office and has potential for additional responsibility in the East Africa region. This is a full-time position based in Kampala, Uganda.
 
-**To apply, please send a CV and cover letter in English to nuru.kalulunga@hotosm.org.**
+**Responsibilities include:**
+* Direct management of the Uganda finance office
+* Oversee the day-to-day accounting function in the Uganda finance office: recording and reporting cash flow transactions, accounts payable, accounts receivable, payroll, month close, financial reporting, etc.
+* Lead the Uganda office annual budget creation and participate in project budget development
+* Prepare and submit monthly fund requests and financial reports
+* Manage payroll, taxes, and other NGO compliance filings
+* Participation in establishing international financial policies & procedures alongside the Director of Finance & Admin
+* Create financial procedures to implement fiscal policies in the Uganda office, related to banking, accounts receivable & accounts payable, procurement, financial controls & reporting, and government compliance:
+* Ongoing oversight of adherence to fiscal policies through monthly reviews and internal audits.
+* Training of finance personnel and provision of financial support to office management in Uganda (with possibility of further training responsibility in the East Africa region)
+* Participate in monthly calls with the Director of Finance & Administration
+* Carry out other finance-related duties as requested by supervisor
 
+**Qualifications (About You)**
+* Degree in accounting or equivalent
+* An understanding of financial management and accounting in nonprofit organizations
+* 3-5 years experience in international NGO accounting, particularly looking for experience:
+* Managing large grants and contracts
+* Working with remote/virtual teams
+* Coordinating between field offices
+* Experience with US federal government regulations
+* Familiarity with accounting software, preferably Quickbooks
+* Experience developing and/or implementing finance policies & procedures
+* Detail-oriented & able to employ critical thinking to solve problems
+* Honest and reliable

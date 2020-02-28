@@ -5,7 +5,7 @@ Summary Text: Guest blog by Gaurav Thapa from Kathmandu Living Labs. Covering th
   collection process carried out by the team for surveying exposure data in Kathmandu
   Valley, Nepal as part of the METEOR project.
 Feature Image: "/uploads/image13-529210.jpg"
-Person: Gaurav Thapa
+Person: Mhairi O'Hara
 Country:
 - Nepal
 Project:

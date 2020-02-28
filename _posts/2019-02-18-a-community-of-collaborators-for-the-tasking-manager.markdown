@@ -1,11 +1,13 @@
 ---
 title: A community of collaborators for the Tasking Manager
 date: 2019-02-18 11:11:11 Z
-Summary Text: 
+Summary Text: Workshop with the Open Source community around the Tasking Manager
 Feature Image: "/uploads/2019-02-tm-workshop-2.jpg"
 Person: Felix Delattre
 Working Group:
 - Technical
+Project:
+- 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
 ---
 
 The most used tool for participatory mapping - our Tasking Manager - now has a vision and goals for its development in 2019. Last week, we held a two-day workshop between partners and stakeholders to develop a shared vision for the Tasking Manager. It is exciting to see the Tasking Manager becoming a wide Open Source community effort between volunteer contributors, organizations and companies that are using the Tasking Manager for their mapping efforts.
