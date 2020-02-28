@@ -1,9 +1,9 @@
 ---
 title: Indonesia
 Contact Person:
-  Name: Yantisa Akhadi
-  Title: Country Manager
-  Email: yantisa.akhadi@hotosm.org
+  Name: Paul Uithol
+  Title: Director of Programs
+  Email: paul.uithol@hotosm.org
 Location:
   Location Name: HOT Indonesia Office
   Address: |-
