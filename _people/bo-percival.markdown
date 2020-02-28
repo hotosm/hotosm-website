@@ -10,7 +10,7 @@ Social Media (Full URL):
   OSM: https://openstreetmap.org/user/bo_hot
   Twitter: https://twitter.com/bopercival
   LinkedIn: https://linkedin.com/in/bopercival
----
+
 
 Sitting at the junction of technology and development, Bo Percival is a self-proclaimed ‘geek for good’, dedicated to uncovering insights at the intersection of behaviour, economics, technology and development.
 

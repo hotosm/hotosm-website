@@ -1,8 +1,9 @@
 ---
 title: HOT Summit Website Volunteer
 date: 2020-02-21 07:38:00 Z
-Location: Remote
+Place of Work: Remote
 Apply Form Link: http://bit.ly/HOTvolunteer1
+Deadline Date: 2020-02-28 00:00:00 Z
 layout: page
 ---
 
