@@ -1,5 +1,5 @@
 ---
-title: Junior Data Spatial Entry Staff - Philippines
+title: Junior Spatial Data Entry Staff - Philippines
 date: 2020-03-04 02:09:00 Z
 Deadline Date: 2020-03-13 00:00:00 Z
 Place of Work: Philippines
