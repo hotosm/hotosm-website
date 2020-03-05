@@ -4,7 +4,7 @@ date: 2016-11-08 21:00:00 Z
 Photo: "/uploads/Headshot%201.jpg"
 Member Type:
   Is Staff: true
-Job Title: Operations Manager
+Job Title: Global Operations Manager
 Working Group:
 - Fundraising
 - Communications
