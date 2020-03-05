@@ -20,7 +20,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeLy-hRzdA9IIL2s80n74m
 
 The Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 180,000 people with ground operations in eight countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
 
-The Humanitarian OpenStreetMap Team (HOT) Philippines team, in partnership with the Pacific Disaster Center (PDC), and the Office of Civil Defense (OCD) is leading a new local installation of DisasterAWARE in the Philippines called PhilAWARE. PhilAWARE is a disaster risk reduction and integrated early warning and decision support system that incorporates many data layers from OpenStreetMap. This platform aims to support the unique disaster preparedness and response needs of the Philippines. Through this project, we will be working closely with various stakeholders such as local communities, local government units, academe, and disaster risk management agencies in order to keep the OSM data updated. Pampanga, Philippines is the pilot area for the completion of the base map, which includes mapping the critical infrastructures through the use of OpenStreetMap. 
+The Humanitarian OpenStreetMap Team (HOT) Philippines team, in partnership with the Pacific Disaster Center (PDC), and the Office of Civil Defense (OCD) is leading a new local installation of DisasterAWARE in the Philippines called PhilAWARE. PhilAWARE is a disaster risk reduction and integrated early warning and decision support system that incorporates many data layers from OpenStreetMap. This platform aims to support the unique disaster preparedness and response needs of the Philippines. Through this project, we will be working closely with various stakeholders such as local communities, local government units, academe, and disaster risk management agencies in order to keep the OSM data updated. Pampanga, Philippines is the pilot area for the completion of the base map, which includes mapping the critical infrastructures through the use of OpenStreetMap.
 
 This assignment is expected to last 6 months with the possibility of extension.
 
@@ -39,6 +39,8 @@ HOT Philippines team is looking for an Administrative and Operations Assistant t
 * Assists in the filing and record-keeping of program-related documents;
 
 * Supports in the management of HOT assets and equipment;
+
+* Contributes to initial drafts of correspondences and other written materials;
 
 * Perform other duties as assigned.
 
