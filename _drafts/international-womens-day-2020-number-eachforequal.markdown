@@ -69,3 +69,6 @@ Project:
 Across every aspect of humanitarian and development work, women and girls are disproportionately vulnerable and disadvantaged compared to men and boys. In the case of the digital gender divide, the underlying problem is not that women are excluded, but that they are not ***explicitly included*** in programs designed to address their needs. HOT needs to explicitly include women and girls in all areas of our activities and ensure HOT actively contributes to a gender-equal world.
 
 As a global community, we cannot resolve gendered issues if we cannot see them. The work HOT does to create data in spaces where gender data doesn’t exist can help to visualize and address problems that disproportionately affect women. To ensure this potential translates into reality, we need to ensure women and girls are represented both as mappers and on the map itself.
+
+![gal 4(2).jpg](/uploads/gal%204(2).jpg)
+*Female students in Peru learning to map during HOT’s Women Connect Project in 2019*
