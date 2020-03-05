@@ -40,7 +40,7 @@ HOT Philippines team is looking for an Administrative and Operations Assistant t
 
 * Supports in the management of HOT assets and equipment;
 
-* Contributes to initial drafts of correspondences and other written materials;
+* Contributes to drafting of correspondences and other written materials;
 
 * Perform other duties as assigned.
 
