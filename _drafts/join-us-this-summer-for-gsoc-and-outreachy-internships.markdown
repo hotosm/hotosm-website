@@ -4,12 +4,15 @@ date: 2020-03-05 05:38:00 Z
 Summary Text: We, at the Humanitarian OpenStreetMap Team are excited to announce our
   this year's internship programmes around Google Summer of Code (GSoC) and Outreachy.
 Feature Image: "/uploads/IMG_8446.JPG"
+Person:
+- Felix Delattre
+- Ramya Ragupathy
 ---
 
 
 [Google Summer of Code](https://summerofcode.withgoogle.com/) is a worldwide initiative sponsored by Google that gives university students real-world tech experience and a stipend for working with Open Source projects throughout the summer months.
 
-[Outreachy ](https://www.outreachy.org/)is also a global program that organizes three-month paid internships with [free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) projects for people who are typically underrepresented in those projects. The program is organized by the [Software Freedom Conservancy](https://en.wikipedia.org/wiki/Software_Freedom_Conservancy) and is aimed at promoting diversity in tech.
+[Outreachy ](https://www.outreachy.org/)is a global program that organizes three-month paid internships with [free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) projects for people who are typically underrepresented. The program is organized by the [Software Freedom Conservancy](https://en.wikipedia.org/wiki/Software_Freedom_Conservancy) and is aimed at promoting diversity in tech.
 
 A big shout out and thank you to the [Open Source Center of the Digital Impact Alliance (DIAL)](https://www.osc.dial.community/) for providing us support as an umbrella organization to take part in these two excellent opportunities, for HOT and as well the students that are going to join the tech team to support HOT’s goals through their work on Free and Open Source Software.
 
@@ -29,7 +32,7 @@ For Outreachy we have a mix of four ideas covering programming, design and produ
 - Tasking Manager:  Improving the back-end performance
 - Programming of a Slackbot router - to take in multiple commands from Slack users and provide the right results based on the command supplied
 - A research-heavy project to understand and evaluate the User Experience of all [HOT tools](https://www.hotosm.org/tools-and-data)
-- Standardize feedback and technical support requests mechanism across all [HOT tools](https://www.hotosm.org/tools-and-data)
+- A project to improve the feedback cycles for our [HOT tools](https://www.hotosm.org/tools-and-data)
 
 For more information about the projects take a look at our [project ideas listed in Github](https://github.com/hotosm/tech/tree/master/project-ideas).
 
