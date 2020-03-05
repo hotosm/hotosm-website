@@ -59,7 +59,6 @@ Technology not only helped these women to recognize when domestic violence was t
 
 ![GAL Peru - 2019 (1).png](/uploads/GAL%20Peru%20-%202019%20(1).png)
 
-**Through the WomenConnect Challenge, HOT learned that map data can be more than just buildings and roadways added. It can be a starting point for changing the conversation around advancing gender equity, providing both men and women with the data they need to identify sources of inequality within their communities, collectively identify solutions, and gain the confidence to enact those solutions.
-**
+**Through the WomenConnect Challenge, HOT learned that map data can be more than just buildings and roadways added. It can be a starting point for changing the conversation around advancing gender equity, providing both men and women with the data they need to identify sources of inequality within their communities, collectively identify solutions, and gain the confidence to enact those solutions.**
 
 For more information about the program, please contact partnerships@hotosm.org.
