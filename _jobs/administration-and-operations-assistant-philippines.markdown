@@ -50,7 +50,7 @@ HOT Philippines team is looking for an Administrative and Operations Assistant t
 
 * A Bachelor’s degree in the Social Sciences, International Studies, Business Administration, or Marketing
 
-* At least 1 year experience in logistics, procurement, and organizing events.
+* At least 1 year experience in logistics, procurement, and organizing events
 
 * Must be diligent/hardworking, and practices tact and discretion with confidential information
 
