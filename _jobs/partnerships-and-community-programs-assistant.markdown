@@ -1,9 +1,8 @@
 ---
-title: Partnerships & Community Programs Assistant
-date: 2018-09-11 19:16:00 Z
-published: false
+title: Partnerships & Community Programs Manager
+date: 2020-03-06 16:40:00 Z
 position: 15
-Deadline Date: 2018-10-12 00:00:00 Z
+Deadline Date: 2020-03-19 00:00:00 Z
 Place of Work: Flexible – any HOT office (Washington, D.C., New York, Kampala, Dar
   es Salaam) or Remote working
 Apply Form Link: https://docs.google.com/forms/u/1/d/e/1FAIpQLSd76AvhjXNmSUhoNlaewLVGQafgX4FgLWpvmk1e7vBzhdGAeA/viewform
@@ -18,7 +17,7 @@ Humanitarian OpenStreetMap Team (HOT) is a Washington, D.C. based NGO and global
 HOT is searching for a Partnerships & Community Programs assistant to join our Partnerships and Community team. The role will involve:
 
 **Community responsibilities**
-* Coordinate activities for HOT Community programs including the 8 communities benefiting from the HOT Microgrants Program (https://www.hotosm.org/projects/microgrants_and_community_development). Includes assisting with management of: set up of Microgrants program each year, selection of communities to receive grants, monitoring progress through mid-term and end-of-term reports, managing financial disbursements.
+* Coordinate activities for HOT Community programs including communities benefiting from the HOT Microgrants Program (https://www.hotosm.org/projects/microgrants_and_community_development). Includes assisting with management of: set up of Microgrants program each year, selection of communities to receive grants, monitoring progress through mid-term and end-of-term reports, managing financial disbursements.
 * Monitoring and Evaluation of community grants
 * Set up and manage a Community Volunteer recognition program to provide monthly recognition to active volunteers in the HOT Community
 * Assisting with management of HOT’s monthly Community Webinars program, to share projects and experience across the HOT Community.
