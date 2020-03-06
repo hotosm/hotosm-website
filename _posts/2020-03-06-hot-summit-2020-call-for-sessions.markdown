@@ -29,9 +29,8 @@ We hope you’re just as excited as we are for this year’s session formats. On
 
 If you’re unsure about presenting or hosting a session but have a topic or discussion you would love to see, submit your idea in the Call for Sessions form! With your idea, we might be able to find the right people to host the session.
 
-We look forward to hearing your ideas for a collaborative and exciting HOT Summit 2020 and will see you in Cape Town, South Africa in July! Early bird registration begins next week!
+We look forward to hearing your ideas for a collaborative and exciting HOT Summit 2020 and will see you in Cape Town, South Africa 1-2 July 2020! Early bird registration begins next week!
 
 ---
-
 
 **On Coronavirus (COVID-19):** What makes the Summit special is that it is a truly global event; bringing together people from all over the world to share meals, experiences, and conversations. Cognizant of the current environment, but recognizing that we are still four months away from the event, we’ll be continuing to monitor the situation in the coming months. For now - please continue proposing your ideas and keep an eye on HOT communications for updates!
