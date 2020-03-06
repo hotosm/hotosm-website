@@ -1,7 +1,7 @@
 ---
 title: Bry Damasco
 date: 2020-03-06 06:59:00 Z
-Photo: "/uploads/Bry%20Portrait%202.png"
+Photo: "/uploads/Bry%20Portrait%203.png"
 Member Type:
   Is Staff: true
 Job Title: Deputy Country Manager
