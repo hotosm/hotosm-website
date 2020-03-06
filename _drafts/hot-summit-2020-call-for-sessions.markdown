@@ -1,6 +1,7 @@
 ---
 title: 'HOT Summit 2020: Call for Sessions'
 date: 2020-03-06 02:27:00 Z
+Feature Image: "/uploads/Summit%202019%20Group%20Pic%20(closer).JPG"
 Person: Jess Beutler
 ---
 
