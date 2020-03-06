@@ -1,7 +1,7 @@
 ---
 title: Rachel VanNice
 date: 2016-11-08 21:00:00 Z
-Photo: "/uploads/Headshot%201.jpg"
+Photo: "/uploads/Headshot%202.jpg"
 Member Type:
   Is Staff: true
 Job Title: Global Operations Manager
