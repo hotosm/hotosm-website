@@ -3,7 +3,7 @@ title: Yantisa Akhadi
 date: 2014-06-16 15:09:00 Z
 Photo: "/uploads/HOT_ID_Staff_Yantisa.png"
 Member Type:
-  Is Staff: true
+  Is Staff: false
   Is Voting Member: true
 Job Title: Country Manager
 Working Group:
