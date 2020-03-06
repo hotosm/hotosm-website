@@ -34,3 +34,7 @@ We look forward to hearing your ideas for a collaborative and exciting HOT Summi
 ---
 
 **On Coronavirus (COVID-19):** What makes the Summit special is that it is a truly global event; bringing together people from all over the world to share meals, experiences, and conversations. Cognizant of the current environment, but recognizing that we are still four months away from the event, we’ll be continuing to monitor the situation in the coming months. For now - please continue proposing your ideas and keep an eye on HOT communications for updates!
+
+---
+
+![EQpovE6XkAAXac1.jpeg](/uploads/EQpovE6XkAAXac1.jpeg)
