@@ -21,12 +21,12 @@ We welcome everyone to submit ideas during our Call for Sessions, now through 25
 
 * **World Cafe:** Your chance to share your ideas and discuss a topic in a structured conversational process. Led by you or your consortium, groups of people discuss a topic at several tables, with participants switching tables periodically and getting introduced to the topic from different perspectives. Have a theme or topic that would work in this format? Propose an idea to discuss and we can help structure the session with you. **(1 hour)**
 
-We hope you’re just as excited as we are for this year’s session formats. Once you have an idea, fill out the Call for Sessions form \[here\]. In order to make sure that everyone has an opportunity to participate, not just the seasoned conference speakers, the Summit Working Group is ready to work with you to polish and structure your session.
+We hope you’re just as excited as we are for this year’s session formats. Once you have an idea, fill out the [Call for Sessions form ](https://docs.google.com/forms/d/e/1FAIpQLSdCKnNVcKjDA8H6LtwegBbXuLF9lgjgt3ZgT7mTRoOj73hGVg/viewform)\[[here](https://docs.google.com/forms/d/e/1FAIpQLSdCKnNVcKjDA8H6LtwegBbXuLF9lgjgt3ZgT7mTRoOj73hGVg/viewform)\]. In order to make sure that everyone has an opportunity to participate, not just the seasoned conference speakers, the Summit Working Group is ready to work with you to polish and structure your session.
 
 If you’re unsure about presenting or hosting a session but have a topic or discussion you would love to see, submit your idea in the Call for Sessions form! With your idea, we might be able to find the right people to host the session.
 
 We look forward to hearing your ideas for a collaborative and exciting HOT Summit 2020 and will see you in Cape Town, South Africa in July! Early bird registration begins next week!
 
-***
+---
 
 **On Coronavirus (COVID-19):** What makes the Summit special is that it is a truly global event; bringing together people from all over the world to share meals, experiences, and conversations. Cognizant of the current environment, but recognizing that we are still four months away from the event, we’ll be continuing to monitor the situation in the coming months. For now - please continue proposing your ideas and keep an eye on HOT communications for updates!
