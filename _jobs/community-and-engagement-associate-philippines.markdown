@@ -10,9 +10,9 @@ Place of Work: Philippines
 
 **Location/Duty Station: Pampanga, Philippines**
 
-**Closes: Wednesday March 18,2020**
+**Closes: Wednesday March 18, 2020**
 
-**Projected start date: September 2019**
+**Projected start date: As soon as possible**
 
 **Reports to: Country Manager - Philippines**
 
@@ -20,118 +20,47 @@ Place of Work: Philippines
 
 ## About HOT
 
-Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 175,000 people with ground operations in eight countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
+The Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 180,000 people with ground operations in eight countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
 
-HOT is soliciting CVs of experienced community and volunteer mobilizers to support our operations in the Philippines starting as soon as possible (September 2019).
+The HOT Philippines team, in partnership with the Pacific Disaster Center (PDC), and the Office of Civil Defense (OCD) is leading a new local installation of DisasterAWARE in the Philippines called PhilAWARE. PhilAWARE is a disaster risk reduction and integrated early warning and decision support system that incorporates many data layers from OpenStreetMap. This platform aims to support the unique disaster preparedness and response needs of the Philippines. Through this project, we will be working closely with various stakeholders such as local communities, local government units, academe, and disaster risk management agencies in order to keep the OSM data updated. Pampanga, Philippines is the pilot area for the completion of the base map, which includes mapping the critical infrastructures through the use of OpenStreetMap.
+
+This assignment is expected to last 3 months with the possibility of extension.
 
 ## Profile
 
-HOT’s project in the Philippines focuses on supporting the expansion of DisasterAware (https://www.pdc.org/apps/disasteraware/), and supplying accurate and up to date open data (via OpenStreetMap) to feed into this platform. Aside from data collection and mapping, this project will have a strong focus on capacity building and training with various government agencies and ministries, both at the national and local level.
-
-The Community & Volunteer Manager will report to the Philippines Country Director. This position is responsible for growing and developing the OpenStreetMap community of volunteer mappers, setting up trainings, workshops, mapathons and other events. This is a full-time position preferably based in Manila, Philippines, that will have extensive travel around the country and the potential for location flexibility. The successful candidate must be willing to spend extended periods of time in the field coordinating training and mapping activities.
+HOT Philippines is looking for a Community Engagement Associate to support the relationship building activities of the organization in Pampanga.
 
 ## Responsibilities include:
 
-* Leading the growth and development of the OpenStreetMap volunteer community through partnerships with the government, the Philippines Red Cross, and many other organizations.
+* Supports the Community and Volunteer Manager in developing, maintaining, and executing partnership strategy with municipalities, universities, and other civic organizations in Pampanga;
 
-* Responsible for developing, maintaining and executing a strategy for community and volunteer support.
+* Effectively communicates the PhilAWARE project to various stakeholders; 
 
-* Coordinating the mapping activities of the Humanitarian OpenStreetMap Team with all our various partner organizations.
+* Supports in the development and follow through of agreements with these organizations;
 
-* Ensuring the existing community of OpenStreetMap contributors are supported, valued and appreciated.
+* Assists the Training Manager in scheduling and organizing training sessions;
 
-* Provide training and support to organizations to maximize the value they add to the OpenStreetMap community.
+* Supports field mapping activities by acting as the liaison between the team and the local government and community.
 
-* Networking and liaising with all sectors of the Philippines’ humanitarian and development community from senior executives and politicians to LGUs and local community organizations.
-
-* Recruit, train, supervise and evaluate volunteers.
-
-* Establish and monitor KPIs for community growth, engagement and retention.
-
-* Establish partnerships with corporations, government officers, LGUs and universities to expand the OpenStreetMap community.
-
-* Support existing YouthMappers chapters at universities and work towards establishing new ones.
-
-* Manage and grow HOT Philippines’ Social Media presence.
-
-* Support the Technical Director and Training Director to ensure that mapping activities conducted in the Philippines are of the highest possible quality.
-
-* Assist the Training Director in scheduling and organizing regular training sessions, and support the newly trained individuals in their activities post-training.
-
-* Assist the Training Director in developing an appropriate curriculum for trainings, as well as support all training activities to ensure new mappers are doing high quality work.
-
-* Organizing and leading regular mapathon activities.
-  Maintain the OSM Wiki for the Philippines.
-
-* Lead and coordinate emergency response activities in crisis situations, coordinating with HOT’s global network of volunteers.
-
-* Developing program goals and policies.
-
-* Managing a budget for the volunteer department.
-
-* Tracking volunteer hours and using the data to create reports.
+* Perform other duties as assigned.
 
 ## About You
 
 ### Essential:
 
-* Fluent in English and Tagalog.
+* Fluent in English, Tagalog, and Kapampangan; must be a resident of Pampanga for ease of mobility in the province. 
 
-* Extensive experience in volunteer organizations and building reliable volunteer communities, with hands-on experience in program development and coordinating volunteer programs.
+* Undergraduate degree, preferably in Development Communication, Social Sciences, Psychology, International Studies, or Marketing. 
 
-* Extensive experience in providing trainings and public speaking.
+* Excellent team management skills in managing and coordinating groups of people, including speaking and training sessions. 
 
-* Excellent team management skills in managing and coordinating groups of people, including speaking and training sessions, and especially with volunteers.
+* Personable demeanor with excellent networking and relationship building skills. 
 
-* Experience developing self-sufficient and sustainable community groups, including developing technical skillsets.
+* Comfortable leading and communicating with all members of Philippine society, from senior executives and high-level politicians to working at the community level with LGUs and local community organizations.
 
-* Extremely likeable personality with excellent networking and relationship building skills.
+* Process-oriented, and keen with documentation.
 
-* Detail-oriented & able to employ critical thinking to solve problems.
-
-* You should be comfortable with leading and communicating with all levels of Filipino society, from senior executives and high level politicians to working at the community level with LGUs and local community organizations.
-
-* Extensive experience planning and organizing events.
-
-* Demonstrated experience developing teams, especially volunteer teams.
-
-* Demonstrated cultural competency and experience working in the Philippines.
-
-* Demonstrated leadership, versatility, and integrity.
-
-* Experience working on dispersed virtual teams operating in many locations and the project management technologies required to do so effectively.
-
-* Solid understanding of maintaining confidential data.
-
-* Experience with Social Media Management.
-
-### Additional desirable skills:
-
-* Fluent in Bisaya and/or other languages of the Philippines.
-
-* Experience in working fast-paced startup ventures.
-
-* Expertise in disaster risk reduction and response.
-
-* Experience working with the OpenStreetMap platform.
-
-* GIS and/or statistical data analysis skills.
-
-* Experience organizing and leading mapathons.
-
-* Experience working with governments and in the international humanitarian system, preferably on disaster risk management and reduction projects.
-
-* Experience in data analysis and information management.
-
-* Experience in participatory data collection, preferably using mobile digital data collection tools such as Kobo, OpenDataKit, and OpenMapKit.
-
-* Experience designing and carrying out community mapping exercises, including: collecting data, using OpenStreetMap, teaching data quality assurance, collaborating with various stakeholders, and building capacity in partner organizations.
-
-* Outstanding knowledge of current trends and information for volunteerism.
-
-* Experience working on USAID funded projects.
-
-* Existing network of contacts in the Philippines Government and humanitarian sector.
+* Must be diligent and hardworking; practices tact and discretion with confidential information.
 
 ### Conditions
 
