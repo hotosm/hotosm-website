@@ -5,7 +5,7 @@ Photo: "/uploads/Screen%20Shot%202018-09-15%20at%2012.29.57.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Programs Associate
+Job Title: Programs Manager
 Working Group:
 - Training
 Project:
