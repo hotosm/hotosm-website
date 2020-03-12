@@ -1,7 +1,6 @@
 ---
 title: Community and Engagement Associate - Philippines
 date: 2020-03-11 14:44:00 Z
-published: false
 Deadline Date: 2020-03-18 00:00:00 Z
 Place of Work: Philippines
 ---
@@ -34,7 +33,7 @@ HOT Philippines is looking for a Community Engagement Associate to support the r
 
 * Supports the Community and Volunteer Manager in developing, maintaining, and executing partnership strategy with municipalities, universities, and other civic organizations in Pampanga;
 
-* Effectively communicates the PhilAWARE project to various stakeholders; 
+* Effectively communicates the PhilAWARE project to various stakeholders;
 
 * Supports in the development and follow through of agreements with these organizations;
 
@@ -48,13 +47,13 @@ HOT Philippines is looking for a Community Engagement Associate to support the r
 
 ### Essential:
 
-* Fluent in English, Tagalog, and Kapampangan; must be a resident of Pampanga for ease of mobility in the province. 
+* Fluent in English, Tagalog, and Kapampangan; **must be a resident of Pampanga for ease of mobility in the province**.
 
-* Undergraduate degree, preferably in Development Communication, Social Sciences, Psychology, International Studies, or Marketing. 
+* Undergraduate degree, preferably in Development Communication, Social Sciences, Psychology, International Studies, or Marketing.
 
-* Excellent team management skills in managing and coordinating groups of people, including speaking and training sessions. 
+* Excellent team management skills in managing and coordinating groups of people, including speaking and training sessions.
 
-* Personable demeanor with excellent networking and relationship building skills. 
+* Personable demeanor with excellent networking and relationship building skills.
 
 * Comfortable leading and communicating with all members of Philippine society, from senior executives and high-level politicians to working at the community level with LGUs and local community organizations.
 
