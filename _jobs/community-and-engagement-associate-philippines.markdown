@@ -9,7 +9,7 @@ Place of Work: Philippines
 
 **Location/Duty Station: Pampanga, Philippines**
 
-**Closes: Wednesday March 18, 2020**
+**Closes: Thursday, March 19, 2020**
 
 **Projected start date: As soon as possible**
 
