@@ -3,8 +3,9 @@ title: 'Launching #map2020 for Improved Navigation in Undermapped Regions'
 date: 2020-03-16 19:37:00 Z
 ---
 
-![2019-06-20-poor-road-conditions-ghana-53e79e.gif](/uploads/2019-06-20-poor-road-conditions-ghana-53e79e.gif)\
-*`Footage from last year’s #map2020, when the local mapping community in Ghana mapped navigation issues in Accra, the capital of Ghana`*
+![2019-06-20-poor-road-conditions-ghana-53e79e.gif](/uploads/2019-06-20-poor-road-conditions-ghana-53e79e.gif)
+
+*Footage from last year’s #map2020, when the local mapping community in Ghana mapped navigation issues in Accra, the capital of Ghana*
 
 Mapillary and Humanitarian OpenStreetMap Team are launching a new mapping campaign, #map2020, to solve one of the greatest developmental challenges for low- and middle-income countries: maps and navigation. Here’s how you can take part.
 
