@@ -9,7 +9,7 @@ Summary Text: 'Mapillary and Humanitarian OpenStreetMap Team are launching a new
 Feature Image: "/uploads/2019-06-20-poor-road-conditions-ghana-af88e4.gif"
 Person: Gihan Hassanein
 Country:
-- 
+- Global
 - 
 ---
 
