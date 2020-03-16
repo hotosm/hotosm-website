@@ -7,6 +7,7 @@ Summary Text: 'Mapillary and Humanitarian OpenStreetMap Team are launching a new
   campaign, #map2020, to solve one of the greatest developmental challenges for low-
   and middle-income countries: maps and navigation. Here’s how you can take part.'
 Feature Image: "/uploads/2019-06-20-poor-road-conditions-ghana-af88e4.gif"
+Person: Gihan Hassanein
 Country:
 - 
 - 
