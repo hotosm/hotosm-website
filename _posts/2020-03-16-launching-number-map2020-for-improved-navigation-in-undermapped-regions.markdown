@@ -17,9 +17,9 @@ Access to accurate and updated maps is a cornerstone for countries and societies
 
 With #map2020, we invite local mapping teams in low- and middle-income countries to map their communities and challenges related to navigation. By using street-level imagery to edit OpenStreetMap (OSM), we will together make a dent in one of the biggest challenges that undermapped areas face.
 
-![2019-06-20-poor-road-conditions-ghana-53e79e.gif](/uploads/2019-06-20-poor-road-conditions-ghana-53e79e.gif)
+![HOT Staff.jpeg](/uploads/HOT%20Staff.jpeg)
 
-*Footage from last year’s #map2020, when the local mapping community in Ghana mapped navigation issues in Accra, the capital of Ghana.*
+*HOT’s mapping team capturing street-level imagery for improving the map.*
 
 Navigation ties closely to how easily people can travel from A to B in a safe, reliable, and efficient way. There are many ways to map this in OSM.
 
