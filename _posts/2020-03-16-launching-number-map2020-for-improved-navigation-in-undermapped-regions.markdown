@@ -1,17 +1,24 @@
 ---
 title: 'Launching #map2020 for Improved Navigation in Undermapped Regions'
 date: 2020-03-16 19:37:00 Z
+tags:
+- "#map2020"
+Summary Text: 'Mapillary and Humanitarian OpenStreetMap Team are launching a new mapping
+  campaign, #map2020, to solve one of the greatest developmental challenges for low-
+  and middle-income countries: maps and navigation. Here’s how you can take part.'
+Feature Image: "/uploads/2019-06-20-poor-road-conditions-ghana-af88e4.gif"
+Country:
+- 
+- 
 ---
-
-![2019-06-20-poor-road-conditions-ghana-53e79e.gif](/uploads/2019-06-20-poor-road-conditions-ghana-53e79e.gif)
-
-*Footage from last year’s #map2020, when the local mapping community in Ghana mapped navigation issues in Accra, the capital of Ghana*
-
-Mapillary and Humanitarian OpenStreetMap Team are launching a new mapping campaign, #map2020, to solve one of the greatest developmental challenges for low- and middle-income countries: maps and navigation. Here’s how you can take part.
 
 Access to accurate and updated maps is a cornerstone for countries and societies to be able to run smoothly. Without maps, transporting goods and people efficiently becomes a near-impossible task. That’s why maps and information on navigability play a big role in lifting countries out of poverty. It’s also why Mapillary and the Humanitarian OpenStreetMap Team (HOT) are teaming up in [#map2020](https://www.mapillary.com/map2020), a mapping campaign that sets to improve maps and navigation in low- and middle-income countries.
 
 With #map2020, we invite local mapping teams in low- and middle-income countries to map their communities and challenges related to navigation. By using street-level imagery to edit OpenStreetMap (OSM), we will together make a dent in one of the biggest challenges that undermapped areas face.
+
+![2019-06-20-poor-road-conditions-ghana-53e79e.gif](/uploads/2019-06-20-poor-road-conditions-ghana-53e79e.gif)
+
+*Footage from last year’s #map2020, when the local mapping community in Ghana mapped navigation issues in Accra, the capital of Ghana.*
 
 Navigation ties closely to how easily people can travel from A to B in a safe, reliable, and efficient way. There are many ways to map this in OSM.
 
