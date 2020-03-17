@@ -20,7 +20,7 @@ layout: default
       </div>
 
       <div class="roster-list">
-        
+
             {% assign sorted-people = site.people | sort: 'title', 'last' %}
 
             {% for country in page.countries %}
@@ -33,11 +33,11 @@ layout: default
                 {% endfor %}
                 </div>
             {% endfor %}
-                
+
             <h2>Global</h2>
             <div class="roster-list-wrapper">
             {% for person in sorted-people %}
-            {% if person.Country != 'Guatemala' and person.Country != 'Zambia' and person.Country != 'Uganda' and person.Country != 'Tanzania' and person.Country != 'Indonesia' and person['Member Type']['Is Staff'] %}
+            {% if person.Country != 'Guatemala' and person.Country != 'Zambia' and person.Country != 'Uganda' and person.Country != 'Tanzania' and person.Country != 'Indonesia' and person.Country != 'Philippines' and person['Member Type']['Is Staff'] %}
 
             {% include blocks/roster-item.html %}
             {% endif %}
