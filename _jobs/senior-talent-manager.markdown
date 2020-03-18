@@ -8,9 +8,13 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeL1q7pSCj2qO1z0FZLXgE
 ---
 
 **Contract terms:** Full time 40 hours per week
+
 **Projected start date:** May 11, 2020
+
 **Reports to:** Executive Director
+
 **Location:** Washington, DC (Will also consider remote locations between US Eastern and Central European time zones)
+
 **Travel:** 4-6 times per year internationally
 
 # About HOT
