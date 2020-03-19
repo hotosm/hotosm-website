@@ -4,7 +4,7 @@ date: 2020-03-06 14:39:00 Z
 Photo: "/uploads/HOT_PH01.png"
 Member Type:
   Is Staff: true
-Job Title: Deputy Country Manager
+Job Title: Country Manager
 Country: Philippines
 ---
 
