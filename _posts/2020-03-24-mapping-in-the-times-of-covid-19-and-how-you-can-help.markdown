@@ -55,8 +55,6 @@ We still don't know how the situation will continue to develop in different part
 
 We’d like to thank everyone who has already started mapping in an effort to help out. Hopefully, this post provides guidance on what can still be done. Stay safe out there.
 
-                 ![Screenshot 2020-03-24 at 12.58.15.png](/uploads/Screenshot%202020-03-24%20at%2012.58.15.png)
-
 *Ed Neerhut, Mapillary; Maggie Cawley, OpenStreetMap US; Tyler Radford, Humanitarian OpenStreetMap Team; Miriam Gonzalez, GeoChicas*
 
 \\
