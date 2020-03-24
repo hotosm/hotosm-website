@@ -48,7 +48,7 @@ We highly encourage mapping some of the above features in an area you care about
 
 * **USA:** Follow [OpenStreetMapUS](https://twitter.com/OpenStreetMapUS/status/1240460820158582784) for an upcoming live mapathon on April 1st.
 
-* \*\*Missing Maps **[April Mapathon:](https://www.eventbrite.co.uk/e/online-missing-maps-april-mapathon-tickets-99003635539)** \*\*7 April 19:00 – 22:00 BST
+* Missing Maps **[April Mapathon:](https://www.eventbrite.co.uk/e/online-missing-maps-april-mapathon-tickets-99003635539)** 7 April 19:00 – 22:00 BST
 
 With much of the world staying in, we also know that deliveries are bound to go up and your local delivery company will likely have to fit in more deliveries in a shorter period of time. People who transport food, medicine, and other supplies still need to move and they are highly dependent on maps. You can help them by improving the map in your local area, or any area, by using satellite and street-level imagery to mark out driveways and add addresses in OpenStreetMap. Consider mapping the addresses of your loved ones, particularly those who are most vulnerable. Many routing engines rely on data within OpenStreetMap, so this can make it easier to coordinate deliveries by ensuring these locations show up as a destination.\
 \
