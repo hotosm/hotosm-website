@@ -1,13 +1,10 @@
 ---
 title: Mapping in the Times of Covid-19 and How You Can Help
 date: 2020-03-24 16:57:00 Z
-published: false
 Summary Text: As the world takes action against the Covid-19 outbreak, here is how
   you can help.
 Feature Image: "/uploads/Bangladesh_IOM_Rohingya_refugee_camp_Kutupalong_Area_20180424.jpg"
 ---
-
-![Screenshot 2020-03-24 at 12.58.15.png](/uploads/Screenshot%202020-03-24%20at%2012.58.15.png)
 
 We are living in unprecedented times and for many of us, uncertainty is running high. The outbreak of Covid-19 is one of the greatest challenges that we’re having to face as a global community. More than anything, we’re asking everyone in the global mapping community to follow their respective governments’ guidelines and do what they can to remain safe and healthy.
 
@@ -54,6 +51,8 @@ We still don't know how the situation will continue to develop in different part
 
 We’d like to thank everyone who has already started mapping in an effort to help out. Hopefully, this post provides guidance on what can still be done. Stay safe out there.
 
+                 ![Screenshot 2020-03-24 at 12.58.15.png](/uploads/Screenshot%202020-03-24%20at%2012.58.15.png)
+
 */Ed Neerhut, Mapillary; Maggie Cawley, OpenStreetMap US; Tyler Radford, Humanitarian OpenStreetMap Team; Miriam Gonzalez, GeoChicas*
 
-\
+\\
