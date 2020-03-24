@@ -9,6 +9,8 @@ Feature Image: "/uploads/Summit%202019%20Group%20Pic%20(closer).JPG"
 Person: Jess Beutler
 ---
 
+**UPDATE on Call for Sessions for HOT Summit 2020: In light of the health and travel warnings around COVID-19, we will continue to monitor the situation and provide updates as we have them. In hope, we’re sticking to the 25 March deadline and we look forward to reviewing your submissions. We will continue to provide updates on [Facebook](https://www.facebook.com/hotosm/) and [Twitter](https://twitter.com/hotosm).**
+
 The success of the past ten years has only been possible through the collaboration of this dedicated community around the world. In that spirit, we’re planning for a Summit event that is even more collaborative and engaging than we’ve done before. We want to hear about the challenges and successes, failures and new ideas in formats that allow everyone in attendance to contribute to the conversation. To do so, we’re adding new session formats that we have enjoyed in other conferences, as well as keeping a few classics.
 
 We welcome everyone to submit ideas during our Call for Sessions, now through 25 March 2020. Before diving into the application, read through the session format descriptions below. Many of the options will require bringing together several individuals from the community. So, if you propose an idea for a topic or session that you would like to be a part of, we can help you find the other individuals to complete the session.
