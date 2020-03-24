@@ -4,6 +4,10 @@ date: 2020-03-24 16:57:00 Z
 Summary Text: As the world takes action against the Covid-19 outbreak, here is how
   you can help.
 Feature Image: "/uploads/Bangladesh_IOM_Rohingya_refugee_camp_Kutupalong_Area_20180424.jpg"
+Person: Gihan Hassanein
+Country:
+- Global
+- 
 ---
 
 We are living in unprecedented times and for many of us, uncertainty is running high. The outbreak of Covid-19 is one of the greatest challenges that we’re having to face as a global community. More than anything, we’re asking everyone in the global mapping community to follow their respective governments’ guidelines and do what they can to remain safe and healthy.
