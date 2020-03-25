@@ -1,6 +1,7 @@
 ---
 title: 'HOT Summit 2020: Call for Sessions'
 date: 2020-03-06 02:27:00 Z
+published: false
 Summary Text: We’re excited to announce that for the 6th HOT Summit in beautiful Cape
   Town, South Africa, we will be celebrating our 10th anniversary of using OpenStreetMap
   to help our partners save and improve lives. This year’s Summit will focus on the
