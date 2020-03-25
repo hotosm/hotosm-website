@@ -1,6 +1,7 @@
 ---
 title: Partnerships & Community Programs Manager
 date: 2020-03-06 16:40:00 Z
+published: false
 position: 15
 Deadline Date: 2020-03-19 00:00:00 Z
 Place of Work: Flexible – any HOT office (Washington, D.C., New York, Kampala, Dar
