@@ -8,6 +8,8 @@ Person: Gihan Hassanein
 Country:
 - Global
 - 
+Project:
+- HOT COVID-19 RESPONSE
 ---
 
 We are living in unprecedented times and for many of us, uncertainty is running high. The outbreak of COVID-19 is one of the greatest challenges that we’re having to face as a global community. More than anything, we’re asking everyone in the global mapping community to follow their respective governments’ guidelines and do what they can to remain safe and healthy.
