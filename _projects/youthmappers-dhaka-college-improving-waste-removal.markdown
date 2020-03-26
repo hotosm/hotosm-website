@@ -1,7 +1,7 @@
 ---
 title: YouthMappers Dhaka College - Improving Waste Removal
 date: 2019-05-06 12:22:00 Z
-position: 16
+position: 11
 Project Summary Text: 'Using mapping in Dhaka to address a growing challenge many
   urban areas face: waste collection and removal.'
 Feature Image: "/uploads/YouthMappers%20Dhaka%202.jpg"
