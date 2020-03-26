@@ -3,7 +3,7 @@ title: OpenAerialMap
 date: 2015-05-28 23:36:00 Z
 permalink: projects/openaerialmap
 published: false
-position: 67
+position: 95
 Person:
 - Nate Smith
 - Dale Kunce

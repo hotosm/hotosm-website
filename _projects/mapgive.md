@@ -3,7 +3,7 @@ title: MapGive
 date: 2015-08-01 17:41:00 Z
 permalink: projects/mapgive
 published: false
-position: 47
+position: 75
 Person:
 - Dale Kunce
 - Mikel Maron

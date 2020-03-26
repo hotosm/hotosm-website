@@ -2,7 +2,7 @@
 title: 'Syria refugee response: Mapfugees'
 date: 2016-11-24 23:55:00 Z
 permalink: projects/mapfugees_field_mapping
-position: 84
+position: 112
 Project Summary Text: Mapfugees coordinated digitization of the refugee camps of Calais
   and Grande-Synthe/Dunkirk in Northern France in 2016
 Feature Image: "/uploads/20160411_154843%20Dunkirk.jpg"

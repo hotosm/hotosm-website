@@ -2,7 +2,7 @@
 title: 'Disaster Activation: Ebola Epidemic 2014-16'
 date: 2014-04-15 12:25:00 Z
 permalink: projects/west_africa_ebola_epidemic
-position: 59
+position: 87
 Project Summary Text: During the West Africa Ebola Epidemic, Humanitarian OpenStreetMap
   Team helped coordinate mapping community activities and deliver maps to field workers.
 Feature Image: "/uploads/macenta-guinea_0.png"

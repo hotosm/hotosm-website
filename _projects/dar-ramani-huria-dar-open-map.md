@@ -2,7 +2,7 @@
 title: 'Urban flood resilience: Ramani Huria'
 date: 2015-02-07 04:47:00 Z
 permalink: projects/dar_ramani_huria_dar_open_map
-position: 4
+position: 33
 Project Summary Text: Ramani Huria, "Open Map" in Swahili, is a HOT Tanzania project
   focused on mapping Dar es Salaam to inform flood prevention plans.
 Feature Image: "/uploads/Ramani%20Huria%20TZ%202.jpg"
