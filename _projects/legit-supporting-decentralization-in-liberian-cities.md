@@ -2,7 +2,7 @@
 title: 'Supporting decentralization in Liberian cities: LEGIT'
 date: 2017-03-08 23:05:00 Z
 permalink: projects/legit_supporting_decentralization_in_liberian_cities
-position: 47
+position: 46
 Project Summary Text: HOT’s objectives within The Liberia Local Empowerment for Government
   Inclusion and Transparency (LEGIT) program are to map administrative boundaries
   and service delivery infrastructure to support the development of urban resilience
