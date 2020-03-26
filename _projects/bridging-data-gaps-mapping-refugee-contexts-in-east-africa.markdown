@@ -1,7 +1,7 @@
 ---
 title: 'Bridging Data Gaps: Mapping Refugee Contexts in East Africa'
 date: 2019-06-19 19:42:00 Z
-position: 8
+position: 7
 Feature Image: "/uploads/shareback.jpg"
 Country:
 - Uganda
