@@ -5,7 +5,7 @@ Banner:
   Is Activated: true
   Main Block: Mapping for the COVID-19 response
   Secondary Block: 'Help undermapped communities access crucial health services during
-    and after the outbreak of #Covid-19. Your help could save a life.'
+    the #Covid-19 outbreak'
   Optional Text: 
   Link Copy: 
   URL: 
