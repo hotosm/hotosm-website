@@ -1,7 +1,7 @@
 ---
 title: OSM Cameroon - Building an OSM Data Recovery System
 date: 2019-05-02 12:00:00 Z
-position: 12
+position: 13
 Project Summary Text: Creating a free provision of GitHub for OSM Communities of surrounding
   African countries to have an OSM data recovery infrastructure
 Feature Image: "/uploads/OSM%20Cameroun.jpg"
