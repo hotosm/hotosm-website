@@ -10,8 +10,7 @@ Banner:
   Link Copy: 
   URL: 
 Project:
-- 'Refugee response: South Sudan and Syria'
-- 'Urban flood resilience: Ramani Huria'
+- HOT COVID-19 RESPONSE
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
