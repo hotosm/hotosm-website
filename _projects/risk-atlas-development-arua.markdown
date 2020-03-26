@@ -1,7 +1,7 @@
 ---
 title: Risk Atlas development (Arua)
 date: 2019-02-06 09:15:00 Z
-position: 9
+position: 10
 Project Summary Text: HOT is working with UNDP and Uganda’s Office of the Prime Minister
   (OPM) to provide additional data and mapping inputs to hazard, exposure, vulnerability,
   and risk profiling in support of the development of the “Refugee hosting district
