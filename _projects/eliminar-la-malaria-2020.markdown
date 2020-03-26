@@ -2,7 +2,7 @@
 title: Eliminar la Malaria 2020
 date: 2018-10-05 01:00:00 Z
 permalink: projects/eliminar-la-malaria-2020
-position: 29
+position: 28
 Project Summary Text: In partnership with the Clinton Health Access Initiative (CHAI),
   HOT is performing an on-the-ground validation exercise across eight localities in
   Escuintla and providing support for the integration of OpenMapKit (OMK) and other
