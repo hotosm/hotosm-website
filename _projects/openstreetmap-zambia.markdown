@@ -2,7 +2,7 @@
 title: 'OSM Zambia: WASH Mapping'
 date: 2018-06-05 23:01:00 Z
 permalink: projects/openstreetmap-zambia
-position: 40
+position: 39
 Project Summary Text: Mapping to support water & sanitation initiatives in Zambia
 Feature Image: "/uploads/zambiaphoto.PNG"
 Is image top aligned: true

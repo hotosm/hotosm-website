@@ -2,7 +2,7 @@
 title: 'Dam Safety And Public Protection: InaSAFE'
 date: 2018-06-06 22:40:00 Z
 permalink: projects/dam-safety-and-public-protection-through-inasafe
-position: 37
+position: 36
 Project Summary Text: "HOT mapped the village of Cirendu, in the province of Banten
   and the Jatigede\nsub-district, in the \nProvince of West Java to provide comprehensive
   data on households and key infrastructure. The resulting exposure data was subsequently
