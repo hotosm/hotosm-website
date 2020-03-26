@@ -1,7 +1,7 @@
 ---
 title: 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
 date: 2019-03-12 12:00:00 Z
-position: 6
+position: 7
 Project Summary Text: HOT is partnering with Microsoft Philanthropies and Bing Maps
   to build a Machine Learning assisted workflow into the Tasking Manager application
   in order to enhance the project creation process and mapping experience.
