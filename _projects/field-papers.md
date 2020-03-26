@@ -3,7 +3,7 @@ title: Field Papers
 date: 2015-05-28 15:30:00 Z
 permalink: projects/field_papers
 published: false
-position: 94
+position: 95
 Person:
 - Jorieke Vyncke
 - Ahasanul Hoque

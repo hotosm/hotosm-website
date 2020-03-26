@@ -3,7 +3,7 @@ title: Tasking Manager
 date: 2015-06-03 22:08:00 Z
 permalink: projects/tasking_manager
 published: false
-position: 96
+position: 97
 Person:
 - Nate Smith
 - 'Douglas Ssebaggala '
