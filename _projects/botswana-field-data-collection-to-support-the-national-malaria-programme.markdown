@@ -2,7 +2,7 @@
 title: 'Field data collection for malaria elimination: National Malaria Programme'
 date: 2018-06-06 14:56:00 Z
 permalink: "/projects/botswana_field_data_collection_to_support_the_national_malaria_programme"
-position: 38
+position: 37
 Feature Image: "/uploads/IMG_1152-botswana-compressor.jpg"
 Country:
 - Botswana

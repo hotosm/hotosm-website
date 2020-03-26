@@ -2,7 +2,7 @@
 title: 'GAL School Peru: Developing Young Mappers'
 date: 2018-05-17 06:15:00 Z
 permalink: projects/gal-school-peru-55e5b7
-position: 73
+position: 72
 Project Summary Text: GAL School is empowering students to develop projects for social
   good through OpenStreetMap and other digital tools.
 Feature Image: "/uploads/IMG_3538.JPG"

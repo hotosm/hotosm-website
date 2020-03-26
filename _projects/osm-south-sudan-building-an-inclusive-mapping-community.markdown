@@ -1,7 +1,7 @@
 ---
 title: 'OSM South Sudan: Building an inclusive mapping community'
 date: 2020-01-20 09:33:00 Z
-position: 22
+position: 21
 Project Summary Text: OSM South Sudan will become the first OpenStreetMap community
   in the country, training individuals both in South Sudan, and South Sudanese refugees
   in Uganda, to map settlements affected by flooding.
