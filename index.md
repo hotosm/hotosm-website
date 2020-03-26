@@ -11,6 +11,7 @@ Banner:
   URL: 
 Project:
 - HOT COVID-19 RESPONSE
+- 'OSM South Sudan: Building an inclusive mapping community'
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
