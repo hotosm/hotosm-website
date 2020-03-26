@@ -38,10 +38,3 @@ HOT works to ensure map data should be accessible and used in decisions that sav
 2. Join the Disaster Activation Working Group by joining the HOT Slack ([http://slack.hotosm.org/](http://slack.hotosm.org/)) channel #disaster-mapping
 
 3. Stay tuned on [Twitter](https://twitter.com/hotosm) and [Facebook](https://www.facebook.com/hotosm/) for updates as our response evolves
-
-\
-
-\
-\
-\
-\
