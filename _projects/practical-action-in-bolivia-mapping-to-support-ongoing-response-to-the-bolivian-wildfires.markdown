@@ -2,7 +2,7 @@
 title: 'Practical Action in Bolivia: Mapping to support ongoing response to the Bolivian
   wildfires'
 date: 2020-01-20 10:34:00 Z
-position: 4
+position: 6
 Project Summary Text: Practical Action in Bolivia aims to train individuals to identify
   and map their needs, making geospatial data available to NGOs and government agencies
   providing aid.
