@@ -7,8 +7,8 @@ Banner:
   Secondary Block: Help undermapped communities access crucial health services during
     the COVID-19 outbreak
   Optional Text: 
-  Link Copy: 
-  URL: 
+  Link Copy: tasks.hotosm.org
+  URL: https://tasks.hotosm.org/contribute?difficulty=ALL&text=covid
 Project:
 - HOT COVID-19 RESPONSE
 - 'OSM South Sudan: Building an inclusive mapping community'
