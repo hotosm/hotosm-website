@@ -3,9 +3,9 @@ title: 'Launching #map2020 for Improved Navigation in Undermapped Regions'
 date: 2020-03-16 19:37:00 Z
 tags:
 - "#map2020"
-Summary Text: 'Mapillary and Humanitarian OpenStreetMap Team are launching a new mapping
-  campaign, #map2020, to solve one of the greatest developmental challenges for low-
-  and middle-income countries: maps and navigation. Here’s how you can take part.'
+Summary Text: |-
+  ***UPDATE TO #MAP2020 DUE TO COVID-19***\
+  *With the ongoing situation of the Covid-19 outbreak in big parts of the world, we are asking #map2020 participants to follow their local governments’ respective guidelines. If you can’t go out and capture imagery due to the current situation, you can still participate in #map2020 by updating and improving OpenStreetMap by using imagery that already exists on [Mapillary](https://www.mapillary.com/app). The imagery should still be used to improve navigation in your chosen area. *
 Feature Image: "/uploads/2019-06-20-poor-road-conditions-ghana-af88e4.gif"
 Person: Gihan Hassanein
 Country:
@@ -37,7 +37,7 @@ Navigation ties closely to how easily people can travel from A to B in a safe, r
 
 The data contained within the OSM basemap is one of the most significant factors affecting the accuracy of navigation data. Without speed limits and road names, for instance, map users won’t be able to get reliable routing estimates from one location to another. That’s why we’re focusing this year’s #map2020 on navigation issues.
 
-The campaign will run until the end of April, when final project submissions will be reviewed by a committee and the winners announced. Representatives from the most successful projects will be awarded a fully-funded trip to HOT Summit taking place on July 1 and 2 in Cape Town, South Africa, to present their project findings to the international humanitarian mapping community.
+The campaign will run until the end of April, when final project submissions will be reviewed by a committee and the winners announced. 
 
 **How to take part**
 
@@ -52,14 +52,11 @@ There are many interesting elements to navigation and we’re looking forward to
 * **Your mapping team will collect and use street-level imagery to map navigation-related features in OSM**\
   You will capture street-level images with smartphones or action cameras and upload them to Mapillary. The images will then be used to edit and improve OpenStreetMap by adding features to the map that help improve navigation results.
 
-* **Someone from your mapping team would be available to present your mapping project at HOT Summit in Cape Town in July 2020**\
-  Mapillary and HOT will sponsor representatives from the most successful projects to travel to the HOT Summit in Cape Town in July, where they will present their findings. A representative from the project must be available and willing to present their work at the HOT Summit.
-
 You can [read more about #map2020 here](https://www.mapillary.com/map2020).
 
 \#map2020 timeline
 
-**#map2020** will take place across March and April with selected projects being funded to travel to Cape Town in July 2020 to present their findings at HOT Summit.
+**#map2020** will take place across March and April with selected projects being funded to travel to present their findings at HOT Summit (currently postponed due to COVID-19).
 
 * March 10: Project submissions open
 
@@ -73,10 +70,8 @@ You can [read more about #map2020 here](https://www.mapillary.com/map2020).
 
 * April 20: Results submissions due
 
-* April 30: HOT Summit projects announced
-
-* July 1 - 2: Winning projects present at HOT Summit in Cape Town
-
 ### You can [submit your mapping project here](https://docs.google.com/forms/d/e/1FAIpQLSd-oOVijimQPYmxqG0QYzhnnDpu-8hSpkuCFCd3LSbG2qMqzw/viewform).
 
 This is the second time Mapillary and HOT team up for a mapping campaign with a humanitarian focus. We saw hundreds of thousands of images come in from all over the world during last year’s #map2020 as mapping groups tackled different humanitarian challenges in their community by improving the map. This year, we’re excited to level up and hone in on navigation specifically. Better navigation is needed in many places, but there are no places where the impact will be greater than in undermapped regions.
+
+*For any questions, please reach out to [ed@mapillary.com](mailto:ed@mapillary.com).*
