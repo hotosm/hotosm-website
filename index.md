@@ -11,7 +11,7 @@ Banner:
   URL: https://tasks.hotosm.org/contribute?difficulty=ALL&text=covid
 Project:
 - HOT COVID-19 RESPONSE
-- 'OSM South Sudan: Building an inclusive mapping community'
+- Community Mapping for a Resilient Bamako
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
