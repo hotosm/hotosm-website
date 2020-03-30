@@ -24,7 +24,7 @@ The project activities will focus on collecting identified baseline information 
 
 During the rainy season in Mali (May to October), Bamako receives more than 600mm of rainfall and flooding is common. The most recent flood was May 16, 2019, in which 25 people died and 575 more were affected.
 
-![Stakeholders Engagement Session - Project Kick Off Blogpost.JPG](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/Stakeholders%20Engagement%20Session%20-%20Project%20Kick%20Off%20Blogpost.JPG?download)
+![Stakeholders Engagement Session - Project Kick Off Blogpost.JPG](/uploads/Stakeholders%20Engagement%20Session%20-%20Project%20Kick%20Off%20Blogpost.JPG)
 
 *Stakeholder engagement session during project kick-off in Bamako*
 
