@@ -6,6 +6,13 @@ Project Summary Text: Mapping for informed decision making for disaster response
 Feature Image: "/uploads/Independence%20Monument%20-%20Project%20Page%20Post.JPG"
 Person:
 - David Luswata
+- Paul Uithol
+Partner:
+- OSM Mali
+- Croix-Rouge Malienne
+Duration:
+  Start Date: 2020-01-13 00:00:00 Z
+  End Date: 2020-09-30 00:00:00 Z
 ---
 
 Bamako, the capital and largest city of Mali, is situated on the Niger River floodplain, which hampers development along the riverfront and the Niger’s tributaries. Bamako is relatively flat, except to the immediate north where an escarpment is found, what remains of an extinct volcano. The presidential palace and the main hospital are located there. Originally, the city was developed on the northern side of the Niger River but as it grew, bridges were built to connect the north with the south:  the Pont de Martyrs, the King Fahd Bridge, and the Sotuba causeway, which is typically underwater from July to January.
@@ -24,9 +31,6 @@ The project activities will focus on collecting identified baseline information 
 
 During the rainy season in Mali (May to October), Bamako receives more than 600mm of rainfall and flooding is common. The most recent flood was May 16, 2019, in which 25 people died and 575 more were affected.
 
-![Stakeholders Engagement Session - Project Kick Off Blogpost.JPG](/uploads/Stakeholders%20Engagement%20Session%20-%20Project%20Kick%20Off%20Blogpost.JPG)
-
-*Stakeholder engagement session during project kick-off in Bamako*
 
 The project will use high-resolution aerial imagery, [OpenStreetMap](https://www.openstreetmap.org/) (OSM) and a collection of open mapping tools including [Java OpenStreetMap Editor](https://josm.openstreetmap.de/) (JOSM), the [HOT Tasking Manager](https://tasks.hotosm.org/), [OpenMapKit](http://openmapkit.org/) (OMK), [Open Data Kit](https://opendatakit.org/) (ODK), [Mapillary](https://www.mapillary.com/), and [QGIS](https://qgis.org/en/site/), to collect, validate, map, analyze and share accurate datasets from the target communities in order to achieve the following objectives:
 
@@ -39,5 +43,3 @@ The project will use high-resolution aerial imagery, [OpenStreetMap](https://www
 4. Promote peer mentorship and build regional networks across cities.
 
 **Community Mapping for a Resilient Bamako** is led by the Humanitarian OpenStreetMap Team (HOT), OpenStreetMap Mali (OSM Mali), Croix-Rouge Malienne (CRM) and will work with stakeholders including Agence Development Regionale du Bamako (ADR), Mali Meteo, DoniLab, Institut Géographique du Mali and L’Urbanisme et l’habitat among others.
-
-\\
