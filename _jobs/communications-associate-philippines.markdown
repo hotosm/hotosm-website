@@ -3,6 +3,11 @@ title: Communications Associate - Philippines
 date: 2020-04-02 23:26:00 Z
 Deadline Date: 2020-04-13 00:00:00 Z
 Place of Work: Philippines
+Apply Form Link:
+  Key 1: 
+  Key: 
+Field name: 
+layout: roster
 ---
 
 **Contract duration: 3 months with possibility of extension**
@@ -74,5 +79,4 @@ This position is based in Quezon City, Philippines, with the primary place of wo
 
 * HOT values salary transparency and equity. Salaries and pay rates at HOT are determined by an open framework: please see https://www.hotosm.org/salaries
 
-* HOT is a leader in flexible working arrangements. As a young, innovative, and open organization, we provide ample space and opportunity for personal initiative and growth.\
-  \
+* HOT is a leader in flexible working arrangements. As a young, innovative, and open organization, we provide ample space and opportunity for personal initiative and growth.
