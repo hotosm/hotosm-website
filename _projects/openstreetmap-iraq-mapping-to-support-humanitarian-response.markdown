@@ -1,7 +1,7 @@
 ---
 title: 'OpenStreetMap Iraq: Mapping to support humanitarian response'
 date: 2020-01-20 09:51:00 Z
-position: 3
+position: 4
 Project Summary Text: OSM Iraq are looking to create maps that support humanitarian
   response amidst ongoing conflict and natural disasters, with a focus on training
   youth to map their surroundings and identify their needs.

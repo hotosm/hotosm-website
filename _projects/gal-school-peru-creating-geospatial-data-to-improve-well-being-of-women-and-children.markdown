@@ -2,7 +2,7 @@
 title: 'GAL School Peru: Creating geospatial data to improve well-being of women and
   children'
 date: 2020-01-20 10:21:00 Z
-position: 2
+position: 3
 Project Summary Text: By training high school and university students, GAL School
   Peru aims to create map data that supports student research projects on gender issues,
   such as equal pay and access to health services, and other social issues affecting

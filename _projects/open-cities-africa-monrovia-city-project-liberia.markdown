@@ -1,7 +1,7 @@
 ---
 title: Open Cities Africa - Monrovia City Project - Liberia
 date: 2019-05-03 16:17:00 Z
-position: 23
+position: 24
 Project Summary Text: Open Cities Monrovia project activities were centered on addressing
   flooding and challenges relating to flooding through the provision of up-to-date
   data of Zone 300, the area of interest. Flooding in Monrovia is cyclical and occurs

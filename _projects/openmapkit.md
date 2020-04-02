@@ -3,7 +3,7 @@ title: OpenMapKit
 date: 2015-08-01 18:59:00 Z
 permalink: projects/openmapkit
 published: false
-position: 99
+position: 100
 Person:
 - 'Douglas Ssebaggala '
 - Dale Kunce

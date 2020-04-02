@@ -3,7 +3,7 @@ title: Export Tool 3.0
 date: 2017-06-07 19:56:00 Z
 permalink: projects/export_tool_30_
 published: false
-position: 117
+position: 118
 Duration:
   Start Date: 2017-02-20 00:00:00 Z
 Summary Text: 'The Export Tool allows users to create custom OpenStreetMap (OSM) extracts

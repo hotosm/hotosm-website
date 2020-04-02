@@ -2,7 +2,7 @@
 title: 'Disaster Response: Cyclone Idai'
 date: 2019-03-21 22:07:00 Z
 permalink: "/projects/CycloneIdai"
-position: 14
+position: 15
 Project Summary Text: Cyclone Idai caused widespread damage across Mozambique, Malawi
   and Zimbabwe. HOT and partners have been busy creating a basemap critical for first
   responders and aid organizations providing relief efforts in the region.

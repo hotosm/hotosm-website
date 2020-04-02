@@ -2,7 +2,7 @@
 title: 'WomenConnect Challenge: Empowering Women and Girls to Create Gendered Data
   About Issues Affecting Their Lives'
 date: 2019-01-16 14:51:00 Z
-position: 25
+position: 26
 Project Summary Text: Growing female open data leaders across 5 continents
 Feature Image: "/uploads/WCC%20Blog.JPG"
 Is Community-Led: true

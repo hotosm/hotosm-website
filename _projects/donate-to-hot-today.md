@@ -3,7 +3,7 @@ title: Donate to HOT today
 date: 2015-11-06 15:22:00 Z
 permalink: projects/donate_to_hot_today
 published: false
-position: 103
+position: 104
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/HOT_fundraising_image_hires.jpg
 Person:
 - Katja Ulbert

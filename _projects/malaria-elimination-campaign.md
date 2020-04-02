@@ -4,7 +4,7 @@ date: 2017-02-08 02:06:00 Z
 permalink: projects/malaria_elimination_campaign
 categories:
 - public health
-position: 114
+position: 115
 Project Summary Text: HOT has teamed up with partners working to eliminate malaria
   across Southern Africa, Southeast Asia and Central America.
 Feature Image: "/uploads/DSC_1160-indonesia-malaria-team-compressor.jpg"
