@@ -69,7 +69,5 @@ This position is based in Quezon City, Philippines, with the primary place of wo
 
 * HOT values salary transparency and equity. Salaries and pay rates at HOT are determined by an open framework: please see https://www.hotosm.org/salaries
 
-* HOT is a leader in flexible working arrangements. As a young, innovative, and open organization, we provide ample space and opportunity for personal initiative and growth.
-
-\
-\
+* HOT is a leader in flexible working arrangements. As a young, innovative, and open organization, we provide ample space and opportunity for personal initiative and growth.\
+  \
