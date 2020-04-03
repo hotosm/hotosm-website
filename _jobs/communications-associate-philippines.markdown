@@ -12,25 +12,23 @@ layout: roster
 
 **Location/Duty Station:** Philippines
 
-**Closes:** Wednesday April 15th 2020
-
 **Projected start date:** 29 April 2020
 
 **Reports to:** Country Manager, Philippines and Senior Communications Manager, Global
 
 **Salary range:** $617 up to $803 total (gross) per month
 
-**About HOT**
+# About HOT
 
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 175,000 people with ground operations in eight countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
 
-**Background**
+## Background
 
 HOT launched the PhilAWARE disaster management project in 2019. Working with the Pacific Disaster Center (PDC) the project aims to support disaster risk reduction and best practices throughout all phases of disaster management in the Philippines by providing early warning, multi-hazard monitoring, modeled impact assessments, and the world’s largest collection of scientifically verified geospatial data in a highly visual and easy-to-use web application. The project is funded by the United States Agency for International Development (USAID), through the Office of the Foreign Disaster Assistance (OFDA).
 
 To assist in outreach and communications, HOT seeks to hire a Communications Associate for this program.
 
-**Profile**\
+# Profile
 The Communications Associate will be responsible for coordinating outreach for PhilAWARE and other relevant HOT projects in the Philippines. This entails:
 
 * Supporting HOT to raise our press and digital media presence by writing press releases and social media activities, including on Twitter, Facebook, Instagram, Youtube, and other platforms.
@@ -45,11 +43,11 @@ The Communications Associate will be responsible for coordinating outreach for P
 
 * Working with the HOT team to create marketing and how-to videos.
 
-**Practicalities**
+# Practicalities
 
 This position is based in Quezon City, Philippines, with the primary place of work being at the HOT workspace in Manila, with possibility of remote work 2 days a week. Depending on the grant requirements, there might be some travel within and outside the Philippines. Depending on project funding, there is a possibility of extension.
 
-**Eligibility Criteria**
+## Eligibility Criteria
 
 * **At least two years of professional experience with communications and marketing in The Philippines.**
 
@@ -71,7 +69,7 @@ This position is based in Quezon City, Philippines, with the primary place of wo
 
 * Able to speak and write professionally in Tagalog and in English.
 
-**Conditions**
+## Conditions
 
 * Assignment on contractor basis.
 
