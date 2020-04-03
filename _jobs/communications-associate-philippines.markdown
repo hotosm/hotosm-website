@@ -5,22 +5,20 @@ Deadline Date: 2020-04-13 00:00:00 Z
 Place of Work: Philippines
 Apply Form Link:
   Key 1: 
-  Key: 
-Field name: 
 layout: roster
 ---
 
-**Contract duration: 3 months with possibility of extension**
+**Contract duration: **3 months with possibility of extension
 
-**Location/Duty Station: Philippines**
+**Location/Duty Station: **Philippines
 
-**Closes: Wednesday April 15th 2020**
+**Closes: **Wednesday April 15th 2020
 
-**Projected start date: 29 April 2020**
+**Projected start date: **29 April 2020
 
-**Reports to: Country Manager, Philippines and Senior Communications Manager, Global**
+**Reports to: **Country Manager, Philippines and Senior Communications Manager, Global
 
-**Salary range: $617 up to $803 total (gross) per month**
+**Salary range: **$617 up to $803 total (gross) per month
 
 **About HOT**
 
