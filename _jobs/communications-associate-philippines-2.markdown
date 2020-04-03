@@ -3,6 +3,7 @@ title: Communications Associate - Philippines 2
 date: 2020-04-02 23:58:00 Z
 Deadline Date: 2020-04-15 00:00:00 Z
 Place of Work: Philippines
+layout: page
 ---
 
 **Contract duration: 3 months with possibility of extension**
