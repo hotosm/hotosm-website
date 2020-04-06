@@ -6,6 +6,14 @@ Deadline Date: 2020-04-20 00:00:00 Z
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdIDzt5btDUTF31kXlfaLERMrQH8yS37iCNCIHdnf8eyN4BkA/viewform
 ---
 
+**Contract terms:** Full time (though part time candidates will be considered with availability of 30+ hrs a week)
+
+**Location/Duty Station:** Washington, D.C. preferred, New York, NY considered; Remote work part-time
+
+**Projected start date:** June 1, 2020
+
+**Reports to:** Global Operations Manager
+
 # About HOT:
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more 200,000 people with ground operations in eight countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need. HOT works closely with humanitarian and development partners including the Red Cross, Médecins Sans Frontières, World Bank, and UN OCHA, among others.
 # About You:
@@ -35,6 +43,13 @@ HOT is looking for someone passionate about, and experienced in, international d
 * Attention to detail and problem solving skills
 * Excellent written and verbal communication skills
 * A good sense of humour and willingness to learn
+
+## Compensation & Benefits: 
+* All HOT salaries globally are set according to a framework detailed on our website: https://www.hotosm.org/salaries
+* All staff working for HOT > 0.5 FTE are eligible for stipend or support for health insurance. 
+* Primarily remote team enabling flexible work schedules. 
+* Generous leave for employees. 
+
 
 ## To Apply: 
 Please complete the linked form and continue to the second page to upload your CV/resume. CV/resume should not exceed 2 pages. 
