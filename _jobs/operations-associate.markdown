@@ -26,8 +26,9 @@ HOT is looking for someone passionate about, and experienced in, international d
 
 
 ## Qualifications: 
+* A Bachelor’s or greater degree in International Relations, International Development, Non-Profit Management, Social Sciences, or similar 
+* 1-3 years experience in non-profit, non-governmental organizations and international systems
 * Passionate about humanitarian action and international development 
-* Experience in non-profit, non-governmental organizations and international systems
 * Familiarity with GSuite
 * Quick learning and adoption of new systems, softwares and processes
 * Excellent time management skills and ability to multi-task and prioritize work
