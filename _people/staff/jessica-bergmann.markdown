@@ -1,6 +1,7 @@
 ---
 title: Jessica Bergmann
 date: 2019-01-17 14:21:00 Z
+published: false
 Photo: "/uploads/jessica-bergmann.jpg"
 Member Type:
   Is Staff: true
