@@ -29,7 +29,7 @@ layout:
 {
 "type":"News",
 "title":"{{ post.title | escape }}",
-"summary":"{{ post['Summary Text'] | escape | truncatewords: 40 | strip | prepend: ' ' }}",
+"summary":"{{ post['Summary Text'] | escape | truncatewords: 40 | strip | strip_html | remove: "\" | prepend: ' ' }}",
 "subtitle":"{{ post.Person | join: ', ' | prepend: ' '}}",
 "url":"{{ site.url }}{{ post.url }}",
 "date":"{{ post.date }}"
