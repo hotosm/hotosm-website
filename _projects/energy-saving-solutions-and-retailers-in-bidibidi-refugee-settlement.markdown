@@ -4,7 +4,7 @@ date: 2020-04-13 11:26:00 Z
 Project Summary Text: To improve understanding of how the use of and access to energy-saving
   solutions can be increased amongst refugees in northern Uganda, HOT with support
   from the Response Innovation Lab worked with local refugee communities to collect
-  data from energy saving solutions retail shops across one of the world's largest
+  data from energy-saving solutions retail shops across one of the world's largest
   refugee settlement, Bidibidi, and used that information to assess the distribution
   and availability of such products and where barriers lay in the existing market.
 Feature Image: "/uploads/IMG_4319.jpeg"
