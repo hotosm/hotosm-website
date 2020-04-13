@@ -2,6 +2,7 @@
 title: Sam Colchester
 date: 2019-06-04 13:48:00 Z
 Member Type:
+  Is Staff: true
   Is Voting Member: true
 Project:
 - Missing Maps
