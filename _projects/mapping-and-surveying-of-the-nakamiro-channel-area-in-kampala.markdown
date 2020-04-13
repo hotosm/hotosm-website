@@ -7,7 +7,7 @@ Project Summary Text: 'To better understand community-level risk, vulnerability 
   critical infrastructure, building flood risk and condition, community awareness,
   waste and drainage infrastructure.'
 Feature Image: "/uploads/IMG_20191120_110004_4.jpeg"
-Is image top aligned: true
+Is image top aligned: false
 Is Community-Led: false
 Country:
 - Uganda
