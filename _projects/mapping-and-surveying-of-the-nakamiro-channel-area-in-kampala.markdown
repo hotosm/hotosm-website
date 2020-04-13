@@ -7,6 +7,7 @@ Project Summary Text: 'To better understand community-level risk, vulnerability 
   critical infrastructure, building flood risk and condition, community awareness,
   waste and drainage infrastructure.'
 Feature Image: "/uploads/IMG_20191120_110004_4.jpeg"
+Is image top aligned: true
 Is Community-Led: false
 Country:
 - Uganda
@@ -31,4 +32,4 @@ In order to avoid duplication of mapping efforts and leverage existing data arou
 
 Through field data collection, including qualitative, quantitative and geospatial surveying, detailed information was captured on buildings, roads, waterways/drains, businesses, illegal waste dumping sites, and water points. Subsequent qualitative surveys focused on understanding historic flood events, their frequency and profiles through interviews with local leaders and community members to better understand how flood instances in the Nakamiro Channel area were changing over time. 
 
-Through this range of field mapping activities, participatory meetings with local communities and the use of geospatial technologies, HOT created detailed information products and maps of the flood-affected neighbourhood, providing a holistic and unique understanding of the flood risk, exposure and vulnerabilities that exist in the Nakamiro Channel area. These products were provided to KCCA and the World Bank to better inform and guide investments and decision-making processes in the Nakamiro Channel community.
+In combining field mapping activities, participatory meetings with local communities and the use of geospatial technologies, HOT developed detailed information products and maps of the flood-affected neighbourhood, creating a holistic and unique understanding of the flood risk, exposure and vulnerabilities that exist in the Nakamiro Channel area. These products were provided to KCCA and the World Bank to better inform and guide investments and decision-making processes in the Nakamiro Channel area and surrounding communities.
