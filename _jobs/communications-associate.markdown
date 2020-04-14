@@ -6,9 +6,13 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeQgxoIpmJ4H0xYYxfBMPV
 ---
 
 **Contract terms:** Full time (though part time candidates will be considered with availability of 30\+ hrs a week)
+
 **Location/Duty Station:** Remote working. Must work in or between US Eastern Standard Time and Central European Time time zones.
+
 **Closes:** April 30, 2020; Applications will be reviewed on a rolling basis and early applicants will be prioritised.
+
 **Projected start date:** June 1, 2020
+
 **Reports to:**  Senior Communications Manager
 
 **About HOT**
