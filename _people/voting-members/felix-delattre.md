@@ -11,7 +11,7 @@ Working Group:
 - Technical
 Project:
 - 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
-- 'Public transportation map for Managua'
+- Public transportation map for Managua
 Country: Germany
 Social Media (Full URL):
   Website: https://felix.delattre.de

@@ -8,7 +8,6 @@ Person:
 - Ramya Ragupathy
 ---
 
-
 [Google Summer of Code](https://summerofcode.withgoogle.com/) is a worldwide initiative sponsored by Google that gives university students real-world tech experience and a stipend for working with Open Source projects throughout the summer months.
 
 [Outreachy ](https://www.outreachy.org/)is a global program that organizes three-month paid internships with [free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) projects for people who are typically underrepresented. The program is organized by the [Software Freedom Conservancy](https://en.wikipedia.org/wiki/Software_Freedom_Conservancy) and is aimed at promoting diversity in tech.
