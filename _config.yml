@@ -97,6 +97,7 @@ defaults:
       LinkedIn: 
       Facebook: 
       Instagram: 
+      Website: 
 - scope:
     path: ''
     type: impact-areas
