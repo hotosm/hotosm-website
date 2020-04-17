@@ -10,7 +10,7 @@ Working Group:
 - Activation
 - Technical
 Project:
-- AI for Humanitarian Action
+- 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
 - OpenAerialMap
 - HOT Summit 2016
 - 'Urban Innovations: Crowdsourcing Non-Camp Refugee Data'

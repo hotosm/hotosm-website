@@ -10,12 +10,11 @@ Working Group:
 - Governance
 - Technical
 Project:
-- AI for Humanitarian Action
-- Public transportation map for Managua
+- 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
+- 'Public transportation map for Managua'
 Country: Germany
 Social Media (Full URL):
-  Twitter: https://twitter.com/xamanu
-  LinkedIn: http://linkedin.com/in/felixdelattre
+  Website: https://felix.delattre.de
 redirect_from:
 - "/users/felix_delattre"
 ---

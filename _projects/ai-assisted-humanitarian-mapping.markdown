@@ -4,7 +4,7 @@ date: 2019-03-12 12:00:00 Z
 position: 14
 Project Summary Text: HOT is partnering with Microsoft Philanthropies and Bing Maps
   to build a Machine Learning assisted workflow into the Tasking Manager application
-  in order to enhance the project creation process and mapping experience.
+  in order to enhance mapper experience.
 Feature Image: "/uploads/oam-kampala.jpg"
 Country:
 - Tanzania
@@ -19,10 +19,10 @@ Partner:
 - American Red Cross
 Duration:
   Start Date: 2019-01-01 00:00:00 Z
-  End Date: 2019-09-30 00:00:00 Z
+  End Date: 2020-06-30 00:00:00 Z
 Data:
-- title: Coming soon
-  link: 
+- title: Open dataset of machine extracted buildings in Uganda and Tanzania
+  link: https://github.com/microsoft/Uganda-Tanzania-Building-Footprints
 Tools:
 - tool: Tasking Manager
   link: https://github.com/hotosm/tasking-manager
@@ -39,10 +39,6 @@ _[Read about our notes on a machine learning direction](https://www.hotosm.org/u
 There are promising potentials for machine/deep/statistical learning assisted mapping. Especially when it comes to image processing the achievements are tangible. HOT will pilot the use of this machine leveraged power of the newly available programming models to improve data quality and mapping experience. In this project, a well-designed use case around the Tasking Manager is to be implemented, which is focusing on machine learning assisted project creation and task facilitation.
 
 _[Check out the machine learning primer from the World Bank.](https://www.gfdrr.org/en/publication/machine-learning-disaster-risk-management)_
-
-<p>
-<div class="highlight-options"><a href="https://github.com/hotosm/tasking-manager/projects" class="btn btn-primary btn-block btn-chevron">Access the roadmap</a></div>
-</p>
 
 We are teaming up with Microsoft, in order to provide an Open Source solution to include any kind of machine learning models into the Tasking Manager and other applications around OpenStreetMap. In addition through the project, Microsoft will be creating open building datasets for Uganda and Tanzania. These building datasets will be made available with an open license and used during the piloting of the new Tasking Manager workflows. 
 

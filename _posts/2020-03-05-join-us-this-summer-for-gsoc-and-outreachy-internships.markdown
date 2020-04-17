@@ -5,7 +5,6 @@ Summary Text: We, at the Humanitarian OpenStreetMap Team are excited to announce
   this year's internship programmes around Google Summer of Code (GSoC) and Outreachy.
 Feature Image: "/uploads/IMG_8446.JPG"
 Person:
-- Felix Delattre
 - Ramya Ragupathy
 ---
 
