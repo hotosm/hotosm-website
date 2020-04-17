@@ -22,7 +22,7 @@ Mapping projects come in many shapes and sizes. The entire project area of inter
 
 Machine learning models can look at satellite imagery and predict the number of buildings, roads, and other artifacts in an area. This estimated information is then compared with OpenStreetMap data and works out a score that indicates the expected scale of the mapping that needs to be carried out in one task area. HOT took the first step to integrate machine learning into the Tasking Manager in September 2018, when [Development Seed](https://medium.com/devseed/weaving-automation-into-the-mapping-workflow-adding-ai-to-the-tasking-manager-52172ed2ece8) helped us test if more information on the map view could better inform mappers. As the testing continued, we have evolved how to display this type of information to users within the Tasking Manager. Project creators can now use the information delivered by machine learning to decide how to allocate tasks to the appropriate mapper according to their profile and experience levels.
 
-![ML assisted project creation](/uploads/tm-ml-project-creation-manual.gif)
+![ML assisted project creation](/uploads/tm-ml-project-creation-auto.gif)
 
 ## How does this fit into the Tasking Manager?
 
