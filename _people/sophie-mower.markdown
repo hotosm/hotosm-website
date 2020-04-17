@@ -5,6 +5,7 @@ Photo: "/uploads/Sophie%20Mower_fullres.jpg"
 Member Type:
   Is Staff: true
 Job Title: Community Manager
+Country: United Kingdom
 ---
 
 Sophie is working in the Partnerships and Community team as a Community Manager. She is supporting the Rapid Response Microgrant: COVID-19 Programme, and helping to manage HOT’s corporate partnerships. Sophie joined the HOT team in April 2020 but has been contributing to HOTs mission as a volunteer since 2017.
