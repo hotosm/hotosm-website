@@ -46,6 +46,8 @@ The Communications Associate will be responsible for coordinating outreach for P
 
 This position is based in Quezon City, Philippines, with the primary place of work being at the HOT workspace in Manila, with possibility of remote work 2 days a week. Depending on the grant requirements, there might be some travel within and outside the Philippines. Depending on project funding, there is a possibility of extension.
 
+**Note: Please upload your CV and cover letter as one file.**
+
 ## Eligibility Criteria
 
 * **At least two years of professional experience with communications and marketing in the Philippines.**
