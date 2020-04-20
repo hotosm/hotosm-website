@@ -10,7 +10,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf8C7jX4tzck4BYQtKEMk-
 
 **Location/Duty Station:** Philippines
 
-**Projected start date:** 29 April 2020
+**Projected start date:** 11 May 2020
 
 **Reports to:** Country Manager, Philippines and Senior Communications Manager, Global
 
