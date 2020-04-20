@@ -48,7 +48,7 @@ This position is based in Quezon City, Philippines, with the primary place of wo
 
 ## Eligibility Criteria
 
-* **At least two years of professional experience with communications and marketing in The Philippines.**
+* **At least two years of professional experience with communications and marketing in the Philippines.**
 
 * Skilled in technical writing and able to assist with monthly project reporting.
 
