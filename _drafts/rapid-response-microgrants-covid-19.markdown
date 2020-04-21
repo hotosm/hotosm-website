@@ -5,7 +5,15 @@ Summary Text: 'The COVID-19 pandemic is affecting communities across the globe i
   many shapes and forms. At HOT, we’re focussing on vulnerable communities living
   in areas where existing crises may be intensified by the outbreak. '
 Feature Image: "/uploads/20651571528_9a0e0d92e5_o.jpg"
-Person: Sophie Mower
+Person:
+- Sophie Mower
+- Rebecca Firth
+- Geoffrey Kateregga
+Working Group:
+- Community
+Project:
+- 'Community development: Microgrants and Device Grants'
+- HOT COVID-19 RESPONSE
 ---
 
 Displaced people living in refugee camps or informal settlements, and those with additional vulnerability (e.g. those living with TB or HIV/AIDS) could be at greater risk if they are not formally recognized as a high-risk community.
