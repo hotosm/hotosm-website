@@ -7,9 +7,9 @@ Summary Text: The latest software version 4 of Tasking Manager has just been rel
 Feature Image: "/uploads/blog-post-1-image-1.jpg"
 ---
 
-![What is Tasking Manager.jpg](/uploads/What%20is%20Tasking%20Manager.jpg)
-
 Tasking Manager has evolved: technically and visually. Guided by our valued community of users, who participated in our [user experience discovery](https://www.hotosm.org/updates/tasking-manager-design-discovery/), the HOT tech team listened. We have redesigned and enhanced our user interface using state of the art programming libraries.
+
+![What is Tasking Manager-2f1b3e.jpg](/uploads/What%20is%20Tasking%20Manager-2f1b3e.jpg)
 
 **A new approach, a new experience:**
 
