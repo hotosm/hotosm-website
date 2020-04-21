@@ -7,13 +7,15 @@ Summary Text: The latest software version 4 of Tasking Manager has just been rel
 Feature Image: "/uploads/blog-post-1-image-1.jpg"
 ---
 
-![What is Tasking Manager_-51c525.png](/uploads/What%20is%20Tasking%20Manager_-51c525.png)
+![What is Tasking Manager.jpg](/uploads/What%20is%20Tasking%20Manager.jpg)
 
 Tasking Manager has evolved: technically and visually. Guided by our valued community of users, who participated in our [user experience discovery](https://www.hotosm.org/updates/tasking-manager-design-discovery/), the HOT tech team listened. We have redesigned and enhanced our user interface using state of the art programming libraries.
 
 **A new approach, a new experience:**
 
 Our new experience and new look is built with and for our users. Changes include user stories that promote: simplified sign up, project discovery and contribution review. We have also enhanced our mapping colour palette to improve accessibility to mappers who may be visually impaired.
+
+![blog-post-1-image-2.jpg](/uploads/blog-post-1-image-2.jpg)
 
 **iD integrated**
 
