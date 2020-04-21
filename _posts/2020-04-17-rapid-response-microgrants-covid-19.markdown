@@ -27,7 +27,7 @@ As part of our response, HOT is launching **Rapid Response Microgrants: COVID-19
 
 * include a logical project and budget breakdown (up to $5K of funding is available per microgrant)
 
-Microgrants will be awarded to 4-8 OSM communities in Low and Middle Income Countries, to enable vulnerable communities to be supported** **during the pandemic, and foster growth of OSM communities in those areas.
+Microgrants will be awarded to 4-8 OSM communities in Low and Middle Income Countries, to enable vulnerable communities to be supported during the pandemic, and foster growth of OSM communities in those areas.
 
 **In order to be eligible projects need to:**
 
