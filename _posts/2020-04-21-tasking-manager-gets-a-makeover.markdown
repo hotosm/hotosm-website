@@ -14,9 +14,9 @@ Project:
 
 Tasking Manager has evolved: technically and visually. Guided by our valued community of users, who participated in our [user experience discovery](https://www.hotosm.org/updates/tasking-manager-design-discovery/), the HOT tech team listened. We have redesigned and enhanced our user interface using state of the art programming libraries.
 
-**What is Tasking Manager?**
-
->The Tasking Manager, built by Humanitarian OpenStreetMap Team (HOT) is designed to coordinate mapping in [OpenStreetMap](https://openstreetmap.org). Tasking manager enables anyone, anywhere in the world to contribute to humanitarian responses and development programs that improve people’s lives. It is the leading tool for coordinating volunteers and organizing groups on OpenStreetMap.
+> **What is Tasking Manager?**
+> 
+> The Tasking Manager, built by Humanitarian OpenStreetMap Team (HOT) is designed to coordinate mapping in [OpenStreetMap](https://openstreetmap.org). Tasking manager enables anyone, anywhere in the world to contribute to humanitarian responses and development programs that improve people’s lives. It is the leading tool for coordinating volunteers and organizing groups on OpenStreetMap.
 
 **A new approach, a new experience:**
 
