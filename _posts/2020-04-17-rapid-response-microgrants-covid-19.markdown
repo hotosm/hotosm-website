@@ -33,7 +33,7 @@ Microgrants will be awarded to 4-8 OSM communities in Low and Middle Income Coun
 
 * Directly support, contribute, or respond to the COVID-19 pandemic
 
-* Include indoor activities. HOT’s priority is community safety. During a global pandemic, where individuals are being encouraged by governments to stay indoors and implement social distancing, we believe that indoor activities are most appropriate. However, outdoor activities will be considered if a) government regulations allow it; and b) activities can be completed without any in person interaction. In this instance, we expect activities to be conducted at a very local level with no travel and within feasible walking distance of mappers homes
+* Include indoor activities. HOT’s priority is community safety. During a global pandemic, where individuals are being encouraged by governments to stay indoors and implement social distancing, we believe that indoor activities are most appropriate. We define indoor activities as solo activities that do not include face-to-face interactions (for example, hosting an in-person mapathon would not be considered an indoor activity, whereas hosting a remote mapathon would be). However, outdoor activities will be considered if a) Government regulations allow it; and b) activities can be completed without any in person interaction. In this instance, we expect activities to be conducted at a very local level with no travel and within feasible walking distance of mappers homes
 
 * Demonstrate they are working in collaboration with a local data user
 
