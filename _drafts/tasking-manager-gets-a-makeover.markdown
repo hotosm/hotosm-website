@@ -31,4 +31,4 @@ Thanks to our awesome community, Tasking Manager 4 is already available in 14 la
 
 We want to thank the talented [Major design studio](http://wegomajor.com/) and Microsoft Philanthropies as well as the open source community of dedicated contributors from around the world for making this possible. Find more technical details on all the changes made to the Software in the [release notes](https://github.com/hotosm/tasking-manager/releases/tag/v4.0.0) and the free and open [source code is available in the repository](https://github.com/hotosm/tasking-manager).
 
-**Stay tuned! On May 6th, this new version will be launched on the [HOT Tasking Manager](https://tasks.hotosm.org).**
+**On 6 May, the new version will be launched on the [HOT Tasking Manager](https://tasks.hotosm.org).**
