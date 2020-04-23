@@ -41,6 +41,8 @@ Microgrants will be awarded to 4-8 OSM communities in Low and Middle Income Coun
 
 * HOT staff members and board members are not eligible to apply
 
+Our Rapid Response Microgrant Programme has been possible thanks to our donors, which include Facebook, and several other of HOT’s corporate sponsors who share the vision of building OSM from the ground up locally.
+
 **Applications are now open! Our selection process is rolling, and submissions reviewed monthly for the foreseeable future. However, we recommend that proposals are submitted as quickly as possible as priority will be given to projects that are submitted early.**
 
 [APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLScRmggoVdRaN8wWo70Xwi7fmWC0_bRxpibHZJ1XM0k74-yWNA/viewform)
