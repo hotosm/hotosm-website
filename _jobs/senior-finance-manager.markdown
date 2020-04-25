@@ -7,8 +7,11 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfl72wNun7RvQPDkKrZz6u
 ---
 
 **Contract terms:** Full time, 40 hours per week
+
 **Location/Duty Station:** Washington, DC (remote may be considered for exceptional candidates)
-**Reports to: **Director of Finance & Administration 
+
+**Reports to:** Director of Finance & Administration 
+
 **Travel:** 10-15% internationally
 
 # About Humanitarian OpenStreetMap Team
