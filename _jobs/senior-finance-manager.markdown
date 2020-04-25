@@ -2,6 +2,7 @@
 title: Senior Finance Manager
 date: 2020-04-24 17:25:00 Z
 Deadline Date: 2020-05-08 00:00:00 Z
+Place of Work: 'Washington, D.C. '
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfl72wNun7RvQPDkKrZz6ufLPCEpd8_xJfiY4DzVwgsELm2Sg/viewform
 ---
 
