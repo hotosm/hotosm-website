@@ -8,7 +8,9 @@ Summary Text: In February 2020, HOT with support from the Response Innovation La
   and inform the improvement of access to quality energy-saving products amongst the
   refugee population.
 Feature Image: "/uploads/header.jpg"
-Person: Sara Amadi
+Person:
+- Sara Amadi
+- Shamilah Ssekandi Nassozi
 Country:
 - Uganda
 Project:
