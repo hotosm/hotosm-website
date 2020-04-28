@@ -4,9 +4,9 @@ title: Mapping Energy Saving Solutions in One of the Largest Refugee Settlements
 date: 2020-04-28 07:10:00 Z
 Summary Text: In February 2020, HOT with support from the Response Innovation Lab
   in Uganda, carried out an extensive mapping exercise of all energy-saving solutions
-  retail shops in Bidibidi settlement to better understanding the existing market
-  and inform the improvement of access to quality energy-saving products amongst the
-  refugee population.
+  retail shops in Bidibidi settlement to better understand the existing market and
+  inform the improvement of access to quality energy-saving products amongst the refugee
+  population.
 Feature Image: "/uploads/header.jpg"
 Person:
 - Sara Amadi
@@ -16,6 +16,8 @@ Country:
 Project:
 - Energy Saving Solutions and Retailers in Bidibidi Refugee Settlement
 ---
+
+Cover Photo: Bidibidi Refugee Settlement by Yilmaz Polat
 
 Uganda has received international recognition for its open-door policy, self-sustenance, and resilience for refugees. In Uganda, when a refugee enters and is registered in the country, they are offered a piece of land to reside and carry out income-generating activities that include agriculture to support self-reliance and also contribute to the growth of the communities. According to the World Bank’s 2019 Rapid Assessment Report on Natural Resources, the refugee influx has aggravated already existing environmental challenges, including land degradation, wood, and forest land cover. This is due to the increased demand for food fuel for household consumption through cooking and construction. GIZ’s 2017 Rapid Assessment Needs Report stated that supporting the sustainable use of these natural resources and the introduction of energy-saving solutions could be useful in addressing land degradation and improving energy access across the refugee and host community spectrum.
 
