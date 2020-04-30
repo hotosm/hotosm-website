@@ -64,7 +64,7 @@ The enthusiasm was palpable and a lot of participants were keen to learn more ab
 
 As a result of these four mapathons, 398 hospital buildings and 11 clinics were successfully updated in OSM.
 
-View a recording of the mapathons on [YouTube](https://www.youtube.com/channel/UCRqMbcsT9ummMvByc1BlsDQ)
+View a recording of the Indonesia mapathons on [YouTube](https://www.youtube.com/channel/UCRqMbcsT9ummMvByc1BlsDQ)
 
 Would you like to contribute to one of our [COVID-19 tasks](https://tasks.hotosm.org/contribute?difficulty=ALL&campaign=COVID-19)?
 
