@@ -53,4 +53,8 @@ As a result of these four mapathons, 398 hospital buildings and 11 clinics were 
 
 View a recording of the mapathons on [YouTube](https://www.youtube.com/channel/UCRqMbcsT9ummMvByc1BlsDQ)
 
+Would you like to contribute to one of our [COVID-19 tasks](https://tasks.hotosm.org/contribute?difficulty=ALL&campaign=COVID-19)?
+
+[Tips to host a virtual mapathon](https://docs.google.com/document/d/1Ta1wAyM8KLdOAP59_qFf1hhb8SHKXuLLodWD9KIiCTE/edit?usp=sharing)
+
 \
