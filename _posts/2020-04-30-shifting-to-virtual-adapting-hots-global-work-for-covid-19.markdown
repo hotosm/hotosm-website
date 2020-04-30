@@ -5,6 +5,17 @@ Summary Text: Although COVID-19 brings a number of obvious challenges to daily l
   for people across the world, the crisis has demonstrated the widespread desire to
   help by mapping to support COVID-19 responders worldwide.
 Feature Image: "/uploads/Annotation%202020-04-20%20102426.png"
+Person:
+- Sam Colchester
+- Bry Damasco
+- Tri Selasa Pagianti
+Working Group:
+- Community
+- Activation
+Country:
+- Philippines
+- Indonesia
+- Global
 Project:
 - HOT COVID-19 RESPONSE
 ---
