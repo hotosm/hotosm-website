@@ -31,8 +31,8 @@ HOT works to ensure map data should be accessible and used in decisions that sav
 
 **Global solidarity is essential to tackling a global pandemic. To get involved:**
 
-1. [Map or validate](https://tasks.hotosm.org/contribute?difficulty=ALL&campaign=COVID-19)
+1. [Map or validate](https://tasks.hotosm.org/contribute?difficulty=ALL&campaign=COVID-19) - [Learn how](https://learnosm.org/)
 
-2. Join the Disaster Activation Working Group by joining the HOT Slack ([http://slack.hotosm.org/](http://slack.hotosm.org/)) channel #disaster-mapping
+2. Connect with the Disaster Activation Working Group by joining the [HOT Slack ](http://slack.hotosm.org/)channel #disaster-mapping
 
-3. Stay tuned on [Twitter](https://twitter.com/hotosm) and [Facebook](https://www.facebook.com/hotosm/) for updates as our response evolves
+3. Stay tuned on [Twitter,](https://twitter.com/hotosm) [Facebook,](https://www.facebook.com/hotosm/) and the [OSM Wiki](https://wiki.openstreetmap.org/wiki/COVID19) for updates as our response evolves
