@@ -5,6 +5,8 @@ Summary Text: Although COVID-19 brings a number of obvious challenges to daily l
   for people across the world, the crisis has demonstrated the widespread desire to
   help by mapping to support COVID-19 responders worldwide.
 Feature Image: "/uploads/Annotation%202020-04-20%20102426.png"
+Project:
+- HOT COVID-19 RESPONSE
 ---
 
 Online mapathons are not new, but with the ongoing COVID-19 pandemic hundreds of mapathons worldwide have suddenly shifted to an exclusively online activity in a matter of weeks. Fortunately, in person mapathons are quite easily converted to an online format, and our partners and volunteers have shown their typical dedication putting crucial information on the map under lockdown conditions.
