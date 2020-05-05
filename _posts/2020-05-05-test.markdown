@@ -30,7 +30,7 @@ Like before, mapping projects are connected to one organization or community. Bu
 
 ![blog-post-2-image2.jpg](/uploads/blog-post-2-image2.jpg)
 
-Groups of users (teams) can be assigned projects. Each of them can be given certain permissions like mapping, validation or editing - including project metadata.  Organizations can now have one (or many) - 'Mappers', 'Validators' and 'Managers**'.**
+Groups of users (teams) can be assigned projects. Each of them can be given certain permissions like mapping, validation or editing - including project metadata.  Organizations can now have one (or many) - 'Mappers', 'Validators' and 'Managers\*\*'.\*\*
 
 **Let's illustrate these new and flexible options with some examples:**
 
