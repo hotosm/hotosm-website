@@ -1,7 +1,7 @@
 ---
 title: Junior Spatial Data Entry Staff - Philippines
 date: 2020-03-04 02:09:00 Z
-Deadline Date: 2020-05-15 00:00:00 Z
+Deadline Date: 2020-05-15 23:59:00 Z
 Place of Work: Philippines
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSepphFDuqvHIx51FwbMMbl2r7fU2kGYTihw7wSs7TKllGp93g/viewform
 ---
@@ -38,7 +38,7 @@ This position is responsible for collecting and inputting data in the municipali
 
 ### Essential:
 
-* A Bachelor’s degree, focus on GIS or Geography studies is preferred; a degree in Social Sciences or related disciplines, with **strong** inclination to learn new technologies (university students are welcome to apply)
+* A Bachelor’s degree, focus on GIS or Geography studies is preferred; a degree in Social Sciences or related disciplines, with a **strong** inclination to learn new technologies (university students are welcome to apply)
 
 * Fluency in English and Filipino. Fluency in Kapampangan is strongly desired
 
