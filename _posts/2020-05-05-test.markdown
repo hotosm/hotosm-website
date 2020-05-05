@@ -55,7 +55,7 @@ These new features will allow organizations to create and manage permissions wit
 >
 > * Any - Anybody can map
 >
-> * Level - Mapping can be done, only by experienced mappers
+> * Level - Mapping can be done only by experienced mappers
 >
 > * Team - Specify teams that are allowed to map
 >
@@ -65,7 +65,7 @@ These new features will allow organizations to create and manage permissions wit
 >
 > * Any - Anybody can validate
 >
-> * Level - Validation can be done, only by experienced mappers
+> * Level - Validation can be done only by experienced mappers
 >
 > * Team - Specify teams that are allowed to validate
 >
