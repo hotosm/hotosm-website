@@ -7,6 +7,7 @@ Summary Text: 'The future is here! A fresh frontend with an integrated ID editor
 
 '
 Feature Image: "/uploads/blog-post-2-image1.gif"
+Is image top aligned: true
 Person:
 - Felix Delattre
 - Sam Colchester
