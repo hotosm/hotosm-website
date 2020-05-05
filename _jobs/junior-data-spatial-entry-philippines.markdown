@@ -6,13 +6,13 @@ Place of Work: Philippines
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSepphFDuqvHIx51FwbMMbl2r7fU2kGYTihw7wSs7TKllGp93g/viewform
 ---
 
-**Contract duration: 6 months**
+**Contract duration: 3 months**
 
 **Location/Duty Station: Philippines**
 
-**Closes: Friday, March 13, 2020**
+**Closes: Friday, May 15, 2020**
 
-**Projected start date: As soon as possible**
+**Projected start date: Monday, May 25, 2020**
 
 **Reports to: Data Validation Lead**
 
@@ -38,12 +38,11 @@ This position is responsible for collecting and inputting data in the municipali
 
 ### Essential:
 
-* A Bachelor’s degree, focus on GIS or Geography studies is preferred (university students are welcome to apply)
+* A Bachelor’s degree, focus on GIS or Geography studies is preferred; a degree in Social Sciences or related disciplines, with **strong** inclination to learn new technologies (university students are welcome to apply)
 
 * Fluency in English and Filipino. Fluency in Kapampangan is strongly desired
 
 * Willingness to work outdoors, potentially walking and/or standing for long periods of time
-  
 
 ### Additional desired skills:
 
