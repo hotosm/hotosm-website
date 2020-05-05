@@ -19,11 +19,9 @@ Country:
 
 The future is here! Go and check out the [next evolution](https://hotosm.org/updates/tasking-manager-gets-a-makeover) of the [HOT Tasking Manager](https://tasks.hotosm.org).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3B7GXZ2v-_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
+<div class="video-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/3B7GXZ2v-_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+</div>
 
 >**What is the Tasking Manager?**
 >
