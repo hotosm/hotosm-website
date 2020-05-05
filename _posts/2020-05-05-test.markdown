@@ -23,6 +23,8 @@ The future is here! Go and check out the [next evolution](https://hotosm.org/upd
 
 
 
+
+
 > **What is the tasking Manager?**
 >
 > The Tasking Manager, built by Humanitarian OpenStreetMap Team (HOT) is designed to coordinate mapping in [OpenStreetMap](https://openstreetmap.org). Tasking manager enables anyone, anywhere in the world to contribute to humanitarian responses and development programs that improve people’s lives. It is the leading tool for coordinating volunteers and organizing groups on OpenStreetMap.
