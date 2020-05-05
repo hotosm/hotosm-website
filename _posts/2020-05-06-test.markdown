@@ -1,6 +1,6 @@
 ---
 title: Team up in the new Tasking Manager
-date: 2020-05-05 20:59:00 Z
+date: 2020-05-06 03:00:00 Z
 published: false
 Summary Text: 'The future is here! A fresh frontend with an integrated ID editor and
   many new improvements await you.
