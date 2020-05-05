@@ -1,0 +1,17 @@
+---
+title: Team up in the new Tasking Manager
+date: 2020-05-05 20:59:00 Z
+published: false
+Summary Text: |
+  **The future is here! A fresh frontend with an integrated ID editor and many new improvements await you.**
+
+  \
+---
+
+The future is here! Go and check out the [next evolution](https://hotosm.org/updates/tasking-manager-gets-a-makeover) on the [HOT Tasking Manager](https://tasks.hotosm.org). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3B7GXZ2v-_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**>What is the Tasking Manager?\
+**>\
+>The Tasking Manager, built by Humanitarian OpenStreetMap Team (HOT) is designed to coordinate mapping in [OpenStreetMap](https://openstreetmap.org). Tasking manager enables anyone, anywhere in the world to contribute to humanitarian responses and development programs that improve people’s lives. It is the leading tool for coordinating volunteers and organizing groups on OpenStreetMap.
