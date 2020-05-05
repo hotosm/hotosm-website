@@ -6,6 +6,8 @@ Place of Work: Philippines
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSepphFDuqvHIx51FwbMMbl2r7fU2kGYTihw7wSs7TKllGp93g/viewform
 ---
 
+**(RE-ADVERTISED)**
+
 **Contract duration: 3 months**
 
 **Location/Duty Station: Philippines**
