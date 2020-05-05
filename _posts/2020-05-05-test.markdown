@@ -7,6 +7,13 @@ Summary Text: |
 
   \
 Feature Image: "/uploads/blog-post-2-image1.gif"
+Person:
+- Felix Delattre
+- Sam Colchester
+Working Group:
+- Technical
+Country:
+- Global
 ---
 
 The future is here! Go and check out the [next evolution](https://hotosm.org/updates/tasking-manager-gets-a-makeover) of the [HOT Tasking Manager](https://tasks.hotosm.org).
