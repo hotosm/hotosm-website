@@ -15,7 +15,7 @@ Project:
 Tasking Manager has evolved: technically and visually. Guided by our valued community of users, who participated in our [user experience discovery](https://www.hotosm.org/updates/tasking-manager-design-discovery/), the HOT tech team listened. We have redesigned and enhanced our user interface using state of the art programming libraries.
 
 > **What is Tasking Manager?**
-> 
+>
 > The Tasking Manager, built by Humanitarian OpenStreetMap Team (HOT) is designed to coordinate mapping in [OpenStreetMap](https://openstreetmap.org). Tasking manager enables anyone, anywhere in the world to contribute to humanitarian responses and development programs that improve people’s lives. It is the leading tool for coordinating volunteers and organizing groups on OpenStreetMap.
 
 **A new approach, a new experience:**
@@ -34,6 +34,6 @@ Managing projects has become even easier and more comfortable. Organizations can
 
 Thanks to our awesome community, Tasking Manager 4 is already available in 14 languages. You are welcome to join and add or complete the translations for [the languages you speak](https://github.com/hotosm/tasking-manager/blob/deployment/redesign-tasking-manager/docs/contributing-translation.md).
 
-We want to thank the talented [Major design studio](http://wegomajor.com/) and Microsoft Philanthropies and Bing  as well as the open source community of dedicated contributors from around the world for making this possible. Find more technical details on all the changes made to the Software in the [release notes](https://github.com/hotosm/tasking-manager/releases/tag/v4.0.0) and the free and open [source code is available in the repository](https://github.com/hotosm/tasking-manager).
+We want to thank the talented [Major design studio](http://wegomajor.com/) and [Microsoft Philanthropies](https://www.microsoft.com/en-us/corporate-responsibility) and Bing  as well as the open source community of dedicated contributors from around the world for making this possible. Find more technical details on all the changes made to the Software in the [release notes](https://github.com/hotosm/tasking-manager/releases/tag/v4.0.0) and the free and open [source code is available in the repository](https://github.com/hotosm/tasking-manager).
 
 **On 6 May, the new version will be launched on the [HOT Tasking Manager](https://tasks.hotosm.org).**
