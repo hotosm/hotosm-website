@@ -10,7 +10,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSepphFDuqvHIx51FwbMMbl
 
 **Contract duration: 3 months**
 
-**Location/Duty Station: Philippines**
+**Location/Duty Station: Pampanga, Philippines**
 
 **Closes: Friday, May 15, 2020**
 
@@ -32,9 +32,11 @@ This position is responsible for collecting and inputting data in the municipali
 
 ## Responsibilities include:
 
-* Critical Lifeline Infrastructure data collection\
-  Maintaining the standards and requirements on data input as suggested by Data Validator \
-  Contributing to the team effort to achieve the required success
+* Critical Lifeline Infrastructure data collection
+
+* Maintaining the standards and requirements on data input as suggested by Data Validator
+
+* Contributing to the team effort to achieve the required success
 
 ## About You
 
