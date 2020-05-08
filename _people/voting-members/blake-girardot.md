@@ -6,7 +6,6 @@ Member Type:
   Is Staff: false
   Is Voting Member: true
   Is Board Member: false
-Job Title: Community Support Manager
 Working Group:
 - Training
 - Fundraising
@@ -51,4 +50,4 @@ redirect_from:
 - "/users/blake_girardot"
 ---
 
-<p>Blake Girardot is an open source software and open data enthusiast with a<br>special love for humanitarian and crisis mapping. He currently serves as the<br>project lead for HOT's OSM Tasking Manager software and is a past President of<br>the Board of Directors. He spends his days talking about the Tasking Manager<br>(and loves it) as well as organizing and supporting crowd based collaborative<br>mapping projects around the world and promoting the use of open source mapping<br>tools and open geo data in his free time.</p>
+<p>Blake Girardot is an open source software and open data enthusiast with a special love for humanitarian and crisis mapping. He served HOT in several positions: first, as President of the Board of Directors and then as project lead for HOT's Tasking Manager version 3 software development. He spends his days organizing and supporting crowd based collaborative mapping projects around the world and promoting the use of open source mapping tools and open geo data.</p>
