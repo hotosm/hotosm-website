@@ -20,4 +20,4 @@ redirect_from:
 - "/users/felix_delattre"
 ---
 
-<p>Felix Delattre is an information technologist, software architect and development project manager with a passion for geographic information science. His focus is on innovation through participation, open data and free technologies.</p>
+<p>Felix Delattre is an information technologist, software architect and development project manager who likes to drive innovation through participation, open data and free technologies. He is a long-time member of HOT, which he joined in 2013 when he led a mapping project for public transport in Nicaragua. Felix has supported HOT in many ways, from managing the website in the early days to later working as a project manager on the initial machine learning initiatives at HOT and leading the technical team to implement Tasking Manager version 4.</p> 

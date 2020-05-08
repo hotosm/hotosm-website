@@ -5,8 +5,7 @@ permalink: updates/2016-01-07_a_crowd-sourced_public_transportation_map_for_mana
 Summary Text: There is no map for the 42 bus lines in Metropolitan Managua, capital
   of Nicaragua, where 80% of the 2 million inhabitants that are dependent on buses
   to commute to work or school. But engaged citizens used Free Technology and the
-  power of collaboration to create the first digital public transportation map. Now
-  they seek support (http://support.mapanica.net) to print it.
+  power of collaboration to create the first digital public transportation map.
 Person: Felix Delattre
 Working Group: []
 Project:
