@@ -4,11 +4,11 @@ position: 0
 Banner:
   Is Activated: true
   Main Block: Mapping for the COVID-19 response
-  Secondary Block: Help undermapped communities access crucial health services during
-    the COVID-19 outbreak
+  Secondary Block: Help undermapped communities access crucial services during the
+    COVID-19 outbreak
   Optional Text: 
-  Link Copy: tasks.hotosm.org
-  URL: https://tasks.hotosm.org/contribute?difficulty=ALL&text=covid
+  Link Copy: https://tasks.hotosm.org/explore?text=covid
+  URL: https://tasks.hotosm.org/explore?text=covid
 Project:
 - HOT COVID-19 RESPONSE
 - Community Mapping for a Resilient Bamako
