@@ -17,7 +17,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf7j804TBgulgyOtgiagtq
 ## About HOT:
 
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 218,000 people with ground operations in eight countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
-\
+\\
 
 \
 HOT is soliciting CVs of experienced mid and senior career digital development and humanitarian professionals to lead HOT’s Disaster Services team, starting as soon as possible (May 2020). This assignment is expected to last 1 year with the possibility of extension.
@@ -25,7 +25,6 @@ HOT is soliciting CVs of experienced mid and senior career digital development a
 ## Profile:
 
 HOT typically works with a range of international and national partners (both government, NGO, and civil society) as well as interact frequently with the HOT global network. Projects span sectors and typically focus on participatory mapping using OpenStreetMap, data analysis and storytelling, and training/capacity building of national and international partner organizations.
-\
 
 \
 This is a full time position on the basis of remote work initially, but will likely include travel to country team offices, and potentially areas with active disaster activations. The candidate for this position should have:
