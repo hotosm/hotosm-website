@@ -7,7 +7,7 @@ Banner:
   Secondary Block: Help undermapped communities access crucial services during the
     COVID-19 outbreak
   Optional Text: 
-  Link Copy: https://tasks.hotosm.org/explore?text=covid
+  Link Copy: COVID Response on Tasking Manager
   URL: https://tasks.hotosm.org/explore?text=covid
 Project:
 - HOT COVID-19 RESPONSE
