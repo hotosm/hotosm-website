@@ -46,7 +46,9 @@ The HOT Philippines team had already organized some virtual trainings and mapath
 
 The team made an open call to groups and organizations to rally their employees to volunteer for these mapping activities during the lockdown. Accenture, has tasked its local team to map two municipalities in Pampanga (Arayat and Floridablanca) and other partners - Cisco and Marsh & McLennan Companies - are mapping Minalin and Porac, and Santa Rita and Sasmuan, respectively. HOT Philippines has also conducted virtual trainings and mapathons with additional partners IBM Philippines, Hey Success Philippines, and Engineers Without Borders (UP Chapter).  
 
-In close collaboration with the the OSM Philippines community’s Wednesdays Mapatime, the team also co-hosted the virtual mapathon #MAPaaralan to add and edit schools in OSM for the province of Pampanga.![MAPaaralan Mapathon_PHL.jpg](/uploads/MAPaaralan%20Mapathon_PHL.jpg)
+In close collaboration with  the OSM Philippines community’s Wednesdays Mapatime, the team also co-hosted the virtual mapathon #MAPaaralan to add and edit schools in OSM for the province of Pampanga.
+
+![MAPaaralan Mapathon_PHL.jpg](/uploads/MAPaaralan%20Mapathon_PHL.jpg)
 
 HOT Philippines is also supporting the University of the Philippines (UP) COVID-19 Pandemic Response Team, through the UP Resilience Institute (UPRI) for its #EndCOV campaign. UPRI is working on generating a probability of outbreak map down to the district level that will guide and improve decision making and recommendations for the local government units. HOT has activated two tasks to update OSM data, particularly the building footprints of Quezon City in OSM. The building footprint is one of the variables needed by the UPRI COVID-19 Pandemic Response Team to compute the estimated outbreak threshold of the districts in Quezon City.
 
