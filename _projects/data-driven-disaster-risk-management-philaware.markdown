@@ -11,6 +11,9 @@ Country:
 - Philippines
 Person:
 - Bry Damasco
+Partner:
+- USAID
+- Pacific Disaster Center
 Duration:
   Start Date: 2019-07-01 00:00:00 Z
 ---
