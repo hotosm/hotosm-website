@@ -7,6 +7,12 @@ Project Summary Text: 'HOT is contributing to the development of PhilAWARE, a cu
 
 '
 Feature Image: "/uploads/Field%20Mapping%20Training%20in%20UP%20Los%20Ban%CC%83os.jpg"
+Country:
+- Philippines
+Person:
+- Bry Damasco
+Duration:
+  Start Date: 2019-07-01 00:00:00 Z
 ---
 
 **Overview of the project:**
