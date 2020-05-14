@@ -5,6 +5,8 @@ Photo: "/uploads/DSC06181%20-%20Forlise%20AST1%20Outdoor%20Day%20(2048px)%20by%2
 Member Type:
   Is Staff: true
 Job Title: Director of Technology and Innovation
+Project:
+- 'Research on mapping with open machine learning'
 Country: France
 Social Media (Full URL):
   OSM: https://openstreetmap.org/user/bo_hot
