@@ -11,7 +11,7 @@ Banner:
   URL: https://tasks.hotosm.org/explore?text=covid
 Project:
 - HOT COVID-19 RESPONSE
-- Community Mapping for a Resilient Bamako
+- 'Data-Driven Disaster Risk Management: PhilAWARE'
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
