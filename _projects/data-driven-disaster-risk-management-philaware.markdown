@@ -1,6 +1,6 @@
 ---
 title: 'Data-Driven Disaster Risk Management: PhilAWARE'
-date: 2020-05-14 10:47:00 Z
+date: 2019-07-14 10:47:00 Z
 Project Summary Text: 'HOT is contributing to the development of PhilAWARE, a custom
   hazard monitoring and early warning system to improve disaster management and decision
   making in the Philippines.
