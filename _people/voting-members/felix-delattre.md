@@ -10,7 +10,7 @@ Working Group:
 - Governance
 - Technical
 Project:
-- 'Research on mapping with open machine learning'
+- Research on mapping with open machine learning
 - 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
 - Public transportation map for Managua
 Country: Germany

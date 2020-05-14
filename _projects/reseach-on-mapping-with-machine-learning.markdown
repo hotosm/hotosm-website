@@ -1,8 +1,10 @@
 ---
-title: 'Research on mapping with open machine learning'
-date: 2020-04-1 12:00:00 Z
+title: Research on mapping with open machine learning
+date: 2020-04-01 12:00:00 Z
 position: 14
-Project Summary Text: HOT is working with the Netherlands Red Cross to have an evidence-based look at current AI-supported mapping flows and to take the next step towards using OSM data for training machine learning models.
+Project Summary Text: HOT is working with the Netherlands Red Cross to have an evidence-based
+  look at current AI-supported mapping flows and to take the next step towards using
+  OSM data for training machine learning models.
 Feature Image: "/uploads/ai-polygon-pass.jpg"
 HOT Involvement: Disaster Risk Reduction
 Impact Area:
@@ -19,7 +21,6 @@ Duration:
 Data:
 - title: Coming soon
   link: 
-
 ---
 
 The Humanitarian OpenStreetMap Team works with hundreds of thousands of volunteers to create open map data for humanitarian actions. And last year, we took a leadership role to explore and facilitate the application of the latest advances in artificial intelligence to enable traditional mappers to build the world's largest geospatial platform on OpenStreetMap.
