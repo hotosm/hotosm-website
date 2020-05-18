@@ -2,7 +2,9 @@
 title: Mapping the Tien Shan mountains
 date: 2016-05-10 18:58:07 Z
 permalink: updates/2016-05-10_mapping_the_tien_shan_mountains
-Summary Text: "Capacity building around OpenStreetMap. Supporting teachers and high school children in rural villages in Kyrgyzstan to build their maps for Citizen Science."
+Summary Text: Capacity building around OpenStreetMap. Supporting teachers and high
+  school children in rural villages in Kyrgyzstan to build their maps for Citizen
+  Science.
 Person: Felix Delattre
 Working Group:
 - Training

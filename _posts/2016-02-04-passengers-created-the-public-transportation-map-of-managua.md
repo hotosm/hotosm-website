@@ -2,9 +2,9 @@
 title: Passengers created the public transportation map of Managua
 date: 2016-02-04 09:06:18 Z
 permalink: updates/2016-02-04_passengers_created_the_public_transportation_map_of_managua
-Summary Text: 'Great progress on a crowd-sourced public transportation map
-  for Managua! Through our crowd-funding initiative, we were able to raise $6,212 dollars 
-  and with this they enabled us to print the city''s bus map 40,000 times.'
+Summary Text: Great progress on a crowd-sourced public transportation map for Managua!
+  Through our crowd-funding initiative, we were able to raise $6,212 dollars and with
+  this they enabled us to print the city's bus map 40,000 times.
 Person: Felix Delattre
 Working Group: []
 Project:
