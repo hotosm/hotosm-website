@@ -33,11 +33,11 @@ The power of volunteer mapping is shown when disaster-affected areas can be mapp
 
 Around the world, there are still hundreds of millions of buildings and millions of kilometers of road missing from [OpenStreetMap](https://www.openstreetmap.org/). To meet the challenge of mapping the unmapped areas, the Tasking Manager requires two key improvements to the workflow: an increase in data quality of edits being made, and an increase in mapping and validating efficiency. 
 
-There are promising potentials for machine/deep/statistical learning assisted mapping. Especially when it comes to image processing the achievements are tangible. HOT pilots the use of this machine leveraged power of the newly available programming models to improve data quality and mapping experience.
+There is promising potential for machine/deep/statistical learning assisted mapping - especially for tangible achievements such as image processing. HOT leverages machine power by piloting newly available programming models to improve data quality and mapping experience.
 
-Building upon previous work of the HOT community, in this project we worked with Microsoft's [AI for Humanitarian Action](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action) program to address these challenges by building enhanced assisted mapping workflows with machine learning into the Tasking Manager and create an open building dataset in Uganda and Tanzania. 
+Building upon previous work of the HOT community, in this project we worked with Microsoft's [AI for Humanitarian Action](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action) program to build enhanced assisted mapping workflows with machine learning into the Tasking Manager and create an open building dataset in Uganda and Tanzania. 
 
-For this project, we had to improve the general mapping experience, which led to the development of Tasking Manager 4. In addition we implemented a Machine Learning playground with two well-designed use cases around the Tasking Manager. These are focusing on machine learning assisted project creation and task facilitation, and also on AI-assisted mapping.
+We needed to first improve the general mapping experience, which led to the development of Tasking Manager 4. In addition we implemented a Machine Learning playground with two well-designed use cases around the Tasking Manager. These are focusing on machine learning assisted project creation and task facilitation, and also on AI-assisted mapping.
 
 <p>
 <div class="highlight-options"><a href="https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action" class="btn btn-primary btn-block btn-chevron">Read more about AI for Humanitarian Action</a></div>
