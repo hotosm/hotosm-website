@@ -1,6 +1,7 @@
 ---
 title: Changes to the HOT Board of Directors
 date: 2020-05-20 18:10:00 Z
+permalink: hotosm.org/changes-to-board
 Intro text: By a variety of indicators, HOT has grown fast in the last few years.
   For the board of directors to continue to play an effective role, we have decided
   that we need to develop too.
