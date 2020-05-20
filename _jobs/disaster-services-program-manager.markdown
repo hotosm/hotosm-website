@@ -1,7 +1,7 @@
 ---
 title: Disaster Services Program Manager
 date: 2020-05-08 21:59:00 Z
-Deadline Date: 2020-05-22 00:00:00 Z
+Deadline Date: 2020-05-26 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf7j804TBgulgyOtgiagtqwh_oJpskMlNMBbMqdFT7aXCs6bQ/viewform
 ---
@@ -10,7 +10,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf7j804TBgulgyOtgiagtq
 
 **Location/Duty Station:** Remote initially. Travel to project and activation locations once safe/feasible
 
-**Projected start date:** May 2020
+**Projected start date:** Early June 2020
 
 **Reports to:** Director of Programs
 
@@ -38,13 +38,15 @@ The Disaster Services Program Manager will report directly to HOT’s Director o
 
 ## Responsibilities:
 
-* Lead HOT’s Disaster Services team, managing disaster preparedness and response activities and Disaster Services staff (Information Management, Activation lead, country team liaisons, and volunteers).
+* Lead HOT’s Disaster Services team, managing disaster preparedness and response activities and Disaster Services staff (Information Management, Activation lead, country team liaisons, and volunteers). Includes setting and managing responsibilities, budgets, etc.
 
 * Lead on HOT’s Disaster Services Team strategy, and lead on development of an overall IM strategy and workflows.
 
 * Manages coordination structures and/or mechanisms, including inter-cluster coordination, information management or other relevant entities in national capitals or the field, as appropriate.
 
 * Development of partnerships with responding organizations (GIS working groups, NGOs, UN OCHA and funds, agencies and programs, IFRC and national Red Cross societies, local government counterparts) and donors.
+
+* Work with HOT management to set budgets, develop and foster donor relations and funding streams, and create project proposals.
 
 * Manage and lead HOT’s disaster response activations, in coordination with the Partnerships & Community, Programs, & Tech teams.
 
@@ -65,6 +67,8 @@ The Disaster Services Program Manager will report directly to HOT’s Director o
 * University or college degree in international development, GIS, disaster risk reduction, urban planning, data science, informatics,or related fields. Ideally but not necessarily an advanced degree.
 
 * A minimum of 5 years work experience in humanitarian and disaster response, including field deployments.
+
+* Have managed sizeable humanitarian & disaster response projects, including fiscal responsibility.
 
 * Fluent in written and spoken English.
 
