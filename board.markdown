@@ -3,6 +3,7 @@ title: Board
 date: 2018-03-08 15:24:00 Z
 Page link:
   Label: Read about changes to the HOT Board of Directors in 2020
+  Link: hotosm-website.siteleaf.net/changes-to-the-hot-board-of-directors.html
 layout: roster
 ---
 
