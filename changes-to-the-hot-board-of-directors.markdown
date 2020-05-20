@@ -5,9 +5,8 @@ Intro text: 'By a variety of indicators, HOT has grown fast in the last few year
   For the board of directors to continue to play an effective role, we have decided
   that we need to develop too. '
 Page Link:
-- Label: 
-  Text: 
-  Link: 
+- Label: HOT Board of Directors
+  Link: https://www.hotosm.org/board
 ---
 
 For a while it has been clear that the model of a few board members making a five hour per month time commitment is incoherent with the responsibilities and expectations that sit with the board. As you may know, we have already started planning for the recruitment of advisory board members to help provide extra expertise and capacity in specific areas where we find ourselves lacking, such as legal, fundraising and accounting.
