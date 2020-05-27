@@ -19,10 +19,10 @@ Project:
 The future is here! Go and check out the [next evolution](https://hotosm.org/updates/tasking-manager-gets-a-makeover) of the [HOT Tasking Manager](https://tasks.hotosm.org).
 
 <div class="video-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/3B7GXZ2v-_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3B7GXZ2v-_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </div>
 
->**What is the Tasking Manager?**
+> **What is the Tasking Manager?**
 >
 > The Tasking Manager, built by Humanitarian OpenStreetMap Team (HOT) is designed to coordinate mapping in [OpenStreetMap](https://openstreetmap.org). Tasking manager enables anyone, anywhere in the world to contribute to humanitarian responses and development programs that improve people’s lives. It is the leading tool for coordinating volunteers and organizing groups on OpenStreetMap.
 
@@ -32,7 +32,7 @@ Like before, mapping projects are connected to one organization or community. Bu
 
 ![blog-post-2-image2.jpg](/uploads/blog-post-2-image2.jpg)
 
-Groups of users (teams) can be assigned projects. Each of them can be given certain permissions like mapping, validation or editing - including project metadata.  Organizations can now have one (or many) - 'Mappers', 'Validators' and 'Managers\*\*'.\*\*
+Groups of users (teams) can be assigned projects. Each of them can be given certain permissions like mapping, validation or editing - including project metadata.  Organizations can now have one (or many) - 'Mappers', 'Validators' and 'Managers'.
 
 **Let's illustrate these new and flexible options with some examples:**
 
