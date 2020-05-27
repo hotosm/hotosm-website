@@ -6,6 +6,9 @@ Member Type:
   Is Staff: true
   Is Voting Member: true
 Job Title: Project Manager
+Project:
+- 'Refugee response: South Sudan and Syria'
+- Regional Road Network Improvement in Turkey and Greece
 Country: Turkey
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/unen
