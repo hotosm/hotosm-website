@@ -1,6 +1,14 @@
 ---
 title: Tasking Manager | Behind the DevDesk with Wille Marcel
 date: 2020-05-27 14:24:00 Z
+Feature Image: "/uploads/wille_5.JPG"
+Person: Bo Percival
+Working Group:
+- Technical
+Country:
+- Global
+Project:
+- Tasking Manager
 ---
 
 **What’s been the best thing about working on Tasking Manager version 4?**
