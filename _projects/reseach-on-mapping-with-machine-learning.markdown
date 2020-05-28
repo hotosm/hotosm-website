@@ -1,7 +1,7 @@
 ---
 title: Research on mapping with open machine learning
 date: 2020-04-01 12:00:00 Z
-position: 14
+position: 20
 Project Summary Text: HOT is working with the Netherlands Red Cross to have an evidence-based
   look at current AI-supported mapping flows and to take the next step towards using
   OSM data for training machine learning models.

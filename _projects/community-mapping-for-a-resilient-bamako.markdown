@@ -1,7 +1,7 @@
 ---
 title: Community Mapping for a Resilient Bamako
 date: 2020-03-30 14:47:00 Z
-position: 1
+position: 6
 Project Summary Text: Mapping for informed decision making for disaster response and
   socioeconomic development
 Feature Image: "/uploads/Independence%20Monument%20-%20Project%20Page%20Post.JPG"

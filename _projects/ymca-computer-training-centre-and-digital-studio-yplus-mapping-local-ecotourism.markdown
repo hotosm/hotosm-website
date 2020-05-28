@@ -1,7 +1,7 @@
 ---
 title: YMCA Gambia - Mapping Local Ecotourism
 date: 2019-05-02 09:45:00 Z
-position: 19
+position: 25
 Project Summary Text: Engaging youth to map ecotourism sites in the West Coast Region
   and Central River Region of The Gambia
 Is Community-Led: true

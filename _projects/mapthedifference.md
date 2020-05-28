@@ -3,7 +3,7 @@ title: "#mapthedifference"
 date: 2017-12-13 16:43:00 Z
 permalink: projects/mapthedifference
 published: false
-position: 120
+position: 126
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Campaign%20Header%202%20%281%29.png
 Person:
 - Russell Deffner

@@ -2,7 +2,7 @@
 title: 'Disaster Activation: Typhoon Haiyan 2013'
 date: 2013-11-16 15:35:00 Z
 permalink: projects/typhoon_haiyan
-position: 77
+position: 83
 Project Summary Text: We activated to provide geographic base data in areas affected
   by typhoon Yolanda/Haiyan in the Philippines.
 Feature Image: "/uploads/Typhone%20haiyan.PNG"

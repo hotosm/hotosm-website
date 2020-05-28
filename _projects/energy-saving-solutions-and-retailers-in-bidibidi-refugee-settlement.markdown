@@ -1,6 +1,7 @@
 ---
 title: Energy Saving Solutions and Retailers in Bidibidi Refugee Settlement
 date: 2020-04-13 11:26:00 Z
+position: 2
 Project Summary Text: To improve understanding of how the use of and access to energy-saving
   solutions can be increased amongst refugees in northern Uganda, HOT with support
   from the Response Innovation Lab worked with local refugee communities to collect

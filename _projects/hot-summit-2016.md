@@ -3,7 +3,7 @@ title: HOT Summit 2016
 date: 2016-05-26 15:58:00 Z
 permalink: projects/hot_summit_2016
 published: false
-position: 110
+position: 116
 Person:
 - Blake Girardot
 - Dylan Moriarty

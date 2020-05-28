@@ -1,7 +1,7 @@
 ---
 title: 4 County Digitization Liberia
 date: 2019-08-15 10:05:00 Z
-position: 55
+position: 61
 Project Summary Text: 'To support local efforts to reduce poverty and food insecurity
   in Liberia, HOT is collaborating with iLab Liberia and OSM Liberia to digitize all
   buildings and roads in Bomi, Bong, Maryland, and Nimba counties.  '
