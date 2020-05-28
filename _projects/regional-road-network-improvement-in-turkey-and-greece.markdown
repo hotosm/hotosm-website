@@ -3,6 +3,7 @@ title: Regional Road Network Improvement in Turkey and Greece
 date: 2020-05-27 08:39:00 Z
 published: false
 position: 0
+Feature Image: "/uploads/Validation%20With%20Street-Level%20Imagery-0e7bb4.jpeg"
 Is Community-Led: false
 Country:
 - Turkey
@@ -27,8 +28,6 @@ Field name:
 Access to accurate and navigable road network data is of crucial importance, whether it is for fulfilling one’s personal transportation needs, or for corporate logistics. Added to its significance to the daily lives of communities, accurate and up-to-date road network data may also be the key to efficient humanitarian logistics, response and relief efforts in times of emergency. The field teams may need to access even to the most remote regions, and the available road network data should provide this accuracy.
 
 Since January 2019, we are partnering with Kaart, Yer Çizenler and GeoPerformans aiming to improve the quality and accuracy of the road networks of Turkey and Greece on OpenStreetMap. Our highly skilled team for this project, consisting of geomatics graduates, is consistently providing high-quality digitization and validation on the road network data of the region.
-
-![Validation With Street-Level Imagery.jpeg](/uploads/Validation%20With%20Street-Level%20Imagery.jpeg)
 
 ![AI-Assisted Road Network Mapping.jpeg](/uploads/AI-Assisted%20Road%20Network%20Mapping.jpeg)
 
