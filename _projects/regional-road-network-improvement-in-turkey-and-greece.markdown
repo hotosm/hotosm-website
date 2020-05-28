@@ -15,6 +15,8 @@ Impact Area:
 - Transportation
 Person:
 - Can Unen
+- Paul Uithol
+- Jess Beutler
 Partner:
 - Kaart
 - Yer Çizenler
