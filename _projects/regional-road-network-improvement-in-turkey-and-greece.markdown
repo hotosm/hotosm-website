@@ -3,6 +3,9 @@ title: Regional Road Network Improvement in Turkey and Greece
 date: 2020-05-27 08:39:00 Z
 published: false
 position: 0
+Project Summary Text: 'Since January 2019, HOT is partnering with Kaart, Yer Çizenler
+  and GeoPerformans aiming to improve the quality and accuracy of the road networks
+  of Turkey and Greece on OpenStreetMap. '
 Feature Image: "/uploads/Validation%20With%20Street-Level%20Imagery-0e7bb4.jpeg"
 Is Community-Led: false
 Country:
@@ -25,10 +28,10 @@ Field name:
   Roads Mapped: "+105K km"
 ---
 
-Access to accurate and navigable road network data is of crucial importance, whether it is for fulfilling one’s personal transportation needs, or for corporate logistics. Added to its significance to the daily lives of communities, accurate and up-to-date road network data may also be the key to efficient humanitarian logistics, response and relief efforts in times of emergency. The field teams may need to access even to the most remote regions, and the available road network data should provide this accuracy.
+Access to accurate and navigable road network data is of crucial importance to the daily lives of communities, whether for fulfilling personal transportation needs or for corporate logistics. Accurate and up-to-date road network data is also key for efficient humanitarian logistics, response and relief efforts in times of emergency. Field teams may need to access remote regions and accurate road network data should be available.
 
-Since January 2019, we are partnering with Kaart, Yer Çizenler and GeoPerformans aiming to improve the quality and accuracy of the road networks of Turkey and Greece on OpenStreetMap. Our highly skilled team for this project, consisting of geomatics graduates, is consistently providing high-quality digitization and validation on the road network data of the region.
+Our highly skilled team for this project consists of geomatics graduates who consistently provide high-quality digitization and validation on the regional road network data.
 
 ![AI-Assisted Road Network Mapping.jpeg](/uploads/AI-Assisted%20Road%20Network%20Mapping.jpeg)
 
-With a growing network of universities, student organizations, professional organizations and NGOs and the support of the Turkish OpenStreetMap community, the project draws mapper support to HOT’s global causes and active projects worldwide. There is also close coordination with local NGOs via meetings and workshops focusing on awareness raising and capacity building over participatory mapping and open geospatial data.
+With a growing network of universities, student and professional organizations, and NGOs as well as the support of the Turkish OpenStreetMap community, the project draws mapper support to HOT’s global causes and active projects worldwide. There is also close coordination with local NGOs via meetings and workshops focusing on awareness raising and capacity building over participatory mapping and open geospatial data.
