@@ -6,7 +6,7 @@ Summary Text: 'We’re excited to announce the first round of awardees for HOT R
   communities to support their local response to the pandemic, have been awarded to
   projects in Liberia, Uganda, Kenya and Mongolia. Over the next 6 months, these Microgrants
   will support the following work:'
-Feature image: "/uploads/Ramani%20Huria%20TZ%202-1adbce.jpg"
+Feature Image: "/uploads/Ramani%20Huria%20TZ%202-5d464a.jpg"
 Person:
 - Sophie Mower
 - Rebecca Firth
@@ -21,6 +21,7 @@ Country:
 Project:
 - HOT COVID-19 RESPONSE
 - 'Community development: Microgrants and Device Grants'
+Feature image: "/uploads/Ramani%20Huria%20TZ%202-1adbce.jpg"
 ---
 
 **iLab Liberia**
