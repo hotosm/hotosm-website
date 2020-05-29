@@ -1,6 +1,8 @@
 ---
 title: Melanie Chabot
 date: 2019-08-15 14:19:00 Z
+Member Type:
+  Is Voting Member: true
 Photo: "/uploads/melanie-b10705.jpg"
 Job Title: GIS Coordinator
 ---
