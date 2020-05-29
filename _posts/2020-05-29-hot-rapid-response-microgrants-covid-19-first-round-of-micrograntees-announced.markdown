@@ -6,7 +6,8 @@ Summary Text: 'We’re excited to announce the first round of awardees for HOT R
   communities to support their local response to the pandemic, have been awarded to
   projects in Liberia, Uganda, Kenya and Mongolia. Over the next 6 months, these Microgrants
   will support the following work:'
-Feature Image: "/uploads/Copy%20of%20RRM_flags.png"
+Feature Image:
+- "/uploads/Copy-of-RRM_flags-compressor.png"
 Person:
 - Sophie Mower
 - Rebecca Firth
