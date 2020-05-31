@@ -1,5 +1,5 @@
 ---
-title: HOT Voting Membership Welcome 27 New Members
+title: HOT Voting Membership Welcomes 27 New Members
 date: 2020-05-28 11:17:00 Z
 Summary Text: 'We are happy to announce that 27 new members have been elected to HOT’s
   Voting Membership! '
