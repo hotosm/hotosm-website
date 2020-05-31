@@ -25,8 +25,8 @@ HOT’s Voting Membership has grown to 216 members from all across the globe. Th
 
 * Promoting the use of open data in global humanitarian response and recovery work
 
-Congratulations to Yunzhi Lin, Danijel Schorlemmer, Chris Eshun, Samuel Darkwah Manu, Linas Stanzys, Koos Krijnders, Koakun Emmanuel Myers, Ataur Rahman Shaheen, Hawa Adinani, Marco Brancolini, Immaculata Mwanja, Hüseyin Can Ünen, Fernando Castro, Boureima SOULO , Carla Hondius, Mary L.Marcellinus, Kiggudde Deogratius, Mikko Tamura, Chukwu Kingsley Chika, Rory Nealon, Melanie Chabot, Arnalie Vicario, Dinnah Feye Andal, Sawan Shariar, Paul Knight, Tommy Godphery Davian Charles, and Saliou Abdou.
+Congratulations to: Yunzhi Lin, Danijel Schorlemmer, Chris Eshun, Samuel Darkwah Manu, Linas Stanzys, Koos Krijnders, Koakun Emmanuel Myers, Ataur Rahman Shaheen, Hawa Adinani, Marco Brancolini, Immaculata Mwanja, Hüseyin Can Ünen, Fernando Castro, Boureima SOULO , Carla Hondius, Mary L.Marcellinus, Kiggudde Deogratius, Mikko Tamura, Chukwu Kingsley Chika, Rory Nealon, Melanie Chabot, Arnalie Vicario, Dinnah Feye Andal, Sawan Shariar, Paul Knight, Tommy Godphery Davian Charles, and Saliou Abdou.
 
 HOT’s Voting Membership is responsible for voting on issues related to the governance of the organization, such as electing the Board of Directors and chair/co-chairing the different working groups that touch all aspects of HOT’s work.
 
-Click here to view the full list of HOT Voting Members
+Click [here](https://www.hotosm.org/voting-members) to view the full list of HOT Voting Members.
