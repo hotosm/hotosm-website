@@ -1,7 +1,7 @@
 ---
 title: HOT Indonesia’s COVID-19 online training platform
 date: 2020-06-01 00:12:00 Z
-Summary Text: On-site training is a regular activities for HOT Indonesia with staff
+Summary Text: On-site training is a regular activity for HOT Indonesia with staff
   traveling across the nation to conduct training sessions
 Feature Image: "/uploads/AA.png"
 ---
@@ -34,4 +34,4 @@ So far, three different webinars have been held on different topics:
 
 To apply theory and knowledge of mapping, the students took part in a mapathon in Pondok Aren sub-district. Pondok Aren is one of the areas with the highest COVID-19 cases in Banten, West Java, Indonesia. Its proximity to Jakarta makes this area more vulnerable to the spread of COVID-19.
 
-Watch a video of the webinar [here](https://www.youtube.com/playlist?list=PLL_bkzyOQQlJvqM09UOazpCpyRL8bEIBO) (in Bahasa Indonesia)
+Watch a video of the webinar [here](https://www.youtube.com/playlist?list=PLL_bkzyOQQlJvqM09UOazpCpyRL8bEIBO) *(in Bahasa Indonesia)*
