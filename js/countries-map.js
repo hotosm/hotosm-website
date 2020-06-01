@@ -26,7 +26,7 @@ fetch('/aggregatedStats.json')
           ele.classList.remove("hide");
           ele.classList.add("active");
         })
-        document.getElementById("osm-stats-tab").classList.remove("active");  
+        document.getElementById("osm-stats-tab").classList.remove("active");
         updateContactHeader(campaignCount);
         countryData.features.forEach(countryProject => {
           if (years.indexOf(countryProject.properties['created']) < 0) {
@@ -88,8 +88,10 @@ var map = new mapboxgl.Map({
   // scrollZoom: false,
   // dragRotate: false,
   maxzoom: 16,
-  style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
-});
+  style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4',
+  attributionControl: false
+})
+  .addControl(new mapboxgl.AttributionControl({ compact: false }));
 var mapHeight = $('#country-map-wrap').height();
 $('#country-details').height(mapHeight);
 $('#country-filters').height(mapHeight);
@@ -117,7 +119,7 @@ map.on('load', function() {
   map.addSource('countriesProjects', {
     "type": "geojson",
     "data": countryData
-  }); 
+  });
   map.addLayer({
     "id": "active_countries",
     "type": "fill",
@@ -168,7 +170,7 @@ map.on('load', function() {
       "circle-opacity": 1,
       "circle-color": "#000000",
     }
-  }, 'place-city-sm');  
+  }, 'place-city-sm');
   map.addLayer({
     "id": "country-projects-symbol",
     "type": "symbol",
@@ -195,7 +197,7 @@ map.on('load', function() {
       }, setTimeout(() => {
         var boxZoom = map.getZoom();
         map.setMinZoom(boxZoom);
-      }, 2000));     
+      }, 2000));
     }
     );
   map.on('mousemove', function(e) {
@@ -208,16 +210,16 @@ map.on('load', function() {
       $("#project-details").empty();
       $("#project-details").removeClass('hide');
       $("#project-details").append(
-        '<p class="hover-name">' + 
-        '<a target="_blank" href="https://tasks.hotosm.org/project/' +
-        projectHover[0].properties.id + 
+        '<p class="hover-name">' +
+        '<a target="_blank" href="https://tasks.hotosm.org/projects/' +
+        projectHover[0].properties.id +
         '">#' + projectHover[0].properties.id +'</a>' +
           " - " +
         projectHover[0].properties.title + '</p>' +
-        '<p class= "hover-edits">' + formatedData(projectHover[0].properties.edits) + ' Edits </p>' 
+        '<p class= "hover-edits">' + formatedData(projectHover[0].properties.edits) + ' Edits </p>'
       );
       var coordinates = projectHover[0].geometry.coordinates.slice();
-      var description = "<html><h6><a target='_blank' href='https://tasks.hotosm.org/project/" + projectHover[0].properties.id
+      var description = "<html><h6><a target='_blank' href='https://tasks.hotosm.org/projects/" + projectHover[0].properties.id
                         + "'</a>#" + projectHover[0].properties.id + " - "
                         + projectHover[0].properties.title + "</h6></html>";
       while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
@@ -309,9 +311,9 @@ function updateContactHeader (campaignCount) {
   } else memberCount = '';
   if (projectCount !== '' && memberCount !== '') {
     contactHeader.innerHTML = countryName + ' has ' +
-    campaignCount + projectCount + ' and ' + memberCount; 
+    campaignCount + projectCount + ' and ' + memberCount;
   } else {
     contactHeader.innerHTML = countryName + ' has ' +
-    campaignCount + projectCount + memberCount; 
+    campaignCount + projectCount + memberCount;
   }
 }

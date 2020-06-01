@@ -45,8 +45,10 @@ var map = new mapboxgl.Map({
   minZoom: 1.25,
   zoom: 1.25,
   center: [0, 8],
-  style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
-});
+  style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4',
+  attributionControl: false
+})
+  .addControl(new mapboxgl.AttributionControl({ compact: false }));
 
 var popup = new mapboxgl.Popup({
   closeButton: false,
@@ -201,7 +203,7 @@ function displayPopupOnClick(currentFeature) {
   var popup = new mapboxgl.Popup()
     .setLngLat(currentFeature.geometry.coordinates)
     .setHTML('<p class="project__title">' +
-      '<a class="project__title__link" target="_blank" href="https://tasks.hotosm.org/project/' +
+      '<a class="project__title__link" target="_blank" href="https://tasks.hotosm.org/projects/' +
       currentFeature.properties.id +
       '">#' + currentFeature.properties.id + '</a>' +
       ' - ' +
