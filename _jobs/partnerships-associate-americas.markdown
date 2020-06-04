@@ -6,9 +6,13 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSefFkGeedE_q_3WuORHhoX
 ---
 
 **Reports to:** Partnerships Manager
+
 **Contract duration:** Full time role. Initial contract will be for four months, with possibility to extend
+
 **Projected start date:** 13 July 2020
-**Location/Duty Station:** This is a remote working position, candidates must overlap at least six hours of their working day with UTC -6 time zone  (this is well-suited to candidates who are based in Latin America / United States).
+
+**Location/Duty Station:** This is a remote working position, candidates must overlap at least six hours of their working day with UTC -6 time zone 
+
 **Travel:** Up to 10%
 
 # About Humanitarian OpenStreetMap Team
@@ -16,7 +20,7 @@ Humanitarian OpenStreetMap Team (HOT) is a Washington, D.C. based NGO and global
 
 # About the Position
 * HOT is searching for a Partnerships Associate to join our Partnerships and Community team. The role will involve the following responsibilities:
-* Support management of activities for HOT partner organisations in Latin America and the United States; supporting community events, corporate partners, and NGO partners.
+* Support management of activities for HOT partner organisations in Latin America, the United States and the Caribbean; supporting community events, corporate partners, and NGO partners.
 * Coordinate with counterparts performing the same role in Europe and Asia time zones
 * Lead regular Train the Trainer sessions to help partner organisations to launch and lead mapathons
 * Lead regular mapathons both virtually and in-person whenever possible
