@@ -6,13 +6,9 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSefFkGeedE_q_3WuORHhoX
 ---
 
 **Reports to:** Partnerships Manager
-
 **Contract duration:** Full time role. Initial contract will be for four months, with possibility to extend
-
 **Projected start date:** 13 July 2020
-
 **Location/Duty Station:** This is a remote working position, candidates must overlap at least six hours of their working day with UTC -6 time zone  (this is well-suited to candidates who are based in Latin America / United States).
-
 **Travel:** Up to 10%
 
 # About Humanitarian OpenStreetMap Team
