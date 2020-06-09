@@ -7,6 +7,8 @@ Project Summary Text: As the world grapples with the global pandemic of COVID-19
 Feature Image: "/uploads/mapeo%20equidad%20de%20genero-14-f6dc86.jpg"
 Impact Area:
 - Disaster Response
+Person:
+- Russell Deffner
 Duration:
   Start Date: 2020-03-24 00:00:00 Z
 ---
