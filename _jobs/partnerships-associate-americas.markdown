@@ -7,7 +7,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSefFkGeedE_q_3WuORHhoX
 
 **Reports to:** Partnerships Manager
 
-**Contract duration:** Full time role. Initial contract will be for four months, with possibility to extend
+**Contract duration:** This is a full time and long-term role. Initial contract will be for six months, with possibility to extend based on performance.
 
 **Projected start date:** 13 July 2020
 
