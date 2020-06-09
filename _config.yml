@@ -28,6 +28,9 @@ collections:
     title: People
     output: true
     permalink: "/people/:title/"
+  project-a:
+    title: Project A
+    output: true
   projects:
     title: Projects
     output: true
