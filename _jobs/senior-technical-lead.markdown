@@ -1,7 +1,6 @@
 ---
 title: Senior Technical Lead
 date: 2020-06-08 13:22:00 Z
-published: false
 Deadline Date: 2020-06-26 00:00:00 Z
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdj9Aw6MHJV_MdotuHvKajCOm4zIfU4l5kBvkKrU8XS8Aj_8Q/viewform
 ---
@@ -34,7 +33,7 @@ The Senior Technical Lead will advance HOT’s mission by operationalizing the H
 * **Open:** Our Open ethic permeates all we do. Our actions  reflect radical openness and transparency. We encourage open inputs and outputs. Our team and technology openly welcomes and engages community, collaboration and contribution.
 
 * **Team:** Our Team ethic reflects our loyalty to our people.  We support them at personal and professional levels. We invest in their well-being and their growth. We provide security and stability. When our people thrive, so do we.
-  HOT_Tech Principles > Can be found here (GitHub Link to go here)
+  HOT_Tech Principles > Can be found [here ](https://github.com/hotosm/tech/blob/master/principles/README.md)
 
 The Senior Technical Lead will remotely manage an expanding team of up to 15 staff members including engineers, designers, and agile development teams across multiple time zones. This team is responsible for the development, maintenance, and support of 10 open source apps and tools that enable collaborative editing, analysis, and visualization around OpenStreetMap. These tools are relied upon by dozens of humanitarian and development sector partners including UN agencies, the World Bank, Red Cross societies, Médecins Sans Frontières and other NGOs.
 In line with HOT’s Strategic Plan, the Senior Technical Lead will have a significant role in advancing the t20 // HOT_Tech strategy for the organization, community of volunteers, and partner organizations relying on HOT tools. This includes dramatically scaling the quantity and quality of data produced by the HOT network through the introduction of machine learning and shifting toward mobile-first workflows as we aim to map an area home to 1 billion people over the next three years. To succeed in this role, the Senior Technical Lead will work closely with the Director of Technology and Innovation, the HOT field programs and community teams, remotely and with occasional travel to HOT program locations in Africa, Asia, and Latin America.
