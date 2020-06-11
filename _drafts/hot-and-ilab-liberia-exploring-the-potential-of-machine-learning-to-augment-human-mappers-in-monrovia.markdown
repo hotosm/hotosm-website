@@ -2,9 +2,9 @@
 title: HOT and iLab Liberia Exploring the Potential of Machine-Learning to Augment
   Human Mappers in Monrovia
 date: 2020-06-11 16:40:00 Z
-Summary Text: HOT has been working with iLab Liberia in Monrovia to test the potential
-  of machine-learning algorithms to automate repetitive mapping tasks and highlight
-  areas in need of updating to maximize the impact of human mappers.
+Summary Text: HOT worked with iLab Liberia in Monrovia to test the potential of machine-learning
+  algorithms to automate repetitive mapping tasks and highlight areas in need of updating
+  to maximize the impact of human mappers.
 Feature Image: "/uploads/Machine%20Learning%20Monrovia%20Cover%20Image.jpg"
 Country:
 - Liberia
@@ -33,7 +33,7 @@ In addition to the machine-learning benefits, the drone imagery was used to map 
 
 For the second machine-learning exercise, iLab Liberia mounted a Blackvue Dashcam onto a car and drove all major streets in the Duala Market on Bushrod Island and in the Red Light Market areas of interest. The team captured over 150 kilometers of StreetView imagery of Monrovia. 
 
-This imagery was used to map vehicle-accessible roads, and then to train a machine-learning algorithm developed by Mapillary to identify street features like street signs and intersections. While this has been done before in the developed world, it is much more challenging in the developing world. iLab Liberia is continuing to create and analyze imagery using dashcams, and anyone can access this data via [Mapillary](https://www.mapillary.com/).
+This imagery was used to map vehicle-accessible roads, and then to train a machine-learning algorithm developed by Mapillary to identify street features like street signs and intersections. While this has been done before in the developed world, it is much more challenging in the developing world. iLab Liberia has continued to create and analyze imagery using dashcams, and anyone can access this data via [Mapillary](https://www.mapillary.com/).
 
 
 ![Mapillary Imagery Liberia.png](/uploads/Mapillary%20Imagery%20Liberia.png)
@@ -48,7 +48,7 @@ This imagery was used to map vehicle-accessible roads, and then to train a machi
 
 In the third trial, HOT tested the ability of machine-learning algorithms to assist human mappers by recognizing new development and recommending mapping. Using HOT’s experimental machine-learning enabled [Tasking Manager](https://tasks-assisted.hotosm.org/), HOT validated road geometry using Facebook’s [RapiD Editor](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=2.00/0.0/0.0).
 
-The objective of this task was to close any existing gaps in the road network around the entire city boundary of Monrovia. Monrovia’s road network had been largely mapped in 2014 and 2015 in response to the Ebola outbreak, but there had since been a great deal of development. Without the impetus for large numbers of mappers to update the map, the street map was getting woefully out of date. It’s one thing to get volunteers to add to a map when the map is blank, but it’s much more difficult, both logistically and motivationally, to get mappers to update an out-of-date map.
+The objective of this task was to close any existing gaps in the road network around the entire city boundary of Monrovia. Monrovia’s road network had been largely mapped in 2014 and 2015 in response to the Ebola outbreak, but there had been a great deal of development in the latter half of the decade. Without the impetus for large numbers of mappers to update the map, the street map was getting woefully out of date. It’s one thing to get volunteers to add to a map when the map is blank, but it’s much more difficult, both logistically and motivationally, to get mappers to update an out-of-date map.
 
 The RapiD Editor detected changes in imagery over time due to construction and suggested current images with changes for users to map. On each image, the Facebook roads AI indicated a suggested road to add with a magenta line, and the mappers decided if the suggestion was correct and added appropriate tags.
 
