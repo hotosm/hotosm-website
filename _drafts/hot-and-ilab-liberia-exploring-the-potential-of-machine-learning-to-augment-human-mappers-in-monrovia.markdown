@@ -36,3 +36,21 @@ This imagery was used to map vehicle-accessible roads, and then to train a machi
 
 *Verification screen for assessing the accuracy of machine-learning algorithm in identifying street features*
 
+### Exploring AI-Assisted Mapping in OpenStreetMap with Roads and Buildings
+
+In the third trial, HOT tested the ability of machine-learning algorithms to assist human mappers by recognizing new development and recommending mapping. Using HOT’s experimental machine-learning enabled [Tasking Manager](https://tasks-assisted.hotosm.org/), HOT validated road geometry using Facebook’s [RapiD Editor](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=2.00/0.0/0.0).
+
+The objective of this task was to close any existing gaps in the road network around the entire city boundary of Monrovia. Monrovia’s road network had been largely mapped in 2014 and 2015 in response to the Ebola outbreak, but there had since been a great deal of development. Without the impetus for large numbers of mappers to update the map, the street map was getting woefully out of date. It’s one thing to get volunteers to add to a map when the map is blank, but it’s much more difficult, both logistically and motivationally, to get mappers to update an out-of-date map.
+
+The RapiD Editor detected changes in imagery over time due to construction and suggested current images with changes for users to map. On each image, the Facebook roads AI indicated a suggested road to add with a magenta line, and the mappers decided if the suggestion was correct and added appropriate tags.
+
+![RapiD Editor.png](/uploads/RapiD%20Editor.png)
+
+*Example of RapiD Editor tool, roads identified through Facebook Roads AI in magenta.*
+
+### Building Knowledge
+
+In addition to the data generation benefits, HOT and iLab Liberia documented lessons learned for integrating machine-learning into participatory mapping. Members of the HOT community can help build on this knowledge by testing the experimental machine-learning enabled Tasking Manager.
+
+A highlight for project members was taking part in the cross-continent cooperation between teams from Liberia, Uganda, and Tanzania along with members of the government and community in Monrovia. The participants had the opportunity to learn about machine-learning and receive training on applying it in their own cities.
+
