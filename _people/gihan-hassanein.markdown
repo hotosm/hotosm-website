@@ -4,6 +4,7 @@ date: 2020-03-12 22:19:00 Z
 Photo: "/uploads/Gihan_photo_3.jpg"
 Member Type:
   Is Staff: true
+  Is Media Contact: true
 Job Title: Senior Communications Manager
 Working Group:
 - Communications

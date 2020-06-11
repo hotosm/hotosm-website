@@ -1,0 +1,83 @@
+---
+layout: default
+---
+
+<div class="media container">
+
+  <header class="page-header">
+    <h1>{{ page.title }}</h1>
+    <div class="hr-h"></div>
+  </header>
+
+  <div class="media-body">
+
+    <nav class="media-nav">
+      <div class="sticky-wrap">
+        <h5>On this page</h5>
+        <ul>
+          <li><a href="#contacts">Media Contacts</a></li>
+          <li><a href="#team">Communications Team</a></li>
+          <li><a href="#press-releases">Press Releases</a></li>
+          <li><a href="#news">HOT in the News</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="media-content article">
+      <h2 id="contacts">Media Contacts</h2>
+      <div class="contact-general">
+        {{ page.Media.Details | markdownify }}
+      </div>
+
+      <div class="hr-h"></div>
+
+      <div class="media-team-wrap">
+        <h2 id="media-team">Communications Team</h2>
+        <div class="roster-list">
+        <div class="roster-list-wrapper">
+
+          {% assign sorted-people = site.people | sort: 'title', 'last'  %}
+          {% for person in sorted-people %}
+            {% if person['Member Type']['Is Media Contact'] %}
+              {% include blocks/roster-item.html %}
+            {% endif %}
+          {% endfor %}
+
+        </div>
+        </div>
+      </div>
+
+      <div class="hr-h"></div>
+
+      <div class="anchor" id="press-releases"></div>
+      <h2>Press Releases</h2>
+      <div class="media-press-releases">
+        <div>
+          {% for presser in page['Press Releases'] %}
+          <div>
+            <a href='{{ presser.Link }}'><h3> {{ presser.Title }} </h3></a>
+          </div>
+        {% endfor %}
+        </div>
+      </div>
+
+      <div class="hr-h"></div>
+      <div class="anchor" id="news"></div>
+      <h2>HOT in the News</h2>
+      <div class="media-news">
+        <div>
+          {% for article in page['News'] %}
+          <div>
+            <h3><a href='{{ presser.Link }}'>{{ article.Title }}</a> - {{ article.Source }}</h3>
+          </div>
+        {% endfor %}
+        </div>
+      </div>
+
+      <div class="hr-h"></div>
+
+    </div>
+
+  </div>
+
+</div>
