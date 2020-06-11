@@ -2,7 +2,9 @@
 title: HOT and iLab Liberia Exploring the Potential of Machine-Learning to Augment
   Human Mappers in Monrovia
 date: 2020-06-11 16:40:00 Z
-Summary Text: 'HOT has been working with iLab Liberia in Monrovia to '
+Summary Text: HOT has been working with iLab Liberia in Monrovia to test the potential
+  of machine-learning algorithms to automate repetitive mapping tasks and highlight
+  areas in need of updating to maximize the impact of human mappers.
 Feature Image: "/uploads/Machine%20Learning%20Monrovia%20Cover%20Image.jpg"
 ---
 
