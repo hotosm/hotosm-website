@@ -5,6 +5,7 @@ position: 61
 Project Summary Text: 'To support local efforts to reduce poverty and food insecurity
   in Liberia, HOT is collaborating with iLab Liberia and OSM Liberia to digitize all
   buildings and roads in Bomi, Bong, Maryland, and Nimba counties.  '
+Feature Image: "/uploads/EZgGSYMXQAAmpYD.jpg"
 Country:
 - Liberia
 Impact Area:
