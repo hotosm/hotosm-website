@@ -31,7 +31,7 @@ layout: default
 
       <div class="hr-h"></div>
 
-      <div class="media-team-wrap">
+      <div class="media-team-wrap" id="team">
         <h2 id="media-team">Communications Team</h2>
         <div class="roster-list">
         <div class="roster-list-wrapper">
@@ -53,7 +53,7 @@ layout: default
       <h2>Press Releases</h2>
       <div class="media-press-releases">
         <div>
-          {% for presser in page['Press Releases'] %}
+          {% for presser in page['Press Releases']['Articles'] %}
           <div>
             <a href='{{ presser.Link }}'><h3> {{ presser.Title }} </h3></a>
           </div>
@@ -66,7 +66,7 @@ layout: default
       <h2>HOT in the News</h2>
       <div class="media-news">
         <div>
-          {% for article in page['News'] %}
+          {% for article in page['News']['Articles'] %}
           <div>
             <h3><a href='{{ presser.Link }}'>{{ article.Title }}</a> - {{ article.Source }}</h3>
           </div>
