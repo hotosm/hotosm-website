@@ -15,36 +15,56 @@ layout: default
       <div class="sticky-wrap">
         <h5>On this page</h5>
         <ul>
-          <li><a href="#contacts">Media Contacts</a></li>
-          <li><a href="#team">Communications Team</a></li>
+          <li><a href="#contacts">Media Contact</a></li>
+          <li><a href="#brand-media">Brand and Media Kit</a></li>
+          <li><a href="#social">Social</a></li>
           <li><a href="#press-releases">Press Releases</a></li>
           <li><a href="#news">HOT in the News</a></li>
         </ul>
       </div>
     </nav>
 
-    <div class="media-content article">
-      <h2 id="contacts">Media Contacts</h2>
-      <div class="contact-general">
-        {{ page.Media.Details | markdownify }}
+    <div id="contacts" class="media-content article">
+      <h2>Media Contact</h2>
+
+      <div class="media-team-wrap" id="team">
+        <div class="roster-list">
+          <div class="roster-list-wrapper">
+            {% assign sorted-people = site.people | sort: 'title', 'last'  %}
+            {% for person in sorted-people %}
+              {% if person['Member Type']['Is Media Contact'] %}
+                {% include blocks/roster-item.html %}
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      <div>
+        <p class="media-content-text">
+          Gihan is responsible for HOT’s media and public relations. Contact Gihan with all media inquiries and
+          to set up interviews with subject matter experts and field teams. We can also provide high resolution
+          images to accompany stories.
+        </p>
+        <p>
+          <strong>Email:</strong> <a class="di" href="communications@hotosm.org">communications@hotosm.org</a><br>
+          <strong>Phone:</strong> <a class="di" href="tel:+14387638914">+1 438 763 8914</a>
+        </p>
       </div>
 
       <div class="hr-h"></div>
 
-      <div class="media-team-wrap" id="team">
-        <h2 id="media-team">Communications Team</h2>
-        <div class="roster-list">
-        <div class="roster-list-wrapper">
-
-          {% assign sorted-people = site.people | sort: 'title', 'last'  %}
-          {% for person in sorted-people %}
-            {% if person['Member Type']['Is Media Contact'] %}
-              {% include blocks/roster-item.html %}
-            {% endif %}
-          {% endfor %}
-
+      <div id="brand-media" class="contact-general">
+        <h2>Brand and Media Kit</h2>
+        <div class="media-content-text">
+          {{ page.Media.Details | markdownify }}
         </div>
-        </div>
+      </div>
+
+      <div class="hr-h"></div>
+
+      <div id="social" class="contact-general">
+        <h2>Social</h2>
+        {% include media-social-networks.html %}
       </div>
 
       <div class="hr-h"></div>

@@ -369,6 +369,10 @@ em {
   clear: both;
 }
 
+.di {
+  display: inline !important;
+}
+
 
 ////////////////////////////////////////////////
 ///////////////////// Forms ////////////////////
@@ -1643,6 +1647,41 @@ em {
         path {
           fill: shade($red, 10%);
         }
+      }
+    }
+  }
+}
+
+.media-social-links {
+  .social-item {
+    padding: 1rem 0;
+    .social-img, .social-txt {
+        display: inline-block;
+      @media (max-width: $screen-xs) {
+        display: block;
+        padding: 0.5rem 0;
+      }
+    }
+    .social-img {
+      width: 45px;
+    }
+    .social-txt {
+      @media (min-width: $screen-xs) {
+        padding-left: 2rem;
+      }
+    }
+    p {
+      line-height: 1rem;
+    }
+  }
+  a {
+    font-size: 1.375rem;
+    svg {
+      height: auto;
+      width: 45px;
+      @media (max-width: $screen-sm) {
+        height: 40px;
+        width: auto;
       }
     }
   }
@@ -3286,6 +3325,9 @@ div.mapboxgl-popup-content .project__details {
   a {
     display: block;
   }
+  .media-contact-description {
+
+  }
   .media-general, .media-locations, .media-persona {
     @media (min-width: $screen-xs) {
       display: grid;
@@ -3313,6 +3355,11 @@ div.mapboxgl-popup-content .project__details {
   }
   .roster-link {
     display: flex;
+  }
+}
+.media-content-text {
+  @media (min-width: $screen-sm) {
+    max-width: 70%
   }
 }
 
