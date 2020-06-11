@@ -33,7 +33,7 @@ This imagery was used to map vehicle-accessible roads, and then to train a machi
 
 
 ![Mapillary Imagery Liberia.png](/uploads/Mapillary%20Imagery%20Liberia.png)
-*Imagery collected at the center of Red Light Market showcasing the heavy foot-traffic on Somalia Drive, a major thoroughfare.*
+*Imagery collected at the center of Red Light Market showcasing the heavy foot-traffic on Somalia Drive, a major thoroughfare*
 
 
 ![Verification Annotation 2020-06-11 123332.jpg](/uploads/Verification%20Annotation%202020-06-11%20123332.jpg)
