@@ -6,11 +6,13 @@ Summary Text: HOT has been working with iLab Liberia in Monrovia to test the pot
   of machine-learning algorithms to automate repetitive mapping tasks and highlight
   areas in need of updating to maximize the impact of human mappers.
 Feature Image: "/uploads/Machine%20Learning%20Monrovia%20Cover%20Image.jpg"
+Country:
+- Liberia
 ---
 
-HOT, working in Monrovia in partnership with [iLab Liberia](https://www.ilabliberia.org/) and with the support of the World Bank, has been exploring the potential for machine-learning algorithms to augment the work of human mappers. As part of the [Open Cities AI Challenge](https://www.drivendata.org/competitions/60/building-segmentation-disaster-resilience/), HOT and iLab Liberia have been creating spatial data in Monrovia that is used to test and refine machine-learning algorithms. 
+HOT worked in Monrovia in partnership with [iLab Liberia](https://www.ilabliberia.org/) and with the support of the World Bank to explore the potential for machine-learning algorithms to augment the work of human mappers. As part of the [Open Cities AI Challenge](https://www.drivendata.org/competitions/60/building-segmentation-disaster-resilience/), HOT and iLab Liberia created spatial data in Monrovia that was used to test and refine machine-learning algorithms. 
 
-The goal of this wider project is to bring together the best machine-learning practitioners from around the world to develop open-source algorithms and workflows that can generate geospatial data for cities. Machine-learning offers HOT, humanitarian and development organizations, and city leaders a valuable toolkit to automate large-scale, repetitious data generation and mapping tasks while highlighting areas that need human attention. 
+The goal of this wider project was to bring together the best machine-learning practitioners from around the world to develop open-source algorithms and workflows that can generate geospatial data for cities. Machine-learning offers HOT, humanitarian and development organizations, and city leaders a valuable toolkit to automate large-scale, repetitious data generation and mapping tasks while highlighting areas that need human attention. 
 
 HOT and iLab Liberia worked together in Monrovia from November 2019 to January 2020 to create data to feed into three machine-learning trials.
 
