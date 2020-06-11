@@ -13,6 +13,9 @@ Project:
 - 'Field data collection for malaria elimination: National Malaria Programme'
 - 'Supporting decentralization in Liberian cities: LEGIT'
 - 'Responding to the Venezuela Situation: Aruba & the Southern Caribbean'
+- 'Scaling Machine-Learning Workflows for Participatory Mapping: Monrovia ML Challenge'
+- 'Productivity and Pollution Impacts: Monrovia Market Mapping'
+- 4 County Digitization Liberia
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/jessbeutler
   LinkedIn: https://www.linkedin.com/in/jess-beutler/
