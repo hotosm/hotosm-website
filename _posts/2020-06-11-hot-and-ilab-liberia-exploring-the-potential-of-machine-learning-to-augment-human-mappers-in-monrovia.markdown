@@ -8,6 +8,8 @@ Summary Text: HOT worked with iLab Liberia in Monrovia to test the potential of 
 Feature Image: "/uploads/Machine%20Learning%20Monrovia%20Cover%20Image.jpg"
 Country:
 - Liberia
+Project:
+- 'Scaling Machine-Learning Workflows for Participatory Mapping: Monrovia ML Challenge'
 ---
 
 HOT worked in Monrovia in partnership with [iLab Liberia](https://www.ilabliberia.org/) and with the support of the World Bank to explore the potential for machine-learning algorithms to augment the work of human mappers. As part of the [Open Cities AI Challenge](https://www.drivendata.org/competitions/60/building-segmentation-disaster-resilience/), HOT and iLab Liberia created spatial data in Monrovia that was used to test and refine machine-learning algorithms. 
