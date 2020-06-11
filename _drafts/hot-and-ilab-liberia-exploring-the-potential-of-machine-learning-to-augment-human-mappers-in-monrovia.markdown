@@ -50,7 +50,7 @@ The RapiD Editor detected changes in imagery over time due to construction and s
 
 ### Building Knowledge
 
-In addition to the data generation benefits, HOT and iLab Liberia documented lessons learned for integrating machine-learning into participatory mapping. Members of the HOT community can help build on this knowledge by testing the experimental machine-learning enabled Tasking Manager.
+In addition to the data generation benefits, HOT and iLab Liberia documented lessons learned for integrating machine-learning into participatory mapping. Members of the HOT community can help build on this knowledge by testing the experimental machine-learning enabled [Tasking Manager](https://tasks-assisted.hotosm.org/).
 
 A highlight for project members was taking part in the cross-continent cooperation between teams from Liberia, Uganda, and Tanzania along with members of the government and community in Monrovia. The participants had the opportunity to learn about machine-learning and receive training on applying it in their own cities.
 
