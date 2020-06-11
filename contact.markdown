@@ -45,12 +45,11 @@ Office Locations:
     Kampala
   Nav ID: office-locations
 Media:
-  Details: "\nAre you looking to report about HOT, use our logo, or share about the
-    organization? You can find versions of our logo, photos, and recent articles:\n
-    \n[Logo, colors, and fonts](https://github.com/hotosm/hotosm-website/wiki/Colors-Fonts-and-Logo)\n[Photos
-    from HOT activities](https://www.flickr.com/photos/hotosm/)\n[Photos from Missing
-    Maps](https://www.flickr.com/photos/126636925@N06/)\n[Previous Articles](https://github.com/hotosm/hotosm-website/wiki/Media-Kit#previously-written-articles)\n\nContact
-    us: [info@hotosm.org](mailto:info@hotosm.org)"
+  Details: |
+    For media enquiries, please contact HOT's Senior Communications Manager, Gihan Hassanein.  Gihan is responsible for  HOT’s media and public relations and can set up interviews with subject matter experts and field teams. HOT can also provide high resolution images to accompany stories.
+
+    Email: [communications@hotosm.org](mailto:communications@hotosm.org)
+    Tel: +1 438 763 8914
   Nav ID: media
 layout: contact
 ---
