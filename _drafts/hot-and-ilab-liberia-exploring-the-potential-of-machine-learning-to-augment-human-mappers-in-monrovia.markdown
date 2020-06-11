@@ -20,8 +20,10 @@ This drone data was provided to the machine learning challenge for participants 
 
 In addition to the machine-learning benefits, the drone imagery was used to map roads, buildings, and drains for the twenty square kilometer area where the available satellite imagery did not have the resolution needed to make out these features. The drone imagery is also now publicly accessible on [OpenAerialMap](https://openaerialmap.org/).
 
+
 ![Comparison Annotation 2020-06-11 123332.jpg](/uploads/Comparison%20Annotation%202020-06-11%20123332.jpg)
 *Satellite imagery (left) versus UAV imagery captured with a SenseFly eBee drone (right)*
+
 
 ### Capturing and Using StreetView Imagery for Machine-Learning Feature Identification
 
@@ -29,13 +31,14 @@ For the second machine-learning exercise, iLab Liberia mounted a Blackvue Dashca
 
 This imagery was used to map vehicle-accessible roads, and then to train a machine-learning algorithm developed by Mapillary to identify street features like street signs and intersections. While this has been done before in the developed world, it is much more challenging in the developing world. iLab Liberia is continuing to create and analyze imagery using dashcams, and anyone can access this data via [Mapillary](https://www.mapillary.com/).
 
-![Mapillary Imagery Liberia.png](/uploads/Mapillary%20Imagery%20Liberia.png)
 
+![Mapillary Imagery Liberia.png](/uploads/Mapillary%20Imagery%20Liberia.png)
 *Imagery collected at the center of Red Light Market showcasing the heavy foot-traffic on Somalia Drive, a major thoroughfare.*
 
-![Verification Annotation 2020-06-11 123332.jpg](/uploads/Verification%20Annotation%202020-06-11%20123332.jpg)
 
+![Verification Annotation 2020-06-11 123332.jpg](/uploads/Verification%20Annotation%202020-06-11%20123332.jpg)
 *Verification screen for assessing the accuracy of machine-learning algorithm in identifying street features*
+
 
 ### Exploring AI-Assisted Mapping in OpenStreetMap with Roads and Buildings
 
@@ -45,13 +48,13 @@ The objective of this task was to close any existing gaps in the road network ar
 
 The RapiD Editor detected changes in imagery over time due to construction and suggested current images with changes for users to map. On each image, the Facebook roads AI indicated a suggested road to add with a magenta line, and the mappers decided if the suggestion was correct and added appropriate tags.
 
-![RapiD Editor.png](/uploads/RapiD%20Editor.png)
 
+![RapiD Editor.png](/uploads/RapiD%20Editor.png)
 *Example of RapiD Editor tool, roads identified through Facebook Roads AI in magenta.*
+
 
 ### Building Knowledge
 
 In addition to the data generation benefits, HOT and iLab Liberia documented lessons learned for integrating machine-learning into participatory mapping. Members of the HOT community can help build on this knowledge by testing the experimental machine-learning enabled [Tasking Manager](https://tasks-assisted.hotosm.org/).
 
 A highlight for project members was taking part in the cross-continent cooperation between teams from Liberia, Uganda, and Tanzania along with members of the government and community in Monrovia. The participants had the opportunity to learn about machine-learning and receive training on applying it in their own cities.
-
