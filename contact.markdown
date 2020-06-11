@@ -45,11 +45,8 @@ Office Locations:
     Kampala
   Nav ID: office-locations
 Media:
-  Details: |
-    For media enquiries, please contact HOT's Senior Communications Manager, Gihan Hassanein.  Gihan is responsible for  HOT’s media and public relations and can set up interviews with subject matter experts and field teams. HOT can also provide high resolution images to accompany stories.
-
-    Email: [communications@hotosm.org](mailto:communications@hotosm.org)
-    Tel: +1 438 763 8914
+  Details: "For media enquiries, please contact HOT's Senior Communications Manager,
+    Gihan Hassanein.  \n\nEmail: [communications@hotosm.org](mailto:communications@hotosm.org)\n"
   Nav ID: media
 layout: contact
 ---
