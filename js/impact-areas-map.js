@@ -6,13 +6,15 @@
   mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
   var map = new mapboxgl.Map({
     container: 'map',
-    logoPosition: 'bottom-right',
+    logoPosition: 'top-left',
     scrollZoom: false,
     dragRotate: false,
     zoom: 1.25,
     center: [0, 17],
-    style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
-  });
+    style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4',
+    attributionControl: false
+  })
+    .addControl(new mapboxgl.AttributionControl({ compact: false }));
 
   map.on('load', function () {
     fetch('/countries.json')

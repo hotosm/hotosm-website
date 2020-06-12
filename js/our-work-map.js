@@ -98,15 +98,17 @@ function showContinents() {
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA';
 var map = new mapboxgl.Map({
   container: 'map',
-  logoPosition: 'bottom-right',
+  logoPosition: 'top-left',
   // scrollZoom: false,
   // dragRotate: false,
   maxZoom: 18,
   minZoom: 1.25,
   zoom: 1.25,
   center: [0, 8],
-  style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4'
-});
+  style: 'mapbox://styles/hot/cjepk5hhz5o9w2rozqj353ut4',
+  attributionControl: false
+})
+  .addControl(new mapboxgl.AttributionControl({ compact: false }));
 
 map.on('load', function () {
   $('.mapboxgl-ctrl').addClass('hide');
@@ -254,7 +256,7 @@ map.on('load', function () {
     "circle-color": "#000000",
     }
   }, 'place-city-sm');
-  
+
 map.addLayer({
     "id": "all-projects-symbol",
     "type": "symbol",
@@ -294,7 +296,7 @@ map.addLayer({
                 [200, '#B7BACB'],
             ]
         },
-        'circle-radius': 
+        'circle-radius':
         {
             property: 'point_count',
             type: 'interval',
@@ -325,7 +327,7 @@ function pulseMarker(timestamp){
     map.setPaintProperty('active_centroids_project_countries_pulse', 'circle-opacity', opacity)
     map.setPaintProperty('active_centroids_project_countries_pulse', 'circle-radius', circleRadius)
 
-    
+
 
   }, 1000 / framesPerSecond );
 }
@@ -348,14 +350,14 @@ var popup = new mapboxgl.Popup({
       $(location).attr('href', '/where-we-work/' + country_name);
     }
   });
-  
+
   map.on('click', function(e) {
     var features = map.queryRenderedFeatures(
       [e.point.x, e.point.y],
       {layers: ['all-projects-symbol', 'all-projects-black-circle', 'all-projects-edits-circle']}
     );
     if (features.length) {
-      
+
     }
   });
 
@@ -393,17 +395,17 @@ var popup = new mapboxgl.Popup({
         $("#hover-details").empty();
         $("#hover-details").removeClass('hide');
         $("#hover-details").append(
-          '<p class="hover-name">' + 
-          '<a target="_blank" href="https://tasks.hotosm.org/project/' +
-          projectHover[0].properties.id + 
+          '<p class="hover-name">' +
+          '<a target="_blank" href="https://tasks.hotosm.org/projects/' +
+          projectHover[0].properties.id +
           '">#' + projectHover[0].properties.id +'</a>' +
            " - " +
           projectHover[0].properties.title + '</p>' +
-          '<p class= "hover-edits">' + formatedData(projectHover[0].properties.edits) + ' Edits </p>' 
+          '<p class= "hover-edits">' + formatedData(projectHover[0].properties.edits) + ' Edits </p>'
         );
         console.log()
         var coordinates = projectHover[0].geometry.coordinates.slice();
-        var description = "<html><h6><a target='_blank' href='https://tasks.hotosm.org/project/" + projectHover[0].properties.id
+        var description = "<html><h6><a target='_blank' href='https://tasks.hotosm.org/projects/" + projectHover[0].properties.id
                           + "'</a>#" + projectHover[0].properties.id + " - "
                           + projectHover[0].properties.title + "</h6></html>";
         while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
@@ -413,7 +415,7 @@ var popup = new mapboxgl.Popup({
         // popup.setLngLat(coordinates)
         //     .setHTML(description)
         //     .addTo(map);
-        
+
       } else {
         map.getCanvas().style.cursor = '';
         // $("#hover-details").empty();
@@ -496,5 +498,3 @@ function countryTabSwitch(evt, tabName) {
       map.setLayoutProperty(countryLayers[j], 'visibility', 'visible')
     }}
 }
-
-
