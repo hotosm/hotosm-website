@@ -26,9 +26,9 @@ Over the next five years, this funding will enable HOT to scale up its support t
 
 [The Audacious Project](https://audaciousproject.org/) was inspired by the HOT community’s vision of ensuring that places home to a billion people experiencing poverty or living at risk of disaster are represented on the map over the coming five years.
 
-*>"Over the past decade, HOT has supported over 200,000 volunteers in the act of mapping an area home to more than 150 million people—and, in doing so, has provided critical data for humanitarian response to nearly 100 disasters and crises. This track record is reason enough to support, but we were compelled by HOT’s bold yet achievable vision to ensure that places that are home to one billion people—the places around the world where the risk of disaster and the reality of multidimensional poverty are at their strongest—will finally be represented.”*
+*> "Over the past decade, HOT has supported over 200,000 volunteers in the act of mapping an area home to more than 150 million people—and, in doing so, has provided critical data for humanitarian response to nearly 100 disasters and crises. This track record is reason enough to support, but we were compelled by HOT’s bold yet achievable vision to ensure that places that are home to one billion people—the places around the world where the risk of disaster and the reality of multidimensional poverty are at their strongest—will finally be represented.”*
 
-             - Anna Verghese, Executive Director of The Audacious Project at TED.
+                - Anna Verghese, Executive Director of The Audacious Project at TED.
 
 **What will we do?**
 
