@@ -10,6 +10,10 @@ Person:
 - Tyler Radford
 - Rebecca Firth
 - Gihan Hassanein
+Working Group:
+- Community
+- Fundraising
+- Governance
 Country:
 - Global
 ---
