@@ -14,9 +14,9 @@ Team:
 Press Releases:
   Nav ID: press-releases
   Articles:
-  - Title: Example 1
+  - Title: 
     Link: https://hotosm.org/
-  - Title: Example 2
+  - Title: 
     Link: https://tasks.hotosm.org/
 News:
   Articles:
