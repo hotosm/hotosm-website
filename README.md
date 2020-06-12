@@ -28,7 +28,7 @@ bundle install
 Then, start Jekyll with bundler (this resolves any dependency issues you may have):
 
 ```
-bundle exec jekyll serve -- --livereload
+bundle exec jekyll serve --incremental
 ```
 
 Finally, navigate to http://127.0.0.1:4000/ and you should see the new website!
