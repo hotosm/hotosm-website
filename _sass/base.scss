@@ -369,6 +369,10 @@ em {
   clear: both;
 }
 
+.di {
+  display: inline !important;
+}
+
 
 ////////////////////////////////////////////////
 ///////////////////// Forms ////////////////////
@@ -1643,6 +1647,41 @@ em {
         path {
           fill: shade($red, 10%);
         }
+      }
+    }
+  }
+}
+
+.media-social-links {
+  .social-item {
+    padding: 1rem 0;
+    .social-img, .social-txt {
+        display: inline-block;
+      @media (max-width: $screen-xs) {
+        display: block;
+        padding: 0.5rem 0;
+      }
+    }
+    .social-img {
+      width: 45px;
+    }
+    .social-txt {
+      @media (min-width: $screen-xs) {
+        padding-left: 2rem;
+      }
+    }
+    p {
+      line-height: 1rem;
+    }
+  }
+  a {
+    font-size: 1.375rem;
+    svg {
+      height: auto;
+      width: 45px;
+      @media (max-width: $screen-sm) {
+        height: 40px;
+        width: auto;
       }
     }
   }
@@ -3244,6 +3283,90 @@ div.mapboxgl-popup-content .project__details {
   padding: 24px;
 }
 
+
+.media-body {
+  margin-bottom: 40px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 24px;
+  }
+}
+
+.media-nav {
+  grid-column: 1 / 3;
+  margin-bottom: 24px;
+  @media (max-width: $screen-xs) {
+    padding-bottom: 24px;
+    border-bottom: 1px solid $border-color;
+  }
+  li {
+    margin-top: 12px;
+    a {
+      color: $blue-dark;
+    }
+  }
+}
+
+.media-content {
+  grid-column: 3 / -1;
+  h2 {
+    margin-bottom: 32px;
+    &:first-of-type {
+      margin-top: 0;
+    }
+  }
+  p {
+    font-size: 1rem;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  a {
+    display: block;
+  }
+  .media-contact-description {
+
+  }
+  .media-general, .media-locations, .media-persona {
+    @media (min-width: $screen-xs) {
+      display: grid;
+      grid-gap: 24px;
+    }
+  }
+  .media-general {
+    grid-template-columns: repeat(3, 1fr);
+    @media (max-width: $screen-xs) {
+      p {
+        margin-bottom: 24px;
+      }
+    }
+  }
+  .media-locations {
+    grid-template-columns: repeat(4, 1fr);
+    @media (max-width: $screen-xs) {
+      div {
+        margin-bottom: 40px;
+      }
+    }
+  }
+  .media-persona {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .roster-link {
+    display: flex;
+  }
+}
+.media-content-text {
+  @media (min-width: $screen-sm) {
+    max-width: 70%
+  }
+}
+
+.media-locations-wrap {
+  background-color: $tan;
+  padding: 24px;
+}
 
 ////////////////////////////////////////////////
 ////////////////// Page — Home /////////////////

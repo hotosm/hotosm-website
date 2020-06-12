@@ -1,0 +1,103 @@
+---
+layout: default
+---
+
+<div class="media container">
+
+  <header class="page-header">
+    <h1>{{ page.title }}</h1>
+    <div class="hr-h"></div>
+  </header>
+
+  <div class="media-body">
+
+    <nav class="media-nav">
+      <div class="sticky-wrap">
+        <h5>On this page</h5>
+        <ul>
+          <li><a href="#contacts">Media Contact</a></li>
+          <li><a href="#brand-media">Brand and Media Kit</a></li>
+          <li><a href="#social">Social</a></li>
+          <li><a href="#press-releases">Press Releases</a></li>
+          <li><a href="#news">HOT in the News</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <div id="contacts" class="media-content article">
+      <h2>Media Contact</h2>
+
+      <div class="media-team-wrap" id="team">
+        <div class="roster-list">
+          <div class="roster-list-wrapper">
+            {% assign sorted-people = site.people | sort: 'title', 'last'  %}
+            {% for person in sorted-people %}
+              {% if person['Member Type']['Is Media Contact'] %}
+                {% include blocks/roster-item.html %}
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      <div>
+        <p class="media-content-text">
+          Gihan is responsible for HOT’s media and public relations. Contact Gihan with all media enquiries and
+          to set up interviews with subject matter experts and field teams. We can also provide high resolution
+          images to accompany stories.
+        </p>
+        <p>
+          <strong>Email:</strong> <a class="di" href="communications@hotosm.org">communications@hotosm.org</a><br>
+          <strong>Phone:</strong> <a class="di" href="tel:+14387638914">+1 438 763 8914</a>
+        </p>
+      </div>
+
+      <div class="hr-h"></div>
+
+      <div id="brand-media" class="contact-general">
+        <h2>Brand and Media</h2>
+        <div class="media-content-text">
+          {{ page.Media.Details | markdownify }}
+        </div>
+      </div>
+
+      <div class="hr-h"></div>
+
+      <div id="social" class="contact-general">
+        <h2>Social</h2>
+        {% include media-social-networks.html %}
+      </div>
+
+      <div class="hr-h"></div>
+
+      <div class="anchor" id="press-releases"></div>
+      <h2>Press Releases</h2>
+      <div class="media-press-releases">
+        <div>
+          {% for presser in page['Press Releases']['Articles'] %}
+          <div>
+            <a href='{{ presser.Link }}'><h3> {{ presser.Title }} </h3></a>
+          </div>
+        {% endfor %}
+        </div>
+      </div>
+
+      <div class="hr-h"></div>
+      <div class="anchor" id="news"></div>
+      <h2>HOT in the News</h2>
+      <div class="media-news">
+        <div>
+          {% for article in page['News']['Articles'] %}
+          <div>
+            <h3><a href='{{ presser.Link }}'>{{ article.Title }}</a> - {{ article.Source }}</h3>
+          </div>
+        {% endfor %}
+        </div>
+      </div>
+
+      <div class="hr-h"></div>
+
+    </div>
+
+  </div>
+
+</div>
