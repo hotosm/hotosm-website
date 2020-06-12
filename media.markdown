@@ -23,10 +23,10 @@ News:
   - Title: Satellite Data Reveals the Pandemic's Effects From Above
     Source: Wired
     Link: https://www.wired.com/story/satellite-data-reveals-the-pandemics-effects-from-above/
-  - Title: "Mapping Makoko: How data could help legitimize Nigeria's informal settlements"
+  - Title: 'Mapping Makoko: How data could help legitimize Nigeria''s informal settlements'
     Source: Devex
     Link: https://www.devex.com/news/mapping-makoko-how-data-could-help-legitimize-nigeria-s-informal-settlements-96793
-  - Title: "Neglected and Unmapped: Makoko struggles to survive"
+  - Title: 'Neglected and Unmapped: Makoko struggles to survive'
     Source: The Guardian Nigeria
     Link: https://guardian.ng/stories/makoko-neglected-and-unmapped/
   - Title: How Makoko, Nigeria's floating slum went digital with new mapping project
@@ -53,13 +53,13 @@ News:
   - Title: What's needed to put more people on the map?
     Source: Devex
     Link: https://www.devex.com/news/what-s-needed-to-put-more-people-on-the-map-87650
-  - Title: "Missing Maps: nothing less than a human genome project for cities"
+  - Title: 'Missing Maps: nothing less than a human genome project for cities'
     Source: The Guardian
     Link: https://www.theguardian.com/cities/2014/oct/06/missing-maps-human-genome-project-unmapped-cities
   - Title: How Online Mapmakers Are Helping the Red Cross Save Lives in the Philippines
     Source: The Atlantic
     Link: https://www.theatlantic.com/technology/archive/2013/11/how-online-mapmakers-are-helping-the-red-cross-save-lives-in-the-philippines/281366/
   Nav ID: news
-
 layout: media
 ---
+
