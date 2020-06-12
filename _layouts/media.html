@@ -46,7 +46,7 @@ layout: default
           images to accompany stories.
         </p>
         <p>
-          <strong>Email:</strong> <a class="di" href="communications@hotosm.org">communications@hotosm.org</a><br>
+          <strong>Email:</strong> <a class="di" href="mailto:communications@hotosm.org">communications@hotosm.org</a><br>
           <strong>Phone:</strong> <a class="di" href="tel:+14387638914">+1 438 763 8914</a>
         </p>
       </div>
@@ -88,7 +88,7 @@ layout: default
         <div>
           {% for article in page['News']['Articles'] %}
           <div>
-            <h3><a href='{{ presser.Link }}'>{{ article.Title }}</a> - {{ article.Source }}</h3>
+            <h3><a href='{{ article.Link }}'>{{ article.Title }}</a> - {{ article.Source }}</h3>
           </div>
         {% endfor %}
         </div>
