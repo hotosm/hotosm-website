@@ -4,10 +4,10 @@ title: What if we could map one billion people currently missing from the worldâ
 date: 2020-06-12 23:50:00 Z
 published: false
 Feature Image: "/uploads/1572019Artboard%201@3x.png"
-layout: news-item
+layout: page
 ---
 
-# **# Press release**
+**# Press release**
 
 
 **WASHINGTON D.C. - 15 JUNE 2020** - Today, the Humanitarian OpenStreetMap Team (HOT) was announced as one of this yearâ€™s grantees of The Audacious Project at TED, launching a massive mobilization of one million volunteers to map an area home to one billion people in some of the most vulnerable places in the world.
