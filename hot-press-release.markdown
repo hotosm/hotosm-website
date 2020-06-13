@@ -4,7 +4,7 @@ title: What if we could map one billion people currently missing from the worldâ
 date: 2020-06-12 23:50:00 Z
 published: false
 Feature Image: "/uploads/1572019Artboard%201@3x.png"
-layout: media
+layout: news-item
 ---
 
 # **# Press release**
