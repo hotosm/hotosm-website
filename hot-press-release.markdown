@@ -25,9 +25,11 @@ All maps created by the Humanitarian OpenStreetMap Team community are available 
 ### --------
 
 **About HOT**
+
 HOT is an international team dedicated to humanitarian action and community development through open mapping. We work together to provide map data that revolutionizes disaster management, reduces risks, and contributes to achievement of the Sustainable Development Goals.
 
 **About The Audacious Project**
+
 Launched in April 2018, The Audacious Project is a collaborative funding initiative that’s catalyzing social impact on a grand scale. Housed at TED, the nonprofit devoted to Ideas Worth Spreading, and with support from leading social impact advisor The Bridgespan Group, The Audacious Project convenes funders and social entrepreneurs with the goal of supporting bold solutions to the world’s most urgent challenges. The funding collective is made up of respected organizations and individuals in philanthropy, including the Skoll Foundation, Virgin Unite, The Valhalla Charitable Foundation, The ELMA Philanthropies and more. The Audacious Project also works with the Science Philanthropy Alliance to identify and vet high-quality basic science projects. Each year The Audacious Project supports a new cohort. The 2020 recipients are ACEGID & Broad Institute, BRAC, Collins Lab, Crisis Text Line, Humanitarian OpenStreetMap Team, One Acre Fund, Project CETI, and SIRUM.
 
 **Media contact:**
