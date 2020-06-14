@@ -34,5 +34,7 @@ Launched in April 2018, The Audacious Project is a collaborative funding initiat
 
 **Media contact:**
 Ms. Gihan Hassanein
+
 Senior Communications Manager
+
 [gihan.hassanein@hotosm.org](mailto:gihan.hassanein@hotosm.org)
