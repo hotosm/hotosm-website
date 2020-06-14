@@ -25,7 +25,9 @@ HOT will continue to develop crisis response capacity and expertise and this inv
 
 * Invest in map data quality and ethical collection and use of map data
 
-* Work with humanitarian organizations, governments, and other actors to help them use OpenStreetMap to deliver more effective and efficient aid.
+* Work with humanitarian organizations, governments, and other actors to help them use OpenStreetMap to deliver more effective and efficient aid
+
+* Work more closely with the OSM community/OpenStreeMap Foundation (OSMF), supporting the community and core systems and software
 
 By 2025, communities across 94 countries vulnerable to disaster or experiencing multidimensional poverty will be visible on the map. Our goals are:
 
