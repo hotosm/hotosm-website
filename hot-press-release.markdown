@@ -1,7 +1,7 @@
 ---
 title: What if we could map one billion people currently missing from the world’s
   maps?
-date: 2020-06-15 09:00:00 Z
+date: 2020-06-17 09:00:00 Z
 published: false
 Person:
 - Gihan Hassanein
