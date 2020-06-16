@@ -6,6 +6,7 @@ Photo: "/uploads/Carly%20Redhead%20Profile%20Photo.jpeg"
 Member Type:
   Is Staff: true
 Job Title: Partnerships Manager
+Country: United Kingdom
 Social Media (Full URL):
   Twitter: https://twitter.com/CarlyRedhead
   LinkedIn: https://www.linkedin.com/in/carly-redhead/
