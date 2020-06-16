@@ -1,7 +1,7 @@
 ---
 title: What if we could map one billion people currently missing from the world’s
   maps?
-date: 2020-06-15 09:00:00 Z
+date: 2020-06-17 21:06:00 Z
 Summary Text: We are honored and excited to announce that the HOT community is one
   of eight recipients of funding from The Audacious Project, a collaborative philanthropic
   initiative that serves as a springboard for social impact on a grand scale.
