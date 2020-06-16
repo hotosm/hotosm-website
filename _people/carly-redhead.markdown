@@ -1,11 +1,12 @@
 ---
 title: Carly Redhead
 date: 2020-06-16 14:59:00 Z
-published: false
 Photo: "/uploads/Carly%20Redhead%20Profile%20Photo.jpeg"
 Member Type:
   Is Staff: true
 Job Title: Partnerships Manager
+Working Group:
+- Community
 Country: United Kingdom
 Social Media (Full URL):
   Twitter: https://twitter.com/CarlyRedhead
