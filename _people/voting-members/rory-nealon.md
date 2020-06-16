@@ -6,6 +6,7 @@ Member Type:
   Is Voting Member: true
 Country: United States
 Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Rory%20Nealon
   Twitter: https://twitter.com/notoncebut2x
 ---
 
