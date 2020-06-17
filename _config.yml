@@ -58,6 +58,10 @@ collections:
     title: Working Groups
     output: true
     permalink: "/community/working-groups/:path/"
+  press-releases:
+    title: Press Releases
+    output: true
+    permalink: "press-releases/:path/"
 defaults:
 - scope:
     path: ''
@@ -184,6 +188,15 @@ defaults:
     Place of Work: 
     Deadline Date: 
     Apply Form Link: 
+- scope:
+    path: ''
+    type: press-releases
+  values:
+    layout: press-release
+    Person:
+    - ''
+    Project:
+    - ''
 future: true
 email: info@hotosm.org
 description: Write an awesome description for your new site here. You can edit this
