@@ -12,10 +12,9 @@ layout: faq
 
 ## In response to questions raised by members of the HOT Community, these Frequently Asked Questions (FAQs) give further insight into HOT’s Audacious Project work over the next five years. This page will be updated as more questions are asked.
 
-
 # About The Audacious Project
 
-**What is the Audacious Project?**
+### What is the Audacious Project?
 
 The Audacious Project is a collaborative approach to funding big ideas with the potential to create change at a thrilling scale. Housed at TED, The Audacious Project is a collaborative funding initiative that is unlocking social impact on a grand scale. Every year the Audacious Project selects and nurtures a group of big, bold solutions to the world’s most urgent challenges, and with the support of an inspiring group of donors and supporters come together to get them launched. The Audacious Project is not a fund that grants money directly, it matches big social impact ideas with philanthropists.
 
@@ -61,18 +60,17 @@ Over the next five years, HOT plans to work in 94 countries, which are broken do
 
 During the regional hub inception phase, the list of countries a hub will work in will be reviewed and adapted. Before HOT begins supporting mapping work in a country, the hub will confirm which part of that country will be the priority for the project. A preliminary list of the countries where HOT will work will be posted on hotosm.org by July 2020. It is expected that the preliminary list may change slightly over time due to Covid-19, analysis/recommendations by HOT regional staff, donor requirements, or other reasons.
 
-
 # The Audacious Project and OpenStreetMap
 
 **What does this mean for OpenStreetMap (as a project and global community)?**
 
-Audacious Project donors are making a powerful statement in the value of open data and open source through their investment, confirming our shared belief that the world’s map should be owned by the world’s people. We see this as a big “win” for the OpenStreetMap ecosystem as a whole by promoting and affirming the value of free and open data. As a part of the OSM community, HOT reaffirms our commitment to the continued success of the OpenStreetMap project. 
+Audacious Project donors are making a powerful statement in the value of open data and open source through their investment, confirming our shared belief that the world’s map should be owned by the world’s people. We see this as a big “win” for the OpenStreetMap ecosystem as a whole by promoting and affirming the value of free and open data. As a part of the OSM community, HOT reaffirms our commitment to the continued success of the OpenStreetMap project.
 
 **What does this mean for OSMF?**
 
 HOT commits to working even more closely with OSMF. This may include HOT community members and staff supporting OSMF working groups, making contributions to OSM core systems and software, and other forms of collaboration that are beneficial to the Foundation and HOT. HOT looks forward to continuing dialogue with the OSMF Board and membership on how we might strengthen our collaboration.
 
-How will HOT support open source, open data and open principles with this grant? 
+How will HOT support open source, open data and open principles with this grant?
 
 Open source, open data, and open principles have been core to HOT’s culture and thinking from Day 1. This is not only about avoidance of duplication: with open source/data, we are standing on one another’s shoulders and all achieve vastly greater things. All of HOT’s mapping and data collection projects focus on generating or contributing to free and open data sets in OpenStreetMap. All software development undertaken by HOT and our partners is released under open source licenses. Importantly, the process of development is undertaken in an open way: code in the open, contributors from multiple organizations, community review and feedback. Software development and HOT’s community in general operates with a spirit of transparency, participation, and collaboration. And, in 2018, HOT endorsed the [Principles for Digital Development](https://www.hotosm.org/updates/hot-endorses-the-principles-for-digital-development/) to formalize our commitment as part of the international development community.
 
@@ -83,7 +81,6 @@ Audacious Project donor investment will enable us to support OpenStreetMap commu
 **How will HOT support and uphold OSM community guidance and norms such as import guidelines and organized editing guidelines?**
 
 Under the Audacious Project, the HOT community will be mapping quite heavily in OpenStreetMap, often through organized campaigns, in a significant number of countries. We want to ensure this mapping is done responsibly: including that the data produced by our community is of high quality. For this reason, we are making specific, targeted investment in building a new responsible data team, with analysts in all regions in which we’ll work. This team will develop data quality strategy, support the community, and monitor/report on data quality. Presently, HOT is also working on processes and procedures to increase our global community’s adherence to the organized editing guidelines. The new data team will also serve the entire OpenStreetMap and humanitarian mapping community by developing practical guidance in responsible & ethical data collection, consent, protection, privacy, storage, use, and analysis.
-
 
 # The Audacious Project, HOT’s regionalization and sustainability
 
@@ -202,4 +199,3 @@ Predicting the longer term impact of the Covid-19 pandemic is difficult for any 
 <!-- this is the embed code provided by Google -->
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSb6I7FmmP9MQA2nSQ8oecOhv8wHJ6YAG9XOBZYKAgBFYF4EoP1DqlyB1y5UifKQuO7uXl7szWng14b/embed?start=false&loop=false&delayms=10000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
-
