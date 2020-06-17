@@ -40,6 +40,7 @@ Our core values (collaboration, volunteerism, inclusivity, independence, people 
 What WILL change are some of the ways we do our work. Some of the changes we expect are:
 
 We’ll decentralize: more decisions will happen in each region including in regional “hub” offices. We’ll open regional hub offices in four locations in the following regions: East Africa, West Africa, Asia and Pacific, and Latin America and the Caribbean.
+
 We’ll renew our focus on enabling local map contributions through everything we do, investing in mobile-first tools, supporting emerging OpenStreetMap communities in new countries and strengthening those we already work with. This will mean new roles focused on community support, both online and offline.
 We’ll get the help we need to function and work effectively as a global team, including adding team members to our finance and operations teams, and hiring our first-ever human resources/talent management and monitoring/impact evaluation roles.
 
@@ -71,13 +72,16 @@ Priority cities in each region were assessed by evaluating candidate cities agai
 * Cost of living
 * The HOT management team also consulted with a representative sample of staff in each region to understand their perspectives, questions, concerns and willingness to relocate or work remotely.
 
-**Manila: **
+**Manila:**
+
 * Easy transport links for priority countries within the region 
 * Significant number of other INGO offices for the region, general INGO openness e.g. HQ of Asia Development Bank, WHO
 * Secure working context
 * Ease of visas/entry for non-nationals
 * HOT registered as a legal entity in the Philippines
-**Nairobi: **
+
+**Nairobi:**
+
 * Easy transport links for priority countries within the region & ease of work for East Africa Community nationals
 * Significant number of other INGO offices for the region, and general INGO openness. E.g. UNON, UN Habitat, OCHA/HDX, GPSDD
 * Strong technology start up community
