@@ -2,13 +2,6 @@
 title: Media Enquiries
 date: 2018-02-06 15:16:00 Z
 position: 12
-Media:
-  Details: "\nAre you looking to report about HOT, use our logo, or share about the
-    organization? You can find versions of our logo, photos, and recent articles:\n
-    \n[Logo, colors, and fonts](https://github.com/hotosm/hotosm-website/wiki/Colors-Fonts-and-Logo)\n[Photos
-    from HOT activities](https://www.flickr.com/photos/hotosm/)\n[Photos from Missing
-    Maps](https://www.flickr.com/photos/126636925@N06/)\n"
-  Nav ID: contacts
 Team:
   Nav ID: team
 Press Releases:
