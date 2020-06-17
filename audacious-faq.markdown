@@ -12,7 +12,8 @@ layout: faq
 
 ## In response to questions raised by members of the HOT Community, these Frequently Asked Questions (FAQs) give further insight into HOT’s Audacious Project work over the next five years. This page will be updated as more questions are asked.
 
-# About The Audacious Project
+
+**# About The Audacious Project**
 
 ## What is the Audacious Project?
 
@@ -61,7 +62,7 @@ Over the next five years, HOT plans to work in 94 countries, which are broken do
 During the regional hub inception phase, the list of countries a hub will work in will be reviewed and adapted. Before HOT begins supporting mapping work in a country, the hub will confirm which part of that country will be the priority for the project. A preliminary list of the countries where HOT will work will be posted on hotosm.org by July 2020. It is expected that the preliminary list may change slightly over time due to Covid-19, analysis/recommendations by HOT regional staff, donor requirements, or other reasons.
 
 
-# The Audacious Project and OpenStreetMap
+**# The Audacious Project and OpenStreetMap**
 
 ## What does this mean for OpenStreetMap (as a project and global community)?
 
@@ -84,7 +85,7 @@ Audacious Project donor investment will enable us to support OpenStreetMap commu
 Under the Audacious Project, the HOT community will be mapping quite heavily in OpenStreetMap, often through organized campaigns, in a significant number of countries. We want to ensure this mapping is done responsibly: including that the data produced by our community is of high quality. For this reason, we are making specific, targeted investment in building a new responsible data team, with analysts in all regions in which we’ll work. This team will develop data quality strategy, support the community, and monitor/report on data quality. Presently, HOT is also working on processes and procedures to increase our global community’s adherence to the organized editing guidelines. The new data team will also serve the entire OpenStreetMap and humanitarian mapping community by developing practical guidance in responsible & ethical data collection, consent, protection, privacy, storage, use, and analysis.
 
 
-# The Audacious Project, HOT’s regionalization and sustainability
+**# The Audacious Project, HOT’s regionalization and sustainability**
 
 ## How will HOT change?
 
