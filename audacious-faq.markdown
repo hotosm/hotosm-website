@@ -11,7 +11,7 @@ layout: page
 
 ## **In response to questions raised by members of the HOT Community, these Frequently Asked Questions (FAQs) give further insight into HOT’s Audacious Project work over the next five years. This page will be updated as more questions are asked.**
 
-## 
+
 
 # What is the Audacious Project?
 
