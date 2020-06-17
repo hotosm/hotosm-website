@@ -1,6 +1,6 @@
 ---
 title: HOT's Audacious Project
-date: 2020-06-17 21:40:00 Z
+date: 2020-07-01 21:40:00 Z
 published: false
 Project Summary Text: The HOT community received funding from The Audacious Project,
   a collaborative philanthropic initiative that serves as a springboard for social
