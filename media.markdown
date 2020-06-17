@@ -26,6 +26,9 @@ News:
   - Title: How Makoko, Nigeria's floating slum went digital with new mapping project
     Source: CNN
     Link: https://edition.cnn.com/2020/02/26/africa/nigeria-makoko-mapping-intl/index.html
+  - Title: After Hurricane Dorian, The 'Wikipedia Of Maps' Came To The Rescue
+    Source: NPR - Goats and Soda
+    Link: https://www.npr.org/sections/goatsandsoda/2019/10/03/765783296/after-hurricane-dorian-the-wikipedia-of-maps-came-to-the-rescue?utm_campaign=npr&utm_medium=social&utm_term=nprnews&utm_source=twitter.com
   - Title: How Bididi Became a City
     Source: National Geographic
     Link: https://www.nationalgeographic.com/magazine/2019/04/how-bidibidi-uganda-refugee-camp-became-city/
