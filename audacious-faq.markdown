@@ -22,7 +22,7 @@ The Audacious Project started in 2018 and is now in its third round. HOT is one 
 
 # What is HOT’s Audacious vision?
 
-Our Audacious vision is** to engage one million volunteers to map an area home to one billion people living in poverty and at high risk of disaster in 94 countries**. We will reach this scale by pursuing four activities:
+Our Audacious vision is **to engage one million volunteers to map an area home to one billion people living in poverty and at high risk of disaster in 94 countries**. We will reach this scale by pursuing four activities:
 
 **First**, we will grow our global volunteer contributor community by adding regional “hubs” to the existing network of OpenStreetMap communities in each region. Hubs will act as connectors to facilitate exchange of ideas and expertise across countries and provide financial and technical support to OSM communities in 94 countries (20-25 per region).
 
@@ -171,6 +171,12 @@ Both HOT’s staffing structure and funding streams will scale up rapidly in Yea
 
 Predicting the longer term impact of the Covid-19 pandemic is difficult for any organization. This project will bring additional financial security to HOT over the coming years, as it is a five year project. Additionally, the global nature of the Covid-19 pandemic reinforces the importance of HOT taking on an ambitious global project. HOT’s mission, to work towards a world where everyone is counted, data is accessible and used, and anyone can engage and contribute to the map, has never been more relevant.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSb6I7FmmP9MQA2nSQ8oecOhv8wHJ6YAG9XOBZYKAgBFYF4EoP1DqlyB1y5UifKQuO7uXl7szWng14b/embed?start=false&loop=false&delayms=10000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
 
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSb6I7FmmP9MQA2nSQ8oecOhv8wHJ6YAG9XOBZYKAgBFYF4EoP1DqlyB1y5UifKQuO7uXl7szWng14b/embed?start=false&loop=false&delayms=10000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
