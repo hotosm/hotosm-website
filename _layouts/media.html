@@ -16,10 +16,9 @@ layout: default
         <h5>On this page</h5>
         <ul>
           <li><a href="#contacts">Media Contact</a></li>
-          <li><a href="#brand-media">Brand and Media Kit</a></li>
-          <li><a href="#social">Social</a></li>
           <li><a href="#press-releases">Press Releases</a></li>
           <li><a href="#news">HOT in the News</a></li>
+          <li><a href="#social">Social</a></li>
         </ul>
       </div>
     </nav>
@@ -53,22 +52,6 @@ layout: default
 
       <div class="hr-h"></div>
 
-      <div id="brand-media" class="contact-general">
-        <h2>Brand and Media</h2>
-        <div class="media-content-text">
-          {{ page.Media.Details | markdownify }}
-        </div>
-      </div>
-
-      <div class="hr-h"></div>
-
-      <div id="social" class="contact-general">
-        <h2>Social</h2>
-        {% include media-social-networks.html %}
-      </div>
-
-      <div class="hr-h"></div>
-
       <div class="anchor" id="press-releases"></div>
       <h2>Press Releases</h2>
       <div class="media-press-releases">
@@ -82,6 +65,7 @@ layout: default
       </div>
 
       <div class="hr-h"></div>
+
       <div class="anchor" id="news"></div>
       <h2>HOT in the News</h2>
       <div class="media-news">
@@ -92,6 +76,13 @@ layout: default
           </div>
         {% endfor %}
         </div>
+      </div>
+
+      <div class="hr-h"></div>
+
+      <div id="social" class="contact-general">
+        <h2>Social</h2>
+        {% include media-social-networks.html %}
       </div>
 
       <div class="hr-h"></div>
