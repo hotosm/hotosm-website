@@ -5,6 +5,8 @@ date: 2020-06-17 09:00:00 Z
 published: false
 Person:
 - Gihan Hassanein
+Project:
+- HOT's Audacious Project
 layout: page
 ---
 
@@ -35,5 +37,7 @@ Launched in April 2018, The Audacious Project is a collaborative funding initiat
 **Media contact:**
 
 Ms. Gihan Hassanein
+
 Senior Communications Manager
+
 [gihan.hassanein@hotosm.org](mailto:gihan.hassanein@hotosm.org)
