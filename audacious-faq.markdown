@@ -171,3 +171,5 @@ Both HOT’s staffing structure and funding streams will scale up rapidly in Yea
 Predicting the longer term impact of the Covid-19 pandemic is difficult for any organization. This project will bring additional financial security to HOT over the coming years, as it is a five year project. Additionally, the global nature of the Covid-19 pandemic reinforces the importance of HOT taking on an ambitious global project. HOT’s mission, to work towards a world where everyone is counted, data is accessible and used, and anyone can engage and contribute to the map, has never been more relevant.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSb6I7FmmP9MQA2nSQ8oecOhv8wHJ6YAG9XOBZYKAgBFYF4EoP1DqlyB1y5UifKQuO7uXl7szWng14b/embed?start=false&loop=false&delayms=10000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
