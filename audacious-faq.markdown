@@ -9,23 +9,23 @@ layout: page
 
 The Audacious Project is a collaborative approach to funding big ideas with the potential to create change at a thrilling scale. Housed at TED, The Audacious Project is a collaborative funding initiative that is unlocking social impact on a grand scale. Every year the Audacious Project selects and nurtures a group of big, bold solutions to the world’s most urgent challenges, and with the support of an inspiring group of donors and supporters come together to get them launched. The Audacious Project is not a fund that grants money directly, it matches big social impact ideas with philanthropists.
 
-The Audacious Project started in 2018 and is now in its third round. HOT is one of eight organizations selected by the Audacious Project in 2020. More about the Audacious Project
+The Audacious Project started in 2018 and is now in its third round. HOT is one of eight organizations selected by the Audacious Project in 2020. [More about the Audacious Project](https://audaciousproject.org/about)
 
 # What is HOT’s Audacious vision?
 
 Our Audacious vision is to engage one million volunteers to map an area home to one billion people living in poverty and at high risk of disaster in 94 countries. We will reach this scale by pursuing four activities:
 
-First, we will grow our global volunteer contributor community by adding regional “hubs” to the existing network of OpenStreetMap communities in each region. Hubs will act as connectors to facilitate exchange of ideas and expertise across countries and provide financial and technical support to OSM communities in 94 countries (20-25 per region).
+**First**, we will grow our global volunteer contributor community by adding regional “hubs” to the existing network of OpenStreetMap communities in each region. Hubs will act as connectors to facilitate exchange of ideas and expertise across countries and provide financial and technical support to OSM communities in 94 countries (20-25 per region).
 
-Second, we’ll make significant investments in technology that enhances mapping contributions on mobile to enable scaling of local contributions to OpenStreetMap.
+**Second**, we’ll make significant investments in technology that enhances mapping contributions on mobile to enable scaling of local contributions to OpenStreetMap.
 
-Third, we’ll invest in map data quality and ethical collection and use of map data.
+**Third**, we’ll invest in map data quality and ethical collection and use of map data.
 
-Fourth, we’ll ensure the data we create has a tangible impact by expanding our national and regional partnerships with humanitarian organizations, governments, and other actors to help them use OpenStreetMap to deliver more effective and efficient aid. 
+**Fourth**, we’ll ensure the data we create has a tangible impact by expanding our national and regional partnerships with humanitarian organizations, governments, and other actors to help them use OpenStreetMap to deliver more effective and efficient aid.
 
 This is a fundamental re-focusing of our priorities toward local map contributions. Remote contributors will continue to make up part of the overall one million contributors, but HOT will devote significant resources toward local communities, with the HOT global team developing tools, training, and providing support that makes it all possible.
 
-Over five years, we will proactively build a map of the world that includes some of the highest-risk places for the very first time. With this open, up-to-date, free, and digital public good, information will be readily available to make better and faster decisions. As a result, missing maps will no longer be a factor in human suffering or loss of life. 
+Over five years, we will proactively build a map of the world that includes some of the highest-risk places for the very first time. With this open, up-to-date, free, and digital public good, information will be readily available to make better and faster decisions. As a result, missing maps will no longer be a factor in human suffering or loss of life.
 
 # When does this start and how long does it run for?
 
@@ -33,7 +33,7 @@ Audacious Project donors have made a five year commitment to HOT, beginning July
 
 # How will HOT change?
 
-The Audacious Project will provide funding for our team and OpenStreetMap communities to achieve the big dreams and vision that our community agreed on last year in our Strategic Plan. 
+The Audacious Project will provide funding for our team and OpenStreetMap communities to achieve the big dreams and vision that our community agreed on last year in our Strategic Plan.
 
 Our core values (collaboration, volunteerism, inclusivity, independence, people first, local first, openness & transparency, innovation, and hacktivism) will NOT change.
 
@@ -55,44 +55,63 @@ In total, Audacious donor funding will support 115 staff. This number is in addi
 # Where will HOT’s regional offices or “hubs” be located?
 
 * Asia/Pacific: Manila, Philippines
+
 * East Africa: Nairobi, Kenya
+
 * West Africa: To be determined
+
 * Latin America/Caribbean: To be determined
 
 # How were the hub locations selected?
 
 Priority cities in each region were assessed by evaluating candidate cities against 18 criteria. These criteria include but are not limited to:
 
-* Regional travel accessibility (incl. visas, flights, etc.) 
+* Regional travel accessibility (incl. visas, flights, etc.)
+
 * Talent pool (OSM, working language, existing HOT presence, educational indicators)
+
 * Other NGO/INGO presence and regional offices
+
 * Ease of establishing, doing business & transparency indicators
-* Internet connectivity 
+
+* Internet connectivity
+
 * Safety & security, security for NGO/INGO workers
+
 * Cost of living
+
 * The HOT management team also consulted with a representative sample of staff in each region to understand their perspectives, questions, concerns and willingness to relocate or work remotely.
 
 **Manila:**
 
-* Easy transport links for priority countries within the region 
+* Easy transport links for priority countries within the region
+
 * Significant number of other INGO offices for the region, general INGO openness e.g. HQ of Asia Development Bank, WHO
+
 * Secure working context
+
 * Ease of visas/entry for non-nationals
+
 * HOT registered as a legal entity in the Philippines
 
 **Nairobi:**
 
 * Easy transport links for priority countries within the region & ease of work for East Africa Community nationals
+
 * Significant number of other INGO offices for the region, and general INGO openness. E.g. UNON, UN Habitat, OCHA/HDX, GPSDD
+
 * Strong technology start up community
 
 # Why wasn't an existing HOT location selected for the East Africa Hub?
 
-In the case of East Africa, for Nairobi, in particular, the ease of access (air transport hub for the region), potential for regional partnerships and existing NGO & tech start-up communities presented the greatest potential for achieving HOT’s goals in the region, including: 
+In the case of East Africa, for Nairobi, in particular, the ease of access (air transport hub for the region), potential for regional partnerships and existing NGO & tech start-up communities presented the greatest potential for achieving HOT’s goals in the region, including:
 
 * Support the growth and capacity of mapping communities in target countries
+
 * Provide online and in-person training to mapping communities and regional partners
+
 * Develop regional partnerships and broker requests with governments and NGOs
+
 * Administer Microgrants to develop and support mapping communities
 
 # What will be the structure of the people working in the hub?
