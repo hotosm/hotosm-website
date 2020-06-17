@@ -5,8 +5,8 @@ published: false
 Project:
 - HOT's Audacious Project
 Person:
-- Rebecca Firth
 - Tyler Radford
+- Rebecca Firth
 layout: page
 ---
 
