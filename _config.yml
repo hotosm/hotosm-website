@@ -28,6 +28,10 @@ collections:
     title: People
     output: true
     permalink: "/people/:title/"
+  press-releases:
+    title: Press Releases
+    output: true
+    permalink: press-releases/:path/
   projects:
     title: Projects
     output: true
@@ -58,10 +62,6 @@ collections:
     title: Working Groups
     output: true
     permalink: "/community/working-groups/:path/"
-  press-releases:
-    title: Press Releases
-    output: true
-    permalink: "press-releases/:path/"
 defaults:
 - scope:
     path: ''
