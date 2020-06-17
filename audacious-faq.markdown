@@ -17,7 +17,7 @@ The Audacious Project started in 2018 and is now in its third round. HOT is one 
 
 # What is HOT’s Audacious vision?
 
-Our Audacious vision is to engage one million volunteers to map an area home to one billion people living in poverty and at high risk of disaster in 94 countries. We will reach this scale by pursuing four activities:
+Our Audacious vision is** to engage one million volunteers to map an area home to one billion people living in poverty and at high risk of disaster in 94 countries**. We will reach this scale by pursuing four activities:
 
 **First**, we will grow our global volunteer contributor community by adding regional “hubs” to the existing network of OpenStreetMap communities in each region. Hubs will act as connectors to facilitate exchange of ideas and expertise across countries and provide financial and technical support to OSM communities in 94 countries (20-25 per region).
 
@@ -37,7 +37,7 @@ Audacious Project donors have made a five year commitment to HOT, beginning July
 
 # How will HOT change?
 
-The Audacious Project will provide funding for our team and OpenStreetMap communities to achieve the big dreams and vision that our community agreed on last year in our Strategic Plan.
+The Audacious Project will provide funding for our team and OpenStreetMap communities to achieve the big dreams and vision that our community agreed on last year in our [Strategic Plan](https://www.hotosm.org/strategic-plan).
 
 Our core values (collaboration, volunteerism, inclusivity, independence, people first, local first, openness & transparency, innovation, and hacktivism) will NOT change.
 
@@ -110,13 +110,13 @@ Priority cities in each region were assessed by evaluating candidate cities agai
 
 In the case of East Africa, for Nairobi, in particular, the ease of access (air transport hub for the region), potential for regional partnerships and existing NGO & tech start-up communities presented the greatest potential for achieving HOT’s goals in the region, including:
 
-* Support the growth and capacity of mapping communities in target countries
+* **Support the growth and capacity of mapping communities** in target countries
 
-* Provide online and in-person training to mapping communities and regional partners
+* **Provide online and in-person training** to mapping communities and regional partners
 
-* Develop regional partnerships and broker requests with governments and NGOs
+* **Develop regional partnerships** and broker requests with governments and NGOs
 
-* Administer Microgrants to develop and support mapping communities
+* **Administer Microgrants** to develop and support mapping communities
 
 # What will be the structure of the people working in the hub?
 
