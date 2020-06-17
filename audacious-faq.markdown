@@ -9,6 +9,10 @@ Person:
 layout: page
 ---
 
+## **In response to questions raised by members of the HOT Community, these Frequently Asked Questions (FAQs) give further insight into HOT’s Audacious Project work over the next five years. This page will be updated as more questions are asked.**
+
+## 
+
 # What is the Audacious Project?
 
 The Audacious Project is a collaborative approach to funding big ideas with the potential to create change at a thrilling scale. Housed at TED, The Audacious Project is a collaborative funding initiative that is unlocking social impact on a grand scale. Every year the Audacious Project selects and nurtures a group of big, bold solutions to the world’s most urgent challenges, and with the support of an inspiring group of donors and supporters come together to get them launched. The Audacious Project is not a fund that grants money directly, it matches big social impact ideas with philanthropists.
@@ -130,7 +134,7 @@ A major priority is to maintain and improve the great culture that we’ve built
 
 HOT received a significant investment from several donors including [The ELMA Philanthropies](https://www.elmaphilanthropies.org/), [the Skoll Foundation](https://skoll.org/), [Pivotal Ventures](https://www.pivotalventures.org/), [Rippleworks](http://www.rippleworks.org/) and private donors. This investment is spread over five years, and it will help us achieve our big vision. The Audacious Project supports organizations at various funding levels and sizes, and HOT is one of the smaller projects that is being supported this year. HOT’s Audacious project is not yet fully funded, meaning the total funding amount is not yet confirmed, and HOT still needs to raise additional funds to realize this vision by 2025.
 
-We’ll continue to operate as we always have, in a lean, cost-conscious way to maximize the value to the organizations and communities we serve. HOT will also continue to report openly on our spending via our annual report, public tax filing, and financial statements. These are published annually on HOT’s website www.hotosm.org. As HOT receives funds, the breakdown on how these will be allocated is available on slide 35 of the “Achieving our Strategic Plan” presentation.
+We’ll continue to operate as we always have, in a lean, cost-conscious way to maximize the value to the organizations and communities we serve. HOT will also continue to report openly on our spending via our annual report, public tax filing, and financial statements. These are published annually on [HOT’s website](http://www.hotosm.org). As HOT receives funds, the breakdown on how these will be allocated is available on slide 35 of the “Achieving our Strategic Plan” presentation.
 
 # Which countries will the funding support?
 
