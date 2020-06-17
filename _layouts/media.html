@@ -56,9 +56,9 @@ layout: default
       <h2>Press Releases</h2>
       <div class="media-press-releases">
         <div>
-          {% for presser in page['Press Releases']['Articles'] %}
+          {% for presser in site.press-releases %}
           <div>
-            <a href='{{ presser.Link }}'><h3> {{ presser.Title }} </h3></a>
+            <a href='{{ presser.permalink }}'><h3> {{ presser.title }} </h3></a>
           </div>
         {% endfor %}
         </div>

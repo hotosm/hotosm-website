@@ -4,14 +4,6 @@ date: 2018-02-06 15:16:00 Z
 position: 12
 Team:
   Nav ID: team
-Press Releases:
-  Nav ID: press-releases
-  Articles:
-  - Title: What if we could map one billion people currently missing from the world’s
-      maps?
-    Link: https://hotosm.org/
-  - Title: 
-    Link: https://tasks.hotosm.org/
 News:
   Articles:
   - Title: Satellite Data Reveals the Pandemic's Effects From Above
