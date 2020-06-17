@@ -1,7 +1,7 @@
 ---
 title: What if we could map one billion people currently missing from the world’s
   maps?
-date: 2020-06-17 09:00:00 Z
+date: 2020-06-18 09:00:00 Z
 Person:
 - Gihan Hassanein
 Project:
@@ -25,7 +25,6 @@ All maps created by the Humanitarian OpenStreetMap Team community are available 
 **About HOT**
 
 HOT is an international team dedicated to humanitarian action and community development through open mapping. We work together to provide map data that revolutionizes disaster management, reduces risks, and contributes to achievement of the Sustainable Development Goals.
-
 
 **Media contact:**
 
