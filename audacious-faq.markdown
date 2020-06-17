@@ -6,7 +6,8 @@ Project:
 - HOT's Audacious Project
 Person:
 - Rebecca Firth
-layout: faq
+- Tyler Radford
+layout: page
 ---
 
 ## In response to questions raised by members of the HOT Community, these Frequently Asked Questions (FAQs) give further insight into HOT’s Audacious Project work over the next five years. This page will be updated as more questions are asked.
