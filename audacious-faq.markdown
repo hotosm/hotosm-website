@@ -99,7 +99,7 @@ We’ll decentralize: more decisions will happen in each region including in reg
 We’ll renew our focus on enabling local map contributions through everything we do, investing in mobile-first tools, supporting emerging OpenStreetMap communities in new countries and strengthening those we already work with. This will mean new roles focused on community support, both online and offline.
 We’ll get the help we need to function and work effectively as a global team, including adding team members to our finance and operations teams, and hiring our first-ever human resources/talent management and monitoring/impact evaluation roles.
 
-# How many people will be added to the HOT team?
+## How many people will be added to the HOT team?
 
 In year 1 (from July 2020 to June 2021) we’ll hire approximately 47 staff working in regional hubs in East Africa and Asia as well as some on the Global Headquarters (HQ) team. Some of the new full-time roles require skills that our current contract-based staff already have, and will be filled from staff moving over after their current projects end. Other types of roles are new within HOT, so we’ll need to recruit both from the HOT/OSM community and externally.
 
@@ -157,7 +157,7 @@ Priority cities in each region were assessed by evaluating candidate cities agai
 
 * Strong technology start up community
 
-# Why wasn't an existing HOT location selected for the East Africa Hub?
+## Why wasn't an existing HOT location selected for the East Africa Hub?
 
 In the case of East Africa, for Nairobi, in particular, the ease of access (air transport hub for the region), potential for regional partnerships and existing NGO & tech start-up communities presented the greatest potential for achieving HOT’s goals in the region, including:
 
@@ -169,27 +169,27 @@ In the case of East Africa, for Nairobi, in particular, the ease of access (air 
 
 * **Administer Microgrants** to develop and support mapping communities
 
-# What will be the structure of the people working in the hub?
+## What will be the structure of the people working in the hub?
 
 We have an initial draft of positions, but are still working out some details around responsibilities and structure. We expect a team of approximately 13 staff working in each hub.
 
-# How will new staff affect current structures?
+## How will new staff affect current structures?
 
 A major priority is to maintain and improve the great culture that we’ve built within HOT. Like we’ve always done, we’ll need to help new staff adapt to our culture and working style. We do expect teams will change and grow. In addition to the new regional office locations, you’ll see a more robust operations team both for HOT’s Global HQ and in the regions.
 
-# Is this a project or is it a restructuring of the organization?
+## Is this a project or is it a restructuring of the organization?
 
 HOT is not changing our strategic plan. Funding from Audacious Project donors will help us achieve that plan in a bigger and faster way than we initially imagined. Everything we do over the next five years will be working together as a team toward achieving that plan. Our current fee-for-service mapping and training projects with existing donors will continue as an important part of that plan, since they contribute toward the 1 billion goal and other targets in the plan.
 
-# Why is the plan to create hubs rather than reinforcing a decentralized multilingual global team to support the countries/communities?
+## Why is the plan to create hubs rather than reinforcing a decentralized multilingual global team to support the countries/communities?
 
 We see hubs as physical (and virtual) centers of collaboration which will complement, not replace, the already-existing multilingual global team of staff and members. This does not mean that all HOT staff will be required to work out of a physical hub - we’ll continue to emphasize remote and flexible work arrangements where it makes sense to do so. Physical hub locations, however, do offer the advantage of being able to decentralize decision making to teams in the region, as opposed to all program implementation being led by HQ. Hubs will not simply be office locations where staff work, but rather points where convening, training, and partner connections happen. In their role as physical gathering points, hubs will be open to, and serve the entire OSM community in a region. We look forward to hearing ideas from the OSM community on how these locations can support their activities.
 
-# What happens after Year 5?
+## What happens after Year 5?
 
 Both HOT’s staffing structure and funding streams will scale up rapidly in Year 1 and continue scaling into Year 2, then stabilize over the five years. Our goal is that HOT’s costs will not continue to grow indefinitely. HOT will become increasingly financially sustainable over time (as it also is, currently), as costs stabilize and revenue generating activities increase. We will continue generating our own revenue through fee-for-service mapping and training projects led both by HQ and regional offices. There is flexibility in the size and shape of regional hubs after Year 5 and there are several pathways for hub financial sustainability.
 
-# How will Covid-19 affect this project?
+## How will Covid-19 affect this project?
 
 Predicting the longer term impact of the Covid-19 pandemic is difficult for any organization. This project will bring additional financial security to HOT over the coming years, as it is a five year project. Additionally, the global nature of the Covid-19 pandemic reinforces the importance of HOT taking on an ambitious global project. HOT’s mission, to work towards a world where everyone is counted, data is accessible and used, and anyone can engage and contribute to the map, has never been more relevant.
 
