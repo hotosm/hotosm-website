@@ -11,11 +11,13 @@ Person:
 - Rebecca Firth
 - Gihan Hassanein
 Working Group:
-- Community
-- Fundraising
-- Governance
+- 
+- 
+- 
 Country:
 - Global
+Project:
+- Audacious Project
 ---
 
 The funding recognizes the essential work that HOT and [OpenStreetMap](https://www.openstreetmap.org) communities have been doing for years, adding one village, one road, one hospital at a time to OpenStreetMap, in order to build OpenStreetMap into the “go to” map in parts of the world that other maps don’t reach.
