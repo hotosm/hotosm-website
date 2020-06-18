@@ -2,10 +2,11 @@
 title: Sudan
 continent: AF
 urlname: sudan
-audacious: True
+audacious: true
 names:
 - Sudan
 - Republic of the Sudan
 - SD
 - SDN
 ---
+

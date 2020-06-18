@@ -2,10 +2,11 @@
 title: India
 continent: AS
 urlname: india
-audacious: True
+audacious: true
 names:
 - India
 - Republic of India
 - IN
 - IND
 ---
+

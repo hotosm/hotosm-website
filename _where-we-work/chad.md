@@ -2,10 +2,11 @@
 title: Chad
 continent: AF
 urlname: chad
-audacious: True
+audacious: true
 names:
 - Chad
 - Republic of Chad
 - TD
 - TCD
 ---
+

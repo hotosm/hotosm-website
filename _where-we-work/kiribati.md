@@ -2,10 +2,11 @@
 title: Kiribati
 continent: OC
 urlname: kiribati
-audacious: True
+audacious: true
 names:
 - Kiribati
 - Republic of Kiribati
 - KI
 - KIR
 ---
+

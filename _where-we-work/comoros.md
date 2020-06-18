@@ -2,10 +2,11 @@
 title: Comoros
 continent: AF
 urlname: comoros
-audacious: True
+audacious: true
 names:
 - Comoros
 - Union of the Comoros
 - KM
 - COM
 ---
+

@@ -2,10 +2,11 @@
 title: Nigeria
 continent: AF
 urlname: nigeria
-audacious: True
+audacious: true
 names:
 - Nigeria
 - Federal Republic of Nigeria
 - NG
 - NGA
 ---
+

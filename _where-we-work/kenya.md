@@ -2,10 +2,11 @@
 title: Kenya
 continent: AF
 urlname: kenya
-audacious: True
+audacious: true
 names:
 - Kenya
 - Republic of Kenya
 - KE
 - KEN
 ---
+

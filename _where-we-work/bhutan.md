@@ -2,10 +2,11 @@
 title: Bhutan
 continent: AS
 urlname: bhutan
-audacious: True
+audacious: true
 names:
 - Bhutan
 - Kingdom of Bhutan
 - BT
 - BTN
 ---
+

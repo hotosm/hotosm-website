@@ -2,10 +2,11 @@
 title: Mauritania
 continent: AF
 urlname: mauritania
-audacious: True
+audacious: true
 names:
 - Mauritania
 - Islamic Republic of Mauritania
 - MR
 - MRT
 ---
+

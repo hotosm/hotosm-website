@@ -2,10 +2,11 @@
 title: Malaysia
 continent: AS
 urlname: malaysia
-audacious: True
+audacious: true
 names:
 - Malaysia
 - Federation of Malaysia
 - MY
 - MYS
 ---
+

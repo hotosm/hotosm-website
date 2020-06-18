@@ -2,10 +2,11 @@
 title: Zambia
 continent: AF
 urlname: zambia
-audacious: True
+audacious: true
 names:
 - Zambia
 - Republic of Zambia
 - ZM
 - ZMB
 ---
+

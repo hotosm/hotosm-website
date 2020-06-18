@@ -2,10 +2,11 @@
 title: Zimbabwe
 continent: AF
 urlname: zimbabwe
-audacious: True
+audacious: true
 names:
 - Zimbabwe
 - Republic of Zimbabwe
 - ZW
 - ZWE
 ---
+

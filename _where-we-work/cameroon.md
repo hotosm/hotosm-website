@@ -2,10 +2,11 @@
 title: Cameroon
 continent: AF
 urlname: cameroon
-audacious: True
+audacious: true
 names:
 - Cameroon
 - Republic of Cameroon
 - CM
 - CMR
 ---
+

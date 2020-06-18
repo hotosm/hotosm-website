@@ -2,10 +2,11 @@
 title: Cambodia
 continent: AS
 urlname: cambodia
-audacious: True
+audacious: true
 names:
 - Cambodia
 - Kingdom of Cambodia
 - KH
 - KHM
 ---
+

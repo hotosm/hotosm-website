@@ -2,10 +2,11 @@
 title: Chile
 continent: SA
 urlname: chile
-audacious: True
+audacious: true
 names:
 - Chile
 - Republic of Chile
 - CL
 - CHL
 ---
+

@@ -2,10 +2,11 @@
 title: Guinea
 continent: AF
 urlname: guinea
-audacious: True
+audacious: true
 names:
 - Guinea
 - Republic of Guinea
 - GN
 - GIN
 ---
+

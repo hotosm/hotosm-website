@@ -2,10 +2,11 @@
 title: Afghanistan
 continent: AS
 urlname: afghanistan
-audacious: True
+audacious: true
 names:
 - Afghanistan
 - Islamic Republic of Afghanistan
 - AF
 - AFG
 ---
+

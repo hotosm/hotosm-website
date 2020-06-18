@@ -2,10 +2,11 @@
 title: Namibia
 continent: AF
 urlname: namibia
-audacious: True
+audacious: true
 names:
 - Namibia
 - Republic of Namibia
 - NA
 - NAM
 ---
+

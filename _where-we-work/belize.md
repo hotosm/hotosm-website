@@ -2,10 +2,11 @@
 title: Belize
 continent: NA
 urlname: belize
-audacious: True
+audacious: true
 names:
 - Belize
 - Belize
 - BZ
 - BLZ
 ---
+

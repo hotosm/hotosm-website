@@ -2,10 +2,11 @@
 title: Benin
 continent: AF
 urlname: benin
-audacious: True
+audacious: true
 names:
 - Benin
 - Republic of Benin
 - BJ
 - BEN
 ---
+

@@ -2,10 +2,11 @@
 title: Gambia
 continent: AF
 urlname: gambia
-audacious: True
+audacious: true
 names:
 - Gambia
 - Republic of The Gambia
 - GM
 - GMB
 ---
+

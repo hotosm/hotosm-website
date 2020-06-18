@@ -2,10 +2,11 @@
 title: Mozambique
 continent: AF
 urlname: mozambique
-audacious: True
+audacious: true
 names:
 - Mozambique
 - Republic of Mozambique
 - MZ
 - MOZ
 ---
+

@@ -2,10 +2,11 @@
 title: Ethiopia
 continent: AF
 urlname: ethiopia
-audacious: True
+audacious: true
 names:
 - Ethiopia
 - Federal Democratic Republic of Ethiopia
 - ET
 - ETH
 ---
+

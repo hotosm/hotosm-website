@@ -2,10 +2,11 @@
 title: Angola
 continent: AF
 urlname: angola
-audacious: True
+audacious: true
 names:
 - Angola
 - Republic of Angola
 - AO
 - AGO
 ---
+

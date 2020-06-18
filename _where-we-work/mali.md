@@ -2,10 +2,11 @@
 title: Mali
 continent: AF
 urlname: mali
-audacious: True
+audacious: true
 names:
 - Mali
 - Republic of Mali
 - ML
 - MLI
 ---
+

@@ -2,10 +2,11 @@
 title: Rwanda
 continent: AF
 urlname: rwanda
-audacious: True
+audacious: true
 names:
 - Rwanda
 - Republic of Rwanda
 - RW
 - RWA
 ---
+

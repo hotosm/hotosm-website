@@ -2,10 +2,11 @@
 title: Senegal
 continent: AF
 urlname: senegal
-audacious: True
+audacious: true
 names:
 - Senegal
 - Republic of Senegal
 - SN
 - SEN
 ---
+

@@ -2,7 +2,7 @@
 title: Myanmar
 continent: AS
 urlname: myanmar
-audacious: True
+audacious: true
 names:
 - Myanmar
 - Republic of the Union of Myanmar
@@ -11,3 +11,4 @@ names:
 - MM
 - MMR
 ---
+

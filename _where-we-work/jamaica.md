@@ -2,10 +2,11 @@
 title: Jamaica
 continent: NA
 urlname: jamaica
-audacious: True
+audacious: true
 names:
 - Jamaica
 - Jamaica
 - JM
 - JAM
 ---
+

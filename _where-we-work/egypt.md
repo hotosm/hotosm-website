@@ -2,10 +2,11 @@
 title: Egypt
 continent: AF
 urlname: egypt
-audacious: True
+audacious: true
 names:
 - Egypt
 - Arab Republic of Egypt
 - EG
 - EGY
 ---
+

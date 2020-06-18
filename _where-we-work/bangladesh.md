@@ -2,10 +2,11 @@
 title: Bangladesh
 continent: AS
 urlname: bangladesh
-audacious: True
+audacious: true
 names:
 - Bangladesh
 - People's Republic of Bangladesh
 - BD
 - BGD
 ---
+

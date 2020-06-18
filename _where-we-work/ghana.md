@@ -2,10 +2,11 @@
 title: Ghana
 continent: AF
 urlname: ghana
-audacious: True
+audacious: true
 names:
 - Ghana
 - Republic of Ghana
 - GH
 - GHA
 ---
+

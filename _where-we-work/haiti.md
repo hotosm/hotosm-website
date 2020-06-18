@@ -2,10 +2,11 @@
 title: Haiti
 continent: NA
 urlname: haiti
-audacious: True
+audacious: true
 names:
 - Haiti
 - Republic of Haiti
 - HT
 - HTI
 ---
+

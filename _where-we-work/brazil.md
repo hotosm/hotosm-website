@@ -2,10 +2,11 @@
 title: Brazil
 continent: SA
 urlname: brazil
-audacious: True
+audacious: true
 names:
 - Brazil
 - Federative Republic of Brazil
 - BR
 - BRA
 ---
+

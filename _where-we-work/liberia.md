@@ -6,10 +6,11 @@ Contact Person:
   Email: david.luswata@hotosm.org
 continent: AF
 urlname: liberia
-audacious: True
+audacious: true
 names:
 - Liberia
 - Republic of Liberia
 - LR
 - LBR
 ---
+

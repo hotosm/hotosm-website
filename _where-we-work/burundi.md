@@ -2,10 +2,11 @@
 title: Burundi
 continent: AF
 urlname: burundi
-audacious: True
+audacious: true
 names:
 - Burundi
 - Republic of Burundi
 - BI
 - BDI
 ---
+

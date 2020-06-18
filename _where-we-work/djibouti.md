@@ -2,10 +2,11 @@
 title: Djibouti
 continent: AF
 urlname: djibouti
-audacious: True
+audacious: true
 names:
 - Djibouti
 - Republic of Djibouti
 - DJ
 - DJI
 ---
+

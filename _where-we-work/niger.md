@@ -2,10 +2,11 @@
 title: Niger
 continent: AF
 urlname: niger
-audacious: True
+audacious: true
 names:
 - Niger
 - Republic of Niger
 - NE
 - NER
 ---
+

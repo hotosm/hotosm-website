@@ -2,10 +2,11 @@
 title: Lesotho
 continent: AF
 urlname: lesotho
-audacious: True
+audacious: true
 names:
 - Lesotho
 - Kingdom of Lesotho
 - LS
 - LSO
 ---
+

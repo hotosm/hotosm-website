@@ -2,10 +2,11 @@
 title: Ecuador
 continent: SA
 urlname: ecuador
-audacious: True
+audacious: true
 names:
 - Ecuador
 - Republic of Ecuador
 - EC
 - ECU
 ---
+

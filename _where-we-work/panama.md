@@ -2,10 +2,11 @@
 title: Panama
 continent: NA
 urlname: panama
-audacious: True
+audacious: true
 names:
 - Panama
 - Republic of Panama
 - PA
 - PAN
 ---
+

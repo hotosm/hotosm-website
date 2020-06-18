@@ -2,10 +2,11 @@
 title: Bolivia
 continent: SA
 urlname: bolivia
-audacious: True
+audacious: true
 names:
 - Bolivia
 - Plurinational State of Bolivia
 - BO
 - BOL
 ---
+

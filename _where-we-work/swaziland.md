@@ -2,10 +2,11 @@
 title: Swaziland
 continent: AF
 urlname: swaziland
-audacious: True
+audacious: true
 names:
 - Swaziland
 - Kingdom of Swaziland
 - SZ
 - SWZ
 ---
+

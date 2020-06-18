@@ -2,10 +2,11 @@
 title: Peru
 continent: SA
 urlname: peru
-audacious: True
+audacious: true
 names:
 - Peru
 - Republic of Peru
 - PE
 - PER
 ---
+

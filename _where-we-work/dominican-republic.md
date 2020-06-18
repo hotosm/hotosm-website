@@ -2,10 +2,11 @@
 title: Dominican Republic
 continent: NA
 urlname: dominican-republic
-audacious: True
+audacious: true
 names:
 - Dominican Republic
 - Dominican Republic
 - DO
 - DOM
 ---
+

@@ -2,10 +2,11 @@
 title: Solomon Islands
 continent: OC
 urlname: solomon-islands
-audacious: True
+audacious: true
 names:
 - Solomon Islands
 - Solomon Islands
 - SB
 - SLB
 ---
+

@@ -2,10 +2,11 @@
 title: Malawi
 continent: AF
 urlname: malawi
-audacious: True
+audacious: true
 names:
 - Malawi
 - Republic of Malawi
 - MW
 - MWI
 ---
+

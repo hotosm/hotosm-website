@@ -15,10 +15,11 @@ Location:
   Map Link: https://www.openstreetmap.org/way/363709398
 continent: AF
 urlname: tanzania
-audacious: True
+audacious: true
 names:
 - Tanzania
 - United Republic of Tanzania
 - TZ
 - TZA
 ---
+

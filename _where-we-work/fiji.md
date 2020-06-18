@@ -2,10 +2,11 @@
 title: Fiji
 continent: OC
 urlname: fiji
-audacious: True
+audacious: true
 names:
 - Fiji
 - Republic of Fiji
 - FJ
 - FJI
 ---
+

@@ -2,10 +2,11 @@
 title: Cape Verde
 continent: AF
 urlname: cape-verde
-audacious: True
+audacious: true
 names:
 - Cape Verde
 - Republic of Cape Verde
 - CV
 - CPV
 ---
+
