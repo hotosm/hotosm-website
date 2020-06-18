@@ -8,7 +8,6 @@ Banner:
     the world’s maps?
   Link Copy: Find Out How
   URL: https://www.hotosm.org/projects/audacious/
-  Optional Text: 5 Years, 94 Countries, One Vision
 Project:
 - Audacious Project
 - HOT COVID-19 RESPONSE
