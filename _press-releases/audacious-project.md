@@ -6,7 +6,7 @@ permalink: press-releases/audacious-project/
 Person:
 - Gihan Hassanein
 Project:
-- HOT's Audacious Project
+- Audacious Project
 ---
 
 **WASHINGTON D.C. - {{ page.date | date: '%d %B %Y' | upcase }}** - Today, the Humanitarian OpenStreetMap Team (HOT) was announced as one of this year’s grantees of The Audacious Project at TED, launching a massive mobilization of one million volunteers to map an area home to one billion people in some of the most vulnerable places in the world.
