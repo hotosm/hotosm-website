@@ -1,5 +1,5 @@
 ---
-title: HOT's Audacious Project
+title: Audacious Project
 date: 2020-06-18 21:40:00 Z
 position: 0
 Project Summary Text: The HOT community received funding from The Audacious Project,
