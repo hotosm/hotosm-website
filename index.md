@@ -10,8 +10,8 @@ Banner:
   Link Copy: COVID Response on Tasking Manager
   URL: https://tasks.hotosm.org/explore?text=covid
 Project:
+- Audacious Project
 - HOT COVID-19 RESPONSE
-- 'Data-Driven Disaster Risk Management: PhilAWARE'
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
