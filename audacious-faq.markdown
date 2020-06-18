@@ -67,7 +67,7 @@ Audacious Project donors are making a powerful statement in the value of open da
 
 ## What does this mean for OSMF?
 
-HOT commits to working even more closely with OSMF. This may include HOT community members and staff supporting OSMF working groups, making contributions to OSM core systems and software, and other forms of collaboration that are beneficial to the Foundation and HOT. HOT looks forward to continuing dialogue with the OSMF Board and membership on how we might strengthen our collaboration.
+HOT commits to working more closely with OSMF. This may include HOT community members and staff supporting OSMF working groups, making contributions to OSM core systems and software, and other forms of collaboration that are beneficial to the Foundation and HOT. HOT looks forward to continuing dialogue with the OSMF Board and membership on how we might strengthen our collaboration.
 
 ## How will HOT support open source, open data and open principles with this grant?
 
@@ -189,6 +189,8 @@ Both HOT’s staffing structure and funding streams will scale up rapidly in Yea
 ## How will Covid-19 affect this project?
 
 Predicting the longer term impact of the Covid-19 pandemic is difficult for any organization. This project will bring additional financial security to HOT over the coming years, as it is a five year project. Additionally, the global nature of the Covid-19 pandemic reinforces the importance of HOT taking on an ambitious global project. HOT’s mission, to work towards a world where everyone is counted, data is accessible and used, and anyone can engage and contribute to the map, has never been more relevant.
+
+For more detail, read the following slides:
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
