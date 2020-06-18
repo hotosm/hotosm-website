@@ -1,7 +1,7 @@
 ---
 title: Regional Road Network Improvement in Turkey and Greece
 date: 2020-05-27 08:39:00 Z
-position: 0
+position: 2
 Project Summary Text: 'Since January 2019, HOT is partnering with Kaart, Yer Çizenler
   and GeoPerformans aiming to improve the quality and accuracy of the road networks
   of Turkey and Greece on OpenStreetMap. '

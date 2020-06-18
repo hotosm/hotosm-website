@@ -1,13 +1,14 @@
 ---
 title: HOT's Audacious Project
 date: 2020-06-18 21:40:00 Z
+position: 0
 Project Summary Text: The HOT community received funding from The Audacious Project,
   a collaborative philanthropic initiative that serves as a springboard for social
   impact on a grand scale. Over the next five years, this funding will enable HOT
   to scale up its support to local mapping communities with the aim of mapping an
   area home to one billion people, adding places at high risk of natural disaster
   or experiencing poverty.
-Feature Image: "/uploads/7.png"
+Feature Image: "/uploads/WG4A0327.jpg"
 Country:
 - Global
 Duration:

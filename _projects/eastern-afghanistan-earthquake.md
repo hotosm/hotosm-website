@@ -2,7 +2,7 @@
 title: 'Disaster Activation: Eastern Afghanistan Earthquake 2015'
 date: 2015-10-27 17:22:00 Z
 permalink: projects/eastern_afghanistan_earthquake
-position: 109
+position: 111
 Project Summary Text: 'HOT support magnitude 7.5 Eastern Afghanistan Earthquake '
 Feature Image: "/uploads/EasternAfghanEarthquake.png"
 Country:

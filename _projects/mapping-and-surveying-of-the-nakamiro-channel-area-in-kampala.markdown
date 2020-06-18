@@ -1,7 +1,7 @@
 ---
 title: Mapping and Surveying of the Nakamiro Channel area in Kampala
 date: 2020-04-13 10:05:00 Z
-position: 1
+position: 3
 Project Summary Text: 'To better understand community-level risk, vulnerability and
   exposure associated with frequent flooding of the Nakamiro Channel in central Kampala,
   HOT with support from KCCA collected data on the Nakamiro Channel area covering:
