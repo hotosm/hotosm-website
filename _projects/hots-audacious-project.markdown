@@ -1,6 +1,6 @@
 ---
 title: HOT's Audacious Project
-date: 2020-07-01 21:40:00 Z
+date: 2020-06-18 21:40:00 Z
 published: false
 Project Summary Text: The HOT community received funding from The Audacious Project,
   a collaborative philanthropic initiative that serves as a springboard for social
@@ -40,3 +40,5 @@ By 2025, communities across 94 countries vulnerable to disaster or experiencing 
 * That women and girls are fully represented on the map.
 
 All data will be available publicly in OpenStreetMap. With this open, up-to-date, free, and digital public good, information will be readily available to make better and faster decisions. As this data is open, the possibilities of impact are limitless.
+
+> See [HOT's FAQ](https://www.hotosm.org/audacious-faq) for more information about how The Audacious Project will work, our approach, how we will work with OSM communities and the regional hubs.
