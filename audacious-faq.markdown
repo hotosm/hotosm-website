@@ -1,7 +1,6 @@
 ---
 title: HOT Audacious Project Frequently Asked Questions
 date: 2020-06-17 15:21:00 Z
-published: false
 Project:
 - HOT's Audacious Project
 Person:
