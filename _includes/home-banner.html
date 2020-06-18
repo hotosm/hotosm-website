@@ -2,7 +2,9 @@
   <a href="{{ page['Banner']['URL'] }}" class="home-banner small-banner">
     <div class="banner-container">
       <header class="banner-header">
+        {% if page['Banner']['Small Block'] %}
         <h5 class="banner-header-small">{{ page['Banner']['Small Block'] }}</h5>
+        {% endif %}
         <br>
         <div class="banner-headers">
           <h2 class="banner-header-main">{{ page['Banner']['Main Block'] }}</h2>
