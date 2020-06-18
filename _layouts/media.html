@@ -56,9 +56,10 @@ layout: default
       <h2>Press Releases</h2>
       <div class="media-press-releases">
         <div>
-          {% for presser in site.press-releases %}
+          {% assign sorted-prs = site.press-releases | sort: 'date' | reverse %}
+          {% for presser in sorted-prs %}
           <div>
-            <a href='{{ presser.permalink }}'><h3> {{ presser.title }} </h3></a>
+            <h3><a href='{{ presser.permalink }}'> {{ presser.title }} </a> — {{ presser.date | date: '%d %B %Y' }}</h3>
           </div>
         {% endfor %}
         </div>
@@ -72,7 +73,7 @@ layout: default
         <div>
           {% for article in page['News']['Articles'] %}
           <div>
-            <h3><a href='{{ article.Link }}'>{{ article.Title }}</a> - {{ article.Source }}</h3>
+            <h3><a href='{{ article.Link }}'>{{ article.Title }}</a> — {{ article.Source }}</h3>
           </div>
         {% endfor %}
         </div>
