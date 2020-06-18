@@ -12,7 +12,7 @@ layout: page
 
 # Press release
 
-**WASHINGTON D.C. - 15 JUNE 2020** - Today, the Humanitarian OpenStreetMap Team (HOT) was announced as one of this year’s grantees of The Audacious Project at TED, launching a massive mobilization of one million volunteers to map an area home to one billion people in some of the most vulnerable places in the world.
+**WASHINGTON D.C. - 18 JUNE 2020** - Today, the Humanitarian OpenStreetMap Team (HOT) was announced as one of this year’s grantees of The Audacious Project at TED, launching a massive mobilization of one million volunteers to map an area home to one billion people in some of the most vulnerable places in the world.
 
 It’s hard to believe that more than one billion people live in places that are not on the map. Many of these unmapped places are at high risk of disasters, or are home to people experiencing multidimensional poverty. “If you look those places up online, you’ll see nothing but a blank,” says Rebecca Firth, HOT’s Director of Partnerships and Community, “Those blank spaces aren’t just a huge statement of disrespect to our fellow human beings, they’re an injustice that causes very direct, very real, very avoidable human suffering.”
 
@@ -29,7 +29,6 @@ All maps created by the Humanitarian OpenStreetMap Team community are available 
 **About HOT**
 
 HOT is an international team dedicated to humanitarian action and community development through open mapping. We work together to provide map data that revolutionizes disaster management, reduces risks, and contributes to achievement of the Sustainable Development Goals.
-
 
 **Media contact:**
 
