@@ -3,12 +3,11 @@ title: Home
 position: 0
 Banner:
   Is Activated: true
-  Main Block: Mapping for the COVID-19 response
-  Secondary Block: Help undermapped communities access crucial services during the
-    COVID-19 outbreak
-  Optional Text: 
-  Link Copy: COVID Response on Tasking Manager
-  URL: https://tasks.hotosm.org/explore?text=covid
+  Main Block: AUDACIOUS PROJECT
+  Secondary Block: What if we could map one billion people currently missing from
+    the world’s maps?
+  Link Copy: Audacious project
+  URL: https://www.hotosm.org/projects/audacious/
 Project:
 - Audacious Project
 - HOT COVID-19 RESPONSE
