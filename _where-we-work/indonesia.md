@@ -14,10 +14,10 @@ Location:
   Map Link: https://www.openstreetmap.org/?mlat=-6.2367019057273865&mlon=106.85639351606369#map=19/-6.23670/106.85639
 continent: AS
 urlname: indonesia
+audacious: True
 names:
 - Indonesia
 - Republic of Indonesia
 - ID
 - IDN
 ---
-

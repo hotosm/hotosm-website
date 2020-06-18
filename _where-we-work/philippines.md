@@ -10,10 +10,10 @@ Location:
   Map Link: https://www.openstreetmap.org/node/7144819921
 continent: AS
 urlname: philippines
+audacious: True
 names:
 - Philippines
 - Republic of the Philippines
 - PH
 - PHL
 ---
-

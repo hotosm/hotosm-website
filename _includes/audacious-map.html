@@ -1,0 +1,17 @@
+
+<div class="audacious-map">
+  <div class="audacious-map-area">
+    <div id="map">
+      <div id="loading-map">
+        <center><p class="loader w40 h40 mb20 red-border"></p></center>
+        <span>Loading Map</span>
+      </div>
+      <div id="hover-details" class="center-hover-map-area"></div>
+    </div>
+  </div>
+
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+  <script src="{{ "/js/audacious-map.js" | prepend: site.baseurl }}"></script>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
+</div>
