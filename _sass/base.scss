@@ -2667,6 +2667,33 @@ border: 2px solid black;
   }
 }
 
+.audacious-map {
+  width: 100%;
+  grid-column: 3 / -1;
+}
+
+.audacious-map-area {
+  height: 560px;
+  width: 100%;
+  margin-bottom: 40px;
+  position: relative;
+  background-color: $red-light;
+  border-bottom: 1px solid $border-color;
+  overflow: hidden;
+  #expand-map-btn, #close-map-btn {
+    pointer-events: auto;
+    position: absolute;
+    top: -66px;
+    right: 40px;
+    background-color: $blue-dark;
+    @media (max-width: $screen-xs) {
+      top: -64px;
+      left: auto;
+      right: 16px;
+    }
+  }
+}
+
 #our-work-projects {
   padding-top: 600px;
 }
@@ -2866,6 +2893,7 @@ border: 2px solid black;
     background-color: $blue-dark;
     color: $white;
     font-weight: bold;
+    margin-bottom: 0px;
   }
 
   .hover-edits {

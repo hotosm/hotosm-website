@@ -168,7 +168,7 @@
 "geometry": {"type": "Point","coordinates": [26.2707950346287,64.4953589823139]}},
 {"type": "Feature","properties": {"NAME": "vietnam","NAME_LONG": "Vietnam","ADM0_A3_IS": "VNM","ADM0_A3_US": "VNM","WIKIDATAID": "Q881","NAME_EN": "Vietnam"
 },
-"geometry": {"type": "Point","coordinates": [106.30093523657634,16.642182843821004]}},
+"geometry": {"type": "Point","coordinates": [108.4265113,13.2904027]}},
 {"type": "Feature","properties": {"NAME": "cambodia","NAME_LONG": "Cambodia","ADM0_A3_IS": "KHM","ADM0_A3_US": "KHM","WIKIDATAID": "Q424","NAME_EN": "Cambodia"
 },
 "geometry": {"type": "Point","coordinates": [104.90280421515192,12.715562475443047]}},
@@ -579,7 +579,7 @@
 "geometry": {"type": "Point","coordinates": [52.06229190040475,-6.489990483710342]}},
 {"type": "Feature","properties": {"NAME": "kiribati","NAME_LONG": "Kiribati","ADM0_A3_IS": "KIR","ADM0_A3_US": "KIR","WIKIDATAID": "Q710","NAME_EN": "Kiribati"
 },
-"geometry": {"type": "Point","coordinates": [-51.52532536016883,0.615185708161475]}},
+"geometry": {"type": "Point","coordinates": [-170.3024058,-3.4001631]}},
 {"type": "Feature","properties": {"NAME": "marshall islands","NAME_LONG": "Marshall Islands","ADM0_A3_IS": "MHL","ADM0_A3_US": "MHL","WIKIDATAID": "Q709","NAME_EN": "Marshall Islands"
 },
 "geometry": {"type": "Point","coordinates": [170.09952781207963,7.114465335463286]}},
