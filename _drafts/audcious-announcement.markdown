@@ -61,3 +61,5 @@ By 2025, communities across 94 countries vulnerable to disaster or experiencing 
 All data will be available publicly in OpenStreetMap. With this open, up-to-date, free, and digital public good, information will be readily available to make better and faster decisions. As this data is open, the possibilities of impact are limitless.
 
 This is an exciting time for HOT’s global community and demonstrates how necessary free, open and up to date maps will be for the humanitarian and development sectors in years to come. We are deeply grateful to The Audacious Project and respected philanthropic organizations, including the [Skoll Foundation](https://skoll.org/), [the ELMA Philanthropies](https://www.elmaphilanthropies.org/), [Rippleworks](http://www.rippleworks.org/), [Pivotal Ventures ](https://www.pivotalventures.org/)and others, for believing in our vision of a global movement in which volunteers from all walks of life co-create the best map of our world.
+
+> See [HOT's FAQ](https://www.hotosm.org/audacious-faq) for more information about how The Audacious Project will work, our approach, how we will work with OSM communities and the regional hubs.
