@@ -18,7 +18,8 @@ In order to answer this question, we assessed global disaster risk and poverty (
 
 This resulted in a list of 94 countries where we will focus our work as a global community over the next five years. For more details on the activities to be conducted, please see here.
 
-\[MAP\]
+{% include audacious-map.html %}
+
 \[LIST OF COUNTRIES\]
 
 The total population of all these countries is far more than one billion people, so HOT’s focus will be mapping the highest risk and especially vulnerable locations within countries, not always on mapping entire countries. Each year, teams working across HOT’s regional hubs will review the countries on their list to ensure our focus remains on meeting the greatest data needs from government and NGO partners. We’ll also take into account the legality and ethics of promoting citizen-led data collection at the national and sub-national levels. This means this list is likely to change; adapting to meet current humanitarian data needs and account for evolving local regulations.
