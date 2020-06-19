@@ -22,7 +22,7 @@ This resulted in a list of 94 countries where we will focus our work as a global
 
 **List of countries**
 
-<iframe width="100%" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQHXJL9aE5TI3ZcDcKuWlDhs8jKLJ5tafPz7B3vF_bdDkWWEdSVWot9Epp6wu7Uhr8I1uY_-wRakZOt/pubhtml?gid=0&range=A1:A95&single=true&widget=true&headers=false"></iframe>
+<iframe width="100%" height="100px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQHXJL9aE5TI3ZcDcKuWlDhs8jKLJ5tafPz7B3vF_bdDkWWEdSVWot9Epp6wu7Uhr8I1uY_-wRakZOt/pubhtml?gid=0&range=A1:A95&single=true&widget=true&headers=false"></iframe>
 
 The total population of all these countries is far more than one billion people, so HOT’s focus will be mapping the highest risk and especially vulnerable locations within countries, not always on mapping entire countries. Each year, teams working across HOT’s regional hubs will review the countries on their list to ensure our focus remains on meeting the greatest data needs from government and NGO partners. We’ll also take into account the legality and ethics of promoting citizen-led data collection at the national and sub-national levels. This means this list is likely to change; adapting to meet current humanitarian data needs and account for evolving local regulations.
 
