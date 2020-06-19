@@ -12,7 +12,7 @@ In order to answer this question, we assessed global disaster risk and poverty (
 
 * Multidimensional Poverty Index of 0.09 or higher ([UNDP](http://hdr.undp.org/sites/default/files/mpi_2019_publication.pdf))
 
-* Multidimensionally poor population size of 4 million or more (UNDP) (1)
+* Multidimensionally poor population size of 4 million or more (UNDP)\*
 
 * Extreme poverty levels of 25% or more ([World Bank under USD 1.90/day](https://data.worldbank.org/topic/poverty))
 
@@ -28,4 +28,4 @@ The total population of all these countries is far more than one billion people,
 
 Because HOT is a network, our community (in the broad sense - both individual contributors and humanitarian/development partner organizations) can help us to identify areas with the greatest unmet data needs in the coming five years. As always, because our mission extends worldwide, community members are encouraged to start or contribute to projects in any location even beyond the initial 94 priority countries if the project supports HOT’s mission.
 
-> (1) *Countries such as Mexico and Peru were also included as priorities, as although they do not have high multidimensional poverty index, they have either a high absolute number in pockets of multidimensional poverty (over 4,000,000 people) or high percentage of population in extreme poverty (over 25% under US$1.90/day).*
+> \* *Countries such as Mexico and Peru were also included as priorities, as although they do not have high multidimensional poverty index, they have either a high absolute number in pockets of multidimensional poverty (over 4,000,000 people) or high percentage of population in extreme poverty (over 25% under US$1.90/day).*
