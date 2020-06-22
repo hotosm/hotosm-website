@@ -5,6 +5,11 @@ Summary Text: 'In 2019, the HOT community developed a Strategic Plan, which stat
   an audacious goal: to map an area home to one billion people in OpenStreetMap. But
   one key question remained: where?'
 Feature Image: "/uploads/94%20countries.jpg"
+Person:
+- Tyler Radford
+- Rebecca Firth
+Project:
+- Audacious Project
 ---
 
 In order to answer this question, we assessed global disaster risk and poverty (both multidimensional and extreme) globally. We selected countries that met or exceeded one of these criteria, indicating that they face significant risk of disaster and/or high poverty levels:
