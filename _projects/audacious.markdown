@@ -8,7 +8,8 @@ Project Summary Text: The HOT community received funding from The Audacious Proj
   to scale up its support to local mapping communities with the aim of mapping an
   area home to one billion people, adding places at high risk of natural disaster
   or experiencing poverty.
-Feature Image: "/uploads/WG4A0327.jpg"
+# Feature Image: "/uploads/WG4A0327.jpg"
+audacious: True
 Country:
 - Global
 Duration:

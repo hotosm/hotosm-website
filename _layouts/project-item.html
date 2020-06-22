@@ -34,6 +34,9 @@ layout: default
         </p>
     </div>
 </header>
+{% if page['audacious'] != '' %}
+{% include audacious-map.html %}
+{% endif %}
 {% if page['project_extent'] != '' %}
 
 <div class="project-map-area">
