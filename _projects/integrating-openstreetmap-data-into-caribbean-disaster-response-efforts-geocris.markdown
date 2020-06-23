@@ -8,25 +8,25 @@ Project Summary Text: 'Shared knowledge and datasets are critical for Caribbean 
   of open geospatial data across CDEMA countries. '
 Feature Image: "/uploads/Jamaica.JPG"
 Country:
-- - Anguilla
-  - Antigua and Barbuda
-  - Bahamas
-  - Barbados
-  - Belize
-  - British Virgin Islands
-  - Cayman Islands
-  - Dominica
-  - Grenada
-  - Guyana
-  - Haiti
-  - Jamaica
-  - Montserrat
-  - Saint Kitts and Nevis
-  - Saint Lucia
-  - Saint Vincent and the Grenadines
-  - Suriname
-  - Trinidad and Tobago
-  - Turks and Caicos Islands
+- Anguilla
+- Antigua and Barbuda
+- Bahamas
+- Barbados
+- Belize
+- British Virgin Islands
+- Cayman Islands
+- Dominica
+- Grenada
+- Guyana
+- Haiti
+- Jamaica
+- Montserrat
+- Saint Kitts and Nevis
+- Saint Lucia
+- Saint Vincent and the Grenadines
+- Suriname
+- Trinidad and Tobago
+- Turks and Caicos Islands
 Impact Area:
 - Disaster Risk Reduction
 Person:
