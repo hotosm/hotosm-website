@@ -14,7 +14,8 @@ layout: default
 
     <div class="news-index-sidebar">
 
-      {% assign tech-updates = (site.tech-updates | sort: 'date') | reverse %}
+      {% assign sorted = site.tech-updates | sort: 'date' %}
+      {% assign tech-updates = sorted | reverse %}
 
       {% for post in tech-updates limit:1 %}
 
