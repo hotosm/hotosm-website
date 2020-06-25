@@ -1,0 +1,94 @@
+---
+title: Tech HOT Spot
+position: 0
+layout: default
+---
+
+<div class="container news-index">
+
+  <header class="news-index-header">
+    <h1>Tech HOT Spot Archive</h1>
+  </header>
+
+  <div class="news-index-body">
+
+    <div class="news-index-sidebar">
+
+      <div class="sticky-wrap news-newsletter-wrap">
+        <div class="newsletter-signup">
+          <h2>Put something here</h2>
+          {% include newsletter-form.html %}
+        </div>
+      </div>
+
+    </div>
+
+    <div class="news-index-list">
+
+      {% assign tech-updates = (site.tech-updates | sort: 'date') | reverse %}
+
+      {% for post in tech-updates %}
+
+        <div class="news-index-item">
+
+          <div class="news-list-summary">
+
+            <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
+
+              <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+
+              <p>
+                {% if post['Summary Text'] %}
+                  {{ post['Summary Text']}}
+                {% else %}
+                  {{ post.excerpt | strip_html | truncatewords:24 }}
+                {% endif %}
+              </p>
+              {% capture post.Person %}{% endcapture %}
+              <div class="news-list-meta">
+                {% assign author = site.people | where: "title", post.Person | first %}
+                  <p class="news-index-author">
+                    {% if post.Person %}
+                      {% for author in post.Person %}
+                        {{ author }}{% unless forloop.last %},{% endunless %}
+                        {% if forloop.last %} - {% endif %}
+                      {% endfor %}
+                    {% endif %}
+                    {{ post.date | date: '%e %B, %Y' }}</p>
+                      {% if post.Country != '' %}
+                        <p class="news-index-country">
+                            {% for country in post.Country %}
+                              {% if country != '' %}
+                                {% if post.Country.size <= 3 %}
+                                  {{ country }}{% unless forloop.last %}, {% endunless %}
+                                {% else post.Country.size > 3 %}
+                                  {% assign countrycount = post.Country.size %}
+                                   {{ post.Country[0] }} and {{ countrycount | minus: 1 }} other countries
+                                  {% break %}
+                               {% endif %}
+                              {% else %}
+                                Global
+                              {% endif %}
+                            {% endfor %}
+                        </p>
+                      {% endif %}
+              </div>
+            </div>
+
+            {% if post['Feature Image'] %}
+              <div class="news-list-image-sm">
+                <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
+              </div>
+            {% endif %}
+
+          </div>
+
+        </div>
+
+      {% endfor %}
+
+    </div>
+
+  </div>
+
+</div>
