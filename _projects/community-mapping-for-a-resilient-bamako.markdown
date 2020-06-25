@@ -13,7 +13,7 @@ Partner:
 - Croix-Rouge Malienne
 Duration:
   Start Date: 2020-01-13 00:00:00 Z
-  End Date: 2020-09-30 00:00:00 Z
+  End Date: 2020-12-31 00:00:00 Z
 ---
 
 Bamako, the capital and largest city of Mali, is situated on the Niger River floodplain, which hampers development along the riverfront and the Niger’s tributaries. Bamako is relatively flat, except to the immediate north where an escarpment is found, what remains of an extinct volcano. The presidential palace and the main hospital are located there. Originally, the city was developed on the northern side of the Niger River but as it grew, bridges were built to connect the north with the south:  the Pont de Martyrs, the King Fahd Bridge, and the Sotuba causeway, which is typically underwater from July to January.
