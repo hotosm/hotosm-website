@@ -82,6 +82,6 @@ HOT is looking for someone passionate about, and experienced in, measuring the i
 
 ## To Apply
 
-Please complete the linked form to apply. **Please continue to the second page** of the form to upload your CV/resume (max 2 pages). In addition, **please upload a recent report** (max 2 pages) that demonstrates your knowledge in measuring impact of humanitarian or development data interventions or measuring impact of H2H (humanitarian to humanitarian) organizations. Please combine both of these documents into 1 PDF (max 4 pages) and label it 'First Name.Last Name.'
+Please complete the [linked form](https://docs.google.com/forms/d/e/1FAIpQLScMAzbHPlQhVkxBB7HvJUP7u4AY-HAsoA6y-V8UiRu2CHM1XA/viewform?usp=sf_link) to apply. **Please continue to the second page** of the form to upload your CV/resume (max 2 pages). In addition, **please upload a recent report** (max 2 pages) that demonstrates your knowledge in measuring impact of humanitarian or development data interventions or measuring impact of H2H (humanitarian to humanitarian) organizations. Please combine both of these documents into 1 PDF (max 4 pages) and label it 'First Name.Last Name.'
 
 The deadline to apply is 26 July 2020.
