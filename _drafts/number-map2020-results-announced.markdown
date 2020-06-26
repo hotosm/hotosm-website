@@ -1,7 +1,7 @@
 ---
 title: "#map2020 Results Announced"
 date: 2020-06-26 14:18:00 Z
-Summary Text: 'After reviewing all of the inspiring submissions, HOT and the Mapillary
+Summary Text: 'After reviewing all of the inspiring submissions, the HOT and Mapillary
   teams have chosen SIGenBici as the #map2020 project of the year.'
 Feature Image: "/uploads/SIGenBici.jpg"
 Person:
