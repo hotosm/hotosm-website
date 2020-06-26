@@ -1,7 +1,6 @@
 ---
 title: Regional Hub Director - Nairobi
 date: 2020-06-26 15:07:00 Z
-published: false
 Deadline Date: 2020-07-24 00:00:00 Z
 Place of Work: Nairobi, Kenya
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf-_U-dXpWex4G1wxYEriyOwDGSo4hTg6w4VqHH6Kv7YLX_QQ/viewform?usp=sf_link
