@@ -19,15 +19,15 @@ Apply Form Link: https://forms.gle/oHL5UfDcNXTqb7N58
 
 **Travel:** Up to 20%
 
-# About HOT:
+# About HOT
 
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goal. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more 225,000 people with ground operations in six countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.  Leveraging field expertise we’ve built over the past 5+ years, HOT continues to integrate Disaster Risk Reduction and local community support to increase support for Missing Maps and humanitarian partners including the Red Cross, Médecins Sans Frontières, World Bank, and UN OCHA, among others.
 
-# About You:
+# About You
 
 HOT is looking for someone passionate about, and experienced in, measuring the impact of digital development and humanitarian action projects. You should be able to work within a fast-paced, international organization responding to urgent crises and persistent development issues. You should be excited about developing systems and processes to track metrics globally across all the sectors in which HOT works (health, education, gender equity, disaster response, DRR, and more). You should be familiar with the SDGs and measuring the outputs, outcomes and impact of digital projects in a global environment. You will enjoy training implementation teams on the collection of high quality data.  You will have experience carrying out statistical analysis for large-scale global projects. You will work on HOT’s M&E and research strategy, both ongoing data collection and evaluation, and its implementation in all regions of the world.
 
-## Responsibilities: 
+## Responsibilities 
 
 -Support the Director of Finance & Impact on the development of the organization’s Global Monitoring Evaluation Research and Learning (GMERL) strategy and research goals
 
@@ -47,7 +47,7 @@ HOT is looking for someone passionate about, and experienced in, measuring the i
 
 -Support donor metric reporting alongside program teams
 
-## Qualifications: 
+## Qualifications 
 
 ### Required
 -Bachelor's degree (Master’s preferred) in data science, international development, GIS, or similar field
@@ -71,13 +71,13 @@ HOT is looking for someone passionate about, and experienced in, measuring the i
 
 -Lived or worked internationally a plus
 
-# Compensation & Benefits:
+## Compensation & Benefits
 
 -HOT values salary transparency and equity. All HOT salaries globally are set according to a framework detailed on our website.
 
 -HOT offers a work-from-anywhere culture, flexible working arrangements, a variety of health care options, retirement savings plans (401k or similar), and 24 days of annual leave for all full-time employees, in addition to 12 paid holidays. 
 
-# To Apply: 
+## To Apply
 
 Please complete the linked form to apply. **Please continue to the second page** of the form to upload your CV/resume (max 2 pages). In addition, **please upload a recent report** (max 2 pages) that demonstrates your knowledge in measuring impact of humanitarian or development data interventions or measuring impact of H2H (humanitarian to humanitarian) organizations. Please combine both of these documents into 1 PDF (max 4 pages) and label it 'First Name.Last Name.' 
 
