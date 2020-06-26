@@ -1,5 +1,5 @@
 ---
-title: Monitoring, Evaluation, Research and Learning Manager
+title: Global Monitoring, Evaluation, Research and Learning Manager
 date: 2020-06-26 12:31:00 Z
 Deadline Date: 2020-07-26 00:00:00 Z
 Place of Work: Remote or Washington DC
@@ -8,7 +8,7 @@ Apply Form Link: https://forms.gle/oHL5UfDcNXTqb7N58
 
 **Contract terms:** Full-time
 
-**Location/Duty Station:** Remote or Washington, DC
+**Location/Duty Station:** Remote or Washington DC
 
 **Closes:** 26 July 2020
 
@@ -20,9 +20,11 @@ Apply Form Link: https://forms.gle/oHL5UfDcNXTqb7N58
 
 # About HOT
 
+
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goal. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more 225,000 people with ground operations in six countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.  Leveraging field expertise we’ve built over the past 5\+ years, HOT continues to integrate Disaster Risk Reduction and local community support to increase support for Missing Maps and humanitarian partners including the Red Cross, Médecins Sans Frontières, World Bank, and UN OCHA, among others.
 
 # About You
+
 
 HOT is looking for someone passionate about, and experienced in, measuring the impact of digital development and humanitarian action projects. You should be able to work within a fast-paced, international organization responding to urgent crises and persistent development issues. You should be excited about developing systems and processes to track metrics globally across all the sectors in which HOT works (health, education, gender equity, disaster response, DRR, and more). You should be familiar with the SDGs and measuring the outputs, outcomes and impact of digital projects in a global environment. You will enjoy training implementation teams on the collection of high quality data.  You will have experience carrying out statistical analysis for large-scale global projects. You will work on HOT’s M&E and research strategy, both ongoing data collection and evaluation, and its implementation in all regions of the world.
 
