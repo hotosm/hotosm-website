@@ -1,7 +1,7 @@
 ---
 title: Senior Technical Lead
 date: 2020-06-08 13:22:00 Z
-Deadline Date: 2020-06-26 00:00:00 Z
+Deadline Date: 2020-07-10 00:00:00 Z
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdj9Aw6MHJV_MdotuHvKajCOm4zIfU4l5kBvkKrU8XS8Aj_8Q/viewform
 ---
 
@@ -14,7 +14,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdj9Aw6MHJV_MdotuHvKaj
 **Travel:** Up to 20% international, including to HOT field project locations
 
 
-**Estimated Start Date:** July 1, 2020
+**Estimated Start Date:** July 31, 2020
 
 
 **Work Location:** Remote
@@ -100,4 +100,4 @@ HOT offers a work-from-anywhere culture, flexible working arrangements, a variet
 
 ### To Apply:
 
-Please complete the linked form by June 26, 2020. Continue to the second page to upload your CV/resume. Your CV/resume should not exceed 2 pages.
+Please complete the linked form by July 10, 2020. Continue to the second page to upload your CV/resume. Your CV/resume should not exceed 2 pages.

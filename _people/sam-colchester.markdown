@@ -7,7 +7,6 @@ Member Type:
   Is Voting Member: true
 Project:
 - Missing Maps
-Job Title: Partnerships Associate
 Country: United Kingdom
 ---
 
