@@ -12,7 +12,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd0CEKB2bWiXE_2Ui93KTX
 
 **Closes:** 24 July 2020
 
-**Projected start date:** 1st September 2020
+**Projected start date:** 1 September 2020
 
 **Travel:** Within region up to 40%; with occasional travel outside region
 
