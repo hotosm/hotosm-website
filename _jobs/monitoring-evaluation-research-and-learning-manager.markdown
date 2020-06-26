@@ -9,7 +9,7 @@ Apply Form Link: https://forms.gle/oHL5UfDcNXTqb7N58
 
 **Contract terms:** Full-time
 
-**Location/Duty Station:** REMOTE or Washington, DC
+**Location/Duty Station:** Remote or Washington, DC
 
 **Closes:** 26 July 2020
 
