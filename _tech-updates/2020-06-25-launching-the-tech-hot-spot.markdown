@@ -34,6 +34,6 @@ Let’s start presenting our team:
 - Cristiano Giovando
 - Dakota Benjamin is a Devops Specialist based in NYC. “I am most satisfied knowing that HOT is providing a service that enables everybody to put their own communities on the map. We do humanitarianism responsibly by engaging people and giving them autonomy over their data.“
 - Jorge Martinez
-- Ramya Ragupathy
+- Ramya Ragupathy is a Developer based in Bengaluru - “HOT’s mission, and commitment to open-source keeps me engaged and excited. Variety of stakeholders and the diverse team that we interact with on a daily basis ensures that no day is like any other and we’re constantly focused on improving our community, which gives a positive feeling at the end of each day.”
 - Wille Marcel is a product owner based in Brazil: “The main reason I work for HOT is because I share the passion for OpenStreetMap, Open Source and making the world a better place. Furthermore, I really appreciate the friendly, joyful and respectful culture we have on HOT.”
 - Yogesh Girikumar
