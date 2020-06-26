@@ -17,4 +17,4 @@ We’re happy to reveal that the selected project is SIGenBici from Medellín, C
 
 Thank you to everyone who took part. The projects that submitted their final reports uploaded more than 550,000 images to Mapillary and made 3,230 changesets on OpenStreetMap during #map2020.
 
-For more information about the projects that took part, our selection criteria, or #map2020, please visit the Mapillary Towards Safer Transport #map2020 in 2020 blog post.
+For more information about the projects that took part, our selection criteria, or #map2020, please visit the [Mapillary Towards Safer Transport #map2020 in 2020 blog post](https://blog.mapillary.com/update/2020/06/16/map2020-results.html).
