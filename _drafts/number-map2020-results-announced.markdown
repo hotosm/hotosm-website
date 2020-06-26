@@ -2,7 +2,9 @@
 title: "#map2020 Results Announced"
 date: 2020-06-26 14:18:00 Z
 Feature Image: "/uploads/SIGenBici.jpg"
-Person: Sophie Mower
+Person:
+- Sophie Mower
+- Geoffrey Kateregga
 Working Group:
 - Community
 ---
