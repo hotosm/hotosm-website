@@ -1,7 +1,7 @@
 ---
 title: Global Monitoring, Evaluation, Research and Learning Manager
 date: 2020-06-26 12:31:00 Z
-Deadline Date: 2020-07-26 00:00:00 Z
+Deadline Date: 2020-07-17 00:00:00 Z
 Place of Work: Remote or Washington DC
 Apply Form Link: https://forms.gle/oHL5UfDcNXTqb7N58
 ---
@@ -10,9 +10,9 @@ Apply Form Link: https://forms.gle/oHL5UfDcNXTqb7N58
 
 **Location/Duty Station:** Remote or Washington DC
 
-**Closes:** 26 July 2020
+**Closes:** 17 July 2020
 
-**Projected start date:** 26 August 2020
+**Projected start date:** 17 August 2020
 
 **Reports to:** Director of Finance & Impact
 
@@ -84,4 +84,4 @@ HOT is looking for someone passionate about, and experienced in, measuring the i
 
 Please complete the [linked form](https://docs.google.com/forms/d/e/1FAIpQLScMAzbHPlQhVkxBB7HvJUP7u4AY-HAsoA6y-V8UiRu2CHM1XA/viewform?usp=sf_link) to apply. **Please continue to the second page** of the form to upload your CV/resume (max 2 pages). In addition, **please upload a recent report** (max 2 pages) that demonstrates your knowledge in measuring impact of humanitarian or development data interventions or measuring impact of H2H (humanitarian to humanitarian) organizations. Please combine both of these documents into 1 PDF (max 4 pages) and label it 'First Name.Last Name.'
 
-The deadline to apply is 26 July 2020.
+The deadline to apply is 17 July 2020.
