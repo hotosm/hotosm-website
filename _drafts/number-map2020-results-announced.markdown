@@ -3,7 +3,7 @@ title: "#map2020 Results Announced"
 date: 2020-06-26 14:18:00 Z
 ---
 
-Congratulations to SIGenBici, who have been selected as #map2020 project of the year! 
+Congratulations to [SIGenBici](https://siclas.org/sigenbici/), who have been selected as #map2020 project of the year! 
 
 The #map2020 campaign is a collaborative effort between The Humanitarian OpenStreetMap Team (HOT) and Mapillary that aims to leverage street-level imagery to solve humanitarian challenges. This year we focused on navigation and how people move around their city in low- and middle-income countries. 
 
