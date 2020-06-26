@@ -15,7 +15,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd0CEKB2bWiXE_2Ui93KTX
 
 **Projected start date:** 1st September 2020
 
-**Travel: **Within region up to 40%; with occasional travel outside region
+**Travel:** Within region up to 40%; with occasional travel outside region
 
 # About HOT
 
@@ -47,7 +47,7 @@ The Regional Hub Director serves as HOT’s most senior representative in each o
 
 -Career background in humanitarian data (senior level information management roles or similar), or digital development/ICT4D. 
 
--Work experience at a senior management / director level with experience managing teams and budgets of at least $200,000 USD.
+-Work experience at a senior management/director level with experience managing teams and budgets of at least $200,000 USD.
 
 -Entrepreneurial: thrives in a startup-like environment, enjoys building teams and strategy.
 
