@@ -1,5 +1,5 @@
 ---
-title: Facebook Community Impact Microgrants
+title: Applications Open for Facebook Community Impact Microgrants
 date: 2020-06-27 21:13:00 Z
 Feature Image: "/uploads/6%20Community%20Impact%20MG_FB.png"
 Person:
