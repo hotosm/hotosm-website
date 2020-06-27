@@ -46,11 +46,11 @@ Video pitches will then be shortlisted and reviewed by HOT staff, Facebook staff
 
 We will be hosting a ‘Creating a Great Video Pitch’ webinar on **Monday, July 6th, 2020 at 12pm UTC**. During the webinar we will explain what HOT expects you to include in your pitch, how to develop your project plan, advice for your budget and gender strategy, and how to evolve relationships with local data users. 
 
-(Sign up to the webinar here.)[https://www.eventbrite.com/e/creating-a-great-video-pitch-tickets-110969954120]
+[Sign up to the webinar here.](https://www.eventbrite.com/e/creating-a-great-video-pitch-tickets-110969954120)
 
-(Applications are now open - APPLY NOW!)[https://docs.google.com/forms/d/1Wc3jPdggGhzCua5_37w6oQGBT2caCqUSe3d1s0bFsQE/edit?usp=sharing]
+[Applications are now open - APPLY NOW!](https://docs.google.com/forms/d/1Wc3jPdggGhzCua5_37w6oQGBT2caCqUSe3d1s0bFsQE/edit?usp=sharing)
 
-**Please note that HOT staff members and board members are not eligible to apply. **
+**Please note that HOT staff members and board members are not eligible to apply.**
 
 
 
