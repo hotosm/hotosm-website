@@ -1,7 +1,7 @@
 ---
 title: Applications Open for Facebook Community Impact Microgrants
 date: 2020-06-27 21:13:00 Z
-Feature Image: "/uploads/6%20Community%20Impact%20MG_FB.png"
+Feature Image: "/uploads/6%20Community%20Impact%20MG_FB-18f8f2.png"
 Person:
 - Geoffrey Kateregga
 - Sophie Mower
