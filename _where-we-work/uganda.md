@@ -15,6 +15,7 @@ Location:
   Map Link: https://www.openstreetmap.org/node/5563939535
 continent: AF
 urlname: uganda
+audacious: true
 names:
 - Uganda
 - Republic of Uganda

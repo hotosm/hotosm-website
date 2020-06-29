@@ -2,7 +2,7 @@
 title: 'Mapeando Meu Bairro: Mapping Mafalala'
 date: 2018-05-01 13:56:00 Z
 permalink: projects/mapeando-meu-bairro
-position: 20
+position: 55
 Project Summary Text: Preserving cultural heritage
 Feature Image: "/uploads/reading%20field%20papers%20(blog).jpg"
 Is Community-Led: true

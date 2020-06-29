@@ -3,7 +3,7 @@ title: Espace OSM Francophone
 date: 2013-07-02 20:29:00 Z
 permalink: projects/espace_osm_francophone
 published: false
-position: 57
+position: 96
 Project Summary Text: In 2013, the Espace OSM Francophone project began consolidating
   OSM communities in Chad and Senegal and initiating OSM projects in Togo and Burkina
   Faso.

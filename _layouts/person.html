@@ -130,7 +130,7 @@ layout: default
           </div>
         {% endif %}
 
-        {% if page['Social Media (Full URL)'].OSM or page['Social Media (Full URL)'].Twitter or page['Social Media (Full URL)'].LinkedIn or page['Social Media (Full URL)'].Facebook or page['Social Media (Full URL)'].Instagram %}
+        {% if page['Social Media (Full URL)'].OSM or page['Social Media (Full URL)'].Twitter or page['Social Media (Full URL)'].LinkedIn or page['Social Media (Full URL)'].Facebook or page['Social Media (Full URL)'].Instagram or page['Social Media (Full URL)'].Website %}
           <div class="meta-item">
             <h5>On The Web</h5>
             <ul>
@@ -148,6 +148,9 @@ layout: default
               {% endif %}
               {% if page['Social Media (Full URL)'].Instagram %}
                 <li><a href="{{ page['Social Media (Full URL)'].Instagram }}">Instagram</a></li>
+              {% endif %}
+              {% if page['Social Media (Full URL)'].Website %}
+                <li><a href="{{ page['Social Media (Full URL)'].Website }}">Website</a></li>
               {% endif %}
             </ul>
           </div>

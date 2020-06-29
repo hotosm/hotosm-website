@@ -5,9 +5,10 @@ Photo: "/uploads/GeoffreyKateregga.jpg"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: GIS Training Officer & Community Programs Assistant
+Job Title: Community Programs Manager
 Working Group:
 - Training
+- Community
 - Activation
 Project:
 - Mapping Financial Inclusion in Uganda
@@ -20,7 +21,7 @@ redirect_from:
 - "/users/geoffrey_kateregga"
 ---
 
-<p>Geoffrey currently serves as a GIS Training Officer and Community Programs Assistant based out of the HOT Uganda office. Geoffrey has been involved in HOT since 2015 working on different country projects including Ramani Huria in <a href="http://hotosm.org/projects/tanzania">Tanzania</a>, Financial Inclusion, and Refugee Mapping in <a href="https://www.hotosm.org/where-we-work/uganda/">Uganda</a>, LEGIT in <a href="https://www.hotosm.org/where-we-work/liberia/">Liberia</a>.</p>
+<p>Geoffrey currently serves as the Community Programs Manager based out of the HOT Uganda office. Geoffrey has been involved in HOT since 2015 working on different country projects including Ramani Huria in <a href="http://hotosm.org/projects/tanzania">Tanzania</a>, Financial Inclusion, and Refugee Mapping in <a href="https://www.hotosm.org/where-we-work/uganda/">Uganda</a>, LEGIT in <a href="https://www.hotosm.org/where-we-work/liberia/">Liberia</a>.</p>
 
 <p>Geoffrey is also an active member of the OpenStreetMap Africa community - a network of local OpenStreetMap communities from all over Africa organizing <a href="https://stateofthemap.africa/">State of the Map Africa</a> and joining hands to share resources and collaborate to grow and produce a complete and well-detailed map of Africa on OpenStreetMap in order to advance the quality, completeness and sustainability of geospatial data in Africa.</p>
 

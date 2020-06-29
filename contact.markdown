@@ -23,7 +23,13 @@ Office Locations:
     1110 Vermont Ave. NW Suite 500
     Washington, D.C. 20005
   - "**Indonesia**\n\n[HOT Indonesia Office](https://www.openstreetmap.org/?mlat=-6.2367019057273865&mlon=106.85639351606369#map=19/-6.23670/106.85639)\nJalan
-    Tebet Timur III/i No. 4 \nTebet, Jakarta 12820\nIndonesia"
+    Tebet Timur III/i No. 4 \nTebet, Jakarta 12820"
+  - |-
+    **Philippines**
+
+    [HOT Philippines Office](https://www.openstreetmap.org/node/7144819921)
+    94 10th Avenue, Cubao
+    Quezon City, Metro Manila
   - |-
     **Tanzania**
 
@@ -36,15 +42,11 @@ Office Locations:
 
     [HOT Uganda Office](https://www.openstreetmap.org/node/5601564057)
     Plot 53, Kira Road
-    Kampala, Uganda
+    Kampala
   Nav ID: office-locations
 Media:
-  Details: "\nAre you looking to report about HOT, use our logo, or share about the
-    organization? You can find versions of our logo, photos, and recent articles:\n
-    \n[Logo, colors, and fonts](https://github.com/hotosm/hotosm-website/wiki/Colors-Fonts-and-Logo)\n[Photos
-    from HOT activities](https://www.flickr.com/photos/hotosm/)\n[Photos from Missing
-    Maps](https://www.flickr.com/photos/126636925@N06/)\n[Previous Articles](https://github.com/hotosm/hotosm-website/wiki/Media-Kit#previously-written-articles)\n\nContact
-    us: [info@hotosm.org](mailto:info@hotosm.org)"
+  Details: "For media enquiries, please contact HOT's Senior Communications Manager,
+    Gihan Hassanein.  \n\nEmail: [communications@hotosm.org](mailto:communications@hotosm.org)\n"
   Nav ID: media
 layout: contact
 ---

@@ -1,0 +1,104 @@
+---
+layout: default
+---
+
+<article class="container news-item">
+  <header class="news-header">
+  	<h6>Press Release <span>— {{ page.date | date: '%d %B, %Y' }}</span></h6>
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <div class="hr-h"></div>
+
+  <div class="news-body">
+    <section class="article">
+
+      <div class="news-content">
+        {{ content }}
+      </div>
+
+    </section>
+    <aside class="meta">
+
+      {% capture page.Person %}{% endcapture %}
+      {% if page.Person %}
+        <div class="news-author meta-item">
+          <h5>Posted by</h5>
+        {% for person in page.Person %}
+          <div class="author-item">
+          {% assign author = site.people | where: "title", person | first %}
+            {% if person == author.title %}
+              <div class="author-image">
+                {% if author.Photo %}
+                <img src="{{ author.Photo }}">
+                {% else %}
+                <img src="{{ '/images/avatar.png' | prepend: site.baseurl }}">
+                {% endif %}
+              </div>
+              <div>
+                <p class="author-name">
+                  <a href="{{ author.url }}">{{ author.title }}</a>
+                </p>
+              </div>
+            {% elsif person %}
+              <div class="author-image">
+                <img src="{{ '/images/avatar.png' | prepend: site.baseurl }}">
+              </div>
+              <div>
+                <p class="author-name">
+                  {{ person }}
+                </p>
+              </div>
+            {% endif %}
+          </div>
+                      <br>
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      {% if page.Country and page.Country[0] != '' %}
+        <div class="meta-item">
+          <h5>Countries</h5>
+          <ul>
+
+            {% for page-country in page.Country %}
+              {% for country in site.where-we-work %}
+                {% if page-country == country.title %}
+                  <li><a href="{{ country.url }}">{{ country.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+
+          </ui>
+        </div>
+      {% endif %}
+
+      {% if page['Working Group'] and page['Working Group'][0] != '' %}
+        <div class="meta-item">
+          <h5>Working Groups</h5>
+          <ul>
+            {% for group in page['Working Group'] %}
+              <li><a href="/working-groups">{{ group }}</a></li>
+            {% endfor %}
+          </ui>
+        </div>
+      {% endif %}
+
+      {% if page['Project'] and page['Project'][0] != '' %}
+        <div class="meta-item news-projects">
+          <h5>Associated Projects</h5>
+          <ul>
+            {% for news-project in page.Project %}
+              {% for project in site.projects %}
+                {% if news-project == project.title %}
+                  <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          </ui>
+        </div>
+      {% endif %}
+
+    </aside>
+  </div>
+</article>

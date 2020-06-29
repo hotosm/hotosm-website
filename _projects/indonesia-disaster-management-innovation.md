@@ -2,7 +2,7 @@
 title: 'Disaster Management Through Geospatial Data: DMI'
 date: 2011-09-02 21:19:00 Z
 permalink: projects/indonesia_disaster_management_innovation
-position: 49
+position: 84
 Project Summary Text: 'The DMInnovation (DMI) program is the science and innovation
   component of the Department of Foreign Affairs and Trade (DFAT) Disaster Risk Management
   (DRM) program in Indonesia. DMI has two overarching objectives that support DFAT’s

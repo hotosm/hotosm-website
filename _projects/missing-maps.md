@@ -2,7 +2,7 @@
 title: Missing Maps
 date: 2015-08-01 19:09:00 Z
 permalink: projects/missing_maps
-position: 71
+position: 109
 Project Summary Text: The Missing Maps is a collaborative project founded by HOT,
   Medecins Sans Frontieres, British Red Cross, and the American Red Cross.
 Feature Image: "/uploads/Screen%20Shot%202018-04-23%20at%2012.08.05%20AM.png"
@@ -26,8 +26,6 @@ Link: http://www.missingmaps.org/
 Contact: <p><a href="http://twitter.com/themissingmaps">http://twitter.com/themissingmaps</a></p><p><a
   title="Missing Maps facebook" href="http://facebook.com/theMissingMaps">http://facebook.com/theMissingMaps</a></p>
 created: 1438456158
-tm_campaigns:
-- Missing Maps
 ---
 
 The project aim is to provide base maps in the most vulnerable places in the developing world, so international and local NGOs and individuals can use the maps and data to better respond to crises affecting those areas, especially supporting 'hidden emergencies' - when huge humanitarian crises still don't make the headlines. Since it's inception in 2014, the project has expanded to over 15 new members. For more details, see the [Missing Maps website](http://www.missingmaps.org/).

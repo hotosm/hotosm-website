@@ -28,6 +28,10 @@ collections:
     title: People
     output: true
     permalink: "/people/:title/"
+  press-releases:
+    title: Press Releases
+    output: true
+    permalink: press-releases/:path/
   projects:
     title: Projects
     output: true
@@ -97,6 +101,7 @@ defaults:
       LinkedIn: 
       Facebook: 
       Instagram: 
+      Website: 
 - scope:
     path: ''
     type: impact-areas
@@ -175,6 +180,24 @@ defaults:
     Tools:
     - title: ''
     - link: ''
+- scope:
+    path: ''
+    type: volunteer-opportunities
+  values:
+    layout: page
+    Place of Work: 
+    Deadline Date: 
+    Apply Form Link: 
+- scope:
+    path: ''
+    type: press-releases
+  values:
+    permalink: press-releases/:title/
+    layout: press-release
+    Person:
+    - ''
+    Project:
+    - ''
 future: true
 email: info@hotosm.org
 description: Write an awesome description for your new site here. You can edit this

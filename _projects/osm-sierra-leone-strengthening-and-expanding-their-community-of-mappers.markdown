@@ -1,6 +1,7 @@
 ---
 title: 'OSM Sierra Leone: Strengthening and expanding their community of mappers'
 date: 2020-01-20 09:15:00 Z
+position: 14
 Project Summary Text: OSM Sierra Leone aims to strengthen and expand their community
   of mappers and provide relief and development organizations with the information
   they need to respond to improve lives across the country.

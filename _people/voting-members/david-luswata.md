@@ -5,7 +5,7 @@ Photo: "/uploads/david_luswata_1-aa94bc.JPG"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Project Manager
+Job Title: Programs Manager
 Working Group:
 - Training
 - Communications

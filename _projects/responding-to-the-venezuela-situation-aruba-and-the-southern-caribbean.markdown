@@ -5,7 +5,7 @@ published: false
 categories:
 - needs assessment
 - access to services
-position: 0
+position: 92
 Project Summary Text: In response to the ongoing economic and humanitarian crisis
   in Venezuela, HOT is providing assistance to UNHCR to assess the conditions, population,
   and needs of Venezuelans in Aruba.

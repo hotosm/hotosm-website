@@ -1,0 +1,73 @@
+---
+title: Team up in the new Tasking Manager
+date: 2020-05-06 23:59:00 Z
+Summary Text: 'The future is here! A fresh frontend with an integrated ID editor and
+  many new improvements await you.
+
+'
+Feature Image: "/uploads/blog-post-2-image1.gif"
+Is image top aligned: true
+Person:
+- Felix Delattre
+- Sam Colchester
+Working Group:
+- Technical
+Project:
+- 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
+---
+
+The future is here! Go and check out the [next evolution](https://hotosm.org/updates/tasking-manager-gets-a-makeover) of the [HOT Tasking Manager](https://tasks.hotosm.org).
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3B7GXZ2v-_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+</div>
+
+> **What is the Tasking Manager?**
+>
+> The Tasking Manager, built by Humanitarian OpenStreetMap Team (HOT) is designed to coordinate mapping in [OpenStreetMap](https://openstreetmap.org). Tasking manager enables anyone, anywhere in the world to contribute to humanitarian responses and development programs that improve people’s lives. It is the leading tool for coordinating volunteers and organizing groups on OpenStreetMap.
+
+Our exciting new 'teams' enhancement enables mappers and validators alike to team up and collaborate on projects and improve lives, together.
+
+Like before, mapping projects are connected to one organization or community. But now, organizations can manage their own space, administrators and teams to coordinate and collaborate on projects.
+
+![blog-post-2-image2.jpg](/uploads/blog-post-2-image2.jpg)
+
+Groups of users (teams) can be assigned projects. Each of them can be given certain permissions like mapping, validation or editing - including project metadata.  Organizations can now have one (or many) - 'Mappers', 'Validators' and 'Managers'.
+
+**Let's illustrate these new and flexible options with some examples:**
+
+* A team of approved mappers can be selected for validation and quality assurance on a mapping project.
+
+* On special projects, it might be desirable to restrict mapping to a special group of people. This can be done by assigning a team the mapping permission on the project.
+
+* Oftentimes, several people manage a project together. For example, during a mapathon some of people might want to adjust the project description. A team can be used to give permission to a select group of people to edit and manage projects together.
+
+  ![blog-post-2-image3.jpg](/uploads/blog-post-2-image3.jpg)
+
+These new features will allow organizations to create and manage permissions with more distinction than ever before. Project managers can determine and manage permissions independently - such as deciding on a group of validators - without their decisions affecting other teams and users on the platform.
+
+> **Project permission settings in Tasking Manager 4**
+>
+> **Mapping**
+>
+> * Any - Anybody can map
+>
+> * Level - Mapping can be done only by experienced mappers
+>
+> * Team - Specify teams that are allowed to map
+>
+> * Team and Level - Only give access for mapping to all members of specified teams with intermediate or advanced experience level.
+>
+> **Validation**
+>
+> * Any - Anybody can validate
+>
+> * Level - Validation can be done only by experienced mappers
+>
+> * Team - Specify teams that are allowed to validate
+>
+> * Team and Level - Only give access for validation to all members of specified teams with intermediate or advanced experience level.
+>
+> **Project management**
+>
+> * Team - Set access to edit projects to members of (a) specified team(s)

@@ -4,11 +4,12 @@ date: 2018-03-08 15:23:00 Z
 permalink: "/staff/"
 redirect_from:
 - "/team"
-layout: roster-staff
 countries:
 - Indonesia
+- Philippines
 - Tanzania
 - Uganda
+layout: roster-staff
 ---
 
 A team of dedicated volunteer leaders, staff, contractors, and interns lead HOT's work.

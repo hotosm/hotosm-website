@@ -2,12 +2,9 @@
 title: Mapping the Tien Shan mountains
 date: 2016-05-10 18:58:07 Z
 permalink: updates/2016-05-10_mapping_the_tien_shan_mountains
-Summary Text: "(Guest post by Aline Rosset, University of Central Asia) OpenStreetMap
-  workshops with teachers and high school children of 10 rural villages in Kyrgyzstan.
-  The Kyrgyz Mountains Environmental Education and Citizen Science project aims at
-  developing simple tools and activities for teachers to learn and conduct scientific
-  investigations on the water resources around their village, and make the collected
-  data publicly available."
+Summary Text: Capacity building around OpenStreetMap. Supporting teachers and high
+  school children in rural villages in Kyrgyzstan to build their maps for Citizen
+  Science.
 Person: Felix Delattre
 Working Group:
 - Training

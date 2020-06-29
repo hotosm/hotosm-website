@@ -3,7 +3,7 @@ title: OpenStreetMap Analytics
 date: 2016-04-28 12:18:00 Z
 permalink: projects/openstreetmap_analytics
 published: false
-position: 79
+position: 116
 Person:
 - Nate Smith
 - Melanie Eckle

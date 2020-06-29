@@ -2,16 +2,15 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: false
-  Small Block: 
-  Main Block: 
-  Secondary Block: 
-  Optional Text: 
-  Link Copy: 
-  URL: 
+  Is Activated: true
+  Main Block: AUDACIOUS PROJECT
+  Secondary Block: What if we could map one billion people currently missing from
+    the world’s maps?
+  Link Copy: Find Out How
+  URL: https://www.hotosm.org/projects/audacious/
 Project:
-- 'Refugee response: South Sudan and Syria'
-- 'Urban flood resilience: Ramani Huria'
+- Audacious Project
+- HOT COVID-19 RESPONSE
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap

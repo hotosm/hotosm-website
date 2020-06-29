@@ -5,7 +5,7 @@ Photo: "/uploads/Screen%20Shot%202018-09-15%20at%2012.29.57.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Programs Associate
+Job Title: Programs Manager
 Working Group:
 - Training
 Project:
@@ -13,6 +13,9 @@ Project:
 - 'Field data collection for malaria elimination: National Malaria Programme'
 - 'Supporting decentralization in Liberian cities: LEGIT'
 - 'Responding to the Venezuela Situation: Aruba & the Southern Caribbean'
+- 'Scaling Machine-Learning Workflows for Participatory Mapping: Monrovia ML Challenge'
+- 'Productivity and Pollution Impacts: Monrovia Market Mapping'
+- 4 County Digitization Liberia
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/jessbeutler
   LinkedIn: https://www.linkedin.com/in/jess-beutler/

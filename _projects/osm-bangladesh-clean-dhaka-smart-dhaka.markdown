@@ -2,7 +2,7 @@
 title: 'OSM Bangladesh: Clean Dhaka, Smart Dhaka'
 date: 2018-06-05 09:14:00 Z
 permalink: projects/osm-bangladesh-clean-dhaka-smart-dhaka
-position: 27
+position: 62
 Project Summary Text: Improving waste management in Dhaka
 Feature Image: "/uploads/IMG_20180408_121822%20(1).jpg"
 Is Community-Led: true
