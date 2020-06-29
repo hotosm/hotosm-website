@@ -42,7 +42,7 @@ Here are two examples of successful video pitches:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EQ54NESoIX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+</br>
 Video pitches will then be shortlisted and reviewed by HOT staff, Facebook staff, and HOT voting members. 
 
 We will be hosting a ‘Creating a Great Video Pitch’ webinar on **Monday, July 6th, 2020 at 12pm UTC**. During the webinar we will explain what HOT expects you to include in your pitch, how to develop your project plan, advice for your budget and gender strategy, and how to evolve relationships with local data users. 
