@@ -3,16 +3,21 @@ title: Matthew Gibb
 date: 2017-02-28 14:23:00 Z
 redirect_from:
 - "/users/matthew_gibb"
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-383-1488293342.jpg
+Photo: "/uploads/matthew_gibb.jpg"
 Member Type:
   Is Voting Member: true
+Job Title: Voting Membership Chairperson
+Working Group:
+- Data Quality and Assurance
+- Strategic
 Project:
 - Missing Maps
 - OpenMapKit
-- 'Haiti '
+- 'Haiti'
 - Hurricane Matthew
 Country: United States
 Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Giblet
   Twitter: https://twitter.com/giblet22
 ---
 
