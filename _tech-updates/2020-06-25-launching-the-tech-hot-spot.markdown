@@ -5,17 +5,15 @@ Summary Text: ''
 Feature Image: ''
 Person:
 - Bo Percival
-- Wille Marcel
-Tool:
-- Tasking Manager
+- Ramya Ragupathy
 
 ---
 
-Welcome to HOT’s first engineering blog post. 
-We will be using this space to share stories from HOT team's Engineering world. 
+Welcome to HOT’s first engineering blog post.
+We will be using this space to share stories from HOT team's Engineering world.
 We have another blog as well, where you can read about general HOT news and project updates.
 
-Our tech blog page will talk about ways in which the engineering team plays a strong role in HOT's mission. 
+Our tech blog page will talk about ways in which the engineering team plays a strong role in HOT's mission.
 
 So you can expect stories around:
 
