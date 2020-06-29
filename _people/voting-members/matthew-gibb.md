@@ -13,7 +13,7 @@ Working Group:
 Project:
 - Missing Maps
 - OpenMapKit
-- 'Haiti'
+- Haiti
 - Hurricane Matthew
 Country: United States
 Social Media (Full URL):
