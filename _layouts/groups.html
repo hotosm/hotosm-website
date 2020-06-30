@@ -78,7 +78,10 @@ layout: default
                     <a href="{{ group['Calendar'] }}">Calendar</a> |
                     {% endif %}
                     {% if group['Chat'] %}
-                    <a href="{{ group['Chat'] }}">Chat</a>
+                    <a href="{{ group['Chat'] }}">Chat</a> 
+                    {% endif %}
+                    {% if group['Blog'] %}
+                    | <a href="{{ group['Blog'] }}">Blog</a>
                     {% endif %}
                   </p>
                 </div>
