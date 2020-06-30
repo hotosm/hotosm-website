@@ -48,7 +48,7 @@ collections:
       link: 
     - tool: 
       link:
-  tech-updates:
+  tech-blog:
     title: Tech Blog
     output: true 
   tools:
@@ -84,9 +84,9 @@ defaults:
     - ''
 - scope:
     path: ''
-    type: tech-updates
+    type: tech-blog
   values:
-    permalink: tech-updates/:title/
+    permalink: tech-blog/:title/
     layout: news-item
     Summary Text: 
     Feature Image: 
@@ -240,4 +240,4 @@ paginate_path: "/updates/page:num/"
 feed:
   collections:
     - press-releases
-    - tech-updates
+    - tech-blog

@@ -33,7 +33,7 @@ layout: default
           </div>
           <div class="social-item">
             <div class="social-img">
-              <a href="/feed/tech-updates.xml" title="Atom Feed">
+              <a href="/feed/tech-blog.xml" title="Atom Feed">
                 <svg xmlns="http://www.w3.org/2000/svg"
                    id="RSSicon"
                    viewBox="0 0 8 8" width="15" height="14">
@@ -51,7 +51,7 @@ layout: default
             </div>
             <div class="social-txt">
               <p>
-                <a href="/feed/tech-updates.xml">Atom Feed</a>
+                <a href="/feed/tech-blog.xml">Atom Feed</a>
               </p>
             </div>
           </div>
@@ -62,10 +62,10 @@ layout: default
 
     <div class="news-index-list">
 
-      {% assign sorted = site.tech-updates | sort: 'date' %}
-      {% assign tech-updates = sorted | reverse %}
+      {% assign sorted = site.tech-blog | sort: 'date' %}
+      {% assign tech-blog = sorted | reverse %}
 
-      {% for post in tech-updates %}
+      {% for post in tech-blog %}
 
         <div class="news-index-item">
 
