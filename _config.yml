@@ -49,7 +49,7 @@ collections:
     - tool: 
       link:
   tech-updates:
-    title: Tech HOT Spot
+    title: Tech Blog
     output: true 
   tools:
     title: Tools
