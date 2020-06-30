@@ -1,6 +1,8 @@
 ---
 title: Second Round of Rapid Response Micrograntees Announced!
 date: 2020-06-30 14:11:00 Z
+Summary Text: Congratulations to the latest COVID-19 Rapid Response Micrograntees!
+  Their work will make their communities more resilient and help people stay safe.
 Feature Image: "/uploads/data-collab-teamOSM%20Senegal.jpeg"
 Person:
 - Rebecca Firth
