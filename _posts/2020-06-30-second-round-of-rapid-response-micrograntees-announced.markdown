@@ -10,6 +10,8 @@ Person:
 - Sophie Mower
 Working Group:
 - Community
+Project:
+- 'Community development: Microgrants and Device Grants'
 ---
 
 Congratulations to [OSM DRC](http://openstreetmap.cd), OSM Senegal, and Humanitarian Mappers from Nigeria for being awarded Rapid Response Microgrants to support their COVID-19 related mapping activities! 
@@ -29,4 +31,4 @@ OpenStreetMap Senegal and [Healthsites.io](https://healthsites.io/) will be mapp
 
 Humanitarian Mappers will be mapping safe places and quarantine centers in IDP camps as well as isolation centers in Northeastern Nigeria (Borno, Adamawa, Yobe). The project will digitize roads, tag/name features, and provide road attributes by training local community members and ambulance response teams in using OSM and OSM routing tools. The project will work with student volunteers from institutions of higher education in the region, who will conduct remote mapping, and the state COVID-19 Taskforce Team, who are the identified local data users. 
 
-HOT would like to offer a big congratulations to everyone who applied for the Rapid Response Microgrant: COVID-19 Program. We had an overwhelming number of applications, all of which were very strong. Although we are no longer accepting applications for rapid response funding, we encourage each and every applicant to continue to apply for our Microgrants.
+HOT would like to offer a big congratulations to everyone who applied for the Rapid Response Microgrant: COVID-19 Program. We had an overwhelming number of applications, all of which were very strong. Although we are no longer accepting applications for rapid response funding, we encourage each and every applicant to continue to apply for our [Microgrants](https://www.hotosm.org/projects/microgrants_and_community_development).
