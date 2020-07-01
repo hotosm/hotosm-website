@@ -47,7 +47,10 @@ collections:
     - tool: 
       link: 
     - tool: 
-      link: 
+      link:
+  tech-blog:
+    title: Tech Blog
+    output: true 
   tools:
     title: Tools
     output: true
@@ -78,6 +81,24 @@ defaults:
     Country:
     - ''
     Project:
+    - ''
+- scope:
+    path: ''
+    type: tech-blog
+  values:
+    permalink: tech-blog/:title/
+    layout: news-item
+    Summary Text: 
+    Feature Image: 
+    Is image top aligned: 
+    Person: 
+    Working Group:
+    - ''
+    Country:
+    - ''
+    Project:
+    - ''
+    Tool:
     - ''
 - scope:
     path: ''
@@ -216,3 +237,7 @@ plugins:
 - jekyll-sitemap
 paginate: 16
 paginate_path: "/updates/page:num/"
+feed:
+  collections:
+    - press-releases
+    - tech-blog
