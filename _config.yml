@@ -47,10 +47,10 @@ collections:
     - tool: 
       link: 
     - tool: 
-      link:
+      link: 
   tech-blog:
     title: Tech Blog
-    output: true 
+    output: true
   tools:
     title: Tools
     output: true
@@ -239,5 +239,5 @@ paginate: 16
 paginate_path: "/updates/page:num/"
 feed:
   collections:
-    - press-releases
-    - tech-blog
+  - press-releases
+  - tech-blog
