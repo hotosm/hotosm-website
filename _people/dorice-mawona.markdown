@@ -5,5 +5,6 @@ Photo: "/uploads/IMG_9281.JPG"
 Member Type:
   Is Staff: true
 Job Title: Quality Assurance Supervisor
+Country: Tanzania
 ---
 
