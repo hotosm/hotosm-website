@@ -30,11 +30,7 @@ Reporting to the Director of Partnerships & Community, this position will manage
 
 * Responsible for creating HOT’s global Community Engagement Strategy which emphasizes flexible and tailored support to all members of HOT’s community worldwide
 
-* Steward the growth of the HOT community from 230,000 members (presently) to one million members globally (by 2025) while ensuring:
-
-> > > • Increasing engagement with ‘local’ volunteers in the locations being mapped
-> > > • All activities are community led, ensure community diversity across gender, indigenous communities, and other marginalised groups
-> > > • Ensuring engagement as user base grows; active and recurring user base
+* Steward the growth of the HOT community from 230,000 members (presently) to one million members globally (by 2025) while ensuring: (1) Increasing engagement with ‘local’ volunteers in the locations being mapped, (2) All activities are community led, ensure community diversity across gender, indigenous communities, and other marginalised group, (3) Ensuring engagement as user base grows; active and recurring user base
 
 * Manage the Community Team made up of 5 direct reports and 8 indirect reports globally, supporting HOT local community activities (with OpenStreetMap communities across 94 countries), and online activities with HOT’s global open source community members.
 
