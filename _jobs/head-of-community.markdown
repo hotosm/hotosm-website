@@ -1,7 +1,6 @@
 ---
 title: Head of Community
 date: 2020-07-02 11:55:00 Z
-published: false
 Deadline Date: 2020-07-26 00:00:00 Z
 Place of Work: Remote or HOT Regional Hub
 Apply Form Link: https://forms.gle/ntLWkADB55RJULsK7
