@@ -20,7 +20,7 @@ Apply Form Link: https://forms.gle/ntLWkADB55RJULsK7
 
 # About HOT
 
-Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goal. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more 225,000 people with ground operations in six countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need. Leveraging field expertise we’ve built over the past 5\+ years, HOT continues to integrate Disaster Risk Reduction and local community support to increase support for Missing Maps and humanitarian partners including the Red Cross, Médecins Sans Frontières, World Bank, and UN OCHA, among others.
+Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goal. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more 230,000 people with ground operations in six countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need. Leveraging field expertise we’ve built over the past 5\+ years, HOT continues to integrate Disaster Risk Reduction and local community support to increase support for Missing Maps and humanitarian partners including the Red Cross, Médecins Sans Frontières, World Bank, and UN OCHA, among others.
 
 # Role Profile: Head of Community
 
