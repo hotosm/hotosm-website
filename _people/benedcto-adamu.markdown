@@ -5,5 +5,6 @@ Photo: "/uploads/BENEDICTO%20ADAM-7c67e5.JPG"
 Member Type:
   Is Staff: true
 Job Title: Quality Assurance Associate
+Country: Tanzania
 ---
 
