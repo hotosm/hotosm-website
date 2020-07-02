@@ -40,7 +40,7 @@ recurring user base
 
 -Manage the Community Team made up of 5 direct reports and 8 indirect reports globally, supporting HOT local community activities (with OpenStreetMap communities across 94 countries), and online activities with HOT’s global open source community members.
 
--Create and execute HOT’s strategy for providing microgrants to 94 OpenStreetMap communities over a period of five years with support from the Microgrants Manager
+-Create and execute HOT’s strategy for providing microgrants to 94 OpenStreetMap communities over a period of five years with support from the Microgrants Manager.
 
 -Oversee the set-up of end-to-end community support programs, from the set-up of community where little OSM community exists, through to successful completion of microgrant project and establishment of a local organisation, including:
 
