@@ -29,36 +29,37 @@ Reporting to the Director of Partnerships & Community, this position will manage
 
 ## Responsibilities
 
--Responsible for creating HOT’s global Community Engagement Strategy which emphasizes flexible and tailored support to all members of HOT’s community worldwide.
+* Responsible for creating HOT’s global Community Engagement Strategy which emphasizes flexible and tailored support to all members of HOT’s community worldwide.
 
--Steward the growth of the HOT community from 230,000 members (presently) to one million members globally (by 2025) while ensuring:
+* Steward the growth of the HOT community from 230,000 members (presently) to one million members globally (by 2025) while ensuring:
 
-* Increasing engagement with ‘local’ volunteers in the locations being mapped
-* All activities are community led, ensure community diversity across gender, indigenous communities, and
+1. Increasing engagement with ‘local’ volunteers in the locations being mapped
+2. All activities are community led, ensure community diversity across gender, indigenous communities, and
 other marginalised groups
-* Ensuring engagement as user base grows; active and
+3. Ensuring engagement as user base grows; active and
 recurring user base
+
 * Manage the Community Team made up of 5 direct reports and 8 indirect reports globally, supporting HOT local community activities (with OpenStreetMap communities across 94 countries), and online activities with HOT’s global open source community members.
 
--Create and execute HOT’s strategy for providing microgrants to 94 OpenStreetMap communities over a period of five years with support from the Microgrants Manager
+* Create and execute HOT’s strategy for providing microgrants to 94 OpenStreetMap communities over a period of five years with support from the Microgrants Manager
 
--Oversee the set-up of end-to-end community support programs, from the set-up of community where little OSM community exists, through to successful completion of microgrant project and establishment of a local organisation, including:
+* Oversee the set-up of end-to-end community support programs, from the set-up of community where little OSM community exists, through to successful completion of microgrant project and establishment of a local organisation, including:
 
-* Leading on strategy and execution of capacity building for OSM communities wanting to formalize their structure
-* Oversee Microgrants Manager in establishing Microgrants granting framework (topics, time length, funding levels)
-* Support Regional Hub Directors to ensure the execution of microgrants is successful in their region
-* Support HOT’s Monitoring, Evaluation, Research and
+1. Leading on strategy and execution of capacity building for OSM communities wanting to formalize their structure
+2. Oversee Microgrants Manager in establishing Microgrants granting framework (topics, time length, funding levels)
+3. Support Regional Hub Directors to ensure the execution of microgrants is successful in their region
+4. Support HOT’s Monitoring, Evaluation, Research and
 Learning team defining growth and maturity metrics, and conducting M&E on community programs
 
--Oversee the development and execution of HOT’s Online Community Engagement strategy in line with the Online Community Manager, ensuring online community feedback is actively consulted and relevant solutions implemented, and ensuring volunteering/contributing to HOT as part of the online community is both productive and welcoming.
+* Oversee the development and execution of HOT’s Online Community Engagement strategy in line with the Online Community Manager, ensuring online community feedback is actively consulted and relevant solutions implemented, and ensuring volunteering/contributing to HOT as part of the online community is both productive and welcoming.
 
--Support HOT Tech Team with community engagement for online open source contributors for specific tools.
+* Support HOT Tech Team with community engagement for online open source contributors for specific tools.
 
--Line manage Microgrants Community Manager, Online Community Manager, and co-manage Community Managers in HOT’s four regional hubs in conjunction with Regional Hub Directors.
+* Line manage Microgrants Community Manager, Online Community Manager, and co-manage Community Managers in HOT’s four regional hubs in conjunction with Regional Hub Directors.
 
--Establish effective knowledge sharing between HOT’s four regional hubs.
+* Establish effective knowledge sharing between HOT’s four regional hubs.
 
--Input to HOT’s Partnerships Strategy to ensure this meets community needs.
+* Input to HOT’s Partnerships Strategy to ensure this meets community needs.
 
 ## Qualifications
 
