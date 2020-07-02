@@ -5,5 +5,6 @@ Photo: "/uploads/IMG_1456.JPG"
 Member Type:
   Is Staff: true
 Job Title: Communications Assistant
+Country: Tanzania
 ---
 
