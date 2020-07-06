@@ -60,7 +60,7 @@ The possibilities for routing don’t stop at solid waste collection. pgRouting 
 
 Below, you’ll find the steps to create your own pgRouting network dataset and see how to create routes from node to node in your network. Note that this tutorial takes you through the steps primarily using Linux (which you should be using), which we have extensively tested. We did our best to give accurate instructions for other operating systems, but there may be differences for Mac and Windows users.
 
-Please contact us at [omdt@gmail.com](http://omdt@gmail.com) or [eubank.aaron@gmail.com](http://eubank.aaron@gmail.com) if you find our information could be improved in any way.
+Please contact us at [omdtanzania@gmail.com](http://omdtanzania@gmail.com) or [eubank.aaron@gmail.com](http://eubank.aaron@gmail.com) if you find our information could be improved in any way.
 
 ## Step-By-Step Tutorial: Routing in Dar Es Salaam
 
