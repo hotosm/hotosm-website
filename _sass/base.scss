@@ -715,6 +715,7 @@ em {
   overflow: hidden;
   border-radius: 2px;
   margin-bottom: 24px;
+  text-decoration: none;
   background-color: shade($blue-dark, 20%);
   @media (max-width: $screen-md) {
     grid-template-rows: 460px;
