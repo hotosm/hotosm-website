@@ -32,7 +32,7 @@ Finances:
     data about the successes and impact of the community. \n\nDownload our latest
     annual report below. Access our annual report archive <a href=\"https://hotosm.org/annual-reports/\">here.</a>"
   Annual Report Button: Access 2019 Annual Report
-  Annual Report URL: https://annualreport2019.hotosm.org/
+  Annual Report URL: "https://annualreport2019.hotosm.org/"
 layout: community
 ---
 
