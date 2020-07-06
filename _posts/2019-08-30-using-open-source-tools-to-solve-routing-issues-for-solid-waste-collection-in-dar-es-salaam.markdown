@@ -8,14 +8,10 @@ categories:
 tags:
 - Roads
 - analytics
-Summary Text: " One of the biggest difficulties in establishing an effective and efficient
+Summary Text: 'One of the biggest difficulties in establishing an effective and efficient
   waste management collection and transportation system in Dar es Salaam is how long
   it takes to travel to Pugu dumpsite, the only officially designated solid waste
-  dump in the city, and the best route to use. Depending on the time of day, it can
-  take up to five or more hours for a return trip to certain points in the city. If
-  there is a designated route for those collecting trash and taking it to the main
-  dumping site, it will increase efficiency and planning for solid waste collectors
-  and improve the quality and reliability of solid waste collection in the city."
+  dump in the city, and the best route to use. '
 Feature Image: "/uploads/Map_Final.jpg"
 Is image top aligned: true
 Person: Aaron Eubank
@@ -28,7 +24,7 @@ Project:
 layout: news-item
 ---
 
-One of the biggest difficulties in establishing an effective and efficient waste management collection and transportation system in Dar es Salaam is how long it takes to travel to Pugu dumpsite, the only officially designated solid waste dump in the city, and the best route to use. Depending on the time of day, it can take up to five or more hours for a return trip from certain points in the city. If there is a designated route for those collecting trash and taking it to the main dumping site, it will increase efficiency and planning for solid waste collectors and improve the quality and reliability of solid waste collection in the city.
+Depending on the time of day, it can take up to five or more hours for a return trip from certain points in the city. If there is a designated route for those collecting trash and taking it to the main dumping site, it will increase efficiency and planning for solid waste collectors and improve the quality and reliability of solid waste collection in the city.
 
 ![trash.jpg](/uploads/trash.jpg)
 *An informal solid waste dump site in Dar es Salaam. The number of sites like these could be greatly reduced with better collection planning and scheduling.*
