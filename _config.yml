@@ -65,6 +65,10 @@ collections:
     title: Working Groups
     output: true
     permalink: "/community/working-groups/:path/"
+  annual-reports:
+    title: Annual Reports
+    output: true
+    permalink: "/annual-reports/:path/"
 defaults:
 - scope:
     path: ''
@@ -219,6 +223,14 @@ defaults:
     - ''
     Project:
     - ''
+- scope:
+    path: ''
+    type: annual-reports
+  values:
+    layout: groups
+    Link:
+    Image:
+    Download:
 future: true
 email: info@hotosm.org
 description: Write an awesome description for your new site here. You can edit this
