@@ -90,6 +90,27 @@ layout: default
           {% endfor %}
         {% endif %}
 
+        {% if page.url contains "/annual-reports/" %}
+        {% assign reports = site.annual-reports | sort: 'date' %}
+        {% assign reports = reports | reverse %}
+          {% for group in reports %}
+            <a class="highlight-module secondary-highlight-module link-through light" href="{{ group['Link'] }}"  target="_blank">
+              <div class="highlight-details">
+                <div class="highlight-info">
+                  <h3>{{ group.title }}</h3>
+                  {{ group.content }}
+                </div>
+              </div>
+              {% if group['Image'] %}
+              <div class="highlight-image">
+                <img src="{{ group['Image'] }}">
+              </div>
+              {% endif %}
+            </a>
+          {% endfor %}
+        {% endif %}
+
+
         {% if page.url contains "/jobs/" %}
 
           <div class="group-section">

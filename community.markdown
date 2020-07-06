@@ -26,13 +26,13 @@ Finances:
     Access older financial reports and organization bylaws in our archive <a href="https://github.com/hotosm/hotosm-website/tree/gh-pages/downloads">here.</a>
   990 Report Button: Download 2018 990 PDF
   990 Report URL: "/uploads/HOTOSM%20990_PD%202018.PDF"
-  Annual Report Header: 2018 Annual Report
+  Annual Report Header: 2019 Annual Report
   Annual Report Text: "Each year we publish an annual report to recap projects and
     share updates from the community. We cover stories from our projects and share
     data about the successes and impact of the community. \n\nDownload our latest
-    annual report below. Access our annual report archive <a href=\"https://github.com/hotosm/hotosm-website/tree/gh-pages/downloads\">here.</a>"
-  Annual Report Button: Download 2018 PDF
-  Annual Report URL: "/downloads/2018-Annual-Report.pdf"
+    annual report below. Access our annual report archive <a href=\"https://hotosm.org/annual-reports/\">here.</a>"
+  Annual Report Button: Access 2019 Annual Report
+  Annual Report URL: "https://annualreport2019.hotosm.org/"
 layout: community
 ---
 
