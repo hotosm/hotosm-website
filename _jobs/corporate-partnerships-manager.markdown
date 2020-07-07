@@ -1,7 +1,6 @@
 ---
 title: Corporate Partnerships Manager
 date: 2020-07-07 06:42:00 Z
-published: false
 Deadline Date: 2020-07-29 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://forms.gle/FLT6rEpHPKVi3rtLA
@@ -15,7 +14,7 @@ Apply Form Link: https://forms.gle/FLT6rEpHPKVi3rtLA
 
 **Projected start date:** 24th August 2020 
 
-**Reports to: **Head of Partnerships 
+**Reports to:** Head of Partnerships 
 
 **Travel:** Up to 10% international travel (including HOT’s annual conference, corporate partner conferences/events, in person staff meetings) 
 
