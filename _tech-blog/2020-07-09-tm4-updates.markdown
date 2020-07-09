@@ -1,0 +1,77 @@
+---
+title: Latest Tasking Manager updates
+date: 2020-07-09 12:30:00 Z
+Summary Text: 'HOT released Tasking Manager 4.0 in April 2020 and since then the Tech Team is constantly improving it with new features, performance improvements and bug fixes.'
+Feature Image: /uploads/tm4-projects.jpg
+Person:
+- Wille Marcel
+---
+
+​​This blog post gives an overview of some of the most valuable features added to [Tasking Manager](https://tasks.hotosm.org/) in the last few weeks.<br><br>
+
+## Shareable Task links
+
+In Tasking Manager 4 you can share links directly to a task. In the tasks tab, click on the 🔗 icon on the right side of the task that you want to share.
+<br><br>
+
+![](/uploads/tm4-task-link.jpeg)
+<br><br>
+
+When you click on that icon, the link will be copied to your clip board.
+<br><br>
+
+![](/uploads/tm4-task-link.gif)
+<br><br>
+
+## Evaluate a Task without an explicit lock
+
+Users with validation permission for a project can open **Unavailable** or **Finished** tasks in JOSM or iD without locking that task. It’s useful when you want to check if the task really lacks of a good imagery or if it was correctly validated.
+
+![](/uploads/tm4-open-task.png)
+
+Notice that those tasks also have a  `Request revalidation`  option (Request mapping, in the case of unavailable tasks). We explain about those actions in the following sections.<br><br>
+
+## Request revalidation of Tasks
+
+Users with validation permission for a project can revert the **“Finished”** tasks to **“Mapped”** state. You can use it when you notice that a task was incorrectly validated. This can be done through the **“Request revalidation”** button in the Task Activity modal.
+
+![](/uploads/tm4-revalidation.gif)
+<br><br>
+
+## Revert bad imagery Tasks
+
+Users with validation permission for a project can revert bad imagery tasks that  is - set **“Unavailable**” tasks to **“Available for mapping”** state. This can be done through the **“Request mapping”** button in the Task Activity modal.
+
+![](/uploads/tm4-remapping.gif)
+<br><br>
+
+## Improvements to Project Management Page
+
+Some users are managers of multiple organizations or have to manage projects across many campaigns. Through the Manage projects section, it’s possible to filter the projects by campaigns and organizations. You can combine those filters with any other available actions on the page.
+
+![](/uploads/tm4-manage-projects.png)
+<br><br>
+
+Other important change is that it’s possible to see the project in a list, instead of showing it on cards. You can use the button in the top right corner to switch between card and list view.
+
+![](/uploads/tm4-list-view.gif)
+<br><br>
+
+## Lock multiple Tasks for validation
+
+It’s possible to select multiple tasks for validation. You just need to click on mapped tasks to enable it.
+
+![](/uploads/tm4-multipleSelection.gif)
+
+When you open multiple tasks for validation in JOSM, the OSM data for all of them will be downloaded in one single layer. It makes the validation workflow faster and simple.<br><br>
+
+## Filter new users in project’s contributors list
+
+The contributions tab lists all the users that have contributed to a project. Now it’s possible to filter only the users that registered on Tasking Manager in the last 30 days, that way you can identify the novice users and the tasks they have worked on.
+
+![](/uploads/tm4-newusers.gif)
+<br><br>
+
+## Keep updated
+
+We created this blog to maintain the users informed about the work the HOT Tech Team is doing. Follow us on [Twitter](https://twitter.com/hotosm_tech) or subscribe to our [RSS feed](/feed/tech-blog.xml) to receive more updates on Tasking Manager and other tools developed by HOT.
