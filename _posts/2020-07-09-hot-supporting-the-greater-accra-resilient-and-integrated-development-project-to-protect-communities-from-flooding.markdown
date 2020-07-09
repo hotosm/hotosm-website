@@ -57,6 +57,7 @@ The field teams mapped and took photos using mobile phones, and the images were 
 *Engaging community members*
 
 ![Accra Flooding 6.jpg](/uploads/Accra%20Flooding%206.jpg)
+
 *Validating waste data with geotagged images from the field and JOSM*
 
 ### Working with Stakeholders
