@@ -29,11 +29,13 @@ These efforts were funded through The World Bank and took place from June 2018 t
 To help the local communities and government tackle the flooding and waste challenges, OCA Accra employed remote mapping, field data collection, and data validation. The project also aimed to build the capacity of the local government and communities to collect and interpret spatial data and contribute to the [OpenStreetMap](https://www.openstreetmap.org/about) platform even after the project ended.
 
 ![Accra Flooding 1.jpg](/uploads/Accra%20Flooding%201.jpg)
+
 *Satellite imagery on the left and drone imagery on the right*
 
 This remote mapping tapped into both local and global networks. The project was primarily supported by OSM community members in Ghana including YouthMappers. As project stakeholders and community members were also trained in mapping, they joined the local OSM community and provided significant help in mapping the neighborhoods, particularly in Alogboshie, Akweteyman, and Nima. Meanwhile, The World Bank hosted a mapathon in Washington, DC to support the mapping of Alajo.
 
 ![Accra Flooding 2.jpg](/uploads/Accra%20Flooding%202.jpg)
+
 *DC mapathon*
 
 ### Moving on to Field Mapping
@@ -45,11 +47,13 @@ For this field mapping, the OCA team recruited local mappers. They were trained 
 In addition to the data they collected, these teams of mappers found the effort to be a valuable experience to learn and share new skills. Chris Eshun, one of the mappers, [said](https://www.hotosm.org/updates/my-experience-as-a-student-mapper-open-cities-accra/), “Our field team was diverse, with some experts in OSM and data collection and others completely new to the world of mapping.” Pascalina Awelana Abadum, one of the mappers and data cleaners, [wrote](https://www.linkedin.com/posts/pascalina-awelana-abadum_thegeospatialdream-stateofthemapafrica-gis-activity-6673538173693382656--GeF) that she unraveled her career passion and interest area through her participation in this project.
 
 ![Accra Flooding 3.jpg](/uploads/Accra%20Flooding%203.jpg)
+
 *Field mappers with Open City Accra*
 
 The field teams mapped and took photos using mobile phones, and the images were then uploaded to [Mapillary](https://www.mapillary.com/). These street-level images were an invaluable resource for recording and verifying details about the features they mapped.
 
 ![Accra Flooding 5.jpg](/uploads/Accra%20Flooding%205.jpg)
+
 *Engaging community members*
 
 ![Accra Flooding 6.jpg](/uploads/Accra%20Flooding%206.jpg)
@@ -60,11 +64,13 @@ The field teams mapped and took photos using mobile phones, and the images were 
 OCA Accra had a multifaceted approach to stakeholders, in both engagement and goals. In planning the project, the team had hosted stakeholders from numerous institutions including the  Accra Metropolitan Assembly, Land Use and Spatial Planning Authority, and Forestry Commission, among many others, and assessed what data resources these organizations had and what data they needed from the field. This assessment led to the project prioritizing flood history and physical infrastructure data so that it would be up-to-date and comprehensive for the government and accessible to the public.
 
 ![Accra Flooding 7.jpg](/uploads/Accra%20Flooding%207.jpg)
+
 *Open Cities Accra Project team meets with the Ministry of Inner City and Zongo Development*
 
 Stakeholders were also asked about what data products would be most useful to them, leading to the conclusion that the best way to share the data gathered by the project would be through a [web application](https://ocav1-app.herokuapp.com/) and wall maps.
 
 ![Accra Flooding 8.jpg](/uploads/Accra%20Flooding%208.jpg)
+
 *Web application*
 
 Stakeholders were also taught how to use and contribute to the OpenStreetMap platform, enabling them to continue generating and using data after the project was over.
@@ -80,6 +86,7 @@ The OCA Accra team also conducted a public training and exhibition workshop for 
 Mapping infrastructure assets would also aid in mobilizing revenue and generating funds within the Ayawaso East Municipal Assembly (AEMA) area, reported one of their representatives. The AEMA intends on also “using the aerial photo extensively in the property addressing exercise we will be embarking on very soon,” reported Jamila Salihu, an Assistant Physical Planning Officer with the AEMA.
 
 ![Accra Flooding 9.jpg](/uploads/Accra%20Flooding%209.jpg)
+
 *Engaging stakeholders*
 
 In addition to the direct impact of the data generated, the OCA Accra project also developed the capacity of local agencies and community members to generate and use spatial data and contribute to OpenStreetMap. Over the course of the project, OCA trained over 110 mappers and 30 staff members of government institutions in contributing to OpenStreetMap, adding to the growing community of Ghanaian OpenStreetMap contributors.
