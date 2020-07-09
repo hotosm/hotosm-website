@@ -1,14 +1,14 @@
 // add stats to the home page
 $(document).ready(function () {
-  fetch('/aggregatedStats.json')
+  fetch('https://osmstats-api.hotosm.org/wildcard?key=hotosm-project-*')
   .then(function (response) {
     return response.json()
   })
   .then(function (jsonData) {
-    $('#Community-Mappers').text(formatedData(jsonData['totalMappers']));
-    $('#Total-Map-Edits').text(formatedData(jsonData['totalEdits']));
-    $('#Buildings-Mapped').text(formatedData(jsonData['totalBuildings']));
-    $('#Roads-Mapped').text(formatedData(Math.round(parseInt(jsonData['totalRoads']))));  
+    $('#Community-Mappers').text(formatedData(jsonData['users']));
+    $('#Total-Map-Edits').text(formatedData(jsonData['edits']));
+    $('#Buildings-Mapped').text(formatedData(jsonData['building_count_add']));
+    $('#Roads-Mapped').text(formatedData(Math.round(parseInt(jsonData['road_km_add']))));  
     $('.loader').hide()
   }
   )
