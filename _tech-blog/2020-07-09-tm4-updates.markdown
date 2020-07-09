@@ -1,8 +1,10 @@
 ---
 title: Latest Tasking Manager updates
 date: 2020-07-09 12:30:00 Z
-Summary Text: 'HOT released Tasking Manager 4.0 in April 2020 and since then the Tech Team is constantly improving it with new features, performance improvements and bug fixes.'
-Feature Image: /uploads/tm4-projects.jpg
+Summary Text: HOT released Tasking Manager 4.0 in April 2020 and since then the Tech
+  Team is constantly improving it with new features, performance improvements and
+  bug fixes.
+Feature Image: "/uploads/tm4-projects.jpg"
 Person:
 - Wille Marcel
 ---
