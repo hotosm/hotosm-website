@@ -6,9 +6,10 @@ Feature Image: "/uploads/Code%20for%20Africa%202019%20Microgrant.jpg"
 
 In 2019 HOT provided Microgrants to eight local, regional, and national organizations with plans to use mapping to address challenges they and their neighbors faced. As they come to the end of their projects, we wanted to share some of the highlights from their activities with the HOT community.
 
-Fundación OpenStreetMap Colombia (FOSM Colombia)
+### Fundación OpenStreetMap Colombia (FOSM Colombia)
+![2019 Microgrants 1.jpg](/uploads/2019%20Microgrants%201.jpg)
 
-FOSM Colombia https://openstreetmap.co/ has installed local wireless networks in towns such as Necocli and Capurgana in the Darien area at the Colombian border with Panama. These local networks are hosted on RaspberryPis with low-cost outdoor wireless routers to provide information and maps to migrants and residents who have phones but no regular internet access. Using the networks, migrants can find and share crucial information that can be a life saver on their journey. The networks also come with key points of information pre-installed:
+[FOSM Colombia](https://openstreetmap.co/) has installed local wireless networks in towns such as Necocli and Capurgana in the Darien area at the Colombian border with Panama. These local networks are hosted on RaspberryPis with low-cost outdoor wireless routers to provide information and maps to migrants and residents who have phones but no regular internet access. Using the networks, migrants can find and share crucial information that can be a life saver on their journey. The networks also come with key points of information pre-installed:
 A web map with important locations where migrants can seek medical care, food, lodging, and safety.
 The same map can be downloaded as a PDF so migrants can take it with them.
 The APKs of the OSMAnd or MapsMe applications to install on mobile devices and to use for navigation, as well as maps of the area for these applications and instructions for installing
