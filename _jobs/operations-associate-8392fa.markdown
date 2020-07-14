@@ -59,4 +59,4 @@ HOT is looking for someone passionate about, and experienced in, international d
 
 ## To Apply
 
-Please complete the form attached/linked [here](https://docs.google.com/forms/d/e/1FAIpQLSc61CK91Oa5sEP6mmtp3jNsaYPC4392Fi1kA_RZSvy3mMhXxg/viewform?usp=sf_link). **Continue to the second page** to upload your CV/resume. Your CV/resume should not exceed 2 pages. 
+Please complete the form linked [here](https://docs.google.com/forms/d/e/1FAIpQLSc61CK91Oa5sEP6mmtp3jNsaYPC4392Fi1kA_RZSvy3mMhXxg/viewform?usp=sf_link). **Continue to the second page** to upload your CV/resume. Your CV/resume should not exceed 2 pages. 
