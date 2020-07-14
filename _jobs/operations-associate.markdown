@@ -28,15 +28,15 @@ HOT is looking for someone passionate about, and experienced in, international d
  
 * Lead logistical set-up for physical office space in Manila
 * Lead asset management system for Hub, including entry, maintenance, audit and training of other staff
-* Support analysis and development of processes for Operations, and adaptation for Hub regional office
-* Assist with regional recruitment and onboarding processes incl. training and documentation 
+* Support analysis and development of processes for Operations in the Hub regional office
+* Assist with regional recruitment and onboarding processes including training and documentation 
 * Lead new vendor identification, procurement and onboarding 
-* Research and advising on new systems and processes for operations, HR and finance
+* Research and advise on new systems and processes for operations, HR and finance
 * Support gender, diversity & inclusivity initiatives 
 * Train Hub/regional staff on new organizational processes and systems and manage adaptations for regional context 
 * Support creation and dissemination of printed and promotional materials for regional Hub
 * Support new business development through proposals and other fundraising initiatives 
-* Support planning and running of annual international HOT Summit & other events support as necessary 
+* Support planning and running of the annual international HOT Summit & other events support as necessary 
 * Support travel management & bookings for conferences, staff meetings, etc.
 
 ## Qualifications 
