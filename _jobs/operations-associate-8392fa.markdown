@@ -1,5 +1,5 @@
 ---
-title: Operations Associate
+title: Operations Associate - Manila
 date: 2020-07-14 07:12:00 Z
 published: false
 Deadline Date: 2020-07-28 00:00:00 Z
