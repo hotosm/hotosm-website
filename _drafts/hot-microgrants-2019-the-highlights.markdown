@@ -35,6 +35,7 @@ OSM Cameroon also worked with eight OSM communities from different countries in 
 
 ![2019 Microgrants 3.png](/uploads/2019%20Microgrants%203.png)
 
+
 ### OSM Gambia
 
 ![2019 Microgrants 4.png](/uploads/2019%20Microgrants%204.png)
