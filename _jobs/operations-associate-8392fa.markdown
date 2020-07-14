@@ -8,9 +8,13 @@ Apply Form Link: https://docs.google.com/forms/d/1BjqpvdD_eBWSIdtHgdnKesK9cVVitX
 ---
 
 **Contract terms:** Full-time (though part time candidates will be considered with availability of 30+ hrs a week)
+
 **Location/Duty Station:** Manila, Philippines
+
 **Closes:** July 28, 2020 
+
 **Projected start date:** August 3, 2020
+
 **Reports to:** Senior Global Operations Manager
 
 # About HOT
