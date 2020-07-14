@@ -1,10 +1,14 @@
 ---
 title: 'HOT Microgrants 2019: The Highlights'
 date: 2020-07-13 13:07:00 Z
+Summary Text: In 2019 HOT provided Microgrants to eight local, regional, and national
+  organizations. Here are the highlights from their work.
 Feature Image: "/uploads/Code%20for%20Africa%202019%20Microgrant.jpg"
 Person:
 - Geoffrey Kateregga
 - Benjamin Dills
+Working Group:
+- Community
 Project:
 - 'Community development: Microgrants and Device Grants'
 ---
@@ -22,6 +26,7 @@ In 2019 HOT provided Microgrants to eight local, regional, and national organiza
 * Travel safety information
 * Regular boat trip information
 * Office locations of important NGOs
+
 
 ### OSM Cameroon
 
@@ -43,7 +48,8 @@ OSM Cameroon also worked with eight OSM communities from different countries in 
 
 Known as the Smiling Coast of West Africa, The Gambia is the smallest country on mainland Africa, surrounded entirely by Senegal except for its western coast on the Atlantic Ocean. Since the change of government in 2017, there has been renewed interest by the youth in the country to contribute to the Sustainable Development Goals of the country. 
 
-With the help of a HOT Microgrant, [YMCA The Gambia](http://www.ymca.gm/) has been able to establish a local OpenStreetMap community while at the same time contributing to the national development goals. They have been mapping the sites and lodges for [ecotourism](http://u.osmfr.org/m/460229/) in the country, training over 50 youth in open mapping, and working with The Gambia Tourism Board and National Environmental Agency to make use of the data collected to promote ecotourism in the country.
+With the help of a HOT Microgrant, [YMCA The Gambia](http://www.ymca.gm/) has been able to establish a local OpenStreetMap community while at the same time contributing to the national development goals. They have been mapping the [sites and lodges for ecotourism](http://u.osmfr.org/m/460229/) in the country, training over 50 youth in open mapping, and working with The Gambia Tourism Board and National Environmental Agency to make use of the data collected to promote ecotourism in the country.
+
 
 ### Code for Africa, Nigeria
 
@@ -52,6 +58,7 @@ With the help of a HOT Microgrant, [YMCA The Gambia](http://www.ymca.gm/) has be
 Makoko is one of Nigeria’s floating slums, with a third of the community built on stilts in a lagoon off the Lagos mainland. The rest of the settlement is on swampy land with little sanitation and few public services. With support from a HOT Microgrant, Code4Africa worked with a team of [volunteers to map](https://edition.cnn.com/2020/02/26/africa/nigeria-makoko-mapping-intl) Makoko to make a case for [improved services and land ownership](https://www.devex.com/news/mapping-makoko-how-data-could-help-legitimize-nigeria-s-informal-settlements-96793).
 
 To do the mapping, the Code for Africa team trained and worked with volunteers from Makoko to capture high resolution imagery using [drones](https://www.news24.com/news24/africa/news/drone-project-aims-to-put-floating-lagos-slum-on-map-20191129), and then used the HOT Tasking Manager to engage the global community in tracing all of the buildings and roads. Then, using canoes to navigate around the settlement, they collected data on points of interest using ODK that were later cleaned up and uploaded to OpenStreetMap.
+
 
 ### OSM Nicaragua-MapaNica
 
@@ -62,6 +69,7 @@ After their successful project of mapping public transport in Managua and Esteli
 During the project, they held several training and mapping parties with university students to train them on iD Editor, Mapillary, OSMTracker and Umap. MapaNica also engaged the OSM community across the FOSM Colombia mailing list, Telegram, Facebook, and Twitter to map transport routes in the prioritized cities.
 
 Although the main beneficiaries of MapaNica's work has always been the users of public transport in Nicaragua, they have also provided data for geospatial analysis, urban planning, the improvement of transport systems nationwide, and advocacy for mobility policies. In doing so, they are empowering people to use open data and participatory technologies to solve common problems in a collaborative and self-managed way.
+
 
 ### YouthMappers Dhaka College, Bangladesh
 
@@ -75,11 +83,13 @@ All the collected data has been made publicly available through OpenStreetMap, i
 
 Through the project, YouthMappers Dhaka college were able to provide field data and analysis to the local government and l agencies. They also cultivated local community level awareness during data collection and built the capacity of the mapping community on mobile data collection tools and analysis.
 
+
 ### Action for Resilient Communities + FEUTech YouthMappers, Philippines
 
 ![2019 Microgrants 8.jpg](/uploads/2019%20Microgrants%208.jpg)
 
 [Action for Resilient Communities in the Philippines](https://www.facebook.com/ActionResilientCommunities/)  used their HOT Microgrant project to work with Persons with Disabilities (PWD) organizations such as [Tinig at Lakas ng mga PWD sa Maynila (TILAK)](https://www.facebook.com/Tilak09515649579/) to help them create a digital database for PWD by collecting data using Kobo, Field Papers, and Mapillary. Working with the FEUTech YouthMappers chapter, they were able to map points of access infrastructures for PWD including ramps, public elevators, public transportation, and various hazard/emergency maps. In the process, they made mapping an integral component of Juanda, their disaster risk reduction and management capacity building program.
+
 
 ### Cuerpo Consultivo para el Desarrollo de Rio Piedras, Puerto Rico
 
@@ -94,6 +104,7 @@ Through their mapping activities, CCDRP has been helping the community of Río P
 ![2019 Microgrants 9.png](/uploads/2019%20Microgrants%209.png)
 [Interactive map](http://riopiedras.prosmap.org/) for reporting broken street lighting posts using Ushahidi and OpenStreetMap
 
+
 ### LECLARA (Ghana)
 
 ![2019 Microgrants 10.png](/uploads/2019%20Microgrants%2010.png)
@@ -106,6 +117,8 @@ With support from OSM Ghana, LECLARA trained 15 youth on OpenStreetMap, QGIS, JO
 
 In order to make the information accessible to the public, they created an [interactive map](https://www.visitlarabanga.org/lm/index.php/view/map/?repository=larabanga&project=Larabanga) to showcase their resources, culture, and history to the rest of the world to encourage people to [visit Larabanga](http://http//www.visitlarabanga.org).
 
-The HOT Microgrants program has supported 34 local communities to scale up their mapping activities since 2017. If you are interested in HOT’s Microgrants, consider applying for the Community Impact Microgrants that we are currently offering in cooperation with Facebook. Applications are open through
+### HOT Microgrants
+
+The HOT Microgrants program has supported 34 local communities to scale up their mapping activities since 2017. If you are interested in HOT’s Microgrants, consider applying for the Community Impact Microgrants that we are currently offering in cooperation with Facebook. [Applications are open through July 30](https://www.hotosm.org/updates/facebook-community-impact-microgrants/).
 
 
