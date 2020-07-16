@@ -4,7 +4,7 @@ date: 2020-06-19 15:56:00 Z
 Summary Text: 'In 2019, the HOT community developed a Strategic Plan, which stated
   an audacious goal: to map an area home to one billion people in OpenStreetMap. But
   one key question remained: where?'
-Feature Image: "/uploads/DSC2157.1-1800.jpg"
+Feature Image: "/uploads/Peru%20Andrew%20Ward%20Photo.jpg"
 Person:
 - Tyler Radford
 - Rebecca Firth

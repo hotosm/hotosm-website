@@ -35,6 +35,16 @@ layout:
 "date":"{{ post.date }}"
 }, 
 {% endfor %}
+{% for post in site.tech-updates %}
+{
+"type":"Tech Updates",
+"title":"{{ post.title | escape }}",
+"summary":"{{ post['Summary Text'] | escape | truncatewords: 40 | strip | strip_html | remove: "\" | prepend: ' ' }}",
+"subtitle":"{{ post.Person | join: ', ' | prepend: ' '}}",
+"url":"{{ site.url }}{{ post.url }}",
+"date":"{{ post.date }}"
+}, 
+{% endfor %}
 {% for job in site.jobs %}
 {
 "type": "Job",

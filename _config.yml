@@ -2,6 +2,10 @@
 title: Humanitarian OpenStreetMap Team
 timezone: UTC
 collections:
+  annual-reports:
+    title: Annual Reports
+    output: true
+    permalink: "/annual-reports/:path/"
   where-we-work:
     title: Countries
     output: true
@@ -48,6 +52,9 @@ collections:
       link: 
     - tool: 
       link: 
+  tech-blog:
+    title: Tech Blog
+    output: true
   tools:
     title: Tools
     output: true
@@ -78,6 +85,24 @@ defaults:
     Country:
     - ''
     Project:
+    - ''
+- scope:
+    path: ''
+    type: tech-blog
+  values:
+    permalink: tech-blog/:title/
+    layout: news-item
+    Summary Text: 
+    Feature Image: 
+    Is image top aligned: 
+    Person: 
+    Working Group:
+    - ''
+    Country:
+    - ''
+    Project:
+    - ''
+    Tool:
     - ''
 - scope:
     path: ''
@@ -198,6 +223,14 @@ defaults:
     - ''
     Project:
     - ''
+- scope:
+    path: ''
+    type: annual-reports
+  values:
+    layout: groups
+    Link: 
+    Image: 
+    Download: 
 future: true
 email: info@hotosm.org
 description: Write an awesome description for your new site here. You can edit this
@@ -216,3 +249,7 @@ plugins:
 - jekyll-sitemap
 paginate: 16
 paginate_path: "/updates/page:num/"
+feed:
+  collections:
+  - press-releases
+  - tech-blog

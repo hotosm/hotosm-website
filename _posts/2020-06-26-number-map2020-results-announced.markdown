@@ -5,8 +5,9 @@ Summary Text: 'After reviewing all of the inspiring submissions, the HOT and Map
   teams have chosen SIGenBici as the #map2020 project of the year.'
 Feature Image: "/uploads/SIGenBici.jpg"
 Person:
-- Sophie Mower
+- Rebecca Firth
 - Geoffrey Kateregga
+- Sophie Mower
 Working Group:
 - Community
 ---
