@@ -154,7 +154,7 @@ Priority cities in each region were assessed by evaluating candidate cities agai
 
 * Strong technology start up community
 
-**Why wasn't an existing HOT location selected for the East Africa Hub?**
+## **Why wasn't an existing HOT location selected for the East Africa Hub?**
 
 In the case of East Africa, for Nairobi, in particular, the ease of access (air transport hub for the region), potential for regional partnerships and existing NGO & tech start-up communities presented the greatest potential for achieving HOT’s goals in the region, including:
 
