@@ -166,6 +166,10 @@ In the case of East Africa, for Nairobi, in particular, the ease of access (air 
 
 * **Administer Microgrants** to develop and support mapping communities
 
+## What is the timeline for the opening of the new hubs?
+
+We plan to open the Asia/Pacific hub in Manila in November 2020 and the East Africa hub in Nairobi in January 2021. The West Africa and Latin America hubs will be opened in the course of 2021. We will update this FAQ when exact dates are available.
+
 ## What will be the structure of the people working in the hub?
 
 We have an initial draft of positions, but are still working out some details around responsibilities and structure. We expect a team of approximately 13 staff working in each hub.
