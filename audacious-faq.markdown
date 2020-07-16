@@ -114,7 +114,7 @@ In total, Audacious donor funding will support 115 staff. This number is in addi
 
 * Latin America/Caribbean: To be determined
 
-# How were the hub locations selected?
+## How were the hub locations selected?
 
 Priority cities in each region were assessed by evaluating candidate cities against 18 criteria. These criteria include but are not limited to:
 
