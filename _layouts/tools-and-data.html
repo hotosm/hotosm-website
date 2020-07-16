@@ -14,7 +14,7 @@ layout: default
             <ul>
               {% assign sorted-tools = site.tools | sort: 'position' %}
               {% for tool in sorted-tools %}
-                <li><a href="{{ tool['Tool URL'] }}">{{ tool.title }}</a></li>
+                <li><a href="{{ tool['Tool id'] }}">{{ tool.title }}</a></li>
               {% endfor %}
             </ul>
             <h5>Read our blog for updates:</h5>
@@ -48,7 +48,7 @@ layout: default
       </div>
     </div>
 
-    <div class="half-block dark right">
+    <div class="half-block dark right" id="0">
       <div class="block-details">
         <div class="block-info">
           <h3>{{ page['Block 2'].Header }}</h3>
@@ -69,7 +69,7 @@ layout: default
       </div>
     </div>
 
-    <div class="half-block dark left">
+    <div class="half-block dark left" id="1">
       <div class="block-details">
         <div class="block-info">
           <h3>{{ page['Block 3'].Header }}</h3>
@@ -90,7 +90,7 @@ layout: default
       </div>
     </div>
 
-    <div class="half-block dark right">
+    <div class="half-block dark right" id="2">
       <div class="block-details">
         <div class="block-info">
           <h3>{{ page['Block 4'].Header }}</h3>
@@ -111,7 +111,7 @@ layout: default
       </div>
     </div>
 
-    <div class="half-block dark left">
+    <div class="half-block dark left" id="3">
       <div class="block-details">
         <div class="block-info">
           <h3>{{ page['Block 5'].Header }}</h3>
@@ -132,7 +132,7 @@ layout: default
       </div>
     </div>
 
-    <div class="half-block dark right">
+    <div class="half-block dark right" id="4">
       <div class="block-details">
         <div class="block-info">
           <h3>{{ page['Block 6'].Header }}</h3>
