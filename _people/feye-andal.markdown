@@ -4,6 +4,7 @@ date: 2020-03-11 14:15:00 Z
 Photo: "/uploads/HOT_PH02.png"
 Member Type:
   Is Staff: true
+  Is Voting Member: true
 Job Title: Technical and GIS Specialist
 Country: Philippines
 ---
