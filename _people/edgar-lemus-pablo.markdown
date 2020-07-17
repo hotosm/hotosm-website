@@ -1,12 +1,10 @@
 ---
 title: Edgar Lemus Pablo
 date: 2020-07-17 14:29:00 Z
-published: false
 Photo: "/uploads/IMG-20170513-WA0002.jpg"
 Member Type:
   Is Staff: true
 Job Title: Partnerships Associate - Americas
-Country: Mexico
 ---
 
 Edgar is HOT’s Partnerships Associate in the Americas region. Edgar joined HOT in July 2020 to take the lead on all things relating to partnership activities in Latin America, the US and the Caribbean. This includes supporting management of activities for HOT partner organisations, helping to grow our partnerships, and supporting the YouthMappers network in the region. 
