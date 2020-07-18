@@ -43,6 +43,20 @@ fetch('/aggregatedStats.json')
             count[countryProject.properties['created']] = 1;
           }
         })
+        
+        
+        Object.keys(count).forEach(function (key) {
+          count[key]=0;    
+        });
+
+        countryData.features.forEach(proj => {
+          if (count.hasOwnProperty(proj.properties.created) &&
+              count.hasOwnProperty(proj.properties.status)) {
+            count[proj.properties.created]++;
+            count[proj.properties.status]++;
+          }
+        })
+        
         years.sort();
         var filterHeader = document.getElementById('filter-header');
         if (campaignCount === 1) filterHeader.innerHTML = 'Filter ' + campaignCount + ' mapping campaign by:';
