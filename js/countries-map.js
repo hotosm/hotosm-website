@@ -65,7 +65,7 @@ fetch('/aggregatedStats.json')
           var label = document.createElement('label')
           label.id = year + '-label';
           label.htmlFor = year;
-          label.appendChild(document.createTextNode(year + ' (' + count[year] + ')'));
+          label.appendChild(document.createTextNode(year));
           container.appendChild(checkbox);
           container.appendChild(label);
         });
