@@ -1,7 +1,7 @@
 ---
 title: Head of Community
 date: 2020-07-02 11:55:00 Z
-Deadline Date: 2020-07-26 00:00:00 Z
+Deadline Date: 2020-08-02 00:00:00 Z
 Place of Work: Remote or HOT Regional Hub
 Apply Form Link: https://forms.gle/ntLWkADB55RJULsK7
 ---
@@ -10,9 +10,9 @@ Apply Form Link: https://forms.gle/ntLWkADB55RJULsK7
 
 **Location/Duty Station:** Remote or based in a HOT Regional Hub location (Manila, Nairobi, West Africa: to be confirmed in 2021, Latin America: to be confirmed in 2021)
 
-**Closes:** July 26, 2020
+**Closes:** August 2, 2020
 
-**Projected start date:** August 10, 2020
+**Projected start date:** August 17, 2020
 
 **Reports to:** Director, Partnerships & Community
 
@@ -117,4 +117,4 @@ Reporting to the Director of Partnerships & Community, this position will manage
 
 Please complete the [linked form](https://forms.gle/ntLWkADB55RJULsK7) to apply. Please continue to the second page of the form to upload your CV/resume.
 
-Please apply by July 26, 2020
+Please apply by August 2, 2020
