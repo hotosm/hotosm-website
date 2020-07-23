@@ -1,7 +1,7 @@
 ---
 title: Junior Spatial Data Entry Staff - Philippines
 date: 2020-05-05 02:09:00 Z
-Deadline Date: 2020-05-15 23:59:00 Z
+Deadline Date: 2020-07-29 23:59:00 Z
 Place of Work: Philippines
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSepphFDuqvHIx51FwbMMbl2r7fU2kGYTihw7wSs7TKllGp93g/viewform
 ---
@@ -12,9 +12,9 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSepphFDuqvHIx51FwbMMbl
 
 **Location/Duty Station: Pampanga, Philippines**
 
-**Closes: Friday, May 15, 2020**
+**Closes: Wednesday, July 29, 2020**
 
-**Projected start date: Monday, May 25, 2020**
+**Projected start date: ASAP**
 
 **Reports to: Data Validation Lead**
 
