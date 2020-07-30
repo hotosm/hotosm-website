@@ -1,6 +1,7 @@
 ---
 title: Corporate Partnerships Manager
 date: 2020-07-07 06:42:00 Z
+published: false
 Deadline Date: 2020-07-29 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://forms.gle/FLT6rEpHPKVi3rtLA
