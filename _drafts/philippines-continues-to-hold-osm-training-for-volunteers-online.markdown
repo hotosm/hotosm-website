@@ -35,4 +35,4 @@ The Philippine team also welcomed new members of the mapping team this month and
 
 ![Ph Online Training Blog.jpg](/uploads/Ph%20Online%20Training%20Blog.jpg)
 
-HOT Philippines has culminated this month’s online trainings with two OSM Trainings with IBM, both held on July 29, at 2-4 p.m. and 8-10 p.m. Philippine Standard Time.
+HOT Philippines culminated this month’s online trainings with two OSM Trainings with IBM, both held on July 29, at 2-4 p.m. and 8-10 p.m. Philippine Standard Time.
