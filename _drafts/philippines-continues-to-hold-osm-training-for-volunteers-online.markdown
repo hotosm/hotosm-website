@@ -10,6 +10,8 @@ Working Group:
 - Training
 Country:
 - Philippines
+Project:
+- 'Data-Driven Disaster Risk Management: PhilAWARE'
 ---
 
 When COVID-19 was identified to be highly transmissible, many countries around the world were put on lockdown. In the Philippines, community quarantines — with varying levels of movement permitted — were put in place. To this day, the movement of citizens is still limited, especially when traveling between areas with different levels of quarantine. Prior to these movement restrictions, HOT Philippines was meeting with and training members of various groups and organizations interested in volunteer work through OpenStreetMap. When the lockdowns were put in place, the team made an open call for online volunteers to work on remote mapping activities.
@@ -29,7 +31,7 @@ After the training, participants are provided with certificates and the voluntee
 
 ### Trainings with new DVLs, JSDEs, and IBM
 
-The Philippine team also welcomed new members of the mapping team this month and has organized several JOSM and data validation trainings and exams throughout the month in preparation for the upcoming fieldwork for the PhilAWARE project. Most of the trainings were done online, and the team met in the office *only* during necessary field trainings.
+The Philippine team also welcomed new members of the mapping team this month and has organized several JOSM and data validation trainings and exams throughout the month in preparation for the upcoming fieldwork for the [PhilAWARE](https://www.hotosm.org/projects/data-driven-disaster-risk-management-philaware/) project. Most of the trainings were done online, and the team met in the office *only* during necessary field trainings.
 
 ![Ph Online Training Blog.jpg](/uploads/Ph%20Online%20Training%20Blog.jpg)
 
