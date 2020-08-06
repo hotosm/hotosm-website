@@ -13,7 +13,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeaAzh81713JnQ_wAVgKUE
 
 **Travel:** Up to 20% international, including to HOT field project locations
 
-**Deadline: **August 24, 2020
+**Deadline:** August 24, 2020
 
 **Estimated Start Date:** September 5, 2020
 
@@ -25,7 +25,7 @@ Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of 
 
 # About the Role
 
-We're seeking a skilled and enthusiastic ‘full-stack’ individual fluent in a variety of programming languages, databases, and front-end programming to support a passionate team of humanitarian hacktivists. The role will support the HOT tech team in collaboratively delivering a range of open source solutions that support HOT in our strategic ambition to map an area home to one billion people. The Junior Developer will be part of an agile team building tools to assist with the collection and communication of humanitarian data, coalescing around geospatial information. The work will predominantly be focussed on backend ‘crunching’, however, front-end skills will also get a good workout. The successful candidate will have the opportunity to grow within the be and be mentored by some of the humanitarian sector’s leading geospatial technologists. 
+We're seeking a skilled and enthusiastic ‘full-stack’ individual fluent in a variety of programming languages, databases, and front-end programming to support a passionate team of humanitarian hacktivists. The role will support the HOT tech team in collaboratively delivering a range of open source solutions that support HOT in our strategic ambition to map an area home to one billion people. The **Junior Developer** will be part of an agile team building tools to assist with the collection and communication of humanitarian data, coalescing around geospatial information. The work will predominantly be focussed on backend ‘crunching’, however, front-end skills will also get a good workout. The successful candidate will have the opportunity to grow within the be and be mentored by some of the humanitarian sector’s leading geospatial technologists. 
 
 The **Junior Developer** will advance HOT’s mission by operationalizing the HOT_Tech core ethics:
 
@@ -36,14 +36,16 @@ The **Junior Developer** will advance HOT’s mission by operationalizing the HO
 
 ## Priority Areas for Action and Responsibilities
 
-**Code: ** 
+**Code:** 
 * Be involved and participate in the overall application lifecycle with ownership of code throughout development, staging, testing and production.
 * Our tool stack has applications built with a mix of Python and Javascript frameworks
-**Quality: ** 
+
+**Quality:** 
 * Build high-quality efficient, reusable code that can be used in the future
 * Focus on clean readable code, debugging and ensuring good test coverage
 * Stay up to date with current best practices
-**Community: **
+
+**Community:**
 * Collaborate with community to design, build and maintain applications
 * Participate & showcase work in yearly conferences and other community working group meetings on a regular basis
  
