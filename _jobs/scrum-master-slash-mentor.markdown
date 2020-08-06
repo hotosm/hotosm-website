@@ -14,7 +14,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdoodP-j3XA-2DNeb11KWc
 
 **Deadline:** August 31, 2020
 
-**Estimated Start Date:** Candidate Dependent 
+**Estimated Start Date:** Candidate Dependent
 
 **Work Location:** Remote
 
@@ -24,28 +24,28 @@ Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of 
 # About the Role
 The **Scrum Master/Mentor** will oversee the scrum and development teams and coach and mentor the HOT tech team as agile/scrum is adopted more broadly across the organisation. You will be an Agile advocate and scrum superstar, which will motivate those around you. The **Scrum Master/Mentor** will act as a buffer between the scrum teams and module owners and maintain a safe working environment for the team by helping with conflict resolution.
 
-You will need to be able to think fast to help solve problems. Strong communication skills are essential as you will be communicating with the development and scrum teams and the module owners. You will be experienced in managing stakeholders and multiple priorities and are dedicated to delivering win-win solutions. 
+You will need to be able to think fast to help solve problems. Strong communication skills are essential as you will be communicating with the development and scrum teams and the module owners. You will be experienced in managing stakeholders and multiple priorities and are dedicated to delivering win-win solutions.
 
 The **Scrum Master/Mentor** will advance HOT’s mission by operationalizing the HOT_Tech core ethics:
 
-* **Human:** Our **Human** ethic is our commitment to people as our priority. At the centre of all our technology sits a human. The ultimate purpose of our technology is to improve human conditions. We use technology to enable and amplify human efforts. 
+* **Human:** Our **Human** ethic is our commitment to people as our priority. At the centre of all our technology sits a human. The ultimate purpose of our technology is to improve human conditions. We use technology to enable and amplify human efforts.
 
 * **Open:** Our **Open** ethic permeates all we do. Our actions  reflect radical openness and transparency. We encourage open inputs and outputs. Our team and technology openly welcomes and engages community, collaboration and contribution.
 
 * **Truth:** Our **Truth** ethic reflects an OpenStreetMap core principle; the ‘truth on the ground’. Our activities and decisions will be guided by this ethic, where not easily resolved will defer to this as a core principle in order to define what best reflects the truth on the ground.
 
-* **HOT_Tech Principles** > Can be found here >> https://github.com/hotosm/tech/blob/master/principles/README.md 
+* **[HOT_Tech Principles](https://github.com/hotosm/tech/blob/master/principles/README.md)**
 
 The **Scrum Master/Mentor** will coordinate and collaborate with key HOT_Tech supporting functions including the Director of Technology, Senior Technical Lead, Module Owners and Community Manager.
- 
+
 ## Priority Areas for Action and Responsibilities
 
-* **Agile/Scrum Mastery:** Agile/Scrum will be second nature to you. You live and breathe, build measure, learn.  You have led scrum teams before and are agile in the way you deliver agile. You have worked with people at all stages of their agile journey and you can use your skills to develop theirs. You motivate the teams you work with in a unique way that only you can do. 
+* **Agile/Scrum Mastery:** Agile/Scrum will be second nature to you. You live and breathe, build measure, learn.  You have led scrum teams before and are agile in the way you deliver agile. You have worked with people at all stages of their agile journey and you can use your skills to develop theirs. You motivate the teams you work with in a unique way that only you can do.
 
-* **Stewardship of Agile/Scrum Methodologies:** You know that there are two types of organisations, those that do and those that don’t...yet. In the past, you have helped organisations and staff learn the ways of scrum and benefit from its adoption by an organisation. You will bring in the methodology, frameworks and procedures to ensure successful adoption. You believe that you can change the world, one sprint at a time. 
+* **Stewardship of Agile/Scrum Methodologies:** You know that there are two types of organisations, those that do and those that don’t...yet. In the past, you have helped organisations and staff learn the ways of scrum and benefit from its adoption by an organisation. You will bring in the methodology, frameworks and procedures to ensure successful adoption. You believe that you can change the world, one sprint at a time.
 
-* **Agile/Scrum Coaching and Mentorship:** You know what it takes to adopt agile/scrum personally, professionally and organisationally. You know that there are two types of people, those that love agile and those that don’t...yet. You can connect personally with individuals at all levels of an organisation to support them in their journey. You know the pains and also the pleasures of bringing agile/scrum to an organisation. 
- 
+* **Agile/Scrum Coaching and Mentorship:** You know what it takes to adopt agile/scrum personally, professionally and organisationally. You know that there are two types of people, those that love agile and those that don’t...yet. You can connect personally with individuals at all levels of an organisation to support them in their journey. You know the pains and also the pleasures of bringing agile/scrum to an organisation.
+
 ## Responsibilities
 
 * Lead the scrum team in using Agile methodology and adopt scrum practices of transparency, inspection and adaptation
@@ -67,20 +67,20 @@ We are seeking a senior open source technologist with demonstrated experience le
 
 **Qualifications & Experience**
 
-* High school degree or equivalent in a relevant field. 
-* Agile/Scrum certifications, preferably PSM I or II. 
+* High school degree or equivalent in a relevant field.
+* Agile/Scrum certifications, preferably PSM I or II.
 * 5+ years managing end-to-end product delivery
 * 5+ years experience with an agile software development team, some leadership responsibility
 * 3+ years experience working in international humanitarian or development agencies/NGOs.
 * Demonstrated ongoing education in scrum; e.g. training, conferences, self-study etc.
-* Some experience with other iterative methodologies and Agile approaches, e.g. Kanban 
+* Some experience with other iterative methodologies and Agile approaches, e.g. Kanban
 * Experience with OpenStreetMap (OSM) and associated OSM tools an advantage
 * Be fluent in working in a fully or partially remote work environment
 * Experience managing diverse, distributed teams over multiple geographies
 * Experience presenting and communicating with C-level executives
 * Exposure on stakeholder management
 * Good understanding on product management and business analysis
- 
+
 **Role Specific Skills**
 
 * Be passionate about reliable products that are easy to use and just work
@@ -101,4 +101,4 @@ We are seeking a senior open source technologist with demonstrated experience le
 
 ## To Apply
 
-Please complete the [linked form](https://docs.google.com/forms/d/e/1FAIpQLSdoodP-j3XA-2DNeb11KWcir5AnsA85RQkzsga6h_ndIEf0Dw/viewform?usp=sf_link) by August 31, 2020. Please continue to the second page of the form to upload your CV/resume (max 2 pages) and your responses to the following: (1) A motivation statement (150 words) (2) Your experience with the tension between technology and inclusion (200 words) (3) Your experience in an Agile team (250 words). Please ensure to upload only 1 PDF file titled 'First Name.Last Name.' No cover letter is required. 
+Please complete the [linked form](https://docs.google.com/forms/d/e/1FAIpQLSdoodP-j3XA-2DNeb11KWcir5AnsA85RQkzsga6h_ndIEf0Dw/viewform?usp=sf_link) by August 31, 2020. Please continue to the second page of the form to upload your CV/resume (max 2 pages) and your responses to the following: (1) A motivation statement (150 words) (2) Your experience with the tension between technology and inclusion (200 words) (3) Your experience in an Agile team (250 words). Please ensure to upload only 1 PDF file titled 'First Name.Last Name.' No cover letter is required.
