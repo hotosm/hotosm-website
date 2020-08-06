@@ -1,13 +1,12 @@
 ---
 title: Scrum Master/Mentor
 date: 2020-08-06 11:32:00 Z
-published: false
 Deadline Date: 2020-08-31 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdoodP-j3XA-2DNeb11KWcir5AnsA85RQkzsga6h_ndIEf0Dw/viewform?usp=sf_link
 ---
 
-**Reports to: **Senior Technical Lead
+**Reports to:** Senior Technical Lead
 
 **Contract Terms:** 40 hrs, Monday - Friday; Flexible Schedule, with a minimum of 3-4 hours overlap with US East Coast business hours required; Employee with 1 year initial contract
 
