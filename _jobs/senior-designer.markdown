@@ -8,10 +8,15 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeY5gKbGo3G-brnV_WuOQn
 ---
 
 **Reports to:** Senior Technical Lead, Director of Technology and Innovation 
+
 **Contract Terms:** 40 hrs. Monday - Friday. Flexible Schedule; with a minimum of 3-4 hours overlap with US East Coast business hours required; Employee 1 yr. Initial contract
+
 **Travel:** Up to 20% international, including to HOT field project locations
+
 **Close Date:** August 31, 2020
+
 **Estimated Start Date:** Candidate dependent 
+
 **Work Location:** Remote
 
 # About HOT
@@ -61,14 +66,14 @@ You are passionate about putting people at the centre of technology. You are dri
 
 * Qualification in relevant creative field or a strong portfolio of relevant creative projects
 * 5+ years experience with interaction design, user experience design, or similar field
-* 5+ years experience designing digital products and systems. 
+* 5+ years experience designing digital products and systems 
 * Experience working in a dynamic open source community across multiple stakeholder groups and with multiple concurrent projects; OpenStreetMap (OSM) an advantage
 * Experience working in international humanitarian or development agencies/NGOs
 * Working knowledge of Principles for Digital Development and Human Centered Design
 * Experience managing diverse, distributed teams over multiple geographies
-* Demonstrated ability to design and define user experiences from whiteboards and post-its to wireframes and prototypes; tool and software flexible. 
+* Demonstrated ability to design and define user experiences from whiteboards and post-its to wireframes and prototypes; tool and software flexible 
 * Demonstrated history of mentoring, teaching, or guiding other designers and team members
-* Experience guiding or contributing to agile teams or projects.
+* Experience guiding or contributing to agile teams or projects
 
 ### Role Specific Skills
 
