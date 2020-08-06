@@ -22,20 +22,20 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeY5gKbGo3G-brnV_WuOQn
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 230,000 people with ground operations in eight countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need.
 
 # About the Role
-The **Senior Design Lead** will contribute their creative energy to a passionate team of open source hacktivists. You will be responsible for capturing user insights and creating a collage of imaginative ideas which can be realised through agile collaboration with a team of technical superstars. You will ignite HOT’s dynamic community of digital humanitarians by understanding the needs of a diverse group of staff, stakeholders, volunteers, contributors and users in order to inspire user flow and delight as we map an area home to one billion people. 
+The **Senior Designer** will contribute their creative energy to a passionate team of open source hacktivists. You will be responsible for capturing user insights and creating a collage of imaginative ideas which can be realised through agile collaboration with a team of technical superstars. You will ignite HOT’s dynamic community of digital humanitarians by understanding the needs of a diverse group of staff, stakeholders, volunteers, contributors and users in order to inspire user flow and delight as we map an area home to one billion people. 
 
 You will work closely with the Director of Technology and Innovation and the Senior Technical Lead to support the entire team with User Experience and Product Design projects. You will lead and mentor the creative growth of our team and contribute to a culture of open sourced, human centred and inclusive technologies that inspire humanitarian action. 
 
 You’ll be involved in every aspect of our product development process, from early concept, to wireframe, to prototype/mockup, to pixel perfect design, build, and launch. Since we are a small team, you'll also have your hand in directing and prioritizing the product roadmap. In this role, you'll be responsible for owning the user experience across HOT’s existing and future projects.
 
-The **Senior Design Lead** will advance HOT’s mission by operationalizing the HOT_Tech core ethics:
+The **Senior Designer** will advance HOT’s mission by operationalizing the HOT_Tech core ethics:
 
 * **Human:** Our **Human** ethic is our commitment to people as our priority. At the centre of all our technology sits a human. The ultimate purpose of our technology is to improve human conditions. We use technology to enable and amplify human efforts. We support them at personal and professional levels. We invest in their well-being and their growth. We provide security and stability. When our people thrive, so do we.
 * **Open:** Our **Open** ethic permeates all we do. Our actions  reflect radical openness and transparency. We encourage open inputs and outputs. Our team and technology openly welcomes and engages community, collaboration and contribution.
 * **Truth:** Our **Truth** ethic reflects an OpenStreetMap core principle; the ‘truth on the ground’. Our activities and decisions will be guided by this ethic, conflicts not easily resolved will defer to this ethic to determine what best reflects and prioritizes the truth on the ground.
 * **HOT_Tech Principles**> Can be found here >> https://github.com/hotosm/tech/blob/master/principles/README.md 
 
-The **Senior Design Lead** will coordinate and collaborate with key HOT_Tech supporting functions including the Director of Technology, Senior Technical Lead, Module Owners and the Community Manager.
+The **Senior Designer** will coordinate and collaborate with key HOT_Tech supporting functions including the Director of Technology, Senior Technical Lead, Module Owners and the Community Manager.
 
 ## Priority Areas for Action and Responsibilities
 
