@@ -1,19 +1,18 @@
 ---
 title: Senior Designer
 date: 2020-08-06 08:06:00 Z
-published: false
 Deadline Date: 2020-08-31 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeY5gKbGo3G-brnV_WuOQnB2e35S3mCxrGgj4xsWBurcGZgkw/viewform?usp=sf_link
 ---
 
-**Reports to:** Senior Technical Lead, Director of Technology and Innovation 
+**Reports to:** Senior Technical Lead and Director of Technology and Innovation 
 
-**Contract Terms:** 40 hrs. Monday - Friday. Flexible Schedule; with a minimum of 3-4 hours overlap with US East Coast business hours required; Employee 1 yr. Initial contract
+**Contract Terms:** 40 hrs, Monday - Friday; Flexible Schedule with a minimum of 3-4 hours overlap with US East Coast business hours required; Employee, 1 year initial contract
 
 **Travel:** Up to 20% international, including to HOT field project locations
 
-**Close Date:** August 31, 2020
+**Deadline:** August 31, 2020
 
 **Estimated Start Date:** Candidate dependent 
 
