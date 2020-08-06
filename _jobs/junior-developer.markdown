@@ -1,7 +1,6 @@
 ---
 title: Junior Developer
 date: 2020-08-06 10:09:00 Z
-published: false
 Deadline Date: 2020-08-24 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeaAzh81713JnQ_wAVgKUERL5Gfymh0sC8pfGns2bgnumag2g/viewform?usp=sf_link
@@ -37,7 +36,7 @@ The **Junior Developer** will advance HOT’s mission by operationalizing the HO
 ## Priority Areas for Action and Responsibilities
 
 **Code:** 
-* Be involved and participate in the overall application lifecycle with ownership of code throughout development, staging, testing and production.
+* Be involved and participate in the overall application lifecycle with ownership of code throughout development, staging, testing and production
 * Our tool stack has applications built with a mix of Python and Javascript frameworks
 
 **Quality:** 
@@ -70,7 +69,7 @@ The best candidate for this role will have:
 * Some experience in open source software contributions or development
 * Basic understanding of working with github
 * Experience with OpenStreetMap (OSM) and associated OSM tools an advantage
-* Familiarity with  agile teams or projects.
+* Familiarity with  agile teams or projects
 * Be fluent in working in a fully or partially remote work environment
 * Working with diverse, distributed teams over multiple geographies and timezones 
 
@@ -80,11 +79,11 @@ The best candidate for this role will have:
 * Confidence with software development fundamentals 
 * Your code is easy to understand and maintain
 * Proven track record of delivering data driven solutions with a user-first mindset
-* Be driven by compassion, humanitarian ethics, and a sense of humor.
-* Passion for open source mobile-first solutions and appropriate technology that is user centric and built in and for constrained contexts.
-* Utilize strong verbal and written communication to articulate complex concepts across varied audiences to build consensus and lead change.
+* Be driven by compassion, humanitarian ethics, and a sense of humor
+* Passion for open source mobile-first solutions and appropriate technology that is user centric and built in and for constrained contexts
+* Utilize strong verbal and written communication to articulate complex concepts across varied audiences to build consensus and lead change
 * You can express your ideas clearly in written and spoken English
-* Ability to identify challenges and ask for support as required. 
+* Ability to identify challenges and ask for support as required 
 
 ## Compensation & Benefits
 
