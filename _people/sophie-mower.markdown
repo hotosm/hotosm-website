@@ -4,7 +4,7 @@ date: 2020-04-17 22:17:00 Z
 Photo: "/uploads/Sophie%20Mower_fullres.jpg"
 Member Type:
   Is Staff: true
-Job Title: Community Manager
+Job Title: Microgrants Manager
 Country: United Kingdom
 ---
 
