@@ -41,19 +41,19 @@ The **Senior Designer** will coordinate and collaborate with key HOT_Tech suppor
 
 * **Human Centered, Inclusive Experiences:** As reflected in our core ethic, we want humans to be at the centre of all we do. The Senior Design Lead will advocate and prioritise this ethic in all dimensions of their role. You will lead the design of user experiences that engage and include all users from the centre, to the edge of the map.
 * **Lead, Support, Mentor:** The Senior Design Lead will inject creative inspiration into the entire team. You will support the module teams in translating user needs to product requirements and provide input for backlog prioritisation. You will facilitate and unlock a culture of design and delight and provide the team with the tools and mentorship to exercise their creativity.
-* **Connect, Collaborate, Co-create:** Through close collaboration with the Senior Technical Lead and Director of Technology and Innovation you will distil the HOT Technology Strategy into elegant technology solutions that respond to community needs. The Senior Design Lead will connect and collaborate with the HOT community to co-create simple, yet sophisticated experiences that support and enhance a mapper’s growth and journey.
+* **Connect, Collaborate, Co-create:** Through close collaboration with the Senior Technical Lead and Director of Technology and Innovation you will distill the HOT Technology Strategy into elegant technology solutions that respond to community needs. The Senior Design Lead will connect and collaborate with the HOT community to co-create simple, yet sophisticated experiences that support and enhance a mapper’s growth and journey.
 
 ## Responsibilities
 
 * Contribute to the creative vision and implementation of the HOT technology strategy
 * Conceptualise ideas that bring simplicity and user friendliness to complex design challenges
 * Facilitate the design thinking process including user research, discovery and product concept to imagine the HOT technology strategy into existence
-* Develop and implement successful design strategies, working with and managing feedback from the global HOT community.
-* Collaborate with HOT’s global tech team and open source community to define, build, and release new user centred updates and enhancements
+* Develop and implement successful design strategies, working with and managing feedback from the global HOT community
+* Collaborate with HOT’s global tech team and open source community to define, build, and release new user centered updates and enhancements
 * Oversee all design projects, from conception to delivery
-* Construct user flows, wireframes, and prototypes that effectively communicate design concepts for validation.
+* Construct user flows, wireframes, and prototypes that effectively communicate design concepts for validation
 * Develop and deliver well-documented, product design that accurately reflect HOT’s mission
-* Mentor and guide team members, helping them develop and grow.
+* Mentor and guide team members, helping them develop and grow
 * Creatively guide the team's design culture through collaboration, feedback, and iteration.
 * Additional graphic/visual design assistance and tasks as required
 
@@ -80,10 +80,10 @@ You are passionate about putting people at the centre of technology. You are dri
 * Facilitating inclusive design thinking methodology; online facilitation an advantage
 * Open and encouraging communication
 * Leadership and organizational skills along with a keen eye for visual details
-* Strong understanding of web interactions: patterns, best practices, common challenges website developers face and solutions to those challenges.
-* Have a collaborative, self-motivated, "always-learning" spirit, driven to improve user experiences everywhere at all times through smart design and applied effort.
+* Strong understanding of web interactions: patterns, best practices, common challenges website developers face and solutions to those challenges
+* Have a collaborative, self-motivated, "always-learning" spirit, driven to improve user experiences everywhere at all times through smart design and applied effort
 * Be fluent in working in a fully or partially remote work environment
-* Strong skills working across graphics and product design tools.
+* Strong skills working across graphics and product design tools
 
 ## Compensation & Benefits
 
