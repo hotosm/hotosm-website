@@ -10,6 +10,8 @@ Person:
 - Rebecca Firth
 - Geoffrey Kateregga
 - Sophie Mower
+Project:
+- Audacious Project
 ---
 
 Working with and supporting OpenStreetMap communities in 94 Low- and Middle-Income Countries worldwide is critical to [HOT’s Audacious Vision](https://www.hotosm.org/projects/audacious/). Since 2017, [HOT’s Microgrant Program](https://www.hotosm.org/community/community-grants/) has supported 39 communities in 23 countries with grants between $2,000 and $12,000. To date, HOT Micrograntees have made 9 million map edits and trained 13,400 new mappers to join their communities. Now, with the support of the [Audacious Project](https://audaciousproject.org/ideas/2020/humanitarian-openstreetmap-team), HOT will be massively increasing its support to mapping communities to further enable them to grow and contribute high quality data to OpenStreetMap.
