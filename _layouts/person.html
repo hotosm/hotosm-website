@@ -46,11 +46,12 @@ layout: default
           </div>
         </div>
 
-        <div class="person-posts {% for post in site.posts %}{% if post.Person contains page.title %}present{% break %}{% endif %}{% endfor %}">
+        {% assign posts = site.posts | concat: site.tech-blog %}
+        <div class="person-posts {% for post in posts %}{% if post.Person contains page.title %}present{% break %}{% endif %}{% endfor %}">
           <h6>Posts</h6>
           <div class="person-posts-list">
             {% assign checkposts = false %}
-            {% for post in site.posts %}
+            {% for post in posts %}
               {% if post.Person contains page.title %}
               {% assign checkposts = true %}
               <div class="news-index-item">
