@@ -59,7 +59,7 @@ The goals community members mentioned in response to this question ranged signif
 ## Learnings
 The ideas and information collected in these workshops provide useful building blocks to start the creation of HOT’s Community Strategy, which will address community goals and acknowledge challenges, skills gaps, and expectations within regional contexts. The findings of these workshops clarify the need to:
 * Redevelop HOT’s Microgrants program into a more robust Community Support Program, which will offer OpenStreetMap communities training in mapping, advanced GIS and data analysis, financial management, and business development.
-* Provide this support at a more localised level. Going forward, OpenStreetMap community support will be provided directly from regional hubs in Asia, East Africa, West Africa, and Latin America & the Caribbean, rather than from HOT’s Global team.
+* Provide this support at a more localized level. Going forward, OpenStreetMap community support will be provided directly from regional hubs in Asia, East Africa, West Africa, and Latin America & the Caribbean, rather than from HOT’s Global team.
 * Create frameworks to measure data quality and map completeness.
 
 ## Next Steps
