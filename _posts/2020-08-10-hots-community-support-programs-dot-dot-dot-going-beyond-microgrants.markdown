@@ -51,7 +51,7 @@ The three most common skill gaps:
 The three most common expectations:
 * 31% of community expectations identified were related to  the idea of a **long term support program**. This included mentorship (discussed mostly by participants at the State of the Map workshop), advice on tools and methods, and help with technical applications.
 * 16% of expectations were related to **training**, which included technical training, data validation, and communications and outreach. One of the participants in the YouthMappers workshop said “we just want training; more and more training”.
-* 14% of expectations were related to receiving **funding** to execute projects and contribute to community overheads .
+* 14% of expectations were related to receiving **funding** to execute projects and contribute to community overheads.
 
 **What do you think defines success as an OSM community?**
 
