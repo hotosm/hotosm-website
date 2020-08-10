@@ -1,0 +1,61 @@
+---
+title: What is new in Tasking Manager 4.1
+date: 2020-08-10 07:30:00 Z
+Summary Text: Tasking Manager is in constant improvement. Take a look at the new features available in the 4.1 version.
+Feature Image: "/uploads/tm_4_1-featured.png"
+Person:
+- Wille Marcel
+---
+
+Since [our last blog post](/tech-blog/tm4-updates), the Tech Team has been working on the 4.1 release of [Tasking Manager](https://tasks.hotosm.org). This version includes new features like the project statistics and also a set of improvements on notifications.
+
+## ​​Project statistics page
+
+![Project statistics page](/uploads/tm_4_1-project-stats.png)
+
+Statistics are very important to provide project managers with insights on how the project is progressing and who is mapping it. We now have available a page with all sort of stats about a project, like:
+
+- Task status distribution numbers
+- Contributors number grouped by OpenStreetMap editing experience
+- Mapping and validation progress
+- Average time spent to map and validate each task
+- Prediction of how much time is needed to finish the project
+
+Checkout the statistics of [project #8997](https://tasks.hotosm.org/projects/8997/stats) as an example. All the current statistics data come from the Tasking Manager database. Soon we plan to add data from OpenStreetMap and also from [OSMCha](https://osmcha.org/).<br><br>
+
+## Notification Enhancements
+
+![New notifications settings](/uploads/tm_4_1-notifications.png)
+
+### Better definition of categories
+Notifications are a very important part of Tasking Manager and some changes were needed to make it more useful to everyone involved in projects. The users can be notified in two ways: they can receive a message within the Tasking Manager application and also receive it by email.<br><br>
+
+Each time a task is validated or invalidated, a message is sent to the user that mapped it. We introduced a new category named “Tasks validation emails” to give the users the option to configure receiving emails about this category of notifications.<br><br>
+
+The same happens to the "Mentions notifications". If someone mentions a username on a project or task comment, a message is sent to each mentioned user. Upon disabling that option, the user will not receive the email, but will continue receiving the message within TM.<br><br>
+
+"Project updates" & "Comments" categories continue working as always, if a user disable it, it will disable both the emails and the notification message within TM.<br><br>
+
+### Email improvements
+
+![](/uploads/tm_4_1-email-content.png)
+
+Notification emails now includes the notification message content in its body, so the users don’t need to open a link to read the message any more. The email subjects have been modified to suit the content of the email.<br><br>
+
+### Contacting project managers and authors easily
+
+![](/uploads/tm_4_1-comments-hashtags.png)
+
+If you need to contact the project managers or author you don’t need to mention each one individually by theirs usernames. In both project or task comments, if you use the hashtag #managers, a notification will be sent to all project managers associated with that project. If you prefer, you can notify only the user that created the project by using the #author hashtag.<br><br>
+
+## iD editor updated
+
+The iD editor embedded in Tasking Manager is updated to the [2.18 release](https://github.com/openstreetmap/iD/blob/release/CHANGELOG.md#2180). The two main new features of this iD version are the support to touchscreen devices and the multiselection editing. The touchscreen support opens the possibility to use Tasking Manager on tablets. If you have tried and have some feedback about it, please [let us know](https://github.com/hotosm/tasking-manager/issues/new). The multiselection editing gives more productivity to experienced users and validators.<br><br>
+
+## Additional languages support
+
+TM 4.1 brings support to two new languages Persian (Farsi) and Greek. With these two new additions, we reached support for 19 languages! Contribution to current and new translations are always welcome. We use [transifex](https://www.transifex.com/hotosm/tasking-manager/) to manage translations.<br><br>
+
+## Keep in touch
+
+You can participate in the Tasking Manager development in several ways. You can give us your feedback through the GitHub issues, slack channels or user group meetings. We have [a dedicated page](https://github.com/hotosm/tasking-manager/blob/develop/docs/working-groups.md) with instructions and links on how to participate in application development.<br><br>
