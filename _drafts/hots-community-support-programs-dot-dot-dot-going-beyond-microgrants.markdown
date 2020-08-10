@@ -1,11 +1,10 @@
 ---
 title: HOT’s Community Support Programs -Going Beyond Microgrants
 date: 2020-08-10 11:40:00 Z
-Summary Text: "[HOT’s Audacious Vision](https://www.hotosm.org/projects/audacious/)
-  is to map an area home to one billion people living in poverty and at high risk
-  of disasters by engaging mappers around the world to massively grow the number of
-  local edits to the map. To kickstart planning, HOT’s Community Team has hosted a
-  series of workshops to understand community perspectives."
+Summary Text: HOT’s Audacious Vision is to map an area home to one billion people
+  living in poverty and at high risk of disasters by engaging mappers around the world
+  to massively grow the number of local edits to the map. To kickstart planning, HOT’s
+  Community Team has hosted a series of workshops to understand community perspectives.
 Feature Image: "/uploads/Deo%20Supporting%20Local%20Mapping%20Communities%20Feedback.JPG"
 Person:
 - Geoffrey Kateregga
