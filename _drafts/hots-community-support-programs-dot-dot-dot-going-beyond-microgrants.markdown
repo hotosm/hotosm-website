@@ -29,6 +29,7 @@ Data was then organized and analyzed using a data framework that captured all of
 ## Key Findings
 
 **What are the day to day challenges faced by OSM communities?**
+
 The three most common challenges:
 * 31% of challenges were associated with **volunteers**. These included volunteer commitment, retention and the technical knowledge of volunteers.
 * 23% of challenges related to **funding** for project execution, including internet access and covering volunteer costs/volunteer incentives.
@@ -37,6 +38,7 @@ The three most common challenges:
 ![Community Support Word Cloud 1.png](/uploads/Community%20Support%20Word%20Cloud%201.png)
 
 **Are there any skills gaps in communities? If so, which skills?**
+
 The three most common skill gaps:
 * 32% of skills gap discussed in the workshops related to **GIS data collection and quality**. This skills gap was identified as being most prominent in communities from Indonesia and the Philippines. Validation, data quality control, and understanding and using JOSM and QGIS were the most discussed skills gaps overall.
 * 24% of skills gaps were related to **entrepreneurial skills**. Writing proposals, leadership skills, and pitching and presenting were skills gaps raised by participants in all six workshops.
@@ -45,12 +47,14 @@ The three most common skill gaps:
 ![Community Support Word Cloud 2.png](/uploads/Community%20Support%20Word%20Cloud%202.png)
 
 **What kind of support do communities expect? Do we deliver on expectations?**
+
 The three most common expectations:
 * 31% of community expectations identified were related to  the idea of a **long term support program**. This included mentorship (discussed mostly by participants at the State of the Map workshop), advice on tools and methods, and help with technical applications.
 * 16% of expectations were related to **training**, which included technical training, data validation, and communications and outreach. One of the participants in the YouthMappers workshop said “we just want training; more and more training”.
 * 14% of expectations were related to receiving **funding** to execute projects and contribute to community overheads .
 
 **What do you think defines success as an OSM community?**
+
 The goals community members mentioned in response to this question ranged significantly, from data quality and completeness to community sustainability and financing. Three most common definitions of success:
 * 40% of the ideas identified **community** as being the key to success. Sustained community expansion was the most discussed success (32% of the 40%), followed by ‘an active, vibrant and diverse community (17% of the 40%)
 * 15% of the ideas saw **OSM coverage** as a definition of success
