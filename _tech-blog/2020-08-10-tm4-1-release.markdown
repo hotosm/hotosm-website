@@ -60,3 +60,5 @@ TM 4.1 brings support to two new languages Persian (Farsi) and Greek. With these
 ## Keep in touch
 
 You can participate in the Tasking Manager development in several ways. You can give us your feedback through the GitHub issues, slack channels or user group meetings. We have [a dedicated page](https://github.com/hotosm/tasking-manager/blob/develop/docs/working-groups.md) with instructions and links on how to participate in application development.<br><br>
+
+Also we're looking to grow our team - check out [our job openings](https://www.hotosm.org/jobs) and drop in a line if you're interested!
