@@ -81,7 +81,7 @@ With this in mind, [YouthMappers Dhaka College](https://twitter.com/ymdhakacolle
 
 All the collected data has been made publicly available through OpenStreetMap, including the location of waste bins set up by the city authorities, waste disposal points, waste transfer stations, unofficial open garbage disposal points, and landfill sites. These locations also have geotagged photos available. 
 
-Through the project, YouthMappers Dhaka college were able to provide field data and analysis to the local government and l agencies. They also cultivated local community level awareness during data collection and built the capacity of the mapping community on mobile data collection tools and analysis.
+Through the project, YouthMappers Dhaka college were able to provide field data and analysis to the local government and agencies. They also cultivated local community level awareness during data collection and built the capacity of the mapping community on mobile data collection tools and analysis.
 
 
 ## Action for Resilient Communities + FEUTech YouthMappers, Philippines
