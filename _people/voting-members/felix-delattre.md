@@ -15,6 +15,7 @@ Project:
 Country: Germany
 Social Media (Full URL):
   Website: https://felix.delattre.de
+  OSM: https://openstreetmap.org/user/xamanu
 redirect_from:
 - "/users/felix_delattre"
 ---

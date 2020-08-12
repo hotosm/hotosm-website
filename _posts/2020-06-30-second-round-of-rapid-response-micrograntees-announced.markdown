@@ -20,7 +20,7 @@ This second cohort of Micrograntees will join [Map Kibera](http://www.mapkibera.
 
 ### OSM DRC
 
-OSM DRC’s Microgrant will fund the development of a [collaborative map](ezosala.org) that will inform the local community whether establishments are open or closed during lockdown in Kinshasa. The project will contribute to the OpenStreetMap (OSM) basemap by focusing on areas of the city where data is sparse and out of date. The platform will also detail what resources are available within the establishments, such as face masks or disinfectant. Once the basemap is complete, the community will consolidate and integrate the data that has been collected from establishments and visualize their findings on [ezosala.org](ezosala.org). 
+OSM DRC’s Microgrant will fund the development of a [collaborative map](ezosala.org) that will inform the local community whether establishments are open or closed during lockdown in Kinshasa. The project will contribute to the OpenStreetMap (OSM) basemap by focusing on areas of the city where data is sparse and out of date. The platform will also detail what resources are available within the establishments, such as face masks or disinfectant. Once the basemap is complete, the community will consolidate and integrate the data that has been collected from establishments and visualize their findings on [ezosala.org](https://www.ezosala.org). 
 
 ### [Senegal Emergency Health Data Campaign](https://github.com/healthsites/healthsites/wiki/Senegal--Emergency-health-data-campaign)
 

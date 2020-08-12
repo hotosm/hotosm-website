@@ -41,7 +41,7 @@ Audacious Project donors have made a five year commitment to HOT, beginning July
 
 ## How much funding did HOT receive? Who are the donors?
 
-HOT received a significant investment from several donors including [The ELMA Philanthropies](https://www.elmaphilanthropies.org/), [the Skoll Foundation](https://skoll.org/), [Pivotal Ventures](https://www.pivotalventures.org/), [Rippleworks](http://www.rippleworks.org/) and private donors. This investment is spread over five years, and it will help us achieve our big vision. The Audacious Project supports organizations at various funding levels and sizes, and HOT is one of the smaller projects that is being supported this year. HOT’s Audacious project is not yet fully funded, meaning the total funding amount is not yet confirmed, and HOT still needs to raise additional funds to realize this vision by 2025.
+HOT received a significant investment from several donors including [The ELMA Philanthropies](https://www.elmaphilanthropies.org/), [the Skoll Foundation](https://skoll.org/), [Pivotal Ventures](https://www.pivotalventures.org/), [Rippleworks](http://www.rippleworks.org/), [MacKenzie Scott](https://medium.com/@mackenzie_scott/116-organizations-driving-change-67354c6d733d) and private donors. This investment is spread over five years, and it will help us achieve our big vision. The Audacious Project supports organizations at various funding levels and sizes, and HOT is one of the smaller projects that is being supported this year. HOT’s Audacious project is not yet fully funded, meaning the total funding amount is not yet confirmed, and HOT still needs to raise additional funds to realize this vision by 2025.
 
 We’ll continue to operate as we always have, in a lean, cost-conscious way to maximize the value to the organizations and communities we serve. HOT will also continue to report openly on our spending via our annual report, public tax filing, and financial statements. These are published annually on [HOT’s website](http://www.hotosm.org). As HOT receives funds, the breakdown on how these will be allocated is available on slide 35 of the “Achieving our Strategic Plan” presentation.
 
@@ -114,7 +114,7 @@ In total, Audacious donor funding will support 115 staff. This number is in addi
 
 * Latin America/Caribbean: To be determined
 
-# How were the hub locations selected?
+## How were the hub locations selected?
 
 Priority cities in each region were assessed by evaluating candidate cities against 18 criteria. These criteria include but are not limited to:
 
@@ -154,7 +154,7 @@ Priority cities in each region were assessed by evaluating candidate cities agai
 
 * Strong technology start up community
 
-**Why wasn't an existing HOT location selected for the East Africa Hub?**
+## **Why wasn't an existing HOT location selected for the East Africa Hub?**
 
 In the case of East Africa, for Nairobi, in particular, the ease of access (air transport hub for the region), potential for regional partnerships and existing NGO & tech start-up communities presented the greatest potential for achieving HOT’s goals in the region, including:
 
@@ -165,6 +165,10 @@ In the case of East Africa, for Nairobi, in particular, the ease of access (air 
 * **Develop regional partnerships** and broker requests with governments and NGOs
 
 * **Administer Microgrants** to develop and support mapping communities
+
+## What is the timeline for the opening of the new hubs?
+
+We plan to open the Asia/Pacific hub in Manila in November 2020 and the East Africa hub in Nairobi in January 2021. The West Africa and Latin America hubs will be opened in the course of 2021. We will update this FAQ when exact dates are available.
 
 ## What will be the structure of the people working in the hub?
 

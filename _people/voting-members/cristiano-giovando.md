@@ -15,7 +15,7 @@ Project:
 - Outreachy
 - Nepal 2015 Earthquake Response
 - HOT Training Center
-Country: United States
+Country: Italy
 Social Media (Full URL):
   Twitter: https://twitter.com/giovand
   LinkedIn: https://www.linkedin.com/in/giovando

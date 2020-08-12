@@ -21,6 +21,6 @@ redirect_from:
 - "/users/rupert_allan"
 ---
 
-Rupert Allan currently works as Country Manager for Humanitarian OpenStreetMap Team (HOT) in Uganda, where projects include ‘Crowd-Sourcing Non-Camp Refugee Data’(USSD BPRM), ‘Uganda Open-Mapping Project’(World Bank/OpenDRI), and ‘Data for Resilience in Refugee Settings’(GPSDD). Rupert also represents the team on the Uganda Ministry of Health Emergency Operations Committee, developing the Ebola Data Resilience Strategy for immanent outbreak following cross-border events in the DRC (Congo).
+Rupert Allan is a former Country Manager for Humanitarian OpenStreetMap Team (HOT) in Uganda, where projects included ‘Crowd-Sourcing Non-Camp Refugee Data’(USSD BPRM), ‘Uganda Open-Mapping Project’(World Bank/OpenDRI), and ‘Data for Resilience in Refugee Settings’(GPSDD). Rupert also represented the team on the Uganda Ministry of Health Emergency Operations Committee, developing the Ebola Data Resilience Strategy for immanent outbreak following cross-border events in the DRC (Congo).
 
 Engaged in interventional design and field operations since 1988, his work has been characterised by creative improvisation in crisis environments across Humanitarian Disaster and Film Production. He holds a Masters in Visual Culture and Anthropology from the University of Wales, and associates his research with the Displacement Studies Research Network (University of Plymouth, UK), and the Manson Unit, (Medecins Sans Frontieres (MSF), London).
