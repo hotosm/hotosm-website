@@ -2,12 +2,11 @@
 title: Voting Membership Annual Meeting Election Results
 date: 2020-08-12 15:15:00 Z
 Summary Text: HOT's Voting Membership has hosted it's 2020 Annual Meeting
-Feature Image:
+Feature Image: 
 Person:
 - Matthew Gibb
 Country:
 - Global
-
 ---
 
 At HOT's 2020 Voting Membership Annual Meeting, the Voting Membership announced the results of its Board of Directors and Chairperson Election.
