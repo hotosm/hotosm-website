@@ -1,8 +1,7 @@
 ---
 title: Voting Membership Annual Meeting Election Results
 date: 2020-08-12 15:15:00 Z
-Summary Text: HOT's Voting Membership has hosted it's 2020 Annual Meeting
-Feature Image: 
+Summary Text: HOT's Voting Membership has hosted its 2020 Annual Meeting
 Person:
 - Matthew Gibb
 Country:
