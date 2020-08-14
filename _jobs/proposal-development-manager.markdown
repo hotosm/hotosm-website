@@ -1,7 +1,6 @@
 ---
 title: Proposal Development Manager
 date: 2020-08-14 12:52:00 Z
-published: false
 Deadline Date: 2020-08-28 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScqxPI2Qc2BR_sL0Bv73I5iKAKfs_SUtXUupy_yBdv6thJ69g/viewform?usp=sf_link
@@ -45,8 +44,8 @@ HOT is looking for a part-time proposal manager to coordinate our new project / 
 * Detailed knowledge of institutional donor RFP requirements
 * Development of multi-million dollar project budgets
 
-## Compensation & Benefits
-* HOT values salary transparency and equity. All HOT salaries globally are set according to a framework detailed on our website.
+## Compensation
+HOT values salary transparency and equity. All HOT salaries globally are set according to a framework detailed on our website.
 
 ## To Apply
 Please complete the form linked [here](https://docs.google.com/forms/d/e/1FAIpQLScqxPI2Qc2BR_sL0Bv73I5iKAKfs_SUtXUupy_yBdv6thJ69g/viewform?usp=sf_link). Continue to the second page to upload your CV/resume. Your CV/resume should not exceed 2 pages. 
