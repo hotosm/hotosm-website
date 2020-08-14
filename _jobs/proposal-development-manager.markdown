@@ -8,9 +8,13 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScqxPI2Qc2BR_sL0Bv73I5
 ---
 
 **Schedule:** Approximately 20 hours per week on an ongoing basis with scope to increase hours if desired in 2021
+
 **Location:** Flexible/Remote with at least half-day overlap with US East Coast and Central Europe time zones
+
 **Reports To:** Director of Humanitarian and Development Programs - indirect to HOT’s Director of Technology, Community/Partnerships, and Executive Director
+
 **Deadline:** August 28, 2020
+
 **Estimated Start Date:** Second week of September 2020
 
 # About HOT
