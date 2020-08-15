@@ -20,7 +20,7 @@ Projects:
 created: 1522804144
 ---
 
-The Humanitarian OpenStreetMap Team (HOT) began a concerted effort to create a basemap of Indonesia back in 2011 for disaster preparedness and resiliency. Since then, the OpenStreetMap community in Indonesia has continued to grow and expand their expertise into applications like InAWARE. However, these maps still lack a lot of the road network that exists outside of the major cities. [In consultation with local communities, we're working with with Facebook to quickly identify more roads using artificial intelligence (AI) tools.]
+The Humanitarian OpenStreetMap Team (HOT) began a concerted effort to create a basemap of Indonesia back in 2011 for disaster preparedness and resiliency. Since then, the OpenStreetMap community in Indonesia has continued to grow and expand their expertise into applications like InAWARE. However, these maps still lack a lot of the road network that exists outside of the major cities. [In consultation with local communities, we're working with Facebook to quickly identify more roads using artificial intelligence (AI) tools.]
 
 <img class="image-large" title="Road Masks" src="https://s3.amazonaws.com/hotwww/files/old/styles/large/public/RoadMasks.png?itok=3553RzYH" alt="Screenshot of Facebook Training Video" style="width:480px;height:271px;">
 
