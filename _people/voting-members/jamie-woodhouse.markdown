@@ -5,7 +5,7 @@ Photo: "/uploads/jamie-woodhouse.jpg"
 Member Type:
   Is Voting Member: true
 Social Media (Full URL):
-    Twitter: https://twitter.com/@jamiewoodhouse
+  Twitter: https://twitter.com/@jamiewoodhouse
 Country: United Kingdom
 ---
 
