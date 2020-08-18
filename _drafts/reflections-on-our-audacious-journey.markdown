@@ -52,7 +52,7 @@ After this, we flew straight to Heidelberg Germany and into the flurry of the HO
 
 **Rebecca:** January was a blur of trying to catch up on all the work I’d missed while we’d been writing the proposal, but Tyler and I also set about the task of distilling the HOT journey into a nine minute talk. Then, after absorbing as much as I could from Chris Anderson’s book ‘The official guide to TED public speaking’, I walked up into the hills above my idyllic Cusco home and repeated the talk over and over again to my dog...
 
-![image5-e1f94f.jpg](/uploads/image5-e1f94f.jpg)
+![image5-reduced.jpg](/uploads/image5-reduced.jpg)
 
 And then, 26 January 26 rolled around and another Sunday taking that 4am-midnight journey to NYC. I’d recorded the talk on my phone and listened to it on repeat the whole way, repeating the words over and over.. Filming the talk was… intense. I had a horrible cold and took literally every cold medicine I could find in NYC. In the practice filming I don’t think I breathed once for the whole nine minutes. I spilled bright purple juice all over my top one minute before filming and had to borrow clothes from our wonderful TED Curator Helen. But then the moment came, the nervous laughs were over, and I walked onto the red dot, and somehow it all just tumbled out…
 
