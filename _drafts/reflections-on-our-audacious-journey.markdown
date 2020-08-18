@@ -6,7 +6,7 @@ Summary Text: "“Do you have an ambitious idea for tackling one of the world’
 Feature Image: "/uploads/image1-41c9fa.jpg"
 ---
 
-### June 8, 2018: The application
+## June 8, 2018: The application
 
 **Tyler: On Friday, June 8, 2018 I was doing my regular Friday review of funding opportunities. One of the emails I look at every week is the Tech Nonprofit Leaders Weekly from Fast Forward. An opportunity popped out at me**: “*Do you have an ambitious idea for tackling one of the world's biggest problems? [The Audacious Project](https://audaciousproject.org/) has set an audacious goal to fund 7 world changing ideas that are truly bold and truly actionable. Learn more*”.  As is quite usual for us, we put together an application - with an hour to spare before the 11:59pm deadline!
 
@@ -32,7 +32,6 @@ We re-submitted and within a week were invited back for Round 2! I’d like to s
 
 ![image7-c5e026.png](/uploads/image7-c5e026.png)
 
-
 ### September 11-13, 2019: Ideation workshop
 
 **Rebecca:** We’re invited to a three day ideation workshop in NYC with the other finalists, and after travelling 4am-midnight the day before to make three flight connections, this day started with a lot of nervous energy! We kicked off with a 1:1 meeting with Chris and Anna, during which it became radically clear to us we hadn’t spent enough time in Excel modelling numbers. Starting on this nervous “we don’t have Silicon Valley pitching experience, what are we meant to do now” note, we dove into the workshop drawing things on whiteboards, erasing them, then drawing again on repeat. We were assigned a team of three “champions” from the Bridgespan Group to support us.
@@ -42,8 +41,8 @@ Despite a nervous start, the warmth and kindness of the Audacious Team really sh
 After this, we flew straight to Heidelberg Germany and into the flurry of the HOT Board meeting > HOT Staff meeting > HOT Summit > State of the Map > Missing Maps Gathering...
 
 ![image3-ae9958.jpg](/uploads/image3-ae9958.jpg)
-> Tyler & Rebecca during their hour long wedding-style photoshoot on a New York rooftop
 
+> Tyler & Rebecca during their hour long wedding-style photoshoot on a New York rooftop
 
 ### October-December 2019
 
@@ -58,8 +57,8 @@ After this, we flew straight to Heidelberg Germany and into the flurry of the HO
 And then, 26 January 26 rolled around and another Sunday taking that 4am-midnight journey to NYC. I’d recorded the talk on my phone and listened to it on repeat the whole way, repeating the words over and over.. Filming the talk was… intense. I had a horrible cold and took literally every cold medicine I could find in NYC. In the practice filming I don’t think I breathed once for the whole nine minutes. I spilled bright purple juice all over my top one minute before filming and had to borrow clothes from our wonderful TED Curator Helen. But then the moment came, the nervous laughs were over, and I walked onto the red dot, and somehow it all just tumbled out…
 
 ![image2-408186.png](/uploads/image2-408186.png)
-> Practising the talk online with our TED Curator Helen Walters
 
+> Practising the talk online with our TED Curator Helen Walters
 
 ### Sunday 16th February: the donor retreat
 
@@ -89,6 +88,6 @@ But we had to wait a bit longer. We were still finalizing grant agreements with 
 
 Between the donor retreat and April, the Covid-19 pandemic happened. Our launch was delayed and replanned multiple times. We finally were able to tell our entire team, community and voting members in June. Our staff are in 19 countries. We did this on a global Zoom call. Almost every single staff member of our 112 staff across all levels and roles was there. Being able to share my joy and excitement was special because of what it was going to mean for our team – helping us to unite around a single vision over an unheard-of timeframe – 5 years.
 
-**Rebecca:** The TED Conference I’d been idolizing attending for so long happened virtually, and I watched the talk stream from my sofa. Not being able to share the news with the team immediately was one of the hardest parts about the process, so the moment of launch was filled with excitement. The way the HOT community and particularly the staff team have pulled together to keep their work on track through this time is phenomenal: every person has gone the extra mile, and we’re fortunate this Audacious news has given us a sharper focus. 
+**Rebecca:** The TED Conference I’d been idolizing attending for so long happened virtually, and I watched the talk stream from my sofa. Not being able to share the news with the team immediately was one of the hardest parts about the process, so the moment of launch was filled with excitement. The way the HOT community and particularly the staff team have pulled together to keep their work on track through this time is phenomenal: every person has gone the extra mile, and we’re fortunate this Audacious news has given us a sharper focus.
 
 Telling the team and moving at speed into planning phase reminds me of one of my favourite quotes from the final episode of The American Office: *“I wish there was a way to know you're in the good old days before you've actually left them”*. When we started this process we were nervously daring; wanting to believe this could be possible - but none of it felt real. And with the belief and enigmatic spirit of the Audacious Team and donors we got there. And now, this is it for us: these are the good old days. This sort of thing doesn’t happen to non-profits, but it’s happened to us. This is our chance to make a real change: the hard work has only just begun...
