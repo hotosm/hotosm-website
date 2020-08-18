@@ -65,18 +65,10 @@ And then, 26 January 26 rolled around and another Sunday taking that 4am-midnigh
 
 > Practising the talk online with our TED Curator Helen Walters
 
-## Sunday 16th February: The donor retreat
+## February: hearing from the donors
+**Tyler:** One of the things that makes the Audacious Project rare is that donors come together to make investment decisions on the spot. As HOT’s ED, I felt especially responsible for the outcome on behalf of our entire organization and community. After quite some back and forth supporting responses to donor questions, we waited on a conference line to speak with the donors, and a colleague announced: “On behalf of all the donors and myself, we are committing to a 5 year investment in your Audacious vision…”
 
-**Tyler:** One of the things that makes the Audacious Project rare is that donors come together in an undisclosed location over a single weekend – to make investment decisions on the spot. What happens goes something like this: Donors arrive at the location. They are briefed by Chris Anderson on TED and Bridgespan’s work to source the most exciting ideas for 2020. Recorded TED talks (the ones filmed in January in NYC) are screened and donors participate in breakout groups to discuss ones they’re most interested in. Fun is had by all (we can only presume – as we were sitting nervously some thousands of miles away!).
-
-In advance of this weekend, Rebecca and I received instructions: Be sitting together (which wasn’t possible given Rebecca was in Cusco, Peru and I was in NYC). Have flawless internet connectivity. Be available at any time to receive a call. Needless to say, it was quite an unusual and high pressure situation, especially on a Sunday. The outcome could either be: we come away with nothing to show for the last 6 months. Or, we receive a multi-year investment that is transformative for the HOT community. As HOT’s ED, I felt especially responsible for the outcome on behalf of our entire organization and community.
-
-Over 48 hours, we received questions from donors thick and fast, quickly pulling together as much info as we could. Then, we were invited to a call with some of the donors interested in HOT… When we received the call, they were sitting in chairs outdoors arranged in a semi-circle. We recognized some faces from prior meetings, but many were new. After brief introductions, the questions streamed in. Concrete use cases and examples. Stories of how HOT and OpenStreetMap changed lives. Questions on how we would actually execute. How could we do Microgrants in some of the world’s most challenging contexts. Sixty minutes later, it was done. We hung up. And waited...
-
-At 5:37pm we received a WhatsApp message: *“Rebecca and Tyler – both of you should talk….be yourselves. Ok to show your emotion and passion :)”*. We waited on a conference line for over an hour before they dialled in, making nervous conversation between ourselves, unsure if anyone was actually listening… And then, there was a bigger circle of people this time. A new donor introduced herself to us only by first name. It was now dusk and everyone had drinks in hand. And a colleague from Skoll Foundation announced: “On behalf of all the donors and myself, we are committing to a 5 year investment in your Audacious vision...”
-
-**Rebecca:** From the moment I heard “On behalf of…” everything was in slow motion… we couldn’t hold back the tears in our thank yous, and then suddenly two minutes later it was over… what a shock! What do you do when you get news like this and you’re literally sitting alone in your house???
-
+**Rebecca:**
 After a few hours on a slightly manic FaceTime with Tyler, we settled down, and woke up the next morning to a beautiful message from Nidhi Sahni who worked so closely with us through the journey...
 
 ![image6-2fd8d3.png](/uploads/image6-2fd8d3.png)
