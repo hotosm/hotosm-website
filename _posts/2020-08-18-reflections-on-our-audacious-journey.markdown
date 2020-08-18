@@ -50,7 +50,7 @@ After this, we flew straight to Heidelberg Germany and into the flurry of the HO
 
 ## January - The Talk
 
-**Rebecca:** January was a blur of trying to catch up on all the work I’d missed while we’d been writing the proposal, but Tyler and I also set about the task of distilling the HOT journey into a nine minute talk. Then, after absorbing as much as I could from Chris Anderson’s book ‘The official guide to TED public speaking’, I walked up into the hills above my idyllic Cusco home and repeated the talk over and over again to my dog...
+**Rebecca:** January was a blur of trying to catch up on all the work I’d missed while we’d been writing the proposal, but Tyler and I also set about the task of distilling the HOT journey into a nine minute talk. Then, after absorbing as much as I could from Chris Anderson’s book ‘The official guide to TED public speaking’, I walked up into the beautiful hills above my Cusco home and repeated the talk over and over again to my dog...
 
 ![image5-reduced.jpg](/uploads/image5-reduced.jpg)
 
