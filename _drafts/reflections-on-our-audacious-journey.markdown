@@ -10,11 +10,13 @@ Feature Image: "/uploads/image1-41c9fa.jpg"
 
 **Tyler: On Friday, June 8, 2018 I was doing my regular Friday review of funding opportunities. One of the emails I look at every week is the Tech Nonprofit Leaders Weekly from Fast Forward. An opportunity popped out at me**: “*Do you have an ambitious idea for tackling one of the world's biggest problems? [The Audacious Project](https://audaciousproject.org/) has set an audacious goal to fund 7 world changing ideas that are truly bold and truly actionable. Learn more*”.  As is quite usual for us, we put together an application - with an hour to spare before the 11:59pm deadline!
 
+![image8-e2557e.png](/uploads/image8-e2557e.png)
+
 ### August 31, 2018: Rejection
 
 **Tyler:** So, this arrived. For better or worse, we’ve become quite accustomed to this type of email. We let the disappointment sink in for all of about 30 seconds, then moved on with other tasks for the day.
 
-insert photo
+![image4-867904.png](/uploads/image4-867904.png)
 
 ### May 16, 2019: An unexpected surprise
 
@@ -28,13 +30,20 @@ We re-submitted and within a week were invited back for Round 2! I’d like to s
 
 **Rebecca:** We bumbled our way through a nerve-wracking online meeting with Head of TED, Chris Anderson and Executive Director of the Audacious Project Anna Verghese, ending the call with zero idea if they loved or hated our idea.. were their facial expressions interested or bemused!? A few days later, we found out we made it through to the shortlist!
 
+![image7-c5e026.png](/uploads/image7-c5e026.png)
+
+
 ### September 11-13, 2019: Ideation workshop
 
 **Rebecca:** We’re invited to a three day ideation workshop in NYC with the other finalists, and after travelling 4am-midnight the day before to make three flight connections, this day started with a lot of nervous energy! We kicked off with a 1:1 meeting with Chris and Anna, during which it became radically clear to us we hadn’t spent enough time in Excel modelling numbers. Starting on this nervous “we don’t have Silicon Valley pitching experience, what are we meant to do now” note, we dove into the workshop drawing things on whiteboards, erasing them, then drawing again on repeat. We were assigned a team of three “champions” from the Bridgespan Group to support us.
 
 Despite a nervous start, the warmth and kindness of the Audacious Team really shone through, making us feel so much more comfortable by the end of the day. Chris and his wife Jacqueline kindly hosted us at their apartment, and Chris somehow managed to facilitate 25 people to have one single conversation over dinner. During this, we got to learn about the inspirational journeys of our fellow Audacious applicants. I truly felt like I was in the presence of brilliance, but the imposter syndrome really set in: We aren’t founders. How are we “inspirational”? How could we possibly compete? Lying awake in the hotel that night, I realised that was actually our strength in this process: HOT isn’t about any one individual or a single story: HOT is about hundreds of thousands of people coming together to create a different future: the spirit and action of every one of those stories is important. I felt incredibly fortunate to be one of the two people representing HOT in this process, but the pressure was ON to not let the community, or the big vision of what this could be, down…
 
-After this, we flew straight to Heidelberg Germany and into the flurry of the HOT Board meeting > HOT Staff meeting > HOT Summit > State of the Map > Missing Maps Gathering…
+After this, we flew straight to Heidelberg Germany and into the flurry of the HOT Board meeting > HOT Staff meeting > HOT Summit > State of the Map > Missing Maps Gathering...
+
+![image3-ae9958.jpg](/uploads/image3-ae9958.jpg)
+> Tyler & Rebecca during their hour long wedding-style photoshoot on a New York rooftop
+
 
 ### October-December 2019
 
@@ -44,7 +53,13 @@ After this, we flew straight to Heidelberg Germany and into the flurry of the HO
 
 **Rebecca:** January was a blur of trying to catch up on all the work I’d missed while we’d been writing the proposal, but Tyler and I also set about the task of distilling the HOT journey into a nine minute talk. Then, after absorbing as much as I could from Chris Anderson’s book ‘The official guide to TED public speaking’, I walked up into the hills above my idyllic Cusco home and repeated the talk over and over again to my dog...
 
+![image5-e1f94f.jpg](/uploads/image5-e1f94f.jpg)
+
 And then, 26 January 26 rolled around and another Sunday taking that 4am-midnight journey to NYC. I’d recorded the talk on my phone and listened to it on repeat the whole way, repeating the words over and over.. Filming the talk was… intense. I had a horrible cold and took literally every cold medicine I could find in NYC. In the practice filming I don’t think I breathed once for the whole nine minutes. I spilled bright purple juice all over my top one minute before filming and had to borrow clothes from our wonderful TED Curator Helen. But then the moment came, the nervous laughs were over, and I walked onto the red dot, and somehow it all just tumbled out…
+
+![image2-408186.png](/uploads/image2-408186.png)
+> Practising the talk online with our TED Curator Helen Walters
+
 
 ### Sunday 16th February: the donor retreat
 
@@ -59,6 +74,8 @@ At 5:37pm we received a WhatsApp message: *“Rebecca and Tyler – both of you 
 **Rebecca:** From the moment I heard “On behalf of…” everything was in slow motion… we couldn’t hold back the tears in our thank yous, and then suddenly two minutes later it was over… what a shock! What do you do when you get news like this and you’re literally sitting alone in your house???
 
 After a few hours on a slightly manic FaceTime with Tyler, we settled down, and woke up the next morning to a beautiful message from Nidhi Sahni who worked so closely with us through the journey...
+
+![image6-2fd8d3.png](/uploads/image6-2fd8d3.png)
 
 … at a lot of times over the past few months, I wasn’t sure if we’d ever get through the rain!
 
