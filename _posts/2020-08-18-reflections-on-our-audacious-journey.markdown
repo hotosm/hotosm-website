@@ -4,6 +4,11 @@ date: 2020-08-18 00:40:00 Z
 Summary Text: "“Do you have an ambitious idea for tackling one of the world’s biggest
   problems?”"
 Feature Image: "/uploads/image1-41c9fa.jpg"
+Person:
+- Rebecca Firth
+- Tyler Radford
+Project:
+- Audacious Project
 ---
 
 ## June 8, 2018: The application
