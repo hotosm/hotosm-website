@@ -39,7 +39,7 @@ We re-submitted and within a week were invited back for Round 2! I’d like to s
 
 ## September 11-13, 2019: Ideation workshop
 
-**Rebecca:** We’re invited to a three day ideation workshop in NYC with the other finalists, and after travelling 4am-midnight the day before to make three flight connections, this day started with a lot of nervous energy! We kicked off with a 1:1 meeting with Chris and Anna, during which it became radically clear to us we hadn’t spent enough time in Excel modelling numbers. Starting on this nervous “we don’t have Silicon Valley pitching experience, what are we meant to do now” note, we dove into the workshop drawing things on whiteboards, erasing them, then drawing again on repeat. We were assigned a team of three “champions” from the Bridgespan Group to support us.
+**Rebecca:** We’re invited to a three day ideation workshop in NYC with the other finalists, and after travelling 4am-midnight the day before to make three flight connections, this day started with a lot of nervous energy! We kicked off with a 1:1 meeting with Chris and Anna, during which it became radically clear to us we hadn’t spent enough time in Excel modelling numbers. Starting on this nervous “we don’t have Silicon Valley pitching experience, what are we meant to do now” note, we dove into the workshop drawing things on whiteboards, erasing them, then drawing again on repeat. 
 
 Despite a nervous start, the warmth and kindness of the Audacious Team really shone through, making us feel so much more comfortable by the end of the day. Chris and his wife Jacqueline kindly hosted us at their apartment, and Chris somehow managed to facilitate 25 people to have one single conversation over dinner. During this, we got to learn about the inspirational journeys of our fellow Audacious applicants. I truly felt like I was in the presence of brilliance, but the imposter syndrome really set in: We aren’t founders. How are we “inspirational”? How could we possibly compete? Lying awake in the hotel that night, I realised that was actually our strength in this process: HOT isn’t about any one individual or a single story: HOT is about hundreds of thousands of people coming together to create a different future: the spirit and action of every one of those stories is important. I felt incredibly fortunate to be one of the two people representing HOT in this process, but the pressure was ON to not let the community, or the big vision of what this could be, down…
 
@@ -51,7 +51,7 @@ After this, we flew straight to Heidelberg Germany and into the flurry of the HO
 
 ## October-December 2019
 
-**Rebecca:** Then the real hard work set in. Two months to prepare a detailed proposal and meet with potential donors. So many days spent in Excel. So much time spent writing and rewriting. So many hours spent on the phone with Tyler. So many hard questions to answer. That said, for me, this is the unique part about the Audacious Project: they fund big ideas that have their head in the skies but their feet on the ground. It’s tantalizing to talk about “dreams” and “vision”, but we can’t forget all the collective hard work and time spent in the trenches to make sure it all adds up… All through this our Bridgespan champions stood out as our cheerleaders, dipping into our Google Docs at all hours of the day, messaging with us at 9pm on a Friday, and just all round having our backs… 16 December rolled around and we hit send on our proposal, feeling hopeful but also terrified.
+**Rebecca:** Then the real hard work set in. Two months to prepare a detailed proposal and meet with potential donors. So many days spent in Excel. So much time spent writing and rewriting. So many hours spent on the phone with Tyler. So many hard questions to answer. That said, for me, this is the unique part about the Audacious Project: they fund big ideas that have their head in the skies but their feet on the ground. It’s tantalizing to talk about “dreams” and “vision”, but we can’t forget all the collective hard work and time spent in the trenches to make sure it all adds up…  16 December rolled around and we hit send on our proposal, feeling hopeful but also terrified.
 
 ## January - The Talk
 
@@ -72,11 +72,7 @@ And then, 26 January 26 rolled around and another Sunday taking that 4am-midnigh
 When we received the call, they were sitting in chairs outdoors arranged in a semi-circle. After brief introductions, the questions streamed in. Concrete use cases and examples. Stories of how HOT and OpenStreetMap changed lives. Questions on how we would actually execute. How could we do Microgrants in some of the world’s most challenging contexts. Sixty minutes later, it was done. We hung up. And waited…
 
 **Rebecca:**
-After a few hours on a slightly manic FaceTime with Tyler, we settled down, and woke up the next morning to a beautiful message from Nidhi Sahni who worked so closely with us through the journey...
-
-![image6-2fd8d3.png](/uploads/image6-2fd8d3.png)
-
-… at a lot of times over the past few months, I wasn’t sure if we’d ever get through the rain!
+After a few hours on a slightly manic FaceTime with Tyler, we settled down. A lot of times over the past few months, I wasn’t sure if we’d ever get through it!
 
 **Tyler:** By manic, Rebecca means pacing back and forth in our respective houses for about three hours, making late night phone calls to our senior management team and Board President in Europe, and barely containing the excitement!
 
