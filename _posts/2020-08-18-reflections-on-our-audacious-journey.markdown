@@ -71,6 +71,8 @@ And then, 26 January 26 rolled around and another Sunday taking that 4am-midnigh
 
 When we received the call, they were sitting in chairs outdoors arranged in a semi-circle. After brief introductions, the questions streamed in. Concrete use cases and examples. Stories of how HOT and OpenStreetMap changed lives. Questions on how we would actually execute. How could we do Microgrants in some of the world’s most challenging contexts. Sixty minutes later, it was done. We hung up. And waited…
 
+Later that evening we dialed back into the conference line and we waited, making nervous conversation between ourselves, unsure if anyone was actually listening… finally one of the donors got on the line and announced: “On behalf of all the donors and myself, we are committing to a 5-year investment in your Audacious vision…”
+
 **Rebecca:**
 After a few hours on a slightly manic FaceTime with Tyler, we settled down. A lot of times over the past few months, I wasn’t sure if we’d ever get through it!
 
