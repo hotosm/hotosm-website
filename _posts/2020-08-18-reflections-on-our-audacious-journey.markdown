@@ -66,7 +66,10 @@ And then, 26 January 26 rolled around and another Sunday taking that 4am-midnigh
 > Practising the talk online with our TED Curator Helen Walters
 
 ## February: hearing from the donors
-**Tyler:** One of the things that makes the Audacious Project rare is that donors come together to make investment decisions on the spot. As HOT’s ED, I felt especially responsible for the outcome on behalf of our entire organization and community. After quite some back and forth supporting responses to donor questions, we waited on a conference line to speak with the donors, and a colleague announced: “On behalf of all the donors and myself, we are committing to a 5 year investment in your Audacious vision…”
+
+**Tyler:** One of the things that makes the Audacious Project rare is that donors come together to make investment decisions collaboratively. After watching the TED talk and going through our proposal they would call us to talk about our idea. In advance of this call, Rebecca and I received instructions: Be sitting together (which wasn’t possible given Rebecca was in Cusco, Peru and I was in NYC). Have flawless internet connectivity. Be available at any time to receive a call. Needless to say, it was quite an unusual and high-pressure situation. As HOT’s ED, I felt especially responsible for the outcome on behalf of our entire organization and community.
+
+When we received the call, they were sitting in chairs outdoors arranged in a semi-circle. After brief introductions, the questions streamed in. Concrete use cases and examples. Stories of how HOT and OpenStreetMap changed lives. Questions on how we would actually execute. How could we do Microgrants in some of the world’s most challenging contexts. Sixty minutes later, it was done. We hung up. And waited…
 
 **Rebecca:**
 After a few hours on a slightly manic FaceTime with Tyler, we settled down, and woke up the next morning to a beautiful message from Nidhi Sahni who worked so closely with us through the journey...
