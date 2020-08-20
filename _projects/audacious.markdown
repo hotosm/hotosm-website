@@ -21,7 +21,7 @@ HOT will continue to develop crisis response capacity and expertise and this inv
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
-<div style="position:left">**Over five years, we plan to:**</div>
+**Over five years, we plan to:**
 
 * Set up a network of regional hubs in South Asia, East Africa, West Africa, and Latin America and the Caribbean, which will engage with local mapping communities, facilitate knowledge exchanges, distribute funding, and provide training and support in order to massively scale local edits to OpenStreetMap in 94 countries
 
