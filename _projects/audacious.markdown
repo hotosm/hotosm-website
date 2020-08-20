@@ -19,8 +19,7 @@ HOT will continue to develop crisis response capacity and expertise and this inv
 
 <div style="max-width:854px"><div style="position:relative;width:600px;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/rebecca_firth_how_you_can_help_map_the_world_s_most_vulnerable_places" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
-
-</br>
+<div>   </div>
 **Over five years, we plan to:**
 
 * Set up a network of regional hubs in South Asia, East Africa, West Africa, and Latin America and the Caribbean, which will engage with local mapping communities, facilitate knowledge exchanges, distribute funding, and provide training and support in order to massively scale local edits to OpenStreetMap in 94 countries
