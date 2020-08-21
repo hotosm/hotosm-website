@@ -30,9 +30,7 @@ Successful projects will:
 * demonstrate collaboration with a local data user.
 * include a logical project plan, budget breakdown, and gender strategy.
 
-We have a rolling selection process, and submissions will be reviewed monthly. We will be selecting one to two projects each month and applications will be considered as they are received. Applicants are encouraged to submit early. 
-
-The rolling deadline will be the 30th day of each month (i.e. applications for July will close on the 30th July 2020, for August on the 30th August 2020, and so on).  
+Applications will close on Sunday 30th August 2020.
 
 Projects do not need to be currently affiliated with HOT, but they must broadly contribute to the HOT mission of contributing to open map data for humanitarian response and socio-economic development.
  
