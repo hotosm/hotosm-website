@@ -14,4 +14,4 @@ In 2016 I attended my first conferences, the HOT Summit and SotM in Brussels and
 \
 What is the gist of my story? If you are new to all this then don't worry if not everything works according to plan. Errors are meant to teach you how to improve. After a while you will. And with some experience please find ways how to help others with less experience. Get involved with working groups and help to sustain the success of HOT over the next ten years.
 
-Michael Heißmeier, August 2020
+[Michael Heißmeier,](https://www.hotosm.org/people/michael-heimeier/) August 2020
