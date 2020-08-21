@@ -30,7 +30,7 @@ Successful projects will:
 * demonstrate collaboration with a local data user.
 * include a logical project plan, budget breakdown, and gender strategy.
 
-Applications will close on Sunday 30th August 2020.
+**Applications will close on Sunday 30th August 2020.**
 
 Projects do not need to be currently affiliated with HOT, but they must broadly contribute to the HOT mission of contributing to open map data for humanitarian response and socio-economic development.
  
