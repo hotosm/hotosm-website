@@ -23,7 +23,7 @@ Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of 
 
 ## Responsibilities 
 * Develop and implement HOT’s online community engagement strategy defining the approach, communication channels, and responsibilities of HOT staff members, partners, and volunteers to the OpenStreetMap community. This activity will be done with the goal of ensuring that the HOT global community is engaged with HOT’s work, and support existing and new HOT community members to contribute successfully.
-* Develop and measure metrics to understand Community Growth and Evolution; attracting and retaining mappers to help grow the HOT community to one million mappers by 2025: https://www.hotosm.org/projects/audacious/ 
+* Develop and measure metrics to understand Community Growth and Evolution; attracting and retaining mappers to help grow the HOT community to one million mappers by 2025 (learn more [here](https://www.hotosm.org/projects/audacious/)).
 * Ensure that HOT contributes to OpenStreetMap responsibly, and that HOT staff members are informed about development in the OSM community.
 * Lead strategy to revitalise HOT Working Groups to adapt to HOT’s global community presence and desires. Manage any outputs of this strategy.
 * Engage HOT team to provide meaningful contributions to OSM for example through engaging in Working Groups, and providing support to key OSM activities as appropriate such as providing functional support for State of the Map.
