@@ -2,7 +2,7 @@
 title: 'Covid-19 Pandemic in Peru: Mapping Health Implications'
 date: 2020-08-24 12:27:00 Z
 Feature Image: "/uploads/Cusco%20Worker.jpg"
-Person: 'Rebecca Firth '
+Person: Rebecca Firth
 Country:
 - Peru
 Project:
