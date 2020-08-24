@@ -48,12 +48,12 @@ Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of 
 * Experience participating in movements
 * Experience facilitating community management in open source communities, engaging contributors, and ensuring sustainability amongst contributors
 * Engagement and people skills:
-* * You should be the kind of person people want to come to with questions, or issues
-* * Extremely strong written communication skills and ability to communicate ideas and concepts digitally
-* * Demonstrated experience handling conflict situations, negotiation, and encouraging collaboration, compromise and shared solutions
-* * Good at building consensus
-* * Tactful
-* * Resilient
+    * You should be the kind of person people want to come to with questions, or issues
+    * Extremely strong written communication skills and ability to communicate ideas and concepts digitally
+    * Demonstrated experience handling conflict situations, negotiation, and encouraging collaboration, compromise and shared solutions
+    * Good at building consensus
+    * Tactful
+    * Resilient
 * Fluency in English
 * Empathy and understanding
 * A good sense of humour and willingness to learn
