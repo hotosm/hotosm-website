@@ -53,6 +53,8 @@ Since 2015, [HOT](https://www.hotosm.org/) has run country programs in eight cou
 
 [Open Cities Africa](https://opencitiesproject.org/) is a World Bank project that promotes collaborative mapping to build resilient societies in 16 cities in 13 countries in Africa. This project collects data, and builds skills and networks to support disaster risk management in Africa and makes the much needed connection for OSM communities and governments to collaborate on projects.
 
+![GK6.png](/uploads/GK6.png)
+
 ### Definition of Membership
 
 Over the years, the different OSM communities have been growing their membership and it is interesting to see how they define their membership, which is different from country to country.
