@@ -1,6 +1,9 @@
 ---
 title: 'Covid-19 Pandemic in Peru: Mapping Health Implications'
 date: 2020-08-24 12:27:00 Z
+Summary Text: As Peru struggles with the impact of Covid-19, HOT and GAL Group are
+  helping public health officials at all levels of government plan how to support
+  communities by mapping rural and vulnerable populations in the Cusco region.
 Feature Image: "/uploads/Cusco%20Worker.jpg"
 Person: Rebecca Firth
 Country:
