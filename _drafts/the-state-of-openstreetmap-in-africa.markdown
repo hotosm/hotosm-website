@@ -11,10 +11,11 @@ OSM Africa is a network of OpenStreetMap communities from all over Africa workin
 
 The brightest spots on the [map above](https://tyrasd.github.io/osm-node-density/#4/3.03/-0.70/latest,places) illustrate substantial amounts of OpenStreetMap node density in different places in Africa.
 
-This visualization shows the total number of mapped buildings per year in each country from 2007 to 2020. Which also shows the history and journey of OpenStreetMap editing in Africa.
+This [visualization](https://public.flourish.studio/visualisation/2648157/) shows the total number of mapped buildings per year in each country from 2007 to 2020. It also shows the history and journey of OpenStreetMap editing in Africa.
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/2648157" data-url="https://flo.uri.sh/visualisation/2648157/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+By June 2020, there was a total of 57,766,001 mapped buildings in Africa, with Tanzania leading at 11 million, thanks to the work done there by the Humanitarian OpenStreetMap Team (HOT), the World Bank through Ramani Huria and Crowd2Map Tanzania.
 
 
  
