@@ -1,5 +1,5 @@
 ---
-title: YMCA Gambia - Mapping Local Ecotourism
+title: Jokkolabs Banjul (formerly YMCA Gambia) - Mapping Local Ecotourism
 date: 2019-05-02 09:45:00 Z
 position: 27
 Project Summary Text: Engaging youth to map ecotourism sites in the West Coast Region
@@ -13,7 +13,7 @@ Impact Area:
 
 **2019 Microgrant**  
 
-The Gambia YMCA’s Computer Training Centre and Digital Studio will work with the Gambia Tourism Board and the National Environmental Agency to identify ecotourism areas and capture the current state of vegetation and wildlife to stimulate The Gambia’s tourism industry and assist in planning efforts focused on environmental conservation and preservation.
+Jokkolabs Banjul, formerly the Gambia YMCA’s Computer Training Centre and Digital Studio, will work with the Gambia Tourism Board and the National Environmental Agency to identify ecotourism areas and capture the current state of vegetation and wildlife to stimulate The Gambia’s tourism industry and assist in planning efforts focused on environmental conservation and preservation.
 
 
 **About the community**  
