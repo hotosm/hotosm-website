@@ -4,7 +4,7 @@ date: 2020-06-27 21:13:00 Z
 Summary Text: HOT has opened the application period for Facebook Community Impact
   Microgrants, with a special focus on projects that engage women and girls in mapping.
   Apply today!
-Feature Image: "/uploads/Community%20Impact%20MGs_v2.png"
+Feature Image: "/uploads/fb_community_impact_mgs_v1_720.png"
 Person:
 - Rebecca Firth
 - Geoffrey Kateregga
@@ -52,7 +52,7 @@ We will be hosting a ‘Creating a Great Video Pitch’ webinar on **Monday, Jul
 
 [Sign up to the webinar here.](https://www.eventbrite.com/e/creating-a-great-video-pitch-tickets-110969954120)
 
-[Applications are now open - APPLY NOW!](https://docs.google.com/forms/d/1Wc3jPdggGhzCua5_37w6oQGBT2caCqUSe3d1s0bFsQE/edit?usp=sharing)
+Update: Applications are now closed.
 
 **Please note that HOT staff members and board members are not eligible to apply.**
 
