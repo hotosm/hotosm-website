@@ -52,7 +52,7 @@ We will be hosting a ‘Creating a Great Video Pitch’ webinar on **Monday, Jul
 
 [Sign up to the webinar here.](https://www.eventbrite.com/e/creating-a-great-video-pitch-tickets-110969954120)
 
-Update: Applications are now closed.
+**Update: Applications are now closed.**
 
 **Please note that HOT staff members and board members are not eligible to apply.**
 
