@@ -1,0 +1,61 @@
+---
+title: GSoC 20 - Automatized support for Organised Editing Guidelines
+date: 2020-08-31 12:30:00 Z
+Summary Text: Here is the resume from the GSoC' 20 project that adds
+  automatized support for Organised Editing Guidelines in
+  Tasking Manager.
+Feature Image: "/uploads/gsoc-20-architecture.jpg"
+Person:
+- Wille Marcel
+---
+
+
+# GSoC 20 - Automatized support for Organised Editing Guidelines
+
+## The problem
+&nbsp;&nbsp;&nbsp;&nbsp;The OpenStreetMap (OSM) project has established formal [Organised Editing Guidelines](https://wiki.osmfoundation.org/wiki/Organised_Editing_Guidelines), which require all groups and organized activities of mapping on OpenStreetMap to report transparently how they organize and what they are mapping on.
+&nbsp;&nbsp;&nbsp;&nbsp;The Tasking Manager is the most used application in the OSM ecosystem for volunteers, but also professionals, to team up and coordinate mapping. In order to ease up the user experience of fulfilling the guidelines for organized editing, the goal of my project this summer is to make the process of reporting back data for OpenStreetMap automatically.
+
+## Project solutions
+
+&nbsp;&nbsp;&nbsp;&nbsp;In the first step, we started with an analysis of contents and fields that are required or suggested by the organized editing guidelines, then we check whether these are already available in the Tasking Manager, or not.
+&nbsp;&nbsp;&nbsp;&nbsp;Then we implemented a small proof of concept for testing out how the communication between [Tasking Manager](https://tasks.hotosm.org/) and OSM Community should occur. Although the OSM’s organized editing guidelines suggest the project wiki for reporting of organized mapping activities, we wanted to include two technical ideas for this initial test:
+- Report data directly to the [OSM wiki](https://wiki.openstreetmap.org/wiki/Main_Page)
+- Store files in a human-readable format in a git repository (GitHub, Gitlab, etc)
+
+## Validating ideas
+&nbsp;&nbsp;&nbsp;&nbsp;We participated in the [State of the Map 2020](https://2020.stateofthemap.org/) conference as a self-organized session in order to validate the project solutions initially thought and receive more feedback from the community.
+&nbsp;&nbsp;&nbsp;&nbsp;We received some suggestions on the initial ideas, mainly for reporting data to the wiki directly instead of reporting to a git repository. After discussing internally, we reached a consensus that it would be better to use both solutions, instead of just one as thought at the beginning of the project. Comming to this architecture and also, a cool name to the project - [OEG Reporter](https://github.com/hotosm/oeg-reporter). <img src="https://user-images.githubusercontent.com/18130942/91627404-7ae96c80-e98d-11ea-98a7-999c754cd19f.png" />
+
+
+## Implementing
+&nbsp;&nbsp;&nbsp;&nbsp;After defining with the community the solutions to be used, we implemented the data report for a git repository and an instance of MediaWiki (the system used by the [OSM wiki](https://wiki.openstreetmap.org/wiki/Main_Page)) in a flask API, mainly using libraries to format data according to the format used by the [OSM wiki](https://wiki.openstreetmap.org/wiki/Main_Page) (wikitextparser) and upload and update files in a git repository (gitpython).
+&nbsp;&nbsp;&nbsp;&nbsp;The most challenging part of the project's development was definitely to implement data reporting for the wiki, due to the file format used by the [OSM wiki](https://wiki.openstreetmap.org/wiki/Main_Page) having a slightly more complex syntax, but after a few weeks of study this was possible. [OEG reporter](https://github.com/hotosm/oeg-reporter) integration with Tasking Manager can be seen in the next images.<br>
+* User select if the organisation is going to enable the automated OEG Report
+<img src="https://user-images.githubusercontent.com/18130942/91626855-f85eae00-e988-11ea-845d-b73c6cfb8cd3.png" width="341" height="293"/>
+
+***
+
+* Project manager saves the project normally
+<img src="https://user-images.githubusercontent.com/18130942/91626817-b7ff3000-e988-11ea-83e9-c6d699cac04a.png" width="733" height="323"/>
+
+***
+
+* Project data is reported to a git repository
+<img src="https://user-images.githubusercontent.com/18130942/91627071-06adc980-e98b-11ea-9521-ef77e55f29b4.png" width="724" height="528"/>
+
+***
+
+* Project data is reported to a Mediawiki instance into three different pages
+    * Activities list - Contains all Organised Editing activities list 
+<img src="https://user-images.githubusercontent.com/18130942/91627151-b7b46400-e98b-11ea-8cfb-1790d4cb97a3.png"/>
+<br>
+    * Organisation page - Contain data from an organisation with a list of all its projects
+<img src="https://user-images.githubusercontent.com/18130942/91627175-f34f2e00-e98b-11ea-8e32-74b8c1867eca.png"/>
+<br>
+    * Project page - Contain data from a project
+<img src="https://user-images.githubusercontent.com/18130942/91627175-f34f2e00-e98b-11ea-8e32-74b8c1867eca.png"/>
+
+## Final Word
+&nbsp;&nbsp;&nbsp;&nbsp;I would like to thank the HOT tech team for all their help and the opportunity to work with them all this summer, it was one of the best experiences of my professional and personal life to have the chance to work with so many people from different cultures and places, even more with the ultimate goal of helping people in need.
+
