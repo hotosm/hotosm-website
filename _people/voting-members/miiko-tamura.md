@@ -1,6 +1,7 @@
 ---
 title: Mikko Tamura
 date: 2020-05-20 17:00:00 Z
+Photo: "/uploads/profiel.jpg"
 Member Type:
   Is Voting Member: true
 Social Media (Full URL):
