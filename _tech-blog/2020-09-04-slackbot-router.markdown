@@ -1,19 +1,17 @@
 ---
-title: Slackbot-router
+title: 'Introducing the Slackbot Router: Bringing HOT tools right in our Slack channel'
 date: 2020-09-04 13:00:00 Z
-Summary Text: 'Introducing the Slackbot Router: Bringing HOT tools right in our Slack
-  channel'
-Feature Image: 
+Summary Text: As part of the 2020 Outreachy summer program, we developed a Slackbot
+  Router project that utilises slash commands to deliver information on different
+  HOT tools to the user. This allows the community to more efficiently access and
+  share data between members and increase productivity.
 Person:
 - Andria Hibe
 ---
 
-[Outreachy](https://www.outreachy.org/) is a programme that provides people from underrepresented communities the opportunity to engage in three-month internship programmes to work on free and [open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) projects. These projects may involve working with user experience, programming, documentation, and even design. The Humanitarian OpenStreetMap Team (HOT) has been a long-time supporter of Outreachy and have mentored numerous interns from the programme.
-
-As part of the 2020 summer round of Outreachy which ran from May-August 2020, HOT accepted three interns who will be working on three different projects. One of these is the Slackbot Router Project which aims to add functionality to HOT’s Slack workspace by creating a Slackbot that utilises slash commands to deliver information on different HOT tools to the user. This allows the community to more efficiently access and share data between members and increase productivity.
-
 ## Planning the Slackbot Router
-As the Slackbot Router is a greenfield project, we had the opportunity to carefully plan its architecture before starting.
+
+Slackbot Router is a greenfield project, so we had the opportunity to carefully plan its architecture before starting.
 
 Mainly, we had to plan the project around four (4) considerations:
 
@@ -37,27 +35,27 @@ For a full explanation of how the application handles and routes events, [visit 
 
 ## How to use the Slackbot Router
 
-To use the Slackbot Router slash commands, write `/name-of-command` in the message field of any Slack channel or direct message. Some commands might require you to input in additional data such as a project ID or username. When in doubt, you can use the command `/command-help` to see a list of all active slash commands and a short description of each. For some commands, you can also type `/name-of-command help` to see more detailed instructions on how to use them.
+To use the Slackbot Router slash commands, write */name-of-command* in the message field of any Slack channel or direct message. Some commands might require you to input in additional data such as a project ID or username. When in doubt, you can use the command */command-help* to see a list of all active slash commands and a short description of each. For some commands, you can also type */name-of-command help* to see more detailed instructions on how to use them.
 
 The Slackbot Router currently has the following slash commands:
 
-+ `/health-tm` - Checks the status of the Tasking Manager and returns its current status and other statistics.
+* _**/health-tm**_ - Checks the status of the Tasking Manager and returns its current status and other statistics.
 ![health-tm](https://user-images.githubusercontent.com/54427598/87404675-8f0e2000-c612-11ea-920e-cd3b7292dcca.png)
 
 
-+ `/health-leaderboard` - Allows users to know if the Missing Maps leaderboard is up-to-date and if not, the amount of time it is delayed.
++ _**/health-leaderboard**_ - Allows users to know if the Missing Maps leaderboard is up-to-date and if not, the amount of time it is delayed.
 ![health-leaderboard](https://user-images.githubusercontent.com/54427598/87404630-80276d80-c612-11ea-8316-02ca8a1b5101.png)
 
 
-+ `/osmcha-stats` - Allows users to filter changesets based on project ID or hashtag(s) and returns stats on the changesets including the number of suspicious changesets and a list of flags.
++ _**/osmcha-stats**_ - Allows users to filter changesets based on project ID or hashtag(s) and returns stats on the changesets including the number of suspicious changesets and a list of flags.
 ![osmcha-stats-project](https://user-images.githubusercontent.com/54427598/87515724-5cc2f800-c6d0-11ea-9c7b-0fe29049838b.png)
 
 
-+ `/tm-stats` - Returns information on the Tasking Manager, projects, or users depending on parameters used.
++ _**/tm-stats**_ - Returns information on the Tasking Manager, projects, or users depending on parameters used.
 ![tm-stats-project](https://user-images.githubusercontent.com/54427598/87519968-6fd8c680-c6d6-11ea-9040-8dff25378523.png)
 
 
-+ `/command-help` - Returns a list, including a short description, of all Slack slash commands that users can use.
++ _**/command-help**_ - Returns a list, including a short description, of all Slack slash commands that users can use.
 ![command-help](https://user-images.githubusercontent.com/54427598/90256846-6c358c80-de9a-11ea-88e6-92f348f88b41.png)
 
 You can see more use cases for each command in the docs.
