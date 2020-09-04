@@ -1,8 +1,8 @@
 ---
 title: Slackbot-router
-date: 2020-09-04
- 13:00:00 Z
-Summary Text: 'Introducing the Slackbot Router: Bringing HOT tools right in our Slack channel'
+date: 2020-09-04 13:00:00 Z
+Summary Text: 'Introducing the Slackbot Router: Bringing HOT tools right in our Slack
+  channel'
 Feature Image: 
 Person:
 - Andria Hibe
