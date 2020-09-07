@@ -39,7 +39,7 @@ For the countries where there are existing OSM communities, we look at some of t
 
 ### YouthMappers in Africa
  
-One of the reasons for the growth of OSM communities in Africa is the rise of [YouthMappers](https://www.youthmappers.org/). It started in Africa with the founding of the University of Cape Coast chapter in Ghana in 2016, and there are now 105 YouthMappers chapters in universities across Africa, which is 50% of the total number globally. Nigeria and Tanzania have the most chapters with 17 and 15 respectively.
+One of the reasons for the growth of OSM communities in Africa is the rise of [YouthMappers](https://www.youthmappers.org/). It started its African presence with the founding of the University of Cape Coast chapter in Ghana in 2016, and there are now 105 YouthMappers chapters in universities across Africa, which is 50% of the total number globally. Nigeria and Tanzania have the most chapters with 17 and 15 respectively.
 
 YouthMappers is an international network of university student-led chapters who organize, collaborate, and implement mapping activities that respond to development needs around the globe, creating and using geospatial data and information that is made publicly available through OpenStreetMap.
 
