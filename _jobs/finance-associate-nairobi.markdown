@@ -1,7 +1,6 @@
 ---
 title: Finance Associate - Nairobi
 date: 2020-09-09 19:39:00 Z
-published: false
 Deadline Date: 2020-10-15 00:00:00 Z
 Place of Work: Nairobi, Kenya
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdWKGJijs2e7Tz3tiIHdccBlNd9rxOJtYsHUH46ycLDPR4rqQ/viewform?usp=sf_link
