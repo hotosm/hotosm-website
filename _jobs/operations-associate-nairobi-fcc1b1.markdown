@@ -2,11 +2,12 @@
 title: Operations Associate - Nairobi
 date: 2020-09-10 18:58:00 Z
 published: false
+Deadline Date: 2020-11-01 00:00:00 Z
 Place of Work: Nairobi, Kenya
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf0a2iMtl4CNUeQ0O5am07Cb-g2ZPgBn3bO9MXJYBfwbSQ58w/viewform?usp=sf_link
 ---
 
-**Contract terms:** Full-time (though part time candidates will be considered with availability of 30+ hrs a week)
+**Contract terms:** Full-time (though part-time candidates will be considered with availability of 30+ hrs a week)
 
 **Location/Duty Station:** Nairobi, Kenya 
 
@@ -25,8 +26,8 @@ HOT is looking for someone passionate about, and experienced in, international d
 ## Responsibilities 
 * Lead logistical set-up for physical office space in Nairobi
 * Assist with regional recruitment by supporting the Senior Talent Manager and Global HR Associate in position advertising, scheduling and conducting interviews, and other support as needed 
-* Support the onboarding processes for new hires including training and documentation as well as managing adaptations of global HOT practices for regional context
-* Act as HR liaison between Hub and HQ, working with the Hub Director to keep HQ informed of HR updates and needs
+* Support the onboarding processes for new hires, including training and documentation as well as managing adaptations of global HOT practices for regional context
+* Act as HR liaison between the East Africa Hub and HQ, working with the Hub Director to keep HQ informed of HR-related updates and needs
 * Lead asset management system for Hub, including entry, maintenance, audit and training of other staff
 * Support analysis and development of processes for Operations, and adaptation for Hub regional office
 * Lead new vendor identification, procurement and onboarding 
