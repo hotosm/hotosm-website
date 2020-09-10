@@ -1,7 +1,7 @@
 ---
 title: Regional Hub Director - Manila
 date: 2020-06-26 14:41:00 Z
-Deadline Date: 2020-08-07 00:00:00 Z
+Deadline Date: 2020-08-24 00:00:00 Z
 Place of Work: Manila, Philippines
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd0CEKB2bWiXE_2Ui93KTXpJWwBTwlQDnHTwVojTMkel8mSKA/viewform?usp=sf_link
 ---
@@ -10,9 +10,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd0CEKB2bWiXE_2Ui93KTX
 
 **Location/Duty Station:** Manila (Asia/Pacific Regional Hub)
 
-**Closes:** 7 August 2020
-
-**Projected start date:** 1 September 2020
+**Closes:** 24 August 2020
 
 **Travel:** Within region up to 40%; with occasional travel outside region
 
@@ -70,4 +68,4 @@ The Regional Hub Director serves as HOT’s most senior representative in each o
 
 ## To Apply
 
-Please complete the [linked form](https://docs.google.com/forms/d/e/1FAIpQLSd0CEKB2bWiXE_2Ui93KTXpJWwBTwlQDnHTwVojTMkel8mSKA/viewform?usp=sf_link) by August 7, 2020. Continue to the second page to upload your CV/resume. Your CV/resume should not exceed 2 pages.
+Please complete the [linked form](https://docs.google.com/forms/d/e/1FAIpQLSd0CEKB2bWiXE_2Ui93KTXpJWwBTwlQDnHTwVojTMkel8mSKA/viewform?usp=sf_link) by August 24, 2020. Continue to the second page to upload your CV/resume. Your CV/resume should not exceed 2 pages.

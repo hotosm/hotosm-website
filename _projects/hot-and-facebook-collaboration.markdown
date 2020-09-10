@@ -18,8 +18,8 @@ Person:
 Partner:
 - Facebook
 Duration:
-  Start Date: 2018-11-01 00:00:00 Z
-  End Date: 2020-05-31 00:00:00 Z
+  Start Date: 2017-11-01 00:00:00 Z
+  End Date: 2021-05-31 00:00:00 Z
 Tools:
 - title: Tasking Manager
 ---

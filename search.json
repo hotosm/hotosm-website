@@ -25,6 +25,16 @@ layout:
 "country":"{{ project.country | join: ', ' }}"
 },
 {% endfor %}
+{% for post in site.annual-reports reversed %}
+{
+"type":"Annual Reports",
+"title":"{{ post.title | escape }}",
+"summary":"{{ post.content | strip_html | escape | truncatewords: 40 | strip | remove: "\" | prepend: ' ' }}",
+"subtitle":" ",
+"url":"{{ site.url }}{{ post.url }}",
+"date":"{{ post.date }}"
+}, 
+{% endfor %}
 {% for post in site.posts %}
 {
 "type":"News",

@@ -17,6 +17,10 @@ Duration:
 
 HOT will continue to develop crisis response capacity and expertise and this investment from Audacious donors will enable HOT’s work to be more proactive, mapping with communities before they are in crisis. Maps and geodata are most useful if they can be used by responders before disaster strikes, such as when planning a response based on a hurricane forecast or in the early stages of an outbreak.
 
+<div style="max-width:854px"><div style="position:relative;width:600px;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/rebecca_firth_how_you_can_help_map_the_world_s_most_vulnerable_places" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 **Over five years, we plan to:**
 
 * Set up a network of regional hubs in South Asia, East Africa, West Africa, and Latin America and the Caribbean, which will engage with local mapping communities, facilitate knowledge exchanges, distribute funding, and provide training and support in order to massively scale local edits to OpenStreetMap in 94 countries

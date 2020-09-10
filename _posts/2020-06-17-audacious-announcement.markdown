@@ -22,6 +22,8 @@ Project:
 
 The funding recognizes the essential work that HOT and [OpenStreetMap](https://www.openstreetmap.org) communities have been doing for years, adding one village, one road, one hospital at a time to OpenStreetMap, in order to build OpenStreetMap into the “go to” map in parts of the world that other maps don’t reach.
 
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/rebecca_firth_how_you_can_help_map_the_world_s_most_vulnerable_places" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
 Over the next five years, this funding will enable HOT to scale up its support to local mapping communities with the aim of mapping an area home to one billion people, adding places at high risk of natural disaster or experiencing poverty. Traditionally, visibility on a map was based on a community’s economic worth or status. Until recently, the majority of mapping companies continued this trend, primarily driven by advertising and data sales. We will correct this data injustice by making sure that everyone has access to the tools and knowledge to contribute to the only free and open map of the world: OpenStreetMap.
 
 **Why were we selected?**
