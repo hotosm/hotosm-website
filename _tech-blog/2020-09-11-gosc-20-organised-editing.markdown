@@ -1,7 +1,7 @@
 ---
 title: GSoC 20 - Automatized support for Organised Editing Guidelines
 date: 2020-09-11 12:30:00 Z
-published: false
+published: true
 Summary Text: Here is a summary from the GSoC' 20 project that adds automatized support
   for Organised Editing Guidelines in Tasking Manager.
 Feature Image: "/uploads/gsoc-20-feature-image.jpg"
@@ -19,7 +19,7 @@ The [Tasking Manager](http://tasks.hotosm.org/) is the most used application in 
 
 To improve the documentation of organised editing for Tasking Manager projects, we thought that automatically reporting project data from Tasking Manager to the OSM could be a good solution. After that, we started with an analysis of contents and fields that are required or suggested by the organized editing guidelines, then we ran a check on whether these are already available in the Tasking Manager, or not.
 
-Then we implemented a small proof of concept for testing out how the communication between [Tasking Manager](https://tasks.hotosm.org/) and OSM Community should occur. Although the OSM’s organized editing guidelines suggest the project wiki for reporting of organized mapping activities, we wanted to include two technical ideas for this initial test:
+Then we implemented a small proof of concept for testing out how the communication between Tasking Manager and OSM Community should occur. Although the OSM’s organized editing guidelines suggest the project wiki for reporting of organized mapping activities, we wanted to include two technical ideas for this initial test:
 - Report data directly to the [OSM wiki](https://wiki.openstreetmap.org/wiki/Main_Page)
 - Store files in a human-readable format in a git repository (GitHub, Gitlab, etc)
 
@@ -69,7 +69,7 @@ The most challenging part of the project's development was definitely to impleme
 
 ---
 
-### Project data is reported to a Mediawiki instance into three different pages
+### Project data is reported to a Mediawiki instance in three different pages
 
 #### Activities list - Contains all Organised Editing activities list 
 
@@ -89,7 +89,7 @@ The most challenging part of the project's development was definitely to impleme
 
 ---
 
-#### Project page - Contain data from a project
+#### Project page - metadata from a Tasking Manager project
 
 ![](/uploads/gsoc-20-mediawiki-project-page.png)
 
