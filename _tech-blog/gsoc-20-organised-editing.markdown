@@ -2,7 +2,7 @@
 title: GSoC 20 - Automatized support for Organised Editing Guidelines
 date: 2020-09-11 12:30:00 Z
 published: false
-Summary Text: Here is a resume from the GSoC' 20 project that adds automatized support
+Summary Text: Here is a summary from the GSoC' 20 project that adds automatized support
   for Organised Editing Guidelines in Tasking Manager.
 Feature Image: "/uploads/gsoc-20-feature-image.jpg"
 Person:
@@ -11,13 +11,13 @@ Person:
 
 ## The problem
 
-The OpenStreetMap (OSM) project has established formal [Organised Editing Guidelines](https://wiki.osmfoundation.org/wiki/Organised_Editing_Guidelines), which require all groups and organized activities of mapping on OpenStreetMap to report transparently how they organize and what they are mapping on.
+The [OpenStreetMap (OSM)](http://openstreetmap.org/) project has established formal [Organised Editing Guidelines](https://wiki.osmfoundation.org/wiki/Organised_Editing_Guidelines), which require all groups and organized activities of mapping on OSM to report transparently on how they organize and what they are mapping on.
 
-The Tasking Manager is the most used application in the OSM ecosystem for volunteers, but also professionals, to team up and coordinate mapping and due to the large amount of organised editing done through the Tasking Manager, ensuring correct documentation is completed for all projects has become difficult. In order to ease up the user experience of fulfilling the guidelines for organized editing, the goal of my project this summer is to make the process of reporting back data for OpenStreetMap automatically.
+The [Tasking Manager](http://tasks.hotosm.org/) is the most used application in the OSM ecosystem for volunteers & professionals, to team up and coordinate mapping. Due to the large amount of organised editing done through the Tasking Manager, ensuring correct documentation is completed for all projects has become difficult. In order to ease up the user experience of fulfilling the guidelines for organized editing, the goal of my project this summer was to make the process of reporting back data for OSM automatically.
 
 ## Project solutions
 
-To improve the documentation of organised editing for tasking manager projects, we thought that automatically reporting project data from Tasking Manager to the OSM could be a good solution. After that, we started with an analysis of contents and fields that are required or suggested by the organized editing guidelines, then we check whether these are already available in the Tasking Manager, or not.
+To improve the documentation of organised editing for Tasking Manager projects, we thought that automatically reporting project data from Tasking Manager to the OSM could be a good solution. After that, we started with an analysis of contents and fields that are required or suggested by the organized editing guidelines, then we ran a check on whether these are already available in the Tasking Manager, or not.
 
 Then we implemented a small proof of concept for testing out how the communication between [Tasking Manager](https://tasks.hotosm.org/) and OSM Community should occur. Although the OSM’s organized editing guidelines suggest the project wiki for reporting of organized mapping activities, we wanted to include two technical ideas for this initial test:
 - Report data directly to the [OSM wiki](https://wiki.openstreetmap.org/wiki/Main_Page)
@@ -27,7 +27,7 @@ Then we implemented a small proof of concept for testing out how the communicati
 
 We participated in the [State of the Map 2020](https://2020.stateofthemap.org/) conference as a self-organized session in order to validate the project solutions initially thought and receive more feedback from the community.
 
-We received some suggestions on the initial ideas, mainly for reporting data to the wiki directly instead of reporting to a git repository. After discussing internally, we reached a consensus that it would be better to use both solutions, instead of just one as thought at the beginning of the project. Comming to this architecture and also, a cool name to the project - [OEG Reporter](https://github.com/hotosm/oeg-reporter).
+We received some suggestions on the initial ideas, mainly for reporting data to the wiki directly instead of reporting to a git repository. After discussing internally, we reached a consensus that it would be better to use both solutions, instead of just one as thought at the beginning of the project. Coming to this architecture and also, a cool name to the project - [OEG Reporter](https://github.com/hotosm/oeg-reporter).
 
 ![](/uploads/gsoc-20-architecture.jpg)
 
