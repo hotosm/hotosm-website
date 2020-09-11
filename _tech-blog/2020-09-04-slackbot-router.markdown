@@ -40,22 +40,27 @@ To use the Slackbot Router slash commands, write */name-of-command* in the messa
 The Slackbot Router currently has the following slash commands:
 
 * _**/health-tm**_ - Checks the status of the Tasking Manager and returns its current status and other statistics.
+
 ![health-tm](https://user-images.githubusercontent.com/54427598/87404675-8f0e2000-c612-11ea-920e-cd3b7292dcca.png)
 
 
 + _**/health-leaderboard**_ - Allows users to know if the Missing Maps leaderboard is up-to-date and if not, the amount of time it is delayed.
+
 ![health-leaderboard](https://user-images.githubusercontent.com/54427598/87404630-80276d80-c612-11ea-8316-02ca8a1b5101.png)
 
 
 + _**/osmcha-stats**_ - Allows users to filter changesets based on project ID or hashtag(s) and returns stats on the changesets including the number of suspicious changesets and a list of flags.
+
 ![osmcha-stats-project](https://user-images.githubusercontent.com/54427598/87515724-5cc2f800-c6d0-11ea-9c7b-0fe29049838b.png)
 
 
 + _**/tm-stats**_ - Returns information on the Tasking Manager, projects, or users depending on parameters used.
+
 ![tm-stats-project](https://user-images.githubusercontent.com/54427598/87519968-6fd8c680-c6d6-11ea-9040-8dff25378523.png)
 
 
 + _**/command-help**_ - Returns a list, including a short description, of all Slack slash commands that users can use.
+
 ![command-help](https://user-images.githubusercontent.com/54427598/90256846-6c358c80-de9a-11ea-88e6-92f348f88b41.png)
 
 You can see more use cases for each command in the docs.
