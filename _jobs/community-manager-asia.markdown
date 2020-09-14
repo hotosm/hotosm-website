@@ -1,7 +1,6 @@
 ---
 title: Community Manager - Asia
 date: 2020-09-14 14:13:00 Z
-published: false
 Deadline Date: 2020-10-05 00:00:00 Z
 Place of Work: Manila, Philippines
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdu0L7Ckee7521SycUDWVNUD9asSG4UDA376ZR2Vm0eW9nkzw/viewform?usp=sf_link
@@ -11,7 +10,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdu0L7Ckee7521SycUDWVN
 
 **Location/duty station:** Manila, Philippines
 
-**Reports to:** Regional Hub Director (line manager) & Head of Community (functional manager)
+**Reports to:** Regional Hub Director - Manila (line manager) & Head of Community (functional manager)
 
 **Travel:** Regional travel-up to 50%; international travel-few times per year
 
@@ -20,34 +19,35 @@ Humanitarian OpenStreetMap Team (HOT) is a Washington, D.C.- based NGO and globa
 
 
 # Role Profile
-Reporting to the Head of Community, and Regional Hub Director, this position will support OpenStreetMap Community activities in Asia. This position will be responsible for supporting OSM community building through HOT’s Community Support Programs in 25+ countries, supporting the stewarding of the growth of the global HOT community from 250,000 members (presently) to one million members (by 2025), supporting the successful achievement of [HOT’s Audacious Project](https://www.hotosm.org/projects/audacious/).
+Reporting to the Head of Community and Regional Hub Director - Manila, this position will support OpenStreetMap Community activities in Asia. This position will be responsible for supporting OSM community building through HOT’s Community Support Programs in 25+ countries, the stewarding of the growth of the global HOT community from 250,000 members (presently) to one million members (by 2025), and the successful achievement of [HOT’s Audacious Project](https://www.hotosm.org/projects/audacious/).
 
-This role will be prioritized for applicants from the Asia region. To learn more about which countries HOT plans to work in in Asia, please see here https://www.hotosm.org/updates/four-regions-five-years-94-countries-one-billion-people/ 
+This role will be prioritized for applicants from the Asia region. To learn more about which countries HOT plans to work in in Asia, please see [here](https://www.hotosm.org/updates/four-regions-five-years-94-countries-one-billion-people/).
 
 ## Responsibilities 
-* Support the growth of OpenStreetMap communities in every country in your region (approximately 25), providing community support, capacity building, training, and mentorship to communities looking to grow.
+* Support the growth of OpenStreetMap communities in every country in your region (approximately 25), providing community support, capacity building, training, and mentorship to communities looking to grow
 * Support setup activities for Regional Hub
 * Line Manage Community Trainer for Regional Hub
-* Support creation of global Community Strategy and localize Global Strategy to your region.
-* Lead in person and virtual training events across your region.
-* Develop strong personal relationships with OpenStreetMappers across your region.
+* Support creation of global Community Strategy and localize Global Strategy to your region
+* Lead in person and virtual training events across your region
+* Develop strong personal relationships with OpenStreetMappers across your region
 * Continually seek opportunities to engage mappers in your region, and support global community engagement efforts
-* Ensure HOT’s Community Support Programs in the region provide the appropriate support to OSM communities, and have the appropriate accountability to those communities. The Community Support Programs should start small-grants with between 3 and 5 local communities by June 2021, and then proceed to support approximately 5 new grants each year.
-* Help communities to document their Microgrant project in an open way to solicit feedback, and supporting peer to peer learning by sharing their approach and methodology
-* Ensure community diversity is represented in community growth, analysing current community diversity status and setting targets & agreeing activities to improve diversity across gender, indigenous populations, and marginalized groups.
-* Liaise with regional hub partnership teams to help community grantees to develop partnerships with humanitarian/development actors, and provide recommendations on data models.
-* Support partnerships team with providing in person trainings and workshops to partners in your region.
-* Support organisation of regional conferences (e.g. State of the Map Africa), HOT conferences (e.g. Summit), and supporting community events to happen in the regional hub.
-* Support Technical Associate in each regional hub to conduct pilots / user testing of new technology tools with OSM communities, and support the Technical Associate to gather feedback on tool usage and development directly from users.
+* Ensure HOT’s Community Support Programs in the region provide the appropriate support to OSM communities, and have the appropriate accountability to those communities. The Community Support Programs should start small-grants with between 3 and 5 local communities by June 2021, and then proceed to support approximately 5 new grants each year
+* Help communities document their Microgrant project in an open way to solicit feedback, and support peer to peer learning by sharing their approach and methodology
+* Ensure community diversity is represented in community growth, analysing current community diversity status and setting targets & agreeing to activities to improve diversity across gender, indigenous populations, and marginalized groups
+* Liaise with regional hub partnership teams to help community grantees to develop partnerships with humanitarian/development actors, and provide recommendations on data models
+* Support the partnerships team with providing in person trainings and workshops to partners in your region
+* Support organisation of regional conferences (e.g. State of the Map Africa), HOT conferences (e.g. Summit), and community events in the regional hub
+* Support Technical Associate in each regional hub to conduct pilots / user testing of new technology tools with OSM communities, and support the Technical Associate to gather feedback on tool usage and development directly from users
 * The Humanitarian and Development Programs Team will be responsible for Data Quality, Completeness, and achievement of all mapping-related metrics for Microgrants. The Community Manager will support their success by:
+
     * Ensuring that Microgrant projects are appropriately scoped and sized
-    * Balancing the Community Growth and Organizational Development requirements (the responsibility of the Community Team) with the Data Quality and Completeness requirements) the responsibility of the Hum/Dev Partnerships Team
+    * Balancing the Community Growth and Organizational Development requirements (the responsibility of the Community Team) with the Data Quality and Completeness requirements (the responsibility of the Hum/Dev Partnerships Team)
 * Support communities that are not yet ready to receive HOT Microgrants (e.g. their community is not formalized / too small) to achieve the relevant readiness criteria to be able to receive a Microgrant
 * Support communities after successful completion of a Microgrant project according to their requests and needs
 * Support execution of any other HOT Community Grants program impacting your region
 * Support Disaster Services team with communication with relevant Community connections as and when needed
-* Assess the state of OpenStreetMap in each target country, identify who the main players are, and their strengths and readiness levels.
-* Assess ease of work in target countries including security, technology access.
+* Assess the state of OpenStreetMap in each target country, identify who the main players are, and their strengths and readiness levels
+* Assess ease of work in target countries including security and technology access
 
 ## Qualifications
 **ESSENTIAL**
@@ -59,7 +59,7 @@ This role will be prioritized for applicants from the Asia region. To learn more
 * Experience providing or receiving microgrants/small grants programs
 * At least two years experience living and working in Low and Middle Income countries
 * A good sense of humour and willingness to learn
-Driven, goal-oriented and strives for continuous improvement 
+* Driven, goal-oriented and strives for continuous improvement 
 * Familiarity with OpenStreetMap community in Asia
 * Comfortable engaging in discussions with individual community members publicly
 * Experience with consensus-building
