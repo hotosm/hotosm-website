@@ -7,26 +7,27 @@ Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd-IcMVqlhSAyYg7WOWwaGFwfqQGRO0zlWcXRoEhaCl3dxdNQ/viewform?usp=sf_link
 ---
 
-**Contract duration:** 6 months with opportunity for extension
+**Contract duration:** 6-months with opportunity for extension
 
-**Level of effort:** Full- time
+**Level of effort:** Full-time
 
 **Location:** Remote initially; Travel to project and activation locations once safe/feasible
+
 **Reports to:** Program Manager, Disaster Services Team
 
 **Application Deadline:** 29 September 2020
 
-**Starting date:** 15 October 2020
+**Start date:** 15 October 2020
 
 # About HOT
-Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of hundreds of thousands of people with ground operations in many countries around the world. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need. HOT is expanding its reach as part of our new [Audacious Project](https://audaciousproject.org/ideas/2020/humanitarian-openstreetmap-team).
+Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of hundreds of thousands of people with ground operations in many countries around the world. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need. HOT is expanding its work via the [Audacious Project](https://audaciousproject.org/ideas/2020/humanitarian-openstreetmap-team).
 
 HOT typically works with a range of international and national partners (including government, NGO, and civil society) as well as interacts frequently with the HOT global network. Projects span sectors and typically focus on participatory mapping using OpenStreetMap, data analysis and storytelling, and training/capacity building of national and international partner organizations.
 
 HOT is soliciting CVs of experienced mid-career digital development and humanitarian professionals to assist in the management of our Disaster Services and volunteer Activations, starting as soon as possible (October 2020). This assignment is expected to last 6 months with the possibility of extension.
 
 # Profile
-The Disaster Services Information Management/Data Analyst will play a critical role on HOT’s Disaster Services Team (DST). This person will be responsible for producing data analysis, visualizations, and reporting that communicates deep insights and analysis into the various (geospatial) datasets collected. Additionally, a specific focus for the selected candidate will be to lead data and design work for DST IM-framework.
+The Disaster Services Team Information Management Associate will play a critical role on HOT’s Disaster Services Team (DST). This person will be responsible for producing data analysis, visualizations, and reporting that communicates deep insights and analysis into the various (geospatial) datasets collected. Additionally, a specific focus for the selected candidate will be to lead data and design work for DST IM-framework.
 
 This position will be responsible for leading implementation of all analytical processes and outputs expected during an activation/disaster response in close collaboration and in support of the DST. The IM-Associate will ensure that analytical frameworks and analysis plans are implemented throughout the operation and in support of HOT-DST sectors/priorities.
 
@@ -75,6 +76,7 @@ HOT is committed to diversity and inclusion within our team, and recognizes our 
 ## Conditions
 * Assignment on contractor basis. 
 * Prior to, or immediately upon acceptance, completion of the following training at courses.hotosm.org:
+
     * Activation Essentials: Explaining HOT Activation
     * Partner Liaison: Creating Lasting Partnerships
     Public Relations: Communicating Effectively During Disaster
