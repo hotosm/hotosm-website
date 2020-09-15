@@ -5,7 +5,13 @@ Photo: "/uploads/Screen%20Shot%202018-09-15%20at%2012.59.35.png"
 Member Type:
   Is Staff: true
 Job Title: Developer
+Working Group:
+- Data Quality
+- Technical
 Country: India
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/ramyaragupathy
+  Twitter: https://twitter.com/ramya_ragupathy
 ---
 
 Ramya Ragupathy is the backend developer of almost all of HOT's crucial software tools developed in-house. She contributes to all daily technical operations. Ramya has been supporting OpenStreetMap since 2015, takes part in building a data for good community and likes fun maps, taking GPS traces, and photographic records of her travels.
