@@ -1,7 +1,6 @@
 ---
-title: Disaster Services Team Information Management Associate
+title: Disaster Services Information Management Associate
 date: 2020-09-15 20:32:00 Z
-published: false
 Deadline Date: 2020-09-29 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd-IcMVqlhSAyYg7WOWwaGFwfqQGRO0zlWcXRoEhaCl3dxdNQ/viewform?usp=sf_link
@@ -27,7 +26,7 @@ HOT typically works with a range of international and national partners (includi
 HOT is soliciting CVs of experienced mid-career digital development and humanitarian professionals to assist in the management of our Disaster Services and volunteer Activations, starting as soon as possible (October 2020). This assignment is expected to last 6 months with the possibility of extension.
 
 # Profile
-The Disaster Services Team Information Management Associate will play a critical role on HOT’s Disaster Services Team (DST). This person will be responsible for producing data analysis, visualizations, and reporting that communicates deep insights and analysis into the various (geospatial) datasets collected. Additionally, a specific focus for the selected candidate will be to lead data and design work for DST IM-framework.
+The Disaster Services Information Management Associate will play a critical role on HOT’s Disaster Services Team (DST). This person will be responsible for producing data analysis, visualizations, and reporting that communicates deep insights and analysis into the various (geospatial) datasets collected. Additionally, a specific focus for the selected candidate will be to lead data and design work for DST IM-framework.
 
 This position will be responsible for leading implementation of all analytical processes and outputs expected during an activation/disaster response in close collaboration and in support of the DST. The IM-Associate will ensure that analytical frameworks and analysis plans are implemented throughout the operation and in support of HOT-DST sectors/priorities.
 
