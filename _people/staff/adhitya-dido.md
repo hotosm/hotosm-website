@@ -1,5 +1,5 @@
 ---
-title: Adhitya Dido
+title: Adhitya Dido Widyanto
 date: 2016-12-15 19:21:00 Z
 Photo: "/uploads/HOT_ID_Staff_Dido-68a7bd.png"
 Member Type:
