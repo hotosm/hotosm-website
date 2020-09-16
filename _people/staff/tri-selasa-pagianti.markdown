@@ -5,7 +5,7 @@ Photo: "/uploads/HOT_ID_Staff_Tri%20Selasa.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: GIS Training Officer
+Job Title: Associate Project Manager
 Country: Indonesia
 ---
 
