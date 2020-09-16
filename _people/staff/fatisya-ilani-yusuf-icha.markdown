@@ -5,7 +5,7 @@ Photo: "/uploads/Screen%20Shot%202018-06-05%20at%202.00.34%20PM.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: GIS Training Officer
+Job Title: Senior Mapping Supervisor
 Country: Indonesia
 ---
 
