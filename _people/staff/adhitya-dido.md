@@ -5,7 +5,7 @@ Photo: "/uploads/HOT_ID_Staff_Dido-68a7bd.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: GIS Training Officer
+Job Title: Communication Specialist
 Country: Indonesia
 redirect_from:
 - "/users/adhitya_dido_"
