@@ -1,7 +1,10 @@
 ---
-title: International Equal Pay Day
+title: 'International Equal Pay Day: Our Pursuit of Gender Equity'
 date: 2020-09-18 07:22:00 Z
-Feature Image: "/uploads/Staff%20Group%20Shot.jpg"
+Summary Text: Today is International Equal Pay Day, and we're marking the day by sharing
+  what we are doing to support the International Equal Pay Day initiative in our own
+  organization.
+Feature Image: "/uploads/20190918_173412%20Cropped.jpg"
 Person: Rachel VanNice
 ---
 
