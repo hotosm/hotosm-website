@@ -1,7 +1,6 @@
 ---
 title: HR Associate
 date: 2020-09-18 19:21:00 Z
-published: false
 Deadline Date: 2020-10-08 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScf-yNuV4_x8nNH-R43Dbr8jTCiPJ-bCF2F8nwZQY-92zlQFQ/viewform?usp=sf_link
