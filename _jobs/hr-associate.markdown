@@ -22,7 +22,7 @@ Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of 
 # About You
 HOT is looking for someone passionate about, and experienced in, international development and humanitarian action. You should be able to work within a fast-paced, international organization responding to urgent crises and persistent development issues. You should be familiar with the operations and internal functions of international NGOs and knowledgeable about the sector.  You will work on a broad range of tasks and projects and have exposure to all aspects of the functioning of the organization. You should have a proven record of talent sourcing at an international level.
 
-In consultation with the Senior Talent Manager you will advise and/or assist in formulating and implementing HR programs, policies, procedures, and processes for HOT Teams globally.  As first point of contact for all general HR-related queries, you will address and/or redirect queries as appropriate on the following scope of responsibilities. 
+In consultation with the Senior Talent Manager you will advise and/or assist in formulating and implementing HR programs, policies, procedures, and processes for HOT Teams globally.  As first point of contact for all general HR-related queries, you will address and/or redirect queries as appropriate on the following scope of responsibilities: 
 
 ## Talent sourcing and onboarding:
 * Coordinate organisational change processes and advise managers on the development of appropriate organisational structures that meet business needs
@@ -53,7 +53,7 @@ In consultation with the Senior Talent Manager you will advise and/or assist in 
 * Ensure existing staff complete exit formalities, including by conducting exit interviews. Share findings as suitable and take follow-up actions as needed
 
 ## Qualifications 
-* Post graduate qualification in International Relations, * International Development, Non-Profit Management, Social Sciences, or similar 
+* Post graduate qualification in International Relations, International Development, Non-Profit Management, Social Sciences, or similar 
 * Passionate about humanitarian action and international development 
 * Minimum 5 years experience in non-profit, non-governmental organizations, and international systems
 * Familiarity with HRIS, quick learning and adoption of new systems, softwares and processes
