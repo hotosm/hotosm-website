@@ -77,5 +77,5 @@ This role will be prioritized for applicants from the Asia region. To learn more
 * HOT values salary transparency and equity. All HOT salaries globally are set according to a [framework](https://www.hotosm.org/salaries) detailed on our website.
 * HOT offers a work-from-anywhere culture, flexible working arrangements, a variety of health care options, retirement savings plans, and 24 days of annual leave for all full-time employees, in addition to 12 paid holidays. 
 
-To Apply
+## To Apply
 Please complete the form linked [here](https://docs.google.com/forms/d/e/1FAIpQLSdu0L7Ckee7521SycUDWVNUD9asSG4UDA376ZR2Vm0eW9nkzw/viewform?usp=sf_link). Continue to the second page to upload your CV/resume. Your CV/resume should not exceed 2 pages. If invited to an interview, expect to hear by mid to late October  via email. Please check your junk/spam folder.
