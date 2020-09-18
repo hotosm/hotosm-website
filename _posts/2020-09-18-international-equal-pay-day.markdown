@@ -4,7 +4,9 @@ date: 2020-09-18 07:22:00 Z
 Summary Text: Today is International Equal Pay Day, and we're marking the day by sharing
   what we are doing to support the International Equal Pay Day initiative in our organization.
 Feature Image: "/uploads/20190918_173412%20Cropped.jpg"
-Person: Rachel VanNice
+Person:
+- Rachel VanNice
+- Dana Gallaty
 ---
 
 Today, September 18th, marks the first [International Equal Pay Day](https://www.un.org/en/observances/equal-pay-day#:~:text=Equal%20pay%20for%20work%20of,for%20work%20of%20equal%20value.&text=Across%20all%20regions%2C%20women%20are,at%2023%20per%20cent%20globally.). Declared [last year](https://www.equalpayinternationalcoalition.org/whats_new/un-declares-18-september-as-international-equal-pay-day/) by the UN, the day will serve to further galvanize public and private actors alike to pursue the realization of Sustainable Development Goal (SDG) 8.5: Equal pay for equal work. Globally, women earn 23% less than men for work of equal value. And, at the current rate of change, it will take an incredible **257 years to close the global gender pay gap**. 
