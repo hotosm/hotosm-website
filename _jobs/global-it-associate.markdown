@@ -1,7 +1,6 @@
 ---
 title: Global IT Associate
 date: 2020-09-21 15:36:00 Z
-published: false
 Deadline Date: 2020-10-15 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfqnWXnwribbLxqISS1LB7BFUs4OCRa68r4zsTKo9Wqclncxg/viewform?usp=sf_link
@@ -37,7 +36,7 @@ The Global IT Associate will coordinate and collaborate with key HOT_Tech suppor
 
 ## Priority Areas for Action and Responsibilities
 
-* ** IT Systems Administration**: HOT uses a mix of proprietary and open source products to support organisational operations. The IT Systems Administrator will ensure that products effectively support the organisation, it’s staff and community  in achieving HOT’s mission. 
+* **IT Systems Administration**: HOT uses a mix of proprietary and open source products to support organisational operations. The IT Systems Administrator will ensure that products effectively support the organisation, it’s staff and community  in achieving HOT’s mission. 
 * **Practice, Policy and Process Guidance**: HOT is transitioning from a small startup culture to a larger and more structured organisation. With this transition, HOT will need to ensure that it’s institutional IT is able to grow and scale with the organisation’s expansion. The IT Systems Administrator will lead projects that ensure HOT’s institutional IT grows seamlessly with the organisation. 
  
 ## Responsibilities
