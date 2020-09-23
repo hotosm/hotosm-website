@@ -1,6 +1,7 @@
 ---
 title: Six Ways Maps can Improve Lives
 date: 2019-12-16 13:53:00 Z
+published: false
 tags:
 - microgrants
 - "#Microgrant2020"
