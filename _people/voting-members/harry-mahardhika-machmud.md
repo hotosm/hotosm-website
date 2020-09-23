@@ -5,7 +5,7 @@ Photo: "/uploads/HOT_ID_Staff_Harry.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Project Coordinator
+Job Title: Country Manager
 Working Group:
 - Training
 - Activation

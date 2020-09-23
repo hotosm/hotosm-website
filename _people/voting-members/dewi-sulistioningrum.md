@@ -5,7 +5,7 @@ Photo: "/uploads/HOT_ID_Staff_Dewi.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Mapping Supervisor
+Job Title: Project Manager
 Project:
 - Tasking Manager
 - Indonesia Disaster Management Innovation

@@ -4,7 +4,7 @@ date: 2018-06-01 20:04:00 Z
 Photo: "/uploads/HOT_ID_Staff_Dinar.png"
 Member Type:
   Is Staff: true
-Job Title: Quality Assurance
+Job Title: FB Project Associate
 Project:
 - Facebook
 Country: Indonesia

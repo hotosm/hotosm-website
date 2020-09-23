@@ -8,8 +8,8 @@ Summary Text: Flooding has plagued the Ghanaian capital of Accra for years, so H
   to make vulnerable neighborhoods more resilient.
 Feature Image: "/uploads/Accra%20Lead%20Image%20Larger.JPG"
 Person:
-- Benjamin Dills
 - David Luswata
+- Benjamin Dills
 Country:
 - Ghana
 Project:

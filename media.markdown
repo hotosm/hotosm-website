@@ -6,6 +6,9 @@ Team:
   Nav ID: team
 News:
   Articles:
+  - Title: Volunteer armies map 'invisible' communities hit by coronavirus
+    Source: Thomson Reuters Foundation
+    Link: https://news.trust.org/item/20200914091849-tt4cw/
   - Title: Finding the 'invisible' millions who are not on maps
     Source: BBC
     Link: https://www.bbc.com/news/business-52650856

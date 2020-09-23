@@ -5,7 +5,7 @@ Photo: "/uploads/HOT_ID_Staff_Adis.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Project Coordinator
+Job Title: Senior Technical Advisor
 Working Group:
 - Activation
 Project:

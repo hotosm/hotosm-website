@@ -1,6 +1,7 @@
 ---
 title: Yeni Primasari
 date: 2018-06-05 05:31:00 Z
+published: false
 Photo: "/uploads/HOT_ID_Staff_Yenni.png"
 Member Type:
   Is Staff: true

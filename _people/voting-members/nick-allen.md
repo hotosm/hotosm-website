@@ -4,8 +4,6 @@ date: 2015-06-04 19:56:00 Z
 redirect_from:
 - "/users/nick_allen"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-299-1433452153.jpg
-Member Type:
-  Is Voting Member: true
 Working Group:
 - Training
 - Technical

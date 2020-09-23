@@ -5,6 +5,7 @@ Photo: "/uploads/SamColchester2.jpg"
 Member Type:
   Is Staff: true
   Is Voting Member: true
+Job Title: Partnerships Associate
 Project:
 - Missing Maps
 Country: United Kingdom
