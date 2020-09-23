@@ -1,9 +1,9 @@
 ---
 title: 'How #Map2020 Mappers Use Street-Level Imagery to Tackle Humanitarian Challenges'
 date: 2019-06-20 08:00:00 Z
-Summary Text: 'From Ghana to Iraq, Zambia to the Philippines, we take a look at some
-  of the 33 mapping projects that are taking part in #map2020 to build better maps
-  in undermapped regions. The mapping participants are collecting street-level imagery
+Summary Text: 'From Ghana to Zambia to the Philippines, we take a look at some of
+  the 33 mapping projects that are taking part in #map2020 to build better maps in
+  undermapped regions. The mapping participants are collecting street-level imagery
   to improve things like waste management, natural disaster response, and damaged
   roads, addressing some of the most pressing issues in undermapped regions.'
 Feature Image: "/uploads/2019-06-20-stephen-team-ghana.jpg"
@@ -12,7 +12,7 @@ Person: Rebecca Firth
 
 Updated and accurate maps have the ability to dramatically improve people’s lives. That’s why Mapillary and the Humanitarian OpenStreetMap Team announced [#map2020](https://blog.mapillary.com/update/2019/05/09/launching-map-2020.html) last month, to accelerate map data collection for better maps in undermapped regions. We’ve had applications from all over the world, with each application and mapping group outlining how they will use street-level imagery to tackle pressing humanitarian challenges head-on.
 
-Projects include addressing failing infrastructure in Ghana, natural disaster resilience and recovery in Iraq and the Philippines, and waste management in Uganda and Zambia. These are huge issues, with real impact on real people. The good news is, street-level imagery can help. Here’s what we’ve learned from the #map2020 participants so far.
+Projects include addressing failing infrastructure in Ghana, natural disaster resilience and recovery in the Philippines, and waste management in Uganda and Zambia. These are huge issues, with real impact on real people. The good news is, street-level imagery can help. Here’s what we’ve learned from the #map2020 participants so far.
 
 ![2019-06-20-map2020-contributors-map.PNG](/uploads/2019-06-20-map2020-contributors-map.PNG)
 *33 mapping groups in 26 countries are taking part in #map2020, addressing issues from waste management and natural disaster resilience, to poor road conditions and food security.*
@@ -31,11 +31,9 @@ Stephen and his team are also collecting imagery in different parts of Ghana to 
 ![2019-06-20-stephen-team-ghana.jpg](/uploads/2019-06-20-stephen-team-ghana.jpg)
 *Stephen’s team out capturing images with Mapillary to understand food security across southern Ghana.*
 
-**Using map data to prepare for and recover from natural disasters in Iraq and the Philippines**
+**Using map data to prepare for and recover from natural disasters the Philippines**
 
-The safety and well-being of entire regions can be improved radically through map data in the event of natural disasters. Mohammed Faisal (Mapillary member [mohammeddler](https://www.mapillary.com/app/user/mohammeddler)) is taking part in #map2020 to strengthen resilience in Erbil, a part of the Kurdistan Region of Iraq that’s prone to earthquakes. Street-level imagery is a particularly important asset in the aftermath of earthquakes, as clouds and dust in relation to earthquakes mean that satellite imagery often isn’t available.
-
-Similarly, Katherine Belano is based in the Philippines and is running a mapping group to aid recovery from a typhoon that devastated parts of the country. Through street-level imagery, Katherine’s team is conducting a household census to set records straight after the 2009 Typhoon Ketsana [displaced more than 1 million people and killed nearly 300](https://reliefweb.int/sites/reliefweb.int/files/resources/0928EEF6416B8BA5852576470074186C-Full_Report.pdf). The team is mapping 171 hectares of land that were deemed unsafe to inhabit following the typhoon, but where people have settled and lived regardless for more than 30 years. Katherine and her mapping team will use street-level imagery to show that it’s now, in their opinion, safe—meaning that it’s time for the land to be officially allocated to the settlers.
+The safety and well-being of entire regions can be improved radically through map data in the event of natural disasters. Katherine Belano is based in the Philippines and is running a mapping group to aid recovery from a typhoon that devastated parts of the country. Through street-level imagery, Katherine’s team is conducting a household census to set records straight after the 2009 Typhoon Ketsana [displaced more than 1 million people and killed nearly 300](https://reliefweb.int/sites/reliefweb.int/files/resources/0928EEF6416B8BA5852576470074186C-Full_Report.pdf). The team is mapping 171 hectares of land that were deemed unsafe to inhabit following the typhoon, but where people have settled and lived regardless for more than 30 years. Katherine and her mapping team will use street-level imagery to show that it’s now, in their opinion, safe—meaning that it’s time for the land to be officially allocated to the settlers.
 
 **Improving waste management through mapping in Uganda and Zambia**
 
