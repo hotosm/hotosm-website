@@ -3,7 +3,7 @@ title: Courtney Clark
 date: 2016-01-11 23:44:00 Z
 redirect_from:
 - "/users/courtney_clark"
-Photo: "/uploads/courtney_clark_photo.jpg"
+Photo: "/uploads/courtney_clark_photo.png"
 Member Type:
   Is Voting Member: true
 Working Group:
