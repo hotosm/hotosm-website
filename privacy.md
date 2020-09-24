@@ -7,15 +7,15 @@ Intro Text: Our privacy policy covers what personal data we collect, how we use 
 Page Contact:
   Label: Contact HOT
   Text: Have a question about the Privacy Policy?
-  Contact Email: sysadmin@hotosm.org
+  Contact Email: info@hotosm.org
 ---
 
 # Privacy Policy
-_Last Modified: February 5, 2019 ([source on Github](https://github.com/hotosm/legal))_
+_Last Modified: 24 September, 2020 ([source on Github](https://github.com/hotosm/legal))_
 
 Humanitarian OpenStreetMap Team (“HOT,” “we,” “us,” or “our”) is committed to protecting the privacy of those who visit our websites and use our services.  This Privacy Policy describes (1) the types of information we collect about you (sometimes called “personal information”) when you access or use our websites (including www.hotosm.org, tasks.hotosm.org, export.hotosm.org, and openaerialmap.org), applications, products, services, and tools (collectively, the “Services”); (2) how we use the information we collect from you; and (3) your choices regarding how we use or share that information. 
 
-We want to try to make this Privacy Policy as accessible and useful to our visitors as possible.  With that in mind, we’ve provided a high-level overview below to give you a general sense of what data we collect and how we use it.  If you would like more details, however, we encourage you to keep reading past the overview.  And if you have questions about our policies, you can contact us at [sysadmin@hotosm.org](mailto:sysadmin@hotosm.org).
+We want to try to make this Privacy Policy as accessible and useful to our visitors as possible.  With that in mind, we’ve provided a high-level overview below to give you a general sense of what data we collect and how we use it.  If you would like more details, however, we encourage you to keep reading past the overview.  And if you have questions about our policies, you can contact us [here](/contact).
 
 ## Overview
 
@@ -134,9 +134,9 @@ While these rights are not absolute – _e.g._, we do not have to delete your da
 * **Opt-Out of Electronic Communications:** You may opt out of receiving messages from HOT depending on the Services used.  Just follow the instructions in those messages.  If you opt out of receiving marketing messages from us, we may still send you other non-commercial messages, like those about your account and legal notices.
 * **Do Not Track:** HOT responds to “do not track” signals across all of our Services, so you may elect to use this signal in your browser settings. 
 * Set Your Browser to Reject Cookies: As mentioned above, you can usually choose to set your browser to remove or reject browser cookies before using HOT’s services, with the drawback that certain features may not function properly without the aid of cookies.
-* **Close Your Account:** If you created a profile or account with us, you can contact us at [sysadmin@hotosm.org](mailto:sysadmin@hotosm.org) to request that we close a specific HOT account and/or profile.  Please keep in mind that we may continue to retain and use your information after you close your account as described in this Privacy Policy.  For example, we may use your information if reasonably needed to comply with (or demonstrate our compliance with) legal obligations, or as reasonably needed for our legitimate business interests.  
+* **Close Your Account:** If you created a profile or account with us, you can contact us at [info@hotosm.org](mailto:info@hotosm.org) to request that we close a specific HOT account and/or profile.  Please keep in mind that we may continue to retain and use your information after you close your account as described in this Privacy Policy.  For example, we may use your information if reasonably needed to comply with (or demonstrate our compliance with) legal obligations, or as reasonably needed for our legitimate business interests.  
 
-If you have any questions or otherwise would like to contact us about one of these rights, you can email [sysadmin@hotosm.org](mailto:sysadmin@hotosm.org) to ask a question or request to exercise one of your rights.  We will consider all requests and provide our response within the time period stated by applicable law.  We may request you provide us with information necessary to confirm your identity before responding to your request – this is solely to protect you, and we will not use any of the information you provide us to confirm your identity for anything other than confirming your identity.  In some functions of the Services you may exercise these controls via your account settings in addition to contacting us at the email address above.  However, not all of our Services allow you to access, correct, or delete your personal data within your account settings.  If applicable, you can make a complaint to the government supervisory authority of your jurisdiction.
+If you have any questions or otherwise would like to contact us about one of these rights, you can email [info@hotosm.org](mailto:info@hotosm.org) to ask a question or request to exercise one of your rights.  We will consider all requests and provide our response within the time period stated by applicable law.  We may request you provide us with information necessary to confirm your identity before responding to your request – this is solely to protect you, and we will not use any of the information you provide us to confirm your identity for anything other than confirming your identity.  In some functions of the Services you may exercise these controls via your account settings in addition to contacting us at the email address above.  However, not all of our Services allow you to access, correct, or delete your personal data within your account settings.  If applicable, you can make a complaint to the government supervisory authority of your jurisdiction.
 
 ## Third-Party Websites and Services
 
@@ -144,7 +144,7 @@ The Services may include links to third-party websites and services that are not
 
 ## Children’s Privacy 
 
-We encourage youth to volunteer with HOT under the supervision of their parent or guardian, and are committed to protecting the privacy of children who use our Services.  We do not knowingly collect personal information from children under 16.  However, depending on how you use the Services, we may collect and use information about your child that you provide to us.  Before we collect any such information, we will seek your permission.  If we become aware we are processing the data of a child under the age of 16 without parental consent, we will take reasonable steps to delete such information as required under applicable laws.  If you believe we might have personal information from or about a child under 16, please contact us at [sysadmin@hotosm.org](mailto:sysadmin@hotosm.org).
+We encourage youth to volunteer with HOT under the supervision of their parent or guardian, and are committed to protecting the privacy of children who use our Services.  We do not knowingly collect personal information from children under 16.  However, depending on how you use the Services, we may collect and use information about your child that you provide to us.  Before we collect any such information, we will seek your permission.  If we become aware we are processing the data of a child under the age of 16 without parental consent, we will take reasonable steps to delete such information as required under applicable laws.  If you believe we might have personal information from or about a child under 16, please contact us at [info@hotosm.org](mailto:info@hotosm.org).
 
 ## Modifications to This Privacy Policy
 
@@ -152,7 +152,7 @@ We may modify this Privacy Policy from time to time.  All such changes will be r
 
 ## How to Contact Us
 
-If you have a question about this Privacy Policy, please contact us at [sysadmin@hotosm.org](mailto:sysadmin@hotosm.org).  Additional contact details are as follows:
+If you have a question about this Privacy Policy, please contact us at [info@hotosm.org](mailto:info@hotosm.org).  Additional contact details are as follows:
 
 1110 Vermont Avenue NW  
 Suite 500  
