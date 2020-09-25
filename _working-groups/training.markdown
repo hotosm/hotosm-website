@@ -1,7 +1,7 @@
 ---
 title: Training
 date: 2018-02-15 13:22:00 Z
-position: 5
+position: 6
 Coordination: https://trello.com/b/ZYzEoama/hot-training-wg
 Calendar: https://www.google.com/calendar/embed?src=hotosm.org_848e89aaiab04ag94d23rqn558%40group.calendar.google.com
 Chat: https://groups.google.com/a/hotosm.org/forum/#!forum/training
