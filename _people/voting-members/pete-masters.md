@@ -4,8 +4,7 @@ date: 2015-04-30 11:55:00 Z
 Photo: "/uploads/pete%20headshot.PNG"
 Member Type:
   Is Voting Member: true
-  Is Board Member: true
-Job Title: President
+  Is Board Member: false
 Working Group:
 - Communications
 Project:
