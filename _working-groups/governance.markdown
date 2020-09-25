@@ -1,7 +1,7 @@
 ---
 title: Governance
 date: 2018-02-15 13:22:00 Z
-position: 4
+position: 5
 Coordination: https://trello.com/b/Cg2cpjLm/hot-governance-wg
 Calendar: https://www.google.com/calendar/embed?src=hotosm.org_848e89aaiab04ag94d23rqn558%40group.calendar.google.com
 Chat: 
