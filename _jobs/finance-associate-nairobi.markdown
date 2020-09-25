@@ -29,7 +29,7 @@ In consultation with the Senior Global Finance Manager you will advise and/or as
 
 ## Responsibilities
 
-**Payables and Banking **
+**Payables and Banking**
 * Manage or coordinate all accounts payable for the regional office and, where necessary, in coordination with HOT Global. 
 * Carry out all necessary checks to ensure compliance with HOT procedures as well as donors and other rules and regulations.  
 * Monitor and reconcile all bank accounts.
@@ -37,25 +37,25 @@ In consultation with the Senior Global Finance Manager you will advise and/or as
 * Support the opening and management of a local bank account. 
 * Perform any other duties as may be directed by the line manager with regard to payments, banking etc. 
  
-**Data processing and Accounting **
+**Data processing and Accounting**
 * Post all transactions to the system on a daily basis, with strict compliance to HOT standard finance procedures and donor regulations
 * Verify correct account codes are used for all transactions.  
 * Perform the month end closing of accounting books (completeness, accuracy and timeliness required).  
  
-**Cashflow Management **
+**Cashflow Management**
 * Review and submit accurate and timely cash Forecast for the regional hub. 
 * Advise the Senior Global Finance Manager on anticipating any treasury risks and resolving difficulties.
 * If assigned, manage a petty cash and ensure reconciliation and cash counts are conducted at month end or when replenishing from the bank. 
  
-**Reporting **
+**Reporting**
 * Coordinate with the Senior Global Finance Manager on the monthly accounting submission and closing.
 * Assist the Senior Global Finance Manager to prepare various financial reports and analysis, regularly and as needed. 
  
-**Budget Management **
+**Budget Management**
 * Support project budget holders on budget preparation, control and monitoring.
 * Assist the Senior Global Finance Manager to monitor budget implementation with Program managers. 
  
-**Risk Management and Internal Control **
+**Risk Management and Internal Control**
 * Ensure timely dissemination and adherence of HOT Finance procedures among all budget holders; carry out trainings with the regional team, as needed
 * Ensure the implementation of internal control processes in accordance with internal financial procedures
 * Support the Senior Global Finance Manager to respond to financial audit recommendations or queries. 
