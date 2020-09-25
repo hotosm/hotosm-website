@@ -25,7 +25,7 @@ Project:
 layout: news-item
 ---
 
-In August, HOT Philippines began field work for the PhilAWARE project. The mapping team based in Pampanga began their work on August 12, training members of and volunteers from the local government unit to use OpenStreetMap.
+In August, HOT Philippines began field work for the PhilAWARE project. The mapping team based in Pampanga began their work on August 12, training members of and volunteers from the local government unit to use OpenStreetMap. They also began field mapping on August 19.
 
 ![Trainings-in-Pampanga.png](/uploads/Trainings-in-Pampanga.png)
 
