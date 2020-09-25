@@ -1,5 +1,5 @@
 ---
-title: Community Grants
+title: Community Microgrants
 date: 2018-03-09 09:19:00 Z
 permalink: "/community/community-grants/"
 Intro Text: Supporting local mapping communities to expand their projects through
