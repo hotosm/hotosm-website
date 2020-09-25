@@ -6,7 +6,6 @@ Coordination: https://trello.com/b/Cg2cpjLm/hot-governance-wg
 Calendar: https://www.google.com/calendar/embed?src=hotosm.org_848e89aaiab04ag94d23rqn558%40group.calendar.google.com
 Chat: 
 Details: https://docs.google.com/document/d/1m9_odHZfAE7Xe2nD2GIUCq6yiyczuTvi0uJNEdXQmd0/edit
-Point of Contact: mailto:governance@hotosm.org
 ---
 
-This group is charged with governance aspects of HOT, on how the organisation should be structured and work together and defining the legal bases.
+This group is charged with governance aspects of HOT, on how the organisation should be structured and work together and defining the legal bases. Contact at [governance@hotosm.org](mailto:governance@hotosm.org).
