@@ -13,7 +13,6 @@ tags:
 - Sierra Leone
 - South Sudan
 - Philippines
-- Iraq
 Summary Text: As Humanitarian OpenStreetMap Team (HOT) supports local communities
   fundraising to put themselves on the map, here are the ways they will be using maps
   to improve lives!
@@ -24,7 +23,6 @@ Working Group:
 Country:
 - Peru
 - Sierra Leone
-- Iraq
 - Philippines
 - Bolivia
 - South Sudan
