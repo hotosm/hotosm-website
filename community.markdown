@@ -14,9 +14,10 @@ People:
 Working Groups Description: Working Groups are at the core of how HOT organizes projects,
   supports disaster response, and functions as a community. Each Working Group consists
   of members across the community meeting on a monthly, bi-weekly, or weekly basis.
-Community Grants Description: Each year HOT mobilizes resources through community
-  grants to support local OSM communities. Find out more about the communities that
-  have received grants and the work they have done.
+Community Microgrants Description: HOT offers a range of funding programs to OSM Communities
+  in low- and middle-income countries with the resources they need to launch and grow
+  their activities and impact. Find out more about the communities that have received
+  grants and the work they have done.
 Finances:
   Text: |-
     HOT is a global not-for-profit organization registered in the United States of America.
