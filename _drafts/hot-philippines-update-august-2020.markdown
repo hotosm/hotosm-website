@@ -40,6 +40,6 @@ Throughout the month, HOT Philippines also had training sessions with volunteer 
 * The general public in a #MappingMondays session on August 24
 
 ![August Activities-0e637a.png](/uploads/August%20Activities-0e637a.png)\
-Aside from HOT Philippines’ own activities, HOT also sealed partnerships and participation with other mapping and DRMM-related events in the Philippines. Members of HOT Philippines participated in #OpenStreetMap16, an online celebration and status update of OSM in the Philippines organized by the Mapping Ministry. HOT Philippines’ Country Managaer, Bry Damasco, will be one of the speakers in UP Pahinungod's E-LIGTAS Webinar on September 2. And finally, HOT Philippines is a partner organization for MapBek’s SOGIE 101 and LGBT Safe Spaces Mapping conference on September 5.
+Aside from HOT Philippines’ own activities, HOT also sealed partnerships and participation with other mapping and DRMM-related events in the Philippines. Members of HOT Philippines participated in #OpenStreetMap16, an online celebration and status update of OSM in the Philippines organized by the Mapping Ministry. HOT Philippines’ Country Managaer, Bry Damasco, will be one of the speakers in UP Pahinungod's E-LIGTAS Webinar on September 2. And finally, HOT Philippines is a partner organization for MapBek’s SOGIE 101 and LGBT Safe Spaces Mapping conference on September 5. 
 
 ![August 2020 newsletter - partnerships-ab1335.png](/uploads/August%202020%20newsletter%20-%20partnerships-ab1335.png)
