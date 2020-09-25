@@ -1,7 +1,7 @@
 ---
 title: Online Community Engagement Lead
 date: 2020-09-07 15:10:00 Z
-Deadline Date: 2020-09-28 00:00:00 Z
+Deadline Date: 2020-10-09 00:00:00 Z
 Apply Form Link: https://forms.gle/Uqxg1eDUc2ZQL4SX9
 ---
 
@@ -9,7 +9,7 @@ Apply Form Link: https://forms.gle/Uqxg1eDUc2ZQL4SX9
 
 **Location/Duty Station:** Remote
 
-**Closes:** 28th September 2020
+**Closes:** 9th October 2020
 
 **Projected start date:** 9th November 2020
 
