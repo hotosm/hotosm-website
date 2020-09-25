@@ -4,7 +4,7 @@ date: 2018-02-15 13:21:00 Z
 position: 1
 Chat: http://slack.hotosm.org/
 Details: 
-Point of Contact: communications@hotosm.org
+Point of Contact: mailto:communications@hotosm.org
 Blog: https://www.hotosm.org/updates/
 ---
 
