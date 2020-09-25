@@ -1,7 +1,6 @@
 ---
-title: Six Ways Maps can Improve Lives
+title: How Maps can Improve Lives
 date: 2019-12-16 13:53:00 Z
-published: false
 tags:
 - microgrants
 - "#Microgrant2020"
@@ -15,6 +14,9 @@ tags:
 - South Sudan
 - Philippines
 - Iraq
+Summary Text: As Humanitarian OpenStreetMap Team (HOT) supports local communities
+  fundraising to put themselves on the map, here are the ways they will be using maps
+  to improve lives!
 Feature Image: "/uploads/TALLER%20ACCHA-1%20small-3dd472.jpg"
 Person: Alex Glynn
 Working Group:
@@ -34,7 +36,7 @@ If you need an ambulance, how would the paramedics find your address? If your ho
 
 But millions of people around the world are still not represented on maps. That means the voices of local communities are unheard; they are left out in access to basic services like health or education and are not included in relief operations when disasters strike. Simply put, maps improve lives for millions of people around the world.
 
-As Humanitarian OpenStreetMap Team (HOT) supports six local communities fundraising to put themselves on the map, here are six ways they will be using maps to improve lives!
+As Humanitarian OpenStreetMap Team (HOT) supports local communities fundraising to put themselves on the map, here are five ways they will be using maps to improve lives!
 
 ## 1. Helping communities affected by wildfires in the Bolivian Amazon
 
@@ -56,17 +58,7 @@ This is a problem that millions of people face in the Philippines, a country whe
 
 > **[Donate now to help Mental Health AWHEREness](https://pages.donately.com/hotosm/campaign/raising-mental-health-awhereness-with-maps) to develop a map that can really help change not only access to mental health services but also the stigma that surrounds it.**
 
-## 3. Providing humanitarians with the life-saving information in Iraq
-
-![IMG-20191107-WA0017.jpg](/uploads/IMG-20191107-WA0017.jpg)
-
-Since the war started in Iraq in 2014, millions of people have been displaced, forced to leave their homes and set up in temporary camps where they require support from aid organizations to survive. Many organizations and government agencies are working tirelessly to assist people during this crisis, but they lack basic information such as how many people live in an area, if they have enough clean water, and if roads to settlements are driveable. How can they get this information? With maps!
-
-OpenStreetMap Iraq want to create the first OpenStreetMap community in Iraq so they can start populating unmapped areas with evidence-based data so organizations, such as the UN, have the information they need to carry out life-saving operations.
-
-> **[Donate and help them create the first open-source base map of Iraq.](https://pages.donately.com/hotosm/campaign/mapping-to-improve-lives-in-iraq)**
-
-## 4. Driving sustainable development in Sierra Leone
+## 3. Driving sustainable development in Sierra Leone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zf68zEf_ZKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -76,7 +68,7 @@ Tommy, who is a member of OpenStreetMap Sierra Leone, knew that if he didn’t k
 
 > **[Donate to help OpenStreetMap Sierra Leone train more people to map their own communities and demand better basic services.](https://pages.donately.com/hotosm/campaign/driving-sustainable-development-in-sierra-leone-through-mapping)**
 
-## 5. Making sure people are counted in South Sudan
+## 4. Making sure people are counted in South Sudan
 
 ![Flooding in Nadapal, Kapoeta State, Eastern Equatorial-05e5b0.jpg](/uploads/Flooding%20in%20Nadapal,%20Kapoeta%20State,%20Eastern%20Equatorial-05e5b0.jpg)
 
@@ -86,7 +78,7 @@ That’s where OpenStreetMap South Sudan comes in. They want to create an open-s
 
 > **[Donate now to help provide relief to people affected by floods in South Sudan.](https://pages.donately.com/hotosm/campaign/putting-south-sudan-on-the-map)**
 
-## 6. Improving gender equality and education in Peru
+## 5. Improving gender equality and education in Peru
 
 ![TALLER ACCHA-1 small.jpg](/uploads/TALLER%20ACCHA-1%20small.jpg)
 
