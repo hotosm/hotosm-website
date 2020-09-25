@@ -9,4 +9,4 @@ Details: https://trello.com/c/XcJoZGbH/22-start-here
 Point of Contact: mailto:training@hotosm.org
 ---
 
-Much of what HOT does involves training others how to contribute to and use OpenStreetMap. The training group organizes and consolidates training materials and helps direct development of them to satisfy the identified audiences.
+Much of what HOT does involves training others how to contribute to and use OpenStreetMap. The training group organizes and consolidates training materials and helps direct development of them to satisfy the identified audiences. Contact at [training@hotosm.org](mailto:training@hotosm.org).
