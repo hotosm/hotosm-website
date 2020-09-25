@@ -5,7 +5,9 @@ Summary Text: 'In May 2020, iLab Liberia was awarded a microgrant as part of the
   OpenStreetMap Team’s (HOT) Rapid Response Microgrant: COVID-19 Program. Here’s iLab’s
   community blogpost detailing their project.'
 Feature Image: "/uploads/ILab%20Liberian%20Sept2020%201.png"
-Person: Carter Draper
+Person:
+- Carter Draper
+- Sophie Mower
 Working Group:
 - Community
 Country:
