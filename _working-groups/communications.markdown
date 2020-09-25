@@ -1,7 +1,7 @@
 ---
 title: Communications
 date: 2018-02-15 13:21:00 Z
-position: 5
+position: 1
 Chat: http://slack.hotosm.org/
 Details: 
 Point of Contact: communications@hotosm.org
