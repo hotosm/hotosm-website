@@ -21,7 +21,6 @@ The first COVID-19 case in Liberia was confirmed in early March 2020, but like m
 With funding from HOT’s Rapid Response Microgrant: COVID-19 Program, iLab was able to map all functional healthcare and COVID-19 facilities across Liberia to OpenStreetMap (OSM), and visualised the confirmed COVID-19 cases by creating web maps, infographics, and datasets for public use.
 
 ![ILab Liberian Sept2020 2.png](/uploads/ILab%20Liberian%20Sept2020%202.png)
-
 *Image of a printable map for county health teams*
 
 The three-month project was done exclusively through remote mapping activities, which allowed our community of mappers to work from home in the midst of a national lockdown. Working from home was a huge challenge to mappers in an environment where access to electricity and the internet is limited.
@@ -34,7 +33,6 @@ During the project, we mapped 24 hospitals, 750 clinics, and 20 healthcare cente
 * a Treatment Unit - facilities where coronavirus patients are treated.
 
 ![ILab Liberian Sept2020 3.jpg](/uploads/ILab%20Liberian%20Sept2020%203.jpg)
-
 *iLab Liberia Country Director presents printed maps to County Health teams officers*
 
 Beyond mapping the facilities on OpenStreetMap, we developed and distributed 20 printed maps to the County Health Teams and completed a 2-week social media campaign to ensure the data and products reached as many people and institutions as possible. Our data page consists of digital maps of healthcare and COVID-19 facilities, a wide range of interactive infographics on COVID-19 cases per county, and downloadable datasets available in different formats. We shared this work with our stakeholders and the general public via email exchanges and social media. 
