@@ -27,7 +27,7 @@ Project:
 - 'Data-Driven Disaster Risk Management: PhilAWARE'
 ---
 
-As of 1:21 p.m. on September 21, our Technical and GIS Specialist, Feye Andal, reported the completion of all remote mapping and validation tasks for Pampanga, a pilot area for the PhilAWARE project:
+At 1:21 p.m. on September 21, our Technical and GIS Specialist, Feye Andal, reported the completion of all remote mapping and validation tasks for Pampanga, a pilot area for the PhilAWARE project:
 
 > Good afternoon! As of 1:21PM, we have completed all the validation tasks for #MAPampanga in TM4.
 
@@ -36,6 +36,8 @@ Here is a [visual](https://raw.githubusercontent.com/feyeandal/photos/master/Pam
 ![Pampanga_animated.gif](/uploads/Pampanga_animated.gif)
 
 It must be noted that prior to HOT Philippines’ activities in the area, members of the local DRRM community and OSM Philippines have contributed in mapping Pampanga. In the [before-and-after maps below](https://twitter.com/HOTOSM_Ph/status/1294516877390041090) (published on August 8 for #OpenStreetMap16), you can see that some municipalities such as Guagua have been already well-mapped in the “before” images.
+
+![Before-After-Pampanga OSM16-027244.gif](/uploads/Before-After-Pampanga%20OSM16-027244.gif)
 
 **Field Work**
 
