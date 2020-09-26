@@ -66,3 +66,5 @@ This month was also a time for the whole of HOT to reflect and reassess the way 
 We are also continuously collecting stories for #MAPAsinoKaMan—a campaign which we started last month.
 
 ![MAPAsino Ka Man-9ec353.png](/uploads/MAPAsino%20Ka%20Man-9ec353.png)
+
+It is at this point that we would like to thank those who have submitted their stories to us so far. We are taking the time to scrutinize the way we layout and copyedit submissions to ensure that everyone’s contributions are told the way they should be told.
