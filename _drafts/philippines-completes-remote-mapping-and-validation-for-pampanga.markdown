@@ -1,6 +1,19 @@
 ---
 title: Philippines Completes Remote Mapping and Validation for Pampanga
-date: 2020-09-26 00:42:00 Z
+date: 2020-09-25 12:00:00 Z
+categories:
+- news
+- philippines
+- philaware
+- Mapping
+- USAID
+tags:
+- Philippines
+- hot philippines
+- philaware
+- Community
+- ICT4D
+- "#MaptheDifference"
 Summary Text: On September 21, 2020, the Philippine mapping team finished remote mapping
   and validation for the whole of Pampanga.
 Is image top aligned: true
@@ -18,7 +31,7 @@ As of 1:21 p.m. on September 21, our Technical and GIS Specialist, Feye Andal, r
 
 > Good afternoon! As of 1:21PM, we have completed all the validation tasks for #MAPampanga in TM4.
 
-Here is a visual of the project’s progress (building footprints and roads mapped) from January to September 2020.
+Here is a [visual](https://raw.githubusercontent.com/feyeandal/photos/master/Pampanga_animated.gif) of the project’s progress (building footprints and roads mapped) from January to September 2020.
 
 ![Pampanga_animated.gif](/uploads/Pampanga_animated.gif)
 
@@ -40,6 +53,8 @@ Aside from field work, members of our team also actively participated in partner
 
 * Feye Andal, our Technical and GIS Specialist, was a speaker for MapBek’s JOSM Training
 
+![Bry - Sept 2020.png](/uploads/Bry%20-%20Sept%202020.png)
+
 **Commitment to Telling Our Narrative**
 
 This month was also a time for the whole of HOT to reflect and reassess the way our stories are told. In the global scale, HOT Philippines is participating in the creation of a Comms Guidance Document to share with corporate partners who plan to feature HOT work in the future. The aim is to uphold the dignity and properly tell the stories of the communities we work with and live in.
@@ -47,5 +62,13 @@ This month was also a time for the whole of HOT to reflect and reassess the way 
 We are also continuously collecting stories for #MAPAsinoKaMan—a campaign which we started last month.
 
 ![MAPAsino Ka Man-9ec353.png](/uploads/MAPAsino%20Ka%20Man-9ec353.png)
+
+It is at this point that we would like to thank those who have submitted their stories to us so far. We are taking the time to scrutinize the way we layout and copyedit submissions to ensure that everyone’s contributions are told the way they should be told.
+
+This month was also a time for the whole of HOT to reflect and reassess the way our stories are told. In the global scale, HOT Philippines is participating in the creation of a Comms Guidance Document to share with corporate partners who plan to feature HOT work in the future. The aim is to uphold the dignity and properly tell the stories of the communities we work with and live in.
+
+We are also continuously collecting stories for #MAPAsinoKaMan—a campaign which we started last month.
+
+![MAPAsino Ka Man-9ec353.png](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/MAPAsino%20Ka%20Man-9ec353.png?download)
 
 It is at this point that we would like to thank those who have submitted their stories to us so far. We are taking the time to scrutinize the way we layout and copyedit submissions to ensure that everyone’s contributions are told the way they should be told.
