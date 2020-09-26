@@ -55,6 +55,8 @@ Aside from field work, members of our team also actively participated in partner
 
 ![Bry - Sept 2020.png](/uploads/Bry%20-%20Sept%202020.png)
 
+![Sen Feye - Sept 2020.png](/uploads/Sen%20Feye%20-%20Sept%202020.png)
+
 **Commitment to Telling Our Narrative**
 
 This month was also a time for the whole of HOT to reflect and reassess the way our stories are told. In the global scale, HOT Philippines is participating in the creation of a Comms Guidance Document to share with corporate partners who plan to feature HOT work in the future. The aim is to uphold the dignity and properly tell the stories of the communities we work with and live in.
