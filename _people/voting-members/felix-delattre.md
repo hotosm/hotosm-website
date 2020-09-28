@@ -6,6 +6,7 @@ Member Type:
   Is Staff: false
   Is Voting Member: true
   Is Board Member: true
+Job Title: Vice President
 Working Group:
 - Governance
 - Technical
