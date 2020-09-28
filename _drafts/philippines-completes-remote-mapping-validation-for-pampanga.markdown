@@ -33,13 +33,13 @@ At 1:21 p.m. on September 21, our Technical and GIS Specialist, Feye Andal, repo
 
 ![Pampanga_animated_v2.gif](/uploads/Pampanga_animated_v2.gif)
 
-It must be noted that prior to HOT Philippines’ activities in the area, members of the local DRRM community and OSM Philippines have contributed in mapping Pampanga. In the [before-and-after maps below](https://twitter.com/HOTOSM_Ph/status/1294516877390041090) (published on August 8 for #OpenStreetMap16), you can see that some municipalities such as Guagua have been already well-mapped in the “before” images.
+It must be noted that prior to HOT Philippines’ activities in the area, [members of the local DRRM community and OSM Philippines have contributed in mapping Pampanga](https://www.gfdrr.org/en/publication/community-mapping-disaster-risk-reduction-and-management). In the [before-and-after maps below](https://twitter.com/HOTOSM_Ph/status/1294516877390041090) (published on August 8 for #OpenStreetMap16), you can see that some municipalities such as Guagua have been already well-mapped in the “before” images.
 
 ![ezgif.com-video-to-gif-2.gif](/uploads/ezgif.com-video-to-gif-2.gif)
 
 ### **Field Mapping and Training**
 
-The HOT team members based in Pampanga also began field mapping on August 19, as mentioned in our previous update. Despite challenges in movement and schedules due to specialized lockdowns, the team is able to proceed with their tasks with caution and permission from the local government units (LGU) in Pampanga. They are currently working on mapping their fourth municipality.
+The HOT team members based in Pampanga also began field mapping on August 19, as mentioned in our previous update. Despite challenges in movement and schedules due to specialized lockdowns, the team is able to proceed with their tasks with caution and permission from the local government units (LGU) in Pampanga. They are currently working on mapping their fourth scheduled municipality.
 
 ![September-insert.png](/uploads/September-insert.png)
 
