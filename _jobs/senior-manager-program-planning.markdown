@@ -6,7 +6,7 @@ Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSffS0WfXxAdYAr2aLx6qQ1FLJ3TAd6u-IKPIxbe-7ngoO3WsA/viewform?usp=sf_link
 ---
 
-**Contract terms:** Will consider half-time or full-time candidates for a 12-month contract with possibility of extending
+**Contract terms:** Will consider half-time or full-time candidates for a 12-month contract with possibility of extension
 
 **Location/Duty Station:** Remote
 
