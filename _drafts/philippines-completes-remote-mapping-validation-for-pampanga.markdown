@@ -36,7 +36,7 @@ It must be noted that prior to HOT Philippines’ activities in the area, member
 
 ### **Field Mapping and Training**
 
-The HOT team members based in Pampanga also began field mapping on August 19, as mentioned in our previous update. Despite challenges in movement and schedules due to specialized lockdowns, the team is able to proceed with their tasks with caution and permission from the local government units (LGU) in Pampanga. They currently working on mapping their fourth municipality.
+The HOT team members based in Pampanga also began field mapping on August 19, as mentioned in our previous update. Despite challenges in movement and schedules due to specialized lockdowns, the team is able to proceed with their tasks with caution and permission from the local government units (LGU) in Pampanga. They are currently working on mapping their fourth municipality.
 
 ![September-insert.png](/uploads/September-insert.png)
 
