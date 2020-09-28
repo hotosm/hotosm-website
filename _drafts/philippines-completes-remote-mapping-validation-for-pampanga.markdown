@@ -29,9 +29,9 @@ Project:
 Field name: 
 ---
 
-At 1:21 p.m. on September 21, our Technical and GIS Specialist, Feye Andal, reported the completion of all remote mapping and validation tasks for Pampanga, a pilot area for the PhilAWARE project. Here is a [visual](https://raw.githubusercontent.com/feyeandal/photos/master/Pampanga_animated.gif) of the project’s progress (building footprints and roads mapped) from January to September 2020.
+At 1:21 p.m. on September 21, our Technical and GIS Specialist, Feye Andal, reported the completion of all remote mapping and validation tasks for Pampanga, a pilot area for the PhilAWARE project. Here is a [visual](https://raw.githubusercontent.com/feyeandal/photos/master/Pampanga_animated.gif) of the project’s progress (building footprints and roads mapped) from January to September 2020:
 
-![Pampanga_animated.gif](/uploads/Pampanga_animated.gif)
+![Pampanga_animated_v2.gif](/uploads/Pampanga_animated_v2.gif)
 
 It must be noted that prior to HOT Philippines’ activities in the area, members of the local DRRM community and OSM Philippines have contributed in mapping Pampanga. In the [before-and-after maps below](https://twitter.com/HOTOSM_Ph/status/1294516877390041090) (published on August 8 for #OpenStreetMap16), you can see that some municipalities such as Guagua have been already well-mapped in the “before” images.
 
