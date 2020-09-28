@@ -1,6 +1,8 @@
 ---
 title: Supporting Istanbul’s Open Data Efforts
 date: 2020-09-28 12:47:00 Z
+Summary Text: BİMTAŞ A.Ş. and HOT partner Yer Çizenler are working together to put
+  the Istanbul Planning Agency campus on OpenStreetMap.
 Feature Image: "/uploads/Bimtas%202.png"
 Is image top aligned: true
 Person: Can Unen
@@ -47,4 +49,3 @@ Divided into teams, the attendees have collected detailed information from the f
 The field data will be acquired by the project team from the attendees for validation and then will be uploaded to OpenStreetMap, where the IPA campus data will be available in high detail. 
 
 Collaboration with our project team is expected to continue with public mapathons, workshops, and similar activities involving free and open-source mapping tools and applications. 
-
