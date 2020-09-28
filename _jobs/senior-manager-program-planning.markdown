@@ -8,10 +8,15 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSffS0WfXxAdYAr2aLx6qQ1
 ---
 
 **Contract terms:** Will consider half-time or full-time candidates for a 12-month contract with possibility of extending
+
 **Location/Duty Station:** Remote
+
 **Closes:** 9th October 2020
+
 **Projected start date:** 2nd November 2020
+
 **Reports to:** Executive Director
+
 **Travel:** Expected to be 10% international travel in 2021
  
 # About HOT
