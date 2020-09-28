@@ -1,7 +1,6 @@
 ---
 title: Regional Hub Director - Nairobi
 date: 2020-06-26 15:07:00 Z
-published: false
 Deadline Date: 2020-10-27 00:00:00 Z
 Place of Work: Nairobi, Kenya
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf-_U-dXpWex4G1wxYEriyOwDGSo4hTg6w4VqHH6Kv7YLX_QQ/viewform?usp=sf_link
@@ -9,7 +8,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf-_U-dXpWex4G1wxYEriy
 
 **READVERTISEMENT**
 
-**Contract terms:** Full-time 1-year contract with opportunity for extension
+**Contract terms:** Full-time, 1-year contract with opportunity for extension
 
 **Location/Duty Station:** Nairobi, Kenya (East Africa Hub) 
 
@@ -48,7 +47,7 @@ The Regional Hub Director serves as HOT’s most senior representative in each o
 
 ## Compensation and Benefits
 * HOT values salary transparency and equity. All HOT salaries globally are set according to a [framework](https://www.hotosm.org/salaries) detailed on our website.
-* **Interested candidates from the Asia Pacific Region are encouraged to apply. HOT will provide a relocation package for suitable expatriate candidates.**
+* **Interested candidates from the East Africa Region are encouraged to apply. HOT will provide a relocation package for suitable expatriate candidates.**
 * HOT offers a work-from-anywhere culture, flexible working arrangements, a variety of health care options, 401k  or similar retirement savings plans, and 24 days of annual leave for all full-time employees, in addition to 12 paid holidays. 
 
 ## To Apply
