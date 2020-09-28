@@ -42,8 +42,6 @@ The HOT team members based in Pampanga also began field mapping on August 19, as
 
 Simultaneously, other members of the team are coordinating with members of and volunteers from the local government units (LGU) in Pampanga for OSM trainings. You can find culture trivia and regular documentation of HOT Philippines’ field mapping and training activities on our Instagram: that’s [@hotosm_ph](https://www.instagram.com/hotosm_ph/), in the “Field: Pampanga” highlight.
 
-
-
 **Partnerships and Speaking Engagements**
 
 Aside from field work, members of our team also actively participated in partnerships and events as speakers and panelists:
@@ -60,7 +58,7 @@ Aside from field work, members of our team also actively participated in partner
 
 This month was also a time for the whole of HOT to reflect and reassess the way our stories are told. In the global scale, HOT Philippines is participating in the creation of a Comms Guidance Document to share with corporate partners who plan to feature HOT work in the future. The aim is to uphold the dignity and properly tell the stories of the communities we work with and live in.
 
-We are also continuously collecting stories for #MAPAsinoKaMan—a campaign which we started last month.
+We are also continuously collecting stories for #MAPAsinoKaMan—a campaign which we started [last month](https://www.hotosm.org/updates/hot-philippines-update-august-2020/).
 
 ![MAPAsino Ka Man-9ec353.png](/uploads/MAPAsino%20Ka%20Man-9ec353.png)
 
