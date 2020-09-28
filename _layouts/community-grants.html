@@ -16,13 +16,13 @@ layout: default
         {% if page['Intro Text'] %}
           <p class="news-summary">{{ page['Intro Text' ]}}</p>
         {% endif %}
-        
+
         {{ content }}
       </div>
 
       <div class="project-index-all support-programs">
 
-      {% for project in site.projects %}
+      {% for project in site.projects reversed %}
         {% if project['Micrograntee'] %}
           {% include blocks/project-thumb.html %}
         {% endif %}
