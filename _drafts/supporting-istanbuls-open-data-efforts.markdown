@@ -4,7 +4,7 @@ date: 2020-09-28 12:47:00 Z
 Summary Text: BİMTAŞ A.Ş. and HOT partner Yer Çizenler are working together to put
   the Istanbul Planning Agency campus on OpenStreetMap.
 Feature Image: "/uploads/Bimtas%206%20Landscape.jpg"
-Is image top aligned: true
+Is image top aligned: false
 Person: Can Unen
 Country:
 - Turkey
