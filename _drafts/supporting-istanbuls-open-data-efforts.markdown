@@ -4,6 +4,8 @@ date: 2020-09-28 12:47:00 Z
 Feature Image: "/uploads/Bimtas%202.png"
 Is image top aligned: true
 Person: Can Unen
+Country:
+- Turkey
 ---
 
 [BİMTAŞ A.Ş.](https://bimtas.istanbul/), a subsidiary of the Istanbul Metropolitan Municipality (IMM), has collaborated with Yer Çizenler, HOT’s local partner organization in Turkey, as part of their effort to produce and share the geographical features of the newly allocated [Istanbul Planning Agency (IPA)](https://ipa.ibb.istanbul/) campus under open data licenses. OpenStreetMap will be one medium, among others. 
