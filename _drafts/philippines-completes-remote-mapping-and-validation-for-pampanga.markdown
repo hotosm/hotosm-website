@@ -16,6 +16,7 @@ tags:
 - "#MaptheDifference"
 Summary Text: On September 21, 2020, the Philippine mapping team finished remote mapping
   and validation for the whole of Pampanga.
+Feature Image: "/uploads/Pampanga_animated.gif"
 Is image top aligned: true
 Person: Jikka Defino
 Working Group:
@@ -27,13 +28,7 @@ Project:
 - 'Data-Driven Disaster Risk Management: PhilAWARE'
 ---
 
-At 1:21 p.m. on September 21, our Technical and GIS Specialist, Feye Andal, reported the completion of all remote mapping and validation tasks for Pampanga, a pilot area for the PhilAWARE project:
-
-> Good afternoon! As of 1:21PM, we have completed all the validation tasks for #MAPampanga in TM4.
-
-Here is a [visual](https://raw.githubusercontent.com/feyeandal/photos/master/Pampanga_animated.gif) of the project’s progress (building footprints and roads mapped) from January to September 2020.
-
-![Pampanga_animated.gif](/uploads/Pampanga_animated.gif)
+At 1:21 p.m. on September 21, our Technical and GIS Specialist, Feye Andal, reported the completion of all remote mapping and validation tasks for Pampanga, a pilot area for the PhilAWARE project.The [visual](https://raw.githubusercontent.com/feyeandal/photos/master/Pampanga_animated.gif) above is of the project’s progress (building footprints and roads mapped) from January to September 2020.
 
 It must be noted that prior to HOT Philippines’ activities in the area, members of the local DRRM community and OSM Philippines have contributed in mapping Pampanga. In the [before-and-after maps below](https://twitter.com/HOTOSM_Ph/status/1294516877390041090) (published on August 8 for #OpenStreetMap16), you can see that some municipalities such as Guagua have been already well-mapped in the “before” images.
 
