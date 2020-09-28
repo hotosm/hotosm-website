@@ -54,9 +54,7 @@ Aside from field work, members of our team also actively participated in partner
 
 * Feye Andal, our Technical and GIS Specialist, was a speaker for MapBek’s JOSM Training
 
-![Bry - Sept 2020.png](/uploads/Bry%20-%20Sept%202020.png)
-
-![Sen Feye - Sept 2020.png](/uploads/Sen%20Feye%20-%20Sept%202020.png)
+![September talks-insert.png](/uploads/September%20talks-insert.png)
 
 **Commitment to Telling Our Narrative**
 
