@@ -64,4 +64,4 @@ We are also continuously collecting stories for #MAPAsinoKaMan—a campaign whic
 
 ![MAPAsino Ka Man-9ec353.png](/uploads/MAPAsino%20Ka%20Man-9ec353.png)
 
-It is at this point that we would like to thank those who have submitted their stories to us so far. We are taking the time to scrutinize the way we layout and copyedit submissions to ensure that everyone’s contributions are told the way they should be told.
+It is at this point that we would like to thank those who have submitted their stories so far. We are taking the time to scrutinize the way we layout and copyedit submissions to ensure that everyone’s contributions are told the way they should be told.
