@@ -34,9 +34,7 @@ On September 15, the project team was at BİMTAŞ HQ for the remote mapathon wit
 
 On September 25, the project team was at IPA Campus for the field mapping. Based on the OSM data from the remote mapathon, the attendees were supplied with ODK and OMK forms to collect further information on campus buildings and trees, and digitize other features such as lighting fixtures, traffic and information signs, trash & recycling cans, etc. 
 
-![Bimtas 5.jpg](/uploads/Bimtas%205.jpg)
-
-![Screenshot 2020-09-28 144257-ce415f.jpg](/uploads/Screenshot%202020-09-28%20144257-ce415f.jpg)
+![BIMTAS Composite.jpg](/uploads/BIMTAS%20Composite.jpg)
 
 Divided into teams, the attendees have collected detailed information from the field via their mobile devices to improve the campus data on OpenStreetMap. The field teams were also provided with FieldPapers as well, demonstrating that one can still contribute to OSM with a pen and paper when there is limited hardware and connectivity. 
 
