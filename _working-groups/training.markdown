@@ -10,3 +10,5 @@ Point of Contact: mailto:training@hotosm.org
 ---
 
 Much of what HOT does involves training others how to contribute to and use OpenStreetMap. The training group organizes and consolidates training materials and helps direct development of them to satisfy the identified audiences. Contact at [training@hotosm.org](mailto:training@hotosm.org).
+
+Visit the [Training WG OSM Wiki page](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Training) for more information.
