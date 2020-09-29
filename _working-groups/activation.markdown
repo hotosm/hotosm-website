@@ -9,3 +9,5 @@ Details: https://docs.google.com/document/d/1uf60-HUF9GyP68-DzzksEa8RLqFkUrsNSq6
 ---
 
 This group is tasked with developing and/or proposing procedures, monitoring, tools, and/or other recommendations for management of HOT's distaster mapping program. Contact at [Activation.Requests@hotosm.org](mailto:Activation.Requests@hotosm.org).
+
+Visit the [Activation WG OSM Wiki page](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Activation) for more information.
