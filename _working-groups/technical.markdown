@@ -10,3 +10,5 @@ Blog: https://hotosm.org/tech-blog
 ---
 
 The HOT Technical Working Group discusses the current status, coordination possibilities, and priorities for tool development, and for hosting and operations aspects of HOT tools. Contact at [TechWG@hotosm.org](mailto:TechWG@hotosm.org).
+
+Visit the [Technical WG OSM Wiki page](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Technical) for more information.
