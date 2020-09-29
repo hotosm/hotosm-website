@@ -8,3 +8,5 @@ Blog: https://www.hotosm.org/updates/
 ---
 
 This group develops and manages policies and procedures regarding external communications, press releases, general texts, and online publications. Contact at [communications@hotosm.org](mailto:communications@hotosm.org).
+
+Visit the [Communications WG OSM Wiki page](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Communications) for more information.
