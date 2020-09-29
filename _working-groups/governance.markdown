@@ -9,3 +9,5 @@ Details: https://docs.google.com/document/d/1m9_odHZfAE7Xe2nD2GIUCq6yiyczuTvi0uJ
 ---
 
 This group is charged with governance aspects of HOT, on how the organisation should be structured and work together and defining the legal bases. Contact at [governance@hotosm.org](mailto:governance@hotosm.org).
+
+Visit the [Governance WG OSM Wiki page](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Governance) for more information.
