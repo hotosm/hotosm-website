@@ -20,7 +20,7 @@ The project team, with the GIS team of BİMTAŞ, was in the field on September 9
 
 ![Bimtas 1.png](/uploads/Bimtas%201.png)
 
-The drone imagery, shared with the mapping team, was then [uploaded to OpenAerialMap](https://map.openaerialmap.org/#/28.782353103160858,40.97623491278348,18/square/122101000111100201/5f5dfa54d9f87200078c7f2d?_k=8a4bqr), for all open-mapping communities to access.
+The drone imagery, shared with the mapping team, was then [uploaded to OpenAerialMap](https://map.openaerialmap.org/), for all open-mapping communities to access.
 
 ### Remote Mapathon
 
