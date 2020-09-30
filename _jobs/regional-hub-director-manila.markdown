@@ -48,8 +48,9 @@ The Regional Hub Director serves as HOT’s most senior representative in each o
 
 ## Compensation and Benefits
 * HOT values salary transparency and equity. All HOT salaries globally are set according to a [framework](https://www.hotosm.org/salaries) detailed on our website.
-* **Interested candidates from the Asia Pacific Region are encouraged to apply. HOT will provide a relocation package for suitable expatriate candidates.**
-* HOT offers a work-from-anywhere culture, flexible working arrangements, a variety of health care options, 401k  or similar retirement savings plans, and 24 days of annual leave for all full-time employees, in addition to 12 paid holidays. 
+* HOT offers a work-from-anywhere culture, flexible working arrangements, relocation packages for regional candidates, a variety of health care options, 401k  or similar retirement savings plans, and 24 days of annual leave for all full-time employees, in addition to 12 paid holidays. 
 
 ## To Apply
+NOTE: Only candidates from the Asia Pacific Region will be considered.
+
 Please complete the [linked form](https://docs.google.com/forms/d/e/1FAIpQLSd0CEKB2bWiXE_2Ui93KTXpJWwBTwlQDnHTwVojTMkel8mSKA/viewform?usp=sf_link) by October 22, 2020. **Interviews will be conducted on a rolling basis, interested candidates are encouraged to place their application as soon as possible.** Continue to the second page to upload your CV/resume (max 2 pages). 
