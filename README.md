@@ -39,4 +39,6 @@ Finally, navigate to http://127.0.0.1:4000/ and you should see the new website!
 
 
 ## Website issues
-Please use the issue tracker at https://github.com/hotosm/hotosm-website/issues to report bugs, develop ideas, ask questions or give feedback. Thank you!
+Please use the issue tracker at https://github.com/hotosm/hotosm-website/issues to report bugs, develop ideas, ask questions or give feedback. 
+Hope this helps you.
+Thank you!
