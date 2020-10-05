@@ -4,7 +4,7 @@ date: 2020-10-05 16:52:00 Z
 Summary Text: HOT pairs 2020 Virtual Summit with the Understanding Risk Forum 2020
 ---
 
-The HOT [Virtual Summit 2020](https://summit2020.hotosm.org/) (4 Dec.) will immediately follow the  [Understanding Risk Forum](https://understandrisk.org/event/ur2020_forum/) (1-3 Dec.). Here's why we find UR to be such a good match.
+The [HOT Virtual Summit 2020](https://summit2020.hotosm.org/) (4 Dec.) will immediately follow the  [Understanding Risk Forum](https://understandrisk.org/event/ur2020_forum/) (1-3 Dec.). Here's why we find UR to be such a good match.
 
 ### Immaculata Mwanja, Operations Manager (OMDTZ)
 
