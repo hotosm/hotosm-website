@@ -1,8 +1,9 @@
 ---
-title: HOT pairs 2020 Virtual Summit with the Understanding Risk Forum 2020
+title: HOT Pairs 2020 Virtual Summit with the Understanding Risk Forum 2020
 date: 2020-10-05 16:52:00 Z
 Summary Text: HOT pairs 2020 Virtual Summit with the Understanding Risk Forum 2020
 Feature Image: "/uploads/IMG_0736.JPG"
+Is image top aligned: true
 Person:
 - Geoffrey Kateregga
 - Jess Beutler
