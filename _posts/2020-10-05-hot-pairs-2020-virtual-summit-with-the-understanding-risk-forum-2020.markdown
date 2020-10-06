@@ -5,9 +5,9 @@ Summary Text: HOT pairs 2020 Virtual Summit with the Understanding Risk Forum 20
 Feature Image: "/uploads/IMG_0736.JPG"
 Is image top aligned: true
 Person:
-- Geoffrey Kateregga
 - Jess Beutler
 - Russell Deffner
+- Geoffrey Kateregga
 - Immaculata Mwanja
 ---
 
