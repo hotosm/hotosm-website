@@ -49,7 +49,6 @@ Women and candidates from HOT’s Audacious Project priority countries are espec
 * Highly fluent with cloud based collaboration tools (Google Suite, JIRA, Slack, etc.)
 * A minimum of 5-10 years project management experience for technology-focused projects or organizations
 * Experience in consulting or rapidly growing startup environments
-* University degree or additional similar time-length (3 years) relevant professional experience in lieu
 
 **Desirable**
 * Masters degree/MBA, University degree, or 3 years relevant professional experience
