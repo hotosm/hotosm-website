@@ -1,7 +1,7 @@
 ---
 title: Senior Manager, Program Planning
 date: 2020-09-28 15:53:00 Z
-Deadline Date: 2020-10-09 00:00:00 Z
+Deadline Date: 2020-10-16 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSffS0WfXxAdYAr2aLx6qQ1FLJ3TAd6u-IKPIxbe-7ngoO3WsA/viewform?usp=sf_link
 ---
@@ -10,7 +10,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSffS0WfXxAdYAr2aLx6qQ1
 
 **Location/Duty Station:** Remote
 
-**Closes:** 9th October 2020
+**Closes:** 16th October 2020
 
 **Projected start date:** 2nd November 2020
 
