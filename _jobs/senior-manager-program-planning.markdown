@@ -48,12 +48,13 @@ Women and candidates from HOT’s Audacious Project priority countries are espec
 * Prior experience setting and managing a team’s or organization’s Objectives and Key Results, Key Performance Indicators, and other methodologies for setting and monitoring organizational impact
 * Highly fluent with cloud based collaboration tools (Google Suite, JIRA, Slack, etc.)
 * A minimum of 5-10 years project management experience for technology-focused projects or organizations
+* Experience in consulting or rapidly growing startup environments
 * University degree or additional similar time-length (3 years) relevant professional experience in lieu
-* Demonstrated experience in digital development / ICT4D and/or open data projects
 
 **Desirable**
-* Masters degree/MBA
+* Masters degree/MBA, University degree, or 3 years relevant professional experience
 * Project management certification (PMP, PMI-ACP, or other)
+* Demonstrated experience in digital development / ICT4D and/or open data projects
 * Experience in consulting or rapidly growing startup environments
 * Process mapping
 * Experience running long meetings and workshops with online collaboration tools and user-centred design methodologies e.g. Miro, Mural
