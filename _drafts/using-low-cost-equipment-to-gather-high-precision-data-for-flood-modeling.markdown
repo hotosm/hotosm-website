@@ -17,7 +17,7 @@ There have been a number of studies and projects, supported by funders such as t
 
 Better understanding the flow of the Msimbazi, the way it responds to heavy rainfall events, and where and why it floods is necessary for designing sustainable and green solutions to combat flood risk and improve living conditions. Such an understanding requires the development of a detailed hydraulic model. 
 
-Such a model needs to be based on accurate information about the amount of water the channel and surrounding floodplains can carry, and accurate measurements of the three-dimensional cross-section of the river are needed. To develop this model, the German International Cooperation Agency (GIZ) worked with us at [OpenMap Development Tanzania](https://www.omdtz.or.tz/) (OMDTZ) and Dutch knowledge institute Deltares to collect cross-section surveys, extending an existing flood model for the Lower Msimbazi to include a much larger upstream portion of the river.
+Such a model needs to be based on accurate information about the amount of water the channel and surrounding floodplains can carry, and for this accurate measurements of the three-dimensional cross-section of the river are needed. To develop this model, the German International Cooperation Agency (GIZ) worked with us at [OpenMap Development Tanzania](https://www.omdtz.or.tz/) (OMDTZ) and Dutch knowledge institute Deltares to collect cross-section surveys, extending an existing flood model for the Lower Msimbazi to include a much larger upstream portion of the river.
 
 ![Tanzania River Mapping 2.jpg](/uploads/Tanzania%20River%20Mapping%202.jpg)
 
