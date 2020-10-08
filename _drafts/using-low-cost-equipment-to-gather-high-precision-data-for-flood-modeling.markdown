@@ -83,6 +83,6 @@ All steps and methodology used for this project have been [documented](https://d
 
 The product of this assignment will be the development of a flood model that will assist in providing the evidentiary basis for investments in the basin. This project is complementary to the ongoing [Tanzania Urban Resilience Program (TURP)](http://www.worldbank.org/en/programs/tanzania-urban-resilience-program), implemented by the World Bank.
 
-> “Our collaboration with OMDTZ through both student work and surveying, led not only to an excellent dataset, it also offered us as specialists the opportunity to convey the knowledge on hydrology and hydraulics to a local team, so that they can now collect critical river data in a sustainable way.”  - Hessel Winsemius, Delft University of Technology
+> “Our collaboration with OMDTZ through both student work and surveying, led not only to an excellent dataset, but it also offered us as specialists the opportunity to convey the knowledge on hydrology and hydraulics to a local team, so that they can now collect critical river data in a sustainable way.”  - Hessel Winsemius, Delft University of Technology
 
 > The OMDTZ survey of river cross-sections and hydraulic structures along the Msimbazi river supported the creation of a comprehensive hydraulic model of the area that has led to the development of a more realistic flood hazard map of the most vulnerable areas. - Eskedar Gebremedhin, Deltares
