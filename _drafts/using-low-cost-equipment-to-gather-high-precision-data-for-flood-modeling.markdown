@@ -15,7 +15,7 @@ The Msimbazi Basin, home to an estimated 27 percent of Dar es Salaam’s populat
 
 There have been a number of studies and projects, supported by funders such as the [World Bank](https://www.worldbank.org/en/news/feature/2019/08/12/transforming-tanzanias-msimbazi-river-from-a-liability-into-an-opportunity), to develop investment programs and detailed plans for the basin. The intent has been to catalyze investments from different actors, including the government, the private sector, and other development partners, to restore the floodplain and turn it into an asset for the city.
 
-Better understanding the flow of the Msimbazi, the way it responds to heavy rainfall events, and where and why it floods, is necessary for designing sustainable and green solutions to combat flood risk and improve living conditions. Such an understanding requires the development of a detailed hydraulic model. 
+Better understanding the flow of the Msimbazi, the way it responds to heavy rainfall events, and where and why it floods is necessary for designing sustainable and green solutions to combat flood risk and improve living conditions. Such an understanding requires the development of a detailed hydraulic model. 
 
 Such a model needs to be based on accurate information about the amount of water the channel and surrounding floodplains can carry, and accurate measurements of the three-dimensional cross-section of the river are needed. To develop this model, the German International Cooperation Agency (GIZ) worked with us at [OpenMap Development Tanzania](https://www.omdtz.or.tz/) (OMDTZ) and Dutch knowledge institute Deltares to collect cross-section surveys, extending an existing flood model for the Lower Msimbazi to include a much larger upstream portion of the river.
 
