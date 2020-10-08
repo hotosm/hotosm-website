@@ -31,7 +31,7 @@ Because of several clear use cases for collecting very precise geographic positi
 
 After this study, OMDTZ expanded the method so that locally available tools for data collection could be used in conjunction with this hardware,  providing results that would have been harder and more expensive to generate by hiring outside consultants. We have deployed two units that use the real-time kinematic (RTK) mode of the new, low-cost hardware. 
 
-The configuration and setup of all these tools were done by local experts from OMDTZ. OMDTZ’s principles have always been local people, local devices, and open knowledge, and being able to use our own internal tech capabilities to provide centimeter precise surveys is a tremendous achievement in towards fulfilling these principles. 
+The configuration and setup of all these tools were done by local experts from OMDTZ. At OMDTZ, our principles have always been local people, local devices, and open knowledge, and being able to use our own internal tech capabilities to provide centimeter precise surveys is a tremendous achievement in towards fulfilling these principles. 
 
 ### Deploying Human and Technical Resources
 
