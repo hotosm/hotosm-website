@@ -61,22 +61,23 @@ This situation demands a robust situational analysis of the circumstances of com
 
 *A screenshot of one of the flood hazard maps produced using the new survey data*
 
-The Mapping Process
-Before starting to map, the team first setup and configured the base stations. Locations were chosen based on factors including distance, a clear sky for clear satellite signals, etc
+![Tanzania River Mapping 5.jpg](/uploads/Tanzania%20River%20Mapping%205.jpg)
+
+*Base stations*
+
+### The Mapping Process
+
+Before starting to map, the team first setup and configured the base stations. Locations were chosen based on factors including distance and a clear sky for clear satellite signals.
 
 Then the team trained the surveyors and made sure they were familiar with the safety measures for working in the river during data collection. 
 
-While conducting the cross-section survey in the river, surveyors had to actively monitor the accuracy of their GPS receivers and other devices while taking precautions to avoid deep water.
+While conducting the cross-section surveys in the river, surveyors had to actively monitor the accuracy of their GPS receivers and other devices while taking precautions to avoid deep water.
 
 After the data was collected, it was uploaded to the server for a quality check, and surveyors redid any sections which contained errors.
 
 Finally, once the data was all uploaded and verified, the team conducted the analysis. 
 
-All steps and methodology used for this assignment have been [documented](https://docs.google.com/document/d/1_V6MMBcw1vWO5Tii6iJc2-OBinir_9No53jeOaE7ReQ/edit) and are freely available for people who would like to further understand the process of this task and even replicate the process to other locations.
-
-![Tanzania River Mapping 5.jpg](/uploads/Tanzania%20River%20Mapping%205.jpg)
-
-*Base stations*
+All steps and methodology used for this project have been [documented](https://docs.google.com/document/d/1_V6MMBcw1vWO5Tii6iJc2-OBinir_9No53jeOaE7ReQ/edit) and are freely available for people who would like to further understand the process and even replicate it in other locations.
 
 ### Project Results and Data Use
 
