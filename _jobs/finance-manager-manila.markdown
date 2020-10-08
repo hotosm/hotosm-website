@@ -1,7 +1,7 @@
 ---
 title: Finance Manager - Manila
 date: 2020-09-09 19:16:00 Z
-Deadline Date: 2020-10-09 00:00:00 Z
+Deadline Date: 2020-10-16 00:00:00 Z
 Place of Work: Manila, Philippines
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScUkQhxry08c0ZcPZXXWAumCOXtnuuJQZMW6CjfUHACm7Q0oA/viewform?usp=sf_link
 ---
@@ -10,7 +10,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScUkQhxry08c0ZcPZXXWAu
 
 **Location/Duty Station:** Manila, Philippines
 
-**Closes:** October 9, 2020 
+**Closes:** October 16, 2020 
 
 **Projected start date:** November 1, 2020
  
