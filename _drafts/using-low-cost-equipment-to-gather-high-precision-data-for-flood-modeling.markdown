@@ -55,7 +55,7 @@ This first field exercise enabled us to refine our methods and safety precaution
 
 While conducting the cross-section surveys in the river, surveyors had to actively monitor the accuracy of their GPS receivers and other devices while taking precautions to avoid deep water.
 
-After the data was collected, it was uploaded to the server for a quality check, and surveyors redid any sections which contained errors. This data is being provided to Deltares for use in their hydraulic flood model  
+After the data was collected, it was uploaded to the server for a quality check, and surveyors redid any sections which contained errors. This was then provided to Deltares for use in their hydraulic flood model  
 
 ![Tanzania River Mapping 3.jpg](/uploads/Tanzania%20River%20Mapping%203.jpg)
 
@@ -80,8 +80,8 @@ The product of this assignment will be the development of a wider flood model th
 
 > “Our collaboration with OMDTZ through both student work and surveying led not only to an excellent dataset, but also offered us as specialists the opportunity to convey the knowledge on hydrology and hydraulics to a local team, so that they can now collect critical river data in a sustainable way.”  - Hessel Winsemius, Delft University of Technology
 
+> "The OMDTZ survey of river cross-sections and hydraulic structures along the Msimbazi River supported the creation of a comprehensive hydraulic model of the area that has led to the development of a more realistic flood hazard map of the most vulnerable areas." - Eskedar Gebremedhin, Deltares
+
 ![Tanzania River Mapping 1-05df38.png](/uploads/Tanzania%20River%20Mapping%201-05df38.png)
 
 *A screenshot of one of the flood hazard maps produced using the new survey data*
-
-> The OMDTZ survey of river cross-sections and hydraulic structures along the Msimbazi River supported the creation of a comprehensive hydraulic model of the area that has led to the development of a more realistic flood hazard map of the most vulnerable areas. - Eskedar Gebremedhin, Deltares
