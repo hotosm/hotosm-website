@@ -29,17 +29,33 @@ It is important to mention that about one year ago, a survey of the cross-sectio
 
 Because of several clear use cases for collecting very precise geographic position data, OMDTZ teamed with Resilience Academy partner Delft University of Technology (TU Delft) to investigate if a new [low-cost, dual-frequency GNSS receiver](https://www.ardusimple.com/) could be deployed for this end. TU Delft student Kirsten van Dongen co-developed a method with us to use the hardware, and demonstrated that it could deliver similar accuracy and precision as professional-grade survey equipment.
 
-After this study, OMDTZ expanded the method so that locally available tools for data collection could be used in conjunction with this hardware,  providing results that would have been harder and more expensive to generate by hiring outside consultants. We have deployed two units that use the real-time kinematic (RTK) mode of the new, low-cost hardware. 
+After this study, OMDTZ expanded the method so that locally available tools for data collection could be used in conjunction with this hardware,  providing results that would be harder and more expensive to generate by hiring outside consultants. We have now deployed two units that use the real-time kinematic (RTK) mode of the new, low-cost hardware that are able to provide centimeter precise surveys. 
 
-The configuration and setup of all these tools were done by local experts from OMDTZ. At OMDTZ, our principles have always been local people, local devices, and open knowledge, and being able to use our own internal tech capabilities to provide centimeter precise surveys is a tremendous achievement in working according to these principles. 
+The setup of all these tools was done by local experts from OMDTZ. At OMDTZ, our principles have always been local people, local devices, and open knowledge, and being able to use our own internal tech capabilities for high precision surveys is a tremendous achievement in working by these principles. 
 
 ### Deploying Human and Technical Resources
 
-A team of 6 people (4 mappers and 2 technicians) was deployed to the field equipped with an Android smartphone with Open Data Kit (ODK) installed for data collection. We developed a hydrological data collection protocol for ODK with Deltares, and carried out our first field survey with Deltares associates Bobby Russell and Hessel Winsemius, both of whom are experienced in hydrological surveys. This first field exercise enabled us to refine our methods and safety precautions. After this, we were able to scale up and rapidly collect over 80 cross-sections of the river. This data will be used by Deltares in their hydraulic flood model  
+The methodology used for this project has been [documented](https://docs.google.com/document/d/1_V6MMBcw1vWO5Tii6iJc2-OBinir_9No53jeOaE7ReQ/edit) and is freely available for people who would like to further understand the process and even replicate it in other locations.
+
+Before starting to map, the team first setup and configured the base stations. Locations were chosen based on factors including distance and a clear sky for clear satellite signals.
+
+![Tanzania River Mapping 5.jpg](/uploads/Tanzania%20River%20Mapping%205.jpg)
+
+*Base stations*
+
+Then the team trained the surveyors and made sure they were familiar with the safety measures for working in the river during data collection. 
+
+A team of 6 people (4 mappers and 2 technicians) was deployed to the field equipped with an Android smartphone with Open Data Kit (ODK) installed for data collection. We developed a hydrological data collection protocol for ODK with Deltares, and carried out our first field survey with Deltares associates Bobby Russell and Hessel Winsemius, both of whom are experienced in hydrological surveys. 
+
+This first field exercise enabled us to refine our methods and safety precautions. After this, we were able to scale up and rapidly collect over 80 cross-sections of the river. This data will be used by Deltares in their hydraulic flood model  
 
 ![Tanzania River Mapping 4.jpg](/uploads/Tanzania%20River%20Mapping%204.jpg)
 
 *A surveyor in the field holding a locally made survey tool in RTK mode*
+
+While conducting the cross-section surveys in the river, surveyors had to actively monitor the accuracy of their GPS receivers and other devices while taking precautions to avoid deep water.
+
+After the data was collected, it was uploaded to the server for a quality check, and surveyors redid any sections which contained errors.
 
 ![Tanzania River Mapping 3.jpg](/uploads/Tanzania%20River%20Mapping%203.jpg)
 
@@ -60,24 +76,6 @@ This situation demands a robust situational analysis of the circumstances of com
 ![Tanzania River Mapping 1-05df38.png](/uploads/Tanzania%20River%20Mapping%201-05df38.png)
 
 *A screenshot of one of the flood hazard maps produced using the new survey data*
-
-![Tanzania River Mapping 5.jpg](/uploads/Tanzania%20River%20Mapping%205.jpg)
-
-*Base stations*
-
-### The Mapping Process
-
-Before starting to map, the team first setup and configured the base stations. Locations were chosen based on factors including distance and a clear sky for clear satellite signals.
-
-Then the team trained the surveyors and made sure they were familiar with the safety measures for working in the river during data collection. 
-
-While conducting the cross-section surveys in the river, surveyors had to actively monitor the accuracy of their GPS receivers and other devices while taking precautions to avoid deep water.
-
-After the data was collected, it was uploaded to the server for a quality check, and surveyors redid any sections which contained errors.
-
-Finally, once the data was all uploaded and verified, the team conducted the analysis. 
-
-All steps and methodology used for this project have been [documented](https://docs.google.com/document/d/1_V6MMBcw1vWO5Tii6iJc2-OBinir_9No53jeOaE7ReQ/edit) and are freely available for people who would like to further understand the process and even replicate it in other locations.
 
 ### Project Results and Data Use
 
