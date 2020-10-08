@@ -71,7 +71,7 @@ Iddy also shared his touching experience with the communities residing along the
 
 This situation demands a robust situational analysis of the circumstances of communities residing along the valley and a multidisciplinary approach to how they can be helped to build a resilient city that considers different aspects of their needs from a ground level. 
 
-“Initial data visualization, comparing different image sources from different years, can easily show how the river changes direction and size over time, which will help in the prediction of how the river valley will evolve in the future and enable appropriate measures before more impacts can occur on the ground.”
+> “Initial data visualization, comparing different image sources from different years, can easily show how the river changes direction and size over time, which will help in the prediction of how the river valley will evolve in the future and enable appropriate measures before more impacts can occur on the ground.”
 
 
 ### Project Results and Data Use
