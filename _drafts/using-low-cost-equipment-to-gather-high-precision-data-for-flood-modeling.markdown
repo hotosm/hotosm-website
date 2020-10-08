@@ -47,17 +47,18 @@ A team of 6 people (4 mappers and 2 technicians) was deployed to the field equip
 
 Iddy Chazua, OMDTZ’s tech-lead and the man behind the setup and the analysis of this data collection, shared his experience of the fieldwork. 
 
-> “Seeing the accomplishments done using low-cost differential GPS, and thinking of how young surveyors and hydrologists would eventually have access to tools they never dreamed to be able to afford in the young stage of their career, is indeed revolutionary.”
+> “Seeing the accomplishments done using low-cost differential GPS, and thinking of how young surveyors and hydrologists will eventually have access to tools they never dreamed of being able to afford in the early stages of their career, is indeed revolutionary.”
 
 Iddy also shared his touching experience with the communities residing along the Msimbazi valley and how they use the valley in spite of knowing that it will eventually flood.
 
-> “It was a moving experience seeing how the river valley is being used by the community, but also sad how people are being affected by the same valley when it floods -  seeing part of a house hanging along the river while knowing that it does not have more than weeks. But still people are living inside.”
+> “It was a moving experience seeing how the river valley is being used by the community, but also sad how people are being affected by the same river when it floods. Seeing part of a house hanging along the river while knowing that it does not have more than weeks. But still people are living inside.”
 
 This situation demands a robust situational analysis of the circumstances of communities residing along the valley and a multidisciplinary approach to how they can be helped to build a resilient city that considers different aspects of their needs from a ground level. 
 
-“Initial data visualization, comparing different image sources from different years can easily show how the river changes direction and size over time, which will help in the prediction of how the river valley will evolve over time and enable appropriate measures before more impacts can occur on the ground.”
+“Initial data visualization, comparing different image sources from different years, can easily show how the river changes direction and size over time, which will help in the prediction of how the river valley will evolve in the future and enable appropriate measures before more impacts can occur on the ground.”
 
 ![Tanzania River Mapping 1-05df38.png](/uploads/Tanzania%20River%20Mapping%201-05df38.png)
+
 *A screenshot of one of the flood hazard maps produced using the new survey data*
 
 The Mapping Process
@@ -74,6 +75,7 @@ Finally, once the data was all uploaded and verified, the team conducted the ana
 All steps and methodology used for this assignment have been [documented](https://docs.google.com/document/d/1_V6MMBcw1vWO5Tii6iJc2-OBinir_9No53jeOaE7ReQ/edit) and are freely available for people who would like to further understand the process of this task and even replicate the process to other locations.
 
 ![Tanzania River Mapping 5.jpg](/uploads/Tanzania%20River%20Mapping%205.jpg)
+
 *Base stations*
 
 ### Project Results and Data Use
