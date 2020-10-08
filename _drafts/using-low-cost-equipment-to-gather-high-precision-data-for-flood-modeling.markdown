@@ -45,9 +45,9 @@ Before starting to map, the team first setup and configured the base stations. L
 
 Then the team trained the surveyors and made sure they were familiar with the safety measures for working in the river during data collection. 
 
-A team of 6 people (4 mappers and 2 technicians) was deployed to the field equipped with an Android smartphone with Open Data Kit (ODK) installed for data collection. We developed a hydrological data collection protocol for ODK with Deltares, and carried out our first field survey with Deltares associates Bobby Russell and Hessel Winsemius, both of whom are experienced in hydrological surveys. 
+A team of 6 people (4 mappers and 2 technicians) was deployed to the field equipped with an Android smartphone with Open Data Kit (ODK) installed for data collection. We developed a hydrological data collection protocol for ODK with Deltares, and carried out our first field survey with Deltares associates Bobby Russell and Hessel Winsemius, both of whom were experienced in hydrological surveys. 
 
-This first field exercise enabled us to refine our methods and safety precautions. After this, we were able to scale up and rapidly collect over 80 cross-sections of the river. This data will be used by Deltares in their hydraulic flood model  
+This first field exercise enabled us to refine our methods and safety precautions. After this, we were able to scale up and rapidly collect over 80 cross-sections of the river.
 
 ![Tanzania River Mapping 4.jpg](/uploads/Tanzania%20River%20Mapping%204.jpg)
 
@@ -55,7 +55,7 @@ This first field exercise enabled us to refine our methods and safety precaution
 
 While conducting the cross-section surveys in the river, surveyors had to actively monitor the accuracy of their GPS receivers and other devices while taking precautions to avoid deep water.
 
-After the data was collected, it was uploaded to the server for a quality check, and surveyors redid any sections which contained errors.
+After the data was collected, it was uploaded to the server for a quality check, and surveyors redid any sections which contained errors. This data is being provided to Deltares for use in their hydraulic flood model  
 
 ![Tanzania River Mapping 3.jpg](/uploads/Tanzania%20River%20Mapping%203.jpg)
 
@@ -73,14 +73,15 @@ This situation demands a robust situational analysis of the circumstances of com
 
 “Initial data visualization, comparing different image sources from different years, can easily show how the river changes direction and size over time, which will help in the prediction of how the river valley will evolve in the future and enable appropriate measures before more impacts can occur on the ground.”
 
+
+### Project Results and Data Use
+
+The product of this assignment will be the development of a wider flood model that will assist in providing the evidentiary basis for investments in the basin. This project is complementary to the ongoing [Tanzania Urban Resilience Program (TURP)](http://www.worldbank.org/en/programs/tanzania-urban-resilience-program), implemented by the World Bank.
+
+> “Our collaboration with OMDTZ through both student work and surveying led not only to an excellent dataset, but also offered us as specialists the opportunity to convey the knowledge on hydrology and hydraulics to a local team, so that they can now collect critical river data in a sustainable way.”  - Hessel Winsemius, Delft University of Technology
+
 ![Tanzania River Mapping 1-05df38.png](/uploads/Tanzania%20River%20Mapping%201-05df38.png)
 
 *A screenshot of one of the flood hazard maps produced using the new survey data*
 
-### Project Results and Data Use
-
-The product of this assignment will be the development of a flood model that will assist in providing the evidentiary basis for investments in the basin. This project is complementary to the ongoing [Tanzania Urban Resilience Program (TURP)](http://www.worldbank.org/en/programs/tanzania-urban-resilience-program), implemented by the World Bank.
-
-> “Our collaboration with OMDTZ through both student work and surveying, led not only to an excellent dataset, but it also offered us as specialists the opportunity to convey the knowledge on hydrology and hydraulics to a local team, so that they can now collect critical river data in a sustainable way.”  - Hessel Winsemius, Delft University of Technology
-
-> The OMDTZ survey of river cross-sections and hydraulic structures along the Msimbazi river supported the creation of a comprehensive hydraulic model of the area that has led to the development of a more realistic flood hazard map of the most vulnerable areas. - Eskedar Gebremedhin, Deltares
+> The OMDTZ survey of river cross-sections and hydraulic structures along the Msimbazi River supported the creation of a comprehensive hydraulic model of the area that has led to the development of a more realistic flood hazard map of the most vulnerable areas. - Eskedar Gebremedhin, Deltares
