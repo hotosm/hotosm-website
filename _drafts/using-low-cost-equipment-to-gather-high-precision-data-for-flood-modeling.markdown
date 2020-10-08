@@ -35,21 +35,23 @@ The configuration and setup of all these tools were done by local experts from O
 
 ### Deploying Human and Technical Resources
 
-A team of 6 people (4 mappers and 2 technicians) was deployed to the field equipped with an android smartphone with Open Data Kit (ODK) installed for data collection. We developed a hydrological data collection protocol for ODK with Deltares, and carried out our first field data collection trip together with Deltares associates Bobby Russell and Hessel Winsemius, both of whom are experienced in hydrological surveys. This first field exercise enabled us to refine our methods and safety precautions. After this, we were able to scale up and rapidly collect over 80 cross-sections of the river. This data will be used by Deltares in their hydraulic flood model  
+A team of 6 people (4 mappers and 2 technicians) was deployed to the field equipped with an Android smartphone with Open Data Kit (ODK) installed for data collection. We developed a hydrological data collection protocol for ODK with Deltares, and carried out our first field survey with Deltares associates Bobby Russell and Hessel Winsemius, both of whom are experienced in hydrological surveys. This first field exercise enabled us to refine our methods and safety precautions. After this, we were able to scale up and rapidly collect over 80 cross-sections of the river. This data will be used by Deltares in their hydraulic flood model  
 
 ![Tanzania River Mapping 4.jpg](/uploads/Tanzania%20River%20Mapping%204.jpg)
+
 *A surveyor in the field holding a locally made survey tool in RTK mode*
 
 ![Tanzania River Mapping 3.jpg](/uploads/Tanzania%20River%20Mapping%203.jpg)
+
 *One of the surveyed transect, visualized in 3d using DTM*
 
 Iddy Chazua, OMDTZ’s tech-lead and the man behind the setup and the analysis of this data collection, shared his experience of the fieldwork. 
 
-> “Seeing the accomplishments done using low-cost differential GPS and thinking of how young surveyors and hydrologists would eventually have access to tools they never dreamed to be able to afford in the young stage of their career, is indeed revolutionary.”
+> “Seeing the accomplishments done using low-cost differential GPS, and thinking of how young surveyors and hydrologists would eventually have access to tools they never dreamed to be able to afford in the young stage of their career, is indeed revolutionary.”
 
-Iddy also shared his touching experience about the communities residing along the Msimbazi valley and how they use the valley in spite of knowing that it will eventually flood.
+Iddy also shared his touching experience with the communities residing along the Msimbazi valley and how they use the valley in spite of knowing that it will eventually flood.
 
-> “It was a moving experience seeing how the river valley is being used by the community, but also sad how people are being affected by the same valley when it floods -  seeing part of a house hanging along the river while knowing that it does not have more than weeks, but still people are living inside.”
+> “It was a moving experience seeing how the river valley is being used by the community, but also sad how people are being affected by the same valley when it floods -  seeing part of a house hanging along the river while knowing that it does not have more than weeks. But still people are living inside.”
 
 This situation demands a robust situational analysis of the circumstances of communities residing along the valley and a multidisciplinary approach to how they can be helped to build a resilient city that considers different aspects of their needs from a ground level. 
 
