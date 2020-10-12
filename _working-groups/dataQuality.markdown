@@ -8,4 +8,4 @@ Chat: http://slack.hotosm.org/
 Details: https://docs.google.com/document/d/1sGJszOVd-ikVfAhTcfGj84F2fZRg-DlV55GDfYnYWl0/edit?usp=sharing
 ---
 
-The data quality working group is organized to investigate tools and workflows to improve data quality and mapper experience, in order to develop and recommend solutions to related validation challenges. Contact via the Slack #quality-assurance channel.
+The data quality working group is organized to investigate tools and workflows to improve data quality and mapper experience, in order to develop and recommend solutions to related validation challenges. Contact via the Slack #quality-control channel.
