@@ -47,7 +47,7 @@ The Regional Hub Director serves as HOT’s most senior representative in each o
 
 ## Compensation and Benefits
 * HOT values salary transparency and equity. All HOT salaries globally are set according to a [framework](https://www.hotosm.org/salaries) detailed on our website.
-* HOT offers a work-from-anywhere culture, flexible working arrangements, relocation packages for regional candidates, a variety of health care options, 401k or similar retirement savings plans, and 24 days of annual leave for all full-time employees, in addition to 12 paid holidays. HOT 
+* HOT offers a work-from-anywhere culture, flexible working arrangements, relocation packages for regional candidates, a variety of health care options, 401k or similar retirement savings plans, and 24 days of annual leave for all full-time employees, in addition to 12 paid holidays. 
 
 ## To Apply
 **NOTE: Only candidates from the East and southern Africa Region will be considered.**
