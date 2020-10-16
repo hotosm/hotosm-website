@@ -36,12 +36,11 @@ Digital volunteering to map vulnerable unmapped places: your global workforce ca
 * Email [partnerships@hotosm.org](mailto:partnerships@hotosm.org) for more information.
 
 ### What have other partners done?
-Watch this quick video to see how Accenture engaged employees in 42 cities to put 230,000 people on the map in just 24 hours:
-
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/tHr6Pf4W_gg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
 
 To date, over 7,300 volunteers from Salesforce have created over one million building edits.
 
 More recently, [here's an example](https://www.linkedin.com/posts/experian-asia-pacific_roadtorecovery-monthofmapping-hot10yrs-activity-6704283273490681856-F3i3) of how Experian shared mapping as a volunteering opportunity. 
+
+Watch this quick video to see how Accenture engaged employees in 42 cities to put 230,000 people on the map in just 24 hours:
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/tHr6Pf4W_gg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
