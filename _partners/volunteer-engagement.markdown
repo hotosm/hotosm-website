@@ -10,7 +10,7 @@ Page Contact:
 layout: page
 ---
 
-# For the past ten years, the Humanitarian OpenStreetMap Team (HOT) has been the global leader in community mapping, supporting humanitarian responses to nearly 100 disasters and crises. During this time we have refined virtual and remote volunteering methologies to make it easier for organizations to engage employees through digital mapping and drive social impact. As many organizations shift to remote work, we are more than ready to help you stay close to the issues that are most important for your Corporate Social Responsibility (CSR) goals.  
+For the past ten years, the Humanitarian OpenStreetMap Team (HOT) has been the global leader in community mapping, supporting humanitarian responses to nearly 100 disasters and crises. During this time we have refined virtual and remote volunteering methologies to make it easier for organizations to engage employees through digital mapping and drive social impact. As many organizations shift to remote work, we are more than ready to help you stay close to the issues that are most important for your Corporate Social Responsibility (CSR) goals.  
 
 Join the Missing Maps project to improve your employee engagment and Corporate Social Responsibility programs!
 
