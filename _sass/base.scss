@@ -1326,6 +1326,10 @@ em {
   }
 }
 
+.partner-subtitle {
+  font-size: 2.25rem;
+}
+
 .partner-projects {
   grid-template-columns: repeat(1, 1fr);
   margin-top: 35px;
@@ -5088,7 +5092,6 @@ sup {
 ////////////////////////////////////////////////
 ////////////// Page — Get Involved /////////////
 ////////////////////////////////////////////////
-
 
 .get-involved-options {
   background-color: $blue-dark;
