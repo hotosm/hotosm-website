@@ -6,8 +6,9 @@ Member Type:
   Is Staff: true
 Job Title: Developer
 Working Group:
-  - Technical
+- Technical
 Country: India
 Social Media (Full URL):
   OSM: https://www.hdyc.neis-one.org/?eternaltyro
 ---
+
