@@ -44,4 +44,3 @@ block-3:
 layout: partner
 ---
 
-Over the next five years HOT will engage one million volunteers to map places home to one billion people who are living in poverty or at high risk of disaster in 94 countries. There are many ways we can work together to achieve this!
