@@ -1,14 +1,7 @@
 ---
 title: Partner with us
 position: 0
-Intro Text: "HOT collaborates with a wide range of organizations to leverage open
-  source tools and join resources to generate crucial data so that humanitarian work
-  and disaster response efforts are able to reach vulnerable areas. Through training,
-  shared expertise and large scale volunteering, we help organizations run rapid field
-  data collection campaigns, and improve the way they use technology and open map
-  data. \n\nOver the next five years HOT will engage one million volunteers to map
-  places home to one billion people who are living in poverty or at high risk of disaster
-  in 94 countries. There are many ways we can work together to achieve this!"
+Intro Text: 
 Page Contact:
   Label: Partner with us
   Text: Interested in partnering with HOT?
@@ -44,3 +37,6 @@ block-3:
 layout: partner
 ---
 
+HOT collaborates with a wide range of organizations to leverage open source tools and join resources to generate crucial data so that humanitarian work and disaster response efforts are able to reach vulnerable areas. Through training, shared expertise and large scale volunteering, we help organizations run rapid field data collection campaigns, and improve the way they use technology and open map data. 
+
+Over the next five years HOT will engage one million volunteers to map places home to one billion people who are living in poverty or at high risk of disaster in 94 countries. There are many ways we can work together to achieve this!
