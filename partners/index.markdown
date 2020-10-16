@@ -1,7 +1,7 @@
 ---
 title: Partner with us
-blocktitle: How to get involved
 position: 0
+blocktitle: How to get involved
 Intro Text: "HOT collaborates with a wide range of organizations to leverage open
   source tools and join resources to generate crucial data so that humanitarian work
   and disaster response efforts are able to reach vulnerable areas. Through training,
@@ -44,3 +44,4 @@ block-3:
   Link: "/partners/technology-and-training"
 layout: partner
 ---
+
