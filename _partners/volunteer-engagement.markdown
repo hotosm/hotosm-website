@@ -40,7 +40,7 @@ Watch this quick video to see how Accenture engaged employees in 42 cities to pu
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/tHr6Pf4W_gg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-</br>
+<div> </div>
 
 To date, over 7,300 volunteers from Salesforce have created over one million building edits.
 
