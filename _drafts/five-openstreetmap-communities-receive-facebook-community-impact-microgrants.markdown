@@ -30,6 +30,7 @@ Funding from HOT will enable the mapping of three selected municipalities, inclu
 Resilience Mappers will be collecting data on the status of services in informal settlements in Kampala, Uganda. The data has been requested by the Kampala Capital City Authority GIS Department, and will be used to enable the equitable distribution of resources for upgrading informal settlements across Uganda’s capital. During the project, volunteers will be trained in remote mapping techniques including JOSM, ID-Editor, and Mapillary to contribute to OpenStreetMap.
 
 ![Resilience Mappers.png](/uploads/Resilience%20Mappers.png)
+
 *Image: aerial image of Katanga informal settlement *
 
 ### Yer Cizenler Mapping for Everyone Association 
