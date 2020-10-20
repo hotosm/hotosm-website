@@ -31,15 +31,15 @@ Resilience Mappers will be collecting data on the status of services in informal
 
 ![Resilience Mappers.png](/uploads/Resilience%20Mappers.png)
 
-*Image: aerial image of Katanga informal settlement *
+*Image: aerial image of Katanga informal settlement*
 
 ### Yer Cizenler Mapping for Everyone Association 
 The Yer Çizenler Mapping for Everyone Association is a member of the Turkish OSM Community. During the Community Impact Microgrant project, Yer Çizenler will create resources, translate data tools and software into Turkish, and facilitate training events for the community to teach them how to edit and update open digital tools. The aim of the project is to create a sustainable volunteer base. If you speak Turkish and want to contribute, or if you can further support this cause, please don't hesitate to contact the project coordinator, [Oğuzhan Er](mailto:oguzhan.er@yercizenler.org). 
 
 ### OSM Zambia 
-OSM Zambia is working with the Lusaka City Council (LCC) in Lusaka, Zambia to map solid waste management infrastructure and services. During the project, the community will map the boundaries of solid waste zones in seven peri-urban areas, the major road networks in the areas, the coordinates of areas where citizens dispose of solid waste, and the size of those areas. The team will facilitate four days of training for university students and LCC staff for using GIS tools. 
+OSM Zambia is working with the Lusaka City Council (LCC) in Lusaka, Zambia, to map solid waste management infrastructure and services. During the project, the community will map the boundaries of solid waste zones in seven peri-urban areas, the major road networks in the areas, the coordinates of areas where citizens dispose of solid waste, and the size of those areas. The team will facilitate four days of training for university students and LCC staff for using GIS tools. 
 
 ### OSM Kenya and YouthMappers Kenya  
 OSM Kenya and Youth Mappers Kenya, will be mapping health facilities in Nairobi and the surrounding counties. The community will be using data sources published in a survey completed by GlaxoSmithKline in 2019. Services that support female health, such as gynecology and maternal health, will be added to open source platforms. The project will be led by Youth Mappers Kenya and OSM Kenya, and Map Kibera will support the administration of the project and help to host and coordinate its activities. 
 
-** *The Community Impact Microgrants program is kindly supported by Facebook. * **
+###The Community Impact Microgrants program is kindly supported by Facebook.
