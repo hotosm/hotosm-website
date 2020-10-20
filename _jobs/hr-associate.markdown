@@ -1,28 +1,25 @@
 ---
-title: HR Associate
+title: HR Manager
 date: 2020-09-18 19:21:00 Z
-Deadline Date: 2020-10-08 00:00:00 Z
+published: false
+Deadline Date: 2020-10-27 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScf-yNuV4_x8nNH-R43Dbr8jTCiPJ-bCF2F8nwZQY-92zlQFQ/viewform?usp=sf_link
 ---
 
 **Contract terms:** Full-time (though part-time candidates will be considered with availability of 30+ hrs a week)
-
-**Location/Duty Station:** Remote
- 
-**Deadline:** October 8, 2020 
-
-**Projected start date:** November 15, 2020
-
-**Reports to:** Senior Talent Manager 
+**Location/Duty Station:** Remote 
+**Deadline:** October 27, 2020
+**Projected start date:** December 1, 2020
+**Reports to: **Senior Talent Manager 
 
 # About HOT
-Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more 250,000 people with ground operations in eight countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need. HOT works closely with humanitarian and development partners including the Red Cross, Médecins Sans Frontières, World Bank, and UN OCHA, among others. HOT is excited to expand its work via the [Audacious Project](https://audaciousproject.org/ideas/2020/humanitarian-openstreetmap-team).
+Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more 269,000 people with ground operations in eight countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need. HOT works closely with humanitarian and development partners including the Red Cross, Médecins Sans Frontières, World Bank, and UN OCHA, among others. HOT is excited to expand its work via the [Audacious Project](https://audaciousproject.org/ideas/2020/humanitarian-openstreetmap-team).
 
 # About You
 HOT is looking for someone passionate about, and experienced in, international development and humanitarian action. You should be able to work within a fast-paced, international organization responding to urgent crises and persistent development issues. You should be familiar with the operations and internal functions of international NGOs and knowledgeable about the sector.  You will work on a broad range of tasks and projects and have exposure to all aspects of the functioning of the organization. You should have a proven record of talent sourcing at an international level.
 
-In consultation with the Senior Talent Manager you will advise and/or assist in formulating and implementing HR programs, policies, procedures, and processes for HOT Teams globally.  As first point of contact for all general HR-related queries, you will address and/or redirect queries as appropriate on the following scope of responsibilities: 
+In consultation with the Senior Talent Manager you will advise and/or assist in formulating and implementing HR programs, policies, procedures, and processes for HOT Teams globally.  As first point of contact for all general HR-related queries, you will address and/or redirect queries as appropriate on the following scope of responsibilities. 
 
 ## Talent sourcing and onboarding:
 * Coordinate organisational change processes and advise managers on the development of appropriate organisational structures that meet business needs
@@ -35,9 +32,9 @@ In consultation with the Senior Talent Manager you will advise and/or assist in 
     * Supporting the onboarding process by gathering personal documents and information of new hires and scheduling onboarding trainings
 
 ## HR Administration: 
-* Provide advice around implementation of HOT Staff guidelines within various countries, ensuring compliance with country-specific labour laws 
-* Inform and advise managers and staff on HR policies, processes and procedures and ensure compliance with these by identifying and communicating the legal and financial risks and other possible consequences of non-compliance
-* Ensure that all aspects of HR Admin, including both e-filing and physical filing, are efficiently managed in accordance with the country-specific labour law requirements  
+* Provide advice around implementation of HOT Staff guidelines within various countries, ensuring compliance with country-specific labour laws, including the US where HOT is headquartered
+* Inform and advise managers and staff on HR policies, processes and procedures and ensure compliance with these by identifying and communicating the legal and financial risks and other possible consequences of non-compliance, including for the US
+* Ensure that all aspects of HR Admin, including both e-filing and physical filing, are efficiently managed in accordance with the country-specific labour law requirements
 
 ## Staff Development:
 * Play a proactive role in creating a performance-oriented culture by ensuring that managers and staff are trained in the HOT performance management process 
@@ -57,6 +54,7 @@ In consultation with the Senior Talent Manager you will advise and/or assist in 
 * Passionate about humanitarian action and international development 
 * Minimum 5 years experience in non-profit, non-governmental organizations, and international systems
 * Familiarity with HRIS, quick learning and adoption of new systems, softwares and processes
+* Certification and/or experience in US HR policies
 * Experience providing remote support in Human Resources administration within a culturally diverse client base 
 * Excellent time management skills and ability to multi-task and prioritize work
 * Attention to detail and a problem-solving attitude
@@ -69,4 +67,4 @@ In consultation with the Senior Talent Manager you will advise and/or assist in 
 * HOT offers a work-from-anywhere culture, flexible working arrangements, a variety of health care options, retirement savings plans, and 24 days of annual leave for all full-time employees, in addition to 12 paid holidays. 
 
 ## To Apply
-Please complete the form linked [here](https://docs.google.com/forms/d/e/1FAIpQLScf-yNuV4_x8nNH-R43Dbr8jTCiPJ-bCF2F8nwZQY-92zlQFQ/viewform?usp=sf_link). **Continue to the second page** to upload your CV/resume. Your CV/resume should not exceed 2 pages. If invited to an interview, expect to hear by mid to late October via email. HOT will notify all candidates on the status of their application at the end of the hiring process. Please check your junk/spam folder.
+Please complete the form linked [here](https://docs.google.com/forms/d/e/1FAIpQLScf-yNuV4_x8nNH-R43Dbr8jTCiPJ-bCF2F8nwZQY-92zlQFQ/viewform?usp=sf_link). Continue to the second page to upload your CV/resume. Your CV/resume should not exceed 2 pages. If invited to an interview, expect to hear by early to mid November via email. HOT will notify all candidates on the status of their application at the end of the hiring process. Please check your junk/spam folder.
