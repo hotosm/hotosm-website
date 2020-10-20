@@ -4,6 +4,15 @@ date: 2020-10-20 09:07:00 Z
 Summary Text: Five OSM communities, spread across the Philippines, Turkey, Uganda,
   Kenya, and Zambia, have received Facebook Community Impact Microgrants to support
   community engagement and training.
+Person: Sophie Mower
+Country:
+- Kenya
+- Philippines
+- Turkey
+- Uganda
+- Zambia
+Project:
+- 'Community development: Microgrants and Device Grants'
 ---
 
 Congratulations to the five OpenStreetMap (OSM) Communities who have been awarded Facebook Community Impact Microgrants. The grants, which support community engagement and training activities, have been awarded to communities in the Philippines, Turkey, Uganda, Kenya, and Zambia. For the next three months, the following projects will be completed: 
@@ -32,4 +41,4 @@ OSM Zambia is working with the Lusaka City Council (LCC) in Lusaka, Zambia to ma
 ### OSM Kenya and YouthMappers Kenya  
 OSM Kenya and Youth Mappers Kenya, will be mapping health facilities in Nairobi and the surrounding counties. The community will be using data sources published in a survey completed by GlaxoSmithKline in 2019. Services that support female health, such as gynecology and maternal health, will be added to open source platforms. The project will be led by Youth Mappers Kenya and OSM Kenya, and Map Kibera will support the administration of the project and help to host and coordinate its activities. 
 
-***The Community Impact Microgrants program is kindly supported by Facebook. ***
+** *The Community Impact Microgrants program is kindly supported by Facebook. * **
