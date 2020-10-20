@@ -1,17 +1,20 @@
 ---
 title: HR Manager
 date: 2020-09-18 19:21:00 Z
-published: false
 Deadline Date: 2020-10-27 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScf-yNuV4_x8nNH-R43Dbr8jTCiPJ-bCF2F8nwZQY-92zlQFQ/viewform?usp=sf_link
 ---
 
 **Contract terms:** Full-time (though part-time candidates will be considered with availability of 30+ hrs a week)
+
 **Location/Duty Station:** Remote 
+
 **Deadline:** October 27, 2020
+
 **Projected start date:** December 1, 2020
-**Reports to: **Senior Talent Manager 
+
+**Reports to:** Senior Talent Manager 
 
 # About HOT
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more 269,000 people with ground operations in eight countries. When major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need. HOT works closely with humanitarian and development partners including the Red Cross, Médecins Sans Frontières, World Bank, and UN OCHA, among others. HOT is excited to expand its work via the [Audacious Project](https://audaciousproject.org/ideas/2020/humanitarian-openstreetmap-team).
@@ -24,10 +27,11 @@ In consultation with the Senior Talent Manager you will advise and/or assist in 
 ## Talent sourcing and onboarding:
 * Coordinate organisational change processes and advise managers on the development of appropriate organisational structures that meet business needs
 * Enhance HOT’s visibility on social media platforms by proactively creating diverse talent communities that support HOT’s future talent needs via Brand Champions, Marketing Campaigns, Editorial Calendars on LinkedIn, Twitter, Instagram, and Podcasts 
-* Manage the end to end recruitment processes for staff whilst maintaining the highest standards of candidates, diversity, fairness, and transparency of processes. This includes: 
+* Manage the end to end recruitment processes for staff whilst maintaining the highest standard of candidates, diversity, fairness, and transparency of processes. This includes:
+ 
     * Ensuring appropriate job definition and job advertisement processes;
     * Conducting longlisting and shortlisting of candidates and scheduling (and sometimes conducting) interviews;
-    * Working with the Hiring Manager, Finance department, and Senior Talent Manager to finalize offer letters and contracts;
+    * Working with the Hiring Manager, Finance department, Senior Talent Manager, and Operations team to finalize offer letters and contracts;
     * Assisting in procuring background, due diligence, and reference checks;
     * Supporting the onboarding process by gathering personal documents and information of new hires and scheduling onboarding trainings
 
