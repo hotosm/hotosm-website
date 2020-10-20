@@ -18,7 +18,7 @@ Project:
 Congratulations to the five OpenStreetMap (OSM) Communities who have been awarded Facebook Community Impact Microgrants. The grants, which support community engagement and training activities, have been awarded to communities in the Philippines, Turkey, Uganda, Kenya, and Zambia. For the next three months, the following projects will be completed: 
 
 ### MapBeks 
-MapBeks is an online community of volunteers advocating for LGBTQ inclusion and representation through various mapping platforms like OpenStreetMap. They are also engaged in mapping LGBTQ-safe spaces and experiences, HIV/AIDS facilities and COVID facilities, as well as supporting emerging mapping communities. 
+MapBeks is an online community of volunteers advocating for LGBTQ inclusion and representation through various mapping platforms like OpenStreetMap. They are also engaged in mapping LGBTQ-safe spaces and experiences, HIV/AIDS facilities, and COVID facilities, as well as supporting emerging mapping communities. 
 
 The MapBeks Community, led by 14 core volunteers from the Philippines, will be completing basemaps for the 24 most unmapped towns in the Philippines, which are home to more than 500,000 people. They will be training and engaging with LGBTQ organizations, individuals and allies to map out buildings and roads in the selected areas. 
 
