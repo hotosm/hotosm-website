@@ -1,7 +1,6 @@
 ---
 title: 'Mwanza Urban Risks Mapping: Ramani Mwanza'
 date: 2020-10-22 09:08:00 Z
-published: false
 Project Summary Text: 'Community Mapping of Urban Risks in Mwanza aims to produce
   high-quality, ground-truth spatial information and urban risks data for selected
   wards in Ilemela and Nyamagana municipalities. '
