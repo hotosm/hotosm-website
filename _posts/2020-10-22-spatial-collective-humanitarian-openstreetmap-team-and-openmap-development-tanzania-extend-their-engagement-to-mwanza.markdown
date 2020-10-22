@@ -7,6 +7,8 @@ Feature Image: "/uploads/Mwanza1.png"
 Person: Hawa Adinani
 Country:
 - Tanzania
+Project:
+- 'Mwanza Urban Risks Mapping: Ramani Mwanza'
 ---
 
 *Photo credit: Primoz Kovacic, Spatial Collective*
