@@ -2,15 +2,13 @@
 title: 'Mwanza Urban Risks Mapping: Ramani Mwanza'
 date: 2020-10-22 09:08:00 Z
 published: false
-Project Summary Text: 'Building on the previous projects of [Ramani Huria](https://ramanihuria.org/en/)
-  and [Zanzibar Mapping](http://www.zanzibarmapping.org/), a consortium made up of
-  [Spatial Collective](http://spatialcollective.com/), the Humanitarian OpenStreetMap
-  Team, and [OpenMap Development Tanzania](https://www.omdtz.or.tz/) recently extended
-  their operations to Mwanza City. Under the banner of the [Tanzania Urban Resilience
-  Program  (TURP)](https://www.worldbank.org/en/programs/tanzania-urban-resilience-program),
-  the aim of Community Mapping of Urban Risks in Mwanza is to produce high-quality,
-  ground-truth spatial information and urban risks data for selected wards in Ilemela
-  and Nyamagana municipalities. '
+Project Summary Text: 'Building on the previous projects of Ramani Huria and Zanzibar
+  Mapping, a consortium made up of Spatial Collective, the Humanitarian OpenStreetMap
+  Team, and OpenMap Development Tanzania recently extended their operations to Mwanza
+  City. Under the banner of the Tanzania Urban Resilience Program  (TURP), the aim
+  of Community Mapping of Urban Risks in Mwanza is to produce high-quality, ground-truth
+  spatial information and urban risks data for selected wards in Ilemela and Nyamagana
+  municipalities. '
 Feature Image: "/uploads/Mwanza1.png"
 Country:
 - Tanzania
