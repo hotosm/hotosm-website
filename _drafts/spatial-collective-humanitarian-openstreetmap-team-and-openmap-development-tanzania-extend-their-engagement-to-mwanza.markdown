@@ -2,9 +2,11 @@
 title: Spatial Collective, Humanitarian OpenStreetMap Team, and OpenMap Development
   Tanzania extend their engagement to Mwanza
 date: 2020-10-22 08:23:00 Z
-Summary Text: 'Spatial Collective, Humanitarian OpenStreetMap Team, and OpenMap Development
-  Tanzania extend their engagement to Mwanza '
+Summary Text: Community Mapping for Urban Risk in Mwanza, Tanzania
 Feature Image: "/uploads/Mwanza1.png"
+Person: Hawa Adinani
+Country:
+- Tanzania
 ---
 
 *Photo credit: Primoz Kovacic*
