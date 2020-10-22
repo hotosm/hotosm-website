@@ -1,7 +1,7 @@
 ---
 title: HR Manager
 date: 2020-09-18 19:21:00 Z
-Deadline Date: 2020-10-27 00:00:00 Z
+Deadline Date: 2020-11-03 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScf-yNuV4_x8nNH-R43Dbr8jTCiPJ-bCF2F8nwZQY-92zlQFQ/viewform?usp=sf_link
 ---
@@ -10,7 +10,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLScf-yNuV4_x8nNH-R43Dbr
 
 **Location/Duty Station:** Remote 
 
-**Deadline:** October 27, 2020
+**Deadline:** November 3, 2020
 
 **Projected start date:** December 1, 2020
 
