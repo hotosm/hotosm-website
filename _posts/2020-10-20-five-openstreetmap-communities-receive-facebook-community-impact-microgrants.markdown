@@ -42,4 +42,4 @@ OSM Zambia is working with the Lusaka City Council (LCC) in Lusaka, Zambia, to m
 ### OSM Kenya and YouthMappers Kenya  
 OSM Kenya and Youth Mappers Kenya, will be mapping health facilities in Nairobi and the surrounding counties. The community will be using data sources published in a survey completed by GlaxoSmithKline in 2019. Services that support female health, such as gynecology and maternal health, will be added to open source platforms. The project will be led by Youth Mappers Kenya and OSM Kenya, and Map Kibera will support the administration of the project and help to host and coordinate its activities. 
 
-**The Community Impact Microgrants program is kindly supported by Facebook.**
+### *The Community Impact Microgrants program is kindly supported by Facebook.*
