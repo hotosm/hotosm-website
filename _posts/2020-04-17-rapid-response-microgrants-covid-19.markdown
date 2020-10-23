@@ -9,8 +9,8 @@ Person:
 - Rebecca Firth
 - Geoffrey Kateregga
 Project:
-- 
 - HOT COVID-19 RESPONSE
+- 'Community development: Microgrants and Device Grants'
 ---
 
 At HOT, we’re focusing on supporting vulnerable communities living in areas where existing crises may be intensified by the outbreak. For example, displaced people living in refugee camps or informal settlements, and those with additional vulnerability (e.g. places with a high incidence of TB or HIV/AIDS) could be at greater risk if they are not formally recognized as a high-risk community.
