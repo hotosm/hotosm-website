@@ -17,9 +17,9 @@ Partner:
 - U.K. Department for International Development (DfID)
 ---
 
-Tanzania is the most flood-affected country in East Africa, and city governments across the country are underprepared to meet the challenges of urbanization, including the increased vulnerability to climate-related hazards. At the same time, Tanzanian towns and cities have undergone a massive spatial expansion. 
+Tanzania is the most flood-affected country in East Africa, and city governments across the country are underprepared to meet the challenges of urbanization, including the increased vulnerability to climate-related hazards. At the same time, Tanzanian towns and cities have undergone a massive spatial expansion.
 
-In Dar es Salaam, an estimated 70-80 percent of residents live in unplanned settlements. These areas are typically characterized by limited access to adequate municipal services - water, sanitation, solid waste, electricity - and associated infrastructure, notably drainage. Together, these shortcomings contribute to a deterioration of environmental conditions and the presence of major health and safety risks, which are particularly acute at times of flooding. In Dar es Salaam, floods in 2009, 2011, and 2014 caused injury and loss of life, while also severely impacting diverse sectors including transportation, energy, and social infrastructures such as schools and health facilities. 
+In Dar es Salaam, an estimated 70-80 percent of residents live in unplanned settlements. These areas are typically characterized by limited access to adequate municipal services - water, sanitation, solid waste, electricity - and associated infrastructure, notably drainage. Together, these shortcomings contribute to a deterioration of environmental conditions and the presence of major health and safety risks, which are particularly acute at times of flooding. In Dar es Salaam, floods in 2009, 2011, and 2014 caused injury and loss of life, while also severely impacting diverse sectors including transportation, energy, and social infrastructures such as schools and health facilities.
 
 In response to these issues, the World Bank has formed a partnership with the UK Department for International Development (DFID) and established the Tanzania Urban Resilience Program (TURP). The main objective of the TURP is to support national and local governments in Tanzania in strengthening the management of climate risk in cities. Through the program, Tanzania will further address challenges to the generation of climate risk data and information for urban management, the application of urban and land use planning tools for risk reduction, and the identification and construction of climate-smart infrastructure.
 
@@ -29,18 +29,23 @@ HOT and OMDTZ are leading a series of short urban mapping campaigns over a 6-mon
 
 Specifically, the project is expected to:
 
-1: Generate up-to-date open data on COVID-19 hotspots in informal settlements in Dar es Salaam: expand on the freely available, public domain multilayer maps of OpenStreetMap and make it ready-to-use for economists and epidemiology modelers as a part of the World Bank’s response to COVID-19 in East Africa. This includes a review of existing data and subsequent complementary work to update and verify it according to user needs. 
-
+1: Generate up-to-date open data on COVID-19 hotspots in informal settlements in Dar es Salaam: expand on the freely available, public domain multilayer maps of OpenStreetMap and make it ready-to-use for economists and epidemiology modelers as a part of the World Bank’s response to COVID-19 in East Africa. This includes a review of existing data and subsequent complementary work to update and verify it according to user needs.
 Expected data includes:
 
 * Communal water facilities (e.g., water kiosks, pumps, tanks, and towers)
+
 * Public toilets
+
 * Grocery shops (e.g., markets, informal vendors, supermarkets)
-* Religious facilities 
-* Pharmacies 
+
+* Religious facilities
+
+* Pharmacies
+
 * Medical facilities; hospitals, clinics, medical centers
+
 * Transportation; bus stations, daladala routes, BRT routes
-	
+
 2: Dar es Salaam 2020 Building exposure update: Generate high-quality building roof print polygons in machine-readable GIS format derived from aerial and satellite (Maxar) imagery provided by the Bank. This building layer is expected to be an update from previous work using 2016 aerial imagery.
 
 3: Household flood incidents mapping: Deploy appropriate methods to digitize flood histories in a sample of wards, investigating typical and maximum flood depth based on community reports, including the timing of maximum flood depth.
