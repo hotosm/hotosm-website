@@ -51,9 +51,3 @@ Aside from collecting field data for PhilAWARE, HOT Philippines is also helping 
 Aside from field work, HOT Philippines is also entertaining partnerships with organizations in the Philippines. With the help of Adityo and Tri from HOT Indonesia, HOT Philippines held a Road Mapping Event with MMC. The team is also building a network with AUDEO and the Philippine Coalition for Volunteerism, and we recently confirmed an event media partnership with UP Babaylan - Clark Chapter.
 
 *Fore more updates on the PhilAWARE project, follow us on Facebook @HOTOSMPhilippines and Twitter @hotosm_ph. You can view the team’s day-to-day photo and video updates in our Field: Pampanga highlight on Instagram @hotosm_ph.*
-
-**Partnerships and Other Activities**
-
-Aside from field work, HOT Philippines is also entertaining partnerships with organizations in the Philippines. With the help of Adityo and Tri from HOT Indonesia, HOT Philippines held a Road Mapping Event with MMC. The team is also building a network with AUDEO and the Philippine Coalition for Volunteerism, and we recently confirmed an event media partnership with UP Babaylan - Clark Chapter.
-
-*Fore more updates on the PhilAWARE project, follow us on Facebook @HOTOSMPhilippines and Twitter @hotosm_ph. You can view the team’s day-to-day photo and video updates in our Field: Pampanga highlight on Instagram @hotosm_ph.*
