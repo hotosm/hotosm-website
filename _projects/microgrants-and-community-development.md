@@ -31,14 +31,12 @@ Country:
 - Turkey
 - Uganda
 - Zambia
-Impact Area: 
 Person:
 - Rebecca Firth
 - 'Amelia Hunt '
 - 
 Duration:
   Start Date: 2017-01-01 00:00:00 Z
-  End Date: 2018-12-31 00:00:00 Z
 Summary Text: OpenStreetMap community leaders are achieving amazing results leading
   local initiatives to map the places they live in response to disaster risks, and
   to contribute to the Sustainable Development Goals. HOT supports these projects
