@@ -10,7 +10,12 @@ Person:
 - Sophie Mower
 Working Group:
 - Community
+Country:
+- Democratic Republic of the Congo
+- Nigeria
+- Senegal
 Project:
+- HOT COVID-19 RESPONSE
 - 'Community development: Microgrants and Device Grants'
 ---
 
