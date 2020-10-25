@@ -1,7 +1,7 @@
 ---
 title: Philippines Celebrates International Day for Disaster Risk Reduction with Field
   Narratives
-date: 2020-10-25 12:00:00 Z
+date: 2020-10-23 12:00:00 Z
 Summary Text: In celebration of IDDRR, HOT Philippines presents more of the field
   work in Pampanga — coordinating with LGUs, training volunteers, and collecting field
   data.
