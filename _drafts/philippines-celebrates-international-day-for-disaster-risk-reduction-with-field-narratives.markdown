@@ -3,7 +3,7 @@ title: Philippines Celebrates International Day for Disaster Risk Reduction with
   Narratives
 date: 2020-10-23 12:00:00 Z
 Summary Text: In celebration of IDDRR, HOT Philippines presents more of the field
-  work in Pampanga—coordinating with LGUs, training volunteers, and collecting field
+  work in Pampanga — coordinating with LGUs, training volunteers, and collecting field
   data.
 Feature Image: "/uploads/Newsletter-88fa7c.png"
 Person: Jikka Defiño
@@ -36,7 +36,7 @@ Aside from field trainings, HOT Philippines also conducted remote mapping traini
 
 As of this writing, the field mapping team is mapping Lubao, their sixth scheduled municipality in Pampanga. On 22 October, 2020 the team collected field data for critical lifeline infrastructures in three barangays (local administrative areas) near the Pampanga River.
 
-In heavily populated and building-dense areas, collecting data for critical lifeline infrastructure alone can be time-consuming, but the team also values accuracy. “Halos buong araw nilakad namin ’tong daan dati kasi sobrang daming puwedeng ilagay \[na data\]" - *We walked this road for almost a whole day before since there’s so much data we could gather* - a team member shared as our service vehicle ran through a long stretch of road on the way to the riverbank.
+In heavily populated and building-dense areas, collecting data for critical lifeline infrastructure alone can be time-consuming, but the team also values accuracy. “Halos buong araw nilakad namin ’tong daan dati kasi sobrang daming puwedeng ilagay \[na data\]" — *We walked this road for almost a whole day before since there’s so much data we could gather* - a team member shared as our service vehicle ran through a long stretch of road on the way to the riverbank.
 
 Aimon Pangan, one of our Data Validation Leads, detailed the team's increased efforts and their standardized procedure to collect field data faster. “Pupuntahan namin ‘yung barangay hall tapos itatanong namin kung saan o paano madaling puntahan ‘yung \[critical lifeline\] infrastructures sa listahan. Pagkatapos, sasamahan na nila kami para madali” - *We go to the barangay hall to ask where and how to locate critical lifeline infrastructures on the list. Then, the locals come with us so it’s easier.*
 
