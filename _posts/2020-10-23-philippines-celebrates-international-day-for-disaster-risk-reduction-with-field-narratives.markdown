@@ -16,7 +16,7 @@ Project:
 - 'Data-Driven Disaster Risk Management: PhilAWARE'
 ---
 
-The International Day for Disaster Risk Reduction, observed every 13 October, aims to raise awareness of what people and communities are doing to lessen their risk to disasters. In this monthly update, HOT Philippines shares its work in the field for [PhilAWARE](https://www.hotosm.org/projects/data-driven-disaster-risk-management-philaware/), a disaster risk reduction project.
+The International Day for Disaster Risk Reduction, observed every 13 October, aims to raise awareness of what people and communities are doing to lessen their risk to disasters. In this monthly update, HOT Philippines shares about its work in the field for [PhilAWARE](https://www.hotosm.org/projects/data-driven-disaster-risk-management-philaware/), a disaster risk reduction project.
 
 ### Coordinating with LGUs
 
