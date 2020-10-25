@@ -38,7 +38,7 @@ As of this writing, the field mapping team is mapping Lubao, their sixth schedul
 
 In heavily populated and building-dense areas, collecting data for critical lifeline infrastructure alone can be time-consuming, but the team also values accuracy. “Halos buong araw nilakad namin ’tong daan dati kasi sobrang daming puwedeng ilagay \[na data\]" — *We walked this road for almost a whole day before since there’s so much data we could gather* — a team member shared as their service vehicle ran through a long stretch of road on the way to the riverbank.
 
-Aimon Pangan, one of the team's Data Validation Leads, detailed the team's increased efforts and their standardized procedure to collect field data faster. “Pupuntahan namin ‘yung barangay hall tapos itatanong namin kung saan o paano madaling puntahan ‘yung \[critical lifeline\] infrastructures sa listahan. Pagkatapos, sasamahan na nila kami para madali.” - *We go to the barangay hall to ask where and how to locate critical lifeline infrastructures on the list. Then, the locals come with us so it’s easier.*
+Aimon Pangan, one of the team's Data Validation Leads, detailed the team's increased efforts and their standardized procedure to collect field data faster. “Pupuntahan namin ‘yung barangay hall tapos itatanong namin kung saan o paano madaling puntahan ‘yung \[critical lifeline\] infrastructures sa listahan. Pagkatapos, sasamahan na nila kami para madali.” — *We go to the barangay hall to ask where and how to locate critical lifeline infrastructures on the list. Then, the locals come with us so it’s easier.*
 
 ![Pampanga - Critical Lifeline Infrastructure - clockwise from top left.png](/uploads/Pampanga%20-%20Critical%20Lifeline%20Infrastructure%20-%20clockwise%20from%20top%20left.png)\
 
