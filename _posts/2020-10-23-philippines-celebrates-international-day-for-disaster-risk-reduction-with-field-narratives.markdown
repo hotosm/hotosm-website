@@ -52,7 +52,7 @@ Aside from collecting field data for PhilAWARE, HOT Philippines is also helping 
 
 ![Pampanga - Critical Lifeline Infrastructure - clockwise from top left.png](/uploads/Pampanga%20-%20Critical%20Lifeline%20Infrastructure%20-%20clockwise%20from%20top%20left.png)
 
-*Added and updated critical lifeline infrastructures in Pampanga*
+*Added and updated critical lifeline infrastructures in Pampanga (clockwise from top left: Guagua, Bacolor, Sta. Ana, Porac)*
 
 ### Partnerships and Other Activities
 
