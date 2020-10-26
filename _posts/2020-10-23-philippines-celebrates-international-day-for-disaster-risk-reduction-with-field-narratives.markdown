@@ -22,7 +22,7 @@ The International Day for Disaster Risk Reduction, observed every 13 October, ai
 
 Before HOT teams can proceed with any field activity, HOT representatives must first meet with local government units (LGUs) in each municipality. Our Country Manager, Bry Damasco, and Community and Volunteer Manager, Joji Bonilla, are in charge of coordinating schedules with LGUs.
 
-![coordinating.png](/uploads/coordinating.png)
+![coordinating-d4c923.png](/uploads/coordinating-d4c923.png)
 
 Most of the coordination is done remotely, but in some cases, the team meets with LGUs personally to provide details of the PhilAWARE project. This month, the team coordinated a follow-up meeting with the National Commission on Indigenous Peoples and tribe leaders in Pampanga to ask for permission to map ancestral land.
 
@@ -42,15 +42,17 @@ As of this writing, the field mapping team is mapping Lubao, their sixth schedul
 
 ![ezgif.com-resize.gif](/uploads/ezgif.com-resize.gif)
 
-In heavily populated and building-dense areas, collecting data for critical lifeline infrastructure alone can be time-consuming, but the team also values accuracy. “Halos buong araw nilakad namin ’tong daan dati kasi sobrang daming puwedeng ilagay \[na data\]" — *We walked this road for almost a whole day before since there’s so much data we could gather* — Mike Gabriel shared as their service vehicle ran through a long stretch of road on the way to the riverbank.
+In heavily populated and building-dense areas, collecting data for critical lifeline infrastructure alone can be time-consuming, but the team also values accuracy. “Halos buong araw nilakad namin ’tong daan dati kasi sobrang daming puwedeng ilagay \[na data\]" — *We walked this road for almost a whole day before since there’s so much data we could gather* — Mike Gabriel, one of the team's Data Validation Leads, shared as their service vehicle ran through a long stretch of road on the way to the riverbank.
 
 Aimon Pangan, one of the team's Data Validation Leads, detailed the team's increased efforts and their standardized procedure to collect field data faster. “Pupuntahan namin ‘yung barangay hall tapos itatanong namin kung saan o paano madaling puntahan ‘yung \[critical lifeline\] infrastructures sa listahan. Pagkatapos, sasamahan na nila kami para madali.” — *We go to the barangay hall to ask where and how to locate critical lifeline infrastructures on the list. Then, the locals come with us so it’s easier.*
+
+![Lubao - Pampanga.jpg](/uploads/Lubao%20-%20Pampanga.jpg)
+
+Aside from collecting field data for PhilAWARE, HOT Philippines is also helping out with the OSMaPaaralan project by supplying data and validating schools in Pampanga. Some of the added information includes whether or not schools are used as evacuation centers.
 
 ![Pampanga - Critical Lifeline Infrastructure - clockwise from top left.png](/uploads/Pampanga%20-%20Critical%20Lifeline%20Infrastructure%20-%20clockwise%20from%20top%20left.png)
 
 *Added and updated critical lifeline infrastructures in Pampanga*
-
-Aside from collecting field data for PhilAWARE, HOT Philippines is also helping out with the OSMaPaaralan project by supplying data and validating schools in Pampanga. Some of the added information includes whether or not schools are used as evacuation centers.
 
 ### Partnerships and Other Activities
 
