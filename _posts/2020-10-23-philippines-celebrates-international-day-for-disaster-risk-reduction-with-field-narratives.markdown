@@ -24,6 +24,8 @@ Before HOT teams can proceed with any field activity, HOT representatives must f
 
 ![coordinating-d4c923.png](/uploads/coordinating-d4c923.png)
 
+*Presenting OpenStreetMap and the PhilAWARE project to the National Commission on Indigenous Peoples (left), and signing a MOA with Guagua Mayor Dante Torres (right)*
+
 Most of the coordination is done remotely, but in some cases, the team meets with LGUs personally to provide details of the PhilAWARE project. This month, the team coordinated a follow-up meeting with the National Commission on Indigenous Peoples and tribe leaders in Pampanga to ask for permission to map ancestral land.
 
 Field movement during a pandemic is not without challenges. On different occasions, confirmed schedules had to be postponed because certain areas implemented localized lockdowns due to COVID-19.
@@ -44,7 +46,7 @@ As of this writing, the field mapping team is mapping Lubao, their sixth schedul
 
 In heavily populated and building-dense areas, collecting data for critical lifeline infrastructure alone can be time-consuming, but the team also values accuracy. “Halos buong araw nilakad namin ’tong daan dati kasi sobrang daming puwedeng ilagay \[na data\]" — *We walked this road for almost a whole day before since there’s so much data we could gather* — Mike Gabriel, one of the team's Data Validation Leads, shared as their service vehicle ran through a long stretch of road on the way to the riverbank.
 
-Aimon Pangan, one of the team's Data Validation Leads, detailed the team's increased efforts and their standardized procedure to collect field data faster. “Pupuntahan namin ‘yung barangay hall tapos itatanong namin kung saan o paano madaling puntahan ‘yung \[critical lifeline\] infrastructures sa listahan. Pagkatapos, sasamahan na nila kami para madali.” — *We go to the barangay hall to ask where and how to locate critical lifeline infrastructures on the list. Then, the locals come with us so it’s easier.*
+Aimon Pangan, one of the team's Data Validation Leads, detailed the team's increased efforts and their standardized procedure to collect field data faster. “Pinupuntahan namin ‘yung barangay hall tapos itatanong namin kung saan o paano madaling puntahan ‘yung \[critical lifeline\] infrastructures sa listahan \[namin\]. Pagkatapos, sasamahan na nila kami para madali.” — *We go to the barangay hall to ask where and how to locate critical lifeline infrastructures on our list. Then, the locals come with us so it’s easier.*
 
 ![Lubao - Pampanga.jpg](/uploads/Lubao%20-%20Pampanga.jpg)
 
