@@ -22,6 +22,8 @@ The International Day for Disaster Risk Reduction, observed every 13 October, ai
 
 Before HOT teams can proceed with any field activity, HOT representatives must first meet with local government units (LGUs) in each municipality. Our Country Manager, Bry Damasco, and Community and Volunteer Manager, Joji Bonilla, are in charge of coordinating schedules with LGUs.
 
+![coordinating.png](/uploads/coordinating.png)
+
 Most of the coordination is done remotely, but in some cases, the team meets with LGUs personally to provide details of the PhilAWARE project. This month, the team coordinated a follow-up meeting with the National Commission on Indigenous Peoples and tribe leaders in Pampanga to ask for permission to map ancestral land.
 
 Field movement during a pandemic is not without challenges. On different occasions, confirmed schedules had to be postponed because certain areas implemented localized lockdowns due to COVID-19.
@@ -29,6 +31,8 @@ Field movement during a pandemic is not without challenges. On different occasio
 ### Field and Remote Trainings
 
 This month, HOT Philippines conducted OSM and field mapping trainings for six local government units: San Simon (October 1-2), Mexico (October 6-7), Sasmuan (October 13-14), Masantol (October 22-23), Macabebe (October 22-23), and Santo Tomas (October 22-23).
+
+![trainings.png](/uploads/trainings.png)
 
 Aside from field trainings, HOT Philippines also conducted remote mapping trainings for German Red Cross volunteers on 6, 8, and 9 October.
 
@@ -40,7 +44,7 @@ In heavily populated and building-dense areas, collecting data for critical life
 
 Aimon Pangan, one of the team's Data Validation Leads, detailed the team's increased efforts and their standardized procedure to collect field data faster. “Pupuntahan namin ‘yung barangay hall tapos itatanong namin kung saan o paano madaling puntahan ‘yung \[critical lifeline\] infrastructures sa listahan. Pagkatapos, sasamahan na nila kami para madali.” — *We go to the barangay hall to ask where and how to locate critical lifeline infrastructures on the list. Then, the locals come with us so it’s easier.*
 
-![Pampanga - Critical Lifeline Infrastructure - clockwise from top left.png](/uploads/Pampanga%20-%20Critical%20Lifeline%20Infrastructure%20-%20clockwise%20from%20top%20left.png)\
+![Pampanga - Critical Lifeline Infrastructure - clockwise from top left.png](/uploads/Pampanga%20-%20Critical%20Lifeline%20Infrastructure%20-%20clockwise%20from%20top%20left.png)
 
 *Added and updated critical lifeline infrastructures in Pampanga*
 
