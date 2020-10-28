@@ -32,7 +32,7 @@ Field movement during a pandemic is not without challenges. On different occasio
 
 ### Field and Remote Trainings
 
-This month, HOT Philippines conducted OSM and field mapping trainings for six local government units: San Simon (October 1-2), Mexico (October 6-7), Sasmuan (October 13-14), Masantol (October 22-23), Macabebe (October 22-23), and Santo Tomas (October 22-23).
+This month, HOT Philippines conducted OSM and field mapping trainings for six local government units: San Simon (October 1-2), Mexico (October 6-7), Sasmuan (October 13-14), Masantol (October 22-23), Macabebe (October 22-23), and Santo Tomas (October 22-23). On days when field trainings overlap schedules across municipalities, one of our Data Validation Leads, Honey Fombuena, helps in training volunteers from LGUs. 
 
 ![trainings.png](/uploads/trainings.png)
 
@@ -50,7 +50,7 @@ Aimon Pangan, one of the team's Data Validation Leads, detailed the team's incre
 
 ![Lubao - Pampanga.jpg](/uploads/Lubao%20-%20Pampanga.jpg)
 
-Aside from collecting field data for PhilAWARE, HOT Philippines is also helping out with the OSMaPaaralan project by supplying data and validating schools in Pampanga. Some of the added information includes whether or not schools are used as evacuation centers.
+Aside from collecting field data for PhilAWARE, HOT Philippines is also helping out with the [OSMaPaaralan project by supplying data and validating schools in Pampanga](https://maproulette.org/browse/challenges/9413). Some of the added information includes whether or not schools are used as evacuation centers.
 
 ![Pampanga - Critical Lifeline Infrastructure - clockwise from top left.png](/uploads/Pampanga%20-%20Critical%20Lifeline%20Infrastructure%20-%20clockwise%20from%20top%20left.png)
 
