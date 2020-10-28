@@ -32,7 +32,7 @@ Field movement during a pandemic is not without challenges. On different occasio
 
 ### Field and Remote Trainings
 
-This month, HOT Philippines conducted OSM and field mapping trainings for six local government units: San Simon (October 1-2), Mexico (October 6-7), Sasmuan (October 13-14), Masantol (October 22-23), Macabebe (October 22-23), and Santo Tomas (October 22-23). On days when field trainings overlap schedules across municipalities, one of our Data Validation Leads, Honey Fombuena, helps in training volunteers from LGUs. 
+This month, HOT Philippines conducted OSM and field mapping trainings for six local government units: San Simon (October 1-2), Mexico (October 6-7), Sasmuan (October 13-14), Masantol (October 22-23), Macabebe (October 22-23), and Santo Tomas (October 22-23). On days when field trainings overlap schedules across municipalities, one of our Data Validation Leads, Honey Fombuena, helps in training volunteers from LGUs.
 
 ![trainings.png](/uploads/trainings.png)
 
@@ -58,6 +58,6 @@ Aside from collecting field data for PhilAWARE, HOT Philippines is also helping 
 
 ### Partnerships and Other Activities
 
-Aside from fieldwork, HOT Philippines is also engaging in partnerships with other organizations in the Philippines. With the help of Adityo and Tri from HOT Indonesia, HOT Philippines held a Road Mapping Event with MMC. The team is also building a network with AUDEO and the Philippine Coalition for Volunteerism, and recently confirmed an event media partnership with UP Babaylan - Clark Chapter.
+Aside from fieldwork, HOT Philippines is also engaging in partnerships with other organizations in the Philippines. With the help of Adityo and Tri from HOT Indonesia, HOT Philippines held a Road Mapping Event with MMC. The team is also building a network with AUDEO and the Philippine Coalition for Volunteerism, and has recently confirmed advertising partnership with [MapBeks](https://www.facebook.com/mapbeks) for [#UNMAPPEDPH 2020 Mapping Contest](https://docs.google.com/forms/d/e/1FAIpQLSec_IVSFryh28sTMP3MqlALqT9gNZDAt4dWewUR7wdX925xpQ/viewform).
 
 *For more updates on the [PhilAWARE project](https://www.hotosm.org/projects/data-driven-disaster-risk-management-philaware/), follow them on Facebook [@HOTOSMPhilippines](https://www.facebook.com/HOTOSMPhilippines/) and Twitter [@hotosm_ph](https://twitter.com/hotosm_ph?lang=en). You can view the team’s day-to-day photo and video updates in the Field: Pampanga highlight feed on Instagram [@hotosm_ph](https://www.instagram.com/hotosm_ph/).*
