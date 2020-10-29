@@ -76,4 +76,5 @@ Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of 
 * HOT offers a work-from-anywhere culture, flexible working arrangements, a variety of health care options, retirement savings plans, and 24 days of annual leave for all full-time employees, in addition to 12 paid holidays. 
 
 ## To Apply
-Please complete the form attached/linked [here](https://docs.google.com/forms/d/e/1FAIpQLSdfeFN-zGWvJAWwRKPySxStppE3MgWIcvWXORwjLd2jVfWY_g/viewform?usp=sf_link). **Continue to the second page** to upload your CV/resume. Your CV/resume should not exceed 2 pages. If invited to an interview, expect to hear by mid-September via email. Please check junk/spam folder.
+
+The application period for this position has closed.
