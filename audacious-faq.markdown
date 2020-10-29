@@ -53,9 +53,9 @@ Over the next five years, HOT plans to work in 94 countries, which are broken do
 
 * **East Africa:** 21 countries
 
-* **West Africa:** 22 countries
+* **West Africa:** 26 countries
 
-* **Latin America/Caribbean:** 26 countries
+* **Latin America/Caribbean:** 22 countries
 
 During the regional hub inception phase, the list of countries a hub will work in will be reviewed and adapted. Before HOT begins supporting mapping work in a country, the hub will confirm which part of that country will be the priority for the project. A preliminary list of the countries where HOT will work will be posted on hotosm.org by July 2020. It is expected that the preliminary list may change slightly over time due to Covid-19, analysis/recommendations by HOT regional staff, donor requirements, or other reasons.
 
