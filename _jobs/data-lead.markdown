@@ -1,7 +1,6 @@
 ---
 title: Data Lead
 date: 2020-10-29 05:02:00 Z
-published: false
 Deadline Date: 2020-11-19 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdQlX6ekvV7m31ehhZrNXRhur2WJFcDUugRUEiHP8Rgc42K_w/viewform?usp=sf_link
@@ -11,7 +10,7 @@ Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdQlX6ekvV7m31ehhZrNXR
 
 **Level of effort:** Full time
 
-**Location:** Remote; 10-20% international travel once safe/feasible.
+**Location:** Remote; 10-20% international travel once safe/feasible
 
 **Reports to:** Director of Programs
 
@@ -29,7 +28,7 @@ The Data Lead will help HOT build a new Responsible Data team that will develop 
 
 * **Data ethics, privacy, and protection:** Covering both ‘Remote’ data creation (from satellite imagery and other sources) and field data collection, including data privacy, protection and informed consent
 
-* **Data quality:** That humanitarian partners and the OpenStreetMap community benefit from collected data and maps is critical in ensuring HOT’s efforts are useful and meaningful. Quality Assurance, Quality Control, and data validation; data storage; data analysis; and meaningful availability and accessibility of data, 
+* **Data quality:** That humanitarian partners and the OpenStreetMap community benefit from collected data and maps is critical in ensuring HOT’s efforts are useful and meaningful. Quality Assurance, Quality Control, and data validation; data storage; data analysis; and meaningful availability and accessibility of data 
 
 * **Data literacy:** Developing HOT’s capacity to support the global OpenStreetMap movement and OSM communities in responsible collection, analysis, visualisation, and communication of data
 
@@ -40,11 +39,11 @@ This is a full time position on the basis of remote work initially, but will lik
 * Connected and with an expansive network in the field of (humanitarian) data and ethics, principles and values, and the practical challenges associated with respect to geospatial data and ‘big’ data.
 * Aware of the technological landscape around, and experience with, GIS, remote sensing, (mobile) data collection, large scale data storage and processing and associated fields versus privacy, protection, and other humanitarian and ethical principles.
 * Well versed in the different layers and aspects of data quality and QA, and approaches to managing this at a very large scale.
-* Eager to learn, inquisitive, and questioning. You should be the kind of person people want to come to with questions, or issues.
+* Eager to learn, inquisitive, and questioning. You should be the kind of person people want to come to with questions or issues.
 * Able to explain abstract concepts well - and to translate these to actionable frameworks and planning. Have very strong written communication skills and ability to communicate ideas and concepts digitally. 
-* Demonstrated experience handling conflict situations, negotiation, and encouraging collaboration, compromise and shared solutions.
+* Demonstrated experience handling conflict situations, negotiation, and encouraging. collaboration, compromise and shared solutions.
 
-## Responsibilities: 
+## Responsibilities 
 * Build and lead the Responsible Data team. Develop the team’s strategy, vision, roadmaps, budgeting and planning. Support professional growth and open communications within the team, and coordination and support of other teams at HOT.
 * Develop HOT’s policies, procedures, and standards, for ethical and responsible data practices,  adapting our established guidance (e.g. IFRC’s Data Playbook, OCHA Data Responsibility Guidelines, HHI’s Signal Code, Sphere Standards, and other sources) and produce guidance relevant to the OpenStreetMap context.
 * Publish new field guides, workbooks, training materials, and revised data collection forms that reflect and integrate best practices for ethical and responsible data collection among HOT projects, teams, and OpenStreetMap communities.
@@ -52,7 +51,7 @@ This is a full time position on the basis of remote work initially, but will lik
 * Create and foster partnerships with leading individuals and organizations  in the field of open data & licensing, protection, responsible & ethical data collection and use.
 * Source legal advice and assess compatibility and compliance of HOT and OpenStreetMap data, collection, and sharing practices with legal frameworks and requirements in HOT’s 94 priority countries under Audacious, and potentially other implementation contexts.
 * Oversee development of training materials and curriculum, and provision of workshops and trainings on the responsible use of OpenStreetMap maps and data within and outside of HOT.
-* In coordination with the Data Quality Lead and Data Quality Working Group, develop a workflow for monitoring, evaluating, and reporting on the quality of data produced by HOT and HOT OpenStreetMap community partners with periodic data audits to measure usage and effectiveness of these new standards
+* In coordination with the Data Quality Lead and Data Quality Working Group, develop a workflow for monitoring, evaluating, and reporting on the quality of data produced by HOT and HOT OpenStreetMap community partners with periodic data audits to measure usage and effectiveness of these new standards.
 * Coordinate with the Tech team on the planning and implementation of (technological) products, tools and solutions, to ensure these comply with and adhere to HOT’s standards and principles for data collection, storage and analysis.
 * Advise OpenStreetMap communities and other HOT community stakeholders on data quality approaches before and during large scale organized OSM editing campaigns.
 * Promote and advocate HOT’s approach and implementation on ethical and responsible data externally and publicly - speak publicly, consult, and present.
@@ -61,14 +60,14 @@ This is a full time position on the basis of remote work initially, but will lik
 
 **ESSENTIAL**
 * University or college degree in International Development, Data Science, Humanitarian Data and Technology, Human Rights and Ethics, or related fields or equivalent professional experience.
-* Experience in open source or open data communities (please name these in your application)
+* Experience in open source or open data communities (please name these in your application).
 * Significant and verifiable experience, knowledge and awareness with data collection, storage and analysis tools, methodologies and technology, including remote sensing technologies, ‘big’ data and OpenStreetMap.
 * Experience managing a small team of professionals.
 * Experience working remotely and coordinating activities across multiple timezones.
-* Fluency in English, plus conversational in either French or Spanish
+* Fluency in English, plus conversational in either French or Spanish.
 * Empathy and understanding, a good sense of humour and willingness to learn. 
-* Driven, goal-oriented and strives for continuous improvement
-Comfortable with using a wide range of digital platforms.
+* Driven, goal-oriented and strives for continuous improvement.
+* Comfortable with using a wide range of digital platforms.
 
 **DESIRABLE**
 * Experience participating in HOT and OSM Working Groups, particularly the Data Quality Working Group.
