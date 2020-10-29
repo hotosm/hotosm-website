@@ -3,7 +3,6 @@ title: Community Manager - Asia
 date: 2020-09-14 14:13:00 Z
 Deadline Date: 2020-10-09 00:00:00 Z
 Place of Work: Manila, Philippines
-Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdu0L7Ckee7521SycUDWVNUD9asSG4UDA376ZR2Vm0eW9nkzw/viewform?usp=sf_link
 ---
 
 **Contract terms:** Full-time
