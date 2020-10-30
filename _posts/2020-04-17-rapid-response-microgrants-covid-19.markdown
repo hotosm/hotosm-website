@@ -17,7 +17,7 @@ At HOT, we’re focusing on supporting vulnerable communities living in areas wh
 
 Living in unmapped areas could mean that these communities are left out of COVID-19 assistance programs. Right now, it is of the utmost importance that response mechanisms can be effectively planned and disseminated to ensure everyone has access to appropriate health and social care.
 
-As part of our response, HOT is launching **Rapid Response Microgrants: COVID-19**. For these Rapid Response Microgrants, funds are designated specifically for remote-based activities that focus on the global COVID-19 pandemic.
+As part of our response, HOT is launching **Rapid Response Microgrants: COVID-19**. For these [Rapid Response Microgrants](https://www.hotosm.org/community/community-grants/), funds are designated specifically for remote-based activities that focus on the global COVID-19 pandemic.
 
 **Successful projects will:**
 
