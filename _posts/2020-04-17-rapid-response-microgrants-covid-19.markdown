@@ -13,6 +13,8 @@ Project:
 - 'Community development: Microgrants and Device Grants'
 ---
 
+Update: We have been thrilled to announce a [first round](https://www.hotosm.org/updates/hot-rapid-response-microgrants-covid-19-first-round-of-micrograntees-announced/) and a [second round](https://www.hotosm.org/updates/second-round-of-rapid-response-micrograntees-announced/) of Rapid Response Micrograntees.
+
 At HOT, we’re focusing on supporting vulnerable communities living in areas where existing crises may be intensified by the outbreak. For example, displaced people living in refugee camps or informal settlements, and those with additional vulnerability (e.g. places with a high incidence of TB or HIV/AIDS) could be at greater risk if they are not formally recognized as a high-risk community.
 
 Living in unmapped areas could mean that these communities are left out of COVID-19 assistance programs. Right now, it is of the utmost importance that response mechanisms can be effectively planned and disseminated to ensure everyone has access to appropriate health and social care.

@@ -21,7 +21,7 @@ Project:
 
 Congratulations to [OSM DRC](http://openstreetmap.cd), OSM Senegal, and Humanitarian Mappers from Nigeria for being awarded [Rapid Response Microgrants](https://www.hotosm.org/community/community-grants/) to support their COVID-19 related mapping activities! 
 
-This second cohort of Micrograntees will join [Map Kibera](http://www.mapkibera.org), [Map Uganda](http://mapuganda.org/), [iLab Liberia](https://www.ilabliberia.org/), and [Public Lab Mongolia](http://publiclabmongolia.org/) to develop maps to support local responses to the coronavirus pandemic. All of these projects have life-spans of 3-6 months and largely include remote mapping activities. 
+This second cohort of Micrograntees will join the first round of [Micrograntees](https://www.hotosm.org/updates/hot-rapid-response-microgrants-covid-19-first-round-of-micrograntees-announced/), [Map Kibera](http://www.mapkibera.org), [Map Uganda](http://mapuganda.org/), [iLab Liberia](https://www.ilabliberia.org/), and [Public Lab Mongolia](http://publiclabmongolia.org/), to develop maps to support local responses to the coronavirus pandemic. All of these projects have life-spans of 3-6 months and largely include remote mapping activities. 
 
 ### OSM DRC
 

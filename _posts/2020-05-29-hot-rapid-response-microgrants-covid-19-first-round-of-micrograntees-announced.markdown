@@ -53,3 +53,5 @@ Congratulations to the communities that have been selected. The communities and 
 We are looking forward to seeing how the projects develop and the impact that they have. You can find more information about the [HOT Rapid Response Microgrants: COVID-19 Program](https://www.hotosm.org/updates/rapid-response-microgrants-covid-19/) and more information about [HOT’s community grants](https://www.hotosm.org/community/community-grants/) on the HOT website.
 
 Applications for the Rapid Response Microgrants: COVID-19 remain open – selection is rolling and the next round of grantees will be decided on Wednesday 10 June. More information on how to [apply](https://docs.google.com/forms/d/e/1FAIpQLScRmggoVdRaN8wWo70Xwi7fmWC0_bRxpibHZJ1XM0k74-yWNA/viewform) can be found on the [Rapid Response Microgrants COVID-19 blog post](https://www.hotosm.org/updates/rapid-response-microgrants-covid-19/).
+
+Update: We have announced a [second round](https://www.hotosm.org/updates/second-round-of-rapid-response-micrograntees-announced/) of Rapid Response Micrograntee recipients.
