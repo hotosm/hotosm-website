@@ -1,12 +1,11 @@
 ---
 title: HR & Operations Associate
 date: 2020-11-02 11:24:00 Z
-published: false
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd1usEcKl0MgFN2BXLp1qQLOL514NQD_UvddNadww-CNdNrlQ/viewform?usp=sf_link
 ---
 
-**Contract terms:** Full-time (part-time 30+ hours will be considered), 3 months with possibility of extension
+**Contract terms:** Full-time (part-time 30+ hours will be considered); 3 months with possibility of extension
 
 **Location/Duty Station:** Washington, DC or Remote (must overlap with EST time zone for at least 4 hours/day)
 
@@ -40,6 +39,7 @@ HOT is growing quickly and with that growth, we are looking for someone to suppo
 
 **Recruitment**
 * Assist the Sr. Talent Manager and Operations Associate with the recruitment and applicant screening process:
+
     * Format and copy edit job descriptions in line with HOT formatting standards
     * Participate in hiring plan calls with all hiring managers & hiring team; update hiring process tracker throughout the recruitment process
     * Create application forms & post positions on HOT website and external job posting sites. 
