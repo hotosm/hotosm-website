@@ -1,6 +1,7 @@
 ---
 title: HR & Operations Associate
 date: 2020-11-02 11:24:00 Z
+Deadline Date: 2020-11-16 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd1usEcKl0MgFN2BXLp1qQLOL514NQD_UvddNadww-CNdNrlQ/viewform?usp=sf_link
 ---
