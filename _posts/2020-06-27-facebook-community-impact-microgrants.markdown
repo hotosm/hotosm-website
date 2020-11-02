@@ -15,7 +15,7 @@ Project:
 - 'Community development: Microgrants and Device Grants'
 ---
 
-Update: Applications closed Sunday 30th August 2020. We were thrilled to [announce five organizations](https://www.hotosm.org/updates/five-openstreetmap-communities-receive-facebook-community-impact-microgrants/) that were selected to receive Facebook Community Impact Microgrants.
+**Update: Applications closed Sunday 30th August 2020. We were thrilled to [announce five organizations](https://www.hotosm.org/updates/five-openstreetmap-communities-receive-facebook-community-impact-microgrants/) that were selected to receive Facebook Community Impact Microgrants.**
 
 Are you a mapping community that is looking for funding to expand your mapping activities? Do you have ideas about how to engage more people and train your community in how to use OpenStreetMap? If so, you can apply for a HOT Community Impact Microgrant. 
 
