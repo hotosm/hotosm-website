@@ -21,7 +21,7 @@ Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of 
 
 HOT works closely with humanitarian and development partners including the Red Cross, Médecins Sans Frontières, World Bank, and UN OCHA, among others. In 2020, HOT was awarded funding from The Audacious Project. Over the next five years, this funding will enable HOT to scale up its support to local mapping communities with the aim of mapping an area home to one billion people, adding places at high risk of natural disaster or experiencing poverty.
 
-HOT is soliciting applications from experienced mid and senior career digital development and humanitarian professionals to lead HOT’s Responsible Data team, starting November 2020.
+HOT is soliciting applications from experienced mid and senior career digital development and humanitarian professionals to lead HOT’s Responsible Data team, starting December 2020.
 
 # Position overview
 The Data Lead will help HOT build a new Responsible Data team that will develop HOT’s policies, procedures, and strategy on ethical and responsible data collection and use. The Program Manager serves as the focal point for data policy and practice within HOT as well as support OpenStreetMap community partner organizations. Scope of the position includes:
