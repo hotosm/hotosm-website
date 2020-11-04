@@ -1,5 +1,5 @@
 ---
-title: Fall 2020 Disaster Responses
+title: 'Disaster Response Update: Fall 2020'
 date: 2020-11-04 12:53:00 Z
 Summary Text: HOT is responding to disasters that have struck around the world in
   recent weeks. Here's what you can do to help.
