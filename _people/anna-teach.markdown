@@ -4,6 +4,7 @@ date: 2020-09-09 20:58:00 Z
 Photo: "/uploads/Headshot_Anna%20Teach.jpeg"
 Member Type:
   Is Staff: true
+Country: United States
 Job Title: Corporate Partnerships Manager
 ---
 

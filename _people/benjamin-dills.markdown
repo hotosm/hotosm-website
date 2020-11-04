@@ -5,6 +5,7 @@ Photo: "/uploads/Ben%20headshot.jpg"
 Member Type:
   Is Staff: true
 Job Title: Communications Associate
+Country: United States
 ---
 
 Benjamin Dills is HOT's Communications Associate and focuses on HOT's news updates, social media, and newsletter. He first came to HOT as a mapper in 2019 and became an editorial volunteer in early 2020.

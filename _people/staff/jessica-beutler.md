@@ -6,6 +6,7 @@ Member Type:
   Is Staff: true
   Is Voting Member: true
 Job Title: Programs Manager
+Country: United States
 Working Group:
 - Training
 Project:

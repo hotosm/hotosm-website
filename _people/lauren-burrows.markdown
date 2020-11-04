@@ -5,6 +5,7 @@ Photo: "/uploads/LBurrows%20photo%20Nov%202020.jpeg"
 Member Type:
   Is Staff: true
 Job Title: Global Monitoring, Evaluation, Research, and Learning Manager
+Country: United Kingdom
 ---
 
 Lauren is working as the Global Monitoring, Evaluation, Research and Learning Manager supporting the Director of Finance & Impact on the development of the organisation's MERL strategy, metrics and systems. Lauren joined the HOT team in November 2020.

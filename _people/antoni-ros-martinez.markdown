@@ -5,6 +5,7 @@ Photo: "/uploads/RosMartinezA_ProfPicCropped-1e3f66.jpg"
 Member Type:
   Is Staff: true
 Job Title: Disaster Services Program Manager
+Country: Canada
 ---
 
 Toni is the Program Manager of HOT’s Disaster Services Team. He has acquired extensive working knowledge of humanitarian action and disaster management in several complex environments while collaborating with many INGOs. His experience includes an IM-Delegate deployment in Venezuela with the IFRC as well as remote deployments supporting responses in Venezuela and Mozambique with the Federation. With the Canadian Red Cross, Toni has provided mapping support for several domestic large-scale responses, led a volunteer regional emergency response team, and is an active volunteer supporting DRR work with Indigenous communities in Canada. In Indonesia, Toni led an Eco-DRR research project with UNU-EHS & TNC focusing on coastal protection.
