@@ -3,7 +3,7 @@ title: Fall 2020 Disaster Responses
 date: 2020-11-04 12:53:00 Z
 Summary Text: HOT is responding to disasters that have struck around the world in
   recent weeks. Here's what you can do to help.
-Feature Image: "/uploads/Screenshot%202020-11-02%20150826.jpg"
+Feature Image: "/uploads/Q4Disasters2020.PNG"
 Person: Russell Deffner
 Working Group:
 - Activation
