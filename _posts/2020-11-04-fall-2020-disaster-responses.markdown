@@ -6,8 +6,8 @@ Summary Text: Through the Activation Working Group and the Disaster Services Tea
   help.
 Feature Image: "/uploads/Q4Disasters2020.PNG"
 Person:
-- Russell Deffner
 - Disaster Services Team
+- Russell Deffner
 Working Group:
 - Activation
 Country:
