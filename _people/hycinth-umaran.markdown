@@ -1,7 +1,7 @@
 ---
 title: Hycinth Umaran
 date: 2020-11-04 06:25:00 Z
-Photo: "/uploads/mumaran.jpg"
+Photo: "/uploads/mumaran-23a31f.jpg"
 Member Type:
   Is Staff: true
 Job Title: Scrum Master and Agile Coach
