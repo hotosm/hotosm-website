@@ -5,7 +5,9 @@ Summary Text: Through the Activation Working Group and the Disaster Services Tea
   HOT has been responding to disasters around the world. Here's what you can do to
   help.
 Feature Image: "/uploads/Q4Disasters2020.PNG"
-Person: Russell Deffner
+Person:
+- Russell Deffner
+- Disaster Services Team
 Working Group:
 - Activation
 Country:
