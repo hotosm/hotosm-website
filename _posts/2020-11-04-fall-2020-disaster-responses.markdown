@@ -1,8 +1,9 @@
 ---
 title: 'Disaster Response Update: October & November 2020'
 date: 2020-11-04 12:53:00 Z
-Summary Text: HOT is responding to disasters that have struck around the world in
-  recent weeks. Here's what you can do to help.
+Summary Text: Through the Activation Working Group and the Disaster Services Team,
+  HOT has been responding to disasters around the world. Here's what you can do to
+  help.
 Feature Image: "/uploads/Q4Disasters2020.PNG"
 Person: Russell Deffner
 Working Group:
