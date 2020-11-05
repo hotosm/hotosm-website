@@ -1,6 +1,6 @@
 ---
-title: Equipping University Students with Digital Geospatial Skills-- More than 10,000
-  Flood Data Points Mapped in Eight Weeks
+title: 'Equipping University Students with Digital Geospatial Skills: More than 10,000
+  Flood Data Points Mapped in Eight Weeks'
 date: 2020-11-05 14:51:00 Z
 Summary Text: Ramani Huria has been training students in Dar es Salaam and equipping
   them with industrial and technical skill for the 21st Century while generating valuable,
