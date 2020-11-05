@@ -2,9 +2,9 @@
 title: 'Equipping University Students with Digital Geospatial Skills: More than 10,000
   Flood Data Points Mapped in Eight Weeks'
 date: 2020-11-05 14:51:00 Z
-Summary Text: Ramani Huria has been training students in Dar es Salaam and equipping
+Summary Text: 'Ramani Huria has been training students in Dar es Salaam and equipping
   them with industrial and technical skills for the 21st Century while generating
-  valuable, high precision, and low-cost data for flood prediction and preparedness.
+  vital high-precision, low-cost data for flood prediction and preparedness. '
 Feature Image: "/uploads/TZ%20Nov%202020%201A.jpg"
 Person: Hawa Adinani
 Country:
