@@ -46,6 +46,6 @@ HOT’s Board of Directors is a seven-member governing body working virtually ac
 HOT values salary transparency and equity. All HOT salaries globally are set according to a [framework](https://www.hotosm.org/salaries) detailed on our website.
 
 ## To Apply
-Please complete the form attached/linked [here](https://docs.google.com/forms/d/146Gr6_cQ8OgwAz4jmpEteFwCzv-kMQYrqlSiRTY8EBY/edit?usp=sharing). Continue to the second page to upload your CV/resume. Your CV/resume should not exceed 2 pages. If invited to an interview, expect to hear by mid-September via email. Please check junk/spam folder.
+Please complete the form linked [here](https://docs.google.com/forms/d/146Gr6_cQ8OgwAz4jmpEteFwCzv-kMQYrqlSiRTY8EBY/edit?usp=sharing). Continue to the second page to upload your CV/resume. Your CV/resume should not exceed 2 pages. If invited to an interview, expect to hear by mid-September via email. Please check junk/spam folder.
 
 HOT is an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
