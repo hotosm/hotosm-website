@@ -5,6 +5,8 @@ Feature Image: "/uploads/Kenya%20Covid%20-19%20Tracker%20main%20page-265c42.png"
 Is Community-Led: true
 Country:
 - Kenya
+Impact Area:
+- Public Health
 Micrograntee: true
 ---
 
