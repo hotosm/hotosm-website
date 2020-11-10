@@ -2,6 +2,8 @@
 title: 'OSM Zambia: Training to map waste infrastructure and services'
 date: 2020-11-10 14:51:00 Z
 Is Community-Led: true
+Country:
+- Zambia
 Impact Area:
 - Sustainable Cities
 - 
