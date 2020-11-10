@@ -4,6 +4,8 @@ date: 2020-11-10 15:05:00 Z
 Is Community-Led: true
 Country:
 - Liberia
+Impact Area:
+- Public Health
 Duration:
   Start Date: 2020-05-01 00:00:00 Z
 Micrograntee: true
