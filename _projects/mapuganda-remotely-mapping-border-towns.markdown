@@ -5,6 +5,8 @@ Feature Image: "/uploads/Trucks%20at%20Malaba-0c53ea.jpg"
 Is Community-Led: true
 Country:
 - Uganda
+Impact Area:
+- Public Health
 Duration:
   Start Date: 2020-05-01 00:00:00 Z
 Micrograntee: true
