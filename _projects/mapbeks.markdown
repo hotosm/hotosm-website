@@ -10,7 +10,7 @@ Impact Area:
 - Public Health
 Duration:
   Start Date: 2020-10-01 00:00:00 Z
-Micrograntee: 'True'
+Micrograntee: true
 ---
 
 **[Facebook Community Impact Microgrant](https://www.hotosm.org/community/community-grants/)**
