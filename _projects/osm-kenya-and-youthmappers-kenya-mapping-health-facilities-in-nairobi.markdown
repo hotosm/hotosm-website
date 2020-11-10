@@ -4,6 +4,8 @@ date: 2020-11-10 14:57:00 Z
 Is Community-Led: true
 Country:
 - Kenya
+Impact Area:
+- Public Health
 Duration:
   Start Date: 2020-10-01 00:00:00 Z
 Micrograntee: true
