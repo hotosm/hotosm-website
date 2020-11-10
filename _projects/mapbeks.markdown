@@ -1,6 +1,7 @@
 ---
 title: 'MapBeks: Pursuing LGBTQ inclusion and representation through mapping'
 date: 2020-11-10 13:56:00 Z
+Feature Image: "/uploads/MapBeks.png"
 Project Logo Image: "/uploads/116342436_757521671677711_1859129311235709846_n.png"
 Is Community-Led: true
 Country:
