@@ -1,6 +1,7 @@
 ---
 title: 'Resilience Mappers: Mapping informal settlements in Kampala, Uganda'
 date: 2020-11-10 14:11:00 Z
+Is Community-Led: true
 Country:
 - Uganda
 Impact Area:
