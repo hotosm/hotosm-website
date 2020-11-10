@@ -7,6 +7,8 @@ Country:
 - Senegal
 Impact Area:
 - Public Health
+Duration:
+  Start Date: 2020-06-01 00:00:00 Z
 Micrograntee: true
 ---
 
