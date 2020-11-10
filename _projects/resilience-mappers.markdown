@@ -1,5 +1,5 @@
 ---
-title: Resilience Mappers
+title: 'Resilience Mappers: Mapping informal settlements in Kampala, Uganda'
 date: 2020-11-10 14:11:00 Z
 Country:
 - Uganda
