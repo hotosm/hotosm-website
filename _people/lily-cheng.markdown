@@ -1,7 +1,7 @@
 ---
 title: Lily Cheng
 date: 2020-11-16 07:27:00 Z
-Photo: "/uploads/_20201102_103000-9e3a86.JPG"
+published: false
 Member Type:
   Is Staff: true
 Job Title: Senior Designer
