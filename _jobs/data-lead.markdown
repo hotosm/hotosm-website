@@ -1,7 +1,7 @@
 ---
 title: Data Lead
 date: 2020-10-29 05:02:00 Z
-Deadline Date: 2020-11-19 00:00:00 Z
+Deadline Date: 2020-11-22 00:00:00 Z
 Place of Work: Remote
 Apply Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdQlX6ekvV7m31ehhZrNXRhur2WJFcDUugRUEiHP8Rgc42K_w/viewform?usp=sf_link
 ---
