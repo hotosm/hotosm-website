@@ -1,7 +1,6 @@
 ---
 title: Lily Cheng
 date: 2020-11-16 07:27:00 Z
-published: false
 Photo: "/uploads/_20201102_103000-9e85fe.JPG"
 Member Type:
   Is Staff: true
