@@ -5,6 +5,7 @@ Photo: "/uploads/rsavoye.png"
 Member Type:
   Is Staff: true
 Job Title: Senior Technical Lead
+Country: United States
 ---
 
 Rob lives on an old mining claim way up in the Colorado Rockies at 2800M. As a long time climber/skier and rural volunteer fire-fighter, Rob knows the importance of good maps. Hacking custom maps for a Garmin decades ago eventually led to being an active OpenStreetMap contributor and mapping software developer. He's personally experienced how important accurate maps are for emergency response and recreational purposes.

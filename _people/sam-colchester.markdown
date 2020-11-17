@@ -8,7 +8,7 @@ Member Type:
 Job Title: Partnerships Associate
 Project:
 - Missing Maps
-Country: United Kingdom
+Country: Spain
 ---
 
 Sam became a Voting Member of HOT in May 2019. He discovered HOT through the Missing Maps Project in Edinburgh, early 2015. Sam moved to London in late 2015 and has supported the Missing Maps London mapathons ever since. Sam holds a Masters degree in Geospatial Analysis from University College London.
