@@ -22,11 +22,11 @@ Finances:
   Text: |-
     HOT is a global not-for-profit organization registered in the United States of America.
 
-    As part of our obligations as a 501(c)3 registered organization, we make our financial filings (known as "Form 990: Return of Organization Exempt From Income Tax") available for public inspection. HOT's 2012 - 2017 returns are posted below. Any further questions can be directed to the Board of Directors, specifically the Treasurer.
+    As part of our obligations as a 501(c)3 registered organization, we make our financial filings (known as "Form 990: Return of Organization Exempt From Income Tax") available for public inspection. HOT's 2012 - 2019 returns are posted below. Any further questions can be directed to the Board of Directors, specifically the Treasurer.
 
     Access older financial reports and organization bylaws in our archive <a href="https://github.com/hotosm/hotosm-website/tree/gh-pages/downloads">here.</a>
-  990 Report Button: Download 2018 990 PDF
-  990 Report URL: "/uploads/HOTOSM%20990_PD%202018.PDF"
+  990 Report Button: Download 2019 990 PDF
+  990 Report URL: "/downloads/2019-Form-990.pdf"
   Annual Report Header: 2019 Annual Report
   Annual Report Text: "Each year we publish an annual report to recap projects and
     share updates from the community. We cover stories from our projects and share
