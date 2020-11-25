@@ -1,7 +1,7 @@
 ---
 title: Maning Sambale
 date: 2012-01-25 07:00:00 Z
-Photo: "/uploads/picture-22-1412247363.jpg"
+Photo: "/uploads/Maning.jpg"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
