@@ -9,7 +9,7 @@ Page Contact:
 
     We will use your feedback to continuously improve HOT's work, whether that applies to technology, communications, community engagement, recruitment, or something else. Sometimes the subject of feedback will be discussed in open working groups or in other online forums, but will never include personally identifiable information unless the person has given us explicit consent to do so.
 
-    If you have a general inquiry that is not related to HOT's activities, please use the [contact page](https://www.hotosm.org/contact).
+    If you have a general inquiry that is not related to HOT's activities, please use the contact page.
   Label: Send feedback by email
   Contact Email: feedback@hotosm.org
 layout: page
