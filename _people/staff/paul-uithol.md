@@ -4,7 +4,7 @@ date: 2015-07-14 16:44:00 Z
 Photo: "/uploads/paul-858a81.JPG"
 Member Type:
   Is Staff: true
-Job Title: Director of Programs
+Job Title: Director of Humanitarian Data
 Working Group:
 - Communications
 Project:
