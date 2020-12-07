@@ -24,7 +24,7 @@ redirect_from:
 - "/users/rebecca_firth"
 ---
 
-Rebecca is HOT’s Director of Community and Partnerships. She joined the HOT staff team in 2016, and has volunteered with HOT and Missing Maps since 2014. 
+Rebecca is HOT’s Director of Transformation & Community. She joined the HOT staff team in 2016, and has volunteered with HOT and Missing Maps since 2014. 
 
 Rebecca manages HOT's Community, Partnerships, and Communications activities, working to improve HOT's capabilities to provide longer term capacity building for OpenStreetMap communities through training and Microgrants, grow OpenStreetMap use amongst NGOs through our Missing Maps Programs, and share HOT’s message globally with new volunteers and partners.
 
