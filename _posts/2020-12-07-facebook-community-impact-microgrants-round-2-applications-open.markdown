@@ -8,7 +8,7 @@ tags:
 Summary Text: 'Applications open! Up to $5000 is available for OpenStreetMap (OSM)
   community projects that directly support, contribute, or respond to local humanitarian/development
   challenges. '
-Feature Image: "/uploads/CI%20Microgrant%202021-e24064.png"
+Feature Image: "/uploads/FB%20Community%20Impact%20MGs_v2%20(1).png"
 Person: Sophie Mower
 Working Group:
 - Community
