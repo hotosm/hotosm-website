@@ -9,6 +9,18 @@ Impact Area:
 - Disaster Response
 Person:
 - Russell Deffner
+- Antoni Ros Martinez
+- Claudio de los Reyes
+- Ralph Aytoun
+- Sophie Mower
+- Sam Colchester
+- Geoffrey Kateregga
+- Gihan Hassanein
+- Sara Amadi
+- Benjamin Dills
+- Jess Beutler
+- Rebecca Firth
+- Shamilah Ssekandi Nassozi
 Duration:
   Start Date: 2020-03-24 00:00:00 Z
 ---
@@ -38,3 +50,5 @@ HOT works to ensure map data should be accessible and used in decisions that sav
 2. Connect with the Disaster Activation Working Group by joining the [HOT Slack ](http://slack.hotosm.org/)channel #disaster-mapping
 
 3. Stay tuned on [Twitter,](https://twitter.com/hotosm) [Facebook,](https://www.facebook.com/hotosm/) and the [OSM Wiki](https://wiki.openstreetmap.org/wiki/COVID19) for updates as our response evolves
+
+> Other notable coordinators not listed (no website profile): Logan McGovern, Katarina Spasenovic, and Jarmo Kivekas
