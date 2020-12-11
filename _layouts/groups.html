@@ -114,45 +114,8 @@ layout: default
         {% if page.url contains "/jobs/" %}
 
           <div class="group-section">
-
-            <h4>Current Openings</h4>
-
-            {% assign current_date = site.time | date: '%Y%m%d' %}
-            {% assign jobs_sorted = site.jobs | sort: 'Deadline Date' %}
-
-            {% for job in jobs_sorted %}
-              {% assign job_date = job['Deadline Date'] | date: '%Y%m%d' %}
-              {% if job_date >= current_date %}
-              <a href="{{ job.url }}" class="module light link-through">
-                <div class="module-details">
-                  <h3>{{ job.title }}</h3>
-                  <div class="module-text"><p>Location: <span>{{ job['Place of Work'] }}</span></p><p>Deadline: <span>{{ job['Deadline Date'] | date: '%d %B, %Y' }}</span></p></div>
-                </div>
-              </a>
-              {% elsif forloop.last %}
-                <p><em>There are no current openings. Please check back for updates or keep a watch <a href="https://twitter.com/hotosm">on Twitter</a> for updates.</em></p>
-              {% endif %}
-            {% endfor %}
-
+            <div id="BambooHR"><script src="https://hotosm.bamboohr.com/js/jobs2.php" type="text/javascript"></script><div id="BambooHR-Footer">Powered by<a href="http://www.bamboohr.com" target="_blank" rel="noopener external nofollow noreferrer"><img src="https://resources.bamboohr.com/images/footer-logo.png" alt="BambooHR - HR software"/></a></div></div>
           </div>
-
-          <div class="group-section">
-
-            <h4>Recently closed jobs</h4>
-
-            {% assign jobs_closed = site.jobs | sort: 'Deadline Date' | reverse %}
-            {% for job in jobs_closed limit: 6 %}
-              {% assign job_date = job['Deadline Date'] | date: '%Y%m%d' %}
-              {% if job_date < current_date or job_date == null %}
-              <a href="{{ job.url }}" class="module light link-through">
-                <div class="module-details">
-                  <h3>{{ job.title }}</h3>
-                  <div class="module-text"><p>Location: <span>{{ job['Place of Work'] }}</span></p><p>Deadline: <span>{{ job['Deadline Date'] | date: '%d %B, %Y' | default: "Until position is filled" }}</span></p></div>
-                </div>
-              </a>
-              {% endif %}
-            {% endfor %}
-        </div>
         
         {% endif %}
 
