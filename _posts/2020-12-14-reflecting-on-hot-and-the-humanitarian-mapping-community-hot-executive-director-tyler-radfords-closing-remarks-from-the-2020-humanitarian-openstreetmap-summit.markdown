@@ -4,7 +4,7 @@ title: 'Reflecting on HOT and the Humanitarian Mapping Community: HOT Executive 
 date: 2020-12-14 10:50:00 Z
 Summary Text: At the HOT Summit, Tyler Radford shared his thoughts on the relationship
   between HOT and the worldwide humanitarian mapping community. This has come as a
-  part of an ongoing conversation within HOT and the wider community. He outlines
+  part of an ongoing conversation within HOT and the wider community. He outlined
   the steps he would like HOT to take to make that relationship more open, transparent,
   and supportive of the community.
 Feature Image: "/uploads/Screenshot%202020-12-14%20120152.jpg"
