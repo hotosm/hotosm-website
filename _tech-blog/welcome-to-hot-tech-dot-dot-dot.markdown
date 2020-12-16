@@ -80,7 +80,7 @@ Rob has been a free software developer since the late 1980s, with multiple proje
 Rob lives on an old mining claim way up in the Colorado Rockies at 2800M. As a long time climber/skier and rural volunteer fire-fighter, Rob knows the importance of good maps. Hacking custom maps for a Garmin decades ago eventually led to being an active OpenStreetMap contributor and mapping software developer. He’s personally experienced how important accurate maps are for emergency response and recreational purposes.
 
 *Why they were selected*\
-Rob cares, plain and simple. It is his deeply rooted principles in ‘free’ and community that made Rob stand out. Putting aside his incredibly extensive experience, Rob is a true reflection of what we stand for at our very core in. He even challenged my thinking (and change my mind, which according to my partner is very rare) on a number of values that we should be prioritising and promoting from within our team.
+Rob cares, plain and simple. It is his deeply rooted principles in ‘free’ and community that made Rob stand out. Putting aside his incredibly extensive experience, Rob is a true reflection of what we stand for at our very core. He even challenged my thinking (and changed my mind, which according to my partner, is very rare) on a number of values that we should be prioritising and promoting from within our team.
 
 *Why they selected us*\
 Rob prefers to work on projects that benefit people, and leave the world a better place. HOT seems to be a perfect place to use his skills for that purpose.
