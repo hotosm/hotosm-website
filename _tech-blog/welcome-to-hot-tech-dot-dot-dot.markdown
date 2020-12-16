@@ -23,7 +23,7 @@ Person: Bo Percival
 **Hya Umaran**\
 ![mumaran-23a31f 300x375.jpg](/uploads/mumaran-23a31f%20300x375.jpg)
 
-*Official bio  *
+*Official bio\\  *
 Hya has joined HOT to support the organisation and teams towards agile mindset and delivery. She is an IT professional who is innovative, with combined skills of business and technical acumen. Appointed to lead start-up and pilot teams both in corporate and non-profit organisations, she honed her skills in the areas of coaching, mentoring and facilitation.
 
 She previously worked with AIG Shared Services, IBM, World Vision and Plan International wherein in the latter, she led the team as Digital Development Manager. She took up Computer Engineering in Mapua University, Philippines. Continuous learning, adaptation and integrity at work are her core values. She is certified Professional Scrum Master I, Product Owner of Scrum.org and certified Professional Business Analyst of IIBA.
