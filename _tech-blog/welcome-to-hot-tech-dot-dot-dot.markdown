@@ -68,7 +68,7 @@ She’s most often found in California but has been known to wander off to farm 
 I’ve been making my way through creating experiences that expand perception and people’s sense of reality. While I love creating fictional, immersive experiences, the most amazing stories for me to listen to and amplify are those that help us connect to, understand and be more compassionate about the people we live with both near and far. HOT and OSM are an excellent intersection of my interests and beliefs that anyone can learn anything with the right knowledge, enough time, help and community and a curiosity in exploring how people belong to places.
 
 *Why they were selected*\
-Because I felt I was the one being interviewed! In all seriousness, when someone is taking the time to ask you questions that expose the challenges and values of an organisation, you know that they are the one’s selecting us and not the other way around. So, when Lily took the position, I know it was because our values aligned with hers and this would be a good place for her to do some pretty amazing things.
+Because I felt I was the one being interviewed! In all seriousness, when someone is taking the time to ask you questions that expose the challenges and values of an organisation, you know that they are the one selecting us and not the other way around. So, when Lily took the position, I know it was because our values aligned with hers and this would be a good place for her to do amazing things.
 
 ***Rob Savoye***\
 ![rsavoye 300x375.png](/uploads/rsavoye%20300x375.png)
@@ -80,7 +80,7 @@ Rob has been a free software developer since the late 1980s, with multiple proje
 Rob lives on an old mining claim way up in the Colorado Rockies at 2800M. As a long time climber/skier and rural volunteer fire-fighter, Rob knows the importance of good maps. Hacking custom maps for a Garmin decades ago eventually led to being an active OpenStreetMap contributor and mapping software developer. He’s personally experienced how important accurate maps are for emergency response and recreational purposes.
 
 *Why they were selected*\
-Rob cares, plain and simple. It is his deeply rooted principles in ‘free’ and community that made Rob stand out. Putting aside his incredibly extensive experience, Rob is a true reflection of what we stand for at our very core in. He even challenged my thinking mind (and change my mind, which according to my partner is very rare) on a number of values that we should be prioritising and promoting from within our team.
+Rob cares, plain and simple. It is his deeply rooted principles in ‘free’ and community that made Rob stand out. Putting aside his incredibly extensive experience, Rob is a true reflection of what we stand for at our very core in. He even challenged my thinking (and change my mind, which according to my partner is very rare) on a number of values that we should be prioritising and promoting from within our team.
 
 *Why they selected us*\
 Rob prefers to work on projects that benefit people, and leave the world a better place. HOT seems to be a perfect place to use his skills for that purpose.
