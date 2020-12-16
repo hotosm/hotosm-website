@@ -9,6 +9,7 @@ Summary Text: |-
   So as everyone is well aware, it's time to scale up time over here and hot_tech is no exception. We have been afforded an ‘Audacious’ opportunity to welcome some impressive new talent into the fold. I was once told never to assume you're the smartest in the room and with the addition of these four new team members, I know for sure that I am not.
 
   So, let me be the first to share with you a quick intro to each of the new team members, why they decided to join us and why we wanted them to be a part of the team.
+Feature Image: "/uploads/nu_tech-a8bd3d.png"
 Person: Bo Percival
 ---
 
