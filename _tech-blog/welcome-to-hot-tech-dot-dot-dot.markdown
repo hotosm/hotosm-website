@@ -28,7 +28,8 @@ Hya has joined HOT to support the organisation and teams towards agile mindset a
 
 She previously worked with AIG Shared Services, IBM, World Vision and Plan International wherein in the latter, she led the team as Digital Development Manager. She took up Computer Engineering in Mapua University, Philippines. Continuous learning, adaptation and integrity at work are her core values. She is certified Professional Scrum Master I, Product Owner of Scrum.org and certified Professional Business Analyst of IIBA.
 
-*Unofficial bio*
+*Unofficial bio*\  
+
 Ironically, you can only see Hya using her laptop when engaged at work. When she is not working, there are a lot of non-tech activities that can make her busy all day. She loves to paint, sew, sculpt polymer clay, wood burn and play piano. She can play table tennis and badminton pretty well.
 
 *Why they selected us*
