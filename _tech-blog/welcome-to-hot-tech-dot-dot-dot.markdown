@@ -20,22 +20,22 @@ Person: Bo Percival
 
 ***tldr; if you don’t read this, you’ll miss out on a chance to get to know some great people that have just joined our team. This post is too short if anything.***
 
-**Hya Umaran**  
+**Hya Umaran**\
 ![mumaran-23a31f 300x375.jpg](/uploads/mumaran-23a31f%20300x375.jpg)
 
-*Official bio*  
+*Official bio*\
 Hya has joined HOT to support the organisation and teams towards agile mindset and delivery. She is an IT professional who is innovative, with combined skills of business and technical acumen. Appointed to lead start-up and pilot teams both in corporate and non-profit organisations, she honed her skills in the areas of coaching, mentoring and facilitation.
 
 She previously worked with AIG Shared Services, IBM, World Vision and Plan International wherein in the latter, she led the team as Digital Development Manager. She took up Computer Engineering in Mapua University, Philippines. Continuous learning, adaptation and integrity at work are her core values. She is certified Professional Scrum Master I, Product Owner of Scrum.org and certified Professional Business Analyst of IIBA.
 
-*Unofficial bio*  
+*Unofficial bio*\
 Ironically, you can only see Hya using her laptop when engaged at work. When she is not working, there are a lot of non-tech activities that can make her busy all day. She loves to paint, sew, sculpt polymer clay, wood burn and play piano. She can play table tennis and badminton pretty well.
 
-*Why they selected us*  
+*Why they selected us*\
 I look forward to learning a new stack of technology and contributing to the transformation of the team. Increase people's reach who use the products on its maximum value, able to scale and grow  through continuous process optimization and meaningful collaboration.
 
-*Why they were selected*  
-Hya is a perfect collision of thorough and agile. For those that work with agile, you’ll understand just how hard this is to find. Her humility leads to an unrivaled ability to empathise with what people need to support them to success they didn’t even know they had inside them. Hya is exactly what you need in a mentor, and a true Ate at heart; Supportive and caring, and always dedicated to keeping you on track with your best interests at heart :)
+*Why they were selected*\
+Hya is a perfect collision of thorough and agile. For those that work with agile, you’ll understand just how hard this is to find. Her humility leads to an unrivaled ability to empathise with what people need to support them to success they didn’t even know they had inside them. Hya is exactly what you need in a mentor, and a true Ate; Supportive and caring, and always dedicated to keeping you on track with your best interests at heart :)
 
 ***Diana Nanyanzi***\
 ![Diana-first 300x375.jpg](/uploads/Diana-first%20300x375.jpg)
