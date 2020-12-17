@@ -12,7 +12,7 @@ Country:
 - Indonesia
 ---
 
-**The Beginning**
+**The Beginning**\
 We came up with the idea based on eight years of experience doing various training and mapping that focused on adding more OpenStreetMap data in Indonesia. In that time, we successfully gathered more than 30 million buildings and more than 1.4 million kilometers of roads mapped in Indonesia. 
 
 ![Lokavista 1-fc1f17.png](/uploads/Lokavista%201-fc1f17.png)
@@ -40,7 +40,7 @@ Each participant selected one of the following sub-theme on their map:
 
 We divided the competition into two categories, ‘Web-GIS Map’ (online map) and ‘Desktop Map’ (offline map). Each participant could only select one category.
 
-**Timeline **
+**Timeline **\
 We started the competition on 16 September 2020 with a teaser poster to the public that something great was coming. 
 
 ![Lokavista 2.png](/uploads/Lokavista%202.png)
@@ -59,7 +59,7 @@ We announce the winner on 20 November 2020 during our OSM Geoweek virtual event.
 
 ![Lokavista 5.png](/uploads/Lokavista%205.png)
 
-The Competition
+**The Competition**\
 We received so many interesting ideas of how OpenStreetMap data could be used and transformed into various types of maps for different purposes. 
 
 During the registration period, we had 41 applicants for the competition: 21 teams for ‘Web-GIS Map’ and 20 teams for ‘Desktop Map’. 
@@ -68,12 +68,12 @@ Later on, 23 teams submitted their map design: 13 teams for ‘Web-GIS Map’ an
 
 Sustainable Cities, Public Health (COVID-19), and Disaster Response were the most popular themes in this competition. 
 
-**Result**
+**Result**\
 It was quite fun and exciting to see our participants giving their best to design and create quality maps based on OpenStreetMap data. We were amazed by their thought and creativity on what they could do with those open-source data. 
 
 After much deliberation, we came out decide on the winners of the LOKAVISTA 2020 competition: 
 
-**Web-GIS Map**
+**Web-GIS Map**\
 **1st Winner: Sugar Daddy** [https://s.id/sugar-daddy](https://s.id/sugar-daddy)
 
 ![Map Campaigners 6.gif](/uploads/Map%20Campaigners%206.gif)
@@ -92,7 +92,7 @@ An interesting visualization of water and sanitation facilities and access in Ea
 
 We can see how OpenStreetMap data can help you locate the nearest health facilities from public facilities nearby, related to COVID-19 situation. This team used health facilities, public facilities, and road data from OpenStreetMap as their primary data source.
 
-**Desktop Map**
+**Desktop Map**\
 **1st Winner: LAVAGAMA** [https://s.id/lavagama](https://s.id/lavagama)
 
 ![Lokavista 9.png](/uploads/Lokavista%209.png)
