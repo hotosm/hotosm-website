@@ -41,7 +41,7 @@ Each participant selected one of the following sub-theme on their map:
 
 We divided the competition into two categories, ‘Web-GIS Map’ (online map) and ‘Desktop Map’ (offline map). Each participant could only select one category.
 
-**Timeline **
+**Timeline**
 
 We started the competition on 16 September 2020 with a teaser poster to the public that something great was coming. 
 
