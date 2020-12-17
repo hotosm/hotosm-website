@@ -1,6 +1,6 @@
 ---
 title: 'Indonesia’s Mapping Design Competition: LOKAVISTA'
-date: 2020-12-17 22:24:00 Z
+date: 2020-12-18 03:00:00 Z
 Summary Text: 'From September to November 2020, HOT Indonesia organized a mapping
   design competition called LOKAVISTA for university students across the nation. Our
   mission was simple: to increase the public awareness that OpenStreetMap data can
