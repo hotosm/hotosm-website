@@ -5,7 +5,7 @@ Summary Text: 'From September to November 2020, HOT Indonesia organized a mappin
   design competition called LOKAVISTA for university students across the nation. Our
   mission was simple: to increase the public awareness that OpenStreetMap data can
   be utilized for many purposes and different aspects of life. '
-Feature Image: "/uploads/Lokavista%203.png"
+Feature Image: "/uploads/banner%20image.png"
 Is image top aligned: true
 Person: Adhitya Dido Widyanto
 Country:
@@ -81,7 +81,7 @@ After much deliberation, we came out decide on the winners of the LOKAVISTA 2020
 
 **1st Winner: Sugar Daddy** [https://s.id/sugar-daddy](https://s.id/sugar-daddy)
 
-![Map Campaigners 6.gif](/uploads/Map%20Campaigners%206.gif)
+![Map Campaigners 6 (1).gif](/uploads/Map%20Campaigners%206%20(1).gif)
 
 Our first winner from the ‘Web-GIS Map’ category created something that astonished us. They used the building data from OpenStreetMap combined with other supporting data to visualize solar energy’s distribution capacity on each building roof in Bandung, West Java, Indonesia. They created this map as a solution to provide clean energy in Indonesia. 
 
