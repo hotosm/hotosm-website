@@ -1,10 +1,9 @@
 ---
 title: 'The PhilAWARE Project: A Year-End Report'
 date: 2020-12-20 22:01:00 Z
-Summary Text: 'This year, remote mapping for Quezon City and Pampanga were completed,
-  and a new pilot area for remote mapping was added: Marikina City in Metro Manila.
-  Furthermore, despite the pandemic, field data collection has also progressed well
-  in Pampanga.'
+Summary Text: This year, remote mapping for Quezon City and the Province of Pampanga
+  were completed, and a new pilot area, Marikina City, was added. Furthermore, field
+  data collection has progressed well in Pampanga despite the pandemic.
 Person:
 - Jikka Defino
 - Feye Andal
