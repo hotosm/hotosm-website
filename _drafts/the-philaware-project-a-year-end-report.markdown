@@ -1,7 +1,6 @@
 ---
 title: 'The PhilAWARE Project: A Year-End Report'
 date: 2020-12-20 22:01:00 Z
-published: false
 Person:
 - Jikka Defino
 - Feye Andal
@@ -25,5 +24,14 @@ The table below summarizes the progress of the Pampanga Team on field mapping an
 
 ![Screen Shot 2020-12-18 at 12.50.05 PM.png](/uploads/Screen%20Shot%202020-12-18%20at%2012.50.05%20PM.png)
 
-\
-\
+**POI Collection:**
+
+The table below shows the critical lifeline infrastructures (POIs) that were collected, processed, and uploaded by the Pampanga Team in OpenStreetMap as of 18 December. These data were extracted from the Overpass API and are now available for download by the public.
+
+The table below shows the quantity of the added and updated points of interests (POIs) collected during the field mapping activities for each municipality.
+
+![Screen Shot 2020-12-21 at 6.20.57 AM.png](/uploads/Screen%20Shot%202020-12-21%20at%206.20.57%20AM.png)
+
+**Road Mapping**
+
+See animated images below for the coverage of the road mapping.
