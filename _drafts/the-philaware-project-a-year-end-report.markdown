@@ -14,7 +14,7 @@ Project:
 - 'Data-Driven Disaster Risk Management: PhilAWARE'
 ---
 
-2020 has been an impactful year for HOT Philippines as the country team’s flagship project, PhilAWARE, sprung to life on the field. Launched in July 2019, the PhilAWARE project is a localized version of DisasterAWARE, funded by the Pacific Disaster Center (PDC) and supported by the Office of Civil Defense (OCD) for the National Disaster Risk Reduction and Management Council (NDRRMC).
+2020 has been an impactful year for HOT Philippines as the country team’s flagship project, PhilAWARE, achieved milestones for its pilot areas amidst the pandemic. Launched in July 2019, the PhilAWARE project is a localized version of DisasterAWARE, funded by the Pacific Disaster Center (PDC) and supported by the Office of Civil Defense (OCD) for the National Disaster Risk Reduction and Management Council (NDRRMC).
 
 Initially, the HOT Philippines team was tasked to map two pilot areas: the Province of Pampanga, and Quezon City in Metro Manila. This year, remote mapping for both areas were completed, and a new pilot area for remote mapping was added: Marikina City in Metro Manila. Furthermore, despite the pandemic, field data collection has progressed well in Pampanga.
 
