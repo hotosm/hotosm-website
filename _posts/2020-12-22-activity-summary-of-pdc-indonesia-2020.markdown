@@ -1,6 +1,6 @@
 ---
 title: Activity Summary of PDC Indonesia 2020
-date: 2020-12-21 22:28:00 Z
+date: 2020-12-22 02:00:00 Z
 Summary Text: 'We are very close to the end of 2020. Pacific Disaster Center (PDC)
   Indonesia has many magnificent stories to share and activities that we have accomplished
   in 2020. We have categorized our activities into three different categories: Capacity
@@ -10,10 +10,10 @@ Country:
 - Indonesia
 ---
 
-## Capacity Development
+# Capacity Development
 We had several activities that focus on capacity development for university students and government institutions as well. 
 
-### 1. University Training
+## 1. University Training
 
 **OSM Training for Youthmappers Makassar**
 
@@ -41,7 +41,7 @@ We were delighted that one of the Youthmappers ambassadors from Bangladesh, Mali
 
 ![PDC4.png](/uploads/PDC4.png)
 
-### Government Training 
+## Government Training 
 
 **Training for National Disaster Management Agency (BNPB)**
 
@@ -65,9 +65,9 @@ After successfully conducting the training in different cities including Padang,
 
 ![PDC8.png](/uploads/PDC8.png)
 
-## COVID-19 Response
+# COVID-19 Response
  
-### Handwashing Station Mapping Platform
+## Handwashing Station Mapping Platform
 COVID-19 has changed everything. COVID has made us more concerned about our health. Washing our hands has become a new normal for everyone. Therefore, we needed a map where we could see the distribution of handwashing stations nearby. 
  
 USAID, in collaboration with Pacific Disaster Center (PDC) and Humanitarian OpenStreetMap Team (HOT), initiated the mapping of handwashing stations in DKI Jakarta for incorporation into BNPB's national hazard monitoring application, InAWARE, and other mapping applications. 
@@ -82,7 +82,7 @@ The data itself can be accessed by the public for free using the [Humanitarian D
 
 ![PDC13.png](/uploads/PDC13.png)
 
-### COVID-19 Mapathon
+## COVID-19 Mapathon
 
 **Public Mapathon**
 
@@ -118,9 +118,9 @@ The goal of this event was to map and complete the information on health facilit
 
 ![Screenshot 2020-12-21 at 11.27.38 PM.png](/uploads/Screenshot%202020-12-21%20at%2011.27.38%20PM.png)
 
-## Community Engagement
+# Community Engagement
  
-### Mapping Design Competition (LOKAVISTA)
+## Mapping Design Competition (LOKAVISTA)
 Since 2014, HOT Indonesia has established a good and strong relationship with many universities in Indonesia. University students have an important role in supporting the growth and development of HOT Indonesia. 
  
 In 2017, we had a mapping competition called ‘University Battle Mapping,’ which focuses more on how the uni-students can add more data to OpenStreetMap. 
