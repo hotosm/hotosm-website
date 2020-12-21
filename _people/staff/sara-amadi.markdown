@@ -14,6 +14,8 @@ Project:
 - Mapping and Surveying of the Nakamiro Channel area in Kampala
 - Leveraging ML-generated building data and motorcycle mapping in the DRC and Uganda
   to enhance the effectiveness of humanitarian response
-Country: Global
+Social Media (Full URL):
+  Twitter: https://twitter.com/saraamadi
+  LinkedIn: https://www.linkedin.com/in/saraamadi/
 ---
 
