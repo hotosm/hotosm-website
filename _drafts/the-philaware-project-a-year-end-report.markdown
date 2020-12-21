@@ -41,3 +41,7 @@ The table below shows the quantity of the added and updated points of interests 
 **Road Mapping**
 
 See animated images below for the coverage of the road mapping.
+
+![ezgif.com-video-to-gif-4.gif](/uploads/ezgif.com-video-to-gif-4.gif)
+
+![ezgif.com-video-to-gif-3.gif](/uploads/ezgif.com-video-to-gif-3.gif)
