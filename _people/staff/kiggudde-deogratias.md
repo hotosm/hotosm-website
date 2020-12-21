@@ -4,7 +4,7 @@ date: 2017-05-03 20:43:00 Z
 Photo: "/uploads/DeogratiasKiggudee.jpg"
 Member Type:
   Is Staff: true
-Job Title: Project Manager
+Job Title: Country Manager
 Country: Uganda
 redirect_from:
 - "/users/kiggudde_deogratias"
