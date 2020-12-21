@@ -5,8 +5,8 @@ Summary Text: This year, remote mapping for Quezon City and the Province of Pamp
   were completed, and a new pilot area, Marikina City, was added. Furthermore, field
   data collection has progressed well in Pampanga despite the pandemic.
 Person:
-- Jikka Defino
-- Feye Andal
+- 
+- 
 Country:
 - Philippines
 Project:
