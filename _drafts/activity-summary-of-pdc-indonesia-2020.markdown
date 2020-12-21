@@ -5,6 +5,9 @@ Summary Text: 'We are very close to the end of 2020. Pacific Disaster Center (PD
   Indonesia has many magnificent stories to share and activities that we have accomplished
   in 2020. We have categorized our activities into three different categories: Capacity
   Development, COVID-19 Response, Community Engagement.'
+Person: Adhitya Dido Widyanto
+Country:
+- Indonesia
 ---
 
 ## Capacity Development
@@ -109,9 +112,9 @@ The goal of this event was to map and complete the information on health facilit
 
 ![Screenshot 2020-12-21 at 11.27.38 PM.png](/uploads/Screenshot%202020-12-21%20at%2011.27.38%20PM.png)
 
-Community Engagement
+## Community Engagement
  
-Mapping Design Competition (LOKAVISTA)
+### Mapping Design Competition (LOKAVISTA)
 Since 2014, HOT Indonesia has established a good and strong relationship with many universities in Indonesia. University students have an important role in supporting the growth and development of HOT Indonesia. 
  
 In 2017, we had a mapping competition called ‘University Battle Mapping,’ which focuses more on how the uni-students can add more data to OpenStreetMap. 
@@ -121,13 +124,13 @@ This year, we had a similar competition, but with a different format. We tried t
 In LOKAVISTA, the participants needed to compete as a team.They had to choose one category for mapping, either desktop/offline map or web-GIS/online map. Then, they needed to create a map using OpenStreetMap data. They could add more data if they wanted, but the important thing was that they needed to use at least one OpenStreetMap dataset in their map. 
  
 As a result, we have six winners from web-GIS map and desktop map: 
-Web-GIS Map
-1st winner: Sugar Daddy (Clean Energy)
-2nd winner: Apren-GIS (Water & Sanitation)
-3rd winner: JATEOTO (Public Health) 
-Desktop Map
-1st winner: LAVAGAMA (Disaster Response)
-2nd winner: Tim E-Zone (Environment)
-3rd winner: TIM TIGA UGM (Disaster Response)
+**Web-GIS Map**
+* 1st winner: Sugar Daddy (Clean Energy)
+* 2nd winner: Apren-GIS (Water & Sanitation)
+* 3rd winner: JATEOTO (Public Health) 
+**Desktop Map**
+* 1st winner: LAVAGAMA (Disaster Response)
+* 2nd winner: Tim E-Zone (Environment)
+* 3rd winner: TIM TIGA UGM (Disaster Response)
 
 ![PDC12.png](/uploads/PDC12.png)
