@@ -15,13 +15,13 @@ We had several activities that focus on capacity development for university stud
 
 ### 1. University Training
 
-**OSM Training for Youthmappers Makassar**
+**OSM Training for Youthmappers Makassar**\
 On 6-8 March, we went to Makassar, South Sulawesi, to hold three days of on-site training for the 17 students of Universitas Negeri Makassar. Our goals were increasing the students’ capacity in mapping using OpenStreetMap and increasing their mapping activity. 
  
 Therefore, we organized a mini mapping competition for the students to motivate them to add more OpenStreetMap data. Also, to celebrate International Women’s Day on March 8, we added the thematic hashtags #WomenMapIndonesia and #LetGirlsMap when uploading changesets on JOSM.
 ![PDC1.jpg](/uploads/PDC1.jpg)
 
-**OSM Live Training for Five Universities**
+**OSM Live Training for Five Universities**\
 Since the COVID-19 outbreak in Indonesia, we shifted our training method to the online training platform using Odoo. We have been using this platform for live training events for five different universities in Indonesia:
 * Universitas Indonesia, 17-22 April
 * Universitas Gadjah Mada, 14-18 September
@@ -41,7 +41,7 @@ We were delighted that one of the Youthmappers ambassadors from Bangladesh, Mali
 
 ### Government Training 
 
-**Training for National Disaster Management Agency (BNPB)**
+**Training for National Disaster Management Agency (BNPB)**\
 In the past few years, HOT Indonesia has had a strong partnership with the BNPB, especially when it comes to disaster risk reduction and mapping using OpenStreetMap. 
 
 ![PDC5.png](/uploads/PDC5.png)
@@ -50,7 +50,7 @@ To maintain this strong relationship, we conducted a one-day training on 20 Janu
 
 ![PDC6.png](/uploads/PDC6.png)
 
-**PDC InAWARE Training **
+**PDC InAWARE Training**\
 BNPB collaborated with USAID through Pacific Disaster Center (PDC), and HOT conducted training to give the big picture on city-wide lifeline infrastructure mapping and planning. This needs to be done so that any city in Indonesia is able to conduct a city-wide mapping project and has detailed, complete, and updated spatial data. 
  
 PDC and HOT was the facilitator in transferring the training material, field data collection, InAWARE platform operation, and mapping methodology planning skills.
@@ -80,7 +80,7 @@ The data itself can be accessed by the public for free using the [Humanitarian D
 
 ### COVID-19 Mapathon
 
-**Public Mapathon**
+**Public Mapathon**\
 We successfully held our first virtual training event after the first COVID-19 outbreak in Indonesia. While we have been fully working from home, it hasn't stopped our spirit of sharing our knowledge about mapping using OpenStreetMap!
  
 We organized two sessions of webinars for the public, and it was free so everyone could join. In these webinars, we wanted to give a message to the public that people can still help to fight against COVID-19 through mapping. Our target has been to add more information on health facilities in Indonesia so it can be used as a reliable source of information for the public.
@@ -103,7 +103,7 @@ All of these edits happened across Indonesia as we can see in this map below:
 ![PDC11.png](/uploads/PDC11.png)
 
 
-**MSF Indonesia**
+**MSF Indonesia**\
 We collaborated with Médecins Sans Frontières (MSF) Indonesia and Ruang Komunal Indonesia (RUKI) from Facebook to hold a Mapathon ‘Mapping Party’.
  
 This event was held on 18 May virtually to support the campaign to #stayathome. This event was held as a humanitarian response to the fight against COVID-19. 
@@ -124,11 +124,11 @@ This year, we had a similar competition, but with a different format. We tried t
 In LOKAVISTA, the participants needed to compete as a team.They had to choose one category for mapping, either desktop/offline map or web-GIS/online map. Then, they needed to create a map using OpenStreetMap data. They could add more data if they wanted, but the important thing was that they needed to use at least one OpenStreetMap dataset in their map. 
  
 As a result, we have six winners from web-GIS map and desktop map: 
-**Web-GIS Map**
+**Web-GIS Map**\
 * 1st winner: Sugar Daddy (Clean Energy)
 * 2nd winner: Apren-GIS (Water & Sanitation)
 * 3rd winner: JATEOTO (Public Health) 
-**Desktop Map**
+**Desktop Map**\
 * 1st winner: LAVAGAMA (Disaster Response)
 * 2nd winner: Tim E-Zone (Environment)
 * 3rd winner: TIM TIGA UGM (Disaster Response)
