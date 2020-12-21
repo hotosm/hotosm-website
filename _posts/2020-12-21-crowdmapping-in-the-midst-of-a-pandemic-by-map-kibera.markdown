@@ -19,4 +19,4 @@ In response to this, many organizations came up with initiatives to support the 
 * Map out their activities and post them on the Ushahidi-based Kenya Covid-19 tracker; this included training them on how to post their work and offering support in posting them where necessary.
 * Directly support the programmes they were implementing on the ground.
 
-*Reach the rest of the article on the [Map Kibera blog](https://www.mapkibera.org/blog/2020/11/25/crowdmapping-in-the-midst-of-a-pandemic/), and follow them on Twitter at [@mapkibera](https://twitter.com/mapkibera).*
+*Read the rest of the article on the [Map Kibera blog](https://www.mapkibera.org/blog/2020/11/25/crowdmapping-in-the-midst-of-a-pandemic/), and follow them on Twitter at [@mapkibera](https://twitter.com/mapkibera).*
