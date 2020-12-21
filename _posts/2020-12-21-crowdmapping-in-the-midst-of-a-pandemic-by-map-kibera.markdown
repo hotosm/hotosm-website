@@ -10,7 +10,7 @@ Country:
 - 'Kenya '
 ---
 
-*This article originally appeared on the [Map Kibera blog](https://www.mapkibera.org/blog/). *
+*This article originally appeared on the [Map Kibera blog](https://www.mapkibera.org/blog/).*
 
 2020 has been a unique year owing to the fact that the whole world was brought to a stand-still by a global pandemic. Kibera and other informal settlements of Nairobi weren’t spared either. Most of the Kibera residents work as casual labourers and due to the regulations set up by the government, the majority of the residents lost their jobs while some had to shut down their business. This left most of them having to rely on well wishers for any form of support.
 
