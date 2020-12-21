@@ -4,18 +4,21 @@ date: 2020-12-20 22:01:00 Z
 Summary Text: This year, remote mapping for Quezon City and the Province of Pampanga
   were completed, and a new pilot area, Marikina City, was added. Furthermore, field
   data collection has progressed well in Pampanga despite the pandemic.
+Feature Image: "/uploads/Lubao%20-%20Pampanga.jpg"
 Person:
-- 
-- 
+- Feye Andal
+- Jikka Defino
 Country:
 - Philippines
 Project:
 - 'Data-Driven Disaster Risk Management: PhilAWARE'
 ---
 
-2020 has been an impactful year for HOT Philippines as the country team’s flagship program, the PhilAWARE project, sprung to life on the field. Launched in July 2019, the PhilAWARE project is a localized version of DisasterAWARE, funded by the Pacific Disaster Center (PDC) and supported by the Office of Civil Defense (OCD) for the National Disaster Risk Reduction and Management Council (NDRRMC).
+2020 has been an impactful year for HOT Philippines as the country team’s flagship project, PhilAWARE, sprung to life on the field. Launched in July 2019, the PhilAWARE project is a localized version of DisasterAWARE, funded by the Pacific Disaster Center (PDC) and supported by the Office of Civil Defense (OCD) for the National Disaster Risk Reduction and Management Council (NDRRMC).
 
-Initially, the HOT Philippines team was tasked to map two pilot areas: the Province of Pampanga, and Quezon City in Metro Manila. This year, remote mapping for both areas were completed, and a new pilot area for remote mapping was added: Marikina City in Metro Manila. Furthermore, despite the pandemic, field data collection has also progressed well in Pampanga.
+Initially, the HOT Philippines team was tasked to map two pilot areas: the Province of Pampanga, and Quezon City in Metro Manila. This year, remote mapping for both areas were completed, and a new pilot area for remote mapping was added: Marikina City in Metro Manila. Furthermore, despite the pandemic, field data collection has progressed well in Pampanga.
+
+![Pampanga_animated_v2.gif](/uploads/Pampanga_animated_v2.gif)
 
 The HOT Philippines team trained local government units and volunteers on how to map (remotely and in the field), analyze data from OpenStreetMap, and integrate the data into the government’s disaster management efforts. Data gathered includes building footprints, road networks, and disaster vulnerability characteristics. The building footprints and road networks are mapped remotely through the HOT Tasking Manager using up-to-date satellite imagery. This data is further improved through the collection of attribute information on the ground during field mapping.
 
