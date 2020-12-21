@@ -5,7 +5,7 @@ Photo: "/uploads/IMG_1612.JPG"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Deputy Country Manager
+Job Title: Country Manager
 Country: Tanzania
 ---
 
