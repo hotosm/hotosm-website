@@ -8,6 +8,8 @@ Is image top aligned: true
 Person: Map Kibera
 Country:
 - 'Kenya '
+Project:
+- 'Community development: Microgrants and Device Grants'
 ---
 
 *This article originally appeared on the [Map Kibera blog](https://www.mapkibera.org/blog/).*
