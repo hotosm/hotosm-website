@@ -1,7 +1,7 @@
 ---
 title: 'Population Counts: Aiming humanitarian mappers at populated areas with Disaster
   Ninja (by Kontur)'
-date: 2020-12-23 10:40:00 Z
+date: 2020-12-23 07:00:00 Z
 Summary Text: Correlating OpenStreetMap data with population density helps activate
   disaster mapping solely where it has humanitarian impact.
 Feature Image: "/uploads/1_3FHXUekE4B7a90ZFaGUu7Q.png"
