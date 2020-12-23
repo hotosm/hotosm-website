@@ -1,5 +1,5 @@
 ---
-title: Yer Çizenler - Community Impact Program
+title: Community Impact Program (by Yer Çizenler)
 date: 2020-12-23 07:00:00 Z
 Summary Text: Yer Çizenler is adding Turkish language support to OpenStreetMap related
   tools, translating existing OpenStreetMap documents into Turkish and expanding the
