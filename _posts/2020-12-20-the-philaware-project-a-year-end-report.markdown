@@ -26,17 +26,19 @@ Initially, the HOT Philippines team was tasked to map two pilot areas: the Provi
 
 ![ezgif.com-resize.gif](/uploads/ezgif.com-resize.gif)
 
-The HOT Philippines team trained local government units and volunteers on how to map (remotely and in the field), analyze data from OpenStreetMap, and integrate the data into the government’s disaster management efforts. Data gathered includes building footprints, road networks, and disaster vulnerability characteristics. The building footprints and road networks are mapped remotely through the HOT Tasking Manager using satellite imagery. This data is further improved through the collection of attribute information on the ground during field mapping.
+The HOT Philippines team trained local government units and volunteers on how to map (remotely and in the field), analyze data from OpenStreetMap, and integrate the data into the government’s disaster management efforts. Data gathered includes building footprints, road networks, and critical lifeline infrastructures. The building footprints and road networks are mapped remotely through the HOT Tasking Manager using satellite imagery. This data is further improved through the collection of attribute information on the ground during field mapping.
 
 ![Newsletter-88fa7c.png](/uploads/Newsletter-88fa7c.png)
 
 # Statistics as of Writing
 
-![Screen Shot 2020-12-18 at 12.49.26 PM.png](/uploads/Screen%20Shot%202020-12-18%20at%2012.49.26%20PM.png)
+![Screen Shot 2020-12-18 at 12.49.26 PM-20cf85.png](/uploads/Screen%20Shot%202020-12-18%20at%2012.49.26%20PM-20cf85.png)
 
 **Field Operations**
 
 The table below summarizes the progress of the Pampanga Team on field mapping and data processing activities as of 18 December, 2020.
+
+![Screen Shot 2020-12-18 at 12.50.05 PM-12b69d.png](/uploads/Screen%20Shot%202020-12-18%20at%2012.50.05%20PM-12b69d.png)
 
 **POI Collection:**
 
@@ -44,7 +46,7 @@ The table below shows the critical lifeline infrastructures (POIs) that were col
 
 The table below shows the quantity of the added and updated points of interests (POIs) collected during the field mapping activities for each municipality.
 
-![Screen Shot 2020-12-21 at 6.20.57 AM.png](/uploads/Screen%20Shot%202020-12-21%20at%206.20.57%20AM.png)
+![Screen Shot 2020-12-21 at 6.20.57 AM-459241.png](/uploads/Screen%20Shot%202020-12-21%20at%206.20.57%20AM-459241.png)
 
 **Road Mapping**
 
