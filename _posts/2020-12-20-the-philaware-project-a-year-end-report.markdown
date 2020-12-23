@@ -26,7 +26,7 @@ Initially, the HOT Philippines team was tasked to map two pilot areas: the Provi
 
 ![ezgif.com-resize.gif](/uploads/ezgif.com-resize.gif)
 
-The HOT Philippines team trained local government units and volunteers on how to map (remotely and in the field), analyze data from OpenStreetMap, and integrate the data into the government’s disaster management efforts. Data gathered includes building footprints, road networks, and disaster vulnerability characteristics. The building footprints and road networks are mapped remotely through the HOT Tasking Manager using up-to-date satellite imagery. This data is further improved through the collection of attribute information on the ground during field mapping.
+The HOT Philippines team trained local government units and volunteers on how to map (remotely and in the field), analyze data from OpenStreetMap, and integrate the data into the government’s disaster management efforts. Data gathered includes building footprints, road networks, and disaster vulnerability characteristics. The building footprints and road networks are mapped remotely through the HOT Tasking Manager using satellite imagery. This data is further improved through the collection of attribute information on the ground during field mapping.
 
 ![Newsletter-88fa7c.png](/uploads/Newsletter-88fa7c.png)
 
