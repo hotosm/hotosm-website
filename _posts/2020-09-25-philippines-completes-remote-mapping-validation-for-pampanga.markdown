@@ -18,7 +18,7 @@ Summary Text: On September 21, 2020, the Philippine mapping team finished remote
   and validation for the whole of Pampanga.
 Feature Image: "/uploads/HOT-horizontal-lead-images-2.jpg"
 Is image top aligned: true
-Person: Jikka Defino
+Person: Jikka Defiño
 Working Group:
 - Communications
 - Community
