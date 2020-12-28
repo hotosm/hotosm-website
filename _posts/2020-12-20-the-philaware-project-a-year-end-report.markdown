@@ -7,7 +7,7 @@ Summary Text: This year, remote mapping for Quezon City and the Province of Pamp
 Feature Image: "/uploads/Brown%20Photo%20Travel%20Facebook%20Ad-2.png"
 Person:
 - Feye Andal
-- Jikka Defino
+- Jikka Defiño
 Country:
 - Philippines
 Project:
