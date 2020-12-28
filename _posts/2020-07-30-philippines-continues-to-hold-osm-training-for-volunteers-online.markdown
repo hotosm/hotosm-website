@@ -5,7 +5,7 @@ Summary Text: Despite movement restrictions in the country, HOT Philippines is a
   to continue training volunteers by identifying their needs and shifting training
   efforts online.
 Feature Image: "/uploads/HOT%20Twitter%20&%20Custom%20Link%20Signs-2.png"
-Person: Jikka Defino
+Person: Jikka Defiño
 Working Group:
 - Training
 Country:

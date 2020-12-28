@@ -14,7 +14,7 @@ Summary Text: 'This August, HOT Philippines began training with LGU volunteers i
   Pampanga, celebrated #HOT10YRS, and sealed partnerships for September.'
 Feature Image: "/uploads/Training-in-Pampanga---field.png"
 Is image top aligned: true
-Person: Jikka Defino
+Person: Jikka Defiño
 Working Group:
 - Communications
 - Community
