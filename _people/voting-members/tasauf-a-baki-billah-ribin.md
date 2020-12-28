@@ -4,7 +4,7 @@ date: 2017-02-28 14:02:00 Z
 Photo: "/uploads/Ribin%20headshot.PNG"
 Member Type:
   Is Voting Member: true
-  Is Board Member: true
+  Is Board Member: false
 Working Group:
 - Fundraising
 - Community
