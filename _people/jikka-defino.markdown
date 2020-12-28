@@ -8,6 +8,8 @@ Job Title: Commmunications Associate
 Working Group:
 - Communications
 - Community
+Project:
+- 'Data-Driven Disaster Risk Management: PhilAWARE'
 Country: Philippines
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Jikka
