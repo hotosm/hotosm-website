@@ -5,7 +5,6 @@ Photo: "/uploads/mumaran-23a31f.jpg"
 Member Type:
   Is Staff: true
 Job Title: Scrum Master and Agile Coach
-Country: Philippines
 ---
 
 Hya has joined HOT to support the organisation and teams towards agile mindset and delivery. She is an IT professional who is innovative, with combined skills of business and technical acumen. Appointed to lead start-up and pilot teams both in corporate and non-profit organisations, she honed her skills in the areas of coaching, mentoring, facilitation and product management.
