@@ -18,7 +18,7 @@ We are addressing this challenge through the use of collaborative mapping using 
 
 In order to ensure sustainability and ownership of this project, we identified and met with the Albaraka health spring foundation (AHSF) and the COVID-19 task force team, the former being our local implementing partners and the latter being the Government response team for COVID-19. Over 30 community mappers have been trained in the use and benefit of OpenStreetMap, while five field officers have been trained in data collection, and seven drivers trained in the use of OSMAnd for navigation and mapping.
 
-![HM2.jpg](/uploads/HM2.jpg)
+![HM3.jpg](/uploads/HM3.jpg)
 
 Over 2,000 buildings, 950 km of roads, 1,000 health facilities, 1,264 amenities (IDP camps, schools, banks, etc.), COVID-19 infrastructures (point of entries, testing centers, etc.) were digitized. A youth mapper association was created within the University of Maiduguri, and one at Ramat Polytechnic is in the pipeline.
 
