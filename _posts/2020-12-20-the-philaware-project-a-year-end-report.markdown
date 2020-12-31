@@ -22,7 +22,7 @@ Initially, the HOT Philippines team was tasked to map two pilot areas: the Provi
 
 ![ezgif.com-resize.gif](/uploads/ezgif.com-resize.gif)
 
-Aside from the remote mapping activities, the HOT Philippines mapping team also began collecting [critical lifeline infrastructure data ](https://wiki.openstreetmap.org/wiki/PhilAWARE_Data_Model)from the ground in the municipalities in Pampanga. Field operations were made possible through the support of the local government offices and volunteers in Pampanga despite the restrictions of COVID-19.
+Aside from the remote mapping activities, the HOT Philippines mapping team also began collecting **[critical lifeline infrastructure data ](https://wiki.openstreetmap.org/wiki/PhilAWARE_Data_Model)**from the ground in the municipalities in Pampanga. Field operations were made possible through the support of the local government offices and volunteers in Pampanga despite the restrictions of COVID-19.
 
 ![Newsletter-88fa7c.png](/uploads/Newsletter-88fa7c.png)
 
@@ -42,7 +42,7 @@ The table below summarizes the progress of the Pampanga Team on field mapping an
 
 **POI Collection:**
 
-The image below shows the critical lifeline infrastructures (POIs) that were collected, processed, and uploaded by the Pampanga Team in OpenStreetMap as of 18 December. These data were extracted from the Overpass API and are now available for download by the public.
+The image below shows the critical lifeline infrastructures (POIs) that were collected, processed, and uploaded by the Pampanga Team in OpenStreetMap as of 18 December. These data were extracted from the Overpass API and are now available for download by the public. Names marked with asterisks means POIs have only been partially added.
 
 ![Pampanga POI collection added-569c17.png](/uploads/Pampanga%20POI%20collection%20added-569c17.png)
 
@@ -55,7 +55,6 @@ The table below shows the quantity of the added and updated points of interests 
 See animated images below for the coverage of the road mapping.
 
 ![Pampanga Road Tracks 2020.gif](/uploads/Pampanga%20Road%20Tracks%202020.gif)
-
 
 To view a detailed summary of the work done by HOT Philippines' mapping team for both the PhilAWARE and OSMaPaaralan projects, please visit **[this report on GitHub](https://feyeandal.github.io/hotphmappingteam/)**.
 
