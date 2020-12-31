@@ -60,7 +60,7 @@ See animated images below for the coverage of the road mapping.
 
 ## **HOT-Philippines Mapping Team Year in Review**
 
-To view a detailed summary of the work done HOT Philippines' mapping team, please visit [this report on GitHub](https://feyeandal.github.io/hotphmappingteam/).
+To view a detailed summary of the work done HOT Philippines' mapping team, please visit **[this report on GitHub](https://feyeandal.github.io/hotphmappingteam/)**.
 
 \
 ***\*This article is currently being updated to reflect efforts in Training, Partnerships, and Communications as well.***
