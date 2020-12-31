@@ -60,7 +60,7 @@ See animated images below for the coverage of the road mapping.
 
 ![Pampanga Road Tracks 2020.gif](/uploads/Pampanga%20Road%20Tracks%202020.gif)
 
-## **HOT-Philippines Mapping Team Year in Review**
+## HOT-Philippines Mapping Team Year in Review
 
 To view a detailed summary of the work done HOT Philippines' mapping team, please visit **[this report on GitHub](https://feyeandal.github.io/hotphmappingteam/)**.
 
