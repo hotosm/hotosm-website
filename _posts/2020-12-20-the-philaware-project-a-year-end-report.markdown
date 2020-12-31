@@ -22,11 +22,11 @@ Project:
 
 ### HOT Philippines' Role in the Project
 
-Initially, the HOT Philippines team was tasked to map two pilot areas: the Province of Pampanga, and Quezon City in Metro Manila. This year, remote mapping for both areas were completed, and a new pilot area for remote mapping was added: Marikina City in Metro Manila. Furthermore, despite the pandemic, field data collection has progressed well in Pampanga.
+Initially, the HOT Philippines team was tasked to map two pilot areas: the Province of Pampanga, and Quezon City in Metro Manila. This year, remote mapping for both areas were completed, and a new pilot area for remote mapping was added: Marikina City in Metro Manila. Remote mapping and validation activities for Pampanga and Quezon City were completed with the help of volunteers, organizations, partners, and other stakeholders while Marikina City is still in progress.
 
 ![ezgif.com-resize.gif](/uploads/ezgif.com-resize.gif)
 
-The HOT Philippines team trained local government units and volunteers on how to map (remotely and in the field), analyze data from OpenStreetMap, and integrate the data into the government’s disaster management efforts. Data gathered includes building footprints, road networks, and critical lifeline infrastructures. The building footprints and road networks are mapped remotely through the HOT Tasking Manager using satellite imagery. This data is further improved through the collection of attribute information on the ground during field mapping.
+Aside from the remote mapping activities, the HOT Philippines mapping team also began collecting the [critical lifeline infrastructure data ](https://wiki.openstreetmap.org/wiki/PhilAWARE_Data_Model)from the ground in the municipalities in Pampanga. Field operations were made possible through the support of the local government offices and volunteers in Pampanga despite the restrictions of COVID-19.
 
 ![Newsletter-88fa7c.png](/uploads/Newsletter-88fa7c.png)
 
@@ -46,7 +46,9 @@ The table below summarizes the progress of the Pampanga Team on field mapping an
 
 **POI Collection:**
 
-The table below shows the critical lifeline infrastructures (POIs) that were collected, processed, and uploaded by the Pampanga Team in OpenStreetMap as of 18 December. These data were extracted from the Overpass API and are now available for download by the public.
+The image below shows the critical lifeline infrastructures (POIs) that were collected, processed, and uploaded by the Pampanga Team in OpenStreetMap as of 18 December. These data were extracted from the Overpass API and are now available for download by the public.
+
+![Pampanga POI collection added.png](/uploads/Pampanga%20POI%20collection%20added.png)
 
 The table below shows the quantity of the added and updated points of interests (POIs) collected during the field mapping activities for each municipality.
 
