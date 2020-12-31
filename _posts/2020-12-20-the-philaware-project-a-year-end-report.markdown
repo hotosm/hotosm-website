@@ -32,7 +32,7 @@ Aside from the remote mapping activities, the HOT Philippines mapping team also 
 
 ## HOT-Philippines Mapping Team Year in Review
 
-To view a detailed summary of the work done HOT Philippines' mapping team, please visit **[this report on GitHub](https://feyeandal.github.io/hotphmappingteam/)**.
+To view a detailed summary of the work done by HOT Philippines' mapping team for both the PhilAWARE and OSMaPaaralan projects, please visit **[this report on GitHub](https://feyeandal.github.io/hotphmappingteam/)**.
 
 **Statistics as of writing**
 
@@ -61,7 +61,7 @@ See animated images below for the coverage of the road mapping.
 ![Pampanga Road Tracks 2020.gif](/uploads/Pampanga%20Road%20Tracks%202020.gif)
 
 
-To view a detailed summary of the work done HOT Philippines' mapping team for both the PhilAWARE and OSMaPaaralan projects, please visit **[this report on GitHub](https://feyeandal.github.io/hotphmappingteam/)**.
+To view a detailed summary of the work done by HOT Philippines' mapping team for both the PhilAWARE and OSMaPaaralan projects, please visit **[this report on GitHub](https://feyeandal.github.io/hotphmappingteam/)**.
 
 \
 ***\*This article is currently being updated to reflect efforts in Training, Partnerships, and Communications as well.***
