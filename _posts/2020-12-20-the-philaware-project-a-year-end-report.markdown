@@ -22,7 +22,7 @@ Initially, the HOT Philippines team was tasked to map two pilot areas: the Provi
 
 ![ezgif.com-resize.gif](/uploads/ezgif.com-resize.gif)
 
-Aside from the remote mapping activities, the HOT Philippines mapping team also began collecting the [critical lifeline infrastructure data ](https://wiki.openstreetmap.org/wiki/PhilAWARE_Data_Model)from the ground in the municipalities in Pampanga. Field operations were made possible through the support of the local government offices and volunteers in Pampanga despite the restrictions of COVID-19.
+Aside from the remote mapping activities, the HOT Philippines mapping team also began collecting [critical lifeline infrastructure data ](https://wiki.openstreetmap.org/wiki/PhilAWARE_Data_Model)from the ground in the municipalities in Pampanga. Field operations were made possible through the support of the local government offices and volunteers in Pampanga despite the restrictions of COVID-19.
 
 ![Newsletter-88fa7c.png](/uploads/Newsletter-88fa7c.png)
 
