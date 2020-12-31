@@ -38,15 +38,13 @@ The HOT Philippines team trained local government units and volunteers on how to
 
 The table below summarizes the progress of the Pampanga Team on field mapping and data processing activities as of 18 December, 2020.
 
-![Screen Shot 2020-12-18 at 12.50.05 PM-12b69d.png](/uploads/Screen%20Shot%202020-12-18%20at%2012.50.05%20PM-12b69d.png)
+![field mapping.png](/uploads/field%20mapping.png)
 
 **POI Collection:**
 
 The table below shows the critical lifeline infrastructures (POIs) that were collected, processed, and uploaded by the Pampanga Team in OpenStreetMap as of 18 December. These data were extracted from the Overpass API and are now available for download by the public.
 
 The table below shows the quantity of the added and updated points of interests (POIs) collected during the field mapping activities for each municipality.
-
-![Screen Shot 2020-12-21 at 6.20.57 AM-459241.png](/uploads/Screen%20Shot%202020-12-21%20at%206.20.57%20AM-459241.png)
 
 **Road Mapping**
 
