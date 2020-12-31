@@ -32,7 +32,7 @@ The HOT Philippines team trained local government units and volunteers on how to
 
 # Statistics as of Writing
 
-![Screen Shot 2020-12-18 at 12.49.26 PM-20cf85.png](/uploads/Screen%20Shot%202020-12-18%20at%2012.49.26%20PM-20cf85.png)
+![field statistics.png](/uploads/field%20statistics.png)
 
 **Field Operations**
 
@@ -46,13 +46,13 @@ The table below shows the critical lifeline infrastructures (POIs) that were col
 
 The table below shows the quantity of the added and updated points of interests (POIs) collected during the field mapping activities for each municipality.
 
+![poi.png](/uploads/poi.png)
+
 **Road Mapping**
 
 See animated images below for the coverage of the road mapping.
 
-![ezgif.com-video-to-gif-4.gif](/uploads/ezgif.com-video-to-gif-4.gif)
-
-![ezgif.com-video-to-gif-3.gif](/uploads/ezgif.com-video-to-gif-3.gif)
+![Pampanga Road Tracks 2020.gif](/uploads/Pampanga%20Road%20Tracks%202020.gif)
 
 ## **HOT-Philippines Mapping Team Year in Review**
 
