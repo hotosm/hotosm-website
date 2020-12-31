@@ -30,7 +30,11 @@ The HOT Philippines team trained local government units and volunteers on how to
 
 ![Newsletter-88fa7c.png](/uploads/Newsletter-88fa7c.png)
 
-# Statistics as of Writing
+# **HOT-Philippines Mapping Team Year in Review**
+
+To view a detailed summary of the work done HOT Philippines' mapping team, please visit **[this report on GitHub](https://feyeandal.github.io/hotphmappingteam/)**.
+
+**Statistics as of writing**
 
 ![field statistics.png](/uploads/field%20statistics.png)
 
