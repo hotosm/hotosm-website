@@ -1,7 +1,7 @@
 ---
 title: Mikko Tamura
 date: 2021-01-04 13:44:00 Z
-Photo: "/uploads/Headshot.png"
+Photo: "/uploads/Headshot-1aba06.png"
 Member Type:
   Is Staff: true
 Job Title: Community Manager - Asia
