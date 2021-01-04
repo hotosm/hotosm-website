@@ -5,6 +5,7 @@ Photo: "/uploads/Lily_Cheng.JPG"
 Member Type:
   Is Staff: true
 Job Title: Senior Designer
+Country: United States
 ---
 
 Lily is working in the tech team as a senior designer. She is a real world game and experience designer who centers the concept of play as the exploring, growing, creating and connecting people do when they are given the space and time to feel safe and comfortable to bring their entire lived experiences.  

@@ -5,6 +5,7 @@ Photo: "/uploads/ruben.jpg"
 Member Type:
   Is Staff: true
 Job Title: Community Strategist and Research Lead
+Country: Spain
 Social Media (Full URL):
   Twitter: https://twitter.com/nukeador
   LinkedIn: https://www.linkedin.com/in/ruben-rmt/
