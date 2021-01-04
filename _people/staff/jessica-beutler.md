@@ -5,8 +5,7 @@ Photo: "/uploads/Screen%20Shot%202018-09-15%20at%2012.29.57.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Programs Manager
-Country: United States
+Job Title: Field Programs Lead
 Working Group:
 - Training
 Project:
@@ -17,6 +16,7 @@ Project:
 - 'Scaling Machine-Learning Workflows for Participatory Mapping: Monrovia ML Challenge'
 - 'Productivity and Pollution Impacts: Monrovia Market Mapping'
 - 4 County Digitization Liberia
+Country: United States
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/jessbeutler
   LinkedIn: https://www.linkedin.com/in/jess-beutler/
