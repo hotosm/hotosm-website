@@ -37,7 +37,7 @@ One thing is key in community-based projects as MapMakoko, despite getting the b
 
 There was also the physical navigation of the area. Residents move around on bulky canoes through densely populated residential and informal businesses. Communication also proved to be tricky in Makoko as many people speak Egun dialect, while only a few understand Yoruba and French.
 
-[EJXSmR9WkAYqVTO.jfif](/uploads/EJXSmR9WkAYqVTO.jfif)
+![Map Makoko 2.png](/uploads/Map%20Makoko%202.png)
 
 But the project is important - not only to Makoko’s future, but potentially to other communities in similar situations. MapMakoko’s Local Project Lead John Eromosele explains: “MapMakoko to me is a pilot that is currently sprouting sister projects, driving conversations around land rights in Lagos, Nigeria.
 
