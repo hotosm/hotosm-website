@@ -6,7 +6,9 @@ Summary Text: Yer Çizenler is adding Turkish language support to OpenStreetMap 
   infrastructure of Yer Çizenler’s volunteer base while considering gender equality
   and community diversity.
 Feature Image: "/uploads/Screenshot_2020-11-20-Media-Google-Drive.png"
-Person: Yer Çizenler
+Person:
+- Oğuzhan Er
+- Sophie Mower
 Country:
 - Turkey
 Project:
