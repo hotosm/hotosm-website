@@ -5,7 +5,9 @@ date: 2020-12-29 19:30:00 Z
 Summary Text: Humanitarian Mappers of Nigeria is using collaborative mapping to track
   Covid and improve ambulance services in a region already facing insecurity and conflict.
 Feature Image: "/uploads/HM1.jpg"
-Person: Kazeem Owolabi
+Person:
+- Kazeem Owolabi
+- Sophie Mower
 Country:
 - Nigeria
 Project:
