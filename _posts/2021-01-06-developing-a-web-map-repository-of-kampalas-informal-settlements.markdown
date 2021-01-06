@@ -5,6 +5,13 @@ Summary Text: Resilience Mappers has built a web dashboard for geospatial data t
   support efforts by the Ugandan government to help residents of low-income communities
   who have been most affected by Covid-19 lockdowns.
 Feature Image: "/uploads/RM0.png"
+Person:
+- Resilience Mappers
+- Sophie Mower
+Country:
+- Uganda
+Project:
+- 'Community development: Microgrants and Device Grants'
 ---
 
 The growth of informal settlements, slums, and poor residential neighborhoods is a global issue. The rise in urban population in cities like Kampala is no exception. The characteristics of these settlements, such as high density and unplanned, crowded houses, together with a lack of infrastructure, have led to acute problems including drainage, sanitation, and solid waste management. 
