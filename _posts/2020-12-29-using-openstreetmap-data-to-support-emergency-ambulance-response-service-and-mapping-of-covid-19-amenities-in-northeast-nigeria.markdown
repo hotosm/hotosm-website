@@ -1,6 +1,6 @@
 ---
 title: Using OpenStreetMap Data to Support Emergency Ambulance Response Service and
-  Mapping of COVID-19 Amenities in Northeast Nigeria
+  Mapping of COVID-19 Amenities in Northeast Nigeria (by Humanitarian Mappers)
 date: 2020-12-29 19:30:00 Z
 Summary Text: Humanitarian Mappers of Nigeria is using collaborative mapping to track
   Covid and improve ambulance services in a region already facing insecurity and conflict.
