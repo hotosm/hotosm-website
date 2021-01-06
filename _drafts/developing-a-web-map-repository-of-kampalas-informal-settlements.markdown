@@ -24,6 +24,8 @@ While using remote mapping from aerial imagery was the best option available, it
 
 We visualized the data in two formats, static maps and ArcGIS Online web maps. These visualizations were designed for donors and stakeholders targeting interventions depending on the types of M&E questions that could be answered. For example, how many people in an informal settlement are served per water point and the number of residents who have access to a health facility.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9dCMuVzwaAE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Since there was no single inventory that could be accessed by members in the community and aid agencies in these settlements, we created a [web map repository](https://africageoportal.maps.arcgis.com/apps/MapSeries/index.html?appid=f896403797534c73bbc6250a645b97a2) for Kampala’s informal settlements. It offers several benefits over paper maps, such as being quick and efficient to monitor, easy to update, allowing quick retrieval and queries, and offering faster integration of complex, multiple spatial, and non-spatial datasets.
 
 Statistics such as population in these informal settlements, such as the number of services available, the number of buildings, or the number of illegal waste dumping sites, could be visualized on a [dashboard](https://africageoportal.maps.arcgis.com/apps/dashboards/c01c6749d7d14d98a45ba43142a33ce7), which can be accessed by community members, aid agencies, government agencies, and donors. 
@@ -31,10 +33,10 @@ Statistics such as population in these informal settlements, such as the number 
 ![RM3.png](/uploads/RM3.png)
 *The web map dashboard illustrating the services in informal settlements.*
 
-Besides having great successes, we learned many lessons from challenges. Continual discussions and meeting with the stakeholders, especially the data users, is very vital. This helps you drive your activities based on the data needs of the data users. It also avails ideas and schemes that could make your data more beneficial to other related authorities in case they may need it at one point.
+Besides having a successful outcome, we learned many lessons from challenges. Continual discussions and meeting with the stakeholders, especially the data users, is vital. This helps you drive your activities based on the data needs of the data users. It also provides ideas and schemes that could make your data more beneficial to other related authorities in case they may need it at one point.
 
-Secondly, the division of labor and allocation of activities among the project leads could help a lot in management and working faster. It ensures that you have greater efficiency on an activity, save time and costs, less strain as well as producing quality work. Additionally, set deadlines and ensure to meet them. Procrastinations lead to some kind of financial loss and lead to work backlogs. Setting strategies and deadlines to meet them could drive you faster and more productive.
+Secondly, the division of labor and allocation of activities among the project leads could help a lot for management and working faster. It also ensures that you have greater efficiency on an activity, which saves time and costs, creates less strain, and produces higher quality work. Additionally, it's important to set deadlines and ensure you meet them. Procrastination leads to financial loss and work backlogs. Setting strategies and deadlines to meet them drives you to be faster and more productive.
 
 ### So... What next?
 
-Having realized that most data and information in the informal settlements are not documented, we are working closely with KCCA and Actogether to devise means of collecting and updating the information in these settlements. Data about services such as schools, sanitation, waste management, and health facilities ought to be collected, preferably through fieldwork so as to create more meaningful information in addition to this project's deliverables.
+Having realized that most data and information in the informal settlements are not documented, we are working closely with KCCA and Actogether to devise means of collecting and updating the information in these settlements. Data about services such as schools, sanitation, waste management, and health facilities ought to be collected, preferably through fieldwork, so as to create more meaningful information in addition to this project's deliverables.
