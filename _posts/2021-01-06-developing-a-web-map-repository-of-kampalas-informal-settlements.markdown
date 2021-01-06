@@ -1,5 +1,6 @@
 ---
-title: Developing a Web Map Repository of Kampala’s Informal Settlements
+title: Developing a Web Map Repository of Kampala’s Informal Settlements (by Resilience
+  Mappers)
 date: 2021-01-06 14:47:00 Z
 Summary Text: Resilience Mappers has built a web dashboard for geospatial data to
   support efforts by the Ugandan government to help residents of low-income communities
