@@ -5,7 +5,9 @@ Summary Text: Map Kibera shares their experience crowdmapping during the Covid-1
   pandemic to create public health data in Kenya.
 Feature Image: "/uploads/Screenshot%202020-12-21%20090226.jpg"
 Is image top aligned: true
-Person: Map Kibera
+Person:
+- Peter Agenga
+- Sophie Mower
 Country:
 - 'Kenya '
 Project:
