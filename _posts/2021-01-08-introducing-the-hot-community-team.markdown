@@ -19,6 +19,8 @@ Working Group:
 
 In December, HOT launched a new pillar of work under the name “Transformation and Community.” This pillar will be formed of six teams: four regional hubs, the community team, and the communications team. The Transformation & Community pillar exists to reorient HOT’s work and to serve humanitarian OpenStreetMap communities, individuals, and organizations worldwide. Facing the task of supporting humanitarian OpenStreetMap community growth across 94 countries, over the past few months we’ve established a Community Team, taking the opportunity to welcome exciting (and some familiar) faces into the HOT staff team.
 
+# Introducing:
+
 ## Arnalie Faye Vicario - Online Community Engagement Lead
 ![Arnalie headshot_lowres.png](/uploads/Arnalie%20headshot_lowres.png)
 
