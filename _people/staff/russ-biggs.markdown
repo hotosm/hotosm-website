@@ -14,4 +14,4 @@ redirect_from:
 - "/users/russ_biggs"
 ---
 
-Russ is a technical project manager leading HOT's work on mobile data collection tools and projects.
+Russ is a technical project manager and worked on HOT's mobile data collection tools and projects.

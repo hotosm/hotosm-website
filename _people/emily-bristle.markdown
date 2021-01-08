@@ -5,6 +5,7 @@ Photo: "/uploads/Emily%20headshot%20square.jpg"
 Member Type:
   Is Staff: true
 Job Title: Global Human Resources Manager
+Country: United States
 ---
 
 Emily joined HOT in December 2020 on the Global Human Resources team. She was brought on board to help advance HOT's people-focused human resources practices and continue making HOT a great place to work for team members around the world.
