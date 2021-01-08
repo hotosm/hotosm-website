@@ -1,15 +1,15 @@
 ---
 title: Introducing the HOT Community Team
 date: 2021-01-08 12:27:00 Z
-Feature Image: "/uploads/Community%20Team%20Members.png"
+Feature Image: "/uploads/Community%20Team%20Members-17b5d1.png"
 Person:
 - Rebecca Firth
-- Mikko Tamura
-- Sophie Mower
-- Rubén Martín
-- Arnalie Vicario
-- Pete Masters
 - Geoffrey Kateregga
+- Rubén Martín
+- Pete Masters
+- Sophie Mower
+- Mikko Tamura
+- Arnalie Vicario
 Working Group:
 - Community
 ---
