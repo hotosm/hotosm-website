@@ -1,6 +1,9 @@
 ---
 title: Introducing the HOT Community Team
 date: 2021-01-08 12:27:00 Z
+Summary Text: Over the past few months, HOT has assembled a six-person community team
+  to support humanitarian OpenStreetMap community growth across 94 countries. Meet
+  the members and welcome them to the HOT staff team.
 Feature Image: "/uploads/Community%20Team%20Members_lowres.png"
 Person:
 - Rebecca Firth
