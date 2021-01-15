@@ -4,7 +4,7 @@ date: 2020-12-28 06:16:00 Z
 Photo: "/uploads/Bea_photo-c92c80.png"
 Member Type:
   Is Staff: true
-Job Title: 'HR & Operations Associate '
+Job Title: 'Operations & HR Associate '
 Country: Philippines
 ---
 
