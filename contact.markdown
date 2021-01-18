@@ -46,7 +46,7 @@ Office Locations:
   Nav ID: office-locations
 Media:
   Details: "For media enquiries, please contact HOT's Senior Communications Manager,
-    Gihan Hassanein.  \n\nEmail: [communications@hotosm.org](mailto:communications@hotosm.org)\n"
+    Gihan Hassanein.  \n\nEmail: [gihan.hassanein@hotosm.org](mailto:gihan.hassanein@hotosm.org)\n"
   Nav ID: media
 layout: contact
 ---
