@@ -6,7 +6,6 @@ Member Type:
   Is Staff: true
   Is Voting Member: true
 Job Title: Online Community Engagement Lead
-Country: Philippines
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/arnalielsewhere
   Twitter: https://twitter.com/arnalielsewhere
