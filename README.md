@@ -37,6 +37,13 @@ Finally, navigate to http://127.0.0.1:4000/ and you should see the new website!
 
 ![Website](https://user-images.githubusercontent.com/12103383/55768572-96f22280-5aa7-11e9-998d-9667f5d3a7dc.png)
 
-
 ## Website issues
 Please use the issue tracker at https://github.com/hotosm/hotosm-website/issues to report bugs, develop ideas, ask questions or give feedback. Thank you!
+
+## Security Notes
+
+- Github Pages does not support HSTS even when added in meta tags
+- Content-Security-Policy must be tweaked appropriately when new integrations are
+  added
+- Security header controls are absent in GH-Pages; So it's added as HTTP meta
+  tags in `_includes/head.html`
