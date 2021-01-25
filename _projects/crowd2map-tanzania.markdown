@@ -47,4 +47,6 @@ The mapping process has two phases. Firstly, online volunteers trace roads and b
 ## Join us
 Map for Crowd2Map projects [here](https://tasks.hotosm.org/contribute?difficulty=ALL&organisation=Tanzania%20Development%20Trust).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AW3v18ZJYDg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+To find out more see [Crowd2map Website](http://crowd2map.org/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IPXERbF5SFw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
