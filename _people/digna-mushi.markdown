@@ -6,5 +6,5 @@ Member Type:
   Is Staff: true
 Job Title: Assistant Innovation Officer
 Country: Tanzania
+Team: Tanzania
 ---
-

@@ -6,5 +6,5 @@ Member Type:
   Is Staff: true
 Job Title: Operations Manager
 Country: Tanzania
+Team: Tanzania
 ---
-

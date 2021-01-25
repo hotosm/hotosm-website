@@ -8,6 +8,7 @@ Job Title: Quality Assurance
 Project:
 - Facebook
 Country: Indonesia
+Team: Indonesia
 ---
 
 Hanif graduated from Geodetic Engineering Diponegoro University in 2016. Upon graduation, he joined HOT Indonesia in March 2017. Currently, he is a Quality Assurance in Indonesia Road Mapping project. His hobby is aviation, so he can see around the world and draw them. He has a special interest in drone photography and mapping.

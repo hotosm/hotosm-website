@@ -120,6 +120,7 @@ defaults:
     Project:
     - ''
     Country: 
+    Team: 
     Social Media (Full URL):
       OSM: 
       Twitter: 

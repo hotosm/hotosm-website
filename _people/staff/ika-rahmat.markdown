@@ -6,5 +6,5 @@ Member Type:
   Is Staff: true
 Job Title: Finance & Admin Coordinator
 Country: Indonesia
+Team: Indonesia
 ---
-

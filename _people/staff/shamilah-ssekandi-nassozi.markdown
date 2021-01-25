@@ -6,5 +6,5 @@ Member Type:
   Is Staff: true
 Job Title: GIS Training Associate
 Country: Uganda
+Team: Uganda
 ---
-

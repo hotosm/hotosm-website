@@ -11,7 +11,7 @@ Working Group:
 - Governance
 - Data Quality
 - Communications
-- 
+-
 Project:
 - Outreachy
 - OSM Tasking Manager 3.0 Development
@@ -34,7 +34,8 @@ Project:
 - Indonesia Disaster Management Innovation
 - HOT COVID-19 RESPONSE
 - 'HOT and Facebook: Collaboration for open maps and free technology'
-Country: United States
+Country: Philippines
+Team: Global
 Social Media (Full URL):
   OSM: https://openstreetmap.org/user/russdeffner
   Twitter: https://twitter.com/RussellDeffner

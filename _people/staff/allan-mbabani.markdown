@@ -6,5 +6,5 @@ Member Type:
   Is Staff: true
 Job Title: Senior Mapping Supervisor
 Country: Uganda
+Team: Uganda
 ---
-

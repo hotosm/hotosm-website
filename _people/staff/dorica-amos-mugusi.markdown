@@ -7,5 +7,5 @@ Member Type:
   Is Voting Member: true
 Job Title: Mapping Supervisor
 Country: Tanzania
+Team: Tanzania
 ---
-

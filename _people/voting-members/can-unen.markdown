@@ -3,9 +3,8 @@ title: Can Unen
 date: 2018-06-01 20:32:00 Z
 Photo: "/uploads/CanUnen_photo.jpeg"
 Member Type:
-  Is Staff: true
+  Is Staff: false
   Is Voting Member: true
-Job Title: Project Manager
 Project:
 - 'Refugee response: South Sudan and Syria'
 - Regional Road Network Improvement in Turkey and Greece
@@ -15,4 +14,3 @@ Social Media (Full URL):
   LinkedIn: https://www.linkedin.com/in/canunen/
   Instagram: https://www.instagram.com/canunen/
 ---
-

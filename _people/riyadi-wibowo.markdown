@@ -6,5 +6,5 @@ Member Type:
   Is Staff: true
 Job Title: Quality Assurance
 Country: Indonesia
+Team: Indonesia
 ---
-
