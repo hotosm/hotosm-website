@@ -49,4 +49,5 @@ Map for Crowd2Map projects [here](https://tasks.hotosm.org/contribute?difficulty
 
 To find out more see [Crowd2map Website](http://crowd2map.org/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IPXERbF5SFw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IPXERbF5SFw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
