@@ -18,7 +18,7 @@ Project:
 
 # Progress of the PhilAWARE Project
 
-The following maps show the POIs added so far per municipality in the province of Pampanga. The team is tasked to collect and update data for 22 municipalities in Pampanga.
+The following maps show the POIs added so far per municipality in the province of Pampanga. The HOT Philippines team is tasked to collect and update data for 22 municipalities in Pampanga.
 
 ![Blue Orange Wires Technology Science Fair Poster-2.png](/uploads/Blue%20Orange%20Wires%20Technology%20Science%20Fair%20Poster-2.png)
 
@@ -26,9 +26,7 @@ The following maps show the POIs added so far per municipality in the province o
 
 The HOT Philippines mapping team rolled out a new field strategy in order to maximize manpower and keep up with the timeline of activities for PhilAWARE. Below, an excerpt from the January 2021 report submitted to PDC:
 
-*The team experimented with different strategies on how to approach field mapping. The team implemented a plan where one member from each team will be processing data remotely while the others continue field mapping. The team members will alternate between field mapping and data processing. The team plans to utilize this system on a case-by-case basis for each municipality. This will speed up the data processing for each field area. The table below shows a sample of how the system would work:*
-
-![Screen Shot 2021-01-26 at 6.51.15 PM.png](/uploads/Screen%20Shot%202021-01-26%20at%206.51.15%20PM.png)
+> *The team experimented with different strategies on how to approach field mapping. The team implemented a plan where one member from each team will be processing data remotely while the others continue field mapping. The team members will alternate between field mapping and data processing. The team plans to utilize this system on a case-by-case basis for each municipality. This will speed up the data processing for each field area. *
 
 # Data Validator Selection for PhilAWARE
 
