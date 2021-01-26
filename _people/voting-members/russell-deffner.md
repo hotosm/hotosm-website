@@ -11,7 +11,7 @@ Working Group:
 - Governance
 - Data Quality
 - Communications
--
+- 
 Project:
 - Outreachy
 - OSM Tasking Manager 3.0 Development
