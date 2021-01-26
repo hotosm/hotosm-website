@@ -8,7 +8,7 @@ Job Title: Technical Specialist
 Project:
 - DMI
 Country: Indonesia
+Team: Indonesia
 redirect_from:
 - "/users/sheila_amalia"
 ---
-

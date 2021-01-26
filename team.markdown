@@ -9,6 +9,8 @@ countries:
 - Philippines
 - Tanzania
 - Uganda
+hubs:
+- Asia Hub
 layout: roster-staff
 ---
 

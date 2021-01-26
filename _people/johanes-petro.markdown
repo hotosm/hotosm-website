@@ -6,5 +6,5 @@ Member Type:
   Is Staff: true
 Job Title: GIS/Tech Associate
 Country: Tanzania
+Team: Tanzania
 ---
-

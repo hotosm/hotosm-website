@@ -6,7 +6,7 @@ Member Type:
   Is Staff: true
 Job Title: Communications Officer
 Country: Tanzania
+Team: Tanzania
 redirect_from:
 - "/users/hawa_adinani"
 ---
-

@@ -7,5 +7,5 @@ Member Type:
   Is Voting Member: true
 Job Title: Country Manager
 Country: Tanzania
+Team: Tanzania
 ---
-

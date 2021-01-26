@@ -7,7 +7,7 @@ Member Type:
   Is Voting Member: true
 Job Title: Communication Specialist
 Country: Indonesia
+Team: Indonesia
 redirect_from:
 - "/users/adhitya_dido_"
 ---
-

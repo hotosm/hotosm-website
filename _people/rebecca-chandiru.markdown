@@ -6,5 +6,5 @@ Member Type:
   Is Staff: true
 Job Title: Finance/Accountant Assistant
 Country: Uganda
+Team: Uganda
 ---
-

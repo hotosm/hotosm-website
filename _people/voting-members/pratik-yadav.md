@@ -9,8 +9,7 @@ Member Type:
 Project:
 - OpenAerialMap
 - Malaria Elimination Campaign
-Country: India
+Country: United States
 Social Media (Full URL):
   Twitter: https://twitter.com/PrtkYdv
 ---
-

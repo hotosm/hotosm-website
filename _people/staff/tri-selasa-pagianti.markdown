@@ -7,5 +7,5 @@ Member Type:
   Is Voting Member: true
 Job Title: Associate Project Manager
 Country: Indonesia
+Team: Indonesia
 ---
-

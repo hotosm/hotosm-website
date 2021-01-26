@@ -6,5 +6,5 @@ Member Type:
   Is Staff: true
 Job Title: Finance Assistant
 Country: Tanzania
+Team: Tanzania
 ---
-

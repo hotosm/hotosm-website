@@ -6,5 +6,5 @@ Member Type:
   Is Staff: true
 Job Title: Mapping Supervisor
 Country: Uganda
+Team: Uganda
 ---
-

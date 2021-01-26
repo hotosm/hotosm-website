@@ -4,10 +4,10 @@ date: 2018-06-09 23:27:00 Z
 Photo: "/uploads/wille.jpg"
 Member Type:
   Is Staff: true
-Job Title: Developer
+Job Title: Module Owner
 Working Group:
 - Technical
-- 
+-
 Country: Brazil
 Social Media (Full URL):
   OSM: https://openstreetmap.org/user/wille

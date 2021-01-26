@@ -7,5 +7,5 @@ Member Type:
   Is Voting Member: true
 Job Title: Senior Mapping Supervisor
 Country: Indonesia
+Team: Indonesia
 ---
-

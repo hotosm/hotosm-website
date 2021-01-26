@@ -6,5 +6,5 @@ Member Type:
   Is Staff: true
 Job Title: Communications Assistant
 Country: Tanzania
+Team: Tanzania
 ---
-

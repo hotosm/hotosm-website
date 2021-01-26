@@ -6,6 +6,7 @@ Member Type:
   Is Staff: true
 Job Title: Country Manager
 Country: Uganda
+Team: Uganda
 redirect_from:
 - "/users/kiggudde_deogratias"
 ---
