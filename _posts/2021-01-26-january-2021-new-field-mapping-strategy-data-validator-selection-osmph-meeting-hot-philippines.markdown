@@ -18,7 +18,7 @@ Project:
 
 # Progress of the PhilAWARE Project
 
-The following maps show the POIs added so far per municipality in the province of Pampanga.
+The following maps show the POIs added so far per municipality in the province of Pampanga. The team is tasked to collect and update data for 22 municipalities in Pampanga.
 
 ![Blue Orange Wires Technology Science Fair Poster-2.png](/uploads/Blue%20Orange%20Wires%20Technology%20Science%20Fair%20Poster-2.png)
 
@@ -32,7 +32,9 @@ The HOT Philippines mapping team rolled out a new field strategy in order to max
 
 # Data Validator Selection for PhilAWARE
 
-In order to speed up the validation process for the PhilAWARE project, the HOT Philippines mapping team is accepting local volunteer applicants to become data validators. Local applicants may apply through this form online. The data validation leads of HOT are in charge of screening local applicants.
+In order to speed up the validation process for the PhilAWARE project, the HOT Philippines mapping team is accepting local volunteer applicants to become data validators. Local applicants may apply through [this form online](https://bit.ly/HOTPHValidatorSelection). The data validation leads of HOT Philippines are in charge of screening the applicants. Below, the process outlined by the screeners:
+
+![validator selection.png](/uploads/validator%20selection.png)
 
 # OSM Philippines Meeting
 
