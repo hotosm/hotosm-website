@@ -10,7 +10,7 @@ countries:
 - Tanzania
 - Uganda
 hubs:
-- Asia Hub
+- Asia Pacific Hub
 layout: roster-staff
 ---
 

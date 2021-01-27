@@ -6,7 +6,7 @@ Member Type:
   Is Staff: true
 Job Title: Partnerships Manager - Asia
 Country: Philippines
-Team: Asia Hub
+Team: Asia Pacific Hub
 ---
 
 Bry is the Partnerships Manager for Asia at HOT. Prior to this, he was the Country Manager of HOT Philippines, after joining the team as the Deputy Country Manager. He has experience working in the operations and administration of various non-profit, humanitarian and international organizations.

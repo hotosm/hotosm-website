@@ -8,7 +8,7 @@ Member Type:
   Is Board Member: false
 Job Title: Regional Director - Asia
 Country: Nepal
-Team: Asia Hub
+Team: Asia Pacific Hub
 redirect_from:
 - "/users/nama_raj_budhathoki"
 ---
