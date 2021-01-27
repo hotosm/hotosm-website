@@ -6,7 +6,7 @@ Member Type:
   Is Staff: true
   Is Voting Member: true
   Is Board Member: false
-Job Title: Regional Director - Asia
+Job Title: Regional Director - Asia Pacific
 Country: Nepal
 Team: Asia Pacific Hub
 redirect_from:
