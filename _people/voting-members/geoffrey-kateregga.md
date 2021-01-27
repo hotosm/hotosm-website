@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
   Is Voting Member: true
 Job Title: Community Programs Manager
+Country: Uganda
+Team: East Africa Hub
 Working Group:
 - Training
 - Community
@@ -14,7 +16,7 @@ Project:
 - Mapping Financial Inclusion in Uganda
 - Dar Ramani Huria — Dar Open Map
 Social Media (Full URL):
-  Twitter: https://twitter.com/@kateregga1
+  Twitter: https://twitter.com/kateregga1
   LinkedIn: https://www.linkedin.com/pub/kateregga-geoffrey/57/90b/272
   Facebook: https://www.facebook.com/gkateregga1
 redirect_from:
