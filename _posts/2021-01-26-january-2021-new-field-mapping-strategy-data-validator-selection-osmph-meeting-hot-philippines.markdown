@@ -28,7 +28,7 @@ As of writing, the project statistics are as follows:
 
 3. Marikina City → 67,787 buildings and 560.02km of roads added, data from 139 total unique contributors. 74% validated.
 
-The following maps show the POIs added so far per municipality in the province of Pampanga. The HOT Philippines team is tasked to collect data from and update data for 22 municipalities in Pampanga. Below are 12 of them, as included in the January 2021 PDC report:
+The following maps show the POIs added so far per municipality in the province of Pampanga, made possible through the mapping team's efforts on ground. The HOT Philippines team is tasked to collect data from and update data for 22 municipalities in Pampanga. Below are 12 of them, as included in the January 2021 report for our donors:
 
 ![Blue Orange Wires Technology Science Fair Poster-2.png](/uploads/Blue%20Orange%20Wires%20Technology%20Science%20Fair%20Poster-2.png)
 
