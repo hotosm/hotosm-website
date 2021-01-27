@@ -16,7 +16,17 @@ Project:
 - 'Data-Driven Disaster Risk Management: PhilAWARE'
 ---
 
+HOT Philippines is off to a quick start this year to catch up to the timeline of the PhilAWARE project. There have been delays in 2020 due to the COVID-19 pandemic, but the mapping team is constantly adjusting and tweaking their field strategy and schedule to keep up with the project's demands. The team is responsible for coordinating schedules with municipalities, collecting field data when possible and readjusting the schedule when localized lockdowns are imposed.
+
 # Progress of the PhilAWARE Project
+
+As of writing, the project statistics are as follows:
+
+1. Pampanga → 829,867 buildings and 13,743.09km of roads added, data from 1,754 total unique contributors. 100% validated, fieldwork ongoing
+
+2. Quezon City → 397,190 buildings and 2,964.95km of roads added, data from 652 total unique contributors. 100% validated.
+
+3. Marikina City → 67,787 buildings and 560.02km of roads added, data from 139 total unique contributors. 74% validated.
 
 The following maps show the POIs added so far per municipality in the province of Pampanga. The HOT Philippines team is tasked to collect data from and update data for 22 municipalities in Pampanga. Below are 12 of them, as included in the January 2021 PDC report:
 
@@ -30,12 +40,20 @@ The HOT Philippines mapping team rolled out a new field strategy in order to max
 
 # Data Validator Selection for PhilAWARE
 
-In order to speed up the validation process for the PhilAWARE project, the HOT Philippines mapping team is accepting local volunteer applicants to become data validators. Local applicants may apply through [this form online](https://bit.ly/HOTPHValidatorSelection). The data validation leads of HOT Philippines are in charge of screening the applicants. Below, the process outlined by the screeners:
+In order to speed up the validation process for the PhilAWARE project, the HOT Philippines mapping team is accepting local volunteer applicants to become data validators. Local applicants may apply through [this form online](https://bit.ly/HOTPHValidatorSelection). The data validation leads of HOT Philippines are in charge of screening the applicants.
+
+Applicants (1) with an OSM account age of >6 months, with most recent OSM edits are  within 6 months, (2) with prior mapping and/or validation experience on JOSM, (3) who have validated project/s on HOT Tasking Manager within the year, (4) with more than 60% of the validated grids are valid (complete, accurate, consistent) will be prioritized.
+
+Applicants who don't qualify above but meet the following targets will also be considered: (1) Buildings = 5,000, (2) Roads = 20km, (3) Waterways = 10km, (4) Landuse = 500
+
+Below, the process for screening validators, as outlined by the screeners:
 
 ![validator selection.png](/uploads/validator%20selection.png)
 
 # OSM Philippines Meeting
 
-On January 17, 2021, OSM Philippines held our annual planning, going through a 2020 recap of activities and milestones (led by Maning Sambale), reviewing the OSMPH Code of Conduct (drafted by GeoLadies PH and Ministry of Mapping), drafting the 2021 OSM calendar (led by Eugene Villar), and organizing sign-ups for the CoC, the Wiki pages, and general communications and engagement working groups.
+On January 17, 2021, OSM Philippines held our annual planning, going through a 2020 recap of activities and milestones (led by [Maning Sambale](https://www.hotosm.org/people/maning-sambale/)), reviewing the OSMPH Code of Conduct (drafted by GeoLadies PH and Ministry of Mapping), drafting the 2021 OSM calendar (led by Eugene Villar), and organizing sign-ups for the CoC, the Wiki pages, and general communications and engagement working groups.
 
 ![Copy of Summit 2020_2_1 Banner-8.png](/uploads/Copy%20of%20Summit%202020_2_1%20Banner-8.png)
+
+As of writing, the OSMPH communications and engagement working group is in charge of the AWS x OSM video feature, and is working with the project managers at M2comms. The working group in charge of editing OSMPH Wiki pages is set to have an edit-a-thon next month.
