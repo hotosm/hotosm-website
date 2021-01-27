@@ -5,7 +5,7 @@ Photo: "/uploads/GeoffreyKateregga.jpg"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: 'Community Programs Manager'
+Job Title: Community Programs Manager
 Working Group:
 - Training
 - Community
