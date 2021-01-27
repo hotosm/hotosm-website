@@ -38,8 +38,7 @@ The HOT Philippines mapping team rolled out a new field strategy in order to max
 
 > The team experimented with different strategies on how to approach field mapping. The team implemented a plan where one member from each team will be processing data remotely while the others continue field mapping. The team members will alternate between field mapping and data processing. The team plans to utilize this system on a case-by-case basis for each municipality. This will speed up the data processing for each field area.
 
-Photos shared by the team on field below:
-![Copy of Summit 2020_2_1 Banner-11.png](/uploads/Copy%20of%20Summit%202020_2_1%20Banner-11.png)
+![Copy of Summit 2020_2_1 Banner-13.png](/uploads/Copy%20of%20Summit%202020_2_1%20Banner-13.png)
 
 # Data Validator Selection for PhilAWARE
 
