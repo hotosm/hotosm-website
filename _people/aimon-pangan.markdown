@@ -8,5 +8,6 @@ Job Title: Field Coordinator
 Project:
 - 'Data-Driven Disaster Risk Management: PhilAWARE'
 Country: Philippines
+Team: Philippines
 ---
 
