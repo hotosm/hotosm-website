@@ -7,7 +7,7 @@ Member Type:
   Is Voting Member: true
 Job Title: Community Manager - Asia
 Country: Philippines
-Team: Asia Hub
+Team: Asia Pacific Hub
 Social Media (Full URL):
   OSM: https://osm.org/user/mapbeks
   LinkedIn: https://www.linkedin.com/in/mikko-tamura-b45626136
