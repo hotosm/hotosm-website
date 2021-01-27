@@ -5,7 +5,7 @@ date: 2021-01-26 10:23:00 Z
 Summary Text: In order to speed up the validation process for the PhilAWARE project,
   the HOT Philippines team is opening a validator selection process for local volunteers.
   OpenStreetMap Philippines also held our annual planning this month.
-Feature Image: "/uploads/Copy%20of%20Summit%202020_2_1%20Banner-7.png"
+Feature Image: "/uploads/Copy%20of%20Summit%202020_2_1%20Banner-10.png"
 Person: Jikka Defiño
 Working Group:
 - Communications
