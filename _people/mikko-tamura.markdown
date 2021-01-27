@@ -5,7 +5,7 @@ Photo: "/uploads/Headshot-1aba06.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Community Manager - Asia
+Job Title: Community Manager - Asia Pacific
 Country: Philippines
 Team: Asia Pacific Hub
 Social Media (Full URL):
