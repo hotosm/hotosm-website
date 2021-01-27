@@ -6,9 +6,9 @@ Member Type:
   Is Staff: true
   Is Voting Member: true
   Is Board Member: false
-Job Title: 'Regional Director: Asia'
-Team: Asia Hub
+Job Title: Regional Director - Asia
 Country: Nepal
+Team: Asia Hub
 redirect_from:
 - "/users/nama_raj_budhathoki"
 ---
