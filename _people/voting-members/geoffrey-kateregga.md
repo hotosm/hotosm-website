@@ -13,6 +13,7 @@ Working Group:
 Project:
 - Mapping Financial Inclusion in Uganda
 - Dar Ramani Huria — Dar Open Map
+Team: East Africa Hub
 Social Media (Full URL):
   Twitter: https://twitter.com/@kateregga1
   LinkedIn: https://www.linkedin.com/pub/kateregga-geoffrey/57/90b/272
