@@ -4,7 +4,7 @@ date: 2020-03-06 14:39:00 Z
 Photo: "/uploads/HOT_PH01.png"
 Member Type:
   Is Staff: true
-Job Title: Partnerships Manager - Asia
+Job Title: Partnerships Manager - Asia Pacific
 Country: Philippines
 Team: Asia Pacific Hub
 ---
