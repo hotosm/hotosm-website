@@ -48,10 +48,6 @@ Applicants (1) with an OSM account age of >6 months, with most recent OSM edits 
 
 Applicants who don't qualify above but meet the following targets will also be considered: (1) Buildings = 5,000, (2) Roads = 20km, (3) Waterways = 10km, (4) Landuse = 500
 
-Below, the process for screening validators, as outlined by the screeners:
-
-![validator selection.png](/uploads/validator%20selection.png)
-
 # OSM Philippines Meeting
 
 On January 17, 2021, OSM Philippines held our annual planning, going through a 2020 recap of activities and milestones (led by [Maning Sambale](https://www.hotosm.org/people/maning-sambale/)), reviewing the OSMPH Code of Conduct (drafted by GeoLadies PH and Ministry of Mapping), drafting the 2021 OSM calendar (led by Eugene Villar), and organizing sign-ups for the CoC, the Wiki pages, and general communications and engagement working groups.
