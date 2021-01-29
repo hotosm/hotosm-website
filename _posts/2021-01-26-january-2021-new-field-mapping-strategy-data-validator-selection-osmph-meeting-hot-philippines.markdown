@@ -34,7 +34,7 @@ The following maps show the POIs added so far per municipality in the province o
 
 ### Field Strategy
 
-The HOT Philippines mapping team rolled out a new field strategy in order to maximize manpower and keep up with the timeline of activities for PhilAWARE. Below, an excerpt from the January 2021 report submitted to PDC:
+The HOT Philippines mapping team rolled out a new field strategy in order to maximize manpower and keep up with the timeline of activities for PhilAWARE. Presentation to the team was led by [Aimon Pangan](https://www.hotosm.org/people/aimon-pangan/), Field Coordinator of the PhilAWARE project. Below, an excerpt from the January 2021 report submitted to PDC:
 
 > The team experimented with different strategies on how to approach field mapping. The team implemented a plan where one member from each team will be processing data remotely while the others continue field mapping. The team members will alternate between field mapping and data processing. The team plans to utilize this system on a case-by-case basis for each municipality. This will speed up the data processing for each field area.
 
@@ -50,8 +50,8 @@ Applicants who don't qualify above but meet the following targets will also be c
 
 # OSM Philippines Meeting
 
-On January 17, 2021, OSM Philippines held our annual planning, going through a 2020 recap of activities and milestones (led by [Maning Sambale](https://www.hotosm.org/people/maning-sambale/)), reviewing the OSMPH Code of Conduct (drafted by GeoLadies PH and Ministry of Mapping), drafting the 2021 OSM calendar (led by Eugene Villar), and organizing sign-ups for the CoC, the Wiki pages, and general communications and engagement working groups.
+On January 17, 2021, OSM Philippines held our annual planning, going through a 2020 recap of activities and milestones (led by [Maning Sambale](https://www.hotosm.org/people/maning-sambale/)), reviewing the OSMPH Code of Conduct (drafted by [GeoLadies PH](https://twitter.com/geoladiesph) and [Ministry of Mapping](https://twitter.com/mappingministry)), drafting the 2021 OSM calendar (led by [Eugene Villar](https://wiki.openstreetmap.org/wiki/User:Seav)), and organizing sign-ups for the CoC, the Wiki pages, and general communications and engagement working groups.
 
 ![Copy of Summit 2020_2_1 Banner-8.png](/uploads/Copy%20of%20Summit%202020_2_1%20Banner-8.png)
 
-As of writing, the OSMPH communications and engagement working group is in charge of the AWS x OSM video feature, and is working with the project managers at M2comms. The working group in charge of editing OSMPH Wiki pages is set to have an edit-a-thon next month.
+As of writing, the OSMPH communications and engagement working group is in charge of the AWS x OSM video feature, and is working with the project managers at M2Comms—the agency handling the project. The working group in charge of editing OSMPH Wiki pages (led by [Ian Lopez](https://wiki.openstreetmap.org/wiki/User:Ianlopez1115)) is set to have an edit-a-thon next month.
