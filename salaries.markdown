@@ -59,9 +59,9 @@ The source of our location bands now comes from:
 
 During our review process, the location factor was compressed from 5x from lowest to highest band to 3.3x from lowest to highest band. As HOT moves to a regional model, the difference will decrease even more to 2.5x from the lowest to the highest band. 
  
-*Staff are benchmarked against the closest major city to which they live. All benchmarking is compared to Washington, DC, which is HOT’s headquarters.
+* *Staff are benchmarked against the closest major city to which they live. All benchmarking is compared to Washington, DC, which is HOT’s headquarters.*
 
-** We no longer use national level salary data sources, as those skewed our calculations for countries where the urban-rural economic divide was significant. 
+** *We no longer use national level salary data sources, as those skewed our calculations for countries where the urban-rural economic divide was significant.* 
 
 ***Deployed Staff and Digital Nomads***
 
