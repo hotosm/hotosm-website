@@ -35,7 +35,8 @@ The HOT Salary Framework is based upon a formula made up of four factors that, w
 
 The “Role Base Salary” is a number in USD that serves as the benchmark salary for each position in our organization. HOT partners with PayScale.com to get accurate, US national market-based salary data benchmarked to organizations sized at 150 staff in the non-profit humanitarian sector. Working with the Insight Lab at PayScale, we created our first-ever salary structure (all in USD): 
 
-![Salary Framework Base Levels 2.png](/uploads/Salary%20Framework%20Base%20Levels%202.png)
+![Salary Framework Base Levels 3.png](/uploads/Salary%20Framework%20Base%20Levels%203.png)
+*HOT Salary Scale*
 
 Each role falls within a specific grade on the scale above, identified between the hiring manager and the finance team at the creation of the position. Certain job levels include more than one grade, which allows for additional staff growth in those roles. From now on, each position posted on hotosm.org will include the relevant grade from our scale. 
 
@@ -48,6 +49,7 @@ After choosing the “Role Base Salary,” we apply a nonprofit multiplier of 90
 The “Location Factor” aims to ensure staff members receive fair, comparable wages in relation to their peers at HOT, considering the relevant local market and costs. The “Location Factor” (now between 0.3 and 1.0) adjusts the “Role Base Salary” by taking into consideration: 1) the applicant pool of the position (national, regional, or global applicant pools are set at the start of the hiring process), and 2) the physical city location of the individual under consideration.*
 
 ![Locality.png](/uploads/Locality.png)
+*HOT Location Factor Matrix*
 
 The source of our location bands now comes from: 
 * Birches Group data - for national and regional pools (NEW!)
