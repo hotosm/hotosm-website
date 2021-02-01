@@ -8,15 +8,15 @@ Intro Text: "HOT is passionate about transparency and equity. Two years ago, HOT
   as accurate as we wanted. We discovered that individual salary calculations were
   still confusing to staff and needed to be more transparent. We also learned that
   our global organization is complex, with remote staff from dozens of countries and
-  numerous legal systems and markets. \n</br>\nStarting in mid-2020, we undertook
+  numerous legal systems and markets. \n</br>\n</br>\nStarting in mid-2020, we undertook
   a review to ensure our framework is transparent, fair,  and meets the demands of
   a complex, international workforce. We did not throw the first framework out the
   window. On the contrary, we found it provided the necessary structure for determining
-  salaries but needed tweaking and additional resources behind it. \n</br>\nOur goals
-  around compensation have not changed - we still want to ensure a consistent and
-  equitable process for all staff, regardless of position, location, gender, or any
-  other distinguishing characteristic. We are always learning in this process and
-  will continue to make adjustments to ensure fairness. "
+  salaries but needed tweaking and additional resources behind it. \n</br>\n</br>\nOur
+  goals around compensation have not changed - we still want to ensure a consistent
+  and equitable process for all staff, regardless of position, location, gender, or
+  any other distinguishing characteristic. We are always learning in this process
+  and will continue to make adjustments to ensure fairness. "
 Page Link:
   Label: Read More
   Text: Read more from HOT's Executive Director on the impetus behind the framework,
