@@ -35,7 +35,7 @@ The HOT Salary Framework is based upon a formula made up of four factors that, w
 
 The “Role Base Salary” is a number in USD that serves as the benchmark salary for each position in our organization. HOT partners with PayScale.com to get accurate, US national market-based salary data benchmarked to organizations sized at 150 staff in the non-profit humanitarian sector. Working with the Insight Lab at PayScale, we created our first-ever salary structure (all in USD): 
 
-![Salary Framework Base Levels-bfd59f.png](/uploads/Salary%20Framework%20Base%20Levels-bfd59f.png)
+![Salary Framework Base Levels 2.png](/uploads/Salary%20Framework%20Base%20Levels%202.png)
 
 Each role falls within a specific grade on the scale above, identified between the hiring manager and the finance team at the creation of the position. Certain job levels include more than one grade, which allows for additional staff growth in those roles. From now on, each position posted on hotosm.org will include the relevant grade from our scale. 
 
