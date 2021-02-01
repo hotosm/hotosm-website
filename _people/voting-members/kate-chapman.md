@@ -6,6 +6,7 @@ redirect_from:
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-5-1412307645.jpg
 Member Type:
   Is Voting Member: true
+  Is Board Member: true
 Project:
 - Outreachy
 - LearnOSM
