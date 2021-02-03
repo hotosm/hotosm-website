@@ -11,7 +11,7 @@ Country:
 - Uganda
 ---
 
-Congratulations to Resilience Mappers for being selected as the recipient of the hOSM Summit 2020 microgrant! They will be receiving $5,000.00 to support their proposed community engagements and have the opportunity to join the HOT Summit in 2021!
+Congratulations to Resilience Mappers for being selected as the recipient of the hOSM Summit 2020 microgrant! They will be receiving $5,000.00 to support their proposed community engagements and have the opportunity to join the Humanitarian OpenStreetMap Summit in 2021!
 
 Their project focuses on mapping waste dumpsites, health and educational facilities in informal settlements in Kampala, Uganda. The data and maps will be used by Actogether Uganda, a support NGO for the National Slum Dwellers Federation of Uganda (NSDFU), for community-driven negotiation with policymakers for city-wide slum upgrading and to work on community-driven initiatives for transforming urban settlements in Kampala.
 
