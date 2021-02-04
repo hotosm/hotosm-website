@@ -5,7 +5,6 @@ Photo: "/uploads/HOT_ID_Staff_Wulan.png"
 Member Type:
   Is Staff: false
   Is Voting Member: true
-Job Title: Mapping Supervisor
 Project:
 - Facebook
 Country: Indonesia
