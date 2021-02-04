@@ -3,8 +3,8 @@ title: LGBT advocates and allies map the most unmapped towns in the Philippines 
   OpenStreetMap (by MapBeks)
 date: 2021-01-25 08:33:00 Z
 Summary Text: With support from a Facebook Community Impact Microgrant, MapBeks and
-  the Philippine mapping community have been working to map three of the most remote
-  and unmapped towns in the Philippines.
+  the Philippine mapping community have been working to map the most remote and unmapped
+  towns in the Philippines.
 Feature Image: "/uploads/Screenshot%202021-01-25%20094340.png"
 Is image top aligned: true
 Person: MapBeks
