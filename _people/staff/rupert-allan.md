@@ -5,7 +5,6 @@ Photo: "/uploads/Rupert_headshot.jpg"
 Member Type:
   Is Staff: false
   Is Voting Member: true
-Job Title: Country Manager
 Working Group:
 - Community
 - Communications
