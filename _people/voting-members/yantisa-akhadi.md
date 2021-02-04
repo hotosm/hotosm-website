@@ -5,7 +5,6 @@ Photo: "/uploads/HOT_ID_Staff_Yantisa.png"
 Member Type:
   Is Staff: false
   Is Voting Member: true
-Job Title: Country Manager
 Working Group:
 - Training
 - Technical
@@ -26,6 +25,6 @@ redirect_from:
 - "/users/yantisa_akhadi"
 ---
 
-<p>Yantisa Akhadi is the Country Manager of Humanitarian OpenStreetMap Team (HOT) in Indonesia. Prior to HOT, Yantisa have joined UNDP in various information management position for different phases of disaster. He holds Bachelor's degree in Informatics Engineering from Universitas Islam Indonesia and Master's degree in Spatial Information Science from the University of Melbourne, Australia.</p>
+<p>Yantisa is a voting member of HOT and OpenStreetMap Foundation. Previously, he joined UNDP in various information management positions for different phases of disaster. He holds Bachelor's degree in Informatics Engineering from Universitas Islam Indonesia and Master's degree in Spatial Information Science from the University of Melbourne, Australia.</p>
 
-<p>Yantisa is a strong proponents of open data and free and open source movement, back in university he was a founding member of Linux User Group. Currently he is a voting member of HOT and OpenStreetMap Foundation.</p>
+<p>Yantisa is a strong proponents of open data and free and open source movement, and, back in university, he was a founding member of Linux User Group.</p>
