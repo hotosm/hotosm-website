@@ -4,6 +4,7 @@ date: 2017-05-03 20:43:00 Z
 Photo: "/uploads/DeogratiasKiggudee.jpg"
 Member Type:
   Is Staff: true
+  Is Voting Member: true
 Job Title: Country Manager
 Country: Uganda
 Team: Uganda
