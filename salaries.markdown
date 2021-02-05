@@ -47,7 +47,7 @@ The “Location Factor” aims to ensure staff members receive fair, comparable 
 
 ***HOT Location Factor Matrix***
 
-![Locality.png](/uploads/Locality.png)
+![Locality 2.png](/uploads/Locality%202.png)
 
 The source of our location bands now comes from: 
 * Birches Group data - for national and regional pools (NEW!)
