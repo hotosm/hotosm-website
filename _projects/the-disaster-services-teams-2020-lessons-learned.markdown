@@ -15,6 +15,8 @@ Duration:
   End Date: 2020-12-31 00:00:00 Z
 ---
 
+To see the full, scrollable version of this article, [click here](https://hotosm.github.io/2020_DST_lessons/HTML/scrollytelling.html).
+
 ## CALL TO ACTION
 
 Maps are critical in the hours, days, and weeks after a disaster to help the right people and the right supplies get to the right place at the right time, increasing the potential to save lives. In 2020, HOT led the coordination of five mapping responses to disastrous events - also known as Activations - and played a supporting role in another four responses occurring around the world, all amid a global pandemic.
