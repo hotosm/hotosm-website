@@ -78,7 +78,7 @@ layout: default
                     <a href="{{ group['Calendar'] }}">Calendar</a> |
                     {% endif %}
                     {% if group['Chat'] %}
-                    <a href="{{ group['Chat'] }}">Chat</a> 
+                    <a href="{{ group['Chat'] }}">Chat</a>
                     {% endif %}
                     {% if group['Blog'] %}
                     | <a href="{{ group['Blog'] }}">Blog</a>
@@ -114,24 +114,26 @@ layout: default
         {% if page.url contains "/jobs/" %}
 
           <div class="group-section">
-            <p>We seek to recruit persons that reflect the diversity of the communities we work with. <strong>The Humanitarian OpenStreetMap Team (HOT) does not discriminate on the basis of age, gender identity and expression, national origin, race and ethnicity, physical ability, religious or belief systems, political convictions, or sexual orientation.</strong> Further, HOT seeks to support the development and advancement of staff within the organization. Our staff includes people who are parents and nonparents, the self-taught and university educated, and from a wide range of socio-economic backgrounds, lived experiences, and perspectives on the world. <strong>HOT is an equal opportunity employer.</strong> We seek to live our values and promote inclusivity in all locations. All of our staff work collectively and individually to promote a constructive and sensitive approach to others from a variety of backgrounds, where the work of all is valued and respected.</p>
+            <p>We seek to recruit persons that reflect the diversity of the communities we work with. <strong>The Humanitarian OpenStreetMap Team (HOT) does not discriminate on the basis of age, gender identity and expression, national origin, race and ethnicity, physical ability, religious or belief systems, political convictions, or sexual orientation.</strong></p>
+            <p>Further, HOT seeks to support the development and advancement of staff within the organization. Our staff includes people who are parents and nonparents, the self-taught and university educated, and from a wide range of socio-economic backgrounds, lived experiences, and perspectives on the world.</p>
+            <p><strong>HOT is an equal opportunity employer.</strong> We seek to live our values and promote inclusivity in all locations. All of our staff work collectively and individually to promote a constructive and sensitive approach to others from a variety of backgrounds, where the work of all is valued and respected.</p>
 
             <div id="BambooHR"><script src="https://hotosm.bamboohr.com/js/jobs2.php" type="text/javascript"></script><div id="BambooHR-Footer">Powered by<a href="http://www.bamboohr.com" target="_blank" rel="noopener external nofollow noreferrer"><img src="https://resources.bamboohr.com/images/footer-logo.png" alt="BambooHR - HR software"/></a></div></div>
           </div>
-        
+
         {% endif %}
 
         {% if page.url contains "/volunteer-opportunities/" %}
 
           <div class="group-section">
-            <h4>Current Opportunities</h4>  
-            
+            <h4>Current Opportunities</h4>
+
               {% assign current_date = site.time | date: '%Y%m%d' %}
               {% assign volunteer-opportunities_sorted = site.volunteer-opportunities | sort: 'Deadline Date' %}
-  
+
               {% for volunteer-opportunities in volunteer-opportunities_sorted %}
                 {% assign volunteer-opportunities_date = volunteer-opportunities['Deadline Date'] | date: '%Y%m%d' %}
-                {% if volunteer-opportunities_date >= current_date or volunteer-opportunities_date == null %}  
+                {% if volunteer-opportunities_date >= current_date or volunteer-opportunities_date == null %}
 
               <a href="{{ volunteer-opportunities.url }}" class="module light link-through">
                 <div class="module-details">
@@ -147,7 +149,7 @@ layout: default
             <p><em>There are no current openings. Please check back for updates or keep a watch <a href="https://twitter.com/hotosm">on Twitter</a> for updates.</em></p>
             {% endif %}
           {% endfor %}
-        
+
         </div>
 
        {% endif %}
