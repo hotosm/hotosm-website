@@ -17,7 +17,7 @@ Duration:
 
 To see the full, scrollable version of this article, [click here](https://hotosm.github.io/2020_DST_lessons/HTML/scrollytelling.html).
 
-## CALL TO ACTION
+# CALL TO ACTION
 
 Maps are critical in the hours, days, and weeks after a disaster to help the right people and the right supplies get to the right place at the right time, increasing the potential to save lives. In 2020, HOT led the coordination of five mapping responses to disastrous events - also known as Activations - and played a supporting role in another four responses occurring around the world, all amid a global pandemic.
 
@@ -28,7 +28,7 @@ Would you like to contribute to HOT’s humanitarian mission? Besides mapping on
 
 <br>
 
-## 9 ACTIVATIONS IN 2020
+# 9 ACTIVATIONS IN 2020
  
 MAR. 2019 - NOV. 2020 - Venezuela
 195 contributors mapped 434,000 features in OSM-
@@ -66,7 +66,9 @@ NOV. 2020 - ONGOING - Central America Hurricanes: Eta & Iota
 1000+ contributors mapped 150,000 features -
 [#HurricaneEta, More Info](https://wiki.openstreetmap.org/wiki/HurricaneEta)
 
-## ASIA CYCLONES & TYPHOONS 
+<br>
+
+# ASIA CYCLONES & TYPHOONS 
 
 ![SEAsiaTyphoons.png](/uploads/SEAsiaTyphoons.png)
 
@@ -81,7 +83,9 @@ In the meantime, the Philippines was the target of two more tropical storms - lo
 ![rolly.png](/uploads/rolly.png)
 *Poster for one of the mapathon and trainings led by Mapbeks and HOT.*
 
-## CENTRAL AMERICA HURRICANES 
+<br>
+
+# CENTRAL AMERICA HURRICANES 
 
 ![Centralamericahur.png](/uploads/Centralamericahur.png)
 
@@ -94,7 +98,9 @@ Although we were able to connect with local communities, they were unable to man
 ![ulua_copernicus.png](/uploads/ulua_copernicus.png)
 *A map of Ulua Basin in Honduras to estimate floodings for hurricane Iota that incorporates OSM data. COPERNICUS, European Union Emergency Management         Service. (EMSR482)*
 
-## AEGEAN SEA EARTHQUAKE 
+<br>
+
+# AEGEAN SEA EARTHQUAKE 
 
 ![Turkey-e7de5c.png](/uploads/Turkey-e7de5c.png)
 
@@ -107,7 +113,9 @@ HOT’s supported Yer Çizenler with global mapper and validator recruiting, aug
 ![turkey_map.png](/uploads/turkey_map.png)
 *Yer Cizenler's map showing buildings that collapsed completely or partially due to the earthquake.*
 
-## BEIRUT EXPLOSION 
+<br>
+
+# BEIRUT EXPLOSION 
 
 ![Lebabnon.png](/uploads/Lebabnon.png)
 
@@ -126,7 +134,9 @@ Other Collaborative Initiatives:
 ![beirut_TM.png](/uploads/beirut_TM.png)
 *Map on Tasking manager showing tasks for the Beirut Explosion activation.*
 
-## COVID-19 RESPONSE
+<br>
+
+# COVID-19 RESPONSE
 
 ![world-6c0b9c.png](/uploads/world-6c0b9c.png)
 
@@ -138,7 +148,9 @@ As of January 12, 2021, the COVID-19 activation has resulted in over 22,300 mapp
 *Map of Liberian county showing healthcare facilities. Photo Credit: iLab Liberia.*
 ![H2HNetwork_logo-39e77f.jpg](/uploads/H2HNetwork_logo-39e77f.jpg)![ukaid-logo-224600.png](/uploads/ukaid-logo-224600.png)
 
-## KEY TAKEAWAYS 
+<br>
+
+# KEY TAKEAWAYS 
 
 2020 has been a disruptive year, but HOT has adapted by creating a permanently-staffed global Disaster Services Team (DST). With it has come the opportunity for deeper analysis of how HOT responds - or activates - to emergencies:
 
