@@ -92,7 +92,7 @@ Although we were able to connect with local communities, they were unable to man
 ![ulua_copernicus.png](/uploads/ulua_copernicus.png)
 *A map of Ulua Basin in Honduras to estimate floodings for hurricane Iota that incorporates OSM data. COPERNICUS, European Union Emergency Management         Service. (EMSR482)*
 
-### AEGEAN SEA EARTHQUAKE 
+## AEGEAN SEA EARTHQUAKE 
 
 ![Turkey-e7de5c.png](/uploads/Turkey-e7de5c.png)
 
@@ -134,7 +134,7 @@ As of January 12, 2021, the COVID-19 activation has resulted in over 22,300 mapp
 
 ![ProductsDisplay-86ead3.jpeg](/uploads/ProductsDisplay-86ead3.jpeg)
 *Map of Liberian county showing healthcare facilities. Photo Credit: iLab Liberia.*
-![H2HNetwork_logo.jpg](/uploads/H2HNetwork_logo.jpg)![ukaid-logo.png](/uploads/ukaid-logo.png)
+![H2HNetwork_logo-39e77f.jpg](/uploads/H2HNetwork_logo-39e77f.jpg)![ukaid-logo-224600.png](/uploads/ukaid-logo-224600.png)
 
 ## KEY TAKEAWAYS 
 
