@@ -145,10 +145,8 @@ In March 2020, the Disaster Services Team Activated to provide geospatial data, 
 As of January 12, 2021, the COVID-19 activation has resulted in over 22,300 mapping contributors adding 4.5 million map features to OpenStreetMap, including more than 4 million buildings and over 97,000 kilometers of road. This response has supported 33 local groups, organizations, and in one case, an individual mapper looking to improve awareness of services in their city. Between remote mapping projects, microgrants, local community efforts, training, and other projects HOT is supporting, there are a total of 28 countries impacted by these COVID-19 prevention, response, and relief efforts. We are also evaluating 11 additional countries in the Caribbean as part of a joint hurricane and pandemic preparedness campaign.
 
 ![ProductsDisplay-86ead3.jpeg](/uploads/ProductsDisplay-86ead3.jpeg)
-
-*Map of Liberian county showing healthcare facilities. Photo Credit: iLab Liberia.*
-
 ![H2HNetwork_logo-39e77f.jpg](/uploads/H2HNetwork_logo-39e77f.jpg)![ukaid-logo-224600.png](/uploads/ukaid-logo-224600.png)
+*Map of Liberian county showing healthcare facilities. Photo Credit: iLab Liberia.*
 
 <br>
 
@@ -163,5 +161,4 @@ Compliance with the OpenStreetMap Foundation’s [Organized Editing Guidelines (
 Finally, where before it was rare to find a country or even region that had an OSM community, now it is becoming rare to find a country or region without one. It was great to observe many OSM communities growing, becoming self-sufficient, and coordinating disaster responses locally. This has allowed HOT to change its role, from leading activations to supporting communities in their responses.
 
 ![mapping_strategy.png](/uploads/mapping_strategy.png)
-
 *Planning for field mapping. Photo Credit: HOT Uganda.*
