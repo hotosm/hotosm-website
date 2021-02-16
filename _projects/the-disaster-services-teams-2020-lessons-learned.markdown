@@ -26,6 +26,8 @@ Would you like to contribute to HOT’s humanitarian mission? Besides mapping on
 ![Ramani_Huria_TZ_2.jpg](/uploads/Ramani_Huria_TZ_2.jpg)
 *Ramani Huria community-based mappers in Tanzania.*
 
+<br>
+
 ## 9 ACTIVATIONS IN 2020
  
 MAR. 2019 - NOV. 2020 - Venezuela
