@@ -23,6 +23,9 @@ Maps are critical in the hours, days, and weeks after a disaster to help the rig
 
 Would you like to contribute to HOT’s humanitarian mission? Besides mapping on the [Tasking Manager](https://tasks.hotosm.org/), you can spread the word directly with friends and family and by tagging @HOTOSM on your Social Media. Additionally, if you are an experienced OpenStreetMap contributor, you can become a validator and help us ensure high-quality data is delivered to responders and aid agencies. Sign up on our [validator application page](https://bit.ly/HOTValidators)! Last, if you’re over-the-top dedicated like we are and want to be a part of the Disaster Services Team (DST), you can start by attending the Activation Working Group’s meetings. Ask how in our [#disaster-mapping](https://hotosm.slack.com/archives/C4MMB6PD4) Slack channel.
 
+![Ramani_Huria_TZ_2.jpg](/uploads/Ramani_Huria_TZ_2.jpg)
+*Ramani Huria community-based mappers in Tanzania.*
+
 ## 9 ACTIVATIONS IN 2020
  
 MAR. 2019 - NOV. 2020 - Venezuela
@@ -63,6 +66,8 @@ NOV. 2020 - ONGOING - Central America Hurricanes: Eta & Iota
 
 ## ASIA CYCLONES & TYPHOONS 
 
+![SEAsiaTyphoons.png](/uploads/SEAsiaTyphoons.png)
+
 In the Asia storm responses, local communities took the lead, becoming ‘front-liners in their respective regions.’ However, HOT discovered how it could help prevent attrition in smaller organizations and communities by enhancing and better articulating the -already strong- coordination between, and with, local partners and more effectively identifying priority areas for the Disaster Services Team to support.
 
 The first Tropical Storm of the North Indian Ocean Cyclone Season became [Super Cyclonic Storm Amphan](https://en.wikipedia.org/wiki/Cyclone_Amphan). The community in India managed this response with support from HOT for mapper and validator recruitment and documentation assistance.
@@ -71,7 +76,12 @@ After that, [Typhoon Molave](https://wiki.openstreetmap.org/wiki/CycloneMolave) 
 
 In the meantime, the Philippines was the target of two more tropical storms - locally named [Rolly and Ulysses](https://www.mapbeks.org/post/mapbeks-full-support-in-ty-rolly-mapping-operations). While things were busy globally, the HOT office in the Philippines and our global Disaster Services staff supported these responses with the promotion of projects and documentation. Special thanks to Mapbeks ([https://www.mapbeks.org/](https://www.mapbeks.org/)) and the local OSM Philippines group for the excellent management of these incidents.
 
+![rolly.png](/uploads/rolly.png)
+*Poster for one of the mapathon and trainings led by Mapbeks and HOT.*
+
 ## CENTRAL AMERICA HURRICANES 
+
+![Centralamericahur.png](/uploads/Centralamericahur.png)
 
 Reviewing the responses in Central America had a direct impact on the Disaster Services Team, triggering a review of how global partnerships are handled. It inspired an urgency to find a volunteer to support the Disaster Services Team and the Activation Working Group. To strengthen relationships with responding partners. Ultimately creating more efficient communication in and out of activations.
 
@@ -79,7 +89,12 @@ The first of two storms to strike Central America made landfall in Nicaragua. [H
 
 Although we were able to connect with local communities, they were unable to manage the request received from [Copernicus](https://www.copernicus.eu/en) and HOT led the response in Nicaragua and Honduras.
 
+![ulua_copernicus.png](/uploads/ulua_copernicus.png)
+*A map of Ulua Basin in Honduras to estimate floodings for hurricane Iota that incorporates OSM data. COPERNICUS, European Union Emergency Management         Service. (EMSR482)*
+
 ### AEGEAN SEA EARTHQUAKE 
+
+![Turkey-e7de5c.png](/uploads/Turkey-e7de5c.png)
 
 Because the earthquake centered in the Aegean Sea did not turn out into a major crisis, minor disruption allowed for a swift response by the local community. Stronger partnerships with local governments and actors would have been useful as the government’s damage assessment was not accessible to actors in the field. However, the great work led by Yer Çizenler helped them strengthen their reputation and secured them a project with the municipality of Istanbul.
 
@@ -87,7 +102,12 @@ A [7.0 earthquake shook the Aegean Sea](https://wiki.openstreetmap.org/wiki/2020
 
 HOT’s supported Yer Çizenler with global mapper and validator recruiting, augmenting their capacity to lead the response.
 
+![turkey_map.png](/uploads/turkey_map.png)
+*Yer Cizenler's map showing buildings that collapsed completely or partially due to the earthquake.*
+
 ## BEIRUT EXPLOSION 
+
+![Lebabnon.png](/uploads/Lebabnon.png)
 
 During the After Action Review of the Beirut Explosion response, new opportunities for extended collaboration between the local community and other partners were identified. Visit [https://openmaplebanon.org/](https://openmaplebanon.org/) to learn more about the local community’s efforts and what they plan to map next.
 
@@ -99,13 +119,22 @@ Other Collaborative Initiatives:
 
 [Ushahidi - Beirut Explosion](https://beirut.ushahidi.io/) is a platform designed for collecting needs and connecting resources.
 
-[Mapillary](https://wiki.openstreetmap.org/wiki/Mapillary) is being used to collect 'street-view' imagery of the damage, in turn used by agencies and organizations to estimate damage and coordinate relief efforts.
+[Mapillary](https://wiki.openstreetmap.org/wiki/Mapillary) is being used to collect 'street-view' imagery of the damage, in turn used by agencies and organizations to estimate the damage and coordinate relief efforts.
+
+![beirut_TM.png](/uploads/beirut_TM.png)
+*Map on Tasking manager showing tasks for the Beirut Explosion activation.*
 
 ## COVID-19 RESPONSE
+
+![world-6c0b9c.png](/uploads/world-6c0b9c.png)
 
 In March 2020, the Disaster Services Team Activated to provide geospatial data, maps, and training to identified countries in need. Still ongoing, [HOT’s global response to COVID-19](https://wiki.openstreetmap.org/wiki/COVID19) is the largest response ever undertaken by the organization. This response’s gaps and needs have led to an unprecedented level of internal coordination between HOT’s different teams and external collaboration with communities, organizations, agencies, and governments.
 
 As of January 12, 2021, the COVID-19 activation has resulted in over 22,300 mapping contributors adding 4.5 million map features to OpenStreetMap, including more than 4 million buildings and over 97,000 kilometers of road. This response has supported 33 local groups, organizations, and in one case, an individual mapper looking to improve awareness of services in their city. Between remote mapping projects, microgrants, local community efforts, training, and other projects HOT is supporting, there are a total of 28 countries impacted by these COVID-19 prevention, response, and relief efforts. We are also evaluating 11 additional countries in the Caribbean as part of a joint hurricane and pandemic preparedness campaign.
+
+![ProductsDisplay-86ead3.jpeg](/uploads/ProductsDisplay-86ead3.jpeg)
+*Map of Liberian county showing healthcare facilities. Photo Credit: iLab Liberia.*
+![H2HNetwork_logo.jpg](/uploads/H2HNetwork_logo.jpg)![ukaid-logo.png](/uploads/ukaid-logo.png)
 
 ## KEY TAKEAWAYS 
 
@@ -116,3 +145,6 @@ Historically, it has been difficult to quantify the impact of responses, and 202
 Compliance with the OpenStreetMap Foundation’s [Organized Editing Guidelines (OEG)](https://wiki.osmfoundation.org/wiki/Organised_Editing_Guidelines) has been a challenge. Whether these are viewed as required or not, adherence may help avoid misunderstandings between groups/organizations and local communities.
 
 Finally, where before it was rare to find a country or even region that had an OSM community, now it is becoming rare to find a country or region without one. It was great to observe many OSM communities growing, becoming self-sufficient, and coordinating disaster responses locally. This has allowed HOT to change its role, from leading activations to supporting communities in their responses.
+
+![mapping_strategy.png](/uploads/mapping_strategy.png)
+*Planning for field mapping. Photo Credit: HOT Uganda.*
