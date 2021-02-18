@@ -5,6 +5,7 @@ Photo: "/uploads/Profile%20Picture.jpg"
 Member Type:
   Is Staff: true
 Job Title: Regional Director - East Africa
+Country: Kenya
 Team: East-Africa Hub
 ---
 
