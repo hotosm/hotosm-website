@@ -6,8 +6,8 @@ position: 9
 Project Summary Text: Increasing the resilience of countries to natural hazards through
   the integration of open exposure data derived through satellite imagery and open
   protocols.
-Feature Image: "/uploads/image1.jpeg"
-Project Logo Image: "/uploads/uksa-logo.png"
+Feature Image: "https://cdn.hotosm.org/website/image1.jpeg"
+Project Logo Image: "https://cdn.hotosm.org/website/uksa-logo.png"
 Is Community-Led: true
 Country:
 - Nepal
@@ -61,7 +61,7 @@ The project aims to build and strengthen local and global resilience through com
 
 * Create open protocols to develop critical exposure information from EO data
 
-![Screen Shot 2018-10-29 at 14.29.43.png](/uploads/Screen%20Shot%202018-10-29%20at%2014.29.43.png)
+![Screen Shot 2018-10-29 at 14.29.43.png](https://cdn.hotosm.org/website/Screen+Shot+2018-10-29+at+14.29.43.png)
 
 The country-wide datasets developed by ImageCat will be tested for their suitability of purpose against OSM data surveyed on the ground within the cities of Kathmandu and Dar es Salaam. Detailed attribute information following the [GED4ALL](https://wiki.openstreetmap.org/wiki/GED4ALL) taxonomy developed as part of the GFDRR Challenge Fund, will be collected for buildings randomly selected within homogenous zones by Kathmandu Living Labs and Ramani Huria for their cities.
 
@@ -70,8 +70,8 @@ For more detailed information regarding the organised editing work in OSM for Ka
 * [Kathmandu Organised Editing Wiki Page](https://wiki.openstreetmap.org/wiki/Directed_Edits/METEOR_Digitizing_Kathmandu) 
 * [Dar es Salaam Organised Editing Wiki Page](https://wiki.openstreetmap.org/wiki/Meteor_project_in_Tanzania)
 
-![Screen Shot 2018-10-29 at 14.55.22.png](/uploads/Screen%20Shot%202018-10-29%20at%2014.55.22.png)
+![Screen Shot 2018-10-29 at 14.55.22.png](https://cdn.hotosm.org/website/Screen+Shot+2018-10-29+at+14.55.22.png)
 
 METEOR is also working closely with the National Society for Earthquake Technology of Nepal and the Disaster Management Department of the United Republic of Tanzania to ensure that the project is effectively received by local partners.
 
-![Screen Shot 2018-10-24 at 19.14.23.png](/uploads/Screen%20Shot%202018-10-24%20at%2019.14.23.png)
+![Screen Shot 2018-10-24 at 19.14.23.png](https://cdn.hotosm.org/website/Screen+Shot+2018-10-24+at+19.14.23.png)

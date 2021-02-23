@@ -13,7 +13,7 @@ created: 1508830497
 
 [Grab Indonesia](https://www.grab.com/id/?utm_source=google&utm_medium=paidsearch&utm_campaign=ID_G066_ALL_PAX_GR_COM_081215_CTWA_GGR_SEM_BRD_ID&utm_content=ID_G066_ALL_081215_T_Grab_BroadModifier&utm_term=%2Bgrab%20%2Bindonesia&gclid=Cj0KCQjw9uHOBRDtARIsALtCa95eBse-PQdd2cpGlzdp0IakqMm5QvzCu9Kds3JTiDmtpo_PgMYDjd4aAnQtEALw_wcB), a ride-hailing startup, started an unprecedented initiative in the humanitarian world. Partnering up with [Humanitarian OpenStreetMap Team (HOT)](http://openstreetmap.id/), GrabBike drivers were trained to use an Android-base app that can identify evacuation routes and IDP camps, in addition to reporting urgent needs from these camps.
 
-![Screen-Shot-2017-10-05-at-9.50.14-PM-1024x726.png](/uploads/Screen-Shot-2017-10-05-at-9.50.14-PM-1024x726.png)
+![Screen-Shot-2017-10-05-at-9.50.14-PM-1024x726.png](https://cdn.hotosm.org/website/Screen-Shot-2017-10-05-at-9.50.14-PM-1024x726.png)
 
 *BNPB-HOT-Grab Discussed Strategies to Collect Fata from IDP Camps. HOT Indonesia/Biondi Sima*\
 
@@ -23,7 +23,7 @@ GDC by HOT has already been integrated to [Badan Nasional Penanggulangan Bencana
 
 Spatial data with maps, images, and tables of needs are extremely useful for government, humanitarian organizations, and volunteers working on the field when responding to and mitigate disaster risks. A lot of these places might not be identifiable on other existing map platforms. Having them marked by Grab Drivers will give richer information to disaster managers as they are covering for the distribution of basic needs, such as medicine, food, clean water, and other specific needs.
 
-![WhatsApp-Image-2017-10-12-at-6.26.40-AM.jpeg](/uploads/WhatsApp-Image-2017-10-12-at-6.26.40-AM.jpeg)
+![WhatsApp-Image-2017-10-12-at-6.26.40-AM.jpeg](https://cdn.hotosm.org/website/WhatsApp-Image-2017-10-12-at-6.26.40-AM.jpeg)
 
 *\[Pic 2. 144 Camps were Identified by GrabBike Drivers. BNPB/Teguh Harjito\]*\
 
@@ -31,7 +31,7 @@ As a pilot project, HOT started with communicating the initiative with around 50
 
 Together with HOT trainers, the drivers swept across Klungkung and Karang Asem--the two areas with the highest concentration of around 255 IDP camps--to find where the needs are. Drivers finalized data from more than 20 locations and enlisted their existing needs with the help of local camp coordinators in less than three hours during the first round of survey. Within the first week, the drivers were able to gather information from over 144 camps. Grab drivers were also requested to identify livestock owned by refugees and the situation in local clinics and health facilities to prevent the outbreak of communicable diseases from these livestocks.
 
-![Screen-Shot-2017-10-05-at-9.48.14-PM-1024x683.png](/uploads/Screen-Shot-2017-10-05-at-9.48.14-PM-1024x683.png)
+![Screen-Shot-2017-10-05-at-9.48.14-PM-1024x683.png](https://cdn.hotosm.org/website/Screen-Shot-2017-10-05-at-9.48.14-PM-1024x683.png)
 
 *\[Pic 3. One of the Coordinators Pointed at the Number of Female Refugees at a Camp in Bali. HOT Indonesia/Biondi Sima\]*\
 
@@ -45,4 +45,4 @@ There are three reasons why the use of GDC by Grab for refugees identification c
 
 This colaboration between BNPB, HOT Indonesia, and Grab is an exemplary public-private-non-profit partnership at tackling social problem using innovative technology, and crowdsourcing from community's active participation, in this case, the bike drivers.
 
-![Screen-Shot-2017-10-08-at-11.25.30-PM-1024x646.png](/uploads/Screen-Shot-2017-10-08-at-11.25.30-PM-1024x646.png)
+![Screen-Shot-2017-10-08-at-11.25.30-PM-1024x646.png](https://cdn.hotosm.org/website/Screen-Shot-2017-10-08-at-11.25.30-PM-1024x646.png)

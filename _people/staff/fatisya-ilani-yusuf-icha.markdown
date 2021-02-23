@@ -1,7 +1,7 @@
 ---
 title: Fatisya Ilani Yusuf (Icha)
 date: 2018-05-09 17:20:00 Z
-Photo: "/uploads/Screen%20Shot%202018-06-05%20at%202.00.34%20PM.png"
+Photo: "https://cdn.hotosm.org/website/Screen+Shot+2018-06-05+at+2.00.34+PM.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true

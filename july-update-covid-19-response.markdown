@@ -6,4 +6,4 @@ Project:
 layout: faq
 ---
 
-![COVID Infographic (1).png](/uploads/COVID%20Infographic%20(1).png)
+![COVID Infographic (1).png](https://cdn.hotosm.org/website/COVID+Infographic+(1).png)

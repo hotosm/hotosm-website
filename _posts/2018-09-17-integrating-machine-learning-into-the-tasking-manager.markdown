@@ -5,7 +5,7 @@ Summary Text: We're moving towards how we leverage machine learning tools to imp
   data quality and help mappers map. Above is a shot from our design workshop we held
   at the HOT Summit in Dar es Salaam on August 31. Read more below about our ideas
   and a direction we'd like to see within the Tasking Manager.
-Feature Image: "/uploads/tm-ml-workshop-compressor.jpg"
+Feature Image: "https://cdn.hotosm.org/website/tm-ml-workshop-compressor.jpg"
 Person: Nate Smith
 Working Group:
 - Technical

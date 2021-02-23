@@ -7,7 +7,7 @@ Project Summary Text: In partnership with the Clinton Health Access Initiative (
   HOT is performing an on-the-ground validation exercise across eight localities in
   Escuintla and providing support for the integration of OpenMapKit (OMK) and other
   mobile data collection tools into vector control operations.
-Feature Image: "/uploads/IMG_20181004_132956%20(1).jpg"
+Feature Image: "https://cdn.hotosm.org/website/IMG_20181004_132956+(1).jpg"
 Country:
 - Guatemala
 Impact Area:

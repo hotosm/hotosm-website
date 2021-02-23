@@ -23,4 +23,4 @@ names:
 - UGA
 ---
 
-![Cool Shammie Training.JPG](/uploads/Cool%20Shammie%20Training.JPG)
+![Cool Shammie Training.JPG](https://cdn.hotosm.org/website/Cool+Shammie+Training.JPG)

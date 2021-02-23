@@ -1,7 +1,7 @@
 ---
 title: Jikka Defiño
 date: 2020-12-26 06:59:00 Z
-Photo: "/uploads/Jikka-pic%20(1).jpg"
+Photo: "https://cdn.hotosm.org/website/Jikka-pic+(1).jpg"
 Member Type:
   Is Staff: true
 Job Title: Commmunications Associate

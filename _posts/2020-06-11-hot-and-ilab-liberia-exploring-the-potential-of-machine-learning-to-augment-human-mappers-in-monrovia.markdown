@@ -5,7 +5,7 @@ date: 2020-06-11 16:40:00 Z
 Summary Text: HOT worked with iLab Liberia in Monrovia to test the potential of machine
   learning algorithms to automate repetitive mapping tasks and highlight areas in
   need of updating to maximize the impact of human mappers.
-Feature Image: "/uploads/Machine%20Learning%20Monrovia%20Cover%20Image.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Machine+Learning+Monrovia+Cover+Image.jpg"
 Person: Jess Beutler
 Country:
 - Liberia
@@ -28,7 +28,7 @@ This drone data was provided to the machine learning challenge for participants 
 In addition to the machine learning benefits, the drone imagery was used to map roads, buildings, and drains for the twenty square kilometer area where the available satellite imagery did not have the resolution needed to make out these features. The drone imagery is also now publicly accessible on [OpenAerialMap](https://openaerialmap.org/).
 
 
-![Comparison Annotation 2020-06-11 123332.jpg](/uploads/Comparison%20Annotation%202020-06-11%20123332.jpg)
+![Comparison Annotation 2020-06-11 123332.jpg](https://cdn.hotosm.org/website/Comparison+Annotation+2020-06-11+123332.jpg)
 *Satellite imagery (left) versus UAV imagery captured with a SenseFly eBee drone (right)*
 
 
@@ -39,11 +39,11 @@ For the second machine learning exercise, iLab Liberia mounted a Blackvue Dashca
 This imagery was used to map vehicle-accessible roads, and then to train a machine learning algorithm developed by Mapillary to identify street features like street signs and intersections. While this has been done before in the developed world, it is much more challenging in the developing world. iLab Liberia has continued to create and analyze imagery using dashcams, and anyone can access this data via [Mapillary](https://www.mapillary.com/).
 
 
-![Mapillary Imagery Liberia.png](/uploads/Mapillary%20Imagery%20Liberia.png)
+![Mapillary Imagery Liberia.png](https://cdn.hotosm.org/website/Mapillary+Imagery+Liberia.png)
 *Imagery collected at the center of Red Light Market showcasing the heavy foot-traffic on Somalia Drive, a major thoroughfare*
 
 
-![Verification Annotation 2020-06-11 123332.jpg](/uploads/Verification%20Annotation%202020-06-11%20123332.jpg)
+![Verification Annotation 2020-06-11 123332.jpg](https://cdn.hotosm.org/website/Verification+Annotation+2020-06-11+123332.jpg)
 *Verification screen for assessing the accuracy of machine learning algorithm in identifying street features*
 
 
@@ -56,7 +56,7 @@ The objective of this task was to close any existing gaps in the road network ar
 The RapiD Editor detected changes in imagery over time due to construction and suggested current images with changes for users to map. On each image, the Facebook roads AI indicated a suggested road to add with a magenta line, and the mappers decided if the suggestion was correct and added appropriate tags.
 
 
-![RapiD Editor.png](/uploads/RapiD%20Editor.png)
+![RapiD Editor.png](https://cdn.hotosm.org/website/RapiD+Editor.png)
 *Example of RapiD Editor tool, roads identified through Facebook Roads AI in magenta.*
 
 

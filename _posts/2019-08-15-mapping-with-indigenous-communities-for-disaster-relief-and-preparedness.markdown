@@ -5,7 +5,7 @@ Summary Text: Melanie Chabot is a GIS Coordinator with the Canadian Red Cross. S
   leads the Missing Maps pilot project in Canada which aims to map areas important
   to indigenous communities and to assist with disaster preparedness and response
   in these areas.
-Feature Image: "/uploads/IMG_0728-small.JPG"
+Feature Image: "https://cdn.hotosm.org/website/IMG_0728-small.JPG"
 Person: Melanie Chabot
 Country:
 - Canada
@@ -31,7 +31,7 @@ Everyone in these small rural communities tends to know exactly where people liv
 
 A lot of communities are interested and see the value in improving their maps, but they don’t have the resources, capacity or the time themselves to map their community. Our project provides support on how to build GIS skills and use maps. We have volunteers to support with time and effort required to do these maps.
 
-![Tweet_ Quote for Melanie Charbot blog 1-V2.png](/uploads/Tweet_%20Quote%20for%20Melanie%20Charbot%20blog%201-V2.png)
+![Tweet_ Quote for Melanie Charbot blog 1-V2.png](https://cdn.hotosm.org/website/Tweet_+Quote+for+Melanie+Charbot+blog+1-V2.png)
 
 ### Challenges of mapping indigenous areas
 
@@ -45,7 +45,7 @@ The main goal of the project is to map what is important to them. Sometimes we g
 
 It’s been fun to map these Indigenous features as it’s a voice we haven’t seen in OpenStreetMap yet.
 
-![Tweet_ Quote for Melanie Charbot blog 2-V2.png](/uploads/Tweet_%20Quote%20for%20Melanie%20Charbot%20blog%202-V2.png)
+![Tweet_ Quote for Melanie Charbot blog 2-V2.png](https://cdn.hotosm.org/website/Tweet_+Quote+for+Melanie+Charbot+blog+2-V2.png)
 
 ### How HOT and missing maps communities have supported the project
 

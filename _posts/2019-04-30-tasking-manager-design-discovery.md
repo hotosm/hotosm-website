@@ -3,7 +3,7 @@ title: User Experience Discovery with the Tasking Manager
 date: 2019-04-30 10:00:00 Z
 Summary Text: Conducting design research to evaluate mapping and validation workflows
   within the Tasking Manager.
-Feature Image: "/uploads/major-mapping-userflow.png"
+Feature Image: "https://cdn.hotosm.org/website/major-mapping-userflow.png"
 Person: Leihla Pinho
 Working Group:
 - Technical
@@ -29,7 +29,7 @@ We were interested in how users choose a project over another. And how they sele
 
 ## Usability Analysis
 
-![usability](/uploads/major-usability.jpg)
+![usability](https://cdn.hotosm.org/website/major-usability.jpg)
 *Website usability review*
 
 We started by performing a [usability analysis](https://invis.io/TAQL0SMCXH3) where we looked at individual pages and flows to understand how easy they are to use if they follow best practices and standards and if they ultimately help users achieve their goals. We looked at usability heuristics like the visibility of system status, user control and freedom, consistency and standards, flexibility and efficiency and also aesthetics in order to look for improvement points.
@@ -52,14 +52,14 @@ After our initial research, we focused our analysis on user flows within the Tas
 
 Within each user flow, we looked at the actions the user has to take, where the action is taken, and documented pain-points and initial recommendations. 
 
-![mapping-flow](/uploads/major-mapping-userflow.png)
+![mapping-flow](https://cdn.hotosm.org/website/major-mapping-userflow.png)
 *Mapping user flow document*
 
 ### Mapping user flow key challenge 
 
 One of the strongest challenges, which we have identified is the jump to the iD editor when starting to map, which confused a lot of users. Then, whether to know or not that they have to save and report back on their work on both platforms, the iD editor and the Tasking Manager, is one of the biggest bottlenecks and causes for users’ unpleasant experience.
 
-![user-flow](/uploads/major-validation-userflow.png)
+![user-flow](https://cdn.hotosm.org/website/major-validation-userflow.png)
 *Validation user flow analysis document*
 
 ### Validation user flow key challenge

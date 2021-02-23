@@ -1,7 +1,7 @@
 ---
 title: Hanif Arafah Mustofa
 date: 2018-06-01 20:06:00 Z
-Photo: "/uploads/HOT_ID_Staff_Hanif.png"
+Photo: "https://cdn.hotosm.org/website/HOT_ID_Staff_Hanif.png"
 Member Type:
   Is Staff: true
 Job Title: Quality Assurance

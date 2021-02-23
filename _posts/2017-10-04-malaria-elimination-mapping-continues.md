@@ -16,7 +16,7 @@ created: 1507129249
 
 HOT has teamed up with many partners working to eliminate the disease malaria. Malaria is preventable and curable and without transmission will cease to exist. In order to effectively carry out intervention campaigns, HOT has been asked to help identify and map populated places in some of the most susceptible places.
 
-![140909154833-malaria-map-story-top_0.jpg](/uploads/140909154833-malaria-map-story-top_0.jpg)
+![140909154833-malaria-map-story-top_0.jpg](https://cdn.hotosm.org/website/140909154833-malaria-map-story-top_0.jpg)
 
 **Missions Complete:**
 

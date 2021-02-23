@@ -3,7 +3,7 @@ title: Reflections on our “Audacious” Journey
 date: 2020-08-18 00:40:00 Z
 Summary Text: "“Do you have an ambitious idea for tackling one of the world’s biggest
   problems?”"
-Feature Image: "/uploads/image1-41c9fa.jpg"
+Feature Image: "https://cdn.hotosm.org/website/image1-41c9fa.jpg"
 Person:
 - Rebecca Firth
 - Tyler Radford
@@ -15,13 +15,13 @@ Project:
 
 **Tyler: On Friday, June 8, 2018 I was doing my regular Friday review of funding opportunities. One of the emails I look at every week is the Tech Nonprofit Leaders Weekly from Fast Forward. An opportunity popped out at me**: “*Do you have an ambitious idea for tackling one of the world's biggest problems? [The Audacious Project](https://audaciousproject.org/) has set an audacious goal to fund 7 world changing ideas that are truly bold and truly actionable. Learn more*”.  As is quite usual for us, we put together an application - with an hour to spare before the 11:59pm deadline!
 
-![image8-e2557e.png](/uploads/image8-e2557e.png)
+![image8-e2557e.png](https://cdn.hotosm.org/website/image8-e2557e.png)
 
 ## August 31, 2018: Rejection
 
 **Tyler:** So, this arrived. For better or worse, we’ve become quite accustomed to this type of email. We let the disappointment sink in for all of about 30 seconds, then moved on with other tasks for the day.
 
-![image4-867904.png](/uploads/image4-867904.png)
+![image4-867904.png](https://cdn.hotosm.org/website/image4-867904.png)
 
 ## May 16, 2019: An unexpected surprise
 
@@ -35,7 +35,7 @@ We re-submitted and within a week were invited back for Round 2! I’d like to s
 
 **Rebecca:** We bumbled our way through a nerve-wracking online meeting with Head of TED, Chris Anderson and Executive Director of the Audacious Project Anna Verghese, ending the call with zero idea if they loved or hated our idea.. were their facial expressions interested or bemused!? A few days later, we found out we made it through to the shortlist!
 
-![image7-c5e026.png](/uploads/image7-c5e026.png)
+![image7-c5e026.png](https://cdn.hotosm.org/website/image7-c5e026.png)
 
 ## September 11-13, 2019: Ideation workshop
 
@@ -45,7 +45,7 @@ Despite a nervous start, the warmth and kindness of the Audacious Team really sh
 
 After this, we flew straight to Heidelberg Germany and into the flurry of the HOT Board meeting > HOT Staff meeting > HOT Summit > State of the Map > Missing Maps Gathering...
 
-![image3-ae9958.jpg](/uploads/image3-ae9958.jpg)
+![image3-ae9958.jpg](https://cdn.hotosm.org/website/image3-ae9958.jpg)
 
 > Tyler & Rebecca during their hour long wedding-style photoshoot on a New York rooftop
 
@@ -57,11 +57,11 @@ After this, we flew straight to Heidelberg Germany and into the flurry of the HO
 
 **Rebecca:** January was a blur of trying to catch up on all the work I’d missed while we’d been writing the proposal, but Tyler and I also set about the task of distilling the HOT journey into a nine minute talk. Then, after absorbing as much as I could from Chris Anderson’s book ‘The official guide to TED public speaking’, I walked up into the hills above my idyllic Cusco home and repeated the talk over and over again to my dog...
 
-![image5-reduced.jpg](/uploads/image5-reduced.jpg)
+![image5-reduced.jpg](https://cdn.hotosm.org/website/image5-reduced.jpg)
 
 And then, 26 January 26 rolled around and another Sunday taking that 4am-midnight journey to NYC. I’d recorded the talk on my phone and listened to it on repeat the whole way, repeating the words over and over.. Filming the talk was… intense. I had a horrible cold and took literally every cold medicine I could find in NYC. In the practice filming I don’t think I breathed once for the whole nine minutes. I spilled bright purple juice all over my top one minute before filming and had to borrow clothes from our wonderful TED Curator Helen. But then the moment came, the nervous laughs were over, and I walked onto the red dot, and somehow it all just tumbled out…
 
-![image2-408186.png](/uploads/image2-408186.png)
+![image2-408186.png](https://cdn.hotosm.org/website/image2-408186.png)
 
 > Practising the talk online with our TED Curator Helen Walters
 

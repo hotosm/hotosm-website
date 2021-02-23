@@ -1,7 +1,7 @@
 ---
 title: Jamie Woodhouse
 date: 2019-06-04 13:42:00 Z
-Photo: "/uploads/jamie-woodhouse.jpg"
+Photo: "https://cdn.hotosm.org/website/jamie-woodhouse.jpg"
 Member Type:
   Is Voting Member: true
 Social Media (Full URL):

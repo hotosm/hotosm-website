@@ -4,7 +4,7 @@ date: 2019-09-05 22:18:00 Z
 position: 15
 Project Summary Text: The Humanitarian OpenStreetMap Team (HOT) and Facebook are partnering
   on Open Data mapping, as well as Free Software projects.
-Feature Image: "/uploads/IDRoads.PNG"
+Feature Image: "https://cdn.hotosm.org/website/IDRoads.PNG"
 Is Community-Led: false
 Country:
 - Indonesia
@@ -34,7 +34,7 @@ Machine Learning is the field of Artificial Intelligence (AI), which is gaining 
 
 The first activities in our mapping efforts focused on all of Indonesia, one of the countries in which HOT is most active. Our teams started using Facebook’s extended iD editor (RapiD) to pull-in in portions of predicted roads, while the mapper retains all the power, tools and oversight to build as accurate data as tracing the roads manually.
 
-![IDTeam.jpg](/uploads/IDTeam.jpg)
+![IDTeam.jpg](https://cdn.hotosm.org/website/IDTeam.jpg)
 
 For their mapping teams, Facebook is using the Tasking Manager, the tool for coordination of volunteers and organization of groups to map on OpenStreetMap developed within HOT. Their programmers extended the Software to their needs and continuously contribute to improve the Tasking Manager for everybody, by upstreaming their changes into the Open Source application.
 

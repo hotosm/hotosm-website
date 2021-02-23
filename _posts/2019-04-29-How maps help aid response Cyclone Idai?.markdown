@@ -5,7 +5,7 @@ Summary Text: 'How do humanitarians use the data and maps provided by HOT and Op
   Lauren Bateman, Remote Coordinator for Information Management Team for Cyclone Idai
   Response, American Red Cross, talks about how the IFRC used the maps on the ground
   during Cyclone Idai. '
-Feature Image: "/uploads/Idai.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Idai.jpg"
 Person: Alex Glynn
 Working Group:
 - Activation
@@ -19,7 +19,7 @@ As soon as the Cyclone happened on 14th March 2019, I first talked with the IFRC
 
 IFRC has a globally dispersed team of information managers and GIS folks who make maps, data clean and make mobile data collection forms, so I coordinated that team of people to make sure we get the Team Leader the information he needs, when he needs it.
 
-![CycloneIdai-map-blue.jpg](/uploads/CycloneIdai-map-blue.jpg)
+![CycloneIdai-map-blue.jpg](https://cdn.hotosm.org/website/CycloneIdai-map-blue.jpg)
 *Map of contributions to OpenStreetMap for Cyclone Idai*
 
 We start by going to the places we know the data exists in these contexts. We begin with OpenStreetMap (OSM) as our base map - it’s our go to and we build everything else off of it. Complementary data sets are then found and added from other places, such as HDX and humanitarianresponse.info. The next step, I’ll work with the mapper to decide how we want to present the data, what story we want to tell, and how the information can answer the questions we’ve been asked.
@@ -39,5 +39,5 @@ HOT/OSM is not only the very foundation of all of our maps, but by asking HOT to
 
 It’s hard to overstate how useful HOT is for providing the starting point for us. We’re all big fans!
 
-![Bateman-small.png](/uploads/Bateman-small.png)
+![Bateman-small.png](https://cdn.hotosm.org/website/Bateman-small.png)
 *Laura Bateman*

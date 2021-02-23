@@ -4,7 +4,7 @@ date: 2018-05-16 07:27:00 Z
 permalink: projects/openstreetmap-colombia
 position: 74
 Project Summary Text: Building resilience of agricultural communities to disasters
-Feature Image: "/uploads/Mocoa3.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Mocoa3.jpg"
 Is Community-Led: true
 Country:
 - Colombia

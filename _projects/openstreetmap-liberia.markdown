@@ -4,7 +4,7 @@ date: 2018-05-16 08:19:00 Z
 permalink: projects/openstreetmap-liberia
 position: 79
 Project Summary Text: Improving health maps in Liberia through youth participation
-Feature Image: "/uploads/Liberia_Monrovia_mapping%20workshops_IMG_20170427_111804-a6abe1.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Liberia_Monrovia_mapping+workshops_IMG_20170427_111804-a6abe1.jpg"
 Is Community-Led: true
 Country:
 - Liberia

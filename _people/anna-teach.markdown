@@ -1,7 +1,7 @@
 ---
 title: Anna Teach
 date: 2020-09-09 20:58:00 Z
-Photo: "/uploads/Headshot_Anna%20Teach.jpeg"
+Photo: "https://cdn.hotosm.org/website/Headshot_Anna+Teach.jpeg"
 Member Type:
   Is Staff: true
 Country: United States

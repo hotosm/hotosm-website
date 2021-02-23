@@ -15,13 +15,13 @@ created: 1509898516
 
 [Ramani Huria](https://ramanihuria.org)'s goal is resilience: to reduce the human impact of flooding. The most obvious way to do this is to reduce the likelihood of floods! Drainage is one of the ways to do so.
 
-![collage-2017-11-05.jpg](/uploads/collage-2017-11-05.jpg)
+![collage-2017-11-05.jpg](https://cdn.hotosm.org/website/collage-2017-11-05.jpg)
 
 The drainage system in Dar es Salaam is enormous and complex, with hundreds of thousands of drains, often alongside roads, ranging from enormous 3-meter-deep concrete channels along highways to 5-cm-deep hand-dug ditches draining individual home sites. To help reduce flooding, we can map the drains and analyze them in specialized hydrological modelling software. This can allow us to identify problem spots that may need repair, redesign, or even simply cleaning by community members. In order to analyze the drains, we need more than just lines on the map; we need the profile (shape), dimensions, depth, material type, and surface roughness of the drains. Furthermore, the hydrological modelling software requires that every single segment of the drain map be connected; nothing can be missed or inaccurately positioned.
 
 This type of mapping has traditionally been the preserve of highly-trained expert surveyors using expensive equipment. However, Ramani Huria sees an opportunity to work with highly skilled students from Ardhi University with community members with in-depth knowledge of their own neighbourhoods. This combination has resulted in data collection at an unprecedented scale, looking at the most flood-prone areas of Dar es Salaam.
 
-![IMG_2387.JPG](/uploads/IMG_2387.JPG)![IMG_1021.JPG](/uploads/IMG_1021.JPG)
+![IMG_2387.JPG](https://cdn.hotosm.org/website/IMG_2387.JPG)![IMG_1021.JPG](https://cdn.hotosm.org/website/IMG_1021.JPG)
 
 We first designed and built measuring sticks to effectively get the dimensions of the drains (ideally without spending a lot of time inside them), and purchases measuring tapes. However, though our smartphones have onboard GPS receivers, we were not aware of a software solution allowing us to capture lines as accurately as possible, as well as recording the various measurements and observations in a structured fashion.
 
@@ -31,7 +31,7 @@ The software we were able to find fell into two broad categories;
 
 * Programs specialized in data entry.
 
-![Screenshot_2017-11-01-11-24-54.png](/uploads/Screenshot_2017-11-01-11-24-54.png)
+![Screenshot_2017-11-01-11-24-54.png](https://cdn.hotosm.org/website/Screenshot_2017-11-01-11-24-54.png)
 
 We couldn't find anything that did both well. Several Android software solutions allow the user to record relatively high-quality GPS line traces (obviously within the limits of the device's GPS accuracy), including an underlying map to see where one is, the ability to back up if the line loses accuracy partway through, and the ability to filter out points not meeting specified accuracy criteria.
 
@@ -60,21 +60,21 @@ We got in touch with Helene Martin, one of the ODK developers, and the ODK commu
 
 There were a few major problems making ODK nearly unusable for line mapping. The constant jumping around of the position due to the network (rather than GPS) fixes, the inability to set an accuracy threshold, and the necessity of starting over anytime anything went the slightest bit wrong were most critical. Ping began by adding configurable accuracy filtering, and created a "backspace" button to erase recent points along the line (so users could simply back up a couple of points rather than starting over).
 
-![spreadsheet.JPG](/uploads/spreadsheet.JPG)
+![spreadsheet.JPG](https://cdn.hotosm.org/website/spreadsheet.JPG)
 
 Every day Ping consulted with Sadah, Felix, (DRAIN MAPPERS), Randy, and Ivan to see what changes would most benefit the team's work. This was a delicate balance between changes that would have the most impact and those that would take the most time; the "quick wins" (high impact and easy to implement) were exhausted quite soon.
 
 A few issues turned out to be far more complicated than anticipated. For example, ODK exports line traces as a series of points defined by nothing more than four numbers (latitude, longitude, elevation, GPS precision) separated by commas, with semicolons between the points. Mapping software doesn't know what to make of this series of numbers without context, so we changed the format to Well-Known Text (WKT), a geographical text data format that mapping programs such as QGIS, the amazing free-software mapping system that we use, can easily recognize and display.
 
-![Capture.JPG](/uploads/Capture.JPG)
+![Capture.JPG](https://cdn.hotosm.org/website/Capture.JPG)
 
 However, we discovered that this broke ODK! Whenever a user re-opened a survey after saving it, the WKT linestrings had vanished. It turns out that the form-definition language that ODK is based on, Javarosa has a specific grammar for lines - the aforementioned series of four comma-separated numbers with semicolons between points - that doesn't correspond to WKT (or any other geographical format that we are aware of). Without making major revisions to Javarosa (which would almost certainly break other things, probably mostly for people far away who would never know what we'd done to them, but who would really hate us if they found out), we simply couldn't implement WKT linestrings in ODK. We had to "revert the change" and go back to the original implementation that produces output that can't be opened in a mapping program. To solve, or at least mitigate this, Ping wrote a conversion utility plugin([github.com/zestyping/THE](http://github.com/zestyping/THE) LINESTRING PLUGIN) for QGIS to convert the Javarosa lines into proper Well-Known Text.
 
-![Screenshot_2017-11-01-11-18-25.png](/uploads/Screenshot_2017-11-01-11-18-25.png)![Screenshot_2017-10-26-15-40-57.png](/uploads/Screenshot_2017-10-26-15-40-57.png)
+![Screenshot_2017-11-01-11-18-25.png](https://cdn.hotosm.org/website/Screenshot_2017-11-01-11-18-25.png)![Screenshot_2017-10-26-15-40-57.png](https://cdn.hotosm.org/website/Screenshot_2017-10-26-15-40-57.png)
 
 Many technical changes later, we ended up discussing an entirely new issue: the mappers in the university lab trying to make sense of the field data on their computers were finding missing segments and points. The surveyors in the field, despite enormous efforts, especially by Sadah, Felix, and Randy, were still missing occasional features. It was rare, but still enough that the datasets to be sent to the hydrological consultant for analysis were not sufficiently complete and connected. The supervisors were unable to ascertain whether all features had been captured whilst in the field, and had to wait until the computer mappers in the university lab opened the data. We wondered, "what if the surveyors and field supervisors could see every segment and point in real time, so that any missed features can be captured before leaving the neighborhood?" So Ping built a final cherry on top of the cake: an online supervisor's portal displaying the line segment data in real time in a Web page, either on a laptop or on a phone!
 
-![map.JPG](/uploads/map.JPG)
+![map.JPG](https://cdn.hotosm.org/website/map.JPG)
 
 ![Screenshot_2017-11-01-12-20-46[1].png](/uploads/Screenshot_2017-11-01-12-20-46%5B1%5D.png)
 

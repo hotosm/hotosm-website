@@ -1,7 +1,7 @@
 ---
 title: Geoffrey Kateregga
 date: 2015-03-24 06:22:00 Z
-Photo: "/uploads/GeoffreyKateregga.jpg"
+Photo: "https://cdn.hotosm.org/website/GeoffreyKateregga.jpg"
 Member Type:
   Is Staff: true
   Is Voting Member: true

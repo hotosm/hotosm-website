@@ -4,7 +4,7 @@ date: 2018-04-01 07:19:00 Z
 permalink: projects/osm-peru-improving-maps-for-disasters
 position: 67
 Project Summary Text: Improving emergency response in Peru
-Feature Image: "/uploads/iquitos-456d99.PNG"
+Feature Image: "https://cdn.hotosm.org/website/iquitos-456d99.PNG"
 Is Community-Led: true
 Country:
 - Peru

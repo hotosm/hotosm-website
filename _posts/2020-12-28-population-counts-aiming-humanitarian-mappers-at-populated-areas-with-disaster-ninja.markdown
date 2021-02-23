@@ -4,7 +4,7 @@ title: 'Population Counts: Aiming humanitarian mappers at populated areas with D
 date: 2020-12-28 07:00:00 Z
 Summary Text: Correlating OpenStreetMap data with population density helps activate
   disaster mapping solely where it has humanitarian impact.
-Feature Image: "/uploads/1_3FHXUekE4B7a90ZFaGUu7Q.png"
+Feature Image: "https://cdn.hotosm.org/website/1_3FHXUekE4B7a90ZFaGUu7Q.png"
 Person: Kontur
 ---
 

@@ -12,7 +12,7 @@ Summary Text: As everyone is well aware, it's time to scale up at HOT, and hot_t
   for sure that I am not. Let me be the first to share with you a quick intro to each
   of the new team members, why they decided to join us, and why we wanted them to
   be a part of the team.
-Feature Image: "/uploads/nu_tech-a8bd3d.png"
+Feature Image: "https://cdn.hotosm.org/website/nu_tech-a8bd3d.png"
 Person: Bo Percival
 ---
 
@@ -21,7 +21,7 @@ Person: Bo Percival
 ***TL;DR; if you don’t read this, you’ll miss out on a chance to get to know some great people that have just joined our team. This post is too short, if anything.***
 
 ## Hya Umaran
-![mumaran-23a31f 300x375.jpg](/uploads/mumaran-23a31f%20300x375.jpg)
+![mumaran-23a31f 300x375.jpg](https://cdn.hotosm.org/website/mumaran-23a31f+300x375.jpg)
 
 ***Official bio***\
 Hya has joined HOT to support the organization and teams towards an agile mindset and delivery. She is an IT professional who is innovative, with combined skills of business and technical acumen. Appointed to lead start-up and pilot teams both in corporate and non-profit organizations, she honed her skills in the areas of coaching, mentoring, and facilitation.
@@ -38,7 +38,7 @@ I look forward to learning a new stack of technology and contributing to the tra
 Hya is a perfect collision of thorough and agile. For those that work with agile, you’ll understand just how hard this is to find. Her humility leads to an unrivaled ability to empathize with what people need to support them to success they didn’t even know they had inside them. Hya is exactly what you need in a mentor, and a true Ate: supportive and caring, and always dedicated to keeping you on track with your best interests at heart :)
 
 ## Diana Nanyanzi
-![Diana-first 300x375.jpg](/uploads/Diana-first%20300x375.jpg)
+![Diana-first 300x375.jpg](https://cdn.hotosm.org/website/Diana-first+300x375.jpg)
 
 ***Official bio***\
 Diana is a Junior Developer with the Tech team contributing to the software tools at HOT. She has a background in Computer Engineering and brings with her experience from working at Andela building products using JavaScript and Python, working in agile teams, and the use of software best practices during the development process. She is motivated by her curiosity to learn new things as well as a desire for fundamental social change in terms of gender equality. She also participated in mapping activities under the Financial Inclusion program by HOT in Eastern Uganda as well as the #VisualizeNoMalaria campaign in Zambia.
@@ -55,7 +55,7 @@ I am excited by the learning opportunities that lay ahead in terms of making mea
 Diana lives and breathes the values we stand for. From her support of women in STEM to her passion for OSM, her direction is our direction, and we’re glad to be able to join her on her journey. Personally, why did we select her? Because one day, I hope she is sitting in my seat, writing a blog just like this introducing her own team :)
 
 ## Lily Cheng
-![Lily_Cheng 300x375.JPG](/uploads/Lily_Cheng%20300x375.JPG)
+![Lily_Cheng 300x375.JPG](https://cdn.hotosm.org/website/Lily_Cheng+300x375.JPG)
 
 ***Official bio***\
 Lily joins the tech team as a senior designer. She has spent her career as a real-world game and experience designer who centers the concept of play as the exploring, growing, creating, and connecting people do when they are given the space and time to feel safe and comfortable to bring their entire lived experiences.
@@ -72,7 +72,7 @@ I’ve been making my way through creating experiences that expand perception an
 Because I felt I was the one being interviewed! In all seriousness, when someone is taking the time to ask you questions that expose the challenges and values of an organization, you know that they are the one selecting us and not the other way around. So, when Lily took the position, I know it was because our values aligned with hers, and this would be a good place for her to do amazing things.
 
 ## Rob Savoye
-![rsavoye 300x375.png](/uploads/rsavoye%20300x375.png)
+![rsavoye 300x375.png](https://cdn.hotosm.org/website/rsavoye+300x375.png)
 
 ***Official bio***\
 Rob has been a free software developer since the late 1980s, with multiple projects still in use decades later. As a long-time believer in appropriate technology and community, Rob has been heavily involved in multiple high-profile free software projects like the GNU Toolchain, GNU/Linux, Gnash, and was an early pioneer in the creation of the commercial internet. He’s won awards from both NASA, and the Free Software Foundation.

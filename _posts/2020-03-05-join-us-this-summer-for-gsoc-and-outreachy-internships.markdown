@@ -3,7 +3,7 @@ title: Join us this summer for GSoC and Outreachy internships
 date: 2020-03-05 05:38:00 Z
 Summary Text: We, at the Humanitarian OpenStreetMap Team are excited to announce our
   this year's internship programmes around Google Summer of Code (GSoC) and Outreachy.
-Feature Image: "/uploads/IMG_8446.JPG"
+Feature Image: "https://cdn.hotosm.org/website/IMG_8446.JPG"
 Person:
 - Ramya Ragupathy
 ---

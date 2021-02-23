@@ -4,7 +4,7 @@ date: 2020-03-30 14:47:00 Z
 position: 8
 Project Summary Text: Mapping for informed decision making for disaster response and
   socioeconomic development
-Feature Image: "/uploads/Independence%20Monument%20-%20Project%20Page%20Post.JPG"
+Feature Image: "https://cdn.hotosm.org/website/Independence+Monument+-+Project+Page+Post.JPG"
 Person:
 - David Luswata
 - Paul Uithol

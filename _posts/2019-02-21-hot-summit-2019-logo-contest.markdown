@@ -81,4 +81,4 @@ The design MAY
 
 Have a look at the previous logos to get inspired
 
-![logos.png](/uploads/logos.png)
+![logos.png](https://cdn.hotosm.org/website/logos.png)

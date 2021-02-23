@@ -7,7 +7,7 @@ Summary Text: At the HOT Summit, Tyler Radford shared his thoughts on the relati
   part of an ongoing conversation within HOT and the wider community. He outlined
   the steps he would like HOT to take to make that relationship more open, transparent,
   and supportive of the community.
-Feature Image: "/uploads/Screenshot%202020-12-14%20120152.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Screenshot+2020-12-14+120152.jpg"
 Is image top aligned: false
 Person: Tyler Radford
 ---

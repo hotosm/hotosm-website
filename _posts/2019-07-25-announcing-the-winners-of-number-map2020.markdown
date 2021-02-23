@@ -11,7 +11,7 @@ Summary Text: 'There were 33 projects submitted for the #map2020 challenge to bu
   Africa for the chance to demonstrate how street-level imagery can play a role in
   addressing a humanitarian challenge. Two projects were selected to present at the
   HOT Summit in Germany.'
-Feature Image: "/uploads/2019-07-25-erbil-6e7861.jpg"
+Feature Image: "https://cdn.hotosm.org/website/2019-07-25-erbil-6e7861.jpg"
 Person:
 - Rebecca Firth
 - Edoardo Neerhut
@@ -39,7 +39,7 @@ The two original team members, Mohammed and Hamza, have backgrounds in humanitar
 
 The Erbil team’s strategy was to cover all of the main roads of Erbil before focusing their efforts on dense capture in the neighborhood of Andazyaran. Using the OpenStreetMap iD editor, the team focused on adding names and locations of business like pharmacies, supermarkets, and bakeries—all of which can be seen in the Mapillary photo overlay. Next, they used GeoJSON files of automatically generated map data for transformers and manholes to add more detailed point feature information.
 
-![2019-07-25-erbil.jpg](/uploads/2019-07-25-erbil.jpg)
+![2019-07-25-erbil.jpg](https://cdn.hotosm.org/website/2019-07-25-erbil.jpg)
 
 *The #map2020 team in Erbil added over 103,000 images to Mapillary.*
 

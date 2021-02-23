@@ -1,7 +1,7 @@
 ---
 title: Dorothy Muthuri
 date: 2020-06-04 19:43:00 Z
-Photo: "/uploads/Dorothty%20headshot.PNG"
+Photo: "https://cdn.hotosm.org/website/Dorothty+headshot.PNG"
 Member Type:
   Is Staff: true
 Job Title: Senior Talent Manager

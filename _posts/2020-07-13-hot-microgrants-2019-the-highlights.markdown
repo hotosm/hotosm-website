@@ -3,7 +3,7 @@ title: 'HOT Microgrants 2019: The Highlights'
 date: 2020-07-13 13:07:00 Z
 Summary Text: In 2019, HOT provided Microgrants to eight local, regional, and national
   organizations around the world. Here are some highlights of their work.
-Feature Image: "/uploads/Code%20for%20Africa%202019%20Microgrant.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Code+for+Africa+2019+Microgrant.jpg"
 Person:
 - Geoffrey Kateregga
 - Benjamin Dills
@@ -17,7 +17,7 @@ In 2019 HOT provided Microgrants to eight local, regional, and national organiza
 
 ## Fundación OpenStreetMap Colombia (FOSM Colombia)
 
-![2019 Microgrants 1.jpg](/uploads/2019%20Microgrants%201.jpg)
+![2019 Microgrants 1.jpg](https://cdn.hotosm.org/website/2019+Microgrants+1.jpg)
 
 [FOSM Colombia](https://openstreetmap.co/) has installed local wireless networks in towns such as Necocli and Capurgana in the Darien area at the Colombian border with Panama. These local networks are hosted on RaspberryPis with low-cost outdoor wireless routers to provide information and maps to migrants and residents who have phones but no regular internet access. Using the networks, migrants can find and share crucial information that can be a life saver on their journey. The networks also come with key points of information pre-installed:
 * A web map with important locations where migrants can seek medical care, food, lodging, and safety.
@@ -30,7 +30,7 @@ In 2019 HOT provided Microgrants to eight local, regional, and national organiza
 
 ## OSM Cameroon
 
-![2019 Microgrants 2.jpg](/uploads/2019%20Microgrants%202.jpg)
+![2019 Microgrants 2.jpg](https://cdn.hotosm.org/website/2019+Microgrants+2.jpg)
 
 With support from a 2019 Microgrant, [OSM Cameroon](http://openstreetmap.cm/) trained over 82 people for the roll-out of [GeoCameroon](http://geocameroun.cm/), a geoportal to promote the use of OpenStreetMap data to support decision making and share information with partners.
 
@@ -38,12 +38,12 @@ OSM Cameroon also mapped three municipalities in Northern Cameroon, creating dat
 
 OSM Cameroon also worked with eight OSM communities from different countries in Africa to deploy and freely reuse the platform according to the needs of their countries.
 
-![2019 Microgrants 3.png](/uploads/2019%20Microgrants%203.png)
+![2019 Microgrants 3.png](https://cdn.hotosm.org/website/2019+Microgrants+3.png)
 
 
 ## OSM Gambia
 
-![2019 Microgrants 4.png](/uploads/2019%20Microgrants%204.png)
+![2019 Microgrants 4.png](https://cdn.hotosm.org/website/2019+Microgrants+4.png)
 *Location of Eco Tourism Sites and Lodges in The Gambia*
 
 Known as the Smiling Coast of West Africa, The Gambia is the smallest country on mainland Africa, surrounded entirely by Senegal except for its western coast on the Atlantic Ocean. Since the change of government in 2017, there has been renewed interest by the youth in the country to contribute to the Sustainable Development Goals of the country. 
@@ -53,7 +53,7 @@ With the help of a HOT Microgrant, [YMCA The Gambia](http://www.ymca.gm/) has be
 
 ## Code for Africa, Nigeria
 
-![2019 Microgrants 3.jpg](/uploads/2019%20Microgrants%203.jpg)
+![2019 Microgrants 3.jpg](https://cdn.hotosm.org/website/2019+Microgrants+3.jpg)
 
 Makoko is one of Nigeria’s floating slums, with a third of the community built on stilts in a lagoon off the Lagos mainland. The rest of the settlement is on swampy land with little sanitation and few public services. With support from a HOT Microgrant, Code4Africa worked with a team of [volunteers to map](https://edition.cnn.com/2020/02/26/africa/nigeria-makoko-mapping-intl) Makoko to make a case for [improved services and land ownership](https://www.devex.com/news/mapping-makoko-how-data-could-help-legitimize-nigeria-s-informal-settlements-96793).
 
@@ -62,7 +62,7 @@ To do the mapping, the Code for Africa team trained and worked with volunteers f
 
 ## OSM Nicaragua-MapaNica
 
-![2019 Microgrants 6.jpg](/uploads/2019%20Microgrants%206.jpg)
+![2019 Microgrants 6.jpg](https://cdn.hotosm.org/website/2019+Microgrants+6.jpg)
 
 After their successful project of mapping public transport in Managua and Esteli in 2016, [MapaNica](https://www.mapanica.net/) wanted to extend this napping to other cities in Nicaragua. They also wanted to expand the scope to include not only local bus routes inside the city but also the bus connections between cities as well as water transportation, with the goal of creating a nationwide General Transit Feed Specification (GFTS) -  a data specification for public transportation schedules and associated geographic information. With the help of a HOT Microgrant, MapaNica has moved closer to their goal by mapping the transport system in two cities: 11 urban bus lines in Matagalpa and 12 bus lines in Granada.
 
@@ -73,7 +73,7 @@ Although the main beneficiaries of MapaNica's work has always been the users of 
 
 ## YouthMappers Dhaka College, Bangladesh
 
-![2019 Microgrants 5.jpg](/uploads/2019%20Microgrants%205.jpg)
+![2019 Microgrants 5.jpg](https://cdn.hotosm.org/website/2019+Microgrants+5.jpg)
 
 With a population of 17 million, Dhaka is one of the world’s megacities and is experiencing a population boom. The city generates 4,500 tons of waste in a single day, but 40-60% of that never makes it to the existing city waste management system, causing a huge negative impact on people’s health and the environment. 
 
@@ -86,14 +86,14 @@ Through the project, YouthMappers Dhaka college were able to provide field data 
 
 ## Action for Resilient Communities + FEUTech YouthMappers, Philippines
 
-![2019 Microgrants 8.jpg](/uploads/2019%20Microgrants%208.jpg)
+![2019 Microgrants 8.jpg](https://cdn.hotosm.org/website/2019+Microgrants+8.jpg)
 
 [Action for Resilient Communities in the Philippines](https://www.facebook.com/ActionResilientCommunities/)  used their HOT Microgrant project to work with Persons with Disabilities (PWD) organizations such as [Tinig at Lakas ng mga PWD sa Maynila (TILAK)](https://www.facebook.com/Tilak09515649579/) to help them create a digital database for PWD by collecting data using Kobo, Field Papers, and Mapillary. Working with the FEUTech YouthMappers chapter, they were able to map points of access infrastructures for PWD including ramps, public elevators, public transportation, and various hazard/emergency maps. In the process, they made mapping an integral component of Juanda, their disaster risk reduction and management capacity building program.
 
 
 ## Cuerpo Consultivo para el Desarrollo de Rio Piedras, Puerto Rico
 
-![2019 Microgrants 7.png](/uploads/2019%20Microgrants%207.png)
+![2019 Microgrants 7.png](https://cdn.hotosm.org/website/2019+Microgrants+7.png)
 
 Abandoned structures, solid waste accumulation in the streets, sound pollution, and inadequate infrastructure are just some of the difficulties faced by residents of Río Piedras in Puerto Rico. Data collection, management, and publication became crucial after the impact of hurricanes Irma and Maria in 2017. With the help of a HOT Microgrant, Cuerpo Consultivo para el Desarrollo de Rio Piedras (CCRDP) have created the first community‐based disaster preparedness and recovery mapping inventory in Puerto Rico using [Ushahidi](https://ushahidi.ccriopiedras.pr/views/map and OpenStreetMap).
 
@@ -101,13 +101,13 @@ CCDRP worked with 38 volunteers to conduct three field projects to map critical 
 
 Through their mapping activities, CCDRP has been helping the community of Río Pedras to document and share data to increase resilience to future disasters and to identify unmet needs based on grassroots feedback.
 
-![2019 Microgrants 9.png](/uploads/2019%20Microgrants%209.png)
+![2019 Microgrants 9.png](https://cdn.hotosm.org/website/2019+Microgrants+9.png)
 *[Interactive map](http://riopiedras.prosmap.org/) for reporting broken street lighting posts using Ushahidi and OpenStreetMap*
 
 
 ## LECLARA (Ghana)
 
-![2019 Microgrants 10.png](/uploads/2019%20Microgrants%2010.png)
+![2019 Microgrants 10.png](https://cdn.hotosm.org/website/2019+Microgrants+10.png)
 
 Larabanga is a town home to about 5,000 people in the Gonja region of Northern Ghana, a gateway to Mole, Ghana's largest national park, and home to the [Larabanga Mosque](https://www.openstreetmap.org/node/7067987939), one of the oldest mosques in West Africa dating back to the 15th century.
 

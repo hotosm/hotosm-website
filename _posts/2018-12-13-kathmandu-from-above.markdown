@@ -4,7 +4,7 @@ date: 2018-12-13 15:58:00 Z
 Summary Text: Guest blog by Gaurav Thapa from Kathmandu Living Labs. Covering the
   digitisation process carried out by the team for mapping building footprints in
   Kathmandu Valley, Nepal as part of the METEOR project.
-Feature Image: "/uploads/Screen%20Shot%202018-12-13%20at%2008.06.34-ea3319.png"
+Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2018-12-13+at+08.06.34-ea3319.png"
 Person: Mhairi O'Hara
 Country:
 - Nepal
@@ -27,7 +27,7 @@ At the start of the project, the aggregate area of the homogeneous zones chosen 
 In the below image, a randomly selected building is found to have been created and last modified on 30 April 2015. You can also see that the buildings are not easily distinguishable through the currently available satellite imagery leading to significant underdigitization of buildings or aggregation of buildings. Buildings have also not been orthogonolized, and there is significant offset between the OSM data and the satellite imagery. 
 
 
-![image4.png](/uploads/image4.png)
+![image4.png](https://cdn.hotosm.org/website/image4.png)
 *Image 1: Initial data with new satellite imagery* 
 
 
@@ -38,23 +38,23 @@ From the above example, we know that the biggest challenge stems from not having
 Almost 19,000 of these buildings were modifications that were carried out during the project period. Though modifying buildings take a lot longer than tracing new buildings, it allows us to retain OSM history which is considered vital in the OSM community. Two images below show the difference in data.
 
 
-![image6-691d19.png](/uploads/image6-691d19.png)
+![image6-691d19.png](https://cdn.hotosm.org/website/image6-691d19.png)
 *Image 2: Homogenous Zone 1- Bhaktapur with previous data overlayed on Bing imagery*
 
 
-![image3.png](/uploads/image3.png)
+![image3.png](https://cdn.hotosm.org/website/image3.png)
 *Image 3: Homogenous Zone 1- Bhaktapur with latest data overlayed on New imagery*
 
 One of the challenges of working with OSM in Nepal is that there are many people from outside the country who want to help map Kathmandu due to the surge in need of mapping post-Earthquake. Unfortunately, this leads to a lot of beginner mappers ‘learning by doing’ in Kathmandu. The density of the buildings makes this very challenging which can lead to scenarios where mappers create overlapping buildings using multiple image sources.
 
 
-![image5-9230c7.jpg](/uploads/image5-9230c7.jpg)
+![image5-9230c7.jpg](https://cdn.hotosm.org/website/image5-9230c7.jpg)
 *Image 4: Error ridden section of Kathmandu*
 
 
 Correcting such errors and aligning the new imagery, bing imagery and data layers took a significant amount of time. 
 
-![image2-97d034.jpg](/uploads/image2-97d034.jpg)
+![image2-97d034.jpg](https://cdn.hotosm.org/website/image2-97d034.jpg)
 *Image 5: Errors corrected*
 
 
@@ -65,7 +65,7 @@ As image 5 shows, even the latest satellite imagery had sections where tracing b
 We wanted to complete the remote mapping portion of the project before the beginning of December. In order to do this, we recruited 8 students from Pokhara. The students worked for weeks with our expert mappers to digitize  an additional number of around 45,000 buildings. 
 
 
-![Screen Shot 2018-12-13 at 08.06.34.png](/uploads/Screen%20Shot%202018-12-13%20at%2008.06.34.png)
+![Screen Shot 2018-12-13 at 08.06.34.png](https://cdn.hotosm.org/website/Screen+Shot+2018-12-13+at+08.06.34.png)
 *Images 6 & 7: Remote mappers*
 
 
@@ -73,12 +73,12 @@ We wanted to complete the remote mapping portion of the project before the begin
 
 We reiterate that the result of the project was an addition of 45,013 buildings. The table below shows the breakdown of this number in terms of specific homogeneous zones created by ImageCat.
 
-![Screen Shot 2018-12-13 at 08.06.37.png](/uploads/Screen%20Shot%202018-12-13%20at%2008.06.37.png)
+![Screen Shot 2018-12-13 at 08.06.37.png](https://cdn.hotosm.org/website/Screen+Shot+2018-12-13+at+08.06.37.png)
 
 However, the mapping effort was not limited to buildings. Nor was it limited to the core area. This was because one of the biggest challenges of mapping in Kathmandu was modifying and updating the existing OSM data. This meant that at times mappers would have to go beyond the designated areas to modify and align the data. If you look at the data from missing maps (image 8 below) you will find that over 70,000 buildings were modified or created and over 96 km of roads were traced. 
 
 
-![image1.png](/uploads/image1.png)
+![image1.png](https://cdn.hotosm.org/website/image1.png)
 *Image 8: Statistics from missing maps*
 
 

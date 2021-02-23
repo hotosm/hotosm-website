@@ -6,7 +6,7 @@ position: 61
 Project Summary Text: Palang Merah Indonesia is working on a project to create a detailed
   base map of the infrastructure, land use, amenities, and other key community assets
   such as schools and community centres in the country for community disaster planning.
-Feature Image: "/uploads/Screen%20Shot%202018-06-11%20at%2014.21.28.png"
+Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2018-06-11+at+14.21.28.png"
 Is Community-Led: true
 Country:
 - Indonesia
@@ -24,7 +24,7 @@ Duration:
 Palang Merah Indonesia (PMI) is the Red Cross society working in Indonesia. They are focusing on a project to create a detailed base map of infrastructure, land use, amenities, and other key community assets such as schools and community centres. This data will the be used as part of the PMI risk reduction programme and community disaster mitigation plan, as well as for use in emergency response.
 
 
-![Screen Shot 2018-06-11 at 23.01.43.png](/uploads/Screen%20Shot%202018-06-11%20at%2023.01.43.png)
+![Screen Shot 2018-06-11 at 23.01.43.png](https://cdn.hotosm.org/website/Screen+Shot+2018-06-11+at+23.01.43.png)
 
 
 A training was hosted for PMI in Bengkulu from November 13-17, 2017 covering OpenStreetMap, Field Papers, OSM Tracker, OpenDataKit and OpenMapKit. And multiple Tasking Manager projects have be setup across the country, including areas in NTT and Semarang. These projects were setup to map infrastructure, and help assess risk at the village level for resiliency efforts.

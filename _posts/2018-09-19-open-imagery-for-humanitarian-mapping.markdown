@@ -2,7 +2,7 @@
 title: Open Imagery for Humanitarian Mapping
 date: 2018-09-19 11:13:00 Z
 Summary Text: Analysis of imagery source use within the Tasking Manager
-Feature Image: "/uploads/ethiopia-wide.png"
+Feature Image: "https://cdn.hotosm.org/website/ethiopia-wide.png"
 Person:
 - Ramya Ragupathy
 - Nate Smith

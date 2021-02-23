@@ -1,7 +1,7 @@
 ---
 title: S M Sawan Shariar
 date: 2020-05-20 17:00:00 Z
-Photo: "/uploads/Sawan_Shariar.jpg"
+Photo: "https://cdn.hotosm.org/website/Sawan_Shariar.jpg"
 Member Type:
   Is Voting Member: true
 Working Group:

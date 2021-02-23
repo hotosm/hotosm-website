@@ -1,7 +1,7 @@
 ---
 title: Open Cities Africa Kicks off in Kampala
 date: 2018-06-22 08:53:00 Z
-Feature Image: "/uploads/opencities-training-1.JPG"
+Feature Image: "https://cdn.hotosm.org/website/opencities-training-1.JPG"
 Person:
 - Paul Uithol
 - Nate Smith
@@ -19,7 +19,7 @@ Open Cities Africa is part of the World Bank's Global Facility for Disaster Redu
 
 Open Cities Africa builds upon the work of the OpenDRI program to engage local government, civil society, and the private sector across ten cities in Africa to map public infrastructure data in growing urban environments. Each city has a local partner working alongside city government officials to map public infrastructure using OpenStreetMap and its ecosystem of open source tools.
 
-![oc-africa-cities.png](/uploads/oc-africa-cities.png)
+![oc-africa-cities.png](https://cdn.hotosm.org/website/oc-africa-cities.png)
 *The participating cities in Open Cities Africa*
 
 ### The participating cities
@@ -42,13 +42,13 @@ Due to its location in a low-lying coastal delta in one of the wettest places on
 
 The kickoff week brought together all 10 cities to learn, discuss, and plan for their implementations. Together with GFDRR, we held training and workshops on the ecosystem of open source tools for OpenStreetMap. The goal was to help teams go from planning remote mapping in OSM to implementing field mapping to collect additional attributes. Data models (OSM tagging), data management, and data collection plans were covered to help the teams start planning for their implementation. As a part of this week, we'll be supporting and sharing more ways to conduct quality assessments. We'll also be sharing more documentation on the mapping process.
 
-![opencities-africa-2.JPG](/uploads/opencities-africa-2.JPG)
+![opencities-africa-2.JPG](https://cdn.hotosm.org/website/opencities-africa-2.JPG)
 *Teams meeting and networking. Making connections across cities was a big part of the week.*
 
-![opencities-training-1.JPG](/uploads/opencities-training-1.JPG)
+![opencities-training-1.JPG](https://cdn.hotosm.org/website/opencities-training-1.JPG)
 *Nuala Cowan conducting a training on editing OSM with iD.*
 
-![open-cities-africa.JPG](/uploads/open-cities-africa.JPG)
+![open-cities-africa.JPG](https://cdn.hotosm.org/website/open-cities-africa.JPG)
 *Group work on M&E and implementation planning.*
 
 We’ll provide more updates on progress here as the program gets started. Reach out to us on [Twitter](https://twitter.com/hotosm) or [join Slack](/get-involved) to get in touch if you want to know more. 

@@ -4,7 +4,7 @@ date: 2020-10-08 07:16:00 Z
 Summary Text: In collaboration with Deltares and with funding from GIZ, OMDTZ was
   able to collect accurate and precise river cross-section surveys using an innovative,
   low-cost technique developed by the Resilience Academy and OMDTZ.
-Feature Image: "/uploads/Tanzania%20River%20Mapping%20Blur.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Tanzania+River+Mapping+Blur.jpg"
 Is image top aligned: true
 Person: Hawa Adinani
 Country:
@@ -19,7 +19,7 @@ Better understanding the flow of the Msimbazi, the way it responds to heavy rain
 
 Such a model needs to be based on accurate information about the amount of water the channel and surrounding floodplains can carry, and for this accurate measurements of the three-dimensional cross-section of the river are needed. To develop this model, the German International Cooperation Agency (GIZ) worked with us at [OpenMap Development Tanzania](https://www.omdtz.or.tz/) (OMDTZ) and Dutch knowledge institute Deltares to collect cross-section surveys, extending an existing flood model for the Lower Msimbazi to include a much larger upstream portion of the river.
 
-![Tanzania River Mapping 2.jpg](/uploads/Tanzania%20River%20Mapping%202.jpg)
+![Tanzania River Mapping 2.jpg](https://cdn.hotosm.org/website/Tanzania+River+Mapping+2.jpg)
 
 *Project coverage area*
 
@@ -39,7 +39,7 @@ The methodology used for this project has been [documented](https://docs.google.
 
 Before starting to map, the team first setup and configured the base stations. Locations were chosen based on factors including distance and a clear sky for clear satellite signals.
 
-![Tanzania River Mapping 5.jpg](/uploads/Tanzania%20River%20Mapping%205.jpg)
+![Tanzania River Mapping 5.jpg](https://cdn.hotosm.org/website/Tanzania+River+Mapping+5.jpg)
 
 *Base stations*
 
@@ -49,7 +49,7 @@ A team of 6 people (4 mappers and 2 technicians) was deployed to the field equip
 
 This first field exercise enabled us to refine our methods and safety precautions. After this, we were able to scale up and rapidly collect over 80 cross-sections of the river.
 
-![Tanzania River Mapping 4.jpg](/uploads/Tanzania%20River%20Mapping%204.jpg)
+![Tanzania River Mapping 4.jpg](https://cdn.hotosm.org/website/Tanzania+River+Mapping+4.jpg)
 
 *A surveyor in the field holding a locally made survey tool in RTK mode*
 
@@ -57,7 +57,7 @@ While conducting the cross-section surveys in the river, surveyors had to active
 
 After the data was collected, it was uploaded to the server for a quality check, and surveyors redid any sections which contained errors. This was then provided to Deltares for use in their hydraulic flood model  
 
-![Tanzania River Mapping 3.jpg](/uploads/Tanzania%20River%20Mapping%203.jpg)
+![Tanzania River Mapping 3.jpg](https://cdn.hotosm.org/website/Tanzania+River+Mapping+3.jpg)
 
 *One of the surveyed transect, visualized in 3d using DTM*
 
@@ -82,6 +82,6 @@ The product of this assignment will be the development of a wider flood model th
 
 > "The OMDTZ survey of river cross-sections and hydraulic structures along the Msimbazi River supported the creation of a comprehensive hydraulic model of the area that has led to the development of a more realistic flood hazard map of the most vulnerable areas." - Eskedar Gebremedhin, Deltares
 
-![Tanzania River Mapping 1-05df38.png](/uploads/Tanzania%20River%20Mapping%201-05df38.png)
+![Tanzania River Mapping 1-05df38.png](https://cdn.hotosm.org/website/Tanzania+River+Mapping+1-05df38.png)
 
 *A screenshot of one of the flood hazard maps produced using the new survey data*

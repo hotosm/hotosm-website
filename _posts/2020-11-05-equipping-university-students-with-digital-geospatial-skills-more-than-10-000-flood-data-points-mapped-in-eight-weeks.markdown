@@ -5,7 +5,7 @@ date: 2020-11-05 14:51:00 Z
 Summary Text: 'Ramani Huria has been training students in Dar es Salaam and equipping
   them with industrial and technical skills for the 21st Century while generating
   vital high-precision, low-cost data for flood prediction and preparedness. '
-Feature Image: "/uploads/TZ%20Nov%202020%201A.jpg"
+Feature Image: "https://cdn.hotosm.org/website/TZ+Nov+2020+1A.jpg"
 Person: Hawa Adinani
 Country:
 - Tanzania
@@ -29,7 +29,7 @@ As it is a fundamental skill for any newcomers to the geospatial world, we also 
 
 > "Many companies and organizations need spatial skills that meet their business or industrial needs. The skills I gained as a student may pave the way to different opportunities that will require digital geospatial skills" - Batuly Lukonge, Student, UDSM.
 
-![Tanzania Nov 2020 2.jpg](/uploads/Tanzania%20Nov%202020%202.jpg)
+![Tanzania Nov 2020 2.jpg](https://cdn.hotosm.org/website/Tanzania+Nov+2020+2.jpg)
 
 ### Call for Action
 

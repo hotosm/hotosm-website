@@ -1,7 +1,7 @@
 ---
 title: Anjar Akrimullah
 date: 2018-06-01 20:05:00 Z
-Photo: "/uploads/HOT_ID_Staff_Anjar.png"
+Photo: "https://cdn.hotosm.org/website/HOT_ID_Staff_Anjar.png"
 Member Type:
   Is Staff: true
 Job Title: Quality Assurance

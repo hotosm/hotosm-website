@@ -27,7 +27,7 @@ Malaria key facts:
 
 From February to April 2017 HOT engaged over 100 youth mappers in Uganda from 5 different Universities in the Malaria Elimination Mapping campaign to identify and map populated places in an area of interest covering over 500,000 square kilometers in Southern Africa, South East Asia and Central America to support the Clinton Health Access Initiative’s malaria program. Many of the students who participated in the program felt it was their chance to help eradicate the global problem which according to statistics is the [leading cause of death](http://www.newvision.co.ug/new_vision/news/1423973/malaria-leading-cause-death-uganda) in Uganda.
 
-![EffbH8C5J8k1iuwR6FuUA79yvvjr7EwXXYCtFkh_ZkHK5-w8AXXmQgvErOSwg--bclPDYg=s2048.jpg](/uploads/EffbH8C5J8k1iuwR6FuUA79yvvjr7EwXXYCtFkh_ZkHK5-w8AXXmQgvErOSwg--bclPDYg=s2048.jpg)
+![EffbH8C5J8k1iuwR6FuUA79yvvjr7EwXXYCtFkh_ZkHK5-w8AXXmQgvErOSwg--bclPDYg=s2048.jpg](https://cdn.hotosm.org/website/EffbH8C5J8k1iuwR6FuUA79yvvjr7EwXXYCtFkh_ZkHK5-w8AXXmQgvErOSwg--bclPDYg=s2048.jpg)
 
 Youth Mappers Uganda chapters
 

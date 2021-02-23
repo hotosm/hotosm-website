@@ -1,7 +1,7 @@
 ---
 title: A map editor for the Tasking Manager
 date: 2019-07-31 09:00:00 Z
-Feature Image: "/uploads/tm-and-id.jpg"
+Feature Image: "https://cdn.hotosm.org/website/tm-and-id.jpg"
 Person: Felix Delattre
 Working Group:
 - Technical
@@ -43,7 +43,7 @@ Because there is no optimized technical integration between Tasking Manager and 
 
 New mappers usually rely on the web-based OpenStreetMap editor, called iD, and we can work to optimize the integration between the iD editor and the Tasking Manager to solve some of the challenges identified in the user experience review. We are currently working on better integrating these two programs, in order to improve the experience for our mappers and provide user instructions in one tool. This will allow the mapper to report back from a task directly from inside the integrated iD editor.
 
-![TM and iD together](/uploads/tm-and-id-2.jpg)
+![TM and iD together](https://cdn.hotosm.org/website/tm-and-id-2.jpg)
 
 Here are a some of the ways we’re working to integrate iD and Tasking Manager:
 
@@ -59,7 +59,7 @@ Here are a some of the ways we’re working to integrate iD and Tasking Manager:
 
 Last week’s [announcement of Facebook’s Map with AI service](https://tech.fb.com/ai-is-supercharging-the-creation-of-maps-around-the-world/) is an exciting development in how machine learning can predict roads from satellite imagery for mapping. This can also support mapping volunteers and professional teams to pull AI-detected map features step-by-step, and verify, adjust and improve with the human eye to build the map with the quality standard OpenStreetMap is famous for.
 
-![Rapid editor](/uploads/rapid-editor.jpg)
+![Rapid editor](https://cdn.hotosm.org/website/rapid-editor.jpg)
 
 *Prepare data schema for projects*
 

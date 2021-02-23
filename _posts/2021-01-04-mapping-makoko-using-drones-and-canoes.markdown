@@ -3,7 +3,7 @@ title: Mapping Makoko Using Drones and Canoes
 date: 2021-01-04 10:49:00 Z
 Summary Text: A floating inner-city slum is in the process of being mapped to make
   a case for improved public services and land ownership.
-Feature Image: "/uploads/Map%20Makoko%201.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/Map+Makoko+1.jpeg"
 Person: Anton Marshall
 Country:
 - Nigeria
@@ -37,7 +37,7 @@ One thing is key in community-based projects as MapMakoko, despite getting the b
 
 There was also the physical navigation of the area. Residents move around on bulky canoes through densely populated residential and informal businesses. Communication also proved to be tricky in Makoko as many people speak Egun dialect, while only a few understand Yoruba and French.
 
-![Map Makoko 2.png](/uploads/Map%20Makoko%202.png)
+![Map Makoko 2.png](https://cdn.hotosm.org/website/Map+Makoko+2.png)
 
 But the project is important - not only to Makoko’s future, but potentially to other communities in similar situations. MapMakoko’s Local Project Lead John Eromosele explains: “MapMakoko to me is a pilot that is currently sprouting sister projects, driving conversations around land rights in Lagos, Nigeria.
 

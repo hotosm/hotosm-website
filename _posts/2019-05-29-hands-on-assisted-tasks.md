@@ -3,7 +3,7 @@ title: Hands on Assisted Tasks
 date: 2019-05-29 18:00:00 Z
 Summary Text: Launch of an experimental playground Tasking Manager supported by state-of-the-art
   machine learning techniques to assist mappers, validators and project managers.
-Feature Image: "/uploads/ml4tm-complexity.jpg"
+Feature Image: "https://cdn.hotosm.org/website/ml4tm-complexity.jpg"
 Person: Felix Delattre
 Working Group:
 - Technical
@@ -19,14 +19,14 @@ Especially the advancements on computer vision and image processing are opening 
 
 One of HOT’s first tools that uses machine learning derived data to is [OpenStreetMap Analytics’ Gap Detection tool](https://osm-analytics.org/#/gaps), which uses machine learning to compare population and urban areas with existing OSM data to produce gap analyses and completeness measures.
 
-![osm-analytics-gaps](/uploads/osm-analytics-gaps.jpg)
+![osm-analytics-gaps](https://cdn.hotosm.org/website/osm-analytics-gaps.jpg)
 *OSM Analytics gap analysis of buildings in OpenStreetMap*
 
 We’re moving from analyzing the map to assisting the mapping with machine learning. We’re beginning to experiment and research around the rising innovation and we are teaming up in an open effort, everybody is welcome to join, to test different machine learning applications and whether they are beneficial for the use in OpenStreetMap, and which workflow around them are providing meaningful input to mappers.
 
 Our new experimental testing Tasking Manager is a playground for new ideas. On this application different machine learning supported mapping and quality assurance workflows will be tried out and improved over time.
 
-![tasks-complexity-calculations](/uploads/ml4tm-complexity.jpg)
+![tasks-complexity-calculations](https://cdn.hotosm.org/website/ml4tm-complexity.jpg)
 *Machine learning based complexity measures for tasks*
 
 On this testing version of the Tasking Manager we are partnering with Development Seed, Microsoft and Facebook for researching different machine learning assisted functionalities:

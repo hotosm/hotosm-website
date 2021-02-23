@@ -5,7 +5,7 @@ Project Summary Text: HOT and OMDTZ are leading a series of short urban mapping 
   over a 6-month period (starting in July 2020) that include verification and update
   of OpenStreetMap (OSM) data for COVID-10 hotspot analysis, remote digitization of
   buildings, and community flood history mapping.
-Feature Image: "/uploads/Ramani%20Huria%20Dar%20es%20Salaam%20v3.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Ramani+Huria+Dar+es+Salaam+v3.jpg"
 Country:
 - Tanzania
 Impact Area:

@@ -1,7 +1,7 @@
 ---
 title: Claudio de los Reyes
 date: 2020-12-08 11:34:00 Z
-Photo: "/uploads/CDLRT_headshot.JPG"
+Photo: "https://cdn.hotosm.org/website/CDLRT_headshot.JPG"
 Member Type:
   Is Staff: true
 Job Title: Information Management Associate

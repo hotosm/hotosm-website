@@ -13,7 +13,7 @@ Project:
 created: 1413078084
 ---
 
-![uMap_CAR_Activation_20141011.png](/uploads/uMap_CAR_Activation_20141011.png)
+![uMap_CAR_Activation_20141011.png](https://cdn.hotosm.org/website/uMap_CAR_Activation_20141011.png)
 
 **What about the CAR Activation?**
 
@@ -21,7 +21,7 @@ First of all, the OSM data is more and more used by the humanitarian responders.
 [Internews ](http://www.internews.org/)renewed their [Crisis Map for CAR](https://innovation.internews.org/blogs/creating-crisismap-central-african-republic-using-human-center-design-approach) and it now includes OSM as the map background, as you can see [here](http://rjdhcartedecriserca.info/).
 Regarding the data, what has changed during last 6 months? Below is the state of the OSM Map over Central African Republic.
 
-![uMap_CAR_Activation_20141011 (1).png](/uploads/uMap_CAR_Activation_20141011%20(1).png)
+![uMap_CAR_Activation_20141011 (1).png](https://cdn.hotosm.org/website/uMap_CAR_Activation_20141011+(1).png)
 
 It shows that the largest administrative centers are done, even Obo (the blue squared dot on the East) has been partially made with the medium resolution MapBox imagery (residential area, main streets and main buildings as landmarks). Our partners from HIU are waiting for an available, non-cloudy imagery through the MapGive Project. But in the meantime, it does not affect anymore the routable data. Remain only a few, small sub-prefectures, that we will finish when more important areas of Interest are done.
 
@@ -31,7 +31,7 @@ Considering we do not have imagery for these refugee camps, we have started to f
 
 Among the mapping tasks to be done, the import of UNICEF data has been achieved for schools, remain only the potable water points. The interest if two folds: for the water points themselves, but also for the place names they all include and often missing in OSM. As importing data requires a bit of experience, the job is not open to everyone, please send a message to the hot list if you are interested. Below is what looks like the job as of today. When you pick up a task, you will both download the OSM data in JOSM in one layer and the UNICEF data covering the square in another one. It is a good experience, different from mapping building and roads on imagery, with a specific workflow.
 
-![CAR_TMjob_253.png](/uploads/CAR_TMjob_253.png)
+![CAR_TMjob_253.png](https://cdn.hotosm.org/website/CAR_TMjob_253.png)
 
 Another job to be released very soon, thanks to Pierre Giraud and the awesome new possibilities provided by Tasking Manager version 2, is a new kind of jobs to map road networks on a systematic way in comparison with a reference layer. But this is another story for another blog post.
 

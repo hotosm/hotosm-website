@@ -5,7 +5,7 @@ permalink: projects/ivory_coast
 position: 86
 Project Summary Text: In 2010 HOT provided remote support to the Icory Coast Presidential
   Election crisis
-Feature Image: "/uploads/Abidjan-CI%20osm%20snip.PNG"
+Feature Image: "https://cdn.hotosm.org/website/Abidjan-CI+osm+snip.PNG"
 Country:
 - Ivory Coast
 Person:

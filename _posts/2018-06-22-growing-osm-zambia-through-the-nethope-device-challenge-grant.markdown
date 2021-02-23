@@ -1,7 +1,7 @@
 ---
 title: Growing OSM Zambia through the Nethope Device Challenge Grant
 date: 2018-06-22 08:06:00 Z
-Feature Image: "/uploads/DSCF3711.JPG"
+Feature Image: "https://cdn.hotosm.org/website/DSCF3711.JPG"
 Person: Gertrude (Trudy Hope) Namitala
 Working Group:
 - Community
@@ -26,7 +26,7 @@ This year in February the devices were finally purchased and since then over 50 
 **![](https://lh4.googleusercontent.com/ZQXc__62DChGVOIzfUP4KgKe98QOk14lcMeoDoehJb0W5_gTtkm3DUSL4v68ZQ3MQ0zqQs7fOg1o1FCQcLoGt8ZeBXQzXOBKfTWV_wkQOcDuFhIayz2rSwbAxariJQxLeX4AqXZG)**\
 *Photo; Data collection using OpenMapKit*
 
-![DSCF3711.JPG](/uploads/DSCF3711.JPG)
+![DSCF3711.JPG](https://cdn.hotosm.org/website/DSCF3711.JPG)
 
 The devices were also used to map Monze urban area - a decentralization for development project to crete of a baseline Geo database. The data is being used for development planning and create a cadastre database for Monze Town Council, the project was funded by GIZ and also supported by the Ministry of Local Government.
 

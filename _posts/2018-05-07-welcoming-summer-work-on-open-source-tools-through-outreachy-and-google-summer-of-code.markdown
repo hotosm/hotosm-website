@@ -2,7 +2,7 @@
 title: Welcoming summer work on open source tools through Outreachy and Google Summer
   of Code
 date: 2018-05-07 12:50:00 Z
-Feature Image: "/uploads/Photo-Mar-02,-06-43-47-2-compressor.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Photo-Mar-02,-06-43-47-2-compressor.jpg"
 Person: Nate Smith
 Working Group:
 - Technical

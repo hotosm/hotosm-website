@@ -1,7 +1,7 @@
 ---
 title: Fidel Nyameke
 date: 2019-06-04 13:40:00 Z
-Photo: "/uploads/fidel_nyameke.jpg"
+Photo: "https://cdn.hotosm.org/website/fidel_nyameke.jpg"
 redirect_from:
 - "/users/fidel_nyameke"
 Member Type:

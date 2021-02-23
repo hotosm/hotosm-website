@@ -5,7 +5,7 @@ permalink: projects/west_africa_ebola_epidemic
 position: 76
 Project Summary Text: During the West Africa Ebola Epidemic, Humanitarian OpenStreetMap
   Team helped coordinate mapping community activities and deliver maps to field workers.
-Feature Image: "/uploads/macenta-guinea_0.png"
+Feature Image: "https://cdn.hotosm.org/website/macenta-guinea_0.png"
 Country:
 - Guinea
 - Liberia

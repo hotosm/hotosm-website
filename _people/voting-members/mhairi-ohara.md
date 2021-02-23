@@ -1,7 +1,7 @@
 ---
 title: Mhairi O'Hara
 date: 2015-02-12 14:16:00 Z
-Photo: "/uploads/Screen%20Shot%202018-09-15%20at%2012.30.21.png"
+Photo: "https://cdn.hotosm.org/website/Screen+Shot+2018-09-15+at+12.30.21.png"
 Member Type:
   Is Staff: false
   Is Voting Member: true

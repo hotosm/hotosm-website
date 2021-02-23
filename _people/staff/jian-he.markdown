@@ -1,7 +1,7 @@
 ---
 title: Jian He
 date: 2019-07-08 23:07:00 Z
-Photo: "/uploads/jianhe_profile.jpg"
+Photo: "https://cdn.hotosm.org/website/jianhe_profile.jpg"
 Member Type:
   Is Staff: false
 Job Title: Designer

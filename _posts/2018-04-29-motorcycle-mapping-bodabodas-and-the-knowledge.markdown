@@ -1,7 +1,7 @@
 ---
 title: Motorcycle Mapping - BodaBodas and 'The Knowledge'
 date: 2018-04-29 07:11:00 Z
-Feature Image: "/uploads/DSC_0553forWEB.JPG"
+Feature Image: "https://cdn.hotosm.org/website/DSC_0553forWEB.JPG"
 Is image top aligned: true
 Person: Rupert Allan
 Country:
@@ -17,7 +17,7 @@ Black Cab drivers in London have to sit an exam before they can get their licens
 
 There is no ‘Knowledge’ exam in Uganda, but Boda Boda riders are famous for their local geography. And this is where the idea of Motorcycle Mapping came from. In order to get the very best map data, we deploy the formula: ‘Local People, Local Tech, Just add Knowledge’. We train local community members who are familiar with, and trusted by, their communities. When they go further afield, having gained surveyor experience – even expertise, they depend more and more on their Boda Boda rider.
 
-![boda_blog_1.jpg](/uploads/boda_blog_1.jpg)
+![boda_blog_1.jpg](https://cdn.hotosm.org/website/boda_blog_1.jpg)
 *Decoration and Customisation is a major part of practical ownership*
 
 Bodas provide a public service, and expect to protect as well as serve. Usually the motorcycle is the family business - whether a refugee or Ugandan family. It is a way to survive, and the 100cc bikes are often prized more than a bigger bikes, because they represent income and social cohesion.
@@ -28,7 +28,7 @@ Surveyors working with the local workforce who posess ‘the Knowledge’, have 
 
 Memory-mapping. Transcribing the Knowledge The team assembles...
 
-![boda_blog_2.jpg](/uploads/boda_blog_2.jpg)
+![boda_blog_2.jpg](https://cdn.hotosm.org/website/boda_blog_2.jpg)
 *Bodas Strategise on the Bike Saddle - Transcribing 'The Knowledge', they draw routes from memory...*
 
 Like Black Cab Drivers, the Boda riders havve a professional ethic, and a sense of 'Duty of Care'. Many a time, their network of 'brothers in arms' have protected, guided and assisted our surveyors through thick and thin.  Often knowing the local language, they help the surveys to happen, and we actively welcom them into the OSM trainings we do. They always want the OSMAnd 'free, offline SatNav', and sometimes get extremely involved in dicussion and updates.
@@ -41,7 +41,7 @@ This is an account:
 
 But on this occasion, it is not enough. This is a WhatsApp call to tell me that Moses Mawa, a refugee from Rhino Camp Settlement, has been 'arrested'. Stop the car. Immediately we stop, people walking on the roadside begin to congregate whilst I make the call. Moses is across a river, having taken his motorcycle over earlier that day. We all know that he is way over the border in a far-flung sub-county. We know that, from the proud images of him, looking less than comfortable in the unstable dug-out canoe. But we have informed the Local Council that he will be there, and so why is he under arrest? And is that really a criminal situation, or simply the community being inquisitive?  Sometimes, terms can be misleading in Uganda.
 
-![boda_blog_3.jpg](/uploads/boda_blog_3.jpg)
+![boda_blog_3.jpg](https://cdn.hotosm.org/website/boda_blog_3.jpg)
 Deploying Surveyors per Parish sending pictures of maps via Whatsapp
 
 As a matter of course, we send members of the refugee community out with local motorbikers (‘Boda Boda’ riders), to both translate and explain to locals that the mapping is for their benefit. Refugees pick up the mapping techniques. Moses is a refugee surveyor, using a Boda rider to translate as he fearlessly makes his way through the potentially hostile countryside, asking penetrating questions to people who will recognise his South Sudanese accent, and possibly wonder who on earth he thinks he is.
@@ -52,14 +52,14 @@ Meanwhile, all of our surveyor-boda rider teams record their tracks using 'OSM f
 
 Tracks like these...
 
-![boda_blog_4.jpg](/uploads/boda_blog_4.jpg)
+![boda_blog_4.jpg](https://cdn.hotosm.org/website/boda_blog_4.jpg)
 
 in turn, become the roads - never recorded before - and appear in maps like this:
 
-![boda_blog_5.jpg](/uploads/boda_blog_5.jpg)
+![boda_blog_5.jpg](https://cdn.hotosm.org/website/boda_blog_5.jpg)
 *World Food Program Food Distribution Points, Rhino Camp*
 
 The fearlessness and dedication of Boda riders is what much of our mission, both here and in West Africa, relies on. It is derived from the age-old field mantra, 'Local People, Local Tech, Just add Knowledge'. It has been deployed before us, in the work of partners like MSF, and we stand on the shoulders of giants. But we stand on the shoulders, too, of the small-business owners, and their sense of common decency and social responsibility.
 
-![boda_blog_6.jpg](/uploads/boda_blog_6.jpg)
+![boda_blog_6.jpg](https://cdn.hotosm.org/website/boda_blog_6.jpg)
 *Hot-wiring the Battery of a BodaBoda, for Survey Purposes. Mvepi Refugee Camp, Northern Uganda. Local People, Local Tech, ‘just add knowledge’.*

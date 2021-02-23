@@ -2,7 +2,7 @@
 title: 'Tackling Coastal Flooding in Monrovia Slums: Understanding through partnerships,
   one community at a time'
 date: 2018-12-18 12:28:00 Z
-Feature Image: "/uploads/01-0eb277.JPG"
+Feature Image: "https://cdn.hotosm.org/website/01-0eb277.JPG"
 Is image top aligned: true
 Person: David Luswata
 Country:
@@ -13,7 +13,7 @@ Project:
 
 In the informal settlements of Liberia’s largest city, [Open Cities Africa](http://opencitiesproject.org) is introducing a dynamic open data workflow to support urban planning and protect residents from floods.
 
-![01-5c4503.JPG](/uploads/01-5c4503.JPG)
+![01-5c4503.JPG](https://cdn.hotosm.org/website/01-5c4503.JPG)
 
 *Section of Doe Community flooded year round*
 
@@ -21,7 +21,7 @@ Monrovia is home to a growing population of 1.3 million inhabitants. Flanked on 
 
 Population growth, combined with internal migration from a 14 year long civil war, has led to the rapid expansion of informal settlements in high-risk zones of Monrovia. Today their placement in low-elevation coastal areas and swampy flood-prone land has become a dangerous factor for residents’ health and employment. In some slum communities, heavy rainfall and low elevations mean year-round flooding.
 
-![02-fe63db.JPG](/uploads/02-fe63db.JPG)
+![02-fe63db.JPG](https://cdn.hotosm.org/website/02-fe63db.JPG)
 
 *A community’s approach to mobility*
 
@@ -35,7 +35,7 @@ Addressing this challenge requires innovative, open, and dynamic data collection
 
 The Open Cities participatory mapping aligns with GFDRR’s Resilient Cities Program through a unique partnership between the World Bank and city governments to enhance upcoming or ongoing World Bank supported projects in Monrovia, thereby creating and releasing open spatial data about the built environment, critical infrastructure, and natural hazards. The project will assist key stakeholders like the [Liberia National Red Cross Society](https://www.icrc.org/en/where-we-work/africa/liberia), City Corporation, and [National Disaster Management Agency](http://ndmaliberia.org/) to utilize risk data towards addressing natural disaster risk in Monrovia through evidence-driven urban resilience interventions. The exercise is inclusive and is based on the Humanitarian OpenStreetMap Team open data model. Data collected will update [OpenStreetMap](https://www.openstreetmap.org/) (OSM) and will be publicly available for repurposing.
 
-![03-9f8dd1.jpg](/uploads/03-9f8dd1.jpg)
+![03-9f8dd1.jpg](https://cdn.hotosm.org/website/03-9f8dd1.jpg)
 
 *Remote mapping and field surveying are implemented in tandem to validate data from above and on the ground*
 
@@ -57,7 +57,7 @@ We’ve been seeing increasing requests for interventions that can make communit
 
 Going forward, mapped data will be used to create map products for these communities, and for disaster management and response by stakeholders in government and civil society. Stakeholders have expressed their interest in offline atlas maps accessible by local leadership and residents and interactive digital maps to be shared across LISGIS, Monrovia City Corporation, the Disaster Risk Management Agency of Liberia, and universities. These products will contain comprehensive data on target community flood history, the height of flood waters, water points, solid waste activities, economic facilities, drain networks and much more. As urbanization is on the increase accompanied by diverse challenges, government and development actors need open and accurate data for decision-making and response, which the Open Cities Monrovia is designed to provide.
 
-![04-43b4da.jpg](/uploads/04-43b4da.jpg)
+![04-43b4da.jpg](https://cdn.hotosm.org/website/04-43b4da.jpg)
 
 *Meeting with community leadership during a stakeholder engagement exercise*
 

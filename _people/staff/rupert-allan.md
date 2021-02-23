@@ -1,7 +1,7 @@
 ---
 title: Rupert Allan
 date: 2017-10-27 18:18:00 Z
-Photo: "/uploads/Rupert_headshot.jpg"
+Photo: "https://cdn.hotosm.org/website/Rupert_headshot.jpg"
 Member Type:
   Is Staff: false
   Is Voting Member: true

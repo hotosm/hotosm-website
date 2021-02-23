@@ -8,7 +8,7 @@ Summary Text: 'Volunteers, we need your help! Over the past few weeks, Cyclone I
   to update maps of the areas affected by the Cyclone. This is a critical time in
   the lives of millions of people and you can help humanitarian responders provide
   lifesaving aid.  '
-Feature Image: "/uploads/Idai.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Idai.jpg"
 Person: Rebecca Firth
 Working Group:
 - Activation
@@ -44,4 +44,4 @@ Find out more
 
 This project was funded by the H2H Fund, which is supported by UK aid from the UK government.
 
-<img src="/uploads/h2h.jpg" style="width:100px;">
+<img src="https://cdn.hotosm.org/website/h2h.jpg" style="width:100px;">

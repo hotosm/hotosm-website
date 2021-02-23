@@ -18,7 +18,7 @@ Summary Text: Since the project kicked-off in 2015, Ramani Huria, funded by the 
   three-quarters of one of Africa’s megacities, Dar es Salaam. As a city that is particularly
   vulnerable to floods, the team focused their mapping on flood-prone areas, especially
   in informal settlements where vulnerable populations live.
-Feature Image: "/uploads/Feature_image.JPG"
+Feature Image: "https://cdn.hotosm.org/website/Feature_image.JPG"
 Is image top aligned: true
 Person: Hawa Adinani
 Working Group:
@@ -33,7 +33,7 @@ Dar es Salaam is vulnerable to floods, rising sea-levels, coastal erosion, water
 
 Although the city is rapidly urbanizing and becoming a regional commercial hub, flooding causes huge problems for residents and impacts the economy. Participatory mapping is both an innovative and ideal way to get a city-wide picture of road and building conditions, as well as other infrastructure. By empowering students and local communities to do the mapping, Ramani Huria was able to collect data at a much larger scale and  at a much cheaper price than would have been possible with traditional surveyors.
 
-![image4-compressor.png](/uploads/image4-compressor.png)
+![image4-compressor.png](https://cdn.hotosm.org/website/image4-compressor.png)
 
 *Informal settlement in Dar es Salaam. Source: drone image by Frederick Mbuya, UhuruLabs.*
 
@@ -43,7 +43,7 @@ Heavy rainfall and other natural hazards are a big issue in Dar es Salaam that w
 
 As Dar es Salaam grows, construction increases in whatever space is available, without proper urban planning, creating larger informal settlements. As a result, more waste is produced and drainage channels are blocked. These informal neighborhoods do not have access to waste collection services, therefore piles of rubbish build-up, filling rivers and drains, blocking them and increasing flood risk. For many people living in informal settlements, poor sanitation provision and practices can also contribute to the risk of disease and forced relocations.
 
-![image3-compressor.jpg](/uploads/image3-compressor.jpg)
+![image3-compressor.jpg](https://cdn.hotosm.org/website/image3-compressor.jpg)
 
 *A mapper collecting trash points along the river in Dar es Salaam. Photo by Chris Morgan.*
 
@@ -57,7 +57,7 @@ For the second phase – which began in 2017 – we collected map data with mobi
 
 By using locally available tools and methods such as smartphones, measuring tapes, community knowledge, and other methods, Ramani Huria created quality, actionable map data. For example, our data has now been used in inundation maps, flood extent maps, trash point maps, community assets, and threats maps to mention a few.
 
-![image2-f55541.jpg](/uploads/image2-f55541.jpg)
+![image2-f55541.jpg](https://cdn.hotosm.org/website/image2-f55541.jpg)
 
 *University students during industrial training in 2018. Photo by Ramani Huria.*
 
@@ -75,7 +75,7 @@ These  added layers of  map data help communities and government agencies better
 
 * Locate critical facilities, i.e. schools, hospitals, and shelters to better inform disaster preparedness plans.
 
-![41402115084_bd78889bc0_c-compressor.jpg](/uploads/41402115084_bd78889bc0_c-compressor.jpg)
+![41402115084_bd78889bc0_c-compressor.jpg](https://cdn.hotosm.org/website/41402115084_bd78889bc0_c-compressor.jpg)
 
 *Trained community mapper interviewing fellow community member during historical flood extent mapping in 2017. Photo by Ramani Huria*
 
@@ -88,7 +88,7 @@ In the past, in order to digitize buildings, roads, and other infrastructure, it
 
 Today, Ramani Huria is working on a new solution, using survey drones that cost a few thousand dollars and can be deployed even when it’s cloudy. These drones make it much easier to map different features, monitor particular infrastructure or river basins, and even respond quickly to flood events.
 
-![image1-compressor.jpg](/uploads/image1-compressor.jpg)
+![image1-compressor.jpg](https://cdn.hotosm.org/website/image1-compressor.jpg)
 
 *Flying a locally made bamboo drone at the Lake Victoria Challenge. Photo by Sala Lewis.*
 

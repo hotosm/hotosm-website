@@ -4,7 +4,7 @@ date: 2018-05-16 06:40:00 Z
 permalink: projects/openstreetmap-bangladesh
 position: 69
 Project Summary Text: A community project to map all major cities in Bangladesh
-Feature Image: "/uploads/5_OSM%20Bangladesh,%20Nethope%20Device%20Grant%202017.JPG"
+Feature Image: "https://cdn.hotosm.org/website/5_OSM+Bangladesh,+Nethope+Device+Grant+2017.JPG"
 Is Community-Led: true
 Country:
 - Bangladesh

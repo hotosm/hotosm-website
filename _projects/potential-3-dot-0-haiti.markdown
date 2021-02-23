@@ -4,7 +4,7 @@ date: 2018-05-16 08:12:00 Z
 permalink: projects/potential-3-dot-0-haiti
 position: 78
 Project Summary Text: Disaster preparedness planning in Haiti
-Feature Image: "/uploads/Comunity%20OSM%20Haiti.png"
+Feature Image: "https://cdn.hotosm.org/website/Comunity+OSM+Haiti.png"
 Is Community-Led: true
 Country:
 - Haiti

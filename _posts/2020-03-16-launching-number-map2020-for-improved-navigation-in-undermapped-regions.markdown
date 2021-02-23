@@ -7,7 +7,7 @@ Summary Text: |-
   <strong>UPDATE TO #MAP2020 DUE TO COVID-19</strong></br>
 
   <em>With the ongoing situation of the Covid-19 outbreak in big parts of the world,   we are asking #map2020 participants to follow their local governments’ respective guidelines. If you can’t go out and capture imagery due to the current situation, you can still participate in #map2020 by updating and improving OpenStreetMap by using imagery that already exists on <a href="https://www.mapillary.com/app">Mapillary</a>. The imagery should still be used to improve navigation in your chosen area.</em>
-Feature Image: "/uploads/2019-06-20-poor-road-conditions-ghana-af88e4.gif"
+Feature Image: "https://cdn.hotosm.org/website/2019-06-20-poor-road-conditions-ghana-af88e4.gif"
 Person: Gihan Hassanein
 Country:
 - Global
@@ -18,7 +18,7 @@ Access to accurate and updated maps is a cornerstone for countries and societies
 
 With #map2020, we invite local mapping teams in low- and middle-income countries to map their communities and challenges related to navigation. By using street-level imagery to edit OpenStreetMap (OSM), we will together make a dent in one of the biggest challenges that undermapped areas face.
 
-![HOT Staff.jpeg](/uploads/HOT%20Staff.jpeg)
+![HOT Staff.jpeg](https://cdn.hotosm.org/website/HOT+Staff.jpeg)
 
 *HOT’s mapping team capturing street-level imagery for improving the map.*
 

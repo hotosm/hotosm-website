@@ -1,7 +1,7 @@
 ---
 title: Wille Marcel
 date: 2018-06-09 23:27:00 Z
-Photo: "/uploads/wille.jpg"
+Photo: "https://cdn.hotosm.org/website/wille.jpg"
 Member Type:
   Is Staff: true
 Job Title: Module Owner

@@ -1,7 +1,7 @@
 ---
 title: Sam Colchester
 date: 2019-06-04 13:48:00 Z
-Photo: "/uploads/SamColchester2.jpg"
+Photo: "https://cdn.hotosm.org/website/SamColchester2.jpg"
 Member Type:
   Is Staff: true
   Is Voting Member: true

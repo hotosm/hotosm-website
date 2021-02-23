@@ -5,7 +5,7 @@ date: 2019-10-04 12:20:00 Z
 Summary Text: With two new projects types and an improved user experience, MapSwipe
   is making it easier than ever for volunteers to get involved in mapping, one swipe
   at a time.
-Feature Image: "/uploads/Screen%20Shot%202019-10-04%20at%202.16.44%20PM.png"
+Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2019-10-04+at+2.16.44+PM.png"
 Person: Jessica Bergmann
 ---
 
@@ -16,7 +16,7 @@ There are millions of people around the world affected by disasters, disease, an
 MapSwipe enables volunteers to swipe through a series of satellite images, tapping in areas where they find crucial infrastructure, such as buildings and roads. This enables mappers to focus only on areas where they know features are located, saving time and producing a more accurate map for first responders. MapSwipe can be used anywhere and at any time, which makes it easy for volunteers to contribute to the Missing Maps project without being restricted to their laptop.
  
 # That was MapSwipe then – this is MapSwipe now.
-![Build Area.png](/uploads/Build%20Area.png)
+![Build Area.png](https://cdn.hotosm.org/website/Build+Area.png)
 
 MapSwipe 2.0 introduces two new projects, transforming the way that volunteers can contribute to humanitarian responses globally with just a few simple taps on their phone. These improvements are:
  

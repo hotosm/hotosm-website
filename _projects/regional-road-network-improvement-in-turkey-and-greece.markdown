@@ -5,7 +5,7 @@ position: 2
 Project Summary Text: 'Since January 2019, HOT is partnering with Kaart, Yer Çizenler
   and GeoPerformans aiming to improve the quality and accuracy of the road networks
   of Turkey and Greece on OpenStreetMap. '
-Feature Image: "/uploads/Validation%20With%20Street-Level%20Imagery-0e7bb4.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/Validation+With+Street-Level+Imagery-0e7bb4.jpeg"
 Is Community-Led: false
 Country:
 - Turkey
@@ -34,6 +34,6 @@ Access to accurate and navigable road network data is of crucial importance to t
 
 Our highly skilled team for this project consists of geomatics graduates who consistently provide high-quality digitization and validation on the regional road network data.
 
-![AI-Assisted Road Network Mapping.jpeg](/uploads/AI-Assisted%20Road%20Network%20Mapping.jpeg)
+![AI-Assisted Road Network Mapping.jpeg](https://cdn.hotosm.org/website/AI-Assisted+Road+Network+Mapping.jpeg)
 
 With a growing network of universities, student and professional organizations, and NGOs as well as the support of the Turkish OpenStreetMap community, the project draws mapper support to HOT’s global causes and active projects worldwide. There is also close coordination with local NGOs via meetings and workshops focusing on awareness raising and capacity building over participatory mapping and open geospatial data.

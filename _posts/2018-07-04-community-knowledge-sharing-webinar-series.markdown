@@ -3,7 +3,7 @@ title: Community Knowledge Sharing Webinar Series
 date: 2018-07-04 06:17:00 Z
 Summary Text: 'Join 15 OSM communities this July to hear about their experiences focusing
   on gender, youth, data integration, leave no one behind, and advocacy. '
-Feature Image: "/uploads/July%2011th%205pm%20UTC-5910df.png"
+Feature Image: "https://cdn.hotosm.org/website/July+11th+5pm+UTC-5910df.png"
 Working Group:
 - Community
 Country:

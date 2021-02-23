@@ -4,7 +4,7 @@ date: 2020-03-05 14:48:00 Z
 Summary Text: International Women’s Day (#IWD2020) celebrates the social, economic,
   cultural, and political achievements of women, while calling on the world to accelerate
   progress towards gender equality.
-Feature Image: "/uploads/InternationalWomensDay-landscape-purpleonwhite-242b5d-a4eed1.jpg"
+Feature Image: "https://cdn.hotosm.org/website/InternationalWomensDay-landscape-purpleonwhite-242b5d-a4eed1.jpg"
 Person: Rebecca Firth
 Working Group:
 - Community
@@ -38,5 +38,5 @@ The theme of #IWD2020 is ‘Collective Individualism’: our individual actions,
 2. HOT will support more community grant applications for projects mapping issues and causes related to gender.
 3. HOT commits to at least a 50% female staff team by the end of 2021.
 
-![gal 4(2).jpg](/uploads/gal%204(2).jpg)
+![gal 4(2).jpg](https://cdn.hotosm.org/website/gal+4(2).jpg)
 *Female students in Peru learning to map during HOT’s Women Connect Project in 2019*

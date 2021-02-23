@@ -7,7 +7,7 @@ position: 110
 Project Summary Text: HOT has developed curriculum called SD4CP (Scenario Development
   for Contingency Planning) with the goal to deliver knowledges and skill of OSM,
   QGIS and InaSAFE for provincial and district disaster management agencies
-Feature Image: "/uploads/Modul.png"
+Feature Image: "https://cdn.hotosm.org/website/Modul.png"
 Country:
 - Indonesia
 Impact Area:

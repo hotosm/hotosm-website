@@ -6,7 +6,7 @@ tags:
 - OpenStreetMap
 - Earthquake
 - humanitarian
-Feature Image: "/uploads/Haiti%20(1)-205990.png"
+Feature Image: "https://cdn.hotosm.org/website/Haiti+(1)-205990.png"
 Person: Tyler Radford
 Country:
 - Haiti
@@ -60,6 +60,6 @@ We got lucky in Haiti for this to work so well. Remote mappers, many of whom wer
 
 As far as I know, Haiti in 2010 was the first demonstrably life-saving use of patient origin data in humanitarian medicine; it showed us the way, and that it can be done. I now consider it a basic humanitarian duty to ensure that this life-saving data and capacity is available everywhere so that public health practitioners (both local and external) can do their work effectively.
 
-![65fbfc5ecfc0a6046c2852dadf3c2834.jpg](/uploads/65fbfc5ecfc0a6046c2852dadf3c2834.jpg)
+![65fbfc5ecfc0a6046c2852dadf3c2834.jpg](https://cdn.hotosm.org/website/65fbfc5ecfc0a6046c2852dadf3c2834.jpg)
 
 *Outside the Haiti Field Hospital after the 18 January aftershock. Photo credit: Olav A. Saltbones, Norwegian Red Cross*

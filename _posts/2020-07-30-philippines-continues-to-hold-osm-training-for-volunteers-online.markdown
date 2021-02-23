@@ -4,7 +4,7 @@ date: 2020-07-30 15:40:00 Z
 Summary Text: Despite movement restrictions in the country, HOT Philippines is able
   to continue training volunteers by identifying their needs and shifting training
   efforts online.
-Feature Image: "/uploads/HOT%20Twitter%20&%20Custom%20Link%20Signs-2.png"
+Feature Image: "https://cdn.hotosm.org/website/HOT+Twitter+/uploads/HOT%20Twitter%20&%20Custom%20Link%20Signs-2.png+Custom+Link+Signs-2.png"
 Person: Jikka Defiño
 Working Group:
 - Training
@@ -33,6 +33,6 @@ After the training, participants are provided with certificates and the voluntee
 
 The Philippine team also welcomed new members of the mapping team this month and has organized several JOSM and data validation trainings and exams throughout the month in preparation for the upcoming fieldwork for the [PhilAWARE](https://www.hotosm.org/projects/data-driven-disaster-risk-management-philaware/) project. Most of the trainings were done online, and the team met in the office *only* during necessary field trainings.
 
-![Ph Online Training Blog.jpg](/uploads/Ph%20Online%20Training%20Blog.jpg)
+![Ph Online Training Blog.jpg](https://cdn.hotosm.org/website/Ph+Online+Training+Blog.jpg)
 
 HOT Philippines culminated this month’s online trainings with two OSM Trainings with IBM, both held on July 29, at 2-4 p.m. and 8-10 p.m. Philippine Standard Time.

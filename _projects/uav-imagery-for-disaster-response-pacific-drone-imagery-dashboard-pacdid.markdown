@@ -5,7 +5,7 @@ permalink: projects/uav-imagery-for-disaster-response-pacific-drone-imagery-dash
 position: 54
 Project Summary Text: HOT deployed OpenAerialMap for use by the Pacific Community
   (SPC) as part of the Pacific Humanitarian Innovation Challenge.
-Feature Image: "/uploads/Picture1.png"
+Feature Image: "https://cdn.hotosm.org/website/Picture1.png"
 Country:
 - Fiji
 - Tonga

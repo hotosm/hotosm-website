@@ -17,11 +17,11 @@ Project:
 created: 1493281790
 ---
 
-![17879888_1728450020780379_3811758073513746730_o.jpg](/uploads/17879888_1728450020780379_3811758073513746730_o.jpg)
+![17879888_1728450020780379_3811758073513746730_o.jpg](https://cdn.hotosm.org/website/17879888_1728450020780379_3811758073513746730_o.jpg)
 
 As we wrote earlier, Indonesia’s disaster management agency is taking on a quantum leap this year, setting up on the creation of contingency planning for all the 136 priority cities/districts in Indonesia. Managing risks and safeguarding all economic and development hubs in the country is not an easy task, but a necessary one.
 
-![Screen Shot 2017-04-27 at 1.16.49 PM.png](/uploads/Screen%20Shot%202017-04-27%20at%201.16.49%20PM.png)
+![Screen Shot 2017-04-27 at 1.16.49 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2017-04-27+at+1.16.49+PM.png)
 
 As we [wrote earlier](https://openstreetmap.id/bnpb-manfaatkan-tasking-manager-osm-untuk-pengumpulan-data-infrastruktur-di-136-kabupatenkota/), Indonesia’s disaster management agency is taking on a quantum leap this year, setting up on the creation of contingency planning for all the [136 priority cities/districts](https://uswatunkh21.carto.com/viz/539663b2-2001-11e7-9794-0e98b61680bf/public_map) in Indonesia. Managing risks and safeguarding all economic and development hubs in the country is not an easy task, but a necessary one.
 
@@ -31,6 +31,6 @@ BNPB harnesses the tools HOT developed, such as Tasking Manager, HOT Export, Geo
 
 Humanitarian OpenStreetMap Team (HOT) assists BNPB in the development of training materials for sub-national disaster management agencies (BPBD). This stems from recruiting 22 GIS staffs and disaster analysts working full-time for BNPB; conducting a series of refreshment trainings; providing data collection, validation, and analysis tools, guidelines, and a set of standardised practices. HOT also provides a training of trainers’ sessions before dispatching the staffs to all the 136 districts. The staffs will then be in-charge of developing a capacity development and know-how transfer programme for the sub-national agencies to implement.
 
-![17880152_1728450354113679_6836050245446849851_o.jpg](/uploads/17880152_1728450354113679_6836050245446849851_o.jpg)
+![17880152_1728450354113679_6836050245446849851_o.jpg](https://cdn.hotosm.org/website/17880152_1728450354113679_6836050245446849851_o.jpg)
 
 Training of Trainers covers some of the most common errors and mapping mistakes. HOT also establishes an extensive list of mapping Frequently-Asked-Questions for BNPB’s GIS Staffs. BNPB staffs took turns at teaching and re-clarifying the curriculum content and training materials to their peers with HOT staffs present to give critical input. In addition, we include basic public speaking course to help the staffs effectively deliver the said content.

@@ -11,7 +11,7 @@ Summary Text: HOT straddles a line between a community organisation and a humani
   delivering value through humanitarian action and development. This feedback from
   the in-person HOT board meeting in August outlines some of the ways we want to evolve
   HOT to enable these powerful twin aims.
-Feature Image: "/uploads/hotboardtz.JPG"
+Feature Image: "https://cdn.hotosm.org/website/hotboardtz.JPG"
 Country:
 - Tanzania
 ---

@@ -2,7 +2,7 @@
 title: Building Disaster Resilient Countries/Cities Through Open Spatial Data and
   Exposure Analysis.
 date: 2018-12-04 12:18:00 Z
-Feature Image: "/uploads/compressed-digitzation.jpg"
+Feature Image: "https://cdn.hotosm.org/website/compressed-digitzation.jpg"
 Person: Hawa Adinani
 Country:
 - Tanzania
@@ -38,7 +38,7 @@ We will contribute towards the open global exposure data for multi-hazard risk a
 The tasking manager is an OSM tool to manage and create tasks. We were provided with homogenous zones for areas of interest and using QGIS as a tool, were able to split the homogeneous zones into multiple polygons for tasks creation in geojson form. The geojson for the multiple polygons are used to create the area of interest in the tasking manager for projects. The homogeneous zones consist of different land uses such as formal and informal settlements in urban areas or peri urban areas together with industrial areas. Some parts of these areas were already mapped and contained some metadata so specific instructions were issued such as insisting mappers did not delete any existing features and values inside them. The following diagram shows the distribution of  homogeneous zones polygons.
 
 
-![digitization.jpeg](/uploads/digitization.jpeg)
+![digitization.jpeg](https://cdn.hotosm.org/website/digitization.jpeg)
 *Digitization of Aerial Imagery by HOT- team in Tanzania; Photo, HOT, Tanzania.*
 
 In just five days, our team of twenty mappers based in Tanzania  digitized 10,955 buildings. This was achieved using 6 cm resolution imagery,  provided by the Ministry of Lands, Housing and Human Settlements. All 10,955 buildings were in different homogeneous zones such as industrial, planned, unplanned, shattered as well as less populated areas. 
@@ -46,10 +46,10 @@ In just five days, our team of twenty mappers based in Tanzania  digitized 10,95
 The following map shows traced buildings in provided homogeneous zones.
 
 
-![homogenous zones.png](/uploads/homogenous%20zones.png)
+![homogenous zones.png](https://cdn.hotosm.org/website/homogenous+zones.png)
 
 
-![homoegenous zones 2.png](/uploads/homoegenous%20zones%202.png)
+![homoegenous zones 2.png](https://cdn.hotosm.org/website/homoegenous+zones+2.png)
 
 The surveyed data on OSM will be tested along with country-wide datasets developed by ImageCat, a leading provider of risk and disaster management technologies. The testing enables us to see their suitability for purpose by randomly selecting buildings from the same patterns in established homogeneous zones, then validating two focus areas to assure they are fit-for-purpose.
 

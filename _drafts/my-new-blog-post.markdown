@@ -9,6 +9,6 @@ This is a new tool we're launching....INtro paragraph.
 
 This is our content. This is my **bold** text. My tradational way is to write **bold.** Just write and then **make things bold**.
 
-![Code for Africa (1).jpg](/uploads/Code%20for%20Africa%20(1).jpg)
+![Code for Africa (1).jpg](https://cdn.hotosm.org/website/Code+for+Africa+(1).jpg)
 *This is my caption*
 

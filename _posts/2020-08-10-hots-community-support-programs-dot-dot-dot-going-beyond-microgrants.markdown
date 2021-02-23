@@ -5,7 +5,7 @@ Summary Text: HOT’s Audacious Vision is to map an area home to one billion peo
   living in poverty and at high risk of disasters by engaging mappers around the world
   to massively grow the number of local edits to the map. To kickstart planning, HOT’s
   Community Team has hosted a series of workshops to understand community perspectives.
-Feature Image: "/uploads/Deo%20Supporting%20Local%20Mapping%20Communities%20Feedback.JPG"
+Feature Image: "https://cdn.hotosm.org/website/Deo+Supporting+Local+Mapping+Communities+Feedback.JPG"
 Person:
 - Rebecca Firth
 - Geoffrey Kateregga
@@ -37,7 +37,7 @@ The three most common challenges:
 * 23% of challenges related to **funding** for project execution, including internet access and covering volunteer costs/volunteer incentives.
 * 22% of challenges were associated with **access** to tools, equipment, space, and internet. The most prominent challenge in this category was internet access and lack of equipment. Often the hardware that is available is old and ineffective. 
 
-![Community Support Word Cloud 1.png](/uploads/Community%20Support%20Word%20Cloud%201.png)
+![Community Support Word Cloud 1.png](https://cdn.hotosm.org/website/Community+Support+Word+Cloud+1.png)
 
 **Are there any skills gaps in communities? If so, which skills?**
 
@@ -46,7 +46,7 @@ The three most common skill gaps:
 * 24% of skills gaps were related to **entrepreneurial skills**. Writing proposals, leadership skills, and pitching and presenting were skills gaps raised by participants in all six workshops.
 * 19% of skills gaps identified were associated with **project management and planning**, monitoring and evaluation, and reporting.
 
-![Community Support Word Cloud 2.png](/uploads/Community%20Support%20Word%20Cloud%202.png)
+![Community Support Word Cloud 2.png](https://cdn.hotosm.org/website/Community+Support+Word+Cloud+2.png)
 
 **What kind of support do communities expect? Do we deliver on expectations?**
 

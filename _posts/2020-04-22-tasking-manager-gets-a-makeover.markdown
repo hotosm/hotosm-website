@@ -4,7 +4,7 @@ date: 2020-04-22 17:30:00 Z
 Summary Text: The latest software version 4 of Tasking Manager has just been released
   with a number of enhancements that will improve users’ experience of collaborative
   mapping in OpenStreetMap.
-Feature Image: "/uploads/blog-post-1-image-1.jpg"
+Feature Image: "https://cdn.hotosm.org/website/blog-post-1-image-1.jpg"
 Person: Felix Delattre
 Working Group:
 - Technical
@@ -22,7 +22,7 @@ Tasking Manager has evolved: technically and visually. Guided by our valued comm
 
 Our new experience and new look is built with and for our users. Changes include user stories that promote: simplified sign up, project discovery and contribution review. We have also enhanced our mapping colour palette to improve accessibility to mappers who may be visually impaired.
 
-![blog-post-1-image-2 (1).jpg](/uploads/blog-post-1-image-2%20(1).jpg)
+![blog-post-1-image-2 (1).jpg](https://cdn.hotosm.org/website/blog-post-1-image-2+(1).jpg)
 
 **iD integrated**
 

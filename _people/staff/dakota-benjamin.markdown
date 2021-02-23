@@ -1,7 +1,7 @@
 ---
 title: Dakota Benjamin
 date: 2018-06-01 19:55:00 Z
-Photo: "/uploads/dakota-profile.png"
+Photo: "https://cdn.hotosm.org/website/dakota-profile.png"
 Member Type:
   Is Staff: true
 Job Title: Support Engineer

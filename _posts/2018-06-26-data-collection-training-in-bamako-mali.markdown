@@ -2,7 +2,7 @@
 title: Data Collection Training in Bamako, Mali
 date: 2018-06-26 10:32:00 Z
 Summary Text: Data collection training in Bamako, Mali
-Feature Image: "/uploads/P_20180623_123431.jpg"
+Feature Image: "https://cdn.hotosm.org/website/P_20180623_123431.jpg"
 Person: Nathalie Sidibe
 Working Group:
 - Community
@@ -24,4 +24,4 @@ They also undertook a data collection session, and viewed and downloaded the dat
 
 Volunteers were very happy to discover these data tools which were new to them and are grateful to the trainers. The OSM Mali team are looking forward to leading the project. The OSM Mali community thanks HOT for providing training slides on ODK and OMK in order to make training of those tools easier.
 
-![IMG-20180623-WA0009.jpg](/uploads/IMG-20180623-WA0009.jpg)
+![IMG-20180623-WA0009.jpg](https://cdn.hotosm.org/website/IMG-20180623-WA0009.jpg)

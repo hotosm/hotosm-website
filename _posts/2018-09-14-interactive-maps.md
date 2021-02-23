@@ -1,7 +1,7 @@
 ---
 title: 'Website Update: Interactive Maps'
 date: 2018-09-14 00:00:00 Z
-Feature Image: "/uploads/our-work-map-view.png"
+Feature Image: "https://cdn.hotosm.org/website/our-work-map-view.png"
 Person: Ramya Ragupathy
 Working Group:
 - Technical

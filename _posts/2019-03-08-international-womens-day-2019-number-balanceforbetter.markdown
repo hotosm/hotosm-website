@@ -5,7 +5,7 @@ Summary Text: HOT celebrates work to improve gender inclusion across OpenStreetM
   While no country in the world has achieved gender parity, inequality is particularly
   extreme in many of the places HOT works. Scroll on to see how you can get involved,
   and see our highlights from the past year.
-Feature Image: "/uploads/InternationalWomensDay-landscape-purpleonwhite-242b5d.jpg"
+Feature Image: "https://cdn.hotosm.org/website/InternationalWomensDay-landscape-purpleonwhite-242b5d.jpg"
 Person: Rebecca Firth
 Working Group:
 - Community
@@ -24,17 +24,17 @@ Project:
 ## Read up on our gender highlights from the past 12 months:
 - Together with FOSS4G, we supported Travel Grants for 137 people - the majority women & girls from East Africa - to attend the HOT Summit and FOSS4G in Dar es Salaam in Africa this year. 13% of the 1000+ conference-goers attended with a Travel Grant, positively impacting diversity at the conference.
 
-![HOT Summit 2018 (1).jpg](/uploads/HOT%20Summit%202018%20(1).jpg)
+![HOT Summit 2018 (1).jpg](https://cdn.hotosm.org/website/HOT+Summit+2018+(1).jpg)
 
 - HOT Voting Members voted in a majority female board for the first time, and placed Gender equality in HOT’s 2021 Strategic plan
 
-![hotboardtz-5c84fb.JPG](/uploads/hotboardtz-5c84fb.JPG)
+![hotboardtz-5c84fb.JPG](https://cdn.hotosm.org/website/hotboardtz-5c84fb.JPG)
 
 - We launched our first ever gender program, supporting three projects in Peru, Tanzania, and Paraguay, and working with YouthMappers to close to digital gender divide through the [USAID Women Connect Challenge](https://www.hotosm.org/projects/women-connect-number-letgirlsmap-growing-female-open-data-leaders-across-5-continents/).
 
-![WCC Blog-9609de.JPG](/uploads/WCC%20Blog-9609de.JPG)
+![WCC Blog-9609de.JPG](https://cdn.hotosm.org/website/WCC+Blog-9609de.JPG)
 *Mapping to support Women and Girls at risk of Female Genital Mutilation and Gender Based Violence in Serengeti, Tanzania*
 
-<img src="/uploads/Gutierrez%20t-shirt%20design.png" style="width:auto;">
+<img src="https://cdn.hotosm.org/website/Gutierrez+t-shirt+design.png" style="width:auto;">
 
 *Students mapping sexist publicity in their neighbourhoods were given the opportunity to present their findings to regional mayors in Cusco, Peru*

@@ -5,7 +5,7 @@ permalink: projects/mapfugees_field_mapping
 position: 121
 Project Summary Text: Mapfugees coordinated digitization of the refugee camps of Calais
   and Grande-Synthe/Dunkirk in Northern France in 2016
-Feature Image: "/uploads/20160411_154843%20Dunkirk.jpg"
+Feature Image: "https://cdn.hotosm.org/website/20160411_154843+Dunkirk.jpg"
 Is image top aligned: true
 Is Community-Led: true
 Country:

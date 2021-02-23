@@ -4,7 +4,7 @@ date: 2020-10-07 10:00:00 Z
 Summary Text: Every two weeks we push a new version of Tasking Manager with new features,
   bug fixes and enhancements. It has been a while since our last update, so let’s
   take a look on what is new on Tasking Manager.
-Feature Image: "/uploads/tm-stats-10-2020.jpg"
+Feature Image: "https://cdn.hotosm.org/website/tm-stats-10-2020.jpg"
 Person:
 - Wille Marcel
 ---
@@ -13,17 +13,17 @@ This week we released the [version 4.1.10](https://github.com/hotosm/tasking-man
 
 We improved the notification bell component, assuring that it will always show your last 5 unread messages. When a new message arrives, the list updates automatically.
 
-![Notifications popup](/uploads/tm-notifications-popup.png)
+![Notifications popup](https://cdn.hotosm.org/website/tm-notifications-popup.png)
 <br><br>
 
 On the [notifications page](https://tasks.hotosm.org/inbox), we now have the possibility of filtering the Teams notifications, a new message type added recently to Tasking Manager. You can also delete multiple messages in batch.
 
-![Notifications page](/uploads/tm-notifications-page.png)
+![Notifications page](https://cdn.hotosm.org/website/tm-notifications-page.png)
 <br><br>
 
 As we mentioned about team messages, now it’s possible for managers to send messages to all their team members. It can be done from the Manage Team page:
 
-![](/uploads/tm-team-notifications.gif)
+![](https://cdn.hotosm.org/website/tm-team-notifications.gif)
 <br><br>
 
 We believe it will be useful to give instructions to team members, announce new projects or any other communication needed within the teams. Users have the possibility to customise from their [settings page](https://tasks.hotosm.org/settings) to opt in or out for receiving emails about the Teams Notifications.<br><br>
@@ -32,7 +32,7 @@ We believe it will be useful to give instructions to team members, announce new 
 
 For a seamless experience, users can now drag and drop images in any input forms like shown in the graphic below or when commenting on projects and tasks. Project managers can also use the drag and drop image upload when drafting the project’s instructions or when sending messages to the project’s contributors.
 
-![](/uploads/tm-drag-drop-upload.gif)
+![](https://cdn.hotosm.org/website/tm-drag-drop-upload.gif)
 <br><br>
 
 ## Markdown support

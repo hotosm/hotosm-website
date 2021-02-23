@@ -3,7 +3,7 @@ title: Getting to grips on tag quality with MapCampaigner
 date: 2018-09-25 08:20:00 Z
 Summary Text: Last year at State of the Map in Boulder we announced a new tool called
   MapCampaigner. Today we're opening it up to anyone to create campaigns.
-Feature Image: "/uploads/mapcampaigner-landing.png"
+Feature Image: "https://cdn.hotosm.org/website/mapcampaigner-landing.png"
 Is image top aligned: true
 Person: Nate Smith
 Working Group:
@@ -14,13 +14,13 @@ Last year at State of the Map in Boulder [we announced](https://2017.stateofthem
 
 Our [initial announcement](https://www.hotosm.org/updates/2017-08-18_field_mapping_organizer_reaches_first_major_milestone) was a soft launch to test and see how mapping organizers or project managers could use the tool. Our goal with slowly rolling this out was to understand what was working, what wasn’t working, and how teams in the field could use it. Over the last three months, we’ve taken some of the primary feedback — speed and performance — and revamped how we process data to monitor an area. 
 
-![mapcampaigner-landing.png](/uploads/mapcampaigner-landing.png)
+![mapcampaigner-landing.png](https://cdn.hotosm.org/website/mapcampaigner-landing.png)
 
 ## Easier tag tracking and faster processing
 
 When we first launched, we had limited options for what tags could be tracked. Users could select predefined tagging schemas, or you could create custom tags one at a time. The custom method was difficult to use since you had to fill out one at a time and it limited you to how complex you could make your tagging schema. We’ve now improved how you can add custom tags by adding an edit in YAML mode ([YAML](https://en.wikipedia.org/wiki/YAML) is an easy to read data language). This allows you to create a more complex tag schema (in an easy to read format) to track and simply copy and paste into the editor. 
 
-![mapcampaign-yaml.png](/uploads/mapcampaign-yaml.png)
+![mapcampaign-yaml.png](https://cdn.hotosm.org/website/mapcampaign-yaml.png)
 
 To improve the experience when viewing a campaign, we evaluated the speed of how data was being shown on a campaign page. A key point of feedback has been that the data was slow to load or they were not able to process large areas of interest. Working with our partners [Kartoza](http://kartoza.com), we’ve been able to revamp how MapCampaigner queries data and makes it available for monitoring an area. Behind the scenes the application uses [AWS Lambda](https://aws.amazon.com/lambda/) to run functions that process data from HOT’s Overpass server for an active campaign area. We run this processing on an hourly basis to keep load on the Overpass server to a minimum and keep the data shown on the front-end fast for the user. 
 
@@ -30,11 +30,11 @@ To get started using MapCampaigner, head over to [campaigns.hotosm.org](https://
 
 Once you’ve signed in with OSM username, you can create a new campaign to track an area. As you fill in the details about your campaign, you choose the date range for what you want to monitor. You can go back in time to see what was previously collected and by whom, or you can set it for the future to monitor and create an active campaign to collect a feature with attributes. 
 
-![mapcampaigner-create.png](/uploads/mapcampaigner-create.png)
+![mapcampaigner-create.png](https://cdn.hotosm.org/website/mapcampaigner-create.png)
 
 After you have filled in the necessary details, you can define the area that you want to track. You can upload a single area of interest or split up an area to create sections that you will track over time. Many field projects separate these areas by team and collect data within each area. 
 
-![mapcampaigner-aoi.png](/uploads/mapcampaigner-aoi.png)
+![mapcampaigner-aoi.png](https://cdn.hotosm.org/website/mapcampaigner-aoi.png)
 
 The next step is to submit your campaign. The application will process the data and make it available on an unique campaign page (the data will update hourly). Within the campaign page, you will see three sections: 
 
@@ -42,7 +42,7 @@ The next step is to submit your campaign. The application will process the data 
 2. Errors and warnings
 3. User engagement 
 
-![mapcampaigner-page.gif](/uploads/mapcampaigner-page.gif)
+![mapcampaigner-page.gif](https://cdn.hotosm.org/website/mapcampaigner-page.gif)
 
 *Check out this [example campaign](https://campaigns.hotosm.org/campaign/2d9946dc09a94ee8989fb3672fec44f9) across Lisbon, Portugal*
 

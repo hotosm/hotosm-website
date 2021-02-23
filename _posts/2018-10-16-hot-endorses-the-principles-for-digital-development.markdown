@@ -11,7 +11,7 @@ Summary Text: In October 2018, HOT officially endorsed the Principles for Digita
   integrate established best practices into technology-enabled programs. The Principles
   focus heavily on many of HOT's core values, including community, openness, collaboration,
   and innovation and will continue to guide our work going forward.
-Feature Image: "/uploads/DpUWakkX4AAWyaE.jpg"
+Feature Image: "https://cdn.hotosm.org/website/DpUWakkX4AAWyaE.jpg"
 Person: Tyler Radford
 ---
 
@@ -27,7 +27,7 @@ When I think about HOT, some of the first words that come to mind are:
 
 Coincidentally, these are also some of the same themes that emerge in the [Principles for Digital Development](https://digitalprinciples.org/). The Principles are a set of living guidance intended to help practitioners succeed in applying digital technologies to development programs. Over the past nine years, our community has supported and advocated for many of the concepts that become enshrined in the Principles for Digital Development in 2014-15.
 
-<img src="/uploads/1_-TK6hWAH7NWK0YVfwD5-Xg-fe3a66.png" style="width: 600px !important" alt="DigitalPrinciples">
+<img src="https://cdn.hotosm.org/website/1_-TK6hWAH7NWK0YVfwD5-Xg-fe3a66.png" style="width: 600px !important" alt="DigitalPrinciples">
 <br />
 <em style="font-size: 0.8125rem;font-weight: bold;color: #68707F;">The nine Principles for Digital Development</em>
 

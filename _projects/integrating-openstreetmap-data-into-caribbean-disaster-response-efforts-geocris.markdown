@@ -6,7 +6,7 @@ Project Summary Text: 'Shared knowledge and datasets are critical for Caribbean 
   Disaster Emergency Management Agency (CDEMA) and the World Bank on integrating OpenStreetMap
   into a collaborative geospatial data platform to increase knowledge share and use
   of open geospatial data across CDEMA countries. '
-Feature Image: "/uploads/Jamaica.JPG"
+Feature Image: "https://cdn.hotosm.org/website/Jamaica.JPG"
 Country:
 - Anguilla
 - Antigua and Barbuda

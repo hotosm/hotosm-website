@@ -11,7 +11,7 @@ Project Summary Text: 'In combining machine-learning-based algorithms with a mot
   assistance should be delivered.
 
 '
-Feature Image: "/uploads/DxIJFn5WwAA_GMQ%20(1).jpeg"
+Feature Image: "https://cdn.hotosm.org/website/DxIJFn5WwAA_GMQ+(1).jpeg"
 Country:
 - Democratic Republic of the Congo
 - Uganda
@@ -38,7 +38,7 @@ The resulting project will focus on the most critical humanitarian need in the D
 <br>
 <br>
 <br>
-![Copy-of-Untitled-3.png](/uploads/Copy-of-Untitled-3.png)
+![Copy-of-Untitled-3.png](https://cdn.hotosm.org/website/Copy-of-Untitled-3.png)
 
 <i>This Project is supported by Grand Challenges Canada. Grand Challenges Canada is funded by the Government of Canada and is dedicated to supporting Bold Ideas with Big Impact®.</i>
 

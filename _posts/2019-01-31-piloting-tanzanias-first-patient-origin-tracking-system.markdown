@@ -3,7 +3,7 @@ title: Piloting Tanzania's First Patient Origin Tracking System
 date: 2019-01-31 18:10:00 Z
 Summary Text: Putting hyperlocal data to use at the Amana Regional Referral Hospital
   in Dar es Salaam. Pictured above is Dr. Omari Mahiza who is helping lead the charge.
-Feature Image: "/uploads/dr-omari-mahiza-image3.jpg"
+Feature Image: "https://cdn.hotosm.org/website/dr-omari-mahiza-image3.jpg"
 Is image top aligned: false
 Person:
 - Belinda Japhet
@@ -23,19 +23,19 @@ Understanding the need for more systematic data collection to enhance data quali
 
 Amana Hospital is one of a few hospitals in the country to recently digitize its registration process. “Before we wrote down everything by hand, we still have stacks of old books and files with patients’ data. You can see our staff need a change in mindset. We need to keep in mind that this information is important,’’ the head of registration points out. 
 
-![hyperlocal-blog-image4.jpg](/uploads/hyperlocal-blog-image4.jpg)
+![hyperlocal-blog-image4.jpg](https://cdn.hotosm.org/website/hyperlocal-blog-image4.jpg)
 _Nurses at Amana Hospital receive map literacy training and insight into how maps can be used to track patients and isolate disease outbreaks more quickly._
 
 To foster this change - along with adaptations to the hospital’s eHIS - HOT organized a two-day intensive training for 20 key registry staff  on using the new system to generate more location specific data at the hyperlocal community level. As of early December, Amana’s staff have started using the new system. Both HOT and Dr. Mahiza are keenly waiting to use the data in the near future. “This is the first project of its kind in the country,” Asha Mustapher, Mapping Supervisor at HOT says. Indeed, Amana Hospital stands to be a very important point of reference for other medical facilities in the country. “If this project works well here it will be a pilot to roll out to other facilities in the country,” she adds. 
 
-![hyperlocal-blog-image2.jpg](/uploads/hyperlocal-blog-image2.jpg)
+![hyperlocal-blog-image2.jpg](https://cdn.hotosm.org/website/hyperlocal-blog-image2.jpg)
 _Dr. Mahiza explains how assigning hyperlocal areas could help to identify patients and improve disease surveillance (feature image)_
 
 <details>
 <summary>View the Amana Hospital Project infographic
-    <img src="/uploads/amana-info-top.png">
+    <img src="https://cdn.hotosm.org/website/amana-info-top.png">
 </summary>
-<img src="/uploads/amana-info-bottom.png">
+<img src="https://cdn.hotosm.org/website/amana-info-bottom.png">
 </details>
 
 ## Disease/infection prevention
@@ -46,7 +46,7 @@ The doctor also thinks the data can help to change Tanzania’s health system fr
 
 Such a bottom up approach is what HOT aims for as well and it is possible through partnerships with institutions like Amana and grassroots focused interventions that can achieve meaningful results.
 
-![hyperlocal-blog-image1.jpg](/uploads/hyperlocal-blog-image1.jpg)
+![hyperlocal-blog-image1.jpg](https://cdn.hotosm.org/website/hyperlocal-blog-image1.jpg)
 _HOT team shares and verifies hyperlocal boundaries with leaders before finalizing maps to ensure boundaries have been mapped correctly._
 
 ## It all comes down to mapping 
@@ -55,7 +55,7 @@ Projects such as the Amana Hospital engagement would not be possible without com
 
 Wajumbe play a key role in community members’ wellbeing. In some cases, health clinics ask patients to list their wajumbe when registering. Yet despite the fact that most Tanzanian people know who their wajumbe are, there are no current open databases recording the shinas they administer. This makes it difficult for officials and community members to locate people in times of crisis, or deliver services to a specific locality, because, often, a community member can only describe their location based on their shina leader.
 
-![hyperlocal-blog-image6.jpg](/uploads/hyperlocal-blog-image6.jpg)
+![hyperlocal-blog-image6.jpg](https://cdn.hotosm.org/website/hyperlocal-blog-image6.jpg)
 _Verifying the boundary traced by phone with the actual map of the area._
 
 Hyperlocal maps can help solve this problem. According to subward leader, Issa Suleiman, shina maps provide crucial information for leaders: “I need shina maps because they may help future subward leaders who may come after me to know how many wajumbe that the subward has, where they are located, and the number of houses each shina has. This will help ward management and record keeping.” Furthermore this will help community leaders to work with institutions such as hospitals to prevent disease outbreaks in their communities.

@@ -6,7 +6,7 @@ Summary Text: Recent population figures estimate Dar es Salaam’s population to
   over 5 million, with an annual population growth of 5.7%. Despite the rapid growth
   of the city, almost 70% of the city is comprised of informal unplanned settlements
   - a figure that is predicted to grow dramatically as the city expands.
-Feature Image: "/uploads/lowqual.PNG"
+Feature Image: "https://cdn.hotosm.org/website/lowqual.PNG"
 Person:
 - Hawa Adinani
 - Amelia Hunt

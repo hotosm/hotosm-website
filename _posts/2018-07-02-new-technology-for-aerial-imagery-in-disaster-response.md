@@ -4,7 +4,7 @@ title: 'Fast, Powerful, and Practical: New Technology for Aerial Imagery in Disa
 date: 2018-07-02 06:30:00 Z
 Summary Text: How rugged, portable AWS servers can be used for post-disaster imagery
   operations.
-Feature Image: "/uploads/sbe.png"
+Feature Image: "https://cdn.hotosm.org/website/sbe.png"
 Is image top aligned: true
 Person: Seth Fitzsimmons
 Working Group:
@@ -25,7 +25,7 @@ The souped-up Snowball Edge enables a workflow for capturing, annotating, collec
 
 Here’s how it works:
 
-![How it works](/uploads/poam-how-it-works.png)
+![How it works](https://cdn.hotosm.org/website/poam-how-it-works.png)
 
 The AWS Snowball Edge has many unique qualities that make it the perfect piece of hardware for this purpose. We chose it because it features:
 
@@ -37,10 +37,10 @@ The AWS Snowball Edge has many unique qualities that make it the perfect piece o
 
 Here’s what it looks like in action:
 
-![Santa Rosa wildfires](/uploads/poam-santa-rosa.png)
+![Santa Rosa wildfires](https://cdn.hotosm.org/website/poam-santa-rosa.png)
 _Imagery from DroneDeploy showing conditions in the wake of the October, 2017 Santa Rosa wildfires in California._
 
-![Mexico City earthquake](/uploads/poam-mx-earthquake.png)
+![Mexico City earthquake](https://cdn.hotosm.org/website/poam-mx-earthquake.png)
 _Imagery from DroneDeploy showing a damaged alcaldía in Mexico City after September, 2017’s earthquake used within OSM’s iD editor, which is included as a component of POSM._
 
 We shared a booth with members of [the newly-formed AWS Disaster Response Program (DRP)](https://aws.amazon.com/government-education/nonprofits/disaster-response/), who also hosted an AWS Snowball Edge demo of their own. The AWS DRP enables customers to focus on mission-critical functions; the AWS Disaster Response Action Team (AWS DRT), comprised of AWS technical experts, will provision critical data and applications for disaster-responding customers, transport hardware to their base of operations, and implement a deployable infrastructure to meet the customer’s needs during a disaster.
@@ -63,7 +63,7 @@ Data that’s collected in the field can be merged with existing OSM data and tu
 
 When a field deployment has completed, the AWS Snowball Edge is powered off, turning its Kindle Paperwhite-powered status display into a shipping label, and returned to an AWS region where data that’s been created in the field and added to the local S3 buckets (UAV imagery, augmented OSM data, and ODK submissions) will be copied into internet-accessible buckets for subsequent use and analysis.
 
-<img src="/uploads/sbe-shipping.png" style="width:30%;">
+<img src="https://cdn.hotosm.org/website/sbe-shipping.png" style="width:30%;">
 _Return shipping mode: activated._
 
 We believe that this solution has a lot of potential to allow organizations to embrace fully offline workflows, complete with access to large quantities of imagery and tools to collect more. We hope to expand and polish this more, including investigating how other open source tools like [OpenDroneMap](http://opendronemap.org/) and [Tasking Manager](https://tasks.hotosm.org/) can be integrated. Over the next few months we’ll be working with groups like [WeRobotics](https://werobotics.org/) to test this further and document how Portable OpenAerialMap can be made available for disaster response.

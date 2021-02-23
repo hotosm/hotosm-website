@@ -1,7 +1,7 @@
 ---
 title: Launching Visualize Change!
 date: 2018-09-04 10:34:00 Z
-Feature Image: "/uploads/hot-visualize-change-image.png"
+Feature Image: "https://cdn.hotosm.org/website/hot-visualize-change-image.png"
 Is image top aligned: true
 Person: Nate Smith
 Working Group:
@@ -33,7 +33,7 @@ There are two ways to get started visualizing an area: basic and advanced.
 
 To get started with a basic visualization, you can quickly select the date range you'd like to see: last week, last month, or last year. 
 
-![vc-dropdown.gif](/uploads/vc-dropdown.gif)
+![vc-dropdown.gif](https://cdn.hotosm.org/website/vc-dropdown.gif)
 
 ### Advanced
 
@@ -41,6 +41,6 @@ To customize the dates you'd like to see or how you would like to visualize the 
 
 Within each mode, you can save the view to then share it via a URL or create a downloadable video or gif. 
 
-![vc-advanced.gif](/uploads/vc-advanced.gif)
+![vc-advanced.gif](https://cdn.hotosm.org/website/vc-advanced.gif)
 
 Thanks to [Flow/Control](http://flow-control.io/) for helping build and support the development of the tool. Give it a spin and then share your results with #hotosm #visualizechange. 

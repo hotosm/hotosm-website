@@ -4,7 +4,7 @@ date: 2020-05-28 14:24:00 Z
 Summary Text: Wille is an experienced frontend engineer focused on rich web map applications
   and  the creator the Tasking Manager frontend and the OSMCha application, a very
   important tool for quality control and monitoring of changes of OpenStreetMap.
-Feature Image: "/uploads/wille_5.JPG"
+Feature Image: "https://cdn.hotosm.org/website/wille_5.JPG"
 Person: Bo Percival
 Working Group:
 - Technical

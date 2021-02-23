@@ -11,7 +11,7 @@ Summary Text: Humanitarian OpenStreetMap Team has completed mapping Semarang, th
   a home to over 1,5 million people, Semarang is the fifth largest city in Indonesia.
   The city's unique topography-- coastal lowland to the north and bumpy highlands
   to the south--makes it particularly prone to tidal flood and landslides.
-Feature Image: "/uploads/DSC_1483.JPG"
+Feature Image: "https://cdn.hotosm.org/website/DSC_1483.JPG"
 Country:
 - Indonesia
 Project:
@@ -24,8 +24,8 @@ The mapping project [focuses on digitizing](https://www.hotosm.org/updates/2018-
 
 The following factsheet summarizes key metrics and lessons learned from the mapping project in Semarang, alongside with the ones collected in Surabaya and Jakarta. Our team managed to map over 482,000 buildings; 4.4 million metres roads; 433 metres waterways; and 11,000 infrastructures. The whole process took only four months, covering all 177 villages and 16 subdistricts. A comprehensive map like this is not only useful for disaster management, but can be further utilized for a variety of city planning purposes.
 
-![Screen Shot 2018-12-03 at 2.55.27 PM-58d8ee.png](/uploads/Screen%20Shot%202018-12-03%20at%202.55.27%20PM-58d8ee.png)
-![Screen Shot 2018-12-03 at 2.55.40 PM.png](/uploads/Screen%20Shot%202018-12-03%20at%202.55.40%20PM.png)
+![Screen Shot 2018-12-03 at 2.55.27 PM-58d8ee.png](https://cdn.hotosm.org/website/Screen+Shot+2018-12-03+at+2.55.27+PM-58d8ee.png)
+![Screen Shot 2018-12-03 at 2.55.40 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2018-12-03+at+2.55.40+PM.png)
 
 Watch the following video to see footages from our ground survey activities. Our project could only be completed with continuous support from local communities, universities ([State University of Semarang](https://unnes.ac.id)), and [BPBD Semarang](http://bpbd.semarangkota.go.id). We distributed printed OSM maps to all village offices and now move onto creating atlas for local disaster management agency and village officials to use. Check out [this webpage](https://openstreetmap.id/en/pemetaan-hot-pdc/) to further explore about this project.
 

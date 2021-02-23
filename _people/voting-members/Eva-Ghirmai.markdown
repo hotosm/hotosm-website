@@ -1,7 +1,7 @@
 ---
 title: Eva Ghirmai
 date: 2019-06-04 13:37:00 Z
-Photo: "/uploads/eva_ghirmai_photo.png"
+Photo: "https://cdn.hotosm.org/website/eva_ghirmai_photo.png"
 Member Type:
   Is Voting Member: true
 ---

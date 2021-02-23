@@ -1,7 +1,7 @@
 ---
 title: Collecting building data sets for exposure data in Tanzania
 date: 2019-06-27 06:05:00 Z
-Feature Image: "/uploads/IMG_9613-small.JPG"
+Feature Image: "https://cdn.hotosm.org/website/IMG_9613-small.JPG"
 Person:
 - Emmanuel Kombe
 - Hawa Adinani
@@ -53,7 +53,7 @@ For each homogeneous zone, buildings were systematically randomised to identify 
 
 The attributes were built upon [GED4ALL](https://wiki.openstreetmap.org/wiki/GED4ALL) and we adapted a data model from the [Kathmandu project,](https://wiki.openstreetmap.org/wiki/Directed_Edits/METEOR_Digitizing_Kathmandu) involving a structural engineer to localise the model to cope with the Tanzanian context and fit with local buildings. Here are some examples of the categorisations:
 
-![Screenshot 2019-07-02 at 11.21.23.png](/uploads/Screenshot%202019-07-02%20at%2011.21.23.png)
+![Screenshot 2019-07-02 at 11.21.23.png](https://cdn.hotosm.org/website/Screenshot+2019-07-02+at+11.21.23.png)
 
 ### Map Campaigner
 
@@ -67,7 +67,7 @@ To monitor attributes completeness, we ran them through [Map Campaigner](https:/
 
 * ***[Meteor/Dar es Salaam/Informal-zone](https://campaigns.hotosm.org/campaign/7316fb4466ce4393879ab9501556c9c1)***
 
-![METEOR.JPG](/uploads/METEOR.JPG)
+![METEOR.JPG](https://cdn.hotosm.org/website/METEOR.JPG)
 *A screenshot of a campaign that covers an informal zone*
 
 After field collection, the data was then validated by a group of experienced mappers and cleaned through [QGIS](https://qgis.org/) and [JOSM](https://josm.openstreetmap.de/) software to see if there were any missing pieces of information. Next, the datasets were shared with ImageCat, who will use them to create additional exposure datasets at various levels for the country, and can be used for disaster risk assessments. For example, in Tanzania, this increases the availability of, and access to, exposure information, which when combined with hazard and vulnerability information, will better inform risk assessments.

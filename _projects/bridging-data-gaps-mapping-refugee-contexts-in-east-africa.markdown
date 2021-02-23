@@ -2,7 +2,7 @@
 title: 'Bridging Data Gaps: Mapping Refugee Contexts in East Africa'
 date: 2019-06-19 19:42:00 Z
 position: 17
-Feature Image: "/uploads/shareback.jpg"
+Feature Image: "https://cdn.hotosm.org/website/shareback.jpg"
 Country:
 - Uganda
 - Tanzania

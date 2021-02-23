@@ -3,7 +3,7 @@ title: Supporting Istanbul’s Open Data Efforts
 date: 2020-09-28 12:47:00 Z
 Summary Text: BİMTAŞ A.Ş. and HOT partner Yer Çizenler are working together to put
   the Istanbul Planning Agency campus on OpenStreetMap.
-Feature Image: "/uploads/BIMTAS%20Composite.jpg"
+Feature Image: "https://cdn.hotosm.org/website/BIMTAS+Composite.jpg"
 Is image top aligned: false
 Person: Can Unen
 Country:
@@ -18,7 +18,7 @@ Our project team has organized a series of training activities with BİMTAŞ tha
 
 The project team, with the GIS team of BİMTAŞ, was in the field on September 9, accompanying BİMTAŞ’s drone and LIDAR imagery acquisition teams. 
 
-![Bimtas 1.png](/uploads/Bimtas%201.png)
+![Bimtas 1.png](https://cdn.hotosm.org/website/Bimtas+1.png)
 
 The drone imagery, shared with the mapping team, was then [uploaded to OpenAerialMap](https://map.openaerialmap.org/), for all open-mapping communities to access.
 
@@ -26,9 +26,9 @@ The drone imagery, shared with the mapping team, was then [uploaded to OpenAeria
 
 On September 15, the project team was at BİMTAŞ HQ for the remote mapathon with BİMTAŞ staff. Using the freshly collected drone imagery, coordinating via the Tasking Manager, 14 people contributed to the detailed digitization efforts, digitizing all visible features in the IPA campus, from buildings to individual trees. 
 
-![Bimtas 3.png](/uploads/Bimtas%203.png)
+![Bimtas 3.png](https://cdn.hotosm.org/website/Bimtas+3.png)
 
-![Bimtas 4.png](/uploads/Bimtas%204.png)
+![Bimtas 4.png](https://cdn.hotosm.org/website/Bimtas+4.png)
 
 ### Field Mapping
 
@@ -36,9 +36,9 @@ On September 25, the project team was at IPA Campus for the field mapping. Based
 
 Divided into teams, the attendees have collected detailed information from the field via their mobile devices to improve the campus data on OpenStreetMap. The field teams were also provided with FieldPapers as well, demonstrating that one can still contribute to OSM with a pen and paper when there is limited hardware and connectivity. 
 
-![Bimtas 6 Landscape.jpg](/uploads/Bimtas%206%20Landscape.jpg)
+![Bimtas 6 Landscape.jpg](https://cdn.hotosm.org/website/Bimtas+6+Landscape.jpg)
 
-![Bimtas 7.png](/uploads/Bimtas%207.png)
+![Bimtas 7.png](https://cdn.hotosm.org/website/Bimtas+7.png)
 
 ### What Now? 
 

@@ -3,7 +3,7 @@ title: What is new in Tasking Manager 4.1
 date: 2020-08-10 07:30:00 Z
 Summary Text: Tasking Manager is in constant improvement. Take a look at the new features
   available in the 4.1 version.
-Feature Image: "/uploads/tm_4_1-featured.png"
+Feature Image: "https://cdn.hotosm.org/website/tm_4_1-featured.png"
 Person:
 - Wille Marcel
 ---
@@ -12,7 +12,7 @@ Since [our last blog post](/tech-blog/tm4-updates), the Tech Team has been worki
 
 ## ​​Project statistics page
 
-![Project statistics page](/uploads/tm_4_1-project-stats.png)
+![Project statistics page](https://cdn.hotosm.org/website/tm_4_1-project-stats.png)
 
 Statistics are very important to provide project managers with insights on how the project is progressing and who is mapping it. We now have available a page with all sort of stats about a project, like:
 
@@ -26,7 +26,7 @@ Checkout the statistics of [project #8997](https://tasks.hotosm.org/projects/899
 
 ## Notification Enhancements
 
-![New notifications settings](/uploads/tm_4_1-notifications.png)
+![New notifications settings](https://cdn.hotosm.org/website/tm_4_1-notifications.png)
 
 ### Better definition of categories
 Notifications are a very important part of Tasking Manager and some changes were needed to make it more useful to everyone involved in projects. The users can be notified in two ways: they can receive a message within the Tasking Manager application and also receive it by email.<br><br>
@@ -39,13 +39,13 @@ The same happens to the "Mentions notifications". If someone mentions a username
 
 ### Email improvements
 
-![](/uploads/tm_4_1-email-content.png)
+![](https://cdn.hotosm.org/website/tm_4_1-email-content.png)
 
 Notification emails now includes the notification message content in its body, so the users don’t need to open a link to read the message any more. The email subjects have been modified to suit the content of the email.<br><br>
 
 ### Contacting project managers and authors easily
 
-![](/uploads/tm_4_1-comments-hashtags.png)
+![](https://cdn.hotosm.org/website/tm_4_1-comments-hashtags.png)
 
 If you need to contact the project managers or author you don’t need to mention each one individually by theirs usernames. In both project or task comments, if you use the hashtag #managers, a notification will be sent to all project managers associated with that project. If you prefer, you can notify only the user that created the project by using the #author hashtag.<br><br>
 
