@@ -35,7 +35,7 @@ The software we were able to find fell into two broad categories;
 
 We couldn't find anything that did both well. Several Android software solutions allow the user to record relatively high-quality GPS line traces (obviously within the limits of the device's GPS accuracy), including an underlying map to see where one is, the ability to back up if the line loses accuracy partway through, and the ability to filter out points not meeting specified accuracy criteria.
 
-![Screenshot_2017-11-01-11-46-14[1].png](/uploads/Screenshot_2017-11-01-11-46-14%5B1%5D.png)
+![Screenshot_2017-11-01-11-46-14[1].png](https://cdn.hotosm.org/website/Screenshot_2017-11-01-11-46-14%5B1%5D.png)
 
 
 Several other programs, notably OpenDataKit (ODK) that we use extensively when mapping single-point features, allow the user to fill out form fields with specific types. ODK forms can accommodate numbers (integer or decimal), strings of text, selections from lists (single choice or "radio button" style, or multiple choice for selecting all that apply), and even photos from the smartphone's camera. However, ODK's feature for taking a GPS line, as opposed to a single point, was terribly inadequate. Whenever the GPS couldn't find satellites, the ODK would drop back to using network location (calculated from the strength of nearby cell towers), which is usually off by hundreds or even thousands of meters (this resulted in lines punctuated with enormous jumps to random locations, which were unusable for map-making). Other problems included an inability to select the necessary accuracy threshold, no way to delete only the last few points (whenever anything went wrong you'd have to start again), no way to zoom in far enough to verify one's position, and an output format that lacked both elevation and precision data (both available from the onboard GPS receiver on the phones).
@@ -76,7 +76,7 @@ Many technical changes later, we ended up discussing an entirely new issue: the 
 
 ![map.JPG](https://cdn.hotosm.org/website/map.JPG)
 
-![Screenshot_2017-11-01-12-20-46[1].png](/uploads/Screenshot_2017-11-01-12-20-46%5B1%5D.png)
+![Screenshot_2017-11-01-12-20-46[1].png](https://cdn.hotosm.org/website/Screenshot_2017-11-01-12-20-46%5B1%5D.png)
 
 Finally, we have a software solution capable of capturing GPS lines to the level of accuracy and efficiency we need, the incredible capacity of ODK to input precise data types, and a supervisory tool to help teams complete fully connected drain maps. However, it's not yet time to celebrate, much still must be done. The "fork" with all of our changes to ODK has not yet been integrated back into the main ODK codebase (discussion with the ODK community is ongoing, and more work needs to be done on documentation and packaging). We have mapped seven wards of Dar es Salaam using our methods, but only a small fraction of the mapping has been validated by the hydrological software consultants in the Netherlands; we need to ensure that our work is fully fit for purpose before scaling up to the rest of the city. Finally, we need to document all of our work, package it up, and prepare a playbook for anyone else in the world that could improve urban drainage using community-based mapping!
 

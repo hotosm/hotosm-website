@@ -7,7 +7,7 @@ Project Summary Text: 'HOT is contributing to the development of PhilAWARE, a cu
   making in the Philippines.
 
 '
-Feature Image: "/uploads/Field%20Mapping%20Training%20in%20UP%20Los%20Ban%CC%83os.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Field%20Mapping%20Training%20in%20UP%20Los%20Ban%CC%83os.jpg"
 Country:
 - Philippines
 Person:
@@ -25,7 +25,7 @@ Following the successful completion of the [InAWARE](https://www.hotosm.org/proj
 
 Launched in July 2019, the project will equip the Philippines’ National Disaster Risk Reduction and Management Council (NDRRMC) of the Office of Civil Defense (OCD) with a hazard monitoring, early warning, and decision support tool. It consolidates hazard information and alerts from various sources for the agencies' disaster preparedness and response. This will also ease the sharing of information among the country’s disaster managers from the national, regional, and local levels, with warning and alerts disseminated to the impacted communities.
 
-![Attendees of #MAPampanga.jpg](/uploads/Attendees%20of%20%23MAPampanga.jpg)
+![Attendees of #MAPampanga.jpg](https://cdn.hotosm.org/website/Attendees%20of%20%23MAPampanga.jpg)
 
 The HOT team in the Philippines is tasked to map the Province of Pampanga and Quezon City in Metro Manila, including its administrative boundaries, road networks, and critical lifeline infrastructures (e.g. evacuation centers, hospitals, schools, etc.). 
 
