@@ -4,7 +4,7 @@ date: 2020-07-30 15:40:00 Z
 Summary Text: Despite movement restrictions in the country, HOT Philippines is able
   to continue training volunteers by identifying their needs and shifting training
   efforts online.
-Feature Image: "https://cdn.hotosm.org/website/HOT+Twitter+/uploads/HOT%20Twitter%20&%20Custom%20Link%20Signs-2.png+Custom+Link+Signs-2.png"
+Feature Image: "https://cdn.hotosm.org/website/HOT+Twitter+%26+Custom+Link+Signs-2.png"
 Person: Jikka Defiño
 Working Group:
 - Training
