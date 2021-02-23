@@ -3,7 +3,7 @@ title: 4th Quarter 2020 Disaster Response
 date: 2020-11-10 12:13:00 Z
 Project Summary Text: Mid-October and into November 2020 has been busy for our disaster
   mapping team. Read more here.
-Feature Image: "/uploads/Q4Disasters2020.PNG"
+Feature Image: "https://cdn.hotosm.org/website/Q4Disasters2020.PNG"
 Impact Area:
 - Disaster Response
 Duration:

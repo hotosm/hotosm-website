@@ -19,7 +19,7 @@ On the 8th to 10th December Crowd2Map collaborated with Ramani Huria to host the
 
 The great success of the conference came from the diverse background of the participants. The attendees ranged from University/college students, Youth Mappers, community mappers, researchers, Government officials, US Department of State (PEPFAR Program), organizations interested in using mapping to overcome different challenges, programmers and HOT personnel. All of these participants were very keen to learn from each other, network and understand how mapping can be a crucial part of their daily activities.
 
-![IMG_4069-3bfa38.JPG](/uploads/IMG_4069-3bfa38.JPG)
+![IMG_4069-3bfa38.JPG](https://cdn.hotosm.org/website/IMG_4069-3bfa38.JPG)
 
 **Presentation session**
 
@@ -29,19 +29,19 @@ The Ramani Huria team did a great job in organising the conference and Youth Map
 
 There was a series of presentations to demonstrate why maps are necessary and how they are helping across multiple countries and projects. There was a presentation from PEPFAR describing how mapping is helping with their HIV/AIDS eradication programme. Ramani Huria spoke about their ongoing mapping project on areas most vulnerable to flooding and how the maps will be utilised for resilience and decision making. Map Kibera from Kenya presented on how mapping is helping in the provision of social services such as security, sanitation, health and education. The Kigoma Regional Executive Director briefed on the WASH (Water Sanitation and Hygiene) programme and how mapping is helping in the provision of social services in Kigoma. Researchers from Heidelberg University in Germany who had participated in the development of the application Mapswipe also gave a brief talk on how this app is making mapping easier.
 
-![IMG_4032-5ce183.JPG](/uploads/IMG_4032-5ce183.JPG)
+![IMG_4032-5ce183.JPG](https://cdn.hotosm.org/website/IMG_4032-5ce183.JPG)
 
 Country Manager- HOT Tanzania Mr Ivan Gayton gave a brief talk on the Mini-Grid project that is aiming at mapping villages viable for electrification by using solar power panels. This project is aiming to map villages that do not yet have electricity and help identify sites appropriate for renewable energy mini-grids. These maps can help solar operators move quickly to give access to renewable electricity to more Tanzanians. This is the power of what maps can do!
 
 After these lightning talks there was discussions and networking among different Youth mapper chapters, who shared their experiences and discussed together what they can do as chapters.
 
-![IMG_4263-c1f0fc.JPG](/uploads/IMG_4263-c1f0fc.JPG)
+![IMG_4263-c1f0fc.JPG](https://cdn.hotosm.org/website/IMG_4263-c1f0fc.JPG)
 
 **Mapathon**
 
 A mapathon is a coordinated mapping event. The public is invited to make online map improvements in an area to improve coverage and to help disaster risk assessment. Mapathons use an online site for storing map data, i.e.  OpenStreetMap. During the conference we conducted a mapathon to map Manyoni District- a task created to map female genital mutilation. Participants were introduced to the OSM Tasking Manager and then trained how to map using Id Editor and JOSM software.
 
-![IMG_4311-f16848.JPG](/uploads/IMG_4311-f16848.JPG)
+![IMG_4311-f16848.JPG](https://cdn.hotosm.org/website/IMG_4311-f16848.JPG)
 
 **Workshops: QGIS, Map Swipe and Maps.Me**
 

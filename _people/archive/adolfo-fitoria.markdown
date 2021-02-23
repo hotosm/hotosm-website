@@ -2,7 +2,7 @@
 title: Adolfo Fitoria
 date: 2019-07-04 09:47:00 Z
 published: false
-Photo: "/uploads/fitoria.jpg"
+Photo: "https://cdn.hotosm.org/website/fitoria.jpg"
 Member Type:
   Is Staff: false
 Job Title: Developer

@@ -7,7 +7,7 @@ Project Summary Text: HOT and OSM Zambia are mapping across eight provinces in r
   Zambia to understand the viability of potential sites for renewable, off-grid electricity
   solutions, known as mini-grids. The data collected will guide Zambia’s rural electrification
   strategies.
-Feature Image: "/uploads/IMG_20180830_160506825.jpg"
+Feature Image: "https://cdn.hotosm.org/website/IMG_20180830_160506825.jpg"
 Country:
 - Zambia
 Impact Area:

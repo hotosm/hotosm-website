@@ -12,7 +12,7 @@ tags:
 - analytics
 - malaria
 - Botswana
-Feature Image: "/uploads/OpenStreetMap%20Analytics%20for%20Health%202018-05-28%2018-41-01.png"
+Feature Image: "https://cdn.hotosm.org/website/OpenStreetMap+Analytics+for+Health+2018-05-28+18-41-01.png"
 Person: Alyssa Wright
 Country:
 - Botswana
@@ -23,7 +23,7 @@ redirect_from: "/updates/2018-05-28_map_completeness_estimation_and_experimental
 
 Over the last couple of years, HOT has been working with partners like the Clinton Health Access Initiative (CHAI) and the Botswana Ministry of Health and Wellness on malaria elimination. As these experts move towards using OpenStreetMap data to plan spraying spraying campaigns, distribute prevention supplies, and prioritize geographies of the mission, we’ve been working on better ways to understand map completeness using machine learning, quality and progress of mapping. Today, we’re sharing a preview of the work of our partners at Development Seed and Azavea on expanding the ecosystem of tools under OSM Analytics - HOT Analytics for Health.
 
-![OpenStreetMap Analytics for Health 2018-05-28 18-41-01-07f518.png](/uploads/OpenStreetMap%20Analytics%20for%20Health%202018-05-28%2018-41-01-07f518.png)
+![OpenStreetMap Analytics for Health 2018-05-28 18-41-01-07f518.png](https://cdn.hotosm.org/website/OpenStreetMap+Analytics+for+Health+2018-05-28+18-41-01-07f518.png)
 
 **Why Analytics for Health?**
 
@@ -49,11 +49,11 @@ HOT Analytics for Health extends our previous work on OSM Analytics, but looks a
 
 One of the biggest areas of our analysis was experimenting population based map completeness metrics. This approach uses machine learning to build a model that correlates population density in a given geography, and compare this with distribution of built-up area that’s mapped in OpenStreetMap. The model uses population density distribution per 100x100m, rasterizes OpenStreetMap building data to compare them for building completeness in OSM. This process is illustrated below:
 
-![azavea hot-osm-population  Estimate OSM building coverage completeness by comparing vs WorldPop raster 2018-05-28 19-09-10-507586.png](/uploads/azavea%20hot-osm-population%20%20Estimate%20OSM%20building%20coverage%20completeness%20by%20comparing%20vs%20WorldPop%20raster%202018-05-28%2019-09-10-507586.png)
+![azavea hot-osm-population  Estimate OSM building coverage completeness by comparing vs WorldPop raster 2018-05-28 19-09-10-507586.png](https://cdn.hotosm.org/website/azavea+hot-osm-population++Estimate+OSM+building+coverage+completeness+by+comparing+vs+WorldPop+raster+2018-05-28+19-09-10-507586.png)
 
 Apart from completeness, we use rule based analysis to understand quality of the building geometries and attributes. This analysis uses [OSM QA Tiles ](http://osmlab.github.io/osm-qa-tiles/)and [OSMLint](http://github.com/hotosm/osmlint).
 
-![OpenStreetMap Analytics for Health 2018-05-28 19-24-43-c1f66b.png](/uploads/OpenStreetMap%20Analytics%20for%20Health%202018-05-28%2019-24-43-c1f66b.png)
+![OpenStreetMap Analytics for Health 2018-05-28 19-24-43-c1f66b.png](https://cdn.hotosm.org/website/OpenStreetMap+Analytics+for+Health+2018-05-28+19-24-43-c1f66b.png)
 
 **What’s Next?**
 

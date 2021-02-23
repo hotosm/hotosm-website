@@ -6,7 +6,7 @@ position: 114
 Project Summary Text: HOT supports transportation mapping in Metropolitan Managua,
   capital of Nicaragua, where over 1.5 million inhabitants are dependent on buses
   each day.
-Feature Image: "/uploads/banner1.jpg"
+Feature Image: "https://cdn.hotosm.org/website/banner1.jpg"
 Is Community-Led: true
 Country:
 - Nicaragua

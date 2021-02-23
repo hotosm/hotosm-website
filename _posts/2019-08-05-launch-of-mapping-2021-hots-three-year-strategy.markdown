@@ -6,7 +6,7 @@ categories:
 tags:
 - strategy
 - Community
-Feature Image: "/uploads/Peru-girls-mm-4b7dbd.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/Peru-girls-mm-4b7dbd.jpeg"
 Person: Tyler Radford
 ---
 
@@ -24,7 +24,7 @@ In 2018 the HOT community worked together to formulate a vision and strategy to 
 
 We believe that the best map of the world we can build is a map where individuals and communities can represent themselves via a global open knowledge platform like OpenStreetMap. HOT certainly had some [successes in 2018](https://www.hotosm.org/downloads/2018-Annual-Report.pdf). To name a few: involving South Sudanese refugees in [mapping refugee settlements in Uganda](https://www.hotosm.org/updates/2017-07-20_from_the_map_to_the_field_hot_trains_msf_and_refugees_in_field_data_collection_-), supporting displaced Venezuelans in the Caribbean, and working toward greater inclusion of underrepresented communities, such as women and girls, by supporting these groups through [Microgrants](https://www.hotosm.org/projects/microgrants_and_community_development) and the [WomenConnect project](https://www.hotosm.org/projects/women-connect-number-letgirlsmap-growing-female-open-data-leaders-across-5-continents/) in Peru and Tanzania.
 
-![HOT-summit-2019Artboard 1@3x.png](/uploads/HOT-summit-2019Artboard%201@3x.png)
+![HOT-summit-2019Artboard 1@3x.png](https://cdn.hotosm.org/website/HOT-summit-2019Artboard+1@3x.png)
 
 While communities in dozens of countries contributed to our mission last year, we are still quite far from achieving our vision that everyone, everywhere can do so. Forming this strategy has made us challenge our openness. Yes, our tools and tech are open - but are our processes? What barriers might we be unintentionally creating and how can we minimise them? We saw great interest by the membership to contribute to the strategic process and a desire to support its implementation. We also learnt that while we think we offer various opportunities, these are not always aligned with their interests and needs, and furthermore are not always easy to comprehend. Our vision is that ‘Everyone can contribute to the map’, but who isn’t in the room? How can we find the communities that are not contributing to OpenStreetMap and reduce the barriers they face?
 
@@ -34,7 +34,7 @@ In the first months of 2019, we began piloting new tools, methods, and innovatio
 
 Finally, the plan very clearly indicates that achieving the vision is not only about HOT the organisation, HOT staff, nor voting members alone. It is about our entire global community and movement contributing toward the vision in their own ways. This is what makes HOT’s plan unique and different from that of most NGOs. While setting out a single overarching vision, it emphasizes that members and contributors in each country will determine what and where to map, based on local priorities, and how HOT can support these processes. In contrast to ‘top-down’, centralized planning, HOT voting members formed an open working group and consulted with more than 20 members across the globe over more than six months. Consultations were furthermore held among each staff team and with partners outside of HOT, with many ideas from each stakeholder group finding their way into the final plan.
 
-![Accra-open-cities-africa-Chris working with other mappers in the field to collect data using mobile survey apps.jpg](/uploads/Accra-open-cities-africa-Chris%20working%20with%20other%20mappers%20in%20the%20field%20to%20collect%20data%20using%20mobile%20survey%20apps.jpg)
+![Accra-open-cities-africa-Chris working with other mappers in the field to collect data using mobile survey apps.jpg](https://cdn.hotosm.org/website/Accra-open-cities-africa-Chris+working+with+other+mappers+in+the+field+to+collect+data+using+mobile+survey+apps.jpg)
 
 *HOT's project partner OpenCities helps community members map their city, Accra, Ghana*
 

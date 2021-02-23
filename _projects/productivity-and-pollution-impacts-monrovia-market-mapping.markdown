@@ -6,7 +6,7 @@ Project Summary Text: 'To improve understanding of commercial areas and how busi
   management can be leveraged to reduce congestion and solid waste issues, HOT and
   iLab Liberia will collect data on Duala Market covering: geographic layout and infrastructure,
   economic activity, solid waste, and traffic.  '
-Feature Image: "/uploads/unnamed.jpg"
+Feature Image: "https://cdn.hotosm.org/website/unnamed.jpg"
 Country:
 - Liberia
 Impact Area:

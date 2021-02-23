@@ -5,4 +5,4 @@ Intro Text: HOT's Impact Model describes how we work together as a global NGO an
   community network to achieve our vision and mission.
 ---
 
-![Copy of Copy of shared_Hot impact model_V4.png](/uploads/Copy%20of%20Copy%20of%20shared_Hot%20impact%20model_V4.png)
+![Copy of Copy of shared_Hot impact model_V4.png](https://cdn.hotosm.org/website/Copy+of+Copy+of+shared_Hot+impact+model_V4.png)

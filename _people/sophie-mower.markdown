@@ -1,7 +1,7 @@
 ---
 title: Sophie Mower
 date: 2020-04-17 22:17:00 Z
-Photo: "/uploads/Sophie%20Mower_fullres.jpg"
+Photo: "https://cdn.hotosm.org/website/Sophie+Mower_fullres.jpg"
 Member Type:
   Is Staff: true
 Job Title: Community Support Manager

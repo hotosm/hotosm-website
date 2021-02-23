@@ -2,7 +2,7 @@
 title: Amelia Hunt
 date: 2017-11-22 16:08:00 Z
 published: false
-Photo: "/uploads/IMG_1719-585a24.JPG"
+Photo: "https://cdn.hotosm.org/website/IMG_1719-585a24.JPG"
 Member Type:
   Is Staff: false
 Working Group:

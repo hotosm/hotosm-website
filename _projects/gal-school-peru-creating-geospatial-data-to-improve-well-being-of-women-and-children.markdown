@@ -7,7 +7,7 @@ Project Summary Text: By training high school and university students, GAL Schoo
   Peru aims to create map data that supports student research projects on gender issues,
   such as equal pay and access to health services, and other social issues affecting
   their community.
-Feature Image: "/uploads/TALLER%20ACCHA-1%20small.jpg"
+Feature Image: "https://cdn.hotosm.org/website/TALLER+ACCHA-1+small.jpg"
 Is Community-Led: true
 Country:
 - Peru

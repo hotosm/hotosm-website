@@ -4,7 +4,7 @@ date: 2019-05-06 12:22:00 Z
 position: 19
 Project Summary Text: 'Using mapping in Dhaka to address a growing challenge many
   urban areas face: waste collection and removal.'
-Feature Image: "/uploads/YouthMappers%20Dhaka%202.jpg"
+Feature Image: "https://cdn.hotosm.org/website/YouthMappers+Dhaka+2.jpg"
 Is Community-Led: true
 Country:
 - Bangladesh

@@ -12,7 +12,7 @@ Summary Text: 'One of the biggest difficulties in establishing an effective and 
   waste management collection and transportation system in Dar es Salaam is how long
   it takes to travel to Pugu dumpsite, the only officially designated solid waste
   dump in the city, and the best route to use. '
-Feature Image: "/uploads/Map_Final.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Map_Final.jpg"
 Is image top aligned: true
 Person: Aaron Eubank
 Working Group:
@@ -26,20 +26,20 @@ layout: news-item
 
 Depending on the time of day, it can take up to five or more hours for a return trip from certain points in the city. If there is a designated route for those collecting trash and taking it to the main dumping site, it will increase efficiency and planning for solid waste collectors and improve the quality and reliability of solid waste collection in the city.
 
-![trash.jpg](/uploads/trash.jpg)
+![trash.jpg](https://cdn.hotosm.org/website/trash.jpg)
 *An informal solid waste dump site in Dar es Salaam. The number of sites like these could be greatly reduced with better collection planning and scheduling.*
 
 Choosing the best way to get from A to B – also known as routing – is an essential part of many mapping platforms and the feature that most people use maps for every day. Think about it – GoogleMaps, Waze, MapQuest, Bing, the list goes on. Yet amid this flourishing routing ecosystem, open-source tools and OpenStreetMap have lagged behind in routing capabilities. Now, the tools to creating better open-source routing tools are at our fingertips!
 
 As part of a project funded by Palladium and I4ID to map solid waste near rivers in Dar Es Salaam, the [HOT Tanzania](https://www.hotosm.org/projects/dar_ramani_huria_dar_open_map) team has developed a routing scheme for the city using [pgRouting](https://pgrouting.org/download.html), an open-source extension to the [PostgreSQL database management system](https://www.postgresql.org/download/). The aim of this project was to create a routing system to understand how long it would take to travel from sample points throughout the city to the Pugu Kinyamwezi Landfill located in Southwest Dar Es Salaam (see map below). This would then help trash collection companies, sanitation officials, and government planners more efficiently prepare routes for collection of solid waste.
 
-![Pugu.jpg](/uploads/Pugu.jpg)
+![Pugu.jpg](https://cdn.hotosm.org/website/Pugu.jpg)
 
 *The Pugu Kinyamwezi dumpsite.*
 
 The results were astounding. With a few lines of SQL, we were able to create routes from nearly 1,500 sample points in the city in less than five seconds of processing. Using Djikstra’s shortest path algorithm with a weighting scheme that assigned a higher cost to roads we know to be more difficult to traverse. For example, residential and unclassified roads, which are most often unpaved and very slow to traverse in Dar Es Salaam, may have a cost of 5 or 6, while the main trunk road (a primary highway) and a secondary highway (which are almost all paved in Dar) would have a cost of 1.1, 1.2, and 1.3 respectively. Thus, when we make a route from one point to another in our network dataset, we are not just getting the shortest distance from point A to point B, but the route is actually taking us on the most logical path through the line segments based on the weights that we have assigned. In the figure below, you can see a comparison of routes with different weights.
 
-![Route.png](/uploads/Route.png)
+![Route.png](https://cdn.hotosm.org/website/Route.png)
 
 *The route in red shows the shortest distance route, while the magenta adds in a high-cost multiplier to low-level roads (residential, single-lane unpaved), and the orange builds in a fully weighted scheme where the highest order roads are given the most preference.*
 
@@ -47,7 +47,7 @@ The type of road isn’t the only consideration when considering a routing probl
 
 With our routing model, we layered a time-approximation scheme on top of our arbitrary cost outputs to generate travel times (in minutes) from every sample point to the Pugu landfill. We then visualized these times with isochrones in QGIS and pared them down to just the road segments, highlighting the accessibility to Pugu from any point in the city (see map below). We also took solid waste sites digitized from drone imagery collected during the project to visualize the efforts necessary to collect the solid waste collected near rivers, which are particularly problematic spots for informal dumping.
 
-![Map1.png](/uploads/Map1.png)
+![Map1.png](https://cdn.hotosm.org/website/Map1.png)
 
 *Routes from sample points in Dar Es Salaam to the Pugu dumpsite, with color change representing time to the site. See how to make this below!*
 
@@ -88,7 +88,7 @@ Use the following query within the Postgres database of your choice to create th
 CREATE EXTENSION pgrouting;\`\*
 If you’re using pgAdmin4 to do this, you should see this when you click on the extensions for your database:
 
-## ![extension.png](/uploads/extension.png)
+## ![extension.png](https://cdn.hotosm.org/website/extension.png)
 
 ### 4. Download your roads dataset from OSM using the HOT Export Tool
 
@@ -134,7 +134,7 @@ OSM\* XML\* files (using the\* .osm\* extension) are required for the osm2pgrout
 
 Your output should look something like this:
 
-![Commands.png](/uploads/Commands.png)
+![Commands.png](https://cdn.hotosm.org/website/Commands.png)
 
 ***Note:*** You can also manually create a network dataset using only pgRouting and your data. More on how to do that[ here.](https://workshop.pgrouting.org/2.5/en/chapters/topology.html#verify-the-routing-network-topology)
 
@@ -144,17 +144,17 @@ This process will allow you to quickly and easily visualize any queries that you
 
 Once your connection is set up, head on over to the DB Manager to access your database.
 
-![DB_Manager.png](/uploads/DB_Manager.png)
+![DB_Manager.png](https://cdn.hotosm.org/website/DB_Manager.png)
 
 The DB Manager links directly to your Postgres server and is a surprisingly sussed out admin tool. It is where we ran most of our queries and has some wonderful features including the ability to turn your queries directly into QGIS layers.
 
 To access the SQL Window to run SQL queries, click this icon: ![SQL Window](https://i.imgur.com/y6zBycb.png)
 
-![DB_manager2.png](/uploads/DB_manager2.png)
+![DB_manager2.png](https://cdn.hotosm.org/website/DB_manager2.png)
 
 To save a query as a layer, run the query, then click the “Load as new layer” box at the bottom, fill out the details, then click “Load” to see your layer in the QGIS canvas. This is the best way to visualize your queries going forward.
 
-![Attribute_Table.png](/uploads/Attribute_Table.png)
+![Attribute_Table.png](https://cdn.hotosm.org/website/Attribute_Table.png)
 
 With the DB Manager, you are also able to easily save your SQL queries within your QGIS project by giving a name to your query and clicking “Save” at the top of the query dialogue.
 
@@ -168,7 +168,7 @@ Here is a look at each of the tables and what their important attributes mean:
 
 * **The ways Table:**
 
-  ![Attribute_Table2.png](/uploads/Attribute_Table2.png)
+  ![Attribute_Table2.png](https://cdn.hotosm.org/website/Attribute_Table2.png)
 
 This is a table of all of the individual line segments of your dataset. Some important fields here include:
 
@@ -197,7 +197,7 @@ This is a table of all of the individual line segments of your dataset. Some imp
 
 The `ways_vertices_pgr` Table:
 
-![Attribute_table3.png](/uploads/Attribute_table3.png)
+![Attribute_table3.png](https://cdn.hotosm.org/website/Attribute_table3.png)
 
 This table contains all of the connecting nodes of line segments in your dataset. The important field here is:
 
@@ -206,7 +206,7 @@ This table contains all of the connecting nodes of line segments in your dataset
 
 * **The** `configuration`**Table**:
 
-![Attribute_table4.png](/uploads/Attribute_table4.png)
+![Attribute_table4.png](https://cdn.hotosm.org/website/Attribute_table4.png)
 
 This is derived from your input *XML* file that we converted in step 5. It contains important information for interpreting your ways table. The most important fields are:
 
@@ -305,12 +305,12 @@ You can also add this snippet at the beginning of your query to save the route a
 
 * Use the “Create grid” tool to place a grid over your area of interest. If you want it fit to a specific shapefile’s area (we used Dar Es Salaam, for example), choose “Use Layer Extent…” in the “Extent Field”. Choose a distance for your grid (we did 2km by 2km) and ensure that you have a project projection set if units other than degrees are not showing up in the dialogue box.
 
-  ![Grids_create.png](/uploads/Grids_create.png)
+  ![Grids_create.png](https://cdn.hotosm.org/website/Grids_create.png)
 
 
 * Use the “Centroids” tool to get the centroids of your grid layer.
 
-![Grids2.png](/uploads/Grids2.png)
+![Grids2.png](https://cdn.hotosm.org/website/Grids2.png)
 
 **b. Snap these sample points to nodes in your network dataset**
 
@@ -318,15 +318,15 @@ You can also add this snippet at the beginning of your query to save the route a
 
 1. Use “Distance Matrix” to get the nearest neighbour from the “ways_vertices_pgr” layer. Choose your centroids as the input, “ways_vertices_pgr” and “1” in the “Use only the nearest (k) target points”. This will return a layer with the input points and the nearest point from the vertices layer.
 
-   ![Grids3.png](/uploads/Grids3.png)
+   ![Grids3.png](https://cdn.hotosm.org/website/Grids3.png)
 
 2. This new layer now has the previous point and the target point together as a single multipart feature. We need to break these apart, so first we will use the “Multipart to singleparts” tool to do so.
 
-   ![Grids4.png](/uploads/Grids4.png)
+   ![Grids4.png](https://cdn.hotosm.org/website/Grids4.png)
 
 3. Next, run an intersection with the “singleparts” layer just created and the “ways_vertices_pgr” layer to yield the sample points “snapped” to your road network.
 
-![Grids5.png](/uploads/Grids5.png)
+![Grids5.png](https://cdn.hotosm.org/website/Grids5.png)
 
 **c. Save the sample points as a new table in your Postgres database**
 
@@ -334,7 +334,7 @@ You can also add this snippet at the beginning of your query to save the route a
 
   Call it something like final_sample_points and click “Create Spatial Index”.
 
-![Import_vector.png](/uploads/Import_vector.png)
+![Import_vector.png](https://cdn.hotosm.org/website/Import_vector.png)
 
 **d. Run a many-to-one Dijkstra routing function, creating a route from every point in your table of sample points**
 
@@ -346,7 +346,7 @@ You can also add this snippet at the beginning of your query to save the route a
 
 * Did you see how fast that went? Save your routes as a layer and see how it looks in the QGIS canvas.
 
-![Map.png](/uploads/Map.png)
+![Map.png](https://cdn.hotosm.org/website/Map.png)
 
 **e. Visualizing aggregate cost of routes**
 
@@ -369,7 +369,7 @@ In order to coerce the maximum aggregate cost (and therefore the total aggregate
 
 Now you have a new table with cost values appended to your final sample points! You can label all of the starting points with the total aggregate cost to your destination.
 
-![Map_Decimals.png](/uploads/Map_Decimals.png)
+![Map_Decimals.png](https://cdn.hotosm.org/website/Map_Decimals.png)
 
 The next step discusses creating a contoured “heatmap” of the cost based on this data.
 
@@ -379,11 +379,11 @@ First, install the QGIS *Contour* plugin.
 
 Before you run the tool, *Contour* only works with single-point data and your ‘sample_points_cost’ layer may be multipart based on the steps above. Go ahead and create a single parts layer using the ‘Multipart to singleparts’ tool and feed that output into the *Contour* tool.
 
-![Contour.png](/uploads/Contour.png)
+![Contour.png](https://cdn.hotosm.org/website/Contour.png)
 
 You’ll want to use your aggregate_cost as your field to can choose as many or as few contours as you’d like, but we found that 20 was a good number. Your styled output will look something like this:
 
-![Map_Visual.png](/uploads/Map_Visual.png)
+![Map_Visual.png](https://cdn.hotosm.org/website/Map_Visual.png)
 
 **3. Joining contours with the routes only**
 
@@ -391,11 +391,11 @@ We liked the contours but wanted them to be a little less pronounced, so we soug
 
 So our solution was to spatially join the routes layer with our aggregate cost added to the cost in QGIS using the “Join attributes by Location” tool. Use the dialog box below to do so. Be sure to also use the raw contour file (before any clipping you may have done). This will ensure that all of your roads are assigned a value.
 
-![Attribute_Location.png](/uploads/Attribute_Location.png)
+![Attribute_Location.png](https://cdn.hotosm.org/website/Attribute_Location.png)
 
 Your output should look something like this:
 
-![Map1.png](/uploads/Map1.png)
+![Map1.png](https://cdn.hotosm.org/website/Map1.png)
 
 **f. Converting aggregate cost into a more meaningful metric**
 
@@ -416,7 +416,7 @@ Your output should look something like this:
 
 **g. Our final data product:**
 
-![Map_Final.jpg](/uploads/Map_Final.jpg)
+![Map_Final.jpg](https://cdn.hotosm.org/website/Map_Final.jpg)
 
 ### **12. Extra Resources and Sources Used**
 

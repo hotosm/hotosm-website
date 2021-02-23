@@ -4,7 +4,7 @@ date: 2019-06-05 11:52:00 Z
 position: 18
 Project Summary Text: Training women as drone pilots to map Makoko, one of Africa's
   largest slums, to improve service delivery for residents.
-Feature Image: "/uploads/Code%20for%20Africa.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Code+for+Africa.jpg"
 Is Community-Led: true
 Country:
 - Nigeria

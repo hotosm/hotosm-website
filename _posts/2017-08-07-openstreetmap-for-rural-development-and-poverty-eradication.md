@@ -13,7 +13,7 @@ created: 1502100035
 
 In August 1-4, HOT Indonesia, represented by its [Communications Specialist](https://www.hotosm.org/id/users/biondi_sima), had the opportunity to attend [Regional Expert Meeting](http://puey-ungphakorn.org/?page_id=1688) for rural development and poverty eradication in Udon Thani, Thailand, sponsored by the Royal Thai Government, Thammasat University, UNESCO, and several other regional organizations. He uses the opportunity to promote the work of HOT being targeted, either directly or indirectly, to revitalize rural development.
 
-![Capture2-408483.PNG](/uploads/Capture2-408483.PNG)
+![Capture2-408483.PNG](https://cdn.hotosm.org/website/Capture2-408483.PNG)
 
 *Image 1. HOT Indonesia was involved in the regional expert meeting for Asia's rural development in Udon Thani, Thailand.*
 
@@ -23,7 +23,7 @@ HOT Indonesia has streamlined its efforts to reach out to rural communities to h
 
 Whilst doing all the aforementioned, HOT also proactively promotes the inclusion of [women](https://www.hotosm.org/updates/2017-03-13_celebrating_international_women%E2%80%99s_day_hot_empowers_women_with_ict_and_mapping), realizing that poverty among women-led households with children are nearly 87% higher than its male counterpart, according to [Economic Policy Institute](http://www.epi.org/publication/female-headed-families-children-poverty/). In Indonesia, HOT also works together with other marginalized groups, including [persons with disability](http://www.thejakartapost.com/life/2017/05/17/mapping-skills-for-disabled-communities-paving-the-road-to-inclusive-disaster-management.html) and [youth](https://openstreetmap.id/en/mapathon-untuk-proyek-pemetaan-inaware-bersama-universitas-indonesia/), knowing they are disproportionately affected in many socio-economic issues and that their voices matter in policy making. HOT also collaborates with [faith-based organizations](https://openstreetmap.id/en/pelatihan-ushahidi-bagi-st-untuk-pelaporan-kejadian-di-maumere-nusa-tenggara-timur/) when approaching rural communities.
 
-![Screen Shot 2017-08-07 at 4.22.07 PM.png](/uploads/Screen%20Shot%202017-08-07%20at%204.22.07%20PM.png)
+![Screen Shot 2017-08-07 at 4.22.07 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2017-08-07+at+4.22.07+PM.png)
 
 *Image 2. Communities in Marunda produces their own maps and can register PoI and report events on their own*.
 

@@ -2,7 +2,7 @@
 title: Exploring the possibilities of mapping and identity in Cusco, Peru
 date: 2018-08-14 10:52:00 Z
 Summary Text: Using a Nethope Device Grant to empower young people in Peru
-Feature Image: "/uploads/GAL2.jpg"
+Feature Image: "https://cdn.hotosm.org/website/GAL2.jpg"
 Working Group:
 - Community
 Country:

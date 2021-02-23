@@ -1,7 +1,7 @@
 ---
 title: Melanie Chabot
 date: 2019-08-15 14:19:00 Z
-Photo: "/uploads/melanie-b10705.jpg"
+Photo: "https://cdn.hotosm.org/website/melanie-b10705.jpg"
 Member Type:
   Is Voting Member: true
 ---

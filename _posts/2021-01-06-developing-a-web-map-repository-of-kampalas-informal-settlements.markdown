@@ -5,7 +5,7 @@ date: 2021-01-06 14:47:00 Z
 Summary Text: Resilience Mappers has built a web dashboard for geospatial data to
   support efforts by the Ugandan government to help residents of low-income communities
   who have been most affected by Covid-19 lockdowns.
-Feature Image: "/uploads/RM0.png"
+Feature Image: "https://cdn.hotosm.org/website/RM0.png"
 Person:
 - Resilience Mappers
 - Sophie Mower
@@ -21,14 +21,14 @@ In April 2020, the Uganda government launched a relief program to distribute foo
 
 With support from a Community Impact Microgrant, we were able to train seven mapping communities on how to contribute to OSM for the informal settlements. We employed several geospatial tools ranging from remote mapping to validation of data to equip as many volunteers as possible to help in mapping these settlements. These tools were Java OpenStreetMap Editor (JOSM), iD-Editor, and Mapillary.
 
-![RM1.png](/uploads/RM1.png)
+![RM1.png](https://cdn.hotosm.org/website/RM1.png)
 *Training participants on how to use iD-Editor on zoom*
 
 "...I was really eager to learn, and indeed I benefitted especially from Mapillary training," said Evelyne, one of the mappers.. "I had never used Mapillary to that level! I have been mapping using JOSM and iD-Editor, and the Mapillary plugin makes it more enjoyable!" 
 
 With the COVID-19 restrictions, the informal settlements could only be mapped remotely.  Data obtained from remote mapping included outlines of buildings, land use types, and roads covering over eight sq km of the settlements. With transferable skills in JOSM and iD Editor, our community was able to map the buildings, land use, and roads in the 15 informal settlements of the Kawempe division of Kampala using satellite and aerial imagery.
 
-![RM2.png](/uploads/RM2.png)
+![RM2.png](https://cdn.hotosm.org/website/RM2.png)
 *Nabuwembo Maria, a resilience mapper, contributing to OSM*
 
 While using remote mapping from aerial imagery was the best option available, it still contained errors and had to undergo a series of revisions before being visualized to provide useful information. From the concept of “garbage in, garbage out,” it was important that the data collected was cleaned to remove errors and also eliminate unnecessary attributes before visualizations were made. We used tools such as ArcGIS, QGIS, and Open Refine during the data cleaning workflow.
@@ -41,7 +41,7 @@ Since there was no single inventory that could be accessed by members in the com
 
 Statistics such as population in these informal settlements, such as the number of services available, the number of buildings, or the number of illegal waste dumping sites, could be visualized on a [dashboard](https://africageoportal.maps.arcgis.com/apps/dashboards/c01c6749d7d14d98a45ba43142a33ce7), which can be accessed by community members, aid agencies, government agencies, and donors. 
 
-![RM3.png](/uploads/RM3.png)
+![RM3.png](https://cdn.hotosm.org/website/RM3.png)
 *The web map dashboard illustrating the services in informal settlements.*
 
 Besides having a successful outcome, we learned many lessons from challenges. Continual discussions and meeting with the stakeholders, especially the data users, is vital. This helps you drive your activities based on the data needs of the data users. It also provides ideas and schemes that could make your data more beneficial to other related authorities in case they may need it at one point.

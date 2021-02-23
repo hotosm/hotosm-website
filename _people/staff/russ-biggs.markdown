@@ -1,7 +1,7 @@
 ---
 title: Russ Biggs
 date: 2019-07-01 15:58:00 Z
-Photo: "/uploads/russ_biggs.jpg"
+Photo: "https://cdn.hotosm.org/website/russ_biggs.jpg"
 Member Type:
   Is Staff: false
 Job Title: Technical Project Manager

@@ -13,9 +13,9 @@ Project:
 created: 1493429254
 ---
 
-![maroantsetra_buildings_lowres.png](/uploads/maroantsetra_buildings_lowres.png)
+![maroantsetra_buildings_lowres.png](https://cdn.hotosm.org/website/maroantsetra_buildings_lowres.png)
 
-![maroantsetra_buildings_lowres (1).png](/uploads/maroantsetra_buildings_lowres%20(1).png)
+![maroantsetra_buildings_lowres (1).png](https://cdn.hotosm.org/website/maroantsetra_buildings_lowres+(1).png)
 
 The global Red Cross network and the Malagasy Red Cross responded to Cyclone Enawo, which made landfall in northeastern Madagascar on March 7th. With wind speeds equivalent to that of a category 4 hurricane, Enawo was the strongest cyclone to impact the country in the last 13 years. Much of the nation’s roads are dirt, and due to rains and flooding, reaching the most heavily impacted areas was made extremely difficult. 
 

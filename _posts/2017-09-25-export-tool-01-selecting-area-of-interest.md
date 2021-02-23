@@ -7,7 +7,7 @@ Summary Text: 'This blog focuses on how to ''Select Area of Interest'', and is t
   tool on the 18th September 2017. Three more blogs in the series will cover the different
   available ‘Data File Formats’, how to ‘Customise Map Features’ and examples of ‘Applying
   Exported Data’. '
-Feature Image: "/uploads/Export%20Tool%20-%20Learn%20Series.png"
+Feature Image: "https://cdn.hotosm.org/website/Export+Tool+-+Learn+Series.png"
 Person: Mhairi O'Hara
 Working Group:
 - Technical

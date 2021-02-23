@@ -6,7 +6,7 @@ position: 91
 Project Summary Text: HOT has been working remotely to gather information for Somalia
   and the rest of the Horn of Africa. This is in response to the severe drought and
   famine crisis the is ongoing in the area.
-Feature Image: "/uploads/Somalia-%20OSM-01ed27.PNG"
+Feature Image: "https://cdn.hotosm.org/website/Somalia-+OSM-01ed27.PNG"
 Is Community-Led: true
 Country:
 - Somalia

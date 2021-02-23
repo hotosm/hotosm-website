@@ -4,7 +4,7 @@ date: 2020-03-26 18:01:00 Z
 position: 7
 Project Summary Text: As the world grapples with the global pandemic of COVID-19,
   at HOT we are concerned for vulnerable groups worldwide.
-Feature Image: "/uploads/mapeo%20equidad%20de%20genero-14-f6dc86.jpg"
+Feature Image: "https://cdn.hotosm.org/website/mapeo+equidad+de+genero-14-f6dc86.jpg"
 Impact Area:
 - Disaster Response
 Person:

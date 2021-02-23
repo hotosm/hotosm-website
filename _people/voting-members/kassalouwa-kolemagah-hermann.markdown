@@ -4,7 +4,7 @@ date: 2019-06-04 13:44:00 Z
 Member Type:
   Is Voting Member: true
 country: Togo
-Photo: "/uploads/hermannkass.jpg"
+Photo: "https://cdn.hotosm.org/website/hermannkass.jpg"
 Social Media (Full URL):
   Twitter: https://twitter.com/hermannkass
 ---

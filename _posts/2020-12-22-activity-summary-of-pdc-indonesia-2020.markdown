@@ -5,7 +5,7 @@ Summary Text: 'We are very close to the end of 2020. Pacific Disaster Center (PD
   Indonesia has many magnificent stories to share and activities that we have accomplished
   in 2020. We have categorized our activities into three different categories: Capacity
   Development, COVID-19 Response, Community Engagement.'
-Feature Image: "/uploads/20200218_111547.jpg"
+Feature Image: "https://cdn.hotosm.org/website/20200218_111547.jpg"
 Person: Adhitya Dido Widyanto
 Country:
 - Indonesia
@@ -21,7 +21,7 @@ We had several activities that focus on capacity development for university stud
 On 6-8 March, we went to Makassar, South Sulawesi, to hold three days of on-site training for the 17 students of Universitas Negeri Makassar. Our goals were increasing the students’ capacity in mapping using OpenStreetMap and increasing their mapping activity. 
  
 Therefore, we organized a mini mapping competition for the students to motivate them to add more OpenStreetMap data. Also, to celebrate International Women’s Day on March 8, we added the thematic hashtags #WomenMapIndonesia and #LetGirlsMap when uploading changesets on JOSM.
-![PDC1.jpg](/uploads/PDC1.jpg)
+![PDC1.jpg](https://cdn.hotosm.org/website/PDC1.jpg)
 
 **OSM Live Training for Five Universities**
 
@@ -32,15 +32,15 @@ Since the COVID-19 outbreak in Indonesia, we shifted our training method to the 
 * Universitas Negeri Padang, 12-16 Oktober
 * Institut Teknologi Sumatra 2-6 November
 
-![PDC2.jpg](/uploads/PDC2.jpg)
+![PDC2.jpg](https://cdn.hotosm.org/website/PDC2.jpg)
 
 We had 50-70 participants on average for each training, which means that during the pandemic, we could still train more than 350 university students across the nation. The training itself was about OSM for Beginners, and also we have a special session where we can introduce a global university organization, Youthmappers. 
 
-![PDC3.png](/uploads/PDC3.png)
+![PDC3.png](https://cdn.hotosm.org/website/PDC3.png)
 
 We were delighted that one of the Youthmappers ambassadors from Bangladesh, Maliha Mohuidi, can present his talk at our training session on Universitas Gadjah Mada. 
 
-![PDC4.png](/uploads/PDC4.png)
+![PDC4.png](https://cdn.hotosm.org/website/PDC4.png)
 
 ## Government Training 
 
@@ -48,11 +48,11 @@ We were delighted that one of the Youthmappers ambassadors from Bangladesh, Mali
 
 In the past few years, HOT Indonesia has had a strong partnership with the BNPB, especially when it comes to disaster risk reduction and mapping using OpenStreetMap. 
 
-![PDC5.png](/uploads/PDC5.png)
+![PDC5.png](https://cdn.hotosm.org/website/PDC5.png)
 
 To maintain this strong relationship, we conducted a one-day training on 20 January to teach the BNPB staff how they can download and use the data from OpenStreetMap and OpenAerialMap (OAM). The training was held at the Graha BNPB (BNPB office) and was attended by 13 participants. 
 
-![PDC6.png](/uploads/PDC6.png)
+![PDC6.png](https://cdn.hotosm.org/website/PDC6.png)
 
 **PDC InAWARE Training**
 
@@ -60,11 +60,11 @@ BNPB collaborated with USAID through Pacific Disaster Center (PDC), and HOT cond
  
 PDC and HOT was the facilitator in transferring the training material, field data collection, InAWARE platform operation, and mapping methodology planning skills.
 
-![PDC7.png](/uploads/PDC7.png)
+![PDC7.png](https://cdn.hotosm.org/website/PDC7.png)
 
 After successfully conducting the training in different cities including Padang, Medan, Pontianak, and Denpasar, Jakarta was the final city for training. This activity was divided into two different sessions. The first session was held on 17-19 February at Graha BNPB, and the second one was held on 11-12 March. 
 
-![PDC8.png](/uploads/PDC8.png)
+![PDC8.png](https://cdn.hotosm.org/website/PDC8.png)
 
 # COVID-19 Response
  
@@ -77,11 +77,11 @@ The Ushahidi platform was selected as the tool to collect information using crow
  
 The mapping activity aimed to identify locations and track the distribution of handwashing stations in Jakarta. Started on 20 May, this activity has succeeded in gathering more than 1,600 handwashing stations across the nation (updated in October 2020).
 
-![PDC9.png](/uploads/PDC9.png)
+![PDC9.png](https://cdn.hotosm.org/website/PDC9.png)
 
 The data itself can be accessed by the public for free using the [Humanitarian Data Exchange (HDX)](https://data.humdata.org/dataset/hot-ushahidi-handwashing-station-data-in-indonesia-3-june-2020).
 
-![PDC13.png](/uploads/PDC13.png)
+![PDC13.png](https://cdn.hotosm.org/website/PDC13.png)
 
 ## COVID-19 Mapathon
 
@@ -93,7 +93,7 @@ We organized two sessions of webinars for the public, and it was free so everyon
  
 The first webinar was held on 3 April, and we talked about MapRoullete. With MapRoullete, people can contribute to the map and complete the health facilities nearby. 
 
-![PDC10.png](/uploads/PDC10.png)
+![PDC10.png](https://cdn.hotosm.org/website/PDC10.png)
 
 The second webinar was held on 8-9 April. In this session, we explained another method to map using Healthsites.io.
  
@@ -106,7 +106,7 @@ From this event, we calculated around 21 users contributed to 142 changesets and
 
 All of these edits happened across Indonesia as we can see in this map below:
 
-![PDC11.png](/uploads/PDC11.png)
+![PDC11.png](https://cdn.hotosm.org/website/PDC11.png)
 
 
 **MSF Indonesia**
@@ -117,7 +117,7 @@ This event was held on 18 May virtually to support the campaign to #stayathome. 
  
 The goal of this event was to map and complete the information on health facilities in Indonesia using Healthsites.io. 
 
-![Screenshot 2020-12-21 at 11.27.38 PM.png](/uploads/Screenshot%202020-12-21%20at%2011.27.38%20PM.png)
+![Screenshot 2020-12-21 at 11.27.38 PM.png](https://cdn.hotosm.org/website/Screenshot+2020-12-21+at+11.27.38+PM.png)
 
 # Community Engagement
  
@@ -144,4 +144,4 @@ As a result, we have six winners from web-GIS map and desktop map:
 * 2nd winner: Tim E-Zone (Environment)
 * 3rd winner: TIM TIGA UGM (Disaster Response)
 
-![PDC12.png](/uploads/PDC12.png)
+![PDC12.png](https://cdn.hotosm.org/website/PDC12.png)

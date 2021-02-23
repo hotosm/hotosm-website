@@ -1,7 +1,7 @@
 ---
 title: Diana Nanyanzi
 date: 2020-11-05 12:48:00 Z
-Photo: "/uploads/Diana-first%20(1).jpg"
+Photo: "https://cdn.hotosm.org/website/Diana-first+(1).jpg"
 Member Type:
   Is Staff: true
 Job Title: Junior Developer

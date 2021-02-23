@@ -13,7 +13,7 @@ Block 1:
   Text: When major disaster strikes anywhere in the world, thousands of HOT volunteers
     come together online and on the ground to create open map data that enables disaster
     responders to reach those in need.
-  Image: "/uploads/DOceJ9QWkAAYthW.jpg"
+  Image: "https://cdn.hotosm.org/website/DOceJ9QWkAAYthW.jpg"
   Project:
   - 'Refugee response: South Sudan and Syria'
 Block 2:
@@ -30,7 +30,7 @@ Block 3:
   Text: HOT enables communities, NGOs, international organizations, and government
     partners to use and contribute to OpenStreetMap for locally-relevant challenges
     through provision of training, equipment, knowledge exchange, and field projects.
-  Image: "/uploads/01.jpg"
+  Image: "https://cdn.hotosm.org/website/01.jpg"
   Project:
   - 'Supporting decentralization in Liberian cities: LEGIT'
 Block 4:
@@ -40,7 +40,7 @@ Block 4:
     data collection. Our tools are free for all to use and leveraged by partners such
     as Red Cross societies, Médecins Sans Frontières, UN agencies and programmes,
     government agencies, and local NGOs and communities.
-  Image: "/uploads/DW4U0XgXkAEncby%20country%20teams%20in%20Kampala%20Feb%202018.jpg"
+  Image: "https://cdn.hotosm.org/website/DW4U0XgXkAEncby+country+teams+in+Kampala+Feb+2018.jpg"
   Project:
   - 'UAV Imagery for Disaster Response: Pacific Drone Imagery Dashboard (PacDID)'
 Block 5:
@@ -50,7 +50,7 @@ Block 5:
     by the not-for-profit OpenStreetMap Foundation. HOT works around the globe to
     support and increase the use of OpenStreetMap and help build local OpenStreetMap
     communities.
-  Image: "/uploads/osm-landing-page.png"
+  Image: "https://cdn.hotosm.org/website/osm-landing-page.png"
   Links:
   - <a href="https://wiki.osmfoundation.org/wiki/Main_Page">OpenStreetMap Foundation</a>
   - <a href="https://wiki.openstreetmap.org/wiki/Main_Page">OSM Wiki</a>

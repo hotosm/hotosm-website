@@ -4,7 +4,7 @@ title: Community Data for Improved Disaster Management and Urban Planning — Mw
 date: 2021-01-26 09:00:00 Z
 Summary Text: OpenMap Development Tanzania reports on mapping and capacity building
   in Mwanza City, Tanzania.
-Feature Image: "/uploads/0%20rFOt7B1hXATSfOQh.jpg"
+Feature Image: "https://cdn.hotosm.org/website/0+rFOt7B1hXATSfOQh.jpg"
 Person: 'OpenMap Development Tanzania '
 Country:
 - Tanzania

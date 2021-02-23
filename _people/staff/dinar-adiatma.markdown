@@ -1,7 +1,7 @@
 ---
 title: Dinar Adiatma
 date: 2018-06-01 20:04:00 Z
-Photo: "/uploads/HOT_ID_Staff_Dinar.png"
+Photo: "https://cdn.hotosm.org/website/HOT_ID_Staff_Dinar.png"
 Member Type:
   Is Staff: true
 Job Title: FB Project Associate

@@ -12,7 +12,7 @@ tags:
 - philaware
 Summary Text: 'This August, HOT Philippines began training with LGU volunteers in
   Pampanga, celebrated #HOT10YRS, and sealed partnerships for September.'
-Feature Image: "/uploads/Training-in-Pampanga---field.png"
+Feature Image: "https://cdn.hotosm.org/website/Training-in-Pampanga---field.png"
 Is image top aligned: true
 Person: Jikka Defiño
 Working Group:
@@ -27,11 +27,11 @@ layout: news-item
 
 In August, HOT Philippines began field work for the PhilAWARE project. The mapping team based in Pampanga began their work on August 12, training members of and volunteers from the local government unit to use OpenStreetMap. They also began field mapping on August 19.
 
-![Trainings-in-Pampanga.png](/uploads/Trainings-in-Pampanga.png)
+![Trainings-in-Pampanga.png](https://cdn.hotosm.org/website/Trainings-in-Pampanga.png)
 
 On World Humanitarian Day on the week of HOT’s 10th anniversary, HOT Philippines launched the #MAPAsinoKaMan (Whoever you are) campaign to tell stories of Filipino mappers. It is an ongoing campaign and HOT Philippines hopes to sustain it through calls for participants.
 
-![MAPAsino Ka Man-9ec353.png](/uploads/MAPAsino%20Ka%20Man-9ec353.png)
+![MAPAsino Ka Man-9ec353.png](https://cdn.hotosm.org/website/MAPAsino+Ka+Man-9ec353.png)
 
 Throughout the month, HOT Philippines also had training sessions with volunteer groups and some government agencies. Some of these OSM trainings are with the following:
 
@@ -41,8 +41,8 @@ Throughout the month, HOT Philippines also had training sessions with volunteer 
 
 * The general public in a #MappingMondays session on August 24
 
-![August Activities-0e637a.png](/uploads/August%20Activities-0e637a.png)
+![August Activities-0e637a.png](https://cdn.hotosm.org/website/August+Activities-0e637a.png)
 
 Aside from HOT Philippines’ own activities, HOT also sealed partnerships and participation with other mapping and DRMM-related events in the Philippines. Members of HOT Philippines participated in #OpenStreetMap16, an online celebration and status update of OSM in the Philippines organized by the Mapping Ministry. HOT Philippines’ Country Managaer, Bry Damasco, will be one of the speakers in UP Pahinungod's E-LIGTAS Webinar on September 2. And finally, HOT Philippines is a partner organization for MapBek’s SOGIE 101 and LGBT Safe Spaces Mapping conference on September 5.
 
-![August 2020 newsletter - partnerships-ab1335.png](/uploads/August%202020%20newsletter%20-%20partnerships-ab1335.png)
+![August 2020 newsletter - partnerships-ab1335.png](https://cdn.hotosm.org/website/August+2020+newsletter+-+partnerships-ab1335.png)

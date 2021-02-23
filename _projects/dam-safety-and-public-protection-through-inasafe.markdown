@@ -7,7 +7,7 @@ Project Summary Text: "HOT mapped the village of Cirendu, in the province of Ban
   and the Jatigede\nsub-district, in the \nProvince of West Java to provide comprehensive
   data on households and key infrastructure. The resulting exposure data was subsequently
   used to run scenarios on dam failure using InaSAFE."
-Feature Image: "/uploads/Screen%20Shot%202018-06-11%20at%2014.30.36.png"
+Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2018-06-11+at+14.30.36.png"
 Is Community-Led: false
 Country:
 - Indonesia
@@ -34,22 +34,22 @@ failures; Gintung Dam (Province of Banten) in 2009 (previously named Situ Gintun
 potential impact associated with dam failures.
 <br />
 <br />
-![InaSAFE_Project_Dam.png](/uploads/InaSAFE_Project_Dam.png)
+![InaSAFE_Project_Dam.png](https://cdn.hotosm.org/website/InaSAFE_Project_Dam.png)
 <br />
 <br />
 In order to improve the capacity for disaster preparedness, the National Disaster Management Authority (BNPB) has been collaborating with Global Facility for Disaster Reduction and Recovery (GFDRR) and the Australian Government to develop and continuously refine an open-source natural hazard impact assessment software InaSAFE (Indonesia Scenario Assessment for Emergency). InaSAFE produces realistic natural hazard impact scenarios from different technical and social data to inform
 better planning, preparedness and response activities. 
 <br />
 <br />
-![Screen Shot 2018-06-04 at 1.53.59 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.53.59%20PM.png)
+![Screen Shot 2018-06-04 at 1.53.59 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2018-06-04+at+1.53.59+PM.png)
 <br />
 <br />
 It provides a simple but rigorous way to combine data from scientists, local governments and communities to provide insights into the likely impacts of future disaster events that can be used to communicate the risk with key stakeholders and to Scope of the just-in-time support for Dam Safety.
 <br />
 <br />
-![Screen Shot 2018-06-04 at 1.54.25 PM.png](/uploads/Screen%20Shot%202018-06-04%20at%201.54.25%20PM.png)
+![Screen Shot 2018-06-04 at 1.54.25 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2018-06-04+at+1.54.25+PM.png)
 <br />
 <br />
-[123650-REVISED-DAM-Safety-12MAR2018-compressed.pdf](/uploads/123650-REVISED-DAM-Safety-12MAR2018-compressed.pdf)
+[123650-REVISED-DAM-Safety-12MAR2018-compressed.pdf](https://cdn.hotosm.org/website/123650-REVISED-DAM-Safety-12MAR2018-compressed.pdf)
 
 <br />

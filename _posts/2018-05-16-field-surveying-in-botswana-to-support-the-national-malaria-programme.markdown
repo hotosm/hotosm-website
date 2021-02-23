@@ -1,7 +1,7 @@
 ---
 title: Field surveying in Botswana to support the National Malaria Programme
 date: 2018-05-16 08:10:00 Z
-Feature Image: "/uploads/IMG_20180418_121003_cr.jpg"
+Feature Image: "https://cdn.hotosm.org/website/IMG_20180418_121003_cr.jpg"
 Person: Paul Uithol
 Country:
 - Botswana
@@ -12,7 +12,7 @@ redirect_from: "/updates/2018-05-16_field_surveying_in_botswana_to_support_the_n
 
 Although a lot of progress has been made to combat malaria, and yearly deaths worldwide have declined from over 1 million in 2000 to an estimated 429 000 in 2015 (according to the WHO; estimates vary, see below), it is still one of the most devastating and deadliest infectious diseases on earth. It disproportionately affects children under five.
 
-![Malaria-graphic-008_guardian_datablog_2012-02-03.jpg](/uploads/Malaria-graphic-008_guardian_datablog_2012-02-03.jpg)
+![Malaria-graphic-008_guardian_datablog_2012-02-03.jpg](https://cdn.hotosm.org/website/Malaria-graphic-008_guardian_datablog_2012-02-03.jpg)
 *Estimates of deaths caused by malaria.* [Source](https://www.theguardian.com/news/datablog/2012/feb/03/malaria-deaths-mortality).
 
 To combat the spread and occurrence of malaria, you need to disrupt the transmission cycle of malaria parasites. This can be done by preventing mosquito bites, reducing the number of mosquitos, and/or by decreasing the prevalence rate of malaria parasites (in both mosquitos and people). Aside from trying not to get bitten, this can be accomplished by interventions such as Indoor Residual Spraying (IRS), bednet distribution, and enabling better (faster) diagnosis and treatment.
@@ -29,7 +29,7 @@ Our team is now in Botswana to start work with the Ministry of Health and Wellne
 
 As a result of the first project, current data on OSM in Botswana include polygons (outlines) of all buildings identified via satellite imagery, but no additional information about the type of buildings mapped. This project will add information on building use (if it’s residential or not particularly since IRS campaigns focus on residential buildings)), what materials it’s made of, and general layout of buildings, and improve on the general accuracy, validity, and completeness of remotely mapped data.
 
-![IMG_20180418_121003_cr.jpg](/uploads/IMG_20180418_121003_cr.jpg)
+![IMG_20180418_121003_cr.jpg](https://cdn.hotosm.org/website/IMG_20180418_121003_cr.jpg)
 *Surveyors from the NMP and HOT collecting building data in Kasane.*
 
 The current project in Botswana will help to improve the usefulness of the OSM data in malaria elimination interventions, including support for the logistics and  IRS campaigns, better data for further types of interventions, and improved monitoring and evaluation to measure intervention impacts. For the upcoming surveying, the following objectives have been defined:
@@ -44,6 +44,6 @@ The current project in Botswana will help to improve the usefulness of the OSM d
 
 Working directly with the Ministry of Health and Wellness staff, including NMP and DHMT (District Health Management Team) Officers,  will enable this data to be used directly to inform a more effective response and interventions. We’re really excited to start working here in Botswana, starting with training in Kasane and surveying in Chobe district, then on to surveying these districts!
 
-![AIRS-Ghana_Nicole-de-Gier-1024x768.jpg](/uploads/AIRS-Ghana_Nicole-de-Gier-1024x768.jpg)
+![AIRS-Ghana_Nicole-de-Gier-1024x768.jpg](https://cdn.hotosm.org/website/AIRS-Ghana_Nicole-de-Gier-1024x768.jpg)
 
 Spraying a building. Credit: Nicole de Gier/PMI AIRS

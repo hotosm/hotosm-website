@@ -7,7 +7,7 @@ Summary Text: 'In September 2018, HOT held an in-person meeting of staff alongsi
   (specifically health care) and learning. This is the first post about what action
   we''re taking based on what we heard, focusing on what we believe is a major leap
   forward for HOT: salary transparency.'
-Feature Image: "/uploads/northern%20uganda.jpg"
+Feature Image: "https://cdn.hotosm.org/website/northern+uganda.jpg"
 Person: Tyler Radford
 Country:
 - United States
@@ -15,11 +15,11 @@ Country:
 
 HOT as a global community and staff team have always held the core values of openness and trust near and dear to us. For the staff team, that’s allowed us to do some really creative and unique things. For example, since 2011 we’ve maintained a remote-first workforce. Apart from teams in-country for a specific project, the remainder of HOT’s workforce - currently 20 people, typically work from a location of their choice. Team members trust each other to deliver on their commitments, help colleagues, and are open to feedback when something isn’t working.
 
-![team-99800e.png](/uploads/team-99800e.png) *Our amazing global (remote) team.*
+![team-99800e.png](https://cdn.hotosm.org/website/team-99800e.png) *Our amazing global (remote) team.*
 
 In the fall of 2018 we realized that as HOT grew -- nearing 100 staff when including our local affiliates in Tanzania and Indonesia -- no longer did each person know everybody else on the team. That was a bit of a culture shock for us. At the same time, some team members expressed frustration at the lack of explanation around why a colleague in the same office and similar position could be paid a different rate. No one knew whether there even were disparities in pay. Could a man and a woman in similar roles be paid two completely different amounts, for example?
 
-<img src="/uploads/tz%20team.png" style="width: 600px !important" alt="HOT Tanzania team">
+<img src="https://cdn.hotosm.org/website/tz+team.png" style="width: 600px !important" alt="HOT Tanzania team">
 
 <em style="font-size: 0.8125rem;font-weight: bold;color: #68707F;">HOT Tanzania / Open Map Development Tanzania team and pet drone</em>
 
@@ -27,7 +27,7 @@ In short - we were attempting to promote a culture of openness and trust yet not
 
 We knew HOT had to get more transparent about the salary decisions we were making, and we knew it was going to be tricky. Here’s just one example why: It’s always been in our blood that we’re truly a global team. That is -- we do not, and should not, value the contributions of one type of team member more than another (employee vs. contractor or local vs. international). We wanted to avoid the “dual system” of job classification that has plagued the UN system and certain other NGOs, where international staff could be classified - and paid - on completely separate scales and receive vastly different benefit packages than local staff. This, in my view, is even more critical in an international NGO like HOT where we have all types of unique arrangements -- staff hired locally to work locally on a HOT project, staff hired from a global candidate pool to support the global team, and staff hired from a global pool to deploy to a project location outside their home country. We have staff from countries with higher costs of living deploying to and working in lower cost of living countries. And staff from countries with lower cost of living deploying to other low cost of living (or sometimes higher cost of living) countries.
 
-<img src="/uploads/HOT%20ID%20-%20Mhairi%20Harry%20(2).jpg" style="width: 600px !important" alt="HOT ID - Mhairi and Harry">
+<img src="https://cdn.hotosm.org/website/HOT+ID+-+Mhairi+Harry+(2).jpg" style="width: 600px !important" alt="HOT ID - Mhairi and Harry">
 
 <em style="font-size: 0.8125rem;font-weight: bold;color: #68707F;">Harry and Mhairi in between mapping at the HOT Indonesia office</em>
 
@@ -61,7 +61,7 @@ Gender disparities are an issue and we need to figure out what’s causing them.
 # The HOT Salary Framework Formula
 In the end, after consultation with our entire management team and all country offices across HOT, we decided to adapt a variant of the Ushahidi/Buffer model. We ended up with a simple, global standard that will be used to determine salaries and wages at HOT, and that applies to all HOT employees and individual contractors in all locations. With this framework, HOT aims to provide more transparency into salary decision making and ensure a consistent and equitable process for all staff, regardless of position, location, gender, or any other distinguishing characteristic.
 The HOT Salary Framework is based upon a formula made up of four factors that, when multiplied together, determine a HOT employee's annual salary or, for contractors, hourly rate. You can click on the diagram below to [see the details](/salaries).
-[![HOT salary formula.png](/uploads/HOT%20salary%20formula.png)](https://www.hotosm.org/salaries.html)
+[![HOT salary formula.png](https://cdn.hotosm.org/website/HOT+salary+formula.png)](https://www.hotosm.org/salaries.html)
 
 # After rolling out the framework
 We’re currently moving forward with rolling out the new framework globally. It was applied retroactively to all staff on the global team (remote staff) of which we had 20 as of January 1, 2019. Some initial findings:
@@ -72,7 +72,7 @@ We’re currently moving forward with rolling out the new framework globally. It
 * In Uganda, all HOT staff were already contracted above the framework amount.
 * In Indonesia and Tanzania, because HOT works through affiliates Perkumpulan OpenStreetMap Indonesia (POI) and Open Map Development Tanzania (OMDTZ) respectively, we are still working with our colleagues to apply the framework within those partner organizations. HOT, POI, and OMDTZ have decided to apply the framework to all staff working exclusively on HOT funded projects and will share back results in the coming months.
 
-<img src="/uploads/hot%20volunteer%20crop.png" style="width: 600px !important" alt="HOT Volunteer">
+<img src="https://cdn.hotosm.org/website/hot+volunteer+crop.png" style="width: 600px !important" alt="HOT Volunteer">
 
 <em style="font-size: 0.8125rem;font-weight: bold;color: #68707F;">Pictured: HOT volunteer</em>
 

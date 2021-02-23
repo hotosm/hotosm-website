@@ -6,7 +6,7 @@ Summary Text: 'We’re excited to announce the first round of awardees for HOT R
   communities to support their local response to the pandemic, have been awarded to
   projects in Liberia, Uganda, Kenya and Mongolia. Over the next 6 months, these Microgrants
   will support the following work:'
-Feature Image: "/uploads/Ramani%20Huria%20TZ%202-5d464a.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Ramani+Huria+TZ+2-5d464a.jpg"
 Person:
 - Sophie Mower
 - Rebecca Firth
@@ -21,7 +21,7 @@ Country:
 Project:
 - HOT COVID-19 RESPONSE
 - 'Community development: Microgrants and Device Grants'
-Feature image: "/uploads/Ramani%20Huria%20TZ%202-1adbce.jpg"
+Feature image: "https://cdn.hotosm.org/website/Ramani+Huria+TZ+2-1adbce.jpg"
 ---
 
 **iLab Liberia**
@@ -32,7 +32,7 @@ iLab Liberia will use OSM to map active healthcare facilities across Liberia inc
 
 MapUganda (OpenStreetMap Uganda) are collaborating with Geo YouthMappers and the Uganda Red Cross Society (URCS) to remotely map all 40 border entry towns across Uganda. The community will create detailed maps to support and retool the URCS and Ministry of Health surveillance efforts against the spread of COVID-19. By creating projects on the [HOT Tasking Manager](https://tasks.hotosm.org/), conducting mapping webinars, and engaging local community and members of the MOH and URCS, MapUganda will create detailed datasets to identify porous borders where COVID-19 may be being imported into border communities.
 
-![Trucks at Malaba.jpg](/uploads/Trucks%20at%20Malaba.jpg)
+![Trucks at Malaba.jpg](https://cdn.hotosm.org/website/Trucks+at+Malaba.jpg)
 
 `Trucks at Malaba, Uganda-Kenya border`
 
@@ -40,7 +40,7 @@ MapUganda (OpenStreetMap Uganda) are collaborating with Geo YouthMappers and the
 
 Several government agencies and NGOs have implemented measures to slow the spread of COVID-19 in Kibera, the largest slum in Kenya. However, Map Kibera, a local mapping NGO, has recognized that the efforts have not yet been well documented. In response, Map Kibera has launched the Kenya COVID-19 Tracker Ushahidi Instance to document geospatial data and track cases across Kenya. With their microgrant, Map Kibera  will improve OSM basemaps in Kibera to allow visualization of current status and hotspots. This will be done in collaboration with OSM Kenya. The community will also be partnering with several other organizations that are already distributing food, sanitation points, face masks and sharing information about the virus within Kibera.
 
-![Kenya Covid -19 Tracker main page.PNG](/uploads/Kenya%20Covid%20-19%20Tracker%20main%20page.PNG)
+![Kenya Covid -19 Tracker main page.PNG](https://cdn.hotosm.org/website/Kenya+Covid+-19+Tracker+main+page.PNG)
 
 `Kenya COVID-19 tracker`
 

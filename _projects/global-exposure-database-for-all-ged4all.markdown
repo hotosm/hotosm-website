@@ -6,7 +6,7 @@ position: 53
 Project Summary Text: HOT has partnered with the Global Earthquake Model (GEM) and
   ImageCat on a Challenge Fund, focused on developing a global exposure database designed
   for multi-hazard risk analysis.
-Feature Image: "/uploads/Screen%20Shot%202018-06-08%20at%2012.17.26%201.png"
+Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2018-06-08+at+12.17.26+1.png"
 Country:
 - Global
 Impact Area:
@@ -43,4 +43,4 @@ HOT provided guidance on how GED4ALL can be populated with building level data f
 
 [OSM Wiki Page](https://wiki.openstreetmap.org/wiki/GED4ALL)  
 
-![Screen Shot 2019-03-01 at 12.37.11.png](/uploads/Screen%20Shot%202019-03-01%20at%2012.37.11.png)
+![Screen Shot 2019-03-01 at 12.37.11.png](https://cdn.hotosm.org/website/Screen+Shot+2019-03-01+at+12.37.11.png)

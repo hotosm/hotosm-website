@@ -7,7 +7,7 @@ Project Summary Text: 'To better understand community-level risk, vulnerability 
   HOT with support from KCCA collected data on the Nakamiro Channel area covering:
   critical infrastructure, building flood risk and condition, community awareness,
   waste and drainage infrastructure.'
-Feature Image: "/uploads/IMG_20191120_110004_4.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/IMG_20191120_110004_4.jpeg"
 Is image top aligned: false
 Is Community-Led: false
 Country:

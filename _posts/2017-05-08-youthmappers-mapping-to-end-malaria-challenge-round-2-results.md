@@ -14,7 +14,7 @@ created: 1494254400
 
 Over 200 students at 13 universities participated in the second round of the YouthMappers ‘Mapping to end Malaria’ Challenge. Together, they mapped almost 400,000 buildings in Zimbabwe. Thank you to all the chapters who participated!
 
-![UCC YM.jpg](/uploads/UCC%20YM.jpg)We’re pleased to announce, the winners of this round are:
+![UCC YM.jpg](https://cdn.hotosm.org/website/UCC+YM.jpg)We’re pleased to announce, the winners of this round are:
 
 1. **UCC YouthMappers from the University of Cape Coast, Ghana**: Another incredible effort from UCC YouthMappers, at nearly 4,000 buildings per mapper! Their team has added more than 200,000 buildings during the campaign so far.
 

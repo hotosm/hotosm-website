@@ -13,17 +13,17 @@ The world continues to witness some of the highest levels of displacement on rec
 
 Two of the most complex and deadly crises of our time are happening in Syria and South Sudan. To respond to these, HOT developed projects supported by the Bureau of Population, Refugees, and Migration, to engage in Turkey and Uganda. 
 
-![Turkey.jpg](/uploads/Turkey.jpg)
+![Turkey.jpg](https://cdn.hotosm.org/website/Turkey.jpg)
 
 In Istanbul, we partnered with a local organization to work with refugee communities and generate a large dataset in Arabic and Turkish. With these 13,000 service points the team then partnered with NGOs and created service maps relevant to their activities. 
 
-![field data collection 1.jpg](/uploads/field%20data%20collection%201.jpg)
+![field data collection 1.jpg](https://cdn.hotosm.org/website/field+data+collection+1.jpg)
 
 In Northern Uganda, HOT has trained refugees and host community members on mobile data collection tools to create highly accurate maps for water and sanitation, education, and health facilities. By harnessing motorcycle mapping we have collected hyper-local knowledge resulting in maps for 117 sub-counties. 
 
 We have attempted to strike a balance between guides that are overly technical and those that are too simple or generic. At the same time, the lessons of Turkey and Uganda are distilled in the Toolkit so that it is a practical how-to guide for other organizations working in refugee contexts. Simply put, very few other documents exist that explain how Geographic Information Systems are being used for humanitarian purposes. 
 
-![Asset 2.png](/uploads/Asset%202.png)
+![Asset 2.png](https://cdn.hotosm.org/website/Asset+2.png)
 
 The Toolkit contains three separate sections.
 * Section One: The Power of Participatory Mapping explains how these methods are in fact a means of mainstreaming protection into operations.

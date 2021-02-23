@@ -9,7 +9,7 @@ position: 92
 Project Summary Text: In response to the ongoing economic and humanitarian crisis
   in Venezuela, HOT is providing assistance to UNHCR to assess the conditions, population,
   and needs of Venezuelans in Aruba.
-Feature Image: "/uploads/Full%20Country%20Map-1.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Full+Country+Map-1.jpg"
 Country:
 - Aruba
 Impact Area:

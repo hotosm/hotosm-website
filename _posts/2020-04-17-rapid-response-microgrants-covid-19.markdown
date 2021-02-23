@@ -3,7 +3,7 @@ title: 'Rapid Response Microgrants: COVID-19'
 date: 2020-04-17 22:07:00 Z
 Summary Text: 'The COVID-19 pandemic is affecting communities across the globe in
   many shapes and forms. '
-Feature Image: "/uploads/20651571528_9a0e0d92e5_o.jpg"
+Feature Image: "https://cdn.hotosm.org/website/20651571528_9a0e0d92e5_o.jpg"
 Person:
 - Sophie Mower
 - Rebecca Firth

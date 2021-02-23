@@ -9,7 +9,7 @@ Project Summary Text: Since the beginning of May 2018, HOT has been called upon 
   and how you can get involved are below. Maps can play a critical role in potentially
   saving the lives of millions of people worldwide, a big thank you to the mappers
   volunteering to create them.
-Feature Image: "/uploads/spring-2018-disaster-support.png"
+Feature Image: "https://cdn.hotosm.org/website/spring-2018-disaster-support.png"
 Is Community-Led: true
 Country:
 - Somalia

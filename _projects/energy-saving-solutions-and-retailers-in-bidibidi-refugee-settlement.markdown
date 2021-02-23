@@ -8,7 +8,7 @@ Project Summary Text: To improve understanding of how the use of and access to e
   data from energy-saving solutions retail shops across one of the world's largest
   refugee settlement, Bidibidi, and used that information to assess the distribution
   and availability of such products and where barriers lay in the existing market.
-Feature Image: "/uploads/IMG_4319.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/IMG_4319.jpeg"
 Is Community-Led: false
 Country:
 - Uganda

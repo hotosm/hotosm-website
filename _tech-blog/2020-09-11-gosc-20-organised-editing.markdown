@@ -3,7 +3,7 @@ title: GSoC 20 - Automatized support for Organised Editing Guidelines
 date: 2020-09-11 12:30:00 Z
 Summary Text: Here is a summary from the GSoC' 20 project that adds automatized support
   for Organised Editing Guidelines in Tasking Manager.
-Feature Image: "/uploads/gsoc-20-feature-image.jpg"
+Feature Image: "https://cdn.hotosm.org/website/gsoc-20-feature-image.jpg"
 Person:
 - João Vitor Ramos
 ---
@@ -28,7 +28,7 @@ We participated in the [State of the Map 2020](https://2020.stateofthemap.org/) 
 
 We received some suggestions on the initial ideas, mainly for reporting data to the wiki directly instead of reporting to a git repository. After discussing internally, we reached a consensus that it would be better to use both solutions, instead of just one as thought at the beginning of the project. Coming to this architecture and also, a cool name to the project - [OEG Reporter](https://github.com/hotosm/oeg-reporter).
 
-![](/uploads/gsoc-20-architecture.jpg)
+![](https://cdn.hotosm.org/website/gsoc-20-architecture.jpg)
 
 * *Image 1 - Description of architecture of communication between the Tasking Manager and the OpenStreetMap*
 <br><br>
@@ -43,7 +43,7 @@ The most challenging part of the project's development was definitely to impleme
 
 ### User select if the organisation is going to enable the automated OEG Report
 
-![](/uploads/gsoc-20-enable-report-option.png)
+![](https://cdn.hotosm.org/website/gsoc-20-enable-report-option.png)
 
 * *Image 2 - Option to enable automatic project data reporting*
 <br><br>
@@ -52,7 +52,7 @@ The most challenging part of the project's development was definitely to impleme
 
 ### Project manager saves the project normally
 
-![](/uploads/gsoc-20-save-project-data.png)
+![](https://cdn.hotosm.org/website/gsoc-20-save-project-data.png)
 
 * *Image 3 - Project manager saving project data*
 <br><br>
@@ -61,7 +61,7 @@ The most challenging part of the project's development was definitely to impleme
 
 ### Project data is reported to a git repository
 
-![](/uploads/gsoc-20-project-data-reported-to-git-repo.png)
+![](https://cdn.hotosm.org/website/gsoc-20-project-data-reported-to-git-repo.png)
 
 * *Image 4 - Project data reported to a git repository*
 <br><br>
@@ -72,7 +72,7 @@ The most challenging part of the project's development was definitely to impleme
 
 #### Activities list - Contains all Organised Editing activities list 
 
-![](/uploads/gsoc-20-mediawiki-activities-list-page.png)
+![](https://cdn.hotosm.org/website/gsoc-20-mediawiki-activities-list-page.png)
 
 * *Image 5 - Wiki Page containing list of Organised Editing activities list*
 <br><br>
@@ -81,7 +81,7 @@ The most challenging part of the project's development was definitely to impleme
 
 #### Organisation page - Contain data from an organisation with a list of all its projects
 
-![](/uploads/gsoc-20-mediawiki-organisation-page.png)
+![](https://cdn.hotosm.org/website/gsoc-20-mediawiki-organisation-page.png)
 
 * *Image 6 - Wiki Page containing data from an organisation and all its projects*
 <br><br>
@@ -90,7 +90,7 @@ The most challenging part of the project's development was definitely to impleme
 
 #### Project page - metadata from a Tasking Manager project
 
-![](/uploads/gsoc-20-mediawiki-project-page.png)
+![](https://cdn.hotosm.org/website/gsoc-20-mediawiki-project-page.png)
 
 * *Image 7 - Wiki Page containing project data*
 <br><br>

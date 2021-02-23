@@ -6,7 +6,7 @@ position: 97
 Project Summary Text: Ulaanbaatar City’s ‘Smart City’ project, funded by ICT, aims
   to enable city residents to get access to information regarding public services,
   and send comments, reports, and request to relevant officials.
-Feature Image: "/uploads/mongolia.jpg"
+Feature Image: "https://cdn.hotosm.org/website/mongolia.jpg"
 Country:
 - Mongolia
 Impact Area:

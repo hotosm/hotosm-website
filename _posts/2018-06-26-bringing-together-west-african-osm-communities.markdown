@@ -3,7 +3,7 @@ title: 'Bringing together West African OSM communities: OSM & GIS workshops in L
   Togo'
 date: 2018-06-26 06:52:00 Z
 Summary Text: OSM & GIS worshops in Togo in May 2018
-Feature Image: "/uploads/IMG-20180525-WA0074.jpg"
+Feature Image: "https://cdn.hotosm.org/website/IMG-20180525-WA0074.jpg"
 Person: Nathalie Sidibe
 Working Group:
 - Community
@@ -21,6 +21,6 @@ The first week focused on organizational and governance aspects in order to help
 
 The second week included more technical sessions, learning news tools and an opportunity to share experiences around achieved projects and current ones in different countries in West Africa. The second week was also an opportunity for me to present the HOT Microgrant impact in Mali and to encourage other communities to apply for the Microgrant program in the future.
 
-![P_20180514_110838.jpg](/uploads/P_20180514_110838.jpg)
+![P_20180514_110838.jpg](https://cdn.hotosm.org/website/P_20180514_110838.jpg)
 
 This #OSMTogoaction 2018 ended with expressions  of hope for more and more workshops like this which bring together different OSM communities members, to help them become more skilled and to strengthen their social and professional relationships.

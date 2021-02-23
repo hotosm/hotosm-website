@@ -13,7 +13,7 @@ created: 1493109339
 
 Supriyadi, 60, lost his ability to walk 11 years ago when a magnitude of 5.9 earthquake shook Yogyakarta, one of Indonesia’s provincial capital. It took almost one year for his upper body to physically recover from the incident and he may never fully recover from the fact that the earthquake took his second child; among the over 5,700 death toll in that day. Supriyadi has to travel by a wheelchair from that moment on.
 
-![Screen Shot 2017-04-25 at 3.18.30 PM_0.png](/uploads/Screen%20Shot%202017-04-25%20at%203.18.30%20PM_0.png)
+![Screen Shot 2017-04-25 at 3.18.30 PM_0.png](https://cdn.hotosm.org/website/Screen+Shot+2017-04-25+at+3.18.30+PM_0.png)
 
 *Pic 1. Supriyadi assisted by a caregiver to climb an ascending road during a field survey training on disaster contingency planning and data collection using OpenStreetMap.*\
 
@@ -31,7 +31,7 @@ This is in line with many international umbrellas, such as UN CRPD (Convention o
 
 Improving the livelihood of the most vulnerable communities through capacity development using open-source technology, [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/updates/openstreetmap.id) and [Disaster Management Innovation (DMI)](https://www.hotosm.org/updates/inasafe.org)--with the support from Australian Government--collaborated with Arbeiter-Samariter-Bund (ASB) Indonesia and the Philippines with the support of USAID and Badan Nasional Penanggulangan Bencana (BNPB). HOT delivered a technical training over the weekend on how disabled communities can leverage their position by mapping their community’s location and relevant points of interest needed for humanitarian coordination when an emergency situation occurs.
 
-![Screen Shot 2017-04-25 at 3.28.06 PM.png](/uploads/Screen%20Shot%202017-04-25%20at%203.28.06%20PM.png)
+![Screen Shot 2017-04-25 at 3.28.06 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2017-04-25+at+3.28.06+PM.png)
 
 *Pic 2. Supriyadi and his fellow communities of PWDs are trained to trace satelite imagery to inform accessibility of their surrounding areas.*\
 

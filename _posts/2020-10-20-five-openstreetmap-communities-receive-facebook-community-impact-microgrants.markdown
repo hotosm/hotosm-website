@@ -4,7 +4,7 @@ date: 2020-10-20 09:07:00 Z
 Summary Text: Five OSM communities, spread across the Philippines, Turkey, Uganda,
   Kenya, and Zambia, have received Facebook Community Impact Microgrants to support
   community engagement and training.
-Feature Image: "/uploads/Community%20Impact%20Microgrants%20FB.png"
+Feature Image: "https://cdn.hotosm.org/website/Community+Impact+Microgrants+FB.png"
 Person: Sophie Mower
 Country:
 - Kenya
@@ -25,12 +25,12 @@ The MapBeks Community, led by 14 core volunteers from the Philippines, will be c
 
 Funding from HOT will enable the mapping of three selected municipalities, including San Andres and Ferrol in Romblon and Sultan Sa Barongis in Maguindanao. This will kick-off a year-long project and prepare volunteers to accomplish the 24-town target.
 
-![MapBeks.png](/uploads/MapBeks.png)
+![MapBeks.png](https://cdn.hotosm.org/website/MapBeks.png)
 
 ### [Resilience Mappers](https://www.facebook.com/RMappers/)
 Resilience Mappers will be collecting data on the status of services in informal settlements in Kampala, Uganda. The data has been requested by the Kampala Capital City Authority GIS Department, and will be used to enable the equitable distribution of resources for upgrading informal settlements across Uganda’s capital. During the project, volunteers will be trained in remote mapping techniques including JOSM, ID-Editor, and Mapillary to contribute to OpenStreetMap.
 
-![Resilience Mappers.png](/uploads/Resilience%20Mappers.png)
+![Resilience Mappers.png](https://cdn.hotosm.org/website/Resilience+Mappers.png)
 
 *Image: aerial image of Katanga informal settlement*
 

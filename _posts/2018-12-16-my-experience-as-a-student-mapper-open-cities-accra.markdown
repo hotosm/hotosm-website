@@ -1,7 +1,7 @@
 ---
 title: 'My Experience as a Student Mapper: Open Cities Accra'
 date: 2018-12-16 12:10:00 Z
-Feature Image: "/uploads/02-4337cb.jpg"
+Feature Image: "https://cdn.hotosm.org/website/02-4337cb.jpg"
 Is image top aligned: true
 Person: David Luswata
 Working Group:
@@ -16,7 +16,7 @@ Project:
 
 Geospatial data collection at Alogboshie has been a key activity for understanding flood risk and informing this integrated approach. The Open Cities Accra team - led by [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) (HOT),[Mobile Web Ghana](http://mobilewebghana.org/) and [OpenStreetMap Ghana](http://osmghana.org) (OSM Ghana) - began remote and field mapping of Alogboshie in the summer of 2018.
 
-![01-b3940b.jpg](/uploads/01-b3940b.jpg)
+![01-b3940b.jpg](https://cdn.hotosm.org/website/01-b3940b.jpg)
 
 *Chris working with other mappers in the field to collect data using mobile survey apps*
 
@@ -28,7 +28,7 @@ It was early August when Open Cities Accra convened mappers at the Mobile Web Gh
 
 Day 2 involved the remote mapping of Alogboshie. We used Java OpenStreetMap editor (JOSM) to map the areas of interest to the project, and mobile applications such as[ MAPS.ME](https://maps.me/),[ OSMTracker](https://wiki.openstreetmap.org/wiki/OSMTracker_(Android)),[ OSMAnd](https://osmand.net/),[ OpenMapKit](http://openmapkit.org/),[ and OpenDataKit](https://opendatakit.org/) were also introduced to us. The Data Model required for the project was discussed and how the tools we had learnt about were going to play a major role in the data collection.
 
-![02-4337cb.jpg](/uploads/02-4337cb.jpg)
+![02-4337cb.jpg](https://cdn.hotosm.org/website/02-4337cb.jpg)
 
 *Capacity building and training session*
 
@@ -42,7 +42,7 @@ I realized the essence of data cleaning during this exercise especially because 
 
 After the training for the participants, work began and the various teams were tasked to do their individual work. The data collection team did their work with enthusiasm and from time to time those of us working in the data cleaning team also got data from the field to rectify and clean.
 
-![03-85666c.jpg](/uploads/03-85666c.jpg)
+![03-85666c.jpg](https://cdn.hotosm.org/website/03-85666c.jpg)
 
 *Mappers taking instructions from the field supervisor, Enock Nyamador*
 

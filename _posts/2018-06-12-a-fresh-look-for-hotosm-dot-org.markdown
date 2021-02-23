@@ -1,7 +1,7 @@
 ---
 title: A fresh look for hotosm.org
 date: 2018-06-12 21:16:00 Z
-Feature Image: "/uploads/hotosm-dot-org-3-compressor.png"
+Feature Image: "https://cdn.hotosm.org/website/hotosm-dot-org-3-compressor.png"
 Person: Nate Smith
 Working Group:
 - Technical
@@ -13,15 +13,15 @@ Today we flipped the switch on a new look for [hotosm.org](https://www.hotosm.or
 
 The new hotosm.org has a number of new views that communicate what HOT does, who the HOT community is, and how to get directed to the right place.
 
-![hotosm-dot-org-4-compressor.png](/uploads/hotosm-dot-org-4-compressor.png)
+![hotosm-dot-org-4-compressor.png](https://cdn.hotosm.org/website/hotosm-dot-org-4-compressor.png)
 
 Within the Our Work section, you’ll find information about where and who makes up the HOT community. We’ve integrated a map view that allows navigation to countries and projects.
 
-![hotosm-dot-org-2-compressor.png](/uploads/hotosm-dot-org-2-compressor.png)
+![hotosm-dot-org-2-compressor.png](https://cdn.hotosm.org/website/hotosm-dot-org-2-compressor.png)
 
 In addition to project information, we’ve integrated the Missing Maps API to give access to country level OSM editing. This shows the mapping activity across OSM that is happening within every country.
 
-![hotosm-dot-org-1-compressor.png](/uploads/hotosm-dot-org-1-compressor.png)
+![hotosm-dot-org-1-compressor.png](https://cdn.hotosm.org/website/hotosm-dot-org-1-compressor.png)
 
 ### Implementing a process to design and build
 

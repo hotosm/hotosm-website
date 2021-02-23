@@ -6,7 +6,7 @@ published: false
 position: 107
 Project Summary Text: HOT have trained and assisted government and communities on
   exposure mapping through OSM and disaster impact analysis using InaSAFE.
-Feature Image: "/uploads/about-screenshot14.png"
+Feature Image: "https://cdn.hotosm.org/website/about-screenshot14.png"
 Country:
 - Indonesia
 Person:

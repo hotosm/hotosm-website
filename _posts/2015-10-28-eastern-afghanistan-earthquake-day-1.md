@@ -25,4 +25,4 @@ Therefore we are currently working on the road network and populated place ident
 
 Here is a look at the first day's progress:
 
-![AfghanEarthquakeDay1.PNG](/uploads/AfghanEarthquakeDay1.PNG)
+![AfghanEarthquakeDay1.PNG](https://cdn.hotosm.org/website/AfghanEarthquakeDay1.PNG)

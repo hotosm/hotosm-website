@@ -5,7 +5,7 @@ date: 2020-06-17 21:06:00 Z
 Summary Text: We are honored and excited to announce that the HOT community is one
   of eight recipients of funding from The Audacious Project, a collaborative philanthropic
   initiative that serves as a springboard for social impact on a grand scale.
-Feature Image: "/uploads/Zeze.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Zeze.jpg"
 Person:
 - Tyler Radford
 - Rebecca Firth

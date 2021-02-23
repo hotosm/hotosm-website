@@ -6,7 +6,7 @@ published: false
 position: 94
 Project Summary Text: LearnOSM provides easy to understand, step-by-step guides for
   you to get started to contributing and using OpenStreetMap.
-Feature Image: "/uploads/learnosm.PNG"
+Feature Image: "https://cdn.hotosm.org/website/learnosm.PNG"
 Is Community-Led: true
 Person:
 - 'Douglas Ssebaggala '

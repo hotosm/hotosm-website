@@ -31,7 +31,7 @@ The HOT team in the Philippines is tasked to map the Province of Pampanga and Qu
 
 Using the [HOT Tasking Manager](http://tasks.hotosm.org), HOT together with its global and local network of volunteers, contribute to mapping building footprints and road networks through satellite imagery for the 22 municipalities of Pampanga (area: 2,181 km²) and the whole of Quezon City (area: 166.2 km).² This will lay the groundwork for the field mapping activities. HOT’s mapping team will work alongside representatives in the local community to identify the critical lifeline infrastructures from the ground based on the building footprints. The geospatial data collected will then be validated by a team of data validators to ensure the quality of edits. The community will likewise be trained to use [OpenStreetMap](http://openstreetmap.org), for them to sustainably improve the quality of the map in their locality.
 
-![Training LGU Staff from Guagua, Pampanga to use OMK.jpg](/uploads/Training%20LGU%20Staff%20from%20Guagua,%20Pampanga%20to%20use%20OMK.jpg)
+![Training LGU Staff from Guagua, Pampanga to use OMK.jpg](https://cdn.hotosm.org/website/Training+LGU+Staff+from+Guagua,+Pampanga+to+use+OMK.jpg)
 
 Speaking during the mid-term workshop for the PhilAWARE project in February 2020, Undersecretary Ricardo B. Jalad, Executive Director of NDRRMC and Administrator of OCD emphasized the impact of PhilAWARE in the country: “The need to be always informed, (and) to possess this situational data is a crucial element in effective decision making and planning against all threats.” He also added that such a technological advantage will assist disaster managers across the archipelago in having this important information for disaster response.
 

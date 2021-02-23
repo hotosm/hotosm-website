@@ -1,7 +1,7 @@
 ---
 title: Emily Bristle
 date: 2020-12-28 06:14:00 Z
-Photo: "/uploads/Emily%20headshot%20square.jpg"
+Photo: "https://cdn.hotosm.org/website/Emily+headshot+square.jpg"
 Member Type:
   Is Staff: true
 Job Title: Global Human Resources Manager

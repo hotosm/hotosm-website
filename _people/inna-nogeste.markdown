@@ -1,7 +1,7 @@
 ---
 title: Inna Nogeste
 date: 2020-02-08 20:58:00 Z
-Photo: "/uploads/Inna_Nogeste.jpeg"
+Photo: "https://cdn.hotosm.org/website/Inna_Nogeste.jpeg"
 Member Type:
   Is Staff: true
 Country: Sweden

@@ -4,7 +4,7 @@ date: 2020-08-24 12:27:00 Z
 Summary Text: As Peru struggles with the impacts of Covid-19, HOT and GAL Group are
   helping public health officials at all levels of government plan how to support
   communities by mapping rural and vulnerable populations in the Cusco region.
-Feature Image: "/uploads/Cusco%20Worker.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Cusco+Worker.jpg"
 Person: Rebecca Firth
 Country:
 - Peru
@@ -18,7 +18,7 @@ Peru is one of 18 countries where HOT has been supporting Covid-19 responses thr
 
 Typically during disaster responses, global volunteers use satellite imagery to build out the base maps of affected places. Since March 2020, 10,382 volunteer mappers have made 854,683 edits to the map of Peru, including 664,820 buildings and 20,868 kilometers of road in support of the Covid-19 response. Local community partners like [GAL Group](https://www.facebook.com/GALSchoolCusco) can then use these updated base maps to map more specific factors, such as proximity to health clinics, income, sanitation, etc., from government data sources and local mapping.
 
-![Cusco Mapping.gif](/uploads/Cusco%20Mapping.gif)
+![Cusco Mapping.gif](https://cdn.hotosm.org/website/Cusco+Mapping.gif)
 *Gif showing the Cusco area that has been mapped during this Covid-19 response. Orange represents buildings and blue represents roads. Source: Mapbox*
 
 ### Spatial Data for Public Health
@@ -29,15 +29,15 @@ In addition to the lack of precise maps, data quality and consistency are regula
 
 When the COVID-19 pandemic hit, HOT and GAL were able to offer their support to the regional government as they scrambled to respond to overwhelming demand of groups in need, often resorting to comparing dozens of excel spreadsheets with no common structure, running hundreds of lines long, from different agencies to try and identify vulnerable people. Working with them, we initially prototyped dashboards to enable them to locate populations most at risk from Covid-19 and the side-effects of the strict, government-imposed quarantine, such populations with high proportions of the elderly or who only had access to poor sanitation. These areas of people could then be prioritized for support through measures like hand washing stations to reduce transmission and baskets of food and basic goods to sustain people through the quarantine. We then used data from the government and global mappers to identify markets and other public areas that could potentially be places of high rates of transmission of Covid-19.
 
-![Peru Covid 1.jpg](/uploads/Peru%20Covid%201.jpg)
+![Peru Covid 1.jpg](https://cdn.hotosm.org/website/Peru+Covid+1.jpg)
 *A map of risk of Covid-19 in Cusco, Peru*
 
 As the crisis developed, the national government brought in increasingly universal cash payments for people in need, and, at the request of the regional government and health authorities, turned our attention to maternal and child health. With issues such as poor early years development and high levels of chronic malnutrition and anaemia endemic across the region, the authorities have been challenged in understanding the impact of COVID-19 on regular healthcare activities. We iterated a geodata dashboard combining government data with the house-level data of OSM to enable the regional Ministry of Health to geo-locate children by population center and local health clinic. While it currently provides priority information, such as what social services people have access to, the real game-changer will be the future functionality to locate children by specific households and to track if they are receiving the correct household visits. The motive behind the platform is that it will help improve long-term management of data with the authorities
 
-![Peru Covid 2.png](/uploads/Peru%20Covid%202.png)
+![Peru Covid 2.png](https://cdn.hotosm.org/website/Peru+Covid+2.png)
 *The dashboard showing the location health clinics across Cusco*
 
-![Covid Peru 4.png](/uploads/Covid%20Peru%204.png)
+![Covid Peru 4.png](https://cdn.hotosm.org/website/Covid+Peru+4.png)
 *A zoomed in view on the dashboard showing an individual clinic and the number of children registered there in the lower right (sensitive data redacted)*
 
 Beyond the dashboard, HOT and GAL Group have trained local government health and social development workers in using open-source solutions such as KoBo Toolkit and QGIS as a part of their everyday work. 
@@ -48,7 +48,7 @@ The company normally in charge of supplying oxygen to the three main hospitals, 
 
 Now, thanks to a private initiative this oxygen is also bottled and offered to COVID-19 patients who have been prescribed the oxygen free of charge. Local construction firm Consorcio JERGO provides the logistical support and transport for the deliveries to non-hospitalized patients, who are often safer at home as the hospitals within Cusco are running over capacity. The mapping and monitoring of the project, including data covering the patients and their carers, their locations, and the centralized drop-off and collection points across the city are taken care of by GAL. The team uses the OpenStreetMap base layer to identify houses and KoBo to track activities, ensuring accurate geospatial data is used to improve the efficiency of the project.
 
-![Cusco Worker 2-c1cf13.png](/uploads/Cusco%20Worker%202-c1cf13.png)
+![Cusco Worker 2-c1cf13.png](https://cdn.hotosm.org/website/Cusco+Worker+2-c1cf13.png)
 
 In a country with a reputation for corruption, transparent monitoring of a resource in such high demand is extremely important. The project is entering its second week, with 32 patients currently receiving daily refills of their oxygen tanks. The Chambers of Commerce and Tourism also support cleaning and disinfecting the tanks and supporting the refilling activities. An agreement has been signed between Regional Health authorities (DIRESA), Regional Government in Cusco, GAL Group EIRL, Consorcion JERGO SAC, and the Chambers of Commerce and Tourism as the groups look to build on and scale this initial initiative to continue fighting COVID together.
 
@@ -58,6 +58,6 @@ To ensure longer-term sustainability for the mapping community in Cusco, HOT has
 
 The students who are members of Youthmappers today will be government ministers, public health workers, and social scientists tomorrow. Youthmappers and similar organizations are invaluable for building an appreciation for and expertise in the spatial dimensions of social problems in the future leaders of communities and nations. The skills these students are developing now will serve them well in helping their communities to address complex risks like the Covid-19 pandemic now and in the future.
 
-![Peru Covid 3.png](/uploads/Peru%20Covid%203.png)
+![Peru Covid 3.png](https://cdn.hotosm.org/website/Peru+Covid+3.png)
 
 *With kind thanks to Amazon Web Services for enabling this work through their support of HOT’s Covid-19 response.*

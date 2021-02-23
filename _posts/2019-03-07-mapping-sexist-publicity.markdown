@@ -3,7 +3,7 @@ title: Mapping Sexist Publicity
 date: 2019-03-07 12:24:00 Z
 Summary Text: Guest blog by Ana Paula Figueroa, 15 years old. Student at GAL School,
   Cusco, Peru.
-Feature Image: "/uploads/image3-d59a3b.png"
+Feature Image: "https://cdn.hotosm.org/website/image3-d59a3b.png"
 Country:
 - Peru
 Project:
@@ -21,7 +21,7 @@ Our mapping process lasted for about 5 months, from July to October. We used cel
 
 After gathering the images, we uploaded the information to MapHub and analyzed the content. We categorised the information collected in MapHub, with the objectification of women in advertising identified as a star, the perpetuation of gender roles identified as droplets and all the advertising that imposes unrealistic expectations of female bodies, identified with the flame.
 
-![image6_crop.png](/uploads/image6_crop.png)
+![image6_crop.png](https://cdn.hotosm.org/website/image6_crop.png)
 
 The objectification of women is a brutally exploited resource. In Peru, it's completely normal to see a naked woman used simply to draw attention to something. We are forced to separate the female physical form from her emotional or intellectual characteristics, categorizing it as an object with the exclusive function of satisfying the needs of the viewer.
 
@@ -29,9 +29,9 @@ In this case, the woman is bending over in an unnatural position, showing her bo
 
 Gender roles are social constructions that set parameters on the way we live, think and the perception of goals for each gender. They are generally based on stereotypes that become rules for our behaviour.
  
-![image4-75d14d.png](/uploads/image4-75d14d.png) 
+![image4-75d14d.png](https://cdn.hotosm.org/website/image4-75d14d.png) 
 
-![image5.png](/uploads/image5.png)  
+![image5.png](https://cdn.hotosm.org/website/image5.png)  
      
 In this example, we are comparing the difference between the messages in clothing for girls and boys in a large clothing chain in the mall in Cusco. We can see that when it comes to the clothing advertised specifically for girls we find messages like 'mommy's helper', while in the t-shirt we found on the boys section we found messages like 'big trouble'. These kinds of messages confirm that the natural attitude of boys should be to be naughty and make trouble, while limiting the role of girls to simply help their mothers, meaning being obedient. Besides this, both messages are in clothing of shapes and colors stereotypically assigned for each gender, providing clear evidence of the differences in the way society perceives the expected attitudes of girls and boys from that early age.
 

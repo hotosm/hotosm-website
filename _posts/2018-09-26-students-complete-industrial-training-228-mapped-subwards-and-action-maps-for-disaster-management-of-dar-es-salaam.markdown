@@ -3,7 +3,7 @@ title: Students Complete Industrial Training – 228 Mapped Subwards and Action 
   for Disaster Management of Dar es Salaam
 date: 2018-09-26 14:40:00 Z
 Summary Text: by Hawa Adinani.
-Feature Image: "/uploads/12.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/12.jpeg"
 Person: Sıla Alıcı
 Working Group:
 - Community
@@ -25,7 +25,7 @@ To get an idea of the preparation for this work, check out our previous post [he
 
 After orientation, Week 2 began with trash mapping to support a civic-led mass movement called Let’s Do It! World, whose goal is a clean and healthy planet. This was organized by their lead partner in Tanzania, [Nipe Fagio](http://www.nipefagio.co.tz/), or “Give me the broom” in Swahili. The aim was to collect major trash points in Dar es Salaam. Students mapped 44 wards of the city by using [OpenDataKit (ODK)](https://opendatakit.org/) - an Android application that we use to collect enormous amount of data. In total, 20,392 trash points were mapped. It is never a good thing to have so many trash points in a city, but by mapping them in advance we are able to strategize the efforts during [World Cleanup Day](https://www.worldcleanupday.org/) on 15th September. 
 
-![1-290211.jpg](/uploads/1-290211.jpg)
+![1-290211.jpg](https://cdn.hotosm.org/website/1-290211.jpg)
 *Students mapping trash in Buguruni Ward. Photo credit: Chris Morgan/World Bank.*
 
 ## COMMUNITY ENGAGEMENT TRAINING
@@ -40,7 +40,7 @@ Community meetings were held differently based on whether the subward was mapped
 
 For the case of mapped subwards the exercise was a bit simpler because we already had data for them and printed a map on which community members identified assets and threats as well as any missing information. For the case of unmapped subwards, the task was a bit more complicated since it involved data collection of important features such as schools, hospitals, and open spaces on the specific wards, as well as cleaning that data. After this, students produced a map that community members then used as a base map in the community meeting to identify assets and threats on flooding, as well as missing information for students to recollect information so as to produce the final detailed map.
 
-![2-e857cc.jpg](/uploads/2-e857cc.jpg)
+![2-e857cc.jpg](https://cdn.hotosm.org/website/2-e857cc.jpg)
 *Community meeting in Mlalakuwa subward- in Makongo ward. Students are working together with community members who identify assets and threats in the subward. Photo credit: Godfrey Kassano/Ramani Huria.*
 
 Within the subward, students arranged a meeting of about eleven participants, including ward wajumbe (representatives), subward executive officer, religious leaders, local youth and elders, subward executive officer and community-based organization (CBOs). A group of six students led by a student team leader facilitated the meeting by:
@@ -71,7 +71,7 @@ Involving community members/leaders in mapping is an excellent objective, but so
 
 Two main deliverable from the process are reports and maps, produced for each subward. A report consists of information gathered from a community meeting, conducted with local residents and leaders about the assets and possible threats perceived by the community. The map includes annotations that correspond to the report to better describe the situation visually.
 
-![3.jpg](/uploads/3.jpg)
+![3.jpg](https://cdn.hotosm.org/website/3.jpg)
 *Students digitizing information obtained from community meetings in order to produce final action map for disaster management plan. Photo credit: Chris Morgan/World Bank.*
 
 In addition to the data collectors, students worked in two teams to specialize in data cleaning and map making, to ensure the highest quality deliverable. The reports and maps will be used for risk reduction as well as disaster management planning in the wards by [Deltares](https://www.deltares.nl/en/) – an independent institute that has an expertise in flood risk management. Together with ward leaders they will sit and develop a disaster management plan. In our next post we hope to share a Community Asset and Threat Inventory, our team is currently working on finalizing this.
@@ -82,14 +82,14 @@ At the same time as the Community Asset and Threat Mapping, fifteen students fro
 
 Obtaining elevation of surveyed areas is costly and technical knowledge is a must. This project tackles the two issues by using an Android application and cheap electronic devices: Arduino Uno and BMP280 (Barometric sensor). Any member of the community with a knowledge of using a smartphone can take part in mapping elevation of their neighbourhood with Differential Altimetry (Android app). For a period of 8 weeks, students assembled units (shown in the picture below) and carried out experiments in various locations around Ardhi University campus.
 
-![4.png](/uploads/4.png)
+![4.png](https://cdn.hotosm.org/website/4.png)
 *A device used to measure elevation using barometric pressure.*
 
 ## NEXT STEPS: SHINA MAPPING
 
 After finishing the data collection for assets and threats, Ramani Huria is teaming up with [Data Zetu](https://datazetu.or.tz/) to focus on our next big goal: shinas. The shina (roughly translated to “branch” in Swahili) represents the most granular administrative divisions that exist in Tanzania. One key to mapping shinas are wajumbe, or shina leaders, who are the first point of contact for local households over issues such as public services, resource allocation and community challenges, such as theft etc.
 
-![5-6e62e9.jpg](/uploads/5-6e62e9.jpg)
+![5-6e62e9.jpg](https://cdn.hotosm.org/website/5-6e62e9.jpg)
 *Shina Mjumbe at Tabata Subward in Tabata Ward giving direction to the student when tracing her shina boundary: Photo credit: Godfrey Kassano/Ramani Huria.*
 
 Wajumbe are chosen by their community to act as their liaison with the local government. These shinas were originally comprised of ten household clusters – 1 representative per 10 households – but due to increases in population and urbanization, these hyperlocal areas now contain between 30 and 150 households. Mapping shina boundaries will provide community members and service providers, such as emergency responders and public health experts, an efficient and more precise method to locate households at a smaller scale. Being able to locate themselves and other community members at the shina level reduces the amount of time it takes for services, such as emergency response, to reach households in the case of, for example, a flood or fire.

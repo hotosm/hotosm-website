@@ -1,7 +1,7 @@
 ---
 title: Rubén Martín
 date: 2021-01-04 13:46:00 Z
-Photo: "/uploads/ruben.jpg"
+Photo: "https://cdn.hotosm.org/website/ruben.jpg"
 Member Type:
   Is Staff: true
 Job Title: Community Strategist and Research Lead

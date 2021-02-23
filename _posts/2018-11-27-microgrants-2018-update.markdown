@@ -4,7 +4,7 @@ date: 2018-11-27 13:07:00 Z
 Summary Text: 'Here are a few updates from local communities all around the world
   who have received a Microgrant from HOT in 2018, all the more reason to donate to
   #mapthedifference in 2019!'
-Feature Image: "/uploads/Blog%20post%20header%20-%20Microgrants%202018.png"
+Feature Image: "https://cdn.hotosm.org/website/Blog+post+header+-+Microgrants+2018.png"
 Person: Geoffrey Kateregga
 Working Group:
 - Community
@@ -32,7 +32,7 @@ The OSM Colombia Foundation began with the need to generate free geographical da
 
 Fundacion OSM Colombia has also conducted field work and community workshops. They have had big challenges related to the low technology adoption in communities where the workshops were conducted, ranging from civil society members and technocrats who are not familiar with the OpenStreetMap technologies. 
 
-![colombia.png](/uploads/colombia.png)
+![colombia.png](https://cdn.hotosm.org/website/colombia.png)
 
 
 # GeoChicas
@@ -41,7 +41,7 @@ The GeoChicas have completed fieldwork in Oaxaca on a pilot project looking at i
 
 GeoChicas is a community scattered throughout the Americas and other continents, with a majority of remote participants and a few representatives in each country. The central mission of GeoChicas is to promote and empower, and also to provide trainings to women on open data and mapping. They have applied this vision and have been successful in empowering young women to obtain unique skills in the field.
 
-![DestfXyVAAEhjld.jpg](/uploads/DestfXyVAAEhjld.jpg)
+![DestfXyVAAEhjld.jpg](https://cdn.hotosm.org/website/DestfXyVAAEhjld.jpg)
 
 
 # Nigeria YouthMappers
@@ -57,28 +57,28 @@ Most of their contributions cut across HOT priority mapping task projects in mor
 
 With the help of the Microgrant they have reached out to other universities to create and mentor new Youthmappers chapters. They travelled to Abia State University to create and support the AbsuMappersTeam in the month of July and have contacted 5 other chapters including one in Zimbabwe. They reached out and organized trainings for LionMappersTeam-Enugu Campus and Ignatius MappersTeam-Port Harcourt, enabling them to participate in the Microgrant community knowledge sharing webinar.
 
-![nigeria.jpg](/uploads/nigeria.jpg)
+![nigeria.jpg](https://cdn.hotosm.org/website/nigeria.jpg)
 
 
 # OSM Benin
 
 OSM Benin have so far run two OSM trainings in Cotonou and Tanguieta where they trained 35 people in using OpenStreetMap tools. They have also done capacity building training for 5 members who went to Tanguieta to carry out OpenStreetMap training in that area. In Tanguieta they also field mapped the city. The data will be used by NGOs, international organizations and local authorities. Their plan is to continue monitoring the young people they have trained through mapathons. Currently they have a mapping task in progress in the border town of Porga.
 
-![bebib.jpg](/uploads/bebib.jpg)
+![bebib.jpg](https://cdn.hotosm.org/website/bebib.jpg)
 
 
 # OSM Sri Lanka
 
 With the Microgrant support OSM Sri Lanka has trained around 120 new mappers and one project has been implemented in the Northern Region of Sri Lanka. This is the first time the OSM Sri Lanka community has initiated a large work of OSM in the area. Most of them are novices to the devices especially ones like GPS essential, Maps.me, OSM Android and Mapillary. The project targets not only mapping but also creating awareness among students, academics, media, NGOs, government and researchers. They have had an initial meeting with the Head of Department Geography, University of Peradeniya to establish the YouthMappers chapter which will persuade other Universities to use the OpenStreetMap.
 
-![srilnaka.jpg](/uploads/srilnaka.jpg)
+![srilnaka.jpg](https://cdn.hotosm.org/website/srilnaka.jpg)
 
 
 # Potential 3.0 Haiti
 
 With the help of the HOT Microgrant Potential 3.0 were able to run an intensive one capacity building training for their OSM community focusing on Open Data, capturing and processing drone imagery using Phantom 3 Drones, creation of ODK forms, surveying with tablets and Android phones, Mapillary and MediaLiBox. 
 
-![haiti-6faf92.jpg](/uploads/haiti-6faf92.jpg)
+![haiti-6faf92.jpg](https://cdn.hotosm.org/website/haiti-6faf92.jpg)
 
 # Mapeando Meu Bairro
 
@@ -88,9 +88,9 @@ Aside from the two NGOs in Mafalala, #MapeandoMeuBairro is also working in the C
 
 Coming up next for the mapping community with HOT's Microgrant support is the field data collection, in extreme detail, of all formal and informal drainage features of Mafalala, including surface, blockages, widths and depths, among other properties.
 
-![Mapeando Meu Bairro .jpg](/uploads/Mapeando%20Meu%20Bairro%20.jpg)
+![Mapeando Meu Bairro .jpg](https://cdn.hotosm.org/website/Mapeando+Meu+Bairro+.jpg)
 
-![Mapeando Meu Bairro 2.jpg](/uploads/Mapeando%20Meu%20Bairro%202.jpg)
+![Mapeando Meu Bairro 2.jpg](https://cdn.hotosm.org/website/Mapeando+Meu+Bairro+2.jpg)
 
 # YerÇizenler
 
@@ -99,7 +99,7 @@ YerÇizenler had partnered with and been supported by HOT between July 2018 and 
 All of these communities are able to effectively continue their mapping efforts thanks to the donations we've been receiving during our year-end fundraising campaigns each year. You can join our campaign to map the difference by becoming a fundraiser and helping us spread the word out there, so that we can support these local leaders you have been reading about with the necessary tools and equipment they need. 
 
 
-![IMG_9872.JPG](/uploads/IMG_9872.JPG)
+![IMG_9872.JPG](https://cdn.hotosm.org/website/IMG_9872.JPG)
 
 Go to [donate.hotosm.org](donate.hotosm.org) today and let's **#mapthedifference** together!
 

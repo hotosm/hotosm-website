@@ -6,7 +6,7 @@ Summary Text: 'From Ghana to Zambia to the Philippines, we take a look at some o
   undermapped regions. The mapping participants are collecting street-level imagery
   to improve things like waste management, natural disaster response, and damaged
   roads, addressing some of the most pressing issues in undermapped regions.'
-Feature Image: "/uploads/2019-06-20-stephen-team-ghana.jpg"
+Feature Image: "https://cdn.hotosm.org/website/2019-06-20-stephen-team-ghana.jpg"
 Person: Rebecca Firth
 ---
 
@@ -14,7 +14,7 @@ Updated and accurate maps have the ability to dramatically improve people’s li
 
 Projects include addressing failing infrastructure in Ghana, natural disaster resilience and recovery in the Philippines, and waste management in Uganda and Zambia. These are huge issues, with real impact on real people. The good news is, street-level imagery can help. Here’s what we’ve learned from the #map2020 participants so far.
 
-![2019-06-20-map2020-contributors-map.PNG](/uploads/2019-06-20-map2020-contributors-map.PNG)
+![2019-06-20-map2020-contributors-map.PNG](https://cdn.hotosm.org/website/2019-06-20-map2020-contributors-map.PNG)
 *33 mapping groups in 26 countries are taking part in #map2020, addressing issues from waste management and natural disaster resilience, to poor road conditions and food security.*
 
 **Mapping for safer roads and better flood risk resilience in Ghana**
@@ -23,12 +23,12 @@ Damaged roads are a critical problem. It’s one of the largest causes of death 
 
 Stephen Mawutor Donkor (Mapillary member **[mawutor](https://www.mapillary.com/app/user/mawutor)**) is part of a ten-people mapping group who’s participating in #map2020 to improve the situation. He says that even though people know that road quality across parts of Ghana is poor, there has been little imagery available to lobby the right people: *“There have been several reported cases of accidents and reports on the deplorable state of roads \[in Ghana\], but there is no recent street-level imagery that enables different stakeholders, institutions, and individuals to visualize it.”*
 
-![2019-06-20-poor-road-conditions-ghana.gif](/uploads/2019-06-20-poor-road-conditions-ghana.gif)
+![2019-06-20-poor-road-conditions-ghana.gif](https://cdn.hotosm.org/website/2019-06-20-poor-road-conditions-ghana.gif)
 *Mappers in Ghana are capturing street-level imagery to create awareness around poor road conditions.*
 
 Stephen and his team are also collecting imagery in different parts of Ghana to tackle flood risks as well as improve food security. *“The northern part of Ghana is known for agriculture, so most food products coming to the south are likely to have been transported from the north. Our goal is to document the state of the road that unites northern and southern Ghana, its impact on food security, and how it has disconnected access to communities along this route. We hope this will lead to data-driven decision-making, leaving no one behind.”*
 
-![2019-06-20-stephen-team-ghana.jpg](/uploads/2019-06-20-stephen-team-ghana.jpg)
+![2019-06-20-stephen-team-ghana.jpg](https://cdn.hotosm.org/website/2019-06-20-stephen-team-ghana.jpg)
 *Stephen’s team out capturing images with Mapillary to understand food security across southern Ghana.*
 
 **Using map data to prepare for and recover from natural disasters the Philippines**
@@ -43,7 +43,7 @@ In Kampala, the capital of Uganda, a group of Geo Youthmappers are collecting st
 
 Chomba Chishala with YouthMappers and OpenStreetMap Zambiza (Mapillary member [mbacho](https://www.mapillary.com/app/user/mbacho)) is tackling similar issues in Lusaka, the capital of Zambia: *"People have no choice but dumping their waste near the roadside, which blocks drainage during the rainy season and causes flooding. It also puts children at risk of catching different diseases.”*
 
-![2019-06-20-uganda-waste-collection.jpg](/uploads/2019-06-20-uganda-waste-collection.jpg)
+![2019-06-20-uganda-waste-collection.jpg](https://cdn.hotosm.org/website/2019-06-20-uganda-waste-collection.jpg)
 *Henry Sseruwagi is taking part in #map2020 to tackle illegal waste dumping in Kampala, Uganda, where unplanned dumping sites block drainage systems.*
 
 Both these mapping groups want to make sure every dump site is mapped and known to the people who are in charge of collecting waste. This will beef up collection efforts and combat illegal dumping, ultimately resulting in cleaner cities and healthier citizens.

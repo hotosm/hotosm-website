@@ -5,7 +5,7 @@ permalink: projects/typhoon_haiyan
 position: 85
 Project Summary Text: We activated to provide geographic base data in areas affected
   by typhoon Yolanda/Haiyan in the Philippines.
-Feature Image: "/uploads/Typhone%20haiyan.PNG"
+Feature Image: "https://cdn.hotosm.org/website/Typhone+haiyan.PNG"
 Is Community-Led: true
 Country:
 - Philippines

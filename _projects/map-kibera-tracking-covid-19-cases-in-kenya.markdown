@@ -1,7 +1,7 @@
 ---
 title: 'Map Kibera: Tracking COVID-19 cases in Kenya'
 date: 2020-11-10 15:18:00 Z
-Feature Image: "/uploads/Kenya%20Covid%20-19%20Tracker%20main%20page-265c42.png"
+Feature Image: "https://cdn.hotosm.org/website/Kenya+Covid+-19+Tracker+main+page-265c42.png"
 Is Community-Led: true
 Country:
 - Kenya

@@ -6,7 +6,7 @@ position: 99
 Project Summary Text: HOT supports a community mapping project in the Lower Shire
   of Malawi, whose two districts, Chikwawa and Nsanje, are the most flood-prone areas
   of the country.
-Feature Image: "/uploads/P1050175_50%25_0.png"
+Feature Image: "https://cdn.hotosm.org/website/P1050175_50%25_0.png"
 Country:
 - Malawi
 Impact Area:

@@ -13,7 +13,7 @@ created: 1502118736
 
 As part of the [Local Empowerment for Government Inclusion and Transparency (or LEGIT)](https://www.hotosm.org/updates/2017-03-13_mapping_for_government_inclusion_and_service_delivery_in_liberia) project, funded by USAID, HOT and DAI teamed up to map the official urban and rural areas (eight-miles radius from city centre) of Zwedru, Ganta, and Gbarnga cities. The mapping will help facilitate the decentralization process in Liberia. HOT has collaborated with representatives from Civil Society Organizations (CSOs), Community-Based Organizations (CBOs) and City Corporations to map amenities, buildings, and services, such as water points and health facilities. With the completion of Ganta and Gbarnga in July, the field mapping phase of the LEGIT project has concluded.
 
-![01.png](/uploads/01.png)\
+![01.png](https://cdn.hotosm.org/website/01.png)\
 **Ganta City**
 
 Ganta, which is interchangeably called Gompa meaning “Man’s home” in the Mano dialect, is the fastest growing and second largest city in Liberia (after Monrovia) owing to economic activities and its closeness to the Guinea and Côte d’Ivoire borders. As such, volunteers had more commercial buildings and services to map compared to [Zwedru](https://www.hotosm.org/updates/2017-06-05_legit_team_completes_field_mapping_in_zwedru_city).
@@ -22,19 +22,19 @@ Prior to the mapping exercise, the Gompa City Corporation did not have up-to-dat
 
 During the LEGIT mapping process, representatives from the City Corporation, CSOs, and CBOs were enthusiastic about being part of a process to map their city and communities. The Administrative Assistant of the Gompa City Corporation noted; “We are very happy to be part of history making by mapping this great city of Gompa.”
 
-![02.png](/uploads/02.png)
+![02.png](https://cdn.hotosm.org/website/02.png)
 
 *A mapping team strategies on how to map their task for the day*
 
 Following up the mobile data collection and mapping training, our volunteers were motivated to map the city and its surrounding villages within the eight-miles radius. With a passionate spirit and “we’ve got to map our city” attitude of our volunteers, we were able to cover a lot of ground in a short period of time. Despite the dense urban area, the mapping process in Ganta was completed in time, allowing volunteers time to participate in data cleaning and upload, as well as installing mapping tools into their personal phones. We were also able to conduct a short presentation on the iD editor with some training materials given out for study purposes.
 
-![03.png](/uploads/03.png)
+![03.png](https://cdn.hotosm.org/website/03.png)
 
 *Volunteers participate in field data cleaning before upload to OSM.*
 
 Street names are still not clearly defined in Gompa City. The problem being that the names used to name streets were not known to the city inhabitants, and therefore they did not use them. This was evidenced in the surveyor’s map from 1979 that was discovered in the possession of a local drafter. Upon close examination, the map was found to be largely inaccurate to the ground reality of present-day streets layouts, and names did not reflect current use. However, this map did provide interesting insight on how Ganta developed after the civil wars disrupted organized city planning. In response to HOT’s mapping efforts, the City Corporation and the councilmen are currently going through the process of assigning proper names to the streets, with justification for proper identification.
 
-![04-c822bf.jpg](/uploads/04-c822bf.jpg)
+![04-c822bf.jpg](https://cdn.hotosm.org/website/04-c822bf.jpg)
 
 *One of the streets in Gompa City*
 
@@ -42,7 +42,7 @@ Street names are still not clearly defined in Gompa City. The problem being that
 
 Gbarnga was the last of the three cities to map in Liberia with DAI for the LEGIT Project. Gbarnga is the capital city of [Bong County](https://en.wikipedia.org/wiki/Bong_County), [Liberia](https://en.wikipedia.org/wiki/Liberia), northeast of [Monrovia](https://en.wikipedia.org/wiki/Monrovia). Despite the onset of the rainy season, volunteers were able to map the entire eight-mile radius of Gbarnga City. Volunteers walked through forests, wetlands, crossing rivers and creeks and even forging their own paths through the forest to get to these villages.
 
-![05-65ada2.jpg](/uploads/05-65ada2.jpg)
+![05-65ada2.jpg](https://cdn.hotosm.org/website/05-65ada2.jpg)
 
 *Photo credit: James Blamo, @jamesblamo1*
 
@@ -50,7 +50,7 @@ In Gbarnga City, as with other parts of Liberia, there are still villages that a
 
 The importance of mapping was highlighted and appreciated during meetings with security agencies such as the Regional Police Hub, Prison Compound and Camp Tubman Military Barracks in Gbarnga City. While meeting with the HOT team, Barracks Commander Col. David Cooper requested the HOT team to present the importance of the mapping exercise and the possibilities of mapping to families living in Camp Tubman Army Barracks. With over a hundred army officers in attendance, Country Manager David Luswata conducted a brief presentation on the background of the LEGIT project and the importance of mapping in peacekeeping and the ongoing reconciliation efforts in Liberia between different groups of society. At the end of the training, Col. Cooper appreciated the efforts of the HOT team and asked that such partnership continues.
 
-![06.png](/uploads/06.png)
+![06.png](https://cdn.hotosm.org/website/06.png)
 
 *USAID Director of Democracy and Governance Office, Jeremy Meadows, observes LEGIT field mapping.*
 

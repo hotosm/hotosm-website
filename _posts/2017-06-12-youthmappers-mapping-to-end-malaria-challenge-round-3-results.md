@@ -13,7 +13,7 @@ created: 1497234339
 
 The third and final round of the YouthMappers challenge has concluded. In round three, we had 13 Universities participate, bringing the total for all three round to 26 Universities. Also in round three we had 88 student mappers contribute just under 200,000 buildings bringing the grand total of buildings digitized in the challenge to over 600,000. Thank you to all the chapters and students who participated!
 
-![20170506_173519.jpg](/uploads/20170506_173519.jpg)
+![20170506_173519.jpg](https://cdn.hotosm.org/website/20170506_173519.jpg)
 
 We’re pleased to announce, the winners of this round are:
 

@@ -16,7 +16,7 @@ tags:
 Summary Text: As Humanitarian OpenStreetMap Team (HOT) supports local communities
   fundraising to put themselves on the map, here are the ways they will be using maps
   to improve lives!
-Feature Image: "/uploads/TALLER%20ACCHA-1%20small-3dd472.jpg"
+Feature Image: "https://cdn.hotosm.org/website/TALLER+ACCHA-1+small-3dd472.jpg"
 Person: Alex Glynn
 Working Group:
 - Fundraising
@@ -38,7 +38,7 @@ As Humanitarian OpenStreetMap Team (HOT) supports local communities fundraising 
 
 ## 1. Helping communities affected by wildfires in the Bolivian Amazon
 
-![SIV_05.jpg](/uploads/SIV_05.jpg)
+![SIV_05.jpg](https://cdn.hotosm.org/website/SIV_05.jpg)
 
 This year, the Bolivian Amazon was hit by forest fires, causing the highest rates of deforestation in a decade. Local communities were hit hard by the fires, impacting their jobs, homes, and safety. But these communities are missing from the map - so emergency response, government, and non-profit organizations don't have the information they need to help them.
 
@@ -48,7 +48,7 @@ This year, the Bolivian Amazon was hit by forest fires, causing the highest rate
 
 ## 2. Raising mental health awareness in the Philippines
 
-![60000857_437307660367154_2533659245803470848_n-d92e7e.jpg](/uploads/60000857_437307660367154_2533659245803470848_n-d92e7e.jpg)
+![60000857_437307660367154_2533659245803470848_n-d92e7e.jpg](https://cdn.hotosm.org/website/60000857_437307660367154_2533659245803470848_n-d92e7e.jpg)
 
 Imagine you are dealing with severe mental health issues, but have no one to talk to. You want to get professional help, but you don’t know where or how, and you’re even afraid to ask your friends and family for information because of negative attitudes toward ill mental health.
 
@@ -68,7 +68,7 @@ Tommy, who is a member of OpenStreetMap Sierra Leone, knew that if he didn’t k
 
 ## 4. Making sure people are counted in South Sudan
 
-![Flooding in Nadapal, Kapoeta State, Eastern Equatorial-05e5b0.jpg](/uploads/Flooding%20in%20Nadapal,%20Kapoeta%20State,%20Eastern%20Equatorial-05e5b0.jpg)
+![Flooding in Nadapal, Kapoeta State, Eastern Equatorial-05e5b0.jpg](https://cdn.hotosm.org/website/Flooding+in+Nadapal,+Kapoeta+State,+Eastern+Equatorial-05e5b0.jpg)
 
 Every year, floods devastate South Sudan. This July, almost one million people needed life-saving assistance due to heavy rain leaving large swathes of the country underwater. Humanitarian and local organizations responding to the crisis need maps to know certain facts: How many people need assistance? Where are the health centers that need medicine for diseases, such as Cholera, caused by flooding? How can we get to those villages and health centers? The problem is South Sudan doesn’t have the maps required to answer these questions.
 
@@ -78,7 +78,7 @@ That’s where OpenStreetMap South Sudan comes in. They want to create an open-s
 
 ## 5. Improving gender equality and education in Peru
 
-![TALLER ACCHA-1 small.jpg](/uploads/TALLER%20ACCHA-1%20small.jpg)
+![TALLER ACCHA-1 small.jpg](https://cdn.hotosm.org/website/TALLER+ACCHA-1+small.jpg)
 
 Access to technology is starkly unequal in Peru and gender inequality is pervasive. GAL Peru is looking to level the playing field with one tool - maps. By training high school and university students, GAL School Peru will not only educate children from different backgrounds on how to use new technology and tools, but also guide them to collect information on gender issues, such as equal pay, access to health services, and other social issues affecting their community. This evidence will then be given to the local government and used to improve services for the community.
 

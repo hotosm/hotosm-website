@@ -33,4 +33,4 @@ If it's your first time mapping, watch a [training video](https://www.youtube.co
 
 If you have questions join our mailing list or come to irc (#hot on irc.oftc.net). To use your web browser to chat click here and select #hot from the drop down menu.
 
-![025738W5_NL_sm.gif](/uploads/025738W5_NL_sm.gif)
+![025738W5_NL_sm.gif](https://cdn.hotosm.org/website/025738W5_NL_sm.gif)

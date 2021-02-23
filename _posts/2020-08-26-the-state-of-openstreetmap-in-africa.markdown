@@ -5,7 +5,7 @@ Summary Text: 'In the run-up to the 2020 State of the Map conference, OSM Africa
   OpenStreetMap community leaders across the continent. Geoffrey Kateregga looks at
   the results and offers a deep dive into the state and trajectory of OpenStreetMap
   communities in Africa. '
-Feature Image: "/uploads/Africa%20Nodes%20Map.png"
+Feature Image: "https://cdn.hotosm.org/website/Africa+Nodes+Map.png"
 Person: Geoffrey Kateregga
 Working Group:
 - Community
@@ -23,17 +23,17 @@ This [visualization](https://public.flourish.studio/visualisation/2648157/) show
 
 By June 2020, there was a total of 57,766,001 mapped buildings in Africa, with Tanzania leading at 11 million, thanks to the work done there by the [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/), the World Bank through [Ramani Huria](https://ramanihuria.org/en/) and [Crowd2Map Tanzania](https://crowd2map.wordpress.com/).
 
-![GK1.jpg](/uploads/GK1.jpg)
+![GK1.jpg](https://cdn.hotosm.org/website/GK1.jpg)
 
 We also looked at the population in comparison to the number of mapped objects, to measure map completeness in each country, which shows Eswatini, Lesotho, Seychelles, Botswana and Zimbabwe as the most mapped countries. [Map Lesotho](https://www.maplesotho.com/) is an interesting case where the Government is leading in the use of OpenStreetMap for rural and urban planning.
 
-![GK2.png](/uploads/GK2.png)
+![GK2.png](https://cdn.hotosm.org/website/GK2.png)
 
 ### Existence of Active OSM Communities
 
 Sixty-five percent of the countries that participated in the survey indicated there is an OpenStreetMap community in their country, although the levels of activity differ from country to country, from very active to inactive. It is also interesting to note some countries like Egypt and Morocco where there is active mapping but no single community.
 
-![GK3.jpg](/uploads/GK3.jpg)
+![GK3.jpg](https://cdn.hotosm.org/website/GK3.jpg)
 
 For the countries where there are existing OSM communities, we look at some of the factors behind their existence that were pointed out in the survey.
 
@@ -45,25 +45,25 @@ YouthMappers is an international network of university student-led chapters who 
 
 Growing OpenStreetMap through universities is a good model, as the students have a direct incentive to volunteer through mapping and are gaining geospatial skills while at the same time contributing to open data. YouthMappers provide Leadership and Research Fellowships to a number of students per year, who go on to become leaders of OSM communities in their countries.
 
-![GK4.jpg](/uploads/GK4.jpg)
+![GK4.jpg](https://cdn.hotosm.org/website/GK4.jpg)
 
 ### Humanitarian OpenStreetMap Team in Africa
 
 Since 2015, [HOT](https://www.hotosm.org/) has run country programs in eight countries in Africa and also supported OSM communities with devices and Microgrants in 19 countries in Africa. In most of the countries where HOT has worked, they have engaged the local communities in different projects, and have helped start up communities.
 
-![GK5.png](/uploads/GK5.png)
+![GK5.png](https://cdn.hotosm.org/website/GK5.png)
 
 ### Open Cities Africa
 
 [Open Cities Africa](https://opencitiesproject.org/) is a World Bank project that promotes collaborative mapping to build resilient societies in 16 cities in 13 countries in Africa. This project collects data, and builds skills and networks to support disaster risk management in Africa and makes the much needed connection for OSM communities and governments to collaborate on projects.
 
-![GK6.png](/uploads/GK6.png)
+![GK6.png](https://cdn.hotosm.org/website/GK6.png)
 
 ### Definition of Membership
 
 Over the years, the different OSM communities have been growing their membership and it is interesting to see how they define their membership, which is different from country to country.
 
-![GK7.png](/uploads/GK7.png)
+![GK7.png](https://cdn.hotosm.org/website/GK7.png)
 
 * 56% - Everyone who contributes to OpenStreetMap in our country
 * 38% - People who participate in events e.g. mapping parties, mapathons and Meetups
@@ -77,13 +77,13 @@ From the survey we found out that 46% of the communities have not met in a long 
 
 The regular Meetups indicate the existence of leadership and the capacity to raise funds or resources through membership fees, through funded projects or through partnerships with a university, NGO, or company that can provide space and internet.
 
-![GK8.png](/uploads/GK8.png)
+![GK8.png](https://cdn.hotosm.org/website/GK8.png)
 
 ### Communication Channels
 
 When it comes to communication, most OSM communities in Africa communicate through Facebook and WhatsApp. The other communication channels used are Telegram and the Talk Mailing Lists. Only 34% of the communities have a website.
 
-![GK9.png](/uploads/GK9.png)
+![GK9.png](https://cdn.hotosm.org/website/GK9.png)
 
 When reaching out to these communities, it is important to use their preferred channels. Otherwise they may miss out on the information.
 
@@ -91,7 +91,7 @@ When reaching out to these communities, it is important to use their preferred c
 
 Having a leadership and organizational structure for an OSM community is an asset for  community growth as it makes it easier to partner with other organizations and even take on a wider scale of projects. Of the 52 countries that responded to the survey, 45% have some kind of leadership structure for the community.
 
-![GK10.png](/uploads/GK10.png)
+![GK10.png](https://cdn.hotosm.org/website/GK10.png)
 
 It is also interesting to note that there is no uniform leadership structure. One of the challenges that new communities face is deciding on what kind of leadership or organizational structure to put in place. 
  
@@ -119,7 +119,7 @@ One of the major challenges, pointed out in the survey was lack of access to fun
 
 For the countries with no applications, some had communities that were not aware of the call for applications or no active community to begin with. For others there was just a lack of capacity, with no team to work on a proposal, and a few felt they had no need for a microgrant.
 
-![GK11.png](/uploads/GK11.png)
+![GK11.png](https://cdn.hotosm.org/website/GK11.png)
 
 OSMF Membership
 The OSM Foundation has a [membership scheme](https://join.osmfoundation.org/)  which costs £15 per year. It also has the option of a fee waiver for people who don’t have access to suitable money transfer options or can’t afford the fee because of financial hardship.
@@ -128,7 +128,7 @@ Members of the OSM communities in Africa need to become members of the Foundatio
 
 However, only 32% of the people who responded to the survey are members of the OSMF Foundation.
 
-![GK12.png](/uploads/GK12.png)
+![GK12.png](https://cdn.hotosm.org/website/GK12.png)
 
 The following were given as some of the limitations for becoming members.
 
@@ -147,7 +147,7 @@ It is important for OSM Africa members to also participate in these working grou
 
 When asked about participation in the OSMF Working Groups, 36% didn’t know about the existence of Working Groups at all, 41% participate in some way, and 23% were aware but unable to participate.
 
-![GK13.png](/uploads/GK13.png)
+![GK13.png](https://cdn.hotosm.org/website/GK13.png)
 
 Several reasons were given for lack of participation in the OSMF Working Groups, including a lack of awareness of the existence of the Working Groups, lack of time, lack of access to the internet, and the language barrier as most of the communications happens in English.
 

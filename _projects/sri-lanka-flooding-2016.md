@@ -5,7 +5,7 @@ permalink: projects/sri_lanka_flooding_2016
 position: 117
 Project Summary Text: HOT activated to trace buildings by the Disaster Management
   Center (DMC) of Sri Lanka in response to the 2016 Sri Lanka floods
-Feature Image: "/uploads/Mapping%20for%20the%20Sri%20Lanka%20Floods%20at%20Understanding%20Risk%20(May%202016).jpg"
+Feature Image: "https://cdn.hotosm.org/website/Mapping+for+the+Sri+Lanka+Floods+at+Understanding+Risk+(May+2016).jpg"
 Country:
 - Sri Lanka
 Impact Area:

@@ -7,7 +7,7 @@ categories:
 position: 123
 Project Summary Text: HOT has teamed up with partners working to eliminate malaria
   across Southern Africa, Southeast Asia and Central America.
-Feature Image: "/uploads/DSC_1160-indonesia-malaria-team-compressor.jpg"
+Feature Image: "https://cdn.hotosm.org/website/DSC_1160-indonesia-malaria-team-compressor.jpg"
 Country:
 - Botswana
 - Zimbabwe

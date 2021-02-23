@@ -2,7 +2,7 @@
 title: The Machine Learning Enabler
 date: 2019-07-10 14:00:00 Z
 Summary Text: 
-Feature Image: "/uploads/ml-enabler.jpg"
+Feature Image: "https://cdn.hotosm.org/website/ml-enabler.jpg"
 Person: Sajjad Anwar
 Working Group:
 - Technical

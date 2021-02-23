@@ -3,7 +3,7 @@ title: Community Mapping for Urban Risk in Mwanza, Tanzania
 date: 2020-10-22 08:23:00 Z
 Summary Text: Spatial Collective, Humanitarian OpenStreetMap Team, and OpenMap Development
   Tanzania extend their engagement to Mwanza
-Feature Image: "/uploads/Mwanza1.png"
+Feature Image: "https://cdn.hotosm.org/website/Mwanza1.png"
 Person:
 - Hawa Adinani
 - Primoz Kovacic
@@ -27,7 +27,7 @@ The consortium will achieve this by focusing on 4 core mapping campaigns:
 3. Through the participatory mapping of unplanned communities, we will collect data on critical infrastructures, such as health facilities, access routes, government installations, safe spots, open spaces, businesses, schools, religious institutions, and any other relevant public amenity.
 4. Through household flood and historical rockfall incidents mapping, we will collect and analyze data on flood and rockfall histories. 
 
-![Mwanza2.png](/uploads/Mwanza2.png)
+![Mwanza2.png](https://cdn.hotosm.org/website/Mwanza2.png)
 
 *Flooding in Mwanza. Photo Credit: Ester Daniel*
 

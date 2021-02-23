@@ -1,7 +1,7 @@
 ---
 title: Benjamin Dills
 date: 2020-06-05 15:32:00 Z
-Photo: "/uploads/Ben%20Dills%20Headshot.jpg"
+Photo: "https://cdn.hotosm.org/website/Ben+Dills+Headshot.jpg"
 Member Type:
   Is Staff: true
 Job Title: Communications Associate

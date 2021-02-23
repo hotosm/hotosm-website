@@ -1,7 +1,7 @@
 ---
 title: HOT Summit 2019 is coming to Heidelberg
 date: 2018-12-11 14:57:00 Z
-Feature Image: "/uploads/HOT%20Summit%202018.jpg"
+Feature Image: "https://cdn.hotosm.org/website/HOT+Summit+2018.jpg"
 Is image top aligned: true
 Person: Melanie Eckle
 Working Group:
@@ -13,7 +13,7 @@ We are happy to share latest information about the 5th HOT Summit which is next 
 
 After great events in Washington, Brussels, Ottawa and Dar es Salaam, we are very looking forward to gathering again in the heart of Europe and hope you’ll join us there, September 19th and 20th!
 
-![castle.jpg](/uploads/castle.jpg)
+![castle.jpg](https://cdn.hotosm.org/website/castle.jpg)
 
 HOT Summit 2019 as well as the immediately preceding State of the Map, the global OpenStreetMap conference, will be hosted by [Heidelberg University](https://www.geog.uni-heidelberg.de/gis/index_en.html). Therefore, members of the OSM and HOT community will have the chance to visit both events and spend a whole 5 days to mingle, share ideas, discuss current topics- and most importantly Bridge the Map, the theme for the [State of the Map 2019](https://2019.stateofthemap.org/). Find more about the Summit 2019 and get latest updates here.
 

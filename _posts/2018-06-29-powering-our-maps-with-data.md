@@ -1,7 +1,7 @@
 ---
 title: 'Website Update: Powering our maps with data'
 date: 2018-06-29 00:00:00 Z
-Feature Image: "/uploads/hotosm-dot-org-3-compressor.png"
+Feature Image: "https://cdn.hotosm.org/website/hotosm-dot-org-3-compressor.png"
 Person: Ramya Ragupathy
 Working Group:
 - Technical
@@ -19,13 +19,13 @@ With the [fresh new website for HOTOSM](https://www.hotosm.org/updates/a-fresh-l
 
 * Key statistics on mappers & edits to give an overview on the mapping activity within that country through HOT
 
-![country-data](/uploads/data-driven-maps-country.png)
+![country-data](https://cdn.hotosm.org/website/data-driven-maps-country.png)
 
 All the numbers on home page & country page are now collated using [stats-collector](https://github.com/hotosm/stats-collector ) (an [AWS lambda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html) function) that sources numbers from [Missing Maps](https://www.missingmaps.org/) & [Tasking Manager](https://tasks.hotosm.org/) endpoints. These numbers are auto-refreshed once every 6 hours, starting at 12 AM UTC time. This method allows the website to be fast and always showing recent mapping numbers.
 
 While the [Our Work](https://www.hotosm.org/our-work) page lets you navigate to countries, there's also an impact areas section at the bottom of the map view. Clicking on an impact area filters out respective countries in the map view and highlights only related projects in the web page.
 
-![impact-area](/uploads/data-driven-maps-impact-area.gif)
+![impact-area](https://cdn.hotosm.org/website/data-driven-maps-impact-area.gif)
 
 ### In the pipeline
 
