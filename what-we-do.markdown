@@ -21,7 +21,7 @@ Block 2:
   Text: Through the Missing Maps project, the HOT global community creates maps of
     high vulnerability areas where data is scarce, putting millions of people onto
     the world map in OpenStreetMap.
-  Image: "/uploads/Congestion at the Water PumpSmall.jpg"
+  Image: "https://cdn.hotosm.org/website/Congestion+at+the+Water+PumpSmall.jpg"
   Project:
   - 'Infectious diseases: Malaria elimination'
   - Missing Maps
