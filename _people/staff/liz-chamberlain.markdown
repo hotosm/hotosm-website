@@ -1,7 +1,7 @@
 ---
 title: Liz Chamberlain
 date: 2018-09-15 09:25:00 Z
-Photo: "https://cdn.hotosm.org/website/Screen+Shot+2018-09-15+at+12.30.06.png"
+Photo: https://cdn.hotosm.org/website/Screen+Shot+2018-09-15+at+12.30.06.png
 Member Type:
   Is Staff: true
 Job Title: Director of Finance & Operations

@@ -5,7 +5,7 @@ Summary Text: 'The future is here! A fresh frontend with an integrated ID editor
   many new improvements await you.
 
 '
-Feature Image: "https://cdn.hotosm.org/website/blog-post-2-image1.gif"
+Feature Image: https://cdn.hotosm.org/website/blog-post-2-image1.gif
 Is image top aligned: true
 Person:
 - Felix Delattre

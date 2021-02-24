@@ -1,7 +1,7 @@
 ---
 title: HOT Hosted a Mapathon in the State University of Semarang
 date: 2018-05-18 08:18:00 Z
-Feature Image: "https://cdn.hotosm.org/website/IMG_4025.JPG"
+Feature Image: https://cdn.hotosm.org/website/IMG_4025.JPG
 Person: Biondi Sanda Sima
 Country:
 - Indonesia

@@ -4,7 +4,7 @@ date: 2020-12-20 22:01:00 Z
 Summary Text: This year, remote mapping for Quezon City and the Province of Pampanga
   were completed, and a new pilot area, Marikina City, was added. Furthermore, field
   data collection has progressed well in Pampanga despite the pandemic.
-Feature Image: "https://cdn.hotosm.org/website/Brown+Photo+Travel+Facebook+Ad-2.png"
+Feature Image: https://cdn.hotosm.org/website/Brown+Photo+Travel+Facebook+Ad-2.png
 Person:
 - Feye Andal
 - Jikka Defiño

@@ -1,7 +1,7 @@
 ---
 title: Can Unen
 date: 2018-06-01 20:32:00 Z
-Photo: "https://cdn.hotosm.org/website/CanUnen_photo.jpeg"
+Photo: https://cdn.hotosm.org/website/CanUnen_photo.jpeg
 Member Type:
   Is Staff: false
   Is Voting Member: true

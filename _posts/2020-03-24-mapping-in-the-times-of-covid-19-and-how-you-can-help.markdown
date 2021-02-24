@@ -3,7 +3,7 @@ title: Mapping in the Times of COVID-19 and How You Can Help
 date: 2020-03-24 16:57:00 Z
 Summary Text: As the world takes action against the COVID-19 outbreak, here is how
   you can help.
-Feature Image: "https://cdn.hotosm.org/website/Bangladesh_IOM_Rohingya_refugee_camp_Kutupalong_Area_20180424.jpg"
+Feature Image: https://cdn.hotosm.org/website/Bangladesh_IOM_Rohingya_refugee_camp_Kutupalong_Area_20180424.jpg
 Person: Gihan Hassanein
 Country:
 - Global

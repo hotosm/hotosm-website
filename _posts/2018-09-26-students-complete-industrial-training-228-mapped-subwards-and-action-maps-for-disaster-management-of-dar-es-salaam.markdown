@@ -3,7 +3,7 @@ title: Students Complete Industrial Training – 228 Mapped Subwards and Action 
   for Disaster Management of Dar es Salaam
 date: 2018-09-26 14:40:00 Z
 Summary Text: by Hawa Adinani.
-Feature Image: "https://cdn.hotosm.org/website/12.jpeg"
+Feature Image: https://cdn.hotosm.org/website/12.jpeg
 Person: Sıla Alıcı
 Working Group:
 - Community

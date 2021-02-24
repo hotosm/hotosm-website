@@ -1,7 +1,7 @@
 ---
 title: Edgar Lemus Pablo
 date: 2020-07-17 14:29:00 Z
-Photo: "https://cdn.hotosm.org/website/IMG-20170513-WA0002.jpg"
+Photo: https://cdn.hotosm.org/website/IMG-20170513-WA0002.jpg
 Member Type:
   Is Staff: true
 Job Title: Partnerships Associate - Americas

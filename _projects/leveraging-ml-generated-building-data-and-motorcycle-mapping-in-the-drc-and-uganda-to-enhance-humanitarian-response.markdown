@@ -11,7 +11,7 @@ Project Summary Text: 'In combining machine-learning-based algorithms with a mot
   assistance should be delivered.
 
 '
-Feature Image: "https://cdn.hotosm.org/website/DxIJFn5WwAA_GMQ+(1).jpeg"
+Feature Image: https://cdn.hotosm.org/website/DxIJFn5WwAA_GMQ+(1).jpeg
 Country:
 - Democratic Republic of the Congo
 - Uganda

@@ -12,7 +12,7 @@ Summary Text: 'One of the biggest difficulties in establishing an effective and 
   waste management collection and transportation system in Dar es Salaam is how long
   it takes to travel to Pugu dumpsite, the only officially designated solid waste
   dump in the city, and the best route to use. '
-Feature Image: "https://cdn.hotosm.org/website/Map_Final.jpg"
+Feature Image: https://cdn.hotosm.org/website/Map_Final.jpg
 Is image top aligned: true
 Person: Aaron Eubank
 Working Group:

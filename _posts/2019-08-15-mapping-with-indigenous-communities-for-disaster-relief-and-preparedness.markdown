@@ -5,7 +5,7 @@ Summary Text: Melanie Chabot is a GIS Coordinator with the Canadian Red Cross. S
   leads the Missing Maps pilot project in Canada which aims to map areas important
   to indigenous communities and to assist with disaster preparedness and response
   in these areas.
-Feature Image: "https://cdn.hotosm.org/website/IMG_0728-small.JPG"
+Feature Image: https://cdn.hotosm.org/website/IMG_0728-small.JPG
 Person: Melanie Chabot
 Country:
 - Canada

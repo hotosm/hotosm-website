@@ -4,7 +4,7 @@ date: 2015-10-27 17:22:00 Z
 permalink: projects/eastern_afghanistan_earthquake
 position: 111
 Project Summary Text: 'HOT support magnitude 7.5 Eastern Afghanistan Earthquake '
-Feature Image: "https://cdn.hotosm.org/website/EasternAfghanEarthquake.png"
+Feature Image: https://cdn.hotosm.org/website/EasternAfghanEarthquake.png
 Country:
 - Afghanistan
 Impact Area:

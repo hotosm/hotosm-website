@@ -6,7 +6,7 @@ Summary Text: 'From Ghana to Zambia to the Philippines, we take a look at some o
   undermapped regions. The mapping participants are collecting street-level imagery
   to improve things like waste management, natural disaster response, and damaged
   roads, addressing some of the most pressing issues in undermapped regions.'
-Feature Image: "https://cdn.hotosm.org/website/2019-06-20-stephen-team-ghana.jpg"
+Feature Image: https://cdn.hotosm.org/website/2019-06-20-stephen-team-ghana.jpg
 Person: Rebecca Firth
 ---
 

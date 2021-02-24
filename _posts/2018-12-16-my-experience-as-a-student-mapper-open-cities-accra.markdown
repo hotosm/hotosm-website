@@ -1,7 +1,7 @@
 ---
 title: 'My Experience as a Student Mapper: Open Cities Accra'
 date: 2018-12-16 12:10:00 Z
-Feature Image: "https://cdn.hotosm.org/website/02-4337cb.jpg"
+Feature Image: https://cdn.hotosm.org/website/02-4337cb.jpg
 Is image top aligned: true
 Person: David Luswata
 Working Group:

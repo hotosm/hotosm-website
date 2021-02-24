@@ -1,7 +1,7 @@
 ---
 title: Sheila Amalia Burhanudin
 date: 2016-12-15 19:22:00 Z
-Photo: "https://cdn.hotosm.org/website/HOT_ID_Staff_Sheila.png"
+Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Sheila.png
 Member Type:
   Is Staff: true
 Job Title: Technical Specialist

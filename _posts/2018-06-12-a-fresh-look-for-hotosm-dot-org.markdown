@@ -1,7 +1,7 @@
 ---
 title: A fresh look for hotosm.org
 date: 2018-06-12 21:16:00 Z
-Feature Image: "https://cdn.hotosm.org/website/hotosm-dot-org-3-compressor.png"
+Feature Image: https://cdn.hotosm.org/website/hotosm-dot-org-3-compressor.png
 Person: Nate Smith
 Working Group:
 - Technical

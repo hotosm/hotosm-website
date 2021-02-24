@@ -4,7 +4,7 @@ date: 2018-05-01 13:47:00 Z
 permalink: projects/ger-community-map-center-improving-emergency-response-maps
 position: 65
 Project Summary Text: Improving maps for emergency responders
-Feature Image: "https://cdn.hotosm.org/website/IMG_1682+(1).JPG"
+Feature Image: https://cdn.hotosm.org/website/IMG_1682+(1).JPG
 Is Community-Led: true
 Country:
 - Mongolia

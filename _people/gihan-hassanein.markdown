@@ -1,7 +1,7 @@
 ---
 title: Gihan Hassanein
 date: 2020-03-12 22:19:00 Z
-Photo: "https://cdn.hotosm.org/website/Gihan_photo_3.jpg"
+Photo: https://cdn.hotosm.org/website/Gihan_photo_3.jpg
 Member Type:
   Is Staff: true
   Is Media Contact: true

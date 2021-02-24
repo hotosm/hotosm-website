@@ -4,7 +4,7 @@ date: 2018-05-16 07:16:00 Z
 permalink: projects/openstreetmap-benin
 position: 73
 Project Summary Text: Mapping areas at risk of epidemiological crises in Benin
-Feature Image: "https://cdn.hotosm.org/website/WhatsApp+Image+2018-06-08+at+12.34.39+PM+(2).jpeg"
+Feature Image: https://cdn.hotosm.org/website/WhatsApp+Image+2018-06-08+at+12.34.39+PM+(2).jpeg
 Is Community-Led: true
 Country:
 - Benin

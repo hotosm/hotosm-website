@@ -2,7 +2,7 @@
 title: Edoardo Neerhut
 date: 2019-08-05 13:43:00 Z
 published: false
-Photo: "https://cdn.hotosm.org/website/SotM+2016+-+1.jpg"
+Photo: https://cdn.hotosm.org/website/SotM+2016+-+1.jpg
 Country: Australia
 ---
 

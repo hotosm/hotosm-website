@@ -5,7 +5,7 @@ date: 2021-01-06 14:47:00 Z
 Summary Text: Resilience Mappers has built a web dashboard for geospatial data to
   support efforts by the Ugandan government to help residents of low-income communities
   who have been most affected by Covid-19 lockdowns.
-Feature Image: "https://cdn.hotosm.org/website/RM0.png"
+Feature Image: https://cdn.hotosm.org/website/RM0.png
 Person:
 - Resilience Mappers
 - Sophie Mower

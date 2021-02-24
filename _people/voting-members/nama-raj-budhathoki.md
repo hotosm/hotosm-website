@@ -1,7 +1,7 @@
 ---
 title: Nama Raj Budhathoki
 date: 2014-02-03 11:01:00 Z
-Photo: "https://cdn.hotosm.org/website/Nama's+Picture.jpg"
+Photo: https://cdn.hotosm.org/website/Nama's+Picture.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true

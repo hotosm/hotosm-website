@@ -3,7 +3,7 @@ title: HOT Indonesia’s COVID-19 online training platform
 date: 2020-05-26 12:12:00 Z
 Summary Text: On-site training is a regular activity for HOT Indonesia with staff
   traveling across the nation to conduct training sessions
-Feature Image: "https://cdn.hotosm.org/website/AA.png"
+Feature Image: https://cdn.hotosm.org/website/AA.png
 Person: Adhitya Dido
 Working Group:
 - Training

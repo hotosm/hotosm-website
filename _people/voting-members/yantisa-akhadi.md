@@ -1,7 +1,7 @@
 ---
 title: Yantisa Akhadi
 date: 2014-06-16 15:09:00 Z
-Photo: "https://cdn.hotosm.org/website/HOT_ID_Staff_Yantisa.png"
+Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Yantisa.png
 Member Type:
   Is Staff: false
   Is Voting Member: true

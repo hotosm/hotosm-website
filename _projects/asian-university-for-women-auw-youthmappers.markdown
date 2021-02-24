@@ -5,7 +5,7 @@ permalink: projects/asian-university-for-women-auw-youthmappers
 position: 72
 Project Summary Text: An all female mapping group push for improved water & sanitation
   in Bangladesh
-Feature Image: "https://cdn.hotosm.org/website/DSC9754.JPG"
+Feature Image: https://cdn.hotosm.org/website/DSC9754.JPG
 Is Community-Led: true
 Country:
 - Bangladesh

@@ -1,7 +1,7 @@
 ---
 title: 'Participatory Mapping Toolkit: A Guide For Refugee Contexts'
 date: 2018-10-17 09:51:00 Z
-Feature Image: "https://cdn.hotosm.org/website/Copy%20of%20Copy%20of%20Etsy%20Cover%20Photo%20%E2%80%93%20Untitled%20Design.png"
+Feature Image: https://cdn.hotosm.org/website/Copy%20of%20Copy%20of%20Etsy%20Cover%20Photo%20%E2%80%93%20Untitled%20Design.png
 Person: William Evans
 Country:
 - Uganda

@@ -11,7 +11,7 @@ Summary Text: Is your local OpenStreetMap community mapping to improve lives? We
   have a microgrant for you! Pitch your project and be in for a chance to receive
   funding as part of HOT’s annual fundraising campaign to support global OpenStreetMap
   communities.
-Feature Image: "https://cdn.hotosm.org/website/Code+for+Africa+(1)-217334.jpg"
+Feature Image: https://cdn.hotosm.org/website/Code+for+Africa+(1)-217334.jpg
 Person: Rebecca Firth
 Working Group:
 - Community

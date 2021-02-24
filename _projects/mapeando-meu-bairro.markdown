@@ -4,7 +4,7 @@ date: 2018-05-01 13:56:00 Z
 permalink: projects/mapeando-meu-bairro
 position: 55
 Project Summary Text: Preserving cultural heritage
-Feature Image: "https://cdn.hotosm.org/website/reading+field+papers+(blog).jpg"
+Feature Image: https://cdn.hotosm.org/website/reading+field+papers+(blog).jpg
 Is Community-Led: true
 Country:
 - Mozambique

@@ -7,7 +7,7 @@ Summary Text: In February 2020, HOT with support from the Response Innovation La
   retail shops in Bidibidi settlement to better understand the existing market and
   inform the improvement of access to quality energy-saving products amongst the refugee
   population.
-Feature Image: "https://cdn.hotosm.org/website/header.jpg"
+Feature Image: https://cdn.hotosm.org/website/header.jpg
 Person:
 - Sara Amadi
 - Shamilah Ssekandi Nassozi

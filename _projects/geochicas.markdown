@@ -5,7 +5,7 @@ permalink: projects/geochicas
 position: 50
 Project Summary Text: Mapping gender violence and inequalities in the aftermath of
   a disaster
-Feature Image: "https://cdn.hotosm.org/website/GeoChicas_-_SotM_Latam_2016_(30742065444)-f43c1a.jpg"
+Feature Image: https://cdn.hotosm.org/website/GeoChicas_-_SotM_Latam_2016_(30742065444)-f43c1a.jpg
 Is Community-Led: true
 Country:
 - Mexico

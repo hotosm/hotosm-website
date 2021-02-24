@@ -4,7 +4,7 @@ title: Using OpenStreetMap Data to Support Emergency Ambulance Response Service 
 date: 2020-12-29 19:30:00 Z
 Summary Text: Humanitarian Mappers of Nigeria is using collaborative mapping to track
   Covid and improve ambulance services in a region already facing insecurity and conflict.
-Feature Image: "https://cdn.hotosm.org/website/HM1.jpg"
+Feature Image: https://cdn.hotosm.org/website/HM1.jpg
 Person:
 - Kazeem Owolabi
 - Sophie Mower

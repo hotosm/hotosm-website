@@ -5,7 +5,7 @@ Summary Text: 'How do humanitarians use the data and maps provided by HOT and Op
   Lauren Bateman, Remote Coordinator for Information Management Team for Cyclone Idai
   Response, American Red Cross, talks about how the IFRC used the maps on the ground
   during Cyclone Idai. '
-Feature Image: "https://cdn.hotosm.org/website/Idai.jpg"
+Feature Image: https://cdn.hotosm.org/website/Idai.jpg
 Person: Alex Glynn
 Working Group:
 - Activation

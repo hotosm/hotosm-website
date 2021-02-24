@@ -1,7 +1,7 @@
 ---
 title: Harry Mahardhika Machmud
 date: 2016-06-15 03:26:00 Z
-Photo: "https://cdn.hotosm.org/website/HOT_ID_Staff_Harry.png"
+Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Harry.png
 Member Type:
   Is Staff: true
   Is Voting Member: true

@@ -13,7 +13,7 @@ Summary Text: 'We''ve updated the Export Tool! It''s now even easier to deliver 
   and captures how people are using it, so we can further tailor it to users'' needs.
 
 '
-Feature Image: "https://cdn.hotosm.org/website/Export+Tool+Blog+1.png"
+Feature Image: https://cdn.hotosm.org/website/Export+Tool+Blog+1.png
 Is image top aligned: true
 Person: Mhairi O'Hara
 Working Group:

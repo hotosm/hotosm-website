@@ -1,7 +1,7 @@
 ---
 title: Arnalie Vicario
 date: 2020-05-20 17:00:00 Z
-Photo: "https://cdn.hotosm.org/website/Arnalie+headshot.jpg"
+Photo: https://cdn.hotosm.org/website/Arnalie+headshot.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true

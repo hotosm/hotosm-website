@@ -5,7 +5,7 @@ Project Summary Text: What did we learn from the disaster activations of 2020? W
   explore that question in the context of five of the largest disaster activations
   of 2020 in this new graphic, and we share ways you can take part in disaster mapping
   efforts.
-Feature Image: "https://cdn.hotosm.org/website/world.png"
+Feature Image: https://cdn.hotosm.org/website/world.png
 Impact Area:
 - Disaster Response
 Person:

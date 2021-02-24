@@ -9,7 +9,7 @@ tags:
 Summary Text: 'Applications open! Up to $5000 is available for OpenStreetMap (OSM)
   community projects that directly support, contribute, or respond to local humanitarian/development
   challenges. '
-Feature Image: "https://cdn.hotosm.org/website/FB+Community+Impact+MGs_v2+(1).png"
+Feature Image: https://cdn.hotosm.org/website/FB+Community+Impact+MGs_v2+(1).png
 Person: Sophie Mower
 Working Group:
 - Community

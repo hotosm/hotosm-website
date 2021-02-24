@@ -5,7 +5,7 @@ Summary Text: 'From September to November 2020, HOT Indonesia organized a mappin
   design competition called LOKAVISTA for university students across the nation. Our
   mission was simple: to increase the public awareness that OpenStreetMap data can
   be utilized for many purposes and different aspects of life. '
-Feature Image: "https://cdn.hotosm.org/website/banner+image.png"
+Feature Image: https://cdn.hotosm.org/website/banner+image.png
 Is image top aligned: true
 Person: Adhitya Dido Widyanto
 Country:

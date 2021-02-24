@@ -3,7 +3,7 @@ title: Crowdmapping in the Midst of a Pandemic (by Map Kibera)
 date: 2020-12-21 08:02:00 Z
 Summary Text: Map Kibera shares their experience crowdmapping during the Covid-19
   pandemic to create public health data in Kenya.
-Feature Image: "https://cdn.hotosm.org/website/Screenshot+2020-12-21+090226.jpg"
+Feature Image: https://cdn.hotosm.org/website/Screenshot+2020-12-21+090226.jpg
 Is image top aligned: true
 Person:
 - Peter Agenga

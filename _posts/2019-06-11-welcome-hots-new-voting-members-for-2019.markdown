@@ -4,7 +4,7 @@ date: 2019-06-11 15:01:00 Z
 Summary Text: We are excited to announce 38 new HOT Voting Members! Each year, existing
   HOT voting members nominate new key contributors from our community to become Voting
   Members and act as local representatives of HOT’s global network.
-Feature Image: "https://cdn.hotosm.org/website/hot-summit-group-wave-7e914b.JPG"
+Feature Image: https://cdn.hotosm.org/website/hot-summit-group-wave-7e914b.JPG
 Person: Tyler Radford
 ---
 

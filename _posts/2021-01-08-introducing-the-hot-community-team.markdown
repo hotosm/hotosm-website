@@ -4,7 +4,7 @@ date: 2021-01-08 12:27:00 Z
 Summary Text: Over the past few months, HOT has assembled a six-person community team
   to support humanitarian OpenStreetMap community growth across 94 countries. Meet
   the members and welcome them to the HOT staff team.
-Feature Image: "https://cdn.hotosm.org/website/Community+Team+Members_lowres.png"
+Feature Image: https://cdn.hotosm.org/website/Community+Team+Members_lowres.png
 Person:
 - Rebecca Firth
 - Geoffrey Kateregga

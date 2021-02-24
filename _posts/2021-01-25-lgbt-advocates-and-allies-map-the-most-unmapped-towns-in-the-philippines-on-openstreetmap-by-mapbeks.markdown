@@ -5,7 +5,7 @@ date: 2021-01-25 08:33:00 Z
 Summary Text: With support from a Facebook Community Impact Microgrant, MapBeks and
   the Philippine mapping community have been working to map the most remote and unmapped
   towns in the Philippines.
-Feature Image: "https://cdn.hotosm.org/website/Screenshot+2021-01-25+094340.png"
+Feature Image: https://cdn.hotosm.org/website/Screenshot+2021-01-25+094340.png
 Is image top aligned: true
 Person: MapBeks
 Country:

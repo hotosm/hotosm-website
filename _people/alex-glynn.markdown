@@ -2,7 +2,7 @@
 title: Alex Glynn
 date: 2019-03-28 01:20:00 Z
 published: false
-Photo: "https://cdn.hotosm.org/website/AG_1-1.jpg"
+Photo: https://cdn.hotosm.org/website/AG_1-1.jpg
 Member Type:
   Is Staff: false
 Job Title: Senior Communications Specialist

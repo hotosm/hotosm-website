@@ -1,7 +1,7 @@
 ---
 title: Antoni Ros Martinez
 date: 2020-07-27 06:14:00 Z
-Photo: "https://cdn.hotosm.org/website/RosMartinezA_ProfPicCropped-1e3f66.jpg"
+Photo: https://cdn.hotosm.org/website/RosMartinezA_ProfPicCropped-1e3f66.jpg
 Member Type:
   Is Staff: true
 Job Title: Disaster Services Program Manager

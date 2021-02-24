@@ -7,7 +7,7 @@ Summary Text: At HOT, we’re constantly looking to improve our tools to address
   to continue to help humanitarian partners get the data they need. We continue to
   update and develop the Export Tool as we attempt to provide our users with the best
   possible experience and answer a wider variety of their needs.
-Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2019-08-06+at+17.58.06.png"
+Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2019-08-06+at+17.58.06.png
 Person: Mhairi O'Hara
 Working Group:
 - Technical

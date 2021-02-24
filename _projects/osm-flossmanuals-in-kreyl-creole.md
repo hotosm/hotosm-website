@@ -5,7 +5,7 @@ permalink: projects/osm_flossmanuals_in_kreyòl_creole
 published: false
 position: 95
 Project Summary Text: Booksprint to create a Kreyol OSM manual for the Haitian community
-Feature Image: "https://cdn.hotosm.org/website/P1210301.jpg"
+Feature Image: https://cdn.hotosm.org/website/P1210301.jpg
 Country:
 - Haiti
 Person:

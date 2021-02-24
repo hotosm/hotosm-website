@@ -5,7 +5,7 @@ position: 13
 Project Summary Text: OSM South Sudan will become the first OpenStreetMap community
   in the country, training individuals both in South Sudan, and South Sudanese refugees
   in Uganda, to map settlements affected by flooding.
-Feature Image: "https://cdn.hotosm.org/website/Flooding+in+Nadapal,+Kapoeta+State,+Eastern+Equatorial-05e5b0.jpg"
+Feature Image: https://cdn.hotosm.org/website/Flooding+in+Nadapal,+Kapoeta+State,+Eastern+Equatorial-05e5b0.jpg
 Is Community-Led: true
 Country:
 - South Sudan

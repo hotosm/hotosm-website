@@ -11,7 +11,7 @@ Summary Text: Humanitarian OpenStreetMap Team has completed mapping Semarang, th
   a home to over 1,5 million people, Semarang is the fifth largest city in Indonesia.
   The city's unique topography-- coastal lowland to the north and bumpy highlands
   to the south--makes it particularly prone to tidal flood and landslides.
-Feature Image: "https://cdn.hotosm.org/website/DSC_1483.JPG"
+Feature Image: https://cdn.hotosm.org/website/DSC_1483.JPG
 Country:
 - Indonesia
 Project:

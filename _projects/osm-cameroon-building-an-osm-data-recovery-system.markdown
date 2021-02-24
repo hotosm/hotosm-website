@@ -4,7 +4,7 @@ date: 2019-05-02 12:00:00 Z
 position: 24
 Project Summary Text: Creating a free provision of GitHub for OSM Communities of surrounding
   African countries to have an OSM data recovery infrastructure
-Feature Image: "https://cdn.hotosm.org/website/OSM+Cameroun.jpg"
+Feature Image: https://cdn.hotosm.org/website/OSM+Cameroun.jpg
 Is Community-Led: true
 Country:
 - Cameroon

@@ -2,7 +2,7 @@
 title: Sıla Alıcı
 date: 2018-09-10 14:24:00 Z
 published: false
-Photo: "https://cdn.hotosm.org/website/sila2.jpg"
+Photo: https://cdn.hotosm.org/website/sila2.jpg
 Member Type:
   Is Staff: false
 Job Title: Communications Manager

@@ -12,7 +12,7 @@ tags:
 - analytics
 - malaria
 - Botswana
-Feature Image: "https://cdn.hotosm.org/website/OpenStreetMap+Analytics+for+Health+2018-05-28+18-41-01.png"
+Feature Image: https://cdn.hotosm.org/website/OpenStreetMap+Analytics+for+Health+2018-05-28+18-41-01.png
 Person: Alyssa Wright
 Country:
 - Botswana

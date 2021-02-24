@@ -7,7 +7,7 @@ Summary Text: HOT and KLL set out on site visits across Kathmandu to assess the 
   and new industrial. KLL will remotely digitise all the building footprints within
   the homogenous zones, before collecting detailed attribute information on the ground
   for a select sample of these buildings.
-Feature Image: "https://cdn.hotosm.org/website/IMG_8247.jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG_8247.jpg
 Person: Mhairi O'Hara
 Country:
 - Nepal

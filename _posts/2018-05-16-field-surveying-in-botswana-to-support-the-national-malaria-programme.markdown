@@ -1,7 +1,7 @@
 ---
 title: Field surveying in Botswana to support the National Malaria Programme
 date: 2018-05-16 08:10:00 Z
-Feature Image: "https://cdn.hotosm.org/website/IMG_20180418_121003_cr.jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG_20180418_121003_cr.jpg
 Person: Paul Uithol
 Country:
 - Botswana

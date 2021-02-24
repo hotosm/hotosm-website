@@ -17,7 +17,6 @@ Project:
 created: 1446090332
 ---
 
-
 Since the Humanitarian OpenStreetMap Team (HOT) officially activated on the 27th October, the team has been working hard to evaluate the mapping needs in response to the Eastern Afghanistan earthquake. There are two Tasking Manager projects set up in an effort to map key affected areas.
 
 Since the Humanitarian OpenStreetMap Team (HOT) officially activated on the 27th October, the team has been working hard to evaluate the mapping needs in response to the Eastern Afghanistan earthquake. There are two Tasking Manager projects set up in an effort to map key affected areas:

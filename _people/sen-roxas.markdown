@@ -1,7 +1,7 @@
 ---
 title: Sen Roxas
 date: 2020-03-17 02:38:00 Z
-Photo: "https://cdn.hotosm.org/website/HOT_PH05.png"
+Photo: https://cdn.hotosm.org/website/HOT_PH05.png
 Member Type:
   Is Staff: true
 Job Title: Training Manager

@@ -1,7 +1,7 @@
 ---
 title: Lauren Burrows
 date: 2020-11-03 11:48:00 Z
-Photo: "https://cdn.hotosm.org/website/LBurrows+photo+Nov+2020.jpeg"
+Photo: https://cdn.hotosm.org/website/LBurrows+photo+Nov+2020.jpeg
 Member Type:
   Is Staff: true
 Job Title: Global Monitoring, Evaluation, Research, and Learning Manager

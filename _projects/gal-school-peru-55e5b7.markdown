@@ -5,7 +5,7 @@ permalink: projects/gal-school-peru-55e5b7
 position: 82
 Project Summary Text: GAL School is empowering students to develop projects for social
   good through OpenStreetMap and other digital tools.
-Feature Image: "https://cdn.hotosm.org/website/IMG_3538.JPG"
+Feature Image: https://cdn.hotosm.org/website/IMG_3538.JPG
 Is Community-Led: true
 Country:
 - Peru

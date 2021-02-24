@@ -3,7 +3,7 @@ title: 'HOT Microgrants 2019: The Highlights'
 date: 2020-07-13 13:07:00 Z
 Summary Text: In 2019, HOT provided Microgrants to eight local, regional, and national
   organizations around the world. Here are some highlights of their work.
-Feature Image: "https://cdn.hotosm.org/website/Code+for+Africa+2019+Microgrant.jpg"
+Feature Image: https://cdn.hotosm.org/website/Code+for+Africa+2019+Microgrant.jpg
 Person:
 - Geoffrey Kateregga
 - Benjamin Dills

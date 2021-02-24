@@ -5,7 +5,7 @@ date: 2020-10-23 12:00:00 Z
 Summary Text: In celebration of IDDRR, HOT Philippines shares more of the fieldwork
   they are conducting in Pampanga — including coordinating with LGUs, training volunteers,
   and collecting field data.
-Feature Image: "https://cdn.hotosm.org/website/Newsletter-88fa7c.png"
+Feature Image: https://cdn.hotosm.org/website/Newsletter-88fa7c.png
 Person: Jikka Defiño
 Working Group:
 - Communications

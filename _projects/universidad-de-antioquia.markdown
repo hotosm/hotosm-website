@@ -4,7 +4,7 @@ date: 2018-05-16 07:34:00 Z
 permalink: projects/universidad-de-antioquia
 position: 58
 Project Summary Text: Mapping coastal wetlands for climate change resilience
-Feature Image: "https://cdn.hotosm.org/website/Final+field+workshop+stakeholders+3.JPG"
+Feature Image: https://cdn.hotosm.org/website/Final+field+workshop+stakeholders+3.JPG
 Is Community-Led: true
 Country:
 - Colombia

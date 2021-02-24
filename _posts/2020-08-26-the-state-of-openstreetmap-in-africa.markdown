@@ -5,7 +5,7 @@ Summary Text: 'In the run-up to the 2020 State of the Map conference, OSM Africa
   OpenStreetMap community leaders across the continent. Geoffrey Kateregga looks at
   the results and offers a deep dive into the state and trajectory of OpenStreetMap
   communities in Africa. '
-Feature Image: "https://cdn.hotosm.org/website/Africa+Nodes+Map.png"
+Feature Image: https://cdn.hotosm.org/website/Africa+Nodes+Map.png
 Person: Geoffrey Kateregga
 Working Group:
 - Community

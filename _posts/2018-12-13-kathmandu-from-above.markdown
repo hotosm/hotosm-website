@@ -4,7 +4,7 @@ date: 2018-12-13 15:58:00 Z
 Summary Text: Guest blog by Gaurav Thapa from Kathmandu Living Labs. Covering the
   digitisation process carried out by the team for mapping building footprints in
   Kathmandu Valley, Nepal as part of the METEOR project.
-Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2018-12-13+at+08.06.34-ea3319.png"
+Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2018-12-13+at+08.06.34-ea3319.png
 Person: Mhairi O'Hara
 Country:
 - Nepal

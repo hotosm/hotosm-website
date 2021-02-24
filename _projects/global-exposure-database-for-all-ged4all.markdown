@@ -6,7 +6,7 @@ position: 53
 Project Summary Text: HOT has partnered with the Global Earthquake Model (GEM) and
   ImageCat on a Challenge Fund, focused on developing a global exposure database designed
   for multi-hazard risk analysis.
-Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2018-06-08+at+12.17.26+1.png"
+Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2018-06-08+at+12.17.26+1.png
 Country:
 - Global
 Impact Area:

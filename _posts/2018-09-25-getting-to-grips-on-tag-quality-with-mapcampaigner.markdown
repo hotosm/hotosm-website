@@ -3,7 +3,7 @@ title: Getting to grips on tag quality with MapCampaigner
 date: 2018-09-25 08:20:00 Z
 Summary Text: Last year at State of the Map in Boulder we announced a new tool called
   MapCampaigner. Today we're opening it up to anyone to create campaigns.
-Feature Image: "https://cdn.hotosm.org/website/mapcampaigner-landing.png"
+Feature Image: https://cdn.hotosm.org/website/mapcampaigner-landing.png
 Is image top aligned: true
 Person: Nate Smith
 Working Group:

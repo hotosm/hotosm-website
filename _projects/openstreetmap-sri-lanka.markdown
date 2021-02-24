@@ -5,7 +5,7 @@ permalink: projects/openstreetmap-sri-lanka
 position: 71
 Project Summary Text: Building detailed maps of Sri Lanka for emergency response during
   natural disasters
-Feature Image: "https://cdn.hotosm.org/website/6.jpg"
+Feature Image: https://cdn.hotosm.org/website/6.jpg
 Is Community-Led: true
 Country:
 - Sri Lanka

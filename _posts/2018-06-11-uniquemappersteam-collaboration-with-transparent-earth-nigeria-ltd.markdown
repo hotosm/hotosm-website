@@ -1,7 +1,7 @@
 ---
 title: UniqueMappersTeam Collaboration with Transparent Earth Nigeria Ltd.
 date: 2018-06-11 09:38:00 Z
-Feature Image: "https://cdn.hotosm.org/website/1a.jpg"
+Feature Image: https://cdn.hotosm.org/website/1a.jpg
 Country:
 - Nigeria
 Project:

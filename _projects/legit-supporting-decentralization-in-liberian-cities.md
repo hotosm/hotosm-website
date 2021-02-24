@@ -7,7 +7,7 @@ Project Summary Text: HOT’s objectives within The Liberia Local Empowerment fo
   Inclusion and Transparency (LEGIT) program are to map administrative boundaries
   and service delivery infrastructure to support the development of urban resilience
   strategies.
-Feature Image: "https://cdn.hotosm.org/website/IMG_20170220_122606+(1).jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG_20170220_122606+(1).jpg
 Country:
 - Liberia
 Impact Area:

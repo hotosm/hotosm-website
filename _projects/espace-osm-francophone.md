@@ -7,7 +7,7 @@ position: 96
 Project Summary Text: In 2013, the Espace OSM Francophone project began consolidating
   OSM communities in Chad and Senegal and initiating OSM projects in Togo and Burkina
   Faso.
-Feature Image: "https://cdn.hotosm.org/website/P1000157_0.jpg"
+Feature Image: https://cdn.hotosm.org/website/P1000157_0.jpg
 Person:
 - Jorieke Vyncke
 - Ismaila SEYE

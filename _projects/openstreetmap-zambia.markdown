@@ -4,7 +4,7 @@ date: 2018-06-05 23:01:00 Z
 permalink: projects/openstreetmap-zambia
 position: 49
 Project Summary Text: Mapping to support water & sanitation initiatives in Zambia
-Feature Image: "https://cdn.hotosm.org/website/zambiaphoto.PNG"
+Feature Image: https://cdn.hotosm.org/website/zambiaphoto.PNG
 Is image top aligned: true
 Is Community-Led: true
 Country:

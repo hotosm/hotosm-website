@@ -5,7 +5,7 @@ permalink: projects/data-zetu
 position: 43
 Project Summary Text: Using community mapping methods to improve HIV services and
   access to public health facilities in Dar es Salaam and Mbeya.
-Feature Image: "https://cdn.hotosm.org/website/IMG_1137.JPG"
+Feature Image: https://cdn.hotosm.org/website/IMG_1137.JPG
 Is Community-Led: false
 Country:
 - Tanzania

@@ -5,7 +5,7 @@ date: 2020-11-05 14:51:00 Z
 Summary Text: 'Ramani Huria has been training students in Dar es Salaam and equipping
   them with industrial and technical skills for the 21st Century while generating
   vital high-precision, low-cost data for flood prediction and preparedness. '
-Feature Image: "https://cdn.hotosm.org/website/TZ+Nov+2020+1A.jpg"
+Feature Image: https://cdn.hotosm.org/website/TZ+Nov+2020+1A.jpg
 Person: Hawa Adinani
 Country:
 - Tanzania

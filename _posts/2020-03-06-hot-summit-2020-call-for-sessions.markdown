@@ -6,7 +6,7 @@ Summary Text: We’re excited to announce that for the 6th HOT Summit in beautif
   Town, South Africa, we will be celebrating our 10th anniversary of using OpenStreetMap
   to help our partners save and improve lives. This year’s Summit will focus on the
   theme of HOT’s past, present, and future.
-Feature Image: "https://cdn.hotosm.org/website/Summit+2019+Group+Pic+(closer).JPG"
+Feature Image: https://cdn.hotosm.org/website/Summit+2019+Group+Pic+(closer).JPG
 Person: Jess Beutler
 ---
 

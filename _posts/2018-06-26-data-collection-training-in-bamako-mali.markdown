@@ -2,7 +2,7 @@
 title: Data Collection Training in Bamako, Mali
 date: 2018-06-26 10:32:00 Z
 Summary Text: Data collection training in Bamako, Mali
-Feature Image: "https://cdn.hotosm.org/website/P_20180623_123431.jpg"
+Feature Image: https://cdn.hotosm.org/website/P_20180623_123431.jpg
 Person: Nathalie Sidibe
 Working Group:
 - Community

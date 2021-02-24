@@ -4,7 +4,7 @@ date: 2018-06-05 09:14:00 Z
 permalink: projects/osm-bangladesh-clean-dhaka-smart-dhaka
 position: 62
 Project Summary Text: Improving waste management in Dhaka
-Feature Image: "https://cdn.hotosm.org/website/IMG_20180408_121822+(1).jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG_20180408_121822+(1).jpg
 Is Community-Led: true
 Country:
 - Bangladesh

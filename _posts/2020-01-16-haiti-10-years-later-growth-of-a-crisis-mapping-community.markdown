@@ -6,7 +6,7 @@ tags:
 - OpenStreetMap
 - Earthquake
 - humanitarian
-Feature Image: "https://cdn.hotosm.org/website/Haiti+(1)-205990.png"
+Feature Image: https://cdn.hotosm.org/website/Haiti+(1)-205990.png
 Person: Tyler Radford
 Country:
 - Haiti

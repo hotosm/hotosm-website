@@ -5,7 +5,7 @@ position: 2
 Project Summary Text: 'Since January 2019, HOT is partnering with Kaart, Yer Çizenler
   and GeoPerformans aiming to improve the quality and accuracy of the road networks
   of Turkey and Greece on OpenStreetMap. '
-Feature Image: "https://cdn.hotosm.org/website/Validation+With+Street-Level+Imagery-0e7bb4.jpeg"
+Feature Image: https://cdn.hotosm.org/website/Validation+With+Street-Level+Imagery-0e7bb4.jpeg
 Is Community-Led: false
 Country:
 - Turkey

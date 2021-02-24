@@ -3,7 +3,7 @@ title: '2019 HOT Microgrants Program: empowering local OpenStreetMap communities
 date: 2019-01-25 21:43:00 Z
 Summary Text: HOT invites communities to submit their applications for the 2019 Microgrants
   program.
-Feature Image: "https://cdn.hotosm.org/website/mapthedifference.png"
+Feature Image: https://cdn.hotosm.org/website/mapthedifference.png
 Person:
 - Rebecca Firth
 - Jessica Bergmann

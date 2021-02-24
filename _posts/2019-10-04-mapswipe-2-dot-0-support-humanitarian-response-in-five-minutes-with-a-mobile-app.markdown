@@ -5,7 +5,7 @@ date: 2019-10-04 12:20:00 Z
 Summary Text: With two new projects types and an improved user experience, MapSwipe
   is making it easier than ever for volunteers to get involved in mapping, one swipe
   at a time.
-Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2019-10-04+at+2.16.44+PM.png"
+Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2019-10-04+at+2.16.44+PM.png
 Person: Jessica Bergmann
 ---
 

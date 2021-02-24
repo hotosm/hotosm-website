@@ -7,7 +7,7 @@ Project Summary Text: 'Building on the work conducted during the Open Cities Afr
   Monrovia project (2018-2019), HOT and iLab Liberia will contribute to the development
   of operational machine learning (ML) methods to improve both the scale and speed
   of the participatory mapping workflow. '
-Feature Image: "https://cdn.hotosm.org/website/cover.jpeg"
+Feature Image: https://cdn.hotosm.org/website/cover.jpeg
 Country:
 - Liberia
 Impact Area:

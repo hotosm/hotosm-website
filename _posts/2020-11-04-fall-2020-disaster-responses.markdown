@@ -4,7 +4,7 @@ date: 2020-11-04 12:53:00 Z
 Summary Text: Through the Activation Working Group and the Disaster Services Team,
   HOT has been responding to disasters around the world. Here's what you can do to
   help.
-Feature Image: "https://cdn.hotosm.org/website/Q4Disasters2020.PNG"
+Feature Image: https://cdn.hotosm.org/website/Q4Disasters2020.PNG
 Person:
 - Disaster Services Team
 - Russell Deffner

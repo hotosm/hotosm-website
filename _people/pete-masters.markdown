@@ -1,7 +1,7 @@
 ---
 title: Pete Masters
 date: 2020-10-29 21:13:00 Z
-Photo: "https://cdn.hotosm.org/website/WIN_20201026_20_52_07_Pro.jpg"
+Photo: https://cdn.hotosm.org/website/WIN_20201026_20_52_07_Pro.jpg
 Member Type:
   Is Staff: true
 Job Title: Head of Community

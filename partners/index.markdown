@@ -23,7 +23,7 @@ block-1:
     commitment to disasters, health crises, refugee response, and the SDGs through
     mapping.
   Action-text: Learn More
-  Image: "https://cdn.hotosm.org/website/missingmaps-mapathon.jpg"
+  Image: https://cdn.hotosm.org/website/missingmaps-mapathon.jpg
   Link: "/partners/volunteer-engagement"
 block-2:
   Title: Generate critical geospatial data quickly and at scale
@@ -32,7 +32,7 @@ block-2:
     collectors to gather data on the places they live and work, ensuring data accuracy,
     and enabling you to answer different questions through hyper-local knowledge.
   Action-text: Learn More
-  Image: "https://cdn.hotosm.org/website/botswana-field-data-collection.jpg"
+  Image: https://cdn.hotosm.org/website/botswana-field-data-collection.jpg
   Link: "/partners/field-data-collection"
 block-3:
   Title: Strengthen geospatial data science literacy, usage and analysis
@@ -40,7 +40,7 @@ block-3:
     your organisation’s potential to harness geospatial and citizen-generated data.
     This can help augment and refine official datasets.
   Action-text: Learn More
-  Image: "https://cdn.hotosm.org/website/moses-github.jpg"
+  Image: https://cdn.hotosm.org/website/moses-github.jpg
   Link: "/partners/technology-and-training"
 layout: partner
 ---

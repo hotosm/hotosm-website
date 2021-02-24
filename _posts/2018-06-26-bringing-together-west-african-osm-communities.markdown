@@ -3,7 +3,7 @@ title: 'Bringing together West African OSM communities: OSM & GIS workshops in L
   Togo'
 date: 2018-06-26 06:52:00 Z
 Summary Text: OSM & GIS worshops in Togo in May 2018
-Feature Image: "https://cdn.hotosm.org/website/IMG-20180525-WA0074.jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG-20180525-WA0074.jpg
 Person: Nathalie Sidibe
 Working Group:
 - Community

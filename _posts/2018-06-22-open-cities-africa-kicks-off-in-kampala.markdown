@@ -1,7 +1,7 @@
 ---
 title: Open Cities Africa Kicks off in Kampala
 date: 2018-06-22 08:53:00 Z
-Feature Image: "https://cdn.hotosm.org/website/opencities-training-1.JPG"
+Feature Image: https://cdn.hotosm.org/website/opencities-training-1.JPG
 Person:
 - Paul Uithol
 - Nate Smith

@@ -1,7 +1,7 @@
 ---
 title: Camila Garzon-Ruiz
 date: 2021-01-05 09:02:00 Z
-Photo: "https://cdn.hotosm.org/website/Picture.jpg"
+Photo: https://cdn.hotosm.org/website/Picture.jpg
 Member Type:
   Is Staff: true
 Job Title: Proposal Development Manager

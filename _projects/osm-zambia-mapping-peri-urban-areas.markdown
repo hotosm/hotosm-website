@@ -4,7 +4,7 @@ date: 2018-05-01 23:40:00 Z
 permalink: projects/osm-zambia-mapping-peri-urban-areas
 position: 51
 Project Summary Text: Improving basemaps of peri-urban areas in Zambia
-Feature Image: "https://cdn.hotosm.org/website/20170822_161710-5549cc.jpg"
+Feature Image: https://cdn.hotosm.org/website/20170822_161710-5549cc.jpg
 Is Community-Led: true
 Country:
 - Zambia

@@ -7,7 +7,7 @@ Project Summary Text: 'HOT is contributing to the development of PhilAWARE, a cu
   making in the Philippines.
 
 '
-Feature Image: "https://cdn.hotosm.org/website/Field%20Mapping%20Training%20in%20UP%20Los%20Ban%CC%83os.jpg"
+Feature Image: https://cdn.hotosm.org/website/Field%20Mapping%20Training%20in%20UP%20Los%20Ban%CC%83os.jpg
 Country:
 - Philippines
 Person:

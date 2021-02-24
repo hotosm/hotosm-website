@@ -5,7 +5,7 @@ Summary Text: 'We are very close to the end of 2020. Pacific Disaster Center (PD
   Indonesia has many magnificent stories to share and activities that we have accomplished
   in 2020. We have categorized our activities into three different categories: Capacity
   Development, COVID-19 Response, Community Engagement.'
-Feature Image: "https://cdn.hotosm.org/website/20200218_111547.jpg"
+Feature Image: https://cdn.hotosm.org/website/20200218_111547.jpg
 Person: Adhitya Dido Widyanto
 Country:
 - Indonesia

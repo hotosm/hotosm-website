@@ -3,7 +3,7 @@ title: What is new in Tasking Manager 4.1
 date: 2020-08-10 07:30:00 Z
 Summary Text: Tasking Manager is in constant improvement. Take a look at the new features
   available in the 4.1 version.
-Feature Image: "https://cdn.hotosm.org/website/tm_4_1-featured.png"
+Feature Image: https://cdn.hotosm.org/website/tm_4_1-featured.png
 Person:
 - Wille Marcel
 ---

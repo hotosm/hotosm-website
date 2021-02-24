@@ -5,7 +5,7 @@ Summary Text: HOT’s Audacious Vision is to map an area home to one billion peo
   living in poverty and at high risk of disasters by engaging mappers around the world
   to massively grow the number of local edits to the map. To kickstart planning, HOT’s
   Community Team has hosted a series of workshops to understand community perspectives.
-Feature Image: "https://cdn.hotosm.org/website/Deo+Supporting+Local+Mapping+Communities+Feedback.JPG"
+Feature Image: https://cdn.hotosm.org/website/Deo+Supporting+Local+Mapping+Communities+Feedback.JPG
 Person:
 - Rebecca Firth
 - Geoffrey Kateregga

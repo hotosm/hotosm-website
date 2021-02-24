@@ -1,7 +1,7 @@
 ---
 title: Teia Rogers
 date: 2021-01-05 10:45:00 Z
-Photo: "https://cdn.hotosm.org/website/Profile+Photo.png"
+Photo: https://cdn.hotosm.org/website/Profile+Photo.png
 Member Type:
   Is Staff: true
 Job Title: 'Senior Manager: Program Planning'

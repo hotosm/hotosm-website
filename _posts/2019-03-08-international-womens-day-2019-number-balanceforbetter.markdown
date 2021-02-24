@@ -5,7 +5,7 @@ Summary Text: HOT celebrates work to improve gender inclusion across OpenStreetM
   While no country in the world has achieved gender parity, inequality is particularly
   extreme in many of the places HOT works. Scroll on to see how you can get involved,
   and see our highlights from the past year.
-Feature Image: "https://cdn.hotosm.org/website/InternationalWomensDay-landscape-purpleonwhite-242b5d.jpg"
+Feature Image: https://cdn.hotosm.org/website/InternationalWomensDay-landscape-purpleonwhite-242b5d.jpg
 Person: Rebecca Firth
 Working Group:
 - Community

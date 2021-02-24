@@ -7,7 +7,7 @@ Project Summary Text: "HOT mapped the village of Cirendu, in the province of Ban
   and the Jatigede\nsub-district, in the \nProvince of West Java to provide comprehensive
   data on households and key infrastructure. The resulting exposure data was subsequently
   used to run scenarios on dam failure using InaSAFE."
-Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2018-06-11+at+14.30.36.png"
+Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2018-06-11+at+14.30.36.png
 Is Community-Led: false
 Country:
 - Indonesia

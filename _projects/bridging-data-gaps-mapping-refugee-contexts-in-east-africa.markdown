@@ -2,7 +2,7 @@
 title: 'Bridging Data Gaps: Mapping Refugee Contexts in East Africa'
 date: 2019-06-19 19:42:00 Z
 position: 17
-Feature Image: "https://cdn.hotosm.org/website/shareback.jpg"
+Feature Image: https://cdn.hotosm.org/website/shareback.jpg
 Country:
 - Uganda
 - Tanzania
@@ -22,7 +22,6 @@ Map Products:
 - 1ikOQ9T9fYgqHuDDMy7lduTvkyT2fSXia
 - 1Z6eWoxFceKPf1u5vE7dJ_EIKzwdoHqar
 ---
-
 
 East Africa (and Uganda specifically) continues to be the center of one of the world’s largest and fastest growing refugee crises. Uganda’s progressive open-door policy alone has led to an influx of approximately 1.4 million refugees into the country. High mobility of refugees means distribution and size of refugee settlements changes constantly and the need for standardized accessible information to make timely informed decisions about where services need to be planned and built becomes more crucial than ever.
 

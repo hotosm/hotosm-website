@@ -16,7 +16,7 @@ tags:
 Summary Text: As Humanitarian OpenStreetMap Team (HOT) supports local communities
   fundraising to put themselves on the map, here are the ways they will be using maps
   to improve lives!
-Feature Image: "https://cdn.hotosm.org/website/TALLER+ACCHA-1+small-3dd472.jpg"
+Feature Image: https://cdn.hotosm.org/website/TALLER+ACCHA-1+small-3dd472.jpg
 Person: Alex Glynn
 Working Group:
 - Fundraising

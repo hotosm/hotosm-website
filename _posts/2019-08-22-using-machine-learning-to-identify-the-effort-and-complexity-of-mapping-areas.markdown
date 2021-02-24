@@ -2,7 +2,7 @@
 title: Using machine learning to identify the effort and complexity of mapping areas
 date: 2019-08-22 09:00:00 Z
 Summary Text: Testing more machine learning integrations with the Tasking Manager
-Feature Image: "https://cdn.hotosm.org/website/tm-ml-project-creation.jpg"
+Feature Image: https://cdn.hotosm.org/website/tm-ml-project-creation.jpg
 Person:
 - Matthias Funke
 - Felix Delattre

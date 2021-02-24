@@ -7,7 +7,7 @@ Summary Text: 'Mapillary and HOT are joining forces to accelerate map data colle
   mapping projects that address humanitarian or developmental challenges. Two of the
   projects submitted to the #map2020 campaign will be selected for a fully-funded
   trip to the HOT Summit in Heidelberg, Germany this September.'
-Feature Image: "https://cdn.hotosm.org/website/20180903_141952.jpg"
+Feature Image: https://cdn.hotosm.org/website/20180903_141952.jpg
 Person: Rebecca Firth
 ---
 

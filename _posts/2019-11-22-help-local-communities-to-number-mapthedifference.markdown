@@ -7,7 +7,7 @@ tags:
 - Map the Difference
 - Community
 - Fundriasing
-Feature Image: "https://cdn.hotosm.org/website/BlogArtboard+10+copy+4-f15b35.png"
+Feature Image: https://cdn.hotosm.org/website/BlogArtboard+10+copy+4-f15b35.png
 Person: Alex Glynn
 Working Group:
 - Fundraising

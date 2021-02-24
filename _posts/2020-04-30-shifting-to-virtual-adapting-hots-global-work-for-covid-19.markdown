@@ -4,7 +4,7 @@ date: 2020-04-30 01:48:00 Z
 Summary Text: Although COVID-19 brings a number of obvious challenges to daily life
   for people across the world, the crisis has demonstrated the widespread desire to
   help by mapping to support COVID-19 responders worldwide.
-Feature Image: "https://cdn.hotosm.org/website/Annotation+2020-04-20+102426.png"
+Feature Image: https://cdn.hotosm.org/website/Annotation+2020-04-20+102426.png
 Person:
 - Sam Colchester
 - Bry Damasco

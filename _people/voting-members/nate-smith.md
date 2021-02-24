@@ -1,7 +1,7 @@
 ---
 title: Nate Smith
 date: 2016-01-11 23:27:00 Z
-Photo: "https://cdn.hotosm.org/website/Screen+Shot+2018-09-15+at+12.31.42.png"
+Photo: https://cdn.hotosm.org/website/Screen+Shot+2018-09-15+at+12.31.42.png
 Member Type:
   Is Staff: false
   Is Voting Member: true

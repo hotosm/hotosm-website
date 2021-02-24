@@ -1,7 +1,7 @@
 ---
 title: Growing OSM Zambia through the Nethope Device Challenge Grant
 date: 2018-06-22 08:06:00 Z
-Feature Image: "https://cdn.hotosm.org/website/DSCF3711.JPG"
+Feature Image: https://cdn.hotosm.org/website/DSCF3711.JPG
 Person: Gertrude (Trudy Hope) Namitala
 Working Group:
 - Community

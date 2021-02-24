@@ -16,7 +16,7 @@ tags:
 - "#MaptheDifference"
 Summary Text: On September 21, 2020, the Philippine mapping team finished remote mapping
   and validation for the whole of Pampanga.
-Feature Image: "https://cdn.hotosm.org/website/HOT-horizontal-lead-images-2.jpg"
+Feature Image: https://cdn.hotosm.org/website/HOT-horizontal-lead-images-2.jpg
 Is image top aligned: true
 Person: Jikka Defiño
 Working Group:

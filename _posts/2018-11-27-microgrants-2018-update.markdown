@@ -4,7 +4,7 @@ date: 2018-11-27 13:07:00 Z
 Summary Text: 'Here are a few updates from local communities all around the world
   who have received a Microgrant from HOT in 2018, all the more reason to donate to
   #mapthedifference in 2019!'
-Feature Image: "https://cdn.hotosm.org/website/Blog+post+header+-+Microgrants+2018.png"
+Feature Image: https://cdn.hotosm.org/website/Blog+post+header+-+Microgrants+2018.png
 Person: Geoffrey Kateregga
 Working Group:
 - Community
@@ -22,7 +22,6 @@ Project:
 - 'Community development: Microgrants and Device Grants'
 - 
 ---
-
 
 In April 2018 we launched the Microgrants 2018 program supporting communities across Latin America, the Caribbean, West Africa and Southeast Asia. In total, eight communities received Microgrants to help them expand their activities to improve the use of OpenStreetMap to minimise the impact of disasters in their local areas. Four months into receiving their grants, we have followed up with each of them to find out what they have been up to, what has worked and what has not.
 

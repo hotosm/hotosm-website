@@ -7,7 +7,7 @@ Project Summary Text: HOT provided OpenStreetMap training as part of the World B
   Caribbean Open Data Program, which aims to increase the ability of countries to
   create new businesses and generate more value, as well as improve the delivery of
   various services.
-Feature Image: "https://cdn.hotosm.org/website/GISWomenJamaica.jpg"
+Feature Image: https://cdn.hotosm.org/website/GISWomenJamaica.jpg
 Country:
 - Jamaica
 - Saint Lucia

@@ -12,7 +12,7 @@ tags:
 - philaware
 Summary Text: 'This August, HOT Philippines began training with LGU volunteers in
   Pampanga, celebrated #HOT10YRS, and sealed partnerships for September.'
-Feature Image: "https://cdn.hotosm.org/website/Training-in-Pampanga---field.png"
+Feature Image: https://cdn.hotosm.org/website/Training-in-Pampanga---field.png
 Is image top aligned: true
 Person: Jikka Defiño
 Working Group:

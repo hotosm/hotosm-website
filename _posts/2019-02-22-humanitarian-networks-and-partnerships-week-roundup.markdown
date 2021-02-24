@@ -6,7 +6,7 @@ Summary Text: 'Humanitarian Networks and Partnerships Week is a week when more t
   was held from February 4-8 and co-chaired by OCHA and the Swiss Agency for Development
   and Cooperation (SDC). HOT is a member of two of the networks: the Humanitarian
   to Humanitarian (known as the “H2H Network”) and the Global Alliance for Urban Crises.'
-Feature Image: "https://cdn.hotosm.org/website/52268880_2522441977784681_7337789782258352128_o+(2).jpg"
+Feature Image: https://cdn.hotosm.org/website/52268880_2522441977784681_7337789782258352128_o+(2).jpg
 Is image top aligned: false
 Person: Tyler Radford
 ---

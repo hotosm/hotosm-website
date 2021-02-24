@@ -4,7 +4,7 @@ date: 2020-10-07 10:00:00 Z
 Summary Text: Every two weeks we push a new version of Tasking Manager with new features,
   bug fixes and enhancements. It has been a while since our last update, so let’s
   take a look on what is new on Tasking Manager.
-Feature Image: "https://cdn.hotosm.org/website/tm-stats-10-2020.jpg"
+Feature Image: https://cdn.hotosm.org/website/tm-stats-10-2020.jpg
 Person:
 - Wille Marcel
 ---

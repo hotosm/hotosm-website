@@ -5,7 +5,7 @@ date: 2020-06-11 16:40:00 Z
 Summary Text: HOT worked with iLab Liberia in Monrovia to test the potential of machine
   learning algorithms to automate repetitive mapping tasks and highlight areas in
   need of updating to maximize the impact of human mappers.
-Feature Image: "https://cdn.hotosm.org/website/Machine+Learning+Monrovia+Cover+Image.jpg"
+Feature Image: https://cdn.hotosm.org/website/Machine+Learning+Monrovia+Cover+Image.jpg
 Person: Jess Beutler
 Country:
 - Liberia

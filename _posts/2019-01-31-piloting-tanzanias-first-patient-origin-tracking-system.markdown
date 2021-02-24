@@ -3,7 +3,7 @@ title: Piloting Tanzania's First Patient Origin Tracking System
 date: 2019-01-31 18:10:00 Z
 Summary Text: Putting hyperlocal data to use at the Amana Regional Referral Hospital
   in Dar es Salaam. Pictured above is Dr. Omari Mahiza who is helping lead the charge.
-Feature Image: "https://cdn.hotosm.org/website/dr-omari-mahiza-image3.jpg"
+Feature Image: https://cdn.hotosm.org/website/dr-omari-mahiza-image3.jpg
 Is image top aligned: false
 Person:
 - Belinda Japhet

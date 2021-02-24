@@ -2,7 +2,7 @@
 title: 'Tackling Coastal Flooding in Monrovia Slums: Understanding through partnerships,
   one community at a time'
 date: 2018-12-18 12:28:00 Z
-Feature Image: "https://cdn.hotosm.org/website/01-0eb277.JPG"
+Feature Image: https://cdn.hotosm.org/website/01-0eb277.JPG
 Is image top aligned: true
 Person: David Luswata
 Country:

@@ -6,7 +6,7 @@ Summary Text: Flooding has plagued the Ghanaian capital of Accra for years, so H
   worked with Mobile Web Ghana and OpenStreetMap Ghana to develop data on local buildings,
   drainage, and infrastructure that communities and municipal authorities could use
   to make vulnerable neighborhoods more resilient.
-Feature Image: "https://cdn.hotosm.org/website/Accra+Lead+Image+Larger.JPG"
+Feature Image: https://cdn.hotosm.org/website/Accra+Lead+Image+Larger.JPG
 Person:
 - David Luswata
 - Benjamin Dills

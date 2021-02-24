@@ -3,7 +3,7 @@ title: Community Mapping for Urban Risk in Mwanza, Tanzania
 date: 2020-10-22 08:23:00 Z
 Summary Text: Spatial Collective, Humanitarian OpenStreetMap Team, and OpenMap Development
   Tanzania extend their engagement to Mwanza
-Feature Image: "https://cdn.hotosm.org/website/Mwanza1.png"
+Feature Image: https://cdn.hotosm.org/website/Mwanza1.png
 Person:
 - Hawa Adinani
 - Primoz Kovacic

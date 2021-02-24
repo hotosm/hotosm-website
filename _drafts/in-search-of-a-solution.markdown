@@ -3,7 +3,7 @@ title: In search of a solution!
 date: 2019-05-07 08:52:00 Z
 Summary Text: Blogpost from Amna Adrees during her travels between Arua and Rhino/
   Imvepi Camps when she was working as an intern with the HOT Uganda team.
-Feature Image: "https://cdn.hotosm.org/website/image1-6e4c85.jpg"
+Feature Image: https://cdn.hotosm.org/website/image1-6e4c85.jpg
 ---
 
 My past two years working on global health and development in the epicentre of the field - Washington, D.C. - gave me a good understanding of the refugee crisis and the problems faced by displaced populations around the world. Or so I had thought. 

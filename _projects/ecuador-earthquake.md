@@ -5,7 +5,7 @@ permalink: projects/ecuador_earthquake
 position: 115
 Project Summary Text: HOT is supporting the Ecuador Earthquake by assisting the local
   OSM community to engage global volunteers and international responders
-Feature Image: "https://cdn.hotosm.org/website/blog3_b_0.png"
+Feature Image: https://cdn.hotosm.org/website/blog3_b_0.png
 Country:
 - Ecuador
 Impact Area:

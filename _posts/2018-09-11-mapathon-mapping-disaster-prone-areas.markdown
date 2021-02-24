@@ -1,7 +1,7 @@
 ---
 title: 'MAPATHON : Mapping disaster prone areas'
 date: 2018-09-11 11:04:00 Z
-Feature Image: "https://cdn.hotosm.org/website/mapathon+1.jpg"
+Feature Image: https://cdn.hotosm.org/website/mapathon+1.jpg
 Person: Sıla Alıcı
 Country:
 - Nepal

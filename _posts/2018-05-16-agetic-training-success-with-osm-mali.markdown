@@ -3,7 +3,7 @@ title: Agetic Training Success with OSM Mali
 date: 2018-05-16 10:14:00 Z
 Summary Text: OSM Mali run training for Communication Technologies Agency, Agetic
   Mali
-Feature Image: "https://cdn.hotosm.org/website/DSC_9554-d8e6c9.JPG"
+Feature Image: https://cdn.hotosm.org/website/DSC_9554-d8e6c9.JPG
 Working Group:
 - Community
 Country:

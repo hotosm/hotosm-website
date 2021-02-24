@@ -1,7 +1,7 @@
 ---
 title: Monica Nthiga
 date: 2021-02-18 07:55:00 Z
-Photo: "https://cdn.hotosm.org/website/Profile+Picture.jpg"
+Photo: https://cdn.hotosm.org/website/Profile+Picture.jpg
 Member Type:
   Is Staff: true
 Job Title: Regional Director - East Africa

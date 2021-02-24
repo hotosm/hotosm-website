@@ -11,7 +11,7 @@ Summary Text: 'There were 33 projects submitted for the #map2020 challenge to bu
   Africa for the chance to demonstrate how street-level imagery can play a role in
   addressing a humanitarian challenge. Two projects were selected to present at the
   HOT Summit in Germany.'
-Feature Image: "https://cdn.hotosm.org/website/2019-07-25-erbil-6e7861.jpg"
+Feature Image: https://cdn.hotosm.org/website/2019-07-25-erbil-6e7861.jpg
 Person:
 - Rebecca Firth
 - Edoardo Neerhut

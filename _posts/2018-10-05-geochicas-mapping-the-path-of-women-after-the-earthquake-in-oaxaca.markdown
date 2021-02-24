@@ -3,7 +3,7 @@ title: 'GeoChicas: Mapping the path of women after the earthquake in Oaxaca'
 date: 2018-10-05 08:55:00 Z
 Summary Text: The earthquakes that occurred in September 2017 in Mexico affected different
   areas of the country, including Mexico City, Chiapas and the State of Oaxaca.
-Feature Image: "https://cdn.hotosm.org/website/IMG-20180602-WA0004.jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG-20180602-WA0004.jpg
 Is image top aligned: false
 Person: Geoffrey Kateregga
 Working Group:

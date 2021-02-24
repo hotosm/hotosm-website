@@ -4,7 +4,7 @@ date: 2020-10-20 09:07:00 Z
 Summary Text: Five OSM communities, spread across the Philippines, Turkey, Uganda,
   Kenya, and Zambia, have received Facebook Community Impact Microgrants to support
   community engagement and training.
-Feature Image: "https://cdn.hotosm.org/website/Community+Impact+Microgrants+FB.png"
+Feature Image: https://cdn.hotosm.org/website/Community+Impact+Microgrants+FB.png
 Person: Sophie Mower
 Country:
 - Kenya

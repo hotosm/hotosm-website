@@ -6,8 +6,8 @@ position: 9
 Project Summary Text: Increasing the resilience of countries to natural hazards through
   the integration of open exposure data derived through satellite imagery and open
   protocols.
-Feature Image: "https://cdn.hotosm.org/website/image1.jpeg"
-Project Logo Image: "https://cdn.hotosm.org/website/uksa-logo.png"
+Feature Image: https://cdn.hotosm.org/website/image1.jpeg
+Project Logo Image: https://cdn.hotosm.org/website/uksa-logo.png
 Is Community-Led: true
 Country:
 - Nepal

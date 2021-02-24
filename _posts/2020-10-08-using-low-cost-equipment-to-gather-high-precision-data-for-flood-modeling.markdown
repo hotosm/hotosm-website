@@ -4,7 +4,7 @@ date: 2020-10-08 07:16:00 Z
 Summary Text: In collaboration with Deltares and with funding from GIZ, OMDTZ was
   able to collect accurate and precise river cross-section surveys using an innovative,
   low-cost technique developed by the Resilience Academy and OMDTZ.
-Feature Image: "https://cdn.hotosm.org/website/Tanzania+River+Mapping+Blur.jpg"
+Feature Image: https://cdn.hotosm.org/website/Tanzania+River+Mapping+Blur.jpg
 Is image top aligned: true
 Person: Hawa Adinani
 Country:

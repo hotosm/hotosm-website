@@ -4,7 +4,7 @@ title: 'WomenConnect Challenge: Empowering Women and Girls to Create Gendered Da
 date: 2019-01-16 14:51:00 Z
 position: 34
 Project Summary Text: Growing female open data leaders across 5 continents
-Feature Image: "https://cdn.hotosm.org/website/WCC+Blog.JPG"
+Feature Image: https://cdn.hotosm.org/website/WCC+Blog.JPG
 Is Community-Led: true
 Country:
 - Tanzania

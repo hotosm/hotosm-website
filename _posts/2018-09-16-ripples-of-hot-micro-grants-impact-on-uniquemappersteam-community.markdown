@@ -1,7 +1,7 @@
 ---
 title: Ripples of HOT Micro Grant's Impact on UniqueMappersTeam Community
 date: 2018-09-16 08:07:00 Z
-Feature Image: "https://cdn.hotosm.org/website/Nigeria1.jpg"
+Feature Image: https://cdn.hotosm.org/website/Nigeria1.jpg
 Person: Victor N Sunday
 Working Group:
 - Community

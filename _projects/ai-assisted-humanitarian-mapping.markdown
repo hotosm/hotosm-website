@@ -6,7 +6,7 @@ Project Summary Text: HOT partnered with Microsoft Philanthropies and Bing Maps 
   produce AI-detected open building datasets for Tanzania and Uganda and to pilot
   Machine Learning assisted workflows in the Tasking Manager application in order
   to enhance mapper experience.
-Feature Image: "https://cdn.hotosm.org/website/oam-kampala.jpg"
+Feature Image: https://cdn.hotosm.org/website/oam-kampala.jpg
 Country:
 - Tanzania
 - Uganda

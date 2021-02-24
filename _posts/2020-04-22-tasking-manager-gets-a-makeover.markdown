@@ -4,7 +4,7 @@ date: 2020-04-22 17:30:00 Z
 Summary Text: The latest software version 4 of Tasking Manager has just been released
   with a number of enhancements that will improve users’ experience of collaborative
   mapping in OpenStreetMap.
-Feature Image: "https://cdn.hotosm.org/website/blog-post-1-image-1.jpg"
+Feature Image: https://cdn.hotosm.org/website/blog-post-1-image-1.jpg
 Person: Felix Delattre
 Working Group:
 - Technical

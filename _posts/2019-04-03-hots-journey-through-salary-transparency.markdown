@@ -7,7 +7,7 @@ Summary Text: 'In September 2018, HOT held an in-person meeting of staff alongsi
   (specifically health care) and learning. This is the first post about what action
   we''re taking based on what we heard, focusing on what we believe is a major leap
   forward for HOT: salary transparency.'
-Feature Image: "https://cdn.hotosm.org/website/northern+uganda.jpg"
+Feature Image: https://cdn.hotosm.org/website/northern+uganda.jpg
 Person: Tyler Radford
 Country:
 - United States

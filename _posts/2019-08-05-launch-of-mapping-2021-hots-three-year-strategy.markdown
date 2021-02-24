@@ -6,7 +6,7 @@ categories:
 tags:
 - strategy
 - Community
-Feature Image: "https://cdn.hotosm.org/website/Peru-girls-mm-4b7dbd.jpeg"
+Feature Image: https://cdn.hotosm.org/website/Peru-girls-mm-4b7dbd.jpeg
 Person: Tyler Radford
 ---
 

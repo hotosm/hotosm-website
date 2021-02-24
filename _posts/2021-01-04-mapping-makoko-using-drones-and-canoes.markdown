@@ -3,7 +3,7 @@ title: Mapping Makoko Using Drones and Canoes
 date: 2021-01-04 10:49:00 Z
 Summary Text: A floating inner-city slum is in the process of being mapped to make
   a case for improved public services and land ownership.
-Feature Image: "https://cdn.hotosm.org/website/Map+Makoko+1.jpeg"
+Feature Image: https://cdn.hotosm.org/website/Map+Makoko+1.jpeg
 Person: Anton Marshall
 Country:
 - Nigeria

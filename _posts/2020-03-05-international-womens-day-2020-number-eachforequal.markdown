@@ -4,7 +4,7 @@ date: 2020-03-05 14:48:00 Z
 Summary Text: International Women’s Day (#IWD2020) celebrates the social, economic,
   cultural, and political achievements of women, while calling on the world to accelerate
   progress towards gender equality.
-Feature Image: "https://cdn.hotosm.org/website/InternationalWomensDay-landscape-purpleonwhite-242b5d-a4eed1.jpg"
+Feature Image: https://cdn.hotosm.org/website/InternationalWomensDay-landscape-purpleonwhite-242b5d-a4eed1.jpg
 Person: Rebecca Firth
 Working Group:
 - Community

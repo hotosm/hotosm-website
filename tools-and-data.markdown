@@ -8,7 +8,7 @@ Block 1:
     source tools and run our projects with an open source ethos. If you are interested
     in using our tools or contributing, you can access all our code, documentation,
     and other resources on GitHub.
-  Image: "https://cdn.hotosm.org/website/open-source.png"
+  Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
   - Name: Access our repositories
     URL: http://github.com/hotosm
@@ -20,7 +20,7 @@ Block 2:
     growing community of mappers. Get started by learning about how to edit OpenStreetMap
     or using the many tools available to edit or use OSM data. Check out the resources
     available within LearnOSM or the HOT Training Center.
-  Image: "https://cdn.hotosm.org/website/tools-learnosm.png"
+  Image: https://cdn.hotosm.org/website/tools-learnosm.png
   Tools:
   - Name: LearnOSM
     URL: http://learnosm.org
@@ -32,7 +32,7 @@ Block 3:
     can get started by finding available imagery to use via OpenAerialMap, plan a
     remote mapping campaign via the Tasking Manager, or set up and track a field campaign
     with MapCampaigner.
-  Image: "https://cdn.hotosm.org/website/tools-taskingmanager.png"
+  Image: https://cdn.hotosm.org/website/tools-taskingmanager.png
   Tools:
   - Name: OpenAerialMap
     URL: https://openaerialmap.org/
@@ -48,7 +48,7 @@ Block 4:
     for field based editing of OpenStreetMap. In low-bandwidth or disconnected environments,
     Field Papers can be used for paper-based data capture and POSM can be used for
     offline OSM editing.
-  Image: "https://cdn.hotosm.org/website/tools-openmapkit.png"
+  Image: https://cdn.hotosm.org/website/tools-openmapkit.png
   Tools:
   - Name: Tasking Manager
     URL: https://tasks.hotosm.org/
@@ -66,7 +66,7 @@ Block 5:
     custom extracts of OSM based on the area and type of data you want to access.
     Export Tool allows you to save, rerun, and share OSM data. Exports for selected
     countries with active disaster or crisis responses are also available via HDX.
-  Image: "https://cdn.hotosm.org/website/tools-export.png"
+  Image: https://cdn.hotosm.org/website/tools-export.png
   Tools:
   - Name: Export Tool
     URL: https://export.hotosm.org/en/v3/
@@ -78,7 +78,7 @@ Block 6:
     within OSM, use the OSM Analytics suite of tools. You can view how data has changed
     over time within OSM, understand quality within an area, or analyze what type
     of data is available.
-  Image: "https://cdn.hotosm.org/website/tools-osm-analytics.png"
+  Image: https://cdn.hotosm.org/website/tools-osm-analytics.png
   Tools:
   - Name: OSM Analytics
     URL: http://osm-analytics.org/

@@ -6,7 +6,7 @@ position: 16
 Project Summary Text: Practical Action in Bolivia aims to train individuals to identify
   and map their needs, making geospatial data available to NGOs and government agencies
   providing aid.
-Feature Image: "https://cdn.hotosm.org/website/SIV_05.jpg"
+Feature Image: https://cdn.hotosm.org/website/SIV_05.jpg
 Is Community-Led: true
 Country:
 - Bolivia

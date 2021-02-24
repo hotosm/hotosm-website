@@ -1,7 +1,7 @@
 ---
 title: Carly Redhead
 date: 2020-06-16 14:59:00 Z
-Photo: "https://cdn.hotosm.org/website/Carly+Redhead+Profile+Photo.jpeg"
+Photo: https://cdn.hotosm.org/website/Carly+Redhead+Profile+Photo.jpeg
 Member Type:
   Is Staff: true
 Job Title: Head of Partnerships

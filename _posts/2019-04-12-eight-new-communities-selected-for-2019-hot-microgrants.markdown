@@ -5,7 +5,7 @@ Summary Text: Female drone pilots mapping Africa’s largest slum, a youth group
   waste management behaviours in mega-cities, and mappers making Manila more accessible
   for persons with disabilities. These are a few examples of the eight incredible
   new community projects that are the recipients of the 2019 HOT Microgrants!
-Feature Image: "https://cdn.hotosm.org/website/FOSM+Colombia.jpg"
+Feature Image: https://cdn.hotosm.org/website/FOSM+Colombia.jpg
 Person: Rebecca Firth
 Working Group:
 - Community

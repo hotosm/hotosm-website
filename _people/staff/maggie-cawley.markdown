@@ -1,7 +1,7 @@
 ---
 title: Maggie Cawley
 date: 2018-11-03 12:58:00 Z
-Photo: "https://cdn.hotosm.org/website/IMG_20180828_174601523.jpg"
+Photo: https://cdn.hotosm.org/website/IMG_20180828_174601523.jpg
 Member Type:
   Is Staff: false
 Job Title: Project Manager

@@ -4,7 +4,7 @@ date: 2019-05-02 09:23:00 Z
 permalink: "/projects/mapanica"
 position: 28
 Project Summary Text: Mapping public transport networks in Nicaragua
-Feature Image: "https://cdn.hotosm.org/website/MapaNica.jpg"
+Feature Image: https://cdn.hotosm.org/website/MapaNica.jpg
 Is Community-Led: true
 Country:
 - Nicaragua

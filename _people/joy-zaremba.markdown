@@ -1,7 +1,7 @@
 ---
 title: Joy Zaremba
 date: 2020-10-29 21:21:00 Z
-Photo: "https://cdn.hotosm.org/website/joy-240x300-6b6852.jpg"
+Photo: https://cdn.hotosm.org/website/joy-240x300-6b6852.jpg
 Member Type:
   Is Staff: true
 Job Title: Lead Accountant

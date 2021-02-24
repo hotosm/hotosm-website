@@ -5,8 +5,8 @@ permalink: projects/mapping-the-missing-millions
 position: 37
 Project Summary Text: Developing a global database of informal settlement location,
   schema, and SDGs indicators. Complete with previously unknown informal settlements.
-Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2018-10-24+at+17.00.49.png"
-Project Logo Image: "https://cdn.hotosm.org/website/nasa-logo.png"
+Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2018-10-24+at+17.00.49.png
+Project Logo Image: https://cdn.hotosm.org/website/nasa-logo.png
 Is Community-Led: false
 Country:
 - Nepal

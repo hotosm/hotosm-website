@@ -2,7 +2,7 @@
 title: 'Open Data, Open Mapping: TeachOSM in the Caribbean'
 date: 2015-08-31 17:02:00 Z
 permalink: updates/2015-08-31_open_data_open_mapping_teachosm_in_the_caribbean
-Feature Image: "https://cdn.hotosm.org/website/GISWomenJamaica-ac07ab.jpg"
+Feature Image: https://cdn.hotosm.org/website/GISWomenJamaica-ac07ab.jpg
 Person: Steven Johnson
 Country:
 - Jamaica

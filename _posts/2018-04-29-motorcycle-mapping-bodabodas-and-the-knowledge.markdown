@@ -1,7 +1,7 @@
 ---
 title: Motorcycle Mapping - BodaBodas and 'The Knowledge'
 date: 2018-04-29 07:11:00 Z
-Feature Image: "https://cdn.hotosm.org/website/DSC_0553forWEB.JPG"
+Feature Image: https://cdn.hotosm.org/website/DSC_0553forWEB.JPG
 Is image top aligned: true
 Person: Rupert Allan
 Country:

@@ -2,7 +2,7 @@
 title: 'Humanitarian Mappers: Highlighting safe places and quarantine centers in IDP
   camps'
 date: 2020-11-10 16:08:00 Z
-Feature Image: "https://cdn.hotosm.org/website/Project+Volunteers+in+action+(2)+(1).jpg"
+Feature Image: https://cdn.hotosm.org/website/Project+Volunteers+in+action+(2)+(1).jpg
 Is Community-Led: true
 Country:
 - Nigeria

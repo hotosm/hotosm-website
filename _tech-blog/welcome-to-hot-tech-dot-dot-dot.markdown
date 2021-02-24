@@ -12,7 +12,7 @@ Summary Text: As everyone is well aware, it's time to scale up at HOT, and hot_t
   for sure that I am not. Let me be the first to share with you a quick intro to each
   of the new team members, why they decided to join us, and why we wanted them to
   be a part of the team.
-Feature Image: "https://cdn.hotosm.org/website/nu_tech-a8bd3d.png"
+Feature Image: https://cdn.hotosm.org/website/nu_tech-a8bd3d.png
 Person: Bo Percival
 ---
 

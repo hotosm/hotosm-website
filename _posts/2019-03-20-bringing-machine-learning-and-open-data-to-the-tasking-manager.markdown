@@ -3,7 +3,7 @@ title: Bringing machine learning and open data to the Tasking Manager
 date: 2019-03-20 10:00:00 Z
 Summary Text: 'Addressing the unmapped gap with higher quality and greater efficiency.
   Photo above from the Tasking Manager meeting held last month in Washington, DC. '
-Feature Image: "https://cdn.hotosm.org/website/IMG_7699.jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG_7699.jpg
 Person: Nate Smith
 Working Group:
 - Technical

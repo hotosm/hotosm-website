@@ -3,7 +3,7 @@ title: 'Tasking Manager Update: New Version Released!'
 date: 2018-12-03 22:00:00 Z
 Summary Text: As December has started we’ve also released another update to the Tasking
   Manager. Head to tasks.hotosm.org and start mapping to check them out.
-Feature Image: "https://cdn.hotosm.org/website/tm-history-update.png"
+Feature Image: https://cdn.hotosm.org/website/tm-history-update.png
 Person: Nate Smith
 Working Group:
 - Technical

@@ -3,7 +3,7 @@ title: How we measure the effects of AI-assisted mapping
 date: 2020-06-01 11:39:00 Z
 Summary Text: Over the past two years, HOT has taken a leadership role in exploring
   and facilitating the application of the latest advances in artificial intelligence.
-Feature Image: "https://cdn.hotosm.org/website/ai-polygon-pass-3270fe.jpg"
+Feature Image: https://cdn.hotosm.org/website/ai-polygon-pass-3270fe.jpg
 Person:
 - Bo Percival
 - Felix Delattre

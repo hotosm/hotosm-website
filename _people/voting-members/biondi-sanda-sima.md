@@ -2,7 +2,7 @@
 title: Biondi Sanda Sima
 date: 2014-04-17 18:25:00 Z
 published: false
-Photo: "https://cdn.hotosm.org/website/DSC_0522.jpg"
+Photo: https://cdn.hotosm.org/website/DSC_0522.jpg
 Member Type:
   Is Staff: false
   Is Voting Member: true

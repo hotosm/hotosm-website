@@ -9,7 +9,7 @@ tags:
 - Roads
 Summary Text: Partnering with Facebook, the HOT Indonesia team has added about 125,000
   kilometers (80,000 miles) of road to Indonesia so far.
-Feature Image: "https://cdn.hotosm.org/website/IDN_road_density_Sula_Kali_12_01_2018_transparent.png"
+Feature Image: https://cdn.hotosm.org/website/IDN_road_density_Sula_Kali_12_01_2018_transparent.png
 Person: Russell Deffner
 Country:
 - Indonesia

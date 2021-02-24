@@ -7,8 +7,8 @@ Project Summary Text: With support from the International Organization for Migra
   (IOM), HOT is developing a robust digital information system for tracking the use
   and availability of Ebola-related preparedness at Points of Entry between Uganda
   and the Democratic Republic of the Congo.
-Feature Image: "https://cdn.hotosm.org/website/EBwjqBqXkAE-v1o.jpg"
-Project Logo Image: "https://cdn.hotosm.org/website/IOM_logo.JPG"
+Feature Image: https://cdn.hotosm.org/website/EBwjqBqXkAE-v1o.jpg
+Project Logo Image: https://cdn.hotosm.org/website/IOM_logo.JPG
 Country:
 - Uganda
 Impact Area:

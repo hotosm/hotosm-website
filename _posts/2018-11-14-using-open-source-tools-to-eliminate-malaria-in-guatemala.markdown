@@ -6,7 +6,7 @@ Summary Text: 'HOT is supporting the Clinton Health Access Initiative and the Gu
   in the area of Escuintla. Guatemala has provided a unique opportunity for HOT to
   leverage open source tools for use during indoor residual spraying to monitor progress
   and activities as they occur. '
-Feature Image: "https://cdn.hotosm.org/website/IMG_20181023_082642.jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG_20181023_082642.jpg
 Person: Miriam Gonzalez
 Country:
 - Guatemala

@@ -3,7 +3,7 @@ title: Hands on Assisted Tasks
 date: 2019-05-29 18:00:00 Z
 Summary Text: Launch of an experimental playground Tasking Manager supported by state-of-the-art
   machine learning techniques to assist mappers, validators and project managers.
-Feature Image: "https://cdn.hotosm.org/website/ml4tm-complexity.jpg"
+Feature Image: https://cdn.hotosm.org/website/ml4tm-complexity.jpg
 Person: Felix Delattre
 Working Group:
 - Technical

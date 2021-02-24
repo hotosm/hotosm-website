@@ -1,7 +1,7 @@
 ---
 title: Felix Delattre
 date: 2013-12-01 16:40:00 Z
-Photo: "https://cdn.hotosm.org/website/felix.jpg"
+Photo: https://cdn.hotosm.org/website/felix.jpg
 Member Type:
   Is Staff: false
   Is Voting Member: true

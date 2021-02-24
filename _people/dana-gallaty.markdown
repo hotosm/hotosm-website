@@ -1,7 +1,7 @@
 ---
 title: Dana Gallaty
 date: 2020-06-04 18:04:00 Z
-Photo: "https://cdn.hotosm.org/website/Headshot_2020.jpg"
+Photo: https://cdn.hotosm.org/website/Headshot_2020.jpg
 Member Type:
   Is Staff: true
 Job Title: Operations Associate

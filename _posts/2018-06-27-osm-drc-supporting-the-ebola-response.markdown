@@ -1,7 +1,7 @@
 ---
 title: OSM DRC - supporting the Ebola response
 date: 2018-06-27 12:49:00 Z
-Feature Image: "https://cdn.hotosm.org/website/web_photo_ebola_vaccination_300518.jpg"
+Feature Image: https://cdn.hotosm.org/website/web_photo_ebola_vaccination_300518.jpg
 Working Group:
 - Activation
 - Community

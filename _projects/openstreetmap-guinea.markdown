@@ -4,7 +4,7 @@ date: 2018-05-16 08:07:00 Z
 permalink: projects/openstreetmap-guinea
 position: 68
 Project Summary Text: Using OpenStreetMap to improve the health sector in Conakry
-Feature Image: "https://cdn.hotosm.org/website/Training+December+23,+OSM+Guinea,+Nethope+2017.jpg"
+Feature Image: https://cdn.hotosm.org/website/Training+December+23,+OSM+Guinea,+Nethope+2017.jpg
 Is image top aligned: true
 Is Community-Led: true
 Country:

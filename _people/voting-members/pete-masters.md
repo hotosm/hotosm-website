@@ -1,7 +1,7 @@
 ---
 title: Pete Masters
 date: 2015-04-30 11:55:00 Z
-Photo: "https://cdn.hotosm.org/website/pete+headshot.PNG"
+Photo: https://cdn.hotosm.org/website/pete+headshot.PNG
 Member Type:
   Is Voting Member: true
   Is Board Member: false

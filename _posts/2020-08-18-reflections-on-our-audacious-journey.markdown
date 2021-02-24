@@ -3,7 +3,7 @@ title: Reflections on our “Audacious” Journey
 date: 2020-08-18 00:40:00 Z
 Summary Text: "“Do you have an ambitious idea for tackling one of the world’s biggest
   problems?”"
-Feature Image: "https://cdn.hotosm.org/website/image1-41c9fa.jpg"
+Feature Image: https://cdn.hotosm.org/website/image1-41c9fa.jpg
 Person:
 - Rebecca Firth
 - Tyler Radford

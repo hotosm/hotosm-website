@@ -1,7 +1,7 @@
 ---
 title: 'OSM Benin: growing local mapping with a HOT Microgrant'
 date: 2018-09-07 01:52:00 Z
-Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2018-09-06+at+20.54.58-6a65af.png"
+Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2018-09-06+at+20.54.58-6a65af.png
 Person: Rebecca Firth
 Working Group:
 - Community
