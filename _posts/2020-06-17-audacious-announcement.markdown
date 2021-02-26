@@ -1,6 +1,6 @@
 ---
-title: What if we could map one billion people currently missing from the world’s
-  maps?
+title: What if we could map an area home to one billion people currently missing from
+  the world’s maps?
 date: 2020-06-17 21:06:00 Z
 Summary Text: We are honored and excited to announce that the HOT community is one
   of eight recipients of funding from The Audacious Project, a collaborative philanthropic
@@ -66,4 +66,4 @@ All data will be available publicly in OpenStreetMap. With this open, up-to-date
 
 This is an exciting time for HOT’s global community and demonstrates how necessary free, open and up to date maps will be for the humanitarian and development sectors in years to come. We are deeply grateful to The Audacious Project and respected philanthropic organizations, including the [Skoll Foundation](https://skoll.org/), [the ELMA Philanthropies](https://www.elmaphilanthropies.org/), [Rippleworks](http://www.rippleworks.org/), [Pivotal Ventures](https://www.pivotalventures.org/),  [MacKenzie Scott,](https://medium.com/@mackenzie_scott/116-organizations-driving-change-67354c6d733d)  [Silicon Valley Community Foundation, ](https://www.siliconvalleycf.org/) Rosamund Zander and Hansjörg Wyss and private donors, for believing in our vision of a global movement in which volunteers from all walks of life co-create the best map of our world.
 
-> See the[ FAQ](https://www.hotosm.org/audacious-faq) for more information about how The Audacious Project will work, our approach, how we will work with OSM communities and the regional hubs.
+> See the[ FAQ](https://www.hotosm.org/audacious-faq) for more information about how The Audacious Project will support our mission and how we will work with OSM communities and the regional hubs.
