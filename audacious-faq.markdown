@@ -1,5 +1,5 @@
 ---
-title: HOT Audacious Project Frequently Asked Questions
+title: Frequently Asked Questions
 date: 2020-06-17 15:21:00 Z
 Project:
 - Audacious Project
@@ -9,7 +9,7 @@ Person:
 layout: faq
 ---
 
-## In response to questions raised by members of the HOT Community, these Frequently Asked Questions (FAQs) give further insight into HOT’s Audacious Project work over the next five years. This page will be updated as more questions are asked.
+## In response to questions raised by members of the HOT Community, these Frequently Asked Questions (FAQs) give further insight into HOT’s mission  over the next five years. This page will be updated as more questions are asked.
 
 > # About The Audacious Project
 
@@ -19,11 +19,11 @@ The Audacious Project is a collaborative approach to funding big ideas with the 
 
 The Audacious Project started in 2018 and is now in its third round. HOT is one of eight organizations selected by the Audacious Project in 2020. [More about the Audacious Project](https://audaciousproject.org/about)
 
-## What is HOT’s Audacious vision?
+## What is HOT’s vision?
 
-Our Audacious vision is **to engage one million volunteers to map an area home to one billion people living in poverty and at high risk of disaster in 94 countries**. We will reach this scale by pursuing four activities:
+Our vision is **to engage one million volunteers to map an area home to one billion people living in poverty and at high risk of disaster in 94 countries**. We will reach this scale by pursuing four activities:
 
-**First**, we will grow our global volunteer contributor community by adding regional “hubs” to the existing network of OpenStreetMap communities in each region. Hubs will act as connectors to facilitate exchange of ideas and expertise across countries and provide financial and technical support to OSM communities in 94 countries (20-25 per region).
+**First**, we will grow our global contributor community by adding regional “hubs” to the existing network of OpenStreetMap communities in each region. Hubs will act as connectors to facilitate exchange of ideas and expertise across countries and provide financial and technical support to OSM communities in 94 countries (20-25 per region).
 
 **Second**, we’ll make significant investments in technology that enhances mapping contributions on mobile to enable scaling of local contributions to OpenStreetMap.
 
@@ -31,7 +31,7 @@ Our Audacious vision is **to engage one million volunteers to map an area home t
 
 **Fourth**, we’ll ensure the data we create has a tangible impact by expanding our national and regional partnerships with humanitarian organizations, governments, and other actors to help them use OpenStreetMap to deliver more effective and efficient aid.
 
-This is a fundamental re-focusing of our priorities toward local map contributions. Remote contributors will continue to make up part of the overall one million contributors, but HOT will devote significant resources toward local communities, with the HOT global team developing tools, training, and providing support that makes it all possible.
+This is a fundamental re-focusing of our priorities toward local map contributions. Remote contributors will continue to make up part of the overall one million contributors, but HOT will devote significant resources towards local communities, with the HOT global team developing tools, training, and providing support that makes it all possible.
 
 Over five years, we will proactively build a map of the world that includes some of the highest-risk places for the very first time. With this open, up-to-date, free, and digital public good, information will be readily available to make better and faster decisions. As a result, missing maps will no longer be a factor in human suffering or loss of life.
 
@@ -41,7 +41,7 @@ Audacious Project donors have made a five year commitment to HOT, beginning July
 
 ## How much funding did HOT receive? Who are the donors?
 
-HOT received a significant investment from several donors including [The ELMA Philanthropies](https://www.elmaphilanthropies.org/), [the Skoll Foundation](https://skoll.org/), [Pivotal Ventures](https://www.pivotalventures.org/), [Rippleworks](http://www.rippleworks.org/), [MacKenzie Scott, ](https://medium.com/@mackenzie_scott/116-organizations-driving-change-67354c6d733d)[Silicon Valley Community Foundation, ](https://www.siliconvalleycf.org/) Rosamund Zander and Hansjörg Wyss and private donors. This investment is spread over five years, and it will help us achieve our big vision. The Audacious Project supports organizations at various funding levels and sizes, and HOT is one of the smaller projects that is being supported this year. HOT’s Audacious project is not yet fully funded, meaning the total funding amount is not yet confirmed, and HOT still needs to raise additional funds to realize this vision by 2025.
+HOT received a significant investment from several donors including [The ELMA Philanthropies](https://www.elmaphilanthropies.org/), [the Skoll Foundation](https://skoll.org/), [Pivotal Ventures](https://www.pivotalventures.org/), [Rippleworks](http://www.rippleworks.org/), [MacKenzie Scott, ](https://medium.com/@mackenzie_scott/116-organizations-driving-change-67354c6d733d)[Silicon Valley Community Foundation, ](https://www.siliconvalleycf.org/) Rosamund Zander and Hansjörg Wyss and private donors. This investment is spread over five years, and it will help us achieve our big vision. The Audacious Project supports organizations at various funding levels and sizes, and HOT is one of the smaller projects that is being supported this year. HOT’s mission is not yet fully funded, meaning the total funding amount is not yet confirmed, and HOT still needs to raise additional funds to realize this vision by 2025.
 
 We’ll continue to operate as we always have, in a lean, cost-conscious way to maximize the value to the organizations and communities we serve. HOT will also continue to report openly on our spending via our annual report, public tax filing, and financial statements. These are published annually on [HOT’s website](http://www.hotosm.org). As HOT receives funds, the breakdown on how these will be allocated is available on slide 35 of the “Achieving our Strategic Plan” presentation.
 
@@ -79,13 +79,13 @@ Audacious Project donor investment will enable us to support OpenStreetMap commu
 
 ## How will HOT support and uphold OSM community guidance and norms such as import guidelines and organized editing guidelines?
 
-Under the Audacious Project, the HOT community will be mapping quite heavily in OpenStreetMap, often through organized campaigns, in a significant number of countries. We want to ensure this mapping is done responsibly: including that the data produced by our community is of high quality. For this reason, we are making specific, targeted investment in building a new responsible data team, with analysts in all regions in which we’ll work. This team will develop data quality strategy, support the community, and monitor/report on data quality. Presently, HOT is also working on processes and procedures to increase our global community’s adherence to the organized editing guidelines. The new data team will also serve the entire OpenStreetMap and humanitarian mapping community by developing practical guidance in responsible & ethical data collection, consent, protection, privacy, storage, use, and analysis.
+HOT and OSM communities will be mapping quite heavily in OpenStreetMap, often through organized campaigns, in a significant number of countries. We want to ensure this mapping is done responsibly: including that the data produced by our community is of high quality. For this reason, we are making specific, targeted investment in building a new responsible data team, with analysts in all regions in which we’ll work. This team will develop data quality strategy, support the community, and monitor/report on data quality. Presently, HOT is also working on processes and procedures to increase adherence to the organized editing guidelines. The new data team will also serve the entire OpenStreetMap and humanitarian mapping community by developing practical guidance in responsible & ethical data collection, consent, protection, privacy, storage, use, and analysis.
 
-> # The Audacious Project, HOT’s regionalization and sustainability
+> # Regionalization and sustainability
 
 ## How will HOT change?
 
-The Audacious Project will provide funding for our team and OpenStreetMap communities to achieve the big dreams and vision that our community agreed on last year in our [Strategic Plan](https://www.hotosm.org/strategic-plan).
+The Audacious Project will provide funding for our team and OpenStreetMap communities to achieve the big dreams and vision that our community agreed on in 2019 in our [Strategic Plan](https://www.hotosm.org/strategic-plan).
 
 Our core values (collaboration, volunteerism, inclusivity, independence, people first, local first, openness & transparency, innovation, and hacktivism) will NOT change.
 
@@ -188,11 +188,11 @@ We see hubs as physical (and virtual) centers of collaboration which will comple
 
 ## What happens after Year 5?
 
-Both HOT’s staffing structure and funding streams will scale up rapidly in Year 1 and continue scaling into Year 2, then stabilize over the five years. Our goal is that HOT’s costs will not continue to grow indefinitely. HOT will become increasingly financially sustainable over time (as it also is, currently), as costs stabilize and revenue generating activities increase. We will continue generating our own revenue through fee-for-service mapping and training projects led both by HQ and regional offices. There is flexibility in the size and shape of regional hubs after Year 5 and there are several pathways for hub financial sustainability.
+Both HOT’s staffing structure and funding streams will scale up rapidly in Year 1 and continue scaling into Year 2, then stabilize over the five years. Our goal is that HOT’s costs will not continue to grow indefinitely. HOT will become increasingly financially sustainable over time (as it also is, currently), as costs stabilize and revenue generating activities increase. We will continue generating our own revenue through fee-for-service mapping and training projects led both by global and regional offices. There is flexibility in the size and shape of regional hubs after Year 5 and there are several pathways for hub financial sustainability.
 
-## How will Covid-19 affect this project?
+## How will Covid-19 affect these plans?
 
-Predicting the longer term impact of the Covid-19 pandemic is difficult for any organization. This project will bring additional financial security to HOT over the coming years, as it is a five year project. Additionally, the global nature of the Covid-19 pandemic reinforces the importance of HOT taking on an ambitious global project. HOT’s mission, to work towards a world where everyone is counted, data is accessible and used, and anyone can engage and contribute to the map, has never been more relevant.
+Predicting the longer term impact of the Covid-19 pandemic is difficult for any organization. This funding will bring additional financial security to HOT over the coming five years. Additionally, the global nature of the Covid-19 pandemic reinforces the importance of HOT taking on an ambitious global initiative. HOT’s mission, to work towards a world where everyone is counted, data is accessible and used, and anyone can engage and contribute to the map, has never been more relevant.
 
 For more detail, read the following slides:
 
