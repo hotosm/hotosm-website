@@ -19,7 +19,7 @@ The Audacious Project is a collaborative approach to funding big ideas with the 
 
 The Audacious Project started in 2018 and is now in its third round. HOT is one of eight organizations selected by the Audacious Project in 2020. [More about the Audacious Project](https://audaciousproject.org/about)
 
-## What is HOT’s vision?
+### What is HOT’s vision?
 
 Our vision is **to engage one million volunteers to map an area home to one billion people living in poverty and at high risk of disaster in 94 countries**. We will reach this scale by pursuing four activities:
 
@@ -34,6 +34,10 @@ Our vision is **to engage one million volunteers to map an area home to one bill
 This is a fundamental re-focusing of our priorities toward local map contributions. Remote contributors will continue to make up part of the overall one million contributors, but HOT will devote significant resources towards local communities, with the HOT global team developing tools, training, and providing support that makes it all possible.
 
 Over five years, we will proactively build a map of the world that includes some of the highest-risk places for the very first time. With this open, up-to-date, free, and digital public good, information will be readily available to make better and faster decisions. As a result, missing maps will no longer be a factor in human suffering or loss of life.
+
+## Is this a project or is it a restructuring of the organization?
+
+The Audacious Project is not a project per se, but a funding initiative. This can be confusing. HOT is not changing our [strategic plan](https://www.hotosm.org/strategic-plan). Funding from Audacious Project donors will help us achieve that plan in a bigger and faster way than we initially imagined. Everything we do over the next five years will be working together as a team towards achieving that plan. Our current fee-for-service mapping and training projects with existing donors will continue as an important part of that plan, since they contribute toward the 1 billion goal and other targets in the plan.
 
 ## When does this start and how long does it run for?
 
@@ -177,10 +181,6 @@ We have an initial draft of positions, but are still working out some details ar
 ## How will new staff affect current structures?
 
 A major priority is to maintain and improve the great culture that we’ve built within HOT. Like we’ve always done, we’ll need to help new staff adapt to our culture and working style. We do expect teams will change and grow. In addition to the new regional office locations, you’ll see a more robust operations team both for HOT’s Global HQ and in the regions.
-
-## Is this a project or is it a restructuring of the organization?
-
-HOT is not changing our strategic plan. Funding from Audacious Project donors will help us achieve that plan in a bigger and faster way than we initially imagined. Everything we do over the next five years will be working together as a team toward achieving that plan. Our current fee-for-service mapping and training projects with existing donors will continue as an important part of that plan, since they contribute toward the 1 billion goal and other targets in the plan.
 
 ## Why is the plan to create hubs rather than reinforcing a decentralized multilingual global team to support the countries/communities?
 
