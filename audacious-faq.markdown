@@ -19,7 +19,7 @@ The Audacious Project is a collaborative approach to funding big ideas with the 
 
 The Audacious Project started in 2018 and is now in its third round. HOT is one of eight organizations selected by the Audacious Project in 2020. [More about the Audacious Project](https://audaciousproject.org/about)
 
-### What is HOT’s vision?
+## What is HOT’s vision?
 
 Our vision is **to engage one million volunteers to map an area home to one billion people living in poverty and at high risk of disaster in 94 countries**. We will reach this scale by pursuing four activities:
 
