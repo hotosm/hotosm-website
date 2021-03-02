@@ -6,3 +6,4 @@ Member Type:
 ---
 
 Voting Member of HOT.
+GISCorps volunteer supporting the Tanzania Development Trust
