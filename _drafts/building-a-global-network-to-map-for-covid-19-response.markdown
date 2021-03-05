@@ -14,6 +14,8 @@ Project:
 - HOT COVID-19 RESPONSE
 ---
 
+*[Explore a dynamic webmap that documents HOT's role in the global Covid response.](https://hotosm.github.io/cv19_map/#)*
+
 There was uncertainty about how mapping could be used to support response efforts in the early days of the Covid-19 pandemic. It quickly became clear, however, that the one billion people living in completely or partially unmapped communities risked being left out of life-saving programs and unable to access healthcare.
 
 By the end of March 2020, the Humanitarian OpenStreetMap Team (HOT) put in place a plan to focus on three key areas:
@@ -49,6 +51,3 @@ In Botswana, as a result of HOT’s support, over 70% of the country was priorit
 This data is available not just in-country to partners but also to global level responders, including [UNOCHA](https://www.unocha.org/), and other members of the H2H network such as [MapAction](https://mapaction.org/), and [CartONG](https://www.cartong.org/). Free access to the data is on online platforms, including [HDX](https://data.humdata.org/), the [HOT Export Tool](https://export.hotosm.org/en/v3/), and [OpenStreetMap exports](https://www.openstreetmap.org/export). Maps can also be downloaded for mobile and offline use with services like [Maps.me](https://maps.me/) and [OsmAnd](https://osmand.net/).
 
 In addition to supporting the Covid-19 response, the expansion of the HOT’s disaster services team has increased the capacity to respond to future crises by engaging with and supporting the wider mapping community’s efforts. We are currently evaluating 11 additional countries in the Caribbean as part of a future joint hurricane and pandemic preparedness initiative.
-
-Link to the dynamic web map:
-[https://hotosm.github.io/cv19_map/#](https://hotosm.github.io/cv19_map/)
