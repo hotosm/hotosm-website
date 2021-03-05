@@ -14,7 +14,7 @@ Project:
 - HOT COVID-19 RESPONSE
 ---
 
-*[Explore a dynamic webmap that documents HOT's role in the global Covid response.](https://hotosm.github.io/cv19_map/#)*
+*[Explore a dynamic webmap that documents the use of the Tasking Manager by a number of organizations in the global Covid response.](https://hotosm.github.io/cv19_map/#)*
 
 There was uncertainty about how mapping could be used to support response efforts in the early days of the Covid-19 pandemic. It quickly became clear, however, that the one billion people living in completely or partially unmapped communities risked being left out of life-saving programs and unable to access healthcare.
 
