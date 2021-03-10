@@ -2,7 +2,7 @@
 title: Cuerpo Consultivo para el Desarrollo de Rio Piedras - Disaster Preparedness
   for Puerto Rico
 date: 2019-05-02 11:48:00 Z
-position: 29
+position: 46
 Project Summary Text: Supporting current and future disaster relief efforts for Puerto
   Rico
 Feature Image: https://cdn.hotosm.org/website/CCDRP4.jpg

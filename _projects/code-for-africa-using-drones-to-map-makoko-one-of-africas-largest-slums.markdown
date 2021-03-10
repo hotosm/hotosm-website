@@ -1,7 +1,7 @@
 ---
 title: 'Code for Africa: Using Drones to Map Makoko, One of Africa''s Largest Slums'
 date: 2019-06-05 11:52:00 Z
-position: 18
+position: 35
 Project Summary Text: Training women as drone pilots to map Makoko, one of Africa's
   largest slums, to improve service delivery for residents.
 Feature Image: https://cdn.hotosm.org/website/Code+for+Africa.jpg

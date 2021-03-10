@@ -1,6 +1,7 @@
 ---
 title: 'Resilience Mappers: Mapping informal settlements in Kampala, Uganda'
 date: 2020-11-10 14:11:00 Z
+position: 5
 Feature Image: https://cdn.hotosm.org/website/Resilience+Mappers.png
 Is Community-Led: true
 Country:

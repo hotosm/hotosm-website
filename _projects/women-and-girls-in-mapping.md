@@ -2,7 +2,7 @@
 title: Women and Girls in Mapping
 date: 2017-03-06 23:26:00 Z
 permalink: projects/women_and_girls_in_mapping
-position: 124
+position: 141
 Project Summary Text: The Women and Girls in Mapping project is aimed at including
   greater female participation across the global OpenStreetMap community.
 Feature Image: https://cdn.hotosm.org/website/mapping+safe+house.jpg

@@ -2,7 +2,7 @@
 title: 'Mapeando Meu Bairro: Flood Mapping in Mozambique'
 date: 2018-05-01 14:00:00 Z
 permalink: projects/mapeando-meu-bairro-flood-mapping-in-mozambique
-position: 60
+position: 77
 Project Summary Text: Mapping for flood prevention in Mozambique
 Feature Image: https://cdn.hotosm.org/website/2018-01-12_10-51-31_1.jpg
 Is image top aligned: true
