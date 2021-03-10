@@ -1,7 +1,7 @@
 ---
 title: Audacious Project
 date: 2020-06-18 21:40:00 Z
-permalink: hotosm.org/updates/audacious
+permalink: "/updates/audacious"
 position: 0
 Project Summary Text: The HOT community received funding from The Audacious Project,
   a collaborative philanthropic initiative that serves as a springboard for social
