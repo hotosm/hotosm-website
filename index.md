@@ -2,7 +2,7 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: true
+  Is Activated: false
   Main Block: AUDACIOUS PROJECT
   Secondary Block: What if we could map one billion people currently missing from
     the world’s maps?
