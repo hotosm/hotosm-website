@@ -1,6 +1,7 @@
 ---
 title: Audacious Project
 date: 2020-06-18 21:40:00 Z
+permalink: hotosm.org/updates/audacious
 position: 0
 Project Summary Text: The HOT community received funding from The Audacious Project,
   a collaborative philanthropic initiative that serves as a springboard for social
@@ -13,6 +14,7 @@ Country:
 - Global
 Duration:
   Start Date: 2020-06-15 00:00:00 Z
+layout: news-item
 ---
 
 HOT will continue to develop crisis response capacity and expertise and this investment from Audacious donors will enable HOT’s work to be more proactive, mapping with communities before they are in crisis. Maps and geodata are most useful if they can be used by responders before disaster strikes, such as when planning a response based on a hurricane forecast or in the early stages of an outbreak.
