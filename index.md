@@ -9,8 +9,8 @@ Banner:
   Link Copy: Find Out How
   URL: https://www.hotosm.org/projects/audacious/
 Project:
-- Audacious Project
-- HOT COVID-19 RESPONSE
+- 'Mwanza Urban Risks Mapping: Ramani Mwanza'
+- 'Integrating OpenStreetMap data into Caribbean disaster response efforts: GeoCRIS'
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
