@@ -7,7 +7,7 @@ Summary Text: Three communities in the Asia-Pacific have been selected as recipi
 Feature Image: "/uploads/Community%20Impact%20Microgrants%20FB.png"
 Person:
 - Mikko Tamura
-- Sophie Mower
+- 
 Country:
 - Fiji
 - Nepal
