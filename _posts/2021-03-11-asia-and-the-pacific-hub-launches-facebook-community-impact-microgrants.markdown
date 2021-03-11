@@ -37,5 +37,5 @@ The panel of judges who selected these projects included Yunzhi Lin and Chris Le
 
 For more information about communities that have been awarded microgrants, visit [https://www.hotosm.org/community/community-grants/](https://www.hotosm.org/community/community-grants/).
 
-*The Community Impact Microgrants 2021 program is kindly supported by Faceebook.*
+*The Community Impact Microgrants 2021 program is kindly supported by Facebook.*
 
