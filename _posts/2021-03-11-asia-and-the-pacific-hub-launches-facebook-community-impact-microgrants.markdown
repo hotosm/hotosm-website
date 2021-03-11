@@ -31,7 +31,7 @@ Congratulations to OSM Fiji, MapBeks in the Philippines, and the Geomatics Engin
 **[Geomatics Engineering Society](https://www.facebook.com/geomaticsengineeringsociety) (Nepal)**, a student organization under the Department of Geomatics Engineering, Kathmandu University, will map communities of the Chepang people, one of the highly marginalized indigenous nationalities and resource-poor tribes of Nepal, in Makwanpur district. The maps and data, which will include buildings, roads, land use, and other critical types of infrastructure, will be used to analyze disaster vulnerable areas and agricultural areas, and assess the needs for schools and health posts in the community. The data and maps will then be shared with various stakeholders like Shanti Griha Nepal, Planete Enfants & Developpement, Save the Children, Save Our Soul, Child Workers in Nepal (CWIN), USAID, Leo Club, the Rotaract Club, and various other local authorities for uplifting their communities.
 
 ![GES KU.png](/uploads/GES%20KU.png)
-Source: [Geomatics Engineering Society](http://ges.ku.edu.np/)
+*Source: [Geomatics Engineering Society](http://ges.ku.edu.np/)*
 
 The panel of judges who selected these projects included Yunzhi Lin and Chris Leggett from Facebook and HOT Voting Members Arnalie Vicaryo and Adhitya Dido.
 
