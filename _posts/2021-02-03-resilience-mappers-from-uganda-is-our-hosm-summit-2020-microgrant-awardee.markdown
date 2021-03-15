@@ -4,7 +4,10 @@ date: 2021-02-03 22:21:00 Z
 Summary Text: Congratulations to Resilience Mappers for being selected as the recipient
   of the hOSM Summit 2020 microgrant!
 Feature Image: https://cdn.hotosm.org/website/129496317_168646321653470_7792990792995818211_o.png
-Person: Mikko Tamura
+Person:
+- Geoffrey Kateregga
+- Sophie Mower
+- Mikko Tamura
 Working Group:
 - Community
 Country:
