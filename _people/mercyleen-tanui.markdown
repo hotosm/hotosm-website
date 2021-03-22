@@ -1,7 +1,7 @@
 ---
 title: Mercyleen Tanui
 date: 2021-01-07 13:11:00 Z
-Photo: https://cdn.hotosm.org/website/Screenshot+2020-12-30+at+20.04.52.png
+Photo: "/uploads/Icon.png"
 Member Type:
   Is Staff: true
 Job Title: Global IT Associate
