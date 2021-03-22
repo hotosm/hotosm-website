@@ -1,7 +1,7 @@
 ---
 title: Bry Damasco
 date: 2020-03-06 14:39:00 Z
-Photo: https://cdn.hotosm.org/website/HOT_PH01.png
+Photo: "/uploads/BryPhoto.png"
 Member Type:
   Is Staff: true
 Job Title: Partnerships Manager - Asia Pacific
