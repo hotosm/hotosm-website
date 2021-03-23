@@ -12,7 +12,7 @@ Block 1:
   Tools:
   - Name: Access our repositories
     URL: https://github.com/hotosm
-  - Name: Check Status
+  - Name: Check the status of our services
     URL: https://status.hotosm.org
 Block 2:
   Header: Learn about OpenStreetMap
