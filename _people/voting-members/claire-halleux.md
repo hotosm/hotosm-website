@@ -11,8 +11,7 @@ Working Group:
 Project:
 - LearnOSM
 - Central African Republic Activation
-Country: Congo (Kinshasa)
+Country: Democratic Republic of the Congo
 redirect_from:
 - "/users/claire_halleux"
 ---
-
