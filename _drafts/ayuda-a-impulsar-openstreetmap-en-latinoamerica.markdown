@@ -4,7 +4,7 @@ date: 2021-03-25 13:33:00 Z
 Person: Edgar Lemus Pablo
 ---
 
-Me llamo [Edgar y trabajo para HOT (el Equipo Humanitario de OpenStreetMap)](https://www.hotosm.org/people/edgar-lemus-pablo/), una ONG global dedicada a la acción humanitaria y al desarrollo comunitario a través del mapeo abierto.
+HOT es una ONG global dedicada a la acción humanitaria y el desarrollo comunitario a través del mapeo abierto y necesitamos su ayuda para tomar una decisión importante relacionada con el apoyo de la comunidad OpenStreetMap en la región de América Latina y el Caribe.
 
 Resumen rápido:
 
