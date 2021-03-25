@@ -31,9 +31,13 @@ Specifically, all partners aim to achieve the following expected results:
 The GIM initiative further aims to provide detailed capacity-strengthening support beyond the COVID-19 vaccination deployment for the future handover of project activities to national institutions, ensuring the project's long-term sustainability.
 
 [About iMMAP](https://immap.org/who-we-are/)
+
 [About Alcis](https://www.alcis.org/)
+
 [About CartONG](https://cartong.org/ngo-overview)
+
 [About Humanitarian OpenStreetMap Team](https://www.hotosm.org/)
+
 [About MapAction](https://mapaction.org/about-us/)
 
 *For more information, contact Guido Pizzini, iMMAP's Business Development and Information Management Global Advisor (gpizzini@immap.org)*
