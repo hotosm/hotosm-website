@@ -1,14 +1,15 @@
 ---
 title: Cuatro regiones, cinco años, 94 países, mil millones de personas
 date: 2020-06-19 21:07:00 Z
+Summary Text: 'En 2019, la comunidad de HOT elaboró un Plan Estratégico, en el que
+  se planteaba un objetivo audaz: cartografiar en OpenStreetMap un área en la que
+  vivan mil millones de personas. Esto nos llevó a una pregunta clave: ¿Dónde?'
 Person:
 - Rebecca Firth
 - Tyler Radford
 Project:
 - Audacious Project
 ---
-
-En 2019, la comunidad de HOT elaboró un Plan Estratégico, en el que se planteaba un objetivo audaz: cartografiar en OpenStreetMap un área en la que vivan mil millones de personas. Esto nos llevó a una pregunta clave: ¿Dónde?
 
 Para responder a esta pregunta, evaluamos el riesgo global de desastres y la pobreza (tanto multidimensional como extrema) a nivel mundial. Seleccionamos los países que cumplían o superaban uno de estos criterios, lo que indicaba que se enfrentaban a un riesgo significativo de catástrofe y/o a niveles de pobreza elevados:
 
