@@ -8,5 +8,8 @@ Member Type:
 Job Title: Associate Project Manager
 Country: Indonesia
 Team: Indonesia
+Languages:
+- English
+- Indonesia
 ---
 

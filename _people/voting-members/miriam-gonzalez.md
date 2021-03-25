@@ -12,6 +12,10 @@ Project:
 - Women and Girls in Mapping
 - Hurricane Patricia
 - Eliminar la Malaria 2020
+Languages:
+- English
+- Español
+- Português
 Social Media (Full URL):
   Twitter: https://twitter.com/@mapanauta
   LinkedIn: https://www.linkedin.com/in/miriamgonzalez2

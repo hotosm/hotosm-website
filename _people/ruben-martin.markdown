@@ -10,6 +10,9 @@ Social Media (Full URL):
   Twitter: https://twitter.com/nukeador
   LinkedIn: https://www.linkedin.com/in/ruben-rmt/
   Website: https://www.nukeador.com/
+Languages:
+- English
+- Español
 ---
 
 Rubén is HOT's Community Strategist and Research Lead, working to support the Humanitarian Open Mapping Movement by building strategies and initiatives based on good quality data and research, as well as identifying opportunities to further HOT's Audacious aims.
