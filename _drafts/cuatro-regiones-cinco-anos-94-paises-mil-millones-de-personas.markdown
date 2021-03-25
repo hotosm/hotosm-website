@@ -1,6 +1,11 @@
 ---
 title: Cuatro regiones, cinco años, 94 países, mil millones de personas
-date: 2021-03-25 21:07:00 Z
+date: 2020-06-19 21:07:00 Z
+Person:
+- Rebecca Firth
+- Tyler Radford
+Project:
+- Audacious Project
 ---
 
 En 2019, la comunidad de HOT elaboró un Plan Estratégico, en el que se planteaba un objetivo audaz: cartografiar en OpenStreetMap un área en la que vivan mil millones de personas. Esto nos llevó a una pregunta clave: ¿Dónde?
