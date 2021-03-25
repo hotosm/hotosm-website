@@ -17,12 +17,11 @@ Resumen rápido:
 
 * 📖 Por favor, lean más abajo cómo un hub puede ayudar a nuestra región.
 
-* 🗣 Y [**respondan a estas preguntas supercortas**](https://forms.gle/K6Tg3ZNpHkjvwn528) sobre lo que piensan al respecto antes del 7 de abril.
+* 🗣 Y **[respondan a estas preguntas supercortas](https://forms.gle/K6Tg3ZNpHkjvwn528)** sobre lo que piensan al respecto antes del 7 de abril.
 
 * 🎙 Haremos seguimiento con una llamada en línea para aquellos que deseen discutir los resultados con más detalle.
 
 😄 ¡Espero estén tan emocionados como nosotros por el futuro del mapeo abierto y de OpenStreetMap en LATAM y el Caribe! Por favor, lean más detalles abajo.
-
 
 ## ¿Por qué estamos creando un hub?
 
@@ -56,13 +55,13 @@ Un hub es un concepto, no sólo un espacio físico de colaboración. El hub de A
 
 Si tienen alguna pregunta o comentario, no duden en ponerse en contacto conmigo, Edgar Lemus en [edgar.lemus@hotosm.org](mailto:edgar.lemus@hotosm.org)
 
-Y por favor, no olviden contestar [**estas preguntas súper cortas antes del 7 de abril que nos ayudarán a tomar la decisión**](https://forms.gle/K6Tg3ZNpHkjvwn528).
+Y por favor, no olviden contestar **[estas preguntas súper cortas antes del 7 de abril que nos ayudarán a tomar la decisión](https://forms.gle/K6Tg3ZNpHkjvwn528)**.
 
 # Proceso de selección
 
 ## Lista extendida
 
-La lista de países prioritarios de HOT en la región constituyó la base del análisis para la ubicación de un nuevo hub. Los 15+ países de América Latina conformaron la lista extendida de opciones.
+[La lista de países prioritarios de HOT en la región](https://www.hotosm.org/updates/cuatro-regiones-cinco-anos-94-paises-mil-millones-de-personas/) constituyó la base del análisis para la ubicación de un nuevo hub. Los 15\+ países de América Latina conformaron la lista extendida de opciones.
 
 ## Preselección
 
