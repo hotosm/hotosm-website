@@ -1,7 +1,7 @@
 ---
 title: "\U0001F5FA ¡Ayuda a impulsar OpenStreetMap en Latinoamérica!"
 date: 2021-03-25 13:33:00 Z
-published: false
+Person: Edgar Lemus Pablo
 ---
 
 Me llamo [Edgar y trabajo para el Equipo Humanitario de OpenStreetMap](https://www.hotosm.org/people/edgar-lemus-pablo/) (HOT por sus siglas en Inglés), una ONG global dedicada a la acción humanitaria y al desarrollo comunitario a través del mapeo abierto.
