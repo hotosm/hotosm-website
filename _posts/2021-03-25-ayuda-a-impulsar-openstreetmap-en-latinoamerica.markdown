@@ -15,7 +15,7 @@ Resumen rápido:
 
 * 📖 Por favor, lean más abajo cómo un hub puede ayudar a nuestra región.
 
-* 🗣 Y [**respondan a estas preguntas supercortas**](https://forms.gle/K6Tg3ZNpHkjvwn528) sobre lo que piensan al respecto antes del 07 de abril.
+* 🗣 Y [**respondan a estas preguntas supercortas**](https://forms.gle/K6Tg3ZNpHkjvwn528) sobre lo que piensan al respecto antes del 7 de abril.
 
 * 🎙 Haremos seguimiento con una llamada en línea para aquellos que deseen discutir los resultados con más detalle.
 
@@ -34,7 +34,7 @@ Con la ayuda de nuestras redes en América Latina y un montón de datos, hemos p
 
 ## ¿Qué participación les pedimos?
 
-Por favor, participen en una breve encuesta (menos de 5 minutos) para compartir su punto de vista sobre la existencia de un hub de mapeo en su país: ¿Es usted partidario de ello y por qué (o por qué no)?
+Por favor, participen en una [breve encuesta](https://forms.gle/K6Tg3ZNpHkjvwn528) (menos de 5 minutos) para compartir su punto de vista sobre la existencia de un hub de mapeo en su país: ¿Es usted partidario de ello y por qué (o por qué no)?
 
 ## ¿Por qué participar?
 
@@ -54,13 +54,13 @@ Un hub es un concepto, no sólo un espacio físico de colaboración. El hub de A
 
 Si tienen alguna pregunta o comentario, no duden en ponerse en contacto conmigo, Edgar Lemus en [edgar.lemus@hotosm.org](mailto:edgar.lemus@hotosm.org)
 
-Y por favor, no olviden contestar [**estas preguntas súper cortas antes del 07 de abril que nos ayudarán a tomar la decisión**](https://forms.gle/K6Tg3ZNpHkjvwn528).
+Y por favor, no olviden contestar [**estas preguntas súper cortas antes del 7 de abril que nos ayudarán a tomar la decisión**](https://forms.gle/K6Tg3ZNpHkjvwn528).
 
 # Proceso de selección
 
 ## Lista extendida
 
-La lista de países prioritarios de HOT en la región constituyó la base del análisis para la ubicación de un nuevo hub. Los 16 países de América Latina conformaron la lista extendida de opciones.
+La lista de países prioritarios de HOT en la región constituyó la base del análisis para la ubicación de un nuevo hub. Los 15+ países de América Latina conformaron la lista extendida de opciones.
 
 ## Preselección
 
