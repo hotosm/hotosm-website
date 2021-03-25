@@ -54,7 +54,7 @@ Un hub es un concepto, no sólo un espacio físico de colaboración. El hub de A
 
 Si tienen alguna pregunta o comentario, no duden en ponerse en contacto conmigo, Edgar Lemus en [edgar.lemus@hotosm.org](mailto:edgar.lemus@hotosm.org)
 
-Y por favor, **no olviden contestar [estas preguntas súper cortas antes del 07 de abril que nos ayudarán a tomar la decisión**](https://forms.gle/K6Tg3ZNpHkjvwn528).
+Y por favor, no olviden contestar [**estas preguntas súper cortas antes del 07 de abril que nos ayudarán a tomar la decisión**](https://forms.gle/K6Tg3ZNpHkjvwn528).
 
 # Proceso de selección
 
