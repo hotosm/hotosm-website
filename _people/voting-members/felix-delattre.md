@@ -10,6 +10,10 @@ Job Title: Vice President
 Working Group:
 - Governance
 - Technical
+Languages:
+- Deutsch
+- English
+- Español
 Project:
 - Research on mapping with open machine learning
 - 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'

@@ -5,6 +5,11 @@ Photo: https://cdn.hotosm.org/website/IMG_1715.JPG
 Member Type:
   Is Staff: true
 Job Title: Program Planning Manager
+Languages:
+- Deutsch
+- English
+- فارسی
+Country: Canada
 Project:
 - 'Data for evidence-based decisions: Data Zetu'
 - 'Bridging Data Gaps: Mapping Refugee Contexts in East Africa'

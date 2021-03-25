@@ -5,6 +5,9 @@ Photo: https://cdn.hotosm.org/website/Picture.jpg
 Member Type:
   Is Staff: true
 Job Title: Proposal Development Manager
+Languages:
+- English
+- Español
 ---
 
 Camila is HOT’s Proposal Development Manager. She joined the HOT team on January 2021. 

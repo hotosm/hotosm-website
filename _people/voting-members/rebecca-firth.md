@@ -10,6 +10,9 @@ Working Group:
 - Fundraising
 - Communications
 - Community
+Languages:
+- English
+- Español
 Project:
 - Missing Maps
 - 'USAID '
