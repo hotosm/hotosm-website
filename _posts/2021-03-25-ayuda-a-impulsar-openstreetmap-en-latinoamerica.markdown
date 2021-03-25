@@ -30,7 +30,7 @@ Edgar
 
 HOT está invirtiendo en centros regionales de mapeo abierto, uno de los cuales servirá a las comunidades en Latinoamérica. Queremos que el hub apoye a los potentes movimientos locales de mapeo abierto en toda la región, con un enfoque particular en OpenStreetMap.
 
-Pero, ¡necesitamos una ubicación física!
+**Pero, ¡necesitamos una ubicación física!**
 
 ## La historia hasta ahora...
 
@@ -52,11 +52,11 @@ Queremos saber hasta qué punto las comunidades locales o los contribuidores apo
 
 Un hub es un concepto, no sólo un espacio físico de colaboración. El hub de América Latina y el Caribe apoyará los objetivos, proyectos y capacidades de la comunidad en los países de la región con el fin de aprovechar mejor los datos abiertos y la cartografía para el impacto social. Lo siguiente es un extracto de [una entrada del diario de OSM de la directora de transformación y comunidades de HOT sobre lo que serán los hubs](https://www.openstreetmap.org/user/RebeccaF/diary/395774):
 
-
+![hub concept ES.png](/uploads/hub%20concept%20ES.png)
 
 ## Retroalimentación
 
-Si tienen alguna pregunta o comentario, no duden en ponerse en contacto conmigo, Edgar Lemus en edgar.lemus@hotosm.org
+Si tienen alguna pregunta o comentario, no duden en ponerse en contacto conmigo, Edgar Lemus en [edgar.lemus@hotosm.org](mailto:edgar.lemus@hotosm.org)
 
 Y por favor, no olviden contestar estas preguntas súper cortas antes del 07 de abril que nos ayudarán a tomar la decisión\]()\[enlace\]
 
