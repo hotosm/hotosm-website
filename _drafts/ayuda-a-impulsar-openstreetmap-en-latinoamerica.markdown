@@ -14,7 +14,7 @@ Resumen rápido:
 
 * 📖 Por favor, lean más abajo cómo un hub puede ayudar a nuestra región.
 
-* 🗣 Y [respondan a estas preguntas supercortas](https://forms.gle/K6Tg3ZNpHkjvwn528) sobre lo que piensan al respecto antes del 07 de abril.
+* 🗣 Y [**respondan a estas preguntas supercortas**](https://forms.gle/K6Tg3ZNpHkjvwn528) sobre lo que piensan al respecto antes del 07 de abril.
 
 * 🎙 Haremos seguimiento con una llamada en línea para aquellos que deseen discutir los resultados con más detalle.
 
