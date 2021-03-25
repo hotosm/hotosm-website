@@ -4,8 +4,8 @@ date: 2021-03-25 16:23:00 Z
 Summary Text: '"Rolling out a vaccine against Covid-19 is the most pressing challenge
   of our time - and nobody wins the race until everyone wins." - Global Alliance for
   Vaccines and Immunization - GAVI'
-Feature Image: "/uploads/Web-thumbnail2x.png"
-Is image top aligned: true
+Feature Image: "/uploads/GIM%20Covid%20Initiative.png"
+Is image top aligned: false
 Person: Disaster Services Team
 Working Group:
 - Activation
