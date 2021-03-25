@@ -9,9 +9,9 @@ HOT es una ONG global dedicada a la acción humanitaria y el desarrollo comunita
 
 Resumen rápido:
 
-* 🚀 Estamos planeando lanzar un hub en LATAM y el Caribe, un catalizador para el mapeo abierto en la región con empleadospersonal propios que ayudará a crear, impulsar y hacer crecer comunidades nuevas o existentes de OpenStreetMap.
+* 🚀 Estamos planeando lanzar un hub en LATAM y el Caribe, un catalizador para el mapeo abierto en la región con empleados propios que ayudará a crear, impulsar y hacer crecer comunidades nuevas o existentes de OpenStreetMap.
 
-* Queremos que los colaboradorescontribuidores y miembros de la comunidad existentes (es decir, todos ustedes) sean parte del proceso de planificación e influyan en cómo y dónde establecemos esto. Hoy sólo pedimos 5 minutos de su tiempo.
+* Queremos que los contribuidores y miembros de la comunidad existentes (es decir, todos ustedes) sean parte del proceso de planificación e influyan en cómo y dónde establecemos esto. Hoy sólo pedimos 5 minutos de su tiempo.
 
 * 📖 Por favor, lean más abajo cómo un hub puede ayudar a nuestra región.
 
