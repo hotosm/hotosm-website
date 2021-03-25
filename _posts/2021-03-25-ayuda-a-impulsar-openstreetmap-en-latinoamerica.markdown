@@ -1,11 +1,11 @@
 ---
 title: "\U0001F5FA ¡Ayuda a impulsar OpenStreetMap en Latinoamérica!"
 date: 2021-03-25 13:33:00 Z
-published: false
 Summary Text: HOT es una ONG global dedicada a la acción humanitaria y el desarrollo
   comunitario a través del mapeo abierto y necesitamos su ayuda para tomar una decisión
   importante relacionada con el apoyo de la comunidad OpenStreetMap en la región de
   América Latina y el Caribe.
+Feature Image: https://cdn.hotosm.org/website/TALLER+ACCHA-1+small.jpg
 Person: Edgar Lemus Pablo
 ---
 
