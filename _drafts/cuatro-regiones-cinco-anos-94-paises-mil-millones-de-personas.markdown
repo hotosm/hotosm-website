@@ -4,6 +4,7 @@ date: 2020-06-19 21:07:00 Z
 Summary Text: 'En 2019, la comunidad de HOT elaboró un Plan Estratégico, en el que
   se planteaba un objetivo audaz: cartografiar en OpenStreetMap un área en la que
   vivan mil millones de personas. Esto nos llevó a una pregunta clave: ¿Dónde?'
+Feature Image: https://cdn.hotosm.org/website/Peru+Andrew+Ward+Photo.jpg
 Person:
 - Rebecca Firth
 - Tyler Radford
