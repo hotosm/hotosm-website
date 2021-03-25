@@ -21,9 +21,6 @@ Resumen rápido:
 
 😄 ¡Espero estén tan emocionados como nosotros por el futuro del mapeo abierto y de OpenStreetMap en LATAM y el Caribe! Por favor, lean más detalles abajo.
 
-¡Gracias!
-
-Edgar
 
 ## ¿Por qué estamos creando un hub?
 
