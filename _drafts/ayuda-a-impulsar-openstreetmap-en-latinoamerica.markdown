@@ -4,21 +4,21 @@ date: 2021-03-25 13:33:00 Z
 Person: Edgar Lemus Pablo
 ---
 
-Me llamo [Edgar y trabajo para el Equipo Humanitario de OpenStreetMap](https://www.hotosm.org/people/edgar-lemus-pablo/) (HOT por sus siglas en Inglés), una ONG global dedicada a la acción humanitaria y al desarrollo comunitario a través del mapeo abierto.
+Me llamo [Edgar y trabajo para HOT (el Equipo Humanitario de OpenStreetMap)](https://www.hotosm.org/people/edgar-lemus-pablo/), una ONG global dedicada a la acción humanitaria y al desarrollo comunitario a través del mapeo abierto.
 
 Resumen rápido:
 
-* 🚀 Estamos planeando lanzar un hub en LATAM, un catalizador para el mapeo abierto en la región con empleadospersonal propios que ayudará a crear, impulsar y hacer crecer comunidades nuevas o existentes de OpenStreetMap.
+* 🚀 Estamos planeando lanzar un hub en LATAM y el Caribe, un catalizador para el mapeo abierto en la región con empleadospersonal propios que ayudará a crear, impulsar y hacer crecer comunidades nuevas o existentes de OpenStreetMap.
 
 * Queremos que los colaboradorescontribuidores y miembros de la comunidad existentes (es decir, todos ustedes) sean parte del proceso de planificación e influyan en cómo y dónde establecemos esto. Hoy sólo pedimos 5 minutos de su tiempo.
 
 * 📖 Por favor, lean más abajo cómo un hub puede ayudar a nuestra región.
 
-* 🗣 Y [respondan a estas preguntas supercortas](enlace) sobre lo que piensan al respecto antes del 07 de abril.
+* 🗣 Y [respondan a estas preguntas supercortas](https://forms.gle/K6Tg3ZNpHkjvwn528) sobre lo que piensan al respecto antes del 07 de abril.
 
 * 🎙 Haremos seguimiento con una llamada en línea para aquellos que deseen discutir los resultados con más detalle.
 
-😄 ¡Espero estén tan emocionados como nosotros por el futuro del mapeo abierto y de OpenStreetMap en LATAM! Por favor, lean más detalles abajo.
+😄 ¡Espero estén tan emocionados como nosotros por el futuro del mapeo abierto y de OpenStreetMap en LATAM y el Caribe! Por favor, lean más detalles abajo.
 
 ¡Gracias!
 
@@ -56,7 +56,7 @@ Un hub es un concepto, no sólo un espacio físico de colaboración. El hub de A
 
 Si tienen alguna pregunta o comentario, no duden en ponerse en contacto conmigo, Edgar Lemus en [edgar.lemus@hotosm.org](mailto:edgar.lemus@hotosm.org)
 
-Y por favor, no olviden contestar estas preguntas súper cortas antes del 07 de abril que nos ayudarán a tomar la decisión\]()\[enlace\]
+Y por favor, no olviden contestar [estas preguntas súper cortas antes del 07 de abril que nos ayudarán a tomar la decisión](https://forms.gle/K6Tg3ZNpHkjvwn528).
 
 # Proceso de selección
 
