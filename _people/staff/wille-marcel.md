@@ -7,7 +7,7 @@ Member Type:
 Job Title: Module Owner
 Working Group:
 - Technical
--
+- 
 Country: Brazil
 Social Media (Full URL):
   OSM: https://openstreetmap.org/user/wille
