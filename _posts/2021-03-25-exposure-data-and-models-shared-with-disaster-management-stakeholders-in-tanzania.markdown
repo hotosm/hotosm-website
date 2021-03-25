@@ -35,7 +35,7 @@ Having disaster exposure models, such as in the visualization above, at the coun
 
 “We normally do not look at vulnerability or exposure, we directly jump to responses,” said Jonston Weston, Director of Organizational Development - Red Cross Tanzania. Data can fill this gap, and METEOR data will improve their work in reducing risks and mitigating the impacts on disasters.
 
-Tanzania Meteorological Agency (TMA) representative, Elias Lipiki, explained how the data will be of great use to forecasters. 
+Tanzania Meteorological Agency (TMA) representative, Elias Lipiki, explained how the data will be of great use to forecasters: 
 
 > “Exposure maps will specifically help TMA to predict bad weather conditions in relation to the anticipated impacts. For now, we forecast bad weather conditions with few or no anticipated impacts depending on the database that we have, meaning the forecaster relies on his/her experience of specific locations to anticipate impacts of predicted disasters. At a country level, it is hard to predict impacts without a proper database—so if we can use the data provided here, we will be able to conduct an impact-based forecast for different hazards.” 
 
