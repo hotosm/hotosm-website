@@ -43,7 +43,7 @@ El hub ofrecerá apoyo y recursos a las comunidades involucradas en mapeo abiert
 
 ## ¿Qué efecto tiene su participación en la decisión?
 
-Queremos saber hasta qué punto las comunidades locales o los contribuidores apoyan tener un hub en su país y por qué. Esto con el fin de incorporar estas importantes perspectivas en nuestro proceso de toma de decisiones. Los datos y las ideas de esta consulta, ponderados junto con otras aportaciones, informarán la recomendación final de la ubicación de un hub para el director ejecutivo y la directora de transformación y comunidades de HOT, que tomarán la decisión final.
+Queremos saber hasta qué punto las comunidades locales o los contribuidores apoyan tener un hub en su país y por qué. Esto con el fin de incorporar estas importantes perspectivas en nuestro proceso de toma de decisiones. Los datos y las ideas de esta consulta, ponderados junto con otras aportaciones, informarán la recomendación final de la ubicación de un hub para el director ejecutivo y la directora de transformación y comunidades de HOT (que luego deberá ser confirmada por [el consejo de administración de HOT](https://www.hotosm.org/board)).
 
 ## ¿Qué es un hub?
 
