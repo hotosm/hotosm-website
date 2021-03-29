@@ -22,6 +22,10 @@ collections:
     title: Jobs
     output: true
     permalink: "/jobs/:path/"
+  rfps:
+    title: RFPs
+    output: true
+    permalink: "/rfps/:path/"
   posts:
     title: News Posts
     output: true
@@ -161,6 +165,13 @@ defaults:
     Apply Form Link: 
 - scope:
     path: ''
+    type: rfps
+  values:
+    layout: page
+    Deadline Date: 
+    Apply Form Link: 
+- scope:
+    path: ''
     type: where-we-work
   values:
     layout: country
@@ -236,9 +247,7 @@ defaults:
     Download: 
 future: true
 email: info@hotosm.org
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: HOT is an international team dedicated to humanitarian action and community development through open mapping.
 baseurl: 
 url: 
 twitter_username: hotosm
@@ -254,5 +263,5 @@ paginate: 16
 paginate_path: "/updates/page:num/"
 feed:
   collections:
-  - press-releases
-  - tech-blog
+    - press-releases
+    - tech-blog
