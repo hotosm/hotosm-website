@@ -87,6 +87,6 @@ Block 6:
   Image: https://cdn.hotosm.org/website/tools-osm-analytics.png
   Tools:
   - Name: OSM Analytics
-    URL: https  ://osm-analytics.org/
+    URL: https://osm-analytics.org/
 layout: tools-and-data
 ---
