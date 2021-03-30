@@ -5,7 +5,7 @@ Summary Text: '"Rolling out a vaccine against Covid-19 is the most pressing chal
   of our time - and nobody wins the race until everyone wins." - Global Alliance for
   Vaccines and Immunization - GAVI'
 Feature Image: "/uploads/Twitter%20post2x.jpg"
-Is image top aligned: false
+Is image top aligned: true
 Person: Disaster Services Team
 Working Group:
 - Activation
