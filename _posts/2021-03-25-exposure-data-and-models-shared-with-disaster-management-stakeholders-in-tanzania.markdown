@@ -39,7 +39,7 @@ Tanzania Meteorological Agency (TMA) representative, Elias Lipiki, explained how
 
 > “Exposure maps will specifically help TMA to predict bad weather conditions in relation to the anticipated impacts. For now, we forecast bad weather conditions with few or no anticipated impacts depending on the database that we have, meaning the forecaster relies on his/her experience of specific locations to anticipate impacts of predicted disasters. At a country level, it is hard to predict impacts without a proper database—so if we can use the data provided here, we will be able to conduct an impact-based forecast for different hazards.” 
 
-![METEOR Workshop.jpg](/uploads/METEOR%20Workshop.jpg)
+![Stakeholder Workshop.jpg](/uploads/Stakeholder%20Workshop.jpg)
 *Aminiel Hillary Mshana, the Assistant Coordinator of the Dar es Salaam Multi-Agency Emergency Response Team (DarMAERT) making a comment during the workshop.*
 
 Stakeholders expressed their interest in using the data if they get the skills to use them. They wanted more capacity building, such as training on data use and incorporating models into their daily operations. This says a lot about the need that existed for data and how disaster risk reduction experts want to integrate data and technology into disaster management. Specifically, a representative from TMA asked for support from the British Geological Survey (BGS) on integrating the risk models into their database and analyzing scenarios at a country level.
