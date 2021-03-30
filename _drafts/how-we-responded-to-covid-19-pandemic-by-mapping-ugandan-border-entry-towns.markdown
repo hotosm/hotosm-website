@@ -26,7 +26,7 @@ A series of trainings and work sessions using different tools, such as JOSM, ID 
 3. More than 400km of waterways were also mapped in these all the border points. 
 4. 27 Digital and paper maps were created.
 
-![MapUganda 6.jpg](/uploads/MapUganda%206.jpg)
+![MapUganda 7.jpg](/uploads/MapUganda%207.jpg)
 *Cargo trucks lining up at the Malaba Border Point on the border of Uganda and Kenya as truck drivers wait to be tested for Covid-19 before they enter Uganda.*
 
 ### Insights from the mapped border towns
