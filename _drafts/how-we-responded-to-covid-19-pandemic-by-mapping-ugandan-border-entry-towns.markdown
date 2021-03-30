@@ -1,5 +1,6 @@
 ---
 title: How We Responded to Covid-19 Pandemic by Mapping Ugandan Border Entry Towns
+  (by MapUganda)
 date: 2021-03-30 11:16:00 Z
 Feature Image: "/uploads/MapUganda%205.jpg.png"
 Is image top aligned: true
