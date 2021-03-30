@@ -1,7 +1,15 @@
 ---
 title: How We Responded to Covid-19 Pandemic by Mapping Ugandan Border Entry Towns
 date: 2021-03-30 11:16:00 Z
-Feature Image: "/uploads/MapUganda%204.jpg.png"
+Feature Image: "/uploads/MapUganda%205.jpg.png"
+Is image top aligned: true
+Person:
+- MapUganda
+- Stellamaris Wavamunno Nakacwa
+Country:
+- Uganda
+Project:
+- 'Community development: Microgrants and Device Grants'
 ---
 
 Timely provision of medical and non-medical supplies is critical for COVID-19 response, and the need to remember the undesirable demands to protect oneself from the disease has prompted the reinvention of risk communication with targeted messaging like the “[Tonsemberera (Do not come close to me) campaign](https://www.youtube.com/watch?v=MX2AGWTUFLQ).” All over the world, the outbreak prompted the application of tools, such as digital and geospatial technology, for efficient responses, to enable the quick identification and isolation of infected individuals or families while also ensuring the efficient supply of daily needs such as food, especially among those that were gravely affected by the pandemic. 
