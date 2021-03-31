@@ -17,25 +17,25 @@ Project:
 - 'Data-Driven Disaster Risk Management: PhilAWARE'
 ---
 
-Over the past few months, we [shared articles documenting the progress of the PhilAWARE project](https://www.hotosm.org/projects/data-driven-disaster-risk-management-philaware/). A collaboration with the USAID and the Pacific Disaster Center (PDC) launched in July 2019, PhilAWARE is a custom hazard monitoring and early warning system to improve disaster management and decision making in the Philippines.  Supported by PetaBencana.id, PhilAWARE is supposed to equip the Philippines’ National Disaster Risk Reduction and Management Council (NDRRMC) of the Office of Civil Defense (OCD) with a hazard monitoring, early warning, and decision support tool.
+Over the past few months, we [shared articles documenting the progress of the PhilAWARE project](https://www.hotosm.org/projects/data-driven-disaster-risk-management-philaware/). A collaboration with the USAID and the Pacific Disaster Center (PDC) launched in July 2019, PhilAWARE is a custom hazard monitoring and early warning system to improve disaster management and decision making in the Philippines.  Supported by PetaBencana.id, PhilAWARE aims to equip the Philippines’ National Disaster Risk Reduction and Management Council (NDRRMC) of the Office of Civil Defense (OCD) with a hazard monitoring, early warning, and decision support tool.
 
-HOT Philippines is a key partner in the PhilAWARE project—tasked to fill the gaps in the critical geospatial data needed for DRRM by collecting local geospatial information including neighborhood boundary information, and transportation and critical lifeline assets such as hospitals, schools, police, and fire stations.
+HOT Philippines is a key partner in the PhilAWARE project—tasked to **fill the gaps in the critical geospatial data needed for DRRM** by collecting local geospatial information including neighborhood boundary information, and transportation and critical lifeline assets such as hospitals, schools, police, and fire stations.
 
 ![PhilAWARE activities Insdert.png](/uploads/PhilAWARE%20activities%20Insdert.png)
 
-Throughout the project duration, HOT Philippines focused on remote mapping, OSM training, and field mapping. In March 2021, the HOT Philippines field mapping team has completed the field work required by the donors, and are currently presenting the output maps to the local government units (LGUs; concerned municipalities or cities).
+Throughout the project duration, HOT Philippines focused on **remote mapping**, **OSM training**, and **field mapping**. In March 2021, the HOT Philippines field mapping team has completed the field work required by the donors, and are currently presenting the output maps to the local government units (LGUs; concerned municipalities or cities).
 
 ## Field Mapping and Training Completion
 
-Field work was carried out in the province of Pampanga. The mapping team members who collected map data on field are Aimon Pangan, Honey Fombuena, Mike Grabriel, Andrea Sebastian, Genesis David, Kristele Hicban, Aron Marin, Marc Boyles, Jared Juan, Cha Atienza.
+Field work was carried out in the province of Pampanga. The mapping team members who collected map data on field are [Aimon Pangan](https://www.openstreetmap.org/user/mipangan), [Honey Fombuena](https://www.openstreetmap.org/user/Honey%20Fombuena), [Mike Grabriel](https://www.openstreetmap.org/user/mdgabriel), [Andrea Sebastian](https://www.openstreetmap.org/user/andreaverissa), [Genesis David](https://www.openstreetmap.org/user/GenDavid), [Kristele Hicban](https://www.openstreetmap.org/user/KristeleH), [Aron Marin](https://www.openstreetmap.org/user/ADMarin12), [Marc Boyles](https://www.openstreetmap.org/user/Marc0199), [Jared Juan](https://www.openstreetmap.org/user/Jerald1992), [Cha Atienza](https://www.openstreetmap.org/user/Sehasha).
 
 * **18/22 municipalities trained:** Arayat, Guagua, Macabebe, Mexico, San Luis, Santa Rita, Bacolor, Lubao, Magalang, Minalin, San Simon, Santo Tomas, Candaba, Mabalacat, Masantol, Porac, Santa Ana, Sasmuan
 
-* **13/18 municipalities mapped: **Arayat, Guagua, Mexico, San Luis, Santa Rita, Bacolor, Lubao, Minalin, Santo Tomas
+* **13/18 municipalities mapped:** Arayat, Guagua, Mexico, San Luis, Santa Rita, Bacolor, Lubao, Minalin, Santo Tomas
 
-* **4 cities/municipalities unable to commit due to the COVID-19 situation: **Angeles, Apalit, Floridablanca, San Fernando
+* **4 cities/municipalities unable to commit due to the COVID-19 situation:** Angeles, Apalit, Floridablanca, San Fernando
 
-## **Map and Methodology Presentation to Stakeholders**
+## Map and Methodology Presentation to Stakeholders
 
 Following the completion of field work, the field mapping team spent the rest of March 2021 cleaning the data and preparing for the map and methodology presentation to stakeholders. The goal of the presentation is to share the project's progress and map data with the LGUs, and help them locate resources for mapping and training initiatives.
 
