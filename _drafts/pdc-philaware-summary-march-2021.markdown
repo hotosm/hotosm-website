@@ -23,7 +23,11 @@ HOT Philippines is a key partner in the PhilAWARE project—tasked to **fill the
 
 ![PhilAWARE activities Insdert.png](/uploads/PhilAWARE%20activities%20Insdert.png)
 
-Throughout the project duration, HOT Philippines focused on **remote mapping**, **OSM training**, and **field mapping**. In March 2021, the HOT Philippines field mapping team has completed the field work required by the donors, and are currently presenting the output maps to the local government units (LGUs; concerned municipalities or cities).
+Throughout the project duration, HOT Philippines focused on **remote mapping**, **OSM training**, and **field mapping**. In March 2021, the HOT Philippines field mapping team has completed the field work in Pampanga required by the donors, and are currently presenting the output maps to the local government units (LGUs; concerned municipalities or cities).
+
+Previously, we also shared on social media the completion of remote mapping and validation activities in a separate pilot area: Quezon City. The mapping team members behind this milestone were [Lev Daran](https://www.openstreetmap.org/user/levdaran), [Jye Abella](https://www.openstreetmap.org/user/jyeabella), [Leendel Punzalan](https://www.openstreetmap.org/user/Leendel), [Enteng Siaga](https://www.openstreetmap.org/user/Enteng%20Siaga), [Apollo Corral](https://www.openstreetmap.org/user/aacorral), [JM Espares](https://www.openstreetmap.org/user/jmres),  [Gab Valeriano](https://www.openstreetmap.org/user/gavaleriano), [Dan Handig](https://www.openstreetmap.org/user/dnchrstn).
+
+ ![QC insert.png](/uploads/QC%20insert.png)
 
 ## Field Mapping and Training Completion
 
@@ -34,6 +38,8 @@ Field work was carried out in the province of Pampanga. The mapping team members
 * **13/18 municipalities mapped:** Arayat, Guagua, Mexico, San Luis, Santa Rita, Bacolor, Lubao, Minalin, Santo Tomas
 
 * **4 cities/municipalities unable to commit due to the COVID-19 situation:** Angeles, Apalit, Floridablanca, San Fernando
+
+Currently, there are two validators hired to finish data clean-up: [Coby Jacela](https://www.openstreetmap.org/user/CobyJacela) and [Vince Dy](https://www.openstreetmap.org/user/dmdy).
 
 ## Map and Methodology Presentation to Stakeholders
 
