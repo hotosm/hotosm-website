@@ -27,7 +27,7 @@ Throughout the project duration, HOT Philippines focused on remote mapping, OSM 
 
 ## Field Mapping and Training Completion
 
-Field work was carried out in the province of Pampanga. 
+Field work was carried out in the province of Pampanga. The mapping team members who collected map data on field are Aimon Pangan, Honey Fombuena, Mike Grabriel, Andrea Sebastian, Genesis David, Kristele Hicban, Aron Marin, Marc Boyles, Jared Juan, Cha Atienza.
 
 * **18/22 municipalities trained:** Arayat, Guagua, Macabebe, Mexico, San Luis, Santa Rita, Bacolor, Lubao, Magalang, Minalin, San Simon, Santo Tomas, Candaba, Mabalacat, Masantol, Porac, Santa Ana, Sasmuan
 
