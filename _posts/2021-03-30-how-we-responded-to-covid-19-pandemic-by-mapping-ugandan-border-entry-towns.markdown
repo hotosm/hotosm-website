@@ -9,6 +9,7 @@ Is image top aligned: true
 Person:
 - MapUganda
 - Stellamaris Wavamunno Nakacwa
+- Ngumenawe Samson
 Country:
 - Uganda
 Project:
