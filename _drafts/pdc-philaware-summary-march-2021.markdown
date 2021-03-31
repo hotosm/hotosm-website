@@ -15,7 +15,7 @@ Project:
 - 'Data-Driven Disaster Risk Management: PhilAWARE'
 ---
 
-Over the past few months, we [shared articles documenting the progress of the PhilAWARE project](https://www.hotosm.org/projects/data-driven-disaster-risk-management-philaware/). A collaboration with the USAID and the Pacific Disaster Center (PDC) launched in July 2019, PhilAWARE is described as a custom hazard monitoring and early warning system to improve disaster management and decision making in the Philippines.  Supported by PetaBencana.id, PhilAWARE is supposed to equip the Philippines’ National Disaster Risk Reduction and Management Council (NDRRMC) of the Office of Civil Defense (OCD) with a hazard monitoring, early warning, and decision support tool.
+Over the past few months, we [shared articles documenting the progress of the PhilAWARE project](https://www.hotosm.org/projects/data-driven-disaster-risk-management-philaware/). A collaboration with the USAID and the Pacific Disaster Center (PDC) launched in July 2019, PhilAWARE is a custom hazard monitoring and early warning system to improve disaster management and decision making in the Philippines.  Supported by PetaBencana.id, PhilAWARE is supposed to equip the Philippines’ National Disaster Risk Reduction and Management Council (NDRRMC) of the Office of Civil Defense (OCD) with a hazard monitoring, early warning, and decision support tool.
 
 HOT Philippines is a key partner in the PhilAWARE project—tasked to fill the gaps in the critical geospatial data needed for DRRM by collecting local geospatial information including neighborhood boundary information, and transportation and critical lifeline assets such as hospitals, schools, police, and fire stations.
 
@@ -27,11 +27,11 @@ Throughout the project duration, HOT Philippines focused on remote mapping, OSM 
 
 Field work was carried out in the province of Pampanga. 
 
-* 18/22 municipalities trained: 
+* **18/22 municipalities trained:** Arayat, Guagua, Macabebe, Mexico, San Luis, Santa Rita, Bacolor, Lubao, Magalang, Minalin, San Simon, Santo Tomas, Candaba, Mabalacat, Masantol, Porac, Santa Ana, Sasmuan
 
-* 13/18 municipalities mapped: 
+* **13/18 municipalities mapped: **Arayat, Guagua, Mexico, San Luis, Santa Rita, Bacolor, Lubao, Minalin, Santo Tomas
 
-* 4 cities/municipalities unable to commit due to the COVID-19 situation: 
+* **4 cities/municipalities unable to commit due to the COVID-19 situation: **Angeles, Apalit, Floridablanca, San Fernando
 
 ## **Map and Methodology Presentation to Stakeholders**
 
@@ -47,7 +47,7 @@ As of writing, three presentations have been completed. The series of stakeholde
 
 ## Creation of the e-Learning Platform
 
-For the duration of the PhilAWARE project, volunteers from the local government units were given trainings on the following:
+Trainings for the duration of the PhilAWARE project were led by [Sen Roxas](https://www.openstreetmap.org/user/senmroxas), Training Manager of HOT Philippines, and [Honey Fombuena](https://www.openstreetmap.org/user/Honey%20Fombuena), former Data Validation Lead for the project. Volunteers from the local government units were given trainings on the following:
 
 ![Screen Shot 2021-03-31 at 2.12.36 PM.png](/uploads/Screen%20Shot%202021-03-31%20at%202.12.36%20PM.png)
 
