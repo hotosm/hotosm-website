@@ -4,6 +4,14 @@ title: 'PDC PhilAWARE Summary: Field Mapping Completion, the e-Learning Platform
 date: 2021-03-30 23:43:00 Z
 Summary Text: The PhilAWARE project This month, HOT Philippines completed the required
   field work for PhilAWARE, prepares e-Learning platform to remotely support trainings.
+Person: Jikka Defiño
+Working Group:
+- Communications
+- Community
+Country:
+- Philippines
+Project:
+- 'Data-Driven Disaster Risk Management: PhilAWARE'
 ---
 
 Over the past few months, we [shared articles documenting the progress of the PhilAWARE project](https://www.hotosm.org/projects/data-driven-disaster-risk-management-philaware/). A collaboration with the USAID and the Pacific Disaster Center (PDC) launched in July 2019, PhilAWARE is described as a custom hazard monitoring and early warning system to improve disaster management and decision making in the Philippines.  Supported by PetaBencana.id, PhilAWARE is supposed to equip the Philippines’ National Disaster Risk Reduction and Management Council (NDRRMC) of the Office of Civil Defense (OCD) with a hazard monitoring, early warning, and decision support tool.
