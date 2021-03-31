@@ -4,6 +4,7 @@ title: 'PDC PhilAWARE Summary: Field Mapping Completion, the e-Learning Platform
 date: 2021-03-30 23:43:00 Z
 Summary Text: The PhilAWARE project This month, HOT Philippines completed the required
   field work for PhilAWARE, prepares e-Learning platform to remotely support trainings.
+Feature Image: "/uploads/March%202021%20Header.png"
 Person: Jikka Defiño
 Working Group:
 - Communications
@@ -46,7 +47,11 @@ As of writing, three presentations have been completed. The series of stakeholde
 
 ## Creation of the e-Learning Platform
 
-In order to remotely support trainings of local government units (LGUs) and other stakeholders, HOT Philippines is working on an e-Learning platform. Topics covered in the platform include introductions to HOT and OSM, using the Tasking Manager, Data Validation, and downloading OSM data. The topics are introduced in chapters, with learning videos, instructional text and GIFs, and evaluations or quizzes. The platform is hosted by PDC, and will soon be accessible to stakeholders.
+For the duration of the PhilAWARE project, volunteers from the local government units were given trainings on the following:
+
+![Screen Shot 2021-03-31 at 2.12.36 PM.png](/uploads/Screen%20Shot%202021-03-31%20at%202.12.36%20PM.png)
+
+In order to remotely support trainings of local government units (LGUs) and other stakeholders, HOT Philippines is working on an e-Learning platform. Topics covered in the platform include introductions to HOT and OSM, using the Tasking Manager, Data Validation, and downloading OSM data. The topics are introduced in chapters, with learning videos, instructional text and GIFs, and quizzes or similar evaluations. The platform is hosted by PDC, and will soon be accessible to stakeholders.
 
 ![PhilAWARE eLearning Insert.png](/uploads/PhilAWARE%20eLearning%20Insert.png)
 
@@ -54,6 +59,6 @@ In order to remotely support trainings of local government units (LGUs) and othe
 
 Finally, we would like to share with the general public the Wiki pages created for this project. You may refer to these resources for further information regarding the project.
 
-* [PhilAWARE Data Model](https://wiki.openstreetmap.org/wiki/PhilAWARE_Data_Model) -
+* [PhilAWARE Data Model](https://wiki.openstreetmap.org/wiki/PhilAWARE_Data_Model): This page outlines the data model used by the field mapping team. This was created by [Feye Andal](https://www.openstreetmap.org/user/feyeandal), former Tech and GIS Specialist of HOT Philippines, and is being updated by members of the OpenStreetMap Philippines community.
 
-* [HOT Philippines' PhilAWARE Project](https://wiki.openstreetmap.org/wiki/HOT-Philippines%27_PhilAWARE_Project) -
+* [HOT Philippines' PhilAWARE Project](https://wiki.openstreetmap.org/wiki/HOT-Philippines%27_PhilAWARE_Project): This page contains general information about the project. You may find here the mapping methodology, project calendar, collaterals, and media mentions which you may refer to for your own projects or publications. This page was created by [Aimon Pangan](https://www.openstreetmap.org/user/mipangan), former Field Coordinator of HOT Philippines, and is being updated by [Jikka Defiño](https://wiki.openstreetmap.org/wiki/User:Jikka), former Communications Associate of HOT Philippines.
