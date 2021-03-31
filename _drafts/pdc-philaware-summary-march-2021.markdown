@@ -49,6 +49,8 @@ Following the completion of field work, the field mapping team spent the rest of
 
 Two output maps are presented to each LGU: one that shows the map data over imagery, and one that highlights the locations of POIs and other elements in the map key. Above is an example of an output map for one municipality in Pampanga: Santo Tomas. 13 pairs of output maps will be presented to the stakeholders.
 
+The output maps will also be uploaded on the Wiki pages linked in the resources section below.
+
 ![Stakeholder Pres Insert.png](/uploads/Stakeholder%20Pres%20Insert.png)
 
 As of writing, three presentations have been completed. The series of stakeholder meetings are still being coordinated by [Joji Bonilla](https://www.openstreetmap.org/user/bisaykid), Country Manager of HOT Philippines. Since strict lockdowns in the Philippines have been imposed again, the presentations and sharing of resources are done online.
