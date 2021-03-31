@@ -67,7 +67,7 @@ In order to remotely support trainings of local government units (LGUs) and othe
 
 ## Resources for the General Public
 
-Finally, we would like to share with the general public the Wiki pages created for the PhilAWARE project. You may refer to these resources for further information regarding the project.
+Finally, we would like to share with the general public the Wiki pages created for the PhilAWARE project. You may refer to these resources for further information regarding the project. We will be updating these pages over the next couple of days.
 
 * [PhilAWARE Data Model](https://wiki.openstreetmap.org/wiki/PhilAWARE_Data_Model): This page outlines the data model used by the field mapping team. This was created by [Feye Andal](https://www.openstreetmap.org/user/feyeandal), former Tech and GIS Specialist of HOT Philippines, and is being updated by members of the OpenStreetMap Philippines community.
 
