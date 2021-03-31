@@ -47,6 +47,8 @@ Two output maps are presented to each LGU: one that shows the map data over imag
 
 As of writing, three presentations have been completed. The series of stakeholder meetings are still being coordinated. Since strict lockdowns in the Philippines have been imposed again, the presentations and sharing of resources are done online.
 
+![Map Presentation Insert-75e333.png](/uploads/Map%20Presentation%20Insert-75e333.png)
+
 ## Creation of the e-Learning Platform
 
 Trainings for the duration of the PhilAWARE project were led by [Sen Roxas](https://www.openstreetmap.org/user/senmroxas), Training Manager of HOT Philippines, and [Honey Fombuena](https://www.openstreetmap.org/user/Honey%20Fombuena), former Data Validation Lead for the project. Volunteers from the local government units were given trainings on the following:
@@ -59,7 +61,7 @@ In order to remotely support trainings of local government units (LGUs) and othe
 
 ## Resources for the General Public
 
-Finally, we would like to share with the general public the Wiki pages created for this project. You may refer to these resources for further information regarding the project.
+Finally, we would like to share with the general public the Wiki pages created for the PhilAWARE project. You may refer to these resources for further information regarding the project.
 
 * [PhilAWARE Data Model](https://wiki.openstreetmap.org/wiki/PhilAWARE_Data_Model): This page outlines the data model used by the field mapping team. This was created by [Feye Andal](https://www.openstreetmap.org/user/feyeandal), former Tech and GIS Specialist of HOT Philippines, and is being updated by members of the OpenStreetMap Philippines community.
 
