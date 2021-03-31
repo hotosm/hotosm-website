@@ -45,7 +45,7 @@ Two output maps are presented to each LGU: one that shows the map data over imag
 
 ![Stakeholder Pres Insert.png](/uploads/Stakeholder%20Pres%20Insert.png)
 
-As of writing, three presentations have been completed. The series of stakeholder meetings are still being coordinated. Since strict lockdowns in the Philippines have been imposed again, the presentations and sharing of resources are done online.
+As of writing, three presentations have been completed. The series of stakeholder meetings are still being coordinated by [Joji Bonilla](https://www.openstreetmap.org/user/bisaykid), Country Manager of HOT Philippines. Since strict lockdowns in the Philippines have been imposed again, the presentations and sharing of resources are done online.
 
 ![Map Presentation Insert-75e333.png](/uploads/Map%20Presentation%20Insert-75e333.png)
 
@@ -66,3 +66,5 @@ Finally, we would like to share with the general public the Wiki pages created f
 * [PhilAWARE Data Model](https://wiki.openstreetmap.org/wiki/PhilAWARE_Data_Model): This page outlines the data model used by the field mapping team. This was created by [Feye Andal](https://www.openstreetmap.org/user/feyeandal), former Tech and GIS Specialist of HOT Philippines, and is being updated by members of the OpenStreetMap Philippines community.
 
 * [HOT Philippines' PhilAWARE Project](https://wiki.openstreetmap.org/wiki/HOT-Philippines%27_PhilAWARE_Project): This page contains general information about the project. You may find here the mapping methodology, project calendar, collaterals, and media mentions which you may refer to for your own projects or publications. This page was created by [Aimon Pangan](https://www.openstreetmap.org/user/mipangan), former Field Coordinator of HOT Philippines, and is being updated by [Jikka Defiño](https://wiki.openstreetmap.org/wiki/User:Jikka), former Communications Associate of HOT Philippines.
+
+Should you wish to get more information about the project or suggest edits, please contact [Joji Bonilla](https://www.openstreetmap.org/user/bisaykid), or the Wiki page authors through their linked OSM/Wiki accounts.
