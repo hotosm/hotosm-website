@@ -85,6 +85,10 @@ Los criterios de selección abarcaron una variedad de áreas, incluyendo (pero n
 
 La jerarquización relativa se realizó utilizando los datos cuantitativos. Los países con mayor puntuación mediante una media ponderada conformaron la lista corta de 8 países. Por último, los datos cualitativos se recopilaron a través de conversaciones con personas de esos países y de los sitios web del gobierno (por ejemplo, el proceso para obtener visados de trabajo o registrar una entidad legal local) para así llegar a esta lista final de tres: Colombia, Costa Rica y México.
 
+> **Actualizado el 1° de abril de 2021**
+>
+> Durante el proceso de consulta se nos han señalado algunas fuentes adicionales de datos, por lo que estamos reevaluando la lista de países preseleccionados y es posible que añadamos Panamá. Sin embargo, hasta que no se analicen estos datos recientes, esto aun no está confirmado y sólo debe considerarse como una posibilidad en esta fase. Si se añade Panamá a la lista, consultaremos a la comunidad de ese país respectivamente, al igual que hemos hecho con los otros tres países preseleccionados.
+
 ## Lo que sucederá a continuación...
 
 Los datos y las lecciones aprendidas de esta consulta se incorporarán de manera diligente al proceso de toma de decisiones para la ubicación del hub.
