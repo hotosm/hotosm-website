@@ -26,13 +26,13 @@ Some of you may remember [these daily posts](https://www.openstreetmap.org/user/
 
 > #### **Lesson 1:** *Sprint by name, marathon by nature. It may be called a sprint, but it requires the dedication, resilience and effort of a marathon.*
 
-### Round 1
+# Round 1
 
 Our RaDs started with the intention of better understanding of who hot_tech served and how. Our [BIG QUESTION](https://www.openstreetmap.org/user/bo_hot/diary/395166) -  “What makes our groups stick, tick and thrive?”. We connected and explored with groups such as members of OSM Francophone, UN Mappers, Slum Dwellers International and a host of other super interesting collectives. We learned so much that to capture it all here would result in a post that is either too long, or under representative. As such, a few key learnings I wanted to share and the rest can be content for future posts.
 
 ![RaDs pic one](https://i.ibb.co/dmVH8dP/hmws.jpg)
 
-#### My reflections:
+### My reflections:
 
 **We are one, but we are many** - I can honestly say, that no two groups were the same. Their values, purpose, motivations and priorities vary as far as the geographies they span. And, they change over time. Understanding the diversity both within groups and across groups, makes our space both challenging and exciting. From a design perspective, it also makes it really difficult to identify your typical user for a personal perspective, it highlights just how diverse people that come to OSM are, which, I celebrate emphatically, as it means that we have a near infinite about of potential.
 
@@ -42,11 +42,11 @@ Our RaDs started with the intention of better understanding of who hot_tech serv
 
 ![storyboard](https://i.ibb.co/j5wqDb1/storyboard.jpg)
 
-#### Output:
+### Output:
 
 Nice reflections Bo, but what did you actually do? Where did you end up? Well, glad you asked. We developed a prototype for an idea to support the individuals that are coordinating collectives to encourage and engage more mappers. You can see the prototype we built [on figma here](https://www.figma.com/file/rmYQWB4QfhP8M9kRRu5tZr/Mapathon-Event-Page?node-id=5%3A40).
 
-## Round 2
+# Round 2
 
 As if we didn’t already feel the 2am meetings and the 6am starts hard enough, hot_tech decided to go back for seconds. This time in partnership with Accenture and two of their wonderful designers who added some external enthusiasm and expertise.  This time we decided to switch the focus from remote collectives to local ones by exploring the focus: Identify and breakdown problems maps can help solve. I can honestly say that this did not go in the direction I had in mind, and yet ended exactly where it was supposed to.
 
@@ -54,7 +54,7 @@ As if we didn’t already feel the 2am meetings and the 6am starts hard enough, 
 
 ![decide](https://i.ibb.co/Lhkx0sn/decide.jpg)
 
-#### Bo’s Reflections:
+### Bo’s Reflections:
 
 **What do needs, need?** - One thing I found really interesting in this sprint was exploring what people need to support other needs. For example, what data do you need if you want to support water or sanitation projects in your community? For those that have been around OSM and mapping for a while, we often make the assumption that people know exactly what they need and why. We learned in this sprint that assumption is often not the case.
 
@@ -72,7 +72,7 @@ So where did this all end up? We ended up a with a prototype that aims to connec
 
 ![tested_two](https://i.ibb.co/5G8PnxJ/tested2.jpg)
 
-### What next?
+# What next?
 
 Now what? Well, over the course of these RaDs we collected a lot of thinking material. Our conversations lead us to so many different places and now we have to boil this all down to something usable and useful. The next steps you will soon see coming from us are:
 
