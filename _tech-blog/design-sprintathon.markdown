@@ -45,7 +45,7 @@ Our RaDs started with the intention of better understanding of who hot_tech serv
 
 Nice reflections Bo, but what did you actually do? Where did you end up? Well, glad you asked. We developed a prototype for an idea to support the individuals that are coordinating collectives to encourage and engage more mappers. You can see the prototype we built [on figma here](https://www.figma.com/file/rmYQWB4QfhP8M9kRRu5tZr/Mapathon-Event-Page?node-id=5%3A40).
 
-### Round 2
+## Round 2
 
 As if we didn’t already feel the 2am meetings and the 6am starts hard enough, hot_tech decided to go back for seconds. This time in partnership with Accenture and two of their wonderful designers who added some external enthusiasm and expertise.  This time we decided to switch the focus from remote collectives to local ones by exploring the focus: Identify and breakdown problems maps can help solve. I can honestly say that this did not go in the direction I had in mind, and yet ended exactly where it was supposed to.
 
@@ -70,8 +70,6 @@ So where did this all end up? We ended up a with a prototype that aims to connec
 ![tested](https://i.ibb.co/FsnqkV2/tested.jpg)
 
 ![tested_two](https://i.ibb.co/5G8PnxJ/tested2.jpg)
-
-<br>
 
 ### What next?
 
