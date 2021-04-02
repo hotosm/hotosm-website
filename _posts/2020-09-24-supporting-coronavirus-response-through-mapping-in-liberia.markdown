@@ -1,5 +1,5 @@
 ---
-title: Supporting Coronavirus Response Through Mapping in Liberia
+title: Supporting Coronavirus Response Through Mapping in Liberia (by iLab Liberia)
 date: 2020-09-24 13:45:00 Z
 Summary Text: 'In May 2020, iLab Liberia was awarded a microgrant as part of the Humanitarian
   OpenStreetMap Team’s (HOT) Rapid Response Microgrant: COVID-19 Program. Here’s iLab’s
