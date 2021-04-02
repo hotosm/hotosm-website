@@ -11,8 +11,9 @@ tags:
 - tech
 Summary Text: "hot_tech kicked off 2021 with what started out with a big idea to run
   some rapid assessment and design sprints (RaDs). We learned that sprint, drastically
-  underestimates the epics efforts it takes to get a sprint across the line. \n\nWe
-  also learned so much about the collectives we serve and how we can serve them better..."
+  underestimates the epic time & efforts it takes to get a sprint across the line.
+  \n\nWe also learned so much about the collectives we serve and how we can serve
+  them better..."
 Feature Image: "/uploads/hmws.jpg"
 Person: Bo Percival
 ---
