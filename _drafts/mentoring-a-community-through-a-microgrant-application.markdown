@@ -1,7 +1,7 @@
 ---
 title: Mentoring a Community Through a Microgrant Application
 date: 2021-04-05 07:40:00 Z
-Feature Image: "/uploads/CI%20Microgrant%202021-e24064.png"
+Feature Image: "/uploads/CI%20Microgrant%202021-92ccf3.png"
 Is image top aligned: true
 Person: Sophie Mower
 Project:
