@@ -1,16 +1,19 @@
 ---
 title: Mentoring a Community Through a Microgrant Application
 date: 2021-04-05 07:40:00 Z
-Feature Image: "/uploads/CI%20Microgrant%202021-92ccf3.png"
+Summary Text: As part of the most recent call for Facebook Community Impact Microgrant
+  applications, HOT tried a new mentorship approach to supporting OpenStreetMap (OSM)
+  community members through the application process.
+Feature Image: "/uploads/Mentorship%20Post.png"
 Is image top aligned: true
 Person: Sophie Mower
 Project:
 - 'Community development: Microgrants and Device Grants'
 ---
 
-As part of the most recent call for Facebook Community Impact Microgrant applications, HOT tried a new mentorship approach to supporting OpenStreetMap (OSM) community members through the application process. Between 1 January and 31 January 2021, communities who signed up to the program were paired with mentors who would help with project identification and development and guidance on budget creation and project plan articulation.
+Since 2017, 221 communities and individuals have applied to HOT’s microgrant program and 66 of them have received the award). With each open call, the applications received have varied in strength. 
 
-Since 2017, 221 communities and individuals have applied to HOT’s microgrant program and 66 of them have received the award). With each open call, the applications received have varied in strength. By providing guidance during the ‘idea development’ phase, the mentorship program’s goal was to enable communities to submit more developed proposals with clearly defined project objectives and detailed, realistic work plans and budgets. 
+Between 1 January and 31 January 2021, communities who signed up to the program were paired with mentors who would help with project identification and development and guidance on budget creation and project plan articulation. By providing guidance during the ‘idea development’ phase, the mentorship program’s goal was to enable communities to submit more developed proposals with clearly defined project objectives and detailed, realistic work plans and budgets. 
 
 OSM communities and mentors were paired based on skills, experience, location, expertise, and interests. 
 
