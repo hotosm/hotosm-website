@@ -1,6 +1,11 @@
 ---
 title: Mentoring a Community Through a Microgrant Application
 date: 2021-04-05 07:40:00 Z
+Feature Image: "/uploads/CI%20Microgrant%202021-e24064.png"
+Is image top aligned: true
+Person: Sophie Mower
+Project:
+- 'Community development: Microgrants and Device Grants'
 ---
 
 As part of the most recent call for Facebook Community Impact Microgrant applications, HOT tried a new mentorship approach to supporting OpenStreetMap (OSM) community members through the application process. Between 1 January and 31 January 2021, communities who signed up to the program were paired with mentors who would help with project identification and development and guidance on budget creation and project plan articulation.
