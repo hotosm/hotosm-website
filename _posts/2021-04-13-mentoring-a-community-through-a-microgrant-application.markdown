@@ -1,6 +1,6 @@
 ---
 title: Mentoring a Community Through a Microgrant Application
-date: 2021-04-05 07:40:00 Z
+date: 2021-04-13 07:00:00 Z
 Summary Text: As part of the most recent call for Facebook Community Impact Microgrant
   applications, HOT tried a new mentorship approach to supporting OpenStreetMap (OSM)
   community members through the application process.
