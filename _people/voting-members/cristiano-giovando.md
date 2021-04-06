@@ -16,6 +16,9 @@ Project:
 - Nepal 2015 Earthquake Response
 - HOT Training Center
 Country: Italy
+Languages:
+- English
+- Italiano
 Social Media (Full URL):
   Twitter: https://twitter.com/giovand
   LinkedIn: https://www.linkedin.com/in/giovando

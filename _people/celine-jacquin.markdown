@@ -5,6 +5,7 @@ Photo: "/uploads/Celine.jpg"
 Member Type:
   Is Staff: true
 Job Title: Project Manager - Latin America
+Country: Mexico
 Languages:
 - English
 - Español
