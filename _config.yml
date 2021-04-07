@@ -22,10 +22,6 @@ collections:
     title: Jobs
     output: true
     permalink: "/jobs/:path/"
-  rfps:
-    title: RFPs
-    output: true
-    permalink: "/rfps/:path/"
   posts:
     title: News Posts
     output: true
@@ -56,6 +52,10 @@ collections:
       link: 
     - tool: 
       link: 
+  rfps:
+    title: RFPs
+    output: true
+    permalink: "/rfps/:path/"
   tech-blog:
     title: Tech Blog
     output: true
@@ -247,7 +247,8 @@ defaults:
     Download: 
 future: true
 email: info@hotosm.org
-description: HOT is an international team dedicated to humanitarian action and community development through open mapping.
+description: HOT is an international team dedicated to humanitarian action and community
+  development through open mapping.
 baseurl: 
 url: 
 twitter_username: hotosm
@@ -263,5 +264,5 @@ paginate: 16
 paginate_path: "/updates/page:num/"
 feed:
   collections:
-    - press-releases
-    - tech-blog
+  - press-releases
+  - tech-blog
