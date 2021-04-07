@@ -22,7 +22,7 @@ Well, what a start to the year it's been.
 
 It's taken a little while to get this post together, as I think myself and the rest of hot_tech needed a bit of time to recover after kicking of this year in 6th gear with two back to back RaDs.
 
-Some of you may remember [these daily posts](https://www.openstreetmap.org/user/bo_hot/diary/395158) introducing everyone to the concept of hot_tech Rapid Assessment Design Prints (aka RaDs). Back then, in writing, it all seemed so clear and clean. Now writing this, I remember just how muddy and messy this process is in action. A process of continuous lessons and learning.
+Some of you may remember [these daily posts](https://www.openstreetmap.org/user/bo_hot/diary/395158) introducing everyone to the concept of hot_tech Rapid Assessment Design Sprints (aka RaDs). Back then, in writing, it all seemed so clear and clean. Now writing this, I remember just how muddy and messy this process is in action. A process of continuous lessons and learning.
 
 > #### **Lesson 1:** *Sprint by name, marathon by nature. It may be called a sprint, but it requires the dedication, resilience and effort of a marathon.*
 
