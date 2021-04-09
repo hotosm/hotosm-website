@@ -7,6 +7,7 @@ Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/pictu
 Member Type:
   Is Voting Member: true
   Is Board Member: true
+Job Title: Member-at-large
 Project:
 - Outreachy
 - LearnOSM
