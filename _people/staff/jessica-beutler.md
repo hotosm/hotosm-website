@@ -5,7 +5,6 @@ Photo: https://cdn.hotosm.org/website/Screen+Shot+2018-09-15+at+12.29.57.png
 Member Type:
   Is Staff: false
   Is Voting Member: true
-Job Title: Voting Member
 Working Group:
 - Training
 Project:
