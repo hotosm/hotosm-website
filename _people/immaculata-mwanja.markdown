@@ -7,5 +7,7 @@ Member Type:
 Job Title: Operations Manager
 Country: Tanzania
 Team: Tanzania
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Immaculate%20Mwanja
 ---
 

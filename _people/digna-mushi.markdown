@@ -7,5 +7,7 @@ Member Type:
 Job Title: Assistant Innovation Officer
 Country: Tanzania
 Team: Tanzania
+Social Media (Full URL):
+  OSM: https://www.hotosm.org/people/digna-mushi
 ---
 

@@ -7,5 +7,7 @@ Member Type:
 Job Title: Senior Mapping Supervisor
 Country: Uganda
 Team: Uganda
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Mbabani%20Allan
 ---
 

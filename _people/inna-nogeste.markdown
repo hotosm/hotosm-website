@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Country: Sweden
 Job Title: Executive Assistant to the Board of Directors
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/InnaN
 ---
 
 Inna is the Executive Assistant to the Board of Directors and joined HOT in 2021.

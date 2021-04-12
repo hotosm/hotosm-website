@@ -7,6 +7,8 @@ Member Type:
 Job Title: Scrum Master and Agile Coach
 Country: Philippines
 Team: Tech Team
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Hya%20Umaran
 ---
 
 Hya has joined HOT to support the organisation and teams towards agile mindset and delivery. She is an IT professional who is innovative, with combined skills of business and technical acumen. Appointed to lead start-up and pilot teams both in corporate and non-profit organisations, she honed her skills in the areas of coaching, mentoring, facilitation and product management.

@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Job Title: Community Support Manager
 Country: United Kingdom
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/se_mower
 ---
 
 As Community Support Manager in HOT’s Community & Transformation team, Sophie’s role is to use an open innovation approach to work with global and regional teams to develop, test and scale different elements of community support. With a focus on the delivery of the microgrants program, Sophie co-creates support methods for sustainability plans with OSM communities, analyses support impact, and contributes to the development of networks of humanitarian OpenStreetMap contributors and communities.

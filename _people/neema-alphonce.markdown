@@ -7,5 +7,7 @@ Member Type:
 Job Title: Quality Assurance Supervisor
 Country: Tanzania
 Team: Tanzania
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/NeemaAlphonce
 ---
 

@@ -7,5 +7,7 @@ Member Type:
 Job Title: Finance Assistant
 Country: Tanzania
 Team: Tanzania
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Joan%20Kamwela
 ---
 

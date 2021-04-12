@@ -9,5 +9,7 @@ Country: Tanzania
 Team: Tanzania
 redirect_from:
 - "/users/hawa_adinani"
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Hawa%20Adinani
 ---
 

@@ -7,5 +7,7 @@ Member Type:
 Job Title: Mapping Supervisor
 Country: Tanzania
 Team: Tanzania
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/tonny%20john
 ---
 

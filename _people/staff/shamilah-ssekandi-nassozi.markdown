@@ -7,5 +7,7 @@ Member Type:
 Job Title: GIS Training Associate
 Country: Uganda
 Team: Uganda
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Shamillah
 ---
 

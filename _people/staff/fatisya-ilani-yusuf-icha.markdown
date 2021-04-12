@@ -8,5 +8,7 @@ Member Type:
 Job Title: Senior Mapping Supervisor
 Country: Indonesia
 Team: Indonesia
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Fatisya%20Ilani%20Yusuf
 ---
 

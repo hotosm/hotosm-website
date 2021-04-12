@@ -5,6 +5,8 @@ Photo: https://cdn.hotosm.org/website/Profile+Photo.png
 Member Type:
   Is Staff: true
 Job Title: 'Senior Manager: Program Planning'
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Teia%20Rogers
 ---
 
 As Senior Manager: Program Planning, Teia plays a leading role in organizing the planning, management, cross-team collaboration, and reporting on HOT's Audacious Project. She supports teams across functional areas and leads the HOT goal-setting process.
