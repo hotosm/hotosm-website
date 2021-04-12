@@ -13,6 +13,5 @@ Social Media (Full URL):
 Languages:
 - English
 - Indonesia
-
 ---
 
