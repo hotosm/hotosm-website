@@ -8,6 +8,10 @@ Job Title: Information Management Associate
 Country: Panama
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Claudio%20de%20los%20Reyes%20(HOT)
+Languages:
+- English
+- Español
+
 ---
 
 Claudio is HOT’s Information Management (IM) associate for DST. He has a transdisciplinary background on social sciences, data visualization, and GIS with a focus on disasters and crisis. As an IM specialist, he was deployed for IFRC’s Hurricane Dorian Operation in the Bahamas; for the migration crisis in Latin America; as remote support to Hurricane Eta/Iota operations in Honduras, Guatemala, and Nicaragua; and to Haiti, Dominican Republic, Chile, Argentina, and Uruguay for capacity building.

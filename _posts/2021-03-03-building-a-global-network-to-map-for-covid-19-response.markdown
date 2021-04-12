@@ -21,10 +21,12 @@ There was uncertainty about how mapping could be used to support response effort
 By the end of March 2020, the Humanitarian OpenStreetMap Team (HOT) put in place a plan to focus on three key areas:
 
 1. Help government agencies and responders to identify where unmapped vulnerable populations were located to plan for cash-based interventions
+
 2. Identify where at-risk populations of the most vulnerable people live, (including the population aged over 60 and those with pre-existing conditions such as HIV/AIDS) as well as identifying missing data on health infrastructure such as facilities, testing sites, pharmacies, laboratories, and resource distribution centers
+
 3. Fund local mapping groups via Rapid Response Emergency Microgrants in places most at-risk.
 
-Supported by the H2H Network, HOT coordinated the most extensive disaster mapping activation in its history, using [OpenStreetMap](https://www.openstreetmap.org/) -- an open-source, editable, and freely accessible map of the world. Over the course of 2020, the response grew into a network of teams, online volunteers, national governments, and local communities supporting mapping responses around the world.
+Supported by the [H2H Network](https://h2hnetwork.org/), HOT coordinated the most extensive disaster mapping activation in its history, using [OpenStreetMap](https://www.openstreetmap.org/) -- an open-source, editable, and freely accessible map of the world. Over the course of 2020, the response grew into a network of teams, online volunteers, national governments, and local communities supporting mapping responses around the world.
 
 HOT’s role in this response covered a wide range of activities, including managing remote mapping projects, validating data quality, engaging in humanitarian outreach, data management support and training, data analysis and visualization, and web map creation.
 

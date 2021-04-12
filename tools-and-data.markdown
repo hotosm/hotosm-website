@@ -11,55 +11,61 @@ Block 1:
   Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
   - Name: Access our repositories
-    URL: http://github.com/hotosm
-  - Name: Check Status
+    URL: https://github.com/hotosm
+  - Name: Check the status of our services
     URL: https://status.hotosm.org
 Block 2:
   Header: Learn about OpenStreetMap
   Text: OpenStreetMap is a free street level map of the world, created by an ever
     growing community of mappers. Get started by learning about how to edit OpenStreetMap
     or using the many tools available to edit or use OSM data. Check out the resources
-    available within LearnOSM or the HOT Training Center.
+    available within LearnOSM or the HOT Training Center. The OSM Wiki has documentation
+    around feature tags and processes of the community.
   Image: https://cdn.hotosm.org/website/tools-learnosm.png
   Tools:
   - Name: LearnOSM
-    URL: http://learnosm.org
+    URL: https://learnosm.org
   - Name: Training Center
-    URL: http://courses.hotosm.org/
+    URL: https://courses.hotosm.org/
+  - Name: OpenStreetMap
+    URL: https://openstreetmap.org
+  - Name: OSM Wiki
+    URL: https://wiki.openstreetmap.org
 Block 3:
   Header: Plan a Mapping Campaign
   Text: If you are interested in starting a remote or field mapping campaign, you
     can get started by finding available imagery to use via OpenAerialMap, plan a
     remote mapping campaign via the Tasking Manager, or set up and track a field campaign
     with MapCampaigner.
-  Image: https://cdn.hotosm.org/website/tools-taskingmanager.png
+  Image: "/uploads/tm4-explore.png"
   Tools:
   - Name: OpenAerialMap
     URL: https://openaerialmap.org/
   - Name: Tasking Manager
     URL: https://tasks.hotosm.org/
   - Name: Map Campaigner
-    URL: http://campaigns.hotosm.org/
+    URL: https://campaigns.hotosm.org/
 Block 4:
   Header: Edit the Map
   Text: Quickly get started with editing and contibuting to OpenStreetMap via the
     Tasking Manager. You can volunteer your time to active mapping projects and support
-    organizations in need of map data around the world. Check out OpenMapKit or Maps.me
-    for field based editing of OpenStreetMap. In low-bandwidth or disconnected environments,
+    organizations in need of map data around the world. Check out OpenMapKit for field
+    based editing of OpenStreetMap. In low-bandwidth or disconnected environments,
     Field Papers can be used for paper-based data capture and POSM can be used for
-    offline OSM editing.
+    offline OSM editing. RapiD is an editor that uses Artificial Inteligence to detect
+    unmapped roads and buildings.
   Image: https://cdn.hotosm.org/website/tools-openmapkit.png
   Tools:
   - Name: Tasking Manager
     URL: https://tasks.hotosm.org/
   - Name: OpenMapKit
     URL: http://openmapkit.org/
-  - Name: Maps.me
-    URL: https://maps.me/
   - Name: Field Papers
     URL: http://www.fieldpapers.org
   - Name: Portable OpenStreetMap (POSM)
     URL: http://posm.io/
+  - Name: RapiD
+    URL: https://mapwith.ai/rapid/
 Block 5:
   Header: Access OSM Data
   Text: To access OSM data, HOT built the Export Tool which allows anyone to create
@@ -81,7 +87,7 @@ Block 6:
   Image: https://cdn.hotosm.org/website/tools-osm-analytics.png
   Tools:
   - Name: OSM Analytics
-    URL: http://osm-analytics.org/
+    URL: https://osm-analytics.org/
 layout: tools-and-data
 ---
 

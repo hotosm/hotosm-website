@@ -6,6 +6,10 @@ Member Type:
   Is Staff: true
 Job Title: Developer
 Country: Colombia
+Languages:
+- English
+- Español
+- Italiano
 Social Media (Full URL):
   Twitter: https://twitter.com/_JorgeMartinezG
 ---

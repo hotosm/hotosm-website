@@ -154,6 +154,6 @@ We may modify this Privacy Policy from time to time.  All such changes will be r
 
 If you have a question about this Privacy Policy, please contact us at [info@hotosm.org](mailto:info@hotosm.org).  Additional contact details are as follows:
 
-1110 Vermont Avenue NW  
-Suite 500  
-Washington, D.C. 20005  
+1100 13th Street NW
+Suite 800
+Washington, D.C. 20005

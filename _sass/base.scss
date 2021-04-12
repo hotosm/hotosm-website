@@ -303,6 +303,13 @@ em {
   }
 }
 
+.w100 {
+  width: 100%;
+}
+.block {
+  display: block;
+}
+
 .subnav {
   background-color: $tan;
   display: flex;
@@ -387,7 +394,6 @@ em {
 .di {
   display: inline !important;
 }
-
 
 ////////////////////////////////////////////////
 ///////////////////// Forms ////////////////////

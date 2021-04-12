@@ -11,3 +11,6 @@ HOT values transparency and equity in salaries.
 <br />
 
 Please see our [Salary Framework](/salaries) for more information.
+
+<br />
+Looking for organizational and consulting opportunities? See our [Requests for Proposals page](/rfps).  

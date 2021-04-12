@@ -16,6 +16,9 @@ Project:
 - Nepal 2015 Earthquake Response
 - HOT Training Center
 Country: Italy
+Languages:
+- English
+- Italiano
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/giovand
   Twitter: https://twitter.com/giovand

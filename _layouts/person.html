@@ -157,6 +157,16 @@ layout: default
           </div>
         {% endif %}
 
+        {% if page['Languages'][0] != '' %}
+          <div class="meta-item">
+            <h5>Languages</h5>
+            <ul>
+              {% for language in page['Languages'] %}
+                <li>{{ language }}</li>
+              {% endfor %}
+            </ui>
+          </div>
+        {% endif %}
       </div>
     </div>
   </div>
