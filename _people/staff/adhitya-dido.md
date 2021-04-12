@@ -10,5 +10,7 @@ Country: Indonesia
 Team: Indonesia
 redirect_from:
 - "/users/adhitya_dido_"
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Adhitya%20Dido
 ---
 

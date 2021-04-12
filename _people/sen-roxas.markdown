@@ -7,6 +7,8 @@ Member Type:
 Job Title: Training Manager
 Country: Philippines
 Team: Philippines
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/senmroxas
 ---
 
 Sen is HOT Philippines’ Training Manager. She joined HOT in December 2019. Her role is to disseminate and promote the use of OpenStreetMap especially for humanitarian efforts, and to train prospective and existing mappers to their fullest potential so they can eventually lead their own mapping communities. Working for HOT enables her to bring together her passions for mapping, the environment, and urban planning.

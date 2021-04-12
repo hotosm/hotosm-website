@@ -7,5 +7,7 @@ Member Type:
 Job Title: Quality Assurance Associate
 Country: Tanzania
 Team: Tanzania
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Benedcto%20Adamu
 ---
 

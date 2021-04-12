@@ -17,6 +17,7 @@ Project:
 - HOT Training Center
 Country: Italy
 Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/giovand
   Twitter: https://twitter.com/giovand
   LinkedIn: https://www.linkedin.com/in/giovando
 redirect_from:

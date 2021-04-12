@@ -9,5 +9,7 @@ Project:
 - 'Data-Driven Disaster Risk Management: PhilAWARE'
 Country: Philippines
 Team: Philippines
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/GenDavid
 ---
 

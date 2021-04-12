@@ -18,6 +18,7 @@ Project:
   Project in Indonesia"
 - Malaria Elimination Campaign
 Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/rebeccaf
   Twitter: https://twitter.com/RebeccaFirthy
   LinkedIn: https://www.linkedin.com/in/rebecca-firth-b25bb270?trk=nav_responsive_tab_profile_pic
 redirect_from:

@@ -7,6 +7,8 @@ Member Type:
 Job Title: Regional Director - East Africa
 Country: Kenya
 Team: East Africa Hub
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/MonicaNthiga
 ---
 
 Monica joins HOT as the inaugural Regional Director for East Africa Hub. In this role, she will lead our team in East Africa to help nurture, support and amplify open source communities in about 24 countries in the region. Monica brings a unique blend of experience from working with open data and open source communities and organisations in East Africa. 

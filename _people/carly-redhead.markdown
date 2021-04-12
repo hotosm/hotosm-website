@@ -9,6 +9,7 @@ Working Group:
 - Community
 Country: United Kingdom
 Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/CRedhead
   Twitter: https://twitter.com/CarlyRedhead
   LinkedIn: https://www.linkedin.com/in/carly-redhead/
   Website: https://medium.com/@CarlyRedhead

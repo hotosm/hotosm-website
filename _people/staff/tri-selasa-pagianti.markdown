@@ -8,5 +8,7 @@ Member Type:
 Job Title: Associate Project Manager
 Country: Indonesia
 Team: Indonesia
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Tri%20Selasa
 ---
 

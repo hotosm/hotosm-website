@@ -20,6 +20,7 @@ Project:
 Country: Indonesia
 Team: Indonesia
 Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Dewi%20Sulistioningrum
   Twitter: https://twitter.com/@dewisulistio
   LinkedIn: https://www.linkedin.com/in/dewisulistioningrum/
   Facebook: https://www.facebook.com/dewi.sulistioningrum

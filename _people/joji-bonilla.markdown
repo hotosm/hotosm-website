@@ -7,6 +7,8 @@ Member Type:
 Job Title: Community and Volunteer Manager
 Country: Philippines
 Team: Philippines
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/bisaykid
 ---
 
 Joji is the Community and Volunteer Manager of HOT Philippines, bringing years of experience working with both local and international volunteers. She was a trainer and facilitator for the US Peace Corps (USPC), managed the delivery of projects to communities in the Cordillera Region with Plan International, and supervised volunteers of Volunteer Service Overseas (VSO) from North and South America, Africa, and Europe.

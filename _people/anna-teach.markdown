@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Country: United States
 Job Title: Corporate Partnerships Manager
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/anna_teach_HOT
 ---
 
 Anna Teach joined HOT in September 2020 as the Corporate Partnerships Manager. She was brought on board to help HOT execute on its bold partnership strategy, including managing all existing HOT corporate partnerships globally, as well as scaling mapping as a corporate volunteering opportunity. 
