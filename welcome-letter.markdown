@@ -1,7 +1,9 @@
 ---
 title: Welcome Letter
 date: 2021-04-12 23:19:00 Z
-Intro Text: Hi, my name is Courtney, I am also a volunteer mapper and member of the Community Working Group and we get the honor of welcoming you to the Humanitarian OpenStreetMap Team community!
+Intro Text: Hi, my name is Courtney, I am also a volunteer mapper and member of the
+  Community Working Group and we get the honor of welcoming you to the Humanitarian
+  OpenStreetMap Team community!
 Page Link:
   Label: Start mapping now!
   Text: Skip the intro and start volunteering your time immediately by mapping.
