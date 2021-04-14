@@ -2,10 +2,10 @@
 title: How Users’ Experience Impacts Project Completion and Retention
 date: 2021-04-14 10:54:00 Z
 Summary Text: Gloria Urrea, University of Colorado at Boulder, and Eunae Yoo, University
-  of Tennessee, have been partnering with HOT to conduct research on outcomes that
-  are valuable to HOT as well as the organizations using the Tasking Manager. Here,
-  they summarize our research project that examines the impact of users’ experience
-  on project completion and retention.
+  of Tennessee, partnered with HOT to conduct research that has produced valuable
+  insights for HOT and other organizations using the Tasking Manager.  Here, they
+  summarize their research project that examines the impact of users’ experience on
+  project completion and retention.
 Feature Image: "/uploads/Picture1.png"
 Person:
 - Eunae Yoo
