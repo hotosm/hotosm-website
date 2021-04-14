@@ -74,7 +74,7 @@ The mentees outlined their key learnings gained during the program:
 * How to upload my proposal onto OSM Wiki 
 * How to use OSM Wiki as a resource
 
-
+</br>
 Overall, feedback on the mentors was very positive:
 
 *“The mentorship pushed us to critically think about the problem that we're trying to solve and how best to curate a convincing proposal. The feedback was very constructive, and this really helped and motivated us to finish the application.”
@@ -88,7 +88,7 @@ With the direction from my mentor I was able to put the pieces in place, and to 
 
 “We're super appreciative of this kind of support. It's a great way to make sure we develop a good proposal that's in line with what we want to accomplish.”*
 
-
+</br>
 Feedback from mentors: 
 
 Every mentor who was able to take part in the program found it personally and professionally beneficial. Benefits included developing mentorship skills, an understanding of the internal (and nuanced!) mechanisms of OSM communities, insights into local humanitarian work, a better understanding of how to write proposals themselves, and the difference between guiding/directing and mentoring. 
