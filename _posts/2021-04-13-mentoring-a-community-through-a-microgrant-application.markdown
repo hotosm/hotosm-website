@@ -11,15 +11,16 @@ Project:
 - 'Community development: Microgrants and Device Grants'
 ---
 
-Since 2017, 221 communities and individuals have applied to HOT’s microgrant program and 66 of them have received the award). With each open call, the applications received have varied in strength. 
+Since 2017, 221 communities and individuals have applied to HOT’s microgrant program and 66 of them have received the award. With each open call, the applications received have varied in strength. 
 
-Between 1 January and 31 January 2021, communities who signed up to the program were paired with mentors who would help with project identification and development and guidance on budget creation and project plan articulation. By providing guidance during the ‘idea development’ phase, the mentorship program’s goal was to enable communities to submit more developed proposals with clearly defined project objectives and detailed, realistic work plans and budgets. 
+Between 1 January and 31 January 2021, communities who signed up to the program were paired with mentors who would help with project identification and development and guidance on budget creation and project plan articulation. OSM communities and mentors were paired based on skills, experience, location, expertise, and interests. 
 
-OSM communities and mentors were paired based on skills, experience, location, expertise, and interests. 
+By providing guidance during the ‘idea development’ phase, the mentorship program’s goal was to enable communities to submit more developed proposals with clearly defined project objectives and detailed, realistic work plans and budgets. 
 
 Overall, the project was a success. All of the participants (both mentees and mentors) said they would take part in the program again. All of the mentees would encourage communities to apply for a microgrant to participate in the program, and all of the mentors would recommend participation in the program to their peers. 
 
 We requested feedback from the participants to understand the program’s strengths and identify areas of improvement if the program is to be iterated on in the future. 
+
 
 ### Feedback from the mentees
 
@@ -29,16 +30,18 @@ Usefulness of the mentorship:
 * One OSM community found that communication with their mentors via email was very helpful. 
 * All of the OSM communities feel that they were provided with appropriate feedback and useful suggestions for proposal improvement. 
 
+
 The mentees outlined their key learnings gained during the program: 
 
-Community:
+**Community:**
 * A new understanding of how to approach challenges faced by my community
 * How to align community goals with the funding organization’s goals
 * Technical solutions to challenges faced in communities
 * How to engage with partnering organizations, and why it’s important
 * How to involve community members in project planning
 
-Grant writing:
+
+**Grant writing:**
 * Improved grant writing skills
 * Clear articulation of project goals
 * Concisely answering question with objective answers
@@ -47,25 +50,30 @@ Grant writing:
 * That a strong application should have a proven data user 
 * How to back up claims in the proposal with evidence 
 
-Project planning:
+
+**Project planning:**
 * How to produce a project plan 
 * How to prioritize project activities 
 * The value of additional perspectives on project planning
 * Proposal planning and its importance
 * *“The plan drives you, so make a nice plan!”*
 
-Project management:
+
+**Project management:**
 * New skills in time management, project timeline, and work plan
 * New skills in project management 
 
-Budget:
+
+**Budget:**
 * How to produce a project budget
 * How to use the funds effectively, and how to communicate this in budget
 * The importance of budgets in project planning
 
-OSM Wiki:
+
+**OSM Wiki:**
 * How to upload my proposal onto OSM Wiki 
 * How to use OSM Wiki as a resource
+
 
 Overall, feedback on the mentors was very positive:
 
@@ -79,6 +87,7 @@ With the direction from my mentor I was able to put the pieces in place, and to 
 “I trust and believe that this initiative will greatly improve the quality of applications that HOT receives from different microgrant programs. I am truly grateful for being given the chance to be mentored under this program; it surely helped.”
 
 “We're super appreciative of this kind of support. It's a great way to make sure we develop a good proposal that's in line with what we want to accomplish.”*
+
 
 Feedback from mentors: 
 
