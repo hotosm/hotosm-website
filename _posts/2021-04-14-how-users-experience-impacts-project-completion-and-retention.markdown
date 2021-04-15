@@ -6,7 +6,7 @@ Summary Text: Gloria Urrea, University of Colorado at Boulder, and Eunae Yoo, Un
   insights for HOT and other organizations using the Tasking Manager.  Here, they
   summarize their research project that examines the impact of users’ experience on
   project completion and retention.
-Feature Image: "/uploads/Picture1.png"
+Feature Image: "/uploads/retention_figure_white_highres.png"
 Person:
 - Eunae Yoo
 - Gloria Urrea
