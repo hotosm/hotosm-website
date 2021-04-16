@@ -5,6 +5,7 @@ Summary Text: 'Mental Health AWHEREness PH shares the work that they did through
   Microgrant program.They trained community members in mapping mental health services
   in the Philippines. '
 Feature Image: "/uploads/Website-MHAPh-Map.jpg"
+Is image top aligned: true
 Person: Mental Health AWHEREness PH
 Country:
 - Philippines
