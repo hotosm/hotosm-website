@@ -1,9 +1,15 @@
 ---
-title: HOT Microgrant 2020 Community Capstone Project (By Mental Health AWHEREness)
+title: HOT Microgrant 2020 Community Capstone Project (by Mental Health AWHEREness)
 date: 2021-04-16 09:18:00 Z
 Summary Text: 'Mental Health AWHEREness PH shares the work that they did through HOT''s
   Microgrant program.They trained community members in mapping mental health services
   in the Philippines. '
+Feature Image: "/uploads/Website-MHAPh-Map.jpg"
+Person: Mental Health AWHEREness PH
+Country:
+- Philippines
+Project:
+- 'Community development: Microgrants and Device Grants'
 ---
 
 *This post originally appeared on the [Mental Health AWHEREness website.](https://mentalhealthawhereness.com/)*
