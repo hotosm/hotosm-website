@@ -22,7 +22,8 @@ Through the help of the HOT Microgrant, we were able to share with mental health
 
 We were able to teach more people on how to help map mental health services in the country through OpenStreetMap and our MHAPh Mapping Platform.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v5MF0VzJiwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-\
 *To read the rest of the story and see their photo album, please visit the [Mental Heath AWHEREness website.](https://mentalhealthawhereness.com/2021/04/09/hot-microgrant-2020-community-capstone-project/)*
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v5MF0VzJiwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
