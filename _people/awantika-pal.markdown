@@ -4,7 +4,7 @@ date: 2021-04-12 12:19:00 Z
 Photo: "/uploads/Awantikapicture.jpeg"
 Member Type:
   Is Staff: true
-Job Title: Communications Associate at HOT for the Asia-Pacific Region
+Job Title: Communications Associate - Asia Pacific
 Team: Asia Pacific Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Awantika
