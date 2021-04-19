@@ -8,19 +8,19 @@ Country:
 - 'Senegal '
 ---
 
-Since April 2019, Healthsites.io, in partnership with Cartong, Géomatica, and the OpenStreetMap Senegal community, has launched a series of activities with the aim of mapping health structures in Senegal. The collaboration was possible due to the meeting held in 2017 at the Dakar Data Champion organized by IFRC. Several team members, such as Mark Herringer from Healthsites and Labaly Touré from Géomatica, joined the discussion along with the Openstreetmap Senegal community, who provided training on Openstreetmap collaborative mapping techniques during a practical session.
+Since April 2019, Healthsites.io, in partnership with Cartong, Géomatica, and the OpenStreetMap Senegal community, has launched a series of activities with the aim of mapping health structures in Senegal. The collaboration was possible due to the meeting held in 2017 at the Dakar Data Champion conference organized by IFRC. Several team members, such as Mark Herringer from Healthsites and Labaly Touré from Géomatica, joined the discussion along with the OpenStreetMap Senegal community, who provided training on OpenStreetMap collaborative mapping techniques during a practical session.
 
 ![HS2.png](/uploads/HS2.png)\
 *The OpenStreetMap Senegal team providing training by Heather Leson, CCBY4.0*
 
-To launch the pilot phase of Healthsites project in Saint Louis, Senegal, Mark Herringer, the Project Lead at [Healthsites](https://healthsites.io/) and Mohamet Lamine NDIAYE from the community [OpenStreetMap Senegal](https://wiki.openstreetmap.org/wiki/WikiProject_Senegal) conducted a series of meetings with stakeholders in the health cluster between 09 to 16 April 2019. In this week of advocacy, various meetings and working sessions were organized with all stakeholders in the health system in Senegal, ranging from the Ministry of Health, non-governmental organizations, academics, and communities.
+To launch the pilot phase of the Healthsites project in Saint Louis, Senegal, Mark Herringer, the Project Lead at [Healthsites,](https://healthsites.io/) and Mohamet Lamine Ndiaye from the [OpenStreetMap Senegal](https://wiki.openstreetmap.org/wiki/WikiProject_Senegal) community conducted a series of meetings with stakeholders in the health cluster between 9 to 16 April 2019. In this week of advocacy, various meetings and working sessions were organized with all stakeholders in the health system in Senegal, including the Ministry of Health, non-governmental organizations, academics, and communities.
 
-First of all, the team met with Daba Ndour, who is in charge of the health map at the ministry level, Ibrahima Dia from the Digital Health Unit of the Ministry of Health, to discuss the current projects and to analyze how the healthsites.io project could add value to their work. Based on the conversations, recommendations were made and guidance to resource persons were indicated. To conclude the pilot phase, a meeting with the regional chief doctor at the Saint Louis level during the deployment of the pilot phase was also organized.
+First, the team met with Daba Ndour, who is in charge of the health map at the ministry level, and Ibrahima Dia, from the Digital Health Unit of the Ministry of Health, to discuss the current projects and to analyze how the Healthsites.io project could add value to their work. Recommendations were made based on these conversations. To conclude the pilot phase, a meeting with the regional chief doctor of Saint Louis was also organized during the deployment of the pilot phase.
 
 ![HS3.png](/uploads/HS3.png)\
 *Working session with Ibrahima Dia of the 'Digital Health Unit of the Ministry of Health and Daba Ndour GIS Manager at the Ministry of Health*
 
-These meetings aimed to create a synergy around the collaborative mapping of health structures between the communes of Saint Louis with support from the health authorities. The regional chief doctor, Ndiaye’s presence during the closing workshop of the pilot phase in the premises of Géomatica Saint Louis was extremely beneficial.
+These meetings aimed to create a synergy around the collaborative mapping of health structures between the communes of Saint Louis with support from the health authorities. The regional chief doctor Ndiaye’s presence during the closing workshop of the pilot phase in the premises of Géomatica Saint Louis was extremely beneficial.
 
 ![HS4.png](/uploads/HS4.png)\
 *Photo with Madame Ndiaye During the closing workshop of the pilot phase of Saint Louis*
@@ -47,7 +47,7 @@ We were delighted to see that some of them saw the Open Data and crowdsourcing m
 ![HS7.png](/uploads/HS7.png)\
 *Workshop of health sites with stakeholders of the health cluster - Dakar July 23, 2019*
 
-Following the workshop, we met representatives of the GIS Unit of the Planning, Research and eHealth Directorate of the Senegalese Ministry of Health in order to present the results of the pilot and discuss potential future collaborations. This session was succeeded by the [first working session](https://medium.com/healthsites-io/semaine-de-plaidoyer-au-s%C3%A9n%C3%A9gal-pour-la-mise-en-place-de-healthsites-f7a0047b76c3) organized in April to present the project, followed by other exchanges and sharing of documents.
+Following the workshop, we met representatives of the GIS Unit of the Planning, Research, and eHealth Directorate of the Senegalese Ministry of Health in order to present the results of the pilot and discuss potential future collaborations. This session was succeeded by the [first working session](https://medium.com/healthsites-io/semaine-de-plaidoyer-au-s%C3%A9n%C3%A9gal-pour-la-mise-en-place-de-healthsites-f7a0047b76c3) organized in April to present the project, followed by other exchanges and sharing of documents.
 
 ![HS8.png](/uploads/HS8.png)\
 *Lamine Ndiaye presenting the work of OpenStreetMap Senegal to Dr. Youssoupha Ndiaye and his team from the Planning, Research and Statistics Directorate within the Senegalese Ministry of Health.*
@@ -62,23 +62,23 @@ This is how the activities took place during the period from July 13 to December
 
 First of all, a training was organized for investigators on the approach and methodology of collection in accordance with the restrictions on movement in these times.
 
-Following this training day, telephone calls were made to the various health structures, on the basis of a contact list shared by the managers of the Statistics and Planning Department. Senegalese Ministry of Health and Social Action.
+Following this training day, telephone calls were made to the various health structures on the basis of a contact list shared by the managers of the Statistics and Planning Department. Senegalese Ministry of Health and Social Action.
 
 ### Updating OpenStreetMap Data
 
 Initially, we expected the Microgrant mapping team to update the data collected at the OSM directly under their own name. This would have given each employee the opportunity to improve their own data collection statistics in the OSM and be a benchmark for the data.
 
-However, due to the delay in validation of the data, it was decided that Lamine Ndiaye, the OSM manager in Senegal, would update the data directly.
+However, due to the delay in the validation of the data, it was decided that Lamine Ndiaye, the OSM manager in Senegal, would update the data directly.
 
-Thus, the tools of the OpenStreetMap ecosystem were used to upload the data into the database. The data was first transformed into Json format with the appropriate attributes with Kobotoolbox, then uploaded to OSM level so that it could be manually loaded into the OpenStreetMap database.
+Thus, the tools of the OpenStreetMap ecosystem were used to upload the data into the database. The data was first transformed into JSON format with the appropriate attributes with Kobotoolbox, then uploaded to OSM level so that it could be manually loaded into the OpenStreetMap database.
 
 ### Validation with Stakeholders
 
-For the validation phase, the cartographic managers of the COUS and the Path were consulted for a discussion on the angle of data analysis and the relevance of the attributes. In the end, Mr. Diatta (COUS) and Mr. Lankia (PATH) expressed their satisfaction with the work done by the community, and assured their future collaboration to extend the project to the missing areas.
+For the validation phase, the cartographic managers of the COUS and the Path were consulted for a discussion on the angle of data analysis and the relevance of the attributes. In the end, Mr. Diatta (COUS) and Mr. Lankia (PATH) expressed their satisfaction with the work done by the community and assured their future collaboration to extend the project to the missing areas.
 
 **COUS Senegal**
 
-A data sharing authorization letter has been officially shared with Dr Bousso, director of the Senegal Health Emergency Operational Center. Although the data was not officially shared, we were able to constructively engage his team in a data validation process. Dr. Bousso congratulated Lamine Ndiaye and his team for their work. We look forward to continuing this relationship, and sharing basic data from healthcare facilities with the OSM.
+A data-sharing authorization letter has been officially shared with Dr. Bousso, director of the Senegal Health Emergency Operational Center. Although the data was not officially shared, we were able to constructively engage his team in a data validation process. Dr. Bousso congratulated Lamine Ndiaye and his team for their work. We look forward to continuing this relationship and sharing basic data from healthcare facilities with the OSM.
 
 **PATH Senegal**
 
@@ -86,7 +86,7 @@ A data validation workshop was organized with PATH, which is a strong supporter 
 
 **[Key figures](https://healthsites.github.io/senegal-emergency-health-data/)**
 
-As part of this mapping project of emergency services in Senegal, the OpenStreetMap Senegal community with the support of Healthsites.io was able to carry out 104 structures across the country with 35 new structures added to the Openstreetmap database and 79 structures with updated attributes.
+As part of this mapping project of emergency services in Senegal, the OpenStreetMap Senegal community, with the support of Healthsites.io, was able to carry out 104 structures across the country with 35 new structures added to the OpenStreetMap database and 79 structures with updated attributes.
 
 * 104 places
 
@@ -122,16 +122,16 @@ As part of this mapping project of emergency services in Senegal, the OpenStreet
 ### Social Impact
 
 **OpenstreetMap's Cartographers**
-OpenStreetMap cartographers are able to build on this work, and further develop the user stories that are important to them.
+OpenStreetMap cartographers are able to build on this work and further develop the user stories that are important to them.
 
 **Senegalese Ministry of Health (COUS)**
-The data collected has been made available to the Ministry of Health. The team has established a relationship, and plans to further engage in supporting emergency health and the COVID-19 COVAX response.
+The data collected has been made available to the Ministry of Health. The team has established a relationship and plans to further engage in supporting emergency health and the COVID-19 COVAX response.
 
 **Senegalese Citizens**
 The availability of data in health facilities allows decision-makers to better meet the needs of the Senegalese population. The data is used by humanitarian aid organizations to identify gaps and pressure points experienced by the COVID-19 COVAX response. This will make it possible to optimize the use of donor funds by prioritizing needs on the basis of available data.
 
 **Healthcare Practitioners**
-Data allows healthcare practitioners to get a clear picture of the state of the healthcare system, and to identify gaps that can put people's lives at risk. The data can be used by health practitioners to influence the needs of decision makers.
+Data allows healthcare practitioners to get a clear picture of the state of the healthcare system and to identify gaps that can put people's lives at risk. The data can be used by health practitioners to influence the needs of decision-makers.
 
 **Public Health Service Providers**
 The availability of data on health care facilities in the region enables public health service providers to plan responses and campaigns regarding the COVID-19 outbreak. Once vaccines are available, this information will be essential in setting up a vaccination strategy.
@@ -159,8 +159,7 @@ As a citizen intervening in a road accident, I want to know where the nearest em
 **Pregnant Mother**
 
 As a pregnant mother preparing for the delivery, I would like to go to an ultrasound facility so that I can give my baby the best possible care.
- 
+
 [More stories can be seen here.](https://github.com/healthsites/emergency-health-data/wiki)
 
 [Contact us if you wish to launch a health emergency mapping campaign](https://healthsites.io/contact/)
-
