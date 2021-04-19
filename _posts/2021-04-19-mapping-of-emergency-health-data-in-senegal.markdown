@@ -1,6 +1,9 @@
 ---
 title: Mapping of Emergency Health Data in Senegal
 date: 2021-04-19 08:41:00 Z
+Summary Text: With a microgrant from HOT, the OSM Senegal community and Healthsites.io
+  have been mapping hospitals and clinics across Senegal, aiding in the country's
+  Covid-19 response.
 Feature Image: "/uploads/HSLead.jpg"
 Is image top aligned: true
 Person: Mohamet Lamine Ndiaye
@@ -54,7 +57,7 @@ Following the workshop, we met representatives of the GIS Unit of the Planning, 
 
 ### HOT Microgrant Success
 
-With funding from the Humanitarian OpenStreetMap Team (HOT), the work of 2019 has been consolidated with a focus on emergency services on the national territory in response to the pandemic  COVID 19. When HOT announced its call for microgrants in early 2020, we jumped at the opportunity to bring together various members of our larger community to submit a proposal. We have thus received the wonderful news that our project is funded.
+With funding from the Humanitarian OpenStreetMap Team (HOT), the work of 2019 has been consolidated with a focus on emergency services on the national territory in response to the Covid-19 pandemic. When HOT announced its call for microgrants in early 2020, we jumped at the opportunity to bring together various members of our larger community to submit a proposal. We have thus received the wonderful news that our project is funded.
 
 ![HS9.png](/uploads/HS9.png)
 
