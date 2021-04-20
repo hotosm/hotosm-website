@@ -11,6 +11,8 @@ Country:
 
 **Click [here](https://omdtanzania.medium.com/ufadhili-mdogo-kutoka-shirika-la-omdtz-2021-8d394a3dd066) If you would like to submit your application in Swahili.**
 
+**Ukihitaji kuwasilisha maombi kwa lugha ya kiswahili bofya [hapa](https://omdtanzania.medium.com/ufadhili-mdogo-kutoka-shirika-la-omdtz-2021-8d394a3dd066).**
+
 [OpenMap Development Tanzania](https://www.omdtz.or.tz/) (OMDTZ), with support from the [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) (HOT)‘s [Audacious Project](https://www.hotosm.org/updates/audacious), is aiming to support OpenStreetMap (OSM) communities across Tanzania through the OMDTZ Community Impact Microgrants. This is a support program for local communities in Tanzania to leverage OSM data and tools and help them to solve local challenges. OMDTZ is seeking to support and fund projects and communities that foster flexibility, local context, and practical ideas at the grassroots level, and aim to solve communities’ problems through mapping.
 
 The microgrants program is aiming to provide grants between 5,750,000–11,500,000/= Tanzanian shillings to at least eight (8) OSM communities across Tanzania with practical ideas on how OSM data and mapping will support their local communities in solving specific challenges and bringing sustainable solutions.
