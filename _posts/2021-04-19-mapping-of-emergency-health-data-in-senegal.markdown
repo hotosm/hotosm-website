@@ -55,7 +55,7 @@ Following the workshop, we met representatives of the GIS Unit of the Planning, 
 ![HS8.png](/uploads/HS8.png)
 *Lamine Ndiaye presenting the work of OpenStreetMap Senegal to Dr. Youssoupha Ndiaye and his team from the Planning, Research and Statistics Directorate within the Senegalese Ministry of Health.*
 
-### HOT Microgrant Success
+## HOT Microgrant Success
 
 With funding from the Humanitarian OpenStreetMap Team (HOT), the work of 2019 has been consolidated with a focus on emergency services on the national territory in response to the Covid-19 pandemic. When HOT announced its call for microgrants in early 2020, we jumped at the opportunity to bring together various members of our larger community to submit a proposal. We have thus received the wonderful news that our project is funded.
 
@@ -67,7 +67,7 @@ First, a training was organized for investigators on the approach and methodolog
 
 Following this training day, telephone calls were made to the various health structures on the basis of a contact list shared by the managers of the Statistics and Planning Department of the Senegalese Ministry of Health and Social Action.
 
-### Updating OpenStreetMap Data
+## Updating OpenStreetMap Data
 
 Initially, we expected the Microgrant mapping team to update the data collected on OSM directly under their own name. This would have given each employee the opportunity to improve their own data collection statistics in the OSM and be a benchmark for the data.
 
@@ -75,7 +75,7 @@ However, due to the delay in the validation of the data, it was decided that Lam
 
 Thus, the tools of the OpenStreetMap ecosystem were used to upload the data into the database. The data was first transformed into the JSON format with the appropriate attributes with Kobotoolbox, then uploaded to OSM level so that it could be manually loaded into the OpenStreetMap database.
 
-### Validation with Stakeholders
+## Validation with Stakeholders
 
 For the validation phase, the cartographic managers of the COUS and the Path were consulted for a discussion on the angle of data analysis and the relevance of the attributes. In the end, Mr. Diatta (COUS) and Mr. Lankia (PATH) expressed their satisfaction with the work done by the community and assured their future collaboration to extend the project to the missing areas.
 
@@ -122,7 +122,7 @@ As part of this mapping project of emergency services in Senegal, the OpenStreet
 
 [An interactive map of the data is available here.](https://andysouth.shinyapps.io/senegal_healthsites_collection/)
 
-### Social Impact
+## Social Impact
 
 **OpenstreetMap's Cartographers**
 OpenStreetMap cartographers are able to build on this work and further develop the user stories that are important to them.
@@ -145,7 +145,7 @@ Entrepreneurs and civil society can use the data to develop innovative solutions
 **Healthcare Industry**
 Data can be used by the healthcare industry to streamline supply chains or identify opportunities for innovation.
 
-### Stories from Emergency Health Workers and Citizens
+## Stories from Emergency Health Workers and Citizens
 
 **Epidemiologist**
 
