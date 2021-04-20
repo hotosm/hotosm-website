@@ -28,7 +28,7 @@ These meetings aimed to create a synergy around the collaborative mapping of hea
 ![HS4.png](/uploads/HS4.png)
 *Photo with Madame Ndiaye during the closing workshop of the pilot phase of Saint Louis*
 
-**Key figures**
+**Key Figures**
 
 * **10** investigators collected **104** establishments in **3** days
 
