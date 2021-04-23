@@ -8,8 +8,6 @@ Feature Image: "/uploads/Lusaka.jpg"
 Person: Chomba Chisala
 Country:
 - Zambia
-Project:
-- 'Community development: Microgrants and Device Grants'
 ---
 
 Lusaka, the capital and largest city of Zambia, is one of the fastest developing cities in Southern Africa. As of 2019, the city's population was about 3.3 million, up from  2.5 million in 2018. Lusaka's population growth has led to an increase in solid waste coming from the peri-urban areas.\
