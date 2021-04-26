@@ -14,7 +14,7 @@ Country:
 
 *Lead image: Data collection at St Francis Hospital Mutolere*
 
-> *“I might know where a specific village is in my district, but it is difficult and time-consuming to locate the exact house where a confirmed contact is. The team can easily respond with limited resources to emergencies with the help of location apps (OSMAnd) than before.” - Dr. Nick Muneza, Asst. District Health Officer, Environmental Health and Surveillance, Kisoro District*
+> *“I might know where a specific village is in my district, but it is difficult and time-consuming to locate the exact house where a confirmed contact is. The team can [more] easily respond with limited resources to emergencies with the help of location apps (OSMAnd) than before.” - Dr. Nick Muneza, Asst. District Health Officer, Environmental Health and Surveillance, Kisoro District*
 
 Patient tracing is one of the most critical public health activities. If efficiently executed, it can greatly reduce the likelihood of the spread of a highly contagious disease. At face value, patient tracing would seem to be a straightforward activity, but with ever-increasing populations and mobility of people, the task of patient tracing tracking and monitoring becomes ever more complex. This is especially so in developing countries where most of the geographical, navigational, and landmark features have not been fully digitized. Most of the patient location registration information is not granular enough to allow field epidemiologists, contact tracers, and community health workers to easily locate, navigate to, and monitor patients during a public health emergency.
 
