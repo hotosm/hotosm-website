@@ -4,7 +4,7 @@ date: 2021-04-08 05:22:00 Z
 Photo: "/uploads/Screenshot%202021-04-08%20at%2007.28.40.png"
 Member Type:
   Is Staff: true
-Job Title: Monitoring, Evaluation, Research & Learning (MERL) Associate
+Job Title: Monitoring, Evaluation, Research & Learning (MERL) Associate - Asia Pacific
 Team: Asia Pacific Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Dana%20De%20Guzman
