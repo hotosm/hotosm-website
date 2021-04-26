@@ -4,7 +4,7 @@ title: Scaling Missing Maps in Africa’s Great Lakes Region Project, Kisoro Dis
 date: 2021-04-26 10:55:00 Z
 Summary Text: HOT is using open source geospatial mapping tools and local knowledge
   to improve field epidemiology and patient tracing in rural Uganda.
-Feature Image: "/uploads/GCC%20Uganda%201.jpg"
+Feature Image: "/uploads/IMG_5792.JPG"
 Person:
 - Mbabani Allan
 - Deogratias Kiggudde
