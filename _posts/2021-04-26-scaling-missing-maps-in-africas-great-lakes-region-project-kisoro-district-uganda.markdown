@@ -19,7 +19,7 @@ Country:
 Patient tracing is one of the most critical public health activities. If efficiently executed, it can greatly reduce the likelihood of the spread of a highly contagious disease. At face value, patient tracing would seem to be a straightforward activity, but with ever-increasing populations and mobility of people, the task of patient tracing tracking and monitoring becomes ever more complex. This is especially so in developing countries where most of the geographical, navigational, and landmark features have not been fully digitized. Most of the patient location registration information is not granular enough to allow field epidemiologists, contact tracers, and community health workers to easily locate, navigate to, and monitor patients during a public health emergency.
 
 ![Screenshot 2021-04-26 130640.jpg](/uploads/Screenshot%202021-04-26%20130640.jpg)*Image 1: displaying the disease surveillance protocol at the  Nyarusiza Health Centre III
-Image 2: displaying Nyarusiza Health Centre III catchment area*
+- Image 2: displaying Nyarusiza Health Centre III catchment area*
 
 To combat this challenge, HOT, with the district health teams and community health workers, designed a community participatory mapping exercise across Kisoro and Zombo districts. This mapping exercise was geared towards locating and mapping all geographical and human-made features in the communities that are used to locate and navigate to and from patients. The geospatial information collected would allow the community health workers to easily find, locate, and trace patients quicker and more efficiently. 
 
