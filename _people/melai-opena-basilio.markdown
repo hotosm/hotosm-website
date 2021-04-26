@@ -4,7 +4,7 @@ date: 2021-04-20 07:02:00 Z
 Photo: "/uploads/Photo%20for%20profile.JPG"
 Member Type:
   Is Staff: true
-Job Title: Regional Finance Manager for ASIA at HOT
+Job Title: Regional Finance Manager - Asia Pacific
 Team: Asia Pacific Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Melai%20Ope%C3%B1a-Basilio
