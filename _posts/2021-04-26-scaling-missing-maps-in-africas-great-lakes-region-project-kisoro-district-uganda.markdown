@@ -51,6 +51,6 @@ The project has also allowed the district and community health workers to start 
 
 With major locational features mapped by the community health workers, most community clinics and drug shops were also mapped. The district drug inspector took a strong interest in the location of these drug shops, stating that the community health clinics and drug shops are an important piece of communication and disease surveillance infrastructure in the overall monitoring of drug use and disease prevalence in the community. The district drug inspector reported that these drug shops tend to be the first line of health care some community members get. Knowing their locations and getting in touch with them will allow him to know the trends in drug sales, which can assist the team in knowing if there is a particular outbreak in the community.
 
-![Screenshot 2021-03-17 111042.jpg](/uploads/Screenshot%202021-03-17%20111042.jpg)*[An interactive map of displaying district health centers and drug shops across Kisoro district](http://u.osmfr.org/m/577886/)*
+![Screenshot 2021-03-17 111042.jpg](/uploads/Screenshot%202021-03-17%20111042.jpg)*[An interactive map of displaying district health centers and drug shops across Kisoro district](http://u.osmfr.org/m/577886/)* 
 
 
