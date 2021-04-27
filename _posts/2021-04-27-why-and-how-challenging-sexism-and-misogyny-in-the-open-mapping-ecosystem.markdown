@@ -23,7 +23,7 @@ Our panel discussions were moderated by [Leigh Lunas, GeoLadies PH](https://twit
 
 Note: We are trans-inclusive in our use of "women" and "men," including everyone who identifies with each respective gender.
 
-## **Highlights**
+# **Highlights**
 
 ### *Why it is important to talk about this subject:*
 
@@ -75,7 +75,7 @@ Note: We are trans-inclusive in our use of "women" and "men," including everyone
 
 “We’re working in this path of diversity & inclusion, there is no better way to be in this path but to work in this path together.” - **Celine**
 
-### *How can we take action against sexism and misogyny in Open Mapping?*
+# How can we take action against sexism and misogyny in Open Mapping?
 
 These are consolidated actions and  lessons learned based on the panel discussion, chat, and breakout room conversations that speakers and participants shared.
 
@@ -93,7 +93,7 @@ These are consolidated actions and  lessons learned based on the panel discussio
 
 **Call out sexist behaviors, not public shame: **Laura also suggested calling out sexist behaviors in the community, publicly and privately, and for it not to be seen as an attack against a certain gender.
 
-## **Let’s continue the conversation!**
+# **Let’s continue the conversation!**
 
 The HOT Community Working Group recognizes that exclusive spaces are important, and we are open to more inclusive and transformative programming sessions that will include non-women in the panel to talk about this!
 
