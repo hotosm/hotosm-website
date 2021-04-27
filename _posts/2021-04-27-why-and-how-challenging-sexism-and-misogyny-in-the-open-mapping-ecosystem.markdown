@@ -107,7 +107,7 @@ We also recommend these interesting reads (books and articles) regarding the top
 
 * Miner, J. (2020). \*[Informatic tactics: Indigenous activism and digital cartographies of gender-based violence](https://www.tandfonline.com/doi/full/10.1080/1369118X.2020.1797851?casa_token=pVS9A13rET4AAAAA%3Ac-CaBgbOLyMnOf8KuIP6BDZaaBo58FLH3wGlVITQIxYgfuedfJw0q9uBiYrnnKRSNTrm1C5mvbAU8Q) \*
 
-\*\*If you weren’t able to attend the webinar, the sessions can be viewed on Youtube:\*\*
+**If you weren’t able to attend the webinar, the sessions can be viewed on Youtube:**
 
 * **[Earlier Block (Session 1)](https://www.youtube.com/watch?v=d8m2ANetj7M&t=1s)**
 
