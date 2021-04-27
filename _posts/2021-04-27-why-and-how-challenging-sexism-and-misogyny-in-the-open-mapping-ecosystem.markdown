@@ -1,7 +1,7 @@
 ---
 title: 'Why and How: Challenging Sexism and Misogyny in the Open Mapping Ecosystem'
 date: 2021-04-27 10:30:00 Z
-Feature Image: "/uploads/https___cdn.evbuc.com_images_129412039_136657557228_1_original.jfif"
+Feature Image: "/uploads/Webinar%20Sexism%20&%20Misogyny%20in%20the%20Open%20Mapping%20Ecosystem%20(Twitter).png"
 Person: Arnalie Vicario
 Working Group:
 - Community
