@@ -1,6 +1,10 @@
 ---
 title: 'Why and How: Challenging Sexism and Misogyny in the Open Mapping Ecosystem'
 date: 2021-04-27 10:30:00 Z
+Feature Image: "/uploads/https___cdn.evbuc.com_images_129412039_136657557228_1_original.jfif"
+Person: Arnalie Vicario
+Working Group:
+- Community
 ---
 
 In honor of the 2021 International Women’s Day and Women History Month, the HOT Community Working Group (WG) organized two webinars: [#ChooseToChallenge: Sexism and Misogyny in the Open Mapping Ecosystem.](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Community/Webinars#International_Women.E2.80.99s_Month_webinar)
