@@ -31,7 +31,7 @@ Note: We are trans-inclusive in our use of "women" and "men," including everyone
 
 “Sexism is not just a question in open data communities, it affects all dimensions of society (policies, knowledge, etc). We need to improve diversity in the creation of data. When we don't allow women to feel safe, invited or welcomed, then we don't allow this sector (Open Mapping) to have a diverse vision, and so we don't have data that reflects the community. We affect data and the place of women in society, its uses and generation so we maintain a non-diverse society.” - **[Celine Jacquin](https://twitter.com/mapeadora), Mexico**
 
-“It is important to talk about the topic because this is one of the best ways where women can share their experiences, otherwise they won't talk about it and continue to be affected by it. This webinar is a big start to change things.” -\*\* [Nathalie Sidibe](https://www.openstreetmap.org/user/Nathalie%20SIDIBE), Mali\*\*
+“It is important to talk about the topic because this is one of the best ways where women can share their experiences, otherwise they won't talk about it and continue to be affected by it. This webinar is a big start to change things.” - **[Nathalie Sidibe](https://www.openstreetmap.org/user/Nathalie%20SIDIBE), Mali**
 
 “OSM is subjective, mappers map what they want to. We need to talk about this to avoid bias data, and to consciously reflect: are there women in decision making roles? Are there women in SotM panels?” - **[Aishworya Shrestha](http://www.kathmandulivinglabs.org/team), Nepal**
 
@@ -45,7 +45,7 @@ Note: We are trans-inclusive in our use of "women" and "men," including everyone
 
 “Sexism and misogyny is not always obvious in public channels. Some people consider that doesn’t exist in Openstreetmap because they don’t experience direct agressions.There are several levels of misogyny and sexism. Insults, harassment, and most of them occur in private messages. There are more difficult ways to detect sexism and not everybody is aware of it: avoiding women's expression, women ideas and concerns, and minimising them in chat forums, or face to face activities. It is not only towards women, but inclusivity in general.” - **Celine**
 
-“I have to answer a lot of questions as to how I get all the time to do the mapping. Women in my country are considered as family keepers. So people will ask me, how do you have time to keep mapping? And they think I don't support my family, and that I don't deserve the recognition. I did have support from other women, and some men. Negative messages do not only come from men, even some of them are from women.”\*\* - Tshedy\*\*
+“I have to answer a lot of questions as to how I get all the time to do the mapping. Women in my country are considered as family keepers. So people will ask me, how do you have time to keep mapping? And they think I don't support my family, and that I don't deserve the recognition. I did have support from other women, and some men. Negative messages do not only come from men, even some of them are from women.” - **Tshedy**
 
 ### ***On local and cultural differences…***
 
