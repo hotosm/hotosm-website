@@ -13,7 +13,7 @@ Inspired by the [A Call to Take Action and Confront Systemic Offensive Behaviour
 
 Our panel discussions were moderated by [Leigh Lunas, GeoLadies PH](https://twitter.com/leighmedy) and [Catherine D’Ignazio, Data \+ Feminism Lab](https://twitter.com/kanarinka) and attendees were also invited to participate through Q&As and small group discussions.
 
-Definitions:
+**Definitions:**
 
 * Sexism: prejudice or discrimination based on a person's sex or gender.
 
@@ -106,12 +106,12 @@ The HOT Community Working Group recognizes that exclusive spaces are important, 
 
 We also recommend these interesting reads (books and articles) regarding the topic:
 
-* *[The Abuse and Misogynoir Playbook](https://medium.com/data-feminism-lab-mit/the-abuse-and-misogynoir-playbook-bee2ee7713d6)*** **(2020) by Dr. Katlyn Turner, Prof. Danielle Wood and Prof. Catherine D’Ignazio
+* *[The Abuse and Misogynoir Playbook](https://medium.com/data-feminism-lab-mit/the-abuse-and-misogynoir-playbook-bee2ee7713d6)*\*\* \*\*(2020) by Dr. Katlyn Turner, Prof. Danielle Wood and Prof. Catherine D’Ignazio
 
 * D'Ignazio, C. & Klein, L. (2020) *[Data Feminism ](https://data-feminism.mitpress.mit.edu/)*
 
 * The Economist Intelligence Unit: *[Measuring the prevalence of online violence against women](https://onlineviolencewomen.eiu.com/)*
 
-* Miner, J. (2020). *[Informatic tactics: Indigenous activism and digital cartographies of gender-based violence](https://www.tandfonline.com/doi/full/10.1080/1369118X.2020.1797851?casa_token=pVS9A13rET4AAAAA%3Ac-CaBgbOLyMnOf8KuIP6BDZaaBo58FLH3wGlVITQIxYgfuedfJw0q9uBiYrnnKRSNTrm1C5mvbAU8Q) *
+* Miner, J. (2020). \*[Informatic tactics: Indigenous activism and digital cartographies of gender-based violence](https://www.tandfonline.com/doi/full/10.1080/1369118X.2020.1797851?casa_token=pVS9A13rET4AAAAA%3Ac-CaBgbOLyMnOf8KuIP6BDZaaBo58FLH3wGlVITQIxYgfuedfJw0q9uBiYrnnKRSNTrm1C5mvbAU8Q) \*
 
 **If you weren’t able to attend the webinar, the sessions can be viewed on Youtube: [Earlier Block (Session 1)](https://www.youtube.com/watch?v=d8m2ANetj7M&t=1s) | [Later Block (Session 2)](https://www.youtube.com/watch?v=4ApbPvJpWNI&t=3s).**
