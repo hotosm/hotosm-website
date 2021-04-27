@@ -14,14 +14,14 @@ Country:
 
 *Lead image: Data collection at St Francis Hospital Mutolere*
 
-> *“I might know where a specific village is in my district, but it is difficult and time-consuming to locate the exact house where a confirmed contact is. The team can [more] easily respond with limited resources to emergencies with the help of location apps (OSMAnd) than before.” - Dr. Nick Muneza, Asst. District Health Officer, Environmental Health and Surveillance, Kisoro District*
+> *“I might know where a specific village is in my district, but it is difficult and time-consuming to locate the exact house where a confirmed contact is. The team can \[more\] easily respond with limited resources to emergencies with the help of location apps (OSMAnd) than before.” - Dr. Nick Muneza, Asst. District Health Officer, Environmental Health and Surveillance, Kisoro District*
 
 Patient tracing is one of the most critical public health activities. If efficiently executed, it can greatly reduce the likelihood of the spread of a highly contagious disease. At face value, patient tracing would seem to be a straightforward activity, but with ever-increasing populations and mobility of people, the task of patient tracing tracking and monitoring becomes ever more complex. This is especially so in developing countries where most of the geographical, navigational, and landmark features have not been fully digitized. Most of the patient location registration information is not granular enough to allow field epidemiologists, contact tracers, and community health workers to easily locate, navigate to, and monitor patients during a public health emergency.
 
-![Screenshot 2021-04-26 130640.jpg](/uploads/Screenshot%202021-04-26%20130640.jpg)*Image 1: displaying the disease surveillance protocol at the  Nyarusiza Health Centre III
-- Image 2: displaying Nyarusiza Health Centre III catchment area*
+![Screenshot 2021-04-26 130640.jpg](/uploads/Screenshot%202021-04-26%20130640.jpg)\
+*Image 1: displaying the disease surveillance protocol at the  Nyarusiza Health Centre III / Image 2: displaying Nyarusiza Health Centre III catchment area\*
 
-To combat this challenge, HOT, with the district health teams and community health workers, designed a community participatory mapping exercise across Kisoro and Zombo districts. This mapping exercise was geared towards locating and mapping all geographical and human-made features in the communities that are used to locate and navigate to and from patients. The geospatial information collected would allow the community health workers to easily find, locate, and trace patients quicker and more efficiently. 
+To combat this challenge, HOT, with the district health teams and community health workers, designed a community participatory mapping exercise across Kisoro and Zombo districts. This mapping exercise was geared towards locating and mapping all geographical and human-made features in the communities that are used to locate and navigate to and from patients. The geospatial information collected would allow the community health workers to easily find, locate, and trace patients quicker and more efficiently.
 
 In Kisoro district, community health workers were asked to use GPS-enabled smartphones for the mapping exercise. Community and district health workers that did not have smartphones were provided smartphones and trained to use ODK, an open-source digital data collection application. Geographic information collected included: schools, health centers, major community businesses, village names, names of major hills, trading centers, and more.
 
@@ -41,7 +41,7 @@ Having been part of the participatory mapping process from the start, the Kisoro
 
 ![WhatsApp Image 2021-03-17 at 19.52.55.jpeg](/uploads/WhatsApp%20Image%202021-03-17%20at%2019.52.55.jpeg)*Community health workers getting acquainted with the paper maps and providing feedback on how they would use the maps.*
 
-Now, community health workers with GPS-enabled smartphones can not only navigate more easily and quickly to major locations and landmarks, but also are able to share their exact locations with teammates and colleagues. Having the capability to share location information has allowed community and district health teams to better coordinate their movements and reduce the time spent locating colleagues in the field. 
+Now, community health workers with GPS-enabled smartphones can not only navigate more easily and quickly to major locations and landmarks, but also are able to share their exact locations with teammates and colleagues. Having the capability to share location information has allowed community and district health teams to better coordinate their movements and reduce the time spent locating colleagues in the field.
 
 ![WhatsApp Image 2021-03-17 at 10.58.16.jpeg](/uploads/WhatsApp%20Image%202021-03-17%20at%2010.58.16.jpeg)
 
@@ -51,6 +51,4 @@ The project has also allowed the district and community health workers to start 
 
 With major locational features mapped by the community health workers, most community clinics and drug shops were also mapped. The district drug inspector took a strong interest in the location of these drug shops, stating that the community health clinics and drug shops are an important piece of communication and disease surveillance infrastructure in the overall monitoring of drug use and disease prevalence in the community. The district drug inspector reported that these drug shops tend to be the first line of health care some community members get. Knowing their locations and getting in touch with them will allow him to know the trends in drug sales, which can assist the team in knowing if there is a particular outbreak in the community.
 
-![Screenshot 2021-03-17 111042.jpg](/uploads/Screenshot%202021-03-17%20111042.jpg)*[An interactive map of displaying district health centers and drug shops across Kisoro district](http://u.osmfr.org/m/577886/)* 
-
-
+![Screenshot 2021-03-17 111042.jpg](/uploads/Screenshot%202021-03-17%20111042.jpg)*[An interactive map of displaying district health centers and drug shops across Kisoro district](http://u.osmfr.org/m/577886/)*
