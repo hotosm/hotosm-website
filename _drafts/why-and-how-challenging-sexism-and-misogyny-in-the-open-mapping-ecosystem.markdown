@@ -79,28 +79,21 @@ Note: We are trans-inclusive in our use of "women" and "men," including everyone
 
 These are consolidated actions and  lessons learned based on the panel discussion, chat, and breakout room conversations that speakers and participants shared.
 
-**Encourage women to participate and lead**
-Regardless of gender/sex, we can all encourage and empower women to participate and lead. Ciaran from OSM Ireland shared that through OSMF Microgrants, they were able to create social media ads to target women in Ireland to participate in OSM. Laura also suggested to include diversity in terms of community health and to also assess the diversity of your own community.
+**Encourage women to participate and lead: **Regardless of gender/sex, we can all encourage and empower women to participate and lead. Ciaran from OSM Ireland shared that through OSMF Microgrants, they were able to create social media ads to target women in Ireland to participate in OSM. Laura also suggested to include diversity in terms of community health and to also assess the diversity of your own community.
 
-**Listen to and participate in dialogues**
-Ony from OSM Philippines shared through chat that we should “create more spaces and events for women, children, and local communities to share their stories and spatial knowledge, and gather insights on the processes that promote inclusivity.” During these open dialogues, each and everyone should also be mindful of the time when they speak to avoid dominating the conversation and to make time and space for more voices in the dialogue. Iyan from OSM Indonesia asserted that it’s everyone’s responsibility to make sure everyone is safe and involved.
+**Listen to and participate in dialogues: **Ony from OSM Philippines shared through chat that we should “create more spaces and events for women, children, and local communities to share their stories and spatial knowledge, and gather insights on the processes that promote inclusivity.” During these open dialogues, each and everyone should also be mindful of the time when they speak to avoid dominating the conversation and to make time and space for more voices in the dialogue. Iyan from OSM Indonesia asserted that it’s everyone’s responsibility to make sure everyone is safe and involved.
 
-**Examine your behaviors and be mindful of your own biases**
-Can from OSM Turkey, shared his thoughts: “Men \[sometimes\] excuse themselves through “...because this is how we were raised” when making sexist remarks. I suggest for men to question our habits as well. Old habits must not be an excuse. Try to look at the habit from an outside perspective.” Participants from one of the breakout rooms also discussed that some don't think it is an issue (because they do not feel or are aware of the effect). Catherine observed that “People often say that they know everything. So it is hard to convince people that they still need to learn and deconstruct themselves.”
+**Examine your behaviors and be mindful of your own biases: **Can from OSM Turkey, shared his thoughts: “Men \[sometimes\] excuse themselves through “...because this is how we were raised” when making sexist remarks. I suggest for men to question our habits as well. Old habits must not be an excuse. Try to look at the habit from an outside perspective.” Participants from one of the breakout rooms also discussed that some don't think it is an issue (because they do not feel or are aware of the effect). Catherine observed that “People often say that they know everything. So it is hard to convince people that they still need to learn and deconstruct themselves.”
 
-**Become allies**
-One doesn’t have to be a woman to promote women, everyone can become allies. One step to becoming an ally is to be aware of the issue and existence of sexism and misogyny, and to become active agents against it. Women cannot do this alone. Nathalie shared, “In Mali, we are always checking our experiences with other people. We need men to stand with us. We need men to talk about these issues and we need men to stand up to socialize other men.”
+**Become allies: **One doesn’t have to be a woman to promote women, everyone can become allies. One step to becoming an ally is to be aware of the issue and existence of sexism and misogyny, and to become active agents against it. Women cannot do this alone. Nathalie shared, “In Mali, we are always checking our experiences with other people. We need men to stand with us. We need men to talk about these issues and we need men to stand up to socialize other men.”
 
-**Foster collaboration over competition**
-Tshedy urged that as a global community, we should encourage diverse participation and collaboration over competition between genders. Additionally, Leigh stressed that “Open Mapping is not a battle of sexes, and everyone should have space, since we come from different backgrounds.”
+**Foster collaboration over competition: **Tshedy urged that as a global community, we should encourage diverse participation and collaboration over competition between genders. Additionally, Leigh stressed that “Open Mapping is not a battle of sexes, and everyone should have space, since we come from different backgrounds.”
 
-**Understand local contexts**
-Laura pointed out that “understanding local contexts would guide actions to challenge bias.” With our shared digital landscape, it is inevitable to interact with other cultures, and we should learn to adapt. Celine encouraged the participants to try to learn and understand people’s codes, and to avoid exclusive terms and concepts that may discourage healthy dialogues.
+**Understand local contexts: **Laura pointed out that “understanding local contexts would guide actions to challenge bias.” With our shared digital landscape, it is inevitable to interact with other cultures, and we should learn to adapt. Celine encouraged the participants to try to learn and understand people’s codes, and to avoid exclusive terms and concepts that may discourage healthy dialogues.
 
-**Call out sexist behaviors, not public shame**
-Laura also suggested calling out sexist behaviors in the community, publicly and privately, and for it not to be seen as an attack against a certain gender.
+**Call out sexist behaviors, not public shame: **Laura also suggested calling out sexist behaviors in the community, publicly and privately, and for it not to be seen as an attack against a certain gender.
 
-**Let’s continue the conversation!**
+## **Let’s continue the conversation!**
 
 The HOT Community Working Group recognizes that exclusive spaces are important, and we are open to more inclusive and transformative programming sessions that will include non-women in the panel to talk about this!
 
