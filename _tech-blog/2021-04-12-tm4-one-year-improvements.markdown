@@ -53,6 +53,6 @@ The new imagery selection simplifies the process for Project Managers, Mappers, 
 
 ![Imagery settings](/uploads/tm-imagery-settings.png)
 
-We hope all these updates will bring a better experience to everyone using Tasking Manager and improve the quality of the data pushed to OpenStreetMap. Remember that you can participate in the Tasking Manager development through  [User & Dev group meetings](https://github.com/hotosm/tasking-manager/blob/develop/docs/working-groups.md#online-meetings) or reporting bugs and proposing features on [our GitHub repository](https://github.com/hotosm/tasking-manager). Another way to keep in contact is the #tasking-manager channel on the [HOT Slack](https://slack.hotosm.org).
+We hope all these updates will bring a better experience to everyone using Tasking Manager and improve the quality of the data pushed to OpenStreetMap. Remember that you can participate in the Tasking Manager development through  [User & Dev group meetings](https://github.com/hotosm/tasking-manager/blob/develop/docs/working-groups.md#online-meetings) or reporting bugs and proposing features on [our GitHub repository](https://github.com/hotosm/tasking-manager) or by the [hot_tech_requests](https://hotosm.atlassian.net/servicedesk/customer/portal/4). Another way to keep in contact is the #tasking-manager channel on the [HOT Slack](https://slack.hotosm.org).
 
 Thanks for all your support throughout and happy mapping!
