@@ -4,11 +4,11 @@ date: 2021-04-27 10:30:00 Z
 Feature Image: "/uploads/Webinar%20Sexism%20&%20Misogyny%20in%20the%20Open%20Mapping%20Ecosystem%20(Twitter)-03d85a.png"
 Person:
 - Community Working Group members
-- Celine Jacquin
+- Céline Jacquin
 - Nathalie Sidibe
-- Matseliso Thobei Letsie
+- " Mats’eliso Thobei Letsie"
 - Laura Mugeha
-- Violaine Doutreleau
+- " Violaine Doutreleau"
 - Aishworya Shrestha
 Working Group:
 - Community
