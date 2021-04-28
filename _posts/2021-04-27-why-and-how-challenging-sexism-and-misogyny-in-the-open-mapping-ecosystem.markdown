@@ -10,6 +10,11 @@ Person:
 - Laura Mugeha
 - " Violaine Doutreleau"
 - Aishworya Shrestha
+- Leigh Lunas
+- Catherine D'Ignazio
+- Arnalie Vicario
+- Courtney Clark
+- Jikka Defiño
 Working Group:
 - Community
 - 
