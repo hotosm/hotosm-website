@@ -25,7 +25,7 @@ Note: We are trans-inclusive in our use of "women" and "men," including everyone
 
 # **Highlights**
 
-### *Why it is important to talk about this subject:*
+### *Why is it important to talk about this subject?*
 
 “We need to deal with sexism and misogyny because we often have a climate of intimidation. Without the contribution of women, our maps are incomplete.” - **[Tshedy Thobei](https://twitter.com/Tshedy4), Lesotho**
 
@@ -39,29 +39,29 @@ Note: We are trans-inclusive in our use of "women" and "men," including everyone
 
 “There are many gaps because the map does not represent us all, some behaviors are not welcoming, and there is abad anticipation of women when they express themselves.” - **[Violaine Doutreleau](https://twitter.com/violaine_do), Tahiti/French Polynesia**
 
-### ***On the current state of sexism and misogyny within the map...***
+### ***What is the current state of sexism and misogyny within the map and in the mapping community?***
 
 “It’s not always blatant, most are unconscious and feel normal or common.” - **Aishworya**
 
-“Sexism and misogyny is not always obvious in public channels. Some people consider that doesn’t exist in Openstreetmap because they don’t experience direct agressions.There are several levels of misogyny and sexism. Insults, harassment, and most of them occur in private messages. There are more difficult ways to detect sexism and not everybody is aware of it: avoiding women's expression, women ideas and concerns, and minimising them in chat forums, or face to face activities. It is not only towards women, but inclusivity in general.” - **Celine**
+“Sexism and misogyny are not always obvious in public channels. Some people consider that doesn’t exist in Openstreetmap because they don’t experience direct agressions.There are several levels of misogyny and sexism. Insults, harassment, and most of them occur in private messages. There are more difficult ways to detect sexism and not everybody is aware of it: avoiding women's expression, women ideas and concerns, and minimising them in chat forums, or face to face activities. It is not only towards women, but underrepresented groups in general.” - **Celine**
 
 “I have to answer a lot of questions as to how I get all the time to do the mapping. Women in my country are considered as family keepers. So people will ask me, how do you have time to keep mapping? And they think I don't support my family, and that I don't deserve the recognition. I did have support from other women, and some men. Negative messages do not only come from men, even some of them are from women.” - **Tshedy**
 
-### ***On local and cultural differences…***
+### ***What roles do local and cultural differences play?***
 
-“Sexism and misogyny are affected by local context and cultural background, it varies per country, or even per urban/rural setting. In more african countries, there are gender roles that still exist. Women taking leadership and tech careers, and these affect communities and how we respond to these issues. Globally, it’s impossible to come up with reconciliation/solution, in as much as the osm community and open mapping community is one huge community, it’s a community of communities. It should be interesting to see to have one global Code of Conduct that can cater to everyone. So I support starting at the local level. - **Laura**
+“Sexism and misogyny are affected by local context and cultural background, it varies per country, or even per urban/rural setting. In more African countries, there are gender roles that still exist. Women taking leadership and tech careers, and these affect communities and how we respond to these issues. Globally, it’s impossible to come up with reconciliation/solution, in as much as the osm community and open mapping community is one huge community, it’s a community of communities. It should be interesting to see to have one global Code of Conduct that can cater to everyone. So I support starting at the local level. - **Laura**
 
 “In Mali, due to culture and religious belief, sexism and misogyny are seen as things imported from western countries. It’s very difficult to discuss the issue. Women facing harassment and assault, it’s difficult for them to complain, because these issues are not our culture according to our religion and elders. As a global community, let’s come to a common understanding/definition on sexism and misogyny to be able to help us deal with the issue. ” - **Nathalie**
 
-***On Codes of Conduct....***
+***Do we need a Code of Conduct (CoC)?***
 
 “I am not a fan of Code of Conduct - because we don't know who decides what and how to handle that, we may lose the open model of OSM, less freedom to new projects.” - **Violaine**
 
-“Some people oppose very strongly themselves because in their words it would mean the “end of freedom” in free project, CoC and rules have always existed in all types of communities and societies, it’s not something weird or wrong, it simply helps us all live together. it’s natural. We need a strong CoC but also flexible. It needs to be flexible and strong, and have specific codes, but also allow dialogue and moderation. We can ask people to limit their time to make space for more voices.” - **Celine**
+“Some people strongly oppose the idea of codes, because in their words it would mean the "end of freedom" in the free project. The CoC principle and the rules of coexistence have always existed in all types of communities and societies, it is not something unusual or wrong, it simply helps us all to live together. At OSM, being such a vast community, and precisely so diverse, we need a CoC, which is strong but also flexible, allowing dialogue and moderation. There are basic principles to defend, such as not attacking, being empathetic, seeking to understand the different views, not keeping silent.” - **Celine**
 
 “CoC is a good thing but we have to know that it can only change behaviour, we need something else, movements and campaigns for changing cultures and belief in sexism and misogyny.” - **Nathalie**
 
-### ***On the future of Open Mapping...***
+### ***How do we envision the future of Open Mapping in terms of inclusion?***
 
 “Having free, open and inclusive community, everyone is able to share their thoughts/ideas/projects and not be afraid of being judged. Also, a complete map with diverse community contributing; more female mappers and marginalized communities. We only know what we know. Through these discussions we are able to grow. - **Laura**
 
@@ -73,21 +73,21 @@ Note: We are trans-inclusive in our use of "women" and "men," including everyone
 
 “As a community, we need each other. There shouldn't be a superior gender; we need all genders to complete our map. We need to support each other. It’s not a women and men’s world, it’s our world.” - **Tshedy**
 
-“We’re working in this path of diversity & inclusion, there is no better way to be in this path but to work in this path together.” - **Celine**
+“Many of us are working on this path of diversity and inclusion, there is no single way or a better way to do things, the only important thing is to make the decision of this path and work together in actions, large or small, to improve..” - **Celine**
 
 # How can we take action against sexism and misogyny in Open Mapping?
 
 These are consolidated actions and  lessons learned based on the panel discussion, chat, and breakout room conversations that speakers and participants shared.
 
-**Encourage women to participate and lead.** Regardless of gender/sex, we can all encourage and empower women to participate and lead. Ciaran from OSM Ireland shared that through OSMF Microgrants, they were able to create social media ads to target women in Ireland to participate in OSM. Laura also suggested to include diversity in terms of community health and to also assess the diversity of your own community.
+**Encourage women to participate and lead.** Regardless of gender/sex, we can all encourage and empower women to participate and lead. Ciaran from OSM Ireland shared that through OSMF Microgrants, they were able to create social media ads to target women in Ireland to participate in OSM. Laura also suggested to include diversity in terms of community health and to also assess the diversity of your own community. Geochicas and any other women groups, chats, collectives and/or initiatives are  good ways to improve confidence, knowledge, leadership where otherwise they don’t find opportunities.
 
-**Listen to and participate in dialogues.** Ony from OSM Philippines shared through chat that we should “create more spaces and events for women, children, and local communities to share their stories and spatial knowledge, and gather insights on the processes that promote inclusivity.” During these open dialogues, each and everyone should also be mindful of the time when they speak to avoid dominating the conversation and to make time and space for more voices in the dialogue. Iyan from OSM Indonesia asserted that it’s everyone’s responsibility to make sure everyone is safe and involved.
+**Listen to and participate in dialogues.** Ony from OSM Philippines shared through chat that we should “create more spaces and events for women, children, and local communities to share their stories and spatial knowledge, and gather insights on the processes that promote inclusivity.” We can work on a change of mentality, and consider that everyone has something interesting to express, being mindful of the time you speak to avoid dominating the conversation and to make time and space for more voices in the dialogue - offering it to those who do not take it. Iyan from OSM Indonesia asserted that it’s everyone’s responsibility to make sure everyone is safe and involved. 
 
-**Examine your behaviors and be mindful of your own biases.** Can from OSM Turkey, shared his thoughts: “Men \[sometimes\] excuse themselves through “...because this is how we were raised” when making sexist remarks. I suggest for men to question our habits as well. Old habits must not be an excuse. Try to look at the habit from an outside perspective.” Participants from one of the breakout rooms also discussed that some don't think it is an issue (because they do not feel or are aware of the effect). Catherine observed that “People often say that they know everything. So it is hard to convince people that they still need to learn and deconstruct themselves.”
+**Examine your behaviors and be mindful of your own biases.** Can from OSM Turkey, shared his thoughts: “Men \[sometimes\] excuse themselves through “...because this is how we were raised” when making sexist remarks. I suggest for men to question our habits as well. Old habits must not be an excuse. Try to look at the habit from an outside perspective.” Participants from one of the breakout rooms also discussed that some don't think it is an issue (because they do not feel or are aware of the effect). Catherine observed that “People often say that they know everything. So it is hard to convince people that they still need to learn and deconstruct themselves.” Sensitivity towards inclusion is understanding that we can do permanent work on ourselves.
 
-**Become allies.** One doesn’t have to be a woman to promote women, everyone can become allies. One step to becoming an ally is to be aware of the issue and existence of sexism and misogyny, and to become active agents against it. Women cannot do this alone. Nathalie shared, “In Mali, we are always checking our experiences with other people. We need men to stand with us. We need men to talk about these issues and we need men to stand up to socialize other men.”
+**Be allies.** One doesn’t have to be a woman to promote women, everyone can be allies. Listen to people’s concerns and assume that if they do express concerns, these worries are founded. Be aware of the issue and existence of sexism and misogyny, and be active agents against it: recognize it, talk about it, propose solutions. Women cannot do this alone. Nathalie shared, “In Mali, we are always checking our experiences with other people. We need men to stand with us. We need men to talk about these issues and we need men to stand up to socialize other men.” 
 
-**Foster collaboration over competition.** Tshedy urged that as a global community, we should encourage diverse participation and collaboration over competition between genders. Additionally, Leigh stressed that “Open Mapping is not a battle of sexes, and everyone should have space, since we come from different backgrounds.”
+**Foster collaboration over competition.** Tshedy urged that as a global community, we should encourage diverse participation and collaboration over competition between genders. Additionally, Leigh stressed that “Open Mapping is not a battle of sexes, and everyone should have space, since we come from different backgrounds” which is a wealth more than an obstacle.
 
 **Understand local contexts.** Laura pointed out that “understanding local contexts would guide actions to challenge bias.” With our shared digital landscape, it is inevitable to interact with other cultures, and we should learn to adapt. Celine encouraged the participants to try to learn and understand people’s codes, and to avoid exclusive terms and concepts that may discourage healthy dialogues.
 
