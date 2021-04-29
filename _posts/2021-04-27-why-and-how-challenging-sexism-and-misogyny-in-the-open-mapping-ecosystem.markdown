@@ -22,7 +22,7 @@ Working Group:
 
 In honor of the 2021 International Women’s Day and Women History Month, the HOT Community Working Group (WG) organized two webinars: [#ChooseToChallenge: Sexism and Misogyny in the Open Mapping Ecosystem.](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Community/Webinars#International_Women.E2.80.99s_Month_webinar)
 
-Inspired by the [A Call to Take Action and Confront Systemic Offensive Behaviour in the OSM Community](https://wiki.openstreetmap.org/wiki/File:A_Call_to_Take_Action_and_Confront_Systemic_Offensive_Behaviour_in_the_OSM_Community.pdf), of which many HOT Community WGpmembers were signatories, we aimed to create a safe and open space for dialogue about the current state of sexism and misogyny within the map and associated communities, as well as how we can take action against these behaviors.
+Inspired by the [A Call to Take Action and Confront Systemic Offensive Behaviour in the OSM Community](https://wiki.openstreetmap.org/wiki/File:A_Call_to_Take_Action_and_Confront_Systemic_Offensive_Behaviour_in_the_OSM_Community.pdf), of which many HOT Community WG members were signatories, we aimed to create a safe and open space for dialogue about the current state of sexism and misogyny within the map and associated communities, as well as how we can take action against these behaviors.
 
 Our panel discussions were moderated by [Leigh Lunas, GeoLadies PH](https://twitter.com/leighmedy) and [Catherine D’Ignazio, Data \+ Feminism Lab](https://twitter.com/kanarinka) and attendees were also invited to participate through Q&As and small group discussions.
 
