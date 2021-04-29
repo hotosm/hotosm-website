@@ -11,7 +11,7 @@ countries:
 - Uganda
 hubs:
 - Asia Pacific Hub
-- East Africa Hub
+- Eastern and Southern Africa Hub
 layout: roster-staff
 ---
 
