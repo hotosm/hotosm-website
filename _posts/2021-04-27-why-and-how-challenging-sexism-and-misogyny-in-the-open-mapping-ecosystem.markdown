@@ -50,7 +50,7 @@ Note: We are trans-inclusive in our use of "women" and "men," including everyone
 
 “Gender inequality cuts across multiple sectors (eg health, education). In OSM, we lack aspects of women, in leadership and data.” - **[Laura Mugeha](https://twitter.com/laura_mugeha), Kenya**
 
-“There are many gaps because the map does not represent us all, some behaviors are not welcoming, and there is abad anticipation of women when they express themselves.” - **[Violaine Doutreleau](https://twitter.com/violaine_do), Tahiti/French Polynesia**
+“There are many gaps because the map does not represent us all, some behaviors are not welcoming, and there is a bad anticipation of women when they express themselves.” - **[Violaine Doutreleau](https://twitter.com/violaine_do), Tahiti/French Polynesia**
 
 ### ***What is the current state of sexism and misogyny within the map and in the mapping community?***
 
