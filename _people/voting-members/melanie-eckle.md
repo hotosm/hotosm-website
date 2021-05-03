@@ -6,8 +6,8 @@ Member Type:
   Is Voting Member: true
   Is Board Member: false
 Working Group:
-- Fundraising
-- Training
+- 
+- 
 Project:
 - Missing Maps
 - OpenStreetMap Analytics
