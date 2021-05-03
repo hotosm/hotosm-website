@@ -1,5 +1,5 @@
 ---
-title: Melanie Eckle
+title: Melanie Eckle-Elze
 date: 2017-02-28 14:26:00 Z
 Photo: https://cdn.hotosm.org/website/Screen+Shot+2018-09-15+at+12.30.13.png
 Member Type:
@@ -13,9 +13,10 @@ Project:
 - OpenStreetMap Analytics
 Country: Germany
 Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Milli1201
   Facebook: https://www.facebook.com/melanie.eckle
 redirect_from:
 - "/users/melanie_eckle"
 ---
 
-<p>Melanie is a Geography Master student and research assistant at Heidelberg University who first joined the HOT community as OSM and HOT Mapper. She soon combined her passions, mapping, humanitarian aid and research, through her work with <a href="https://disastermappers.wordpress.com/">disastermappers heidelberg </a>and in the <a href="http://www.geog.uni-heidelberg.de/gis/heigit_disastermanagement_en.html">disaster management department at HeiGIT</a> (GIScience Research Group at Heidelberg University).&nbsp;</p><p>&nbsp;</p><p><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Being positioned at the intersection of research, application development, OSM interested data consumers and the HOT and OSM community, she is now supporting the HOT Board by building a bridge between researchers, developers, the data consumers and the HOT and OSM community- to address our questions and challenges within and with the community and to raise more awareness in the international world of academia and disaster management about the potentials of HOT and OSM.</span></p>
+I started contributing to OSM in 2012, and first got passionate about humanitarian mapping through my work with Kathmandu Living Labs in Nepal 2013. Since then I kept on mapping, launched the disastermappers heidelberg with some fellow students, and organized numerous mapathons and workshops. Since 2013 I also conduct research around humanitarian mapping. First as member of the GIScience Research Group at Heidelberg university and now as part of HeiGIT. This allows me to also advocate our work at conferences and the wider scientific crowd. I was on the HOT Board of Directors 2018/19.
