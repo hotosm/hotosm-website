@@ -6,6 +6,18 @@ Member Type:
   Is Staff: true
   Is Voting Member: true
 Job Title: Online Community Engagement Lead
+Working Group:
+- Community
+- HOT Summit
+- Data Quality Control and Assurance
+- Governance
+- Technical
+- Training
+- Communications
+- 
+Languages:
+- Filipino
+- English
 Country: Philippines
 Team: Global
 Social Media (Full URL):
