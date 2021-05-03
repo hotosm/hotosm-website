@@ -20,7 +20,13 @@ redirect_from:
 ---
 
 Founder, OSM Mali
+
 Former HOT Board Member
+
 Member of the League of African Bloggers and Cyber-Activists for Democracy (Africtivistes ) 
 
-I'm also the Representative of the OpenData Community for French Speaking Countries (CAFDO) in Mali.  For more transparency on the Development Aid in Mali, I created the SAIDMali web platform to keep track of the money allocated to development projects.  I'm currently leading the OpenCities in Bamako on behalf of OSM Mali with HOT.
+Representative of the OpenData Community for French Speaking Countries (CAFDO) in Mali
+
+For more transparency on the Development Aid in Mali, she created the SAIDMali web platform to keep track of the money allocated to development projects.  She's currently leading the OpenCities in Bamako on behalf of OSM Mali with HOT.
+
+Natalie is an international consultant, and is a social activist and advocate for open data and open geospatial data. She has successfully organized and implemented open mapping trainings and activities throughout Mali and participated in work and conferences throughout Africa. She is a graduate in Land-Use and Planning and has a Master’s degree in Literature and Languages.
