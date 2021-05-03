@@ -3,8 +3,11 @@ title: Katie Filbert
 date: 2014-09-30 03:22:00 Z
 Member Type:
   Is Voting Member: true
+Languages:
+- English
 Project:
 - Missing Maps
+Country: United States
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/aude
   Twitter: https://twitter.com/filbertkm
