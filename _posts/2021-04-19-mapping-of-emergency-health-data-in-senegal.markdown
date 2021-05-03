@@ -151,7 +151,9 @@ Data can be used by the healthcare industry to streamline supply chains or ident
 
 *As an epidemiologist, I want to know the number of hospital beds in a health facility so that I can assess the capacity to manage an epidemic.*
 
-![Screenshot 2021-04-19 104925.jpg](/uploads/Screenshot%202021-04-19%20104925.jpg)
+![Healthsites Data 1.png](/uploads/Healthsites%20Data%201.png)
+
+![Healthsites Data 2.png](/uploads/Healthsites%20Data%202.png)
 
 **Citizen**
 
