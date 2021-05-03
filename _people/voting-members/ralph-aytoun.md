@@ -1,13 +1,11 @@
 ---
 title: Ralph Aytoun
 date: 2017-02-28 13:58:00 Z
-redirect_from:
-- "/users/ralph_aytoun"
 Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-366-1488296375.jpg
 Member Type:
   Is Voting Member: true
 Working Group:
-- Training
+- Activation
 Project:
 - Missing Maps
 - OSM Tasking Manager 3.0 Development
@@ -21,7 +19,11 @@ Project:
 - Field Papers
 Country: United Kingdom
 Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/RAytoun
   Twitter: https://twitter.com/RalphAytoun1
   Facebook: https://www.facebook.com/ralph.aytoun
+redirect_from:
+- "/users/ralph_aytoun"
 ---
 
+Retired Cartographer.  Voting Member of the Humanitarian OpenStreetMap Team (Profile: https://tasks.hotosm.org/user/RAytoun)  Co-Chair of HOT Activation Working Group, HOT Lead Validator  Tutor new groups of mappers and validators at the monthly Missing Maps Mapathons in London.  Tutor new groups of mappers at Corporate hosted Mapping Parties, London.  Online Training Webinar : Advanced JOSM and Validation  An active member of the HOT Training Working Group, Strategic Working Group, Activation Working Group and HOT Quality Control and Assessment Working Group.  Helped with West African Motorbike Mappers (WAMM) on mapping villages in Sierra Leone.  Helped with Warwick University (Institute of Science of Cities) mapping slum areas for research.  Help with Portsmouth University (Crisis and Disaster Management) on post disaster mapping for Dominica (2017) : Common Sensing for Vanuatu and Solomon Islands (2019)  Liaising with US GeoNames Database with regard to Place Names on OpenStreetMap
