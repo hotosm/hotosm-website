@@ -30,7 +30,10 @@ redirect_from:
 - "/users/taichi_furuhashi"
 ---
 
-Professor of Aoyama Gakuin Univeristy\
-President of MAPconcierge & CrisisMappers Japan\
-NPO/Director of DRONEBIRD and JapanFlyingLabs Projects\
+Professor of Aoyama Gakuin University
+
+President of MAPconcierge & CrisisMappers Japan
+
+NPO/Director of DRONEBIRD and JapanFlyingLabs Projects
+
 Member of OSGeoJP & OSMFJ
