@@ -6,14 +6,22 @@ Member Type:
   Is Staff: true
   Is Voting Member: true
 Job Title: Community Manager - Asia Pacific
+Working Group:
+- Community
+Languages:
+- Filipino
+- English
+Project:
+- 'MapBeks: Pursuing LGBTQ inclusion and representation through mapping'
 Country: Philippines
 Team: Asia Pacific Hub
 Social Media (Full URL):
-  OSM: https://osm.org/user/mapbeks
+  OSM: https://www.openstreetmap.org/user/mikko_tamura
   LinkedIn: https://www.linkedin.com/in/mikko-tamura-b45626136
-  Facebook: https://facebook.com/tamura.mikko
+  Facebook: https://fb.com/tamura.mikko
+  Website: http://mapbeks.org/
 ---
 
 Mikko is the Community Manager for Asia at HOT. He has been actively contributing on OpenStreetMap since 2014 and has worked as a volunteer mapper with several non-governmental organizations such as UN Human Settlements Programme, Philippine Red Cross, Cordaid, and the Asia Foundation.
 
-Mikko is also the founder of MapBeks - an online community of mappers advocating for LGBT representation and inclusion on OSM.  
+Mikko is also the founder of MapBeks - an online community of mappers advocating for LGBT representation and inclusion on OSM.
