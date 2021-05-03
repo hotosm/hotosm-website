@@ -1,9 +1,7 @@
 ---
 title: Mikel Maron
 date: 2010-05-24 15:40:00 Z
-redirect_from:
-- "/users/mikel_maron"
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-3-1411582700.jpg
+Photo: "/uploads/mikel-maron.jpg"
 Member Type:
   Is Voting Member: true
   Is Board Member: false
@@ -23,7 +21,10 @@ Project:
 - Sri Lanka Flooding 2016
 Country: United States
 Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/mikelmaron
   Twitter: https://twitter.com/mikel
+redirect_from:
+- "/users/mikel_maron"
 ---
 
-<p>Mikel Maron is a programmer and geographer working for impactful community and humanitarian uses of open source and open data. Mikel is a co-founder of HOT. He leads the Community team at Mapbox. And also serves on the OpenStreetMap Foundation Board. He is co-founder of Ground Truth Initiative, and of the Map Kibera project. He’s previously served as Chair of Voting Members for HOT, and as President of the Board of the Humanitarian OpenStreetMap Team. He’s travelled widely, organizing projects in India, Palestine, Egypt, Swaziland, and elsewhere. Previously to this, he co-founded Mapufacture and worked on collaborative platforms, geoweb standards, and various applications, with a wide spectrum of organizations from UN and government agencies to anarchist hacker collectives.</p>
+Mikel Maron initiated humanitarian mapping in OpenStreetMap in 2005 and co-founded the Humanitarian OpenStreetMap Team organization. He has served as President of the Board, and Chair of Voting Members. Mikel Maron currently leads the Community team at Mapbox, helping to grow the adoption of open geo data in humanitarian organizations, governments and education, and advancing work with OpenStreetMap. As Presidential Innovation Fellow at the US State Department Mikel drove OpenStreetMap adoption across federal agencies. He is co-founder of Map Kibera and GroundTruth Initiative and Board member of the OpenStreetMap Foundation. He holds a master’s degree in Evolutionary and Adaptive Systems from the University of Sussex, and bachelor’s degree in Computer Science from UC Santa Cruz.
