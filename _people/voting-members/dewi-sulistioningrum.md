@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
   Is Voting Member: true
 Job Title: Project Manager
+Languages:
+- Bahasa
 Project:
 - Tasking Manager
 - Indonesia Disaster Management Innovation
