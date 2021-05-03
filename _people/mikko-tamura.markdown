@@ -8,6 +8,7 @@ Member Type:
 Job Title: Community Manager - Asia Pacific
 Working Group:
 - Community
+- Activation
 Languages:
 - Filipino
 - English
