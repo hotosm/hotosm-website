@@ -21,11 +21,11 @@ Country: Indonesia
 Team: Indonesia
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Dewi%20Sulistioningrum
-  Twitter: https://twitter.com/@dewisulistio
+  Twitter: https://twitter.com/dewisulistio
   LinkedIn: https://www.linkedin.com/in/dewisulistioningrum/
   Facebook: https://www.facebook.com/dewi.sulistioningrum
 redirect_from:
 - "/users/dewi_sulistioningrum"
 ---
 
-<p><span style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;">Dewi Sulistioningrum has been working with HOT since September 2012 as the GIS Training Officer in Humanitarian OpenStreetMap Team in Indonesia.&nbsp;She was training&nbsp;to promote the use of OpenStreetMap, QGIS and InaSAFE in humanitarian response and economic development. She is also validate OSM data in Indonesia and interest about Mapping Drupal. Dewi currently as the Mapping Supervisor in the&nbsp;</span><span style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;">USAID|BNPB|InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement Project in Indonesia.</span></p>
+I am involved with HOT since 2012, because I am interested in mapping and humanitarian. I am still learning about mapping data analysis. I also love cooking and have three fluffy cats.
