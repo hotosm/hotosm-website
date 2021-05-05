@@ -6,7 +6,7 @@ Member Type:
   Is Staff: true
 Job Title: Regional Director - East Africa
 Country: Kenya
-Team: East Africa Hub
+Team: East and Southern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/MonicaNthiga
 ---
