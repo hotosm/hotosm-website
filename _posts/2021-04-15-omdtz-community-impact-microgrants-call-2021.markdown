@@ -13,6 +13,8 @@ Country:
 
 **Ukihitaji kuwasilisha maombi kwa lugha ya kiswahili bofya [hapa](https://omdtanzania.medium.com/ufadhili-mdogo-kutoka-shirika-la-omdtz-2021-8d394a3dd066).**
 
+**Update: Applications have been extended until 31st May 2021.**
+
 [OpenMap Development Tanzania](https://www.omdtz.or.tz/) (OMDTZ), with support from the [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) (HOT)‘s [Audacious Project](https://www.hotosm.org/updates/audacious), is aiming to support OpenStreetMap (OSM) communities across Tanzania through the OMDTZ Community Impact Microgrants. This is a support program for local communities in Tanzania to leverage OSM data and tools and help them to solve local challenges. OMDTZ is seeking to support and fund projects and communities that foster flexibility, local context, and practical ideas at the grassroots level, and aim to solve communities’ problems through mapping.
 
 The microgrants program is aiming to provide grants between 5,750,000–11,500,000/= Tanzanian shillings to at least eight (8) OSM communities across Tanzania with practical ideas on how OSM data and mapping will support their local communities in solving specific challenges and bringing sustainable solutions.
@@ -29,7 +31,7 @@ The purpose of these microgrants is to expand Tanzania’s local community invol
 
 * **Open knowledge evolution:** priority will be given to projects that aim to expand to peripheral regions of the country and expose them to open tools and OSM. Priority will also be given to proposals that plan to create new OSM communities that might further contribute to the growth of OSM in different regions of Tanzania.
 
-* **Cooperation: **priority will be given to projects that will work together or form an alliance with the local government, private sector, or local community institutions, and create champions who will carry the work forward beyond the grant period with adequate tech knowledge and data.
+* \*\*Cooperation: \*\*priority will be given to projects that will work together or form an alliance with the local government, private sector, or local community institutions, and create champions who will carry the work forward beyond the grant period with adequate tech knowledge and data.
 
 Information on eligibility can be found on the information document [here](https://docs.google.com/document/d/12x6EqDqXvTRuJYbx3k2K6nKl1bN0xaEHuvknAjXP04c/edit?usp=sharing) and the Swahili version can be found [here.](https://docs.google.com/document/d/1CxPJHnX4knqMmy3xrigIcw7EMEQfQ-qZ9XSDM7L3960/edit?usp=sharing)
 
@@ -39,7 +41,7 @@ To submit your application, you must fill [this form](https://forms.gle/SJ2mXPXY
 
 To make sure all applications are inclusive and avoid language barriers, we will accept applications in Swahili; the submission form in Swahili is found [here](https://forms.gle/CQ1nG97CPEKqvFbs5), and the project plan and budget templates can be found [here](https://docs.google.com/spreadsheets/d/1rLcERRARB2slRrgySPTmj_kWexV3d3IhPWSJsCBUlyg/edit?usp=sharing) and [here](https://docs.google.com/document/d/1sGPkshy6u3-ZGlqtJHw1ipdplw9LmLUFvDF1B3RFAAU/edit?usp=sharing). If you need any help to go through the application, please contact asha.mustapha@hotosm.org.
 
-All applications should be submitted no later than 5 May 2021.
+All applications should be submitted no later than 31 May 2021.
 
 ### **Mentoring**
 
