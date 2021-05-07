@@ -1,6 +1,12 @@
 ---
 title: Mapping of Emergency Health Data in Senegal
 date: 2021-04-19 08:41:00 Z
+tags:
+- COVID-19
+- emergency health data
+- OpenStreetMap Senegal
+- healthsites.io
+- Senegal
 Summary Text: With a microgrant from HOT, the OSM Senegal community and Healthsites.io
   have been mapping hospitals and clinics across Senegal, aiding in the country's
   Covid-19 response.
@@ -10,6 +16,8 @@ Person: Mohamet Lamine Ndiaye
 Country:
 - 'Senegal '
 ---
+
+*Since April 2019, Healthsites.io, in partnership with Cartong, Géomatica, and the OpenStreetMap Senegal community, has launched a series of activities with the aim of [mapping health structures in Senegal.](https://healthsites.io/map?country=Senegal)*
 
 Since April 2019, Healthsites.io, in partnership with Cartong, Géomatica, and the OpenStreetMap Senegal community, has launched a series of activities with the aim of mapping health structures in Senegal. The collaboration was possible due to the meeting held in 2017 at the Dakar Data Champion conference organized by IFRC. Several team members, such as Mark Herringer from Healthsites and Labaly Touré from Géomatica, joined the discussion along with the OpenStreetMap Senegal community, who provided training on OpenStreetMap collaborative mapping techniques during a practical session.
 
