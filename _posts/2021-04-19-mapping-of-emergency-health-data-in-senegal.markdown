@@ -14,7 +14,7 @@ Feature Image: "/uploads/HSLead.jpg"
 Is image top aligned: true
 Person: Mohamet Lamine Ndiaye
 Country:
-- 'Senegal '
+- Senegal
 ---
 
 *Since April 2019, Healthsites.io, in partnership with Cartong, Géomatica, and the OpenStreetMap Senegal community, has launched a series of activities with the aim of [mapping health structures in Senegal.](https://healthsites.io/map?country=Senegal)*
