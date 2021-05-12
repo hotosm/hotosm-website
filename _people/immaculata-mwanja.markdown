@@ -4,6 +4,7 @@ date: 2020-07-02 18:09:00 Z
 Photo: "/uploads/Immaculata%20Mwanja.jpeg"
 Member Type:
   Is Staff: true
+  Is Voting Member: true
 Job Title: Global Projects Associate
 Country: Tanzania
 Team: Global
