@@ -4,7 +4,7 @@ date: 2021-02-18 07:55:00 Z
 Photo: https://cdn.hotosm.org/website/Profile+Picture.jpg
 Member Type:
   Is Staff: true
-Job Title: Regional Director - Eastern and Southern Africa Hub
+Job Title: Regional Director
 Country: Kenya
 Team: Eastern and Southern Africa Hub
 Social Media (Full URL):
