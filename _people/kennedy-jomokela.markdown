@@ -7,6 +7,8 @@ Member Type:
 Job Title: Senior Mapping Supervisor
 Country: Zambia
 Team: Global
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Jomokela%20Kennedy
 ---
 
 Kennedy Jomokela currently serves as the Senior Mapping Supervisor under the Local Impact Governance Activity Project in Zambia. Kennedy joined the OpenStreetMap community in 2017 as a contributor at The University of Zambia and served as Publicity Secretary for the University of Zambia YouthMappers Chapter from 2018-2019.
