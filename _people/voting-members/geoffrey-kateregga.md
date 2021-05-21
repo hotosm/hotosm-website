@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/GeoffreyKateregga.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Community Programs Manager
+Job Title: Community Programs Manager  - Eastern and Southern Africa
 Working Group:
 - Training
 - Community
