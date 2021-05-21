@@ -5,7 +5,10 @@ Photo: "/uploads/Janet%20Pic.jpeg"
 Member Type:
   Is Staff: true
 Job Title: Operations & HR Associate
-Team: Kenya
+Country: Kenya
+Team: Eastern and Southern Africa Hub
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/momblessed
 ---
 
 Janet Ntabo  joins HOT as the Operations and HR Associate, East Africa with lots of experience in Administration and HR support in International organizations, she is passionate about supporting teams to achieve the best communities we can build through team work. 
