@@ -1,6 +1,8 @@
 ---
 title: 'Validators: Experienced Mappers Making an Outsized Difference'
 date: 2021-05-24 11:57:00 Z
+Summary Text: Validators serves an essential role in ensuring data quality and providing
+  feedback to new mappers. Learn how validation works and how you can become a validator.
 Feature Image: "/uploads/ESRI44309.gif"
 Person:
 - Ralph Aytoun
