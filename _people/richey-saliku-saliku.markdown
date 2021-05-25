@@ -1,5 +1,5 @@
 ---
-title: Richey Saliku Saliku
+title: Richey Saliku
 date: 2021-05-24 10:15:00 Z
 Photo: "/uploads/20210524_155623.jpg"
 Member Type:
