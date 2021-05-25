@@ -1,12 +1,14 @@
 ---
 title: Richey Saliku Saliku
 date: 2021-05-24 10:15:00 Z
-Photo: "/uploads/IMG_20201112_010416.jpg"
+Photo: "/uploads/20210524_155623.jpg"
 Member Type:
   Is Staff: true
 Job Title: Regional Finance Manager -  Eastern and Southern Africa
 Country: Kenya
 Team: " Eastern and Southern Africa"
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Saliku/confirm
 ---
 
 Richey joins HOT as the Regional Finance Manager for Eastern and Southern Africa Hub, and will support the regional hub in Financial and Operational matters.
