@@ -5,6 +5,7 @@ Summary Text: 'OpenMap Development Tanzania announces the start of Open Skies Fe
   Africa Tech for African Data, implemented in partnership with HOT and Uhurulabs
   and supported by Fondation Botnar.'
 Feature Image: "/uploads/0_AtsGVCWwFktmTjCQ.jpg"
+Is image top aligned: true
 Person:
 - Hawa Adinani
 - Open Map Development Tanzania
