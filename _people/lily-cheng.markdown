@@ -1,9 +1,10 @@
 ---
 title: Lily Cheng
 date: 2020-11-16 07:27:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Lily_Cheng.JPG
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Senior Designer
 Country: United States
 ---
