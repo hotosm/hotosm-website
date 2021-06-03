@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/Headshot_2020.jpg
 Member Type:
   Is Staff: true
 Job Title: Operations Associate
-Country: Turkey
+Country: The Netherlands
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/38438293949500
 ---
