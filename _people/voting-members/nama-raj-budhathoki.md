@@ -9,6 +9,8 @@ Member Type:
 Job Title: Regional Director - Asia Pacific
 Country: Nepal
 Team: Asia Pacific Hub
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Nama
 redirect_from:
 - "/users/nama_raj_budhathoki"
 ---
