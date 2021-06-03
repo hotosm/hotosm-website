@@ -7,6 +7,8 @@ Member Type:
 Job Title: Partnerships Manager - Asia Pacific
 Country: Philippines
 Team: Asia Pacific Hub
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/BryDee
 ---
 
 Bry is the Partnerships Manager for Asia Pacific at HOT. Prior to this, he was the Country Manager of HOT Philippines, after joining the team as the Deputy Country Manager. He has experience working in the operations and administration of various non-profit, humanitarian and international organizations.
