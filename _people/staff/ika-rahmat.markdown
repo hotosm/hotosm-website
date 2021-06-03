@@ -7,5 +7,8 @@ Member Type:
 Job Title: Finance & Admin Coordinator
 Country: Indonesia
 Team: Indonesia
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Ika_Rahmat
 ---
 
+Ika currently serves as HOT Indonesia's Finance and Admin Coordinator. She is responsible in managing all financial matters related to HOT's operation in Indonesia Office. Prior to joining HOT, she has worked for non-profit organization and platform in Indonesia for over a decade. Ika holds a Bachelor of Economics from Faculty of Economics and Business of the Indonesia University.
