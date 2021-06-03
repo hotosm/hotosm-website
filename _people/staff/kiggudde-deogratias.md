@@ -8,6 +8,8 @@ Member Type:
 Job Title: Country Manager
 Country: Uganda
 Team: Uganda
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/kiggudde
 redirect_from:
 - "/users/kiggudde_deogratias"
 ---
