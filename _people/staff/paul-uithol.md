@@ -25,6 +25,7 @@ Project:
 - 
 Country: Netherlands
 Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/PaulUithol
   Twitter: https://twitter.com/PaulUithol
   LinkedIn: https://nl.linkedin.com/in/pauluithol
 redirect_from:
