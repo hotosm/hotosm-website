@@ -5,14 +5,15 @@ Photo: https://cdn.hotosm.org/website/ruben.jpg
 Member Type:
   Is Staff: true
 Job Title: Community Strategist and Research Lead
-Country: Spain
-Social Media (Full URL):
-  Twitter: https://twitter.com/nukeador
-  LinkedIn: https://www.linkedin.com/in/ruben-rmt/
-  Website: https://www.nukeador.com/
 Languages:
 - English
 - Español
+Country: Spain
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/nukeador
+  Twitter: https://twitter.com/nukeador
+  LinkedIn: https://www.linkedin.com/in/ruben-rmt/
+  Website: https://www.nukeador.com/
 ---
 
 Rubén is HOT's Community Strategist and Research Lead, working to support the Humanitarian Open Mapping Movement by building strategies and initiatives based on good quality data and research, as well as identifying opportunities to further HOT's Audacious aims.
