@@ -5,6 +5,8 @@ Photo: "/uploads/Philip_Hippolyte-HOT_Website_Profile.jpg"
 Member Type:
   Is Staff: true
 Job Title: Project Manager - Caribbean
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Phil'%20in%20HOT
 ---
 
 Philip joined HOT in February 2021 as a Project Manager the Field Programs team. He was introduced to assist in HOT’s development of the Open Cities program for the Latin America and Caribbean (LAC) hub.  His role includes establishing a presence and partnerships in the Caribbean region with a focus on the Open Cities mapping priorities for disaster resilience and vulnerable sectors.
