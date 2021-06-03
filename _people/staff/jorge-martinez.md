@@ -5,12 +5,13 @@ Photo: https://cdn.hotosm.org/website/jorge.jpg
 Member Type:
   Is Staff: true
 Job Title: Developer
-Country: Colombia
 Languages:
 - English
 - Español
 - Italiano
+Country: Colombia
 Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/jorgemrtnz
   Twitter: https://twitter.com/_JorgeMartinezG
 ---
 
