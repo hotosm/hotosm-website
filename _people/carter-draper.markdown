@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Job Title: Global Projects Manager
 Team: Global
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/DraperC_18
 ---
 
 Carter Draper is a native of Liberia; born and raised during Liberia's civil crises. Based on his experiences from the civil wars as a child, he finds value in humanitarian work, open data, access to information, and the rule of law as key elements to building resilient communities. 
