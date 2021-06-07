@@ -14,6 +14,8 @@ Impact Area:
 - Disaster Response
 Partner:
 - Practical Action en América Latina
+Duration:
+  End Date: 2021-05-31 00:00:00 Z
 Micrograntee: true
 ---
 
