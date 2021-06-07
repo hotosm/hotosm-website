@@ -37,7 +37,7 @@ Efforts were made in collaboration with the World Bank operational teams to prom
 The emphasis on remote learning, gender, cultural diversity, and sustainability over time, and the consolidation of communities of practice are at the core of the vision of the Open Cities program. In Latin America and the Caribbean, HOT has a collaborative relationship with a vast and diverse mapping community, which will be warmly invited to participate in the actions developed.
 
 ![IMG_20130415_155223.jpg](/uploads/IMG_20130415_155223.jpg)
-Field work during Public Transport mapping project in Managua (Nicaragua) by Mapanica’s community, 2017.
+*Field work during Public Transport mapping project in Managua (Nicaragua) by Mapanica’s community, 2017.*
 
 ![Cusco Mapping.gif](/uploads/Cusco%20Mapping.gif)
 *Data added during [Cusco Mapping Activation for Covid-19](https://www.hotosm.org/updates/covid-19-pandemic-in-peru-mapping-health-implications/), 2020.*
