@@ -2,12 +2,19 @@
 title: How can we improve community disaster preparedness and response capacities
   with crowdsourced spatial data in Latin America and the Caribbean?
 date: 2021-06-07 19:14:00 Z
+Feature Image: "/uploads/IMG_20181005_072113.jpg"
+Person: Céline Jacquin
+Country:
+- Mexico
+- Guatemala
+- Saint Lucia
+- Jamaica
+- Dominica
 ---
 
-Following on the [Open Cities Africa](https://www.hotosm.org/projects/open-cities-africa-accra-city-project-ghana/) experience, HOT is proud to announce the extension of the program to open mapping of resilience needs and response capacities with the Open Cities Latin America and the Caribbean project in collaboration with the [Global Fund for Disaster Reduction and Recovery](https://www.gfdrr.org/en) (GFDRR) and [SwissRE Foundation](https://www.swissrefoundation.org/our-work/focus-area/natural-hazard-and-climate-risk-management/Open_mapping_for_resilient_societies_.html).
+*Lead photo: Volcán de Fuego, Guatemala*
 
-![IMG_20181005_072113.jpg](/uploads/IMG_20181005_072113.jpg)
-*Volcán de Fuego, Guatemala*
+Following on the [Open Cities Africa](https://www.hotosm.org/projects/open-cities-africa-accra-city-project-ghana/) experience, HOT is proud to announce the extension of the program to open mapping of resilience needs and response capacities with the Open Cities Latin America and the Caribbean project in collaboration with the [Global Fund for Disaster Reduction and Recovery](https://www.gfdrr.org/en) (GFDRR) and [SwissRE Foundation](https://www.swissrefoundation.org/our-work/focus-area/natural-hazard-and-climate-risk-management/Open_mapping_for_resilient_societies_.html).
 
 ## A region highly exposed to hazards and lacking data
 
