@@ -2,7 +2,8 @@
 title: Practical Action Bolivia Trained Community Members in Mapping Areas Impacted
   by Forest Fires
 date: 2021-06-08 11:34:00 Z
-Summary Text: 'Practical Action Bolivia has '
+Summary Text: Practical Action Bolivia has completed their microgrant supporting communities
+  in mapping areas that have been impacted by forest fires in the Amazon.
 Feature Image: "/uploads/Practical%20Action%20Bolivia%202.jpg"
 Person: Practical Action Bolivia
 Country:
@@ -15,7 +16,7 @@ Project:
 
 Practical Action Bolivia hosted eight trainings to support the affected communities, training 52 people, 22 of whom were women, and created a site with [training resources](https://sites.google.com/view/mapeocomunitario-pabol/inicio) in Spanish. With the mapping skills they gained, the community mapped over 10 thousand buildings and 10 thousand kilometers of road in the affected areas.
 
-This community-generated map data helps the community to understand where forest fires have destroyed crops and infrastructure and ecosystems are in critical condition.
+This community-generated map data offers a more detailed and comprehensive understanding of where forest fires have destroyed crops and infrastructure and where ecosystems are in critical condition, knowledge that can be used to support recovery efforts.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wnT9GbhsE_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
