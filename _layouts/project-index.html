@@ -60,7 +60,11 @@ layout: default
               <h6>Impact Areas</h6>
               {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
               {% for impact-area in sorted-impact-areas %}
+              {% if impact-area.title == 'Disaster Response' %}
+              <a href="/disaster-services/project_activations.html" class="map-impact-area">Disaster Response</a>
+              {% else %}
                 <a href="{{ impact-area.url }}" class="map-impact-area">{{ impact-area.title }}</a>
+                {% endif %}
               {% endfor %}
             </div>
           </div>
@@ -135,7 +139,11 @@ layout: default
         <ul class="impact-areas-list">
           {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
           {% for impact-area in sorted-impact-areas %}
+          {% if impact-area.title == 'Disaster Response' %}
+          <li><a href="/disaster-services/project_activations.html" class="nav-link">Disaster Response</a></li>
+          {% else %}
             <li><a href="{{ impact-area.url }}" class="nav-link">{{ impact-area.title }}</a></li>
+            {% endif %}
           {% endfor %}
         </ul>
       </div>
