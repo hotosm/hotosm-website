@@ -4232,6 +4232,238 @@ sup {
 	display: none;
 }
 
+
+
+
+////////////////////////////////////////////////
+//////////////// Page — Activations //////////////
+////////////////////////////////////////////////
+
+.activations-index {
+  .project-index-highlights {
+    margin-top: 40px;
+    @media (max-width: $screen-xs) {
+      margin-top: 24px;
+    }
+  }
+}
+
+.activations-index-header {
+  margin-bottom: 32px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.kontur-map-area {
+  background-color: #FDF3F3;
+  grid-column: 1 / 4;
+  position: relative;
+  border: none; 
+  margin: 0;
+  height:100%;
+  width:100%;
+  z-index:1000;
+  min-height: 520px;
+  @media (min-width: $screen-xs) {
+    // padding: 40px 40px 40px;
+    min-height: 650px;
+  }
+}
+
+.activations-panel {
+  background-color: $blue-dark;
+  padding-left: 28px;
+  padding-top: 16px;
+  padding-right: 28px;
+  color: $white;
+  display: flex;
+  flex-direction: column;
+  min-height: 650px;
+  // justify-content: center;
+  @media (min-width: $screen-xs) {
+    padding: 40px 40px 40px;
+    min-height: 650px;
+  }
+  p {
+    color: tint($blue-light, 20%);
+    font-size: 0.875rem;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .5);
+    b {
+      font-weight: bold;
+      color: $white;
+    }
+  }
+  a {
+    color: tint($blue-light, 20%);
+  }
+  h4 {
+    color: $white;
+    margin-bottom: 10px;
+  }
+  h5 {
+    font-size: 1rem;
+    font-family: $font-headline;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    color: $red;
+    margin: 16px 0 8px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .5);
+  }
+  .country-content {
+    p {
+      margin-bottom: 24px;
+    }
+  }
+}
+
+// table for data exports
+table, th, td {
+  border-collapse: collapse;
+}
+
+table, th {
+  border-bottom: 1px solid #D73F3F;
+}
+
+table, td {
+  border-bottom: 1px solid #68707F;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+
+
+
+.activations-header {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-gap: 16px 24px;
+  margin: 20px 0 40px;
+  @media (max-width: $screen-md) {
+    margin: 48px 0 24px;
+  }
+  @media (max-width: $screen-xs) {
+    margin: 40px 0 16px;
+  }
+  h1 {
+    font-family: $font-default;
+    font-size: 2.25rem;
+    font-weight: normal;
+    text-transform: none;
+    letter-spacing: 0;
+    line-height: 1.25;
+    grid-column: 1 / -1;
+    p {
+      color: $red;
+    }
+    @media (max-width: $screen-sm) {
+      font-size: 1.75rem;
+    }
+    @media (max-width: $screen-xs) {
+      font-size: 1.375rem;
+      margin-bottom: 4px;
+    }
+    @media (min-width: $screen-xs) {
+      span {
+        display: block;
+      }
+    }
+  }
+  .home-cta {
+    grid-column: 1 / 9;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-gap: 24px;
+    @media (max-width: $screen-sm) {
+      grid-column: 1 / -1;
+      margin-top: -8px;
+    }
+    @media (max-width: $screen-xs) {
+      margin-top: -10px;
+    }
+    .btn {
+      grid-column: span 3;
+      @media (max-width: $screen-sm) {
+        grid-column: span 3;
+      }
+      @media (max-width: $screen-xs) {
+        font-size: 14px;
+        grid-column: span 8;
+        &.hide-xs {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+.activations-controls {
+  display: flex;
+  position: absolute;
+  top: -72px;
+  right: 32px;
+  .control {
+    text-indent: -9999px;
+    margin-left: 16px;
+    width: 40px;
+    height: 40px;
+    background-image: url(/images/arrow-red.svg);
+    background-size: 32px 20px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    transition: background-position .3s ease;
+    cursor: pointer;
+    &:hover {
+      background-position: right center;
+    }
+    &#control-left {
+      transform: rotate(180deg)
+    }
+  }
+  @media (max-width: $screen-sm) {
+    display: none;
+  }
+}
+
+
+
+
+.activations-highlights-wrapper {
+  height: 380px;
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(24, 1fr);
+  grid-gap: 24px;
+  width: 101%;
+  padding: 0 40px;
+  transition: all .5s ease;
+  @media (min-width: $screen-sm) {
+    transform: translate(0, 0);
+    &.right {
+      transform: translate(-24.25%, 0);
+    }
+  }
+  @media (max-width: $screen-sm) {
+    width: 147%;
+    height: 320px;
+  }
+  @media (max-width: $screen-xs) {
+    padding: 0 16px;
+    grid-gap: 16px;
+    width: 164%;
+    height: 220px;
+  }
+}
+
+
+
+
+
 ////////////////////////////////////////////////
 //////////////// Page — Community //////////////
 ////////////////////////////////////////////////
