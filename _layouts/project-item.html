@@ -183,9 +183,12 @@ layout: default
                 <ul>
 
                     {% for area in page['Impact Area'] %} {% for impact-area in site.impact-areas %}
+                    {% if area == impact-area.title and impact-area.title == 'Disaster Response' %}
+                    <li><a href="/disaster-services/project_activations.html">Disaster Response</a></li>
+                    {% else %}
                     {% if area == impact-area.title %}
                     <li><a href="{{ impact-area.url }}">{{ impact-area.title }}</a></li>
-                    {% endif %} {% endfor %} {% endfor %}
+                    {% endif %} {% endif %} {% endfor %} {% endfor %}
 
                     </ui>
             </div>
