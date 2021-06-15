@@ -3,7 +3,14 @@ title: Colonialism in Open Data and Mapping
 date: 2021-06-15 13:31:00 Z
 Feature Image: "/uploads/1.png"
 Is image top aligned: true
-Person: Awantika Pal
+Person:
+- Awantika Pal
+- Immaculata Mwanja
+- Tasauf A Baki Billah (Ribin)
+- David Garcia
+- Gertrude (Trudy Hope) Namitala
+- Selene Yang
+- Willy Franck Sob
 ---
 
 The Humanitarian Mapping Community Working Group organized the webinar “Colonialism in Open Data and Mapping” to examine the influence of colonialism on how the open data community collects and uses local community information.
