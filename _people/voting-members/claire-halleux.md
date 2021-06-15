@@ -5,6 +5,7 @@ Photo: "/uploads/142-0-2.jpeg"
 Member Type:
   Is Staff: true
   Is Voting Member: true
+Job Title: Country Manager - DRC
 Working Group:
 - Training
 - Activation
