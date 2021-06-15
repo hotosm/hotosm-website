@@ -9,6 +9,7 @@ Country: Spain
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Alzaga
+  LinkedIn: https://www.linkedin.com/in/alzaga/
 ---
 
 Máximo (Max) is currently performing as HOT’s Global Associate for the Human Resources and Operations team.
