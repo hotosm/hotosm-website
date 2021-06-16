@@ -4,7 +4,7 @@ title: How can we improve community disaster preparedness and response capacitie
 date: 2021-06-07 19:14:00 Z
 Summary Text: HOT, in collaboration with the Global Fund for Disaster Reduction and
   Recovery and SwissRE Foundation, is proud to announce the Open Cities Latin America
-  program.
+  and the Caribbean project.
 Feature Image: "/uploads/IMG_20181005_072113.jpg"
 Person: Céline Jacquin
 Country:
