@@ -15,7 +15,7 @@ Country:
 
 *Volcán de Fuego, Guatemala*
 
-Construyendo sobre la experiencia de [Open Cities Áfric](https://www.hotosm.org/projects/open-cities-africa-accra-city-project-ghana/)a, HOT se complace en anunciar la ampliación del programa hacia el mapeo abierto de las necesidades de resiliencia y de  capacidades de respuesta en América Latina y el Caribe, en colaboración con el [Global Facility for Disaster Reduction and Recovery](https://www.gfdrr.org/en) (GFDRR) y financiado por la [Fundación SwissRE](https://www.swissrefoundation.org/our-work/focus-area/natural-hazard-and-climate-risk-management/Open_mapping_for_resilient_societies_.html). 
+Construyendo sobre la experiencia de [Open Cities África](https://www.hotosm.org/projects/open-cities-africa-accra-city-project-ghana/), HOT se complace en anunciar la ampliación del programa hacia el mapeo abierto de las necesidades de resiliencia y de  capacidades de respuesta en América Latina y el Caribe, en colaboración con el [Global Facility for Disaster Reduction and Recovery](https://www.gfdrr.org/en) (GFDRR) y financiado por la [Fundación SwissRE](https://www.swissrefoundation.org/our-work/focus-area/natural-hazard-and-climate-risk-management/Open_mapping_for_resilient_societies_.html). 
 
 ## Una región particularmente expuesta a peligros, y carente de datos
 
