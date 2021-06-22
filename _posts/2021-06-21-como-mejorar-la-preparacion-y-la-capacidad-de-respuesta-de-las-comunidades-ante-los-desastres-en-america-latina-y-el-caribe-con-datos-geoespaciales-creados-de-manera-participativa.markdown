@@ -13,8 +13,6 @@ Country:
 - Dominica
 ---
 
-*Volcán de Fuego, Guatemala*
-
 Construyendo sobre la experiencia de [Open Cities África](https://www.hotosm.org/projects/open-cities-africa-accra-city-project-ghana/), HOT se complace en anunciar la ampliación del programa hacia el mapeo abierto de las necesidades de resiliencia y de  capacidades de respuesta en América Latina y el Caribe, en colaboración con el [Global Facility for Disaster Reduction and Recovery](https://www.gfdrr.org/en) (GFDRR) y financiado por la [Fundación SwissRE](https://www.swissrefoundation.org/our-work/focus-area/natural-hazard-and-climate-risk-management/Open_mapping_for_resilient_societies_.html). 
 
 ## Una región particularmente expuesta a peligros, y carente de datos
@@ -45,3 +43,5 @@ El énfasis en el aprendizaje a distancia, la diversidad cultural y de género, 
 *Datos agregados durante [la activación del mapeo de Cusco (Perú) para Covid-19](https://www.hotosm.org/updates/covid-19-pandemic-in-peru-mapping-health-implications/), 2020.*
 
 Open Cities América Latina y el Caribe fortalecerá las capacidades y los vínculos entre comunidades y organizaciones a través de pilotos locales en cinco países: **México, Guatemala, Santa Lucía, Dominica y Jamaica**, apoyando en la creación y uso de datos geoespaciales y herramientas de código abierto orientadas a la gestión del riesgo de desastres con una visión de largo plazo. Guiará a los gobiernos y organizaciones para una toma de decisiones informada y basada en datos, y formará a cientos de personas en comunidades locales y universidades.
+
+*Lead photo: Volcán de Fuego, Guatemala*
