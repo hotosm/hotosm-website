@@ -1,5 +1,5 @@
 ---
-title: Monitoring OSM and Tasking Manager to Map 1 Billion
+title: Monitoring OSM and Tasking Manager to Map an Area Home to 1 Billion
 date: 2021-06-22 10:58:00 Z
 Summary Text: HOT and HeiGIT are collaborating to enhance HOT’s monitoring, evaluation,
   reporting, and learning systems to track progress and accelerate growth towards
