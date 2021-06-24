@@ -1,7 +1,6 @@
 ---
 title: Wille Marcel
 date: 2018-06-09 23:27:00 Z
-published: false
 Photo: https://cdn.hotosm.org/website/wille.jpg
 Member Type:
   Is Staff: false
