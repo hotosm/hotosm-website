@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Job Title: Interim Programs Manager
 Team: Global
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/JessiePechmann/
 ---
 
 Jessie is currently working with HOT as interim programs manager and is responsible for supporting and overseeing Programs country teams and projects globally. 
