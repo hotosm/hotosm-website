@@ -13,6 +13,9 @@ Impact Area:
 - Disaster Response
 Partner:
 - OpenStreetMap South Sudan
+Duration:
+  Start Date: 2020-01-01 00:00:00 Z
+  End Date: 2020-12-31 00:00:00 Z
 Micrograntee: true
 ---
 
