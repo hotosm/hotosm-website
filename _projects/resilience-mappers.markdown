@@ -10,6 +10,7 @@ Impact Area:
 - Sustainable Cities
 Duration:
   Start Date: 2020-10-01 00:00:00 Z
+  End Date: 2021-03-31 00:00:00 Z
 Micrograntee: true
 ---
 
