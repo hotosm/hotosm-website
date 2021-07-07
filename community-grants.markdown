@@ -16,9 +16,9 @@ layout: community-grants
 ---
 
 Since 2017, HOT’s microgrant program has 
-* provided 64 grants to OSM communities in 32 countries 
-* helped micrograntees make 10 million map edits in their local communities
-* supported micrograntees in training 13,000 mappers
+* provided 80 grants to OSM communities in 32 countries 
+* helped micrograntees make 13 million map edits in their local communities
+* supported micrograntees in training 15,000 mappers
 * enabled the contribution of 8 million buildings and 825,000 km road to OSM
 
 As part of the Community Microgrant offering, HOT provides training and mentoring to Micrograntees through the grant application and reporting process. This includes technical training, training in open tools and open data collection, monitoring and evaluation, reporting, finances and record keeping, leadership skills, project management skills, communications, and partnership development.  The program covers costs such as transport fares, internet, devices, food, and stipends for local individuals to lead the setup and strengthening of their communities. 
