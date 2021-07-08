@@ -7,6 +7,8 @@ Country:
 - Nepal
 Impact Area:
 - Poverty Elimination
+Partner:
+- Kathmandu University Geomatics Engineering Society
 Duration:
   Start Date: 2021-03-01 00:00:00 Z
 ---
