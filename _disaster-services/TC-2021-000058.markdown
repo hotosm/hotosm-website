@@ -1,6 +1,6 @@
 ---
 title: Tropical Cyclone YAAS
-Event Name: YAAS-21
+Event Name: Tropical Cyclone YAAS
 Glide: TC-2021-000058
 GDACS-level: 
 Country:

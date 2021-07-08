@@ -1,6 +1,6 @@
 ---
 title: Tropical Cyclone Tauktae-21
-Event Name: Tauktae-21
+Event Name: Tropical Cyclone Tauktae-21
 Glide: TC-2021-000056
 GDACS-level: 
 Country:
