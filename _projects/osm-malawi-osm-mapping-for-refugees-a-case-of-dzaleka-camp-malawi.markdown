@@ -11,7 +11,7 @@ Partner:
 - OSM Malawi
 Duration:
   Start Date: 2021-03-01 00:00:00 Z
-Micograntee: true
+Micrograntee: true
 ---
 
 **Facebook Community Impact Microgrant**
