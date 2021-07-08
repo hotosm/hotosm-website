@@ -1,0 +1,16 @@
+---
+title: Tropical Cyclone YAAS
+Event Name: YAAS-21
+Glide: TC-2021-000058
+GDACS-level: 
+Country:
+- Pakistan
+date: 2021-06-25 12:30:00 Z
+Event type: TC Tropical Cyclone
+Summary Text: Tropical Cyclones YAAS-21 
+Feature Image: TC Tropical Cyclone
+Post-type: Update
+Status: alert
+source: Bangladesh Red Crescent Society (BDRCS) and Govt. of the People's Republic of Bangladesh - Bangladesh Meteorological Department Storm Warning Center
+---
+The severe cyclonic storm “YAAS” made landfall in West Bengal and Odisha coast in India on 26 May 2021 at a wind speed of 150 KMPH. On the same day, late evening, it crossed the west coast of Bangladesh. Coinciding with the full moon, causing a 6-8 feet tidal wave across the coastal districts resulted broken embankments in many places, resulted in inundation and forced people into temporary displacement or living in marooned situation. According to Need Assessment Working Group (NAWG) the cyclonic event affected approximately 1.3 million people, damaged around 26,595 houses: 16,183 latrines and 1,986 water points. In addition to that it is estimated around 39 percent of crops land damaged and 3,599 hector of prawn and fish cultivation area affected.

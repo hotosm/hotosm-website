@@ -1,0 +1,51 @@
+---
+title: Bi-Weekly Update June 16
+date: 2021-06-16 12:30:00 Z
+Country:
+- Democratic Republic of the Congo
+- Rwanda
+Glide:
+- TC-2021-000058
+- TC-2021-000056
+Event type: Volcanic eruption
+Summary Text: The volcano Nyiragongo (a GDACS Orange alert score of 1.5) affected the surrounding area of Goma in the Democratic Republic of Congo. The eruption prompted population movement and damaged the built environment.
+Feature Image: Volcanic eruption
+Post-type: update
+Status: monitoring
+---
+
+
+
+The last [MapSwipe](https://mapswipe.org/en/index.html). project for the South Sudan GIM Initiative on COVID-19 equitable vaccine distribution is nearly done. This will give us an accurate representation of where dwellings are located across the entire Western Equatoria State. With this, we will continue to make mapping projects for the Tasking Manager pinpointing where buildings and roads need to be digitized. 
+<br><br>
+
+The AWG has been monitoring two cyclones that ultimately did not originate support needs and will be archived. Another cyclone —Koguma— impacted Southeast Asia and is being monitored in case gaps are found and we can help in the response there.
+<br><br>
+
+![](/uploads/nyiragongo_banner.png)
+<br><br>
+
+## Activations & responses:
+
+<ul>
+	<li><strong>COVID Vaccination Campaign (GIM), South Sudan: </strong>TM projects ongoing, MapSwipe projects are nearly complete</span></span></li>
+	<li><strong>Nyiragongo Eruption, DRC &amp; Rwanda, Support: </strong>General support for local community efforts</span></span></li>
+</ul>
+
+## Size-Ups and Monitoring:
+
+<ul>
+	<li><strong>Cyclone Koguma, Vietnam:</strong>&nbsp;Prior to size-up, we are monitoring Cyclone Koguma</span></span></li>
+</ul>
+
+
+## Recently concluded:
+
+<ul>
+	<li><strong>Cyclone Tauktae, India/ Pakistan:</strong>&nbsp;Size up on Friday, May 14; Have reached out to India / Pakistan OSM focal points</span></span></li>
+	<li><strong>Cyclone Yaas, North Indian Ocean:</strong>&nbsp;Monitoring for collaboration/support opportunities/needs</span></span></li>
+</ul>
+
+## Keep updated
+
+We created this blog to maintain the users informed about the work the HOT Tech Team is doing. Follow us on [Twitter](https://twitter.com/hotosm_tech) or subscribe to our [RSS feed](/feed/tech-blog.xml) to receive more updates on Tasking Manager and other tools developed by HOT.
