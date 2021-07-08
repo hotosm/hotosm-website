@@ -1,5 +1,10 @@
 ---
+<<<<<<< HEAD
 title: disaster services
+=======
+title: 'disaster services'
+position: 0
+>>>>>>> Updated project_activations.html
 layout: default
 ---
 
@@ -8,7 +13,6 @@ layout: default
   <script src='https://api.mapbox.com/mapbox-gl-js/v2.3.0/mapbox-gl.js'></script>
   <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.0/mapbox-gl.css' rel='stylesheet' />
 </head>
-<!-- https://test-apps02.konturlabs.com/hot-activations-landing/#/COVID-19/projects/ alternative link for testing new features or in case the other one is broken (not a mirror) -->
 
 <div class="activations-index activations-index">
 
@@ -17,7 +21,7 @@ layout: default
   <!--//////// Activations Header ////////-->
   <!--////////////////////////////////-->
 
-<!-- Kontur Map embedding -->
+<!-- Kontur Map embedding --> 
 
   <div class="activations-index-header">
 
@@ -28,12 +32,8 @@ layout: default
       <!-- Tab links -->
         
         <div class="tab detailsTab">
-          <!-- <button id="country-details-btn" class="detailsTabLinks active"  >About Disaster Response</button>
-          <div class="country-content">
-            <p><br><br>Location is critical to disaster response: first responders need fast, reliable information to reach affected areas post-disaster and prioritize aid. Through rapid response activations, the HOT community works together online using satellite and drone imagery to rapidly generate map data in OpenStreetMap. The resulting data is made available via the Humanitarian Data Exchange (HDX) and can be used to create printed maps, for analysis, or for navigation on the ground.</p>
-            <br>
-          </div> -->
-          <button id="country-details-btn defaultOpen" class="disasterstats active" onclick="switchTab(event, 'biweekly')" onmouseover="switchTab(event, 'biweekly')" >Disaster Updates</button>
+
+          <button id="country-details-btn defaultOpen" class="disasterstats active" onclick="switchTab(event, 'biweekly')" onmouseover="switchTab(event, 'biweekly')" >Recent Updates</button>
           <button id="country-details-btn" class="disasterstats" onmouseover="switchTab(event, 'references')" >Resources/Data</button>
           <button id="country-details-btn" class="disasterstats" onmouseover="switchTab(event, 'about')" >About</button>
 
@@ -41,164 +41,159 @@ layout: default
 
 
 
-<!-- bi-weekly updates, manual upload by now -->
-    <div id="biweekly" class="tabcontent">
+              <div id="biweekly" class="tabcontent">
 
-      <div id="country-details" style="padding-top: 15px; justify-content: center" class="detailsTabContent country-contact-wrapper">
-        <h4 id="contact-header"></h4>
-        <h5 >Activations</h5>
-        <div class="country-content">
-          <p><b>COVID Vaccination Campaign (GIM), South Sudan:</b> More <a href="https://tasks.hotosm.org/explore?campaign=COVID%20Vaccination">projects</a> released on the Tasking Manager. <a href="https://mapswipe.org/en/get-involved.html">MapSwipe</a>projects also available.</p>
-          <p><b>Nyiragongo Eruption, DRC & Rwanda, Support:</b> Request from the local community for better/more recent imagery.</p>
+                  <div id="country-details" style="padding-top: 15px; justify-content: center" class="detailsTabContent country-contact-wrapper">
+                      <h4 id="contact-header"></h4>
+                      
+                      <div class="country-content">
 
-        </div>
-        <h5>Size-up/Monitoring</h5>
-        <div class="country-content">
-          <p><b>Cyclone Tauktae, India/ Pakistan:</b> Size up on Friday, May 14: Have reached out to India / Pakistan OSM focal points</p>
-          <p><b>Cyclone Yaas, North Indian Ocean:</b> Monitoring for collaboration/support opportunities/needs.</p>
-        </div>
-        <h5>Recently concluded</h5>
-        <div class="country-content">
-          <p><b>Ebola, Regional:</b> Outbreak in DRC declared concluded, the team is concluding the direct monitoring</p>
-          <p><b>La Soufriere Eruption, Saint Vincent:</b> No direct requests came from direct coordination with MapAction and CDEMA</p>
+                      {% assign sorted_news_feed = site.disaster-services | sort: 'date' | reverse %}  
+                      {% assign highlight_count1 = 0 %}  
 
+                      <h5>Feed</h5>
+                          {% for post in sorted_news_feed %} 
+                      
+
+                         
+                          {% if post.Post-type contains 'update' or post.Post-type contains 'timeline' %}
+                          <p><b>{{ post.date | date: '%e %b %Y' }}, {{ post.title }}:</b>  
+                                    {% if post['Summary Text'] %}  
+                                      {{ post['Summary Text'] | truncatewords:27 }}, <a href="{{ post.url }}">more</a>
+                                    </p>
+                                      {% assign highlight_count1 = highlight_count1 | plus: 1 %}
+                                      {% if highlight_count1 > 4 %}
+                                      {% break %}  
+                                      {% endif %}
+
+                                        {% else %}
+                                        {% break %} 
+                                   {% endif %} 
+                                  {% endif %}    
+                          {% endfor %}
+                        </div>
+          
+                      </div>
+                    </div> 
+      
+    <!-- reference to visuals and data downloads, manual upload by now -->
+
+            <div id="references" class="tabcontent">
+
+              <div id="country-details" style="padding-top: 5px; justify-content: center" class="detailsTabContent country-contact-wrapper">
+                <h4 id="contact-header"></h4>
+                <!-- <h5 >HumanitarianData Exchange (HDX)</h5> -->  
+
+                <table style="width:100%">
+
+                  <tr>
+                    <th><h5>Event</h5></th>
+                    <th><h5>HDX</h5></th>
+                    <th><h5>Resources</h5></th>
+                  </tr> 
+                  <tr>
+
+                    {% assign sorted_downloads = site.disaster-services | where: "Status", 'size-up' | sort: 'date' | reverse %}  
+                    <!-- {% if post.HDX != '' %} -->
+
+                    {% for post in sorted_downloads limit:5 %}
+ 
+                          <td><p><b>{{ post['Event Name'] }}</b></p></td>
+                          <td><p>{{ post.HDX}}</p></td>
+                          <td><p>{{ post.Resources}}</p></td>
+                        </tr> 
+
+                    {% endfor %}
+                    <!-- {% endif %}  -->  
+
+                </table> 
+
+              </div>
+            </div>
+      
+    <!-- Disaster services description, no need to update -->
+
+              <div id="about" class="tabcontent">
+
+                  <h4 id='filter-header'></h4>
+                  <h5>About Disaster Response:</h5>
+                  <p><br><br>Location is critical to disaster response: first responders need fast, reliable information to reach affected areas post-disaster and prioritize aid. Through rapid response activations, the HOT community works together online using satellite and drone imagery to rapidly generate map data in OpenStreetMap. The resulting data is made available via the <a class="externalLink" target="_blank" href="https://data.humdata.org/organization/hot"> <b>Humanitarian Data Exchange (HDX)</b></a> and can be used to create printed maps, for analysis, or for navigation on the ground.</p>
+              </div>
         </div>
+        </div>
+
       </div>
-    </div>
 
-<!-- reference to visuals and data downloads, manual upload by now -->
-
-    <div id="references" class="tabcontent">
-
-      <div id="country-details" style="padding-top: 15px; justify-content: center" class="detailsTabContent country-contact-wrapper">
-        <h4 id="contact-header"></h4>
-        <!-- <h5 >HumanitarianData Exchange (HDX)</h5> -->
-        
-        <table style="width:100%">
-          <tr>
-            <th><h5>Event</h5></th>
-            <th><h5>HDX</h5></th>
-            <th><h5>Resources</h5></th>
-          </tr>
-          <tr>
-            <td><p><b>Volcano Nyiragondo</b></p></td>
-            <td><p><a href="https://data.humdata.org/organization/hot?q=Nyiragongo">DRC & Rwanda</a></p></td>
-            <td><p><a href="https://drive.google.com/file/d/1AlZLew_wIukWmKGdMFdqU8Mh7E4UfIcA/view?usp=sharing">Exposure map</a></p></td>
-          </tr>
-          <tr>
-            <td><p><b>COVID-19 Vaccination</b></p></td>
-            <td><p><a href="https://data.humdata.org/organization/hot">Global</a></p></td>
-            <td><p><a href="https://wiki.openstreetmap.org/wiki/COVID-19_Vaccination_Campaign">Wiki page</a></p></td>
-          </tr>
-          <tr>
-            <td><p><b>Cyclone Yaas & Tauktae</b></p></td>
-            <td><p><a href="https://data.humdata.org/organization/hot?q=india">India</a>, <a href="https://data.humdata.org/organization/hot?q=pakistan">Pakistan</a></p></td>
-            <td><p>N/A</p></td>
-          </tr>
-          <tr>
-            <td><p><b>La Soufriere Eruption, Saint Vincent</b></p></td>
-            <td><p><a href="https://data.humdata.org/organization/hot?q=saint vincent">Saint Vincent</a></p></td>
-            <td><p>N/A</p></td>
-          </tr>
-        </table> 
-
-    </div>
-  </div>
-  
-<!-- Disaster services description, no need to update -->
-
-    <div id="about" class="tabcontent">
-
-        <h4 id='filter-header'></h4>
-        <h5>About Disaster Response:</h5>
-        <p><br><br>Location is critical to disaster response: first responders need fast, reliable information to reach affected areas post-disaster and prioritize aid. Through rapid response activations, the HOT community works together online using satellite and drone imagery to rapidly generate map data in OpenStreetMap. The resulting data is made available via the <a class="externalLink" target="_blank" href="https://data.humdata.org/organization/hot"> <b>Humanitarian Data Exchange (HDX)</b></a> and can be used to create printed maps, for analysis, or for navigation on the ground.</p>
-      </div>
-     </div>
     </div>
 
   </div>
-
-</div>
 
 
 
 <div class="news-preview">
-  <div class="container">
+  <div class="container" style="z-index: 999; position: relative;">
 
     <header class="module-header">
       <h6>Events Timeline</h6>
     </header>
 
-    <div class="news-preview-group">
-
- 
-      <div class="news-preview-item item-1">
-        <div class="news-preview-image">
-          <img  src="/uploads/nyiragongo_banner.png">
-        </div>
-        <div class="news-preview-details">
-         <p class="news-preview-meta">23 May 2021</p>
-         <div class="news-preview-text">
-            <a href="/updates/validators-experienced-mappers-making-an-outsized-difference/"><h4>Nyiragongo Eruption </h4></a>
-            <p>
-              The volcano Nyiragongo (a GDACS Orange alert score of 1.5) affected the surrounding area of Goma in the Democratic Republic of Congo. The eruption prompted population movement and damaged the built environment.
-            </p>
-            <p class="news-preview-meta">
-              DRC & Rwanda - Support
-            </p>
-          </div>
-        </div>
-      </div>
+    <div class="news-preview-group" >
 
 
-      <div class="news-preview-item item-2">
-        <div class="news-preview-image">
-          <img  style="object-position: top center"  src="/uploads/hurricanes_dst_banner.png">
-        </div>
-        <div class="news-preview-details">
-         <p class="news-preview-meta">May 2021</p>
-         <div class="news-preview-text">
-            <a href="/updates/building-a-detailed-flood-model-with-community-mapped-drainage-data-by-the-resilience-academy/"><h4>Tauktae-21 & Yass-21</h4></a>
-            <p>         
-              Tropical Cyclones Tauktae-21 <a href="https://groups.google.com/a/hotosm.org/g/activation/c/39pLVVGyNQU">(size-up)</a> & Yass-21 <a href="https://groups.google.com/a/hotosm.org/g/activation/c/XOvk5_ZU2ss">(size-up)</a> made landfall in India and Pakistan a couple of days apart. The AWG has been monitoring the situation for opportunities to assist.             </p>
-            <p class="news-preview-meta">
-              India & Pakistan - Size-up
-            </p>
-          </div>
-        </div>
-      </div>
-
-
-        <div class="news-preview-item item-3">
-          <div class="news-preview-image">
-            <img  style="object-position: top center"  src="/uploads/covid_activation_banner.png">
-          </div>
-          <div class="news-preview-details">
-           <p class="news-preview-meta">April 2021 - Ongoing </p>
-           <div class="news-preview-text">
-              <a href="https://wiki.openstreetmap.org/wiki/COVID-19_Vaccination_Campaign"><h4>COVID-19 Vaccination Campaign Kick-off</h4></a>
-              <p>
-                Mapping for equitable vaccine distribution in more than 20 countries. 
-                This activation is organized in coordination with CartONG, MapAction, IMMAP and ESRI. 
-                <a href="https://wiki.openstreetmap.org/wiki/COVID-19_Vaccination_Campaign">More info</a>
-              </p>
-              <p class="news-preview-meta">  
-                        Global - Activation
-              </p>
-            </div>
-          </div>
-        </div>
-
-
+      {% assign sorted = site.disaster-services | where: "Post-type", "timeline" | sort: 'date' | reverse %} 
       
 
+        {% for post in sorted limit:3 %} 
+
+
+            <div class="news-preview-item item-{{ forloop.index }}">
+              <div class="news-preview-image">
+
+                <img {% if post['Is image top aligned'] %} style="object-position: top center" {% endif %} src="https://cdn.hotosm.org/website/{{ post['Feature Image'] | replace: " ", "+" }}.png"  >
+              </div>
+              <div class="news-preview-details">
+              <p class="news-preview-meta">{{ post.date | date: '%e %b %Y' }}</p>
+              <div class="news-preview-text">
+                  <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
+                  <p>
+                    {% if post['Summary Text'] %}
+                      {{ post['Summary Text']}}
+                    {% else %}
+                      {{ post.excerpt | strip_html | truncatewords:24 }}
+                    {% endif %}
+                  </p>
+                  <p class="news-preview-meta">
+                    {% if post.Country != '' %}
+                      {% for country in post.Country %}
+                        {% if country != '' %}
+                          {% if post.Country.size <= 3 %}
+                            {{ country }}{% unless forloop.last %},{% endunless %}
+                          {% else %}
+                            {% assign count = post.Country.size %}
+                            {{post.Country[0]}} and {{ count | minus:1 }} other countries
+                            {% break %}
+                          {% endif %}
+                        {% else %}
+                          Global
+                        {% endif %}
+                      {% endfor %}
+                    {% endif %}
+                    {% if post['Event type'] %}
+                      -{% for event in post['Event type']%}
+                        {{ event }}{% unless forloop.last %},{% endunless %}
+                      {% endfor %}
+                    {% endif %}
+                  </p>
+                </div>
+              </div>
+            </div>
+      {% endfor %}
+
     </div>
+    <h6 style="text-align: right;"><a href="/disaster-services/archive">Full list of Events and Updates</a></h6>
 
   </div>
 </div>
-
-
-
 
 
 <div class="page-content">
@@ -280,6 +275,7 @@ layout: default
 
     <h6><br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHighlighted Projects</h6>
     <br></br>
+
 
     <div class="project-index-highlights">
 
