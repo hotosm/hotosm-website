@@ -1,5 +1,5 @@
 ---
-title: Building a Resilient OpenStreetMap Community in Fiji - with OSM Fiji
+title: 'OSM Fiji: Building a Resilient OpenStreetMap Community in Fiji'
 date: 2021-07-08 10:45:00 Z
 Feature Image: "/uploads/OSM%20Fiji.png"
 Is Community-Led: true
