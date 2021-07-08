@@ -1,6 +1,6 @@
 ---
-title: Tauktae-212 Concluded
-Event Name: Tauktae-21 Concluded
+title: Tropical Cyclone Yaas-21 Concluded
+Event Name: Tropical Cyclone Yass-21
 Glide: TC-2021-000056
 date: 2021-06-25 12:30:00 Z
 Event type: TC Tropical Cyclone

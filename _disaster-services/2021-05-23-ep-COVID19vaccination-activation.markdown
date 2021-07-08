@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Vaccination Campaign Kick-off
-Event Name: COVID-19 Pandemic
+Event Name: COVID-19 Epidemic
 date: 2021-06-23 12:30:00 Z
 GDACS-level: RED
 Glide: EP-2020-000012

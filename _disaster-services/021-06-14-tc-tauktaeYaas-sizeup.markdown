@@ -1,6 +1,8 @@
 ---
 title: Tauktae-21 & Yass-21
-Event Name: Tauktae-21 & Yass-21
+Event Name:
+- Tropical Cyclone Tauktae-21
+- Tropical Cyclone Yass-21
 Glide:
 - TC-2021-000056
 - TC-2021-000058
