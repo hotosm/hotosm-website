@@ -59,6 +59,9 @@ collections:
   tech-blog:
     title: Tech Blog
     output: true
+  disaster-services:
+    title: Disaster Services
+    output: true
   tools:
     title: Tools
     output: true
@@ -239,6 +242,18 @@ defaults:
     - ''
 - scope:
     path: ''
+    type: disaster-services
+  values:
+    permalink: disaster-services/:title/
+    layout: disaster-services
+    Person:
+    - ''
+    Project:
+    - ''
+    Glide:
+    - ''
+- scope:
+    path: ''
     type: annual-reports
   values:
     layout: groups
@@ -266,3 +281,4 @@ feed:
   collections:
   - press-releases
   - tech-blog
+  - disaster-services
