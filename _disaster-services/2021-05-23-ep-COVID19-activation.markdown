@@ -1,13 +1,13 @@
 ---
 title: COVID-19 Epidemic Activation
-Event Name: COVID-19 Pandemic
+Event Name: COVID-19 Epidemic
 date: 2020-03-24 12:00:00 Z
 GDACS-level: RED
 Glide: EP-2020-000012
 Country:
 Event type: EP Epidemic
 Summary Text: After careful consideration and deliberation, we have now decided that it is time todo our part. Please take a moment to review this COVID‐19 size‐up.
-Feature Image: /uploads/covid_activation_banner.png
+Feature Image: EP Epidemic
 Post-type: none
 HDX: <a href="https://data.humdata.org/organization/hot">Global</a>
 Resources: <a href="https://wiki.openstreetmap.org/wiki/COVID-19_Vaccination_Campaign">Wiki page</a>
@@ -41,8 +41,7 @@ reduce the impact in basically every corner of the planet.
 
 After careful consideration and deliberation, we have now decided that it is time todo our part. Please take a moment to
 review this COVID‐19 size‐up (note: it may be a bit of a 'living document' for a short while as things are still rapidly
-evolving): https://docs.google.com/document/d/1Dphv7‐h‐
-_NSBdJO2TskwoN1PXES2Q9PBUE5ii3Gz3CA/edit?usp=sharing
+evolving): https://docs.google.com/document/d/1Dphv7‐h‐NSBdJO2TskwoN1PXES2Q9PBUE5ii3Gz3CA/edit?usp=sharing
 
 Then, stay tuned as weidentify what needs we have internally; but for those in the Activation Working Group who would
 like to be part of the coordination team; a) make sure you have completed the course work for the role(s) you are

@@ -1,8 +1,7 @@
 ---
 title: Tropical Cyclone Elsa Size-up
 Event Name: Tropical Cyclone Elsa
-Glide:
-- TC-2021-000072
+Glide: TC-2021-000072
 date: 2021-07-02 12:30:00 Z
 GDACS-level: ORANGE (1.5)
 Country:

@@ -1,5 +1,5 @@
 ---
-title: Tropical Cyclone Eta
+title: Tropical Cyclone Eta Size-up
 Event Name: Tropical Cyclone Eta
 date: 2020-10-31 12:30:00 Z
 GDACS-level: RED

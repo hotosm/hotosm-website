@@ -1,6 +1,6 @@
 ---
-title: TC YAAS Concluded
-Event Name: TC YAAS Concluded
+title: Tropical Cyclone YAAS-21 Concluded
+Event Name: Tropical Cyclone Yaas-21
 Glide: TC-2021-000058
 date: 2021-06-28 12:30:00 Z
 Event type: TC Tropical Cyclone
