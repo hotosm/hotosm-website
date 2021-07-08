@@ -11,7 +11,7 @@ Partner:
 - MapUganda
 Duration:
   Start Date: 2021-03-01 00:00:00 Z
-Microgrant: true
+Micrograntee: true
 ---
 
 **Facebook Community Impact Microgrant**
