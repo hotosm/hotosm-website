@@ -8,10 +8,10 @@ layout: default
     <h1>{{ page.title }}</h1>
   </header>
 
-  <div class="hr-h"></div>
+  <div class="hr-h"></div> 
 
   <div class="news-body">
-    <section class="article"> 
+    <section class="article">
 
       {% if page['Feature Image'] %}
       <img class="news-feature-image" {% if page['Is image top aligned'] %} style="object-position: top center" {% endif %} src="https://cdn.hotosm.org/website/{{ page['Feature Image'] | replace: " ", "+" }}.png" > 
@@ -34,17 +34,28 @@ layout: default
     </section>
     <aside class="meta">
 
+      <div class="meta-item">
+        <h5>Disaster Name</h5>
+        <ul>
+        {% capture glides_filtered %}
+          {% for page-glide in page.Glide %}
+              {% for glide in site.disaster-services %}
+                  {% if page-glide == glide.Glide %}
+                  {{ glide.Glide }}|
+                  {% endif %}
+                {% endfor %}
+          {% endfor %}
+        {% endcapture %}
 
-        <div class="meta-item">
-          {% if page['Event Name'] and page['Event Name'][0] != '' %}
-          <h5>Diasaster Name</h5>
-          <ul>
-            {% for name in page['Event Name'] %}
-              <li><a href="/disaster-services/{{ page.Glide }}/">{{ name }}</a></li>
-            {% endfor %}
-          </ui>
-        </div>
+      {% for glide in site.disaster-services %}
+      {% assign filtered_glides = glide.Glide | append: '|' %}
+        {% if glides_filtered contains filtered_glides %}
+        <li></li><a href="/disaster-services/{{ glide.Glide }}/">{{ glide['Event Name'] }}</a></li>
         {% endif %}
+      {% assign glides_filtered = glides_filtered | remove: filtered_glides %}
+      {% endfor %}
+      </div>
+
 
 
         {% if page['Event type'] and page['Event type'][0] != '' %}
@@ -106,7 +117,7 @@ layout: default
         {% for glide in site.disaster-services %}
         {% assign filtered_glides = glide.Glide | append: '|' %}
           {% if glides_filtered contains filtered_glides %}
-          <li></li><a>{{ glide.Glide}}</a></li>
+          <li></li><a href="/disaster-services/{{ glide.Glide }}/">{{ glide.Glide}}</a></li>
           {% endif %}
       {% assign glides_filtered = glides_filtered | remove: filtered_glides %}
       {% endfor %}
