@@ -1,5 +1,5 @@
 ---
-title: Chepang Basti Mapping by Kathmandu University Geomatics Engineering Society
+title: Chepang Basti Mapping - with Kathmandu University Geomatics Engineering Society
 date: 2021-07-08 07:39:00 Z
 Feature Image: "/uploads/Ku%20Ges.png"
 Is Community-Led: true
