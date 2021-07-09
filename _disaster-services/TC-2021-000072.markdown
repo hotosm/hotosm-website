@@ -1,8 +1,8 @@
 ---
-title: Tropical Cyclone Elsa
+title: Tropical Cyclone Elsa Alert
 date: 2021-07-02 12:00:00 Z
-Event Name: Tropical Cyclone Elsa
 Glide: TC-2021-000072
+Event Name: Tropical Cyclone Elsa
 GDACS-level: 
 Country:
 - Haiti
