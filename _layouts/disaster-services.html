@@ -1,0 +1,177 @@
+---
+layout: default
+---
+
+<article class="container news-item">
+  <header class="news-header">
+  	<h6>Disaster Services <span>— {{ page.date | date: '%d %B, %Y' }}</span></h6>
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <div class="hr-h"></div> 
+
+  <div class="news-body">
+    <section class="article">
+
+      {% if page['Feature Image'] %}
+      <img class="news-feature-image" {% if page['Is image top aligned'] %} style="object-position: top center" {% endif %} src="https://cdn.hotosm.org/website/{{ page['Feature Image'] | replace: " ", "+" }}.png" > 
+    {% endif %}
+    
+
+    {% if page['Summary Text'] %}
+      <p class="news-summary">{{ page['Summary Text'] }}</p> 
+    {% endif %}
+
+      <div class="news-content">
+        {{ content }}
+      </div>
+
+      {% if page['source'] %}
+      <p class="news-content">Source: {{ page['source'] }}</p>
+    {% endif %}
+
+
+    </section>
+    <aside class="meta">
+
+      <div class="meta-item">
+        <h5>Disaster Name</h5>
+        <ul>
+        {% capture glides_filtered %}
+          {% for page-glide in page.Glide %}
+              {% for glide in site.disaster-services %}
+                  {% if page-glide == glide.Glide %}
+                  {{ glide.Glide }}|
+                  {% endif %}
+                {% endfor %}
+          {% endfor %}
+        {% endcapture %}
+
+      {% for glide in site.disaster-services %}
+      {% assign filtered_glides = glide.Glide | append: '|' %}
+        {% if glides_filtered contains filtered_glides %}
+        <li></li><a href="/disaster-services/{{ glide.Glide }}/">{{ glide['Event Name'] }}</a></li>
+        {% endif %}
+      {% assign glides_filtered = glides_filtered | remove: filtered_glides %}
+      {% endfor %}
+      </div>
+
+
+
+        {% if page['Event type'] and page['Event type'][0] != '' %}
+        <div class="meta-item">
+          <h5>Event Type Test</h5>
+          <ul>
+            {% for type in page['Event type'] %}
+              <li>{{ type }}</li>
+            {% endfor %}
+          </ui>
+        </div>
+      {% endif %}
+
+
+
+        {% if page.Country and page.Country[0] != '' %}
+        <div class="meta-item">
+          <h5>Countries</h5>
+          <ul>
+
+            {% for page-country in page.Country %}
+              {% for country in site.where-we-work %}
+                {% if page-country == country.title %}
+                  <li><a href="{{ country.url }}">{{ country.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+
+          </ui>
+        </div>
+      {% endif %}
+
+
+      {% if page['GDACS-level'] and page['GDACS-level'][0] != '' %}
+      <div class="meta-item">
+        <h5>GDACS Level</h5>
+        <ul>
+          {% for GDACS in page['GDACS-level'] %}
+            <li>{{ GDACS }}</li>
+          {% endfor %}
+        </ui>
+      </div>
+    {% endif %}
+  
+
+        <div class="meta-item">
+          <h5>Glides or HOT ID</h5>
+          <ul>
+          {% capture glides_filtered %}
+            {% for page-glide in page.Glide %}
+                {% for glide in site.disaster-services %}
+                    {% if page-glide == glide.Glide %}
+                    {{ glide.Glide }}|
+                    {% endif %}
+                  {% endfor %}
+            {% endfor %}
+          {% endcapture %}
+
+        {% for glide in site.disaster-services %}
+        {% assign filtered_glides = glide.Glide | append: '|' %}
+          {% if glides_filtered contains filtered_glides %}
+          <li></li><a href="/disaster-services/{{ glide.Glide }}/">{{ glide.Glide}}</a></li>
+          {% endif %}
+      {% assign glides_filtered = glides_filtered | remove: filtered_glides %}
+      {% endfor %}
+    </div>
+
+
+
+        {% if page.Glide and page.Glide[0] != ''  %}
+        <div class="meta-item">
+          <h5>Related Updates</h5>
+          <ul>
+  
+            {% for page-glide in page.Glide %}
+              {% for glide in site.disaster-services %}
+                {% if page-glide == glide.Glide and glide.title != page.title %}
+                  <li><a href="{{ glide.url }}">{{ glide.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+  
+          </ui>
+        </div>
+      {% endif %}
+
+
+
+      {% if page['Working Group'] and page['Working Group'][0] != '' %}
+        <div class="meta-item">
+          <h5>Working Groups</h5>
+          <ul>
+            {% for group in page['Working Group'] %}
+              <li><a href="/working-groups">{{ group }}</a></li>
+            {% endfor %}
+          </ui>
+        </div>
+      {% endif %}
+
+      {% if page['Project'] and page['Project'][0] != '' %}
+        <div class="meta-item news-projects">
+          <h5>Associated Projects</h5>
+          <ul>
+            {% for news-project in page.Project %}
+              {% for project in site.projects %}
+                {% if news-project == project.title %}
+                  <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          </ui>
+        </div>
+      {% endif %}
+
+
+
+    </aside>
+  </div>
+</article>
