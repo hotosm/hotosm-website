@@ -1,19 +1,21 @@
 ---
 title: Tropical Cyclone Eta
+date: 2021-01-23 12:00:00 Z
 Event Name: Tropical Cyclone Eta
 Glide: TC-2020-000220
 GDACS-level: 
 Country:
 - Zimbabwe
 - South Africa
-- Mozambique	
+- Mozambique
 - Madagascar
-date: 2021-01-23 12:00:00 Z
 Event type: TC Tropical Cyclone
-Summary Text: Eta originated as a tropical wave in the eastern Caribbean Sea that developed into a tropical depression late on 31 October.
+Summary Text: Eta originated as a tropical wave in the eastern Caribbean Sea that
+  developed into a tropical depression late on 31 October.
 Feature Image: TC Tropical Cyclone
 Status: alert
 Post-type: update
 source: NOAA
 ---
+
 Eta originated as a tropical wave in the eastern Caribbean Sea that developed into a tropical depression late on 31 October. Eta intensified into a major hurricane before reaching Category 4 strength on 3 November. An eyewall replacement cycle then caused the storm to weaken some, but it remained at Category 4 strength as it made landfall south of Puerto Cabezas, Nicaragua, late on 3 November. Eta rapidly weakened to tropical storm status early on 4 November. Although significantly reduced in strength, Eta, one of the most powerful storms to strike Central America since the deadly Hurricane Mitch in 1998, continued to pose concerns. In Honduras, rivers and towns on the Atlantic coast flooded, and landslides made roads impassable.

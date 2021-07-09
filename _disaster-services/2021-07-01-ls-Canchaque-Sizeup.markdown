@@ -1,25 +1,25 @@
 ---
 title: Canchaque Landslides Size-up
-Event Name: Canchaque Landslides
 date: 2021-07-01 12:30:00 Z
+Event Name: Canchaque Landslides
 GDACS-level: NA
 Glide: LS-2021-000001-HOT
 Country:
 - Peru
 Event type: LS Landslide
-Summary Text: Yet another Tropical Cyclone poised to cause a humanitarian crisis; please find the size‐up below, this one we have a day or so to evaluate.
+Summary Text: Yet another Tropical Cyclone poised to cause a humanitarian crisis;
+  please find the size‐up below, this one we have a day or so to evaluate.
 Feature Image: OT Other
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=peru">Peru</a>
 Resources: N/A
-Wiki-page: 
+Wiki-page: N/A
 Campaign: 
 Status: size-up
 Phase: Phase 2
 Timeline: June 30-Present
 Size-up: https://groups.google.com/a/hotosm.org/g/activation/c/OEMy_1PQyhk
 OEG Compliant: N/A
-Wiki-page: N/A
 Web-page: N/A
 TM-Search: N/A
 Tracking#: N/A

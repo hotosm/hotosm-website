@@ -1,7 +1,7 @@
 ---
 title: Tropical Cyclone Eta Size-up
-Event Name: Tropical Cyclone Eta
 date: 2020-10-31 12:30:00 Z
+Event Name: Tropical Cyclone Eta
 GDACS-level: RED
 Glide: TC-2020-000220
 Country:
@@ -9,7 +9,8 @@ Country:
 - Nicaragua
 - El Salvador
 Event type: TC Tropical Cyclone
-Summary Text: Yet another Tropical Cyclone poised to cause a humanitarian crisis; please find the size‐up below, this one we have a day or so to evaluate.
+Summary Text: Yet another Tropical Cyclone poised to cause a humanitarian crisis;
+  please find the size‐up below, this one we have a day or so to evaluate.
 Status: size-up
 Feature Image: TC Tropical Cyclone
 Post-type: timeline
@@ -17,12 +18,10 @@ HDX: <a href="https://data.humdata.org/organization/hot?">Regional</a>
 Resources: 
 Wiki-page: 
 Campaign: 
-Status: size-up
 Phase: 
 Timeline: 
 Size-up: 
 OEG Compliant: 
-Wiki-page: 
 Web-page: 
 TM-Search: 
 Tracking#: 
@@ -36,7 +35,7 @@ Export(s):
 AAR(s): 
 GDACS Incident Name: 
 GDACS ID: 
-GDACS Alert Lvl.:
+GDACS Alert Lvl.: 
 ---
 
 Yet another Tropical Cyclone poised to cause a humanitarian crisis; please find the size‐up below, this one we have a day

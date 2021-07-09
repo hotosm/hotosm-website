@@ -1,16 +1,17 @@
 ---
 title: COVID-19 Epidemic Alert
+date: 2021-03-01 12:00:00 Z
 Event Name: COVID-19 Epidemic
 Glide: EP-2020-000012
 GDACS-level: 
-Country:
-date: 2021-03-01 12:00:00 Z
+Country: 
 Event type: EP Epidemic
-Summary Text: The new strain of coronavirus (COVID-19), has originated in Wuhan, China. 
+Summary Text: The new strain of coronavirus (COVID-19), has originated in Wuhan, China.
 Feature Image: EP Epidemic
 Status: alert
 Post-type: update
 source: WHO
 ---
+
 The new strain of coronavirus (COVID-19), has originated in Wuhan, China. Coronaviruses are a large family of viruses with some causing less-severe disease, such as the common cold, and others more severe disease such as MERS and SARS.
 

@@ -10,6 +10,9 @@ collections:
     title: Countries
     output: true
     permalink: "/where-we-work/:path/"
+  disaster-services:
+    title: Disaster Services
+    output: true
   docs:
     title: Docs & Guidelines
     output: true
@@ -58,9 +61,6 @@ collections:
     permalink: "/rfps/:path/"
   tech-blog:
     title: Tech Blog
-    output: true
-  disaster-services:
-    title: Disaster Services
     output: true
   tools:
     title: Tools

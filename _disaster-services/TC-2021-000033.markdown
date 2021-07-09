@@ -1,17 +1,20 @@
 ---
 title: Tropical Cyclone SEROJA
+date: 2021-04-09 12:00:00 Z
 Event Name: Tropical Cyclone SEROJA
 Glide: TC-2021-000033
 GDACS-level: 
 Country:
 - Indonesia
 - East Timor
-date: 2021-04-09 12:00:00 Z
 Event type: TC Tropical Cyclone
-Summary Text: The Caribbean island of Saint Vincent has declared a red alert and issued an evacuation order for northern areas after seismologists warned that the La Soufrière volcano due to La Soufrière Volcano.
+Summary Text: The Caribbean island of Saint Vincent has declared a red alert and issued
+  an evacuation order for northern areas after seismologists warned that the La Soufrière
+  volcano due to La Soufrière Volcano.
 Feature Image: TC Tropical Cyclone
 Status: alert
 Post-type: update
 source: ECHO
 ---
+
 Tropical Cyclone SEROJA formed over the Savu Sea (eastern Indonesia, bordering Timor-Leste) on 4 April, moving south-west towards the Western Australia coast. On 6 April at 0.00 UTC its centre was approx. 130 km south of Sumba Island (East Nusa Tenggara) and 730 km north-west of Derby Town (Western Australia), with maximum sustained winds of 102 km/h. Following its passage, the Indonesian National Board for Disaster Management reports 128 fatalities, 72 people missing and 8,424 people displaced in East Nusa Tenggara. The Government of Timor-Leste reports 27 fatalities and 7,000 displaced in Dili.

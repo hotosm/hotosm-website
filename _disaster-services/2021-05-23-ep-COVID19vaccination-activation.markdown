@@ -1,25 +1,27 @@
 ---
 title: COVID-19 Vaccination Campaign Kick-off
-Event Name: COVID-19 Epidemic
 date: 2021-06-23 12:30:00 Z
+Event Name: COVID-19 Epidemic
 GDACS-level: RED
 Glide: EP-2020-000012
 Country:
 - Global
 Event type: EP Epidemic
-Summary Text: Mapping for equitable vaccine distribution in more than 20 countries. This activation is organized in coordination with CartONG, MapAction, IMMAP and ESRI.
+Summary Text: Mapping for equitable vaccine distribution in more than 20 countries.
+  This activation is organized in coordination with CartONG, MapAction, IMMAP and
+  ESRI.
 Feature Image: EP Epidemic
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot">Global</a>
-Resources: <a href="https://wiki.openstreetmap.org/wiki/COVID-19_Vaccination_Campaign">Wiki page</a>
-Wiki-page: 
+Resources: <a href="https://wiki.openstreetmap.org/wiki/COVID-19_Vaccination_Campaign">Wiki
+  page</a>
+Wiki-page: https://wiki.openstreetmap.org/wiki/COVID-19_Vaccination_Campaign
 Campaign: 
 Status: size-up
 Phase: 
 Timeline: 
 Size-up: 
 OEG Compliant: 
-Wiki-page: https://wiki.openstreetmap.org/wiki/COVID-19_Vaccination_Campaign
 Web-page: 
 TM-Search: 
 Tracking#: 
@@ -33,7 +35,7 @@ Export(s):
 AAR(s): 
 GDACS Incident Name: 
 GDACS ID: 
-GDACS Alert Lvl.:
+GDACS Alert Lvl.: 
 ---
 
 Here is the size‐up for an upcoming campaign in South Sudan. The focus of this campaign is the creation of critical

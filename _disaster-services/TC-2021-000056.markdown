@@ -1,16 +1,17 @@
 ---
 title: Tropical Cyclone Tauktae-21
+date: 2021-06-25 12:30:00 Z
 Event Name: Tropical Cyclone Tauktae-21
 Glide: TC-2021-000056
 GDACS-level: 
 Country:
 - India
-date: 2021-06-25 12:30:00 Z
 Event type: TC Tropical Cyclone
-Summary Text: Tropical Cyclones Tauktae-21 
+Summary Text: Tropical Cyclones Tauktae-21
 Feature Image: TC Tropical Cyclone
 Post-type: update
 Status: alert
 source: ECHO
 ---
+
 Tropical Cyclone TAUKTAE is strengthening as it moves north over the northeastern Arabian Sea, passing close to the western coast of western India. On 17 May at 0.00 UTC, its centre was located approximately 150 km west-southwest of Mumbai City, with maximum sustained winds of 222 km/h. According to media reports, during the last 48 hours, eight deaths and several thousand have been displaced from Kerala, Karnataka, Goa and Maharashtra. About 440 families in Maldives and 293 families in Sri Lanka also reported affected. Tropical Cyclone TAUKTAE is forecast to continue northward and to make landfall over the southern coast of Gujarat on 17 May late morning (UTC) with maximum sustained winds of 165-175 km/h. On 17-18 May, heavy rain, strong winds and storm surge are forecast over Gujarat, Maharashtra, Karnataka and Goa. Heavy rain and strong winds are expected also across southeastern Pakistan. Red warnings for heavy rain with thunderstorms and strong winds are in effect over Gujarat. Movement of air, water and road transports are restricted. (ECHO, 17 May 2021) 

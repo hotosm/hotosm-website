@@ -1,24 +1,26 @@
 ---
 title: COVID-19 Epidemic Activation
-Event Name: COVID-19 Epidemic
 date: 2020-03-24 12:00:00 Z
+Event Name: COVID-19 Epidemic
 GDACS-level: RED
 Glide: EP-2020-000012
-Country:
+Country: 
 Event type: EP Epidemic
-Summary Text: After careful consideration and deliberation, we have now decided that it is time todo our part. Please take a moment to review this COVID‐19 size‐up.
+Summary Text: After careful consideration and deliberation, we have now decided that
+  it is time todo our part. Please take a moment to review this COVID‐19 size‐up.
 Feature Image: EP Epidemic
 Post-type: none
 HDX: <a href="https://data.humdata.org/organization/hot">Global</a>
-Resources: <a href="https://wiki.openstreetmap.org/wiki/COVID-19_Vaccination_Campaign">Wiki page</a>
+Resources: <a href="https://wiki.openstreetmap.org/wiki/COVID-19_Vaccination_Campaign">Wiki
+  page</a>
 Campaign: 
 Status: size-up
 Phase: 
 Timeline: 
 Size-up: https://groups.google.com/a/hotosm.org/g/activation/c/nPCwhnuDags
-OEG Compliant: no
+OEG Compliant: false
 Wiki-page: https://wiki.openstreetmap.org/wiki/COVID-19_Vaccination_Campaign
-Web-page: no
+Web-page: false
 TM-Search: N/A
 Tracking#: 
 Active Needs: 
@@ -31,7 +33,7 @@ Export(s):
 AAR(s): 
 GDACS Incident Name: 
 GDACS ID: 
-GDACS Alert Lvl.:
+GDACS Alert Lvl.: 
 ---
 
 To the amazing HOT staff(including key volunteers ‐ you know who you are) and lurkers in the Activation Working

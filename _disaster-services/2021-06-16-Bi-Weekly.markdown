@@ -8,13 +8,13 @@ Glide:
 - TC-2021-000058
 - TC-2021-000056
 Event type: Volcanic eruption
-Summary Text: The volcano Nyiragongo (a GDACS Orange alert score of 1.5) affected the surrounding area of Goma in the Democratic Republic of Congo. The eruption prompted population movement and damaged the built environment.
+Summary Text: The volcano Nyiragongo (a GDACS Orange alert score of 1.5) affected
+  the surrounding area of Goma in the Democratic Republic of Congo. The eruption prompted
+  population movement and damaged the built environment.
 Feature Image: Volcanic eruption
 Post-type: update
 Status: monitoring
 ---
-
-
 
 The last [MapSwipe](https://mapswipe.org/en/index.html). project for the South Sudan GIM Initiative on COVID-19 equitable vaccine distribution is nearly done. This will give us an accurate representation of where dwellings are located across the entire Western Equatoria State. With this, we will continue to make mapping projects for the Tasking Manager pinpointing where buildings and roads need to be digitized. 
 <br><br>

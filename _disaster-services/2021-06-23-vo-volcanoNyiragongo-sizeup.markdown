@@ -1,29 +1,29 @@
 ---
 title: Nyiragongo Eruption Size-up
-Event Name: Nyiragongo Eruption
 date: 2021-06-24 12:00:00 Z
+Event Name: Nyiragongo Eruption
 GDACS-level: RED 2.5
 Glide: VO-2021-000059
 Country:
 - Democratic Republic of the Congo
 - Rwanda
 Event type: VO Volcanic Eruption
-Summary Text: The volcano Nyiragongo (a GDACS Orange alert score of 1.5) affected the surrounding area of Goma in the Democratic Republic of Congo. The eruption prompted population movement and damaged the built environment.
+Summary Text: The volcano Nyiragongo (a GDACS Orange alert score of 1.5) affected
+  the surrounding area of Goma in the Democratic Republic of Congo. The eruption prompted
+  population movement and damaged the built environment.
 Status: size-up
 Feature Image: VO Volcanic Eruption
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=Nyiragongo">DRC & Rwanda</a>
-Resources: <a href="https://drive.google.com/file/d/1AlZLew_wIukWmKGdMFdqU8Mh7E4UfIcA/view?usp=sharing">Exposure map</a>
+Resources: <a href="https://drive.google.com/file/d/1AlZLew_wIukWmKGdMFdqU8Mh7E4UfIcA/view?usp=sharing">Exposure
+  map</a>
 Wiki-page: 
-Web-page:
+Web-page: 
 Campaign: 
-Status: size-up
 Phase: 
 Timeline: May 22
 Size-up: https://drive.google.com/file/d/1iRPLUNOi3X8eKhMk_Pxu5B79zCfmBw3-/view
 OEG Compliant: 
-Wiki-page: 
-Web-page: 
 TM-Search: 
 Tracking#: "#Nyiragongo2021"
 Active Needs: Request from local community for better/more recent imagery
@@ -36,8 +36,7 @@ Export(s): https://data.humdata.org/search?q=Nyiragongo
 AAR(s): 
 GDACS Incident Name: 
 GDACS ID: 
-GDACS Alert Lvl.:
-
+GDACS Alert Lvl.: 
 ---
 
 The volcano Nyiragongo (a GDACS Red alert score of 2.5) is currently affecting the surrounding area of Goma in the

@@ -1,27 +1,29 @@
 ---
 title: Tropical Cyclone Elsa Size-up
+date: 2021-07-02 12:30:00 Z
 Event Name: Tropical Cyclone Elsa
 Glide: TC-2021-000072
-date: 2021-07-02 12:30:00 Z
 GDACS-level: ORANGE (1.5)
 Country:
 - Haiti
 - Cuba
 - Dominican Republic
 Event type: TC Tropical Cyclone
-Summary Text: TC Elsa has started to impact the Caribbean. Currently it is difficult to know where it might have a significant impact that we may need to respond for. 
+Summary Text: TC Elsa has started to impact the Caribbean. Currently it is difficult
+  to know where it might have a significant impact that we may need to respond for.
 Post-type: timeline
 Feature Image: TC Tropical Cyclone
-HDX: <a href="https://data.humdata.org/organization/hot?q=haiti">Haiti</a>, <a href="https://data.humdata.org/organization/hot?q=cuba">Cuba</a>, <a href="https://data.humdata.org/organization/hot?q=dominican%20republic">DRC</a>
+HDX: <a href="https://data.humdata.org/organization/hot?q=haiti">Haiti</a>, <a href="https://data.humdata.org/organization/hot?q=cuba">Cuba</a>,
+  <a href="https://data.humdata.org/organization/hot?q=dominican%20republic">DRC</a>
 Resources: <a href="https://pbs.twimg.com/media/E5NWsw8WQAAhT_8.jpg">Mapping Insights</a>
 Campaign: 
 Status: size-up
 Phase: 
 Timeline: 
 Size-up: https://groups.google.com/a/hotosm.org/g/activation/c/nPCwhnuDags
-OEG Compliant: no
-Wiki-page: no
-Web-page: no
+OEG Compliant: false
+Wiki-page: false
+Web-page: false
 TM-Search: N/A
 Tracking#: 
 Active Needs: Monitor & Size-up
