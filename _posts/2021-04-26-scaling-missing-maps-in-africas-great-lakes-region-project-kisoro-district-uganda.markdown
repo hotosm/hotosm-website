@@ -31,7 +31,8 @@ As part of the participatory mapping exercise, the HOT also scheduled multiple t
 
 One of the major hindrances to this participatory mapping exercise was that not all community health workers had access to smartphones. Even with HOT’s provision of a small number of smartphones to some of the workers, the majority still didn't have GPS-enabled smartphones for accessing the information collected.
 
-![Screenshot 2021-04-26 131116.jpg](/uploads/Screenshot%202021-04-26%20131116.jpg)*Community health workers getting acquainted with OSMand and Maps.me*
+![Screenshot 2021-04-26 131116.jpg](/uploads/Screenshot%202021-04-26%20131116.jpg)
+*Community health workers getting acquainted with OSMand and Maps.me*
 
 In order to alleviate this challenge, the HOT team collaborated with the district health team to design village-level, book-sized maps. These book-sized maps were distributed to the village community health workers to help them navigate, locate, and record their movements even without using smartphones. The HOT team is also developing district-level gazetteers that will be shared with health centers across the district to assist in reducing the time spent on patient tracing.
 

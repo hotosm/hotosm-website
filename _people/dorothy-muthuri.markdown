@@ -1,6 +1,7 @@
 ---
 title: Dorothy Muthuri
 date: 2020-06-04 19:43:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Dorothty+headshot.PNG
 Member Type:
   Is Staff: false
