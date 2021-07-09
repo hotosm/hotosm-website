@@ -11,6 +11,7 @@ Impact Area:
 - Public Health
 Duration:
   Start Date: 2020-06-01 00:00:00 Z
+  End Date: 2020-12-31 00:00:00 Z
 Micrograntee: true
 ---
 
