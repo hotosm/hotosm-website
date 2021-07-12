@@ -1,14 +1,15 @@
 ---
 title: Canchaque Landslides Size-up
 date: 2021-07-01 12:30:00 Z
+Glide: LS-2021-000001-HOT
 Event Name: Canchaque Landslides
 GDACS-level: NA
-Glide: LS-2021-000001-HOT
 Country:
 - Peru
 Event type: LS Landslide
-Summary Text: Yet another Tropical Cyclone poised to cause a humanitarian crisis;
-  please find the size‐up below, this one we have a day or so to evaluate.
+Summary Text: Yesterday, while mapping the area around Piura, Peru an area directly
+  adjacent suffered from a large landslide so we immediately began trying to pinpoint
+  the area and create projects.
 Feature Image: OT Other
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=peru">Peru</a>
