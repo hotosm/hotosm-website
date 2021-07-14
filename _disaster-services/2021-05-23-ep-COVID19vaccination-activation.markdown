@@ -40,9 +40,9 @@ GDACS Alert Lvl.:
 
 Here is the size‐up for an upcoming campaign in South Sudan. The focus of this campaign is the creation of critical
 baseline data that will be used to support efficient and equitable in‐country vaccine delivery.
-
-<h2>Event Name: COVID Vaccination Campaign: Pilot ‐ South Sudan</h2>
-
+<br>
+<h2><strong>Event Name:</strong> COVID Vaccination Campaign, Pilot ‐ South Sudan</h2>
+<br>
 <strong>Type of Event:</strong> Protracted Crisis
 The COVID‐19 pandemic in South Sudan qualifies as a protracted crisis. Limited testing capacity has made it difficult to
 ascertain the full extent of the pandemic in the country. The data that will be created from this activation will be critical
