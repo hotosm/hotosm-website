@@ -1,11 +1,11 @@
 ---
 title: COVID-19 Vaccination Campaign Kick-off
 date: 2021-06-23 12:30:00 Z
+Glide: EP-2020-000012
 Event Name: COVID-19 Epidemic
 GDACS-level: RED
-Glide: EP-2020-000012
 Country:
-- Global
+- South Sudan
 Event type: EP Epidemic
 Summary Text: Mapping for equitable vaccine distribution in more than 20 countries.
   This activation is organized in coordination with CartONG, MapAction, IMMAP and
