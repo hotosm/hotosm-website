@@ -14,11 +14,11 @@ We're looking for new and engaging online presentations, dialogues, and lightnin
 
 Note that where possible, and especially for Failfests and Lightning talks, we will ask speakers to submit pre-recorded presentations to show at the Summit. If applicable, live Q&A will follow the presentation.
 
-Please review important dates and proposal ideas below then submit your proposal by the **DEADLINE: AUGUST 10, 2021.**
+Please review important dates and proposal ideas below, then submit your proposal by the **DEADLINE: AUGUST 10, 2021.**
 
 Please complete one form per proposal. You may submit multiple unique proposals, but understand that, due to the volume of speakers, we may only accept one submission by the same presenter(s).
 
-If you have any question please email us at [summit@hotosm.org](mailto:summit@hotosm.org).
+If you have any questions, please email us at [summit@hotosm.org](mailto:summit@hotosm.org).
 
 **Important Dates**
 Call for participation announcement: July 12, 2021
@@ -33,12 +33,12 @@ Here are the session formats that are available:
 * Failfest (5-15 min. discussion of a failure and lessons learned)
 * Debate (1-1.5 hrs. Suggest a topic to debate; Option to propose yourself as representing a specific perspective)
 
-Here are some topics we came up with, but most of all we want to hear your innovative ideas:
+Here are some topics we came up with, but most of all, we want to hear your innovative ideas:
 * Lowering barriers of entry to open mapping
 * Women and open mapping
 * Facilitating and enhancing cross-regional collaboration
 * Diversity and inclusion
-* Challenges and opportunities during pandemic
+* Challenges and opportunities during the pandemic
 * New technologies or project updates
 
 
