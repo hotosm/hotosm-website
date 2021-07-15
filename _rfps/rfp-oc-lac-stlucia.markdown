@@ -2,7 +2,10 @@
 title: RFP - Open Cities Latin America and Caribbean (St Lucia)
 date: 2021-07-15 18:31:00 Z
 Deadline Date: 2021-07-28 12:00:00 Z
-Apply Form Link: info@hotosm.org
+Apply Form Link: https://cdn.hotosm.org/website/St_Lucia_Open_Cities_LAC-Local_Implementation_TOR.pdf
+Page Contact:
+  Label: Submission Email
+  Contact Email: info@hotosm.org
 ---
 
 The Humanitarian OpenStreetMap Team is soliciting proposals for the Open Data for Resilience and Risk Management Initiatives as part of the project Open Cities Latin America and Caribbean (St Lucia).
