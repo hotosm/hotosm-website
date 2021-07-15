@@ -173,6 +173,12 @@ defaults:
     layout: page
     Deadline Date: 
     Apply Form Link: 
+    Page Contact: 
+      Contact Email:
+      Label: 
+    Page Link:
+      Link:
+      Text: 
 - scope:
     path: ''
     type: where-we-work

@@ -65,6 +65,8 @@ layout: default
       <div class="sticky-wrap">
         {% if page.url contains "jobs" %}
           <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Apply Form Link'] }}">Apply</a>
+        {% elsif page.url contains "rfps" %}
+          <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Apply Form Link'] }}">Application Form</a>
         {% elsif page.url contains "docs" %}
           <p>Reach out to us on Slack, for additional support!</p><br/>
           <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Apply Form Link'] }}">Slack channel</a>
@@ -72,14 +74,14 @@ layout: default
       </div>
       {% endif %}
 
-      {% if page['Page Contact'] %}
+      {% if page['Page Contact']['Contact Email'] %}
         <p class="meta-p">{{ page['Page Contact']['Text'] }}</p>
         <div class="sticky-wrap">
           <a class="btn btn-primary btn-block btn-chevron" href="mailto:{{ page['Page Contact']['Contact Email'] }}">{{ page['Page Contact']['Label'] }}</a>
         </div>
       {% endif %}
 
-      {% if page['Page Link'] %}
+      {% if page['Page Link']['Link'] %}
         <p class="meta-p">{{ page['Page Link']['Text'] }}</p>
         <div class="sticky-wrap">
           <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Page Link']['Link'] }}">{{ page['Page Link']['Label'] }}</a>
