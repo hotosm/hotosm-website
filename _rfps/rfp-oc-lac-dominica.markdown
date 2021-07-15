@@ -8,7 +8,7 @@ Apply Form Link: info@hotosm.org
 
 The Humanitarian OpenStreetMap Team is soliciting proposals for the Open Data for Resilience and Risk Management Initiatives as part of the project Open Cities Latin America and Caribbean (Dominica).
 
-The terms of reference are available [here](https://cdn.hotosm.org/website/Dominica_Open_Cities_LAC-Local_Implementation_TOR.pdf).
+The terms of reference are available [here].(https://cdn.hotosm.org/website/Dominica_Open_Cities_LAC-Local_Implementation_TOR.pdf).
 
 The technical proposal shall be presented electronically in Adobe PDF format, in English using the templates provided.
 The proposal consists in three parts: (a) Technical Proposal (b) Financial Proposal (c) Firm Qualification Questionnaire. Links to templates are available in the Terms of Reference.
