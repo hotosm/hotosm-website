@@ -42,4 +42,4 @@ Here are some topics we came up with, but most of all, we want to hear your inno
 * New technologies or project updates
 
 
-[**SUBMIT YOUR PROPOSAL HERE**](http://bit.ly/HOTSummit2021Call)
+[**SUBMIT YOUR PROPOSAL HERE**](https://docs.google.com/forms/d/e/1FAIpQLSd2jIpEMMNmjpWqsW9nedgcPlNK4_0bKjMKpv6kXyFAsMZtHw/viewform)
