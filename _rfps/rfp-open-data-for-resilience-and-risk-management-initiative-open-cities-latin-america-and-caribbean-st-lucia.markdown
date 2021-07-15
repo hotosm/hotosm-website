@@ -13,4 +13,4 @@ The terms of reference are available [here].(https://cdn.hotosm.org/website/St_L
 The technical proposal shall be presented electronically in Adobe PDF format, in English using the templates provided.
 The proposal consists in three parts: (a) Technical Proposal (b) Financial Proposal (c) Firm Qualification Questionnaire. Links to templates are available in the Terms of Reference.
 
-**Applications should be submitted before July 28th 2021, 12pm (EST) at the email address [info@hotosm.org](info@hotosm.org).**
+**Applications should be submitted before July 28th 2021, 12pm (EST) to the email address [info@hotosm.org](info@hotosm.org).**
