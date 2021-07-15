@@ -1,7 +1,6 @@
 ---
 title: RFP - Open Cities Latin America and Caribbean (St Lucia)
 date: 2021-07-15 18:31:00 Z
-published: false
 Deadline Date: 2021-07-28 12:00:00 Z
 Apply Form Link: info@hotosm.org
 ---
