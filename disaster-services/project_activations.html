@@ -47,13 +47,14 @@ layout: default
                       {% assign sorted_news_feed = site.disaster-services | sort: 'date' | reverse %}  
                       {% assign highlight_count1 = 0 %}  
 
-                      <h5>Feed</h5>
+                      <!-- <h5>Feed</h5> -->
                           {% for post in sorted_news_feed %} 
                       
 
                          
                           {% if post.Post-type contains 'update' or post.Post-type contains 'timeline' %}
-                          <p><b>{{ post.date | date: '%e %b %Y' }}, {{ post.title }}:</b>  
+                          <img src='/uploads/{{ post['Feature Image'] }} icon.png' style="position: absolute; display:inline; width: 22px;"></img>
+                          <p style="position: relative; padding-left: 30px;"><b>{{ post.date | date: '%e %b %Y' }}, {{ post.title }}:</b>  
                                     {% if post['Summary Text'] %}  
                                       {{ post['Summary Text'] | truncatewords:27 }}, <a href="{{ post.url }}">more</a>
                                     </p>
