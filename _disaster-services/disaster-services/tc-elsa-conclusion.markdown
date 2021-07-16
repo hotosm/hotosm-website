@@ -17,4 +17,4 @@ Please find below an infographic provided by Kontur that shows the path of TC El
 <br>
 <h2>Resources</h2>
 
-<img src="https://pbs.twimg.com/media/E5NWsw8WQAAhT_8?format=jpg&name=large" > 
+<img src="https://pbs.twimg.com/media/E6L_WqwXEAYQ6RH?format=jpg&name=large" > 
