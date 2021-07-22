@@ -2,7 +2,7 @@
 title: Western Europe Floods Alert
 date: 2021-07-19 02:08:00 Z
 Glide: FL-2021-000001-HOT
-Event Name: Western Europe Floods
+Event Name: Western European Floods 2021
 GDACS-level: Orange 1.5
 Country: Germany
 Event type: FL Flood
