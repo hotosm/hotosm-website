@@ -4,7 +4,10 @@ date: 2021-07-22 02:38:00 Z
 Glide: FL-2021-000001-HOT
 Event Name: Western European Floods 2021
 GDACS-level: Orange 1.5
-Country: Germany
+Country:
+- Germany
+- Belgium
+- Luxembourg
 Event type: FL Flood
 Summary Text: 'Request not to activate by OSM Germany, but support is a possibility. '
 Post-type: timeline
