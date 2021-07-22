@@ -21,11 +21,6 @@ GDACS ID: FL 1100958
 GDACS Alert Lvl.: Orange 1.5
 ---
 
-If you follow the link to the 'request' you'll see it's actually a request not to activate, which is one of the main reasons I suggested our team not immediately respond to the incident. However, now we have increased our frequency of updates on HDX for the region and some of you may have seen that <a href="https://www.maxar.com/open-data/western-europe-flooding" target="_blank">MAXAR</a> has released some imagery; so we may be able to support the local communities.
-
-My request to the group - would someone like to be our 'liaison' with the German community, I can draft emails, etc. just need someone to translate and let us know if there is traffic we should know about (and translate for us)? The same goes for Belgium and Luxembourg but I think most traffic around the incident is happening on the German mailing list - but I could be wrong, could use help in this case. Mostly I would like to make sure they know about these resources and if they could use us hosted imagery on OAM and/or tagging schema suggestions, etc.
-
-<br>
 <h2>Size-up details</h2>
 
 <strong> Event Name:</strong> Western European Floods 2021 <br>
