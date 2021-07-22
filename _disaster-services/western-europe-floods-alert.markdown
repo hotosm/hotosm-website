@@ -12,7 +12,8 @@ Summary Text: '"Flooding after torrential rain caused widespread damage in Germa
 Feature Image: Fl Flood
 Status: alert
 Post-type: update
-source: GDACS
+source: <a href="https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100958&episodeid=1"
+  target="_blank">GDACS</a>
 ---
 
 "Flooding after torrential rain caused widespread damage in Germany, mostly in the western states of North Rhine-Westphalia (NRW), Rhineland-Palatinate (RLP) and Bavaria. Late on 14 July rivers overflowed in NRW and RLP destroying buildings and causing a high number of fatalities. As of 16 July, 43 people had died in NRW and 60 in RLP. Transport, telecommunications, power and water infrastructure were severely damaged, impeding damage assessments. As of 16 July there were still an unknown number of people unaccounted for, including 1,300 people in Bad Neuenahr, Ahrweiler district, RLP. According to Germany's Civil Protection (Bundesamt für Bevölkerungsschutz und Katastrophenhilfe - BBK) as of 16 July, the affected districts included Hagen, Rhein-Erft-Kreis, Städteregion Aachen in NRW; Landkreis Ahrweiler, Eifelkreis Bitburg-Prüm, Trier-Saarburg and Vulkaneifel in RLP; and Hof district in Bavaria."
