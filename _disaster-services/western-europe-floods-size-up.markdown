@@ -37,8 +37,7 @@ My request to the group - would someone like to be our 'liaison' with the German
 <strong>Event Scope:</strong> Minor-Moderate<br>
 <strong>Local Leads:</strong> OSM Germany<br>
 <strong>Anticipated Needs:</strong> Support Only<br>
-<strong>Request(s):</strong> <a href="https://www.openstreetmap.org/user/kmpoppe/diary/397202" target="_blank"> Not to activate</a><be>
-<strong>
-Requestors:</strong> OSM Germany <br>
+<strong>Request(s):</strong> <a href="https://www.openstreetmap.org/user/kmpoppe/diary/397202" target="_blank"> Not to activate</a><be><br>
+<strong>Requestors:</strong> OSM Germany <br>
 <strong>HOT Current Capacity:</strong> Capacity is sufficient for a response <br>
 <strong>Need for Activation:</strong> Unlikelybr>
