@@ -4,7 +4,10 @@ date: 2021-07-19 02:08:00 Z
 Glide: FL-2021-000001-HOT
 Event Name: Western European Floods 2021
 GDACS-level: Orange 1.5
-Country: Germany
+Country:
+- Germany
+- Belgium
+- Luxembourg
 Event type: FL Flood
 Summary Text: '"Flooding after torrential rain caused widespread damage in Germany,
   mostly in the western states of North Rhine-Westphalia (NRW), Rhineland-Palatinate
