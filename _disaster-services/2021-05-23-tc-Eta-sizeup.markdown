@@ -24,7 +24,7 @@ Size-up:
 OEG Compliant: 
 Web-page: 
 TM-Search: 
-Tracking#: 
+Tracking: hurricaneeta
 Active Needs: 
 Anticipated: 
 Lead Org.: 
@@ -36,6 +36,7 @@ AAR(s):
 GDACS Incident Name: 
 GDACS ID: 
 GDACS Alert Lvl.: 
+Report: available
 ---
 
 Yet another Tropical Cyclone poised to cause a humanitarian crisis; please find the size‐up below, this one we have a day

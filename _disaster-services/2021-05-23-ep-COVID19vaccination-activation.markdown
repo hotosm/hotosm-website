@@ -24,7 +24,7 @@ Size-up:
 OEG Compliant: 
 Web-page: 
 TM-Search: 
-Tracking#: 
+Tracking: gimcovid
 Active Needs: 
 Anticipated: 
 Lead Org.: 
@@ -36,6 +36,7 @@ AAR(s):
 GDACS Incident Name: 
 GDACS ID: 
 GDACS Alert Lvl.: 
+Report: available
 ---
 
 Here is the size‐up for an upcoming campaign in South Sudan. The focus of this campaign is the creation of critical

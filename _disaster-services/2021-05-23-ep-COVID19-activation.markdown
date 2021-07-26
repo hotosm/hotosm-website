@@ -22,7 +22,7 @@ OEG Compliant: false
 Wiki-page: https://wiki.openstreetmap.org/wiki/COVID-19_Vaccination_Campaign
 Web-page: false
 TM-Search: N/A
-Tracking#: 
+Tracking: covid19
 Active Needs: 
 Anticipated: 
 Lead Org.: 
@@ -34,6 +34,7 @@ AAR(s):
 GDACS Incident Name: 
 GDACS ID: 
 GDACS Alert Lvl.: 
+Report: available
 ---
 
 To the amazing HOT staff(including key volunteers ‐ you know who you are) and lurkers in the Activation Working

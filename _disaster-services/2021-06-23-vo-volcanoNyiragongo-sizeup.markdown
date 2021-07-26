@@ -25,7 +25,7 @@ Timeline: May 22
 Size-up: https://drive.google.com/file/d/1iRPLUNOi3X8eKhMk_Pxu5B79zCfmBw3-/view
 OEG Compliant: 
 TM-Search: 
-Tracking#: "#Nyiragongo2021"
+Tracking: nyiragongo2021
 Active Needs: Request from local community for better/more recent imagery
 Anticipated: Focused mapping for advanced mappers
 Lead Org.: OSM DRC
@@ -37,6 +37,7 @@ AAR(s):
 GDACS Incident Name: 
 GDACS ID: 
 GDACS Alert Lvl.: 
+Report: available
 ---
 
 The volcano Nyiragongo (a GDACS Red alert score of 2.5) is currently affecting the surrounding area of Goma in the
