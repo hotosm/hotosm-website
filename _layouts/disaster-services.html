@@ -10,13 +10,56 @@ layout: default
 
   <div class="hr-h"></div> 
 
-  <div class="news-body">
+<div class="news-body">
+
     <section class="article">
 
       {% if page['Feature Image'] %}
-      <img class="news-feature-image" {% if page['Is image top aligned'] %} style="object-position: top center" {% endif %} src="https://cdn.hotosm.org/website/{{ page['Feature Image'] | replace: " ", "+" }}.png" > 
+      <img class="dst-feature-image" {% if page['Is image top aligned'] %} style="object-position: top center" {% endif %} src="https://cdn.hotosm.org/website/{{ page['Feature Image'] | replace: " ", "+" }}.png" > 
     {% endif %}
     
+    
+
+    {% if page['Report'] == 'available' %} 
+    <div class="stat-tab">
+      <h5 >{{ page['Event Name'] }} Activation Stats:</h5>
+    </div>
+
+    <div class="container home-stats dst-stats">
+       <div class="home-stat">
+         <center><p class="osm-loader"></p></center>
+         <p class="dst-stat-number" id="OSM-Community-Mappers-DST"></p>
+         <p class="stat-title">Community Mappers<sup>&#9432;</sup>
+           <span class="tooltiptext">Total number of Mappers from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+         </p>
+       </div>
+       <div class="hr-v"></div>
+       <div class="home-stat">
+         <center><p class="osm-loader"></p></center>
+         <p class="dst-stat-number" id="OSM-Total-Map-Edits-DST"></p>
+         <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
+           <span class="tooltiptext">Total number of edits from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+         </p>
+       </div>
+       <div class="hr-v hide-sm"></div>
+       <div class="home-stat">
+         <center><p class="osm-loader"></p></center>
+         <p class="dst-stat-number" id="OSM-Buildings-Mapped-DST"></p>
+         <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
+           <span class="tooltiptext">Total number of buildings mapped from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+         </p>
+       </div>
+       <div class="hr-v"></div>
+       <div class="home-stat">
+         <center><p class="osm-loader"></p></center>
+         <p class="dst-stat-number" id="OSM-Roads-Mapped-DST"></p>
+         <p class="dst-stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
+           <span class="tooltiptext">Total length of roads mapped from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
+         </p>
+       </div>
+     </div>
+  {% endif %}
+  
 
     {% if page['Summary Text'] %}
       <p class="news-summary">{{ page['Summary Text'] }}</p> 
@@ -32,6 +75,8 @@ layout: default
 
 
     </section>
+
+    
     <aside class="meta">
 
       <div class="meta-item">
@@ -175,3 +220,8 @@ layout: default
     </aside>
   </div>
 </article>
+<script>
+    var activationCode = "{{ page.Tracking }}" 
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="/js/DST-stats.js"></script>
