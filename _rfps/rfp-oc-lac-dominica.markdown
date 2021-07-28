@@ -1,7 +1,6 @@
 ---
 title: RFP - Open Cities Latin America and Caribbean (Dominica)
 date: 2021-07-15 19:23:00 Z
-published: false
 Deadline Date: 2021-08-02 00:00:00 Z
 Apply Form Link: https://cdn.hotosm.org/website/Dominica_Open_Cities_LAC-Local_Implementation_TOR.pdf
 Page Contact:
