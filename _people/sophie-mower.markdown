@@ -4,7 +4,7 @@ date: 2020-04-17 22:17:00 Z
 Photo: https://cdn.hotosm.org/website/Sophie+Mower_fullres.jpg
 Member Type:
   Is Staff: true
-Job Title: Community Support Manager
+Job Title: 'Community Services Manager '
 Country: United Kingdom
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/se_mower
