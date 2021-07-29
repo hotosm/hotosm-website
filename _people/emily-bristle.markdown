@@ -4,7 +4,7 @@ date: 2020-12-28 06:14:00 Z
 Photo: https://cdn.hotosm.org/website/Emily+headshot+square.jpg
 Member Type:
   Is Staff: true
-Job Title: Global Human Resources Manager
+Job Title: Senior Global HR Manager
 Country: Argentina
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/emilyjaneb
