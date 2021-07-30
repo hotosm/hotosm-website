@@ -4,10 +4,10 @@ date: 2021-07-30 03:56:00 Z
 ---
 
 **About Kerala**
-Kerala, the southern state of India, is full of diversity. Diversity of people, diversity of communities, and diversity of places. This diversity demands proper maps for the state to enable effective development and management decision-making for both government and citizens. And this diversity poses challenges for mapping in the state.
+- Kerala, the southern state of India, is full of diversity. Diversity of people, diversity of communities, and diversity of places. This diversity demands proper maps for the state to enable effective development and management decision-making for both government and citizens. And this diversity poses challenges for mapping in the state.
 
-**Pre-era**
-In 2008, the first known OpenStreetMap activity took place in Kerala. The Free Map India: series of workshops, facilitated by Schuyler Erle and Mikel Maron, was hosted by the Indian Institute of Information Technology and Management Kerala (IIITMK) in the state capital Thiruvanathapuram. In October 2009, the National Institute of Technology, Calicut hosted the first mapping party in Kerala in connection with their annual tech fest, Tathva, in cooperation with the Free Software User Group Calicut(FSUG-CALICUT). The Mapping Party was facilitated by GeoHackers. Later that year, the state capital hosted another mapping party on the 12th and 13th of December.  
+**Pre-era Mapping**
+- In 2008, the first known OpenStreetMap activity took place in Kerala. The Free Map India: series of workshops, facilitated by Schuyler Erle and Mikel Maron, was hosted by the Indian Institute of Information Technology and Management Kerala (IIITMK) in the state capital Thiruvanathapuram. In October 2009, the National Institute of Technology, Calicut hosted the first mapping party in Kerala in connection with their annual tech fest, Tathva, in cooperation with the Free Software User Group Calicut(FSUG-CALICUT). The Mapping Party was facilitated by GeoHackers. Later that year, the state capital hosted another mapping party on the 12th and 13th of December.  
 
 **The new start**
 In spite of these events and many active individual mappers mapping Kerala during this period, there wasn’t an active mapping community in the region to bring people together. It wasn’t until the 2014 Koorchundu mapping Party V1 that a mapping community grew up around OpenStreetMap in Kerala. 
@@ -47,7 +47,7 @@ The pre-consultation for crowdsourcing data for OSM was held on 8 March 2019 for
 **Current priorities**
 
 Since the start of the pandemic, OSM Kerala has taken the opportunity to reach out to more people online and provide support to pandemic responses. To support the community with several lockdown measures and boundary categorizations in Kerala, OSM Kerala volunteers and Open Data Kerala published geospatial data on the Admin level 8 boundaries.  They have also launched a series of virtual trainings in Malayalam under the name of Virtual Mappy Hours, led by Ark Arjun. 
-
+![OSMK4.jpeg](/uploads/OSMK4.jpeg)
 
 The online outreach programs by OSM Kerala helped popularise the concept of open maps among the student community and gain new volunteers. Our trainers, Ark Arjun, Kelvin, Vipindas, Adhil Asharaf, Jyotish, and Saritha KM, were invited by various institutions for training sessions on OSM. They held talks online for a variety of audiences to increase awareness of OSM within the region.
 Currently, with continued efforts from volunteers, Kerala now has the following boundary layers available in OpenStreetMap.
@@ -60,7 +60,7 @@ Ward level Boundary - Admin level 10 (in progress, completed more than 50%)
 Also, under Jinoy Tom Jacob and the German mappers Heinz Vieth and Marcel Ottiger, every geometry (districts, sub-districts, and the local government) is being mapped, and individual IDs are being generated in Wikidat with the corresponding Wikipedia pages in an effort to digitize the ten admin-level boundaries of Kerala.  With almost half of the digitization completed, this project has taken data dissemination to the next level.
 
 
-
+![osmk5.png](/uploads/osmk5.png)
 
 
 
