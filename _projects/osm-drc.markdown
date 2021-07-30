@@ -2,7 +2,7 @@
 title: 'OSM DRC: Creating urban basemaps and highlighting public health services'
 date: 2020-11-10 15:45:00 Z
 position: 13
-Feature Image: https://cdn.hotosm.org/website/DRC+OSM-ca66c9.jpg
+Feature Image: "/uploads/OSM%20DRC%201.jpg"
 Is Community-Led: true
 Country:
 - Democratic Republic of the Congo
