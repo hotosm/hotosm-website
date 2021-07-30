@@ -2272,8 +2272,43 @@ em {
       margin-bottom: 32px;
       grid-column: 1 / -1;
     }
+    .dst-feature-image {
+      max-height: 500px;
+      margin-bottom: 32px;
+      grid-column: 1 / -1;
+    }
     .news-summary {
       grid-column: 1 / -2;
+    }
+    .stat-tab {
+      grid-column: 1 / -2;
+      display: inline-block;
+      font-weight: normal;
+      color: #929DB3;
+  }
+    .dst-stats {
+      grid-column: 1 / -1;
+      padding: 27px 0 34px;
+      .dst-stat-number {
+        font-family: "Barlow Condensed", sans-serif;
+        font-size: 2.25rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: .02em;
+        color: #D73F3F;
+      }
+      .dst-stat-title {
+        font-size: 0.875rem;
+        font-weight: bold;
+        position: relative;
+    }
+    p {
+      font-family: "Archivo", sans-serif;
+      display: block;
+      margin-block-end: 0.1em;
+      font-size: 0.875rem;
+      font-weight: bold;
+      }
     }
     .news-content {
       grid-column: 1 / -2;
