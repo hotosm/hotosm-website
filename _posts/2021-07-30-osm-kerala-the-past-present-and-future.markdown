@@ -1,7 +1,16 @@
 ---
 title: OSM Kerala - The past, present, and future.
 date: 2021-07-30 03:56:00 Z
+Summary Text: An overview of OSM Kerala's inspiring journey and continued efforts
+  to strengthen the use of OSM for disaster response and humanitarian aid.
 Feature Image: "/uploads/OSMK3-75aeb5.jpeg"
+Person:
+- Manoj Karingamadathil
+- Ark Arjun
+- Awantika Pal
+Working Group:
+- 
+- 
 ---
 
 **About Kerala**
@@ -59,13 +68,13 @@ Also, under [Jinoy Tom Jacob](https://meta.wikimedia.org/wiki/User:Gnoeee) and t
 ![osmk5.png](/uploads/osmk5.png)
 
 
-**Mapping the Future **
+**Mapping the Future**
 - The OSM Kerala community has made great strides towards building a sustainable community and producing higher quality data through the mapping of local wards. The community is pursuing the need for micro mapping and data validation of the created datasets. The plan is to fulfill these needs by replicating the Koorachundu model with some changes. Some major projects that have been kickstarted in State-level mapping are:
 * Pudussery panchayat mapping: As part of the [Unnat Bharat Abhiyan ](https://unnatbharatabhiyan.gov.in:8443/new-website/)project under the [Indian Institute of Technology (IIT) Palakkad](https://iitpkd.ac.in/), the community has started a similar project with a pilot area of the Pudussery panchayat. 
 * Adat panchayat mapping: A collaboration with the Adat panchayat, Thrissur was made to carry out micro-level mapping of the panchayat and validate the datasets created with the officials. 
 * [Standardization of and hierarchy setting for health care facility mapping. ](https://www.google.com/url?q=https://wiki.openstreetmap.org/wiki/Kerala/Health_Facilities&sa=D&source=editors&ust=1627622425304000&usg=AOvVaw3y7QDcrym4PVLC4eCazuFc)
 We are excited about our journey so far and are committed to improving the open data availability and usage in the state of Kerala.
 
-1. These datasets are no longer publicly accessible.
+*(1). These datasets are no longer publicly accessible.*
 
 
