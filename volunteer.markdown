@@ -11,7 +11,7 @@ layout: page
 ---
 
 ## Get in touch and talk to us
-Join the conversation on [Slack](http://slack.hotosm.org/)! A large number of volunteers and staff discuss mapping, emergencies, Working Groups and other matters on our Slack channel.
+Join the conversation on [Slack](http://slack.hotosm.org/)! A large number of volunteers and staff discuss mapping, emergencies, Working Groups and other matters on our Slack channel. Or you can join the same conversation on our [Space (Beta) on Matrix](https://matrix.to/#/#openmapping-humanitarian:matrix.org), a modern open source and decentralized platform.
 
 <div class="anchor" id="mapping-volunteers"></div>
 <h2>Mapping Volunteers</h2>
