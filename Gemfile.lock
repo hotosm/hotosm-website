@@ -76,6 +76,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.15.1)
   jekyll-paginate
   jekyll-redirect-from
+  jekyll-seo-tag (~> 2.5.0)
   jekyll-sitemap
   kramdown-parser-gfm (~> 1.1.0)
   minima (~> 2.0)
