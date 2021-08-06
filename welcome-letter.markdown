@@ -18,6 +18,7 @@ You can jumpstart your mapping journey using the Tasking Manager through the **[
 ### Contacting us and communicating
 
 - The best way to ask is to join the HOT Slack community (specifically the #mapper-support channel) which have many topic focused channels as well as channels for general chat, introductions and random thought; sign up at [https://slack.hotosm.org](https://slack.hotosm.org/)
+- You can also join the same conversation on our [Space (Beta) on Matrix](https://matrix.to/#/#openmapping-humanitarian:matrix.org), a modern open source and decentralized platform.
 - You can also join the humanitarian mailing list, where there are a lot of friendly people, both new mappers and experts: [https://lists.openstreetmap.org/listinfo/hot](https://lists.openstreetmap.org/listinfo/hot)
 
 In closing, we want to say: **Welcome, we are very happy you stopped by and we hope to see more of you in the future.**

@@ -3,7 +3,7 @@
 This repo is the codebase for the main Humanitarian OpenStreetMap Team website. See `gh-pages` branch for Jekyll code. If looking for the previous Drupal codebase, see the current `master` branch.
 
  - See the [issues queue](https://github.com/hotosm/hotosm-website/issues) for all discussions and tasks.
- - Chat available on [HOTOSM Slack](https://slack.hotosm.org/) within the #hotosm-website channel.
+ - Chat available on [HOTOSM Slack](https://slack.hotosm.org/) within the #hotosm-website channel, or join the same conversation on our [Space (Beta) on Matrix](https://matrix.to/#/#openmapping-humanitarian:matrix.org), a modern open source and decentralized platform.
 
 ## Getting Started with Development
 
