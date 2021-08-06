@@ -271,9 +271,12 @@ email: info@hotosm.org
 description: HOT is an international team dedicated to humanitarian action and community
   development through open mapping.
 baseurl: 
-url: 
-twitter_username: hotosm
+url: www.hotosm.org
+twitter:
+  username: hotosm
+  card: summary
 github_username: hotosm
+logo: /images/hot-logo.svg
 markdown: kramdown
 theme: minima
 plugins:
@@ -281,6 +284,7 @@ plugins:
 - jekyll-paginate
 - jekyll-redirect-from
 - jekyll-sitemap
+- jekyll-seo-tag
 paginate: 16
 paginate_path: "/updates/page:num/"
 feed:

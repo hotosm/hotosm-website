@@ -55,6 +55,16 @@ layout:
 "date":"{{ post.date }}"
 }, 
 {% endfor %}
+{% for rfp in site.rfps %}
+{
+"type":"RFPs",
+"title":"{{ rfp.title | escape }}",
+"summary":"{{ rfp.content | escape | truncatewords: 40 | strip | strip_html | remove: "\" | prepend: ' ' }}",
+"subtitle":"{{ rfp['Deadline Date'] | prepend: ' '}}",
+"url":"{{ site.url }}{{ post.url }}",
+"date":"{{ post.date }}"
+}, 
+{% endfor %}
 {% for job in site.jobs %}
 {
 "type": "Job",
