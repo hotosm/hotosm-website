@@ -1,9 +1,10 @@
 ---
 title: Hycinth Umaran
 date: 2020-11-04 06:25:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/mumaran-23a31f.jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Scrum Master and Agile Coach
 Country: Philippines
 Team: Tech Team
