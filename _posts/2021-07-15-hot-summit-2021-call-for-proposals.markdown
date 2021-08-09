@@ -14,6 +14,8 @@ We're looking for new and engaging online presentations, dialogues, and lightnin
 
 Note that where possible, and especially for Failfests and Lightning talks, we will ask speakers to submit pre-recorded presentations to show at the Summit. If applicable, live Q&A will follow the presentation.
 
+**We’re excited to hear from diverse voices!** HOT Summit 2021 will serve as a venue for local humanitarian mapping communities to gather together, share ideas and projects, and collaborate. We highly encourage first-time speakers to submit. **You are also welcome to propose a talk and present it in your preferred language**, please let us know what type of language translation assistance you will need via the submission form.
+
 Please review important dates and proposal ideas below, then submit your proposal by the **DEADLINE: AUGUST 10, 2021.**
 
 Please complete one form per proposal. You may submit multiple unique proposals, but understand that, due to the volume of speakers, we may only accept one submission by the same presenter(s).
