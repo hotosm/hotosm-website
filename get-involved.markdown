@@ -22,8 +22,10 @@ block-2:
   Link: community/working-groups/
 block-3:
   Title: Chat with the community?
-  Text: Join the community online via Slack or join the same conversation on our Space (Beta) on Matrix, a modern open source and decentralized platform. On either platform, you can join topic based channels to hear about what is going
-    on, ask questions, or communicate with community members.
+  Text: Join the community online via Slack or join the same conversation on our Space
+    (Beta) on Matrix, a modern open source and decentralized platform. On either platform,
+    you can join topic based channels to hear about what is going on, ask questions,
+    or communicate with community members.
   Action-text: Get connected now
   Image: https://cdn.hotosm.org/website/IMG_6660.jpg
   Link: https://slack.hotosm.org/

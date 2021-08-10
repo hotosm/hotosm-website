@@ -276,7 +276,7 @@ twitter:
   username: hotosm
   card: summary
 github_username: hotosm
-logo: /images/hot-logo.svg
+logo: "/images/hot-logo.svg"
 markdown: kramdown
 theme: minima
 plugins:
