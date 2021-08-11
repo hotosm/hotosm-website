@@ -1,7 +1,7 @@
 ---
 title: 2020 Aegean Sea earthquake
 date: 2020-10-30 15:52:00 Z
-Glide: 2020-000215
+Glide: EQ-2020-000215
 Event Name: 2020 Aegean Sea earthquake
 GDACS-level: Orange (1.8)
 GDACS ID: EQ 1241508
