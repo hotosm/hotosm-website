@@ -1,8 +1,8 @@
 ---
 title: Tropical Cyclone Eta
 date: 2021-01-23 12:00:00 Z
-Event Name: Tropical Cyclone Eta
 Glide: TC-2020-000220
+Event Name: Tropical Cyclone Eta
 GDACS-level: 
 Country:
 - Zimbabwe
