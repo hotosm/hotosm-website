@@ -23,7 +23,7 @@ Size-up: https://groups.google.com/a/hotosm.org/g/activation/c/OEMy_1PQyhk
 OEG Compliant: N/A
 Web-page: N/A
 TM-Search: N/A
-Tracking: 
+Tracking: cenepred
 Active Needs: Basemap of Canchaque district
 Anticipated: Documentation
 Lead Org.: HOT
@@ -35,6 +35,7 @@ AAR(s): N/A
 GDACS Incident Name: N/A
 GDACS ID: N/A
 GDACS Alert Lvl.: N/A
+Report: available
 ---
 
 We have been working on a preparedness campaign with AmeriGEO, NOAA and the OGC and this week was scheduled as a multi-day mapathon and conference to showcase PeruSat and the capabilities of utilizing the imagery in workflows such as ours. Edgar Lemus from the HOT Partnerships team has been spearheading the effort. Yesterday, while mapping the area around Piura, Peru an area directly adjacent suffered from a large landslide so we immediately began trying to pinpoint the area and create projects.
