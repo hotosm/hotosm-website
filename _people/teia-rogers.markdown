@@ -1,9 +1,10 @@
 ---
 title: Teia Rogers
 date: 2021-01-05 10:45:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Profile+Photo.png
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: 'Senior Manager: Program Planning'
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Teia%20Rogers
