@@ -10,7 +10,7 @@ Country:
 Event type: size-up
 Summary Text: Potentially HOT would just support local efforts or activate if none
   are initiated
-Feature Image: EQ Earthquake
+Feature Image: OT Other2
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=haiti">Haiti</a>
 Resources: N/A
