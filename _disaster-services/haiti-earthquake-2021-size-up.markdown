@@ -9,10 +9,10 @@ Country:
 - Haiti
 Event type: size-up
 Summary Text: 'High humanitarian impact, magnitude 7.2M tsunami generates 0.46m '
-Feature Image: FF Flash flood
+Feature Image: EQ Earthquake
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=haiti">Haiti</a>
-Resources: 
+Resources: N/A
 Wiki-page: https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Humanitarian_OpenStreetMap_Team
 Web-page: 
 Timeline: 'August 14, 2021 - '
