@@ -19,7 +19,7 @@ Summary Text: 'Request to activate for various wildfires around the Mediterranea
   Sea: Algeria, Greece, Italy, Tunisia & Turkey.
 
 '
-Feature Image: 
+Feature Image: FR Fire
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot">Various Countries</a>
 Resources: N/A
