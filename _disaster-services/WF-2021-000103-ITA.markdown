@@ -11,7 +11,7 @@ Event type: WF Wild fire
 Summary Text: '"The fires are still affecting large areas involving brush forests,
   wildlands and urban interface areas. The Italian government has also activated the
   European Union Civil Protection Mechanism in support of the national resources [...]"'
-Feature Image: WF Wild fire
+Feature Image: FR Fire
 Status: alert
 Post-type: update
 source: GDACS
