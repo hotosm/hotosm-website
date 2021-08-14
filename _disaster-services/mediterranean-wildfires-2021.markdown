@@ -5,6 +5,7 @@ Glide:
 - WF-2021-000115-DZA
 - WF-2021-000107-TUR
 - WF-2021-000106-TUN
+- WF-2021-000103-ITA
 Event Name: Mediterranean Wildfires 2021
 GDACS-level: Varies .5-1.5
 GDACS ID: Various
