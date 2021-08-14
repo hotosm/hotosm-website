@@ -1,5 +1,5 @@
 ---
-title: Mediterranean Wildfires 2021
+title: Mediterranean Wildfires 2021 Size-up
 date: 2021-08-13 19:19:00 Z
 Glide:
 - WF-2021-000115-DZA
