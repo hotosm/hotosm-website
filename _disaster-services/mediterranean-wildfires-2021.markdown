@@ -29,7 +29,7 @@ Timeline: 'August 13, 2021 - '
 Size-up: 
 Anticipated: Base data in impacted areas, support with imagery coordination and tasking.
 GDACS Incident Name: Various
-Tracking: "#medseafires2021"
+Tracking: medseafires2021
 Report: available
 ---
 

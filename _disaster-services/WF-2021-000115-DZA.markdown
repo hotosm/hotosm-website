@@ -13,7 +13,7 @@ Feature Image: FR Fire
 Status: alert
 Post-type: update
 source: ECHO
-Tracking: "#algeriafires2021"
+Tracking: algeriafires2021
 Report: available
 ---
 
