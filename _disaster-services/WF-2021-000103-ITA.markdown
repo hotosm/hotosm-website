@@ -1,0 +1,21 @@
+---
+title: Italy Wildfires 2021
+date: 2021-07-24 17:45:00 Z
+Glide: WF-2021-000103-ITA
+Event Name: Italy Wildfires 2021
+GDACS-level: Green (0.5)
+GDACS ID: WF 1001654
+Country:
+- Italy
+Event type: WF Wild fire
+Summary Text: '"The fires are still affecting large areas involving brush forests,
+  wildlands and urban interface areas. The Italian government has also activated the
+  European Union Civil Protection Mechanism in support of the national resources [...]"'
+Feature Image: WF Wild fire
+Status: alert
+Post-type: update
+source: GDACS
+---
+
+"During the morning of July 24, the area near the town of Bonarcado in the province of Oristano, in Sardinia, was affected by large fires that spread very quickly due to several factors including strong southerly winds, high temperatures and vegetation prone to fire. The fires affected farms, crops and houses and led to the evacuation of 800 people. Several ground firefighting teams and regional resources supported by national and regional air resources were deployed. The fires are still affecting large areas involving brush forests, wildlands and urban interface areas. The Italian government has also activated the European Union Civil Protection Mechanism in support of the national resources. France deployed 2 Canadair aircraft from the European Civil Protection Pool (ECPP) and the Emergency Response Coordination Centre (ERCC) mobilised 2 additional Canadair aircraft from the rescEU reserve hosted by Greece." (sic.)
+Source: EFFIS
