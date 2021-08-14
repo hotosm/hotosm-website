@@ -8,7 +8,8 @@ GDACS ID: EQ 1281677
 Country:
 - Haiti
 Event type: size-up
-Summary Text: 'High humanitarian impact, magnitude 7.2M tsunami generates 0.46m '
+Summary Text: Potentially HOT would just support local efforts or activate if none
+  are initiated
 Feature Image: EQ Earthquake
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=haiti">Haiti</a>
