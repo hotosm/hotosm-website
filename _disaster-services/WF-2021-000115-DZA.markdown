@@ -13,6 +13,8 @@ Feature Image: FR Fire
 Status: alert
 Post-type: update
 source: ECHO
+Tracking: "#algeriafires2021"
+Report: available
 ---
 
 "Wildfires have been affecting the Kabylia Region in northern Algeria since 9 August. More than 70 fires have occurred in 13 prefectures in the north of the country including Tizi-Ouzou, Bouira, Sétif, Khenchela, Guelma, Bejaïa, Bordj Bou Arreridj, Boumerdès, Tiaret, Medea, Tébessa, Blida and Skikda. According to media reports, more than 40 people have died as a result of the fires. The Algerian government has requested assistance from the international community in response to the fires, including through the EU Civil Protection Mechanism on 11 August for two Canadair aircraft to respond to fires in the Tizi Ouzou and Bejaïa regions. According to the European Forest Fire Information System (EFFIS), the fire risk will remain high to very extreme over the affected area."
