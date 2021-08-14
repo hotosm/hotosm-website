@@ -1,0 +1,18 @@
+---
+title: Haiti Earthquake 2021
+date: 2021-08-14 16:06:00 Z
+Glide: EQ-2021-000116-HTI
+Event Name: Haiti Earthquake 2021
+GDACS-level: Red (3.5)
+GDACS ID: EQ 1281677
+Country:
+- Haiti
+Event type: EQ Earthquake
+Summary Text: 'High humanitarian impact, magnitude 7.2M tsunami generates 0.46m '
+Feature Image: EQ Earthquake
+Status: alert
+Post-type: update
+source: GDACS
+---
+
+High humanitarian impact, magnitude 7.2M tsunami generates 0.46m 
