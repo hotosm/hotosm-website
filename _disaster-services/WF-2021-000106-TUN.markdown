@@ -1,0 +1,19 @@
+---
+title: Tunisia Wildfires 2021
+date: 2021-07-24 18:49:00 Z
+Glide: WF-2021-000106-TUN
+Event Name: Tunisia Wildfires 2021
+Country:
+- Tunisia
+Event type: WF Wild fire
+Summary Text: '"A fire incident broke out late on the afternoon in the pine forests
+  of Ain Mazer, Sakiet Sidi Youssef district, Kef governorate in the middle-western
+  region of Tunisia.[...]"'
+Feature Image: FR Fire
+Status: alert
+Post-type: update
+source: IFRC
+---
+
+"[A]s of Saturday 24 July 2021, A fire incident broke out late on the afternoon in the pine forests of Ain Mazer, Sakiet Sidi Youssef district, Kef governorate in the middle-western region of Tunisia. Ain Mazer is a small village located in a rugged area,18 km away from the centre of Sakkiet Sidi Youssef. Its population make living mainly form forestry, livestock, and crop farming. Simultaneously, since Monday 26 July 2021, another fire broke in Ghar Dimaa delegation, Jendouba governorate damaging more than 1,500 hectares of Fajj Hessin forets." (sic.)
+Source: IFRC
