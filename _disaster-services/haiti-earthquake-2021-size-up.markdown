@@ -7,14 +7,14 @@ GDACS-level: Red (3.0)
 GDACS ID: EQ 1281677
 Country:
 - Haiti
-Event type: size-up
+Event type: EQ Earthquake
 Summary Text: Potentially HOT would just support local efforts or activate if none
   are initiated
 Feature Image: EQ Earthquake
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=haiti">Haiti</a>
 Resources: N/A
-Wiki-page: https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Humanitarian_OpenStreetMap_Team
+Wiki-page: https://wiki.openstreetmap.org/wiki/Haiti_Earthquake_2021
 Web-page: 
 Timeline: 'August 14, 2021 - '
 Size-up: 
