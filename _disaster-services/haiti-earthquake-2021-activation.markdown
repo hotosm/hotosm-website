@@ -14,7 +14,7 @@ Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=haiti">Haiti</a>
 Resources: N/A
 Campaign: 
-Status: 
+Status: size-up
 Phase: 
 Timeline: 'August 14, 2021 - '
 Size-up: https://www.hotosm.org/disaster-services/haiti-earthquake-2021-size-up/
@@ -22,9 +22,6 @@ Wiki-page: https://wiki.openstreetmap.org/wiki/Haiti_Earthquake_2021
 Tracking: haitieq2021
 Report: available
 ---
-
-
-This is an activation for the <a href="https://www.hotosm.org/disaster-services/haiti-earthquake-2021-size-up/">Haiti Size-up</a> 
 
 The <a href="https://tasks.hotosm.org/explore?campaign=Haiti%20Earthquake%202021">Haiti Earthquake 2021 campaign</a> is an ongoing HOT activation organized by the Humanitarian OpenStreetMap Team in coordination with OSM Haiti to respond to a magnitude 7.2 earthquake that struck the island nation of Haiti.
 

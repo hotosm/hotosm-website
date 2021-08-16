@@ -20,8 +20,6 @@ Timeline: 'August 14, 2021 - '
 Size-up: 
 Anticipated: Basemap improvements in Grand Anse province (buildings)
 GDACS Incident Name: M 7.2 in Haiti on 14 Aug 2021 12:29 UTC
-Tracking: haitieq2021
-Report: available
 ---
 
 <h2>Size-up Details</h2>
