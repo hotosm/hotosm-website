@@ -2,7 +2,7 @@
 title: HOT Summit 2021 Call for Proposals
 date: 2021-07-15 12:46:00 Z
 Summary Text: The 2021 HOT Summit Call for Proposals is now open! Submit your ideas
-  for panels and talks today! Deadline is 10 August.
+  for panels and talks today! Deadline is 31 August.
 Feature Image: "/uploads/Copy%20of%20Compressed%20Summit%202021_Banner.png"
 Working Group:
 - HOT Summit
@@ -16,7 +16,7 @@ Note that where possible, and especially for Failfests and Lightning talks, we w
 
 **We’re excited to hear from diverse voices!** HOT Summit 2021 will serve as a venue for local humanitarian mapping communities to gather together, share ideas and projects, and collaborate. We highly encourage first-time speakers to submit. **You are also welcome to propose a talk and present it in your preferred language**, please let us know what type of language translation assistance you will need via the submission form.
 
-Please review important dates and proposal ideas below, then submit your proposal by the **DEADLINE: AUGUST 10, 2021.**
+Please review important dates and proposal ideas below, then submit your proposal by the **DEADLINE: AUGUST 31, 2021.**
 
 Please complete one form per proposal. You may submit multiple unique proposals, but understand that, due to the volume of speakers, we may only accept one submission by the same presenter(s).
 
@@ -24,8 +24,8 @@ If you have any questions, please email us at [summit@hotosm.org](mailto:summit@
 
 **Important Dates**
 Call for participation announcement: July 12, 2021
-Deadline to submit your proposal: August 10, 2021
-Notification of accepted proposals: September 7, 2021
+Deadline to submit your proposal: August 31, 2021
+Notification of accepted proposals: September 2021
 Summit date: November 22, 2021
 Contributions Types and Ideas
 
