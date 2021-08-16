@@ -23,15 +23,14 @@ Tracking: haitieq2021
 Report: available
 ---
 
-<strong>The <a href="https://tasks.hotosm.org/explore?campaign=Haiti%20Earthquake%202021">Haiti Earthquake 2021 campaign</a></strong> is an ongoing HOT activation to map southeastern Haiti, organized by the Humanitarian OpenStreetMap Team in coordination with OSM Haiti to respond to a magnitude 7.2 earthquake that struck the island nation of Haiti.
-
+<strong>The <a href="https://tasks.hotosm.org/explore?campaign=Haiti%20Earthquake%202021">Haiti Earthquake 2021 campaign</a> is an ongoing HOT activation to map southeastern Haiti</strong> after it was struck by a 7.2 earthquake. 
 Disaster Services (DS) is actively working with voting members from Haiti and partners in the region.
 
 Based on mapping needs, the following areas in southwestern Haiti will be part of this campaign:
 
-<strong>Nippes</strong><br>
-<strong>Sud-Est</strong><br>
-<strong>Sud</strong><br>
+<strong>- Nippes</strong><br>
+<strong>- Sud-Est</strong><br>
+<strong>- Sud</strong><br>
 
 Mapping will focus on filling areas with little to no Buildings data to support response and recovery efforts, population estimates, and damage assessments.
 
