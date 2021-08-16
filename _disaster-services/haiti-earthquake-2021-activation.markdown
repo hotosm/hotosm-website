@@ -23,7 +23,7 @@ Tracking: haitieq2021
 Report: available
 ---
 
-The <a href="https://tasks.hotosm.org/explore?campaign=Haiti%20Earthquake%202021">Haiti Earthquake 2021 campaign</a> is an ongoing HOT activation organized by the Humanitarian OpenStreetMap Team in coordination with OSM Haiti to respond to a magnitude 7.2 earthquake that struck the island nation of Haiti.
+<strong>The <a href="https://tasks.hotosm.org/explore?campaign=Haiti%20Earthquake%202021">Haiti Earthquake 2021 campaign</a></strong> is an ongoing HOT activation to map southeastern Haiti, organized by the Humanitarian OpenStreetMap Team in coordination with OSM Haiti to respond to a magnitude 7.2 earthquake that struck the island nation of Haiti.
 
 Disaster Services (DS) is actively working with voting members from Haiti and partners in the region.
 
