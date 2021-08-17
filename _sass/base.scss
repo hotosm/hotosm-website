@@ -743,7 +743,7 @@ em {
     grid-template-columns: repeat(2, 1fr);
   }
   .highlight-details {
-    grid-column: 1 / 7;
+    grid-column: 1 / 8;
     display: flex;
     flex-direction: column;
     p {
@@ -781,7 +781,7 @@ em {
     }
   }
   .highlight-image {
-    grid-column: 7 / -1;
+    grid-column: 8 / -1;
     img {
       float: right;
       height: 100%;
