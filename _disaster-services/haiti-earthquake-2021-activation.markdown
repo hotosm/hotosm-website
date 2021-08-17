@@ -7,8 +7,9 @@ GDACS-level: Red (3.0)
 Country:
 - Haiti
 Event type: EQ Earthquake
-Summary Text: 'This is an activation for the <a href="https://www.hotosm.org/disaster-services/haiti-earthquake-2021-size-up/">Haiti
-  Size-up</a> '
+Summary Text: The <a href="https://tasks.hotosm.org/explore?campaign=Haiti%20Earthquake%202021">Haiti
+  Earthquake 2021 campaign</a> is an ongoing HOT activation to map southeastern Haiti
+  after it was struck by a 7.2 earthquake.
 Feature Image: EQ Earthquake
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=haiti">Haiti</a>
@@ -23,16 +24,13 @@ Tracking: haitieq2021
 Report: available
 ---
 
-<strong>The <a href="https://tasks.hotosm.org/explore?campaign=Haiti%20Earthquake%202021">Haiti Earthquake 2021 campaign</a> is an ongoing HOT activation to map southeastern Haiti</strong> after it was struck by a 7.2 earthquake. 
-Disaster Services (DS) is actively working with voting members from Haiti and partners in the region.
+Mapping will focus on filling areas with little to no Buildings data to support response and recovery efforts, population estimates, and damage assessments.
 
 Based on mapping needs, the following areas in southwestern Haiti will be part of this campaign:
 
 <strong>- Nippes</strong><br>
 <strong>- Sud-Est</strong><br>
 <strong>- Sud</strong><br>
-
-Mapping will focus on filling areas with little to no Buildings data to support response and recovery efforts, population estimates, and damage assessments.
 
 Preemptively set exports at <a href="https://data.humdata.org/organization/hot?q=haiti">HDX</a> to update every day.
 
