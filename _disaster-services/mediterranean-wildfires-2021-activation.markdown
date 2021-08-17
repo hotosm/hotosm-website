@@ -1,7 +1,7 @@
 ---
 title: Mediterranean Wildfires 2021 Activation
 date: 2021-08-14 02:51:00 Z
-Field name:
+Glide:
 - WF-2021-000115-DZA
 - WF-2021-000107-TUR
 - WF-2021-000106-TUN
