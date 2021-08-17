@@ -31,8 +31,6 @@ Size-up:
 Anticipated: Base data in impacted areas, support with imagery coordination and tasking.
 GDACS Incident Name: Various
 Tracking: medseafires2021
-Report: available
-Status: size-up
 ---
 
 <h2>Size-up Details</h2>
