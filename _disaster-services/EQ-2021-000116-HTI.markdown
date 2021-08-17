@@ -1,5 +1,5 @@
 ---
-title: Haiti Earthquake 2021
+title: Haiti Earthquake 2021 Alert
 date: 2021-08-14 16:06:00 Z
 Glide: EQ-2021-000116-HTI
 Event Name: Haiti Earthquake 2021
