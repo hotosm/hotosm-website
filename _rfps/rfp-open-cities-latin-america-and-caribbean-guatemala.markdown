@@ -1,7 +1,6 @@
 ---
 title: RFP - Open Cities Latin America and Caribbean (Guatemala)
 date: 2021-08-17 19:47:00 Z
-published: false
 Deadline Date: 2021-09-06 23:59:00 Z
 Apply Form Link: https://cdn.hotosm.org/website/Open-Cities-LAC-Local-Implementation-TOR_Guatemala.pdf
 Page Contact:
