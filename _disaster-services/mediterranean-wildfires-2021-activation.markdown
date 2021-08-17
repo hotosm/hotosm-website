@@ -27,7 +27,7 @@ Resources: N/A
 Campaign: https://tasks.hotosm.org/explore?campaign=Mediterranean%20Wildfires%202021
 Timeline: 'August 14, 2021 - '
 Size-up: https://www.hotosm.org/disaster-services/mediterranean-wildfires-2021/
-Wiki-page: 
+Wiki-page: https://wiki.openstreetmap.org/wiki/Mediterranean_Fires_2021
 Tracking: medseafires2021
 Report: available
 ---
@@ -42,4 +42,4 @@ Based on mapping needs, the following areas in the Mediterranean will be part of
 
 Preemptively set exports at <a href="https://data.humdata.org/organization/hot">HDX</a> to update every day.
 
-More info on the <a href="https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Humanitarian_OpenStreetMap_Team">wiki page</a>
+More info on the <a https://wiki.openstreetmap.org/wiki/Mediterranean_Fires_2021">wiki page</a>
