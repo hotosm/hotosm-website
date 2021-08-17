@@ -42,4 +42,4 @@ Based on mapping needs, the following areas in the Mediterranean will be part of
 
 Preemptively set exports at <a href="https://data.humdata.org/organization/hot">HDX</a> to update every day.
 
-More info on the <a "https://wiki.openstreetmap.org/wiki/Mediterranean_Fires_2021">wiki page</a>
+More info on the <a href="https://wiki.openstreetmap.org/wiki/Mediterranean_Fires_2021">wiki page</a>
