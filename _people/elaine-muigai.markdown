@@ -6,7 +6,7 @@ Member Type:
   Is Staff: true
 Job Title: Communications Associate - Eastern and Southern Africa
 Country: Kenya
-Team: Eastern and Southern Africa
+Team: Eastern and Southern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/ENM_Nairobi
 ---
