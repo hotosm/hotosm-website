@@ -11,7 +11,7 @@ Event type: EQ Earthquake
 Summary Text: Request from IFRC to generate as much base data as possible in the next
   5 days; MAXAR released imagery; Mapbox and Missing Maps partner - HeiGIT - rapid
   preliminary damage assessment project</strong> on <a href="https://mapswipe.org/">Mapswipe</a>;
-Field name: EQ Earthquake
+Feature Image: EQ Earthquake
 Status: alert
 Post-type: update
 source: HOT
