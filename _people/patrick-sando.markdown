@@ -3,7 +3,7 @@ title: Patrick Sando
 date: 2021-08-18 13:24:00 Z
 Member Type:
   Is Staff: true
-Job Title: MERL Sr. Associate -Eastern and Southern Africa
+Job Title: MERL Sr. Associate - Eastern and Southern Africa
 Country: Kenya
 Team: Eastern and Southern Africa Hub
 ---
