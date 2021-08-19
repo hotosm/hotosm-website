@@ -1,14 +1,13 @@
 ---
 title: Mapping in Afghanistan with Jalalagood
-date: 2012-02-06 19:18:38 Z
+date: 2012-02-06 19:18:00 Z
 permalink: updates/2012-02-06_mapping_in_afghanistan_with_jalalagood
+published: false
 Summary Text: 'Below is a video about OpenStreetMap in Afghanistan, HOT member Hameed
   has been mapping and teaching others to map there over the past two years. [VIDEO::http://www.youtube.com/v/0Vl-3tAC0Kk?version=3&amp;hl=en_US]As
   you can see the Jalalabad City map is quite detailed.  Pretty impressive for a place
   where a reliable fast Internet connection would cost $1000 a month. '
 Person: Kate Chapman
-Working Group: []
-Project: []
 created: 1328555918
 ---
 
