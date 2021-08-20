@@ -16,4 +16,6 @@ Tracking: algeriafires2021
 Report: available
 ---
 
-<strong>Algeria Fires - having finished mapping the area impacted by the fire near Béjaïa, we have begun releasing projects for the area impacted by the larger fire near Tizi Ouzou, Algeria <a href="https://tasks.hotosm.org/explore?campaign=Mediterranean%20Wildfires%202021">(see here)</a>.</strong> This area will be generally a bit more densely populated so beginners should not hesitate to split or unlock tasks that will take more than 20-30 minutes to complete.
+This area will be generally a bit more densely populated so beginners should not hesitate to split or unlock tasks that will take more than 20-30 minutes to complete.
+
+<a href="https://wiki.openstreetmap.org/wiki/Mediterranean_Fires_2021">Wiki page</a>.</strong>
