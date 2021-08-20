@@ -18,4 +18,4 @@ Report: available
 
 This area will be generally a bit more densely populated so beginners should not hesitate to split or unlock tasks that will take more than 20-30 minutes to complete.
 
-<a href="https://wiki.openstreetmap.org/wiki/Mediterranean_Fires_2021">Wiki page</a>.</strong>
+<a href="https://wiki.openstreetmap.org/wiki/Mediterranean_Fires_2021">Wiki page</a>.
