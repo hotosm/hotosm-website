@@ -9,7 +9,7 @@ Country:
 - Algeria
 Event type: WF Wild fire
 Feature Image: FR Fire
-Post-type: update
+Post-type: 
 Status: alert
 Tracking: haitieq2021
 Report: available
