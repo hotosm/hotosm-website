@@ -1,13 +1,12 @@
 ---
 title: Tropical Cyclone Elsa Monitoring Concluded
 date: 2021-07-16 15:28:00 Z
+Glide: TC-2021-000072
 Event Name: Tropical Cyclone Elsa
 Event type: TC Tropical Cyclone
 Summary Text: 'Monitoring of TC Elsa has concluded, no Activation was required. '
 Feature Image: TC Tropical Cyclone
-Post-type: update
 Status: Concluded
-Glide: TC-2021-000072
 ---
 
 Monitoring of TC Elsa has concluded, no Activation was required.

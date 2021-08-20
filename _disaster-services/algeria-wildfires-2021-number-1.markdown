@@ -9,8 +9,10 @@ Country:
 - Algeria
 Event type: WF Wild fire
 Feature Image: FR Fire
-Status: 
-Post-type: 
+Post-type: update
+Status: alert
+Tracking: haitieq2021
+Report: available
 ---
 
 <strong>Algeria Fires - having finished mapping the area impacted by the fire near Béjaïa, we have begun releasing projects for the area impacted by the larger fire near Tizi Ouzou, Algeria <a href="https://tasks.hotosm.org/explore?campaign=Mediterranean%20Wildfires%202021">(see here)</a>.</strong> This area will be generally a bit more densely populated so beginners should not hesitate to split or unlock tasks that will take more than 20-30 minutes to complete.
