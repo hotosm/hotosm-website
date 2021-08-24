@@ -1,5 +1,5 @@
 ---
-title: Stephen Penson
+title: Steve Penson
 date: 2018-05-01 22:30:00 Z
 Photo: https://cdn.hotosm.org/website/steve-penson.jpg
 Member Type:
@@ -13,4 +13,4 @@ Social Media (Full URL):
   Twitter: https://twitter.com/SteveP2000
 ---
 
-Techy Geographer. Data Scientist with ACAPS mainly focusing on the Yemen conflict.   GIS Support and Deployment volunteer with MapAction and founder of Missing Maps Cambridge.  Fond of glaciers and mountains. #mmcambridge moving Jordan side.
+Geographer and Data Scientist working in the humanitarian sector. GIS Support and Deployment volunteer with MapAction and founder of Missing Maps Cambridge.
