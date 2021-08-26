@@ -11,7 +11,7 @@ Working Group:
 - HOT Summit
 ---
 
-**Versions:** [English](##English) \|[Spanish](##Spanish) \| [French](##French)
+**Versions:** [English](#english) \|[Spanish](#spanish) \| [French](#french)
 
 ## English
 The Seventh Annual Humanitarian OpenStreetMap Team Summit 2021 will be held online for the second year due to the ongoing Covid-19 pandemic. This year's theme is: **The Evolution of Local Humanitarian Open Mapping Ecosystems: Understanding Community, Collaboration, and Contribution.**
@@ -62,7 +62,7 @@ Ten en cuenta que, siempre que sea posible, y especialmente en el caso de los Fa
 
 **¡Estaremos encantados de escuchar diversas voces!** La Cumbre HOT 2021 servirá para que las comunidades locales de cartografía humanitaria se reúnan, compartan ideas y proyectos y colaboren. Animamos encarecidamente a los ponentes noveles a que se presenten. **También pueden proponer una ponencia y presentarla en su idioma preferido; por favor, indícanos qué tipo de ayuda de traducción necesitarás mediante el formulario de presentación.**
 
-Por favor, revisa las fechas importantes y las ideas de la propuesta a continuación y envía tu propuesta antes de la **FECHA LÍMITE DEL 31 DE AGOSTO DE 2021. **
+Por favor, revisa las fechas importantes y las ideas de la propuesta a continuación y envía tu propuesta antes de la **FECHA LÍMITE DEL 31 DE AGOSTO DE 2021.**
 
 Por favor, completa un formulario por propuesta. Puedes presentar varias propuestas únicas, pero debido al volumen de ponentes, sólo podemos aceptar una presentación del mismo presentador o presentadores. 
 
@@ -132,4 +132,9 @@ Date du sommet : 22 novembre 2021
 [**PUBLIER VOTRE PROPOSITION ICI**](https://docs.google.com/forms/d/e/1FAIpQLSd2jIpEMMNmjpWqsW9nedgcPlNK4_0bKjMKpv6kXyFAsMZtHw/viewform)
 
 *Note importante : Le formulaire de soumission est en anglais et nous vous prions de répondre en anglais, ceci aidera à l'effort de sélection. Vous pouvez utiliser des traducteurs en ligne comme DeepL et Google Translate pour traduire vos réponses. Merci de votre compréhension !*
+
+
+
+-----
+Spanish and French Translation translated via [DeepL]( with help from Cyberjuan and Mapeadora.
 
