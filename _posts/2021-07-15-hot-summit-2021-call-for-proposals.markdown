@@ -1,14 +1,17 @@
 ---
 title: HOT Summit 2021 Call for Proposals
 date: 2021-07-15 12:46:00 Z
-Summary Text: The 2021 HOT Summit Call for Proposals is now open! Submit your ideas
-  for panels and talks today! Deadline is 31 August.
+Summary Text: "The 2021 HOT Summit Call for Proposals is now open! Submit your ideas
+  for panels and talks today! Deadline is 31 August.\n¡La Convocatoria de propuestas
+  para la Cumbre HOT 2021 está abierta! Envía tus ideas para paneles y charlas hoy
+  mismo. La fecha límite es el 31 de agosto. \nAppel à propositions pour le Sommet
+  HOT 2021 "
 Feature Image: "/uploads/Copy%20of%20Compressed%20Summit%202021_Banner.png"
 Working Group:
 - HOT Summit
 ---
 
-** Versions: ** [English](#English) \|[Spanish](#Spanish) \| [French](#French) \ 
+**Versions:** [English](##English) \|[Spanish](##Spanish) \| [French](##French)
 
 ## English
 The Seventh Annual Humanitarian OpenStreetMap Team Summit 2021 will be held online for the second year due to the ongoing Covid-19 pandemic. This year's theme is: **The Evolution of Local Humanitarian Open Mapping Ecosystems: Understanding Community, Collaboration, and Contribution.**
@@ -126,6 +129,7 @@ Date du sommet : 22 novembre 2021
 * Nouvelles technologies ou mises à jour de projets
 
 
-[**PUBLIER VOTRE PROPOSITION ICI**] (https://docs.google.com/forms/d/e/1FAIpQLSd2jIpEMMNmjpWqsW9nedgcPlNK4_0bKjMKpv6kXyFAsMZtHw/viewform)
+[**PUBLIER VOTRE PROPOSITION ICI**](https://docs.google.com/forms/d/e/1FAIpQLSd2jIpEMMNmjpWqsW9nedgcPlNK4_0bKjMKpv6kXyFAsMZtHw/viewform)
+
 *Note importante : Le formulaire de soumission est en anglais et nous vous prions de répondre en anglais, ceci aidera à l'effort de sélection. Vous pouvez utiliser des traducteurs en ligne comme DeepL et Google Translate pour traduire vos réponses. Merci de votre compréhension !*
 
