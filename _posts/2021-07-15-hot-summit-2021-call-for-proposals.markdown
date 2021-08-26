@@ -68,7 +68,7 @@ Por favor, completa un formulario por propuesta. Puedes presentar varias propues
 
 Si tienes alguna pregunta, envíanos un correo electrónico a [summit@hotosm.org](mailto:summit@hotosm.org).
 
-**Fechas importantes**
+**Fechas importantes:**
 Anuncio de convocatoria de participación: 12 de julio de 2021 
 Fecha límite para presentar su propuesta: 31 de agosto de 2021
 Notificación de las propuestas aceptadas: 7 de septiembre de 2021
@@ -80,7 +80,7 @@ Fecha de la cumbre: 22 de noviembre de 2021
 * Failfest (5-15 min. de debate sobre un fracaso y las lecciones aprendidas)
 * Debate (1-1,5 horas. Proponer un tema para debatir; opción de proponerse a sí mismo como representante de una perspectiva específica)
 
-**Estos son algunos de los temas que se nos ocurren, pero sobre todo queremos escuchar tus ideas innovadoras: **
+**Estos son algunos de los temas que se nos ocurren, pero sobre todo queremos escuchar tus ideas innovadoras:**
 * Reducir las barreras de entrada a la cartografía abierta
 * Las mujeres y la cartografía abierta
 * Facilitar y potenciar la colaboración interregional
@@ -94,10 +94,11 @@ Fecha de la cumbre: 22 de noviembre de 2021
 
 ## French 
 
-Le septième sommet annuel 2021 d’Humanitarian OpenStreetMap Team se tiendra en ligne pour la deuxième année en raison de la pandémie de Covid-19. Le thème de cette année est :** L'évolution des écosystèmes humanitaires locaux de cartographie ouverte : Comprendre la communauté, la collaboration et la contribution. **
+Le septième sommet annuel 2021 d’Humanitarian OpenStreetMap Team se tiendra en ligne pour la deuxième année en raison de la pandémie de Covid-19. Le thème de cette année est : **L'évolution des écosystèmes humanitaires locaux de cartographie ouverte : Comprendre la communauté, la collaboration et la contribution.**
 
 Nous sommes à la recherche de présentations en ligne, de dialogues et de discussions éclair avec de nouvelles approches et sujets. 
 Nous vous encourageons à envisager l’intégration de technologies telles que Menti (mentimeter.com), de tableaux interactifs (par exemple, Jamboard, Miro), des outils de sondage du public, etc., afin de maximiser la participation et l'interaction du public compte tenu des caractéristiques du format virtuel. 
+
 Notez que dans la mesure du possible, et en particulier pour les Failfests et les Lightning talks, nous demanderons aux orateurs de soumettre des présentations préenregistrées pour les projeter lors du sommet. Des questions-réponses en direct suivront la présentation. 
 
 **Nous sommes impatients d'entendre des voix diverses !** Le HOT Summit 2021 sera un espace de rencontre pour les communautés locales de cartographie humanitaire, qui pourront partager leurs idées et leurs projets, et collaborer. Nous encourageons vivement les nouveaux participants de cette communauté à se présenter et partager leurs actions et réflexions. **Vous êtes également invités cette année à proposer un exposé dans la langue de votre choix.** Veuillez nous indiquer le type d'assistance linguistique dont vous aurez besoin via le formulaire de soumission. 
@@ -108,7 +109,7 @@ Veuillez remplir un formulaire pour chaque proposition. Vous pouvez soumettre pl
  
 Si vous avez des questions, veuillez nous envoyer un courriel à : [summit@hotosm.org](mailto:summit@hotosm.org).
 
-**Dates importantes**
+**Dates importantes:**
 Annonce de l'appel à participation : 12 juillet 2021 
 Date limite pour soumettre vos propositions : 10 août 2021
 Notification des propositions sélectionnées : 7 septembre 2021
@@ -130,7 +131,6 @@ Date du sommet : 22 novembre 2021
 
 
 [**PUBLIER VOTRE PROPOSITION ICI**](https://docs.google.com/forms/d/e/1FAIpQLSd2jIpEMMNmjpWqsW9nedgcPlNK4_0bKjMKpv6kXyFAsMZtHw/viewform)
-
 *Note importante : Le formulaire de soumission est en anglais et nous vous prions de répondre en anglais, ceci aidera à l'effort de sélection. Vous pouvez utiliser des traducteurs en ligne comme DeepL et Google Translate pour traduire vos réponses. Merci de votre compréhension !*
 
 
