@@ -89,7 +89,7 @@ Fecha de la cumbre: 22 de noviembre de 2021
 * Nuevas tecnologías o actualizaciones de proyectos
 
 [**ENVÍA TU PROPUESTA AQUÍ**](https://docs.google.com/forms/d/e/1FAIpQLSd2jIpEMMNmjpWqsW9nedgcPlNK4_0bKjMKpv6kXyFAsMZtHw/viewform)
-*Nota importante: El formulario de envío está en inglés y le agradecemos que responda en inglés. Puede utilizar traductores en línea como DeepL y Google Translate para traducir sus respuestas al inglés. Gracias por su comprensión.*
+*Nota importante: El formulario de envío está en inglés y le agradecemos que responda en inglés. Puede utilizar traductores en línea como [DeepL](https://www.deepl.com/translator) y [Google Translate](https://translate.google.com/) para traducir sus respuestas al inglés. Gracias por su comprensión.*
 
 
 ## French 
@@ -131,7 +131,7 @@ Date du sommet : 22 novembre 2021
 
 
 [**PUBLIER VOTRE PROPOSITION ICI**](https://docs.google.com/forms/d/e/1FAIpQLSd2jIpEMMNmjpWqsW9nedgcPlNK4_0bKjMKpv6kXyFAsMZtHw/viewform)
-*Note importante : Le formulaire de soumission est en anglais et nous vous prions de répondre en anglais, ceci aidera à l'effort de sélection. Vous pouvez utiliser des traducteurs en ligne comme DeepL et Google Translate pour traduire vos réponses. Merci de votre compréhension !*
+*Note importante : Le formulaire de soumission est en anglais et nous vous prions de répondre en anglais, ceci aidera à l'effort de sélection. Vous pouvez utiliser des traducteurs en ligne comme [DeepL](https://www.deepl.com/translator) et [Google Translate](https://translate.google.com/) pour traduire vos réponses. Merci de votre compréhension !*
 
 
 
