@@ -136,5 +136,5 @@ Date du sommet : 22 novembre 2021
 
 
 -----
-Spanish and French Translation translated via [DeepL]( with help from Cyberjuan and Mapeadora.
+Spanish and French Translation translated via [DeepL](https://www.deepl.com/translator) with help from [Cyberjuan](https://www.openstreetmap.org/user/Cyberjuan) and [mapeadora](https://www.openstreetmap.org/user/mapeadora).
 
