@@ -8,7 +8,7 @@ Job Title: Regional Director - Western and Northern Africa
 Team: WESTERN AND NORTHERN AFRICA HUB
 ---
 
-Ibrahima joins HOT as the Regional Director for the Open Mapping Hub in West and Northern Africa. In this role, he will lead the team to help nurture, support, and amplify open mapping work in 25 priority countries in the region. He brings a wealth of experience and leadership in campaigning, research, engagement, communication and his knowledge of the economic, political, and socio-cultural context of West Africa will be an asset in advancing the objectives of the regional Open Mapping Hub.
+Ibrahima joins HOT as the Regional Director for the Open Mapping Hub in Western and Northern Africa. In this role, he will lead the team to help nurture, support, and amplify open mapping work in 25 priority countries in the region. He brings a wealth of experience and leadership in campaigning, research, engagement, communication and his knowledge of the economic, political, and socio-cultural context of West Africa will be an asset in advancing the objectives of the regional Open Mapping Hub.
 
 Ibrahima holds a [PhD](https://www.deberes.net/tesis-doctorales/espana/info/ibrahima-cisse/) in Food Science (summa cum laude) from the [Barcelona Autonomous University](https://www.uab.cat/veterinaria/) (UAB), and two Masters of Sciences in Food sciences (UAB) and in Aquatic Bio-resources Management from [Astrakhan State Technical University](https://www.astu.org/Content/PageInstitute/3440), (Russian Federation). He is fluent in Wolof, French, Spanish, English and Russian.
 
