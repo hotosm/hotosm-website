@@ -9,8 +9,7 @@ Country:
 - Iran
 - Pakistan
 Event type: OT Other
-Summary Text: The following is a size-up of the situation unfolding in the South/Central
-  Asia Region. As a dynamic event, we are still looking at what we can/should do to
+Summary Text: As a dynamic event, we are still looking at what we can/should do to
   support the movement of people in and out of Afghanistan.
 Feature Image: OT Other
 Post-type: timeline
