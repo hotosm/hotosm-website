@@ -34,7 +34,7 @@ The following is a size-up of the situation unfolding in the South/Central Asia 
 <strong>Estimated Duration:</strong> Month(s) to Year<br>
 <strong>Event Scope:</strong> Major<be>
 <strong>Anticipated Needs:</strong>Road Network Improvements<br>
-<strong>Local Contacts:</strong>There is at least one local point of contact identified (use "Other" to input primary local contact), REACH<br>
-<strong>Request(s):</strong> There are identified needs requested by partners (use "Other" to briefly describe), Road Network, Navigation/Routing Support<br>
+<strong>Local Contacts:</strong>There is at least one local point of contact identified, REACH<br>
+<strong>Request(s):</strong> There are identified needs requested by partners, Road Network, Navigation/Routing Support<br>
 <strong>Need for Activation:</strong> Likely<br>
 <strong>Active Orgs:</strong> HOT, REACH, Truman<br>
