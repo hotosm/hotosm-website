@@ -1,5 +1,5 @@
 ---
-title: South/Central Asia Population Movement
+title: South/Central Asia Population Movement Alert
 date: 2021-08-27 17:43:00 Z
 Glide: OT-2021-000001-HOT
 Event Name: South/Central Asia Population Movement
@@ -23,5 +23,3 @@ source: IOM / Reliefweb
 [...]
 
 Between 1 January and 9 August 2021, an estimated 558,123 people have been internally displaced by conflict in Afghanistan, with 32 out of 34 provinces recording some level of forced displacement (source: OCHA, 23 August). Between 1 January and 19 August 2021, IOM has recorded 759,046 undocumented Afghan returnees from Iran (752,013) and Pakistan (7,033)." 
-
-Source: IOM / Reliefweb
