@@ -19,6 +19,7 @@ Wiki-page: N/A
 Web-page: N/A
 Timeline: 'August 2021 '
 Anticipated: Road Network Improvements
+Status: size-up
 ---
 
 The following is a size-up of the situation unfolding in the South/Central Asia Region. As a dynamic event, we are still looking at what we can/should do to support the movement of people in and out of Afghanistan. Please consider this only a statement of what we are considering, not a guarantee what, if anything, we will do to assist aid organizations in the region. It also does not mean we will do any mapping in any particular country but that we are assessing what mapping can be done that eases suffering of those displaced.
