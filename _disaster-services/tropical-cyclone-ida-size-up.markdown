@@ -8,8 +8,8 @@ Country:
 - Cuba
 - United States
 Event type: TC Tropical Cyclone
-Summary Text: DST is monitoring TC IDA as it is a GDACs Red alert but an activation
-  is unlikely.
+Summary Text: Disaster Services is monitoring TC IDA as it is a GDACs Red alert but
+  an activation is unlikely.
 Feature Image: TC Tropical Cyclone
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=cuba">Cuba</a>, <a href="https://data.humdata.org/organization/hot?q=united%20states">USA</a>
