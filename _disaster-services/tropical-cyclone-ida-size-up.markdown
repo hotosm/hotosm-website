@@ -13,7 +13,7 @@ Summary Text: DST is monitoring TC IDA as it is a GDACs Red alert but an activat
 Feature Image: TC Tropical Cyclone
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=cuba">Cuba</a>, <a href="https://data.humdata.org/organization/hot?q=united%20states">USA</a>
-Resources: 
+Resources: N/A
 Status: size-up
 Phase: Phase 1
 Wiki-page: 
