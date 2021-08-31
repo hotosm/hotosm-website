@@ -1,5 +1,5 @@
 ---
-title: Greetings from Open Mapping Hub- Asia Pacific!
+title: Greetings from Open Mapping Hub - Asia Pacific!
 date: 2021-07-14 11:52:00 Z
 Summary Text: Nama Raj Budhathoki, the Asia Pacific Regional Director, shares his
   thoughts on the naming of the Asia-Pacific Hub and the decision to make it a virtual
