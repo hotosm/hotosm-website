@@ -1,7 +1,7 @@
 ---
 layout: 
 ---
-
+{% assign current_date = site.time | date: '%Y%m%d' %}
 [
 {% for project in site.projects %}
 {
@@ -12,6 +12,24 @@ layout:
 "url":"{{ project.url }}",
 "date":"{{ project.date }}",
 "country":"{{ project.Country | join: ', ' }}"
+},
+{% endfor %}
+{% for impact in site.impact-areas %}
+{
+"type":"Impact Area",
+"title":"{{ impact.title | escape }}",
+"subtitle": " ",
+"summary":"{{ impact.body | escape | truncatewords: 40 | strip | prepend: ' ' }}",
+"url":"{{ impact.url }}"
+},
+{% endfor %}
+{% for groups in site.working-groups %}
+{
+"type":"Working Groups",
+"title":"{{ groups.title | escape }}",
+"subtitle": " ",
+"summary":"{{ groups.body | escape | truncatewords: 40 | strip | strip_newlines | prepend: ' ' }}",
+"url":"{{ groups.url }}"
 },
 {% endfor %}
 {% for person in site.people %}
@@ -56,23 +74,41 @@ layout:
 }, 
 {% endfor %}
 {% for rfp in site.rfps %}
+{% assign rfp_date = rfp['Deadline Date'] | date: '%Y%m%d' %}
+{% if rfp_date >= current_date %}
 {
 "type":"RFPs",
 "title":"{{ rfp.title | escape }}",
 "summary":"{{ rfp.content | escape | truncatewords: 40 | strip | strip_html | remove: "\" | prepend: ' ' }}",
 "subtitle":"{{ rfp['Deadline Date'] | prepend: ' '}}",
-"url":"{{ post.url }}",
-"date":"{{ post.date }}"
+"url":"{{ rfp.url }}",
+"date":"{{ rfp.date }}"
 }, 
-{% endfor %}
-{% for job in site.jobs %}
+{% endif %}{% endfor %}
+
+{% for opp in site.volunteer-opportunities %}
+{% assign opp_date = opp['Deadline Date'] | date: '%Y%m%d' %}
+{% if opp_date >= current_date %}
 {
-"type": "Job",
-"title": "{{ job.title | escape }}",
-"summary":"{{ job.body | escape | truncatewords : 40 | strip | prepend: ' ' }}",
-"subtitle":"Deadline: {{ job['Deadline Date'] | date_to_long_string }}",
-"url":"{{ job.url }}",
-"date":"{{ job.date }}"
-} {% unless forloop.last %},{% endunless %}
+"type":"Volunteer Opportunities",
+"title":"{{ opp.title | escape }}",
+"summary":"{{ opp.content | escape | truncatewords: 40 | strip | strip_html | remove: "\" | prepend: ' ' }}",
+"subtitle":"{{ opp['Deadline Date'] | prepend: ' '}}",
+"url":"{{ opp.url }}",
+"date":"{{ opp.date }}",
+"country": "{{ opp['Place of Work'] }}"
+}, 
+{% endif %}{% endfor %}
+
+{% for event in site.disaster-services %}
+{
+"type": "Event",
+"title": "{{ event.title | escape }}",
+"summary":"{{ event['Summary Text'] | escape | truncatewords : 40 | strip | strip_newlines | prepend: ' ' }}",
+"subtitle":"Event Type: {{ event['Event type'] }}",
+"url":"{{ event.url }}",
+"date":"{{ event.date }}"
+}{% unless forloop.last %},{% endunless %} 
 {% endfor %}
+
 ]
