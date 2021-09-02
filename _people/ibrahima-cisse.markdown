@@ -5,6 +5,7 @@ Photo: "/uploads/photo%20Ibra.jpeg"
 Member Type:
   Is Staff: true
 Job Title: Regional Director - Western and Northern Africa
+Country: WESTERN AND NORTHERN AFRICA HUB
 Team: WESTERN AND NORTHERN AFRICA HUB
 ---
 
