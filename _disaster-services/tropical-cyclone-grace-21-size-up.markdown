@@ -39,7 +39,7 @@ GDACS Incident Name: Tropical Cyclone GRACE-21
 <strong>Request(s):</strong> There are no requests from partners currently <br>
 <strong>Current capacity to support</strong> YELLOW - Capacity may not be sufficient to manage response fully<br>
 <strong>Need for Activation:</strong> Unlikely<br>
-<strong>Active Orgs:</strong> <be>
+<strong>Active Orgs:</strong> <br>
 
 
 <img src="https://pbs.twimg.com/media/E9n5NxEXEAEjGWy?format=jpg&name=large" > 
