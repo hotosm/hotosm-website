@@ -41,4 +41,5 @@ GDACS Incident Name: Tropical Cyclone GRACE-21
 <strong>Need for Activation:</strong> Unlikely<br>
 <strong>Active Orgs:</strong> <br>
 <br>
+<br>
 <img src="https://pbs.twimg.com/media/E9n5NxEXEAEjGWy?format=jpg&name=large" > 

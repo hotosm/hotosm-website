@@ -35,4 +35,5 @@ It is also unlikely we would need to lead any response as far as the United Stat
 <strong>Request(s):</strong> There are no requests from partners currently<br>
 <strong>Need for Activation:</strong> Unikely<br>
 <br>
+<br>
 <img src="https://pbs.twimg.com/media/E-MKNynWEAURWQ2?format=jpg&name=large" > 
