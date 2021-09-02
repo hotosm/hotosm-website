@@ -33,4 +33,6 @@ It is also unlikely we would need to lead any response as far as the United Stat
 <strong>Anticipated Needs:</strong> Basemap improvements<br>
 <strong>Local Contacts:</strong>There are no local point(s) of contact identified as of yet<br>
 <strong>Request(s):</strong> There are no requests from partners currently<br>
-<strong>Need for Activation:</strong> Unikely<br>
+<strong>Need for Activation:</strong> Unikely<be>
+
+<img src="https://pbs.twimg.com/media/E-MKNynWEAURWQ2?format=jpg&name=large" > 
