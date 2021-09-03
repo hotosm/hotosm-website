@@ -3,12 +3,12 @@ title: 'Open Data for Resilience and Risk Management Initiative: Open Cities Lat
   America and Caribbean (LAC) – Request for proposal for Local Implementation Partners
   (Dominica)'
 date: 2021-07-15 19:23:00 Z
-published: true
 Deadline Date: 2021-09-19 23:59:00 Z
 Apply Form Link: https://cdn.hotosm.org/website/Dominica_Open_Cities_LAC_Local_Implementation_TOR_Updated.pdf
 Page Contact:
   Contact Email: info@hotosm.org
-  Label: Submission Email 
+  Label: Submission Email
+Full RFP available here: 
 ---
 
 # **Overview**
@@ -73,9 +73,7 @@ The Request for Proposal is open and welcome to project suggestions or amendment
 
 # Team's Qualifications
 
-* Good understanding in English and/or Spanish within the team
-
-* Experience with OpenStreetMap and using the Humanitarian OpenStreetMap Team Tasking Manager
+* Good understanding in English and/or Spanish within the teamExperience with OpenStreetMap and using the Humanitarian OpenStreetMap Team Tasking Manager
 
 * Knowledge and engagement of the OSM community / open source & open data and tech local community
 
@@ -103,7 +101,7 @@ The Request for Proposal is open and welcome to project suggestions or amendment
 
 * Strong personal interest in humanitarian action/aid and sustainable development
 
-Are you missing a few of the technical skills listed in your team? We would still like to see your application. While the skills above fit our vision of this project, we are open to those applicants with a strong knowledge foundation that are fast learners and highly motivated to close any skill gaps.
+  Are you missing a few of the technical skills listed in your team? We would still like to see your application. While the skills above fit our vision of this project, we are open to those applicants with a strong knowledge foundation that are fast learners and highly motivated to close any skill gaps.
 
 Applicants are encouraged to send their questions on the RFP before **September 10,2021** , we will ensure to send responses back within the next 48 hours.
 
