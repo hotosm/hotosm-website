@@ -5,8 +5,8 @@ Photo: "/uploads/photo%20Ibra.jpeg"
 Member Type:
   Is Staff: true
 Job Title: Regional Director - Western and Northern Africa
-Country: WESTERN AND NORTHERN AFRICA HUB
-Team: WESTERN AND NORTHERN AFRICA HUB
+Country: Senegal
+Team: Western and Northern Africa Hub
 ---
 
 Ibrahima joins HOT as the Regional Director for the Open Mapping Hub in Western and Northern Africa. In this role, he will lead the team to help nurture, support, and amplify open mapping work in 25 priority countries in the region. He brings a wealth of experience and leadership in campaigning, research, engagement, communication and his knowledge of the economic, political, and socio-cultural context of West Africa will be an asset in advancing the objectives of the regional Open Mapping Hub.
