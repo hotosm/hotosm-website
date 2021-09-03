@@ -62,7 +62,7 @@ Open Cities LAC will result in the development of new disaster risk data, with n
 
 # Proposal requirements
 
-Please consult the complete [Request for Proposal](https://cdn.hotosm.org/website/Dominica_Open_Cities_LAC-Local_Implementation_TOR.pdf).
+Please consult the complete [Request for Proposal](https://cdn.hotosm.org/website/Dominica_Open_Cities_LAC_Local_Implementation_TOR_Updated.pdf).
 
 The technical proposal shall be presented electronically in Adobe PDF format, in English using the templates provided.
 
