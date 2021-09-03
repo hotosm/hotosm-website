@@ -5,15 +5,16 @@ title: 'Open Data for Resilience and Risk Management Initiative: Open Cities Lat
 date: 2021-07-15 19:23:00 Z
 published: false
 Deadline Date: 2021-09-19 23:59:00 Z
-Full RFP available here: https://cdn.hotosm.org/website/Dominica_Open_Cities_LAC-Local_Implementation_TOR.pdf
+Apply Form Link: https://cdn.hotosm.org/website/Dominica_Open_Cities_LAC_Local_Implementation_TOR_Updated.pdf
 Page Contact:
   Contact Email: info@hotosm.org
   Label: Submission Email
+Full RFP available here: 
 ---
 
 # **Overview**
 
-* **Work Location: **Remote - based in Dominica
+* **Work Location:** Remote - based in Dominica
 
 * **Application Close Date:** 19th September 2021, 11.59 pm
 
@@ -107,4 +108,4 @@ Applicants are encouraged to send their questions on the RFP before **September 
 
 # To apply
 
-Please complete the application by **September 19, 2021, 11.59 pm **and send it to** info@hotosm.org.**
+Please complete the application by **September 19, 2021, 11.59 pm** and send it to **info@hotosm.org.**
