@@ -7,10 +7,10 @@ Event type: WF Wild fire
 Summary Text: Mapping the area impacted near Béjaïa done. Begun releasing projects
   for the area near Tizi Ouzou <a href="https://tasks.hotosm.org/explore?campaign=Mediterranean%20Wildfires%202021">(see
   here)</a>
-Feature Image: FR Fire
+Feature Image: WF Wildfire
 Status: alert
 Post-type: update
-Country:
+Country: 
 - Algeria
 Tracking: algeriafires2021
 Report: available

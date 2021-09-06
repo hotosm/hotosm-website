@@ -1,0 +1,19 @@
+---
+title: Canchaque Landslides Alert
+date: 2021-07-01 12:30:00 Z
+Event Name: Canchaque Landslides
+Glide: LS-2021-000001-HOT
+GDACS-level: 
+Country:
+- Peru
+Event type: LS Landslide
+Summary Text: Due to heavy rains, a landslide occured in Canchaque District in northern
+  Peru. There is not a lot of information available on the internet but people on
+  the ground from AmeriGEO reported the incident.
+Feature Image: OT Other
+Post-type: Media
+Status: alert
+source: AmeriGEO / HOT
+---
+
+Due to heavy rains, a landslide occured in Canchaque District in northern Peru. There is not a lot of information available on the internet but people on the ground from AmeriGEO reported the incident. 

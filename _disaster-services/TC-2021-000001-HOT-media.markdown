@@ -1,0 +1,24 @@
+---
+title: OSM Gap Analysis by kontur
+date: 2021-08-17 20:49:00 Z
+Glide: TC-2021-000001-HOT
+Event Name: Tropical Cyclone GRACE-21
+GDACS ID: TC 1000814
+GDACS-level: Orange 1.5
+Country:
+- Haiti
+- Jamaica
+- Cayman Islands
+- Mexico
+Event type: TC Tropical Cyclone
+Summary Text: |-
+  "Tropical Cyclone GRACE-21 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability."
+  Source: <a href="https://www.gdacs.org/Cyclones/report.aspx?eventid=1000814&episodeid=17&eventtype=TC" target="_blank">GDACS</a>
+Feature Image: TC-2021-000001-HOT-media-kontur
+Status: alert
+Post-type: Media
+Field name: <a href="https://www.gdacs.org/Cyclones/report.aspx?eventid=1000814&episodeid=17&eventtype=TC"
+  target="_blank">GDACS</a>
+---
+
+HOT is currently monitoring this event, we are waiting to see how it develops before doing a Size-up that will most likely focus on Mexico. 

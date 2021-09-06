@@ -1,0 +1,22 @@
+---
+title: Tropical Cyclone Eloise
+date: 2021-01-23 12:00:00 Z
+Event Name: Tropical Cyclone Eloise
+Glide: TC-2021-000008
+GDACS-level: 
+Country:
+- Zimbabwe
+- South Africa
+- Mozambique
+- Madagascar
+Event type: TC Tropical Cyclone
+Summary Text: Tropical cyclone Eloise made landfall in Zimbabwe on 23 January at about
+  20:00 hrs with wind speeds of 160 kilometres per hour (kph) (99 miles per hour).
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: Media
+source: Zimbabwe RC
+---
+
+Tropical cyclone Eloise made landfall in Zimbabwe on 23 January at about 20:00 hrs with wind speeds of 160 kilometres per hour (kph) (99 miles per hour). After its landfall in Zimbabwe, it brought heavy rains in Masvingo, Manicaland and Matebeleland Provinces which covers the southern part of Zimbabwe.
+
