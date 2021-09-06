@@ -1,0 +1,18 @@
+---
+title: Tropical Cyclone Elsa Alert
+date: 2021-07-02 12:00:00 Z
+Glide: TC-2021-000072
+Event Name: Tropical Cyclone Elsa
+GDACS-level: 
+Country:
+- Haiti
+Event type: TC Tropical Cyclone
+Summary Text: Hurricane conditions and storm surges are expected within the Hurricane
+  Warning areas in Haiti and the Dominican Republic
+Feature Image: TC-2021-000072-media-kontur
+Status: alert
+Post-type: Media
+source: IFRC
+---
+
+Hurricane conditions and storm surges are expected within the Hurricane Warning areas in Haiti and the Dominican Republic beginning Saturday 3 July 2021 and in Jamaica and portions of eastern Cuba beginning Sunday 4 July 2021.Damages by Tropical Storm Elsa have been reported in Barbados, St. Vincent and the Grenadines, St. Lucia, and Grenada.
