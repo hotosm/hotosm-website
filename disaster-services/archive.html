@@ -1,5 +1,5 @@
 ---
-title: Tech HOT Spot
+title: DST Timeline Archive
 position: 0
 layout: default
 ---
@@ -116,7 +116,11 @@ layout: default
 
             {% if post['Feature Image'] %}
               <div class="news-list-image-sm">
+                {% if post['Feature Image'] != post['Event type'] %}
+                <a href="{{ post.url }}"><img class="news-feature-image" src="/uploads/{{ post['Feature Image'] }}.png" ></a>
+                {% else %}
                 <a href="{{ post.url }}"><img class="news-feature-image" src="https://cdn.hotosm.org/website/{{ post['Feature Image'] | replace: " ", "+" }}.png"></a>
+                {% endif %}
               </div>
             {% endif %} 
 
