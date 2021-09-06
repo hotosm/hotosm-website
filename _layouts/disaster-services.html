@@ -15,11 +15,13 @@ layout: default
     <section class="article">
 
       {% if page['Feature Image'] %}
+      {% if page['Feature Image'] == page['Event type'] %}
       <img class="dst-feature-image" {% if page['Is image top aligned'] %} style="object-position: top center" {% endif %} src="https://cdn.hotosm.org/website/{{ page['Feature Image'] | replace: " ", "+" }}.png" > 
-    {% endif %}
+      {% else %}
+      <img class="dst-feature-image" {% if page['Is image top aligned'] %} style="object-position: top center" {% endif %} src="/uploads/{{ page['Feature Image'] }}.png" > 
+      {% endif %}     {% endif %}
     
-    
-
+  
     {% if page['Report'] == 'available' %} 
     <div class="stat-tab">
       <h5 >{{ page['Event Name'] }} Activation Stats:</h5>
