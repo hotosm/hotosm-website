@@ -8,7 +8,7 @@ Country:
 Event type: WF Wild fire
 Summary Text: '"Between 28-30 July 2021, a total of 85 forest fires occurred along
   the Aegean and Mediterranean coastal regions, 74 of which have been controlled."'
-Feature Image: FR Fire
+Feature Image: WF Wildfire
 Status: alert
 Post-type: update
 source: ECHO

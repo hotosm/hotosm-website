@@ -9,7 +9,7 @@ Event type: WF Wild fire
 Summary Text: '"More than 70 fires have occurred in 13 prefectures in the north of
   the country [...]. According to media reports, more than 40 people have died as
   a result of the fires."'
-Feature Image: FR Fire
+Feature Image: WF Wildfire
 Status: alert
 Post-type: update
 source: ECHO

@@ -6,7 +6,7 @@ Event Name: 2020 Aegean Sea earthquake
 GDACS-level: Orange (1.8)
 Country:
 - Turkey
-Event type: size-up
+Event type: EQ Earthquake
 Summary Text: |-
   "The quake has left severe damage to the structures and infrastructures in different areas of Bornova and Bayraklı regions of the city, pushing the residents to flee in panic into the streets."
   Source: Turkish Red Crescent
