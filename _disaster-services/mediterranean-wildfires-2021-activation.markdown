@@ -32,7 +32,7 @@ Tracking: medseafires2021
 Report: available
 ---
 
-Based on mapping needs, the following areas in the Mediterranean will be part of this campaign:
+Based on mapping needs, the following areas in the Mediterranean will be monitored  for this campaign:
 
 <strong>- Algeria</strong><br>
 <strong>- Greece</strong><br>
