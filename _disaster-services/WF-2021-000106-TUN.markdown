@@ -9,7 +9,7 @@ Event type: WF Wild fire
 Summary Text: '"A fire incident broke out late on the afternoon in the pine forests
   of Ain Mazer, Sakiet Sidi Youssef district, Kef governorate in the middle-western
   region of Tunisia.[...]"'
-Feature Image: WF Wildfire
+Feature Image: FR Fire
 Status: alert
 Post-type: update
 source: IFRC
