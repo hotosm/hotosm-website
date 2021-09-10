@@ -15,11 +15,12 @@ layout: default
     <section class="article">
 
       {% if page['Feature Image'] %}
-      {% if page['Feature Image'] == page['Event type'] %}
-      <img class="dst-feature-image" {% if page['Is image top aligned'] %} style="object-position: top center" {% endif %} src="https://cdn.hotosm.org/website/{{ page['Feature Image'] | replace: " ", "+" }}.png" > 
-      {% else %}
+      {% if page.Visuals != ' ' %}
+      {% if page['Manual Upload'] == 'yes' %}
       <img class="dst-feature-image" {% if page['Is image top aligned'] %} style="object-position: top center" {% endif %} src="/uploads/{{ page['Feature Image'] }}.png" > 
-      {% endif %}     {% endif %}
+      {% else %}
+      <img class="dst-feature-image" {% if page['Is image top aligned'] %} style="object-position: top center" {% endif %} src="https://cdn.hotosm.org/website/{{ page['Feature Image'] | replace: " ", "+" }}.png" > 
+      {% endif %}     {% endif %} {% endif %}
     
   
     {% if page['Report'] == 'available' %} 
@@ -30,7 +31,7 @@ layout: default
     <div class="container home-stats dst-stats">
        <div class="home-stat">
          <center><p class="osm-loader"></p></center>
-         <p class="dst-stat-number" id="OSM-Community-Mappers-DST"></p>
+         <p class="dst-stat-number" id="OSM-Community-Mappers-DST"></p> 
          <p class="stat-title">Community Mappers<sup>&#9432;</sup>
            <span class="tooltiptext">Total number of Mappers from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
          </p>
@@ -69,7 +70,42 @@ layout: default
 
       <div class="news-content">
         {{ content }}
+
+        <div class="project-index-all">
+
+        
+          {% assign sorted-projects = page.Visuals %}
+    
+          {% assign highlight_count = 0 %}
+          {% for project in sorted-projects %}
+          {% if page.Visuals != '' %}
+    
+              {% assign highlight_count = highlight_count | plus: 1 %}
+              {% if highlight_count > 6 %}
+                {% break %}
+              {% endif %}
+    
+              <a class="module link-through light" href="https://cdn.hotosm.org/website/{{ project | replace: " ", "+" }}.png" id="support-programs">
+                <div class="module-image">
+              <center>
+                  <div class="news-list-image-sm" style="max-height: 100%;">
+                    <img src="https://cdn.hotosm.org/website/{{ project | replace: " ", "+" }}.png">
+                  </div>
+              </center>
+                </div>
+              </a>
+            {% endif %}
+          {% endfor %}
+    
+          <div class="hr-h"></div>
+    
+        </div>
+  
       </div>
+
+
+      
+
 
       {% if page['source'] %}
       <p class="news-content">Source: {{ page['source'] }}</p>

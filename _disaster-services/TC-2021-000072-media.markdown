@@ -1,5 +1,5 @@
 ---
-title: Tropical Cyclone Elsa Alert
+title: OSM Gaps TC Elsa by kontur
 date: 2021-07-02 12:00:00 Z
 Glide: TC-2021-000072
 Event Name: Tropical Cyclone Elsa
@@ -7,12 +7,12 @@ GDACS-level:
 Country:
 - Haiti
 Event type: TC Tropical Cyclone
-Summary Text: Hurricane conditions and storm surges are expected within the Hurricane
-  Warning areas in Haiti and the Dominican Republic
+Summary Text: KONTUR's analysis overlay disaster and building quantity data gaps to help the OSM communities and DST focus their attention of the affected areas that potentially need most mapping. For more information visit <a href="https://disaster.ninja/" target="_blank">Disaster Ninja</a>
+
 Feature Image: TC-2021-000072-media-kontur
 Status: alert
 Post-type: Media
-source: IFRC
 ---
 
-Hurricane conditions and storm surges are expected within the Hurricane Warning areas in Haiti and the Dominican Republic beginning Saturday 3 July 2021 and in Jamaica and portions of eastern Cuba beginning Sunday 4 July 2021.Damages by Tropical Storm Elsa have been reported in Barbados, St. Vincent and the Grenadines, St. Lucia, and Grenada.
+"'Tropical #Cyclone #Elsa is heading for #Caribbean with 42 million people exposed.
+#Disaster mappers, heads up to this multi-hazard area. Existing #OSM data is outdated in many regions. Use Disaster Ninja Antiquity layer to find and map them <a href='https://disaster.ninja/' target='_blank'>Disaster Ninja</a>' Source: <a href='https://twitter.com/KonturInc/status/1410572992808169479/photo/1' target='_blank'>KONTUR Twitter</a>"

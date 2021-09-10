@@ -1,5 +1,5 @@
 ---
-title: Haiti Earthquake 2021 Alert
+title: Urban Sprawl Maps and Buildings Count
 date: 2021-08-14 16:06:00 Z
 Glide: EQ-2021-000116-HTI
 Event Name: Haiti Earthquake 2021
@@ -8,11 +8,20 @@ GDACS ID: EQ 1281677
 Country:
 - Haiti
 Event type: EQ Earthquake
-Summary Text: 'High humanitarian impact, magnitude 7.2M tsunami generates 0.46m '
+Summary Text: Series of maps requested by IFRC for their operation in three Haitian cities in the provinces of Grand'Anse, Sud and Sud-est. 
 Feature Image: EQ-2021-000116-HTI-media-01
 Status: alert
 Post-type: Media
-source: GDACS
+Visuals:
+- EQ-2021-000116-HTI-media-01
+- EQ-2021-000116-HTI-media-02
+- EQ-2021-000116-HTI-media-03
+- EQ-2021-000116-HTI-media-04
+- EQ-2021-000116-HTI-media-05
+- EQ-2021-000116-HTI-media-06
 ---
 
-High humanitarian impact, magnitude 7.2M tsunami generates 0.46m 
+Three cities were included in this analysis: Jeremie, Les Cayes and Jacmel. 
+Building data from OSM was used to show the approximate extent of the urban sprawl in these cities that were affected by the 2021 earthquake.
+
+These maps and more information are also available at: <a href="https://go.ifrc.org/emergencies/5499#reports"> GO's IFRC website </a>
