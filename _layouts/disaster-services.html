@@ -15,12 +15,11 @@ layout: default
     <section class="article">
 
       {% if page['Feature Image'] %}
-      {% if page.Visuals != ' ' %}
       {% if page['Manual Upload'] == 'yes' %}
       <img class="dst-feature-image" {% if page['Is image top aligned'] %} style="object-position: top center" {% endif %} src="/uploads/{{ page['Feature Image'] }}.png" > 
       {% else %}
       <img class="dst-feature-image" {% if page['Is image top aligned'] %} style="object-position: top center" {% endif %} src="https://cdn.hotosm.org/website/{{ page['Feature Image'] | replace: " ", "+" }}.png" > 
-      {% endif %}     {% endif %} {% endif %}
+      {% endif %}     {% endif %} 
     
   
     {% if page['Report'] == 'available' %} 
