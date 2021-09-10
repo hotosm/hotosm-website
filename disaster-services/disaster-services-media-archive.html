@@ -1,0 +1,99 @@
+---
+layout: default
+---
+
+<div class="get-involved"> 
+
+  <!-- <div class="container">
+    <header class="container what-we-do-header">
+      <h1>TEST</h1>
+      <div class="intro">
+        <div class="intro-text">
+          <p>Lore ipsum lore ipsum lore ipsum Lore ipsum lore ipsum lore ipsum Lore ipsum lore ipsum lore ipsum Lore ipsum lore ipsum lore ipsum Lore ipsum lore ipsum lore ipsum </p>
+        </div>
+      </div>
+    </header>
+  </div> -->
+
+  <div class="get-involved-body">
+
+
+    <div class="container">
+      <h2 class="partner-subtitle">MAPS & MEDIA ARCHIVE</h2>
+
+      <div class="project-index-all">
+
+        
+        {% assign sorted-projects = site.disaster-services | sort: 'date' | reverse %}
+  
+        {% assign highlight_count = 0 %}
+        {% for project in sorted-projects %}
+        {% if project.Post-type contains 'Media' %}
+  
+            {% assign highlight_count = highlight_count | plus: 1 %}
+            {% if highlight_count > 999 %}
+              {% break %}
+            {% endif %}
+  
+            <a class="module link-through light" href="{{ project.url }}" id="support-programs">
+              <div class="module-image">
+            <center>
+                {% if project['Feature Image'] %}
+                <div class="news-list-image-sm" style="max-height: 300px;">
+                  {% if project['Feature Image'] == project['Event type'] %}
+                  <img src="/uploads/{{ project['Feature Image'] }}.png">
+                  {% else %}
+                  <img src="https://cdn.hotosm.org/website/{{ project['Feature Image'] | replace: " ", "+" }}.png">
+                  {% endif %}
+                </div>
+              {% endif %}
+            </center>
+              </div>
+              <div class="module-details">
+                <h3>{{ project.title | markdownify }}</h3>
+                {% if post.Country != '' %}
+                        <p class="news-index-country">
+                            {% for country in post.Country %}
+                              {% if country != '' %}
+                                {% if post.Country.size <= 3 %}
+                                  {{ country }}{% unless forloop.last %}, {% endunless %}
+                                {% else post.Country.size > 3 %}
+                                  {% assign countrycount = post.Country.size %}
+                                   {{ post.Country[0] }} and {{ countrycount | minus: 1 }} other countries
+                                  {% break %}
+                               {% endif %}
+                              {% else %}
+                                Global
+                              {% endif %}
+                            {% endfor %}
+                        </p>
+                      {% endif %} 
+                <div class="module-text">{{ project['Summary Text'] | strip_html | markdownify }}</div>
+                <p class="module-cta">{{ project['Event Name'] | markdownify }}</p> 
+              </div>
+            </a>
+          {% endif %}
+        {% endfor %}
+  
+        <div class="hr-h"></div>
+
+      </div>
+      <h4 style="text-align: center;"><a href="/disaster-services/project_activations"><strong>BACK TO DISASTER SERVICES</strong> </a></h4>
+
+      <div class="hr-h"></div>
+
+      <div class="home-newsletter">
+        <div class="newsletter-signup">
+          <h2>Subscribe for updates <br>& announcements</h2>
+          {% include newsletter-form.html %} 
+        </div>
+        <div class="newsletter-description">
+          {% include newsletter-description.html %}
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
