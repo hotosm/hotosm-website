@@ -10,7 +10,9 @@ Country:
 - Taiwan
 - Philippines
 Event type: TC Tropical Cyclone
-Summary Text: 
+Summary Text: Tropical Cyclone Chantu will clip the Philippines before hitting Taiwan
+  and then China. Activation for this as the likelihood of OSM being utilized for
+  the response is pretty low.
 Feature Image: TC Tropical Cyclone
 HDX: <a href="https://data.humdata.org/organization/hot?q=taiwan">Taiwan</a>, <a href="https://data.humdata.org/organization/hot?q=china">China</a>,
   <a href="https://data.humdata.org/organization/hot?q=philippines">Philippines</a>
@@ -18,10 +20,10 @@ Resources: N/A
 Status: size-up
 Phase: Phase 1
 Wiki-page: 
+Post-type: timeline
 ---
 
-Tropical Cyclone Chantu will clip the Philippines before hitting Taiwan and then China. As part of the Disaster Services goals, we are trying to ensure we at least size up all GDACS Red Alert incidents. 
-Activation for this as the likelihood of OSM being utilized for the response is pretty low. In both the Philippines and Taiwan we have strong communities and response within China would be very unlikely to use/be able to use OSM.
+In both the Philippines and Taiwan we have strong communities and response within China would be very unlikely to use/be able to use OSM.
 
 
 
