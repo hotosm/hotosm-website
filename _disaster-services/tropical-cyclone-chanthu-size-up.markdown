@@ -12,7 +12,7 @@ Country:
 Event type: TC Tropical Cyclone
 Summary Text: 
 Feature Image: TC Tropical Cyclone
-Post-type: timeline
+Post-type: 
 HDX: <a href="https://data.humdata.org/organization/hot?q=taiwan">Taiwan</a>, <a href="https://data.humdata.org/organization/hot?q=china">China</a>,
   <a href="https://data.humdata.org/organization/hot?q=philippines">Philippines</a>
 Resources: N/A
