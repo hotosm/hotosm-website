@@ -1,5 +1,5 @@
 ---
-title: OSM Gaps TC Grace-21 by kontur
+title: OSM Gaps TC Grace-21 by KONTUR
 date: 2021-08-17 20:49:00 Z
 Glide: TC-2021-000001-HOT
 Event Name: Tropical Cyclone GRACE-21

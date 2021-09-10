@@ -1,5 +1,5 @@
 ---
-title: OSM Gaps TC Elsa by kontur
+title: OSM Gaps TC Elsa by KONTUR
 date: 2021-07-02 12:00:00 Z
 Glide: TC-2021-000072
 Event Name: Tropical Cyclone Elsa
