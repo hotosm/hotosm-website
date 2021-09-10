@@ -1,5 +1,5 @@
 ---
-title: Tropical Cyclone Eta
+title: Tropical Cyclone Eta Report
 date: 2021-01-23 12:00:00 Z
 Glide: TC-2020-000220
 Event Name: Tropical Cyclone Eta
@@ -10,12 +10,13 @@ Country:
 - Mozambique
 - Madagascar
 Event type: TC Tropical Cyclone
-Summary Text: Eta originated as a tropical wave in the eastern Caribbean Sea that
-  developed into a tropical depression late on 31 October.
-Feature Image: TC Tropical Cyclone
+Summary Text:  Section on the Eta & Iota that was part of the <a href="https://hotosm.github.io/2020_DST_lessons/HTML/scrollytelling.html" target="_blank">2020 Disaster Services lessons learned report</a>. It shows the area that was affected by the tropical cyclones and how the data was used for disaster response. 
+Feature Image: TC-2020-000220-media-01
 Status: alert
 Post-type: Media
 source: NOAA
 ---
 
-Eta originated as a tropical wave in the eastern Caribbean Sea that developed into a tropical depression late on 31 October. Eta intensified into a major hurricane before reaching Category 4 strength on 3 November. An eyewall replacement cycle then caused the storm to weaken some, but it remained at Category 4 strength as it made landfall south of Puerto Cabezas, Nicaragua, late on 3 November. Eta rapidly weakened to tropical storm status early on 4 November. Although significantly reduced in strength, Eta, one of the most powerful storms to strike Central America since the deadly Hurricane Mitch in 1998, continued to pose concerns. In Honduras, rivers and towns on the Atlantic coast flooded, and landslides made roads impassable.
+<a href="https://hotosm.github.io/2020_DST_lessons/HTML/scrollytelling.html" target="_blank">2020 Disaster Services lessons learned report</a>
+
+Background: "Eta originated as a tropical wave in the eastern Caribbean Sea that developed into a tropical depression late on 31 October. Eta intensified into a major hurricane before reaching Category 4 strength on 3 November. An eyewall replacement cycle then caused the storm to weaken some, but it remained at Category 4 strength as it made landfall south of Puerto Cabezas, Nicaragua, late on 3 November. Eta rapidly weakened to tropical storm status early on 4 November. Although significantly reduced in strength, Eta, one of the most powerful storms to strike Central America since the deadly Hurricane Mitch in 1998, continued to pose concerns. In Honduras, rivers and towns on the Atlantic coast flooded, and landslides made roads impassable."

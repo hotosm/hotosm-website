@@ -1,5 +1,5 @@
 ---
-title: Nyiragongo Volcano Eruption Alert
+title: Nyiragongo Volcano Lava Extent
 date: 2021-05-21 12:00:00 Z
 Event Name: Nyiragongo Volcano Eruption
 Glide: VO-2021-000059
@@ -7,12 +7,11 @@ GDACS-level:
 Country:
 - Democratic Republic of the Congo
 Event type: VO Volcanic Eruption
-Summary Text: On 22 May 2021 at 19:00 HRS, Mt. Nyiragongo, located in North Kivu Province
-  of the Democratic Republic of Congo suddenly erupted.
-Feature Image: VO Volcanic Eruption
+Summary Text: Map showing the extent of the lava flows of Nyiragongo volcano during the 22 of May explosion. The map uses data from buildings and roads (OSM) and extent of lava flows (OSM DRC). 
+Feature Image: VO-2021-000059-media-01
 Post-type: Media
 Status: alert
 source: DRC Red Cross and IFRC
 ---
 
-On 22 May 2021 at 19:00 HRS, Mt. Nyiragongo, located in North Kivu Province of the Democratic Republic of Congo suddenly erupted. The first eruption was reported at 19:00 22 May on the NE side of the crater towards the Rwanda border and not Goma city. The lava initially started flowing towards Rwanda. The second eruption was reported at 19:30 due to a crack on the crater face towards Goma city, facing the Goma International Airport. This sudden volcanic eruption created panic within the population, leading to mass movement towards the south into Goma and south east, out of the city of Goma. A portion of the population also fled towards Rwanda.
+Background: On 22 May 2021 at 19:00 HRS, Mt. Nyiragongo, located in North Kivu Province of the Democratic Republic of Congo suddenly erupted. The first eruption was reported at 19:00 22 May on the NE side of the crater towards the Rwanda border and not Goma city. The lava initially started flowing towards Rwanda. The second eruption was reported at 19:30 due to a crack on the crater face towards Goma city, facing the Goma International Airport. This sudden volcanic eruption created panic within the population, leading to mass movement towards the south into Goma and south east, out of the city of Goma. A portion of the population also fled towards Rwanda.

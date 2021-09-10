@@ -10,8 +10,8 @@ Event type: VO Volcanic Eruption
 Summary Text: he Caribbean island of Saint Vincent has declared a red alert and issued
   an evacuation order for northern areas after seismologists warned that the La Soufrière
   volcano due to La Soufrière Volcano.
-Feature Image: VO Volcanic Eruption
-Post-type: Media
+Feature Image: VO-2021-000034-media-01
+Post-type: 
 Status: alert
 source: NEMO
 ---

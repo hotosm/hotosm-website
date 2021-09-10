@@ -8,8 +8,8 @@ Country:
 - Pakistan
 Event type: TC Tropical Cyclone
 Summary Text: Tropical Cyclones YAAS-21
-Feature Image: TC Tropical Cyclone
-Post-type: Media
+Feature Image: TC-2021-000058-media-01
+Post-type: 
 Status: alert
 source: Bangladesh Red Crescent Society (BDRCS) and Govt. of the People's Republic
   of Bangladesh - Bangladesh Meteorological Department Storm Warning Center
