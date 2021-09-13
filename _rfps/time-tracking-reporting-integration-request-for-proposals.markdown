@@ -2,8 +2,6 @@
 title: Time Tracking Reporting Integration - Request for Proposals
 date: 2021-09-13 20:23:00 Z
 Deadline Date: 2021-09-28 23:59:00 Z
-Page Contact:
-  Contact Email: operations@hotosm.org
 ---
 
 # Purpose
@@ -12,7 +10,7 @@ Humanitarian OpenStreetMap Team (HOT) is looking to engage the services of an in
  
 # Scope of Work
  
-Please review the Scope of Work [here] (https://docs.google.com/document/d/1i75OjgzbLXX3ZQ2KmQ6dE7VMbbtkqxYdhvnyRi9w51U/edit?usp=sharing).
+Please review the Scope of Work [here](https://docs.google.com/document/d/1i75OjgzbLXX3ZQ2KmQ6dE7VMbbtkqxYdhvnyRi9w51U/edit?usp=sharing).
 
 # Apply
 
