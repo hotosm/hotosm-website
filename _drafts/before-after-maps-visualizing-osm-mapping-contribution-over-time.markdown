@@ -2,6 +2,7 @@
 title: 'Before-After Maps: Visualizing OSM Mapping Contribution Over Time'
 date: 2021-09-16 09:06:00 Z
 Feature Image: "/uploads/KLL%20Before%20After%20Image.jpg"
+Is image top aligned: true
 Person: Aishworya Shrestha
 ---
 
