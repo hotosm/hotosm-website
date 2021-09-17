@@ -1,0 +1,25 @@
+---
+title: Tropical Cyclone Molave Alert
+date: 2020-10-29 15:03:00 Z
+Glide: FL-2020-000211-VNM
+Event Name: Cyclone Molave
+GDACS ID: TC 1000734
+GDACS-level: 2.5 (RED)
+Country:
+- Cambodia
+- Laos
+- Philippines
+- Thailand
+- Vietnam
+Event type: TC Tropical Cyclone
+Summary Text: 'Storm Molave, which today battered Viet Nam’s central coastal region,
+  is one of the strongest storms to hit the country in 20 years, according to the
+  country’s meteorological agency. '
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+Source: <a href="https://reliefweb.int/disaster/fl-2020-000211-vnm" target="_blank">UNICEF,
+  29 Oct 2020</a>
+---
+
+Molave struck areas and populations already suffering from cascading flood events and adding new areas to the list of communities facing emergencies. The storm is causing extreme rainfall in the region which is predicted to continue over the coming days, worsening the already precarious situation faced by many families. A rapid assessment of existing flooded regions, conducted at the end of last week, identified 1.5 million children at risk and this latest storm escalates the numbers at risk to well over 2.5 million children
