@@ -7,7 +7,7 @@ Country:
 - Colombia
 - Venezuela
 Event type: OT Other
-Summary Text: Venezuelan Crisis aka Ayuda Venezuela has been sized-up.
+Summary Text: Venezuelan Crisis (Ayuda Venezuela) has been sized-up.
 Feature Image: OT Other
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot">Regional</a>
