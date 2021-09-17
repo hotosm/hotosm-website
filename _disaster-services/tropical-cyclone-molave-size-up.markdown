@@ -1,6 +1,6 @@
 ---
 title: Tropical Cyclone Molave Size-up
-date: 2021-09-17 16:36:00 Z
+date: 2020-10-25 00:00:00 Z
 Glide: FL-2020-000211-VNM
 Event Name: Cyclone Molave
 GDACS ID: TC 1000734

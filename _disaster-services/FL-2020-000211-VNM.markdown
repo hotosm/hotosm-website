@@ -1,6 +1,6 @@
 ---
 title: Tropical Cyclone Molave Alert
-date: 2020-10-29 15:03:00 Z
+date: 2020-10-24 15:03:00 Z
 Glide: FL-2020-000211-VNM
 Event Name: Cyclone Molave
 GDACS ID: TC 1000734
