@@ -18,7 +18,7 @@ Campaign:
 Status: size-up
 Timeline: 1 March 2019 - 1 November 2020
 Size-up: https://www.hotosm.org/disaster-services/venezuela-crisis-2019-size-up/
-Wiki-page: <a href="https://wiki.openstreetmap.org/wiki/Ayuda_Venezuela">Ayuda Venezuela</a>
+Wiki-page: https://wiki.openstreetmap.org/wiki/Ayuda_Venezuela
 Tracking: ayudavenezuela
 Report: available
 ---

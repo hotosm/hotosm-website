@@ -12,7 +12,7 @@ Feature Image: OT Other
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot">Regional</a>
 Resources: N/A
-Wiki-page: <a href="https://wiki.openstreetmap.org/wiki/Ayuda_Venezuela">Ayuda Venezuela</a>
+Wiki-page: https://wiki.openstreetmap.org/wiki/Ayuda_Venezuela
 Web-page: N/A
 Timeline: 1 March 2019 - 1 November 2020
 Status: size-up
