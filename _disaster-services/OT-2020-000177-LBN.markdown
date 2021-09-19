@@ -1,0 +1,15 @@
+---
+title: Beirut Port Explosion Alert
+date: 2020-08-04 16:42:00 Z
+Glide: OT-2020-000177-LBN
+Event Name: Beirut Port Explosion
+Country:
+- Lebanon
+Event type: OT Other
+Summary Text: '"Beirut Port Explosion, occurred on 4 August 2020"'
+Feature Image: OT Other
+Status: alert
+Post-type: update
+source: IFRC
+---
+
