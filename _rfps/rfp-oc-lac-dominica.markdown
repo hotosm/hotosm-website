@@ -16,7 +16,7 @@ Full RFP available here:
 
 * **Work Location:** Remote - based in Dominica
 
-* **Application Close Date:** 27th September 2021, 11.59 pm
+* **Application Close Date:** 20th September 2021, 11.59 pm [ **extended to 4th October 2021** ]
 
 * **Estimated Start date:** 15th October 2020
 
@@ -106,8 +106,8 @@ The Request for Proposal is open and welcome to project suggestions or amendment
 
 Are you missing a few of the technical skills listed in your team? We would still like to see your application. While the skills above fit our vision of this project, we are open to those applicants with a strong knowledge foundation that are fast learners and highly motivated to close any skill gaps.
 
-Applicants are encouraged to send their questions on the RFP before **September 23,2021** , we will ensure to send responses back within the next 48 hours.
+Applicants are encouraged to send their questions on the RFP before **September 27,2021** , we will ensure to send responses back within the next 48 hours.
 
 # To apply
 
-Please complete the application by **September 27, 2021, 11.59 pm** and send it to **info@hotosm.org.**
+Please complete the application by **October 4th, 2021, 11.59 pm** and send it to **info@hotosm.org.** (extended timeline)
