@@ -1,0 +1,20 @@
+---
+title: Tropical Cyclone Amphan Alert
+date: 2018-05-05 15:26:00 Z
+Glide: TC-2020-000136-MMR
+Field name: Tropical Cyclone Amphan
+Country:
+- Bangladesh
+- Bhutan
+- India
+Event type: TC Tropical Cyclone
+Summary Text: '"At 12:30 on 11 May 2020, the Department of Meteorology and Hydrology
+  (DMH) informed that the Tropical Cyclone (TC) Amphan has formed in Southeast Bay
+  of Bengal and adjoining Southwest Bay of Bengal"'
+Feature Image: TC Tropical Cyclone
+Status: update
+Post-type: update
+source: Department of Meteorology and Hydrology (DMH), Myanmar
+---
+
+"[...] where it was expected to intensify into severe cyclone category. Currently existing at about 530 miles southwest of Paradadip (Odisha, India), about 615 miles south-southwest of Digha (India), about 675 miles southwest of Khepupara (Bangladesh) and 605 miles southwest of Pathein (Myanmar). On 18 May 2020, the system strengthened to extreme severe tropical cyclone as category 5, heading towards eastern India and Bangladesh. The indirect impact is expected in Myanmar on 20 May 2020."
