@@ -3,8 +3,7 @@ title: 'Open Data for Resilience and Risk Management Initiative: Open Cities Lat
   America and Caribbean (LAC) – Request for proposal for Local Implementation Partners
   (Dominica)'
 date: 2021-07-15 19:23:00 Z
-published: false
-Deadline Date: 2021-09-27 23:59:00 Z
+Deadline Date: 2021-10-04 23:59:00 Z
 Apply Form Link: https://cdn.hotosm.org/website/Dominica_Open_Cities_LAC_Local_Implementation_TOR_Updated.pdf
 Page Contact:
   Contact Email: info@hotosm.org
