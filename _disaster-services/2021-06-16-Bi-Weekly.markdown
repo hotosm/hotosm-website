@@ -7,11 +7,11 @@ Country:
 Glide:
 - TC-2021-000058
 - TC-2021-000056
-Event type: Volcanic eruption
+Event type: VO Volcanic Eruption
 Summary Text: The volcano Nyiragongo (a GDACS Orange alert score of 1.5) affected
   the surrounding area of Goma in the Democratic Republic of Congo. The eruption prompted
   population movement and damaged the built environment.
-Feature Image: Volcanic eruption
+Feature Image: VO Volcanic Eruption
 Post-type: update
 Status: monitoring
 ---

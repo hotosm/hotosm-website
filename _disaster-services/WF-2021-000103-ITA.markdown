@@ -7,11 +7,11 @@ GDACS-level: Green (0.5)
 GDACS ID: WF 1001654
 Country:
 - Italy
-Event type: WF Wild fire
+Event type: FR Fire
 Summary Text: '"The fires are still affecting large areas involving brush forests,
   wildlands and urban interface areas. The Italian government has also activated the
   European Union Civil Protection Mechanism in support of the national resources [...]"'
-Feature Image: FR Fire
+Feature Image: WF Wildfire
 Status: alert
 Post-type: update
 source: GDACS

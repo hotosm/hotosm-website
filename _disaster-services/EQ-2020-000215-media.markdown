@@ -1,0 +1,21 @@
+---
+title: 2020 Aegean Sea earthquake Report
+date: 2020-10-30 15:52:00 Z
+Glide: EQ-2020-000215
+Event Name: 2020 Aegean Sea earthquake
+GDACS-level: Orange (1.8)
+GDACS ID: EQ 1241508
+Country:
+- Turkey
+- Greece
+Event type: EQ Earthquake
+Summary Text: Section on the Aegan Sea Earthquake that was part of the <a href="https://hotosm.github.io/2020_DST_lessons/HTML/scrollytelling.html" target="_blank">2020 Disaster Services lessons learned report</a>. The report focuses on the work done by Yer Çizenler, a local organization. 
+Feature Image: EQ-2020-000215-media-01
+Status: alert
+Post-type: Media
+source: Turkish Red Crescent
+---
+
+<a href="https://hotosm.github.io/2020_DST_lessons/HTML/scrollytelling.html" target="_blank">2020 Disaster Services lessons learned report</a>
+
+Background: "A magnitude 6.6 earthquake hit western province of İzmir, Turkey on Friday October 30, 2:51 pm local time. The European-Mediterranean Seismological Centre said the quake had an epicentre 13 km northeast of the Greek island of Samos. The quake has left severe damage to the structures and infrastructures in different areas of Bornova and Bayraklı regions of the city, pushing the residents to flee in panic into the streets. At least 17 buildings have been reported collapsed and several others damaged. Turkish Interior Ministry announced that earthquake caused 21 lives and injured 799 others."

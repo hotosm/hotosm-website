@@ -29,9 +29,9 @@ layout: default
         
         <div class="tab detailsTab">
 
-          <button id="country-details-btn defaultOpen" class="disasterstats active" onclick="switchTab(event, 'biweekly')" onmouseover="switchTab(event, 'biweekly')" >Recent Updates</button>
-          <button id="country-details-btn" class="disasterstats" onmouseover="switchTab(event, 'references')" >Resources/Data</button>
-          <button id="country-details-btn" class="disasterstats" onmouseover="switchTab(event, 'about')" >About</button>
+          <button id="country-details-btn defaultOpen" class="disasterstats active" onclick="switchTab(event, 'biweekly')" onclick="switchTab(event, 'biweekly')" >Recent Updates</button>
+          <button id="country-details-btn" class="disasterstats" onclick="switchTab(event, 'references')" >Resources/Data</button>
+          <button id="country-details-btn" class="disasterstats" onclick="switchTab(event, 'about')" >About</button>
 
         </div>
 
@@ -53,7 +53,7 @@ layout: default
 
                          
                           {% if post.Post-type contains 'update' or post.Post-type contains 'timeline' %}
-                          <img src='/uploads/{{ post['Feature Image'] }} icon.png' style="position: absolute; display:inline; width: 22px;"></img>
+                          <img src='/uploads/{{ post['Event type'] }} icon.png' style="position: absolute; display:inline; width: 22px;"></img>
                           <p style="position: relative; padding-left: 30px;"><b>{{ post.date | date: '%e %b %Y' }}, {{ post.title }}:</b>  
                                     {% if post['Summary Text'] %}  
                                       {{ post['Summary Text'] | truncatewords:27 }}, <a href="{{ post.url }}">more</a>
@@ -69,7 +69,8 @@ layout: default
                                   {% endif %}    
                           {% endfor %}
                         </div>
-          
+                        <h5 style="text-align: right;"><a href="/disaster-services/index.html" style="color:#d93c3d;">Full list of Events and Updates</a></h5>
+
                       </div>
                     </div> 
       
@@ -106,6 +107,7 @@ layout: default
                 </table> 
 
               </div>
+              <h5 style="text-align: right;"><a href="https://data.humdata.org/organization/hot" style="color:#d93c3d;">More Data and Resources</a></h5>
             </div>
       
     <!-- Disaster services description, no need to update -->
@@ -115,6 +117,7 @@ layout: default
                   <h4 id='filter-header'></h4>
                   <h5>About Disaster Response:</h5>
                   <p><br><br>Location is critical to disaster response: first responders need fast, reliable information to reach affected areas post-disaster and prioritize aid. Through rapid response activations, the HOT community works together online using satellite and drone imagery to rapidly generate map data in OpenStreetMap. The resulting data is made available via the <a class="externalLink" target="_blank" href="https://data.humdata.org/organization/hot"> <b>Humanitarian Data Exchange (HDX)</b></a> and can be used to create printed maps, for analysis, or for navigation on the ground.</p>
+                  <h5 style="text-align: right;"><a href="/hot-activation-protocol" style="color:#d93c3d;">Activation Protocol</a></h5>
               </div>
         </div>
         </div>
@@ -145,8 +148,11 @@ layout: default
 
             <div class="news-preview-item item-{{ forloop.index }}">
               <div class="news-preview-image">
-
+                {% if post['Feature Image'] == post['Event type'] %}
                 <img {% if post['Is image top aligned'] %} style="object-position: top center" {% endif %} src="https://cdn.hotosm.org/website/{{ post['Feature Image'] | replace: " ", "+" }}.png"  >
+                {% else %}
+                <img {% if post['Is image top aligned'] %} style="object-position: top center" {% endif %} src="/uploads/{{ post['Feature Image'] }}.png"  >
+                {% endif %} 
               </div>
               <div class="news-preview-details">
               <p class="news-preview-meta">{{ post.date | date: '%e %b %Y' }}</p>
@@ -187,7 +193,7 @@ layout: default
       {% endfor %}
 
     </div>
-    <h6 style="text-align: right;"><a href="/disaster-services/archive">Full list of Events and Updates</a></h6>
+    <h6 style="text-align: right;"><a href="/disaster-services/archive">Full list of Events and Disasters</a></h6>
 
   </div>
 </div>
@@ -199,7 +205,7 @@ layout: default
 
     <div class="container">
       <header class="activations-header">
-        <h6><p>Maps & Visuals</span></p>
+        <h6><p>Maps & Media</span></p>
 </h6>
       </header>
     </div>
@@ -211,52 +217,35 @@ layout: default
     <div class="control" id="control-right">Right</div>
   </div> -->
 
+
   <div class="home-highlights">
 
     <div class="activations-highlights-wrapper piwikTrackContent">
+      {% assign sorted-media = site.disaster-services | where: "Post-type", "Media" | sort: 'date' | reverse %} 
+      
 
-            <a href="https://drive.google.com/file/d/1AlZLew_wIukWmKGdMFdqU8Mh7E4UfIcA/view?usp=sharing" class="home-highlight">
-              <img src="/uploads/Nyiragongo_twitter.png">
+      {% for post in sorted-media limit:3 %} 
+    
+
+            <a href="{{ post.url }}" class="home-highlight">
+              <img {% if post['Is image top aligned'] %} class="fit" style="object-position: top center; height: 100%; " {% endif %} src="https://cdn.hotosm.org/website/{{ post['Feature Image'] | replace: " ", "+" }}.png"  >
               <div class="home-highlight-title">
                 <p>
-                  Nyiragongo Volcano Eruption, DRC - Rwanda        
+                  {{ post.title }}
                 </p>
                 <p><span>           
-                  <i>Image showing the extent of lava flows near Goma</i>
+                  <i> {{ post['Summary Text'] | strip_html | truncatewords:20 }}</i>
             </span></p>
               </div>
             </a>
 
-            <a href="https://drive.google.com/file/d/1Ke74QSjw3_mnNbtS576gT49GSExrjoao/view?usp=sharing" class="home-highlight">
-              <img src="/uploads/COVID19_GIMSouthSudan.gif">
-              <div class="home-highlight-title">
-                <p>
-                  COVID-19 Vaccination Campaign, Global              
-                </p>
-                <p><span>           
-                  <i>Mapping of 3 South Sudan projects where CartONG and ArcGIS participated through mapathons. </i>
-            </span></p>
-              </div>
-            </a>
-
-
-            <a href="https://hotosm.github.io/cv19_map/#" class="home-highlight">
-              <img src="/uploads/cv19_interactive_map.png">
-              <div class="home-highlight-title">
-                <p>
-                  COVID-19, Global                
-                </p>
-                <p><span>           
-                  <i>A map that displays the massive campaign that lasted more than a year and had over 400 projects all around the world. </i>
-            </span></p>
-              </div>
-            </a>
-
-
-
+            {% endfor %} 
 
     </div>
+
   </div>
+  <h6 style="text-align: right; padding:0% 1.7%"><a href="/disaster-services/disaster-services-media">Maps & Media Archive</a></h6>
+
 </div>
 
 

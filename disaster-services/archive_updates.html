@@ -1,5 +1,5 @@
 ---
-title: DST Timeline Archive
+title: DST Updates
 position: 0
 layout: default
 ---
@@ -7,7 +7,7 @@ layout: default
 <div class="container news-index">
 
   <header class="news-index-header">
-    <h1>Events and Disasters Timeline</h1>
+    <h1>Disaster Services Archive</h1>
   </header>
 
   <div class="news-index-body">
@@ -66,7 +66,8 @@ layout: default
       {% assign disaster-services = sorted | reverse %}
       
       {% for post in disaster-services %}
-        {% if post.Post-type contains 'timeline' or post.Post-type contains 'bi-weekly' %}
+        {% if post.Post-type contains 'timeline' or post.Post-type contains 'update' %}
+        
 
         <div class="news-index-item">
 
@@ -74,7 +75,7 @@ layout: default
 
             <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
 
-              <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+              <a href="{{ post.url }}"><h3 style="color:#FF0000">{{ post.date | date: '%e %B, %Y' }}</h3><h3>{{ post.title }}</h3></a>
 
               <p>
                 {% if post['Summary Text'] %}
@@ -90,10 +91,10 @@ layout: default
                     {% if post['Event type'] %}
                       {% for author in post['Event type'] %}
                         {{ author }}{% unless forloop.last %},{% endunless %}
-                        {% if forloop.last %} - {% endif %}
+                        {% if forloop.last %}{% endif %}
                       {% endfor %}
                     {% endif %}
-                    {{ post.date | date: '%e %B, %Y' }}</p>
+                    </p>
                       {% if post.Country != '' %}
                         <p class="news-index-country">
                             {% for country in post.Country %}
@@ -123,8 +124,7 @@ layout: default
                 {% endif %}
               </div>
             {% endif %} 
-
-          </div>
+          </div> 
 
         </div>
         {% endif %}

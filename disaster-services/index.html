@@ -1,5 +1,5 @@
 ---
-title: DST Timeline Archive
+title: DST Updates
 position: 0
 layout: default
 ---
@@ -7,7 +7,7 @@ layout: default
 <div class="container news-index">
 
   <header class="news-index-header">
-    <h1>Events and Disasters Timeline</h1>
+    <h1>Events and Disasters Updates</h1>
   </header>
 
   <div class="news-index-body">
@@ -23,7 +23,7 @@ layout: default
                 <svg xmlns="http://www.w3.org/2000/svg" width="15" height="14" viewBox="0 0 15 14">
                   <path fill="#D73F3F" d="M12.25,14 L1.75,14 C0.784,14 0,13.216 0,12.25 L0,1.75 C0,0.784 0.784,0 1.75,0 L12.25,0 C13.216,0 14,0.784 14,1.75 L14,12.25 C14,13.216 13.216,14 12.25,14 Z M5.376,10.556 C8.6765,10.556 10.4825,7.819 10.4825,5.4495 C10.4825,5.3725 10.4825,5.2955 10.479,5.2185 C10.829,4.9665 11.1335,4.648 11.375,4.2875 C11.053,4.431 10.7065,4.5255 10.3425,4.571 C10.7135,4.3505 10.997,3.997 11.1335,3.577 C10.787,3.7835 10.402,3.9305 9.9925,4.011 C9.6635,3.661 9.198,3.444 8.6835,3.444 C7.693,3.444 6.888,4.249 6.888,5.2395 C6.888,5.3795 6.9055,5.516 6.9335,5.649 C5.4425,5.5755 4.1195,4.858 3.234,3.773 C3.08,4.039 2.9925,4.347 2.9925,4.676 C2.9925,5.299 3.311,5.8485 3.7905,6.1705 C3.4965,6.16 3.22,6.0795 2.9785,5.9465 C2.9785,5.9535 2.9785,5.9605 2.9785,5.971 C2.9785,6.839 3.598,7.567 4.417,7.7315 C4.2665,7.7735 4.109,7.7945 3.9445,7.7945 C3.829,7.7945 3.717,7.784 3.6085,7.763 C3.836,8.477 4.501,8.995 5.285,9.009 C4.669,9.492 3.8955,9.779 3.0555,9.779 C2.912,9.779 2.7685,9.772 2.6285,9.7545 C3.4195,10.2585 4.3645,10.556 5.376,10.556 Z" transform="translate(.144)"/>
                 </svg>
-              </a>
+              </a> 
             </div>
             <div class="social-txt">
               <p>
@@ -65,8 +65,9 @@ layout: default
       {% assign sorted = site.disaster-services | sort: 'date' %}
       {% assign disaster-services = sorted | reverse %}
       
-      {% for post in disaster-services %}
-        {% if post.Post-type contains 'timeline' or post.Post-type contains 'bi-weekly' %}
+      {% for post in disaster-services limit:15 %}
+        {% if post.Post-type contains 'timeline' or post.Post-type contains 'update' %}
+        
 
         <div class="news-index-item">
 
@@ -74,7 +75,7 @@ layout: default
 
             <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
 
-              <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+              <a href="{{ post.url }}"><h3 style="color:#FF0000">{{ post.date | date: '%e %B, %Y' }}</h3><h3>{{ post.title }}</h3></a>
 
               <p>
                 {% if post['Summary Text'] %}
@@ -90,10 +91,10 @@ layout: default
                     {% if post['Event type'] %}
                       {% for author in post['Event type'] %}
                         {{ author }}{% unless forloop.last %},{% endunless %}
-                        {% if forloop.last %} - {% endif %}
+                        {% if forloop.last %}{% endif %}
                       {% endfor %}
                     {% endif %}
-                    {{ post.date | date: '%e %B, %Y' }}</p>
+                    </p>
                       {% if post.Country != '' %}
                         <p class="news-index-country">
                             {% for country in post.Country %}
@@ -123,13 +124,16 @@ layout: default
                 {% endif %}
               </div>
             {% endif %} 
-
           </div>
 
         </div>
         {% endif %}
 
       {% endfor %}
+
+      <div class="news-pagination">
+        <div class="next"><a href="/disaster-services/archive_updates.html">View Archive →</a></div>
+    </div>
 
     </div>
 

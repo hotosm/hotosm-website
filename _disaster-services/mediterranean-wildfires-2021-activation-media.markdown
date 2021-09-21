@@ -20,8 +20,8 @@ Summary Text: The <a href="https://tasks.hotosm.org/explore?campaign=Mediterrane
   Wildfires 2021 campaign</a> is an ongoing HOT activation organized by the Humanitarian
   OpenStreetMap Team in coordination with OSM communities to respond to wildfires
   across the region.
-Feature Image: WF Wildfire
-Post-type: timeline
+Feature Image: FR Fire
+# Post-type: Media
 HDX: <a href="https://data.humdata.org/organization/hot">Various Countries</a>
 Resources: N/A
 Campaign: https://tasks.hotosm.org/explore?campaign=Mediterranean%20Wildfires%202021
@@ -32,7 +32,7 @@ Tracking: medseafires2021
 Report: available
 ---
 
-Based on mapping needs, the following areas in the Mediterranean will be monitored  for this campaign:
+Based on mapping needs, the following areas in the Mediterranean will be part of this campaign:
 
 <strong>- Algeria</strong><br>
 <strong>- Greece</strong><br>

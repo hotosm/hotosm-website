@@ -10,7 +10,7 @@ Summary Text: Mapping the area impacted near Béjaïa done. Begun releasing proj
 Feature Image: FR Fire
 Status: alert
 Post-type: update
-Country:
+Country: 
 - Algeria
 Tracking: algeriafires2021
 Report: available

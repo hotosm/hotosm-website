@@ -1,0 +1,17 @@
+---
+title: COVID-19 Epidemic Projects Map
+date: 2021-03-01 12:00:00 Z
+Event Name: COVID-19 Epidemic
+Glide: EP-2020-000012
+GDACS-level: 
+Country: 
+Event type: EP Epidemic
+Summary Text: <a href="https://hotosm.github.io/cv19_map/" target="_blank">Interactive map</a> showing most of the 500+ mapping projects related to COVID-19. It shows the location, leading organization and the purpose of each project. 
+Feature Image: EP-2020-000012-media-01
+Status: alert
+Post-type: Media
+---
+
+<a href="https://hotosm.github.io/cv19_map/" target="_blank">COVID-19 remote mapping interactive map</a>
+
+ Bakcground: "The new strain of coronavirus (COVID-19), has originated in Wuhan, China. Coronaviruses are a large family of viruses with some causing less-severe disease, such as the common cold, and others more severe disease such as MERS and SARS." Source: WHO
