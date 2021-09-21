@@ -15,12 +15,12 @@ Country:
 - Italy
 - Turkey
 - Greece
-Event type: WF Wildfire
+Event type: WF Wild fire
 Summary Text: 'Request to activate for various wildfires around the Mediterranean
   Sea: Algeria, Greece, Italy, Tunisia & Turkey.
 
 '
-Feature Image: FR Fire
+Feature Image: WF Wildfire
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot">Various Countries</a>
 Resources: N/A
