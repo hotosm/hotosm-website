@@ -6,7 +6,9 @@ Glide: EP-2020-000012
 GDACS-level: 
 Country: 
 Event type: EP Epidemic
-Summary Text: <a href="https://hotosm.github.io/cv19_map/" target="_blank">Interactive map</a> showing most of the 500+ mapping projects related to COVID-19. It shows the location, leading organization and the purpose of each project. 
+Summary Text: <a href="https://hotosm.github.io/cv19_map/" target="_blank">Interactive
+  map</a> showing most of the 500+ mapping projects related to COVID-19. It shows
+  the location, leading organization and the purpose of each project.
 Feature Image: EP-2020-000012-media-01
 Status: alert
 Post-type: Media

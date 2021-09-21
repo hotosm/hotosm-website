@@ -7,7 +7,8 @@ GDACS-level:
 Country:
 - Peru
 Event type: LS Landslide
-Summary Text: Report/presentation for AmeriGEO's summit. The image shows key facts for the activation and some details of the mapped area against satellite imagery. 
+Summary Text: Report/presentation for AmeriGEO's summit. The image shows key facts
+  for the activation and some details of the mapped area against satellite imagery.
 Feature Image: LS-2021-000001-HOT-media-01
 Post-type: Media
 Status: alert

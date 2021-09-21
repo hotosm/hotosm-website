@@ -21,7 +21,6 @@ Summary Text: The <a href="https://tasks.hotosm.org/explore?campaign=Mediterrane
   OpenStreetMap Team in coordination with OSM communities to respond to wildfires
   across the region.
 Feature Image: FR Fire
-# Post-type: Media
 HDX: <a href="https://data.humdata.org/organization/hot">Various Countries</a>
 Resources: N/A
 Campaign: https://tasks.hotosm.org/explore?campaign=Mediterranean%20Wildfires%202021

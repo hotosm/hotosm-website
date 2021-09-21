@@ -9,7 +9,9 @@ Country:
 - Turkey
 - Greece
 Event type: EQ Earthquake
-Summary Text: Section on the Aegan Sea Earthquake that was part of the <a href="https://hotosm.github.io/2020_DST_lessons/HTML/scrollytelling.html" target="_blank">2020 Disaster Services lessons learned report</a>. The report focuses on the work done by Yer Çizenler, a local organization. 
+Summary Text: Section on the Aegan Sea Earthquake that was part of the <a href="https://hotosm.github.io/2020_DST_lessons/HTML/scrollytelling.html"
+  target="_blank">2020 Disaster Services lessons learned report</a>. The report focuses
+  on the work done by Yer Çizenler, a local organization.
 Feature Image: EQ-2020-000215-media-01
 Status: alert
 Post-type: Media

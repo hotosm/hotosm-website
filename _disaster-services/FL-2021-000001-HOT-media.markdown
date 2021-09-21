@@ -14,7 +14,6 @@ Summary Text: '"Flooding after torrential rain caused widespread damage in Germa
   (RLP) and Bavaria." GDACS'
 Feature Image: Fl Flood
 Status: alert
-# Post-type: Media
 source: <a href="https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100958&episodeid=1"
   target="_blank">GDACS</a>
 ---

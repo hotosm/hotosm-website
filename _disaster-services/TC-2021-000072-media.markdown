@@ -7,8 +7,10 @@ GDACS-level:
 Country:
 - Haiti
 Event type: TC Tropical Cyclone
-Summary Text: KONTUR's analysis overlay disaster and building quantity data gaps to help the OSM communities and DST focus their attention of the affected areas that potentially need most mapping. For more information visit <a href="https://disaster.ninja/" target="_blank">Disaster Ninja</a>
-
+Summary Text: KONTUR's analysis overlay disaster and building quantity data gaps to
+  help the OSM communities and DST focus their attention of the affected areas that
+  potentially need most mapping. For more information visit <a href="https://disaster.ninja/"
+  target="_blank">Disaster Ninja</a>
 Feature Image: TC-2021-000072-media-kontur
 Status: alert
 Post-type: Media

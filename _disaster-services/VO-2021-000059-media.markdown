@@ -7,7 +7,9 @@ GDACS-level:
 Country:
 - Democratic Republic of the Congo
 Event type: VO Volcanic Eruption
-Summary Text: Map showing the extent of the lava flows of Nyiragongo volcano during the 22 of May explosion. The map uses data from buildings and roads (OSM) and extent of lava flows (OSM DRC). 
+Summary Text: Map showing the extent of the lava flows of Nyiragongo volcano during
+  the 22 of May explosion. The map uses data from buildings and roads (OSM) and extent
+  of lava flows (OSM DRC).
 Feature Image: VO-2021-000059-media-01
 Post-type: Media
 Status: alert

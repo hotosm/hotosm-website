@@ -8,7 +8,8 @@ GDACS ID: EQ 1281677
 Country:
 - Haiti
 Event type: EQ Earthquake
-Summary Text: Series of maps requested by IFRC for their operation in three Haitian cities in the provinces of Grand'Anse, Sud and Sud-est. 
+Summary Text: Series of maps requested by IFRC for their operation in three Haitian
+  cities in the provinces of Grand'Anse, Sud and Sud-est.
 Feature Image: EQ-2021-000116-HTI-media-01
 Status: alert
 Post-type: Media

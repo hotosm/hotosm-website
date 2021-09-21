@@ -10,7 +10,10 @@ Country:
 - Mozambique
 - Madagascar
 Event type: TC Tropical Cyclone
-Summary Text:  Section on the Eta & Iota that was part of the <a href="https://hotosm.github.io/2020_DST_lessons/HTML/scrollytelling.html" target="_blank">2020 Disaster Services lessons learned report</a>. It shows the area that was affected by the tropical cyclones and how the data was used for disaster response. 
+Summary Text: Section on the Eta & Iota that was part of the <a href="https://hotosm.github.io/2020_DST_lessons/HTML/scrollytelling.html"
+  target="_blank">2020 Disaster Services lessons learned report</a>. It shows the
+  area that was affected by the tropical cyclones and how the data was used for disaster
+  response.
 Feature Image: TC-2020-000220-media-01
 Status: alert
 Post-type: Media
