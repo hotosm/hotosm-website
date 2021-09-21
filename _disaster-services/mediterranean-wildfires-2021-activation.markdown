@@ -20,7 +20,7 @@ Summary Text: The <a href="https://tasks.hotosm.org/explore?campaign=Mediterrane
   Wildfires 2021 campaign</a> is an ongoing HOT activation organized by the Humanitarian
   OpenStreetMap Team in coordination with OSM communities to respond to wildfires
   across the region.
-Feature Image: FR Fire
+Feature Image: "/uploads/FR%20Fire.png"
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot">Various Countries</a>
 Resources: N/A
