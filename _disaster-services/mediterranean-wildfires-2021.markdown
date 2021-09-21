@@ -15,7 +15,7 @@ Country:
 - Italy
 - Turkey
 - Greece
-Event type: size-up
+Event type: WF Wildfire
 Summary Text: 'Request to activate for various wildfires around the Mediterranean
   Sea: Algeria, Greece, Italy, Tunisia & Turkey.
 
