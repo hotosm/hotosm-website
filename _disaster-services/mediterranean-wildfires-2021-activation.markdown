@@ -15,7 +15,7 @@ Country:
 - Greece
 - Tunisia
 - Turkey
-Event type: FR Fire
+Event type: WF Wildfire
 Summary Text: The <a href="https://tasks.hotosm.org/explore?campaign=Mediterranean%20Wildfires%202021">Mediterranean
   Wildfires 2021 campaign</a> is an ongoing HOT activation organized by the Humanitarian
   OpenStreetMap Team in coordination with OSM communities to respond to wildfires
