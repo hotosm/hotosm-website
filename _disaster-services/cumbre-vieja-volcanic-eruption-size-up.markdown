@@ -3,8 +3,8 @@ title: Cumbre Vieja Volcanic Eruption Size-up
 date: 2021-09-23 18:36:00 Z
 Glide: VO-2021-000001-HOT
 Event Name: Cumbre Vieja Volcanic Eruption
-GDACS-level: Orange (1.1)
-GDACS ID: VO 1000031
+GDACS-level: Orange (1.1)*
+GDACS ID: VO 1000031*
 Country:
 - Spain
 Event type: VO Volcanic Eruption
