@@ -3,8 +3,8 @@ title: Cumbre Vieja Volcanic Eruption Size-up
 date: 2021-09-23 18:36:00 Z
 Glide: VO-2021-000001-HOT
 Event Name: Cumbre Vieja Volcanic Eruption
-GDACS-level: Orange (1.1)
-GDACS ID: VO 1000031
+GDACS-level: Orange (1.1)*
+GDACS ID: VO 1000031*
 Country:
 - Spain
 Event type: VO Volcanic Eruption
@@ -18,7 +18,7 @@ GDACS Incident Name: La Palma
 Status: size-up
 Phase: Phase 1
 source: <a href="https://www.gdacs.org/report.aspx?eventid=1000031&episodeid=2&eventtype=VO"
-  target="_blank">GDACS</a>
+  target="_blank">*GDACS</a>
 ---
 
 <h2>Size-up Details</h2>
