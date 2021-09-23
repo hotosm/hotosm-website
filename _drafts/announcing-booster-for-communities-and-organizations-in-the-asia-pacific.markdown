@@ -1,12 +1,9 @@
 ---
 title: Announcing Booster for Communities and Organizations in the Asia-Pacific
 date: 2021-09-23 08:53:00 Z
-Summary Text: |
-  The Open Mapping Hub - Asia Pacific is excited to announce the “Booster Grants” to meet the hub's vision to “create a sustainable OSM ecosystem in the Asia-Pacific region” and its aspirations:
-  1. Government, humanitarian and development agencies commonly use OSM data in their planning and decision-making.
-  2. Underrepresented communities actively participate in the OSM movement.
-  3. OSM data is the most preferred choice in entrepreneurial and economic activities.
-  4. OSM is used as the most popular map service among citizens.
+Summary Text: The Open Mapping Hub - Asia Pacific is excited to announce the “Booster
+  Grants” to meet the hub's vision to “create a sustainable OSM ecosystem in the Asia-Pacific
+  region” and its aspirations.
 Feature Image: "/uploads/AP%20Booster%20Grants.png"
 Person: Awantika Pal
 Project:
@@ -14,6 +11,13 @@ Project:
 ---
 
 Booster Grants, as their name suggests, are intended to boost the ongoing mapping and community-building activities of OSM groups in the Asia-Pacific region. With Booster Grants, the hub aims to support local communities that are already carrying out significant mapping and community-building work.
+
+The aspirations these grants will support are:
+1. Government, humanitarian and development agencies commonly use OSM data in their planning and decision-making.
+2. Underrepresented communities actively participate in the OSM movement.
+3. OSM data is the most preferred choice in entrepreneurial and economic activities.
+4. OSM is used as the most popular map service among citizens.
+
 
 ### Purpose of the Booster Grant
 
