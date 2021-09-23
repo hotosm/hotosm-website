@@ -1,0 +1,18 @@
+---
+title: La Palma Eruption 2021 Alert
+date: 2021-09-23 01:57:00 Z
+Glide: VO-2021-000001-HOT
+Event Name: La Palma Eruption 2021
+GDACS-level: Orange (1.1)
+GDACS ID: VO 1000031
+Country:
+- Spain
+Event type: VO Volcanic Eruption
+Summary Text: '"Volcanic eruption La Palma can have a medium humanitarian impact based
+  on the exposed population and vulnerability." GDACS'
+Feature Image: VO Volcanic Eruption
+Status: alert
+Post-type: update
+source: GDACS
+---
+
