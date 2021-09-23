@@ -14,10 +14,11 @@ Feature Image: VO Volcanic Eruption
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=spain">Spain</a>
 Resources: N/A
-GDACS Incident Name: 
+GDACS Incident Name: La Palma
 Status: size-up
 Phase: Phase 1
-Source: GDACS
+source: <a href="https://www.gdacs.org/report.aspx?eventid=1000031&episodeid=2&eventtype=VO"
+  target="_blank">GDACS</a>
 ---
 
 <h2>Size-up Details</h2>
