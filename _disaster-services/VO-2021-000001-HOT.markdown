@@ -1,8 +1,8 @@
 ---
-title: La Palma Eruption 2021 Alert
+title: Cumbre Vieja Volcanic Eruption Alert
 date: 2021-09-23 01:57:00 Z
 Glide: VO-2021-000001-HOT
-Event Name: La Palma Eruption 2021
+Event Name: Cumbre Vieja Volcanic Eruption
 GDACS-level: Orange (1.1)
 GDACS ID: VO 1000031
 Country:
