@@ -19,20 +19,20 @@ The aspirations these grants will support are:
 4. OSM is used as the most popular map service among citizens.
 
 
-### Purpose of the Booster Grant
+## Purpose of the Booster Grant
 
 Many local OSM communities across the Asia-Pacific are actively involved in mapping and community engagement work. Through the last decade, communities have contributed significantly to introduce and advance mapping in their homes. For instance: Mapping of an indigenous group: Chepang Basti in Nepal, Unmapped Tarlac in Philippines, and the mapping of flood-affected areas in Bangladesh.
 
 In recognition of these exemplary efforts, the Booster Grant will serve as a supplement to existing resources in order to increase mapping activities and foster more community engagement. Additionally, the Booster Grant also aims to ensure local communities have the opportunity to set their priorities and hold ownership of their activities by encouraging autonomous and collaborative decision-making. 
 
 
-### What communities will receive it & how will they use it?
+## What communities will receive it & how will they use it?
 
 The first rounds of Booster Grant will be awarded to OSM communities from three priority countries: Nepal, Bangladesh, and the Philippines. These communities have demonstrated continuous dedication to strengthening the OSM movement in their countries, and have numerous active mapping projects. In the National Dialogues held in June-September 2021, these three OSM communities went through discussions to decide on their priorities and activities to strengthen the OSM movement in their respective countries. The hub will now provide the Booster Grant to these three communities to support the priorities and activities decided on the National Dialogues. 
 
 However, we anticipate supporting and providing Booster Grants to more OSM communities throughout the next year. Since the Booster Grant is a new idea, the structure and criteria for the Booster Grants will continue to evolve and we will update the communities as we make any progress. 
 
-### How does it work?
+## How does it work?
 
 Hub’s Booster Grants model requires the OSM community to identify a legally registered local institution to administer the fund. The institution can then charge up to 10% of the fund to cover its administrative cost, whereas 90% of the fund goes to the community for mapping and community building activities in a transparent manner
 
@@ -40,7 +40,7 @@ Currently, the OSM Nepal community has chosen Kathmandu Living Labs, Bangladesh 
 
 Additionally, the Hub also encourages the local OSM community to form a small facilitating team consisting of 3 to 7 members of the community to coordinate with the community, the institution administering the fund, and the hub. Through the National Dialogue session, OSM Bangladesh community has identified 7 members to serve as the facilitating committee, whereas OSM Nepal and Philippines are currently having internal dialogues to form the facilitating committee.
 
-### Role of the facilitating team
+## Role of the facilitating team
 
 The core idea behind the facilitating team is to ensure that the local community holds ownership of their activities. In order to depart from the traditional funding mechanism used by contemporary humanitarian aid agencies where the funders set the criteria and priorities, the hub considers it critical to have a diverse and knowledgeable group of people serve as a coordinating committee that will ensure the people within the community work together towards a common impactful goal. Since funders can often be detached from the ground realities, it is important to us that communities who work on the ground hold the power to decide how the funds should be allocated for the utmost impact. Therefore, with this understanding, the facilitating team will contribute to the following responsibilities:
 
