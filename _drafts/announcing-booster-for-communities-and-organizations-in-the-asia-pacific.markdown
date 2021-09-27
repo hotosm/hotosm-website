@@ -21,7 +21,7 @@ These grants will support the Open Mapping Hub - Asia Pacific's aspirations as f
 
 ## Purpose of the Booster Grant
 
-Many local OSM communities across the Asia-Pacific are actively involved in mapping and community engagement work. Through the last decade, communities have contributed significantly to introduce and advance mapping in their homes. For instance: Mapping of an indigenous group: Chepang Basti in Nepal, Unmapped Tarlac in Philippines, and the mapping of flood-affected areas in Bangladesh.
+Many local OSM communities across the Asia-Pacific are actively involved in mapping and community engagement work. Through the last decade, communities have contributed significantly to introduce and advance mapping in their homes. For instance: Mapping of an indigenous group: Chepang Basti in Nepal, Unmapped Tarlac in Philippines, and the mapping of flood-affected areas in Bangladesh etc.
 
 In recognition of these exemplary efforts, the Booster Grant will serve as a supplement to existing resources in order to increase mapping activities and foster more community engagement. Additionally, the Booster Grant also aims to ensure local communities have the opportunity to set their priorities and hold ownership of their activities by encouraging autonomous and collaborative decision-making. 
 
