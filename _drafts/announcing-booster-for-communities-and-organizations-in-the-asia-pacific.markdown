@@ -12,7 +12,7 @@ Project:
 
 Booster Grants, as their name suggests, are intended to boost the ongoing mapping and community-building activities of OSM groups in the Asia-Pacific region. With Booster Grants, the hub aims to support local communities that are already carrying out significant mapping and community-building work.
 
-The aspirations these grants will support are:
+These grants will support the Open Mapping Hub - Asia Pacific's aspirations as follows:
 1. Government, humanitarian and development agencies commonly use OSM data in their planning and decision-making.
 2. Underrepresented communities actively participate in the OSM movement.
 3. OSM data is the most preferred choice in entrepreneurial and economic activities.
