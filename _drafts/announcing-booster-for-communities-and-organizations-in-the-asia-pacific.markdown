@@ -36,9 +36,9 @@ However, we anticipate supporting and providing Booster Grants to more OSM commu
 
 Hub’s Booster Grants model requires the OSM community to identify a legally registered local institution to administer the fund. The institution can then charge up to 10% of the fund to cover its administrative cost, whereas 90% of the fund goes to the community for mapping and community building activities in a transparent manner
 
-Currently, the OSM Nepal community has chosen Kathmandu Living Labs, Bangladesh has chosen Bangladesh Open Innovation Lab, and Philippines has chosen SmartCT. 
+Currently, the OSM Nepal community has chosen [Kathmandu Living Labs](https://www.kathmandulivinglabs.org/), Bangladesh has chosen [Bangladesh Open Innovation Lab](https://boiledbhoot.org/) (BOIL), and Philippines has chosen [SmartCT](https://smartct.org/). 
 
-Additionally, the Hub also encourages the local OSM community to form a small facilitating team consisting of 3 to 7 members of the community to coordinate with the community, the institution administering the fund, and the hub. Through the National Dialogue session, OSM Bangladesh community has identified 7 members to serve as the facilitating committee, whereas OSM Nepal and Philippines are currently having internal dialogues to form the facilitating committee.
+Additionally, the Hub also encourages the local OSM community to form a small facilitating team consisting of three to seven members of the community to coordinate with the community, the institution administering the fund, and the hub. Through the National Dialogue session, OSM Bangladesh community has identified seven members to serve as the facilitating committee, whereas OSM Nepal and Philippines are currently having internal dialogues to form the facilitating committee.
 
 ## Role of the facilitating team
 
