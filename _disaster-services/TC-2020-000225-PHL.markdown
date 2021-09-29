@@ -1,6 +1,6 @@
 ---
 title: Tropical Cyclone Ulysses/Vamco Alert
-date: 2020-11-10 04:40:00 Z
+date: 2020-11-08 04:40:00 Z
 Glide: TC-2020-000225-PHL
 Event Name: Tropical Storm Ulysses
 GDACS ID: TC 1000741
