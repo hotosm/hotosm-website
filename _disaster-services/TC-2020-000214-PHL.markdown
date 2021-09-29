@@ -1,0 +1,22 @@
+---
+title: Tropical Cyclone Rolly/Goni Alert
+date: 2020-10-29 04:23:00 Z
+Glide: TC-2020-000214-PHL
+Event Name: Tropical Cyclone Rolly/Goni
+GDACS ID: TC 1000736
+GDACS-level: 2.5 (Red)
+Country:
+- Philippines
+- Vietnam
+Event type: TC Tropical Cyclone
+Summary Text: '"[...]a tropical depression developed over the Western Pacific Ocean,
+  Northwest of Guam. Once inside the Philippine Area of Responsibility (PAR) it will
+  be given local name “Rolly” (GONI)."'
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+Source: <a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22074&record=1&last=4"
+  target="_blank">Philippine Red Cross (PRC)</a>
+---
+
+"On the evening of 27 October, a tropical depression developed over the Western Pacific Ocean, Northwest of Guam. Once inside the Philippine Area of Responsibility (PAR) it will be given local name “Rolly” (GONI). As per the Philippines Atmospheric Geophysical and Astronomical Services Administration (PAGASA) bulletin at 11.00 am today (29 Oct), GONI had intensified into a severe tropical storm while moving westward, with a maximum sustained winds of 95 km/h near the center and gustiness of up to 115 km/h. It is forecast to enter the eastern boundary of the PAR this afternoon or evening. It is forecast to move generally westward by Saturday evening, then west-northwestward by Sunday as it moves towards Quezon - Aurora area before making landfall on Sunday morning, November 1. It is forecast to reach typhoon category within 24 hours and will continue to intensify while moving over the Philippine Sea. As it moves towards eastern sections of Central Luzon (Region III) and Southern Luzon (Region IVa, Region V), it may bring heavy rains over those areas starting this Friday."
