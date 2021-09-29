@@ -1,0 +1,22 @@
+---
+title: Tropical Cyclone Ulysses/Vamco Alert
+date: 2020-11-10 04:40:00 Z
+Glide: TC-2020-000225-PHL
+Event Name: Tropical Storm Ulysses
+GDACS ID: TC 1000741
+GDACS-level: 2.5 (Red)
+Country:
+- Philippines
+- Vietnam
+Event type: TC Tropical Cyclone
+Summary Text: '"[...] VAMCO strengthened from a tropical depression into a tropical
+  storm. It now has maximum sustained winds of 65 kilometers per hour (km/h) and gustiness
+  of up to 80 km/h, from 55 km/h and 70 km/h, respectively."'
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+Source: <a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22085&record=2&last=2"
+  target="_blank">Philippine Red Cross (PRC)</a>
+---
+
+"The Philippine Atmospheric, Geophysical, and Astronomical Services Administration (PAGASA) said in its 5pm bulletin on Monday 9 November, that VAMCO strengthened from a tropical depression into a tropical storm. It now has maximum sustained winds of 65 kilometers per hour (km/h) and gustiness of up to 80 km/h, from 55 km/h and 70 km/h, respectively. The tropical storm is moving northwest at a much slower 15 km/h. Tropical Storm VAMCO will move generally northwestward today through tomorrow afternoon. Afterwards, it is forecast to turn westward and head towards the Bicol Region-Quezon area. A landfall over Bicol Region- Quezon area on Thursday is likely at this time. It is likely to reach Severe Tropical Storm category within 24 hours and may reach Typhoon category on Wednesday."
