@@ -1,0 +1,21 @@
+---
+title: Tropical Cyclone Kamurri Alert
+date: 2019-09-29 15:03:00 Z
+Glide: TC-2019-000159-PHL
+Event Name: Tropical Cyclone Kamurri
+GDACS ID: TC 1000636
+GDACS-level: 2.5 (Red)
+Country:
+- Philippines
+Event type: TC Tropical Cyclone
+Summary Text: '"According to [...](PAGASA) as of 10:00 local time on 29 November 2019,
+  Tropical Storm (TS) Kammuri is approximately 1,430 km east of the southern Luzon,
+  moving northwest."'
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+Source: <a href="https://reliefweb.int/report/philippines/philippines-tropical-storm-kammuri-information-bulletin"
+  target="_blank">IFRC in Reliefweb</a>
+---
+
+"According to the Philippines Atmospheric Geophysical and Astronomical Services Administration (PAGASA) as of 10:00 local time on 29 November 2019, Tropical Storm (TS) Kammuri is approximately 1,430 km east of the southern Luzon, moving northwest. PAGASA reports that Kammuri currently has maximum sustained winds of 140 kph near the centre and gustiness of up to 170 kph. Longer range models predict it could intensify to a category 4 typhoon. On entering the Philippine Area of Responsibility (PAR), which is estimated between 1 and 2 December 2019, it will be locally named 'Tisoy'."
