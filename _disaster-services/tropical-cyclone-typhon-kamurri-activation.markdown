@@ -2,7 +2,7 @@
 title: Tropical Cyclone Typhon Kammuri Activation
 date: 2019-12-03 15:33:00 Z
 Glide: TC-2019-000159-PHL
-Event Name: Tropical Cyclone Kamurri
+Event Name: Tropical Cyclone Kammuri
 Country:
 - Philippines
 Event type: TC Tropical Cyclone
