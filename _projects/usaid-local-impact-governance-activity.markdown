@@ -20,7 +20,7 @@ Products that will be developed from the project will be used in the following w
 * The project will generate learning and facilitate problem-solving that supports the development of an effective, financially viable sub-national governance system for devolved services, capable of being scaled up throughout Zambia
 * Stakeholders from government, civil society, communities, researchers, development partners will use the products in decision making and design programs to enhance local governance.
 
-The project is funded by the United States Agency for International Development (USAID) and implemented by DAI with support for the service delivery mapping component from the Humanitarian OpenStreetMap Team (HOT). Key partners are the Government of Zambia (Ministry of Local Government), Civil Society Organization, and local stakeholders.
+The project is funded by the United States Agency for International Development (USAID) and implemented by DAI with support for the service delivery mapping component from the Humanitarian OpenStreetMap Team (HOT). Key partners are the Government of Zambia (Ministry of Local Government), civil society organizations, and local stakeholders.
 
 The project is directly implemented by HOT through it’s Global Projects Manager, an Associate project manager, 2 Senior Mapping Supervisors, Technical advisor and Specialist with support from the Global Field Program team. OSM & YouthMappers from Zambia, validators from the Philippines, Data Quality Interns, and the global OSM community contributing to field data collection, remote mapping, and validation, respectively.
 
