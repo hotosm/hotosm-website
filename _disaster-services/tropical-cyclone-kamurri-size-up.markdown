@@ -1,5 +1,5 @@
 ---
-title: Tropical Cyclone Kamurri Size-up
+title: Tropical Cyclone Kammuri Size-up
 date: 2019-12-02 15:20:00 Z
 Glide: TC-2019-000159-PHL
 Event Name: Tropical Cyclone Kamurri

@@ -1,5 +1,5 @@
 ---
-title: Tropical Cyclone Kamurri Alert
+title: Tropical Cyclone Kammuri Alert
 date: 2019-11-29 15:03:00 Z
 Glide: TC-2019-000159-PHL
 Event Name: Tropical Cyclone Kamurri
