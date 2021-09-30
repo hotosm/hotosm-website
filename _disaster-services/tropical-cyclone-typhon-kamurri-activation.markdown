@@ -1,5 +1,5 @@
 ---
-title: Tropical Cyclone Typhon Kamurri Activation
+title: Tropical Cyclone Typhon Kammuri Activation
 date: 2019-12-03 15:33:00 Z
 Glide: TC-2019-000159-PHL
 Event Name: Tropical Cyclone Kamurri
@@ -21,14 +21,13 @@ Tracking: kammuricyclone
 Report: available
 ---
 
-<a href="https://wiki.openstreetmap.org/wiki/MapBeks">2019 Typhon Kamurri Response & Preparedness Mapping</a> is an activation that comprises the following projects:
+<a href="https://wiki.openstreetmap.org/wiki/2019_Typhon_Kamurri_Response_%26_Preparedness_Mapping">2019 Typhon Kamurri Response & Preparedness Mapping</a> is an activation that comprises the following projects:
 
-<a href="https://tasks.hotosm.org/projects/7384">7384</a>, Catanduanes Islands, Philippines
+<a href="https://tasks.hotosm.org/projects/7384">7384, Catanduanes Islands, Philippines</a>
 
-<a href="https://tasks.hotosm.org/projects/6733">6733</a>, Sorsogon Province, Philippines #1	
+<a href="https://tasks.hotosm.org/projects/6733">6733, Sorsogon Province, Philippines #1	</a>
 
-<a href="https://tasks.hotosm.org/projects/6734">6734</a>, Sorsogon Province, Philippines #2
+<a href="https://tasks.hotosm.org/projects/6734">6734, Sorsogon Province, Philippines #2 </a>
 
-<a href="https://tasks.hotosm.org/projects/6735">6735</a>, Sorsogon Province, Philippines #3	
+<a href="https://tasks.hotosm.org/projects/6735">6735, Sorsogon Province, Philippines #3	</a>
 
-For more details visit <a href="https://www.mapbeks.org/post/mapbeks-full-support-in-ty-rolly-mapping-operations">the blog post</a>
