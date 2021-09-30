@@ -1,6 +1,6 @@
 ---
 title: Tropical Cyclone Kamurri Alert
-date: 2019-09-29 15:03:00 Z
+date: 2019-11-29 15:03:00 Z
 Glide: TC-2019-000159-PHL
 Event Name: Tropical Cyclone Kamurri
 GDACS ID: TC 1000636
