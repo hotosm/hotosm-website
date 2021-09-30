@@ -7,7 +7,7 @@ Country:
 Impact Area:
 - Sustainable Cities
 Duration:
-  Start Date: 2020-11-02 00:00:00 Z
+  Start Date: 2021-11-02 00:00:00 Z
 ---
 
 The five-year (2020-2025) USAID Local Impact Governance Activity (Local Impact) supports the Government of the Republic of Zambia’s (GRZ) decentralization agenda by strengthening local governance, devolved service delivery, and ensuring that service delivery is transparent and responsive to citizen needs.
@@ -26,4 +26,4 @@ The project is directly implemented by HOT through it’s Global Projects Manage
 
 The 5-year project covers an inception phase (consultations & desk reviews), remote mapping and validation, stakeholders engagement, field data collection, zone boundaries mapping, key stakeholders capacity strengthening, data cleaning, and map products development in 27 districts across 3 provinces in Zambia.
 
-The project runs from November 12, 2020 – June 30, 2025. In Years 1 & 2 the project will conduct service delivery and zone mapping across 18 districts while years 3 & 4 will cover the remaining 9 districts. These activities include remote mapping and validation of all districts, data collectors recruitment and training, mapathons and other capacity building activities.
+The project's mapping activity runs from November 12, 2021 – June 30, 2025. In Years 1 & 2 the project will conduct service delivery and zone mapping across 18 districts while years 3 & 4 will cover the remaining 9 districts. These activities include remote mapping and validation of all districts, data collectors recruitment and training, mapathons and other capacity building activities.
