@@ -39,6 +39,7 @@ Other: Syria, Iraq
 ![map_gim@300x.png](https://www.hotosm.org/uploads/map_gim@300x.png)
 *Map showing GIM Initiative priority countries.*
 
+
 However, to test the workflow before scaling, the team focused on South Sudan.
 
 ## MAPSWIPE IN PILOT PROJECT IN SOUTH SUDAN
