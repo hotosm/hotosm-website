@@ -4,16 +4,16 @@ date: 2021-10-01 20:17:00 Z
 Project Summary Text: "This post shows the workflow HOT and partners are following
   to achieve its goal of filling data gaps (buildings and Roads) for the COVID-19
   vaccination campaign.\n\n"
-Feature Image: https://www.hotosm.org/uploads/SDN_CV19_featured@300x.png
+Feature Image: https://www.hotosm.org/uploads/SDN_CV19_featured2@300x.png
 Country:
 - South Sudan
 Impact Area:
 - Disaster Response
 - Public Health
 Person:
-- 
-- 
-- 
+- Logan McGovern
+- Russell Deffner
+- Antoni Ros Martinez
 Partner:
 - " CartONG"
 - IMMAP
