@@ -8,6 +8,9 @@ Feature Image: https://cdn.hotosm.org/website/IDRoads.PNG
 Is Community-Led: false
 Country:
 - Indonesia
+- Myanmar
+- Tanzania
+- Vietnam
 Impact Area:
 - Transportation
 - Disaster Risk Reduction
