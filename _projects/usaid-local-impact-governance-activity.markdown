@@ -26,4 +26,4 @@ The project is directly implemented by HOT through it’s Global Projects Manage
 
 The 5-year project covers an inception phase (consultations & desk reviews), remote mapping and validation, stakeholders engagement, field data collection, zone boundaries mapping, key stakeholders capacity strengthening, data cleaning, and map products development in 27 districts across 3 provinces in Zambia.
 
-The project's mapping activity runs from November 12, 2021 – June 30, 2025. In Years 1 & 2 the project will conduct service delivery and zone mapping across 18 districts while years 3 & 4 will cover the remaining 9 districts. These activities include remote mapping and validation of all districts, data collectors recruitment and training, mapathons and other capacity building activities.
+The project's mapping activity runs from November 12, 2020 – June 30, 2025. In Years 1 & 2 the project will conduct service delivery and zone mapping across 18 districts while years 3 & 4 will cover the remaining 9 districts. These activities include remote mapping and validation of all districts, data collectors recruitment and training, mapathons and other capacity building activities.
