@@ -1,0 +1,21 @@
+---
+title: COVID-19 Vaccination Campaign  |  Pilot Project
+date: 2021-10-01 19:36:00 Z
+Glide: EP-2020-000012
+Event Name: COVID-19 Epidemic
+Country:
+- South Sudan
+Event type: OT Other
+Summary Text: "This post shows the workflow HOT follows to achieve its goal of filling
+  the following data gaps for COVID-19:\n\n- Roads for distribution planning \n- Buildings
+  for population estimates\n\n"
+Feature Image: SDN_diagram
+Status: alert
+Post-type: Media
+Visuals:
+- SDN_two-pager_1.1
+- SDN_MS_1.1_left
+- SDN_results_1.1_right
+---
+
+Based on MapSwipe results, the team created 21 Tasking Manager projects for Western Equatoria. They are now completely mapped and have produced the results shown in the two-pager attached here.  
