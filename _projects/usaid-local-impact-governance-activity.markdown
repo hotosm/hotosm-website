@@ -7,7 +7,7 @@ Country:
 Impact Area:
 - Sustainable Cities
 Duration:
-  Start Date: 2021-11-02 00:00:00 Z
+  Start Date: 2020-11-02 00:00:00 Z
 ---
 
 The five-year (2020-2025) USAID Local Impact Governance Activity (Local Impact) supports the Government of the Republic of Zambia’s (GRZ) decentralization agenda by strengthening local governance, devolved service delivery, and ensuring that service delivery is transparent and responsive to citizen needs.
