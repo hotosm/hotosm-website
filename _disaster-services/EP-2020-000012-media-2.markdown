@@ -10,7 +10,7 @@ Summary Text: "This post shows the workflow HOT follows to achieve its goal of f
   the following data gaps for COVID-19:\n\n- Roads for distribution planning \n- Buildings
   for population estimates\n\n"
 Feature Image: SDN_diagram
-Status: alert
+Status: 
 Post-type: 
 Visuals:
 - SDN_two-pager_1.1
