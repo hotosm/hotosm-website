@@ -42,14 +42,20 @@ Other: Syria, Iraq
 
 However, to test the workflow before scaling, the team focused on South Sudan.
 
+
+
 ## MAPSWIPE IN PILOT PROJECT IN SOUTH SUDAN
+
 
 “Through MapSwipe (MS), volunteers pinpoint where critical infrastructure and populations are located, allowing mappers to focus only on areas where they know features need to be mapped.” mapswipe.org*
 
 ![map_gim@300x.png](https://www.hotosm.org/uploads/SDN_CV19_MS.png) 
 *Diagram showing the process taken to reduce the Area of Interest in South Sudan.*
 
+
+
 ## TASKING MANAGER PROJECTS AND MAPPED BUILDINGS + ROADS
+
 
 Based on MapSwipe results, the team created 21 Tasking Manager projects for Western Equatoria. They are now completely mapped and have produced the following results: 
 
