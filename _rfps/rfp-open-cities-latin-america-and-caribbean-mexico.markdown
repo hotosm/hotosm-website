@@ -1,7 +1,6 @@
 ---
 title: RFP - Open Cities Latin America and Caribbean (Mexico)
 date: 2021-10-04 21:35:00 Z
-published: false
 Deadline Date: 2021-10-25 23:59:00 Z
 Apply Form Link: https://cdn.hotosm.org/website/Open-Cities-LAC-Local-Implementation-TOR-Mexico.pdf
 Page Contact:
