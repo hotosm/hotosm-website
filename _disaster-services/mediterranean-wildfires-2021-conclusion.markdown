@@ -22,7 +22,9 @@ Report: available
 
 <strong>DEBRIEFING</strong><br>
 
-The Mediterranean Fires Activation was launched upon a request from the Local Algeria OSM community. Hamdouche Mourad made the request and gave the initial area of interest (AOI). Russell Deffner (Disaster Response Coordinator) compared the given AOI to the fire perimeters that were shown on GDACS and there was good overlap but to keep the projects tighter to the area affected, he used the fire perimeters from GDACS, as a second larger fire had developed. So the activation ended up with 3 projects to cover the initial fire and 5 projects to cover the second. Even with the heavy load on projects from Haiti and South Sudan projects (both 20+ projects), these all went quite fast; validation staying very close (~20% difference between mapped % and validated).
+The Mediterranean Fires Activation was launched upon a request from the Local Algeria OSM community. Hamdouche Mourad made the request and gave the initial area of interest (AOI). 
+Russell Deffner (Disaster Response Coordinator) compared the given AOI to the fire perimeters in Algeria that were shown on GDACS and there was good overlap but to keep the projects tighter to the area affected, he used the fire perimeters from GDACS, as a second larger fire had developed. 
+The activation ended up with 3 projects to cover the initial fire and 5 projects to cover the second. Even with the heavy load on projects from Haiti and South Sudan projects (both 20+ projects), these all went quite fast; validation staying very close (~20% difference between mapped % and validated).
 
 <strong>KEY TAKEAWAYS</strong><br>
 
