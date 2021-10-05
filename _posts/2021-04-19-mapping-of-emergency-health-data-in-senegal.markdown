@@ -17,9 +17,9 @@ Country:
 - Senegal
 ---
 
-*Since April 2019, Healthsites.io, in partnership with Cartong, Géomatica, and the OpenStreetMap Senegal community, has launched a series of activities with the aim of [mapping health structures in Senegal.](https://healthsites.io/map?country=Senegal)*
+*Since April 2019, Healthsites.io, in partnership with CartONG, Géomatica, and the OpenStreetMap Senegal community, has launched a series of activities with the aim of [mapping health structures in Senegal.](https://healthsites.io/map?country=Senegal)*
 
-Since April 2019, Healthsites.io, in partnership with Cartong, Géomatica, and the OpenStreetMap Senegal community, has launched a series of activities with the aim of mapping health structures in Senegal. The collaboration was possible due to the meeting held in 2017 at the Dakar Data Champion conference organized by the [Dakar Humanitarian Data Exchange (HDX)](https://centre.humdata.org/creating-skilled-data-champions-in-dakar-senegal/). Several team members, such as Mark Herringer from Healthsites and Labaly Touré from Géomatica, joined the discussion along with the OpenStreetMap Senegal community, who provided training on OpenStreetMap collaborative mapping techniques during a practical session.
+Since April 2019, Healthsites.io, in partnership with CartONG, Géomatica, and the OpenStreetMap Senegal community, has launched a series of activities with the aim of mapping health structures in Senegal. The collaboration was possible due to the meeting held in 2017 at the Dakar Data Champion conference organized by the [Dakar Humanitarian Data Exchange (HDX)](https://centre.humdata.org/creating-skilled-data-champions-in-dakar-senegal/). Several team members, such as Mark Herringer from Healthsites and Labaly Touré from Géomatica, joined the discussion along with the OpenStreetMap Senegal community, who provided training on OpenStreetMap collaborative mapping techniques during a practical session.
 
 ![HS2.png](/uploads/HS2.png)
 *The OpenStreetMap Senegal team providing training by Heather Leson, CCBY4.0*
