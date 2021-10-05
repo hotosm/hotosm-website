@@ -5,6 +5,7 @@ Deadline Date: 2021-10-25 23:59:00 Z
 Apply Form Link: https://cdn.hotosm.org/website/Open-Cities-LAC-Local-Implementation-TOR-Mexico.pdf
 Page Contact:
   Contact Email: info@hotosm.org
+  Label: Submission Email
 ---
 
 The Humanitarian OpenStreetMap Team is soliciting proposals for the Open Data for Resilience and Risk Management Initiatives as part of the project Open Cities Latin America and Caribbean (Mexico).
