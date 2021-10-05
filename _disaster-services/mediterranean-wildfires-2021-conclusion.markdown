@@ -11,8 +11,7 @@ Country:
 - Tunisia
 - Turkey
 Event type: FR Fire
-Summary Text: 'The Mediterranean Wildfires 2021 activation has concluded. To read
-  the debriefing please click on the following link. '
+Summary Text: The Mediterranean Wildfires 2021 activation has concluded.
 Feature Image: FR Fire
 Campaign: https://tasks.hotosm.org/explore?campaign=Mediterranean%20Wildfires%202021
 Timeline: August 14, 2021 - October 5, 2021
