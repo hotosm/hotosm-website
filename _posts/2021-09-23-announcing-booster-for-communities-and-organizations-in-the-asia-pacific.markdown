@@ -1,5 +1,5 @@
 ---
-title: Announcing Booster for Communities and Organizations in the Asia-Pacific
+title: Announcing Booster Grants for Communities and Organizations in the Asia-Pacific
 date: 2021-09-23 08:53:00 Z
 Summary Text: The Open Mapping Hub - Asia Pacific is excited to announce the “Booster
   Grants” to meet the hub's vision to “create a sustainable OSM ecosystem in the Asia-Pacific
