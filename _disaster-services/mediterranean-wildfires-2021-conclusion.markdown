@@ -32,6 +32,6 @@ The activation ended up with 3 projects to cover the initial fire and 5 projects
 - Look for more resilient ways platforms/ways so communication is stable with the local community through the activation. 
 - Better coordination between assessment of teams capacity and activation decisions. 
 - The project was scaled down from the original scope of 5 countries for 2 instead. 
-- In Algeria <a href="https://wiki.openstreetmap.org/wiki/Mediterranean_Fires_2021">8 projects</a> were completely mapped and validated. 
+- In Algeria <a href="https://wiki.openstreetmap.org/wiki/Mediterranean_Fires_2021#Be_Part_of_This_Activation">8 projects</a> were completely mapped and validated. 
 - In Turkey, the OSM community helped translate information regarding the activation into Arabic, and HOT shared a map of the fires created by the Turkish community.  
 
