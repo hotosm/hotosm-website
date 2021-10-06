@@ -1,6 +1,11 @@
 ---
 title: Mediterranean Wildfires 2021 Conclusion
 date: 2021-10-05 23:00:00 Z
+Glide:
+- WF-2021-000115-DZA
+- WF-2021-000107-TUR
+- WF-2021-000106-TUN
+- WF-2021-000103-ITA
 Event Name: Mediterranean Wildfires 2021
 GDACS-level: Varies .5-1.5
 GDACS ID: Various
@@ -13,6 +18,7 @@ Country:
 Event type: FR Fire
 Summary Text: The Mediterranean Wildfires 2021 activation has concluded.
 Feature Image: FR Fire
+Post-type: timeline
 Campaign: https://tasks.hotosm.org/explore?campaign=Mediterranean%20Wildfires%202021
 Timeline: August 14, 2021 - October 5, 2021
 Wiki-page: https://wiki.openstreetmap.org/wiki/Mediterranean_Fires_2021
@@ -29,7 +35,7 @@ The activation ended up with 3 projects to cover the initial fire and 5 projects
 <strong>KEY TAKEAWAYS</strong><br>
 
 - Using the fire perimeters and QGIS to make a convex hull around the area worked very well to create projects
-- Look for more resilient ways platforms/ways so communication is stable with the local community through the activation. 
+- Look for more resilient ways communication platforms/ways to reach the local community throughout the activation. 
 - Better coordination between assessment of teams capacity and activation decisions. 
 - The project was scaled down from the original scope of 5 countries for 2 instead. 
 - In Algeria <a href="https://wiki.openstreetmap.org/wiki/Mediterranean_Fires_2021#Be_Part_of_This_Activation">8 projects</a> were completely mapped and validated. 
