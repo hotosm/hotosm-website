@@ -1,0 +1,19 @@
+---
+title: Tropical Cyclone TWENTYTWO-21
+date: 2021-10-07 18:53:00 Z
+Glide: TC-2021-000155-VNM
+Event Name: TWENTYTWO-21
+GDACS ID: TC 1000837
+GDACS-level: 1.5 (Orange)
+Country:
+- Vietnam
+Event type: TC Tropical Cyclone
+Summary Text: Disaster Services is currently monitoring TWENTYTWO-21 in Vietnam
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+Source: <a href="https://vietnamnet.vn/en/society/central-vietnam-gears-up-for-heavy-rain-as-tropical-storm-likely-to-turn-into-storm-780751.html"
+  target="_blank">VOV</a>
+---
+
+"The central region is forecast to experience a spell of heavy rain and flooding over the coming days as a tropical depression entering the East Sea is likely to strengthen into a storm."
