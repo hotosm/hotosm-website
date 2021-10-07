@@ -8,7 +8,7 @@ GDACS-level: 1.5 (Orange)
 Country:
 - Vietnam
 Event type: TC Tropical Cyclone
-Summary Text: Disaster Services is currently monitoring TWENTYTWO-21 in Vietnam
+Summary Text: Disaster Services is currently monitoring this event in Vietnam
 Feature Image: TC Tropical Cyclone
 Status: alert
 Post-type: update
