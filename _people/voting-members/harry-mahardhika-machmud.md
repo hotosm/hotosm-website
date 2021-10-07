@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Harry.png
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Country Manager
+Job Title: Disaster Services Manager - Asia Pacific
 Working Group:
 - Training
 - Activation
@@ -20,7 +20,7 @@ Project:
 - LearnOSM
 - Typhoon Haiyan
 Country: Indonesia
-Team: Indonesia
+Team: Asia Pacific Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/harrymahar
   Twitter: https://twitter.com/harrymahar
