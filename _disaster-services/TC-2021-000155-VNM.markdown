@@ -1,11 +1,13 @@
 ---
-title: Tropical Cyclone TWENTYTWO-21
+title: Tropical Cyclone LIONROCK-21
 date: 2021-10-07 18:53:00 Z
 Glide: TC-2021-000155-VNM
-Event Name: TWENTYTWO-21
+Event Name: LIONROCK-21
 GDACS ID: TC 1000837
 GDACS-level: 1.5 (Orange)
 Country:
+- China
+- Laos
 - Vietnam
 Event type: TC Tropical Cyclone
 Summary Text: Disaster Services is currently monitoring this event in Vietnam
