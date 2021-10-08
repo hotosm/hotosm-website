@@ -4,10 +4,11 @@ date: 2021-10-08 17:45:00 Z
 Summary Text: Thursday, 7 October, at HOT's Annual General Meeting, the HOT Voting
   Membership elected 5 members to the Board of Directors, 1 new Voting Membership
   Chairperson, and approved 4 ammendments to the organization's Bylaws.
-Feature Image: "/uploads/2021%20HOT%20Election%20Congratulatory%20%20Thank%20You%20poster.png"
+Feature Image: "/uploads/2021%20HOT%20Election%20Congratulatory%20%20Thank%20You%20poster%20(1).png"
 Is image top aligned: true
 Working Group:
 - Governance
+Field name: 
 ---
 
 The newly elected members of the Board of directors are:
