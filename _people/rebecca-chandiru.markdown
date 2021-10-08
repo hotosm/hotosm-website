@@ -6,7 +6,7 @@ Member Type:
   Is Staff: true
 Job Title: Mapping Validator
 Country: Uganda
-Team: Uganda
+Team: Global
 Social Media (Full URL):
   OSM: https://tasks.hotosm.org/users/Becky%20Candy
 ---
