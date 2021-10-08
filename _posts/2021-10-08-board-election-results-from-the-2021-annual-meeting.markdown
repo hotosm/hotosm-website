@@ -3,7 +3,7 @@ title: Board Election Results from the 2021 Annual Meeting
 date: 2021-10-08 17:45:00 Z
 Summary Text: Thursday, 7 October, at HOT's Annual General Meeting, the HOT Voting
   Membership elected 5 members to the Board of Directors, 1 new Voting Membership
-  Chairperson, and approved 4 ammendments to the organization's Bylaws.
+  Chairperson, and approved 4 amendments to the organization's Bylaws.
 Feature Image: "/uploads/2.png"
 Is image top aligned: true
 Working Group:
