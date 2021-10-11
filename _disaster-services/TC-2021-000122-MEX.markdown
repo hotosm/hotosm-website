@@ -7,7 +7,7 @@ GDACS ID: TC 1000840
 GDACS-level: 2.5 (Red)
 Country:
 - Mexico
-Event type: Tropical Cyclone
+Event type: TC Tropical Cyclone
 Summary Text: Disaster Services is currently monitoring this event near Mexico
 Feature Image: TC Tropical Cyclone
 Status: alert
