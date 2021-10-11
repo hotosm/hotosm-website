@@ -1,0 +1,19 @@
+---
+title: Tropical Cyclone PAMELA-21 Alert
+date: 2021-10-11 14:16:00 Z
+Glide: TC-2021-000122-MEX
+Event Name: Tropical Cyclone PAMELA-21
+GDACS ID: TC 1000840
+GDACS-level: 2.5 (Red)
+Country:
+- Mexico
+Event type: Tropical Cyclone
+Summary Text: Disaster Services is currently monitoring this event near Mexico
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+Source: <a href="https://www.gdacs.org/report.aspx?eventid=1000840&episodeid=4&eventtype=TC"
+  target="_blank">GDACS</a>
+---
+
+"Tropical Cyclone PAMELA-21 can have a high humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability."
