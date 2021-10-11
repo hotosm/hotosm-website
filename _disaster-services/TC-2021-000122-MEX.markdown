@@ -12,7 +12,7 @@ Summary Text: Disaster Services is currently monitoring this event near Mexico
 Feature Image: TC Tropical Cyclone
 Status: alert
 Post-type: update
-Source: <a href="https://www.gdacs.org/report.aspx?eventid=1000840&episodeid=4&eventtype=TC"
+source: <a href="https://www.gdacs.org/report.aspx?eventid=1000840&episodeid=4&eventtype=TC"
   target="_blank">GDACS</a>
 ---
 
