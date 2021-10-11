@@ -1,5 +1,5 @@
 ---
-title: Tropical Cyclone LIONROCK-21
+title: Tropical Cyclone LIONROCK-21 Alert
 date: 2021-10-07 18:53:00 Z
 Glide: TC-2021-000155-VNM
 Event Name: LIONROCK-21
