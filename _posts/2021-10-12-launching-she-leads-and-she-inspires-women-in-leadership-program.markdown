@@ -10,7 +10,7 @@ Person: Sophie Mower
 
 The Open Mapping - Asia Pacific Hub is launching “She Leads & She Inspires,” a program that will engage 100 women between December 2021 and June 2022. The goal of the program is to support women interested in open mapping to grow as leaders within their communities. This includes an opportunity to initiate and lead a humanitarian / development project, use GIS and technical mapping skills, learn digital leadership skills, and more. (The full curriculum will be released in November 2021).
  
-### Approach
+## Approach
 
 To better understand the needs of women already in (or hoping to step into) positions of leadership in the OSM ecosystem and beyond, the Hub conducted several workshops and focus groups to gather insights that will inform the format, content, and resources available for participants in the program.
  
@@ -25,7 +25,7 @@ The topics discussed included:
 * Idea collection for curriculum development
 * Innovation in online participation
  
-### Findings
+## Findings
  
 Certain keywords came up repeatedly in the conversations:
 1. Inspire – 14 (inspiring others to action, inspiring other women inspiring each other, inspiring and motivating)
@@ -43,7 +43,7 @@ Participants agreed on a number of points:
 * Assignments / engagements that involve group activities (such as mentoring and group mapping project) should involve no more than 5-6 participants to encourage peer-to-peer learning and strong relationship building
 * Leadership skills and hard skills (GIS, remote sensing etc) should be equally addressed in the program
 
-### Informed program development
+## Informed program development
  
 Based on the workshop findings, we have developed the following structure for the program:
  
@@ -60,6 +60,6 @@ Based on the workshop findings, we have developed the following structure for th
 * * Group mentoring with a group of between 5-6 participants
 * * Embedded opportunity to apply skills learned during program
  
-### Get involved
+## Get involved
 
 To apply to the program, find more information [here](https://hotosm.bamboohr.com/jobs/view.php?id=61). We are also looking for women leaders who would like to speak, engage or mentor in the program. Could you or someone you know be a good fit? Register your interest by [signing up here](https://docs.google.com/forms/d/e/1FAIpQLSdEyxkOyQF3SsaC_N7XwYumlJqL85ljdjqvYJ3-JUdf8C4xIw/viewform).
