@@ -1,0 +1,18 @@
+---
+title: La Soufriere Volcano Dataset Promotion
+date: 2021-05-25 19:25:00 Z
+Glide: VO-2021-000034-VCT
+Event Name: 
+Country:
+- Saint Vincent and the Grenadines
+Event type: VO Volcanic Eruption
+Summary Text: 'Image used to promote the OSM data available for Siant Vincent and
+  the Grenadines at the time of the Soufriere Volcano eruption. '
+Feature Image: VO-2021-000034-VCT-media-01
+Post-type: Media
+Status: alert
+source: <a href="https://reliefweb.int/disaster/vo-2020-000244-vct" target="_blank">IFRC
+  in Reliefweb</a>
+---
+
+Background: "On 29 December 2020, the La Soufrière volcano alert level in St. Vincent and the Grenadines was elevated due to increased volcanic activity. By 8 April 2021, the alert level increased to Red, with government authorities issuing immediate evacuation orders for nearby communities' volcanoes. On 9 April 2021, La Soufrière erupted for the first time after 40 years, sending an ash plume of 10km into the sky. The resulting ashfall was very heavy in the surrounding areas, reaching nearby islands and halting area air traffic. Subsequent eruptions, lava flows, earthquakes, ash plumes, and seismic activity continued throughout April. In early May, explosions subsided, but seismic activity and the risk of lahars persisted with the increased rainfall. An estimated 23,400 people were displaced to the southern end of St Vincent and the Grenadine and some neighbouring countries. They were originally received in 85 government-run formal collective shelters (4,417 persons) and informal collective shelters like hotels and rented residences. Many are private homes hosted by family and friends (18,927 persons).[...]"
