@@ -1,0 +1,23 @@
+---
+title: Road network gap in Afghanistan using Facebooks AI dataset
+date: 2021-10-12 16:55:00 Z
+Glide: OT-2021-000001-HOT
+Event Name: South/Central Asia Population Movement
+Country:
+- Afghanistan
+- Tajikistan
+- Iran
+- Pakistan
+Event type: OT Other
+Summary Text: These visuals were created to explore activating for the population
+  South/Central Asia Population Movement that took place in August.
+Feature Image: OT-2021-000001-HOT-media-02
+Status: alert
+Post-type: Media
+Visuals:
+- OT-2021-000001-HOT-media-01
+- OT-2021-000001-HOT-media-02
+---
+
+ The images are comparing the existing OSM roads data in Afghanistan against those predicted by <a href="https://github.com/facebookincubator/RapiD" target="_blank">Facebook's AI dataset</a>.
+
