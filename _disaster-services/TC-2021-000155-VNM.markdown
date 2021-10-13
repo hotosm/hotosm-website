@@ -1,16 +1,17 @@
 ---
-title: Tropical Cyclone LIONROCK-21 Alert
+title: Tropical Cyclone LIONROCK-21 & KOMPASU-21 Alert
 date: 2021-10-07 18:53:00 Z
 Glide: TC-2021-000155-VNM
-Event Name: LIONROCK-21
-GDACS ID: TC 1000837
+Event Name: 'LIONROCK-21 & KOMPASU-21 '
+GDACS ID: TC 1000837 & TC 1000839
 GDACS-level: 1.5 (Orange)
 Country:
 - China
 - Laos
+- Philippines
 - Vietnam
 Event type: TC Tropical Cyclone
-Summary Text: Disaster Services is currently monitoring this event in Vietnam
+Summary Text: Disaster Services is currently monitoring this event in South East Asia
 Feature Image: TC Tropical Cyclone
 Status: alert
 Post-type: update
