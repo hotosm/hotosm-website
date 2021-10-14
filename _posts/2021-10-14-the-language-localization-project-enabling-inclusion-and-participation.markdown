@@ -1,6 +1,12 @@
 ---
 title: 'The Language Localization Project: Enabling Inclusion and Participation'
 date: 2021-10-14 18:47:00 Z
+categories:
+- community
+tags:
+- localization
+- language
+- Community
 Summary Text: 'Together with the local communities and contributors from Vietnam,
   Madagascar, and Mozambique, as well as the Open Mapping Hubs in the Asia-Pacific
   and East & Southern Africa, the Localization Project aims to develop baseline data
