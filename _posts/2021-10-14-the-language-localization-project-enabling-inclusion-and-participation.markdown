@@ -74,6 +74,7 @@ With this, we aim to develop a baseline understanding of the process and its cha
 ### How you can get involved:
 
 * Read the [project document](https://docs.google.com/document/d/1GxIKnkfwY8usha77KwHqgqR9UpDrU2yn1itLQfcETo0/edit?usp=sharing) and comment your thoughts directly to the document or on the Humanitarian Open Mapping Community WG Forum [thread](https://loomio.hotosm.org/d/jys7qru2/launching-language-localization-as-an-inclusion-and-participatory-enabler)
+
 * Suggest people or organizations (or articles or initiatives) that you think can advise us regarding this project (share them in this [thread](https://loomio.hotosm.org/d/jys7qru2/launching-language-localization-as-an-inclusion-and-participatory-enabler)).
 
 ### Special thanks to local community collaborators:
@@ -82,8 +83,7 @@ With this, we aim to develop a baseline understanding of the process and its cha
 
 * Madagascar: Faneva and Dolly
 
-* Mozambique: Rodolfo Junior, Pechiçoane Pechiço, Dinércia Macaringue,
-  Edmilson Fuel, Daniel Mapsanganhe, Emerson Lopes, Rosário Mulhui and Vânia Muianga.
+* Mozambique: Rodolfo Junior, Pechiçoane Pechiço, Dinércia Macaringue, Edmilson Fuel, Daniel Mapsanganhe, Emerson Lopes, Rosário Mulhui and Vânia Muianga.
 
 ### Important links:
 
