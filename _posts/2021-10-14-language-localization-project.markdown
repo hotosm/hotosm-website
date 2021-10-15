@@ -41,7 +41,7 @@ Country:
 - Mozambique
 ---
 
-**Versions:** [French](https://www.openstreetmap.org/user/arnalielsewhere/diary/397845) |[Portuguese](https://www.openstreetmap.org/user/arnalielsewhere/diary/397846) |
+**Versions:** [French](https://www.openstreetmap.org/user/arnalielsewhere/diary/397845) \|[Portuguese](https://www.openstreetmap.org/user/arnalielsewhere/diary/397846)
 
 Together with the local communities and contributors from Vietnam, Madagascar, and Mozambique, as well as the Open Mapping Hubs in the Asia-Pacific and East & Southern Africa, the HOT Community Team is pleased to announce the collaborative Project: [Localization as an Inclusion and Participatory Enabler](https://docs.google.com/document/d/1GxIKnkfwY8usha77KwHqgqR9UpDrU2yn1itLQfcETo0/edit?usp=sharing) (also available in [French](https://docs.google.com/document/d/1WZg65ojx5nK0ZOxXREs64M5fqmYhAPUYhaRtthgCveU/edit?usp=sharing), [Portuguese](https://docs.google.com/document/d/1E9XpelfSkaOO-vAYIzqfCdEFjGAUfwWmHgyaXkEaB3k/edit?usp=sharing) and [Spanish](https://docs.google.com/document/d/1BsmwOQl53b2cp91vw8D8Ndl4q1iJ10pMxJQQ21F7QzI/edit)).
 
