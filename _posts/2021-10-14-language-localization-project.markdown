@@ -81,7 +81,7 @@ With this, we aim to develop a baseline understanding of the process and its cha
 
 ### Special thanks to local community collaborators:
 
-* Vietnam: Tony and Huy
+* Vietnam: Tony, Huy and Grab Vietnam Map Operation Team 
 
 * Madagascar: Faneva and Dolly
 
