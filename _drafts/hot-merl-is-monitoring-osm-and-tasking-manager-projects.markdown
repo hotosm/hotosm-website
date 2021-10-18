@@ -34,7 +34,7 @@ This can be used to form a basic understanding of the access the given area has 
 
 ![HEIGIT 1.png](/uploads/HEIGIT%201.png)
 
-In the case of Peru one can observe stable growth in the number of major roads mapped and rapid growth in the number of buildings mapped from the end of 2015 until today. Interestingly, there are growth spurts at different times for each related tag. This indicates that the mapping activity for Peru is context specific and the increase of mapped objects may differ from the overall mapping activities.
+In the case of Peru, one can observe stable growth in the number of major roads mapped and rapid growth in the number of buildings mapped from the end of 2015 until today. Interestingly, there are growth spurts at different times for each related tag. This indicates that the mapping activity for Peru is context-specific and the increase of mapped objects may differ from the overall mapping activities.
 
 ## Follow Up and Get Involved
 
@@ -46,7 +46,7 @@ Contact Person at HeiGIT: [Benjamin Herfort](mailto:benjamin.herfort@heigit.org)
 
 Contact Person at HOT: [Sara Amadi](mailto:sara.amadi@hotosm.org)
 
-This website relies on information from OpenStreetMap (OSM) that has been processed using the ohsome OSM History Data Analytics Platform developed by [HeiGIT](https://heigit.org/). The aim of the [ohsome](https://ohsome.org) framework is to make OpenStreetMap’s full-history data more easily accessible for various kinds of OSM data analytics tasks, such as data quality analysis, on a regional, country-wide, or global scale. 
+This website relies on information from OpenStreetMap (OSM) that has been processed using the [ohsome](https://ohsome.org) OSM History Data Analytics Platform developed by [HeiGIT](https://heigit.org/). The aim of the ohsome framework is to make OpenStreetMap’s full-history data more easily accessible for various kinds of OSM data analytics tasks, such as data quality analysis, on a regional, country-wide, or global scale. 
 
 Related research work:
 Herfort, B., Lautenbach, S., Porto de Albuquerque, J., Anderson, J., Zipf, A. (2021): [The evolution of humanitarian mapping within the OpenStreetMap community](https://www.nature.com/articles/s41598-021-82404-z). Scientific Reports 11, 3037 (2021). DOI: 10.1038/s41598-021-82404-z 
