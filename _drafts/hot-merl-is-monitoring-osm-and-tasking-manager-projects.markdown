@@ -1,7 +1,11 @@
 ---
 title: HOT-MERL is Monitoring OSM and Tasking Manager Projects
 date: 2021-10-18 08:57:00 Z
+Summary Text: HeiGIT and HOT have partnered and extended the Humanitarian OSM Stats
+  website to help relay mapping statistics to the public. It includes data, not only
+  from HOT Tasking Manager projects, but also from all the other OSM contributors.
 Feature Image: "/uploads/Screenshot%202021-10-18%20123351.png"
+Person: Benjamin Herfort
 ---
 
 In 2020, the Humanitarian OpenStreetMap Team (HOT) was selected for The Audacious Project, a collaborative philanthropic initiative that serves as a springboard for social impact on a grand scale. This allows HOT to expand its activities and scale up support to local OpenStreetMap (OSM) mapping communities in 94 countries at high risk of disasters or experiencing multidimensional poverty.
@@ -43,13 +47,13 @@ Check out the website here: [https://humstats.heigit.org/hot-priority-countries.
 
 Get involved: [https://tasks.hotosm.org/](https://tasks.hotosm.org/)
 
-Contact Person at HeiGIT: [Benjamin Herfort](mailto:benjamin.herfort@heigit.org) or check the [HeiGIT website](https://heigit.org/contact/)
+**Contact Person at HeiGIT:** [Benjamin Herfort](mailto:benjamin.herfort@heigit.org) or check the [HeiGIT website](https://heigit.org/contact/)
 
-Contact Person at HOT: [Sara Amadi](mailto:sara.amadi@hotosm.org)
+**Contact Person at HOT:** [Sara Amadi](mailto:sara.amadi@hotosm.org)
 
 This website relies on information from OpenStreetMap (OSM) that has been processed using the [ohsome](https://ohsome.org) OSM History Data Analytics Platform developed by [HeiGIT](https://heigit.org/). The aim of the ohsome framework is to make OpenStreetMap’s full-history data more easily accessible for various kinds of OSM data analytics tasks, such as data quality analysis, on a regional, country-wide, or global scale. 
 
-Related research work:
+## Related research work
 Herfort, B., Lautenbach, S., Porto de Albuquerque, J., Anderson, J., Zipf, A. (2021): [The evolution of humanitarian mapping within the OpenStreetMap community](https://www.nature.com/articles/s41598-021-82404-z). Scientific Reports 11, 3037 (2021). DOI: 10.1038/s41598-021-82404-z 
 
 Schott, M., Grinberger, A.Y., Lautenbach, S., Zipf, A. (2021): [The Impact of Community Happenings in OpenStreetMap — Establishing a Framework for Online Community Member Activity Analyses](https://www.mdpi.com/2220-9964/10/3/164). ISPRS Int. J. Geo-Inf. 2021, 10, 164. [https://doi.org/10.3390/ijgi10030164](https://doi.org/10.3390/ijgi10030164) 
