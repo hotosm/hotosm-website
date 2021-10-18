@@ -1,6 +1,7 @@
 ---
 title: HOT-MERL is Monitoring OSM and Tasking Manager Projects
 date: 2021-10-18 08:57:00 Z
+Feature Image: "/uploads/Screenshot%202021-10-18%20123351.png"
 ---
 
 In 2020, the Humanitarian OpenStreetMap Team (HOT) was selected for The Audacious Project, a collaborative philanthropic initiative that serves as a springboard for social impact on a grand scale. This allows HOT to expand its activities and scale up support to local OpenStreetMap (OSM) mapping communities in 94 countries at high risk of disasters or experiencing multidimensional poverty.
@@ -38,7 +39,7 @@ In the case of Peru, one can observe stable growth in the number of major roads 
 
 ## Follow Up and Get Involved
 
-Check out the website here: [https://humstats.heigit.org/hot-audacious.html](https://humstats.heigit.org/hot-audacious.html)
+Check out the website here: [https://humstats.heigit.org/hot-priority-countries.html](https://humstats.heigit.org/hot-priority-countries.html)
 
 Get involved: [https://tasks.hotosm.org/](https://tasks.hotosm.org/)
 
