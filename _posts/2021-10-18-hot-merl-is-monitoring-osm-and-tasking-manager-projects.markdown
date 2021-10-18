@@ -44,9 +44,9 @@ In the case of Peru, one can observe stable growth in the number of major roads 
 
 ## Follow Up and Get Involved
 
-Check out the website here: [https://humstats.heigit.org/hot-priority-countries.html](https://humstats.heigit.org/hot-priority-countries.html)
+**Check out the website here:** [https://humstats.heigit.org/hot-priority-countries.html](https://humstats.heigit.org/hot-priority-countries.html)
 
-Get involved: [https://tasks.hotosm.org/](https://tasks.hotosm.org/)
+**Get involved:** [https://tasks.hotosm.org/](https://tasks.hotosm.org/)
 
 **Contact Person at HeiGIT:** [Benjamin Herfort](mailto:benjamin.herfort@heigit.org) or check the [HeiGIT website](https://heigit.org/contact/)
 
