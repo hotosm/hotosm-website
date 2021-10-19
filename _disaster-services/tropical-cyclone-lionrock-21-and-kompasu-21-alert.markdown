@@ -18,7 +18,7 @@ Resources: N/A
 Status: size-up
 Phase: Phase 1
 Wiki-page: N/A
-Post-type: timeline
+Post-type: update
 ---
 
 <h2>Size-up Details</h2>
