@@ -3,7 +3,7 @@ title: |-
   Launching: She Leads and She Inspires
   - Women in Leadership Program
 date: 2021-10-12 11:10:00 Z
-Feature Image: "/uploads/women%20in%20leadership%20(Twitter%20Post)%20(4).png"
+Feature Image: "/uploads/women%20in%20leadership%20(Twitter%20Post)%20(6)%20(1).png"
 Person: Sophie Mower
 ---
 
