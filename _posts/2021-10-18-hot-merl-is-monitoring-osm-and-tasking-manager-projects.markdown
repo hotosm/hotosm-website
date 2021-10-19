@@ -36,6 +36,7 @@ For example, there is a tendency that shows the mapping activity is decreasing a
 
 ## Local Knowledge
 Finally, Local Knowledge, in this case, includes the number of villages, cities, and neighborhood names added within a given country or region, as well as the number of facilities added to that area, aggregated by the specific facility.
+
 This can be used to form a basic understanding of the access the given area has to healthcare and other important amenities and how many and what kinds of places, e.g. cities or settlements, are there.
 
 ![HEIGIT 1.png](/uploads/HEIGIT%201.png)
@@ -50,7 +51,7 @@ In the case of Peru, one can observe stable growth in the number of major roads 
 
 **Contact Person at HeiGIT:** [Benjamin Herfort](mailto:benjamin.herfort@heigit.org) or check the [HeiGIT website](https://heigit.org/contact/)
 
-**Contact Person at HOT:** [Sara Amadi](mailto:sara.amadi@hotosm.org)
+**Contact Person at HOT:** [Liz Chamberlain](mailto:liz.chamberlain@hotosm.org)
 
 This website relies on information from OpenStreetMap (OSM) that has been processed using the [ohsome](https://ohsome.org) OSM History Data Analytics Platform developed by [HeiGIT](https://heigit.org/). The aim of the ohsome framework is to make OpenStreetMap’s full-history data more easily accessible for various kinds of OSM data analytics tasks, such as data quality analysis, on a regional, country-wide, or global scale. 
 
