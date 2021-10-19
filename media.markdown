@@ -54,6 +54,17 @@ News:
   - Title: How Online Mapmakers Are Helping the Red Cross Save Lives in the Philippines
     Source: The Atlantic
     Link: https://www.theatlantic.com/technology/archive/2013/11/how-online-mapmakers-are-helping-the-red-cross-save-lives-in-the-philippines/281366/
+  - Title: These Maps Show Every LGBTQI+ Safe Space, HIV Facility, and Story in the
+      Philippines
+    Source: Esquire Philippines
+    Link: https://www.esquiremag.ph/culture/tech/mapbeks-lgbtq-a00225-20210720?ref=feed_1&fbclid=IwAR1-or3qcPHigqDHvPsDdCiUFmjFA9TqCcMeC6dlhePU9ceebq_DgKBp9SY
+  - Title: Putting the World’s Slums on the Map
+    Source: Bloomberg - CityLab
+    Link: https://www.bloomberg.com/news/articles/2021-07-26/how-the-world-s-slums-can-get-back-on-the-map
+  - Title: 'Open Data, Local Knowledge and Geospatial Technologies: Public Participation
+      is key to disaster recovery'
+    Source: Directions Magazine
+    Link: https://www.directionsmag.com/article/11034
   Nav ID: news
 layout: media
 ---
