@@ -7,9 +7,12 @@ Country:
 - Turkey
 Duration:
   Start Date: 2020-10-01 00:00:00 Z
+  End Date: 2021-03-31 00:00:00 Z
 Micrograntee: true
 ---
 
 **Facebook Community Impact Microgrant**
 
 The [Yer Çizenler Mapping for Everyone Association](https://twitter.com/yercizenler) is a member of the Turkish OSM Community. During the Community Impact Microgrant project, Yer Çizenler will create resources, translate data tools and software into Turkish, and facilitate training events for the community to teach them how to edit and update open digital tools. The aim of the project is to create a sustainable volunteer base. If you speak Turkish and want to contribute, or if you can further support this cause, please don’t hesitate to contact the project coordinator, [Oğuzhan Er](mailto:oguzhan.er@yercizenler.org).
+
+The project period has come to a close, but the communities work at localizing resources into Turkish is ongoing!
