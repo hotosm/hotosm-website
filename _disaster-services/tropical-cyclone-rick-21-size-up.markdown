@@ -15,6 +15,8 @@ Resources: N/A
 Status: size-up
 Phase: Phase 1
 Post-type: timeline
+source: <a href="https://www.gdacs.org/report.aspx?eventid=1000841&episodeid=9&eventtype=TC"
+  target="_blank">GDACS</a>
 ---
 
 <h2>Size-up Details</h2>
