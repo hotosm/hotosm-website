@@ -1,0 +1,18 @@
+---
+title: Tropical Cyclone RICK-21 Alert
+date: 2021-10-22 19:39:00 Z
+Glide: TC-2021-000002-HOT
+Event Name: Tropical Cyclone RICK-21
+GDACS ID: TC 1000841
+GDACS-level: 1.5 (Orange)
+Country: Mexico
+Event type: TC Tropical Cyclone
+Summary Text: Disaster Services is currently monitoring this event near Mexico
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+source: <a href="https://www.gdacs.org/report.aspx?eventid=1000841&episodeid=9&eventtype=TC"
+  target="_blank">GDACS</a>
+---
+
+Tropical Cyclone RICK-21 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability.
