@@ -5,7 +5,8 @@ Glide: TC-2021-000002-HOT
 Event Name: Tropical Cyclone RICK-21
 GDACS ID: TC 1000841
 GDACS-level: 1.5 (Orange)
-Country: Mexico
+Country:
+- Mexico
 Event type: TC Tropical Cyclone
 Summary Text: Disaster Services is currently monitoring this event near Mexico
 Feature Image: TC Tropical Cyclone
