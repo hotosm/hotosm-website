@@ -2,9 +2,9 @@
 title: HOT-MERL is Monitoring OSM and Tasking Manager Projects Across our Priority
   Countries
 date: 2021-10-18 08:57:00 Z
-Summary Text: HeiGIT and HOT have partnered and extended the Humanitarian OSM Stats
-  website to help relay mapping statistics to the public. It includes data, not only
-  from HOT Tasking Manager projects, but also from all the other OSM contributors.
+Summary Text: HeiGIT and HOT have partnered to extend the Humanitarian OSM Stats website
+  to help relay mapping statistics to the public. It includes data, not only from
+  HOT Tasking Manager projects, but also from all the other OSM contributors.
 Feature Image: "/uploads/Screenshot%202021-10-18%20123351.png"
 Person: Benjamin Herfort
 ---
