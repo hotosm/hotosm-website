@@ -1,7 +1,7 @@
 ---
 title: RFP - OpenAerialMap v2 Design
 date: 2021-10-27 19:47:00 Z
-Deadline Date: 2021-11-15 23:59:00 Z
+Deadline Date: 2021-11-21 23:59:00 Z
 Apply Form Link: https://cdn.hotosm.org/website/OpenAerialMap-v2-Design-SoW.pdf
 Page Contact:
   Contact Email: info@openaerialmap.org
@@ -12,7 +12,7 @@ The Humanitarian OpenStreetMap Team is soliciting proposals for a design consult
 
 The [scope of work is available here](https://cdn.hotosm.org/website/OpenAerialMap-v2-Design-SoW.pdf).
 
-To apply, please send a proposal in ODF or PDF format (not exceeding 20 pages) to info@openaerialmap.org that includes the following information by November 15, 2021:
+To apply, please send a proposal in ODF or PDF format (not exceeding 20 pages) to info@openaerialmap.org that includes the following information by November 21, 2021:
 
 - Consultant presentation
 - Previous relevant experience
