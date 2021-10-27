@@ -1,5 +1,5 @@
 ---
-title: Data Quality Control and Assurance
+title: Quality Control and Assurance
 date: 2020-02-04 00:00:00 Z
 position: 3
 Coordination: https://docs.google.com/document/d/1MedyarHZowd40m8KbdQlKOoHa66gg-1I-5eVvFFRlNA/edit?usp=sharing
@@ -8,4 +8,4 @@ Chat: http://slack.hotosm.org/
 Details: https://docs.google.com/document/d/1sGJszOVd-ikVfAhTcfGj84F2fZRg-DlV55GDfYnYWl0/edit?usp=sharing
 ---
 
-The data quality working group is organized to investigate tools and workflows to improve data quality and mapper experience, in order to develop and recommend solutions to related validation challenges. Contact via the Slack #quality-control channel.
+The data quality working group is organized to investigate tools and workflows to improve data quality and mapper experience, in order to develop and recommend solutions to related validation challenges. Contact via the Slack #quality-control channel or via email [dataquality@hotosm.org](mailto:dataquality@hotosm.org).
