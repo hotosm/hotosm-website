@@ -29,8 +29,9 @@ Mapping will focus on filling areas with little to no Buildings data to support 
 Based on mapping needs, the following areas in southwestern Haiti will be part of this campaign:
 
 <strong>- Nippes</strong><br>
-<strong>- Sud-Est</strong><br>
+<strong>- Ouest</strong><br>
 <strong>- Sud</strong><br>
+<strong>- Grand'Anse</strong><be>
 
 Preemptively set exports at <a href="https://data.humdata.org/organization/hot?q=haiti">HDX</a> to update every day.
 
