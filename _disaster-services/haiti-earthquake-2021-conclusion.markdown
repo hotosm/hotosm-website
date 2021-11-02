@@ -9,7 +9,7 @@ GDACS ID: EQ 1281677
 Country: Haiti
 Event Type: EQ Earthquake
 Summary Text: The remote mapping in response to the earthquake in Haiti has concluded.
-Feature Image: EQ Earthquake
+Feature Image: "/uploads/EQ%20Earthquake%20icon.png"
 Post-type: timeline
 Campaign: https://tasks.hotosm.org/explore?campaign=Haiti%20Earthquake%202021
 Timeline: August 14-October 28
