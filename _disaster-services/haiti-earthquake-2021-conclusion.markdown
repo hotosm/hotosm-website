@@ -7,7 +7,7 @@ Event Name: Haiti Earthquake 2021
 GDACS-level: Red 3.0
 GDACS ID: EQ 1281677
 Country: Haiti
-Event Type: EQ Earthquake
+Event type: EQ Earthquake
 Summary Text: The remote mapping in response to the earthquake in Haiti has concluded.
 Feature Image: https://cdn.hotosm.org/website/EQ+Earthquake.png
 Post-type: timeline
