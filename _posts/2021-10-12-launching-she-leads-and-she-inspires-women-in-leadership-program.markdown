@@ -1,12 +1,10 @@
 ---
-title: |-
-  Launching: She Leads and She Inspires - Women in Leadership Program
+title: 'Launching: She Leads and She Inspires - Women in Leadership Program'
 date: 2021-10-12 11:10:00 Z
 Feature Image: "/uploads/women%20in%20leadership%20(Twitter%20Post)%20(6)%20(1).png"
 Person: Sophie Mower
 ---
 
- 
 The Open Mapping - Asia Pacific Hub is launching “She Leads & She Inspires,” a program that will engage 100 women between December 2021 and June 2022. The goal of the program is to support women interested in open mapping to grow as leaders within their communities. This includes an opportunity to initiate and lead a humanitarian / development project, use GIS and technical mapping skills, learn digital leadership skills, and more. (The full curriculum will be released in November 2021).
  
 ## Approach
