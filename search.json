@@ -58,7 +58,7 @@ layout:
 {
 "type":"News",
 "title":"{{ post.title | escape }}",
-"summary":"{{ post['Summary Text'] | escape | truncatewords: 40 | strip | strip_html | remove: "\" | prepend: ' ' }}",
+"summary":"{{ post['Summary Text'] | escape | truncatewords: 40 | strip | strip_html | strip_newlines | remove: "\" | prepend: ' ' }}",
 "subtitle":"{{ post.Person | join: ', ' | prepend: ' '}}",
 "url":"{{ post.url }}",
 "date":"{{ post.date }}"
