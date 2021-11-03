@@ -1,7 +1,7 @@
 ---
 title: RSVP Today for the HOT Summit 2021
 date: 2021-11-03 14:49:00 Z
-Project Summary Text: On 22 November 2021, HOT hosts its 7th global summit dedicated
+Project Summary Text: On 22 November 2021, HOT hosts its 7th global Summit dedicated
   to humanitarian action and community development through open mapping.
 Feature Image: "/uploads/Summit%20bannersposter%20website%20(1200%20x%20500%20px)-5c7f92.png"
 Duration:
@@ -9,7 +9,7 @@ Duration:
   End Date: 2021-11-22 00:00:00 Z
 ---
 
-The summit brings together local and global communities, humanitarian and development agencies, academics, volunteers and contributors, and government and private sector partners to share, explore, and discuss how to leverage OpenStreetMap and open mapping for social impact and change.
+The Summit brings together local and global communities, humanitarian and development agencies, academics, volunteers and contributors, and government and private sector partners to share, explore, and discuss how to leverage OpenStreetMap and open mapping for social impact and change.
 
 This year, our theme is “The Evolution of Local Humanitarian Open Mapping Ecosystems: 
 Understanding Community, Collaboration, and Contribution”. We are proud to have more than 30 different community representatives and partners joining us to share their work and experiences and engage in discussion on this topic with attendees from across the world. 
