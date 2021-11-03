@@ -1,5 +1,5 @@
 ---
-title: HOT Summit 2021
+title: RSVP Today for the HOT Summit 2021
 date: 2021-11-03 14:49:00 Z
 Project Summary Text: On 22 November 2021, HOT hosts its 7th global summit dedicated
   to humanitarian action and community development through open mapping.
