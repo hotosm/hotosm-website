@@ -11,7 +11,7 @@ Page Link:
 layout: page
 ---
 
-Volunteer humanitarian mappers are making a real difference on the ground in the [areas we map](/our-work/). We can not thank you enough for your help and contributions. The most important thing is that if you have any questions, please ask! We love to answer questions, it helps the whole community when people ask questions.
+Volunteer humanitarian mappers are making a real difference on the ground in the [areas we map](https://www.hotosm.org/our-work). We can not thank you enough for your help and contributions. The most important thing is that if you have any questions, please ask! We love to answer questions, it helps the whole community when people ask questions.
 
 You can jumpstart your mapping journey using the Tasking Manager through the **[Learn page](https://tasks.hotosm.org/learn/)** which has videos and manuals for beginners, validators and managers.
 
