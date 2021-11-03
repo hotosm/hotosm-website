@@ -9,7 +9,7 @@ Banner:
   Link Copy: Find Out How
   URL: https://www.hotosm.org/projects/audacious/
 Project:
-- HOT Summit 2021
+- RSVP Today for the HOT Summit 2021
 - 'Mwanza Urban Risks Mapping: Ramani Mwanza'
 - 'Integrating OpenStreetMap data into Caribbean disaster response efforts: GeoCRIS'
 Home Module 1:
