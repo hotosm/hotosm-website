@@ -3,7 +3,7 @@ title: HOT Summit 2021
 date: 2021-11-03 14:49:00 Z
 Project Summary Text: On 22 November 2021, HOT hosts its 7th global summit dedicated
   to humanitarian action and community development through open mapping.
-Feature Image: "/uploads/Summit%20banners%20poster%20HopIn.png"
+Feature Image: "/uploads/Summit%20bannersposter%20website%20(1200%20x%20500%20px).png"
 Duration:
   Start Date: 2021-11-22 00:00:00 Z
   End Date: 2021-11-22 00:00:00 Z
