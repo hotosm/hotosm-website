@@ -1,9 +1,10 @@
 ---
 title: Sen Roxas
 date: 2020-03-17 02:38:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/HOT_PH05.png
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Training Manager
 Country: Philippines
 Team: Philippines
