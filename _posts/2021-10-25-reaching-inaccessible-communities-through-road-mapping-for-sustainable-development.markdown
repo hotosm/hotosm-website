@@ -4,6 +4,7 @@ date: 2021-10-25 15:36:00 Z
 Summary Text: Since 2017, HOT has partnered with Facebook to build up and improve
   the data in OSM, particularly for countries in Southeast Asia where HOT has extensive
   experience in generating open geodata for humanitarian actions.
+Feature Image: "/uploads/Facebook%20Blog%203.png"
 Person: Carter Draper
 ---
 
@@ -32,10 +33,6 @@ Now, the project is being implemented remotely by two teams. [POI](https://opens
 By providing tools that can accelerate mapping and amplify the work of human mappers, this project supports the goal of mapping an area home to one billion people.
 
 ![Facebook Blog 2.png](/uploads/Facebook%20Blog%202.png)
-*Workshop in Dodoma, Tanzania*
-
-![Facebook Blog 3.png](/uploads/Facebook%20Blog%203.png)
-*Mapathon, Vietnam*
 
 ## Project Learning and Benefits
 * We encountered a lot of community feedback from changeset discussions. This feedback helps us improve our workflows. Feedback from countries like [Vietnam](https://www.openstreetmap.org/changeset/61700324) and [Tanzania](https://www.openstreetmap.org/changeset/97967115#map=15/-3.7186/36.7254) is managed using [Pascal Neis tools](https://resultmaps.neis-one.org/osm-discussions#1/-8/9).
@@ -45,4 +42,6 @@ By providing tools that can accelerate mapping and amplify the work of human map
 
 *The ongoing project runs through the second quarter of 2022, and with the progress and value that the project is adding to businesses and social life, we hope to expand the work through our partnership with Facebook to other countries and regions across Africa.*
 
+*Photo 1: Mapathon, Vietnam*
 
+*Photo 2: Workshop in Dodoma, Tanzania*
