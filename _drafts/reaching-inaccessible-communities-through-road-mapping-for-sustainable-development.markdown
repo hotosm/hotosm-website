@@ -1,9 +1,11 @@
 ---
 title: Reaching Inaccessible Communities Through Road Mapping for Sustainable Development
 date: 2021-11-10 15:36:00 Z
+Summary Text: Since 2017, HOT has partnered with Facebook to build up and improve
+  the data in OSM, particularly for countries in Southeast Asia where HOT has extensive
+  experience in generating open geodata for humanitarian actions.
+Person: Carter Draper
 ---
-
-Since 2017, HOT has partnered with Facebook to build up and improve the data in OSM, particularly for countries in Southeast Asia where HOT has extensive experience in generating open geodata for humanitarian actions.
 
 [Facebook](https://wiki.openstreetmap.org/wiki/Facebook_(company)) has been running a project to perfect various editing tools like [AI-Assisted Road Tracing](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Facebook#Sub-contracted_Teams), vandalism and profanity cleanup, and [MapRoulette](https://maproulette.org/) Challenges within OpenStreetMap.
 
