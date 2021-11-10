@@ -5,7 +5,12 @@ Summary Text: Since 2017, HOT has partnered with Facebook to build up and improv
   the data in OSM, particularly for countries in Southeast Asia where HOT has extensive
   experience in generating open geodata for humanitarian actions.
 Feature Image: "/uploads/Facebook%20Blog%203.png"
-Person: Carter Draper
+Person:
+- Carter Draper
+- Dinar Adiatma
+- Tonny John Kanyenye
+Project:
+- 'HOT and Facebook: Collaboration for open maps and free technology'
 ---
 
 [Facebook](https://wiki.openstreetmap.org/wiki/Facebook_(company)) has been running a project to perfect various editing tools like [AI-Assisted Road Tracing](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Facebook#Sub-contracted_Teams), vandalism and profanity cleanup, and [MapRoulette](https://maproulette.org/) Challenges within OpenStreetMap.
