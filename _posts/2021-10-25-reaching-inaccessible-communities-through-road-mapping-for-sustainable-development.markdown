@@ -1,6 +1,6 @@
 ---
 title: Reaching Inaccessible Communities Through Road Mapping for Sustainable Development
-date: 2021-11-10 15:36:00 Z
+date: 2021-10-25 15:36:00 Z
 Summary Text: Since 2017, HOT has partnered with Facebook to build up and improve
   the data in OSM, particularly for countries in Southeast Asia where HOT has extensive
   experience in generating open geodata for humanitarian actions.
