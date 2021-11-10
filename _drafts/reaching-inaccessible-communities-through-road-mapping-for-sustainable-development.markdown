@@ -21,7 +21,7 @@ So far, OSM roads data have been used to:
 ![Facebook Blog 1-d68e41.png](/uploads/Facebook%20Blog%201-d68e41.png)
 *Deployed Methodology in Road Mapping*
 
-Using these tools, a total of 791,355 km of roads and 913,544 buildings have been mapped from October 2019 to September 2021, covering countries in Southern Asia - Malaysia, Vietnam, Indonesia to Tanzania in Eastern Africa.
+Using these tools, a total of **791,355 km of roads** and **913,544 buildings** have been mapped from October 2019 to September 2021, covering countries in Southern Asia - Malaysia, Vietnam, Indonesia to Tanzania in Eastern Africa.
 
 ## Where are we?
 
