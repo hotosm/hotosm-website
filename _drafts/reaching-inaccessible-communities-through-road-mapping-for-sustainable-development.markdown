@@ -32,7 +32,7 @@ Now, the project is being implemented remotely by two teams. [POI](https://opens
 By providing tools that can accelerate mapping and amplify the work of human mappers, this project supports the goal of mapping an area home to one billion people.
 
 ![Facebook Blog 2.png](/uploads/Facebook%20Blog%202.png)
-*Workshop in Dodoma, Tanzania *
+*Workshop in Dodoma, Tanzania*
 
 ![Facebook Blog 3.png](/uploads/Facebook%20Blog%203.png)
 *Mapathon, Vietnam*
