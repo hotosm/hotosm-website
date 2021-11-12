@@ -2,7 +2,10 @@
 title: 'Launching: She Leads and She Inspires - Women in Leadership Program'
 date: 2021-10-12 11:10:00 Z
 Feature Image: "/uploads/women%20in%20leadership%20(Twitter%20Post)%20(6)%20(1).png"
-Person: Sophie Mower
+Person:
+- Sophie Mower
+- Mikko Tamura
+- Awantika Pal
 ---
 
 **“I raise up my voice - not so I can shout but so that those without a voice can be heard...we cannot succeed when half of us are held back.”**
@@ -32,12 +35,12 @@ To better understand the needs of women already in (or hoping to step into) posi
 In total, 26 participants were involved in the community consultation process; 20 of whom were women and six of whom were men; 13 of whom were from the OSM ecosystem; and 16 of whom were from the Asia Pacific region.
  
 The topics discussed included:
-·   	Characteristics of women leaders
-·   	Opportunities for growth beyond the program. 
-·   	Defining successful women’s leadership and how that success can be achieved
-·   	Experiences of good and bad leadership programs
-·   	Idea collection for curriculum development
-·   	Innovation in online participation
+   	* Characteristics of women leaders
+   	* Opportunities for growth beyond the program. 
+   	* Defining successful women’s leadership and how that success can be achieved
+   	* Experiences of good and bad leadership programs
+   	* Idea collection for curriculum development
+   	* Innovation in online participation
  
 **Findings**
  
