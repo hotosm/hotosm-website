@@ -21,7 +21,10 @@ When we hear quotes like that of Malala’s, of course, we are struck by her mes
 However, when we asked women leaders in a focus group discussion what they felt were important attributes for women to learn, one of the participants said “Being vocal (As a girl we are not taught to take up space. Create an environment to be vocal and communicate)”. For me, the problem suddenly halved, quartered, and halved again. I heard the same message that Malala was communicating but in different words and in a context that I was comfortable with. I wasn’t just inspired to take action, but it helped me realize how women across the globe have similar experiences, and how important it is to take action together as women, and perhaps even scale that action.
 
 In line with that, the Open Mapping Hub - Asia Pacific is launching ***“She Leads & She Inspires”*** - a program that will engage 100 women between December 2021 and June 2022.  The program has been co-created with women operating in the OSM ecosystem to help support the emergence of women leaders in what (let’s face it!) feels like a male dominated arena. By starting small, and raising the voices of one, two, maybe a hundred women through this program, we can support women to stop holding back, to succeed, to fail fast and gracefully, to lead and to inspire. The goal of the program is to support women interested in open mapping to grow as leaders within their communities. This includes an opportunity to initiate and lead a humanitarian / development project, use GIS and technical mapping skills, learn how to lead in virtual ecosystems, and more. (The full curriculum will be released in December 2021).
- 
+ ![She leads & She inspires - infographic (5).png](/uploads/She%20leads%20&%20She%20inspires%20-%20infographic%20(5).png)
+
+![She leads & She inspires - infographic (6).png](/uploads/She%20leads%20&%20She%20inspires%20-%20infographic%20(6).png)
+
 **The program is split into three core components:**
 * A 2 day intensive workshop where participants will hear from experienced and inspiring women leaders from the geospatial ecosystem (scheduled for 18-19 December, 2021)
 * Month-by-month learning topics that include interactive training and personal assignments (January - June 2022)
@@ -79,7 +82,7 @@ opportunity for funding?)
   * Group mentoring with a group of between 5-6 participants
   * Embedded opportunity to apply skills learned during the program
  
-**Impact **
+**Impact**
 
 At the end of the six months, we anticipate that the participants will be able to carve out their own destinies as inspiring OSM leaders. Participants will be trained, mentored and motivated through professional development opportunities by women leaders who are working / operating within the geospatial ecosystem, managing projects, building networks, and inspiring the next generation of women leaders. 
 
@@ -97,8 +100,8 @@ At the end of the six months, we anticipate that the participants will be able t
 
 If the answer to these questions is YES! We welcome you, your colleagues, peers, networks and friends to apply for She Leads & She Inspires. Together, we can respond to local challenges, strengthen our OSM communities, and work together to close the divide for women in leadership positions.
 
-*[Apply today!
-]*(https://hotosm.bamboohr.com/jobs/view.php?id=61)
+*[[Apply today](https://hotosm.bamboohr.com/jobs/view.php?id=61)!
+]*
 
 **Get involved as a speaker, mentor or trainer**
 
@@ -108,5 +111,5 @@ Do you have some valuable insights on how to navigate the geospatial ecosystem a
  
 We are currently looking for inspiring women to speak, engage or mentor in the program. The topics of the talk can be very flexible but would need to pertain to leadership, mapping and/or geospatial in some way. 
  
-*[Tell us you’re interested! ]*(https://docs.google.com/forms/d/e/1FAIpQLSdEyxkOyQF3SsaC_N7XwYumlJqL85ljdjqvYJ3-JUdf8C4xIw/viewform)
+*[[Tell us you’re interested!](https://docs.google.com/forms/d/e/1FAIpQLSdEyxkOyQF3SsaC_N7XwYumlJqL85ljdjqvYJ3-JUdf8C4xIw/viewform) ]*
 
