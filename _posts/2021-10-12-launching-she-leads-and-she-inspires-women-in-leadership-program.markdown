@@ -17,7 +17,7 @@ When we hear quotes like that of Malala’s, of course, we are struck by her mes
 
 However, when we asked women leaders in a focus group discussion what they felt were important attributes for women to learn, one of the participants said “Being vocal (As a girl we are not taught to take up space. Create an environment to be vocal and communicate)”. For me, the problem suddenly halved, quartered, and halved again. I heard the same message that Malala was communicating but in different words and in a context that I was comfortable with. I wasn’t just inspired to take action, but it helped me realize how women across the globe have similar experiences, and how important it is to take action together as women, and perhaps even scale that action.
 
-In line with that, the Open Mapping Hub - Asia Pacific is launching **“She Leads & She Inspires”** - a program that will engage 100 women between December 2021 and June 2022.  The program has been co-created with women operating in the OSM ecosystem to help support the emergence of women leaders in what (let’s face it!) feels like a male dominated arena. By starting small, and raising the voices of one, two, maybe a hundred women through this program, we can support women to stop holding back, to succeed, to fail fast and gracefully, to lead and to inspire. The goal of the program is to support women interested in open mapping to grow as leaders within their communities. This includes an opportunity to initiate and lead a humanitarian / development project, use GIS and technical mapping skills, learn how to lead in virtual ecosystems, and more. (The full curriculum will be released in December 2021).
+In line with that, the Open Mapping Hub - Asia Pacific is launching ***“She Leads & She Inspires”*** - a program that will engage 100 women between December 2021 and June 2022.  The program has been co-created with women operating in the OSM ecosystem to help support the emergence of women leaders in what (let’s face it!) feels like a male dominated arena. By starting small, and raising the voices of one, two, maybe a hundred women through this program, we can support women to stop holding back, to succeed, to fail fast and gracefully, to lead and to inspire. The goal of the program is to support women interested in open mapping to grow as leaders within their communities. This includes an opportunity to initiate and lead a humanitarian / development project, use GIS and technical mapping skills, learn how to lead in virtual ecosystems, and more. (The full curriculum will be released in December 2021).
  
 **The program is split into three core components:**
 * A 2 day intensive workshop where participants will hear from experienced and inspiring women leaders from the geospatial ecosystem (scheduled for 18-19 December, 2021)
@@ -59,6 +59,7 @@ Participants agreed on a number of points:
 
  
 **Informed program development** 
+
 Based on the workshop findings, we have developed the following structure for the program:
 * Before the program kick-off, participants will complete a questionnaire so that the coordinators can better understand the needs of the participants (e.g. the level of technical GIS skills) to ensure we are providing the training needed / desired by participants
 * 2-3 day intensive workshop
