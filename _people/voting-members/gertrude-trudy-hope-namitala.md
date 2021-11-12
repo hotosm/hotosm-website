@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/trudy-712dec.JPG
 Member Type:
   Is Voting Member: true
   Is Board Member: true
-Job Title: Member-at-large
+Job Title: Treasurer
 Working Group:
 - Fundraising
 Country: Zambia

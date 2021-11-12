@@ -4,8 +4,6 @@ date: 2012-01-25 07:00:00 Z
 Photo: https://cdn.hotosm.org/website/Maning.jpg
 Member Type:
   Is Voting Member: true
-  Is Board Member: true
-Job Title: Member-at-large
 Working Group:
 - Activation
 Project:

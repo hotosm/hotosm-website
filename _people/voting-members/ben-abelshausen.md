@@ -4,8 +4,6 @@ date: 2015-06-04 19:47:00 Z
 Photo: https://cdn.hotosm.org/website/Ben+Abelshausen+headshot.jpg
 Member Type:
   Is Voting Member: true
-  Is Board Member: true
-Job Title: Secretary
 Project:
 - HOT Summit 2016
 - Ivory Coast

@@ -4,8 +4,6 @@ date: 2017-02-28 14:06:00 Z
 Photo: https://cdn.hotosm.org/website/foto_MG.jpg
 Member Type:
   Is Voting Member: true
-  Is Board Member: true
-Job Title: President
 Project:
 - HOT Summit 2016
 - Hurricane Matthew
