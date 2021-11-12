@@ -35,30 +35,30 @@ To better understand the needs of women already in (or hoping to step into) posi
 In total, 26 participants were involved in the community consultation process; 20 of whom were women and six of whom were men; 13 of whom were from the OSM ecosystem; and 16 of whom were from the Asia Pacific region.
  
 The topics discussed included:
-   	* Characteristics of women leaders
-   	* Opportunities for growth beyond the program. 
-   	* Defining successful women’s leadership and how that success can be achieved
-   	* Experiences of good and bad leadership programs
-   	* Idea collection for curriculum development
-   	* Innovation in online participation
+* Characteristics of women leaders
+* Opportunities for growth beyond the program. 
+* Defining successful women’s leadership and how that success can be achieved
+* Experiences of good and bad leadership programs
+* Idea collection for curriculum development
+* Innovation in online participation
  
 **Findings**
  
 Certain keywords came up repeatedly in the conversations:
-1. 	Inspire – 14 (inspiring others to action, inspiring other women, inspiring each other, inspiring and motivating)
-2. 	Community – 14 (community centered, lifting communities, creating community, immersing in community)
-3. 	Network – 7 (well-networked, building relationships and networks, OSM networks, networking / peer learning among women)
-4. 	Communication – 9 (public speaking, listening, responding)
-5. 	Supportive – 6 (supports community, supports others)
-6. 	Solution – 5 (solution-oriented, problem solving, OSM-based solutions)
+* Inspire – 14 (inspiring others to action, inspiring other women, inspiring each other, inspiring and motivating)
+* Community – 14 (community centered, lifting communities, creating community, immersing in community)
+* Network – 7 (well-networked, building relationships and networks, OSM networks, networking / peer learning among women)
+* Communication – 9 (public speaking, listening, responding)
+* Supportive – 6 (supports community, supports others)
+* Solution – 5 (solution-oriented, problem solving, OSM-based solutions)
  
 Participants agreed on a number of points:
-   	* Community building should be at the forefront of activities
-   	* Where possible, women in leadership positions in the OSM ecosystem and beyond were preferred as program mentors, speakers and trainers
-   	* All activities, including training, group assignments and mentor sessions, should be highly engaging and interactive and should encourage relationship building between participants where possible
-   	* Resources should be open source, accessible and stored in one location
-   	* Assignments / engagements that involve group activities (such as mentoring and group mapping projects) should involve no more than 5-6 participants to encourage peer-to-peer learning and strong relationship building
-   	* Leadership skills and hard skills (GIS, remote sensing etc.) should be equally addressed in the program
+* Community building should be at the forefront of activities
+* Where possible, women in leadership positions in the OSM ecosystem and beyond were preferred as program mentors, speakers and trainers
+* All activities, including training, group assignments and mentor sessions, should be highly engaging and interactive and should encourage relationship building between participants where possible
+* Resources should be open source, accessible and stored in one location
+* Assignments / engagements that involve group activities (such as mentoring and group mapping projects) should involve no more than 5-6 participants to encourage peer-to-peer learning and strong relationship building
+* Leadership skills and hard skills (GIS, remote sensing etc.) should be equally addressed in the program
 
  
 **Informed program development** 
