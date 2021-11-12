@@ -76,6 +76,7 @@ opportunity for funding?)
   * Embedded opportunity to apply skills learned during the program
  
 **Impact **
+
 At the end of the six months, we anticipate that the participants will be able to carve out their own destinies as inspiring OSM leaders. Participants will be trained, mentored and motivated through professional development opportunities by women leaders who are working / operating within the geospatial ecosystem, managing projects, building networks, and inspiring the next generation of women leaders. 
 
 * Training will equip participants with the tools needed to lead and inspire. 
@@ -84,23 +85,24 @@ At the end of the six months, we anticipate that the participants will be able t
 
  
 **Participate in the program**
-Are you interested in progressing your leadership skills to become a world-class women leader?
-Are you enthusiastic about learning how to use your knowledge and experience to inspire others?
-Are you interested in how map-making, and geospatial data collection can empower your leadership?
-Do you have a passion for leading responses to local challenges?
+
+* Are you interested in progressing your leadership skills to become a world-class women leader?
+* Are you enthusiastic about learning how to use your knowledge and experience to inspire others?
+* Are you interested in how map-making, and geospatial data collection can empower your leadership?
+* Do you have a passion for leading responses to local challenges?
 
 If the answer to these questions is YES! We welcome you, your colleagues, peers, networks and friends to apply for She Leads & She Inspires. Together, we can respond to local challenges, strengthen our OSM communities, and work together to close the divide for women in leadership positions.
 
-[Apply today!
-](https://hotosm.bamboohr.com/jobs/view.php?id=61)
+*[Apply today!
+]*(https://hotosm.bamboohr.com/jobs/view.php?id=61)
 
-**Get involved as a speaker, mentor or trainer
-**
+**Get involved as a speaker, mentor or trainer**
+
 Are you (or is someone you know) an inspiring woman leader? 
 Do you want to help the next generation of women emerge as leaders in Asia Pacific? 
 Do you have some valuable insights on how to navigate the geospatial ecosystem as a woman?
  
 We are currently looking for inspiring women to speak, engage or mentor in the program. The topics of the talk can be very flexible but would need to pertain to leadership, mapping and/or geospatial in some way. 
  
-[Tell us you’re interested! ](https://docs.google.com/forms/d/e/1FAIpQLSdEyxkOyQF3SsaC_N7XwYumlJqL85ljdjqvYJ3-JUdf8C4xIw/viewform)
+*[Tell us you’re interested! ]*(https://docs.google.com/forms/d/e/1FAIpQLSdEyxkOyQF3SsaC_N7XwYumlJqL85ljdjqvYJ3-JUdf8C4xIw/viewform)
 
