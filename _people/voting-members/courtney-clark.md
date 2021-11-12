@@ -6,6 +6,8 @@ redirect_from:
 Photo: https://cdn.hotosm.org/website/courtney_clark_photo.png
 Member Type:
   Is Voting Member: true
+  Is Board Member: true
+Job Title: Secretary
 Working Group:
 - Community
 Languages:
@@ -20,6 +22,7 @@ Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/CourtneyMClark/
 ---
 
-Courtney Clark has mapped for humanitarian purposes since serving as a Peace Corps Public Health Volunteer in the Fouta region of Guinea. After being evacuated in 2014 due to the Ebola epidemic there, she mobilized her fellow volunteers to map for HOT's Ebola response tasks by hosting virtual and in-person mapathons. In 2015, she joined Peace Corps' Office of Innovation in Washington, D.C. and built the organization's open mapping program from the ground-up. Her major accomplishments as the Open Mapping Program Manager include catalyzing the launch of 120 Peace Corps field projects that created and leveraged OSM data; building partnerships with numerous institutions, including the White House, MapGive, USAID, the American Red Cross, and more; serving as the project lead for the 2016 White House Mapathon; training 328 Peace Corps volunteers, staff, and host-country counterparts in the creation, collection, and use of OSM data for development projects; presenting at the 2015 HOT Summit and State of the Map Conference; and leading the OSM Institutions Working Group from September 2015 to September 2016.
+Courtney Clark directs the Everywhere She Maps program for YouthMappers, a global network of students, researchers, educators and scholars that use public geospatial technologies to highlight and directly address development challenges worldwide. Through her role, she leads efforts to increase inclusiveness in the geospatial and OSM communities by empowering women student geographers to build their technical capacity, gain leadership experience, and direct mapping projects that use innovative open data methods to address gender inequality. She is also a Manager of Sponsored Projects for the American Geographical Society, where she leads the society’s Geography Educator Initiative. 
 
-Courtney also has experience in healthcare consulting, client and partner relationship management, and strategy and marketing development from previous roles at Optum and 3M. Most recently, she earned an MBA with a focus on strategy and organizational development from Ohio State University. As a member of HOT's voting membership, she serves on the Community Working Group. She also has served various local and international communities in a variety of volunteer roles, including as a member of Kaleidoscope Youth Center's Board, strategy consultant for the Global One Health Initiative in Ethiopia, and pro bono consultant for One Acre Fund in Rwanda.
+Courtney has been involved with OpenStreetMap and HOT as a mapper, volunteer, mapathon organizer, and advocate since 2014. She founded and led the U.S. Peace Corps’ open mapping program and has attended and hosted many mapathons and OSM-related events. Most notably, she led planning and execution for the 2016 White House Mapathon. Through these events and in her capacity as a volunteer and professional, she has had the incredible opportunity to collaborate and build relationships with many members of various OSM and humanitarian mapping communities. As a member of HOT’s Board and the Community Working Group, she is dedicated to actively listening to & collaborating with her fellow humanitarian mappers. 
+
