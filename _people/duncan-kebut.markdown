@@ -1,11 +1,14 @@
 ---
 title: Duncan Kebut
 date: 2021-11-23 09:39:00 Z
+Photo: "/uploads/Duncan%20Kebut%20(2).jpg"
 Member Type:
   Is Staff: true
 Job Title: Senior Mapping Supervisor
 Country: Kenya
 Team: Global
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/kebutt
 ---
 
 Duncan works at HOT as Senior Mapping Supervisor based in Kenya. 
