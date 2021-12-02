@@ -12,7 +12,7 @@ Feature Image: "/uploads/hub,%20icon.png"
 Person: Rubén Martín
 ---
 
-![hub, icon.png](/uploads/hub,%20icon.png)
+![hub, icon-981381.png](/uploads/hub,%20icon-981381.png)
 
 Hello everyone,  
 
@@ -40,7 +40,7 @@ We are calling this the "Hub Alpha version" phase and the goal is to have enough
 
 ### How?!
 
-![path7.png](/uploads/path7.png) 
+![path7-ec21df.png](/uploads/path7-ec21df.png) 
 
 During the next months we plan to pilot support and engagement with local communities and open mapping actors in the region at three different levels:  
 
