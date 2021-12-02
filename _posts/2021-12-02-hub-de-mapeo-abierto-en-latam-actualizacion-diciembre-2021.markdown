@@ -5,6 +5,12 @@ published: false
 tags:
 - hub
 - latam
+Summary Text: "¡Nos alegra compartir una actualización sobre cómo en HOT planeamos
+  aumentar nuestro apoyo al Mapeo Abierto en la región de LATAM para asegurar que
+  la vida de las personas mejore gracias a los datos geoespaciales abiertos y el poder
+  de las comunidades abiertas!  "
+Feature Image: "/uploads/hub,%20icon.png"
+Person: Rubén Martín
 ---
 
 ![hub, icon.png](/uploads/hub,%20icon.png)
