@@ -44,9 +44,9 @@ We are calling this the "Hub Alpha version" phase and the goal is to have enough
 
 During the next months we plan to pilot support and engagement with local communities and open mapping actors in the region at three different levels:  
 
-* Focus projects: By supporting specific small-medium-sized on-going or new local projects working with Open Mapping Data, showing how it can help solve people's problems!
-* General regional support: Engaging deeper with local communities and documenting what are the local problems and opportunities that Open Mapping can contribute to, as well as enabling relationship building and peer-support between HOT, communities, organizations and governments.
-* Open learning & knowledge space: Connecting the different regional actors together and unlocking and supporting opportunities that can benefit Open Mapping knowledge across all LATAM, to support open source infrastructure in the region.  
+* Focus projects (inner circle): By supporting specific small-medium-sized on-going or new local projects working with Open Mapping Data, showing how it can help solve people's problems!
+* General regional support (middle circle): Engaging deeper with local communities and documenting what are the local problems and opportunities that Open Mapping can contribute to, as well as enabling relationship building and peer-support between HOT, communities, organizations and governments.
+* Open learning & knowledge space (outer circle): Connecting the different regional actors together and unlocking and supporting opportunities that can benefit Open Mapping knowledge across all LATAM, to support open source infrastructure in the region.  
 
 We think that by doing this we'll be able to document insights, and test and prove (or disprove) concepts that can inform what the right "Hub" concept might be for the region and what are the approaches that do and don't work, coming directly from the people who are in the region.
 
