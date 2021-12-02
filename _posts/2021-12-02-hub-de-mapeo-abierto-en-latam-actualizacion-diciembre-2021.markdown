@@ -9,15 +9,9 @@ Summary Text: "¡Nos alegra compartir una actualización sobre cómo en HOT plan
   aumentar nuestro apoyo al Mapeo Abierto en la región de LATAM para asegurar que
   la vida de las personas mejore gracias a los datos geoespaciales abiertos y el poder
   de las comunidades abiertas!  "
-Feature Image: "/uploads/hub,%20icon.png"
+Feature Image: "/uploads/hub,%20icon-981381.png"
 Person: Rubén Martín
 ---
-
-![hub, icon-981381.png](/uploads/hub,%20icon-981381.png)
-
-Hola a todos,
-
-¡Nos alegra compartir una actualización sobre cómo en HOT planeamos aumentar nuestro apoyo al Mapeo Abierto en la región de LATAM para asegurar que la vida de las personas mejore gracias a los datos geoespaciales abiertos y el poder de las comunidades abiertas!
 
 A principios de este año realizamos una [serie de consultas](https://www.hotosm.org/updates/ayuda-a-impulsar-openstreetmap-en-latinoamerica/) en la región de América Latina para saber cómo el concepto de un "[Open Mapping Hub](https://www.openstreetmap.org/user/RebeccaF/diary/396229)" puede apoyar y beneficiar a las comunidades locales de mapas abiertos, a los proyectos y a las personas.
 
