@@ -5,6 +5,9 @@ published: false
 tags:
 - hub
 - latam
+Summary Text: We are excited to share with you an update on how at HOT we plan to
+  increase our support to Open Mapping on the LATAM region to make sure people's lives
+  are improved thanks to open geospatial data and the power of open communities!
 Feature Image: "/uploads/hub,%20icon.png"
 Person: Rubén Martín
 ---
