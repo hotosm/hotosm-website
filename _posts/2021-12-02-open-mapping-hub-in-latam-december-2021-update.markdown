@@ -12,12 +12,6 @@ Feature Image: "/uploads/hub,%20icon-981381.png"
 Person: Rubén Martín
 ---
 
-![hub, icon-981381.png](/uploads/hub,%20icon-981381.png)
-
-Hello everyone,  
-
-We are excited to share with you an update on how at HOT we plan to increase our support to Open Mapping on the LATAM region to make sure people's lives are improved thanks to open geospatial data and the power of open communities!  
-
 Early this year we conducted a [series of consultations](https://www.hotosm.org/updates/ayuda-a-impulsar-openstreetmap-en-latinoamerica/) in Latin America region to know how the concept of an "[Open Mapping Hub](https://www.openstreetmap.org/user/RebeccaF/diary/396229)" can support and benefit local open mapping communities, projects and people.  
 
 In parallel during the past months we have also [supported the Open Cities project](https://www.hotosm.org/updates/como-mejorar-la-preparacion-y-la-capacidad-de-respuesta-de-las-comunidades-ante-los-desastres-en-america-latina-y-el-caribe-con-datos-geoespaciales-creados-de-manera-participativa/) to bring value to local areas in the region (Mexico, Guatemala, Santa Lucía, Dominica and Jamaica) through mapping.  
