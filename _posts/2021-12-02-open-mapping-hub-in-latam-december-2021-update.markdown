@@ -6,6 +6,7 @@ tags:
 - hub
 - latam
 Feature Image: "/uploads/hub,%20icon.png"
+Person: Rubén Martín
 ---
 
 ![hub, icon.png](/uploads/hub,%20icon.png)
