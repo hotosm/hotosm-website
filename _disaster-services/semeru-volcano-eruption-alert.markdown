@@ -1,0 +1,18 @@
+---
+title: Semeru Volcano Eruption Alert
+date: 2021-12-04 17:13:00 Z
+Glide: VO-2021-000002-HOT
+Event Name: Semeru Volcano Eruption
+GDACS ID: VO 1000035
+GDACS-level: Green (0.5)
+Country:
+- Indonesia
+Event type: VO Volcanic Eruption
+Summary Text: Disaster Services is currently monitoring this event in Indonesia.
+Feature Image: VO Volcanic Eruption
+Status: alert
+Post-type: update
+Source: <a href="https://gdacs.org/report.aspx?eventid=1000035&episodeid=1&eventtype=VO"_blank">GDACS</a>
+---
+
+"Volcanic eruption Semeru can have a low humanitarian impact based on the exposed population and vulnerability."
