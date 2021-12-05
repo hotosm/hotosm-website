@@ -1,7 +1,7 @@
 ---
 title: Semeru Volcano Eruption Alert
 date: 2021-12-04 17:13:00 Z
-Glide: VO-2021-000002-HOT
+Glide: VO-2021-000194-IDN
 Event Name: Semeru Volcano Eruption
 GDACS ID: VO 1000035
 GDACS-level: Green (0.5)
