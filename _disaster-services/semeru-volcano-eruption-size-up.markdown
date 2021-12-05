@@ -23,7 +23,7 @@ GDACS Incident Name: Volcanic eruption for Semeru
 <h2>Size-up Details</h2>
 
 <strong>Event Name:</strong>Semeru Volcano Eruption 2021<br>
-<strong>Type ofEvent:</strong> 	Sudden Onset<br>
+<strong>GDACS Alert Lvl:</strong>Orange (1.5)<br>
 <strong>Location:</strong> Malang and Lumajang District, East Java, Indonesia<br>
 <strong>Geographic Scope:</strong> City<br>
 <strong>Estimated Humanitarian Impact:</strong> About 870,000 people within 30km<br>
