@@ -26,7 +26,7 @@ GDACS Incident Name: Volcanic eruption for Semeru
 <strong>Type ofEvent:</strong> 	Sudden Onset<br>
 <strong>Location:</strong> Malang and Lumajang District, East Java, Indonesia<br>
 <strong>Geographic Scope:</strong> City<br>
-<strong>Estimated Humanitarian Impact:</strong> About 870000 people within 30km<br>
+<strong>Estimated Humanitarian Impact:</strong> About 870,000 people within 30km<br>
 <strong>Estimated Duration:</strong> Day(s)<br>
 <strong>Event Scope:</strong> Moderate<br>
 <strong>Local Contacts:</strong> POI<br>
