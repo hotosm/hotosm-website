@@ -4,7 +4,8 @@ date: 2021-12-06 09:51:00 Z
 Photo: "/uploads/Wilson-Munyaradzi%20Profile%20Pic.JPG"
 Member Type:
   Is Staff: true
-Job Title: Disaster Services Manager
+Job Title: Disaster Services Manager - Eastern and Southern Africa
+Team: Eastern and Southern Africa Hub
 ---
 
 Joined the ESA Hub as Disaster Services Manager on the 15th of November 2021. Currently based in Zimbabwe and previously worked with World Wildlife Fund, ICRC and MAG international. 
