@@ -8,7 +8,7 @@ Country:
 - Indonesia
 Event type: VO Volcanic Eruption
 Summary Text: The <a href="https://tasks-indonesia.hotosm.org/projects/176/">Semeru
-  Volcanic Eruption is an activation of Perkumpulan OpenStreetMap Indonesia (POI)
+  Volcanic Eruption</a> is an activation of Perkumpulan OpenStreetMap Indonesia (POI)
   to map East Java.
 Feature Image: VO Volcanic Eruption
 Post-type: timeline
