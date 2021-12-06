@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Job Title: Disaster Services Manager - Eastern and Southern Africa
 Team: Eastern and Southern Africa Hub
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/wilsonmunyaradzi
 ---
 
 Joined the ESA Hub as Disaster Services Manager on the 15th of November 2021. Currently based in Zimbabwe and previously worked with World Wildlife Fund, ICRC and MAG international. 
