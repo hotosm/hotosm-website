@@ -17,7 +17,7 @@ Resources: N/A
 Campaign: 
 Status: size-up
 Phase: 
-Timeline: 'August 14, 2021 - '
+Timeline: August 14, 2021 - October 22, 2021
 Size-up: https://www.hotosm.org/disaster-services/haiti-earthquake-2021-size-up/
 Wiki-page: https://wiki.openstreetmap.org/wiki/Haiti_Earthquake_2021
 Tracking: haitieq2021
