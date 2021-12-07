@@ -1,9 +1,10 @@
 ---
 title: Bry Damasco
 date: 2020-03-06 14:39:00 Z
+published: false
 Photo: "/uploads/BryPhoto.png"
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Partnerships Manager - Asia Pacific
 Country: Philippines
 Team: Asia Pacific Hub
