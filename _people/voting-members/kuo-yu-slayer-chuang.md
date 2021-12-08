@@ -1,7 +1,7 @@
 ---
 title: Kuo-Yu "slayer" Chuang
 date: 2016-01-11 23:33:00 Z
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-317-1452565583.jpg
+Photo: "/uploads/photo%20slayer.png"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
