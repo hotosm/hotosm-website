@@ -1,9 +1,7 @@
 ---
 title: Courtney Clark
 date: 2016-01-11 23:44:00 Z
-redirect_from:
-- "/users/courtney_clark"
-Photo: https://cdn.hotosm.org/website/courtney_clark_photo.png
+Photo: "/uploads/photo%20CourtneyClark.png"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
@@ -18,8 +16,10 @@ Project:
 - Nepal 2015 Earthquake Response
 Country: United States
 Social Media (Full URL):
-  Twitter: https://twitter.com/courtneymclark3
   OSM: https://www.openstreetmap.org/user/CourtneyMClark/
+  Twitter: https://twitter.com/courtneymclark3
+redirect_from:
+- "/users/courtney_clark"
 ---
 
 Courtney Clark directs the Everywhere She Maps program for YouthMappers, a global network of students, researchers, educators and scholars that use public geospatial technologies to highlight and directly address development challenges worldwide. Through her role, she leads efforts to increase inclusiveness in the geospatial and OSM communities by empowering women student geographers to build their technical capacity, gain leadership experience, and direct mapping projects that use innovative open data methods to address gender inequality. She is also a Manager of Sponsored Projects for the American Geographical Society, where she leads the society’s Geography Educator Initiative. 
