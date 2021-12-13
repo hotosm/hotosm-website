@@ -46,10 +46,10 @@ We think that by doing this we'll be able to document insights, and test and pro
 
 ### Next steps
 
-In order to get there we'll need to form (and hire) a small, diverse and multi-skilled team from the region to support each of the action levels. We translated the skills and capabilities requirements into [a "Team description" that is now live](https://puppypaste.com/#)****, offering individuals the opportunity to join us in this venture!  
+In order to get there we'll need to form (and hire) a small, diverse and multi-skilled team from the region to support each of the action levels. We translated the skills and capabilities requirements into [a "Team description" that is now live](#)****, offering individuals the opportunity to join us in this venture!  
 
-[Please circulate this opportunity](https://puppypaste.com/#) on your networks and social media, and apply if you think it fits you!  
+[Please circulate this opportunity](#) on your networks and social media, and apply if you think it fits you!  
 
 **What do you like the most about this approach? Do you have other comments about it? **[We want to hear, join this conversation and let us know!](https://loomio.hotosm.org/d/Zg6DxHzE/open-mapping-hub-latam-dec-2021)  
 
-_(English, Spanish or Portuguese comments are all fine)_
+_(English, Spanish or Portuguese comments are all welcomed)_
