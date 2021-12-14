@@ -30,8 +30,11 @@ The selected investment advisor would be expected to develop, and implement, an 
 Please submit your written proposal to advise, manage, and administer the fund for HOT no later than **January 7, 2022** to:
 
 Liz Chamberlain
+
 Director of Finance and Operations
+
 Humanitarian OpenStreetMap Team
+
 liz.chamberlain@hotosm.org AND seka.ellepo@hotosm.org 
 
 If selected, your organization will be scheduled for a presentation. Each presenter will have approximately 30-45 minutes to provide an overview of their proposal and answer a few questions. 
@@ -73,17 +76,17 @@ Your written proposal should include the following:
 ## Reporting and Fees
 
 * Describe your reporting procedures including frequency for various forms of communication
-* * What items will be reviewed in performing the regular investment performance evaluation? 
-* * How does your investment report identify risk or volatility in comparison to a benchmark?
-* * How does your investment report ensure compliance with the target asset allocation?
-* * Who specifically would perform the investment evaluation and what are their credentials? 
-* * Include sample report copies
+   * What items will be reviewed in performing the regular investment performance evaluation? 
+   * How does your investment report identify risk or volatility in comparison to a benchmark?
+   * How does your investment report ensure compliance with the target asset allocation?
+   * Who specifically would perform the investment evaluation and what are their credentials? 
+   * Include sample report copies
 
 * Investment Fees:
-* * Indicate the schedule and billing process for the investment consultant services (include disclosure of any and all sources of compensation)
-* * Indicate the approximate fee of the investment vehicles or third party managers typically recommended for similarly situated portfolios
-* * Indicate the fee schedule for the recommended third party investment custodian
-* * Indicate any additional fees to which the portfolio may be subject
+   * Indicate the schedule and billing process for the investment consultant services (include disclosure of any and all sources of compensation)
+   * Indicate the approximate fee of the investment vehicles or third party managers typically recommended for similarly situated portfolios
+   * Indicate the fee schedule for the recommended third party investment custodian
+   * Indicate any additional fees to which the portfolio may be subject
 
 ## Other
 
