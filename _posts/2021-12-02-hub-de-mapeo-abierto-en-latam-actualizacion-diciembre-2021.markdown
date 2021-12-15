@@ -40,8 +40,8 @@ Estamos llamando a esto la fase "Hub Alfa" y el objetivo es tener suficiente exp
 Durante los próximos meses tenemos previsto poner a prueba el apoyo y la colaboración con las comunidades locales y los actores del mapeo abierto en la región en tres niveles diferentes:  
 
 * **Proyectos foco** (círculo interno): Apoyando proyectos locales específicos, pequeños y medianos, en curso o nuevos, que trabajen con datos cartográficos abiertos, mostrando cómo pueden contribuir al bienestar de las personas.
-**Apoyo regional general** (círculo central): Comprometerse más con las comunidades locales y documentar cuáles son los problemas y oportunidades locales a los que puede contribuir la cartografía abierta, así como permitir la creación de relaciones y el apoyo entre pares y entre HOT, comunidades, organizaciones y gobiernos.
-**Espacio abierto de aprendizaje y conocimiento** (círculo exterior): Conectando los diferentes actores regionales juntos y desbloqueando y apoyando las oportunidades que pueden beneficiar el conocimiento de Mapeo Abierto en toda LATAM, para apoyar la infraestructura de datos abiertos en la región.  
+* **Apoyo regional general** (círculo central): Comprometerse más con las comunidades locales y documentar cuáles son los problemas y oportunidades locales a los que puede contribuir la cartografía abierta, así como permitir la creación de relaciones y el apoyo entre pares y entre HOT, comunidades, organizaciones y gobiernos.
+* **Espacio abierto de aprendizaje y conocimiento** (círculo exterior): Conectando los diferentes actores regionales juntos y desbloqueando y apoyando las oportunidades que pueden beneficiar el conocimiento de Mapeo Abierto en toda LATAM, para apoyar la infraestructura de datos abiertos en la región.  
 
 Creemos que al hacer esto seremos capaces de documentar ideas, y probar y refutar conceptos que pueden **informar sobre cuál podría ser el concepto de "Hub" correcto para la región** y cuáles son los enfoques que funcionan y no funcionan, **procedentes directamente de la gente** que está en la región.
 
