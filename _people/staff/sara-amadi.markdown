@@ -4,7 +4,7 @@ date: 2018-06-01 19:59:00 Z
 Photo: https://cdn.hotosm.org/website/IMG_1715.JPG
 Member Type:
   Is Staff: true
-Job Title: Portfolio Manager
+Job Title: Senior Manager, Strategy & Implementation
 Languages:
 - Deutsch
 - English
@@ -19,6 +19,7 @@ Project:
 - Leveraging ML-generated building data and motorcycle mapping in the DRC and Uganda
   to enhance the effectiveness of humanitarian response
 Country: Canada
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Sara%20Amadi
   Twitter: https://twitter.com/saraamadi
