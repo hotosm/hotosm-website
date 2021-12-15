@@ -6,9 +6,9 @@ tags:
 - hub
 - latam
 Summary Text: 'Nos alegra compartir una actualización sobre cómo en HOT planeamos
-  aumentar nuestro apoyo al Mapeo Abierto en la región de LATAM para **encontrar formas
+  aumentar nuestro apoyo al Mapeo Abierto en la región de LATAM para encontrar formas
   de conectar los datos geoespaciales y el esfuerzo de la comunidad hacia el bien
-  común**.  '
+  común.  '
 Feature Image: "/uploads/hub,%20icon-981381.png"
 Person: Rubén Martín
 ---
@@ -47,10 +47,11 @@ Creemos que al hacer esto seremos capaces de documentar ideas, y probar y refuta
 
 ### Próximos pasos
 
-Para conseguirlo, tendremos que formar (y contratar) un equipo pequeño, diverso y con múltiples aptitudes de la región para apoyar cada uno de los niveles de acción. Hemos plasmado los requisitos de habilidades y capacidades en [una "Descripción del equipo" que ya está disponible](https://hotosm.bamboohr.com/jobs/view.php?id=79)****, ¡ofreciendo a todos la oportunidad de unirse a nosotros en esta iniciativa!  
+Para conseguirlo, tendremos que formar (y contratar) un equipo pequeño, diverso y con múltiples aptitudes de la región para apoyar cada uno de los niveles de acción. Hemos plasmado los requisitos de habilidades y capacidades en **[una "Descripción del equipo" que ya está disponible](https://hotosm.bamboohr.com/jobs/view.php?id=79)**, ¡ofreciendo a todos la oportunidad de unirse a nosotros en esta iniciativa!  
 
 [Por favor, difunde esta oportunidad](https://hotosm.bamboohr.com/jobs/view.php?id=79) en tus redes y redes sociales, y presenta tu candidatura si crees que encaja contigo.  
 
-**¿Qué es lo que más te gusta de este enfoque? ¿Tienes algún otro comentario al respecto? **[Queremos escucharos, ¡únete a esta conversación y haznos saber!](https://loomio.hotosm.org/d/Zg6DxHzE/open-mapping-hub-latam-dec-2021)  
+* ¿Qué es lo que más te gusta de este enfoque? ¿Tienes algún otro comentario al respecto? 
+* **[Queremos escucharos, ¡únete a esta conversación y haznos saber!](https://loomio.hotosm.org/d/Zg6DxHzE/open-mapping-hub-latam-dec-2021)**
 
 _(Los comentarios en inglés, español o portugués son bienvenidos)_
