@@ -4,7 +4,7 @@ date: 2015-07-14 16:44:00 Z
 Photo: https://cdn.hotosm.org/website/paul-858a81.JPG
 Member Type:
   Is Staff: true
-Job Title: Director of Humanitarian Data
+Job Title: Director, Data
 Working Group:
 - Communications
 Project:
@@ -24,6 +24,7 @@ Project:
 - 'Urban flood resilience: Ramani Huria'
 - 
 Country: Netherlands
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/PaulUithol
   Twitter: https://twitter.com/PaulUithol
