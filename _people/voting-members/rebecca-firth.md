@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/rebecca-74099a.JPG
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Director of Transformation & Community
+Job Title: " Senior Director, Strategy & Programs"
 Working Group:
 - Fundraising
 - Communications
@@ -20,6 +20,7 @@ Project:
 - " InAWARE: Disaster Management Early Warning and Decision Support Capacity Enhancement
   Project in Indonesia"
 - Malaria Elimination Campaign
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/rebeccaf
   Twitter: https://twitter.com/RebeccaFirthy
