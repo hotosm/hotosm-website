@@ -4,10 +4,11 @@ date: 2020-10-16 03:05:00 Z
 Photo: https://cdn.hotosm.org/website/YogeshGirikumar.jpeg
 Member Type:
   Is Staff: true
-Job Title: Technical Project Manager Associate
+Job Title: Technical Projects Coordinator
 Working Group:
 - Technical
 Country: India
+Team: Global
 Social Media (Full URL):
   OSM: https://www.hdyc.neis-one.org/?eternaltyro
 ---
