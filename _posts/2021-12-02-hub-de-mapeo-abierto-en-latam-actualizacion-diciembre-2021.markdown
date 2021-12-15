@@ -52,6 +52,6 @@ Para conseguirlo, tendremos que formar (y contratar) un equipo pequeño, diverso
 [Por favor, difunde esta oportunidad](https://hotosm.bamboohr.com/jobs/view.php?id=79) en tus redes y redes sociales, y presenta tu candidatura si crees que encaja contigo.  
 
 * ¿Qué es lo que más te gusta de este enfoque? ¿Tienes algún otro comentario al respecto? 
-* **[Queremos escucharos, ¡únete a esta conversación y haznos saber!](https://loomio.hotosm.org/d/Zg6DxHzE/open-mapping-hub-latam-dec-2021)**
+* **[Queremos escucharos, ¡únete a esta conversación y haznos saber!](https://loomio.hotosm.org/d/Zg6DxHzE/hub-de-mapeo-abierto-en-latam-dic-2021)**
 
 _(Los comentarios en inglés, español o portugués son bienvenidos)_
