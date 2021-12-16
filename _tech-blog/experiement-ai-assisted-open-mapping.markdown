@@ -1,5 +1,5 @@
 ---
-title: 'Experiement: AI assisted open mapping'
+title: 'Experiment: AI assisted open mapping'
 date: 2021-12-16 15:23:00 Z
 tags:
 - ai
