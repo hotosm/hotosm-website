@@ -1,7 +1,6 @@
 ---
 title: Hub de Mapeo Abierto en LATAM - Actualización diciembre 2021
 date: 2021-12-02 18:59:00 Z
-published: false
 tags:
 - hub
 - latam
