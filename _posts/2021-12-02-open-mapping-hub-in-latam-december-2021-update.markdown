@@ -11,7 +11,7 @@ Feature Image: "/uploads/hub,%20icon-981381.png"
 Person: Rubén Martín
 ---
 
-[Versión en español](https://www.hotosm.org/updates/hub-de-mapeo-abierto-en-latam-actualizacion-diciembre-2021/)
+*[Versión en español](https://www.hotosm.org/updates/hub-de-mapeo-abierto-en-latam-actualizacion-diciembre-2021/)*
 
 Early this year we conducted a [series of consultations](https://www.hotosm.org/updates/ayuda-a-impulsar-openstreetmap-en-latinoamerica/) in Latin America region to know how the concept of an "[Open Mapping Hub](https://www.openstreetmap.org/user/RebeccaF/diary/396229)" can support and benefit local open mapping communities, projects and people.  
 

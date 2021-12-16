@@ -12,6 +12,8 @@ Feature Image: "/uploads/hub,%20icon-981381.png"
 Person: Rubén Martín
 ---
 
+*[English version](https://www.hotosm.org/updates/open-mapping-hub-in-latam-december-2021-update/ )*
+
 A principios de este año realizamos una [serie de consultas](https://www.hotosm.org/updates/ayuda-a-impulsar-openstreetmap-en-latinoamerica/) en la región de América Latina para saber cómo el concepto de un "[Open Mapping Hub](https://www.openstreetmap.org/user/RebeccaF/diary/396229)" puede apoyar y beneficiar a las comunidades locales de mapeo abierto, los proyectos y las personas.  
 
 Paralelamente, durante los últimos meses también hemos [apoyado el proyecto Open Cities](https://www.hotosm.org/updates/como-mejorar-la-preparacion-y-la-capacidad-de-respuesta-de-las-comunidades-ante-los-desastres-en-america-latina-y-el-caribe-con-datos-geoespaciales-creados-de-manera-participativa/) (actualmente en curso) para aportar valor a las áreas locales de la región (México, Guatemala, Santa Lucía, Dominica y Jamaica) a través de la cartografía.  
