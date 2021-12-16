@@ -1,8 +1,7 @@
 ---
 title: Tropical Cyclone Odette Alert
 date: 2021-12-16 13:28:00 Z
-Glide:
-- TC-2021-000202-PHL
+Glide: TC-2021-000202-PHL
 Event Name: Tropical Cyclone Odette
 GDACS ID: TC 1000853
 GDACS-level: Red 2.5
