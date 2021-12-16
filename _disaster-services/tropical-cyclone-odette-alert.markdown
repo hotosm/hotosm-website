@@ -1,0 +1,21 @@
+---
+title: Tropical Cyclone Odette Alert
+date: 2021-12-16 13:28:00 Z
+Glide:
+- TC-2021-000202-PHL
+Event Name: Tropical Cyclone Odette
+GDACS ID: TC 1000853
+GDACS-level: Red 2.5
+Country: Philippines
+Event type: TC Tropical Cyclone
+Summary Text: According to the Philippines weather bureau, PAGASA, Typhoon Rai (locally
+  named Odette) expected to make landfall in the vicinity of Surigao Provinces or
+  southern portion of Eastern Visayas late on Thursday,16 December.
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+Source: <a href="https://reliefweb.int/sites/reliefweb.int/files/resources/PDC_Typhoon_Rai_Philippines_UNOCHA_WFP_JADE_15DEC%202100UTC.pdf"
+  target="_blank">IFRC in Reliefweb</a>
+---
+
+"Typhoon Rai (locally named Odette) further intensified and became of typhoon strength while it continued to move west northwestward. According to the Philippines weather bureau, PAGASA, Typhoon Rai continues to gain strength, currently packing maximum winds of 130 km/h and gustiness of up to 160 km/h and is expected to make landfall in the vicinity of Surigao Provinces or southern portion of Eastern Visayas late on Thursday,16 December with high winds up to 155 km/h." -Glide
