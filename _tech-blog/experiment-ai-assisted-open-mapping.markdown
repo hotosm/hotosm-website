@@ -13,7 +13,7 @@ Tool:
 
 Hi all, 
 
-Some of you may remember earlier this year [we conducted an experiment to compare traditional mapping with ai-assisted mapping](https://www.openstreetmap.org/user/bo_hot/diary/395666). Below is our summary of findings and the ful report for those who may be interested. We hope this experiement will be the start of the conversation of how we can ethically and responsibly introduce AI augmented mapping workflows into HOT's work in 2022. 
+Some of you may remember earlier this year [we conducted an experiment to compare traditional mapping with ai-assisted mapping](https://www.openstreetmap.org/user/bo_hot/diary/395666). Below is our summary of findings and the full report for those who may be interested. We hope this experiement will be the start of the conversation of how we can ethically and responsibly introduce AI augmented mapping workflows into HOT's work in 2022. 
 
 ___Humanitarian OpenStreetMap Team, comparison of traditional digitizing of building features in OpenStreetMap of machine learning assisted building digitization___
 
