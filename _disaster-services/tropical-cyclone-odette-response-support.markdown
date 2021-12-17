@@ -6,8 +6,8 @@ Event Name: Tropical Cyclone Odette 2021
 Country:
 - Philippines
 Event type: TC Tropical Cyclone
-Summary text: 'Tropical Cyclone Odette 2021 Response are activities that support the
-  local OSM Philippines Community on the following campaign. '
+Summary text: Tropical Cyclone Odette 2021 Response are activities that support the
+  local OSM Philippines Community on the following campaign.
 Feature Image: TC Tropical Cyclone
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=philippines">Philippines</a>
