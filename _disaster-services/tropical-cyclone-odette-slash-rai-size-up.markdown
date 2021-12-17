@@ -9,12 +9,11 @@ Country: Philippines
 Event type: TC Tropical Cyclone
 Summary Text: 'Tropical Cyclone Odette/Rai has been sized-up. '
 Feature Image: TC Tropical Cyclone
+Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=philippines">Philippines</a>
 Resources: N/A
-Status: size-up
 Phase: Phase 1
 Wiki-page: N/A
-Post-type: timeline
 ---
 
 <h2>Size-up Details</h2>
