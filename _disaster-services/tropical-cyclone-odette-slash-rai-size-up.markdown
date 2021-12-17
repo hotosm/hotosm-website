@@ -26,7 +26,7 @@ Post-type: timeline
 <strong>Geographic Scope:</strong>  Country/Countries (Philippines, potentially Vietnam)<br>
 <strong>Estimated Humanitarian Impact:</strong>  11.698 million impacted by Category 1 or higher<br>
 <strong>Estimated Duration:</strong> Week to Month(s)<br>
-<strong>Event Scope:</strong> Moderate<be>
+<strong>Event Scope:</strong> Moderate<br>
 <strong>Anticipated Needs:</strong> Documentation, Basemap Improvement in Dinagat Islands<br>
 <strong>Local Contacts:</strong> We ares till supporting from Typhoon Rolly and have already discussed Ulysses<br>
 <strong>Request(s):</strong> None Yet<br>
