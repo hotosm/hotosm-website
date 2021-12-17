@@ -13,12 +13,12 @@ Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=philippines">Philippines</a>
 Resources: N/A
 Campaign: Tropical Cyclone Odette 2021
-Status: active
+Status: size-up
 Timeline: '16 December 2021 - '
 Size-up: https://www.hotosm.org/disaster-services/tropical-cyclone-odette-slash-rai-size-up/
 Wiki-page: N/A
-Tracking: OdettePH
-Report: N/A
+Tracking: odetteph
+Report: available
 ---
 
 The Tropical Cyclone Odette Response are activities to support the <a href="https://tasks.hotosm.org/organisations/13"> OpenStreetMap Philippines Community</a> in their response to Tropical Cyclone Odette (international name: Rai). 
