@@ -1,10 +1,10 @@
 ---
 title: Tropical Cyclone Odette Response
 date: 2021-12-17 07:37:00 Z
-Glide:
-- TC-2021-000202-PHL
+Glide: TC-2021-000202-PHL
 Event Name: Tropical Cyclone Odette 2021
-Country: Philippines
+Country:
+- Philippines
 Event type: TC Tropical Cyclone
 Summary text: 'Tropical Cyclone Odette 2021 Response are activities that support the
   local OSM Philippines Community on the following campaign... '
