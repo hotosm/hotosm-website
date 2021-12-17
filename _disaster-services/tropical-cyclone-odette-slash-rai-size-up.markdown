@@ -1,9 +1,7 @@
 ---
 title: Tropical Cyclone Odette/Rai Size-up
 date: 2021-12-17 07:12:00 Z
-published: false
-Glide:
-- TC-2021-000202-PHL
+Glide: TC-2021-000202-PHL
 Event Name: Tropical Cyclone Odette 2021
 GDACS ID: TC 1000853
 GDACS-level: 2.5 (Red)
