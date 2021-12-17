@@ -7,7 +7,7 @@ Event Name: Tropical Cyclone Odette 2021
 Country: Philippines
 Event type: TC Tropical Cyclone
 Summary text: 'Tropical Cyclone Odette 2021 Response are activities that support the
-  local OSM Philippines Community on the following campaign '
+  local OSM Philippines Community on the following campaign... '
 Featured Image: TC Tropical Cyclone
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=philippines">Philippines</a>
@@ -18,7 +18,7 @@ Timeline: '16 December 2021 - '
 Size-up: https://www.hotosm.org/disaster-services/tropical-cyclone-odette-slash-rai-size-up/
 Wiki-page: N/A
 Tracking: OdettePH
-Report: waiting
+Report: N/A
 ---
 
 The Tropical Cyclone Odette Response are activities to support the <a href="https://tasks.hotosm.org/organisations/13"> OpenStreetMap Philippines Community</a> in their response to Tropical Cyclone Odette (international name: Rai). See their <a href="https://tasks.hotosm.org/explore?campaign=Tropical%20Cyclone%20Odette%202021">Campaign for impacted areas in the central Philippines</a>.
