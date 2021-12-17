@@ -21,6 +21,6 @@ Tracking: OdettePH
 Report: waiting
 ---
 
-The Tropical Cyclone Odette Response are activities to support the <a href="https://tasks.hotosm.org/organisations/13"> OpenStreetMap Philippines Community in their response to Tropical Cyclone Odette (international name: Rai)</a>
+The Tropical Cyclone Odette Response are activities to support the <a href="https://tasks.hotosm.org/organisations/13"> OpenStreetMap Philippines Community</a> in their response to Tropical Cyclone Odette (international name: Rai)
 
 <a href="https://tasks.hotosm.org/explore?campaign=Tropical%20Cyclone%20Odette%202021">Campaign for impacted areas in the central Philippines</a>
