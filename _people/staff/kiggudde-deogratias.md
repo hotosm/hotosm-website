@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/DeogratiasKiggudee.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Country Manager
+Job Title: Programs Manager - Eastern and Southern Africa
 Country: Uganda
 Team: Uganda
 Social Media (Full URL):
