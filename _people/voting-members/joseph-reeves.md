@@ -11,6 +11,7 @@ Project:
 Country: United Kingdom
 Social Media (Full URL):
   Twitter: https://twitter.com/IknowJoseph
+  LinkedIn: https://www.linkedin.com/in/josephmreeves/
 ---
 
-<p>Joseph Reeves works by day in Internet Engineering. A HOT Board member for the 2013 term, Joseph curently holds the position of Chair of Voting Members.</p>
+<p>Joseph Reeves works by day in Information Security. A HOT Board member for the 2013 term, Joseph also once held the position of Chair of Voting Members.</p>
