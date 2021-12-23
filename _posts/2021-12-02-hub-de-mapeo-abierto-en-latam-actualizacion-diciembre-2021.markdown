@@ -8,7 +8,7 @@ Summary Text: 'Nos alegra compartir una actualización sobre cómo en HOT planea
   aumentar nuestro apoyo al Mapeo Abierto en la región de LATAM para encontrar formas
   de conectar los datos geoespaciales y el esfuerzo de la comunidad hacia el bien
   común.  '
-Feature Image: "/uploads/hub,%20icon-981381.png"
+Feature Image: "/uploads/HOT_OMH_LATAM_Spanish_Logo_REV_COLOUR.png"
 Person: Rubén Martín
 ---
 
