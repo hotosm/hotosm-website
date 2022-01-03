@@ -19,4 +19,4 @@ redirect_from:
 - "/users/rob_baker"
 ---
 
-Career humanitarian technologist and current HOT Board member
+Career humanitarian technologist.
