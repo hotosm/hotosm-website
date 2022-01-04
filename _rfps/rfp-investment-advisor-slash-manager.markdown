@@ -1,7 +1,7 @@
 ---
 title: RFP - Investment Advisor/Manager
 date: 2021-12-14 19:14:00 Z
-Deadline Date: 2022-01-07 00:00:00 Z
+Deadline Date: 2022-01-14 00:00:00 Z
 ---
 
 # Organizational Background
@@ -26,7 +26,7 @@ HOT currently maintains approximately $20M in assets that mesh with the operatin
 
 The selected investment advisor would be expected to develop, and implement, an investment strategy that employs fixed income investment capabilities and to work with our staff to establish appropriate guidelines for the investment result. 
 
-Please submit your written proposal to advise, manage, and administer the fund for HOT no later than **January 7, 2022** to:
+Please submit your written proposal to advise, manage, and administer the fund for HOT no later than **January 14, 2022** to:
 
 Liz Chamberlain
 
