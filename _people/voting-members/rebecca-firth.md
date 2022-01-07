@@ -22,7 +22,7 @@ Project:
 - Malaria Elimination Campaign
 Team: Global
 Social Media (Full URL):
-  OSM: https://www.openstreetmap.org/user/rebeccaf
+  OSM: https://www.openstreetmap.org/user/RebeccaF
   Twitter: https://twitter.com/RebeccaFirthy
   LinkedIn: https://www.linkedin.com/in/rebecca-firth-b25bb270?trk=nav_responsive_tab_profile_pic
 redirect_from:
