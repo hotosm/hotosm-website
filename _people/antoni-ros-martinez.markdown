@@ -1,9 +1,10 @@
 ---
 title: Antoni Ros Martinez
 date: 2020-07-27 06:14:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/RosMartinezA_ProfPicCropped-1e3f66.jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Lead, Disaster Services Team
 Languages:
 - Català
