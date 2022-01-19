@@ -1,0 +1,20 @@
+---
+title: Hunga Tonga-Hunga Ha'pai Volcanic Eruption Alert
+date: 2022-01-15 15:30:00 Z
+Glide: VO-2022-000005-TON
+Event Name: 
+GDACS ID: 'VO 1000036
+
+'
+GDACS-level: Green (2.5)
+Country:
+- Tonga
+Event type: VO Volcanic Eruption
+Summary Text: Disaster Services is currently monitoring this event in Tonga.
+Feature Image: VO Volcanic Eruption
+Status: alert
+Post-type: update
+Source: <a href="https://www.gdacs.org/report.aspx?eventid=1000036&episodeid=5&eventtype=VO"_blank">GDACS</a>
+---
+
+"Volcanic eruption Hunga Tonga-Hunga Ha apai can have a high humanitarian impact based on the exposed population and vulnerability."
