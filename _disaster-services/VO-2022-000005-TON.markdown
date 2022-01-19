@@ -2,7 +2,7 @@
 title: Hunga Tonga-Hunga Ha'pai Volcanic Eruption Alert
 date: 2022-01-15 15:30:00 Z
 Glide: VO-2022-000005-TON
-Event Name: 
+Event Name: Hunga Tonga-Hunga Ha'pai Volcanic Eruption and Tsunami 2022
 GDACS ID: 'VO 1000036
 
 '
