@@ -11,11 +11,12 @@ Event type: VO Volcanic Eruption
 Summary Text: Hunga Tonga-Hunga Ha'pai Volcanic Eruption and Tsunami has been sized-up.
 Feature Image: VO Volcanic Eruption
 Post-type: timeline
-HDX: <a href="https://data.humdata.org/organization/hot?q=indonesia">Indonesia</a>
+HDX: <a href="https://data.humdata.org/organization/hot?q=tonga">Indonesia</a>
 Resources: N/A
 Wiki-page: 
 Size-up: 
 GDACS Incident Name: Volcanic eruption for Hunga Tonga-Hunga Ha apai
+Status: size-up
 ---
 
 <h2>Size-up Details</h2>
