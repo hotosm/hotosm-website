@@ -5,10 +5,14 @@ permalink: "/staff/"
 redirect_from:
 - "/team"
 countries:
-- 'Implementing partner: Perkumpulan OpenStreetMap Indonesia (POI)'
-- 'Implementing partner: OSM Philippines'
-- 'Implementing partner: OpenMap Development Tanzania (OMDTZ)'
-- 'Implementing partner: MapUganda'
+- country: Indonesia
+  name: 'Implementing partner: Perkumpulan OpenStreetMap Indonesia (POI)'
+- country: Philippines
+  name: 'Implementing partner: OSM Philippines'
+- country: Tanzania
+  name: 'Implementing partner: OpenMap Development Tanzania (OMDTZ)'
+- country: Uganda
+  name: 'Implementing partner: MapUganda'
 hubs:
 - Asia Pacific Hub
 - Eastern and Southern Africa Hub
