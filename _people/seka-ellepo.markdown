@@ -1,7 +1,6 @@
 ---
 title: Seka Ellepo
 date: 2020-08-24 12:39:00 Z
-published: false
 Photo: https://cdn.hotosm.org/website/Seka+pic.jpg
 Member Type:
   Is Staff: true
