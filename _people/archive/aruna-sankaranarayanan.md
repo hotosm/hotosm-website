@@ -1,10 +1,10 @@
 ---
 title: Aruna Sankaranarayanan
-date: 2019-01-26 08:05:30 Z
+date: 2019-01-26 08:05:00 Z
 published: false
 Photo: https://cdn.hotosm.org/website/aruna.jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Developer
 Country: India
 ---
