@@ -3,7 +3,7 @@ title: Tri Selasa Pagianti
 date: 2018-06-01 20:29:00 Z
 Photo: "/uploads/Tri_Selasa.jpeg"
 Member Type:
-  Is Staff: true
+  Is Staff: false
   Is Voting Member: true
 Job Title: Associate Project Manager
 Languages:
