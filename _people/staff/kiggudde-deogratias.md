@@ -3,7 +3,7 @@ title: Kiggudde Deogratias
 date: 2017-05-03 20:43:00 Z
 Photo: https://cdn.hotosm.org/website/DeogratiasKiggudee.jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
   Is Voting Member: true
 Job Title: Programs Manager - Eastern and Southern Africa
 Country: Uganda
