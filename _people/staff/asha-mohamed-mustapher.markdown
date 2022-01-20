@@ -3,7 +3,7 @@ title: Asha Mohamed Mustapher
 date: 2018-06-01 20:02:00 Z
 Photo: https://cdn.hotosm.org/website/IMG_1605.JPG
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Associate Project Manager
 Project:
 - 'Data for evidence-based decisions: Data Zetu'
