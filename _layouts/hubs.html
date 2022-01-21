@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<div class="get-involved">
+
+  <header class="container what-we-do-header">
+    <h1>{{ page.title }}</h1>
+    <div class="intro">
+      <div class="intro-text">
+        <p>{{ page['Intro Text'] }}</p>
+      </div>
+    </div>
+  </header>
+
+  <div class="get-involved-body">
+
+    <div class="container">
+      <h2 class="partner-subtitle">{{ page.blocktitle }}</h2>
+
+      <div class="module-group top-image-auto">
+        <a class="module link-through light" href="{{ page.block-1.Link }}" id="support-programs">
+          <div class="module-image">
+            <img src="{{ page.block-1.Image }}">
+          </div>
+          <div class="module-details">
+            <!-- <h3>{{ page.block-1.Title | markdownify }}</h3> -->
+            <div class="module-text">{{ page.block-1.Text | markdownify }}</div>
+            <p class="module-cta">{{ page.block-1.Action-text }}</p>
+          </div>
+        </a>
+        <a class="module link-through light" href="{{ page.block-2.Link }}" id="support-programs">
+          <div class="module-image">
+            <img src="{{ page.block-2.Image }}">
+          </div>
+          <div class="module-details">
+            <!-- <h3>{{ page.block-2.Title | markdownify }}</h3> -->
+            <div class="module-text">{{ page.block-2.Text | markdownify }}</div>
+            <p class="module-cta">{{ page.block-2.Action-text  }}</p>
+          </div>
+        </a>
+        <a class="module link-through light" href="{{ page.block-3.Link }}" id="support-programs">
+          <div class="module-image">
+            <img src="{{ page.block-3.Image }}">
+          </div>
+          <div class="module-details">
+            <!-- <h3>{{ page.block-3.Title | markdownify }}</h3> -->
+            <div class="module-text">{{ page.block-3.Text | markdownify }}</div>
+            <p class="module-cta">{{ page.block-3.Action-text  }}</p>
+          </div>
+        </a>
+      </div>
+
+      <div class="hr-h"></div>
+
+    </div>
+
+  </div>
+
+</div>
