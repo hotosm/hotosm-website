@@ -4767,6 +4767,15 @@ th, td {
       object-fit: cover;
     }
   }
+  h3 {
+    font-family: $font-headline;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: .045em;
+    line-height: 1.15;
+    color: $red;
+  }
 }
 
 .roster-link {
