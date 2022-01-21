@@ -31,6 +31,9 @@ collections:
   partners:
     title: Partners
     output: true
+  hubs:
+    title: Open Mapping Hubs
+    output: true
   people:
     title: People
     output: true

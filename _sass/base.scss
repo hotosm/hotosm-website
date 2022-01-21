@@ -1028,6 +1028,13 @@ em {
         object-fit: cover;
       }
     }
+    .module-image-fit {
+      img {
+        /*width: 100%;*/
+        /*height: 100%;*/
+        object-fit: fill;
+      }
+    }
   }
   &:hover {
     .module-cta {
@@ -5480,6 +5487,26 @@ th, td {
         width: 100%;
         height: 240px;
         object-fit: cover;
+      }
+    }
+    .module-details {
+      padding: 0 24px 24px;
+    }
+  }
+}
+
+.top-image-auto {
+  .module {
+    padding: 0;
+    grid-template-rows: auto;
+    align-content: start;
+    .module-image {
+      max-width: 100%;
+      max-height: 100%;
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
       }
     }
     .module-details {
