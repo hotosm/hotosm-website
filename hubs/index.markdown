@@ -19,7 +19,7 @@ block-2:
     local data use cases."
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_ESA_English_Logo_REV_COLOUR.png"
-  Link: "/partners/volunteer-engagement"
+  Link: https://preview.shorthand.com/wGV25xF0MYSDUXQq
 block-3:
   Title: West & Northern Africa
   Text: "<strong>The Open Mapping Hub - West and Northern Africa (WNA Hub)</strong>
