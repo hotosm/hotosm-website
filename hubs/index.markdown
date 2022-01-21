@@ -31,7 +31,7 @@ block-3:
     in accessing open data and free software for their own purposes."
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_WNA_English_Logo_REV_COLOUR.png"
-  Link: "/partners/field-data-collection"
+  Link: https://preview.shorthand.com/XdBCiPbrKJBVMLWB
 block-1:
   Title: Asia Pacific
   Text: "<strong>The Open Mapping Hub - Asia-Pacific</strong> is working to create
