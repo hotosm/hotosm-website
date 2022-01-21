@@ -1,8 +1,8 @@
 ---
 title: Open Mapping Hubs
 position: 0
-blocktitle: ''
-Intro Text: ''
+blocktitle: 
+Intro Text: 
 Page Contact:
   Label: Global Hub Contact
   Text: Interested in partnering with HOT?
@@ -12,7 +12,7 @@ block-2:
   Text: "<strong>The Open Mapping Hub - Eastern and Southern Africa</strong> engages
     open mapping organizations and communities in the region to facilitate exchange
     of ideas and expertise across 23 countries, and provide financial and technical
-    support to massively scale local edits on OpenStreetMap (OSM). By prioritizing
+    support to massively scale local edits on OpenStreetMap (OSM). \n\nBy prioritizing
     local mapping organizations and communities, facilitating knowledge exchange,
     distributing funding, and providing training and support, we are focusing efforts
     to work with local organizations and communities to drive high quality, ethical,
@@ -44,7 +44,7 @@ block-1:
     of underrepresented groups and individuals in the OSM movement."
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png"
-  Link: "/partners/technology-and-training"
+  Link: https://preview.shorthand.com/tf9w2XKf5eKQSfU5
 layout: hubs
 ---
 
