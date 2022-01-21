@@ -51,7 +51,7 @@ layout: default
           <h2>{{ country.name }}</h2>
           <div class="roster-list-wrapper">
           {% for person in sorted-people %}
-            {% if person['Member Type']['Is Staff'] and person.Team == country['country'] %}
+            {% if person.Team == country['country'] %}
               {% include blocks/roster-item.html %}
             {% endif %}
           {% endfor %}
