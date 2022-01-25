@@ -1,0 +1,21 @@
+---
+title: Tropical Cyclone ANA-22 Alert
+date: 2022-01-25 01:23:00 Z
+Glide: ST-2022-000138-MDG
+Event Name: 'Tropical Cyclone for ANA-22 '
+GDACS ID: "\tTC 1000858"
+GDACS-level: 
+Country:
+- Mozambique
+- Malawi
+- Madagascar
+- Zimbabwe
+Event type: TC Tropical Cyclone
+Summary Text: Disaster Services is currently monitoring this event in south-east Africa.
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+Source: <a href="https://www.gdacs.org/report.aspx?eventid=1000858&episodeid=3&eventtype=TC"_blank">GDACS</a>
+---
+
+"Tropical Cyclone ANA-22 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability"
