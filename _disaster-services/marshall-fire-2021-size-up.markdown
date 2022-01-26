@@ -1,0 +1,36 @@
+---
+title: Marshall Fire 2021 Size-up
+date: 2022-01-05 20:28:00 Z
+Glide: WF-2021-000001-HOT
+Event Name: Marshall Fire 2021
+GDACS-level: Green (0.5)
+GDACS ID: WF 1003779
+Country:
+- United States
+Event type: FR Fire
+Summary Text: Hunga Tonga-Hunga Ha'pai Volcanic Eruption and Tsunami has been sized-up.
+Feature Image: FR Fire
+Post-type: timeline
+HDX: <a href="https://data.humdata.org/organization/hot?q=colorado">Colorado</a>
+Resources: N/A
+Wiki-page: 
+Size-up: 
+GDACS Incident Name: Forest Fire (1049 ha) in United States 30 Dec 2021
+Status: size-up
+---
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong>Marshall Fire<br>
+<strong>GDACS Alert Lvl:</strong>Green .5<br>
+<strong>Location:</strong> Colorado, USA<br>
+<strong>Geographic Scope:</strong> Country<br>
+<strong>Estimated Humanitarian Impact:</strong> Cities<br>
+<strong>Estimated Duration:</strong> Day(s) to week(s)<br>
+<strong>Event Scope:</strong> Minor<br>
+<strong>Local Contacts:</strong> OSM US<br>
+<strong>Anticipated Needs:</strong> Imagery and Import Assistance<br>
+<strong>Request(s):</strong> There are no requests from partners currently<br>
+<strong>Need for Activation:</strong> Likely/ongoing support for post-event imagery, potentially support needed for importing existing data.<br>
+<strong>Active Orgs:</strong> OSM US, MAXAR, HOT<br>
+<strong>Lead Orgs:</strong> OSM-Colorado<br>
