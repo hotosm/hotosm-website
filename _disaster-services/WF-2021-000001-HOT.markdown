@@ -1,7 +1,7 @@
 ---
 title: Marshall Fire 2021 Alert
-date: 2022-01-05 20:08:00 Z
-Glide: WF-2022-000001-HOT
+date: 2021-12-30 20:08:00 Z
+Glide: WF-2021-000001-HOT
 Event Name: Marshall Fire 2021
 GDACS ID: WF 1003779
 GDACS-level: Green (0.5)
