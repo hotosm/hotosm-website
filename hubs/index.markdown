@@ -9,10 +9,14 @@ Page Contact:
   Contact Email: partnerships@hotosm.org
 block-2:
   Title: Eastern & Southern Africa
-  Text: |-
-    <strong>The Open Mapping Hub - Eastern and Southern Africa</strong> engages open mapping organizations and communities in the region to facilitate exchange of ideas and expertise across [23 countries](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries), and provide financial and technical support to massively scale local edits on OpenStreetMap (OSM).
-
-    By prioritizing local mapping organizations and communities, facilitating knowledge exchange, distributing funding, and providing training and support, we are focusing efforts to work with local organizations and communities to drive high quality, ethical, local data use cases.
+  Text: "<strong>The Open Mapping Hub - Eastern and Southern Africa</strong> engages
+    open mapping organizations and communities in the region to facilitate exchange
+    of ideas and expertise across [23 countries](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries),
+    and provide financial and technical support to massively scale local edits on
+    OpenStreetMap (OSM). <br /><br />By prioritizing local mapping organizations and
+    communities, facilitating knowledge exchange, distributing funding, and providing
+    training and support, we are focusing efforts to work with local organizations
+    and communities to drive high quality, ethical, local data use cases."
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_ESA_English_Logo_REV_COLOUR.png"
   Link: https://preview.shorthand.com/wGV25xF0MYSDUXQq
@@ -35,7 +39,7 @@ block-1:
     a sustainable OSM ecosystem in Asia-Pacific. We work with open mapping organizations
     and communities in the region to across [25 countries](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries)
     to expand and deepen the open mapping work in the region to generate meaningful
-    data and promote its effective use. We aspire to see government, humanitarian
+    data and promote its effective use. <br /><br />We aspire to see government, humanitarian
     and development agencies commonly using OSM data in their planning and decision-making.
     We are also committed to providing funding, training and support, and to promoting
     the active participation of underrepresented groups and individuals in the OSM
