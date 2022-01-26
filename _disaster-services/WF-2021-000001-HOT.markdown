@@ -7,9 +7,9 @@ GDACS ID: WF 1003779
 GDACS-level: Green (0.5)
 Country:
 - United States
-Event type: WF Wild fire
+Event type: FR Fire
 Summary Text: Disaster Services is currently monitoring this event in Colorado, USA.
-Feature Image: WF Wild fire
+Feature Image: FR Fire
 Status: alert
 Post-type: update
 Source: <a href="https://gdacs.org/report.aspx?eventid=1003779&episodeid=1&eventtype=WF"_blank">GDACS</a>
