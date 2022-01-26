@@ -6,7 +6,7 @@ Event Name: Hunga Tonga-Hunga Ha'pai Volcanic Eruption and Tsunami 2022
 GDACS ID: 'VO 1000036
 
 '
-GDACS-level: Green (2.5)
+GDACS-level: Red (2.5)
 Country:
 - Tonga
 Event type: VO Volcanic Eruption
