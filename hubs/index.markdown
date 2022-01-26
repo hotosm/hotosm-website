@@ -22,13 +22,13 @@ block-2:
   Link: https://preview.shorthand.com/wGV25xF0MYSDUXQq
 block-3:
   Title: West & Northern Africa
-  Text: "<strong>The Open Mapping Hub - West and Northern Africa (WNA Hub)</strong>
-    engages open mapping organizations and communities in the region to facilitate
-    the exchange of ideas and expertise across the region, and provide financial and
-    technical support to massively scale local edits on OpenStreetMap. <br /><br />
-    We stimulate and strengthen the leadership of communities to protect their livelihoods,
-    improve their resilience, and preserve their way of life by promoting social justice
-    in accessing open data and free software for their own purposes."
+  Text: "<strong>The Open Mapping Hub - West and Northern Africa </strong> engages
+    open mapping organizations and communities in the region to facilitate the exchange
+    of ideas and expertise across the region, and provide financial and technical
+    support to massively scale local edits on OpenStreetMap. <br /><br /> We stimulate
+    and strengthen the leadership of communities to protect their livelihoods, improve
+    their resilience, and preserve their way of life by promoting social justice in
+    accessing open data and free software for their own purposes."
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_WNA_English_Logo_REV_COLOUR.png"
   Link: https://preview.shorthand.com/XdBCiPbrKJBVMLWB
