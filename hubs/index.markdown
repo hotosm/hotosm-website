@@ -12,7 +12,7 @@ block-2:
   Text: "<strong>The Open Mapping Hub - Eastern and Southern Africa</strong> engages
     open mapping organizations and communities in the region to facilitate exchange
     of ideas and expertise across 23 countries, and provide financial and technical
-    support to massively scale local edits on OpenStreetMap (OSM). <br /><br />By
+    support to massively scale local edits in OpenStreetMap (OSM). <br /><br />By
     prioritizing local mapping organizations and communities, facilitating knowledge
     exchange, distributing funding, and providing training and support, we are focusing
     efforts to work with local organizations and communities to drive high quality,
@@ -25,7 +25,7 @@ block-3:
   Text: "<strong>The Open Mapping Hub - West and Northern Africa </strong> engages
     open mapping organizations and communities across 24 countries in the region to
     facilitate the exchange of ideas and expertise across the region, and provide
-    financial and technical support to massively scale local edits on OpenStreetMap
+    financial and technical support to massively scale local edits in OpenStreetMap
     (OSM). <br /><br /> We stimulate and strengthen the leadership of communities
     to protect their livelihoods, improve their resilience, and preserve their way
     of life by promoting social justice in accessing open data and free software for
