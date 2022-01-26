@@ -25,24 +25,25 @@ block-3:
   Text: "<strong>The Open Mapping Hub - West and Northern Africa </strong> engages
     open mapping organizations and communities across 24 countries in the region to
     facilitate the exchange of ideas and expertise across the region, and provide
-    financial and technical support to massively scale local edits on OpenStreetMap.
-    <br /><br /> We stimulate and strengthen the leadership of communities to protect
-    their livelihoods, improve their resilience, and preserve their way of life by
-    promoting social justice in accessing open data and free software for their own
-    purposes.<br /><br />"
+    financial and technical support to massively scale local edits on OpenStreetMap
+    (OSM). <br /><br /> We stimulate and strengthen the leadership of communities
+    to protect their livelihoods, improve their resilience, and preserve their way
+    of life by promoting social justice in accessing open data and free software for
+    their own purposes.<br /><br />"
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_WNA_English_Logo_REV_COLOUR.png"
   Link: https://preview.shorthand.com/XdBCiPbrKJBVMLWB
 block-1:
   Title: Asia Pacific
   Text: "<strong>The Open Mapping Hub - Asia-Pacific</strong> is working to create
-    a sustainable OSM ecosystem in Asia-Pacific. We work with open mapping organizations
-    and communities in the region to across 25 countries to expand and deepen the
-    open mapping work in the region to generate meaningful data and promote its effective
-    use. <br /><br />We aspire to see government, humanitarian and development agencies
-    commonly using OSM data in their planning and decision-making. We are also committed
-    to providing funding, training and support, and to promoting the active participation
-    of underrepresented groups and individuals in the OSM movement."
+    a sustainable OpenStreetMap (OSM) ecosystem in Asia-Pacific. We work with open
+    mapping organizations and communities in the region to across 25 countries to
+    expand and deepen the open mapping work in the region to generate meaningful data
+    and promote its effective use. <br /><br />We aspire to see government, humanitarian
+    and development agencies commonly using OSM data in their planning and decision-making.
+    We are also committed to providing funding, training and support, and to promoting
+    the active participation of underrepresented groups and individuals in the OSM
+    movement."
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png"
   Link: https://preview.shorthand.com/tf9w2XKf5eKQSfU5
