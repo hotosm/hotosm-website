@@ -28,16 +28,16 @@ collections:
   posts:
     title: News Posts
     output: true
-  partners:
-    title: Partners
-    output: true
-  hubs:
-    title: Open Mapping Hubs
-    output: true
   hub:
     title: Open Mapping Hub
     output: true
     permalink: "/hubs/:path/"
+  hubs:
+    title: Open Mapping Hubs
+    output: true
+  partners:
+    title: Partners
+    output: true
   people:
     title: People
     output: true
