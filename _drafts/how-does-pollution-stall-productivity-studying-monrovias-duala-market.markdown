@@ -19,8 +19,8 @@ Project:
 
 If you walk through the Duala Market, the largest and most popular wholesale market in Monrovia, Liberia, in the morning, you will see vehicles crowding the streets and shopkeepers setting up their stalls. The shops spill out of the cluster of buildings that once formed the entire market and into the street for a kilometer-and-a-half stretch. Since its founding, the market has expanded to nearly 12 times its original size.
 
-![Monrovia 2.png](/uploads/Monrovia%202.png)
-*Aerial view of heavy traffic and crowding on the streets around the Duala Market*
+![Monrovia 2-83e550.png](/uploads/Monrovia%202-83e550.png)
+*Aerial imagery of heavy traffic and crowding on the streets around the Duala Market*
 
 By midday, the market is packed. Somewhere between 1,000 and 3,000 vendors sell their goods to tens of thousands of customers here, making it a hub of economic activity in Greater Monrovia. The market is a key source of food and goods for residents and of income and livelihoods for vendors from across the region.
 
