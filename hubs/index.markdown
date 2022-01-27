@@ -19,7 +19,7 @@ block-2:
     open data in their everyday lives."
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_ESA_English_Logo_REV_COLOUR.png"
-  Link: https://preview.shorthand.com/wGV25xF0MYSDUXQq
+  Link: https://stories.hotosm.org/esa-homepage/index.html
 block-3:
   Title: West & Northern Africa
   Text: "<strong>The Open Mapping Hub - West and Northern Africa </strong> engages
@@ -46,7 +46,7 @@ block-1:
     movement."
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png"
-  Link: https://preview.shorthand.com/tf9w2XKf5eKQSfU5
+  Link: https://stories.hotosm.org/ap-homepage/index.html
 layout: hubs
 ---
 
