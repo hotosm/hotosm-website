@@ -17,7 +17,7 @@ Project:
 - 'Productivity and Pollution Impacts: Monrovia Market Mapping'
 ---
 
-*This post originally appeared on the [World Bank blog](https://blogs.worldbank.org/sustainablecities/how-does-pollution-stall-productivity-studying-monrovias-duala-market).*
+***This post originally appeared on the [World Bank blog](https://blogs.worldbank.org/sustainablecities/how-does-pollution-stall-productivity-studying-monrovias-duala-market).***
 
 If you walk through the Duala Market, the largest and most popular wholesale market in Monrovia, Liberia, in the morning, you will see vehicles crowding the streets and shopkeepers setting up their stalls. The shops spill out of the cluster of buildings that once formed the entire market and into the street for a kilometer-and-a-half stretch. Since its founding, the market has expanded to nearly 12 times its original size.
 
