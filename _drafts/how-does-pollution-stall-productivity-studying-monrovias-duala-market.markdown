@@ -1,6 +1,9 @@
 ---
 title: How does pollution stall productivity? Studying Monrovia's Duala Market
 date: 2022-01-27 09:10:00 Z
+Summary Text: The World Bank, the Humanitarian OpenStreetMap Team, and iLab Liberia
+  partnered to assess how pollution and lack of infrastructure was impeding the productivity
+  of the Duala Market, Monrovia's largest wholesale market.
 Feature Image: "/uploads/monrovia_mkt_-_1.jpg"
 Person:
 - Jess Beutler
@@ -45,4 +48,4 @@ Here’s what the team found through data analysis:
 
 The Duala Market plays a critical role in Monrovia's economy, but physical, institutional, and economic issues diminish its performance and productivity. 
 
-**Kindly note:** This study pioneered the community mapping of a combination formal/informal market in a city. Others can use the data to design interventions for local economic development and recovery in post-pandemic cities. As the data showed the Duala Market to be a COVID-19 contagion hotspot, some of its data was used to propose early recommendations to the local government for avoiding the spread of the virus  and keeping the market open during lockdowns. Researchers can apply the study’s openly available dataset to plan and prioritize investments in urban environments, including that of the Duala Market.
+**Kindly note:** This study pioneered the community mapping of a combination formal/informal market in a city. Others can use the data to design interventions for local economic development and recovery in post-pandemic cities. As the data showed the Duala Market to be a COVID-19 contagion hotspot, some of its data was used to propose early recommendations to the local government for avoiding the spread of the virus and keeping the market open during lockdowns. Researchers can apply the study’s openly available dataset to plan and prioritize investments in urban environments, including that of the Duala Market.
