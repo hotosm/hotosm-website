@@ -32,7 +32,7 @@ block-3:
     their own purposes.<br /><br />"
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_WNA_English_Logo_REV_COLOUR.png"
-  Link: https://preview.shorthand.com/XdBCiPbrKJBVMLWB
+  Link: https://stories.hotosm.org/wna-homepage/index.html
 block-1:
   Title: Asia Pacific
   Text: "<strong>The Open Mapping Hub - Asia-Pacific</strong> is working to create
