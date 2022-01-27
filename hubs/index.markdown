@@ -9,14 +9,14 @@ Page Contact:
   Contact Email: partnerships@hotosm.org
 block-2:
   Title: Eastern & Southern Africa
-  Text: "<strong>The Open Mapping Hub - Eastern and Southern Africa</strong> engages
-    open mapping organizations and communities in the region to facilitate exchange
-    of ideas and expertise across 23 countries, and provide financial and technical
-    support to massively scale local edits in OpenStreetMap (OSM). <br /><br />By
-    prioritizing local mapping organizations and communities, facilitating knowledge
-    exchange, distributing funding, and providing training and support, we are focusing
-    efforts to work with local organizations and communities to drive high quality,
-    ethical, local data use cases."
+  Text: "**The Open Mapping Hub - Eastern and Southern Africa **works with organizations
+    and communities across 23 countries in creating and updating free, editable and
+    shareable open map data in OpenStreetMap. We believe that open map data is universal
+    and contributes to identifying problems, monitoring change, managing and responding
+    to events, forecasting, setting priorities and understanding humanitarian and
+    development trends. \nWe envision a future where all people in Eastern and Southern
+    Africa have the opportunity to contribute to and use open mapping processes and
+    open data in their everyday lives."
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_ESA_English_Logo_REV_COLOUR.png"
   Link: https://preview.shorthand.com/wGV25xF0MYSDUXQq
