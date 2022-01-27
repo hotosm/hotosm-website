@@ -28,12 +28,16 @@ collections:
   posts:
     title: News Posts
     output: true
-  hubs:
-    title: Open Mapping Hubs
-    output: true
   partners:
     title: Partners
     output: true
+  hubs:
+    title: Open Mapping Hubs
+    output: true
+  hub:
+    title: Open Mapping Hub
+    output: true
+    permalink: "/hubs/:path/"
   people:
     title: People
     output: true
@@ -182,6 +186,12 @@ defaults:
     Page Link:
       Link: 
       Text: 
+- scope:
+    path: ''
+    type: hub
+  values:
+    layout: hub-page
+    embed-link: 
 - scope:
     path: ''
     type: where-we-work

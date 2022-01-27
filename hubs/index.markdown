@@ -18,8 +18,8 @@ block-2:
     efforts to work with local organizations and communities to drive high quality,
     ethical, local data use cases."
   Action-text: Learn More
-  Image: "/uploads/HOT_OMH_ESA_English_Logo_REV_COLOUR.png"
-  Link: https://preview.shorthand.com/wGV25xF0MYSDUXQq
+  Image: /uploads/HOT_OMH_ESA_English_Logo_REV_COLOUR.png
+  Link: "/hubs/esa-hub"
 block-3:
   Title: West & Northern Africa
   Text: "<strong>The Open Mapping Hub - West and Northern Africa </strong> engages
@@ -31,8 +31,8 @@ block-3:
     of life by promoting social justice in accessing open data and free software for
     their own purposes.<br /><br />"
   Action-text: Learn More
-  Image: "/uploads/HOT_OMH_WNA_English_Logo_REV_COLOUR.png"
-  Link: https://preview.shorthand.com/XdBCiPbrKJBVMLWB
+  Image: /uploads/HOT_OMH_WNA_English_Logo_REV_COLOUR.png
+  Link: "/hubs/wna-hub"
 block-1:
   Title: Asia Pacific
   Text: "<strong>The Open Mapping Hub - Asia-Pacific</strong> is working to create
@@ -45,8 +45,8 @@ block-1:
     the active participation of underrepresented groups and individuals in the OSM
     movement."
   Action-text: Learn More
-  Image: "/uploads/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png"
-  Link: https://preview.shorthand.com/tf9w2XKf5eKQSfU5
+  Image: /uploads/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png
+  Link: "/hubs/asia-pacific-hub"
 layout: hubs
 ---
 
