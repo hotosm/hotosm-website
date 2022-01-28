@@ -4,7 +4,7 @@ date: 2016-11-08 21:00:00 Z
 Photo: https://cdn.hotosm.org/website/Headshot+2.jpg
 Member Type:
   Is Staff: true
-Job Title: Senior Global Operations Manager
+Job Title: Head of People Operations & Gender Lead
 Working Group:
 - Fundraising
 - Communications
