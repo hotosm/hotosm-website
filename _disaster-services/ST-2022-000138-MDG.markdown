@@ -15,7 +15,7 @@ Summary Text: Disaster Services is currently monitoring this event in south-east
 Feature Image: TC Tropical Cyclone
 Status: alert
 Post-type: update
-Source: <a href="https://www.gdacs.org/report.aspx?eventid=1000858&episodeid=3&eventtype=TC"_blank">GDACS</a>
+source: <a href="https://www.gdacs.org/report.aspx?eventid=1000858&episodeid=3&eventtype=TC"_blank">GDACS</a>
 ---
 
 "Tropical Cyclone ANA-22 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability"
