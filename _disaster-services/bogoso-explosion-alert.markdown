@@ -12,7 +12,7 @@ Summary Text: Disaster Services is currently monitoring this event in Ghana.
 Feature Image: OT Other
 Status: alert
 Post-type: update
-Source: <a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22512&record=4&last=7475"
+source: <a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22512&record=4&last=7475"
   target="_blank">Glide</a>
 ---
 

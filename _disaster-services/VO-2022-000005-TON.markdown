@@ -14,7 +14,7 @@ Summary Text: Disaster Services is currently monitoring this event in Tonga.
 Feature Image: VO Volcanic Eruption
 Status: alert
 Post-type: update
-Source: <a href="https://www.gdacs.org/report.aspx?eventid=1000036&episodeid=5&eventtype=VO"
+source: <a href="https://www.gdacs.org/report.aspx?eventid=1000036&episodeid=5&eventtype=VO"
   target="_blank">GDACS</a>
 ---
 

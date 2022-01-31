@@ -17,7 +17,7 @@ Summary Text: |-
 Feature Image: TC Tropical Cyclone
 Status: alert
 Post-type: update
-Field name: <a href="https://www.gdacs.org/Cyclones/report.aspx?eventid=1000814&episodeid=17&eventtype=TC"
+source: <a href="https://www.gdacs.org/Cyclones/report.aspx?eventid=1000814&episodeid=17&eventtype=TC"
   target="_blank">GDACS</a>
 ---
 
