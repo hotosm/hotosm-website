@@ -13,7 +13,7 @@ Summary Text: According to the Philippines weather bureau, PAGASA, Typhoon Rai (
 Feature Image: TC Tropical Cyclone
 Status: alert
 Post-type: update
-Source: <a href="https://reliefweb.int/sites/reliefweb.int/files/resources/PDC_Typhoon_Rai_Philippines_UNOCHA_WFP_JADE_15DEC%202100UTC.pdf"
+source: <a href="https://reliefweb.int/sites/reliefweb.int/files/resources/PDC_Typhoon_Rai_Philippines_UNOCHA_WFP_JADE_15DEC%202100UTC.pdf"
   target="_blank">IFRC in Reliefweb</a>
 ---
 
