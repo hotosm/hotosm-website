@@ -12,7 +12,7 @@ Summary Text: Disaster Services is currently monitoring this event in Colorado, 
 Feature Image: FR Fire
 Status: alert
 Post-type: update
-Source: <a href="https://gdacs.org/report.aspx?eventid=1003779&episodeid=1&eventtype=WF"_blank">GDACS</a>
+source: <a href="https://gdacs.org/report.aspx?eventid=1003779&episodeid=1&eventtype=WF"_blank">GDACS</a>
 ---
 
 "This forest fire can have a low humanitarian impact based on the and the affected population and their vulnerability."
