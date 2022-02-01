@@ -20,7 +20,7 @@ This task arose from a demand of the [URBELatam](https://warwick.ac.uk/fac/arts/
 
 URBELatam is supported by the [Preventório Community Bank](https://bancopreventorio.org.br/), a community association operating in Morro do Preventório since 2011. Today, it supports not only Morro do Preventório but also the surrounding communities, providing services to more than 20 thousand people. Its major objective is to promote local development through financial services, such as microcredit, banking, and counseling for local enterprises.
 
-**The Need for Favela Mapping**
+## The Need for Favela Mapping
 
 The need to map the community stems from [the lack of official data on the territory.](https://rioonwatch.org/?p=32519) The specific problem initially presented to us by João Porto de Albuquerque, the principal investigator of URBELatam, was the fact that Morro do Preventório was poorly mapped on OpenStreetMap. One of the many challenges of our project was, and still is, to build dialogue between people who produce maps from within living communities with people who produce maps remotely.
 
@@ -33,7 +33,7 @@ Paulinho Otaviano, a resident and local guide in Santa Marta, [said](https://rio
 ![Favela Mapping 4.jpg](/uploads/Favela%20Mapping%204.jpg)
 One of the authors, Alessandra Figueiredo,  with two community residents
 
-**Mapping Impact**
+## Mapping Impact
 
 Considering their high population density, it is extremely important to map these invisible areas. A faithful map provides accurate data for services and makes us be recognized for what we are: a relevant territory for our city, not only economically but also socially.
 
@@ -47,7 +47,7 @@ One such project was the mapping of local artists. Many artists from the favelas
 
 ![Favela Mapping 2.png](/uploads/Favela%20Mapping%202.png)
 
-**Mapping Methodology**
+## Mapping Methodology
 
 Starting this work from scratch, without any previous data, was a challenge.
 
@@ -59,7 +59,7 @@ On this journey, we encountered several challenges, including identifying leisur
 
 ![Favela Mapping 3.jpg](/uploads/Favela%20Mapping%203.jpg)
 
-**Sharing Knowledge**
+## Sharing Knowledge
 
 From the challenge of applying our work arose the need to set up a community mapping workshop to pass on the knowledge acquired during our journey.
 
@@ -73,5 +73,5 @@ From there, the challenge became translating what we were doing in a simple and 
 
 There, we shared our knowledge and our drives and, amid this exchange, we ended up discovering new motivations and new goals. This generated the desire that the seed we planted in other community agents grows and flourishes, making each favela in Rio de Janeiro come alive through maps made by its own residents.
 
-***The authors from left to right, Alessandra Figueiredo, Elena Veríssimo, e Samara Franco:***
+***The authors from left to right: Alessandra Figueiredo, Elena Veríssimo, e Samara Franco***
 ![Favela Mapping 5.png](/uploads/Favela%20Mapping%205.png)
