@@ -3,9 +3,9 @@ title: Mapeando o cuidado
 date: 2022-02-01 15:42:00 Z
 Feature Image: "/uploads/Favela%20Mapping%201.jpg"
 Person:
-- 
-- 
-- 
+- Alessandra Figueiredo
+- Elena Veríssimo
+- Samara Franco
 Country:
 - Brazil
 ---
