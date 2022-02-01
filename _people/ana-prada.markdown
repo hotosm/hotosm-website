@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Job Title: Partnerships Associate
 Team: Global
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/pranauri
 ---
 
 Ana lives in Bogota, Colombia. She is an urban explorer and a HOT member; she spends most of her free time biking and walking the city. She is passionate about understanding the city’s political economy and how cities connect us all on human, cultural, and economic levels to understand the differences between a thriving and an impoverished community.
