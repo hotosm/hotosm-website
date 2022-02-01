@@ -26,6 +26,8 @@ Vimos isso acontecer em 2013, antes da Copa do Mundo de 2014 no Brasil e dos Jog
 
 Paulinho Otaviano, morador e guia local em Santa Marta, [disse](https://rioonwatch.org.br/?p=23070): “Para mim, o fato de não estar no mapa, cria uma sensação de exclusão, que não fazemos parte da cidade, que não fazemos parte do roteiro tradicional. ”, em entrevista ao [Todo Mapa Tem Um Discurso](https://todomapatemumdiscurso.wordpress.com/).
 
+![Favela Mapping 4.jpg](/uploads/Favela%20Mapping%204.jpg)
+
 ## O Impacto do Mapeamento
 
 Considerando sua alta densidade populacional, é de extrema importância mapear essas áreas invisíveis. Um mapa fiel fornece dados precisos para os serviços e nos faz ser reconhecidos pelo que somos: um território relevante para nossa cidade, não apenas economicamente, mas também socialmente.
@@ -38,6 +40,8 @@ O mapeamento traz benefícios para os próprios moradores, pois nós e o Banco C
 
 Um desses projetos foi o mapeamento de artistas locais. Muitos artistas das favelas não têm financiamento para continuar seu trabalho. O Banco, com seu programa de microcrédito, os auxilia financeiramente, oferecendo empréstimos com juros mais baixos do que os bancos tradicionais. Um impacto direto disso foi visto em Dezembro de 2021 onde foi realizado um [festival ](https://www.instagram.com/p/CWv35eqLFJK/)apenas com artistas do Morro do Preventório, evento que só foi possível graças ao mapeamento cultural.
 
+![Favela Mapping 2.png](/uploads/Favela%20Mapping%202.png)
+
 ## Metodologia de Mapeamento
 
 Começar este trabalho do zero, sem nenhum dado prévio, foi um desafio.
@@ -47,6 +51,8 @@ Enquanto aprendíamos a trabalhar com o HOT Tasking Manager e OSM, criamos uma f
 Outra plataforma muito importante para o nosso trabalho foi o KOBO Collect, uma ferramenta feita para ajudar no trabalho de campo, onde você pode montar formulários com os dados que deseja coletar e depois respondê-los offline e no celular. Isso nos ajudou muito na coleta de dados de vulnerabilidade física.
 
 Nesta jornada encontramos vários desafios, incluindo a identificação de áreas de lazer. Essas áreas geralmente são reconhecidas por seus papéis claros e definidos. No entanto, em zonas mais periféricas, é normal a utilização de espaços públicos sem uma finalidade definida: por exemplo, um terreno baldio pode ser utilizado para diversos fins recreativos, como local de convívio para as crianças brincarem, zona de prática desportiva, recinto de para festas da comunidade, etc.
+
+![Favela Mapping 3.jpg](/uploads/Favela%20Mapping%203.jpg)
 
 ## Compartilhamento de Conhecimento
 
@@ -61,3 +67,5 @@ A decisão de fazer o workshop representou nosso desejo de compartilhar o conhec
 A partir daí, o desafio passou a ser traduzir o que estávamos fazendo de forma simples e didática, menos rígida e acadêmica e mais acessível. Queríamos algo que qualquer um pudesse entender. Afinal, quando a linguagem não é inclusiva e compreensível, acaba sendo segregadora e desanimadora para as pessoas envolvidas, tornando o processo de tornar-se mapeador mais distante e difícil.
 
 Lá, compartilhamos nossos conhecimentos e nossas motivações e, em meio a essa troca, acabamos descobrindo novas motivações e novos objetivos. Isso gerou o desejo de que a semente que plantamos em outros agentes comunitários crescesse e florescesse, fazendo com que cada favela do Rio de Janeiro ganhasse vida por meio de mapas feitos por seus próprios moradores.
+
+![Favela Mapping 5.png](/uploads/Favela%20Mapping%205.png)
