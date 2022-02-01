@@ -1,6 +1,13 @@
 ---
 title: Mapping the Care of People with URBELatam
 date: 2022-02-01 12:56:00 Z
+Feature Image: "/uploads/Favela%20Mapping%201.jpg"
+Person:
+- Alessandra Figueiredo
+- Elena Veríssimo
+- Samara Franco
+Country:
+- Brazil
 ---
 
 We're three women who met for one purpose: to map Morro do Preventório, one of the favelas in the city of Niterói, Rio de Janeiro, Brazil.
@@ -53,4 +60,4 @@ The decision to do the workshop represented our wish to share the knowledge we h
 
 From there, the challenge became translating what we were doing in a simple and didactic way, one less rigid and academic and more accessible. We wanted something *anyone* could understand. After all, when the language isn't inclusive and comprehensible, it turns out to be segregating and discouraging for the people involved, making the process of becoming mappers more distant and difficult.
 
-There, we shared our knowledge and our drives and, amid this exchange, we ended up discovering new motivations and new goals. This generated the desire that the seed we planted in other community agents grows and flourishes, making each favela in Rio de Janeiro come alive through maps made by its own residents.\
+There, we shared our knowledge and our drives and, amid this exchange, we ended up discovering new motivations and new goals. This generated the desire that the seed we planted in other community agents grows and flourishes, making each favela in Rio de Janeiro come alive through maps made by its own residents.
