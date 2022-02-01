@@ -31,6 +31,7 @@ We saw this happen in 2013, before the 2014 World Cup in Brazil and the 2016 Oly
 Paulinho Otaviano, a resident and local guide in Santa Marta, [said](https://rioonwatch.org/?p=32519) “For me, the fact of not being on the map, creates a sense of exclusion, that we are not part of the city, that we are not part of the traditional script,” in an interview with [Todo Mapa Tem Um Discurso](https://todomapatemumdiscurso.wordpress.com/) (Every Map Has a Discourse).
 
 ![Favela Mapping 4.jpg](/uploads/Favela%20Mapping%204.jpg)
+One of the authors, Alessandra Figueiredo,  with two community residents
 
 **Mapping Impact**
 
@@ -72,5 +73,5 @@ From there, the challenge became translating what we were doing in a simple and 
 
 There, we shared our knowledge and our drives and, amid this exchange, we ended up discovering new motivations and new goals. This generated the desire that the seed we planted in other community agents grows and flourishes, making each favela in Rio de Janeiro come alive through maps made by its own residents.
 
-The authors from left to right, Alessandra Figueiredo, Elena Veríssimo, e Samara Franco:
+***The authors from left to right, Alessandra Figueiredo, Elena Veríssimo, e Samara Franco:***
 ![Favela Mapping 5.png](/uploads/Favela%20Mapping%205.png)
