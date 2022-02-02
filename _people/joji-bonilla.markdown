@@ -6,7 +6,6 @@ Member Type:
   Is Staff: false
 Job Title: Community and Volunteer Manager
 Country: Philippines
-Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/bisaykid
 ---
