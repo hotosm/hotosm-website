@@ -7,8 +7,6 @@ redirect_from:
 countries:
 - country: Indonesia
   name: 'Implementing partner: Perkumpulan OpenStreetMap Indonesia (POI)'
-- country: Philippines
-  name: 'Implementing partner: OSM Philippines'
 - country: Tanzania
   name: 'Implementing partner: OpenMap Development Tanzania (OMDTZ)'
 - country: Uganda
