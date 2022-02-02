@@ -3,7 +3,7 @@ title: Joji Bonilla
 date: 2020-03-17 02:29:00 Z
 Photo: https://cdn.hotosm.org/website/HOT_PH03.png
 Member Type:
-  Is Staff: false
+  Is Staff: true
 Job Title: Community and Volunteer Manager
 Country: Philippines
 Social Media (Full URL):
