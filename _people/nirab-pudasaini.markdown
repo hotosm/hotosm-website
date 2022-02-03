@@ -1,11 +1,14 @@
 ---
 title: Nirab Pudasaini
 date: 2022-02-01 17:53:00 Z
+published: false
 Photo: "/uploads/Nirab_Pudasaini_Picture.jpg"
 Member Type:
   Is Staff: true
 Job Title: Open Tech and Innovation Specialist - Asia Pacific
 Team: Asia Pacific Hub
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Nirab%20Pudasaini
 ---
 
 Nirab is part of the HOT team as the Open Tech and Innovation Specialist for the Asia Pacific hub.
