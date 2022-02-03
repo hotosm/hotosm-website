@@ -43,15 +43,15 @@ We believe firmly in working with the community, and that for the strategy to ha
 ## Immediate Needs (pre June 2022): *the scope of this RfP*
 **[Pre-reading](https://docs.google.com/document/d/1nzN8rgR5r8YVpPa8sS4mRIaofhK0RqSWmdO1ocvhNx0/edit)**
 1. We’d like you to assist us with:
-* Developing the vision and values
-* Facilitation (internal and external); designing facilitation methods for staff & community engagement. We want you to listen to our objectives, and help design facilitation methods which will help achieve deep involvement of the HOT Community.
+    * Developing the vision and values
+    * Facilitation (internal and external); designing facilitation methods for staff & community engagement. We want you to listen to our objectives, and help design facilitation methods which will help achieve deep involvement of the HOT Community.
 2. We’d like you to lead on:
-* A stock check of where HOT is now, where we want to go and how we are delivering
-* SWOT and horizon scanning for the immediate (0-1 year) and medium term (1-3 year) future 
-* Research relevant peer organisations/ movements and present case studies/ lessons learned 
-* Develop an Operating Model which allows us to deliver on our vision, in accordance with our values
-* Facilitating decision making by Leadership team where required
-* Delivery of final strategy: write ups and final products (to be agreed as part of the interview process)
+    * A stock check of where HOT is now, where we want to go and how we are delivering
+    * SWOT and horizon scanning for the immediate (0-1 year) and medium term (1-3 year) future 
+    * Research relevant peer organisations/ movements and present case studies/ lessons learned 
+    * Develop an Operating Model which allows us to deliver on our vision, in accordance with our values
+    * Facilitating decision making by Leadership team where required
+    * Delivery of final strategy: write ups and final products (to be agreed as part of the interview process)
 
 ## Longer term needs (July 2022-2023): *the scope of a future RfP, which will be shaped by the initial RfP*
 1. Assist us to develop a mechanism to prioritise and address top strategic priorities for the organisation moving forward
