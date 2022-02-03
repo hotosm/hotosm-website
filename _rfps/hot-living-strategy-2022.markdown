@@ -60,27 +60,26 @@ We believe firmly in working with the community, and that for the strategy to ha
 We are expecting proposals in the range of $30-80k USD. We know this is a really big range; we would like to see responses from individuals and larger organisations and envisage a team of 1-3 people. We understand that different scale teams will deliver differently, and we are not prescribed to who we work with. We want you to assess our RfP and think about what it would really take for you or your team to do the work well, and to have an open conversation about that if you get to the interview stage.
 
 ## What do we want from you?
-A maximum 12 slide proposal that answers the following:
-Basic background on your firm, including what your strategic development process includes, and why are you the right individual or firm to help us deliver a Living Strategy?
-How can you help us deliver this work within our recommended time frames, considering involvement from 7 board members, 50-100 voting members, community members, and 80 staff members (of which there are 15 senior leaders).
-Explain how you manage your client relationships when handling strategy development (breakdown of responsibilities, frequency of engagement with project team and other groups, etc)
-Please describe your involvement and expertise in the following elements of Strategy Creation:
-Planning
-Facilitation
-Engagement with different stakeholders: board, membership, community (our implementation stakeholders and partners), staff
-Proven experience developing strategies which deliver localisation, community empowerment, and sharing power
-Technical expertise in humanitarian and/or open source technology NGOs or nonprofits
-List the team member(s) who would work directly on our project and their experience.
-List 3+ of your clients that you feel are similar in scope to HOT, with examples of the work completed for them. Please include clients that you think would be comfortable providing us a reference down the line.
-Cost based on the recommended approach (or approaches) listed in section (a) of your proposal. 
-Provide any additional information or comments that you believe would distinguish your organization from others, or that would be relevant for us to know as we consider your response
-Send your proposal to info@hotosm.org with the subject line “HOT Strategy 2022: Request for Proposal: <your name>”
+**A maximum 12 slide proposal that answers the following:**
+1. Basic background on your firm, including what your strategic development process includes, and why are you the right individual or firm to help us deliver a Living Strategy?
+2. How can you help us deliver this work within our recommended time frames, considering involvement from 7 board members, 50-100 voting members, community members, and 80 staff members (of which there are 15 senior leaders).
+3. Explain how you manage your client relationships when handling strategy development (breakdown of responsibilities, frequency of engagement with project team and other groups, etc)
+4. Please describe your involvement and expertise in the following elements of Strategy Creation:
+* * Planning
+* * Facilitation
+* * Engagement with different stakeholders: board, membership, community (our implementation stakeholders and partners), staff
+* * Proven experience developing strategies which deliver localisation, community empowerment, and sharing power
+* * Technical expertise in humanitarian and/or open source technology NGOs or nonprofits
+5. List the team member(s) who would work directly on our project and their experience.
+6. List 3+ of your clients that you feel are similar in scope to HOT, with examples of the work completed for them. Please include clients that you think would be comfortable providing us a reference down the line.
+7. Cost based on the recommended approach (or approaches) listed in section (a) of your proposal. 
+8. Provide any additional information or comments that you believe would distinguish your organization from others, or that would be relevant for us to know as we consider your response
+**Send your proposal to info@hotosm.org with the subject line “HOT Strategy 2022: Request for Proposal: <your name>”**
 
 ## Who will you be working with on our team?
 * **[Rebecca Firth](https://www.linkedin.com/in/rebecca-firth/)** - Senior Director, Strategy & Programs 
 * **[Sara Amadi](https://www.linkedin.com/in/saraamadi/)** - Senior Manager, Strategy & Implementation 
 * **[Tyler Radford](https://www.linkedin.com/in/tylerradford/)** - Executive Director 
-
 
 ## Timelines
 * RfP Posted: 7th Feb
