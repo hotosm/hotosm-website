@@ -42,10 +42,10 @@ We believe firmly in working with the community, and that for the strategy to ha
 
 ## Immediate Needs (pre June 2022): *the scope of this RfP*
 **[Pre-reading](https://docs.google.com/document/d/1nzN8rgR5r8YVpPa8sS4mRIaofhK0RqSWmdO1ocvhNx0/edit)**
-1. We’d like you to assist us with:
+* We’d like you to assist us with:
     * Developing the vision and values
     * Facilitation (internal and external); designing facilitation methods for staff & community engagement. We want you to listen to our objectives, and help design facilitation methods which will help achieve deep involvement of the HOT Community.
-2. We’d like you to lead on:
+* We’d like you to lead on:
     * A stock check of where HOT is now, where we want to go and how we are delivering
     * SWOT and horizon scanning for the immediate (0-1 year) and medium term (1-3 year) future 
     * Research relevant peer organisations/ movements and present case studies/ lessons learned 
