@@ -66,11 +66,11 @@ We are expecting proposals in the range of $30-80k USD. We know this is a really
 2. How can you help us deliver this work within our recommended time frames, considering involvement from 7 board members, 50-100 voting members, community members, and 80 staff members (of which there are 15 senior leaders).
 3. Explain how you manage your client relationships when handling strategy development (breakdown of responsibilities, frequency of engagement with project team and other groups, etc)
 4. Please describe your involvement and expertise in the following elements of Strategy Creation:
-* Planning
-* Facilitation
-* Engagement with different stakeholders: board, membership, community (our implementation stakeholders and partners), staff
-* Proven experience developing strategies which deliver localisation, community empowerment, and sharing power
-* Technical expertise in humanitarian and/or open source technology NGOs or nonprofits
+    Planning
+    Facilitation
+    Engagement with different stakeholders: board, membership, community (our implementation stakeholders and partners), staff
+    Proven experience developing strategies which deliver localisation, community empowerment, and sharing power
+    Technical expertise in humanitarian and/or open source technology NGOs or nonprofits
 5. List the team member(s) who would work directly on our project and their experience.
 6. List 3+ of your clients that you feel are similar in scope to HOT, with examples of the work completed for them. Please include clients that you think would be comfortable providing us a reference down the line.
 7. Cost based on the recommended approach (or approaches) listed in section (a) of your proposal. 
