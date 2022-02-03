@@ -28,7 +28,7 @@ To inform their work, teams or individuals also use:
 5. **HOT’s Objectives & Key Results (OKRs)** - which were written in July 2021 to set ambitious goals for the organisation both at the entire organisation and individual team level. The most recent organisation level OKRs span one year (July 2021 - June 2022), while team OKRs vary in length (often 3m or 6m and in some cases 1 year). Over the course of the year, we’ve learned that annual OKRs have been difficult to work with as an organisation, and are working on options to allow us to set regular focused goals, which optimize cross-team alignment and collaboration. 
 6. **Individual team strategies** - these exist for some teams, but at varying levels of completeness, and with minimal interaction between teams.
 
-**Now**
+## Now
 
 We are in a position where we want to bring together all of these documents in a coherent stock check of where we are, and where we want to go. The mission & vision laid out in our 2019-21 strategy are still largely relevant, but we want to reassess methods to achieve them over the next 3+ years. We need to update our strategy to reflect updated **content** (what options and opportunities are there for HOT; how do we assess these & their suitability), and to bring **cohesion** (without one guiding document that all teams are following, different individuals/teams have interpreted HOT’s work in different ways, and can diverge, resulting in misalignment).
 
