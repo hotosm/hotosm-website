@@ -1,7 +1,7 @@
 ---
 title: Tropical Cyclone BATSIRAI-22 Alert
 date: 2022-02-02 15:15:00 Z
-Glide: TC-1000859
+Glide: EC-2022-000156-MDG
 Event Name: Tropical Cyclone BATSIRAI-22
 GDACS ID: TC-1000859
 GDACS-level: Red (2.5)
