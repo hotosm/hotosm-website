@@ -33,23 +33,58 @@ We are in a position where we want to bring together all of these documents in a
 
 We believe firmly in working with the community, and that for the strategy to have value it must be referenced on a regular basis by staff, and help them do their jobs better. We want to develop a Living Strategy, the scope and purpose of which are laid out [here](https://docs.google.com/document/d/1nzN8rgR5r8YVpPa8sS4mRIaofhK0RqSWmdO1ocvhNx0/edit). We are seeking an organisation or individual who can help us develop, deliver, and structure the strategy which addresses HOT’s top strategic needs by the beginning of June 2022. This must shift us closer to achieving our vision and mission, and answer big questions which are presently blocking our progress. We want to establish a relationship that can extend to future strategic needs.
 
-**Values that must be embodied in strategic development**
+## Values that must be embodied in strategic development
 * **Community centricity:** HOT is based around open source software and embodies many of its principles. We need to establish appropriate methods for engagement of diverse groups of community members and staff, and respect their institutional knowledge.
 * **Agility:** HOT has historically had tight feedback loops with the people it serves, and thrives in its ability to meet needs of the humanitarian and development sector through technology as these change and develop. 
 * **The strategy is delivery:** The link between strategy and implementation must be very close. HOT is based around grassroots action, and a strategy must serve our staff and community. This means an actionable, tangible, realistic strategy - no (corporate) management speak. 
 * **Flexibility with boundaries:** engage with community members on methods and timeframes which work for them, but still keep HOT on track.
 
-**Immediate Needs (pre June 2022): *the scope of this RfP***
+## Immediate Needs (pre June 2022): *the scope of this RfP*
 **[Pre-reading](https://docs.google.com/document/d/1nzN8rgR5r8YVpPa8sS4mRIaofhK0RqSWmdO1ocvhNx0/edit)**
 1. We’d like you to assist us with:
-* Developing the vision and values
-* Facilitation (internal and external); designing facilitation methods for staff & community engagement. We want you to listen to our objectives, and help design facilitation methods which will help achieve deep involvement of the HOT Community.
+* * Developing the vision and values
+* * Facilitation (internal and external); designing facilitation methods for staff & community engagement. We want you to listen to our objectives, and help design facilitation methods which will help achieve deep involvement of the HOT Community.
 2. We’d like you to lead on:
-* A stock check of where HOT is now, where we want to go and how we are delivering
-* SWOT and horizon scanning for the immediate (0-1 year) and medium term (1-3 year) future 
-* Research relevant peer organisations/ movements and present case studies/ lessons learned 
-* Develop an Operating Model which allows us to deliver on our vision, in accordance with our values
-* Facilitating decision making by Leadership team where required
-* Delivery of final strategy: write ups and final products (to be agreed as part of the interview process)
+* * A stock check of where HOT is now, where we want to go and how we are delivering
+* * SWOT and horizon scanning for the immediate (0-1 year) and medium term (1-3 year) future 
+* * Research relevant peer organisations/ movements and present case studies/ lessons learned 
+* * Develop an Operating Model which allows us to deliver on our vision, in accordance with our values
+* * Facilitating decision making by Leadership team where required
+* * Delivery of final strategy: write ups and final products (to be agreed as part of the interview process)
+
+## Longer term needs (July 2022-2023): *the scope of a future RfP, which will be shaped by the initial RfP*
+1. Assist us to develop a mechanism to prioritise and address top strategic priorities for the organisation moving forward
+2. Fulfil strategy for key thematic areas, including movement strategy (mobilisation and engagement), our global governance model, staffing, and business model.
+
+## Pricing
+We are expecting proposals in the range of $30-80k USD. We know this is a really big range; we would like to see responses from individuals and larger organisations and envisage a team of 1-3 people. We understand that different scale teams will deliver differently, and we are not prescribed to who we work with. We want you to assess our RfP and think about what it would really take for you or your team to do the work well, and to have an open conversation about that if you get to the interview stage.
+
+## What do we want from you?
+A maximum 12 slide proposal that answers the following:
+Basic background on your firm, including what your strategic development process includes, and why are you the right individual or firm to help us deliver a Living Strategy?
+How can you help us deliver this work within our recommended time frames, considering involvement from 7 board members, 50-100 voting members, community members, and 80 staff members (of which there are 15 senior leaders).
+Explain how you manage your client relationships when handling strategy development (breakdown of responsibilities, frequency of engagement with project team and other groups, etc)
+Please describe your involvement and expertise in the following elements of Strategy Creation:
+Planning
+Facilitation
+Engagement with different stakeholders: board, membership, community (our implementation stakeholders and partners), staff
+Proven experience developing strategies which deliver localisation, community empowerment, and sharing power
+Technical expertise in humanitarian and/or open source technology NGOs or nonprofits
+List the team member(s) who would work directly on our project and their experience.
+List 3+ of your clients that you feel are similar in scope to HOT, with examples of the work completed for them. Please include clients that you think would be comfortable providing us a reference down the line.
+Cost based on the recommended approach (or approaches) listed in section (a) of your proposal. 
+Provide any additional information or comments that you believe would distinguish your organization from others, or that would be relevant for us to know as we consider your response
+Send your proposal to info@hotosm.org with the subject line “HOT Strategy 2022: Request for Proposal: <your name>”
+
+## Who will you be working with on our team?
+* **[Rebecca Firth](https://www.linkedin.com/in/rebecca-firth/)** - Senior Director, Strategy & Programs 
+* **[Sara Amadi](https://www.linkedin.com/in/saraamadi/)** - Senior Manager, Strategy & Implementation 
+* **[Tyler Radford](https://www.linkedin.com/in/tylerradford/)** - Executive Director 
 
 
+## Timelines
+* RfP Posted: 7th Feb
+* Accepting applications until: End of Day 21st Feb
+* After review of proposals, we expect to host interviews with promising applicants: w/c 28th February
+* Confirm an org: 3rd March
+* Start date of: w/c March 7th preferable, absolute latest 28th March
