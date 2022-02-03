@@ -11,6 +11,7 @@ Partner:
 - MapUganda
 Duration:
   Start Date: 2021-03-01 00:00:00 Z
+  End Date: 2021-12-31 00:00:00 Z
 Micrograntee: true
 ---
 
