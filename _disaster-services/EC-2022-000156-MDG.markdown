@@ -1,8 +1,8 @@
 ---
-title: Tropical Cyclone BATSIRAI-22 Alert
+title: ESA Cyclone Batsirai 2022 Alert
 date: 2022-02-02 15:15:00 Z
 Glide: EC-2022-000156-MDG
-Event Name: Tropical Cyclone BATSIRAI-22
+Event Name: ESA Cyclone Batsirai 2022
 GDACS ID: TC-1000859
 GDACS-level: Red (2.5)
 Country: Madagascar
