@@ -1,0 +1,20 @@
+---
+title: Minas Gerais Flood 2022 Alert
+date: 2022-01-09 15:45:00 Z
+Glide: FL-2022-000154-BRA
+Event Name: Minas Gerais Flood 2022
+GDACS ID: FL 1101205
+GDACS-level: Orange (1.5)
+Country:
+- Brazil
+Event type: FL Flood
+Summary Text: '"Landslides and flooding caused by torrential rains have killed at
+  least 15 people in south-eastern Brazil"'
+Feature Image: FL Flood
+Status: alert
+Post-type: update
+source: <a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22514&record=2&last=7475"
+  target="_blank">GLIDE</a>
+---
+
+"The victims died between Sunday and Tuesday in Minas Gerais state, where rivers have overflowed, leaving towns partially submerged. More than 28,000 people have had to leave their homes."
