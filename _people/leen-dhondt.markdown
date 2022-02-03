@@ -1,7 +1,6 @@
 ---
 title: Leen D'hondt
 date: 2022-02-03 04:45:00 Z
-published: false
 Photo: "/uploads/Leen%20D'hondt.JPG"
 Member Type:
   Is Staff: true
