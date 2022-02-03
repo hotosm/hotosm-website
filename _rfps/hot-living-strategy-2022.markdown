@@ -42,15 +42,15 @@ We believe firmly in working with the community, and that for the strategy to ha
 ## Immediate Needs (pre June 2022): *the scope of this RfP*
 **[Pre-reading](https://docs.google.com/document/d/1nzN8rgR5r8YVpPa8sS4mRIaofhK0RqSWmdO1ocvhNx0/edit)**
 1. We’d like you to assist us with:
-* * Developing the vision and values
-* * Facilitation (internal and external); designing facilitation methods for staff & community engagement. We want you to listen to our objectives, and help design facilitation methods which will help achieve deep involvement of the HOT Community.
+* Developing the vision and values
+* Facilitation (internal and external); designing facilitation methods for staff & community engagement. We want you to listen to our objectives, and help design facilitation methods which will help achieve deep involvement of the HOT Community.
 2. We’d like you to lead on:
-* * A stock check of where HOT is now, where we want to go and how we are delivering
-* * SWOT and horizon scanning for the immediate (0-1 year) and medium term (1-3 year) future 
-* * Research relevant peer organisations/ movements and present case studies/ lessons learned 
-* * Develop an Operating Model which allows us to deliver on our vision, in accordance with our values
-* * Facilitating decision making by Leadership team where required
-* * Delivery of final strategy: write ups and final products (to be agreed as part of the interview process)
+* A stock check of where HOT is now, where we want to go and how we are delivering
+* SWOT and horizon scanning for the immediate (0-1 year) and medium term (1-3 year) future 
+* Research relevant peer organisations/ movements and present case studies/ lessons learned 
+* Develop an Operating Model which allows us to deliver on our vision, in accordance with our values
+* Facilitating decision making by Leadership team where required
+* Delivery of final strategy: write ups and final products (to be agreed as part of the interview process)
 
 ## Longer term needs (July 2022-2023): *the scope of a future RfP, which will be shaped by the initial RfP*
 1. Assist us to develop a mechanism to prioritise and address top strategic priorities for the organisation moving forward
@@ -65,11 +65,11 @@ We are expecting proposals in the range of $30-80k USD. We know this is a really
 2. How can you help us deliver this work within our recommended time frames, considering involvement from 7 board members, 50-100 voting members, community members, and 80 staff members (of which there are 15 senior leaders).
 3. Explain how you manage your client relationships when handling strategy development (breakdown of responsibilities, frequency of engagement with project team and other groups, etc)
 4. Please describe your involvement and expertise in the following elements of Strategy Creation:
-* * Planning
-* * Facilitation
-* * Engagement with different stakeholders: board, membership, community (our implementation stakeholders and partners), staff
-* * Proven experience developing strategies which deliver localisation, community empowerment, and sharing power
-* * Technical expertise in humanitarian and/or open source technology NGOs or nonprofits
+* Planning
+* Facilitation
+* Engagement with different stakeholders: board, membership, community (our implementation stakeholders and partners), staff
+* Proven experience developing strategies which deliver localisation, community empowerment, and sharing power
+* Technical expertise in humanitarian and/or open source technology NGOs or nonprofits
 5. List the team member(s) who would work directly on our project and their experience.
 6. List 3+ of your clients that you feel are similar in scope to HOT, with examples of the work completed for them. Please include clients that you think would be comfortable providing us a reference down the line.
 7. Cost based on the recommended approach (or approaches) listed in section (a) of your proposal. 
