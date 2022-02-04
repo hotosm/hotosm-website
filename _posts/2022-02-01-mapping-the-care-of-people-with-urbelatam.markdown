@@ -18,7 +18,7 @@ We're three women who met for one purpose: to map Morro do Preventório, one of 
 
 This task arose from a demand of the [URBELatam](https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/igsd/research/urbelatam/) project, an initiative of three higher education institutions: the University of Glasgow in Scotland, the Federal University of Rio de Janeiro in Brazil, and the University of Antioquia in Colombia. A multidisciplinary research team has come together to produce data in cooperation with favela residents for disaster risk reduction, planning, and local development.
 
-URBELatam is supported by the [Preventório Community Bank](https://bancopreventorio.org.br/), a community association operating in Morro do Preventório since 2011. Today, it supports not only Morro do Preventório but also the surrounding communities, providing services to more than 20 thousand people. Its major objective is to promote local development through financial services, such as microcredit, banking, and counseling for local enterprises.*Screenshot of Morro do Preventório in OpenStreetMap. © OpenStreetMap contributors.*
+URBELatam is supported by the [Preventório Community Bank](https://bancopreventorio.org.br/), a community association operating in Morro do Preventório since 2011. Today, it supports not only Morro do Preventório but also the surrounding communities, providing services to more than 20 thousand people. Its major objective is to promote local development through financial services, such as microcredit, banking, and counseling for local enterprises.
 
 ## The Need for Favela Mapping
 
@@ -26,7 +26,7 @@ The need to map the community stems from [the lack of official data on the terri
 
 There's an effort to have these regions literally erased from highly accessible maps. In Brazil, these gaps are relatively common, as official institutions often consider favelas “unsafe”, using this as an excuse for not delivering essential services and data generation. Comparing the favelas to other areas of the city, we observe they aren't portrayed in an accurate way in research and map visualization service platforms, which causes a certain strangeness. This exclusion makes the community look like it’s not part of where it belongs.
 
-We saw this happen in 2013, before the 2014 World Cup in Brazil and https://www.openstreetmap.org/the 2016 Olympic Games in Rio, when the city government of Rio de Janeiro [asked Google to remove the word "favela" from their maps.](https://www.telegraph.co.uk/technology/google/9982153/Google-removes-word-favela-from-Rio-maps.html) This move to rename the favelas creates the feeling that these areas contain nothing of interest, even in favelas where the population exceeds 100,000 residents.
+We saw this happen in 2013, before the 2014 World Cup in Brazil and the 2016 Olympic Games in Rio, when the city government of Rio de Janeiro [asked Google to remove the word "favela" from their maps.](https://www.telegraph.co.uk/technology/google/9982153/Google-removes-word-favela-from-Rio-maps.html) This move to rename the favelas creates the feeling that these areas contain nothing of interest, even in favelas where the population exceeds 100,000 residents.
 
 Paulinho Otaviano, a resident and local guide in Santa Marta, [said](https://rioonwatch.org/?p=32519) “For me, the fact of not being on the map, creates a sense of exclusion, that we are not part of the city, that we are not part of the traditional script,” in an interview with [Todo Mapa Tem Um Discurso](https://todomapatemumdiscurso.wordpress.com/) (Every Map Has a Discourse).
 
@@ -40,7 +40,7 @@ Considering their high population density, it is extremely important to map thes
 
 To better understand the community, we field mapped it in OpenStreetMap (OSM). With months of fieldwork, we put more than 4,000 houses from the favela on the map.
 
-Over the course of eight months, we mapped the entire territory of Morro do Preventório. We generated data on streets, alleys, businesses, public buildings, houses, etc. through extensive fieldwork between researchers and residents.
+Over the course of eight months, we mapped the entire territory of [Morro do Preventório](https://www.openstreetmap.org/#map=17/-22.93533/-43.09959). We generated data on streets, alleys, businesses, public buildings, houses, etc. through extensive fieldwork between researchers and residents.
 
 The mapping brings benefits to the residents themselves, as we and the Preventório Community Bank can use it to identify the needs, absences, and strengths of the community. From the data generated, it is possible to have a complete understanding of the services provided and the community's undertakings. In this way, the Bank is able to analyze in greater depth the potential for new social services and also develop initiatives to promote the local economy like expanding its microcredit programs.
 
