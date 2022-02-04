@@ -52,7 +52,7 @@ Um desses projetos foi o mapeamento de artistas locais. Muitos artistas das fave
 
 Começar este trabalho do zero, sem nenhum dado prévio, foi um desafio.
 
-Enquanto aprendíamos a trabalhar com o HOT Tasking Manager e OSM, criamos uma forma mais artesanal de mapeamento, usando as subdivisões HOT como base. A partir das imagens do Google Maps e do conhecimento prévio dos moradores, foi possível catalogar os diferentes tipos de edificações caminhando pela comunidade ou mesmo pela memória dos cartógrafos locais.
+Enquanto aprendíamos a trabalhar com o HOT Tasking Manager e OSM, criamos uma forma mais artesanal de mapeamento, usando as subdivisões HOT como base. A partir das imagens e do conhecimento prévio dos moradores, foi possível catalogar os diferentes tipos de edificações caminhando pela comunidade ou mesmo pela memória dos cartógrafos locais.
 
 Outra plataforma muito importante para o nosso trabalho foi o KOBO Collect, uma ferramenta feita para ajudar no trabalho de campo, onde você pode montar formulários com os dados que deseja coletar e depois respondê-los offline e no celular. Isso nos ajudou muito na coleta de dados de vulnerabilidade física.
 
