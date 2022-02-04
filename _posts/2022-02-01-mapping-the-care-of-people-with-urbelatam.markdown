@@ -47,11 +47,11 @@ One such project was the mapping of local artists. Many artists from the favelas
 
 ![Favela Mapping 2.png](/uploads/Favela%20Mapping%202.png)
 
-*Screenshot of Morro do Preventório in OpenStreetMap. © OpenStreetMap contributors.*
+*Screenshot of Morro do Preventório in OpenStreetMap. ©OpenStreetMap contributors.*
 
 ## Mapping Methodology
 
-Starting this work from scratch, without any prevOpenStreetMapious data, was a challenge.
+Starting this work from scratch, without any previous data, was a challenge.
 
 While we were learning to work with the [HOT Tasking Manager](https://tasks.hotosm.org/) and OSM, we created a more artisanal way of mapping, using the HOT subdivisions as a basis. From the imagery and residents' prior knowledge, it was possible to catalogue the different types of buildings by walking through the community or even through the memory of local mapmakers.
 
