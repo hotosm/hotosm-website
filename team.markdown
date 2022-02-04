@@ -14,6 +14,7 @@ countries:
 hubs:
 - Asia Pacific Hub
 - Eastern and Southern Africa Hub
+- West and Northern Africa Hub
 layout: roster-staff
 ---
 
