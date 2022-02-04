@@ -38,14 +38,15 @@ Considerando sua alta densidade populacional, é de extrema importância mapear 
 
 Para entender melhor a comunidade nós mapeamos no OpenStreetMap (OSM). Com meses de trabalho de campo, colocamos no mapa mais de 4.000 casas da favela.
 
-Ao longo de oito meses, mapeamos todo o território do Morro do Preventório. Geramos dados de ruas, becos, comércios, prédios públicos, casas, etc. através de extenso trabalho de campo entre pesquisadores e moradores.
+Ao longo de oito meses, mapeamos todo o [território do Morro do Preventório](https://www.openstreetmap.org/#map=17/-22.93533/-43.09959). Geramos dados de ruas, becos, comércios, prédios públicos, casas, etc. através de extenso trabalho de campo entre pesquisadores e moradores.
 
 O mapeamento traz benefícios para os próprios moradores, pois nós e o Banco Comunitário Preventório podemos utilizá-lo para identificar as necessidades, ausências e potencialidades da comunidade. A partir dos dados gerados, é possível ter um entendimento completo dos serviços prestados e dos empreendimentos da comunidade. Dessa forma, o Banco consegue analisar com maior profundidade o potencial de novos serviços sociais e também desenvolver iniciativas de fomento à economia local, como a expansão de seus programas de microcrédito.
 
 Um desses projetos foi o mapeamento de artistas locais. Muitos artistas das favelas não têm financiamento para continuar seu trabalho. O Banco, com seu programa de microcrédito, os auxilia financeiramente, oferecendo empréstimos com juros mais baixos do que os bancos tradicionais. Um impacto direto disso foi visto em Dezembro de 2021 onde foi realizado um [festival ](https://www.instagram.com/p/CWv35eqLFJK/)apenas com artistas do Morro do Preventório, evento que só foi possível graças ao mapeamento cultural.
 
 ![Favela Mapping 2.png](/uploads/Favela%20Mapping%202.png)
-*Captura de pantalla de Morro do Preventório en OpenStreetMap. © Colaboradores de OpenStreetMap.*
+
+*Captura de pantalla de Morro do Preventório en OpenStreetMap. ©Colaboradores de OpenStreetMap.*
 
 ## Metodologia de Mapeamento
 
