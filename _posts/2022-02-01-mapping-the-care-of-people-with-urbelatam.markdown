@@ -31,7 +31,7 @@ We saw this happen in 2013, before the 2014 World Cup in Brazil and https://www.
 Paulinho Otaviano, a resident and local guide in Santa Marta, [said](https://rioonwatch.org/?p=32519) “For me, the fact of not being on the map, creates a sense of exclusion, that we are not part of the city, that we are not part of the traditional script,” in an interview with [Todo Mapa Tem Um Discurso](https://todomapatemumdiscurso.wordpress.com/) (Every Map Has a Discourse).
 
 ![Favela Mapping 4.jpg](/uploads/Favela%20Mapping%204.jpg)
-*One of the authors, Alessandra Figueiredo,  with two community residents*
+*One of the authors, Alessandra Figueiredo, with two community residents*
 
 ## Mapping Impact
 
