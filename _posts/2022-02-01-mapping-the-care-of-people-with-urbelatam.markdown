@@ -46,7 +46,7 @@ The mapping brings benefits to the residents themselves, as we and the Preventó
 
 One such project was the mapping of local artists. Many artists from the favelas do not have funding to continue their work. The Bank, with its microcredit program, financially helps them, offering loans at lower interest rates than traditional banks. A direct impact of this was seen in December 2021 when a [festival](https://www.instagram.com/p/CWv35eqLFJK/) was held only with artists from Morro do Preventório, an event that was only possible thanks to cultural mapping.
 
-![Morro do Preventório.png](/uploads/Morro%20do%20Prevent%C3%B3rio.png)*Screenshot of Morro do Preventório in OpenStreetMap. [©OpenStreetMap contributors.](http://openstreetmap.org/)*
+![Morro do Preventório.png](/uploads/Morro%20do%20Prevent%C3%B3rio.png)*Screenshot of Morro do Preventório in OpenStreetMap. [©OpenStreetMap contributors.](https://www.openstreetmap.org/copyright)*
 
 ## Mapping Methodology
 
