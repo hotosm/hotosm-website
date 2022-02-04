@@ -44,7 +44,7 @@ O mapeamento traz benefícios para os próprios moradores, pois nós e o Banco C
 
 Um desses projetos foi o mapeamento de artistas locais. Muitos artistas das favelas não têm financiamento para continuar seu trabalho. O Banco, com seu programa de microcrédito, os auxilia financeiramente, oferecendo empréstimos com juros mais baixos do que os bancos tradicionais. Um impacto direto disso foi visto em Dezembro de 2021 onde foi realizado um [festival ](https://www.instagram.com/p/CWv35eqLFJK/)apenas com artistas do Morro do Preventório, evento que só foi possível graças ao mapeamento cultural.
 
-![Morro do Preventório.png](/uploads/Morro%20do%20Prevent%C3%B3rio.png) *Captura de pantalla de Morro do Preventório en OpenStreetMap. [©Colaboradores de OpenStreetMap.](http://openstreetmap.org/)*
+![Morro do Preventório.png](/uploads/Morro%20do%20Prevent%C3%B3rio.png) *Captura de pantalla de Morro do Preventório en OpenStreetMap. [©Colaboradores de OpenStreetMap.](https://www.openstreetmap.org/copyright)*
 
 ## Metodologia de Mapeamento
 
