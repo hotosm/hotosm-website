@@ -1,6 +1,7 @@
 ---
 title: Mapping the Care of People with URBELatam
 date: 2022-02-01 12:56:00 Z
+published: false
 Summary Text: URBELatam, a partnership of three universities, is working with the
   Preventório Community Bank to map the Morro do Preventório community near Rio de
   Janeiro. This will enable the bank to expand its services to the community and serve
@@ -75,5 +76,5 @@ From there, the challenge became translating what we were doing in a simple and 
 
 There, we shared our knowledge and our drives and, amid this exchange, we ended up discovering new motivations and new goals. This generated the desire that the seed we planted in other community agents grows and flourishes, making each favela in Rio de Janeiro come alive through maps made by its own residents.
 
-***The authors from left to right: Alessandra Figueiredo, Elena Veríssimo, e Samara Franco***
+***The authors from left to right: Alessandra Figueiredo, Elena Veríssimo and Samara Franco***
 ![Favela Mapping 5.png](/uploads/Favela%20Mapping%205.png)
