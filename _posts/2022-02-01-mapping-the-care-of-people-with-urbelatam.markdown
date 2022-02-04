@@ -1,7 +1,6 @@
 ---
 title: Mapping the Care of People with URBELatam
 date: 2022-02-01 12:56:00 Z
-published: false
 Summary Text: URBELatam, a partnership of three universities, is working with the
   Preventório Community Bank to map the Morro do Preventório community near Rio de
   Janeiro. This will enable the bank to expand its services to the community and serve
@@ -32,6 +31,7 @@ We saw this happen in 2013, before the 2014 World Cup in Brazil and https://www.
 Paulinho Otaviano, a resident and local guide in Santa Marta, [said](https://rioonwatch.org/?p=32519) “For me, the fact of not being on the map, creates a sense of exclusion, that we are not part of the city, that we are not part of the traditional script,” in an interview with [Todo Mapa Tem Um Discurso](https://todomapatemumdiscurso.wordpress.com/) (Every Map Has a Discourse).
 
 ![Favela Mapping 4.jpg](/uploads/Favela%20Mapping%204.jpg)
+
 *One of the authors, Alessandra Figueiredo, with two community residents*
 
 ## Mapping Impact
