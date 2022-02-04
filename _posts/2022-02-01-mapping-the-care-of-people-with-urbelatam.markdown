@@ -51,9 +51,9 @@ One such project was the mapping of local artists. Many artists from the favelas
 
 ## Mapping Methodology
 
-Starting this work from scratch, without any previous data, was a challenge.
+Starting this work from scratch, without any prevOpenStreetMapious data, was a challenge.
 
-While we were learning to work with the [HOT Tasking Manager](https://tasks.hotosm.org/) and OSM, we created a more artisanal way of mapping, using the HOT subdivisions as a basis. From the imagery from Google Maps and residents' prior knowledge, it was possible to catalog the different types of buildings by walking through the community or even through the memory of local mapmakers.
+While we were learning to work with the [HOT Tasking Manager](https://tasks.hotosm.org/) and OSM, we created a more artisanal way of mapping, using the HOT subdivisions as a basis. From the imagery from Google Maps and residents' prior knowledge, it was possible to catalogue the different types of buildings by walking through the community or even through the memory of local mapmakers.
 
 Another very important platform for our work was [KOBO Collect](https://www.kobotoolbox.org/), a tool made to help work in the field, where you can assemble forms with the data you want to collect and then answer them offline and on your cell phone. It helped us a lot in collecting physical vulnerability data.
 
