@@ -111,9 +111,8 @@ We are expecting proposals in the range of $30-80k USD. We know this is a really
 7. Cost based on the recommended approach (or approaches) listed in section (a) of your proposal.
 
 8. Provide any additional information or comments that you believe would distinguish your organization from others, or that would be relevant for us to know as we consider your response
-   
 
-   **Send your proposal to info@hotosm.org with the subject line “HOT Strategy 2022: Request for Proposal: <your name>”**
+   **Send your proposal to [info@hotosm.org](mailto:info@hotosm.org) with the subject line “HOT Strategy 2022: Request for Proposal: <your name>”**
 
 ## Who will you be working with on our team?
 
