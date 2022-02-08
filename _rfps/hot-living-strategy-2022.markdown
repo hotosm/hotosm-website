@@ -128,7 +128,7 @@ We are expecting proposals in the range of $30-80k USD. We know this is a really
 
 * **Closing date for questions:** any questions can be sent to [info@hotosm.org](mailto:info@hotosm.org) with the subject line "Strategy RfP" by 21st Feb
 
-* **Accepting applications until:** End of Day 28th Feb
+* **Accepting applications until:** End of Day 27th Feb
 
 * **After review of proposals:** we expect to host interviews with promising applicants, with a view to confirming a vendor circa 10th March
 
