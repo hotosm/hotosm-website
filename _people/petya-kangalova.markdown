@@ -1,12 +1,13 @@
 ---
 title: Petya Kangalova
 date: 2022-02-07 02:13:00 Z
-published: false
 Photo: "/uploads/Petya_photo.jpg"
 Member Type:
   Is Staff: true
 Job Title: Tech Collective Facilitator
 Team: UK Global
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Petya_Kangalova
 ---
 
 I joined the HOT tech team in February 2022 as Tech Collective Facilitator. Originally from Bulgaria, I am currently based in Bristol, UK. I am really passionate about the impact of open mapping and using technology as the enabler for people in supporting their communities.  In this role, I hope to be able to successfully build a dynamic collective of open tech contributors from around the world!
