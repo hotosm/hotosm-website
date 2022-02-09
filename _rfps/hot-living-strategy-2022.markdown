@@ -36,7 +36,7 @@ Since then, four strategic pieces of work have guided HOT. These contain lots of
 
 We are in a position where we want to bring together all of these documents in a coherent stock check of where we are, and where we want to go. The mission & vision laid out in our 2019-21 strategy are still largely relevant, but we want to reassess methods to achieve them over the next 3\+ years. We need to update our strategy to reflect updated **content** (what options and opportunities are there for HOT; how do we assess these & their suitability), and to bring **cohesion** (without one guiding document that all teams are following, different individuals/teams have interpreted HOT’s work in different ways, and can diverge, resulting in misalignment).
 
-We believe firmly in working with the community, and that for the strategy to have value it must be referenced on a regular basis by staff, and help them do their jobs better. We want to develop a Living Strategy, the scope and purpose of which are laid out [here](https://docs.google.com/document/d/1nzN8rgR5r8YVpPa8sS4mRIaofhK0RqSWmdO1ocvhNx0/edit). We are seeking an organisation or individual who can help us develop, deliver, and structure the strategy which addresses HOT’s top strategic needs by the beginning of June 2022. This must shift us closer to achieving our vision and mission, and answer big questions which are presently blocking our progress. We want to establish a relationship that can extend to future strategic needs.
+We believe firmly in working with the community, and that for the strategy to have value it must be referenced on a regular basis by staff, and help them do their jobs better. We want to develop a Living Strategy, the scope and purpose of which are laid out [here](https://docs.google.com/document/d/1Nh5EF0el1P-LWpbPKBXNm0idehvEmpxLSpaKpUfUpLc/edit). We are seeking an organization or individual who can help us develop, deliver, and structure the strategy which addresses HOT’s top strategic needs by the beginning of June 2022. This must shift us closer to achieving our vision and mission, and answer big questions which are presently blocking our progress. We want to establish a relationship that can extend to future strategic needs.
 
 ## Values that must be embodied in strategic development
 
@@ -50,7 +50,7 @@ We believe firmly in working with the community, and that for the strategy to ha
 
 ## Immediate Needs (pre June 2022): *the scope of this RfP*
 
-**[Pre-reading](https://docs.google.com/document/d/1nzN8rgR5r8YVpPa8sS4mRIaofhK0RqSWmdO1ocvhNx0/edit)**
+**[Pre-reading](https://docs.google.com/document/d/1Nh5EF0el1P-LWpbPKBXNm0idehvEmpxLSpaKpUfUpLc/edit)**
 
 * We’d like you to assist us with:
 
