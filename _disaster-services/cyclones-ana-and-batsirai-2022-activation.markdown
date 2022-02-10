@@ -8,8 +8,8 @@ Country:
 - Madagascar
 - Zimbabwe
 Event type: TC Tropical Cyclone
-Summary Text: " This in activation to support OSM Madagascar for the Cyclones Ana
-  & Batsirai."
+Summary Text: This in activation to support OSM Madagascar for the Cyclones Ana &
+  Batsirai.
 Feature Image: TC Tropical Cyclone
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=madagascar">madagascar</a>,
