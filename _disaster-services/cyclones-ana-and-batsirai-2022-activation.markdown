@@ -46,8 +46,7 @@ IMPACT OF ANA & BATSIRAI CYCLONES - AMBOSITRA, FIANARANTSOA, MADAGASCA</a>
 
 
 
-
-Also, MSF is mapping for this event in Zimbabwe with the following flood resilience project: 
+Also, <a href="https://www.msf.org/">MSF</a> is mapping for this event in Zimbabwe with the following flood resilience project: 
 
 <a href="https://tasks.hotosm.org/projects/12046">12046, TROPICAL STORM ANA : MUTASA DISTRICT, ZIMBABWE - BUILDINGS</a>
 
