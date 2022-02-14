@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Job Title: Partnerships Manager - West and Northern Africa
 Team: West and Northern Africa Hub
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/#map=12/13.5866/2.0781
 ---
 
 Amadou Roufaye Issaka is a Hydrogeologist Engineer, GIS professional with 17 years of working experience in fieldwork and geospatial data management in different sectors like water resources, Land, Climate change, Natural Resources, Irrigation, Resettlement…..He has also experience in public administration, he was a GIS data administrator at the Geological and Mining Research Center under the Ministry of Mines of Niger Republic, from December 2007 to August 2018. His main work was to ensure the training of staff of the ministry and others, the production of data, and production of maps concerning geoscientific information by using sophisticated technical software, he conducted many meetings with stakeholders, investors, and civil society actors particularly in the country and generally outside the country.
