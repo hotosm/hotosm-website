@@ -4,7 +4,7 @@ date: 2021-07-12 15:27:00 Z
 published: false
 Photo: "/uploads/Photo.jpg"
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Information Manager
 Country: Kenya
 Team: Global
