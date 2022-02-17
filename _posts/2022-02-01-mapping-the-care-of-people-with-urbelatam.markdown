@@ -32,7 +32,7 @@ Paulinho Otaviano, a resident and local guide in Santa Marta, [said](https://rio
 
 ![Favela Mapping 4.jpg](/uploads/Favela%20Mapping%204.jpg)
 
-*One of the authors, Alessandra Figueiredo, with two community residents*
+*One of the authors, Alessandra Figueiredo (top right), with a teammate (top left) and a resident of the community (middle)*
 
 ## Mapping Impact
 
