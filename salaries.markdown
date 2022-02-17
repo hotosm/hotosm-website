@@ -33,7 +33,7 @@ The “Role Base Salary” is a number in USD that serves as the benchmark salar
 
 ***HOT Salary Scale [in USD prior to application of location and non-profit multipliers]***
 
-![Salary Framework Base Levels 3.png](https://cdn.hotosm.org/website/Salary+Framework+Base+Levels+3.png)
+![Salary Framework 1.png](/uploads/Salary%20Framework%201.png)
 
 Each role falls within a specific grade on the scale above, identified between the hiring manager and the finance team at the creation of the position. Certain job levels include more than one grade, which allows for additional staff growth in those roles. From now on, each position posted on hotosm.org will include the relevant grade from our scale. 
 
@@ -47,7 +47,7 @@ The “Location Factor” aims to ensure staff members receive fair, comparable 
 
 ***HOT Location Factor Matrix***
 
-![Locality 2.png](https://cdn.hotosm.org/website/Locality+2.png)
+![Salary Framework 2.png](/uploads/Salary%20Framework%202.png)
 
 The source of our location bands now comes from: 
 * Birches Group data - for national and regional pools (NEW!)
