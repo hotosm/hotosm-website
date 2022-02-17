@@ -1,10 +1,18 @@
 ---
 title: Chad Blevins
 date: 2017-02-28 14:26:00 Z
-redirect_from:
-- "/users/chad_blevins"
+Photo: "/uploads/rRcrCVuD_400x400.jpg"
 Member Type:
   Is Voting Member: true
+Job Title: Voting Membership Chairperson
+Working Group:
+- Quality Control and Assurance
+Country: United States
+Social Media (Full URL):
+  OSM: https://osm.org/user/geocruizer
+  Twitter: https://twitter.com/geocruizer
+redirect_from:
+- "/users/chad_blevins"
 ---
 
 <p>Chad is a Geographer with U.S. Agency for International Development's GeoCenter. Among his many contributions to USAID's work in fighting extreme poverty, Chad has been instrumental in developing the Agency's Remote Sensing Program and co-founded YouthMappers, which seeks to map unmapped parts of the world while building a network of university student mappers across the globe. Chad has also pioneered the use of open geographic data at USAID in support of programs in agriculture, education, health and disaster preparedness.  Through his leadership on the Remote Sensing Program, Chad has transformed the way the Agency uses satellite imagery to improve monitoring, analysis and decision-making.   
