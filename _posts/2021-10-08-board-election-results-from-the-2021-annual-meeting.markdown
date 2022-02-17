@@ -6,6 +6,7 @@ Summary Text: Thursday, 7 October, at HOT's Annual General Meeting, the HOT Voti
   Chairperson, and approved 4 amendments to the organization's Bylaws.
 Feature Image: "/uploads/2.png"
 Is image top aligned: true
+Person: Chad Blevins
 Working Group:
 - Governance
 Field name: 
