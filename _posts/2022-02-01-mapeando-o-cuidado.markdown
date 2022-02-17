@@ -31,6 +31,7 @@ Vimos isso acontecer em 2013, antes da Copa do Mundo de 2014 no Brasil e dos Jog
 Paulinho Otaviano, morador e guia local em Santa Marta, [disse](https://rioonwatch.org.br/?p=23070): “Para mim, o fato de não estar no mapa, cria uma sensação de exclusão, que não fazemos parte da cidade, que não fazemos parte do roteiro tradicional. ”, em entrevista ao [Todo Mapa Tem Um Discurso](https://todomapatemumdiscurso.wordpress.com/).
 
 ![Favela Mapping 4.jpg](/uploads/Favela%20Mapping%204.jpg)
+*Uma das autoras, Alessandra Figueiredo (acima à direita), com uma colega de equipe (acima à esquerda) e uma moradora da comunidade (ao meio)*
 
 ## O Impacto do Mapeamento
 
@@ -44,7 +45,7 @@ O mapeamento traz benefícios para os próprios moradores, pois nós e o Banco C
 
 Um desses projetos foi o mapeamento de artistas locais. Muitos artistas das favelas não têm financiamento para continuar seu trabalho. O Banco, com seu programa de microcrédito, os auxilia financeiramente, oferecendo empréstimos com juros mais baixos do que os bancos tradicionais. Um impacto direto disso foi visto em Dezembro de 2021 onde foi realizado um [festival ](https://www.instagram.com/p/CWv35eqLFJK/)apenas com artistas do Morro do Preventório, evento que só foi possível graças ao mapeamento cultural.
 
-![Morro do Preventório.png](/uploads/Morro%20do%20Prevent%C3%B3rio.png) *Captura de pantalla de Morro do Preventório en OpenStreetMap. [©Colaboradores de OpenStreetMap.](https://www.openstreetmap.org/copyright)*
+![Morro do Preventório.png](/uploads/Morro%20do%20Prevent%C3%B3rio.png) *Captura de tela do Morro do Preventório no OpenStreetMap [©Colaboradores de OpenStreetMap.](https://www.openstreetmap.org/copyright)*
 
 ## Metodologia de Mapeamento
 
@@ -72,4 +73,5 @@ A partir daí, o desafio passou a ser traduzir o que estávamos fazendo de forma
 
 Lá, compartilhamos nossos conhecimentos e nossas motivações e, em meio a essa troca, acabamos descobrindo novas motivações e novos objetivos. Isso gerou o desejo de que a semente que plantamos em outros agentes comunitários crescesse e florescesse, fazendo com que cada favela do Rio de Janeiro ganhasse vida por meio de mapas feitos por seus próprios moradores.
 
+***As autoras da esquerda para a direita: Alessandra Figueiredo, Elena Veríssimo e Samara Franco***
 ![Favela Mapping 5.png](/uploads/Favela%20Mapping%205.png)
