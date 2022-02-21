@@ -13,7 +13,7 @@ Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=philippines">Philippines</a>
 Resources: N/A
 Phase: Phase 1
-Wiki-page: N/A
+Wiki-page: https://wiki.openstreetmap.org/wiki/Cyclone_Odette_2021
 ---
 
 <h2>Size-up Details</h2>
