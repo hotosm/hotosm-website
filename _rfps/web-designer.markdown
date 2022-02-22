@@ -125,11 +125,11 @@ We are expecting proposals in the range of USD $30-40K for the research/design p
 
 * **Closing date for questions: **any questions can be sent to gihan.hassanein@hotosm.org with the subject line "Web Design RFP" by 1 March
 
-* **Accepting applications until: **End of day 8 March
+* **Accepting applications until: **End of day 14 March
 
-* **After review of proposals: **we expect to host interviews with promising applicants, with a view to confirming a vendor circa 16 March
+* **After review of proposals: **we expect to host interviews with promising applicants, with a view to confirming a vendor circa 21 March
 
-* **Start date of: **21 March (1 April at the latest)
+* **Start date of: **28 March
 
 \
 Download full pdf
