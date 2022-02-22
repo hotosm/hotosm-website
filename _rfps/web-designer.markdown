@@ -134,4 +134,4 @@ We are expecting proposals in the range of USD $30-40K for the research/design p
 * **Start date of:** 28 March
 
 \
-Download full pdf
+[Download full pdf](https://drive.google.com/file/d/1F0i7ewuTH8-NQxlDQogM4-SwgwwjMENH/view?usp=sharing)
