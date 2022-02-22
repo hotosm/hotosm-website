@@ -8,9 +8,7 @@ Deadline Date: 2022-03-08 00:00:00 Z
 
 ### **Role: Design Researcher and Web Designer (The Consultant)**
 
-**There are two phases to this assignment:**\
-\*\*Phase I: \*\*Research\
-\*\*Phase II: \*\*Website redesign and build (to be informed by Phase I)\\
+![Screen Shot 2022-02-22 at 7.18.06 PM.png](/uploads/Screen%20Shot%202022-02-22%20at%207.18.06%20PM.png)
 
 **About the assignment:**
 
@@ -38,7 +36,11 @@ HOT is evolving to better support mapping communities across the world and needs
 
 Presently, [the HOT website](https://www.hotosm.org/) does not fully reflect the new organizational priorities and direction, nor the decentralized structure as represented by the addition of **four regional Open Mapping Hubs and the building of an OSM movement.**
 
-Our vision is to serve a diverse set of users in one website, providing different entry points into HOT’s work, prioritize key audiences and pay careful attention to user experience and optimize for participatory action.\\
+Our vision is to serve a diverse set of users in one website, providing different entry points into HOT’s work, prioritize key audiences and pay careful attention to user experience and optimize for participatory action.
+
+**This table presents an initial understanding of content distribution, however, the researcher is encouraged to challenge this premise:**
+
+![Screen Shot 2022-02-22 at 7.20.29 PM.png](/uploads/Screen%20Shot%202022-02-22%20at%207.20.29%20PM.png)
 
 **Phase I (March 2022): Research**
 
@@ -111,25 +113,25 @@ We are expecting proposals in the range of USD $30-40K for the research/design p
 
 **Who will you be working with on our team?**
 
-1. **Gihan Hassanein - **Senior Communications Manager
+1. \*\*Gihan Hassanein - \*\*Senior Communications Manager
 
 2. **Benjamin Dills** - Communications Associate
 
 3. **DK Benjamin** - DevOps Manager
 
-4. **Research Interview participants **(internal and external - TBD)
+4. \*\*Research Interview participants \*\*(internal and external - TBD)
 
 **Timelines**
 
-* **RfP Posted: **22 February 2022
+* \*\*RfP Posted: \*\*22 February 2022
 
-* **Closing date for questions: **any questions can be sent to gihan.hassanein@hotosm.org with the subject line "Web Design RFP" by 1 March
+* \*\*Closing date for questions: \*\*any questions can be sent to gihan.hassanein@hotosm.org with the subject line "Web Design RFP" by 1 March
 
-* **Accepting applications until: **End of day 14 March
+* \*\*Accepting applications until: \*\*End of day 14 March
 
-* **After review of proposals: **we expect to host interviews with promising applicants, with a view to confirming a vendor circa 21 March
+* \*\*After review of proposals: \*\*we expect to host interviews with promising applicants, with a view to confirming a vendor circa 21 March
 
-* **Start date of: **28 March
+* \*\*Start date of: \*\*28 March
 
 \
 Download full pdf
