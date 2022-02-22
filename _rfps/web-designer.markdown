@@ -130,3 +130,6 @@ We are expecting proposals in the range of USD $30-40K for the research/design p
 * **After review of proposals: **we expect to host interviews with promising applicants, with a view to confirming a vendor circa 16 March
 
 * **Start date of: **21 March (1 April at the latest)
+
+\
+Download full pdf
