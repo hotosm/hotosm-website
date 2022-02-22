@@ -1,7 +1,7 @@
 ---
 title: Web Research & Design
 date: 2022-02-21 10:10:00 Z
-Deadline Date: 2022-03-07 00:00:00 Z
+Deadline Date: 2022-03-08 00:00:00 Z
 ---
 
 ![REQUEST FOR PROPOSALS-c4367a.png](/uploads/REQUEST%20FOR%20PROPOSALS-c4367a.png)
@@ -9,8 +9,8 @@ Deadline Date: 2022-03-07 00:00:00 Z
 ### **Role: Design Researcher and Web Designer (The Consultant)**
 
 **There are two phases to this assignment:**\
-**Phase I: **Research\
-**Phase II: **Website redesign and build (to be informed by Phase I)\
+\*\*Phase I: \*\*Research\
+\*\*Phase II: \*\*Website redesign and build (to be informed by Phase I)\\
 
 **About the assignment:**
 
@@ -38,7 +38,7 @@ HOT is evolving to better support mapping communities across the world and needs
 
 Presently, [the HOT website](https://www.hotosm.org/) does not fully reflect the new organizational priorities and direction, nor the decentralized structure as represented by the addition of **four regional Open Mapping Hubs and the building of an OSM movement.**
 
-Our vision is to serve a diverse set of users in one website, providing different entry points into HOT’s work, prioritize key audiences and pay careful attention to user experience and optimize for participatory action.\
+Our vision is to serve a diverse set of users in one website, providing different entry points into HOT’s work, prioritize key audiences and pay careful attention to user experience and optimize for participatory action.\\
 
 **Phase I (March 2022): Research**
 
@@ -81,8 +81,52 @@ Our vision is to serve a diverse set of users in one website, providing differen
   * An entry point for different audiences to access content that is useful and meaningful to them and reflects their different user journeys;
 
 
-  * A global / regional digital space that supports the organizations’ movement building / online community building activities
+* A global / regional digital space that supports the organizations’ movement building / online community building activities
 
-  * An interactive platform for incentivising / enabling people to map, gain skills, lead initiatives, use data, leverage tools
+* An interactive platform for incentivising / enabling people to map, gain skills, lead initiatives, use data, leverage tools
 
-  * Mobile and SEO optimization; content migration (and archiving); compliance with digital accessibility regulations for users with disabilities; option to add additional languages
+* Mobile and SEO optimization; content migration (and archiving); compliance with digital accessibility regulations for users with disabilities; option to add additional languages
+
+**Estimated budget**
+
+We are expecting proposals in the range of USD $30-40K for the research/design phase and an additional fee for ongoing maintenance (6 months initially with option to extend). Please provide a clear cost breakdown in your proposal. We want you to assess our RfP and think about what it would really take for you or your team to provide an exceptional solution, and to have an open conversation about that if you are shortlisted. If you feel you cannot work within this budget, but are interested in bidding, we are still interested in seeing your proposal.
+
+**Please send a proposal that includes the following:**
+
+1. Background on you / your agency, including what your research and design processes include, and why are you the right individual or agency to help us carry out this assignment
+
+2. How you plan to deliver this work within our recommended time frames
+
+3. How you will manage the research and design (breakdown of responsibilities, timeline, etc)
+
+4. List the team member(s) who would work directly on our project and their experience
+
+5. Examples of past similar work and a list 3\+ of your clients that you feel are similar in scope to HOT. Please include clients that you think would be comfortable providing us a reference.
+
+6. Cost based on the recommended approach. Please provide a cost breakdown, including maintenance.
+
+7. Any additional information or comments that you believe would distinguish your organization from others, or that would be relevant for us to know as we consider your response
+
+**Send your proposal to [gihan.hassanein@hotosm.org](mailto:gihan.hassanein@hotosm.org) with the subject line “HOT Website Design: RFP: < your name > ”**
+
+**Who will you be working with on our team?**
+
+1. **Gihan Hassanein - **Senior Communications Manager
+
+2. **Benjamin Dills** - Communications Associate
+
+3. **DK Benjamin** - DevOps Manager
+
+4. **Research Interview participants **(internal and external - TBD)
+
+**Timelines**
+
+* **RfP Posted: **22 February 2022
+
+* **Closing date for questions: **any questions can be sent to gihan.hassanein@hotosm.org with the subject line "Web Design RFP" by 1 March
+
+* **Accepting applications until: **End of day 8 March
+
+* **After review of proposals: **we expect to host interviews with promising applicants, with a view to confirming a vendor circa 16 March
+
+* **Start date of: **21 March (1 April at the latest)
