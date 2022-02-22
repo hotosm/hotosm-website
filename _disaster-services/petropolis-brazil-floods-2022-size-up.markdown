@@ -7,9 +7,9 @@ GDACS-level: Orange (1.5)
 GDACS ID: FL 1101285
 Country:
 - Brazil
-Event type: FL Flood
+Event type: Fl Flood
 Summary Text: The Petrópolis Brazil Floods 2022 has been sized-up.
-Feature Image: FL Flood
+Feature Image: Fl Flood
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=brazil">Brazil</a>
 Resources: N/A
