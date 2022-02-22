@@ -7,9 +7,9 @@ GDACS ID: FL 1101285
 GDACS-level: Orange (1.5)
 Country:
 - Brazil
-Event type: 
+Event type: FL Flood
 Summary Text: Disaster Services is currently monitoring this event in Brazil.
-Feature Image: 
+Feature Image: FL Flood
 Status: alert
 Post-type: update
 source: <a href="https://www.gdacs.org/report.aspx?eventid=1101285&episodeid=2&eventtype=FL"
