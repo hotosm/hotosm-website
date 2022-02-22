@@ -40,5 +40,49 @@ Presently, [the HOT website](https://www.hotosm.org/) does not fully reflect the
 
 Our vision is to serve a diverse set of users in one website, providing different entry points into HOT’s work, prioritize key audiences and pay careful attention to user experience and optimize for participatory action.\
 
-\
-\
+**Phase I (March 2022): Research**
+
+* **In-depth design research including:**
+
+  * Project start-up meeting, regular check-ins / progress updates with Project Lead
+
+  * Stakeholder interviews (Hub directors, Staff, Voting Members, OSM Community reps, partners)
+
+  * Desk research including analysis of current website performance
+
+  * Audience analysis and prioritization / development of user personas
+
+  * CMS options that can be managed by non-technical staff (preferably open source)
+
+  * Other as needed
+
+**Deliverables:**
+
+* A research framework for the interviews, desk research and analysis;
+
+* A detailed assessment and analysis of design and technical needs;
+
+* Research results, design proposal presentation
+
+* Client-consultant discussion and agreement on features and scope of design
+
+**Phase II (1 April - 30 June 2022): Design and build website**
+
+* Planning, design, development based on research and agreements identified in Phase I
+
+* Regular meetings / progress updates with the Client (Project Lead and team members)
+
+* User-testing and feedback rounds with Client at agreed upon intervals
+
+**Deliverables:**
+
+* Design and delivery of a website with a strong focus on UX/UI that serves as a platform for HOT and the Open Mapping Hubs, respecting the joint nature of the endeavour and the individual identities of the entities.
+
+  * An entry point for different audiences to access content that is useful and meaningful to them and reflects their different user journeys;
+
+
+  * A global / regional digital space that supports the organizations’ movement building / online community building activities
+
+  * An interactive platform for incentivising / enabling people to map, gain skills, lead initiatives, use data, leverage tools
+
+  * Mobile and SEO optimization; content migration (and archiving); compliance with digital accessibility regulations for users with disabilities; option to add additional languages
