@@ -113,25 +113,25 @@ We are expecting proposals in the range of USD $30-40K for the research/design p
 
 **Who will you be working with on our team?**
 
-1. \*\*Gihan Hassanein - \*\*Senior Communications Manager
+1. **Gihan Hassanein** - Senior Communications Manager
 
 2. **Benjamin Dills** - Communications Associate
 
 3. **DK Benjamin** - DevOps Manager
 
-4. \*\*Research Interview participants \*\*(internal and external - TBD)
+4. **Research Interview participants** - (internal and external - TBD)
 
 **Timelines**
 
-* \*\*RfP Posted: \*\*22 February 2022
+* **RfP Posted**: 22 February 2022
 
-* \*\*Closing date for questions: \*\*any questions can be sent to gihan.hassanein@hotosm.org with the subject line "Web Design RFP" by 1 March
+* **Closing date for questions:** any questions can be sent to gihan.hassanein@hotosm.org with the subject line "Web Design RFP" by 1 March
 
-* \*\*Accepting applications until: \*\*End of day 14 March
+* **Accepting applications until**: End of day 14 March
 
-* \*\*After review of proposals: \*\*we expect to host interviews with promising applicants, with a view to confirming a vendor circa 21 March
+* **After review of proposals:** we expect to host interviews with promising applicants, with a view to confirming a vendor circa 21 March
 
-* \*\*Start date of: \*\*28 March
+* **Start date of:** 28 March
 
 \
 Download full pdf
