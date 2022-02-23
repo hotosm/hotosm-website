@@ -40,7 +40,7 @@ Our vision is to serve a diverse set of users in one website, providing differen
 
 ![Screen Shot 2022-02-23 at 11.06.33 AM.png](/uploads/Screen%20Shot%202022-02-23%20at%2011.06.33%20AM.png)
 
-## **Phase I (March 2022): Research**
+## **Phase I (March/April 2022): Research**
 
 * **In-depth design research including:**
 
@@ -66,7 +66,7 @@ Our vision is to serve a diverse set of users in one website, providing differen
 
 * Client-consultant discussion and agreement on features and scope of design
 
-## **Phase II (1 April - 30 June 2022): Design and build website**
+## **Phase II (April-June 2022): Design and build website**
 
 * Planning, design, development based on research and agreements identified in Phase I
 
