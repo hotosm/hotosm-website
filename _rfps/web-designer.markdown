@@ -78,12 +78,11 @@ Our vision is to serve a diverse set of users in one website, providing differen
 
 * Design and delivery of a website with a strong focus on UX/UI that serves as a platform for HOT and the Open Mapping Hubs, respecting the joint nature of the endeavour and the individual identities of the entities.
 
-  * An entry point for different audiences to access content that is useful and meaningful to them and reflects their different user journeys;
-
+* An entry point for different audiences to access content that is useful and meaningful to them and reflects their different user journeys;
 
 * A global / regional digital space that supports the organizations’ movement building / online community building activities
 
-* An interactive platform for incentivising / enabling people to map, gain skills, lead initiatives, use data, leverage tools
+* An interactive platform for incentivizing / enabling people to map, gain skills, lead initiatives, use data, leverage tools
 
 * Mobile and SEO optimization; content migration (and archiving); compliance with digital accessibility regulations for users with disabilities; option to add additional languages
 
