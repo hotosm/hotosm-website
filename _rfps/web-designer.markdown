@@ -38,9 +38,9 @@ Our vision is to serve a diverse set of users in one website, providing differen
 
 **This table presents an initial understanding of content distribution, however, the researcher is encouraged to challenge this premise:**
 
-![Screen Shot 2022-02-22 at 7.20.29 PM.png](/uploads/Screen%20Shot%202022-02-22%20at%207.20.29%20PM.png)
+![Screen Shot 2022-02-23 at 11.06.33 AM.png](/uploads/Screen%20Shot%202022-02-23%20at%2011.06.33%20AM.png)
 
-**Phase I (March 2022): Research**
+## **Phase I (March 2022): Research**
 
 * **In-depth design research including:**
 
@@ -66,7 +66,7 @@ Our vision is to serve a diverse set of users in one website, providing differen
 
 * Client-consultant discussion and agreement on features and scope of design
 
-**Phase II (1 April - 30 June 2022): Design and build website**
+## **Phase II (1 April - 30 June 2022): Design and build website**
 
 * Planning, design, development based on research and agreements identified in Phase I
 
