@@ -10,6 +10,7 @@ redirect_from:
 layout: page
 ---
 
-[Download the activation protocol](/downloads/HOTActivationProtocol.pdf). 
+[**Available Now!** Version 2 Activation Protocol (2022)](/downloads/HOTActivationProtocolV2.pdf)!
+[Download the Original Activation Protocol (2015)](/downloads/HOTActivationProtocol.pdf). 
 
 [Read more](/community/working-groups/) about the Activation and other HOT working groups about getting involved.
