@@ -20,7 +20,7 @@ Tracking: enchentesnobrasil2022
 Report: available
 ---
 
-Context: Activation from OSM Brazil in response to <a href="https://github.com/OSMBrasil/hotosm-tasking-manager/issues/11">Floodings at the end of 2021</a> and in<a href="https://github.com/OSMBrasil/hotosm-tasking-manager/issues/12">Petrópolis</a>
+Context: Activation from OSM Brazil in response to <a href="https://github.com/OSMBrasil/hotosm-tasking-manager/issues/11">Floodings at the end of 2021</a> and in<a href="https://github.com/OSMBrasil/hotosm-tasking-manager/issues/12"> Petrópolis</a>
 
 Projects:
 
