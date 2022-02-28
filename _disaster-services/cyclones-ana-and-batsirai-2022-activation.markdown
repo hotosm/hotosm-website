@@ -3,7 +3,6 @@ title: Cyclones Ana & Batsirai 2022 Activation
 date: 2022-02-10 20:41:00 Z
 Glide: ST-2022-000138-MDG
 Event Name: Cyclones Ana & Batsirai 2022
-Field name: Cyclones Ana & Batsirai 2022
 Country:
 - Madagascar
 - Zimbabwe
