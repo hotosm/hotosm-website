@@ -88,7 +88,7 @@ Our vision is to serve a diverse set of users in one website, providing differen
 
 **Estimated budget**
 
-We are expecting proposals in the range of USD $30-40K for the research/design phase and an additional fee for ongoing maintenance (6 months initially with option to extend). Please provide a clear cost breakdown in your proposal. We want you to assess our RfP and think about what it would really take for you or your team to provide an exceptional solution, and to have an open conversation about that if you are shortlisted. If you feel you cannot work within this budget, but are interested in bidding, we are still interested in seeing your proposal.
+We are expecting proposals in the range of USD $30-50K for Phase I and II and an additional fee for ongoing maintenance (6 months initially with option to extend). Please provide a clear cost breakdown in your proposal. We want you to assess our RfP and think about what it would really take for you or your team to provide an exceptional solution, and to have an open conversation about that if you are shortlisted. If you feel you cannot work within this budget, but are interested in bidding, we are still interested in seeing your proposal.
 
 **Please send a proposal that includes the following:**
 
