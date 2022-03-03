@@ -11,7 +11,7 @@ Duration:
   End Date: 2022-02-15 00:00:00 Z
 ---
 
-Following the 2021 Haiti earthquake, and HOT activation to it, HOT has designed a project that will focus on re-training members of COSMHANNE (local OSM community), providing the necessary tools and knowledge to enhance sustainable capacity around disaster response and recovery locally. 
+Following the 2021 Haiti earthquake, and HOT activation to it, HOT and COSMHANNE (a local OSM community) co-designed a project to focus on re-training members of COSMHANNE, providing the necessary tools and knowledge to enhance sustainable capacity around disaster response and recovery locally. 
 
 **Project outcomes and objectives:**
 
