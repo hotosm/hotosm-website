@@ -1,12 +1,12 @@
 ---
-title: OSM Brazil Activation for Floods Q1 2022
+title: OSM Brazil's Activation for Floods Q1 2022
 date: 2022-02-28 00:20:00 Z
 Glide: FL-2022-000171-BRA
 Event Name: Brazil floods Q1 2022 Support
 Country:
 - Brazil
 Event type: Fl Flood
-Summary Text: 'Activation from OSM Brazil in response to Q1 2022 Floodings. '
+Summary Text: 'Response to Q1 2022 Flooding in Brazil. '
 Feature Image: Fl Flood
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=brazil">Brazil</a>
@@ -20,7 +20,7 @@ Tracking: enchentesnobrasil2022
 Report: available
 ---
 
-Context: OSM Brazil’s activation in response to <a href="https://github.com/OSMBrasil/hotosm-tasking-manager/issues/11">Floodings at the end of 2021</a> and in<a href="https://github.com/OSMBrasil/hotosm-tasking-manager/issues/12"> Petrópolis</a>
+Context: OSM Brazil’s activation in response to <a href="https://github.com/OSMBrasil/hotosm-tasking-manager/issues/11">Flooding at the end of 2021</a> and in<a href="https://github.com/OSMBrasil/hotosm-tasking-manager/issues/12"> Petrópolis</a>
 
 Projects:
 
