@@ -14,12 +14,14 @@ Duration:
 Following the 2021 Haiti earthquake, and HOT activation to it, HOT has designed a project that will focus on re-training members of COSMHANNE (local OSM community), providing the necessary tools and knowledge to enhance sustainable capacity around disaster response and recovery locally. 
 
 **Project outcomes and objectives:**
+
 Primary: Strengthen COSMHANNE organizational capacities
+
 Primary: Update relevant geospatial data of disaster-affected areas
+
 Secondary: Trial early recovery project on Disaster Risk Reduction (DRR)/Climate Change Adaptation (CCA)
-Secondary: Deepen collaborations with H2H partners:
-Insecurity Insight
-Groundtruth Solutions 
+
+Secondary: Deepen collaborations with H2H partners, Insecurity Insight and Groundtruth Solutions 
 
 **Donor:** H2H Network on behalf of FCDO
 
