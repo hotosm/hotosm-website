@@ -5,7 +5,7 @@ Glide:
 - OT-2022-000152-GHA
 Event Name: Bogoso Explosion 2022
 Country: Ghana
-Event Type: OT Other
+Event type: OT Other
 Summary Text: Support for OSM Ghana's Activation for the Bogoso Explosion has concluded.
 Feature Image: OT Other
 Post-type: timeline
