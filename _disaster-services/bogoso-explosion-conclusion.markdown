@@ -8,7 +8,7 @@ Event Type: OT Other
 Summary Text: Support for Bogoso Explosion has concluded.
 Country: Ghana
 Feature Image: OT Other
-Post-type: Timeline
+Post-type: timeline
 Campaign: https://tasks.hotosm.org/explore/filters?campaign=Bogoso%20Explosion%202022
 Timeline: January 20, 2022 - February 24, 2022
 Wiki-page: https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Bogoso_Apiatse_Explosion_Crisis_Mapping
