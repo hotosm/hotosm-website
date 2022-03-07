@@ -1,12 +1,12 @@
 ---
-title: Bogoso Explosion Conclusion
+title: Bogoso Explosion 2022 Conclusion
 date: 2022-03-07 09:24:00 Z
 Glide:
 - OT-2022-000152-GHA
 Event Name: Bogoso Explosion 2022
-Event Type: OT Other
-Summary Text: Support for Bogoso Explosion has concluded.
 Country: Ghana
+Event Type: OT Other
+Summary Text: Support for OSM Ghana's Activation for the Bogoso Explosion has concluded.
 Feature Image: OT Other
 Post-type: timeline
 Campaign: https://tasks.hotosm.org/explore/filters?campaign=Bogoso%20Explosion%202022
