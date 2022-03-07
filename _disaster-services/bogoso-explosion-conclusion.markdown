@@ -20,6 +20,12 @@ Report: Available
 
 On the 20th of January, 2022 a motorbike collided with a truck carrying mining explosives leveling the village of Apiate. Initial size-up revealed that local mappers were quick to respond and were making good progress on the pre-event basemap. After contact was established it was determined that capacity was sufficient for the local community to manage an Activation and HOT would only support. MAXAR released imagery and assistance was given to get the scenes uploaded to OpenAerialMap for usage in Tasking Manager project created and managed by OSM Ghana. 
 
+<strong>ACHIEVEMENTS</strong><br>
+
+- 59 Mappers and Validators contributed
+- Making 13,549 edits to OpenStreetMap
+- Including the addition of 13,201 buildings and 13 kilometers of roadway
+
 <strong>KEY TAKEAWAYS</strong><br>
 
 - Building upon a history with members of OSM Ghana, communications went very well. It should be a goal of HOT to continue to build this relationship to support the local community in all their endeavors.
