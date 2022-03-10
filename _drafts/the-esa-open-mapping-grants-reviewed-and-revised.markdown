@@ -36,7 +36,7 @@ In January 2022, we redesigned and re-launched the Open Mapping Grants to better
 * We have changed the eligibility criteria to allow only organizations that are formally registered to apply for funding in this round. We know that HOT has supported unregistered groups in the past with microgrants (up to $5,000) and we know this is critical to supporting OSM growth in the ESA region. However, the OMG program offers funding from two to eight times this dollar amount. 
 * We are supporting a competitive application process. We hope to attract more organizations and groups to innovate, collaborate and develop unique, impactful projects that adequately address existing data gaps within the region.
 
-**Next Steps**
+**Next Steps**\
 We are committing to several areas of development that will build towards a long-term, sustainable and community-centered hub approach, whilst achieving HOT’s goal of massively increasing local mapping across ESA. Granting (and support functions around granting) will feed into this longer term trajectory. 
 
 These areas of development include: 
