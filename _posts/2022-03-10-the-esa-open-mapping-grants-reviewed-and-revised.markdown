@@ -30,18 +30,25 @@ Following an internal assessment of each and every application, we made the diff
 In January 2022, we redesigned and re-launched the Open Mapping Grants to better support applications to achieve strong and sustainable community growth and to drive social impact in the region. For more information on our next approach, visit[ here](https://stories.hotosm.org/open-mapping-hub-eastern-and-southern-africa/index.html).
 
 **What’s in Store?**
-* We will ensure that the aims and objectives are well communicated and that applicants have sufficient time to prepare project proposals that meet the specific requirements of the granting program. Additionally, with each granting cycle, we hosted a “Proposal Development Clinic” to clarify requirements and expectations for interested applicants. The Proposal Development Clinic was a great success, and we will continue to host these sessions. 
+
+* We will ensure that the aims and objectives are well communicated and that applicants have sufficient time to prepare project proposals that meet the specific requirements of the granting program. Additionally, with each granting cycle, we hosted a “Proposal Development Clinic” to clarify requirements and expectations for interested applicants. The Proposal Development Clinic was a great success, and we will continue to host these sessions.
+
 * To support projects that are impactful, specific, and sustainable, we have reduced the geographical scope of the granting program from 23 countries to an initial 6 to allow the hub to steadily iterate its concepts around the why, what and how of granting in each of the 23 priority countries.
+
 * Groups from Uganda, Zambia, Zimbabwe, Malawi, Namibia and Kenya were eligible to apply for funding in this round (the deadline was Sunday 27 February 2021). However, other communities from additional countries will be eligible from April 2022 onwards.
-* We have changed the eligibility criteria to allow only organizations that are formally registered to apply for funding in this round. We know that HOT has supported unregistered groups in the past with microgrants (up to $5,000) and we know this is critical to supporting OSM growth in the ESA region. However, the OMG program offers funding from two to eight times this dollar amount. 
+
+* We have changed the eligibility criteria to allow only organizations that are formally registered to apply for funding in this round. We know that HOT has supported unregistered groups in the past with microgrants (up to $5,000) and we know this is critical to supporting OSM growth in the ESA region. However, the OMG program offers funding from two to eight times this dollar amount.
+
 * We are supporting a competitive application process. We hope to attract more organizations and groups to innovate, collaborate and develop unique, impactful projects that adequately address existing data gaps within the region.
 
 **Next Steps**
-We are committing to several areas of development that will build towards a long-term, sustainable and community-centered hub approach, whilst achieving HOT’s goal of massively increasing local mapping across ESA. Granting (and support functions around granting) will feed into this longer term trajectory. 
 
-These areas of development include: 
+We are committing to several areas of development that will build towards a long-term, sustainable and community-centered hub approach, whilst achieving HOT’s goal of massively increasing local mapping across ESA. Granting (and support functions around granting) will feed into this longer term trajectory.
+
+These areas of development include:
+
 * The development and integration of a robust Community Engagement Plan
-* Regular Proposal Development Clinics to provide support and guidance to groups in the region applying for funding from HOT and other granting bodies 
+
+* Regular Proposal Development Clinics to provide support and guidance to groups in the region applying for funding from HOT and other granting bodies
+
 * The development of a more diverse and holistic granting strategy (potentially augmenting open mapping grants with rapid response microgrants and other granting opportunities).
-
-
