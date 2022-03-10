@@ -4,7 +4,7 @@ date: 2021-05-04 14:07:00 Z
 Photo: "/uploads/Nasilele%20Amatende.jpeg"
 Member Type:
   Is Staff: true
-Job Title: Associate Project Manager
+Job Title: Impact Partnerships Manager
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/N_ama
