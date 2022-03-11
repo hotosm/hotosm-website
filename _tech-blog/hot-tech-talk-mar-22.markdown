@@ -11,9 +11,9 @@ tags:
 - oam
 - galaxy
 Summary Text: |-
-  Happy end of Feb all! (yes, I realise it's already mid March)
-
-  After 2 long grounded years, hot_tech is starting to take off again - both figuratively and literally. Our team is now turning our attention and efforts toward working alongside hubs, contributors and users to understand how we can increase access and usage of existing and potential humanitarian OSM tools.
+  _Happy end of Feb all! (yes, I realise it's already mid March)_\
+  \
+  After 2 long grounded years, hot_tech is starting to take off again - both figuratively and literally. Our team is now turning our attention and efforts toward working alongside hubs, contributors and users to test and evolve existing and potential humanitarian OSM tools increase access, usage and contribution to OSM.
 Feature Image: "/uploads/F6CA3182-6493-4B02-977D-51A17B69B85D.jpeg"
 ---
 
@@ -78,4 +78,4 @@ Tech/ >dir
 
 * We are doing user interviews with OAM stakeholders
 
-* Kontur has created a Miro board for mapping stakeholder personas. SOon to be publically viewable. 
+* Kontur has created a Miro board for mapping stakeholder personas. SOon to be publically viewable.
