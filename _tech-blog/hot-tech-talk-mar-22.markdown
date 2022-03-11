@@ -46,7 +46,7 @@ Tech/ >dir
 
 * We have kicked off a redesign for OpenAerialMap (OAM). We will be working closely with users and communities who use and depend on OAM to discover needs, wants and wishes to be included in the next version of OAM. If you’d like to be involved, please reach out to Cristiano or DK.
 
-* Omran Najjar played a starring role on a webinar hosted by Omdena, where he talked though HOT’s evolving AI-assisted workflows. You can rewatch the event here >
+* Omran Najjar played a starring role on a webinar hosted by Omdena, where he talked though HOT’s evolving AI-assisted workflows. You can rewatch the event [here >](https://omdena.com/events/how-to-overcome-challenges-with-implementation-launch-of-data-ai-products/)
 
 * We will be welcoming a new senior engineer to the team in March. They are a passionate, experienced and dedicated OSM contributor and we are really looking forward to officially welcoming them next week!
 
