@@ -1,0 +1,32 @@
+---
+title: TC GOMBE-22 Size-up
+date: 2022-03-15 20:08:00 Z
+Glide: TC-2022-000182-MDG
+Event Name: TC GOMBE-22
+GDACS ID: TC 1000873
+GDACS-level: Orange (1.5)
+Country:
+- Mozambique
+Event type: TC Tropical Cyclone
+Summary Text: TC GOMBE-22 has been sized-up.
+Feature Image: TC Tropical Cyclone
+Post-type: timeline
+GDACS Incident Name: Orange alert Tropical Cyclone for GOMBE-22
+Status: size-up
+---
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong>TC GOMBE-22<br>
+<strong>GDACS Alert Lvl:</strong>Orange (1.5)<br>
+<strong>Location:</strong> Northern and Central Mozambique (Nampula Province)<br>
+<strong>Geographic Scope:</strong> Country<br>
+<strong>Estimated Humanitarian Impact:</strong> 100 thousand in category 1 or higher<br>
+<strong>Estimated Duration:</strong> Week(s) to Month(s)<br>
+<strong>Event Scope:</strong> Moderate<br>
+<strong>Local Contacts:</strong> There are no local point(s) of contact identified as of yet<br>
+<strong>Anticipated Needs:</strong> Basemap creation in areas lacking any geospatial data (Latest imagery for areas impacted<br>
+<strong>Request(s):</strong> There are no requests from partners currently<br>
+<strong>Need for Activation:</strong> Likely<br>
+<strong>Active Orgs:</strong> OSM Mozambique and HOT  <br>
+<strong>Lead Orgs:</strong> OSM Mozambique and HOT <br>
