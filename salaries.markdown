@@ -82,3 +82,4 @@ Beyond the Salary Framework, HOT provides additional support tailored to an indi
 * Equipment allowance based on justified need
 * Relocation package for international staff moving to regional hubs
 * Learning & development opportunities for all staff
+* Professional coaching sessions through the [Humanitarian Coaching Network](http://www.thehcn.org/)
