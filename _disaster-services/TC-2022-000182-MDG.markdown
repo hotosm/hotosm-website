@@ -1,0 +1,18 @@
+---
+title: TC GOMBE-22 Alert
+date: 2022-03-14 20:00:00 Z
+Glide: TC-2022-000182-MDG
+Event Name: TC GOMBE-22
+GDACS ID: TC 1000873
+GDACS-level: Orange (1.5)
+Country:
+- Mozambique
+Event type: TC Tropical Cyclone
+Summary Text: Disaster Services is currently monitoring this event in the Indian Ocean.
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+source: <a href="https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000873" target="_blank">GDACS</a>
+---
+
+"Tropical Cyclone GOMBE-22 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability."
