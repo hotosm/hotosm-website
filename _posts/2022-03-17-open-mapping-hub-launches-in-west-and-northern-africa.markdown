@@ -1,0 +1,16 @@
+---
+title: Open Mapping Hub Launches in West And Northern Africa
+date: 2022-03-17 13:11:00 Z
+Feature Image: "/uploads/WNAHub%20Launch%20Image.jpg"
+Person: Ibrahima Cisse
+---
+
+The [West and Northern Africa Open Mapping Hub](https://stories.hotosm.org/wna-homepage/index.html) (the Hub) opens its doors today to support open mapping activities in the region. The Hub will work with humanitarian organizations, governments, civil society, private operators, institutions, and other actors on the use of OpenStreetMap tools that support disaster risk reduction and response, gender equality, sustainable cities, public health, and displacement and safe migration. 
+
+The Hub is a collaboration with Humanitarian OpenStreetMap Team (HOT), an international NGO dedicated to humanitarian action and community development through collaborative mapping in OpenStreetMap. HOT is at the heart of participatory mapping, open data, community development, humanitarian response, and technology innovation, able to mobilize a global network to create the maps and data that enable responders like the Red Cross, Médecins Sans Frontières, and UN OCHA and others to reach those in need. OpenStreetMap is a free, editable map of the whole world where people are building the most complete and accurate map of the world that has ever existed. As it is open-source, anyone can edit and use the map. 
+
+The Hub will focus on humanitarian and community development mapping and will engage with local mapping communities in the region by facilitating knowledge exchanges, distributing funding, and providing training and support with the goal of massively scaling local edits to OpenStreetMap. “We want to be closer to the communities so that the data and maps can be tools for analysis and decision-making that will help improve the living conditions of the people,” says Ibrahima Cisse, Regional Director of the West and Northern Africa Open Mapping Hub, “We stimulate and strengthen the leadership of communities to protect their livelihoods, improve their resilience, and preserve their way of life by promoting social justice in accessing open data and free software for their own purposes.” 
+
+Inspiring and mobilizing an OpenStreetMap movement across the region for community development and humanitarian impact is at the core of the Hub’s mission. “As a global open mapping movement, we are trying to do something that’s never been done before: a map of our world by and for the people of our world,” explains Tyler Radford, HOT’s Executive Director, “Local and international humanitarian and development partners are relying on us for data that can lead to life-changing impact and today’s launch of the Regional Open Mapping Hub in West and Northern Africa is one step closer to realizing that goal.”
+
+In addition to West and Northern Africa, HOT has established regional Open Mapping Hubs in Asia-Pacific, Eastern and Southern Africa, with plans to open a fourth in Latin America and the Caribbean. The regional hubs will engage with local mapping communities helping to foster a global open mapping movement to ensure that missing maps are no longer a factor in human suffering.
