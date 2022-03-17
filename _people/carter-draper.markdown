@@ -4,7 +4,7 @@ date: 2021-06-04 11:43:00 Z
 Photo: "/uploads/Photo1.jpg"
 Member Type:
   Is Staff: true
-Job Title: Global Projects Manager- West and Northern Africa
+Job Title: Regional Project Manager - West and Northern Africa
 Team: West and Northern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/DraperC_18
