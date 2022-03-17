@@ -1,6 +1,6 @@
 ---
 title: Open Mapping Hub Launches in West And Northern Africa
-date: 2022-03-17 13:11:00 Z
+date: 2022-03-17 12:00:00 Z
 Feature Image: "/uploads/WNAHub%20Launch%20Image.jpg"
 Person: Ibrahima Cisse
 ---
