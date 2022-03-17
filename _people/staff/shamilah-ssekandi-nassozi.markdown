@@ -6,7 +6,7 @@ Member Type:
   Is Staff: true
 Job Title: Associate, Data Quality - Eastern and Southern Africa
 Country: Uganda
-Team: Eastern and Southern Africa
+Team: Eastern and Southern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Shamillah
 ---
