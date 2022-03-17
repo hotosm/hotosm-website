@@ -1,7 +1,7 @@
 ---
 title: Ralph Aytoun
 date: 2017-02-28 13:58:00 Z
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-366-1488296375.jpg
+Photo: "/uploads/246-0-2.jpg"
 Member Type:
   Is Staff: true
   Is Voting Member: true
@@ -22,6 +22,7 @@ Project:
 - Nepal 2015 Earthquake Response
 - Field Papers
 Country: United Kingdom
+Team: UK Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/RAytoun
   Twitter: https://twitter.com/RalphAytoun1
