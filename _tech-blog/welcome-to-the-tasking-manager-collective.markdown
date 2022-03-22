@@ -1,6 +1,5 @@
 ---
-title: 'Welcome to the Tasking Manager Collective: join us in contributing to the
-  Tasking Manager development'
+title: Join and contribute to the Tasking Manager Collective
 date: 2022-03-22 12:38:00 Z
 published: false
 Feature Image: "/uploads/Tasking%20Manager.PNG"
