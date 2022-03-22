@@ -3,12 +3,12 @@ title: 'Welcome to the Tasking Manager Collective: join us in contributing to th
   Tasking Manager development'
 date: 2022-03-22 12:38:00 Z
 published: false
-Summary Text: We are really excited to be working with Kathmandu Living Labs. I am
-  sure you have already seen the blog post welcoming [KLL to the collective](https://www.hotosm.org/tech-blog/welcome-to-the-collective-kll/).
+Summary Text: We are really excited to be working with Kathmandu Living Labs. Hopefully
+  you have already seen the blog post in [welcoming KLL to the collective](https://www.hotosm.org/tech-blog/welcome-to-the-collective-kll/).
   As quite a few of us are new to this collaboration we thought it would be useful
   to go through the process and ways in which you can get involved. Again, we are
-  trialling this - any feedback and suggestions that you have are welcome!
-Feature Image: "/uploads/Tasking%20Manager-d25587.PNG"
+  trialing this - any feedback and suggestions that you have are welcome!
+Feature Image: "/uploads/Tasking%20Manager.PNG"
 Is image top aligned: false
 Person: Petya Kangalova
 Project:
