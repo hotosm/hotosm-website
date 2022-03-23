@@ -6,6 +6,8 @@ tags:
 - Latam
 - Community
 - news
+Summary Text: '2022 seems like a good year for the Latin American OSM community, let''s
+  see what new activities are being developed in the countries of the region. '
 Feature Image: "/uploads/featured.jpg"
 ---
 
