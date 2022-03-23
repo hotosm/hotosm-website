@@ -52,10 +52,10 @@ In February, the [introduction](https://www.eventbrite.com/e/conociendo-youthmap
 
 Finally, a stage prior to the Open Mapping Hub in Latin America has been [announced](https://www.hotosm.org/updates/open-mapping-hub-in-latam-december-2021-update/): the Alpha Phase, which is already taking its first steps and we will soon have more news about it.
 
-P.S. We invite the entire OSM community to participate in the debate that is shaping the evolution and modernization of the community forums in OSM. New forums based on the free software Discourse have been enabled in the past week and we hope that the community will participate and contribute to the form of these forums. More info [here](https://community.openstreetmap.org/t/welcome-to-the-forum-get-involved-in-the-next-steps-here/219).
+P.S. We invite the entire OSM community to participate in the debate that is shaping the evolution and modernization of the community forums in OSM. New forums based on the open source software Discourse have been enabled in the past week and we hope that the community will participate and contribute to shape these forums. More info [here](https://community.openstreetmap.org/t/welcome-to-the-forum-get-involved-in-the-next-steps-here/219).
 
 In particular, we call your attention to a very relevant [sub-debate](https://community.openstreetmap.org/t/proposal-language-and-location-based-content-and-categories/310) for Latin American communities, which deals with enabling spaces by languages or by countries.
 
 ---
 
-***Disclaimer.** I am [Juan Arellano](http://arellanojuan.com/). Since May 2021 I have been a volunteer for the OSM Foundation doing translations into Spanish and running the semi-official Twitter account [@esopenstreetmap](https://twitter.com/esopenstreetmap). From this month I also collaborate with the Community Communications for the Alpha Phase of the Open Mapping Hub in Latin America.*
+***Disclaimer.** I am [Juan Arellano](http://arellanojuan.com/). Since May 2021 I have been a volunteer for the OSM Foundation doing translations into Spanish and running the semi-official Twitter account [@esopenstreetmap](https://twitter.com/esopenstreetmap). Starting this month I also collaborate on the Community Communications for the Alpha Phase of the Open Mapping Hub in Latin America.*

@@ -40,7 +40,7 @@ También en Brasil, ha estado activo el [proyecto](https://infosaofrancisco.cano
 
 *`Fotos: Carlos E. Ribeiro/InfoSãoFrancisco / UKRI GCRF: URBE Latam`*
 
-¿Conocen Open Cities México?, es un proyecto conjunto entre [GFDRR](https://www.gfdrr.org/), HOT, y otros socios estratégicos, que tiene como objetivos crear datos espaciales abiertos de alta calidad sobre vulnerabilidades del territorio en Tulum, desarrollar productos que utilicen información sobre riesgo de desastres naturales y consolidar redes regionales a través de OpenStreetMap y comunidades de código abierto.
+¿Conocen Open Cities México? Es un proyecto conjunto entre [GFDRR](https://www.gfdrr.org/), HOT, y otros socios estratégicos, que tiene como objetivos crear datos espaciales abiertos de alta calidad sobre vulnerabilidades del territorio en Tulum, desarrollar productos que utilicen información sobre riesgo de desastres naturales y consolidar redes regionales a través de OpenStreetMap y comunidades de código abierto.
 
 Este proyecto de Open Cities -ciudades abiertas en castellano- tendrá pronto un taller de capacitación e iniciarán colaboraciones con universidades entre las cuales figuran la [Universidad del Estado de México](http://facgeografia.uaemex.mx/) y la Universidad [UQROO](https://www.uqroo.mx/) en Chetumal.
 
