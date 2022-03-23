@@ -21,19 +21,19 @@ Un proyecto que nos anima mucho, por su importancia en estas épocas de cambio c
 
 *`Fuente: Página de Facebook de OSM Chile.`*
 
-Por otro lado, tenemos noticias de URBELatam, un proyecto en conjunto con el Banco Comunitario de Preventório y tres instituciones educativas: la Universidad de Glasgow en Escocia, la Universidad Federal de Rio de Janeiro en Brasil, y la Universidad de Antioquia en Colombia, para mapear la comunidad de Morro do Preventório, cerca de Río de Janeiro.
+Por otro lado, tenemos [noticias](https://www.hotosm.org/updates/mapping-the-care-of-people-with-urbelatam/) de URBELatam, un proyecto en conjunto con el Banco Comunitario de Preventório y tres instituciones educativas: la Universidad de Glasgow en Escocia, la Universidad Federal de Rio de Janeiro en Brasil, y la Universidad de Antioquia en Colombia, para mapear la comunidad de Morro do Preventório, cerca de Río de Janeiro.
 
 En los últimos 8 meses el proyecto ha mapeado calles, callejones, negocios, edificios públicos, casas, etc. También se mapeó a los artistas locales, lo que se reflejó en un festival realizado exclusivamente con artistas locales, algo posible gracias al mapeo cultural.
 
-También en Brasil, ha estado activo el proyecto Mapeo de Lagunas y Tierras Bajas del Bajo São Francisco, que recientemente ha publicado una Guia del bajo São Francisco para socios extranjeros, con el objetivo de facilitar la discusión de situaciones prioritarias (injusticia humanitaria, empoderamiento ciudadano y vigilancia del territorio y la biodiversidad con relevancia en situaciones relacionadas con el agua) en el mapeo de proyectos con interlocutores extranjeros interesados ​​en sumarse a iniciativas colaborativas.
+También en Brasil, ha estado activo el [proyecto](https://infosaofrancisco.canoadetolda.org.br/noticias/mapeamento/mapsaofrancisco-inicia-mapeamento-de-lagoas-e-varzeas-no-baixo-sao-francisco/) Mapeo de Lagunas y Tierras Bajas del Bajo São Francisco, que recientemente ha publicado una [Guia del bajo São Francisco para socios extranjeros](https://infosaofrancisco.canoadetolda.org.br/noticias/mapeamento/um-pequeno-guia-do-baixo-sao-francisco-para-parceiros-estrangeiros/), con el objetivo de facilitar la discusión de situaciones prioritarias (injusticia humanitaria, empoderamiento ciudadano y vigilancia del territorio y la biodiversidad con relevancia en situaciones relacionadas con el agua) en el mapeo de proyectos con interlocutores extranjeros interesados ​​en sumarse a iniciativas colaborativas.
 
 ![brasil.jpg](/uploads/brasil.jpg)
 
 *`Fotos: Carlos E. Ribeiro/InfoSãoFrancisco / UKRI GCRF: URBE Latam`*
 
-¿Conocen Open Cities México?, es un proyecto conjunto entre GFDRR, HOT, y otros socios estratégicos, que tiene como objetivos crear datos espaciales abiertos de alta calidad sobre vulnerabilidades del territorio en Tulum, desarrollar productos que utilicen información sobre riesgo de desastres naturales y consolidar redes regionales a través de OpenStreetMap y comunidades de código abierto.
+¿Conocen Open Cities México?, es un proyecto conjunto entre [GFDRR](https://www.gfdrr.org/), HOT, y otros socios estratégicos, que tiene como objetivos crear datos espaciales abiertos de alta calidad sobre vulnerabilidades del territorio en Tulum, desarrollar productos que utilicen información sobre riesgo de desastres naturales y consolidar redes regionales a través de OpenStreetMap y comunidades de código abierto.
 
-Este proyecto de Open Cities -ciudades abiertas en castellano- tendrá pronto un taller de capacitación e iniciarán colaboraciones con universidades entre las cuales figuran la Universidad del Estado de México y la Universidad UQROO en Chetumal.
+Este proyecto de Open Cities -ciudades abiertas en castellano- tendrá pronto un taller de capacitación e iniciarán colaboraciones con universidades entre las cuales figuran la [Universidad del Estado de México](http://facgeografia.uaemex.mx/) y la Universidad [UQROO](https://www.uqroo.mx/) en Chetumal.
 
 En febrero se llevó a cabo la presentación de los nuevos capítulos de Youthmappers en Guatemala, y como parte también de dicha iniciativa, el pasado 5 de marzo se realizó un taller de capacitación básica en OpenStreetMap con el objetivo generar red alrededor del mapeo abierto, además realizaron un mapatón principiante guiado el 19 de este mes. Ya están planeando otro para el mes de abril con la propuesta de repetir estas actividades periódicamente.
 
