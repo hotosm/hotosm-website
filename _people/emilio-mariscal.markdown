@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Job Title: Senior Engineer/Developer
 Team: Global
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/suricata88
 ---
 
 Emilio (Emi) has 20+ years of experience working on software design & development. He is currently serving as Senior Engineer/Developer @ HOT.
