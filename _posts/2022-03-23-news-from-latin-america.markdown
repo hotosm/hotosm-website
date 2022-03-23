@@ -40,11 +40,11 @@ Also in Brazil, the Mapping of Lagoons and Lowlands of the Lower São Francisco 
 
 *`Photos: Carlos E. Ribeiro/InfoSãoFrancisco / UKRI GCRF: URBE Latam`*
 
-Do you know Open Cities Mexico?, is a joint project between [GFDRR](https://www.gfdrr.org/), HOT, and other strategic partners, which aims to create high quality open spatial data on vulnerabilities of the territory in Tulum, develop products that use information on risk of natural disasters and consolidate regional networks through OpenStreetMap and open source communities.
+Do you know Open Cities Mexico? It is a joint project between [GFDRR](https://www.gfdrr.org/), HOT, and other strategic partners, which aims to create high quality open spatial data on vulnerabilities of the territory in Tulum, develop products that use information about risk of natural disasters and consolidate regional networks through OpenStreetMap and open source communities.
 
 This Open Cities project will soon have a training workshop and will start collaborations with universities, among which are the [University of the State of Mexico](http://facgeografia.uaemex.mx/) and the [UQROO](https://www.uqroo.mx/) University in Chetumal.
 
-In February, the [introduction](https://www.eventbrite.com/e/conociendo-youthmappers-guatemala-tickets-264579112247) of the new chapters of Youthmappers in Guatemala was held, and as part of this initiative, a basic training workshop on OpenStreetMap [was held](https://twitter.com/mapeadora/status/1498487882947960834) on March 5 with the aim of generating a network around open mapping, in addition it was also held a beginners guided [mapathon](https://twitter.com/mapeadora/status/1503575001013932034) on the 19th of this month. They are already planning another one for the month of April with the proposal to repeat these activities periodically.
+In February, the [introduction](https://www.eventbrite.com/e/conociendo-youthmappers-guatemala-tickets-264579112247) of the new chapters of Youthmappers in Guatemala took place, and as part of this initiative, a basic training workshop on OpenStreetMap [was held](https://twitter.com/mapeadora/status/1498487882947960834) on March 5th with the aim of generating a network around open mapping, in addition a beginners guided [mapathon](https://twitter.com/mapeadora/status/1503575001013932034) on the 19th of this month also happened. They are already planning another one for the month of April with a proposal to repeat these activities periodically.
 
 ![guatemex.jpg](/uploads/guatemex.jpg)
 
