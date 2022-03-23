@@ -9,6 +9,8 @@ At the end of January, the first OSM Latam 2022 meeting was held, during which s
 
 In this sense, the next OSM Latam Meeting is already being prepared and everyone is invited to participate. This time it is organized by the people of OSM Mexico, and it will be held on Saturday, March 26.
 
+![juntas2.jpg](/uploads/juntas2.jpg)
+
 By the way, the first meeting was held in the space kindly provided by the friends of Maptime Bogotá, who have been carrying out some notathons since 2021 to close the pending notes, first in Bogotá and then in Colombia, and now they're trying to help the various Latin American communities to do the same, for which a Telegram group dedicated to the resolution of notes in Latam was created, and also its section on the wiki.
 
 Mapeadora was present at the most recent notathon and in her OpenStreetMap diary she recorded her impressions on the matter. And since we are talking about Mapeadora, she will be presenting on April 4 the model of a Technological Tool for the integration of voluntary geographic information in the updating of geographic names (NGIGEV). This project, in which several countries participate, has a grant from the PAIGH and includes indicative integration of OSM data and official data.
