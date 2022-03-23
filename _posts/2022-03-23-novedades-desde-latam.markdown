@@ -43,4 +43,4 @@ En particular llamamos su atención a un sub-debate muy relevante para las comun
 
 ---
 
-***Disclaimer.** Soy Juan Arellano. Desde mayo del 2021 soy voluntario para la Fundación OSM realizando traducciones al castellano y llevando la cuenta semioficial de Twitter [@esopenstreetmap](https://twitter.com/esopenstreetmap). Desde el presente mes además colaboro con las Comunicaciones comunitarias para la Fase Alpha del Hub de Mapeo Abierto en Latinoamérica.*
+***Disclaimer.** Soy [Juan Arellano](http://arellanojuan.com/). Desde mayo del 2021 soy voluntario para la Fundación OSM realizando traducciones al castellano y llevando la cuenta semioficial de Twitter [@esopenstreetmap](https://twitter.com/esopenstreetmap). Desde el presente mes además colaboro con las Comunicaciones comunitarias para la Fase Alpha del Hub de Mapeo Abierto en Latinoamérica.*
