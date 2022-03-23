@@ -35,17 +35,17 @@ Do you know Open Cities Mexico?, is a joint project between [GFDRR](https://www.
 
 This Open Cities project will soon have a training workshop and will start collaborations with universities, among which are the [University of the State of Mexico](http://facgeografia.uaemex.mx/) and the [UQROO](https://www.uqroo.mx/) University in Chetumal.
 
-In February, the presentation of the new chapters of Youthmappers in Guatemala was held, and as part of this initiative, a basic training workshop on OpenStreetMap was held on March 5 with the aim of generating a network around open mapping, in addition it was also held a beginners guided mapathon on the 19th of this month. They are already planning another one for the month of April with the proposal to repeat these activities periodically.
+In February, the [introduction](https://www.eventbrite.com/e/conociendo-youthmappers-guatemala-tickets-264579112247) of the new chapters of Youthmappers in Guatemala was held, and as part of this initiative, a basic training workshop on OpenStreetMap [was held](https://twitter.com/mapeadora/status/1498487882947960834) on March 5 with the aim of generating a network around open mapping, in addition it was also held a beginners guided [mapathon](https://twitter.com/mapeadora/status/1503575001013932034) on the 19th of this month. They are already planning another one for the month of April with the proposal to repeat these activities periodically.
 
 ![guatemex.jpg](/uploads/guatemex.jpg)
 
 *`Images: @Mapeadora/Youthmappers Guatemala / Sandra Hernández/Open Cities México`*
 
-Finally, a stage prior to the Open Mapping Hub in Latin America has been announced: the Alpha Phase, which is already taking its first steps and we will soon have more news about it.
+Finally, a stage prior to the Open Mapping Hub in Latin America has been [announced](https://www.hotosm.org/updates/open-mapping-hub-in-latam-december-2021-update/): the Alpha Phase, which is already taking its first steps and we will soon have more news about it.
 
-P.S. We invite the entire OSM community to participate in the debate that is shaping the evolution and modernization of the community forums in OSM. New forums based on the free software Discourse have been enabled in the past week and we hope that the community will participate and contribute to the form of these forums. More info here.
+P.S. We invite the entire OSM community to participate in the debate that is shaping the evolution and modernization of the community forums in OSM. New forums based on the free software Discourse have been enabled in the past week and we hope that the community will participate and contribute to the form of these forums. More info [here](https://community.openstreetmap.org/t/welcome-to-the-forum-get-involved-in-the-next-steps-here/219).
 
-In particular, we call your attention to a very relevant sub-debate for Latin American communities, which deals with enabling spaces by languages or by countries.
+In particular, we call your attention to a very relevant [sub-debate](https://community.openstreetmap.org/t/proposal-language-and-location-based-content-and-categories/310) for Latin American communities, which deals with enabling spaces by languages or by countries.
 
 ---
 

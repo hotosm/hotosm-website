@@ -35,17 +35,17 @@ También en Brasil, ha estado activo el [proyecto](https://infosaofrancisco.cano
 
 Este proyecto de Open Cities -ciudades abiertas en castellano- tendrá pronto un taller de capacitación e iniciarán colaboraciones con universidades entre las cuales figuran la [Universidad del Estado de México](http://facgeografia.uaemex.mx/) y la Universidad [UQROO](https://www.uqroo.mx/) en Chetumal.
 
-En febrero se llevó a cabo la presentación de los nuevos capítulos de Youthmappers en Guatemala, y como parte también de dicha iniciativa, el pasado 5 de marzo se realizó un taller de capacitación básica en OpenStreetMap con el objetivo generar red alrededor del mapeo abierto, además realizaron un mapatón principiante guiado el 19 de este mes. Ya están planeando otro para el mes de abril con la propuesta de repetir estas actividades periódicamente.
+En febrero se llevó a cabo la [presentación](https://www.eventbrite.com/e/conociendo-youthmappers-guatemala-tickets-264579112247) de los nuevos capítulos de Youthmappers en Guatemala, y como parte también de dicha iniciativa, el pasado 5 de marzo se [realizó](https://twitter.com/mapeadora/status/1498487882947960834) un taller de capacitación básica en OpenStreetMap con el objetivo generar red alrededor del mapeo abierto, además realizaron un [mapatón](https://twitter.com/mapeadora/status/1503575001013932034) principiante guiado el 19 de este mes. Ya están planeando otro para el mes de abril con la propuesta de repetir estas actividades periódicamente.
 
 ![guatemex.jpg](/uploads/guatemex.jpg)
 
 *`Fotos: @Mapeadora/Youthmappers Guatemala / Sandra Hernández/Open Cities México`*
 
-Finalmente, se ha anunciado una etapa previa al Hub de Mapeo Abierto en Latinoamérica: la Fase Alpha, que ya se encuentra dando sus primeros pasos y pronto tendremos más novedades al respecto.
+Finalmente, se ha [anunciado](https://www.hotosm.org/updates/hub-de-mapeo-abierto-en-latam-actualizacion-diciembre-2021/) una etapa previa al Hub de Mapeo Abierto en Latinoamérica: la Fase Alpha, que ya se encuentra dando sus primeros pasos y pronto tendremos más novedades al respecto.
 
-PD. Invitamos a toda la comunidad OSM a participar en el debate que está dando forma a la evolución y modernización de los foros comunitarios en OSM. La semana pasada se han habilitado nuevos foros basados en el software libre Discourse y esperamos que la comunidad participe y contribuya a la forma de estos foros. Más info aquí.
+PD. Invitamos a toda la comunidad OSM a participar en el debate que está dando forma a la evolución y modernización de los foros comunitarios en OSM. La semana pasada se han habilitado nuevos foros basados en el software libre Discourse y esperamos que la comunidad participe y contribuya a la forma de estos foros. Más info [aquí](https://community.openstreetmap.org/t/welcome-to-the-forum-get-involved-in-the-next-steps-here/219).
 
-En particular llamamos su atención a un sub-debate muy relevante para las comunidades latinoamericanas, el cual versa sobre habilitar espacios por idiomas o por países.
+En particular llamamos su atención a un [sub-debate](https://community.openstreetmap.org/t/proposal-language-and-location-based-content-and-categories/310) muy relevante para las comunidades latinoamericanas, el cual versa sobre habilitar espacios por idiomas o por países.
 
 ---
 
