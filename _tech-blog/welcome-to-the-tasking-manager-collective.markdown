@@ -1,7 +1,9 @@
 ---
 title: 'Welcome to the Tasking Manager Collective: how to join & contribute!'
-date: 2022-03-22 12:38:00 Z
+date: 2022-03-23 12:38:00 Z
 published: false
+tags:
+- hot_tech
 Feature Image: "/uploads/Tasking%20Manager_1.PNG"
 Is image top aligned: false
 Person: Petya Kangalova
@@ -27,5 +29,4 @@ There are a few ways in which you can get involved:
 
 * Calendar appointment with details: [Wednesday 6 April 9:00 UTC](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MmFmNm1jNXBtYW1tMG9wcGhnMzkzcThkamYgaG90b3NtLm9yZ184NDhlODlhYWlhYjA0YWc5NGQyM3JxbjU1OEBn/cGV0eWEua2FuZ2Fsb3ZhQGhvdG9zbS5vcmc?sf=true) OR [16:00 UTC](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MHJhYm1mMnZobWphOG90MHRoa2Vmb25lOWYgaG90b3NtLm9yZ184NDhlODlhYWlhYjA0YWc5NGQyM3JxbjU1OEBn/cGV0eWEua2FuZ2Fsb3ZhQGhvdG9zbS5vcmc?sf=true) 
 
-We look forward to collaborating with you! If you have any questions or feedback, please share below!
- 
+We look forward to collaborating with you!
