@@ -33,6 +33,6 @@ P.S. We invite the entire OSM community to participate in the debate that is sha
 
 In particular, we call your attention to a very relevant sub-debate for Latin American communities, which deals with enabling spaces by languages or by countries.
 
-__________________________________________
+---
 
 ***Disclaimer.** I am [Juan Arellano](http://arellanojuan.com/). Since May 2021 I have been a volunteer for the OSM Foundation doing translations into Spanish and running the semi-official Twitter account [@esopenstreetmap](https://twitter.com/esopenstreetmap). From this month I also collaborate with the Community Communications for the Alpha Phase of the Open Mapping Hub in Latin America.*
