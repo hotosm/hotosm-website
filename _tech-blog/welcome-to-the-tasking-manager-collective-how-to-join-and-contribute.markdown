@@ -1,6 +1,6 @@
 ---
 title: 'Welcome to the Tasking Manager Collective: how to join & contribute!'
-date: 2022-03-23 10:32:00 Z
+date: 2022-03-23 10:47:00 Z
 published: false
 Feature Image: "/uploads/Tasking%20Manager_1-7c798e.PNG"
 Person: Petya Kangalova
