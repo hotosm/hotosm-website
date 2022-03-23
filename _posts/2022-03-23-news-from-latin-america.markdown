@@ -16,7 +16,7 @@ Feature Image: "/uploads/featured.jpg"
 
 At the end of January, the [first OSM Latam 2022 meeting](https://wiki.openstreetmap.org/wiki/LatAm/20220129_Reuni%C3%B3n_virtual) was held, during which some decisions were made, such as: 
 
-* holding meetings bi-monthly, and having a different country take the leadership of each meeting. 
+* Holding meetings bi-monthly, and having a different country take the leadership of each meeting. 
 
 * Update and improve the regional Wiki. 
 
