@@ -1,5 +1,5 @@
 ---
-title: Novedades desde Latam
+title: Novedades desde LATAM
 date: 2022-03-23 03:57:00 Z
 ---
 
