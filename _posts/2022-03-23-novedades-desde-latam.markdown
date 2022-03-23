@@ -1,6 +1,7 @@
 ---
 title: Novedades desde LATAM
 date: 2022-03-23 03:57:00 Z
+Feature Image: "/uploads/featured.jpg"
 ---
 
 2022 parece un buen año para la comunidad OSM latinoamericana, hay actividades en curso en varios países y estamos seguros que en otros ya se está planeando qué hacer, pues varias personas han manifestado su interés para retomar iniciativas a este nivel comunitario. Así que demos un vistazo al panorama OSM latinoamericano:
