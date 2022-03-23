@@ -1,5 +1,5 @@
 ---
-title: News from Latin America
+title: News from LatAm
 date: 2022-03-21 15:07:00 Z
 ---
 
