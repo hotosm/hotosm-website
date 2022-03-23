@@ -6,6 +6,8 @@ tags:
 - Latam
 - Community
 - news
+Summary Text: 2022 parece un buen año para la comunidad OSM latinoamericana, veamos
+  que nuevas actividades se van desarrollando en los países de la región.
 Feature Image: "/uploads/featured.jpg"
 ---
 
@@ -41,7 +43,7 @@ También en Brasil, ha estado activo el [proyecto](https://infosaofrancisco.cano
 
 Este proyecto de Open Cities -ciudades abiertas en castellano- tendrá pronto un taller de capacitación e iniciarán colaboraciones con universidades entre las cuales figuran la [Universidad del Estado de México](http://facgeografia.uaemex.mx/) y la Universidad [UQROO](https://www.uqroo.mx/) en Chetumal.
 
-En febrero se llevó a cabo la [presentación](https://www.eventbrite.com/e/conociendo-youthmappers-guatemala-tickets-264579112247) de los nuevos capítulos de Youthmappers en Guatemala, y como parte también de dicha iniciativa, el pasado 5 de marzo se [realizó](https://twitter.com/mapeadora/status/1498487882947960834) un taller de capacitación básica en OpenStreetMap con el objetivo generar red alrededor del mapeo abierto, además realizaron un [mapatón](https://twitter.com/mapeadora/status/1503575001013932034) principiante guiado el 19 de este mes. Ya están planeando otro para el mes de abril con la propuesta de repetir estas actividades periódicamente.
+En febrero se llevó a cabo la [presentación](https://www.eventbrite.com/e/conociendo-youthmappers-guatemala-tickets-264579112247) de los nuevos capítulos de Youthmappers en Guatemala, y como parte también de dicha iniciativa, el pasado 5 de marzo se [realizó](https://twitter.com/mapeadora/status/1498487882947960834) un taller de capacitación básica en OpenStreetMap con el objetivo de generar red alrededor del mapeo abierto, además realizaron un [mapatón](https://twitter.com/mapeadora/status/1503575001013932034) principiante guiado el 19 de este mes. Ya están planeando otro para el mes de abril con la propuesta de repetir estas actividades periódicamente.
 
 ![guatemex.jpg](/uploads/guatemex.jpg)
 
