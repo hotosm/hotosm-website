@@ -5,7 +5,7 @@ Photo: "/uploads/Rachelle-Pormento_Pic.jpg"
 Member Type:
   Is Staff: true
 Job Title: Global Human Resources Manager
-Team: Remote
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/rachelleanne
 ---
