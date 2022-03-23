@@ -1,7 +1,6 @@
 ---
 title: Open Mapping News from LATAM
 date: 2022-03-23 15:07:00 Z
-published: false
 tags:
 - Latam
 - Community
