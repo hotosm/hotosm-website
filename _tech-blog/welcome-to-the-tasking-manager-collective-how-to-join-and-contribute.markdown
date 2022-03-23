@@ -26,4 +26,4 @@ There are a few ways in which you can get involved:
 
 * Calendar appointment with details: [Wednesday 6 April 9:00 UTC](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MmFmNm1jNXBtYW1tMG9wcGhnMzkzcThkamYgaG90b3NtLm9yZ184NDhlODlhYWlhYjA0YWc5NGQyM3JxbjU1OEBn/cGV0eWEua2FuZ2Fsb3ZhQGhvdG9zbS5vcmc?sf=true) OR [16:00 UTC](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MHJhYm1mMnZobWphOG90MHRoa2Vmb25lOWYgaG90b3NtLm9yZ184NDhlODlhYWlhYjA0YWc5NGQyM3JxbjU1OEBn/cGV0eWEua2FuZ2Fsb3ZhQGhvdG9zbS5vcmc?sf=true) 
 
-We look forward to collaborating with you!
+We look forward to collaborating with you! If you have any questions or feedback, please comment [here](https://community.openstreetmap.org/t/welcome-to-the-tasking-manager-collective-how-to-join-contribute/679).
