@@ -17,7 +17,9 @@ Mapeadora estuvo presente en la más reciente notatón y en su diario de OpenStr
 
 Un proyecto que nos anima mucho, por su importancia en estas épocas de cambio climático, es el de arbolado urbano o mapeo de árboles que impulsa la gente de OSM Chile, y que ya algunas otras comunidades de la región quieren replicar o desarrollar con otras perspectivas. Será un tema de discusión en la junta OSM Latam de marzo.
 
-Fuente: Página de Facebook de OSM Chile.
+![arbolado-chile.2png.png](/uploads/arbolado-chile.2png.png)
+
+*`Fuente: Página de Facebook de OSM Chile.`*
 
 Por otro lado, tenemos noticias de URBELatam, un proyecto en conjunto con el Banco Comunitario de Preventório y tres instituciones educativas: la Universidad de Glasgow en Escocia, la Universidad Federal de Rio de Janeiro en Brasil, y la Universidad de Antioquia en Colombia, para mapear la comunidad de Morro do Preventório, cerca de Río de Janeiro.
 
@@ -25,7 +27,9 @@ En los últimos 8 meses el proyecto ha mapeado calles, callejones, negocios, edi
 
 También en Brasil, ha estado activo el proyecto Mapeo de Lagunas y Tierras Bajas del Bajo São Francisco, que recientemente ha publicado una Guia del bajo São Francisco para socios extranjeros, con el objetivo de facilitar la discusión de situaciones prioritarias (injusticia humanitaria, empoderamiento ciudadano y vigilancia del territorio y la biodiversidad con relevancia en situaciones relacionadas con el agua) en el mapeo de proyectos con interlocutores extranjeros interesados ​​en sumarse a iniciativas colaborativas.
 
-Fotos: Carlos E. Ribeiro/InfoSãoFrancisco / UKRI GCRF: URBE Latam
+![brasil.jpg](/uploads/brasil.jpg)
+
+*`Fotos: Carlos E. Ribeiro/InfoSãoFrancisco / UKRI GCRF: URBE Latam`*
 
 ¿Conocen Open Cities México?, es un proyecto conjunto entre GFDRR, HOT, y otros socios estratégicos, que tiene como objetivos crear datos espaciales abiertos de alta calidad sobre vulnerabilidades del territorio en Tulum, desarrollar productos que utilicen información sobre riesgo de desastres naturales y consolidar redes regionales a través de OpenStreetMap y comunidades de código abierto.
 
@@ -33,7 +37,9 @@ Este proyecto de Open Cities -ciudades abiertas en castellano- tendrá pronto un
 
 En febrero se llevó a cabo la presentación de los nuevos capítulos de Youthmappers en Guatemala, y como parte también de dicha iniciativa, el pasado 5 de marzo se realizó un taller de capacitación básica en OpenStreetMap con el objetivo generar red alrededor del mapeo abierto, además realizaron un mapatón principiante guiado el 19 de este mes. Ya están planeando otro para el mes de abril con la propuesta de repetir estas actividades periódicamente.
 
-Fotos: @Mapeadora/Youthmappers Guatemala / Sandra Hernández/Open Cities México
+![guatemex.jpg](/uploads/guatemex.jpg)
+
+*`Fotos: @Mapeadora/Youthmappers Guatemala / Sandra Hernández/Open Cities México`*
 
 Finalmente, se ha anunciado una etapa previa al Hub de Mapeo Abierto en Latinoamérica: la Fase Alpha, que ya se encuentra dando sus primeros pasos y pronto tendremos más novedades al respecto.
 
