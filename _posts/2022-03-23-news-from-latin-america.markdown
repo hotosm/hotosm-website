@@ -14,9 +14,15 @@ Feature Image: "/uploads/featured.jpg"
 
 2022 seems like a good year for the Latin American OSM community, there are activities underway in several countries and we are sure that others are already planning what to do, as several people have expressed interest in resuming initiatives at the community level. So let's take a look at the Latin American OSM landscape:
 
-At the end of January, the [first OSM Latam 2022 meeting](https://wiki.openstreetmap.org/wiki/LatAm/20220129_Reuni%C3%B3n_virtual) was held, during which some decisions were made, such as: holding meetings bimonthly, and having a different country take the leadership of each meeting. Update and improve the regional Wiki. Have more training materials, either by translating or creating them.
+At the end of January, the [first OSM Latam 2022 meeting](https://wiki.openstreetmap.org/wiki/LatAm/20220129_Reuni%C3%B3n_virtual) was held, during which some decisions were made, such as: 
 
-In this sense, the next OSM Latam Meeting is already [being prepared](https://wiki.openstreetmap.org/wiki/ES:LatAm/20220326_Reuni%C3%B3n_virtual#Agenda_colaborativa) and everyone is invited to participate. This time it will be organized by the people of OSM Mexico, and [it will be held](https://twitter.com/esopenstreetmap/status/1505183560113741824) on Saturday, March 26th.
+* holding meetings bi-monthly, and having a different country take the leadership of each meeting. 
+
+* Update and improve the regional Wiki. 
+
+* Get more training materials, either by translating or creating them.
+
+In this sense, the next OSM Latam Meeting is already [being prepared](https://wiki.openstreetmap.org/wiki/ES:LatAm/20220326_Reuni%C3%B3n_virtual#Agenda_colaborativa) and everyone is invited to participate. This time, it will be organized by the people of OSM Mexico, and [it will be held](https://twitter.com/esopenstreetmap/status/1505183560113741824) on Saturday, March 26th.
 
 ![juntas2.jpg](/uploads/juntas2.jpg)
 
