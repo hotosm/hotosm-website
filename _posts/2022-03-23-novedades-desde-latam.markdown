@@ -6,6 +6,7 @@ tags:
 - Latam
 - Community
 - news
+- OpenStreetMap
 Summary Text: 2022 parece un buen año para la comunidad OSM latinoamericana, veamos
   que nuevas actividades se van desarrollando en los países de la región.
 Feature Image: "/uploads/featured.jpg"
