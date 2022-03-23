@@ -1,6 +1,6 @@
 ---
 title: Novedades desde LATAM
-date: 2022-03-23 03:57:00 Z
+date: 2022-03-23 03:00:00 Z
 Feature Image: "/uploads/featured.jpg"
 ---
 
