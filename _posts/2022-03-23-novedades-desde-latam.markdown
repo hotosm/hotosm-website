@@ -1,5 +1,5 @@
 ---
-title: Novedades desde LATAM
+title: Novedades del mapeo abierto en LATAM
 date: 2022-03-23 03:00:00 Z
 published: false
 tags:
