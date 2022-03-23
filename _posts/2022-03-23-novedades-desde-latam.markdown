@@ -14,7 +14,13 @@ Feature Image: "/uploads/featured.jpg"
 
 2022 parece un buen año para la comunidad OSM latinoamericana, hay actividades en curso en varios países y estamos seguros que en otros ya se está planeando qué hacer, pues varias personas han manifestado su interés para retomar iniciativas al nivel comunitario. Así que demos un vistazo al panorama OSM latinoamericano:
 
-A finales de enero se realizó la [primera junta OSM Latam 2022](https://wiki.openstreetmap.org/wiki/LatAm/20220129_Reuni%C3%B3n_virtual) durante la cual se tomaron algunas decisiones como por ejemplo: realizar las juntas con periodicidad bimestral, y que un país diferente tome el liderazgo de cada reunión. Actualizar y mejorar la Wiki regional. Disponer de más materiales de capacitación, sea traduciendolos o creandolos.
+A finales de enero se realizó la [primera junta OSM Latam 2022](https://wiki.openstreetmap.org/wiki/LatAm/20220129_Reuni%C3%B3n_virtual) durante la cual se tomaron algunas decisiones como por ejemplo: 
+
+* Realizar las juntas con periodicidad bimestral, y que un país diferente tome el liderazgo de cada reunión. 
+
+* Actualizar y mejorar la Wiki regional. 
+
+* Disponer de más materiales de capacitación, sea traduciendolos o creandolos.
 
 En tal sentido la próxima Junta OSM Latam ya está [preparándose](https://wiki.openstreetmap.org/wiki/ES:LatAm/20220326_Reuni%C3%B3n_virtual#Agenda_colaborativa) y desde ya quedan todos invitados a participar. En esta ocasión la organiza la gente de OSM México, y se [realizará](https://twitter.com/esopenstreetmap/status/1505183560113741824) el sábado 26 de marzo.
 
