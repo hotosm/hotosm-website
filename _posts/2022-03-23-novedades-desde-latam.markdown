@@ -9,6 +9,7 @@ A finales de enero se realizó la primera junta OSM Latam 2022 durante la cual s
 
 En tal sentido la próxima Junta OSM Latam ya está preparándose y desde ya quedan todos invitados a participar. En esta ocasión la organiza la gente de OSM México, y se realizará el sábado 26 de marzo. 
 
+![juntas2.jpg](/uploads/juntas2.jpg)
 
 Por cierto la primera junta fue realizada en el espacio gentilmente cedido por los amigos de Maptime Bogotá que vienen realizando desde el 2021 unas notatones para cerrar las notas pendientes, primero en Bogotá y luego en Colombia, y ahora intentan ayudar a las diversas comunidades latinoamericanas a hacer lo mismo, para lo cual se creó un grupo de Telegram dedicado a la resolución de notas en Latam, y también su sección en la wiki. 
 
