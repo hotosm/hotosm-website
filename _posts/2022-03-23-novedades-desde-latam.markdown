@@ -2,6 +2,10 @@
 title: Novedades desde LATAM
 date: 2022-03-23 03:00:00 Z
 published: false
+tags:
+- Latam
+- Community
+- news
 Feature Image: "/uploads/featured.jpg"
 ---
 
