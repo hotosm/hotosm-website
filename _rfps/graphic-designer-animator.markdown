@@ -4,7 +4,7 @@ date: 2022-03-21 23:59:00 Z
 Deadline Date: 2022-04-04 00:00:00 Z
 ---
 
-![Screen Shot 2022-03-21 at 3.50.59 PM.png](/uploads/Screen%20Shot%202022-03-21%20at%203.50.59%20PM.png)
+![Screen Shot 2022-03-23 at 11.34.14 AM.png](/uploads/Screen%20Shot%202022-03-23%20at%2011.34.14%20AM.png)
 
 ### **About the assignment:**
 
@@ -93,5 +93,5 @@ We are expecting proposals in the range of USD $20-25K for the full project. We 
 **RfP Posted:** 21 March 2022\
 **Closing date for questions:** any questions can be sent to gihan.hassanein@hotosm.org with the subject line "Web Design RFP" by 28 March \
 **Accepting applications until**: End of day 4 April \
-**After review of proposals: **we expect to host interviews with promising applicants, with a view to confirming a vendor circa 18 April**\
-Start date:** 25 April 2022
+**After review of proposals: we expect to host interviews with promising applicants, with a view to confirming a vendor circa 18 April**\
+Start date: 25 April 2022
