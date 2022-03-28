@@ -22,4 +22,4 @@ redirect_from:
 - "/users/kate_chapman"
 ---
 
-Kate Chapman was the first Executive Director of the Humanitarian OpenStreetMap Team (HOT). HOT applies the principles of open source and open data sharing to improve the welfare of the communities where HOT works, especially those at risk of natural disaster or other crisis. Kate spent the past three years working on a program called Scenario Development for Contingency Planning (SD4CP) in Indonesia to better enable disaster managers to use science in development of contingency plans. Kate has taught and provided technical assistance regarding OpenStreetMap in Vietnam, the Philippines, Indonesia, Haiti and the United States. Previous to working at HOT Kate was involved in development of multiple web-GIS applications including GeoCommons and iMapData.
+Kate Chapman is the Director of Digital Transformation at the Wikimedia Foundation, the non-profit that supports Wikipedia.  She is one of HOT’s co-founders and was the first Executive Director of HOT. Previously Chapman was involved in development of multiple web-GIS applications including GeoCommon, iMapData, and Cadasta.
