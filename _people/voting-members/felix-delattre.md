@@ -6,7 +6,6 @@ Member Type:
   Is Staff: false
   Is Voting Member: true
   Is Board Member: false
-Job Title: Vice President
 Working Group:
 - Governance
 - Technical
@@ -26,4 +25,4 @@ redirect_from:
 - "/users/felix_delattre"
 ---
 
-<p>Felix Delattre is an information technologist, software architect and development project manager who likes to drive innovation through participation, open data and free technologies. He is a long-time member of HOT, which he joined in 2013 when he led a project to map public transport in Nicaragua. Felix has been supporting HOT in many ways, from managing the website in the early days to later working as a project manager on the first machine learning initiatives at HOT and leading the technical team to implement version 4 of HOT's key application, Tasking Manager.</p>
+<p>Felix Delattre is an information technologist, software architect and development project manager who likes to drive innovation through participation, open data and free technologies. He is a long-time member of HOT, which he joined in 2013 when he led a project to map public transport in Nicaragua. Felix has been supporting HOT in many ways, from managing the website in the early days to later working as a project manager on the first machine learning initiatives at HOT and leading the technical team to implement version 4 of HOT's key application, Tasking Manager. After that Felix served HOT on the board of directors.</p>
