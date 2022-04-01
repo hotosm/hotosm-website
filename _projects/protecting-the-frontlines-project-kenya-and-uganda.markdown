@@ -16,7 +16,7 @@ Partner:
 - Field Ready
 Duration:
   Start Date: 2021-01-01 00:00:00 Z
-  End Date: 2022-01-01 00:00:00 Z
+  End Date: 2022-01-31 00:00:00 Z
   Key: 
 ---
 
