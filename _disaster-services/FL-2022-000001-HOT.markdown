@@ -1,0 +1,23 @@
+---
+title: South Sudan Flooding  2022 Alert
+date: 2022-03-22 17:53:00 Z
+Glide: FL-2022-000001-HOT
+Event Name: South Sudan Flooding  2022
+GDACS ID: NA
+GDACS-level: Orange (1.5)
+Country:
+- South Sudan
+Event type: Fl Flood
+Summary Text: Disaster Services is currently monitoring this event in South Sudan.
+Feature Image: Fl Flood
+Status: alert
+Post-type: update
+source: <a href="https://africa.cgtn.com/2022/03/22/more-than-220000-people-affected-by-flooding-in-south-sudans-unity-state/"
+  target="_blank">CGTN</a>
+---
+
+"More than 220,000 people have been affected by the flooding in South Sudan’s Unity State, according to the UN migration agency.
+
+The floods have caused food shortages, malnutrition in children and a surge in the spread of various diseases.
+
+Parts of South Sudan are experiencing their worst flooding in 60 years with the U.N. refugee agency (UNHCR) blaming climate change for the disaster."
