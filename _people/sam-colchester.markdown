@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/SamColchester2.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Partnerships Associate
+Job Title: Senior Associate, Impact Partnerships
 Project:
 - Missing Maps
 Country: Spain
