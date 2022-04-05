@@ -12,7 +12,6 @@ Summary Text: TC GOMBE-22 has been sized-up.
 Feature Image: TC Tropical Cyclone
 Post-type: timeline
 GDACS Incident Name: Orange alert Tropical Cyclone for GOMBE-22
-Status: size-up
 ---
 
 <h2>Size-up Details</h2>
