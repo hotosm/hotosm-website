@@ -76,15 +76,13 @@ We are expecting proposals in the range of USD $20-25K for the full project. We 
 
 2. How you plan to deliver this work within our recommended time frames
 
-3. How you will manage the research and design (breakdown of responsibilities, timeline, etc)
+3. List of the team member(s) who would work directly on our project and their experience relevant to this assignment
 
-4. List of the team member(s) who would work directly on our project and their experience relevant to this assignment
+4. A portfolio of past similar work and a list 3\+ of your clients that you feel are similar in scope to HOT. Please include clients that you think would be comfortable providing us a reference.
 
-5. A portfolio of past similar work and a list 3\+ of your clients that you feel are similar in scope to HOT. Please include clients that you think would be comfortable providing us a reference.
+5. Cost based on the recommended approach. Please provide a cost breakdown in USD.
 
-6. Cost based on the recommended approach. Please provide a cost breakdown in USD.
-
-7. Any additional information or comments that you believe would distinguish you from others, or that would be relevant for us to know as we consider your response
+6. Any additional information or comments that you believe would distinguish you from others, or that would be relevant for us to know as we consider your response
 
 **Send your proposal to [gihan.hassanein@hotosm.org](mailto:gihan.hassanein@hotosm.org) with the subject line “HOT Annual Report: RFP: < your name >”**
 
