@@ -14,7 +14,6 @@ Post-type: timeline
 Wiki-page: 
 Size-up: 
 GDACS Incident Name: Overall Red alert Tropical Cyclone for EMNATI-22
-Status: size-up
 ---
 
 <h2>Size-up Details</h2>

@@ -11,7 +11,6 @@ Event type: Fl Flood
 Summary Text: South Sudan Flooding 2022 has been sized-up.
 Feature Image: Fl Flood
 Post-type: timeline
-Status: size-up
 ---
 
 <h2>Size-up Details</h2>
