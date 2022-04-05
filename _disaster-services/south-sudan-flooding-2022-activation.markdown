@@ -5,7 +5,7 @@ Glide: FL-2022-000001-HOT
 Event Name: South Sudan Flooding  2022
 Country:
 - South Sudan
-Event type: TC Tropical Cyclone
+Event type: Fl Flood
 Summary Text: This an activation to support OSM South Sudan for the Floodings in Unity
   State, South Sudan.
 Feature Image: Fl Flood
