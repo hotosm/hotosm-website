@@ -89,7 +89,7 @@ We are expecting proposals in the range of USD $20-25K for the full project. We 
 ### **Timelines**
 
 **RfP Posted:** 28 March 2022
-Q**uestions:** any questions can be sent to **[gihan.hassanein@hotosm.org](mailto:gihan.hassanein@hotosm.org)** with the subject line "Web Design RFP"
+**Questions:** any questions can be sent to **[gihan.hassanein@hotosm.org](mailto:gihan.hassanein@hotosm.org)** with the subject line "Web Design RFP"
 **Accepting applications until**: End of day 11 April
-**After review of proposals: we expect to host interviews with promising applicants, with a view to confirming a vendor circa 25 April**
-Start date: 2 May 2022
+**After review of proposals: **we expect to host interviews with promising applicants, with a view to confirming a vendor circa 25 April
+**Start date:** 2 May 2022
