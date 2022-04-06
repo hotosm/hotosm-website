@@ -1,8 +1,8 @@
 ---
-title: South Sudan Flooding  2022 Activation
+title: South Sudan Floods 2022 Activation
 date: 2022-04-05 02:51:00 Z
 Glide: FL-2022-000001-HOT
-Event Name: South Sudan Flooding  2022
+Event Name: South Sudan Floods  2022
 Country:
 - South Sudan
 Event type: Fl Flood

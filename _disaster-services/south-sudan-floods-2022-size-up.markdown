@@ -1,8 +1,8 @@
 ---
-title: South Sudan Flooding  2022 Size-up
+title: South Sudan Floods 2022 Size-up
 date: 2022-04-02 18:06:00 Z
 Glide: FL-2022-000001-HOT
-Event Name: South Sudan Flooding  2022
+Event Name: South Sudan Floods 2022
 GDACS ID: na
 GDACS-level: na
 Country:
