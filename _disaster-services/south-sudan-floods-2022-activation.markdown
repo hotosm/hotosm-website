@@ -14,7 +14,7 @@ HDX: <a href="https://data.humdata.org/organization/hot?q=southsudan">South Suda
 Resources: N/A
 Campaign: South Sudan Floods 2022
 Status: size-up
-Tracking: southsudanflood2022
+Tracking: southsudanfloods2022
 Report: available
 ---
 
