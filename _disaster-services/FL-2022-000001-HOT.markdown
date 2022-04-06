@@ -1,8 +1,8 @@
 ---
-title: South Sudan Flooding  2022 Alert
+title: South Sudan Floods 2022 Alert
 date: 2022-03-22 17:53:00 Z
 Glide: FL-2022-000001-HOT
-Event Name: South Sudan Flooding  2022
+Event Name: South Sudan Floods 2022
 GDACS ID: NA
 GDACS-level: Orange (1.5)
 Country:
