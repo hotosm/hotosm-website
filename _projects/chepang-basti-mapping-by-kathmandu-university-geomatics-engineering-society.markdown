@@ -1,6 +1,7 @@
 ---
 title: 'Kathmandu University Geomatics Engineering Society: Chepang Basti Mapping'
 date: 2021-07-08 07:39:00 Z
+position: 4
 Feature Image: "/uploads/Ku%20Ges.png"
 Is Community-Led: true
 Country:

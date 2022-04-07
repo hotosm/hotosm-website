@@ -1,7 +1,7 @@
 ---
 title: 'Community Mapping Urban Risk Exposure in Dar es Salaam: Ramani Huria Extension'
 date: 2020-10-22 10:09:00 Z
-position: 2
+position: 17
 Project Summary Text: HOT and OMDTZ are leading a series of short urban mapping campaigns
   over a 6-month period (starting in July 2020) that include verification and update
   of OpenStreetMap (OSM) data for COVID-10 hotspot analysis, remote digitization of

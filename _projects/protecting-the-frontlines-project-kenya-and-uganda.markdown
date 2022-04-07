@@ -1,6 +1,7 @@
 ---
 title: Protecting the Frontlines Project - Kenya and Uganda
 date: 2022-04-01 07:45:00 Z
+position: 14
 Project Summary Text: |-
   The scale of the global COVID-19 pandemic created huge spikes in demand for personal protection equipment (PPE) and infection control supplies required by frontline workers in the health and relief sectors.
   In response, the Protecting the Frontline project set out to support frontline workers, specifically those in hard-to-reach conflict zones, to access locally produced PPE.

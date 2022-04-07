@@ -1,7 +1,7 @@
 ---
 title: Yer Cizenler Mapping for Everyone Association
 date: 2020-11-10 14:19:00 Z
-position: 6
+position: 21
 Is Community-Led: true
 Country:
 - Turkey

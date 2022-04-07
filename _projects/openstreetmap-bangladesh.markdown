@@ -2,7 +2,7 @@
 title: 'OSM Bangladesh: Map Your City'
 date: 2018-05-16 06:40:00 Z
 permalink: projects/openstreetmap-bangladesh
-position: 86
+position: 101
 Project Summary Text: A community project to map all major cities in Bangladesh
 Feature Image: https://cdn.hotosm.org/website/5_OSM+Bangladesh,+Nethope+Device+Grant+2017.JPG
 Is Community-Led: true

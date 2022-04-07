@@ -3,7 +3,7 @@ title: InaSAFE
 date: 2015-07-15 06:16:00 Z
 permalink: projects/inasafe
 published: false
-position: 124
+position: 139
 Project Summary Text: HOT have trained and assisted government and communities on
   exposure mapping through OSM and disaster impact analysis using InaSAFE.
 Feature Image: https://cdn.hotosm.org/website/about-screenshot14.png

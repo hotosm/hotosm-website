@@ -2,7 +2,7 @@
 title: 'OSM Sri Lanka: Disaster Risk Reduction'
 date: 2018-05-16 09:23:00 Z
 permalink: projects/openstreetmap-sri-lanka
-position: 88
+position: 103
 Project Summary Text: Building detailed maps of Sri Lanka for emergency response during
   natural disasters
 Feature Image: https://cdn.hotosm.org/website/6.jpg

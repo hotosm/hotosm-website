@@ -1,7 +1,7 @@
 ---
 title: 'iLab Liberia: Mapping healthcare facilities for COVID-19'
 date: 2020-11-10 15:05:00 Z
-position: 9
+position: 24
 Feature Image: https://cdn.hotosm.org/website/ProductsDisplay.jpeg
 Is Community-Led: true
 Country:
