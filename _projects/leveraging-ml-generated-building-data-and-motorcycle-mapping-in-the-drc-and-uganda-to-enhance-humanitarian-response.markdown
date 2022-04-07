@@ -27,6 +27,7 @@ Partner:
 - 
 Duration:
   Start Date: 2020-02-01 00:00:00 Z
+  End Date: 2021-12-31 00:00:00 Z
 ---
 
 Over the next year, HOT is working to scale-up Missing Maps across current areas of instability and population movement in the African Great Lakes region. Intensified by ongoing conflict in the region, the Ebola outbreak in DRC is now the second largest in history after the 2014 West Africa outbreak. Cases of Ebola virus disease, after expanding into 19 health zones at the height of the outbreak, have been reduced to just 1 health zone as of May 2020 but continue to significantly impact the public health and stability in the region. In western Uganda, districts bordering the affected areas in the DRC face immediate threat due to the porous border and insufficient screening points to evaluate the health status of those passing through points of entry, whether for business, seeking asylum, or personal travel. Availability of common operational data sets (e.g. comprehensive place/village names and location of buildings) are still lacking throughout many provinces of DRC, inhibiting the ability to respond optimally to present outbreaks and build preparedness for future humanitarian action. Addressing data gaps isn’t only a critical challenge for contact tracing but for the Ebola response and COVID-19 outbreaks which are already diverting resources from weakened healthcare systems in these locations. 
