@@ -2,7 +2,7 @@
 title: 'The Centre for Life Change: Using OpenStreetMap Tools to Fight Gender-Based
   Violence in Western Uganda'
 date: 2021-07-08 11:53:00 Z
-position: 2
+position: 5
 Feature Image: "/uploads/The%20Centre%20for%20Life%20Change.png"
 Is Community-Led: true
 Country:

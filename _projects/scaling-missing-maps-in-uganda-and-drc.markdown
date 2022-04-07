@@ -1,7 +1,7 @@
 ---
 title: Scaling Missing Maps in Uganda and DRC
 date: 2022-04-01 14:35:00 Z
-position: 8
+position: 0
 Feature Image: "/uploads/WhatsApp%20Image%202021-03-17%20at%2010.58.16-4a37df.jpeg"
 Country:
 - Democratic Republic of the Congo
