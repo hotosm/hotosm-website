@@ -2,7 +2,6 @@
 title: 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin
   America and Caribbean'
 date: 2022-03-21 14:07:00 Z
-published: false
 Feature Image: "/uploads/IMG_20181005_072113-1b9d2c.jpg"
 Country:
 - Dominica
