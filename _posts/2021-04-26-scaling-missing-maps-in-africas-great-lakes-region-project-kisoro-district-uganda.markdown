@@ -10,6 +10,8 @@ Person:
 - Deogratias Kiggudde
 Country:
 - Uganda
+Project:
+- Scaling Missing Maps in Uganda and DRC
 ---
 
 *Lead image: Data collection at St Francis Hospital Mutolere*
