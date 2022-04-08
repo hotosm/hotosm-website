@@ -1,5 +1,5 @@
 ---
-title: Community Mapping for a Resilient Bamako
+title: 'Open Cities: Community Mapping for a Resilient Bamako'
 date: 2020-03-30 14:47:00 Z
 position: 40
 Project Summary Text: Mapping for informed decision making for disaster response and
