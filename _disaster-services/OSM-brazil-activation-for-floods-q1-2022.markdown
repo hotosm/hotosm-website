@@ -10,7 +10,7 @@ Summary Text: 'Response to Q1 2022 Flooding in Brazil. '
 Feature Image: Fl Flood
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=brazil">Brazil</a>
-Resources: N/A
+Resources: <a href="https://www.maxar.com/open-data/brazil-flooding22">Maxar</a>
 Campaign: 
 Status: size-up
 Timeline: 'December 28th, 2021 -  '
