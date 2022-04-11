@@ -1,5 +1,5 @@
 ---
-title: Shamilah Ssekandi Nassozi
+title: Shamillah Ssekandi Nassozi
 date: 2018-06-01 20:59:00 Z
 Photo: https://cdn.hotosm.org/website/ShamilahNassozi.jpg
 Member Type:
