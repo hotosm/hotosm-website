@@ -22,7 +22,7 @@ The last two HOT Summits were online, due to Covid, and this has given us the ch
 
 * In the next 12 months, we will not hold a central HOT Summit, but instead will invest the time, money and other resources in supporting and collaborating on a range of community events, bringing the spirit of the Summit to multiple new places and hundreds of new people!
 
-* In 2023, we will co-host a full, in-person HOT Summit with a community event in one of HOT’s priority countrie
+* In 2023, we will co-host a full, in-person HOT Summit with a community event in one of HOT’s priority countries.
 
 **Long  Version**
 
