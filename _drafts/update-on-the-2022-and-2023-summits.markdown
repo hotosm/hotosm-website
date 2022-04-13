@@ -56,6 +56,6 @@ Firstly, if you know of events that might align with HOT’s mission and who wou
 
 Secondly, if you want to get involved in the work of delivering on this ambitious approach, you could consider joining the HOT Summit Working Group (which will remain the engine of the HOT Summit and will be central to all design, coordination and delivery aspects).
 
-Lastly, if you have comments, questions or suggestions, we want to hear from you! There is a thread open on the Community Working Group forum where you can post and discuss. Alternatively, if you would like to provide anonymous or private feedback, you are always welcome to use [the feedback form on the HOT website](https://www.hotosm.org/feedback) (for anything, not just feedback on the HOT Summit).
+Lastly, if you have comments, questions or suggestions, we want to hear from you! There is a thread open on the [Community Working Group forum](https://loomio.hotosm.org/s/aFxjmA5Z) where you can post and discuss. Alternatively, if you would like to provide anonymous or private feedback, you are always welcome to use [the feedback form on the HOT website](https://www.hotosm.org/feedback) (for anything, not just feedback on the HOT Summit).
 
 Thanks for reading all the way to the bottom of this post! We hope that you are as excited about this approach as we are!
