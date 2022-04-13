@@ -70,24 +70,26 @@ Tech/ >dir
 
 Our goal for this quarter is stabilising Underpass data source for statistics and raw data:
 
-* On the statistics side, we are working towards Underpass being the primary data source for mapathon, hashtag and user group statistics. This involves validating the existing statistics by comparing it against the Insights data source and frequent, iterative updates to the C\+\+ processing script to ensure the right data points are captured and data points are captured right.\
+* On the statistics side, we are working towards Underpass being the primary data source for mapathon, hashtag and user group statistics. This involves validating the existing statistics by comparing it against the Insights data source and frequent, iterative updates to the C\+\+ processing script to ensure the right data points are captured and data points are captured right.\\
 
-* For raw data storage and extraction using Underpass, we made a proof point with Asia and Africa data. Next step is scaling up for the whole planet. Export Tool will serve as the frontend for the Galaxy raw data extraction. So our team is also working towards data source changes within the Export Tool codebase.\
+* For raw data storage and extraction using Underpass, we made a proof point with Asia and Africa data. Next step is scaling up for the whole planet. Export Tool will serve as the frontend for the Galaxy raw data extraction. So our team is also working towards data source changes within the Export Tool codebase.\\
 
-* For the website:\
-  - There are continuous improvements to the existing pages.\
-  - We are working with Harvard Tech for Social Good Team on website’s user navigation and data representation for Team & user statistics.
+* For the website:\\
+
+  * There are continuous improvements to the existing pages.\\
+
+  * We are working with Harvard Tech for Social Good Team on website’s user navigation and data representation for Team & user statistics.
 
 **## TASKING MANAGER**
 
-* We have been actively collaborating with the Kathmandu Living Labs team as part of the Tasking Manager collective. The team has been working on a number of issues that will make it in the next release, including small additions like adding a cheat sheet, a service desk button, as well as improving error messages and the long awaited RapidID integration. We would encourage everyone to check the new changes once they are live!\
+* We have been actively collaborating with the Kathmandu Living Labs team as part of the Tasking Manager collective. The team has been working on a number of issues that will make it in the next release, including small additions like adding a cheat sheet, a service desk button, as well as improving error messages and the long awaited RapidID integration. We would encourage everyone to check the new changes once they are live!\\
 
 * The KLL team and HOT’s Tech Collective Facilitator talked about the TM collective at the Asia Pacific Hub Map and Chat hour at the end of March and also held the first Tasking Manager Collective Meet Up on 6 April! We had great participation in two sessions, including an interactive Jamboard session. We want to thank everyone who joined. More details about the next meet up will be shared shortly.
 
 **## OAM**
 
-* The Kontur design team conducted a round of interviews with OAM stakeholders, including representatives from local OSM communities and drone pilots. The results were reviewed along with ideas and issues that have been collected in the OAM Github over the years, and translated into a series of initial problem statements and user personas.\
+* The Kontur design team conducted a round of interviews with OAM stakeholders, including representatives from local OSM communities and drone pilots. The results were reviewed along with ideas and issues that have been collected in the OAM Github over the years, and translated into a series of initial problem statements and user personas.\\
 
-* Three virtual workshops are now being organized and will involve a larger group of stakeholders across all regions to generate ideas on how to solve users' problems. These ideas and key problem statements will be guiding the following phase of design sprints, after which the Kontur team will provide wireframes and prototypes of proposed solutions to HOT and OAM stakeholders.\
+* Three virtual workshops are now being organized and will involve a larger group of stakeholders across all regions to generate ideas on how to solve users' problems. These ideas and key problem statements will be guiding the following phase of design sprints, after which the Kontur team will provide wireframes and prototypes of proposed solutions to HOT and OAM stakeholders.\\
 
 * You can read more about the design process here and get in touch with Cristiano or (DK)\[mailto:dk@hotosm.org\] if you're interested in participating in the workshops.
