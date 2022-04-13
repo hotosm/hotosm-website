@@ -52,7 +52,7 @@ Tech/ >dir
 
 ---
 
-### #Announcements:
+## #Announcements:
 
 \## For the NetHope AI Working group this month, Christopher, our current Masters student will be talking about developing AI models that could lead to community-trained MA/ML models.
 
