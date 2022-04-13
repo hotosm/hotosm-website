@@ -1,5 +1,5 @@
 ---
-title: Update on the 2022 and 2023 Summits
+title: 'HOT Summit: an Exciting New Approach for 2022 and 2023'
 date: 2022-04-13 11:02:00 Z
 Summary Text: We want to improve how we bring communities, partners, and supporters
   together around open mapping, OpenStreetMap, and humanitarian response / social
@@ -11,7 +11,7 @@ Summary Text: We want to improve how we bring communities, partners, and support
   In 2023, we will aim to co-host a full, in-person (or hybrid) HOT Summit with a
   community event in one of HOT’s priority countries.
 Feature Image: "/uploads/51490564400_99fd58725d_k.jpg"
-Person: The Summit Working Group
+Person: The HOT Summit Working Group
 Working Group:
 - HOT Summit
 ---
