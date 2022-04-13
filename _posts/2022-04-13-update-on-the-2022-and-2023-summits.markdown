@@ -1,6 +1,7 @@
 ---
 title: 'HOT Summit: an Exciting New Approach for 2022 and 2023'
 date: 2022-04-13 11:02:00 Z
+published: false
 Summary Text: We want to improve how we bring communities, partners, and supporters
   together around open mapping, OpenStreetMap, and humanitarian response / social
   impact through the HOT Summit. The last two HOT Summits were online, due to Covid,
