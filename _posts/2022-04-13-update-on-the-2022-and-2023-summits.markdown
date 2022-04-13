@@ -51,5 +51,3 @@ Secondly, if you want to get involved in the work of delivering on this ambitiou
 Lastly, if you have comments, questions or suggestions, the Summit WG would love to hear from you! There will be a thread open tomorrow on the Community Working Group forum where you can post and discuss. Alternatively, if you would like to provide anonymous or private feedback, you are always welcome to use [the feedback form on the HOT website](https://www.hotosm.org/feedback) (for anything, not just feedback on the HOT Summit).
 
 Thanks for reading all the way to the bottom of this post! We hope that you are as excited about this approach as we are!
-
-\
