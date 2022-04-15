@@ -1,5 +1,5 @@
 ---
-title: 'Durban Floods: South Africa'
+title: 'Durban Floods: South Africa Alert'
 date: 2022-04-12 16:06:00 Z
 Glide: FL-2022-000201-ZAF
 GDACS ID: FL 1101354
