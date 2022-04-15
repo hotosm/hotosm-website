@@ -1,0 +1,17 @@
+---
+title: 'Durban Floods: South Africa'
+date: 2022-04-12 16:06:00 Z
+Glide: FL-2022-000201-ZAF
+GDACS ID: FL 1101354
+GDACS-level: Orange (1.5)
+Country:
+- South Africa
+Event type: FL Flood
+Summary Text: Disaster Services is currently monitoring this event in South Africa.
+Feature Image: Fl Flood
+Status: alert
+Post-type: update
+source: <a href="https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1101354" target="_blank">GDACS</a>
+---
+
+"The KwaZulu-Natal Provincial Disaster Management (KZN CoGTA) reports that at least 306 people have died. Widespread damage has affected buildings and transportation infrastructure, while several municipalities have been affected by electricity and water disruptions. According to preliminary data from the South African Weather Service, about 250 mm of rain was recorded in Mbazwana Town (eastern KwaZulu-Natal) on 11 April. The whole of KwaZulu-Natal Province, including Durban City, has been declared a disaster area."
