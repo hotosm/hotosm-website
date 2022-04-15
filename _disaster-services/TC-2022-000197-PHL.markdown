@@ -1,0 +1,20 @@
+---
+title: Tropical Cyclone MEGI-22 Alert
+date: 2022-04-11 16:52:00 Z
+Glide: TC-2022-000197-PHL
+Event Name: MEGI-22
+GDACS ID: TC 1000879
+GDACS-level: Green (0.5)
+Country:
+- Philippines
+Event type: TC Tropical Cyclone
+Summary Text: Disaster Services is currently monitoring this event in the Pacific
+  Ocean.
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+source: <a href="https://www.gdacs.org/report.aspx?eventid=1000879&episodeid=10&eventtype=TC"
+  target="_blank">GDACS</a>
+---
+
+"Tropical Depression MEGI (named "Agaton" in the Philippines) formed over the western Philippine Sea on 9 April as a tropical low and on 10 April, intensified as a tropical storm approaching Eastern Samar (Eastern Visayas Region, central Philippines). On 11 April at 2.00 UTC, its centre was located offshore over the coastal waters of Tanauan (Leyte Province, Eastern Visayas Region) in the Leyte Gulf with maximum sustained winds of 45 km/h (tropical depression). According to the authorities, following the passage of MEGI, one person has died, and another is missing in Davao Region, while two people have been injured in Northern Mindanao. In addition, 15,326 people have been displaced and 136,400 affected across nine Regions." 
