@@ -6,7 +6,7 @@ GDACS ID: FL 1101354
 GDACS-level: Orange (1.5)
 Country:
 - South Africa
-Event type: FL Flood
+Event type: Fl Flood
 Summary Text: Disaster Services is currently monitoring this event in South Africa.
 Feature Image: Fl Flood
 Status: alert
