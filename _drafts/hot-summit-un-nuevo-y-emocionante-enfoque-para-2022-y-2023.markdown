@@ -42,16 +42,16 @@ Como consecuencia de lo anterior, el grupo de trabajo del HOT Summit (una mezcla
 
 4. El próximo año, en 2023, planeamos organizar y dotar de recursos a un HOT Summit completo presencial (o híbrido) en estrecha colaboración con un evento comunitario existente y relevante en uno de los países prioritarios para HOT, basándonos en el éxito del modelo de Dar-es-Salaam de 2018. Nuestra hipótesis es que, a través de un modelo de coorganización con un evento comunitario en un país prioritario, podemos tener un mayor impacto.
 
-Our goal is to work out how the efforts of the Summit Working Group, the resources from HOT and the people who generously sponsor the event and the commitment and time of all those people who make the event so rich and vibrant, can be best channeled to continue to deliver on the HOT Summit’s purpose.
+Nuestro objetivo es averiguar cómo los esfuerzos del Grupo de Trabajo del Summit, los recursos de HOT y las personas que generosamente patrocinan el evento, y el compromiso y el tiempo de todas aquellas personas que hacen que el evento sea tan rico y vibrante, pueden ser canalizados de la mejor manera para seguir cumpliendo con el propósito del HOT Summit.
 
-As we go through this period of experimentation and develop these concepts, we plan to engage deeply and communicate regularly on opportunities, developments and news with all those who want to participate and support. To receive updates directly to your inbox, please [sign up for the HOT Summit mailing list](http://eepurl.com/hZb44r) or stay tuned on social media.
+Mientras atravesamos este periodo de experimentación y desarrollamos estos conceptos, tenemos previsto comprometernos a fondo y comunicar regularmente las oportunidades, los avances y las noticias con todos aquellos que quieran participar y apoyar. Para recibir actualizaciones directamente en su bandeja de entrada, [inscríbete en la lista de correo del HOT Summit](http://eepurl.com/hZb44r) o mantente al tanto en las redes sociales.
 
-How can you participate?
+¿Cómo puedes participar?
 
-Firstly, if you know of events that might align with HOT’s mission and who would be open for collaboration or support, please let us know via [summit@hotosm.org](mailto:summit@hotosm.org). We are particularly interested in events in priority countries but open to all good suggestions!
+En primer lugar, si conoces eventos que puedan alinearse con la misión de HOT y que estén abiertos a la colaboración o al apoyo, por favor, comunícanoslo a través de [summit@hotosm.org](mailto:summit@hotosm.org). Estamos especialmente interesados en eventos en países prioritarios, pero estamos abiertos a todas las buenas sugerencias.
 
-Secondly, if you want to get involved in the work of delivering on this ambitious approach, you could consider joining the HOT Summit Working Group (which will remain the engine of the HOT Summit and will be central to all design, coordination and delivery aspects).
+En segundo lugar, si deseas participar en la labor de aplicación de este ambicioso planteamiento, puedes considerar la posibilidad de unirte al Grupo de Trabajo del HOT Summit (que seguirá siendo el motor del HOT Summit y será fundamental para todos los aspectos de diseño, coordinación y ejecución).
 
-Lastly, if you have comments, questions or suggestions, we want to hear from you! There is a thread open on the [Community Working Group forum](https://loomio.hotosm.org/s/aFxjmA5Z) where you can post and discuss. Alternatively, if you would like to provide anonymous or private feedback, you are always welcome to use [the feedback form on the HOT website](https://www.hotosm.org/feedback) (for anything, not just feedback on the HOT Summit).
+Por último, si tienes algún comentario, pregunta o sugerencia, ¡queremos escucharte! Hay un hilo de conversación abierto en el [foro del Grupo de Trabajo de la Comunidad](https://loomio.hotosm.org/s/aFxjmA5Z) en el que puedes publicar y debatir. Además, si deseas enviar tus comentarios de forma anónima o privada, puedes utilizar [el formulario de comentarios del sitio web de HOT](https://www.hotosm.org/feedback) (para cualquier cosa, no sólo para los comentarios sobre el HOT Summit).
 
-Thanks for reading all the way to the bottom of this post! We hope that you are as excited about this approach as we are!
+Gracias por leer este artículo hasta el final. Esperamos que este enfoque te entusiasme tanto como a nosotros.
