@@ -14,19 +14,19 @@ Los dos últimos HOT Summits se celebraron en línea, debido al Covid, y esto no
 
 **Resumen**
 
-* We want to improve how we bring communities, partners and supporters together around open mapping, OpenStreetMap and humanitarian response / social impact through the HOT Summit Queremos mejorar la forma de reunir a las comunidades, los socios y los colaboradores en torno a la cartografía abierta, OpenStreetMap y la respuesta humanitaria / el impacto social a través de la HOT Summit
+* Queremos mejorar la forma de reunir a las comunidades, los socios y los colaboradores en torno a la cartografía abierta, OpenStreetMap y la respuesta humanitaria / el impacto social a través del HOT Summit.
 
-* The last two HOT Summits were online, due to covid, and this has given us the chance to reflect on how to do this
+* Los dos últimos HOT Summits se celebraron en línea, debido al covid, y esto nos ha dado la oportunidad de reflexionar sobre cómo hacerlo.
 
-* Over the next two years, HOT will experiment with two different approaches to the HOT Summit.
+* En los próximos dos años, HOT experimentará con dos enfoques diferentes del HOT Summit.
 
-* In the next 12 months, we will not hold a central HOT Summit, but instead will invest the time, money and other resources in supporting and collaborating on a range of community events, bringing the spirit of the Summit to multiple new places and hundreds of new people!
+* En los próximos 12 meses, no celebraremos un HOT Summit central, sino que invertiremos tiempo, dinero y otros recursos en apoyar y colaborar en una serie de eventos comunitarios, llevando el espíritu del Summit a múltiples lugares nuevos y a cientos de personas nuevas.
 
-* In 2023, we will co-host a full, in-person HOT Summit with a community event in one of HOT’s priority countries.
+* En 2023, coorganizaremos un HOT Summit completo y presencial con un evento comunitario en uno de los países prioritarios para HOT.
 
-**Long  Version**
+**Versión larga**
 
-The purpose of the [HOT Summit](https://summit.hotosm.org/) has always been to bring together communities, partners, collaborators and supporters, committed to and active in humanitarian open mapping to learn, share and connect. The event has brought together 100s if not 1000s of people and has been a rich and fertile ground for building capacity, sharing knowledge, strengthening networks and launching collaborations and initiatives around humanitarian work, social impact, OSM and open mapping.
+The purpose of the [HOT Summit](https://summit.hotosm.org/) has always been to bring together communities, partners, collaborators and supporters, committed to and active in humanitarian open mapping to learn, share and connect. The event has brought together 100s if not 1000s of people and has been a rich and fertile ground for building capacity, sharing knowledge, strengthening networks and launching collaborations and initiatives around humanitarian work, social impact, OSM and open mapping. El propósito del [HOT Summit](https://summit.hotosm.org/) siempre ha sido reunir a comunidades, socios, colaboradores y simpatizantes, comprometidos y activos en el mapeo abierto humanitario para aprender, compartir y conectar. El evento ha reunido a cientos, si no miles, de personas y ha sido un terreno fértil y rico para la creación de capacidades, el intercambio de conocimientos, el fortalecimiento de las redes y el lanzamiento de colaboraciones e iniciativas en torno a la labor humanitaria, el impacto social, OSM y la cartografía abierta.
 
 The Covid pandemic meant that, for two years, we adapted to an online event. We know that this has its disadvantages, especially in building strong networks and relationships, but it was also an opportunity; to see how a digital Summit could work, and to provide space to think about how the Summit can continue to deliver effectively on its purpose.
 
