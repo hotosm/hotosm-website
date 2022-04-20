@@ -10,11 +10,11 @@ Working Group:
 - HOT Summit
 ---
 
-The last two HOT Summits were online, due to Covid, and this has given us the chance to reflect on how to do this. In the next 12 months, we will not hold a central HOT Summit, but instead will invest the time, money and other resources in supporting and collaborating on a range of community events, bringing the spirit of the Summit to multiple new places and hundreds of new people! In 2023, we will aim to co-host a full, in-person (or hybrid) HOT Summit with a community event in one of HOT’s priority countries.
+Los dos últimos HOT Summits se celebraron en línea, debido al Covid, y esto nos ha dado la oportunidad de reflexionar sobre cómo hacerlo. En los próximos 12 meses, no realizaremos un HOT Summit central, sino que invertiremos tiempo, dinero y otros recursos en apoyar y colaborar en una serie de eventos comunitarios, llevando el espíritu del Summit a múltiples lugares nuevos y a cientos de personas nuevas. En 2023, nuestro objetivo será coorganizar un HOT Summit completo y presencial (o híbrido) con un evento comunitario en uno de los países prioritarios para HOT.
 
-**Summary**
+**Resumen**
 
-* We want to improve how we bring communities, partners and supporters together around open mapping, OpenStreetMap and humanitarian response / social impact through the HOT Summit
+* We want to improve how we bring communities, partners and supporters together around open mapping, OpenStreetMap and humanitarian response / social impact through the HOT Summit Queremos mejorar la forma de reunir a las comunidades, los socios y los colaboradores en torno a la cartografía abierta, OpenStreetMap y la respuesta humanitaria / el impacto social a través de la HOT Summit
 
 * The last two HOT Summits were online, due to covid, and this has given us the chance to reflect on how to do this
 
