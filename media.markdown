@@ -65,6 +65,9 @@ News:
   - Title: How Online Mapmakers Are Helping the Red Cross Save Lives in the Philippines
     Source: The Atlantic
     Link: https://www.theatlantic.com/technology/archive/2013/11/how-online-mapmakers-are-helping-the-red-cross-save-lives-in-the-philippines/281366/
+  - Title: Ukrainians are scrubbing open-source maps to keep intel from Russia’s army
+    Source: Rest of the World
+    Link: https://restofworld.org/2022/ukrainians-osint-maps-russia/
   Nav ID: news
 layout: media
 ---
