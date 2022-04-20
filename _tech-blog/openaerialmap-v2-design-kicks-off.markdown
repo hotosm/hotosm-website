@@ -8,6 +8,7 @@ Summary Text: 'This year HOT joined with Kontur to take a fresh look at OAM and 
   the user workshops at the end of April.
 
 '
+Person: DK Benjamin
 Project:
 - OpenAerialMap
 Tool:
@@ -20,6 +21,7 @@ OpenAerialMap.org (OAM) was built in 2015 to serve as a platform and tools for s
 
 OpenAerialMap is the only platform built on open-source software that allows anyone to upload and share aerial imagery of anywhere on Earth. With advances in drone mapping technologies and their proliferation in places where cost and access used to be a limiting factor, there are now massive amounts of images that can be easily made available through OAM. Once uploaded, all imagery becomes instantly accessible via scalable TMS and WMTS services for mapping in OpenStreetMap or for any other use. Since its creation, OAM has been democratizing high resolution Earth observation and promoting the sharing of aerial imagery through open data licenses.
 
+![oam-stakeholders-map](https://cdn.hotosm.org/website/oam-kontur-stakeholder-map.jpg)
 
 This year HOT joined with Kontur to take a fresh look at OAM and redesign the platform. Using modern, equitable, human-centered design principles, we will evaluate how OAM could be improved to better support HOT’s vision that everyone has access to high quality map data and use that data responsibly to improve lives and communities. The development will build on and integrate emerging standards for geospatial data such as the Spatio-Temporal Asset Catalog (STAC) specification. A broad range of users and stakeholders will be involved in the design process, to ensure that OAM v2 will result in a modern and accessible platform. 
 
