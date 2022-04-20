@@ -34,6 +34,6 @@ An initial set of findings from user interviews is summarized in [this document]
 
 If you want to participate in the workshops, please sign up through [this form](https://forms.gle/gNaXyLajWGoVfwV7A) and we will send a calendar invite.
 
-Please note that the same content will be covered in all three workshops to accommodate for people’s availability, so you only need to choose one of the options! We hope to see you there!!
+Please note that the same content will be covered in the two workshops to accommodate for people’s availability- you only need to choose one of the options! We hope to see you there!!
 
 
