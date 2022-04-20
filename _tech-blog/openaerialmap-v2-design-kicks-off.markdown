@@ -20,23 +20,23 @@ Summary Text: "OpenAerialMap.org (OAM) was built in 2015 to serve as a platform 
   WMTS services for mapping in OpenStreetMap or for any other use. Since its creation,
   OAM has been democratizing high resolution Earth observation and promoting the sharing
   of aerial imagery through open data licenses.\n\n![oam-stakeholders-map](https://cdn.hotosm.org/website/oam-kontur-stakeholder-map.jpg)\n\nThis
-  year HOT joined with Kontur to take a fresh look at OAM and redesign the platform.
-  Using modern, equitable, human-centered design principles, we will evaluate how
-  OAM could be improved to better support HOT’s vision that everyone has access to
-  high quality map data and use that data responsibly to improve lives and communities.
-  The development will build on and integrate emerging standards for geospatial data
-  such as the Spatio-Temporal Asset Catalog (STAC) specification. A broad range of
-  users and stakeholders will be involved in the design process, to ensure that OAM
-  v2 will result in a modern and accessible platform. \n\nKontur team has extensive
-  experience in disaster management, geospatial analysis, and geoinformation products
-  development. Its team has business analysts and competent UX designers, who utilize
-  user-centered design processes in the daily work. Kontur and HOT are reaching out
-  to the OAM community to conduct user interviews and workshops to extract user needs
-  and formalize them in requirements ready for development. A conceptual architecture,
-  a map of stakeholders, user personas, prioritized user stories, and storyboards
-  will be created and reviewed with the HOT team. The estimated timeframe for the
-  design is 4 months and will be finished in the middle of June 2022.\n\nAn initial
-  set of findings from user interviews is summarized in [this document] (https://docs.google.com/document/d/1MCXx6D8F6Xz4vLhamT794IE_Zegp3eaSG9kV_QT0KUk/edit?usp=sharing).
+  year HOT joined with [Kontur](http://kontur.io/) to take a fresh look at OAM and
+  redesign the platform. Using modern, equitable, human-centered design principles,
+  we will evaluate how OAM could be improved to better support HOT’s vision that everyone
+  has access to high quality map data and use that data responsibly to improve lives
+  and communities. The development will build on and integrate emerging standards
+  for geospatial data such as the Spatio-Temporal Asset Catalog (STAC) specification.
+  A broad range of users and stakeholders will be involved in the design process,
+  to ensure that OAM v2 will result in a modern and accessible platform. \n\nKontur
+  team has extensive experience in disaster management, geospatial analysis, and geoinformation
+  products development. Its team has business analysts and competent UX designers,
+  who utilize user-centered design processes in the daily work. Kontur and HOT are
+  reaching out to the OAM community to conduct user interviews and workshops to extract
+  user needs and formalize them in requirements ready for development. A conceptual
+  architecture, a map of stakeholders, user personas, prioritized user stories, and
+  storyboards will be created and reviewed with the HOT team. The estimated timeframe
+  for the design is 4 months and will be finished in the middle of June 2022.\n\nAn
+  initial set of findings from user interviews is summarized in [this document] (https://docs.google.com/document/d/1MCXx6D8F6Xz4vLhamT794IE_Zegp3eaSG9kV_QT0KUk/edit?usp=sharing).
   HOT and Kontur are now organizing two workshops to further refine and prioritize
   user needs and ideas:\n* Tuesday 26 April  16:00 UTC\n* Thursday 28 April 11:00
   UTC\n\nIf you want to participate in the workshops, please sign up through this
