@@ -4,9 +4,7 @@ date: 2022-04-20 06:13:00 Z
 Photo: "/uploads/Passport%20Photo%202022.jpg"
 Member Type:
   Is Staff: true
-Job Title: 'Project Manager-Eastern and Southern Africa
-
-'
+Job Title: 'Project Manager-Eastern and Southern Africa'
 Team: Eastern and Southern Africa Hub
 ---
 

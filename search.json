@@ -9,7 +9,7 @@ layout:
 "type":"Project",
 "title":"{{ project.title | escape }}",
 "summary":"{{ project['Summary Text'] | escape | truncatewords: 40 | strip | prepend: ' ' }}",
-"subtitle":"{{project['HOT Involvement'] | escape | prepend: ' ' }}",
+"subtitle":"{{project['HOT Involvement'] | escape | truncatewords: 40 | strip | prepend: ' ' }}",
 "url":"{{ project.url }}",
 "date":"{{ project.date }}",
 "country":"{{ project.Country | join: ', ' }}"
@@ -27,7 +27,7 @@ layout:
 {% for groups in site.working-groups %}
 {
 "type":"Working Groups",
-"title":"{{ groups.title | escape }}",
+"title":"{{ groups.title | escape | truncatewords: 40 | strip }}",
 "subtitle": " ",
 "summary":"{{ groups.body | escape | truncatewords: 40 | strip | strip_newlines | prepend: ' ' }}",
 "url":"{{ groups.url }}"
@@ -36,9 +36,9 @@ layout:
 {% for person in site.people %}
 {
 "type":"Member",
-"title":"{{ person.title | escape }}",
+"title":"{{ person.title | escape | truncatewords: 40 | strip }}",
 "summary":"{{ person.body | escape | truncatewords: 40 | strip | prepend: ' ' }}",
-"subtitle":"{{ person['Job Title'] | prepend: ' ' }}",
+"subtitle":"{{ person['Job Title'] | escape | truncatewords: 40 | strip | strip_newlines | prepend: ' ' }}",
 "url":"{{ person.url }}",
 "date":"{{ person.date }}",
 "country":"{{ project.country | join: ', ' }}"
@@ -106,7 +106,7 @@ layout:
 "type": "Event",
 "title": "{{ event.title | escape }}",
 "summary":"{{ event['Summary Text'] | escape | truncatewords : 40 | strip | strip_newlines | prepend: ' ' }}",
-"subtitle":"Event Type: {{ event['Event type'] }}",
+"subtitle":"Event Type: {{ event['Event type'] | escape | truncatewords: 40 | strip | strip_newlines | prepend: ' ' }} ",
 "url":"{{ event.url }}",
 "date":"{{ event.date }}"
 }, 
