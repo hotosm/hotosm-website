@@ -7,6 +7,8 @@ El 16 de abril del 2016 un [terremoto](https://es.wikipedia.org/wiki/Terremoto_d
 
 Esto se hizo posible sobre todo por la [colaboración](https://www.vistazo.com/actualidad/terremoto-ecuador-mapeando-el-desastre-BBVI27571) de cientos de voluntarios, locales y de diversas partes del mundo, que pusieron su granito de arena al donar su tiempo y conocimientos para ayudar a ese [proyecto de mapeo humanitario](https://blogs.iadb.org/conocimiento-abierto/es/mapeo-humanitario-como-ayudar-al-ecuador-despues-del-terremoto/). Al respecto pueden ver el interesante [análisis de datos](https://ruevko.github.io/hexagonal/post/2021/04/16-mapping-ecuador-contribuciones/) de Rafael Castro sobre la tasa de contribución y las contribuciones a lo largo del tiempo.
 
+![plot-lat-lon-1.png](/uploads/plot-lat-lon-1.png)
+
 *`Heatmap de nodos contribuidos durante Mapping Ecuador. Tomado del blog de Rafael Castro. Licencia (CC BY–SA 4.0) .`*
 
 Seis años después, no es necesario otro terremoto para que la comunidad OpenStreetMap ecuatoriana siga haciendo cosas. Por ejemplo [Daniel Romero-Álvarez](https://twitter.com/Vakdaro) publicó el artículo “[Cantones y su población en Ecuador](https://www.romerostories.com/post/cantones-y-su-poblaci%C3%B3n-en-ecuador)”, donde da a conocer su iniciativa de mapear la población de Ecuador por cada uno de los cantones en los que dicho país se encuentra subdividido. Cuenta que hizo el mapa dinámico usando [Leaflet](https://en.wikipedia.org/wiki/Leaflet_(software)), y [acá](http://bl.ocks.org/daromero-88/raw/e13d1d425d4419319f8a90bae63a1e17/) pueden encontrar el mapa.
