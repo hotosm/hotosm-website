@@ -29,8 +29,6 @@ Sin embargo los Youthmappers no son los únicos nuevos actores en el ambiente de
 
 Como parte de las líneas de trabajo mencionadas, el OpenlabEc tiene interés por dinamizar la comunidad OSM ecuatoriana a fin de tener una sociedad civil fuerte en caso de necesidad, ocasionada o no por desastres naturales. Esto se traduce en una voluntad de organizar eventos y capacitaciones con universidades, asociaciones, y personas activas en OSM, por lo que organizaron un [evento virtual](https://openlab.ec/actividad/de-que-trata-openstreet-map-hot-y-youthmappers#no-back) para difundir tres iniciativas que van muy de la mano: OpenStreetMap, HOT y Youthmappers. Aquí les dejamos el video de dicho evento:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1wOjNvIxlzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 https://www.youtube.com/watch?v=1wOjNvIxlzk
 
 La experiencia resultó satisfactoria para el OpenLabEc y ya se está planeando una nueva sesión o webinar para el mes de junio. ¡Les estaremos avisando por nuestras redes sociales!
