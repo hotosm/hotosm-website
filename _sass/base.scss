@@ -724,6 +724,24 @@ em {
   }
 }
 
+.module-group-hubs {
+  display: grid;
+  grid-gap: 24px;
+  margin-bottom: 24px;
+  &.grid-two-rows {
+    grid-template-rows: repeat(2, 1fr);
+  }
+  @media (min-width: $screen-sm) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  @media (min-width: $screen-xs) and (max-width: $screen-sm) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  @media (max-width: $screen-xs) {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
 .module-header {
   margin-bottom: 24px;
 }
