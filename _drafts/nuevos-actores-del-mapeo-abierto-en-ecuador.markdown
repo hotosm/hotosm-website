@@ -1,6 +1,9 @@
 ---
 title: Nuevos actores del mapeo abierto en Ecuador
 date: 2022-04-21 16:13:00 Z
+Summary Text: La colaboración de experimentados activistas de la cultura libre con
+  nuevos mapeadores esta renovando el panorama de la cartografía colaborativa en Ecuador.
+Feature Image: "/uploads/lloa7.webp"
 ---
 
 El 16 de abril del 2016 un [terremoto](https://es.wikipedia.org/wiki/Terremoto_de_Ecuador_de_2016) de grado 7.8 sacudió Ecuador dejando una gran cantidad de muertos y damnificados, y generando una emergencia humanitaria. Entre las acciones de ayuda desplegadas, la acción conjunta entre [Mapping Ecuador](https://www.facebook.com/MappingEcuador/) y HOT permitió [cartografiar](https://tasks.hotosm.org/projects/1794) a un mejor detalle las zonas afectadas, sobre todo “caminos, pueblos, aldeas, para coordinar los esfuerzos de ayuda de las instituciones gubernamentales y las iniciativas de rescate de la sociedad civil”.
@@ -37,4 +40,4 @@ Como parte de las líneas de trabajo mencionadas, el OpenlabEc tiene interés po
 
 ![VideoWebinarOpenlabec.jpg](/uploads/VideoWebinarOpenlabec.jpg)
 
-Aquí les dejamos el [video](https://www.youtube.com/watch?v=1wOjNvIxlzk) de dicho evento. La experiencia resultó satisfactoria para el OpenLabEc y ya se está planeando una nueva sesión o webinar para el mes de junio. ¡Les estaremos avisando por nuestras redes sociales!
+Aquí les dejamos el [video](https://www.youtube.com/watch?v=1wOjNvIxlzk) de dicho evento. La experiencia resultó satisfactoria para el OpenLabEc y ya se está planeando una nueva sesión o webinar para el mes de junio. Por otro lado, tanto los Youthmappers  como la comunidad mapeadora de Ecuador se encuentran planificando nuevas actividades que ya nos comunicarán. ¡Les estaremos informando en próximas publicaciones y por nuestras redes sociales!
