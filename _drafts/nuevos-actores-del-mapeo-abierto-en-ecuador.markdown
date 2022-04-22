@@ -1,6 +1,8 @@
 ---
 title: Nuevos actores del mapeo abierto en Ecuador
 date: 2022-04-21 16:13:00 Z
+tags:
+- Ecuador
 Summary Text: La colaboración de experimentados activistas de la cultura libre con
   nuevos mapeadores esta renovando el panorama de la cartografía colaborativa en Ecuador.
 Feature Image: "/uploads/lloa7.webp"
