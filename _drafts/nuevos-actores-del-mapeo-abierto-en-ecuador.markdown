@@ -17,6 +17,8 @@ Pero el panorama del mapeo abierto en Ecuador ha cambiado un poco y ahora la com
 
 [Mariela Centeno](https://twitter.com/marielacenteno) es miembro de GeoMap ESPE, pero además es Embajadora Regional de los Youthmappers. Como tal ella siempre anda buscando oportunidades de mapeo y proyectos a los cuales apoyar. El año pasado publicó un artículo titulado [Mapeando un Paraíso Escondido en Pandemia](https://www.youthmappers.org/post/mapeando-un-para%C3%ADso-escondido-en-pandemia-mapping-a-hidden-paradise-during-a-pandemic), detallando su experiencia de mapeo de sitios turísticos en Lloa, parte del Distrito Metropolitano de Quito.
 
+![Lloa 3.jpg](/uploads/Lloa%203.jpg)
+
 *`Daniel Moreno y Karla Meza tomando información con la ayuda de encuestas. Miembros de GeoMap-ESPE socializando el proyecto con moradores de la zona. Imágenes de Youthmappers.`*
 
 Ella relata que primero coordinaron con los líderes comunitarios para poder llegar a la zona y mapear, luego reforzaron su capacitación en herramientas para el levantamiento de información. Después de eso planificaron su labor de campo y la realizaron en un par de días. Tras eso realizaron labor de gabinete con los datos, procesándolos y publicándolos en el mapa de OpenStreetMap. El último paso fue presentar el trabajo realizado a la comunidad de Lloa.
@@ -25,12 +27,14 @@ Mariela resume así el trabajo:
 
 > Se obtuvieron más de 50 puntos de carácter turístico en la parroquia Lloa, se tabularon más de 180 encuestas realizadas a los moradores de la Parroquia, se levantó información relevante como canchas, iglesias, centros de salud y algunos lugares de productividad los cuales no constaban en la plataforma.
 
+![Lloa 6.jpg](/uploads/Lloa%206.jpg)
+
 *`Grupo GeoMap ESPE- YouthMappers en Cruz Loma de la parroquia Lloa y su ubicación en la plataforma OSM. Imágenes de Youthmappers.`*
 
 Sin embargo los Youthmappers no son los únicos nuevos actores en el ambiente del mapeo abierto en Ecuador. El [OpenLabEc](https://openlab.ec/) es “un laboratorio ciudadano de tecnologías y cultura libre, dedicado a promover la experimentación, la participación ciudadana, la educación y la creatividad, en apoyo de las comunidades de Software Libre, Conocimiento Abierto y Derechos Digitales en el Ecuador y Latinoamérica, por medio de actividades en pro del bien común, y por una economía de conocimiento y creatividad”.
 
-Como parte de las líneas de trabajo mencionadas, el OpenlabEc tiene interés por dinamizar la comunidad OSM ecuatoriana a fin de tener una sociedad civil fuerte en caso de necesidad, ocasionada o no por desastres naturales. Esto se traduce en una voluntad de organizar eventos y capacitaciones con universidades, asociaciones, y personas activas en OSM, por lo que organizaron un [evento virtual](https://openlab.ec/actividad/de-que-trata-openstreet-map-hot-y-youthmappers#no-back) para difundir tres iniciativas que van muy de la mano: OpenStreetMap, HOT y Youthmappers. Aquí les dejamos el video de dicho evento:
+Como parte de las líneas de trabajo mencionadas, el OpenlabEc tiene interés por dinamizar la comunidad OSM ecuatoriana a fin de tener una sociedad civil fuerte en caso de necesidad, ocasionada o no por desastres naturales. Esto se traduce en una voluntad de organizar eventos y capacitaciones con universidades, asociaciones, y personas activas en OSM, por lo que organizaron un [evento virtual](https://openlab.ec/actividad/de-que-trata-openstreet-map-hot-y-youthmappers#no-back) para difundir tres iniciativas que van muy de la mano: OpenStreetMap, HOT y Youthmappers. 
 
-https://www.youtube.com/watch?v=1wOjNvIxlzk
+![VideoWebinarOpenlabec.jpg](/uploads/VideoWebinarOpenlabec.jpg)
 
-La experiencia resultó satisfactoria para el OpenLabEc y ya se está planeando una nueva sesión o webinar para el mes de junio. ¡Les estaremos avisando por nuestras redes sociales!
+Aquí les dejamos el [video](https://www.youtube.com/watch?v=1wOjNvIxlzk) de dicho evento. La experiencia resultó satisfactoria para el OpenLabEc y ya se está planeando una nueva sesión o webinar para el mes de junio. ¡Les estaremos avisando por nuestras redes sociales!
