@@ -14,7 +14,7 @@ block-2:
     <br /><br />We envision a future where all people in Eastern and Southern Africa have the opportunity to contribute to and use open mapping processes and open data in their everyday lives.
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_ESA_English_Logo_REV_COLOUR.png"
-  Link: https://stories.hotosm.org/esa-homepage/index.html
+  Link: esa-hub
 block-3:
   Title: West & Northern Africa
   Text: "<strong>The Open Mapping Hub - West and Northern Africa </strong> engages
@@ -27,7 +27,7 @@ block-3:
     their own purposes.<br /><br />"
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_WNA_English_Logo_REV_COLOUR.png"
-  Link: https://stories.hotosm.org/wna-homepage/index.html
+  Link: wna-hub
 block-1:
   Title: Asia Pacific
   Text: "<strong>The Open Mapping Hub - Asia-Pacific</strong> is working to create
@@ -41,14 +41,14 @@ block-1:
     movement."
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png"
-  Link: https://stories.hotosm.org/ap-homepage/index.html
+  Link: asia-pacific-hub
 block-4:
   Title: LATAM Hub
   Text: "<strong>El Hub de mapeo abierto - América Latina</strong> se encuentra en la “Fase Alpha” ¿Qué es esto? Es una etapa previa en la cual estamos diseñando y probando actividades que, no sólo aporten valor a la gente, sino que también ayuden a HOT, las comunidades y otros actores del mapeo abierto de la región a colaborar juntos y así co-diseñar lo que un Hub de Mapeo Abierto al servicio de diecinueve países de América Latina podría ser y hacer.<br /><br />
   Esperamos en el futuro inmediato pasarle la antorcha al Hub y entregarle una sólida red de relaciones a distinto nivel en toda la región, un grupo de proyectos realizados o en ejecución que demuestren el valor que puede aportar el Hub a las comunidades, y por ende una creciente reputación positiva. También unos modelos probados de colaboración que luego el Hub podrá optimizar y sumar a sus propios modelos."
   Action-text: Learn More
   Image: "https://cdn.hotosm.org/website/HOT_OMH_LATAM_Spanish_Logo_REV_COLOUR.png"
-  Link: https://stories.hotosm.org/latam-homepage_draft/index.html
+  Link: latam-hub
 layout: hubs
 ---
 
