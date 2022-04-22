@@ -28,12 +28,6 @@ This year HOT joined with [Kontur](http://kontur.io/) to take a fresh look at OA
 
 Kontur team has extensive experience in disaster management, geospatial analysis, and geoinformation products development. Its team has business analysts and competent UX designers, who utilize user-centered design processes in the daily work. Kontur and HOT are reaching out to the OAM community to conduct user interviews and workshops to extract user needs and formalize them in requirements ready for development. A conceptual architecture, a map of stakeholders, user personas, prioritized user stories, and storyboards will be created and reviewed with the HOT team. The estimated timeframe for the design is 4 months and will be finished in the middle of June 2022.
 
-An initial set of findings from user interviews is summarized in [this document](https://docs.google.com/document/d/1MCXx6D8F6Xz4vLhamT794IE_Zegp3eaSG9kV_QT0KUk/edit?usp=sharing). HOT and Kontur are now organizing two workshops to further refine and prioritize user needs and ideas:
-* Tuesday 26 April  16:00 UTC
-* Thursday 28 April 11:00 UTC
-
-If you want to participate in the workshops, please sign up through [this form](https://forms.gle/gNaXyLajWGoVfwV7A) and we will send a calendar invite.
-
-Please note that the same content will be covered in the two workshops to accommodate for people’s availability- you only need to choose one of the options! We hope to see you there!!
+An initial set of findings from user interviews is summarized in [this document](https://docs.google.com/document/d/1MCXx6D8F6Xz4vLhamT794IE_Zegp3eaSG9kV_QT0KUk/edit?usp=sharing). HOT and Kontur are now organizing workshops to further refine and prioritize user needs and ideas. If you want to participate in the workshops, please sign up through [this form](https://forms.gle/gNaXyLajWGoVfwV7A) by Monday 25th of April. We hope to see you there!!
 
 
