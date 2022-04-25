@@ -1,6 +1,6 @@
 ---
 title: Tropical Storm Agaton 2022 (MEGI-22) Activation
-date: 2022-04-13 11:53:00 Z
+date: 2022-04-14 11:53:00 Z
 Glide: TC-2022-000197-PHL
 Event Name: MEGI-22 (Agaton)
 Country:
