@@ -1,8 +1,8 @@
 ---
-title: Tropical Cyclone MEGI-22 Size-up
+title: Tropical Cyclone MEGI-22 (Agaton) Size-up
 date: 2022-04-13 17:00:00 Z
 Glide: TC-2022-000197-PHL
-Event Name: MEGI-22
+Event Name: MEGI-22 (Agaton)
 GDACS ID: TC 1000879
 GDACS-level: Green (0.5)
 Country:
@@ -20,7 +20,7 @@ Status: size-up
 
 <h2>Size-up Details</h2>
 
-<strong>Event Name:</strong>Tropical Cyclone for MEGI-22 <br>
+<strong>Event Name:</strong>Tropical Cyclone for MEGI-22 (Agaton)<br>
 <strong>GDACS Alert Lvl:</strong>Green (0.5)<br>
 <strong>Location:</strong>  Eastern Samar, Philippines<br>
 <strong>Geographic Scope:</strong> Multiple cities<br>
