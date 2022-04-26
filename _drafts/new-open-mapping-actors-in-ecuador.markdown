@@ -1,6 +1,13 @@
 ---
 title: New open mapping actors in Ecuador
 date: 2022-04-22 04:06:00 Z
+tags:
+- Ecuador
+- UNDP
+- OpenStreetMap
+- Latam
+- Community
+- OpenLabEc
 Summary Text: The collaboration of experienced free culture activists with new mappers
   is renewing the landscape of collaborative cartography in Ecuador.
 Feature Image: "/uploads/lloa7.webp"
@@ -35,9 +42,9 @@ Mariela summarizes the work:
 
 *`GeoMap ESPE-YouthMappers group in Cruz Loma of the Lloa parish and its location in the OSM platform. Images by Youthmappers.`*
 
-The UNDP Ecuador Accelerator Lab has ventured into mapping, and Paulina Jimenez, Head of Mapping Solutions, recounts one of her experiences in the article: [Flowers in the Air: Routes of Memory, (in)justice and community response to femicides in Cuenca and Portoviejo](https://acceleratorlabs.undp.org/content/acceleratorlabs/en/home/blogs/Ecuador-gender-violence-against-women-cartography-ethnography-data-innovation-technology-accelerator.html). Their other experiences related to mapping can be found on the website Other maps, and in this video you can see how they do their work.
+But there are more mapping actors. The [UNDP Ecuador Accelerator Lab](https://acceleratorlabs.undp.org/content/acceleratorlabs/en/home/locations/Ecuador.html) has ventured into mapping, and [Paulina Jimenez](https://twitter.com/Paulina_lab_ecu), Head of Mapping Solutions, recounts one of her experiences in the article: [Flowers in the Air: Routes of Memory, (in)justice and community response to femicides in Cuenca and Portoviejo](https://acceleratorlabs.undp.org/content/acceleratorlabs/en/home/blogs/Ecuador-gender-violence-against-women-cartography-ethnography-data-innovation-technology-accelerator.html). Their other experiences related to mapping can be found on the website [Otros mapas](https://www.otrosmapas.org/), and in this [video](https://www.youtube.com/watch?v=Cjdn9vkO9nM) you can see how they do their work.
 
- The [OpenLabEc](https://openlab.ec/) is "a citizen laboratory of technologies and free culture, dedicated to promoting experimentation, citizen participation, education and creativity, in support of the Free Software, Open Knowledge and Digital Rights communities in Ecuador and Latin America, through activities for the common good, and for an economy of knowledge and creativity."
+The [OpenLabEc](https://openlab.ec/) is "a citizen laboratory of technologies and free culture, dedicated to promoting experimentation, citizen participation, education and creativity, in support of the Free Software, Open Knowledge and Digital Rights communities in Ecuador and Latin America, through activities for the common good, and for an economy of knowledge and creativity."
 
 As part of the aforementioned lines of work, OpenlabEc is interested in dynamizing the Ecuadorian OSM community in order to have a strong civil society in case of need, caused or not by natural disasters. This translates into a willingness to organize events and training with universities, associations, and people active in OSM, so they organized a [virtual event](https://openlab.ec/actividad/de-que-trata-openstreet-map-hot-y-youthmappers#no-back) to spread three initiatives that go hand in hand: OpenStreetMap, HOT and Youthmappers.
 
