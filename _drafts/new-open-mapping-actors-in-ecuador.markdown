@@ -1,6 +1,6 @@
 ---
 title: New open mapping actors in Ecuador
-date: 2022-04-27 02:00:00 Z
+date: 2022-04-27 02:05:00 Z
 tags:
 - Ecuador
 - UNDP
