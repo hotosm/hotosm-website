@@ -3,6 +3,11 @@ title: Nuevos actores del mapeo abierto en Ecuador
 date: 2022-04-21 16:13:00 Z
 tags:
 - Ecuador
+- Community
+- Latam
+- PNUD
+- OpenLabEc
+- OpenStreetMap
 Summary Text: La colaboración de experimentados activistas de la cultura libre con
   nuevos mapeadores esta renovando el panorama de la cartografía colaborativa en Ecuador.
 Feature Image: "/uploads/lloa7.webp"
@@ -36,7 +41,7 @@ Mariela resume así el trabajo:
 
 *`Grupo GeoMap ESPE- YouthMappers en Cruz Loma de la parroquia Lloa y su ubicación en la plataforma OSM. Imágenes de Youthmappers.`*
 
-Una iniciativa que incursiona en el mapeo es el [Laboratorio de Aceleración del PNUD en Ecuador](https://www.ec.undp.org/content/ecuador/es/home/laboratorio-de-aceleracion0.html). De los varios trabajos que han hecho cabe mencionar el que cuenta [Paulina Jimenez](https://twitter.com/Paulina_lab_ecu), Jefa de Mapeo de Soluciones, en el artículo: [Flores en el Aire: Rutas de Memoria, (in)justicia y respuesta comunitaria frente a feminicidios en Cuenca y Portoviejo](https://www.ec.undp.org/content/ecuador/es/home/blog/2022/flores-en-el-aire--rutas-de-memoria---in-justicia-y-respuesta-co.html). En la web [Otros mapas](https://www.otrosmapas.org/) pueden encontrarse 
+El [Laboratorio de Aceleración del PNUD en Ecuador](https://www.ec.undp.org/content/ecuador/es/home/laboratorio-de-aceleracion0.html) ha incursionado en el mapeo, y [Paulina Jimenez](https://twitter.com/Paulina_lab_ecu), Jefa de Mapeo de Soluciones, cuenta una de sus experiencias en el artículo: [Flores en el Aire: Rutas de Memoria, (in)justicia y respuesta comunitaria frente a feminicidios en Cuenca y Portoviejo](https://www.ec.undp.org/content/ecuador/es/home/blog/2022/flores-en-el-aire--rutas-de-memoria---in-justicia-y-respuesta-co.html). En la web [Otros mapas](https://www.otrosmapas.org/) pueden encontrarse sus demás experiencias relacionadas al mapeo, y en este [video](https://www.youtube.com/watch?v=Cjdn9vkO9nM) se puede apreciar cómo realizan su trabajo.
 
 Otra iniciativa es el [OpenLabEc,](https://openlab.ec/) “un laboratorio ciudadano de tecnologías y cultura libre, dedicado a promover la experimentación, la participación ciudadana, la educación y la creatividad, en apoyo de las comunidades de Software Libre, Conocimiento Abierto y Derechos Digitales en el Ecuador y Latinoamérica, por medio de actividades en pro del bien común, y por una economía de conocimiento y creatividad”.
 
