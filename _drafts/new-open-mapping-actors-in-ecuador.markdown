@@ -13,32 +13,32 @@ This was made possible mainly by the [collaboration](https://www.newyorker.com/n
 
 ![plot-lat-lon-1.png](/uploads/plot-lat-lon-1.png)
 
-*`Heatmap de nodos contribuidos durante Mapping Ecuador. Tomado del blog de Rafael Castro. Licencia (CC BY–SA 4.0) .`*
+*`Heatmap of nodes contributed during Mapping Ecuador. Taken from Rafael Castro's blog. License (CC BY–SA 4.0).`*
 
-Seis años después, no es necesario otro terremoto para que la comunidad OpenStreetMap ecuatoriana siga haciendo cosas. Por ejemplo [Daniel Romero-Álvarez](https://twitter.com/Vakdaro) publicó el artículo “[Cantones y su población en Ecuador](https://www.romerostories.com/post/cantones-y-su-poblaci%C3%B3n-en-ecuador)”, donde da a conocer su iniciativa de mapear la población de Ecuador por cada uno de los cantones en los que dicho país se encuentra subdividido. Cuenta que hizo el mapa dinámico usando [Leaflet](https://en.wikipedia.org/wiki/Leaflet_(software)), y [acá](http://bl.ocks.org/daromero-88/raw/e13d1d425d4419319f8a90bae63a1e17/) pueden encontrar el mapa.
+Six years later, another earthquake is not necessary for the Ecuadorian OpenStreetMap community to continue doing things. For example, [Daniel Romero-Álvarez](https://twitter.com/Vakdaro) published the article "[Cantons and their population in Ecuador](https://www.romerostories.com/post/cantones-y-su-poblaci%C3%B3n-en-ecuador)", where he socializes his initiative to map the population of Ecuador for each of the cantons into which the country is subdivided. He says that he made the dynamic map using [Leaflet](https://en.wikipedia.org/wiki/Leaflet_(software)), and [here](http://bl.ocks.org/daromero-88/raw/e13d1d425d4419319f8a90bae63a1e17/) you can find the map.
 
-Pero el panorama del mapeo abierto en Ecuador ha cambiado un poco y ahora la comunidad de mapeadores voluntarios ha crecido con un animado capítulo de Youthmappers surgido en la Universidad de las Fuerzas Armadas ESPE: [GeoMap ESPE - YouthMappers](https://www.facebook.com/GeoMap-ESPE-YouthMappers-105559118057506).
+But the landscape of open mapping in Ecuador has changed a bit and now the community of volunteer mappers has grown with a lively chapter of Youthmappers sprung up at the University of the Armed Forces ESPE: [GeoMap ESPE - YouthMappers](https://www.facebook.com/GeoMap-ESPE-YouthMappers-105559118057506).
 
-[Mariela Centeno](https://twitter.com/marielacenteno) es miembro de GeoMap ESPE, pero además es Embajadora Regional de los Youthmappers. Como tal ella siempre anda buscando oportunidades de mapeo y proyectos a los cuales apoyar. El año pasado publicó un artículo titulado [Mapeando un Paraíso Escondido en Pandemia](https://www.youthmappers.org/post/mapeando-un-para%C3%ADso-escondido-en-pandemia-mapping-a-hidden-paradise-during-a-pandemic), detallando su experiencia de mapeo de sitios turísticos en Lloa, parte del Distrito Metropolitano de Quito.
+[Mariela Centeno](https://twitter.com/marielacenteno) is a member of GeoMap ESPE, but she is also a Regional Ambassador of the Youthmappers. As such she is always looking for mapping opportunities and projects to support. Last year she published an article titled [Mapping a Hidden Paradise during a Pandemic](https://www.youthmappers.org/post/mapeando-un-para%C3%ADso-escondido-en-pandemia-mapping-a-hidden-paradise-during-a-pandemic), detailing her experience mapping tourist sites in Lloa, part of the Quito Metropolitan District.
 
 ![Lloa 3.jpg](/uploads/Lloa%203.jpg)
 
-*`Daniel Moreno y Karla Meza tomando información con la ayuda de encuestas. Miembros de GeoMap-ESPE socializando el proyecto con moradores de la zona. Imágenes de Youthmappers.`*
+*`Daniel Moreno and Karla Meza taking information with the help of surveys. Members of GeoMap-ESPE socializing the project with residents of the area. Images from Youthmappers.`*
 
-Ella relata que primero coordinaron con los líderes comunitarios para poder llegar a la zona y mapear, luego reforzaron su capacitación en herramientas para el levantamiento de información. Después de eso planificaron su labor de campo y la realizaron en un par de días. Tras eso realizaron labor de gabinete con los datos, procesándolos y publicándolos en el mapa de OpenStreetMap. El último paso fue presentar el trabajo realizado a la comunidad de Lloa.
+She recounts that they first coordinated with community leaders to be able to reach the area and map, then they reinforced their training in information gathering tools. After that they planned their field work and carried it out in a couple of days. Then, they carried out office work with the data, processing it and publishing it on the OpenStreetMap map. The last step was to present the work done to the community of Lloa.
 
-Mariela resume así el trabajo:
+Mariela summarizes the work:
 
-> Se obtuvieron más de 50 puntos de carácter turístico en la parroquia Lloa, se tabularon más de 180 encuestas realizadas a los moradores de la Parroquia, se levantó información relevante como canchas, iglesias, centros de salud y algunos lugares de productividad los cuales no constaban en la plataforma.
+> More than 50 points of a tourist nature were obtained in the Lloa parish, more than 180 surveys carried out on the inhabitants of the Parish were tabulated, relevant information was collected such as fields, churches, health centers and some productivity places which did not appear in the platform.
 
 ![Lloa 6.jpg](/uploads/Lloa%206.jpg)
 
-*`Grupo GeoMap ESPE- YouthMappers en Cruz Loma de la parroquia Lloa y su ubicación en la plataforma OSM. Imágenes de Youthmappers.`*
+*`GeoMap ESPE-YouthMappers group in Cruz Loma of the Lloa parish and its location in the OSM platform. Images by Youthmappers.`*
 
-Sin embargo los Youthmappers no son los únicos nuevos actores en el ambiente del mapeo abierto en Ecuador. El [OpenLabEc](https://openlab.ec/) es “un laboratorio ciudadano de tecnologías y cultura libre, dedicado a promover la experimentación, la participación ciudadana, la educación y la creatividad, en apoyo de las comunidades de Software Libre, Conocimiento Abierto y Derechos Digitales en el Ecuador y Latinoamérica, por medio de actividades en pro del bien común, y por una economía de conocimiento y creatividad”.
+However, Youthmappers are not the only new actors in the open mapping environment in Ecuador. The [OpenLabEc](https://openlab.ec/) is "a citizen laboratory of technologies and free culture, dedicated to promoting experimentation, citizen participation, education and creativity, in support of the Free Software, Open Knowledge and Digital Rights communities in Ecuador and Latin America, through activities for the common good, and for an economy of knowledge and creativity."
 
-Como parte de las líneas de trabajo mencionadas, el OpenlabEc tiene interés por dinamizar la comunidad OSM ecuatoriana a fin de tener una sociedad civil fuerte en caso de necesidad, ocasionada o no por desastres naturales. Esto se traduce en una voluntad de organizar eventos y capacitaciones con universidades, asociaciones, y personas activas en OSM, por lo que organizaron un [evento virtual](https://openlab.ec/actividad/de-que-trata-openstreet-map-hot-y-youthmappers#no-back) para difundir tres iniciativas que van muy de la mano: OpenStreetMap, HOT y Youthmappers.
+As part of the aforementioned lines of work, OpenlabEc is interested in dynamizing the Ecuadorian OSM community in order to have a strong civil society in case of need, caused or not by natural disasters. This translates into a willingness to organize events and training with universities, associations, and people active in OSM, so they organized a [virtual event](https://openlab.ec/actividad/de-que-trata-openstreet-map-hot-y-youthmappers#no-back) to spread three initiatives that go hand in hand: OpenStreetMap, HOT and Youthmappers.
 
 ![VideoWebinarOpenlabec.jpg](/uploads/VideoWebinarOpenlabec.jpg)
 
-Aquí les dejamos el [video](https://www.youtube.com/watch?v=1wOjNvIxlzk) de dicho evento. La experiencia resultó satisfactoria para el OpenLabEc y ya se está planeando una nueva sesión o webinar para el mes de junio. Por otro lado, tanto los Youthmappers  como la comunidad mapeadora de Ecuador se encuentran planificando nuevas actividades que ya nos comunicarán. ¡Les estaremos informando en próximas publicaciones y por nuestras redes sociales!
+Here is the [video](https://www.youtube.com/watch?v=1wOjNvIxlzk) of that event. The experience was satisfactory for OpenLabEc and a new session or webinar is already being planned for the month of June. On the other hand, both the Youthmappers and the mapping community of Ecuador are planning new activities that they will tell us about. We will be informing you in future publications and on our social networks!
