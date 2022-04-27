@@ -1,6 +1,6 @@
 ---
 title: Nuevos actores del mapeo abierto en Ecuador
-date: 2022-04-27 02:00:00 Z
+date: 2022-04-27 01:00:00 Z
 tags:
 - Community
 - Ecuador
