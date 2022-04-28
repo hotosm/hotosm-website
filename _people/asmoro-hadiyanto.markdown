@@ -1,6 +1,7 @@
 ---
 title: Asmoro Hadiyanto
 date: 2022-02-07 01:59:00 Z
+published: false
 Photo: "/uploads/Asmoro-UN.jpg"
 Member Type:
   Is Staff: true
