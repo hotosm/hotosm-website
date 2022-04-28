@@ -1,9 +1,10 @@
 ---
 title: Joy Zaremba
 date: 2020-10-29 21:21:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/joy-240x300-6b6852.jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Lead Accountant
 Country: United States
 Social Media (Full URL):
