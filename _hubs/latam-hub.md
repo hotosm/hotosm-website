@@ -1,7 +1,7 @@
 ---
 title: LATAM Hub
 position: 0
-embed-link: <script src="https://stories.hotosm.org/latam-homepage/embed.js"></script>
+embed-link: https://stories.hotosm.org/latam-homepage/embed.js
 layout: hub-page
 ---
 
