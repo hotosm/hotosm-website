@@ -31,13 +31,13 @@ Digital volunteering to map vulnerable unmapped places: your global workforce ca
 
 ### How?
 
-* Partner with us to map vulnerable places before the next disaster strikes to increase resiliency, support international development, and participate in disaster response. We will support you to engage your employees in mapping as a micro-volunteering activity, setting up large-scale remote and in person mapping events, connecting all your offices in the same mission. Mapping is simple and fun, all you need is a laptop, and 20 minutes of training to get started!
+* Partner with us to map vulnerable places before the next disaster strikes to increase resiliency, support international development, and participate in disaster response. We will support you to engage your employees in mapping as a micro-volunteering activity, setting up large-scale remote and in person mapping events, connecting all your offices in the same mission. Mapping is simple and fun, all you need is a laptop, and 40 minutes of training to get started!
 
-* Email [partnerships@hotosm.org](mailto:partnerships@hotosm.org) for more information.
+* Email [volunteering@hotosm.org](mailto:volunteering@hotosm.org) for more information.
 
 ### What have other partners done?
 
-To date, over 7,300 volunteers from Salesforce have created over one million building edits.
+To date, over 8,800 volunteers from Salesforce have created over one million building edits.
 
 More recently, [here's an example](https://www.linkedin.com/posts/experian-asia-pacific_roadtorecovery-monthofmapping-hot10yrs-activity-6704283273490681856-F3i3) of how Experian shared mapping as a volunteering opportunity. 
 
