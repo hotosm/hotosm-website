@@ -6,7 +6,7 @@ Intro Text: We can support you to quickly engage large groups of employees to he
 Page Contact:
   Label: Email Us
   Text: Have a question about ways to partner?
-  Contact Email: partnerships@hotosm.org
+  Contact Email: volunteering@hotosm.org
 layout: page
 ---
 
