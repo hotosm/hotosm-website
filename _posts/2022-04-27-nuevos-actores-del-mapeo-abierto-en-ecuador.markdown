@@ -11,6 +11,7 @@ tags:
 Summary Text: La colaboración de experimentados activistas de la cultura libre con
   nuevos mapeadores esta renovando el panorama de la cartografía colaborativa en Ecuador.
 Feature Image: "/uploads/lloa7.webp"
+Person: Juan Arellano Valdivia
 ---
 
 El 16 de abril del 2016 un [terremoto](https://es.wikipedia.org/wiki/Terremoto_de_Ecuador_de_2016) de grado 7.8 sacudió Ecuador dejando una gran cantidad de muertos y damnificados, y generando una emergencia humanitaria. Entre las acciones de ayuda desplegadas, la acción conjunta entre [Mapping Ecuador](https://www.facebook.com/MappingEcuador/) y HOT permitió [cartografiar](https://tasks.hotosm.org/projects/1794) a un mejor detalle las zonas afectadas, sobre todo “caminos, pueblos, aldeas, para coordinar los esfuerzos de ayuda de las instituciones gubernamentales y las iniciativas de rescate de la sociedad civil”.
