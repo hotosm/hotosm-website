@@ -1,9 +1,10 @@
 ---
 title: Jorge Martínez
 date: 2019-07-03 08:13:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/jorge.jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Developer
 Languages:
 - English
