@@ -9,6 +9,7 @@ tags:
 Summary Text: 2022 parece un buen año para la comunidad OSM latinoamericana, veamos
   que nuevas actividades se van desarrollando en los países de la región.
 Feature Image: "/uploads/featured.jpg"
+Person: Juan Arellano Valdivia
 ---
 
 2022 parece un buen año para la comunidad OSM latinoamericana, hay actividades en curso en varios países y estamos seguros que en otros ya se está planeando qué hacer, pues varias personas han manifestado su interés para retomar iniciativas al nivel comunitario. Así que demos un vistazo al panorama OSM latinoamericano:
