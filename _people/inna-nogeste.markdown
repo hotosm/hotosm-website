@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/Inna_Nogeste.jpeg
 Member Type:
   Is Staff: true
 Job Title: Executive Assistant
-Country: Sweden
+Country: Australia
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/InnaN
