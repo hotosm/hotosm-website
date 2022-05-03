@@ -23,7 +23,7 @@ On 14 August 2021, Haiti was struck by a magnitude 7.2 earthquake, devastating t
 
 Although the project met several difficult challenges (to be covered in another blog post), providing high quality, remote technical training in French wasn’t one of them, thanks to the skills and professionalism of the Congolese mappers.
 
-> “Personally, I had the opportunity to exchange my experience and knowledge with contributors outside DRC and, to this day, we continue to exchange with some COSMHANNE contributors.” Muluba, OSM DRC
+> “Personally, I had the opportunity to exchange my experience and knowledge with contributors outside DRC and, to this day, we continue to exchange with some COSMHANNE contributors.” - Muluba, OSM DRC
 
 [IMG_3524.JPG](/uploads/IMG_3524.JPG)
 

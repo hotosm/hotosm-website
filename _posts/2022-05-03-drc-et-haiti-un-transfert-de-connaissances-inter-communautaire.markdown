@@ -23,7 +23,7 @@ Le 14 août 2021, Haïti a été frappé par un séisme de magnitude 7,2, dévas
 
 Bien que le projet ait rencontré plusieurs défis difficiles (qui seront abordés dans un autre article de blog), fournir une formation technique à distance de haute qualité en français, n'en faisait pas partie, et ce, grâce aux compétences et au professionnalisme des cartographes congolais.
 
-> “Personnellement, j'ai eu l'occasion d'échanger mon expérience et mes connaissances avec des contributeurs hors RDC et, à ce jour, nous continuons à échanger avec certains contributeurs de COSMHANNE.” Muluba, OSM RDC
+> “Personnellement, j'ai eu l'occasion d'échanger mon expérience et mes connaissances avec des contributeurs hors RDC et, à ce jour, nous continuons à échanger avec certains contributeurs de COSMHANNE.” - Muluba, OSM RDC
 
 [IMG_3524.JPG](/uploads/IMG_3524.JPG)
 
