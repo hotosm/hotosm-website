@@ -8,10 +8,11 @@ Feature Image: "/uploads/IMG_2130.JPG"
 Person:
 - Muluba Bienvenu
 - Wendy Delva
+- Claire Halleux
 - Shazmane Mandjee Rehamtula
 - Pete Masters
 - Jackson Mumbere
-- Christian Muyuya
+- Christian Muyaya
 - Adler Salvador
 Country:
 - 'Haiti '
