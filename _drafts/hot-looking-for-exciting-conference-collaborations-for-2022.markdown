@@ -35,9 +35,7 @@ This open call ends on the 31 May, so please get in touch before then! After we 
 
 Please do remember that we have limited resources for this, which means we also have a limit to the number of events we can collaborate with and what we can offer. Whilst we would love to say yes to any collaboration that provides value across the humanitarian open mapping ecosystem, we might not be able to!
 
-What are the criteria for events we collaborate on?
-
-**What are the criteria for events we can collaborate with?**
+**What types of events do we want to collaborate on and support?**
 
 Firstly, events we can support and collaborate on need to be conference-style events. This means:
 
@@ -51,17 +49,17 @@ Firstly, events we can support and collaborate on need to be conference-style ev
 
 Secondly, events should provide value for the communities that HOT supports
 
-Thirdly, we'd like to see a code of conduct in place (or plans for developing one)
+Thirdly, events should have a code of conduct in place (or plans for developing one)
 
 Lastly, the events should have thematic or content focuses that are relevant to HOT's mission, covering one or more of the following:
 
-* OpenStreetMap data / communities
+* OpenStreetMap data or communities
 
 * Open data, community or software
 
-* Data for humanitarian / development use
+* Data for humanitarian, development or social impact
 
-* Data for disaster response / resilience / risk reduction
+* Data for disaster response, resilience or risk reduction
 
 In addition, we'd like to support regional events located in a region where an [Open Mapping Hub](https://www.hotosm.org/hubs/) is active (and ideally in a [HOT priority country](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries), but necessarily serving community members from priority countries). We also are open to supporting events with a national audience and focus as long as they are located in a [HOT priority country](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries). For international events, we would prefer to support those with a virtual component (meaning increased accessibility for those who cannot travel) or those that commit to openly publishing content after the event is held.
 
