@@ -18,9 +18,9 @@ Person:
 - Jessica Pechmann
 - Ivan Buendía Gayton
 Country:
+- Global
 - Afghanistan
 - Ukraine
-- 
 ---
 
 This is not a new question; many of us have participated in mapping areas affected by conflict to some degree or another, but to date HOT has not created a formal set of policies and guidelines specifically addressing risk and harm to people from mapping in situations of conflict.
