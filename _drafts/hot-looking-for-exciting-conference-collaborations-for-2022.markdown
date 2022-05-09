@@ -42,7 +42,7 @@ What are the criteria for events we can collaborate with?
 Events we can support and collaborate on need to:
 
 * Be conference-style events. This means:
-  *That it is clear when and where the event will take place
+  That it is clear when and where the event will take place
   That there is an agenda / call for proposals published that clearly shows what content / type of content will be included
   That there is a team of people that are organising and implementing the event who can be points of contact / collaborators for the HOT Summit Working Group
   That a member of the public should be able to buy / register for a ticket and participate in the event*
