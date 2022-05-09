@@ -1,17 +1,21 @@
 ---
 title: HOT looking for exciting conference collaborations for 2022!
 date: 2022-05-09 07:20:00 Z
+Summary Text: HOT is actively looking to collaborate on and support conferences that
+  bring together communities, partners, collaborators and supporters, committed to
+  and active in humanitarian open mapping to learn, share and connect. Can you help
+  us?
 Feature Image: "/uploads/37292578056_09b8490222_o.jpg"
 Person: The HOT Summit Working Group
 Working Group:
 - HOT Summit
 ---
 
-As [shared previously](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/), HOT will not host our regular annual [HOT Summit conference](https://summit.hotosm.org/) in 2022. Instead we want to experiment with using the Summit resources to invest in collaborations with existing community events and conferences and bringing the spirit and humanitarian open mapping focus of the HOT Summit to new places and new people across the world.
+As [shared previously](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/), HOT will not host our regular annual [HOT Summit conference](https://summit.hotosm.org/) in 2022. Instead we want to experiment with using the Summit resources to invest in collaborations with existing and planned conferences to bring the spirit and humanitarian open mapping focus of the HOT Summit to new places and new people across the world.
 
-Through our networks and existing relationships and collaborations, we are already in touch with organizing teams of events we would love to collaborate on, but we are also aware that there are likely many events that we aren’t aware of that could be great opportunities for collaboration and support!
+Through our networks and existing relationships and collaborations, we are already in touch with event organizing teams we would love to collaborate with, but there are likely many events that we aren’t aware of that could be great opportunities for collaboration and support!
 
-Today we are launching an open call to try and connect with people who are interested in a collaboration with HOT and who are organizing events that meet some basic criteria (see below). If this is you, please get in touch before the end of May so we can start a conversation!
+Today we are launching an open call to try and connect with people who are interested in a collaboration with HOT and who are organizing events that meet some basic criteria (see below). **If this is you, please get in touch before the end of May so we can start a conversation!**
 
 **What type of collaboration are we looking for?**
 
@@ -63,4 +67,4 @@ Lastly, the events should have thematic or content focuses that are relevant to 
 
 In addition, we'd like to support regional events located in a region where an [Open Mapping Hub](https://www.hotosm.org/hubs/) is active (and ideally in a [HOT priority country](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries), but necessarily serving community members from priority countries). We also are open to supporting events with a national audience and focus as long as they are located in a [HOT priority country](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries). For international events, we would prefer to support those with a virtual component (meaning increased accessibility for those who cannot travel) or those that commit to openly publishing content after the event is held.
 
-Although we are hugely supportive of any event that enriches the open mapping / OpenStreetMap ecosystem, and especially events in our priority countries, we cannot support mapathons, training sessions or community meetups through this initiative.  Firstly, because the point of [the 2022 distributed HOT Summit experiment](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/) is to test a different way of achieving the HOT Summit’s goals, the events we can support through this need to be conference-style events. Secondly, supporting community meetups, mapathons and trainings is part of our day-to-day work and is the responsibility of our Open Mapping Hubs and HOT’s community team, so please feel free to get in touch any time to discuss your event!
+Although we are hugely supportive of any event that enriches the open mapping / OpenStreetMap ecosystem, and especially events in our priority countries, we cannot support mapathons, training sessions or community meetups through this initiative.  Firstly, because the point of [the 2022 distributed HOT Summit experiment](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/) is to test a different way of achieving the HOT Summit’s goals, the events we can support through this need to be conference-style events. Secondly, supporting community meetups, mapathons and trainings is part of our day-to-day work and is the responsibility of our Open Mapping Hubs and HOT’s community team (rather than the HOT Summit Working Group), so please feel free to [get in touch any time](https://www.hotosm.org/contact) to discuss your event!
