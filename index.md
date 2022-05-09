@@ -9,9 +9,9 @@ Banner:
   Link Copy: Find Out How
   URL: https://www.hotosm.org/projects/audacious/
 Project:
-- 'Mwanza Urban Risks Mapping: Ramani Mwanza'
-- 'Integrating OpenStreetMap data into Caribbean disaster response efforts: GeoCRIS'
-- 
+- Scaling Missing Maps in Uganda and DRC
+- Engaging Local Youth for Solid Waste Mapping in Mogadishu
+- H2H Haiti
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
