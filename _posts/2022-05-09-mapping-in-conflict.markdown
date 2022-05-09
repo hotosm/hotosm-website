@@ -23,7 +23,7 @@ Country:
 - 
 ---
 
-Recent events and experiences, including last year’s developments in Afghanistan and the war in Ukraine, have prompted HOT—and the wider humanitarian mapping community—to revisit what can be ethically and practically done to help people caught in conflict within the context of OSM. This is not a new question; many of us have participated in mapping areas affected by conflict to some degree or another, but to date HOT has not created a formal set of policies and guidelines specifically addressing risk and harm to people from mapping in situations of conflict.
+This is not a new question; many of us have participated in mapping areas affected by conflict to some degree or another, but to date HOT has not created a formal set of policies and guidelines specifically addressing risk and harm to people from mapping in situations of conflict.
 
 In addition to generating positive outcomes, data can also contribute to unintended risk and harm to people. In peaceful circumstances, we must still be careful not to harm others by, for example, revealing private and/or personally identifiable information (PII). The risks that arise from the kind of data that normally results from remote mapping campaigns—such as street and building traces—are well-understood, and there is a fairly robust consensus in the aid sector that the potential for harm is limited. Therefore organizations, OSM communities, and other stakeholders are normally free to create Tasking Manager projects wherever it’s useful for their operations, with best practice being to consult with affected (OSM) communities whenever feasible.
 
