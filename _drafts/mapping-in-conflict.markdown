@@ -10,7 +10,14 @@ Summary Text: Recent events and experiences, including last year’s development
   Afghanistan and the war in Ukraine, have prompted HOT—and the wider humanitarian
   mapping community—to revisit what can be ethically and practically done to help
   people caught in conflict within the context of OSM.
-Person: Paul Uithol
+Person:
+- Paul Uithol
+- Jessica Pechmann
+- Ivan Buendía Gayton
+Country:
+- Afghanistan
+- Ukraine
+- 
 ---
 
 Recent events and experiences, including last year’s developments in Afghanistan and the war in Ukraine, have prompted HOT—and the wider humanitarian mapping community—to revisit what can be ethically and practically done to help people caught in conflict within the context of OSM. This is not a new question; many of us have participated in mapping areas affected by conflict to some degree or another, but to date HOT has not created a formal set of policies and guidelines specifically addressing risk and harm to people from mapping in situations of conflict.
@@ -33,10 +40,11 @@ In zones with acute, emergent, or high-intensity active conflict, a very differe
 * In the recent past, HOT has supported major humanitarian response operations around the Rohinya crisis in Bangladesh & Myanmar, Syrian civil war, the conflict-affected areas in the eastern part of the Democratic Republic of the Congo, and the South Sudan civil war. For the latter two, HOT has implemented projects in Turkey with focus on urban refugees in Istanbul and the north-western area of Uganda & western Uganda. 
 * Projects adjacent to and/or related to conflict necessarily involve vulnerable people and situations where it is hard to be sure what might happen, and therefore require an elevated level of due diligence in context and impact analysis. However, provided they do not involve mapping within the active conflict zone there is not a default assumption that HOT will not participate in them.
 
-3. The humanitarian principle of impartiality is important, which means providing assistance on the basis of the greatest unmet need and potential to save lives and alleviate suffering, not media coverage, donor/funder interest, or partner requests. Before considering requests and beginning the process of risk assessment, we question whether the needs are urgent and unmet. In high profile crises there are often many other actors providing assistance similar to what HOT might provide. In those case the needs are not necessarily unmet, which strengthens  the default position of non-participation (see 1b).
+3. The humanitarian principle of impartiality is important, which means providing assistance on the basis of the greatest unmet need and potential to save lives and alleviate suffering, not media coverage, donor/funder interest, or partner requests. Before considering requests and beginning the process of risk assessment, we question whether the needs are urgent and unmet. In high profile crises there are often multiple actors providing assistance similar to what HOT might provide. In those cases the needs are not necessarily unmet, which strengthens  the default position of non-participation.
 
 ### On Ukraine:
-There are several community initiatives in countries hosting Ukrainian refugees (https://dopomoha.pl/). HOT is cautiously supporting some such initiatives. However, we have received at least one request from a community that is not currently within the active conflict zone, but there is credible speculation that the Ukraine conflict will spread to that area; in this case we have regretfully declined to participate until the situation becomes clearer. Again, the protection of populations from direct harm resulting from our activities takes precedence. 
+There are several community initiatives in countries hosting Ukrainian refugees (https://dopomoha.pl/). HOT is cautiously supporting some such initiatives. However, we have received at least one request from a community that is not currently within the active conflict zone, but there is credible speculation that the Ukraine conflict will spread to that area; in this case we have regretfully declined to participate until the situation becomes clearer. Again, the protection of populations from direct harm resulting from our activities takes precedence.
+
 The OSM Ukraine community is also identifying potentially harmful data and edits, and has requested that the OpenStreetMap Foundation (OSMF) ban users who appear to be persisting in creating data relevant to the military situation. HOT is not involved in either of those issues, but is ready to assist and advise if necessary.
 
 We have added additional language data to our HDX exports based on partner requests. All exports include fields for `name` (most commonly used name, usually Ukrainian), `name:uk` (Ukrainian name), `name:ru` (Russian name), and `name:en` (transliterated & translated name to English, if available).
