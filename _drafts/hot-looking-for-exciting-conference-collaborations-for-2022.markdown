@@ -37,11 +37,9 @@ Please do remember that we have limited resources for this, which means we also 
 
 What are the criteria for events we collaborate on?
 
-What are the criteria for events we can collaborate with?
+**What are the criteria for events we can collaborate with?**
 
-Events we can support and collaborate on need to:
-
-1. Be conference-style events. This means:
+Firstly, events we can support and collaborate on need to be conference-style events. This means:
 
 * That it is clear when and where the event will take place
 
@@ -49,15 +47,22 @@ Events we can support and collaborate on need to:
 
 * That there is a team of people that are organising and implementing the event who can be points of contact / collaborators for the HOT Summit Working Group
 
-* That a member of the public should be able to buy / register for a ticket and participate in the event\*
-2. Provide value for communities that HOT supports\*\*
-3. Have a code of conduct or plans for putting one in place
-4. Have relevant or overlapping themes or content, covering one or more of the following:
+* That a member of the public should be able to buy / register for a ticket and participate in the event
+
+Secondly, events should provide value for the communities that HOT supports
+
+Thirdly, we'd like to see a code of conduct in place (or plans for developing one)
+
+Lastly, the events should have thematic or content focuses that are relevant to HOT's mission, covering one or more of the following:
+
 * OpenStreetMap data / communities
+
 * Open data, community or software
+
 * Data for humanitarian / development use
+
 * Data for disaster response / resilience / risk reduction
 
-In addition, events that have a regional audience need to be located in a region where an [Open Mapping Hub](https://www.hotosm.org/hubs/) is active (ideally in a [HOT priority country](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries), but necessarily serving community members from priority countries). Events that have a national audience need to be located in a [HOT priority country](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries). For international events, we would prefer to support those with a virtual component (meaning increased accessibility for those who cannot travel) or those that commit to openly publishing content after the event is held.
+In addition, we'd like to support regional events located in a region where an [Open Mapping Hub](https://www.hotosm.org/hubs/) is active (and ideally in a [HOT priority country](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries), but necessarily serving community members from priority countries). We also are open to supporting events with a national audience and focus as long as they are located in a [HOT priority country](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries). For international events, we would prefer to support those with a virtual component (meaning increased accessibility for those who cannot travel) or those that commit to openly publishing content after the event is held.
 
 Although we are hugely supportive of any event that enriches the open mapping / OpenStreetMap ecosystem, and especially events in our priority countries, we cannot support mapathons, training sessions or community meetups through this initiative.  Firstly, because the point of [the 2022 distributed HOT Summit experiment](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/) is to test a different way of achieving the HOT Summit’s goals, the events we can support through this need to be conference-style events. Secondly, supporting community meetups, mapathons and trainings is part of our day-to-day work and is the responsibility of our Open Mapping Hubs and HOT’s community team, so please feel free to get in touch any time to discuss your event!
