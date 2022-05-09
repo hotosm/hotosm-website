@@ -1,6 +1,10 @@
 ---
 title: HOT looking for exciting conference collaborations for 2022!
 date: 2022-05-09 07:20:00 Z
+Feature Image: "/uploads/37292578056_09b8490222_o.jpg"
+Person: The HOT Summit Working Group
+Working Group:
+- HOT Summit
 ---
 
 As [shared previously](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/), HOT will not host our regular annual [HOT Summit conference](https://summit.hotosm.org/) in 2022. Instead we want to experiment with using the Summit resources to invest in collaborations with existing community events and conferences and bringing the spirit and humanitarian open mapping focus of the HOT Summit to new places and new people across the world.
