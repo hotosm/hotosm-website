@@ -1,6 +1,11 @@
 ---
 title: Mapping in Conflict
 date: 2022-05-09 15:46:00 Z
+tags:
+- mapping
+- conflict
+- policy
+- ethical data
 Summary Text: Recent events and experiences, including last year’s developments in
   Afghanistan and the war in Ukraine, have prompted HOT—and the wider humanitarian
   mapping community—to revisit what can be ethically and practically done to help
