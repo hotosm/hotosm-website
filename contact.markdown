@@ -17,32 +17,31 @@ General Inquiries:
 Office Locations:
   Locations:
   - |-
-    **United States**
+    **Global**
 
     [OpenGov Hub](https://www.openstreetmap.org/node/4489226846)
     1100 13th Street NW Suite 800
     Washington, D.C. 20005
-  - "**Indonesia**\n\n[HOT Indonesia Office](https://www.openstreetmap.org/?mlat=-6.2367019057273865&mlon=106.85639351606369#map=19/-6.23670/106.85639)\nJalan
-    Tebet Timur III/i No. 4 \nTebet, Jakarta 12820"
   - |-
-    **Philippines**
+    **Open Mapping Hub - Asia Pacific**
 
-    [HOT Philippines Office](https://www.openstreetmap.org/node/7144819921)
-    94 10th Avenue, Cubao
-    Quezon City, Metro Manila
+    [Open Mapping Hub - Asia Pacific](https://www.hotosm.org/hubs/asia-pacific-hub)
+    Contact us: openmappinghub.ap@hotosm.org
   - |-
-    **Tanzania**
+    **Open Mapping Hub - Eastern & Southern Africa**
 
-    [OpenMap Development Tanzania](https://www.openstreetmap.org/way/363709398)
-    Plot 228, House 15, Lukuledi Street
-    Regent Estate, Mikocheni
-    Dar es Salaam
+    [Open Mapping Hub - Eastern & Southern Africa](https://www.hotosm.org/hubs/esa-hub)
+    Contact us: esahub@hotosm.org
   - |-
-    **Uganda**
+    **Open Mapping Hub - West & Northern Africa**
 
-    [HOT Uganda Office](https://www.openstreetmap.org/node/5601564057)
-    Plot 53, Kira Road
-    Kampala
+    [Open Mapping Hub - West & Northern Africa](https://www.hotosm.org/hubs/wna-hub)
+    Contact us: WNAHub@hotosm.org
+  - |-
+    **Open Mapping Hub - Latin America**
+
+    [HOT Uganda Office](https://www.hotosm.org/hubs/latam-hub)
+    Contact us: hublatam@hotosm.org
   Nav ID: office-locations
 Media:
   Details: "For media enquiries, please contact HOT's Senior Communications Manager,
