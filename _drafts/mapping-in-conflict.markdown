@@ -43,4 +43,5 @@ We have added additional language data to our HDX exports based on partner reque
 
 In principle, any activities from HOT around active emergent conflict such as Ukraine, will primarily be around trying to bring together (OSM) community needs and requests with the priorities of humanitarian partners. We are monitoring conversations and opportunities in this space.
 
-As always, HOT’s leadership, staff, communities, board, and voting members are eager to hear what people think! The conversation is far from over. HOT is currently engaged in a project to build a stronger data protection policy and toolkit, including a much deeper dive into the issues surrounding mapping and data in humanitarian and conflict settings, and we’re glad to hear from the wider humanitarian, open data, and mapping community.
+### To be continued
+As always, HOT’s leadership, staff, communities, board, and voting members are eager to hear what people think! The conversation is far from over. HOT is currently engaged in a project to build a stronger data protection policy and toolkit, including a much deeper dive into the issues surrounding mapping and data in humanitarian and conflict settings.
