@@ -10,7 +10,8 @@ Banner:
   URL: https://www.hotosm.org/projects/audacious/
 Project:
 - Scaling Missing Maps in Uganda and DRC
-- Engaging Local Youth for Solid Waste Mapping in Mogadishu
+- 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin America
+  and Caribbean'
 - H2H Haiti
 Home Module 1:
   Header: Tools & Data
