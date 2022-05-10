@@ -56,7 +56,7 @@ There are several community initiatives in countries hosting Ukrainian refugees.
 
 The OSM Ukraine community is also identifying potentially harmful data and edits, and has requested that the OpenStreetMap Foundation (OSMF) ban users who appear to be persisting in creating data relevant to the military situation. HOT is not involved in either of those issues, but is ready to assist and advise if necessary.
 
-We have added additional language data to our HDX exports based on partner requests. All exports include fields for `name` (most commonly used name, usually Ukrainian), `name:uk` (Ukrainian name), `name:ru` (Russian name), and `name:en` (transliterated & translated name to English, if available).
+We have added additional language data to our [HDX exports for Ukraine](https://data.humdata.org/organization/hot?groups=ukr) based on partner requests. All exports include fields for `name` (most commonly used name, usually Ukrainian), `name:uk` (Ukrainian name), `name:ru` (Russian name), and `name:en` (transliterated & translated name to English, if available).
 
 In principle, any activities from HOT around active emergent conflict such as Ukraine, will primarily be around trying to bring together (OSM) community needs and requests with the priorities of humanitarian partners. We are monitoring conversations and opportunities in this space.
 
