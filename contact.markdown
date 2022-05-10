@@ -40,7 +40,7 @@ Office Locations:
   - |-
     **Open Mapping Hub - Latin America**
 
-    [HOT Uganda Office](https://www.hotosm.org/hubs/latam-hub)
+    [Open Mapping Hub - Latin America](https://www.hotosm.org/hubs/latam-hub)
     Contact us: hublatam@hotosm.org
   Nav ID: office-locations
 Media:
