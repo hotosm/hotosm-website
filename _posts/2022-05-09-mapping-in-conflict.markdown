@@ -38,7 +38,7 @@ In zones with acute, emergent, or high-intensity active conflict, a very differe
 
 * We will refrain from mapping if we can’t be relatively certain, based on well-verified information and diligent analysis that takes into account the knowledge and opinions of the people affected and obtains their informed consent, it can’t be used to identify, target, or otherwise harm people, and there is a clear, compelling, urgent need for the data which is strongly likely to save lives.
 
-* We generally support access to, and use of, OpenStreetMap data by humanitarian partners. HOT continues to provide datasets on the Humanitarian Data Exchange (HDX) for Yemen, South Sudan, etc.
+* We generally support access to, and use of, OpenStreetMap data by humanitarian partners. [HOT continues to provide datasets on the Humanitarian Data Exchange (HDX)](https://data.humdata.org/organization/hot) for Yemen, South Sudan, etc.
 
 * In some cases, local communities may request that mapping be suspended during a conflict. This is the case in Ukraine, where a large number of OSM contributors and other community members indicated that they had reason to believe that OSM data was being used by military actors to harm the population. Based on this community request, HOT has decided not to participate in any mapping in Ukraine until further notice.
 
@@ -52,7 +52,7 @@ In zones with acute, emergent, or high-intensity active conflict, a very differe
 
 ### On Ukraine
 
-There are several community initiatives in countries hosting Ukrainian refugees (https://dopomoha.pl/). HOT is cautiously supporting some such initiatives. However, we have received at least one request from a community that is not currently within the active conflict zone, but there is credible speculation that the Ukraine conflict will spread to that area; in this case we have regretfully declined to participate until the situation becomes clearer. Again, the protection of populations from direct harm resulting from our activities takes precedence.
+There are several community initiatives in countries hosting Ukrainian refugees. HOT is cautiously supporting some such initiatives. However, we have received at least one request from a community that is not currently within the active conflict zone, but there is credible speculation that the Ukraine conflict will spread to that area; in this case we have regretfully declined to participate until the situation becomes clearer. Again, the protection of populations from direct harm resulting from our activities takes precedence.
 
 The OSM Ukraine community is also identifying potentially harmful data and edits, and has requested that the OpenStreetMap Foundation (OSMF) ban users who appear to be persisting in creating data relevant to the military situation. HOT is not involved in either of those issues, but is ready to assist and advise if necessary.
 
