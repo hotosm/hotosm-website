@@ -44,7 +44,7 @@ In zones with acute, emergent, or high-intensity active conflict, a very differe
 
 **2.** HOT does support humanitarian action for safe migration and displacement in areas and countries neighboring a conflict zone where there is a meaningful partnership with the community and humanitarian partners and a clear path to impact.
 
-* In the recent past, HOT has supported major humanitarian response operations around the Rohinya crisis in Bangladesh & Myanmar, Syrian civil war, the conflict-affected areas in the eastern part of the Democratic Republic of the Congo, and the South Sudan civil war. For the latter two, HOT has implemented projects in Turkey with focus on urban refugees in Istanbul and the north-western area of Uganda & western Uganda.
+* In the recent past, HOT has supported major humanitarian response operations around t[he Rohingya crisis in Bangladesh & Myanmar](https://wiki.openstreetmap.org/wiki/WikiProject_Bangladesh/RohingyaCrisis), Syrian civil war, the conflict-affected areas in the eastern part of the Democratic Republic of the Congo, and the South Sudan civil war. For the latter two, HOT has implemented projects in Turkey with focus on [urban refugees in Istanbul and the north-western area of Uganda](http://), and [western Uganda](https://www.hotosm.org/projects/bridging-data-gaps-mapping-refugee-contexts-in-east-africa/).
 
 * Projects adjacent to and/or related to conflict necessarily involve vulnerable people and situations where it is hard to be sure what might happen, and therefore require an elevated level of due diligence in context and impact analysis. However, provided they do not involve mapping within the active conflict zone there is not a default assumption that HOT will not participate in them.
 
