@@ -52,7 +52,7 @@ In zones with acute, emergent, or high-intensity active conflict, a very differe
 
 ### On Ukraine
 
-There are several community initiatives in countries hosting Ukrainian refugees (https://dopomoha.pl/). HOT is cautiously supporting some such initiatives. However, we have received at least one request from a community that is not currently within the active conflict zone, but there is credible speculation that the Ukraine conflict will spread to that area; in this case we have regretfully declined to participate until the situation becomes clearer. Again, the protection of populations from direct harm resulting from our activities takes precedence.
+There are several community initiatives in countries hosting Ukrainian refugees. HOT is cautiously supporting some such initiatives. However, we have received at least one request from a community that is not currently within the active conflict zone, but there is credible speculation that the Ukraine conflict will spread to that area; in this case we have regretfully declined to participate until the situation becomes clearer. Again, the protection of populations from direct harm resulting from our activities takes precedence.
 
 The OSM Ukraine community is also identifying potentially harmful data and edits, and has requested that the OpenStreetMap Foundation (OSMF) ban users who appear to be persisting in creating data relevant to the military situation. HOT is not involved in either of those issues, but is ready to assist and advise if necessary.
 
