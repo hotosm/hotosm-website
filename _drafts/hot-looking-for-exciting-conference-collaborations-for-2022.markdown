@@ -41,7 +41,7 @@ Please do remember that we have limited resources for this, which means we also 
 
 ## What types of events do we want to collaborate on and support?
 
-### Firstly, events we can support and collaborate on need to be **conference-style events.** This means:
+### Firstly, events we can support and collaborate on need to be conference-style events. This means:
 
 * That it is clear when and where the event will take place
 
@@ -51,11 +51,11 @@ Please do remember that we have limited resources for this, which means we also 
 
 * That a member of the public should be able to buy / register for a ticket and participate in the event
 
-Secondly, events should **provide value for the communities that HOT supports.**
+### Secondly, events should provide value for the communities that HOT supports.
 
-Thirdly, events should **have a code of conduct in place (or plans for developing one).**
+### Thirdly, events should have a code of conduct in place (or plans for developing one).
 
-Lastly, the events should **have thematic or content focuses that are relevant to HOT's mission**, covering one or more of the following:
+### Lastly, the events should have thematic or content focuses that are relevant to HOT's mission, covering one or more of the following:
 
 * OpenStreetMap data or communities
 
