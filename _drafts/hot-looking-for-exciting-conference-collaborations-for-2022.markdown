@@ -17,7 +17,7 @@ Through our networks and existing relationships and collaborations, we are alrea
 
 Today we are launching an open call to try and connect with people who are interested in a collaboration with HOT and who are organizing events that meet some basic criteria (see below). **If this is you, please get in touch before the end of May so we can start a conversation!**
 
-**What type of collaboration are we looking for?**
+## What type of collaboration are we looking for?
 
 Depending on the event (and acknowledging that our resources are finite), we could work together on a range of different aspects of event organizing and implementation, including (but not limited to):
 
@@ -31,17 +31,17 @@ Depending on the event (and acknowledging that our resources are finite), we cou
 
 * Helping to recruit event volunteers
 
-**What will happen next?**
+## What will happen next?
 
 This open call ends on the 31 May, so please get in touch before then! After we receive your contact information, we will get in touch with you to discuss potential collaboration. If, through these discussions, we agree there is good potential overlap, we will check on whether we have the necessary resources in place to follow through. The final decisions on which collaborations we can support will be taken in the HOT Summit Working Group in collaboration with the Community Managers in the Open Mapping Hubs by the end of June.
 
-**Important note!**
+## Important note!
 
 Please do remember that we have limited resources for this, which means we also have a limit to the number of events we can collaborate with and what we can offer. Whilst we would love to say yes to any collaboration that provides value across the humanitarian open mapping ecosystem, we might not be able to!
 
-**What types of events do we want to collaborate on and support?**
+## What types of events do we want to collaborate on and support?
 
-Firstly, events we can support and collaborate on need to be conference-style events. This means:
+Firstly, events we can support and collaborate on need to be **conference-style events.** This means:
 
 * That it is clear when and where the event will take place
 
@@ -51,11 +51,11 @@ Firstly, events we can support and collaborate on need to be conference-style ev
 
 * That a member of the public should be able to buy / register for a ticket and participate in the event
 
-Secondly, events should provide value for the communities that HOT supports
+Secondly, events should **provide value for the communities that HOT supports.**
 
-Thirdly, events should have a code of conduct in place (or plans for developing one)
+Thirdly, events should **have a code of conduct in place (or plans for developing one).**
 
-Lastly, the events should have thematic or content focuses that are relevant to HOT's mission, covering one or more of the following:
+Lastly, the events should **have thematic or content focuses that are relevant to HOT's mission**, covering one or more of the following:
 
 * OpenStreetMap data or communities
 
