@@ -65,8 +65,8 @@ In principle, any activities from HOT around active emergent conflict such as Uk
 From here on out, we'll work to translate our thinking on this topics into concrete guidance and policy. As always, HOT’s leadership, staff, communities, board, and voting members are eager to hear what people think! The conversation is far from over. HOT is currently engaged in a project to build a stronger data protection policy and toolkit, including a much deeper dive into the issues surrounding mapping and data in humanitarian and conflict settings.
 
 
-<span style="font-size: smaller">Footnotes:
+<span style="font-size: smaller">Footnotes:</span>
 
-[1] For example, if a humanitarian agency working with a particular government requests support from HOT, it is not sufficient to accept the context analysis from that agency and government, we must also understand the perspective of people on the other side of the conflict to ensure no one is harmed, and therefore consult with people knowledgeable about that context who aren’t specifically motivated to consider the project harmless.
+<span style="font-size: smaller">[1] For example, if a humanitarian agency working with a particular government requests support from HOT, it is not sufficient to accept the context analysis from that agency and government, we must also understand the perspective of people on the other side of the conflict to ensure no one is harmed, and therefore consult with people knowledgeable about that context who aren’t specifically motivated to consider the project harmless.</span>
 
-[2] It's not actually possible to reduce risk of harm to zero. There is always some residual risk to people. Therefore it is only ethically permissible to even contemplate mapping if there is a well-established case for a benefit that unambiguously outweighs the residual risk.</span>
+<span style="font-size: smaller">[2] It's not actually possible to reduce risk of harm to zero. There is always some residual risk to people. Therefore it is only ethically permissible to even contemplate mapping if there is a well-established case for a benefit that unambiguously outweighs the residual risk.</span>
