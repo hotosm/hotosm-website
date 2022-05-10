@@ -41,7 +41,7 @@ Please do remember that we have limited resources for this, which means we also 
 
 ## What types of events do we want to collaborate on and support?
 
-Firstly, events we can support and collaborate on need to be **conference-style events.** This means:
+### Firstly, events we can support and collaborate on need to be **conference-style events.** This means:
 
 * That it is clear when and where the event will take place
 
