@@ -32,7 +32,7 @@ In zones with acute, emergent, or high-intensity active conflict, a very differe
 
 **1.** Within zones of active conflict, by default, HOT does not conduct or support additional data creation and mapping—either digitization via the Tasking Manager, or field data collection.
 
-* In these situations, humanitarian principles are leading: humanity, neutrality, impartiality, and independence. This often complements HOT’s community driven approach, but can at times also be at odds.
+* In these situations, [humanitarian principles](https://www.unocha.org/sites/dms/Documents/OOM-humanitarianprinciples_eng_June12.pdf) are leading: humanity, neutrality, impartiality, and independence. This often complements HOT’s community driven approach, but can at times also be at odds.
 
 * We can consider exceptions to the default position of non-participation in conflict contexts if there is a direct request to do so from trusted humanitarian partners with accurate, reliable, up to date information. However, HOT will not engage until we are satisfied that our context analysis and assessment of potential harm to people is complete and of high-quality (which, in situations where we do not have the relevant expertise, involves consulting with external experts without a stake or interest in the project[1]). Indirect harm, including the risk of compromising humanitarian principles by taking sides, must also be taken into account.
 
@@ -40,7 +40,7 @@ In zones with acute, emergent, or high-intensity active conflict, a very differe
 
 * We generally support access to, and use of, OpenStreetMap data by humanitarian partners. HOT continues to provide datasets on the Humanitarian Data Exchange (HDX) for Yemen, South Sudan, etc.
 
-* In some cases, local communities may request that mapping be suspended during a conflict. This is the case in Ukraine, where a large number of OSM contributors and other community members indicated that they had reason to believe that OSM data was being used by military actors to harm the population. Based on this community request, HOT has decided not to participate in any mapping in Ukraine until further notice.
+* In some cases, local communities may request that mapping be suspended during a conflict. This is the case in Ukraine, where a large number of OSM contributors and other community members indicated that they had reason to believe that OSM data was being used by military actors to harm the population. Based on [this community request](https://www.openstreetmap.org/user/Yury%20Yatsynovich/diary/398942), HOT has decided not to participate in any mapping in Ukraine until further notice.
 
 **2.** HOT does support humanitarian action for safe migration and displacement in areas and countries neighboring a conflict zone where there is a meaningful partnership with the community and humanitarian partners and a clear path to impact.
 
