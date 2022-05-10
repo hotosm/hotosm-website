@@ -61,7 +61,7 @@ In addition, we'd like to support regional events located in a region where an [
 
 **What will happen next?**
 
-[This open call ends on the 31 May](https://forms.gle/ton53h4gUD5VTqQC9), so please get in touch before then! After we receive your contact information, we will get in touch with you to discuss potential collaboration. If, through these discussions, we agree there is good potential overlap, we will check on whether we have the necessary resources in place to follow through. The final decisions on which collaborations we can support will be taken in the HOT Summit Working Group in collaboration with the Community Managers in the Open Mapping Hubs by the end of June.
+[This open call ends on the 31 May, so please get in touch before then!](https://forms.gle/ton53h4gUD5VTqQC9) After we receive your contact information, we will get in touch with you to discuss potential collaboration. If, through these discussions, we agree there is good potential overlap, we will check on whether we have the necessary resources in place to follow through. The final decisions on which collaborations we can support will be taken in the HOT Summit Working Group in collaboration with the Community Managers in the Open Mapping Hubs by the end of June.
 
 **Important note!**
 
