@@ -62,7 +62,7 @@ In principle, any activities from HOT around active emergent conflict such as Uk
 
 ### Next steps
 
-From here on out, we'll work to translate our thinking on this topics into concrete guidance and policy. As always, HOT’s leadership, staff, communities, board, and voting members are eager to hear what people think! The conversation is far from over. HOT is currently engaged in a project to build a stronger data protection policy and toolkit, including a much deeper dive into the issues surrounding mapping and data in humanitarian and conflict settings.
+From here on out, we're translating our thinking on this topic into concrete guidance and policy. As always, HOT’s leadership, staff, communities, board, and voting members are eager to hear what people think! The conversation is far from over. HOT is currently engaged in a project to build a stronger data protection policy and toolkit, including a much deeper dive into the issues surrounding mapping and data in humanitarian and conflict settings.
 
 
 <span style="font-size: smaller">Footnotes:</span>
