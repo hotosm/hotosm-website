@@ -10,10 +10,7 @@ Summary Text: This in activation to support OSM Philippines for the Tropical Sto
   Agaton.
 Feature Image: TC Tropical Cyclone
 Post-type: timeline
-HDX: <a href="https://data.humdata.org/organization/hot?q=philippines">Philippines</a>
-Resources: N/A
 Campaign: Tropical Storm Agaton 2022
-Status: size-up
 Tracking: tsagaton
 Report: available
 ---
