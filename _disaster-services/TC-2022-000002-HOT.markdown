@@ -1,0 +1,19 @@
+---
+title: Tropical Cyclone Asani 2022 Alert
+date: 2022-05-10 14:27:00 Z
+Glide: TC-2022-000002-HOT
+Event Name: ASANI-22
+GDACS ID: TC 1000883
+GDACS-level: Orange (1.5)
+Country:
+- India
+Event type: TC Tropical Cyclone
+Summary Text: Disaster Services is currently monitoring this event in the Indian Ocean.
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+source: <a href="https://gdacs.org/report.aspx?eventid=1000883&episodeid=17&eventtype=TC"
+  target="_blank">GDACS</a>
+---
+
+"Tropical Cyclone ASANI-22 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability."
