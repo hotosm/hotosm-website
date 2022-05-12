@@ -42,21 +42,21 @@ En primer lugar, los eventos en los que podemos apoyar y colaborar deben ser eve
 
 * Que un miembro del público pueda comprar / registrarse para un boleto y participar en el evento
 
-Secondly, events should provide value for the communities that HOT supports
+En segundo lugar, los eventos deben proporcionar valor a las comunidades que apoya HOT.
 
-Thirdly, events should have a code of conduct in place (or plans for developing one)
+En tercer lugar, los eventos deben contar con un código de conducta (o planes para desarrollar uno)
 
-Lastly, the events should have thematic or content focuses that are relevant to HOT's mission, covering one or more of the following:
+Por último, los eventos deben tener enfoques temáticos o de contenido que sean relevantes para la misión de HOT, cubriendo uno o más de los siguientes:
 
-* OpenStreetMap data or communities
+* Datos o comunidades OpenStreetMap
 
-* Open data, community or software
+* Datos abiertos, comunidad o software
 
-* Data for humanitarian, development or social impact
+* Datos para impacto humanitario, de desarrollo o social
 
-* Data for disaster response, resilience or risk reduction
+* Datos para respuesta a desastres, resiliencia o reducción de riesgos
 
-In addition, we'd like to support regional events located in a region where an [Open Mapping Hub](https://www.hotosm.org/hubs/) is active (and ideally in a [HOT priority country](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries), but necessarily serving community members from priority countries). We also are open to supporting events with a national audience and focus as long as they are located in a [HOT priority country](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries). For international events, we would prefer to support those with a virtual component (meaning increased accessibility for those who cannot travel) or those that commit to openly publishing content after the event is held.
+In addition, we'd like to support regional events located in a region where an [Open Mapping Hub](https://www.hotosm.org/hubs/) is active (and ideally in a [HOT priority country](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries), but necessarily serving community members from priority countries). We also are open to supporting events with a national audience and focus as long as they are located in a [HOT priority country](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries). For international events, we would prefer to support those with a virtual component (meaning increased accessibility for those who cannot travel) or those that commit to openly publishing content after the event is held. Además, nos gustaría apoyar eventos regionales ubicados en una región donde esté activo un Open Mapping Hub (e idealmente en un país prioritario HOT, pero necesariamente sirviendo a miembros de la comunidad de países prioritarios).También estamos abiertos a apoyar eventos con una audiencia y enfoque nacional, siempre que estén ubicados en un país de prioridad CALIENTE.Para eventos internacionales, preferiríamos apoyar a aquellos con un componente virtual (lo que significa una mayor accesibilidad para aquellos que no pueden viajar) o aquellos que se comprometan a publicar contenido abiertamente después de que se celebre el evento.
 
 **What will happen next?**
 
