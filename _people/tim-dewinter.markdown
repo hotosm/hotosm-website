@@ -4,7 +4,7 @@ date: 2022-05-12 00:18:00 Z
 Photo: "/uploads/profile%20pic-d3d383.jpg"
 Member Type:
   Is Staff: true
-Team: Latam
+Team: LATAM Alpha Stage Contractors
 ---
 
 Tim joined HOT as the Project Factory Coordinator in Latin American Alpha team, bringing more than 30 years of experience in a broad range of social development programmes. The last 6 years of his professional experiences focused on the development of a thinking school and lifelong learning while developing social projects in the Andean región of Cusco. 
