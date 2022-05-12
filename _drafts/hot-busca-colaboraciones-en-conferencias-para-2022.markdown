@@ -1,47 +1,46 @@
 ---
-title: "¡HOT busca colaboraciones en conferencias para 2022!"
+title: "¡HOT busca colaborar en conferencias este 2022!"
 date: 2022-05-12 19:39:00 Z
-Summary Text: HOT is actively looking to collaborate on and support conferences that
-  bring together communities, partners, collaborators and supporters, committed to
-  and active in humanitarian open mapping to learn, share and connect. Can you help
-  us?
+Summary Text: HOT busca activamente colaborar y apoyar conferencias que reúnan a comunidades,
+  socios, colaboradores y simpatizantes -comprometidos y activos en el mapeo abierto
+  humanitario- para aprender, compartir y conectarse.¿Puedes ayudarnos?
 Feature Image: "/uploads/37292578056_09b8490222_o.jpg"
 Person: The HOT Summit Working Group
 Working Group:
 - HOT Summit
 ---
 
-As [shared previously](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/), HOT will not host our regular annual [HOT Summit conference](https://summit.hotosm.org/) in 2022. Instead we want to experiment with using the Summit resources to invest in collaborations with existing and planned conferences to bring the spirit and humanitarian open mapping focus of the HOT Summit to new places and new people across the world.
+Como se [compartió anteriormente](https://www.hotosm.org/updates/hot-summit-un-nuevo-y-emocionante-enfoque-para-2022-y-2023/), HOT no realizará la conferencia anual regular [HOT Summit](https://summit.hotosm.org/) en 2022. En su lugar, queremos experimentar con el uso de los recursos de la Cumbre para invertir en colaboraciones con conferencias ya existentes y planificadas para llevar el espíritu y el enfoque de mapeo abierto humanitario de la Cumbre HOT a nuevos lugares y nuevas personas en todo el mundo.
 
-Through our networks and existing relationships and collaborations, we are already in touch with event organizing teams we would love to collaborate with, but there are likely many events that we aren’t aware of that could be great opportunities for collaboration and support!
+A través de nuestras redes y relaciones y colaboraciones existentes, ya estamos en contacto con equipos organizadores de eventos con los que nos encantaría colaborar, pero es probable que haya muchos eventos de los que no somos conscientes que podrían ser grandes oportunidades de colaboración y apoyo.
 
-Today we are launching an open call to try and connect with people who are interested in a collaboration with HOT and who are organizing events that meet some basic criteria (see below). **If this is you, [please get in touch by 31 May so we can start a conversation](https://forms.gle/ton53h4gUD5VTqQC9)!**
+Hoy estamos lanzando una convocatoria abierta para tratar de conectarnos con personas que estén interesadas en una colaboración con HOT y que estén organizando eventos que cumplan con algunos criterios básicos (ver más abajo). **Si es tu caso, [ponte en contacto antes del 31 de mayo para que podamos conversar](https://forms.gle/ton53h4gUD5VTqQC9).**
 
-**What type of collaboration are we looking for?**
+**¿Qué tipo de colaboración estamos buscando?**
 
-Depending on the event (and acknowledging that our resources are finite), we could work together on a range of different aspects of event organizing and implementation, including (but not limited to):
+Dependiendo del evento (y reconociendo que nuestros recursos son finitos), podríamos trabajar juntos en una variedad de aspectos de la organización e implementación del evento, que incluyen (pero no se limitan a):
 
-* Co-designing content and knowledge sharing for sessions and tracks around shared key themes
+* Co-diseño de contenido e intercambio de conocimientos para sesiones en torno a temas clave en común
 
-* Co-hosting networking events
+* Co-anfitrión de eventos de networking
 
-* Supporting on specific event aspects, such as editorial processes, scholarship programmes, communications and promotion and logistics management
+* Apoyo en aspectos específicos del evento, como procesos editoriales, programas de becas, comunicación y promoción y gestión logística.
 
-* Supporting on sponsorship and funding
+* Apoyo en patrocinio y financiación.
 
-* Helping to recruit event volunteers
+* Ayudar a reclutar voluntarios para eventos.
 
-**What types of events do we want to collaborate on and support?**
+**¿En qué tipo de eventos queremos colaborar y apoyar?**
 
-Firstly, events we can support and collaborate on need to be conference-style events. This means:
+En primer lugar, los eventos en los que podemos apoyar y colaborar deben ser eventos tipo conferencia. Esto significa:
 
-* That it is clear when and where the event will take place
+* Que quede claro cuándo y dónde se llevará a cabo el evento.
 
-* That there is an agenda / call for proposals published that clearly shows what content / type of content will be included
+* Que haya una agenda/convocatoria publicada que muestre claramente qué contenido/tipo de contenido se incluirá
 
-* That there is a team of people that are organising and implementing the event who can be points of contact / collaborators for the HOT Summit Working Group
+* Que haya un equipo de personas que estén organizando e implementando el evento y que puedan ser puntos de contacto/colaboradores para el Grupo de Trabajo de la Cumbre HOT
 
-* That a member of the public should be able to buy / register for a ticket and participate in the event
+* Que un miembro del público pueda comprar / registrarse para un boleto y participar en el evento
 
 Secondly, events should provide value for the communities that HOT supports
 
