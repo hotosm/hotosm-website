@@ -1,6 +1,6 @@
 ---
 title: "¡HOT busca colaborar en conferencias este 2022!"
-date: 2022-05-12 19:39:00 Z
+date: 2022-05-09 19:10:00 Z
 Summary Text: HOT busca activamente colaborar y apoyar conferencias que reúnan a comunidades,
   socios, colaboradores y simpatizantes -comprometidos y activos en el mapeo abierto
   humanitario- para aprender, compartir y conectarse.¿Puedes ayudarnos?
