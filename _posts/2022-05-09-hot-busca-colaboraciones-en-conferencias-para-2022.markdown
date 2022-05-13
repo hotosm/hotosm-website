@@ -3,7 +3,7 @@ title: "¡HOT busca colaborar en conferencias este 2022!"
 date: 2022-05-09 07:10:00 Z
 Summary Text: HOT busca activamente colaborar y apoyar conferencias que reúnan a comunidades,
   socios, colaboradores y simpatizantes -comprometidos y activos en el mapeo abierto
-  humanitario- para aprender, compartir y conectarse.¿Puedes ayudarnos?
+  humanitario- para aprender, compartir y conectarse. ¿Puedes ayudarnos?
 Feature Image: "/uploads/37292578056_09b8490222_o.jpg"
 Person: The HOT Summit Working Group
 Working Group:
