@@ -7,7 +7,7 @@ Member Type:
 Job Title: Communications Associate
 Country: United States
 Social Media (Full URL):
-  OSM: https://www.openstreetmap.org/user/Climate_Ben
+  OSM: https://www.openstreetmap.org/user/DigiDemoDills
 ---
 
 Benjamin Dills is HOT's Communications Associate and focuses on HOT's news updates, social media, and newsletter. He first came to HOT as a mapper in 2019 and became an editorial volunteer in early 2020.
