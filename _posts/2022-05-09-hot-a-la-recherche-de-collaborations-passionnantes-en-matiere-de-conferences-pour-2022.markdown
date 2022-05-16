@@ -1,7 +1,7 @@
 ---
 title: HOT à la recherche de collaborations passionnantes en matière de conférences
   pour 2022 !
-date: 2022-05-16 14:07:00 Z
+date: 2022-05-09 14:07:00 Z
 Summary Text: 'HOT cherche activement à collaborer et à soutenir des conférences qui
   rassemblent des communautés, des partenaires, des collaborateurs et des partisans,
   engagés et actifs dans la cartographie humanitaire ouverte, pour apprendre, partager
@@ -56,4 +56,4 @@ En outre, nous aimerions soutenir les événements régionaux situés dans une r
 
 N'oubliez pas que nos ressources sont limitées, ce qui signifie que nous avons également une limite au nombre d'événements avec lesquels nous pouvons collaborer et à ce que nous pouvons offrir. Bien que nous aimerions dire oui à toute collaboration qui apporte de la valeur à l'écosystème de la cartographie ouverte humanitaire, il se peut que nous ne puissions pas le faire !
 
-Bien que nous soyons extrêmement favorables à tout événement qui enrichit l'écosystème de la cartographie ouverte / OpenStreetMap, et en particulier aux événements organisés dans nos pays prioritaires, nous ne pouvons pas soutenir les mapathons, les sessions de formation ou les rencontres communautaires dans le cadre de cette initiative. Tout d'abord, parce que [l'objectif de l'expérience du sommet HOT 2022 distribué](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/) est de tester une manière différente d'atteindre les objectifs du sommet HOT, les événements que nous pouvons soutenir par ce biais doivent être des événements de type conférence. Deuxièmement, le soutien aux rencontres communautaires, aux mapathons et aux formations fait partie de notre travail quotidien et relève de la responsabilité de nos Open Mapping Hubs et de l'équipe communautaire de HOT (plutôt que du groupe de travail du sommet HOT). N'hésitez donc pas à nous contacter à tout moment pour discuter de votre événement !
+Bien que nous soyons extrêmement favorables à tout événement qui enrichit l'écosystème de la cartographie ouverte / OpenStreetMap, et en particulier aux événements organisés dans nos pays prioritaires, nous ne pouvons pas soutenir les mapathons, les sessions de formation ou les rencontres communautaires dans le cadre de cette initiative. Tout d'abord, parce que [l'objectif de l'expérience du HOT Summit 2022 distribué](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/) est de tester une manière différente d'atteindre les objectifs du sommet HOT, les événements que nous pouvons soutenir par ce biais doivent être des événements de type conférence. Deuxièmement, le soutien aux rencontres communautaires, aux mapathons et aux formations fait partie de notre travail quotidien et relève de la responsabilité de nos Open Mapping Hubs et de l'équipe communautaire de HOT (plutôt que du groupe de travail du sommet HOT). N'hésitez donc pas à nous contacter à tout moment pour discuter de votre événement !
