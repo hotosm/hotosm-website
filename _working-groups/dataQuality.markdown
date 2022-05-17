@@ -9,3 +9,5 @@ Details: https://docs.google.com/document/d/1sGJszOVd-ikVfAhTcfGj84F2fZRg-DlV55G
 ---
 
 The data quality working group is organized to investigate tools and workflows to improve data quality and mapper experience, in order to develop and recommend solutions to related validation challenges. Contact via the Slack #quality-control channel or via email [dataquality@hotosm.org](mailto:dataquality@hotosm.org).
+
+Visit the [Quality Control and Assurance WG OSM Wiki page](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Data_Quality_Control_and_Assurance) for more information.
