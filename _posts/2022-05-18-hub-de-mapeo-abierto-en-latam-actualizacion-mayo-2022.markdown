@@ -42,7 +42,7 @@ Las condiciones para estos proyectos fueron las siguientes:
 
 * Que dieran valor a las metas de la fase Alfa.
 
-* Que dieran valor a alguna necesidad local.
+* Que dieran valor a alguna necesidad local en sintonía con las áreas de trabajo de HOT.
 
 * Que pudieran ser ejecutados en 6 meses.
 
@@ -52,7 +52,7 @@ Las condiciones para estos proyectos fueron las siguientes:
 
 * Que cubrieran diferentes niveles de proyecto: proyectos de campo, apoyo regional general a proyectos comunitarios; o soporte a espacios abiertos de aprendizaje.
 
-Este proceso nos llevó los primeros meses del año, embarcando a 8 personas en diferentes roles y dando luz verde a varios proyectos. En un próximo artículo presentaremos a todas las personas que están formando parte de esta fase.
+Este proceso nos llevó los primeros meses del año, embarcando a 8 personas en diferentes roles y dando luz verde a varios proyectos. En un próximo artículo presentaremos a las personas que están formando parte de esta fase.
 
 ## **Proyectos**
 
