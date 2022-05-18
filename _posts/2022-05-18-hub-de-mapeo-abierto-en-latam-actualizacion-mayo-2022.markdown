@@ -22,7 +22,7 @@ Este esfuerzo y mandato fue el resultado de múltiples consultas y conversacione
 
 Hoy queremos hablar del progreso durante estos primeros meses del año y cómo la fase Alfa del Hub de LATAM se ha empezado a establecer como un actor más dentro del ecosistema con un objetivo claro: Entender mejor cómo apoyar el ecosistema en LATAM a través de proyectos y fortalecimiento de lazos entre comunidades, organizaciones y otros actores de la región.
 
-> ⭐️ En 4 meses hemos logrado ya:
+> ⭐️ En 4 meses hemos logrado:
 >
 > * Formar un equipo multidisciplinar con 8 personas de la región.
 >
