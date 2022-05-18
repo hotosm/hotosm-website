@@ -1,6 +1,14 @@
 ---
 title: La cartographie en situation de conflit
 date: 2022-05-09 16:19:00 Z
+categories:
+- news
+- community
+tags:
+- mapping
+- conflict
+- policy
+- ethical data
 Summary Text: 'Des événements et des expériences récentes, dont les événements survenus
   l''an dernier en Afghanistan et la guerre en Ukraine, ont incité HOT - et l''ensemble
   de la communauté de cartographie humanitaire - à réexaminer ce qui peut être fait
