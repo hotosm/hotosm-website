@@ -60,6 +60,8 @@ Debido a las limitaciones de tiempo, el propio equipo tuvo que tomar la decisió
 
 A futuro, creemos que este proceso debería evolucionar para que las propias comunidades y actores de la región puedan ser parte de la exploración y toma de decisiones, y es algo que creemos interesante probar y experimentar.
 
+![photo5478833623818938293.jpg](/uploads/photo5478833623818938293.jpg)
+
 **Proyectos de campo**
 
 * Apoyo metodológico y técnico a la organización local **Canoa de Tolda** (Brasil, cuenca del Sao Francisco) en la construcción y **uso de drones** para documentar y monitorear el riesgo de **inundación estacional**. Estado: Arrancando el proyecto y coordinando con todos los actores.
