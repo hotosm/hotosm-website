@@ -1,5 +1,5 @@
 ---
-title: La Cartographie en situations de Conflit
+title: La cartographie en situation de conflit
 date: 2022-05-09 16:19:00 Z
 Summary Text: 'Des événements et des expériences récentes, dont les événements survenus
   l''an dernier en Afghanistan et la guerre en Ukraine, ont incité HOT - et l''ensemble
