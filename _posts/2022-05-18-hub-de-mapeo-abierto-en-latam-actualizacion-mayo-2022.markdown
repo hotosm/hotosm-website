@@ -60,7 +60,7 @@ Debido a las limitaciones de tiempo, el propio equipo tuvo que tomar la decisió
 
 A futuro, creemos que este proceso debería evolucionar para que las propias comunidades y actores de la región puedan ser parte de la exploración y toma de decisiones, y es algo que creemos interesante probar y experimentar.
 
-![photo5478833623818938293.jpg](/uploads/photo5478833623818938293.jpg)
+![photo54.jpg](/uploads/photo54.jpg)
 
 **Proyectos de campo**
 
