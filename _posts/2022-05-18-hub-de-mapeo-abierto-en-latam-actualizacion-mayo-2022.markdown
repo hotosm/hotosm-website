@@ -40,7 +40,7 @@ Por ello, abrimos un proceso de contratación para el equipo con una definición
 
 Las condiciones para estos proyectos fueron las siguientes:
 
-* Que dieran valor a las metas de la fase Alfa.
+* Que dieran valor a las [metas](https://www.hotosm.org/updates/hub-de-mapeo-abierto-en-latam-actualizacion-diciembre-2021/) de la fase Alfa.
 
 * Que dieran valor a alguna necesidad local en sintonía con las áreas de trabajo de HOT.
 
