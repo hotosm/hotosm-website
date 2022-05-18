@@ -17,6 +17,7 @@ Person:
 - Paul Uithol
 - Jessica Pechmann
 - Ivan Buendía Gayton
+- Shazmane Mandjee Rehamtula
 Country:
 - Global
 - Afghanistan
