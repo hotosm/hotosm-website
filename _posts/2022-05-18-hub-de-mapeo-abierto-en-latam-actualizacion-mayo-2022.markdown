@@ -34,7 +34,7 @@ Hoy queremos hablar del progreso durante estos primeros meses del año y cómo l
 
 Uno de los primeros retos que nos planteamos fue: ¿Qué proyectos nos pueden ayudar a entender cómo sería un apoyo a largo plazo y qué personas necesitamos para llevarlos a cabo?
 
-Dado que la fase "alfa" se pensó con una duración de 6 meses, necesitábamos movernos rápido pero a la vez trabajar en áreas que fueran ya importantes para las comunidades locales.
+Dado que la fase "alfa" se pensó con una duración aproximada de 6 meses, necesitábamos movernos rápido pero a la vez trabajar en áreas que fueran ya importantes para las comunidades locales.
 
 Por ello, abrimos un proceso de contratación para el equipo con una definición muy abierta de las distintas habilidades y áreas de conocimiento que creíamos serían útiles. Mediante el proceso de entrevistas con los candidatos y las candidatas trabajamos en co-diseñar cuáles podrían ser estos proyectos iniciales que nos ayudaran a trabajar diferentes aspectos, y a poder formar una opinión sobre qué tipo de Hub es más efectivo para apoyar el mapeo abierto en América Latina.
 
@@ -44,7 +44,7 @@ Las condiciones para estos proyectos fueron las siguientes:
 
 * Que dieran valor a alguna necesidad local en sintonía con las áreas de trabajo de HOT.
 
-* Que pudieran ser ejecutados en 6 meses.
+* Que pudieran ser ejecutados en no más de 6 meses.
 
 * Que tuviéramos candidatos de la propia región con las habilidades para poderlos ejecutar.
 
