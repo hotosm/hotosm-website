@@ -1,13 +1,20 @@
 ---
 title: Hub de Mapeo Abierto en LATAM - Actualización mayo 2022
 date: 2022-05-18 14:53:00 Z
+categories:
+- community
+tags:
+- hub
+- latam
+- comunidad
+- mapeo abierto
 Summary Text: "*Compartimos una nueva actualización sobre cómo va progresando la fase
   Alfa del Hub de Mapeo Abierto en LATAM para encontrar formas de conectar los datos
   geoespaciales, los voluntarios del mapeo abierto y las comunidades que necesitan
   los datos y el mapeo para sus propios objetivos.*"
+Feature Image: "/uploads/hot_omh_latam_spanish_logo_rev_colour_with_tagline-2110x1176.jpeg"
+Person: Rubén Martín
 ---
-
-![hot_omh_latam_spanish_logo_rev_colour_with_tagline-2110x1176.jpeg](/uploads/hot_omh_latam_spanish_logo_rev_colour_with_tagline-2110x1176.jpeg)
 
 A principios de 2022, dimos comienzo a la [fase "Alfa"](https://www.hotosm.org/updates/hub-de-mapeo-abierto-en-latam-actualizacion-diciembre-2021/) para aprender y co-diseñar lo que un Hub de Mapeo Abierto al servicio de América Latina podría ser y hacer.
 
