@@ -1,9 +1,18 @@
 ---
 title: Open Mapping Hub in LATAM - May 2022 update
-date: 2022-05-19 14:21:00 Z
+date: 2022-05-18 14:54:00 Z
+categories:
+- community
+tags:
+- hub
+- latam
+- community
+- open mapping
 Summary Text: "*This is a new update on how the Alpha phase of the Open Mapping Hub
   in LATAM is finding ways to connect geospatial data, open mapping volunteers and
   communities that need data and mapping for their own purposes.*"
+Feature Image: "/uploads/hot_omh_latam_spanish_logo_rev_colour_with_tagline-2110x1176.jpeg"
+Person: Rubén Martín
 ---
 
 In early 2022, we started the ["Alpha" phase](https://www.hotosm.org/updates/open-mapping-hub-in-latam-december-2021-update/) to learn and co-design what an Open Mapping Hub serving Latin America could be and do.
@@ -50,6 +59,8 @@ Due to time constraints, the team itself had to make a decision about which proj
 
 In the future, we believe that this process should evolve so that the communities and actors of the region can be part of the exploration and decision-making, something that we believe is interesting to try and experience.
 
+![photo54.jpg](/uploads/photo54.jpg)
+
 **Field projects**
 
 * Methodological and technical support to the local organization Canoa de Tolda (Brazil, Sao Francisco basin) in the construction and **use of drones** to document and monitor the risk of **seasonal flooding**. Status: Starting the project and coordinating with all the actors.
@@ -58,7 +69,7 @@ In the future, we believe that this process should evolve so that the communitie
 
 **Exploration projects**
 
-- **Projects’ Seedbed**: Exploration and elaboration of ideas with groups that need to use data to defend a cause or build an action, but that are still not clear about how or at what stage to use data or mapping to reach its objectives. We want these groups to be able to go from need/problem space to designing a project that provides value to what they want to achieve through open cartographic data. Status: Exploration workshops are being held with different communities in the areas of Cusco, San Salvador (Peru), and Medellín (Colombia).
+* **Projects’ Seedbed**: Exploration and elaboration of ideas with groups that need to use data to defend a cause or build an action, but that are still not clear about how or at what stage to use data or mapping to reach its objectives. We want these groups to be able to go from need/problem space to designing a project that provides value to what they want to achieve through open cartographic data. Status: Exploration workshops are being held with different communities in the areas of Cusco, San Salvador (Peru), and Medellín (Colombia).
 
 **General Regional support**
 
