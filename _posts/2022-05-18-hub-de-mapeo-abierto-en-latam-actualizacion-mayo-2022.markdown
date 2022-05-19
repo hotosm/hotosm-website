@@ -84,7 +84,7 @@ A futuro, creemos que este proceso debería evolucionar para que las propias com
 
 Durante las próximas semanas iremos publicando artículos en este sitio con actualizaciones más detalladas de cada proyecto.
 
-**Próximos pasos**
+## **Próximos pasos**
 
 Durante los próximos meses, todos estos proyectos seguirán desarrollándose y documentando sus aprendizajes de forma regular. El resultado de estos aprendizajes será recopilado e informará una recomendación general en los próximos meses sobre qué características debería tener un Hub en LATAM para apoyar mejor a todos los actores, grupos y comunidades y una recomendación sobre cuáles deberían ser los siguientes pasos para los siguientes meses.
 
