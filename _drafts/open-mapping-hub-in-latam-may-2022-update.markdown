@@ -20,7 +20,7 @@ Today we want to talk about the progress during these first months of the year a
 >
 > * Support the needs of communities in Peru, Brazil, Guatemala, Ecuador, El Salvador, Honduras and Colombia.
 
-**What have we been doing?**
+## **What have we been doing?**
 
 One of the first challenges we set ourselves was: What projects can help us understand what long-term support would look like and what people do we need to carry them out?
 
@@ -44,7 +44,7 @@ The conditions for these projects were the following:
 
 This process took us the first months of the year, embarking 8 people on different roles and giving green light to several projects. In a future article we will introduce the people who are taking part in this phase.
 
-**Projects**
+## **Projects**
 
 Due to time constraints, the team itself had to make a decision about which projects to start and which ones, even though they have a lot of potential, would have to stay "in the backlog" to be re-evaluated once the full Hub is launched.
 
@@ -52,19 +52,13 @@ In the future, we believe that this process should evolve so that the communitie
 
 **Field projects**
 
-* Methodological and technical support to the local organization Canoa de Tolda (Brazil, Sao Francisco basin) in the construction and **use of drones** to document and monitor the risk of **seasonal flooding**.
+* Methodological and technical support to the local organization Canoa de Tolda (Brazil, Sao Francisco basin) in the construction and **use of drones** to document and monitor the risk of **seasonal flooding**. Status: Starting the project and coordinating with all the actors.
 
-**Status**: Starting the project and coordinating with all the actors.
-
-* Collaboration with UNDP's ACCLab, OSM Guatemala and potentially Youthmappers, to adapt a local **solid waste mapping** around the cities of Guatemala and Estanzuela.
-
-**Status**: Exploring the problems with local actors.
+* Collaboration with UNDP's ACCLab, OSM Guatemala and potentially Youthmappers, to adapt a local **solid waste mapping** around the cities of Guatemala and Estanzuela. Status: Exploring the problems with local actors.
 
 **Exploration projects**
 
-\*- \***Projects’ Seedbed**: Exploration and elaboration of ideas with groups that need to use data to defend a cause or build an action, but that are still not clear about how or at what stage to use data or mapping to reach its objectives. We want these groups to be able to go from need/problem space to designing a project that provides value to what they want to achieve through open cartographic data.
-
-**Status**: Exploration workshops are being held with different communities in the areas of Cusco, San Salvador (Peru), and Medellín (Colombia).
+- **Projects’ Seedbed**: Exploration and elaboration of ideas with groups that need to use data to defend a cause or build an action, but that are still not clear about how or at what stage to use data or mapping to reach its objectives. We want these groups to be able to go from need/problem space to designing a project that provides value to what they want to achieve through open cartographic data. Status: Exploration workshops are being held with different communities in the areas of Cusco, San Salvador (Peru), and Medellín (Colombia).
 
 **General Regional support**
 
@@ -78,7 +72,7 @@ In the future, we believe that this process should evolve so that the communitie
 
 Over the next few weeks we will be posting articles on this site with more detailed updates on each project.
 
-**Next Steps**
+## **Next Steps**
 
 Over the next few months, all of these projects will continue to develop and document their learnings on a regular basis. The result of these learnings will be compiled and will inform a general recommendation in the coming months on what characteristics a Hub in LATAM should have to better support all actors, groups and communities and a recommendation on what the next steps should be for the following months.
 
