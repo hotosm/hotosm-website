@@ -14,7 +14,7 @@ block-2:
     <br /><br />We envision a future where all people in Eastern and Southern Africa have the opportunity to contribute to and use open mapping processes and open data in their everyday lives.
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_ESA_English_Logo_REV_COLOUR.png"
-  Link: esa-hub
+  Link: https://stories.hotosm.org/esa-homepage/index.html
 block-3:
   Title: West & Northern Africa
   Text: "<strong>The Open Mapping Hub - West and Northern Africa </strong> engages
@@ -27,7 +27,7 @@ block-3:
     their own purposes.<br /><br />"
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_WNA_English_Logo_REV_COLOUR.png"
-  Link: wna-hub
+  Link: https://stories.hotosm.org/wna-homepage/index.html
 block-1:
   Title: Asia Pacific
   Text: "<strong>The Open Mapping Hub - Asia-Pacific</strong> is working to create
@@ -41,7 +41,7 @@ block-1:
     movement."
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png"
-  Link: asia-pacific-hub
+  Link: https://stories.hotosm.org/latam-homepage/index.html
 block-4:
   Title: LATAM Hub
   Text: "<strong>El Hub de mapeo abierto - América Latina</strong> se encuentra en
@@ -57,7 +57,7 @@ block-4:
     colaboración que luego el Hub podrá optimizar y sumar a sus propios modelos."
   Action-text: Learn More
   Image: https://cdn.hotosm.org/website/HOT_OMH_LATAM_Spanish_Logo_REV_COLOUR.png
-  Link: latam-hub
+  Link: https://stories.hotosm.org/latam-homepage/index.html
 layout: hubs
 ---
 
