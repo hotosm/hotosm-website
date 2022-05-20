@@ -15,9 +15,9 @@ Feature Image: "/uploads/hot_omh_latam_spanish_logo_rev_colour_with_tagline-2110
 Person: Rubén Martín
 ---
 
-In early 2022, we started the ["Alpha" phase](https://www.hotosm.org/updates/open-mapping-hub-in-latam-december-2021-update/) to learn and co-design what an Open Mapping Hub serving Latin America could be and do.
+In early 2022, we started an ["Alpha" phase](https://www.hotosm.org/updates/open-mapping-hub-in-latam-december-2021-update/) to learn and co-design what an Open Mapping Hub serving Latin America could be and do.
 
-This effort and mandate was the result of multiple consultations and conversations that took place with the open mapping communities in Latin America during the previous year, and for this reason we wanted to walk in the direction that the community itself had signaled us.
+This effort and mandate was the result of multiple consultations and conversations that took place with the open mapping communities in Latin America during the previous year, and for this reason we wanted to move in the direction that the community itself had signaled us.
 
 Today we want to talk about the progress during these first months of the year and how the Alpha phase of the LATAM Hub has begun to establish itself as an additional actor within the ecosystem with a clear objective: Better understand how to support the ecosystem in LATAM through projects and strengthening ties between communities, organizations and other actors in the region.
 
@@ -41,7 +41,7 @@ The conditions for these projects were the following:
 
 * Provide value to the [goals](https://www.hotosm.org/updates/open-mapping-hub-in-latam-december-2021-update/) of the Alpha phase.
 
-* Provide value to some local needs within HOT’s working areas.
+* Provide value to some local needs within HOT’s priority areas.
 
 * Could be executed in 6 months.
 
@@ -51,13 +51,13 @@ The conditions for these projects were the following:
 
 * Cover different project levels: field/focus projects, general regional support for community projects; or support for open learning spaces.
 
-This process took us the first months of the year, embarking 8 people on different roles and giving green light to several projects. In a future article we will introduce the people who are taking part in this phase.
+This process took us the first months of the year, taking the talents of 8 people in different roles and green lighting several projects. In a future article, we will introduce the people who are taking part in this phase.
 
 ## **Projects**
 
-Due to time constraints, the team itself had to make a decision about which projects to start and which ones, even though they have a lot of potential, would have to stay "in the backlog" to be re-evaluated once the full Hub is launched.
+Due to time constraints, the team itself had to make a decision about which projects to start and which ones, even though they have a lot of potential, will have to remain potential projects to be re-evaluated once the full Hub is launched.
 
-In the future, we believe that this process should evolve so that the communities and actors of the region can be part of the exploration and decision-making, something that we believe is interesting to try and experience.
+In the future, we believe that this process should evolve so that the communities and actors of the region can be part of the exploration and decision-making.
 
 ![photo54.jpg](/uploads/photo54.jpg)
 
@@ -85,6 +85,6 @@ Over the next few weeks we will be posting articles on this site with more detai
 
 ## **Next Steps**
 
-Over the next few months, all of these projects will continue to develop and document their learnings on a regular basis. The result of these learnings will be compiled and will inform a general recommendation in the coming months on what characteristics a Hub in LATAM should have to better support all actors, groups and communities and a recommendation on what the next steps should be for the following months.
+Over the next few months, all of these projects will continue to develop and document their learnings on a regular basis. The result of these learnings will be compiled and will inform a general recommendation in the coming months on what characteristics a Hub in LATAM should have to better support all actors, groups, and communities and a recommendation on what the next steps should be for the following months.
 
 Follow us on [Twitter](https://twitter.com/mapeoabierto_la) and [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/) or visit our [website](https://www.hotosm.org/hubs/latam-hub) to follow the evolution of this Alpha phase and how to get involved in the new stages of this process.
