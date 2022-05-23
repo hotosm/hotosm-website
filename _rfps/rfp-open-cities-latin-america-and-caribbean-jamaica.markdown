@@ -17,5 +17,5 @@ The technical proposal shall be presented electronically in Adobe PDF format, in
 
 The proposal consists in three parts: (a) Technical Proposal (b) Financial Proposal (c) Firm Qualification Questionnaire. Links to templates are available in the Terms of Reference.
 
-Application deadline is extended to October 4th 2021, 11.59pm (EST). Write to the email address [info@hotosm.org](info@hotosm.org).
+Application deadline is June 13th, 2022, 11.59pm (EST). Write to the email address [info@hotosm.org](info@hotosm.org).
 
