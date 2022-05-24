@@ -15,7 +15,7 @@ Impact Area:
 - Disaster Risk Reduction
 Partner:
 - Global Fund for Disaster Reduction and Recovery
-- Swiss Re
+- SWISS RE Foundation
 - World Bank
 Duration:
   Start Date: 2021-01-01 00:00:00 Z
