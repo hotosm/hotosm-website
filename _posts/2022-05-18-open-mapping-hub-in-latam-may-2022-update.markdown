@@ -1,6 +1,6 @@
 ---
 title: Open Mapping Hub in LATAM - May 2022 update
-date: 2022-05-18 14:54:00 Z
+date: 2022-05-18 14:55:00 Z
 categories:
 - community
 tags:
