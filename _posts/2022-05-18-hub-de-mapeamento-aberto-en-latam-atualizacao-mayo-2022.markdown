@@ -70,11 +70,11 @@ No futuro, acreditamos que esse processo deve evoluir para que as comunidades e 
 
 **Projetos exploração**
 
-\*- \***Semillero de proyetos (*Viveiro de projetos*)**: Exploração e elaboração de ideias com grupos que precisam usar dados para defender uma causa ou construir uma ação, mas que ainda não estão claros sobre como ou em que estágio usá-los ou mapear para atingir seus objetivos. Queremos que esses grupos possam ir da necessidade à concepção de um projeto que dê valor ao que eles desejam alcançar através de dados cartográficos abertos.**Situação**: Oficinas de exploração estão sendo realizadas com diferentes comunidades nas áreas de Cusco, San Salvador (Peru) e Medellín (Colômbia).
+\*- \***Semillero de proyectos (*Viveiro de projetos*)**: Exploração e elaboração de ideias com grupos que precisam usar dados para defender uma causa ou construir uma ação, mas que ainda não estão claros sobre como ou em que estágio usá-los ou mapear para atingir seus objetivos. Queremos que esses grupos possam ir da necessidade à concepção de um projeto que dê valor ao que eles desejam alcançar através de dados cartográficos abertos.**Situação**: Oficinas de exploração estão sendo realizadas com diferentes comunidades nas áreas de Cusco, San Salvador (Peru) e Medellín (Colômbia).
 
-**General Regional**
+**Apoio Regional Geral**
 
-* **General Community Support in LATAM**: Estabelecer conversas e explorar as necessidades das diferentes comunidades, bem como identificar oportunidades de apoio e conectar diversas comunidades e grupos de diferentes países.
+* **Suporte geral da comunidade na América Latina**: Estabelecer conversas e explorar as necessidades das diferentes comunidades, bem como identificar oportunidades de apoio e conectar diversas comunidades e grupos de diferentes países.
 
 * **Equador**: Colaboração estratégica com OpenLabEc em treinamentos para fortalecer a comunidade de mapeamento livre.
 
