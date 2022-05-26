@@ -6,6 +6,7 @@ Member Type:
   Is Staff: true
 Job Title: Corporate Virtual Volunteering Sr. Associate
 Country: Germany, Hamburg
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Nicolelaine
 ---
