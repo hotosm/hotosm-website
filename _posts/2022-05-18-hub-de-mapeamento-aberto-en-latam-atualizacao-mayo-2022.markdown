@@ -1,5 +1,5 @@
 ---
-title: Hub de Mapeamento Aberto en LATAM - Atualização mayo 2022
+title: Hub de Mapeamento Aberto em LATAM - Atualização maio 2022
 date: 2022-05-18 14:54:00 Z
 categories:
 - community
