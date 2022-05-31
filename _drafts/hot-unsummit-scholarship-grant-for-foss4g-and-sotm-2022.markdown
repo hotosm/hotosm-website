@@ -78,7 +78,7 @@ All data will be held confidential and only used for assessing HOT unSummit scho
 **Deadline of Application:** June 15, 2022
 **Notification of results:** June 20, 2022
 
-*Applications will be evaluated on a rolling basis as received.
+Applications will be evaluated on a rolling basis as received.
 
 ### Tips for completing your application:
 * Be clear and concise
