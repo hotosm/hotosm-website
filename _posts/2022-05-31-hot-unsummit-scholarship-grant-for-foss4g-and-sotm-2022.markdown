@@ -51,7 +51,7 @@ Applicants who meet the eligibility requirements will go through the next round 
 
 * Submitted and accepted talks
 * * Applicant has an accepted talk at SOTM or FOSS4G receive 2 points
-* * Applicant submitted a talk or plans to speak in a lightning talk or self-organized * * session receive 1 point
+* * Applicant submitted a talk or plans to speak in a lightning talk or self-organized session receive 1 point
 
 * First SotM / FOSS4G
 * * Applicant attending either SotM or FOSS4G or both for the first time receive 1 point
