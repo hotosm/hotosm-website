@@ -35,7 +35,7 @@ To be eligible, applicants must meet these two factors:
 * The applicant actively contributes to and participates* in HOT / humanitarian open mapping / open data community. They/she/he is one or more of the following:
 * * is an active member of Open Mapping Community from [HOT’s priority countries](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries)
 * * is a [HOT Working Group](https://www.hotosm.org/community/working-groups/) member
-* * is a HOT mapper / trainer / validator (e.g. part of the HOT Validators Team)
+* * is a HOT mapper / trainer / validator (e.g. part of the HOT Validators Team / Validator Trainee)
 * * is a [HOT Voting Member](https://www.hotosm.org/voting-members)
 
 **includes map edits and non-map edits (e.g. organizing training / mapathon / events, documenting in the wiki, developing apps, mentoring and community building, etc.)*
