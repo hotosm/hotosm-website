@@ -41,7 +41,7 @@ block-1:
     movement."
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png"
-  Link: https://stories.hotosm.org/latam-homepage/index.html
+  Link: https://stories.hotosm.org/ap-homepage/index.html
 block-4:
   Title: LATAM Hub
   Text: "<strong>El Hub de mapeo abierto - América Latina</strong> se encuentra en
