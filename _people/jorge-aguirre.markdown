@@ -6,6 +6,7 @@ Member Type:
   Is Staff: true
 Job Title: Field Mapping projects Coordinator
 Team: LATAM Alpha Stage Contractors
+Hub: LATAM Alpha
 ---
 
 I am from Guatemala, where I've lived in for most of my life. I have also resided in the USA where I learned to speak English & went to school. I enjoy editing on OSM, which I have been doing since 2015, and now try to teach others how to map correctly. I had already heard of HOT before and had contributed with it in several different forms. Now I am excited to be a part of it.
