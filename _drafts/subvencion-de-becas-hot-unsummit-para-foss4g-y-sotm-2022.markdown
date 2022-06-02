@@ -7,3 +7,4 @@ Summary Text: HOT unSummit está ofreciendo fondos de viaje para colaboradores h
   ya!
 ---
 
+Este 2022, el HOT unSummit tiene como objetivo desarrollar colaboraciones y asociaciones con comunidades, organizaciones y redes que organizan conferencias. Puedes leer más sobre el enfoque del Summit HOT 2022/2023 [aquí](https://www.hotosm.org/updates/hot-summit-un-nuevo-y-emocionante-enfoque-para-2022-y-2023/).
