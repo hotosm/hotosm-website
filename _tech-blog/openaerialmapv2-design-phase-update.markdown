@@ -2,7 +2,6 @@
 title: OpenAerialMapv2 - Design Phase Update
 date: 2022-06-02 11:56:00 Z
 published: false
-Feature Image: "/uploads/OAM%20project%20process-a18a47.png"
 Person: Cristiano Giovando
 Tool:
 - OpenAerialMap
