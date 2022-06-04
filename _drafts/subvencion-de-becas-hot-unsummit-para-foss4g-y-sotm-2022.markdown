@@ -72,3 +72,15 @@ Los solicitantes que cumplan con los requisitos de elegibilidad pasarán por la 
 -- La declaración de motivación del solicitante (detalles de las contribuciones y la participación, así como también cómo su asistencia beneficiará a su comunidad local/comunidad humanitaria de mapeo abierto) puede recibir 1 o 2 puntos
 
 Además, la financiación existente (por ejemplo, de las subvenciones para viajes SOTM o FOSS4G) seguirá considerándose en función de la necesidad y la disponibilidad del presupuesto.
+
+Proceso de revisión
+
+Cada solicitud será revisada por 3 personas según la elegibilidad y los criterios adicionales y calificará cada criterio según el sistema de puntos anterior.
+
+Las solicitudes se enviarán a los revisores con los campos de nombre y correo electrónico eliminados para evitar sesgos.
+
+Pago
+
+El Comité de Becas será responsable de la compra de boletos de avión, seguro de viaje, alojamiento y boletos para la conferencia.Los becarios serán responsables de tramitar las visas requeridas y otros gastos (por ejemplo, transporte local, pruebas PCR, etc.).Estos costos podrán ser reembolsables en efectivo o por medios electrónicos.
+
+Solicitud
