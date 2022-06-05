@@ -35,13 +35,13 @@ Para ser elegible, los solicitantes deben cumplir con estos dos factores:
 
 - El solicitante contribuye activamente y participa\* en La comunidad de HOT / mapeo abierto humanitario / datos abiertos. Ellos/ella/él es uno o más de los siguientes:
 
--- es un miembro activo de la comunidad de mapeo abierto de los países prioritarios para HOT
+-- es un miembro activo de la comunidad de mapeo abierto de los [países prioritarios para HOT](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries)
 
--- es miembro de un grupo de trabajo de HOT
+-- es [miembro de un grupo de trabajo de HOT](https://www.hotosm.org/community/working-groups/)
 
 -- es un mapeador / entrenador / validador HOT (por ejemplo, parte del equipo de validadores HOT)
 
--- Es miembro de HOT con derecho a voto
+-- Es [miembro de HOT con derecho a voto](https://www.hotosm.org/voting-members)
 
 \*incluye ediciones de mapas y ediciones que no son de mapas (p. ej., organización de capacitaciones/mapatones/eventos, documentación en la wiki, desarrollo de aplicaciones, tutoría y creación de comunidades, etc.)
 
@@ -93,7 +93,7 @@ Todos los datos se mantendrán de forma confidencial y solo se utilizarán para 
 
 Las solicitudes se evaluarán de forma continua a medida que se reciban.
 
-Consejos para completar su solicitud:
+**Consejos para completar su solicitud:**
 
 - Se claro y conciso.
 
@@ -101,7 +101,7 @@ Consejos para completar su solicitud:
 
 - Indica claramente el nivel de apoyo requerido (por ejemplo, apoyo para viaje aéreo, apoyo para alojamiento, apoyo para visa, apoyo para prueba PCR, etc.).Tenemos recursos limitados y esto nos ayudará a maximizar estos fondos
 
-- Evaluaremos las solicitudes en inglés. Los solicitantes pueden utilizar su software de traducción preferido según sea necesario para traducir su solicitud al inglés. Alternativamente, el Comité de Becas también aceptará solicitudes en otros idiomas y utilizará DeepL y/o Google Translate para traducir su solicitud al inglés.** La fluidez en inglés NO es un criterio para la evaluación de la financiación.**
+- Evaluaremos las solicitudes en inglés. Los solicitantes pueden utilizar su software de traducción preferido según sea necesario para traducir su solicitud al inglés. Alternativamente, el Comité de Becas también aceptará solicitudes en otros idiomas y utilizará [DeepL](https://www.deepl.com/translator) y/o [Google Translate](https://translate.google.com/) para traducir su solicitud al inglés.** La fluidez en inglés NO es un criterio para la evaluación de la financiación.**
 
 Beca de Apoyo a la Asistencia en Línea
 
