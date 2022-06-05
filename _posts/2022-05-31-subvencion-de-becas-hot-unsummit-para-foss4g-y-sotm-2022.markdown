@@ -105,12 +105,12 @@ Las solicitudes se evaluarán de forma continua a medida que se reciban.
 
 * Indica claramente el nivel de apoyo requerido (por ejemplo, apoyo para viaje aéreo, apoyo para alojamiento, apoyo para visa, apoyo para prueba PCR, etc.).Tenemos recursos limitados y esto nos ayudará a maximizar estos fondos
 
-* Evaluaremos las solicitudes en inglés. Los solicitantes pueden utilizar su software de traducción preferido según sea necesario para traducir su solicitud al inglés. Alternativamente, el Comité de Becas también aceptará solicitudes en otros idiomas y utilizará [DeepL](https://www.deepl.com/translator) y/o [Google Translate](https://translate.google.com/) para traducir su solicitud al inglés.** La fluidez en inglés NO es un criterio para la evaluación de la financiación.**
+* Evaluaremos las solicitudes en inglés. Los solicitantes pueden utilizar su software de traducción preferido según sea necesario para traducir su solicitud al inglés. Alternativamente, el Comité de Becas también aceptará solicitudes en otros idiomas y utilizará [DeepL](https://www.deepl.com/translator) y/o [Google Translate](https://translate.google.com/) para traducir su solicitud al inglés. **La fluidez en inglés NO es un criterio para la evaluación de la financiación.**
 
-* Beca de Apoyo a la Asistencia en Línea
+# Beca de Apoyo a la Asistencia en Línea
 
 Dependiendo de la disponibilidad de presupuesto, podemos publicar otra convocatoria de becas de apoyo a la asistencia en línea en julio o agosto para cubrir la asignación de Internet y las entradas para conferencias para los académicos que deseen asistir virtualmente.
 
-* ¿Preguntas?
+# ¿Preguntas?
 
 Si tienes alguna pregunta relacionada con tu solicitud, comunícate con [scholarship@hotosm.org](mailto:summit@hotosm.org).
