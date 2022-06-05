@@ -84,3 +84,17 @@ Pago
 El Comité de Becas será responsable de la compra de boletos de avión, seguro de viaje, alojamiento y boletos para la conferencia.Los becarios serán responsables de tramitar las visas requeridas y otros gastos (por ejemplo, transporte local, pruebas PCR, etc.).Estos costos podrán ser reembolsables en efectivo o por medios electrónicos.
 
 Solicitud
+
+**¡Solicita ahora apoyo de viaje para asistir a SOTM o FOSS4G en Firenze, Italia en agosto de 2022!**
+
+Todos los datos se mantendrán de forma confidencial y solo se utilizarán para evaluar las solicitudes de becas HOT unSummit. Asegúrate de que la dirección de correo electrónico que proporciones esté funcionando y sea monitoreada regularmente.
+
+**Fecha límite de aplicación**: 15 de junio de 2022. **Notificación de resultados**: 20 de junio de 2022.
+
+Las solicitudes se evaluarán de forma continua a medida que se reciban.
+
+Consejos para completar su solicitud:
+
+- Se claro y conciso.
+
+- Identifica cualquier otro apoyo de viaje confirmado o esperado, es decir, que has solicitado una subvención de viaje a través de otra organización y esperas saber los resultados para x fecha
