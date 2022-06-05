@@ -1,10 +1,14 @@
 ---
 title: Subvención de becas HOT unSummit para FOSS4G y SotM 2022
-date: 2022-06-02 13:04:00 Z
+date: 2022-05-31 12:19:00 Z
 Summary Text: HOT unSummit está ofreciendo fondos de viaje para colaboradores humanitarios
   de mapeo abierto / datos abiertos y miembros de la comunidad HOT activos para asistir
   a dos de las conferencias que estamos apoyando, FOSS4G y SOTM 2022. ¡Preséntate
   ya!
+Feature Image: "/uploads/51490564400_99fd58725d_k-f3dc57.jpg"
+Person: unSummit Scholarships Committee
+Working Group:
+- HOT Summit
 ---
 
 Este 2022, el HOT unSummit tiene como objetivo desarrollar colaboraciones y asociaciones con comunidades, organizaciones y redes que organizan conferencias. Puedes leer más sobre el enfoque del Summit HOT 2022/2023 [aquí](https://www.hotosm.org/updates/hot-summit-un-nuevo-y-emocionante-enfoque-para-2022-y-2023/).
