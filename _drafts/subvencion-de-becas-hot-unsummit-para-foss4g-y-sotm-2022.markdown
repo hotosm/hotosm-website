@@ -98,3 +98,15 @@ Consejos para completar su solicitud:
 - Se claro y conciso.
 
 - Identifica cualquier otro apoyo de viaje confirmado o esperado, es decir, que has solicitado una subvención de viaje a través de otra organización y esperas saber los resultados para x fecha
+
+- Indica claramente el nivel de apoyo requerido (por ejemplo, apoyo para viaje aéreo, apoyo para alojamiento, apoyo para visa, apoyo para prueba PCR, etc.).Tenemos recursos limitados y esto nos ayudará a maximizar estos fondos
+
+- Evaluaremos las solicitudes en inglés. Los solicitantes pueden utilizar su software de traducción preferido según sea necesario para traducir su solicitud al inglés. Alternativamente, el Comité de Becas también aceptará solicitudes en otros idiomas y utilizará DeepL y/o Google Translate para traducir su solicitud al inglés.** La fluidez en inglés NO es un criterio para la evaluación de la financiación.**
+
+Beca de Apoyo a la Asistencia en Línea
+
+Dependiendo de la disponibilidad de presupuesto, podemos publicar otra convocatoria de becas de apoyo a la asistencia en línea en julio o agosto para cubrir la asignación de Internet y las entradas para conferencias para los académicos que deseen asistir virtualmente.
+
+¿Preguntas?
+
+Si tienes alguna pregunta relacionada con tu solicitud, comunícate con beca@hotosm.org.
