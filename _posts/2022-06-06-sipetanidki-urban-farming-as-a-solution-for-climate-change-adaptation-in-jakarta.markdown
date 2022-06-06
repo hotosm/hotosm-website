@@ -2,8 +2,12 @@
 title: 'SiPetaniDKI: Urban Farming as a solution for climate change adaptation in
   Jakarta.'
 date: 2022-06-06 06:45:00 Z
-Summary Text: "Originally published in IDN Times: https://jateng.idntimes.com/news/indonesia/dhana-kencana-1/sipetani-solusi-urban-farming-dan-adaptasi-perubahan-iklim-warga-dki/full
-  \n\nWritten by Dhana Kencana\nTranslated by Adhitya Dido"
+Summary Text: |-
+  Originally published in [IDN Times](https://jateng.idntimes.com/news/indonesia/dhana-kencana-1/sipetani-solusi-urban-farming-dan-adaptasi-perubahan-iklim-warga-dki/full)
+
+  Written by Dhana Kencana
+
+  Translated by Adhitya Dido
 Feature Image: "/uploads/7.png"
 Person:
 - Dhana Kencana
@@ -11,14 +15,13 @@ Person:
 Field name: 
 ---
 
-Originally published in IDN Times: https://jateng.idntimes.com/news/indonesia/dhana-kencana-1/sipetani-solusi-urban-farming-dan-adaptasi-perubahan-iklim-warga-dki/full 
+Originally published in [IDN Times](https://jateng.idntimes.com/news/indonesia/dhana-kencana-1/sipetani-solusi-urban-farming-dan-adaptasi-perubahan-iklim-warga-dki/full): 
 
 ![1-c14c6b.png](/uploads/1-c14c6b.png)
 
 Overpopulation is a problem Jakarta faces as one of the biggest cities in Indonesia. People are increasingly attracted to the capital city of the nation because of its economic opportunities.
 
 This phenomenon not only affects people, but also the environment. The city has many open spaces converted into houses, offices, and more. It also suffers from pollution caused by people's garbage.
-
 The increasing population has a negative impact on food production and can lead to a food crisis. A short-term solution is to depend on food imports from other cities.
 
 In addition, there is another problem: the quality of food (e.g. vegetables and fruits) is suffering because of the distance between cities. Carbon emissions from the vehicles that deliver food are also a concern.
@@ -45,8 +48,7 @@ Urban farming has been part of Utari's life since she was young, and the habit h
 
 Aside from helping big cities to cut down on pollution, urban farming also plays a crucial role in adapting to climate change. It will eventually reduce CO2 rates in the air if it becomes more widespread, and more green open space will be created. In addition, urban air quality could be positively impacted urban farming.  
 
-## **Plants become a very expensive thing 
-**## 
+## **Plants become a very expensive thing**## 
 
 Urban farming also encourages people to reuse organic waste, which could assist the city in reducing its volume of waste, especially household waste.
 
@@ -86,6 +88,7 @@ SiPetaniDKI originally distributed the seeds in person. t. As part of the proces
 With the movement restrictions during the Covid-19 pandemic, DKPKP needed to change its service and take all of its activities online. This happened in collaboration with Perkumpulan OpenStreetMap Indonesia (POI). 
 
 POI is a local entity that was formerly the Indonesian office of the Humanitarian OpenStreetMap Team (HOT), a non-profit organization that focuses on humanitarian and capacity development through the use of the open mapping platform, OpenStreetMap. OpenStreetMap is a free and open-mapping platform that allows all users to map, edit, and get data for free. 
+
 ![6.png](/uploads/6.png)
 
 POI has developed a free, open-source, and crowdsourced website using the platform Ushahidi. Their website has become a platform where people can share information about their urban farming activities in Jakarta. All of this data is based on location, so people can use it when they need to order seeds. 
