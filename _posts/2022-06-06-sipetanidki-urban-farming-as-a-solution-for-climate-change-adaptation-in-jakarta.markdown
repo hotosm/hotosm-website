@@ -2,12 +2,7 @@
 title: 'SiPetaniDKI: Urban Farming as a solution for climate change adaptation in
   Jakarta.'
 date: 2022-06-06 06:45:00 Z
-Summary Text: |-
-  Originally published in [IDN Times](https://jateng.idntimes.com/news/indonesia/dhana-kencana-1/sipetani-solusi-urban-farming-dan-adaptasi-perubahan-iklim-warga-dki/full)
-
-  Written by Dhana Kencana
-
-  Translated by Adhitya Dido
+Summary Text: Originally published in [IDN Times](https://jateng.idntimes.com/news/indonesia/dhana-kencana-1/sipetani-solusi-urban-farming-dan-adaptasi-perubahan-iklim-warga-dki/full)
 Feature Image: "/uploads/7.png"
 Person:
 - Dhana Kencana
@@ -15,7 +10,10 @@ Person:
 Field name: 
 ---
 
-Originally published in [IDN Times](https://jateng.idntimes.com/news/indonesia/dhana-kencana-1/sipetani-solusi-urban-farming-dan-adaptasi-perubahan-iklim-warga-dki/full): 
+Originally published in [IDN Times](https://jateng.idntimes.com/news/indonesia/dhana-kencana-1/sipetani-solusi-urban-farming-dan-adaptasi-perubahan-iklim-warga-dki/full)
+
+Written by Dhana Kencana
+Translated by Adhitya Dido
 
 ![1-c14c6b.png](/uploads/1-c14c6b.png)
 
