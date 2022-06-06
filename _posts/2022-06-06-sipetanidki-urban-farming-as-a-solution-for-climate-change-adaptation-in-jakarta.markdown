@@ -2,7 +2,6 @@
 title: 'SiPetaniDKI: Urban Farming as a solution for climate change adaptation in
   Jakarta.'
 date: 2022-06-06 06:45:00 Z
-Summary Text: Originally published in [IDN Times](https://jateng.idntimes.com/news/indonesia/dhana-kencana-1/sipetani-solusi-urban-farming-dan-adaptasi-perubahan-iklim-warga-dki/full)
 Feature Image: "/uploads/7.png"
 Person:
 - Dhana Kencana
@@ -20,6 +19,7 @@ Translated by Adhitya Dido
 Overpopulation is a problem Jakarta faces as one of the biggest cities in Indonesia. People are increasingly attracted to the capital city of the nation because of its economic opportunities.
 
 This phenomenon not only affects people, but also the environment. The city has many open spaces converted into houses, offices, and more. It also suffers from pollution caused by people's garbage.
+
 The increasing population has a negative impact on food production and can lead to a food crisis. A short-term solution is to depend on food imports from other cities.
 
 In addition, there is another problem: the quality of food (e.g. vegetables and fruits) is suffering because of the distance between cities. Carbon emissions from the vehicles that deliver food are also a concern.
