@@ -44,17 +44,9 @@ block-1:
   Link: https://stories.hotosm.org/ap-homepage/index.html
 block-4:
   Title: LATAM Hub
-  Text: "<strong>El Hub de mapeo abierto - América Latina</strong> se encuentra en
-    la “Fase Alpha” ¿Qué es esto? Es una etapa previa en la cual estamos diseñando
-    y probando actividades que, no sólo aporten valor a la gente, sino que también
-    ayuden a HOT, las comunidades y otros actores del mapeo abierto de la región a
-    colaborar juntos y así co-diseñar lo que un Hub de Mapeo Abierto al servicio de
-    diecinueve países de América Latina podría ser y hacer.<br /><br /> Esperamos
-    en el futuro inmediato pasarle la antorcha al Hub y entregarle una sólida red
-    de relaciones a distinto nivel en toda la región, un grupo de proyectos realizados
-    o en ejecución que demuestren el valor que puede aportar el Hub a las comunidades,
-    y por ende una creciente reputación positiva. También unos modelos probados de
-    colaboración que luego el Hub podrá optimizar y sumar a sus propios modelos."
+  Text: |-
+    <strong>El Hub de mapeo abierto - América Latina</strong> se encuentra en la “Fase Alpha” ¿Qué es esto? Es una etapa previa en la cual estamos diseñando y probando actividades que, no sólo aporten valor a la gente, sino que también ayuden a HOT, las comunidades y otros actores del mapeo abierto de la región a colaborar juntos y así co-diseñar lo que un Hub de Mapeo Abierto al servicio de diecinueve países de América Latina podría ser y hacer.<br /><br /> Esperamos en el futuro inmediato pasarle la antorcha al Hub y entregarle una sólida red de relaciones a distinto nivel en toda la región, un grupo de proyectos realizados o en ejecución que demuestren el valor que puede aportar el Hub a las comunidades, y por ende una creciente reputación positiva. También unos modelos probados de colaboración que luego el Hub podrá optimizar y sumar a sus propios modelos.<br /><br />
+    <a href="https://stories.hotosm.org/latam-homepage-portugues/index.html">Em português</a>.
   Action-text: Learn More
   Image: https://cdn.hotosm.org/website/HOT_OMH_LATAM_Spanish_Logo_REV_COLOUR.png
   Link: https://stories.hotosm.org/latam-homepage/index.html
