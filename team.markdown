@@ -15,7 +15,7 @@ hubs:
 - Asia Pacific Hub
 - Eastern and Southern Africa Hub
 - West and Northern Africa Hub
-- 'Collaborators of the Alpha stage - Latam Hub'
+- Collaborators of the Alpha stage - Latam Hub
 layout: roster-staff
 ---
 

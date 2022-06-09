@@ -5,7 +5,7 @@ Photo: "/uploads/marina%20chevening%20bio%20profile%20photo.jpeg"
 Member Type:
   Is Staff: true
 Job Title: Project Manager
-Team: 'Collaborators of the Alpha stage - Latam Hub'
+Team: Collaborators of the Alpha stage - Latam Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/marinaaragao
 ---
