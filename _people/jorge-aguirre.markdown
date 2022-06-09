@@ -5,7 +5,7 @@ Photo: "/uploads/IMG_2431.jpg"
 Member Type:
   Is Staff: true
 Job Title: Field Mapping projects Coordinator
-Team: LATAM Alpha
+Team: 'Collaborators of the Alpha stage - Latam Hub'
 Hub: LATAM Alpha
 ---
 
