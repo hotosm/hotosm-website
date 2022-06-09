@@ -46,7 +46,7 @@ Applicants who meet the eligibility requirements will go through the next round 
 
 * Minority and underrepresented groups - we aim to increase diverse participation of humanitarian open mapping community:
 * * Applicant is from HOT’s priority countries receive 1 point
-* * Applicant is a woman/LGBTQ / part of other minority groups receive 2 points
+* * Applicant is a woman/LGBTQ / part of other minority groups receive 1 point
 * * Applicant is a student receive 1 point
 
 * Submitted and accepted talks
@@ -57,7 +57,7 @@ Applicants who meet the eligibility requirements will go through the next round 
 * * Applicant attending either SotM or FOSS4G or both for the first time receive 1 point
 
 * Motivation statement
-* * Applicant’s motivation statement (details of contributions and participation as well as how their attendance will benefit their local community / humanitarian open mapping community) may receive 1 or 2 points 
+* * Applicant’s motivation statement (details of contributions and participation as well as how their attendance will benefit their local community / humanitarian open mapping community) may receive 0 to 3 points 
 
 In addition, existing funding (for example, from SOTM or FOSS4G travel grants) will still be considered based on the need and availability of budget.
 
