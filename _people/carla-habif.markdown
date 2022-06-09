@@ -5,7 +5,8 @@ Photo: "/uploads/photo-293218.JPG"
 Member Type:
   Is Staff: true
 Job Title: Community Services Associate
-Team: Global
+Team: 'Collaborators Alpha stage - Latam Hub (experimental period prior to the creation
+  of HOT Hub in Latin America)'
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Carla%20Habif
 ---

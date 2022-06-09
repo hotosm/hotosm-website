@@ -5,7 +5,7 @@ Photo: "/uploads/Clipboard02.jpg"
 Member Type:
   Is Staff: true
 Job Title: Communications and Community Specialist
-Team: '"Collaborators Alpha stage - Latam Hub" (experimental period prior to the creation
+Team: 'Collaborators Alpha stage - Latam Hub (experimental period prior to the creation
   of HOT Hub in Latin America)'
 ---
 
