@@ -5,7 +5,8 @@ Photo: "/uploads/Clipboard02.jpg"
 Member Type:
   Is Staff: true
 Job Title: Communications and Community Specialist
-Team: Collaborators of the Alpha stage - Latam Hub
+Team: '"Collaborators Alpha stage - Latam Hub" (experimental period prior to the creation of HOT Hub in Latin America)'
+
 ---
 
 Juan is a former mainframe programmer who worked for 12 years in systems development in COBOL and RPGII. Later he served in various positions in the peruvian public administration, reaching the managerial level. After several years dedicated to a family business, with some friends created Blogsperu.com, the first blogs directory in Peru. He then becomes part of Global Voices, an international community of bloggers, journalists, and activists, where he was in charge of the Spanish version of the web, for what he built a team of volunteer translators and made various strategic alliances with other organizations. 
