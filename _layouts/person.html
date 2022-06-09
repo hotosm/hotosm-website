@@ -19,7 +19,7 @@ layout: default
         <div class="person-indentity">
           <div class="person-name"><h1 class="boxed">{{ page.title }}</h1></div>
           <p class="person-type">
-            {% if page['Member Type'] %}<span class="person-member-type">{% if page['Member Type']['Is Staff'] %}<a href="/team">Staff</a>{% endif %}{% if page['Member Type']['Is Voting Member'] %}<a href="/voting-members">Voting Member</a>{% endif %}{% if page['Member Type']['Is Board Member'] %}<a href="/board">Board</a>{% endif %}</span>{% endif %}{% if page['Job Title'] %}<span class="person-title">{{ page['Job Title'] }}</span>{% endif %}
+            {% if page['Member Type'] %}<span class="person-member-type">{% if page['Member Type']['Is Staff'] %}<a href="/staff">Staff</a>{% endif %}{% if page['Member Type']['Is Voting Member'] %}<a href="/voting-members">Voting Member</a>{% endif %}{% if page['Member Type']['Is Board Member'] %}<a href="/board">Board</a>{% endif %}</span>{% endif %}{% if page['Job Title'] %}<span class="person-title">{{ page['Job Title'] }}</span>{% endif %}
           </p>
         </div>
       </div>
