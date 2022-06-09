@@ -45,7 +45,7 @@ Les candidats qui remplissent les conditions d'admissibilité passeront au tour 
 
 * Minorités et groupes sous-représentés - nous visons à accroître la participation diversifiée de la communauté de la cartographie ouverte humanitaire :
 * * Le candidat est originaire des [pays prioritaires de HOT](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries) reçoit 1 point.
-* * Le candidat est une femme/LGBTQ/appartenant à d'autres groupes minoritaires reçoit 2 points.
+* * Le candidat est une femme/LGBTQ/appartenant à d'autres groupes minoritaires reçoit 1 point.
 * * Le demandeur est un étudiant reçoit 1 point
 
 * Exposés soumis et acceptés
@@ -56,7 +56,7 @@ Les candidats qui remplissent les conditions d'admissibilité passeront au tour 
 * * Les candidats qui participent à la SotM ou à FOSS4G ou aux deux pour la première fois reçoivent 1 point.
 
 * Déclaration de motivation
-* * La déclaration de motivation du candidat (détails des contributions et de la participation ainsi que de la manière dont sa participation bénéficiera à sa communauté locale / à la communauté de la cartographie ouverte humanitaire) peut recevoir 1 ou 2 points. 
+* * La déclaration de motivation du candidat (détails des contributions et de la participation ainsi que de la manière dont sa participation bénéficiera à sa communauté locale / à la communauté de la cartographie ouverte humanitaire) peut recevoir 0 à 3 points.
 
 En outre, les financements existants (par exemple, les subventions de voyage SOTM ou FOSS4G) seront toujours pris en compte en fonction des besoins et de la disponibilité du budget.
 
