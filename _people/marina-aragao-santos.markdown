@@ -5,8 +5,8 @@ Photo: "/uploads/marina%20chevening%20bio%20profile%20photo.jpeg"
 Member Type:
   Is Staff: true
 Job Title: Project Manager
-Team: 'Collaborators Alpha stage - Latam Hub (experimental period prior to the creation
-  of HOT Hub in Latin America)'
+Team: Collaborators Alpha stage - Latam Hub (experimental period prior to the creation
+  of HOT Hub in Latin America)
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/marinaaragao
 ---

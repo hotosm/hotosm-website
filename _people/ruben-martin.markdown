@@ -9,8 +9,8 @@ Languages:
 - English
 - Español
 Country: Spain
-Team: 'Collaborators Alpha stage - Latam Hub (experimental period prior to the creation
-  of HOT Hub in Latin America)'
+Team: Collaborators Alpha stage - Latam Hub (experimental period prior to the creation
+  of HOT Hub in Latin America)
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/nukeador
   Twitter: https://twitter.com/nukeador
