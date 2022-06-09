@@ -57,7 +57,7 @@ Los solicitantes que cumplan con los requisitos de elegibilidad pasarán por la 
 
 * * El solicitante es de los países prioritarios de HOT, recibe 1 punto
 
-* * El solicitante es una mujer/LGBTQ/parte de otros grupos minoritarios, recibe 2 puntos
+* * El solicitante es una mujer/LGBTQ/parte de otros grupos minoritarios, recibe 1 punto
 
 * * El solicitante es un estudiante, recibe 1 punto
 
@@ -73,7 +73,7 @@ Los solicitantes que cumplan con los requisitos de elegibilidad pasarán por la 
 
 * Declaración de motivación
 
-* * La declaración de motivación del solicitante (detalles de las contribuciones y la participación, así como también cómo su asistencia beneficiará a su comunidad local/comunidad humanitaria de mapeo abierto) puede recibir 1 o 2 puntos
+* * La declaración de motivación del solicitante (detalles de las contribuciones y la participación, así como también cómo su asistencia beneficiará a su comunidad local/comunidad humanitaria de mapeo abierto) puede recibir de 0 a 3 puntos
 
 Además, la financiación existente (por ejemplo, de las subvenciones para viajes SOTM o FOSS4G) seguirá considerándose en función de la necesidad y la disponibilidad del presupuesto.
 
