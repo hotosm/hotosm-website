@@ -9,7 +9,7 @@ Page Contact:
   Label: Submission Email
 ---
 
-** EXTENDED DEADLINE - June 22nd 2022**
+**EXTENDED DEADLINE - June 22nd 2022**
 The Humanitarian OpenStreetMap Team is soliciting proposals for the Open Data for Resilience and Risk Management Initiatives as part of the project Open Cities Latin America and Caribbean (Jamaica).
 
 The terms of reference are available [**here**](https://cdn.hotosm.org/website/Jamaica_Kingston_Open_Cities_LAC_Local_Implementation_TOR.pdf).
