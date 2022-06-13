@@ -21,4 +21,4 @@ Social Media (Full URL):
 Ramya Ragupathy joined us as a backend developer, contributing to nearly all of HOT's in-house built software solutions. She is currently the Module Owner for the [Galaxy](https://galaxy.hotosm.org/) range of products that generate multiple OpenStreetMap Data Outputs.
 
 
-Ramya has been involved with the OpenStreetMap ecosystem in different capacities since 2015 and has been an active open source contributor since 2008. She is committed to creating diverse and inclusive data for-good communities, and she enjoys making fun maps, recording GPS tracks of her journeys, discussing languages, and fielding movie trivias. 
+Ramya has been involved with the OpenStreetMap ecosystem in different capacities since 2015 and has been an active open source contributor since 2008. She is committed to creating diverse and inclusive data-for-good communities, and she enjoys making fun maps, recording GPS tracks of her journeys, discussing languages, and fielding movie trivias. 
