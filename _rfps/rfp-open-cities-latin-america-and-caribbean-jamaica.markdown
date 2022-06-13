@@ -1,7 +1,6 @@
 ---
 title: RFP - Open Cities Latin America and Caribbean (Jamaica)
 date: 2022-05-23 15:22:00 Z
-published: false
 Deadline Date: 2022-06-22 00:00:00 Z
 Apply Form Link: https://cdn.hotosm.org/website/Jamaica_Kingston_Open_Cities_LAC_Local_Implementation_TOR.pdf
 Page Contact:
