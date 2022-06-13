@@ -6,9 +6,9 @@ Member Type:
   Is Staff: true
 Job Title: Module Owner
 Working Group:
-- Data Quality
-- Technical
 - OSM Galaxy (Technical)
+- Technical
+- Data Quality
 Languages:
 - English
 - Tamil
