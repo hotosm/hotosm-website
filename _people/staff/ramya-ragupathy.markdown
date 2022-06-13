@@ -8,6 +8,10 @@ Job Title: Module Owner
 Working Group:
 - Data Quality
 - Technical
+- OSM Galaxy (Technical)
+Languages:
+- English
+- Tamil
 Country: India
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/ramyaragupathy
