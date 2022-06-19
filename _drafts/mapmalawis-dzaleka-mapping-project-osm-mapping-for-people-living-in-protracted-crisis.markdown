@@ -5,6 +5,9 @@ date: 2022-06-18 06:22:00 Z
 Summary Text: MapMalawi is a newly established non-governmental organisation (NGO),
   founded in December 2020 by two Malawian girls, Ndapile Mkuwu and Zola Manyungwa.
 Feature Image: "/uploads/0_cFW_11fxg6FQDsYh.jpeg"
+Person:
+- Ndapile Mkuwu
+- Zola Manyungwa
 Country:
 - Malawi
 Project:
