@@ -14,7 +14,7 @@ Project:
 - 'Map Malawi: OSM Mapping for Refugees - A Case of Dzaleka Camp, Malawi'
 ---
 
-This post [originally appeared](https://medium.com/@mapsmalawi/mapmalawis-dzaleka-mapping-project-osm-mapping-for-people-living-in-protracted-crisis-a160c9202e1b) on the Medium page for Map Malawi.
+***This post [originally appeared](https://medium.com/@mapsmalawi/mapmalawis-dzaleka-mapping-project-osm-mapping-for-people-living-in-protracted-crisis-a160c9202e1b) on the Medium page for Map Malawi.***
 
 Our journey with open source mapping started with our affiliation with the YouthMappers network during our undergraduate studies. We are alumni of the University of Malawi, the YouthMappers Leadership Fellowship Program and the African Drone and Data Academy (ADDA). Ndapile is currently a senior instructor at the African Drone and Data Academy and a YouthMappers Regional Ambassador. Zola is a member of staff at the University of Malawi and a Graduate Research Assistant (GRA) at West Virginia University. Our mission is to create, engage, and work with youth-based communities to create open-source geospatial data using Geospatial technology to contribute to addressing local developmental and humanitarian issues in Malawi. The Dzaleka Mapping Project is the first project under MapMalawi.
 
