@@ -5,6 +5,7 @@ Photo: "/uploads/Razmee%20Profile%20Updated.PNG"
 Member Type:
   Is Staff: true
 Job Title: Global People Operations Associate
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Razmee
 ---
