@@ -12,8 +12,8 @@ Summary Text: Disaster Services is currently monitoring this event in the Indian
 Feature Image: TC Tropical Cyclone
 Status: alert
 Post-type: update
-source: <a href="https://gdacs.org/report.aspx?eventid=1000883&episodeid=17&eventtype=TC"
-  target="_blank">GDACS</a>
+source: <a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22579&record=12&last=7548"
+  target="_blank">ADRC via GLIDE</a>
 ---
 
 "Tropical Cyclone ASANI-22 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability."
