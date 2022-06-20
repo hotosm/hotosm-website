@@ -1,0 +1,20 @@
+---
+title: North-eastern Flood in Bangladesh 2022 Alert
+date: 2022-06-20 04:38:00 Z
+Glide: FL-2022-000217-BGD
+Event Name: North-eastern Flood in Bangladesh
+GDACS ID: FL 1101467
+GDACS-level: na
+Country:
+- Bangladesh
+Event type: Fl Flood
+Summary Text: Disaster Services is currently monitoring this event in the southern
+  asia.
+Feature Image: Fl Flood
+Status: alert
+Post-type: update
+source: <a href="https://gdacs.org/report.aspx?eventid=1000883&episodeid=17&eventtype=TC"
+  target="_blank">GDACS</a>
+---
+
+"Heavy rainfall continues to cause widespread and severe flooding and landslides across parts of Bangladesh and north-eastern India, resulting in increased human impact. In Bangladesh, at least 10 people died and over 2 million were affected."
