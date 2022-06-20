@@ -1,6 +1,6 @@
 ---
 title: North-eastern Flood in Bangladesh 2022 Alert
-date: 2022-06-20 04:38:00 Z
+date: 2022-06-19 04:38:00 Z
 Glide: FL-2022-000217-BGD
 Event Name: North-eastern Flood in Bangladesh 2022
 GDACS ID: FL 1101467
