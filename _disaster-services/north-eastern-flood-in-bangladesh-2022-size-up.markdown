@@ -16,7 +16,7 @@ Resources: N/A
 Status: size-up
 ---
 
-<strong>Context:</strong>"Mapping responses have been coordinated by OpenStreetMap Bangladesh and Bangladesh Humanitarian OpenStreetMap Operational Team (BHOOT). In the meantime, HOT will continue to monitor and assist any support needed by the local coordinator for this event."<be> GDACS
+<strong>Context:</strong>Mapping responses have been coordinated by OpenStreetMap Bangladesh and Bangladesh Humanitarian OpenStreetMap Operational Team (BHOOT). In the meantime, HOT will continue to monitor and assist any support needed by the local coordinator for this event.<be> 
 
 <h2>Size-up Details</h2>
 
