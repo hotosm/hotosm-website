@@ -1,6 +1,11 @@
 ---
 title: "¡Conoce los proyectos en curso del Hub LATAM!"
 date: 2022-06-21 17:42:00 Z
+categories:
+- Mapping
+tags:
+- Latam
+- hub
 Summary Text: El hub de mapeo abierto de América Latina ha estado ocupado con diversos
   proyectos, si quieres enterarte cuáles son, acá te compartimos un panorama de lo
   que se está haciendo en la región.
