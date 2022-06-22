@@ -19,6 +19,10 @@ When we presented the May 2022 [update](https://www.hotosm.org/updates/open-mapp
 
 **Canoa de Tolda (Brazil)**
 
+![CT-BSF-2001-0011.jpg](/uploads/CT-BSF-2001-0011.jpg)
+
+*Mato da Onça, Baixo São Francisco | Coleção Canoa de Tolda, Imagem Canoa de Tolda, 2001 – Pão de Açúcar – AL*
+
 [Canoa de Tolda](https://canoadetolda.org.br/) is a Brazilian non-profit whose activities take place in the lower reaches of the [São Francisco](https://en.wikipedia.org/wiki/S%C3%A3o_Francisco_River) River basin. Its mission is to promote the protection and preservation of this region through the collection of data on social, cultural, scientific and environmental issues; the exchange of knowledge and support for the organization of local riverside communities at risk in defense of their rights.
 
 Since November 2021, in [partnership with HOT](https://infosaofrancisco.canoadetolda.org.br/noticias/geotecnologias/canoa-de-tolda-se-une-ao-hot-e-planeja-mapeamentos-da-bacia-do-rio-sao-francisco/), Canoa began collaborative mapping using open tools, with the aim of:
@@ -33,15 +37,21 @@ For the following stages of this cooperation, HOT will provide field training wi
 
 **Solid waste mapping (Guatemala)**
 
-Through a collaboration, we are supporting the UNDP Acceleration Laboratory (AccLab) in Guatemala, and the Ministry of Environment and Natural Resources (MARN) to develop a replicable participatory methodology to identify critical spaces for illegal garbage deposits in cities. and in natural spaces as well as understanding from the community the extent of the impact, particularly in bodies of water, even more particularly in the Motagua River, highly contaminated by waste of all kinds.
+![_114704445_basura1.jpg](/uploads/_114704445_basura1.jpg)
 
-HOT has had projects with this same focus in other areas of the world, for example in Lusaka and Dar Es Salaam. For us, then, it is about adapting a methodology and learning about how to shift our gaze to other geographies, social, political, environmental.
+*Image: BBC*
+
+We are supporting -through a collaboration- the UNDP Acceleration Laboratory (AccLab) in [Guatemala](https://www.undp.org/es/guatemala), and the Ministry of Environment and Natural Resources ([MARN](https://www.marn.gob.gt/)) to develop a replicable participatory methodology to identify critical spaces for illegal garbage deposits in cities. and in natural spaces as well as understanding from the community the extent of the impact, particularly in bodies of water, even more particularly in the Motagua River, highly contaminated by waste of all kinds.
+
+HOT has had projects with this same focus in other areas of the world, for example in [Lusaka and Dar Es Salaam](https://www.hotosm.org/updates/using-open-source-tools-to-solve-routing-issues-for-solid-waste-collection-in-dar-es-salaam/). For us, then, it is about adapting a methodology and learning about how to shift our gaze to other geographies, social, political, environmental.
 
 **Open Cities Tulum (Mexico)**
 
-“OpenCities Tulum”, renamed Co.Mapper, is an adaptation of a methodology already implemented in several cities in Africa by HOT in collaboration with the GFDRR, and this time financed by the Swiss Re Foundation. In Mexico, the municipality of Tulum has been chosen due to the exposure to climate change experienced by the Yucatan Peninsula and Quintana Roo and the relatively low means that this municipality has to face the impact of urban and tourist growth that has occurred at different levels since the last decade.
+![Foto de Ce Ja(2)-367317.jpg](/uploads/Foto%20de%20Ce%20Ja(2)-367317.jpg)
 
-The Opencities methodology consists of creating a governance group to bring voluntary cartographic information closer to a public policy that improves risk management and the resilience of populations exposed to climatic and environmental disasters.
+“OpenCities Tulum”, renamed [Co.Mapper](https://comapper.org/), is an adaptation of a [methodology](https://opendri.org/wp-content/uploads/2020/10/Open-Cities-Africa-Final-Report.pdf) already implemented in several cities in Africa by HOT in collaboration with the GFDRR, and this time financed by the [Swiss Re Foundation](https://www.swissrefoundation.org/). In Mexico, the [municipality of Tulum](https://en.wikipedia.org/wiki/Tulum_Municipality) has been chosen due to the exposure to climate change experienced by the Yucatan Peninsula and Quintana Roo and the relatively low means that this municipality has to face the impact of urban and tourist growth that has occurred at different levels since the last decade.
+
+The [Opencities](https://opencitiesproject.org/) methodology consists of creating a governance group to bring voluntary cartographic information closer to a public policy that improves risk management and the resilience of populations exposed to climatic and environmental disasters.
 
 In the case of Tulum, the HOT team has worked closely with the Tulum city council to diagnose in a very fine way and with the inhabitants, the risks of each of the 29 settlements and cities in this territory. Thanks to this, a vector map open to the public will be produced that will also allow the city council to update its local risk Atlas with a community vision.
 
@@ -51,11 +61,13 @@ Taking advantage of the interest of a great diversity of actors, civil organizat
 
 **Project Factory (Regional)**
 
+![fabrica cusco.jpeg](/uploads/fabrica%20cusco.jpeg)
+
 The Project Factory values ​​and accompanies new initiatives and ideas that expand the potential of the elaboration and use of open maps by different groups and communities in social, environmental and humanitarian issues.
 
 The Factory is an experiment for a future continuous support mechanism for all types of actors to formulate their initiatives with social impact by integrating cartographic tools and data, and thus achieve further progress.
 
-As of April 2022 we have started three pilot projects in the Cusco Region in Peru.
+As of April 2022 we have started three pilot projects in the [Cusco Region](https://en.wikipedia.org/wiki/Department_of_Cuzco) in Peru.
 
 * Technical support to local authorities in the georeferencing and digitalization of the monitoring of water for human consumption.
 
@@ -67,9 +79,11 @@ We are in the process of collaborating with other groups in the region, and that
 
 **Regional Community Support**
 
+![Rodrigo2.jpg](/uploads/Rodrigo2.jpg)
+
 This support is based on regional community contact and knowledge in order to identify needs and connect diverse communities and groups from different countries.
 
-* **Ecuador**: Strategic collaboration with OpenLabEc in training and activities to strengthen the free mapping community.
+* **Ecuador**: Strategic collaboration with [OpenLabEc](https://openlab.ec/) in training and activities to strengthen the free mapping community.
 
 * **El Salvador, Honduras, Guatemala**: Development and strengthening of free mapping communities in Central America and articulation with groups, NGOs and academics with a focus on supporting migrant women.
 
