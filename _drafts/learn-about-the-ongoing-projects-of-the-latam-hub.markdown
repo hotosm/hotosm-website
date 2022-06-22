@@ -13,15 +13,15 @@ Feature Image: "/uploads/CT-BSF-2001-0011.jpg"
 Person: LATAM hub's Alpha team
 ---
 
-When we presented the May 2022 update of the Open Mapping Hub in Latin America, we mentioned that we would publish articles with more detailed updates on each project. Today we share with you an overview of the projects that are in a more advanced state of progress.
+When we presented the May 2022 [update](https://www.hotosm.org/updates/open-mapping-hub-in-latam-may-2022-update/) of the Open Mapping Hub in Latin America, we mentioned that we would publish articles with more detailed updates on each project. Today we share with you an overview of the projects that are in a more advanced state of progress.
 
 # Projects
 
 **Canoa de Tolda (Brazil)**
 
-Canoa de Tolda is a Brazilian non-profit whose activities take place in the lower reaches of the São Francisco River basin. Its mission is to promote the protection and preservation of this region through the collection of data on social, cultural, scientific and environmental issues; the exchange of knowledge and support for the organization of local riverside communities at risk in defense of their rights.
+[Canoa de Tolda](https://canoadetolda.org.br/) is a Brazilian non-profit whose activities take place in the lower reaches of the [São Francisco](https://en.wikipedia.org/wiki/S%C3%A3o_Francisco_River) River basin. Its mission is to promote the protection and preservation of this region through the collection of data on social, cultural, scientific and environmental issues; the exchange of knowledge and support for the organization of local riverside communities at risk in defense of their rights.
 
-Since November 2021, in partnership with HOT, Canoa began collaborative mapping using open tools, with the aim of:
+Since November 2021, in [partnership with HOT](https://infosaofrancisco.canoadetolda.org.br/noticias/geotecnologias/canoa-de-tolda-se-une-ao-hot-e-planeja-mapeamentos-da-bacia-do-rio-sao-francisco/), Canoa began collaborative mapping using open tools, with the aim of:
 
 * produce data, tables and topics that do not exist in the official cartographic documentation of the region of interest;
 
