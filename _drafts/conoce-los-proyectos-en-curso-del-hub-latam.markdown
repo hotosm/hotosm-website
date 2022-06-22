@@ -9,6 +9,10 @@ Cuando presentamos la [actualización](https://www.hotosm.org/updates/hub-de-map
 
 **Canoa de Tolda (Brasil)**
 
+![CT-BSF-2001-0011.jpg](/uploads/CT-BSF-2001-0011.jpg)
+
+*Mato da Onça, Baixo São Francisco | Coleção Canoa de Tolda, Imagem Canoa de Tolda, 2001 – Pão de Açúcar – AL*
+
 [Canoa de Tolda](https://canoadetolda.org.br/) es una organización brasileña sin ánimo de lucro, cuyas actividades se desarrollan en el tramo inferior de la cuenca del río [São Francisco](https://es.wikipedia.org/wiki/R%C3%ADo_San_Francisco_(Brasil)). Su misión es promover la protección y preservación de esta región a través de la recopilación de datos sobre temas sociales, culturales, científicos y ambientales; el intercambio de conocimientos y el apoyo a la organización de las comunidades ribereñas locales en riesgo en la defensa de sus derechos.
 
 Desde noviembre de 2021, en [alianza con HOT](https://infosaofrancisco.canoadetolda.org.br/noticias/geotecnologias/canoa-de-tolda-se-une-ao-hot-e-planeja-mapeamentos-da-bacia-do-rio-sao-francisco/), Canoa inició el mapeo colaborativo utilizando herramientas abiertas, con el objetivo de:
@@ -23,11 +27,17 @@ Para las siguientes etapas de esta cooperación, HOT desplegará capacitación e
 
 **Mapeo de desechos sólidos (Guatemala)**
 
+![_114704445_basura1.jpg](/uploads/_114704445_basura1.jpg)
+
+*Image: BBC*
+
 A través de una colaboración estamos apoyando al Laboratorio de Aceleración (AccLab) del [PNUD en Guatemala](https://www.undp.org/es/guatemala), y al Ministerio de Medio ambiente y Recursos Naturales ([MARN](https://www.marn.gob.gt/)) a desarrollar una metodología participativa replicable, para identificar espacios críticos de depósitos ilegales de basura en las ciudades y en espacios naturales así como entender desde la comunidad la amplitud del impacto, en particular en cuerpos de agua, aún más en particular en el río Motagua, altamente contaminado por desechos de todo tipo.
 
 HOT ha tenido en el pasado proyectos con este mismo enfoque en otras áreas del mundo, por ejemplo en [Lusaka y ](https://www.hotosm.org/updates/mapping-solid-waste-zones-in-lusaka/)[Dar Es Salaam](https://www.hotosm.org/updates/using-open-source-tools-to-solve-routing-issues-for-solid-waste-collection-in-dar-es-salaam/). Para nosotros se trata entonces de adaptar una metodología y aprender sobre cómo desplazar nuestras miradas a otras geografías, sociales, políticas, ambientales.
 
 **Open Cities Tulum (Mexico)**
+
+![Foto de Ce Ja(2)-367317.jpg](/uploads/Foto%20de%20Ce%20Ja(2)-367317.jpg)
 
 “OpenCities Tulum”, renombrado como [Co.Mapper](https://comapper.org/), es una adaptación de una [metodología](https://opendri.org/wp-content/uploads/2020/10/Open-Cities-Africa-Final-Report.pdf) ya implementada en varias ciudades de África por HOT en colaboración con el GFDRR, y en esta ocasión financiado por [Swiss Re Foundation](https://www.swissrefoundation.org/). En México se ha elegido el [municipio de Tulum](https://es.wikipedia.org/wiki/Municipio_de_Tulum) por la exposición al cambio climático que conoce la Península de Yucatán y Quintana Roo y los relativamente bajos medios que tiene este municipio para enfrentar el impacto del crecimiento urbano y turístico que se da a diferentes niveles desde la última década.
 
@@ -40,6 +50,8 @@ Otro fundamento de la metodología de OpenCities es hacer transferencia de conoc
 Aprovechando el interés de una gran diversidad de actores se capacitó también a organizaciones civiles y una escuela pública, el CECyTE de Tulum.
 
 **F**á**brica de proyectos (Regional)**
+
+![fabrica cusco.jpeg](/uploads/fabrica%20cusco.jpeg)
 
 La Fábrica de proyectos valora y acompaña nuevas iniciativas e ideas que amplíen el potencial de la elaboración y el uso de mapas abiertos por diferentes grupos y comunidades en temas sociales, ambientales y humanitarios.
 
@@ -57,6 +69,8 @@ Tenemos en proceso colaboraciones con otros colectivos de la región que darán 
 
 **Apoyo comunitario regional**
 
+![Rodrigo2.jpg](/uploads/Rodrigo2.jpg)
+
 Este apoyo se basa en el contacto y conocimiento comunitario regional para así identificar necesidades y conectar diversas comunidades y grupos de diferentes países.
 
 * **Ecuador**: Colaboración estratégica con el [OpenLabEc](https://openlab.ec/) en capacitaciones y actividades para el fortalecimiento de la comunidad de mapeo libre.
@@ -69,8 +83,8 @@ Este apoyo se basa en el contacto y conocimiento comunitario regional para así 
 
 **Recomendaciones de modelo del Hub**
 
-Durante los primeros 6 meses del año, y gracias a los aprendizajes y recomendaciones que están aportando los proyectos realizados por el Equipo Alfa**, **se ha logrado desarrollar una serie de recomendaciones sobre qué modelo de Hub puede proporcionar más valor a la región de LATAM, dando además continuidad al modo flexible con el que hemos funcionado durante esta parte del año y que ha beneficiado nuestra capacidad de captar y atender las necesidades específicas de los actores locales en materia de mapeo abierto, y contando también con una existencia legal local.
+Durante los primeros 6 meses del año, y gracias a los aprendizajes y recomendaciones que están aportando los proyectos realizados por el Equipo Alfa\*\*, \*\*se ha logrado desarrollar una serie de recomendaciones sobre qué modelo de Hub puede proporcionar más valor a la región de LATAM, dando además continuidad al modo flexible con el que hemos funcionado durante esta parte del año y que ha beneficiado nuestra capacidad de captar y atender las necesidades específicas de los actores locales en materia de mapeo abierto, y contando también con una existencia legal local.
 
-**Estado: **Ya tenemos identificados los bloques temáticos que definen a un Hub, y hemos empezando a completar qué características concretas creemos que se adecuan mejor a la realidad y oportunidades de la región para desarrollar el uso de datos, mapas y softwares libres cartográficos, en base a las experiencias compartidas por los proyectos y tomando las necesidades de las comunidades locales como prioridad.
+\*\*Estado: \*\*Ya tenemos identificados los bloques temáticos que definen a un Hub, y hemos empezando a completar qué características concretas creemos que se adecuan mejor a la realidad y oportunidades de la región para desarrollar el uso de datos, mapas y softwares libres cartográficos, en base a las experiencias compartidas por los proyectos y tomando las necesidades de las comunidades locales como prioridad.
 
 Y eso es todo por el momento, les contamos más luego, y como siempre quedamos a su disposición para cualquier consulta, vía nuestro correo electrónico [hublatam@hotosm.org](mailto:hublatam@hotosm.org) o nuestras redes sociales: [Twitter](https://twitter.com/mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/) y [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/).
