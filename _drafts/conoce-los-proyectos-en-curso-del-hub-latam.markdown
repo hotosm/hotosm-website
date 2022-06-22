@@ -1,5 +1,5 @@
 ---
-title: Conoce los proyectos en curso del Hub LATAM!
+title: "¡Conoce los proyectos en curso del Hub LATAM!"
 date: 2022-06-21 17:42:00 Z
 ---
 
@@ -83,8 +83,8 @@ Este apoyo se basa en el contacto y conocimiento comunitario regional para así 
 
 **Recomendaciones de modelo del Hub**
 
-Durante los primeros 6 meses del año, y gracias a los aprendizajes y recomendaciones que están aportando los proyectos realizados por el Equipo Alfa\*\*, \*\*se ha logrado desarrollar una serie de recomendaciones sobre qué modelo de Hub puede proporcionar más valor a la región de LATAM, dando además continuidad al modo flexible con el que hemos funcionado durante esta parte del año y que ha beneficiado nuestra capacidad de captar y atender las necesidades específicas de los actores locales en materia de mapeo abierto, y contando también con una existencia legal local.
+Durante los primeros 6 meses del año, y gracias a los aprendizajes y recomendaciones que están aportando los proyectos realizados por el Equipo Alfa, se ha logrado desarrollar una serie de recomendaciones sobre qué modelo de Hub puede proporcionar más valor a la región de LATAM, dando además continuidad al modo flexible con el que hemos funcionado durante esta parte del año y que ha beneficiado nuestra capacidad de captar y atender las necesidades específicas de los actores locales en materia de mapeo abierto, y contando también con una existencia legal local.
 
-\*\*Estado: \*\*Ya tenemos identificados los bloques temáticos que definen a un Hub, y hemos empezando a completar qué características concretas creemos que se adecuan mejor a la realidad y oportunidades de la región para desarrollar el uso de datos, mapas y softwares libres cartográficos, en base a las experiencias compartidas por los proyectos y tomando las necesidades de las comunidades locales como prioridad.
+**Estado**: Ya tenemos identificados los bloques temáticos que definen a un Hub, y hemos empezando a completar qué características concretas creemos que se adecuan mejor a la realidad y oportunidades de la región para desarrollar el uso de datos, mapas y softwares libres cartográficos, en base a las experiencias compartidas por los proyectos y tomando las necesidades de las comunidades locales como prioridad.
 
 Y eso es todo por el momento, les contamos más luego, y como siempre quedamos a su disposición para cualquier consulta, vía nuestro correo electrónico [hublatam@hotosm.org](mailto:hublatam@hotosm.org) o nuestras redes sociales: [Twitter](https://twitter.com/mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/) y [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/).
