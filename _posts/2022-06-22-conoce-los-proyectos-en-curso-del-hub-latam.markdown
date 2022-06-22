@@ -1,6 +1,6 @@
 ---
 title: "¡Conoce los proyectos en curso del Hub LATAM!"
-date: 2022-06-21 17:42:00 Z
+date: 2022-06-22 03:20:00 Z
 categories:
 - Mapping
 tags:
