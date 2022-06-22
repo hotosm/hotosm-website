@@ -21,7 +21,7 @@ When we presented the May 2022 [update](https://www.hotosm.org/updates/open-mapp
 
 ![CT-BSF-2001-0011.jpg](/uploads/CT-BSF-2001-0011.jpg)
 
-*Mato da Onça, Baixo São Francisco | Coleção Canoa de Tolda, Imagem Canoa de Tolda, 2001 – Pão de Açúcar – AL*
+*Mato da Onça, Baixo São Francisco, Coleção Canoa de Tolda, Imagem Canoa de Tolda, 2001 – Pão de Açúcar – AL*
 
 [Canoa de Tolda](https://canoadetolda.org.br/) is a Brazilian non-profit whose activities take place in the lower reaches of the [São Francisco](https://en.wikipedia.org/wiki/S%C3%A3o_Francisco_River) River basin. Its mission is to promote the protection and preservation of this region through the collection of data on social, cultural, scientific and environmental issues; the exchange of knowledge and support for the organization of local riverside communities at risk in defense of their rights.
 
