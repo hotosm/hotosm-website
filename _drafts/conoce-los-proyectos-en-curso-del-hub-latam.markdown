@@ -10,6 +10,7 @@ Summary Text: El hub de mapeo abierto de América Latina ha estado ocupado con d
   proyectos, si quieres enterarte cuáles son, acá te compartimos un panorama de lo
   que se está haciendo en la región.
 Feature Image: "/uploads/CT-BSF-2001-0011.jpg"
+Person: Equipo alfa del hub Latam
 ---
 
 Cuando presentamos la [actualización](https://www.hotosm.org/updates/hub-de-mapeo-abierto-en-latam-actualizacion-mayo-2022/) a mayo 2022 del Hub de mapeo abierto en América Latina, mencionamos que iríamos publicando artículos con actualizaciones más detalladas de cada proyecto. Hoy les compartimos un panorama de los proyectos que se encuentran en mayor estado de avance.

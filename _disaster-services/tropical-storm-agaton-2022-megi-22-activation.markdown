@@ -6,7 +6,7 @@ Event Name: MEGI-22 (Agaton)
 Country:
 - Philippines
 Event type: TC Tropical Cyclone
-Summary Text: This in activation to support OSM Philippines for the Tropical Storm
+Summary Text: This is an activation to support OSM Philippines for the Tropical Storm
   Agaton.
 Feature Image: TC Tropical Cyclone
 Post-type: timeline
