@@ -37,9 +37,9 @@ In the following stages of this cooperation, HOT will provide field training wit
 
 **Solid waste mapping (Guatemala)**
 
-![_114704445_basura1.jpg](/uploads/_114704445_basura1.jpg)
+![guate2.jpg](/uploads/guate2.jpg)
 
-*Image: BBC*
+*Image: eluniversal.com.mx/*
 
 We are supporting - through a collaboration - the UNDP Acceleration Laboratory (AccLab) in [Guatemala](https://www.undp.org/es/guatemala), and the Ministry of Environment and Natural Resources ([MARN](https://www.marn.gob.gt/)) to develop a replicable participatory methodology for identifying critical spaces for illegal garbage deposits in cities and natural spaces, as well as understanding from the community the extent of the impact, particularly on bodies of water, even more particularly on the Motagua River, which is highly contaminated by waste of all kinds.
 
