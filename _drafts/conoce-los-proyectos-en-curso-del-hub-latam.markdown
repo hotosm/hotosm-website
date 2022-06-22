@@ -39,7 +39,7 @@ Para las siguientes etapas de esta cooperación, HOT desplegará capacitación e
 
 ![_114704445_basura1.jpg](/uploads/_114704445_basura1.jpg)
 
-*Image: BBC*
+*Imagen: BBC*
 
 A través de una colaboración estamos apoyando al Laboratorio de Aceleración (AccLab) del [PNUD en Guatemala](https://www.undp.org/es/guatemala), y al Ministerio de Medio ambiente y Recursos Naturales ([MARN](https://www.marn.gob.gt/)) a desarrollar una metodología participativa replicable, para identificar espacios críticos de depósitos ilegales de basura en las ciudades y en espacios naturales así como entender desde la comunidad la amplitud del impacto, en particular en cuerpos de agua, aún más en particular en el río Motagua, altamente contaminado por desechos de todo tipo.
 
