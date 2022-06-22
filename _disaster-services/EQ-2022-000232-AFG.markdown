@@ -1,0 +1,19 @@
+---
+title: M 5.9 in Afghanistan on 21 Jun 2022 Alert
+date: 2022-06-22 09:27:00 Z
+Glide: EQ-2022-000232-AFG
+Event Name: M 5.9 in Afghanistan on 21 Jun 2022
+GDACS ID: EQ 1327560
+GDACS-level: Red (2.5)
+Country:
+- Afghanistan
+Event type: EQ Earthquake
+Summary Text: 'High humanitarian impact, magnitude 5.9 earthquake. '
+Feature Image: EQ Earthquake
+Status: alert
+Post-type: update
+source: <a href="https://gdacs.org/report.aspx?eventid=1327560&episodeid=1449790&eventtype=EQ"
+  target="_blank">GDACS</a>
+---
+
+"This earthquake can have a high humanitarian impact based on the magnitude and the affected population and their vulnerability."
