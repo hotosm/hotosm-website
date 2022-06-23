@@ -9,7 +9,7 @@ Quando apresentamos a [atualização](https://www.hotosm.org/updates/hub-de-mape
 
 **Canoa de Tolda (Brasil)**
 
-***Mato da Onça, **Baixo São Francisco, Coleção Canoa de Tolda, Imagem Canoa de Tolda, 2001 – Pão de Açúcar – AL*
+Mato da Onça, *Baixo São Francisco, Coleção Canoa de Tolda, Imagem Canoa de Tolda, 2001 – Pão de Açúcar – AL*
 
 [Canoa de Tolda](https://canoadetolda.org.br/) é uma organização brasileira sem fins lucrativos cujas atividades ocorrem no baixo curso da bacia do rio [São Francisco](https://pt.wikipedia.org/wiki/Rio_S%C3%A3o_Francisco). Sua missão é promover a proteção e preservação desta região por meio da coleta de dados sobre questões sociais, culturais, científicas e ambientais; a troca de conhecimento e o apoio à organização das comunidades ribeirinhas locais em situação de risco na defesa de seus direitos.
 
