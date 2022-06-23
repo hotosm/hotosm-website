@@ -1,6 +1,16 @@
 ---
 title: Conheça os projetos em andamento do Hub LATAM!
-date: 2022-06-23 17:30:00 Z
+date: 2022-06-22 03:21:00 Z
+categories:
+- Mapping
+tags:
+- Latam
+- hub
+Summary Text: O Hub de Mapeamento Aberto da América Latina está ocupado com vários
+  projetos, se você quiser saber quais são, aqui compartilhamos uma visão geral do
+  que está sendo feito na região.
+Feature Image: "/uploads/CT-BSF-2001-0011.jpg"
+Person: 'Equipo alfa del hub Latam '
 ---
 
 Quando apresentamos a [atualização](https://www.hotosm.org/updates/hub-de-mapeamento-aberto-en-latam-atualizacao-mayo-2022/) de maio de 2022 do Hub de Mapeamento Aberto na América Latina, mencionamos que publicaríamos artigos com atualizações mais detalhadas sobre cada projeto. Hoje compartilhamos com você uma visão geral dos projetos que estão em maior estado de progresso.
@@ -8,6 +18,8 @@ Quando apresentamos a [atualização](https://www.hotosm.org/updates/hub-de-mape
 # Projetos
 
 **Canoa de Tolda (Brasil)**
+
+![CT-BSF-2001-0011.jpg](/uploads/CT-BSF-2001-0011.jpg)
 
 Mato da Onça, *Baixo São Francisco, Coleção Canoa de Tolda, Imagem Canoa de Tolda, 2001 – Pão de Açúcar – AL*
 
@@ -25,11 +37,17 @@ Para as etapas seguintes dessa cooperação, a HOT fornecerá treinamento de cam
 
 **Mapeamento de dejetos sólidos (Guatemala)**
 
+![guate2.jpg](/uploads/guate2.jpg)
+
+*Imagen: eluniversal.com.mx/*
+
 Por meio de uma colaboração, estamos apoiando o Laboratório de Aceleração (AccLab) do [PNUD na Guatemala](https://www.undp.org/es/guatemala), e ao Ministério do Meio Ambiente e Recursos Naturais ([MARN](https://www.marn.gob.gt/)) para desenvolver uma metodologia participativa replicável para identificar espaços críticos para depósitos ilegais de lixo nas cidades e em espaços naturais, bem como entender da comunidade a extensão do impacto, principalmente em corpos d'água, particularmente no rio Motagua, altamente contaminado por resíduos de todos os tipos.
 
 A HOT já teve no passado projetos com este mesmo foco em outras áreas do mundo, por exemplo em [Lusaka](https://www.hotosm.org/updates/mapping-solid-waste-zones-in-lusaka/) e [Dar Es Salaam](https://www.hotosm.org/updates/using-open-source-tools-to-solve-routing-issues-for-solid-waste-collection-in-dar-es-salaam/). Para nós, então, trata-se de adaptar uma metodologia e aprender como deslocar nosso olhar para outras geografias, sociais, políticas, ambientais.
 
 **Open Cities Tulum (México)**
+
+![Foto de Ce Ja(2)-367317.jpg](/uploads/Foto%20de%20Ce%20Ja(2)-367317.jpg)
 
 “OpenCities Tulum”, renomeado como [Co.Mapper](https://comapper.org/), é uma adaptação de uma [metodologia](https://opendri.org/wp-content/uploads/2020/10/Open-Cities-Africa-Final-Report.pdf) já implementada em várias cidades da África pela HOT em colaboração com o GFDRR, e desta vez financiada pela [Swiss Re Foundation](https://www.swissrefoundation.org/). No México, o [município de Tulum](https://pt.wikipedia.org/wiki/Tulum_(munic%C3%ADpio)) foi escolhido devido à exposição às mudanças climáticas experimentadas pela Península de Yucatán e por Quintana Roo e os meios relativamente limitados que este município tem para enfrentar o impacto do crescimento urbano e turístico que ocorreu em diferentes níveis desde a última década.
 
@@ -40,6 +58,8 @@ No caso de Tulum, a equipe HOT trabalhou em estreita colaboração com a prefeit
 Outro fundamento da metodologia OpenCities é a transferência de conhecimento, por isso os funcionários das diferentes dependências deste município foram treinados no uso de mapas, na criação de dados cartográficos e uma melhor estratégia de gestão de dados locais, isso através de oficinas de capacitação em OpenStreetMap, Qgis e Open Data Kit. Aproveitando o interesse de uma grande diversidade de atores, também foram treinadas organizações civis e uma escola pública, o CECyTE de Tulum.
 
 **Fábrica de projetos (Regional)**
+
+![fabrica cusco.jpeg](/uploads/fabrica%20cusco.jpeg)
 
 A Fábrica de Projetos valoriza e acompanha novas iniciativas e ideias que ampliam o potencial de elaboração e uso de mapas abertos por diferentes grupos e comunidades em questões sociais, ambientais e humanitárias.
 
@@ -56,6 +76,8 @@ Em abril de 2022, iniciamos três projetos piloto na [região de Cusco](https://
 Estamos em processo de colaboração com outros grupos da região que darão origem a mais subprojetos da Fábrica. Queremos aprender com nossas experiências e ampliar nosso apoio a todos os projetos interessados ​​na LATAM.
 
 **Apoio comunitário regional**
+
+![Rodrigo2.jpg](/uploads/Rodrigo2.jpg)
 
 Esse apoio é baseado no contato e conhecimento da comunidade regional para identificar necessidades e conectar diversas comunidades e grupos de diferentes países.
 
