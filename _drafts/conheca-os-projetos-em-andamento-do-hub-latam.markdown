@@ -39,33 +39,38 @@ No caso de Tulum, a equipe HOT trabalhou em estreita colaboração com a prefeit
 
 Outro fundamento da metodologia OpenCities é a transferência de conhecimento, por isso os funcionários das diferentes dependências deste município foram treinados no uso de mapas, na criação de dados cartográficos e uma melhor estratégia de gestão de dados locais, isso através de oficinas de capacitação em OpenStreetMap, Qgis e Open Data Kit. Aproveitando o interesse de uma grande diversidade de atores, também foram treinadas organizações civis e uma escola pública, o CECyTE de Tulum.
 
-Fábrica de projetos (Regional)
+**Fábrica de projetos (Regional)**
+
 A Fábrica de Projetos valoriza e acompanha novas iniciativas e ideias que ampliam o potencial de elaboração e uso de mapas abertos por diferentes grupos e comunidades em questões sociais, ambientais e humanitárias.
 
 A Fábrica é uma experiência para um futuro mecanismo de apoio contínuo a todos os tipos de atores para formular suas iniciativas com impacto social, integrando ferramentas e dados cartográficos, e assim alcançar mais progressos.
 
-Em abril de 2022, iniciamos três projetos piloto na região de Cusco, no Peru.
+Em abril de 2022, iniciamos três projetos piloto na [região de Cusco](https://es.wikipedia.org/wiki/Departamento_del_Cuzco), no Peru.
 
-Apoio técnico às prefeituras locais no georreferenciamento e digitalização da monitoramento da água para o consumo humano.
-Acompanhamento das comunidades na elaboração de mapas das características comunitárias utilizando mapeamento aberto.
-Pesquisa -com centenas de alunos do ensino médio- sobre a visualização de temas de interesse e a resolução de problemas locais por meio de mapeamento aberto em áreas urbanas e rurais nos Andes.
+* Apoio técnico às prefeituras locais no georreferenciamento e digitalização da monitoramento da água para o consumo humano.
+
+* Acompanhamento das comunidades na elaboração de mapas das características comunitárias utilizando mapeamento aberto.
+
+* Pesquisa -com centenas de alunos do ensino médio- sobre a visualização de temas de interesse e a resolução de problemas locais por meio de mapeamento aberto em áreas urbanas e rurais nos Andes.
 
 Estamos em processo de colaboração com outros grupos da região que darão origem a mais subprojetos da Fábrica. Queremos aprender com nossas experiências e ampliar nosso apoio a todos os projetos interessados ​​na LATAM.
 
-Apoio comunitário regional
+**Apoio comunitário regional**
 
 Esse apoio é baseado no contato e conhecimento da comunidade regional para identificar necessidades e conectar diversas comunidades e grupos de diferentes países.
 
-Equador: Colaboração estratégica com OpenLabEc em treinamentos e atividades para fortalecer a comunidade de mapeamento livre.
-El Salvador, Honduras, Guatemala: Desenvolvimento e fortalecimento de comunidades de mapeamento livre na América Central e articulação com grupos, ONGs e acadêmicos com foco no apoio às mulheres migrantes.
-Colômbia, Venezuela, Peru, Brasil: Exploração de interesses, necessidades e projetos locais, assim como contato e conexão com comunidades, organizações da sociedade civil, fundações, laboratórios e outros atores que, de seus próprios campos de atuação, tenham interesse em mapeamento.
+* **Equador**: Colaboração estratégica com [OpenLabEc](https://openlab.ec/) em treinamentos e atividades para fortalecer a comunidade de mapeamento livre.
 
-Projeto interno
+* **El Salvador, Honduras, Guatemala**: Desenvolvimento e fortalecimento de comunidades de mapeamento livre na América Central e articulação com grupos, ONGs e acadêmicos com foco no apoio às mulheres migrantes.
 
-Recomendacões do modelo do Hub
+* **Colômbia, Venezuela, Peru, Brasil**: Exploração de interesses, necessidades e projetos locais, assim como contato e conexão com comunidades, organizações da sociedade civil, fundações, laboratórios e outros atores que, de seus próprios campos de atuação, tenham interesse em mapeamento.
+
+# Projeto interno
+
+**Recomendacões do modelo do Hub**
 
 Durante os primeiros 6 meses do ano, e graças ao aprendizado e recomendações proporcionadas pelos projetos realizados pela Equipe Alfa, foi desenvolvida uma série de recomendações sobre qual modelo de Hub pode agregar mais valor à região LATAM, dando também continuidade à forma flexível com que trabalhamos durante esta parte do ano e que beneficiou a nossa capacidade de captar e atender às necessidades específicas dos atores locais em termos de mapeamento aberto, e também ter uma existência legal local.
 
-Status: Já identificamos os blocos temáticos que definem um Hub, e começamos a concluir quais características específicas acreditamos serem mais adequadas à realidade e oportunidades da região para desenvolver o uso de dados, mapas e softwares gratuitos cartográficos, baseados nas experiências compartilhadas pelos projetos e priorizando as necessidades das comunidades locais.
+**Status**: Já identificamos os blocos temáticos que definem um Hub, e começamos a concluir quais características específicas acreditamos serem mais adequadas à realidade e oportunidades da região para desenvolver o uso de dados, mapas e softwares gratuitos cartográficos, baseados nas experiências compartilhadas pelos projetos e priorizando as necessidades das comunidades locais.
 
-E por enquanto é só, depois contamos mais e, como sempre, estamos à disposição para qualquer dúvida, através do nosso e-mail hublatam@hotosm.org ou das nossas redes sociais: Twitter, Instagram e Facebook.
+E por enquanto é só, depois contamos mais e, como sempre, estamos à disposição para qualquer dúvida, através do nosso e-mail [hublatam@hotosm.org](mailto:hublatam@hotosm.org) ou das nossas redes sociais: [Twitter](https://twitter.com/mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/) e [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/).
