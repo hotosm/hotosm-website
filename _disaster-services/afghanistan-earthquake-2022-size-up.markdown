@@ -16,7 +16,7 @@ Resources: N/A
 Status: size-up
 ---
 
-<strong>Context:</strong>According to media reports, 920 people have died, over 600 people have been injured and infrastructure was damaged. The most affected province is Paktika Province (south of Khost Province) with at least 200 deaths, but fatalities were also reported in the Provinces of Khost and Nangarhar. The seismic event was also felt in Pakistan and India.<be> Source: ECHO, 22 June 2022
+<strong>Context:</strong>According to media reports, 920 people have died, over 600 people have been injured and infrastructure was damaged. The most affected province is Paktika Province (south of Khost Province) with at least 200 deaths, but fatalities were also reported in the Provinces of Khost and Nangarhar. The seismic event was also felt in Pakistan and India.<be> Source: <a href="https://reliefweb.int/report/afghanistan/afghanistan-earthquake-dg-echo-gdacs-usgs-amd-meteo-forecast-media-echo-daily-flash-22-june-2022">ECHO, 22 June 2022 Bangladesh</a>
 
 <h2>Size-up Details</h2>
 
