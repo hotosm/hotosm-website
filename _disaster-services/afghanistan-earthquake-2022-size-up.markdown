@@ -12,7 +12,7 @@ Summary Text: M 5.9 in Afghanistan on 21 Jun 2022 has been sized-up.
 Feature Image: EQ Earthquake
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=afghanistan">Afghanistan</a>
-Resources: N/A
+Resources: <a href="https://www.maxar.com/open-data/afghanistan-earthquake22">MAXAR</a>
 Status: size-up
 ---
 
