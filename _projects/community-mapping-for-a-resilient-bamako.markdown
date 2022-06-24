@@ -4,16 +4,17 @@ date: 2020-03-30 14:47:00 Z
 position: 40
 Project Summary Text: Mapping for informed decision making for disaster response and
   socioeconomic development
-Feature Image: https://cdn.hotosm.org/website/Independence+Monument+-+Project+Page+Post.JPG
+Feature Image: "/uploads/52100358553_94c50062d2_k.jpg"
 Person:
 - David Luswata
 - Paul Uithol
+- Shazmane Mandjee Rehamtula
 Partner:
 - OSM Mali
 - Croix-Rouge Malienne
 Duration:
   Start Date: 2020-01-13 00:00:00 Z
-  End Date: 2022-04-30 00:00:00 Z
+  End Date: 2022-05-31 00:00:00 Z
 ---
 
 Bamako, the capital and largest city of Mali, is situated on the Niger River floodplain, which hampers development along the riverfront and the Niger’s tributaries. Bamako is relatively flat, except to the immediate north where an escarpment is found, what remains of an extinct volcano. The presidential palace and the main hospital are located there. Originally, the city was developed on the northern side of the Niger River but as it grew, bridges were built to connect the north with the south:  the Pont de Martyrs, the King Fahd Bridge, and the Sotuba causeway, which is typically underwater from July to January.
@@ -44,3 +45,7 @@ The project will use high-resolution aerial imagery, [OpenStreetMap](https://www
 4. Promote peer mentorship and build regional networks across cities.
 
 **Community Mapping for a Resilient Bamako** is led by the Humanitarian OpenStreetMap Team (HOT), OpenStreetMap Mali (OSM Mali), Croix-Rouge Malienne (CRM) and will work with stakeholders including Agence Development Regionale du Bamako (ADR), Mali Meteo, DoniLab, Institut Géographique du Mali and L’Urbanisme et l’habitat among others.
+
+*Feature Photo Credit: Banko Productions and the World Bank, Bamako, Mali, May 2021.*
+
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720299269483" title="Open Cities Africa: Bamako, 2020"><img src="https://live.staticflickr.com/65535/52100571809_1467b832c9_z.jpg" width="640" height="480" alt="Open Cities Africa: Bamako, 2020"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
