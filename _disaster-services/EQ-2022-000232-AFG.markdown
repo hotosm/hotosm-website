@@ -7,6 +7,7 @@ GDACS ID: EQ 1327560
 GDACS-level: Red (2.3)
 Country:
 - Afghanistan
+- Pakistan
 Event type: EQ Earthquake
 Summary Text: 'High humanitarian impact, magnitude 5.9 earthquake. '
 Feature Image: EQ Earthquake
