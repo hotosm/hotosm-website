@@ -5,7 +5,10 @@ Photo: "/uploads/Profile%20pic_synne.png"
 Member Type:
   Is Staff: true
 Job Title: Open Innovation Facilitator
+Country: Denmark
 Team: Global
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/SynneMarion
 ---
 
 I am first and foremost a curious creature whose most frequent question is “why not”. The intersections (and opportunities) of humans, nature & technology are what get me up in the morning - and what best summarises my knowledge, skills & experiences.
