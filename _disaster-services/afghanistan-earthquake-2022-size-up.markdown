@@ -7,6 +7,7 @@ GDACS ID: EQ 1327560
 GDACS-level: Red (2.3)
 Country:
 - Afghanistan
+- Pakistan
 Event type: EQ Earthquake
 Summary Text: M 5.9 in Afghanistan on 21 Jun 2022 has been sized-up.
 Feature Image: EQ Earthquake
@@ -27,7 +28,7 @@ Status: size-up
 <strong>Estimated Humanitarian Impact:</strong> Thousands of fatalities and injured <br>
 <strong>Estimated Duration:</strong> Days to Weeks<br>
 <strong>Event Scope:</strong> Major<br>
-<strong>Local Contacts:</strong> OpenStreetMap Afghanistan<br>
+<strong>Local Contacts:</strong> OpenStreetMap Afghanistan and Pakistan<br>
 <strong>Anticipated Needs:</strong> Basemap improvement and publication support<br>
 <strong>Request(s):</strong> Publication support and map the affected areas in Tasking Manager<br>
 <strong>Need for Activation:</strong> Likely<br>

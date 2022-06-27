@@ -5,6 +5,7 @@ Glide: EQ-2022-000232-AFG
 Event Name: M 5.9 in Afghanistan on 21 Jun 2022
 Country:
 - Afghanistan
+- Pakistan
 Event type: EQ Earthquake
 Summary Text: This is in activation led by Open Mapping Hub Asia-Pacific for the earthquake
   in eastern Afghanistan.
