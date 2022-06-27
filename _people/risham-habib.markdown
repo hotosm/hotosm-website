@@ -7,8 +7,10 @@ Member Type:
 Job Title: Communications Associate
 Country: Pakistan
 Team: Global
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/RHabib
 ---
 
-Risham has a multidisciplinary background in Sociology, International Development and Communications. She is passionate about communications for development and has worked for various international organizations including the United Nations and Asian Development Bank (ADB). Risham’s interests are encapsulated by her work in the areas of gender, environment, sustainable development, education and human rights. She also has experience working with local NGO's, development partners and the civil society in Pakistan and Canada.
+Risham has a multidisciplinary background in Sociology, International Development, and Communications. She is passionate about communications for development and has worked for various international organizations including the United Nations and Asian Development Bank (ADB). Risham’s interests are encapsulated by her work in the areas of gender, environment, sustainable development, education, and human rights. She also has experience working with local NGOs, development partners, and the civil society in Pakistan and Canada.
 
-Risham has a Masters degree in Brands, Communications and Culture from Goldsmiths, University of London. She is also a Chevening Alumni.
+Risham has a Masters's degree in Brands, Communications, and Culture from Goldsmiths, University of London. She is also a Chevening Alumni.
