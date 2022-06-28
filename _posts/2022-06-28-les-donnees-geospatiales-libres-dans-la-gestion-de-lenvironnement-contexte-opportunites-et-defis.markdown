@@ -27,7 +27,7 @@ Dans les aires protégées les opportunités sur l’utilisation des données li
 
 Le projet Mapati présenté par Aimée Sama et piloté par OSM Togo fût un bon exemple de l’utilisation des données géospatiales libres dans la cartographie des arbres dans l’espace urbain en vue d’évaluer l’impact des îlots de chaleur dans les villes et de mettre en place une politique de reboisement.
 
-# # Des outils/applications diverses pour répondre aux problématiques environnementales
+# Des outils/applications diverses pour répondre aux problématiques environnementales
 
 Pour résoudre les problématiques environnementales, plusieurs outils/applications sont utilisés. Les différents projets qui ont été présenté lors du webinaire ont montré l’importance d’OSM dans la gestion de l’environnement. Les données OSM concernent les limites des aires protégées et des différentes infrastructures avoisinantes (cours d’eau, routes) l’occupation du sol, et la cartographie des arbres. 
 
