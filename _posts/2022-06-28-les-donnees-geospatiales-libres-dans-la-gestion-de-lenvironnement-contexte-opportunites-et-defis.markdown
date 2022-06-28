@@ -38,10 +38,6 @@ Pour résoudre les problématiques environnementales, plusieurs outils/applicati
 
 Le site de USGS propose des images satellites accessibles à tous pour favoriser le suivi environnemental sur des périodes données.
 
-![unnamed (1).png](/uploads/unnamed%20(1).png)
-*Image du site USGS : évolution de la superficie du lac Tchad
-*
-
 D’autres applications telles que KOBO collect Tool,Street Complete, Osmand, sont utilisées pour favoriser la collecte des données sur des thématiques environnementales diverses.
 
 ![unnamed (3).png](/uploads/unnamed%20(3).png)
