@@ -2,7 +2,6 @@
 title: 'Les Données Géospatiales Libres Dans La Gestion De l’environnement : Contexte,
   Opportunités et Défis'
 date: 2022-06-28 15:00:00 Z
-published: false
 Working Group:
 - Community
 - 
