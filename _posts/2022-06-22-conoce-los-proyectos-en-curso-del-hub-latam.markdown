@@ -17,7 +17,7 @@ Cuando presentamos la [actualización](https://www.hotosm.org/updates/hub-de-map
 
 # **Proyectos**
 
-**Canoa de Tolda (Brasil)**
+## Canoa de Tolda (Brasil)
 
 ![CT-BSF-2001-0011.jpg](/uploads/CT-BSF-2001-0011.jpg)
 
@@ -35,7 +35,7 @@ Desde noviembre de 2021, en [alianza con HOT](https://infosaofrancisco.canoadeto
 
 Para las siguientes etapas de esta cooperación, HOT desplegará capacitación en campo con expertos y apoyará en la adquisición de materiales y equipos, para garantizar la transferencia completa de conocimiento y la sostenibilidad del compromiso de Canoa. Dicha fase se centra en el monitoreo de inundaciones, el modelado 3D de drones y el mapeo comunitario.
 
-**Mapeo de desechos sólidos (Guatemala)**
+## Mapeo de desechos sólidos (Guatemala)
 
 ![guate2.jpg](/uploads/guate2.jpg)
 
@@ -45,7 +45,7 @@ A través de una colaboración estamos apoyando al Laboratorio de Aceleración (
 
 HOT ha tenido en el pasado proyectos con este mismo enfoque en otras áreas del mundo, por ejemplo en [Lusaka y ](https://www.hotosm.org/updates/mapping-solid-waste-zones-in-lusaka/)[Dar Es Salaam](https://www.hotosm.org/updates/using-open-source-tools-to-solve-routing-issues-for-solid-waste-collection-in-dar-es-salaam/). Para nosotros se trata entonces de adaptar una metodología y aprender sobre cómo desplazar nuestras miradas a otras geografías, sociales, políticas, ambientales.
 
-**Open Cities Tulum (Mexico)**
+## Open Cities Tulum (Mexico)
 
 ![Foto de Ce Ja(2)-367317.jpg](/uploads/Foto%20de%20Ce%20Ja(2)-367317.jpg)
 
@@ -59,7 +59,7 @@ Otro fundamento de la metodología de OpenCities es hacer transferencia de conoc
 
 Aprovechando el interés de una gran diversidad de actores se capacitó también a organizaciones civiles y una escuela pública, el CECyTE de Tulum.
 
-**F**á**brica de proyectos (Regional)**
+## F**á**brica de proyectos (Regional)
 
 ![fabrica cusco.jpeg](/uploads/fabrica%20cusco.jpeg)
 
@@ -77,7 +77,7 @@ En abril de 2022 hemos empezado tres proyectos piloto en la [Región de Cusco](h
 
 Tenemos en proceso colaboraciones con otros colectivos de la región que darán origen a más subproyectos de la Fábrica. Queremos aprender de nuestras experiencias y ampliar el acompañamiento a todos los proyectos interesados de LATAM.
 
-**Apoyo comunitario regional**
+## Apoyo comunitario regional
 
 ![Rodrigo2.jpg](/uploads/Rodrigo2.jpg)
 
@@ -91,7 +91,7 @@ Este apoyo se basa en el contacto y conocimiento comunitario regional para así 
 
 # **Proyecto interno**
 
-**Recomendaciones de modelo del Hub**
+## Recomendaciones de modelo del Hub
 
 Durante los primeros 6 meses del año, y gracias a los aprendizajes y recomendaciones que están aportando los proyectos realizados por el Equipo Alfa, se ha logrado desarrollar una serie de recomendaciones sobre qué modelo de Hub puede proporcionar más valor a la región de LATAM, dando además continuidad al modo flexible con el que hemos funcionado durante esta parte del año y que ha beneficiado nuestra capacidad de captar y atender las necesidades específicas de los actores locales en materia de mapeo abierto, y contando también con una existencia legal local.
 
