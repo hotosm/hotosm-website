@@ -10,8 +10,10 @@ Working Group:
 
 The webinar was organized by the Humanitarian open mapping Community Working Group. It showcased initiatives that use open source geospatial data for environmental management issues. Forestry, protected areas, reforestation, species inventories and large mammal monitoring were the themes.
 
+
 ![unnamed.jpeg](/uploads/unnamed.jpeg)
 *Session in English*
+
 
 ![french.jpeg](/uploads/french.jpeg)
 *Session in French*
