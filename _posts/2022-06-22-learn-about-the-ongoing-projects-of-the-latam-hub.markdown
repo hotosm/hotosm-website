@@ -17,7 +17,7 @@ When we presented the May 2022 [update](https://www.hotosm.org/updates/open-mapp
 
 # Projects
 
-**Canoa de Tolda (Brazil)**
+## Canoa de Tolda (Brazil)
 
 ![CT-BSF-2001-0011.jpg](/uploads/CT-BSF-2001-0011.jpg)
 
@@ -35,7 +35,7 @@ Since November 2021, in [partnership with HOT](https://infosaofrancisco.canoadet
 
 In the following stages of this cooperation, HOT will provide field training with experts and support in the acquisition of materials and equipment to guarantee the complete transfer of knowledge and the sustainability of Canoa’s commitment. These phase will focus on flood monitoring, 3D drone modeling, and community mapping.
 
-**Solid waste mapping (Guatemala)**
+## Solid waste mapping (Guatemala)
 
 ![guate2.jpg](/uploads/guate2.jpg)
 
@@ -59,7 +59,7 @@ Another foundation of the Open Cities methodology is to transfer knowledge. Offi
 
 Taking advantage of the interest of a great diversity of actors, civil organizations, and a public school, the members of the State College of Scientific and Technological Studies of Tulum, were also trained.
 
-**Project Factory (Regional)**
+## Project Factory (Regional)
 
 ![fabrica cusco.jpeg](/uploads/fabrica%20cusco.jpeg)
 
@@ -77,7 +77,7 @@ As of April 2022 we have started three pilot projects in the [Cusco Region](http
 
 We are in the process of collaborating with other groups in the region, and that will mean more Factory subprojects. We want to learn from our experiences and expand our support to all interested projects in LATAM.
 
-**Regional Community Support**
+## Regional Community Support
 
 ![Rodrigo2.jpg](/uploads/Rodrigo2.jpg)
 
@@ -91,7 +91,7 @@ This support is based on regional community contact and knowledge in order to id
 
 # Internal project
 
-**Hub Model Recommendations**
+## Hub Model Recommendations
 
 During the first 6 months of the year, and thanks to the learning and recommendations provided by the projects carried out by the Alpha Team, a series of recommendations have been developed for the Hub model to provide more value to the LATAM region. This continuous adaptability over the past year has benefited our ability to understand and address the specific needs of local actors for open mapping and to legally incorporate locally.
 
