@@ -44,8 +44,7 @@ The USGS site offers satellite images accessible to all to facilitate environmen
 Applications such as KOBO collect Tool, Street Complete, Osmand are used to support the collection of data on various environmental themes.
 
 ![unnamed (3).png](/uploads/unnamed%20(3).png)
-*The applications used for the acquisition of free geospatial data
-*
+*The applications used for the acquisition of free geospatial data*
 
 The use of free geospatial data and open source tools is important for environmental issues. Training communities is essential for reliable results. OSM features free data that can be modified by all. Therefore it is important that each community and organization has a dedicated team, controlling the data and its quality. The involvement of various actors, using new technologies in implementing open data in geographical projects is vital. 
 
