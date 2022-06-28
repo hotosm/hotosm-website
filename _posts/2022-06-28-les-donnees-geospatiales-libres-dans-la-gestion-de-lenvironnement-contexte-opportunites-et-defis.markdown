@@ -38,6 +38,8 @@ Pour résoudre les problématiques environnementales, plusieurs outils/applicati
 
 Le site de USGS propose des images satellites accessibles à tous pour favoriser le suivi environnemental sur des périodes données.
 
+![unnamed (2).png](/uploads/unnamed%20(2).png)
+
 D’autres applications telles que KOBO collect Tool,Street Complete, Osmand, sont utilisées pour favoriser la collecte des données sur des thématiques environnementales diverses.
 
 ![unnamed (3).png](/uploads/unnamed%20(3).png)
