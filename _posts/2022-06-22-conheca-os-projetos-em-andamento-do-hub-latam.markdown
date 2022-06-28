@@ -17,7 +17,7 @@ Quando apresentamos a [atualização](https://www.hotosm.org/updates/hub-de-mape
 
 # Projetos
 
-**Canoa de Tolda (Brasil)**
+## Canoa de Tolda (Brasil)
 
 ![CT-BSF-2001-0011.jpg](/uploads/CT-BSF-2001-0011.jpg)
 
@@ -35,7 +35,7 @@ Desde novembro de 2021, em [parceria com a HOT](https://infosaofrancisco.canoade
 
 Para as etapas seguintes dessa cooperação, a HOT fornecerá treinamento de campo com especialistas e apoio na aquisição de materiais e equipamentos, para garantir a transferência completa do conhecimento e a sustentabilidade do compromisso de Canoa. Esta fase se concentra no monitoramento de inundações, modelagem 3D com drones e mapeamento comunitário.
 
-**Mapeamento de dejetos sólidos (Guatemala)**
+## Mapeamento de dejetos sólidos (Guatemala)
 
 ![guate2.jpg](/uploads/guate2.jpg)
 
@@ -45,7 +45,7 @@ Por meio de uma colaboração, estamos apoiando o Laboratório de Aceleração (
 
 A HOT já teve no passado projetos com este mesmo foco em outras áreas do mundo, por exemplo em [Lusaka](https://www.hotosm.org/updates/mapping-solid-waste-zones-in-lusaka/) e [Dar Es Salaam](https://www.hotosm.org/updates/using-open-source-tools-to-solve-routing-issues-for-solid-waste-collection-in-dar-es-salaam/). Para nós, então, trata-se de adaptar uma metodologia e aprender como deslocar nosso olhar para outras geografias, sociais, políticas, ambientais.
 
-**Open Cities Tulum (México)**
+## Open Cities Tulum (México)
 
 ![Foto de Ce Ja(2)-367317.jpg](/uploads/Foto%20de%20Ce%20Ja(2)-367317.jpg)
 
@@ -57,7 +57,7 @@ No caso de Tulum, a equipe HOT trabalhou em estreita colaboração com a prefeit
 
 Outro fundamento da metodologia OpenCities é a transferência de conhecimento, por isso os funcionários das diferentes dependências deste município foram treinados no uso de mapas, na criação de dados cartográficos e uma melhor estratégia de gestão de dados locais, isso através de oficinas de capacitação em OpenStreetMap, Qgis e Open Data Kit. Aproveitando o interesse de uma grande diversidade de atores, também foram treinadas organizações civis e uma escola pública, o CECyTE de Tulum.
 
-**Fábrica de projetos (Regional)**
+## Fábrica de projetos (Regional)
 
 ![fabrica cusco.jpeg](/uploads/fabrica%20cusco.jpeg)
 
@@ -75,7 +75,7 @@ Em abril de 2022, iniciamos três projetos piloto na [região de Cusco](https://
 
 Estamos em processo de colaboração com outros grupos da região que darão origem a mais subprojetos da Fábrica. Queremos aprender com nossas experiências e ampliar nosso apoio a todos os projetos interessados ​​na LATAM.
 
-**Apoio comunitário regional**
+## Apoio comunitário regional
 
 ![Rodrigo2.jpg](/uploads/Rodrigo2.jpg)
 
@@ -89,7 +89,7 @@ Esse apoio é baseado no contato e conhecimento da comunidade regional para iden
 
 # Projeto interno
 
-**Recomendacões do modelo do Hub**
+## Recomendacões do modelo do Hub
 
 Durante os primeiros 6 meses do ano, e graças ao aprendizado e recomendações proporcionadas pelos projetos realizados pela Equipe Alfa, foi desenvolvida uma série de recomendações sobre qual modelo de Hub pode agregar mais valor à região LATAM, dando também continuidade à forma flexível com que trabalhamos durante esta parte do ano e que beneficiou a nossa capacidade de captar e atender às necessidades específicas dos atores locais em termos de mapeamento aberto, e também ter uma existência legal local.
 
