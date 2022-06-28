@@ -2,6 +2,7 @@
 title: 'Les Données Géospatiales Libres Dans La Gestion De l’environnement : Contexte,
   Opportunités et Défis'
 date: 2022-06-28 15:00:00 Z
+Feature Image: "/uploads/unnamed-07e3bf.png"
 Person: Nikoyo Emougou Yves Emmanuel
 Working Group:
 - Community
@@ -30,8 +31,6 @@ Le projet Mapati présenté par Aimée Sama et piloté par OSM Togo fût un bon 
 # Des outils/applications diverses pour répondre aux problématiques environnementales
 
 Pour résoudre les problématiques environnementales, plusieurs outils/applications sont utilisés. Les différents projets qui ont été présenté lors du webinaire ont montré l’importance d’OSM dans la gestion de l’environnement. Les données OSM concernent les limites des aires protégées et des différentes infrastructures avoisinantes (cours d’eau, routes) l’occupation du sol, et la cartographie des arbres. 
-
-![unnamed-07e3bf.png](/uploads/unnamed-07e3bf.png)
 
 ![unnamed (1).png](/uploads/unnamed%20(1).png)
 *Représentation des informations dans des applications libres*
