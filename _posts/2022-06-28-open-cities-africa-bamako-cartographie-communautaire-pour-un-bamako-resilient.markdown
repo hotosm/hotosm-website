@@ -1,20 +1,19 @@
 ---
 title: 'Open Cities Africa: Bamako - Cartographie communautaire pour un Bamako résilient'
-date: 2022-06-28 11:27:00 Z
-published: false
+date: 2022-06-28 16:11:00 Z
+Summary Text: Le projet Open Cities Africa, " Cartographie communautaire pour un Bamako
+  résilient ", initié en 2020, s'est achevé en mai 2022. L'objectif de ce projet financé
+  par la Banque mondiale consistait à mettre en évidence le besoin d'infrastructures
+  d'information pour développer et renforcer la résilience urbaine à Bamako, au Mali.
 Feature Image: "/uploads/52100330051_13039c7e62_k.jpg"
-Country:
-- Mali
 Person:
 - Shazmane Mandjee Rehamtula
 - Risham Habib
-- 
-Duration:
-  Start Date: 2022-01-13 00:00:00 Z
-  End Date: 2022-05-31 00:00:00 Z
+Country:
+- Mali
+Project:
+- 'Open Cities: Community Mapping for a Resilient Bamako'
 ---
-
-Le projet Open Cities Africa, " Cartographie communautaire pour un Bamako résilient ", initié en 2020, s'est achevé en mai 2022. L'objectif de ce projet financé par la Banque mondiale consistait à mettre en évidence le besoin d'infrastructures d'information pour développer et renforcer la résilience urbaine à Bamako, au Mali.
 
 Open Cities Africa est une initiative de cartographie collaborative visant à créer des écosystèmes de données ouvertes afin de faciliter la planification urbaine et la gestion des risques de catastrophe à partir de données. La ville de Bamako est l'une des 11 villes d'Afrique sub-saharienne où s'est déroulé le projet. Le projet a engagé les autorités locales, la société civile et le secteur privé dans la réponse aux catastrophes par le biais du PRUBA (Projet de Résilience Urbaine de Bamako).
 Le projet était une collaboration entre Humanitarian OpenStreetMap Team (HOT), OpenStreetMap Mali (OSM Mali) et la Croix-Rouge Malienne (CRM). Les parties prenantes comprenaient l'Agence de développement régional de Bamako (ADR), Mali Meteo, DoniLab, l'Institut géographique du Mali et L'Urbanisme et l'habitat, entre autres.
