@@ -23,7 +23,7 @@ Open source data provides innovative solutions to environmental  issues. For exa
 ![map.png](/uploads/map.png)
 *GFW interface and alert system*
 
-For protected areas, the opportunities for using open data are quite varied.  Open data provides insight into the delineation of protected areas, buffer zones and community zones to limit infringement. It also provides an overview of land cover, topographic features , different localities and administrative divisions facilitating easy decision making.  The data promotes ecotourism by facilitating the planning of excursions around the protected areas. For example, The Mapati project used  open data in mapping trees in urban space to  assess the impact of heat islands in cities and to implement a reforestation policy. 
+For protected areas, the opportunities for using open data are quite varied.  Open data provides insight into the delineation of protected areas, buffer zones and community zones to limit infringement. It also provides an overview of land cover, topographic features , different localities and administrative divisions facilitating easy decision making.  The data promotes ecotourism by facilitating the planning of excursions around the protected areas. For example, The Mapati project used  open data in mapping trees in urban space to assess the impact of heat islands in cities and to implement a reforestation policy. 
 
 Applications to address environmental issues 
 
@@ -45,7 +45,7 @@ Applications such as KOBO collect Tool, Street Complete, Osmand are used to supp
 *The applications used for the acquisition of free geospatial data
 *
 
-The use of free geospatial data and open source tools is important for environmental issues. Training communities is essential for reliable results. OSM features free data that can be modified by all.  Therefore it is important that each community and organization has a dedicated team, controlling the data and its quality. The involvement of various actors, using new technologies in implementing open data in geographical projects is vital. 
+The use of free geospatial data and open source tools is important for environmental issues. Training communities is essential for reliable results. OSM features free data that can be modified by all. Therefore it is important that each community and organization has a dedicated team, controlling the data and its quality. The involvement of various actors, using new technologies in implementing open data in geographical projects is vital. 
 
 
 
