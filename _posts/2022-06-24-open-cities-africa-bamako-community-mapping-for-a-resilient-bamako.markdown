@@ -1,8 +1,8 @@
 ---
 title: 'Open Cities Africa: Bamako - Community Mapping for a Resilient Bamako'
 date: 2022-06-24 11:50:00 Z
-Summary Text: With ‘Community Mapping for a Resilient Bamako’, HOT was able to facilitate
-  data sharing, raise awareness of flooding, and build the capacity of the community
+Summary Text: With ‘Community Mapping for a Resilient Bamako’, HOT was able to contribute
+  to data sharing, raise awareness of flooding, and build the capacity of the community
   for the collection and use of flood risk data.
 Feature Image: "/uploads/52100330051_13039c7e62_k.jpg"
 Is image top aligned: false
