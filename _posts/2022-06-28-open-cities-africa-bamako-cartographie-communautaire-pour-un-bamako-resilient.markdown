@@ -1,7 +1,6 @@
 ---
 title: 'Open Cities Africa: Bamako - Cartographie communautaire pour un Bamako résilient'
 date: 2022-06-28 11:39:00 Z
-published: false
 Feature Image: "/uploads/52100330051_13039c7e62_k.jpg"
 Person:
 - Shazmane Mandjee Rehamtula
