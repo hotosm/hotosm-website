@@ -14,7 +14,7 @@ The webinar was organized by the Humanitarian open mapping Community Working Gro
 *Session in English*
 
 ![french.jpeg](/uploads/french.jpeg)
-**Session in French*
+*Session in French*
 
 # Using Open Source Geospatial Data in Environmental Management 
  
