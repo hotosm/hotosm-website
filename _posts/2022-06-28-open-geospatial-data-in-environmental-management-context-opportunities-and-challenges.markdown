@@ -14,9 +14,9 @@ The webinar was organized by the Humanitarian open mapping Community Working Gro
 *Session in English*
 
 ![french.jpeg](/uploads/french.jpeg)
-*Session in French
+**Session in French*
 
-Using Open Source Geospatial Data in Environmental Management 
+# Using Open Source Geospatial Data in Environmental Management 
  
 Open source data provides innovative solutions to environmental  issues. For example, open data is used to mark  deforestation that leads to the destruction of large mammal habitats and migration of species. Tools such as Global Forest Watch, an interactive online forest monitoring and alert system, are designed to  manage and conserve forest landscapes. This free and easy-to-use tool allows users to produce customized maps and analyze forest trends.
 
@@ -25,7 +25,7 @@ Open source data provides innovative solutions to environmental  issues. For exa
 
 For protected areas, the opportunities for using open data are quite varied.  Open data provides insight into the delineation of protected areas, buffer zones and community zones to limit infringement. It also provides an overview of land cover, topographic features , different localities and administrative divisions facilitating easy decision making.  The data promotes ecotourism by facilitating the planning of excursions around the protected areas. For example, The Mapati project used  open data in mapping trees in urban space to assess the impact of heat islands in cities and to implement a reforestation policy. 
 
-Applications to address environmental issues 
+# Applications to address environmental issues 
 
 The webinar highlighted the importance of OSM in environmental management. OSM data includes protected area boundaries and surrounding infrastructure, land use and tree mapping. 
 
@@ -34,7 +34,9 @@ The webinar highlighted the importance of OSM in environmental management. OSM d
 ![unnamed (1).png](/uploads/unnamed%20(1).png)
 *Information representation in open source applications*
 
+
 The USGS site offers satellite images accessible to all to facilitate environmental monitoring over given periods.
+
 
 ![unnamed (2).png](/uploads/unnamed%20(2).png)
 *Image from the USGS site: evolution of the surface of Lake Chad*
