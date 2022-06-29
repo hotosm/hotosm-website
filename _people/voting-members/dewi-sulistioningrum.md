@@ -3,7 +3,7 @@ title: Dewi Sulistioningrum
 date: 2017-02-28 14:17:00 Z
 Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Dewi.png
 Member Type:
-  Is Staff: false
+  Is Staff: true
   Is Voting Member: true
 Job Title: Project Manager
 Languages:
@@ -20,7 +20,7 @@ Project:
 - Ecuador Earthquake
 - HOT Indonesia Curriculum
 Country: Indonesia
-Team: Indonesia
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Dewi%20Sulistioningrum
   Twitter: https://twitter.com/dewisulistio
