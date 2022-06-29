@@ -6,7 +6,7 @@ Member Type:
   Is Staff: false
 Job Title: Finance & Admin Coordinator
 Country: Indonesia
-Team: Indonesia
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Ika_Rahmat
 ---
