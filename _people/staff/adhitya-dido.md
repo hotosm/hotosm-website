@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Dido-68a7bd.png
 Member Type:
   Is Staff: false
   Is Voting Member: true
-Job Title: Communication Specialist
+Job Title: Communications & Community Engagement
 Country: Indonesia
 Team: Indonesia
 Social Media (Full URL):
