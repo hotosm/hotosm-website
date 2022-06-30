@@ -1,6 +1,7 @@
 ---
 title: Ficky Aditya Romansya
 date: 2020-09-16 19:30:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Ficky+Aditya+Romansya.png
 Member Type:
   Is Staff: false
