@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Dewi.png
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Project Manager
+Job Title: Head of Operations
 Languages:
 - Bahasa
 Project:
