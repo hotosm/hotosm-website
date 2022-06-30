@@ -4,7 +4,7 @@ date: 2018-06-01 20:04:00 Z
 Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Dinar.png
 Member Type:
   Is Staff: false
-Job Title: FB Project Associate
+Job Title: Project Coordinator FB Project
 Project:
 - Facebook
 Country: Indonesia
