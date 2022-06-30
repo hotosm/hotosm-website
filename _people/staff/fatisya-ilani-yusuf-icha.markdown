@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/Screen+Shot+2018-06-05+at+2.00.34+PM.png
 Member Type:
   Is Staff: false
   Is Voting Member: true
-Job Title: Senior Mapping Supervisor
+Job Title: Project & Training Officer
 Country: Indonesia
 Team: Indonesia
 Social Media (Full URL):
