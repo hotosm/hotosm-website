@@ -7,8 +7,8 @@ Country:
 - Afghanistan
 - Pakistan
 Event type: EQ Earthquake
-Summary Text: The following map is an estimation of buidldings affected using OSM
-  data and <a href="http://inasafe.org/" target="_blank">InaSafe</a>.
+Summary Text: The following map is an analysis to estimatimate the number of structures
+  affected using OSM data and <a href="http://inasafe.org/" target="_blank">InaSafe</a>.
 Feature Image: EQ-2022-000232-AFG-media-01
 Status: alert
 Post-type: Media
