@@ -1,6 +1,7 @@
 ---
 title: William Evans
 date: 2018-06-01 20:33:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/will+copy.jpg
 Member Type:
   Is Staff: false
