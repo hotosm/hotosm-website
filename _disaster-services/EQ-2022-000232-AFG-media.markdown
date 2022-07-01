@@ -13,7 +13,7 @@ Feature Image: EQ-2022-000232-AFG-media-01
 Status: alert
 Post-type: Media
 Visuals:
-- EQ-2022-000232-AFG-media-02
+- EQ-2022-000232-AFG-media-01
 ---
 
 Analysis question
