@@ -9,6 +9,8 @@ Project Summary Text: 'HOTOSM provided technical in-country support to facilitat
 Feature Image: "/uploads/Screenshot%202022-07-01%206.24.12%20PM.png"
 Country:
 - Indonesia
+Impact Area:
+- Disaster Risk Reduction
 Person:
 - Harry Mahardhika Machmud
 - Dewi Sulistioningrum
