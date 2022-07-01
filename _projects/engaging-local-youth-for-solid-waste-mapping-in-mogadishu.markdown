@@ -7,6 +7,9 @@ Country:
 - Somalia
 Impact Area:
 - Sustainable Cities
+Person:
+- Immaculata Mwanja
+- Riley Moepswa
 Partner:
 - World Bank
 - "OSM Somalia\t"
