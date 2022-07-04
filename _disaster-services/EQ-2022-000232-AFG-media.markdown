@@ -16,10 +16,7 @@ Visuals:
 - EQ-2022-000232-AFG-media-02
 ---
 
-Analysis question
-In the event of an Earthquake, how many Structures might be affected?
-
-Estimated number of structures affected per mmi intensity
+Estimated number of structures affected per MMI intensity
 
 <table border="0" cellspacing="0"><colgroup width="119"></colgroup> <colgroup width="213"></colgroup> <colgroup width="258"></colgroup>
 <tbody>
