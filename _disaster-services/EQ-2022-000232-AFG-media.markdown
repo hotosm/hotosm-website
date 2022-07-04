@@ -18,7 +18,7 @@ Visuals:
 
 "InaSAFE is free software that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities." It can be used in conjunction with OSM data, to estimate affected elements <sup><a href="#fn1" id="ref1">1</a></sup> in a selected area using OSM data or other datasets.
 <br>
-
+<br>
 <h2>Estimated number of structures affected per MMI intensity</h2>
 
 <b>Hazard source</b>: Shaking Intensity Area - USGS -<br>
