@@ -30,6 +30,11 @@ due to that hazard.]<a href="#ref1">↩</a></sup>
 
 Estimated number of structures affected per MMI intensity
 
+<b>Hazard source</b> Shaking Intensity Area - USGS -
+<b>Exposure source</b> Building - OpenStreetMap -
+<b>Aggregation source</b> District Affected - source not available -
+<b>Impact Function</b> Earthquake Polygon On Structures Polygon
+
 <table border="0" cellspacing="0"><colgroup width="119"></colgroup> <colgroup width="213"></colgroup> <colgroup width="258"></colgroup>
 <tbody>
 <tr>
@@ -180,5 +185,9 @@ Estimated number of structures affected per district.
 </tbody>
 </table>
 
+
+
+
+
  <br>
-Download:
+</b>Download:</b>
