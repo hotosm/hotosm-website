@@ -57,7 +57,7 @@ Estimated number of structures affected per MMI intensity
 </tbody>
 </table>
 <p>&nbsp;</p>
- <br>
+
  <br>
  <br>
 
