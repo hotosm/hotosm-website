@@ -36,7 +36,7 @@ Estimated number of structures affected per MMI intensity
 <td align="right" valign="bottom" bgcolor="#00A600"><em><span style="color: #000000;">2,700</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFF701" height="19"><span style="color: #000000;">VI</span></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #FFF701;">VI</span></td>
 <td align="left" valign="bottom" bgcolor="#FFF701"><span style="color: #000000;">Strong</span></td>
 <td align="right" valign="bottom" bgcolor="#FFF701"><em><span style="color: #000000;">4,300</span></em></td>
 </tr>
