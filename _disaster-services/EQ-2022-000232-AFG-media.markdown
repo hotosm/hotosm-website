@@ -19,7 +19,7 @@ Visuals:
 "InaSAFE is free software that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities." It can be used in conjunction with OSM data, to estimate affected elements <sup><a href="#fn1" id="ref1">1</a></sup> in a selected area using OSM data or other datasets.
 <br>
 
-<b>Estimated number of structures affected per MMI intensity</b>
+<h2>Estimated number of structures affected per MMI intensity</h2>
 
 <b>Hazard source</b>: Shaking Intensity Area - USGS -<br>
 <b>Exposure source</b>: Building - OpenStreetMap -<br>
@@ -29,19 +29,19 @@ Visuals:
 <table border="0" cellspacing="0"><colgroup width="119"></colgroup> <colgroup width="213"></colgroup> <colgroup width="258"></colgroup>
 <tbody>
 <tr>
-<td align="center" valign="bottom" height="19"><strong><span style="color: #000000;">MMI</span></strong></td>
-<td align="center" valign="bottom"><strong><span style="color: #000000;">Shake Intensity</span></strong></td>
-<td align="center" valign="bottom"><strong><span style="color: #000000;">Number of Affected Buildings</span></strong></td>
+<td align="center" valign="bottom" height="19"><strong><span style="color: #FFE699;">MMI</span></strong></td>
+<td align="center" valign="bottom"><strong><span style="color: #FFE699;">Shake Intensity</span></strong></td>
+<td align="center" valign="bottom"><strong><span style="color: #FFE699;">Number of Affected Buildings</span></strong></td>
 </tr>
 <tr>
 <td align="left" valign="bottom" bgcolor="#00C6B5" height="19"><span style="color: #000000;">IV</span></td>
-<td align="left" valign="bottom" bgcolor="#00C6B5"><span style="color: #000000;">Light</span></td>
-<td align="right" valign="bottom" bgcolor="#00C6B5"><em><span style="color: #000000;">26,800</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF"><span style="color: #000000;">Light</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">26,800</span></em></td>
 </tr>
 <tr>
 <td align="left" valign="bottom" bgcolor="#00A600" height="19"><span style="color: #000000;">V</span></td>
-<td align="left" valign="bottom" bgcolor="#00A600"><span style="color: #000000;">Moderate</span></td>
-<td align="right" valign="bottom" bgcolor="#00A600"><em><span style="color: #000000;">2,700</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF"><span style="color: #000000;">Moderate</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">2,700</span></em></td>
 </tr>
 <tr>
 <td align="left" valign="bottom" bgcolor="#FFF701" height="19"><span style="color: #000000;">VI</span></td>
@@ -59,8 +59,8 @@ Visuals:
 <td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">1,200</span></em></td>
 </tr>
 <tr>
-<td colspan="2" align="center" valign="bottom" height="19"><strong><span style="color: #000000;">Total</span></strong></td>
-<td align="right" valign="bottom"><span style="color: #000000;">46,800</span></td>
+<td colspan="2" align="center" valign="bottom" height="19"><strong><span style="color: #FFE699;">Total</span></strong></td>
+<td align="right" valign="bottom"><span style="color: #FFE699;">46,800</span></td>
 </tr>
 </tbody>
 </table>
