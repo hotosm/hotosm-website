@@ -60,6 +60,9 @@ Estimated number of structures affected per MMI intensity
  <br>
  <br>
  <br>
+
+Estimated number of structures affected per district.
+
 <table border="0" cellspacing="0"><colgroup width="119"></colgroup> <colgroup width="213"></colgroup>
 <tbody>
 <tr>
