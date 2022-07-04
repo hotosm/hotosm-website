@@ -29,16 +29,24 @@ In the event of an Earthquake, how many Structures might be affected?
     <td>IV</td>
     <td>V</td>
     <td>VI</td>
+    <td>VIII</td>
+    <td>IX</td>
   </tr>
   <tr>
     <td>Light</td>
     <td>Moderate</td>
     <td>Strong</td>
+    <td>Severe</td>
+    <td>Violent</td>
+    <td>Total</td>
   </tr>
   <tr>
     <td>26800</td>
     <td>2700</td>
     <td>4300</td>
+    <td>11800</td>
+    <td>1200</td>
+    <td>46800</td>
   </tr>
 </table>
 
