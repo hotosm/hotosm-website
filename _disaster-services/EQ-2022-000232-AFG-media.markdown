@@ -21,9 +21,14 @@ In the event of an Earthquake, how many Structures might be affected?
 
 <table>
   <tr>
-    <th>IV</th>
-    <th>V</th>
-    <th>VI</th>
+    <th>MMI</th>
+    <th>Shake Intensity</th>
+    <th>Number of Affected Buildings</th>
+  </tr>
+  <tr>
+    <td>IV</td>
+    <td>V</td>
+    <td>VI</td>
   </tr>
   <tr>
     <td>Light</td>
@@ -37,4 +42,5 @@ In the event of an Earthquake, how many Structures might be affected?
   </tr>
 </table>
 
+ <br>
 
