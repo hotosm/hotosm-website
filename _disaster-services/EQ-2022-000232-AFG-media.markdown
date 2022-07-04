@@ -29,9 +29,9 @@ Visuals:
 <table border="0" cellspacing="0"><colgroup width="119"></colgroup> <colgroup width="213"></colgroup> <colgroup width="258"></colgroup>
 <tbody>
 <tr>
-<td align="center" valign="bottom" height="19"><strong><span style="color: #FFE699;">MMI</span></strong></td>
-<td align="center" valign="bottom"><strong><span style="color: #FFE699;">Shake Intensity</span></strong></td>
-<td align="center" valign="bottom"><strong><span style="color: #FFE699;">Number of Affected Buildings</span></strong></td>
+<td align="center" valign="bottom" height="19" bgcolor="#FFE699"><strong><span style="color: #000000;">MMI</span></strong></td>
+<td align="center" valign="bottom" bgcolor="#FFE699"><strong><span style="color: #000000;">Shake Intensity</span></strong></td>
+<td align="center" valign="bottom" bgcolor="#FFE699"><strong><span style="color: #000000;">Number of Affected Buildings</span></strong></td>
 </tr>
 <tr>
 <td align="left" valign="bottom" bgcolor="#00C6B5" height="19"><span style="color: #000000;">IV</span></td>
