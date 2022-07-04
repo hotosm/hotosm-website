@@ -49,6 +49,110 @@ In the event of an Earthquake, how many Structures might be affected?
     <td>46800</td>
   </tr>
 </table>
-
  <br>
-
+ <br>
+ <br>
+<table border="0" cellspacing="0"><colgroup width="119"></colgroup> <colgroup width="213"></colgroup>
+<tbody>
+<tr>
+<td align="center" valign="bottom" bgcolor="#FFE699" height="19"><strong><span style="color: #000000;">District Name</span></strong></td>
+<td align="center" valign="bottom" bgcolor="#FFE699"><strong><span style="color: #000000;">Number of Affected Buildings</span></strong></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Sharana</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">405</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Sar Hawza</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">45</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Spera</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">10,147</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Zurmat District</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">103</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Mandozayi</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">1,277</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Urgun</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">510</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Gardez District</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">24,766</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Tani</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">2,769</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Musakhel</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">1</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Shamal</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">196</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Surobi</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">4</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Gurbuz</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">107</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Ahmadabad</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">460</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Gayan</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">2,905</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Mata Khan</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">1</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Nika</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">67</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Ziruk</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">587</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Barmal</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">837</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Zadran</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">615</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Khost District</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">132</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Nadir Shah Kot</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">202</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Tirazayi</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">2</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">No Information</span></td>
+<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">662</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFE699" height="19"><strong><span style="color: #000000;">Total</span></strong></td>
+<td align="right" valign="bottom" bgcolor="#FFE699"><strong><span style="color: #000000;">46,800</span></strong></td>
+</tr>
+</tbody>
+</table>
