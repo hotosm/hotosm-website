@@ -16,6 +16,14 @@ Visuals:
 - EQ-2022-000232-AFG-media-02
 ---
 
+"InaSAFE is free software that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities." It can be used in conjunction with OSM data, to estimate affected elements in a selected area using OSM data or other datasets.
+<br>
+Affected: An exposure element (e.g. people, roads, buildings, land
+cover) that experiences a hazard (e.g. tsunami, flood, earthquake) and
+endures consequences (e.g. damage, evacuation, displacement, death)
+due to that hazard.
+
+
 Estimated number of structures affected per MMI intensity
 
 <table border="0" cellspacing="0"><colgroup width="119"></colgroup> <colgroup width="213"></colgroup> <colgroup width="258"></colgroup>
