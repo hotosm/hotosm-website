@@ -19,21 +19,12 @@ Visuals:
 "InaSAFE is free software that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities." It can be used in conjunction with OSM data, to estimate affected elements <sup><a href="#fn1" id="ref1">1</a></sup> in a selected area using OSM data or other datasets.
 <br>
 
+<b>Estimated number of structures affected per MMI intensity</b>
 
-<sup id="fn1">1. [Affected: An exposure element (e.g. people, roads, buildings, land
-cover) that experiences a hazard (e.g. tsunami, flood, earthquake) and
-endures consequences (e.g. damage, evacuation, displacement, death)
-due to that hazard.]<a href="#ref1">↩</a></sup>
-
-
-
-
-Estimated number of structures affected per MMI intensity
-
-<b>Hazard source</b> Shaking Intensity Area - USGS -
-<b>Exposure source</b> Building - OpenStreetMap -
-<b>Aggregation source</b> District Affected - source not available -
-<b>Impact Function</b> Earthquake Polygon On Structures Polygon
+<b>Hazard source</b>: Shaking Intensity Area - USGS -<br>
+<b>Exposure source</b>: Building - OpenStreetMap -<br>
+<b>Aggregation source</b>: District Affected - source not available -<br>
+<b>Impact Function</b>: Earthquake Polygon On Structures Polygon<br>
 
 <table border="0" cellspacing="0"><colgroup width="119"></colgroup> <colgroup width="213"></colgroup> <colgroup width="258"></colgroup>
 <tbody>
@@ -87,96 +78,96 @@ Estimated number of structures affected per district.
 <td align="center" valign="bottom" bgcolor="#FFE699"><strong><span style="color: #000000;">Number of Affected Buildings</span></strong></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Sharana</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">405</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Sharana</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">405</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Sar Hawza</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">45</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Sar Hawza</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">45</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Spera</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">10,147</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Spera</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">10,147</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Zurmat District</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">103</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Zurmat District</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">103</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Mandozayi</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">1,277</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Mandozayi</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">1,277</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Urgun</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">510</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Urgun</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">510</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Gardez District</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">24,766</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Gardez District</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">24,766</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Tani</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">2,769</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Tani</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">2,769</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Musakhel</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">1</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Musakhel</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">1</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Shamal</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">196</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Shamal</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">196</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Surobi</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">4</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Surobi</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">4</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Gurbuz</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">107</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Gurbuz</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">107</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Ahmadabad</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">460</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Ahmadabad</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">460</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Gayan</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">2,905</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Gayan</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">2,905</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Mata Khan</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">1</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Mata Khan</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">1</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Nika</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">67</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Nika</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">67</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Ziruk</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">587</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Ziruk</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">587</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Barmal</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">837</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Barmal</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">837</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Zadran</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">615</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Zadran</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">615</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Khost District</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">132</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Khost District</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">132</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Nadir Shah Kot</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">202</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Nadir Shah Kot</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">202</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">Tirazayi</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">2</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Tirazayi</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">2</span></em></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #ffffff;">No Information</span></td>
-<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #ffffff;">662</span></em></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">No Information</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">662</span></em></td>
 </tr>
 <tr>
 <td align="left" valign="bottom" bgcolor="#FFE699" height="19"><strong><span style="color: #000000;">Total</span></strong></td>
@@ -185,9 +176,12 @@ Estimated number of structures affected per district.
 </tbody>
 </table>
 
-
+<sup id="fn1">1. [Affected: An exposure element (e.g. people, roads, buildings, land
+cover) that experiences a hazard (e.g. tsunami, flood, earthquake) and
+endures consequences (e.g. damage, evacuation, displacement, death)
+due to that hazard.]<a href="#ref1">↩</a></sup>
 
 
 
  <br>
-</b>Download:</b>
+<b>Download:</b>
