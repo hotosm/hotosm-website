@@ -17,4 +17,24 @@ Visuals:
 ---
 
 Analysis question
-In the event of a Earthquake, how many Structures might be affected?
+In the event of an Earthquake, how many Structures might be affected?
+
+<table>
+  <tr>
+    <th>IV</th>
+    <th>V</th>
+    <th>VI</th>
+  </tr>
+  <tr>
+    <td>Light</td>
+    <td>Moderate</td>
+    <td>Strong</td>
+  </tr>
+  <tr>
+    <td>26800</td>
+    <td>2700</td>
+    <td>4300</td>
+  </tr>
+</table>
+
+
