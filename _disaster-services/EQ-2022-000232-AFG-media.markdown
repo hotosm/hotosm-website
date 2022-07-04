@@ -18,37 +18,45 @@ Visuals:
 
 Analysis question
 In the event of an Earthquake, how many Structures might be affected?
-
-<table>
-  <tr>
-    <th>MMI</th>
-    <th>Shake Intensity</th>
-    <th>Number of Affected Buildings</th>
-  </tr>
-  <tr>
-    <td>IV</td>
-    <td>V</td>
-    <td>VI</td>
-    <td>VIII</td>
-    <td>IX</td>
-  </tr>
-  <tr>
-    <td>Light</td>
-    <td>Moderate</td>
-    <td>Strong</td>
-    <td>Severe</td>
-    <td>Violent</td>
-    <td>Total</td>
-  </tr>
-  <tr>
-    <td>26800</td>
-    <td>2700</td>
-    <td>4300</td>
-    <td>11800</td>
-    <td>1200</td>
-    <td>46800</td>
-  </tr>
+<table border="0" cellspacing="0"><colgroup width="119"></colgroup> <colgroup width="213"></colgroup> <colgroup width="258"></colgroup>
+<tbody>
+<tr>
+<td align="center" valign="bottom" height="19"><strong><span style="color: #000000;">MMI</span></strong></td>
+<td align="center" valign="bottom"><strong><span style="color: #000000;">Shake Intensity</span></strong></td>
+<td align="center" valign="bottom"><strong><span style="color: #000000;">Number of Affected Buildings</span></strong></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#00C6B5" height="19"><span style="color: #000000;">IV</span></td>
+<td align="left" valign="bottom" bgcolor="#00C6B5"><span style="color: #000000;">Light</span></td>
+<td align="right" valign="bottom" bgcolor="#00C6B5"><em><span style="color: #000000;">26,800</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#00A600" height="19"><span style="color: #000000;">V</span></td>
+<td align="left" valign="bottom" bgcolor="#00A600"><span style="color: #000000;">Moderate</span></td>
+<td align="right" valign="bottom" bgcolor="#00A600"><em><span style="color: #000000;">2,700</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFF701" height="19"><span style="color: #000000;">VI</span></td>
+<td align="left" valign="bottom" bgcolor="#FFF701"><span style="color: #000000;">Strong</span></td>
+<td align="right" valign="bottom" bgcolor="#FFF701"><em><span style="color: #000000;">4,300</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FF8D01" height="19"><span style="color: #000000;">VIII</span></td>
+<td align="left" valign="bottom" bgcolor="#FF8D01"><span style="color: #000000;">Severe</span></td>
+<td align="right" valign="bottom" bgcolor="#FF8D01"><em><span style="color: #000000;">11,800</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FF0101" height="19"><span style="color: #000000;">IX</span></td>
+<td align="left" valign="bottom" bgcolor="#FF0101"><span style="color: #000000;">Violent</span></td>
+<td align="right" valign="bottom" bgcolor="#FF0101"><em><span style="color: #000000;">1,200</span></em></td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="bottom" height="19"><strong><span style="color: #000000;">Total</span></strong></td>
+<td align="right" valign="bottom"><span style="color: #000000;">46,800</span></td>
+</tr>
+</tbody>
 </table>
+<p>&nbsp;</p>
  <br>
  <br>
  <br>
