@@ -59,14 +59,13 @@ Visuals:
 <td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">1,200</span></em></td>
 </tr>
 <tr>
-<td colspan="2" align="center" valign="bottom" height="19"><strong><span style="color: #FFE699;">Total</span></strong></td>
-<td align="right" valign="bottom"><span style="color: #FFE699;">46,800</span></td>
+<td colspan="2" align="center" valign="bottom" bgcolor="#FFE699" height="19"><strong><span style="color: #000000;">Total</span></strong></td>
+<td align="right" valign="bottom" bgcolor="#FFE699"><span style="color: #000000;">46,800</span></td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 
- <br>
  <br>
 
 Estimated number of structures affected per district.
@@ -175,7 +174,7 @@ Estimated number of structures affected per district.
 </tr>
 </tbody>
 </table>
-
+ <br>
 <sup id="fn1">1. [Affected: An exposure element (e.g. people, roads, buildings, land
 cover) that experiences a hazard (e.g. tsunami, flood, earthquake) and
 endures consequences (e.g. damage, evacuation, displacement, death)
