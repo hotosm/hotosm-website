@@ -68,7 +68,7 @@ Visuals:
 
  <br>
 
-<h2>Estimated number of structures affected per district.<sup><a href="#fn2" id="ref2">2</a>
+<h2>Estimated number of structures affected per district.<sup><a href="#fn2" id="ref2">2</a></h2>
 <br>
 <br>
 <table border="0" cellspacing="0"><colgroup width="119"></colgroup> <colgroup width="213"></colgroup>
