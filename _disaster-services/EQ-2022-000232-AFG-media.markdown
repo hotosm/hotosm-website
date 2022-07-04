@@ -67,8 +67,8 @@ Estimated number of structures affected per MMI intensity
 <td align="center" valign="bottom" bgcolor="#FFE699"><strong><span style="color: #000000;">Number of Affected Buildings</span></strong></td>
 </tr>
 <tr>
-<td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Sharana</span></td>
-<td align="right" valign="bottom" bgcolor="#E64545"><em><span style="color: #ffffff;">405</span></em></td>
+<td align="left" valign="bottom" bgcolor="#000000" height="19"><span style="color: #ffffff;">Sharana</span></td>
+<td align="right" valign="bottom" bgcolor="#000000"><em><span style="color: #ffffff;">405</span></em></td>
 </tr>
 <tr>
 <td align="left" valign="bottom" bgcolor="#E64545" height="19"><span style="color: #ffffff;">Sar Hawza</span></td>
