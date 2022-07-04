@@ -68,8 +68,9 @@ Visuals:
 
  <br>
 
-<h2>Estimated number of structures affected per district.<sup><a href="#fn2" id="ref2">2</a></h2>
- <br>
+<h2>Estimated number of structures affected per district.<sup><a href="#fn2" id="ref2">2</a>
+<br>
+<br>
 <table border="0" cellspacing="0"><colgroup width="119"></colgroup> <colgroup width="213"></colgroup>
 <tbody>
 <tr>
@@ -178,7 +179,7 @@ Visuals:
 <sup id="fn1">1. Affected: An exposure element (e.g. people, roads, buildings, land
 cover) that experiences a hazard (e.g. tsunami, flood, earthquake) and
 endures consequences (e.g. damage, evacuation, displacement, death)
-due to that hazard.<a href="#ref1">↩</a></sup>
+due to that hazard.<a href="#ref1">↩</a></sup> <br>
 <sup id="fn2">1. The impacts on roads, people, buildings and other exposure elements may be underestimated if the exposure data are incomplete<a href="#ref2">↩</a></sup>
 
 
