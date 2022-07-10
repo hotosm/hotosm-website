@@ -1,0 +1,18 @@
+---
+title: East Timor Flood 2022 Alert
+date: 2022-07-07 11:41:00 Z
+Glide: FL-2022-000002-HOT
+Event Name: East Timor Flood 2022
+GDACS ID: na
+GDACS-level: na
+Country:
+- Timor-Leste
+Event type: Fl Flood
+Summary Text: Disaster Services is currently monitoring this event in the Pacific.
+Feature Image: Fl Flood
+Status: alert
+Post-type: update
+source: <a href="http://www.tatoli.tl/2022/07/01/cruz-vermella-viqueque-apoia-emerjensia-vitima-inundasaun-iha-viqueque-vila/"
+  target="_blank">TATOLI, I.P—Agência de Noticiosa de Timor-Leste</a>
+---
+
