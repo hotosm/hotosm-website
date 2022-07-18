@@ -104,7 +104,7 @@ layout:
 {% for event in site.disaster-services %}
 {
 "type": "Event",
-"title": "{{ event.title | escape }}",
+"title": "{{ event.title | escape | truncatewords : 40 | strip | strip_newlines  }}",
 "summary":"{{ event['Summary Text'] | escape | truncatewords : 40 | strip | strip_newlines | prepend: ' ' }}",
 "subtitle":"Event Type: {{ event['Event type'] | escape | truncatewords: 40 | strip | strip_newlines | prepend: ' ' }} ",
 "url":"{{ event.url }}",
