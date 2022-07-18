@@ -1,5 +1,5 @@
 ---
-title: 'Durban Floods: South Africa Activation (support)'
+title: 'Durban Floods: South Africa Activation'
 date: 2022-05-19 07:32:00 Z
 Glide: FL-2022-000201-ZAF
 Event Name: Overall Orange Flood alert in South Africa from 09 Apr 2022
