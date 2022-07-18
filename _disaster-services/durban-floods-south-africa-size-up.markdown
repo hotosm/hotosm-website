@@ -2,7 +2,7 @@
 title: 'Durban Floods: South Africa Size-up'
 date: 2022-04-14 16:12:00 Z
 Glide: FL-2022-000201-ZAF
-Event Name: 'Durban Floods: South Africa'
+Event Name: Overall Orange Flood alert in South Africa from 09 Apr 2022
 GDACS ID: FL 1101354
 GDACS-level: Orange (1.5)
 Country:
