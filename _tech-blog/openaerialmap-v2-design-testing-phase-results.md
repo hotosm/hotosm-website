@@ -1,14 +1,17 @@
 ---
 title: OpenAerialMapv2 - Design Testing Phase Results
-date: 2022-07-19
-Person: 
- - Cristiano Giovando
- - DK Benjamin
- - Aliaksandra Tsiatserkina
- - Misha Malikin
+date: 2022-07-19 00:00:00 Z
+Person:
+- Cristiano Giovando
+- DK Benjamin
+- Aliaksandra Tsiatserkina
+- Misha Malikin
 Tool:
 - OpenAerialMap
-Summary Text: "It's time to share the progress of the OpenAerialMap redesign project again. In previous reports, you could read about the Project Kick-Off and the Design Phase. In June, the Kontur team involved users in the testing phase of the updated design of OAM."
+Summary Text: It's time to share the progress of the OpenAerialMap redesign project
+  again. In previous reports, you could read about the Project Kick-Off and the Design
+  Phase. In June, the Kontur team involved users in the testing phase of the updated
+  design of OAM.
 ---
 
 ![OAM Redesign Testing Phase](https://cdn.hotosm.org/website/OAM+tweet+mockup+Testing.png)
