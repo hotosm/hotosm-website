@@ -4,6 +4,7 @@ date: 2022-05-26 08:57:00 Z
 Photo: "/uploads/IMG_1718(1).jpg"
 Member Type:
   Is Staff: true
+  Is Voting Member: true
 Job Title: Corporate Virtual Volunteering Sr. Associate
 Country: Germany, Hamburg
 Team: Global
