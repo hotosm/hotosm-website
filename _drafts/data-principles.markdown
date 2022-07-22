@@ -8,11 +8,12 @@ tags:
 
 <table>
 	<tr>
-		<th>Open and accessible</th>
-		<th>Useful and usable data</th>
+		<th>###Open and accessible</th>
+		<th>###Useful and usable data</th>
 	</tr>
 	<tr>
-		<td><b>What this means:</b>
+		<td>**What this means:**
+
 Contribute to and advocate for open data, first and foremost OpenStreetMap, and enable anyone to make effective use of this data.
 		</td>
 		<td><b>What this means:</b>
@@ -21,11 +22,11 @@ Collected and contributed OSM data should meet a purpose that’s well defined a
 	</tr>
 	<tr>
 		<td><b>What we do:</b>
-Contribute data to open data sources. First and foremost to OpenStreetMap under the ODbL - the license selected for OSM data which allows free sharing, use, and adaptation.
-Ensure (re)usability of data we contribute to OSM by providing ample documentation and metadata.
-Advocate and push for open, ODbL compatible, licensing of existing datasets from partners.
-Provide easy ways of accessing and using OSM data for a variety of users, and explain how OSM data can be used and incorporated.
-Make data available in easy to understand and use formats - including digital formats and platforms (HDX), mobile applications, and paper maps.
+1. Contribute data to open data sources. First and foremost to OpenStreetMap under the ODbL - the license selected for OSM data which allows free sharing, use, and adaptation.
+2. Ensure (re)usability of data we contribute to OSM by providing ample documentation and metadata.
+3. Advocate and push for open, ODbL compatible, licensing of existing datasets from partners.
+4. Provide easy ways of accessing and using OSM data for a variety of users, and explain how OSM data can be used and incorporated.
+5. Make data available in easy to understand and use formats - including digital formats and platforms (HDX), mobile applications, and paper maps.
 		</td>
 		<td><b>What we do:</b>
 Be deliberate in what data we collect and generate and for what purposes, and align this with the pathways to impactful use of data.
@@ -37,8 +38,8 @@ Provide technical resources and services, support, and case studies (including m
 		</td>
 	</tr>
 	<tr>
-		<th>Inclusive and representative</th>
-		<th>Ethical data and protection</th>
+		<th>###Inclusive and representative</th>
+		<th>###Ethical data and protection</th>
 	</tr>
 	<tr>
 		<td><b>What this means:</b>
