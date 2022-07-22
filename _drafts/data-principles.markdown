@@ -44,6 +44,7 @@ Collected and contributed OSM data should meet a purpose that’s well defined a
 		</td>
 	</tr>
 </table>
+<br/>
 <table>
 	<tr>
 		<th><h3 style="color: #D73F3F">Inclusive and representative</h3></th>
