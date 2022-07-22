@@ -12,6 +12,26 @@ Person:
 - Leen D'hondt
 ---
 
+HOT, and the open mapping communities we work with and support, face a couple of unique challenges in how we work with data:
+
+- Data that is provided as open data in OpenStreetMap will be available essentially forever. On top of today's, we need to anticipate and think about future potential risks and harms.
+- Using the OpenStreetMap platform allows us much greater reach and accessibility of data. This is hugely beneficial for our work - and translates to higher exposure to risk, and the potential for (in our eyes) malicious use of data. These potential risks need to be mitigated.
+
+So why do we need a set of Data Principles? We see the Data Principles as a way to formulate and communicate a clear standard, providing transparency and trustworthiness on how we treat and work with data. Additionally, they serve as the touchstone and framework for responsible & ethical data policies, and to Inform data quality & data collection priorities.
+
+Our data principles have been developed alongside HOT’s updated and renewed values, and will serve as guidelines for all other parts of our Protection framework that we’re currently (re)developing. The purpose of the protection framework is to provide the guidance, procedures, and policies to ensure that we uphold HOT’s responsible data and ethical practices to protect people from harm.
+
+Spatial data and mapping activities can create risk or cause harm for people and communities affected. HOT has the responsibility to understand, assess, mitigate, and protect against risk and harm arising from activities we undertake or support.
+
+The four Data Principles capture what we feel are the most important aspects around HOT’s handling of data, and are created to indicate what we should, and can, be doing:
+
+- Open and accessible
+- Useful and usable data
+- Inclusive and representative
+- Ethical data and protection
+
+Each of the Principles expands into a small set of guidelines that seek to provide actionable advice, and will link out to more and more resources as more parts of our protection framework and tools are completed:
+
 <table style="border-bottom: none">
 	<tr>
 		<th><h2 style="color: #D73F3F">Open and accessible</h2></th>
@@ -77,7 +97,8 @@ Go for the most meaningful collaboration in data management and planning. Uphold
 	</tr>
 </table> 
 
-
-
 [View the principles as a presentation](https://docs.google.com/presentation/d/e/2PACX-1vRCzr84b_Ad5MRSziA1gfa2gpEwL1qjNtj0nCCbJRa4eRAqkORwgQAUYuFgRTBmcZ9vBt9bZ-D8ybCG/pub?start=false&loop=false&delayms=3000)
 
+Following up from the Data Principles, we are currently fleshing out the rest of our policies, procedures and tools that altogether make up our Protection framework. Currently, various parts of this, such as the “Context and Risk Analysis” and the “Data Impact Assessments” are being trialed and improved with community grantees in the ESA Hub, as well as being incorporated into Activations and other program areas. Once we get to a first version of the framework, we will release all parts of it openly, and invite feedback, contributions, and improvements. The image below shows what we are working to develop:
+
+![2022-05_Protection framework project planning.png](/uploads/2022-05_Protection%20framework%20project%20planning.png)
