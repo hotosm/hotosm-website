@@ -14,8 +14,8 @@ Person:
 
 <table style="border-bottom: none">
 	<tr>
-		<th><h3 style="color: #D73F3F">Open and accessible</h3></th>
-		<th style="border-left: 1px solid black"><h3 style="color: #D73F3F">Useful and usable data</h3></th>
+		<th><h2 style="color: #D73F3F">Open and accessible</h2></th>
+		<th style="border-left: 1px solid black"><h2 style="color: #D73F3F">Useful and usable data</h2></th>
 	</tr>
 	<tr>
 		<td style="border-bottom: none;"><p style="font-weight: bold">What this means:</p>
@@ -47,8 +47,8 @@ Collected and contributed OSM data should meet a purpose that’s well defined a
 <br/>
 <table style="border-bottom: none">
 	<tr>
-		<th><h3 style="color: #D73F3F">Inclusive and representative</h3></th>
-		<th style="border-left: 1px solid black"><h3 style="color: #D73F3F">Ethical data and protection</h3></th>
+		<th><h2 style="color: #D73F3F">Inclusive and representative</h2></th>
+		<th style="border-left: 1px solid black"><h2 style="color: #D73F3F">Ethical data and protection</h2></th>
 	</tr>
 	<tr>
 		<td style="border-bottom: none;"><p style="font-weight: bold">What this means:</p>
