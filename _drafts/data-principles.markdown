@@ -18,7 +18,7 @@ Programs and teams at HOT, and the open mapping communities we work with and sup
 - Data that is provided as open data in OpenStreetMap will be available essentially forever. On top of today's, we need to anticipate and think about future potential risks and harms.
 - Using the OpenStreetMap platform allows us much greater reach and accessibility of data. This is hugely beneficial for our work - and translates to higher exposure to risk, and the potential for (in our eyes) malicious use of data. These potential risks need to be mitigated.
 
-So why do we need a set of Data Principles? We see the Data Principles as a way to formulate and communicate a clear standard, providing transparency and trustworthiness on how we treat and work with data. Additionally, they serve as the touchstone and framework for responsible & ethical data policies, and to Inform data quality & data collection priorities.
+So why do we need a set of Data Principles? The Data Principles formulate and communicate a clear standard, providing transparency and trustworthiness on how we treat and work with data. Additionally, they serve as the touchstone and framework for responsible & ethical data policies, and to Inform data quality & data collection priorities.
 
 Our data principles have been developed alongside HOT’s updated and renewed values, and will serve as guidelines for all other parts of our Protection framework that we’re currently (re)developing. The purpose of the protection framework is to provide the guidance, procedures, and policies to ensure that we uphold HOT’s responsible data and ethical practices to protect people from harm.
 
