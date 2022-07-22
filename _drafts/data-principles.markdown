@@ -8,16 +8,19 @@ tags:
 
 <table>
 	<tr>
-		<th><h3>Open and accessible</h3></th>
-		<th><h3>Useful and usable data</h3></th>
+		<th><h3 style="color: #D73F3F">Open and accessible</h3></th>
+		<th><h3 style="color: #D73F3F">Useful and usable data</h3></th>
 	</tr>
 	<tr>
 		<td><p style="font-weight: bold">What this means:</p>
-
+		<p>
 Contribute to and advocate for open data, first and foremost OpenStreetMap, and enable anyone to make effective use of this data.
+		</p>
 		</td>
 		<td><p style="font-weight: bold">What this means:</p>
+		<p>
 Collected and contributed OSM data should meet a purpose that’s well defined and described, and conform to given data quality standards so it can be understood, used, and re-used within and outside of HOT’s Impact Areas.
+		</p>
 		</td>
 	</tr>
 	<tr>
@@ -41,15 +44,19 @@ Collected and contributed OSM data should meet a purpose that’s well defined a
 		</td>
 	</tr>
 	<tr>
-		<th><h3>Inclusive and representative</h3></th>
-		<th><h3>Ethical data and protection</h3></th>
+		<th><h3 style="color: #D73F3F">Inclusive and representative</h3></th>
+		<th><h3 style="color: #D73F3F">Ethical data and protection</h3></th>
 	</tr>
 	<tr>
 		<td><p style="font-weight: bold">What this means:</p>
+		<p>
 Ensure communities at all levels can access and work in the OSM ecosystem by how HOT prioritizes, creates, and structures data collection, tech, and community resources.
+		</p>
 		</td>
 		<td><p style="font-weight: bold">What this means:</p>
+		<p>
 Go for the most meaningful collaboration in data management and planning. Uphold policies and guidance to minimize risk of harms, including impact assessments and informed consent for any data collection or use, based on the people and communities we work with.
+		</p>
 		</td>
 	</tr>
 	<tr>
