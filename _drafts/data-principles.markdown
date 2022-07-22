@@ -6,7 +6,7 @@ tags:
 - data principles
 ---
 
-<table>
+<table style="border-bottom: none">
 	<tr>
 		<th><h3 style="color: #D73F3F">Open and accessible</h3></th>
 		<th style="border-left: 1px solid black"><h3 style="color: #D73F3F">Useful and usable data</h3></th>
@@ -16,15 +16,6 @@ tags:
 		<p>
 Contribute to and advocate for open data, first and foremost OpenStreetMap, and enable anyone to make effective use of this data.
 		</p>
-		</td>
-		<td style="border-left: 1px solid black"><p style="font-weight: bold">What this means:</p>
-		<p>
-Collected and contributed OSM data should meet a purpose that’s well defined and described, and conform to given data quality standards so it can be understood, used, and re-used within and outside of HOT’s Impact Areas.
-		</p>
-		</td>
-	</tr>
-	<tr>
-		<td><p style="font-weight: bold">What we do:</p>
 		<ol style="font-size: 1em">
 <li>Contribute data to open data sources. First and foremost to OpenStreetMap under the ODbL - the license selected for OSM data which allows free sharing, use, and adaptation.</li>
 <li>Ensure (re)usability of data we contribute to OSM by providing ample documentation and metadata.</li>
@@ -33,7 +24,10 @@ Collected and contributed OSM data should meet a purpose that’s well defined a
 <li>Make data available in easy to understand and use formats - including digital formats and platforms (HDX), mobile applications, and paper maps.</li>
 		</ol>
 		</td>
-		<td style="border-left: 1px solid black"><p style="font-weight: bold">What we do:</p>
+		<td style="border-left: 1px solid black"><p style="font-weight: bold">What this means:</p>
+		<p>
+Collected and contributed OSM data should meet a purpose that’s well defined and described, and conform to given data quality standards so it can be understood, used, and re-used within and outside of HOT’s Impact Areas.
+		</p>
 		<ol style="font-size: 1em">
 <li>Be deliberate in what data we collect and generate and for what purposes, and align this with the pathways to impactful use of data.</li>
 <li>Align data collection and mapping with the priorities of communities and partners.</li>
@@ -44,8 +38,7 @@ Collected and contributed OSM data should meet a purpose that’s well defined a
 		</td>
 	</tr>
 </table>
-<br/>
-<table>
+<table style="border-bottom: none">
 	<tr>
 		<th><h3 style="color: #D73F3F">Inclusive and representative</h3></th>
 		<th style="border-left: 1px solid black"><h3 style="color: #D73F3F">Ethical data and protection</h3></th>
@@ -55,15 +48,7 @@ Collected and contributed OSM data should meet a purpose that’s well defined a
 		<p>
 Ensure communities at all levels can access and work in the OSM ecosystem by how HOT prioritizes, creates, and structures data collection, tech, and community resources.
 		</p>
-		</td>
-		<td style="border-left: 1px solid black"><p style="font-weight: bold">What this means:</p>
-		<p>
-Go for the most meaningful collaboration in data management and planning. Uphold policies and guidance to minimize risk of harms, including impact assessments and informed consent for any data collection or use, based on the people and communities we work with.
-		</p>
-		</td>
-	</tr>
-	<tr>
-		<td><p style="font-weight: bold">What we do:</p>
+		<p style="font-weight: bold">What we do:</p>
 		<ol style="font-size: 1em">
 <li>When creating mapping tasks, consider who and what we’re including, and who we’re omitting by how we define the area of impact and the data models.</li>
 <li>Design, create, promote, and use technology and tools that are accessible and usable. Give specific attention to more vulnerable and/or minority groups to reduce barriers to access.</li>
@@ -71,7 +56,10 @@ Go for the most meaningful collaboration in data management and planning. Uphold
 <li>Prioritize localization and accessibility of tools, documentation, and tech by providing multiple relevant languages.</li>
 		</ol>
 		</td>
-		<td style="border-left: 1px solid black"><p style="font-weight: bold">What we do:</p>
+		<td style="border-left: 1px solid black"><p style="font-weight: bold">What this means:</p>
+		<p>
+Go for the most meaningful collaboration in data management and planning. Uphold policies and guidance to minimize risk of harms, including impact assessments and informed consent for any data collection or use, based on the people and communities we work with.
+		</p>
 		<ol style="font-size: 1em">
 <li>Apply a workable process of engagement and informed consent across our activities, including for remote sensing and digitization (while accounting for an ever more sophisticated technological landscape).</li>
 <li>Ensure respect for the beliefs, cultures, lifestyles, and choices of communities in the decision making around data collection and sharing, and in our use of collected information. Engage partners in the ethical use of information.</li>
