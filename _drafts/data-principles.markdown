@@ -24,7 +24,7 @@ Our data principles have been developed alongside HOT’s updated and renewed va
 
 Spatial data and mapping activities can create risk or cause harm for people and communities affected. HOT has the responsibility to understand, assess, mitigate, and protect against risk and harm arising from activities we undertake or support.
 
-The four Data Principles capture what we feel are the most important aspects around HOT’s handling of data, and are created to indicate what we should, and can, be doing:
+The Data Principles capture the most important aspects we need to have in mind, and act on, around how we work with data:
 
 - Open and accessible
 - Useful and usable data
