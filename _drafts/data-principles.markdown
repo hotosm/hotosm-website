@@ -7,8 +7,9 @@ tags:
 Person:
 - Paul Uithol
 - Jessica Pechmann
-- Claudio de los Reyes
 - Shazmane Mandjee Rehamtula
+- Ivan Buendía Gayton
+- Claudio de los Reyes
 - Leen D'hondt
 ---
 
