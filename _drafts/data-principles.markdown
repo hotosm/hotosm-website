@@ -4,6 +4,12 @@ date: 2022-07-22 08:46:00 Z
 tags:
 - protection
 - data principles
+Person:
+- Paul Uithol
+- Jessica Pechmann
+- Claudio de los Reyes
+- Shazmane Mandjee Rehamtula
+- Leen D'hondt
 ---
 
 <table style="border-bottom: none">
