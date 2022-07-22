@@ -20,7 +20,7 @@ The open mapping communities we work with and support, and programs and teams at
 
 So why do we need a set of Data Principles? The Data Principles formulate and communicate a clear standard, providing transparency and trustworthiness on how we treat and work with data. Additionally, they serve as the touchstone and framework for responsible & ethical data policies, and to Inform data quality & data collection priorities.
 
-Our data principles have been developed alongside HOT’s updated and renewed values, and will serve as guidelines for all other parts of our Protection framework that we’re currently (re)developing. The purpose of the protection framework is to provide the guidance, procedures, and policies to ensure that we uphold HOT’s responsible data and ethical practices to protect people from harm.
+Our data principles have been developed alongside HOT’s updated and renewed values, and serve as guidelines for all other parts of our Protection framework. The purpose of the protection framework is to provide the guidance, procedures, and policies to ensure that we uphold HOT’s responsible data and ethical practices to protect people from harm.
 
 Spatial data and mapping activities can create risk or cause harm for people and communities affected. HOT has the responsibility to understand, assess, mitigate, and protect against risk and harm arising from activities we undertake or support.
 
