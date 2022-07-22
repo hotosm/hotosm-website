@@ -8,9 +8,9 @@ Person:
 - Paul Uithol
 - Jessica Pechmann
 - Shazmane Mandjee Rehamtula
-- Ivan Buendía Gayton
 - Claudio de los Reyes
 - Leen D'hondt
+- 
 ---
 
 The open mapping communities we work with and support, and programs and teams at HOT, face a couple of unique challenges in how we work with data:
