@@ -12,7 +12,7 @@ tags:
 		<th style="border-left: 1px solid black"><h3 style="color: #D73F3F">Useful and usable data</h3></th>
 	</tr>
 	<tr>
-		<td><p style="font-weight: bold">What this means:</p>
+		<td style="border-bottom: none;"><p style="font-weight: bold">What this means:</p>
 		<p>
 Contribute to and advocate for open data, first and foremost OpenStreetMap, and enable anyone to make effective use of this data.
 		</p>
@@ -24,7 +24,7 @@ Contribute to and advocate for open data, first and foremost OpenStreetMap, and 
 <li>Make data available in easy to understand and use formats - including digital formats and platforms (HDX), mobile applications, and paper maps.</li>
 		</ol>
 		</td>
-		<td style="border-left: 1px solid black"><p style="font-weight: bold">What this means:</p>
+		<td style="border-left: 1px solid black; border-bottom: none;"><p style="font-weight: bold">What this means:</p>
 		<p>
 Collected and contributed OSM data should meet a purpose that’s well defined and described, and conform to given data quality standards so it can be understood, used, and re-used within and outside of HOT’s Impact Areas.
 		</p>
@@ -38,13 +38,14 @@ Collected and contributed OSM data should meet a purpose that’s well defined a
 		</td>
 	</tr>
 </table>
+<br/>
 <table style="border-bottom: none">
 	<tr>
 		<th><h3 style="color: #D73F3F">Inclusive and representative</h3></th>
 		<th style="border-left: 1px solid black"><h3 style="color: #D73F3F">Ethical data and protection</h3></th>
 	</tr>
 	<tr>
-		<td><p style="font-weight: bold">What this means:</p>
+		<td style="border-bottom: none;"><p style="font-weight: bold">What this means:</p>
 		<p>
 Ensure communities at all levels can access and work in the OSM ecosystem by how HOT prioritizes, creates, and structures data collection, tech, and community resources.
 		</p>
@@ -56,7 +57,7 @@ Ensure communities at all levels can access and work in the OSM ecosystem by how
 <li>Prioritize localization and accessibility of tools, documentation, and tech by providing multiple relevant languages.</li>
 		</ol>
 		</td>
-		<td style="border-left: 1px solid black"><p style="font-weight: bold">What this means:</p>
+		<td style="border-left: 1px solid black; border-bottom: none;"><p style="font-weight: bold">What this means:</p>
 		<p>
 Go for the most meaningful collaboration in data management and planning. Uphold policies and guidance to minimize risk of harms, including impact assessments and informed consent for any data collection or use, based on the people and communities we work with.
 		</p>
