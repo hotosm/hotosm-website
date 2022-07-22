@@ -8,4 +8,4 @@ tags:
 
 
 <iframe width="100%" height="800px"
-src="https://docs.google.com/presentation/d/e/2PACX-1vRCzr84b_Ad5MRSziA1gfa2gpEwL1qjNtj0nCCbJRa4eRAqkORwgQAUYuFgRTBmcZ9vBt9bZ-D8ybCG/pub?start=false&loop=false&delayms=3000"></iframe>
+src="https://docs.google.com/presentation/d/e/2PACX-1vRCzr84b_Ad5MRSziA1gfa2gpEwL1qjNtj0nCCbJRa4eRAqkORwgQAUYuFgRTBmcZ9vBt9bZ-D8ybCG/pub?embedded=true&start=false&loop=false&delayms=3000"></iframe>
