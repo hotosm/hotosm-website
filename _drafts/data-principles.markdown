@@ -43,6 +43,8 @@ Collected and contributed OSM data should meet a purpose that’s well defined a
 		</ol>
 		</td>
 	</tr>
+</table>
+<table>
 	<tr>
 		<th><h3 style="color: #D73F3F">Inclusive and representative</h3></th>
 		<th style="border-left: 1px solid black"><h3 style="color: #D73F3F">Ethical data and protection</h3></th>
@@ -78,6 +80,7 @@ Go for the most meaningful collaboration in data management and planning. Uphold
 		</td>
 	</tr>
 </table> 
+
 
 
 [View the principles as a presentation](https://docs.google.com/presentation/d/e/2PACX-1vRCzr84b_Ad5MRSziA1gfa2gpEwL1qjNtj0nCCbJRa4eRAqkORwgQAUYuFgRTBmcZ9vBt9bZ-D8ybCG/pub?start=false&loop=false&delayms=3000)
