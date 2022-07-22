@@ -37,11 +37,11 @@ The Data Principles capture the most important aspects we need to have in mind, 
 Contribute to and advocate for open data, first and foremost OpenStreetMap, and enable anyone to make effective use of this data.
 		</p>
 		<ol style="font-size: 1em">
-<li>Contribute data to open data sources. First and foremost to OpenStreetMap under the ODbL - the license selected for OSM data which allows free sharing, use, and adaptation.</li>
+<li>Contribute data to open data sources. First and foremost to OpenStreetMap under the [ODbL](https://wiki.openstreetmap.org/wiki/Open_Database_License) - the license selected for OSM data which allows free sharing, use, and adaptation.</li>
 <li>Ensure (re)usability of data we contribute to OSM by providing ample documentation and metadata.</li>
-<li>Advocate and push for open, ODbL compatible, licensing of existing datasets from partners.</li>
+<li>Advocate and push for open, [ODbL compatible](https://wiki.openstreetmap.org/wiki/Import/ODbL_Compatibility), licensing of existing datasets from partners.</li>
 <li>Provide easy ways of accessing and using OSM data for a variety of users, and explain how OSM data can be used and incorporated.</li>
-<li>Make data available in easy to understand and use formats - including digital formats and platforms (HDX), mobile applications, and paper maps.</li>
+<li>Make data available in easy to understand and use formats - including digital formats and platforms (such as the [HDX](https://data.humdata.org/organization/hot)), mobile applications, and paper maps.</li>
 		</ol>
 		</td>
 		<td style="border-left: 1px solid black; border-bottom: none;"><p style="font-weight: bold">What this means:</p>
@@ -51,7 +51,7 @@ Collected and contributed OSM data should meet a purpose that’s well defined a
 		<ol style="font-size: 1em">
 <li>Be deliberate in what data we collect and generate and for what purposes, and align this with the pathways to impactful use of data.</li>
 <li>Align data collection and mapping with the priorities of communities and partners.</li>
-<li>Improve the quality of OSM data and tagging schemas and standardization, including localization and contextualization.</li>
+<li>Improve the quality of OSM data and [tagging](https://wiki.openstreetmap.org/wiki/Map_features) schemas and standardization, including localization and contextualization.</li>
 <li>Ensure we follow OSM guidelines and procedures, such as organized editing, and import processes.</li>
 <li>Provide technical resources and services, support, and case studies (including measurement of the usability of data) for Impact areas use cases.</li>
 		</ol>
