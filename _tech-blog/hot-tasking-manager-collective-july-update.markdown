@@ -2,6 +2,14 @@
 title: HOT Tasking Manager Collective- July Update
 date: 2022-07-25 09:07:00 Z
 published: false
+Summary Text: Thank you to all the contributors and participants in the Tasking Manager
+  Collective. Hope you enjoy reading some of the highlights since the start of our
+  collaboration with the Kathmandu Living Labs team.
+Person: Petya Kangalova
+Project:
+- Tasking Manager
+Tool:
+- Tasking Manager
 ---
 
 
