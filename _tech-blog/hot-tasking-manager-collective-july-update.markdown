@@ -22,7 +22,7 @@ A lot has been happening thanks to the hard working team at Kathmandu Living Lab
 
 
 * We launched the **monthly Tasking Manager Collective Meet Ups ** in April 2022 and we have really enjoyed having this space to interact directly with users, understand their needs better and prioritize based on user needs. Our focus from the start has always been on building with, for, and by the community and we are very excited that these meets up are taking place! All updates and links to presentations can be seen in the [agenda rolling doc](https://docs.google.com/document/d/1SW7Klq49pD35k-gQIQT3UhhgVxF4yr6OfNIg1hXFeQA/edit#).
-[Meet Up -screenshot.PNG](/uploads/Meet%20Up%20-screenshot.PNG)
+[Meet Up -screenshot-a6b0c0.PNG](/uploads/Meet%20Up%20-screenshot-a6b0c0.PNG)
 
 * We asked contributors to **support with testing ** before any changes go live. We are very thankful for the enthusiasm and the time dedicated by our users for testing. On a monthly basis, any issues ready for testing are publicly available on [Github in the Testing Column](https://github.com/orgs/hotosm/projects/4/views/1). Join the [#tasking-manager-testing Slack channel](https://join.slack.com/share/enQtMzgzMDAyMDExMjUxOS1lNDdkZjJhZDhhNTU2ZDlhMDc5YmM1YWEwNjlkOWUwNzFjY2VhZTA0OWZlZDUwMTBhYmIzNGJkMDYxMjM0N2Ew) if you want to engage with others interested in testing!
 
