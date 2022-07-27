@@ -1,5 +1,5 @@
 ---
-title: 'HOT Tasking Manager Collective: July Update'
+title: 'HOT Tasking Manager Collective: 6 month update'
 date: 2022-07-25 09:07:00 Z
 Summary Text: Thank you to all the contributors and participants in the Tasking Manager
   Collective. Hope you enjoy reading some of the highlights since the start of our
@@ -32,5 +32,5 @@ We are super thankful to everyone for the support so far. And in the future, we 
 
 ## What next:
 * Keep being an active part of the Tasking Manager Collective and share with your network or other Tasking manager users who might want to join. You can comment or add issues on [Github](https://github.com/hotosm/tasking-manager/issues) at anytime.
-* [Register](https://docs.google.com/forms/d/1CceBgMBXMPX5Z5o3fJUetNEQtVKPLsaCgprv4gty-Vo/edit) and join the next **monthly Tasking Manager Meet up- Wednesday 4 August 9:00 or 15:00 UTC**. 
+* [Register](https://docs.google.com/forms/d/1CceBgMBXMPX5Z5o3fJUetNEQtVKPLsaCgprv4gty-Vo/edit) and join the next **monthly Tasking Manager Meet up- Wednesday 3 August 9:00 or 15:00 UTC**. 
 * If you are attending FOSS4G in Florence in August, join our session [Open Tech Collective: sharing HOT's journey : FOSS4G 2022](https://talks.osgeo.org/foss4g-2022/talk/HS3RL9/). We would love to see you there!
