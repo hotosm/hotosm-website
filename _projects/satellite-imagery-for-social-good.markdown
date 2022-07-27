@@ -7,8 +7,7 @@ Project Summary Text: Satellite Imagery for social good is currently ongoing in 
   footprints into OpenStreetMap to generate data that decision-makers need to plan
   and implement social-economic programs.
 Feature Image:
-- "/uploads/Map%20from%20SISG-60f50e.png"
-- "/uploads/Bauchi%20state%20Nigeria.jpg"
+- "/uploads/Kenya%20and%20Nigeria%20maps.png"
 Country:
 - - Kenya
   - Nigeria
