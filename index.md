@@ -2,12 +2,12 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: false
-  Main Block: AUDACIOUS PROJECT
-  Secondary Block: What if we could map one billion people currently missing from
-    the world’s maps?
-  Link Copy: Find Out How
-  URL: https://www.hotosm.org/projects/audacious/
+  Is Activated: true
+  Main Block: HOT unSUMMIT 2022
+  Secondary Block: Bringing together communities, partners, and supporters around
+    open mapping, OpenStreetMap, humanitarian response, and social impact.
+  Link Copy: 
+  URL: https://stories.hotosm.org/2022-hot-unsummit
 Project:
 - Scaling Missing Maps in Uganda and DRC
 - 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin America
