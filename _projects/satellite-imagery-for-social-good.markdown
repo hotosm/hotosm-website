@@ -6,7 +6,9 @@ Project Summary Text: Satellite Imagery for social good is currently ongoing in 
   and Nigerian teams are using Map with AI to add and validate AI-generated building
   footprints into OpenStreetMap to generate data that decision-makers need to plan
   and implement social-economic programs.
-Feature Image: "/uploads/Map%20from%20SISG.png"
+Feature Image:
+- 
+- "/uploads/Bauchi%20state%20Nigeria.jpg"
 Country:
 - - Kenya
   - Nigeria
@@ -14,7 +16,8 @@ Impact Area:
 - - Sustainable Cities
   - Public Health
 Person:
-- Kiggudde Deogratias
+- - Carter Draper
+  - Duncan Kebut
 Partner:
 - Microsoft
 Duration:
