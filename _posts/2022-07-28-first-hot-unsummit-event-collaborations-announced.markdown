@@ -37,6 +37,6 @@ We fully expect more event collaborations to be added to this list in the weeks 
 
 **What is the HOT unSummit?**
 
-*In our ongoing mission to bring together communities, partners, collaborators, and supporters of humanitarian open mapping, we are trying a fresh approach to the HOT Summit. Instead of hosting a single event, this year we are [investing our time and resources](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/) in supporting global, regional, and local conferences and community events around the world to bring the spirit of the Summit to thousands of new people. 
+In our ongoing mission to bring together communities, partners, collaborators, and supporters of humanitarian open mapping, we are trying a fresh approach to the HOT Summit. Instead of hosting a single event, this year we are [investing our time and resources](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/) in supporting global, regional, and local conferences and community events around the world to bring the spirit of the Summit to thousands of new people. 
 
-We are calling this the "HOT unSummit," emphasizing the continuity of this new approach with HOT's flagship annual event without claiming a 'higher ground' compared to the events we partner and collaborate with.*
+We are calling this the "HOT unSummit," emphasizing the continuity of this new approach with HOT's flagship annual event without claiming a 'higher ground' compared to the events we partner and collaborate with.
