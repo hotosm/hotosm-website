@@ -6,6 +6,10 @@ Summary Text: 'HOT teams up with event organizers across the world to bring huma
 
 '
 Feature Image: "/uploads/Collaborators%20logo%20image.JPG"
+Working Group:
+- HOT Summit
+Project:
+- HOT unSummit
 ---
 
 Since we announced [our HOT unSummit approach for 2022](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/), we have been busy developing collaborations with conference organizers across the world to bring the humanitarian open mapping focus and spirit of the HOT Summit to 1000s of new people in many new places. 
