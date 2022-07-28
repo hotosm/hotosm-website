@@ -16,18 +16,18 @@ Today, we are happy to announce our first confirmed unSummit programme collabora
 
 More info on the specifics of the collaboration and support between HOT and the various event organizing committees will be coming soon, but here is the initial schedule for the unSummit world tour!
 
-19 August : [State of the Map](https://2022.stateofthemap.org/) - Florence, Italy
-20 August : Ensemble pour la cartographie participative - Butembo, DRC
-22 August : [FOSS4G](https://2022.foss4g.org/index.php) - Florence Italy*
-19 September : National Meeting of Geography Students (ENEG) - Guanajuato, Mexico
-24 October : [GeONG](https://cartong.org/geong/2022) - Chambery, France
-30 October : Popular & Collaborative Disaster Risk Management and OpenStreetMap - Lima, Peru
-31 October : Teto Brasil annual gathering + Cidade em Foco (City in Focus) - São Paulo, Brazil
-11 November : Conference Internationale sur la digitalisation des Territoires (CIDT) - Bamako, Mali
-14 November : [Pista ng Mapa](https://pistangmapa.github.io/2022/) - Cebu City, Philippines
-24 November : CAFDO3 - Tunis, Tunisia
-28 November : [Pacific Geospatial Conference](https://osgeo-oceania.org/pacific-geospatial-conference/) - Suva, Fiji
-Date tbc : Kombi Kartografi / SotM Haiti - Port-au-Prince, Haiti
+* 19 August : **[State of the Map](https://2022.stateofthemap.org/)** - Florence, Italy
+* 20 August : **Ensemble pour la cartographie participative** - Butembo, DRC
+* 22 August : **[FOSS4G](https://2022.foss4g.org/index.php)** - Florence Italy*
+* 19 September : **National Meeting of Geography Students (ENEG)** - Guanajuato, Mexico
+* 24 October : **[GeONG](https://cartong.org/geong/2022)** - Chambery, France
+* 30 October : **Popular & Collaborative Disaster Risk Management and OpenStreetMap** - Lima, Peru
+* 31 October : **Teto Brasil annual gathering + Cidade em Foco (City in Focus)** - São Paulo, Brazil
+* 11 November : **Conference Internationale sur la digitalisation des Territoires (CIDT)** - Bamako, Mali
+* 14 November : **[Pista ng Mapa](https://pistangmapa.github.io/2022/)** - Cebu City, Philippines
+* 24 November : **CAFDO3** - Tunis, Tunisia
+* 28 November : **[Pacific Geospatial Conference](https://osgeo-oceania.org/pacific-geospatial-conference/)** - Suva, Fiji
+* Date tbc : **Kombi Kartografi / SotM Haiti** - Port-au-Prince, Haiti
 
 We are also happy to announce support for the [Geochicas & Women+ in Geospatial Take Firenze!](https://2022.foss4g.org/schedule_geowomen.php) networking event at FOSS4G in Florence, Italy on 23 August.
 
