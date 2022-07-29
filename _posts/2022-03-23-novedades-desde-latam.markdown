@@ -12,13 +12,15 @@ Feature Image: "/uploads/featured.jpg"
 Person: Juan Arellano Valdivia
 ---
 
+*Read this post in [English](https://www.hotosm.org/updates/news-from-latin-america/).*
+
 2022 parece un buen año para la comunidad OSM latinoamericana, hay actividades en curso en varios países y estamos seguros que en otros ya se está planeando qué hacer, pues varias personas han manifestado su interés para retomar iniciativas al nivel comunitario. Así que demos un vistazo al panorama OSM latinoamericano:
 
-A finales de enero se realizó la [primera junta OSM Latam 2022](https://wiki.openstreetmap.org/wiki/LatAm/20220129_Reuni%C3%B3n_virtual) durante la cual se tomaron algunas decisiones como por ejemplo: 
+A finales de enero se realizó la [primera junta OSM Latam 2022](https://wiki.openstreetmap.org/wiki/LatAm/20220129_Reuni%C3%B3n_virtual) durante la cual se tomaron algunas decisiones como por ejemplo:
 
-* Realizar las juntas con periodicidad bimestral, y que un país diferente tome el liderazgo de cada reunión. 
+* Realizar las juntas con periodicidad bimestral, y que un país diferente tome el liderazgo de cada reunión.
 
-* Actualizar y mejorar la Wiki regional. 
+* Actualizar y mejorar la Wiki regional.
 
 * Disponer de más materiales de capacitación, sea traduciendolos o creandolos.
 
@@ -64,4 +66,4 @@ En particular llamamos su atención a un [sub-debate](https://community.openstre
 
 ---
 
-***Disclaimer.** Soy [Juan Arellano](http://arellanojuan.com/). Desde mayo del 2021 soy voluntario para la Fundación OSM realizando traducciones al castellano y llevando la cuenta semioficial de Twitter [@esopenstreetmap](https://twitter.com/esopenstreetmap). Desde el presente mes además colaboro con las Comunicaciones comunitarias para la Fase Alpha del Hub de Mapeo Abierto en Latinoamérica.*
+***Disclaimer.** Soy [Juan Arellano](http://arellanojuan.com/). Desde mayo del 2021 soy voluntario para la Fundación OSM realizando traducciones al castellano y llevando la cuenta semioficial de Twitter [@esopenstreetmap](https://twitter.com/esopenstreetmap). Actualmente colaboro con las Comunicaciones comunitarias para la Fase Alpha del Hub de Mapeo Abierto en Latinoamérica.*
