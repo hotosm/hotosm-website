@@ -14,6 +14,8 @@ Feature Image: "/uploads/lloa7.webp"
 Person: Juan Arellano Valdivia
 ---
 
+*Read this post in [English](https://www.hotosm.org/updates/new-open-mapping-actors-in-ecuador/).*
+
 El 16 de abril del 2016 un [terremoto](https://es.wikipedia.org/wiki/Terremoto_de_Ecuador_de_2016) de grado 7.8 sacudió Ecuador dejando una gran cantidad de muertos y damnificados, y generando una emergencia humanitaria. Entre las acciones de ayuda desplegadas, la acción conjunta entre [Mapping Ecuador](https://www.facebook.com/MappingEcuador/) y HOT permitió [cartografiar](https://tasks.hotosm.org/projects/1794) a un mejor detalle las zonas afectadas, sobre todo “caminos, pueblos, aldeas, para coordinar los esfuerzos de ayuda de las instituciones gubernamentales y las iniciativas de rescate de la sociedad civil”.
 
 Esto se hizo posible sobre todo por la [colaboración](https://www.vistazo.com/actualidad/terremoto-ecuador-mapeando-el-desastre-BBVI27571) de cientos de voluntarios, locales y de diversas partes del mundo, que pusieron su granito de arena al donar su tiempo y conocimientos para ayudar a ese [proyecto de mapeo humanitario](https://blogs.iadb.org/conocimiento-abierto/es/mapeo-humanitario-como-ayudar-al-ecuador-despues-del-terremoto/). Al respecto pueden ver el interesante [análisis de datos](https://ruevko.github.io/hexagonal/post/2021/04/16-mapping-ecuador-contribuciones/) de Rafael Castro sobre la tasa de contribución y las contribuciones a lo largo del tiempo.
