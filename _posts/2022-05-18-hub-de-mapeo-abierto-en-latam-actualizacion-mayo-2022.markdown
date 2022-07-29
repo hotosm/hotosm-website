@@ -16,7 +16,7 @@ Feature Image: "/uploads/hot_omh_latam_spanish_logo_rev_colour_with_tagline-2110
 Person: Rubén Martín
 ---
 
-*Versión en [inglés](https://www.hotosm.org/updates/open-mapping-hub-in-latam-may-2022-update/)*
+*Read this post in [English](https://www.hotosm.org/updates/open-mapping-hub-in-latam-may-2022-update/). Leia esta publicação em [português](https://www.hotosm.org/updates/hub-de-mapeamento-aberto-en-latam-atualizacao-mayo-2022/).*
 
 A principios de 2022, dimos comienzo a la [fase "Alfa"](https://www.hotosm.org/updates/hub-de-mapeo-abierto-en-latam-actualizacion-diciembre-2021/) para aprender y co-diseñar lo que un Hub de Mapeo Abierto al servicio de América Latina podría ser y hacer.
 
