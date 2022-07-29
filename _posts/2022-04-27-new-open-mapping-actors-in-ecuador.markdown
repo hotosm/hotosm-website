@@ -14,6 +14,8 @@ Feature Image: "/uploads/lloa7.webp"
 Is image top aligned: false
 ---
 
+*Lea esta publicacion en [castellano](https://www.hotosm.org/updates/nuevos-actores-del-mapeo-abierto-en-ecuador/).*
+
 On April 16, 2016, a magnitude 7.8 [earthquake](https://en.wikipedia.org/wiki/2016_Ecuador_earthquake) shook Ecuador, leaving a large number of dead and homeless, and generating a humanitarian emergency. Among the aid actions deployed, the joint action between [Mapping Ecuador](https://www.facebook.com/MappingEcuador/) and HOT allowed for a better detailed mapping of the affected areas, especially "roads, towns, villages, to coordinate the aid efforts of government institutions and the rescue initiatives of civil society.”
 
 This was made possible mainly by the [collaboration](https://www.newyorker.com/news/news-desk/creating-a-map-to-navigate-the-post-earthquake-landscape-in-ecuador) of hundreds of volunteers, local and from various parts of the world, who did their bit by donating their time and knowledge to help this humanitarian mapping project. In this regard, you can see Rafael Castro's interesting [data analysis](https://ruevko.github.io/hexagonal/post/2021/04/16-mapping-ecuador-contribuciones/) on the contribution rate and contributions over time.
