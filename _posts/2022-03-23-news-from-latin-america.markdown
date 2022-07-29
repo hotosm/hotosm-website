@@ -11,13 +11,15 @@ Summary Text: '2022 seems like a good year for the Latin American OSM community,
 Feature Image: "/uploads/featured.jpg"
 ---
 
+*Lea esta publicación en [castellano](https://www.hotosm.org/updates/novedades-desde-latam/).*
+
 2022 seems like a good year for the Latin American OSM community, there are activities underway in several countries and we are sure that others are already planning what to do, as several people have expressed interest in resuming initiatives at the community level. So let's take a look at the Latin American OSM landscape:
 
-At the end of January, the [first OSM Latam 2022 meeting](https://wiki.openstreetmap.org/wiki/LatAm/20220129_Reuni%C3%B3n_virtual) was held, during which some decisions were made, such as: 
+At the end of January, the [first OSM Latam 2022 meeting](https://wiki.openstreetmap.org/wiki/LatAm/20220129_Reuni%C3%B3n_virtual) was held, during which some decisions were made, such as:
 
-* Holding meetings bi-monthly, and having a different country take the leadership of each meeting. 
+* Holding meetings bi-monthly, and having a different country take the leadership of each meeting.
 
-* Update and improve the regional Wiki. 
+* Update and improve the regional Wiki.
 
 * Get more training materials, either by translating or creating them.
 
