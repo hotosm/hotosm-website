@@ -13,6 +13,8 @@ Feature Image: "/uploads/CT-BSF-2001-0011.jpg"
 Person: Equipe alfa do Hub Latam
 ---
 
+*Lea esta publicaci*ó*n en [castellano](https://www.hotosm.org/updates/conoce-los-proyectos-en-curso-del-hub-latam/). Read this post in [English](https://www.hotosm.org/updates/learn-about-the-ongoing-projects-of-the-latam-hub/). *
+
 Quando apresentamos a [atualização](https://www.hotosm.org/updates/hub-de-mapeamento-aberto-en-latam-atualizacao-mayo-2022/) de maio de 2022 do Hub de Mapeamento Aberto na América Latina, mencionamos que publicaríamos artigos com atualizações mais detalhadas sobre cada projeto. Hoje compartilhamos com você uma visão geral dos projetos que estão em maior estado de progresso.
 
 # Projetos
