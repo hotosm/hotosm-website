@@ -3,7 +3,7 @@ title: 'Open Cities: Guatemala'
 date: 2022-08-02 10:02:00 Z
 Projects: 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin
   America and Caribbean'
-layout: page
+layout: project-item
 ---
 
 Guatemala's economic and social development is regularly affected by the effects of climate change, natural disasters phenomena such as floods and droughts, which are expected to increase in both frequency and intensity. The impact of these events is particularly challenging for the most vulnerable members of the population. The occurrence of frequent natural disasters generates significant emergency care needs and as a result complicates the government's efforts to address the challenges of reducing poverty and inequality. 
