@@ -13,10 +13,10 @@ Person:
 - 
 ---
 
-The open mapping communities we work with and support, and programs and teams at HOT, face a couple of unique challenges in how we work with data:
+At HOT, open mapping communities and program teams face  unique challenges in how we work with data:
 
-- Data that is provided as open data in OpenStreetMap will be available essentially forever. On top of today's, we need to anticipate and think about future potential risks and harms.
-- Using the OpenStreetMap platform allows us much greater reach and accessibility of data. This is hugely beneficial for our work - *and* translates to higher exposure to risk, and the potential for use of data in a way that harms people. These potential risks need to be mitigated.
+- Using the OpenStreetMap platform allows greater reach and accessibility of data which is significantly  beneficial for our work. However, this can  translate into higher exposure to risk and the potential for use of data in a harmful way. These anticipated risks need to be mitigated.
+- Data that is provided as open data in OpenStreetMap will be available online for a long time. Keeping that in mind, we need to anticipate and consider future potential risks and harms.
 
 So why do we need a set of Data Principles? The Data Principles formulate and communicate a clear standard, providing transparency and trustworthiness on how we treat and work with data. Additionally, they serve as the touchstone and framework for responsible & ethical data policies, and to Inform data quality & data collection priorities.
 
@@ -51,7 +51,7 @@ Collected and contributed OSM data should meet a purpose that’s well defined a
 		<ol style="font-size: 1em">
 <li>Be deliberate in what data we collect and generate and for what purposes, and align this with the pathways to impactful use of data.</li>
 <li>Align data collection and mapping with the priorities of communities and partners.</li>
-<li>Improve the quality of OSM data and [tagging](https://wiki.openstreetmap.org/wiki/Map_features) schemas and standardization, including localization and contextualization.</li>
+<li>Improve the quality of OSM data and tagging schemas and standardization, including localization and contextualization.</li>
 <li>Ensure we follow OSM guidelines and procedures, such as organized editing, and import processes.</li>
 <li>Provide technical resources and services, support, and case studies (including measurement of the usability of data) for Impact areas use cases.</li>
 		</ol>
