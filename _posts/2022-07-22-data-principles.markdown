@@ -15,16 +15,18 @@ Person:
 
 At HOT, open mapping communities and program teams face  unique challenges in how we work with data:
 
-- Using the OpenStreetMap platform allows greater reach and accessibility of data which is significantly  beneficial for our work. However, this can  translate into higher exposure to risk and the potential for use of data in a harmful way. These anticipated risks need to be mitigated.
-- Data that is provided as open data in OpenStreetMap will be available online for a long time. Keeping that in mind, we need to anticipate and consider future potential risks and harms.
+- Using the OpenStreetMap platform allows for greater reach and accessibility of data, which is at the heart of our work. However, this can  lead to unintended exposure to risk and the potential for misuse of data. As a result,  we need to identify and mitigate any potential risks and harm.
+- Data we contribute to OpenStreetMap will be available online for a long time. With that in mind, we also need to anticipate potential  future risks and harm.
 
-So why do we need a set of Data Principles? The Data Principles formulate and communicate a clear standard, providing transparency and trustworthiness on how we treat and work with data. Additionally, they serve as the touchstone and framework for responsible & ethical data policies, and to Inform data quality & data collection priorities.
+So how do Data Principles address these challenges?
 
-Our data principles have been developed alongside HOT’s updated and renewed values, and serve as guidelines for all other parts of our Protection framework. The purpose of the protection framework is to provide the guidance, procedures, and policies to ensure that we uphold HOT’s responsible data and ethical practices to protect people from harm.
+Our Data Principles formulate and communicate a clear standard, providing transparency and trustworthiness about how we treat and work with data. Additionally, they serve as the touchstone and framework for responsible & ethical data policies, and to inform data quality & data collection priorities.
 
-Spatial data and mapping activities can create risk or cause harm for people and communities affected. HOT has the responsibility to understand, assess, mitigate, and protect against risk and harm arising from activities we undertake or support.
+Our Data Principles have been developed alongside HOT’s updated and renewed values, and serve as guidelines for all other parts of our Protection Framework. The purpose of the Protection Framework is to provide the guidance, procedures and policies to ensure that we uphold HOT’s responsible data and ethical practices to protect people from harm.
 
-The Data Principles capture the most important aspects we need to have in mind, and act on, around how we work with data. Each of the Principles includes a set of guidelines that provide actionable advice, and will link out to more and more resources as more parts of our protection framework and tools are completed:
+Spatial data and mapping activities can create risk or cause harm for people and communities. HOT has a responsibility to understand, assess, mitigate, and protect against risk and harm arising from activities we undertake or support.
+
+The Data Principles capture the most important aspects we need to consider and act on, around how we work with data. Each of the Principles includes a set of guidelines that provide actionable advice, and will link out to more and more resources as more parts of our Protection Framework and tools are completed:
 
 <table style="border-bottom: none">
 	<tr>
@@ -93,4 +95,4 @@ Go for the most meaningful collaboration in data management and planning. Uphold
 
 [View the principles as a presentation](https://docs.google.com/presentation/d/e/2PACX-1vRCzr84b_Ad5MRSziA1gfa2gpEwL1qjNtj0nCCbJRa4eRAqkORwgQAUYuFgRTBmcZ9vBt9bZ-D8ybCG/pub?start=false&loop=false&delayms=3000)
 
-Following up from the Data Principles, we are currently completing the rest of our policies, procedures and tools that altogether make up our Protection framework. Currently, various parts of this, such as the “Context and Risk Analysis” and the “Data Impact Assessments” are being trialed and improved with community grantees in the ESA Hub, as well as being incorporated into Activations and other program areas. Once we get to a first version of the framework, we will release all parts of it openly, and invite feedback, contributions, and improvements.
+Following on from the Data Principles, we are currently completing the rest of our policies, procedures and tools that together make up our Protection Framework. Currently, various parts of this, such as the “Context and Risk Analysis” and the “Data Impact Assessments” are being trialed and improved in collaboration with community grantees in the Eastern and Southern Africa Hub, as well as being incorporated into Activations and other program areas. Once we get to a first version of the Framework, we will release all parts of it openly, and invite feedback, contributions, and improvements.
