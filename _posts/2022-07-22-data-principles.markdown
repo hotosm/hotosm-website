@@ -24,7 +24,7 @@ Our Data Principles formulate and communicate a clear standard, providing transp
 
 Our Data Principles have been developed alongside HOT’s updated and renewed values, and serve as guidelines for all other parts of our Protection Framework. The purpose of the Protection Framework is to provide the guidance, procedures and policies to ensure that we uphold HOT’s responsible data and ethical practices to protect people from harm.
 
-Spatial data and mapping activities can create risk or cause harm for people and communities. HOT has a responsibility to understand, assess, mitigate, and protect against risk and harm arising from activities we undertake or support.
+Spatial data and mapping activities can create risk or cause harm for people and communities. For example, map data may enable finding people based on their religion or other beliefs, exposure or proximity to disease, or presence in areas of conflict. HOT has a responsibility to understand, assess, mitigate and protect against risk and harm arising from activities we undertake or support.
 
 The Data Principles capture the most important aspects we need to consider and act on, around how we work with data. Each of the Principles includes a set of guidelines that provide actionable advice, and will link out to more and more resources as more parts of our Protection Framework and tools are completed:
 
