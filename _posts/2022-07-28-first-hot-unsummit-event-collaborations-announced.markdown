@@ -28,7 +28,7 @@ More info on the specifics of the collaboration and support between HOT and the 
 * 30 October : **Popular & Collaborative Disaster Risk Management and OpenStreetMap** - Lima, Peru
 * 31 October : **Teto Brasil annual gathering + Cidade em Foco (City in Focus)** - São Paulo, Brazil
 * 11 November : **Conference Internationale sur la digitalisation des Territoires (CIDT)** - Bamako, Mali
-* 21 November : **[Pista ng Mapa](https://pistangmapa.github.io/2022/)** - location tbc, Philippines
+* 21 November : **[State of the Map Asia / Pista ng Mapa](https://pistangmapa.github.io/2022/)** - location tbc, Philippines
 * 24 November : **CAFDO3** - Tunis, Tunisia
 * 28 November : **[Pacific Geospatial Conference](https://osgeo-oceania.org/pacific-geospatial-conference/)** - Suva, Fiji
 * Date tbc : **Kombi Kartografi / SotM Haiti** - Port-au-Prince, Haiti
