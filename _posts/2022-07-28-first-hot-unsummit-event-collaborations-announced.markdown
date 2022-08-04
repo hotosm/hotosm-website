@@ -21,8 +21,8 @@ Today, we are happy to announce our first confirmed unSummit programme collabora
 More info on the specifics of the collaboration and support between HOT and the various event organizing committees will be coming soon, but here is the initial schedule for the unSummit world tour!
 
 * 19 August : **[State of the Map](https://2022.stateofthemap.org/)** - Florence, Italy
-* 20 August : **Ensemble pour la cartographie participative** - Butembo, DRC
 * 22 August : **[FOSS4G](https://2022.foss4g.org/index.php)** - Florence Italy
+* 26 August : **Ensemble pour la cartographie participative** - Butembo, DRC
 * 19 September : **National Meeting of Geography Students (ENEG)** - Guanajuato, Mexico
 * 24 October : **[GeONG](https://cartong.org/geong/2022)** - Chambery, France
 * 30 October : **Popular & Collaborative Disaster Risk Management and OpenStreetMap** - Lima, Peru
