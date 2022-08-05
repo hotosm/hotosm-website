@@ -44,14 +44,14 @@ During the sponsorship period, OMHAP will provide orientation, coordination, and
 **Who Can Apply?** 
 * You must be a registered student club/organization at your university. 
 * You must be an active student club, able to document activities within the past year, unless you are newly established. 
-* You must be within Humanitarian OpenStreetMap Team’s priority countries for Asia-Pacific to be eligible for application.  
-* Existing YouthMappers chapters can apply. However, priority will be given to applicants who are not part of the YouthMappers network, but are willing to apply.  
+* You must be within Humanitarian OpenStreetMap Team’s [priority countries](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries) for Asia-Pacific to be eligible for application.  
+* Existing YouthMappers chapters can apply. However, priority will be given to applicants who are not part of the YouthMappers network but are willing to be a part of it.  
 
 **What this sponsorship does not support:**
 * Personal expenses.
-* Tools, devices or furniture for personal use. 
+* Tools, devices, or furniture for personal use. 
 * Professional services or certified training exceeding 33% of the allocated budget.
-* Personnel wages, travels or per diems. 
+* Personnel wages, travels, or per diems. 
 
 **How to Apply?**
 
@@ -63,7 +63,7 @@ You need to provide:
 * Itemized budget plan (spreadsheet format)
 * Additional information (optional). (e.g. department’s vision and plans on open mapping research, faculty capacity, etc.)
 
-[Apply here.](https://docs.google.com/forms/d/e/1FAIpQLSfMxoBD25VVa9gek7VdgsagiNgLe8ep3DoFQ1L0xli1Jtyd3w/viewform)
+# [Apply here.](https://docs.google.com/forms/d/e/1FAIpQLSfMxoBD25VVa9gek7VdgsagiNgLe8ep3DoFQ1L0xli1Jtyd3w/viewform)
 
 **Selection Process and Timeline:**
 * Aug 5-26: Application Process
