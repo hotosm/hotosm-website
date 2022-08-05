@@ -1,6 +1,8 @@
 ---
 title: Anunciamos las primeras colaboraciones del evento HOT unSummit
 date: 2022-08-05 17:11:00 Z
+Summary Text: "¡HOT y organizadores de eventos en todo el mundo se asocian para llevar
+  el mapeo abierto humanitario a nuevas personas y lugares en 2022!"
 ---
 
 Since we announced [our HOT unSummit approach for 2022](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/), we have been busy developing collaborations with conference organizers across the world to bring the humanitarian open mapping focus and spirit of the HOT Summit to 1000s of new people in many new places.
