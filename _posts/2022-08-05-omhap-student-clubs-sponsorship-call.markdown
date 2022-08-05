@@ -5,6 +5,7 @@ Summary Text: |
   Applications for Asia-Pacific University Students Clubs Sponsorship are Open!
   Dates: 5 August - 26 August 2022
 Feature Image: "/uploads/AP%20club%20sponsorship%20(1).png"
+Person: Can Unen
 ---
 
 The Open Mapping Hub Asia-Pacific (OMHAP) is offering grants to 10 Students Clubs from universities in the Asia-Pacific region. The Student Clubs Sponsorship Call is aimed at supporting the student organizations to implement OpenStreetMap (OSM) and other open mapping activities for one year to:
@@ -71,4 +72,8 @@ You need to provide:
 * Aug 5-26: Application Process
 * Aug 29 - Sep 4: Evaluation and Selection Process
 * Sep 5: Notification of sponsorship recipients and the start of due diligence and risk assessment period
+
+------------
+
+For further questions please contact OMHAP OSM Trainer, Can Unen at canunen@hotosm.org.
  
