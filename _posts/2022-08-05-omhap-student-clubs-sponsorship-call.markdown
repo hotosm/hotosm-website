@@ -24,6 +24,7 @@ The Open Mapping Hub - Asia Pacific was established in early 2021 to advance the
 By prioritizing local mapping organizations and communities, facilitating knowledge exchange, distributing funding, and providing training and support, we are focusing efforts to work with local organizations and communities to drive high-quality, ethical, local data use cases.
 
 **What is the Club Sponsorship?**
+
 The Student Club Sponsorship program is open to student groups from all disciplines and departments that can potentially utilize and benefit from OSM and open mapping. These departments can be (but not limited to):
  
 * Geomatics
@@ -53,6 +54,7 @@ During the sponsorship period, OMHAP will provide orientation, coordination, and
 * Personnel wages, travels or per diems. 
 
 **How to Apply?**
+
 You need to provide: 
 * Filled-in Project Slide Template [(provided here)](https://docs.google.com/presentation/d/15hp3IKIvFRSS0RU61-P33MY-tcnEFqYUmvMaYAWpib8/edit#slide=id.gd3ff396c27_0_8991) 
 * Documentation of recognition from your department/university (PDF format)
