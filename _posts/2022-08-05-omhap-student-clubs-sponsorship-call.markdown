@@ -37,7 +37,7 @@ The Student Club Sponsorship program is open to student groups from all discipli
 * Architecture
 * and others
 
-The sponsorship can be utilized by the recipients to conduct regular OSM and open-mapping-related activities such as training, seminars, and workshops throughout the year. The activities should ensure the recipients are able to sustain a vibrant OSM community and open mapping activity in the coming years. 
+The sponsorship can be utilized by the recipients to conduct regular OSM and open mapping related activities such as training, seminars, and workshops throughout the year. The activities should ensure the recipients are able to sustain a vibrant OSM community and open mapping activity in the coming years. 
 
 During the sponsorship period, OMHAP will provide orientation, coordination, and knowledge-sharing support to the recipient student organizations. The recipients will be required to regularly update OMHAP through coaching sessions and progress reports during the sponsorship period. In addition to that, OMHAP is also willing to discuss strategies and methods with the faculty members, if requested, to implement open mapping in the classroom, and in research. 
 
