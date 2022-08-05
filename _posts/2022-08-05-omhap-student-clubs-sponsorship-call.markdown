@@ -64,7 +64,7 @@ You need to provide:
 * Itemized budget plan (spreadsheet format)
 * Additional information (optional). (e.g. department’s vision and plans on open mapping research, faculty capacity, etc.)
 
-*[Apply here](http://https://tiny.cc/omhapuni)[](https://tiny.cc/omhapuni)*
+*[Apply here](https://tiny.cc/omhapuni)*
 
 
 **Selection Process and Timeline:**
