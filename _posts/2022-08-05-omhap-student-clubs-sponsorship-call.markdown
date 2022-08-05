@@ -63,7 +63,8 @@ You need to provide:
 * Itemized budget plan (spreadsheet format)
 * Additional information (optional). (e.g. department’s vision and plans on open mapping research, faculty capacity, etc.)
 
-# [Apply here.](https://docs.google.com/forms/d/e/1FAIpQLSfMxoBD25VVa9gek7VdgsagiNgLe8ep3DoFQ1L0xli1Jtyd3w/viewform)
+# [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSfMxoBD25VVa9gek7VdgsagiNgLe8ep3DoFQ1L0xli1Jtyd3w/viewform)
+
 
 **Selection Process and Timeline:**
 * Aug 5-26: Application Process
