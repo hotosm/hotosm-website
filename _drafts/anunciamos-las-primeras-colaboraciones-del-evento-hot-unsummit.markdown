@@ -5,9 +5,9 @@ Summary Text: "¡HOT y organizadores de eventos en todo el mundo se asocian para
   el mapeo abierto humanitario a nuevas personas y lugares en 2022!"
 ---
 
-Since we announced [our HOT unSummit approach for 2022](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/), we have been busy developing collaborations with conference organizers across the world to bring the humanitarian open mapping focus and spirit of the HOT Summit to 1000s of new people in many new places.
+Desde que anunciamos [nuestro enfoque HOT unSummit para este 2022](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/), hemos estado ocupados desarrollando colaboraciones con organizadores de conferencias en todo el mundo para llevar el enfoque de mapeo abierto humanitario y el espíritu del HOT Summit a miles de personas nuevas en muchos lugares nuevos.
 
-Today, we are happy to announce our first confirmed unSummit programme collaborations, spanning twelve events across eleven countries!
+¡Hoy, nos complace anunciar nuestras primeras colaboraciones confirmadas del programa unSummit, que abarcan doce eventos en once países!
 
 ![unSummit_events6-1a51ba.png](/uploads/unSummit_events6-1a51ba.png)
 
