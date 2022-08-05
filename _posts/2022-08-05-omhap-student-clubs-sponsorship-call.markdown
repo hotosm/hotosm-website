@@ -4,7 +4,7 @@ date: 2022-08-05 03:25:00 Z
 Summary Text: |
   Applications for Asia-Pacific University Students Clubs Sponsorship are Open!
   Dates: 5 August - 26 August 2022
-Feature Image: "/uploads/AP%20club%20sponsorship.png"
+Feature Image: "/uploads/AP%20club%20sponsorship%20(1).png"
 ---
 
 The Open Mapping Hub Asia-Pacific (OMHAP) is offering grants to 10 Students Clubs from universities in the Asia-Pacific region. The Student Clubs Sponsorship Call is aimed at supporting the student organizations to implement OpenStreetMap (OSM) and other open mapping activities for one year to:
@@ -41,18 +41,18 @@ The sponsorship can be utilized by the recipients to conduct regular OSM and ope
 During the sponsorship period, OMHAP will provide orientation, coordination, and knowledge-sharing support to the recipient student organizations. The recipients will be required to regularly update OMHAP through coaching sessions and progress reports during the sponsorship period. In addition to that, OMHAP is also willing to discuss strategies and methods with the faculty members, if requested, to implement open mapping in the classroom, and in research. 
 
 **Who Can Apply?** 
-* You must be a registered student club/organization at your * university. 
+* You must be a registered student club/organization at your university. 
 * You must be an active student club, able to document activities within the past year, unless you are newly established. 
 * You must be within Humanitarian OpenStreetMap Team’s priority countries for Asia-Pacific to be eligible for application.  
 * Existing YouthMappers chapters can apply. However, priority will be given to applicants who are not part of the YouthMappers network, but are willing to apply.  
 
-**What this sponsorship does not support: **
+**What this sponsorship does not support:**
 * Personal expenses.
 * Tools, devices or furniture for personal use. 
 * Professional services or certified training exceeding 33% of the allocated budget.
 * Personnel wages, travels or per diems. 
 
-**How to Apply? **
+**How to Apply?**
 You need to provide: 
 * Filled-in Project Slide Template [(provided here)](https://docs.google.com/presentation/d/15hp3IKIvFRSS0RU61-P33MY-tcnEFqYUmvMaYAWpib8/edit#slide=id.gd3ff396c27_0_8991) 
 * Documentation of recognition from your department/university (PDF format)
@@ -64,7 +64,7 @@ You need to provide:
 [Apply here.](https://docs.google.com/forms/d/e/1FAIpQLSfMxoBD25VVa9gek7VdgsagiNgLe8ep3DoFQ1L0xli1Jtyd3w/viewform)
 
 **Selection Process and Timeline:**
-Aug 5-26: Application Process
-Aug 29 - Sep 4: Evaluation and Selection Process
-Sep 5: Notification of sponsorship recipients and the start of due diligence and risk assessment period
+* Aug 5-26: Application Process
+* Aug 29 - Sep 4: Evaluation and Selection Process
+* Sep 5: Notification of sponsorship recipients and the start of due diligence and risk assessment period
  
