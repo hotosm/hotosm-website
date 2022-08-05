@@ -63,8 +63,8 @@ You need to provide:
 * Proof of activities for the past year (PDF format)
 * Itemized budget plan (spreadsheet format)
 * Additional information (optional). (e.g. department’s vision and plans on open mapping research, faculty capacity, etc.)
-
-[# [Apply here]](http://https://docs.google.com/forms/d/e/1FAIpQLSfoi7rTUFzD1R7nfNZawylT8yGdiBcC6Q2JmheiL_3X4GofMA/viewform)
+[
+# [Apply here]](http://https://docs.google.com/forms/d/e/1FAIpQLSfoi7rTUFzD1R7nfNZawylT8yGdiBcC6Q2JmheiL_3X4GofMA/viewform)
 
 
 **Selection Process and Timeline:**
