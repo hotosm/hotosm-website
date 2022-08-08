@@ -1,0 +1,19 @@
+---
+title: Eastern Region Uganda Floods
+date: 2022-08-08 04:06:00 Z
+Glide: FL-2022-000275-UGA
+Event Name: Eastern Region Uganda Floods
+GDACS ID: na
+GDACS-level: na
+Country:
+- Uganda
+Event type: Fl Flood
+Summary Text: Disaster Services is currently monitoring this event in eastern Uganda.
+Feature Image: Fl Flood
+Status: alert
+Post-type: update
+source: <a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22638&record=6&last=7597"
+  target="_blank">GDACS</a>
+---
+
+"Heavy rainfall has been affecting the Eastern Region since 30 July, triggering landslides and causing rivers to overflow (in particular the Nabuyonga, and Namatala Rivers) and floods that have resulted in casualties and damage. At least 3,745 households have been affected in the districts of Mbale, Kapchorwa, Sironko and Bulambuli, and Bukedea, with 24 deaths recorded. "
