@@ -23,7 +23,7 @@ More info on the specifics of the collaboration and support between HOT and the 
 * 19 August : **[State of the Map](https://2022.stateofthemap.org/)** - Florence, Italy
 * 22 August : **[FOSS4G](https://2022.foss4g.org/index.php)** - Florence Italy
 * 26 August : **Ensemble pour la cartographie participative** - Butembo, DRC
-* 19 September : **National Meeting of Geography Students (ENEG)** - Guanajuato, Mexico
+* 19 September : **[National Meeting of Geography Students (ENEG)](https://www.facebook.com/ENEG.MX/)** - Guanajuato, Mexico
 * 24 October : **[GeONG](https://cartong.org/geong/2022)** - Chambery, France
 * 30 October : **Popular & Collaborative Disaster Risk Management and OpenStreetMap** - Lima, Peru
 * 31 October : **Teto Brasil annual gathering + Cidade em Foco (City in Focus)** - São Paulo, Brazil
