@@ -1,0 +1,24 @@
+---
+title: N'Beika City Floods Mauritania Alert
+date: 2022-08-03 04:36:00 Z
+Glide: FL-2022-000003-HOT
+Event Name: N'Beika City Floods Mauritania
+GDACS ID: na
+GDACS-level: na
+Country:
+- Mauritania
+Event type: Fl Flood
+Summary Text: Disaster Services is currently monitoring this event in the city of
+  N´Beika.
+Feature Image: Fl Flood
+Status: alert
+Post-type: update
+source: <a href="https://telafrique.com/la-ville-de-nbeika-submergee-a-90-selon-le-quotidien-des-urgences/"
+  target="_blank">telafrique.com (with Google Translation)</a>
+---
+
+"The city of N'Beika submerged at 90%, according to the daily emergency
+
+90% of the city of N'beika, within the municipality of Tamourt Ennaaj in the wilaya of Tagant is submerged.
+
+This is indicated by the Emergency Management Commission, in its daily bulletin dated Tuesday, August 2, according to which 575 families were affected by the floods."
