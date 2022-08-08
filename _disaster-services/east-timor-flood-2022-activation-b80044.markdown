@@ -1,5 +1,5 @@
 ---
-title: East Timor Flood 2022 Activation
+title: Eastern Region Uganda Floods Activation
 date: 2022-08-04 04:24:00 Z
 Glide: FL-2022-000275-UGA
 Event Name: Eastern Region Uganda Floods
