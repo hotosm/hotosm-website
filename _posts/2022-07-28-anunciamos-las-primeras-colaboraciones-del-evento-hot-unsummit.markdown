@@ -24,7 +24,7 @@ Próximamente habrá más información sobre los detalles de la colaboración y 
 
 * 26 de agosto: **Ensemble pour la cartographie participative** - Butembo, RDC
 
-* 19 de septiembre: **Encuentro Nacional de Estudiantes de Geografía (ENEG)** - Guanajuato, México
+* 19 de septiembre: **[Encuentro Nacional de Estudiantes de Geografía (ENEG)](https://www.facebook.com/ENEG.MX/)** - Guanajuato, México
 
 * 24 de octubre: **[GeONG](https://cartong.org/geong/2022)** - Chambéry, Francia
 
