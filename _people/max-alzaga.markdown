@@ -4,7 +4,7 @@ date: 2021-06-08 13:18:00 Z
 Photo: "/uploads/Max%20Alzaga%20photo%20bio.jpg"
 Member Type:
   Is Staff: true
-Job Title: Global Human Resources Associate
+Job Title: HR Projects Specialist
 Country: Spain
 Team: Global
 Social Media (Full URL):
@@ -12,7 +12,7 @@ Social Media (Full URL):
   LinkedIn: https://www.linkedin.com/in/alzaga/
 ---
 
-Máximo (Max) is currently performing as HOT’s Global Associate for the Human Resources and Operations team.
+Máximo (Max) is currently performing as HR Projects Specialist for the Human Resources and Operations team.
 
 Max started working for the private sector in the HR team of FCA (Fiat Chrysler Automobiles) in Latin America, after some years decided to migrate to the Humanitarian field as HR Manager/Coordinator for Doctors Without Borders (MSF), living and working in diverse contexts such as South Sudan, Colombia, Guinea Bissau, Ethiopia and Argentina.
 
