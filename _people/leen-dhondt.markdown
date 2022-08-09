@@ -10,7 +10,8 @@ Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/ldhondt
 ---
 
-Leen joins HOT as product development manager. 
+Leen is the Senior Manager,Products at HOT.
+
  She is passionate about maps and how maps are used to create a 'better' world.  
 
 She will co-drive the product strategy of the HOT Tech products so as to build tech products for the use cases our stakeholders care about most.   
