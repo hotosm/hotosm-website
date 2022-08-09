@@ -4,7 +4,7 @@ date: 2022-02-03 04:45:00 Z
 Photo: "/uploads/Leen%20D'hondt.JPG"
 Member Type:
   Is Staff: true
-Job Title: Senior Product Development Manager
+Job Title: Senior Manager, Products
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/ldhondt
