@@ -20,7 +20,7 @@ Project:
 - Ecuador Earthquake
 - HOT Indonesia Curriculum
 Country: Indonesia
-Team: Global
+Team: Indonesia
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Dewi%20Sulistioningrum
   Twitter: https://twitter.com/dewisulistio
