@@ -9,6 +9,7 @@ Country: Denmark
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/SynneMarion
+  LinkedIn: https://www.linkedin.com/in/synne-marion-olsen-303b7b25/
 ---
 
 I am first and foremost a curious creature whose most frequent question is “why not”. The intersections (and opportunities) of humans, nature & technology are what get me up in the morning - and what best summarises my knowledge, skills & experiences.
