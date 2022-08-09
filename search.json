@@ -4,6 +4,13 @@ layout:
 
 {% assign current_date = site.time | date: '%Y%m%d' %}
 [
+{
+"type":"Page",
+"title":"HOT Board",
+"subtitle": " ",
+"summary":"HOT's Board of Directors is elected annually by and from its member base which is representative of a wide variety of partner organizations and individual volunteer contributors.",
+"url":"/board"
+},
 {% for project in site.projects %}
 {
 "type":"Project",
