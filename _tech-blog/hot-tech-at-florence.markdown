@@ -10,11 +10,11 @@ Person: Petya Kangalova
 
 
 ## HOT unSummit
-This year, HOT Summit is on a world tour and we are collaborating with external events to organise several HOT unSummit session. Hot_tech will take part in two unSummit sessions as part of SOTM and FOSS4G:
+This year, HOT Summit is on a world tour and is collaborating with external events to organise several HOT unSummit sessions. Hot_tech will take part in two unSummit sessions as part of SOTM and FOSS4G:
 * 19 August : [State of the Map - Florence, Italy](https://2022.stateofthemap.org/sessions/LNYHQF/)
 * 22 August : [FOSS4G - Florence Italy](https://2022.foss4g.org/hotosm_unsummit.php). Do [register](https://mobilizon.it/events/52312d34-8f4a-419e-9a6f-b691672d5896) for the hot_tech workshop starting at 14:00!
 
-Other than the unSummit sessions, speakers from the hot_tech team will be doing a number of presentations- come and join us!
+Other than the unSummit sessions, speakers from the hot_tech team will be doing a number of presentations on different topics related to our work! We hope you can attend :)
 
 ## State of the Map:
 * 19-Aug-2022 12:00 [Entry-level mobile mapping](https://2022.stateofthemap.org/sessions/UWHAME/)- Kristen Tonga
