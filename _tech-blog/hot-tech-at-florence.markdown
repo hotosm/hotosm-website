@@ -24,9 +24,9 @@ Other than the unSummit sessions, speakers from the hot_tech team will be doing 
 21 August 10:40 Investigating the capability of UAV imagery in AI-assisted mapping of Refugee Camps in East Africa, [Academic Lightning Talks 1](https://2022.stateofthemap.org/sessions/academic_lightning_talks_1/) -Omran, Christopher (HOT volunteer)
 
 ## FOSS4G 2022:
-24-Aug 2022  4:15 PM - Introduction to Spatial Data Outputs Platform - OpenStreetMap Galaxy - Ramya Ragupathy
-25-Aug-2022 3:15 PM - OpenAerialMap V2 Design and Development - Crisitano Giovando & DK Benjamin
-26-Aug-2022 2:45 PM - Open Tech Collective: sharing HOT's journey - Petya Kangalova & Ichchha Moktan
-26-Aug-2022 3:15 PM - Using Terraform to manage HOTOSM's infrastructure as code - DK Benjamin & Yogesh Girikumar
+24-Aug 2022  4:15 PM - [Introduction to Spatial Data Outputs Platform - OpenStreetMap Galaxy](https://talks.osgeo.org/foss4g-2022/talk/BNA8YX/) - Ramya Ragupathy
+25-Aug-2022 3:15 PM - [OpenAerialMap V2 Design and Development](https://talks.osgeo.org/foss4g-2022/talk/PFADT9/) - Crisitano Giovando & DK Benjamin
+26-Aug-2022 2:45 PM - [Open Tech Collective: sharing HOT's journey ](https://talks.osgeo.org/foss4g-2022/talk/HS3RL9/)- Petya Kangalova & Ichchha Moktan
+26-Aug-2022 3:15 PM - [Using Terraform to manage HOTOSM's infrastructure as code](https://talks.osgeo.org/foss4g-2022/talk/NMQQT9/) - DK Benjamin & Yogesh Girikumar
 
 Hope to see you in Florence!!Do come say hello to members of the hot_tech! We would love to speak to you!
