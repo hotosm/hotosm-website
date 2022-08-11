@@ -1,5 +1,5 @@
 ---
-title: hot_tech at Florence
+title: hot_tech team in Florence, August 2022
 date: 2022-08-11 11:46:00 Z
 published: false
 Summary Text: "\nWe are excited to meet the community and share all that’s happening
@@ -10,9 +10,9 @@ Person: Petya Kangalova
 
 
 ## HOT unSummit
-This year, HOT Summit is on a world tour and we are collaborating with external events to organise several HOT unSummit session. We will be running two unSummit sessions as part of SOTM and FOSS4G:
+This year, HOT Summit is on a world tour and we are collaborating with external events to organise several HOT unSummit session. Hot_tech will take part in two unSummit sessions as part of SOTM and FOSS4G:
 * 19 August : [State of the Map - Florence, Italy](https://2022.stateofthemap.org/sessions/LNYHQF/)
-* 22 August : [FOSS4G - Florence Italy](https://2022.foss4g.org/hotosm_unsummit.php). Do register for the hot_tech workshop starting at 14:00!
+* 22 August : [FOSS4G - Florence Italy](https://2022.foss4g.org/hotosm_unsummit.php). Do [register](https://mobilizon.it/events/52312d34-8f4a-419e-9a6f-b691672d5896) for the hot_tech workshop starting at 14:00!
 
 Other than the unSummit sessions, speakers from the hot_tech team will be doing a number of presentations- come and join us!
 
@@ -26,7 +26,7 @@ Other than the unSummit sessions, speakers from the hot_tech team will be doing 
 
 * 25-Aug-2022 3:15 PM - [OpenAerialMap V2 Design and Development](https://talks.osgeo.org/foss4g-2022/talk/PFADT9/) - Crisitano Giovando & DK Benjamin
 
-* 26-Aug-2022 2:45 PM - [Open Tech Collective: sharing HOT's journey ](https://talks.osgeo.org/foss4g-2022/talk/HS3RL9/)- Petya Kangalova & Ichchha Moktan
+* 26-Aug-2022 2:45 PM - [Open Tech Collective: sharing HOT's journey ](https://talks.osgeo.org/foss4g-2022/talk/HS3RL9/)- Petya Kangalova & Ichchha Moktan (KLL)
 
 * 26-Aug-2022 3:15 PM - [Using Terraform to manage HOTOSM's infrastructure as code](https://talks.osgeo.org/foss4g-2022/talk/NMQQT9/) - DK Benjamin & Yogesh Girikumar
 
