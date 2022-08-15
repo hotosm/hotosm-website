@@ -22,6 +22,7 @@ Partner:
 - MapAction
 Duration:
   Start Date: 2021-04-01 00:00:00 Z
+  End Date: 2021-12-02 00:00:00 Z
 tm_campaigns:
 - COVID Vaccination
 Data:
