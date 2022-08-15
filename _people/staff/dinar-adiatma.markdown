@@ -1,16 +1,20 @@
 ---
 title: Dinar Adiatma
 date: 2018-06-01 20:04:00 Z
-Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Dinar.png
+Photo: "/uploads/Dinar_Photo.jpg"
 Member Type:
-  Is Staff: false
-Job Title: Project Coordinator FB Project
+  Is Staff: true
+Job Title: Senior Associate, Data Quality- Asia Pacific
 Project:
 - Facebook
 Country: Indonesia
-Team: Indonesia
+Team: Asia Pacific Hub
 Social Media (Full URL):
-  OSM: https://www.openstreetmap.org/user/Adiatma%20IRM-RV
+  OSM: https://www.openstreetmap.org/user/adiatmad
 ---
 
-Dinar is one of four Data Quality Assurances for Indonesia Road Mapping project. He is responsible for reviewing and improving the quality of data input. Before joining HOT Indonesia in October 2016, I was involved as a GIS research assistant funded by Seameo Biotrop and I also worked as field surveyors. I was graduated from the Department of Forest Resources Conservation and Ecotourism from the Faculty of Forestry, Bogor Agricultural University with a focus on environmental spatial analysis. I have always loved the anjangsana, planted fruit trees, and outdoor scientific activities.
+Dinar joined the HOT in 2022 and has been involved with HOT activity since 2016. He has joined to support Open Mapping Hub - the Asia Pacific to promote the OpenStreetMap data quality.
+
+Based in Indonesia, Dinar was first introduced to OpenStreetMap in 2015 as a side interest along with his main studies. Starting from 2016, all things OpenStreetMap become his work priority on the HOT - PDC InaWARE Indonesia Project (Surabaya & Jakarta). Then he joined and led the Indonesia team for Meta-HOT projects. His experience includes field surveys, community engagement, training, and managing an organized OpenStreetMap editor. 
+
+He enjoys going out cycling, watching wildlife films, or reading in his leisure time.
