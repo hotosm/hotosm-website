@@ -40,4 +40,14 @@ Saint Lucia, like many Caribbean islands, is at risk of recurring hurricanes, tr
 
 The Humanitarian OpenStreetMap Team (HOT) is  supporting the National Emergency Management Office (NEMO) and the national Central Statistics Office (CSO)  with their immediate needs. This includes providing base layer information on existing structures in target areas and capturing the required details required for the assessment needs of these agencies. An added result of the exercise will be  a pilot for establishing  and growing anOpenStreetMap community of mappers, which is lacking in most of the islands in this region. The community-focused approach involves training and field exercises  for long term impact throughout the island nation.[Read more](https://www.hotosm.org/open-cities-saint-lucia.html)
 
+## Open Cities: Dominica
+
+The Commonwealth of Dominica is also known as “the Nature Isle” due to its lush forest nestled in rugged terrain. However, recent extreme storm events have severely impacted and threatened the inhabitants’ way of life as well as the environment. The increase in storms has resulted in a search for more sustainable methods of living and development over the long term. This increase in sustainable development initiatives has created a need for more current and up-to-date data. For example, data for planning and assessment of projects requires knowledge of living, environmental and developmental conditions.
+
+
+The ravages of Hurricane Maria (September 2017) are still evident around Dominica’s landscape and communities today. Humanitarian OpenStreetMap Team (HOT) plans to leverage community engagement along with existing rebuilding mandates to provide needed and timely data for the Small Island Developing State. HOT will support a local implementing team to capture the current status of the main urban area in Dominica. Vulnerable communities will provide insight into the local landscape  for the project in order to determine the best use of open mapping initiatives. 
+
+A secondary output is the development of a mapping culture, on the ground, via remote mapping as well as through aerial mapping. The creation of this culture would foster  greater open data use throughout the rest of the island, in preparation for future climate hazards, and act as a pilot for similar small island developing states in the Caribbean region.[Read more (https://www.hotosm.org/open-cities-dominica.html)
+
+
 
