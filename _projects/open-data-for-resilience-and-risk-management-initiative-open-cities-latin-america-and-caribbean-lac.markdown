@@ -50,4 +50,15 @@ The ravages of Hurricane Maria (September 2017) are still evident around Dominic
 A secondary output is the development of a mapping culture, on the ground, via remote mapping as well as through aerial mapping. The creation of this culture would foster  greater open data use throughout the rest of the island, in preparation for future climate hazards, and act as a pilot for similar small island developing states in the Caribbean region. [Read more (https://www.hotosm.org/open-cities-dominica.html)
 
 
+## Open Cities: Jamaica
+
+Jamaica is one of the larger Caribbean Islands with a substantial urban area around the  capital city of Kingston. The rapid urbanization has caused issues with solid waste disposal and pollution.
+
+Much of the pollution is visible in the concrete waterways throughout Kingston, its many suburbs and the Kingston Harbor. This leads to problems, including urban flooding and heavy marine pollution. Several studies have been conducted to identify and assess the effects, however, longer sustained methods of data gathering and monitoring are either lacking or not readily available for general use and analysis. 
+
+Humanitarian OpenStreetMap Team (HOT) is providing support to local partners through a local implementing team, to create an analysis of the solid waste accumulation and its effect on urban flooding and harbor pollution. The aim is to develop open-mapping methodologies to capture data, from both ground and aerial mapping. Partnerships with local and international actors in emergency management and marine protection will be integral to the development and sustainability of this initiative.
+
+An additional aim of the project is to expand the use of open-mapping (ground and aerial) and open data technologies, especially among youth and academia, to establish and grow alternative avenues of geodata capture and mapping. [Read more] (https://www.hotosm.org/open-cities-jamaica.html)
+
+
 
