@@ -38,7 +38,7 @@ Mexico has committed to reduce greenhouse gas emissions by 2030. In preparation 
 
 Saint Lucia, like many Caribbean islands, is at risk of recurring hurricanes, tropical cyclones, landslides and flooding. The majority of the population  is clustered in the low land located near the coastal areas, leaving them exposed to the effects of these threats.  
 
-The Humanitarian OpenStreetMap Team (HOT) is  supporting the National Emergency Management Office (NEMO) and the national Central Statistics Office (CSO)  with their immediate needs. This includes providing base layer information on existing structures in target areas and capturing the required details required for the assessment needs of these agencies. An added result of the exercise will be  a pilot for establishing  and growing anOpenStreetMap community of mappers, which is lacking in most of the islands in this region. The community-focused approach involves training and field exercises  for long term impact throughout the island nation.[Read more](https://www.hotosm.org/open-cities-saint-lucia.html)
+The Humanitarian OpenStreetMap Team (HOT) is  supporting the National Emergency Management Office (NEMO) and the national Central Statistics Office (CSO)  with their immediate needs. This includes providing base layer information on existing structures in target areas and capturing the required details required for the assessment needs of these agencies. An added result of the exercise will be  a pilot for establishing  and growing anOpenStreetMap community of mappers, which is lacking in most of the islands in this region. The community-focused approach involves training and field exercises  for long term impact throughout the island nation. [Read more](https://www.hotosm.org/open-cities-saint-lucia.html)
 
 ## Open Cities: Dominica
 
@@ -47,7 +47,7 @@ The Commonwealth of Dominica is also known as “the Nature Isle” due to its l
 
 The ravages of Hurricane Maria (September 2017) are still evident around Dominica’s landscape and communities today. Humanitarian OpenStreetMap Team (HOT) plans to leverage community engagement along with existing rebuilding mandates to provide needed and timely data for the Small Island Developing State. HOT will support a local implementing team to capture the current status of the main urban area in Dominica. Vulnerable communities will provide insight into the local landscape  for the project in order to determine the best use of open mapping initiatives. 
 
-A secondary output is the development of a mapping culture, on the ground, via remote mapping as well as through aerial mapping. The creation of this culture would foster  greater open data use throughout the rest of the island, in preparation for future climate hazards, and act as a pilot for similar small island developing states in the Caribbean region.[Read more (https://www.hotosm.org/open-cities-dominica.html)
+A secondary output is the development of a mapping culture, on the ground, via remote mapping as well as through aerial mapping. The creation of this culture would foster  greater open data use throughout the rest of the island, in preparation for future climate hazards, and act as a pilot for similar small island developing states in the Caribbean region. [Read more (https://www.hotosm.org/open-cities-dominica.html)
 
 
 
