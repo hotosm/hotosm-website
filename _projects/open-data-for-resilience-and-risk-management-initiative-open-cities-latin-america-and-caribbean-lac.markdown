@@ -46,8 +46,7 @@ The Commonwealth of Dominica is also known as “the Nature Isle” due to its l
 
 The ravages of Hurricane Maria (September 2017) are still evident around Dominica’s landscape and communities today. Humanitarian OpenStreetMap Team (HOT) plans to leverage community engagement along with existing rebuilding mandates to provide needed and timely data for the Small Island Developing State. HOT will support a local implementing team to capture the current status of the main urban area in Dominica. Vulnerable communities will provide insight into the local landscape  for the project in order to determine the best use of open mapping initiatives. 
 
-A secondary output is the development of a mapping culture, on the ground, via remote mapping as well as through aerial mapping. The creation of this culture would foster  greater open data use throughout the rest of the island, in preparation for future climate hazards, and act as a pilot for similar small island developing states in the Caribbean region. [Read more (https://www.hotosm.org/open-cities-dominica.html)
-
+A secondary output is the development of a mapping culture, on the ground, via remote mapping as well as through aerial mapping. The creation of this culture would foster  greater open data use throughout the rest of the island, in preparation for future climate hazards, and act as a pilot for similar small island developing states in the Caribbean region. [Read more](https://www.hotosm.org/open-cities-dominica.html)
 
 ## Open Cities: Jamaica
 
@@ -57,7 +56,6 @@ Much of the pollution is visible in the concrete waterways throughout Kingston, 
 
 Humanitarian OpenStreetMap Team (HOT) is providing support to local partners through a local implementing team, to create an analysis of the solid waste accumulation and its effect on urban flooding and harbor pollution. The aim is to develop open-mapping methodologies to capture data, from both ground and aerial mapping. Partnerships with local and international actors in emergency management and marine protection will be integral to the development and sustainability of this initiative.
 
-An additional aim of the project is to expand the use of open-mapping (ground and aerial) and open data technologies, especially among youth and academia, to establish and grow alternative avenues of geodata capture and mapping. [Read more] (https://www.hotosm.org/open-cities-jamaica.html)
-
+An additional aim of the project is to expand the use of open-mapping (ground and aerial) and open data technologies, especially among youth and academia, to establish and grow alternative avenues of geodata capture and mapping. [Read more](https://www.hotosm.org/open-cities-jamaica.html)
 
 
