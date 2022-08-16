@@ -1,6 +1,9 @@
 ---
 title: 'Open Cities: Dominica'
 date: 2022-08-16 10:36:00 Z
+Projects: 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin
+  America and Caribbean'
+layout: page
 ---
 
 The Commonwealth of Dominica is also known as “the Nature Isle” due to its lush forest nestled in rugged terrain. However, recent extreme storm events have severely impacted and threatened the inhabitants’ way of life as well as the environment. The increase in storms has resulted in a search for more sustainable methods of living and development over the long term. This increase in sustainable development initiatives has created a need for more current and up-to-date data. For example, data for planning and assessment of projects requires knowledge of living, environmental and developmental conditions.
