@@ -13,7 +13,7 @@ Country:
 - Nepal
 - Tanzania
 Impact Area:
-- Disaster Risk Reduction
+- Disasters & Climate  Resilience
 Person:
 - Mhairi O'Hara
 - William Evans

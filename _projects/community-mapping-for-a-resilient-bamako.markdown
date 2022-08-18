@@ -5,6 +5,9 @@ position: 40
 Project Summary Text: Mapping for informed decision making for disaster response and
   socioeconomic development
 Feature Image: "/uploads/52100358553_94c50062d2_k.jpg"
+Impact Area:
+- Sustainable Cities & Communities
+- Disasters & Climate  Resilience
 Person:
 - David Luswata
 - Paul Uithol
