@@ -10,9 +10,8 @@ Feature Image: https://cdn.hotosm.org/website/oam-kampala.jpg
 Country:
 - Tanzania
 - Uganda
-HOT Involvement: Disaster Risk Reduction
 Impact Area:
-- Disaster Risk Reduction
+- Disasters & Climate  Resilience
 Person:
 - Felix Delattre
 - Nate Smith
@@ -28,6 +27,7 @@ Data:
 Tools:
 - tool: Tasking Manager
   link: https://github.com/hotosm/tasking-manager
+HOT Involvement: Disaster Risk Reduction
 Link: https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action
 redirect_from: "/projects/ai-for-humanitarian-action"
 ---
