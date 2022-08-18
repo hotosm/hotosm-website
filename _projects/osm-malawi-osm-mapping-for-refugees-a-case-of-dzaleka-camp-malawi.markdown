@@ -7,7 +7,7 @@ Is Community-Led: true
 Country:
 - Malawi
 Impact Area:
-- Refugee Response
+- Displacement & Safe Migration
 Partner:
 - OSM Malawi
 Duration:
