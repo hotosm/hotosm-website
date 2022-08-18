@@ -8,7 +8,7 @@ Project Summary Text: What did we learn from the disaster activations of 2020? W
   efforts.
 Feature Image: https://cdn.hotosm.org/website/world.png
 Impact Area:
-- Disaster Response
+- Disasters & Climate  Resilience
 Person:
 - Disaster Services Team
 Duration:
