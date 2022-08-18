@@ -6,7 +6,7 @@ Project Summary Text: As the world grapples with the global pandemic of COVID-19
   at HOT we are concerned for vulnerable groups worldwide.
 Feature Image: https://cdn.hotosm.org/website/mapeo+equidad+de+genero-14-f6dc86.jpg
 Impact Area:
-- Disaster Response
+- Public Health
 Person:
 - Russell Deffner
 - Antoni Ros Martinez
