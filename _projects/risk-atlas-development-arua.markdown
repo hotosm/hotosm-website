@@ -10,7 +10,7 @@ Feature Image: https://cdn.hotosm.org/website/IMG_20180628_152721.jpg
 Country:
 - Uganda
 Impact Area:
-- Disaster Risk Reduction
+- Disasters & Climate  Resilience
 Person:
 - Paul Uithol
 - Rupert Allan
