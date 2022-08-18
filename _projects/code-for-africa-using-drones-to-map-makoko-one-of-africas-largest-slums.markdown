@@ -9,11 +9,9 @@ Is Community-Led: true
 Country:
 - Nigeria
 Impact Area:
-- Environment
-- Water & Sanitation
+- Sustainable Cities & Communities
 - Public Health
-- Disaster Risk Reduction
-- Poverty Elimination
+- Disasters & Climate  Resilience
 ---
 
 **2019 Microgrant**    
