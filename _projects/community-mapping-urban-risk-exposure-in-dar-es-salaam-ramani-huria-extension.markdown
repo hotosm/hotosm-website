@@ -10,9 +10,8 @@ Feature Image: https://cdn.hotosm.org/website/Ramani+Huria+Dar+es+Salaam+v3.jpg
 Country:
 - Tanzania
 Impact Area:
-- Sustainable Cities
-- Water & Sanitation
-- Disaster Risk Reduction
+- Sustainable Cities & Communities
+- Disasters & Climate  Resilience
 Partner:
 - World Bank
 - U.K. Department for International Development (DfID)
