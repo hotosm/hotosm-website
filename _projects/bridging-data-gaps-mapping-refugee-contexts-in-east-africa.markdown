@@ -7,7 +7,7 @@ Country:
 - Uganda
 - Tanzania
 Impact Area:
-- Refugee Response
+- Displacement & Safe Migration
 Person:
 - Paul Uithol
 - Sara Amadi
