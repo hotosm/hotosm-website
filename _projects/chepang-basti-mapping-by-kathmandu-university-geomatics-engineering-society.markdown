@@ -7,7 +7,9 @@ Is Community-Led: true
 Country:
 - Nepal
 Impact Area:
-- Poverty Elimination
+- Disasters & Climate  Resilience
+- Public Health
+- Sustainable Cities & Communities
 Partner:
 - Kathmandu University Geomatics Engineering Society
 Duration:
