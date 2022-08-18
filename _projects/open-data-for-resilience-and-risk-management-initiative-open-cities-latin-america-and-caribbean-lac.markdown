@@ -11,8 +11,8 @@ Country:
 - Mexico
 - Saint Lucia
 Impact Area:
-- Sustainable Cities
-- Disaster Risk Reduction
+- Sustainable Cities & Communities
+- Disasters & Climate  Resilience
 Partner:
 - Global Fund for Disaster Reduction and Recovery
 - SWISS RE Foundation
