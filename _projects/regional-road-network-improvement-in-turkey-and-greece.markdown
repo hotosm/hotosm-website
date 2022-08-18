@@ -11,7 +11,7 @@ Country:
 - Turkey
 - Greece
 Impact Area:
-- Transportation
+- Sustainable Cities & Communities
 Person:
 - Can Unen
 - Paul Uithol
