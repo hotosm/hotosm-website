@@ -13,6 +13,7 @@ Country:
 Impact Area:
 - Sustainable Cities & Communities
 - Disasters & Climate  Resilience
+- 'IMPACT AREAS:'
 Partner:
 - Global Fund for Disaster Reduction and Recovery
 - SWISS RE Foundation
