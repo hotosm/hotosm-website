@@ -11,7 +11,7 @@ Is Community-Led: true
 Country:
 - Iraq
 Impact Area:
-- Refugee Response
+- Displacement & Safe Migration
 Partner:
 - OpenStreetMap Iraq
 Micrograntee: true
