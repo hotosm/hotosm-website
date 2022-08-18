@@ -9,7 +9,7 @@ Feature Image: https://cdn.hotosm.org/website/Haiti+(1).png
 Country:
 - Haiti
 Impact Area:
-- Disaster Response
+- Disasters & Climate  Resilience
 Person:
 - Mikel Maron
 - Rob Baker
