@@ -11,7 +11,7 @@ Feature Image: https://cdn.hotosm.org/website/cover.jpeg
 Country:
 - Liberia
 Impact Area:
-- Sustainable Cities
+- Sustainable Cities & Communities
 Person:
 - Jess Beutler
 Partner:
