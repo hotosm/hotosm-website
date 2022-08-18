@@ -5,7 +5,7 @@ Photo: "/uploads/Celine.jpg"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Project Manager - Latin America
+Job Title: Senior Manager, Community Programs- Latin America
 Languages:
 - English
 - Español
