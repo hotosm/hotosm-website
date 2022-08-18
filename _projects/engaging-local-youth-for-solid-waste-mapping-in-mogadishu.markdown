@@ -6,7 +6,7 @@ Feature Image: "/uploads/Mogadishu%20Skyline.jpg"
 Country:
 - Somalia
 Impact Area:
-- Sustainable Cities
+- Sustainable Cities & Communities
 Person:
 - Immaculata Mwanja
 - Riley Moepswa

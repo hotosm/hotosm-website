@@ -6,7 +6,7 @@ Feature Image: "/uploads/Local%20Impact%20Zambia%20Map.jpg"
 Country:
 - Zambia
 Impact Area:
-- Sustainable Cities
+- Sustainable Cities & Communities
 Duration:
   Start Date: 2020-11-02 00:00:00 Z
 ---
