@@ -17,10 +17,10 @@ Block 1:
   Project:
   - 'Refugee response: South Sudan and Syria'
 Block 2:
-  Header: Putting the world's most vulnerable people and places on the map
+  Header: Mapping areas vulnerable to disaster
   Text: Through the Missing Maps project, the HOT global community creates maps of
-    high vulnerability areas where data is scarce, putting millions of people onto
-    the world map in OpenStreetMap.
+    high vulnerability areas where data is scarce, putting an area home to millions
+    of people onto the world map in OpenStreetMap.
   Image: https://cdn.hotosm.org/website/Congestion+at+the+Water+PumpSmall.jpg
   Project:
   - 'Infectious diseases: Malaria elimination'
