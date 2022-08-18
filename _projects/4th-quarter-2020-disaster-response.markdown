@@ -6,7 +6,7 @@ Project Summary Text: Mid-October and into November 2020 has been busy for our d
   mapping team. Read more here.
 Feature Image: https://cdn.hotosm.org/website/Q4Disasters2020.PNG
 Impact Area:
-- Disaster Response
+- Disasters & Climate  Resilience
 Duration:
   Start Date: 2020-10-01 00:00:00 Z
   End Date: 2020-12-31 00:00:00 Z
