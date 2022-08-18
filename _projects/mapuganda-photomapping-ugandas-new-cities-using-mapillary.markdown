@@ -7,7 +7,7 @@ Is Community-Led: true
 Country:
 - Uganda
 Impact Area:
-- Sustainable Cities
+- Sustainable Cities & Communities
 Partner:
 - MapUganda
 Duration:

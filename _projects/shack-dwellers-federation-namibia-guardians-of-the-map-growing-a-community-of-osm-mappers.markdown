@@ -8,7 +8,7 @@ Is Community-Led: true
 Country:
 - Namibia
 Impact Area:
-- Sustainable Cities
+- Sustainable Cities & Communities
 Partner:
 - Shack Dwellers Federation Namibia
 Duration:
