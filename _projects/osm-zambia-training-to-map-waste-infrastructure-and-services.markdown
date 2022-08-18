@@ -6,7 +6,7 @@ Is Community-Led: true
 Country:
 - Zambia
 Impact Area:
-- Sustainable Cities
+- Sustainable Cities & Communities
 - 
 Duration:
   Start Date: 2020-10-01 00:00:00 Z
