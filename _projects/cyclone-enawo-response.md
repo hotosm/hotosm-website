@@ -9,7 +9,7 @@ Feature Image: https://s3.amazonaws.com/hotwww/files/old/maroantsetra_buildings_
 Country:
 - Madagascar
 Impact Area:
-- Disaster Response
+- Disasters & Climate  Resilience
 Person:
 - Blake Girardot
 Duration:
