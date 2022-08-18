@@ -13,7 +13,7 @@ Is Community-Led: false
 Country:
 - Uganda
 Impact Area:
-- Disaster Risk Reduction
+- Disasters & Climate  Resilience
 - 
 - Sustainable Cities
 Person:

@@ -14,8 +14,8 @@ Country:
 - Uganda
 - 
 Impact Area:
-- Clean Energy
-- Refugee Response
+- Displacement & Safe Migration
+- Sustainable Cities & Communities
 Person:
 - Sara Amadi
 - Kiggudde Deogratias
