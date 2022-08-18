@@ -12,7 +12,7 @@ Country:
 - - Kenya
   - Nigeria
 Impact Area:
-- - Sustainable Cities
+- - Sustainable Cities & Communities
   - Public Health
 Person:
 - - Carter Draper
