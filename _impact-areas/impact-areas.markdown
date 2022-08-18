@@ -1,5 +1,5 @@
 ---
-title: IMPACT AREAS
+title: 'IMPACT AREAS:'
 date: 2022-08-18 16:46:00 Z
 Intro Text: Solving global challenges requires an understanding of our physical environment
   that is grounded in the day-to-day realities of people experiencing those challenges.
