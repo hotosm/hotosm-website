@@ -10,7 +10,7 @@ Feature Image: "/uploads/Screenshot%202022-07-01%206.24.12%20PM.png"
 Country:
 - Indonesia
 Impact Area:
-- Disaster Risk Reduction
+- Disasters & Climate  Resilience
 Person:
 - Harry Mahardhika Machmud
 - Dewi Sulistioningrum
