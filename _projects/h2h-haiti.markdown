@@ -6,7 +6,7 @@ Feature Image: "/uploads/H2H%20Haiti%20for%20Website.png"
 Country:
 - Haiti
 Impact Area:
-- Sustainable Cities
+- Sustainable Cities & Communities
 Duration:
   Start Date: 2021-10-15 00:00:00 Z
   End Date: 2022-02-15 00:00:00 Z
