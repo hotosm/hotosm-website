@@ -61,7 +61,7 @@ Otro fundamento de la metodología de OpenCities es hacer transferencia de conoc
 
 Aprovechando el interés de una gran diversidad de actores se capacitó también a organizaciones civiles y una escuela pública, el CECyTE de Tulum.
 
-## F**á**brica de proyectos (Regional)
+## Fábrica de proyectos (Regional)
 
 ![fabrica cusco.jpeg](/uploads/fabrica%20cusco.jpeg)
 
