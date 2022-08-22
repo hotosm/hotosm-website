@@ -8,6 +8,8 @@ Feature Image: https://cdn.hotosm.org/website/OSM+Cameroun.jpg
 Is Community-Led: true
 Country:
 - Cameroon
+Impact Area:
+- Sustainable Cities & Communities
 ---
 
 **2019 Microgrant**  
