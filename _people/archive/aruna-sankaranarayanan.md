@@ -4,7 +4,8 @@ date: 2019-01-26 08:05:00 Z
 published: false
 Photo: https://cdn.hotosm.org/website/aruna.jpg
 Member Type:
-  Is Staff: false
+  Is Staff: true
+  Is Voting Member: false
 Job Title: Developer
 Country: India
 ---
