@@ -107,24 +107,24 @@ In principle, we can already implement a Field Mapping Tasking Manager workflow,
 
 * Create a mobile-friendly web map (not a mobile app, just a web app) that:
 
-* * Displays all of the individual tasks in a project, color-coded by allocation/completion status
-* * Allows mappers to click on a task near their physical location and have it allocated to them (either with a QR code or a direct launch of ODK Collect with the relevant configuration)
-* * Allows mappers, validators, and managers to see progress and select tasks for further mapping or validation
+ * Displays all of the individual tasks in a project, color-coded by allocation/completion status
+ * Allows mappers to click on a task near their physical location and have it allocated to them (either with a QR code or a direct launch of ODK Collect with the relevant configuration)
+ * Allows mappers, validators, and managers to see progress and select tasks for further mapping or validation
 
-2. Create a web map for computer screens that facilitates the creation of projects and individual tasks
-* Ideally uses road and waterway networks to divide tasks sensibly for field mapping rather than arbitrary squares
-* Automates the process of downloading OSM data (likely buildings as the first priority) for the area covered by each task and converting it into selectable features in an ODK form for each task area
+* Create a web map for computer screens that facilitates the creation of projects and individual tasks
+ * Ideally uses road and waterway networks to divide tasks sensibly for field mapping rather than arbitrary squares
+ * Automates the process of downloading OSM data (likely buildings as the first priority) for the area covered by each task and converting it into selectable features in an ODK form for each task area
 
  *Similar to and possibly based on the HOT Tasking Manager UI, though optimized for mobile; people using the Tasking Manager are by definition using a computer screen, while field mappers are by definition using a mobile device.*
 
 
-3. Refine and expand the form(s) available to cover the most critical field mapping data needs of communities
+* Refine and expand the form(s) available to cover the most critical field mapping data needs of communities
 
  *Most field mapping data is currently uploaded to OSM as bulk imports attributed to the organization, project, or validator. This is a source of frustration to the OSM community, who greatly value individual responsibility for individual edits added to the map.*
 
-4. Streamline the data validation and import process
+* Streamline the data validation and import process
 
-5. And so on…
+* And so on…
 
 Next steps
 
