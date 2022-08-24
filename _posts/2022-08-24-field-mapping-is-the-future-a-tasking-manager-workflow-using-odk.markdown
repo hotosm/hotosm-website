@@ -29,7 +29,7 @@ What about tasking for field mapping?
 
 There are a number of great field data collection tools! 
 
-The mighty OpenDataKit and the many platforms built from it such as Kobo Toolbox make it possible for anyone with an Android device to collect data using flexible, powerful forms designed in a spreadsheet. 
+The mighty [OpenDataKit](https://getodk.org/) and the many platforms built from it such as [Kobo Toolbox](https://www.kobotoolbox.org/) make it possible for anyone with an Android device to collect data using flexible, powerful forms designed in a spreadsheet. 
 
 ![Screen Shot 2022-08-24 at 3.15.46 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.15.46%20PM.png)
 
