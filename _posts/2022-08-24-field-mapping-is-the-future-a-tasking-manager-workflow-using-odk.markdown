@@ -49,12 +49,11 @@ We propose a Field Mapping Tasking Manager to fill this need.
 
 **The components of a field mapping Tasking Manager are mostly already built!**
 
-If we were starting from scratch, this would be a daunting proposition. However, thanks to the incredible work of Nafundi, the lead developers of OpenDataKit (ODK), and some related work happening within HOT and the wider open mapping community, the pieces are mostly already in place.
-What is needed for a field mapping Tasking Manager?
+If we were starting from scratch, this would be a daunting proposition. However, thanks to the incredible work of [Nafundi](https://nafundi.com/), the lead developers of OpenDataKit (ODK), and some related work happening within HOT and the wider open mapping community, the pieces are mostly already in place.
+**
+What is needed for a field mapping Tasking Manager?**
 
-*What’s needed to implement a Field Mapping Tasking Manager?*
-
-We need a way to:
+What’s needed to implement a Field Mapping Tasking Manager? We need a way to:
 * Define an Area of Interest and divide it into smaller tasks
 * Allocate tasks to individuals such that there is neither duplication nor gaps
 * Monitor progress of field mapping tasks
