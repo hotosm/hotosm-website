@@ -156,7 +156,7 @@ En collaboration avec l'équipe Tech and Communities et les groupes de travail C
 
 Les sessions en français et en anglais se tiendront dans plusieurs fuseaux horaires, et des sessions supplémentaires pourront être ajoutées s'il y a un intérêt pour d'autres fuseaux horaires et d'autres langues ( nous pouvons probablement gérer une session en espagnol si les participants sont prêts à entendre la langue de Cervantès impitoyablement massacrée). 
 
-Si, à la suite de la session de partage de compétences, la communauté manifeste un intérêt substantiel pour l'utilisation de ce flux de travail, nous continuerons à le développer en collaboration avec ces utilisateurs. Donc, si vous pensez que c'est quelque chose que vous voulez ou dont vous avez besoin, assurez-vous de vous inscrire pour le partage de compétences à tinyurl.com/field-mapping-tools1.
+Si, à la suite de la session de partage de compétences, la communauté manifeste un intérêt substantiel pour l'utilisation de ce flux de travail, nous continuerons à le développer en collaboration avec ces utilisateurs. Donc, si vous pensez que c'est quelque chose que vous voulez ou dont vous avez besoin, assurez-vous de vous inscrire pour le partage de compétences à [tinyurl.com/field-mapping-tools1.](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-open-data-kit-tickets-400186387257)
 
 
 
