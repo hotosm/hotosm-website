@@ -79,6 +79,61 @@ Además, la nueva aplicación del servidor web ODK Central contiene herramientas
 
 ![Screen Shot 2022-08-24 at 3.35.11 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.35.11%20PM.png)
 
+*ODK Central admite la asignación de formularios individuales -y las características correspondientes, como los edificios- a usuarios individuales*
+
+¿Cómo facilita este sistema de "usuarios de aplicaciones" un Gestor de Tareas? Nos alegra que lo preguntes. Creando un código QR  para cada barrio (o "tarea"), y asignándolos uno a uno a las personas, podemos:
+
+* Asignar áreas específicas a personas específicas (ya sea asignándoselas directamente o proporcionando una selección de áreas y dejando que la gente elija)
+* Llevar un registro de las áreas que han sido asignadas y completadas (y, con un poco más de trabajo, validadas) Llevar un registro de quién mapeó cada área
+* Asignar nuevas áreas a las personas que han terminado las suyas
+* Llevar un registro de las áreas que aún requieren ser mapeadas (o completadas/corregidas después de la validación)
+
+Por el momento, esto supone mucho trabajo manual. Sin embargo, ODK Central cuenta con una potente y bien documentada API, y la creación de tareas/áreas individuales, la asignación a usuarios específicos, el seguimiento de los resultados entrantes y la congelación de los formularios ya asignados, ¡puede automatizarse!
+
+Aunque ya podemos asignar las tareas manualmente, el siguiente paso obvio es un mapa web que permita a los cartógrafos de campo seleccionar un área fácilmente. El equipo de OpenMapDevelopment Tanzania (OMDTZ) ha sido pionero en la creación de mapas web interactivos que se integran con ODK Central, lo que muestra un camino prometedor.
+
+**Conversión de los envíos de ODK a OSM XML para su validación y carga**
+
+El equipo técnico de HOT ya ha creado un conjunto de scripts que hacen la conversión de  formularios ODK a OSM XML, el formato de datos nativo de OpenStreetMap. Esto permite que los envíos de mapeo de campo entren fácilmente en la tubería de datos tradicional de validación en JOSM, seguido por la carga a OSM atribuida a la ID de OSM del mapeador de campo.
+
+La existencia de estos scripts facilita una funcionalidad más parecida a la del Gestor de Tareas, ya que la conversión de los envíos a conjuntos de datos listos para su validación es directa y fácilmente automatizable. Los scripts son especialmente fáciles de adaptar cuando se dirigen a formularios ODK estandarizados de buena calidad, una ventaja clave de todo este sistema.
+
+**¿Qué necesitamos construir?**
+
+En principio, ya podemos implementar un flujo de trabajo del Gestor de Tareas de mapeo de campo, pero requiere mucho trabajo manual complicado. Nuestro plan es hacerlo y automatizar gradualmente los puntos problemáticos. El camino más probable es el siguiente:
+1. Crear un mapa web para móviles (no una aplicación móvil, sólo una aplicación web) que:
+  a. Muestre todas las tareas individuales de un proyecto, 
+     codificadas por colores según el estado de 
+     asignación/realización
+  b. Permita a los mapeadores hacer clic en una tarea cerca de su 
+     ubicación física y que se les asigne (ya sea con un código QR o 
+     con un lanzamiento directo de ODK Collect con la configuración 
+     pertinente)
+  c. Permita a los mapeadores, validadores y administradores ver el 
+     progreso y seleccionar tareas para su posterior mapeo o 
+     validación
+2. Crear un mapa web para pantallas de ordenador que facilite la creación de proyectos y tareas individuales
+  a. Lo ideal es utilizar las redes de carreteras y vías fluviales 
+     para dividir las tareas de forma sensata para el mapeo de 
+     campo, en lugar de utilizar cuadrículas arbitrarias
+  b. Automatiza el proceso de descarga de datos OSM (probablemente 
+     construcciones como primera prioridad) para el área cubierta 
+     por cada tarea y conversión en características seleccionables 
+     en un formulario ODK para cada área de la tarea
+3. Perfeccionar y ampliar los formularios disponibles para cubrir las necesidades de datos cartográficos de campo más importantes de las comunidades
+4. Agilizar el proceso de validación e importación de datos
+5. Y así sucesivamente...
+
+Próximos pasos
+
+En colaboración con el equipo de Tecnología y Comunidades, y los Grupos de Trabajo de Comunidad y Formación, el Equipo de Programas de Campo de HOT organizará un intercambio de habilidades  el 9 de septiembre del 2022, donde demostraremos el uso de un flujo de trabajo rudimentario del Gestor de Tareas de mapeo de campo. Todos son bienvenidos. 
+
+Las sesiones en francés e inglés se celebrarán en varios husos horarios, y podrán añadirse sesiones adicionales si hay interés de otros husos horarios e idiomas (probablemente podamos organizar una sesión en español si los participantes están dispuestos a escuchar la lengua de Cervantes despiadadamente tratada). 
+
+Si, tras la sesión de intercambio de conocimientos, hay un interés sustancial de la comunidad en utilizar este flujo de trabajo, seguiremos construyéndolo en colaboración con esos usuarios. Así que si crees que esto es algo que podrías querer o necesitar, asegúrate de inscribirte en la sesión de intercambio de conocimientos en tinyurl.com/field-mapping-tools1.
+
+
+
 
 
 
