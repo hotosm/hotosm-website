@@ -68,13 +68,13 @@ A mediados de 2022, disponemos de herramientas que pueden cumplir todos los requ
 
 **Nueva funcionalidad de ODK "seleccionar del mapa" y asignación de formularios individuales**
 
-Desde mediados de 2022, ODK incorpora una nueva funcionalidad, la selección desde el mapa, que permite a los cartógrafos de campo seleccionar un objeto de un mapa, ver los atributos existentes y rellenar un formulario añadiendo nueva información y atributos a ese objeto. Por ejemplo, un cartógrafo puede acercarse a un edificio, seleccionar ese edificio desde una vista de mapa dentro de ODK en su teléfono móvil, y añadir el horario de apertura, el número de plantas, el material de construcción o cualquier número de atributos útiles en un formato de cuestionario bien estructurado*.
+Desde mediados de 2022, ODK incorpora una nueva funcionalidad, la [selección desde el mapa](https://forum.getodk.org/t/odk-collect-v2022-2-beta-select-from-map-geojson-datasets/36913), que permite a los cartógrafos de campo seleccionar un objeto de un mapa, ver los atributos existentes y rellenar un formulario añadiendo nueva información y atributos a ese objeto. Por ejemplo, un cartógrafo puede acercarse a un edificio, seleccionar ese edificio desde una vista de mapa dentro de ODK en su teléfono móvil, y añadir el horario de apertura, el número de plantas, el material de construcción o cualquier número de atributos útiles en un formato de cuestionario bien estructurado*.
 
 ![Screen Shot 2022-08-24 at 3.34.04 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.34.04%20PM.png)
 
-Además, la nueva aplicación del servidor web ODK Central contiene herramientas muy granulares para asignar formularios a usuarios individuales. De hecho, es posible crear cuestionarios individuales para un número arbitrario de áreas pequeñas (como barrios), cada una con su propio conjunto de características (como edificios). Estos formularios pueden asignarse a "usuarios de la aplicación" específicos, con acceso a formularios específicos (y por tanto a barrios/áreas) definidos por un código QR.
+Además, la nueva aplicación del servidor web [ODK Central](https://docs.getodk.org/central-intro/) contiene herramientas muy granulares para asignar formularios a usuarios individuales. De hecho, es posible crear cuestionarios individuales para un número arbitrario de áreas pequeñas (como barrios), cada una con su propio conjunto de características (como edificios). Estos formularios pueden asignarse a "usuarios de la aplicación" específicos, con acceso a formularios específicos (y por tanto a barrios/áreas) definidos por un código QR.
 
-      *Esto replica en su mayor parte la funcionalidad del tan extrañado OpenMapKit, una bifurcación muy útil de ODK creada por la Cruz Roja Americana con el apoyo de HOT y otras agencias, que permitía a los usuarios lanzar formularios desde una vista de mapa y seleccionar edificios/características para añadirles atributos. Lamentablemente, OMK ya no recibe mantenimiento y no se puede utilizar de forma fiable.
+      *Esto replica en su mayor parte la funcionalidad del tan extrañado [OpenMapKit](http://www.openmapkit.org/), una bifurcación muy útil de ODK creada por la Cruz Roja Americana con el apoyo de HOT y otras agencias, que permitía a los usuarios lanzar formularios desde una vista de mapa y seleccionar edificios/características para añadirles atributos. Lamentablemente, OMK ya no recibe mantenimiento y no se puede utilizar de forma fiable.
 
 
 ![Screen Shot 2022-08-24 at 3.35.11 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.35.11%20PM.png)
@@ -88,9 +88,9 @@ Además, la nueva aplicación del servidor web ODK Central contiene herramientas
 * Asignar nuevas áreas a las personas que han terminado las suyas
 * Llevar un registro de las áreas que aún requieren ser mapeadas (o completadas/corregidas después de la validación)
 
-Por el momento, esto supone mucho trabajo manual. Sin embargo, ODK Central cuenta con una potente y bien documentada API, y la creación de tareas/áreas individuales, la asignación a usuarios específicos, el seguimiento de los resultados entrantes y la congelación de los formularios ya asignados, ¡puede automatizarse!
+Por el momento, esto supone mucho trabajo manual. Sin embargo, ODK Central cuenta con una [potente y bien documentada API](https://odkcentral.docs.apiary.io/#), y la creación de tareas/áreas individuales, la asignación a usuarios específicos, el seguimiento de los resultados entrantes y la congelación de los formularios ya asignados, ¡puede automatizarse!
 
-Aunque ya podemos asignar las tareas manualmente, el siguiente paso obvio es un mapa web que permita a los cartógrafos de campo seleccionar un área fácilmente. El equipo de OpenMapDevelopment Tanzania (OMDTZ) ha sido pionero en la creación de mapas web interactivos que se integran con ODK Central, lo que muestra un camino prometedor.
+Aunque ya podemos asignar las tareas manualmente, el siguiente paso obvio es un mapa web que permita a los cartógrafos de campo seleccionar un área fácilmente. El equipo de [OpenMapDevelopment Tanzania (OMDTZ)](https://www.omdtz.or.tz/about/) ha sido pionero en la creación de [mapas web interactivos que se integran con ODK Central](https://millmaps.org/), lo que muestra un camino prometedor.
 
 **Conversión de los envíos de ODK a OSM XML para su validación y carga**
 
@@ -140,7 +140,7 @@ En colaboración con el equipo de Tecnología y Comunidades, y los Grupos de Tra
 
 Las sesiones en francés e inglés se celebrarán en varios husos horarios, y podrán añadirse sesiones adicionales si hay interés de otros husos horarios e idiomas (probablemente podamos organizar una sesión en español si los participantes están dispuestos a escuchar la lengua de Cervantes despiadadamente tratada). 
 
-Si, tras la sesión de intercambio de conocimientos, hay un interés sustancial de la comunidad en utilizar este flujo de trabajo, seguiremos construyéndolo en colaboración con esos usuarios. Así que si crees que esto es algo que podrías querer o necesitar, asegúrate de inscribirte en la sesión de intercambio de conocimientos en tinyurl.com/field-mapping-tools1.
+Si, tras la sesión de intercambio de conocimientos, hay un interés sustancial de la comunidad en utilizar este flujo de trabajo, seguiremos construyéndolo en colaboración con esos usuarios. Así que si crees que esto es algo que podrías querer o necesitar, asegúrate de inscribirte en la sesión de intercambio de conocimientos en [tinyurl.com/field-mapping-tools1](https://tinyurl.com/field-mapping-tools1).
 
 
 
