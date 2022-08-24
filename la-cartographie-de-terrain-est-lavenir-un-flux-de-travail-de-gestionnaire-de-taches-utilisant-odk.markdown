@@ -2,7 +2,6 @@
 title: 'La cartographie de terrain est l''avenir : Un flux de travail de Gestionnaire
   de Tâches utilisant ODK'
 date: 2022-08-24 12:07:00 Z
-published: false
 ---
 
 **La cartographie de terrain par les populations locales est la clé de l'avenir de la cartographie ouverte. Cependant, les outils disponibles pour la cartographie de terrain - bien que beaucoup soient de grande qualité - ne forment pas un écosystème cohérent permettant de libérer le potentiel de la cartographie de terrain communautaire. Il manque quelque chose ! Pourrait-il s'agir d'un Gestionnaire de Tâches pour la cartographie de terrain?**
@@ -135,6 +134,13 @@ En principe, nous pouvons déjà mettre en œuvre un flux de travail de type Ges
 
 5. Et ainsi de suite...
 
+**Prochaines étapes**
+
+En collaboration avec l'équipe Tech and Communities et les groupes de travail Community et Training, l'équipe Field Programs de HOT organisera un partage de compétences à l'adresse le 9 septembre 2022, où nous ferons la démonstration de l'utilisation d'un flux de travail rudimentaire du Field Mapping Tasking Manager. Tous sont les bienvenus ! 
+
+Les sessions en français et en anglais se tiendront dans plusieurs fuseaux horaires, et des sessions supplémentaires pourront être ajoutées s'il y a un intérêt pour d'autres fuseaux horaires et d'autres langues ( nous pouvons probablement gérer une session en espagnol si les participants sont prêts à entendre la langue de Cervantès impitoyablement massacrée). 
+
+Si, à la suite de la session de partage de compétences, la communauté manifeste un intérêt substantiel pour l'utilisation de ce flux de travail, nous continuerons à le développer en collaboration avec ces utilisateurs. Donc, si vous pensez que c'est quelque chose que vous voulez ou dont vous avez besoin, assurez-vous de vous inscrire pour le partage de compétences à tinyurl.com/field-mapping-tools1.
 
 
 
