@@ -72,13 +72,13 @@ Que faut-il pour mettre en œuvre un gestionnaire de tâches de cartographie de 
 
 À partir du milieu de l'année 2022, ODK intègre une nouvelle fonctionnalité, [Select from map](https://forum.getodk.org/t/odk-collect-v2022-2-beta-select-from-map-geojson-datasets/36913), qui permet aux cartographes de terrain de sélectionner un objet sur une carte, de visualiser les attributs existants et de remplir un formulaire pour ajouter de nouvelles informations et de nouveaux attributs à cet objet. Par exemple, un cartographe peut s'approcher d'un bâtiment, le sélectionner sur une carte dans ODK sur son téléphone portable, et ajouter les heures d'ouverture, le nombre d'étages, le matériau de construction ou tout autre attribut utile dans un format de questionnaire bien structuré*.
 
-     *Il reproduit en grande partie la fonctionnalité du très regretté OpenMapKit, un fork très utile d'ODK créé par la Croix-Rouge américaine avec le soutien de HOT et d'autres agences, qui permettait aux utilisateurs de lancer des formulaires à partir d'une vue cartographique et de sélectionner des bâtiments/éléments auxquels ajouter des attributs. Malheureusement, OMK n'est plus maintenu et ne peut plus être utilisé de manière fiable.*
+     *Il reproduit en grande partie la fonctionnalité du très regretté [OpenMapKit](http://www.openmapkit.org/), un fork très utile d'ODK créé par la Croix-Rouge américaine avec le soutien de HOT et d'autres agences, qui permettait aux utilisateurs de lancer des formulaires à partir d'une vue cartographique et de sélectionner des bâtiments/éléments auxquels ajouter des attributs. Malheureusement, OMK n'est plus maintenu et ne peut plus être utilisé de manière fiable.*
 
 
 ![Screen Shot 2022-08-24 at 3.34.04 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.34.04%20PM.png)
 
 
-En outre, la nouvelle application serveur web ODK Central contient des outils très granulaires permettant d'attribuer des formulaires à des utilisateurs individuels. Il est possible, en effet, de créer des questionnaires individuels pour un nombre arbitraire de petites zones (comme des quartiers), chacune avec son propre ensemble de caractéristiques (comme des bâtiments). Ces formulaires peuvent ensuite être attribués à des "utilisateurs de l'application" spécifiques, l'accès à des formulaires spécifiques (et donc à des quartiers/zones) étant défini par un code QR. 
+En outre, la nouvelle application serveur web [ODK Central](https://docs.getodk.org/central-intro/) contient des outils très granulaires permettant d'attribuer des formulaires à des utilisateurs individuels. Il est possible, en effet, de créer des questionnaires individuels pour un nombre arbitraire de petites zones (comme des quartiers), chacune avec son propre ensemble de caractéristiques (comme des bâtiments). Ces formulaires peuvent ensuite être attribués à des "utilisateurs de l'application" spécifiques, l'accès à des formulaires spécifiques (et donc à des quartiers/zones) étant défini par un code QR. 
 
 ![Screen Shot 2022-08-24 at 3.35.11 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.35.11%20PM.png)
 
@@ -91,9 +91,9 @@ Comment ce système d'"app user" facilite-t-il la tâche d'un Gestionnaire de T�
 * Attribuez de nouvelles zones aux personnes qui ont terminé les leurs.
 * Garder la trace des domaines qui doivent encore être cartographiés (ou complétés/corrigés après validation).
 
-Pour l'instant, cela représente beaucoup de travail manuel. Cependant, ODK Central dispose d'une API puissante et bien documentée, et la création de tâches/zones individuelles, l'attribution à des utilisateurs spécifiques, le suivi des résultats entrants et le gel des formulaires déjà attribués, peuvent être automatisés !
+Pour l'instant, cela représente beaucoup de travail manuel. Cependant, ODK Central dispose d'une [API puissante](https://odkcentral.docs.apiary.io/#) et bien documentée, et la création de tâches/zones individuelles, l'attribution à des utilisateurs spécifiques, le suivi des résultats entrants et le gel des formulaires déjà attribués, peuvent être automatisés !
 
-Alors que nous pouvons déjà répartir les tâches manuellement, la prochaine étape évidente est une carte web permettant aux cartographes de terrain de sélectionner facilement une zone. L'équipe d'OpenMapDevelopment Tanzania (OMDTZ) a été la première à créer des cartes web interactives qui s'intègrent à ODK Central, démontrant ainsi une voie prometteuse.
+Alors que nous pouvons déjà répartir les tâches manuellement, la prochaine étape évidente est une carte web permettant aux cartographes de terrain de sélectionner facilement une zone. L'équipe d'[OpenMapDevelopment Tanzania (OMDTZ)](https://www.omdtz.or.tz/about/) a été la première à créer des [cartes web interactives qui s'intègrent à ODK Central](https://millmaps.org/), démontrant ainsi une voie prometteuse.
 
 **Conversion des soumissions ODK en OSM XML pour la validation et le téléchargement.**
 
