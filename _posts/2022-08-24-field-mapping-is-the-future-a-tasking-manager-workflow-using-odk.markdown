@@ -41,13 +41,13 @@ The mighty [OpenDataKit](https://getodk.org/) and the many platforms built from 
 
 *The spreadsheet on the left creates the questionnaire and “Select From Map” activity on the phone.*
 
+
 [Vespucci](https://vespucci.io/) brings much of the power of JOSM to a mobile editor. [EveryDoor](https://every-door.app/) gives both Android and iPhone users a simple platform to edit OSM data, and StreetComplete does the same for Android users. [OSMAND](https://osmand.net/) and [Organic Maps](https://organicmaps.app/) allow navigation and offline map viewing with OSM data, as well as some basic capacity to add or edit features to contribute back to OSM.
 
 
 ![Screen Shot 2022-08-24 at 3.27.54 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.27.54%20PM.png)
 
-**EveryDoor, Vespucci, OSMAnd, and Organic Maps screenshots
-**
+*EveryDoor, Vespucci, OSMAnd, and Organic Maps screenshots*
 
 Just as with remote mapping, we have an excellent data repository (OSM) and great editing and/or data collection tools, but there is no coordination platform to facilitate large-scale, high-quality field mapping for OpenStreetMap. 
 
@@ -57,8 +57,7 @@ We propose a Field Mapping Tasking Manager to fill this need.
 
 If we were starting from scratch, this would be a daunting proposition. However, thanks to the incredible work of [Nafundi](https://nafundi.com/), the lead developers of OpenDataKit (ODK), and some related work happening within HOT and the wider open mapping community, the pieces are mostly already in place.
 
-**
-What is needed for a field mapping Tasking Manager?**
+**What is needed for a field mapping Tasking Manager?**
 
 What’s needed to implement a Field Mapping Tasking Manager? We need a way to:
 * Define an Area of Interest and divide it into smaller tasks
