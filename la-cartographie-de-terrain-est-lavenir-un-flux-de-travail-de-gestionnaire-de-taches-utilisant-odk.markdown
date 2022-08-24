@@ -26,7 +26,7 @@ Il fallait quelque chose : un moyen d'attribuer de petites tâches gérables aux
 
 **Qu'en est-il des tâches de cartographie sur le terrain ?**
 
-Il existe un certain nombre d'excellents outils de collecte de données sur le terrain ! 
+Il existe un certain nombre d'excellents outils de collecte de données sur le terrain! 
 
 Le puissant [OpenDataKit](https://getodk.org/) et les nombreuses plateformes construites à partir de celui-ci, comme [Kobo Toolbox](https://www.kobotoolbox.org/), permettent à toute personne disposant d'un appareil Android de collecter des données à l'aide de formulaires flexibles et puissants conçus dans un tableur. 
 
@@ -90,7 +90,7 @@ Comment ce système d'"app user" facilite-t-il la tâche d'un Gestionnaire de T�
 * Attribuez de nouvelles zones aux personnes qui ont terminé les leurs.
 * Garder la trace des domaines qui doivent encore être cartographiés (ou complétés/corrigés après validation).
 
-Pour l'instant, cela représente beaucoup de travail manuel. Cependant, ODK Central dispose d'une [API puissante](https://odkcentral.docs.apiary.io/#) et bien documentée, et la création de tâches/zones individuelles, l'attribution à des utilisateurs spécifiques, le suivi des résultats entrants et le gel des formulaires déjà attribués, peuvent être automatisés !
+Pour l'instant, cela représente beaucoup de travail manuel. Cependant, ODK Central dispose d'une [API puissante](https://odkcentral.docs.apiary.io/#) et bien documentée, et la création de tâches/zones individuelles, l'attribution à des utilisateurs spécifiques, le suivi des résultats entrants et le gel des formulaires déjà attribués, peuvent être automatisés!
 
 Alors que nous pouvons déjà répartir les tâches manuellement, la prochaine étape évidente est une carte web permettant aux cartographes de terrain de sélectionner facilement une zone. L'équipe d'[OpenMapDevelopment Tanzania (OMDTZ)](https://www.omdtz.or.tz/about/) a été la première à créer des [cartes web interactives qui s'intègrent à ODK Central](https://millmaps.org/), démontrant ainsi une voie prometteuse.
 
