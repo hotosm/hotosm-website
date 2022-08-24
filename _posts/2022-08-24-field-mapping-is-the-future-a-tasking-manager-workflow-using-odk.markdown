@@ -154,8 +154,7 @@ In collaboration with the Tech and Communities team, and the Community and Train
 
 French and English sessions will be held in several time zones, and additional sessions may be added if there is interest from additional time zones and languages (we can probably manage a Spanish-language session if the participants are prepared to hear the language of Cervantes mercilessly butchered).
 
-If, following the skill share session, there is substantial community interest in using this workflow, we will continue building it in collaboration with those users. So if you think this is something you might want or need, make sure you sign up for the skill share at [tinyurl.com/field-mapping-tools1.
-](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-open-data-kit-tickets-400186387257)
+If, following the skill share session, there is substantial community interest in using this workflow, we will continue building it in collaboration with those users. So if you think this is something you might want or need, [make sure you sign up for the skill share](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-open-data-kit-tickets-400186387257). 
 
 > **Français**:
 > La cartographie de terrain est l'avenir : Un flux de travail de Gestionnaire de Tâches utilisant ODK
