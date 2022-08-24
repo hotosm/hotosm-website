@@ -2,6 +2,7 @@
 title: 'Field Mapping is the Future: A Tasking Manager Workflow Using ODK (available
   in English, Spanish & French)'
 date: 2022-08-24 10:05:00 Z
+published: false
 Summary Text: Field mapping by local people is key to the future of open mapping.
   However, the tools available for field mapping—despite many being of high quality—do
   not form a coherent ecosystem to unleash the potential of community field mapping.
