@@ -1,6 +1,7 @@
 ---
 title: 'Field Mapping is the Future: A Tasking Manager Workflow Using ODK'
 date: 2022-08-24 10:05:00 Z
+published: false
 Summary Text: "While we have pretty good field mapping applications, we don’t have
   great tools to coordinate field mapping. However, we have most of the elements needed
   to create a field mapping-oriented version of the HOT Tasking Manager, which allows
