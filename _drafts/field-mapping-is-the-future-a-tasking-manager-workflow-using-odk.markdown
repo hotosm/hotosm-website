@@ -2,7 +2,6 @@
 title: 'Field Mapping is the Future: A Tasking Manager Workflow Using ODK (available
   in English, Spanish & French)'
 date: 2022-08-24 10:05:00 Z
-published: false
 Summary Text: Field mapping by local people is key to the future of open mapping.
   However, the tools available for field mapping—despite many being of high quality—do
   not form a coherent ecosystem to unleash the potential of community field mapping.
@@ -10,7 +9,7 @@ Summary Text: Field mapping by local people is key to the future of open mapping
 Feature Image: "/uploads/2022-09-09_skillshare_poster%20(1).png"
 ---
 
-### Summary (TL;DR)
+## Summary (TL;DR)
 
 > While we have pretty good field mapping applications, we don’t have great tools to coordinate field mapping. However, we have most of the elements needed to create a field mapping-oriented version of the HOT Tasking Manager, which allows people to select specific areas and complete tasks in a coordinated, organized fashion.
 >
@@ -18,7 +17,7 @@ Feature Image: "/uploads/2022-09-09_skillshare_poster%20(1).png"
 >
 > In collaboration with the Tech and Communities team, and the Community and Training Working Groups, the HOT Field Programs Team will be hosting a [skill share session](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-odk-tickets-400186387257) on September 9th, 2022, during which people can gain an understanding and some experience with the idea; we’ll be using the feedback from this session to gauge interest and participation to continue development. We encourage individuals and communities interested in field mapping coordination tools to attend!
 
-### Tasking enables better remote mapping
+## Tasking enables better remote mapping
 
 One of the most impactful elements of the open mapping ecosystem in the last ten years has been the [HOT Tasking Manager](https://tasks.hotosm.org/). [OpenStreetMap](https://www.openstreetmap.org/#map=19/75.56995/-116.60797) itself created a massively scalable, open repository for geographical data, and tools like [ID Editor](http://ideditor.com/) and the [Java OpenStreetMap Editor (JOSM)](https://josm.openstreetmap.de/) provided first-rate tools to add data to the map remotely. However, between the editing tools and the repository, there was a gap: how could people easily choose areas to map completely and with high quality?
 
@@ -26,7 +25,7 @@ Something was needed: a way to allocate small, manageable tasks to individuals, 
 
 ![Screen Shot 2022-08-24 at 3.14.13 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.14.13%20PM.png)
 
-### What about tasking for field mapping?
+## What about tasking for field mapping?
 
 There are a number of great field data collection tools!
 
@@ -46,7 +45,7 @@ Just as with remote mapping, we have an excellent data repository (OSM) and grea
 
 We propose a Field Mapping Tasking Manager to fill this need.
 
-### The components of a field mapping Tasking Manager are mostly already built!
+## The components of a field mapping Tasking Manager are mostly already built!
 
 If we were starting from scratch, this would be a daunting proposition. However, thanks to the incredible work of [Nafundi](https://nafundi.com/), the lead developers of OpenDataKit (ODK), and some related work happening within HOT and the wider open mapping community, the pieces are mostly already in place.
 
@@ -142,7 +141,7 @@ In principle, we can already implement a Field Mapping Tasking Manager workflow,
 
 * And so on…
 
-### Next steps
+## Next steps
 
 In collaboration with the Tech and Communities team, and the Community and Training Working Groups, the HOT Field Programs Team will be hosting a skill share on September 9th, 2022, where we’ll demonstrate the use of a rudimentary Field Mapping Tasking Manager workflow. All are welcome!
 
@@ -151,10 +150,12 @@ French and English sessions will be held in several time zones, and additional s
 If, following the skill share session, there is substantial community interest in using this workflow, we will continue building it in collaboration with those users. So if you think this is something you might want or need, make sure you sign up for the skill share at [tinyurl.com/field-mapping-tools1.
 ](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-open-data-kit-tickets-400186387257)
 
-## La cartographie de terrain est l'avenir : Un flux de travail de Gestionnaire de Tâches utilisant ODK
+> Français
+> La cartographie de terrain est l'avenir : Un flux de travail de Gestionnaire de Tâches utilisant ODK
+> 
+> [Read more](https://www.hotosm.org/la-cartographie-de-terrain-est-lavenir-un-flux-de-travail-de-gestionnaire-de-taches-utilisant-odk.html)
+> 
+> Español
+> El mapeo de campo es el futuro: Un flujo de trabajo del Gestor de Tareas utilizando ODK
 
-[Read more](https://www.hotosm.org/la-cartographie-de-terrain-est-lavenir-un-flux-de-travail-de-gestionnaire-de-taches-utilisant-odk.html)
-
-## El mapeo de campo es el futuro: Un flujo de trabajo del Gestor de Tareas utilizando ODK
-
-[Read more](https://www.hotosm.org/el-mapeo-de-campo-es-el-futuro-un-flujo-de-trabajo-del-gestor-de-tareas-utilizando-odk.html)
+> [Read more](https://www.hotosm.org/el-mapeo-de-campo-es-el-futuro-un-flujo-de-trabajo-del-gestor-de-tareas-utilizando-odk.html)
