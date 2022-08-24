@@ -2,18 +2,21 @@
 title: 'Field Mapping is the Future: A Tasking Manager Workflow Using ODK (available
   in English, Spanish & French)'
 date: 2022-08-24 10:05:00 Z
-Summary Text: |-
-  Field mapping by local people is key to the future of open mapping. However, the tools available for field mapping—despite many being of high quality—do not form a coherent ecosystem to unleash the potential of community field mapping. Something is missing! Could it be a Tasking Manager for Field Mapping?
-
-  [Disponible en français](http://www.hotosm.org/la-cartographie-de-terrain-est-lavenir-un-flux-de-travail-de-gestionnaire-de-taches-utilisant-odk.html)
-  [Disponible en español](http://www.hotosm.org/el-mapeo-de-campo-es-el-futuro-un-flujo-de-trabajo-del-gestor-de-tareas-utilizando-odk.html)
+Summary Text: Field mapping by local people is key to the future of open mapping.
+  However, the tools available for field mapping—despite many being of high quality—do
+  not form a coherent ecosystem to unleash the potential of community field mapping.
+  Something is missing! Could it be a Tasking Manager for Field Mapping?
 Feature Image: "/uploads/2022-09-09_skillshare_poster%20(1).png"
 Person: Ivan Buendía Gayton
 Country:
 - Global
 ---
 
->## Summary (TL;DR)
+[En français](http://www.hotosm.org/la-cartographie-de-terrain-est-lavenir-un-flux-de-travail-de-gestionnaire-de-taches-utilisant-odk.html)
+[En español](http://www.hotosm.org/el-mapeo-de-campo-es-el-futuro-un-flujo-de-trabajo-del-gestor-de-tareas-utilizando-odk.html)
+
+
+> ## Summary (TL;DR)
 >
 > While we have pretty good field mapping applications, we don’t have great tools to coordinate field mapping. However, we have most of the elements needed to create a field mapping-oriented version of the HOT Tasking Manager, which allows people to select specific areas and complete tasks in a coordinated, organized fashion.
 >
@@ -156,9 +159,9 @@ If, following the skill share session, there is substantial community interest i
 
 > **Français**:
 > La cartographie de terrain est l'avenir : Un flux de travail de Gestionnaire de Tâches utilisant ODK
-> 
+>
 > [Read more](https://www.hotosm.org/la-cartographie-de-terrain-est-lavenir-un-flux-de-travail-de-gestionnaire-de-taches-utilisant-odk.html)
-> 
+>
 > **Español**:
 > El mapeo de campo es el futuro: Un flujo de trabajo del Gestor de Tareas utilizando ODK
 >
