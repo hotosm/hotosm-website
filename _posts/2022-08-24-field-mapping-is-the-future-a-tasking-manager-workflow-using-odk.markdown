@@ -12,9 +12,9 @@ Summary Text: "While we have pretty good field mapping applications, we don’t 
   automation to ease the pain points, which moves us closer to a fully-fledged Tasking
   Manager.\n\nIn collaboration with the Tech and Communities team, and the Community
   and Training Working Groups, the HOT Field Programs Team will be hosting a [skill
-  share session on September 9th, 2022](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-odk-tickets-400186387257),
-  during which people can gain an understanding and some experience with the idea;
-  we’ll be using the feedback from this session to gauge interest and participation
+  share session on September 9th](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-odk-tickets-400186387257),
+  2022, during which people can gain an understanding and some experience with the
+  idea; we’ll be using the feedback from this session to gauge interest and participation
   to continue development. We encourage individuals and communities interested in
   field mapping coordination tools to attend!"
 Feature Image: "/uploads/2022-09-09_skillshare_poster%20(1).png"
