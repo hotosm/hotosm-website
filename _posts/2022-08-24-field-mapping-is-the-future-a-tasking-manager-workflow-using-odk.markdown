@@ -89,7 +89,7 @@ How does this “app user” system facilitate a Tasking Manager? We’re so gla
 
 At the moment, this is a lot of manual work. However, ODK Central has a [powerful and well-documented API](https://odkcentral.docs.apiary.io/#), and the creation of individual tasks/areas, allocation to specific users, tracking of incoming results and freezing of forms that are already allocated, can be automated!
 
-While we can already allocate tasks manually, the obvious next step is a web map allowing field mappers to select an area easily. The OpenMapDevelopment Tanzania (OMDTZ) team has pioneered interactive web maps that integrate with ODK Central, demonstrating a promising way forward.
+While we can already allocate tasks manually, the obvious next step is a web map allowing field mappers to select an area easily. The [OpenMapDevelopment Tanzania (OMDTZ)](https://www.omdtz.or.tz/about/) team has pioneered i[nteractive web maps that integrate with ODK Central](https://millmaps.org/), demonstrating a promising way forward.
 
 Conversion of ODK submissions to OSM XML for validation and upload
 
