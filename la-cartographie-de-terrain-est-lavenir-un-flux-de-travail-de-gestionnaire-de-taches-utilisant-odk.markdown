@@ -2,6 +2,7 @@
 title: 'La cartographie de terrain est l''avenir : Un flux de travail de Gestionnaire
   de Tâches utilisant ODK'
 date: 2022-08-24 12:07:00 Z
+published: false
 ---
 
 **La cartographie de terrain par les populations locales est la clé de l'avenir de la cartographie ouverte. Cependant, les outils disponibles pour la cartographie de terrain - bien que beaucoup soient de grande qualité - ne forment pas un écosystème cohérent permettant de libérer le potentiel de la cartographie de terrain communautaire. Il manque quelque chose ! Pourrait-il s'agir d'un Gestionnaire de Tâches pour la cartographie de terrain?**
@@ -60,6 +61,11 @@ Que faut-il pour mettre en œuvre un gestionnaire de tâches de cartographie de 
         individuelle des contributions par rapport aux importations 
         de données agrégées.
 
+**Qu'avons-nous déjà?**
+
+À partir de la mi-2022, nous disposerons d'outils capables de répondre à toutes ces exigences. Une fonctionnalité semblable à celle du Gestionnaire de Tâches peut déjà être réalisée avec (beaucoup) de travail manuel. Avec un peu d'automatisation simple, nous pouvons déjà rendre cela beaucoup plus facile, et finalement créer un flux de travail de gestionnaire de tâches de cartographie de terrain hautement accessible et fonctionnel. 
+
+**Nouvelle fonctionnalité ODK "sélectionner à partir de la carte" et attribution de formulaires individuels**
 
 
 
