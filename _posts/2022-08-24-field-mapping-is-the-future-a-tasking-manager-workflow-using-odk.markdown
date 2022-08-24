@@ -107,9 +107,13 @@ In principle, we can already implement a Field Mapping Tasking Manager workflow,
 
 * Create a mobile-friendly web map (not a mobile app, just a web app) that:
 
- * Displays all of the individual tasks in a project, color-coded by allocation/completion status
- * Allows mappers to click on a task near their physical location and have it allocated to them (either with a QR code or a direct launch of ODK Collect with the relevant configuration)
- * Allows mappers, validators, and managers to see progress and select tasks for further mapping or validation
+   * Displays all of the individual tasks in a project, color-coded 
+     by allocation/completion status
+   * Allows mappers to click on a task near their physical location 
+     and have it allocated to them (either with a QR code or a 
+     direct launch of ODK Collect with the relevant configuration)
+   * Allows mappers, validators, and managers to see progress and 
+     select tasks for further mapping or validation
 
 * Create a web map for computer screens that facilitates the creation of projects and individual tasks
  * Ideally uses road and waterway networks to divide tasks sensibly for field mapping rather than arbitrary squares
