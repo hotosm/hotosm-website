@@ -115,10 +115,10 @@ En principio, ya podemos implementar un flujo de trabajo del Gestor de Tareas de
      validación
 
 2. Crear un mapa web para pantallas de ordenador que facilite la creación de proyectos y tareas individuales
-  *  Lo ideal es utilizar las redes de carreteras y vías fluviales 
+   * Lo ideal es utilizar las redes de carreteras y vías fluviales 
      para dividir las tareas de forma sensata para el mapeo de 
      campo, en lugar de utilizar cuadrículas arbitrarias
-  *  Automatiza el proceso de descarga de datos OSM (probablemente 
+   * Automatiza el proceso de descarga de datos OSM (probablemente 
      construcciones como primera prioridad) para el área cubierta 
      por cada tarea y conversión en características seleccionables 
      en un formulario ODK para cada área de la tarea
