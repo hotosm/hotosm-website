@@ -4,6 +4,9 @@ title: 'La cartographie de terrain est l''avenir : Un flux de travail de Gestion
 date: 2022-08-24 12:07:00 Z
 ---
 
+![Screen Shot 2022-08-24 at 5.33.21 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%205.33.21%20PM.png)
+
+
 **La cartographie de terrain par les populations locales est la clé de l'avenir de la cartographie ouverte. Cependant, les outils disponibles pour la cartographie de terrain - bien que beaucoup soient de grande qualité - ne forment pas un écosystème cohérent permettant de libérer le potentiel de la cartographie de terrain communautaire. Il manque quelque chose ! Pourrait-il s'agir d'un Gestionnaire de Tâches pour la cartographie de terrain?**
 
 **Résumé (TL:DR)**
