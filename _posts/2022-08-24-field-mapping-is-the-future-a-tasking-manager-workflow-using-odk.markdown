@@ -23,15 +23,17 @@ Something was needed: a way to allocate small, manageable tasks to individuals, 
 
 ![Screen Shot 2022-08-24 at 3.14.13 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.14.13%20PM.png)
 
+**
 What about tasking for field mapping?
+**
+
 There are a number of great field data collection tools! 
 
 The mighty OpenDataKit and the many platforms built from it such as Kobo Toolbox make it possible for anyone with an Android device to collect data using flexible, powerful forms designed in a spreadsheet. 
 
 ![Screen Shot 2022-08-24 at 3.15.46 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.15.46%20PM.png)
 
-**The spreadsheet on the left creates the questionnaire and “Select From Map” activity on the phone.
-**
+*The spreadsheet on the left creates the questionnaire and “Select From Map” activity on the phone.*
 
 Vespucci brings much of the power of JOSM to a mobile editor. EveryDoor gives both Android and iPhone users a simple platform to edit OSM data, and StreetComplete does the same for Android users. OSMAND and Organic Maps allow navigation and offline map viewing with OSM data, as well as some basic capacity to add or edit features to contribute back to OSM.
 
