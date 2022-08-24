@@ -106,7 +106,9 @@ L'existence de ces scripts facilite une fonctionnalité plus proche de celle du 
 En principe, nous pouvons déjà mettre en œuvre un flux de travail de type Gestionnaire de Tâches, mais cela nécessite un travail manuel délicat. Notre plan est de le faire, et d'automatiser progressivement les points douloureux ! Le chemin le plus probable ressemble probablement à ceci :
 
 1. Créez une carte web adaptée aux mobiles (pas une application mobile, juste une application web) qui :
-      a. Affiche toutes les tâches individuelles d'un projet, avec un code couleur par statut d'affectation/achèvement.
+
+      a. Affiche toutes les tâches individuelles d'un projet, avec 
+         un code couleur par statut d'affectation/achèvement.
       b. Permet aux cartographes de cliquer sur une tâche à 
          proximité de leur emplacement physique et de se la voir 
          attribuer (soit à l'aide d'un code QR, soit par un 
@@ -117,6 +119,7 @@ En principe, nous pouvons déjà mettre en œuvre un flux de travail de type Ges
          poursuivre en matière de mappage ou de validation.
 
 2. Créer une carte web pour les écrans d'ordinateur qui facilite la création de projets et de tâches individuelles
+
       a. Utilise idéalement les réseaux de routes et de voies 
          navigables pour répartir judicieusement les tâches de 
          cartographie sur le terrain plutôt que des carrés 
@@ -127,20 +130,20 @@ En principe, nous pouvons déjà mettre en œuvre un flux de travail de type Ges
          sélectionnables dans un formulaire ODK pour chaque zone de 
          tâche.
 
-  *Similaire à l'interface utilisateur de HOT Tasking Manager et 
-  éventuellement basée sur celle-ci, bien qu'optimisée pour le 
-  mobile;les personnes qui utilisent Tasking Manager utilisent par 
-  définition un écran d'ordinateur , tandis que les cartographes de 
-  terrain utilisent par définition un appareil mobile.*
+   *Similaire à l'interface utilisateur de HOT Tasking Manager et 
+   éventuellement basée sur celle-ci, bien qu'optimisée pour le 
+   mobile;les personnes qui utilisent Tasking Manager utilisent par 
+   définition un écran d'ordinateur , tandis que les cartographes de 
+   terrain utilisent par définition un appareil mobile.*
 
 3. Affiner et étendre le(s) formulaire(s) disponible(s) pour couvrir les besoins les plus critiques des communautés en matière de données cartographiques sur le terrain.
 
-  *La plupart des données de cartographie de terrain sont 
-  actuellement téléchargées sur OSM sous forme d'importations en 
-  masse attribuées à l'organisation, au projet ou au validateur. 
-  C'est une source de frustration pour la communauté OSM, qui 
-  apprécie grandement la responsabilité individuelle des 
-  modifications apportées à la carte.*
+   *La plupart des données de cartographie de terrain sont 
+   actuellement téléchargées sur OSM sous forme d'importations en 
+   masse attribuées à l'organisation, au projet ou au validateur. 
+   C'est une source de frustration pour la communauté OSM, qui 
+   apprécie grandement la responsabilité individuelle des 
+   modifications apportées à la carte.*
 
 
 4. Rationaliser le processus de validation et d'importation des données
