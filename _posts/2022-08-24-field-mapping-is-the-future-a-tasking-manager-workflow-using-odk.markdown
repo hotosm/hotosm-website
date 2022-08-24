@@ -50,6 +50,7 @@ We propose a Field Mapping Tasking Manager to fill this need.
 **The components of a field mapping Tasking Manager are mostly already built!**
 
 If we were starting from scratch, this would be a daunting proposition. However, thanks to the incredible work of [Nafundi](https://nafundi.com/), the lead developers of OpenDataKit (ODK), and some related work happening within HOT and the wider open mapping community, the pieces are mostly already in place.
+
 **
 What is needed for a field mapping Tasking Manager?**
 
@@ -63,17 +64,18 @@ What’s needed to implement a Field Mapping Tasking Manager? We need a way to:
   * Ideally with specific attribution to the field mapper for the data they created, a long-standing request from the OSM community who value individual responsibility for edits over aggregated data imports
 
 **What do we already have?**
+
 As of mid-2022, we have tools that can accomplish all of the above requirements. A Tasking Manager-like functionality can already be achieved with (a great deal of) manual work. With a bit of simple automation, we can already make this much smoother, and eventually create a highly accessible and functional Field Mapping Tasking Manager workflow. 
 
 **New ODK “select from map” functionality and individual form allocation**
 
-As of mid-2022, ODK incorporates a new functionality, select from map, that allows field mappers to select an object from a map, view the existing attributes, and fill out a form adding new information and attributes to that object. For example, a mapper can approach a building, select that building from a map view within ODK on their mobile phone, and add the opening hours, number of floors, construction material, or any number of useful attributes in a well-structured questionnaire format*.
+As of mid-2022, ODK incorporates a new functionality, [select from map](https://forum.getodk.org/t/odk-collect-v2022-2-beta-select-from-map-geojson-datasets/36913), that allows field mappers to select an object from a map, view the existing attributes, and fill out a form adding new information and attributes to that object. For example, a mapper can approach a building, select that building from a map view within ODK on their mobile phone, and add the opening hours, number of floors, construction material, or any number of useful attributes in a well-structured questionnaire format*.
 
- *This mostly replicates the functionality of the much-lamented OpenMapKit, a very useful fork of ODK created by the American Red Cross with support from HOT and other agencies, which allowed users to launch forms from a map view and select buildings/features to add attributes to. Unfortunately OMK is no longer maintained and can’t be reliably used.
+ *This mostly replicates the functionality of the much-lamented [OpenMapKit](http://www.openmapkit.org/), a very useful fork of ODK created by the American Red Cross with support from HOT and other agencies, which allowed users to launch forms from a map view and select buildings/features to add attributes to. Unfortunately OMK is no longer maintained and can’t be reliably used.
 
 ![Screen Shot 2022-08-24 at 3.34.04 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.34.04%20PM.png)
 
-Additionally, the new ODK Central web server application contains very granular tools to allocate forms to individual users. It is possible, in fact, to create individual questionnaires for an arbitrary number of small areas (such as neighborhoods), each with their own set of features (such as buildings). These forms can then be allocated to specific “app users,” with access to specific forms (and therefore neighborhoods/areas) defined by a QR code.
+Additionally, the new [ODK Central](https://docs.getodk.org/central-intro/) web server application contains very granular tools to allocate forms to individual users. It is possible, in fact, to create individual questionnaires for an arbitrary number of small areas (such as neighborhoods), each with their own set of features (such as buildings). These forms can then be allocated to specific “app users,” with access to specific forms (and therefore neighborhoods/areas) defined by a QR code.
 
 ![Screen Shot 2022-08-24 at 3.35.11 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.35.11%20PM.png)
 
