@@ -2,6 +2,7 @@
 title: 'La cartographie de terrain est l''avenir : Un flux de travail de Gestionnaire
   de Tâches utilisant ODK'
 date: 2022-08-24 12:07:00 Z
+published: false
 ---
 
 ![Screen Shot 2022-08-24 at 5.33.21 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%205.33.21%20PM.png)
@@ -71,7 +72,7 @@ Que faut-il pour mettre en œuvre un gestionnaire de tâches de cartographie de 
 
 À partir du milieu de l'année 2022, ODK intègre une nouvelle fonctionnalité, Select from map, qui permet aux cartographes de terrain de sélectionner un objet sur une carte, de visualiser les attributs existants et de remplir un formulaire pour ajouter de nouvelles informations et de nouveaux attributs à cet objet. Par exemple, un cartographe peut s'approcher d'un bâtiment, le sélectionner sur une carte dans ODK sur son téléphone portable, et ajouter les heures d'ouverture, le nombre d'étages, le matériau de construction ou tout autre attribut utile dans un format de questionnaire bien structuré*.
 
-     *Il reproduit en grande partie la fonctionnalité du très regretté OpenMapKit, un fork très utile d'ODK créé par la Croix-Rouge américaine avec le soutien de HOT et d'autres agences, qui permettait aux utilisateurs de lancer des formulaires à partir d'une vue cartographique et de sélectionner des bâtiments/éléments auxquels ajouter des attributs. Malheureusement, OMK n'est plus maintenu et ne peut plus être utilisé de manière fiable.
+     *Il reproduit en grande partie la fonctionnalité du très regretté OpenMapKit, un fork très utile d'ODK créé par la Croix-Rouge américaine avec le soutien de HOT et d'autres agences, qui permettait aux utilisateurs de lancer des formulaires à partir d'une vue cartographique et de sélectionner des bâtiments/éléments auxquels ajouter des attributs. Malheureusement, OMK n'est plus maintenu et ne peut plus être utilisé de manière fiable.*
 
 
 ![Screen Shot 2022-08-24 at 3.34.04 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.34.04%20PM.png)
