@@ -118,8 +118,9 @@ In principle, we can already implement a Field Mapping Tasking Manager workflow,
 5.And so on…
 
 
-2.*Similar to and possibly based on the HOT Tasking Manager UI, though optimized for mobile; people using the Tasking Manager are by definition using a computer screen, while field mappers are by definition using a mobile device.
-3.*Most field mapping data is currently uploaded to OSM as bulk imports attributed to the organization, project, or validator. This is a source of frustration to the OSM community, who greatly value individual responsibility for individual edits added to the map.
+*2.Similar to and possibly based on the HOT Tasking Manager UI, though optimized for mobile; people using the Tasking Manager are by definition using a computer screen, while field mappers are by definition using a mobile device.*
+
+*3.Most field mapping data is currently uploaded to OSM as bulk imports attributed to the organization, project, or validator. This is a source of frustration to the OSM community, who greatly value individual responsibility for individual edits added to the map.*
 
 
 Next steps
