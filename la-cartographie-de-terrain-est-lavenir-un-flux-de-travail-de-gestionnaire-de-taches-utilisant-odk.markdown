@@ -50,7 +50,7 @@ Nous proposons un gestionnaire de tâches de cartographie de terrain pour répon
 Si nous devions partir de zéro, ce serait une proposition décourageante. Toutefois, grâce à l'incroyable travail de [Nafundi](https://nafundi.com/), principaux développeurs d'OpenDataKit (ODK), et à certains travaux connexes réalisés par HOT et la communauté de la cartographie ouverte, les pièces sont déjà en place.
 
 **Que faut-il pour un gestionnaire de tâches de cartographie de terrain?**
-Que faut-il pour mettre en œuvre un gestionnaire de tâches de cartographie de terrain ? Nous avons besoin d'un moyen de:
+Que faut-il pour mettre en œuvre un gestionnaire de tâches de cartographie de terrain? Nous avons besoin d'un moyen de:
 
 * Définir un domaine d'intérêt et le diviser en tâches plus petites
 * Répartir les tâches entre les individus de manière à éviter les doubles emplois et les lacunes.
