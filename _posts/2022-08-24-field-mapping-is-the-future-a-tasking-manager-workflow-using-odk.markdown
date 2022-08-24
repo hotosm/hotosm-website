@@ -117,8 +117,12 @@ In principle, we can already implement a Field Mapping Tasking Manager workflow,
      select tasks for further mapping or validation
 
 * Create a web map for computer screens that facilitates the creation of projects and individual tasks
- * Ideally uses road and waterway networks to divide tasks sensibly for field mapping rather than arbitrary squares
- * Automates the process of downloading OSM data (likely buildings as the first priority) for the area covered by each task and converting it into selectable features in an ODK form for each task area
+   * Ideally uses road and waterway networks to divide tasks 
+     sensibly for field mapping rather than arbitrary squares
+   * Automates the process of downloading OSM data (likely buildings 
+     as the first priority) for the area covered by each task and 
+     converting it into selectable features in an ODK form for each 
+     task area
 
  *Similar to and possibly based on the HOT Tasking Manager UI, though optimized for mobile; people using the Tasking Manager are by definition using a computer screen, while field mappers are by definition using a mobile device.*
 
