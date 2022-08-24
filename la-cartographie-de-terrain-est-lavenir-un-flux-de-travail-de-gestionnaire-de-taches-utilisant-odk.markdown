@@ -2,7 +2,6 @@
 title: 'La cartographie de terrain est l''avenir : Un flux de travail de Gestionnaire
   de Tâches utilisant ODK'
 date: 2022-08-24 12:07:00 Z
-published: false
 ---
 
 ![Screen Shot 2022-08-24 at 5.33.21 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%205.33.21%20PM.png)
