@@ -135,13 +135,11 @@ If, following the skill share session, there is substantial community interest i
 ](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-open-data-kit-tickets-400186387257)
 
 
+## La cartographie de terrain est l'avenir : Un flux de travail de Gestionnaire de Tâches utilisant ODK
+[Read more](https://www.hotosm.org/la-cartographie-de-terrain-est-lavenir-un-flux-de-travail-de-gestionnaire-de-taches-utilisant-odk.html)
 
-https://manage.siteleaf.com/pages/63061740babb35480722431e/edit
-
-hotosm-website.siteleaf.net/el-mapeo-de-campo-es-el-futuro-un-flujo-de-trabajo-del-gestor-de-tareas-utilizando-odk.html edit
-
-
-
+## El mapeo de campo es el futuro: Un flujo de trabajo del Gestor de Tareas utilizando ODK
+[Read more](https://www.hotosm.org/el-mapeo-de-campo-es-el-futuro-un-flujo-de-trabajo-del-gestor-de-tareas-utilizando-odk.html)
 
 
 
