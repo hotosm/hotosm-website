@@ -1,6 +1,21 @@
 ---
 title: 'Field Mapping is the Future: A Tasking Manager Workflow Using ODK'
 date: 2022-08-24 10:05:00 Z
+Summary Text: "While we have pretty good field mapping applications, we don’t have
+  great tools to coordinate field mapping. However, we have most of the elements needed
+  to create a field mapping-oriented version of the HOT Tasking Manager, which allows
+  people to select specific areas and complete tasks in a coordinated, organized fashion.
+  \n\nIt’s already possible to implement a sort of Field Mapping Tasking Manager workflow
+  using existing tools (mostly based on ODK, particularly the new ‘select from map’
+  functionality), but it’s pretty labor-intensive and tricky. We’re working on some
+  automation to ease the pain points, which moves us closer to a fully-fledged Tasking
+  Manager.\n\nIn collaboration with the Tech and Communities team, and the Community
+  and Training Working Groups, the HOT Field Programs Team will be hosting a [skill
+  share session on September 9th, 2022,](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-open-data-kit-tickets-400186387257)
+  during which people can gain an understanding and some experience with the idea;
+  we’ll be using the feedback from this session to gauge interest and participation
+  to continue development. We encourage individuals and communities interested in
+  field mapping coordination tools to attend!"
 Feature Image: "/uploads/2022-09-09_skillshare_poster%20(1).png"
 ---
 
@@ -122,8 +137,8 @@ In collaboration with the Tech and Communities team, and the Community and Train
 
 French and English sessions will be held in several time zones, and additional sessions may be added if there is interest from additional time zones and languages (we can probably manage a Spanish-language session if the participants are prepared to hear the language of Cervantes mercilessly butchered). 
 
-If, following the skill share session, there is substantial community interest in using this workflow, we will continue building it in collaboration with those users. So if you think this is something you might want or need, make sure you sign up for the skill share at tinyurl.com/field-mapping-tools1.
-
+If, following the skill share session, there is substantial community interest in using this workflow, we will continue building it in collaboration with those users. So if you think this is something you might want or need, make sure you sign up for the skill share at [tinyurl.com/field-mapping-tools1.
+](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-open-data-kit-tickets-400186387257)
 
 
 
