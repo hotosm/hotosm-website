@@ -102,16 +102,16 @@ La existencia de estos scripts facilita una funcionalidad más parecida a la del
 En principio, ya podemos implementar un flujo de trabajo del Gestor de Tareas de mapeo de campo, pero requiere mucho trabajo manual complicado. Nuestro plan es hacerlo y automatizar gradualmente los puntos problemáticos. El camino más probable es el siguiente:
 
 1. Crear un mapa web para móviles (no una aplicación móvil, sólo una aplicación web) que:
-  a. Muestre todas las tareas individuales de un proyecto, 
-     codificadas por colores según el estado de 
-     asignación/realización
-  b. Permita a los mapeadores hacer clic en una tarea cerca de su 
-     ubicación física y que se les asigne (ya sea con un código QR o 
-     con un lanzamiento directo de ODK Collect con la configuración 
-     pertinente)
-  c. Permita a los mapeadores, validadores y administradores ver el 
-     progreso y seleccionar tareas para su posterior mapeo o 
-     validación
+  * Muestre todas las tareas individuales de un proyecto, 
+    codificadas por colores según el estado de 
+    asignación/realización
+  * Permita a los mapeadores hacer clic en una tarea cerca de su 
+    ubicación física y que se les asigne (ya sea con un código QR o 
+    con un lanzamiento directo de ODK Collect con la configuración 
+    pertinente)
+  * Permita a los mapeadores, validadores y administradores ver el 
+    progreso y seleccionar tareas para su posterior mapeo o 
+    validación
 
 2. Crear un mapa web para pantallas de ordenador que facilite la creación de proyectos y tareas individuales
    * Lo ideal es utilizar las redes de carreteras y vías fluviales 
