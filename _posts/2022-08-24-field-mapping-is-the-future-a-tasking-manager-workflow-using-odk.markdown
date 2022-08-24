@@ -1,7 +1,7 @@
 ---
 title: 'Field Mapping is the Future: A Tasking Manager Workflow Using ODK'
 date: 2022-08-24 10:05:00 Z
-published: false
+Feature Image: "/uploads/2022-09-09_skillshare_poster%20(1).png"
 ---
 
 Field mapping by local people is key to the future of open mapping. However, the tools available for field mapping—despite many being of high quality—do not form a coherent ecosystem to unleash the potential of community field mapping. Something is missing! Could it be a Tasking Manager for Field Mapping?
