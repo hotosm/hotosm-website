@@ -106,6 +106,7 @@ The existence of these scripts facilitates more Tasking Manager-like functionali
 In principle, we can already implement a Field Mapping Tasking Manager workflow, but it requires a lot of tricky manual work. Our plan is to do so, and incrementally automate away the pain points! The most likely path probably looks like:
 
 1. Create a mobile-friendly web map (not a mobile app, just a web app) that:
+
 * Displays all of the individual tasks in a project, color-coded by allocation/completion status
 * Allows mappers to click on a task near their physical location and have it allocated to them (either with a QR code or a direct launch of ODK Collect with the relevant configuration)
 * Allows mappers, validators, and managers to see progress and select tasks for further mapping or validation
