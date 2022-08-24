@@ -101,7 +101,9 @@ La existencia de estos scripts facilita una funcionalidad más parecida a la del
 **¿Qué necesitamos construir?**
 
 En principio, ya podemos implementar un flujo de trabajo del Gestor de Tareas de mapeo de campo, pero requiere mucho trabajo manual complicado. Nuestro plan es hacerlo y automatizar gradualmente los puntos problemáticos. El camino más probable es el siguiente:
+
 1. Crear un mapa web para móviles (no una aplicación móvil, sólo una aplicación web) que:
+
   a. Muestre todas las tareas individuales de un proyecto, 
      codificadas por colores según el estado de 
      asignación/realización
@@ -112,6 +114,7 @@ En principio, ya podemos implementar un flujo de trabajo del Gestor de Tareas de
   c. Permita a los mapeadores, validadores y administradores ver el 
      progreso y seleccionar tareas para su posterior mapeo o 
      validación
+
 2. Crear un mapa web para pantallas de ordenador que facilite la creación de proyectos y tareas individuales
   a. Lo ideal es utilizar las redes de carreteras y vías fluviales 
      para dividir las tareas de forma sensata para el mapeo de 
@@ -120,8 +123,15 @@ En principio, ya podemos implementar un flujo de trabajo del Gestor de Tareas de
      construcciones como primera prioridad) para el área cubierta 
      por cada tarea y conversión en características seleccionables 
      en un formulario ODK para cada área de la tarea
+
+   *Similar a la interfaz de usuario del Gestor de Tareas de HOT y posiblemente basada en ella, aunque optimizada para móviles; las personas que utilizan el Gestor de Tareas están, por definición, utilizando una pantalla de ordenador, mientras que los cartógrafos de campo están, por definición, utilizando un dispositivo móvil.*
+
 3. Perfeccionar y ampliar los formularios disponibles para cubrir las necesidades de datos cartográficos de campo más importantes de las comunidades
+
+   * La mayoría de los datos de mapeo de campo se cargan actualmente en OSM como importaciones masivas atribuidas a la organización, el proyecto o el validador. Esto es una fuente de frustración para la comunidad de OSM, que valora mucho la responsabilidad individual de las ediciones individuales añadidas al mapa.*
+ 
 4. Agilizar el proceso de validación e importación de datos
+
 5. Y así sucesivamente...
 
 Próximos pasos
