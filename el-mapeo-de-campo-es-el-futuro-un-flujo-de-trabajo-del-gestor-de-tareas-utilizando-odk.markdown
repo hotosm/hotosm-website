@@ -68,6 +68,17 @@ A mediados de 2022, disponemos de herramientas que pueden cumplir todos los requ
 
 **Nueva funcionalidad de ODK "seleccionar del mapa" y asignación de formularios individuales**
 
+Desde mediados de 2022, ODK incorpora una nueva funcionalidad, la selección desde el mapa, que permite a los cartógrafos de campo seleccionar un objeto de un mapa, ver los atributos existentes y rellenar un formulario añadiendo nueva información y atributos a ese objeto. Por ejemplo, un cartógrafo puede acercarse a un edificio, seleccionar ese edificio desde una vista de mapa dentro de ODK en su teléfono móvil, y añadir el horario de apertura, el número de plantas, el material de construcción o cualquier número de atributos útiles en un formato de cuestionario bien estructurado*.
+
+![Screen Shot 2022-08-24 at 3.34.04 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.34.04%20PM.png)
+
+Además, la nueva aplicación del servidor web ODK Central contiene herramientas muy granulares para asignar formularios a usuarios individuales. De hecho, es posible crear cuestionarios individuales para un número arbitrario de áreas pequeñas (como barrios), cada una con su propio conjunto de características (como edificios). Estos formularios pueden asignarse a "usuarios de la aplicación" específicos, con acceso a formularios específicos (y por tanto a barrios/áreas) definidos por un código QR.
+
+      *Esto replica en su mayor parte la funcionalidad del tan extrañado OpenMapKit, una bifurcación muy útil de ODK creada por la Cruz Roja Americana con el apoyo de HOT y otras agencias, que permitía a los usuarios lanzar formularios desde una vista de mapa y seleccionar edificios/características para añadirles atributos. Lamentablemente, OMK ya no recibe mantenimiento y no se puede utilizar de forma fiable.
+
+
+![Screen Shot 2022-08-24 at 3.35.11 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.35.11%20PM.png)
+
 
 
 
