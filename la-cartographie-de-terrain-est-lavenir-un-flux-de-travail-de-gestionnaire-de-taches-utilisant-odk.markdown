@@ -16,10 +16,10 @@ Bien que nous disposions d'assez bonnes applications de cartographie de terrain,
 
  Il est déjà possible de mettre en œuvre une sorte de flux de travail du Gestionnaire de Tâches pour la cartographie de terrain à l'aide d'outils existants (principalement basés sur ODK, en particulier la nouvelle fonctionnalité de "sélection à partir de la carte"), mais c'est assez laborieux et délicat. Nous travaillons sur une certaine automatisation afin d'atténuer les difficultés, ce qui nous rapproche d'un gestionnaire de tâches à part entière.
 
-En collaboration avec l'équipe Tech and Communities et les groupes de travail Community et Training, l'équipe HOT Field Programs organisera une session de partage de compétences le 9 septembre 2022, au cours de laquelle les gens pourront comprendre et acquérir une certaine expérience de l'idée. Nous utiliserons les commentaires de cette session pour évaluer l'intérêt et la participation afin de poursuivre le développement. Nous encourageons les personnes et les communautés intéressées par les outils de coordination de la cartographie de terrain à y assister!
+En collaboration avec l'équipe Tech and Communities et les groupes de travail Community et Training, l'équipe HOT Field Programs organisera une [session de partage de compétences le 9 septembre 2022](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-open-data-kit-tickets-400186387257), au cours de laquelle les gens pourront comprendre et acquérir une certaine expérience de l'idée. Nous utiliserons les commentaires de cette session pour évaluer l'intérêt et la participation afin de poursuivre le développement. Nous encourageons les personnes et les communautés intéressées par les outils de coordination de la cartographie de terrain à y assister!
 
 L'attribution de tâches permet une meilleure cartographie à distance
-L'un des éléments les plus marquants de l'écosystème de la cartographie ouverte au cours des dix dernières années a été le gestionnaire de tâches HOT. OpenStreetMap a créé une base de données ouvert et massivement extensible pour les données géographiques, et des outils comme ID Editor et Java OpenStreetMap Editor (JOSM) ont fourni des outils de premier ordre pour ajouter des données à la carte à distance. Cependant, entre les outils d'édition et le référentiel, il y avait un fossé : comment les gens pouvaient-ils facilement choisir des zones à cartographier de manière complète et de haute qualité ?
+L'un des éléments les plus marquants de l'écosystème de la cartographie ouverte au cours des dix dernières années a été le [gestionnaire de tâches HOT](https://tasks.hotosm.org/). [OpenStreetMap](https://www.openstreetmap.org/#map=19/75.56995/-116.60797) a créé une base de données ouvert et massivement extensible pour les données géographiques, et des outils comme [ID Editor](http://ideditor.com/) et [Java OpenStreetMap Editor (JOSM)](https://josm.openstreetmap.de/) ont fourni des outils de premier ordre pour ajouter des données à la carte à distance. Cependant, entre les outils d'édition et le référentiel, il y avait un fossé : comment les gens pouvaient-ils facilement choisir des zones à cartographier de manière complète et de haute qualité?
 
 Il fallait quelque chose : un moyen d'attribuer de petites tâches gérables aux individus, de suivre leur progression, de contrôler la qualité et de valider leur travail, et d'intégrer de façon transparente les nouvelles données dans OpenStreetMap sans endommager les données existantes. Le gestionnaire de tâches HOT a servi de lien entre les deux parties ; est un outil permettant à la communauté de définir les besoins en matière de données et aux cartographes individuels d'y contribuer avec facilité et confiance.
 
@@ -29,13 +29,13 @@ Il fallait quelque chose : un moyen d'attribuer de petites tâches gérables aux
 
 Il existe un certain nombre d'excellents outils de collecte de données sur le terrain ! 
 
-Le puissant OpenDataKit et les nombreuses plateformes construites à partir de celui-ci, comme Kobo Toolbox, permettent à toute personne disposant d'un appareil Android de collecter des données à l'aide de formulaires flexibles et puissants conçus dans un tableur. 
+Le puissant [OpenDataKit](https://getodk.org/) et les nombreuses plateformes construites à partir de celui-ci, comme [Kobo Toolbox](https://www.kobotoolbox.org/), permettent à toute personne disposant d'un appareil Android de collecter des données à l'aide de formulaires flexibles et puissants conçus dans un tableur. 
 
 ![Screen Shot 2022-08-24 at 3.15.46 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.15.46%20PM.png)
 
 *La feuille de calcul de gauche crée le questionnaire et l'activité "Sélectionner sur la carte" sur le téléphone.*
 
-Vespucci apporte une grande partie de la puissance de JOSM à un éditeur mobile. EveryDoor offre aux utilisateurs d'Android et d'iPhone une plateforme simple pour modifier les données OSM, et StreetComplete fait de même pour les utilisateurs d'Android. OSMAND et Organic Maps permettent de naviguer et de visualiser des cartes hors ligne avec des données OSM, ainsi que d'ajouter ou de modifier des fonctionnalités pour contribuer à OSM.
+[Vespucci](https://vespucci.io/) apporte une grande partie de la puissance de JOSM à un éditeur mobile. [EveryDoor](https://every-door.app/) offre aux utilisateurs d'Android et d'iPhone une plateforme simple pour modifier les données OSM, et StreetComplete fait de même pour les utilisateurs d'Android. [OSMAND](https://osmand.net/) et [Organic Maps](https://organicmaps.app/) permettent de naviguer et de visualiser des cartes hors ligne avec des données OSM, ainsi que d'ajouter ou de modifier des fonctionnalités pour contribuer à OSM.
 
 ![Screen Shot 2022-08-24 at 3.27.54 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.27.54%20PM.png)
 
@@ -47,7 +47,7 @@ Nous proposons un gestionnaire de tâches de cartographie de terrain pour répon
 
 **Les composants d'un gestionnaire de tâches de cartographie de terrain sont pour la plupart déjà construits!**
 
-Si nous devions partir de zéro, ce serait une proposition décourageante. Toutefois, grâce à l'incroyable travail de Nafundi, principaux développeurs d'OpenDataKit (ODK), et à certains travaux connexes réalisés par HOT et la communauté de la cartographie ouverte, les pièces sont déjà en place.
+Si nous devions partir de zéro, ce serait une proposition décourageante. Toutefois, grâce à l'incroyable travail de [Nafundi](https://nafundi.com/), principaux développeurs d'OpenDataKit (ODK), et à certains travaux connexes réalisés par HOT et la communauté de la cartographie ouverte, les pièces sont déjà en place.
 
 **Que faut-il pour un gestionnaire de tâches de cartographie de terrain?**
 Que faut-il pour mettre en œuvre un gestionnaire de tâches de cartographie de terrain ? Nous avons besoin d'un moyen de:
@@ -70,7 +70,7 @@ Que faut-il pour mettre en œuvre un gestionnaire de tâches de cartographie de 
 
 **Nouvelle fonctionnalité ODK "sélectionner à partir de la carte" et attribution de formulaires individuels**
 
-À partir du milieu de l'année 2022, ODK intègre une nouvelle fonctionnalité, Select from map, qui permet aux cartographes de terrain de sélectionner un objet sur une carte, de visualiser les attributs existants et de remplir un formulaire pour ajouter de nouvelles informations et de nouveaux attributs à cet objet. Par exemple, un cartographe peut s'approcher d'un bâtiment, le sélectionner sur une carte dans ODK sur son téléphone portable, et ajouter les heures d'ouverture, le nombre d'étages, le matériau de construction ou tout autre attribut utile dans un format de questionnaire bien structuré*.
+À partir du milieu de l'année 2022, ODK intègre une nouvelle fonctionnalité, [Select from map](https://forum.getodk.org/t/odk-collect-v2022-2-beta-select-from-map-geojson-datasets/36913), qui permet aux cartographes de terrain de sélectionner un objet sur une carte, de visualiser les attributs existants et de remplir un formulaire pour ajouter de nouvelles informations et de nouveaux attributs à cet objet. Par exemple, un cartographe peut s'approcher d'un bâtiment, le sélectionner sur une carte dans ODK sur son téléphone portable, et ajouter les heures d'ouverture, le nombre d'étages, le matériau de construction ou tout autre attribut utile dans un format de questionnaire bien structuré*.
 
      *Il reproduit en grande partie la fonctionnalité du très regretté OpenMapKit, un fork très utile d'ODK créé par la Croix-Rouge américaine avec le soutien de HOT et d'autres agences, qui permettait aux utilisateurs de lancer des formulaires à partir d'une vue cartographique et de sélectionner des bâtiments/éléments auxquels ajouter des attributs. Malheureusement, OMK n'est plus maintenu et ne peut plus être utilisé de manière fiable.*
 
