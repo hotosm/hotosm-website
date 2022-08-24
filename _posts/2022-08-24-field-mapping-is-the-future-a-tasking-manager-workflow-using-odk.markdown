@@ -29,9 +29,9 @@ Something was needed: a way to allocate small, manageable tasks to individuals, 
 
 ![Screen Shot 2022-08-24 at 3.14.13 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.14.13%20PM.png)
 
-**
-What about tasking for field mapping?
-**
+
+**What about tasking for field mapping?**
+
 
 There are a number of great field data collection tools! 
 
