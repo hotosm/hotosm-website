@@ -21,15 +21,6 @@ Feature Image: "/uploads/2022-09-09_skillshare_poster%20(1).png"
 
 Field mapping by local people is key to the future of open mapping. However, the tools available for field mapping—despite many being of high quality—do not form a coherent ecosystem to unleash the potential of community field mapping. Something is missing! Could it be a Tasking Manager for Field Mapping?
 
-
-**Summary (TL:DR)**
-
-While we have pretty good field mapping applications, we don’t have great tools to coordinate field mapping. However, we have most of the elements needed to create a field mapping-oriented version of the HOT Tasking Manager, which allows people to select specific areas and complete tasks in a coordinated, organized fashion. 
-
-It’s already possible to implement a sort of Field Mapping Tasking Manager workflow using existing tools (mostly based on ODK, particularly the new ‘select from map’ functionality), but it’s pretty labor-intensive and tricky. We’re working on some automation to ease the pain points, which moves us closer to a fully-fledged Tasking Manager.
-
-In collaboration with the Tech and Communities team, and the Community and Training Working Groups, the HOT Field Programs Team will be hosting a [skill share session on September 9th, 2022,](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-open-data-kit-tickets-400186387257) during which people can gain an understanding and some experience with the idea; we’ll be using the feedback from this session to gauge interest and participation to continue development. We encourage individuals and communities interested in field mapping coordination tools to attend!
-
 **Tasking enables better remote mapping**
 
 One of the most impactful elements of the open mapping ecosystem in the last ten years has been the [HOT Tasking Manager](https://tasks.hotosm.org/). [OpenStreetMap](https://www.openstreetmap.org/#map=19/75.56995/-116.60797) itself created a massively scalable, open repository for geographical data, and tools like [ID Editor](http://ideditor.com/) and the [Java OpenStreetMap Editor (JOSM)](https://josm.openstreetmap.de/) provided first-rate tools to add data to the map remotely. However, between the editing tools and the repository, there was a gap: how could people easily choose areas to map completely and with high quality?
