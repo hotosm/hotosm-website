@@ -103,22 +103,22 @@ En principio, ya podemos implementar un flujo de trabajo del Gestor de Tareas de
 
 1. Crear un mapa web para móviles (no una aplicación móvil, sólo una aplicación web) que:
 
-  a. Muestre todas las tareas individuales de un proyecto, 
+   * Muestre todas las tareas individuales de un proyecto, 
      codificadas por colores según el estado de 
      asignación/realización
-  b. Permita a los mapeadores hacer clic en una tarea cerca de su 
+   * Permita a los mapeadores hacer clic en una tarea cerca de su 
      ubicación física y que se les asigne (ya sea con un código QR o 
      con un lanzamiento directo de ODK Collect con la configuración 
      pertinente)
-  c. Permita a los mapeadores, validadores y administradores ver el 
+   * Permita a los mapeadores, validadores y administradores ver el 
      progreso y seleccionar tareas para su posterior mapeo o 
      validación
 
 2. Crear un mapa web para pantallas de ordenador que facilite la creación de proyectos y tareas individuales
-  a. Lo ideal es utilizar las redes de carreteras y vías fluviales 
+  *  Lo ideal es utilizar las redes de carreteras y vías fluviales 
      para dividir las tareas de forma sensata para el mapeo de 
      campo, en lugar de utilizar cuadrículas arbitrarias
-  b. Automatiza el proceso de descarga de datos OSM (probablemente 
+  *  Automatiza el proceso de descarga de datos OSM (probablemente 
      construcciones como primera prioridad) para el área cubierta 
      por cada tarea y conversión en características seleccionables 
      en un formulario ODK para cada área de la tarea
