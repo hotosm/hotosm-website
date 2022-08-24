@@ -84,7 +84,7 @@ Additionally, the new [ODK Central](https://docs.getodk.org/central-intro/) web 
 
 ![Screen Shot 2022-08-24 at 3.35.11 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.35.11%20PM.png)
 
-**ODK Central supports allocation of individual forms—and corresponding features like buildings—to individual users**
+*ODK Central supports allocation of individual forms—and corresponding features like buildings—to individual users*
 
 How does this “app user” system facilitate a Tasking Manager? We’re so glad you asked! By creating a QR code for each neighborhood (or “task”), and allocating them one-by-one to individuals, we can:
 * Assign specific areas to specific people (either by allocating them directly, or by providing a selection of areas and letting people choose)
@@ -96,14 +96,14 @@ At the moment, this is a lot of manual work. However, ODK Central has a [powerfu
 
 While we can already allocate tasks manually, the obvious next step is a web map allowing field mappers to select an area easily. The [OpenMapDevelopment Tanzania (OMDTZ)](https://www.omdtz.or.tz/about/) team has pioneered i[nteractive web maps that integrate with ODK Central](https://millmaps.org/), demonstrating a promising way forward.
 
-Conversion of ODK submissions to OSM XML for validation and upload
+**Conversion of ODK submissions to OSM XML for validation and upload**
 
 The HOT Tech Team has already created a set of scripts that convert submission from ODK forms into OSM XML, the native data format of OpenStreetMap. This allows the submissions from field mapping to easily enter the traditional data pipeline of validation in JOSM, followed by upload to OSM attributed to the OSM ID of the field mapper. 
 
 The existence of these scripts facilitates more Tasking Manager-like functionality, as the conversion of submissions into datasets ready for validation is straightforward and easily automated. The scripts are particularly easy to adapt when they target good-quality standardized ODK forms, a key benefit of this entire system.
 
-**
-What do we need to build?**
+**What do we need to build?**
+
 In principle, we can already implement a Field Mapping Tasking Manager workflow, but it requires a lot of tricky manual work. Our plan is to do so, and incrementally automate away the pain points! The most likely path probably looks like:
 
 1.Create a mobile-friendly web map (not a mobile app, just a web app) that:
