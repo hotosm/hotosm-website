@@ -13,11 +13,11 @@ Aunque tenemos aplicaciones de mapeo de campo bastante buenas, no tenemos grande
 
 Ya es posible implementar una especie de flujo de trabajo del Gestor de Tareas de mapeo de campo utilizando las herramientas existentes (en su mayoría basadas en ODK, en particular la nueva funcionalidad "seleccionar del mapa"), pero es bastante laborioso y complicado. Estamos trabajando en una automatización que alivie los puntos difíciles, lo que nos acerca a un Gestor de Tareas completo.
 
-En colaboración con el equipo de Tecnología y Comunidades, y los Grupos de Trabajo de Comunidad y Formación, el Equipo de Programas de Campo de HOT organizará una sesión de intercambio de habilidades el 9 de septiembre del 2022, durante la cual los asistentes podrán obtener una comprensión y algo de experiencia con la idea; utilizaremos los comentarios de esta sesión para medir el interés y la participación para continuar el desarrollo. Animamos a las personas y a las comunidades interesadas en las herramientas de coordinación del mapeo de campo a que asistan.
+En colaboración con el equipo de Tecnología y Comunidades, y los Grupos de Trabajo de Comunidad y Formación, el Equipo de Programas de Campo de HOT organizará una [sesión de intercambio de habilidades el 9 de septiembre del 2022](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-odk-tickets-400186387257), durante la cual los asistentes podrán obtener una comprensión y algo de experiencia con la idea; utilizaremos los comentarios de esta sesión para medir el interés y la participación para continuar el desarrollo. Animamos a las personas y a las comunidades interesadas en las herramientas de coordinación del mapeo de campo a que asistan.
 
 **La asignación de tareas permite un mejor mapeo remoto**
 
-Uno de los elementos más impactantes del ecosistema de mapeo abierto en los últimos diez años ha sido el Gestor de Tareas de HOT. El propio OpenStreetMap creó un repositorio abierto y masivamente escalable de datos geográficos, y herramientas como el ID Editor y el Editor Java de OpenStreetMap (JOSM) proporcionaron herramientas de primer orden para añadir datos al mapa de forma remota. Sin embargo, entre las herramientas de edición y el repositorio existía una brecha: ¿cómo podía la gente elegir fácilmente zonas para cartografiarlas completamente y con alta calidad?
+Uno de los elementos más impactantes del ecosistema de mapeo abierto en los últimos diez años ha sido el [Gestor de Tareas de HOT](https://tasks.hotosm.org/). El propio [OpenStreetMap](https://www.openstreetmap.org) creó un repositorio abierto y masivamente escalable de datos geográficos, y herramientas como el [ID Editor](http://ideditor.com/) y el [Editor Java de OpenStreetMap (JOSM)](https://josm.openstreetmap.de/) proporcionaron herramientas de primer orden para añadir datos al mapa de forma remota. Sin embargo, entre las herramientas de edición y el repositorio existía una brecha: ¿cómo podía la gente elegir fácilmente zonas para cartografiarlas completamente y con alta calidad?
 
 Se necesitaba algo: una forma de asignar tareas pequeñas y manejables a las personas, hacer seguimiento de su progreso, comprobar la calidad y validar su trabajo, e integrar sin problemas los nuevos datos en OpenStreetMap sin dañar los datos existentes. El Gestor de Tareas de HOT sirvió de elemento unificador; una herramienta para que la comunidad definiera las necesidades de datos y para que los cartógrafos individuales contribuyeran con facilidad y confianza.
 
@@ -26,13 +26,13 @@ Se necesitaba algo: una forma de asignar tareas pequeñas y manejables a las per
 ¿Qué pasa con la asignación de tareas para el mapeo de campo?
 Hay una serie de grandes herramientas de recogida de datos sobre el terreno. 
 
-El poderoso OpenDataKit y las numerosas plataformas construidas a partir de él, como Kobo Toolbox, hacen posible que cualquier persona con un dispositivo Android pueda recopilar datos mediante formularios flexibles y potentes diseñados en una hoja de cálculo. 
+El poderoso [OpenDataKit](https://getodk.org/) y las numerosas plataformas construidas a partir de él, como [Kobo Toolbox](https://www.kobotoolbox.org/), hacen posible que cualquier persona con un dispositivo Android pueda recopilar datos mediante formularios flexibles y potentes diseñados en una hoja de cálculo. 
 
 ![Screen Shot 2022-08-24 at 3.15.46 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.15.46%20PM.png)
 
 *La hoja de cálculo de la izquierda crea el cuestionario y la actividad "Seleccionar del mapa" en el teléfono.*
 
-Vespucci aporta gran parte de la potencia de JOSM a un editor móvil. EveryDoor ofrece a los usuarios de Android y iPhone una plataforma sencilla para editar los datos de OSM, y StreetComplete hace lo mismo para los usuarios de Android. OSMAND y Organic Maps permiten la navegación y la visualización de mapas sin conexión con los datos de OSM, así como cierta capacidad básica para añadir o editar características para contribuir a OSM.
+[Vespucci](https://vespucci.io/) aporta gran parte de la potencia de JOSM a un editor móvil. [EveryDoor](https://every-door.app/) ofrece a los usuarios de Android y iPhone una plataforma sencilla para editar los datos de OSM, y StreetComplete hace lo mismo para los usuarios de Android. [OSMAND](https://osmand.net/) y [Organic Maps](https://organicmaps.app/) permiten la navegación y la visualización de mapas sin conexión con los datos de OSM, así como cierta capacidad básica para añadir o editar características para contribuir a OSM.
 
 ![Screen Shot 2022-08-24 at 3.27.54 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.27.54%20PM.png)
 
@@ -44,7 +44,7 @@ Proponemos un Gestor de Tareas de mapeo de campo para cubrir esta necesidad.
 
 **Los componentes de un Gestor de Tareas de mapeo de campo ya están construidos en su mayoría**
 
-Si empezáramos desde cero, esto sería una propuesta desalentadora. Sin embargo, gracias al increíble trabajo de Nafundi, los principales desarrolladores de OpenDataKit (ODK), y a algunos trabajos relacionados que se están llevando a cabo en HOT y en la comunidad de mapeo abierto en general, las piezas ya están en su sitio.
+Si empezáramos desde cero, esto sería una propuesta desalentadora. Sin embargo, gracias al increíble trabajo de [Nafundi](https://nafundi.com/), los principales desarrolladores de OpenDataKit (ODK), y a algunos trabajos relacionados que se están llevando a cabo en HOT y en la comunidad de mapeo abierto en general, las piezas ya están en su sitio.
 
 **¿Qué se necesita para un Gestor de Tareas de mapeo de campo?**
 
