@@ -7,6 +7,9 @@ Summary Text: Field mapping by local people is key to the future of open mapping
   not form a coherent ecosystem to unleash the potential of community field mapping.
   Something is missing! Could it be a Tasking Manager for Field Mapping?
 Feature Image: "/uploads/2022-09-09_skillshare_poster%20(1).png"
+Person: Ivan Buendía Gayton
+Country:
+- Global
 ---
 
 ## Summary (TL;DR)
@@ -150,12 +153,12 @@ French and English sessions will be held in several time zones, and additional s
 If, following the skill share session, there is substantial community interest in using this workflow, we will continue building it in collaboration with those users. So if you think this is something you might want or need, make sure you sign up for the skill share at [tinyurl.com/field-mapping-tools1.
 ](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-open-data-kit-tickets-400186387257)
 
-> Français
+> **Français**:
 > La cartographie de terrain est l'avenir : Un flux de travail de Gestionnaire de Tâches utilisant ODK
 > 
 > [Read more](https://www.hotosm.org/la-cartographie-de-terrain-est-lavenir-un-flux-de-travail-de-gestionnaire-de-taches-utilisant-odk.html)
 > 
-> Español
+> **Español**:
 > El mapeo de campo es el futuro: Un flujo de trabajo del Gestor de Tareas utilizando ODK
-
+>
 > [Read more](https://www.hotosm.org/el-mapeo-de-campo-es-el-futuro-un-flujo-de-trabajo-del-gestor-de-tareas-utilizando-odk.html)
