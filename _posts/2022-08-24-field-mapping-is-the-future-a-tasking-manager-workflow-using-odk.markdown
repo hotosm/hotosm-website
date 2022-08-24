@@ -35,7 +35,7 @@ The mighty [OpenDataKit](https://getodk.org/) and the many platforms built from 
 
 *The spreadsheet on the left creates the questionnaire and “Select From Map” activity on the phone.*
 
-Vespucci brings much of the power of JOSM to a mobile editor. EveryDoor gives both Android and iPhone users a simple platform to edit OSM data, and StreetComplete does the same for Android users. OSMAND and Organic Maps allow navigation and offline map viewing with OSM data, as well as some basic capacity to add or edit features to contribute back to OSM.
+[Vespucci](https://vespucci.io/) brings much of the power of JOSM to a mobile editor. [EveryDoor](https://every-door.app/) gives both Android and iPhone users a simple platform to edit OSM data, and StreetComplete does the same for Android users. [OSMAND](https://osmand.net/) and [Organic Maps](https://organicmaps.app/) allow navigation and offline map viewing with OSM data, as well as some basic capacity to add or edit features to contribute back to OSM.
 
 
 ![Screen Shot 2022-08-24 at 3.27.54 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.27.54%20PM.png)
