@@ -67,5 +67,77 @@ Que faut-il pour mettre en œuvre un gestionnaire de tâches de cartographie de 
 
 **Nouvelle fonctionnalité ODK "sélectionner à partir de la carte" et attribution de formulaires individuels**
 
+À partir du milieu de l'année 2022, ODK intègre une nouvelle fonctionnalité, Select from map, qui permet aux cartographes de terrain de sélectionner un objet sur une carte, de visualiser les attributs existants et de remplir un formulaire pour ajouter de nouvelles informations et de nouveaux attributs à cet objet. Par exemple, un cartographe peut s'approcher d'un bâtiment, le sélectionner sur une carte dans ODK sur son téléphone portable, et ajouter les heures d'ouverture, le nombre d'étages, le matériau de construction ou tout autre attribut utile dans un format de questionnaire bien structuré*.
+
+     *Il reproduit en grande partie la fonctionnalité du très regretté OpenMapKit, un fork très utile d'ODK créé par la Croix-Rouge américaine avec le soutien de HOT et d'autres agences, qui permettait aux utilisateurs de lancer des formulaires à partir d'une vue cartographique et de sélectionner des bâtiments/éléments auxquels ajouter des attributs. Malheureusement, OMK n'est plus maintenu et ne peut plus être utilisé de manière fiable.
+
+
+![Screen Shot 2022-08-24 at 3.34.04 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.34.04%20PM.png)
+
+
+En outre, la nouvelle application serveur web ODK Central contient des outils très granulaires permettant d'attribuer des formulaires à des utilisateurs individuels. Il est possible, en effet, de créer des questionnaires individuels pour un nombre arbitraire de petites zones (comme des quartiers), chacune avec son propre ensemble de caractéristiques (comme des bâtiments). Ces formulaires peuvent ensuite être attribués à des "utilisateurs de l'application" spécifiques, l'accès à des formulaires spécifiques (et donc à des quartiers/zones) étant défini par un code QR. 
+
+![Screen Shot 2022-08-24 at 3.35.11 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.35.11%20PM.png)
+
+*ODK Central prend en charge l'attribution de formulaires individuels - et des fonctionnalités correspondantes telles que les bâtiments - à des utilisateurs individuels.*
+
+
+Comment ce système d'"app user" facilite-t-il la tâche d'un Gestionnaire de Tâches ? Nous sommes ravis que vous ayez posé la question ! En créant un code QR  pour chaque quartier (ou "tâche"), et en les attribuant un par un aux individus, nous pouvons :
+* Attribuer des domaines spécifiques à des personnes spécifiques (soit en les attribuant directement, soit en proposant une sélection de domaines et en laissant les personnes choisir).
+* Gardez la trace des zones qui ont été allouées et complétées (et, avec un peu plus de travail, validées). Gardez la trace de qui a cartographié chaque zone.
+* Attribuez de nouvelles zones aux personnes qui ont terminé les leurs.
+* Garder la trace des domaines qui doivent encore être cartographiés (ou complétés/corrigés après validation).
+
+Pour l'instant, cela représente beaucoup de travail manuel. Cependant, ODK Central dispose d'une API puissante et bien documentée, et la création de tâches/zones individuelles, l'attribution à des utilisateurs spécifiques, le suivi des résultats entrants et le gel des formulaires déjà attribués, peuvent être automatisés !
+
+Alors que nous pouvons déjà répartir les tâches manuellement, la prochaine étape évidente est une carte web permettant aux cartographes de terrain de sélectionner facilement une zone. L'équipe d'OpenMapDevelopment Tanzania (OMDTZ) a été la première à créer des cartes web interactives qui s'intègrent à ODK Central, démontrant ainsi une voie prometteuse.
+
+**Conversion des soumissions ODK en OSM XML pour la validation et le téléchargement.**
+
+L'équipe technique de HOT a déjà créé un ensemble de scripts qui convertissent les soumissions des formulaires ODK en OSM XML, le format de données natif d'OpenStreetMap. Cela permet aux soumissions provenant de la cartographie de terrain d'entrer facilement dans le pipeline de données traditionnel de validation dans le JOSM, suivi d'un téléchargement vers OSM attribué à l'OSM ID du cartographe de terrain. 
+
+L'existence de ces scripts facilite une fonctionnalité plus proche de celle du Gestionnaire de Tâches car la conversion des soumissions en ensembles de données prêts à être validés est simple et facilement automatisée. Les scripts sont particulièrement faciles à adapter lorsqu'ils visent des formulaires ODK standardisés de bonne qualité, ce qui constitue un avantage clé de l'ensemble du système.
+
+**Que devons-nous construire?**
+
+En principe, nous pouvons déjà mettre en œuvre un flux de travail de type Gestionnaire de Tâches, mais cela nécessite un travail manuel délicat. Notre plan est de le faire, et d'automatiser progressivement les points douloureux ! Le chemin le plus probable ressemble probablement à ceci :
+
+1. Créez une carte web adaptée aux mobiles (pas une application mobile, juste une application web) qui :
+      a. Affiche toutes les tâches individuelles d'un projet, avec un code couleur par statut d'affectation/achèvement.
+      b. Permet aux cartographes de cliquer sur une tâche à 
+         proximité de leur emplacement physique et de se la voir 
+         attribuer (soit à l'aide d'un code QR, soit par un 
+         lancement direct d'ODK Collect avec la configuration 
+         appropriée).
+      c. Permet aux mappeurs, aux validateurs et aux gestionnaires 
+         de voir l'état d'avancement et de sélectionner les tâches à 
+         poursuivre en matière de mappage ou de validation.
+
+2. Créer une carte web pour les écrans d'ordinateur qui facilite la création de projets et de tâches individuelles
+      a. Utilise idéalement les réseaux de routes et de voies 
+         navigables pour répartir judicieusement les tâches de 
+         cartographie sur le terrain plutôt que des carrés 
+         arbitraires.
+      b. Automatise le processus de téléchargement des données OSM 
+         (probablement des bâtiments en première priorité) pour la 
+         zone couverte par chaque tâche et les convertit en éléments 
+         sélectionnables dans un formulaire ODK pour chaque zone de 
+         tâche.
+
+*Similaire à l'interface utilisateur de HOT Tasking Manager et éventuellement basée sur celle-ci, bien qu'optimisée pour le mobile ; les personnes qui utilisent Tasking Manager utilisent par définition un écran d'ordinateur , tandis que les cartographes de terrain utilisent par définition un appareil mobile.*
+
+3. Affiner et étendre le(s) formulaire(s) disponible(s) pour couvrir les besoins les plus critiques des communautés en matière de données cartographiques sur le terrain.
+
+*La plupart des données de cartographie de terrain sont actuellement téléchargées sur OSM sous forme d'importations en masse attribuées à l'organisation, au projet ou au validateur. C'est une source de frustration pour la communauté OSM, qui apprécie grandement la responsabilité individuelle des modifications apportées à la carte.*
+
+
+4. Rationaliser le processus de validation et d'importation des données
+
+5. Et ainsi de suite...
+
+
+
+
+
 
 
