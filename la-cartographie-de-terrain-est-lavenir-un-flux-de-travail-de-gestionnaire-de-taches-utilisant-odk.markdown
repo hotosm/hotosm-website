@@ -126,11 +126,20 @@ En principe, nous pouvons déjà mettre en œuvre un flux de travail de type Ges
          sélectionnables dans un formulaire ODK pour chaque zone de 
          tâche.
 
-*Similaire à l'interface utilisateur de HOT Tasking Manager et éventuellement basée sur celle-ci, bien qu'optimisée pour le mobile ; les personnes qui utilisent Tasking Manager utilisent par définition un écran d'ordinateur , tandis que les cartographes de terrain utilisent par définition un appareil mobile.*
+  *Similaire à l'interface utilisateur de HOT Tasking Manager et 
+  éventuellement basée sur celle-ci, bien qu'optimisée pour le 
+  mobile;les personnes qui utilisent Tasking Manager utilisent par 
+  définition un écran d'ordinateur , tandis que les cartographes de 
+  terrain utilisent par définition un appareil mobile.*
 
 3. Affiner et étendre le(s) formulaire(s) disponible(s) pour couvrir les besoins les plus critiques des communautés en matière de données cartographiques sur le terrain.
 
-*La plupart des données de cartographie de terrain sont actuellement téléchargées sur OSM sous forme d'importations en masse attribuées à l'organisation, au projet ou au validateur. C'est une source de frustration pour la communauté OSM, qui apprécie grandement la responsabilité individuelle des modifications apportées à la carte.*
+  *La plupart des données de cartographie de terrain sont 
+  actuellement téléchargées sur OSM sous forme d'importations en 
+  masse attribuées à l'organisation, au projet ou au validateur. 
+  C'est une source de frustration pour la communauté OSM, qui 
+  apprécie grandement la responsabilité individuelle des 
+  modifications apportées à la carte.*
 
 
 4. Rationaliser le processus de validation et d'importation des données
