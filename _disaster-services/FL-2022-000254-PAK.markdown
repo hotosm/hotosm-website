@@ -1,0 +1,20 @@
+---
+title: 'Pakistan: Floods, Monsoon Season 2022'
+date: 2022-07-03 18:36:00 Z
+Glide: FL-2022-000254-PAK
+Event Name: 'Pakistan: Floods, Monsoon Season 2022'
+GDACS ID: 1101522
+GDACS-level: Red (2.5)
+Country:
+- Pakistan
+Event type: Fl Flood
+Summary Text: Retrospectively logged this event due to ongoing floodings related to
+  the Monsoon season in Pakistan.
+Feature Image: Fl Flood
+Status: alert
+Post-type: update
+source: <a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22617&record=45&last=7615"
+  target="_blank">GLIDE</a>
+---
+
+"NDMA also reported that in a period from 14 June to 03 July, at least 38 people have lost their lives and 59 have been injured across the country as a result of severe weather from the monsoon of this year. Furthermore 110 houses have been destroyed and 231 severely damaged."
