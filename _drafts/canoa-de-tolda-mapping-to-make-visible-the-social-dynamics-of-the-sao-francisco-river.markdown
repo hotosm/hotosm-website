@@ -6,7 +6,7 @@ date: 2022-08-30 07:04:00 Z
 
 **What is Canoa de Tolda?**
 
-[Canoa de Tolda](https://canoadetolda.org.br/) is a Brazilian organization created in 1998, which currently works in the lower stretch of the San Francisco River, in the states of Alagoas and Sergipe, collecting information on social, cultural, scientific and environmental issues in the region impacted by the dam of Sobradinho.
+[Canoa de Tolda](https://canoadetolda.org.br/) is a Brazilian organization created in 1998, which currently works in the lower stretch of the [San Francisco River](https://en.wikipedia.org/wiki/S%C3%A3o_Francisco_River), in the states of Alagoas and Sergipe, collecting information on social, cultural, scientific and environmental issues in the region impacted by the [dam of Sobradinho](https://en.wikipedia.org/wiki/Sobradinho_Dam).
 
 ***![](https://www.openstreetmap.org/node/7376503759#map=7/-9.612/-37.886&layers=H)***
 
