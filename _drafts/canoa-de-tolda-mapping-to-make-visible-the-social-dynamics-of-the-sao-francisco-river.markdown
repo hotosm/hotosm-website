@@ -8,13 +8,13 @@ date: 2022-08-30 07:04:00 Z
 
 [Canoa de Tolda](https://canoadetolda.org.br/) is a Brazilian organization created in 1998, which currently works in the lower stretch of the [San Francisco River](https://en.wikipedia.org/wiki/S%C3%A3o_Francisco_River), in the states of Alagoas and Sergipe, collecting information on social, cultural, scientific and environmental issues in the region impacted by the [dam of Sobradinho](https://en.wikipedia.org/wiki/Sobradinho_Dam).
 
-***![](https://www.openstreetmap.org/node/7376503759#map=7/-9.612/-37.886&layers=H)***
+![mapa ilha do ferro.jpg](/uploads/mapa%20ilha%20do%20ferro.jpg)
 
-**Alianza con HOT**
+**Partnership with HOT**
 
-Desde noviembre de 2021, en alianza con HOT, Canoa de Tolda ha venido desarrollando ejercicios de mapeo colaborativo utilizando herramientas abiertas, con el objetivo de producir datos para el monitoreo de las condiciones hidrológicas y ambientales inexistentes en los mapas oficiales, para así empoderar a la sociedad civil con la gestión de datos abiertos, y mejorar los planes de reducción del riesgo de desastres liderados por la comunidad.
+Since November 2021, in partnership with HOT, Canoa de Tolda has been developing collaborative mapping exercises using open tools, with the aim of producing data for monitoring hydrological and environmental conditions that do not exist on official maps, in order to empower civil society in open data management, and improve community-led disaster risk reduction plans.
 
-> Marina Aragão, coordinadora de HOT para el proyecto, cree que la iniciativa de asociación “ha sido una interacción única entre las relaciones internacionales, la tecnología global y accesible y el empoderamiento de las poblaciones locales, y representó una oportunidad pionera y desafiante, especialmente considerando el análisis de un río que tiene una enorme representación para la región Nordeste y para Brasil”.  ([Fuente](https://infosaofrancisco.canoadetolda.org.br/noticias/geotecnologias/mapsaofrancisco-parceria-com-hot-finaliza-primeira-fase-de-capacitacoes/)).
+> Marina Aragão, HOT coordinator for the project, believes that the partnership initiative “has been a unique interaction between international relations, global and accessible technology and the empowerment of local populations, and represented a pioneering and challenging opportunity, especially consideringthe analysis of a river that has an enormous representation for the Northeast region and for Brazil”.  ([Source](https://infosaofrancisco.canoadetolda.org.br/noticias/geotecnologias/mapsaofrancisco-parceria-com-hot-finaliza-primeira-fase-de-capacitacoes/)).
 
 ![IMG_1527 (1).jpg](/uploads/IMG_1527%20(1).jpg)
 
