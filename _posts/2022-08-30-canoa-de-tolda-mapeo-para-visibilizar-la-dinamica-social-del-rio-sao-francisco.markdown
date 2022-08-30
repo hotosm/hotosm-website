@@ -33,7 +33,7 @@ Project:
 
 **Alianza con HOT**
 
-Desde noviembre de 2021, en alianza con HOT, Canoa de Tolda ha venido desarrollando ejercicios de mapeo colaborativo utilizando herramientas abiertas, con el objetivo de producir datos para el monitoreo de las condiciones hidrológicas y ambientales inexistentes en los mapas oficiales, para así empoderar a la sociedad civil con la gestión de datos abiertos, y mejorar los planes de reducción del riesgo de desastres liderados por la comunidad.
+Desde noviembre de 2021, en alianza con HOT, Canoa de Tolda ha venido desarrollando ejercicios de mapeo colaborativo utilizando herramientas abiertas, con el objetivo de producir datos para el monitoreo de las condiciones hidrológicas y ambientales inexistentes en los mapas oficiales, para así empoderar a la sociedad civil en la gestión de datos abiertos, y mejorar los planes de reducción del riesgo de desastres liderados por la comunidad.
 
 > Marina Aragão, coordinadora de HOT para el proyecto, cree que la iniciativa de asociación “ha sido una interacción única entre las relaciones internacionales, la tecnología global y accesible y el empoderamiento de las poblaciones locales, y representó una oportunidad pionera y desafiante, especialmente considerando el análisis de un río que tiene una enorme representación para la región Nordeste y para Brasil”.  ([Fuente](https://infosaofrancisco.canoadetolda.org.br/noticias/geotecnologias/mapsaofrancisco-parceria-com-hot-finaliza-primeira-fase-de-capacitacoes/)).
 
