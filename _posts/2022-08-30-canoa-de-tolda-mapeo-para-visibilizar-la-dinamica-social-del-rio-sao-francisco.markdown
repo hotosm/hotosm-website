@@ -29,7 +29,7 @@ Project:
 
 [Canoa de Tolda](https://canoadetolda.org.br/) es una organización brasileña surgida en 1998, que actualmente trabaja en el tramo inferior del [Río San Francisco](https://es.wikipedia.org/wiki/R%C3%ADo_San_Francisco_(Brasil)), en los estados de Alagoas y Sergipe, recopilando información sobre temas sociales, culturales, científicos y ambientales de la región impactada por la [represa de Sobradinho](https://es.wikipedia.org/wiki/Presa_de_Sobradinho).
 
-***![](https://www.openstreetmap.org/node/7376503759#map=7/-9.612/-37.886&layers=H)***
+![mapa ilha do ferro.jpg](/uploads/mapa%20ilha%20do%20ferro.jpg)
 
 **Alianza con HOT**
 
