@@ -3,6 +3,17 @@ title: |-
   Canoa de Tolda:
   Mapeo para visibilizar la dinámica social del Río São Francisco
 date: 2022-08-30 05:46:00 Z
+categories:
+- Mapping
+- news
+tags:
+- hub
+- Latam
+- Brasil
+- Field Mapping
+- open mapping
+- mapeo abierto
+- trainings
 Summary Text: Conozca los primeros resultados de la alianza de HOT con Canoa de Tolda
   para visibilizar la dinámica social del Río São Francisco mediante el mapeo abierto
   y el uso de drones y otras tecnologías.
