@@ -1,7 +1,6 @@
 ---
 title: Bo Percival
 date: 2020-01-24 17:10:00 Z
-published: false
 Photo: https://cdn.hotosm.org/website/DSC06181+-+Forlise+AST1+Outdoor+Day+(2048px)+by+Vince+Emond.jpg
 Member Type:
   Is Staff: true
