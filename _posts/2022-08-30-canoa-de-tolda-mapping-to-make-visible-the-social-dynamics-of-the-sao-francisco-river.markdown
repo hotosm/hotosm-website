@@ -13,9 +13,9 @@ tags:
 - open mapping
 - mapeo abierto
 - trainings
-Summary Text: Learn about the first results of HOT's alliance with Canoa de Tolda
-  to make visible the social dynamics of the São Francisco River through open mapping
-  and the use of drones and other technologies.
+Summary Text: Early results of HOT's collaboration with Canoa de Tolda to make the
+  social dynamics of the São Francisco River visible through open mapping and the
+  use of drones and other technologies.
 Feature Image: "/uploads/52305985528_88f5b87b4b_o.jpg"
 Person: Juan Arellano Valdivia
 Country:
