@@ -2,7 +2,7 @@
 title: Canoa de Tolda
 date: 2022-08-31 08:23:00 Z
 published: false
-Feature Image: "/uploads/IMG_1654%20(1).jpg"
+Feature Image: "/uploads/WhatsApp%20Image%202022-07-04%20at%2015.16.14%20(1)%20(1).jpeg"
 Is image top aligned: true
 Is Community-Led: true
 Country:
