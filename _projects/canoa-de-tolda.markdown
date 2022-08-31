@@ -26,6 +26,6 @@ Find out more about the project, check out the blog:
 
 https://www.hotosm.org/updates/canoa-de-tolda-mapping-to-make-visible-the-social-dynamics-of-the-sao-francisco-river/
 
-Credit - Marina Aragão
+Photo Credit - Marina Aragão
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720301505895" title="Canoa de tolda"><img src="https://live.staticflickr.com/65535/52306048310_9970498f24_z.jpg" width="640" height="480" alt="Canoa de tolda"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
