@@ -1,6 +1,6 @@
 ---
-title: 'Canoa de Tolda: Mapping to make visible the social dynamics of the São Francisco
-  River'
+title: 'Canoa de Tolda: Representing the social dynamics of the São Francisco River
+  through mapping'
 date: 2022-08-30 07:04:00 Z
 categories:
 - Mapping
