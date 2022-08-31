@@ -28,7 +28,7 @@ English
 [](https://www.hotosm.org/updates/canoa-de-tolda-mapping-to-make-visible-the-social-dynamics-of-the-sao-francisco-river/)
 
 Spanish
-
+[](https://www.hotosm.org/updates/canoa-de-tolda-mapeo-para-visibilizar-la-dinamica-social-del-rio-sao-francisco/)
 
 Photo Credit - Marina Aragão
 
