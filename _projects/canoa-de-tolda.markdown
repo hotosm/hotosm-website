@@ -24,11 +24,9 @@ The region has been suffering from the serious impacts of climate change, with d
 
 Find out more about the project, check out the blog:
 
-English
-[](https://www.hotosm.org/updates/canoa-de-tolda-mapping-to-make-visible-the-social-dynamics-of-the-sao-francisco-river/)
+[English]([](https://www.hotosm.org/updates/canoa-de-tolda-mapping-to-make-visible-the-social-dynamics-of-the-sao-francisco-river/))
 
-Spanish
-[](https://www.hotosm.org/updates/canoa-de-tolda-mapeo-para-visibilizar-la-dinamica-social-del-rio-sao-francisco/)
+[Spanish]([](https://www.hotosm.org/updates/canoa-de-tolda-mapeo-para-visibilizar-la-dinamica-social-del-rio-sao-francisco/))
 
 Photo Credit - Marina Aragão
 
