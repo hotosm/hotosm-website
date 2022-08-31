@@ -18,6 +18,11 @@ Impact Area:
 - Sustainable Cities & Communities
 Duration:
   End Date: 2022-08-01 00:00:00 Z
+Data:
+- title: |2-
+
+    Canoa de Tolda: Mapeo para visibilizar la dinámica social del Río São Francisco
+- link: https://www.hotosm.org/updates/canoa-de-tolda-mapeo-para-visibilizar-la-dinamica-social-del-rio-sao-francisco/
 ---
 
 ![IMG_1654 (1).jpg](/uploads/IMG_1654%20(1).jpg)
