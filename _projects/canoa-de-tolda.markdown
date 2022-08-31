@@ -8,7 +8,7 @@ Project Summary Text: 'For the first time in the region, data was collected in h
   lower stretch of São Francisco River basin to collect data.
 
 '
-Feature Image: "/uploads/WhatsApp%20Image%202022-07-04%20at%2015.16.14%20(1)%20(1).jpeg"
+Feature Image: "/uploads/52305985528_88f5b87b4b_o.jpg"
 Is image top aligned: false
 Is Community-Led: true
 Country:
@@ -19,10 +19,7 @@ Impact Area:
 Duration:
   End Date: 2022-08-01 00:00:00 Z
 Data:
-- title: |2-
-
-    Canoa de Tolda: Mapeo para visibilizar la dinámica social del Río São Francisco
-- link: https://www.hotosm.org/updates/canoa-de-tolda-mapeo-para-visibilizar-la-dinamica-social-del-rio-sao-francisco/
+- title: "\n"
 ---
 
 ![IMG_1654 (1).jpg](/uploads/IMG_1654%20(1).jpg)
