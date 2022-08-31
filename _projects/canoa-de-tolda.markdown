@@ -2,14 +2,14 @@
 title: Canoa de Tolda
 date: 2022-08-31 08:23:00 Z
 published: false
-Project Summary Text: 'Canoa de Tolda Project aimed to train local people from the
-  lower stretch of São Francisco River basin to collect data that will enable, for
-  the first time in the region, high-precision, collaborative digital terrain modeling.
-  The data will enable the mapping of populations in areas at risk of flooding.
+Project Summary Text: 'For the first time in the region, data was collected in high-precision,
+  collaborative digital terrain modeling to enable the mapping of populations in areas
+  at-risk of flooding. Canoa de Tolda Project aimed to train local people from the
+  lower stretch of São Francisco River basin to collect data.
 
 '
 Feature Image: "/uploads/WhatsApp%20Image%202022-07-04%20at%2015.16.14%20(1)%20(1).jpeg"
-Is image top aligned: true
+Is image top aligned: false
 Is Community-Led: true
 Country:
 - Brazil
