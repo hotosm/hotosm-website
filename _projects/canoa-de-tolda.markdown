@@ -30,6 +30,13 @@ Canoa de Tolda Project aimed to train local people from the lower stretch of Sã
 
 The region has been suffering from the serious impacts of climate change, with drastic periods of drought and flood. The increase in the frequency and intensity of droughts can cause perennial rivers to become intermittent. Intermittent rivers can disappear. Similarly, heavy rains and the lack of urban planning put communities at risk who directly depend on the river for basic socio-economic activities. 
 
+
+[Canoa de Tolda: Mapeo para visibilizar la dinámica social del Río São Francisco](https://www.hotosm.org/updates/canoa-de-tolda-mapeo-para-visibilizar-la-dinamica-social-del-rio-sao-francisco/)
+
+
+[Canoa de Tolda: Mapping to make visible the social dynamics of the São Francisco River](https://www.hotosm.org/updates/canoa-de-tolda-mapping-to-make-visible-the-social-dynamics-of-the-sao-francisco-river/)
+
+
 Photo Credit - Marina Aragão
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720301505895" title="Canoa de tolda"><img src="https://live.staticflickr.com/65535/52306048310_9970498f24_z.jpg" width="640" height="480" alt="Canoa de tolda"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
