@@ -34,7 +34,7 @@ To find out more, read the blogs in Spanish & English:
 
 [Canoa de Tolda: Mapeo para visibilizar la dinámica social del Río São Francisco](https://www.hotosm.org/updates/canoa-de-tolda-mapeo-para-visibilizar-la-dinamica-social-del-rio-sao-francisco/)
 
-[Canoa de Tolda: Mapping to make visible the social dynamics of the São Francisco River](https://www.hotosm.org/updates/canoa-de-tolda-mapping-to-make-visible-the-social-dynamics-of-the-sao-francisco-river/)
+[Canoa de Tolda: Representing the social dynamics of the São Francisco River through mapping](https://www.hotosm.org/updates/canoa-de-tolda-mapping-to-make-visible-the-social-dynamics-of-the-sao-francisco-river/)
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720301505895" title="Canoa de tolda"><img src="https://live.staticflickr.com/65535/52306048310_9970498f24_z.jpg" width="640" height="480" alt="Canoa de tolda"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
