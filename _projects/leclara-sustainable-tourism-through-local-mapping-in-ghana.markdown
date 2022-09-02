@@ -9,7 +9,7 @@ Is Community-Led: true
 Country:
 - Ghana
 Impact Area:
-- Poverty Elimination
+- Sustainable Cities & Communities
 ---
 
 **2019 Microgrant**  
