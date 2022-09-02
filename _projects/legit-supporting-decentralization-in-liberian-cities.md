@@ -11,7 +11,7 @@ Feature Image: https://cdn.hotosm.org/website/IMG_20170220_122606+(1).jpg
 Country:
 - Liberia
 Impact Area:
-- Sustainable Cities
+- Sustainable Cities & Communities
 Person:
 - Paul Uithol
 Partner:
