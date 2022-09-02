@@ -9,7 +9,7 @@ Is Community-Led: true
 Country:
 - Bangladesh
 Impact Area:
-- Sustainable Cities
+- Sustainable Cities & Communities
 Person:
 - Tasauf A Baki Billah (Ribin)
 Duration:

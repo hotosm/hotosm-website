@@ -9,7 +9,7 @@ Is Community-Led: true
 Country:
 - Peru
 Impact Area:
-- Disaster Response
+- Disasters & Climate  Resilience
 ---
 
 In Peru, rural agricultural communities are heavily affected by natural disasters such as earthquakes and floods. OSM Peru are  providing detailed maps of these rural spaces and are working in collaboration with ANPE (Asociación Nacional de Productores Ecológicos del Perú) and the Peruvian Ecological Farmers of Perú to improve rural maps and aid disaster response. 
