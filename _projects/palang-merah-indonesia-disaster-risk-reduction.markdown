@@ -11,7 +11,7 @@ Is Community-Led: true
 Country:
 - Indonesia
 Impact Area:
-- Disaster Risk Reduction
+- Disasters & Climate  Resilience
 Person:
 - Yantisa Akhadi
 - Adityo Dwijananto

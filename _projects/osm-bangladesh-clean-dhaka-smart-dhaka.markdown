@@ -9,7 +9,7 @@ Is Community-Led: true
 Country:
 - Bangladesh
 Impact Area:
-- Environment
+- Sustainable Cities & Communities
 Person:
 - Tasauf A Baki Billah (Ribin)
 Website: http://boiledbhoot.org/
