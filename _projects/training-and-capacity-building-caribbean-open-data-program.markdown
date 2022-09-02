@@ -12,8 +12,7 @@ Country:
 - Jamaica
 - Saint Lucia
 Impact Area:
-- Poverty Elimination
-- Disaster Risk Reduction
+- Sustainable Cities & Communities
 Person:
 - Steven Johnson
 Partner:
