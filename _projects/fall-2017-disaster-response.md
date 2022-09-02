@@ -15,7 +15,7 @@ Country:
 - Indonesia
 - United States
 Impact Area:
-- Disaster Response
+- Disasters & Climate  Resilience
 Person:
 - Michael Heißmeier
 - Russell Deffner
