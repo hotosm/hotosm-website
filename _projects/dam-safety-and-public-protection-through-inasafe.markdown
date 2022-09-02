@@ -12,9 +12,8 @@ Is Community-Led: false
 Country:
 - Indonesia
 Impact Area:
-- Disaster Risk Reduction
-- Environment
-- Water & Sanitation
+- Disasters & Climate  Resilience
+- Sustainable Cities & Communities
 Person:
 - Yantisa Akhadi
 - Adityo Dwijananto

@@ -10,7 +10,7 @@ Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2018-06-07+at+22.04.38
 Country:
 - Indonesia
 Impact Area:
-- Disaster Risk Reduction
+- Disasters & Climate  Resilience
 Person:
 - Yantisa Akhadi
 - Harry Mahardhika Machmud
@@ -23,15 +23,6 @@ Partner:
 Duration:
   Start Date: 2016-08-01 00:00:00 Z
   End Date: 2018-08-01 00:00:00 Z
-Summary Text: 'In collaboration with USAID, BNPB, and the Pacific Disaster Centre,
-  HOT will assist improving overall risk assessment, early-warning, and disaster-management
-  decision making across Indonesia through the collection and provision of supporting
-  infrastructure data to the InAWARE disaster management tool. '
-HOT Involvement: Community Development
-Contact: yantisa.ahkhadi@hotosm.org
-Wiki Page: "[InAWARE Project OSM Wiki Page](https://wiki.openstreetmap.org/wiki/HOT_-_PDC_InAWARE_Indonesia_Project_(Surabaya_%26_Jakarta))"
-created: 1467765342
-redirect_from: projects/usaid__bnpb__inaware_disaster_management_early_warning_and_decision_support_capacity_enhancement_project_in_indonesia
 tm_campaigns:
 - Inaware
 - Missing Maps
@@ -43,8 +34,17 @@ Data:
 Tools:
 - tool: Export Tool
   link: https://export.hotosm.org/en/v3/
-- tool: OSM Analytics
-  link: http://osm-analytics.org
+- link: http://osm-analytics.org
+  tool: OSM Analytics
+Summary Text: 'In collaboration with USAID, BNPB, and the Pacific Disaster Centre,
+  HOT will assist improving overall risk assessment, early-warning, and disaster-management
+  decision making across Indonesia through the collection and provision of supporting
+  infrastructure data to the InAWARE disaster management tool. '
+HOT Involvement: Community Development
+Contact: yantisa.ahkhadi@hotosm.org
+Wiki Page: "[InAWARE Project OSM Wiki Page](https://wiki.openstreetmap.org/wiki/HOT_-_PDC_InAWARE_Indonesia_Project_(Surabaya_%26_Jakarta))"
+created: 1467765342
+redirect_from: projects/usaid__bnpb__inaware_disaster_management_early_warning_and_decision_support_capacity_enhancement_project_in_indonesia
 ---
 
 HOT is collaborating on a USAID, Office of U.S. Foreign Disaster Assistance (OFDA) funded program together with the University of Hawaii: Pacific Disaster Centre (PDC) and the Massachusetts Institute of Technology (MIT): PetaBencana to support the Government of Indonesia: Badan Nasional Penanggulangan Bencana (BNPB). The program is focused on the development of InAWARE, a disaster management tool, aimed at improving overall risk assessment, early-warning, and disaster-management decision making in Indonesia.

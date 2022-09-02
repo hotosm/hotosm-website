@@ -10,7 +10,7 @@ Feature Image: https://cdn.hotosm.org/website/unnamed.jpg
 Country:
 - Liberia
 Impact Area:
-- Sustainable Cities
+- Sustainable Cities & Communities
 - 
 Person:
 - Jess Beutler

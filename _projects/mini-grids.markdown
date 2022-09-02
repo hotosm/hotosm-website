@@ -9,7 +9,7 @@ Feature Image: https://cdn.hotosm.org/website/WhatsApp+Image+2018-03-19+at+7.45.
 Country:
 - Tanzania
 Impact Area:
-- Clean Energy
+- Sustainable Cities & Communities
 Person:
 - Ivan Gayton
 - Paul Uithol

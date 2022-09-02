@@ -11,7 +11,7 @@ Is Community-Led: true
 Country:
 - France
 Impact Area:
-- Refugee Response
+- Displacement & Safe Migration
 Person:
 - Blake Girardot
 - Katja Ulbert

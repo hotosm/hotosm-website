@@ -10,7 +10,7 @@ Is Community-Led: true
 Country:
 - Zambia
 Impact Area:
-- Water & Sanitation
+- Public Health
 Person:
 - Gertrude (Trudy Hope) Namitala
 Duration:
