@@ -1,7 +1,7 @@
 ---
 title: Strategies to Prevent Spillover (STOP Spillover)
 date: 2022-07-01 16:05:00 Z
-position: 0
+position: 4
 Project Summary Text: STOP Spillover is working with in-country stakeholders to understand
   and address the threats posed by zoonotic viral diseases and reduce the risk of
   viral spillover and spread.

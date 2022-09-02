@@ -1,7 +1,7 @@
 ---
 title: Canoa de Tolda
 date: 2022-08-31 08:23:00 Z
-position: 1
+position: 3
 Project Summary Text: 'For the first time in the region, data was collected in high-precision,
   collaborative digital terrain modeling to enable the mapping of populations in areas
   at-risk of flooding. Canoa de Tolda Project aimed to train local people from the

@@ -2,7 +2,7 @@
 title: 'MapBeks: Remote mapping of the most unmapped places in the Philippines (Tarlac
   Province) by LGBT and AIDS Service organizations, advocates and allies'
 date: 2021-07-08 10:22:00 Z
-position: 5
+position: 6
 Feature Image: "/uploads/Mines%20and%20Geoscience%20Bureau%20Philippines-87953b.png"
 Is Community-Led: true
 Country:
