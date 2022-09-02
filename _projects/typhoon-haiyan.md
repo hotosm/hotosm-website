@@ -10,7 +10,7 @@ Is Community-Led: true
 Country:
 - Philippines
 Impact Area:
-- Disaster Response
+- Disasters & Climate  Resilience
 Person:
 - Taichi Furuhashi
 - Mark Cupitt
