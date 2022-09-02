@@ -9,7 +9,7 @@ Feature Image: https://cdn.hotosm.org/website/Haiti.Saint-Marc.jpg
 Country:
 - Haiti
 Impact Area:
-- Disaster Risk Reduction
+- Disasters & Climate  Resilience
 Person:
 - Jaakko Helleranta
 - ALCE Samuel Paul
