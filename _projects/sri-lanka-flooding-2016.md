@@ -9,7 +9,7 @@ Feature Image: https://cdn.hotosm.org/website/Mapping+for+the+Sri+Lanka+Floods+a
 Country:
 - Sri Lanka
 Impact Area:
-- Disaster Response
+- Disasters & Climate  Resilience
 Person:
 - Dale Kunce
 - Mikel Maron
