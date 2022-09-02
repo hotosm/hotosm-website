@@ -18,7 +18,7 @@ Country:
 - Laos
 - Mexico
 Impact Area:
-- Disaster Response
+- Disasters & Climate  Resilience
 Person:
 - Russell Deffner
 Duration:
