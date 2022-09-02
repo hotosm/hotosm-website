@@ -11,7 +11,7 @@ Country:
 - Mali
 Impact Area:
 - Public Health
-- Sustainable Cities
+- Sustainable Cities & Communities
 Person:
 - Nathalie Sidibe
 Duration:

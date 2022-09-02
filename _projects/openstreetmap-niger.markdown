@@ -9,7 +9,7 @@ Is Community-Led: true
 Country:
 - Niger
 Impact Area:
-- Sustainable Cities
+- Sustainable Cities & Communities
 - Public Health
 Duration:
   End Date: 2019-01-01 00:00:00 Z
