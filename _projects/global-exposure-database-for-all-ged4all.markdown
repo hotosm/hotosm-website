@@ -10,8 +10,8 @@ Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2018-06-08+at+12.17.26
 Country:
 - Global
 Impact Area:
-- Disaster Risk Reduction
-- Sustainable Cities
+- Displacement & Safe Migration
+- Sustainable Cities & Communities
 Person:
 - Mhairi O'Hara
 Partner:
