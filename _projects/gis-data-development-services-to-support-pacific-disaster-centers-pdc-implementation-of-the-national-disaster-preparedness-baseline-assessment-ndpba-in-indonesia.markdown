@@ -2,7 +2,7 @@
 title: GIS Data Development Services to support Pacific Disaster Center’s (PDC) implementation
   of the National Disaster Preparedness Baseline Assessment (NDPBA) in Indonesia
 date: 2022-07-01 16:19:00 Z
-position: 21
+position: 22
 Project Summary Text: 'HOTOSM provided technical in-country support to facilitate
   the successful completion of the National Disaster Preparedness Baseline Assessment
   (NDPBA) and its associated GIS data collection, processing, and technical support
