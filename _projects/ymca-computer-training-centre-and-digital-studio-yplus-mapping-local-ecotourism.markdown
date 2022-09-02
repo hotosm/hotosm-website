@@ -8,7 +8,7 @@ Is Community-Led: true
 Country:
 - Gambia
 Impact Area:
-- Environment
+- Sustainable Cities & Communities
 ---
 
 **2019 Microgrant**  
