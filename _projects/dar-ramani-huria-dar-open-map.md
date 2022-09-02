@@ -11,9 +11,8 @@ Is Community-Led: false
 Country:
 - Tanzania
 Impact Area:
-- Sustainable Cities
-- Water & Sanitation
-- Disaster Risk Reduction
+- Disasters & Climate  Resilience
+- Sustainable Cities & Communities
 Person:
 - Ivan Gayton
 - Innocent Maholi
@@ -24,10 +23,6 @@ Partner:
 - U.K. Department for International Development (DfID)
 Duration:
   Start Date: 2015-04-01 00:00:00 Z
-HOT Involvement: Community Development
-Link: http://ramanihuria.org/
-Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
-created: 1423284460
 tm_campaigns:
 - "#ramanihuria"
 - "#Trash mapping"
@@ -40,8 +35,12 @@ Data:
 Tools:
 - tool: Export Tool
   link: https://export.hotosm.org/en/v3/
-- tool: OSM Analytics
-  link: http://osm-analytics.org
+- link: http://osm-analytics.org
+  tool: OSM Analytics
+HOT Involvement: Community Development
+Link: http://ramanihuria.org/
+Contact: <p><a href="https://hotosm.org/users/paul_uithol">Paul Uithol</a></p>
+created: 1423284460
 ---
 
 Dar es Salaam is one of the fastest growing cities in Africa, with an annual population growth of over 5.7%.  In 2002 there were approximately 2.5 million inhabitants, increasing to 4.4 million in 2012, and currently estimated at over 5.5 million.  The population is expected to exceed 10 million by 2040, making Dar es Salaam a megacity.  Urbanization is largely unplanned, and around 70% of city residents live in informal settlements.  The poorest citizens who settle in these areas not only have less access to basic services, but are also the most exposed to natural hazards.

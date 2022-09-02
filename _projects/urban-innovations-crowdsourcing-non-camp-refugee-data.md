@@ -12,7 +12,7 @@ Country:
 - Syria
 - South Sudan
 Impact Area:
-- Refugee Response
+- Displacement & Safe Migration
 Person:
 - Nate Smith
 - 'Douglas Ssebaggala '
