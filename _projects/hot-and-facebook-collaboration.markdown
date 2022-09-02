@@ -12,10 +12,8 @@ Country:
 - Tanzania
 - Vietnam
 Impact Area:
-- Transportation
-- Disaster Risk Reduction
-- Sustainable Cities
-- Technology Development
+- Disasters & Climate  Resilience
+- Sustainable Cities & Communities
 Person:
 - Russell Deffner
 Partner:
