@@ -12,7 +12,7 @@ Country:
 - Nepal
 - Uganda
 Impact Area:
-- Refugee Response
+- Displacement & Safe Migration
 Person:
 - Mhairi O'Hara
 - Cristiano Giovando
