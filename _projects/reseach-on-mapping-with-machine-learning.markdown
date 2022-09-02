@@ -6,9 +6,8 @@ Project Summary Text: HOT is working with the Netherlands Red Cross to have an e
   look at current AI-supported mapping flows and to take the next step towards using
   OSM data for training machine learning models.
 Feature Image: https://cdn.hotosm.org/website/ai-polygon-pass.jpg
-HOT Involvement: Disaster Risk Reduction
 Impact Area:
-- Disaster Risk Reduction
+- Disasters & Climate  Resilience
 Person:
 - Bo Percival
 - Felix Delattre
@@ -21,6 +20,7 @@ Duration:
 Data:
 - title: Coming soon
   link: 
+HOT Involvement: Disaster Risk Reduction
 ---
 
 The Humanitarian OpenStreetMap Team works with hundreds of thousands of volunteers to create open map data for humanitarian actions. And last year, we took a leadership role to explore and facilitate the application of the latest advances in artificial intelligence to enable traditional mappers to build the world's largest geospatial platform on OpenStreetMap.
