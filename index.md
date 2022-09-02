@@ -9,10 +9,10 @@ Banner:
   Link Copy: 
   URL: https://stories.hotosm.org/2022-hot-unsummit
 Project:
-- Scaling Missing Maps in Uganda and DRC
+- Satellite Imagery for Social Good
 - 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin America
   and Caribbean'
-- H2H Haiti
+- Canoa de Tolda
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
