@@ -9,8 +9,7 @@ Is Community-Led: true
 Country:
 - Colombia
 Impact Area:
-- Environment
-- Disaster Risk Reduction
+- Disasters & Climate  Resilience
 Duration:
   End Date: 2019-01-01 00:00:00 Z
 Micrograntee: true
