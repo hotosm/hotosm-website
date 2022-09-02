@@ -10,8 +10,7 @@ Is Community-Led: true
 Country:
 - Puerto Rico
 Impact Area:
-- Disaster Risk Reduction
-- Disaster Response
+- Disasters & Climate  Resilience
 ---
 
 **2019 Microgrant**  
