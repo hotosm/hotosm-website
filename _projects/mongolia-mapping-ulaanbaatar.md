@@ -10,7 +10,7 @@ Feature Image: https://cdn.hotosm.org/website/mongolia.jpg
 Country:
 - Mongolia
 Impact Area:
-- Sustainable Cities
+- Sustainable Cities & Communities
 Person:
 - Russell Deffner
 Partner: The World Bank

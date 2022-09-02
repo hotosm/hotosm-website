@@ -11,7 +11,7 @@ Is Community-Led: true
 Country:
 - Somalia
 Impact Area:
-- Disaster Response
+- Disasters & Climate  Resilience
 Person:
 - Jaakko Helleranta
 Duration:
