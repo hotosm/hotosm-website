@@ -1,6 +1,7 @@
 ---
 title: Satellite Imagery for Social Good
 date: 2022-07-26 13:56:00 Z
+position: 2
 Project Summary Text: Satellite Imagery for Social Good is a single project with two
   distinct initiatives in Kenya and Nigeria.  Teams in Kenya and Nigeria are using
   Map with AI to add and validate AI-generated building footprints into OpenStreetMap

@@ -1,7 +1,7 @@
 ---
 title: 'HOT and Facebook: Collaboration for open maps and free technology'
 date: 2019-09-05 22:18:00 Z
-position: 47
+position: 50
 Project Summary Text: The Humanitarian OpenStreetMap Team (HOT) and Facebook are partnering
   on Open Data mapping, as well as Free Software projects.
 Feature Image: https://cdn.hotosm.org/website/IDRoads.PNG

@@ -1,7 +1,7 @@
 ---
 title: 'MapUganda: Photomapping Uganda’s New Cities Using Mapillary'
 date: 2021-07-08 12:18:00 Z
-position: 8
+position: 11
 Feature Image: "/uploads/MapUganda.jpg"
 Is Community-Led: true
 Country:

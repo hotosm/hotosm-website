@@ -1,7 +1,7 @@
 ---
 title: 'OSM Zambia: Training to map waste infrastructure and services'
 date: 2020-11-10 14:51:00 Z
-position: 22
+position: 25
 Is Community-Led: true
 Country:
 - Zambia

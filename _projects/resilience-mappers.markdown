@@ -1,13 +1,13 @@
 ---
 title: 'Resilience Mappers: Mapping informal settlements in Kampala, Uganda'
 date: 2020-11-10 14:11:00 Z
-position: 20
+position: 23
 Feature Image: https://cdn.hotosm.org/website/Resilience+Mappers.png
 Is Community-Led: true
 Country:
 - Uganda
 Impact Area:
-- Sustainable Cities
+- Sustainable Cities & Communities
 Duration:
   Start Date: 2020-10-01 00:00:00 Z
   End Date: 2021-03-31 00:00:00 Z

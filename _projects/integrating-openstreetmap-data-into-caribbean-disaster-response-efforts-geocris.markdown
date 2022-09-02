@@ -1,7 +1,7 @@
 ---
 title: 'Integrating OpenStreetMap data into Caribbean disaster response efforts: GeoCRIS'
 date: 2020-06-23 19:36:00 Z
-position: 16
+position: 18
 Project Summary Text: 'Shared knowledge and datasets are critical for Caribbean nations
   to prepare for, respond to and recover from disasters. HOT is supporting the Caribbean
   Disaster Emergency Management Agency (CDEMA) and the World Bank on integrating OpenStreetMap

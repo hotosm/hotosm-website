@@ -1,7 +1,7 @@
 ---
 title: 'MapUganda: Remotely mapping border towns'
 date: 2020-11-10 15:09:00 Z
-position: 25
+position: 28
 Feature Image: https://cdn.hotosm.org/website/Trucks+at+Malaba-0c53ea.jpg
 Is Community-Led: true
 Country:
