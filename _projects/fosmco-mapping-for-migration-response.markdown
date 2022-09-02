@@ -9,7 +9,7 @@ Is Community-Led: true
 Country:
 - Colombia
 Impact Area:
-- Refugee Response
+- Displacement & Safe Migration
 ---
 
 **2019 Microgrant**  

@@ -11,9 +11,8 @@ Is image top aligned: true
 Country:
 - Liberia
 Impact Area:
-- Disaster Risk Reduction
-- Sustainable Cities
-- Water & Sanitation
+- Disasters & Climate  Resilience
+- Sustainable Cities & Communities
 Person:
 - David Luswata
 - Paul Uithol
