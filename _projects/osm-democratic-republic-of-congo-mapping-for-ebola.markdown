@@ -9,7 +9,7 @@ Is Community-Led: true
 Country:
 - Democratic Republic of the Congo
 Impact Area:
-- Disaster Response
+- Disasters & Climate  Resilience
 - Public Health
 Person:
 - Claire Halleux

@@ -9,7 +9,7 @@ Feature Image: https://cdn.hotosm.org/website/EZgGSYMXQAAmpYD.jpg
 Country:
 - Liberia
 Impact Area:
-- Poverty Elimination
+- Sustainable Cities & Communities
 Person:
 - Paul Uithol
 - Jess Beutler
