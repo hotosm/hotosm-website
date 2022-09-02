@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Vaccination Campaign, Pilot Project
 date: 2021-10-01 20:17:00 Z
-position: 9
+position: 10
 Project Summary Text: "This post shows the workflow HOT and partners are following
   to achieve its goal of filling data gaps (buildings and Roads) for the COVID-19
   vaccination campaign.\n\n"
