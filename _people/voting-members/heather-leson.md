@@ -3,13 +3,13 @@ title: Heather Leson
 date: 2013-12-01 16:39:00 Z
 redirect_from:
 - "/users/heather_leson"
-Photo: http://hotwww.s3-website-us-east-1.amazonaws.com/files/old/pictures/picture-70-1411583393.jpg
+Photo: /uploads/HeatherLeson-300x169-2fb66c.jpg
 Member Type:
   Is Voting Member: true
   Is Board Member: false
-Country: Canada
+Country: Switzerland
 Social Media (Full URL):
   Twitter: https://twitter.com/heatherleson
 ---
 
-<p>Heather Leson is a community builder, project leader, and idea hacker for global open source projects and communities. Some of the organizations she had led include the <a href="http://crisismappers.net/">Crisis Mappers Network</a>, <a href="http://hot.openstreetmap.org/">Humanitarian OpenStreetMap Team</a>, <a href="http://okfn.org/">Open Knowledge Foundation</a>, <a href="http://ushahidi.com/">Ushahidi</a>, Random Hacks of Kindness, Mozilla and more. Heather has over 15 years of experience in technical incident management, software life-cycle development, customer care, and Internet communications.&nbsp; Heather is a Programme Manager at <a href="http://qcri.org.qa/">Qatar Computing Research Institute</a>. In HOT Heather is focused on community engagement, organizational development and fundraising. She blogs at http://textontechs.com and tweets @heatherleson. Imagine this world if we all lent a digital hand.</p>
+<p>Heather Leson is driven by a world where everyone lends a hand. At the intersection of social impact, strategy, technology, and open principles, she delivers innovative products and experiences with global networks.  Heather has over 25 years of experience in community engagement, internet technologies, and product development.  As an [Open Organization Ambassador (Red Hat)](http://theopenorganization.org/), Heather writes and advocates for open organizational values to support governance shifts and strategic global community engagement. A leader in the open space: she has represented and worked for many open organizations, including serving as the Board Member of both the OpenStreetMap Foundation (2 years) and the Humanitarian OpenStreetMap Team (4 years).   In HOT, Heather is focused on community engagement, organizational development, and governance.  She currently chairs the HOT Governance Working Group. See more at [LinkedIn](https://www.linkedin.com/in/heatherleson/) and [@heatherleson](https://twitter.com/heatherleson).</p>
