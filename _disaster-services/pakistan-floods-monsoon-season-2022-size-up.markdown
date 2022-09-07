@@ -33,5 +33,5 @@ Status: size-up
 <br>
 <strong>Request(s):</strong> Support to map the area<br>
 <strong>Need for Activation:</strong> Likely<br>
-<strong>Active Orgs:</strong> MSF, Open Mapping Hub<br>
-<strong>Lead Orgs:</strong> Open Mapping Hub<br>
+<strong>Active Orgs:</strong> Asia Pacific Open Mapping Hub<br>
+<strong>Lead Orgs:</strong>Asia Pacific Open Mapping Hub<br>
