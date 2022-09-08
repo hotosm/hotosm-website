@@ -9,7 +9,7 @@ Country:
 
 **Why did you choose to apply for the internship?**
 
-I was a student of Geomatics Engineering at Kathmandu University. I had a  passion and interest in field surveying, atlases and mapping even before joining engineering. As a result I got to know about OpenStreetMap (OSM) and became very interested in  mapping. I began contributing to various communities, conducting OSM trainings and started volunteering on various projects related to disaster response, humanitarian aid and economic development. More about my OSM Journey in this YouthMappers blog.
+I was a student of Geomatics Engineering at Kathmandu University. I had a  passion and interest in field surveying, atlases and mapping even before joining engineering. As a result I got to know about OpenStreetMap (OSM) and became very interested in  mapping. I began contributing to various communities, conducting OSM trainings and started volunteering on various projects related to disaster response, humanitarian aid and economic development. More about my OSM Journey in this [YouthMappers blog](https://www.youthmappers.org/post/voyage-to-250-osm-streak-days).
 
 In 2021, after being involved in an OSM community for more than a year, I wanted to learn and develop new skills in OSM. I was in my last semester and I needed an internship to complete my graduation. At the same time, the Humanitarian OpenStreetMap Team (HOT) had a call for applications for the HOT Data Quality Internship, so I jumped at the opportunity! I had a great OSM profile, was active in the OSM Nepal community and in the Geomatics Engineering Society (GES).
 
@@ -27,7 +27,7 @@ Becky arranged coffee chats with other interns. With Lassine and Viji, we discus
 
 ![unnamed (3)-ce0381.png](/uploads/unnamed%20(3)-ce0381.png)
 
-I am so glad that I also got a chance to have a chat with Bo Percival, the Director of Technology and Innovation at HOT. He told that he had  lived in Nepal for more than a year and loves Nepal and our festivals [Dashain ](https://www.stunningnepal.com/dashain-festival-in-nepal/)and [Tihar](https://www.tibettravel.org/nepal-festival/tihar-festival.html).
+I am so glad that I also got a chance to have a chat with Bo Percival, the Director of Technology and Innovation at HOT. He told me that he had lived in Nepal for more than a year and loves Nepal and our festivals [Dashain ](https://www.stunningnepal.com/dashain-festival-in-nepal/)and [Tihar](https://www.tibettravel.org/nepal-festival/tihar-festival.html).
 
 ![unnamed (4).png](/uploads/unnamed%20(4).png)
 
