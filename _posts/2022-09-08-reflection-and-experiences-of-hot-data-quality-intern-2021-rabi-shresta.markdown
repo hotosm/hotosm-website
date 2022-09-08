@@ -1,5 +1,5 @@
 ---
-title: Reflection and experiences of HOT Data Quality Intern 2021, Rabi Shrestha
+title: Reflections and experiences of HOT Data Quality Intern 2021, Rabi Shrestha
 date: 2022-09-08 12:08:00 Z
 Is image top aligned: false
 Person: Rabi Shrestha
