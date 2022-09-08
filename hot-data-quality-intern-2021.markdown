@@ -19,3 +19,11 @@ Meeting new people is always interesting and it was even more interesting to mee
 
 *![unnamed (2)-7346d4.png](/uploads/unnamed%20(2)-7346d4.png)*
 
+Becky arranged coffee chats with other interns. With Lassine and Viji, we discussed OSM activities in our regions, different mapathons, GIS Day, the HOT Summit, State of the Map US, and other OSM related topics. With Micheal and Gustavo, we discussed our OSM journeys, problems while mapping and validating and opportunities in OSM. I also enjoyed talking with friends from my country, Puspa and Sandhya and shared our experience of meeting new faces from different countries.
+
+![unnamed (3)-ce0381.png](/uploads/unnamed%20(3)-ce0381.png)
+
+I am so glad that I also got a chance to have a chat with Bo Percival, the Director of Technology and Innovation at HOT. He told that he had  lived in Nepal for more than a year and loves Nepal and our festivals [Dashain ](https://www.stunningnepal.com/dashain-festival-in-nepal/)and [Tihar](https://www.tibettravel.org/nepal-festival/tihar-festival.html).
+
+
+
