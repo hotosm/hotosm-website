@@ -25,5 +25,30 @@ Becky arranged coffee chats with other interns. With Lassine and Viji, we discus
 
 I am so glad that I also got a chance to have a chat with Bo Percival, the Director of Technology and Innovation at HOT. He told that he had  lived in Nepal for more than a year and loves Nepal and our festivals [Dashain ](https://www.stunningnepal.com/dashain-festival-in-nepal/)and [Tihar](https://www.tibettravel.org/nepal-festival/tihar-festival.html).
 
+![unnamed (4).png](/uploads/unnamed%20(4).png)
+
+I made great friends from this internship and we are still in touch. Being from remote Nepal,  it was great to meet people from different countries and know about their geography, festivals and religion. 
+
+**Which project that you validated meant the most to you?**
+
+Some of the projects that I mapped and validated during this internship were:
+* Zambia Local Impact Governance Activity
+* Algeria Wildfires 2021
+* Haiti Earthquake 2021
+* COVID-19 Caribbean (Belize, Guyana) 
+* Open Cities - Guatemala
+
+Among all these projects, I mostly worked on the Zambia Local Impact Governance Activity project and that means the most to me. The USAID Local Impact Governance Activity will help Zambia build up a sub-national system of governance for devolved service delivery that is more responsive to citizen needs. Remote mapping of buildings and roads will support the implementation of planned activities and the generation of data for humanitarian activities.
+
+![unnamed (5).png](/uploads/unnamed%20(5).png)
+
+**What do you hope to do with the skills that you learned during the internship?**
+
+I was keen to expand my skills and have gained a much deeper understanding of OSM. After this internship, I was also able to export OSM data to apply what I learned by preparing informative maps, tourist maps, and interactive maps. The advantage and disadvantage of OSM is that it is free and editable. So the data quality can be a problem. Quality data is key to making accurate and informed decisions. I always try to create quality edits and data, not only on OSM but any platform, and help community members to make quality edits as well. 
+
+These days, I advocate for open data and data quality because every edit matters. By being an intern, I learned about networking, communications and problem-solving. I learnt how to interact with people and that helped with my personal development. Since the day we had a meeting with HOT Executive Director, Tyler Radford, who said: " It's not just data quality, but its data quality for greater impact," I am committed to data quality. 
+Coming from a geomatics and mapping background, I feel I will use what I learned from this internship in disaster response, humanitarian aid and sustainable development. I am still actively working in OSM Nepal and advocating for data quality and the importance of open data. I am trying to bring the OSM movement to Nepal with the support of various OSM activists and organizations. There is no such geospatial and surveying work that I had completed without the use of OSM after this internship. I have always tried to fit OSM into the surveying work I do because I believe knowledge on OSM is my strongest tool. Now, I feel confident to work for any organization after my experience as a HOT Data Quality Intern and I  am thankful to HOT for this opportunity.
+
+
 
 
