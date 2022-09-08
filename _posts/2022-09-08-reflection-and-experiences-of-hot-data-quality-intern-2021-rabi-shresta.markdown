@@ -1,7 +1,10 @@
 ---
-title: Reflection and experiences of HOT Data Quality Intern 2021, Rabi Shresta
+title: Reflection and experiences of HOT Data Quality Intern 2021, Rabi Shrestha
 date: 2022-09-08 12:08:00 Z
 published: false
+Person: Rabi Shrestha
+Country:
+- Nepal
 ---
 
 **Why did you choose to apply for the internship?**
@@ -52,7 +55,7 @@ These days, I advocate for open data and data quality because every edit matters
 Coming from a geomatics and mapping background, I feel I will use what I learned from this internship in disaster response, humanitarian aid and sustainable development. I am still actively working in OSM Nepal and advocating for data quality and the importance of open data. I am trying to bring the OSM movement to Nepal with the support of various OSM activists and organizations. There is no such geospatial and surveying work that I had completed without the use of OSM after this internship. I have always tried to fit OSM into the surveying work I do because I believe knowledge on OSM is my strongest tool. Now, I feel confident to work for any organization after my experience as a HOT Data Quality Intern and I  am thankful to HOT for this opportunity.
 
 > Acknowledgment:
-I am extremely grateful to Kathmandu University, Department of Geomatics Engineering (DOGE) for helping me take part in this internship program as the part of fulfillment of Bachelor Degree in Geomatics Engineering. I want to express my deepest gratitude and special thanks to HOT Executive Director, Tyler Radford and Chairperson of the Data Quality Assurance Working Group Matthew Gibb who provided me with an opportunity to be an intern in the organization. Without the support and guidance of the regional director of the Open Mapping Hub - Asia Pacific, Dr. Nama Raj Budhathoki, I may not have the energy to continue OSM journey. I would also like to thank my supervisors Mr. Sam Colchester and Ms. Rebecca Chandiru for provision of exemplary guidance, monitoring and constant encouragement throughout the intern period. Their expertise in training, program coordination and technical support in  implementation will take us far in our journey. Special thanks to all other trainers from Meta, Kontur, Youthmappers, Mapbox, OSGeo and everyone.  Lastly, I would also acknowledge with a deep sense of reverence, my gratitude towards my parents and members of our family, who have always supported me morally as well as economically.> 
+I am extremely grateful to Kathmandu University, Department of Geomatics Engineering (DOGE) for helping me take part in this internship program as the part of fulfillment of Bachelor Degree in Geomatics Engineering. I want to express my deepest gratitude and special thanks to HOT Executive Director, Tyler Radford and Chairperson of the Data Quality Assurance Working Group Matthew Gibb who provided me with an opportunity to be an intern in the organization. Without the support and guidance of the regional director of the Open Mapping Hub - Asia Pacific, Dr. Nama Raj Budhathoki, I may not have the energy to continue OSM journey. I would also like to thank my supervisors Mr. Sam Colchester and Ms. Rebecca Chandiru for provision of exemplary guidance, monitoring and constant encouragement throughout the intern period. Their expertise in training, program coordination and technical support in  implementation will take us far in our journey. Special thanks to all other trainers from Meta, Kontur, Youthmappers, Mapbox, OSGeo and everyone.  Lastly, I would also acknowledge with a deep sense of reverence, my gratitude towards my parents and members of our family, who have always supported me morally as well as economically. 
 
 
 > ABOUT THE AUTHOR:
