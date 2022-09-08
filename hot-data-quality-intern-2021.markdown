@@ -1,6 +1,7 @@
 ---
 title: Reflection and experiences of HOT Data Quality Intern 2021, Rabi Shresta
 date: 2022-09-08 09:37:00 Z
+published: false
 ---
 
 **Why did you choose to apply for the internship?**
@@ -47,6 +48,7 @@ Among all these projects, I mostly worked on the Zambia Local Impact Governance 
 I was keen to expand my skills and have gained a much deeper understanding of OSM. After this internship, I was also able to export OSM data to apply what I learned by preparing informative maps, tourist maps, and interactive maps. The advantage and disadvantage of OSM is that it is free and editable. So the data quality can be a problem. Quality data is key to making accurate and informed decisions. I always try to create quality edits and data, not only on OSM but any platform, and help community members to make quality edits as well. 
 
 These days, I advocate for open data and data quality because every edit matters. By being an intern, I learned about networking, communications and problem-solving. I learnt how to interact with people and that helped with my personal development. Since the day we had a meeting with HOT Executive Director, Tyler Radford, who said: " It's not just data quality, but its data quality for greater impact," I am committed to data quality. 
+
 Coming from a geomatics and mapping background, I feel I will use what I learned from this internship in disaster response, humanitarian aid and sustainable development. I am still actively working in OSM Nepal and advocating for data quality and the importance of open data. I am trying to bring the OSM movement to Nepal with the support of various OSM activists and organizations. There is no such geospatial and surveying work that I had completed without the use of OSM after this internship. I have always tried to fit OSM into the surveying work I do because I believe knowledge on OSM is my strongest tool. Now, I feel confident to work for any organization after my experience as a HOT Data Quality Intern and I  am thankful to HOT for this opportunity.
 
 
