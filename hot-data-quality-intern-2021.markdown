@@ -17,5 +17,5 @@ During the internship, I had the opportunity to communicate with fellow interns 
 
 Meeting new people is always interesting and it was even more interesting to meet the other 19 interns as they were from different countries. We were all divided by national boundaries, culture, and language but we were all united by HOT in a single classroom. The first friend I met was Tengku Almira from Indonesia who is so passionate and follows her dreams. We shared our culture, festivals, religion, geography and field of study with each other.
 
-![unnamed (2)-7346d4.png](/uploads/unnamed%20(2)-7346d4.png)
+*![unnamed (2)-7346d4.png](/uploads/unnamed%20(2)-7346d4.png)*
 
