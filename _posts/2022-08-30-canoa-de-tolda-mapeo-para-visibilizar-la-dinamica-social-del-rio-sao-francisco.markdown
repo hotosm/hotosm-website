@@ -1,5 +1,5 @@
 ---
-title: "Canoa de Tolda: Mapeo para visibilizar la dinámica social del Río São Francisco"
+title: 'Canoa de Tolda: Mapeo para visibilizar la dinámica social del Río São Francisco'
 date: 2022-08-30 05:46:00 Z
 categories:
 - Mapping
