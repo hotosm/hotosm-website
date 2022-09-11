@@ -2,9 +2,9 @@
 title: hot_tech attending SoTM& FOSS4G reflections
 date: 2022-09-09 14:08:00 Z
 published: false
-Summary Text: It will be hard to capture the connections, learning, excitement and
-  the feeling of community during State of the Map and FOSS4G but here are some highlights
-  and photos on what happened during the various days.
+Summary Text: 'It will be hard to capture the connections, learning, excitement and
+  the feeling of community during State of the Map and FOSS4G in a blog: read some
+  highlights and photos on what happened during the various days! '
 Person: Petya Kangalova
 ---
 
