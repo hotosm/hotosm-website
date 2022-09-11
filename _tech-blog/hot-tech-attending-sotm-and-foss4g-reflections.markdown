@@ -9,7 +9,6 @@ Person: Petya Kangalova
 ---
 
 Happy September everyone!! Following the hot_tech team in Florence, August 2022 blog , I wanted to share some updates and reflections after the conferences! It has been an AMAZING experience - for some of us this was the first time attending, for others not, but I’d say the excitement was the same! We were all eager to reconnect with like minded OSM enthusiasts!
-
 It will be hard to capture the connections, learning, excitement and the feeling of community in a blog post, but here are some highlights and photos on what happened during the various days ! Hopefully you find it helpful!  If you couldn’t attend the conferences in person or didn’t get a chance to connect with us, then please feel free to reach out to me directly with any questions (petya.kangalova@hotosm.org)
 
 ## What happened: sessions and reflections
