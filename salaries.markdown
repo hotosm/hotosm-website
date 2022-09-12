@@ -29,7 +29,7 @@ The HOT Salary Framework is based upon a formula made up of four factors that, w
 
 ![Salary Equation 2022.png](/uploads/Salary%20Equation%202022.png)
 
-### Role Base & Salary Scale
+## Role Base & Salary Scale
 
 The ***Role Base Salary*** is the value of work for each role in the organization based on the job description (not job title), career level, specific skills, level of supervision, education, etc. that the role requires. This is a number in USD that serves as the benchmark salary for each position in our organization. HOT partners with PayScale.com to get accurate, US national market-based salary data benchmarked to organizations sized at 150 staff in the non-profit humanitarian sector. Working with the Insight Lab at PayScale, we created an organizational salary scale(all in USD):
 ***HOT Salary Scale [in USD; non-profit factor already applied; location factor not yet applied]***
