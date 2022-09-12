@@ -45,6 +45,8 @@ The end of the of the formal conference brings us to the community code sprint. 
 ## What next:
 While we didn’t have the full hot_tech team join, I hope you connected with some of us and I am sure you will have the chance to meet others from the hot_team very soon! Now we are all back at our desks.. I know! I personally still feel energized from the motivated, passionate and welcoming people that I connected with at the conference!
 
-**Keep in touch: **would love to hear back from you! Do reach out to our hot_tech engage team: Myself and Synne (add emails and links to hotosm profile).
-**Share your experience of attending the conferences:** I loved reading OSM diaries from StOM:: https://wiki.openstreetmap.org/wiki/State_of_the_Map_2022#Write-ups
+**Keep in touch: **would love to hear back from you! Do reach out to our hot_tech engage team: Myself and Synne will be happy to  respond to you!
+
+**Share your experience of attending the conferences:** I loved reading OSM diaries from StOM:https://wiki.openstreetmap.org/wiki/State_of_the_Map_2022#Write-ups
+
 Until next time!
