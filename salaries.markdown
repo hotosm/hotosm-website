@@ -25,6 +25,17 @@ Our goals around compensation have not changed - we still want to ensure a trans
 
 ## The HOT Salary Framework
 
+The HOT Salary Framework is based upon a formula made up of four factors that, when multiplied together, determine a HOT employee’s annual salary or contractor’s hourly rate.
+
+![Salary Equation 2022.png](/uploads/Salary%20Equation%202022.png)
+
+### Role Base & Salary Scale
+
+The ***Role Base Salary*** is the value of work for each role in the organization based on the job description (not job title), career level, specific skills, level of supervision, education, etc. that the role requires. This is a number in USD that serves as the benchmark salary for each position in our organization. HOT partners with PayScale.com to get accurate, US national market-based salary data benchmarked to organizations sized at 150 staff in the non-profit humanitarian sector. Working with the Insight Lab at PayScale, we created an organizational salary scale(all in USD):
+***HOT Salary Scale [in USD; non-profit factor already applied; location factor not yet applied]***
+
+![Salary Scale 2022-eebd57.png](/uploads/Salary%20Scale%202022-eebd57.png)
+
 Each role falls within a specific grade on the scale above, identified between the hiring manager,HR, and Finance Teams at the creation of the position before any hiring is done. Certain job levels can span more than one grade, which allows for additional staff growth in those roles. Each position posted on hotosm.org includes the relevant grade from our scale and applicable salary range depending on location and experience.
 
 Next, the ***Role Base Salary*** amount is calculated at the 50th percentile of the market within Payscale’s Insight Lab platform by comparing that role to similar positions based on the job description. Note that Payscale.com publishes salaries publicly based on job title; these may not reflect the calculated salaries based on job description (not job title), career level, specific skills, level of supervision, education, etc. This ensures that the role base salary is within our scale to ensure equity at the same time it is competitive within the sector.
@@ -37,7 +48,7 @@ The “Location Factor” aims to ensure staff members receive fair, comparable 
 
 ***HOT Location Factor Matrix***
 
-![Salary Framework 2.png](/uploads/Salary%20Framework%202.png)
+![Salary Scale 2022.png](/uploads/Salary%20Scale%202022.png)
 
 The source of our location bands now comes from: 
 * Birches Group data - HOT is using this as a data source but has chosen a location factor that exceeds that found in Birches Group data for regional hub locations
