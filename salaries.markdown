@@ -49,7 +49,7 @@ The “Location Factor” aims to ensure staff members receive fair, comparable 
 
 ***HOT Location Factor Matrix***
 
-![Salary Scale 2022.png](/uploads/Salary%20Scale%202022.png)
+![Salary_Framework_2022.png](/uploads/Salary_Framework_2022.png)
 
 The source of our location bands now comes from: 
 * Birches Group data - HOT is using this as a data source but has chosen a location factor that exceeds that found in Birches Group data for regional hub locations
@@ -64,12 +64,6 @@ During the 2020 review process, the location factor was compressed from 5x from 
 * * All Regional roles have the same Location Factor
 * * All Global Nomads have the same Location Factor. Staff choosing to live outside of their ‘tax home’ are considered slightly differently from individuals living in their ‘tax home’ location. They fall into the Global Nomad category.
 * * All other roles are based on a country-specific 2-tier system Location Factor. This means there are at most 2 location factors per country, which should not be more than 1/10th different from each other.
-
-***Deployed Staff and Digital Nomads***
-
-Deployed staff are placed within the “Global Applicant Pool - Home Country-based” or “Global Applicant Pool - Nomad” column, whichever is more advantageous for each individual. 
-
-Staff choosing to live outside of their ‘tax home’ are considered slightly differently from individuals living in their ‘tax home’ location. They fall into the “Global Applicant Pool - Nomad” category. 
 
 ## Personal Capital Factor
 
