@@ -17,7 +17,7 @@ It will be hard to capture the connections, learning, excitement and the feeling
 The simple answer to the question on what happened  is A LOT! Let’s take you on a chronological journey with some key hot_tech highlights!
 
 ### 19-Aug-2022 Entry-level mobile mapping \[[slides](https://docs.google.com/presentation/d/1ari3WKxyhi-NHZ30M9IPESj7MNBCAoP37FZi5QFHf1Y/edit#slide=id.g604ad49b52662f1d_0)\]- Kristen Tonga-
-That session created some excitement and was lovely to get the feedback in the State of the Map Telegram group and some other blog posts about this being one of their favorite sessions. If you want to know more about hot_tech’s work on mobile, you can also join #mobile (add link) Slack channel.
+That session created some excitement and was lovely to get the feedback in the State of the Map Telegram group and some other blog posts about this being one of their favourite sessions. If you want to know more about hot_tech’s work on mobile, you can also join #mobile Slack channel.
 
 ### 21 August Investigating the capability of UAV imagery in AI-assisted mapping of Refugee Camps in East Africa, Academic Lightning Talks 1 -Omran, Christopher (HOT volunteer) \[[slides](https://docs.google.com/presentation/d/1VQQqn3RPat8zzQSuNrcaEch5ExnSyqy6/edit#slide=id.p1)\]
 
