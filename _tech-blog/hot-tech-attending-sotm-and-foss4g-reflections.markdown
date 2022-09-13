@@ -1,6 +1,6 @@
 ---
 title: hot_tech attending SoTM& FOSS4G highlights
-date: 2022-09-09 14:08:00 Z
+date: 2022-09-09 16:48:00 Z
 published: false
 tags:
 - hot_tech
@@ -47,7 +47,7 @@ First time for both Ichchha and myself attending, we really enjoyed the opportun
 Last, but not least, DK did a lighting talk on using terraform!
 
 ### 27-Aug-2022  Community Code Sprint time!
-The end of the of the formal conference brings us to the community code sprint. Can you see the smiley faces? :) I would say the passionate tech community never gets tired! Rob, Ramya and Kshitij were there to talk to participants about hot_tech!
+The end of the of the formal conference brings us to the community code sprint. I would say the passionate tech community never gets tired! Rob, Ramya and Kshitij were there to talk to, and work together with, participants on the hot_tech tools and products.
 
 ## What next:
 While we didn’t have the full hot_tech team join, I hope you connected with some of us and I am sure you will have the chance to meet others from the hot_team very soon! Now we are all back at our desks.. I know! I personally still feel energized from the motivated, passionate and welcoming people that I connected with at the conference!
