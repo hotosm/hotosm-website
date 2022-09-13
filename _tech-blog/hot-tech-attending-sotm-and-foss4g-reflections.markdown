@@ -9,19 +9,20 @@ Summary Text: 'It will be hard to capture the connections, learning, excitement 
 Person: Petya Kangalova
 ---
 
-Happy September everyone!! Following the hot_tech team in Florence, August 2022 blog , I wanted to share some updates and reflections after the conferences! It has been an AMAZING experience - for some of us this was the first time attending, for others not, but I’d say the excitement was the same! We were all eager to reconnect with like minded OSM enthusiasts!
-It will be hard to capture the connections, learning, excitement and the feeling of community in a blog post, but here are some highlights and photos on what happened during the various days ! Hopefully you find it helpful!  If you couldn’t attend the conferences in person or didn’t get a chance to connect with us, then please feel free to reach out to me directly with any questions (petya.kangalova@hotosm.org)
+Happy September everyone! Following the hot_tech team in Florence, August 2022 blog, I wanted to share some updates and reflections after the conferences. It has been an AMAZING experience - for some of us this was the first time attending, for others not, but I’d say the excitement was the same. We were all eager to reconnect with like minded OSM enthusiasts!
+
+It will be hard to capture the connections, learning, excitement and the feeling of community in a blog post, but here are some highlights and photos on what happened during the various days. Hopefully you find it interesting! If you couldn’t attend the conferences in person or didn’t get a chance to connect with us, then **please feel free to reach out to me directly with any questions (petya.kangalova@hotosm.org)**
 
 ## What happened: sessions and reflections
 
 The simple answer to the question on what happened  is A LOT! Let’s take you on a chronological journey with some key hot_tech highlights!
 
-### 19-Aug-2022 Entry-level mobile mapping \[[slides](https://docs.google.com/presentation/d/1ari3WKxyhi-NHZ30M9IPESj7MNBCAoP37FZi5QFHf1Y/edit#slide=id.g604ad49b52662f1d_0)\]- Kristen Tonga-
+### 19-Aug-2022 **Entry-level mobile mapping** \[[slides](https://docs.google.com/presentation/d/1ari3WKxyhi-NHZ30M9IPESj7MNBCAoP37FZi5QFHf1Y/edit#slide=id.g604ad49b52662f1d_0)\] - Kristen Tonga (developer) 
 That session created some excitement and was lovely to get the feedback in the State of the Map Telegram group and some other blog posts about this being one of their favourite sessions. If you want to know more about hot_tech’s work on mobile, you can also join #mobile Slack channel.
 
-### 21 August Investigating the capability of UAV imagery in AI-assisted mapping of Refugee Camps in East Africa, Academic Lightning Talks 1 -Omran, Christopher (HOT volunteer) \[[slides](https://docs.google.com/presentation/d/1VQQqn3RPat8zzQSuNrcaEch5ExnSyqy6/edit#slide=id.p1)\]
+### 21-August-2022 **Investigating the capability of UAV imagery in AI-assisted mapping of Refugee Camps in East Africa** (Academic Lightning Talks) [[slides](https://docs.google.com/presentation/d/1VQQqn3RPat8zzQSuNrcaEch5ExnSyqy6/edit#slide=id.p1)\] - Christopher Chan (HOT volunteer), Omran Najjar (AI engineer)
 
-Interested in AI assisted mapping and not had a chance to speak to Omran or Christoper, please reach out to them!
+Interested in AI assisted mapping and not had a chance to speak to Omran or Christoper? Please reach out to them!
 
 ### 22-Aug-2022 [UnSummit hot_tech workshop](https://docs.google.com/presentation/d/1VQQqn3RPat8zzQSuNrcaEch5ExnSyqy6/edit#slide=id.p1) \[[slides](https://drive.google.com/file/d/1xar6ORm6onv7x2jlB7Hm4OdT44XoqnRd/view?usp=sharing)\]
 We had our first hot_tech session as part of the unSummit. A small group of around 20 people joined us, met the hot_tech team, had discussions in small groups on products they were interested in and we also heard from the group on what they liked or want to improve in some of the hot_tech tools.  If you missed the session, please continue engaging on the [OSM Discourse platform](https://community.openstreetmap.org/t/engaging-with-hot-tech-at-sotm-foss4g-what-do-you-want-to-know-more-about/2143).
