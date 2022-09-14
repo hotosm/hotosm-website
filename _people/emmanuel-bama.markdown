@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Job Title: Open Tech and Innovation Specialist - West and Northern Africa
 Team: West and Northern Africa Hub
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Emmanuel%20Bama
 ---
 
 Emmanuel holds a design engineering degree in computer science option networks telecommunications and systems.
