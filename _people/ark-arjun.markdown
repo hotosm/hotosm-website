@@ -6,7 +6,7 @@ Member Type:
   Is Voting Member: true
 Country: India
 Social Media (Full URL):
-  OSM: arkarjun
+  OSM: ark Arjun
 ---
 
 I’m Arjun Gangadharan a.k.a. Ark Arjun, a Geospatial, Civil engineer from Palakkad, in the valley of the Western Ghats in the south of India. I do blogs about OSM and Mapping. I am a trainer of  OSM and used to conduct many training and mapping parties for the newbies. I am an active member of the OSMKerala community and OSM India.
