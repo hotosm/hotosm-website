@@ -53,6 +53,6 @@ While we didn’t have the full hot_tech team join, I hope you connected with so
 
 **Keep in touch:** we would love to hear back from you! Do reach out to our hot_tech engage team: Myself (petya.kangalova@hotosm.org), and Open Innovation Facilitator, Synne (synne.olsen@hotosm.org), will be happy to respond to you!
 
-**Share your experience of attending the conferences:** I loved reading OSM diaries from [[SoTM](https://wiki.openstreetmap.org/wiki/State_of_the_Map_2022#Write-ups\].
+**Share your experience of attending the conferences:** I loved reading OSM diaries from \[[SoTM](https://wiki.openstreetmap.org/wiki/State_of_the_Map_2022#Write-ups\].
 
 Until next time! 
