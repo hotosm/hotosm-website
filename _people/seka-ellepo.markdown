@@ -4,7 +4,7 @@ date: 2020-08-24 12:39:00 Z
 Photo: https://cdn.hotosm.org/website/Seka+pic.jpg
 Member Type:
   Is Staff: true
-Job Title: Senior Global Finance Manager
+Job Title: Head of Finance and Compliance
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Seka%20Ellepo
 ---
