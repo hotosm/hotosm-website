@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/GeoffreyKateregga.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Community Manager  - Eastern and Southern Africa
+Job Title: Community Projects Lead - Eastern and Southern Africa
 Working Group:
 - Training
 - Community
