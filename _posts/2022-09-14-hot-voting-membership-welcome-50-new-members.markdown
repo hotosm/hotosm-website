@@ -1,7 +1,6 @@
 ---
 title: HOT Voting Membership - Welcome 50 New Members!
 date: 2022-09-14 11:05:00 Z
-published: false
 Summary Text: We are happy to announce that 50 new members have been elected to HOT’s
   Voting Membership (VM)! HOT’s Voting Membership has grown to 266 members from all
   across the globe. These 50 new members come from 29 different countries and are
