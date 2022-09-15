@@ -4,7 +4,7 @@ date: 2022-09-14 11:05:00 Z
 published: false
 ---
 
-![unnamed-c4d260.png](/uploads/unnamed-c4d260.png)
+![Copy of Voting member infographics.png](/uploads/Copy%20of%20Voting%20member%20infographics.png)
 
 > We are happy to announce that 50 new members have been elected to HOT’s Voting Membership (VM)! HOT’s Voting Membership has grown to 266 members from all across the globe. These 50 new members come from 29 different countries and are helping us build a more diverse and equitable community. A few insights about how our membership is changing.
 
