@@ -1,9 +1,10 @@
 ---
 title: Inna Nogeste
 date: 2020-02-08 20:58:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Inna_Nogeste.jpeg
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Executive Assistant
 Country: Australia
 Team: Global
