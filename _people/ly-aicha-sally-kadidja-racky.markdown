@@ -5,6 +5,6 @@ Member Type:
   Is Voting Member: true
 Country: Côte d'Ivoire
 Social Media (Full URL):
-  OSM: racky
+  OSM: https://www.openstreetmap.org/user/racky
 ---
 
