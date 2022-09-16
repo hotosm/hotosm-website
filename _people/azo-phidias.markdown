@@ -5,7 +5,7 @@ Member Type:
   Is Voting Member: true
 Country: Benin
 Social Media (Full URL):
-  OSM: PhidiasAZO
+  OSM: https://www.openstreetmap.org/user/PhidiasAZO
 ---
 
 Lawyer specialised in taxation, passionate of OSM, and member of OSM community in BENIN.
