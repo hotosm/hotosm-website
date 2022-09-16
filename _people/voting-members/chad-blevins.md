@@ -11,6 +11,7 @@ Country: United States
 Social Media (Full URL):
   OSM: https://osm.org/user/geocruizer
   Twitter: https://twitter.com/geocruizer
+  LinkedIn: https://www.linkedin.com/in/chad-blevins-5590b352/
 redirect_from:
 - "/users/chad_blevins"
 ---
