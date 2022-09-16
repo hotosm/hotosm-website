@@ -8,3 +8,4 @@ Social Media (Full URL):
   OSM: PhidiasAZO
 ---
 
+Lawyer specialised in taxation, passionate of OSM, and member of OSM community in BENIN.
