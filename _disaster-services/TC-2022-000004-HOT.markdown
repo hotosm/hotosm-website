@@ -1,0 +1,20 @@
+---
+title: Tropical Cyclone Fiona Alert
+date: 2022-09-17 08:19:00 Z
+Glide: TC-2022-000004-HOT
+Event Name: Tropical Cyclone for FIONA-22
+GDACS ID: TC 1000916
+GDACS-level: Orange (1.5)
+Country:
+- Puerto Rico
+- Dominican Republic
+Event type: TC Tropical Cyclone
+Summary Text: Disaster Services is currently monitoring this event in the Caribe.
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+source: <a href="https://www.gdacs.org/report.aspx?eventid=1000916&episodeid=19&eventtype=TC"
+  target="_blank">GLIDE</a>
+---
+
+"Tropical Cyclone FIONA-22 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability."
