@@ -5,6 +5,7 @@ Photo: https://cdn.hotosm.org/website/Seka+pic.jpg
 Member Type:
   Is Staff: true
 Job Title: Head of Finance and Compliance
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Seka%20Ellepo
 ---
