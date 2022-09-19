@@ -2,7 +2,7 @@
 title: Tropical Cyclone Fiona Alert
 date: 2022-09-17 08:19:00 Z
 Glide: TC-2022-000004-HOT
-Event Name: Tropical Cyclone for FIONA-22
+Event Name: Tropical Cyclone FIONA-22
 GDACS ID: TC 1000916
 GDACS-level: Orange (1.5)
 Country:
