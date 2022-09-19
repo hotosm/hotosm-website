@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/GeoffreyKateregga.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: 'Community Projects Lead '
+Job Title: Community Projects Lead
 Working Group:
 - Training
 - Community
@@ -24,7 +24,7 @@ redirect_from:
 - "/users/geoffrey_kateregga"
 ---
 
-<p>Geoffrey currently serves as the Community Projects Lead in the Community Team. Geoffrey has been involved in HOT since 2015 working on different country projects including Ramani Huria in <a href="http://hotosm.org/where-we-work/tanzania">Tanzania</a>, Financial Inclusion, and Refugee Mapping in <a href="https://www.hotosm.org/where-we-work/uganda/">Uganda</a>, LEGIT in <a href="https://www.hotosm.org/where-we-work/liberia/">Liberia</a>.</p>
+Geoffrey currently serves as the Community Projects Lead in the Community Team. Geoffrey has been involved in HOT since 2015 working on different country projects including Ramani Huria in <a href="http://hotosm.org/where-we-work/tanzania">Tanzania</a>, Financial Inclusion, and Refugee Mapping in <a href="https://www.hotosm.org/where-we-work/uganda/">Uganda</a>, LEGIT in <a href="https://www.hotosm.org/where-we-work/liberia/">Liberia</a>.
 
-<p>Geoffrey is also an active member of the OpenStreetMap Africa community - a network of local OpenStreetMap communities from all over Africa organizing <a href="https://stateofthemap.africa/">State of the Map Africa</a> and joining hands to share resources and collaborate to grow and produce a complete and well-detailed map of Africa on OpenStreetMap in order to advance the quality, completeness, and sustainability of geospatial data in Africa.</p>
+Geoffrey is also an active member of the OpenStreetMap Africa community - a network of local OpenStreetMap communities from all over Africa organizing <a href="https://stateofthemap.africa/">State of the Map Africa</a> and joining hands to share resources and collaborate to grow and produce a complete and well-detailed map of Africa on OpenStreetMap to advance the quality, completeness and sustainability of geospatial data in Africa.
 
