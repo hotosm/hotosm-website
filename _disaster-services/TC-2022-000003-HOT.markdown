@@ -1,0 +1,19 @@
+---
+title: Typhoon Nanmadol Alert
+date: 2022-09-16 07:58:00 Z
+Glide: TC-2022-000003-HOT
+Event Name: Overall Orange alert Tropical Cyclone for NANMADOL-22
+GDACS ID: TC 1000915
+GDACS-level: 2.5 (Orange)
+Country:
+- Japan
+Event type: TC Tropical Cyclone
+Summary Text: Disaster Services is currently monitoring this event in Japan.
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+source: <a href="https://gdacs.org/report.aspx?eventid=1000915&episodeid=17&eventtype=TC"
+  target="_blank">GDACS</a>
+---
+
+"Tropical Cyclone NANMADOL-22 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability."
