@@ -8,7 +8,7 @@ tags:
 Summary Text: It will be hard to capture the connections, learning, excitement and
   the feeling of community during State of the Map and FOSS4G in a blog, but here
   are a few highlights and photos on what happened during the various days! Hope you
-  enjoy it! 
+  enjoy it!
 Person: Petya Kangalova
 ---
 
