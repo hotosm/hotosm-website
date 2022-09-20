@@ -5,10 +5,10 @@ tags:
 - hot_tech
 - sotm
 - foss4g
-Summary Text: 'It will be hard to capture the connections, learning, excitement and
+Summary Text: It will be hard to capture the connections, learning, excitement and
   the feeling of community during State of the Map and FOSS4G in a blog, but here
   are a few highlights and photos on what happened during the various days! Hope you
-  enjoy it! '
+  enjoy it! ![IMG_0422 (1).jpg](/uploads/IMG_0422%20(1).jpg)
 Person: Petya Kangalova
 ---
 
@@ -37,7 +37,7 @@ We loved the interest we had from participants at both State of the Map and FOSS
 
 ### 25-Aug-2022 **OpenAerialMap V2 Design and Development** \[[slides](https://docs.google.com/presentation/d/13eS-Wf_voSd4svGAsPChC356JCts738nWqRPqL3qn5U/edit#slide=id.g144759e7a20_0_1039)\] - Crisitano Giovando & DK Benjamin
 In collaboration with Kontur, DK and Cristiano presented the OAM V2 redesign! Lots of appreciation from the community on the use of Open Aerial Map and excitement about what is to come next! We hope that the community will continue to be involved as we continue with the implementation of the OAM V2 redesign.
-[OSM.PNG](/uploads/OSM.PNG)
+![IMG_0422 (1)-32e530.jpg](/uploads/IMG_0422%20(1)-32e530.jpg)
 
 ### 26-Aug-2022 **Open Tech Collective: sharing HOT’s journey** \[[slides](https://drive.google.com/file/d/1QUEQYBe7tbDzf0pYLGf50Ox3NnxIKbtT/view?usp=sharing)\] - Petya Kangalova & Ichchha Moktan (KLL)
 First time for both Ichchha and myself attending, we really enjoyed the opportunity to connect with people and enjoyed the questions & appreciation from the community on the Tasking Manager tech collective approach! Make sure you [register](https://forms.gle/ayM7UN6fuXXWadbM8) and join our regular monthly Tasking Manager meet ups!
@@ -47,6 +47,7 @@ Last, but not least, DK did a lighting talk on using terraform!
 
 ### 27-Aug-2022  **Community Code Sprint time!**
 The end of the of the formal conference brings us to the community code sprint. I would say the passionate tech community never gets tired! Rob, Ramya and Kshitij were there to talk to, and work together with, participants on the hot_tech tools and products.
+[FbKMlq7VsAIntbm.jfif](/uploads/FbKMlq7VsAIntbm.jfif)
 
 ## What next:
 While we didn’t have the full hot_tech team join, I hope you connected with some of us and I am sure you will have the chance to meet others from the hot_team very soon! Now we are all back at our desks.. I know! I personally still feel energized from the motivated, passionate and welcoming people that I connected with at the conference!
