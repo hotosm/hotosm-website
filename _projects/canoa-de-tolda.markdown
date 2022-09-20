@@ -16,6 +16,7 @@ Country:
 Impact Area:
 - Disasters & Climate  Resilience
 - Sustainable Cities & Communities
+- 'IMPACT AREAS:'
 Duration:
   End Date: 2022-08-22 00:00:00 Z
 Data:
