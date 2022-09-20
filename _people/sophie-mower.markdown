@@ -6,6 +6,7 @@ Member Type:
   Is Staff: true
 Job Title: Senior Manager, Community Services
 Country: United Kingdom
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/se_mower
 ---
