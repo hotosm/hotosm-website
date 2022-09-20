@@ -15,6 +15,7 @@ Country:
 Impact Area:
 - Sustainable Cities & Communities
 - Public Health
+- 'IMPACT AREAS:'
 Person:
 - - Carter Draper
   - Duncan Kebut

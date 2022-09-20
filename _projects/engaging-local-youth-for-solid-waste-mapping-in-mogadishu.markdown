@@ -7,6 +7,7 @@ Country:
 - Somalia
 Impact Area:
 - Sustainable Cities & Communities
+- 'IMPACT AREAS:'
 Person:
 - Immaculata Mwanja
 - Riley Moepswa
