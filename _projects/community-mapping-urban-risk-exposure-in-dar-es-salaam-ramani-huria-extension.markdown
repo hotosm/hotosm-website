@@ -15,6 +15,9 @@ Impact Area:
 Partner:
 - World Bank
 - U.K. Department for International Development (DfID)
+Duration:
+  Start Date: 2020-05-19 00:00:00 Z
+  End Date: 2021-06-30 00:00:00 Z
 ---
 
 Tanzania is the most flood-affected country in East Africa, and city governments across the country are underprepared to meet the challenges of urbanization, including the increased vulnerability to climate-related hazards. At the same time, Tanzanian towns and cities have undergone a massive spatial expansion.
