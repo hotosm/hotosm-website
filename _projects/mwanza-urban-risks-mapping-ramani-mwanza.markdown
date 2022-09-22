@@ -11,6 +11,9 @@ Country:
 Impact Area:
 - Sustainable Cities & Communities
 - Disasters & Climate  Resilience
+Duration:
+  Start Date: 2020-09-05 00:00:00 Z
+  End Date: 2021-02-28 00:00:00 Z
 ---
 
 Mwanza is the second-largest city in Tanzania with a population of about 1.2 million people. Located on the shores of Lake Victoria, it is characterized by highly dissected steep slopes, rocky hills, narrow interfluves, and river valleys.
