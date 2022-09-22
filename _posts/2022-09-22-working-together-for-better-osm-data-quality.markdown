@@ -6,8 +6,6 @@ Is image top aligned: true
 Person: Paul Uithol
 ---
 
-![unnamed-55614c.jpeg](/uploads/unnamed-55614c.jpeg)
-
 **What we learned at State of the Map 2022**
 
 At State of the Map in Florence, HOT’s Data team, in collaboration with our Tech team, members of the Quality Assurance & Control working group, Training working group, and HeiGIT, organized several sessions focusing on identifying and addressing data quality issues in OpenStreetMap (OSM). The data quality discussion session was attended by 30 participants, representing diverse interests and organizations. 
