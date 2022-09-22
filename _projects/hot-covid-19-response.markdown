@@ -23,6 +23,7 @@ Person:
 - Shamilah Ssekandi Nassozi
 Duration:
   Start Date: 2020-03-24 00:00:00 Z
+  End Date: 2021-01-20 00:00:00 Z
 ---
 
 Multiple, ongoing crises will be exacerbated by COVID-19. These crises include those trapped or displaced by conflict and living in close quarters like refugee camps and informal settlements for whom social distancing may not be possible, as well as populations with additional vulnerability, e.g. people living with TB or HIV/AIDs.
