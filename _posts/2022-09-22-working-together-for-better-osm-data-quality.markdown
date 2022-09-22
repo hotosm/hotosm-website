@@ -1,7 +1,6 @@
 ---
 title: Working together for better OSM data quality
 date: 2022-09-22 10:29:00 Z
-published: false
 categories:
 - data
 tags:
