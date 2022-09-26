@@ -11,6 +11,10 @@ Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/se_mower
 ---
 
-As Senior Manager, Community Services in HOT’s Community & Transformation team, Sophie’s role is to use an open innovation approach to work with global and regional teams to develop, test, and scale different community support elements. With a focus on delivering the microgrants program, Sophie co-creates support methods for sustainability plans with OSM communities, analyses support impact, and contributes to the development of networks of humanitarian OpenStreetMap contributors and communities.
+Sophie leads the Community Services team, a sub-pillar of HOT’s Community team. Using an open innovation approach, Sophie works closely with regional and functional teams to develop, test, and scale different elements of community support. This includes: 
+* Providing workflows to guide user-centred programming
+* Facilitating dialogues and learning processes to enable peer-to-peer knowledge sharing
+* Enabling the development of strong foundations for best practices for community building initiatives through supporting investment initiatives
+* Making actionable recommendations (informed by rigorous people-led research) for sustainable community development 
 
 Sophie joined the HOT team in April 2020 but has been contributing to the HOTs mission as a volunteer since 2017. Sophie’s background is in community development and Inclusive Innovation. Her previous experience includes establishing a Maker Space at the Bahir Dar Institute of Technology in Bahir Dar, Ethiopia, and co-founding the First Steps Project, a UK-based non-for-profit that ran workshops and training programs for young people living in areas of deprivation.
