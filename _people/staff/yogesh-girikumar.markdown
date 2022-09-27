@@ -4,7 +4,7 @@ date: 2020-10-16 03:05:00 Z
 Photo: https://cdn.hotosm.org/website/YogeshGirikumar.jpeg
 Member Type:
   Is Staff: true
-Job Title: Technical Projects Coordinator
+Job Title: Solutions Architect
 Working Group:
 - Technical
 Country: India
