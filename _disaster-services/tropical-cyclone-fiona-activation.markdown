@@ -1,6 +1,6 @@
 ---
 title: Tropical Cyclone Fiona Activation
-date: 2022-09-27 19:50:00 Z
+date: 2022-09-21 19:50:00 Z
 Glide: TC-2022-000004-HOT
 Event Name: Tropical Cyclone FIONA-22
 Country:
