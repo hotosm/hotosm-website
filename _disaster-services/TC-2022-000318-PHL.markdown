@@ -19,7 +19,3 @@ source: <a href="https://www.gdacs.org/report.aspx?eventid=1000922&episodeid=25&
 ---
 
 "Tropical Cyclone NORU-22 can have a high humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability." 
-
-<embed src="https://reliefweb.int/attachments/17bf6798-3064-45e1-a489-223994bee8c1/PDC%20-%20Typhoon%20Noru%20Philippines%20-%20PDC_UNOCHA_WFP%20JADE%2C%2025SEP2022.pdf" width="500" height="375">
-
-Source: ReliefWeb

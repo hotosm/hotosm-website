@@ -39,5 +39,3 @@ Status: size-up
 <strong>Active Orgs:</strong> OSM PH, OSM VN, HOT<br>
 <strong>Lead Orgs:</strong> OSM PH, OSM VN<be>
 
-
-Source: ReliefWeb
