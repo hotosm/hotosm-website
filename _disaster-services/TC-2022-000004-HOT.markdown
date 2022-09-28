@@ -14,7 +14,7 @@ Feature Image: TC Tropical Cyclone
 Status: alert
 Post-type: update
 source: <a href="https://www.gdacs.org/report.aspx?eventid=1000916&episodeid=19&eventtype=TC"
-  target="_blank">GLIDE</a>
+  target="_blank">GDACS</a>
 ---
 
 "Tropical Cyclone FIONA-22 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability."
