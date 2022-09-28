@@ -1,0 +1,27 @@
+---
+title: Tropical Cyclone Noru Alert
+date: 2022-09-25 09:07:00 Z
+Glide: TC-2022-000318-PHL
+Event Name: Tropical Cyclone for NORU-22
+GDACS ID: TC 1000922
+GDACS-level: Red (2.5)
+Country:
+- Vietnam
+- Laos
+- Philippines
+Event type: TC Tropical Cyclone
+Summary Text: Disaster Services is currently monitoring this event in Asia Pacific.
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+source: <a href="https://www.gdacs.org/report.aspx?eventid=1000922&episodeid=25&eventtype=TC"
+  target="_blank">GDACS</a>
+---
+
+"Tropical Cyclone NORU-22 can have a high humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability." 
+
+
+
+    <iframe src="https://reliefweb.int/attachments/17bf6798-3064-45e1-a489-223994bee8c1/PDC%20-%20Typhoon%20Noru%20Philippines%20-%20PDC_UNOCHA_WFP%20JADE%2C%2025SEP2022.pdf" width="100%" height="500px">
+    </iframe>
+Source: ReliefWeb
