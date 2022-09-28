@@ -40,6 +40,4 @@ Status: size-up
 <strong>Lead Orgs:</strong> OSM PH, OSM VN<be>
 
 
-    <iframe src="https://reliefweb.int/attachments/77f450fa-929a-4520-8080-c7e5643f340d/PDC%20-%20Typhoon%20Noru%20Vietnam%20-%20PDC_UNOCHA_WFP%20JADE%2026SEP2022%202100%20UTC.pdf" width="100%" height="500px">
-    </iframe>
 Source: ReliefWeb
