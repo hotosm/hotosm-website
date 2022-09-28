@@ -32,8 +32,7 @@ Status: size-up
 <strong>Estimated Humanitarian Impact:</strong> 1.1 million in Category 1 or higher<br>
 <strong>Estimated Duration:</strong> Weeks to Months
 <br>
-<strong>Anticipated Needs:</strong> Likely support for local community initiatives
-<be>
+<strong>Anticipated Needs:</strong> Likely support for local community initiatives<br>
 <strong>Local Contacts:</strong> OSM PH, OSM VN<br>
 <strong>Request(s):</strong> There are no requests from partners currently<br>
 <strong>Need for Activation:</strong> Possibly<br>
