@@ -17,7 +17,7 @@ Partner:
 - Spatial Collective
 Duration:
   Start Date: 2021-06-01 00:00:00 Z
-  End Date: 2022-05-31 00:00:00 Z
+  End Date: 2022-09-30 00:00:00 Z
 ---
 
 Across urban areas of Somalia a rough estimate of 3,700 metric tons of solid waste is generated each day. Mogadishu, the largest urban center and a safe haven for internally displaced persons as a result of cyclical floods, droughts, and a locust outbreak, has an arbitrary solid waste management program lacking a strategic framework to meet the demands of its growing urban population. 
