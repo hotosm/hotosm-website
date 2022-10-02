@@ -50,18 +50,21 @@ My Professional  mapping experience 
 
 Through this program I would like to improve my knowledge of OpenStreetMap data validation and quality control tools and share this knowledge with other contributors so that together we can contribute to the quality of OSM data and it can be used effectively for community development.
 
+![Eray_Öztürk 4x4.jpg](/uploads/Eray_O%CC%88ztu%CC%88rk%204x4.jpg)
 **Eray Öztürk**
 
 I joined my mapping life at a Missing Map event in 2017. I just started mapping with the OSM id Editor. I didn’t do much mapping until I met the Yer Çizenler Mapping for Everyone Association. They taught me about the usage and detail of OpenStreetMap. After a period of time, I volunteered with them and participated in their activities. I participated in the Mapping Unmapped towns in Turkey event with Yer Çizenler and Youth Season. I participated in natural hazard, disaster, and open data studies in partnership with Friedrich-Naumann Foundation, TESEV and Yer Çizenler. Also, I am currently actively mapping on OpenStreetMap.
 
 The reason I joined this program is so that I can now learn more with open data (JOSM etc.). I will be able to help people who need help, even from a distance, as much as I can.
 
+![Shabani Mugawila 4x4.jpg](/uploads/Shabani%20Mugawila%204x4.jpg)
 **Shabani Magawila**
 
 Shabani Magawila used to be the president of IRDP YouthMappers in Mwanza and supervisor at IRDP YouthMappers in Dodoma. He graduated from IRDP with a Bachelor’s Degree in Urban Development and Environmental Management. He has been volunteering for OpenStreetMap and YouthMappers since 2017, including through projects like Ramani Huria as Junior Supervisor, WomenConnect as Validator and GIS Analyst and Mnadani Community Mapping as Project Leader. 
 
 Shabani is self-motivated, using GIS and Remote Sensing to help urban, marine, and environmental planners to better plan; and is excited to work with the community and other stakeholders to ensure improved quality of life for both rural and urban residents.
 
+![Manish_Adhikari 4x4.jpg](/uploads/Manish_Adhikari%204x4.jpg)
 **Manish Adhikari**
 
 I’m Manish Adhikari, currently pursuing a Bachelors degree in Geomatics Engineering at Paschimanchal Campus, Pokhara. I started my OSM journey with the inspiration from great mappers of GESAN, WRC. I just used to map for fun at mapathons. Then I learned many new things that OSM can play an important role for, such as humanitarian activities, emergency preparedness, project data and many more. Now I’m an Advanced level mapper and have already participated in many mapping projects all over world. I also have a little experience as a trainer for beginner level mappers. I want to expand my mapping skill more, and this internship will be great opportunity for me to reach many milestones in quality mapping and data analysis.
