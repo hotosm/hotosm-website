@@ -2,6 +2,7 @@
 title: Kicking off the Data Quality Internship 2022!
 date: 2022-10-02 18:55:00 Z
 Summary Text: Another year, another Data Quality Internship!
+Person: Rebecca Chandiru
 ---
 
 The Humanitarian OpenStreetMap Team’s (HOT) Data Quality Internship has been an annual program since 2020. The 2022 Data Quality Internship (DQI) years program will host 27 interns from 18 countries, and will build on the successes and lessons learned from past programs. 
@@ -154,3 +155,11 @@ I learned about OpenStreetMap during the epidemic and signed up for a workshop h
 Quang Huy NGUYEN
 
 I am a student in Politecnico di Milano majoring in Landscape Architecture, Urbanism, and Regional Planning. I have interests in GIS, Open Mapping, Volunteered geographic information, Landscape and Urban Analyst, Data Visualization and Cartography. I love participating in workshops, research and community activities. I am also a member of OpenStreetMap Vietnam and Polimapper. I am always curious about data quality, especially geospatial data quality. I hope that during my internship, I could have a clearer view on the good quality of OSM Data and how we can enhance the existing one.
+
+## About the Program
+
+Data Quality Interns will be trained on how to validate projects using the HOT Tasking Manager. We aim to validate 90 projects in the three month long program. Training opportunities will include quality assurance and quality control and will include the usage of a range of open source tools. HOT’s [Data Principals](https://www.hotosm.org/updates/data-principles/) will be used to communicate the importance of data quality and its maintenance. 
+
+To ensure continued engagement with HOT’s validation community and data quality activities, we are working to evolve a sustainability model at the end of the program - more to come on this in the coming months!
+
+We would like to extend our thanks to [MSF](https://www.msf.org/) for the sponsorship of 4 of the interns. 
