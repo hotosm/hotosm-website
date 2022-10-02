@@ -69,6 +69,7 @@ Shabani is self-motivated, using GIS and Remote Sensing to help urban, marine, a
 
 I’m Manish Adhikari, currently pursuing a Bachelors degree in Geomatics Engineering at Paschimanchal Campus, Pokhara. I started my OSM journey with the inspiration from great mappers of GESAN, WRC. I just used to map for fun at mapathons. Then I learned many new things that OSM can play an important role for, such as humanitarian activities, emergency preparedness, project data and many more. Now I’m an Advanced level mapper and have already participated in many mapping projects all over world. I also have a little experience as a trainer for beginner level mappers. I want to expand my mapping skill more, and this internship will be great opportunity for me to reach many milestones in quality mapping and data analysis.
 
+![Kingsley Chika CHUKWU 4x4.jpg](/uploads/Kingsley%20Chika%20CHUKWU%204x4.jpg)
 **Kingsley Chika CHUKWU**
 
 Kingsley Chika CHUKWU is a YouthEmpowerment, Mapping and Training Associate of Unique Mappers OpenStreetMap Community, Nigeria. He is also a HOT-voting member, FIG, NIS and OSMF. He is a National Diploma graduate and about to graduate from the University of Nigeria, Nsukka with a BSc. in Geoinformatics and Surveying.
