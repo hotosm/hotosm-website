@@ -85,22 +85,26 @@ Motivation
 * Acquire skills to sustain my volunteering passion.
 * Share experience to train others contribute quality data to OSM.
 
+![Supath Dhital 4x4.jpg](/uploads/Supath%20Dhital%204x4.jpg)
 **Supath Dhital**
 
 Being a geospatial data enthusiast, I am a self-motivated mapper and have more than 2 years of open data experience. Working as a remote mapper at Kathmandu Living Labs (KLL) for numerous national and international projects and continuously volunteering from my side, as well as engaging in many webinars and training others in basic mapping, help me boost my knowledge in mapping.
 
 Promoting the open data, delivering the quality data to the users and by learning the tools and techniques from internship and flow this experience to the new digital volunteers and making quality assured and building a self-motivated community motivated me to join the program. 
 
+![Gorakh Nath Pandey 4x4.jpg](/uploads/Gorakh%20Nath%20Pandey%204x4.jpg)
 **Gorakh Nath Pandey**
 
 Over the course of my OSM journey, I have participated in numerous projects that are relevant to OSM. My professional development has been aided by the training I’ve both received and provided. I participated in the UN mapping training on “OpenStreetMap and humanitarian mapping” as one of the mappers. I was motivated to undertake this internship because I wanted to enhance my mapping profession and spread my knowledge more widely. In order to ensure data quality in the mapping field and to provide more spatial data, I was very inspired to join this program as OSM is most vital for geospatial, disaster response, sustainable communities, and several other significant projects.
 
+![Ssekitoleko Derick 4x4.jpg](/uploads/Ssekitoleko%20Derick%204x4.jpg)
 **Ssekitoleko Derick**
 
 Ssekitoleko Derick is a Humanitarian Digital Disaster Responder. He responds to disasters through mapping while creating free Data for humanitarian Organizations. After four years working as a volunteer mapper and validator with OpenStreetMap and Humanitarian OpenStreetMap team, he realized that data produced by beginner mappers is not of a high quality yet. He believes higher quality data is important and needed for better planning. That’s why he decided to apply for the Data Quality Internship program: to gain more skills in providing higher quality data.
 
 He also believes that free higher quality data is one of the fundamental tools in better planning and development; most especially in developing countries like his country of Uganda, where such data is still missing.
 
+![Anisa Dhakal 4x4.jpg](/uploads/Anisa%20Dhakal%204x4.jpg)
 **Anisa Dhakal**
 
 I was made familiar with OSM platform in my first year of Bachelor Degree of Geomatics Engineering through ‘Youth Mapper University Chapter GESAN’. Then, I made my OSM profile on May 13th 2020.
