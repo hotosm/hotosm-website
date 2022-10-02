@@ -31,10 +31,12 @@ My name is Daniel Osei Agyeman, and I’ve been a young mapper since 2016. Durin
 
 While working on various field projects in Ghana, particularly in the north, I became acutely aware of the use of the data that we generate remotely, as well as the difficulties that arise when such data is of poor quality. I am inspired to participate in this internship in order to obtain more information and abilities to help me generate more quality data to help both on-field and off-field professionals in their area of work. Also, the fact that I can share the information I receive here with my local youth mappers chapter so that we can continue to develop quality data to be utilized to tackle challenges in our society.
 
+![Sangeeta BC 4x4.jpg](/uploads/Sangeeta%20BC%204x4.jpg)
 **Sangeeta B.C.**
 
 I am currently pursuing a Bachelor’s degree in Geomatics Engineering at the Paschimanchal Campus in Pokhara. I am the current secretary of the Geomatics Engineering Students Association of Nepal (GESAN). Regarding my OSM journey, I initially heard about OSM during my first semester. After learning about the diverse applications of mapping, I was inspired to get involved. I am currently an Advanced OSM mapper, and have participated in numerous OSM events. I am also a champion of the SLSI program. I am motivated to participate in this excellent opportunity to learn more about OSM and to learn how to provide quality data for humanitarian purposes.
 
+![masunzu japhet 4x4.jpg](/uploads/masunzu%20japhet%204x4.jpg)
 **Japhet Masunzu**
 
 OSM contributor since 2020
