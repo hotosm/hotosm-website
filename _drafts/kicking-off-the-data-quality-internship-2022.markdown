@@ -113,22 +113,27 @@ I mapped some of my village area through ID editor. But when my friend introduce
 
 Till now I have contributed to various active projects through the HOT Tasking Manager. I have participated in ‘Field Mapping Tools Workshop’ organized by Open Pacific Hub, ‘Empowering Women In Geospatial Informationen Technology-2022 edition’ by SERVIR Hindu Kush, where I learned about Q-GIS and Remote Sensing. Recently, I had contributed to Remote Mapping Kakamega, Kenya for Transportation Needs Assessment.
 
+![Pragya_Pant 4x4.jpg](/uploads/Pragya_Pant%204x4.jpg)
 **Pragya Pant**
 
 I am Pragya Pant, HOT data quality intern for 2022. I recently graduated as a Geomatics Engineer from Kathmandu University, Nepal. I have worked as a project manager, co-mapathon analyst & field participant in the projects under Booster Grant and HOT Micro-grant along with remotely mapping different countries. I recently completed a 6 months training “She Leads & She Inspires” program. When I started to map it was just for fun but now that I know the value of OSM data and its impacts I am much more concerned about its quality and this motivated me to join the program.
 
+![ODULANA OLUWATOYIN ABOSEDE 4x4.png](/uploads/ODULANA%20OLUWATOYIN%20ABOSEDE%204x4.png)
 **Odulana Oluwatoyin**
 
 Participation in mapathons and trainings have developed my knowledge in Contributing to the OpenStreetMap. Some of my mapping contributions to OpenStreetMap include participation in the Nigeria SE4ALL remote mapathon, Imagery4socialgood, and the United Nations Mappers training organized in partnership with the university of Lagos on the use of open street map and humanitarian mapping. My motivation for joining this program is to gain advanced hands-on-practical experience with the use of OSM tools, learn more about validation, and contribute quality data to open street map. Also, to further impact individuals who are eager to learn and contribute to OpenStreetMap.
 
+![Anna Lena Fricke 4x4.jpg](/uploads/Anna%20Lena%20Fricke%204x4.jpg)
 **Anna Lena Fricke**
 
 I started mapping as a complete novice in 2020, when many Mapathons went online after the pandemic hit, and a friend recommended Missing Maps to me. I learned to use first iD Editor and then JOSM at Mapathons and later went to a validator training. Now I am a HOT global validator trainee. I hope to spread the idea of (good) mapping further. A nice cup of tea is always a necessity when I’m mapping or validating!
 
+![Jaqueline Amorim 4x4.jpg](/uploads/Jaqueline%20Amorim%204x4.jpg)
 **Jaqueline Amorim**
 
 I have been mapping geostatistical data with Qgis for 10 years. I started using OpenStreetMap one year ago, when I met other mappers who were using collaborative mapping, and I soon joined the Mapeadores Livres UFPR group, a chapter of YouthMappers. Our group trains and capacitates mappers through courses and activities. In this internship program I want to learn tools to use in humanitarian mapping, so that I can help more people in vulnerable situations in my country, and be able to teach others to use these new tools. I also want to meet people who work with social causes.
 
+![Kokou Elolo AMEGAYIBO 4x4.jpg](/uploads/Kokou%20Elolo%20AMEGAYIBO%204x4.jpg)
 **Kokou Elolo AMEGAYIBO**
 
 I am Kokou Elolo AMEGAYIBO alias AKE Amazan, Togolese citizen. I work as a Web/GIS developer and aspiring data analyst with a passion for cartography. An OpenStreetMap contributor since 2013, I am one of the leads of the OSM community in Togo. My hobby projects consist in training new members on OSM but also in contributing to the translation of the project’s tools, Applications and resources in French to make them accessible to the French-only speaking community. I’ m very excited to join this cohort to learn more about the quality assurance tools of OSM and share my field experiences with my peers.
