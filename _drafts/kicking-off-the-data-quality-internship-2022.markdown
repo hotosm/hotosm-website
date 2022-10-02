@@ -31,3 +31,31 @@ My name is Daniel Osei Agyeman, and I’ve been a young mapper since 2016. Durin
 
 While working on various field projects in Ghana, particularly in the north, I became acutely aware of the use of the data that we generate remotely, as well as the difficulties that arise when such data is of poor quality. I am inspired to participate in this internship in order to obtain more information and abilities to help me generate more quality data to help both on-field and off-field professionals in their area of work. Also, the fact that I can share the information I receive here with my local youth mappers chapter so that we can continue to develop quality data to be utilized to tackle challenges in our society.
 
+Sangeeta B.C.
+
+I am currently pursuing a Bachelor’s degree in Geomatics Engineering at the Paschimanchal Campus in Pokhara. I am the current secretary of the Geomatics Engineering Students Association of Nepal (GESAN). Regarding my OSM journey, I initially heard about OSM during my first semester. After learning about the diverse applications of mapping, I was inspired to get involved. I am currently an Advanced OSM mapper, and have participated in numerous OSM events. I am also a champion of the SLSI program. I am motivated to participate in this excellent opportunity to learn more about OSM and to learn how to provide quality data for humanitarian purposes.
+
+Japhet Masunzu
+
+OSM contributor since 2020
+
+My Professional  mapping experience 
+
+Import and digitization of buildings in DRC
+
+Collection of cartographic data of boundaries and health structures in the territory of Beni, their integration on the Osm server and quality control of these data integrated on the server (Tools: OsmAnd, Osmtraker, JOSM)
+
+Digitization of roads in North Kivu
+
+Participation in Africa Mapathon mapping sessions (Liberia; Lesotho; Morocco)
+
+Assistant trainer in two training workshops on the tools of collection, processing of cartographic data and production of maps organized by OSM DRC
+
+Through this program I would like to improve my knowledge of OpenStreetMap data validation and quality control tools and share this knowledge with other contributors so that together we can contribute to the quality of OSM data and it can be used effectively for community development.
+
+Eray Öztürk
+
+I joined my mapping life at a Missing Map event in 2017. I just started mapping with the OSM id Editor. I didn’t do much mapping until I met the Yer Çizenler Mapping for Everyone Association. They taught me about the usage and detail of OpenStreetMap. After a period of time, I volunteered with them and participated in their activities. I participated in the Mapping Unmapped towns in Turkey event with Yer Çizenler and Youth Season. I participated in natural hazard, disaster, and open data studies in partnership with Friedrich-Naumann Foundation, TESEV and Yer Çizenler. Also, I am currently actively mapping on OpenStreetMap.
+
+The reason I joined this program is so that I can now learn more with open data (JOSM etc.). I will be able to help people who need help, even from a distance, as much as I can.
+
