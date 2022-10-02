@@ -138,3 +138,19 @@ This time, as a HOT data quality intern, Anil is really excited to learn new ski
 Angela Naluonde
 
 I am a final-year student at Copperbelt University pursuing a BSc in Urban and Regional Planning. Since I started contributing to OSM a year ago, I have primarily mapped buildings, roads, and validation for the Zambia Local Impact Governance project. Nevertheless, I enrolled in the program because I am aware of how crucial data quality is to many projects and initiatives that have an impact either directly or indirectly. To produce correct data for upcoming plans and projects, as well as to share with my community, it is crucial that I learn about data quality.
+
+Mark Jerome Bongalon
+
+My mapping journey began in 2016. I started as a volunteer of Project NOAH – a disaster risk reduction and management program of the Philippine Government. Through its risk mapping initiative, I was engaged in OSM tracing of building footprints in some provinces of our country. Even though the project was phased out last 2017, I continued to contribute to other initiatives that utilize and improve on OpenStreetMap data. Some of these are UnmappedPH and OSMaPaaralan. With this and driven by my interest in carrying out humanitarian mapping focused on Disaster Preparedness and Response, I was motivated to join the program.
+
+Jennifer Murray
+
+All things geospatial are what make my world go round! I have a MSc degree in GIS and Remote Sensing and experience as a freelance cartographer and researcher. I am an avid OpenStreetMapper with almost one thousand edits and love to volunteer on HOT projects in my spare time. I strongly resonate with the mission and values of Humanitarian OpenStreetMap Team to use geospatial data for good and map areas that need it most. HOT’s Data Quality Internship program will allow me to put my passion for mapping to good use, advance my skills and learn more about their projects.
+
+Keren Wangombe
+
+I learned about OpenStreetMap during the epidemic and signed up for a workshop hosted by the OSM Kenya community. Since then, I’ve been interested in and active with OSM tools and resources. I had the chance to apply what I’d learned in training to a mapping project for HOTOSM earlier this year. As I worked on the project, I gained knowledge and experience in mapping with OSM tools. My motivation for joining this program is to learn more about the world outside of mapping and find ways to apply my knowledge and education in other contexts.
+
+Quang Huy NGUYEN
+
+I am a student in Politecnico di Milano majoring in Landscape Architecture, Urbanism, and Regional Planning. I have interests in GIS, Open Mapping, Volunteered geographic information, Landscape and Urban Analyst, Data Visualization and Cartography. I love participating in workshops, research and community activities. I am also a member of OpenStreetMap Vietnam and Polimapper. I am always curious about data quality, especially geospatial data quality. I hope that during my internship, I could have a clearer view on the good quality of OSM Data and how we can enhance the existing one.
