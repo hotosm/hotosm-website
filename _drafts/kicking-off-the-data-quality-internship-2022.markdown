@@ -59,3 +59,28 @@ I joined my mapping life at a Missing Map event in 2017. I just started mapping 
 
 The reason I joined this program is so that I can now learn more with open data (JOSM etc.). I will be able to help people who need help, even from a distance, as much as I can.
 
+Shabani Magawila 
+
+Shabani Magawila used to be the president of IRDP YouthMappers in Mwanza and supervisor at IRDP YouthMappers in Dodoma. He graduated from IRDP with a Bachelor’s Degree in Urban Development and Environmental Management. He has been volunteering for OpenStreetMap and YouthMappers since 2017, including through projects like Ramani Huria as Junior Supervisor, WomenConnect as Validator and GIS Analyst and Mnadani Community Mapping as Project Leader. 
+
+Shabani is self-motivated, using GIS and Remote Sensing to help urban, marine, and environmental planners to better plan; and is excited to work with the community and other stakeholders to ensure improved quality of life for both rural and urban residents.
+
+Manish Adhikari
+
+I’m Manish Adhikari, currently pursuing a Bachelors degree in Geomatics Engineering at Paschimanchal Campus, Pokhara. I started my OSM journey with the inspiration from great mappers of GESAN, WRC. I just used to map for fun at mapathons. Then I learned many new things that OSM can play an important role for, such as humanitarian activities, emergency preparedness, project data and many more. Now I’m an Advanced level mapper and have already participated in many mapping projects all over world. I also have a little experience as a trainer for beginner level mappers. I want to expand my mapping skill more, and this internship will be great opportunity for me to reach many milestones in quality mapping and data analysis.
+
+Kingsley Chika CHUKWU
+
+ Kingsley Chika CHUKWU is a YouthEmpowerment, Mapping and Training Associate of Unique Mappers OpenStreetMap Community, Nigeria. He is also a HOT-voting member, FIG, NIS and OSMF. He is a National Diploma graduate and about to graduate from the University of Nigeria, Nsukka with a BSc. in Geoinformatics and Surveying.
+
+Experience
+Advanced Mapper
+HOT Validator/ Trainee with 350,000 Edits
+5 years as OSM contributor
+Surveying and GIS Skills
+
+Motivation
+To gain experience that will match the training needs of local communities of HOT. 
+Acquire skills to sustain my volunteering passion.
+Share experience to train others contribute quality data to OSM.
+
