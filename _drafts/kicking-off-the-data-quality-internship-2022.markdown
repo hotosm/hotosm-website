@@ -40,16 +40,11 @@ Japhet Masunzu
 OSM contributor since 2020
 
 My Professional  mapping experience 
-
-Import and digitization of buildings in DRC
-
-Collection of cartographic data of boundaries and health structures in the territory of Beni, their integration on the Osm server and quality control of these data integrated on the server (Tools: OsmAnd, Osmtraker, JOSM)
-
-Digitization of roads in North Kivu
-
-Participation in Africa Mapathon mapping sessions (Liberia; Lesotho; Morocco)
-
-Assistant trainer in two training workshops on the tools of collection, processing of cartographic data and production of maps organized by OSM DRC
+* Import and digitization of buildings in DRC
+* Collection of cartographic data of boundaries and health structures in the territory of Beni, their integration on the  OSM server and quality control of these data integrated on the server (Tools: OsmAnd, Osmtraker, JOSM)
+* Digitization of roads in North Kivu
+* Participation in Africa Mapathon mapping sessions (Liberia; Lesotho; Morocco)
+* Assistant trainer in two training workshops on the tools of collection, processing of cartographic data and production of maps organized by OSM DRC
 
 Through this program I would like to improve my knowledge of OpenStreetMap data validation and quality control tools and share this knowledge with other contributors so that together we can contribute to the quality of OSM data and it can be used effectively for community development.
 
@@ -71,16 +66,16 @@ I’m Manish Adhikari, currently pursuing a Bachelors degree in Geomatics Engin
 
 Kingsley Chika CHUKWU
 
- Kingsley Chika CHUKWU is a YouthEmpowerment, Mapping and Training Associate of Unique Mappers OpenStreetMap Community, Nigeria. He is also a HOT-voting member, FIG, NIS and OSMF. He is a National Diploma graduate and about to graduate from the University of Nigeria, Nsukka with a BSc. in Geoinformatics and Surveying.
+Kingsley Chika CHUKWU is a YouthEmpowerment, Mapping and Training Associate of Unique Mappers OpenStreetMap Community, Nigeria. He is also a HOT-voting member, FIG, NIS and OSMF. He is a National Diploma graduate and about to graduate from the University of Nigeria, Nsukka with a BSc. in Geoinformatics and Surveying.
 
 Experience
-Advanced Mapper
-HOT Validator/ Trainee with 350,000 Edits
-5 years as OSM contributor
-Surveying and GIS Skills
+* Advanced Mapper
+* HOT Validator/ Trainee with 350,000 Edits
+* 5 years as OSM contributor
+* Surveying and GIS Skills
 
 Motivation
-To gain experience that will match the training needs of local communities of HOT. 
-Acquire skills to sustain my volunteering passion.
-Share experience to train others contribute quality data to OSM.
+* To gain experience that will match the training needs of local communities of HOT. 
+* Acquire skills to sustain my volunteering passion.
+* Share experience to train others contribute quality data to OSM.
 
