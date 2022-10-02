@@ -36,7 +36,7 @@ While working on various field projects in Ghana, particularly in the north, I b
 
 I am currently pursuing a Bachelor’s degree in Geomatics Engineering at the Paschimanchal Campus in Pokhara. I am the current secretary of the Geomatics Engineering Students Association of Nepal (GESAN). Regarding my OSM journey, I initially heard about OSM during my first semester. After learning about the diverse applications of mapping, I was inspired to get involved. I am currently an Advanced OSM mapper, and have participated in numerous OSM events. I am also a champion of the SLSI program. I am motivated to participate in this excellent opportunity to learn more about OSM and to learn how to provide quality data for humanitarian purposes.
 
-![masunzu japhet 4x4.jpg](/uploads/masunzu%20japhet%204x4.jpg)
+![masunzu japhet 4x4B.jpg](/uploads/masunzu%20japhet%204x4B.jpg)
 **Japhet Masunzu**
 
 OSM contributor since 2020
