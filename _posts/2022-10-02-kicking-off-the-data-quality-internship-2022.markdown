@@ -201,7 +201,9 @@ I learned about OpenStreetMap during the epidemic and signed up for a workshop h
 
 I am a student in Politecnico di Milano majoring in Landscape Architecture, Urbanism, and Regional Planning. I have interests in GIS, Open Mapping, Volunteered geographic information, Landscape and Urban Analyst, Data Visualization and Cartography. I love participating in workshops, research and community activities. I am also a member of OpenStreetMap Vietnam and Polimapper. I am always curious about data quality, especially geospatial data quality. I hope that during my internship, I could have a clearer view on the good quality of OSM Data and how we can enhance the existing one.
 
-Vivek Dumre
+![Vivek dumre 4x4.jpg](/uploads/Vivek%20dumre%204x4.jpg)
+
+**Vivek Dumre**
 
 After attending the tanning session on the basics of OSM in 2020, I was very curious and became very interested in mapping then, I began contributing to various communities, participating in OSM trainings and started volunteering on various projects related to disaster response, humanitarian aid and economic developments as the data which i was creating could play vital role in decision making and Analysis part.
 
