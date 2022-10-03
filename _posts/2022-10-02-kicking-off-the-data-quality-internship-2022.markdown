@@ -213,5 +213,3 @@ The Data Quality Internship 2022 program is the best platform to sharpen and lea
 Data Quality Interns will be trained on how to validate projects using the HOT Tasking Manager. We aim to validate 90 projects in the three month long program. Training opportunities will include quality assurance and quality control and will include the usage of a range of open source tools. HOT’s [Data Principals](https://www.hotosm.org/updates/data-principles/) will be used to communicate the importance of data quality and its maintenance. 
 
 To ensure continued engagement with HOT’s validation community and data quality activities, we are working to evolve a sustainability model at the end of the program - more to come on this in the coming months!
-
-We would like to extend our thanks to [MSF](https://www.msf.org/) for the sponsorship of 4 of the interns. 
