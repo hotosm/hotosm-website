@@ -5,7 +5,7 @@ Summary Text: Another year, another Data Quality Internship!
 Person: Rebecca Chandiru
 ---
 
-The Humanitarian OpenStreetMap Team’s (HOT) Data Quality Internship has been an annual program since 2020. The 2022 Data Quality Internship (DQI) years program will host 27 interns from 18 countries, and will build on the successes and lessons learned from past programs. 
+The Humanitarian OpenStreetMap Team’s (HOT) Data Quality Internship has been an annual program since 2020. The 2022 Data Quality Internship (DQI) years program will host 28 interns from 18 countries, and will build on the successes and lessons learned from past programs. 
 
 This year’s DQI aims to: 
 * Build trust and transparency in OSM data 
@@ -200,6 +200,13 @@ I learned about OpenStreetMap during the epidemic and signed up for a workshop h
 **Quang Huy NGUYEN**
 
 I am a student in Politecnico di Milano majoring in Landscape Architecture, Urbanism, and Regional Planning. I have interests in GIS, Open Mapping, Volunteered geographic information, Landscape and Urban Analyst, Data Visualization and Cartography. I love participating in workshops, research and community activities. I am also a member of OpenStreetMap Vietnam and Polimapper. I am always curious about data quality, especially geospatial data quality. I hope that during my internship, I could have a clearer view on the good quality of OSM Data and how we can enhance the existing one.
+
+Vivek Dumre
+
+After attending the tanning session on the basics of OSM in 2020, I was very curious and became very interested in mapping then, I began contributing to various communities, participating in OSM trainings and started volunteering on various projects related to disaster response, humanitarian aid and economic developments as the data which i was creating could play vital role in decision making and Analysis part.
+
+The Data Quality Internship 2022 program is the best platform to sharpen and learn new skills and knowledge. It would also be a great opportunity to communicate with fellow interns, experts, HOT members and supervisors from diverse countries and communities.
+
 
 ## About the Program
 
