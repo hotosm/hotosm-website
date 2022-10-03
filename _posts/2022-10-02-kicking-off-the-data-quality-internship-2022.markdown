@@ -9,7 +9,7 @@ The Humanitarian OpenStreetMap Team’s (HOT) Data Quality Internship has been a
 
 This year’s DQI aims to: 
 * Build trust and transparency in OSM data 
-* Build capacity across our validator networks in <HOT’s focus countries>
+* Build capacity across our validator networks in [HOT’s focus countries](https://www.hotosm.org/updates/four-regions-five-years-94-countries-one-billion-people/)
 * Provide learning opportunities for mappers wanting to take their mapping skills to the next level
 * Contribute to building a sustainable community of OSM Validators  to ensure continuity of data flow and maintenance in OSM
 * Contribute to diversifying our existing network of valued validators
