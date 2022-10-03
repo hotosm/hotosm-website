@@ -4,9 +4,9 @@ date: 2022-06-24 11:02:00 Z
 Photo: "/uploads/Risham%20Picture.JPG"
 Member Type:
   Is Staff: true
-Job Title: Communications Associate
+Job Title: Communications and Engagement Associate - Asia Pacific
 Country: Pakistan
-Team: Global
+Team: Asia Pacific Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/RHabib
 ---
