@@ -8,6 +8,8 @@ Details: " https://galaxy.hotosm.org/"
 Blog: https://hotosm.org/tech-blog
 ---
 
-The HOT Technical Working Group discusses the current status, coordination possibilities, and priorities for tool development, and for hosting and operations aspects of HOT tools. Currently, the WG focuses on the OSM Galaxy Project. Join the OSM Galaxy WG by filling up [this form](https://bit.ly/galaxy-contribution).
+The HOT Technical Working Group discusses the current status, coordination possibilities, and priorities for tool development, and for hosting and operations aspects of HOT tools. Currently, the WG focuses on the OSM Galaxy Project and Tasking Manager.
 
-Visit the [OSM Galaxy Project website](https://galaxy.hotosm.org/) for more information.
+Join the OSM Galaxy WG by filling up [this form](https://bit.ly/galaxy-contribution). Visit the [OSM Galaxy Project website](https://galaxy.hotosm.org/) for more information.
+
+We also run monthly [HOT Tasking Manager](https://tasks.hotosm.org/) Meet Ups on first Wednesday of the month : 9:00 UTC or 15:00 UTC. Register [here](https://forms.gle/G34jDtjUc11WPRUM7).
