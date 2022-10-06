@@ -28,7 +28,15 @@ layout: default
 
   <div class="container impact-desc-container">
     <div class="impact-area-desc">
-      <span>{{ content }}<div class="hr"></div></span>
+      <span>{{ content }}<div></div></span>
+    </div>
+  </div>
+  <div class="container">
+    <div class="project-index-all">
+      {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
+      {% for impact-area in sorted-impact-areas offset:1 %}
+        {% include blocks/impact-area-highlight.html %}
+      {% endfor %}
     </div>
   </div>
 

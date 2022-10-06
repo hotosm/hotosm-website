@@ -1,0 +1,11 @@
+<a class="module link-through project-module" href="{{ impact-area.url }}">
+  <div class="module-details">
+    <div class="module-text project-header-meta">
+      {% if impact-area.src %}
+        <img src="{{ impact-area.src }}" class="impact-area-icon" width="60" height="60"/>
+      {% endif %}
+      <h3>{{ impact-area.title }}</h3>
+      <p>{{ impact-area.content }}</p>
+    </div>
+  </div>
+</a>
