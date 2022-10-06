@@ -225,13 +225,10 @@ Maya Lovo has been involved with the YouthMappers network since May 2021. With h
 
 **Franck AKOUETE**
 
-My name is Ata Franck AKOUETE. I&#39;m Togolese citizen graduate in forestry and also pursuing my
-master degree study in geomatic science. I&#39;m an active member of OpenStreetMap Togo
-community and I currently involved on the sustainable cities project of the Northern and Western
-Open mapping Hub as Mapping and data collection supervisor.
-The data Quality Internship program of HOT will help me to increase my skills on the best practice
-in mapping and using of OSM data to support local development in order to achieve SDGs
-challenges in my country.
+My name is Ata Franck AKOUETE. I'm Togolese citizen graduate in forestry and also pursuing my masters degree study in geomatic science. I'm an active member of OpenStreetMap Togo
+community and I am currently involved on the sustainable cities project of the West and Northern Africa Open Mapping Hub as Mapping and data collection supervisor.
+
+The data Quality Internship program of HOT will help me to increase my skills on the best practice in mapping and using of OSM data to support local development in order to achieve SDGs challenges in my country.
 
 ![Walter Mayeku 4x4.jpeg](/uploads/Walter%20Mayeku%204x4.jpeg)
 
