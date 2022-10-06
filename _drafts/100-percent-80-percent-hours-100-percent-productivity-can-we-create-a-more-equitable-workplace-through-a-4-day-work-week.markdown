@@ -1,5 +1,5 @@
 ---
-title: '100%, 80% hours, 100% productivity: Can we create a more equitable workplace
+title: '100% pay, 80% hours, 100% productivity: Can we create a more equitable workplace
   through a 4 day work week?'
 date: 2022-10-06 18:39:00 Z
 Summary Text: 'In the next iteration of our innovative approaches to work, HOT is
