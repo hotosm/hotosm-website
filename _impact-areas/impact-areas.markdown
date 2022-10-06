@@ -5,6 +5,9 @@ position: 0
 layout: impact-area
 ---
 
-Solving global challenges requires an understanding of our physical environment that is grounded in the day-to-day realities of people experiencing those challenges. Open mapping helps us co-develop that understanding together, which enables humanitarian, development, and community organizations to take more informed and locally-appropriate action. Each Impact Area describes one of the major global challenges the open mapping movement is taking on. Impact Areas ensure all efforts across HOT - partnerships, grantmaking, and community support - are focused on contributing to one of five major issue areas.
+Solving global challenges requires an understanding of our physical environment that is grounded in direct knowledge and observations. Open mapping helps us build that understanding together, which enables humanitarian, development, and community organizations to take more informed and locally appropriate action. 
+Impact Areas connect open mapping with real world applications through spatial data use in the humanitarian and development sectors. Each impact area at HOT provides a framework for technical and subject matter expertise for partnerships, grantmaking, and community support.  
+<br>
 
-![Impact Areas.png](/uploads/Impact%20Areas.png)
+*Are you working with OSM in one of HOT’s impact areas? We’d love to hear from you on what data you are using, what analysis has worked, and other feedback at data@hotosm.org.*
+
