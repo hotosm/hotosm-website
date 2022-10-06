@@ -2,6 +2,7 @@
 title: '100% pay, 80% hours, 100% productivity: Can we create a more equitable workplace
   through a 4 day work week?'
 date: 2022-10-06 18:39:00 Z
+permalink: 4-day-work-week
 Summary Text: 'In the next iteration of our innovative approaches to work, HOT is
   piloting a voluntary, 4-day work week as part of a global initiative exploring how
   reduced time can result in increased productivity
