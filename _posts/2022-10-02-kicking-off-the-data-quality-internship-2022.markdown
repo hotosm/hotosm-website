@@ -221,6 +221,8 @@ I am Rizky Hadwiyanti, passionate in mapping and spatial planning. Since 2012 I 
 
 Maya Lovo has been involved with the YouthMappers network since May 2021. With her peers, they've developed workshops on QGIS and Web Maps, for members of the community and government. As a Regional Ambassador, she has transferred knowledge on beginner OSM mapping for new students in the region. Currently, she's collaborating with HOT on the Alpha Phase of the LATAM Hub, with a project on Migration and Women in Central America. Through these activities, she has become more interested in strengthening technical skills in the region. By participating in the DQI, she plans to share quality assurance techniques with local communities.
  
+![Franck AKOUETE 4x4.jpeg](/uploads/Franck%20AKOUETE%204x4.jpeg)
+
 **Franck AKOUETE**
 
 My name is Ata Franck AKOUETE. I&#39;m Togolese citizen graduate in forestry and also pursuing my
@@ -230,6 +232,8 @@ Open mapping Hub as Mapping and data collection supervisor.
 The data Quality Internship program of HOT will help me to increase my skills on the best practice
 in mapping and using of OSM data to support local development in order to achieve SDGs
 challenges in my country.
+
+![Walter Mayeku 4x4.jpeg](/uploads/Walter%20Mayeku%204x4.jpeg)
 
 **Walter Mayeku**
 
