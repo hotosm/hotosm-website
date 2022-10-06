@@ -27,7 +27,6 @@ Status: size-up
 <strong>Estimated Humanitarian Impact:</strong> 43 confirmed cases and 9 Deaths <br>
 <strong>Estimated Duration:</strong> Months<br>
 <strong>Event Scope:</strong> Moderate<be>
-
 <strong>Local Contacts:</strong> Uganda Red Cross, MSF, OSM Uganda, IFRC<br>
 <strong>Anticipated Needs:</strong> Basemap Improvement
 <br>
