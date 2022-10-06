@@ -35,7 +35,7 @@ The ***Role Base Salary*** is the value of work for each role in the organizatio
 
 ***HOT Salary Scale [in USD; non-profit factor already applied; location factor not yet applied]***
 
-![Salary Scale 2022-eebd57.png](/uploads/Salary%20Scale%202022-eebd57.png)
+![Salary Rates 2022.png](/uploads/Salary%20Rates%202022.png)
 
 Each role falls within a specific grade on the scale above, identified between the hiring manager,HR, and Finance Teams at the creation of the position before any hiring is done. Certain job levels can span more than one grade, which allows for additional staff growth in those roles. Each position posted on hotosm.org includes the relevant grade from our scale and applicable salary range depending on location and experience.
 
