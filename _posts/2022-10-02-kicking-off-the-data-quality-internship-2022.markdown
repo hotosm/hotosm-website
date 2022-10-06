@@ -209,6 +209,32 @@ After attending the tanning session on the basics of OSM in 2020, I was very cur
 
 The Data Quality Internship 2022 program is the best platform to sharpen and learn new skills and knowledge. It would also be a great opportunity to communicate with fellow interns, experts, HOT members and supervisors from diverse countries and communities.
 
+![Rizky Hadwiyanti 4x4.jpg](/uploads/Rizky%20Hadwiyanti%204x4.jpg)
+
+**Rizky Hadwiyanti**
+
+I am Rizky Hadwiyanti, passionate in mapping and spatial planning. Since 2012 I have done much unpaid and paid mapping and spatial planning work and helped other people who need spatial data analysis. Ihave my professional License of Competence as a Supervisor of GIS. I am experienced in Data Entry with HOT Indonesia, Field Survey Meta Project, Urban Planner in Ministry of Public Housing, Surveyor and Mapper for poverty reduction, Boundary demarcation mapping, etc. By being part of this program, I’m hoping to grow as a better data validator and to apply those skills to my next contribution, upgrade my geospatial analysis, and gain real-world experience with HOT Global. I felt this was an excellent internship position to get better acquainted with global diversity.
+
+![Maya Lovo 4x4.jpg](/uploads/Maya%20Lovo%204x4.jpg)
+
+**Maya Lovo**
+
+Maya Lovo has been involved with the YouthMappers network since May 2021. With her peers, they've developed workshops on QGIS and Web Maps, for members of the community and government. As a Regional Ambassador, she has transferred knowledge on beginner OSM mapping for new students in the region. Currently, she's collaborating with HOT on the Alpha Phase of the LATAM Hub, with a project on Migration and Women in Central America. Through these activities, she has become more interested in strengthening technical skills in the region. By participating in the DQI, she plans to share quality assurance techniques with local communities.
+ 
+**Franck AKOUETE**
+
+My name is Ata Franck AKOUETE. I&#39;m Togolese citizen graduate in forestry and also pursuing my
+master degree study in geomatic science. I&#39;m an active member of OpenStreetMap Togo
+community and I currently involved on the sustainable cities project of the Northern and Western
+Open mapping Hub as Mapping and data collection supervisor.
+The data Quality Internship program of HOT will help me to increase my skills on the best practice
+in mapping and using of OSM data to support local development in order to achieve SDGs
+challenges in my country.
+
+**Walter Mayeku**
+
+I joined OpenStreetMap in 2017 as an active mapper, with growing interests after interacting with OMSers around the world and consistent involvement in projects both locally and internationally, I have grown my mapping experience to an advanced level. I have well elaborate buildings mapping advantage over other OSM features with a substantial validation experience. Preferably I enjoy mapping using JOSM over ID editor because of its capabilities and versatility when it becomes to applicabilities with plugins and advancements. 
+I joined the Data Quality Internship program so that I can affirm my mapping and validation abilities across OSM and around the world; to be a quality data ambassador.
 
 ## About the Program
 
