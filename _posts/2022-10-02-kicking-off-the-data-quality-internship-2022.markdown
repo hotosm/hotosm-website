@@ -235,6 +235,7 @@ The data Quality Internship program of HOT will help me to increase my skills on
 **Walter Mayeku**
 
 I joined OpenStreetMap in 2017 as an active mapper, with growing interests after interacting with OMSers around the world and consistent involvement in projects both locally and internationally, I have grown my mapping experience to an advanced level. I have well elaborate buildings mapping advantage over other OSM features with a substantial validation experience. Preferably I enjoy mapping using JOSM over ID editor because of its capabilities and versatility when it becomes to applicabilities with plugins and advancements. 
+
 I joined the Data Quality Internship program so that I can affirm my mapping and validation abilities across OSM and around the world; to be a quality data ambassador.
 
 ## About the Program
