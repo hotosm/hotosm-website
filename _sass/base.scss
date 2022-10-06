@@ -1437,7 +1437,7 @@ em {
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 0 17px;
   @media (min-width: $screen-sm) {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-gap: 0 24px;
   }
   a {
@@ -3238,14 +3238,20 @@ div.mapboxgl-popup-content .project__details {
 
 .map-impact-area {
   display: inline-block;
+  text-align: center;
   font-weight: normal;
   font-size: 1.125rem;
+  border: 1px black;
   color: $blue-dark;
   text-decoration: none;
   margin: 0 16px 16px 0;
   border-bottom: 1px solid #b5b7b9;
   &:hover {
     border-bottom: 1px solid $red;
+  }
+  .impact-area-icon {
+    display: block;
+    margin: 0 auto;
   }
 }
 
