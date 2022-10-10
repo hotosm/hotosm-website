@@ -65,3 +65,4 @@ I am thinking to submit a proposal for next year’s Open Source Summit so that 
 
 Reach out to me if you want to find out more about any of the sessions or chat about my experience/reflection!  I will also be doing a short on 4 October and 11 October at the [HOT Community Working Group](https://www.hotosm.org/community/working-groups/). Hope to see you there!
 
+
