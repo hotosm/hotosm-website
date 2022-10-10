@@ -1,7 +1,6 @@
 ---
 title: Reflections from attending the OpenSourceSummit Europe, September 2022
 date: 2022-10-05 10:43:00 Z
-published: false
 Summary Text: |
   Hello lovely community members and tech enthusiasts!! I want to share some of my reflections from attending the Open Source Summit in Dublin in mid-September for the very first time! I categorised them into four areas that I hope will be useful for our community!
 
