@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<div class="impact-area-item">
+  <div class="container">
+    <h1 class="red center capital">{{ page.title }}</h1>
+  </div>
+  <div class="impact-area-body">
+    <div class="light">
+      <p class="red intro">{{ page.block-1.intro }}</p>
+      <div>
+        <h4 class="red bold">{{ page.block-1.sub-block.title }}</h4>
+        {% assign points = page.block-1.sub-block.points %}
+        {% for point in points %}
+          <p class="red bold">{{ point["title"] }}</p>
+          <ul class="">
+            <li>
+              {% if point["summary"] != "" %}
+                {{ point["summary"] }}
+              {% endif %}
+              <ul>
+                {% assign subpoints = point["subs"] %}
+                {% for subpoint in subpoints %}
+                  <li>
+                    <span>{{ subpoint["title"] }}</span>
+                    {% assign subs = subpoint["points"] %}
+                    {% for sub in subs %}
+                      <ul>
+                        <li>{{ sub }}</li>
+                      </ul>
+                    {% endfor %}
+                  </li>
+                {% endfor %}
+              </ul>
+            </li>
+          </ul>
+        {% endfor %}
+      </div>
+    </div>
+    {% unless page.title == "Gender Equality" %}
+      <div class="dark">
+        {{ content }}
+      </div> 
+    {% endunless %}
+    <div class="light">
+      <h4 class="red bold">{{ page.block-2.title }}</h4>
+      {% assign points = page.block-2.points %}
+      {% for point in points %}
+        <ul>
+          <li>{{ point }}</li>
+        </ul>     
+      {% endfor %}
+    </div>
+    <div class="dark">
+      <h4>{{ page.block-3.heading }}</h4>
+      <h5 class="subheading">{{ page.block-3.subheading }}</h5>
+      <p>
+        <span class="bold">Do you work with OSM in this area and are interested in sharing with others?</span>
+        Please contact data@hotosm.org  with what you are using OSM for, what OSM and other data you are using, success stories, and any other feedback on this impact area.
+      </p>
+      
+      {% assign sections = page.block-3.sections %}
+      {% for section in sections %}
+        <p class="bold">{{ section["heading"] }}</p>
+        <ul>
+          {% assign points = section["points"] %}
+          {% for point in points %}
+            <li>{{ point }}</li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+  

@@ -5787,3 +5787,105 @@ th, td {
     }
   }
 }
+
+
+////////////////////////////////////////////////
+////////////// Page — Impact Area Overview /////////////
+////////////////////////////////////////////////
+
+.impact-area-item {
+  width: 100%;
+  .center {
+    text-align: center;
+  }
+  .capital {
+    text-transform: capitalize;
+  }
+  .impact-area-body {
+    width: 100%;
+    .light {
+      width: 100%;
+      color:$red;
+      padding-top: 1%;
+      padding-bottom: 1%;
+      padding-left: 2%;
+      padding-right: 2%;
+      margin: 0 auto;
+      .intro {
+        padding-top: 1%;
+        padding-bottom: 1%;
+      }
+    }
+    h4 {
+      color: $white;
+      margin-bottom: 10px;
+      margin-top: 10px;
+    }
+    ul {
+      list-style: none;
+      padding-bottom: 0.5%;
+    }
+    ul li {
+      list-style: disc;
+      line-height:20px;
+      margin-left: 10px;
+      list-style-position: inside;
+    }
+    ul li li {
+     list-style: circle;
+     list-style-position: inside;
+     line-height:20px;
+     margin-left: 20px;
+    }
+    ul li li li{
+      list-style: square;
+      list-style-position: inside;
+      line-height:20px;
+      margin-left: 30px;
+     }
+    .red {
+      color:$red;
+    }
+    .bold {
+      font-weight: bold;
+    }
+    .dark{
+      width: 100%;
+      background-color: shade($blue-dark, 10%);
+      color: white;
+      padding-left: 2%;
+      padding-right: 2%;
+      margin: 0 auto;
+      box-sizing: border-box;
+      table {
+        h4 {
+          color: $white;
+          padding: 0;
+        }
+        p, ul li {
+          margin-top: 0.5rem;
+          margin-bottom: 0.5rem;
+        }
+      }
+      tr, th,td {
+        border: 2px solid black;
+      }
+      .subheading {
+        font-size: 1em;
+        text-decoration: underline;
+        color: $white;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+      }
+      p {
+        color: $white;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+      }
+      ul li {
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+      }
+    }
+  }
+}
