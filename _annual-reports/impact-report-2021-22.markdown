@@ -1,7 +1,6 @@
 ---
 title: 2021-22 Impact Report
 date: 2022-09-02 10:18:00 Z
-published: false
 Link: https://impactreport2022.hotosm.org/
 Image: "/uploads/thumbnail_Impact%20Report%202021-22.jpg"
 ---
