@@ -149,7 +149,7 @@ defaults:
     type: impact-areas
   values:
     permalink: "/impact-areas/:path/"
-    layout: impact-area
+    layout: impact-area-item
 - scope:
     path: ''
     type: docs
