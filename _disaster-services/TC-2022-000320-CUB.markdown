@@ -1,0 +1,19 @@
+---
+title: Hurricane Ian 2022 Alert
+date: 2022-09-23 19:07:00 Z
+Glide: TC-2022-000320-CUB
+Event Name: Tropical Cyclone for IAN-22
+GDACS ID: TC 1000923
+GDACS-level: Red (2.5)
+Country:
+- Cuba
+- United States
+Event type: TC Tropical Cyclone
+Summary Text: Disaster Services is currently monitoring this event in the caribe.
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+source: <a href="https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000923" target="_blank">GDACS</a>
+---
+
+"Tropical Cyclone IAN-22 can have a high humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability."
