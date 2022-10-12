@@ -7,7 +7,7 @@ summary: Accessible healthcare infrastructure and informed public health program
 block-1: 
   intro: Challenges to a community’s public health are impacted by unequal access to healthcare, environmental factors, and lifestyle demands of populations with vulnerabilities. Better maps on healthcare infrastructure and services, as well as maps on environmental factors and survey data related to health can be used to improve access to public health and health programming. 
   sub-block: 
-    title: Using open mapping in Public Health
+    title: Open Mapping in Public Health
     points: 
       - title: "Patients have an understanding of where to access services"
         summary: ""

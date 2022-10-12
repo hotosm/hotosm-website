@@ -7,7 +7,7 @@ summary: Equal access & participation in open mapping. Improved understanding an
 block-1: 
   intro: The daily experiences of people in a society can be drastically different based on their gender identity and gender expression. It’s also clear that the gender of those contributing to OSM affects the information that specifically affects or are more relevant to one gender. Increasing inclusion in mapping and focusing on gender-sensitive tagging can support more equitable outcomes. 
   sub-block: 
-    title: Open mapping for Gender Equality
+    title: Open Mapping for Gender Equality
     points: 
       - title: "A more representative map in OSM"
         summary: ""

@@ -5840,10 +5840,7 @@ th, td {
     .light {
       width: 100%;
       color:$red;
-      padding-top: 1%;
-      padding-bottom: 1%;
-      padding-left: 2%;
-      padding-right: 2%;
+      padding: 1% 2%;
       margin: 0 auto;
       .intro {
         padding-top: 1%;
@@ -5857,7 +5854,7 @@ th, td {
     }
     ul {
       list-style: none;
-      padding-bottom: 0.5%;
+      padding: 0.5% 0;
     }
     ul li {
       list-style: disc;
@@ -5887,8 +5884,7 @@ th, td {
       width: 100%;
       background-color: shade($blue-dark, 10%);
       color: white;
-      padding-left: 2%;
-      padding-right: 2%;
+      padding: 1% 2%;
       margin: 0 auto;
       box-sizing: border-box;
       table {
