@@ -1,10 +1,12 @@
-<a class="module link-through project-module" href="{{ impact-area.url }}">
+<a class="module link-through light" href="{{ impact-area.url }}">
+  <div class="module-image">
+    {% if impact-area.src %}
+      <img src="{{ impact-area.src }}" class="impact-area-icon" width="60" height="60"/>
+    {% endif %}
+  </div>
   <div class="module-details">
-    <div class="module-text project-header-meta">
-      {% if impact-area.src %}
-        <img src="{{ impact-area.src }}" class="impact-area-icon" width="60" height="60"/>
-      {% endif %}
-      <h3>{{ impact-area.title }}</h3>
+    <div class="module-text">
+      <p class="module-header">{{ impact-area.title }}</p>
       <p>{{ impact-area.summary }}</p>
     </div>
   </div>
