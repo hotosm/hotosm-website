@@ -7,7 +7,7 @@ summary: Service delivery and infrastructure in disadvantaged urban and rural ar
 block-1: 
   intro: As populations continue to grow and more people move to urban areas, stress on resources increases. Open mapping platforms can allow for local governments and communities to collaborate for more efficient access to basic services. Better mapping can lead to informed planning and better and more equitable living conditions in communities and informal settlements.
   sub-block: 
-    title: Open mapping in Sustainable Cities & Communities
+    title: Open Mapping in Sustainable Cities & Communities
     points: 
       - title: "Improved availability to data by communities and government officials to inform planning processes"
         summary: ""

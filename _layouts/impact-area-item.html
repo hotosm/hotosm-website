@@ -14,30 +14,56 @@ layout: default
         {% assign points = page.block-1.sub-block.points %}
         {% for point in points %}
           <p class="red bold">{{ point["title"] }}</p>
-          <ul class="">
-            <li>
-              {% if point["summary"] != "" %}
+          {% if point["summary"] != '' %}
+            <ul>
+              <li>
                 {{ point["summary"] }}
-              {% endif %}
-              <ul>
                 {% assign subpoints = point["subs"] %}
                 {% for subpoint in subpoints %}
-                  <li>
-                    <span>{{ subpoint["title"] }}</span>
-                    {% assign subs = subpoint["points"] %}
-                    {% for sub in subs %}
-                      <ul>
-                        <li>{{ sub }}</li>
-                      </ul>
-                    {% endfor %}
-                  </li>
+                  {% if subpoint["title"] != '' %}
+                    <ul>
+                      <li>
+                        {{ subpoint["title"] }}
+                        {% if subpoint["points"].length != 0 %}
+                          {% assign subs = subpoint["points"] %}
+                          {% for sub in subs %}
+                            <ul>
+                              <li>{{ sub }}</li>
+                            </ul>
+                          {% endfor %}
+                        {% endif %}
+                      </li>
+                    </ul>
+                  {% endif %}
                 {% endfor %}
-              </ul>
-            </li>
-          </ul>
+              </li>
+            </ul>
+          {% endif %}
+
+          {% if point["summary"] == '' %}
+            {% assign subpoints = point["subs"] %}
+            {% for subpoint in subpoints %}
+              {% if subpoint["title"] != '' %}
+                <ul>
+                  <li>
+                    {{ subpoint["title"] }}
+                    {% if subpoint["points"].length != 0 %}
+                      {% assign subs = subpoint["points"] %}
+                      {% for sub in subs %}
+                        <ul>
+                          <li>{{ sub }}</li>
+                        </ul>
+                      {% endfor %}
+                    {% endif %}
+                  </li>
+                </ul>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
         {% endfor %}
       </div>
     </div>
+
     {% unless page.title == "Gender Equality" %}
       <div class="dark">
         {{ content }}

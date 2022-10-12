@@ -7,7 +7,7 @@ summary: Coordinated service delivery for migrants and people displaced from hom
 block-1: 
   intro: "Conflict, persecution, violence, and weather related events have caused a record 100 million people worldwide to be displaced (UNHCR May 2022). Challenging migration routes many times lead to under-resourced camps or undesirable conditions squatting  in urban or rural settings. Women and minors are often disproportionately affected. Limited resources for migrants, especially in host communities, require accurate geospatial data to ensure efficient support of those in need."
   sub-block: 
-    title: Open mapping  in Displacement & Safe Migration
+    title: Open Mapping in Displacement & Safe Migration
     points: 
       - title: "All areas of migration receive basic services and programming"
         summary: ""
