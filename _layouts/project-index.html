@@ -59,7 +59,7 @@ layout: default
             <div class="container">
               <h6>LEARN ABOUT OPEN MAPPING ACROSS OUR IMPACT AREAS: </h6>
               {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
-              {% for impact-area in sorted-impact-areas offset:1 %}
+              {% for impact-area in sorted-impact-areas %}
                 {% if impact-area.title == 'Disaster Response' %}
                   <a href="/disaster-services/project_activations.html" class="map-impact-area">Disaster Response</a>
                 {% else %}
@@ -143,7 +143,7 @@ layout: default
         <h2 class="boxed">See more projects by impact area</h2>
         <ul class="impact-areas-list">
           {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
-          {% for impact-area in sorted-impact-areas offset:1 %}
+          {% for impact-area in sorted-impact-areas  %}
             {% if impact-area.title == 'Disaster Response' %}
               <li><a href="/disaster-services/project_activations.html" class="nav-link">Disaster Response</a></li>
             {% else %}
