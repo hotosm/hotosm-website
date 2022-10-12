@@ -32,7 +32,7 @@ layout: default
     </div>
   </div>
   <div class="container">
-    <div class="project-index-all">
+    <div class="impact-area-item-module">
       {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
       {% for impact-area in sorted-impact-areas offset:1 %}
         {% include blocks/impact-area-highlight.html %}

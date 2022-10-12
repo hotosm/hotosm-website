@@ -1460,6 +1460,40 @@ em {
   }
 }
 
+.impact-area-item-module {
+  display: grid;
+  grid-gap: 24px;
+  margin-bottom: 24px;
+  &.grid-two-rows {
+    grid-template-rows: repeat(2, 1fr);
+  }
+  @media (min-width: $screen-sm) {
+    grid-template-columns: repeat(5, 1fr);
+  }
+  @media (min-width: $screen-xs) and (max-width: $screen-sm) {
+    grid-template-columns: repeat(5, 1fr);
+  }
+  @media (max-width: $screen-xs) {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .module {
+    grid-template-rows: auto;
+    align-content: start;
+    .module-image {
+      margin: 0 auto;
+      @media (max-width: $screen-xs) {
+        margin: 0;
+      }
+  }
+  .module-details {
+      .module-header {
+        color: $red;
+        font-weight: bold;
+        font-size: 1rem;
+      }
+    }
+  }
+}
 
 ////////////////////////////////////////////////
 ////////////////// Navigation //////////////////
