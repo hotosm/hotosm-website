@@ -2,62 +2,65 @@
 title: Public Health
 date: 2018-02-06 13:10:00 Z
 position: 3
-src: /uploads/public-health.svg
-summary: Accessible healthcare infrastructure and informed public health programming and monitoring.
-block-1: 
-  intro: Challenges to a community’s public health are impacted by unequal access to healthcare, environmental factors, and lifestyle demands of populations with vulnerabilities. Better maps on healthcare infrastructure and services, as well as maps on environmental factors and survey data related to health can be used to improve access to public health and health programming. 
-  sub-block: 
+src: "/uploads/public-health.svg"
+summary: Accessible healthcare infrastructure and informed public health programming
+  and monitoring.
+block-1:
+  intro: Challenges to a community’s public health are impacted by unequal access
+    to healthcare, environmental factors, and lifestyle demands of populations with
+    vulnerabilities. Better maps on healthcare infrastructure and services, as well
+    as maps on environmental factors and survey data related to health can be used
+    to improve access to public health and health programming.
+  sub-block:
     title: Open Mapping in Public Health
-    points: 
-      - title: "Patients have an understanding of where to access services"
-        summary: ""
-        subs: 
-          - title: Health center locations fully mapped
-            points:
-          - title: "Services available listed by location: pharmacy, women’s health, general services, surgery, etc." 
-            points:
-      - title: Optimizing service delivery planning & monitoring
-        summary: ''
-        subs: 
-          - title: "Vaccination campaigns"
-            points:
-          - title: "Public health awareness programs (Malaria mitigation, etc)"
-            points:
-          - title: "Nutrition (and other) program monitoring"
-            points:
-      - title: Understanding health barriers
-        summary: ''
-        subs: 
-          - title: Transportation barriers - travel conditions, distance
-            points:
-      - title: Improved surveillance/monitoring
-        summary: ''
-        subs: 
-          - title: "Tracking disease instances by location for epidemiological research"
-            points:
-          - title: Identify the locations of high risk for certain diseases
-            points:
-block-2: 
+    points:
+    - title: Patients have an understanding of where to access services
+      summary: ''
+      subs:
+      - title: Health center locations fully mapped
+        points: 
+      - title: 'Services available listed by location: pharmacy, women’s health, general
+          services, surgery, etc.'
+        points: 
+    - title: Optimizing service delivery planning & monitoring
+      summary: ''
+      subs:
+      - title: Vaccination campaigns
+        points: 
+      - title: Public health awareness programs (Malaria mitigation, etc)
+        points: 
+      - title: Nutrition (and other) program monitoring
+        points: 
+    - title: Understanding health barriers
+      summary: ''
+      subs:
+      - title: Transportation barriers - travel conditions, distance
+        points: 
+    - title: Improved surveillance/monitoring
+      summary: ''
+      subs:
+      - title: Tracking disease instances by location for epidemiological research
+        points: 
+      - title: Identify the locations of high risk for certain diseases
+        points: 
+block-2:
   title: Example Spatial Analyses
   points:
-    - Healthcare accessibility - road conditions, cost, etc. 
-    - Public health risk indices 
-        - Compare health risks with populations
-        - Identify areas of high occurrences of health issue (ie maternal mortality, etc) 
-    - Operational planning for service delivery 
-        - Vaccination drives
-        - Disease prevention campaigns
+  - Healthcare accessibility - road conditions, cost, etc.
+  - Public health risk indices - Compare health risks with populations - Identify
+    areas of high occurrences of health issue (ie maternal mortality, etc)
+  - Operational planning for service delivery - Vaccination drives - Disease prevention
+    campaigns
 block-3:
   heading: HOT Projects in Public Health
   subheading: ''
-  sections: 
-    - heading: Coming soon...
-      points:
-        - Example OSM data models for Public Health
-        - Health sites data model for OSM for open use
-        - Using OSM for reporting SDG health markers
-        - Measurements on OSM data quality requirements needed for work in this area
-
+  sections:
+  - heading: Coming soon...
+    points:
+    - Example OSM data models for Public Health
+    - Health sites data model for OSM for open use
+    - Using OSM for reporting SDG health markers
+    - Measurements on OSM data quality requirements needed for work in this area
 ---
 
 <table>

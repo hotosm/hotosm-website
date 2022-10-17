@@ -2,62 +2,76 @@
 title: Displacement & Safe Migration
 date: 2018-02-06 13:08:00 Z
 position: 4
-src: /uploads/displacement-and-safe-migration.svg
-summary: Coordinated service delivery for migrants and people displaced from home in transit, camp settings, and other informal contexts.
-block-1: 
-  intro: "Conflict, persecution, violence, and weather related events have caused a record 100 million people worldwide to be displaced (UNHCR May 2022). Challenging migration routes many times lead to under-resourced camps or undesirable conditions squatting  in urban or rural settings. Women and minors are often disproportionately affected. Limited resources for migrants, especially in host communities, require accurate geospatial data to ensure efficient support of those in need."
-  sub-block: 
+src: "/uploads/displacement-and-safe-migration.svg"
+summary: Coordinated service delivery for migrants and people displaced from home
+  in transit, camp settings, and other informal contexts.
+block-1:
+  intro: Conflict, persecution, violence, and weather related events have caused a
+    record 100 million people worldwide to be displaced (UNHCR May 2022). Challenging
+    migration routes many times lead to under-resourced camps or undesirable conditions
+    squatting  in urban or rural settings. Women and minors are often disproportionately
+    affected. Limited resources for migrants, especially in host communities, require
+    accurate geospatial data to ensure efficient support of those in need.
+  sub-block:
     title: Open Mapping in Displacement & Safe Migration
-    points: 
-      - title: "All areas of migration receive basic services and programming"
-        summary: ""
-        subs: 
-          - title: Migration routes can be located to provide life saving services (water, food, shelter, etc). 
-            points:
-      - title: Push and pull factors are anticipated and understood to plan for population movements
-        summary: ''
-        subs: 
-          - title: "Services in areas neighboring conflict are located to plan for better support of migrants."
-            points:
-          - title: "Economic drivers of migration are tied to a location. "
-            points:
-              - Rural to urban movements in search of better livelihoods. 
-          - title: "The scope of climate related impacts on economies (such as drought) are understood in comparison to population and livelihood to anticipate large scale migration movements."
-            points:
-      - title: Current and representative camp maps are trusted and used to plan service delivery
-        summary: ''
-        subs: 
-          - title: Adequate shelters are provided for in proportion to population
-            points:
-          - title: WASH facility needs are tracked
-            points: 
-            - Adequate services for population
-            - Repair needs are tracked
-          - title: Health facilities are accessible by population and healthcare providers 
-            points: 
-      - title: Migrants in non-camp areas know what services are accessible. 
-        summary: ''
-        subs: 
-          - title: ""
-            points:   
-block-2: 
+    points:
+    - title: All areas of migration receive basic services and programming
+      summary: ''
+      subs:
+      - title: Migration routes can be located to provide life saving services (water,
+          food, shelter, etc).
+        points: 
+    - title: Push and pull factors are anticipated and understood to plan for population
+        movements
+      summary: ''
+      subs:
+      - title: Services in areas neighboring conflict are located to plan for better
+          support of migrants.
+        points: 
+      - title: 'Economic drivers of migration are tied to a location. '
+        points:
+        - Rural to urban movements in search of better livelihoods.
+      - title: The scope of climate related impacts on economies (such as drought)
+          are understood in comparison to population and livelihood to anticipate
+          large scale migration movements.
+        points: 
+    - title: Current and representative camp maps are trusted and used to plan service
+        delivery
+      summary: ''
+      subs:
+      - title: Adequate shelters are provided for in proportion to population
+        points: 
+      - title: WASH facility needs are tracked
+        points:
+        - Adequate services for population
+        - Repair needs are tracked
+      - title: Health facilities are accessible by population and healthcare providers
+        points: 
+    - title: Migrants in non-camp areas know what services are accessible.
+      summary: ''
+      subs:
+      - title: ''
+        points: 
+block-2:
   title: Example Spatial Analyses
   points:
-    - Gap analysis of services in camp settings 
-    - Natural disaster risk and impacts in camp settings
-    - Assessment of services capacities in host communities for migrants (food, shelter, etc needs)
+  - Gap analysis of services in camp settings
+  - Natural disaster risk and impacts in camp settings
+  - Assessment of services capacities in host communities for migrants (food, shelter,
+    etc needs)
 block-3:
   heading: HOT Projects in Displacement & Safe Migration
   subheading: ''
-  sections: 
-    - heading: See also
-      points:
-        - Sustainable Cities & Communities for informal services in areas that may host migrants. 
-        - Disasters & Climate Resiliency for temporary evacuation and displacement.
-        - Measurements on OSM data quality requirements needed for work in this area
-    - heading: Coming soon...
-      points:
-        - Example OSM data models for Refugee/IDP situations
+  sections:
+  - heading: See also
+    points:
+    - Sustainable Cities & Communities for informal services in areas that may host
+      migrants.
+    - Disasters & Climate Resiliency for temporary evacuation and displacement.
+    - Measurements on OSM data quality requirements needed for work in this area
+  - heading: Coming soon...
+    points:
+    - Example OSM data models for Refugee/IDP situations
 ---
 
 <table>
