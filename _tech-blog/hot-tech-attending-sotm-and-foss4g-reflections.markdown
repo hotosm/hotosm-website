@@ -39,7 +39,7 @@ We loved the interest we had from participants at both State of the Map and FOSS
 In collaboration with Kontur, DK and Cristiano presented the OAM V2 redesign! Lots of appreciation from the community on the use of Open Aerial Map and excitement about what is to come next! We hope that the community will continue to be involved as we continue with the implementation of the OAM V2 redesign.
 ![IMG_0422 (1)-32e530.jpg](/uploads/IMG_0422%20(1)-32e530.jpg)
 
-### 26-Aug-2022 **Open Tech Collective: sharing HOT’s journey** \[[slides](https://drive.google.com/file/d/1QUEQYBe7tbDzf0pYLGf50Ox3NnxIKbtT/view?usp=sharing)\] - Petya Kangalova & Ichchha Moktan (KLL)
+### 26-Aug-2022 **Open Tech Collective: sharing HOT’s journey** \[[slides](https://docs.google.com/presentation/d/1p4UYqIJJxPsZFyMnHqN3HMCNuYB40jX0/edit?usp=sharing&ouid=117389532495112183827&rtpof=true&sd=true)\] - Petya Kangalova & Ichchha Moktan (KLL)
 First time for both Ichchha and myself attending, we really enjoyed the opportunity to connect with people and enjoyed the questions & appreciation from the community on the Tasking Manager tech collective approach! Make sure you [register](https://forms.gle/ayM7UN6fuXXWadbM8) and join our regular monthly Tasking Manager meet ups!
 ![IMG_0482 (1).jpg](/uploads/IMG_0482%20(1).jpg)
 ### 26-Aug-2022 **Using Terraform to manage HOTOSM’s infrastructure as code** \[[slides](https://talks.osgeo.org/media/foss4g-2022/submissions/NMQQT9/resources/220815_dk_foss4g-presentation-terraform_h8yTsRM.pdf)\] - DK Benjamin
