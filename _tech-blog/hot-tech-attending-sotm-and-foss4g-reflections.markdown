@@ -24,7 +24,7 @@ The simple answer to the question on what happened  is A LOT! Let’s take you o
 
 That session created some excitement and was lovely to get the feedback in the State of the Map Telegram group and some other blog posts about this being one of their favourite sessions. If you want to know more about hot_tech’s work on mobile, you can also join #mobile Slack channel.
 
-### 21-Aug-2022 **Investigating the capability of UAV imagery in AI-assisted mapping of Refugee Camps in East Africa** (Academic Lightning Talks) \[[slides](https://docs.google.com/presentation/d/1VQQqn3RPat8zzQSuNrcaEch5ExnSyqy6/edit#slide=id.p1)\] - Christopher Chan (HOT volunteer), Omran Najjar
+### 21-Aug-2022 **Investigating the capability of UAV imagery in AI-assisted mapping of Refugee Camps in East Africa** (Academic Lightning Talks) \[[slides](https://docs.google.com/presentation/d/1n-qkPFbj9y0b4QmI2nvHrWyn5Z6A51RR/edit?usp=sharing&ouid=117389532495112183827&rtpof=true&sd=true)\] - Christopher Chan (HOT volunteer), Omran Najjar
 
 Interested in AI assisted mapping and not had a chance to speak to Omran or Christoper? Please feel free reach out to us!
 
