@@ -28,7 +28,7 @@ That session created some excitement and was lovely to get the feedback in the S
 
 Interested in AI assisted mapping and not had a chance to speak to Omran or Christoper? Please feel free reach out to us!
 
-### 22-Aug-2022 [UnSummit hot_tech workshop](https://docs.google.com/presentation/d/1VQQqn3RPat8zzQSuNrcaEch5ExnSyqy6/edit#slide=id.p1) \[[slides](https://drive.google.com/file/d/1xar6ORm6onv7x2jlB7Hm4OdT44XoqnRd/view?usp=sharing)\]
+### 22-Aug-2022 [UnSummit hot_tech workshop](https://docs.google.com/presentation/d/1VQQqn3RPat8zzQSuNrcaEch5ExnSyqy6/edit#slide=id.p1) \[[slides](https://drive.google.com/file/d/1tiLaw9FpwtWWiwlyVf87oTfQ20dfGmy5/view?usp=sharing)\]
 We had our first hot_tech session as part of the unSummit. A small group of around 20 people joined us, met the hot_tech team, had discussions in small groups on products they were interested in and we also heard from the group on what they liked or want to improve in some of the hot_tech tools.  If you missed the session, please continue engaging on the [OSM Discourse platform](https://community.openstreetmap.org/t/engaging-with-hot-tech-at-sotm-foss4g-what-do-you-want-to-know-more-about/2143).
 [tech_workshop.PNG](/uploads/tech_workshop.PNG)
 
