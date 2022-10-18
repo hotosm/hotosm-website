@@ -1,6 +1,7 @@
 ---
 title: Awantika Pal
 date: 2021-04-12 12:19:00 Z
+published: false
 Photo: "/uploads/Awantikapicture.jpeg"
 Member Type:
   Is Staff: true
