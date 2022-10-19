@@ -4,7 +4,7 @@ date: 2021-04-12 12:19:00 Z
 published: false
 Photo: "/uploads/Awantikapicture.jpeg"
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Communications Associate - Asia Pacific
 Team: Asia Pacific Hub
 Social Media (Full URL):
