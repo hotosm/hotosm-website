@@ -63,6 +63,7 @@ I met some amazing people at the Open Source Summit and it is really the people 
 
 I am thinking to submit a proposal for next year’s Open Source Summit so that more people are introduced to HOTOSM tech: maybe a joint session with some of the people I met this year? I would love to see more development and humanitarian organizations present at the next summit! How do we make that happen? 
 
-Reach out to me if you want to find out more about any of the sessions or chat about my experience/reflection!  I will also be doing a short on 4 October and 11 October at the [HOT Community Working Group](https://www.hotosm.org/community/working-groups/). Hope to see you there!
+Reach out to me if you want to find out more about any of the sessions or chat about my experience/reflections!  I will also be doing a short presentation on 4 October and 11 October at the [HOT Community Working Group](https://www.hotosm.org/community/working-groups/). Hope to see you there!
 
+Here is also the [event report](https://events.linuxfoundation.org/wp-content/uploads/2022/10/OSS-EU22-PostEventReport-101122.pdf) from the Linux Foundation (one of my tweets made it into the report).
 
