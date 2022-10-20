@@ -11,8 +11,8 @@ Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Chelah
 ---
 
-Mercyleen is responsible for IT Security Management, Incident and Request Management, documentation of IT and Security related policies, IT projects’ implementation, system administration, risk analysis, project management, IT support as well as other operational tasks within IT and across teams. She is passionate about IT security and about the customer and always executes with that in mind. She has over 7 years of experience in IT. 
-
-She holds a bachelor's degree in Computer Technology from Jomo Kenyatta University of Agriculture and Technology and a master's degree in IT (Cybersecurity) from Carnegie Mellon University. 
-
-Prior to joining HOT, she worked for telecommunications, pharmaceutical and tech firms supporting different markets in Africa, AsiaPacific, the US and Europe. She has vast experience supporting remote teams, security and risk analysis on systems and processes, streamlining and running the Service Desk, documentation of best practices and IT policies and system administration. She loves outdoorsy activities and fun facts about her...she loves cooking, dancing, and enjoys meeting new people and travelling.
+Mercyleen is responsible for IT Security Management, Incident and Request Management, documentation of IT and Security related policies, IT projects’ implementation, system administration, risk analysis, project management, IT support, and other operational tasks within and across teams. She is passionate about IT security and the customer and always executes with that in mind. She has over seven years of experience in IT. 
+ 
+She holds a bachelor’s degree in Computer Technology from Jomo Kenyatta University of Agriculture and Technology and a master’s degree in IT (Cybersecurity) from Carnegie Mellon University. 
+ 
+Before joining HOT, she worked for telecommunications, pharmaceutical and tech firms supporting different markets in Africa, AsiaPacific, the US and Europe. She has vast experience supporting remote teams, security and risk analysis on systems and processes, streamlining and running the Service Desk, documentation of best practices and IT policies and system administration. She loves outdoorsy activities, and fun facts about her, she loves cooking and dancing, meeting new people, and travelling.
