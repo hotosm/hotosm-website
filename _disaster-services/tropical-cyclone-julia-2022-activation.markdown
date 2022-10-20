@@ -24,18 +24,15 @@ Source: CONRED
 
 Here is the list of projects to map the affected area (repurposed projects from Open Cities):
 
-<a href="https://tasks.hotosm.org/projects/11907">11907, 
+- <a href="https://tasks.hotosm.org/projects/11907">11907, 
 HURRICANE JULIA, GUATEMALA: IZABAL - LOS AMATES NORTE 2
 </a>
 
-<a href="https://tasks.hotosm.org/projects/12017">12017, 
-HURRICANE JULIA, GUATEMALA: IZABAL - EL ESTOR SURARCHIVED
+- <a href="https://tasks.hotosm.org/projects/12017"> 12017, HURRICANE JULIA, GUATEMALA: IZABAL - EL ESTOR SURARCHIVED
 </a>
 
-<a href="https://tasks.hotosm.org/projects/12018">12018, 
-HURRICANE JULIA, GUATEMALA: IZABAL - EL ESTOR ESTE
+- <a href="https://tasks.hotosm.org/projects/12018"> 12018, HURRICANE JULIA, GUATEMALA: IZABAL - EL ESTOR ESTE
 </a>
 
-<a href="https://tasks.hotosm.org/projects/13620">13620, 
-HURRICANE JULIA, GUATEMALA: IZABAL LOWLANDS EAST
+- <a href="https://tasks.hotosm.org/projects/13620"> 13620, HURRICANE JULIA, GUATEMALA: IZABAL LOWLANDS EAST
 </a>
