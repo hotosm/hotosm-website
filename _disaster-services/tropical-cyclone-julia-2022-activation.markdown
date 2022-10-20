@@ -22,7 +22,7 @@ Source: CONRED
 
 <be>  
 
-Here is the list of projects to map the affected area (repurposed projects from Open Cities):
+<strong>Here is the list of projects to map the affected area (repurposed projects from Open Cities):</strong>
 
 - <a href="https://tasks.hotosm.org/projects/11907">11907, 
 HURRICANE JULIA, GUATEMALA: IZABAL - LOS AMATES NORTE 2
