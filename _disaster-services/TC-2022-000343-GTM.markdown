@@ -1,0 +1,21 @@
+---
+title: Tropical Cyclone for JULIA-22 Alert
+date: 2022-10-07 18:42:00 Z
+Glide: TC-2022-000343-GTM
+Event Name: Tropical Cyclone for JULIA-22
+GDACS ID: TC 1000933
+GDACS-level: Red (2.5)
+Country:
+- Guatemala
+- Honduras
+- Nicaragua
+Event type: TC Tropical Cyclone
+Summary Text: Disaster Services is currently monitoring this event in the caribe.
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+source: <a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22712&record=1&last=7663"
+  target="_blank">GDACS</a>
+---
+
+"Tropical Storm Julia strengthened to hurricane level 1 and made landfall in Nicaragua causing significant rainfall in Guatemala, causing floods, landslides, and related impact"
