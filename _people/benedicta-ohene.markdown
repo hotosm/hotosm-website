@@ -17,4 +17,4 @@ Social Media (Full URL):
   LinkedIn: https://www.linkedin.com/in/benedicta-banful-ohene-amadi-255b9b115
 ---
 
-I am Benedicta from Ghana . I have been involved with OpenStreetMap since 2016. I started as a YouthMapper and now I am with OSM Ghana . I am also a drone pilot and involved in HOT Community Working Group.
+I am Benedicta from Ghana . I have been involved with OpenStreetMap since 2016. I started as a YouthMapper and now I am with OSM Ghana. I am also a drone pilot and involved in HOT Community Working Group.
