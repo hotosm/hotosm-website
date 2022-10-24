@@ -1,6 +1,14 @@
 ---
 title: 'Cayambe: Gestión de riesgo en áreas volcánicas'
 date: 2022-10-23 03:15:00 Z
+categories:
+- Mapping
+- community
+tags:
+- mapeo abierto
+- OpenStreetMap
+- Ecuador
+- OpenLabEc
 ---
 
 Quito, la capital de Ecuador, es una ciudad en medio de volcanes. Los volcanes no activos [Casitahua](https://es.wikipedia.org/wiki/Volc%C3%A1n_Casitagua) y Pululahua se encuentran muy cerca del área urbana norte, y el volcán activo [Pichincha](https://es.wikipedia.org/wiki/Volc%C3%A1n_Pichincha) esta también bastante cerca de la ciudad. Medianamente cerca se encuentran el [Antisana](https://es.wikipedia.org/wiki/Volc%C3%A1n_Antisana), el [Cotopaxi](https://es.wikipedia.org/wiki/Volc%C3%A1n_Cotopaxi) y el [Cayambe](https://es.wikipedia.org/wiki/Volc%C3%A1n_Cayambe) que de erupcionar afectarían a las poblaciones cercanas y en algunos casos a la propia ciudad de Quito, principalmente con la emisión de cenizas volcánicas, como ya ha ocurrido en el [pasado](https://journals.openedition.org/bifea/2290), y dependiendo del volcán y la fuerza de la erupción, hasta podrían afectar las fuentes de agua de la ciudad con deslizamientos y otros.
@@ -29,6 +37,8 @@ Las personas que participaron mostraron un buen grado de interés, aprendiendo l
 
 Testimonios de los participantes en la mapatón pueden ser vistos en los siguientes videos en Instagram: [David Molina](https://www.instagram.com/p/CivyWTLpGPT/), [Jessenia Vallejo](https://www.instagram.com/p/Cis81ySJ5JQ/), [Solange Yepez](https://www.instagram.com/p/CiyVGpfJSDn/).
 
+![20220910_124647.jpg](/uploads/20220910_124647.jpg)
+
 EL FUTURO
 
-Creemos que este primer paso para realizar acciones de mapeo colaborativo en Ecuador 
+Creemos que este primer paso para realizar acciones de mapeo colaborativo en Ecuador pronto sera replicado, tanto con las organizaciones que participaron en esta actividad como en otras que a raiz de la misma se han interesado y nos han contactado para 
