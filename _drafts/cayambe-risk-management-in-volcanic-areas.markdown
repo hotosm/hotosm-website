@@ -9,19 +9,19 @@ In this context, when Mayah Cueva from [AEON Art Gallery](https://www.instagram.
 
 ![20220906_135517.jpg](/uploads/20220906_135517.jpg)
 
-**MAPEO CAYAMBE**
+**MAPPING IN CAYAMBE**
 
 ![20220909_103057.jpg](/uploads/20220909_103057.jpg)
 
-La actividad programada para el día viernes 9 de setiembre contó con la participación de 20 personas y se realizó entre las 9am y las 6pm. Para poder llevarla a cabo tuvo que articularse los esfuerzos de diversas organizaciones e instituciones, tales como: HOT, OpenLabEc, Tierra Pura, Youthmappers/GeoMap Espe, Municipalidad de Cayambe – Oficinas de riesgo y turismo, Cruz Roja y el Instituto Geofísico Ecuador.
+The activity scheduled for Friday, September 9, had the participation of 20 people and took place between 9am and 6pm. In order to carry it out, the efforts of various organizations and institutions had to be coordinated, such as: HOT, OpenLabEc, Tierra Pura, Youthmappers/GeoMap Espe, Municipality of Cayambe - Risk and Tourism Offices, Red Cross and the Ecuadorian Geophysical Institute.
 
-Se realizó el mapeo de puntos de interés en 5 comunidades en la zona: Santo Domingo 2, Paquiestancia, Cariacu, Pesillo y La Chimba; todas ubicadas en la zona de influencia del volcán Cayambe. Para tal efecto se contó con un ómnibus de la Municipalidad de Cayambe, el cual permitió hacer el [despliegue](https://www.youtube.com/watch?v=RUVKyTnJ3pw) y posterior repliegue de los equipos de mapeo segun la ruta y cronograma previamente establecido.
+Points of interest were mapped in 5 communities in the area: Santo Domingo 2, Paquiestancia, Cariacu, Pesillo and La Chimba; all located in the area of influence of the Cayambe volcano. For this purpose, there was a bus from the Municipality of Cayambe, which allowed the [deployment](https://www.youtube.com/watch?v=RUVKyTnJ3pw) and subsequent withdrawal of the mapping teams according to the previously established route and schedule.
 
-Durante la labor de mapeo propiamente dicha, realizada con diversas herramientas móviles tales como Mapillary, Street Complete y Organic Maps, se introdujo y dio capacitación básica en el uso de estas herramientas a personal de la Municipalidad de Cayambe, de la Cruz Roja y del Instituto Geofísico.
+During the mapping work itself, carried out with various mobile tools such as Mapillary, Street Complete and Organic Maps, staff from the Municipality of Cayambe, the Red Cross and the Geophysical Institute were introduced and given basic training in the use of these tools.
 
-Testimonios de los participantes en la salida de mapeo pueden ser vistos en los siguientes videos en Instagram: [Esteban Brboric](https://www.instagram.com/p/CibLZGNpLpk/) (ciclista y guia), [José Franco](https://www.instagram.com/p/CiiBhG6AR4G/) (Cruz Roja), [Daniel Sierra](https://www.instagram.com/p/Cif_JA_JLns/) (Instituto Geofísico), [Cristian Almeida](https://www.instagram.com/p/CikxWoUp_O-/) (Municipio de Cayambe - Gestión de riesgos), [Dayana Andrade](https://www.instagram.com/p/CinLhh0gWOp/) (Municipio de Cayambe - Turismo).
+Testimonies of the participants in the mapping outing can be seen in the following videos on Instagram: [Esteban Brboric](https://www.instagram.com/p/CibLZGNpLpk/) (cyclist and guide), [José Franco](https://www.instagram.com/p/CiiBhG6AR4G/) (Red Cross), [Daniel Sierra](https://www.instagram.com/p/Cif_JA_JLns/) (Geophysical Institute), [Cristian Almeida](https://www.instagram.com/p/CikxWoUp_O-/) (Municipality of Cayambe - Risk management), [Dayana Andrade](https://www.instagram.com/p/CinLhh0gWOp/) (Municipality of Cayambe - Tourism).
 
-**MAPATÓN**
+**MAPATHON**
 
 ![20220910_114148.jpg](/uploads/20220910_114148.jpg)
 
