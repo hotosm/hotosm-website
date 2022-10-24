@@ -15,6 +15,8 @@ Quito, la capital de Ecuador, es una ciudad en medio de volcanes. Los volcanes n
 
 Bajo ese contexto, cuando Mayah Cueva de AEON Art Gallery nos propuso -al Hub y al [Openlab Ecuador](https://openlab.ec/)- organizar alguna actividad de mapeo con este tema del riesgo volcánico, rápidamente aceptamos y elaboramos un plan de acción. Con bastantes coordinaciones de por medio, finalmente se realizaron varias actividades -ver todas en la [página del proyecto](https://stories.hotosm.org/mapeo-de-volcanes-en-ecuador/index.html)- de las cuales las principales fueron: el mapeo en la ciudad de Cayambe y la Mapatón en la Universidad en Quito.
 
+![20220906_135517.jpg](/uploads/20220906_135517.jpg)
+
 **MAPEO CAYAMBE**
 
 ![20220909_103057.jpg](/uploads/20220909_103057.jpg)
@@ -39,6 +41,8 @@ Testimonios de los participantes en la mapatón pueden ser vistos en los siguien
 
 ![20220910_124647.jpg](/uploads/20220910_124647.jpg)
 
-EL FUTURO
+**EL FUTURO**
 
-Creemos que este primer paso para realizar acciones de mapeo colaborativo en Ecuador pronto sera replicado, tanto con las organizaciones que participaron en esta actividad como en otras que a raiz de la misma se han interesado y nos han contactado para 
+Creemos que este primer paso para realizar acciones de mapeo colaborativo en Ecuador pronto será replicado, tanto con las organizaciones que participaron en esta actividad como en otras que a raíz de la misma se han interesado y nos han contactado para futuras colaboraciones.
+
+El fortalecimiento y animación de las distintas comunidades OpenStreetMap en Ecuador es también un resultado de esta actividad que ya se empieza a ver y que seguiremos apoyando.
