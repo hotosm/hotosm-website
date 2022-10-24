@@ -20,7 +20,7 @@ Country:
 
 Quito, la capital de Ecuador, es una ciudad en medio de volcanes. Los volcanes no activos [Casitahua](https://es.wikipedia.org/wiki/Volc%C3%A1n_Casitagua) y Pululahua se encuentran muy cerca del área urbana norte, y el volcán activo [Pichincha](https://es.wikipedia.org/wiki/Volc%C3%A1n_Pichincha) esta también bastante cerca de la ciudad. Medianamente cerca se encuentran el [Antisana](https://es.wikipedia.org/wiki/Volc%C3%A1n_Antisana), el [Cotopaxi](https://es.wikipedia.org/wiki/Volc%C3%A1n_Cotopaxi) y el [Cayambe](https://es.wikipedia.org/wiki/Volc%C3%A1n_Cayambe) que de erupcionar afectarían a las poblaciones cercanas y en algunos casos a la propia ciudad de Quito, principalmente con la emisión de cenizas volcánicas, como ya ha ocurrido en el [pasado](https://journals.openedition.org/bifea/2290), y dependiendo del volcán y la fuerza de la erupción, hasta podrían afectar las fuentes de agua de la ciudad con deslizamientos y otros.
 
-Bajo ese contexto, cuando Mayah Cueva de [AEON Art Gallery](https://www.instagram.com/aeongallery/?hl=es) nos propuso -al Hub y al [Openlab Ecuador](https://openlab.ec/)- organizar alguna actividad de mapeo con este tema del riesgo volcánico, rápidamente aceptamos y elaboramos un plan de acción. Con bastantes coordinaciones de por medio, finalmente se realizaron varias actividades -ver todas en la [página del proyecto](https://stories.hotosm.org/mapeo-de-volcanes-en-ecuador/index.html)- de las cuales las principales fueron: el mapeo en la ciudad de Cayambe y la Mapatón en la Universidad en Quito.
+Bajo ese contexto, cuando Mayah Cueva de [AEON Art Gallery](https://www.instagram.com/aeongallery/?hl=es) nos propuso -al Hub y al [Openlab Ecuador](https://openlab.ec/)- organizar alguna actividad de mapeo con este tema del riesgo volcánico, rápidamente aceptamos y elaboramos un plan de acción. Con bastantes coordinaciones de por medio, finalmente se realizaron varias actividades -ver todas en la [página del proyecto](https://stories.hotosm.org/mapeo-de-volcanes-en-ecuador/index.html)- de las cuales las principales fueron: el mapeo en la ciudad de Cayambe y la Mapatón en la Escuela Politécnica Nacional en Quito.
 
 ![20220906_135517.jpg](/uploads/20220906_135517.jpg)
 
@@ -40,9 +40,9 @@ Testimonios de los participantes en la salida de mapeo pueden ser vistos en los 
 
 ![20220910_114148.jpg](/uploads/20220910_114148.jpg)
 
-La actividad –realizada el sábado 10 de setiembre- contó con la participación de 11 personas de manera presencial y 3 personas de manera virtual. El equipo a cargo (OpenLabEc, HOT y Youthmappers/GeoMap Espe) realizó una introducción a OpenStreetMap, HOT y el trabajo de mapeo como tal, mediante el uso del Tasking Manager para las zonas Reventador 1 y Cayambe.
+La actividad –realizada el sábado 10 de setiembre en la Escuela Politécnica Nacional- contó con la participación de 11 personas de manera presencial y 3 personas de manera virtual. El equipo a cargo (OpenLabEc, HOT y Youthmappers/GeoMap Espe) realizó una introducción a OpenStreetMap, HOT y el trabajo de mapeo como tal, mediante el uso del Tasking Manager para las zonas Reventador 1 y Cayambe.
 
-Las personas que participaron mostraron un buen grado de interés, aprendiendo las técnicas básicas de mapeo y contribuyendo a completar el mapeo en las zonas determinadas del mapatón. Asimismo manifestaron estar dispuestas a participar en futuras actividades similares. 
+Las personas que participaron mostraron un buen grado de interés, aprendiendo las técnicas básicas de mapeo y contribuyendo a completar el mapeo en las zonas determinadas del mapatón. Asimismo manifestaron estar dispuestas a participar en futuras actividades similares.
 
 Testimonios de los participantes en la mapatón pueden ser vistos en los siguientes videos en Instagram: [David Molina](https://www.instagram.com/p/CivyWTLpGPT/), [Jessenia Vallejo](https://www.instagram.com/p/Cis81ySJ5JQ/), [Solange Yepez](https://www.instagram.com/p/CiyVGpfJSDn/).
 
