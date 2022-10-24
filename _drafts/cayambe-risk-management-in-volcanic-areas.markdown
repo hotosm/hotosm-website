@@ -25,16 +25,16 @@ Testimonies of the participants in the mapping outing can be seen in the followi
 
 ![20220910_114148.jpg](/uploads/20220910_114148.jpg)
 
-La actividad –realizada el sábado 10 de setiembre en la Escuela Politécnica Nacional- contó con la participación de 11 personas de manera presencial y 3 personas de manera virtual. El equipo a cargo (OpenLabEc, HOT y Youthmappers/GeoMap Espe) realizó una introducción a OpenStreetMap, HOT y el trabajo de mapeo como tal, mediante el uso del Tasking Manager para las zonas Reventador 1 y Cayambe.
+The activity -carried out on Saturday, September 10 at the National Polytechnic School- was attended by 11 people in person and 3 people virtually. The team in charge (OpenLabEc, HOT and Youthmappers/GeoMap Espe) made an introduction to OpenStreetMap, HOT and the mapping work as such, using the Tasking Manager for the Reventador 1 and Cayambe zones.
 
-Las personas que participaron mostraron un buen grado de interés, aprendiendo las técnicas básicas de mapeo y contribuyendo a completar el mapeo en las zonas determinadas del mapatón. Asimismo manifestaron estar dispuestas a participar en futuras actividades similares.
+The people who participated showed a good degree of interest, learning the basic mapping techniques and helping to complete the mapping in the determined areas of the mapathon. They also expressed their willingness to participate in future similar activities.
 
-Testimonios de los participantes en la mapatón pueden ser vistos en los siguientes videos en Instagram: [David Molina](https://www.instagram.com/p/CivyWTLpGPT/), [Jessenia Vallejo](https://www.instagram.com/p/Cis81ySJ5JQ/), [Solange Yepez](https://www.instagram.com/p/CiyVGpfJSDn/).
+Testimonies of the participants in the mapathon can be seen in the following videos on Instagram: [David Molina](https://www.instagram.com/p/CivyWTLpGPT/), [Jessenia Vallejo](https://www.instagram.com/p/Cis81ySJ5JQ/), [Solange Yepez](https://www.instagram.com/p/CiyVGpfJSDn/).
 
 ![20220910_124647.jpg](/uploads/20220910_124647.jpg)
 
-**EL FUTURO**
+**THE FUTURE**
 
-Creemos que este primer paso para realizar acciones de mapeo colaborativo en Ecuador pronto será replicado, tanto con las organizaciones que participaron en esta actividad como en otras que a raíz de la misma se han interesado y nos han contactado para futuras colaboraciones.
+We believe that this first step to carry out collaborative mapping actions in Ecuador will soon be replicated, both with the organizations that participated in this activity and with others that have become interested as a result of it and have contacted us for future collaborations.
 
-El fortalecimiento y animación de las distintas comunidades OpenStreetMap en Ecuador es también un resultado de esta actividad que ya se empieza a ver y que seguiremos apoyando.
+The strengthening and animation of the different OpenStreetMap communities in Ecuador is also a result of this activity that is already beginning to be seen and that we will continue to support.
