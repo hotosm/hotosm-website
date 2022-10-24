@@ -9,6 +9,13 @@ tags:
 - OpenStreetMap
 - Ecuador
 - OpenLabEc
+Summary Text: La Gestión de riesgos en areas volcánicas en Ecuador es una actividad
+  necesaria en la cual el mapeo abierto tiene un papel importante. Desde el Hub dimos
+  un primer paso para lograr dicho objetivo.
+Feature Image: "/uploads/20220909_103057.jpg"
+Person: Juan Arellano Valdivia
+Country:
+- Ecuador
 ---
 
 Quito, la capital de Ecuador, es una ciudad en medio de volcanes. Los volcanes no activos [Casitahua](https://es.wikipedia.org/wiki/Volc%C3%A1n_Casitagua) y Pululahua se encuentran muy cerca del área urbana norte, y el volcán activo [Pichincha](https://es.wikipedia.org/wiki/Volc%C3%A1n_Pichincha) esta también bastante cerca de la ciudad. Medianamente cerca se encuentran el [Antisana](https://es.wikipedia.org/wiki/Volc%C3%A1n_Antisana), el [Cotopaxi](https://es.wikipedia.org/wiki/Volc%C3%A1n_Cotopaxi) y el [Cayambe](https://es.wikipedia.org/wiki/Volc%C3%A1n_Cayambe) que de erupcionar afectarían a las poblaciones cercanas y en algunos casos a la propia ciudad de Quito, principalmente con la emisión de cenizas volcánicas, como ya ha ocurrido en el [pasado](https://journals.openedition.org/bifea/2290), y dependiendo del volcán y la fuerza de la erupción, hasta podrían afectar las fuentes de agua de la ciudad con deslizamientos y otros.
