@@ -9,15 +9,15 @@ Bajo ese contexto, cuando Mayah Cueva de AEON Art Gallery nos propuso -al Hub y 
 
 **MAPEO CAYAMBE**
 
-![20220909_103057.jpg](/uploads/20220909_103057.jpg)\\
+![20220909_103057.jpg](/uploads/20220909_103057.jpg)
 
-La actividad programada para el día viernes 9 de septiembre contó con la participación de 20 personas y se realizó entre las 9am y las 6pm. Para poder llevarla a cabo tuvo que articularse los esfuerzos de diversas organizaciones e instituciones, tales como: HOT, OpenLabEc, Tierra Pura, Youthmappers/GeoMap Espe, Municipalidad de Cayambe – Oficinas de riesgo y turismo, Cruz Roja y el Instituto Geofísico Ecuador.
+La actividad programada para el día viernes 9 de setiembre contó con la participación de 20 personas y se realizó entre las 9am y las 6pm. Para poder llevarla a cabo tuvo que articularse los esfuerzos de diversas organizaciones e instituciones, tales como: HOT, OpenLabEc, Tierra Pura, Youthmappers/GeoMap Espe, Municipalidad de Cayambe – Oficinas de riesgo y turismo, Cruz Roja y el Instituto Geofísico Ecuador.
 
 Se realizó el mapeo de puntos de interés en 5 comunidades en la zona: Santo Domingo 2, Paquiestancia, Cariacu, Pesillo y La Chimba; todas ubicadas en la zona de influencia del volcán Cayambe. Para tal efecto se contó con un ómnibus de la Municipalidad de Cayambe, el cual permitió hacer el despliegue y posterior repliegue de los equipos de mapeo segun la ruta y cronograma previamente establecido.
 
-Durante la labor de mapeo propiamente dicha, realizada con diversas herramientas móviles tales como Mapillary, Street Complete y Organic Maps, se capacitó en el uso de estas herramientas a personal de la Municipalidad de Cayambe, de la Cruz Roja y del Instituto Geofísico.
+Durante la labor de mapeo propiamente dicha, realizada con diversas herramientas móviles tales como Mapillary, Street Complete y Organic Maps, se introdujo y dio capacitación basica en el uso de estas herramientas a personal de la Municipalidad de Cayambe, de la Cruz Roja y del Instituto Geofísico.
 
-https://www.instagram.com/p/CibLZGNpLpk/
+Testimonios de los participantes en la salida de mapeo pueden ser vistos en los siguientes videos en Instagram: [Esteban Brboric](https://www.instagram.com/p/CibLZGNpLpk/) (ciclista y guia), [José Franco](https://www.instagram.com/p/CiiBhG6AR4G/) (Cruz Roja), [Daniel Sierra](https://www.instagram.com/p/Cif_JA_JLns/) (Instituto Geofísico), [Cristian Almeida](https://www.instagram.com/p/CikxWoUp_O-/) (Municipio de Cayambe - Gestión de riesgos), [Dayana Andrade](https://www.instagram.com/p/CinLhh0gWOp/) (Municipio de Cayambe - Turismo).
 
 MAPATÓN
 
