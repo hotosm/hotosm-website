@@ -1,10 +1,21 @@
 ---
 title: 'Cayambe: Risk management in volcanic areas'
 date: 2022-10-24 05:58:00 Z
+categories:
+- community
+- Mapping
+tags:
+- OpenLabEc
+- OpenStreetMap
+- open mapping
+- Ecuador
 Summary Text: Risk management in volcanic areas in Ecuador is a necessary activity
   in which open mapping plays an important role. From the LATAM Hub we took a first
   step to achieve this goal.
 Feature Image: "/uploads/20220909_103057.jpg"
+Person: Juan Arellano Valdivia
+Country:
+- Ecuador
 ---
 
 Quito, the capital of Ecuador, is a city in the middle of volcanoes. The non-active volcanoes [Casitahua](https://volcano.si.edu/volcano.cfm?vn=352808) and Pululahua are very close to the northern urban area, and the active [Pichincha](https://en.wikipedia.org/wiki/Pichincha_(volcano)) volcano is also quite close to the city. Fairly close are the [Antisana](https://en.wikipedia.org/wiki/Antisana), the [Cotopaxi](https://en.wikipedia.org/wiki/Cotopaxi) and the [Cayambe](https://en.wikipedia.org/wiki/Cayambe_(volcano)), which if they erupt would affect the nearby towns and in some cases the city of Quito itself, mainly with the emission of volcanic ash, as has already happened in the [past](https://earthobservatory.nasa.gov/images/10427/ash-from-erupting-el-reventador-blankets-quito), and depending on the volcano and the force of the eruption, could even affect the city's water sources with landslides and others.
