@@ -9,11 +9,15 @@ Bajo ese contexto, cuando Mayah Cueva de AEON Art Gallery nos propuso -al Hub y 
 
 **MAPEO CAYAMBE**
 
-![20220909_103057.jpg](/uploads/20220909_103057.jpg)\
+![20220909_103057.jpg](/uploads/20220909_103057.jpg)\\
 
-La actividad programada para el día viernes 9 de septiembre contó con la participación de 20 personas y se realizó entre las 9am y las 6pm. Para poder llevarla a cabo tuvo que articularse los esfuerzos de diversas organizaciones e instituciones, tales como: HOT, OpenLabEc, Tierra Pura, Youthmappers/GeoMap Espe, Municipalidad de Cayambe – Oficinas de riesgo y turismo, Cruz Roja, Instituto Geofísico Ecuador, Global Voices.
+La actividad programada para el día viernes 9 de septiembre contó con la participación de 20 personas y se realizó entre las 9am y las 6pm. Para poder llevarla a cabo tuvo que articularse los esfuerzos de diversas organizaciones e instituciones, tales como: HOT, OpenLabEc, Tierra Pura, Youthmappers/GeoMap Espe, Municipalidad de Cayambe – Oficinas de riesgo y turismo, Cruz Roja y el Instituto Geofísico Ecuador.
 
-Se realizó mapeo a través de las herramientas Mapillary, Street Complete y Organic Maps en 5 comunidades: Santo Domingo 2, Paquiestancia, Cariacu, Pesillo y La Chimba; ubicadas en la zona de influencia del volcán Cayambe.
+Se realizó el mapeo de puntos de interés en 5 comunidades en la zona: Santo Domingo 2, Paquiestancia, Cariacu, Pesillo y La Chimba; todas ubicadas en la zona de influencia del volcán Cayambe. Para tal efecto se contó con un ómnibus de la Municipalidad de Cayambe, el cual permitió hacer el despliegue y posterior repliegue de los equipos de mapeo segun la ruta y cronograma previamente establecido.
+
+Durante la labor de mapeo propiamente dicha, realizada con diversas herramientas móviles tales como Mapillary, Street Complete y Organic Maps, se capacitó en el uso de estas herramientas a personal de la Municipalidad de Cayambe, de la Cruz Roja y del Instituto Geofísico.
+
+https://www.instagram.com/p/CibLZGNpLpk/
 
 MAPATÓN
 
@@ -43,11 +47,10 @@ Logros  1. Realización de una jornada de mapeo en campo según lo descrito prev
 
 * Instituto Geofísico Ecuador
 
-  
-  Viernes 9   Mapeo en campo – Cayambe (Ruta: Santo Domingo 2, Paquiestancia, Cariacu, Pesillo, La Chimba)
-  Sábado 10   Mapatón
+Viernes 9   Mapeo en campo – Cayambe (Ruta: Santo Domingo 2, Paquiestancia, Cariacu, Pesillo, La Chimba)
+Sábado 10   Mapatón
 
-  Vinculación de aproximadamente 40 personas de manera presencial entre los dos eventos realizados. 1. La confirmación del rol del OpenLabEc como un actor pertinente y necesario para las acciones en Ecuador por su nivel de compromiso y el conocimiento de personas, organizaciones y el contexto local.
+Vinculación de aproximadamente 40 personas de manera presencial entre los dos eventos realizados. 1. La confirmación del rol del OpenLabEc como un actor pertinente y necesario para las acciones en Ecuador por su nivel de compromiso y el conocimiento de personas, organizaciones y el contexto local.
 
 * La planeación metodológica y logística previa, debe ser manejada al detalle y reforzarse continuamente con todas las partes involucradas para que cada quien asuma su rol.
 
