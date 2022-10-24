@@ -13,7 +13,7 @@ Bajo ese contexto, cuando Mayah Cueva de AEON Art Gallery nos propuso -al Hub y 
 
 La actividad programada para el día viernes 9 de setiembre contó con la participación de 20 personas y se realizó entre las 9am y las 6pm. Para poder llevarla a cabo tuvo que articularse los esfuerzos de diversas organizaciones e instituciones, tales como: HOT, OpenLabEc, Tierra Pura, Youthmappers/GeoMap Espe, Municipalidad de Cayambe – Oficinas de riesgo y turismo, Cruz Roja y el Instituto Geofísico Ecuador.
 
-Se realizó el mapeo de puntos de interés en 5 comunidades en la zona: Santo Domingo 2, Paquiestancia, Cariacu, Pesillo y La Chimba; todas ubicadas en la zona de influencia del volcán Cayambe. Para tal efecto se contó con un ómnibus de la Municipalidad de Cayambe, el cual permitió hacer el despliegue y posterior repliegue de los equipos de mapeo segun la ruta y cronograma previamente establecido.
+Se realizó el mapeo de puntos de interés en 5 comunidades en la zona: Santo Domingo 2, Paquiestancia, Cariacu, Pesillo y La Chimba; todas ubicadas en la zona de influencia del volcán Cayambe. Para tal efecto se contó con un ómnibus de la Municipalidad de Cayambe, el cual permitió hacer el [despliegue](https://www.youtube.com/watch?v=RUVKyTnJ3pw) y posterior repliegue de los equipos de mapeo segun la ruta y cronograma previamente establecido.
 
 Durante la labor de mapeo propiamente dicha, realizada con diversas herramientas móviles tales como Mapillary, Street Complete y Organic Maps, se introdujo y dio capacitación básica en el uso de estas herramientas a personal de la Municipalidad de Cayambe, de la Cruz Roja y del Instituto Geofísico.
 
@@ -28,3 +28,7 @@ La actividad –realizada el sábado 10 de setiembre- contó con la participaci�
 Las personas que participaron mostraron un buen grado de interés, aprendiendo las técnicas básicas de mapeo y contribuyendo a completar el mapeo en las zonas determinadas del mapatón. Asimismo manifestaron estar dispuestas a participar en futuras actividades similares. 
 
 Testimonios de los participantes en la mapatón pueden ser vistos en los siguientes videos en Instagram: [David Molina](https://www.instagram.com/p/CivyWTLpGPT/), [Jessenia Vallejo](https://www.instagram.com/p/Cis81ySJ5JQ/), [Solange Yepez](https://www.instagram.com/p/CiyVGpfJSDn/).
+
+EL FUTURO
+
+Creemos que este primer paso para realizar acciones de mapeo colaborativo en Ecuador 
