@@ -5,20 +5,7 @@ date: 2022-10-23 03:15:00 Z
 
 Quito, la capital de Ecuador, es una ciudad en medio de volcanes. Los volcanes no activos [Casitahua](https://es.wikipedia.org/wiki/Volc%C3%A1n_Casitagua) y Pululahua se encuentran muy cerca del área urbana norte, y el volcán activo [Pichincha](https://es.wikipedia.org/wiki/Volc%C3%A1n_Pichincha) esta también bastante cerca de la ciudad. Medianamente cerca se encuentran el [Antisana](https://es.wikipedia.org/wiki/Volc%C3%A1n_Antisana), el [Cotopaxi](https://es.wikipedia.org/wiki/Volc%C3%A1n_Cotopaxi) y el [Cayambe](https://es.wikipedia.org/wiki/Volc%C3%A1n_Cayambe) que de erupcionar afectarían a las poblaciones cercanas y en algunos casos a la propia ciudad de Quito, principalmente con la emisión de cenizas volcánicas, como ya ha ocurrido en el [pasado](https://journals.openedition.org/bifea/2290), y dependiendo del volcán y la fuerza de la erupción, hasta podrían afectar las fuentes de agua de la ciudad con deslizamientos y otros.
 
-Bajo ese contexto, cuando Mayah Cueva de AEON Art Gallery nos propuso -al Hub y al [Openlab Ecuador](https://openlab.ec/)- organizar alguna actividad de mapeo con este tema del riesgo volcánico, rápidamente aceptamos y elaboramos un plan de acción. 
-
-MEMORIAS TRABAJO DE CAMPO
-QUITO – ECUADOR, 5-11 SETIEMBRE 2022
-
-CONTENIDO
-
-* Mapeo Cayambe
-
-* Mapatón
-
-* Relación de logros, aprendizajes, retos, pasos a seguir
-
-* Relación de actividades realizadas día a día
+Bajo ese contexto, cuando Mayah Cueva de AEON Art Gallery nos propuso -al Hub y al [Openlab Ecuador](https://openlab.ec/)- organizar alguna actividad de mapeo con este tema del riesgo volcánico, rápidamente aceptamos y elaboramos un plan de acción. Con bastantes coordinaciones de por medio, finalmente se realizaron varias actividades de las cuales las principales fueron: el mapeo en la ciudad de Cayambe y la Mapatón en la Universidad en Quito.
 
 MAPEO CAYAMBE
 
