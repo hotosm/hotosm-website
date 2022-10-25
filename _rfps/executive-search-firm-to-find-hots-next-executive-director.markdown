@@ -1,7 +1,6 @@
 ---
 title: Executive Search Firm to Find HOT’s Next Executive Director
 date: 2022-10-25 18:01:00 Z
-published: false
 Deadline Date: 2022-11-20 00:00:00 Z
 Page Contact:
   Contact Email: hr@hotosm.org
