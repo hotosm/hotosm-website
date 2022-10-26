@@ -2,6 +2,9 @@
 title: Crowd-Source Mapping for Disaster Management (Timor Leste)
 date: 2022-10-26 07:22:00 Z
 published: false
+Person: Harry Mahardhika Machmud
+Country:
+- Timor-Leste
 ---
 
 Equipping local communities with the ability to use OSM for decision-making and providing relevant information/attributes for disaster management.
