@@ -10,7 +10,7 @@ Project:
 - 
 ---
 
-# > Equipping local communities with the ability to use OSM for decision-making and providing relevant information/attributes for disaster management.
+*# > Equipping local communities with the ability to use OSM for decision-making and providing relevant information/attributes for disaster management.*
 
 
 ![Screen Shot 2022-10-26 at 12.23.09 PM.png](/uploads/Screen%20Shot%202022-10-26%20at%2012.23.09%20PM.png)
