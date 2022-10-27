@@ -1,6 +1,6 @@
 ---
 title: 'Pakistan: Floods, Monsoon Season 2022'
-date: 2022-10-27 08:41:00 Z
+date: 2022-06-14 08:41:00 Z
 Glide:
 - FL-2022-000254-PAK
 Event Name: Flood in Pakistan - 22
