@@ -1,7 +1,6 @@
 ---
 title: Crowd-Source Mapping for Disaster Management in Timor Leste
 date: 2022-10-26 07:22:00 Z
-published: false
 Person: Harry Mahardhika Machmud
 Country:
 - Timor-Leste
