@@ -1,5 +1,5 @@
 ---
-title: 'Pakistan: Floods, Monsoon Season 2022'
+title: 'Pakistan: Floods, Monsoon Season 2022 Alert'
 date: 2022-06-14 08:41:00 Z
 Glide:
 - FL-2022-000254-PAK
