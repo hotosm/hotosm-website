@@ -9,7 +9,7 @@ Country:
 - Puerto Rico
 - Dominican Republic
 Event type: TC Tropical Cyclone
-Summary Text: Disaster Services is currently monitoring this event in the Caribe.
+Summary Text: Disaster Services is currently monitoring this event in the Caribbean.
 Feature Image: TC Tropical Cyclone
 Status: alert
 Post-type: update
