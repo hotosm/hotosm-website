@@ -65,5 +65,5 @@ I am thinking to submit a proposal for next year’s Open Source Summit so that 
 
 Reach out to me if you want to find out more about any of the sessions or chat about my experience/reflections!  I will also be doing a short presentation on 4 October and 11 October at the [HOT Community Working Group](https://www.hotosm.org/community/working-groups/). Hope to see you there!
 
-Here is also the [event report](https://events.linuxfoundation.org/wp-content/uploads/2022/10/OSS-EU22-PostEventReport-102122.pdf) from the Linux Foundation (one of my tweets made it into the report).
+You can also now read the [post event report](https://events.linuxfoundation.org/open-source-summit-europe/) from the Linux Foundation (one of my tweets made it into the report).
 
