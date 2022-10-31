@@ -98,5 +98,77 @@ layout: default
       {% endfor %}
     </div>
   </div>
+  <div id="impact-projects" class="container">
+    <div class="hr-h"></div>
+    <h4>Highlighted Projects</h4>
+
+    <div class="project-index-highlights">
+
+      {% assign sorted-projects = site.projects | sort:"position" %}
+
+      {% assign highlight_count = 0 %}
+      {% for project in sorted-projects %}
+        {% if project['Impact Area'] contains page.title %}
+
+          {% assign highlight_count = highlight_count | plus: 1 %}
+          {% if highlight_count > 3 %}
+            {% break %}
+          {% endif %}
+
+          {% include blocks/project-highlight.html %}
+
+        {% endif %}
+      {% endfor %}
+
+      <div class="hr-h"></div>
+    </div>
+
+    {% assign project_head_count = 0 %}
+    {% for project in sorted-projects %}
+      {% if project['Impact Area'] contains page.title %}
+
+        {% assign project_head_count = project_head_count | plus: 1 %}
+        {% if project_head_count > 3 %}
+
+          <h4>More {{ page.title }} Projects</h4>
+          
+          <div class="project-index-all">
+
+          {% break %}
+
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign project_count = 0 %}
+    {% for project in sorted-projects %}
+      {% if project['Impact Area'] contains page.title %}
+
+        {% assign project_count = project_count | plus: 1 %}
+        {% if project_count > 3 %}
+          {% unless project_count < 4 %}
+            {% include blocks/project-thumb.html %}
+          {% endunless %}
+
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign project_foot_count = 0 %}
+    {% for project in sorted-projects %}
+      {% if project['Impact Area'] contains page.title %}
+
+        {% assign project_foot_count = project_foot_count | plus: 1 %}
+        {% if project_foot_count > 3 %}
+
+          </div>
+
+          {% break %}
+
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    </div>
 </div>
   
