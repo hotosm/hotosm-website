@@ -10,7 +10,7 @@ Is Community-Led: true
 Country:
 - Sierra Leone
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Partner:
 - OpenStreetMap Sierra Leone
 Duration:

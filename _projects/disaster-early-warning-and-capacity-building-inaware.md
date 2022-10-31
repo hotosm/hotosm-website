@@ -10,7 +10,7 @@ Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2018-06-07+at+22.04.38
 Country:
 - Indonesia
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Person:
 - Yantisa Akhadi
 - Harry Mahardhika Machmud

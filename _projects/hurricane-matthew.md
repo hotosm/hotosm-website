@@ -9,7 +9,7 @@ Feature Image: https://cdn.hotosm.org/website/30144517616_fe5c10a6bf_k.jpg
 Country:
 - Haiti
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Person:
 - Blake Girardot
 - Miriam Gonzalez

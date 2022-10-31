@@ -11,7 +11,7 @@ Is image top aligned: true
 Country:
 - Liberia
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 - Sustainable Cities & Communities
 Person:
 - David Luswata

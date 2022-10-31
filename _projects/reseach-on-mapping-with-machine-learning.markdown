@@ -7,7 +7,7 @@ Project Summary Text: HOT is working with the Netherlands Red Cross to have an e
   OSM data for training machine learning models.
 Feature Image: https://cdn.hotosm.org/website/ai-polygon-pass.jpg
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Person:
 - Bo Percival
 - Felix Delattre

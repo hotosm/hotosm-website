@@ -14,7 +14,7 @@ Country:
 - Zimbabwe
 - Malawi
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Person:
 - Russell Deffner
 Duration:

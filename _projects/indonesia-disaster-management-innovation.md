@@ -14,7 +14,7 @@ Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2018-06-11+at+14.56.17
 Country:
 - Indonesia
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 - Sustainable Cities & Communities
 Person:
 - Yantisa Akhadi

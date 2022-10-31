@@ -12,7 +12,7 @@ Country:
 - Sierra Leone
 Impact Area:
 - Public Health
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Person:
 - Harry Wood
 - Mhairi O'Hara

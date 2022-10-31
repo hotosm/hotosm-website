@@ -11,7 +11,7 @@ Country:
 - Tanzania
 - Uganda
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Person:
 - Felix Delattre
 - Nate Smith

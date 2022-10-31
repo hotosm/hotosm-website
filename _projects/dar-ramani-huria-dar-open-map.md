@@ -11,7 +11,7 @@ Is Community-Led: false
 Country:
 - Tanzania
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 - Sustainable Cities & Communities
 Person:
 - Ivan Gayton

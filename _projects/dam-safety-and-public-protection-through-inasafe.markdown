@@ -12,7 +12,7 @@ Is Community-Led: false
 Country:
 - Indonesia
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 - Sustainable Cities & Communities
 Person:
 - Yantisa Akhadi

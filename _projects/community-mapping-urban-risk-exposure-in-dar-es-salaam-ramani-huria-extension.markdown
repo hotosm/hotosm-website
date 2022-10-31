@@ -11,7 +11,7 @@ Country:
 - Tanzania
 Impact Area:
 - Sustainable Cities & Communities
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Partner:
 - World Bank
 - U.K. Department for International Development (DfID)

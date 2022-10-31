@@ -14,9 +14,9 @@ Is Community-Led: true
 Country:
 - Brazil
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 - Sustainable Cities & Communities
-- 'IMPACT AREAS:'
+- Impact Areas
 Duration:
   End Date: 2022-08-22 00:00:00 Z
 Data:

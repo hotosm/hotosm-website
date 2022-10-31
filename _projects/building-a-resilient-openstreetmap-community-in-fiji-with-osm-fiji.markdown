@@ -7,7 +7,7 @@ Is Community-Led: true
 Country:
 - Fiji
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Partner:
 - OSM Fiji
 Duration:

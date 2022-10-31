@@ -20,7 +20,7 @@ Country:
 - Guatemala
 - Japan
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Person:
 - Russell Deffner
 - Blake Girardot

@@ -11,7 +11,7 @@ Feature Image: https://cdn.hotosm.org/website/Field%20Mapping%20Training%20in%20
 Country:
 - Philippines
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Person:
 - Bry Damasco
 Partner:

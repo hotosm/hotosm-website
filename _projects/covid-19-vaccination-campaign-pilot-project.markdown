@@ -9,7 +9,7 @@ Feature Image: https://www.hotosm.org/uploads/SDN_CV19_featured2@300x.png
 Country:
 - South Sudan
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 - Public Health
 Person:
 - Logan McGovern

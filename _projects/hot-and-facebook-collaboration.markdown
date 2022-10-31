@@ -12,7 +12,7 @@ Country:
 - Tanzania
 - Vietnam
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 - Sustainable Cities & Communities
 Person:
 - Russell Deffner

@@ -13,8 +13,7 @@ Is Community-Led: false
 Country:
 - Uganda
 Impact Area:
-- Disasters & Climate  Resilience
-- 
+- Disasters & Climate Resilience
 - Sustainable Cities
 Person:
 - Sara Amadi

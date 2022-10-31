@@ -29,7 +29,7 @@ Country:
 - Trinidad and Tobago
 - Turks and Caicos Islands
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Person:
 - Jess Beutler
 - Riley Moepswa

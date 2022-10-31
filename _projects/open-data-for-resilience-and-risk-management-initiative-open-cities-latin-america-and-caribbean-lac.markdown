@@ -12,8 +12,8 @@ Country:
 - Saint Lucia
 Impact Area:
 - Sustainable Cities & Communities
-- Disasters & Climate  Resilience
-- 'IMPACT AREAS:'
+- Disasters & Climate Resilience
+- Impact Areas
 Partner:
 - Global Fund for Disaster Reduction and Recovery
 - SWISS RE Foundation

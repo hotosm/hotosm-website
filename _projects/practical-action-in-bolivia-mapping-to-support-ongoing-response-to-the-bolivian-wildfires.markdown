@@ -11,7 +11,7 @@ Is Community-Led: true
 Country:
 - Bolivia
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Partner:
 - Practical Action en América Latina
 Duration:

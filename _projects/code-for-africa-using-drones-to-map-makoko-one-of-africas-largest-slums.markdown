@@ -11,7 +11,7 @@ Country:
 Impact Area:
 - Sustainable Cities & Communities
 - Public Health
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 ---
 
 **2019 Microgrant**    

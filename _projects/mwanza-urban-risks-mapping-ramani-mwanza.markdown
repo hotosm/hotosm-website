@@ -10,7 +10,7 @@ Country:
 - Tanzania
 Impact Area:
 - Sustainable Cities & Communities
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Duration:
   Start Date: 2020-09-05 00:00:00 Z
   End Date: 2021-08-31 00:00:00 Z

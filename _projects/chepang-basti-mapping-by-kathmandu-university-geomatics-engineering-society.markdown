@@ -7,7 +7,7 @@ Is Community-Led: true
 Country:
 - Nepal
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 - Public Health
 - Sustainable Cities & Communities
 Partner:

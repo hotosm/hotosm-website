@@ -9,7 +9,7 @@ Is Community-Led: true
 Country:
 - Bangladesh
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Person:
 - Tasauf A Baki Billah (Ribin)
 ---

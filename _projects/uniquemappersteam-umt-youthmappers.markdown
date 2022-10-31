@@ -11,7 +11,7 @@ Is Community-Led: true
 Country:
 - Nigeria
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 - Gender Equality
 Person:
 - Victor N Sunday

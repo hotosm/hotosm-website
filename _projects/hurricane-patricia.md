@@ -9,7 +9,7 @@ Feature Image: https://cdn.hotosm.org/website/EMSR144-copernicus.jpg
 Country:
 - Mexico
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Person:
 - Mikel Maron
 - Blake Girardot

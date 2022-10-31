@@ -10,7 +10,7 @@ Country:
 - Fiji
 - Tonga
 Impact Area:
-- Disasters & Climate  Resilience
+- Disasters & Climate Resilience
 Person:
 - Nate Smith
 Partner:
