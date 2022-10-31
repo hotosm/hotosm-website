@@ -4,7 +4,7 @@ date: 2022-01-24 16:07:00 Z
 Photo: "/uploads/photo.png"
 Member Type:
   Is Staff: true
-Job Title: Partnerships Associate
+Job Title: Project Associate
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/pranauri
