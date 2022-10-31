@@ -13,9 +13,9 @@ Hablar de datos abiertos puede parecer algo especializado para el publico en gen
 
 Los temas de los datos abiertos georeferenciados en general o el mapeo abierto en particular si bien tuvieron cierto protagonismo en anteriores ediciones del evento, en esta ocasion (ver [agenda](https://americaabierta.org/agenda/)) fueron mencionados solo de pasada y con pocos proyectos destacandolos, aunque en las conversaciones en los pasillos si surgieron casos de uso e interes al mencionarlos.
 
-Una de las cosas 
+En todo este contexto, una de las cosas importantes de los tres dias del evento fue la Declaracion de America Abierta, un documento con ideas claras acerca de que quiere la comunidad de datos abiertos para la region. Como ejemplo extraigo unas citas de dicho documento:
 
-> Queremos una América Abierta para que la ciudadanía sea genuinamente incluida, y el ejercicio de la misma sea libre.Queremos una justicia abierta, que además de eficiente y accesible garantice los derechos de todas las personas.
+> Queremos una América Abierta para que la ciudadanía sea genuinamente incluida, y el ejercicio de la misma sea libre. Queremos una justicia abierta, que además de eficiente y accesible garantice los derechos de todas las personas.
 >
 > Queremos una América Abierta que visibilice a grupos que han sido estructuralmente excluidos de los espacios de decisión y cuyos derechos son aún sistemáticamente vulnerados, como son las mujeres, las comunidades indígenas, las personas LGTBQ\+ y las comunidades afro. Nada en su nombre, sin que se haga en conjunto.
 >
@@ -23,8 +23,6 @@ Una de las cosas
 
 En diez años de trabajo las cosas han evolucionado bastante, cuando se menciona casos de éxito ya no se trata de la iniciativa particular de alguien que hizo [data](https://es.wikipedia.org/wiki/Screen_scraping) [scrapping](https://es.wikipedia.org/wiki/Web_scraping) sobre un PDF o una página web, sino se habla de el uso de los datos de algún gobierno en una operación con cierto nivel de financiamiento por parte de alguna ONG. Quizás se hace extrañar ese espíritu hacker de los primeros tiempos pero tampoco es que se haya ido del todo, solo hay que buscarlo.
 
-Y esa fue mi misión -entre otras-, buscar gente interesante con la cual conversar de usos de datos (geoespaciales sobre todo), de comunidades de práctica involucradas con las comunidades de su entorno, conocer experiencias inspiradoras -el DataLabe de Rio de Janeiro fue mi favorita- y el ultimo dia algo que surgió como una necesidad: buscar y reunir a los peruanos presentes. Creí que era el único, pero luego fui conociendo otros y bueno, en la foto de arriba estamos casi todos, así que por ese lado: misión cumplida!
-
 En la clausura del evento se les preguntó dos cosas a algunos de los asistentes. Primero, qué se llevaban de “América Abierta”, mi respuesta sería que la gente, conocer a tanta gente que hace cosas en circunstancias a veces adversas sirve para no desanimarse y seguir trabajando en lo que uno cree y le gusta. Segundo, se preguntó qué se planteaban de tarea, pues la mía sería mantener conectado al grupo peruano formado con el interés común por los datos abiertos y el gobierno abierto, ¡y ya estamos en eso!
 
-Finalmente, no hay evento memorable sin una anécdota que contar, y esta es la mía: El segundo día de la conferencia la fila para almorzar era larga pero la conversación interesante. Los temas se sucedían veloces: datos, mapas, redes sociales, migración. Era inevitable mencionar a los venezolanos en este último tema, aparecieron cifras, opiniones. Ya como concluyendo dije que el choque cultural para ellos como caribeños había sido fuerte en la parte andina del continente. “What? for us venezuelans are not caribbeans, they are south americans!” exclamó apresurada la amiga de Trinidad y Tobago. Fue ahí que pensé que América se debe abrir en más sentidos que solo los datos. Aún tenemos límites que cruzar, barreras que romper, realidades por conocer. ¡Abramos América!
+Fue ahí que pensé que América se debe abrir en más sentidos que solo los datos. Aún tenemos límites que cruzar, barreras que romper, realidades por conocer. ¡Abramos América!
