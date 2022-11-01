@@ -14,10 +14,10 @@ HOT’s board of directors sees this current leadership transition as a ***momen
 
 The transition will be guided by our **values**:
 
-* Put people first
+** Put people first
 * Collaborate for impact
 * Work in the open
-* Build for inclusivity
+* Build for inclusivity*
 
 ### Next Steps:
 
@@ -30,5 +30,6 @@ Kate Chapman
 President, Board of Directors
 
 
-Find out how you can be a part of the [open mapping movement](https://www.hotosm.org/get-involved)! 
+*Find out how you can be a part of the [open mapping movement](https://www.hotosm.org/get-involved)! 
 
+*
