@@ -14,10 +14,10 @@ HOT’s board of directors sees this current leadership transition as a ***momen
 
 The transition will be guided by our **values**:
 
-## *Put people first
-## * Collaborate for impact
-## * Work in the open
-## * Build for inclusivity
+###*Put people first
+###* Collaborate for impact
+###* Work in the open
+###* Build for inclusivity
 
 ### Next Steps:
 
