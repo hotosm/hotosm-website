@@ -12,14 +12,15 @@ Since 2015, Tyler has led the team in becoming a trusted ally to communities and
 
 HOT’s board of directors sees this current leadership transition as a ***moment of opportunity*** to further embrace our role as a catalyst within the open mapping space. 
 
-The transition will be guided by our values:
+The transition will be guided by our **values**:
 
 * Put people first
 * Collaborate for impact
 * Work in the open
 * Build for inclusivity
 
-Next Steps:
+### Next Steps:
+
 We will work with an executive search firm to recruit HOT’s next Executive Director and anticipate that a new leader will join the organization in the first half of 2023. In the interim, HOT has appointed Rebecca Firth as Deputy Executive Director. She will serve as Interim Executive Director starting January 3, following Tyler’s departure.  
 
 > Heartfelt thanks again to Tyler for his leadership over the past seven years. We are optimistic about HOT’s future and the opportunities that lie ahead. We look forward to working with the wider community to improve the wellbeing of people and the health of our planet by growing the open mapping movement. 
