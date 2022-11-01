@@ -47,7 +47,7 @@ Bringing OSM data quality research into practice and to better understand what i
 
 ![unnamed (1)-f5c90b.png](/uploads/unnamed%20(1)-f5c90b.png)
 
-This leads to a set of requirements that indicate when data is suitable to satisfy selected data use cases.Along with identifying metrics and measurements of data quality situated within the three major categories:positional accuracy, completeness, and semantic accuracy. We identified these as part of the first version of the “Data Quality top 10”.
+This leads to a set of requirements that indicate when data is suitable to satisfy selected data use cases.Along with identifying metrics and measurements of data quality situated within the three major categories:positional accuracy, completeness, and semantic accuracy. We identified these as part of the first version of the [“Data Quality top 10”](https://www.openstreetmap.org/user/ngumenawesamson/diary/399636).
 
 **What happens next**
 
