@@ -2,12 +2,11 @@
 title: HOT’s Executive Director Transition
 date: 2022-11-01 08:38:00 Z
 published: false
-Summary Text: "> After leading the organization for seven years, HOT’s Executive Director,
-  Tyler Radford, has announced his decision to step down at the end of 2022. after
-  leading the organization for seven years."
+Summary Text: 'After leading the organization for seven years, HOT’s Executive Director,
+  Tyler Radford, has announced his decision to step down at the end of 2022. '
 ---
 
-After leading the organization for seven years, HOT’s Executive Director, Tyler Radford, has announced his decision to step down at the end of 2022. after leading the organization for seven years.
+HOT’s Executive Director, Tyler Radford, has announced his decision to step down at the end of 2022, after leading the organization for seven years.
 
 Since 2015, Tyler has led the team in becoming a trusted ally to communities and partners globally. In 2020, HOT was selected as an awardee of the [Audacious Project](https://www.audaciousproject.org/grantees/humanitarian-openstreetmap-team) for big, bold solutions. The organization launched [regional Open Mapping Hubs](https://www.hotosm.org/hubs/) to prioritize community-led action in 2021 and 2022. And earlier this year, HOT completed an inspiring Living Strategy to guide our work in the years ahead. 
 
