@@ -25,6 +25,7 @@ We will work with an executive search firm to recruit HOT’s next Executive Dir
 
 > Heartfelt thanks again to Tyler for his leadership over the past seven years. We are optimistic about HOT’s future and the opportunities that lie ahead. We look forward to working with the wider community to improve the wellbeing of people and the health of our planet by growing the open mapping movement. 
 
+
 Kate Chapman
 President, Board of Directors
 
