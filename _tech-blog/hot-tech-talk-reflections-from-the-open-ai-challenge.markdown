@@ -14,9 +14,9 @@ tags:
 Summary Text: 'Over the past few years, HOT has taken a leadership role in experimenting
   with, and facilitating for, the application of open-source and fair artificial intelligence
   in mapping. What is the status? Well, let me tell you: we are only a few months
-  away now from launching our open AI-mapping service (fAIr [LINK])! With great help
-  from 50+ AI engineers from the Omdena community who are currently crunching code
-  with us!'
+  away now from launching our open AI-mapping service (fAIr [LINK])! And we are getting
+  great help from 50+ AI engineers from the Omdena community who are currently crunching
+  code with us!'
 Person: Synne Olsen
 ---
 
@@ -45,7 +45,7 @@ As we speak, a team of 50+ AI engineers have been crunching code to see which of
 [Synne]: Ok, cool! Thanks for that explanation. So what are some key outcomes so far? Something that has surprised you? 
 
 [Omran]: I will highlight two things about the team and the challenge that really surprised me:
-The diversity of knowledge coming from Omdenas’ collaborators is amazing! For instance, the various team members all have different techniques within deep learning and machine learning techniques in their  “toolbox”. Different models - new models by ourselves, and we are trying RAMP.
+The diversity of knowledge coming from Omdena's collaborators is amazing! For instance, the various team members all have different techniques within deep learning and machine learning techniques in their  “toolbox”. Different models - new models by ourselves, and we are trying RAMP.
 The efficiency of Omdena’s coordination is the second. I am amazed how organised and delivery-oriented they are. Normally projects don’t work this well! It has all been very professional. 
 
 ## Want to know more?
