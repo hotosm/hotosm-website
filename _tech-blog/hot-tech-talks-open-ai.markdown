@@ -19,6 +19,7 @@ Person: Omran Najjar
 * Technical level: low
 * Estimate read: 5 min
 
+
 Back in 2020, [HOT and the Netherlands Red Cross](https://www.hotosm.org/projects/reseach-on-mapping-with-machine-learning/) worked on having an evidence-based look at current AI-supported mapping flows and took the next step towards using OSM data for training machine learning models. Today, we are a few months away from launching HOT’s open AI-assisted mapping service: fAIr.
 
 # About fAIr
@@ -29,7 +30,7 @@ fAIr is the product name. Why?:
 
 * **f:** for freedom and free and open source software 
 * **AI:** for Artificial Intelligence 
-* **r:** for for resilience and our responsibility for our communities and the role we play within humanitarian mapping 
+* **r:** for resilience and our responsibility for our communities and the role we play within humanitarian mapping 
 
 
 * **AI models:** AI is wide term and it includes lots of approaches and techniques. In our (mapping) context, we refer to computer vision techniques to detect objects from satellite imagery. These objects can be buildings, roads, water ways, trees, and potentially other objects.
