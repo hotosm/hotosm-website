@@ -27,11 +27,11 @@ Person: Synne Olsen
 * HOT’s tech team is currently hosting an [open AI challenge with Omdena](https://omdena.com/projects/mapping-tool-for-disaster-management/). The aim of the challenge is to support the decision of which models to adopt into fAIr (looking at performance and accuracy of the models).
 * Feeling a little lost here? I feel you! Here is all you need to know about fAIr and AI-assisted mapping 
 
-# OPEN AI CHALLENGE: Interview with our AI expert in HOT
+# OPEN AI CHALLENGE 
 
 As we speak, a team of 50+ AI engineers have been crunching code to see which of the models will give the most optimal AI-assisted mapping for our communities. They have been going on for over 5 weeks now - and are soon completing the challenge! I interviewed our fAIr lead and AI engineer Omran about the challenge and the outcomes:
 
-## Interview with HOT's AI engineer Omran
+## Interview with HOT's AI engineer [Omran Najjar](https://www.hotosm.org/people/omran-najjar/)
 
 > Hi Omran. How are you doing? You are busy these days! Very excited about the open AI challenge, and curious to hear your take on it.  For most of us (non-technical) people, AI is a little hard to understand.  Therefore, feel free to treat me and the readers as if we have no technical background to really understand AI and how it works. 
 
