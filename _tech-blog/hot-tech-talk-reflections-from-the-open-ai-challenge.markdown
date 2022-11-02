@@ -34,7 +34,7 @@ As we speak, a team of 50+ AI engineers have been crunching code to see which of
 
 ## Interview with HOT's AI engineer [Omran Najjar](https://www.hotosm.org/people/omran-najjar/)
 
-> Hi Omran. How are you doing? You are busy these days! Very excited about the open AI challenge, and curious to hear your take on it.  For most of us (non-technical) people, AI is a little hard to understand.  Therefore, feel free to treat me and the readers as if we have no technical background to really understand AI and how it works.>  
+> Hi Omran. How are you doing? You are busy these days! Very excited about the open AI challenge, and curious to hear your take on it.  For most of us (non-technical) people, AI is a little hard to understand.  Therefore, feel free to treat me and the readers as if we have no technical background to really understand AI and how it works. 
 
 > [Synne]: Another AI challenge was conducted a few years back (the so-called Open Cities challenge). Aren't we just repeating what has already been done?> 
 
