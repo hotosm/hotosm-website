@@ -20,23 +20,24 @@ Back in 2020, [HOT and the Netherlands Red Cross](https://www.hotosm.org/project
 
 # About fAIr
 
-**Technical level:** low
-**Estimate read:** 5 min
+* **Technical level:** low
+* **Estimate read:** 5 min
 
 ## Glossary
 
 fAIr is the product name. Why?: 
 
-* f: for freedom and free and open source software 
-* AI: for Artificial Intelligence 
-* r: for for resilience and our responsibility for our communities and * role we play within humanitarian mapping 
+* **f:** for freedom and free and open source software 
+* **AI:** for Artificial Intelligence 
+* **r:** for for resilience and our responsibility for our communities and the role we play within humanitarian mapping 
 
-* AI Models: AI is wide term and it includes lots of approaches and techniques. In our (mapping) context, we refer to computer vision techniques to detect objects from satellite imagery. These objects can be buildings, roads, water ways, trees, and potentially other objects.
 
+* **AI models:** AI is wide term and it includes lots of approaches and techniques. In our (mapping) context, we refer to computer vision techniques to detect objects from satellite imagery. These objects can be buildings, roads, water ways, trees, and potentially other objects.
 fAIr intersects with Machine Learning, Deep Learning, Computer Vision as below:
 
 ![Screenshot 2022-11-02 at 08.23.42.png](/uploads/Screenshot%202022-11-02%20at%2008.23.42.png)
-Source: Chandaliya, Rishabh. (2020). Tele Stroke System for Stroke Detection. 10.13140/RG.2.2.22376.90881. 
+
+Source: Chandaliya, Rishabh (2020).
 
 ## Why fAIr? 
 The Humanitarian OpenStreetMap Team (HOT) sees that mappers can, on average, map between 1000-1500 buildings per working day without AI assistance. During an AI-assisted mapping pilot (2019-2020) supported by Microsoft, 18 million building footprints were extracted from satellite imagery for all of Tanzania and Uganda. HOT discovered during this pilot that this average nearly doubled to 2500-3000 buildings being added to OpenStreetMap (OSM) per day with the assistance of high-quality AI open source datasets. 
@@ -49,7 +50,7 @@ fAIr is trying to solve three foreseen problems:
 Here are 3 different imageries from Asia and Africa show totally different nature of imagery.
 
 ![OAM pics.png](/uploads/OAM%20pics.png)
-Source: [OpenAerialMap](https://openaerialmap.org/) (HOT's open source imagery web platform)
+Source: [OpenAerialMap](https://openaerialmap.org/)
 
 * **Lack of feedback:** which means that there is no enhancements applied easily on the intelligence of the AI models and human is out of the loop when building the AI models.
 
