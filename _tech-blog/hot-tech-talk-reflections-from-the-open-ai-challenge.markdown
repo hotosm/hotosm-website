@@ -47,7 +47,7 @@ As we speak, a team of 50+ AI engineers have been crunching code to see which of
 
 [Omran]: I will highlight two things about the team and the challenge that really surprised me:
 The diversity of knowledge coming from Omdena's collaborators is amazing! For instance, the various team members all have different techniques within deep learning and machine learning techniques in their  “toolbox”. Different models - new models by ourselves, and we are trying RAMP.
-The efficiency of Omdena’s coordination is the second. I am amazed how organised and delivery-oriented they are. Normally projects don’t work this well! It has all been very professional. 
+The efficiency of Omdena’s coordination is the second. I am amazed how organised and delivery-oriented they are. Normally projects don’t work this well! It has all been very professional. > 
 
 ## Want to know more?
 Read all about fAIr here [LINK] and [click here](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the full timeline, code and all details of the developments.
