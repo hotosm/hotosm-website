@@ -17,6 +17,7 @@ Summary Text: 'Over the past few years, HOT has taken a leadership role in exper
   away now from launching our open AI-mapping service (fAIr [LINK])! And we are getting
   great help from 50+ AI engineers from the Omdena community who are currently crunching
   code with us!'
+Feature Image: "/uploads/AI-assisted%20mapping.png"
 Person: Synne Olsen
 ---
 
