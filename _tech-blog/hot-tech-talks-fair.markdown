@@ -1,6 +1,6 @@
 ---
 title: 'hot_tech_talks | fAIr: AI-assisted mapping'
-date: 2022-10-26 15:03:00 Z
+date: 2022-11-02 15:03:00 Z
 categories:
 - hot-tech
 tags:
@@ -63,11 +63,13 @@ Unlike other AI data producers, fAIr is an intuitive, fair and open-source **AI-
 ## How does fAIr work?
 fAIr uses AI models to detect map features based on open source (satellite) imagery from HOT's [OpenAerialMap (OAM)](https://openaerialmap.org/) and add them into [OpenStreetMap (OSM)](https://openstreetmap.org/). Unlike other AI data producers, fAIr is a free and open-source AI service that offers local communities accurate feedback (loops) through the efforts of OSM community mappers. This results in progressive intelligence of computer vision models, meaning: whenever an OSM mapper uses the AI models for assisted mapping and completes corrections, fAIr can take those corrections as feedback to enhance the AI model’s accuracy. 
 
-## What is the story behind fAIr?
+## Where are we coming ?
+We recognized the Open Cities Challenge for building segmentation mid 2020, then HOT conducted research in  collaboration with the Netherland Red Cross around the end of 2020. Last year, HOT contributed to an academic research investigating the capability of UAV imagery for AI-assisted mapping on refugees camps in Africa which. In March 2022, we participated in an IA for Social good seminar in Frankfurt, Germany where data scientists and non profit organisations came together pursuing various social good goals. Around mid 2022, we (hot_tech team) set our strategy and defined our direction. Since the beginning of 2022, we have played an advisory role in the RAMP project till its release in Oct 2022. Currently (Nov 2022), we have reached the mid way on Omdena-HOT innovation challenge and built fAIr road map.
+
 Go to [this link](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the updated timeline with links: 
 
-![Screenshot 2022-11-02 at 08.18.36.png](/uploads/Screenshot%202022-11-02%20at%2008.18.36.png)
-![Screenshot 2022-11-02 at 08.19.16-959bb1.png](/uploads/Screenshot%202022-11-02%20at%2008.19.16-959bb1.png)
+![Screenshot 2022-11-02 at 14.09.49.png](/uploads/Screenshot%202022-11-02%20at%2014.09.49.png)
+![Screenshot 2022-11-02 at 14.09.49-94d2eb.png](/uploads/Screenshot%202022-11-02%20at%2014.09.49-94d2eb.png)
 
 ### Want to go into a more technical level?
 [Click here](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the full timeline, code and all details of the developments. 
