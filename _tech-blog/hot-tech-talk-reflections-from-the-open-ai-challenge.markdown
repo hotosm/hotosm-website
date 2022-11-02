@@ -23,6 +23,7 @@ Person: Synne Olsen
 
 # TL;DR
 
+
 * HOT’s is not far away from launching fAIr: an open AI-assisted mapping service which allows communities to map more efficiently with the assistance of AI 
 * HOT’s tech team is currently hosting an [open AI challenge with Omdena](https://omdena.com/projects/mapping-tool-for-disaster-management/). The aim of the challenge is to support the decision of which models to adopt into fAIr (looking at performance and accuracy of the models).
 * Feeling a little lost here? I feel you! Here is all you need to know about fAIr and AI-assisted mapping 
