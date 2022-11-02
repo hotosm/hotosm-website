@@ -20,11 +20,12 @@ Person: Omran Najjar
 * Estimate read: 5 min
 
 # About fAIr
+
 Back in 2020, [HOT and the Netherlands Red Cross](https://www.hotosm.org/projects/reseach-on-mapping-with-machine-learning/) worked on having an evidence-based look at current AI-supported mapping flows and took the next step towards using OSM data for training machine learning models. Today, we are a few months away from launching HOT’s open AI-assisted mapping service: fAIr.
 
 ## Glossary
 
-fAIr is the product name. Why?: 
+**fAIr** is the product name. How come?: 
 
 * **f:** for freedom and free and open source software 
 * **AI:** for Artificial Intelligence 
@@ -43,7 +44,7 @@ The Humanitarian OpenStreetMap Team (HOT) sees that mappers can, on average, map
 
 fAIr is trying to solve three foreseen problems:
 
-* **AI Models openness:** where AI around humanitarian mapping feels like a black box. Although, the results are open-source, for example Microsoft’s global buildings dataset, Google’s open building in Africa and META global roads dataset available in RapiD, but models themselves are resident in the labs.
+* **AI models openness:** AI-assisted mapping for humanitarian purposed feels like a black box. While there does exist useful open-source results coming from AI (e.g.  Microsoft’s global buildings dataset, Google’s open building in Africa and META's global roads dataset available in RapiD), the models (code) are kept in the labs and is currently not open source.
 
 * **Model Bias:** which means predicting over satellite imagery would be biassed toward the training dataset used to teach the AI model and the nature and quality of imagery is very different across the globe.
 Here are 3 different imageries from Asia and Africa show totally different nature of imagery.
