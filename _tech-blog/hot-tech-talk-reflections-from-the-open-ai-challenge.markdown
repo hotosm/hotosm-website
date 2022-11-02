@@ -24,7 +24,7 @@ Person: Synne Olsen
 # TL;DR
 
 * HOT’s is not far away from launching fAIr: an open AI-assisted mapping service which allows communities to map more efficiently with the assistance of AI 
-* HOT’s tech team is currently hosting an open AI challenge with Omdena. The aim of the challenge is to support the decision of which models to adopt into fAIr (looking at performance and accuracy of the models).
+* HOT’s tech team is currently hosting an [open AI challenge with Omdena](https://omdena.com/projects/mapping-tool-for-disaster-management/). The aim of the challenge is to support the decision of which models to adopt into fAIr (looking at performance and accuracy of the models).
 * Feeling a little lost here? I feel you! Here is all you need to know about fAIr and AI-assisted mapping 
 
 # OPEN AI CHALLENGE: Interview with our AI expert in HOT
@@ -37,7 +37,7 @@ As we speak, a team of 50+ AI engineers have been crunching code to see which of
 
 [Synne]: Another AI challenge was conducted a few years back (the so-called Open Cities challenge). Aren't we just repeating what has already been done?
 
-[Omran]: No, we are actually building upon it. The output from the Open Cities challenge had a 92% precision, which is good, but not great. This was before my time, so I am not sure, but I guess there was a hope that someone would pick up this model and build upon it, but this did not happen. What did happen was that a student (now a HOT volunteer), Christopher Chan, reached out because he wanted to do some research on AI-assisted mapping. This research was just published actually (see this overview). What we learned from Chris’ research was pretty amazing: it proved that small, local datasets actually increased the accuracy of the models (Synne’s translation: the local AI models predict better buildings and roads than a global model)! So now, during this Omdena challenge, we have i) the knowledge of Chris’ research and ii) the datasets (=imagery) and learnings from the Open Cities challenge to enhance our (fAIr) services (=AI models for community to use to map more efficiently).
+[Omran]: No, we are actually building upon it. The output from the Open Cities challenge had a 92% precision, which is good, but not great. This was before my time, so I am not sure, but I guess there was a hope that someone would pick up this model and build upon it, but this did not happen. What did happen was that a student (now a HOT volunteer), Christopher Chan, reached out because he wanted to do some research on AI-assisted mapping. This research was just published actually (see this overview). What we learned from Chris’ research was pretty amazing: it proved that small, local datasets actually increased the accuracy of the models (Synne’s translation: local AI models better predict buildings and roads than a global model)! So now, during this Omdena challenge, we have i) the knowledge of Chris’ research and ii) the datasets (=imagery) and learnings from the Open Cities challenge to enhance our (fAIr) services (=AI models for community to use to map more efficiently).
 
 [Synne]: So to nail it down; why exactly are we doing this open AI challenge with Omdena?
 
@@ -46,8 +46,8 @@ As we speak, a team of 50+ AI engineers have been crunching code to see which of
 [Synne]: Ok, cool! Thanks for that explanation. So what are some key outcomes so far? Something that has surprised you? 
 
 [Omran]: I will highlight two things about the team and the challenge that really surprised me:
-The diversity of knowledge coming from Omdena's collaborators is amazing! For instance, the various team members all have different techniques within deep learning and machine learning techniques in their  “toolbox”. Different models - new models by ourselves, and we are trying RAMP.
-The efficiency of Omdena’s coordination is the second. I am amazed how organised and delivery-oriented they are. Normally projects don’t work this well! It has all been very professional. > 
+* The diversity of knowledge coming from Omdena's collaborators is amazing! For instance, the various team members all have different techniques within deep learning and machine learning techniques in their  “toolbox”. Different models - new models by ourselves, and we are trying RAMP.
+* The efficiency of Omdena’s coordination is the second. I am amazed how organised and delivery-oriented they are. Normally projects don’t work this well! It has all been very professional. > 
 
 ## Want to know more?
 Read all about fAIr here [LINK] and [click here](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the full timeline, code and all details of the developments.
