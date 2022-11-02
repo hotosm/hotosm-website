@@ -49,6 +49,7 @@ fAIr seek to solve three foreseen problems:
 Here are 3 different imageries from Asia and Africa show totally different nature of imagery.
 
 ![OAM pics.png](/uploads/OAM%20pics.png)
+
 Source: [OpenAerialMap](https://openaerialmap.org/)
 
 * **3. Lack of feedback:** which means that there is no enhancements applied easily on the intelligence of the AI models and human is out of the loop when building the AI models.
