@@ -1,7 +1,6 @@
 ---
 title: 'hot_tech_talks | fAIr: AI-assisted mapping'
 date: 2022-10-26 15:03:00 Z
-published: false
 categories:
 - hot-tech
 tags:
@@ -61,7 +60,7 @@ fAIr is an AI-assisted mapping service currently being developed for **humanitar
 Unlike other AI data producers, fAIr is an intuitive, fair and open-source **AI-assisted mapping tool** where AI models are created and trained by the people living and working in the local communities. By working with the local communities (and getting constant feedback on the models), we strive to eliminate model biases as we ensure the models are relevant to the communities where the maps exist to improve the conditions of the people living there. 
 
 ## How does fAIr work?
-fAIr uses AI models to detect map features based on open source (satellite) imagery from OpenAerialMap (OAM) and add them into OpenStreetMap (OSM). Unlike other AI data producers, fAIr is a free and open-source AI service that offers local communities accurate feedback (loops) through the efforts of OSM community mappers. This results in progressive intelligence of computer vision models, meaning: whenever an OSM mapper uses the AI models for assisted mapping and completes corrections, fAIr can take those corrections as feedback to enhance the AI model’s accuracy. 
+fAIr uses AI models to detect map features based on open source (satellite) imagery from HOT's [OpenAerialMap (OAM)](https://openaerialmap.org/) and add them into [OpenStreetMap (OSM)](https://openstreetmap.org/). Unlike other AI data producers, fAIr is a free and open-source AI service that offers local communities accurate feedback (loops) through the efforts of OSM community mappers. This results in progressive intelligence of computer vision models, meaning: whenever an OSM mapper uses the AI models for assisted mapping and completes corrections, fAIr can take those corrections as feedback to enhance the AI model’s accuracy. 
 
 ## What is the story behind fAIr?
 Go to [this link](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the updated timeline with links: 
@@ -73,4 +72,4 @@ Go to [this link](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37
 [Click here](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the full timeline, code and all details of the developments. 
 
 # Want to engage in fAIr or our technologies?
-We are always looking for tech enthusiasts. Do you have an interest in learning about AI, or perhaps have technical skills in python, JOSM or design? Reach out to tech@hotosm.org or directly to our tech collective facilitator Petya Kangalova at petya.kangalova@hotosm.org! 
+We are always looking for tech enthusiasts. Do you have an interest in learning about AI, or perhaps have technical skills in python, JOSM or design? Reach out to tech@hotosm.org or directly to our Tech Collective facilitator Petya Kangalova at petya.kangalova@hotosm.org!
