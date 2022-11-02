@@ -70,6 +70,3 @@ Go to [this link](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37
 
 ### Want to go into a more technical level?
 [Click here](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the full timeline, code and all details of the developments. 
-
-# Want to engage in fAIr or our technologies?
-We are always looking for tech enthusiasts. Do you have an interest in learning about AI, or perhaps have technical skills in python, JOSM or design? Reach out to tech@hotosm.org or directly to our Tech Collective facilitator Petya Kangalova at petya.kangalova@hotosm.org!
