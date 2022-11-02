@@ -18,7 +18,10 @@ Person: Omran Najjar
 
 Back in 2020, [HOT and the Netherlands Red Cross](https://www.hotosm.org/projects/reseach-on-mapping-with-machine-learning/) worked on having an evidence-based look at current AI-supported mapping flows and took the next step towards using OSM data for training machine learning models. Today, we are a few months away from launching HOT’s open AI-assisted mapping service: fAIr.
 
-# fAIr
+# About fAIr
+
+**Technical level:** low
+**Estimate read:** 5 min
 
 ## Glossary
 
@@ -35,7 +38,6 @@ fAIr intersects with Machine Learning, Deep Learning, Computer Vision as below:
 ![Screenshot 2022-11-02 at 08.23.42.png](/uploads/Screenshot%202022-11-02%20at%2008.23.42.png)
 Source: Chandaliya, Rishabh. (2020). Tele Stroke System for Stroke Detection. 10.13140/RG.2.2.22376.90881. 
 
-
 ## Why fAIr? 
 The Humanitarian OpenStreetMap Team (HOT) sees that mappers can, on average, map between 1000-1500 buildings per working day without AI assistance. During an AI-assisted mapping pilot (2019-2020) supported by Microsoft, 18 million building footprints were extracted from satellite imagery for all of Tanzania and Uganda. HOT discovered during this pilot that this average nearly doubled to 2500-3000 buildings being added to OpenStreetMap (OSM) per day with the assistance of high-quality AI open source datasets. 
 
@@ -50,7 +52,6 @@ Here are 3 different imageries from Asia and Africa show totally different natur
 Source: [OpenAerialMap](https://openaerialmap.org/) (HOT's open source imagery web platform)
 
 * **Lack of feedback:** which means that there is no enhancements applied easily on the intelligence of the AI models and human is out of the loop when building the AI models.
-
 
 ## fAIr: for whom?
 fAIr is an AI-assisted mapping service currently being developed for humanitarian OSM mappers who want or need to map more efficiently. The goal is to provide humanitarian OSM mappers access to AI-assisted mapping across mobile and in-browser editors using “community-created AI models”. Yes, you read it right, an OSM community member will be able to create their own open-source AI model and use it for mapping in their region of interest and/or humanitarian need.
@@ -68,7 +69,7 @@ Go to [this link](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37
 ![Screenshot 2022-11-02 at 08.19.16-959bb1.png](/uploads/Screenshot%202022-11-02%20at%2008.19.16-959bb1.png)
 
 ### Want to go into a more technical level?
-Click here to see the full timeline, code and all details of the developments. 
+[Click here](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the full timeline, code and all details of the developments. 
 
-### Want to engage?
+# Want to engage in fAIr or HOT technologies?
 We are always looking for tech enthusiasts. Do you have an interest in learning about AI, or perhaps have technical skills in python, JOSM or design? Reach out to tech@hotosm.org or directly to our tech collective facilitator Petya Kangalova at petya.kangalova@hotosm.org! 
