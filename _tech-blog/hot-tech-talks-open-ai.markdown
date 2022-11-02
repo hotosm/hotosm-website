@@ -44,7 +44,7 @@ The Humanitarian OpenStreetMap Team (HOT) sees that mappers can, on average, map
 
 fAIr seek to solve three foreseen problems:
 
-* **1. AI models openness:** AI-assisted mapping for humanitarian purposed feels like a black box. Useful open-source results coming from AI exists (e.g. META's global roads dataset available in RapiD, Microsoft’s global buildings dataset and Google’s open building in Africa). However, the models (code) are currently not open sourced.
+* **1. AI models openness:** AI-assisted mapping for humanitarian purposed feels like a black box. Useful open-source results coming from AI exists (e.g. [META's global roads dataset](https://mapwith.ai/) available in RapiD, [Microsoft’s global buildings dataset](https://github.com/microsoft/GlobalMLBuildingFootprints) and [Google’s open building in Africa](https://sites.research.google/open-buildings/)). However, the models (code) are currently not open sourced.
 
 * **2. Model bias:** which means predicting over satellite imagery would be biassed toward the training dataset used to teach the AI model and the nature and quality of imagery is very different across the globe.
 Here are 3 different imageries from Asia and Africa show totally different nature of imagery.
