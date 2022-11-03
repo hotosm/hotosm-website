@@ -14,7 +14,9 @@ Summary Text: 'Over the past few years, HOT has taken a leadership role in exper
   with, and facilitating for, the application of open-source and fair artificial intelligence
   in mapping. What is the status? Well, let me tell you: we are only a few months
   away now from launching our open AI-mapping service - fAIr. As we speak, around
-  50  AI engineers from the Omdena community are crunching code with us!'
+  50  AI engineers from the Omdena community are crunching code with us to narrow
+  down which of the models will give the most optimal AI-assisted mapping for our
+  communities.'
 Feature Image: "/uploads/AI-assisted%20mapping.png"
 Person: Synne Olsen
 ---
@@ -33,7 +35,7 @@ Estimate read: 5 min
 
 # OPEN AI CHALLENGE
 
-As we speak, a team of 50\+ AI engineers have been crunching code to see which of the models will give the most optimal AI-assisted mapping for our communities. They have been going on for over 5 weeks now - and are soon completing the challenge! I interviewed [our fAIr lead and AI engineer Omran Najjar](https://www.hotosm.org/people/omran-najjar/) about the challenge and the outcomes:
+As we speak, a team of 50\+ AI engineers from the Omdena community have been crunching code to see which of the models will give the most optimal AI-assisted mapping for our communities. They have been going on for over 5 weeks now - and are soon completing the challenge! I interviewed [our fAIr lead and AI engineer Omran Najjar](https://www.hotosm.org/people/omran-najjar/) about the challenge and the outcomes:
 
 ## My coffee conversation with Omran on the AI challenge:
 
