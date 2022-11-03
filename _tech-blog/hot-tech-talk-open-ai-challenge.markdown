@@ -1,5 +1,5 @@
 ---
-title: hot_tech_talk | Takeaways from the open AI challenge
+title: hot_tech_talk | Takeaways from our open AI challenge
 date: 2022-11-03 07:43:00 Z
 categories:
 - hot-tech
@@ -20,6 +20,7 @@ Person: Synne Olsen
 ---
 
 Technical level: low
+
 Estimate read: 5 min
 
 # TL;DR
