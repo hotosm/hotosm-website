@@ -16,6 +16,7 @@ Person: Omran Najjar
 ---
 
 * Technical level: low
+
 * Estimate read: 9 min
 
 # About fAIr
@@ -24,12 +25,13 @@ Back in 2020, [HOT and the Netherlands Red Cross](https://www.hotosm.org/project
 
 ## Glossary
 
-**fAIr** is the product name. How come?: 
+**fAIr** is the product name. How come?:
 
-* **f:** for freedom and free and open source software 
-* **AI:** for Artificial Intelligence 
-* **r:** for resilience and our responsibility for our communities and the role we play within humanitarian mapping 
+* **f:** for freedom and free and open source software
 
+* **AI:** for Artificial Intelligence
+
+* **r:** for resilience and our responsibility for our communities and the role we play within humanitarian mapping
 
 **AI models:** AI is wide term and it includes lots of approaches and techniques. In our (mapping) context, we refer to computer vision techniques to detect objects from satellite imagery. These objects can be buildings, roads, water ways, trees, and potentially other objects.
 fAIr intersects with Machine Learning, Deep Learning, Computer Vision as below:
@@ -38,15 +40,16 @@ fAIr intersects with Machine Learning, Deep Learning, Computer Vision as below:
 
 Source: Chandaliya, Rishabh (2020).
 
-## Why fAIr? 
-The Humanitarian OpenStreetMap Team (HOT) sees that mappers can, on average, map between 1000-1500 buildings per working day without AI assistance. During an AI-assisted mapping pilot (2019-2020) supported by Microsoft, 18 million building footprints were extracted from satellite imagery for all of Tanzania and Uganda. HOT discovered during this pilot that this **average mapping nearly doubled** to 2500-3000 buildings being added to OpenStreetMap (OSM) per day with the assistance of high-quality AI open source datasets. 
+## Why fAIr?
+
+The Humanitarian OpenStreetMap Team (HOT) sees that mappers can, on average, map between 1000-1500 buildings per working day without AI assistance. During an AI-assisted mapping pilot (2019-2020) supported by Microsoft, 18 million building footprints were extracted from satellite imagery for all of Tanzania and Uganda. HOT discovered during this pilot that this **average mapping nearly doubled** to 2500-3000 buildings being added to OpenStreetMap (OSM) per day with the assistance of high-quality AI open source datasets.
 
 fAIr seek to solve three foreseen problems:
 
 * **1. AI models openness:** AI-assisted mapping for humanitarian purposed feels like a black box. Useful open-source results coming from AI exists (e.g. [META's global roads dataset](https://mapwith.ai/) available in RapiD, [Microsoft’s global buildings dataset](https://github.com/microsoft/GlobalMLBuildingFootprints) and [Google’s open building in Africa](https://sites.research.google/open-buildings/)). However, the models (code) are currently not open sourced.
 
 * **2. Model bias:** which means predicting over satellite imagery would be biassed toward the training dataset used to teach the AI model and the nature and quality of imagery is very different across the globe.
-Here are 3 different imageries from Asia and Africa show totally different nature of imagery.
+  Here are 3 different imageries from Asia and Africa show totally different nature of imagery.
 
 ![OAM pics.png](/uploads/OAM%20pics.png)
 
@@ -55,18 +58,22 @@ Source: [OpenAerialMap](https://openaerialmap.org/)
 * **3. Lack of feedback:** which means that there is no enhancements applied easily on the intelligence of the AI models and human is out of the loop when building the AI models.
 
 ## fAIr: for whom?
+
 fAIr is an AI-assisted mapping service currently being developed for **humanitarian OSM mappers** who want or need to map more efficiently. The goal is to provide humanitarian OSM mappers access to AI-assisted mapping across mobile and in-browser editors using “community-created AI models”. Yes, you read it right, an OSM community member will be able to create their own open-source AI model and use it for mapping in their region of interest and/or humanitarian need.
 
 ## What is fAIr exactly?
-Unlike other AI data producers, fAIr is an intuitive, fair and open-source **AI-assisted mapping tool** where AI models are created and trained by the people living and working in the local communities. By working with the local communities (and getting constant feedback on the models), we strive to eliminate model biases as we ensure the models are relevant to the communities where the maps exist to improve the conditions of the people living there. 
+
+Unlike other AI data producers, fAIr is an intuitive, fair and open-source **AI-assisted mapping tool** where AI models are created and trained by the people living and working in the local communities. By working with the local communities (and getting constant feedback on the models), we strive to eliminate model biases as we ensure the models are relevant to the communities where the maps exist to improve the conditions of the people living there.
 
 ## How does fAIr work?
-fAIr uses AI models (built by humanitarian OSM mappers) to detect map features based on open source (satellite) imagery from HOT's [OpenAerialMap (OAM)](https://openaerialmap.org/) and suggest detected features to be added to [OpenStreetMap (OSM)](https://openstreetmap.org/). It is crucial that models would NOT produce mass features and NO mass import into OSM planned. Unlike other AI data producers, fAIr is a free and open-source AI service that offers local communities accurate feedback (loops) through the efforts of OSM community mappers. This  results in progressive intelligence of computer vision models. Whenever an OSM mapper uses the AI models for assisted mapping and completes corrections, fAIr can take those corrections as feedback to enhance the AI model’s accuracy. 
+
+fAIr uses AI models (built by humanitarian OSM mappers) to detect map features based on open source (satellite) imagery from HOT's [OpenAerialMap (OAM)](https://openaerialmap.org/) and suggest detected features to be added to [OpenStreetMap (OSM)](https://openstreetmap.org/). It is crucial that models would NOT produce mass features and NO mass import into OSM planned. Unlike other AI data producers, fAIr is a free and open-source AI service that offers local communities accurate feedback (loops) through the efforts of OSM community mappers. This  results in progressive intelligence of computer vision models. Whenever an OSM mapper uses the AI models for assisted mapping and completes corrections, fAIr can take those corrections as feedback to enhance the AI model’s accuracy.
 
 ## Where are we coming from?
-We recognized the Open Cities Challenge for building segmentation mid 2020, then HOT conducted research in  collaboration with the Netherland Red Cross around the end of 2020. Last year, HOT contributed to an academic research investigating the capability of UAV imagery for AI-assisted mapping on refugees camps in Africa which proved the use of localised AI models produces higher prediction accuracy in comparison to wide trained models. In March 2022, we participated in an IA for Social good seminar in Frankfurt, Germany where data scientists and non profit organisations came together pursuing various social good goals. Around mid 2022, we (hot_tech team) set our strategy and defined our direction. Since the beginning of 2022, we have played an advisory role in the RAMP project till its release in Oct 2022. Currently (Nov 2022), we have reached the mid way on Omdena-HOT innovation challenge and built fAIr road map.
 
-Go to [this link](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the updated timeline with links: 
+We recognized the Open Cities Challenge for building segmentation mid 2020, then HOT conducted research in  collaboration with the Netherland Red Cross around the end of 2020. Last year, HOT contributed to an academic research investigating the capability of UAV imagery for AI-assisted mapping on refugees camps in Africa which proved the use of localised AI models produces higher prediction accuracy in comparison to wide trained models. In March 2022, we participated in an AI for Social good seminar in Frankfurt, Germany where data scientists and non profit organisations came together pursuing various social good goals. Around mid 2022, we (hot_tech team) set our strategy and defined our direction. Since the beginning of 2022, we have played an advisory role in the RAMP project till its release in Oct 2022. Currently (Nov 2022), we have reached the mid way on Omdena-HOT innovation challenge and built fAIr road map.
+
+Go to [this link](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the updated timeline with links:
 
 ![Screenshot 2022-11-02 at 14.09.40.png](/uploads/Screenshot%202022-11-02%20at%2014.09.40.png)
 ![Screenshot 2022-11-02 at 14.09.49-94d2eb.png](/uploads/Screenshot%202022-11-02%20at%2014.09.49-94d2eb.png)
