@@ -79,9 +79,9 @@ In short, we want to ensure that fAIr ultimately provides as accurate and precis
 
 ## Want to know more?
 
-* [Read all about fAIr in Omran's blog](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)
+* [Read all about fAIr (HOT's open AI_assisted mapping service)](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)
 
-* [Full timeline, code and all details of the developments](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing)
+* [See full timeline with links to research, code and timeline of fAIr](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing)
 
 # Want to engage in fAIr or HOT's technologies?
 
