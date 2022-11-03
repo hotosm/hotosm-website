@@ -35,10 +35,10 @@ Estimate read: 5 min
 
 As we speak, a team of 50\+ AI engineers have been crunching code to see which of the models will give the most optimal AI-assisted mapping for our communities. They have been going on for over 5 weeks now - and are soon completing the challenge! I interviewed [our fAIr lead and AI engineer Omran Najjar](https://www.hotosm.org/people/omran-najjar/) about the challenge and the outcomes:
 
-## Coffee conversation with Omran on the AI challenge:
+## My coffee conversation with Omran on the AI challenge:
 
-> Hi Omran. How are you doing? You are busy these days! Very excited about the open AI challenge, and curious to hear your take on it all.  For most of us (non-technical) people, AI is a little hard to understand.  Therefore, feel free to treat me and the readers as if we have no basis to really understand AI and how it works. (oh, and dear readers: if you want to read more about AI-assisted mapping and fAIr: check out [Omran's blog on fAIr](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)). 
->
+> *Hi Omran. How are you doing? You are busy these days! Very excited about the open AI challenge, and curious to hear your take on it all.  For most of us (non-technical) people, AI is a little hard to understand.  Therefore, feel free to treat me and the readers as if we have no basis to really understand AI and how it works. (oh, and dear readers: if you want to read more about AI-assisted mapping and fAIr: check out [Omran's blog on fAIr](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)). *
+
 > **Q: Another AI challenge was conducted a few years back (the [Open Cities challenge](https://www.drivendata.org/competitions/60/building-segmentation-disaster-resilience/leaderboard/)). Aren't we just repeating what has already been done?**
 
 No, we are actually building on the top of it. The output from the Open Cities challenge had an approximately 86% intersection over union score, which is good, but not great. This was before my time, so I am not sure, but I guess there was a hope that someone would pick up this model and build upon it. What did happen was that a student (now a HOT volunteer), Christopher Chan, reached out because he wanted to do some research on AI-assisted mapping. This research was just published actually (see this overview). What we learned from Chris’ research was pretty amazing: it proved that small, local datasets actually increased the accuracy of the models, hence the **local AI models predict better buildings and roads than a global model**! (explained below) So now, during this Omdena challenge, we have: i) the knowledge of Chris’ research and ii) the training datasets (explained below):
