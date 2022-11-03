@@ -1,6 +1,11 @@
 ---
 title: America abierta 2022
 date: 2022-10-30 20:08:00 Z
+Summary Text: América Abierta, antes conocido como AbreLatam/ConDatos, es el evento
+  regional sobre datos abiertos y gobierno abierto, que reúne a organizaciones e individuos
+  que trabajan en estos temas.
+Feature Image: "/uploads/52407738438_f38a4dbdf2_c.jpg"
+Person: Juan Arellano Valdivia
 ---
 
 ![52407738438_f38a4dbdf2_c.jpg](/uploads/52407738438_f38a4dbdf2_c.jpg)
