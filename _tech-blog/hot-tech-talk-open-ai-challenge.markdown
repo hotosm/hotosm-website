@@ -13,8 +13,8 @@ tags:
 Summary Text: 'Over the past few years, HOT has taken a leadership role in experimenting
   with, and facilitating for, the application of open-source and fair artificial intelligence
   in mapping. What is the status? Well, let me tell you. We are only a few months
-  away now from launching [our open AI-mapping service: fAIr](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)!
-  And we are getting great help from 50+ AI engineers from the Omdena community who
+  away now from launching our open AI-mapping service: [fAIr](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)!
+  And we are getting great help from 50\+ AI engineers from the Omdena community who
   are currently crunching code with us!'
 Feature Image: "/uploads/AI-assisted%20mapping.png"
 Person: Synne Olsen
@@ -57,7 +57,7 @@ As we speak, a team of 50\+ AI engineers have been crunching code to see which o
 
 ## Want to know more?
 
-* [Read all about fAIr in Omran's blog](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)  
+* [Read all about fAIr in Omran's blog](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)
 
 * [Full timeline, code and all details of the developments](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing)
 
