@@ -1,6 +1,6 @@
 ---
 title: hot_tech_talk | Takeaways from the open AI challenge
-date: 2022-11-02 07:43:00 Z
+date: 2022-11-03 07:43:00 Z
 categories:
 - hot-tech
 - tech
