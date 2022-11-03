@@ -68,5 +68,5 @@ We recognized the Open Cities Challenge for building segmentation mid 2020, then
 
 Go to [this link](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the updated timeline with links: 
 
-![Screenshot 2022-11-02 at 14.09.49.png](/uploads/Screenshot%202022-11-02%20at%2014.09.49.png)
+![Screenshot 2022-11-02 at 14.09.40.png](/uploads/Screenshot%202022-11-02%20at%2014.09.40.png)
 ![Screenshot 2022-11-02 at 14.09.49-94d2eb.png](/uploads/Screenshot%202022-11-02%20at%2014.09.49-94d2eb.png)
