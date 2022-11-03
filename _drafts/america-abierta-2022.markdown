@@ -36,3 +36,5 @@ Como mencioné en un párrafo anterior, si bien el mapeo no tuvo un lugar destac
 Entonces -y recapitulando- hay interés en el mapeo, conocimiento de como mapear, y experiencia en el abordaje a temas comunes repartida en diversos países de la región, pero falta impulso, difusión y apoyo en la creación de sinergias. Y es ahí donde el Hub debe enfocarse, pues la comunidad de datos abiertos regional es como la comunidad natural de los mapeadores y gente interesada en el mapeo abierto. América se debe abrir al mapeo abierto. Aún tenemos límites que cruzar, barreras que romper, realidades por conocer. ¡Abramos América al mapeo abierto!
 
 ![52407610129_496e524179_c.jpg](/uploads/52407610129_496e524179_c.jpg)
+
+*\* Este post es una version adaptada por el autor sobre lo publicado en su [newsletter personal](https://cyberjuan.substack.com/p/america-abierta-2022?sd=pf).*
