@@ -31,7 +31,7 @@ Back in 2020, [HOT and the Netherlands Red Cross](https://www.hotosm.org/project
 * **r:** for resilience and our responsibility for our communities and the role we play within humanitarian mapping 
 
 
-* **AI models:** AI is wide term and it includes lots of approaches and techniques. In our (mapping) context, we refer to computer vision techniques to detect objects from satellite imagery. These objects can be buildings, roads, water ways, trees, and potentially other objects.
+**AI models:** AI is wide term and it includes lots of approaches and techniques. In our (mapping) context, we refer to computer vision techniques to detect objects from satellite imagery. These objects can be buildings, roads, water ways, trees, and potentially other objects.
 fAIr intersects with Machine Learning, Deep Learning, Computer Vision as below:
 
 ![Screenshot 2022-11-02 at 08.23.42.png](/uploads/Screenshot%202022-11-02%20at%2008.23.42.png)
@@ -70,6 +70,3 @@ Go to [this link](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37
 
 ![Screenshot 2022-11-02 at 14.09.49.png](/uploads/Screenshot%202022-11-02%20at%2014.09.49.png)
 ![Screenshot 2022-11-02 at 14.09.49-94d2eb.png](/uploads/Screenshot%202022-11-02%20at%2014.09.49-94d2eb.png)
-
-### Want to go into a more technical level?
-[Click here](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the full timeline, code and all details of the developments. 
