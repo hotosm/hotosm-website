@@ -5,7 +5,7 @@ date: 2022-10-30 20:08:00 Z
 
 ![52407738438_f38a4dbdf2_c.jpg](/uploads/52407738438_f38a4dbdf2_c.jpg)
 
-*Foto tomada del album [America Abierta (2022)](https://www.flickr.com/photos/opengovpart/albums/72177720302678908/) de la cuenta Flickr de [Open Government Partnership](https://www.flickr.com/photos/opengovpart/) bajo una licencia CC [Atribución 2.0 Genérica (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/deed.es).*
+*Foto (y las siguientes) tomada del album [America Abierta (2022)](https://www.flickr.com/photos/opengovpart/albums/72177720302678908/) de la cuenta Flickr de [Open Government Partnership](https://www.flickr.com/photos/opengovpart/) bajo una licencia CC [Atribución 2.0 Genérica (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/deed.es).*
 
 Durante la última semana de setiembre se realizó en Santo Domingo, República Dominicana, el evento “[América Abierta](https://americaabierta.org/)”, antes conocido como AbreLatam/ConDatos, una serie de actividades y conferencias sobre datos abiertos y gobierno abierto, que reúne a especialistas de toda la región para conversar y crear sinergias sobre datos, gobierno, sociedad civil y comunidades.
 
