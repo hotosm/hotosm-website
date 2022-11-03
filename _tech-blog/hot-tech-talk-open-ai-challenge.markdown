@@ -21,9 +21,9 @@ Feature Image: "/uploads/AI-assisted%20mapping.png"
 Person: Synne Olsen
 ---
 
-Technical level: low
-
 Estimate read: 5 min
+
+Technical level: low
 
 # TL;DR
 
