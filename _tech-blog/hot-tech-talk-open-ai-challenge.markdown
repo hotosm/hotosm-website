@@ -37,19 +37,45 @@ As we speak, a team of 50\+ AI engineers have been crunching code to see which o
 
 ## Coffee conversation with Omran on the AI challenge:
 
-Hi Omran. How are you doing? You are busy these days! Very excited about the open AI challenge, and curious to hear your take on it all.  For most of us (non-technical) people, AI is a little hard to understand.  Therefore, feel free to treat me and the readers as if we have no basis to really understand AI and how it works. (oh, and for those of you who want to better understand AI-assisted mapping and HOT's (soon-to-be-launched) fAIr product: you can read and enjoy [Omran's blog on fAIr](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/))
+Hi Omran. How are you doing? You are busy these days! Very excited about the open AI challenge, and curious to hear your take on it all.  For most of us (non-technical) people, AI is a little hard to understand.  Therefore, feel free to treat me and the readers as if we have no basis to really understand AI and how it works. (oh, and for those of you who want to better understand AI-assisted mapping and HOT's (soon-to-be-launched) fAIr product: you can read and enjoy [Omran's blog on fAIr](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)).
 
 > \[Synne\]: **Another AI challenge was conducted a few years back (the [Open Cities challenge](https://www.drivendata.org/competitions/60/building-segmentation-disaster-resilience/leaderboard/)). Aren't we just repeating what has already been done?**
 
-\[Omran\]: *No, we are actually building upon it. The output from the Open Cities challenge had a 92% precision, which is good, but not great. This was before my time, so I am not sure, but I guess there was a hope that someone would pick up this model and build upon it, but this did not happen. What did happen was that a student (now a HOT volunteer), Christopher Chan, reached out because he wanted to do some research on AI-assisted mapping. This research was just published actually (see this overview). What we learned from Chris’ research was pretty amazing: it proved that small, local datasets actually increased the accuracy of the models (Synne’s translation: local AI models better predict buildings and roads than a global model)! So now, during this Omdena challenge, we have i) the knowledge of Chris’ research and ii) the datasets (=imagery) and learnings from the Open Cities challenge to enhance our (fAIr) services (=AI models for community to use to map more efficiently).*
+\[Omran\]: No, we are actually building on the top of it. The output from the Open Cities challenge had an approximately 86% intersection over union score, which is good, but not great. This was before my time, so I am not sure, but I guess there was a hope that someone would pick up this model and build upon it. What did happen was that a student (now a HOT volunteer), Christopher Chan, reached out because he wanted to do some research on AI-assisted mapping. This research was just published actually (see this overview). What we learned from Chris’ research was pretty amazing: it proved that small, local datasets actually increased the accuracy of the models, hence the **local AI models predict better buildings and roads than a global model**! (explained below) So now, during this Omdena challenge, we have: i) the knowledge of Chris’ research and ii) the training datasets (explained below):
 
-> \[Synne\]: **Thanks for that explanation. What are some key takeaways so far? Anything that has surprised you with this challenge?**
+> \[Synne\]: **Could you elaborate a little: what exactly are AI models and training datasets in this context?**
 
-\[Omran\]: *Yes! I will highlight two things about the team and the challenge that really surprised me:*
+\[Omran\]: An AI model in our context is a software code that you show it the left image below, then it runs and tells you what features presents in it like the right image (building detection in this example).
 
-*1) The diversity of knowledge coming from Omdena's collaborators is amazing! For instance, the various team members all have different techniques within deep learning and machine learning techniques in their  “toolbox”. Different models - new models by ourselves, and we are trying RAMP.*
+![Screenshot 2022-11-03 at 15.03.39.png](/uploads/Screenshot%202022-11-03%20at%2015.03.39.png)
 
-*2) The efficiency of Omdena’s coordination is the second. I am amazed how organised and delivery-oriented they are. Normally projects don’t work this well! It has all been very professional.*
+Source: [OpenAerialMap](https://openaerialmap.org/)
+
+For training datasets, imagine a 5 years old child who has never seen a satellite imagery before and you challenge them to tell you what are the buildings in the following image:
+
+![Screenshot 2022-11-03 at 15.04.46.png](/uploads/Screenshot%202022-11-03%20at%2015.04.46.png)
+
+Source: [OpenAerialMap](https://openaerialmap.org/)
+
+Initially, they don’t know how a building looks from the top, they might struggle knowing what is a shadow of a building and what is the ground in the image! To teach them, you create a couple pages book as a curriculum, where you put images and highlight what is a building. Then you train the child to enhance their ability to detect buildings. Then maybe extend the curriculum to train them to detect a road, a tree, a swimming pool etc. Here is one page of that book:
+
+![Screenshot 2022-11-03 at 15.06.03.png](/uploads/Screenshot%202022-11-03%20at%2015.06.03.png)
+
+Source: [OpenAerialMap](https://openaerialmap.org/)
+
+The child is an AI model and the curriculum is a training dataset. The curriculum seems to be like OpenStreetMap data, right? 
+
+> \[Synne\]: **Oh, love this analogy! Ok, so to nail it down: why exactly are we doing this open AI challenge with Omdena?**
+
+In short, we want to ensure that fAIr ultimately provides as accurate and precise models as possible for AI-assisted mapping in our communities and [Omdena’s Innovation Challenge approach](https://omdena.com/civil-society/) is a community-driven approach of engineers as collaborators. To get there, we teamed up with Omdena, and are now working together with a diverse team of 50\+ AI engineers who support the decision on which models to use in our fAIr service. To get a little more technical; we had a baseline model before the challenge started. The Omdena team is now using other open AI models (including the [Open Cities model](https://github.com/drivendataorg/open-cities-ai-challenge) and [RAMP model](https://rampml.global/ramp-use-cases/)) to re-train/fine tune the models and together discuss and advise on the direction to go.
+
+> \[Synne\]:** This is such a good example of the power of collective intelligence - very cool! Ok, last question: what are your key takeaways so far? Anything that has surprised you with this challenge?**
+
+\[Omran\]: Yes! I will highlight two things about the team and the challenge that really surprised me:
+
+1) The **diversity** of knowledge coming from Omdena's collaborators is amazing! For instance, the various team members all have different techniques within deep learning and machine learning techniques in their  “toolbox”. Different models - new models by ourselves, and we are trying RAMP.
+
+2) The **efficiency** of Omdena’s coordination is the second. I am amazed how organised and delivery-oriented they are. Normally projects don’t work this well! It has all been very professional. 
 
 ## Want to know more?
 
