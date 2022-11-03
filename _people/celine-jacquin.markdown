@@ -5,7 +5,7 @@ Photo: "/uploads/Celine.jpg"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Project manager OpenCities - LatAm
+Job Title: Senior Manager, Community Programs
 Languages:
 - English
 - Español
