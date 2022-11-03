@@ -1,5 +1,5 @@
 ---
-title: hot_tech_talk | Reflections from the open AI-challenge
+title: hot_tech_talk | Reflections on the open AI challenge
 date: 2022-11-02 07:43:00 Z
 published: false
 categories:
@@ -13,19 +13,22 @@ tags:
 - tools
 Summary Text: 'Over the past few years, HOT has taken a leadership role in experimenting
   with, and facilitating for, the application of open-source and fair artificial intelligence
-  in mapping. What is the status? Well, let me tell you: we are only a few months
-  away now from launching our open AI-mapping service (fAIr [LINK])! And we are getting
-  great help from 50+ AI engineers from the Omdena community who are currently crunching
-  code with us!'
+  in mapping. What is the status? Well, let me tell you. We are only a few months
+  away now from launching [our open AI-mapping service: fAIr](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)!
+  And we are getting great help from 50+ AI engineers from the Omdena community who
+  are currently crunching code with us!'
 Feature Image: "/uploads/AI-assisted%20mapping.png"
 Person: Synne Olsen
 ---
 
+Technical level: low
+Estimate read: 5 min
+
 # TL;DR
 
 
-* HOT’s is not far away from launching fAIr: an open AI-assisted mapping service which allows communities to map more efficiently with the assistance of AI 
-* HOT’s tech team is currently hosting an [open AI challenge with Omdena](https://omdena.com/projects/mapping-tool-for-disaster-management/). The aim of the challenge is to support the decision of which models to adopt into fAIr (looking at performance and accuracy of the models).
+* HOT’s is not far away from launching [fAIr: an open AI-assisted mapping service](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/) which allows communities to map more efficiently with the assistance of AI 
+* [HOT’s tech team](https://twitter.com/hotosm_tech) is currently hosting an [open AI challenge with Omdena](https://omdena.com/projects/mapping-tool-for-disaster-management/). The aim of the challenge is to support the decision of which models to adopt into fAIr (looking at performance and accuracy of the models).
 * Feeling a little lost here? I feel you! Here is all you need to know about fAIr and AI-assisted mapping 
 
 # OPEN AI CHALLENGE 
