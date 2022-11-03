@@ -25,7 +25,7 @@ Estimate read: 5 min
 
 # TL;DR
 
-* HOT’s is not far away from launching [fAIr: an open AI-assisted mapping service](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/) which allows communities to map more efficiently with the assistance of AI
+* HOT’s is not far away from launching [fAIr: an open AI-assisted mapping service,](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/) which allows communities to map more efficiently with the assistance of AI.
 
 * [HOT’s tech team](https://twitter.com/hotosm_tech) is currently hosting an [open AI challenge with Omdena](https://omdena.com/projects/mapping-tool-for-disaster-management/). The aim of the challenge is to support the decision of which models to adopt into fAIr (looking at performance and accuracy of the models).
 
