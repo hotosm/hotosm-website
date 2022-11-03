@@ -18,5 +18,5 @@ Project:
 As part of the Open Mapping Hub Asia Pacific's dedication to strengthening data usage and promoting disaster resilience throughout the Asia-Pacific Region, we are collaborating with local communities and partners in Timor-Leste to provide training on OSM for Disaster Management. In collaboration with World Vision Timor-Leste, Simile Timor-Leste, and other local agencies, the training program was launched with a virtual session, followed by an in-person session where several community members and INGOs participated.
 
 
-> Read more: [https://stories.hotosm.org/crowd-source-mapping-for-disaster-management-timor-leste/index.html](http://https://stories.hotosm.org/crowd-source-mapping-for-disaster-management-timor-leste/index.html)
+> Read more: [https://stories.hotosm.org/crowd-source-mapping-for-disaster-management-timor-leste/index.html](http://stories.hotosm.org/crowd-source-mapping-for-disaster-management-timor-leste/index.html)
 
