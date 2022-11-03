@@ -12,9 +12,9 @@ tags:
 - tools
 Summary Text: 'Over the past few years, HOT has taken a leadership role in experimenting
   with, and facilitating for, the application of open-source and fair artificial intelligence
-  in mapping. What is the status? Well, let me tell you. We are only a few months
-  away now from launching our open AI-mapping service: fAIr. And we are collaborating
-  with 50\+ AI engineers from the Omdena community to crunch code with us!'
+  in mapping. What is the status? Well, let me tell you: we are only a few months
+  away now from launching our open AI-mapping service - **fAIr**. As we speak, 50\+
+  AI engineers from the Omdena community are crunching code with us!'
 Feature Image: "/uploads/AI-assisted%20mapping.png"
 Person: Synne Olsen
 ---
