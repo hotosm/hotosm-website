@@ -3,6 +3,8 @@ title: America abierta 2022
 date: 2022-10-30 20:08:00 Z
 ---
 
+![52407738438_f38a4dbdf2_c.jpg](/uploads/52407738438_f38a4dbdf2_c.jpg)
+
 Durante la última semana de setiembre se realizó en Santo Domingo, República Dominicana, el evento “[América Abierta](https://americaabierta.org/)”, antes conocido como AbreLatam/ConDatos, una serie de actividades y conferencias sobre datos abiertos y gobierno abierto, que reúne a especialistas de toda la región para conversar y crear sinergias sobre datos, gobierno, sociedad civil y comunidades.
 
 Este evento viene realizándose desde el 2013 -el primer AbreLatam tuvo lugar en Montevideo- y desde entonces ha crecido en alcance y participación. Las dos últimas ediciones se dieron de manera virtual y esta ocasión represento la oportunidad para que la comunidad datera de la región se reencontrara de manera presencial y también para que nuevos integrantes se sumaran y pudieran aportar al catálogo colectivo de experiencias y conocimiento.
@@ -25,4 +27,4 @@ En la clausura del evento se les preguntó dos cosas a algunos de los asistentes
 
 Como mencioné en un párrafo anterior, si bien el mapeo no tuvo un lugar destacado en el evento, sí se pudo constatar el interés de organizaciones y personas en utilizarlo. De hecho ya hay organizaciones haciéndolo, como [DataSketch](https://www.datasketch.co/) de Colombia o el [DataLabe](https://datalabe.org/) de Brasil. Otra cosa que se vio es que hay puntos comunes con varias organizaciones y comunidades de la región que trabajan directamente en nuestras áreas de impacto (a recordar: Desastres y resiliencia climática, Salud pública, Igualdad de género, Ciudades y comunidades sustentables, Desplazamiento y migración segura).
 
-Entonces -y recapitulando- hay interés, conocimiento y experiencia en el abordaje en temas comunes repartida en diversos países de la región, pero falta impulso, difusión y apoyo en la creación de sinergias. Y es ahí donde el Hub debe enfocarse, pues la comunidad de datos abiertos regional es como la comunidad natural de los mapeadores y gente interesada en el mapeo abierto. América se debe abrir al mapeo abierto. Aún tenemos límites que cruzar, barreras que romper, realidades por conocer. ¡Abramos América al mapeo abierto!
+Entonces -y recapitulando- hay interés en el mapeo, conocimiento de como mapear, y experiencia en el abordaje a temas comunes repartida en diversos países de la región, pero falta impulso, difusión y apoyo en la creación de sinergias. Y es ahí donde el Hub debe enfocarse, pues la comunidad de datos abiertos regional es como la comunidad natural de los mapeadores y gente interesada en el mapeo abierto. América se debe abrir al mapeo abierto. Aún tenemos límites que cruzar, barreras que romper, realidades por conocer. ¡Abramos América al mapeo abierto!
