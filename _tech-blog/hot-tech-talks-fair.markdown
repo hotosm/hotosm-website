@@ -16,7 +16,7 @@ Person: Omran Najjar
 ---
 
 * Technical level: low
-* Estimate read: 5 min
+* Estimate read: 9 min
 
 # About fAIr
 
