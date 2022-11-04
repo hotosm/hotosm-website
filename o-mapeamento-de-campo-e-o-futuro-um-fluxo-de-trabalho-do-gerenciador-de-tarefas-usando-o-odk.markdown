@@ -2,7 +2,6 @@
 title: 'O mapeamento de campo é o futuro: um fluxo de trabalho do gerenciador de tarefas
   usando o ODK'
 date: 2022-08-24 01:45:00 Z
-published: false
 ---
 
 **O mapeamento de campo pela população local é fundamental para o futuro do mapeamento aberto. No entanto, as ferramentas hoje disponíveis – apesar de muitas serem de alta qualidade – não formam um ecossistema coerente para liberar o potencial do mapeamento de campo comunitário. Algo está faltando! Poderia ser um Gerenciador de Tarefas para Mapeamento de Campo?**
