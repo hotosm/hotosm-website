@@ -107,46 +107,46 @@ La existencia de estos scripts facilita una funcionalidad más parecida a la del
 
 En principio, ya podemos implementar un flujo de trabajo del Gestor de Tareas de mapeo de campo, pero requiere mucho trabajo manual complicado. Nuestro plan es hacerlo y automatizar gradualmente los puntos problemáticos. El camino más probable es el siguiente:
 
-1. Crear un mapa web para móviles (no una aplicación móvil, sólo una aplicación web) que:
+* Crear un mapa web para móviles (no una aplicación móvil, sólo una aplicación web) que:
 
-* Muestre todas las tareas individuales de un proyecto,
-  codificadas por colores según el estado de
-  asignación/realización
+  * Muestre todas las tareas individuales de un proyecto, codificadas por colores según el estado de asignación/realización
 
-* Permita a los mapeadores hacer clic en una tarea cerca de su
-  ubicación física y que se les asigne (ya sea con un código QR o
-  con un lanzamiento directo de ODK Collect con la configuración
-  pertinente)
+  * Permita a los mapeadores hacer clic en una tarea cerca de su ubicación física y que se les asigne (ya sea con un código QR o con un lanzamiento directo de ODK Collect con la configuración pertinente)
 
-* Permita a los mapeadores, validadores y administradores ver el
-  progreso y seleccionar tareas para su posterior mapeo o
-  validación
+  * Permita a los mapeadores, validadores y administradores ver el progreso y seleccionar tareas para su posterior mapeo o validación
 
-1. Crear un mapa web para pantallas de ordenador que facilite la creación de proyectos y tareas individuales
+* Crear un mapa web para pantallas de ordenador que facilite la creación de proyectos y tareas individuales
 
-   * Lo ideal es utilizar las redes de carreteras y vías fluviales
-     para dividir las tareas de forma sensata para el mapeo de
-     campo, en lugar de utilizar cuadrículas arbitrarias
+  * Lo ideal es utilizar las redes de carreteras y vías fluviales para dividir las tareas de forma sensata para el mapeo de campo, en lugar de utilizar cuadrículas arbitrarias
 
-   * Automatiza el proceso de descarga de datos OSM (probablemente
-     construcciones como primera prioridad) para el área cubierta
-     por cada tarea y conversión en características seleccionables
-     en un formulario ODK para cada área de la tarea
+  * Automatiza el proceso de descarga de datos OSM (probablemente construcciones como primera prioridad) para el área cubierta por cada tarea y conversión en características seleccionables en un formulario ODK para cada área de la tarea
 
-   *Similar a la interfaz de usuario del Gestor de Tareas de HOT y posiblemente basada en ella, aunque optimizada para móviles; las personas que utilizan el Gestor de Tareas están, por definición, utilizando una pantalla de ordenador, mientras que los cartógrafos de campo están, por definición, utilizando un dispositivo móvil.*
+*Similar a la interfaz de usuario del Gestor de Tareas de HOT y posiblemente basada en ella, aunque optimizada para móviles; las personas que utilizan el Gestor de Tareas están, por definición, utilizando una pantalla de ordenador, mientras que los cartógrafos de campo están, por definición, utilizando un dispositivo móvil*
 
-2. Perfeccionar y ampliar los formularios disponibles para cubrir las necesidades de datos cartográficos de campo más importantes de las comunidades
+* Perfeccionar y ampliar los formularios disponibles para cubrir las necesidades de datos cartográficos de campo más importantes de las comunidades
 
-   * La mayoría de los datos de mapeo de campo se cargan actualmente en OSM como importaciones masivas atribuidas a la organización, el proyecto o el validador. Esto es una fuente de frustración para la comunidad de OSM, que valora mucho la responsabilidad individual de las ediciones individuales añadidas al mapa.\*
+*La mayoría de los datos de mapeo de campo se cargan actualmente en OSM como importaciones masivas atribuidas a la organización, el proyecto o el validador. Esto es una fuente de frustración para la comunidad de OSM, que valora mucho la responsabilidad individual de las ediciones individuales añadidas al mapa.*
 
-3. Agilizar el proceso de validación e importación de datos
+* Agilizar el proceso de validación e importación de datos
 
-4. Y así sucesivamente...
+* Y así sucesivamente...
 
-Próximos pasos
+**Próximos pasos**
 
 En colaboración con el equipo de Tecnología y Comunidades, y los Grupos de Trabajo de Comunidad y Formación, el Equipo de Programas de Campo de HOT organizará un intercambio de habilidades  el 9 de septiembre del 2022, donde demostraremos el uso de un flujo de trabajo rudimentario del Gestor de Tareas de mapeo de campo. Todos son bienvenidos.
 
 Las sesiones en francés e inglés se celebrarán en varios husos horarios, y podrán añadirse sesiones adicionales si hay interés de otros husos horarios e idiomas (probablemente podamos organizar una sesión en español si los participantes están dispuestos a escuchar la lengua de Cervantes despiadadamente tratada).
 
 Si, tras la sesión de intercambio de conocimientos, hay un interés sustancial de la comunidad en utilizar este flujo de trabajo, seguiremos construyéndolo en colaboración con esos usuarios. Así que si crees que esto es algo que podrías querer o necesitar, asegúrate de inscribirte en la sesión de intercambio de conocimientos en [tinyurl.com/field-mapping-tools1](https://tinyurl.com/field-mapping-tools1).
+
+> **English**: Field Mapping is the Future: A Tasking Manager Workflow Using ODK
+>
+> [Read more](https://www.hotosm.org/updates/field-mapping-is-the-future-a-tasking-manager-workflow-using-odk/)
+>
+> **Français**: La cartographie de terrain est l’avenir : Un flux de travail de Gestionnaire de Tâches utilisant ODK
+>
+> [Read more](https://www.hotosm.org/la-cartographie-de-terrain-est-lavenir-un-flux-de-travail-de-gestionnaire-de-taches-utilisant-odk.html)
+>
+> **Portugu**é**s**: O mapeamento de campo é o futuro: um fluxo de trabalho do gerenciador de tarefas usando o ODK
+>
+> [Read more](https://www.hotosm.org/o-mapeamento-de-campo-e-o-futuro-um-fluxo-de-trabalho-do-gerenciador-de-tarefas-usando-o-odk.html)
