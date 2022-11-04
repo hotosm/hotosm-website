@@ -135,6 +135,8 @@ As sessões de francês e inglês foram realizadas em vários fusos horários, e
 
 Se, após a sessão de compartilhamento de habilidades, houver um interesse substancial da comunidade em usar esse fluxo de trabalho, continuaremos a construí-lo em colaboração com esses usuários. Então, se você acha que isso é algo que você pode querer ou precisar, certifique-se de se inscrever para o [compartilhamento de habilidades](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-open-data-kit-tickets-400186387257). 
 
+*[Tradução](https://infosaofrancisco.canoadetolda.org.br/artigos/ciencia-e-tecnologia-cidadas/o-mapeamento-de-campo-e-o-futuro-um-fluxo-de-trabalho-do-gerenciador-de-tarefas-usando-o-odk/) gentilmente cedida por [InfoSãoFrancisco](https://infosaofrancisco.canoadetolda.org.br/).*
+
 > **English**: Field Mapping is the Future: A Tasking Manager Workflow Using ODK
 >
 > [Read more](https://www.hotosm.org/updates/field-mapping-is-the-future-a-tasking-manager-workflow-using-odk/)
