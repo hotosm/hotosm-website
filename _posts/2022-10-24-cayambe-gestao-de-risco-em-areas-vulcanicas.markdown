@@ -14,6 +14,8 @@ Summary Text: A gestão de risco em áreas vulcânicas no Equador é uma ativida
   um primeiro passo para atingir esse objetivo.
 Feature Image: "/uploads/20220909_103057.jpg"
 Person: Juan Arellano Valdivia
+Country:
+- Ecuador
 ---
 
 Quito, a capital do Equador, é uma cidade no meio de vulcões. Os vulcões não ativos [Casitahua](https://es.wikipedia.org/wiki/Volc%C3%A1n_Casitagua) e Pululahua estão muito próximos do norte da área urbana, e o vulcão ativo [Pichincha](https://pt.wikipedia.org/wiki/Pichincha) também está bastante próximo da cidade. Mais próximos estão o [Antisana](https://pt.wikipedia.org/wiki/Antisana), o [Cotopaxi](https://pt.wikipedia.org/wiki/Cotopaxi) e o [Cayambe](https://pt.wikipedia.org/wiki/Cayambe_(vulc%C3%A3o)), que se entrarem em erupção afetaria as cidades vizinhas e em alguns casos a própria cidade de Quito, principalmente com a emissão de cinzas vulcânicas, como já aconteceu no [passado](https://journals.openedition.org/bifea/2290), e dependendo o vulcão e a força da erupção, podem até afetar os mananciais da cidade com deslizamentos de terra e outros.
