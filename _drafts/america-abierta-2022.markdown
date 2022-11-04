@@ -1,5 +1,5 @@
 ---
-title: América Abierta 2022, el desafío de los datos abiertos
+title: América Abierta 2022, el reto de los datos abiertos
 date: 2022-11-07 15:08:00 Z
 categories:
 - data
