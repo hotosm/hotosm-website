@@ -1,7 +1,10 @@
 ---
 title: 'Field Mapping is the Future: A Tasking Manager Workflow Using ODK (available
-  in English, Spanish & French)'
+  in English, Spanish, Portuguese & French)'
 date: 2022-08-24 10:05:00 Z
+tags:
+- ODK
+- Tasking Manager
 Summary Text: Field mapping by local people is key to the future of open mapping.
   However, the tools available for field mapping—despite many being of high quality—do
   not form a coherent ecosystem to unleash the potential of community field mapping.
@@ -14,7 +17,7 @@ Country:
 
 [En français](http://www.hotosm.org/la-cartographie-de-terrain-est-lavenir-un-flux-de-travail-de-gestionnaire-de-taches-utilisant-odk.html)
 [En español](http://www.hotosm.org/el-mapeo-de-campo-es-el-futuro-un-flujo-de-trabajo-del-gestor-de-tareas-utilizando-odk.html)
-
+[En Portugu**é**s](https://www.hotosm.org/o-mapeamento-de-campo-e-o-futuro-um-fluxo-de-trabalho-do-gerenciador-de-tarefas-usando-o-odk.html)
 
 > ## Summary (TL;DR)
 >
@@ -154,7 +157,7 @@ In collaboration with the Tech and Communities team, and the Community and Train
 
 French and English sessions will be held in several time zones, and additional sessions may be added if there is interest from additional time zones and languages (we can probably manage a Spanish-language session if the participants are prepared to hear the language of Cervantes mercilessly butchered).
 
-If, following the skill share session, there is substantial community interest in using this workflow, we will continue building it in collaboration with those users. So if you think this is something you might want or need, [make sure you sign up for the skill share](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-open-data-kit-tickets-400186387257). 
+If, following the skill share session, there is substantial community interest in using this workflow, we will continue building it in collaboration with those users. So if you think this is something you might want or need, [make sure you sign up for the skill share](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-open-data-kit-tickets-400186387257).
 
 > **Français**:
 > La cartographie de terrain est l'avenir : Un flux de travail de Gestionnaire de Tâches utilisant ODK
@@ -165,3 +168,7 @@ If, following the skill share session, there is substantial community interest i
 > El mapeo de campo es el futuro: Un flujo de trabajo del Gestor de Tareas utilizando ODK
 >
 > [Read more](https://www.hotosm.org/el-mapeo-de-campo-es-el-futuro-un-flujo-de-trabajo-del-gestor-de-tareas-utilizando-odk.html)
+>
+> **Portugu**é**s**: O mapeamento de campo é o futuro: um fluxo de trabalho do gerenciador de tarefas usando o ODK
+>
+> [Read more](https://www.hotosm.org/o-mapeamento-de-campo-e-o-futuro-um-fluxo-de-trabalho-do-gerenciador-de-tarefas-usando-o-odk.html)
