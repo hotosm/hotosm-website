@@ -7,13 +7,13 @@ published: false
 
 **O mapeamento de campo pela população local é fundamental para o futuro do mapeamento aberto. No entanto, as ferramentas hoje disponíveis – apesar de muitas serem de alta qualidade – não formam um ecossistema coerente para liberar o potencial do mapeamento de campo comunitário. Algo está faltando! Poderia ser um Gerenciador de Tarefas para Mapeamento de Campo?**
 
-> **Resumen (TL:DR)**
+> **Resumo (TL:DR)**
 >
-> Aunque tenemos aplicaciones de mapeo de campo bastante buenas, no tenemos grandes herramientas para coordinar el mapeo de campo. Sin embargo, tenemos la mayoría de los elementos necesarios para crear una versión orientada al mapeo de campo del Gestor de Tareas de HOT (Tasking Manager), que permite seleccionar áreas específicas y completar tareas de forma coordinada y organizada.
+> Embora tenhamos alguns aplicativos de mapeamento de campo muito bons, não temos ótimas ferramentas para coordenar o mapeamento de campo.No entanto, temos a maioria dos elementos necessários para criar uma versão orientada para mapeamento de campo do HOT Tasking Manager, que permite selecionar áreas específicas e concluir tarefas de forma coordenada e organizada.
 >
-> Ya es posible implementar una especie de flujo de trabajo del Gestor de Tareas de mapeo de campo utilizando las herramientas existentes (en su mayoría basadas en ODK, en particular la nueva funcionalidad "seleccionar del mapa"), pero es bastante laborioso y complicado. Estamos trabajando en una automatización que alivie los puntos difíciles, lo que nos acerca a un Gestor de Tareas completo.
+> Já é possível implementar uma espécie de fluxo de trabalho do Gerenciador de Tarefas de mapeamento de campo usando ferramentas existentes (principalmente baseadas em ODK, em particular a nova funcionalidade "selecionar do mapa"), mas é bastante trabalhoso e complicado.Estamos trabalhando na automação para aliviar os pontos problemáticos, aproximando-nos de um Gerenciador de Tarefas completo.
 >
-> En colaboración con el equipo de Tecnología y Comunidades, y los Grupos de Trabajo de Comunidad y Formación, el Equipo de Programas de Campo de HOT organizará una [sesión de intercambio de habilidades el 9 de septiembre del 2022](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-odk-tickets-400186387257), durante la cual los asistentes podrán obtener una comprensión y algo de experiencia con la idea; utilizaremos los comentarios de esta sesión para medir el interés y la participación para continuar el desarrollo. Animamos a las personas y a las comunidades interesadas en las herramientas de coordinación del mapeo de campo a que asistan.
+> Em colaboração com a equipe de Tecnologia e Comunidades e os Grupos de Trabalho de Comunidade e Treinamento, a Equipe de Programas de Campo HOT realizará uma [sessão de compartilhamento de habilidades](https://www.eventbrite.com/e/field-mapping-is-the-future-a-tasking-manager-workflow-for-odk-tickets-400186387257) em 9 de setembro de 2022, durante a qual os participantes poderão obter uma compreensão e alguma experiência com a ideia ;Usaremos o feedback desta sessão para avaliar o interesse e o engajamento para um maior desenvolvimento.Incentivamos a participação de indivíduos e comunidades interessados ​​em ferramentas de coordenação de mapeamento de campo.
 
 **A atribuição de tarefas permite um melhor mapeamento remoto**
 
