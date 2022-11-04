@@ -1,6 +1,12 @@
 ---
 title: América Abierta 2022, el desafío de los datos abiertos
-date: 2022-10-30 20:08:00 Z
+date: 2022-11-07 15:08:00 Z
+categories:
+- data
+- community
+tags:
+- Datos Abiertos
+- Gobierno Abierto
 Summary Text: América Abierta, antes conocido como AbreLatam/ConDatos, es el evento
   regional sobre datos abiertos y gobierno abierto, que reúne a organizaciones e individuos
   que trabajan en estos temas.
