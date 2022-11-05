@@ -28,8 +28,6 @@ Próximamente habrá más información sobre los detalles de la colaboración y 
 
 * 24 de octubre: **[GeONG](https://cartong.org/geong/2022)** - Chambéry, Francia
 
-* 30 de octubre: **Gestión popular y colaborativa de riesgos de desastres y OpenStreetMap** - Lima, Perú
-
 * 31 de octubre: **Reunión anual de Teto Brasil \+ Cidade em Foco (Ciudad en foco)** - São Paulo, Brasil
 
 * 11 de noviembre: **Conferencia internacional sobre la digitalización de Territorios (CIDT)** - Bamako, Malí
@@ -37,6 +35,8 @@ Próximamente habrá más información sobre los detalles de la colaboración y 
 * 21 noviembre : **[State of the map Asia / Pista ng Mapa](https://pistangmapa.github.io/2022/)** - ubicación por confirmar, Filipinas
 
 * 24 de noviembre: **CAFDO3** - Túnez, Túnez
+
+* 24 de noviembre: **Gestión popular y colaborativa de riesgos de desastres y OpenStreetMap** - Lima, Perú
 
 * 28 de noviembre: **[Conferencia Geoespacial del Pacífico](https://osgeo-oceania.org/pacific-geospatial-conference/)** - Suva, Fiji
 
