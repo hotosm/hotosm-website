@@ -48,6 +48,6 @@ Entonces -y recapitulando- hay interés en el mapeo, conocimiento de como mapear
 
 ![52407610129_496e524179_c.jpg](/uploads/52407610129_496e524179_c.jpg)
 
-Por cierto, no se pierdan los testimonios de [Flor Otárola](https://www.instagram.com/p/CjS7JTSgcTn/) ([Cambá](https://camba.coop/)), [Leo Gómez](https://www.instagram.com/p/CkFjCPUgbjP/) ([TEDIC](https://www.tedic.org/)) y Sebastian Neter ([Wingu](https://winguweb.org/)) sobre OpenStreetMap.
+Por cierto, no se pierdan los testimonios de [Flor Otárola](https://www.instagram.com/p/CjS7JTSgcTn/) ([Cambá](https://camba.coop/)), [Leo Gómez](https://www.instagram.com/p/CkFjCPUgbjP/) ([TEDIC](https://www.tedic.org/)) y [Sebastian Neter](https://www.instagram.com/p/CkoOl3OpEpG/) ([Wingu](https://winguweb.org/)) sobre OpenStreetMap.
 
 *\* Este post es una version adaptada por el autor sobre lo publicado en su [newsletter personal](https://cyberjuan.substack.com/p/america-abierta-2022?sd=pf).*
