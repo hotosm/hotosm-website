@@ -7,9 +7,9 @@ GDACS ID: TC 1000915
 GDACS-level: Red (2.5)
 Country:
 - Japan
-Event type: Fl Flood
+Event type: TC Tropical Cyclone
 Summary Text: Monitoring of Tropical Cyclone for NANMADOL-22 in the Pacific.
-Feature Image: Fl Flood
+Feature Image: TC Tropical Cyclone
 Status: alert
 Post-type: update
 source: <a href="https://www.gdacs.org/report.aspx?eventid=1000915&episodeid=16&eventtype=TC"
