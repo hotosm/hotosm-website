@@ -1,5 +1,5 @@
 ---
-title: 'Pakistan: Floods, Monsoon Season 2022 Alert'
+title: Bali Flash Flood 2022 Alert
 date: 2022-10-13 20:16:00 Z
 Glide: FF-2022-000008-HOT
 Event Name: AHA-FL-2022-001138-IDN
