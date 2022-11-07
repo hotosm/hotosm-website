@@ -90,6 +90,6 @@ By prioritizing local mapping organizations and communities, facilitating knowle
 ![unnamed-02c9c5.png](/uploads/unnamed-02c9c5.png)
 
 
-> For further questions please contact AP Hub OSM Trainer, Can Unen at canunen@hotosm.org. 
+> For further questions please contact AP Hub OSM Trainer, Can Unen at [canunen@hotosm.org](canunen@hotosm.org). 
 
 
