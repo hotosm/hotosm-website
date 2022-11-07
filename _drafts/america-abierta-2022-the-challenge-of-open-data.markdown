@@ -28,3 +28,15 @@ In all this context, one of the important things of the three days of the event 
 > We want -almost 10 years after the arrival of the open data agenda- that they be put at the service of the issues that matter, with the quality that is required, as a right of the citizenry and not because of the good will of the power of turn. And we want them about how our money is spent, how our contracts are executed, but also about how our public services work, and how we count those who have been made invisible by state apparatuses that still inherit colonialist practices. (Source: [Open America Declaration](https://americaabierta.org/abrelatam-queremos-una-americaabierta-para-todas-las-personas/)).
 
 ![52407465965_25c64dc366_c.jpg](/uploads/52407465965_25c64dc366_c.jpg)
+
+At the closing of the event, two questions were asked to some of the attendees. First, what did they take away from “América Abierta”. My answer would be that the people, knowing so many people who do things in sometimes adverse circumstances serves to inspire oneself and continue working on what one believes in and likes. Second, it was asked what their task was. Well, mine/ours would be to work so that in the next Open America the subject of open mapping is the protagonist, both in shared experiences and in opportunities for collaboration.
+
+As I mentioned in a previous paragraph, although open mapping did not have a prominent place in the event, the interest of organizations and people in using it could be verified. In fact, there are already organizations doing it, such as [DataSketch](https://www.datasketch.co/) from Colombia or [DataLabe](https://datalabe.org/) from Brazil. Another thing that was seen is that there are common points with several organizations and communities in the region that work directly in our impact areas (to remember: Disasters and climate resilience, Public health, Gender equality, Sustainable cities and communities, Displacement and safe migration).
+
+So -and recapitulating- there is interest in mapping, knowledge of how to map, and experience in addressing common issues spread across various countries in the region, but there is a lack of momentum, spread and support in the creation of synergies. And that is where the Hub should focus, because the regional open data community is like the natural community for mappers and people interested in open mapping. America must be open to open mapping. We still have limits to cross, barriers to break, realities to discover. Let's open America to open mapping!
+
+![52407610129_496e524179_c.jpg](/uploads/52407610129_496e524179_c.jpg)
+
+By the way, don't miss the testimonials of [Flor Otárola](https://www.instagram.com/p/CjS7JTSgcTn/) ([Cambá](https://camba.coop/)), [Leo Gómez](https://www.instagram.com/p/CkFjCPUgbjP/) ([TEDIC](https://www.tedic.org/)) and [Sebastian Neter](https://www.instagram.com/p/CkoOl3OpEpG/) ([Wingu](https://winguweb.org/)) about OpenStreetMap.
+
+*\* This post is an adapted version by the author of what was published in his [personal newsletter](https://cyberjuan.substack.com/p/america-abierta-2022?sd=pf).*
