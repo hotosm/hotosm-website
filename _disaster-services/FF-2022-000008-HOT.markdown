@@ -1,0 +1,19 @@
+---
+title: 'Pakistan: Floods, Monsoon Season 2022 Alert'
+date: 2022-10-13 20:16:00 Z
+Glide: FF-2022-000008-HOT
+Event Name: AHA-FL-2022-001138-IDN
+GDACS ID: N/A
+GDACS-level: N/A
+Country:
+- Indonesia
+Event type: Fl Flood
+Summary Text: Monitoring of Indonesia, Flooding in Jembrana Regency (Bali).
+Feature Image: Fl Flood
+Status: alert
+Post-type: update
+source: <a href="https://thebalisun.com/flash-flooding-in-bali-devastates-communities-and-cuts-off-key-transport-routes/"
+  target="_blank">The Bali Sun and ADINet</a>
+---
+
+"Heavy rains and storms have been ravishing Bali for over a week. Over the weekend, the devastation continued as weather damaged vital transportation routes and rural communities. Several bridges in West Bali collapsed due to landslides and flooding, causing delays from Gilimanuk to Denpasar."
