@@ -1,6 +1,17 @@
 ---
 title: América Abierta 2022, the challenge of open data
 date: 2022-11-07 04:02:00 Z
+categories:
+- data
+- community
+tags:
+- open data
+- Open Government
+Summary Text: América Abierta, formerly known as AbreLatam/ConDatos, is the regional
+  event on open data and open government, which brings together organizations and
+  individuals working on these issues.
+Feature Image: "/uploads/52407738438_f38a4dbdf2_c.jpg"
+Person: Juan Arellano Valdivia
 ---
 
 ![52407738438_f38a4dbdf2_c.jpg](/uploads/52407738438_f38a4dbdf2_c.jpg)
