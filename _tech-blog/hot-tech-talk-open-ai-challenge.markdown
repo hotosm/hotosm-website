@@ -39,7 +39,7 @@ As we speak, a team of 50\+ AI engineers from the Omdena community have been cru
 
 ## My coffee conversation with Omran on the AI challenge:
 
-> *Hi Omran. How are you doing? You are busy these days! Very excited about the open AI challenge, and curious to hear your take on it all.  For most of us (non-technical) people, AI is a little hard to understand.  Therefore, feel free to treat me and the readers as if we have no basis to really understand AI and how it works. (oh, and dear readers: if you want to read more about AI-assisted mapping and fAIr: check out [Omran's blog on fAIr](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)). *
+> \*Hi Omran. How are you doing? You are busy these days! Very excited about the open AI challenge, and curious to hear your take on it all.  For most of us (non-technical) people, AI is a little hard to understand.  Therefore, feel free to treat me and the readers as if we have no basis to really understand AI and how it works. (oh, and dear readers: if you want to read more about AI-assisted mapping and fAIr: check out [Omran's blog on fAIr](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)). \*
 
 > **Q: Another AI challenge was conducted a few years back (the [Open Cities challenge](https://www.drivendata.org/competitions/60/building-segmentation-disaster-resilience/leaderboard/)). Aren't we just repeating what has already been done?**
 
@@ -65,7 +65,7 @@ Initially, they don’t know how a building looks from the top, they might strug
 
 Source: [OpenAerialMap](https://openaerialmap.org/)
 
-The child is an AI model and the curriculum is a training dataset. The curriculum seems to be like OpenStreetMap data, right? 
+The child is an AI model and the curriculum is a training dataset. The curriculum seems to be like OpenStreetMap data, right?
 
 > **Q: Oh, love this analogy! Ok, so to nail it down: why exactly are we doing this open AI challenge with Omdena?**
 
@@ -75,15 +75,15 @@ In short, we want to ensure that fAIr ultimately provides as accurate and precis
 
 Yes! I will highlight two things about the team and the challenge that really surprised me:
 
-1) The **diversity** of knowledge coming from Omdena's collaborators is amazing! For instance, the various team members all have different techniques within deep learning and machine learning techniques in their  “toolbox”. Different models - new models by ourselves, and we are trying RAMP.
+1. The **diversity** of knowledge coming from Omdena's collaborators is amazing! For instance, the various team members all have different techniques within deep learning and machine learning techniques in their  “toolbox”. Different models - new models by ourselves, and we are trying RAMP.
 
-2) The **efficiency** of Omdena’s coordination is the second. I am amazed how organised and delivery-oriented they are. Normally projects don’t work this well! It has all been very professional. 
+2. The **efficiency** of Omdena’s coordination is the second. I am amazed how organised and delivery-oriented they are. Normally projects don’t work this well! It has all been very professional.
 
 ## Want to know more?
 
 * [Read all about fAIr (HOT's open AI_assisted mapping service)](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)
 
-* [See full timeline with links to research, code and timeline of fAIr](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing)
+* [See full timeline with links to fAIr timeline and research](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing)
 
 # Want to engage in fAIr or HOT's technologies?
 
