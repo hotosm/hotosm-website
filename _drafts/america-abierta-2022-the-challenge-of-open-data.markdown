@@ -1,6 +1,6 @@
 ---
 title: América Abierta 2022, the challenge of open data
-date: 2022-11-07 04:01:00 Z
+date: 2022-11-07 04:02:00 Z
 ---
 
 ![52407738438_f38a4dbdf2_c.jpg](/uploads/52407738438_f38a4dbdf2_c.jpg)
@@ -15,4 +15,16 @@ This event has been taking place since 2013 -the first AbreLatam took place in M
 
 ![52407324459_e3bd5952c2_c.jpg](/uploads/52407324459_e3bd5952c2_c.jpg)
 
-Talking about open data may seem like something specialized for the general public, but it is essential for transparency and the fight against corruption, and should be on the agenda of more civil society organizations that can additionally benefit from the use of data that canhave an impact on their activities or on their target audiences.It is certainly a field that needs technical knowledge, an active citizen movement and the openness of governments, the latter being something that fluctuates with the political ups and downs of each city or country.
+Talking about open data may seem like something specialized for the general public, but it is essential for transparency and the fight against corruption, and should be on the agenda of more civil society organizations that can additionally benefit from the use of data that can have an impact on their activities or on their target audiences. It is certainly a field that needs technical knowledge, an active citizen movement and the openness of governments, the latter being something that fluctuates with the political ups and downs of each city or country.
+
+The issues of georeferenced open data in general or open mapping in particular, although they had a certain role in previous editions of the event, on this occasion (see [agenda](https://americaabierta.org/agenda/)) were mentioned only in passing and with few projects highlighting them. That said, in the conversations that usually take place in the corridors use cases or the need to use them did emerged, which shows that there are actors in the region interested in the subject.
+
+In all this context, one of the important things of the three days of the event was the Open America Declaration, a document with clear ideas about what the open data community wants for the region. As an example I extract some quotes from said document:
+
+> We want an Open America so that citizenship is genuinely included, and the exercise of it is free. We want an open justice that, in addition to being efficient and accessible, guarantees the rights of all people.
+>
+> We want an Open America that makes visible groups that have been structurally excluded from decision-making spaces and whose rights are still systematically violated, such as women, indigenous communities, LGTBQ\+ people and Afro communities. Nothing in your name, without it being done together.
+>
+> We want -almost 10 years after the arrival of the open data agenda- that they be put at the service of the issues that matter, with the quality that is required, as a right of the citizenry and not because of the good will of the power of turn. And we want them about how our money is spent, how our contracts are executed, but also about how our public services work, and how we count those who have been made invisible by state apparatuses that still inherit colonialist practices. (Source: [Open America Declaration](https://americaabierta.org/abrelatam-queremos-una-americaabierta-para-todas-las-personas/)).
+
+![52407465965_25c64dc366_c.jpg](/uploads/52407465965_25c64dc366_c.jpg)
