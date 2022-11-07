@@ -1,0 +1,19 @@
+---
+title: Hurricane Roslyn 2022 Alert
+date: 2022-10-20 21:55:00 Z
+Glide: TC-2022-000345-MEX
+Event Name: Tropical Cyclone for ROSLYN-22
+GDACS ID: TC 1000940
+GDACS-level: Orange (1.5)
+Country:
+- Mexico
+Event type: TC Tropical Cyclone
+Summary Text: Monitoring of Tropical Cyclone for ROSLYN-22 in the Pacific.
+Feature Image: TC Tropical Cyclone
+Status: alert
+Post-type: update
+source: <a href="https://gdacs.org/report.aspx?eventid=1000940&episodeid=3&eventtype=TC"
+  target="_blank">GDACS</a>
+---
+
+"Tropical Cyclone ROSLYN-22 can have a high humanitarian impact based on the maximum sustained wind speed,exposed population and vulnerability."
