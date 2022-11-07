@@ -1,0 +1,19 @@
+---
+title: Nigeria Floods 2022 Alert
+date: 2022-09-10 19:30:00 Z
+Glide: FL-2022-000350-NGA
+Event Name: Nigeria Floods 2022 (October)
+GDACS ID: "\tFL 1101659"
+GDACS-level: 2.5 (Red)
+Country:
+- Nigeria
+Event type: Fl Flood
+Summary Text: Disaster Services is currently monitoring this event in Lokoja and Koji
+  State, Nigeria.
+Feature Image: Fl Flood
+Status: alert
+Post-type: update
+source: <a href="https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1101659" target="_blank">GDACS</a>
+---
+
+"Media report (quoting national authorities), as of 18 October, 603 fatalities, over 2,400 injured, nearly 1,303,000 displaced people and a total of more than 2,504,000 affected people across the Country. In particular, the Bayelsa State is the worst affected, with around 700,000 either displaced or affected people. In addition, same sources also report around 203,400 damaged houses, of which over 82,000 fully damaged or destroyed."
