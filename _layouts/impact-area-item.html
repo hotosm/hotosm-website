@@ -2,12 +2,27 @@
 layout: default
 ---
 
-<div class="impact-area-item">
-  <div class="container">
+<div class="page container impact-area-item">
+  <header class="page-header">
     <h1 class="red center capital">{{ page.title }}</h1>
+  </header>
+
+  <div class="impact-area-embedded">
+    <!-- <embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url={{ page['Page Link']['Link'] }}" width="100%" height="1200px"> -->
+     <iframe src="{{ page['Page Link']['Link'] }}" width="100%" height="1200" allow="autoplay"></iframe>
   </div>
-  <div class="impact-area-body">
-    <div class="light">
+
+  <!-- <div class="impact-area-body">
+    <aside class="meta">
+    {% if page['Page Link']['Link'] %}
+      <p class="meta-p">{{ page['Page Link']['Text'] }}</p>
+      <div class="sticky-wrap">
+        <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Page Link']['Link'] }}">{{ page['Page Link']['Label'] }}</a>
+      </div>
+    {% endif %}
+    </aside>
+    <div class="light page-content">
       <p class="red intro">{{ page.block-1.intro }}</p>
       <div>
         <h4 class="red bold">{{ page.block-1.sub-block.title }}</h4>
@@ -65,11 +80,11 @@ layout: default
     </div>
 
     {% unless page.title == "Gender Equality" %}
-      <div class="dark">
+      <div class="dark page-content">
         {{ content }}
       </div> 
     {% endunless %}
-    <div class="light">
+    <div class="light page-content">
       <h4 class="red bold">{{ page.block-2.title }}</h4>
       {% assign points = page.block-2.points %}
       {% for point in points %}
@@ -78,7 +93,7 @@ layout: default
         </ul>     
       {% endfor %}
     </div>
-    <div class="dark">
+    <div class="dark page-content">
       <h4>{{ page.block-3.heading }}</h4>
       <h5 class="subheading">{{ page.block-3.subheading }}</h5>
       <p>
@@ -97,7 +112,7 @@ layout: default
         </ul>
       {% endfor %}
     </div>
-  </div>
+  </div> -->
   <div id="impact-projects" class="container">
     <div class="hr-h"></div>
     <h4>Highlighted Projects</h4>
@@ -121,7 +136,7 @@ layout: default
       {% endfor %}
 
       <div class="hr-h"></div>
-    </div>
+    </div> 
 
     {% assign project_head_count = 0 %}
     {% for project in sorted-projects %}
@@ -169,6 +184,7 @@ layout: default
       {% endif %}
     {% endfor %}
 
-    </div>
+  </div>
+
 </div>
   

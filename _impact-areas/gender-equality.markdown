@@ -2,6 +2,10 @@
 title: Gender Equality
 date: 2018-02-06 13:09:00 Z
 position: 5
+Page Link:
+  Text: Want to know more?
+  Label: Download PDF Infosheet
+  Link: https://drive.google.com/file/d/1UyPja2sgg8JXzzjz_tONjrHa4N_JaX5d/preview
 src: "/uploads/gender.svg"
 summary: Equal access & participation in open mapping. Improved understanding and
   accounting of gendered experiences & issues in all impact areas.

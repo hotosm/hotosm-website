@@ -2,6 +2,10 @@
 title: Displacement & Safe Migration
 date: 2018-02-06 13:08:00 Z
 position: 4
+Page Link:
+  Text: Want to know more?
+  Label: Download PDF Infosheet
+  Link: https://drive.google.com/file/d/1w4T6j0eHGag1VznvXhHA6kbD_Zq1QTAj/preview
 src: "/uploads/displacement-and-safe-migration.svg"
 summary: Coordinated service delivery for migrants and people displaced from home
   in transit, camp settings, and other informal contexts.

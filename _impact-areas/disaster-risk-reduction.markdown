@@ -2,6 +2,10 @@
 title: Disasters & Climate Resilience
 date: 2018-02-06 13:06:00 Z
 position: 1
+Page Link:
+  Text: Want to know more?
+  Label: Download PDF Infosheet
+  Link: https://drive.google.com/file/d/1VcB6jd70MqrRU3eK3ABp1IRto7F6Dmm3/preview
 src: "/uploads/disasters-and-climate-resilience.svg"
 summary: Preparedness, anticipatory action, risk reduction; and responding to the
   impacts of rapid onset and prolonged natural disasters.

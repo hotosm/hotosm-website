@@ -2,6 +2,10 @@
 title: Public Health
 date: 2018-02-06 13:10:00 Z
 position: 3
+Page Link:
+  Text: Want to know more?
+  Label: Download PDF Infosheet
+  Link: https://drive.google.com/file/d/1bKA3k29q-3V5Y6U0PiyPrxNqe5ORSvj-/preview
 src: "/uploads/public-health.svg"
 summary: Accessible healthcare infrastructure and informed public health programming
   and monitoring.

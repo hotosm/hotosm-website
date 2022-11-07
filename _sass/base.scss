@@ -5836,6 +5836,30 @@ th, td {
     text-transform: capitalize;
   }
   .impact-area-body {
+
+    margin-bottom: 40px;
+    @media (min-width: $screen-xs) {
+      display: grid;
+      grid-template-columns: 1fr 3fr;
+      grid-template-rows: fit-content(4, 1fr);
+      grid-gap: 24px;
+    }
+    .page-content {
+      @media (min-width: $screen-xs) {
+        grid-column: 2;
+
+      }
+    }
+    .meta {
+      @media (min-width: $screen-xs) {
+        grid-row: 1 / -1;
+        grid-column: 1 ;
+      }
+      height: 100px;
+    }
+
+
+
     width: 100%;
     .light {
       width: 100%;

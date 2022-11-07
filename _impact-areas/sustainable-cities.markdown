@@ -2,6 +2,10 @@
 title: Sustainable Cities & Communities
 date: 2018-02-06 13:05:00 Z
 position: 2
+Page Link:
+  Text: Want to know more?
+  Label: Download PDF Infosheet
+  Link: https://drive.google.com/file/d/1s0LM_Te4Df7SZit0oSTFMkzFR123-pKI/preview
 src: "/uploads/sustainable-cities-and-communities.svg"
 summary: Service delivery and infrastructure in disadvantaged urban and rural areas,
   including transportation, water and sanitation, and energy.
