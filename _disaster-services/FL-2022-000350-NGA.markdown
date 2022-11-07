@@ -3,7 +3,7 @@ title: Nigeria Floods 2022 Alert
 date: 2022-09-10 19:30:00 Z
 Glide: FL-2022-000350-NGA
 Event Name: Nigeria Floods 2022 (October)
-GDACS ID: "\tFL 1101659"
+GDACS ID: FL 1101659
 GDACS-level: 2.5 (Red)
 Country:
 - Nigeria
