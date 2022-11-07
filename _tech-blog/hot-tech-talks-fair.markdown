@@ -48,14 +48,13 @@ fAIr seek to solve three foreseen problems:
 
 * **1. AI models openness:** AI-assisted mapping for humanitarian purposed feels like a black box. Useful open-source results coming from AI exists (e.g. [META's global roads dataset](https://mapwith.ai/) available in RapiD, [Microsoft’s global buildings dataset](https://github.com/microsoft/GlobalMLBuildingFootprints) and [Google’s open building in Africa](https://sites.research.google/open-buildings/)). However, the models (code) are currently not open sourced.
 
-* **2. Model bias:** which means predicting over satellite imagery would be biassed toward the training dataset used to teach the AI model and the nature and quality of imagery is very different across the globe.
-  Here are 3 different imageries from Asia and Africa show totally different nature of imagery.
+* **2. Model bias:** Having model biases means predicting over satellite imagery would be biassed toward the training dataset used to teach the AI model and the nature and quality of imagery is very different across the globe. Here are three different images from Asia and Africa show totally different nature of imagery:
 
 ![OAM pics.png](/uploads/OAM%20pics.png)
 
 Source: [OpenAerialMap](https://openaerialmap.org/)
 
-* **3. Lack of feedback:** which means that there is no enhancements applied easily on the intelligence of the AI models and human is out of the loop when building the AI models.
+* **3. Lack of feedback:** There is no enhancement applied easily on the intelligence and accuracy of the AI models and humans are out of the loop when building the AI models, this due to AI models being either closed source or were built once and made available to end users so enhancements would require repeating the process from scratch..
 
 ## fAIr: for whom?
 
