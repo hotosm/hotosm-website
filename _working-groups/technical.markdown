@@ -1,15 +1,12 @@
 ---
-title: OSM Galaxy (Technical)
+title: Tasking Manager (Technical)
 date: 2018-02-15 13:22:00 Z
 position: 7
 Calendar: https://www.google.com/calendar/embed?src=hotosm.org_848e89aaiab04ag94d23rqn558%40group.calendar.google.com
 Chat: http://slack.hotosm.org/
-Details: " https://galaxy.hotosm.org/"
 Blog: https://hotosm.org/tech-blog
 ---
 
-The HOT Technical Working Group discusses the current status, coordination possibilities, and priorities for tool development, and for hosting and operations aspects of HOT tools. Currently, the WG focuses on the OSM Galaxy Project and Tasking Manager.
+The HOT Technical Working Group discusses the current status, coordination possibilities, and priorities for tool development, and for hosting and operations aspects of HOT tools. Currently, the WG focuses on Tasking Manager in the form of meet ups.
 
-Join the OSM Galaxy WG by filling up [this form](https://bit.ly/galaxy-contribution). Visit the [OSM Galaxy Project website](https://galaxy.hotosm.org/) for more information.
-
-We also run monthly [HOT Tasking Manager](https://tasks.hotosm.org/) Meet Ups on first Wednesday of the month : 9:00 UTC or 15:00 UTC. Register [here](https://forms.gle/G34jDtjUc11WPRUM7).
+[HOT Tasking Manager](https://tasks.hotosm.org/) Meet Ups on first Wednesday of the month : 9:00 UTC or 15:00 UTC. Register [here](https://forms.gle/G34jDtjUc11WPRUM7).
