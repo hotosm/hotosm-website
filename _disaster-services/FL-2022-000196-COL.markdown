@@ -1,5 +1,5 @@
 ---
-title: 'Colombia: Floods and Landslides 2022 Alert'
+title: 'Colombia: Floods and Landslides (Cauca) 2022 Alert'
 date: 2022-10-31 21:27:00 Z
 Glide: FL-2022-000196-COL
 Event Name: 'Colombia: Floods and Landslides - Mar 2022'
