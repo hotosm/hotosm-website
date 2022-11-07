@@ -1,0 +1,19 @@
+---
+title: 'Colombia: Floods and Landslides 2022 Alert'
+date: 2022-10-31 21:27:00 Z
+Glide: FL-2022-000196-COL
+Event Name: 'Colombia: Floods and Landslides - Mar 2022'
+GDACS ID: N/A
+GDACS-level: N/A
+Country:
+- Colombia
+Event type: Fl Flood
+Summary Text: Monitoring of Floods and Landslides in Cauca, Colombia.
+Feature Image: Fl Flood
+Status: alert
+Post-type: update
+source: <a href="https://erccportal.jrc.ec.europa.eu/ECHO-Products/Echo-Flash#/daily-flash-archive/4633"
+  target="_blank">ECHO / UNGRD</a>
+---
+
+"Floods and flash floods in Valle del Cauca Department (south-western Colombia) affected 4,500 families in Buenaventura Municipality, while 150 families have been displaced in Jamundi Municipality, due to the overflow of Cauca River. In Dagua Municipality, floods affected 34 families, destroyed 14 houses, and damaged a section of a national highway."
