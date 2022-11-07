@@ -1,5 +1,5 @@
 ---
-title: 'hot_tech_talks | fAIr: AI-assisted mapping'
+title: 'hot_tech_talk | fAIr: AI-assisted mapping'
 date: 2022-11-02 15:03:00 Z
 categories:
 - hot-tech
