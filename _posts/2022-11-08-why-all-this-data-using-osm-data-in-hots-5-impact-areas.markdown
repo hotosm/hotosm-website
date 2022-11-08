@@ -6,6 +6,12 @@ Summary Text: OpenStreetMap (OSM) was created to provide and enable the free and
   works! Since its creation in 2005, OSM has grown to include ever expanding and deepening
   coverage of various base map layers and has now widely become a go-to spatial data
   platform for many users.
+Feature Image: "/uploads/Impact%20Areas-fb37a7.png"
+Person:
+- Jessica Pechmann
+- Paul Uithol
+Country:
+- Global
 ---
 
 At Humanitarian OpenStreetMap Team (HOT), we believe OSM is a great solution for collecting, managing, and accessing spatial data, largely due to the community contribution model and openness of the data. The data can be freely used and redistributed by anyone, a model that works well in the humanitarian and development contexts that HOT works in, as these require platform-neutral and open data for optimal interoperability and collaboration across a multitude of actors.
