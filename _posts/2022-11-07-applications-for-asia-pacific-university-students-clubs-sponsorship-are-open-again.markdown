@@ -108,9 +108,11 @@ If considered for sponsorship, OMHAP will provide feedback to you in order to fu
 
 ### Selection Process and Timeline:
 
-**December 1:** Application Deadline
-**December 15:** Notification of sponsorship recipients and the start of due diligence and risk assessment period for sponsorship agreements
-**January 2023:** Start of sponsorship period
+* **December 1:** Application Deadline
+
+* **December 15:** Notification of sponsorship recipients and the start of due diligence and risk assessment period for sponsorship agreements
+
+* **January 2023:** Start of sponsorship period
 
 ## About OMHAP
 
