@@ -87,7 +87,7 @@ The Open Mapping Hub - Asia Pacific was established in early 2021 to advance the
 By prioritizing local mapping organizations and communities, facilitating knowledge exchange, distributing funding, and providing training and support, we are focusing efforts to work with local organizations and communities to drive high-quality, ethical, local data use cases.
 
 # APPLY HERE!
-![unnamed-02c9c5.png](/uploads/unnamed-02c9c5.png)
+![tiny_cc_omhapuni.png](/uploads/tiny_cc_omhapuni.png)
 
 
 > For further questions please contact AP Hub OSM Trainer, Can Unen at [canunen@hotosm.org](canunen@hotosm.org). 
