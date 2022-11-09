@@ -7,9 +7,7 @@ tags:
 - ai-assisted-mapping
 - ai
 - open-ai
-Summary Text: 'Over the past few years, HOT has taken a leadership role in experimenting
-  with, and facilitating for, the application of open-source and fair artificial intelligence
-  in mapping. Here is all you need to know about HOT’s open AI-assisted mapping service:
+Summary Text: 'Here is all you need to know about HOT’s open AI-assisted mapping service:
   fAIr.'
 Feature Image: "/uploads/AI-assisted%20mapping.png"
 Person: Omran Najjar
