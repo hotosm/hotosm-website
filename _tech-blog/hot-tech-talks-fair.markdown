@@ -15,9 +15,6 @@ Feature Image: "/uploads/AI-assisted%20mapping.png"
 Person: Omran Najjar
 ---
 
-* Technical level: low
-
-* Estimate read: 9 min
 
 # About fAIr
 
@@ -70,9 +67,9 @@ fAIr uses AI models (built by humanitarian OSM mappers) to detect map features b
 
 ## Where are we coming from?
 
-We recognized the Open Cities Challenge for building segmentation mid-2020, and then around the end of 2020, HOT conducted research in collaboration with the Netherland Red Cross. Last year, HOT contributed to an academic research project investigating the capability of UAV imagery to be used for AI-assisted mapping on refugees camps in Africa, which proved that the use of localised AI models produces higher prediction accuracy in comparison to wide trained models. 
+We recognized the Open Cities Challenge for building segmentation mid-2020, and then around the end of 2020, HOT conducted research in collaboration with the Netherland Red Cross. Last year, HOT contributed to an academic research project investigating the capability of UAV imagery to be used for AI-assisted mapping on refugees camps in Africa, which proved that the use of localised AI models produces higher prediction accuracy in comparison to wide trained models.
 
-In March 2022, we participated in an AI for Social good seminar in Frankfurt, Germany where data scientists and nonprofit organisations came together pursuing various social good goals. Around mid-2022, we (the hot_tech team) set our strategy and defined our direction. From the beginning of 2022, we have played an advisory role in the RAMP project, until its release in October 2022. Currently (November 2022), we have reached the midpoint on the Omdena-HOT innovation challenge and built the fAIr road map.
+In March 2022, we participated in an AI for Social good seminar in Frankfurt, Germany where data scientists and nonprofit organisations came together pursuing various social good goals. Around mid-2022, we (the hot_tech team) set our strategy and defined our direction. From the beginning of 2022, we have played an advisory role in the RAMP project, until its release in October 2022. Currently (November 2022), we have reached the midpoint on the Omdena-HOT innovation challenge and built the fAIr roadmap ([read this for key takeaways](https://www.hotosm.org/tech-blog/hot-tech-talk-open-ai-challenge/)) .
 
 Go to [this link](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the updated timeline with links:
 
