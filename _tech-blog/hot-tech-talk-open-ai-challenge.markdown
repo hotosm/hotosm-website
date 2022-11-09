@@ -21,10 +21,6 @@ Feature Image: "/uploads/AI-assisted%20mapping.png"
 Person: Synne Olsen
 ---
 
-Estimate read: 5 min
-
-Technical level: low
-
 # TL;DR
 
 * HOT’s is not far away from launching [fAIr: an open AI-assisted mapping service,](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/) which allows communities to map more efficiently with the assistance of AI.
