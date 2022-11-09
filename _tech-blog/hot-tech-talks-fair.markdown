@@ -9,7 +9,7 @@ tags:
 - open-ai
 Summary Text: 'Here is all you need to know about HOT’s open AI-assisted mapping service:
   fAIr.'
-Feature Image: "/uploads/AI-assisted%20mapping.png"
+Feature Image: "/uploads/fAIr.png"
 Person: Omran Najjar
 ---
 
