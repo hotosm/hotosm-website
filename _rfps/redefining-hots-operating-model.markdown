@@ -2,7 +2,17 @@
 title: Redefining HOT’s Operating Model
 date: 2022-11-10 18:15:00 Z
 published: false
+Deadline Date: 2022-11-30 00:00:00 Z
+Page Contact:
+  Contact Email: anne.sorensen@hotosm.org
 ---
+
+**Purpose: Redefining HOT’s Operating Model 
+Application close date: 30 November 2022
+Duration of assignment: 4-6 months
+Work location: Remote globally
+Type of contract: Service Agreement
+Project Lead: Head of People Operations  and Sr. Director, Operations**
 
 ## About the Assignment
 
@@ -69,3 +79,9 @@ The proposal must include the following information:
 We are seeking to engage with consultancy firms who can provide expert advice within the areas in scope for the duration of an initial 3-5 months. We would especially like to receive submissions from organizations based in or involving your talent from [HOT’s priority regions](https://www.hotosm.org/updates/four-regions-five-years-94-countries-one-billion-people/).
 
 Please submit proposals to Anne Sorensen at [anne.sorensen@hotosm.org](mailto:anne.sorensen@hotosm.org) by the deadline listed below. 
+
+**Timeline
+Request for proposals opened: 31 October 2022
+Deadline for submission of written proposal: 30 November 2022  (23:59:59 EST)
+Selection process completed: 20 December 2022
+Begin collaboration: Mid February 2023**
