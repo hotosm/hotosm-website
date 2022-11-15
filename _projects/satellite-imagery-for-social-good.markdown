@@ -31,4 +31,4 @@ Through the Satellite for Social Good project, HOT has engaged the Nakuru County
 
 In Nigeria, the Satellite Imagery for Social Good project has remotely mapped over one million building footprints and roads across Bauchi and Gombe States in North-Eastern Nigeria. Ground-truthing activities have been completed, and plans are underway to support one key stakeholder in Bauchi state to address their data needs. The project aims to create data for use within microplanning for routine immunization within the region. Microplanning is one of the tools that health workers use in Nigeria to ensure that immunization services reach every community.
 
-The maps featured above were produced using [OpenStreetMap](https://www.openstreetmap.org/).
+***The maps featured above were produced using [OpenStreetMap](https://www.openstreetmap.org/).***
