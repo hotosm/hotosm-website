@@ -4,6 +4,10 @@ date: 2022-11-09 20:46:00 Z
 Summary Text: In our mission to bring together communities, partners, collaborators,
   and supporters of humanitarian open mapping, HOT is trialling a fresh approach to
   conferences in 2022.
+Feature Image: "/uploads/52409427674_992dab1192_k.jpg"
+Person: The unSummit Working Group
+Working Group:
+- HOT Summit
 ---
 
 Instead of hosting our usual HOT Summit conference, we are [investing time and resources](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/) in supporting global, regional, and local conferences and community events around the world to bring humanitarian open mapping to thousands of new people. We have called this the “HOT unSummit,” and we wanted to share our experience and learnings at the halfway point of the ‘world tour’!
@@ -18,7 +22,7 @@ How did we contribute / collaborate?
 * Hosted a social event for 100 SotM attendees on World Humanitarian Day
 * Provided bronze level sponsorship ($2,000)
 
-> **“I had a unique opportunity to learn even more about OpenStreetMap and show a little more of my work, know what is being discussed for the future of OSM and mapping see how the community is really great and welcoming made me feel I was in family and that despite having some differences in the end we are all mappers.”** - *Gustavo Soares, mapper / HOT unSummit scholar, Brazil, from his [OSM Diary]*(https://www.openstreetmap.org/user/PlayzinhoAgro/diary/399862)
+> **“I had a unique opportunity to learn even more about OpenStreetMap and show a little more of my work, know what is being discussed for the future of OSM and mapping see how the community is really great and welcoming made me feel I was in family and that despite having some differences in the end we are all mappers.”** - *Gustavo Soares, mapper / HOT unSummit scholar, Brazil, from his [OSM Diary](https://www.openstreetmap.org/user/PlayzinhoAgro/diary/399862)*
 
 ![unSummit1.png](/uploads/unSummit1.png)
 *OSM Latin America selfie time at State of the Map! Photo courtesy of Mapanauta.*
@@ -33,7 +37,7 @@ How did we contribute / collaborate?
 > **“On having HOT as part of the event… HOT shares the same ideals as the OSM and OSGeo communities, and many members share at least one other community. It seems to me that having all the conferences together helped more people to attend them (especially people coming from low-middle income countries where flights are usually more expensive)”** - *Luca Delucchi, FOSS4G organising committee lead, Italy*
 
 ![unSummit 2.png](/uploads/unSummit%202.png)
-FOSS4G Community Code Sprint. Photo from [HOT Flickr](https://www.flickr.com/photos/hotosm/52409405969/in/album-72177720302685437/).
+*FOSS4G Community Code Sprint. Photo from [HOT Flickr](https://www.flickr.com/photos/hotosm/52409405969/in/album-72177720302685437/).*
 
 ## Ensemble pour la cartographie participative, Butembo, Democratic Republic of Congo
 How did we contribute / collaborate?
@@ -73,7 +77,7 @@ How did we contribute / collaborate?
 > **“Whenever Geomaticians and Surveyors gather, they're trying to address a particular theme or situation and in such instances they start from zero. There is always one saviour for all start-zero scenarios, in fact you can never start from scratch with the inclusion of our Open Mapping Communities and OS); the open source for open minds 🤗”** - *Letwin Pondo, ZIG organising committee, Zimbabwe*
 
 ![unSummit 6.png](/uploads/unSummit%206.png)
-Clifford Tarerwa presents the experience of OSM Zimbabwe at the ZIG conference. Picture courtesy of Dereck Dube (Lumiself)
+*Clifford Tarerwa presents the experience of OSM Zimbabwe at the ZIG conference. Picture courtesy of Dereck Dube (Lumiself)*
 
 GeONG 2022, Chambery, France
 How did we contribute / collaborate?
@@ -96,14 +100,14 @@ To provide some context, the potential reach metric, which tracks the estimated 
 
 The number of community members supported to attend events only accounts for those that HOT has directly supported financially. For example, it includes the eleven community members funded to attend both State of the Map and FOSS4G, but not the 181 attendees of OSM DRC’s *Ensemble pour la cartographie participative*, as no travel was funded through the collaboration.
 
-## What kind of topics have been shared and discussed?
+# What kind of topics have been shared and discussed?
 We think more than 100 humanitarian or development / open mapping focused sessions have taken place across all seven of these events and 31 of those have been directly enabled by the HOT unSummit programme.
 
 ![unSummit 9.png](/uploads/unSummit%209.png)
 
 We have categorised these by HOT’s impact areas, but also included categories for Community Building and Tech, Tools and Data for those sessions without a specific impact area focus. 
 
-## What have we learnt from these collaborations?
+# What have we learnt from these collaborations?
 Many of the community members HOT has supported to attend events have shared their experiences through blog posts and social media ([see a great list of community write ups for State of the Map here, for example](https://wiki.openstreetmap.org/wiki/State_of_the_Map_2022#Write-ups)). 
 
 The experiences of these community members was overwhelmingly positive, with the most cited highlights being: learning, skills, tools and encountering new ideas; sharing experiences; networking and relationship building; contribution through event volunteering; and enjoying the social and cultural experiences.
@@ -116,7 +120,7 @@ Suggested areas of improvement for HOT in these collaborations included better c
 
 Aside from these very positive outcomes, we also acknowledge that, for people who experience complex visa applications, we need to be more organised in the future. Five community members who we committed to supporting to travel didn’t get visas and an earlier application process might have made a difference in some of their applications. All five of these community members are being supported to attend a different event instead. 
 
-## What’s next for the HOT unSummit?
+# What’s next for the HOT unSummit?
 The HOT unSummit programme continues with exciting collaborations confirmed in the Philippines, Peru, Fiji, Nigeria, Tanzania, Mali, Haiti and Tunisia (as well as a few more in the pipeline).
 
 ![unSummit 9-786e3e.png](/uploads/unSummit%209-786e3e.png)
