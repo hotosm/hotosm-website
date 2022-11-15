@@ -1,7 +1,6 @@
 ---
 title: Redefining HOT’s Operating Model
 date: 2022-11-10 18:15:00 Z
-published: false
 Deadline Date: 2022-11-30 00:00:00 Z
 Page Contact:
   Contact Email: anne.sorensen@hotosm.org

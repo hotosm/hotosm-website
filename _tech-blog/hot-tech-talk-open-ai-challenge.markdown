@@ -27,7 +27,9 @@ Person: Synne Olsen
 
 * [HOT’s tech team](https://twitter.com/hotosm_tech) is currently hosting an [open AI challenge with Omdena](https://omdena.com/projects/mapping-tool-for-disaster-management/). The aim of the challenge is to support the decision of which models to adopt into fAIr (looking at performance and accuracy of the models).
 
-* Feeling a little lost here? I feel you! Here is all you need to know about fAIr and AI-assisted mapping
+* Feeling a little lost here? I feel you! Below is all you need to know about fAIr and AI-assisted mapping.
+
+* Read a background interview from HOT Tech team member Omran Najjar [here](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/).
 
 # OPEN AI CHALLENGE
 
@@ -35,7 +37,7 @@ As we speak, a team of 50\+ AI engineers from the Omdena community have been cru
 
 ## My coffee conversation with Omran on the AI challenge:
 
-> \*Hi Omran. How are you doing? You are busy these days! Very excited about the open AI challenge, and curious to hear your take on it all.  For most of us (non-technical) people, AI is a little hard to understand.  Therefore, feel free to treat me and the readers as if we have no basis to really understand AI and how it works. (oh, and dear readers: if you want to read more about AI-assisted mapping and fAIr: check out [Omran's blog on fAIr](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)). \*
+> **Hi Omran. How are you doing? You are busy these days! Very excited about the open AI challenge, and curious to hear your take on it all.  For most of us (non-technical) people, AI is a little hard to understand.  Therefore, feel free to treat me and the readers as if we have no basis to really understand AI and how it works. (oh, and dear readers: if you want to read more about AI-assisted mapping and fAIr: check out [Omran's blog on fAIr](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/)).**
 
 > **Q: Another AI challenge was conducted a few years back (the [Open Cities challenge](https://www.drivendata.org/competitions/60/building-segmentation-disaster-resilience/leaderboard/)). Aren't we just repeating what has already been done?**
 
