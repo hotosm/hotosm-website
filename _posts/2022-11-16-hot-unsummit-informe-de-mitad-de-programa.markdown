@@ -93,7 +93,7 @@ Antes de empezar, todos los miembros de HOT y de los Hubs Regionales de Mapeo Ab
 Para tratar de comprender el impacto más amplio del programa HOT unSummit, también hemos estado rastreando algunas métricas.
 
 ![unSummit 8.png](/uploads/unSummit%208.png)
-Siéntase libre de hacer [clic y explorar el panel de métricas de HOT unSummit](https://datastudio.google.com/reporting/76fe94ed-f50d-4038-968b-486c3a7a3a5d/page/1M)
+*Siéntase libre de hacer [clic y explorar el panel de métricas de HOT unSummit](https://datastudio.google.com/reporting/76fe94ed-f50d-4038-968b-486c3a7a3a5d/page/1M)*
 
 Para proporcionar algo de contexto, la métrica de alcance potencial, que rastrea el número total estimado de participantes en todos los eventos en los que HOT ha colaborado (es decir, el alcance potencial del contenido de mapeo abierto humanitario), en comparación a los entre 1 y 200 participantes en persona que normalmente esperaríamos en un evento HOT Summit independiente.
 
