@@ -1,6 +1,6 @@
 ---
 title: HOT unSummit - Mid-Programme Report
-date: 2022-11-09 20:46:00 Z
+date: 2022-11-15 12:46:00 Z
 Summary Text: In our mission to bring together communities, partners, collaborators,
   and supporters of humanitarian open mapping, HOT is trialling a fresh approach to
   conferences in 2022.
