@@ -10,12 +10,12 @@ Working Group:
 - HOT Summit
 ---
 
-Au lieu d'héberger notre conférence HOT Summit habituelle, nous [investissons du temps et des ressources](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/) pour soutenir les conférences mondiales, régionales et locales et les événements communautaires dans le monde entier afin d'apporter la cartographie ouverte humanitaire à des milliers de nouvelles personnes. Nous avons appelé cela le « HOT unSummit » et nous voulions partager notre expérience et nos apprentissages à mi-chemin du « tour du monde » !
+Au lieu d'héberger notre conférence HOT Summit habituelle, nous [investissons du temps et des ressources](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/) pour soutenir les conférences mondiales, régionales et locales et les événements communautaires dans le monde entier afin d'apporter la cartographie ouverte humanitaire à des milliers de nouvelles personnes. Nous avons appelé cela le « HOT unSummit » et nous voulions partager notre expérience et nos apprentissages à mi-chemin du « tour du monde »!
 
 Avant de commencer, tout le monde chez HOT et les Open Mapping Hubs régionaux tiennent à remercier chaleureusement tous les organisateurs, universitaires, participants, bénévoles et membres du personnel qui ont contribué à l'un des événements décrits ci-dessous. Tout succès que nous avons vu à travers le programme unSummit est partagé avec ce groupe diversifié de personnes brillantes!
 
 ## State of the Map 2022, Florence, Italie
-Comment avons-nous contribué / collaboré ?
+Comment avons-nous contribué / collaboré?
 * 11 membres de la communauté ont reçu un financement pour participer
 * 10 membres de la communauté + 3 membres du personnel de HOT se sont portés volontaires pour un total de 64 heures
 * Nous avons organisé une session d'une demi-journée dirigée par la communauté et axée sur OSM à des fins humanitaires.
@@ -28,7 +28,7 @@ Comment avons-nous contribué / collaboré ?
 *L'heure du selfie OSM Amérique latine à State of the Map ! Photo publiée avec l'aimable autorisation de Mapanauta.*
 
 ## FOSS4G 2022, Florence, Italie
-Comment avons-nous contribué/collaboré ?
+Comment avons-nous contribué/collaboré?
 * 11 membres de la communauté ont reçu un financement pour participer
 * 9 membres de la communauté + 3 membres du personnel de HOT ont fait 240 heures de bénévolat en tout
 * Nous avons accueilli un atelier hot_tech, un mapathon et un atelier sur la confidentialité des données dans les sessions humanitaires
@@ -40,7 +40,7 @@ Comment avons-nous contribué/collaboré ?
 *FOSS4G Community Code Sprint. Photo de [HOT Flickr](https://www.flickr.com/photos/hotosm/52409405969/in/album-72177720302685437/)*
 
 ## Ensemble pour la cartographie participative, Butembo, République Démocratique du Congo
-Comment avons-nous contribué/collaboré ?
+Comment avons-nous contribué/collaboré?
 * Parrainage de l'événement (5 000 $)
 * Soutien de l'OSM RDC pour les communications après l'événement
 
@@ -50,7 +50,7 @@ Comment avons-nous contribué/collaboré ?
 *Participants à l'événement participatif Ensemble pour la cartographie. Photo courtoisie de Kazi Précieux - OSM RDC*
 
 ## Rencontre nationale des étudiants mexicains en géographie, Guanajuato, Mexique
-Comment avons-nous contribué/collaboré ?
+Comment avons-nous contribué/collaboré?
 * Nous avons fourni du swag pour l'événement
 * Nous avons financé deux membres de la communauté pour qu'ils participent, présentent et donnent une formation OSM / open mapping
 
@@ -60,7 +60,7 @@ Comment avons-nous contribué/collaboré ?
 *Préparation des ateliers humanitaires de cartographie ouverte lors de la Rencontre nationale des étudiants mexicains en géographie.de Cuauthémoc Gutierrez*
 
 ## Réunion annuelle de Teto Brasil, São Paulo, Brésil
-Comment avons-nous contribué/collaboré ?
+Comment avons-nous contribué/collaboré?
 * Nous avons fourni un financement pour que trois membres de la communauté de cartographie de la favela de Niteroi puissent présenter leurs expériences
 * Nous avons fourni un parrainage à l'événement (5 000 $)
 
@@ -70,7 +70,7 @@ Comment avons-nous contribué/collaboré ?
 *Réseautage pendant la pause lors du rassemblement annuel de Teto Brazil. Photo courtoisie de Carla Habif, HOT*
 
 ## Conférence de l'Association zimbabwéenne de géomatique (ZIG), Harare, Zimbabwe
-Comment avons-nous contribué/collaboré ?
+Comment avons-nous contribué/collaboré?
 * Nous avons  présenté l'utilisation d'OSM / de la cartographie ouverte pour la résilience et la réponse aux catastrophes naturelles
 * Nous avons fourni le parrainage de l'événement (2 000 $)
 
@@ -80,7 +80,7 @@ Comment avons-nous contribué/collaboré ?
 *Clifford Tarerwa présente l'expérience d'OSM Zimbabwe à la conférence ZIG. Photo publiée avec l'aimable autorisation de Dereck Dube (Lumiself)*
 
 ## GeONG 2022, Chambéry, France
-Comment avons-nous contribué/collaboré ?
+Comment avons-nous contribué/collaboré?
 * Six membres de la communauté ont reçu un financement pour participer (à la conférence et à l'événement satellite suivant)
 * Nous avons parrainé et co-conçu un événement satellite d'échange sur la durabilité communautaire avec CartONG
 
@@ -89,7 +89,7 @@ Comment avons-nous contribué/collaboré ?
 ![unSummit 7.png](/uploads/unSummit%207.png)
 *Participants construisant un collage numérique à GeONG. Photo gracieuseté de Carla Habif, HOT*
 
-# Que disent les chiffres ?
+# Que disent les chiffres?
 Pour essayer de comprendre l'impact plus large du programme HOT unSummit, nous avons également suivi certaines mesures.
 
 ![unSummit 8.png](/uploads/unSummit%208.png)
@@ -99,14 +99,14 @@ Pour fournir un contexte, la mesure de portée potentielle, qui suit le nombre t
 
 Le nombre de membres de la communauté soutenus pour assister aux événements ne tient compte que de ceux que HOT a directement soutenus financièrement. d'OSM RDC *Ensemble pour la cartographie participative*, car aucun voyage n'a été financé grâce à la collaboration.
 
-# Quels types de sujets ont été partagés et discutés ?
+# Quels types de sujets ont été partagés et discutés?
 Nous pensons que plus de 100 sessions axées sur l'humanitaire ou le développement / la cartographie ouverte ont eu lieu lors de ces sept événements et 31 d'entre elles ont été directement activées par le programme HOT unSummit.
 
 ![unSummit 9.png](/uploads/unSummit%209.png)
 
 Nous les avons classés par domaines d'impact de HOT, mais nous avons également inclus des catégories pour la communauté et technologie, les outils et les données pour les sessions sans cible de domaine d'impact spécifique. 
 
-# Qu'avons-nous appris de ces collaborations ?
+# Qu'avons-nous appris de ces collaborations?
 De nombreux membres de la communauté que HOT a soutenus pour assister à des événements ont partagé leurs expériences via des articles de blog et des médias sociaux ([voir une excellente liste d'articles de la communauté pour State of the Map ici, par exemple](https://wiki.openstreetmap.org/wiki/State_of_the_Map_2022#Write-ups)). 
 
 Les expériences de ces membres de la communauté ont été extrêmement positives, les faits saillants les plus cités étant : l'apprentissage, les compétences, les outils et la découverte de nouvelles idées ; partage d'expériences; réseautage et établissement de relations; contribution par le bénévolat lors d'événements; et profiter des expériences sociales et culturelles.
@@ -119,7 +119,7 @@ Les domaines d'amélioration suggérés pour HOT dans ces collaborations compren
 
 Outre ces résultats très positifs, nous reconnaissons également que, pour les personnes confrontées à des demandes de visa complexes, nous devons être plus organisés à l'avenir. Cinq membres de la communauté que nous nous sommes engagés à aider à voyager n'ont pas obtenu de visa et un processus de demande antérieur aurait peut-être fait une différence dans certaines de leurs demandes. Ces cinq membres de la communauté sont soutenus pour assister à un événement différent à la place. 
 
-# Quelle est la prochaine étape pour le HOT unSummit ?
+# Quelle est la prochaine étape pour le HOT unSummit?
 Le programme HOT unSummit se poursuit avec des collaborations passionnantes confirmées aux Philippines, au Pérou, aux Fidji, en Tanzanie, au Mali, en Haïti et en Tunisie (ainsi que quelques autres en préparation).
 
 ![unSummit 10.png](/uploads/unSummit%2010.png)
