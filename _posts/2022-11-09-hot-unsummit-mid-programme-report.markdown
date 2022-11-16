@@ -5,7 +5,7 @@ Summary Text: In our mission to bring together communities, partners, collaborat
   and supporters of humanitarian open mapping, HOT is trialling a fresh approach to
   conferences in 2022.
 Feature Image: "/uploads/52409427674_992dab1192_k.jpg"
-Person: The unSummit Working Group
+Person: unSummit Working Group
 Working Group:
 - HOT Summit
 ---
@@ -123,6 +123,6 @@ Aside from these very positive outcomes, we also acknowledge that, for people wh
 # What’s next for the HOT unSummit?
 The HOT unSummit programme continues with exciting collaborations confirmed in the Philippines, Peru, Fiji, Nigeria, Tanzania, Mali, Haiti and Tunisia (as well as a few more in the pipeline).
 
-![unSummit 9-786e3e.png](/uploads/unSummit%209-786e3e.png)
+![unSummit 10.png](/uploads/unSummit%2010.png)
 
 Many of these event collaborations have also proven to be fertile ground for new collaborations, projects and mapping activities. HOT and the regional Open Mapping Hubs will be following up with organisers and participants alike to see how we can support the legacy of the unSummit programme to go beyond supporting events.
