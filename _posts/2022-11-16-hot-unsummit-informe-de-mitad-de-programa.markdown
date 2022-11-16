@@ -1,5 +1,5 @@
 ---
-title: HOT unSummit - Informe de mitad de programa
+title: HOT unSummit - Informe de Mitad de Programa
 date: 2022-11-16 03:32:00 Z
 Summary Text: En nuestra misión de reunir a comunidades, socios, colaboradores y simpatizantes
   de la cartografía abierta humanitaria, HOT está probando un nuevo enfoque de conferencias
