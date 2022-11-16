@@ -61,12 +61,12 @@ We see the process of developing and implementing a new Organizational Model as 
 5. Communication guidelines and talking points that enable us to communicate effectively with internal and external stakeholders about the process and its outcomes
 
 ### Who will you be working with on our team?
-**Rachel VanNice** - Head of People Operations
-**Sara Amadi** - Sr. Manager, Strategy & Implementation
-**Carly Redhead** - Head of Impact Partnerships
-**Anne Sorensen** - Executive Assistant, Leadership Team
-**Liz Chamberlain** - Senior Director, Operations
-**Steering Committee** - comprised of representatives from HOT’s global teams
+* **Rachel VanNice** - Head of People Operations
+* **Sara Amadi** - Sr. Manager, Strategy & Implementation
+* **Carly Redhead** - Head of Impact Partnerships
+* **Anne Sorensen** - Executive Assistant, Leadership Team
+* **Liz Chamberlain** - Senior Director, Operations
+* **Steering Committee** - comprised of representatives from HOT’s global teams
 
 ## Proposal & Timeline
 
