@@ -5,6 +5,9 @@ Summary Text: Dans notre mission de rassembler les communautés, les partenaires
   collaborateurs et les partisans de la cartographie ouverte humanitaire, HOT teste
   une nouvelle approche des conférences en 2022.
 Feature Image: "/uploads/52409427674_992dab1192_k.jpg"
+Person: unSummit Working Group
+Working Group:
+- HOT Summit
 ---
 
 Au lieu d'héberger notre conférence HOT Summit habituelle, nous [investissons du temps et des ressources](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/) pour soutenir les conférences mondiales, régionales et locales et les événements communautaires dans le monde entier afin d'apporter la cartographie ouverte humanitaire à des milliers de nouvelles personnes. Nous avons appelé cela le « HOT unSummit » et nous voulions partager notre expérience et nos apprentissages à mi-chemin du « tour du monde » !
@@ -86,5 +89,39 @@ Comment avons-nous contribué/collaboré ?
 ![unSummit 7.png](/uploads/unSummit%207.png)
 *Participants construisant un collage numérique à GeONG. Photo gracieuseté de Carla Habif, HOT*
 
+# Que disent les chiffres ?
+Pour essayer de comprendre l'impact plus large du programme HOT unSummit, nous avons également suivi certaines mesures.
 
+![unSummit 8.png](/uploads/unSummit%208.png)
+N'hésitez pas à [cliquer et à explorer le tableau de bord des mesures HOT unSummit](https://datastudio.google.com/reporting/76fe94ed-f50d-4038-968b-486c3a7a3a5d/page/1M)
 
+Pour fournir un contexte, la mesure de portée potentielle, qui suit le nombre total estimé de participants à tous les événements où HOT a collaboré (c'est-à-dire la portée potentielle du contenu de cartographie ouverte humanitaire), par rapport aux 1 à 200 participants en personne auxquels nous nous attendions normalement lors d'un événement HOT Summit autonome.
+
+Le nombre de membres de la communauté soutenus pour assister aux événements ne tient compte que de ceux que HOT a directement soutenus financièrement. d'OSM RDC *Ensemble pour la cartographie participative*, car aucun voyage n'a été financé grâce à la collaboration.
+
+# Quels types de sujets ont été partagés et discutés ?
+Nous pensons que plus de 100 sessions axées sur l'humanitaire ou le développement / la cartographie ouverte ont eu lieu lors de ces sept événements et 31 d'entre elles ont été directement activées par le programme HOT unSummit.
+
+![unSummit 9.png](/uploads/unSummit%209.png)
+
+Nous les avons classés par domaines d'impact de HOT, mais nous avons également inclus des catégories pour la communauté et technologie, les outils et les données pour les sessions sans cible de domaine d'impact spécifique. 
+
+# Qu'avons-nous appris de ces collaborations ?
+De nombreux membres de la communauté que HOT a soutenus pour assister à des événements ont partagé leurs expériences via des articles de blog et des médias sociaux ([voir une excellente liste d'articles de la communauté pour State of the Map ici, par exemple](https://wiki.openstreetmap.org/wiki/State_of_the_Map_2022#Write-ups)). 
+
+Les expériences de ces membres de la communauté ont été extrêmement positives, les faits saillants les plus cités étant : l'apprentissage, les compétences, les outils et la découverte de nouvelles idées ; partage d'expériences; réseautage et établissement de relations; contribution par le bénévolat lors d'événements; et profiter des expériences sociales et culturelles.
+
+Nous avons demandé des commentaires à tous les comités d'organisation et quatre ont jusqu'à présent répondu. Lorsqu'on leur a demandé s'ils seraient susceptibles de collaborer à nouveau avec HOT de cette manière, ils ont obtenu une note moyenne de 4,75/5.
+
+Les aspects les plus appréciés de la collaboration unSummit étaient les membres de la communauté que HOT a permis d'assister (et de communautés très diverses), le soutien financier par le parrainage, le soutien de sessions de bonne qualité liées à la cartographie ouverte humanitaire, et la collaboration et le travail d'équipe dans l'organisation de l'événement.
+
+Les domaines d'amélioration suggérés pour HOT dans ces collaborations comprenaient une meilleure coordination avec les comités d'organisation et une communication plus claire sur les objectifs du HOT unSummit.
+
+Outre ces résultats très positifs, nous reconnaissons également que, pour les personnes confrontées à des demandes de visa complexes, nous devons être plus organisés à l'avenir. Cinq membres de la communauté que nous nous sommes engagés à aider à voyager n'ont pas obtenu de visa et un processus de demande antérieur aurait peut-être fait une différence dans certaines de leurs demandes. Ces cinq membres de la communauté sont soutenus pour assister à un événement différent à la place. 
+
+# Quelle est la prochaine étape pour le HOT unSummit ?
+Le programme HOT unSummit se poursuit avec des collaborations passionnantes confirmées aux Philippines, au Pérou, aux Fidji, en Tanzanie, au Mali, en Haïti et en Tunisie (ainsi que quelques autres en préparation).
+
+![unSummit 10.png](/uploads/unSummit%2010.png)
+
+Bon nombre de ces collaborations événementielles se sont également révélées être un terrain fertile pour de nouvelles collaborations, projets et activités de cartographie. HOT et les Open Mapping Hubs régionaux assureront le suivi des organisateurs et des participants pour voir comment nous pouvons soutenir l'héritage du programme unSummit pour qu'il soit plus qu'un soutien aux événements.
