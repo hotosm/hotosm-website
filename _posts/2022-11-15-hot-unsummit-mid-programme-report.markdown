@@ -79,7 +79,7 @@ How did we contribute / collaborate?
 ![unSummit 6.png](/uploads/unSummit%206.png)
 *Clifford Tarerwa presents the experience of OSM Zimbabwe at the ZIG conference. Picture courtesy of Dereck Dube (Lumiself)*
 
-GeONG 2022, Chambery, France
+## GeONG 2022, Chambery, France
 How did we contribute / collaborate?
 * Six community members funded to attend (the conference and subsequent satellite event)
 * Sponsored and co-designed a community sustainability exchange satellite event with CartONG
