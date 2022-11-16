@@ -93,7 +93,7 @@ Comment avons-nous contribué/collaboré?
 Pour essayer de comprendre l'impact plus large du programme HOT unSummit, nous avons également suivi certaines mesures.
 
 ![unSummit 8.png](/uploads/unSummit%208.png)
-N'hésitez pas à [cliquer et à explorer le tableau de bord des mesures HOT unSummit](https://datastudio.google.com/reporting/76fe94ed-f50d-4038-968b-486c3a7a3a5d/page/1M)
+*N'hésitez pas à [cliquer et à explorer le tableau de bord des mesures HOT unSummit](https://datastudio.google.com/reporting/76fe94ed-f50d-4038-968b-486c3a7a3a5d/page/1M)*
 
 Pour fournir un contexte, la mesure de portée potentielle, qui suit le nombre total estimé de participants à tous les événements où HOT a collaboré (c'est-à-dire la portée potentielle du contenu de cartographie ouverte humanitaire), par rapport aux 1 à 200 participants en personne auxquels nous nous attendions normalement lors d'un événement HOT Summit autonome.
 
