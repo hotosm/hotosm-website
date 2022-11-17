@@ -12,6 +12,8 @@ Summary Text: "Over the past two years, Open Mapping Hub - Asia Pacific (OMH-AP)
   are seeking partnerships for organizing the first ever Asia Pacific OSM regional
   hackfest. \n\n"
 Feature Image: "/uploads/Screenshot%202022-11-17%20at%206.20.46%20PM.png"
+Is image top aligned: true
+Person: Nirab Pudasaini
 ---
 
 Over the past two years, Open Mapping Hub - Asia Pacific (OMH-AP) has been working in it’s vision to create a sustainable OpenStreetMap (OSM) ecosystem in the Asia pacific region. We have been supporting various community led activities and helping numerous  champions emerge within the OSM ecosystem. Our efforts have been primarily focused in supporting new communities, creating map data and ensuring the quality of the data. 
