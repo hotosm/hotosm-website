@@ -46,19 +46,19 @@ The deliverable should reflect the Living Strategy, our existing activities, pro
 
 ### Proposed Process
 We see the process of developing and implementing a new Organizational Model as outlined below but we are open to recommendations for the approach and suggested outputs.
-1. Complete the identification of our current Operating Model using drafts designed by our team, including:
-* Who the clients are and how we interact with them
-* What systems, tools, processes, data, people & capacities exist
-2. Articulate the challenges already identified with our current model, based on both findings from our Living Strategy process in March-June 2022 and more recent input from our team. 
-3. The bulk of the engagement will be to collaboratively work with our team to design a more efficient, streamlined and simpler model, including:
-* A visual representation of the operating model
-* Our capacities and org structure
-* Our decision-making flows
-* Our processes, tools and systems
-* A decentralized governance structure to bolster our internal operations
-* Equity levers for all of the above to enable locally-led activities wherever possible
-4. Support the rollout and implementation of major changes so that we can successfully and independently execute all other changes.
-5. Communication guidelines and talking points that enable us to communicate effectively with internal and external stakeholders about the process and its outcomes
+* Complete the identification of our current Operating Model using drafts designed by our team, including:
+* * Who the clients are and how we interact with them
+* * What systems, tools, processes, data, people & capacities exist
+* Articulate the challenges already identified with our current model, based on both findings from our Living Strategy process in March-June 2022 and more recent input from our team. 
+* The bulk of the engagement will be to collaboratively work with our team to design a more efficient, streamlined and simpler model, including:
+* * A visual representation of the operating model
+* * Our capacities and org structure
+* * Our decision-making flows
+* * Our processes, tools and systems
+* * A decentralized governance structure to bolster our internal operations
+* * Equity levers for all of the above to enable locally-led activities wherever possible
+* Support the rollout and implementation of major changes so that we can successfully and independently execute all other changes.
+* Communication guidelines and talking points that enable us to communicate effectively with internal and external stakeholders about the process and its outcomes
 
 ### Who will you be working with on our team?
 * **Rachel VanNice** - Head of People Operations
