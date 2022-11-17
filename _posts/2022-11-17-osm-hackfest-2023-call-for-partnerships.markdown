@@ -31,7 +31,7 @@ We were very excited to organize the event and it was one for the books! After a
 
 We were equally excited by the engagement and enthusiasm of the participants and the results were outstanding!
 
-And for this reason, we are planning the OSM Hackfest as a  regional level event in 2023. We need your support in order to do this and we are seeking partnerships for organizing the first ever Asia Pacific OSM regional hackfest. 
+And for this reason, we are planning the OSM Hackfest as a  regional level event in 2023. We need your support in order to do this and we are seeking partnerships for organizing the first ever Asia Pacific OSM regional Hackfest. 
 
 ## What kind of partners/ partnerships are we looking for?
 * Academia such as universities, student clubs
@@ -54,10 +54,10 @@ And for this reason, we are planning the OSM Hackfest as a  regional level event
 * Opportunity to support outstanding candidates from your city/country to represent their country at a regional level event.
 * Chance to expand your network with like minded individuals working in advancing the open mapping movement in the region. 
 
-## The HOT and OMH - AP team will provide support to the selected partners in the following ways:
+## The HOT and OMH-AP team will provide support to the selected partners in the following ways:
 
 * Sharing the experience of organizing an OSM focused hackathon
-Consultation in planning and organizing the events
+* Consultation in planning and organizing the events
 * Opportunity to tap into regional and global experts and receive guidance and knowledge-sharing from experts in the open mapping field 
 * Training and mentorship to the participants of Hackfest 
 * Funding support for organizing the local events
