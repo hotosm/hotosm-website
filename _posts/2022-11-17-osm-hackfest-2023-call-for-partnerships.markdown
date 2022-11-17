@@ -61,5 +61,5 @@ Consultation in planning and organizing the events
 * Training and mentorship to the participants of Hackfest 
 * Funding support for organizing the local events
 
-> If you are interested in leading and advancing the open mapping movement to help solve some of the world’s most interesting humanitarian and social impact challenges using open data created by thousands of volunteers worldwide, apply to become a partner for organizing the first ever regional OSM Hackfest for the Asia-pacific region by December 5th 2022.
+> If you are interested in leading and advancing the open mapping movement to help solve some of the world’s most interesting humanitarian and social impact challenges using open data created by thousands of volunteers worldwide, [apply to become a partner](https://docs.google.com/forms/d/1f1AzHrPbbrr23P2JOaVf2A5TWHilnu1uDFYNZ8kyWP0/edit) for organizing the first ever regional OSM Hackfest for the Asia-pacific region by December 5th 2022.
 
