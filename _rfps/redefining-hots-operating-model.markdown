@@ -20,7 +20,7 @@ Page Contact:
 
 ## About the Assignment
 
-The [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) (HOT) is requesting proposals from prospective strategy or organizational change consultants to lead an operating model redefinition process. The consultant shall assist HOT in designing a new and improved operating model that aligns with its recently launched Living Strategy.
+The [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) (HOT) is requesting proposals from prospective strategy or organizational change consultants to lead an operating model redefinition process. The consultant shall assist HOT in designing a new and improved operating model that aligns with its recently launched Living Strategy. You can read a high-level overview of HOT’s Living Strategy [here](https://docs.google.com/presentation/d/14lCmvgZg3SY6Wbsjq7uh6NQ-lXabk4zc/edit#slide=id.p1).
 
 ## About Humanitarian OpenStreetMap Team 
 
