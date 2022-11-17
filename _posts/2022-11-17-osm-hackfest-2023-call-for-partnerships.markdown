@@ -7,7 +7,6 @@ Summary Text: "Over the past two years, Open Mapping Hub - Asia Pacific (OMH-AP)
   as a regional level event in 2023. \n\nWe need your support in order to do this
   and we are seeking partnerships for organizing the first ever Asia Pacific OSM regional
   Hackfest. \n\n"
-Feature Image: "/uploads/Screenshot%202022-11-17%20at%206.54.55%20PM.png"
 Is image top aligned: true
 Person:
 - Nirab Pudasaini
