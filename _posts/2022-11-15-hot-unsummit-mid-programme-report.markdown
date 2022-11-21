@@ -44,7 +44,7 @@ How did we contribute / collaborate?
 * Provided event sponsorship ($5,000)
 * Supporting OSM RDC with post event communications
 
-> **“Cartographic data is not widely used by researchers at ESU Butembo and Environs. This is not because they do not need it, but because they are unaware of its importance in their work, and especially because they do not know where they can access the data and free mapping tools. Thus, training is needed for them to be contributors as well as consumers of cartographic data for participatory mapping.”** - *Bienvenu Muluba, OSM RDC organising committee*
+> **“Cartographic data is not widely used by researchers at ESU Butembo and Environs. This is not because they do not need it, but because they are unaware of its importance in their work, and especially because they do not know where they can access the data and free mapping tools. Thus, training is needed for them to be contributors as well as consumers of cartographic data for participatory mapping.”** - *BMr Sivalikwiha, Director General of ISDR Kitsombiro*
 
 ![unSummit 3.png](/uploads/unSummit%203.png)
 *Participants from the Ensemble pour la cartographie participative event. Photo courtesy of Kazi Précieux - OSM RDC*

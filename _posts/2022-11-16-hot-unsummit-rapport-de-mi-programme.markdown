@@ -44,7 +44,7 @@ Comment avons-nous contribué/collaboré?
 * Parrainage de l'événement (5 000 $)
 * Soutien de l'OSM RDC pour les communications après l'événement
 
-> **"Les données cartographiques ne sont pas largement utilisées par les chercheurs de l'ESU de Butembo et des environs. Ce n'est pas parce qu'ils n'en ont pas besoin, mais parce qu'ils ne sont pas conscients de son importance dans leur travail, et surtout parce qu'ils ne savent pas où ils peuvent accéder aux données et aux outils de cartographie gratuits. Une formation est donc nécessaire pour qu'ils puissent être des contributeurs ainsi que des consommateurs de données cartographiques pour la cartographie participative."** - *Bienvenu Muluba, comité organisateur de l'OSM RDC*
+> **"Les données cartographiques ne sont pas largement utilisées par les chercheurs de l'ESU de Butembo et des environs. Ce n'est pas parce qu'ils n'en ont pas besoin, mais parce qu'ils ne sont pas conscients de son importance dans leur travail, et surtout parce qu'ils ne savent pas où ils peuvent accéder aux données et aux outils de cartographie gratuits. Une formation est donc nécessaire pour qu'ils puissent être des contributeurs ainsi que des consommateurs de données cartographiques pour la cartographie participative."** - *M. Sivalikwiha, Directeur général de la ISDR Kitsombiro*
 
 ![unSummit 3.png](/uploads/unSummit%203.png)
 *Participants à l'événement participatif Ensemble pour la cartographie. Photo courtoisie de Kazi Précieux - OSM RDC*
