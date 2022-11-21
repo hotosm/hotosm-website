@@ -44,7 +44,7 @@ Antes de empezar, todos los miembros de HOT y de los Hubs Regionales de Mapeo Ab
 * Se proporcionó patrocinio al evento (5.000 dólares)
 * Se apoyó a OSM de la RDC con comunicaciones posteriores al evento
 
-> **"Los datos cartográficos no son muy utilizados por los investigadores de ESU Butembo y alrededores. Esto no se debe a que no los necesiten, sino a que no son conscientes de su importancia en su trabajo, y sobre todo a que no saben dónde pueden acceder a los datos y a las herramientas cartográficas gratuitas. Por tanto, es necesario formarles para que sean tanto contribuyentes como consumidores de datos cartográficos para la cartografía participativa".** - *Bienvenu Muluba, comité organizador de OSM RDC*
+> **"Los datos cartográficos no son muy utilizados por los investigadores de ESU Butembo y alrededores. Esto no se debe a que no los necesiten, sino a que no son conscientes de su importancia en su trabajo, y sobre todo a que no saben dónde pueden acceder a los datos y a las herramientas cartográficas gratuitas. Por tanto, es necesario formarles para que sean tanto contribuyentes como consumidores de datos cartográficos para la cartografía participativa".** - *Sr. Sivalikwiha, Director General de la ISDR Kitsombiro*
 
 ![unSummit 3.png](/uploads/unSummit%203.png)
 *Asistentes del evento participativo Ensemble pour la cartographie. Foto cortesía de Kazi Précieux - OSM RDC*
