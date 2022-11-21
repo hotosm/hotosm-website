@@ -4,7 +4,7 @@ date: 2021-01-07 13:11:00 Z
 Photo: "/uploads/Icon.png"
 Member Type:
   Is Staff: true
-Job Title: Global IT Associate
+Job Title: Information Technology Manager
 Country: Kenya
 Team: Global
 Social Media (Full URL):
