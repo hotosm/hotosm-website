@@ -1,7 +1,7 @@
 ---
 title: Tim DeWinter
 date: 2022-05-12 00:18:00 Z
-Photo: "/uploads/profile%20pic-d3d383.jpg"
+Photo: "/uploads/profile%20pic%20.jpg"
 Member Type:
   Is Staff: true
 Team: Collaborators Alpha stage - Latam Hub (experimental period prior to the creation
