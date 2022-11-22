@@ -1,10 +1,11 @@
 ---
-title: Philip Hipployte
+title: Philip Hippolyte
 date: 2021-03-01 08:01:00 Z
 Photo: "/uploads/Philip_Hippolyte-HOT_Website_Profile.jpg"
 Member Type:
   Is Staff: true
 Job Title: Project Manager - Caribbean
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Phil'%20in%20HOT
 ---
