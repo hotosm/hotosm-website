@@ -12,7 +12,7 @@ Working Group:
 
 Instead of hosting our usual HOT Summit conference, we are [investing time and resources](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/) in supporting global, regional, and local conferences and community events around the world to bring humanitarian open mapping to thousands of new people. We have called this the “HOT unSummit,” and we wanted to share our experience and learnings at the halfway point of the ‘world tour’!
 
-Before we start, everyone at HOT and the regional Open Mapping Hubs would like to say a huge thank you to all the organisers, scholars, attendees, volunteers and staff that have contributed to any of the events discussed below. Any success we have seen through the unSummit programme is shared with this diverse group of brilliant people!
+Before we start, everyone at HOT and the regional Open Mapping Hubs would like to say a huge thank you to all the organizers, scholars, attendees, volunteers and staff that have contributed to any of the events discussed below. Any success we have seen through the unSummit program is shared with this diverse group of brilliant people!
 
 ## State of the Map 2022, Florence, Italy
 How did we contribute / collaborate?
@@ -84,13 +84,13 @@ How did we contribute / collaborate?
 * Six community members funded to attend (the conference and subsequent satellite event)
 * Sponsored and co-designed a community sustainability exchange satellite event with CartONG
 
-> **“Coming to GeONG was valuable because I learned a lot, I met new people, and I now know new things. I feel more passionate, responsible and energised. The Satellite Sustainability Exchange was valuable as it provided me with insight into how the OSM ecosystem works in other parts of the world and what can be adapted.”** - *Arjun Ark, OSM India / GeONG invitee, India*
+> **“Coming to GeONG was valuable because I learned a lot, I met new people, and I now know new things. I feel more passionate, responsible and energized. The Satellite Sustainability Exchange was valuable as it provided me with insight into how the OSM ecosystem works in other parts of the world and what can be adapted.”** - *Arjun Ark, OSM India / GeONG invitee, India*
 
 ![unSummit 7.png](/uploads/unSummit%207.png)
 *Participants building a digital collage at GeONG. Photo courtesy of Carla Habif, HOT*
 
 ## What do the numbers say?
-To try and understand the wider impact of the HOT unSummit programme, we have also been tracking some metrics…
+To try and understand the wider impact of the HOT unSummit program, we have also been tracking some metrics…
 
 ![unSummit 8.png](/uploads/unSummit%208.png)
 
@@ -101,11 +101,11 @@ To provide some context, the potential reach metric, which tracks the estimated 
 The number of community members supported to attend events only accounts for those that HOT has directly supported financially. For example, it includes the eleven community members funded to attend both State of the Map and FOSS4G, but not the 181 attendees of OSM DRC’s *Ensemble pour la cartographie participative*, as no travel was funded through the collaboration.
 
 # What kind of topics have been shared and discussed?
-We think more than 100 humanitarian or development / open mapping focused sessions have taken place across all seven of these events and 31 of those have been directly enabled by the HOT unSummit programme.
+We think more than 100 humanitarian or development / open mapping focused sessions have taken place across all seven of these events and 31 of those have been directly enabled by the HOT unSummit program.
 
 ![unSummit 9.png](/uploads/unSummit%209.png)
 
-We have categorised these by HOT’s impact areas, but also included categories for Community Building and Tech, Tools and Data for those sessions without a specific impact area focus. 
+We have categorized these by HOT’s impact areas, but also included categories for Community Building and Tech, Tools and Data for those sessions without a specific impact area focus. 
 
 # What have we learnt from these collaborations?
 Many of the community members HOT has supported to attend events have shared their experiences through blog posts and social media ([see a great list of community write ups for State of the Map here, for example](https://wiki.openstreetmap.org/wiki/State_of_the_Map_2022#Write-ups)). 
@@ -118,11 +118,11 @@ The most valued aspects of the unSummit collaboration were the community members
 
 Suggested areas of improvement for HOT in these collaborations included better coordination with organising committees and clearer communication on the objectives of the HOT unSummit.
 
-Aside from these very positive outcomes, we also acknowledge that, for people who experience complex visa applications, we need to be more organised in the future. Five community members who we committed to supporting to travel didn’t get visas and an earlier application process might have made a difference in some of their applications. All five of these community members are being supported to attend a different event instead. 
+Aside from these very positive outcomes, we also acknowledge that, for people who experience complex visa applications, we need to be more organized in the future. Five community members who we committed to supporting to travel didn’t get visas and an earlier application process might have made a difference in some of their applications. All five of these community members are being supported to attend a different event instead. 
 
 # What’s next for the HOT unSummit?
-The HOT unSummit programme continues with exciting collaborations confirmed in the Philippines, Peru, Fiji, Nigeria, Tanzania, Mali, Haiti and Tunisia (as well as a few more in the pipeline).
+The HOT unSummit program continues with exciting collaborations confirmed in the Philippines, Peru, Fiji, Nigeria, Tanzania, Mali, Haiti and Tunisia (as well as a few more in the pipeline).
 
 ![unSummit 10.png](/uploads/unSummit%2010.png)
 
-Many of these event collaborations have also proven to be fertile ground for new collaborations, projects and mapping activities. HOT and the regional Open Mapping Hubs will be following up with organisers and participants alike to see how we can support the legacy of the unSummit programme to go beyond supporting events.
+Many of these event collaborations have also proven to be fertile ground for new collaborations, projects and mapping activities. HOT and the regional Open Mapping Hubs will be following up with organizers and participants alike to see how we can support the legacy of the unSummit program to go beyond supporting events.
