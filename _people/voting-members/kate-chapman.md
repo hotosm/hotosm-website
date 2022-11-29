@@ -22,4 +22,4 @@ redirect_from:
 - "/users/kate_chapman"
 ---
 
-Kate Chapman is the Director of Digital Transformation at the Wikimedia Foundation, the non-profit that supports Wikipedia.  She is one of HOT’s co-founders and was the first Executive Director of HOT. Previously, Ms. Chapman was involved in development of multiple web-GIS applications including GeoCommon, iMapData, and Cadasta.
+Kate Chapman is the Director of Engineering Enablement at the Wikimedia Foundation, the non-profit that supports Wikipedia. She is one of HOT’s co-founders and was the first Executive Director of HOT. Previously, Ms. Chapman was involved in development of multiple web-GIS applications including GeoCommon, iMapData, and Cadasta.
