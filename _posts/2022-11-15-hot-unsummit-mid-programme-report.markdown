@@ -34,7 +34,7 @@ How did we contribute / collaborate?
 * Hosted a hot_tech workshop, a mapathon and a data privacy in humanitarian sessions workshop
 * Sponsored the Geochicas networking event at FOSS4G ($300)
 
-> **“On having HOT as part of the event… HOT shares the same ideals as the OSM and OSGeo communities, and many members share at least one other community. It seems to me that having all the conferences together helped more people to attend them (especially people coming from low-middle income countries where flights are usually more expensive)”** - *Luca Delucchi, FOSS4G organising committee lead, Italy*
+> **“On having HOT as part of the event… HOT shares the same ideals as the OSM and OSGeo communities, and many members share at least one other community. It seems to me that having all the conferences together helped more people to attend them (especially people coming from low-middle income countries where flights are usually more expensive)”** - *Luca Delucchi, FOSS4G organizing committee lead, Italy*
 
 ![unSummit 2.png](/uploads/unSummit%202.png)
 *FOSS4G Community Code Sprint. Photo from [HOT Flickr](https://www.flickr.com/photos/hotosm/52409405969/in/album-72177720302685437/).*
@@ -74,7 +74,7 @@ How did we contribute / collaborate?
 * Presented on the use of OSM / open mapping for disaster resilience and response
 * Provided event sponsorship ($2,000)
 
-> **“Whenever Geomaticians and Surveyors gather, they're trying to address a particular theme or situation and in such instances they start from zero. There is always one saviour for all start-zero scenarios, in fact you can never start from scratch with the inclusion of our Open Mapping Communities and OS); the open source for open minds 🤗”** - *Letwin Pondo, ZIG organising committee, Zimbabwe*
+> **“Whenever Geomaticians and Surveyors gather, they're trying to address a particular theme or situation and in such instances they start from zero. There is always one savior for all start-zero scenarios, in fact you can never start from scratch with the inclusion of our Open Mapping Communities and OS); the open source for open minds 🤗”** - *Letwin Pondo, ZIG organizing committee, Zimbabwe*
 
 ![unSummit 6.png](/uploads/unSummit%206.png)
 *Clifford Tarerwa presents the experience of OSM Zimbabwe at the ZIG conference. Picture courtesy of Dereck Dube (Lumiself)*
@@ -112,11 +112,11 @@ Many of the community members HOT has supported to attend events have shared the
 
 The experiences of these community members was overwhelmingly positive, with the most cited highlights being: learning, skills, tools and encountering new ideas; sharing experiences; networking and relationship building; contribution through event volunteering; and enjoying the social and cultural experiences.
 
-We asked for feedback from all organising committees and four have so far responded. When asked whether they would be likely to collaborate with HOT again in this way, they scored 4.75 / 5 on average.
+We asked for feedback from all organizing committees and four have so far responded. When asked whether they would be likely to collaborate with HOT again in this way, they scored 4.75 / 5 on average.
 
 The most valued aspects of the unSummit collaboration were the community members HOT enabled to attend (and from highly diverse communities), financial support through sponsorship, supporting good quality sessions related to humanitarian open mapping, and the collaboration and teamwork in event organisation.
 
-Suggested areas of improvement for HOT in these collaborations included better coordination with organising committees and clearer communication on the objectives of the HOT unSummit.
+Suggested areas of improvement for HOT in these collaborations included better coordination with organizing committees and clearer communication on the objectives of the HOT unSummit.
 
 Aside from these very positive outcomes, we also acknowledge that, for people who experience complex visa applications, we need to be more organized in the future. Five community members who we committed to supporting to travel didn’t get visas and an earlier application process might have made a difference in some of their applications. All five of these community members are being supported to attend a different event instead. 
 
