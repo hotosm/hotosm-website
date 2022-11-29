@@ -4,8 +4,6 @@ date: 2016-01-11 23:44:00 Z
 Photo: "/uploads/photo%20CourtneyClark.png"
 Member Type:
   Is Voting Member: true
-  Is Board Member: true
-Job Title: Secretary
 Working Group:
 - Community
 Languages:
