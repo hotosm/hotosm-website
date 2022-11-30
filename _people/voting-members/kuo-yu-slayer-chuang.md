@@ -5,7 +5,7 @@ Photo: "/uploads/photo%20slayer.png"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
-Job Title: Member-at-large
+Job Title: Vice President
 Country: Taiwan
 Social Media (Full URL):
   Twitter: https://twitter.com/darkensiva
