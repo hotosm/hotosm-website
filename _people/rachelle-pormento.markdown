@@ -4,7 +4,7 @@ date: 2022-03-22 13:08:00 Z
 published: false
 Photo: "/uploads/Rachelle-Pormento_Pic.jpg"
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Global Human Resources Manager
 Team: Global
 Social Media (Full URL):
