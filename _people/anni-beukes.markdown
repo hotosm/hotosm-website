@@ -5,6 +5,7 @@ Photo: "/uploads/Anni%20Beukes.png"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
+Job Title: Member At Large
 Project:
 - 
 - 
