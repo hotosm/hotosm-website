@@ -5,7 +5,7 @@ Photo: "/uploads/photo%20ShoaibBurq.png"
 Member Type:
   Is Voting Member: true
   Is Board Member: true
-Job Title: Vice President
+Job Title: Secretary
 Social Media (Full URL):
   Twitter: 'https://twitter.com/sabman '
   Website: https://burq.fun
