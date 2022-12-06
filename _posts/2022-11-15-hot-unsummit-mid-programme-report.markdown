@@ -49,7 +49,7 @@ How did we contribute / collaborate?
 ![unSummit 3.png](/uploads/unSummit%203.png)
 *Participants from the Ensemble pour la cartographie participative event. Photo courtesy of Kazi Précieux - OSM RDC*
 
-## National meeting of Mexican Geography Students, Guanajuato, Mexico
+## National Meeting of Mexican Geography Students, Guanajuato, Mexico
 How did we contribute / collaborate?
 * Provided swag for the event
 * Funded two community members to attend, present and provide OSM / open mapping training
