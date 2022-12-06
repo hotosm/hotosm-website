@@ -1,13 +1,13 @@
 ---
 title: 'HOT: A Love Letter'
 date: 2022-12-06 18:58:00 Z
-Summary Text: After seven years with Humanitarian OpenStreetMap Team, I will step
-  down from my role as Executive Director this month.
+Summary Text: HOT Executive Director Tyler Radford shares reflections on seven years
+  with the organization, how it has evolved, and what he sees in its future.
 Feature Image: "/uploads/State%20of%20the%20Map%202022%20Tyler%20Post.jpeg"
 Person: Tyler Radford
 ---
 
-HOT’s Board of Directors and I are working together on a planned transition (see [Board announcement](https://www.hotosm.org/updates/hots-executive-director-transition/)).
+After seven years with Humanitarian OpenStreetMap Team, I will step down from my role as Executive Director this month. HOT’s Board of Directors and I are working together on a planned transition (see [Board announcement](https://www.hotosm.org/updates/hots-executive-director-transition/)).
 
 When I joined HOT in April 2015, we were a five-year-old organization with 15 staff members and a budget of $1m USD per year. That April and the months that followed were an intense period filled with upheaval. The Millennium Development Goals were making way for the Sustainable Development Goals. The [Missing Maps](https://www.missingmaps.org/) project, an ambitious and unconventional arrangement between the American Red Cross, British Red Cross, Médecins Sans Frontières, and HOT had just launched, signaling a shift in our collective work from response to anticipation in the face of disaster. At the same time, the devastating earthquake in Nepal had taken place days before my start date. My predecessor, Kate Chapman, had just stepped down from the Executive Director role. Amidst this context characterized by dramatic change, HOT convened its first global Summit in Washington, DC.
 
