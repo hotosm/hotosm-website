@@ -1,8 +1,10 @@
 ---
 title: Open Mapping Community Mentorship
 date: 2022-12-09 20:23:00 Z
-Summary Text: The Open Mapping Community Working Group (CWG) Mentorship Program can
-  help to close these gaps in capability between communities.
+Summary Text: The OpenStreetMap community, a community of communities, is made up
+  of many mappers and other contributors spread out across local communities around
+  the world.  The Open Mapping Community Working Group Mentorship Program can help
+  to close skill gaps in capability between communities.
 Person: Tsongo Muluba Bienvenue
 Working Group:
 - Community
