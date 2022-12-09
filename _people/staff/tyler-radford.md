@@ -1,6 +1,7 @@
 ---
 title: Tyler Radford
 date: 2015-05-01 15:58:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/tyler-34c360.JPG
 Member Type:
   Is Staff: false
