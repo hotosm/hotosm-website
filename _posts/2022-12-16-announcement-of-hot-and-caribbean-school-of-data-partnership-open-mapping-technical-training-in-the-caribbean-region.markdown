@@ -1,6 +1,6 @@
 ---
 title: 'Announcement of HOT and Caribbean School of Data partnership: Open Mapping
-  Technical Training  in the Caribbean region'
+  Technical Training  in the Caribbean Region'
 date: 2022-12-16 18:55:00 Z
 Summary Text: We are partnering with the Mona School of Business and Management's
   (MSBM) Caribbean School of Data (CSOD) project to launch an Open Mapping Technical
