@@ -26,4 +26,4 @@ Get involved and become a member of the OSM community in Jamaica and Guyana. Ope
 
 To join our first cohort or to get more information, contact us at [mapping@coi-csod.org](mailto:mapping@coi-csod.org).
 
-The photo above is from a [prior partnership](https://www.hotosm.org/projects/training-and-capacity-building-caribbean-open-data-program) between the Mona School of Business and Management and HOT for training and capacity building.
+***The photo above is from a [prior partnership](https://www.hotosm.org/projects/training-and-capacity-building-caribbean-open-data-program) between the Mona School of Business and Management and HOT for training and capacity building with OSM.***
