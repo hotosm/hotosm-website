@@ -12,7 +12,7 @@ Country:
 - Jamaica
 ---
 
-The [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/) is partnering with the Mona School of Business and Management (MSBM), through its [Caribbean School of Data (CSOD)](https://coi-csod.org/) project, to launch an Open Mapping Technical Training program in the Caribbean region. Furthering HOT’s aim to develop an open mapping hub in the Latin America and Caribbean region, the partnership will pilot the project in Jamaica and Guyana in the first phase and then expanded to other countries/territories within the region.
+The [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/) is partnering with the Mona School of Business and Management (MSBM), through its [Caribbean School of Data (CSOD)](https://coi-csod.org/) project, to launch an Open Mapping Technical Training program in the Caribbean region. Furthering HOT’s aim to develop an open mapping hub in the Latin America and Caribbean region, the partnership will pilot the project in Jamaica and Guyana in the first phase and then expand to other countries/territories within the region.
 
 The Open Mapping Technical Training will capitalize on CSOD’s digital education program and online platform. Implemented through MSBM, CSOD seeks to develop a comprehensive and sustainable “digital/data literacy” program aimed at underserved populations within the Caribbean, with the goal of building a stronger data culture across the region. We will recruit and train students, community members, and interested persons on open and participatory mapping. Participants will then have the opportunity to receive a microgrant for a community-based project informed by open mapping data. 
 
