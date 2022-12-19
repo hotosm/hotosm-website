@@ -1,5 +1,5 @@
 ---
-title: 'Announcement of HOT and Caribbean School of Data partnership: Open Mapping
+title: 'Announcement of HOT and Caribbean School of Data Partnership: Open Mapping
   Technical Training  in the Caribbean Region'
 date: 2022-12-16 18:55:00 Z
 Summary Text: We are partnering with the Mona School of Business and Management's
@@ -20,7 +20,7 @@ The Open Mapping Technical Training will capitalize on CSOD’s digital educatio
 
 > *MSBM is delighted to collaborate with HOT on this strategic initiative to develop mapping capabilities and a vibrant mapping community in the Caribbean. Digital interactive maps provide incredible application opportunities in community development, commercial applications and entrepreneurial ventures for our young people in particular. We look forward to expanding the CSOD’s portfolio of training and capacity-building to support this partnership. -Dr. Maurice McNaughton, Director, Center for Innovation, MSBM*
 
-The project gets underway in November 2022, with the first phase expected to wrap up in August 2023.
+The project got underway in November 2022, with the first phase expected to wrap up in August 2023.
 
 Get involved and become a member of the OSM community in Jamaica and Guyana. Open mapping data, [as in the case of Haiti](https://www.hotosm.org/updates/haiti-10-years-later-growth-of-a-crisis-mapping-community/) following the 2010 earthquake, provides meaningful inputs to address a number of the issues we face in the Caribbean today.
 
