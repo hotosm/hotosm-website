@@ -1,5 +1,5 @@
 ---
-title: Open Mapping Community Mentorship (French)
+title: Programme de mentorat cartographie collaborative
 date: 2022-12-09 20:41:00 Z
 Summary Text: La communauté OpenStreetMap, une communauté de communautés, est composée
   de nombreux cartographes et autres contributeurs répartis dans les communautés locales
