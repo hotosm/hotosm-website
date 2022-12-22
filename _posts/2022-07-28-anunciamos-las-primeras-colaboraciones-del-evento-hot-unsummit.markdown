@@ -50,6 +50,6 @@ Esperamos que se agreguen más colaboraciones de eventos a esta lista en las pr�
 
 **¿Qué es el HOT unSummit?**
 
-En nuestra misión continua de reunir a comunidades, socios, colaboradores y simpatizantes del mapeo abierto humanitario, estamos probando un nuevo enfoque para el HOT Summit. En lugar de organizar un solo evento, este año estamos [invirtiendo nuestro tiempo y recursos](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/) en el apoyo a conferencias globales, regionales y locales y eventos comunitarios en todo el mundo para llevar el espíritu del Summit a miles de nuevas personas.
+En nuestra misión continua de reunir a comunidades, socios, colaboradores y simpatizantes del mapeo abierto humanitario, estamos probando un nuevo enfoque para el HOT Summit. En lugar de organizar un solo evento, este año estamos [invirtiendo nuestro tiempo y recursos](https://www.hotosm.org/updates/hot-summit-un-nuevo-y-emocionante-enfoque-para-2022-y-2023/) en el apoyo a conferencias globales, regionales y locales y eventos comunitarios en todo el mundo para llevar el espíritu del Summit a miles de nuevas personas.
 
 Llamamos a esto "HOT unSummit", enfatizando la continuidad de este nuevo enfoque con el evento anual insignia de HOT, sin reclamar un 'terreno más alto' en comparación con los eventos con los que nos asociamos y colaboramos.
