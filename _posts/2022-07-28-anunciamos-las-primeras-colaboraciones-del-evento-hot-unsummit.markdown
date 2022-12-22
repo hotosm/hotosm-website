@@ -10,7 +10,7 @@ Project:
 - HOT unSummit
 ---
 
-Desde que anunciamos [nuestro enfoque HOT unSummit para este 2022](https://www.hotosm.org/updates/update-on-the-2022-and-2023-summits/), hemos estado ocupados desarrollando colaboraciones con organizadores de conferencias en todo el mundo para llevar el enfoque de mapeo abierto humanitario y el espíritu del HOT Summit a miles de personas nuevas en muchos lugares nuevos.
+Desde que anunciamos [nuestro enfoque HOT unSummit para este 2022](https://www.hotosm.org/updates/hot-summit-un-nuevo-y-emocionante-enfoque-para-2022-y-2023/), hemos estado ocupados desarrollando colaboraciones con organizadores de conferencias en todo el mundo para llevar el enfoque de mapeo abierto humanitario y el espíritu del HOT Summit a miles de personas nuevas en muchos lugares nuevos.
 
 ¡Hoy, nos complace anunciar nuestras primeras colaboraciones confirmadas del programa unSummit, que abarcan doce eventos en once países!
 
