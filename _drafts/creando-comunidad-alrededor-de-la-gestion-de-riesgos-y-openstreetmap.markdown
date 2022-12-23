@@ -14,3 +14,9 @@ No es la primera vez que la comunidad OSM Peru toca esta tematica. Ya en el 2018
 En esta ocasion el equipo organizador se vino preparando desde unos meses atras. En julio 2022 se llevo a cabo [una reunion](https://osmpe.org/2022/07/03/lanzamiento-equipo-organizador-grdosm-latam-summit-2022/) donde ademas de presentar la plataforma Gestor de Tareas para el mapeo colaborativo a nivel local y presentar los resultados del mapeo de territorios indígenas amazónicos en la zona del rio Urubamba, se realizo el lanzamiento de equipo organizador del evento GIRD\+OSM Latam unSummit.
 
 Finalmente, tras meses de coordinaciones, el 24 de noviembre nos reunimos invitados, asistentes y organizadores para las planeadas jornadas de conferencias, talleres y salidas de campo que resultaron siendo cuatro dias de aprendizajes, reflexion y compartir pero sobre todo de comunidad alrededor del mapeo abierto y las diversas aproximaciones que se pueden dar.
+
+Rudyard Tarco, uno de los expositores, presento información sobre destrucción de caminos, incendios forestales y cambio climático observado las actividades que lleva a cabo en su comunidad de caminatas [Desafio Andes](https://www.facebook.com/desafio.ande/), colaborando con la comunidad digital con información para reaccionar ante emergencia en entornos de montaña
+
+> las mesas de dialogo fueron importantes para conocer que se esta haciendo con OSM en el tema de gestión de riesgos y para conocer en mayor medida la región latinoamericana con el desarrollo de mapeos selectivos según las especialidades de los ponentes. Destaco que los talleres fueron interesantes, sobre (todo) porque el evento permitía poder conversar mas ampliamente de los temas expuestos con los ponentes, estas conversaciones permitieron ampliar el tema así como aplicarlo a los intereses particulares de cada participante.
+
+jhj
