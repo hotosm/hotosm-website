@@ -19,4 +19,8 @@ Rudyard Tarco, uno de los expositores, presento información sobre destrucción 
 
 > las mesas de dialogo fueron importantes para conocer que se esta haciendo con OSM en el tema de gestión de riesgos y para conocer en mayor medida la región latinoamericana con el desarrollo de mapeos selectivos según las especialidades de los ponentes. Destaco que los talleres fueron interesantes, sobre (todo) porque el evento permitía poder conversar mas ampliamente de los temas expuestos con los ponentes, estas conversaciones permitieron ampliar el tema así como aplicarlo a los intereses particulares de cada participante.
 
-jhj
+j
+
+> Aprendí mucho de los demás participantes, especialmente sobre cómo los desastres socio-naturales afectan a sus comunidades y cómo se están adaptando a ellos. Fue una gran oportunidad para conectar con otros especialistas en el uso de la tecnología con fines humanitarios y compartir nuestros conocimientos y habilidades.
+
+h
