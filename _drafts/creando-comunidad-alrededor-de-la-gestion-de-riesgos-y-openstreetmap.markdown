@@ -13,4 +13,4 @@ No es la primera vez que la comunidad OSM Peru toca esta tematica. Ya en el 2018
 
 En esta ocasion el equipo organizador se vino preparando desde unos meses atras. En julio 2022 se llevo a cabo [una reunion](https://osmpe.org/2022/07/03/lanzamiento-equipo-organizador-grdosm-latam-summit-2022/) donde ademas de presentar la plataforma Gestor de Tareas para el mapeo colaborativo a nivel local y presentar los resultados del mapeo de territorios indígenas amazónicos en la zona del rio Urubamba, se realizo el lanzamiento de equipo organizador del evento GIRD\+OSM Latam unSummit.
 
-Finalmente, tras meses de coordinaciones, el 24 de noviembre nos reunimos invitados, asistentes y organizadores y no nos separamos hasta cuatro dias despues!
+Finalmente, tras meses de coordinaciones, el 24 de noviembre nos reunimos invitados, asistentes y organizadores en lo que las jornadas planeadas de conferencias, talleres y salidas de campo resultaron siendo cuatro dias de aprendizajes, reflexion, compartir pero sobre todo de comunidad.
