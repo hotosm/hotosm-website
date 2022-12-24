@@ -15,6 +15,8 @@ En esta ocasion el equipo organizador se vino preparando desde unos meses atras.
 
 Finalmente, tras meses de coordinaciones, el 24 de noviembre nos reunimos invitados, asistentes y organizadores para las planeadas jornadas de conferencias, talleres y salidas de campo que resultaron siendo cuatro dias de aprendizajes, reflexion y compartir pero sobre todo de comunidad alrededor del mapeo abierto y las diversas aproximaciones que se pueden dar.
 
+Testimonios
+
 Rudyard Tarco, uno de los expositores, presento información sobre destrucción de caminos, incendios forestales y cambio climático, observada desde las actividades que lleva a cabo en su comunidad de caminatas [Desafio Andes](https://www.facebook.com/desafio.ande/) en Cusco, Peru, información util para reaccionar ante emergencia en entornos de montaña. Ademas [comenta](https://www.openstreetmap.org/user/Caminando%20Cusco/diary/400473):
 
 > las mesas de dialogo fueron importantes para conocer que se esta haciendo con OSM en el tema de gestión de riesgos y para conocer en mayor medida la región latinoamericana con el desarrollo de mapeos selectivos según las especialidades de los ponentes. Destaco que los talleres fueron interesantes, sobre (todo) porque el evento permitía poder conversar mas ampliamente de los temas expuestos con los ponentes, estas conversaciones permitieron ampliar el tema así como aplicarlo a los intereses particulares de cada participante.
