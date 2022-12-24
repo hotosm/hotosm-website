@@ -29,4 +29,4 @@ Por su parte [Ulises Ibarra](https://ulimaps.github.io/blog/), Ingeniero topogra
 
 > Algunos participantes se acercaron a mi mostrando interés por usar las herramientas y por participar en la comunidad de OpenDroneMap. Recuerdo a uno de ellos en particular, el jefe de una comunidad local. Me comentó que tiene interés en hacer un mapa de su territorio para cumplir con un trámite que le daría la posibilidad de que su comunidad sea reconocida como tal por el Estado y así contar con los beneficios que este reconocimiento les otorga, como servicios públicos, drenaje, luz, salud, etc. En fin, una manifestación del poder de la autogestión en todo su esplendor.
 
-d
+Finalmente, [Celine Jacquin](https://www.hotosm.org/people/celine-jacquin/), geografa y 
