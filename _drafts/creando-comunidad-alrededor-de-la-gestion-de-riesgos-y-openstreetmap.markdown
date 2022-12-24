@@ -15,6 +15,10 @@ En esta ocasión el equipo organizador se vino preparando desde unos meses atrá
 
 Finalmente, tras meses de coordinaciones, el 24 de noviembre nos reunimos invitados, asistentes y organizadores para las planeadas jornadas de conferencias, talleres y salidas de campo que resultaron siendo cuatro días de aprendizajes, reflexión y compartir pero sobre todo de comunidad alrededor del mapeo abierto y las diversas aproximaciones que se pueden dar.
 
+Contar todo lo que sucedio esos dias seria muy largo y posiblemente tedioso para interes por involucrar tecnologias como los drones a las diferentes
+
+dinamizar de forma mas efectiva a las comunidades youthmappers integrandolas a la gran comunidad local y regional de 
+
 **Testimonios**
 
 Rudyard Tarco, uno de los expositores, presentó información sobre destrucción de caminos, incendios forestales y cambio climático, observada desde las actividades que lleva a cabo en su comunidad de caminatas[ Desafio Andes](https://www.facebook.com/desafio.ande/) en Cusco, Perú, información útil para reaccionar ante emergencia en entornos de montaña. Además[ comenta](https://www.openstreetmap.org/user/Caminando%20Cusco/diary/400473):
