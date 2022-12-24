@@ -15,7 +15,7 @@ En esta ocasion el equipo organizador se vino preparando desde unos meses atras.
 
 Finalmente, tras meses de coordinaciones, el 24 de noviembre nos reunimos invitados, asistentes y organizadores para las planeadas jornadas de conferencias, talleres y salidas de campo que resultaron siendo cuatro dias de aprendizajes, reflexion y compartir pero sobre todo de comunidad alrededor del mapeo abierto y las diversas aproximaciones que se pueden dar.
 
-Testimonios
+**Testimonios**
 
 Rudyard Tarco, uno de los expositores, presento información sobre destrucción de caminos, incendios forestales y cambio climático, observada desde las actividades que lleva a cabo en su comunidad de caminatas [Desafio Andes](https://www.facebook.com/desafio.ande/) en Cusco, Peru, información util para reaccionar ante emergencia en entornos de montaña. Ademas [comenta](https://www.openstreetmap.org/user/Caminando%20Cusco/diary/400473):
 
@@ -29,4 +29,6 @@ Por su parte [Ulises Ibarra](https://ulimaps.github.io/blog/), Ingeniero topogra
 
 > Algunos participantes se acercaron a mi mostrando interés por usar las herramientas y por participar en la comunidad de OpenDroneMap. Recuerdo a uno de ellos en particular, el jefe de una comunidad local. Me comentó que tiene interés en hacer un mapa de su territorio para cumplir con un trámite que le daría la posibilidad de que su comunidad sea reconocida como tal por el Estado y así contar con los beneficios que este reconocimiento les otorga, como servicios públicos, drenaje, luz, salud, etc. En fin, una manifestación del poder de la autogestión en todo su esplendor.
 
-Finalmente, [Celine Jacquin](https://www.hotosm.org/people/celine-jacquin/), geografa y 
+Finalmente, [Celine Jacquin](https://www.hotosm.org/people/celine-jacquin/), geografa y Jefa del hub de Mapeo Abierto Latam, estuvo presente apoyando a la organizacion del evento. Entre sus [conclusiones](https://www.openstreetmap.org/user/mapeadora/diary/400572) posteriores dice:
+
+> Mi impresión es también que \[algo que\] los organizadores tenían claro desde el inicio -y se refleja con el seguimiento posterior que se le está dando- que **esta conferencia no iba a ser únicamente para presentar trabajos y conversar, \[sino que\] debía llevar a soluciones, ampliar reflexiones, crear contactos y sinergias** para ayudarse de forma concreta, motivar y remotivar. Siento que una buena parte de las personas participantes regresaron a casa con planes en la cabeza y habiendo creado una relación amena con quien les puede guiar y apoyar. Es algo que comúnmente se da en eventos comunitarios pero diría que la escala de este evento y su foco en una misma temática, fortaleció más los vínculos.
