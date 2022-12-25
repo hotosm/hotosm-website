@@ -15,9 +15,11 @@ En esta ocasión el equipo organizador se vino preparando desde unos meses atrá
 
 Finalmente, tras meses de coordinaciones, el 24 de noviembre nos reunimos invitados, asistentes y organizadores para las planeadas jornadas de conferencias, talleres y salidas de campo que resultaron siendo cuatro días de aprendizajes, reflexión y compartir pero sobre todo de comunidad alrededor del mapeo abierto y las diversas aproximaciones que se pueden dar.
 
-Contar todo lo que sucedio esos dias seria muy largo y posiblemente tedioso para interes por involucrar tecnologias como los drones a las diferentes
+Contar todo lo que sucedio esos dias seria muy largo, pero comparto lo que para mi fueron los puntos mas saltantes del evento:
 
-dinamizar de forma mas efectiva a las comunidades youthmappers integrandolas a la gran comunidad local y regional de 
+-El interes de varios de los participantes por involucrar a los drones a sus diferentes estrategias y planes de capacitacion/mapeo.
+
+- El acercamiento y dinamizacion de las comunidades youthmappers al resto de actores del mapeo humanitario a nivel local y regional.
 
 **Testimonios**
 
