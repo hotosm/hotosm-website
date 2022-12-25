@@ -17,9 +17,9 @@ Finalmente, tras meses de coordinaciones, el 24 de noviembre nos reunimos invita
 
 Contar todo lo que sucedio esos dias seria muy largo, pero comparto lo que para mi fueron los puntos mas saltantes del evento:
 
--El interes de varios de los participantes por involucrar a los drones a sus diferentes estrategias y planes de capacitacion/mapeo.
+- El interes de varios de los participantes por involucrar a los drones a sus diferentes estrategias y planes de capacitacion/mapeo.
 
-- El acercamiento y dinamizacion de las comunidades youthmappers al resto de actores del mapeo humanitario a nivel local y regional.
+- El acercamiento de las comunidades youthmappers al resto de actores del mapeo humanitario a nivel local y regional.
 
 **Testimonios**
 
