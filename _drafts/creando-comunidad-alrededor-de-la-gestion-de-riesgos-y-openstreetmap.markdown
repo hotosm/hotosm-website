@@ -1,6 +1,7 @@
 ---
 title: Creando comunidad alrededor de la Gestión de Riesgos y OpenStreetMap
 date: 2022-12-22 07:19:00 Z
+Feature Image: "/uploads/poster-1-724x1024.jpg"
 ---
 
 HOT nació como respuesta a los desastres, y si bien no se pueden evitar, si se puede hacer labor de prevención para minimizar las pérdidas. Esto es lo que los especialistas llaman[ gestión de riesgos](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_riesgos) y es un tema que se trabaja bastante en la comunidad OpenStreetMap pues disponer de información detallada sobre el terreno y el entorno de una región puede ser útil para la toma de decisiones en situaciones de emergencia.
