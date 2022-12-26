@@ -26,11 +26,11 @@ No es la primera vez que la comunidad OSM Perú toca esta temática. Ya en el 20
 
 En esta ocasión el equipo organizador se vino preparando desde unos meses atrás. En julio 2022 se llevó a cabo [una reunión](https://osmpe.org/2022/07/03/lanzamiento-equipo-organizador-grdosm-latam-summit-2022/) donde además de presentar la plataforma Gestor de Tareas para el mapeo colaborativo a nivel local y presentar los resultados del mapeo de territorios indígenas amazónicos en la zona del rio Urubamba, se realizó el lanzamiento de equipo organizador del evento GIRD\+OSM Latam unSummit.
 
-Finalmente, tras meses de coordinaciones, el 24 de noviembre nos reunimos invitados, asistentes y organizadores para las planeadas jornadas de conferencias, talleres y salidas de campo que resultaron siendo cuatro días de aprendizajes, reflexión y compartir pero sobre todo de comunidad alrededor del mapeo abierto y las diversas aproximaciones que se pueden dar.
-
 ![dia 1.jpg](/uploads/dia%201.jpg)
 
 *Mesas de trabajo / Volando drone / hablando sobre mapeo abierto*
+
+Finalmente, tras meses de coordinaciones, el 24 de noviembre nos reunimos invitados, asistentes y organizadores para las planeadas jornadas de conferencias, talleres y salidas de campo que resultaron siendo cuatro días de aprendizajes, reflexión y compartir pero sobre todo de comunidad alrededor del mapeo abierto y las diversas aproximaciones que se pueden dar.
 
 Contar todo lo que sucedió esos días sería muy largo, pero comparto lo que para mi fueron los puntos más saltantes del evento:
 
@@ -41,6 +41,10 @@ Contar todo lo que sucedió esos días sería muy largo, pero comparto lo que pa
 * La inmersión a la diversidad de problemáticas nacionales que fue posible por la variedad de asistentes y expositores.
 
 En resumen fue un muy buen evento que permitió que la comunidad OSM local se ampliara y creciera no solo en términos de cantidad de miembros si no en variedad de proyectos y alcances a corto y mediano plazo. Además el impacto a largo plazo que un evento de este tipo tiene en los asistentes, sobre todo en los jóvenes es algo de posibilidades infinitas.
+
+![dia 3.jpg](/uploads/dia%203.jpg)
+
+*Conferencias sobre diversos aspectos de la Gestión de riesgos y el mapeo humanitario*
 
 **Testimonios**
 
