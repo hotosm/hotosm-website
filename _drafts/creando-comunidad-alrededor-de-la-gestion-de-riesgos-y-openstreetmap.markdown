@@ -15,15 +15,15 @@ En esta ocasión el equipo organizador se vino preparando desde unos meses atrá
 
 Finalmente, tras meses de coordinaciones, el 24 de noviembre nos reunimos invitados, asistentes y organizadores para las planeadas jornadas de conferencias, talleres y salidas de campo que resultaron siendo cuatro días de aprendizajes, reflexión y compartir pero sobre todo de comunidad alrededor del mapeo abierto y las diversas aproximaciones que se pueden dar.
 
-Contar todo lo que sucedio esos dias seria muy largo, pero comparto lo que para mi fueron los puntos mas saltantes del evento:
+Contar todo lo que sucedió esos días sería muy largo, pero comparto lo que para mi fueron los puntos más saltantes del evento:
 
-- El interes de varios de los participantes por involucrar a los drones a sus diferentes estrategias y planes de capacitacion/mapeo.
+- El interés de varios de los participantes por involucrar a los drones a sus diferentes estrategias y planes de capacitación/mapeo.
 
 - El acercamiento de las comunidades youthmappers al resto de actores del mapeo humanitario a nivel local y regional.
 
-- La inmersion a la diversidad de problematicas nacionales que fue posible por la variedad de asistentes y expositores.
+- La inmersión a la diversidad de problemáticas nacionales que fue posible por la variedad de asistentes y expositores.
 
-En resumen fue un muy buen evento que permitio que la comunidad OSM local se ampliara y creciera no solo en terminos de cantidad de miembros si  no en variedad de proyectos y alcances a corto y mediano plazo. Ademas el impacto a largo plazo que un evento de este tipo tiene en los asistentes, sobre todo en los jovenes es algo de posibilidades infinitas.
+En resumen fue un muy buen evento que permitió que la comunidad OSM local se ampliara y creciera no solo en términos de cantidad de miembros si no en variedad de proyectos y alcances a corto y mediano plazo. Además el impacto a largo plazo que un evento de este tipo tiene en los asistentes, sobre todo en los jóvenes es algo de posibilidades infinitas.
 
 **Testimonios**
 
