@@ -21,7 +21,9 @@ Contar todo lo que sucedio esos dias seria muy largo, pero comparto lo que para 
 
 - El acercamiento de las comunidades youthmappers al resto de actores del mapeo humanitario a nivel local y regional.
 
-- La inmersion a diversas problematicas a nivel nacional que fue posible por la variedad de asistentes y expositores.
+- La inmersion a la diversidad de problematicas nacionales que fue posible por la variedad de asistentes y expositores.
+
+En resumen fue un muy buen evento que permitio que la comunidad OSM local se ampliara y creciera no solo en terminos de cantidad de miembros si  no en variedad de proyectos y alcances a corto y mediano plazo. Ademas el impacto a largo plazo que un evento de este tipo tiene en los asistentes, sobre todo en los jovenes es algo de posibilidades infinitas.
 
 **Testimonios**
 
