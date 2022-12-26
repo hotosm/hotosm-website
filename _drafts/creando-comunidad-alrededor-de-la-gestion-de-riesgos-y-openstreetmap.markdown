@@ -21,6 +21,8 @@ Contar todo lo que sucedio esos dias seria muy largo, pero comparto lo que para 
 
 - El acercamiento de las comunidades youthmappers al resto de actores del mapeo humanitario a nivel local y regional.
 
+- La inmersion a diversas problematicas a nivel nacional que fue posible por la variedad de asistentes y expositores.
+
 **Testimonios**
 
 Rudyard Tarco, uno de los expositores, presentó información sobre destrucción de caminos, incendios forestales y cambio climático, observada desde las actividades que lleva a cabo en su comunidad de caminatas[ Desafio Andes](https://www.facebook.com/desafio.ande/) en Cusco, Perú, información útil para reaccionar ante emergencia en entornos de montaña. Además[ comenta](https://www.openstreetmap.org/user/Caminando%20Cusco/diary/400473):
