@@ -28,6 +28,10 @@ En esta ocasión el equipo organizador se vino preparando desde unos meses atrá
 
 Finalmente, tras meses de coordinaciones, el 24 de noviembre nos reunimos invitados, asistentes y organizadores para las planeadas jornadas de conferencias, talleres y salidas de campo que resultaron siendo cuatro días de aprendizajes, reflexión y compartir pero sobre todo de comunidad alrededor del mapeo abierto y las diversas aproximaciones que se pueden dar.
 
+![dia 1.jpg](/uploads/dia%201.jpg)
+
+*Mesas de trabajo / Volando drone / hablando sobre mapeo abierto*
+
 Contar todo lo que sucedió esos días sería muy largo, pero comparto lo que para mi fueron los puntos más saltantes del evento:
 
 * El interés de varios de los participantes por involucrar a los drones a sus diferentes estrategias y planes de capacitación/mapeo.
