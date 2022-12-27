@@ -1,7 +1,7 @@
 ---
 title: 'GIRD+OSM Lima 2022: Creando comunidad alrededor de la Gestión de Riesgos y
   el mapeo abierto'
-date: 2022-12-26 07:19:00 Z
+date: 2022-12-27 09:25:00 Z
 categories:
 - news
 - comunidad
@@ -68,6 +68,6 @@ Por su parte [Ulises Ibarra](https://ulimaps.github.io/blog/), Ingeniero topógr
 
 Finalmente [Celine Jacquin](https://www.hotosm.org/people/celine-jacquin/), geógrafa y Jefa del hub de Mapeo Abierto Latam, estuvo presente apoyando a la organización del evento. Entre sus [conclusiones](https://www.openstreetmap.org/user/mapeadora/diary/400572) posteriores dice:
 
-> Mi impresión es también que \[algo que\] los organizadores tenían claro desde el inicio -y se refleja con el seguimiento posterior que se le está dando- \[fue\] que **esta conferencia no iba a ser únicamente para presentar trabajos y conversar, \[sino que\] debía llevar a soluciones, ampliar reflexiones, crear contactos y sinergias** para ayudarse de forma concreta, motivar y remotivar. Siento que una buena parte de las personas participantes regresaron a casa con planes en la cabeza y habiendo creado una relación amena con quien les puede guiar y apoyar. Es algo que comúnmente se da en eventos comunitarios pero diría que la escala de este evento y su foco en una misma temática, fortaleció más los vínculos.
+> Mi impresión es también que algo que los organizadores tenían claro desde el inicio -y se refleja con el seguimiento posterior que se le está dando- fue que **esta conferencia no iba a ser únicamente para presentar trabajos y conversar, sino que debía llevar a soluciones, ampliar reflexiones, crear contactos y sinergias** para ayudarse de forma concreta, motivar y remotivar. Siento que una buena parte de las personas participantes regresaron a casa con planes en la cabeza y habiendo creado una relación amena con quien les puede guiar y apoyar. Es algo que comúnmente se da en eventos comunitarios pero diría que la escala de este evento y su foco en una misma temática, fortaleció más los vínculos.
 
 ![Conf GIRD popular UNMSM_Peru_2022_UNMSM mesas1-3-4 53.JPG](/uploads/Conf%20GIRD%20popular%20UNMSM_Peru_2022_UNMSM%20mesas1-3-4%2053.JPG)
