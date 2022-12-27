@@ -32,6 +32,8 @@ It is not the first time that the OSM Peru community touches on this topic. Alre
 
 On this occasion, the organizing team had been preparing for a few months. In July 2022 it was carried out [a meeting](https://osmpe.org/2022/07/03/lanzamiento-equipo-organizador-grdosm-latam-summit-2022/) where, in addition to presenting the Tasking Manager platform for collaborative mapping at the local level and presenting the results of the mapping of Amazonian indigenous territories in the Urubamba river area, the organizing team for the GIRD\+OSM Latam unSummit event was launched.
 
+![dia 1.jpg](/uploads/dia%201.jpg)
+
 *Dialogue tables / Flying drone / Talking about open mapping*
 
 Finally, after months of coordination, on November 24 we gathered guests, attendees and organizers for the planned days of conferences, workshops and field trips that resulted in four days of learning, reflection and sharing, but above all community around open mapping and the various approaches that can be given.
@@ -45,6 +47,8 @@ Telling everything that happened those days would be very long, but I share what
 * The immersion into the diversity of national problems that was possible due to the variety of attendees and speakers.
 
 In short, it was a very good event that allowed the local OSM community to expand and grow not only in terms of number of members but also in a variety of projects and scope in the short and medium term. In addition, the long-term impact that an event of this type has on the attendees, especially on young people, is something of infinite possibilities.
+
+![dia 3.jpg](/uploads/dia%203.jpg)
 
 *Lectures on various aspects of Risk Management and humanitarian mapping*
 
@@ -65,3 +69,5 @@ For his part [Ulises Ibarra](https://ulimaps.github.io/blog/), a Mexican topogra
 Finally [Celine Jacquin](https://www.hotosm.org/people/celine-jacquin/), geographer and Head of the Latam Open Mapping hub, was present supporting the organization of the event. Between her [conclusions](https://www.openstreetmap.org/user/mapeadora/diary/400572) she says:
 
 > My impression is also that something that the organizers were clear from the beginning -and it is reflected with the subsequent follow-up that is being given- was that **this conference was not going to be only to present papers and talk, but it had to lead to solutions, broaden reflections, create contacts and synergies** to help each other in a concrete way, motivate and remotivate. I feel that a good part of the attendees returned home with plans in their heads and having created a pleasant relationship with someone who can guide and support them. It is something that commonly occurs in community events, but I would say that the scale of this event and its focus on the same theme strengthened the ties even more.
+
+![Conf GIRD popular UNMSM_Peru_2022_UNMSM mesas1-3-4 53.JPG](/uploads/Conf%20GIRD%20popular%20UNMSM_Peru_2022_UNMSM%20mesas1-3-4%2053.JPG)
