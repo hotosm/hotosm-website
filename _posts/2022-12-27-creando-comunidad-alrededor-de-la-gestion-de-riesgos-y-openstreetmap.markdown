@@ -40,7 +40,7 @@ En esta ocasión el equipo organizador se vino preparando desde unos meses atrá
 
 Finalmente, tras meses de coordinaciones, el 24 de noviembre nos reunimos invitados, asistentes y organizadores para las planeadas jornadas de conferencias, talleres y salidas de campo que resultaron siendo cuatro días de aprendizajes, reflexión y compartir pero sobre todo de comunidad alrededor del mapeo abierto y las diversas aproximaciones que se pueden dar.
 
-Contar todo lo que sucedió esos días sería muy largo, pero comparto lo que para mi fueron los puntos más saltantes del evento:
+En resumen, algunos de los aspectos más destacados del evento fueron::
 
 * El interés de varios de los participantes por involucrar a los drones a sus diferentes estrategias y planes de capacitación/mapeo.
 
@@ -48,7 +48,7 @@ Contar todo lo que sucedió esos días sería muy largo, pero comparto lo que pa
 
 * La inmersión a la diversidad de problemáticas nacionales que fue posible por la variedad de asistentes y expositores.
 
-En resumen fue un muy buen evento que permitió que la comunidad OSM local se ampliara y creciera no solo en términos de cantidad de miembros si no en variedad de proyectos y alcances a corto y mediano plazo. Además el impacto a largo plazo que un evento de este tipo tiene en los asistentes, sobre todo en los jóvenes es algo de posibilidades infinitas.
+Pero sobre todo, fue un evento que permitió que la comunidad OSM local se ampliara y creciera no solo en términos de cantidad de miembros si no en variedad de proyectos y alcances a corto y mediano plazo. Además el impacto a largo plazo que un evento de este tipo tiene en los asistentes, sobre todo en los jóvenes es algo de posibilidades infinitas.
 
 ![dia 3.jpg](/uploads/dia%203.jpg)
 
