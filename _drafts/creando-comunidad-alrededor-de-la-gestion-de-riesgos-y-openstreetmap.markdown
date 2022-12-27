@@ -1,6 +1,6 @@
 ---
 title: 'GIRD+OSM Lima 2022: Creando comunidad alrededor de la Gestión de Riesgos y
-  OpenStreetMap'
+  el mapeo abierto'
 date: 2022-12-26 07:19:00 Z
 categories:
 - news
