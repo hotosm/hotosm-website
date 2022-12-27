@@ -53,7 +53,7 @@ In short, it was a very good event that allowed the local OSM community to expan
 
 *Lectures on various aspects of Risk Management and humanitarian mapping*
 
-**Testimonials**
+### **Testimonials**
 
 Rudyard Tarco, one of the speakers, presented information on road destruction, forest fires and climate change, observed from the activities he carries out in his walking community [Desafio Andes](https://www.facebook.com/desafio.ande/) in Cusco, Peru, useful information to react to emergencies in mountain environments. Besides he [comments](https://www.openstreetmap.org/user/Caminando%20Cusco/diary/400473):
 
