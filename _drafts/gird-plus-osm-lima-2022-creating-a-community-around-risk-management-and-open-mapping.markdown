@@ -1,6 +1,9 @@
 ---
 title: 'GIRD+OSM Lima 2022: Creating a community around Risk Management and Open Mapping'
 date: 2022-12-27 06:26:00 Z
+Summary Text: Last November, the Grassroots Management of Disaster Risks and OpenStreetMap
+  LATAM 2022 event was held in Lima, Peru. Let's learn a little more about what happened
+  these days in Lima around open and community mapping.
 ---
 
 HOT was born as a response to disasters, and although they cannot be avoided, prevention work can be done to minimize losses. This is what specialists call [risk management](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_riesgos) and it is a subject that is worked on a lot in the OpenStreetMap community since having detailed information on the terrain and the environment of a region can be useful for decision-making in emergency situations.
