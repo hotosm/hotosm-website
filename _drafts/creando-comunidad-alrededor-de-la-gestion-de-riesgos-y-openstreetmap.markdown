@@ -1,5 +1,5 @@
 ---
-title: 'GIRD+OSM Lima 2022: Creando comunidad alrededor de la Gestión de Riesgos y
+title: 'GIRD+OSM Lima 2022: Creando comunidad alrededor de la gestión de riesgos y
   el mapeo abierto'
 date: 2022-12-27 09:25:00 Z
 categories:
@@ -13,9 +13,9 @@ tags:
 - talleres
 - unsummit
 - hotsummit
-Summary Text: El pasado mes de noviembre se realizo en Lima, Peru el evento Gestión
+Summary Text: El pasado mes de noviembre se realizó en Lima, Peru el evento Gestión
   popular de riesgos de desastres y OpenStreetMap LATAM 2022. Conozcamos un poco mas
-  que paso estos dias en Lima alrededor del mapeo abierto y comunitario.
+  que pasó estos días en Lima alrededor del mapeo abierto y comunitario.
 Feature Image: "/uploads/poster-1-724x1024.jpg"
 Person: Juan Arellano Valdivia
 Country:
