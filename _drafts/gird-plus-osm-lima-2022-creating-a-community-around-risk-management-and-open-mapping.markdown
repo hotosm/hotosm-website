@@ -23,7 +23,7 @@ Country:
 - Peru
 ---
 
-HOT was born as a response to disasters, and although they cannot be avoided, prevention work can be done to minimize losses. This is what specialists call [risk management](https://en.wikipedia.org/wiki/Risk_management) and it is a subject that is worked on a lot in the OpenStreetMap community since having detailed information on the terrain and the environment of a region can be useful for decision-making in emergency situations.
+HOT was born as a response to disasters, and although they cannot be avoided, prevention work can be done to minimize losses. This is what specialists refer to as [risk management](https://en.wikipedia.org/wiki/Risk_management) and it is a subject that is worked on a lot in the OpenStreetMap community since having detailed information on the terrain and the environment of a region can be useful for decision-making in emergency situations.
 
 Aware of this need, the [OSM Peru](https://osmpe.org/) community together with the San Marcos University ([UNMSM](https://unmsm.edu.pe/)) organized -from November 24 to 27, 2022- the event called [Grassroot disaster risk management and OpenStreetMap LATAM 2022](https://osmpe.org/grd-osm-latam-2022/), which also had HOT’s support through the [unSummit 2022](https://www.hotosm.org/updates/first-hot-unsummit-event-collaborations-announced/) program.
 
@@ -35,15 +35,15 @@ On this occasion, the organizing team had been preparing for a few months. In Ju
 
 ![dia 1.jpg](/uploads/dia%201.jpg)
 
-*Dialogue tables / Flying drone / Talking about open mapping*
+*Dialogue tables / Flying drones / Talking about open mapping*
 
-Finally, after months of coordination, on November 24 we gathered guests, attendees and organizers for the planned days of conferences, workshops and field trips that resulted in four days of learning, reflection and sharing, but above all community around open mapping and the various approaches that can be given.
+Finally, after months of coordination, on November 24 we gathered guests, attendees and organizers for the planned days of conferences, workshops and field trips that resulted in four days of learning, reflection and sharing, but especially in terms of creating a sense of community around open mapping and the various approaches that can be given.
 
 Telling everything that happened those days would be very long, but I share what for me were the most remarkable points of the event:
 
 * The interest of several of the participants in involving drones in their different strategies and training/mapping plans.
 
-* The rapprochement of the youthmapper communities to the rest of the humanitarian mapping actors at the local and regional levels.
+* The rapprochement of the YouthMapper communities to the rest of the humanitarian mapping actors at the local and regional levels.
 
 * The immersion into the diversity of national problems that was possible due to the variety of attendees and speakers.
 
