@@ -11,10 +11,15 @@ tags:
 - OpenStreetMap
 - gestion de riesgos
 - talleres
+- unsummit
+- hotsummit
 Summary Text: El pasado mes de noviembre se realizo en Lima, Peru el evento Gestión
   popular de riesgos de desastres y OpenStreetMap LATAM 2022. Conozcamos un poco mas
   que paso estos dias en Lima alrededor del mapeo abierto y comunitario.
 Feature Image: "/uploads/poster-1-724x1024.jpg"
+Person: Juan Arellano Valdivia
+Country:
+- Peru
 ---
 
 HOT nació como respuesta a los desastres, y si bien no se pueden evitar, si se puede hacer labor de prevención para minimizar las pérdidas. Esto es lo que los especialistas llaman [gestión de riesgos](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_riesgos) y es un tema que se trabaja bastante en la comunidad OpenStreetMap pues disponer de información detallada sobre el terreno y el entorno de una región puede ser útil para la toma de decisiones en situaciones de emergencia.
