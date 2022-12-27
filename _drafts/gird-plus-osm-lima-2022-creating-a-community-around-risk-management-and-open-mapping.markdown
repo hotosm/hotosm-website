@@ -1,6 +1,18 @@
 ---
 title: 'GIRD+OSM Lima 2022: Creating a community around Risk Management and Open Mapping'
 date: 2022-12-27 09:39:00 Z
+categories:
+- news
+- community
+tags:
+- peru
+- open mapping
+- openstreetmap
+- risk management
+- workshops
+- unsummit
+- hotunsummit
+- latam
 Summary Text: Last November, the Grassroots Management of Disaster Risks and OpenStreetMap
   LATAM 2022 event was held in Lima, Peru. Let's learn a little more about what happened
   these days in Lima around open and community mapping.
