@@ -40,11 +40,11 @@ En esta ocasión el equipo organizador se vino preparando desde unos meses atrá
 
 Finalmente, tras meses de coordinaciones, el 24 de noviembre nos reunimos invitados, asistentes y organizadores para las planeadas jornadas de conferencias, talleres y salidas de campo que resultaron siendo cuatro días de aprendizajes, reflexión y compartir pero sobre todo de comunidad alrededor del mapeo abierto y las diversas aproximaciones que se pueden dar.
 
-En resumen, algunos de los aspectos más destacados del evento fueron::
+En resumen, algunos de los aspectos más destacados del evento fueron:
 
 * El interés de varios de los participantes por involucrar a los drones a sus diferentes estrategias y planes de capacitación/mapeo.
 
-* El acercamiento de las comunidades youthmappers al resto de actores del mapeo humanitario a nivel local y regional.
+* El acercamiento de las comunidades YouthMappers al resto de actores del mapeo humanitario a nivel local y regional.
 
 * La inmersión a la diversidad de problemáticas nacionales que fue posible por la variedad de asistentes y expositores.
 
