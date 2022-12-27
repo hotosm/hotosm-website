@@ -55,9 +55,9 @@ In short, it was a very good event that allowed the local OSM community to expan
 
 ### **Testimonials**
 
-Rudyard Tarco, one of the speakers, presented information on road destruction, forest fires and climate change, observed from the activities he carries out in his walking community [Desafio Andes](https://www.facebook.com/desafio.ande/) in Cusco, Peru, useful information to react to emergencies in mountain environments. Besides he [comments](https://www.openstreetmap.org/user/Caminando%20Cusco/diary/400473):
+Rudyard Tarco, one of the speakers, presented information on road destruction, forest fires and climate change, observed from the activities he carries out in his walking community [Desafio Andes](https://www.facebook.com/desafio.ande/) in Cusco, Peru, useful information to react to emergencies in mountain environments. He [commented](https://www.openstreetmap.org/user/Caminando%20Cusco/diary/400473):
 
-> the dialogue tables were important to find out what is being done with OSM on the subject of risk management and to learn more about the Latin American region with the development of selective mappings according to the specialties of the speakers. I emphasize that the workshops were interesting, \[especially\] because the event allowed us to talk more widely about the topics presented with the speakers, these conversations allowed us to broaden the topic as well as apply it to the particular interests of each participant.
+> The dialogue tables were important to find out what is being done with OSM on the subject of risk management and to learn more about the Latin American region with the development of selective mappings according to the specialties of the speakers. I emphasize that the workshops were interesting, \[especially\] because the event allowed us to talk more widely about the topics presented with the speakers, these conversations allowed us to broaden the topic as well as apply it to the particular interests of each participant.
 
 Another of the exhibitors, the Argentine [Emilio Mariscal](https://www.hotosm.org/people/emilio-mariscal/), Engineer of the HOT Technical Team, spoke about the use of collaborative mapping in forest fires. Regarding the event he [adds](https://www.openstreetmap.org/user/suricata88/diary/400555):
 
