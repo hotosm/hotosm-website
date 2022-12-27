@@ -39,7 +39,7 @@ On this occasion, the organizing team had been preparing for a few months. In Ju
 
 Finally, after months of coordination, on November 24 we gathered guests, attendees and organizers for the planned days of conferences, workshops and field trips that resulted in four days of learning, reflection and sharing, but especially in terms of creating a sense of community around open mapping and the various approaches that can be given.
 
-Telling everything that happened those days would be very long, but I share what for me were the most remarkable points of the event:
+Some of the highlights of the event included:
 
 * The interest of several of the participants in involving drones in their different strategies and training/mapping plans.
 
