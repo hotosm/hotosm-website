@@ -23,7 +23,7 @@ Country:
 - Peru
 ---
 
-HOT was born as a response to disasters, and although they cannot be avoided, prevention work can be done to minimize losses. This is what specialists refer to as [risk management](https://en.wikipedia.org/wiki/Risk_management) and it is a subject that is worked on a lot in the OpenStreetMap community since having detailed information on the terrain and the environment of a region can be useful for decision-making in emergency situations.
+HOT was founded in response to disasters, and while they can't be avoided, prevention measures can be taken to minimize losses. This is what specialists refer to as [risk management](https://en.wikipedia.org/wiki/Risk_management) and it is a subject that is worked on a lot in the OpenStreetMap community since having detailed information on the terrain and the environment of a region can be useful for decision-making in emergency situations.
 
 Aware of this need, the [OSM Peru](https://osmpe.org/) community together with the San Marcos University ([UNMSM](https://unmsm.edu.pe/)) organized -from November 24 to 27, 2022- the event called [Grassroot disaster risk management and OpenStreetMap LATAM 2022](https://osmpe.org/grd-osm-latam-2022/), which also had HOT’s support through the [unSummit 2022](https://www.hotosm.org/updates/first-hot-unsummit-event-collaborations-announced/) program.
 
