@@ -47,7 +47,7 @@ Telling everything that happened those days would be very long, but I share what
 
 * The immersion into the diversity of national problems that was possible due to the variety of attendees and speakers.
 
-In short, it was a very good event that allowed the local OSM community to expand and grow not only in terms of number of members but also in a variety of projects and scope in the short and medium term. In addition, the long-term impact that an event of this type has on the attendees, especially on young people, is something of infinite possibilities.
+In short, it was a very good event that allowed the local OSM community to expand and grow not only in terms of number of members but also in a variety of projects and scope in the short and medium term. In addition, having a long-term impact on attendees, especially young people, is limitless in terms of the potential possibilities.
 
 ![dia 3.jpg](/uploads/dia%203.jpg)
 
