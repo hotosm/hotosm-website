@@ -8,6 +8,9 @@ Summary Text: 'Open Mapping Hub Asia-Pacific (OMHAP) aims to support OpenStreetM
   when data quality review is a regular task.
 
 '
+Person:
+- Dinar Adiatma
+- Risham Habib
 ---
 
 As a crowd-sourced data project, OpenStreetMap is reliant on volunteers, from a variety of backgrounds, to contribute and maintain the data. This can lead to potential gaps in the quality of the data, as there is no centralized process for verifying or correcting the information that is contributed. This can lead to inaccuracies or inconsistencies in the data, making it difficult to use confidently. Additionally, depending on the level of volunteer participation in those areas, there may be gaps in coverage or incomplete fixed data issues. This can limit the data's usefulness for certain applications such as mapping, analysis, research, and so on.  To address these issues and increase the number of contributors, a low-barrier methodology for improving the quality of OpenStreetMap data is required. Finally, it can assist OpenStreetMap communities in maintaining and improving OpenStreetMap data in their own areas.
