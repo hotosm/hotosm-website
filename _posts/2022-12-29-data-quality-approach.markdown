@@ -23,11 +23,11 @@ AP Hub methodology for enhancing the quality of OpenStreetMap data includes:
 * Boost the number of experienced mappers who routinely resolve data quality issues. 
 * Help partners and communities with open mapping for their particular data requirements, such as in [HOT's Impact Areas](https://www.hotosm.org/impact-areas/).
  
-Regional Approach to Improve OpenStreetMap Data Quality
+# Regional Approach to Improve OpenStreetMap Data Quality
 
-**Data Quality Assurance:** [Review the OpenStreetMap data](https://learnosm.org/en/coordination/review/#reviewing-osm-data) to identify, minimize, and avoid recurring data quality issues. JOSM validator is in nearly all aspects the most powerful and the most useful validator available for mappers. For more [issue detection in JOSM](https://wiki.openstreetmap.org/wiki/JOSM/Validator) there is an option to activate [JOSM Validator](https://ibb.co/PcszTCS). Communities can address identified issues in order to encourage people to validate and improve their abilities via gamification using [Osmose data](https://wiki.openstreetmap.org/wiki/Osmose) in [MapRoulette](https://www.maproulette.org/browse/challenges). Please bear in mind do not map for validator tools, it has false positives. Only fix real errors which you understand and know how to improve correctly.
+## **Data Quality Assurance:** [Review the OpenStreetMap data](https://learnosm.org/en/coordination/review/#reviewing-osm-data) to identify, minimize, and avoid recurring data quality issues. JOSM validator is in nearly all aspects the most powerful and the most useful validator available for mappers. For more [issue detection in JOSM](https://wiki.openstreetmap.org/wiki/JOSM/Validator) there is an option to activate [JOSM Validator](https://ibb.co/PcszTCS). Communities can address identified issues in order to encourage people to validate and improve their abilities via gamification using [Osmose data](https://wiki.openstreetmap.org/wiki/Osmose) in [MapRoulette](https://www.maproulette.org/browse/challenges). Please bear in mind do not map for validator tools, it has false positives. Only fix real errors which you understand and know how to improve correctly.
 
-**How To Ensure Data Quality in Mapping Events/Activities: **
+## **How To Ensure Data Quality in Mapping Events/Activities: **
 Although initially supported by individuals, the continued growth and popularity of OpenStreetMap has also given rise to [organized mapping efforts](https://wiki.openstreetmap.org/wiki/Organised_Editing_Guidelines) companies, academics, local organizations, etc. geared towards working on OSM. Checklists [are being used](https://docs.google.com/spreadsheets/d/1SzXXzaHJEAsSaoogUOX8fdLZR8GGSEi9kr26pVFqhZc/edit?pli=1#gid=302276057) to assist in data quality checks for data contributions. For this kind of activity, can use these additional steps
 
 * Pre-event. Focus to check the existing OpenStreetMap data and prepare public documentation.
