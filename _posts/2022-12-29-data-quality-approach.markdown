@@ -25,21 +25,22 @@ AP Hub methodology for enhancing the quality of OpenStreetMap data includes:
  
 # Regional Approach to Improve OpenStreetMap Data Quality
 
-## **Data Quality Assurance:**[Review the OpenStreetMap data](https://learnosm.org/en/coordination/review/#reviewing-osm-data) to identify, minimize, and avoid recurring data quality issues. JOSM validator is in nearly all aspects the most powerful and the most useful validator available for mappers. For more [issue detection in JOSM](https://wiki.openstreetmap.org/wiki/JOSM/Validator) there is an option to activate [JOSM Validator](https://ibb.co/PcszTCS). Communities can address identified issues in order to encourage people to validate and improve their abilities via gamification using [Osmose data](https://wiki.openstreetmap.org/wiki/Osmose) in [MapRoulette](https://www.maproulette.org/browse/challenges). Please bear in mind do not map for validator tools, it has false positives. Only fix real errors which you understand and know how to improve correctly.
+**Data Quality Assurance:**
+[Review the OpenStreetMap data](https://learnosm.org/en/coordination/review/#reviewing-osm-data) to identify, minimize, and avoid recurring data quality issues. JOSM validator is in nearly all aspects the most powerful and the most useful validator available for mappers. For more [issue detection in JOSM](https://wiki.openstreetmap.org/wiki/JOSM/Validator) there is an option to activate [JOSM Validator](https://ibb.co/PcszTCS). Communities can address identified issues in order to encourage people to validate and improve their abilities via gamification using [Osmose data](https://wiki.openstreetmap.org/wiki/Osmose) in [MapRoulette](https://www.maproulette.org/browse/challenges). Please bear in mind do not map for validator tools, it has false positives. Only fix real errors which you understand and know how to improve correctly.
 
-## How To Ensure Data Quality in Mapping Events/Activities: 
+**How To Ensure Data Quality in Mapping Events/Activities:** 
 Although initially supported by individuals, the continued growth and popularity of OpenStreetMap has also given rise to [organized mapping efforts](https://wiki.openstreetmap.org/wiki/Organised_Editing_Guidelines) companies, academics, local organizations, etc. geared towards working on OSM. Checklists [are being used](https://docs.google.com/spreadsheets/d/1SzXXzaHJEAsSaoogUOX8fdLZR8GGSEi9kr26pVFqhZc/edit?pli=1#gid=302276057) to assist in data quality checks for data contributions. For this kind of activity, can use these additional steps
 
 * Pre-event. Focus to check the existing OpenStreetMap data and prepare public documentation.
 * During the event. Focus to provide early warning for any questionable editing and prevent it from repeating. 
 * Post-event. Validate the mapping result, maintain all feedback (changeset discussion, Tasking Manager discussion, etc), and update the public documentation.
 
-## **Building better mapping resources** by providing resources, tools, and training to create good data in the first place.
+**Building better mapping resources** by providing resources, tools, and training to create good data in the first place.
 
 * HOT [Data Models](https://docs.google.com/spreadsheets/d/1BC9OIk_dDwoST5Kck8MNKRt7mFBtbscMjjWh9S_Ukp4/edit#gid=1192360458) to cover the most common features mapped in OpenStreetMap across [HOT's five impact areas.](https://www.hotosm.org/impact-areas/)	
 * Encourage Tasking Manager [onboarding](https://docs.google.com/presentation/d/1YwTZB0NddACTTUAYntRRSZvkYkG6GkgHJNFL8nXvOtg/edit#slide=id.g60deeebf61_0_0gers) for new project’s manager and author in Tasking Manager. 
 * Advanced training for mappers to increase capacity for mappers to do complex editing and validation. Some ideas for training sessions include, but not limited to : backup JOSM setting, [Sandbox for editing](https://wiki.openstreetmap.org/wiki/Sandbox_for_editing#Experiment_with_the_API_(advanced)), [Data History](https://wiki.openstreetmap.org/wiki/Quality_assurance#Monitoring_tools), and [Plugin Reverter](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Reverter). 
 
-* Transparency: Participate in the OpenStreetMap community by sharing mapping activity on the platform using the [changeset discussion](https://blog.openstreetmap.org/2014/11/02/introducing-changeset-discussions/), OpenStreetMap Wiki, OpenStreetMap channel, etc. As part of the OpenStreetMap community, also being proactive with the existing quality assurance tools could help the development of community-driven tools. You can contribute by submitting ideas or reporting bugs to the developer team.
+**Transparency:** Participate in the OpenStreetMap community by sharing mapping activity on the platform using the [changeset discussion](https://blog.openstreetmap.org/2014/11/02/introducing-changeset-discussions/), OpenStreetMap Wiki, OpenStreetMap channel, etc. As part of the OpenStreetMap community, also being proactive with the existing quality assurance tools could help the development of community-driven tools. You can contribute by submitting ideas or reporting bugs to the developer team.
 
 For more information, please see this [OSM Wiki page](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_-_Asia_Pacific/Data_Quality_Approach).
