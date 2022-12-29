@@ -2,7 +2,7 @@
 title: Data Quality Approach
 date: 2022-12-29 11:10:00 Z
 published: false
-Summary Text: 'Open Mapping Hub Asia-Pacific (OMHAP) aims to support OpenStreetMap
+Summary Text: 'Open Mapping Hub Asia-Pacific (AP Hub) aims to support OpenStreetMap
   (OSM) and open mapping initiatives in the region as part of our efforts to advance
   this movement. OMHAP also offers a method for enhancing the quality of data on OpenStreetMap
   when data quality review is a regular task.
@@ -38,8 +38,8 @@ Although initially supported by individuals, the continued growth and popularity
 
 * HOT [Data Models](https://docs.google.com/spreadsheets/d/1BC9OIk_dDwoST5Kck8MNKRt7mFBtbscMjjWh9S_Ukp4/edit#gid=1192360458) to cover the most common features mapped in OpenStreetMap across [HOT's five impact areas.](https://www.hotosm.org/impact-areas/)	
 * Encourage Tasking Manager [onboarding](https://docs.google.com/presentation/d/1YwTZB0NddACTTUAYntRRSZvkYkG6GkgHJNFL8nXvOtg/edit#slide=id.g60deeebf61_0_0gers) for new project’s manager and author in Tasking Manager. 
-* Advanced training for mappers to increase capacity for mappers to do complex editing and validation. Some ideas for training sessions include, but not limited to : backup JOSM setting, Sandbox for editing, Data History, and Plugin Reverter. 
+* Advanced training for mappers to increase capacity for mappers to do complex editing and validation. Some ideas for training sessions include, but not limited to : backup JOSM setting, [Sandbox for editing](https://wiki.openstreetmap.org/wiki/Sandbox_for_editing#Experiment_with_the_API_(advanced)), [Data History](https://wiki.openstreetmap.org/wiki/Quality_assurance#Monitoring_tools), and [Plugin Reverter](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Reverter). 
 
-* Transparency: Participate in the OpenStreetMap community by sharing mapping activity on the platform using the changeset discussion, OpenStreetMap Wiki, OpenStreetMap channel, etc. As part of the OpenStreetMap community, also being proactive with the existing quality assurance tools could help the development of community-driven tools. You can contribute by submitting ideas or reporting bugs to the developer team.
+* Transparency: Participate in the OpenStreetMap community by sharing mapping activity on the platform using the [changeset discussion](https://blog.openstreetmap.org/2014/11/02/introducing-changeset-discussions/), OpenStreetMap Wiki, OpenStreetMap channel, etc. As part of the OpenStreetMap community, also being proactive with the existing quality assurance tools could help the development of community-driven tools. You can contribute by submitting ideas or reporting bugs to the developer team.
 
-For more information, please see this OSM Wiki page.
+For more information, please see this [OSM Wiki page](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_-_Asia_Pacific/Data_Quality_Approach).
