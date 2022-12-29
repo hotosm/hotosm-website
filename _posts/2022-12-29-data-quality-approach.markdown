@@ -17,7 +17,7 @@ As a crowd-sourced data project, OpenStreetMap (OSM) is reliant on volunteers, f
 
 Additionally, depending on the level of volunteer participation in those areas, there may be gaps in coverage or incomplete fixed data issues. This can limit the data's usefulness for certain applications such as mapping, analysis, research, and so on.  To address these issues and increase the number of contributors, a low-barrier methodology for improving the quality of OpenStreetMap data is required. Finally, it can assist OpenStreetMap communities in maintaining and improving OSM data in their own areas.
 
-Open Mapping Hub Asia-Pacific (AP Hub) aims to support OpenStreetMap (OSM) and open mapping initiatives in the region as part of our efforts to advance this movement. AP Hub also offers a method for enhancing the quality of data on OpenStreetMap when data quality review is a regular task.
+> Open Mapping Hub Asia-Pacific (AP Hub) aims to support OpenStreetMap (OSM) and open mapping initiatives in the region as part of our efforts to advance this movement. AP Hub also offers a method for enhancing the quality of data on OpenStreetMap when data quality review is a regular task.
 AP Hub methodology for enhancing the quality of OpenStreetMap data includes:
 
 * Boost the number of experienced mappers who routinely resolve data quality issues. 
