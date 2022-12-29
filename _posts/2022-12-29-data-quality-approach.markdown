@@ -20,10 +20,11 @@ Additionally, depending on the level of volunteer participation in those areas, 
 > Open Mapping Hub Asia-Pacific (AP Hub) aims to support OpenStreetMap (OSM) and open mapping initiatives in the region as part of our efforts to advance this movement. AP Hub also offers a method for enhancing the quality of data on OpenStreetMap when data quality review is a regular task.
 AP Hub methodology for enhancing the quality of OpenStreetMap data includes:
 
-* Boost the number of experienced mappers who routinely resolve data quality issues. 
+> * Boost the number of experienced mappers who routinely resolve data quality issues. 
 * Help partners and communities with open mapping for their particular data requirements, such as in [HOT's Impact Areas](https://www.hotosm.org/impact-areas/).
  
 # Regional Approach to Improve OpenStreetMap Data Quality
+
 
 **Data Quality Assurance:**
 [Review the OpenStreetMap data](https://learnosm.org/en/coordination/review/#reviewing-osm-data) to identify, minimize, and avoid recurring data quality issues. JOSM validator is in nearly all aspects the most powerful and the most useful validator available for mappers. For more [issue detection in JOSM](https://wiki.openstreetmap.org/wiki/JOSM/Validator) there is an option to activate [JOSM Validator](https://ibb.co/PcszTCS). Communities can address identified issues in order to encourage people to validate and improve their abilities via gamification using [Osmose data](https://wiki.openstreetmap.org/wiki/Osmose) in [MapRoulette](https://www.maproulette.org/browse/challenges). Please bear in mind do not map for validator tools, it has false positives. Only fix real errors which you understand and know how to improve correctly.
