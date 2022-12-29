@@ -34,7 +34,7 @@ Although initially supported by individuals, the continued growth and popularity
 * During the event. Focus to provide early warning for any questionable editing and prevent it from repeating. 
 * Post-event. Validate the mapping result, maintain all feedback (changeset discussion, Tasking Manager discussion, etc), and update the public documentation.
 
-**Building better mapping resources** by providing resources, tools, and training to create good data in the first place.
+## **Building better mapping resources** by providing resources, tools, and training to create good data in the first place.
 
 * HOT [Data Models](https://docs.google.com/spreadsheets/d/1BC9OIk_dDwoST5Kck8MNKRt7mFBtbscMjjWh9S_Ukp4/edit#gid=1192360458) to cover the most common features mapped in OpenStreetMap across [HOT's five impact areas.](https://www.hotosm.org/impact-areas/)	
 * Encourage Tasking Manager [onboarding](https://docs.google.com/presentation/d/1YwTZB0NddACTTUAYntRRSZvkYkG6GkgHJNFL8nXvOtg/edit#slide=id.g60deeebf61_0_0gers) for new project’s manager and author in Tasking Manager. 
