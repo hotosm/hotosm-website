@@ -19,7 +19,6 @@ Additionally, depending on the level of volunteer participation in those areas, 
 
 Open Mapping Hub Asia-Pacific (AP Hub) aims to support OpenStreetMap (OSM) and open mapping initiatives in the region as part of our efforts to advance this movement. AP Hub also offers a method for enhancing the quality of data on OpenStreetMap when data quality review is a regular task.
 AP Hub methodology for enhancing the quality of OpenStreetMap data includes:
-
 * Boost the number of experienced mappers who routinely resolve data quality issues. 
 * Help partners and communities with open mapping for their particular data requirements, such as in [HOT's Impact Areas](https://www.hotosm.org/impact-areas/).
  
