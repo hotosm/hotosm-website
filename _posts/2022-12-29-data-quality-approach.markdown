@@ -1,7 +1,6 @@
 ---
 title: Data Quality Approach
 date: 2022-12-29 11:10:00 Z
-published: false
 Summary Text: 'Open Mapping Hub Asia-Pacific (AP Hub) aims to support OpenStreetMap
   (OSM) and open mapping initiatives in the region as part of our efforts to advance
   this movement. AP Hub also offers a method for enhancing the quality of data on
