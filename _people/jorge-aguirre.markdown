@@ -10,6 +10,6 @@ Team: Collaborators Alpha stage - Latam Hub (experimental period prior to the cr
 Hub: LATAM Alpha
 ---
 
-I am from Guatemala, where I've lived in for most of my life. I have also resided in the USA where I learned to speak English & went to school. I enjoy editing on OSM, which I have been doing since 2015, and now try to teach others how to map correctly. I had already heard of HOT before and had contributed with it in several different forms. Now I am excited to be a part of it.
+I am from Guatemala, where I've lived for most of my life. I have also resided in the USA where I learned to speak English & went to school. I enjoy editing on OSM, which I have been doing since 2015, and now try to teach others how to map correctly. I had already heard of HOT before and had contributed to it in several different forms. Now I am excited to be a part of it by collaborating and being a part of the formation of the HOT - Latam HUB, and other projects which are currently taking place through HOT’s efforts in Guatemala.
 
-I find it fascinating to travel and learn about other cultures in general, and have had the opportunity to do so, having already visited many countries in almost all continents around the globe, while obtaining imagery to edit OSM from.
+I find it fascinating to travel and learn about other cultures in general and have had the opportunity to do so, having already visited many countries in almost all continents around the globe, while obtaining imagery to edit OSM from.
