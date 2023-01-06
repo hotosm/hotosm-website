@@ -9,8 +9,8 @@ Team: Collaborators Alpha stage - Latam Hub (experimental period prior to the cr
   of HOT Hub in Latin America)
 ---
 
-Juan is a former mainframe programmer who worked for 12 years in systems development in COBOL and RPGII. Later he served in various positions in the peruvian public administration, reaching the managerial level. After several years dedicated to a family business, with some friends created Blogsperu.com, the first blogs directory in Peru. He then becomes part of Global Voices, an international community of bloggers, journalists, and activists, where he was in charge of the Spanish version of the web, for what he built a team of volunteer translators and made various strategic alliances with other organizations. 
+Juan is a former mainframe programmer who worked for 12 years in systems development in COBOL and RPGII. Later he served in various positions in the Peruvian public administration, reaching the managerial level. After several years dedicated to a family business, some friends created Blogsperu.com, the first blogs directory in Peru. He then becomes part of Global Voices, an international community of bloggers, journalists, and activists, where he was in charge of the Spanish version of the web, for which he built a team of volunteer translators and made various strategic alliances with other organizations. 
 
-Besides this, he has collaborated with orgs such as Bertelsmann Stiftung, Open Society Foundations and projects such as Tactical Tech and The Engine Room. 
+Besides this, he has collaborated with orgs such as Bertelsmann Stiftung, Open Society Foundations, The Engine Room, and projects such as Tactical Tech and Periodismo Ciudadano.
 
-For almost a year now he has been running the @esopenstreetmap Twitter account in a volunteer capacity, this Spanish language account spreads news from the OpenStreetMap world and related things. He also translates the official OSM blog posts into Spanish.
+For more than a year now he has been running the @esopenstreetmap Twitter account and translates the official OSM blog posts into Spanish in a volunteer capacity. In the Hub, he is in permanent search of people and orgs interested in open mapping and with the capacity of being new actors of the OSM ecosystem in the region. He also writes blog posts and manages the Hub’s social networks.
