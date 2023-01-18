@@ -1,6 +1,7 @@
 ---
 title: Janet Ntabo
 date: 2021-05-20 20:32:00 Z
+published: false
 Photo: "/uploads/Janet%20Pic.jpeg"
 Member Type:
   Is Staff: true
