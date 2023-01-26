@@ -86,4 +86,3 @@ Beyond the Salary Framework, HOT provides additional support tailored to an indi
 * Equipment allowance based on justified need
 * Book stipend
 * Learning & development opportunities
-* Professional coaching sessions through the [Humanitarian Coaching Network](http://www.thehcn.org/)
