@@ -1,0 +1,19 @@
+---
+title: 'Türkiye/Syria: Earthquakes - Feb 2023 Alert'
+date: 2023-02-06 17:44:00 Z
+Glide: EQ-2023-000015-TUR
+Event Name: M 7.8 in Türkiye on 06 Feb 2023
+GDACS ID: EQ 1357372
+GDACS-level: Red (3.7)
+Country:
+- Turkey
+- Syria
+Event type: EQ Earthquake
+Summary Text: 'High humanitarian impact, magnitude 7.8 earthquake. '
+Feature Image: EQ Earthquake
+Status: alert
+Post-type: update
+source: <a href="https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1357372" target="_blank">GDACS</a>
+---
+
+"A strong earthquake of 7.8 M (7.4 as reported by Disaster and Emergency Management Presidency - AFAD) at a depth of 18 km occurred on 6 February at 1.17 UTC (4.17 local time) in southern Türkiye, close to the border with northern Syria. The epicentre was located in Atalar town (Gaziantep Province, Southeastern Anatolia Region), and about 45 km north of the northern border of Aleppo Governorate in Syria." ECHO
