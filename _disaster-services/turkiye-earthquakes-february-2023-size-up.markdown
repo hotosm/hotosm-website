@@ -2,7 +2,7 @@
 title: Türkiye Earthquakes February 2023 Size-up
 date: 2023-02-06 18:56:00 Z
 Glide: EQ-2023-000015-TUR
-Event Name: Türkiye Earthquakes February 2023
+Event Name: M 7.8 in Türkiye on 06 Feb 2023
 GDACS ID: EQ 1357372
 GDACS-level: Red (3.7)
 Country:
