@@ -12,7 +12,7 @@ Summary Text: This is in activation led by Yer Çizenler for the earthquake in C
 Feature Image: EQ Earthquake
 Post-type: timeline
 Campaign: Türkiye Earthquakes February 2023
-Tracking: turkiyeeq060223
+Tracking: türkiyeeq060223
 Report: available
 ---
 
