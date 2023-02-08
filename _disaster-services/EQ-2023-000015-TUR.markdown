@@ -1,5 +1,5 @@
 ---
-title: 'Türkiye/Syria: Earthquakes - Feb 2023 Alert'
+title: Turkey and Syria Earthquake Response February 2023 Alert
 date: 2023-02-06 17:44:00 Z
 Glide: EQ-2023-000015-TUR
 Event Name: M 7.8 in Türkiye on 06 Feb 2023

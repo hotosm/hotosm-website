@@ -1,5 +1,5 @@
 ---
-title: Türkiye Earthquakes February 2023 Activation
+title: Turkey and Syria Earthquake Response February 2023 Activation
 date: 2023-02-06 22:15:00 Z
 Glide: EQ-2023-000015-TUR
 Event Name: M 7.8 in Türkiye on 06 Feb 2023
