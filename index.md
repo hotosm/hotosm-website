@@ -3,11 +3,11 @@ title: Home
 position: 0
 Banner:
   Is Activated: true
-  Main Block: HOT unSUMMIT 2022
-  Secondary Block: Bringing together communities, partners, and supporters around
-    open mapping, OpenStreetMap, humanitarian response, and social impact.
+  Main Block: Turkey and Syria Earthquake Response
+  Secondary Block: You can map in Turkey and Syria to support the earthquake response
+    via the HOT Tasking Manager
   Link Copy: 
-  URL: https://stories.hotosm.org/2022-hot-unsummit
+  URL: https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
 Project:
 - Satellite Imagery for Social Good
 - 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin America
