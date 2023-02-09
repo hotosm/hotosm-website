@@ -4,8 +4,8 @@ position: 0
 Banner:
   Is Activated: true
   Main Block: Turkey and Syria Earthquake Response
-  Secondary Block: You can map in Turkey and Syria to support the earthquake response
-    via the HOT Tasking Manager
+  Secondary Block: Click this banner to go to the HOT Tasking Manager projects supporting
+    the earthquake response in Turkey and Syria.
   Link Copy: 
   URL: https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
 Project:
