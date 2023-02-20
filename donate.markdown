@@ -6,7 +6,10 @@ position: 13
 layout: donate
 ---
 
-Millions of people around the world are still not represented on maps. Voices of local communities are unheard, as they are left out in access to basic services like health or education, and are not included in relief operations when disasters strike. Mapping has enabled all individuals and communities to utilize technology for local development and to create a community of mappers by teaching and sharing information.
+Gaps in data result in gaps in community equity, humanitarian response and public policy. HOT envisions a world where communities are an inherent part of local solutions. Our role as a catalyst is to mobilize the open-mapping movement to mitigate these gaps. We are achieving this through engagement with local communities to collect and save open source data.
 
-For the past two years, you’ve enabled us to provide Microgrants in 20 countries. We’ve seen the impact of this program not just on communities, but the Micrograntees themselves; the individuals, the local leaders who have been empowered to flourish into local leaders, working with endless dedication to make sure that their communities, their neighborhoods and their people have access to relevant tools, data and training to be able to thrive. This year we’re #mappingthedifference with local leaders.
+Millions of people around the world are still not represented on maps. As a result, their voices are not heard and they are left out of access to basic services and are not included in relief operations when disasters strike.
 
+Mapping enables individuals and communities to leverage technology for local development, and helps decision-makers to respond to disasters and better allocate resources to the improvement of public health, water, sanitation and hygiene, early childhood development and education, infrastructure, and to better reach target communities.
+
+Since 2017 your generous support has enabled us to provide Open Mapping Grants, tools and training to open mapping communities around the world. We’ve seen the remarkable impact of this program not just on local communities, but the grantees themselves. These dedicated local leaders work tirelessly to make sure that their communities are visible on the map, and that maps are used for impact.
