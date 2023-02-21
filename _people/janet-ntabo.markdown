@@ -4,7 +4,7 @@ date: 2021-05-20 20:32:00 Z
 published: false
 Photo: "/uploads/Janet%20Pic.jpeg"
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Operations & HR Associate - Eastern and Southern Africa
 Country: Kenya
 Team: Eastern and Southern Africa Hub

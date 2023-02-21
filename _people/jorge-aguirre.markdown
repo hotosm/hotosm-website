@@ -1,9 +1,10 @@
 ---
 title: Jorge Aguirre
 date: 2022-04-28 10:32:00 Z
+published: false
 Photo: "/uploads/IMG_2431.jpg"
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Field Mapping projects Coordinator
 Team: Collaborators Alpha stage - Latam Hub (experimental period prior to the creation
   of HOT Hub in Latin America)
