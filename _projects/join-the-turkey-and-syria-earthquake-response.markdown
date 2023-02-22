@@ -14,7 +14,7 @@ tm_campaigns:
 - https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
 ---
 
-<div style="text-align: left">### How to participate as a beginner mapper:
+### How to participate as a beginner mapper:
 
 The best way to learn how to contribute to the response if you are a beginner is to join a community mapathon. You can find them on the [OSM wiki](https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes#Community_Mapathons) or on [the OSM calendar](https://osmcal.org/).
 
@@ -44,4 +44,4 @@ If you are an advanced mapper and would like to join the HOT Global Validators T
 
 * Download [datasets of the affected areas from HDX](https://data.humdata.org/event/turkiye-syria-earthquakes). Datasets are regularly updated with new data from the OSM mapping above.
 
-Visit the [Turkey and Syria Earthquake Response Activation page](https://www.hotosm.org/disaster-services/turkiye-earthquakes-february-2023-activation/) for more details and statistics on the mapping response.</div>
+Visit the [Turkey and Syria Earthquake Response Activation page](https://www.hotosm.org/disaster-services/turkiye-earthquakes-february-2023-activation/) for more details and statistics on the mapping response.
