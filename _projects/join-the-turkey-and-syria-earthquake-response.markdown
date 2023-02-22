@@ -35,6 +35,7 @@ The priorities for validation on the HOT tasking manager are currently:
 
 * [MISSING MAPS - EARTHQUAKE SYRIA, ALEPPO, MOUNT SIMEON DISTRICT](https://tasks.hotosm.org/projects/14232)
 * [MISSING MAPS - EARTHQUAKE SYRIA, AFRIN DISTRICT](https://tasks.hotosm.org/projects/14245)
+
 If you are an advanced mapper and would like to join the HOT Global Validators Team, [please fill in your details here](http://bit.ly/HOTValidators).
 
 ### Where to find data:
