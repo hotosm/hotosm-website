@@ -20,7 +20,7 @@ tm_campaigns:
 * Join the [HOTOSM slack channels](https://slack.hotosm.org/) for #disastermapping and #mappersupport
 
 ## How to participate as an intermediate or advanced mapper:
-* Map [campaign tasks](https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023) on the Tasking Manager
+* Map [tasks](https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023) on the Tasking Manager campaign for this response.
 
 ## Where to find data:
 * Download [datasets of the affected areas from HDX](https://data.humdata.org/event/turkiye-syria-earthquakes). Datasets are regularly updated with new data from the OSM mapping above.
