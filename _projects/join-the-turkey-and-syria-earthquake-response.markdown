@@ -15,6 +15,7 @@ tm_campaigns:
 ---
 
 # How to participate as a beginner mapper:
+
 The best way to learn how to contribute to the response if you are a beginner is to join a community mapathon. You can find them on the [OSM wiki](https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes#Community_Mapathons) or on [the OSM calendar](https://osmcal.org/).
 * Use the [MapRoulette challenges of Yer Çizenler](https://maproulette.org/browse/challenges/37609) to tag the collapsed buildings from verified datasets. (Challenges not always available. Check back regularly.)
 * Join the [HOTOSM slack channels](https://slack.hotosm.org/) for #disastermapping and #mappersupport
