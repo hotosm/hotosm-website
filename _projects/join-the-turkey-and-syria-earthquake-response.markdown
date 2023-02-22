@@ -26,7 +26,7 @@ You can also find support and advice on the [HOTOSM slack channels](https://slac
 
 The priorities for mapping on the HOT tasking manager are currently:
 
-* [MISSING MAPS - EARTHQUAKE SYRIA, HAREM DISTRICT](https://tasks.hotosm.org/projects/14246) on the Tasking Manager campaign for this response.
+* [MISSING MAPS - EARTHQUAKE SYRIA, HAREM DISTRICT](https://tasks.hotosm.org/projects/14246) 
 * [MISSING MAPS - EARTHQUAKE SYRIA, LATAKIA DISTRICT](https://tasks.hotosm.org/projects/14230)
 
 # If you are already an experienced validator...
