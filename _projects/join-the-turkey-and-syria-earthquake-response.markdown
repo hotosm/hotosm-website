@@ -19,8 +19,16 @@ tm_campaigns:
 * Use the [MapRoulette challenges of Yer Çizenler](https://maproulette.org/browse/challenges/37609) to tag the collapsed buildings from verified datasets. (Challenges not always available. Check back regularly.)
 * Join the [HOTOSM slack channels](https://slack.hotosm.org/) for #disastermapping and #mappersupport
 
-## How to participate as an intermediate or advanced mapper:
-* Map [tasks](https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023) on the Tasking Manager campaign for this response.
+## If you are already an intermediate or advanced mapper...
+The priorities for mapping on the HOT tasking manager are currently:
+* [MISSING MAPS - EARTHQUAKE SYRIA, HAREM DISTRICT](https://tasks.hotosm.org/projects/14246) on the Tasking Manager campaign for this response.
+* [MISSING MAPS - EARTHQUAKE SYRIA, LATAKIA DISTRICT](https://tasks.hotosm.org/projects/14230)
+
+## If you are already an experienced validator...
+The priorities for validation on the HOT tasking manager are currently:
+* [MISSING MAPS - EARTHQUAKE SYRIA, ALEPPO, MOUNT SIMEON DISTRICT](https://tasks.hotosm.org/projects/14232)
+* [MISSING MAPS - EARTHQUAKE SYRIA, AFRIN DISTRICT](https://tasks.hotosm.org/projects/14245)
+If you are an advanced mapper and would like to join the HOT Global Validators Team, [please fill in your details here](http://bit.ly/HOTValidators).
 
 ## Where to find data:
 * Download [datasets of the affected areas from HDX](https://data.humdata.org/event/turkiye-syria-earthquakes). Datasets are regularly updated with new data from the OSM mapping above.
