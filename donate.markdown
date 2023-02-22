@@ -4,7 +4,7 @@ date: 2018-02-06 15:16:00 Z
 permalink: "/donate/"
 position: 13
 Summary Text: If you are an organization and would like to contribute to HOT's mission-critical
-  work to partner with local communities, please reach out to donations@hotosm.org
+  work to partner with local communities, please reach out to <a href="mailto:donations@hotosm.org">donations@hotosm.org</a>
 layout: donate
 ---
 

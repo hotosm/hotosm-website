@@ -7,6 +7,10 @@ layout: default
   <header class="page-header">
     <h1 class="secondary-h1">{{ page.title }}</h1>
     <div class="hr-h donate-hr"></div>
+
+    {% if page['Summary Text'] %}
+      <h4 class="news-summary">{{ page['Summary Text'] }}</h4> 
+    {% endif %}
   </header>
 
   <div class="donate-body">
@@ -17,7 +21,8 @@ layout: default
 
     <div class="donate-content">
       <div class="donate-video">
-        <iframe src="https://www.youtube.com/embed/NFjREalqx48" frameborder="0" width="100%" height="240"></iframe>
+        <img src="/uploads/Zeze.jpg" alt="Photo courtesy of Crowd2Map, Tanzania">
+        <h5>Photo courtesy of Crowd2Map, Tanzania</h5>
       </div>
       {{ content }}
       <div class="donate-sidebar sticky-wrap">
