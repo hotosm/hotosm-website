@@ -17,18 +17,22 @@ tm_campaigns:
 # How to participate as a beginner mapper:
 
 The best way to learn how to contribute to the response if you are a beginner is to join a community mapathon. You can find them on the [OSM wiki](https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes#Community_Mapathons) or on [the OSM calendar](https://osmcal.org/).
-* Use the [MapRoulette challenges of Yer Çizenler](https://maproulette.org/browse/challenges/37609) to tag the collapsed buildings from verified datasets. (Challenges not always available. Check back regularly.)
-* Join the [HOTOSM slack channels](https://slack.hotosm.org/) for #disastermapping and #mappersupport
+
+You can also sontribute to the [MapRoulette challenges of Yer Çizenler](https://maproulette.org/browse/challenges/37609) to tag the collapsed buildings from verified datasets. (Challenges not always available. Check back regularly.)
+
+You can also find support and advice on the [HOTOSM slack channels](https://slack.hotosm.org/) for #disastermapping and #mappersupport 
 
 # If you are already an intermediate or advanced mapper...
 
 The priorities for mapping on the HOT tasking manager are currently:
+
 * [MISSING MAPS - EARTHQUAKE SYRIA, HAREM DISTRICT](https://tasks.hotosm.org/projects/14246) on the Tasking Manager campaign for this response.
 * [MISSING MAPS - EARTHQUAKE SYRIA, LATAKIA DISTRICT](https://tasks.hotosm.org/projects/14230)
 
 # If you are already an experienced validator...
 
 The priorities for validation on the HOT tasking manager are currently:
+
 * [MISSING MAPS - EARTHQUAKE SYRIA, ALEPPO, MOUNT SIMEON DISTRICT](https://tasks.hotosm.org/projects/14232)
 * [MISSING MAPS - EARTHQUAKE SYRIA, AFRIN DISTRICT](https://tasks.hotosm.org/projects/14245)
 If you are an advanced mapper and would like to join the HOT Global Validators Team, [please fill in your details here](http://bit.ly/HOTValidators).
