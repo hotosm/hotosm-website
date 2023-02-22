@@ -37,7 +37,7 @@ The priorities for validation on the HOT tasking manager are currently:
 * [MISSING MAPS - EARTHQUAKE SYRIA, AFRIN DISTRICT](https://tasks.hotosm.org/projects/14245)
 If you are an advanced mapper and would like to join the HOT Global Validators Team, [please fill in your details here](http://bit.ly/HOTValidators).
 
-# Where to find data:
+### Where to find data:
 
 * Download [datasets of the affected areas from HDX](https://data.humdata.org/event/turkiye-syria-earthquakes). Datasets are regularly updated with new data from the OSM mapping above.
 * Visit the [Turkey and Syria Earthquake Response Activation page](https://www.hotosm.org/disaster-services/turkiye-earthquakes-february-2023-activation/) for more details and statistics on the mapping response. 
