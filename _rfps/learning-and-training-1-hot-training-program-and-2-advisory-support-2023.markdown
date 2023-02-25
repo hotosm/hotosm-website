@@ -80,6 +80,8 @@ We have set up a new Task Team with 8-12 staff members from across the organizat
 * * Including organizations experiencing rapid growth (e.g. start-up), and remote organizations
 * Human-centered design: prototyping and testing 
 
-
-
+**Desirable:**
+* Understanding of open data / geospatial sector
+* Experience working with the key audiences identified in the RfP 
+* Experience advising organizations on Knowledge Management
 
