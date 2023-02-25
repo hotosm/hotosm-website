@@ -52,3 +52,34 @@ We hope to complete this work ready to begin creating the training content / mat
 * * Are there key regional differences we should be designing for? If so, what are these? 
 
 We are open to being advised what level of fidelity the prototypes should be for this. Existing training materials/content can be used for the prototype, with required edits.
+
+# ADVISORY SUPPORT to HOT (Learning & Training: holistic approach) 
+
+**Section 1** Training Program targets one of three key audiences HOT supports (map users). Internally, we are considering how best to support 2 key audiences (i) mappers (individuals and groups who “add to the map”) and (ii) map users (people or organizations who use maps for positive social impact or change). We need our approach to Learning & Training to be well coordinated. 
+
+**Immediate Needs (June 2022): *Part 2 scope of this RfP*
+We would like the consultant to provide advisory support to the following priorities:**
+
+* 1.) **Support HOT Program lead to consider how HOT will build & curate one ‘library’ where all training resources can be homed** to solve our logistical challenges over current training approaches. That is, where the one central repository should be, which can then be used/delivered in/point to different places depending on the audience.
+* * Review current options & propose for HOT Leadership decision [by end of April]
+* 2.) **Defining the user journeys for different mappers and map users**
+* * This is so that in future we can select a shortlist of locations where training will be provided, e.g. online course platforms, HOT’s website, etc, in order to center our users in our training choices 
+* 3.) Conduct an audit of HOT’s current internal capacity and training materials, to assess where there are gaps with regard to training and where quality can be approved 
+* * Outline which topics we are skilled to provide training in, who is able to provide those trainings, and where gaps exist.
+* * Create guidelines & share lite best practice tips so that staff can self-assess any future training initiatives or materials that are created (we are open to recommendations e.g. checklist / self-assessment framework for staff developing new content for any external audience to use) 
+* 4.) Based on 2+3, create a report which summarizes findings for 1, 2 and 3, and includes specific recommendations for how HOT can improve their own staff skills as trainers (for roles where this is a core competency). This can inform HOT planning and decisions for Y4 (Jul 2023-Jun 2024)
+
+**Now: **
+We have set up a new Task Team with 8-12 staff members from across the organization. These are roles which currently provide training to mappers and/or map users, or are exploring new learning/training related initiatives. This group meets monthly and can support additional workshops / meetings as required. They will be a key group to learn from for the above, and to engage in conducting and/or completing the above. 
+
+**Further context:** We know that several key factors affect long term mapper engagement. High quality mapper skills and expertise is one of them, therefore we are committed to investment in resources / training opportunities for ongoing contribution to the open mapping movement. The second is trust in the integrity of the data, and ability for mappers to advocate for citizen generated data to influence change in their localities. 
+
+**Required expertise:**
+* Learning & development, specializing in design and delivery of training programs (instructional design)
+* Experience working in / supporting clients in the non-profit & international development sector, in HOT’s regions / priority countries
+* * Including organizations experiencing rapid growth (e.g. start-up), and remote organizations
+* Human-centered design: prototyping and testing 
+
+
+
+
