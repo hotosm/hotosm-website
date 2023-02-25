@@ -105,17 +105,17 @@ We would consider proposals outside of this price range dependent on the rationa
 
 Send your proposal to [info@hotosm.org](send to: info@hotosm.org) with the subject line “HOT Learning & Training: Request for Proposal: <your name>”
 
-Who will you be working with on our team?
-Carly Redhead - Head of Impact Partnerships (Program Lead) - UTC timezone
-Sam Colchester - Senior Associate, Impact Partnerships
-HOT Learning & Training Task Team - staff from regional Open Mapping Hubs / functional teams as relevant (various locations)
+**Who will you be working with on our team?**
+* [Carly Redhead](https://www.linkedin.com/in/carly-redhead/) - Head of Impact Partnerships (Program Lead) - UTC timezone
+* [Sam Colchester](https://www.linkedin.com/in/sam-colchester-a5671038/) - Senior Associate, Impact Partnerships
+* **HOT Learning & Training Task Team** - staff from regional Open Mapping Hubs / functional teams as relevant (various locations)
 All staff members work remotely. 
 
-Timelines
-RfP Posted: 23rd Feb
-Closing date for questions: any questions can be sent to info@hotosm.org with the subject line "Learning & Training RfP" by 7th March
-Accepting applications until: End of Day 12th March 
-After review of proposals: we expect to host interviews with promising applicants, with a view to confirming a vendor circa 20- 22 March
+**Timelines**
+* **RfP Posted: 24th Feb**
+* **Closing date for questions:** any questions can be sent to info@hotosm.org with the subject line "Learning & Training RfP" by 7th March
+* **Accepting applications until:** End of Day 12th March 
+* **After review of proposals:** we expect to host interviews with promising applicants, with a view to confirming a vendor circa 20- 22 March
 Start date of: w/c 27 March preferable, absolute latest 3-5 Apr. 
 
 
