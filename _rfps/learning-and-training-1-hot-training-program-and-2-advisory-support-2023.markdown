@@ -85,3 +85,37 @@ We have set up a new Task Team with 8-12 staff members from across the organizat
 * Experience working with the key audiences identified in the RfP 
 * Experience advising organizations on Knowledge Management
 
+**Pricing**
+We are expecting proposals in the range of $10,000 - $30,000.
+
+We know this is a big range; we would like to see responses from individuals and larger organizations and envisage a team of 1- max 2 people. We are open to working with a team, but our understanding of the work is that it may be preferable to have 1 individual directly leading and delivering on this, and being our focal point. We want you to assess our RfP and think about what it would take for you to do the work well, and to have an open conversation about that if you get to the interview stage. We acknowledge there are 2 parts to this work that may require different skills. 
+
+We would consider proposals outside of this price range dependent on the rationale for this. If so, we encourage you to contact [info@hotosm.org](Send to: info@hotosm.org) before submitting an application. 
+
+**What do we want from you?**
+
+**A maximum 12 slide / 10 page PDF proposal that answers the following:**
+* Basic background on your firm & why you are the right individual / organization to help us do both Section 1 + 2
+* Proposed approach and timeline for delivering this work within our recommended time frames 
+* Describe your involvement and expertise in the scope above. Include 2+ examples of relevant work in your portfolio that you feel are similar scope / clients. Please demonstrate proven experience in the non-profit sector. Please include clients that you think would be comfortable providing us a reference down the line. 
+* Please describe how you manage your client relationships for this kind of work 
+* List the team member(s) who would work directly on our project and their experience + CV (CV can be in addition/appendix to the 12 slide / 10 pages)
+* Cost based on the recommended approach (or approaches) in your proposal 
+* Provide any additional information that you believe distinguishes your organization from others, or that would be relevant for us to know as we consider your response
+
+Send your proposal to [info@hotosm.org](send to: info@hotosm.org) with the subject line “HOT Learning & Training: Request for Proposal: <your name>”
+
+Who will you be working with on our team?
+Carly Redhead - Head of Impact Partnerships (Program Lead) - UTC timezone
+Sam Colchester - Senior Associate, Impact Partnerships
+HOT Learning & Training Task Team - staff from regional Open Mapping Hubs / functional teams as relevant (various locations)
+All staff members work remotely. 
+
+Timelines
+RfP Posted: 23rd Feb
+Closing date for questions: any questions can be sent to info@hotosm.org with the subject line "Learning & Training RfP" by 7th March
+Accepting applications until: End of Day 12th March 
+After review of proposals: we expect to host interviews with promising applicants, with a view to confirming a vendor circa 20- 22 March
+Start date of: w/c 27 March preferable, absolute latest 3-5 Apr. 
+
+
