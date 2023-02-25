@@ -36,7 +36,7 @@ The priorities for validation on the HOT tasking manager are currently:
 
 * [MISSING MAPS - EARTHQUAKE SYRIA, ALEPPO, MOUNT SIMEON DISTRICT](https://tasks.hotosm.org/projects/14232)
 
-* [M7.8 EARTHQUAKE TÜRKIYE, NURDAGI - PART 2](https://tasks.hotosm.org/projects/14219)
+* [M7.8 EARTHQUAKE TÜRKIYE - GAZIANTEP RESPONSE](https://tasks.hotosm.org/projects/14226)
 
 * [M7.8 EARTHQUAKE TÜRKIYE, OSMANIYE DÖRTYOL İSKENDERUN KIRIKHAN](https://tasks.hotosm.org/projects/14233)
 
