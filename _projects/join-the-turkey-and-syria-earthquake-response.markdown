@@ -28,17 +28,15 @@ The priorities for mapping on the HOT tasking manager are currently:
 
 * [M7.8 EARTHQUAKE TÜRKIYE, KILIS](https://tasks.hotosm.org/projects/14264)
 
-* [MISSING MAPS - EARTHQUAKE SYRIA, LATAKIA DISTRICT](https://tasks.hotosm.org/projects/14230)
+* [MISSING MAPS - EARTHQUAKE SYRIA, HAREM DISTRICT](https://tasks.hotosm.org/projects/14246)
 
 ### If you are already an experienced validator...
 
 The priorities for validation on the HOT tasking manager are currently:
 
-* [MISSING MAPS - EARTHQUAKE SYRIA, ALEPPO, MOUNT SIMEON DISTRICT](https://tasks.hotosm.org/projects/14232)
+* [MISSING MAPS - EARTHQUAKE SYRIA, AFRIN DISTRICT](https://tasks.hotosm.org/projects/14245)
 
-* [M7.8 EARTHQUAKE TÜRKIYE - GAZIANTEP RESPONSE](https://tasks.hotosm.org/projects/14226)
-
-* [M7.8 EARTHQUAKE TÜRKIYE, OSMANIYE DÖRTYOL İSKENDERUN KIRIKHAN](https://tasks.hotosm.org/projects/14233)
+* [M7.8 EARTHQUAKE TÜRKIYE, NURDAGI - PART 2](https://tasks.hotosm.org/projects/14219)
 
 If you are an advanced mapper and would like to join the HOT Global Validators Team, [please fill in your details here](http://bit.ly/HOTValidators).
 
