@@ -12,7 +12,7 @@ Impact Area:
 - Disasters & Climate Resilience
 tm_campaigns:
 - https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
-layout: page
+layout: project-item
 ---
 
 ### How to participate as a beginner mapper:
