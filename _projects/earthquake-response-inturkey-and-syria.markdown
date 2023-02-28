@@ -9,7 +9,7 @@ Impact Area:
 - Disasters & Climate Resilience
 Duration:
   Start Date: 2023-02-06 00:00:00 Z
-layout: project-index
+layout: project-item
 ---
 
 *Lead [photo](https://www.flickr.com/photos/eu_echo/52680675698/in/album-72177720305858312/) courtesy of European Union Civil Protection and Humanitarian Aid, 2023, taken by Lisa Hastert.*
