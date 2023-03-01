@@ -12,7 +12,7 @@ layout: page
 
 ![Vision Strategy.png](/uploads/Vision%20Strategy.png)
 
-![Living Strategy Values-609707.png](/uploads/Living%20Strategy%20Values-609707.png)
+![Living Strategy Values-884674.png](/uploads/Living%20Strategy%20Values-884674.png)
 
 ![Living Strategy Serving.png](/uploads/Living%20Strategy%20Serving.png)
 
