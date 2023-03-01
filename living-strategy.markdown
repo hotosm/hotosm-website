@@ -4,6 +4,8 @@ date: 2023-02-28 16:08:00 Z
 layout: page
 ---
 
+![Living Strategy Cover.png](/uploads/Living%20Strategy%20Cover.png)
+
 ![Living Strategy First 3 Points.png](/uploads/Living%20Strategy%20First%203%20Points.png)
 
 ![Living Strategy Living.png](/uploads/Living%20Strategy%20Living.png)
