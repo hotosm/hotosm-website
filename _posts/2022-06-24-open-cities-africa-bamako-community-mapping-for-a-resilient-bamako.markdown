@@ -15,7 +15,7 @@ Project:
 - 'Open Cities: Community Mapping for a Resilient Bamako'
 ---
 
-The Open Cities Africa project, [‘Community Mapping for a Resilient Bamako,’](http://https://www.hotosm.org/projects/community-mapping-for-a-resilient-bamako/) originally launched in 2020, was completed as of May 2022. The purpose of this World Bank funded project was to highlight the need for information infrastructure to develop and strengthen urban resilience in Bamako, Mali. 
+The Open Cities Africa project, [‘Community Mapping for a Resilient Bamako,’](http://https://www.hotosm.org/projects/community-mapping-for-a-resilient-bamako/) originally launched in 2020, was [completed as of May 2022](https://pruba.croixrouge-mali.org/nos-activites/). The purpose of this World Bank funded project was to highlight the need for information infrastructure to develop and strengthen urban resilience in Bamako, Mali. 
 
 [Open Cities Africa](https://opencitiesproject.org/) is a collaborative mapping initiative to build open-data eco-systems to facilitate data driven urban planning and disaster risk management. Bamako is one of 11 cities in Sub-Saharan Africa to serve as a project site. The project engaged the local government, civil society, and the private sector in disaster response through PRUBA (Projet de Résilience Urbaine de Bamako). 
 
