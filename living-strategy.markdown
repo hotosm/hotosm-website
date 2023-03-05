@@ -6,14 +6,13 @@ layout: page
 
 ![Living Strategy Cover.png](/uploads/Living%20Strategy%20Cover.png)
 
-![Living Strategy First 3 Points.png](/uploads/Living%20Strategy%20First%203%20Points.png)
+As the world continues to change, grow, and shift as populations move, we know that no map will ever be fully complete or defined. 
+In this capacity, HOT commits to remaining agile in our approach to maintain, update and contribute to the open map. This commitment enables communities to identify their priorities, and map what they need the most, when it’s needed. 
 
-![Living Strategy Living.png](/uploads/Living%20Strategy%20Living.png)
+HOT has taken a similar approach to our operational and strategic thinking. We have redefined our strategy as a living, breathing and moving framework that we revisit often, to ensure stable flexibility and adaptability. This is an intentional leap away from traditional strategic plans that lock organizations into a few years of committed deliverables. 
 
-![Vision Strategy.png](/uploads/Vision%20Strategy.png)
+Our goal as a movement is to always be in movement.
 
-![Living Strategy Values-884674.png](/uploads/Living%20Strategy%20Values-884674.png)
+All organizations working in the humanitarian sector live in an ever evolving space, as crisis and global events are often unpredictable and require a balance of absolute and elastic assets, tools and resources. Our Living Strategy anticipates changes and makes room to adapt, pilot and experiment through our approaches and projects. Through a very thoughtful and iterative process, we have categorized pillars at the top which are fixed and pillows below which remain intentionally flexible. This evolving iteration gives our team the ability to ensure the strategy is always relevant to what we are doing, how we are doing it and where we are going as a whole. This allows us to take not only our organization, but our growing movement, on a shared journey. The planning documents will be updated in close to real time, based on community engagement, feedback, global events and time-sensitive needs. 
 
-![Living Strategy Serving.png](/uploads/Living%20Strategy%20Serving.png)
-
-![Impact Areas-9dca32.png](/uploads/Impact%20Areas-9dca32.png)
+Our Living Strategy demonstrates that HOT is not ahead of the curve. Instead, in collaboration with local and global networks, HOT defines where the curve is, and strategizes the flexibility to do so.
