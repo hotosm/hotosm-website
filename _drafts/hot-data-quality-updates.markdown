@@ -25,6 +25,6 @@ The HOT Data Team presented the [top 10 data quality issues](https://www.openstr
 * * Completeness of public service data for sustainable communities 
 * * Administrative boundaries
 
-The Data Team is also defining use cases and data quality metrics. Measuring data quality starts with identifying core datasets for each of our impact areas. Examples include highways and health facilities for Public Health, water & sanitation, transportation, and education for Sustainable Cities & Communities, and waterways, buildings, and highways for Disasters & Climate Resilience. 
+The Data Team is also defining use cases and data quality metrics. Measuring data quality starts with identifying core datasets for each of our [impact areas](https://www.hotosm.org/impact-areas/). Examples include highways and health facilities for Public Health, water & sanitation, transportation, and education for Sustainable Cities & Communities, and waterways, buildings, and highways for Disasters & Climate Resilience. 
 
 We then evaluated the use cases and the metrics for assessing the quality of each dataset, enabling us to identify ways of improving data quality.
