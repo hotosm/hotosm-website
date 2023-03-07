@@ -6,7 +6,7 @@ layout: page
 
 [![Living Strategy Cover.png](/uploads/Living%20Strategy%20Cover.png)](https://drive.google.com/file/d/1iB_2O804qFego5phOL-QxyNqKyS51KuM/view?usp=share_link)
 
-Click here to download our [Living Strategy Summary](https://drive.google.com/file/d/1iB_2O804qFego5phOL-QxyNqKyS51KuM/view?usp=share_link).
+***[Download our Living Strategy Summary](https://drive.google.com/file/d/1iB_2O804qFego5phOL-QxyNqKyS51KuM/view?usp=share_link).***
 
 As the world continues to change, grow, and shift, we know that no map will ever be fully complete or defined. As such, HOT commits to remaining agile in our approach to update, contribute to and maintain an open map of our world. This commitment will enable communities to identify their priorities, and map what they need the most, when it is needed. 
 
