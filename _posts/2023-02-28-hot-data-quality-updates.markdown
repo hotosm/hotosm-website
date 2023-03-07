@@ -58,7 +58,7 @@ For positional data quality aspects, the tool uses the defined metrics of **bad 
 
 The regional Open Mapping Hubs are working on their individual approaches to data quality. They are publishing summaries of their plans, sharing their definitions of data quality, common data quality issues and requirements for their region, the tools they use, and open mapping best practices for regional mappers. 
 
-The Open Mapping Hub - Asia-Pacific has already published [their approach to improving data quality](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_-_Asia_Pacific/Data_Quality_Approach) on the OpenStreetMap Wiki. As one of the ways to implement their approach, they will be activating a road validation campaign for some their priority countries.
+The Open Mapping Hub - Asia-Pacific has already published [their approach to improving data quality](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_-_Asia_Pacific/Data_Quality_Approach) on the OpenStreetMap Wiki. As one of the ways to implement their approach, they will be activating a road validation campaign for some of their priority countries.
 
 ## Coming up next: 
 
