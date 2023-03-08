@@ -10,6 +10,13 @@ Project Summary Text: 'After any disaster, data is critical for life-saving and 
   to be a valuable resource in search and rescue efforts, contextualizing and accessing
   damage assessments, and planning relief and recovery efforts. '
 Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2018-06-07+at+22.04.38.png
+Project Logo Image: https://wiki.openstreetmap.org/w/images/thumb/4/46/Yer_cizenler_logo.png/240px-Yer_cizenler_logo.png
+Is Community-Led: true
+Country:
+- Turkey
+- Syria
+Impact Area:
+- Disasters & Climate Resilience
 Person:
 - Can Unen
 - Pete Masters
