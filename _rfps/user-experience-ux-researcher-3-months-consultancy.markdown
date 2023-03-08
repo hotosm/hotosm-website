@@ -1,7 +1,7 @@
 ---
 title: User Experience (UX) Researcher - 3 months consultancy
 date: 2023-02-27 17:21:00 Z
-Deadline Date: 2023-03-10 00:00:00 Z
+Deadline Date: 2023-03-12 00:00:00 Z
 Page Contact:
 - 
 ---
@@ -55,4 +55,4 @@ HOT is accepting proposals for this work from individuals through March 10, 2023
 3. A basic schedule for meeting the deliverables noted above, including dates, level of effort and associated costs. 
 4. Your availability and overall fees
 
-Proposals should be submitted to [Jessie Pechman](mailto: jessie.pechman@hotosm.org) and [Petya Kangalova](mailto: petya.kangalova@hotosm.org) by 11:59 PM on March 10, 2023. 
+Proposals should be submitted to [Jessie Pechman](mailto: jessie.pechman@hotosm.org) and [Petya Kangalova](mailto: petya.kangalova@hotosm.org) by 11:59 PM on March 12, 2023. 
