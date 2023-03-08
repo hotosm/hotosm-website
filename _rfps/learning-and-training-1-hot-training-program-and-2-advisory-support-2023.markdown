@@ -105,7 +105,7 @@ We would consider proposals outside of this price range dependent on the rationa
 * Cost based on the recommended approach (or approaches) in your proposal 
 * Provide any additional information that you believe distinguishes your organization from others, or that would be relevant for us to know as we consider your response
 
-Send your proposal to [info@hotosm.org](send to: info@hotosm.org) with the subject line “HOT Learning & Training: Request for Proposal: <your name>”
+Send your proposal to [info@hotosm.org](mailto: info@hotosm.org) with the subject line “HOT Learning & Training: Request for Proposal: <your name>”
 
 **Who will you be working with on our team?**
 * [Carly Redhead](https://www.linkedin.com/in/carly-redhead/) - Head of Impact Partnerships (Program Lead) - UTC timezone
