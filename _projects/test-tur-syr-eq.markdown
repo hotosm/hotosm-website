@@ -9,6 +9,8 @@ Person:
 - Pete Masters
 Duration:
   Start Date: 2023-02-07 20:23:00 Z
+tm_campaigns:
+- Turkey and Syria Earthquake Response February 2023
 ---
 
 test
