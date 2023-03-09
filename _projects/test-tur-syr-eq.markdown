@@ -46,6 +46,10 @@ Much of this data is the result of a <a href="https://www.hotosm.org/disaster-se
 <h3>Road Networks</h3>
 Earthquakes create extreme challenges for navigation. Internet and cellular networks are damaged or overloaded, and damage to roads and bridges means navigation data from before the quake are suddenly inaccurate. For Ankara surgeon Dr. Çevik working to save lives in communities damaged by the earthquake in the Hattay region, Organic Maps and the OSM data that feeds it were essential for him and his colleagues to get to the people that needed medical attention.
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://lh4.googleusercontent.com/O1Ia5wP885sEuWnlsNNVgsDLlRZWMlj4Aesd1cVH3zMGURdh1JSw3m1GaFcbW6QD7RE=w2400)  |  ![](https://lh4.googleusercontent.com/O1Ia5wP885sEuWnlsNNVgsDLlRZWMlj4Aesd1cVH3zMGURdh1JSw3m1GaFcbW6QD7RE=w2400)
+
 <iframe width="325" height="601" src="https://www.youtube.com/embed/zVLq1rMOcN8" title="Dr Çevik&#39;s message to mappers: &quot;Thank you all, you are doing really great work&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <figcaption align = "center"><h6>[Message from a doctor in the field to a mapper. Translation: On the first day I went to Rehaniya, when google maps was not working, Organic Maps guided us. The importance of such tools is enormous. Good luck to you, Can. 🔥 organic maps 🔥 ]</h6></figcaption>
 
@@ -60,8 +64,10 @@ Beyond road networks, information on OSM about critical infrastructure, such as 
 
 OSM enables the rapid creation of maps in areas that did not have pre-existing map data. In the aftermath of this earthquake, the capacity for real-time updates and open access meant that aid agencies Search and Rescue Association(<a href="https://www.akut.org.tr/"> AKUT </a>)and Republic of Türkiye Ministry of Interior Disaster and Emergency Management Authority (<a href="https://www.afad.gov.tr/"> AFAD </a>) were able to use OSM data in their maps to coordinate and ensure that logistics resources were used efficiently. In a scenario such as this, knowledge of the built environment enables better decisions  for reaching people in need and understanding  people’s requirements and what infrastructure exists locally. 
 
-![Jakarta-Mapping-Timeline.png](https://twitter.com/YerCizenler/status/1625253653824040979/photo/2) 
-<h6><a href="https://twitter.com/YerCizenler/status/1625253653824040979/"> AKUT/AFAD Coordination officers: “Thanks for mapping affected areas to support our rescue coordination, infinite thanks!”</a></h6>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](/uploads/AKUT.jpeg)  |  ![](/uploads/AFAD.jpeg) 
+AKUT/AFAD Coordination officers: “Thanks for mapping affected areas to support our rescue coordination, infinite thanks!”</a></h6>
 
 <h3>Imagery and Building damage </h3>
 
