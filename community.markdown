@@ -28,12 +28,12 @@ Finances:
   990 Report Button: Download 2021 990 PDF
   990 Report URL: "/downloads/2021-Form-990.pdf"
   Annual Report Header: 2020-21 Annual Report
-  Annual Report Text: "Each year we publish an annual report to recap projects and
-    share updates from the community. We cover stories from our projects and share
+  Annual Report Text: "Each year we publish an annual impact report to recap projects
+    and share updates from the community. We cover stories from our projects and share
     data about the successes and impact of the community. \n\nDownload our latest
     annual report below. Access our annual report archive <a href=\"https://hotosm.org/annual-reports/\">here.</a>"
-  Annual Report Button: Access 2020-21 Annual Report
-  Annual Report URL: https://annualreport2020.hotosm.org/
+  Annual Report Button: Access 2021-22 Annual Report
+  Annual Report URL: https://impactreport2022.hotosm.org/
 layout: community
 ---
 
