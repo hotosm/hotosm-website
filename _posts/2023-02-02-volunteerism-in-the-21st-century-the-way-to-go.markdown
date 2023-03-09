@@ -11,7 +11,7 @@ Working Group:
 
 On 9 December 2022, the Humanitarian Open Mapping Community Working Group hosted a panel discussion on volunteering. All the speakers were volunteers  who had also  built volunteer communities.
 
-**Key Takeaways**
+### **Key Takeaways**
 
 1. Volunteering is a privilege because not everyone is able to volunteer
 
@@ -29,7 +29,7 @@ On 9 December 2022, the Humanitarian Open Mapping Community Working Group hosted
 
 8. Volunteering gives you the chance to make mistakes and also learn from them
 
-**How can I fit volunteering into an already busy schedule?**
+### **How can I fit volunteering into an already busy schedule?**
 
 **Sabrina:** Volunteering is a way to engage in topics that people care about, and the advice is to identify a passion and find a way to dedicate time to serve that group, regardless of how small the contribution may be.
 
@@ -37,7 +37,7 @@ On 9 December 2022, the Humanitarian Open Mapping Community Working Group hosted
 
 **Laura:** To make volunteering a part of our routine, it's essential to align our interests and hobbies with the volunteer activities we choose and commit our time and energy to them, such as dedicating social media skills to an organization we love.
 
-**What are the differences between online and in-person volunteering?**
+### **What are the differences between online and in-person volunteering?**
 
 **Sabrina:** Volunteering online and in person both provide opportunities to interact with people and develop relationships, but in-person volunteering allows for face-to-face interaction and the use of different skill sets, while online volunteering requires adjusting to different time zones and asynchronous work. The barrier of a stable internet connection is present in online volunteering, while transport cost is a barrier for in-person volunteering.
 
@@ -45,7 +45,7 @@ On 9 December 2022, the Humanitarian Open Mapping Community Working Group hosted
 
 **Juan:** The main difference between in-person and online volunteering is the time flexibility as in-person volunteering is subject to schedules while online volunteering allows collaboration when convenient. Additionally, online volunteering often requires digital skills and a stable internet connection, which may not be necessary for in-person volunteering.
 
-**How can volunteering help my career? What skills do you learn from volunteering?**
+### **How can volunteering help my career? What skills do you learn from volunteering?**
 
 **Laura:** Volunteering offers opportunities to practice technical skills, such as open data and OpenStreetMap. It also provides networking opportunities for career development, such as mentorship and coaching.
 
@@ -53,7 +53,7 @@ On 9 December 2022, the Humanitarian Open Mapping Community Working Group hosted
 
 **Sabrina:** Volunteering provides a safe space to try new things and learn from experienced people, building confidence and skills. It also helps individuals be comfortable with making mistakes and learning from them.
 
-**What is your motivation in volunteering and in encouraging others to volunteer?**
+### **What is your motivation in volunteering and in encouraging others to volunteer?**
 
 **Sabrina:** Volunteering benefits ourselves as well as others. The joy and satisfaction we get from seeing the positive impact of our contributions make us feel valued. People should think about what they can offer and find opportunities that fit with their life and interests.
 
@@ -61,15 +61,15 @@ On 9 December 2022, the Humanitarian Open Mapping Community Working Group hosted
 
 **Juan:** Volunteering is important for gaining knowledge and skills, as well as to broaden one's perspective and awareness of the world. Participating in projects and meeting new people also brings joy and motivation.
 
-**What challenges have you encountered in managing volunteers and how did you overcome it?**
+### **What challenges have you encountered in managing volunteers and how did you overcome it?**
 
 **Sabrina:** I volunteered mostly online with Women\+ in Geospatial due to the pandemic. People were initially enthusiastic about volunteering online, but eventually had less availability due to caregiving demands and online meeting fatigue. The manager's role is to be understanding and adapt to fit the community's needs, and it's okay if volunteers can't commit. Being respectful and open is important when working with people.
 
-\*\*Juan: \*\*I faced challenges in finding volunteers, but was able to recruit them after an article was published in a newspaper. I learned the importance of recognizing the benefits of volunteering not just for the organization, but also for the volunteers themselves.
+**Juan: **I faced challenges in finding volunteers, but was able to recruit them after an article was published in a newspaper. I learned the importance of recognizing the benefits of volunteering not just for the organization, but also for the volunteers themselves.
 
 **Laura:** It is difficult to plan for long-term work due to time and energy commitment issues, and that a lot of volunteers are long-term. This makes it difficult to plan with timelines to know how soon things may end or start.
 
-**What is your #1 tip in managing volunteers?**
+### **What is your #1 tip in managing volunteers?**
 
 **Sabrina:** I would use the phrase "Building a team." That means enabling everyone to feel connected as we work towards a common goal while we have different roles in the team.
 
