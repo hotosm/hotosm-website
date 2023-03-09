@@ -7,6 +7,7 @@ Summary Text: 'Open Mapping Hub Asia-Pacific (AP Hub) aims to support OpenStreet
   OpenStreetMap when data quality review is a regular task.
 
 '
+Feature Image: "/uploads/DQI%20Intern%20Application%20Map.png"
 Person:
 - Dinar Adiatma
 - Risham Habib
