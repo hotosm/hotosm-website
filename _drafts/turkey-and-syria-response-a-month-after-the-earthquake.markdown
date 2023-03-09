@@ -56,6 +56,8 @@ In addition to the above, and as the phases of the response shift, OSM data will
 
 It is important to remember that behind each data point, there is a tremendous human effort from volunteers and organizations. Every single object that has been mapped so far, has had human eyes creating, modifying, or validating it. The effort continues and, if you are a mapper who wants to get involved, [you can do so here](https://www.hotosm.org/projects/join-the-turkey-and-syria-earthquake-response/).
 
+***Lead photo courtesy of the European Union, 2023 (photographer: Lisa Hastert)***
+
 
  
 
