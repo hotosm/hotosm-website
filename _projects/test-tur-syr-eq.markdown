@@ -42,6 +42,7 @@ During the Syria-Turkey earthquake in February 2023, OSM is again proving to be 
 
 <h3>Road Networks</h3>
 Earthquakes create extreme challenges for navigation. Internet and cellular networks are damaged or overloaded, and damage to roads and bridges means navigation data from before the quake are suddenly inaccurate. For Ankara surgeon Dr. Çevik working to save lives in communities damaged by the earthquake in the Hattay region, Organic Maps and the OSM data that feeds it were essential for him and his colleagues to get to the people that needed medical attention.
+<br>
 
 <iframe width="325" height="601" src="https://www.youtube.com/embed/zVLq1rMOcN8" title="Dr Çevik&#39;s message to mappers: &quot;Thank you all, you are doing really great work&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <figcaption align = "center"><h6>[Message from a doctor in the field to a mapper. Translation: On the first day I went to Rehaniya, when google maps was not working, Organic Maps guided us. The importance of such tools is enormous. Good luck to you, Can. 🔥 organic maps 🔥 ]</h6></figcaption>
