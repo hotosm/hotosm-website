@@ -46,6 +46,13 @@ Much of this data is the result of a <a href="https://www.hotosm.org/disaster-se
 <h3>Road Networks</h3>
 Earthquakes create extreme challenges for navigation. Internet and cellular networks are damaged or overloaded, and damage to roads and bridges means navigation data from before the quake are suddenly inaccurate. For Ankara surgeon Dr. Çevik working to save lives in communities damaged by the earthquake in the Hattay region, Organic Maps and the OSM data that feeds it were essential for him and his colleagues to get to the people that needed medical attention.
 
+<p float="left">
+  <img src="https://www.youtube.com/embed/zVLq1rMOcN8" width="100" />
+  <img src="https://lh4.googleusercontent.com/O1Ia5wP885sEuWnlsNNVgsDLlRZWMlj4Aesd1cVH3zMGURdh1JSw3m1GaFcbW6QD7RE=w2400" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
+
+
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
