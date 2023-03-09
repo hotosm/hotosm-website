@@ -71,7 +71,7 @@ Solarized dark             |  Solarized Ocean
 
 
 
-Solarized dark             |  Solarized Ocean
+AKUT FIELD MAP            |  AFAD FIELD MAP
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AKUT.jpg)  |  ![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AFAD.jpg) 
 
