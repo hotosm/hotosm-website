@@ -64,6 +64,10 @@ AKUT FIELD MAP            |  AFAD FIELD MAP
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AKUT.jpg)  |  ![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/tweet_akut_afad.jpg) 
 
+AKUT FIELD MAP            |  AFAD FIELD MAP
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AKUT3.jpg)  |  ![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AFAD3d.jpg) 
+
 <h6>AKUT/AFAD Coordination officers: “Thanks for mapping affected areas to support our rescue coordination, infinite thanks!”</a></h6>
 
 <h3>Imagery and Building damage </h3>
