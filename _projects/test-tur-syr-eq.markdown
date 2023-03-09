@@ -18,7 +18,8 @@ Impact Area:
 - Disasters & Climate Resilience
 Person:
 - Can Unen
-- Pete Masters
+- Harry Mahardhika Machmud
+- Carly Redhead
 Partner:
 - Yer Çizenler
 Duration:
