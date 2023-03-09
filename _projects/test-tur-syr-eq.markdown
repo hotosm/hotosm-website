@@ -44,7 +44,7 @@ Much of this data is the result of a huge solidarity effort from thousands of Op
 Road Networks
 Earthquakes are extremely challenging for navigation. Internet and cellular networks go down or overload and damage means road data from before the quake are suddenly inaccurate. For Dr. Çevik in the field, Organic Maps and the OSM data that feeds it was essential for him and his colleagues to get to the people that needed medical attention in the Hattay region. (quote here?)
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/zVLq1rMOcN8?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<iframe width="451" height="801" src="https://www.youtube.com/embed/zVLq1rMOcN8" title="Dr Çevik&#39;s message to mappers: &quot;Thank you all, you are doing really great work&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Caption here
 
 Critical infrastructure
