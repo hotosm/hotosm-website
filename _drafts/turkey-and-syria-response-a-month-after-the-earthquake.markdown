@@ -27,3 +27,35 @@ Earthquakes create extreme challenges for navigation. Internet and cellular netw
 
 ![Turkey OSM quote narrow.png](/uploads/Turkey%20OSM%20quote%20narrow.png) 
 *Private message from a doctor in the field to a mapper. Translation: On the first day I went to Rehaniya, when google maps was not working, Organic Maps guided us. The importance of such tools is enormous. Good luck to you, Can. 🔥 organic maps 🔥*
+
+## Critical Infrastructure
+
+Beyond road networks, information on OSM about critical infrastructure, such as hospitals, pharmacies, food depots, transportation nodes, and settlements, is playing an important role in providing organizations like the World Food Programme key insights into field conditions, both pre-and post-earthquake, for logistics planning. Without this data, planning the movement of goods, resources, and personnel efficiently in the aftermath of an earthquake of this magnitude would be much more challenging. 
+
+![Turkey Syria one month 1.png](/uploads/Turkey%20Syria%20one%20month%201.png)
+*Map depicting access routes and other key logistical pieces in the affected areas. Use of OSM roads.*
+
+## Base Maps
+
+OSM enables the rapid creation of maps in areas that did not have pre-existing map data. In the aftermath of this earthquake, the capacity for real-time updates and open access meant that aid agencies Search and Rescue Association (AKUT) and the Republic of Türkiye Ministry of Interior Disaster and Emergency Management Authority (AFAD) were able to use OSM data in their maps to coordinate and ensure that logistics resources were used efficiently. In a scenario such as this, knowledge of the built environment enables better decisions for reaching people in need and understanding people’s requirements and what infrastructure exists locally. 
+
+![Turkey Syria one month 2.png](/uploads/Turkey%20Syria%20one%20month%202.png)
+*AKUT Coordination officers: [“Thanks for mapping affected areas to support our rescue coordination, infinite thanks!”](https://www.google.com/url?q=https://twitter.com/YerCizenler/status/1625253653824040979&sa=D&source=docs&ust=1678394724251609&usg=AOvVaw0FcUUXAI9SEnJjOWGaEEV4)*
+
+## Imagery and Building Damage
+ 
+Promptly after the earthquake hit, organizations like the International Federation of the Red Cross/Red Crescent (IFRC) requested building-level vector data for post-disaster damage assessments from Yer Cizenler, the coordinator of the response. Using government data, a Copernicus damage analysis (link), and pre-disaster OSM building footprints ( more than 1.6 million have been mapped through today via the HOT Tasking Manager), IFRC performed a geospatial analysis to help them plan their aid in relief and recovery efforts by pinpointing the exact location of each destroyed building. 
+
+[![Screenshot 2023-03-09 4.22.56 PM.png](/uploads/Screenshot%202023-03-09%204.22.56%20PM.png)](https://prddsgofilestorage.blob.core.windows.net/api/sitreps/6345/South_-_East_Turkiye_EQ_Building_Damage_Composite.pdf)
+
+With the intent of increasing the availability of damaged building data and properly reflecting the current state of the conditions in the ground in OSM, Yer Cizenler also used the Copernicus damage analysis to update  OSM buildings through a MapRoulette campaign (link). The validation process involved high-resolution imagery from drones and satellites, which helped ensure the quality of the digitized data. The resulting dataset that identifies destroyed buildings is now available through HDX and has been downloaded over 500+ times (link). 
+
+## The Data Needs Will Evolve
+
+In addition to the above, and as the phases of the response shift, OSM data will also be used for long-term recovery efforts, such as rebuilding infrastructure and housing and improving disaster preparedness. The availability of detailed, up-to-date map data is an important resource in all stages of the disaster recovery process.
+
+It is important to remember that behind each data point, there is a tremendous human effort from volunteers and organizations. Every single object that has been mapped so far, has had human eyes creating, modifying, or validating it. The effort continues and, if you are a mapper who wants to get involved, [you can do so here](https://www.hotosm.org/projects/join-the-turkey-and-syria-earthquake-response/).
+
+
+ 
+
