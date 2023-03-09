@@ -9,7 +9,7 @@ Project Summary Text: 'After any disaster, data is critical for life-saving and 
   via OSM. During the Syria-Turkey earthquake in February 2023, OSM is again proving
   to be a valuable resource in search and rescue efforts, contextualizing and accessing
   damage assessments, and planning relief and recovery efforts. '
-Feature Image: https://eos.com/wp-content/uploads/2019/04/Main.jpg
+Feature Image: https://storage.ruptly.tv/thumbnails/20230209-040/4oeD7FNaXwjzCqAY/large_4oeD7FNaXwjzCqAY.jpg
 Project Logo Image: https://wiki.openstreetmap.org/w/images/thumb/4/46/Yer_cizenler_logo.png/240px-Yer_cizenler_logo.png
 Is Community-Led: true
 Country:
