@@ -50,25 +50,23 @@ Earthquakes create extreme challenges for navigation. Internet and cellular netw
 Beyond road networks, information on OSM about critical infrastructure, such as hospitals, pharmacies, food depots, transportation nodes, and settlements, is playing an important role in providing organizations like the World Food Programme key insights into field conditions, both pre- and post-earthquake, for logistics planning. Without this data, planning the movement of goods, resources, and personnel efficiently in the aftermath of an earthquake of this magnitude would be much more challenging. 
 
 ![Jakarta-Mapping-Timeline.png](https://lh4.googleusercontent.com/O1Ia5wP885sEuWnlsNNVgsDLlRZWMlj4Aesd1cVH3zMGURdh1JSw3m1GaFcbW6QD7RE=w2400) 
-<h6>***Map depicting access routes and other key logistical pieces in the affected areas. Use of OSM roads. 
- (IMAGE TO BE REPLACED for WFP)***</h6>
+<figcaption align = "center"><h6>***Map depicting access routes and other key logistical pieces in the affected areas. Use of OSM roads. 
+ (IMAGE TO BE REPLACED for WFP)***</h6></figcaption>
 
 <h3>Base maps</h3>
 
 OSM enables the rapid creation of maps in areas that did not have pre-existing map data. In the aftermath of this earthquake, the capacity for real-time updates and open access meant that aid agencies Search and Rescue Association(<a href="https://www.akut.org.tr/"> AKUT </a>)and Republic of Türkiye Ministry of Interior Disaster and Emergency Management Authority (<a href="https://www.afad.gov.tr/"> AFAD </a>) were able to use OSM data in their maps to coordinate and ensure that logistics resources were used efficiently. In a scenario such as this, knowledge of the built environment enables better decisions  for reaching people in need and understanding  people’s requirements and what infrastructure exists locally. 
 
 ![Jakarta-Mapping-Timeline.png](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/tweet_akut_afad.png) 
-<h6>"Wonder if your contributions help the rescue teams?We heard back from  AKUT and AFAD coordination officers and wanted to pass their messages.
-'Thanks for mapping affected areas to support our rescue coordination, infinite thanks!'" <a href="https://www.afad.gov.tr/">Tweet from Yer Cizenler</a> on February 13th 2023</h6>
-
-<h6>AKUT/AFAD Coordination officers: “Thanks for mapping affected areas to support our rescue coordination, infinite thanks!”</a></h6>
+<figcaption align = "center"><h6>"Wonder if your contributions help the rescue teams?We heard back from  AKUT and AFAD coordination officers and wanted to pass their messages.
+'Thanks for mapping affected areas to support our rescue coordination, infinite thanks!'" <a href="https://www.afad.gov.tr/">Tweet from Yer Cizenler</a> on February 13th 2023</h6></figcaption>
 
 <h3>Imagery and Building damage </h3>
 
 Promptly after the earthquake hit, organizations like the International Federation of the Red Cross/Red Crescent (IFRC) requested building-level vector data for post-disaster damage assessments from Yer Cizenler, the coordinator of the response. Using government data, a Copernicus damage analysis (link), and pre-disaster OSM building footprints ( more than 1.6 million have mapped through today via the HOT Tasking Manager), IFRC performed a geospatial analysis to help them plan their aid in relief and recovery efforts by pinpointing the exact location of each destroyed building.  
 
 ![Jakarta-Mapping-Timeline.png](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/IFRCdamagemap.png) 
-<h6>Building Damage Composite crediting HOTOSM as source</h6>
+<figcaption align = "center"><h6>Building Damage Composite crediting HOTOSM as source</h6></figcaption>
 
 
 With the intent of increasing the availability of damaged building data and properly reflecting the current state of the conditions in the ground in OSM, Yer Cizenler also used the Copernicus damage analysis to update  OSM buildings through a MapRoulette campaign (link). The validation process involved high resolution imagery from drones and satellites, which helped ensure the quality of the digitizwd data. The resulting dataset that identifiesls destroyed buildings is now <a href="https://data.humdata.org/dataset/hotosm_tur_destroyed_buildings"> available through HDX </a>and has been downloaded over 500+ times. 
