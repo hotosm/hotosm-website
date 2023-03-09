@@ -45,26 +45,27 @@ Much of this data is the result of a huge solidarity effort from thousands of Op
 Earthquakes are extremely challenging for navigation. Internet and cellular networks go down or overload and damage means road data from before the quake are suddenly inaccurate. For Dr. Çevik in the field, Organic Maps and the OSM data that feeds it was essential for him and his colleagues to get to the people that needed medical attention in the Hattay region. (quote here?)
 
 <iframe width="125" height="601" src="https://www.youtube.com/embed/zVLq1rMOcN8" title="Dr Çevik&#39;s message to mappers: &quot;Thank you all, you are doing really great work&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-[Private message from a doctor in the field to a mapper. Translation: On the first day I went to Rehaniya, when google maps was not working, Organic Maps guided us. The importance of such tools is enormous. Good luck to you, Can. 🔥 organic maps 🔥 ]
+***[Message from a doctor in the field to a mapper. Translation: On the first day I went to Rehaniya, when google maps was not working, Organic Maps guided us. The importance of such tools is enormous. Good luck to you, Can. 🔥 organic maps 🔥 ]***
 
 <h3>Critical infrastructure</h3>
 Beyond road networks, information on OSM about critical infrastructure, such as hospitals, pharmacies, food depots, transportation nodes, and settlements, is playing an important role, providing organizations like the World Food Programme key insights into field conditions, pre and post-earthquake, for logistics planning. Without this, planning the movement of goods, resources, and personnel efficiently in the aftermath of an earthquake of this magnitude would be much more challenging. 
 
 ![Jakarta-Mapping-Timeline.png](https://lh4.googleusercontent.com/O1Ia5wP885sEuWnlsNNVgsDLlRZWMlj4Aesd1cVH3zMGURdh1JSw3m1GaFcbW6QD7RE=w2400) 
-Caption here (IMAGE TO BE REPLACED for WFP) 
+***Caption here (IMAGE TO BE REPLACED for WFP)*** 
 
 <h3>Base maps</h3>
 
 OSM enables the rapid creation of maps in areas that did not have pre-existing map data. In the aftermath of this earthquake, the capacity for real time updates and open access meant that AKUT (what is AKUT?) and AFAD (what is AFAD) were able to use OSM data in their maps to coordinate and ensure that resources were used efficiently. In a scenario such as this, knowledge of the built environment enables better decisions to be taken to access people in need and to understand people’s requirements and what infrastructure exists locally. 
 
 ![Jakarta-Mapping-Timeline.png](https://twitter.com/YerCizenler/status/1625253653824040979/photo/2) 
-Caption here (IMAGE TO BE REPLACED for WFP) 
+***Caption here (IMAGE TO BE REPLACED for WFP)***
 
 <h3>Imagery and Building damage </h3>
 
 Promptly after the earthquake hit, organizations like IFRC requested building-level vector data for post-disaster damage assessments from Yer Cizenler, the coordinator of the response. Using a combination of government data, a Copernicus damage analysis (link), and pre-disaster OSM building footprints (now, more than 1.6 million mapped through the HOT tasking manager), IFRC performed a geospatial analysis to help them plan their aid in relief and recovery efforts by pinpointing the exact location of each destroyed building. 
 
 https://prddsgofilestorage.blob.core.windows.net/api/sitreps/6345/South_-_East_Turkiye_EQ_Building_Damage_Composite.pdf
+***Caption here***
 
 With the idea of increasing the availability of damaged data and properly reflecting the current state of the map in OSM, Yer C also used the Copernicus damage analysis to update the OSM building through a MapRoulette campaign (link). The validation process involved High Res imagery from drones and satellites, which helped ensure the quality of the digitization. The resulting dataset that identifies destroyed buildings is available to HDX and has been downloaded over 500+ times (link). 
 
