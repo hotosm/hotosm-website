@@ -1,5 +1,5 @@
 ---
-title: HOT Data Quality Updates for Spring 2023
+title: HOT Data Quality Updates for March 2023
 date: 2023-02-28 02:40:00 Z
 Summary Text: 'To support organizations that use OpenStreetMap data for disaster response,
   the HOT Data Team is strengthening our data quality and fitness measures. '
