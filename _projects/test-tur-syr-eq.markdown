@@ -48,8 +48,6 @@ Earthquakes are extremely challenging for navigation. Internet and cellular netw
 <iframe width="325" height="601" src="https://www.youtube.com/embed/zVLq1rMOcN8" title="Dr Çevik&#39;s message to mappers: &quot;Thank you all, you are doing really great work&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <figcaption align = "center"><h6>[Message from a doctor in the field to a mapper. Translation: On the first day I went to Rehaniya, when google maps was not working, Organic Maps guided us. The importance of such tools is enormous. Good luck to you, Can. 🔥 organic maps 🔥 ]</h6></figcaption>
 
-![example 1{caption=Example caption - Message from a doctor in the field to a mapper. Translation: On the first day I went to Rehaniya, when google maps was not working, Organic Maps guided us. The importance of such tools is enormous. Good luck to you, Can. 🔥 organic maps 🔥}](/images/markdown-image-captions/example-1.jpg)
-
 <h3>Critical infrastructure</h3>
 Beyond road networks, information on OSM about critical infrastructure, such as hospitals, pharmacies, food depots, transportation nodes, and settlements, is playing an important role, providing organizations like the World Food Programme key insights into field conditions, pre and post-earthquake, for logistics planning. Without this, planning the movement of goods, resources, and personnel efficiently in the aftermath of an earthquake of this magnitude would be much more challenging. 
 
