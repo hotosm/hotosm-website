@@ -1,6 +1,6 @@
 ---
-title: 'Generating and Promoting Open Data:'
-date: 2023-02-28 02:03:00 Z
+title: Generating and Promoting Open Data
+date: 2023-02-01 02:03:00 Z
 Summary Text: 'In November 2022 the Open Mapping Community Working Group hosted the
   webinar: Generating and Promoting Open Data. Host Laxmi N. Goparaju shares the highlights
   of the conversation.'
