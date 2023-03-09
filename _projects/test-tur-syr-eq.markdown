@@ -64,7 +64,7 @@ OSM enables the rapid creation of maps in areas that did not have pre-existing m
 <h3>Imagery and Building damage </h3>
 
 Promptly after the earthquake hit, organizations like the International Federation of the Red Cross/Red Crescent (IFRC) requested building-level vector data for post-disaster damage assessments from Yer Cizenler, the coordinator of the response. Using government data, a Copernicus damage analysis (link), and pre-disaster OSM building footprints ( more than 1.6 million have mapped through today via the HOT Tasking Manager), IFRC performed a geospatial analysis to help them plan their aid in relief and recovery efforts by pinpointing the exact location of each destroyed building.  
-
+<br>
 ![Jakarta-Mapping-Timeline.png](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/cut_composite_IFRC.png) 
 <figcaption align = "center"><h6>"<a href="https://data.humdata.org/dataset/hotosm_tur_destroyed_buildings">South-East Turkiye Earthquake: Building damage composit of available sources for highlighted cities"</a> using OSM/HOT data February 16 2023. l</h6></figcaption>
 <br>
