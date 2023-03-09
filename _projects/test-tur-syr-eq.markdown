@@ -88,3 +88,5 @@ It is important to remember that behind each data point, there is a tremendous h
 <img src="https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/projects_TM.png" alt="MarineGEO circle logo" style="height: 70%; width:70%; aligne = center;"/>
 </div>
 <figcaption align = "center"><h6> Tasking Manager showing projects for the <a href="http://bit.ly/TurkiyeEQ2023">Turkey and Syria Earthquake Response February 2023 Campaign </a> on March 9th 2023</h6></figcaption>
+
+Lead photo courtesy of Planet, date 20230211
