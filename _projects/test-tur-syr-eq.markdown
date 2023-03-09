@@ -66,7 +66,7 @@ OSM enables the rapid creation of maps in areas that did not have pre-existing m
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](/uploads/AKUT.jpeg)  |  ![](/uploads/AFAD.jpeg) 
+![](/uploads/AKUT1.jpeg)  |  ![](/uploads/AFAD1.jpeg) 
 AKUT/AFAD Coordination officers: “Thanks for mapping affected areas to support our rescue coordination, infinite thanks!”</a></h6>
 
 <h3>Imagery and Building damage </h3>
