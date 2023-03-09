@@ -73,7 +73,7 @@ Solarized dark             |  Solarized Ocean
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AKUT1.jpg)  |  ![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AFAD1.jpg) 
+![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AKUT.jpg)  |  ![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AFAD.jpg) 
 
 <h6>AKUT/AFAD Coordination officers: “Thanks for mapping affected areas to support our rescue coordination, infinite thanks!”</a></h6>
 
