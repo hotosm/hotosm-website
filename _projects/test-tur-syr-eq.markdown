@@ -60,13 +60,6 @@ Beyond road networks, information on OSM about critical infrastructure, such as 
 
 OSM enables the rapid creation of maps in areas that did not have pre-existing map data. In the aftermath of this earthquake, the capacity for real-time updates and open access meant that aid agencies Search and Rescue Association(<a href="https://www.akut.org.tr/"> AKUT </a>)and Republic of Türkiye Ministry of Interior Disaster and Emergency Management Authority (<a href="https://www.afad.gov.tr/"> AFAD </a>) were able to use OSM data in their maps to coordinate and ensure that logistics resources were used efficiently. In a scenario such as this, knowledge of the built environment enables better decisions  for reaching people in need and understanding  people’s requirements and what infrastructure exists locally. 
 
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AKUT1.jpg)  |  ![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AFAD1.jpg)
-
-
-
 AKUT FIELD MAP            |  AFAD FIELD MAP
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AKUT.jpg)  |  ![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AFAD.jpg) 
