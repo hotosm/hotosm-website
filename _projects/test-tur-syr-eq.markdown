@@ -62,7 +62,7 @@ OSM enables the rapid creation of maps in areas that did not have pre-existing m
 
 AKUT FIELD MAP            |  AFAD FIELD MAP
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AKUT.jpg)  |  ![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AFAD.jpg) 
+![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/AKUT.jpg)  |  ![](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/tweet_akut_afad.jpg) 
 
 <h6>AKUT/AFAD Coordination officers: “Thanks for mapping affected areas to support our rescue coordination, infinite thanks!”</a></h6>
 
