@@ -27,8 +27,8 @@ tm_campaigns:
 Data:
 - title: Humanitarian Data Exchange (Türkiye)
   link: https://data.humdata.org/organization/hot?q=turkey&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
-- title: Humanitarian Data Exchange (Syrian Arab Republic)
-  link: https://data.humdata.org/organization/hot?q=syrian&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
+- link: https://data.humdata.org/organization/hot?q=syrian&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
+  title: Humanitarian Data Exchange (Syrian Arab Republic)
 Tools:
 - tool: Export Tool
   Key: https://export.hotosm.org/en/v3/
@@ -49,6 +49,8 @@ Earthquakes create extreme challenges for navigation. Internet and cellular netw
 
 <h3>Critical infrastructure</h3>
 Beyond road networks, information on OSM about critical infrastructure, such as hospitals, pharmacies, food depots, transportation nodes, and settlements, is playing an important role in providing organizations like the World Food Programme key insights into field conditions, both pre- and post-earthquake, for logistics planning. Without this data, planning the movement of goods, resources, and personnel efficiently in the aftermath of an earthquake of this magnitude would be much more challenging. 
+
+<img src="https://lh4.googleusercontent.com/O1Ia5wP885sEuWnlsNNVgsDLlRZWMlj4Aesd1cVH3zMGURdh1JSw3m1GaFcbW6QD7RE=w2400" alt="MarineGEO circle logo" style="height: 50%; width:50%;"/>
 
 ![Jakarta-Mapping-Timeline.png](https://lh4.googleusercontent.com/O1Ia5wP885sEuWnlsNNVgsDLlRZWMlj4Aesd1cVH3zMGURdh1JSw3m1GaFcbW6QD7RE=w2400) 
 <figcaption align = "center"><h6>Map depicting access routes and other key logistical pieces in the affected areas. Use of OSM roads.</h6></figcaption>
