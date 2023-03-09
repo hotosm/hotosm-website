@@ -51,7 +51,7 @@ Earthquakes create extreme challenges for navigation. Internet and cellular netw
 Beyond road networks, information on OSM about critical infrastructure, such as hospitals, pharmacies, food depots, transportation nodes, and settlements, is playing an important role in providing organizations like the World Food Programme key insights into field conditions, both pre- and post-earthquake, for logistics planning. Without this data, planning the movement of goods, resources, and personnel efficiently in the aftermath of an earthquake of this magnitude would be much more challenging. 
 
 <div align="center">
-<img src="https://lh4.googleusercontent.com/O1Ia5wP885sEuWnlsNNVgsDLlRZWMlj4Aesd1cVH3zMGURdh1JSw3m1GaFcbW6QD7RE=w2400" alt="MarineGEO circle logo" style="height: 50%; width:50%; aligne = center;"/>
+<img src="https://lh4.googleusercontent.com/O1Ia5wP885sEuWnlsNNVgsDLlRZWMlj4Aesd1cVH3zMGURdh1JSw3m1GaFcbW6QD7RE=w2400" alt="MarineGEO circle logo" style="height: 70%; width:70%; aligne = center;"/>
 </div>
 <figcaption align = "center"><h6>Map depicting access routes and other key logistical pieces in the affected areas. <a href="https://lh4.googleusercontent.com/O1Ia5wP885sEuWnlsNNVgsDLlRZWMlj4Aesd1cVH3zMGURdh1JSw3m1GaFcbW6QD7RE=w2400">Use of OSM roads credited</a>.</h6></figcaption>
 
@@ -59,7 +59,9 @@ Beyond road networks, information on OSM about critical infrastructure, such as 
 
 OSM enables the rapid creation of maps in areas that did not have pre-existing map data. In the aftermath of this earthquake, the capacity for real-time updates and open access meant that aid agencies Search and Rescue Association(<a href="https://www.akut.org.tr/"> AKUT </a>)and Republic of Türkiye Ministry of Interior Disaster and Emergency Management Authority (<a href="https://www.afad.gov.tr/"> AFAD </a>) were able to use OSM data in their maps to coordinate and ensure that logistics resources were used efficiently. In a scenario such as this, knowledge of the built environment enables better decisions  for reaching people in need and understanding  people’s requirements and what infrastructure exists locally. 
 
-![Jakarta-Mapping-Timeline.png](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/tweet_akut_afad.png) 
+<div align="center">
+<img src="https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/tweet_akut_afad.png" alt="MarineGEO circle logo" style="height: 70%; width:70%; aligne = center;"/>
+</div>
 <figcaption align = "center"><h6>"Wonder if your contributions help the rescue teams?We heard back from  AKUT and AFAD coordination officers and wanted to pass their messages.
 'Thanks for mapping affected areas to support our rescue coordination, infinite thanks!'" <a href="https://www.afad.gov.tr/">Tweet from Yer Cizenler</a> on February 13th 2023</h6></figcaption>
 
