@@ -61,18 +61,19 @@ Beyond road networks, information on OSM about critical infrastructure, such as 
 OSM enables the rapid creation of maps in areas that did not have pre-existing map data. In the aftermath of this earthquake, the capacity for real-time updates and open access meant that aid agencies Search and Rescue Association(<a href="https://www.akut.org.tr/"> AKUT </a>)and Republic of Türkiye Ministry of Interior Disaster and Emergency Management Authority (<a href="https://www.afad.gov.tr/"> AFAD </a>) were able to use OSM data in their maps to coordinate and ensure that logistics resources were used efficiently. In a scenario such as this, knowledge of the built environment enables better decisions  for reaching people in need and understanding  people’s requirements and what infrastructure exists locally. 
 
 ![Jakarta-Mapping-Timeline.png](https://twitter.com/YerCizenler/status/1625253653824040979/photo/2) 
-<h6>***Caption here (IMAGE TO BE REPLACED for WFP)***</h6>
+<h6><a href="https://twitter.com/YerCizenler/status/1625253653824040979/"> AKUT/AFAD Coordination officers: “Thanks for mapping affected areas to support our rescue coordination, infinite thanks!”</a></h6>
 
 <h3>Imagery and Building damage </h3>
 
-Promptly after the earthquake hit, organizations like IFRC requested building-level vector data for post-disaster damage assessments from Yer Cizenler, the coordinator of the response. Using a combination of government data, a Copernicus damage analysis (link), and pre-disaster OSM building footprints (now, more than 1.6 million mapped through the HOT tasking manager), IFRC performed a geospatial analysis to help them plan their aid in relief and recovery efforts by pinpointing the exact location of each destroyed building. 
+Promptly after the earthquake hit, organizations like the International Federation of the Red Cross/Red Crescent (IFRC) requested building-level vector data for post-disaster damage assessments from Yer Cizenler, the coordinator of the response. Using government data, a Copernicus damage analysis (link), and pre-disaster OSM building footprints ( more than 1.6 million have mapped through today via the HOT Tasking Manager), IFRC performed a geospatial analysis to help them plan their aid in relief and recovery efforts by pinpointing the exact location of each destroyed building.  
 
 https://prddsgofilestorage.blob.core.windows.net/api/sitreps/6345/South_-_East_Turkiye_EQ_Building_Damage_Composite.pdf
 <h6>***Caption here***</h6>
 
-With the idea of increasing the availability of damaged data and properly reflecting the current state of the map in OSM, Yer C also used the Copernicus damage analysis to update the OSM building through a MapRoulette campaign (link). The validation process involved High Res imagery from drones and satellites, which helped ensure the quality of the digitization. The resulting dataset that identifies destroyed buildings is available to HDX and has been downloaded over 500+ times (link). 
+With the intent of increasing the availability of damaged building data and properly reflecting the current state of the conditions in the ground in OSM, Yer Cizenler also used the Copernicus damage analysis to update  OSM buildings through a MapRoulette campaign (link). The validation process involved high resolution imagery from drones and satellites, which helped ensure the quality of the digitizwd data. The resulting dataset that identifiesls destroyed buildings is now <a href="https://data.humdata.org/dataset/hotosm_tur_destroyed_buildings"> available through HDX </a>and has been downloaded over 500+ times. 
 
 <h3>The data needs will evolve</h3>
 In addition to the above, and as the phases of the response shift, OSM data will also be used for long-term recovery efforts, such as rebuilding infrastructure and housing and improving disaster preparedness. The availability of detailed, up-to-date map data is an important resource in all stages of the disaster recovery process.
 
-It is important to remember that behind each data point, there is a tremendous human effort from volunteers and organizations. Every single object that has been mapped so far, has had human eyes creating, modifying, or validating it. The effort continues and, if you are a mapper who wants to get involved, you can do so here.
+It is important to remember that behind each data point, there is a tremendous human effort from volunteers and organizations. Every single object that has been mapped so far, has had human eyes creating, modifying, or validating it. The effort continues and, if you are a mapper who wants to get involved,<a href="https://data.humdata.org/dataset/hotosm_tur_destroyed_buildings"> you can do so here</a>.
+
