@@ -67,7 +67,7 @@ Promptly after the earthquake hit, organizations like the International Federati
 
 ![Jakarta-Mapping-Timeline.png](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/IFRCdamagemap.png) 
 <figcaption align = "center"><h6>Building Damage Composite crediting HOTOSM as source</h6></figcaption>
-
+<br>
 
 With the intent of increasing the availability of damaged building data and properly reflecting the current state of the conditions in the ground in OSM, Yer Cizenler also used the Copernicus damage analysis to update  OSM buildings through a MapRoulette campaign (link). The validation process involved high resolution imagery from drones and satellites, which helped ensure the quality of the digitizwd data. The resulting dataset that identifiesls destroyed buildings is now <a href="https://data.humdata.org/dataset/hotosm_tur_destroyed_buildings"> available through HDX </a>and has been downloaded over 500+ times. 
 
