@@ -4,6 +4,9 @@ date: 2023-02-02 17:42:00 Z
 Summary Text: 'A panel discussion with panelists Sabrina Szeto, Juan Arellano and
   Laura Mugeha, moderated by Laxmi Goparaju '
 Feature Image: "/uploads/volunteer%20blog.png"
+Person: Benedicta Ohene
+Working Group:
+- Community
 ---
 
 On 9 December 2022, the Humanitarian Open Mapping Community Working Group hosted a panel discussion on volunteering. All the speakers were volunteers  who had also  built volunteer communities.
