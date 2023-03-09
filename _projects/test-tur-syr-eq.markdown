@@ -28,8 +28,8 @@ tm_campaigns:
 Data:
 - title: Humanitarian Data Exchange (Türkiye)
   link: https://data.humdata.org/organization/hot?q=turkey&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
-- Title: Humanitarian Data Exchange (Syrian Arab Republic)
-  Key: https://data.humdata.org/organization/hot?q=syrian&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
+- title: Humanitarian Data Exchange (Syrian Arab Republic)
+  link: https://data.humdata.org/organization/hot?q=syrian&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
 Tools:
 - tool: Export Tool
   Key: https://export.hotosm.org/en/v3/
