@@ -7,7 +7,7 @@ Project Summary Text: After any disaster, data is critical for life-saving and s
   devastating earthquake in Haiti </a>, the Humanitarian OpenStreetMap Team (HOT),
   as part of the wider OpenStreetMap (OSM) community, has been working to provide
   spatial data to inform disaster response and recovery via OSM.
-Feature Image: https://storage.ruptly.tv/thumbnails/20230209-040/4oeD7FNaXwjzCqAY/large_4oeD7FNaXwjzCqAY.jpg
+Feature Image: "/uploads/Hatay_Antakya_Center_After_Earthquake%20_Planet_20230211.png"
 Project Logo Image: https://wiki.openstreetmap.org/w/images/thumb/4/46/Yer_cizenler_logo.png/240px-Yer_cizenler_logo.png
 Is Community-Led: true
 Country:
