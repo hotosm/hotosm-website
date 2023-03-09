@@ -81,5 +81,5 @@ With the intent of increasing the availability of damaged building data and prop
 <h3>The data needs will evolve</h3>
 In addition to the above, and as the phases of the response shift, OSM data will also be used for long-term recovery efforts, such as rebuilding infrastructure and housing and improving disaster preparedness. The availability of detailed, up-to-date map data is an important resource in all stages of the disaster recovery process.
 
-It is important to remember that behind each data point, there is a tremendous human effort from volunteers and organizations. Every single object that has been mapped so far, has had human eyes creating, modifying, or validating it. The effort continues and, if you are a mapper who wants to get involved,<a href="https://data.humdata.org/dataset/hotosm_tur_destroyed_buildings"> you can do so here</a>.
+It is important to remember that behind each data point, there is a tremendous human effort from volunteers and organizations. Every single object that has been mapped so far, has had human eyes creating, modifying, or validating it. The effort continues and, if you are a mapper who wants to get involved,<a href="http://bit.ly/TurkiyeEQ2023"> you can do so here</a>.
 
