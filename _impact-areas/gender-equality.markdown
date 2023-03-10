@@ -5,7 +5,7 @@ position: 5
 Page Link:
   Text: Want to know more?
   Label: Download PDF Infosheet
-  Link: https://drive.google.com/file/d/1ymedpWrWl66rCYW9gwHzbqCkt549_k7Z/view?usp=share_link
+  Link: https://drive.google.com/file/d/1ymedpWrWl66rCYW9gwHzbqCkt549_k7Z/preview
 src: "/uploads/gender.svg"
 summary: Equal access & participation in open mapping. Improved understanding and
   accounting of gendered experiences & issues in all impact areas.
