@@ -1,6 +1,8 @@
 ---
 title: 'Turkey And Syria Response: A Month After The Earthquake'
 date: 2023-03-09 21:00:00 Z
+Summary Text: The mapping response to the Turkey and Syria earthquake has shown the
+  power of OSM data to support disaster response.
 Feature Image: "/uploads/Hatay_Antakya_Center_After_Earthquake%20_Planet_20230211.png"
 Is image top aligned: true
 Person:
@@ -63,7 +65,3 @@ With the intent of increasing the availability of damaged building data and prop
 In addition to the above, and as the phases of the response shift, OSM data will also be used for long-term recovery efforts, such as rebuilding infrastructure and housing and improving disaster preparedness. The availability of detailed, up-to-date map data is an important resource in all stages of the disaster recovery process.
 
 It is important to remember that behind each data point, there is a tremendous human effort from volunteers and organizations. Every single object that has been mapped so far, has had human eyes creating, modifying, or validating it. The effort continues and, if you are a mapper who wants to get involved, [you can do so here](https://www.hotosm.org/projects/join-the-turkey-and-syria-earthquake-response/).
-
-
- 
-
