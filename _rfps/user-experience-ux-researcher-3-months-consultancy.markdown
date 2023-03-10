@@ -55,4 +55,4 @@ HOT is accepting proposals for this work from individuals through March 10, 2023
 3. A basic schedule for meeting the deliverables noted above, including dates, level of effort and associated costs. 
 4. Your availability and overall fees
 
-Proposals should be submitted to [Jessie Pechman](mailto: jessie.pechman@hotosm.org) and [Petya Kangalova](mailto: petya.kangalova@hotosm.org) by 11:59 PM on March 12, 2023. 
+Proposals should be submitted to [Jessie Pechmann](mailto: jessie.pechmann@hotosm.org) and [Petya Kangalova](mailto: petya.kangalova@hotosm.org) by 11:59 PM on March 12, 2023. 
