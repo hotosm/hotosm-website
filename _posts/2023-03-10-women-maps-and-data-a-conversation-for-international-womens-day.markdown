@@ -52,7 +52,7 @@ Then she briefly shared with us other projects focused on products such as [Lata
 
 Professional in Social Work from UDEA. Specialist in municipal public administration and consultant on issues of Human Rights, Rurality, Vulnerable Communities and Public administration, for regional and local governments and international cooperation. Talent Woman of the city of Medellín (2009) in the category of social and political leadership, as leader of the citizen journalism project [HiperBarrio](https://rising.globalvoices.org/blog/2009/06/05/hiperbarrio-winner-of-the-prix-ars-electronica-awards/).
 
-Catalina shared various experiences obtained throughout her professional practice, of which she offers data such as the absence of female personnel with data and maps technical knowledge in almost all of the rural municipalities that she has had to visit, or the importance of visualizing data on maps for a better administration of the resources that international cooperation and regional governments provide in remote locations.
+Catalina [shared](https://twitter.com/OpenlabEc/status/1634228661657190407?t=zE-Ab8hBnCr9ZSDg-6l-rw&s=35) various experiences obtained throughout her professional practice, of which she offers data such as the absence of female personnel with data and maps technical knowledge in almost all of the rural municipalities that she has had to visit, or the importance of visualizing data on maps for a better administration of the resources that international cooperation and regional governments provide in remote locations.
 
 Finally, she reflected on the importance of taking into account women's and peasant knowledge in data collection done with technological tools that these populations often do not know how to use.
 
