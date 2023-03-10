@@ -10,6 +10,13 @@ tags:
 - Peru
 - Colombia
 - mujer
+Summary Text: Un grupo de brillantes mujeres latinoamericanas nos expone diversos
+  proyectos y nos cuentan variadas experiencias en el uso de mapas y datos, y también
+  sobre su ausencia.
+Feature Image: "/uploads/openlabmujdat2.jpg"
+Person: Juan Arellano Valdivia
+Project:
+- latam
 ---
 
 
