@@ -11,6 +11,7 @@ Feature Image: "/uploads/Hatay_Antakya_Center_After_Earthquake%20_Planet_2023021
 Project Logo Image: https://wiki.openstreetmap.org/w/images/thumb/4/46/Yer_cizenler_logo.png/240px-Yer_cizenler_logo.png
 Is Community-Led: true
 Country:
+- Syria
 - Turkey
 Impact Area:
 - Disasters & Climate Resilience
