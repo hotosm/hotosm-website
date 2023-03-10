@@ -25,12 +25,14 @@ tm_campaigns:
 Data:
 - title: Humanitarian Data Exchange (Türkiye)
   link: https://data.humdata.org/organization/hot?q=turkey&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
-- title: Humanitarian Data Exchange (Syrian Arab Republic)
-  link: https://data.humdata.org/organization/hot?q=syrian&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
+- link: https://data.humdata.org/organization/hot?q=syrian&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
+  title: Humanitarian Data Exchange (Syrian Arab Republic)
 Tools:
-- Tool: Export Tool
+- title: Export Tool
+  Tool: Export Tool
   Key: https://export.hotosm.org/en/v3/
-- Tool: Tasking Manager
+- link: Tasking Manager
+  Tool: Tasking Manager
   Key: https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
 Wiki Page: "[Turkey and Syria Earthquake Response February 2023 wiki](https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes)"
 Contact: disasterservices@hotosm.org
