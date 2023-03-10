@@ -29,8 +29,9 @@ Earthquakes create extreme challenges for navigation. Internet and cellular netw
 
 <div align="center"><iframe width="325" height="601" src="https://www.youtube.com/embed/zVLq1rMOcN8" title="Dr Çevik&#39;s message to mappers: &quot;Thank you all, you are doing really great work&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 <br>
-
+<div align="center">
 ![Turkey OSM quote narrow.png](/uploads/Turkey%20OSM%20quote%20narrow.png)
+</div>
 <figcaption align = "center"><h6>Message from a doctor in the field to a mapper. Translation: On the first day I went to Rehaniya, when google maps was not working, Organic Maps guided us. The importance of such tools is enormous. Good luck to you, Can. 🔥 organic maps 🔥 </h6></figcaption>
 
 <h2>Critical Infrastructure</h2>
@@ -56,11 +57,12 @@ OSM enables the rapid creation of maps in areas that did not have pre-existing m
  
 Promptly after the earthquake hit, organizations like the International Federation of the Red Cross/Red Crescent (IFRC) requested building-level vector data for post-disaster damage assessments from Yer Cizenler, the coordinator of the response. Using government data, a [Copernicus damage analysis](https://emergency.copernicus.eu/mapping/ems/damage-assessment), and pre-disaster OSM building footprints (more than 1.6 million have been mapped through today via the HOT Tasking Manager), IFRC performed a geospatial analysis to help them plan their aid in relief and recovery efforts by pinpointing the exact location of each destroyed building. 
 
-With the intent of increasing the availability of damaged building data and properly reflecting the current state of the conditions in the ground in OSM, Yer Cizenler also used the Copernicus damage analysis to update  OSM buildings through a [MapRoulette campaign](https://maproulette.org/browse/challenges/37943). The validation process involved high-resolution imagery from drones and satellites, which helped ensure the quality of the digitized data. The resulting [dataset](https://data.humdata.org/dataset/hotosm_tur_destroyed_buildings) that identifies destroyed buildings is now available through [HDX](https://data.humdata.org/event/turkiye-syria-earthquakes) and has been downloaded over 500+ times. 
-
 ![Jakarta-Mapping-Timeline.png](https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/cut_composite_IFRC.png) 
 
 <figcaption align = "center"><h6>"South-East Turkiye Earthquake: <a href="https://data.humdata.org/dataset/hotosm_tur_destroyed_buildings">Building damage composite of available sources for highlighted cities"</a> using OSM/HOT data February 16 2023.</h6></figcaption>
+<br>
+
+With the intent of increasing the availability of damaged building data and properly reflecting the current state of the conditions in the ground in OSM, Yer Cizenler also used the Copernicus damage analysis to update  OSM buildings through a [MapRoulette campaign](https://maproulette.org/browse/challenges/37943). The validation process involved high-resolution imagery from drones and satellites, which helped ensure the quality of the digitized data. The resulting [dataset](https://data.humdata.org/dataset/hotosm_tur_destroyed_buildings) that identifies destroyed buildings is now available through [HDX](https://data.humdata.org/event/turkiye-syria-earthquakes) and has been downloaded over 500+ times. 
 
 <h2>The Data Needs Will Evolve</h2>
 
