@@ -5,7 +5,7 @@ position: 5
 Page Link:
   Text: Want to know more?
   Label: Download PDF Infosheet
-  Link: https://drive.google.com/file/d/1UyPja2sgg8JXzzjz_tONjrHa4N_JaX5d/preview
+  Link: https://drive.google.com/file/d/1ymedpWrWl66rCYW9gwHzbqCkt549_k7Z/view?usp=share_link
 src: "/uploads/gender.svg"
 summary: Equal access & participation in open mapping. Improved understanding and
   accounting of gendered experiences & issues in all impact areas.
@@ -19,7 +19,7 @@ block-1:
     title: Open Mapping for Gender Equality
     points:
     - title: A more representative map in OSM
-      summary: ''
+      summary: 
       subs:
       - title: Tags that reflect gender-specific places of interest
         points: 
@@ -28,9 +28,9 @@ block-1:
         points: 
     - title: Gender-focused projects across all Impact Areas  improve quality of life
         for all vulnerable populations
-      summary: ''
+      summary: 
       subs:
-      - title: ''
+      - title: 
         points: 
 block-2:
   title: Example Spatial Analyses
@@ -40,7 +40,7 @@ block-2:
   - Infant care location (breastfeeding, changing tables, etc) availability
 block-3:
   heading: HOT Gender Equality Projects
-  subheading: ''
+  subheading: 
   sections:
   - heading: See also
     points:
