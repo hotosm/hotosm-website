@@ -1,6 +1,16 @@
 ---
 title: 'Women, maps and data: a conversation for International Women''s Day'
 date: 2023-03-10 06:23:00 Z
+categories:
+- community
+- data
+tags:
+- latam
+- ecuador
+- peru
+- colombia
+- woman
+- IWD
 Summary Text: A group of brilliant Latin American women expose us to various projects
   and tell us about various experiences in the use of maps and data, and also about
   their absence.
