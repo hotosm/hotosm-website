@@ -1,5 +1,5 @@
 ---
-title: Tips for All Mappers
+title: Tips for Mappers from the HOT Data Team
 date: 2023-03-13 18:28:00 Z
 Summary Text: Whether you just started mapping to support the earthquake response
   in Turkey and Syria or if you have been mapping for years, it is always helpful
