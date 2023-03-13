@@ -45,6 +45,8 @@ The priorities for mapping on the HOT tasking manager are currently:
 
 * [MISSING MAPS - EARTHQUAKE SYRIA, IDLIB DISTRICT (RURAL)](https://tasks.hotosm.org/projects/14311)
 
+You can find the complete list of projects [here](https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023).
+
 ### If you are already an experienced validator...
 
 The priorities for validation on the HOT tasking manager are currently:
@@ -59,4 +61,4 @@ If you are an advanced mapper and would like to join the HOT Global Validators T
 
 * Download [datasets of the affected areas from HDX](https://data.humdata.org/event/turkiye-syria-earthquakes). Datasets are regularly updated with new data from the OSM mapping above.
 
-Visit the [Turkey and Syria Earthquake Response Activation page](https://www.hotosm.org/disaster-services/turkiye-earthquakes-february-2023-activation/) for more details and statistics on the mapping response.
+* Visit the [Turkey and Syria Earthquake Response Activation page](https://www.hotosm.org/disaster-services/turkiye-earthquakes-february-2023-activation/) for more details and statistics on the mapping response.
