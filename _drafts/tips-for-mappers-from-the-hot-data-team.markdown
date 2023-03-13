@@ -35,12 +35,12 @@ Data from OpenStreetMap is heavily used in routing applications. See the Wiki pa
 * **Make sure only to map highways and roads that are connected.** The disconnected highways that lead to nowhere shouldn't be mapped.
 * **All highways and roads should connect to each other at least from the start** of the highway or road segment or from where the segment joins another highway or road. This can be achieved by snapping newly created segments to the existing highways and roads. The best practice is to start by snapping to an existing highway or road while tracing the new highway.
 ![Mapping Tips 2.png](/uploads/Mapping%20Tips%202.png)
-Fig 2. An unconnected highway should be linked to a nearby route.
+*Fig 2. An unconnected highway should be linked to a nearby route.*
 
 ## Geometry/Positional Accuracy
 Incorrect geometry can result in bad visualization, inaccurate routing, and potentially serious safety risks if the data is used for navigation. Inaccurate geometry can also impact the quality of data analysis and visualization, making it more difficult for data users to understand and use the data to make decisions. For example, suppose the geometry of a building or land-use region is incorrect. In that case, it might be difficult to perform spatial analysis, such as determining the distance between two locations or the size of a specific land use. Some tips to make your edits in OpenStreetMap useful to other people:
 * Square the buildings (by pressing Q in both JOSM and iD Editor). Unless satellite imagery clearly indicates something different, the majority of buildings can be assumed to be rectangular.
 ![Mapping Tips 3.png](/uploads/Mapping%20Tips%203.png)
-Fig 3. Unsquared building in iD Editor
+*Fig 3. Unsquared building in iD Editor*
 * Only map objects you are sure about and can clearly see.
 * Do not draw objects that are crossing each other. If the nodes/way need to be connected, do it by sharing nodes.
