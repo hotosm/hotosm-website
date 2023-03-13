@@ -11,7 +11,7 @@ Person:
 - Samson Ngumenawe
 ---
 
-## Managing / authoring Projects on the Tasking Manager
+## Managing / authoring Projects on the Tasking Manager 
 
 **For project managers or authors**
 * Projects in densely developed urban areas should be prioritized for intermediate and advanced mappers. However, projects in peri-urban or rural developed areas should be made open for all mapper levels. This speeds up the validation process.
