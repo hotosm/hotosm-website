@@ -40,7 +40,7 @@ layout: project-item
 ---
 
 
-<div align="left">### How to participate as a beginner mapper:</div>
+### How to participate as a beginner mapper:
 
 The best way to learn how to contribute to the response if you are a beginner is to join a community mapathon. You can find them on the [OSM wiki](https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes#Community_Mapathons) or on [the OSM calendar](https://osmcal.org/).
 
