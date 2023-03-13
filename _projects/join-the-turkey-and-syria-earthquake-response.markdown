@@ -21,6 +21,8 @@ The best way to learn how to contribute to the response if you are a beginner is
 
 You can also contribute to the [MapRoulette challenges of Yer Çizenler](https://maproulette.org/browse/projects/51027) to tag the collapsed buildings from verified datasets. (Challenges not always available. Check back regularly.)
 
+If there are not any MapRoulette challenges currently available, beginner mappers can watch this [video for tips](https://www.youtube.com/watch?v=dbmcwMLhcwM) on how to contribute to the Tasking Manager projects for this response.
+
 You can also find support and advice on the [HOTOSM slack channels](https://slack.hotosm.org/) for #disastermapping and #mappersupport
 
 ### If you are already an intermediate or advanced mapper...
