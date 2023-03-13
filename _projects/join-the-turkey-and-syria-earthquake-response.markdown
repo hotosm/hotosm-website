@@ -25,8 +25,9 @@ tm_campaigns:
 layout: project-item
 ---
 
+<div align="left">
 ### How to participate as a beginner mapper:
-
+</div>
 The best way to learn how to contribute to the response if you are a beginner is to join a community mapathon. You can find them on the [OSM wiki](https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes#Community_Mapathons) or on [the OSM calendar](https://osmcal.org/).
 
 You can also contribute to the [MapRoulette challenges of Yer Çizenler](https://maproulette.org/browse/projects/51027) to tag the collapsed buildings from verified datasets. (Challenges not always available. Check back regularly.)
@@ -35,6 +36,7 @@ If there are not any MapRoulette challenges currently available, beginner mapper
 
 You can also find support and advice on the [HOTOSM slack channels](https://slack.hotosm.org/) for #disastermapping and #mappersupport
 
+<div align="left">
 ### If you are already an intermediate or advanced mapper...
 
 The priorities for mapping on the HOT tasking manager are currently:
@@ -50,7 +52,7 @@ The priorities for validation on the HOT tasking manager are currently:
 * [MISSING MAPS - EARTHQUAKE SYRIA, HAREM DISTRICT](https://tasks.hotosm.org/projects/14246)
 
 * [M7.8 EARTHQUAKE TÜRKIYE, SANLIURFA](https://tasks.hotosm.org/projects/14235)
-
+</div>
 If you are an advanced mapper and would like to join the HOT Global Validators Team, [please fill in your details here](http://bit.ly/HOTValidators).
 
 ### Where to find data:
