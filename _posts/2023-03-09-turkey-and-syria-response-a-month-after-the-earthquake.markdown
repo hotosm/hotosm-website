@@ -41,7 +41,7 @@ Beyond road networks, information on OSM about critical infrastructure, such as 
 <div align="center">
 <img src="https://lh4.googleusercontent.com/O1Ia5wP885sEuWnlsNNVgsDLlRZWMlj4Aesd1cVH3zMGURdh1JSw3m1GaFcbW6QD7RE=w2400" alt="MarineGEO circle logo" style="height: 70%; width:70%; aligne = center;"/>
 </div>
-<figcaption align = "center"><h6>Map depicting access routes and other key logistical pieces in the affected areas. <a href="https://lh4.googleusercontent.com/O1Ia5wP885sEuWnlsNNVgsDLlRZWMlj4Aesd1cVH3zMGURdh1JSw3m1GaFcbW6QD7RE=w2400">Use of OSM roads credited</a>.</h6></figcaption>
+<figcaption align = "center"><h6>World Food Programme map depicting access routes and other key logistical pieces in the affected areas. <a href="https://lh4.googleusercontent.com/O1Ia5wP885sEuWnlsNNVgsDLlRZWMlj4Aesd1cVH3zMGURdh1JSw3m1GaFcbW6QD7RE=w2400">Use of OSM roads credited</a>.</h6></figcaption>
 
 <h2>Base Maps</h2>
 
