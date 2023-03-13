@@ -27,7 +27,7 @@ Person:
 ![Mapping Tips 1.png](/uploads/Mapping%20Tips%201.png)
 *Fig 1. Priority areas in Tasking Manager*
 
-**A message from Ralph to all validators: **
+**A message from Ralph to all validators:**
 > "Validators, your role is to check the standard of the work. If it is of an acceptable standard, then you validate it. If it has a few errors, then you can decide to fix it yourself and validate it. If there is an appreciable amount of errors, then you invalidate it. If the work was done recently, you can message the mapper to advise them on improving their mapping. It is not the prime task of validators to clean up the mapping (although we use validators for that as they have the necessary skills to do that efficiently). Remember that by invalidating a task, you are sending a message to the Project Creators that there is something wrong with the mapping, and this can result in the project creator raising the level of mapper allowed to map and trainers revising the way they train the mappers. That does not mean that you are not allowed to fix up mapping. You are volunteers, and that is your decision to make. We are all concerned about maintaining the standard of the mapping we put onto OpenStreetMap."
 
 ## Tips for All Mappers
