@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Job Title: Global Programs Coordinator
 Team: Global
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Nikkon
 ---
 
 I am Nikkon Balial, currently based in New Delhi, India. I have worked across program coordination and management roles in NGOs, social enterprises, start-ups, and international organizations. I am a motivated professional with research, M&E, and Partnerships skills. 
