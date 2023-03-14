@@ -11,15 +11,6 @@ Person:
 - Samson Ngumenawe
 ---
 
-## Managing / authoring Projects on the Tasking Manager 
-
-**For project managers or authors**
-* Projects in densely developed urban areas should be prioritized for intermediate and advanced mappers. However, projects in peri-urban or rural developed areas should be made open for all mapper levels. This speeds up the validation process.
-* Sometimes, overdue projects can become stale, and to stay on schedule, project creators should publish projects one at a time. If the project takes a long time to complete, imagery may change during the mapping or validation process, affecting the data's recency.
-* Invite experienced mappers to become validators. People can establish [their own team](https://tasks.hotosm.org/manage/teams/new/) or sign up for the [HOT Global Validator](https://tasks.hotosm.org/teams/7/membership/) community. For Turkey/Syria mapping activation, validation is only carried out by the validator teams.
-* Keep an eye on the topic in the Questions & Comments section. Feedback is important for ensuring good data quality.
-* You can [review detailed project management guidelines here](https://docs.google.com/presentation/d/1gU6rp5UOO3JVwzlhXgXGaQ_5tMDuLvo4MpjaRsZ_07o/edit?usp=sharing).
-
 ## Mapping through the HOT Tasking Manager
 * Please read all the instructions for a specific mapping project and concentrate your efforts on the features requested in the project. You can map other features, but be aware that they may not be mapped in other tasks in the project. This can affect the data's completeness and impact the time it takes to validate the data.
 * Use the imagery specified in the instructions. (Of course, use other imagery if the specified imagery is not clear in a given task or to check your edits.)
@@ -29,9 +20,6 @@ Person:
 
 <figcaption align = "left"><h6>Fig 1. Priority areas in Tasking Manager</h6></figcaption>
 <br>
-
-**A message from Ralph to all validators:**
-> "Validators, your role is to check the standard of the work. If it is of an acceptable standard, then you validate it. If it has a few errors, then you can decide to fix it yourself and validate it. If there is an appreciable amount of errors, then you invalidate it. If the work was done recently, you can message the mapper to advise them on improving their mapping. It is not the prime task of validators to clean up the mapping (although we use validators for that as they have the necessary skills to do that efficiently). Remember that by invalidating a task, you are sending a message to the Project Creators that there is something wrong with the mapping, and this can result in the project creator raising the level of mapper allowed to map and trainers revising the way they train the mappers. That does not mean that you are not allowed to fix up mapping. You are volunteers, and that is your decision to make. We are all concerned about maintaining the standard of the mapping we put onto OpenStreetMap."
 
 ## Highway Connectivity
 Data from OpenStreetMap is heavily used in routing applications. See the Wiki page (https://wiki.openstreetmap.org/wiki/Routing). Here are some tips to make your edits in OpenStreetMap useful to other people:
@@ -57,3 +45,15 @@ Incorrect geometry can result in bad visualization, inaccurate routing, and pote
 ![Connected Node not Overlap.png](/uploads/Connected%20Node%20not%20Overlap.png)
 
 <figcaption align = "left"><h6>Fig 4. Unconnected paths vs. connected paths</h6></figcaption>
+
+## Managing / Authoring Projects on the Tasking Manager 
+
+**For project managers or authors**
+* Projects in densely developed urban areas should be prioritized for intermediate and advanced mappers. However, projects in peri-urban or rural developed areas should be made open for all mapper levels. This speeds up the validation process.
+* Sometimes, overdue projects can become stale, and to stay on schedule, project creators should publish projects one at a time. If the project takes a long time to complete, imagery may change during the mapping or validation process, affecting the data's recency.
+* Invite experienced mappers to become validators. People can establish [their own team](https://tasks.hotosm.org/manage/teams/new/) or sign up for the [HOT Global Validator](https://tasks.hotosm.org/teams/7/membership/) community. For Turkey/Syria mapping activation, validation is only carried out by the validator teams.
+* Keep an eye on the topic in the Questions & Comments section. Feedback is important for ensuring good data quality.
+* You can [review detailed project management guidelines here](https://docs.google.com/presentation/d/1gU6rp5UOO3JVwzlhXgXGaQ_5tMDuLvo4MpjaRsZ_07o/edit?usp=sharing).
+
+**A message from Ralph to all validators:**
+> "Validators, your role is to check the standard of the work. If it is of an acceptable standard, then you validate it. If it has a few errors, then you can decide to fix it yourself and validate it. If there is an appreciable amount of errors, then you invalidate it. If the work was done recently, you can message the mapper to advise them on improving their mapping. It is not the prime task of validators to clean up the mapping (although we use validators for that as they have the necessary skills to do that efficiently). Remember that by invalidating a task, you are sending a message to the Project Creators that there is something wrong with the mapping, and this can result in the project creator raising the level of mapper allowed to map and trainers revising the way they train the mappers. That does not mean that you are not allowed to fix up mapping. You are volunteers, and that is your decision to make. We are all concerned about maintaining the standard of the mapping we put onto OpenStreetMap."
