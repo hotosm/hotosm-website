@@ -24,8 +24,9 @@ Person:
 * Please read all the instructions for a specific mapping project and concentrate your efforts on the features requested in the project. You can map other features, but be aware that they may not be mapped in other tasks in the project. This can affect the data's completeness and impact the time it takes to validate the data.
 * Use the imagery specified in the instructions. (Of course, use other imagery if the specified imagery is not clear in a given task or to check your edits.)
 * Focus on the priority area first, usually drawn in red polygon in each project. Here is the example from project #14234.
-
+<div align="center">
 ![Mapping Tips 1.png](/uploads/Mapping%20Tips%201.png)
+</div>
 <figcaption align = "center"><h6>Fig 1. Priority areas in Tasking Manager</h6></figcaption>
 
 **A message from Ralph to all validators:**
@@ -36,16 +37,21 @@ Data from OpenStreetMap is heavily used in routing applications. See the Wiki pa
 * **Make sure only to map highways and roads that are connected.** The disconnected highways that lead to nowhere shouldn't be mapped.
 * **All highways and roads should connect to each other at least from the start** of the highway or road segment or from where the segment joins another highway or road. This can be achieved by snapping newly created segments to the existing highways and roads. The best practice is to start by snapping to an existing highway or road while tracing the new highway.
 
+<div align="center">
 ![Mapping Tips 2.png](/uploads/Mapping%20Tips%202.png)
+</div>
 <figcaption align = "center"><h6>Fig 2. An unconnected highway should be linked to a nearby route.</h6></figcaption>
 
 ## Geometry/Positional Accuracy
 Incorrect geometry can result in bad visualization, inaccurate routing, and potentially serious safety risks if the data is used for navigation. Inaccurate geometry can also impact the quality of data analysis and visualization, making it more difficult for data users to understand and use the data to make decisions. For example, suppose the geometry of a building or land-use region is incorrect. In that case, it might be difficult to perform spatial analysis, such as determining the distance between two locations or the size of a specific land use. Some tips to make your edits in OpenStreetMap useful to other people:
 * Square the buildings (by pressing Q in both JOSM and iD Editor). Unless satellite imagery clearly indicates something different, the majority of buildings can be assumed to be rectangular.
-
+<div align="center">
 ![Mapping Tips 3.png](/uploads/Mapping%20Tips%203.png)
+</div>
 <figcaption align = "center"><h6>Fig 3. Unsquared building in iD Editor</h6></figcaption>
 * Only map objects you are sure about and can clearly see.
 * Do not draw objects that are crossing each other. If the nodes/way need to be connected, do it by sharing nodes.
+<div align="center">
 ![Connected Node not Overlap.png](/uploads/Connected%20Node%20not%20Overlap.png)
+</div>
 <figcaption align = "center"><h6>Fig 4. Unconnected paths vs. connected paths</h6></figcaption>
