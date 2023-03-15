@@ -5,6 +5,8 @@ Deadline Date: 2023-03-31 00:00:00 Z
 Page Contact:
   Contact Email: anne.sorensen@hotosm.org
   Label: Anne Sorensen
+Location:
+  Location: Global Remote
 ---
 
 ## About the Assignment
@@ -38,6 +40,7 @@ Two of HOT’s values are crucial in this effort:
 2. Collaborate for impact - this project should be consultative in nature and should include engagement with HOT’s governance working group, voting members, board members, and relevant staff
 
 **Proposed Process**
+<br>
 <br>
 We see the process for evolving our governance structure as outlined below but we are open to recommendations for the approach and suggested outputs.
 
