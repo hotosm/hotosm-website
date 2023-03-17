@@ -1,6 +1,8 @@
 ---
 title: HOT approach to OSM data validation to EQ Mapping Projects
 date: 2023-03-17 02:29:00 Z
+published: false
+Feature Image: "/uploads/TSEQ_Data_Use_1.png"
 ---
 
 OpenStreetMap (OSM) data can be invaluable for disaster response efforts. It can provide spatial data updates about the affected area and help emergency responders to plan their operations more effectively.  
