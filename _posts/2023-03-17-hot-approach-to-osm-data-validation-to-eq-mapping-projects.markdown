@@ -7,7 +7,7 @@ Summary Text: Because OpenStreetMap is a crowd-sourcing project where everyone c
   to support high-quality crowd-sourced OSM data. We have a four step validation process
   to ensure that the data created for emergencies like the current Turkey and Syria
   earthquake response is fit for use.
-Feature Image: "/uploads/Validation_Process_1A.png"
+Feature Image: "/uploads/Validation_Process_1B.png"
 Is image top aligned: true
 Person: Samson Ngumenawe
 Working Group:
@@ -34,7 +34,7 @@ Because OpenStreetMap is a crowd-sourcing project where everyone can freely cont
  
 The first step towards good quality data is good mapping project design on the Tasking Manager. A good mapping project has clear and comprehensive instructions about what should be mapped, who should map, how they should map, the imagery to be used, the timeline of the mapping, and who should validate the data.
 
-![Validation_Process_2.png](/uploads/Validation_Process_2.png)
+![Validation_Process_2B.png](/uploads/Validation_Process_2B.png)
 
 ### Mapping
 
@@ -46,14 +46,14 @@ Projects in the peri-urban areas characterized by low-density buildings and road
 
 Similarly, some project areas where data is urgently needed are prioritized and opened to intermediate and advanced mappers to enable the quick creation of high-quality data. 
 
-![Validation_Process_3.png](/uploads/Validation_Process_3.png)
+![Validation_Process_3B.png](/uploads/Validation_Process_3B.png)
 <figcaption align = "left"><h6>In the Tasking Manager, mapper level is indicated by a star. No star means a beginner mapper, a half star is an intermediate mapper, and a full star is an advanced mapper.</h6></figcaption>
 
 ### Validation
 
 The Tasking Manager allows project creators to set who should validate specific projects. For earthquake response projects, all the validation is done by the selected teams whose members have been verified and meet the minimum required changesets to be validators. A validation team is a group of advanced volunteer mappers that an organization has coordinated to improve the quality of OSM data in that organization’s Tasking Manager projects. Some validator teams checking earthquake response mapping projects include the HOT global validators, validator trainees, UN Mappers, and OSM Africa validators.
 
-![Validation_Process_4.png](/uploads/Validation_Process_4.png)
+![Validation_Process_4B.png](/uploads/Validation_Process_4B.png)
 
 > “The primary role of the validator is to check and verify that the data created in a specific task on the tasking manager meets the required standard, and the instructed features have all been mapped in that task.” - Ralph Aytoun, Validation Lead
 
@@ -66,14 +66,14 @@ Once the task has been completely mapped, the validator performs the following s
 * Bad geometries, including overlapping features and crossing features like buildings and highways
 * Hanging nodes and ways that lack any tags describing what they are
 
-![Validation_Process_5.png](/uploads/Validation_Process_5.png)
+![Validation_Process_5B.png](/uploads/Validation_Process_5B.png)
 
 3.) Third, they validate tasks that have been well-mapped and invalidate tasks that are missing features or not mapped well. For the invalidated tasks, the indicates why the task was invalidated.
 4.) Finally, they give the mappers feedback. If the task is invalid, the validator explains the reason so that the mappers know how to fix the task. Validators also send messages to mappers to guide them on improving their mapping by linking them to web content like Youtube videos or other learning resources. If the task is validated, an automated message goes to the mapper to let them know. However, the validator can also send a message to the mapper thanking them for their contribution.
 
 Please note that this validation is at the task level. Each project task is checked individually and validated or invalidated depending on the quality of mapped data in that task.
 
-![Validation_Process_6.png](/uploads/Validation_Process_6.png)
+![Validation_Process_6B.png](/uploads/Validation_Process_6B.png)
 
 ### Final Clean-up
 
@@ -81,7 +81,7 @@ Please note that this validation is at the task level. Each project task is chec
 
 All earthquake response mapping projects are subject to this final clean-up step. During this clean-up, the boundaries of a completed project are used to create the final clean-up project on the Tasking Manager, where a few highly experienced mappers and validators run validation checks for the combined area. During this validation, validators use advanced operations in JOSM, like filters and map paint styles, to query specific map features and find the errors. 
 
-![Validation_Process_7.png](/uploads/Validation_Process_7.png)
+![Validation_Process_7B.png](/uploads/Validation_Process_7B.png)
 
 During the final clean-up, the errors and warnings validators check for include:
 * Unconnected highways that can be a result of mappers not carrying them over task boundaries
