@@ -1,5 +1,5 @@
 ---
-title: HOT approach to OSM data validation to EQ Mapping Projects
+title: HOT's Approach to OSM data validation to EQ Mapping Projects
 date: 2023-03-17 02:29:00 Z
 published: false
 Feature Image: "/uploads/TSEQ_Data_Use_1.png"
@@ -9,7 +9,7 @@ OpenStreetMap (OSM) data can be invaluable for disaster response efforts. It can
 
 In the recent  7.8, 7.6, and 6.5 magnitude earthquakes in Turkey and Syria, [Yer Cizenler](https://yercizenler.org/en/home/) requested assistance in [mapping the devastated areas](https://parametric-architecture.com/yer-cizenler-calls-you-to-map-earthquake-effects-in-southern-turkey/). The geodata these mappers are creating is benefiting humanitarian workers on the ground, but to be useful, the data must be high quality.
 
-Because OpenStreetMap is a crowd-sourcing project where everyone can freely contribute to the map, the Humanitarian OpenStreetMap Team has devised measures to support high-quality crowd-sourced OSM data. The Tasking Manager is one of the tools that has been widely used in the Turkey and Syria Earthquake response mapping. Below is our data quality checking and assurance process:
+Because OpenStreetMap is a crowd-sourcing project where everyone can freely contribute to the map, the Humanitarian OpenStreetMap Team has devised measures to support high-quality crowd-sourced OSM data. The Tasking Manager has been widely used in the Turkey and Syria Earthquake response mapping, and the steps we take to ensure the quality of the created data are:
 
 1. Project creation
 2. Mapping
@@ -22,7 +22,7 @@ The first step towards good quality data is good mapping project design on the T
 Mapping:
 Highly experienced and trained project creators from the Open Mapping Hub - Asia Pacific created all the earthquake response projects. They created projects with different difficulty levels to reach a broader range of mappers while maintaining quality mapping.
 
-Projects in high-density towns were set to be mapped and validated by mappers with intermediate and advanced levels of mapping. Imagery is rarely from directly overhead, and mapping high-rise buildings requires drawing their footprint, which the bulk of the building may obscure. 
+Projects in high-density towns were set to be mapped and validated by mappers with intermediate and advanced levels of mapping. Imagery is rarely from directly overhead, and mapping high-rise buildings requires drawing their footprint, which may be obscured by the bulk of the building. 
 
 Projects in the peri-urban areas characterized by low-density buildings and roads are open to all levels of mappers but closely reviewed by skilled validators.
 
@@ -65,7 +65,7 @@ During the final clean-up, the errors and warnings validators check for include:
 * Building accuracy - combined buildings, footprints, completeness, and continuity of the map features
 
 New Strategies
-Some of the upcoming earthquake response mapping projects in the HOT tasking manager, in Syria and Turkey will be open to selected highly experienced mappers to map roads and later will be opened to other mappers to add buildings and other features as will be instructed.  Tasks marked as priority areas will be opened for advanced mappers to quicken the speed of data creation whereas the rest of the projects will be open for all mappers levels. These projects will however follow the validation process up to the final clean-up stage.
+Some of the upcoming earthquake response mapping projects in the HOT tasking manager, in Syria and Turkey will be open to selected highly experienced mappers to map roads and later will be opened to other mappers to add buildings and other features as will be instructed. Tasks marked as priority areas will be opened for advanced mappers to quicken the speed of data creation whereas the rest of the projects will be open for all mappers levels. These projects will however follow the validation process up to the final clean-up stage.
 
 Lessons Learned
 
@@ -78,7 +78,3 @@ Most of the roads were tagged as residential by default, even when they should h
 The challenges triggered a number of data quality checks that included
 * Changes in validation permissions from intermediate and advanced mappers to only validation team members.
 * Separate projects for high density urban areas were created and mapped only by intermediate and advanced mappers.
-
-
-
-
