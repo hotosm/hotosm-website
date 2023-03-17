@@ -47,13 +47,13 @@ Once the task has been completely mapped, the validator performs the following s
 * Hanging nodes and ways that lack any tags describing what they are
 
 3.) Third, they validate tasks that have been well-mapped and invalidate tasks that are missing features or not mapped well. For the invalidated tasks, the indicates why the task was invalidated.
-4.) Finally, they give the mappers feedback. If the task is invalid, the validator explains the reason so that the mappers will know how to fix the task. Validators also send messages to mappers to guide them on how to improve their mapping by linking them to web content like Youtube videos or other learning resources. If the task is validated, an automated message goes to the mapper letting them know. However, the validator can also choose to send a message to the mapper thanking them for their contribution.
+4.) Finally, they give the mappers feedback. If the task is invalid, the validator explains the reason so that the mappers know how to fix the task. Validators also send messages to mappers to guide them on improving their mapping by linking them to web content like Youtube videos or other learning resources. If the task is validated, an automated message goes to the mapper to let them know. However, the validator can also send a message to the mapper thanking them for their contribution.
 
-Please note that this validation is at task level. Each project task is checked individually and validated or invalidated depending on the quality of mapped data in that task.
+Please note that this validation is at the task level. Each project task is checked individually and validated or invalidated depending on the quality of mapped data in that task.
 
 Final Clean-up
 
-“Final clean-up” is an advanced data check step that combines several task areas at once, or even the entire project area, and checks them to get rid of the errors that are a result of features straddling task boundaries or from other human errors that remain after validation.
+“Final clean-up” is an advanced data check step that combines several task areas at once, or even the entire project area, and checks them to eliminate the errors resulting from features straddling task boundaries or from other human errors that remain after validation.
 
 All earthquake response mapping projects are subject to this final clean-up step. During this clean-up, the boundaries of a completed project are used to create the final clean-up project on the Tasking Manager, where a few highly experienced mappers and validators run validation checks for the combined area. During this validation, validators use advanced operations in JOSM, like filters and map paint styles, to query specific map features and find the errors. 
 
@@ -65,16 +65,16 @@ During the final clean-up, the errors and warnings validators check for include:
 * Building accuracy - combined buildings, footprints, completeness, and continuity of the map features
 
 New Strategies
-Some of the upcoming earthquake response mapping projects in the HOT tasking manager, in Syria and Turkey will be open to selected highly experienced mappers to map roads and later will be opened to other mappers to add buildings and other features as will be instructed. Tasks marked as priority areas will be opened for advanced mappers to quicken the speed of data creation whereas the rest of the projects will be open for all mappers levels. These projects will however follow the validation process up to the final clean-up stage.
+Some of the upcoming earthquake response mapping projects on the HOT tasking manager in Syria and Turkey will be open to selected highly experienced mappers to map roads and later will be opened to other mappers to add buildings and other features as will be instructed. Tasks marked as priority areas will be opened for advanced mappers to quicken the speed of data creation, whereas the rest of the projects will be open for all mappers levels. These projects will, however, follow the validation process up to the final clean-up stage.
 
 Lessons Learned
 
-We used RapID and AI data in this activation in an effort to support the large volume of data that needed to be quickly created. With many new mappers were participating, many of whom did not have experience mapping with AI suggestions, the activation faced challenges with using RapID data:
-Most of the roads were tagged as residential by default, even when they should have received other classifications and this was not obvious to new mappers.
-* Most of the buildings in high density areas were combined and roofs not separated from footprints.
-* New mappers were tending to accept RapID data wholesale as correct which was very often not the case. Poor quality machine learning-derived data in this instance was not helpful and we elected to not use RapID when creating additional projects in the activation area.
-* Even after validation, there were several unconnected highways that were as a result of discontinuity of mapped AI features.
+We used RapID and AI data in this activation in an effort to support the large volume of data that needed to be quickly created. With many new mappers participating, many of whom did not have experience mapping with AI suggestions, the activation faced challenges with using RapID data:
+Most of the roads were tagged as residential by default, even when they should have received other classifications, and this was not obvious to new mappers.
+* Most buildings in high-density areas were combined, and roofs were not separated from footprints.
+* New mappers tended to accept RapID data wholesale as correct, which was often not the case. In this instance, poor-quality machine learning-derived data was not helpful, and we elected not to use RapID when creating additional projects in the activation area.
+* Even after validation, there were several unconnected highways that were a result of the discontinuity of mapped AI features.
 
-The challenges triggered a number of data quality checks that included
-* Changes in validation permissions from intermediate and advanced mappers to only validation team members.
-* Separate projects for high density urban areas were created and mapped only by intermediate and advanced mappers.
+The challenges triggered several data quality checks that included:
+* Changing who could validate from intermediate and advanced mappers to only validation team members.
+* Separate projects for high-density urban areas were created and mapped only by intermediate and advanced mappers.
