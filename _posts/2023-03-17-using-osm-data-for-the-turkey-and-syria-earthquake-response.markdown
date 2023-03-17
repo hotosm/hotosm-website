@@ -1,11 +1,19 @@
 ---
 title: Using OSM Data in the Turkey and Syria Earthquake Response
 date: 2023-03-17 01:57:00 Z
+Summary Text: In the aftermath of the Syria-Turkey earthquake, OSM is allowing responders
+  to quickly access up-to-date maps and geospatial data to aid in search and rescue
+  efforts,  access and contextualize damage assessments, and plan relief and recovery
+  efforts. Here are the data sets available for response organizations and examples
+  of how they are being used.
 Feature Image: "/uploads/TSEQ_Data_Use_1.png"
 Is image top aligned: true
 Person:
 - Jessica Pechmann
 - Claudio de los Reyes
+Country:
+- Turkey
+- Syria
 Project:
 - Join the Turkey & Syria Earthquake Response
 ---
