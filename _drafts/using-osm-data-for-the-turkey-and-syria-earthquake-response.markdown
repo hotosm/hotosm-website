@@ -1,5 +1,5 @@
 ---
-title: Using OSM Data for the Turkey and Syria Earthquake Response
+title: Using OSM Data in the Turkey and Syria Earthquake Response
 date: 2023-03-17 01:57:00 Z
 ---
 
