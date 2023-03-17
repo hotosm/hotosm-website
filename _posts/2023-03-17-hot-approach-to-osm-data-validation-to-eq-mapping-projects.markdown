@@ -1,7 +1,6 @@
 ---
 title: HOT's Approach to OSM data validation to EQ Mapping Projects
 date: 2023-03-17 02:29:00 Z
-published: false
 Summary Text: Because OpenStreetMap is a crowd-sourcing project where everyone can
   freely contribute to the map, the Humanitarian OpenStreetMap Team has devised measures
   to support high-quality crowd-sourced OSM data. We have a four step validation process
