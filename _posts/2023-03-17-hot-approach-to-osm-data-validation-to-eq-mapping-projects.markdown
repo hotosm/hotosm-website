@@ -3,6 +3,14 @@ title: HOT's Approach to OSM data validation to EQ Mapping Projects
 date: 2023-03-17 02:29:00 Z
 published: false
 Feature Image: "/uploads/TSEQ_Data_Use_1.png"
+Person: Samson Ngumenawe
+Working Group:
+- Quality Control and Assurance
+Country:
+- Turkey
+- Syria
+Project:
+- Join the Turkey & Syria Earthquake Response
 ---
 
 OpenStreetMap (OSM) data can be invaluable for disaster response efforts. It can provide spatial data updates about the affected area and help emergency responders to plan their operations more effectively.  
