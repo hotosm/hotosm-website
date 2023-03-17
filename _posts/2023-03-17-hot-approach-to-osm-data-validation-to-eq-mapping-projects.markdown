@@ -1,5 +1,5 @@
 ---
-title: HOT's Approach to OSM data validation to EQ Mapping Projects
+title: HOT's Approach to OSM Data Validation for Earthquake Response Mapping
 date: 2023-03-17 02:29:00 Z
 Summary Text: Because OpenStreetMap is a crowd-sourcing project where everyone can
   freely contribute to the map, the Humanitarian OpenStreetMap Team has devised measures
