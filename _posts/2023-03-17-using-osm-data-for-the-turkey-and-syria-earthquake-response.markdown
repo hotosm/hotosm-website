@@ -48,7 +48,7 @@ Examples of this data in maps, analysis, and planning:
 
 More related maps and IM products can be found on [ReliefWeb](https://reliefweb.int/updates?advanced-search=%28D51470%29_%28F12.F12570%29) or [iMMAP](https://immap.org/news/turkiye-syria-earthquake-flash-updates/)’s flash updates. 
 
-OSM data can also be combined with other data sources, such as damage analyses, to create models and maps to help with recovery planning and decision-making. For example, The World Bank used OSM as an input for infrastructure modeling to give context tosatellite-detectedd damage in Turkey in their report: [Global Rapid Post-Disaster Damage Estimation (GRADE), Türkiye Report.](https://reliefweb.int/report/turkiye/global-rapid-post-disaster-damage-estimation-grade-report-february-6-2023-kahramanmaras-earthquakes-turkiye-report) (Information on OSM and damage dataset examples and methodologies coming soon). 
+OSM data can also be combined with other data sources, such as damage analyses, to create models and maps to help with recovery planning and decision-making. For example, The World Bank used OSM as an input for infrastructure modeling to give context to satellite-detected damage in Turkey in their report: [Global Rapid Post-Disaster Damage Estimation (GRADE), Türkiye Report.](https://reliefweb.int/report/turkiye/global-rapid-post-disaster-damage-estimation-grade-report-february-6-2023-kahramanmaras-earthquakes-turkiye-report) (Information on OSM and damage dataset examples and methodologies coming soon). 
 
 **For more available data in OSM for Turkey and Syria, visit HOT’s [HDX Page](https://data.humdata.org/organization/hot?groups=tur&groups=syr&q=&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25).**
 
