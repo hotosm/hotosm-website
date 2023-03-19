@@ -51,3 +51,13 @@ More related maps and IM products can be found on [ReliefWeb](https://reliefweb.
 OSM data can also be combined with other data sources, such as damage analyses, to create models and maps to help with recovery planning and decision-making. For example, The World Bank used OSM as an input for infrastructure modeling to give context tosatellite-detectedd damage in Turkey in their report: [Global Rapid Post-Disaster Damage Estimation (GRADE), Türkiye Report.](https://reliefweb.int/report/turkiye/global-rapid-post-disaster-damage-estimation-grade-report-february-6-2023-kahramanmaras-earthquakes-turkiye-report) (Information on OSM and damage dataset examples and methodologies coming soon). 
 
 **For more available data in OSM for Turkey and Syria, visit HOT’s [HDX Page](https://data.humdata.org/organization/hot?groups=tur&groups=syr&q=&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25).**
+
+![TSEQ_Data_Use_4.png](/uploads/TSEQ_Data_Use_4.png)
+
+The availability of detailed, up-to-date map data is an important resource in all stages of the disaster recovery process, and OSM data will also be used for **long-term recovery efforts**, such as rebuilding infrastructure and housing and improving disaster preparedness. OSM data can be added to or accessed by anyone, making it a strong platform to connect local communities to all levels of response. 
+
+For information on OSM data use or possible data collection collaborations, contact [partnerships@hotosm.org](mailto: partnerships@hotosm.org). 
+
+It is important to remember that behind each data point, there is a tremendous human effort from volunteers and organizations. Every single addition of the 80,124 KM of road and 2,065,242 buildings mapped so far in this response has had human eyes creating, modifying, or validating it. For more information, visit [hotosm.org](http://hotosm.org) or [volunteer to map](https://tasks.hotosm.org/learn/map).
+
+![TSEQ_Data_Use_5.png](/uploads/TSEQ_Data_Use_5.png)
