@@ -4,7 +4,7 @@ date: 2023-03-13 21:44:00 Z
 categories:
 - Mapping
 - data
-Summary Text: Tanto si recien empiezas a crear mapas para apoyar la respuesta al terremoto
+Summary Text: Tanto si recién empiezas a crear mapas para apoyar la respuesta al terremoto
   en Turquía y Siria como si has estado haciendo mapas durante años, siempre es útil
   leer consejos y ver tutoriales para mejorar tus habilidades y mantener las mejores
   prácticas. Estos son algunos de los mejores consejos de los miembros del Equipo
@@ -60,16 +60,16 @@ La geometría incorrecta puede dar como resultado una mala visualización, un en
 
 Para administradores de proyecto o autores
 
-* Projects in densely developed urban areas should be prioritized for intermediate and advanced mappers. However, projects in peri-urban or rural developed areas should be made open for all mapper levels. This speeds up the validation process.
+* Los proyectos en áreas urbanas densamente desarrolladas deben priorizarse para mapeadores intermedios y avanzados. Sin embargo, los proyectos en áreas desarrolladas periurbanas o rurales deben estar abiertos para todos los niveles de mapeadores. Esto acelera el proceso de validación.
 
-* Sometimes, overdue projects can become stale, and to stay on schedule, project creators should publish projects one at a time. If the project takes a long time to complete, imagery may change during the mapping or validation process, affecting the data's recency.
+* A veces, los proyectos vencidos pueden volverse obsoletos y, para cumplir con el cronograma, los creadores de proyectos deben publicar los proyectos de uno en uno. Si el proyecto tarda mucho en completarse, las imágenes pueden cambiar durante el proceso de mapeo o validación, lo que afecta la actualidad de los datos.
 
-* Invite experienced mappers to become validators. People can establish [their own team](https://tasks.hotosm.org/manage/teams/new/) or sign up for the [HOT Global Validator](https://tasks.hotosm.org/teams/7/membership/) community. For Turkey/Syria mapping activation, validation is only carried out by the validator teams.
+* Invita a mapeadores experimentados a convertirse en validadores. Las personas pueden establecer [su propio equipo](https://tasks.hotosm.org/manage/teams/new/) o registrarse en la comunidad de [Validadores Globales de HOT](https://tasks.hotosm.org/teams/7/membership/). Para la activación del mapeo de Turquía/Siria, la validación solo la llevan a cabo los equipos de validación.
 
-* Keep an eye on the topic in the Questions & Comments section. Feedback is important for ensuring good data quality.
+* Estate atento al tema en la sección Preguntas y comentarios. La retroalimentación es importante para garantizar una buena calidad de los datos.
 
-* You can [review detailed project management guidelines here](https://learnosm.org/en/coordination/tm-admin/).
+* Puedes [revisar las pautas detalladas de gestión de proyectos aquí](https://learnosm.org/en/coordination/tm-admin/).
 
-**A message from Ralph to all validators:**
+## **Un mensaje de Ralph para todos los validadores:**
 
-> "Validators, your role is to check the standard of the work. If it is of an acceptable standard, then you validate it. If it has a few errors, then you can decide to fix it yourself and validate it. If there is an appreciable amount of errors, then you invalidate it. If the work was done recently, you can message the mapper to advise them on improving their mapping. It is not the prime task of validators to clean up the mapping (although we use validators for that as they have the necessary skills to do that efficiently). Remember that by invalidating a task, you are sending a message to the Project Creators that there is something wrong with the mapping, and this can result in the project creator raising the level of mapper allowed to map and trainers revising the way they train the mappers. That does not mean that you are not allowed to fix up mapping. You are volunteers, and that is your decision to make. We are all concerned about maintaining the standard of the mapping we put onto OpenStreetMap."
+> "Validadores, su función es verificar el estándar del trabajo. Si tiene un estándar aceptable, entonces lo validan. Si tiene algunos errores, entonces pueden decidir corregirlo y validarlo. Si hay una cantidad apreciable de errores, entonces lo invalidan. Si el trabajo se realizó recientemente, puedes enviar un mensaje al mapeador para asesorarlo sobre cómo mejorar su mapeo. No es la tarea principal de los validadores limpiar el mapeo (aunque usamos validadores para eso ya que tienen las habilidades necesarias para hacerlo de manera eficiente). Recuerda que al invalidar una tarea, estás enviando un mensaje a los creadores del proyecto de que hay algo mal con el mapeo, y esto puede resultar en que el creador del proyecto eleve el nivel de mapeador que puede mapear y los capacitadores revisen la forma en que capacitan a los mapeadores. Eso no significa que no se te permita arreglar el mapeo. Ustedes son voluntarios, y esa es su decisión. Todos estamos preocupados por mantener el estándar del mapeo que hacemos en OpenStreetMap".
