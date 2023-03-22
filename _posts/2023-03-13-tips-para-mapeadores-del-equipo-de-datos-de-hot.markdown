@@ -4,11 +4,16 @@ date: 2023-03-13 21:44:00 Z
 categories:
 - Mapping
 - data
+tags:
+- mapeadores
+- validadores
+- OpenStreetMap
 Summary Text: Tanto si recién empiezas a crear mapas para apoyar la respuesta al terremoto
   en Turquía y Siria como si has estado haciendo mapas durante años, siempre es útil
   leer consejos y ver tutoriales para mejorar tus habilidades y mantener las mejores
   prácticas. Estos son algunos de los mejores consejos de los miembros del Equipo
   de Datos de HOT.
+Feature Image: "/uploads/GAL%20Group%20for%20Mapping%20Tips%20Post.jpg"
 Person:
 - Dinar Adiatma
 - Samson Ngumenawe
