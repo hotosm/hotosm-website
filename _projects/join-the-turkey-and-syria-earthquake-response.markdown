@@ -25,8 +25,8 @@ tm_campaigns:
 Data:
 - title: Humanitarian Data Exchange (Türkiye)
   link: https://data.humdata.org/organization/hot?q=turkey&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
-- title: Humanitarian Data Exchange (Syrian Arab Republic)
-  link: https://data.humdata.org/organization/hot?q=syrian&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
+- link: https://data.humdata.org/organization/hot?q=syrian&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
+  title: Humanitarian Data Exchange (Syrian Arab Republic)
 Tools:
 - title: 
   tool: Export Tool
@@ -56,15 +56,13 @@ The priorities for mapping on the HOT tasking manager are currently:
 
 * [MISSING MAPS - EARTHQUAKE SYRIA, LATAKIA DISTRICT](https://tasks.hotosm.org/projects/14230)
 
-* [MISSING MAPS - EARTHQUAKE SYRIA, IDLIB DISTRICT (RURAL)](https://tasks.hotosm.org/projects/14311)
-
 You can find the complete list of projects [here](https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023).
 
 ### If you are already an experienced validator...
 
 The priorities for validation on the HOT tasking manager are currently:
 
-* [MISSING MAPS - EARTHQUAKE SYRIA, HAREM DISTRICT](https://tasks.hotosm.org/projects/14246)
+* [MISSING MAPS - EARTHQUAKE SYRIA, IDLIB DISTRICT (RURAL)](https://tasks.hotosm.org/projects/14311)
 
 * [M7.8 EARTHQUAKE TÜRKIYE, SANLIURFA](https://tasks.hotosm.org/projects/14235)
 
