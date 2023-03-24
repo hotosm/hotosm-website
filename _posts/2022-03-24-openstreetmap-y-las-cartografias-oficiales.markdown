@@ -4,11 +4,9 @@ date: 2022-03-24 19:50:00 Z
 tags:
 - cartografia
 - OpenStreetMap
-Feature Image: "/uploads/blog%20integr%20OSM%20a%20oficial_CORTO%20ESPA%C3%91OL_mapa%20compar%20OSM%20vs%20Oficial.png"
+Feature Image: "/uploads/blog%20integr%20OSM%20a%20oficial_UN%20WDF_imagen%201%20compar%20OSM%20y%20Oficial.png"
 Person: Celine Jacquin
 ---
-
-![blog integr OSM a oficial_UN WDF_imagen 1 compar OSM y Oficial.png](/uploads/blog%20integr%20OSM%20a%20oficial_UN%20WDF_imagen%201%20compar%20OSM%20y%20Oficial.png)
 
 Un problema que tienen la mayoría de países es que todos los ministerios basan sus acciones de planeación (como van a desarrollar vivienda, cómo van a desarrollar obras públicas, donde van a localizar los servicios públicos, etcétera) con base en cartografía de su territorio. Generalmente, dicha cartografía proviene de algún ”Instituto Nacional de geografía” o similar, y es complementada con fragmentos de datos que van actualizando como pueden, cuando pueden y cuando lo necesitan.
 
@@ -33,4 +31,6 @@ Considerando plenamente estas barreras y considerando las limitaciones existente
 
 ![blog integr OSM a oficial_CORTO ESPAÑOL_mapa compar OSM vs Oficial.png](/uploads/blog%20integr%20OSM%20a%20oficial_CORTO%20ESPA%C3%91OL_mapa%20compar%20OSM%20vs%20Oficial.png)
 
-En resumen, este proyecto proporciona una herramienta valiosa para comenzar a integrar los beneficios de los datos geoespaciales abiertos y las tecnologías de mapeo en los procesos de mapeo oficiales. El objetivo de la próxima fase -aún en preparación- es seguir mejorando la tecnología y aprovechar el potencial de los datos geoespaciales abiertos en la toma de decisiones.
+En resumen, este proyecto proporciona una herramienta valiosa para comenzar a integrar los beneficios de los datos geoespaciales abiertos y las tecnologías de mapeo en los procesos de cartografía oficiales. El objetivo de la próxima fase -aún en preparación- es seguir mejorando la tecnología y aprovechar el potencial de los datos geoespaciales abiertos en la toma de decisiones.
+
+¿Tu que otros usos darías a esta herramienta comparativa de mapas?
