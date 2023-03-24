@@ -25,18 +25,18 @@ Response-related datasets:
 GDACS https://www.gdacs.org/
 HDX data grids https://data.humdata.org/dashboards/overview-of-data-grids
 
-Recovery: returning the situation to normal (or better and more resilient than before) conditions and circumstances for affected people. The focus is still meeting basic needs, but is shifting to more thorough safety and damage assessments, cleanup, and rebuilding and reconstruction.
+Recovery activities focus on returning the situation to normal (and ideally better and more resilient) conditions and circumstances for affected people. The focus is still meeting the basic needs of the affected population, but is also shifting to more thorough safety and damage assessments, cleanup, and rebuilding and reconstruction.
 
-Recovery related datasets:
+Recovery-related datasets:
 
 ![Disaster_Response_Phases2.png](/uploads/Disaster_Response_Phases2.png)
 
 UNOSAT https://unosat.org/products/
  Copernicus https://emergency.copernicus.eu/mapping/copernicus-emergency-management-service#zoom=3&lat=0.62225&lon=-2.25351&layers=0BT00
 
-Preparedness: planning and preparation to improve local capacity and resilience to cope with future events and emergencies. Often, a separate “mitigation” phase is defined between recovery and preparedness, which focuses on prevention and reducing the likelihood of effects and impacts. In this case when looking at (geospatial) data needs, we’re combining with preparedness.
+Preparedness activities include planning and preparation to improve local capacity and resilience to cope with future events and emergencies. Often, a separate “mitigation” phase is defined between recovery and preparedness, focusing on prevention and reducing the likelihood of effects and impacts. In this case, when looking at (geospatial) data needs, we’re combining mitigation with preparedness.
 
-Preparedness related datasets:
+Preparedness-related datasets:
 
 ![Disaster_Response_Phases3.png](/uploads/Disaster_Response_Phases3.png)
 
