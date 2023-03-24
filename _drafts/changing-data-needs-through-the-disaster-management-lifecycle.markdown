@@ -8,7 +8,7 @@ Person:
 - 
 ---
 
-We’re now about a month and a half after the initial 7.7 magnitude earthquake that hit Turkey and Syria, back on Monday, February 6th. Even though it is an ongoing emergency with vast humanitarian needs, we are now moving into a phase of ongoing support to the affected communities, and the start of rebuilding and reconstruction efforts where it is feasible to do. As such, we’d like to explain a bit more about the different data needs, and data and quality requirements, in different phases of a disaster response.
+We’re now about a month and a half after the initial 7.7 magnitude earthquake hit Turkey and Syria on Monday, 6 February. Even though it is an ongoing emergency with vast humanitarian needs, we are now moving into a phase of continuing support to the affected communities and the start of rebuilding and reconstruction efforts where it is feasible to do. As the phase of disaster response changes, so do the data needs and data and quality requirements.
 
 During each phase of the ‘disaster management cycle’, there are different data needs, uses, and requirements. Let’s first take a brief look at the different phases.
 
