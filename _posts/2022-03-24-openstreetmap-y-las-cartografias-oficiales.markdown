@@ -25,7 +25,7 @@ HOT (Humanitarian OpenStreetMap Team) se integró a la colaboración en 2022 con
 
 ![blog integr OSM a oficial_CORTO ESPAÑOL_rejilla compar OSM vs Oficial.png](/uploads/blog%20integr%20OSM%20a%20oficial_CORTO%20ESPA%C3%91OL_rejilla%20compar%20OSM%20vs%20Oficial.png)
 
-El problema es el siguiente: Los mapas oficiales suelen quedar obsoletos rápidamente debido al crecimiento urbano, la infraestructura, los desastres y el cambio de uso de la tierra, entre otros. Los mapas de OSM pueden proporcionar información actualizada sobre estos cambios a medida que van sucediendo, si se construye y apoya a una comunidad de mapeadores comprometidos. La actualización en tiempo real de los mapas es particularmente importante durante las crisis resultantes de desastres naturales, cuando la información geoespacial fiable podría ayudar eficazmente en los esfuerzos de respuesta.
+Los mapas oficiales suelen quedar obsoletos rápidamente debido al crecimiento urbano, la infraestructura, los desastres y el cambio de uso de la tierra, entre otros. Los mapas de OSM pueden proporcionar información actualizada sobre estos cambios a medida que van sucediendo, si se construye y apoya a una comunidad de mapeadores comprometidos. La actualización en tiempo real de los mapas es particularmente importante durante las crisis resultantes de desastres naturales, cuando la información geoespacial fiable podría ayudar eficazmente en los esfuerzos de respuesta.
 
 Sin embargo hay varias barreras para la integración de este tipo de información en las bases de datos oficiales de los Institutos Geográficos. La falta de confianza de las instituciones debido a preocupaciones sobre los riesgos de inconsistencia de estos datos, sabotaje, falta de exhaustividad y sesgos es una de ellas.
 
