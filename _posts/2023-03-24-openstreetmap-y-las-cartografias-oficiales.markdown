@@ -1,6 +1,12 @@
 ---
 title: OpenStreetMap y las cartografías oficiales
 date: 2023-03-24 19:50:00 Z
+published: false
+tags:
+- cartografia
+- OpenStreetMap
+Feature Image: "/uploads/blog%20integr%20OSM%20a%20oficial_CORTO%20ESPA%C3%91OL_mapa%20compar%20OSM%20vs%20Oficial.png"
+Person: Celine Jacquin
 ---
 
 ![blog integr OSM a oficial_UN WDF_imagen 1 compar OSM y Oficial.png](/uploads/blog%20integr%20OSM%20a%20oficial_UN%20WDF_imagen%201%20compar%20OSM%20y%20Oficial.png)
@@ -28,4 +34,4 @@ Considerando plenamente estas barreras y considerando las limitaciones existente
 
 ![blog integr OSM a oficial_CORTO ESPAÑOL_mapa compar OSM vs Oficial.png](/uploads/blog%20integr%20OSM%20a%20oficial_CORTO%20ESPA%C3%91OL_mapa%20compar%20OSM%20vs%20Oficial.png)
 
-En resumen, este proyecto proporciona una herramienta valiosa para comenzar a integrar los beneficios de los datos geoespaciales abiertos y las tecnologías de mapeo en los procesos de mapeo oficiales. El objetivo de la próxima fase en preparación es seguir mejorando la tecnología y aprovechar el potencial de los datos geoespaciales abiertos en la toma de decisiones.
+En resumen, este proyecto proporciona una herramienta valiosa para comenzar a integrar los beneficios de los datos geoespaciales abiertos y las tecnologías de mapeo en los procesos de mapeo oficiales. El objetivo de la próxima fase -aún en preparación- es seguir mejorando la tecnología y aprovechar el potencial de los datos geoespaciales abiertos en la toma de decisiones.
