@@ -2,6 +2,10 @@
 title: Changing Data Needs Through the Disaster Management Lifecycle
 date: 2023-03-24 02:12:00 Z
 Feature Image: "/uploads/Disaster_Response_Phases.png"
+Person:
+- Paul Uithol
+- Jessica Pechmann
+- 
 ---
 
 We’re now about a month and a half after the initial 7.7 magnitude earthquake that hit Turkey and Syria, back on Monday, February 6th. Even though it is an ongoing emergency with vast humanitarian needs, we are now moving into a phase of ongoing support to the affected communities, and the start of rebuilding and reconstruction efforts where it is feasible to do. As such, we’d like to explain a bit more about the different data needs, and data and quality requirements, in different phases of a disaster response.
