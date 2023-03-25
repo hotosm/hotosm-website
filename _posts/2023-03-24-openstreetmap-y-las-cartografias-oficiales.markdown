@@ -1,6 +1,6 @@
 ---
 title: OpenStreetMap y las cartografías oficiales
-date: 2022-03-24 19:50:00 Z
+date: 2023-03-24 19:50:00 Z
 tags:
 - cartografia
 - OpenStreetMap
