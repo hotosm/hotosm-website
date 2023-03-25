@@ -4,11 +4,14 @@ date: 2023-03-24 19:50:00 Z
 tags:
 - cartografia
 - OpenStreetMap
+Summary Text: "**¿Se puede integrar OpenStreetMap al trabajo de los Institutos Geográficos
+  Nacionales? **Esta es una pregunta que ronda el imaginario del mapeo abierto desde
+  hace mucho y aquí te contamos como se está respondiendo."
 Feature Image: "/uploads/blog%20integr%20OSM%20a%20oficial_UN%20WDF_imagen%201%20compar%20OSM%20y%20Oficial.png"
 Person: Celine Jacquin
 ---
 
-Un problema que tienen la mayoría de países es que todos los ministerios basan sus acciones de planeación (como van a desarrollar vivienda, cómo van a desarrollar obras públicas, donde van a localizar los servicios públicos, etcétera) con base en cartografía de su territorio. Generalmente, dicha cartografía proviene de algún ”Instituto Nacional de geografía” o similar, y es complementada con fragmentos de datos que van actualizando como pueden, cuando pueden y cuando lo necesitan.
+Un problema que tienen la mayoría de países es que todos los ministerios basan sus acciones de planeación (como van a desarrollar vivienda, cómo van a desarrollar obras públicas, donde van a localizar los servicios públicos, etcétera) con base en cartografía de su territorio. Generalmente, dicha cartografía proviene de algún ”Instituto Nacional de Geografía” o similar, y es complementada con fragmentos de datos que van actualizando como pueden, cuando pueden y cuando lo necesitan.
 
 Tanto la cartografía oficial nacional como los complementos puntuales que van realizando las instituciones de gobierno, cuestan muchísimo dinero al erario y las más de las veces simplemente no es posible hacerlo, o se hacen con periodicidades demasiado separadas. La consecuencia es que las instituciones públicas terminan desarrollando sus políticas con cartografías incorrectas y desfasadas. Esto siempre afecta a una parte de la población, que queda ignorada o mal cubierta por los servicios, porque no fue mapeada.
 
