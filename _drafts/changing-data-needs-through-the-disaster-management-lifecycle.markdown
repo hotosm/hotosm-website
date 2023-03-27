@@ -41,15 +41,24 @@ Preparedness-related datasets:
 ![Disaster_Response_Phases3.png](/uploads/Disaster_Response_Phases3.png)
 
 You can access OSM data via HOT’s HDX page. https://data.humdata.org/organization/hot. 
+
 Data requirements and quality: approaching evolving data quality needs at HOT
-As the data use differs for each phase of a response, so do the expectations and requirements on the data itself. Often, higher data quality standards are expected on data in ‘stable’ locations and times than in the immediate disaster response phase.
 
-During the immediate Response phase, data availability is key - and data quality is often good enough as long as it doesn’t hamper the primary use for the data. For example, while annoying, overlapping or non-square buildings don’t actually cause population estimates to be off significantly. However, major roads that don’t connect do cause inability to route logistics and navigate. Comprehensive data can be scarce and hard to get by initially, especially if we’re dealing with an area that hasn’t been mapped well in the past. The pace of mapping TM tasks will invariably outpace data quality checks and validation.
+As data use differs for each phase of a response, so do the expectations and requirements of the data itself. Often, higher data quality standards are expected of data in ‘stable’ locations and times than in the immediate disaster response phase.
 
-To complement tasking and data creation, we run a  (data) Protection Risk Assessment to ensure we consider local risk factors, potential harms of mapping, and think of improvements and mitigations. For example, we are careful of issues around representation and exclusion of rural populations or ethnic groups by means of our tasking areas and definition, and what types of infrastructure we request (or don’t request) to be mapped.
+![DataPhasesEq2.png](/uploads/DataPhasesEq2.png)
 
-During Recovery, our focus will generally shift to putting a concerted effort into data cleanup and validation. Also, we may be supporting specific recovery efforts, such as more comprehensive damage assessments, providing ongoing humanitarian assistance to (improvised) shelter and camps, and planning of reconstruction efforts. This does require data to be of higher quality overall, and link to or incorporate additional data items, such as addressing details.
+Comparison of mapping from 10 February (left) to 22 March (right)
 
-In Preparedness, high data quality and fidelity is required - especially when considering specific project implementation in areas such as disaster risk reduction, resilience, or anticipatory action. Often, data collection and mapping outputs will go towards providing decision-making data and baseline information on specific interventions and investments. Examples of this are projects such as the Open Cities programs, which might require detailed and high quality data on the exact layout and capacity of drainage and water systems, public transport systems, or health facilities.
+Comprehensive data can be scarce and initially hard to get, especially if we’re dealing with an area that hasn’t been mapped well in the past. The pace of mapping on the Tasking Manager will invariably outpace data quality checks and validation.
+
+To complement tasking and data creation, we run a Data Protection Risk Assessment to ensure we consider local risk factors and potential harms of mapping, and consider potential improvements and mitigations. For example, we are careful of issues around the representation and exclusion of rural populations or ethnic groups through our tasking areas and definitions and what types of infrastructure we request (or don’t request) to be mapped.
+
+During the Recovery Phase, our focus will shift more toward putting a concerted effort into data cleanup and validation. Also, we may be supporting specific recovery efforts, such as more comprehensive damage assessments, providing ongoing humanitarian assistance to shelters and camps, and planning for reconstruction efforts. This does require data to be higher quality overall and link to or incorporate additional data items, such as detailed addressing.
+
+![DataPhasesEq3.png](/uploads/DataPhasesEq3.png)
+
+For the Preparedness Phase, high data quality and fidelity is required - especially when considering the implementation of specific projects for disaster risk reduction, resilience, or anticipatory action. Often, data collection and mapping outputs will go towards providing decision-making data and baseline information on specific interventions and investments. Examples of this kind of project can be found in the Open Cities program. These projects aim to build the disaster resilience of the cities they take place in and require detailed and high-quality data on specific aspects of infrastructure, such as the exact layout and capacity of drainage and water systems, public transport systems, or health facilities.
 
 Want to contribute to OSM for humanitarian needs? Visit HOT’s Tasking Manager for projects starting at the beginner level, and read HOT's Tips for Mappers. 
+You can easily access recent OSM data via HOT’s HDX page - https://data.humdata.org/organization/hot. 
