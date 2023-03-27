@@ -44,7 +44,7 @@ Initial data activities involve assessing OSM data availability and gaps, procur
 
 **[You can access OSM data via HOT’s HDX page](https://data.humdata.org/organization/hot.).** 
 
-## Data requirements and quality: approaching evolving data quality needs at HOT
+## Data Requirements and Quality: Approaching Evolving Data Quality Needs at HOT
 
 As data use differs for each phase of a response, so do the expectations and requirements of the data itself. Often, higher data quality standards are expected of data in ‘stable’ locations and times than in the immediate disaster response phase.
 
@@ -54,7 +54,7 @@ During the immediate **Response Phase**, data availability is key - and data qua
 
 ![DataPhasesEq2.png](/uploads/DataPhasesEq2.png)
 <figcaption align = "left"><h6>Comparison of mapping from 10 February (left) to 22 March (right)</h6></figcaption>
-
+<br>
 Comprehensive data can be scarce and initially hard to get, especially if we’re dealing with an area that hasn’t been mapped well in the past. The pace of mapping on the Tasking Manager will invariably outpace data quality checks and validation.
 
 To complement tasking and data creation, we run a Data Protection Risk Assessment to ensure we consider local risk factors and potential harms of mapping, and consider potential improvements and mitigations. For example, we are careful of issues around the representation and exclusion of rural populations or ethnic groups through our tasking areas and definitions and what types of infrastructure we request (or don’t request) to be mapped.
