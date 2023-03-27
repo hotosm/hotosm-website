@@ -1,7 +1,7 @@
 ---
 title: Changing Data Needs Through the Disaster Management Lifecycle
 date: 2023-03-24 02:12:00 Z
-Feature Image: "/uploads/Disaster_Response_Phases.png"
+Feature Image: "/uploads/Disaster_Response_PhasesB.png"
 Person:
 - Paul Uithol
 - Jessica Pechmann
