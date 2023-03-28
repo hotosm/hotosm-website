@@ -78,10 +78,10 @@ Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager
 
 
 <table style="border-bottom: none">
-	<tr>
-		<th><b>Dataset</b></th>
-		<th style="border-left: 1px solid black"><b>Data needs and use</b></th>
-		<th style="border-left: 1px solid black"><b>Source</b></th>
+	<tr style="border-bottom-width: 2px">
+		<th><p style="font-weight: bold">Dataset</p></th>
+		<th style="border-left: 1px solid black"><p style="font-weight: bold">Data needs and use</p></th>
+		<th style="border-left: 1px solid black"><p style="font-weight: bold">Source</p></th>
 	</tr>
 	<tr>
 		<td>Buildings</td>
