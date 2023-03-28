@@ -74,4 +74,45 @@ For the **Preparedness Phase**, high data quality and fidelity is required - esp
 ![DataPhasesEq3.png](/uploads/DataPhasesEq3.png)
 
 Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager](https://tasks.hotosm.org/explore) for projects starting at the beginner level, and read [HOT's Tips for Mappers](https://www.hotosm.org/updates/tips-for-mappers-from-the-hot-data-team/). 
-**[You can access OSM data via HOT’s HDX page](https://data.humdata.org/organization/hot.).** 
+**[You can access OSM data via HOT’s HDX page](https://data.humdata.org/organization/hot.).**
+
+
+<table style="border-bottom: none">
+	<tr>
+		<th><b>Dataset</b></th>
+		<th style="border-left: 1px solid black"><b>Data needs and use</b></th>
+		<th style="border-left: 1px solid black"><b>Source</b></th>
+	</tr>
+		<td>Buildings</td>
+		<td>Population estimates and #/% affected.</td>
+		<td>OpenStreetMap</td>
+	<tr>
+	</tr>
+		<td>Roads</td>
+		<td>Routing and logistics.</td>
+		<td>OpenStreetMap</td>
+	</tr>
+	<tr>
+		<td>Place names</td>
+		<td>Routing and navigation.</td>
+		<td>OpenStreetMap</td>
+	</tr>
+	<tr>
+		<td>Event data</td>
+		<td>Area of impact & severity to estimate the affected population.</td>
+		<td>[GDACS](https://www.gdacs.org/)</td>
+	</tr>
+	<tr>
+		<td>Context-specific infrastructure data</td>
+		<td>Examples include health facilities, evacuation sites, airports, and helicopter landing sites.
+		
+		What’s relevant and needed depends on the type of disaster event and the context.
+		</td>
+		<td>Mix of OSM, [HDX data grids](https://data.humdata.org/dashboards/overview-of-data-grids), third party datasets</td>
+	</tr>
+	<tr>
+		<td style="border-bottom: none;">Programmatic and needs data</td>
+		<td style="border-bottom: none;">Humanitarian needs assessments, program activities, etc.</td>
+		<td style="border-bottom: none;">Third-party datasets</td>
+	</tr>
+</table> 
