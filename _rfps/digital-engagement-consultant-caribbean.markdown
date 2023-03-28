@@ -5,7 +5,7 @@ published: false
 Deadline Date: 2023-04-15 00:00:00 Z
 Page Contact:
   Contact Email: caribbean@hotosm.org
-  RFP Link: 
+  RFP Link: https://cdn.hotosm.org/website/RFP_digital_engagement_strategy_consultant_Caribbean.pdf
 ---
 
 **About the Open Mapping Hub - Latin America and the Caribbean**
