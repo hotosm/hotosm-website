@@ -1,6 +1,12 @@
 ---
 title: Changing Data Needs Through the Disaster Management Lifecycle
 date: 2023-03-24 02:12:00 Z
+Summary Text: We’re now about a month and a half after the initial 7.7 magnitude earthquake
+  hit Turkey and Syria on Monday, 6 February. Even though it is an ongoing emergency
+  with vast humanitarian needs, we are now moving into a phase of continuing support
+  to the affected communities and the start of rebuilding and reconstruction efforts
+  where it is feasible to do. As the phase of disaster response changes, so do the
+  data needs and data and quality requirements.
 Feature Image: "/uploads/Disaster_Response_PhasesC.png"
 Person:
 - Paul Uithol
@@ -9,8 +15,6 @@ Person:
 Working Group:
 - Quality Control and Assurance
 ---
-
-We’re now about a month and a half after the initial 7.7 magnitude earthquake hit Turkey and Syria on Monday, 6 February. Even though it is an ongoing emergency with vast humanitarian needs, we are now moving into a phase of continuing support to the affected communities and the start of rebuilding and reconstruction efforts where it is feasible to do. As the phase of disaster response changes, so do the data needs and data and quality requirements.
 
 ## Data Availability and Uses: OSM Data Across the Disaster Management Phases
 
@@ -53,7 +57,7 @@ As data use differs for each phase of a response, so do the expectations and req
 During the immediate **Response Phase**, data availability is key - and data quality is often good enough as long as it doesn’t hamper the primary use of the data. For example, while annoying, overlapping or non-square buildings don’t actually cause population estimates to be significantly off. However, major roads that don’t connect cause issues for route logistics and navigation. 
 
 ![DataPhasesEq2.png](/uploads/DataPhasesEq2.png)
-<figcaption align = "left"><h6>Comparison of mapping from 10 February (left) to 22 March (right)</h6></figcaption>
+<figcaption align = "left"><h6>Comparison of mapping from 10 February (left) to 22 March (right). Light blue denotes areas of mapped buildings in OSM.</h6></figcaption>
 <br>
 Comprehensive data can be scarce and initially hard to get, especially if we’re dealing with an area that hasn’t been mapped well in the past. The pace of mapping on the Tasking Manager will invariably outpace data quality checks and validation.
 
