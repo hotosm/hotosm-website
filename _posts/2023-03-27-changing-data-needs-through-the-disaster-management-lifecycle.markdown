@@ -73,10 +73,10 @@ Initial data activities involve assessing OSM data availability and gaps, procur
 **Recovery-related Datasets:**
 
 <table style="border-bottom: none">
-	<tr style="border-bottom-width: 2px">
-		<th><span style="font-weight: bold">Dataset</span></th>
-		<th style="border-left: 1px solid black"><span style="font-weight: bold">Data needs and use</span></th>
-		<th style="border-left: 1px solid black"><span style="font-weight: bold">Source</span></th>
+	<tr>
+		<th style="border-bottom-width: 2px"><span style="font-weight: bold">Dataset</span></th>
+		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Data needs and use</span></th>
+		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Source</span></th>
 	</tr>
 	<tr>
 		<td>Buildings</td>
@@ -111,10 +111,10 @@ Initial data activities involve assessing OSM data availability and gaps, procur
 **Preparedness-related Datasets:**
 
 <table style="border-bottom: none">
-	<tr style="border-bottom-width: 2px">
-		<th><span style="font-weight: bold">Dataset</span></th>
-		<th style="border-left: 1px solid black"><span style="font-weight: bold">Data needs and use</span></th>
-		<th style="border-left: 1px solid black"><span style="font-weight: bold">Source</span></th>
+	<tr>
+		<th style="border-bottom-width: 2px"><span style="font-weight: bold">Dataset</span></th>
+		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Data needs and use</span></th>
+		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Source</span></th>
 	</tr>
 	<tr>
 		<td>Key infrastructure (context-specific), such as water infrastructure and drainage, public transport, or health and education</td>
