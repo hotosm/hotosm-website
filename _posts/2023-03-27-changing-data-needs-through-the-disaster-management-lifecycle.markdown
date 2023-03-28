@@ -1,6 +1,6 @@
 ---
 title: Changing Data Needs Through the Disaster Management Lifecycle
-date: 2023-03-24 02:12:00 Z
+date: 2023-03-27 02:12:00 Z
 Summary Text: We’re now about a month and a half after the initial 7.7 magnitude earthquake
   hit Turkey and Syria on Monday, 6 February. Even though it is an ongoing emergency
   with vast humanitarian needs, we are now moving into a phase of continuing support
