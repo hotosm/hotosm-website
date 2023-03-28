@@ -3,9 +3,10 @@ title: Digital Engagement Consultant- Caribbean
 date: 2023-03-28 17:44:00 Z
 published: false
 Deadline Date: 2023-04-15 00:00:00 Z
+Apply Form Link: https://cdn.hotosm.org/website/RFP_digital_engagement_strategy_consultant_Caribbean.pdf
 Page Contact:
   Contact Email: caribbean@hotosm.org
-  RFP Link: https://cdn.hotosm.org/website/RFP_digital_engagement_strategy_consultant_Caribbean.pdf
+  Label: Submission Email
 ---
 
 **About the Open Mapping Hub - Latin America and the Caribbean**
