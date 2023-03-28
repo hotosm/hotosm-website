@@ -117,3 +117,66 @@ Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager
 		<td style="border-left: 1px solid black; border-bottom: none;">Third-party datasets</td>
 	</tr>
 </table>
+
+
+<table style="border-bottom: none">
+	<tr style="border-bottom-width: 2px">
+		<th><p style="font-weight: bold">Dataset</p></th>
+		<th style="border-left: 1px solid black"><p style="font-weight: bold">Data needs and use</p></th>
+		<th style="border-left: 1px solid black"><p style="font-weight: bold">Source</p></th>
+	</tr>
+	<tr>
+		<td>Buildings</td>
+		<td>Population estimates and addressing - the ability to analyze with other datasets.</td>
+		<td>OpenStreetMap</td>
+	</tr>
+	<tr>
+		<td>Roads</td>
+		<td>Routing and logistics for the ongoing delivery of humanitarian aid.</td>
+		<td>OpenStreetMap</td>
+	</tr>
+	<tr>
+		<td>Damage assessments</td>
+		<td>Combining OSM data with external & third-party datasets to assist in damage assessments.</td>
+		<td>[UNOSAT](https://unosat.org/products/), [Copernicus](https://emergency.copernicus.eu/mapping/copernicus-emergency-management-service#zoom=3&lat=0.62225&lon=-2.25351&layers=0BT00), etc.</td>
+	</tr>
+	<tr>
+		<td>Context-specific infrastructure data</td>
+		<td>What’s relevant and needed depends on the type of disaster event and the context. This could be for education, healthcare, markets, financial services, or other areas.</td>
+		<td>Mix of OSM and third-party datasets</td>
+	</tr>
+	<tr>
+		<td style="border-bottom: none;">Programmatic data</td>
+		<td style="border-bottom: none;">Humanitarian and development needs assessments, program activities, etc.</td>
+		<td style="border-bottom: none;">Third-party datasets</td>
+	</tr>
+</table>
+
+
+
+<table style="border-bottom: none">
+	<tr style="border-bottom-width: 2px">
+		<th><p style="font-weight: bold">Dataset</p></th>
+		<th style="border-left: 1px solid black"><p style="font-weight: bold">Data needs and use</p></th>
+		<th style="border-left: 1px solid black"><p style="font-weight: bold">Source</p></th>
+	</tr>
+		<td>Key infrastructure (context-specific), such as water infrastructure and drainage, public transport, or health and education</td>
+		<td>Specific interventions in an area to improve resilience and preparedness.</td>
+		<td rowspan="4">OpenStreetMap plus government or third-party datasets</td>
+	<tr>
+	</tr>
+		<td>Natural environment:
+such as wetlands, floodplains, and mangroves or river systems
+</td>
+		<td>Understand a wider ecosystem and the impacts of interventions and investments.</td>
+	<tr>
+	</tr>
+		<td>Project specific datasets</td>
+		<td>Specific interventions in an area to improve resilience and preparedness.</td>
+	<tr>
+	</tr>
+	<tr>
+		<td style="border-bottom: none;">Evacuation sites and coping capacity</td>
+		<td style="border-bottom: none;">Creating evacuation and escalation planning.</td>
+	</tr>
+</table>
