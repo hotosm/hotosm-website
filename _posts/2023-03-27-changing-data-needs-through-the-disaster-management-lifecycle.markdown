@@ -26,57 +26,6 @@ Initial data activities involve assessing OSM data availability and gaps, procur
 
 **Response-related Datasets:**
 
-![Disaster_Response_Phases1A.png](/uploads/Disaster_Response_Phases1A.png)
-
-[GDACS](https://www.gdacs.org/)
-[HDX Data Grids](https://data.humdata.org/dashboards/overview-of-data-grids)
-
-**Recovery** activities focus on returning the situation to normal (and ideally better and more resilient) conditions and circumstances for affected people. The focus is still meeting the basic needs of the affected population, but it is also shifting to more thorough safety and damage assessments, cleanup, and rebuilding and reconstruction.
-
-**Recovery-related Datasets:**
-
-![Disaster_Response_Phases2A.png](/uploads/Disaster_Response_Phases2A.png)
-
-[UNOSAT](https://unosat.org/products/)
-[Copernicus](https://emergency.copernicus.eu/mapping/copernicus-emergency-management-service#zoom=3&lat=0.62225&lon=-2.25351&layers=0BT00)
-
-**Preparedness** activities include planning and preparation to improve local capacity and resilience to cope with future events and emergencies. Often, a separate “mitigation” phase is defined between recovery and preparedness, focusing on prevention and reducing the likelihood of effects and impacts. In this case, when looking at (geospatial) data needs, we’re combining mitigation with preparedness.
-
-**Preparedness-related Datasets:**
-
-![Disaster_Response_Phases3A.png](/uploads/Disaster_Response_Phases3A.png)
-
-**[You can access OSM data via HOT’s HDX page](https://data.humdata.org/organization/hot.).** 
-
-## Data Requirements and Quality: Approaching Evolving Data Quality Needs at HOT
-
-As data use differs for each phase of a response, so do the expectations and requirements of the data itself. Often, higher data quality standards are expected of data in ‘stable’ locations and times than in the immediate disaster response phase.
-
-**Response Phase**
-
-During the immediate **Response Phase**, data availability is key - and data quality is often good enough as long as it doesn’t hamper the primary use of the data. For example, while annoying, overlapping or non-square buildings don’t actually cause population estimates to be significantly off. However, major roads that don’t connect cause issues for route logistics and navigation. 
-
-![DataPhasesEq2.png](/uploads/DataPhasesEq2.png)
-<figcaption align = "left"><h6>Comparison of mapping from 10 February (left) to 22 March (right). Light blue denotes areas of mapped buildings in OSM.</h6></figcaption>
-<br>
-Comprehensive data can be scarce and initially hard to get, especially if we’re dealing with an area that hasn’t been mapped well in the past. The pace of mapping on the Tasking Manager will invariably outpace data quality checks and validation.
-
-To complement tasking and data creation, we run a Data Protection Risk Assessment to ensure we consider local risk factors and potential harms of mapping, and consider potential improvements and mitigations. For example, we are careful of issues around the representation and exclusion of rural populations or ethnic groups through our tasking areas and definitions and what types of infrastructure we request (or don’t request) to be mapped.
-
-**Recovery Phase**
-
-During the **Recovery Phase**, our focus will shift more toward putting a concerted effort into data cleanup and validation. Also, we may be supporting specific recovery efforts, such as more comprehensive damage assessments, providing ongoing humanitarian assistance to shelters and camps, and planning for reconstruction efforts. This does require data to be higher quality overall and link to or incorporate additional data items, such as detailed addressing.
-
-**Preparedness Phase**
-
-For the **Preparedness Phase**, high data quality and fidelity is required - especially when considering the implementation of specific projects for disaster risk reduction, resilience, or anticipatory action. Often, data collection and mapping outputs will go towards providing decision-making data and baseline information on specific interventions and investments. Examples of this kind of project can be found in the Open Cities program (for example, in [Accra, Ghana](https://www.hotosm.org/projects/open-cities-africa-accra-city-project-ghana/)). These projects aim to build the disaster resilience of the cities they take place in and require detailed and high-quality data on specific aspects of infrastructure, such as the exact layout and capacity of drainage and water systems, public transport systems, or health facilities.
-
-![DataPhasesEq3.png](/uploads/DataPhasesEq3.png)
-
-Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager](https://tasks.hotosm.org/explore) for projects starting at the beginner level, and read [HOT's Tips for Mappers](https://www.hotosm.org/updates/tips-for-mappers-from-the-hot-data-team/). 
-**[You can access OSM data via HOT’s HDX page](https://data.humdata.org/organization/hot.).**
-
-
 <table style="border-bottom: none">
 	<tr>
 		<th style="border-bottom-width: 2px"><span style="font-weight: bold">Dataset</span></th>
@@ -118,6 +67,9 @@ Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager
 	</tr>
 </table>
 
+**Recovery** activities focus on returning the situation to normal (and ideally better and more resilient) conditions and circumstances for affected people. The focus is still meeting the basic needs of the affected population, but it is also shifting to more thorough safety and damage assessments, cleanup, and rebuilding and reconstruction.
+
+**Recovery-related Datasets:**
 
 <table style="border-bottom: none">
 	<tr style="border-bottom-width: 2px">
@@ -127,18 +79,18 @@ Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager
 	</tr>
 	<tr>
 		<td>Buildings</td>
-		<td>Population estimates and addressing - the ability to analyze with other datasets.</td>
-		<td>OpenStreetMap</td>
+		<td style="border-left: 1px solid black">Population estimates and addressing - the ability to analyze with other datasets.</td>
+		<td style="border-left: 1px solid black">OpenStreetMap</td>
 	</tr>
 	<tr>
 		<td>Roads</td>
-		<td>Routing and logistics for the ongoing delivery of humanitarian aid.</td>
-		<td>OpenStreetMap</td>
+		<td style="border-left: 1px solid black">Routing and logistics for the ongoing delivery of humanitarian aid.</td>
+		<td> style="border-left: 1px solid black"OpenStreetMap</td>
 	</tr>
 	<tr>
 		<td>Damage assessments</td>
-		<td>Combining OSM data with external & third-party datasets to assist in damage assessments.</td>
-		<td><a href="https://unosat.org/products/">UNOSAT</a>, <a href="https://emergency.copernicus.eu/mapping/copernicus-emergency-management-service#zoom=3&lat=0.62225&lon=-2.25351&layers=0BT00">Copernicus</a>, etc.</td>
+		<td style="border-left: 1px solid black">Combining OSM data with external & third-party datasets to assist in damage assessments.</td>
+		<td style="border-left: 1px solid black"><a href="https://unosat.org/products/">UNOSAT</a>, <a href="https://emergency.copernicus.eu/mapping/copernicus-emergency-management-service#zoom=3&lat=0.62225&lon=-2.25351&layers=0BT00">Copernicus</a>, etc.</td>
 	</tr>
 	<tr>
 		<td>Context-specific infrastructure data</td>
@@ -147,12 +99,14 @@ Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager
 	</tr>
 	<tr>
 		<td style="border-bottom: none;">Programmatic data</td>
-		<td style="border-bottom: none;">Humanitarian and development needs assessments, program activities, etc.</td>
-		<td style="border-bottom: none;">Third-party datasets</td>
+		<td style="border-left: 1px solid black; border-bottom: none;">Humanitarian and development needs assessments, program activities, etc.</td>
+		<td style="border-left: 1px solid black; border-bottom: none;">Third-party datasets</td>
 	</tr>
 </table>
 
+**Preparedness** activities include planning and preparation to improve local capacity and resilience to cope with future events and emergencies. Often, a separate “mitigation” phase is defined between recovery and preparedness, focusing on prevention and reducing the likelihood of effects and impacts. In this case, when looking at (geospatial) data needs, we’re combining mitigation with preparedness.
 
+**Preparedness-related Datasets:**
 
 <table style="border-bottom: none">
 	<tr style="border-bottom-width: 2px">
@@ -160,23 +114,51 @@ Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager
 		<th style="border-left: 1px solid black"><span style="font-weight: bold">Data needs and use</span></th>
 		<th style="border-left: 1px solid black"><span style="font-weight: bold">Source</span></th>
 	</tr>
+	<tr>
 		<td>Key infrastructure (context-specific), such as water infrastructure and drainage, public transport, or health and education</td>
-		<td>Specific interventions in an area to improve resilience and preparedness.</td>
-		<td rowspan="4">OpenStreetMap plus government or third-party datasets</td>
-	<tr>
-	</tr>
-		<td>Natural environment:
-such as wetlands, floodplains, and mangroves or river systems
-</td>
-		<td>Understand a wider ecosystem and the impacts of interventions and investments.</td>
-	<tr>
-	</tr>
-		<td>Project specific datasets</td>
-		<td>Specific interventions in an area to improve resilience and preparedness.</td>
-	<tr>
+		<td style="border-left: 1px solid black">Specific interventions in an area to improve resilience and preparedness.</td>
+		<td style="border-left: 1px solid black" rowspan="4">OpenStreetMap plus government or third-party datasets</td>
 	</tr>
 	<tr>
-		<td style="border-bottom: none;">Evacuation sites and coping capacity</td>
-		<td style="border-bottom: none;">Creating evacuation and escalation planning.</td>
+		<td style="border-left: 1px solid black">Natural environment: such as wetlands, floodplains, and mangroves or river systems</td>
+		<td style="border-left: 1px solid black">Understand a wider ecosystem and the impacts of interventions and investments.</td>
+	</tr>
+	<tr>
+		<td style="border-left: 1px solid black">Project specific datasets</td>
+		<td style="border-left: 1px solid black">Specific interventions in an area to improve resilience and preparedness.</td>
+	</tr>
+	<tr>
+		<td style="border-left: 1px solid black; border-bottom: none;">Evacuation sites and coping capacity</td>
+		<td style="border-left: 1px solid black; border-bottom: none;">Creating evacuation and escalation planning.</td>
 	</tr>
 </table>
+
+**[You can access OSM data via HOT’s HDX page](https://data.humdata.org/organization/hot.).** 
+
+## Data Requirements and Quality: Approaching Evolving Data Quality Needs at HOT
+
+As data use differs for each phase of a response, so do the expectations and requirements of the data itself. Often, higher data quality standards are expected of data in ‘stable’ locations and times than in the immediate disaster response phase.
+
+**Response Phase**
+
+During the immediate **Response Phase**, data availability is key - and data quality is often good enough as long as it doesn’t hamper the primary use of the data. For example, while annoying, overlapping or non-square buildings don’t actually cause population estimates to be significantly off. However, major roads that don’t connect cause issues for route logistics and navigation. 
+
+![DataPhasesEq2.png](/uploads/DataPhasesEq2.png)
+<figcaption align = "left"><h6>Comparison of mapping from 10 February (left) to 22 March (right). Light blue denotes areas of mapped buildings in OSM.</h6></figcaption>
+<br>
+Comprehensive data can be scarce and initially hard to get, especially if we’re dealing with an area that hasn’t been mapped well in the past. The pace of mapping on the Tasking Manager will invariably outpace data quality checks and validation.
+
+To complement tasking and data creation, we run a Data Protection Risk Assessment to ensure we consider local risk factors and potential harms of mapping, and consider potential improvements and mitigations. For example, we are careful of issues around the representation and exclusion of rural populations or ethnic groups through our tasking areas and definitions and what types of infrastructure we request (or don’t request) to be mapped.
+
+**Recovery Phase**
+
+During the **Recovery Phase**, our focus will shift more toward putting a concerted effort into data cleanup and validation. Also, we may be supporting specific recovery efforts, such as more comprehensive damage assessments, providing ongoing humanitarian assistance to shelters and camps, and planning for reconstruction efforts. This does require data to be higher quality overall and link to or incorporate additional data items, such as detailed addressing.
+
+**Preparedness Phase**
+
+For the **Preparedness Phase**, high data quality and fidelity is required - especially when considering the implementation of specific projects for disaster risk reduction, resilience, or anticipatory action. Often, data collection and mapping outputs will go towards providing decision-making data and baseline information on specific interventions and investments. Examples of this kind of project can be found in the Open Cities program (for example, in [Accra, Ghana](https://www.hotosm.org/projects/open-cities-africa-accra-city-project-ghana/)). These projects aim to build the disaster resilience of the cities they take place in and require detailed and high-quality data on specific aspects of infrastructure, such as the exact layout and capacity of drainage and water systems, public transport systems, or health facilities.
+
+![DataPhasesEq3.png](/uploads/DataPhasesEq3.png)
+
+Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager](https://tasks.hotosm.org/explore) for projects starting at the beginner level, and read [HOT's Tips for Mappers](https://www.hotosm.org/updates/tips-for-mappers-from-the-hot-data-team/). 
+**[You can access OSM data via HOT’s HDX page](https://data.humdata.org/organization/hot.).**
