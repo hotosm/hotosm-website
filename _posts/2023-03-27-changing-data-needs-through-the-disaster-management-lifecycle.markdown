@@ -67,6 +67,7 @@ Initial data activities involve assessing OSM data availability and gaps, procur
 	</tr>
 </table>
 
+
 **Recovery** activities focus on returning the situation to normal (and ideally better and more resilient) conditions and circumstances for affected people. The focus is still meeting the basic needs of the affected population, but it is also shifting to more thorough safety and damage assessments, cleanup, and rebuilding and reconstruction.
 
 **Recovery-related Datasets:**
@@ -103,6 +104,7 @@ Initial data activities involve assessing OSM data availability and gaps, procur
 		<td style="border-left: 1px solid black; border-bottom: none;">Third-party datasets</td>
 	</tr>
 </table>
+
 
 **Preparedness** activities include planning and preparation to improve local capacity and resilience to cope with future events and emergencies. Often, a separate “mitigation” phase is defined between recovery and preparedness, focusing on prevention and reducing the likelihood of effects and impacts. In this case, when looking at (geospatial) data needs, we’re combining mitigation with preparedness.
 
