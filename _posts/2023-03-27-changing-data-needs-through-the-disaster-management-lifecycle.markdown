@@ -86,7 +86,7 @@ Initial data activities involve assessing OSM data availability and gaps, procur
 	<tr>
 		<td>Roads</td>
 		<td style="border-left: 1px solid black">Routing and logistics for the ongoing delivery of humanitarian aid.</td>
-		<td> style="border-left: 1px solid black">OpenStreetMap</td>
+		<td style="border-left: 1px solid black">OpenStreetMap</td>
 	</tr>
 	<tr>
 		<td>Damage assessments</td>
