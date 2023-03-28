@@ -134,10 +134,10 @@ Initial data activities involve assessing OSM data availability and gaps, procur
 		<td style="border-left: 1px solid black; border-bottom: none;">Creating evacuation and escalation planning.</td>
 	</tr>
 </table>
-<br><br>
+<br>
 
 **[You can access OSM data via HOT’s HDX page](https://data.humdata.org/organization/hot.).** 
-
+<br><br>
 ## Data Requirements and Quality: Approaching Evolving Data Quality Needs at HOT
 
 As data use differs for each phase of a response, so do the expectations and requirements of the data itself. Often, higher data quality standards are expected of data in ‘stable’ locations and times than in the immediate disaster response phase.
