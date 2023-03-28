@@ -29,7 +29,7 @@ Initial data activities involve assessing OSM data availability and gaps, procur
 ![Disaster_Response_Phases1A.png](/uploads/Disaster_Response_Phases1A.png)
 
 [GDACS](https://www.gdacs.org/)
-[HDX Data Grids ](https://data.humdata.org/dashboards/overview-of-data-grids)
+[HDX Data Grids](https://data.humdata.org/dashboards/overview-of-data-grids)
 
 **Recovery** activities focus on returning the situation to normal (and ideally better and more resilient) conditions and circumstances for affected people. The focus is still meeting the basic needs of the affected population, but it is also shifting to more thorough safety and damage assessments, cleanup, and rebuilding and reconstruction.
 
@@ -83,36 +83,37 @@ Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager
 		<th style="border-left: 1px solid black"><b>Data needs and use</b></th>
 		<th style="border-left: 1px solid black"><b>Source</b></th>
 	</tr>
-		<td>Buildings</td>
-		<td>Population estimates and #/% affected.</td>
-		<td>OpenStreetMap</td>
 	<tr>
+		<td>Buildings</td>
+		<td style="border-left: 1px solid black">Population estimates and #/% affected.</td>
+		<td style="border-left: 1px solid black">OpenStreetMap</td>
 	</tr>
+	<tr>
 		<td>Roads</td>
-		<td>Routing and logistics.</td>
-		<td>OpenStreetMap</td>
+		<td style="border-left: 1px solid black">Routing and logistics.</td>
+		<td style="border-left: 1px solid black">OpenStreetMap</td>
 	</tr>
 	<tr>
 		<td>Place names</td>
-		<td>Routing and navigation.</td>
-		<td>OpenStreetMap</td>
+		<td style="border-left: 1px solid black">Routing and navigation.</td>
+		<td style="border-left: 1px solid black">OpenStreetMap</td>
 	</tr>
 	<tr>
 		<td>Event data</td>
-		<td>Area of impact & severity to estimate the affected population.</td>
-		<td>[GDACS](https://www.gdacs.org/)</td>
+		<td style="border-left: 1px solid black">Area of impact & severity to estimate the affected population.</td>
+		<td style="border-left: 1px solid black"><a href="https://www.gdacs.org/">GDACS</a></td>
 	</tr>
 	<tr>
 		<td>Context-specific infrastructure data</td>
-		<td>Examples include health facilities, evacuation sites, airports, and helicopter landing sites.
+		<td style="border-left: 1px solid black">Examples include health facilities, evacuation sites, airports, and helicopter landing sites.
 		
 		What’s relevant and needed depends on the type of disaster event and the context.
 		</td>
-		<td>Mix of OSM, [HDX data grids](https://data.humdata.org/dashboards/overview-of-data-grids), third party datasets</td>
+		<td style="border-left: 1px solid black">Mix of OSM, <a href="https://data.humdata.org/dashboards/overview-of-data-grids">HDX data grids</a>, third party datasets</td>
 	</tr>
 	<tr>
 		<td style="border-bottom: none;">Programmatic and needs data</td>
-		<td style="border-bottom: none;">Humanitarian needs assessments, program activities, etc.</td>
-		<td style="border-bottom: none;">Third-party datasets</td>
+		<td style="border-left: 1px solid black; border-bottom: none;">Humanitarian needs assessments, program activities, etc.</td>
+		<td style="border-left: 1px solid black; border-bottom: none;">Third-party datasets</td>
 	</tr>
-</table> 
+</table>
