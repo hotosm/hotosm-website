@@ -79,9 +79,9 @@ Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager
 
 <table style="border-bottom: none">
 	<tr>
-		<th style="border-bottom-width: 2px"><p style="font-weight: bold">Dataset</p></th>
-		<th style="border-left: 1px solid black; border-bottom-width: 2px"><p style="font-weight: bold">Data needs and use</p></th>
-		<th style="border-left: 1px solid black; border-bottom-width: 2px"><p style="font-weight: bold">Source</p></th>
+		<th style="border-bottom-width: 2px"><span style="font-weight: bold">Dataset</span></th>
+		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Data needs and use</span></th>
+		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Source</span></th>
 	</tr>
 	<tr>
 		<td>Buildings</td>
@@ -121,9 +121,9 @@ Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager
 
 <table style="border-bottom: none">
 	<tr style="border-bottom-width: 2px">
-		<th><p style="font-weight: bold">Dataset</p></th>
-		<th style="border-left: 1px solid black"><p style="font-weight: bold">Data needs and use</p></th>
-		<th style="border-left: 1px solid black"><p style="font-weight: bold">Source</p></th>
+		<th><span style="font-weight: bold">Dataset</span></th>
+		<th style="border-left: 1px solid black"><span style="font-weight: bold">Data needs and use</span></th>
+		<th style="border-left: 1px solid black"><span style="font-weight: bold">Source</span></th>
 	</tr>
 	<tr>
 		<td>Buildings</td>
@@ -156,9 +156,9 @@ Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager
 
 <table style="border-bottom: none">
 	<tr style="border-bottom-width: 2px">
-		<th><p style="font-weight: bold">Dataset</p></th>
-		<th style="border-left: 1px solid black"><p style="font-weight: bold">Data needs and use</p></th>
-		<th style="border-left: 1px solid black"><p style="font-weight: bold">Source</p></th>
+		<th><span style="font-weight: bold">Dataset</span></th>
+		<th style="border-left: 1px solid black"><span style="font-weight: bold">Data needs and use</span></th>
+		<th style="border-left: 1px solid black"><span style="font-weight: bold">Source</span></th>
 	</tr>
 		<td>Key infrastructure (context-specific), such as water infrastructure and drainage, public transport, or health and education</td>
 		<td>Specific interventions in an area to improve resilience and preparedness.</td>
