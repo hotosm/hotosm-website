@@ -135,6 +135,7 @@ Initial data activities involve assessing OSM data availability and gaps, procur
 	</tr>
 </table>
 
+
 **[You can access OSM data via HOT’s HDX page](https://data.humdata.org/organization/hot.).** 
 
 ## Data Requirements and Quality: Approaching Evolving Data Quality Needs at HOT
