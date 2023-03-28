@@ -85,7 +85,7 @@ Initial data activities involve assessing OSM data availability and gaps, procur
 	<tr>
 		<td>Roads</td>
 		<td style="border-left: 1px solid black">Routing and logistics for the ongoing delivery of humanitarian aid.</td>
-		<td> style="border-left: 1px solid black"OpenStreetMap</td>
+		<td> style="border-left: 1px solid black">OpenStreetMap</td>
 	</tr>
 	<tr>
 		<td>Damage assessments</td>
@@ -94,8 +94,8 @@ Initial data activities involve assessing OSM data availability and gaps, procur
 	</tr>
 	<tr>
 		<td>Context-specific infrastructure data</td>
-		<td>What’s relevant and needed depends on the type of disaster event and the context. This could be for education, healthcare, markets, financial services, or other areas.</td>
-		<td>Mix of OSM and third-party datasets</td>
+		<td style="border-left: 1px solid black">What’s relevant and needed depends on the type of disaster event and the context. This could be for education, healthcare, markets, financial services, or other areas.</td>
+		<td style="border-left: 1px solid black">Mix of OSM and third-party datasets</td>
 	</tr>
 	<tr>
 		<td style="border-bottom: none;">Programmatic data</td>
@@ -117,18 +117,18 @@ Initial data activities involve assessing OSM data availability and gaps, procur
 	<tr>
 		<td>Key infrastructure (context-specific), such as water infrastructure and drainage, public transport, or health and education</td>
 		<td style="border-left: 1px solid black">Specific interventions in an area to improve resilience and preparedness.</td>
-		<td style="border-left: 1px solid black" rowspan="4">OpenStreetMap plus government or third-party datasets</td>
+		<td style="border-left: 1px solid black; border-bottom: none" rowspan="4">OpenStreetMap plus government or third-party datasets</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black">Natural environment: such as wetlands, floodplains, and mangroves or river systems</td>
+		<td>Natural environment: such as wetlands, floodplains, and mangroves or river systems</td>
 		<td style="border-left: 1px solid black">Understand a wider ecosystem and the impacts of interventions and investments.</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black">Project specific datasets</td>
+		<td>Project specific datasets</td>
 		<td style="border-left: 1px solid black">Specific interventions in an area to improve resilience and preparedness.</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-bottom: none;">Evacuation sites and coping capacity</td>
+		<td style="border-bottom: none;">Evacuation sites and coping capacity</td>
 		<td style="border-left: 1px solid black; border-bottom: none;">Creating evacuation and escalation planning.</td>
 	</tr>
 </table>
