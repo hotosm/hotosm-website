@@ -138,7 +138,7 @@ Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager
 	<tr>
 		<td>Damage assessments</td>
 		<td>Combining OSM data with external & third-party datasets to assist in damage assessments.</td>
-		<td>[UNOSAT](https://unosat.org/products/), [Copernicus](https://emergency.copernicus.eu/mapping/copernicus-emergency-management-service#zoom=3&lat=0.62225&lon=-2.25351&layers=0BT00), etc.</td>
+		<td><a href="https://unosat.org/products/">UNOSAT</a>, <a href="https://emergency.copernicus.eu/mapping/copernicus-emergency-management-service#zoom=3&lat=0.62225&lon=-2.25351&layers=0BT00">Copernicus</a>, etc.</td>
 	</tr>
 	<tr>
 		<td>Context-specific infrastructure data</td>
