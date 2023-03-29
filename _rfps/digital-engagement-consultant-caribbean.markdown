@@ -8,12 +8,12 @@ Page Contact:
   Label: Submission Email
 ---
 
-**Role:** Digital Engagement Consultant- Caribbean
-**Duration of assignment:** 6 months
-**Application close date:** April 15th
-**Work location:** Remote
-**Type of contract:** Short-term consultancy
-**Supervision:** Global Project Manager
+**Role:** Digital Engagement Consultant- Caribbean <br>
+**Duration of assignment:** 6 months <br>
+**Application close date:** April 15th <br>
+**Work location:** Remote <br>
+**Type of contract:** Short-term consultancy <br>
+**Supervision:** Global Project Manager <br>
 
 ## About the Open Mapping Hub - Latin America and the Caribbean
 
