@@ -62,4 +62,4 @@ We are expecting proposals in the range of up to USD $15K, including travel cost
 * Your professional fee
 * Any additional information or comments that you believe would distinguish you from others, or that would be relevant for us to know as we consider your response
 
-**Send your proposal to caribbean@hotosm.org with the subject line “Digital Engagement Consultant: RFP: <your name>”**
+**Send your proposal to caribbean@hotosm.org with the subject line “Digital Engagement Consultant: RFP: (your name)”**
