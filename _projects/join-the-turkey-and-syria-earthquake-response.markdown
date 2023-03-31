@@ -41,13 +41,11 @@ layout: project-item
 
 ### How to participate as a beginner mapper:
 
-The best way to learn how to contribute to the response if you are a beginner is to join a community mapathon. You can find them on the [OSM wiki](https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes#Community_Mapathons) or on [the OSM calendar](https://osmcal.org/).
+Much of the beginner-accessible mapping has already been completed, but your interest in mapping is appreciated! There are always lots of projects that are accessible to beginner mappers on the [Tasking Manager](https://tasks.hotosm.org/), and even projects that are not urgent are still important.
 
 You can also contribute to the [MapRoulette challenges of Yer Çizenler](https://maproulette.org/browse/projects/51027) to tag the collapsed buildings from verified datasets. (Challenges not always available. Check back regularly.)
 
-If there are not any MapRoulette challenges currently available, beginner mappers can watch this [video for tips](https://www.youtube.com/watch?v=dbmcwMLhcwM) on how to contribute to the Tasking Manager projects for this response.
-
-You can also find support and advice on the [HOTOSM slack channels](https://slack.hotosm.org/) for #disastermapping and #mappersupport
+We also recommend you find support and advice on the [HOTOSM slack channels](https://slack.hotosm.org/) for #disastermapping and #mappersupport
 
 ### If you are already an intermediate or advanced mapper...
 
