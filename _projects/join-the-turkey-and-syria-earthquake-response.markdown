@@ -72,3 +72,6 @@ If you are an advanced mapper and would like to join the HOT Global Validators T
 * Download [datasets of the affected areas from HDX](https://data.humdata.org/event/turkiye-syria-earthquakes). Datasets are regularly updated with new data from the OSM mapping above.
 
 * Visit the [Turkey and Syria Earthquake Response Activation page](https://www.hotosm.org/disaster-services/turkiye-earthquakes-february-2023-activation/) for more details and statistics on the mapping response.
+
+
+<script src="https://stories.hotosm.org/turkey_syria_eq_response_p-er-page/embed.js"></script>
