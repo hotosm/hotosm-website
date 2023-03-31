@@ -30,15 +30,14 @@ block-3:
   Link: https://stories.hotosm.org/wna-homepage/index.html
 block-1:
   Title: Asia Pacific
-  Text: "<strong>The Open Mapping Hub - Asia-Pacific</strong> is working to create
-    a sustainable OpenStreetMap (OSM) ecosystem in Asia-Pacific. We work with open
-    mapping organizations and communities in the region across 25 countries to expand
-    and deepen the open mapping work in the region to generate meaningful data and
-    promote its effective use. <br /><br />We aspire to see government, humanitarian
-    and development agencies commonly using OSM data in their planning and decision-making.
-    We are also committed to providing funding, training and support, and to promoting
-    the active participation of underrepresented groups and individuals in the OSM
-    movement."
+  Text: "<strong>The Open Mapping Hub - Latin America and the Caribbean</strong> is
+    transitioning from its “Alpha Phase” -a stage in which we have carried out activities
+    to support the objectives of HOT, communities and other open mapping actors of
+    the region, co-designing this way what an Open Mapping Hub at the service of Latin
+    America can be and do- to the Hub as such, having formed a solid network of relationships
+    at different levels throughout the region, a group of projects carried out or
+    in progress that demonstrate the value that the Hub can bring to communities,
+    as well as some collaboration models that can be optimized in the immediate future."
   Action-text: Learn More
   Image: "/uploads/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png"
   Link: https://stories.hotosm.org/ap-homepage/index.html
