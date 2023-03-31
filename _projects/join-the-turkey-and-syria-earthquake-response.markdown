@@ -73,5 +73,15 @@ If you are an advanced mapper and would like to join the HOT Global Validators T
 
 **[Learn more about our approach to data quality in this earthquake response.](https://www.hotosm.org/updates/hot-approach-to-osm-data-validation-to-eq-mapping-projects/)**
 
+## How is the data being used?
+
+Emergency responders have shared how they have found OSM data invaluable. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wx3b9EtDwX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+And we have shared numerous other use cases via our blog and OSM diaries:
+* [Turkey And Syria Response: A Month After The Earthquake](https://www.hotosm.org/updates/turkey-and-syria-response-a-month-after-the-earthquake/)
+* [Using OSM Data in the Turkey and Syria Earthquake Response](https://www.hotosm.org/updates/using-osm-data-for-the-turkey-and-syria-earthquake-response/)
+* [OpenStreetMap data in action: earthquake response](https://www.openstreetmap.org/user/pedrito1414/diary/401009)
+
 ## Why is mapping after disasters so important?
 <script src="https://stories.hotosm.org/turkey_syria_eq_response_p-er-page/embed.js"></script>
