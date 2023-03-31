@@ -9,7 +9,7 @@ Banner:
   Link Copy: 
   URL: https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
 Project:
-- Join the Turkey & Syria Earthquake Response
+- HOT's Response to the Turkey & Syria Earthquake
 - Satellite Imagery for Social Good
 - 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin America
   and Caribbean'
