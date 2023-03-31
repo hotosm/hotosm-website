@@ -30,6 +30,17 @@ block-3:
   Link: https://stories.hotosm.org/wna-homepage/index.html
 block-1:
   Title: Asia Pacific
+  Text: "<strong>The Open Mapping Hub - Asia Pacific (AP Hub)</strong> was established
+    in early 2021 to advance the open mapping movement in the Asia-Pacific region.
+    The hub engages open mapping organizations and communities in the region to facilitate
+    the exchange of ideas and expertise across 25 countries in the region. We also
+    provide financial and technical support to massively scale local edits on OpenStreetMap
+    (OSM)."
+  Action-text: Learn More
+  Image: "/uploads/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png"
+  Link: https://stories.hotosm.org/ap-homepage/index.html
+block-4:
+  Title: LATAM Hub
   Text: "<strong>The Open Mapping Hub - Latin America and the Caribbean</strong> is
     transitioning from its “Alpha Phase” -a stage in which we have carried out activities
     to support the objectives of HOT, communities and other open mapping actors of
@@ -38,20 +49,6 @@ block-1:
     at different levels throughout the region, a group of projects carried out or
     in progress that demonstrate the value that the Hub can bring to communities,
     as well as some collaboration models that can be optimized in the immediate future."
-  Action-text: Learn More
-  Image: "/uploads/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png"
-  Link: https://stories.hotosm.org/ap-homepage/index.html
-block-4:
-  Title: LATAM Hub
-  Text: "<strong>El Hub de mapeo abierto - América Latina</strong> se encuentra transicionando
-    de su “Fase Alfa” -una etapa en la cual se han realizado actividades de apoyo
-    a los objetivos de HOT, las comunidades y otros actores del mapeo abierto de la
-    región, co-diseñando así lo que un Hub de Mapeo Abierto al servicio de América
-    Latina puede ser y hacer- al Hub como tal, habiendo formado una sólida red de
-    relaciones a distinto nivel en toda la región, un grupo de proyectos realizados
-    o en ejecución que demuestran el valor que puede aportar el Hub a las comunidades,
-    así como unos modelos  de colaboración que pueden ser optimizados en el futuro
-    inmediato."
   Action-text: Learn More
   Image: "/uploads/_HOT_OMH_LATAM_Spanish_Logo_REV_COLOUR_2023.jpg"
   Link: https://stories.hotosm.org/latam-homepage/index.html
