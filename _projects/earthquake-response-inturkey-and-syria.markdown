@@ -1,5 +1,5 @@
 ---
-title: HOT's Response to the Earthquake in Turkey and Syria
+title: Responding to the Earthquake in Turkey and Syria
 date: 2023-02-27 17:47:00 Z
 Feature Image: "/uploads/Turkey%20Syria%20Earthquake%20Image%20from%20EU%20B.jpeg"
 Country:
