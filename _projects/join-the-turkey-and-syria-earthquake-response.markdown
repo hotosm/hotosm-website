@@ -71,8 +71,7 @@ If you are an advanced mapper and would like to join the HOT Global Validators T
 
 * Visit the [Turkey and Syria Earthquake Response Activation page](https://www.hotosm.org/disaster-services/turkiye-earthquakes-february-2023-activation/) for more details and statistics on the mapping response.
 
-**[Learn more about our approach to data quality in this earthquake response.]
-(https://www.hotosm.org/updates/hot-approach-to-osm-data-validation-to-eq-mapping-projects/)**
+**[Learn more about our approach to data quality in this earthquake response.](https://www.hotosm.org/updates/hot-approach-to-osm-data-validation-to-eq-mapping-projects/)**
 
 ## Why is mapping after disasters so important?
 <script src="https://stories.hotosm.org/turkey_syria_eq_response_p-er-page/embed.js"></script>
