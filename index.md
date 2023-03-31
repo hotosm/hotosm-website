@@ -2,7 +2,7 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: true
+  Is Activated: false
   Main Block: Turkey and Syria Earthquake Response
   Secondary Block: Click this banner to go to the HOT Tasking Manager projects supporting
     the earthquake response in Turkey and Syria
