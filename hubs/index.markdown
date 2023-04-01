@@ -40,7 +40,7 @@ block-1:
   Image: "/uploads/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png"
   Link: https://stories.hotosm.org/ap-homepage/index.html
 block-4:
-  Title: LATAM Hub
+  Title: LAC Hub
   Text: "<strong>The Open Mapping Hub - Latin America and the Caribbean</strong> is
     transitioning from its “Alpha Phase” -a stage in which we have carried out activities
     to support the objectives of HOT, communities and other open mapping actors of
