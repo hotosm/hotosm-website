@@ -50,7 +50,7 @@ block-4:
     in progress that demonstrate the value that the Hub can bring to communities,
     as well as some collaboration models that can be optimized in the immediate future."
   Action-text: Learn More
-  Image: "/uploads/_HOT_OMH_LATAM_Spanish_Logo_REV_COLOUR_2023.jpg"
+  Image: "/uploads/LACLogoforWebsite.jpg"
   Link: https://stories.hotosm.org/latam-homepage/index.html
 layout: hubs
 ---
