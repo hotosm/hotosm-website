@@ -50,7 +50,7 @@ block-4:
     in progress that demonstrate the value that the Hub can bring to communities,
     as well as some collaboration models that can be optimized in the immediate future."
   Action-text: Learn More
-  Image: "/uploads/LAC%20for%20Website.png"
+  Image: "/uploads/LAC_for_Website_B.png"
   Link: https://stories.hotosm.org/latam-homepage/index.html
 layout: hubs
 ---
