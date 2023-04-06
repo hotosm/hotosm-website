@@ -63,9 +63,9 @@ You can find the complete list of projects [here](https://tasks.hotosm.org/explo
 
 The priorities for validation on the HOT tasking manager are currently:
 
-* [MISSING MAPS - EARTHQUAKE SYRIA, LATAKIA DISTRICT](https://tasks.hotosm.org/projects/14230)
+* [M7.8 EARTHQUAKE TÜRKIYE, KAHRAMANMARAŞ](https://tasks.hotosm.org/projects/14262)
 
-* [M7.8 EARTHQUAKE TÜRKIYE - GAZIANTEP RESPONSE](https://tasks.hotosm.org/projects/14226)
+* [MISSING MAPS - EARTHQUAKE SYRIA, HAREM DISTRICT](https://tasks.hotosm.org/projects/14246)
 
 If you are an advanced mapper and would like to join the HOT Global Validators Team, [please fill in your details here](http://bit.ly/HOTValidators).
 
