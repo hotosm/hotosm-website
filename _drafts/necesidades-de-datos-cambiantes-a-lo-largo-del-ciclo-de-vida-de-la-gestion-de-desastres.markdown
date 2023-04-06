@@ -1,7 +1,19 @@
 ---
 title: Necesidades de datos cambiantes a lo largo del ciclo de vida de la gestión
   de desastres
-date: 2023-04-06 23:36:00 Z
+date: 2023-03-27 23:36:00 Z
+Summary Text: Ya ha pasado dos meses desde que el primer terremoto de magnitud 7,7
+  sacudió Turquía y Siria el lunes 6 de febrero. Aunque se trata de una emergencia
+  en curso con grandes necesidades humanitarias, ahora estamos pasando a una fase
+  de apoyo continuo a las comunidades afectadas y el inicio de los esfuerzos de reconstrucción
+  donde sea factible hacerlo. A medida que cambia la fase de la respuesta a desastres,
+  también cambian las necesidades de datos y los requisitos de datos y calidad.
+Feature Image: "/uploads/Disaster_Response_PhasesC.png"
+Person:
+- Paul Uithol
+- Jessica Pechmann
+Working Group:
+- Quality Control and Assurance
 ---
 
 ## Data Availability and Uses: OSM Data Across the Disaster Management Phases
