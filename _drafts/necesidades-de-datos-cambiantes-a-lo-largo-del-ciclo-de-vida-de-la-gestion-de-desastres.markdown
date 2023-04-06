@@ -1,5 +1,5 @@
 ---
-title: Necesidades de datos cambiantes a lo largo del ciclo de vida de la gestión
+title: Las necesidades de datos cambian a lo largo del ciclo de vida de la gestión
   de desastres
 date: 2023-03-27 23:36:00 Z
 Summary Text: Ya ha pasado dos meses desde que el primer terremoto de magnitud 7,7
