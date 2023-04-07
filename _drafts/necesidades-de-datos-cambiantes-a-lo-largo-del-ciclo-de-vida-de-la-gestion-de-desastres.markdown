@@ -16,39 +16,39 @@ Working Group:
 - Quality Control and Assurance
 ---
 
-## Data Availability and Uses: OSM Data Across the Disaster Management Phases
+## Disponibilidad y usos de los datos: los datos de OSM en las fases de la gestión de desastres
 
-During each phase of the ‘disaster management cycle,' there are different data needs, uses, and requirements. Let’s first take a brief look at the different phases.
+Durante cada fase del "ciclo de gestión de desastres", existen diferentes necesidades, usos y requisitos de datos. Primero echemos un breve vistazo a las diferentes fases.
 
-**Response** activities immediately following a disaster event to help affected people include life-saving search and rescue and meeting basic humanitarian needs: water, food, clothing, medical aid, shelter, etc.
+Las actividades de **respuesta** inmediatamente después de un desastre para ayudar a las personas afectadas incluyen búsqueda y rescate para salvar vidas y satisfacer las necesidades humanitarias básicas: agua, alimentos, ropa, asistencia médica, refugio, etc.
 
-Initial data activities involve assessing OSM data availability and gaps, procuring as much pre- and post-event open-source imagery as possible (satellite and UAV), and supporting assessments of damage and humanitarian and logistical needs.
+Las actividades iniciales de datos implican evaluar la disponibilidad y las lagunas de los datos de OSM, obtener la mayor cantidad posible de imágenes de código abierto previas y posteriores al evento (satélite y UAV), y respaldar las evaluaciones de daños y necesidades humanitarias y logísticas.
 
-**Response-related Datasets:**
+**Conjuntos de datos relacionados con la respuesta:**
 
 <table style="border-bottom: none">
 <tr>
-<th style="border-bottom-width: 2px"><span style="font-weight: bold">Dataset</span></th>
-<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Data needs and use</span></th>
-<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Source</span></th>
+<th style="border-bottom-width: 2px"><span style="font-weight: bold">Conjunto de datos</span></th>
+<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Necesidades y uso de datos</span></th>
+<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Fuente</span></th>
 </tr>
 <tr>
-<td>Buildings</td>
-<td style="border-left: 1px solid black">Population estimates and #/% affected.</td>
+<td>Construcciones</td>
+<td style="border-left: 1px solid black">Estimaciones de población y #/% afectados.</td>
 <td style="border-left: 1px solid black">OpenStreetMap</td>
 </tr>
 <tr>
-<td>Roads</td>
-<td style="border-left: 1px solid black">Routing and logistics.</td>
+<td>Caminos</td>
+<td style="border-left: 1px solid black">Enrutamiento y logística.</td>
 <td style="border-left: 1px solid black">OpenStreetMap</td>
 </tr>
 <tr>
-<td>Place names</td>
-<td style="border-left: 1px solid black">Routing and navigation.</td>
+<td>Nombres de lugares</td>
+<td style="border-left: 1px solid black">Enrutamiento y navegación.</td>
 <td style="border-left: 1px solid black">OpenStreetMap</td>
 </tr>
 <tr>
-<td>Event data</td>
+<td>Datos del evento</td>
 <td style="border-left: 1px solid black">Area of impact & severity to estimate the affected population.</td>
 <td style="border-left: 1px solid black"><a href="https://www.gdacs.org/">GDACS</a></td>
 </tr>
