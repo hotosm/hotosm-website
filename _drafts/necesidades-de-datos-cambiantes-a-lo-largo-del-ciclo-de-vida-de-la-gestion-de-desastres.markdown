@@ -49,21 +49,21 @@ Las actividades iniciales de datos implican evaluar la disponibilidad y las lagu
 </tr>
 <tr>
 <td>Datos del evento</td>
-<td style="border-left: 1px solid black">Area of impact & severity to estimate the affected population.</td>
+<td style="border-left: 1px solid black">Área de impacto y severidad para estimar la población afectada.</td>
 <td style="border-left: 1px solid black"><a href="https://www.gdacs.org/">GDACS</a></td>
 </tr>
 <tr>
-<td>Context-specific infrastructure data</td>
-<td style="border-left: 1px solid black">Examples include health facilities, evacuation sites, airports, and helicopter landing sites.
+<td>Datos de infraestructura específicos del contexto</td>
+<td style="border-left: 1px solid black">Los ejemplos incluyen instalaciones de salud, sitios de evacuación, aeropuertos y sitios de aterrizaje de helicópteros.
 
-        What’s relevant and needed depends on the type of disaster event and the context.
+         Lo que es relevante y necesario depende del tipo de desastre y el contexto.
         </td>
-        <td style="border-left: 1px solid black">Mix of OSM, <a href="https://data.humdata.org/dashboards/overview-of-data-grids">HDX data grids</a>, third party datasets</td>
+        <td style="border-left: 1px solid black">Mezcla de OSM, <a href="https://data.humdata.org/dashboards/overview-of-data-grids">Cuadrículas de datos HDX</a>, conjuntos de datos de terceros</td>
     </tr>
     <tr>
-        <td style="border-bottom: none;">Programmatic and needs data</td>
-        <td style="border-left: 1px solid black; border-bottom: none;">Humanitarian needs assessments, program activities, etc.</td>
-        <td style="border-left: 1px solid black; border-bottom: none;">Third-party datasets</td>
+        <td style="border-bottom: none;">Datos programáticos y de necesidades</td>
+        <td style="border-left: 1px solid black; border-bottom: none;">Evaluaciones de necesidades humanitarias, actividades del programa, etc.</td>
+        <td style="border-left: 1px solid black; border-bottom: none;">Conjuntos de datos de terceros</td>
     </tr>
 
 </table>
