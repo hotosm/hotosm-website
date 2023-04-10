@@ -69,9 +69,9 @@ Las actividades iniciales de datos implican evaluar la disponibilidad y las lagu
 </table>
 <br><br>
 
-**Recovery** activities focus on returning the situation to normal (and ideally better and more resilient) conditions and circumstances for affected people. The focus is still meeting the basic needs of the affected population, but it is also shifting to more thorough safety and damage assessments, cleanup, and rebuilding and reconstruction.
+Las actividades de **recuperación** se centran en devolver la situación a condiciones y circunstancias normales (e idealmente mejores y más resilientes) para las personas afectadas. El enfoque sigue siendo satisfacer las necesidades básicas de la población afectada, pero también se va desplazando hacia evaluaciones más exhaustivas de seguridad y daños, limpieza y reconstrucción.
 
-**Recovery-related Datasets:**
+**Conjuntos de datos relacionados con la recuperación:**
 
 <table style="border-bottom: none">
 <tr>
