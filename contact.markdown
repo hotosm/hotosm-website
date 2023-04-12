@@ -43,10 +43,6 @@ Office Locations:
     [Open Mapping Hub - Latin America](https://www.hotosm.org/hubs/latam-hub)
     Contact us: hublatam@hotosm.org
   Nav ID: office-locations
-Media:
-  Details: "For media enquiries, please contact HOT's Senior Communications Manager,
-    Gihan Hassanein.  \n\nEmail: [gihan.hassanein@hotosm.org](mailto:gihan.hassanein@hotosm.org)\n"
-  Nav ID: media
 layout: contact
 ---
 
