@@ -6,6 +6,10 @@ Team:
   Nav ID: team
 News:
   Articles:
+  - Title: How Humanitarian OpenStreetMap Team is working to map areas affected by
+      disaster
+    Source: Geo Week News
+    Link: https://www.geoweeknews.com/news/turkey-syria-earthquake-how-humanitarian-openstreetmap-team-is-working-to-map-areas-affected-by-disaster
   - Title: Ukrainians are scrubbing open-source maps to keep intel from Russia’s army
     Source: Rest of the World
     Link: https://restofworld.org/2022/ukrainians-osint-maps-russia/
