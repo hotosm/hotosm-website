@@ -16,11 +16,11 @@ Working Group:
 - Community
 ---
 
-This blog is a result of the meetings held as a part of the Peer Mentor initiative by the Humanitarian OpenStreetMap. We started off our journey as a Peer Mentor group in September-October 2022 igniting our passion to learn about Open Street Mapping from each other. We were grouped according to our region, ASIA. We met a few times, virtually discussed, shared many ideas and views. Few of them will be documented in the following article for reference to others as well.
+Esta publicación es el resultado de las reuniones realizadas como parte de la iniciativa Peer Mentor de Humanitarian OpenStreetMap. Comenzamos nuestro viaje como un grupo de Peer Mentor en septiembre-octubre del 2022, encendiendo nuestra pasión por aprender unos de otros sobre Open Street Mapping. Nos agruparon según nuestra región, ASIA. Nos reunimos algunas veces, discutimos virtualmente, compartimos muchas ideas y puntos de vista. Algunos de estos se documentan en el siguiente artículo para que sirva de referencia a otros.
 
-There are many stages in Open Street Mapping which need to be addressed before the final results are available for public use. 
+Hay muchas etapas en Open Street Mapping que deben abordarse antes de que los resultados finales estén disponibles para uso público.
 
-Some of the points which need to be focussed are 1) Successful Mapping 2) Validation, which is a necessary component to achieve accuracy and 3) Final output to be put into use.   
+Algunos de los puntos en los que es necesario enfocarse son 1) Mapeo exitoso 2) Validación, que es un componente necesario para lograr precisión y 3) Resultado final para ser puesto en uso.  
 
 List of Participants:
 1. Antonin Haas – Volunteer, Mapper and Validator
