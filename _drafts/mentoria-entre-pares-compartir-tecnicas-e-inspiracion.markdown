@@ -16,19 +16,19 @@ Working Group:
 - Community
 ---
 
-Esta publicación es el resultado de las reuniones realizadas como parte de la iniciativa Peer Mentor de Humanitarian OpenStreetMap. Comenzamos nuestro viaje como un grupo de Peer Mentor en septiembre-octubre del 2022, encendiendo nuestra pasión por aprender unos de otros sobre Open Street Mapping. Nos agruparon según nuestra región, ASIA. Nos reunimos algunas veces, discutimos virtualmente, compartimos muchas ideas y puntos de vista. Algunos de estos se documentan en el siguiente artículo para que sirva de referencia a otros.
+Esta publicación es el resultado de las reuniones realizadas como parte de la iniciativa Peer Mentor de Humanitarian OpenStreetMap. Comenzamos nuestro viaje como un grupo de Peer Mentor en septiembre-octubre del 2022, encendiendo nuestra pasión por aprender unos de otros sobre mapeo abierto. Nos agruparon según nuestra región, ASIA. Nos reunimos algunas veces, discutimos virtualmente, compartimos muchas ideas y puntos de vista. Algunos de estos se documentan en el siguiente artículo para que sirva de referencia a otros.
 
-Hay muchas etapas en Open Street Mapping que deben abordarse antes de que los resultados finales estén disponibles para uso público.
+Hay muchas etapas en el mapeo abierto que deben abordarse antes de que los resultados finales estén disponibles para uso público.
 
 Algunos de los puntos en los que es necesario enfocarse son 1) Mapeo exitoso 2) Validación, que es un componente necesario para lograr precisión y 3) Resultado final para ser puesto en uso.  
 
-List of Participants:
-1. Antonin Haas – Volunteer, Mapper and Validator
-2. Anuradha Rajanayake - Geoinformatics Specialist, GIS/RS Application Architect, Volunteer Mapper and Validator
-3. Chisom Okwuchi – Geospatial Analyst, Volunteer Mapper and Validator (Group Facilitator).
-4. Dr. Laxmi N Goparaju - Environmentalist and Conservationist
-5. Charles Chilufya - Geospatial analyst, Volunteer, Mapper and Validator.
-Each one of us selected a particular topic based on our expertise, and prepared a small presentation. Following we discussed and tried to fill in our knowledge gaps.
+Lista de participantes:
+1. Antonin Haas – Voluntario, mapeador y validador
+2. Anuradha Rajanayake: Especialista en geoinformática, arquitecta de aplicaciones GIS/RS, mapeadora voluntaria y validadora
+3. Chisom Okwuchi – Analista geoespacial, mapeador voluntario y validador (Facilitador del grupo).
+4. Dr. Laxmi N Goparaju - Ambientalista y conservacionista
+5. Charles Chilufya - Analista geoespacial, voluntario, mapeador y validador.
+Cada uno de nosotros seleccionó un tema en particular basado en nuestra experiencia y preparó una pequeña presentación. A continuación discutimos e intentamos llenar nuestros vacíos de conocimiento.
 
 **Mr. Antonin Haas - [How to organize a Mapathon?](https://docs.google.com/presentation/d/1xYSLRxLo64nUxK4eTZWQHY7i-1zTH_WRvWaEQJPAGEg/edit?usp=sharing)**
 
