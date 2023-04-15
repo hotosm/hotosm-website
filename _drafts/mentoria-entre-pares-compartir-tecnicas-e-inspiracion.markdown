@@ -24,13 +24,13 @@ Algunos de los puntos en los que es necesario enfocarse son 1) Mapeo exitoso 2) 
 
 Lista de participantes:
 1. Antonin Haas – Voluntario, mapeador y validador
-2. Anuradha Rajanayake: Especialista en geoinformática, arquitecta de aplicaciones GIS/RS, mapeadora voluntaria y validadora
-3. Chisom Okwuchi – Analista geoespacial, mapeador voluntario y validador (Facilitador del grupo).
+2. Anuradha Rajanayake: Especialista en geoinformática, arquitecto de aplicaciones GIS/RS, mapeador voluntario y validador
+3. Chisom Okwuchi – Analista geoespacial, mapeador voluntario y validador (Facilitador del grupo)
 4. Dr. Laxmi N Goparaju - Ambientalista y conservacionista
 5. Charles Chilufya - Analista geoespacial, voluntario, mapeador y validador.
 Cada uno de nosotros seleccionó un tema en particular basado en nuestra experiencia y preparó una pequeña presentación. A continuación discutimos e intentamos llenar nuestros vacíos de conocimiento.
 
-**Mr. Antonin Haas - [How to organize a Mapathon?](https://docs.google.com/presentation/d/1xYSLRxLo64nUxK4eTZWQHY7i-1zTH_WRvWaEQJPAGEg/edit?usp=sharing)**
+**Sr. Antonin Haas - [¿Cómo organizar una Mapatón?](https://docs.google.com/presentation/d/1xYSLRxLo64nUxK4eTZWQHY7i-1zTH_WRvWaEQJPAGEg/edit?usp=sharing)**
 
 The aim of this session was to introduce the idea of what are the prerequisites required to run a successful  Mapathon. 
 
