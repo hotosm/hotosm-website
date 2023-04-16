@@ -52,13 +52,13 @@ La precisión, la consistencia, la integridad y la anomalía de los datos son la
 
 Hay tres cosas importantes a considerar durante el proceso de validación para gestionar la calidad y las relaciones consistentes entre los mapeadores 1) respeto por otros mapeadores (respeto por lo que han completado) 2) revisión del área mapeada por los usuarios y 3) retroalimentación a los mapeadores (en forma constructiva y alentadora). Las experiencias de los mapeadores son otro factor para tener éxito en el proceso de validación.
 
-The tool has the facility to make projects and can be divided into smaller tasks. The Hot Tasking Manager can be linked to JOSM and shown the validated area well. El Tasking Manager de HOT es una herramienta diseñada y desarrollada para el proceso de mapeo colaborativo en OpenStreetMap. La herramienta tiene la facilidad de hacer proyectos y se puede dividir en tareas más pequeñas. El Hot Tasking Manager se puede vincular a JOSM y mostrar bien el área validada.
+El Tasking Manager de HOT es una herramienta diseñada y desarrollada para el proceso de mapeo colaborativo en OpenStreetMap. La herramienta tiene la facilidad de hacer proyectos que se pueden dividir en tareas más pequeñas. El Tasking Manager de HOT se puede vincular a JOSM y mostrar adecuadamente el área validada.
 
-Further, discussed how to start the validation stepwise, what are the common errors and warnings that need to be fixed and how? Giving constructive feedback to the mappers will inspire them to continue mapping. 
+Además, discutir cómo iniciar la validación paso a paso, ¿cuáles son los errores y advertencias comunes que deben corregirse y cómo? Dar retroalimentación constructiva a los mapeadores los inspirará a continuar mapeando.
 
 ![validation workflow.jpg](/uploads/validation%20workflow.jpg)
 
-**Dr.Laxmi.N.Goparaju - [OpenStreetMap - some use cases](https://docs.google.com/presentation/d/1NKdhlsSi-My1Vcdi6UQKhJY7RHiNR_6tXnD79L3v5nU/edit?usp=sharing)**
+**Dr. Laxmi.N.Goparaju - [OpenStreetMap - algunos casos de uso](https://docs.google.com/presentation/d/1NKdhlsSi-My1Vcdi6UQKhJY7RHiNR_6tXnD79L3v5nU/edit?usp=sharing)**
 
 It was an insightful session where some use cases were referred and discussed. OSM in practical application needs the effort and cooperation  of the Government, Non-government and the Citizens of a particular country, region or state. 
 
