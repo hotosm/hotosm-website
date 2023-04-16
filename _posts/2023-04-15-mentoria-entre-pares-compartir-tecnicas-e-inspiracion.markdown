@@ -1,6 +1,14 @@
 ---
 title: 'Mentoría entre pares: compartir técnicas e inspiración'
 date: 2023-04-15 20:03:00 Z
+categories:
+- community
+- comunidad
+tags:
+- mentorias
+- mapeo
+- comunidad
+- mapeo abierto
 Summary Text: El Grupo de Trabajo de la Comunidad de Mapeo Abierto actualmente está
   organizando la segunda ronda de su programa de mentoría entre pares. Lee sobre los
   aprendizajes compartidos por los miembros de la primera ronda y descubre el valor
@@ -84,7 +92,7 @@ Lo mejor que pude, lo hice con la ayuda de compañeros mentores durante la  ment
 
 Para tener datos de OSM bien definidos y actualizados, OSM recomienda que el mapa se base en el conocimiento local. Los datos de OSM actualizados por el conocimiento local son muy sostenibles porque los locales pueden cambiarlos en cualquier momento si hay nuevas características o cambios en la comunidad.
 
-Los mapeadores remotos han actualizado la mayoría de las comunidades en África, por tanto, falta conocimiento local en la mayoría de las comunidades africanas. Dado que OSM está abierto a todas las comunidades y consiste en datos abiertos, que cualquiera puede aportar, existe la necesidad de más mapeo local para abordar a las comunidades subrepresentadas en los datos de mapeo abierto.
+Los mapeadores remotos han actualizado la mayoría de las comunidades en África, por tanto, falta conocimiento local en la mayoría de las comunidades africanas. Dado que OSM está abierto a todas las comunidades y consiste en datos abiertos, que cualquiera puede aportar, existe la necesidad de más mapeo local para abordar a las comunidades subrepresentadas en los datos de la cartografía abierta.
 
 *Objetivo*
 * Tener un mapa OSM local bien actualizado basado en el conocimiento local.
@@ -93,28 +101,27 @@ Los mapeadores remotos han actualizado la mayoría de las comunidades en África
 * Capacitar a más validadores (JOSM, OMScha, etc)
 * Capacitar mapeadores sobre cómo agregar puntos de interés
 
-If we train more local or community-based mappers and validators to update their own communities on OSM, it will be a vibrant Map with local-based knowledge and a true representation of people in open data.
+Si capacitamos a más mapeadores y validadores locales o comunitarios para actualizar sus propias comunidades en OSM, será un mapa vibrante con conocimiento local y una verdadera representación de personas en datos abiertos.
 
-This is a very big project that needs more collaboration on capacity building, materials,  financial support, etc. 
+Este es un proyecto muy grande que necesita más colaboración en el desarrollo de capacidades, en materiales, en apoyo financiero, etc.
 
-We shall collaborate with the Local OSM -Community, student youthMappers chapters, and any other interested international organization to ensure that more human resources have been capacitated especially the young people who are community-based.
+Colaboraremos con la comunidad local de OSM, los capítulos estudiantiles de YouthMappers y cualquier otra organización internacional interesada para garantizar que se hayan capacitado más recursos humanos, especialmente los jóvenes que pertenecen a la comunidad.
 
-We shall have a lot of Mapathon to test the local mappers and validators before starting our physical project of mapping the local community and updating points of interest. We shall share the skills and knowledge learned from the HOT community working group Pilot program with the rest of the team and ensure that we equip local mappers with the necessary skills and knowledge to improve their communities. 
+Tendremos muchas mapatones para entrenar a los mapeadores y validadores locales antes de comenzar nuestro proyecto presencial de mapear la comunidad local y actualizar los puntos de interés. Compartiremos las habilidades y el conocimiento aprendido del programa piloto del grupo de trabajo comunitario de HOT con el resto del equipo y nos aseguraremos de equipar a los mapeadores locales con las habilidades y el conocimiento necesarios para mejorar sus comunidades.
  
-*Materials*
+*Materiales*
 
-On this legacy project, Online material for pieces of training will be utilized. However, in ensuring that this project is successfully implemented, there is a need for a sustainable way in terms of providing Data to the participants, holding the training physical, and proved gadgets to local people. This project is aimed at empowering people from deep rural areas in mapping.
+En este proyecto se utilizará material en línea para piezas de capacitación. Sin embargo, para garantizar que este proyecto se implemente con éxito, existe la necesidad de una forma sostenible en términos de proporcionar datos a los participantes, realizar la capacitación física y dispositivos probados para la población local. Este proyecto tiene como objetivo empoderar a las personas de áreas rurales alejadas en el mapeo.
 
-*Expected Outcome*
+*Resultados esperados*
 
-The Local people will actively participate in the project and acquire relevant knowledge about open mapping. Additionally, the community will be trained on all necessary open mapping tools to use as well as gained knowledge for sustainable mapping. 
+La población local participará activamente en el proyecto y adquirirá conocimientos relevantes sobre cartografía abierta. Además, la comunidad recibirá formación sobre todas las herramientas de cartografía abierta necesarias y adquirirá conocimientos sobre cartografía sostenible. 
 
-Local will be well trained as validators in order to map and validate their own locally created data as well as add their points of interest on OSM. New data will be significantly updated on the OSM based on local knowledge. 
-Lastly, it is also expected that local people will understand the need and use of OSM  data in decision-making and their daily life. 
+Los locales recibirán una formación adecuada como validadores para mapear y validar sus propios datos creados localmente, así como para añadir sus puntos de interés en OSM. Los nuevos datos se actualizarán de forma significativa en OSM basándose en los conocimientos locales. 
+Por último, también se espera que la población local comprenda la necesidad y el uso de los datos de OSM en la toma de decisiones y en su vida cotidiana. 
 
-*Benefits*
+*Beneficios*
 
-This project will have more benefits from both sides, especially since we will take OSM closer to the community and give them a chance to generate their own data based on local pieces of knowledge. Further, having community-based data on OSM is a true representation of equality in open data and inclusion in decisions making.
+Este proyecto tendrá más beneficios para ambas partes, sobre todo porque acercaremos OSM a la comunidad y les daremos la oportunidad de generar sus propios datos basados en conocimientos locales. Además, tener datos basados en la comunidad en OSM es una verdadera representación de la igualdad en los datos abiertos y la inclusión en la toma de decisiones.
 
-Lastly, the sustainability of HOT depends on training more communities to freely participate in open mapping and see the need for it in their community. This step of taking the project to the community will be the best decision for the future of open data mapping. 
-
+Por último, la sostenibilidad de HOT depende de la formación de más comunidades para que participen libremente en el mapeo abierto y vean la necesidad de este en su comunidad. Este paso de llevar el proyecto a la comunidad será la mejor decisión para el futuro de la cartografía de datos abiertos. 
