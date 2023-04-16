@@ -42,9 +42,9 @@ El siguiente paso es distribuir las invitaciones a través de las redes sociales
 
 Una mapatón estándar tiene varias partes. Introducción: por qué estamos aquí y qué sucederá en las próximas horas. Introducción al contexto: una presentación de la persona que representa a las organizaciones humanitarias cuya mapatón ayuda a crear datos. Por ejemplo, una mapatón que está dirigida a la MSF y el mapeo está en Nigeria. Lo siguiente, y que ocupa la mayor parte de la mapatón, es la capacitación de los mapeadores o validadores dirigidos por un mapeador experimentado. Al inicio de esta parte, un capacitador presenta las herramientas que se utilizan para crear datos. La siguiente fase es el trabajo de los mapeadores y el espacio para preguntas. La última parte es otorgar créditos a los mapeadores, al anfitrión, al equipo central y otras personas involucradas y generar una discusión abierta.
 
-Open discussion can be casually held for example in the restaurant. Networking and hiring new people to the core team is an important part of the events to allow the community to grow.
+La discusión abierta puede llevarse a cabo de manera informal, por ejemplo, en un restaurante. La creación de redes y la contratación de nuevas personas para el equipo central es una parte importante de los eventos para permitir que la comunidad crezca.
 
-**Mr. Anuradha Rajanayeke - [Validation in JOSM](https://docs.google.com/presentation/d/1MZaVMPvnhZ22Na2O6k7TpP9DEBTFuJzcpLjc6TL1_LE/edit?usp=sharing)**
+**Sr. Anuradha Rajanayeke - [Validación en JOSM](https://docs.google.com/presentation/d/1MZaVMPvnhZ22Na2O6k7TpP9DEBTFuJzcpLjc6TL1_LE/edit?usp=sharing)**
 
 OSM is one of the major open data sources and a voluntarily contributed platform. Mappers contributed their local knowledge to make the wonderful platform, “OpenStreetMap”. However, the most common question is the accuracy level of the OSM data. The local knowledge and the standard map features help them make the OSMs up to the most accurate level of Geo-special content.  Data validation is a required process of checking the work of previous mappers completed to maintain the quality of OSM data.
 
