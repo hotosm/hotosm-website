@@ -28,7 +28,7 @@ Lista de participantes:
 3. Chisom Okwuchi – Analista geoespacial, mapeador voluntario y validador (Facilitador del grupo)
 4. Dr. Laxmi N Goparaju - Ambientalista y conservacionista
 5. Charles Chilufya - Analista geoespacial, voluntario, mapeador y validador.
-Cada uno de nosotros seleccionó un tema en particular basado en nuestra experiencia y preparó una pequeña presentación. A continuación discutimos e intentamos llenar nuestros vacíos de conocimiento.
+Cada uno de nosotros seleccionó un tema en particular basado en nuestra experiencia y preparó una pequeña presentación. Luego los discutimos e intentamos llenar nuestros vacíos de conocimiento.
 
 **Sr. Antonin Haas - [¿Cómo organizar una Mapatón?](https://docs.google.com/presentation/d/1xYSLRxLo64nUxK4eTZWQHY7i-1zTH_WRvWaEQJPAGEg/edit?usp=sharing)**
 
