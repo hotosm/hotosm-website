@@ -54,23 +54,23 @@ Hay tres cosas importantes a considerar durante el proceso de validación para g
 
 El Tasking Manager de HOT es una herramienta diseñada y desarrollada para el proceso de mapeo colaborativo en OpenStreetMap. La herramienta tiene la facilidad de hacer proyectos que se pueden dividir en tareas más pequeñas. El Tasking Manager de HOT se puede vincular a JOSM y mostrar adecuadamente el área validada.
 
-Además, discutir cómo iniciar la validación paso a paso, ¿cuáles son los errores y advertencias comunes que deben corregirse y cómo? Dar retroalimentación constructiva a los mapeadores los inspirará a continuar mapeando.
+Además, se discutió cómo iniciar la validación paso a paso, ¿cuáles son los errores y advertencias comunes que deben corregirse y cómo? Dar retroalimentación constructiva a los mapeadores los inspirará a continuar mapeando.
 
 ![validation workflow.jpg](/uploads/validation%20workflow.jpg)
 
 **Dr. Laxmi.N.Goparaju - [OpenStreetMap - algunos casos de uso](https://docs.google.com/presentation/d/1NKdhlsSi-My1Vcdi6UQKhJY7RHiNR_6tXnD79L3v5nU/edit?usp=sharing)**
 
-It was an insightful session where some use cases were referred and discussed. OSM in practical application needs the effort and cooperation  of the Government, Non-government and the Citizens of a particular country, region or state. 
+Fue una sesión reveladora donde se refirieron y discutieron algunos casos de uso. La aplicación práctica de OSM necesita el esfuerzo y la cooperación del gobierno, las organizaciones no gubernamentales y los ciudadanos de un país, región o estado en particular.
 
-OSM in Gender problems - To combat Female Genital Mutilation in Africa (Initiative by Crowd2Map Tanzania). Mapping of remote, rural villages was done which were highly vulnerable areas and unsafe for girls. Maps helped in navigating and reaching places for rescuing and preventing social injustice. Other projects which are centered around women include mapping places which are safe for women around public places. Places where mothers can breastfeed their babies. 
+OSM en Problemas de Género - Para combatir la Mutilación Genital Femenina en África (Iniciativa de Crowd2Map Tanzania) se realizó un mapeo de aldeas rurales remotas que eran áreas altamente vulnerables e inseguras para las niñas. Los mapas ayudaron a navegar y llegar a lugares para rescatar y prevenir la injusticia social. Otros proyectos centrados en las mujeres incluyen el mapeo de lugares que son seguros para las mujeres alrededor de los lugares públicos y lugares donde las madres pueden amamantar a sus bebés.
 
-OSM in Environment Management - many environmental issues can be tackled with the help of OSM. Roads and buildings obtained from OSM can be used as a proxy to determine the traffic, air pollution, urban density and also places vulnerable to epidemics. Also health hazards caused by polluted atmosphere can also be addressed with the OSM data. 
+OSM en la gestión ambiental: muchos problemas ambientales se pueden abordar con la ayuda de OSM. Las carreteras y edificios obtenidos de OSM se pueden utilizar como proxy para determinar el tráfico, la contaminación del aire, la densidad urbana y también los lugares vulnerables a las epidemias. Además, los riesgos para la salud causados por la atmósfera contaminada también pueden abordarse con los datos de OSM.
 
-Few more areas where OSM data can be effectively used are 1) Waste management in cities 2) E-waste management - OSM data should help to locate places where bins should be placed for people to discard electronic waste, 
+Otras áreas donde los datos de OSM se pueden usar de manera efectiva son 1) Gestión de desechos en las ciudades 2) Gestión de desechos electrónicos: los datos de OSM deberían ayudar a ubicar los lugares donde se deben colocar los contenedores para que las personas coloquen los desechos electrónicos.
 
-OSM in transportation - For a local village or city, it is very helpful to use Open street maps. It will serve as an input to the local APPS for transportation. It can be updated at regular intervals and also convenient to use.
+OSM en el transporte: para un pueblo o ciudad local, es muy útil usar OpenStreetMap. Servirá como insumo a las aplicaciones locales de transporte. Se puede actualizar a intervalos regulares y también es conveniente de usar.
 
-**Chisom Okwuchi – Geospatial Analyst, Volunteer Mapper and Validator**
+**Chisom Okwuchi – Analista geoespacial, mapeador voluntario y validador**
 
 As a facilitator in this group for the Mentorship Program, besides contributing to the general meetings and partaking in all trainings, I am also expected to;
 1. Facilitate and spark discussions during meetings and in the #mentorship_gis-osm slack channel
