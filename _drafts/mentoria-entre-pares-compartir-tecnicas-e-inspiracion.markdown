@@ -72,26 +72,26 @@ OSM en el transporte: para un pueblo o ciudad local, es muy útil usar OpenStree
 
 **Chisom Okwuchi – Analista geoespacial, mapeador voluntario y validador**
 
-As a facilitator in this group for the Mentorship Program, besides contributing to the general meetings and partaking in all trainings, I am also expected to;
-1. Facilitate and spark discussions during meetings and in the #mentorship_gis-osm slack channel
-2. Finalize meeting schedules and set up calendar invites. 
-3. During meetings, take notes and document important links shared
-To the best of my ability, I was able to do these with the help of fellow peer mentors through the duration of this mentorship and I can say it really taught me a lot. 
+Como facilitador en este grupo para el Programa de Mentorías, además de contribuir a las reuniones generales y participar en todas las capacitaciones, también se esperaba que yo;
+1. Facilitara y generara debates durante las reuniones y en el canal de slack #mentorship_gis-osm
+2. Preparara las agendas de las reuniones y configurara las invitaciones del calendario.
+3. Durante las reuniones, tomara notas y documentara los enlaces importantes compartidos.
+Lo mejor que pude, lo hice con la ayuda de compañeros mentores durante la  mentoría y puedo decir que realmente me enseñó mucho.
 
-**Charles Chilufya - Updating OSM based on Local Knowledge: I map my community project**
+**Charles Chilufya - Actualización de OSM basada en el conocimiento local: mapeo mi proyecto comunitario**
 
-*Background*
+*Antecedentes*
 
-In order to have well-defined and updated OSM data, OSM encourages that the map should be based on local knowledge. OSM data updated by local knowledge is very sustainable because locals can change it anytime if there are new features or changes in the community.
+Para tener datos de OSM bien definidos y actualizados, OSM recomienda que el mapa se base en el conocimiento local. Los datos de OSM actualizados por el conocimiento local son muy sostenibles porque los locales pueden cambiarlos en cualquier momento si hay nuevas características o cambios en la comunidad.
 
-Remote mappers have updated most communities in Africa, therefore, they lack local knowledge in most African communities. Since OSM is open to all communities and consists of open data, which is contributed by anyone, there is a need for more local mapping to address the under-represented community in Open mapping data.
+Los mapeadores remotos han actualizado la mayoría de las comunidades en África, por tanto, falta conocimiento local en la mayoría de las comunidades africanas. Dado que OSM está abierto a todas las comunidades y consiste en datos abiertos, que cualquiera puede aportar, existe la necesidad de más mapeo local para abordar a las comunidades subrepresentadas en los datos de mapeo abierto.
 
-*Objective*
-* To have a well-updated local OSM map based on local knowledge.
-*Specific objectives*
-* To introduce and train more local mappers (ID Editor tool, JOSM, StreetComplete, Everydoor app, and AI)
-* Train more validators (JOSM, OMScha, etc)
-* Train Mappers on how to add points of interest
+*Objetivo*
+* Tener un mapa OSM local bien actualizado basado en el conocimiento local.
+*Objetivos específicos*
+* Crear y capacitar más mapeadores locales (ID Editor, JOSM, StreetComplete, Everydoor e IA)
+* Capacitar a más validadores (JOSM, OMScha, etc)
+* Capacitar mapeadores sobre cómo agregar puntos de interés
 
 If we train more local or community-based mappers and validators to update their own communities on OSM, it will be a vibrant Map with local-based knowledge and a true representation of people in open data.
 
