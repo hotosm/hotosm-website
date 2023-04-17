@@ -1,7 +1,7 @@
 ---
 title: Digital Engagement Consultant - Caribbean
 date: 2023-03-28 13:44:00 Z
-Deadline Date: 2023-04-15 00:00:00 Z
+Deadline Date: 2023-04-30 00:00:00 Z
 Apply Form Link: https://cdn.hotosm.org/website/RFP_digital_engagement_strategy_consultant_Caribbean.pdf
 Page Contact:
   Contact Email: caribbean@hotosm.org
@@ -10,7 +10,7 @@ Page Contact:
 
 **Role:** Digital Engagement Consultant- Caribbean <br>
 **Duration of assignment:** 6 months <br>
-**Application close date:** April 15th <br>
+**Application close date:** April 30th <br>
 **Work location:** Remote <br>
 **Type of contract:** Short-term consultancy <br>
 **Supervision:** Global Project Manager <br>
