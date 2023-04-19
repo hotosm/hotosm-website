@@ -5,7 +5,7 @@ Summary Text: The Open Mapping Community Working Group is currently organizing t
   second round of its peer-to-peer mentorship program. To appreciate the value of
   this opportunity for members of the open mapping community, take a moment to read
   about the shared learnings of members of the first round.
-Feature Image: "/uploads/Mentorship_Post.jpg"
+Feature Image: "/uploads/Mentorship_Post_B-8dc547.png"
 Person:
 - Antonin Haas
 - Anuradha Rajanayake
@@ -56,7 +56,7 @@ The Hot Tasking Manager is a tool designed and developed for the collaborative m
 
 Further, discussed how to start the validation stepwise, what are the common errors and warnings that need to be fixed and how? Giving constructive feedback to the mappers will inspire them to continue mapping. 
 
-![validation workflow.jpg](/uploads/validation%20workflow.jpg)
+![Anuradha_Validation_in_JOSM-687694.png](/uploads/Anuradha_Validation_in_JOSM-687694.png)
 
 **Dr.Laxmi.N.Goparaju - [OpenStreetMap - some use cases](https://docs.google.com/presentation/d/1NKdhlsSi-My1Vcdi6UQKhJY7RHiNR_6tXnD79L3v5nU/edit?usp=sharing)**
 
