@@ -7,7 +7,7 @@ published: false
 ![52305985528_8196fa909e_h B.jpg](/uploads/52305985528_8196fa909e_h%20B.jpg)
 
 # All disasters begin and end locally. HOT’s vision is to strengthen local resilience and preparedness. 
-
+<br>
 Communities are challenged with the ripple effects beyond climate change itself, including floods, extreme heat, and food scarcity. 
 
 Individual citizens must have a role in identifying and understanding these risks. Gaps in training, tools, resources, and data availability exclude them as part of the solution. Because data and power are not evenly distributed in our world, those most impacted are left disconnected without access to solve their challenges.
@@ -42,7 +42,8 @@ Here are five projects in which HOT, global and local partners, and communities 
 
 # Canoa de Tolda
 
-![CDT Combined B.png](/uploads/CDT%20Combined%20B.png)<figcaption align = "left"><h6>Credit: Marina Aragão, HOT Staff, and Canoa de Tolda</h6></figcaption>
+![CDT Combined B.png](/uploads/CDT%20Combined%20B.png)
+<figcaption align = "left"><h6>Credit: Marina Aragão, HOT Staff, and Canoa de Tolda</h6></figcaption>
 <br>
 
 To learn more about our work and how OpenStreetMap data equips communities and policy-makers to better address climate and disaster risk, see our [impact area page](https://www.hotosm.org/impact-areas/disaster-risk-reduction/).
