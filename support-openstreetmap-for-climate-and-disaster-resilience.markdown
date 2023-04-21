@@ -55,13 +55,13 @@ Learn more.
 
 Learn more.
 
-# Open Cities: Mali
+# Community Mapping for a Resilient Bamako
 <br>
 ![OCB Combined.png](/uploads/OCB%20Combined.png)
 <figcaption align = "left"><h6>Credit: Banko Productions and the World Bank</h6></figcaption>
 <br>
 
-Learn more.
+[Learn more](https://www.hotosm.org/projects/community-mapping-for-a-resilient-bamako/).
 
 # Canoa de Tolda
 <br>
