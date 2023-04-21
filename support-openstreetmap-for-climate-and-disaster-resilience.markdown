@@ -16,31 +16,31 @@ It is urgent to take measures to mitigate the climate crisis that threatens the 
 Here are five projects in which HOT, global and local partners, and communities have worked together to generate OpenStreetMap data, create maps and models for decision-makers, and train community members and municipal employees to create and use geodata for climate and disaster resilience.
 
 # PhilAWARE
-
+<br>
 ![PhilAWARE combined.png](/uploads/PhilAWARE%20combined.png)
 <figcaption align = "center"><h6>Credit: HOT Staff</h6></figcaption>
 <be>
 
 # Ramani Huria
-
+<br>
 ![RH Combined.png](/uploads/RH%20Combined.png)
 <figcaption align = "center"><h6>Credit: OpenMap Development Tanzania</h6></figcaption>
 <br>
 
 # Open Cities: Mexico
-
+<br>
 ![OCM Combined.png](/uploads/OCM%20Combined.png)
 <figcaption align = "center"><h6>Credit: HOT Staff and Co.Mapper Team</h6></figcaption>
 <br>
 
 # Open Cities: Mali
-
+<br>
 ![OCB Combined.png](/uploads/OCB%20Combined.png)
 <figcaption align = "center"><h6>Credit: Banko Productions and the World Bank</h6></figcaption>
 <br>
 
 # Canoa de Tolda
-
+<br>
 ![CDT Combined B.png](/uploads/CDT%20Combined%20B.png)
 <figcaption align = "left"><h6>Credit: Marina Aragão, HOT Staff, and Canoa de Tolda</h6></figcaption>
 <br>
