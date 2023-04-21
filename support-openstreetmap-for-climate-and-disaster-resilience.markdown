@@ -37,7 +37,7 @@ Here are five projects in which HOT, global and local partners, and communities 
 <figcaption align = "left"><h6>Credit: HOT Staff</h6></figcaption>
 <br>
 
-Learn more.
+[Learn more](https://www.hotosm.org/projects/data-driven-disaster-risk-management-philaware/).
 
 # Ramani Huria
 <br>
@@ -45,7 +45,7 @@ Learn more.
 <figcaption align = "left"><h6>Credit: OpenMap Development Tanzania</h6></figcaption>
 <br>
 
-Learn more.
+[Learn more](https://www.hotosm.org/projects/dar_ramani_huria_dar_open_map).
 
 # Open Cities: Mexico
 <br>
@@ -53,7 +53,7 @@ Learn more.
 <figcaption align = "left"><h6>Credit: HOT Staff and Co.Mapper Team</h6></figcaption>
 <br>
 
-Learn more.
+[Learn more](https://stories.hotosm.org/open-cities-mexico/index.html).
 
 # Community Mapping for a Resilient Bamako
 <br>
