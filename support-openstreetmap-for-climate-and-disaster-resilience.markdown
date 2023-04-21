@@ -5,7 +5,7 @@ published: false
 Feature Image: "/uploads/52305985528_8196fa909e_h.jpg"
 Summary Text: All disasters begin and end locally. HOT’s vision is to strengthen local
   resilience and preparedness.
-layout: playground
+layout: page
 ---
 
 Communities are challenged with the ripple effects beyond climate change itself, including floods, extreme heat, and food scarcity. 
