@@ -27,4 +27,6 @@ Here are five projects in which HOT, global and local partners, and communities 
 ![CDT Combined.png](/uploads/CDT%20Combined.png)
 <figcaption align = "left"><h6>Credit: Marina Aragão, HOT Staff, and Canoa de Tolda</h6></figcaption>
 
+To learn more about our work and how OpenStreetMap data equips communities and policy-makers to better address climate and disaster risk, see our [impact area page](https://www.hotosm.org/impact-areas/disaster-risk-reduction/).
+
 If you or your organization would like to partner with us or any of our local implementing partners to use or support the use of OpenStreetMap for climate and disaster risk management, please contact us at [partnerships@hotosm.org](mailto:partnerships@hotosm.org).
