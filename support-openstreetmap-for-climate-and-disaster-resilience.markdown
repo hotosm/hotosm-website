@@ -5,6 +5,7 @@ published: false
 Feature Image: "/uploads/52305985528_8196fa909e_h.jpg"
 Summary Text: All disasters begin and end locally. HOT’s vision is to strengthen local
   resilience and preparedness.
+layout: playground
 ---
 
 Communities are challenged with the ripple effects beyond climate change itself, including floods, extreme heat, and food scarcity. 
@@ -18,25 +19,25 @@ Here are five projects in which HOT, global and local partners, and communities 
 # PhilAWARE
 <br>
 ![PhilAWARE combined.png](/uploads/PhilAWARE%20combined.png)
-<figcaption align = "center"><h6>Credit: HOT Staff</h6></figcaption>
+<figcaption align = "left"><h6>Credit: HOT Staff</h6></figcaption>
 <br>
 
 # Ramani Huria
 <br>
 ![RH Combined.png](/uploads/RH%20Combined.png)
-<figcaption align = "center"><h6>Credit: OpenMap Development Tanzania</h6></figcaption>
+<figcaption align = "left"><h6>Credit: OpenMap Development Tanzania</h6></figcaption>
 <br>
 
 # Open Cities: Mexico
 <br>
 ![OCM Combined.png](/uploads/OCM%20Combined.png)
-<figcaption align = "center"><h6>Credit: HOT Staff and Co.Mapper Team</h6></figcaption>
+<figcaption align = "left"><h6>Credit: HOT Staff and Co.Mapper Team</h6></figcaption>
 <br>
 
 # Open Cities: Mali
 <br>
 ![OCB Combined.png](/uploads/OCB%20Combined.png)
-<figcaption align = "center"><h6>Credit: Banko Productions and the World Bank</h6></figcaption>
+<figcaption align = "left"><h6>Credit: Banko Productions and the World Bank</h6></figcaption>
 <br>
 
 # Canoa de Tolda
