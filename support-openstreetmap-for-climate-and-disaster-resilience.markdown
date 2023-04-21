@@ -12,8 +12,9 @@ Page Contact:
   Contact Email: partnerships@hotosm.org
 Page Link:
   Label: Learn More!
-  Text: Learn more about our work and how OpenStreetMap data equips communities and
-    policy-makers to better address climate and disaster risk.
+  Text: |-
+    <br>
+    Learn more about our work and how OpenStreetMap data equips communities and policy-makers to better address climate and disaster risk.
   Link: https://www.hotosm.org/impact-areas/disaster-risk-reduction/
 layout: page
 ---
