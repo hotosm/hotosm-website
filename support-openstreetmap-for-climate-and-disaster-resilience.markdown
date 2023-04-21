@@ -4,6 +4,12 @@ date: 2023-04-21 16:27:00 Z
 published: false
 Intro Text: All disasters begin and end locally. HOT’s vision is to strengthen local
   resilience and preparedness.
+Page Contact:
+  Label: Contact Us
+  Text: If you or your organization would like to learn more or to partner with us
+    or any of our local implementing partners to support the use of OpenStreetMap
+    for climate and disaster risk management, please reach out.
+  Contact Email: partnerships@hotosm.org
 layout: page
 ---
 
@@ -46,5 +52,3 @@ Here are five projects in which HOT, global and local partners, and communities 
 <br>
 
 To learn more about our work and how OpenStreetMap data equips communities and policy-makers to better address climate and disaster risk, see our [impact area page](https://www.hotosm.org/impact-areas/disaster-risk-reduction/).
-
-If you or your organization would like to learn more or to partner with us or any of our local implementing partners to support the use of OpenStreetMap for climate and disaster risk management, please contact us at [partnerships@hotosm.org](mailto:partnerships@hotosm.org).
