@@ -69,4 +69,4 @@ Learn more.
 <figcaption align = "left"><h6>Credit: Marina Aragão, HOT Staff, and Canoa de Tolda</h6></figcaption>
 <br>
 
-Learn more.
+[Learn more](https://stories.hotosm.org/canoa-de-tolda/index.html).
