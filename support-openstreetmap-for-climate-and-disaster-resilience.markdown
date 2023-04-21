@@ -19,7 +19,7 @@ Here are five projects in which HOT, global and local partners, and communities 
 <br>
 ![PhilAWARE combined.png](/uploads/PhilAWARE%20combined.png)
 <figcaption align = "center"><h6>Credit: HOT Staff</h6></figcaption>
-<be>
+<br>
 
 # Ramani Huria
 <br>
