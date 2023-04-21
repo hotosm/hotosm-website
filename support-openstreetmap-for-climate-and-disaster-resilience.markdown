@@ -37,11 +37,15 @@ Here are five projects in which HOT, global and local partners, and communities 
 <figcaption align = "left"><h6>Credit: HOT Staff</h6></figcaption>
 <br>
 
+Learn more.
+
 # Ramani Huria
 <br>
 ![RH Combined.png](/uploads/RH%20Combined.png)
 <figcaption align = "left"><h6>Credit: OpenMap Development Tanzania</h6></figcaption>
 <br>
+
+Learn more.
 
 # Open Cities: Mexico
 <br>
@@ -49,14 +53,20 @@ Here are five projects in which HOT, global and local partners, and communities 
 <figcaption align = "left"><h6>Credit: HOT Staff and Co.Mapper Team</h6></figcaption>
 <br>
 
+Learn more.
+
 # Open Cities: Mali
 <br>
 ![OCB Combined.png](/uploads/OCB%20Combined.png)
 <figcaption align = "left"><h6>Credit: Banko Productions and the World Bank</h6></figcaption>
 <br>
 
+Learn more.
+
 # Canoa de Tolda
 <br>
 ![CDT Combined B.png](/uploads/CDT%20Combined%20B.png)
 <figcaption align = "left"><h6>Credit: Marina Aragão, HOT Staff, and Canoa de Tolda</h6></figcaption>
 <br>
+
+Learn more.
