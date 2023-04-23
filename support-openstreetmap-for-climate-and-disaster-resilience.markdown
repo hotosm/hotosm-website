@@ -36,7 +36,7 @@ Here are five projects in which HOT, global and local partners, and communities 
 ![PhilAWARE combined.png](/uploads/PhilAWARE%20combined.png)
 <figcaption align = "left"><h6>Credit: HOT Staff</h6></figcaption>
 <br>
-
+In the Philippines, PhilAWARE consolidated hazard information and alerts from various sources in one place to improve data quality and ease of sharing among the country’s disaster managers and communities.
 [Learn more](https://www.hotosm.org/projects/data-driven-disaster-risk-management-philaware/).
 
 # Ramani Huria
@@ -52,7 +52,7 @@ Ramani Huria, "Open Map" in Swahili, mapped Dar es Salaam and other large cities
 ![OCM Combined.png](/uploads/OCM%20Combined.png)
 <figcaption align = "left"><h6>Credit: HOT Staff and Co.Mapper Team</h6></figcaption>
 <br>
-
+In Mexico, HOT and local partner [Co.Mapper](https://comapper.org/) trained municipal staff in Tulum, Mexico how to use OSM data and worked with community members to create a detailed map of critical infrastructure and disaster risks.
 [Learn more](https://stories.hotosm.org/open-cities-mexico/index.html).
 
 # Community Mapping for a Resilient Bamako
