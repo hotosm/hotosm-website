@@ -44,7 +44,7 @@ Here are five projects in which HOT, global and local partners, and communities 
 ![RH Combined.png](/uploads/RH%20Combined.png)
 <figcaption align = "left"><h6>Credit: OpenMap Development Tanzania</h6></figcaption>
 <br>
-
+Ramani Huria, "Open Map" in Swahili, mapped Dar es Salaam and other large cities, including many places that had never been mapped, to inform flood prevention plans. [OpenMap Development Tanzania](https://www.omdtz.or.tz/) combined exposure data and flood hazard data to analyze the risk of potential future disasters and improve flood mitigation plans.
 [Learn more](https://www.hotosm.org/projects/dar_ramani_huria_dar_open_map).
 
 # Open Cities: Mexico
