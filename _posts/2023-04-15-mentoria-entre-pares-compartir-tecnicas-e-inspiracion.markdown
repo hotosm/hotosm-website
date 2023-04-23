@@ -13,7 +13,7 @@ Summary Text: El Grupo de Trabajo de la Comunidad de Mapeo Abierto actualmente e
   organizando la segunda ronda de su programa de mentoría entre pares. Lee sobre los
   aprendizajes compartidos por los miembros de la primera ronda y descubre el valor
   de esta oportunidad para los miembros de la comunidad de mapeo abierto.
-Feature Image: "/uploads/Mentorship_Post.jpg"
+Feature Image: "/uploads/Mentorship_Post_B-8dc547.png"
 Person:
 - Antonin Haas
 - Anuradha Rajanayake
@@ -64,7 +64,7 @@ El Tasking Manager de HOT es una herramienta diseñada y desarrollada para el pr
 
 Además, se discutió cómo iniciar la validación paso a paso, ¿cuáles son los errores y advertencias comunes que deben corregirse y cómo? Dar retroalimentación constructiva a los mapeadores los inspirará a continuar mapeando.
 
-![validation workflow.jpg](/uploads/validation%20workflow.jpg)
+![Anuradha_Validation_in_JOSM-687694.png](/uploads/Anuradha_Validation_in_JOSM-687694.png)
 
 **Dr. Laxmi.N.Goparaju - [OpenStreetMap - algunos casos de uso](https://docs.google.com/presentation/d/1NKdhlsSi-My1Vcdi6UQKhJY7RHiNR_6tXnD79L3v5nU/edit?usp=sharing)**
 
