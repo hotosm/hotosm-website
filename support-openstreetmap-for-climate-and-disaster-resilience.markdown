@@ -1,7 +1,6 @@
 ---
 title: Support OpenStreetMap for Climate and Disaster Resilience
 date: 2023-04-21 16:27:00 Z
-published: false
 Intro Text: All disasters begin and end locally. HOT’s vision is to strengthen local
   resilience and preparedness.
 Page Contact:
@@ -23,7 +22,7 @@ layout: page
 
 ![52305985528_8196fa909e_h B.jpg](/uploads/52305985528_8196fa909e_h%20B.jpg)
 
-Communities are challenged with the ripple effects beyond climate change itself, including floods, extreme heat, and food scarcity. 
+Communities are challenged with the ripple effects beyond climate change itself, including floods, extreme heat, and food scarcity.
 
 Individual citizens must have a role in identifying and understanding these risks. Gaps in training, tools, resources, and data availability exclude them as part of the solution. Because data and power are not evenly distributed in our world, those most impacted are left disconnected without access to solve their challenges.
 
@@ -60,7 +59,7 @@ In Mexico, HOT and local partner [Co.Mapper](https://comapper.org/) trained muni
 ![OCB Combined.png](/uploads/OCB%20Combined.png)
 <figcaption align = "left"><h6>Credit: Banko Productions and the World Bank</h6></figcaption>
 <br>
-
+In Bamako, Mali and with support from the World Bank, HOT, [OpenStreetMap Mali](https://openstreetmapmali.ml/), and [Croix-Rouge Malienne](https://www.croixrouge-mali.org/) used OSM mapping to bridge the gap between waste, drains, and infrastructure to reduce flooding while engaging the local government, civil society, and the private sector in disaster response.
 [Learn more](https://www.hotosm.org/projects/community-mapping-for-a-resilient-bamako/).
 
 # Canoa de Tolda
