@@ -68,5 +68,5 @@ Here are five projects in which HOT, global and local partners, and communities 
 ![CDT Combined B.png](/uploads/CDT%20Combined%20B.png)
 <figcaption align = "left"><h6>Credit: Marina Aragão, HOT Staff, and Canoa de Tolda</h6></figcaption>
 <br>
-
+In the Sao Francisco river basin, the [Latin America & Caribbean Open Mapping Hub](https://stories.hotosm.org/latam-homepage/index.html) and [Canoa de Tolda](https://canoadetolda.org.br/) mapped communities along the river and model its flow. This data increased awareness of flood risks and empowered residents to advocate for their communities.
 [Learn more](https://stories.hotosm.org/canoa-de-tolda/index.html).
