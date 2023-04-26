@@ -15,8 +15,7 @@ hubs:
 - Asia Pacific Hub
 - Eastern and Southern Africa Hub
 - West and Northern Africa Hub
-- Collaborators Alpha stage - Latam Hub (experimental period prior to the creation
-  of HOT Hub in Latin America)
+- Latin America and Caribbean Hub
 layout: roster-staff
 ---
 
