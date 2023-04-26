@@ -5,8 +5,7 @@ Photo: "/uploads/profile%20pic%20.jpg"
 Member Type:
   Is Staff: true
 Job Title: Projects Factory Coordinator
-Team: Collaborators Alpha stage - Latam Hub (experimental period prior to the creation
-  of HOT Hub in Latin America)
+Team: Latin America and Caribbean Hub
 ---
 
 Tim joined HOT as the Project Factory Coordinator in the Latin American Alpha team, bringing more than 30 years of experience in a broad range of social development programs. The last 6 years of his professional experiences focused on the development of a thinking school and lifelong learning while developing social projects in the Andean region of Cusco. 
