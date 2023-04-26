@@ -1,6 +1,12 @@
 ---
 title: 'HOT and TETO: building emergency solutions to improve people’s lives'
 date: 2023-04-26 20:33:00 Z
+categories:
+- community
+tags:
+- TETO
+- Brazil
+- humanitarian
 Person:
 - Carla Habif
 - 'Alessandra Figueiredo '
