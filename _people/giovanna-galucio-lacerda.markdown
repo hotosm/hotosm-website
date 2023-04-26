@@ -5,8 +5,7 @@ Photo: "/uploads/tempImageCbBgwx.jpg"
 Member Type:
   Is Staff: true
 Job Title: People Operations Associate
-Team: Collaborators Alpha stage - Latam Hub (experimental period prior to the creation
-  of HOT Hub in Latin America)
+Team: Latin America and Caribbean Open Mapping Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/lacerdagg
 ---
