@@ -5,7 +5,7 @@ Photo: "/uploads/tempImageCbBgwx.jpg"
 Member Type:
   Is Staff: true
 Job Title: People Operations Associate
-Team: Latin America and Caribbean Open Mapping Hub
+Team: Latin America and Caribbean Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/lacerdagg
 ---
