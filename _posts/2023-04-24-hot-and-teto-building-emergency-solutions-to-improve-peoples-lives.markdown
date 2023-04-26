@@ -1,6 +1,6 @@
 ---
 title: 'HOT and TETO: building emergency solutions to improve people’s lives'
-date: 2023-04-26 20:33:00 Z
+date: 2023-04-24 20:33:00 Z
 categories:
 - community
 tags:
@@ -32,6 +32,8 @@ HOT came together in making those two events happen in one in two ways:
 
 * bringing open mapping reflections to the table.
 
+![IMG_3464(1).jpg](/uploads/IMG_3464(1).jpg)
+
 Partnering with TETO National Encounter of Volunteers and City of Rights as an unSummit event was different for us, exactly because at first there was no focus on open mapping activities or tools. At this time, we were in the first stages of our hub in Latin America and, as our name expresses it, we have as our main goal to dedicate our efforts to humanitarian action and community development. So we saw a huge opportunity in this new partnership, since TETO develops community centered projects in hundreds of favelas throughout Brazil, mobilizing thousands of volunteers every year.
 
 During our talks with the organization's leads, we understood that bringing the open mapping tools we use could make their work much deeper and open the possibility for improvement and new projects. To show how open mapping is so important in developing community centered humanitarian action, we brought to the event another group who already uses it here in Brazil - [URBE Latam](https://urbe-latam.cos.ufrj.br/). They did the mapping of the Preventório community, in Niterói, Rio de Janeiro, and [you can read more about it here](https://www.hotosm.org/updates/mapping-the-care-of-people-with-urbelatam/).
@@ -39,6 +41,8 @@ During our talks with the organization's leads, we understood that bringing the 
 So I - representing HOT - and [Elena Veríssimo](mailto:elenaverissimo@poli.ufrj.br), [Alessandra Figueiredo](mailto:alessandrafigueiredo@poli.ufrj.br) and [Marcos Rodrigo Maciel Ferreira](mailto:marcosrodrigo@cos.ufrj.br), from URBE Latam, joined the two day event that happened in November 2022, bringing together around 200 people from different regions of Brazil. We participated in the integration activities and discussion with community members, and made a presentation about open mapping and the mapping developed in Preventório in a space called TED TETO.
 
 After our presentation - that happened twice in different sessions - we had a space for discussions and in both sessions community residents that were at the event and volunteers raised their hands to talk about how applying the open mapping tools and methods we showed would be so important and asked us to follow up after the event.
+
+![IMG_3448(1).heif.jpg](/uploads/IMG_3448(1).heif.jpg)
 
 ***Next steps…***
 
