@@ -1,6 +1,9 @@
 ---
 title: 'HOT and TETO: building emergency solutions to improve people’s lives'
 date: 2023-04-26 20:33:00 Z
+Person:
+- Carla Habif
+- 'Alessandra Figueiredo '
 ---
 
 In 2022, HOT decided to invest and partner in local humanitarian open mapping events instead of holding its own annual summit. We called it unSummit and you [can read more about it here](https://stories.hotosm.org/2022-hot-unsummit/). One of the organizations we partnered with was [TETO Brasil](https://teto.org.br/?gclid=CjwKCAjw586hBhBrEiwAQYEnHbibZuL_C0KQkjgAA5miu57bm-ZpBBQ5yIa0GbW2gjWvNLB7jJpTJxoCfBQQAvD_BwE). TETO is a part of a larger international organization - TECHO, that is present in 18 Latin American countries - and has the goal to build a country more fair and without poverty, working directly in communities in situations of precarity and poverty through the joint work between volunteers and communities residents. HOT and TETO are exploring how to work together to build concrete emergency solutions to improve the living conditions of these communities nationally.
