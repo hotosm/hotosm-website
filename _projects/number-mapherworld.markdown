@@ -26,8 +26,7 @@ This can include health facilities, schools, childcare, police stations and much
 We hope that by putting these vital amenities on the map that we can improve access to services, visualise what is available and help people advocate for increased and improved services.
 
 ![Screenshot from 2023-04-27 16-44-32.png](/uploads/Screenshot%20from%202023-04-27%2016-44-32.png)
-
-[Click here to see what is going on in the campaign on twitter.](https://twitter.com/search?q=%23mapherworld&src=typed_query)
+<figcaption align = "center"><h6>[Click here to see what is going on in the campaign on twitter.](https://twitter.com/search?q=%23mapherworld&src=typed_query)</h6></figcaption>
 
 **What tech are we using? **
 
