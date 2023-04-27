@@ -17,13 +17,11 @@ Duration:
   End Date: 2023-06-30 00:00:00 Z
 ---
 
-What is #MapHerWorld?
+**What is #MapHerWorld?**
 
 #MapHerWorld is a mapping campaign by the Open Mapping Hub - East and Southern Africa, inspired by the International Women's Day 2023 theme, Celebrating women and girls who are championing the advancement of transformative technology and digital education.
 
 The campaign mobilises the open mapping community to put amenities used by women and girls in communities across East and Southern Africa on the map (although everyone is welcome regardless of their location!)
-
-[for future] event poster
 
 This can include health facilities, schools, childcare, police stations and much more. A [full data model is available here](https://docs.google.com/document/d/1aIaYkWQlxq-E6ofRrvYdXageqWJCkSMGSi2CicLU5wM/edit?usp=sharing)!
 
@@ -31,15 +29,11 @@ We hope that by putting these vital amenities on the map that we can improve acc
 
 [Click here to see what is going on in the campaign on twitter.](https://twitter.com/search?q=%23mapherworld&src=typed_query)
 
-What tech are we using? 
+**What tech are we using? **
 
 The campaign centres on [the EveryDoor app](https://every-door.app/) (available on iOS and Android). EveryDoor is an OpenStreetMap editor specifically for adding and editing points of interest and other amenities.
 
-[for future] Resources + links
-
--   Recording from event
-
-If you want to get involved or get in touch......
+**If you want to get involved or get in touch......**
 
 Firstly, you can start mapping! Download or open every door and improve the data in your neighbourhood.
 
