@@ -1,6 +1,7 @@
 ---
 title: 'Notas desde el terreno: el Equipo Humanitario de OpenStreetMap'
 date: 2023-04-26 22:43:00 Z
+Person: Fabrizio Scrollini
 ---
 
 El 17 de abril fue mi primer día como Director Regional del Hub para América Latina y el Caribe del Equipo humanitario de OpenStreetMap. Me encontraba en el ayuntamiento de Tulum, rodeado de líderes locales, personal del ayuntamiento, organizaciones aliadas de HOT, además de mis colegas Céline y Pete, que me han ofrecido una cálida bienvenida.
