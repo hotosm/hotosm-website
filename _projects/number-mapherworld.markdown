@@ -26,7 +26,7 @@ This can include health facilities, schools, childcare, police stations and much
 We hope that by putting these vital amenities on the map that we can improve access to services, visualise what is available and help people advocate for increased and improved services.
 
 ![MapHerWorld Tweet.png](/uploads/MapHerWorld%20Tweet.png)
-<figcaption align = "center"><h6>Click [here](https://twitter.com/search?q=%23mapherworld&src=typed_query) to see what is going on in the campaign on twitter.</h6></figcaption>
+[<figcaption align = "center"><h6>Click here to see what is going on in the campaign on twitter.</h6></figcaption>](https://twitter.com/search?q=%23mapherworld&src=typed_query)
 
 <h3 style="text-align: left;">What tech are we using?</h3>
 
