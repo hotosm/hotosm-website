@@ -7,9 +7,9 @@ tags:
 - TETO
 - Brazil
 - humanitarian
-Summary Text: How a partnership to be part of a local event in Brazil led HOT and
-  TETO to work together to build concrete emergency solutions to improve the living
-  conditions of communities in situations of precarity and poverty.
+Summary Text: How a partnership in a local event in Brazil led HOT and TETO to work
+  together towards building concrete emergency solutions to improve the living conditions
+  of communities in situations of precarity and poverty.
 Feature Image: "/uploads/IMG_3532.heif.jpg"
 Person:
 - Carla Habif
