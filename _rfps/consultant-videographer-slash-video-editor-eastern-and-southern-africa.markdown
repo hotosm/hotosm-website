@@ -31,7 +31,7 @@ This content will be fed into a larger video/content collection program and used
 The Open Mapping Grants program is an initiative by the ESA Hub that provides funding to open mapping organizations and communities in Eastern and Southern Africa. The purpose of the program is to support the design and implementation of innovative map data solutions and projects that have a significant positive impact on people's lives in the region.
 
 The Open Mapping Grants program is currently supporting eight projects in five countries in the region. The projects consist of a wide and diverse application of open map data from advancing access to contraceptives to centering community voices in disaster preparedness and creating opportunities for youth engagement in social change initiatives.
-For more about the program follow this link: https://bit.ly/OpenMappingGrantsUpdate
+For more about the program follow this [link.](https://bit.ly/OpenMappingGrantsUpdate)
 
 **Scope of work**
 To achieve the objectives of the assignment, the videographer will:
@@ -86,7 +86,7 @@ Please send a proposal to: **esahub@hotosm.org** that includes the following:
 
 * A cover letter (Max 2 pages) describing how you plan to deliver this work within our recommended time frames
 
-* Consultancy  Profile (major wins / achievements, equipment, workforce, studio, etc)
+* Consultancy  Profile (major wins / achievements, equipment, workforce, studio, etc.)
 
 * A portfolio of previous work or link to past assignments
 
@@ -96,5 +96,4 @@ Please send a proposal to: **esahub@hotosm.org** that includes the following:
 
 * Any additional information or comments that you believe would distinguish you from others, or that would be relevant for us to know as we consider your response
 
-* 
-  Shortlisting will be done on a rolling basis.
+* Shortlisting will be done on a rolling basis.
