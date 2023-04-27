@@ -5,10 +5,10 @@ permalink: "/projects/mapherworld/"
 published: false
 tags:
 - MapHerWorld
-Project Summary Text: |-
-  #MapHerWorld is a mapping campaign by the Open Mapping Hub - East and Southern Africa, inspired by the International Women's Day 2023 theme, Celebrating women and girls who are championing the advancement of transformative technology and digital education.
-
-  The campaign mobilises the open mapping community to put amenities used by women and girls in communities across East and Southern Africa on the map (although everyone is welcome regardless of their location!)
+Project Summary Text: '#MapHerWorld is a mapping campaign by the Open Mapping Hub
+  - East and Southern Africa, inspired by the International Women''s Day 2023 theme,
+  "Celebrating women and girls who are championing the advancement of transformative
+  technology and digital education".'
 Feature Image: "/uploads/Screenshot%20from%202023-04-27%2016-42-37.png"
 Impact Area:
 - Gender Equality
@@ -18,10 +18,6 @@ Duration:
   Start Date: 2023-03-17 00:00:00 Z
   End Date: 2023-06-30 00:00:00 Z
 ---
-
-**What is #MapHerWorld?**
-
-#MapHerWorld is a mapping campaign by the Open Mapping Hub - East and Southern Africa, inspired by the International Women's Day 2023 theme, Celebrating women and girls who are championing the advancement of transformative technology and digital education.
 
 The campaign mobilises the open mapping community to put amenities used by women and girls in communities across East and Southern Africa on the map (although everyone is welcome regardless of their location!)
 
