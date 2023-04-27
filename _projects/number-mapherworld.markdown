@@ -28,11 +28,11 @@ We hope that by putting these vital amenities on the map that we can improve acc
 ![Screenshot from 2023-04-27 16-44-32.png](/uploads/Screenshot%20from%202023-04-27%2016-44-32.png)
 <figcaption align = "center"><h6>[Click here to see what is going on in the campaign on twitter.](https://twitter.com/search?q=%23mapherworld&src=typed_query)</h6></figcaption>
 
-**What tech are we using? **
+<p style="text-align:left;">**What tech are we using?**</p>
 
 The campaign centres on [the EveryDoor app](https://every-door.app/) (available on iOS and Android). EveryDoor is an OpenStreetMap editor specifically for adding and editing points of interest and other amenities.
 
-**If you want to get involved or get in touch......**
+**If you want to get involved or get in touch:**
 
 Firstly, you can start mapping! Download or open every door and improve the data in your neighbourhood.
 
