@@ -4,6 +4,10 @@ date: 2023-04-26 22:43:00 Z
 tags:
 - LATAM
 - hub
+Summary Text: Fabrizio Scrollini, el nuevo Director del Hub de Mapeo Abierto para
+  América Latina y el Caribe comparte sus  impresiones de los primeros días de trabajo
+  con el equipo del Hub, lo realizado y lo que está por venir.
+Feature Image: "/uploads/FuKyiuHacAEi748x.jpg"
 Person: Fabrizio Scrollini
 ---
 
