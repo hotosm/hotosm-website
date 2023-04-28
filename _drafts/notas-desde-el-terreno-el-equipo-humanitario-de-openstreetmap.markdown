@@ -19,6 +19,8 @@ La información, unida a la acción y educación es la clave para avanzar en mat
 
 Durante el año pasado el Hub regional ha estado en su fase inicial, explorando distintas sinergias con actores y comunidades a nivel local y regional. Estas acciones, lideradas por mi colega Celine Jacquin y el equipo de trabajo en LATAM y Philip Hippolyte en el Caribe, demuestran el valor que tiene HOT para *la región*.
 
+![FuKyvXhaMAAzgIP.jpg](/uploads/FuKyvXhaMAAzgIP.jpg)
+
 En el próximo tiempo, el Hub estará diseñando una estrategia para escuchar y actuar junto a la comunidad de mapeadores, a los gobiernos locales y nacionales, así como a las comunidades temáticas, con el fin de estructurar nuestro trabajo. En particular queremos poner foco en que significa el mapeo humanitario en América Latina y el Caribe, cuáles son las prioridades regionales y diseñar metodologías para el trabajo ágil, en conjunto, aprovechando la capacidad de HOT para catalizar la comunidad mapeadora al servicio del desarrollo y la acción humanitaria de la región.
 
 Toda persona que haya trabajado en América Latina y el Caribe sabe que esta región es diversa, que sus necesidades varían según contexto y que ofrece desafíos y oportunidades únicas. Su fortaleza es su diversidad, de lenguaje, de desafíos y de formas de encarar las soluciones. La migración, la inclusión de las comunidades indígenas en el gobierno del territorio, la resiliencia y vulnerabilidad frente al cambio climático, las brechas de género en el contexto latinoamericano, así como la gobernanza de los datos geográficos, son solo algunos de los temas que emergen como obvios.
