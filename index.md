@@ -3,7 +3,7 @@ title: Home
 position: 0
 Banner:
   Is Activated: true
-  Main Block: We want your feedback! 
+  Main Block: We want your feedback!
   Secondary Block: Our website is going through a redesign— be a part of the process
   Link Copy: Fill out the survey here
   URL: https://docs.google.com/forms/d/e/1FAIpQLSdFtSUgd-N96cEhf8dlCU4AvMftwImj0Zku6BS69TVAKPpT5w/viewform
