@@ -2,12 +2,11 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: false
-  Main Block: Turkey and Syria Earthquake Response
-  Secondary Block: Click this banner to go to the HOT Tasking Manager projects supporting
-    the earthquake response in Turkey and Syria
-  Link Copy: 
-  URL: https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
+  Is Activated: true
+  Main Block: We want your feedback! 
+  Secondary Block: Our website is going through a redesign— be a part of the process
+  Link Copy: Fill out the survey here
+  URL: https://docs.google.com/forms/d/e/1FAIpQLSdFtSUgd-N96cEhf8dlCU4AvMftwImj0Zku6BS69TVAKPpT5w/viewform
 Project:
 - HOT's Response to the Turkey & Syria Earthquake
 - Satellite Imagery for Social Good
