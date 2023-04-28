@@ -1,6 +1,6 @@
 ---
 title: 'Notas desde el terreno: el Equipo Humanitario de OpenStreetMap'
-date: 2023-04-26 22:43:00 Z
+date: 2023-04-27 22:43:00 Z
 tags:
 - LATAM
 - hub
