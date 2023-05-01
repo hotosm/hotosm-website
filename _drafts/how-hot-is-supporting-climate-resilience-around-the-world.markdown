@@ -5,7 +5,7 @@ Feature Image: "/uploads/Open_Cities_Tulum_-_Mexico_3-d0b8ae.jpg"
 Person: Natalie Clarkson
 ---
 
-This post originally appeared on the blog of [Virgin Unite](https://www.virgin.com/virgin-unite/latest/how-hot-is-supporting-climate-resilience-around-the-world).
+***This post originally appeared on the blog of [Virgin Unite](https://www.virgin.com/virgin-unite/latest/how-hot-is-supporting-climate-resilience-around-the-world).***
 
 Climate change is resulting in devastating impacts all over the planet. Some of these have been the increasing number of people affected by natural disasters and humanitarian crises. In many areas where disasters occur, communities are missing from the map. This absence makes it difficult to plan and implement efforts to reduce the impact of climate change.  
 
