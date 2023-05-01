@@ -16,7 +16,8 @@ HOT specialises in humanitarian action and community development through open ma
 [The Audacious Project](https://www.audaciousproject.org/), housed at TED, was brought to life through the collaboration of some of the most respected names in the non-profit world, including Skoll, the Bill & Melinda Gates Foundation, Scott Cook & Signe Ostby and more. Virgin Unite is proud to be one of the partners supporting incredible organisations like The Humanitarian OpenStreetMap Team.  
 
 HOT works with communities across the world to address climate change, here are just a few of the projects that it is involved in that are helping to improve climate resilience around the world:
-
+<br>
+<br>
 # Canoa de Tolda - Brazil
 <br>
 Canoa de Tolda is a small community NGO in Brazil, named after a type of traditional boat in the lower basin of the Sao Francisco River. Its purpose is to help the people living in the valley of the river and who are affected by changes in river level due to agribusiness and hydroelectricity.
@@ -26,7 +27,8 @@ Canoa de Tolda is a small community NGO in Brazil, named after a type of traditi
 <br>
 
 [The Canoa de Tolda project](https://stories.hotosm.org/canoa-de-tolda-e/index.html) aims to train the local population to collect data on hydrological and environmental conditions that do not exist on official maps in order to create high-precision, collaborative digital terrain modeling of the river basin for the first time. With the data and modeling, HOT can map populations in areas at risk of flooding. The project uses 3D drone modeling as well as community mapping.
-
+<br>
+<br>
 # Ruwa Water Access - Niger
 <br>
 Water access is a problem throughout the Sahel region. HOT is working with the Niger Ministry of Water Resources, OpenStreetMap Niger and communities in the Fakara and N’Gonga districts to improve water access by:
@@ -36,7 +38,8 @@ Water access is a problem throughout the Sahel region. HOT is working with the N
 * Building a map and tools for water access for local authorities, development partners, and the central government
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rl49hWQKC38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<br>
+<br>
 # Open Cities Africa – Ghana, Liberia, Mali
 <br>
 Funded by the World Bank, the Open Cities Africa project was a collaborative mapping initiative to build open-data ecosystems to facilitate data driven urban planning and sisaster risk management between 2020 and 2022.
@@ -50,7 +53,8 @@ Funded by the World Bank, the Open Cities Africa project was a collaborative map
 [In Accra, Ghana](https://www.hotosm.org/projects/open-cities-africa-accra-city-project-ghana/), HOT supported OSM Ghana on the Greater Accra Resilience and Integrated Development programme, including data collection and analysis for solid waste disposal, engagement with vulnerable communities, and development of baseline map data.
 
 [HOT worked with iLab Liberia and OSM Liberia](https://www.hotosm.org/projects/open-cities-africa-monrovia-city-project-liberia/) and municipal governments to address urban planning challenges due to low-lying flood-prone regions of the city.
-
+<br>
+<br>
 # Open Cities Latin America and the Caribbean – Guatemala, Mexico, St Lucia, Dominica and Jamaica
 <br>
 The Latin American and Caribbean region is vulnerable to natural hazards and volatile weather conditions – exacerbated by high population density and climate change. Many Caribbean islands and coastal Central American countries suffer from recurring hurricanes, tropical cyclones, landslides and flooding.
