@@ -18,7 +18,7 @@ HOT specialises in humanitarian action and community development through open ma
 HOT works with communities across the world to address climate change, here are just a few of the projects that it is involved in that are helping to improve climate resilience around the world:
 
 # Canoa de Tolda - Brazil
-
+<br>
 Canoa de Tolda is a small community NGO in Brazil, named after a type of traditional boat in the lower basin of the Sao Francisco River. Its purpose is to help the people living in the valley of the river and who are affected by changes in river level due to agribusiness and hydroelectricity.
 
 ![Canoa_de_Tolda_-_Brazil_3.jpg](/uploads/Canoa_de_Tolda_-_Brazil_3.jpg)
@@ -28,7 +28,7 @@ Canoa de Tolda is a small community NGO in Brazil, named after a type of traditi
 [The Canoa de Tolda project](https://stories.hotosm.org/canoa-de-tolda-e/index.html) aims to train the local population to collect data on hydrological and environmental conditions that do not exist on official maps in order to create high-precision, collaborative digital terrain modeling of the river basin for the first time. With the data and modeling, HOT can map populations in areas at risk of flooding. The project uses 3D drone modeling as well as community mapping.
 
 # Ruwa Water Access - Niger
-
+<br>
 Water access is a problem throughout the Sahel region. HOT is working with the Niger Ministry of Water Resources, OpenStreetMap Niger and communities in the Fakara and N’Gonga districts to improve water access by:
 
 * Mapping water resources and access points
@@ -38,7 +38,7 @@ Water access is a problem throughout the Sahel region. HOT is working with the N
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rl49hWQKC38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Open Cities Africa – Ghana, Liberia, Mali
-
+<br>
 Funded by the World Bank, the Open Cities Africa project was a collaborative mapping initiative to build open-data ecosystems to facilitate data driven urban planning and sisaster risk management between 2020 and 2022.
 
 [In Mali](https://www.hotosm.org/updates/open-cities-africa-bamako-community-mapping-for-a-resilient-bamako/), HOT worked with OpenStreetMap Mali (OSM Mali) and Croix-Rouge Malienne to engage the local government, civil society, and the private sector in disaster response. OSM Mali used community mapping to bridge the gap between waste, drainage and infrastructure in order to reduce flood and produce resilience data to inform decision-making.
@@ -52,7 +52,7 @@ Funded by the World Bank, the Open Cities Africa project was a collaborative map
 [HOT worked with iLab Liberia and OSM Liberia](https://www.hotosm.org/projects/open-cities-africa-monrovia-city-project-liberia/) and municipal governments to address urban planning challenges due to low-lying flood-prone regions of the city.
 
 # Open Cities Latin America and the Caribbean – Guatemala, Mexico, St Lucia, Dominica and Jamaica
-
+<br>
 The Latin American and Caribbean region is vulnerable to natural hazards and volatile weather conditions – exacerbated by high population density and climate change. Many Caribbean islands and coastal Central American countries suffer from recurring hurricanes, tropical cyclones, landslides and flooding.
 
 ![Open_Cities_Tulum_-_Mexico_2.jpg](/uploads/Open_Cities_Tulum_-_Mexico_2.jpg)
