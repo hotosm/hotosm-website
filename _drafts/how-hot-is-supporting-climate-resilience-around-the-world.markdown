@@ -1,6 +1,8 @@
 ---
 title: How HOT is Supporting Climate Resilience Around the World
 date: 2023-04-28 15:51:00 Z
+Feature Image: "/uploads/Open_Cities_Tulum_-_Mexico_3-d0b8ae.jpg"
+Person: Natalie Clarkson
 ---
 
 Climate change is resulting in devastating impacts all over the planet. Some of these have been the increasing number of people affected by natural disasters and humanitarian crises. In many areas where disasters occur, communities are missing from the map. This absence makes it difficult to plan and implement efforts to reduce the impact of climate change.  
