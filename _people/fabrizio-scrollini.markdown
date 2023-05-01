@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Job Title: Regional Director
 Team: Global
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/FabrizioUru
 ---
 
 Fabrizio joins HOT as the inaugural Regional Director for the Open Mapping Hub –Latin America and the Caribbean (LAC) region In this role, he will lead our team in LAC to help nurture, support, and amplify open source communities in about 33 countries in the region. He brings a unique blend of experience from working with topics such as open data and AI, digital rights, and policy with governments, civil society organizations, international organizations, and researchers in the region. With his extensive experience and knowledge in several multi-stakeholder initiatives in the region, he aims to advance the setup and evolution of the LAC Hub.
