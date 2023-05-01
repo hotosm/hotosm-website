@@ -7,5 +7,7 @@ Member Type:
   Is Staff: true
 Job Title: Senior Associate Disaster Services and Training - West and Northern Africa
 Team: West and Northern Africa Hub
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Irma2
 ---
 
