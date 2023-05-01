@@ -5,11 +5,11 @@ date: 2023-04-28 15:51:00 Z
 
 Climate change is resulting in devastating impacts all over the planet. Some of these have been the increasing number of people affected by natural disasters and humanitarian crises. In many areas where disasters occur, communities are missing from the map. This absence makes it difficult to plan and implement efforts to reduce the impact of climate change.  
 
-Humanitarian OpenStreetMap Team (HOT) works at community level to understand the impacts and effects of climate change on communities, helping to anticipate and alleviate these, as well as collect data. 
+[Humanitarian OpenStreetMap Team](https://www.hotosm.org/) (HOT) works at community level to understand the impacts and effects of climate change on communities, helping to anticipate and alleviate these, as well as collect data. 
 
 HOT specialises in humanitarian action and community development through open mapping. It was selected as an Audacious Project in 2020 due to its bold vision to engage one million volunteers to map high-risk places in 94 countries.  
 
-The Audacious Project, housed at TED, was brought to life through the collaboration of some of the most respected names in the non-profit world, including Skoll, the Bill & Melinda Gates Foundation, Scott Cook & Signe Ostby and more. Virgin Unite is proud to be one of the partners supporting incredible organisations like The Humanitarian OpenStreetMap Team.  
+[The Audacious Project](https://www.audaciousproject.org/), housed at TED, was brought to life through the collaboration of some of the most respected names in the non-profit world, including Skoll, the Bill & Melinda Gates Foundation, Scott Cook & Signe Ostby and more. Virgin Unite is proud to be one of the partners supporting incredible organisations like The Humanitarian OpenStreetMap Team.  
 
 HOT works with communities across the world to address climate change, here are just a few of the projects that it is involved in that are helping to improve climate resilience around the world:
 
@@ -19,7 +19,7 @@ Canoa de Tolda is a small community NGO in Brazil, named after a type of traditi
 ![Canoa_de_Tolda_-_Brazil_3.jpg](/uploads/Canoa_de_Tolda_-_Brazil_3.jpg)
 <figcaption align = "left"><h6>Marina Aragão</h6></figcaption>
 
-The Canoa de Tolda project aims to train the local population to collect data on hydrological and environmental conditions that do not exist on official maps in order to create high-precision, collaborative digital terrain modeling of the river basin for the first time. With the data and modeling, HOT can map populations in areas at risk of flooding. The project uses 3D drone modeling as well as community mapping.
+[The Canoa de Tolda project](https://stories.hotosm.org/canoa-de-tolda-e/index.html) aims to train the local population to collect data on hydrological and environmental conditions that do not exist on official maps in order to create high-precision, collaborative digital terrain modeling of the river basin for the first time. With the data and modeling, HOT can map populations in areas at risk of flooding. The project uses 3D drone modeling as well as community mapping.
 
 Ruwa Water Access - Niger
 Water access is a problem throughout the Sahel region. HOT is working with the Niger Ministry of Water Resources, OpenStreetMap Niger and communities in the Fakara and N’Gonga districts to improve water access by:
@@ -35,14 +35,14 @@ Building a map and tools for water access for local authorities, development par
 Open Cities Africa – Ghana, Liberia, Mali
 Funded by the World Bank, the Open Cities Africa project was a collaborative mapping initiative to build open-data ecosystems to facilitate data driven urban planning and sisaster risk management between 2020 and 2022.
 
-In Mali, HOT worked with OpenStreetMap Mali (OSM Mali) and Croix-Rouge Malienne to engage the local government, civil society, and the private sector in disaster response. OSM Mali used community mapping to bridge the gap between waste, drainage and infrastructure in order to reduce flood and produce resilience data to inform decision-making.
+[In Mali](https://www.hotosm.org/updates/open-cities-africa-bamako-community-mapping-for-a-resilient-bamako/), HOT worked with OpenStreetMap Mali (OSM Mali) and Croix-Rouge Malienne to engage the local government, civil society, and the private sector in disaster response. OSM Mali used community mapping to bridge the gap between waste, drainage and infrastructure in order to reduce flood and produce resilience data to inform decision-making.
 
 ![Open_Cities_Africa_Bamako_-_Mali_1.jpg](/uploads/Open_Cities_Africa_Bamako_-_Mali_1.jpg)
 <figcaption align = "left"><h6>Banko Productions and the World Bank, Bamako, Mali, April 2021</h6></figcaption>
 
-In Accra, Ghana, HOT supported OSM Ghana on the Greater Accra Resilience and Integrated Development programme, including data collection and analysis for solid waste disposal, engagement with vulnerable communities, and development of baseline map data.
+[In Accra, Ghana](https://www.hotosm.org/projects/open-cities-africa-accra-city-project-ghana/), HOT supported OSM Ghana on the Greater Accra Resilience and Integrated Development programme, including data collection and analysis for solid waste disposal, engagement with vulnerable communities, and development of baseline map data.
 
-HOT worked with iLab Liberia and OSM Liberia and municipal governments to address urban planning challenges due to low-lying flood-prone regions of the city.
+[HOT worked with iLab Liberia and OSM Liberia](https://www.hotosm.org/projects/open-cities-africa-monrovia-city-project-liberia/) and municipal governments to address urban planning challenges due to low-lying flood-prone regions of the city.
 
 Open Cities Latin America and the Caribbean – Guatemala, Mexico, St Lucia, Dominica and Jamaica
 
