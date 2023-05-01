@@ -55,6 +55,7 @@ The Latin American and Caribbean region is vulnerable to natural hazards and vol
 
 ![Open_Cities_Tulum_-_Mexico_2.jpg](/uploads/Open_Cities_Tulum_-_Mexico_2.jpg)
 <figcaption align = "left"><h6>Ana Laura Eligio, Tulum, Mexico, May 2022</h6></figcaption>
+<br>
 
 [HOT is working](https://www.hotosm.org/projects/open-data-for-resilience-and-risk-management-initiative-open-cities-latin-america-and-caribbean-lac/) with the World Bank’s Global Fund for Disaster Reduction and Recovery and local communities to map resilience needs and response capacities. HOT is providing expertise on open data and technology and helping to build sustainable relationships between institutions and local communities for disaster management.
 
