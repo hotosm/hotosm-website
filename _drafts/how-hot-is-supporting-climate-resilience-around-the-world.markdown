@@ -60,5 +60,6 @@ The Latin American and Caribbean region is vulnerable to natural hazards and vol
 [HOT is working](https://www.hotosm.org/projects/open-data-for-resilience-and-risk-management-initiative-open-cities-latin-america-and-caribbean-lac/) with the World Bank’s Global Fund for Disaster Reduction and Recovery and local communities to map resilience needs and response capacities. HOT is providing expertise on open data and technology and helping to build sustainable relationships between institutions and local communities for disaster management.
 
 Interested to know more? Visit [HOT](https://www.hotosm.org/) to learn more about the work it is doing around the world to support climate resilience.
-
+<br>
+<br>
 ***Lead image credit: Ana Laura Eligio, Tulum, Mexico, May 2022***
