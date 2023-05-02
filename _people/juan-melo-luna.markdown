@@ -7,6 +7,8 @@ Member Type:
   Is Staff: true
 Job Title: Senior Associate, Data Quality
 Team: Latin America and Caribbean Hub
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/JuanMelo
 ---
 
 I’m a Civil engineer with experience in geographical information management and web
