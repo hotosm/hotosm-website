@@ -38,8 +38,4 @@ Firstly, you can start mapping! Download or open every door and improve the data
 
 You can also join the #MapHerWorld [whatsapp group](https://chat.whatsapp.com/Dl7UeKmH9mZ3csygQxcwJT) to get updates, ask questions and share your experience.
 
-Communities and the Open Mapping Hub - ESA are also organising #MapHerWorld events and you are invited! See below for what is coming up...
-
-[MapHerWorld Tanzania event (in-person)](https://twitter.com/openmapping_esa/status/1650459891797032960/photo/1)
-
-[MapHerWorld Rwanda event (in-person)](https://twitter.com/osm_Rwanda/status/1651504905918488578?s=20)
+Communities and the Open Mapping Hub - ESA are also organising #MapHerWorld events and you are invited! Upcoming events will be posted below...
