@@ -2,7 +2,6 @@
 title: MapHerWorld Campaign
 date: 2023-04-27 15:29:00 Z
 permalink: "/projects/mapherworld/"
-published: false
 tags:
 - MapHerWorld
 Project Summary Text: '#MapHerWorld is a mapping campaign by the Open Mapping Hub
