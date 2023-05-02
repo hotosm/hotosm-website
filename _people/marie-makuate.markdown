@@ -1,7 +1,6 @@
 ---
 title: Marie Makuate
 date: 2023-04-29 05:23:00 Z
-published: false
 Photo: "/uploads/2023-04-12%20at%2012.39.33.jpeg"
 Member Type:
   Is Staff: true
