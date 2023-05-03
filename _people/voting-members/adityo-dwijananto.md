@@ -3,8 +3,9 @@ title: Adityo Dwijananto
 date: 2016-01-11 23:46:00 Z
 Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Adis.png
 Member Type:
-  Is Staff: false
+  Is Staff: true
   Is Voting Member: true
+Job Title: Technical Projects Coordinator
 Working Group:
 - Activation
 Project:
