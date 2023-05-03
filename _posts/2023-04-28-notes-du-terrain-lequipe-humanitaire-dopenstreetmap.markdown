@@ -1,5 +1,5 @@
 ---
-title: 'Notes du terrain : L''équipe Humanitaire d''OpenStreetMap'
+title: 'Notes de terrain : L''équipe Humanitaire d''OpenStreetMap'
 date: 2023-04-28 04:33:00 Z
 tags:
 - latam
