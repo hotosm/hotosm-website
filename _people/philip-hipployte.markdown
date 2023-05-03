@@ -5,7 +5,7 @@ Photo: "/uploads/Philip_Hippolyte-HOT_Website_Profile.jpg"
 Member Type:
   Is Staff: true
 Job Title: Project Manager - Caribbean
-Team: Global
+Team: Latin America and the Caribbean Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Phil'%20in%20HOT
 ---
