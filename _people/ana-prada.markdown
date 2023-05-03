@@ -5,7 +5,7 @@ Photo: "/uploads/photo.png"
 Member Type:
   Is Staff: true
 Job Title: Project Associate
-Team: Global
+Team: Latin America and Caribbean Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/pranauri
 ---
