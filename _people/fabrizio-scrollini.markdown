@@ -5,7 +5,7 @@ Photo: "/uploads/0083_ILDA_RETRATOS_20181001_retratos-42.jpg"
 Member Type:
   Is Staff: true
 Job Title: Regional Director
-Team: Global
+Team: Latin American and Caribbean Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/FabrizioUru
 ---
