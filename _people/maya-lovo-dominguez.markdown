@@ -9,7 +9,7 @@ Job Title: Sub-regional Project Coordinator for Central America
 Country: Mexico
 Team: Latin America and Caribbean Hub
 Social Media (Full URL):
-  OSM: MayaLovo
+  OSM: https://www.openstreetmap.org/user/MayaLovo
 ---
 
 I participated in the Alpha Stage of the Latin American Hub as a consultant for a project in Central America that explores the relationship between migration, gender, and open mapping. Currently, I'm a Sub-regional coordinator for projects in Central America, where I collaborate with local organizations to explore, understand and use open geographic data. 
