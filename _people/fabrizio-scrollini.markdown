@@ -6,7 +6,7 @@ Member Type:
   Is Staff: true
 Job Title: Regional Director
 Country: Uruguay
-Team: Latin American and Caribbean Hub
+Team: Latin America and Caribbean Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/FabrizioUru
 ---
