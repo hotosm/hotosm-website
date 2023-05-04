@@ -36,8 +36,9 @@ Water access is a problem throughout the Sahel region. HOT is working with the N
 * Mapping water resources and access points
 * Strengthening capacity for collecting geospatial data and raising awareness about water and sanitation
 * Building a map and tools for water access for local authorities, development partners, and the central government
-
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rl49hWQKC38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 <br>
 <br>
 # Open Cities Africa – Ghana, Liberia, Mali
