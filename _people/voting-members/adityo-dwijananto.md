@@ -18,7 +18,7 @@ Project:
 - LearnOSM
 - HOT Indonesia Curriculum
 Country: Indonesia
-Team: Indonesia
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Adityo
   Twitter: https://twitter.com/adisadit
