@@ -43,12 +43,14 @@ Water access is a problem throughout the Sahel region. HOT is working with the N
 <br>
 # Open Cities Africa – Ghana, Liberia, Mali
 <br>
-Funded by the World Bank, the Open Cities Africa project was a collaborative mapping initiative to build open-data ecosystems to facilitate data driven urban planning and sisaster risk management between 2020 and 2022.
+Funded by the World Bank, the Open Cities Africa project was a collaborative mapping initiative to build open-data ecosystems to facilitate data-driven urban planning and disaster risk management between 2020 and 2022.
 
 [In Mali](https://www.hotosm.org/updates/open-cities-africa-bamako-community-mapping-for-a-resilient-bamako/), HOT worked with OpenStreetMap Mali (OSM Mali) and Croix-Rouge Malienne to engage the local government, civil society, and the private sector in disaster response. OSM Mali used community mapping to bridge the gap between waste, drainage and infrastructure in order to reduce flood and produce resilience data to inform decision-making.
 
+<div align="center">
 ![Open_Cities_Africa_Bamako_-_Mali_1.jpg](/uploads/Open_Cities_Africa_Bamako_-_Mali_1.jpg)
 <figcaption align = "left"><h6>Banko Productions and the World Bank, Bamako, Mali, April 2021</h6></figcaption>
+</div>
 <br>
 
 [In Accra, Ghana](https://www.hotosm.org/projects/open-cities-africa-accra-city-project-ghana/), HOT supported OSM Ghana on the Greater Accra Resilience and Integrated Development programme, including data collection and analysis for solid waste disposal, engagement with vulnerable communities, and development of baseline map data.
