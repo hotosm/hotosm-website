@@ -142,9 +142,9 @@ layout: default
                             document archive >></a>
                     </div>
                     {% endif %}
+                    {% if page['project_extent'] != '' %}
                     <div class="panel-wrapper">
 
-                    {% if page['project_extent'] != '' %}
                         <button class="more" id="more" onclick="content('more')">Read more</button>
                         <button class="less" id="less" onclick="content('less')" style="display:none;">Show less</button>
 
@@ -157,12 +157,12 @@ layout: default
 
                         <div class="fade"></div>
                         
-                        {% else %} 
+                   </div>
+                    {% else %} 
 
-                            {{ content }}
+                    {{ content }}
 
                     {% endif %}
-                   </div>
                 </div>
             </div>
 
