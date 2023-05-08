@@ -10,7 +10,7 @@ Work Location: Nairobi, Kenya
 
 Duration of Assignment: 2 months
 
-Application Close Date: 8th May 2023
+Application Close Date: 12th May 2023
 
 Estimated Start date: 01 June 2023
 
