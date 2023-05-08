@@ -2,7 +2,7 @@
 title: Home
 position: 0
 Banner:
-  Is Activated: true
+  Is Activated: false
   Main Block: We want your feedback!
   Secondary Block: Our website is going through a redesign— be a part of the process
   Link Copy: Fill out the survey here
