@@ -1,7 +1,7 @@
 ---
 title: Consultant Videographer/Video Editor - Eastern & Southern Africa
 date: 2023-04-27 11:25:00 Z
-Deadline Date: 2023-05-08 00:00:00 Z
+Deadline Date: 2023-05-12 00:00:00 Z
 Page Contact:
   Contact Email: esahub@hotosm.org
 ---
