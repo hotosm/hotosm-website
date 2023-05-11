@@ -12,7 +12,7 @@ Country:
 - Syria
 - Turkey
 Project:
-- Join the Turkey & Syria Earthquake Response
+- HOT's Response to the Turkey & Syria Earthquake
 ---
 
 Maps are fundamental to the work of disaster response. They show where households at risk are, where essential services like hospitals are, and how responders can reach affected communities. 

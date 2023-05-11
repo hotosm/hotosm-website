@@ -14,7 +14,7 @@ Country:
 - Turkey
 - Syria
 Project:
-- Join the Turkey & Syria Earthquake Response
+- HOT's Response to the Turkey & Syria Earthquake
 ---
 
 On 6th February 2023, a 7.8 magnitude earthquake struck southern Turkey near the Syrian border. The Humanitarian OpenStreetMap Team, in collaboration with Yer Cizenler, the OpenStreetMap (OSM) community, and several other local organizations and international NGOs, launched an activation that has endeavored to collect geospatial data for the humanitarian response. An online community of mapping volunteers has on the front line of data collection. As of 16 March 2023, over 8,700 volunteers have contributed to the collection and validation of geospatial data since the day the earthquake struck. 
