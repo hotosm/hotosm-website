@@ -7,10 +7,20 @@ Page Contact:
 ---
 
 Work Location: Nairobi, Kenya
+
+
 Duration of Assignment: 2 months
+
+
 Application Close Date: 19th May 2023
+
+
 Estimated Start date: 26 June 2023
+
+
 Type of Contract: Short-Term Consultancy
+
+
 Supervision:  Regional Communications Associate
 
 # Introduction
@@ -83,4 +93,5 @@ Please send a proposal to: **ESAhubconsultancy@hotosm.org** that includes the fo
 * Your professional fee
 
 * Any additional information or comments that you believe would distinguish you from others, or that would be relevant for us to know as we consider your response
+
 * Shortlisting will be done on a rolling basis.
