@@ -15,7 +15,7 @@ Country:
 - Turkey
 - Syria
 Project:
-- Join the Turkey & Syria Earthquake Response
+- HOT's Response to the Turkey & Syria Earthquake
 ---
 
 After any disaster, good data is critical to inform life-saving and life-sustaining activities and, eventually, recovery programs. Since 2010's [devastating earthquake in Haiti](https://www.hotosm.org/projects/haiti_), Humanitarian OpenStreetMap Team (HOT) and the wider OpenStreetMap (OSM) community have provided spatial data to inform disaster response and recovery. OSM’s ability to quickly provide up-to-date maps and crowdsourced geospatial data, integration with other technologies, and accessibility make it an invaluable resource for disaster response efforts.
