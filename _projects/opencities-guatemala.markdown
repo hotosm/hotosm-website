@@ -12,4 +12,4 @@ Impact Area:
 
 ## San José Poaquil, Chimaltenango
 
-More information coming soon!
+¡Más información pronto!
