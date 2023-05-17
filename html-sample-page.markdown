@@ -4,6 +4,16 @@ date: 2023-05-17 01:56:00 Z
 published: false
 Intro Text: This is a page for copying and pasting HTML to use on other pages. It
   should not be published.
+Page Link:
+  Label: Learn More
+  Text: Learn more about our work and how OpenStreetMap data equips communities and
+    policy-makers to better address climate and disaster risk.
+  Link: https://www.hotosm.org/impact-areas/disaster-risk-reduction/
+Page Contact:
+  Label: 
+  Text: 
+  Contact Email: 
+Sidebar Text: This is sidebar text.
 ---
 
 <table style="border-bottom: none">
@@ -37,7 +47,6 @@ Ordered List with Sub-lists:
 <ol>
   <li>Coffee</li>
   <li>Tea
-<br>
     <ol>
       <li>Black tea</li>
       <li>Green tea</li>
@@ -59,7 +68,6 @@ Unordered List with Indents:
 <ul>
   <li>Coffee</li>
   <li>Tea</li>
-<br>
 <ul>
   <li>Black Tea</li>
   <li>Green Tea</li>
@@ -68,5 +76,8 @@ Unordered List with Indents:
 </ul>
 
 ![Canoa_de_Tolda_-_Brazil_3.jpg](/uploads/Canoa_de_Tolda_-_Brazil_3.jpg)
-<figcaption align = "center"><h6>Caption aligned left</h6></figcaption>
+<figcaption align = "center"><h6>Caption aligned center</h6></figcaption>
 <br>
+
+![PhilAWARE combined.png](/uploads/PhilAWARE%20combined.png)
+<figcaption align = "left"><h6>Caption aligned left</h6></figcaption>
