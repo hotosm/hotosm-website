@@ -32,13 +32,13 @@ Sidebar Text: This is sidebar text.
 	</tr>
 	<tr>
 		<td>Row 1</td>
-		<td style="border-left: 1px solid black">A</td>
-		<td style="border-left: 1px solid black">B</td>
+		<td style="border-left: 1px solid black">Text A</td>
+		<td style="border-left: 1px solid black">Text B</td>
 	</tr>
 	<tr>
 		<td>Row 2</td>
-		<td style="border-left: 1px solid black">C</td>
-		<td style="border-left: 1px solid black">D</td>
+		<td style="border-left: 1px solid black">Text C</td>
+		<td style="border-left: 1px solid black">Text D</td>
 	</tr>
 </table>
 <br>
