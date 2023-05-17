@@ -11,13 +11,13 @@ published: false
 		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Source</span></th>
 	</tr>
 	<tr>
-		<td>Block 1</td>
-		<td style="border-left: 1px solid black">Block 2</td>
+		<td>Buildings</td>
+		<td style="border-left: 1px solid black">Population estimates and #/% affected.</td>
 		<td style="border-left: 1px solid black">OpenStreetMap</td>
 	</tr>
 	<tr>
-		<td>Block 3</td>
-		<td style="border-left: 1px solid black">Block 3</td>
+		<td>Roads</td>
+		<td style="border-left: 1px solid black">Routing and logistics.</td>
 		<td style="border-left: 1px solid black">OpenStreetMap</td>
 	</tr>
 	<tr>
