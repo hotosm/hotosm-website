@@ -2,8 +2,10 @@
 title: HTML Sample Page
 date: 2023-05-17 01:56:00 Z
 published: false
-Intro Text: This is a page for copying and pasting HTML to use on other pages. It
-  should not be published.
+Intro Text: |-
+  This is a page for copying and pasting HTML to use on other pages. It should not be published.
+  <br>
+  Use <b-r> (without the -) to add line breaks in the intro text or wherever on the page you need to add extra space.
 Page Link:
   Label: Learn More
   Text: Learn more about our work and how OpenStreetMap data equips communities and
@@ -36,6 +38,8 @@ Sidebar Text: This is sidebar text.
 	</tr>
 </table>
 <br>
+
+
 
 Ordered List:
 <ol>
