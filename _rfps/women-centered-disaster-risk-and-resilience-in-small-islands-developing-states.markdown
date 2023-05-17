@@ -9,7 +9,7 @@ Page Contact:
 ---
 
 ## Terms of Reference 
-<table style="border-collapse": collapse>
+<table style="border-collapse: collapse">
 	<tr>
 		<td style="border-left: 1px solid black">Role:</td>
 		<td>Implementing partner</td>
