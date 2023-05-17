@@ -10,9 +10,11 @@ Page Link:
     policy-makers to better address climate and disaster risk.
   Link: https://www.hotosm.org/impact-areas/disaster-risk-reduction/
 Page Contact:
-  Label: 
-  Text: 
-  Contact Email: 
+  Label: Contact Us
+  Text: If you or your organization would like to learn more or to partner with us
+    or any of our local implementing partners to support the use of OpenStreetMap
+    for climate and disaster risk management, please reach out.
+  Contact Email: partnerships@hotosm.org
 Sidebar Text: This is sidebar text.
 ---
 
