@@ -39,7 +39,9 @@ Sidebar Text: This is sidebar text.
 </table>
 <br>
 
-
+* This is how a bulleted list works in Markdown
+* * But there's no real way to add indents, and double bullets look weird
+* So use HTML instead!
 
 Ordered List:
 <ol>
