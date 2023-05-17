@@ -9,9 +9,9 @@ Page Contact:
 ---
 
 ## Terms of Reference 
-<table>
+<table style="border-collapse": collapse>
 	<tr>
-		<td>Role:</td>
+		<td style="border-left: 1px solid black">Role:</td>
 		<td>Implementing partner</td>
 	</tr>
 	<tr>
@@ -162,7 +162,7 @@ The proposal should start its activities on July 15th, 2023. The work plan and t
 **All deliverables must be submitted in English. Support for translation available if needed.**
 
 # IV. PROPOSAL REQUIREMENTS
-
+<br>
 The technical proposal should not exceed ten (10) pages and consist of  three parts: (a) [Technical Proposal](https://docs.google.com/document/d/1m96VfGVboflm4FUbN7tuN48xakYJZQT79C0ZyXHpvRg/edit?usp=share_link), (b) [Financial Proposal](https://docs.google.com/spreadsheets/d/13UrMYMjvTY0gvgjuEiE57J2BlJDZHfm1FP3JBGbw73g/edit?usp=sharing), and (c) [Firm Qualification Questionnaire](https://docs.google.com/document/d/1wg741HjojaxBEB3TVE-XEDJC278cybwW1x9Sja24hMQ/edit?usp=sharing). The proposal shall be presented electronically in Adobe PDF format, in English, using the templates provided in the links.
 
 Note that the budget available for this project is $20,000 (USD). The applicant must therefore develop the Financial proposal to suit the scope of the project. The applicant must organize the Technical Proposal as follows: 
@@ -178,7 +178,6 @@ Note that the budget available for this project is $20,000 (USD). The applicant 
 <li>Annex 2: CV of Proposed Key personnel</li>
 <li>Annex 3: Proposed work schedule for the project </li>
 </ul>
-<br>
 
 ### COVID-19
 HOT applies a general policy and protocols for field work in countries where activities are carried out. Our best efforts are put to foresee general risks in considering the COVID19 pandemic context, being applicable to any location, for all members of the implementation team. Its application to the latter will allow for greater control of working conditions. This includes strict requirements for all participants in the project to observe barrier measures, recommendations depending on situations with local communities and partners. The implementer will ensure the adherence of local protocols and rules for monitoring the health of each participant in case of signs of possible contagion. Applicants are required to take the COVID-19 local situation into account in the technical proposal methodology. 
@@ -187,7 +186,7 @@ HOT applies a general policy and protocols for field work in countries where act
 **Applications should be submitted before June 2nd, 2023, 5pm (EST) at the email [amps@hotosm.org](amps@hotosm.org)**
 
 # V. SELECTION CRITERIA
-
+<br>
 The following selection criteria will be used to evaluate proposals the determine WC-DRR-SIDS finalists: 
 
 <br>
@@ -246,7 +245,7 @@ The following selection criteria will be used to evaluate proposals the determin
 </table>
 <br>
 # VI. IMPLEMENTATION ARRANGEMENTS
-
+<br>
 During the Planning and Assessment stage, the implementer shall prepare a detailed project Work Plan, which depicts the interrelationship of various tasks in the assignment and depicts how they lead to the completion of different project components. The implementing partner will then prepare in collaboration with HOT a finalized budget according to this work plan and activities outlined. 
 
 The Implementing Partner should identify a Project Manager who will be the principal contact for the WC-DRR-SIDS work and will be expected to be available during project implementation. The implementer is encouraged to appoint an additional contact person who can be competently consulted on this undertaking. The implementer shall be responsible for all aspects of performance of services as set forth in this TOR. 
