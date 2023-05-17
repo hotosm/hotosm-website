@@ -2,7 +2,7 @@
 title: Canoa de Tolda
 date: 2023-05-16 20:07:00 Z
 published: false
-Project Logo Image: "/uploads/Screenshot%202023-05-16%20at%201.09.15%20PM.png"
+Feature Image: "/uploads/Screenshot%202023-05-16%20at%201.09.15%20PM.png"
 Country:
 - Brazil
 Impact Area:
