@@ -23,7 +23,7 @@ Intro Text: This is a page for copying and pasting HTML to use on other pages. I
 		<td style="border-left: 1px solid black">D</td>
 	</tr>
 </table>
-
+<br>
 
 Ordered List:
 <ol>
@@ -31,11 +31,13 @@ Ordered List:
   <li>Tea</li>
   <li>Milk</li>
 </ol>
+<br>
 
 Ordered List with Sub-lists:
 <ol>
   <li>Coffee</li>
   <li>Tea
+<br>
     <ol>
       <li>Black tea</li>
       <li>Green tea</li>
@@ -43,6 +45,7 @@ Ordered List with Sub-lists:
   </li>
   <li>Milk</li>
 </ol>
+<br>
 
 Unordered List:
 <ul>
@@ -50,11 +53,13 @@ Unordered List:
   <li>Tea</li>
   <li>Milk</li>
 </ul>
+<br>
 
 Unordered List with Indents:
 <ul>
   <li>Coffee</li>
   <li>Tea</li>
+<br>
 <ul>
   <li>Black Tea</li>
   <li>Green Tea</li>
