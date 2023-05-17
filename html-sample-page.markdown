@@ -66,3 +66,7 @@ Unordered List with Indents:
 </ul>
   <li>Milk</li>
 </ul>
+
+![Canoa_de_Tolda_-_Brazil_3.jpg](/uploads/Canoa_de_Tolda_-_Brazil_3.jpg)
+<figcaption align = "center"><h6>Caption aligned left</h6></figcaption>
+<br>
