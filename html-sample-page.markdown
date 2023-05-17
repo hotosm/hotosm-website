@@ -4,11 +4,11 @@ date: 2023-05-17 01:56:00 Z
 published: false
 Intro Text: |-
   This is a page for copying and pasting HTML to use on other pages. It should not be published.
-
+  <br>
   Use breaks to add line breaks in the intro text or wherever on the page you need to add extra space.
-
+  <br>
   This is a markdown link: [link](https://www.hotosm.org/). They don't work in intro text.
-
+  <br>
   Use HTML instead: <a href="https://www.hotosm.org/">link</a>.
 Page Link:
   Label: Learn More
