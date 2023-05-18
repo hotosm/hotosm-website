@@ -156,7 +156,7 @@ The Women-Centered Disaster Risk & Resilience in Small Islands Developing States
 <br>
 # III. PROGRAM TIMELINE
 <br>
-![Screenshot 2023-05-17 at 11.09.04 AM.png](/uploads/Screenshot%202023-05-17%20at%2011.09.04%20AM.png)
+![SIDS RFP Timeline.png](/uploads/SIDS%20RFP%20Timeline.png)
 
 The proposal should start its activities on July 15th, 2023. The work plan and timeline distribution will depend on the activities proposed, but all activities and final deliverables should aim to be finalized by October 31st, 2023.
 
