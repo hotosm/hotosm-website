@@ -1,7 +1,6 @@
 ---
 title: Women-Centered Disaster Risk & Resilience in Small Islands Developing States
 date: 2023-05-17 16:54:00 Z
-published: false
 Deadline Date: 2023-06-02 00:00:00 Z
 Page Contact:
   Contact Email: amps@hotosm.org
