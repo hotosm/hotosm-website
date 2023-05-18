@@ -82,7 +82,7 @@ SIDS are a distinct group of 38 UN Member States and 20 Non-UN Members/Associate
 <br>
 
 <table style="border-bottom: none">
-<caption style="caption-side:bottom">* Least developed</caption>
+<caption style="caption-side:bottom"><br>* Least developed</caption>
 	<tr>
 		<th style="border-bottom-width: 2px"><span style="font-weight: bold">Asia-Pacific</span></th>
 		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Latin America & Caribbean</span></th>
@@ -261,7 +261,7 @@ HOT will provide:
 # V. PAYMENT SCHEDULE
 <br>
 <table style="border-bottom: none">
-  <caption style="caption-side:bottom">* Payment schedule will be adapted according to each location’s deliverable and general work plan.
+  <caption style="caption-side:bottom"><br>* Payment schedule will be adapted according to each location’s deliverable and general work plan.
 </caption>
 <tr>
 		<th style="border-bottom-width: 2px"><span style="font-weight: bold">Event Triggering Payment*</span></th>
