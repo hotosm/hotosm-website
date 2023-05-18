@@ -1,5 +1,6 @@
 ---
 title: Home
+description: HOT is an international team dedicated to humanitarian action and community development through open mapping.
 position: 0
 Banner:
   Is Activated: false
