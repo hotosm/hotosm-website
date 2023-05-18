@@ -5,14 +5,14 @@ published: false
 Deadline Date: 2023-06-02 00:00:00 Z
 Page Contact:
   Contact Email: amps@hotosm.org
-  Label: Submission email
+  Label: Submission Email
 ---
 
 ## Terms of Reference 
 <table style="border-bottom: 1px solid black">
 	<tr>
 		<td>Role:</td>
-		<td style="border-left: 1px solid black">Implementing partner</td>
+		<td style="border-left: 1px solid black">Implementing Partner</td>
 	</tr>
 	<tr>
 		<td>Application close date:</td>
@@ -82,6 +82,7 @@ SIDS are a distinct group of 38 UN Member States and 20 Non-UN Members/Associate
 <br>
 
 <table style="border-bottom: none">
+<caption style="caption-side:bottom">* Least developed</caption>
 	<tr>
 		<th style="border-bottom-width: 2px"><span style="font-weight: bold">Asia-Pacific</span></th>
 		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Latin America & Caribbean</span></th>
@@ -260,7 +261,7 @@ HOT will provide:
 # V. PAYMENT SCHEDULE
 <br>
 <table style="border-bottom: none">
-  <caption style="caption-side:bottom">*Payment schedule will be adapted according to each location’s deliverable and general work plan.
+  <caption style="caption-side:bottom">* Payment schedule will be adapted according to each location’s deliverable and general work plan.
 </caption>
 <tr>
 		<th style="border-bottom-width: 2px"><span style="font-weight: bold">Event Triggering Payment*</span></th>
