@@ -1,6 +1,7 @@
 ---
 title: 'OpenStreetMap and Anticipatory Action: An agenda for a Regional  Dialogue'
 date: 2023-05-18 09:29:00 Z
+published: false
 Summary Text: The Regional Anticipatory Action Dialogue offers a platform for humanitarian
   organizations, local governments, national and regional NGOs, and all various anticipatory
   actors to share their perspective on disaster management and anticipatory action.
