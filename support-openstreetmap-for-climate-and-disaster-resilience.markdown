@@ -10,11 +10,11 @@ Page Contact:
     for climate and disaster risk management, please reach out.
   Contact Email: partnerships@hotosm.org
 Page Link:
-  Label: Learn More
+  Label: Support HOT
   Text: |-
     <br>
-    Learn more about our work and how OpenStreetMap data equips communities and policy-makers to better address climate and disaster risk.
-  Link: https://www.hotosm.org/impact-areas/disaster-risk-reduction/
+    Since 2017 your generous support has enabled us to provide community grants, tools and training to open mapping communities around the world. We’ve seen the remarkable impact of this program not just on local communities, but the grantees themselves. These dedicated local leaders work tirelessly to make sure that their communities are visible on the map, and that maps are used for impact.
+  Link: https://www.hotosm.org/donate/
 Feature Image: "/uploads/52305985528_8196fa909e_h.jpg"
 Is Image Top Aligned?: 
 layout: page
