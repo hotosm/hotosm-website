@@ -8,7 +8,7 @@ Page Contact:
   Text: If you or your organization would like to learn more or to support or partner
     with us or any of our local implementing partners to support the use of OpenStreetMap
     for climate and disaster risk management, please reach out or contribute directly
-    via our [donation page](https://www.hotosm.org/donate/).
+    via our <a href="https://www.hotosm.org/donate/">donation page</a>.
   Contact Email: partnerships@hotosm.org
 Page Link:
   Label: Learn More
