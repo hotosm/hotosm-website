@@ -18,8 +18,7 @@ Partner:
 - Microsoft
 ---
 
-### The Satellite Imagery for Social Good project was developed
-and implemented in Kenya and Nigeria
+### The Satellite Imagery for Social Good project was developed and implemented in Kenya and Nigeria
 
 The Humanitarian OpenStreetMap Team (HOT), Microsoft’s AI for Humanitarian Action, and Open Mapping Communities in Kenya and Nigeria have contributed and validated 1.4 million building footprints and 19,131 km of road in Nakuru, Turkana, and Kisumu. In Nigeria, 1.8 million buildings in the northern states of Bauchi and Gombe have been added to the map. 
 
@@ -40,8 +39,7 @@ In Nigeria, the data generated (roads and building footprints) was combined with
 
 Bauchi State Primary Health Care Development Agency (BSPHCDA), is planning to use the data generated through the project to improve healthcare immunization programs and child protection initiatives in the northern state of Nigeria.
 
-**[Social Imagery for Social Good video - Nigeria](https://drive.google.com/file/d/1GMcvbRQspxGRP1ebhVGYZ8ZC88R-FPpn/view)
-**
+**[Social Imagery for Social Good video - Nigeria](https://drive.google.com/file/d/1GMcvbRQspxGRP1ebhVGYZ8ZC88R-FPpn/view)**
 
 AI-assisted mapping contributed to greater accuracy in building geometry in several places, aided faster remote mapping, improved data quality, and reduced imagery offsets. 
 
