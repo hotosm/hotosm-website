@@ -1,11 +1,10 @@
 ---
 title: 'OpenStreetMap and Anticipatory Action: An agenda for a Regional  Dialogue'
 date: 2023-05-18 09:29:00 Z
-published: false
 Summary Text: The Regional Anticipatory Action Dialogue offers a platform for humanitarian
   organizations, local governments, national and regional NGOs, and all various anticipatory
   actors to share their perspective on disaster management and anticipatory action.
-Feature Image: "/uploads/Regional%20Dialogue%20AA%20Templates.png"
+Feature Image: "/uploads/unnamed%20(3).jpg"
 Person:
 - Risham Habib
 - Harry Mahardhika Machmud
