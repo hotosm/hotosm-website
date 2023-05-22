@@ -30,7 +30,9 @@ Millions of people in the most vulnerable, conflict-affected places are still mi
 In order to alleviate this challenge, the HOT team collaborated with district health teams to design village-level, book-sized maps. These book-sized maps were distributed to the village community health workers to help them navigate, locate, and record their movements even without using smartphones. The HOT team has also developed district-level gazetteers that were shared with health centers across the district to assist in reducing the time spent on patient tracing. To maximize the benefit of the maps and gazetteers, over 800 health workers were trained in the use of the maps and data.
 
 Read more about the project in this [storymap](https://preview.shorthand.com/j59LNR9BPbb83Wfk).
-
+<br>
+<br>
+<br>
 ![Copy-of-Untitled-3.png](https://cdn.hotosm.org/website/Copy-of-Untitled-3.png)
 
 <i>This Project is supported by Grand Challenges Canada. Grand Challenges Canada is funded by the Government of Canada and is dedicated to supporting Bold Ideas with Big Impact®.</i>
