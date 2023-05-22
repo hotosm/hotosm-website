@@ -46,69 +46,71 @@ Download the Every Door mobile app and start mapping the following features:
 		<td style="border-left: 1px solid black">Institutions for health care providing treatment by specialized staff and equipment, and typically provide nursing care for longer-term patient stays.</td>
 	</tr>
 	<tr>
-		<td>Row 2</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
+		<td>clinic</td>
+		<td style="border-left: 1px solid black">amenity=clinic</td>
+		<td style="border-left: 1px solid black">A medium-sized medical center, typically without admission of inpatients.</td>
 	</tr>
 <tr>
-		<td>Row 3</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
+		<td>doctor</td>
+		<td style="border-left: 1px solid black">amenity=doctors</td>
+		<td style="border-left: 1px solid black">A place you can go to get medical attention or a check-up.</td>
 	</tr>
 <tr>
-		<td>Row 4</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
+		<td>Abortion clinic</td>
+		<td style="border-left: 1px solid black">healthcare:speciality=abortion</td>
+		<td style="border-left: 1px solid black">An abortion clinic is a medical facility that specializes in performing abortions. Such clinics may be public medical centers or private medical practices.</td>
 	</tr>
 <tr>
-		<td>Row 5</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
+		<td>Fertility Clinic</td>
+		<td style="border-left: 1px solid black">healthcare:speciality=fertility_clinic</td>
+		<td style="border-left: 1px solid black">Fertility clinics are medical clinics that assist couples, and sometimes individuals, who want to become parents but for medical reasons have been unable to achieve this goal via the natural course. Clinics apply a number of diagnostic tests and sometimes very advanced medical treatments to achieve conceptions and pregnancies.</td>
 	</tr>
 <tr>
-		<td>Row 6</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
+		<td>Gynecologist</td>
+		<td style="border-left: 1px solid black">healthcare:speciality=gynaecology</td>
+		<td style="border-left: 1px solid black">Gynecology is the medical practice dealing with the health of the female reproductive systems (vagina, uterus, and ovaries) and the breasts.</td>
 	</tr>
 <tr>
-		<td>Row 7</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
+		<td>Midwife</td>
+		<td style="border-left: 1px solid black">healthcare=midwife</td>
+		<td style="border-left: 1px solid black">A midwife is a professional in midwifery. In addition to providing care to women during pregnancy, birth, and the postpartum period, midwives may also provide primary care related to reproductive health, including annual gynecological exams, family planning, and menopausal care.</td>
 	</tr>
 <tr>
-		<td>Row 8</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
+		<td>Birthing center</td>
+		<td style="border-left: 1px solid black">healthcare=birthing_center</td>
+		<td style="border-left: 1px solid black">A birth center presents a more home-like environment than a hospital labour ward, typically with more options during labour: food/drink, music, and the attendance of family and friends if desired.</td>
 	</tr>
 <tr>
-		<td>Row 9</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
+		<td>Police</td>
+		<td style="border-left: 1px solid black">amenity=police</td>
+		<td style="border-left: 1px solid black">A station from which the police operate.</td>
 	</tr>
 <tr>
-		<td>Row 10</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
+		<td>Social Facility</td>
+		<td style="border-left: 1px solid black">amenity=social_facility
+social_facility=shelter
+social_facility:for=abused</td>
+		<td style="border-left: 1px solid black">A facility that provides social services. When combined with the other listed tags it indicates a shelter for victims of domestic abuse. (Only publicly known shelters should be mapped.)</td>
 	</tr>
 <tr>
-		<td>Row 11</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
+		<td>Emergency Phone</td>
+		<td style="border-left: 1px solid black">emergency=phone</td>
+		<td style="border-left: 1px solid black">A telephone dedicated to emergency calls.</td>
 	</tr>
 <tr>
-		<td>Row 12</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
+		<td>Street Light</td>
+		<td style="border-left: 1px solid black">highway=street_lamp</td>
+		<td style="border-left: 1px solid black">A single pole with one or more lights to illuminate the street.</td>
 	</tr>
 <tr>
-		<td>Row 13</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
+		<td>Childcare/Nursery</td>
+		<td style="border-left: 1px solid black">amenity=childcare</td>
+		<td style="border-left: 1px solid black">A place where children of different ages are looked after.</td>
 	</tr>
 <tr>
-		<td>Row 14</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
+		<td>NGO Office</td>
+		<td style="border-left: 1px solid black">office=ngo</td>
+		<td style="border-left: 1px solid black">Office of an organization working around women’s programs</td>
 	</tr>
 </table>
 <br>

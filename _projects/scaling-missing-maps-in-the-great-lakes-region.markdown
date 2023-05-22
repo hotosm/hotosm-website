@@ -1,5 +1,5 @@
 ---
-title: SCALING MISSING MAPS IN THE GREAT LAKES REGION
+title: Scaling Missing Maps in the Great Lakes Region
 date: 2023-05-16 22:38:00 Z
 published: false
 Project Summary Text: |-
