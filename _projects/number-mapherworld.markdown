@@ -32,7 +32,7 @@ We hope that by putting these vital amenities on the map that we can improve acc
 
 [![MapHerWorld Tweet.png](/uploads/MapHerWorld%20Tweet.png)](https://twitter.com/search?q=%23mapherworld&src=typed_query)
 <figcaption align = "center"><h6>Click the image to see what is going on in the campaign on twitter.</h6></figcaption>
-
+<br>
 This is an incredible opportunity to put your data skills to the test and showcase your talent to the world. To participate, just follow these easy steps:
 
 ## Step 1
