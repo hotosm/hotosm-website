@@ -17,7 +17,6 @@ Duration:
 
 Patient tracking is a crucial public health activity that contributes to reducing the spread of highly contagious diseases. However, patient tracing, tracking, and monitoring in low-and middle-income countries is a complex process as most of the geographical, navigational, and landmark features are not fully digitized. In 2019, with funding from the Humanitarian Grand Challenge, the Humanitarian OpenStreetMap Team (HOT) embarked on a project to scale the Missing Maps initiative across the public health and disease surveillance sector in Uganda and the Democratic Republic of Congo (DRC). The project was carried out between September 2019 to January 2022.
 
-## Uganda
 In Uganda, HOT partnered with district and community health teams to design a community participatory mapping exercise across Kisoro and Zombo districts. This mapping exercise included locating and mapping all geographical and human-made features within the districts that would enable community health workers to easily find, locate, and trace patients quicker and more efficiently.
 
 ## Methodology
@@ -49,12 +48,12 @@ Kajyibgami Kenneth, 67, the chairman of the village health teams (VHTs) in Chahi
 
 He adds that the process has now been made more accessible with the introduction of hard copy maps for some of the VHTs in his sub-county who had no access to smartphones.
 
-**Additional maps are available from the [Scaling Missing Maps Atlas](https://drive.google.com/file/d/1pE0ai58bD84wLxPP0cP-sB63kN9SK7Ys/view)
-**
+**Additional maps are available from the** [Scaling Missing Maps Atlas](https://drive.google.com/file/d/1pE0ai58bD84wLxPP0cP-sB63kN9SK7Ys/view)
 
-**Our gratitude goes to the Humanitarian Grand Challenge and partners for funding the Missing Maps initiative across the public health and disease surveillance sector in the Great Lakes Region.
 
-Special thanks and recognition to the local government, community members, and surveyors who collaborated with the HOT team throughout this project; the success and impact of our activities could not have been possible without their full support and participation in the mission.
+**Our gratitude goes to the Humanitarian Grand Challenge and partners for funding the Missing Maps initiative across the public health and disease surveillance sector in the Great Lakes Region.**
+
+**Special thanks and recognition to the local government, community members, and surveyors who collaborated with the HOT team throughout this project; the success and impact of our activities could not have been possible without their full support and participation in the mission.
 **
 
 
