@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Open Mapping Hub - LAC's Publications
 date: 2023-05-16 22:29:00 Z
 published: false
 Project Summary Text: 'Here we document the activities of HOT''s Open Mapping Hub
@@ -48,13 +48,14 @@ They go from newest to oldest.
 
 08/06/2021 - [Practical Action Bolivia Trained Community Members in Mapping Areas Impacted by Forest Fires](https://www.hotosm.org/updates/practical-action-bolivia-trained-community-members-in-mapping-areas-impacted-by-forest-fires/)
 
-24/08/2020 -[Covid-19 Pandemic in Peru: Mapping Health Implications](https://www.hotosm.org/updates/covid-19-pandemic-in-peru-mapping-health-implications/)
+24/08/2020 - [Covid-19 Pandemic in Peru: Mapping Health Implications](https://www.hotosm.org/updates/covid-19-pandemic-in-peru-mapping-health-implications/)
 
 19/06/2020 - [Four regions, five years, 94 countries, one billion people
 ](https://www.hotosm.org/updates/four-regions-five-years-94-countries-one-billion-people/)
+
 14/11/2018 - [Using open source tools to eliminate Malaria in Guatemala](https://www.hotosm.org/updates/using-open-source-tools-to-eliminate-malaria-in-guatemala/)
 
-05/10/2018 -[GeoChicas: Mapping the path of women after the earthquake in Oaxaca](https://www.hotosm.org/updates/geochicas-mapping-the-path-of-women-after-the-earthquake-in-oaxaca/)
+05/10/2018 - [GeoChicas: Mapping the path of women after the earthquake in Oaxaca](https://www.hotosm.org/updates/geochicas-mapping-the-path-of-women-after-the-earthquake-in-oaxaca/)
 
 14/08/2018 - [Exploring the possibilities of mapping and identity in Cusco, Peru](https://www.hotosm.org/updates/exploring-the-possibilities-of-mapping-and-identity-in-cusco-peru/)
 
