@@ -14,11 +14,10 @@ Project Summary Text: |-
   The Beyond the Map Fund is committed to financing all projects that focus on sustainable cities and communities, such as transportation, health, education, water, waste management, security, psychosocial services, farming & agriculture, electricity, justice & law, among others.
 
   Application details will be shared on our social media platforms soon.
-Feature Image: "/uploads/Screenshot%202023-05-16%20at%2012.47.27%20PM.png"
 Is Community-Led: false
-Country:
-  Key 1: Kenya
-  Key: Madagascar
+Partner:
+  Key 1: Arid Lands Information Network - ALIN
+  Key: Tatirano Social Enterprise
 ---
 
 Beyond the Map Fund is a new program that provides financial and technical support to community organizations and non-profits seeking to integrate open mapping data to improve their planning and response to development and humanitarian initiatives.
