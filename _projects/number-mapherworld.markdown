@@ -28,10 +28,10 @@ Our goal is to identify and map places such as women's health clinics, childcare
 
 This is an incredible opportunity to put your data skills to the test and showcase your talent to the world. To participate, just follow these easy steps:
 
-Step 1
+## Step 1
 Complete the sign-up form to join us as either an individual or a team member  (preferably in teams of (3) three).
 
-Step 2
+## Step 2
 Download the Every Door mobile app and start mapping the following features:
 
 <table style="border-bottom: none">
@@ -114,6 +114,13 @@ social_facility:for=abused</td>
 	</tr>
 </table>
 <br>
+
+## Step 3
+After mapping, participants upload the data to OSM.
+
+Get ready for an exciting opportunity to showcase your skills and win amazing prizes! We are pleased to announce that the team with the best quality data, judged by tag accuracy and completeness, will receive a grand travel grant to attend the SOTM Africa 2023 conference in Cameroon. Not only that, but the winning team will also receive fantastic ESA Hub swag pack.
+
+[Sign up and start mapping today!](https://forms.gle/eYDSLLgJ4JGyLjQF7)
 
 This campaign mobilises the open mapping community to put amenities used by women and girls in communities across East and Southern Africa on the map (although everyone is welcome regardless of their location!)
 
