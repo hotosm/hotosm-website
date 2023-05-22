@@ -15,9 +15,16 @@ Project Summary Text: |-
 
   Application details will be shared on our social media platforms soon.
 Is Community-Led: false
+Country:
+  Key 1: Kenya
+  Key: Madagascar
+Impact Area:
+- Sustainable Cities & Communities
 Partner:
   Key 1: Arid Lands Information Network - ALIN
   Key: Tatirano Social Enterprise
+Duration:
+  Start Date: 2023-03-01 00:00:00 Z
 ---
 
 Beyond the Map Fund is a new program that provides financial and technical support to community organizations and non-profits seeking to integrate open mapping data to improve their planning and response to development and humanitarian initiatives.
