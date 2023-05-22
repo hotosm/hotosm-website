@@ -6,7 +6,7 @@ Project Summary Text: 'Here we document the activities of HOT''s Open Mapping Hu
   - Latam
 
 '
-Feature Image: "/uploads/Screenshot%202023-05-16%20at%203.29.56%20PM.png"
+Feature Image: "/uploads/LAC_PublicationsHeader.png"
 Impact Area:
 - Public Health
 - Gender Equality
