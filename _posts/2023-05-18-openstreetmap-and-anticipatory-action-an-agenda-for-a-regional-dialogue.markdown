@@ -23,4 +23,4 @@ This dialogue is not just an opportunity to exchange ideas but a platform for co
 
 Anticipatory action can significantly reduce harm, save lives and improve disaster management. 
 
-The Regional Anticipatory Action Dialogue will take place on the 13th of June, 2023 from 1.30pm to 3.40pm (+8 UTC).
+> The Regional Anticipatory Action Dialogue will take place on the 13th of June, 2023 from 1.30pm to 3.40pm (+8 UTC). The event will be virtual.
