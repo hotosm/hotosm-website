@@ -4,6 +4,8 @@ title: |-
   in Namibia
 date: 2023-05-16 20:01:00 Z
 published: false
+tags:
+- Sustainable cities and communities
 Project Summary Text: In Namibia, informal settlements are not prioritized in the
   digitization and collection of land information resulting in a lack of visibility
   and affecting the speed of planning in upgrading projects. 
@@ -12,6 +14,12 @@ Country:
 - Namibia
 Impact Area:
 - Sustainable Cities & Communities
+Partner:
+  Key 1: Namibia Housing Action Group
+  Key: Namibia University of Science and Technology, Department of Land and Spatial
+    Sciences
+Duration:
+  Start Date: 2023-05-01 00:00:00 Z
 ---
 
 For over 20 years, the Shack Dwellers Federation of Namibia (SDFN) has been collecting informal settlement profiles and enumeration data on communities around the country. This data is stored offline and later updated on an online platform through the Slum Dwellers International Know Your City platform. However, despite these data-capturing processes, digital adoption of data collection is limited amongst federation members and local authorities.
