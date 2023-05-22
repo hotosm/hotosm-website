@@ -31,8 +31,6 @@ In order to alleviate this challenge, the HOT team collaborated with district he
 
 Read more about the project in this [storymap](https://preview.shorthand.com/j59LNR9BPbb83Wfk).
 
-<script src="https://stories.hotosm.org/scaling-missing-maps-in-the-great-lakes-region/embed.js"></script>
-
 ![Copy-of-Untitled-3.png](https://cdn.hotosm.org/website/Copy-of-Untitled-3.png)
 
 <i>This Project is supported by Grand Challenges Canada. Grand Challenges Canada is funded by the Government of Canada and is dedicated to supporting Bold Ideas with Big Impact®.</i>
