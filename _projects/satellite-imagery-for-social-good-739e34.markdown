@@ -14,6 +14,8 @@ Impact Area:
 - Public Health
 - Sustainable Cities & Communities
 - Disasters & Climate Resilience
+Partner:
+- Microsoft
 ---
 
 ### The Satellite Imagery for Social Good project was developed
