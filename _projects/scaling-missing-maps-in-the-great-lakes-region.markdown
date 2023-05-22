@@ -20,10 +20,13 @@ Patient tracking is a crucial public health activity that contributes to reducin
 In Uganda, HOT partnered with district and community health teams to design a community participatory mapping exercise across Kisoro and Zombo districts. This mapping exercise included locating and mapping all geographical and human-made features within the districts that would enable community health workers to easily find, locate, and trace patients quicker and more efficiently.
 
 ## Methodology
+
 ### Remote mapping
+
 Remote mapping and validation exercises were carried out in the priority districts of Kisoro, Zombo, Kanungu, Rubirizi, Rukungiri, Isingiro, Kamwenge, Kyegegwa, Ntoroko, Bundibugyo, Kikuube, Kasese, Hoima, Kiryandongo, Maracha, Nebbi, and Koboko. Over 2.5 million building footprints were added to OpenStreetMap (OSM).
 
 ### Field data collection
+
 HOT carried out two separate data collection activities which began in December 2020 in Kisoro district and continued to Zombo District from March 2021. The fieldwork included the collection of geographic information of different amenities located in these two districts.
 
 Data collectors were split into subgroups and sent to different parishes of a particular sub-county to ensure surveyors were adequately assigned to tasks and could be followed up with in case of any issues as well as ensure proper data management as related to data quality or inconsistencies.
@@ -33,9 +36,11 @@ A total of 30 surveyors were trained on OpenDataKit and OpenMapKit to carry out 
 At the end of the field mapping period, the data was reviewed, validated, and uploaded to the OSM platform.
 
 ## Maps
+
 The HOT team collaborated with the district health team to design and produce village-level, book-sized maps. These book-sized maps were distributed to the village community health workers to help them navigate, locate, and record their movements even without using smartphones. The aim is to develop district-level gazetteers that will be shared with health centers across the district to assist in reducing the time spent on patient tracing.
 
 ## Use cases
+
 In Kisoro, the maps have helped district authorities bring services closer to the people. According to the Assistant District Health Officer (DHO), the maps have helped in solving problems of outreach coverage, especially during the child immunization exercise under the Ministry of Health plan - REC - Reaching Every Child.
 
 Dr. Nick Muneza, the Assistant District Health Officer (DHO) in Kisoro illustrates how the maps have contributed to streamlining immunization efforts in the district.
@@ -50,10 +55,6 @@ He adds that the process has now been made more accessible with the introduction
 
 **Additional maps are available from the** [Scaling Missing Maps Atlas](https://drive.google.com/file/d/1pE0ai58bD84wLxPP0cP-sB63kN9SK7Ys/view)
 
-
 **Our gratitude goes to the Humanitarian Grand Challenge and partners for funding the Missing Maps initiative across the public health and disease surveillance sector in the Great Lakes Region.**
 
-**Special thanks and recognition to the local government, community members, and surveyors who collaborated with the HOT team throughout this project; the success and impact of our activities could not have been possible without their full support and participation in the mission.
-**
-
-
+**Special thanks and recognition to the local government, community members, and surveyors who collaborated with the HOT team throughout this project; the success and impact of our activities could not have been possible without their full support and participation in the mission.**
