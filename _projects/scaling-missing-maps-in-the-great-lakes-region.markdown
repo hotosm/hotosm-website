@@ -45,11 +45,11 @@ In Kisoro, the maps have helped district authorities bring services closer to th
 
 Dr. Nick Muneza, the Assistant District Health Officer (DHO) in Kisoro illustrates how the maps have contributed to streamlining immunization efforts in the district.
 
-> "One week after we got the maps, we were able to change one child immunization outreach post in Nyakinama sub-county. The post was meant to serve people in Nyakinama and had been placed in Mubuga. We realized that instead, it was serving people from Nyarubuge. So according to the map, we were able to locate that the most suitable place for this outreach post is Kwaranga. Now we have more people from Nyakinama utilizing the post for immunization."
+* "One week after we got the maps, we were able to change one child immunization outreach post in Nyakinama sub-county. The post was meant to serve people in Nyakinama and had been placed in Mubuga. We realized that instead, it was serving people from Nyarubuge. So according to the map, we were able to locate that the most suitable place for this outreach post is Kwaranga. Now we have more people from Nyakinama utilizing the post for immunization."
 
 Kajyibgami Kenneth, 67, the chairman of the village health teams (VHTs) in Chahi Sub County reports that during the height of the COVID-19 outbreak in Uganda, it was very easy for them to quarantine people and predict the extent of spread according to the locations on the maps.
 
-> "Every village has a map. Two VHTs share one map per village. It is now very easy to trace and direct patients to the nearest health center. Our only challenge is that we don’t have smartphones. Our work would be faster if we had these phones.
+* "Every village has a map. Two VHTs share one map per village. It is now very easy to trace and direct patients to the nearest health center. Our only challenge is that we don’t have smartphones. Our work would be faster if we had these phones.
 
 He adds that the process has now been made more accessible with the introduction of hard copy maps for some of the VHTs in his sub-county who had no access to smartphones.
 
