@@ -5,6 +5,9 @@ published: false
 Feature Image: "/uploads/Grid%20for%20DQI%20Interns.png"
 Person:
 - Rebecca Chandiru
+Duration:
+  Start Date: 2023-09-01 00:00:00 Z
+  End Date: 2023-11-30 00:00:00 Z
 ---
 
 The HOT Data Quality Internship was an opportunity given to all globally to become deeply involved with the Humanitarian OpenStreetMap Team and humanitarian open mapping community while gaining readily transferable geospatial skills. The quality of data is a huge challenge in the open data ecosystem. It is critical to the sustainability of open data creation so that it can be trusted and used by map users.  
