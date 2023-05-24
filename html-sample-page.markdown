@@ -10,39 +10,17 @@ Intro Text: |-
   This is a markdown link: [link](https://www.hotosm.org/). They don't work in intro text.
   <br>
   Use HTML instead: <a href="https://www.hotosm.org/">link</a>.
-
-  <!-- The StoryMap container can go anywhere on the page. Be sure to
-      specify a width and height.  The width can be absolute (in pixels) or
-      relative (in percentage), but the height must be an absolute value.
-      Of course, you can specify width and height with CSS instead -->
-  <div id="mapdiv" style="width: 100%; height: 600px;"></div>
-
-  <!-- Your script tags should be placed before the closing body tag. -->
-  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css">
-  <script type="text/javascript" src="https://uploads.knightlab.com/storymapjs/e120c697c1124821d49174a85168e18d/equipo-alfa-del-hub-de-mapeo-abierto-de-america-latina/index.html"></script>
-
-  <script>
-  // storymap_data can be an URL or a Javascript object
-  var storymap_data = '/static/demo/demo.json';
-
-  // certain settings must be passed within a separate options object
-  var storymap_options = {};
-
-  var storymap = new KLStoryMap.StoryMap('mapdiv', storymap_data, storymap_options);
-  window.onresize = function(event) {
-      storymap.updateDisplay(); // this isn't automatic
-  }
-  </script>
 Page Link:
   Label: Learn More
-  Text: Learn more about our work and how OpenStreetMap data equips communities and
-    policy-makers to better address climate and disaster risk.
+  Text: |-
+    <br>
+    Learn more about our work and how OpenStreetMap data equips communities and policy-makers to better address climate and disaster risk.
   Link: https://www.hotosm.org/impact-areas/disaster-risk-reduction/
 Page Contact:
   Label: Contact Us
-  Text: |-
-    <br>
-    If you or your organization would like to learn more or to partner with us or any of our local implementing partners to support the use of OpenStreetMap for climate and disaster risk management, please reach out.
+  Text: If you or your organization would like to learn more or to partner with us
+    or any of our local implementing partners to support the use of OpenStreetMap
+    for climate and disaster risk management, please reach out.
   Contact Email: partnerships@hotosm.org
 Sidebar Text: This is sidebar text.
 ---
@@ -116,3 +94,5 @@ Unordered List with Indents:
 
 ![PhilAWARE combined.png](/uploads/PhilAWARE%20combined.png)
 <figcaption align = "left"><h6>Caption aligned left</h6></figcaption>
+
+<iframe src="https://uploads.knightlab.com/storymapjs/e120c697c1124821d49174a85168e18d/equipo-alfa-del-hub-de-mapeo-abierto-de-america-latina/index.html" frameborder="0" width="100%" height="800"></iframe>
