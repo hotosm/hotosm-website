@@ -95,4 +95,4 @@ Unordered List with Indents:
 ![PhilAWARE combined.png](/uploads/PhilAWARE%20combined.png)
 <figcaption align = "left"><h6>Caption aligned left</h6></figcaption>
 
-<iframe src="https://uploads.knightlab.com/storymapjs/e120c697c1124821d49174a85168e18d/equipo-alfa-del-hub-de-mapeo-abierto-de-america-latina/index.html" frameborder="0" width="100%" height="800"></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/e120c697c1124821d49174a85168e18d/equipo-alfa-del-hub-de-mapeo-abierto-de-america-latina/index.html" frameborder="0" width="100%" height="600"></iframe>
