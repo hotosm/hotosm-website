@@ -4,7 +4,7 @@ date: 2016-12-21 15:24:00 Z
 Photo: https://cdn.hotosm.org/website/rebecca-74099a.JPG
 Member Type:
   Is Staff: true
-  Is Voting Member: true
+  Is Voting Member: false
 Job Title: Interim Executive Director
 Working Group:
 - Fundraising
