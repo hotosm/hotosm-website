@@ -5,11 +5,18 @@ published: false
 Project Summary Text: |-
   Using open source geospatial mapping tools and local knowledge to improve
   field epidemiology and patient tracing in rural Uganda
-Feature Image: "/uploads/Screenshot%202023-05-16%20at%203.39.14%20PM.png"
+Feature Image: "/uploads/ESA_Scaling_Missing_Maps_Great_Lakes_Header.webp"
 Country:
 - Uganda
+- Democratic Republic of the Congo
 Impact Area:
 - Public Health
+Person:
+- Paul Uithol
+- Riley Moepswa
+Partner:
+- Grand Challenges Canada
+- Missing Maps
 Duration:
   Start Date: 2019-09-01 00:00:00 Z
   End Date: 2022-01-01 00:00:00 Z
