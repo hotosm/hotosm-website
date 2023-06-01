@@ -9,6 +9,13 @@ Country:
 - Mexico
 Impact Area:
 - Sustainable Cities & Communities
+Partner:
+- Municipality of Zitácuaro
+- COCOTRA
+- Trufi
+- Codeando México
+Duration:
+  End Date: 2023-05-24 00:00:00 Z
 ---
 
 Zitácuaro, whose name comes from Tsitákuarhu (Mazahua), is a municipality located in the Quencio Valley in the eastern part of the state of Michoacán, Mexico. Its geographical location, a valley surrounded by hills and forests, makes it a place of great natural beauty, but also a challenge for planning the public transport network.
