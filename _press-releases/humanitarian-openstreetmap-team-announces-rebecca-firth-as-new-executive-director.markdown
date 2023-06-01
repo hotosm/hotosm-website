@@ -1,7 +1,6 @@
 ---
 title: Humanitarian OpenStreetMap Team Announces Rebecca Firth as New Executive Director
 date: 2023-06-01 16:27:00 Z
-published: false
 Page Link:
   Text: 
   Label: Download the Press Release
@@ -10,7 +9,10 @@ Page Contact:
   Text: "<br>"
   Label: Contact Us
   Key: info@hotosm.org
+layout: page
 ---
+
+![Audacious_Workshop_20190913_1RL0495.jpg](/uploads/Audacious_Workshop_20190913_1RL0495.jpg)
 
 Humanitarian OpenStreetMap Team is thrilled to announce that Rebecca Firth has been unanimously chosen by its board of directors to serve as its new Executive Director. Rebecca will begin her role starting on 1 June 2023.
 

@@ -1,11 +1,12 @@
 ---
 title: Rebecca Firth on Becoming HOT's Executive Director
 date: 2023-06-01 16:34:00 Z
+Summary Text: I am thrilled to share with all of you the incredible news that I have
+  been appointed as the new Executive Director at Humanitarian OpenStreetMap Team
+  (HOT) starting today.
 Feature Image: "/uploads/Audacious_Workshop_20190913_1RL0495.jpg"
 Person: Rebecca Firth
 ---
-
-I am thrilled to share with all of you the incredible news that I have been appointed as the new Executive Director at @Humanitarian OpenStreetMap Team (HOT) starting today. 🙌✨ 
 
 As many of you know, I have always been passionate about community-led development through open mapping. I joined HOT in 2014 as a volunteer because I was inspired by how HOT was mobilizing people to support humanitarian response and saw how HOT’s approach had totally shifted the humanitarian response sector. Since then, I have been fortunate enough to pursue my personal and professional goals along with this organization, like meeting people all over the world that share the same values and concerns as me. I have also learned that there are many challenges still unaddressed in this sector, and there is a lot of low-hanging fruit still to pick; that further motivates me to achieve HOT's goals of catalyzing an equitable and sustainable future through community-led mapping.
 

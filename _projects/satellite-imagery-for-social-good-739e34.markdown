@@ -14,8 +14,14 @@ Impact Area:
 - Public Health
 - Sustainable Cities & Communities
 - Disasters & Climate Resilience
+Person:
+- Carter draper
+- Duncan Kebut
 Partner:
 - Microsoft
+Duration:
+  Start Date: 2021-10-04 00:00:00 Z
+  End Date: 2022-10-31 00:00:00 Z
 ---
 
 ### The Satellite Imagery for Social Good project was developed and implemented in Kenya and Nigeria
