@@ -15,7 +15,7 @@ Page Contact:
 	</tr>
 	<tr>
 		<td>Application close date:</td>
-		<td style="border-left: 1px solid black">June 2nd, 2023</td>
+		<td style="border-left: 1px solid black">July 2nd, 2023</td>
 	</tr>
 	<tr>
 		<td>Duration of project:</td>
