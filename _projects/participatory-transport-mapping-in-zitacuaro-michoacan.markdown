@@ -14,6 +14,7 @@ Partner:
 - COCOTRA
 - Trufi
 - Codeando México
+- Youthmappers UAEMEX
 Duration:
   End Date: 2023-05-24 00:00:00 Z
 ---
@@ -63,7 +64,7 @@ This project, a collaboration between the Mobility office of the municipality of
  <li>Printable digital map design. </li>
  <li>Data integration to OpenStreetMap.</li>
  <li>Linking with the Trufiapp travel planning app (open source) and other similar ones. </li>
-This phase integrates the active participation of the [Youthmappers UAEMEX](https://twitter.com/ym_uaemex) student group from Toluca, trained in this topic.
+<li> This phase integrates the active participation of the <a href="https://twitter.com/ym_uaemex">Youthmappers UAEMEX</a> student group from Toluca, trained in this topic.</li>
     </ul>
   </li>
 </ul>
