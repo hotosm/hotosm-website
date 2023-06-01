@@ -13,6 +13,8 @@ Person:
 - Risham Habib
 ---
 
+![Screenshot 2022-11-17 at 6.54.55 PM.png](/uploads/Screenshot%202022-11-17%20at%206.54.55%20PM.png)
+
 Over the past two years, Open Mapping Hub - Asia Pacific (OMH-AP) has been working in it’s vision to create a sustainable OpenStreetMap (OSM) ecosystem in the Asia pacific region. We have been supporting various community led activities and helping numerous  champions emerge within the OSM ecosystem. Our efforts have been primarily focused in supporting new communities, creating map data and ensuring the quality of the data.
 
 As the OSM movement in the region grows, we realize the need to have people who can utilize the created open data in projects for social impact. In June 2022, We organized the first ever OSM Hackfest, reaching out to more than 600  students in Nepal. When we organized the Hackfest we had the following goals in our mind:
