@@ -2,6 +2,7 @@
 title: Rebecca Firth on Becoming HOT's Executive Director
 date: 2023-06-01 16:34:00 Z
 Feature Image: "/uploads/Audacious_Workshop_20190913_1RL0495.jpg"
+Person: Rebecca Firth
 ---
 
 I am thrilled to share with all of you the incredible news that I have been appointed as the new Executive Director at @Humanitarian OpenStreetMap Team (HOT) starting today. 🙌✨ 
