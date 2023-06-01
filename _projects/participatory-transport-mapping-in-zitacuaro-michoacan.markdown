@@ -37,7 +37,7 @@ This project, a collaboration between the Mobility office of the municipality of
   </li>
 <li>Data
     <ul>
-      <li>Design a printable digital map of public transportation to install in strategic places</li>
+      <li>Design a printable digital map of public transportation to install in strategic places.</li>
     </ul>
   </li>
 </ul>
