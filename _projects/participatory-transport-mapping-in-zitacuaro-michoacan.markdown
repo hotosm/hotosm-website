@@ -63,7 +63,7 @@ This project, a collaboration between the Mobility office of the municipality of
  <li>Printable digital map design. </li>
  <li>Data integration to OpenStreetMap.</li>
  <li>Linking with the Trufiapp travel planning app (open source) and other similar ones. </li>
-<li>This phase integrates the active participation of the [Youthmappers UAEMEX](https://twitter.com/ym_uaemex) student group from Toluca, trained in this topic.</li>
+This phase integrates the active participation of the [Youthmappers UAEMEX](https://twitter.com/ym_uaemex) student group from Toluca, trained in this topic.
     </ul>
   </li>
 </ul>
@@ -75,7 +75,7 @@ Before starting the mapping, a preliminary investigation of all available data a
 
 In the case of Zitácuaro, in 2017 a diagnosis of the public transport service had been carried out. This diagnosis identified 157 public transport routes and thus a register of transport units and concessionaires was created. This document of almost 500 pages was essential to better understand the dimension of the work to be carried out, the human and monetary resources and, above all, the effort that the mapathon was going to require.
 
-## Mapping brigades and territorial strategy
+### Mapping brigades and territorial strategy
 Mapping public transport routes requires going through the routes in the real world, and the use of an application or system with GPS to carry out a survey of geographic information on them.
 
 For the Zitácuaro Mapathon, the municipality's Mobility office recruited fifteen volunteers, mostly students from the Zitácuaro Technological Institute, who were joined by employees of COCOTRA and the municipal mobility office, making a total of 17 people mapping.
@@ -86,7 +86,7 @@ Codeando México analyzed the diagnosis document and listed the 157 routes, geol
 
 For the mapping, the choice was MapMap, a specific app for mapping transportation routes, developed by Codeando México within the framework of Mapeo Xalapa 2016. On-site training for the use of MapMap and the mapping dynamics took place at the offices of the town hall at the beginning of November 2022.
 
-## Routes pre-processing
+### Routes pre-processing
 The mapping of routes was completed in January 2023, thanks to the efforts of the municipal team of Zitácuaro and the management of Codeando México.
 
 Before being able to use the mapped routes, it was necessary to pre-process the generated geographic files to clean them, make sure that all the points fall on a street and not on a building due to errors in the GPS signal, as well as process them to homologate them and so on be able to upload them to both OpenStreetMap and Google Maps.
