@@ -14,7 +14,7 @@ Partner:
 - COCOTRA
 - Trufi
 - Codeando México
-- Youthmappers UAEMEX
+- YouthMappers
 Duration:
   End Date: 2023-05-24 00:00:00 Z
 ---
