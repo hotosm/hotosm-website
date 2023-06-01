@@ -92,7 +92,7 @@ The Codeando México group and local agents were in charge of this cleaning proc
 
 ### Data integration and follow-up
 
-Once the data was ready, it was integrated into OpenStreetMap to be accessed from the "Rutometro", a personalized copy of the Trufi-app, developed by the Trufi Association, and all this was delivered to COCOTRA and the municipality of Zitácuaro on Tuesday, May 23, 2022.
+Once the data was ready, it was integrated into OpenStreetMap to be accessed from the "Rutometro", a personalized copy of the Trufi-app, developed by the Trufi Association, and all this was delivered to COCOTRA and the municipality of Zitácuaro on [Tuesday, May 23](https://www.mizitacuaro.com/noticias/michoacan/cocotra-pone-en-marcha-en-zitacuaro-la-aplicacion-movil-rutometro/247507/), 2022.
 
 To date we are in conversations about the mapping of more Michoacán cities and the integration of other local universities and municipalities into the process.
 
