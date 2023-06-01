@@ -11,10 +11,6 @@ Impact Area:
 - Sustainable Cities & Communities
 Partner:
 - Municipality of Zitácuaro
-- COCOTRA
-- Trufi
-- Codeando México
-- YouthMappers
 Duration:
   End Date: 2023-05-24 00:00:00 Z
 ---
@@ -25,7 +21,7 @@ Currently there is a network of 157 concessioned transportation routes, mainly m
 
 The last census carried out on routes and dealers is from 2017, but it did not include the layout of the routes or their exact starting and ending points.
 
-This project, a collaboration between the Mobility office of the municipality of Zitácuaro, the regional delegation of COCOTRA, the Latin American Open Mapping Hub of the Humanitarian OpenStreetMap Team (HOT), the German association [Trufi](https://www.trufi-association.org/), and the civic technology organization [Codeando México](http://codeandomexico.org/), seeks to digitize the routes of public transport routes in Zitácuaro, to later publish them as open data on OpenStreetMap, TrufiApp and any other platform such as Google Maps.
+This project, a collaboration between the Mobility office of the municipality of Zitácuaro, the regional delegation of [COCOTRA](https://cocotra.michoacan.gob.mx/), the Latin American Open Mapping Hub of the Humanitarian OpenStreetMap Team (HOT), the German association [Trufi](https://www.trufi-association.org/), and the civic technology organization [Codeando México](http://codeandomexico.org/), seeks to digitize the routes of public transport routes in Zitácuaro, to later publish them as open data on OpenStreetMap, TrufiApp and any other platform such as Google Maps.
 
 ## Project objectives
 <ul>
