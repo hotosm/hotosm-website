@@ -6,7 +6,6 @@ Photo: "/uploads/Immaculata%20Mwanja.jpeg"
 Member Type:
   Is Staff: false
   Is Voting Member: true
-Job Title: Global Projects Associate
 Country: Tanzania
 Team: Global
 Social Media (Full URL):
