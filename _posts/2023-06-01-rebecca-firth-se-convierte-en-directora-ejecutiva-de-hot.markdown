@@ -1,5 +1,5 @@
 ---
-title: Rebecca Firth se convierte en directora ejecutiva de HOT
+title: Declaraciones de Rebecca Firth al convertirse en directora ejecutiva de HOT
 date: 2023-06-01 16:32:00 Z
 Summary Text: Estoy encantada de compartir con todos ustedes la increíble noticia
   de que he sido nombrada nueva Directora Ejecutiva del Equipo Humanitario de OpenStreetMap
