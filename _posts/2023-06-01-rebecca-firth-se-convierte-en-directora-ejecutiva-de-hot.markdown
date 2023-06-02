@@ -15,6 +15,3 @@ Quiero expresar mi más profundo agradecimiento a la junta directiva por confiar
 ¡Estoy encantada de comenzar esta nueva aventura!
 
 ***Lea el comunicado de prensa completo [aquí](https://www.hotosm.org/press-releases/el-equipo-humanitario-de-openstreetmap-anuncia-como-nueva-directora-ejecutiva-a-rebecca-firth/).***
-
-
-<button onclick="window.location.href='https://www.hotosm.org/press-releases/el-equipo-humanitario-de-openstreetmap-anuncia-como-nueva-directora-ejecutiva-a-rebecca-firth/';">Lea el comunicado de prensa completo</button>
