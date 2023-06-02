@@ -26,7 +26,7 @@ Feature Image: "/uploads/51490564400_99fd58725d_k-eff0fe.jpg"
 Congratulations to Aaron Eubank, Abigail Agbenomba, Abiodoun Adémola Frédéric, Alexei Schwab, Angela Norvi, Yawo Teyvi, Anni Beukes, Ark Arjun, Ata Franck Akouete, Azo Phidias, Bruce Maldy Pratama, Carrol Chan, Chomba Chishala, Christina Reuben, Christine Mhone, Fazle Rabbi, Iddy Chazua, Jawad Keshawarz, João Porto de Albuquerque, Jomokela Kennedy, Kapay Yongololo, Katompa Amos, Laura Mugeha, Laxmi N Goparaju, LY Aicha Sally Kadidja Racky, Mahamane Abdoulkader Moustapha, Maliha Mohiuddin, Manoj Karingamadathil, Manoj Thapa, Marie Anna Baovola, Mariela Alexandra Centeno Chacón, Maya Lovo Dominguez, Mzwandile Thokoane, Ndapile Mkuwu, Nicole Siggins, Paromita Basak, Peter Agenga, Quang Huy Nguyen, Rabi Shrestha, Raphael Brechard, Romeo Lomora Ronald, Saikat Maiti, Sam Agbadonou, Shamillah (Shammie) Nassozi, Sharon Omoja, Stellamaris Wavamunno Nakacwa, Tim Geda, Tsongo Muluba Bienvenue, Uchechi Shirley Anaduaka, Ueakeia Tofinga, Zola Manyungwa. 
 
 
-[Click here to view the full list of HOT Voting Members](https://www.hotosm.org/voting-members)
+[Click here to view the full list of HOT Voting Members](http://https://www.hotosm.org/voting-members)
 
 A big thanks to ALL members for helping recruit a cohort of new members who possess a broad experience within the OpenStreetMap community. The community is gaining new skills and  growing stronger each day through leadership, training, and mapping project participation. We look forward to working with HOTs Membership on issues related to the governance of the organization, electing the Board of Directors, and chair/co-chairing different working groups that touch all aspects of HOT’s work. 
 
