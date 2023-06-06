@@ -4,10 +4,9 @@ title: |-
   Social Good: Kenya and Nigeria
 date: 2023-05-16 22:34:00 Z
 published: false
-Project Summary Text: |-
-  Implemented by the Humanitarian OpenStreetMap Team (HOT) in partnership with Microsoft
-  ![WNA_ESA_SatelliteImageryforSocialGood_logos.png](/uploads/WNA_ESA_SatelliteImageryforSocialGood_logos.png)
-Feature Image: "/uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4"
+Project Summary Text: Implemented by the Humanitarian OpenStreetMap Team (HOT) in
+  partnership with Microsoft
+Feature Image: "/uploads/WNA_ESA_SatelliteImageryforSocialGood_nigeria-map-2-faded-1920x1080-05aec0.png"
 Country:
 - Kenya
 - Nigeria
@@ -24,6 +23,8 @@ Duration:
   Start Date: 2021-10-04 00:00:00 Z
   End Date: 2022-10-31 00:00:00 Z
 ---
+
+![WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4](/uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4)
 
 ### The Satellite Imagery for Social Good project was developed and implemented in Kenya and Nigeria
 
@@ -67,4 +68,5 @@ MapwithAI, JOSM provided community mappers with the opportunity to make the rele
 HOT developed a conflation software to implement a [Manual Conflation Workflow](https://docs.google.com/document/d/1B5C2JLlal8kPUKaPDuUQOuQ3_16nf2ZLvqhMy0-lMNA/edit#heading=h.7p6r4h2jwv9j) across Tasking Manager’s implemented projects aiming to evaluate the quality of imported data. Additionally, a detailed analysis for the intersection of union (IoU) of the imported Microsoft AI open buildings dataset has been implemented with IoU score +90% overall.
 
 Challenges experienced via the AI-generated data included instances of overlapping buildings identified as one unit resulting in an incorrectly mapped outline, false positives with other structures identified as buildings, and true negatives, for example, huts in rural areas were not identified as buildings and therefore were not mapped by AI.
-![WNA_ESA_SatelliteImageryforSocialGood_nigeria-map-2-faded-1920x1080.png](/uploads/WNA_ESA_SatelliteImageryforSocialGood_nigeria-map-2-faded-1920x1080.png)
+
+![WNA_ESA_SatelliteImageryforSocialGood_logos.png](/uploads/WNA_ESA_SatelliteImageryforSocialGood_logos.png)
