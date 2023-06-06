@@ -28,16 +28,19 @@ This project, a collaboration between the Mobility office of the municipality of
   <li>Citizenry
  <ul>
       <li>Provide citizens with quality data so that they are better informed about routes, schedules, prices and thus allow them to make better decisions when commuting.</li>
+[LAC_ParticipatoryTransportMappingZitacuaro_CitizensInsideBus.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_CitizensInsideBus.webp)
     </ul>
 </li>
   <li>Government and civil society
     <ul>
       <li>Provide quality data to the municipal government and organizations for better land planning and mobility.</li>
+[LAC_ParticipatoryTransportMappingZitacuaro_Motorbike.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Motorbike.webp)
     </ul>
   </li>
 <li>Data
     <ul>
       <li>Design a printable digital map of public transportation to install in strategic places.</li>
+[LAC_ParticipatoryTransportMappingZitacuaro_Mapwithroutes.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Mapwithroutes.webp)
     </ul>
   </li>
 </ul>
