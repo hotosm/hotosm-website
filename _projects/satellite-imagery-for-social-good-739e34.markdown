@@ -30,7 +30,7 @@ Duration:
 
 https://manage.siteleaf.com/api/v2/sites/5a708acdd838894824c43445/source/_uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4
 
-/uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4
+/_uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4
 
 ![WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4](/_uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4)
 
