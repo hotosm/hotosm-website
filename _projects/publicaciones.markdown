@@ -37,6 +37,7 @@ Van de la más reciente a la más antigua.
 12/02/2021 - [Hub de Mapeo Abierto en LATAM - Actualización diciembre 2021](https://www.hotosm.org/updates/hub-de-mapeo-abierto-en-latam-actualizacion-diciembre-2021/)
 
 03/25/2021 - 🗺 [¡Ayuda a impulsar OpenStreetMap en Latinoamérica!](https://www.hotosm.org/updates/ayuda-a-impulsar-openstreetmap-en-latinoamerica/)
+![LAC_PublicationsExample1.jpeg](/uploads/LAC_PublicationsExample1.jpeg)
 
 ## Otras publicaciones sobre América Latina
 
@@ -79,3 +80,5 @@ Van de la más reciente a la más antigua.
 06/03/2015 - [Taller de Mapeo Humanitario – Isla de León, Colombia](https://www.hotosm.org/updates/2015-03-06_taller_de_mapeo_humanitario_%E2%80%93_isla_de_le%C3%B3n_colombia)
 
 24/04/2013 - [Hottie Humberto Yances presents the La Boquilla Project](https://www.hotosm.org/updates/2013-04-24_hottie_humberto_yances_presents_the_la_boquilla_project)
+
+![LAC_PublicationsExample2.png](/uploads/LAC_PublicationsExample2.png)
