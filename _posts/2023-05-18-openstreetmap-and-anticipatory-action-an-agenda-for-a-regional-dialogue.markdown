@@ -23,7 +23,7 @@ The goal of the online session is to showcase how OpenStreetMap supports anticip
 
 Speakers will include representative from:
 
-* Humanitarian OpenStreetMap Team, Open Mapping Hub Asia-Pacific and out partners in the Asia-Pacific region including Start Network and World Vision.
+* Humanitarian OpenStreetMap Team, Open Mapping Hub Asia-Pacific and our partners in the Asia-Pacific region including Start Network and World Vision.
 
 Join us as we explore the current state of disaster preparedness and response, the progress and advancements made and the many challenges that are still faced today. The topics of discussion will include; identifying areas prone to disaster in the Asia-Pacific region, state of mapping and data utilization for disaster response and preparedness, and innovative approaches and proposed solutions to identify needs and address those gaps by facilitating collective anticipatory action.
 
