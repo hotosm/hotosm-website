@@ -6,7 +6,7 @@ published: false
 Summary Text: The Regional Anticipatory Action Dialogue offers a platform for humanitarian
   organizations, local governments, national and regional NGOs, and all various anticipatory
   actors to share their perspective on disaster management and anticipatory action.
-Feature Image: "/uploads/unnamed%20(3).jpg"
+Feature Image: "/uploads/Regional%20Dialogue%20AA%20Templates-29f193.png"
 Person:
 - Risham Habib
 - Harry Mahardhika Machmud
@@ -25,4 +25,4 @@ This dialogue is not just an opportunity to exchange ideas but a platform for co
 
 Anticipatory action can significantly reduce harm, save lives and improve disaster management. 
 
-> The Regional Anticipatory Action Dialogue will take place on the 13th of June, 2023 from 1.30pm to 3.40pm (+8 UTC). The event will be virtual. Register [here](https://us02web.zoom.us/meeting/register/tZEldu-rrzIjE9A2ET7v0yaTqhA55dl9c_u2#/registration).
+> The Regional Anticipatory Action Dialogue will take place on the 20th of June, 2023 from  07:30-09:45 CEST. The event will be virtual. Register [here](https://us02web.zoom.us/meeting/register/tZEldu-rrzIjE9A2ET7v0yaTqhA55dl9c_u2#/registration).
