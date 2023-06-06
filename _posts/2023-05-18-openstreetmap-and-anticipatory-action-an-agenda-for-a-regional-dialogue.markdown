@@ -17,6 +17,8 @@ Country:
 
 The Open Mapping Hub Asia-Pacific will be hosting a Regional Dialogue on OpenStreetMap (OSM)and Anticipatory Action as part of the 7th Asia-Pacific Dialogue Platform on Anticipatory Humanitarian Action! 
 
+![Regional Dialogue AA Templates-29f193.png](/uploads/Regional%20Dialogue%20AA%20Templates-29f193.png)
+
 The Regional Anticipatory Action Dialogue offers a platform for humanitarian organizations, local governments, national and regional NGOs, and all various anticipatory actors to share their perspective on disaster management and anticipatory action.
 
 Join us as we explore the current state of disaster preparedness and response, the progress and advancements made and the many challenges that are still faced today. The topics of discussion will include; identifying areas prone to disaster in the Asia-Pacific region, state of mapping and data utilization for disaster response and preparedness, and innovative approaches and proposed solutions to identify needs and address those gaps by facilitating collective anticipatory action.
