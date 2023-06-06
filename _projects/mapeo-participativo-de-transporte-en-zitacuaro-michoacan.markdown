@@ -24,46 +24,45 @@ El último censo realizado de rutas y concesionarios es del 2017, pero este no i
 Este proyecto, una colaboración entre la oficina de Movilidad del municipio de Zitácuaro, la delegación regional de la [COCOTRA](https://cocotra.michoacan.gob.mx/), el Hub Latinoamericano de Mapeo Abierto del Humanitarian OpenStreetMap Team (HOT), la asociación alemana [Trufi](https://www.trufi-association.org/), y la organización de tecnología cívica [Codeando México](http://codeandomexico.org/), busca digitalizar los recorridos de las rutas de transporte público de Zitácuaro, para posteriormente publicarlos como datos abiertos en OpenStreetMap, TrufiApp y cualquier otra plataforma como Google Maps.
 
 ## Objetivos del proyecto
-<ul>
-  <li>Ciudadanía
- <ul>
-      <li>Brindar a la ciudadanía datos de calidad para que estén mejor informados sobre rutas, horarios, precios y así permitirles tomar mejores decisiones en sus desplazamientos.</li>
-    </ul>
-</li>
-  <li>Gobierno y sociedad civil
-    <ul>
-      <li>Proporcionar datos de calidad al gobierno municipal y organizaciones para una mejor planeación del territorio y la movilidad.</li>
-    </ul>
-  </li>
-<li>Datos
-    <ul>
-      <li>Diseñar un mapa digital imprimible de transporte público físico para colocar en lugares estratégicos.</li>
-    </ul>
-  </li>
-</ul>
+
+### Ciudadanía
+
+Brindar a la ciudadanía datos de calidad para que estén mejor informados sobre rutas, horarios, precios y así permitirles tomar mejores decisiones en sus desplazamientos.
+
+![LAC_ParticipatoryTransportMappingZitacuaro_CitizensInsideBus.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_CitizensInsideBus.webp)
+
+### Gobierno y sociedad civil
+
+Proporcionar datos de calidad al gobierno municipal y organizaciones para una mejor planeación del territorio y la movilidad.
+
+![LAC_ParticipatoryTransportMappingZitacuaro_Motorbike.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Motorbike.webp)
+
+### Datos
+Diseñar un mapa digital imprimible de transporte público físico para colocar en lugares estratégicos.
+
+![LAC_ParticipatoryTransportMappingZitacuaro_Mapwithroutes.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Mapwithroutes.webp)
 
 ## Las tres fases del proyecto
-<ul>
-  <li>Fase 1
- <ul>
-      <li>Recopilación de información previa, análisis inicial de rutas existentes, socialización con transportistas y búsqueda de mapeadores.</li>
-    </ul>
-</li>
-  <li>Fase 2
-    <ul>
-      <li>Levantamiento de rutas en campo mediante el uso de una app móvil especializada en mapeo de transporte público.</li>
-    </ul>
-  </li>
-<li>Fase 3
-    <ul>
-      <li>Limpieza de datos, verificación y apertura de datos </li>
- <li>Diseño del mapa digital imprimible.</li>
- <li>Integración de datos a OpenStreetMap.</li>
- <li>Vinculación con la app de planeación de viajes Trufiapp (opensource) y otras similares.</li>
-<li> Esta fase integra la participación activa del grupo de estudiantes <a href="https://twitter.com/ym_uaemex">Youthmappers UAEMEX</a> de Toluca, capacitado en este tema.</li>
-    </ul>
-  </li>
-</ul>
+
+### Fase 1
+Recopilación de información previa, análisis inicial de rutas existentes, socialización con transportistas y búsqueda de mapeadores.
+
+![LAC_ParticipatoryTransportMappingZitacuaro_Phase1.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Phase1.webp)
+
+### Fase 2
+Levantamiento de rutas en campo mediante el uso de una app móvil especializada en mapeo de transporte público.
+
+![LAC_ParticipatoryTransportMappingZitacuaro_Phase2.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Phase2.webp)
+
+### Fase 3
+    
+* Limpieza de datos, verificación y apertura de datos. 
+* Diseño del mapa digital imprimible.
+* Integración de datos a OpenStreetMap.
+* Vinculación con la app de planeación de viajes Trufiapp (opensource) y otras similares.
+Esta fase integra la participación activa del grupo de estudiantes <a href="https://twitter.com/ym_uaemex">Youthmappers UAEMEX</a> de Toluca, capacitado en este tema.
+
+![LAC_ParticipatoryTransportMappingZitacuaro_Phase3.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Phase3.webp)
 
 ## Desarrollo del proyecto
 ### Análisis de información previa
@@ -71,6 +70,8 @@ Este proyecto, una colaboración entre la oficina de Movilidad del municipio de 
 Antes de empezar el mapeo se realizó una investigación previa de todos los datos y documentación disponibles para no duplicar esfuerzos.
 
 En el caso de Zitácuaro, en 2017 se había realizado un diagnóstico del servicio de transporte público. Durante el mismo se identificaron 157 rutas de transporte público y se levantó un padrón de unidades de transporte y concesionarios. Este documento de casi 500 páginas fue fundamental para entender mejor la dimensión del trabajo a realizar, los recursos humanos y monetarios y sobre todo el esfuerzo que iba a requerir el mapatón.
+
+![LAC_ParticipatoryTransportMappingZitacuaro_Analysisofpreviousinfo.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Analysisofpreviousinfo.webp)
 
 ### Brigadas de mapeo y estrategia territorial
 Realizar un mapeo de rutas de transporte público requiere de recorrer las rutas en el mundo real, y el uso de alguna aplicación o sistema con GPS para realizar un levantamiento de información geográfica de las mismas. 
@@ -83,6 +84,8 @@ Codeando México analizó el documento de diagnóstico y listó las 157 rutas y 
 
 Para el mapeo se eligió usar MapMap, una app específica para el mapeo de rutas de transporte, desarrollada por Codeando México en el marco del Mapeo Xalapa 2016. Una capacitación presencial para el uso de MapMap y la dinámica de mapeo tuvo lugar en las oficinas del ayuntamiento a inicios de noviembre 2022. 
 
+![LAC_ParticipatoryTransportMappingZitacuaro_MappingBrigades.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_MappingBrigades.webp)
+
 ### Pre-procesamiento de rutas
 El mapeo de rutas fue completado en enero 2023, por el esfuerzo del equipo municipal de Zitácuaro y la gestión de Codeando México.
 
@@ -90,18 +93,22 @@ Antes de poder usar las rutas mapeadas, era necesario pre-procesar los ficheros 
 
 De este proceso de limpieza se encargó el grupo Codeando México y agentes locales, bajo la dirección de Trufi-association, con los estudiantes del Colegio Salesiano de Duitama, Colombia, y el capítulo de Youthmappers de la UAEMEX, previamente capacitado para este proceso.
 
-### Data integration and follow-up
+### Integración de datos y seguimiento
 
 Ya con los datos listos, se integraron a OpenStreetMap, para ser leidos desde el "Rutometro", una copia personalizada de la Trufi-app, desarrollada por Trufi Association y fueron entregados a la COCOTRA y al municipio de Zitácuaro el [martes 23 de mayo](https://www.mizitacuaro.com/noticias/michoacan/cocotra-pone-en-marcha-en-zitacuaro-la-aplicacion-movil-rutometro/247507/) del 2022.
 
 A la fecha nos encontramos en conversaciones sobre el mapeo de más ciudades michoacanas y la integración de otras universidades locales y municipios al proceso.
+
+![LAC_ParticipatoryTransportMappingZitacuaro_MapRoutesPreprocessing.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_MapRoutesPreprocessing.webp)
 
 ## El proyecto en síntesis
 Este proyecto aporta una solución participativa basada en la experiencia previa de la comunidad OpenStreetMap en distintos países (Nicaragua, Colombia, Bolivia, República Dominicana, etc.).
 Moviliza, vincula y fortalece organizaciones en la sistematización de este conocimiento y apoya en su posible réplica en más ciudades. 
 Coordina el levantamiento de datos, la formación de voluntarios locales, la preparación e inserción de datos en tecnologías abiertas que permitirán su uso libre. 
 
-## Press (Spanish)
+![LAC_ParticipatoryTransportMappingZitacuaro_NotaPapel.jpeg](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_NotaPapel.jpeg)
+
+## Prensa
 
 * Quadratin Michoacan: [Pone en marcha Cocotra en Zitácuaro la aplicación móvil Rutómetro](https://www.quadratin.com.mx/sucesos/pone-en-marcha-cocotra-en-zitacuaro-la-aplicacion-movil-rutometro/)
 
