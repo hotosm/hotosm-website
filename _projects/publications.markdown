@@ -39,6 +39,8 @@ They go from newest to oldest.
 
 03/25/2021 - 🗺 [¡Ayuda a impulsar OpenStreetMap en Latinoamérica!](https://www.hotosm.org/updates/ayuda-a-impulsar-openstreetmap-en-latinoamerica/)
 
+![LAC_PublicationsExample1.jpeg](/uploads/LAC_PublicationsExample1.jpeg)
+
 ## Other publications on Latin America
 
 01/02/2022 - [Mapping the Care of People with URBELatam
@@ -82,3 +84,5 @@ They go from newest to oldest.
 06/03/2015 - [Taller de Mapeo Humanitario – Isla de León, Colombia](https://www.hotosm.org/updates/2015-03-06_taller_de_mapeo_humanitario_%E2%80%93_isla_de_le%C3%B3n_colombia)
 
 24/04/2013 - [Hottie Humberto Yances presents the La Boquilla Project](https://www.hotosm.org/updates/2013-04-24_hottie_humberto_yances_presents_the_la_boquilla_project)
+
+![LAC_PublicationsExample2.png](/uploads/LAC_PublicationsExample2.png)
