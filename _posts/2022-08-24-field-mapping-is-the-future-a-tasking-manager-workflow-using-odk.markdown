@@ -15,7 +15,7 @@ Country:
 - Global
 ---
 
-[En français](http://www.hotosm.org/la-cartographie-de-terrain-est-lavenir-un-flux-de-travail-de-gestionnaire-de-taches-utilisant-odk.html)
+[En français](https://www.hotosm.org/updates/la-cartographie-de-terrain-est-lavenir-un-flux-de-travail-de-gestionnaire-de-taches-utilisant-odk/)
 [En español](http://www.hotosm.org/el-mapeo-de-campo-es-el-futuro-un-flujo-de-trabajo-del-gestor-de-tareas-utilizando-odk.html)
 [En Portugu**é**s](https://www.hotosm.org/o-mapeamento-de-campo-e-o-futuro-um-fluxo-de-trabalho-do-gerenciador-de-tarefas-usando-o-odk.html)
 
@@ -162,13 +162,13 @@ If, following the skill share session, there is substantial community interest i
 > **Français**:
 > La cartographie de terrain est l'avenir : Un flux de travail de Gestionnaire de Tâches utilisant ODK
 >
-> [Read more](https://www.hotosm.org/la-cartographie-de-terrain-est-lavenir-un-flux-de-travail-de-gestionnaire-de-taches-utilisant-odk.html)
+> [Read more](https://www.hotosm.org/updates/la-cartographie-de-terrain-est-lavenir-un-flux-de-travail-de-gestionnaire-de-taches-utilisant-odk/)
 >
 > **Español**:
 > El mapeo de campo es el futuro: Un flujo de trabajo del Gestor de Tareas utilizando ODK
 >
-> [Read more](https://www.hotosm.org/el-mapeo-de-campo-es-el-futuro-un-flujo-de-trabajo-del-gestor-de-tareas-utilizando-odk.html)
+> [Read more](https://www.hotosm.org/updates/el-mapeo-de-campo-es-el-futuro-un-flujo-de-trabajo-del-gestor-de-tareas-utilizando-odk/)
 >
 > **Portugu**é**s**: O mapeamento de campo é o futuro: um fluxo de trabalho do gerenciador de tarefas usando o ODK
 >
-> [Read more](https://www.hotosm.org/o-mapeamento-de-campo-e-o-futuro-um-fluxo-de-trabalho-do-gerenciador-de-tarefas-usando-o-odk.html)
+> [Read more](https://www.hotosm.org/updates/o-mapeamento-de-campo-e-o-futuro-um-fluxo-de-trabalho-do-gerenciador-de-tarefas-usando-o-odk/)
