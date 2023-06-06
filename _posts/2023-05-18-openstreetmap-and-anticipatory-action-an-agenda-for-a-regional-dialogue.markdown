@@ -7,7 +7,7 @@ Summary Text: The Regional Anticipatory Action Dialogue offers a platform for hu
   organizations, local governments, national and regional NGOs, and all various anticipatory
   actors to share their perspective on disaster management and anticipatory action.
 Feature Image: "/uploads/unnamed%20(7).jpg"
-Is image top aligned: true
+Is image top aligned: false
 Person:
 - Risham Habib
 - Harry Mahardhika Machmud
