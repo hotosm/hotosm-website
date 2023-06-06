@@ -24,7 +24,9 @@ Duration:
   End Date: 2022-10-31 00:00:00 Z
 ---
 
-![WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4](/uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4)
+<video autoplay>
+  <source src="https://manage.siteleaf.com/api/v2/sites/5a708acdd838894824c43445/source/_uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4" type="video/mp4">
+</video>
 
 ### The Satellite Imagery for Social Good project was developed and implemented in Kenya and Nigeria
 
