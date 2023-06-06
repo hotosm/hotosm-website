@@ -1,5 +1,5 @@
 ---
-title: Women-Centered Disaster Risk & Resilience in Small Islands Developing States
+title: Women-Centered Disaster Risk & Resilience in Small Island Developing States
 date: 2023-05-17 16:54:00 Z
 Deadline Date: 2023-07-02 00:00:00 Z
 Page Contact:
@@ -41,9 +41,9 @@ Page Contact:
 ## Humanitarian OpenStreetMap Team (HOT) 
 Humanitarian OpenStreetMap Team (HOT) is a US-based NGO and global community of thousands of volunteers working together to use maps and open data for humanitarian response and the Sustainable Development Goals. As the world’s preeminent participatory mapping NGO, HOT has fostered a global mapping community composed of more than 300,000 people with ground operations in several countries. HOT supports the growth of open mapping communities worldwide. When a major disaster strikes anywhere in the world, HOT rallies this global network to create the maps and data that enable responders to reach those in need. HOT works closely with humanitarian and development partners, including the Red Cross, Médecins Sans Frontières, World Bank, and UN OCHA, among others. 
 
-## Women-Centered Disaster Risk & Resilience in Small Islands Developing States Program
+## Women-Centered Disaster Risk & Resilience in Small Island Developing States Program
 
-According to the United Nations: Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Islands Developing States (SIDS), a High-Level Panel was convened by the President of the General Assembly of the UN in 2022 to develop a Multidimensional Vulnerability Index (MVI). Countries most prone to vulnerability often find themselves on the frontline of multiple crises, including climate change and the vagaries of international markets and trade. SIDS, for example, whose vulnerabilities are attributable to their structural characteristics like small size, remoteness, low productive capacities, and inadequate infrastructure, are highly exposed to adverse external shocks such as natural hazards (1) and trade disruptions, and despite their income levels, SIDS are not necessarily [more resilient](https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=DCD/DAC(2020)35/FINAL&docLanguage=En). 
+According to the United Nations: Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States (SIDS), a High-Level Panel was convened by the President of the General Assembly of the UN in 2022 to develop a Multidimensional Vulnerability Index (MVI). Countries most prone to vulnerability often find themselves on the frontline of multiple crises, including climate change and the vagaries of international markets and trade. SIDS, for example, whose vulnerabilities are attributable to their structural characteristics like small size, remoteness, low productive capacities, and inadequate infrastructure, are highly exposed to adverse external shocks such as natural hazards (1) and trade disruptions, and despite their income levels, SIDS are not necessarily [more resilient](https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=DCD/DAC(2020)35/FINAL&docLanguage=En). 
 
 Although there generally is a negative relationship between income and vulnerability, many countries, notably SIDS, are much more vulnerable than their income levels would suggest, including inter alia because of costs associated with remoteness from international markets such as of high import/export costs and irregular international traffic volumes, as well as diseconomies of scale. This vulnerability hinders their ability to overcome economic, environmental, and social external shocks and stressors and [can also suddenly reverse decades of development gains](https://www.un.org/ohrlls/sites/www.un.org.ohrlls/files/mvi_interim_report.pdf).
 
@@ -145,7 +145,7 @@ SIDS are a distinct group of 38 UN Member States and 20 Non-UN Members/Associate
 
 The program aims to have an **impact** on women who are systematically underrepresented in island nations at high risk of humanitarian crisis and multidimensional poverty to experience improved wellbeing and increased agency and resilience to respond to crises through the creation, accessibility and use of open geo-data.
 
-The Women-Centered Disaster Risk & Resilience in Small Islands Developing States program intends to have:
+The Women-Centered Disaster Risk & Resilience in Small Island Developing States program intends to have:
 <ol>
 <li>Women communities in SIDS have the knowledge, tools, funding, and geo-data to implement and advocate for socio-economic change.</li>
 <li>Women in underrepresented groups in SIDS are connected to tools and are motivated to create geographical data and solutions.</li>
