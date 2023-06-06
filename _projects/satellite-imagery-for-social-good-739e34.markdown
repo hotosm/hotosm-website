@@ -24,7 +24,7 @@ Duration:
   End Date: 2022-10-31 00:00:00 Z
 ---
 
-<video width="320" height="240" controls>
+<video width="320" height="240" autoplay>
 <source src="https://manage.siteleaf.com/api/v2/sites/5a708acdd838894824c43445/source/_uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4" type="video/mp4"> Your browser does not support the video tag.
 </video>
 
