@@ -24,11 +24,15 @@ Duration:
   End Date: 2022-10-31 00:00:00 Z
 ---
 
-<video width="320" height="240" autoplay>
-<source src="https://manage.siteleaf.com/api/v2/sites/5a708acdd838894824c43445/source/_uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4" type="video/mp4"> Your browser does not support the video tag.
+<video width="1920" height="1080" controls>
+<source src="https://manage.siteleaf.com/api/v2/sites/5a708acdd838894824c43445/source/_uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4" type="video/mp4">
 </video>
 
 https://manage.siteleaf.com/api/v2/sites/5a708acdd838894824c43445/source/_uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4
+
+/uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4
+
+![WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4](/_uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4)
 
 ### The Satellite Imagery for Social Good project was developed and implemented in Kenya and Nigeria
 
@@ -39,6 +43,7 @@ The Humanitarian OpenStreetMap Team (HOT), Microsoft’s AI for Humanitarian Act
 The AI-generated and human-verified building footprints have contributed to the development of city plans in Nakuru county, Kenya, and efficient planning for the provision of healthcare services in Nigeria.
 
 In 2021, Microsoft provided a set of AI-generated building footprints to facilitate the importation of AI-generated, human-verified building footprints into OpenStreetMap (OSM). Thus, increasing the rate of remote mapping (tracing buildings, roads, and other features on satellite images using a simple web tool) and allowing mappers more time for validation and ground-truthing activities.
+
 ![WNA_ESA_SatelliteImageryforSocialGood_ValidationScreenshot.png](/uploads/WNA_ESA_SatelliteImageryforSocialGood_ValidationScreenshot.png)
 
 ## Project Use Cases
