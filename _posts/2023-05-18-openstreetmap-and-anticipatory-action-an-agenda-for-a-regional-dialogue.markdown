@@ -6,7 +6,6 @@ date: 2023-05-18 09:29:00 Z
 Summary Text: The Regional Anticipatory Action Dialogue offers a platform for humanitarian
   organizations, local governments, national and regional NGOs, and all various anticipatory
   actors to share their perspective on disaster management and anticipatory action.
-Feature Image: "/uploads/unnamed%20(7).jpg"
 Is image top aligned: false
 Person:
 - Risham Habib
