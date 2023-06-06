@@ -138,15 +138,3 @@ En colaboración con el equipo de Tecnología y Comunidades, y los Grupos de Tra
 Las sesiones en francés e inglés se celebrarán en varios husos horarios, y podrán añadirse sesiones adicionales si hay interés de otros husos horarios e idiomas (probablemente podamos organizar una sesión en español si los participantes están dispuestos a escuchar la lengua de Cervantes despiadadamente tratada).
 
 Si, tras la sesión de intercambio de conocimientos, hay un interés sustancial de la comunidad en utilizar este flujo de trabajo, seguiremos construyéndolo en colaboración con esos usuarios. Así que si crees que esto es algo que podrías querer o necesitar, asegúrate de inscribirte en la sesión de intercambio de conocimientos en [tinyurl.com/field-mapping-tools1](https://tinyurl.com/field-mapping-tools1).
-
-> **English**: Field Mapping is the Future: A Tasking Manager Workflow Using ODK
->
-> [Read more](https://www.hotosm.org/updates/field-mapping-is-the-future-a-tasking-manager-workflow-using-odk/)
->
-> **Français**: La cartographie de terrain est l’avenir : Un flux de travail de Gestionnaire de Tâches utilisant ODK
->
-> [Read more](https://www.hotosm.org/la-cartographie-de-terrain-est-lavenir-un-flux-de-travail-de-gestionnaire-de-taches-utilisant-odk.html)
->
-> **Portugu**é**s**: O mapeamento de campo é o futuro: um fluxo de trabalho do gerenciador de tarefas usando o ODK
->
-> [Read more](https://www.hotosm.org/o-mapeamento-de-campo-e-o-futuro-um-fluxo-de-trabalho-do-gerenciador-de-tarefas-usando-o-odk.html)

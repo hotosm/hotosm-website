@@ -25,14 +25,16 @@ Duration:
 ---
 
 <video width="320" height="240" autoplay>
-  <source src="https://manage.siteleaf.com/api/v2/sites/5a708acdd838894824c43445/source/_uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4" type="video/mp4"> Your browser does not support the video tag.
+<source src="https://manage.siteleaf.com/api/v2/sites/5a708acdd838894824c43445/source/_uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4" type="video/mp4"> Your browser does not support the video tag.
 </video>
+
+![WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4](uploads/WNA_ESA_SatelliteImageryforSocialGood_MapAnimation.mp4)
 
 ### The Satellite Imagery for Social Good project was developed and implemented in Kenya and Nigeria
 
 ![WNA_ESA_SatelliteImageryforSocialGood_StaticMap1.png](/uploads/WNA_ESA_SatelliteImageryforSocialGood_StaticMap1.png)
 
-The Humanitarian OpenStreetMap Team (HOT), Microsoft’s AI for Humanitarian Action, and Open Mapping Communities in Kenya and Nigeria have contributed and validated 1.4 million building footprints and 19,131 km of road in Nakuru, Turkana, and Kisumu. In Nigeria, 1.8 million buildings in the northern states of Bauchi and Gombe have been added to the map. 
+The Humanitarian OpenStreetMap Team (HOT), Microsoft’s AI for Humanitarian Action, and Open Mapping Communities in Kenya and Nigeria have contributed and validated 1.4 million building footprints and 19,131 km of road in Nakuru, Turkana, and Kisumu. In Nigeria, 1.8 million buildings in the northern states of Bauchi and Gombe have been added to the map.
 
 The AI-generated and human-verified building footprints have contributed to the development of city plans in Nakuru county, Kenya, and efficient planning for the provision of healthcare services in Nigeria.
 
@@ -40,7 +42,9 @@ In 2021, Microsoft provided a set of AI-generated building footprints to facilit
 ![WNA_ESA_SatelliteImageryforSocialGood_ValidationScreenshot.png](/uploads/WNA_ESA_SatelliteImageryforSocialGood_ValidationScreenshot.png)
 
 ## Project Use Cases
+
 ### Kenya
+
 In Nakuru, HOT worked with the Nakuru City Board to generate building footprints, road data, and community-identified flood-prone areas in Nakuru City. Within a period of ten months, HOT trained 20 OSM members and six county and city planning officials on AI-enabled open mapping tools. The training included an introduction to OpenStreetMap's mapping tools namely, RapID and JOSM in addition to data collection tools, ODK, OSMAnd, and StreetComplete, necessary to add extra attributes such as street names, schools, and other points of interest to the [map](https://drive.google.com/file/d/1EkM31FVjKP29bgQa8a9XtCYR_zVW0CKv/view?usp=sharing).
 
 ![WNA_ESA_SatelliteImageryforSocialGood_Nakuru City Board.jpeg](/uploads/WNA_ESA_SatelliteImageryforSocialGood_Nakuru%20City%20Board.jpeg)
@@ -52,6 +56,7 @@ Urbanization and unsustainable environmental modification have significantly con
 ![WNA_ESA_SatelliteImageryforSocialGood_NakuruMap1.jpeg](/uploads/WNA_ESA_SatelliteImageryforSocialGood_NakuruMap1.jpeg)![WNA_ESA_SatelliteImageryforSocialGood_NakuruMap2.jpeg](/uploads/WNA_ESA_SatelliteImageryforSocialGood_NakuruMap2.jpeg)
 
 ### Nigeria
+
 In Nigeria, the data generated (roads and building footprints) was combined with existing health datasets from the local government and key local health actors. Project partners are planning to use this data to improve the quality of micro planning and the overall reach of health campaigns by accurately estimating and locating underserved populations in Bauchi, Borno, and Gombe states. Over 35 stakeholders, including participants from eHealth Africa, fhi360, UNICEF, and WHO, and 19 members from local OSM communities participated in workshops, training, and remote mapping activities as part of the initiative. The training sessions included an introduction to open participatory mapping, working with mobile data collection apps, and an introduction to map creation and usage.
 
 ![WNA_ESA_SatelliteImageryforSocialGood_NigeriaPicture.jpeg](/uploads/WNA_ESA_SatelliteImageryforSocialGood_NigeriaPicture.jpeg)
@@ -63,11 +68,11 @@ Bauchi State Primary Health Care Development Agency (BSPHCDA), is planning to us
 
 **[Social Imagery for Social Good video - Nigeria](https://drive.google.com/file/d/1GMcvbRQspxGRP1ebhVGYZ8ZC88R-FPpn/view)**
 
-AI-assisted mapping contributed to greater accuracy in building geometry in several places, aided faster remote mapping, improved data quality, and reduced imagery offsets. 
+AI-assisted mapping contributed to greater accuracy in building geometry in several places, aided faster remote mapping, improved data quality, and reduced imagery offsets.
 
 MapwithAI, JOSM provided community mappers with the opportunity to make the relevant amendments and validate the AI layer before adding the buildings to the OSM layer.
 
-HOT developed a conflation software to implement a [Manual Conflation Workflow](https://docs.google.com/document/d/1B5C2JLlal8kPUKaPDuUQOuQ3_16nf2ZLvqhMy0-lMNA/edit#heading=h.7p6r4h2jwv9j) across Tasking Manager’s implemented projects aiming to evaluate the quality of imported data. Additionally, a detailed analysis for the intersection of union (IoU) of the imported Microsoft AI open buildings dataset has been implemented with IoU score +90% overall.
+HOT developed a conflation software to implement a [Manual Conflation Workflow](https://docs.google.com/document/d/1B5C2JLlal8kPUKaPDuUQOuQ3_16nf2ZLvqhMy0-lMNA/edit#heading=h.7p6r4h2jwv9j) across Tasking Manager’s implemented projects aiming to evaluate the quality of imported data. Additionally, a detailed analysis for the intersection of union (IoU) of the imported Microsoft AI open buildings dataset has been implemented with IoU score \+90% overall.
 
 Challenges experienced via the AI-generated data included instances of overlapping buildings identified as one unit resulting in an incorrectly mapped outline, false positives with other structures identified as buildings, and true negatives, for example, huts in rural areas were not identified as buildings and therefore were not mapped by AI.
 
