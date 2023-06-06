@@ -1,8 +1,9 @@
 ---
-title: OpenCities Guatemala
+title: Open Cities Guatemala
 date: 2023-05-16 22:16:00 Z
 published: false
 Feature Image: "/uploads/Screenshot%202023-05-16%20at%203.11.18%20PM.png"
+Is image top aligned: true
 Country:
 - Guatemala
 Impact Area:
