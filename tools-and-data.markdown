@@ -65,7 +65,7 @@ Block 4:
   - Name: Portable OpenStreetMap (POSM)
     URL: http://posm.io/
   - Name: RapiD
-    URL: https://mapwith.ai/rapid/
+    URL: https://mapwith.ai/rapid
 Block 5:
   Header: Access OSM Data
   Text: To access OSM data, HOT built the Export Tool which allows anyone to create
