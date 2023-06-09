@@ -1,5 +1,5 @@
 ---
-title: This is the title!
+title: Markdown Styleguide
 date: 2023-06-09 15:33:00 Z
 published: false
 ---
@@ -12,7 +12,7 @@ published: false
 
 *Italics are used to set off text from the actual narrative, and are often also bolded. For example,* "***This post originally appeared on iMMAP.***"
 
-**Just bold.**
+When you want to highlight words within a sentence, just use bold.
 
 Bulleted List
 * Item
