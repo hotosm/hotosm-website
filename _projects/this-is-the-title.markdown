@@ -26,8 +26,6 @@ Ordered List
 
 I want to link to [HOTOSM](https://www.hotosm.org/).
 
-`We use the "code" option for both code that needs to be included in a post and block quotes. - Ben, Does Comms, HOT `
-
 Let's insert a photo below.
 
 ![WNA_ESA_SatelliteImageryforSocialGood_nigeria-map-2-faded-1920x1080-05aec0.png](/uploads/WNA_ESA_SatelliteImageryforSocialGood_nigeria-map-2-faded-1920x1080-05aec0.png)
