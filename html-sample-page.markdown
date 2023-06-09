@@ -22,7 +22,6 @@ Page Contact:
     or any of our local implementing partners to support the use of OpenStreetMap
     for climate and disaster risk management, please reach out.
   Contact Email: partnerships@hotosm.org
-Sidebar Text: This is sidebar text.
 ---
 
 <table style="border-bottom: none">
