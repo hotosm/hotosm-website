@@ -26,9 +26,7 @@ Ordered List
 
 I want to link to [HOTOSM](https://www.hotosm.org/).
 
-
-> This is a block quote. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. - Ben, Does Comms, HOT 
-
+`We use the "code" option for both code that needs to be included in a post and block quotes. - Ben, Does Comms, HOT `
 
 Let's insert a photo below.
 
