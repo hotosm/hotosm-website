@@ -12,7 +12,7 @@ published: false
 
 *Italics are used to set off text from the actual narrative, and are often also bolded. For example,* "***This post originally appeared on iMMAP.***"
 
-When you want to highlight words within a sentence, just use bold.
+When you want to highlight words within a sentence, **just use bold**.
 
 Bulleted List
 * Item
