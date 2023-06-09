@@ -1,8 +1,6 @@
 ---
 title: Support OpenStreetMap for Climate and Disaster Resilience
 date: 2023-04-21 16:27:00 Z
-Intro Text: All disasters begin and end locally. HOT’s vision is to strengthen local
-  resilience and preparedness.
 Page Contact:
   Label: Contact Us
   Text: If you or your organization would like to learn more or to support or partner
@@ -18,6 +16,8 @@ Page Link:
   Link: https://www.hotosm.org/impact-areas/disaster-risk-reduction/
 Feature Image: "/uploads/52305985528_8196fa909e_h.jpg"
 Is Image Top Aligned?: 
+Intro Text: All disasters begin and end locally. HOT’s vision is to strengthen local
+  resilience and preparedness.
 layout: page
 ---
 
