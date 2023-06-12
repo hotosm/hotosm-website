@@ -1,6 +1,6 @@
 ---
-title: Tropical Cyclone RICK-21 Alert
-date: 2021-10-22 19:39:00 Z
+title: Tropical Cyclone RICK-21 Size-up
+date: 2021-10-24 19:43:00 Z
 Glide: TC-2021-000002-HOT
 Event Name: Tropical Cyclone RICK-21
 GDACS ID: TC 1000841
@@ -8,12 +8,36 @@ GDACS-level: 1.5 (Orange)
 Country:
 - Mexico
 Event type: TC Tropical Cyclone
-Summary Text: Disaster Services is currently monitoring this event near Mexico
+Summary Text: 'Tropical Cyclone RICK-21 has been sized-up. '
 Feature Image: TC Tropical Cyclone
-Status: alert
-Post-type: update
+HDX: <a href="https://data.humdata.org/organization/hot?q=mexico">Mexico</a>
+Resources: N/A
+Status: size-up
+Phase: Phase 1
+Post-type: timeline
 source: <a href="https://www.gdacs.org/report.aspx?eventid=1000841&episodeid=9&eventtype=TC"
   target="_blank">GDACS</a>
 ---
 
-Tropical Cyclone RICK-21 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability.
+<h1> Ocotber 22 </h1>
+
+"Tropical Cyclone RICK-21 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability."
+
+<a href="https://www.gdacs.org/report.aspx?eventid=1000841&episodeid=9&eventtype=TC" target="_blank">GDACS</a>
+
+<h1> Ocotber 24 </h1>
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong>Tropical Cyclone Rick<br>
+<strong>Type ofEvent:</strong> Sudden Onset<br>
+<strong>Location:</strong> Guerrero, Michoacan and Jalisco Provinces, Mexico<br>
+<strong>Geographic Scope:</strong> Several Provinces in SW Mexico<br>
+<strong>Estimated Humanitarian Impact:</strong>340 thousand in Category 1 or higher<br>
+<strong>Estimated Duration:</strong>Week(s) to Month(s)<br>
+<strong>Event Scope:</strong> Moderate<be>
+<strong>Anticipated Needs:</strong> Improve basemap in impacted rural areas<br>
+<strong>Local Contacts:</strong> OSM Mexico<br>
+<strong>Request(s):</strong> 	There are no requests from partners currently<br>
+<strong>HOT Current Capacity:</strong>GREEN - Capacity is Good to manage a response<br>
+<strong>Need for Activation:</strong>	Possibly<br>
