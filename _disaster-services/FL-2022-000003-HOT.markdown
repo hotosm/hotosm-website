@@ -1,20 +1,33 @@
 ---
-title: N'Beika City Floods Mauritania Size-Up
-date: 2022-08-04 05:19:00 Z
+title: N'Beika City Floods Mauritania Activation
+date: 2022-08-05 05:27:00 Z
 Glide: FL-2022-000003-HOT
 Event Name: N'Beika City Floods Mauritania
-GDACS ID: N/A
-GDACS-level: N/A
 Country:
 - Mauritania
 Event type: Fl Flood
-Summary Text: The N'Beika City Floods Mauritania has been sized-up.
+Summary Text: This is in activation by OSM Mauritania for the Floodings in N'Beika
+  city, supported by the ESA and WNA Open Mapping Hubs.
 Feature Image: Fl Flood
 Post-type: timeline
+Campaign: N'Beika City Floods Mauritania (363)
+Tracking: hotosm-project-13112
+Report: available
 HDX: <a href="https://data.humdata.org/organization/hot?q=mauritania">Mauritania</a>
 Resources: N/A
-Status: size-up
 ---
+
+<h1>August 3</h1>
+
+"The city of N'Beika submerged at 90%, according to the daily emergency
+
+90% of the city of N'beika, within the municipality of Tamourt Ennaaj in the wilaya of Tagant is submerged.
+
+This is indicated by the Emergency Management Commission, in its daily bulletin dated Tuesday, August 2, according to which 575 families were affected by the floods."
+
+<a href="https://telafrique.com/la-ville-de-nbeika-submergee-a-90-selon-le-quotidien-des-urgences/" target="_blank">telafrique.com (with Google Translation)</a>
+
+<h1>August 4</h1>
 
 <strong>Context:</strong>"The city of N'Beika submerged at 90%, according to the daily emergency
 
@@ -38,3 +51,13 @@ Source: Teleafrique
 <strong>Need for Activation:</strong> Likely <br>
 <strong>Active Orgs:</strong> OSM Mauritania with support of HOT and other OSM community members worldwide<br>
 <strong>Lead Orgs:</strong> OSM Mauritania<br>
+
+
+<h1>August 5</h1>
+
+Context: OSM Mauritania responded to flooding in N'Beika City and the surrounding area. The HUB will be supporting with validation and documentation. 
+
+Here is the list of the project(s) to map the affected area:
+
+<a href="https://tasks.hotosm.org/projects/13112">13112, 
+SÉLIBABI CITY MAPPING PROJECT 2022</a>
