@@ -20,6 +20,7 @@ Resources: N/A
 
 
 <h1>October 13th</h1> 
+
 Context: "Heavy rains and storms have been ravishing Bali for over a week. Over the weekend, the devastation continued as weather damaged vital transportation routes and rural communities. Several bridges in West Bali collapsed due to landslides and flooding, causing delays from Gilimanuk to Denpasar."
 
 <a href="https://thebalisun.com/flash-flooding-in-bali-devastates-communities-and-cuts-off-key-transport-routes/" target="_blank">The Bali Sun and ADINet</a>
@@ -42,11 +43,11 @@ Context: "Heavy rains and storms have been ravishing Bali for over a week. Over 
 <strong>Need for Activation:</strong> Likely<br>
 <strong>Active Orgs:</strong> Bali Disaster Management Agency and U-Inspire<br>
 <strong>Lead Orgs:</strong> Open Mapping Hub Asia-Pacific
-<be>
 
 
 
 <h1>October 27th</h1> 
+
 Context: The head of the Regional Disaster Management Authority of Bali Province (BPBD Bali), I Made Rentin reported that six persons died after flash floods and landslides hit Bali in the last few days. "A number of victims who died are six. Three at Karangasem Regency, one at Bangli, one at Tabanan, and one at Jembrana," said Rentin, Tuesday (18/10).
 
 BPBD Bali is coordinating with Open Mapping Hub Asia-Pacific to support the mapping response in Jembrana District for buildings and roads. The mapped data, later on, will be used for impact analysis and combined with the affected areas captured by drone:
