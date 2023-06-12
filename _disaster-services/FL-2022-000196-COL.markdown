@@ -11,9 +11,47 @@ Event type: Fl Flood
 Summary Text: Monitoring of Floods and Landslides in Cauca, Colombia.
 Feature Image: Fl Flood
 Status: alert
-Post-type: update
+Post-type: timeline
 source: <a href="https://erccportal.jrc.ec.europa.eu/ECHO-Products/Echo-Flash#/daily-flash-archive/4633"
   target="_blank">ECHO / UNGRD</a>
+HDX: <a href="https://data.humdata.org/organization/hot?q=colombia">Colombia</a>
+Resources: N/A
+Report: available
 ---
 
-"Floods and flash floods in Valle del Cauca Department (south-western Colombia) affected 4,500 families in Buenaventura Municipality, while 150 families have been displaced in Jamundi Municipality, due to the overflow of Cauca River. In Dagua Municipality, floods affected 34 families, destroyed 14 houses, and damaged a section of a national highway."
+<h1>October 22: Alert</h1>
+
+Context: "Floods and flash floods in Valle del Cauca Department (south-western Colombia) affected 4,500 families in Buenaventura Municipality, while 150 families have been displaced in Jamundi Municipality, due to the overflow of Cauca River. In Dagua Municipality, floods affected 34 families, destroyed 14 houses, and damaged a section of a national highway."
+
+<h1>October 23: Size-up</h1>
+Context: "On 29 October 2022, the National Disaster Risk Management (UNGRD per its acronym in Spanish), declared a natural disaster due to the rainy season influenced by the La Niña phenomenon. According to the report, 289 municipalities declared public calamity in 26 departments. On 28 October, the UNGRD informed that in the department of Valle, in the municipality of Dagua, a flash flood event of the Dagua and Bitaco rivers affected 34 families, 20 houses, and 14 houses were destroyed. In the urban area of Buenaventura municipality, a flood caused by the overflowing of several rivers affected approximately 4,500 families and 1 national road was affected. In the municipality of Jamundí, a flooding of the Cauca River affected 150 families."
+
+Source: UNGRD
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong>Colombia Landslides October 2022<br>
+<strong>GDACS Alert Lvl:</strong>NA<br>
+<strong>Location:</strong>Cauca, Colombia<br>
+<strong>Geographic Scope:</strong> Municipality<br>
+<strong>Estimated Humanitarian Impact:</strong> Disruption/Displacement of Multiple Villages in imminent risk<br>
+<strong>Estimated Duration:</strong> Days to Week(s)
+<br>
+<strong>Event Scope:</strong> Minor<br>
+<strong>Local Contacts:</strong> Local Community
+<br>
+<strong>Anticipated Needs:</strong> Support local efforts<br>
+<strong>Request(s):</strong> Pre-disaster Basemap<br>
+<strong>Need for Activation:</strong> Likely<be>
+<strongRequesting Org(s):</strong> Risk Management Advisory Office of the Department of Cauca<br>
+<strong>Active Orgs:</strong> OSM Colombia, Risk Management Advisory Office of the Department of Cauca, HOT<br>
+<strong>Lead Orgs:</strong> OSM Colombia<be>
+
+<h1>October 23 - Activation</h1>
+
+
+Context: Due to the heavy rains that occurred at night and early in the morning on October 15, 2022, the community watchmen and the community action boards reported to the municipal mayor's office sudden floods and mass movements on the Topa ravine, in the municipality from Inza, Cauca:
+
+Here is the list of projects to map the affected area:
+
+<a href="https://tasks.hotosm.org/projects/13642">13642, FLOODS IN THE TOPA STREAM, IN THE INZÁ MUNICIPALITY, CAUCAARCHIVED</a>
