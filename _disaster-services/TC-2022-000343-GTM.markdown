@@ -1,21 +1,70 @@
 ---
-title: Tropical Cyclone for JULIA-22 Alert
-date: 2022-10-07 18:42:00 Z
+title: Tropical Cyclone Julia 2022 Activation
+date: 2022-10-15 19:07:00 Z
 Glide: TC-2022-000343-GTM
 Event Name: Tropical Cyclone for JULIA-22
-GDACS ID: TC 1000933
-GDACS-level: Red (2.5)
 Country:
 - Guatemala
-- Honduras
-- Nicaragua
 Event type: TC Tropical Cyclone
-Summary Text: Disaster Services is currently monitoring this event in the caribe.
+Summary Text: This is in activation by the OpenMappingHub-LATAM to support disaster
+  response to the Floodings in Guatemala.
 Feature Image: TC Tropical Cyclone
-Status: alert
-Post-type: update
-source: <a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22712&record=1&last=7663"
-  target="_blank">GDACS</a>
+Post-type: timeline
+Campaign: Tropical Cyclone Julia 2022
+Tracking: hurricanejulia
+Report: available
+HDX: <a href="https://data.humdata.org/organization/hot?q=guatemala">Guatemala</a>,  <a
+  href="https://data.humdata.org/organization/hot?q=nicaragua">Nicaragua</a>
+Resources: N/A
+Field name: 
 ---
 
+<h1>October 15</h1>
+
 "Tropical Storm Julia strengthened to hurricane level 1 and made landfall in Nicaragua causing significant rainfall in Guatemala, causing floods, landslides, and related impact"
+
+<a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22712&record=1&last=7663" target="_blank">GDACS</a>
+
+<h1>October 12</h1>
+
+"Tropical Cyclone JULIA-22 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population, and vulnerability."
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong>Hurricane Julia 2022
+<br>
+<strong>GDACS Alert Lvl:</strong>Red (2.5)<br>
+<strong>Location:</strong> Nicaragua, Honduras & Guatemala<br>
+<strong>Geographic Scope:</strong> Multiple Country Landfalls<br>
+<strong>Estimated Humanitarian Impact:</strong> 520 thousand in Category 1 or higher<br>
+<strong>Estimated Duration:</strong> Weeks to Months<br>
+<strong>Event Scope:</strong> Moderate<br>
+<strong>Local Contacts:</strong> LATAM Hub<br>
+<strong>Anticipated Needs:</strong> Filling Gaps in Basemap, Map Products<br>
+<strong>Request(s):</strong> There are no requests from partners currently<br>
+<strong>Need for Activation:</strong> Response initiated by OpenMappingHub-LATAM<br>
+<strong>Active Orgs:</strong> OMH-LATAM, HOT, Communities in region<br>
+<strong>Lead Orgs:</strong> OMH-LATAM, HOT<br>
+
+<h1>October 15</h1>
+
+<strong>Context:</strong>"Tropical Storm Julia drenched northern Central America with torrential rains that triggered deadly floods and landslides, compounding the already devasting impacts of an active rainy season.
+
+- 851K People affected in Guatemala (Julia)
+Source: CONRED
+
+
+<strong>Here is the list of projects to map the affected area (repurposed projects from Open Cities):</strong>
+ 
+- <a href="https://tasks.hotosm.org/projects/11907">11907, 
+HURRICANE JULIA, GUATEMALA: IZABAL - LOS AMATES NORTE 2
+</a>
+
+- <a href="https://tasks.hotosm.org/projects/12017"> 12017, HURRICANE JULIA, GUATEMALA: IZABAL - EL ESTOR SURARCHIVED
+</a>
+
+- <a href="https://tasks.hotosm.org/projects/12018"> 12018, HURRICANE JULIA, GUATEMALA: IZABAL - EL ESTOR ESTE
+</a>
+
+- <a href="https://tasks.hotosm.org/projects/13620"> 13620, HURRICANE JULIA, GUATEMALA: IZABAL LOWLANDS EAST
+</a>
