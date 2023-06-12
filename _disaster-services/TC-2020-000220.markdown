@@ -1,5 +1,5 @@
 ---
-title: Tropical Cyclone Eta
+title: Tropical Cyclone Eta Report
 date: 2021-01-23 12:00:00 Z
 Glide: TC-2020-000220
 Event Name: Tropical Cyclone Eta
@@ -10,12 +10,52 @@ Country:
 - Mozambique
 - Madagascar
 Event type: TC Tropical Cyclone
-Summary Text: Eta originated as a tropical wave in the eastern Caribbean Sea that
-  developed into a tropical depression late on 31 October.
-Feature Image: TC Tropical Cyclone
+Summary Text: Section on the Eta & Iota that was part of the <a href="https://hotosm.github.io/2020_DST_lessons/HTML/scrollytelling.html"
+  target="_blank">2020 Disaster Services lessons learned report</a>. It shows the
+  area that was affected by the tropical cyclones and how the data was used for disaster
+  response.
+Feature Image: TC-2020-000220-media-01
 Status: alert
-Post-type: update
+Post-type: Media
 source: NOAA
+HDX: <a href="https://data.humdata.org/organization/hot?">Regional</a>
+Resources: N/A
 ---
 
+
+
+
+<h1> October 31st </h1>
+
+<h2> Context </h2>
+
 Eta originated as a tropical wave in the eastern Caribbean Sea that developed into a tropical depression late on 31 October. Eta intensified into a major hurricane before reaching Category 4 strength on 3 November. An eyewall replacement cycle then caused the storm to weaken some, but it remained at Category 4 strength as it made landfall south of Puerto Cabezas, Nicaragua, late on 3 November. Eta rapidly weakened to tropical storm status early on 4 November. Although significantly reduced in strength, Eta, one of the most powerful storms to strike Central America since the deadly Hurricane Mitch in 1998, continued to pose concerns. In Honduras, rivers and towns on the Atlantic coast flooded, and landslides made roads impassable.
+
+
+<h2> Size up </h2>
+
+Yet another Tropical Cyclone poised to cause a humanitarian crisis; please find the size‐up below, this one we have a day
+or so to evaluate.
+Felix, I'm adding you on here as I wasn't sure you follow the AWG mailing list but I know you have some connections and
+interest in Nicaragua, where Eta is set to make landfall. If you can initiate contact with the local community that is great,
+or if you can pass along some contact(s) to me, we can take it from there.
+Event Name:Hurricane Eta
+Type of Event: Slow Onset (1+ daybefore impact)
+Location: Central America
+Geographic Scope: Countries/Region (Nicaragua, Honduras)
+Estimated Humanitarian Impact: 150,000 in Category 1 or Higher storm
+Estimated Duration: Days to Week(s)
+Event Scope: Minor to Moderate
+Local Leads: TBD
+Anticipated Needs: Looking at Disaster.Ninja the area Eta is set to make landfall appears quite sparsely mapped
+Request(s): None Yet
+HOT Current Capacity: Capacity is poorto Manage another Activation but can be added to the current team's activities;
+Support for a local response would be more efficient.
+Need for Activation: Low to Moderate
+
+
+<h1> January 23, 2021 </h1>
+
+<a href="https://hotosm.github.io/2020_DST_lessons/HTML/scrollytelling.html" target="_blank">2020 Disaster Services lessons learned report</a>
+
+Background: "Eta originated as a tropical wave in the eastern Caribbean Sea that developed into a tropical depression late on 31 October. Eta intensified into a major hurricane before reaching Category 4 strength on 3 November. An eyewall replacement cycle then caused the storm to weaken some, but it remained at Category 4 strength as it made landfall south of Puerto Cabezas, Nicaragua, late on 3 November. Eta rapidly weakened to tropical storm status early on 4 November. Although significantly reduced in strength, Eta, one of the most powerful storms to strike Central America since the deadly Hurricane Mitch in 1998, continued to pose concerns. In Honduras, rivers and towns on the Atlantic coast flooded, and landslides made roads impassable."
