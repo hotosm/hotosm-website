@@ -1,23 +1,98 @@
 ---
-title: South Sudan Floods 2022 Alert
-date: 2022-03-22 17:53:00 Z
+title: South Sudan Floods 2022 Disaster Response
+date: 2022-04-05 02:51:00 Z
 Glide: FL-2022-000001-HOT
 Event Name: South Sudan Floods 2022
-GDACS ID: NA
-GDACS-level: Orange (1.5)
 Country:
 - South Sudan
 Event type: Fl Flood
-Summary Text: Disaster Services is currently monitoring this event in South Sudan.
+Summary Text: This an activation to support OSM South Sudan for the Floodings in Unity
+  State, South Sudan.
 Feature Image: Fl Flood
-Status: alert
-Post-type: update
-source: <a href="https://africa.cgtn.com/2022/03/22/more-than-220000-people-affected-by-flooding-in-south-sudans-unity-state/"
-  target="_blank">CGTN</a>
+Post-type: timeline
+HDX: <a href="https://data.humdata.org/organization/hot?q=southsudan">South Sudan</a>
+Resources: N/A
+Campaign: South Sudan Floods 2022
+Status: size-up
+Tracking: southsudanfloods2022
+Report: available
 ---
+
+<h1> March 22nd </h1>
 
 "More than 220,000 people have been affected by the flooding in South Sudan’s Unity State, according to the UN migration agency.
 
 The floods have caused food shortages, malnutrition in children and a surge in the spread of various diseases.
 
 Parts of South Sudan are experiencing their worst flooding in 60 years with the U.N. refugee agency (UNHCR) blaming climate change for the disaster."
+
+<a href="https://africa.cgtn.com/2022/03/22/more-than-220000-people-affected-by-flooding-in-south-sudans-unity-state/" target="_blank">CGTN</a>
+
+
+<h1> April 2nd </h1>
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong>South Sudan Flooding  2022<br>
+<strong>Location:</strong> South Sudan - Unity State<br>
+<strong>Geographic Scope:</strong> Multiple population centers (9 population centers<br>
+<strong>Estimated Humanitarian Impact:</strong>	100 thousand in category 1 or higher (More than 220, 000 people affected)<br>
+<strong>Estimated Duration:</strong> Weeks to months<br>
+<strong>Event Scope:</strong> Major<br>
+<strong>Local Contacts:</strong> OSM South Sudan<br>
+<strong>Anticipated Needs:</strong> Basemap creation in areas lacking any geospatial data (Latest imagery for areas impacted)<br>
+<strong>Request(s):</strong> There are no requests from partners currently<br>
+<strong>Need for Activation:</strong> Likely<br>
+<strong>Active Orgs:</strong> OSM South Sudan and HOT<br>
+<strong>Lead Orgs:</strong> OSM South Sudan and HOT<br>
+
+
+<h1> April 5th </h1>
+
+Context: "More than 220,000 people have been affected by the flooding in South Sudan’s Unity State, according to the UN migration agency.
+
+The floods have caused food shortages, malnutrition in children and a surge in the spread of various diseases.
+
+Parts of South Sudan are experiencing their worst flooding in 60 years with the U.N. refugee agency (UNHCR) blaming climate change for the disaster." 
+
+- CGTN
+
+
+Related project: <a href="https://tasks.hotosm.org/projects/12362">12362, FLOODING IN BOR, JONGLEI STATE SOUTH SUDAN</a> 
+
+
+<h1> July 14th </h1>
+
+<h2> Debrief and After Action Review
+Support: South Sudan 2022 Floods</2>
+
+<strong>DEBRIEFING</strong><br>
+
+“More than 220,000 people have been affected by the flooding in South Sudan’s Unity State, according to the UN migration agency.
+The floods have caused food shortages, malnutrition in children, and a surge in the spread of various diseases.
+Parts of South Sudan are experiencing their worst flooding in 60 years with the U.N. refugee agency (UNHCR) blaming climate change for the disaster.”
+April 2022, CGTN 
+
+<strong>ACHIEVEMENTS</strong><br>
+
+- Projects Mapped and Validated (12506) (12505) (12507) and (12362)
+- Features mapped 1860 buildings (12505)
+- 23,064 buildings added (12506)
+- 39,429 buildings added (12362)
+- 54,734 buildings mapped(12507) 
+
+<strong>PARTNER TAKEAWAYS</strong><br>
+
+- [Good job at] Keeping them volunteers to date regularly about current, future, and past tasks. 
+- [Good job at] Sharing the progress of the mapping of the area of interest. 
+- The Spreadsheet to keep track of the progress was handy. 
+- Liked the Involvement of the local OSM community in the mapping. 
+- OSM Community: The community intended to map the areas of Fangak, Bor, Jonglei, Unity state, Central Equatoria, Bentiu and Malakal areas in South Sudan but also mapped Leinken and Leer special tasks for MSF the partner.
+
+
+<strong>HOT TEAM</strong><br>
+
+- Good: Mobilisation and connecting the OSM community to the data users MSF.
+- Needs to be Improved: Not any on this one. Reaction and participation from the local community, as well as data users, were good. One of the data users actually liked the approach of collaboration and exchanging
+- Bad: The attempt to use MapWith AI for buildings was not a success and Geoffrey changed it back to mapping directly
+
