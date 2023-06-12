@@ -1,0 +1,65 @@
+---
+title: 2022 Uganda Ebola Response
+date: 2022-10-11 18:54:00 Z
+Glide: EP-2022-000315-UGA
+Event Name: 'Uganda: Ebola Outbreak - Sep 2022'
+Country:
+- Uganda
+Event type: EP Epidemic
+Summary Text: This is in activation by OSM Uganda supported by ESA Open Mapping Hub
+  in response to the Ebola outbreak.
+Feature Image: EP Epidemic
+Post-type: timeline
+Campaign: 2022 Uganda Ebola Response
+Tracking: ebola_mapping
+Report: available
+HDX: <a href="https://data.humdata.org/organization/hot?q=uganda">Uganda</a>
+Resources: N/A
+---
+
+<h1> September 21 </h1>
+
+"The health authorities in Uganda today declared an outbreak of Ebola after a case of the relatively rare Sudan strain was confirmed in Mubende district in the central part of the country. The Uganda Virus Research Institute confirmed the case after testing a sample taken from a 24-year-old male. This follows an investigation by the National Rapid Response team of six suspicious deaths that have occurred in the district this month. There are currently eight suspected cases who are receiving care in a health facility."
+
+<a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22680&record=16&last=7649" target="_blank">GLIDE/WHO</a>
+
+<h1> October 6</h1>
+
+<strong>Context:</strong>"On 19 September 2022, the Uganda Virus Research Institute released results of a confirmed Ebola Sudan case. This is a 24-year male from Mubende district. Preliminary investigations of this event conducted by the National Rapid Response Team between 17-18 September revealed six other suspected deceased cases recorded between 1-15 September in the same district. As of 25 September, a total of 36 cases including 18 confirmed and 18 probable cases have been reported, with 23 deaths (CFR 64%). Three districts have so far been affected: Mubende, the epicentre (32 cases), Kyegegwa (3 confirmed cases) and Kassanda (1 confirmed case). Almost 67% of cases are females and 37% are aged below 20 years. Thirty five patients are currently in admission including 22 suspected and 13 confirmed cases. A total of 399 contacts have been listed with a 26% follow-up rate in the past 24hrs. "
+<br>Source: WHO, 25 Sep 2022 through Relief Web<be>  
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong>Uganda: Ebola Outbreak - Sep 2022<br>
+<strong>Location:</strong>Uganda<br>
+<strong>Geographic Scope:</strong> Country<br>
+<strong>Estimated Humanitarian Impact:</strong> 43 confirmed cases and 9 Deaths <br>
+<strong>Estimated Duration:</strong> Months<br>
+<strong>Event Scope:</strong> Moderate<be>
+<strong>Local Contacts:</strong> Uganda Red Cross, MSF, OSM Uganda, IFRC<br>
+<strong>Anticipated Needs:</strong> Basemap Improvement
+<br>
+<strong>Request(s):</strong> Documentation, Basemap improvement, Information products, Partnerships<br>
+<strong>Need for Activation:</strong> Unikely<br>
+<strong>Active Orgs:</strong> Uganda Red Cross, MSF, OSM Uganda, IFRC<br>
+<strong>Lead Orgs:</strong>OSM Uganda<br>
+
+
+<h1> October 11</h1>
+
+<strong>Context:</strong>"As of 9 October, the Ministry of Health reports 48 Ebola Virus Disease (EVD) confirmed cases in 5 districts (Mubende: 40; Kyegegwa: 3; Kasanda: 3; Kagadi: 1; Bunyangabu: 1), with 4 new EVD confirmed cases in the past 24 hours, all from Mubende district. There are 37 deaths (17 EVD confirmed, 20 probable) and 14 recoveries. 10 healthcare workers infections have been reported, with 4 deaths. 1,110 cumulative contacts listed of which 657 are under active follow-up with a follow up rate of 95% in the last 24 hours."
+<br>Source: ECHO Daily Flash of 11 October 2022<be>  
+
+Here is the list of projects to map the affected area:
+
+<a href="https://tasks.hotosm.org/projects/13579">13579, 
+UGANDA 2022 EBOLA OUTBREAK - MADUDU SUBCOUNTY MUBENDE DISTRICT
+</a>
+
+<a href="https://tasks.hotosm.org/projects/13580">13580, 
+UGANDA 2022 EBOLA OUTBREAK - KITENGA SUBCOUNTY MUBENDE DISTRICT
+</a>
+
+<a href="https://tasks.hotosm.org/projects/13581">13581, 
+UGANDA 2022 EBOLA OUTBREAK - BAGEZZA SUBCOUNTY MUBENDE DISTRICT
+</a>
