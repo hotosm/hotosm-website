@@ -8,6 +8,18 @@ Project Summary Text: In Uganda, many of the urban poor and middle-class familie
   reside in informal settlements. As the country undergoes rapid urbanization, there
   is an urgent need to plan for these settlements to provide residents with access
   to basic amenities and services.
+Feature Image: "/uploads/Uganda%20MapRi%20project%20pict.jpg"
+Is Community-Led: true
+Country:
+- Uganda
+Impact Area:
+- Sustainable Cities and Communities
+Partner:
+- - MapRI Initiative Uganda
+  - ACTogether Uganda
+  - 
+Duration:
+  Start Date: 2023-05-01 00:00:00 Z
 ---
 
 With the declaration of new cities by an Act of Parliament in Uganda, informal settlements in seven of the 15 new cities have been re-profiled to facilitate planning. However, this exercise did not include some cities such as Hoima and Lira. These cities have unique challenges, with Hoima being one of the fastest-growing cities in Uganda due to the discovery of oil and Lira being a strategic transport hub to Northern Uganda. This has led to the development of seven informal settlements in Hoima and a population of over 285,000 people in Lira, many of whom were displaced during conflicts.
