@@ -46,36 +46,29 @@ The application form can be found here: <a href="https://forms.gle/sW41g36w75eXA
 
 **Section 3:** Here we would like to learn more about your event. This asks about the date, venue, the number of participants you plan to host and the activities you plan to have during the event, and other logistics. Carefully describe what you plan to do during your event. <h3>Top tip!</h3> Break down your description into 5 key categories: (1) who (2) what (3) where (4) why (5) how? 
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head><title>TechBrij: HTML Table</title>
-</head>
-<body>
-<table cellpadding="5" cellspacing="1" border="1">
-<tr><td></td><td></td><td></td></tr>
-<tr><td>WHO?</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td></tr>
-<tr><td>Who do you plan to host at your event? Are they members of your existing "mapping group"? Are they new map contributors? Are they people from your class / academic course? Are they your friends? Etc.</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td></tr>
-<tr><td>WHAT?</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td></tr>
-<tr><td>You've already stated if you'll be doing remote mapping or field mapping. So tell us more! If you're planning on doing remote mapping</td><td> will you be using the Tasking Manager? Or if you're going to be doing field mapping</td><td> which tools will you use?</td></tr>
-<tr><td></td><td></td><td></td></tr>
-<tr><td>WHERE?</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td></tr>
-<tr><td>Tell us the location that you will be mapping</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td></tr>
-<tr><td>WHY?</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td></tr>
-<tr><td>Tell us why you are mapping this particular location</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td></tr>
-<tr><td>HOW?</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td></tr>
-<tr><td>Tell us the format of your event. Will you spend the first 20 minutes training? Will you make a presentation? Will you have validators? Etc.</td><td></td><td></td></tr>
+<table style="border-bottom: none">
+	<tr>
+		<th style="border-bottom-width: 2px"><span style="font-weight: bold">WHO?</span></th>
+		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Who do you plan to host at your event? Are they members of your existing "mapping group"? Are they new map contributors? Are they people from your class / academic course? Are they your friends? Etc.</span></th>
+	</tr>
+	<tr>
+		<td>WHAT?</td>
+		<td style="border-left: 1px solid black">You've already stated if you'll be doing remote mapping or field mapping. So tell us more! If you're planning on doing remote mapping, will you be using the Tasking Manager? Or if you're going to be doing field mapping, which tools will you use?</td>
+	</tr>
+	<tr>
+		<td>WHERE?</td>
+		<td style="border-left: 1px solid black">Tell us the location that you will be mapping</td>
+	</tr>
+	<tr>
+		<td>WHY?</td>
+		<td style="border-left: 1px solid black">Tell us why you are mapping this particular location</td>
+	</tr>
+	<tr>
+		<td>HOW?</td>
+		<td style="border-left: 1px solid black">Tell us the format of your event. Will you spend the first 20 minutes training? Will you make a presentation? Will you have validators? Etc.</td>
+	</tr>
 </table>
-</body>
-</html>
-
+<br>
 
 Please note that there is a word count on this, please stick to the word count of 400 words. Merit will not be granted to applications that go significantly over the word count (or significantly under!). 
 
