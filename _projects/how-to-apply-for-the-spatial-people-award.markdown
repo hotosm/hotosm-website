@@ -44,12 +44,14 @@ The application form can be found here: <a href="https://forms.gle/sW41g36w75eXA
 
 **Section 2:** In this section, we would like to learn more about you, the lead applicant, and your mapping group. We’ll ask you some administrative questions. These will include your contact information, where you’re based, some information about your group, and your mapping experience.
 
-**Section 3:** Here we would like to learn more about your event. This asks about the date, venue, the number of participants you plan to host and the activities you plan to have during the event, and other logistics. Carefully describe what you plan to do during your event. <h3>Top tip!</h3> Break down your description into 5 key categories: (1) who (2) what (3) where (4) why (5) how? 
+**Section 3:** Here we would like to learn more about your event. This asks about the date, venue, the number of participants you plan to host and the activities you plan to have during the event, and other logistics. Carefully describe what you plan to do during your event. 
+
+**Top tip!** Break down your description into 5 key categories: (1) who (2) what (3) where (4) why (5) how? 
 
 <table style="border-bottom: none">
 	<tr>
-		<th style="border-bottom-width: 2px"><span style="font-weight: bold">WHO?</span></th>
-		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Who do you plan to host at your event? Are they members of your existing "mapping group"? Are they new map contributors? Are they people from your class / academic course? Are they your friends? Etc.</span></th>
+		<td style="border-left: 1px solid black">WHO?</th>
+		<td style="border-left: 1px solid black">Who do you plan to host at your event? Are they members of your existing "mapping group"? Are they new map contributors? Are they people from your class / academic course? Are they your friends? Etc.</th>
 	</tr>
 	<tr>
 		<td>WHAT?</td>
