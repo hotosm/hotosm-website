@@ -76,15 +76,15 @@ Please note that there is a word count on this, please stick to the word count o
 
 In this section, we will also ask you to complete a budget using this <a href="https://docs.google.com/spreadsheets/d/1YLM83jqwL6dhqM4Qh8YmtmuP1vwPR9lJW7_AAteyOtw/edit?usp=sharing">budget template</a>. In your budget, we expect to see a list of things that you purchase with your Spatial People Award. A guide on how to complete the budget is included in the budget template.  
 
-<h3>Section 4:</h3> This is an opportunity for you to make a request from the OMH-ESA so that you feel 100% supported in rolling out your event. Tell us if there is any additional support that you think you might need. 
+**Section 4:** This is an opportunity for you to make a request from the OMH-ESA so that you feel 100% supported in rolling out your event. Tell us if there is any additional support that you think you might need. 
 
-<h1>Timeline…</h1>
+## Timeline…
 
 You can apply for a Spatial People Award at any time of the year. Applications will be reviewed in the first week of every month. Since the awards will be granted monthly, we request applicants apply at least 4 weeks before your event. Successful applicants will be notified within a week of your application submission. 
 
 To share the Spatial Joy across all our countries, countries awarded in any cohort can only re-apply after 3 months.
 
-<h1>Expectations…</h1>
+## Expectations…
 
 If you are granted a Spatial People Award, there are some things that we expect of you. These include: 
 
@@ -96,7 +96,7 @@ If you are granted a Spatial People Award, there are some things that we expect 
 - A short narrative report that captures (1) the number of participants that attended your event (2) what you did and how it went (3) any areas of improvement for your next event. This helps us to learn and  improve our programs
 - Ultimately, we expect you and your peers to have a fun Spatial time!
 
-<h1>Eligible costs…</h1>
+## Eligible costs…
 
 The Spatial People Award is for individuals, groups, and communities looking to host open mapping events, locally. This means that eligible costs include all costs that are associated with hosting events. There are five categories of costs that the award will cover. This includes: 
 
@@ -111,9 +111,9 @@ The Spatial People Award is for individuals, groups, and communities looking to 
 - Costs towards paying a personal stipend to organizers, hiring a consultant to support project implementation 
 - Travel expenses that do not align directly to mapping project needs (for example costs towards attending a conference).
 
-<h1> Frequently asked questions…</1>
+## Frequently asked questions…
 
-if you have any questions, you can reach out to getstarted@hotosm.org. But before you do, we recommend that you read through these Frequently Asked Questions first (just in case your question has already been answered!) 
+If you have any questions, you can reach out to getstarted@hotosm.org. But before you do, we recommend that you read through these Frequently Asked Questions first (just in case your question has already been answered!) 
 
 Do I have to write my application in English? No. You can submit your grant application in the language that you feel most comfortable using. 
 
