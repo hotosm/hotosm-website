@@ -1,9 +1,8 @@
 ---
-title: How to apply for the Spatial People Award
+title: 'The Spatial People Award: Applications are Ongoing!'
 date: 2023-05-16 20:57:00 Z
 published: false
-Project Summary Text: What we’re looking for…
-Feature Image: "/uploads/Screenshot%202023-05-16%20at%201.58.07%20PM.png"
+Feature Image: "/uploads/Spatial%20People%20Award.png"
 Impact Area:
 - Public Health
 - Gender Equality
@@ -12,38 +11,40 @@ Impact Area:
 - Sustainable Cities & Communities
 ---
 
+## What we’re looking for…
+
 The Spatial People Award is open to mapping groups in the Eastern and Southern Africa region. We expect lead applicants to: 
 
-- have edited on OpenStreetMap before (please note that we ask for your OSM username here to check this on our side)
+* Have edited on OpenStreetMap before (please note that we ask for your OSM username here to check this on our side)
 have attended a virtual or in-person mapathon
-- If you have experience organizing events (or have organized a mapathon before, that’s a plus!)
+* If you have experience organizing events (or have organized a mapathon before, that’s a plus!)
 
 If you haven’t done any of the above, follow us on <a href="https://twitter.com/openmapping_esa">Twitter</a> to learn more about upcoming events that you can participate in so that you can gain the experience to apply for the Spatial People Award.
 
-<h3>The selection process will consider;</h3>
+## The selection process will consider;
 
-- Clear and detailed event details (date, venue, activities, participants). Activities should be directed at improving OpenStreetMap data through remote or field mapping activities
-- An event with great participation and involvement of OSM volunteers and other spatial people in your community.  Please note that in-person or hybrid events are preferred. 
-- Social media indicating previous events organized by the applicants
-Character reference, you are encouraged to check with your referee before listing them
+* Clear and detailed event details (date, venue, activities, participants). Activities should be directed at improving OpenStreetMap data through remote or field mapping activities
+* An event with great participation and involvement of OSM volunteers and other spatial people in your community.  Please note that in-person or hybrid events are preferred. 
+* Social media indicating previous events organized by the applicants
+* Character reference, you are encouraged to check with your referee before listing them
 
-<h1>Who can apply…</h1>
+## Who can apply…
 
 You are eligible to apply for the Spatial People Award if you are a mapping group within the Eastern and Southern Africa region. We consider a mapping group as a self-organized group of individuals who are interested in or plan activities that involve open mapping. This might include a Youth Mappers Chapter and a national (or local) OSM community group. Please note: your application won't be affected if you are applying as a member of a "mapping group" or not. 
 
 Experience organizing mapping events will be considered. If this will be your first event, please let us know and we will be happy to support you. 
 
-<h2>Applications will be reviewed on a rolling basis</h2>
+**Applications will be reviewed on a rolling basis.**
 
-<h1>How to apply…</h1>
+## How to apply…
 
 The application form can be found here: <a href="https://forms.gle/sW41g36w75eXAV7F7">Spatial People Award Application Form</a>. The Application forms consist of 4 sections: 
 
-<h3>Section 1;</h3> Provides general information about the Spatial People Award. The only action from you is to share your email address. 
+**Section 1:** Provides general information about the Spatial People Award. The only action from you is to share your email address. 
 
-<h3>Section 2;</h3> In this section, we would like to learn more about you, the lead applicant, and your mapping group. We’ll ask you some administrative questions. These will include your contact information, where you’re based, some information about your group, and your mapping experience.
+**Section 2:** In this section, we would like to learn more about you, the lead applicant, and your mapping group. We’ll ask you some administrative questions. These will include your contact information, where you’re based, some information about your group, and your mapping experience.
 
-<h3>Section 3</h3>: Here we would like to learn more about your event. This asks about the date, venue, the number of participants you plan to host and the activities you plan to have during the event, and other logistics. Carefully describe what you plan to do during your event. <h3>Top tip!</h3> Break down your description into 5 key categories: (1) who (2) what (3) where (4) why (5) how? 
+**Section 3:** Here we would like to learn more about your event. This asks about the date, venue, the number of participants you plan to host and the activities you plan to have during the event, and other logistics. Carefully describe what you plan to do during your event. <h3>Top tip!</h3> Break down your description into 5 key categories: (1) who (2) what (3) where (4) why (5) how? 
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
