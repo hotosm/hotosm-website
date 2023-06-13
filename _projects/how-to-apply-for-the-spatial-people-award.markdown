@@ -50,8 +50,8 @@ The application form can be found here: <a href="https://forms.gle/sW41g36w75eXA
 
 <table style="border-bottom: none">
 	<tr>
-		<td style="border-left: 1px solid black">WHO?</th>
-		<td style="border-left: 1px solid black">Who do you plan to host at your event? Are they members of your existing "mapping group"? Are they new map contributors? Are they people from your class / academic course? Are they your friends? Etc.</th>
+		<th style="border-bottom-width: 1px">WHO?</th>
+		<td style="border-left: 1px solid black">Who do you plan to host at your event? Are they members of your existing "mapping group"? Are they new map contributors? Are they people from your class / academic course? Are they your friends? Etc.</span></th>
 	</tr>
 	<tr>
 		<td>WHAT?</td>
