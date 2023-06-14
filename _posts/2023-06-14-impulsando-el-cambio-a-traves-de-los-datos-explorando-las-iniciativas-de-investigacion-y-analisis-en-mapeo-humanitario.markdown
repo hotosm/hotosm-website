@@ -10,6 +10,7 @@ categories:
 Summary Text: 'A medida que nos sumergimos en la segunda mitad de 2023, nos sentimos
   ilusionados de compartir los progresos realizados por HOT y el equipo de comunidad
   en el uso de los datos de OSM para la toma de decisiones bien informadas.  '
+Person: Rubén Martín
 ---
 
 *[English version of this post](https://www.hotosm.org/updates/driving-change-through-data-exploring-humanitarian-mapping-research-and-analysis-initiatives/)*
