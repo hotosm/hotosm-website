@@ -37,7 +37,7 @@ Seleccionamos cuatro países en cada región donde HOT tiene un Open Mapping Hub
 
 Mediante el análisis del número de colaboradores activos/nuevos y de los elementos añadidos al mapa entre 2017 y 2022, pretendimos proporcionar un análisis global que ofreciera información general para futuras investigaciones. Aunque este análisis inicial no examina las causas profundas ni propone soluciones específicas, sirve como punto de partida para una exploración más profunda.
 
-\*\*Principales conclusiones del análisis
+**Principales conclusiones del análisis**
 
 1. En los últimos cinco años, se ha producido un descenso en el número de colaboradores en la mayoría de los países analizados.
 
