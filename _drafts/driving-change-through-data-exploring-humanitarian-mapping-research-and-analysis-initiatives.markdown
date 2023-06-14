@@ -9,7 +9,6 @@ categories:
 Summary Text: 'As we dive into the second half of 2023, we are thrilled to share the
   progress made by HOT and the Community Team in leveraging OSM data for informed
   decision making.  '
-Feature Image: "/uploads/stats-icon-271781.png"
 Person: Rubén Martín
 ---
 
