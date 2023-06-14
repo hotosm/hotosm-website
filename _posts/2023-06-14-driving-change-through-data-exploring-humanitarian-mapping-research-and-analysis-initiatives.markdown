@@ -12,6 +12,8 @@ Summary Text: 'As we dive into the second half of 2023, we are thrilled to share
 Person: Rubén Martín
 ---
 
+*[Versión en español](https://www.hotosm.org/updates/impulsando-el-cambio-a-traves-de-los-datos-explorando-las-iniciativas-de-investigacion-y-analisis-en-mapeo-humanitario/)*
+
 Hello! I'm [Rubén Martín](https://www.hotosm.org/people/ruben-martin/), HOT's Community Strategist and Research Lead, and in this blog post, I aim to highlight our recent achievements and extend an invitation to OSM communities, contributors, organizations, and individuals interested in OSM data to collaborate with us on analysis and research endeavors.
 
 ## Focusing on Actionable Insights: A Data-Driven Approach
