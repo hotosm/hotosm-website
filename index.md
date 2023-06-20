@@ -4,11 +4,11 @@ position: 0
 description: HOT is an international team dedicated to humanitarian action and community
   development through open mapping.
 Banner:
-  Is Activated: false
-  Main Block: We want your feedback!
-  Secondary Block: Our website is going through a redesign— be a part of the process
-  Link Copy: Fill out the survey here
-  URL: https://docs.google.com/forms/d/e/1FAIpQLSdFtSUgd-N96cEhf8dlCU4AvMftwImj0Zku6BS69TVAKPpT5w/viewform
+  Is Activated: true
+  Main Block: We are currently supporting to flood response in Ecuador.
+  Secondary Block: 
+  Link Copy: See our current disaster response mapping campaigns.
+  URL: https://www.hotosm.org/disaster-services/project_activations.html
 Project:
 - HOT's Response to the Turkey & Syria Earthquake
 - Satellite Imagery for Social Good
