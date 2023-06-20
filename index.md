@@ -5,7 +5,7 @@ description: HOT is an international team dedicated to humanitarian action and c
   development through open mapping.
 Banner:
   Is Activated: true
-  Main Block: We are currently supporting to flood response in Ecuador.
+  Main Block: We are currently supporting flood response in Ecuador.
   Secondary Block: 
   Link Copy: See our current disaster response mapping campaigns.
   URL: https://www.hotosm.org/disaster-services/project_activations.html
