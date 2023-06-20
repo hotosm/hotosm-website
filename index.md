@@ -6,8 +6,8 @@ description: HOT is an international team dedicated to humanitarian action and c
 Banner:
   Is Activated: true
   Main Block: We are currently supporting flood response in Ecuador.
-  Secondary Block: 
-  Link Copy: See our current disaster response mapping campaigns.
+  Secondary Block: See our current disaster response mapping campaigns.
+  Link Copy: 
   URL: https://www.hotosm.org/disaster-services/project_activations.html
 Project:
 - HOT's Response to the Turkey & Syria Earthquake
