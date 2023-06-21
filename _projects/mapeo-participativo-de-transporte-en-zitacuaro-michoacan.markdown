@@ -24,7 +24,8 @@ Partner:
 - Codeando México
 - YouthMappers
 Duration:
-  End Date: 2023-05-24 00:00:00 Z
+  Start Date: 2022-08-15 00:00:00 Z
+  End Date: 2023-05-23 00:00:00 Z
 ---
 
 Zitácuaro, cuyo nombre proviene de Tsitákuarhu (Mazahua), es un municipio ubicado en el valle de Quencio al oriente del estado de Michoacán, México. Su ubicación geográfica, un valle rodeado de cerros y bosques, lo convierte en un lugar con una gran belleza natural, pero también en un desafío para la planificación de la red de transporte público.
