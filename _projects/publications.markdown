@@ -2,10 +2,11 @@
 title: Open Mapping Hub - LAC's Publications
 date: 2023-05-16 22:29:00 Z
 published: false
-Project Summary Text: 'Here we document the activities of HOT''s Open Mapping Hub
-  - Latam
-
-'
+tags:
+- latam
+- caribbean
+Project Summary Text: Here we document the activities of HOT's Open Mapping Hub -
+  LAC
 Feature Image: "/uploads/LAC_PublicationsHeader.png"
 Impact Area:
 - Public Health
