@@ -92,15 +92,16 @@ Esta série de atividades conta com o apoio inestimável de: Instituto Geofísic
 ![LAC_VolcanesEcuador10.jpeg](/uploads/LAC_VolcanesEcuador10.jpeg)
 ## Créditos
 Por ordem de aparecimento:
-Foto Volcan Cayambe: [David Ceballos en Flickr](https://www.flickr.com/photos/81329542@N05/46162371854). Licencia [Attribution 2.0 Generic (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/)
 
-Foto Laptop: [Medialab Katowice en Flickr](https://www.flickr.com/photos/medialabkatowice/16780117127/). Licencia [Attribution 2.0 Generic (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/)
+* Foto Volcan Cayambe: [David Ceballos en Flickr](https://www.flickr.com/photos/81329542@N05/46162371854). Licencia [Attribution 2.0 Generic (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/)
 
-Foto Volcán Cayambe: [Slack12 en Flickr.](https://www.flickr.com/photos/slack12/4452293235/) Licencia [Attribution-NonCommercial-NoDerivs 2.0 Generic (CC BY-NC-ND 2.0)](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+* Foto Laptop: [Medialab Katowice en Flickr](https://www.flickr.com/photos/medialabkatowice/16780117127/). Licencia [Attribution 2.0 Generic (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/)
 
-Foto Alpaca: [Matthew Smith en Flickr](https://www.flickr.com/photos/96701339@N04/51385636959/). Licencia [Attribution 2.0 Generic (CC BY 2.0)]([Attribution 2.0 Generic (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/))
+* Foto Volcán Cayambe: [Slack12 en Flickr.](https://www.flickr.com/photos/slack12/4452293235/) Licencia [Attribution-NonCommercial-NoDerivs 2.0 Generic (CC BY-NC-ND 2.0)](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
-Foto Cumbre del Cayambe: [David Ceballos en Flickr.](https://www.flickr.com/photos/81329542@N05/32975841048/) Licencia [Attribution 2.0 Generic (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/)
+* Foto Alpaca: [Matthew Smith en Flickr](https://www.flickr.com/photos/96701339@N04/51385636959/). Licencia [Attribution 2.0 Generic (CC BY 2.0)]([Attribution 2.0 Generic (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/))
+
+* Foto Cumbre del Cayambe: [David Ceballos en Flickr.](https://www.flickr.com/photos/81329542@N05/32975841048/) Licencia [Attribution 2.0 Generic (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/)
 
 
 
