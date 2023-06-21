@@ -1,9 +1,12 @@
 ---
-title: Publicaciones del Hub de Mapeo Abierto en LAC
+title: Publicaciones del Hub de Mapeo Abierto para LAC
 date: 2023-05-16 22:26:00 Z
 published: false
+tags:
+- Latam
+- caribe
 Project Summary Text: Acá documentamos las actividades del Hub de Mapeo Abierto -
-  Latam de HOT
+  LAC de HOT
 Feature Image: "/uploads/LAC_PublicationsHeader.png"
 Impact Area:
 - Public Health
