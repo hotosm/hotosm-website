@@ -2,6 +2,16 @@
 title: Mapeo participativo de transporte en Zitácuaro, Michoacán
 date: 2023-05-16 21:23:00 Z
 published: false
+categories:
+- access to services
+tags:
+- transporte
+- movilidad
+- zitacuaro
+- mexico
+Project Summary Text: Este proyecto busca digitalizar los recorridos de las rutas
+  de transporte público de Zitácuaro, para posteriormente publicarlos como datos abiertos
+  en diversas plataformas.
 Feature Image: "/uploads/LAC_ParticipatoryTransportMappingZitacuaro_header.webp"
 Country:
 - Mexico
