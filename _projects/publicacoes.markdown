@@ -2,9 +2,10 @@
 title: Publicações do Centro de Mapeamento Aberto da LAC
 date: 2023-05-16 22:29:00 Z
 published: false
-Project Summary Text: 'Aqui documentamos as atividades do Open Mapping Hub - HOT Latam
-
-'
+tags:
+- latam
+- caribe
+Project Summary Text: Aqui documentamos as atividades do Open Mapping Hub - HOT LAC
 Feature Image: "/uploads/LAC_PublicationsHeader.png"
 Impact Area:
 - Public Health
