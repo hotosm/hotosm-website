@@ -11,6 +11,17 @@ Impact Area:
 - Disasters & Climate Resilience
 - Sustainable Cities & Communities
 - Gender Equality
+Partner:
+- AEON Art Gallery
+- Fundación Openlab Ecuador
+- GeoMap ESPE
+- Instituto Geofísico del Ecuador
+- Escuela Politécnica Nacional
+- GADIP Cayambe
+- Youthmappers
+- Everywhere she Maps
+- Mapillary
+- Instituto Latinoamericano Simón Rodriguez
 Duration:
   Start Date: 2022-08-06 00:00:00 Z
   End Date: 2022-10-05 00:00:00 Z
