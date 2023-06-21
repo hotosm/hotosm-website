@@ -4,6 +4,15 @@ title: |-
   Zitácuaro, Michoacán
 date: 2023-05-16 22:23:00 Z
 published: false
+categories:
+- access to services
+tags:
+- mexico
+- Zitacuaro
+- transport
+- mobility
+Project Summary Text: This project seeks to digitize the routes of public transport
+  routes in Zitácuaro, to later publish them as open data on various platforms.
 Feature Image: "/uploads/LAC_ParticipatoryTransportMappingZitacuaro_header.webp"
 Country:
 - Mexico
@@ -11,6 +20,10 @@ Impact Area:
 - Sustainable Cities & Communities
 Partner:
 - Municipality of Zitácuaro
+- Cocotra
+- Trufi
+- Codeando Mexico
+- YouthMappers
 Duration:
   End Date: 2023-05-24 00:00:00 Z
 ---
@@ -26,7 +39,7 @@ This project, a collaboration between the Mobility office of the municipality of
 ## Project objectives
 
 ### Citizenry
- 
+
 Provide citizens with quality data so that they are better informed about routes, schedules, prices and thus allow them to make better decisions when commuting.
 
 ![LAC_ParticipatoryTransportMappingZitacuaro_CitizensInsideBus.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_CitizensInsideBus.webp)
@@ -38,6 +51,7 @@ Provide quality data to the municipal government and organizations for better la
 ![LAC_ParticipatoryTransportMappingZitacuaro_Motorbike.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Motorbike.webp)
 
 ### Data
+
 Design a printable digital map of public transportation to install in strategic places.
 
 ![LAC_ParticipatoryTransportMappingZitacuaro_Mapwithroutes.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Mapwithroutes.webp)
@@ -57,15 +71,20 @@ Survey of routes in the field through the use of a mobile app specialized in map
 ![LAC_ParticipatoryTransportMappingZitacuaro_Phase2.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Phase2.webp)
 
 ### Phase 3
+
 * Data cleaning, verification, and opening of data.
-* Printable digital map design. 
+
+* Printable digital map design.
+
 * Data integration to OpenStreetMap.
-* Linking with the Trufiapp travel planning app (open source) and other similar ones. 
-This phase integrates the active participation of the <a href="https://twitter.com/ym_uaemex">Youthmappers UAEMEX</a> student group from Toluca, trained in this topic.
+
+* Linking with the Trufiapp travel planning app (open source) and other similar ones.
+  This phase integrates the active participation of the  [Youthmappers](https://twitter.com/ym_uaemex) [UAEMEX](https://www.facebook.com/profile.php?id=100078038342164) student group from Toluca, trained in this topic.
 
 ![LAC_ParticipatoryTransportMappingZitacuaro_Phase3.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Phase3.webp)
 
 ## Project development
+
 ### Analysis of previous information
 
 Before starting the mapping, a preliminary investigation of all available data and documentation was carried out in order not to duplicate efforts.
@@ -75,6 +94,7 @@ In the case of Zitácuaro, in 2017 a diagnosis of the public transport service h
 ![LAC_ParticipatoryTransportMappingZitacuaro_Analysisofpreviousinfo.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Analysisofpreviousinfo.webp)
 
 ### Mapping brigades and territorial strategy
+
 Mapping public transport routes requires going through the routes in the real world, and the use of an application or system with GPS to carry out a survey of geographic information on them.
 
 For the Zitácuaro Mapathon, the municipality's Mobility office recruited fifteen volunteers, mostly students from the Zitácuaro Technological Institute, who were joined by employees of COCOTRA and the municipal mobility office, making a total of 17 people mapping.
@@ -88,13 +108,14 @@ For the mapping, the choice was MapMap, a specific app for mapping transportatio
 ![LAC_ParticipatoryTransportMappingZitacuaro_MappingBrigades.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_MappingBrigades.webp)
 
 ### Routes pre-processing
+
 The mapping of routes was completed in January 2023, thanks to the efforts of the municipal team of Zitácuaro and the management of Codeando México.
 
 Before being able to use the mapped routes, it was necessary to pre-process the generated geographic files to clean them, make sure that all the points fall on a street and not on a building due to errors in the GPS signal, as well as process them to homologate them and so on be able to upload them to both OpenStreetMap and Google Maps.
 
 The Codeando México group and local agents were in charge of this cleaning process, under the direction of Trufi-association, with the students of the Salesian College of Duitama, Colombia, and the Youthmappers chapter of the UAEMEX, previously trained for this process.
 
-### Data integration and follow-up
+### `Data integration and follow-up`
 
 Once the data was ready, it was integrated into OpenStreetMap to be accessed from the "Rutometro", a personalized copy of the Trufi-app, developed by the Trufi Association, and all this was delivered to COCOTRA and the municipality of Zitácuaro on [Tuesday, May 23](https://www.mizitacuaro.com/noticias/michoacan/cocotra-pone-en-marcha-en-zitacuaro-la-aplicacion-movil-rutometro/247507/), 2022.
 
@@ -103,8 +124,11 @@ To date we are in conversations about the mapping of more Michoacán cities and 
 ![LAC_ParticipatoryTransportMappingZitacuaro_MapRoutesPreprocessing.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_MapRoutesPreprocessing.webp)
 
 ## The project in a nutshell
+
 This project provides a participatory solution based on the previous experience of the OpenStreetMap community in different countries (Nicaragua, Colombia, Bolivia, Dominican Republic, etc.).
+
 It mobilizes, links and strengthens organizations in the systematization of this knowledge and supports its possible replication in more cities.
+
 It coordinates the data collection, the training of local volunteers, the preparation and insertion of data in open technologies that will allow its free use.
 
 ![LAC_ParticipatoryTransportMappingZitacuaro_NotaPapel.jpeg](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_NotaPapel.jpeg)
