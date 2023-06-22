@@ -1,7 +1,7 @@
 ---
 title: Heather Leson
 date: 2013-12-01 16:39:00 Z
-Photo: "/uploads/HeatherLeson-300x169-2fb66c.jpg"
+Photo: "https://cdn.hotosm.org/website/HeatherLeson-300x169-2fb66c.jpg"
 Member Type:
   Is Voting Member: true
   Is Board Member: false

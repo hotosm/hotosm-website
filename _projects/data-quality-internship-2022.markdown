@@ -2,7 +2,7 @@
 title: Data Quality Internship 2022
 date: 2023-05-18 19:09:00 Z
 published: false
-Feature Image: "/uploads/Grid%20for%20DQI%20Interns.png"
+Feature Image: "https://cdn.hotosm.org/website/Grid+for+DQI+Interns.png"
 Person:
 - Rebecca Chandiru
 Duration:

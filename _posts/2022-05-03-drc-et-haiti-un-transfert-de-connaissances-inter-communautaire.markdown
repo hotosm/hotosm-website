@@ -4,7 +4,7 @@ date: 2022-05-03 12:20:00 Z
 Summary Text: Lorsqu'il est devenu évident que le projet de collaboration entre HOT
   et l'organisation communautaire COSMHANNE en Haïti nécessitait un volet de formation
   technique OSM en français, la communauté OSM RDC est intervenue.
-Feature Image: "/uploads/IMG_2130.JPG"
+Feature Image: "https://cdn.hotosm.org/website/IMG_2130.JPG"
 Person:
 - Muluba Bienvenu
 - Wendy Delva
@@ -26,7 +26,7 @@ Bien que le projet ait rencontré plusieurs défis difficiles (qui seront abord�
 
 > “Personnellement, j'ai eu l'occasion d'échanger mon expérience et mes connaissances avec des contributeurs hors RDC et, à ce jour, nous continuons à échanger avec certains contributeurs de COSMHANNE.” - Muluba, OSM RDC
 
-![IMG_3524.JPG](/uploads/IMG_3524.JPG)
+![IMG_3524.JPG](https://cdn.hotosm.org/website/IMG_3524.JPG)
 
 L'achèvement récent du projet de cartographie communautaire GCC de la communauté OSM RDC \[LINK ?\] signifiait que l'équipe du Nord Kivu était prête, avec du matériel de formation déjà développé et une foule d'expériences récentes à son actif (>200 personnels de santé congolais formés à OSM et aux SIG). En outre, l'équipe de la RDC connaissait bien les contraintes auxquelles la communauté haïtienne était confrontée; notamment les problèmes de connectivité et les difficultés liées aux ressources; et comprenait les difficultés contextuelles, tels que les conflits, les problèmes de santé et les catastrophes naturelles.
 
@@ -36,7 +36,7 @@ Durant six jours, la communauté OSM RDC a formé  à la collecte de données, �
 
 Les retours sur la formation ont été excellents. Wendy de COSMHANNE affirme que "l'approche participative a permis beaucoup d'échanges et d'interactions et était bien conçue et adaptée aux circonstances. Le grand défi était de synthétiser un vaste programme de formation à l'essentiel qui devait être délivré en quelques jours et cela a été fait brillamment dans une séquence cohérente de modules."
 
-![IMG_2715.JPG](/uploads/IMG_2715.JPG)
+![IMG_2715.JPG](https://cdn.hotosm.org/website/IMG_2715.JPG)
 
 Et les participants haïtiens n'ont pas été les seuls à bénéficier de la méthodologie d'apprentissage par les pairs. Christian d'OSM RDC a souligné que cette initiative "à permis à la communauté OSM RDC de s'ouvrir aux autres et de montrer son expertise. En développant et en reproduisant cela, nous pouvons devenir plus compétents et fournir des formations adaptées aux choix et aux besoins des participants d'OSM."
 

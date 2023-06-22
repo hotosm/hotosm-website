@@ -10,7 +10,7 @@ tags:
 - OpenLabEc
 Summary Text: The collaboration of experienced free culture activists with new mappers
   is renewing the landscape of collaborative cartography in Ecuador.
-Feature Image: "/uploads/lloa7.webp"
+Feature Image: "https://cdn.hotosm.org/website/lloa7.webp"
 Is image top aligned: false
 ---
 
@@ -20,7 +20,7 @@ On April 16, 2016, a magnitude 7.8 [earthquake](https://en.wikipedia.org/wiki/20
 
 This was made possible mainly by the [collaboration](https://www.newyorker.com/news/news-desk/creating-a-map-to-navigate-the-post-earthquake-landscape-in-ecuador) of hundreds of volunteers, local and from various parts of the world, who did their bit by donating their time and knowledge to help this humanitarian mapping project. In this regard, you can see Rafael Castro's interesting [data analysis](https://ruevko.github.io/hexagonal/post/2021/04/16-mapping-ecuador-contribuciones/) on the contribution rate and contributions over time.
 
-![plot-lat-lon-1.png](/uploads/plot-lat-lon-1.png)
+![plot-lat-lon-1.png](https://cdn.hotosm.org/website/plot-lat-lon-1.png)
 
 *`Heatmap of nodes contributed during Mapping Ecuador. Taken from Rafael Castro's blog. License (CC BY–SA 4.0).`*
 
@@ -30,7 +30,7 @@ But the landscape of open mapping in Ecuador has changed a bit and now the commu
 
 [Mariela Centeno](https://twitter.com/marielacenteno) is a member of GeoMap ESPE, but she is also a Regional Ambassador of the Youthmappers. As such she is always looking for mapping opportunities and projects to support. Last year she published an article titled [Mapping a Hidden Paradise during a Pandemic](https://www.youthmappers.org/post/mapeando-un-para%C3%ADso-escondido-en-pandemia-mapping-a-hidden-paradise-during-a-pandemic), detailing her experience mapping tourist sites in Lloa, part of the Quito Metropolitan District.
 
-![Lloa 3.jpg](/uploads/Lloa%203.jpg)
+![Lloa 3.jpg](https://cdn.hotosm.org/website/Lloa+3.jpg)
 
 *`Daniel Moreno and Karla Meza taking information with the help of surveys. Members of GeoMap-ESPE socializing the project with residents of the area. Images from Youthmappers.`*
 
@@ -40,7 +40,7 @@ Mariela summarizes the work:
 
 > More than 50 points of a tourist nature were obtained in the Lloa parish, more than 180 surveys carried out on the inhabitants of the Parish were tabulated, relevant information was collected such as fields, churches, health centers and some productivity places which did not appear in the platform.
 
-![Lloa 6.jpg](/uploads/Lloa%206.jpg)
+![Lloa 6.jpg](https://cdn.hotosm.org/website/Lloa+6.jpg)
 
 *`GeoMap ESPE-YouthMappers group in Cruz Loma of the Lloa parish and its location in the OSM platform. Images by Youthmappers.`*
 
@@ -50,6 +50,6 @@ The [OpenLabEc](https://openlab.ec/) is "a citizen laboratory of technologies an
 
 As part of the aforementioned lines of work, OpenlabEc is interested in dynamizing the Ecuadorian OSM community in order to have a strong civil society in case of need, caused or not by natural disasters. This translates into a willingness to organize events and training with universities, associations, and people active in OSM, so they organized a [virtual event](https://openlab.ec/actividad/de-que-trata-openstreet-map-hot-y-youthmappers#no-back) to spread three initiatives that go hand in hand: OpenStreetMap, HOT and Youthmappers.
 
-![VideoWebinarOpenlabec.jpg](/uploads/VideoWebinarOpenlabec.jpg)
+![VideoWebinarOpenlabec.jpg](https://cdn.hotosm.org/website/VideoWebinarOpenlabec.jpg)
 
 Here is the [video](https://www.youtube.com/watch?v=1wOjNvIxlzk) of that event. The experience was satisfactory for OpenLabEc and a new session or webinar is already being planned for the month of June. On the other hand, both the Youthmappers and the mapping community of Ecuador are planning new activities that they will tell us about. We will be informing you in future publications and on our social networks!

@@ -5,7 +5,7 @@ categories:
 - data
 tags:
 - data quality
-Feature Image: "/uploads/unnamed-55614c.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/unnamed-55614c.jpeg"
 Is image top aligned: true
 Person:
 - Paul Uithol
@@ -45,7 +45,7 @@ The HeiGIT team at Heidelberg University has addressed OSM data quality question
 
 Bringing OSM data quality research into practice and to better understand what is the “purpose” OSM data should be fit for, HOT has defined its [5 Impact areas](https://www.hotosm.org/impact-areas/impact-areas/). This helps us decide what we consider to be the core datasets (and OSM data models) that HOT’s communities and partners use. The impact areas are also the starting points to define a set of “data use cases” that contribute most to HOT’s overall mission and strategy.
 
-![unnamed (1)-f5c90b.png](/uploads/unnamed%20(1)-f5c90b.png)
+![unnamed (1)-f5c90b.png](https://cdn.hotosm.org/website/unnamed+(1)-f5c90b.png)
 
 This leads to a set of requirements that indicate when data is suitable to satisfy selected data use cases.Along with identifying metrics and measurements of data quality situated within the three major categories:positional accuracy, completeness, and semantic accuracy. We identified these as part of the first version of the [“Data Quality top 10”](https://www.openstreetmap.org/user/ngumenawesamson/diary/399636).
 

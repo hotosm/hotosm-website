@@ -1,7 +1,7 @@
 ---
 title: Petya Kangalova
 date: 2022-02-07 02:13:00 Z
-Photo: "/uploads/Petya_photo.jpg"
+Photo: "https://cdn.hotosm.org/website/Petya_photo.jpg"
 Member Type:
   Is Staff: true
 Job Title: Tech Collective Facilitator

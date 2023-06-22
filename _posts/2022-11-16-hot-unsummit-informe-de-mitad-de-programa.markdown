@@ -4,7 +4,7 @@ date: 2022-11-16 03:32:00 Z
 Summary Text: En nuestra misión de reunir a comunidades, socios, colaboradores y simpatizantes
   de la cartografía abierta humanitaria, HOT está probando un nuevo enfoque de conferencias
   en 2022.
-Feature Image: "/uploads/52409427674_992dab1192_k.jpg"
+Feature Image: "https://cdn.hotosm.org/website/52409427674_992dab1192_k.jpg"
 Person: unSummit Working Group
 Working Group:
 - HOT Summit
@@ -24,7 +24,7 @@ Antes de empezar, todos los miembros de HOT y de los Hubs Regionales de Mapeo Ab
 
 > **"Tuve una oportunidad única de aprender aún más sobre OpenStreetMap y mostrar un poco más de mi trabajo, conocer lo que se está discutiendo para el futuro de OSM y el mapeo. Ver cómo la comunidad es realmente grande y acogedora me hizo sentir que estaba en familia y que a pesar de tener algunas diferencias al final todos somos mapeadores".** - *Gustavo Soares, mapeador / académico HOT unSummit, Brasil, de [su OSM Diary](https://www.openstreetmap.org/user/PlayzinhoAgro/diary/399862)*
 
-![unSummit1.png](/uploads/unSummit1.png)
+![unSummit1.png](https://cdn.hotosm.org/website/unSummit1.png)
 *¡La hora del selfie de OSM Latinoamérica en el State of the Map! Foto cortesía de Mapanauta.*
 
 ## FOSS4G 2022, Florencia, Italia
@@ -36,7 +36,7 @@ Antes de empezar, todos los miembros de HOT y de los Hubs Regionales de Mapeo Ab
 
 > **"Sobre tener a HOT como parte del evento... HOT comparte los mismos ideales que las comunidades OSM y OSGeo, y muchos miembros comparten al menos otra comunidad. Me parece que tener todas las conferencias juntas ayudó a que más gente asistiera a ellas (especialmente las personas que vienen de países de renta media-baja, donde los vuelos suelen ser más caros)".** - *Luca Delucchi, comité organizador de FOSS4G, Italia*
 
-![unSummit 2.png](/uploads/unSummit%202.png)
+![unSummit 2.png](https://cdn.hotosm.org/website/unSummit+2.png)
 *Sprint de Código de la Comunidad FOSS4G. Foto de [HOT Flickr](https://www.flickr.com/photos/hotosm/52409405969/in/album-72177720302685437/)* 
 
 ## Ensemble pour la cartographie participative, Butembo, República Democrática del Congo
@@ -46,7 +46,7 @@ Antes de empezar, todos los miembros de HOT y de los Hubs Regionales de Mapeo Ab
 
 > **"Los datos cartográficos no son muy utilizados por los investigadores de ESU Butembo y alrededores. Esto no se debe a que no los necesiten, sino a que no son conscientes de su importancia en su trabajo, y sobre todo a que no saben dónde pueden acceder a los datos y a las herramientas cartográficas gratuitas. Por tanto, es necesario formarles para que sean tanto contribuyentes como consumidores de datos cartográficos para la cartografía participativa".** - *Sr. Sivalikwiha, Director General de la ISDR Kitsombiro*
 
-![unSummit 3.png](/uploads/unSummit%203.png)
+![unSummit 3.png](https://cdn.hotosm.org/website/unSummit+3.png)
 *Asistentes del evento participativo Ensemble pour la cartographie. Foto cortesía de Kazi Précieux - OSM RDC*
 
 ## Encuentro Nacional de Estudiantes de Geografía, Guanajuato, México
@@ -56,7 +56,7 @@ Antes de empezar, todos los miembros de HOT y de los Hubs Regionales de Mapeo Ab
 
 > **“Esta experiencia me permitió comprender la importancia de la cartografía humanitaria, y su impacto en la sociedad. De igual forma, la relevancia de la colaboración entre miembros y voluntarios de la comunidad para afrontar desafíos mediante la toma de decisiones apropiadas. La iniciativa de Humanitarian OpenStreetMap Team y Co.Mapper representa una oportunidad excepcional del uso de tecnologías libres para el tratamiento de datos que permite el desarrollo de proyectos a través de la capacitación y adquisición de nuevos conocimientos. Gracias a la invitación y participación a este evento puedo afirmar que, la contribución del mapeo colaborativo es una iniciativa que debe ser difundida para lograr un impacto mayor en la comunidad”.** - *[Verónica Oviedo](https://comapper.org/hot-unsummit-2022-encuentro-nacional-de-estudiantes-de-geografia-guanajuato-mexico/), Estudiante de Posgrado, Facultad de Geografía, Universidad Autónoma del Estado de México*
 
-![unSummit 4.png](/uploads/unSummit%204.png)
+![unSummit 4.png](https://cdn.hotosm.org/website/unSummit+4.png)
 *Preparándose para los talleres de mapeo abierto humanitario en el Encuentro Nacional de Estudiantes de Geografía. Foto cortesía de Cuauthémoc Gutierrez.*
 
 ## Teto Brasil, São Paulo, Brasil
@@ -66,7 +66,7 @@ Antes de empezar, todos los miembros de HOT y de los Hubs Regionales de Mapeo Ab
 
 > **"Había una señora de una comunidad de Río de Janeiro y su charla sobre cómo quería hacer un mapeo en su comunidad para conocer a la gente que vive allí me emocionó mucho. Espero que podamos encontrar la manera de trabajar juntos en algo en el futuro".** - *Alessandra Figueiredo, UrbeLatam, Brasil*
 
-![unSummit 5.png](/uploads/unSummit%205.png)
+![unSummit 5.png](https://cdn.hotosm.org/website/unSummit+5.png)
 *Tiempo de pausa para establecer contactos en el Encuentro Anual de Teto Brasil. Foto por cortesía de Carla Habif, HOT.*
 
 ## Conferencia del Instituto de Geomática de Zimbabue (ZIG), Harare, Zimbabue
@@ -76,7 +76,7 @@ Antes de empezar, todos los miembros de HOT y de los Hubs Regionales de Mapeo Ab
 
 > **"Siempre que los geomáticos y topógrafos se reúnen, intentan abordar un tema o una situación concreta y en esos casos parten de cero. Siempre hay un salvador para todos los escenarios de empezar de cero, de hecho nunca se puede empezar de cero con la inclusión de nuestras Comunidades Cartográficas Abiertas y OS); la fuente abierta para mentes abiertas 🤗".** - *Letwin Pondo, comité organizador de ZIG, Zimbabue*
 
-![unSummit 6.png](/uploads/unSummit%206.png)
+![unSummit 6.png](https://cdn.hotosm.org/website/unSummit+6.png)
 *Clifford Tarerwa presenta la experiencia de OSM Zimbabue en la conferencia ZIG. Foto por cortesía de Dereck Dube (Lumiself).*
 
 ## GeONG 2022, Chambéry, Francia
@@ -86,13 +86,13 @@ Antes de empezar, todos los miembros de HOT y de los Hubs Regionales de Mapeo Ab
 
 > **"Venir a GeONG fue valioso porque aprendí mucho, conocí a gente nueva y ahora sé cosas nuevas. Me siento más apasionada, responsable y con más energía. El Intercambio de Sostenibilidad por Satélite fue valioso porque me permitió conocer cómo funciona el ecosistema de OSM en otras partes del mundo y qué se puede adaptar".** - *Arjun Ark, OSM India / GeONG invitado, India*
 
-![unSummit 7.png](/uploads/unSummit%207.png)
+![unSummit 7.png](https://cdn.hotosm.org/website/unSummit+7.png)
 *Participantes construyendo un collage digital en GeONG. Foto cortesía de Carla Habif, HOT.*
 
 # ¿Qué dicen los números?
 Para tratar de comprender el impacto más amplio del programa HOT unSummit, también hemos estado rastreando algunas métricas.
 
-![unSummit 8.png](/uploads/unSummit%208.png)
+![unSummit 8.png](https://cdn.hotosm.org/website/unSummit+8.png)
 *Siéntase libre de hacer [clic y explorar el panel de métricas de HOT unSummit](https://datastudio.google.com/reporting/76fe94ed-f50d-4038-968b-486c3a7a3a5d/page/1M)*
 
 Para proporcionar algo de contexto, la métrica de alcance potencial, que rastrea el número total estimado de participantes en todos los eventos en los que HOT ha colaborado (es decir, el alcance potencial del contenido de mapeo abierto humanitario), en comparación a los entre 1 y 200 participantes en persona que normalmente esperaríamos en un evento HOT Summit independiente.
@@ -122,6 +122,6 @@ Además de estos resultados muy positivos, también reconocemos que, para las pe
 # ¿Qué sigue para el HOT unSummit?
 El programa HOT unSummit continúa con emocionantes colaboraciones confirmadas en Filipinas, Perú, Fiji, Nigeria, Tanzania, Malí, Haití y Túnez (así como algunos más en preparación).
 
-![unSummit 10.png](/uploads/unSummit%2010.png)
+![unSummit 10.png](https://cdn.hotosm.org/website/unSummit+10.png)
 
 Muchas de estas colaboraciones de eventos también han demostrado ser un terreno fértil para nuevas colaboraciones, proyectos y actividades de mapeo. HOT y los Hubs regionales de mapeo abierto harán un seguimiento tanto con los organizadores como con los participantes para ver cómo podemos apoyar el legado del programa unSummit para ir más allá del apoyo a eventos.

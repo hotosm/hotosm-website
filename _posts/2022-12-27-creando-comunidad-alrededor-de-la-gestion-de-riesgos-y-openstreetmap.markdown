@@ -17,7 +17,7 @@ tags:
 Summary Text: El pasado mes de noviembre se realizó en Lima, Peru el evento Gestión
   popular de riesgos de desastres y OpenStreetMap LATAM 2022. Conozcamos un poco mas
   que pasó estos días en Lima alrededor del mapeo abierto y comunitario.
-Feature Image: "/uploads/poster-1-724x1024.jpg"
+Feature Image: "https://cdn.hotosm.org/website/poster-1-724x1024.jpg"
 Is image top aligned: true
 Person: Juan Arellano Valdivia
 Country:
@@ -34,7 +34,7 @@ No es la primera vez que la comunidad OSM Perú toca esta temática. Ya en el 20
 
 En esta ocasión el equipo organizador se vino preparando desde unos meses atrás. En julio 2022 se llevó a cabo [una reunión](https://osmpe.org/2022/07/03/lanzamiento-equipo-organizador-grdosm-latam-summit-2022/) donde además de presentar la plataforma Gestor de Tareas para el mapeo colaborativo a nivel local y presentar los resultados del mapeo de territorios indígenas amazónicos en la zona del rio Urubamba, se realizó el lanzamiento de equipo organizador del evento GIRD\+OSM Latam unSummit.
 
-![dia 1.jpg](/uploads/dia%201.jpg)
+![dia 1.jpg](https://cdn.hotosm.org/website/dia+1.jpg)
 
 *Mesas de trabajo / Volando drone / hablando sobre mapeo abierto*
 
@@ -50,7 +50,7 @@ En resumen, algunos de los aspectos más destacados del evento fueron:
 
 Pero sobre todo, fue un evento que permitió que la comunidad OSM local se ampliara y creciera no solo en términos de cantidad de miembros si no en variedad de proyectos y alcances a corto y mediano plazo. Además el impacto a largo plazo que un evento de este tipo tiene en los asistentes, sobre todo en los jóvenes es algo de posibilidades infinitas.
 
-![dia 3.jpg](/uploads/dia%203.jpg)
+![dia 3.jpg](https://cdn.hotosm.org/website/dia+3.jpg)
 
 *Conferencias sobre diversos aspectos de la Gestión de riesgos y el mapeo humanitario*
 
@@ -72,4 +72,4 @@ Finalmente [Celine Jacquin](https://www.hotosm.org/people/celine-jacquin/), geó
 
 > Mi impresión es también que algo que los organizadores tenían claro desde el inicio -y se refleja con el seguimiento posterior que se le está dando- fue que **esta conferencia no iba a ser únicamente para presentar trabajos y conversar, sino que debía llevar a soluciones, ampliar reflexiones, crear contactos y sinergias** para ayudarse de forma concreta, motivar y remotivar. Siento que una buena parte de las personas participantes regresaron a casa con planes en la cabeza y habiendo creado una relación amena con quien les puede guiar y apoyar. Es algo que comúnmente se da en eventos comunitarios pero diría que la escala de este evento y su foco en una misma temática, fortaleció más los vínculos.
 
-![Conf GIRD popular UNMSM_Peru_2022_UNMSM mesas1-3-4 53.JPG](/uploads/Conf%20GIRD%20popular%20UNMSM_Peru_2022_UNMSM%20mesas1-3-4%2053.JPG)
+![Conf GIRD popular UNMSM_Peru_2022_UNMSM mesas1-3-4 53.JPG](https://cdn.hotosm.org/website/Conf+GIRD+popular+UNMSM_Peru_2022_UNMSM+mesas1-3-4+53.JPG)

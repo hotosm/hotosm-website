@@ -1,7 +1,7 @@
 ---
 title: Ralph Aytoun
 date: 2017-02-28 13:58:00 Z
-Photo: "/uploads/246-0-2.jpg"
+Photo: "https://cdn.hotosm.org/website/246-0-2.jpg"
 Member Type:
   Is Staff: true
   Is Voting Member: true

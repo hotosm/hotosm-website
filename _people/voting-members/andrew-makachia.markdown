@@ -1,7 +1,7 @@
 ---
 title: Andrew Makachia
 date: 2019-06-04 13:33:00 Z
-Photo: "/uploads/AndrewMakachia.jpg"
+Photo: "https://cdn.hotosm.org/website/AndrewMakachia.jpg"
 Member Type:
   Is Voting Member: true
 Country: Kenya

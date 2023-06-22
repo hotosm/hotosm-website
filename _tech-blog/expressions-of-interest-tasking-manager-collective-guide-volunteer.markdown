@@ -10,7 +10,7 @@ tags:
 - tech
 Summary Text: hot_tech is looking for someone to guide the direction of Tasking Manager
   (TM) and represent the voice of the TM Collective. Could it be you?
-Feature Image: "/uploads/A06EFD18-D3C0-4239-AD93-1B528DCA4EF6.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/A06EFD18-D3C0-4239-AD93-1B528DCA4EF6.jpeg"
 Tool:
 - Tasking Manager
 ---

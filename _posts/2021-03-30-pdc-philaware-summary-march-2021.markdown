@@ -6,7 +6,7 @@ Summary Text: This month, the HOT Philippines team completed the required field 
   for the PhilAWARE project and is now presenting output maps to stakeholders. HOT
   is also working with PDC to prepare an e-Learning platform to remotely support stakeholder
   mapping initiatives.
-Feature Image: "/uploads/March%202021%20Header.png"
+Feature Image: "https://cdn.hotosm.org/website/March+2021+Header.png"
 Person: Jikka Defiño
 Working Group:
 - Communications
@@ -21,13 +21,13 @@ Over the past few months, we [shared articles documenting the progress of the Ph
 
 HOT Philippines is a key partner in the PhilAWARE project—tasked to **fill the gaps in the critical geospatial data needed for DRRM** by collecting local geospatial information including neighborhood boundary information, and transportation and critical lifeline assets such as hospitals, schools, police, and fire stations.
 
-![PhilAWARE activities Insdert.png](/uploads/PhilAWARE%20activities%20Insdert.png)
+![PhilAWARE activities Insdert.png](https://cdn.hotosm.org/website/PhilAWARE+activities+Insdert.png)
 
 Throughout the project duration, HOT Philippines focused on **remote mapping**, **OSM training**, and **field mapping**. In March 2021, the HOT Philippines field mapping team has completed the field work in Pampanga required by the donors, and are currently presenting the output maps to the local government units (LGUs; concerned municipalities or cities).
 
 Previously, we also shared on social media the completion of remote mapping and validation activities in a separate pilot area: Quezon City. The mapping team members behind this milestone were [Lev Daran](https://www.openstreetmap.org/user/levdaran), [Jye Abella](https://www.openstreetmap.org/user/jyeabella), [Leendel Punzalan](https://www.openstreetmap.org/user/Leendel), [Enteng Siaga](https://www.openstreetmap.org/user/Enteng%20Siaga), [Apollo Corral](https://www.openstreetmap.org/user/aacorral), [JM Espares](https://www.openstreetmap.org/user/jmres),  [Gab Valeriano](https://www.openstreetmap.org/user/gavaleriano), [Dan Handig](https://www.openstreetmap.org/user/dnchrstn).
 
- ![QC insert.png](/uploads/QC%20insert.png)
+ ![QC insert.png](https://cdn.hotosm.org/website/QC+insert.png)
 
 ## Field Mapping and Training Completion
 
@@ -45,27 +45,27 @@ Currently, there are two validators hired to finish data clean-up: [Coby Jacela]
 
 Following the completion of field work, the field mapping team spent the rest of March 2021 cleaning the data and preparing for the map and methodology presentation to stakeholders. The goal of the presentation is to share the project's progress and map data with the LGUs, and help them locate resources for mapping and training initiatives.
 
-![Santo Tomas Pampanga Output Map.png](/uploads/Santo%20Tomas%20Pampanga%20Output%20Map.png)
+![Santo Tomas Pampanga Output Map.png](https://cdn.hotosm.org/website/Santo+Tomas+Pampanga+Output+Map.png)
 
 Two output maps are presented to each LGU: one that shows the map data over imagery, and one that highlights the locations of POIs and other elements in the map key. Above is an example of an output map for one municipality in Pampanga: Santo Tomas. 13 pairs of output maps will be presented to the stakeholders.
 
 The output maps will also be uploaded on the Wiki pages linked in the resources section below.
 
-![Stakeholder Pres Insert.png](/uploads/Stakeholder%20Pres%20Insert.png)
+![Stakeholder Pres Insert.png](https://cdn.hotosm.org/website/Stakeholder+Pres+Insert.png)
 
 As of writing, three presentations have been completed. The series of stakeholder meetings are still being coordinated by [Joji Bonilla](https://www.openstreetmap.org/user/bisaykid), Country Manager of HOT Philippines. Since strict lockdowns in the Philippines have been imposed again, the presentations and sharing of resources are done online.
 
-![Map Presentation Insert-75e333.png](/uploads/Map%20Presentation%20Insert-75e333.png)
+![Map Presentation Insert-75e333.png](https://cdn.hotosm.org/website/Map+Presentation+Insert-75e333.png)
 
 ## Creation of the e-Learning Platform
 
 Trainings for the duration of the PhilAWARE project were led by [Sen Roxas](https://www.openstreetmap.org/user/senmroxas), Training Manager of HOT Philippines, and [Honey Fombuena](https://www.openstreetmap.org/user/Honey%20Fombuena), former Data Validation Lead for the project. Volunteers from the local government units were given trainings on the following:
 
-![Screen Shot 2021-03-31 at 2.12.36 PM.png](/uploads/Screen%20Shot%202021-03-31%20at%202.12.36%20PM.png)
+![Screen Shot 2021-03-31 at 2.12.36 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2021-03-31+at+2.12.36+PM.png)
 
 In order to remotely support trainings of local government units (LGUs) and other stakeholders, HOT Philippines is working on an e-Learning platform. Topics covered in the platform include introductions to HOT and OSM, using the Tasking Manager, Data Validation, and downloading OSM data. The topics are introduced in chapters, with learning videos, instructional text and GIFs, and quizzes or similar evaluations. The platform is hosted by PDC, and will soon be accessible to stakeholders.
 
-![PhilAWARE eLearning Insert.png](/uploads/PhilAWARE%20eLearning%20Insert.png)
+![PhilAWARE eLearning Insert.png](https://cdn.hotosm.org/website/PhilAWARE+eLearning+Insert.png)
 
 ## Resources for the General Public
 

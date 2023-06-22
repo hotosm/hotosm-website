@@ -1,7 +1,7 @@
 ---
 title: Tri Selasa Pagianti
 date: 2018-06-01 20:29:00 Z
-Photo: "/uploads/Tri_Selasa.jpeg"
+Photo: "https://cdn.hotosm.org/website/Tri_Selasa.jpeg"
 Member Type:
   Is Staff: false
   Is Voting Member: true

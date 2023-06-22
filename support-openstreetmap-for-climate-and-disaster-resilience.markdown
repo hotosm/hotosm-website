@@ -21,7 +21,7 @@ Intro Text: All disasters begin and end locally. HOT’s vision is to strengthen
 layout: page
 ---
 
-![52305985528_8196fa909e_h B.jpg](/uploads/52305985528_8196fa909e_h%20B.jpg)
+![52305985528_8196fa909e_h B.jpg](https://cdn.hotosm.org/website/52305985528_8196fa909e_h+B.jpg)
 
 Communities are challenged with the ripple effects beyond climate change itself, including floods, extreme heat, and food scarcity.
 
@@ -33,7 +33,7 @@ Here are five projects in which HOT, global and local partners, and communities 
 
 # PhilAWARE
 <br>
-![PhilAWARE combined.png](/uploads/PhilAWARE%20combined.png)
+![PhilAWARE combined.png](https://cdn.hotosm.org/website/PhilAWARE+combined.png)
 <figcaption align = "left"><h6>Credit: HOT Staff</h6></figcaption>
 <br>
 In the Philippines, PhilAWARE consolidated hazard information and alerts from various sources in one place to improve data quality and ease of sharing among the country’s disaster managers and communities.
@@ -41,7 +41,7 @@ In the Philippines, PhilAWARE consolidated hazard information and alerts from va
 
 # Ramani Huria
 <br>
-![RH Combined.png](/uploads/RH%20Combined.png)
+![RH Combined.png](https://cdn.hotosm.org/website/RH+Combined.png)
 <figcaption align = "left"><h6>Credit: OpenMap Development Tanzania</h6></figcaption>
 <br>
 Ramani Huria, "Open Map" in Swahili, mapped Dar es Salaam and other large cities, including many places that had never been mapped, to inform flood prevention plans. [OpenMap Development Tanzania](https://www.omdtz.or.tz/) combined exposure data and flood hazard data to analyze the risk of potential future disasters and improve flood mitigation plans.
@@ -49,7 +49,7 @@ Ramani Huria, "Open Map" in Swahili, mapped Dar es Salaam and other large cities
 
 # Open Cities: Mexico
 <br>
-![OCM Combined.png](/uploads/OCM%20Combined.png)
+![OCM Combined.png](https://cdn.hotosm.org/website/OCM+Combined.png)
 <figcaption align = "left"><h6>Credit: HOT Staff and Co.Mapper Team</h6></figcaption>
 <br>
 In Mexico, HOT and local partner [Co.Mapper](https://comapper.org/) trained municipal staff in Tulum, Mexico how to use OSM data and worked with community members to create a detailed map of critical infrastructure and disaster risks.
@@ -57,7 +57,7 @@ In Mexico, HOT and local partner [Co.Mapper](https://comapper.org/) trained muni
 
 # Community Mapping for a Resilient Bamako
 <br>
-![OCB Combined.png](/uploads/OCB%20Combined.png)
+![OCB Combined.png](https://cdn.hotosm.org/website/OCB+Combined.png)
 <figcaption align = "left"><h6>Credit: Banko Productions and the World Bank</h6></figcaption>
 <br>
 In Bamako, Mali and with support from the World Bank, HOT, [OpenStreetMap Mali](https://openstreetmapmali.ml/), and [Croix-Rouge Malienne](https://www.croixrouge-mali.org/) used OSM mapping to bridge the gap between waste, drains, and infrastructure to reduce flooding while engaging the local government, civil society, and the private sector in disaster response.
@@ -65,7 +65,7 @@ In Bamako, Mali and with support from the World Bank, HOT, [OpenStreetMap Mali](
 
 # Canoa de Tolda
 <br>
-![CDT Combined B.png](/uploads/CDT%20Combined%20B.png)
+![CDT Combined B.png](https://cdn.hotosm.org/website/CDT+Combined+B.png)
 <figcaption align = "left"><h6>Credit: Marina Aragão, HOT Staff, and Canoa de Tolda</h6></figcaption>
 <br>
 In the Sao Francisco river basin, the [Latin America & Caribbean Open Mapping Hub](https://stories.hotosm.org/latam-homepage/index.html) and [Canoa de Tolda](https://canoadetolda.org.br/) mapped communities along the river and model its flow. This data increased awareness of flood risks and empowered residents to advocate for their communities.

@@ -15,7 +15,7 @@ tags:
 Summary Text: Conheça os primeiros resultados da parceria da HOT com a Canoa de Tolda
   para tornar visível a dinâmica social do Rio São Francisco por meio de mapeamento
   aberto e uso de drones e outras tecnologias.
-Feature Image: "/uploads/52305985528_88f5b87b4b_o.jpg"
+Feature Image: "https://cdn.hotosm.org/website/52305985528_88f5b87b4b_o.jpg"
 Person: Juan Arellano Valdivia
 Country:
 - Brazil
@@ -27,7 +27,7 @@ Project:
 
 [Canoa de Tolda](https://canoadetolda.org.br/) é uma organização brasileira criada em 1998, que atualmente atua no trecho baixo do [Río São Francisco](https://pt.wikipedia.org/wiki/Rio_S%C3%A3o_Francisco), nos estados de Alagoas e Sergipe, coletando informações sobre questões sociais, culturais, científicas e ambientais na região impactada pela [barragem de Sobradinho](https://pt.wikipedia.org/wiki/Usina_Hidrel%C3%A9trica_de_Sobradinho).
 
-![mapa ilha do ferro.jpg](/uploads/mapa%20ilha%20do%20ferro.jpg)
+![mapa ilha do ferro.jpg](https://cdn.hotosm.org/website/mapa+ilha+do+ferro.jpg)
 
 **Parceria com a HOT**
 
@@ -35,7 +35,7 @@ Desde novembro de 2021, em parceria com a HOT, a Canoa de Tolda vem desenvolvend
 
 > Marina Aragão, coordenadora da HOT para o projeto, acredita que a iniciativa da parceria “tem sido uma interação única entre as relações internacionais, a tecnologia global e acessível e o empoderamento das populações locais, e representou uma oportunidade pioneira e desafiadora, especialmente considerando a análise de um rio que tem uma enorme representatividade para o Nordeste e para o Brasil”. ([Fonte](https://infosaofrancisco.canoadetolda.org.br/noticias/geotecnologias/mapsaofrancisco-parceria-com-hot-finaliza-primeira-fase-de-capacitacoes/)).
 
-![IMG_1527 (1).jpg](/uploads/IMG_1527%20(1).jpg)
+![IMG_1527 (1).jpg](https://cdn.hotosm.org/website/IMG_1527+(1).jpg)
 
 **Progresso até o momento**
 
@@ -43,7 +43,7 @@ Entre os dias 27 de junho e 8 de julho de 2022, a HOT treinou a equipe de Canoa 
 
 > Como explica Carlos Eduardo Ribeiro Jr, de Canoa de Tolda, um dos criadores do MapSãoFrancisco, ADI – Ilha do Ferro, “não tão extensa e próxima da base, permite a aplicação das técnicas transmitidas \[ao time\] às variadas situações da planície de inundação: aglomeração urbana, lagoas marginais ocupadas e não ocupadas, dois canais fluviais. Essa variedade de casos permitirá treinamento e aprimoramento nossa capacidade para a evolução do projeto ao longo do Baixo São Francisco”. ([Fonte](https://infosaofrancisco.canoadetolda.org.br/noticias/geotecnologias/mapsaofrancisco-parceria-com-hot-finaliza-primeira-fase-de-capacitacoes/)).
 
-![WhatsApp Image 2022-07-04 at 15.16.14 (2) (1).jpeg](/uploads/WhatsApp%20Image%202022-07-04%20at%2015.16.14%20(2)%20(1).jpeg)
+![WhatsApp Image 2022-07-04 at 15.16.14 (2) (1).jpeg](https://cdn.hotosm.org/website/WhatsApp+Image+2022-07-04+at+15.16.14+(2)+(1).jpeg)
 
 **Atividades**
 
@@ -63,13 +63,13 @@ Entre os dias 27 de junho e 8 de julho de 2022, a HOT treinou a equipe de Canoa 
 
 *     Consultas com a universidade.
 
-![52306050140_bc86e13af1_o (1).jpg](/uploads/52306050140_bc86e13af1_o%20(1).jpg)
+![52306050140_bc86e13af1_o (1).jpg](https://cdn.hotosm.org/website/52306050140_bc86e13af1_o+(1).jpg)
 
 > “Tivemos uma situação logo no início das atividades que exigia uma solução rápida: como usar o sonar para acompanhar o treinamento, não só naqueles dias, mas também nas próximas atividades de batimetria. \[…\] Foi então que decidimos construir um pequeno trimarã não motorizado - feito de espuma - que receberia o equipamento de varredura necessário. O trimarã seria rebocado por uma das lanchas que realizam as atividades, o que não é novidade, já que inúmeros sistemas de prospecção aquática utilizam pequenas embarcações semelhantes”, explica Carlos Eduardo. Construído coletivamente pelos participantes das atividades em poucas horas, o trimarã demonstrou, na água, que sua associação com o equipamento proposto estava correta: a qualidade dos dados obtidos foi extremamente favorável, de grande precisão, todos obtidos em um curto espaço de tempo. ([Fonte](https://infosaofrancisco.canoadetolda.org.br/noticias/geotecnologias/para-todos-tecnologias-e-ciencias-cidadas-abertas-despontam-no-baixo-sao-francisco/)).
 
 > Segundo Ivan Gayton, Assessor Humanitário da HOT e um dos coordenadores da cooperação com o MapSãoFrancisco: “Canoa de Tolda trouxe uma grande novidade para a mesa; Antes deste projeto, nossos levantamentos batimétricos foram realizados com um receptor GNSS montado em uma baliza por um topógrafo dentro do rio com vestimentas à prova d’água. Isso estava fora de questão para um rio do tamanho do São Francisco, e para tal a equipe selecionou uma unidade de sonar de consumo (um localizador de peixes!) para medir a profundidade, com a intenção de manter essa unidade na água a partir de um pequeno barco. No entanto, Canoa de Tolda construiu um pequeno trimarã de espuma personalizado, com a unidade GPS de alta precisão montada na parte superior e o sonar na parte inferior. Isso funcionou incrivelmente bem, não apenas permitindo levantamentos de batimetria que seriam difíceis e perigosos de outra forma, mas também tornando todo o processo muito mais rápido e eficiente.” ([Fonte](https://infosaofrancisco.canoadetolda.org.br/noticias/geotecnologias/para-todos-tecnologias-e-ciencias-cidadas-abertas-despontam-no-baixo-sao-francisco/)).
 
-![IMG_1654 (1).jpg](/uploads/IMG_1654%20(1).jpg)
+![IMG_1654 (1).jpg](https://cdn.hotosm.org/website/IMG_1654+(1).jpg)
 
 **Desafios e aprendizados**
 
@@ -79,7 +79,7 @@ O processo de monitoramento descrito demonstrou a importância da geração de d
 
 As comunidades estão interessadas nestes tipos de questões, por isso existe um cenário favorável para o seu desenvolvimento. Na Ilha do Ferro, há um grande interesse em mais atividades de mapeamento aberto e comunitário. A maior parte do território não está adequadamente representada em mapas, o que impacta diretamente na falta de acesso da população aos serviços públicos básicos, além de sua atividade econômica. No entanto, a capacitação das comunidades em ferramentas e métodos de mapeamento deve levar em conta a linguagem, que deve estar de acordo com os níveis de alfabetização das comunidades, sendo o desafio disponibilizar a linguagem técnica para todos.
 
-![WhatsApp Image 2022-07-04 at 15.25.47 (3) (1).jpeg](/uploads/WhatsApp%20Image%202022-07-04%20at%2015.25.47%20(3)%20(1).jpeg)
+![WhatsApp Image 2022-07-04 at 15.25.47 (3) (1).jpeg](https://cdn.hotosm.org/website/WhatsApp+Image+2022-07-04+at+15.25.47+(3)+(1).jpeg)
 
 Entre os riscos identificados no projeto estão: a estação chuvosa pode limitar o desenvolvimento de atividades e/ou navegação no leito do rio. Foi identificada a necessidade de ter materiais de primeiros socorros nas comunidades, minimizando os riscos nos transladois para o desenvolvimento das atividades; ter telefone via satélite para garantir comunicação permanente; e ter celulares com o sistema Android mais recente para compatibilidade com aplicativos e softwares técnicos.
 

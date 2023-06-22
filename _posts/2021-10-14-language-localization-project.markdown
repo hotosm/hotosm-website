@@ -14,7 +14,7 @@ Summary Text: 'Together with the local communities and contributors from Vietnam
   language and accessibility of Humanitarian Open Mapping resources.
 
 '
-Feature Image: "/uploads/LocProject.png"
+Feature Image: "https://cdn.hotosm.org/website/LocProject.png"
 Is image top aligned: true
 Person:
 - Arnalie Vicario

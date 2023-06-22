@@ -5,7 +5,7 @@ Summary Text: The OpenStreetMap community, a community of communities, is made u
   of many mappers and other contributors spread out across local communities around
   the world.  The Open Mapping Community Working Group Mentorship Program can help
   to close skill gaps in capability between communities.
-Feature Image: "/uploads/Mentorship%20Banner.png"
+Feature Image: "https://cdn.hotosm.org/website/Mentorship+Banner.png"
 Person: Tsongo Muluba Bienvenue
 Working Group:
 - Community

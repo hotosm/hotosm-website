@@ -5,9 +5,9 @@ published: false
 Deadline Date: 2022-03-14 00:00:00 Z
 ---
 
-![REQUEST FOR PROPOSALS-c4367a.png](/uploads/REQUEST%20FOR%20PROPOSALS-c4367a.png)
+![REQUEST FOR PROPOSALS-c4367a.png](https://cdn.hotosm.org/website/REQUEST+FOR+PROPOSALS-c4367a.png)
 
-![Screen Shot 2022-02-22 at 7.18.06 PM.png](/uploads/Screen%20Shot%202022-02-22%20at%207.18.06%20PM.png)
+![Screen Shot 2022-02-22 at 7.18.06 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-02-22+at+7.18.06+PM.png)
 
 **About the assignment:**
 
@@ -39,7 +39,7 @@ Our vision is to serve a diverse set of users in one website, providing differen
 
 **This table presents an initial understanding of content distribution, however, the researcher is encouraged to challenge this premise:**
 
-![Screen Shot 2022-02-23 at 11.06.33 AM.png](/uploads/Screen%20Shot%202022-02-23%20at%2011.06.33%20AM.png)
+![Screen Shot 2022-02-23 at 11.06.33 AM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-02-23+at+11.06.33+AM.png)
 
 ## **Phase I (March/April 2022): Research**
 

@@ -7,7 +7,7 @@ tags:
 Summary Text: Fabrizio Scrollini, le nouveau directeur de l'Open Mapping Hub pour
   l'Amérique latine et les Caraïbes, partage ses impressions des premiers jours de
   travail avec l'équipe du Hub, ce qui a été fait et ce qui est à venir.
-Feature Image: "/uploads/FuKyiuHacAEi748x.jpg"
+Feature Image: "https://cdn.hotosm.org/website/FuKyiuHacAEi748x.jpg"
 Person: Fabrizio Scrollini
 ---
 
@@ -19,7 +19,7 @@ L'information, associée à l'action et à l'éducation, est la clé pour avance
 
 Au cours de la dernière année, le Hub régional traversait sa phase initiale, explorant différentes synergies avec les acteurs et les communautés au niveau local et régional. Ces actions, menées par ma collègue Céline Jacquin et l'équipe de travail en Amérique Latine et Philip Hippolyte dans les Caraïbes, démontrent la valeur que HOT apporte à *la région*.
 
-![FuKyvXhaMAAzgIP.jpg](/uploads/FuKyvXhaMAAzgIP.jpg)
+![FuKyvXhaMAAzgIP.jpg](https://cdn.hotosm.org/website/FuKyvXhaMAAzgIP.jpg)
 
 Dans un avenir proche, le Hub élaborera une stratégie pour écouter et agir avec la communauté des cartographes, les gouvernements locaux et nationaux, ainsi que les communautés thématiques, afin de structurer au mieux notre travail. En particulier, nous voulons nous concentrer sur ce que signifie la cartographie humanitaire en Amérique Latine et dans les Caraïbes, quelles sont les priorités régionales et concevoir des méthodologies pour un travail agile, conjointement, en tirant parti de la capacité de HOT à catalyser la communauté de cartographes au service du développement et de l'action humanitaire.
 

@@ -9,7 +9,7 @@ tags:
 Summary Text: El hub de mapeo abierto de América Latina ha estado ocupado con diversos
   proyectos, si quieres enterarte cuáles son, acá te compartimos un panorama de lo
   que se está haciendo en la región.
-Feature Image: "/uploads/CT-BSF-2001-0011.jpg"
+Feature Image: "https://cdn.hotosm.org/website/CT-BSF-2001-0011.jpg"
 Person: Equipo alfa del hub Latam
 ---
 
@@ -21,7 +21,7 @@ Cuando presentamos la [actualización](https://www.hotosm.org/updates/hub-de-map
 
 ## Canoa de Tolda (Brasil)
 
-![CT-BSF-2001-0011.jpg](/uploads/CT-BSF-2001-0011.jpg)
+![CT-BSF-2001-0011.jpg](https://cdn.hotosm.org/website/CT-BSF-2001-0011.jpg)
 
 *Mato da Onça, Baixo São Francisco, Coleção Canoa de Tolda, Imagem Canoa de Tolda, 2001 – Pão de Açúcar – AL*
 
@@ -39,7 +39,7 @@ Para las siguientes etapas de esta cooperación, HOT desplegará capacitación e
 
 ## Mapeo de desechos sólidos (Guatemala)
 
-![guate2.jpg](/uploads/guate2.jpg)
+![guate2.jpg](https://cdn.hotosm.org/website/guate2.jpg)
 
 *Imagen: eluniversal.com.mx/*
 
@@ -49,7 +49,7 @@ HOT ha tenido en el pasado proyectos con este mismo enfoque en otras áreas del 
 
 ## Open Cities Tulum (Mexico)
 
-![Foto de Ce Ja(2)-367317.jpg](/uploads/Foto%20de%20Ce%20Ja(2)-367317.jpg)
+![Foto de Ce Ja(2)-367317.jpg](https://cdn.hotosm.org/website/Foto+de+Ce+Ja(2)-367317.jpg)
 
 “OpenCities Tulum”, renombrado como [Co.Mapper](https://comapper.org/), es una adaptación de una [metodología](https://opendri.org/wp-content/uploads/2020/10/Open-Cities-Africa-Final-Report.pdf) ya implementada en varias ciudades de África por HOT en colaboración con el GFDRR, y en esta ocasión financiado por [Swiss Re Foundation](https://www.swissrefoundation.org/). En México se ha elegido el [municipio de Tulum](https://es.wikipedia.org/wiki/Municipio_de_Tulum) por la exposición al cambio climático que conoce la Península de Yucatán y Quintana Roo y los relativamente bajos medios que tiene este municipio para enfrentar el impacto del crecimiento urbano y turístico que se da a diferentes niveles desde la última década.
 
@@ -63,7 +63,7 @@ Aprovechando el interés de una gran diversidad de actores se capacitó también
 
 ## Fábrica de proyectos (Regional)
 
-![fabrica cusco.jpeg](/uploads/fabrica%20cusco.jpeg)
+![fabrica cusco.jpeg](https://cdn.hotosm.org/website/fabrica+cusco.jpeg)
 
 La Fábrica de proyectos valora y acompaña nuevas iniciativas e ideas que amplíen el potencial de la elaboración y el uso de mapas abiertos por diferentes grupos y comunidades en temas sociales, ambientales y humanitarios.
 
@@ -81,7 +81,7 @@ Tenemos en proceso colaboraciones con otros colectivos de la región que darán 
 
 ## Apoyo comunitario regional
 
-![Rodrigo2.jpg](/uploads/Rodrigo2.jpg)
+![Rodrigo2.jpg](https://cdn.hotosm.org/website/Rodrigo2.jpg)
 
 Este apoyo se basa en el contacto y conocimiento comunitario regional para así identificar necesidades y conectar diversas comunidades y grupos de diferentes países.
 

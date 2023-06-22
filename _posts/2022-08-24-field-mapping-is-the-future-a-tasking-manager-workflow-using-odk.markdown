@@ -9,7 +9,7 @@ Summary Text: Field mapping by local people is key to the future of open mapping
   However, the tools available for field mapping—despite many being of high quality—do
   not form a coherent ecosystem to unleash the potential of community field mapping.
   Something is missing! Could it be a Tasking Manager for Field Mapping?
-Feature Image: "/uploads/2022-09-09_skillshare_poster%20(1).png"
+Feature Image: "https://cdn.hotosm.org/website/2022-09-09_skillshare_poster+(1).png"
 Person: Ivan Buendía Gayton
 Country:
 - Global
@@ -33,7 +33,7 @@ One of the most impactful elements of the open mapping ecosystem in the last ten
 
 Something was needed: a way to allocate small, manageable tasks to individuals, keep track of their progress, quality-check and validate their work, and seamlessly integrate the new data into OpenStreetMap without damaging existing data. The HOT Tasking Manager served as the rug that tied the room together; a tool for the community to define data needs, and for individual mappers to contribute with ease and confidence.
 
-![Screen Shot 2022-08-24 at 3.14.13 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.14.13%20PM.png)
+![Screen Shot 2022-08-24 at 3.14.13 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.14.13+PM.png)
 
 ## What about tasking for field mapping?
 
@@ -41,13 +41,13 @@ There are a number of great field data collection tools!
 
 The mighty [OpenDataKit](https://getodk.org/) and the many platforms built from it such as [Kobo Toolbox](https://www.kobotoolbox.org/) make it possible for anyone with an Android device to collect data using flexible, powerful forms designed in a spreadsheet.
 
-![Screen Shot 2022-08-24 at 3.15.46 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.15.46%20PM.png)
+![Screen Shot 2022-08-24 at 3.15.46 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.15.46+PM.png)
 
 *The spreadsheet on the left creates the questionnaire and “Select From Map” activity on the phone.*
 
 [Vespucci](https://vespucci.io/) brings much of the power of JOSM to a mobile editor. [EveryDoor](https://every-door.app/) gives both Android and iPhone users a simple platform to edit OSM data, and StreetComplete does the same for Android users. [OSMAND](https://osmand.net/) and [Organic Maps](https://organicmaps.app/) allow navigation and offline map viewing with OSM data, as well as some basic capacity to add or edit features to contribute back to OSM.
 
-![Screen Shot 2022-08-24 at 3.27.54 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.27.54%20PM.png)
+![Screen Shot 2022-08-24 at 3.27.54 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.27.54+PM.png)
 
 *EveryDoor, Vespucci, OSMAnd, and Organic Maps screenshots*
 
@@ -87,11 +87,11 @@ As of mid-2022, ODK incorporates a new functionality, [select from map](https://
 
 \*This mostly replicates the functionality of the much-lamented [OpenMapKit](http://www.openmapkit.org/), a very useful fork of ODK created by the American Red Cross with support from HOT and other agencies, which allowed users to launch forms from a map view and select buildings/features to add attributes to. Unfortunately OMK is no longer maintained and can’t be reliably used.
 
-![Screen Shot 2022-08-24 at 3.34.04 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.34.04%20PM.png)
+![Screen Shot 2022-08-24 at 3.34.04 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.34.04+PM.png)
 
 Additionally, the new [ODK Central](https://docs.getodk.org/central-intro/) web server application contains very granular tools to allocate forms to individual users. It is possible, in fact, to create individual questionnaires for an arbitrary number of small areas (such as neighborhoods), each with their own set of features (such as buildings). These forms can then be allocated to specific “app users,” with access to specific forms (and therefore neighborhoods/areas) defined by a QR code.
 
-![Screen Shot 2022-08-24 at 3.35.11 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.35.11%20PM.png)
+![Screen Shot 2022-08-24 at 3.35.11 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.35.11+PM.png)
 
 *ODK Central supports allocation of individual forms—and corresponding features like buildings—to individual users*
 

@@ -5,7 +5,7 @@ position: 4
 Project Summary Text: STOP Spillover is working with in-country stakeholders to understand
   and address the threats posed by zoonotic viral diseases and reduce the risk of
   viral spillover and spread.
-Feature Image: "/uploads/Market%20-%20credit%20USAID.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/Market+-+credit+USAID.jpeg"
 Country:
 - Bangladesh
 - Cambodia

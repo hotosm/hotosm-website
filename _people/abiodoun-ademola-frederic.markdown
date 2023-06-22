@@ -1,7 +1,7 @@
 ---
 title: Abiodoun Adémola Frédéric
 date: 2022-09-02 10:52:00 Z
-Photo: "/uploads/FB_IMG_15835712418980520%20-%20Frederic%20Abiodoun.jpg"
+Photo: "https://cdn.hotosm.org/website/FB_IMG_15835712418980520+-+Frederic+Abiodoun.jpg"
 Member Type:
   Is Voting Member: true
 Country: Benin

@@ -2,7 +2,7 @@
 title: 'El mapeo de campo es el futuro: Un flujo de trabajo del Gestor de Tareas utilizando
   ODK'
 date: 2022-08-24 15:52:00 Z
-Feature Image: "/uploads/Screen%20Shot%202022-08-24%20at%205.33.21%20PM.png"
+Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+5.33.21+PM.png"
 ---
 
 **La cartografía de campo realizada por la población local es clave para el futuro del mapeo abierto. Sin embargo, las herramientas disponibles para la cartografía de campo -a pesar de que muchas son de gran calidad- no forman un ecosistema coherente que permita liberar el potencial de la cartografía de campo comunitaria. Falta algo. ¿Podría ser un Gestor de Tareas para la cartografía de campo?**
@@ -21,20 +21,20 @@ Uno de los elementos más impactantes del ecosistema de mapeo abierto en los úl
 
 Se necesitaba algo: una forma de asignar tareas pequeñas y manejables a las personas, hacer seguimiento de su progreso, comprobar la calidad y validar su trabajo, e integrar sin problemas los nuevos datos en OpenStreetMap sin dañar los datos existentes. El Gestor de Tareas de HOT sirvió de elemento unificador; una herramienta para que la comunidad definiera las necesidades de datos y para que los cartógrafos individuales contribuyeran con facilidad y confianza.
 
-![Screen Shot 2022-08-24 at 3.14.13 PM-ce4f17.png](/uploads/Screen%20Shot%202022-08-24%20at%203.14.13%20PM-ce4f17.png)
+![Screen Shot 2022-08-24 at 3.14.13 PM-ce4f17.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.14.13+PM-ce4f17.png)
 
 ¿Qué pasa con la asignación de tareas para el mapeo de campo?
 Hay una serie de grandes herramientas de recogida de datos sobre el terreno.
 
 El poderoso [OpenDataKit](https://getodk.org/) y las numerosas plataformas construidas a partir de él, como [Kobo Toolbox](https://www.kobotoolbox.org/), hacen posible que cualquier persona con un dispositivo Android pueda recopilar datos mediante formularios flexibles y potentes diseñados en una hoja de cálculo.
 
-![Screen Shot 2022-08-24 at 3.15.46 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.15.46%20PM.png)
+![Screen Shot 2022-08-24 at 3.15.46 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.15.46+PM.png)
 
 *La hoja de cálculo de la izquierda crea el cuestionario y la actividad "Seleccionar del mapa" en el teléfono.*
 
 [Vespucci](https://vespucci.io/) aporta gran parte de la potencia de JOSM a un editor móvil. [EveryDoor](https://every-door.app/) ofrece a los usuarios de Android y iPhone una plataforma sencilla para editar los datos de OSM, y StreetComplete hace lo mismo para los usuarios de Android. [OSMAND](https://osmand.net/) y [Organic Maps](https://organicmaps.app/) permiten la navegación y la visualización de mapas sin conexión con los datos de OSM, así como cierta capacidad básica para añadir o editar características para contribuir a OSM.
 
-![Screen Shot 2022-08-24 at 3.27.54 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.27.54%20PM.png)
+![Screen Shot 2022-08-24 at 3.27.54 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.27.54+PM.png)
 
 *Capturas de pantalla de EveryDoor, Vespucci, OSMAnd y Organic Maps*
 
@@ -76,11 +76,11 @@ Desde mediados de 2022, ODK incorpora una nueva funcionalidad, la [selección de
 
 *Esto replica en su mayor parte la funcionalidad del tan extrañado [OpenMapKit](http://www.openmapkit.org/), una bifurcación muy útil de ODK creada por la Cruz Roja Americana con el apoyo de HOT y otras agencias, que permitía a los usuarios lanzar formularios desde una vista de mapa y seleccionar edificios/características para añadirles atributos. Lamentablemente, OMK ya no recibe mantenimiento y no se puede utilizar de forma fiable.*
 
-![Screen Shot 2022-08-24 at 3.34.04 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.34.04%20PM.png)
+![Screen Shot 2022-08-24 at 3.34.04 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.34.04+PM.png)
 
 Además, la nueva aplicación del servidor web [ODK Central](https://docs.getodk.org/central-intro/) contiene herramientas muy granulares para asignar formularios a usuarios individuales. De hecho, es posible crear cuestionarios individuales para un número arbitrario de áreas pequeñas (como barrios), cada una con su propio conjunto de características (como edificios). Estos formularios pueden asignarse a "usuarios de la aplicación" específicos, con acceso a formularios específicos (y por tanto a barrios/áreas) definidos por un código QR.
 
-![Screen Shot 2022-08-24 at 3.35.11 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.35.11%20PM.png)
+![Screen Shot 2022-08-24 at 3.35.11 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.35.11+PM.png)
 
 *ODK Central admite la asignación de formularios individuales -y las características correspondientes, como los edificios- a usuarios individuales*
 

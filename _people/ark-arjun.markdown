@@ -1,7 +1,7 @@
 ---
 title: Ark Arjun
 date: 2022-09-05 13:29:00 Z
-Photo: "/uploads/Ark%20Arjun.jpg"
+Photo: "https://cdn.hotosm.org/website/Ark+Arjun.jpg"
 Member Type:
   Is Voting Member: true
 Country: India

@@ -87,11 +87,11 @@ Unordered List with Indents:
   <li>Milk</li>
 </ul>
 
-![Canoa_de_Tolda_-_Brazil_3.jpg](/uploads/Canoa_de_Tolda_-_Brazil_3.jpg)
+![Canoa_de_Tolda_-_Brazil_3.jpg](https://cdn.hotosm.org/website/Canoa_de_Tolda_-_Brazil_3.jpg)
 <figcaption align = "center"><h6>Caption aligned center</h6></figcaption>
 <br>
 
-![PhilAWARE combined.png](/uploads/PhilAWARE%20combined.png)
+![PhilAWARE combined.png](https://cdn.hotosm.org/website/PhilAWARE+combined.png)
 <figcaption align = "left"><h6>Caption aligned left</h6></figcaption>
 
 <iframe src="https://uploads.knightlab.com/storymapjs/e120c697c1124821d49174a85168e18d/equipo-alfa-del-hub-de-mapeo-abierto-de-america-latina/index.html" frameborder="0" width="100%" height="600"></iframe>

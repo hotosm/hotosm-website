@@ -10,7 +10,7 @@ tags:
 Summary Text: How a partnership in a local event in Brazil led HOT and TETO to work
   together towards building concrete emergency solutions to improve the living conditions
   of communities in situations of precarity and poverty.
-Feature Image: "/uploads/IMG_3532.heif.jpg"
+Feature Image: "https://cdn.hotosm.org/website/IMG_3532.heif.jpg"
 Person:
 - Carla Habif
 - 'Alessandra Figueiredo '
@@ -32,7 +32,7 @@ HOT came together in making those two events happen in one in two ways:
 
 * bringing open mapping reflections to the table.
 
-![IMG_3464(1).jpg](/uploads/IMG_3464(1).jpg)
+![IMG_3464(1).jpg](https://cdn.hotosm.org/website/IMG_3464(1).jpg)
 
 Partnering with TETO National Encounter of Volunteers and City of Rights as an unSummit event was different for us, exactly because at first there was no focus on open mapping activities or tools. At this time, we were in the first stages of our hub in Latin America and, as our name expresses it, we have as our main goal to dedicate our efforts to humanitarian action and community development. So we saw a huge opportunity in this new partnership, since TETO develops community centered projects in hundreds of favelas throughout Brazil, mobilizing thousands of volunteers every year.
 
@@ -42,7 +42,7 @@ So I - representing HOT - and [Elena Veríssimo](mailto:elenaverissimo@poli.ufrj
 
 After our presentation - that happened twice in different sessions - we had a space for discussions and in both sessions community residents that were at the event and volunteers raised their hands to talk about how applying the open mapping tools and methods we showed would be so important and asked us to follow up after the event.
 
-![IMG_3448(1).heif.jpg](/uploads/IMG_3448(1).heif.jpg)
+![IMG_3448(1).heif.jpg](https://cdn.hotosm.org/website/IMG_3448(1).heif.jpg)
 
 ***Next steps…***
 

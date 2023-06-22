@@ -5,7 +5,7 @@ date: 2021-06-07 19:14:00 Z
 Summary Text: HOT, in collaboration with the Global Fund for Disaster Reduction and
   Recovery and SwissRE Foundation, is proud to announce the Open Cities Latin America
   and the Caribbean project.
-Feature Image: "/uploads/IMG_20181005_072113.jpg"
+Feature Image: "https://cdn.hotosm.org/website/IMG_20181005_072113.jpg"
 Person: Céline Jacquin
 Country:
 - Mexico
@@ -27,7 +27,7 @@ Government institutions, civil protection, and risk management organizations nee
 
 Successful efforts in the creation of information by civil society and organizations from different sectors that involve communities exist, but there are still untapped opportunities to connect experiences and form a consolidated regional methodology and improve the quality of the data and open access to non-sensitive information.
 
-![LAC Announcement Photos.jpg](/uploads/LAC%20Announcement%20Photos.jpg)
+![LAC Announcement Photos.jpg](https://cdn.hotosm.org/website/LAC+Announcement+Photos.jpg)
 
 ## Collaboration and joint experiences enable the creation and sustainability of open community mapping
 
@@ -39,10 +39,10 @@ Efforts were made in collaboration with the World Bank operational teams to prom
 
 The emphasis on remote learning, gender, cultural diversity, and sustainability over time, and the consolidation of communities of practice are at the core of the vision of the Open Cities program. In Latin America and the Caribbean, HOT has a collaborative relationship with a vast and diverse mapping community, which will be warmly invited to participate in the actions developed.
 
-![IMG_20130415_155223.jpg](/uploads/IMG_20130415_155223.jpg)
+![IMG_20130415_155223.jpg](https://cdn.hotosm.org/website/IMG_20130415_155223.jpg)
 *Fieldwork during Public Transport mapping project in Managua (Nicaragua) by Mapanica’s community, 2017.*
 
-![Cusco Mapping.gif](/uploads/Cusco%20Mapping.gif)
+![Cusco Mapping.gif](https://cdn.hotosm.org/website/Cusco+Mapping.gif)
 *Data added during [Cusco Mapping Activation for Covid-19](https://www.hotosm.org/updates/covid-19-pandemic-in-peru-mapping-health-implications/), 2020.*
 
 Open Cities Latin America and the Caribbean will strengthen the capacities and links between communities and organizations through local pilots in five countries: Mexico, Guatemala, Saint Lucia, Dominica, and Jamaica, by supporting them to create, compile and use open source geospatial data for disaster risk management with a robust process. It will also support governments and organizations to make informed, data-driven decisions and train hundreds of people in local communities and universities in data collection and the use of open source geospatial tools.

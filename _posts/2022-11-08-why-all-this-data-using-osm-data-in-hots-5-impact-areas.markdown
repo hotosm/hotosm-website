@@ -6,7 +6,7 @@ Summary Text: OpenStreetMap (OSM) was created to provide and enable the free and
   works! Since its creation in 2005, OSM has grown to include ever expanding and deepening
   coverage of various base map layers and has now widely become a go-to spatial data
   platform for many users.
-Feature Image: "/uploads/Impact%20Areas-fb37a7.png"
+Feature Image: "https://cdn.hotosm.org/website/Impact+Areas-fb37a7.png"
 Is image top aligned: true
 Person:
 - Jessica Pechmann

@@ -5,7 +5,7 @@ Summary Text: HOT is actively looking to collaborate on and support conferences 
   bring together communities, partners, collaborators and supporters, committed to
   and active in humanitarian open mapping to learn, share and connect. Can you help
   us?
-Feature Image: "/uploads/37292578056_09b8490222_o.jpg"
+Feature Image: "https://cdn.hotosm.org/website/37292578056_09b8490222_o.jpg"
 Person: The HOT Summit Working Group
 Working Group:
 - HOT Summit

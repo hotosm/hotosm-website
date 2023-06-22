@@ -5,7 +5,7 @@ Summary Text: URBELatam, a partnership of three universities, is working with th
   Preventório Community Bank to map the Morro do Preventório community near Rio de
   Janeiro. This will enable the bank to expand its services to the community and serve
   as a model and inspiration for other favela communities.
-Feature Image: "/uploads/Favela%20Mapping%201.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Favela+Mapping+1.jpg"
 Person:
 - Alessandra Figueiredo
 - Elena Veríssimo
@@ -30,7 +30,7 @@ We saw this happen in 2013, before the 2014 World Cup in Brazil and the 2016 Oly
 
 Paulinho Otaviano, a resident and local guide in Santa Marta, [said](https://rioonwatch.org/?p=32519) “For me, the fact of not being on the map, creates a sense of exclusion, that we are not part of the city, that we are not part of the traditional script,” in an interview with [Todo Mapa Tem Um Discurso](https://todomapatemumdiscurso.wordpress.com/) (Every Map Has a Discourse).
 
-![Favela Mapping 4.jpg](/uploads/Favela%20Mapping%204.jpg)
+![Favela Mapping 4.jpg](https://cdn.hotosm.org/website/Favela+Mapping+4.jpg)
 
 *One of the authors, Alessandra Figueiredo (top right), with a teammate (top left) and a resident of the community (middle)*
 
@@ -58,7 +58,7 @@ Another very important platform for our work was [KOBO Collect](https://www.kobo
 
 On this journey, we encountered several challenges, including identifying leisure areas. These areas are usually recognized for their clear, defined roles. However, in more peripheral areas, it's normal to use public spaces without an established purpose: for example, a vacant lot can be used for several recreational reasons, such as a gathering place for children to play, a practice area for sports, a venue for community parties, etc.
 
-![Favela Mapping 3.jpg](/uploads/Favela%20Mapping%203.jpg)
+![Favela Mapping 3.jpg](https://cdn.hotosm.org/website/Favela+Mapping+3.jpg)
 
 ## Sharing Knowledge
 
@@ -75,4 +75,4 @@ From there, the challenge became translating what we were doing in a simple and 
 There, we shared our knowledge and our drives and, amid this exchange, we ended up discovering new motivations and new goals. This generated the desire that the seed we planted in other community agents grows and flourishes, making each favela in Rio de Janeiro come alive through maps made by its own residents.
 
 ***The authors from left to right: Alessandra Figueiredo, Elena Veríssimo and Samara Franco***
-![Favela Mapping 5.png](/uploads/Favela%20Mapping%205.png)
+![Favela Mapping 5.png](https://cdn.hotosm.org/website/Favela+Mapping+5.png)

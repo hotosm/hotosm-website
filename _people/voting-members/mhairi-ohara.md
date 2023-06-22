@@ -1,7 +1,7 @@
 ---
 title: Mhairi O'Hara
 date: 2015-02-12 14:16:00 Z
-Photo: "/uploads/MhairiOhara.JPG"
+Photo: "https://cdn.hotosm.org/website/MhairiOhara.JPG"
 Member Type:
   Is Staff: false
   Is Voting Member: true

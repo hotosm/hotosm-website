@@ -26,7 +26,7 @@ At HOT, our data approach goes beyond satisfying curiosity; we strive to generat
 
 ## OSM Contributions Decline
 
-![stats-icon-271781.png](/uploads/stats-icon-271781.png)
+![stats-icon-271781.png](https://cdn.hotosm.org/website/stats-icon-271781.png)
 
 Earlier this year, [Simon Poole's observation about a 20% decline in new OSM contributors in 2022](https://www.openstreetmap.org/user/SimonPoole/diary/400701) caught our attention. Recognizing the potential implications of this decline on HOT's support to local communities, our Regional Hub teams were eager to investigate further.
 

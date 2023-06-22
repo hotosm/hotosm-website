@@ -3,7 +3,7 @@ title: 'Turkey And Syria Response: A Month After The Earthquake'
 date: 2023-03-09 21:00:00 Z
 Summary Text: The mapping response to the Turkey and Syria earthquake has shown the
   power of OSM data to support disaster response.
-Feature Image: "/uploads/Hatay_Antakya_Center_After_Earthquake%20_Planet_20230211.png"
+Feature Image: "https://cdn.hotosm.org/website/Hatay_Antakya_Center_After_Earthquake+_Planet_20230211.png"
 Is image top aligned: true
 Person:
 - Pete Masters
@@ -30,7 +30,7 @@ Earthquakes create extreme challenges for navigation. Internet and cellular netw
 <div align="center"><iframe width="325" height="601" src="https://www.youtube.com/embed/zVLq1rMOcN8" title="Dr Çevik&#39;s message to mappers: &quot;Thank you all, you are doing really great work&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 <br>
 
-![Turkey OSM quote narrow.png](/uploads/Turkey%20OSM%20quote%20narrow.png)
+![Turkey OSM quote narrow.png](https://cdn.hotosm.org/website/Turkey+OSM+quote+narrow.png)
 
 <figcaption align = "center"><h6>Message from a doctor in the field to a mapper. Translation: On the first day I went to Rehaniya, when google maps was not working, Organic Maps guided us. The importance of such tools is enormous. Good luck to you, Can. 🔥 organic maps 🔥 </h6></figcaption>
 

@@ -22,12 +22,12 @@ A lot has been happening thanks to the hard working team at Kathmandu Living Lab
 
 * We launched the monthly Tasking Manager Collective Meet Ups in April 2022 and we have really enjoyed having this space to interact directly with users, understand their needs better and prioritize based on user needs. Our focus from the start has always been on building with, for, and by the community and we are very excited that these meets up are taking place! All updates and links to presentations can be seen in the [agenda rolling doc](https://docs.google.com/document/d/1SW7Klq49pD35k-gQIQT3UhhgVxF4yr6OfNIg1hXFeQA/edit#).
 
-![Meet Up -screenshot-0367cf.PNG](/uploads/Meet%20Up%20-screenshot-0367cf.PNG)
+![Meet Up -screenshot-0367cf.PNG](https://cdn.hotosm.org/website/Meet+Up+-screenshot-0367cf.PNG)
 
 * We asked contributors to support with testing before any changes go live. We are very thankful for the enthusiasm and the time dedicated by our users for testing. On a monthly basis, any issues ready for testing are publicly available on [Github in the Testing Column](https://github.com/orgs/hotosm/projects/4/views/1). Join the [#tasking-manager-testing Slack channel](https://join.slack.com/share/enQtMzgzMDAyMDExMjUxOS1lNDdkZjJhZDhhNTU2ZDlhMDc5YmM1YWEwNjlkOWUwNzFjY2VhZTA0OWZlZDUwMTBhYmIzNGJkMDYxMjM0N2Ew) if you want to engage with others interested in testing!
 
 * HOT_tech team and the Kathmandu Living Labs team met in person in Kathmandu in June. We were very excited to have this opportunity to connect but also have a productive session. We looked at improving the labels being used on Github, how to improve the process for prioritisation and possibly archiving some issues. We also laughed a lot, listened to some traditional Nepali instruments and danced!
-![In-person_KLL.jpg](/uploads/In-person_KLL.jpg)* 
+![In-person_KLL.jpg](https://cdn.hotosm.org/website/In-person_KLL.jpg)* 
 
 We are super thankful to everyone for the support so far. And in the future, we look forward to enhancing the user experience and bringing ways to encourage people to be even more engaged in collaborative mapping for humanitarian purpose.  We welcome feedback at anytime on ways to improve, so don’t hesitate to reach out to us directly via [Github](https://github.com/hotosm/tasking-manager/issues), [Slack](https://join.slack.com/share/enQtMzg0NDYxMDY0Nzc2Mi0wMjI4ZjE0NzJmYjk3MWE2MTRkODJkZDYwYzg1OGMyYmFjYThmYmEyNjBkY2EzNjYyMGVjNDliMmRlMjc5YTRh) or [tech support](https://hotosm.atlassian.net/servicedesk/customer/portal/4).
 

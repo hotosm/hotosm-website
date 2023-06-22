@@ -1,7 +1,7 @@
 ---
 title: Kshitij Sharma
 date: 2021-10-18 07:27:00 Z
-Photo: "/uploads/Screenshot%202021-10-18%20at%2009.39.14-7bac6f.png"
+Photo: "https://cdn.hotosm.org/website/Screenshot+2021-10-18+at+09.39.14-7bac6f.png"
 Member Type:
   Is Staff: true
 Job Title: Backend Engineer/Developer

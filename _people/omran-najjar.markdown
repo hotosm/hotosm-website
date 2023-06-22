@@ -1,7 +1,7 @@
 ---
 title: Omran Najjar
 date: 2021-05-21 13:31:00 Z
-Photo: "/uploads/Omran%20HOT%20Profile%20Pic.jpg"
+Photo: "https://cdn.hotosm.org/website/Omran+HOT+Profile+Pic.jpg"
 Member Type:
   Is Staff: true
 Job Title: AI and Advanced Data Engineer

@@ -21,15 +21,15 @@ During the internship, I had the opportunity to communicate with fellow interns 
 
 Meeting new people is always interesting and it was even more interesting to meet the other 19 interns as they were from different countries. We were all divided by national boundaries, culture, and language but we were all united by HOT in a single classroom. The first friend I met was Tengku Almira from Indonesia who is so passionate and follows her dreams. We shared our culture, festivals, religion, geography and field of study with each other.
 
-![unnamed (2)-7346d4.png](/uploads/unnamed%20(2)-7346d4.png)
+![unnamed (2)-7346d4.png](https://cdn.hotosm.org/website/unnamed+(2)-7346d4.png)
 
 Becky arranged coffee chats with other interns. With Lassine and Viji, we discussed OSM activities in our regions, different mapathons, GIS Day, the HOT Summit, State of the Map US, and other OSM related topics. With Micheal and Gustavo, we discussed our OSM journeys, problems while mapping and validating and opportunities in OSM. I also enjoyed talking with friends from my country, Puspa and Sandhya and shared our experience of meeting new faces from different countries.
 
-![unnamed (3)-ce0381.png](/uploads/unnamed%20(3)-ce0381.png)
+![unnamed (3)-ce0381.png](https://cdn.hotosm.org/website/unnamed+(3)-ce0381.png)
 
 I am so glad that I also got a chance to have a chat with Bo Percival, the Director of Technology and Innovation at HOT. He told me that he had lived in Nepal for more than a year and loves Nepal and our festivals [Dashain ](https://www.stunningnepal.com/dashain-festival-in-nepal/)and [Tihar](https://www.tibettravel.org/nepal-festival/tihar-festival.html).
 
-![unnamed (4).png](/uploads/unnamed%20(4).png)
+![unnamed (4).png](https://cdn.hotosm.org/website/unnamed+(4).png)
 
 I made great friends from this internship and we are still in touch. Being from remote Nepal,  it was great to meet people from different countries and know about their geography, festivals and religion.
 
@@ -49,7 +49,7 @@ Some of the projects that I mapped and validated during this internship were:
 
 Among all these projects, I mostly worked on the Zambia Local Impact Governance Activity project and that means the most to me. The USAID Local Impact Governance Activity will help Zambia build up a sub-national system of governance for devolved service delivery that is more responsive to citizen needs. Remote mapping of buildings and roads will support the implementation of planned activities and the generation of data for humanitarian activities.
 
-![unnamed (5).png](/uploads/unnamed%20(5).png)
+![unnamed (5).png](https://cdn.hotosm.org/website/unnamed+(5).png)
 
 **What do you hope to do with the skills that you learned during the internship?**
 

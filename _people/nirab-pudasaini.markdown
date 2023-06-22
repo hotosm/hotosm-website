@@ -1,7 +1,7 @@
 ---
 title: Nirab Pudasaini
 date: 2022-02-01 17:53:00 Z
-Photo: "/uploads/Nirab_Pudasaini_Picture.jpg"
+Photo: "https://cdn.hotosm.org/website/Nirab_Pudasaini_Picture.jpg"
 Member Type:
   Is Staff: true
 Job Title: Open Tech and Innovation Specialist - Asia Pacific

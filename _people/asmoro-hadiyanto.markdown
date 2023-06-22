@@ -2,7 +2,7 @@
 title: Asmoro Hadiyanto
 date: 2022-02-07 01:59:00 Z
 published: false
-Photo: "/uploads/Asmoro-UN.jpg"
+Photo: "https://cdn.hotosm.org/website/Asmoro-UN.jpg"
 Member Type:
   Is Staff: false
 Job Title: Partnerships Manager - Asia Pacific

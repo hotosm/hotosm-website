@@ -23,7 +23,7 @@ Summary Text: This month I have been feeling like the world has been spinning fa
   than ever. Does anyone else feel that? The days just don’t seem as long as they
   used to be? Do the image offsets seem to be more often and further than they have
   been in the past?
-Feature Image: "/uploads/DC9AC051-8DD2-402E-A9A2-62D8EB7C6C0F.png"
+Feature Image: "https://cdn.hotosm.org/website/DC9AC051-8DD2-402E-A9A2-62D8EB7C6C0F.png"
 Is image top aligned: true
 Person: Bo
 ---

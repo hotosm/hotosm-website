@@ -5,6 +5,6 @@ Impact Area:
 - Disasters & Climate Resilience
 ---
 
-![unwater-poster.png](/uploads/unwater-poster.png)
+![unwater-poster.png](https://cdn.hotosm.org/website/unwater-poster.png)
 
 Join at: [shorturl.at/iD379](https://shorturl.at/iD379)

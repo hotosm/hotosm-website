@@ -28,7 +28,7 @@ En HOT, nuestro enfoque de los datos va más allá de satisfacer la curiosidad; 
 
 ## Disminución de colaboradores en OSM
 
-![stats-icon-271781.png](/uploads/stats-icon-271781.png)
+![stats-icon-271781.png](https://cdn.hotosm.org/website/stats-icon-271781.png)
 
 A principios de este año, [la mención de Simon Poole sobre un descenso del 20% de nuevos colaboradores de OSM en 2022](https://www.openstreetmap.org/user/SimonPoole/diary/400701) llamó nuestra atención. Reconociendo las implicaciones potenciales de este descenso en el apoyo de HOT a las comunidades locales, nuestros equipos de los Hubs Regionales estaban impacientes por investigar más a fondo.
 

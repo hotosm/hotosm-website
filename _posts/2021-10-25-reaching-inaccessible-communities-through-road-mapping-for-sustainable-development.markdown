@@ -4,7 +4,7 @@ date: 2021-10-25 15:36:00 Z
 Summary Text: Since 2017, HOT has partnered with Facebook to build up and improve
   the data in OSM, particularly for countries in Southeast Asia where HOT has extensive
   experience in generating open geodata for humanitarian actions.
-Feature Image: "/uploads/Facebook%20Blog%203.png"
+Feature Image: "https://cdn.hotosm.org/website/Facebook+Blog+3.png"
 Person:
 - Carter Draper
 - Dinar Adiatma
@@ -24,7 +24,7 @@ So far, OSM roads data have been used to:
 * Help in the development of new software tools for open and participatory mapping.
 * Propel development of businesses, e.g. growth in online marketing and door-to-door delivery of goods and services since it is easier to reach customers.
 
-![Facebook Blog 1-d68e41.png](/uploads/Facebook%20Blog%201-d68e41.png)
+![Facebook Blog 1-d68e41.png](https://cdn.hotosm.org/website/Facebook+Blog+1-d68e41.png)
 *Deployed Methodology in Road Mapping*
 
 Using these tools, a total of **791,355 km of roads** and **913,544 buildings** have been mapped from October 2019 to September 2021, covering countries in Southern Asia - Malaysia, Vietnam, Indonesia to Tanzania in Eastern Africa.
@@ -37,7 +37,7 @@ Now, the project is being implemented remotely by two teams. [POI](https://opens
 
 By providing tools that can accelerate mapping and amplify the work of human mappers, this project supports the goal of mapping an area home to one billion people.
 
-![Facebook Blog 2.png](/uploads/Facebook%20Blog%202.png)
+![Facebook Blog 2.png](https://cdn.hotosm.org/website/Facebook+Blog+2.png)
 
 ## Project Learning and Benefits
 * We encountered a lot of community feedback from changeset discussions. This feedback helps us improve our workflows. Feedback from countries like [Vietnam](https://www.openstreetmap.org/changeset/61700324) and [Tanzania](https://www.openstreetmap.org/changeset/97967115#map=15/-3.7186/36.7254) is managed using [Pascal Neis tools](https://resultmaps.neis-one.org/osm-discussions#1/-8/9).

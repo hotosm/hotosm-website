@@ -9,7 +9,7 @@ tags:
 Summary Text: O Hub de Mapeamento Aberto da América Latina está ocupado com vários
   projetos, se você quiser saber quais são, aqui compartilhamos uma visão geral do
   que está sendo feito na região.
-Feature Image: "/uploads/CT-BSF-2001-0011.jpg"
+Feature Image: "https://cdn.hotosm.org/website/CT-BSF-2001-0011.jpg"
 Person: Equipe alfa do Hub Latam
 ---
 
@@ -21,7 +21,7 @@ Quando apresentamos a [atualização](https://www.hotosm.org/updates/hub-de-mape
 
 ## Canoa de Tolda (Brasil)
 
-![CT-BSF-2001-0011.jpg](/uploads/CT-BSF-2001-0011.jpg)
+![CT-BSF-2001-0011.jpg](https://cdn.hotosm.org/website/CT-BSF-2001-0011.jpg)
 
 Mato da Onça, *Baixo São Francisco, Coleção Canoa de Tolda, Imagem Canoa de Tolda, 2001 – Pão de Açúcar – AL*
 
@@ -39,7 +39,7 @@ Para as etapas seguintes dessa cooperação, a HOT fornecerá treinamento de cam
 
 ## Mapeamento de dejetos sólidos (Guatemala)
 
-![guate2.jpg](/uploads/guate2.jpg)
+![guate2.jpg](https://cdn.hotosm.org/website/guate2.jpg)
 
 *Imagen: eluniversal.com.mx/*
 
@@ -49,7 +49,7 @@ A HOT já teve no passado projetos com este mesmo foco em outras áreas do mundo
 
 ## Open Cities Tulum (México)
 
-![Foto de Ce Ja(2)-367317.jpg](/uploads/Foto%20de%20Ce%20Ja(2)-367317.jpg)
+![Foto de Ce Ja(2)-367317.jpg](https://cdn.hotosm.org/website/Foto+de+Ce+Ja(2)-367317.jpg)
 
 “OpenCities Tulum”, renomeado como [Co.Mapper](https://comapper.org/), é uma adaptação de uma [metodologia](https://opendri.org/wp-content/uploads/2020/10/Open-Cities-Africa-Final-Report.pdf) já implementada em várias cidades da África pela HOT em colaboração com o GFDRR, e desta vez financiada pela [Swiss Re Foundation](https://www.swissrefoundation.org/). No México, o [município de Tulum](https://pt.wikipedia.org/wiki/Tulum_(munic%C3%ADpio)) foi escolhido devido à exposição às mudanças climáticas experimentadas pela Península de Yucatán e por Quintana Roo e os meios relativamente limitados que este município tem para enfrentar o impacto do crescimento urbano e turístico que ocorreu em diferentes níveis desde a última década.
 
@@ -61,7 +61,7 @@ Outro fundamento da metodologia OpenCities é a transferência de conhecimento, 
 
 ## Fábrica de projetos (Regional)
 
-![fabrica cusco.jpeg](/uploads/fabrica%20cusco.jpeg)
+![fabrica cusco.jpeg](https://cdn.hotosm.org/website/fabrica+cusco.jpeg)
 
 A Fábrica de Projetos valoriza e acompanha novas iniciativas e ideias que ampliam o potencial de elaboração e uso de mapas abertos por diferentes grupos e comunidades em questões sociais, ambientais e humanitárias.
 
@@ -79,7 +79,7 @@ Estamos em processo de colaboração com outros grupos da região que darão ori
 
 ## Apoio comunitário regional
 
-![Rodrigo2.jpg](/uploads/Rodrigo2.jpg)
+![Rodrigo2.jpg](https://cdn.hotosm.org/website/Rodrigo2.jpg)
 
 Esse apoio é baseado no contato e conhecimento da comunidade regional para identificar necessidades e conectar diversas comunidades e grupos de diferentes países.
 

@@ -5,7 +5,7 @@ Summary Text: Le HOT unSummit offre un financement de voyage aux contributeurs e
   membres de la communauté HOT et aux membres actifs dans le domaine de la cartographie
   et des données ouvertes et humanitaires, afin qu'ils puissent assister à deux des
   conférences que nous soutenons, FOSS4G et SOTM. Posez votre candidature dès maintenant!
-Feature Image: "/uploads/51490564400_99fd58725d_k-f3dc57.jpg"
+Feature Image: "https://cdn.hotosm.org/website/51490564400_99fd58725d_k-f3dc57.jpg"
 Working Group:
 - HOT Summit
 ---

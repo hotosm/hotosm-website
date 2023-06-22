@@ -5,7 +5,7 @@ position: 10
 Project Summary Text: |-
   The scale of the global COVID-19 pandemic created huge spikes in demand for personal protection equipment (PPE) and infection control supplies required by frontline workers in the health and relief sectors.
   In response, the Protecting the Frontline project set out to support frontline workers, specifically those in hard-to-reach conflict zones, to access locally produced PPE.
-Feature Image: "/uploads/Field%20ready%20map.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Field+ready+map.jpg"
 Country:
 - Kenya
 - Uganda

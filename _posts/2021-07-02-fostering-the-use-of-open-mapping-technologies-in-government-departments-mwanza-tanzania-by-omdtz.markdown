@@ -6,7 +6,7 @@ Summary Text: After five months of data collection in Mwanza, on 12th to 15th Ap
   2021, the Ramani Huria consortium facilitated a final workshop with key government
   officials to share the methodology, collected data, and discussions on how they
   can use the data for disaster management and risk reduction in Ilemela and Nyamagana.
-Feature Image: "/uploads/0_783RyHjeAyE0bZVj.png"
+Feature Image: "https://cdn.hotosm.org/website/0_783RyHjeAyE0bZVj.png"
 Person: Hawa Adinani
 Country:
 - Tanzania

@@ -11,7 +11,7 @@ Summary Text: |-
   Well, what a start to the year it’s been! Like mentioned previously, new directions, new collaborations and, I’m excited to announce, new team members!
 
   While you can read the official bios for each new member linked by their name, I would like to take this opportunity to introduce them unofficially to everyone. Please see their unofficial bios and a quick insight into why I’m really glad to have them joining our team.
-Feature Image: "/uploads/419A37F2-1693-465B-9D42-AEC6241D5CEB.png"
+Feature Image: "https://cdn.hotosm.org/website/419A37F2-1693-465B-9D42-AEC6241D5CEB.png"
 ---
 
 Well, what a start to the year it’s been! Like mentioned previously, new directions, new collaborations and, I’m excited to announce, *new team members!*

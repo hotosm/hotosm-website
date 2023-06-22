@@ -4,7 +4,7 @@ date: 2021-04-13 07:00:00 Z
 Summary Text: As part of the most recent call for Facebook Community Impact Microgrant
   applications, HOT tried a new mentorship approach to supporting OpenStreetMap (OSM)
   community members through the application process.
-Feature Image: "/uploads/Mentorship%20Post%20v2.png"
+Feature Image: "https://cdn.hotosm.org/website/Mentorship+Post+v2.png"
 Is image top aligned: false
 Person: Sophie Mower
 Project:

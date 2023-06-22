@@ -5,7 +5,7 @@ published: false
 Project Summary Text: |-
   Using open source geospatial mapping tools and local knowledge to improve
   field epidemiology and patient tracing in rural Uganda
-Feature Image: "/uploads/ESA_Scaling_Missing_Maps_Great_Lakes_Header.webp"
+Feature Image: "https://cdn.hotosm.org/website/ESA_Scaling_Missing_Maps_Great_Lakes_Header.webp"
 Country:
 - Uganda
 - Democratic Republic of the Congo
@@ -26,7 +26,7 @@ Patient tracking is a crucial public health activity that contributes to reducin
 
 In Uganda, HOT partnered with district and community health teams to design a community participatory mapping exercise across Kisoro and Zombo districts. This mapping exercise included locating and mapping all geographical and human-made features within the districts that would enable community health workers to easily find, locate, and trace patients quicker and more efficiently.
 
-![ESA_Scaling_Missing_Maps_Great_Lakes_ManMotorcycle.webp](/uploads/ESA_Scaling_Missing_Maps_Great_Lakes_ManMotorcycle.webp)
+![ESA_Scaling_Missing_Maps_Great_Lakes_ManMotorcycle.webp](https://cdn.hotosm.org/website/ESA_Scaling_Missing_Maps_Great_Lakes_ManMotorcycle.webp)
 
 ## Methodology
 
@@ -34,13 +34,13 @@ In Uganda, HOT partnered with district and community health teams to design a co
 
 Remote mapping and validation exercises were carried out in the priority districts of Kisoro, Zombo, Kanungu, Rubirizi, Rukungiri, Isingiro, Kamwenge, Kyegegwa, Ntoroko, Bundibugyo, Kikuube, Kasese, Hoima, Kiryandongo, Maracha, Nebbi, and Koboko. Over 2.5 million building footprints were added to OpenStreetMap (OSM).
 
-![ESA_Scaling_Missing_Maps_Great_Lakes_PeopleOutsideHouse.jpeg](/uploads/ESA_Scaling_Missing_Maps_Great_Lakes_PeopleOutsideHouse.jpeg)
+![ESA_Scaling_Missing_Maps_Great_Lakes_PeopleOutsideHouse.jpeg](https://cdn.hotosm.org/website/ESA_Scaling_Missing_Maps_Great_Lakes_PeopleOutsideHouse.jpeg)
 
 ### Field data collection
 
 HOT carried out two separate data collection activities which began in December 2020 in Kisoro district and continued to Zombo District from March 2021. The fieldwork included the collection of geographic information of different amenities located in these two districts.
 
-![ESA_Scaling_Missing_Maps_Great_Lakes_SmilingPointingMap-ed6ce1.jpeg](/uploads/ESA_Scaling_Missing_Maps_Great_Lakes_SmilingPointingMap-ed6ce1.jpeg)
+![ESA_Scaling_Missing_Maps_Great_Lakes_SmilingPointingMap-ed6ce1.jpeg](https://cdn.hotosm.org/website/ESA_Scaling_Missing_Maps_Great_Lakes_SmilingPointingMap-ed6ce1.jpeg)
 
 Data collectors were split into subgroups and sent to different parishes of a particular sub-county to ensure surveyors were adequately assigned to tasks and could be followed up with in case of any issues as well as ensure proper data management as related to data quality or inconsistencies.
 
@@ -48,15 +48,15 @@ A total of 30 surveyors were trained on OpenDataKit and OpenMapKit to carry out 
 
 At the end of the field mapping period, the data was reviewed, validated, and uploaded to the OSM platform.
 
-![ESA_Scaling_Missing_Maps_Great_Lakes_kanaba-subcounty-hq-kisoro-district-1048x699.jpeg](/uploads/ESA_Scaling_Missing_Maps_Great_Lakes_kanaba-subcounty-hq-kisoro-district-1048x699.jpeg)
+![ESA_Scaling_Missing_Maps_Great_Lakes_kanaba-subcounty-hq-kisoro-district-1048x699.jpeg](https://cdn.hotosm.org/website/ESA_Scaling_Missing_Maps_Great_Lakes_kanaba-subcounty-hq-kisoro-district-1048x699.jpeg)
 
 ## Maps
 
 The HOT team collaborated with the district health team to design and produce village-level, book-sized maps. These book-sized maps were distributed to the village community health workers to help them navigate, locate, and record their movements even without using smartphones. The aim is to develop district-level gazetteers that will be shared with health centers across the district to assist in reducing the time spent on patient tracing.
 
-![ESA_Scaling_Missing_Maps_Great_Lakes_output_buhinga-1.jpeg](/uploads/ESA_Scaling_Missing_Maps_Great_Lakes_output_buhinga-1.jpeg)
-![ESA_Scaling_Missing_Maps_Great_Lakes_output_gahuru1.jpeg](/uploads/ESA_Scaling_Missing_Maps_Great_Lakes_output_gahuru1.jpeg)
-![ESA_Scaling_Missing_Maps_Great_Lakes_output_kikomo-4096x2137.jpeg](/uploads/ESA_Scaling_Missing_Maps_Great_Lakes_output_kikomo-4096x2137.jpeg)
+![ESA_Scaling_Missing_Maps_Great_Lakes_output_buhinga-1.jpeg](https://cdn.hotosm.org/website/ESA_Scaling_Missing_Maps_Great_Lakes_output_buhinga-1.jpeg)
+![ESA_Scaling_Missing_Maps_Great_Lakes_output_gahuru1.jpeg](https://cdn.hotosm.org/website/ESA_Scaling_Missing_Maps_Great_Lakes_output_gahuru1.jpeg)
+![ESA_Scaling_Missing_Maps_Great_Lakes_output_kikomo-4096x2137.jpeg](https://cdn.hotosm.org/website/ESA_Scaling_Missing_Maps_Great_Lakes_output_kikomo-4096x2137.jpeg)
 
 ## Use cases
 
@@ -66,7 +66,7 @@ Dr. Nick Muneza, the Assistant District Health Officer (DHO) in Kisoro illustrat
 
 * "One week after we got the maps, we were able to change one child immunization outreach post in Nyakinama sub-county. The post was meant to serve people in Nyakinama and had been placed in Mubuga. We realized that instead, it was serving people from Nyarubuge. So according to the map, we were able to locate that the most suitable place for this outreach post is Kwaranga. Now we have more people from Nyakinama utilizing the post for immunization."
 
-![ESA_Scaling_Missing_Maps_Great_Lakes_DrNickMuneza1.webp](/uploads/ESA_Scaling_Missing_Maps_Great_Lakes_DrNickMuneza1.webp) *Dr. Nick Muneza, Assistant District Health Officer, Kisoro, Uganda*
+![ESA_Scaling_Missing_Maps_Great_Lakes_DrNickMuneza1.webp](https://cdn.hotosm.org/website/ESA_Scaling_Missing_Maps_Great_Lakes_DrNickMuneza1.webp) *Dr. Nick Muneza, Assistant District Health Officer, Kisoro, Uganda*
 
 Kajyibgami Kenneth, 67, the chairman of the village health teams (VHTs) in Chahi Sub County reports that during the height of the COVID-19 outbreak in Uganda, it was very easy for them to quarantine people and predict the extent of spread according to the locations on the maps.
 
@@ -74,7 +74,7 @@ Kajyibgami Kenneth, 67, the chairman of the village health teams (VHTs) in Chahi
 
 He adds that the process has now been made more accessible with the introduction of hard copy maps for some of the VHTs in his sub-county who had no access to smartphones.
 
-![ESA_Scaling_Missing_Maps_Great_Lakes_DrNickMuneza2.webp](/uploads/ESA_Scaling_Missing_Maps_Great_Lakes_DrNickMuneza2.webp) *Assistant District Health Officer, Dr. Nick Muneza at the District Health Office Kisoro District with a copy of the new map created by HOT with support from the Village Health Team.*
+![ESA_Scaling_Missing_Maps_Great_Lakes_DrNickMuneza2.webp](https://cdn.hotosm.org/website/ESA_Scaling_Missing_Maps_Great_Lakes_DrNickMuneza2.webp) *Assistant District Health Officer, Dr. Nick Muneza at the District Health Office Kisoro District with a copy of the new map created by HOT with support from the Village Health Team.*
 
 **Additional maps are available from the** [Scaling Missing Maps Atlas](https://drive.google.com/file/d/1pE0ai58bD84wLxPP0cP-sB63kN9SK7Ys/view)
 

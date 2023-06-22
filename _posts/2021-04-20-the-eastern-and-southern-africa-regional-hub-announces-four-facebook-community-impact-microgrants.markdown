@@ -6,7 +6,7 @@ Summary Text: Four communities in Eastern and Southern Africa have been selected
   recipients of the Facebook Community Impact Microgrant. Congratulations to The Shack
   Dwellers Federation of Namibia, OpenStreetMap Uganda, The Malawi OpenStreetMap community,
   and The Center For Life Change and Development!
-Feature Image: "/uploads/Community%20Impact%20Microgrants%20FB-aa87ed.png"
+Feature Image: "https://cdn.hotosm.org/website/Community+Impact+Microgrants+FB-aa87ed.png"
 Person: Geoffrey Kateregga
 Country:
 - Malawi
@@ -26,7 +26,7 @@ In Namibia, 40 percent of the urban population lives in informal settlements, wi
 
 The consequences of this piecemeal data availability results in planners planning ‘over’ people. In addition, communities are frustrated by continued exclusion from mainstream planning, and limited efforts and strategies for long-term sustainable and equitable planning of human settlements in the country. Updating the data on OSM will be spearheaded by The Shack Dwellers Federation of Namibia (SDFN) and the Namibia Housing Action Group (NHAG), in partnership with Namibia University of Science and Technology’s (NUST) departments from the  Faculty of Natural Resources and Spatial Sciences. The Tobler Society YouthMappers Chapter at the University of Chicago, will evaluate and identify the gaps in the existing available OpenStreetMap data for Windhoek. The team will map all building footprints in formal and informal settlements in Windhoek, as well as streets, roads, rivers, and available basic community services such as water taps and sanitation/ablution facilities within informal settlements. The project aims to improve locally available data in OpenStreetMap to support  data access for stakeholders working in urban planning and land administration.
 
-![EAMG1.jpg](/uploads/EAMG1.jpg)
+![EAMG1.jpg](https://cdn.hotosm.org/website/EAMG1.jpg)
 
 **[Photomapping Uganda's New Cities Using Mapillary](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/HOT_Microgrants/Community_Impact_Microgrants_2021/Proposal/Photomapping_Uganda%27s_New_Cities)**
 
@@ -34,7 +34,7 @@ In July 2020, 15 municipalities in Uganda attained city status as a result of th
 
 OpenStreetMap Uganda will build upon its existing remote mapping efforts in the ongoing “[mapping of the new cities initiative](http://mapuganda.org/newcities.html)” by engaging the YouthMapperchapters and the general OSM community in a nationwide Mapillary campaign to generate over 100,000 new street-level images. These will be used to add more detailed road information to OpenStreetMap, such as data about street lights, road conditions, building heights, building materials and business information, that will be shared and used by the Ministry of Lands and city authorities to plan and monitor the new cities more effectively.
 
-![EAMG2.jpg](/uploads/EAMG2.jpg)
+![EAMG2.jpg](https://cdn.hotosm.org/website/EAMG2.jpg)
 
 **[OSM Mapping for Refugees - A Case of Dzaleka Camp, Malawi](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/HOT_Microgrants/Community_Impact_Microgrants_2021/Proposal/Dzaleka_Mapping)**
 
@@ -42,13 +42,13 @@ Established by UNHCR in 1994, Dzaleka is the largest refugee camp in Malawi, hos
 
 The Malawi OpenStreetMap community, in collaboration with YouthMappers and the Africa Drone and Data Academy (ADDA), will create a detailed map of the camp that will serve as a source of information regarding the provision of basic services. They will map out amenities such as education centers, health care centers, buildings and shelters, and water sources. They also want to use the project to revive the OSM community in Malawi, as well as establish a new OSM community in Dzaleka refugee camp.
 
-![EAMG3.png](/uploads/EAMG3.png)
+![EAMG3.png](https://cdn.hotosm.org/website/EAMG3.png)
 
 **[Using OpenStreetMap Tools to Fight Gender-Based Violence in Western Uganda](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/HOT_Microgrants/Community_Impact_Microgrants_2021/Proposal/Using_OpenStreetMap_Tools_to_Fight_Gender_Based_Violence_in_Western_Uganda)**
 
 The time of Covid-19 has seen a 20 percent increase in reports of gender-based violence in Uganda, according to the Ministry of Gender, Labour, and Social Development. The Center For Life Change and Development (CLCD), a female-led community-based organization fighting violence in western Uganda, will carry out OpenStreetMap training and mapping of critical social livelihood and care facilities in the Bushenyi district. The project aims to support the district social workers, police, and local government with handling gender-based violence cases through the use of maps to better navigate and locate GBV victims and seamlessly follow up cases.
 
-![EAMG4.png](/uploads/EAMG4.png)
+![EAMG4.png](https://cdn.hotosm.org/website/EAMG4.png)
 
 Special thanks go to our Review and Selection panel, which included HOT Voting Members Hawa Adinan from Tanzania, Matseliso Thobei Letsie (tshedy) from Lesotho, Sophie Mower, the Community Support Manager at HOT, and Jeff Underwood and Zvone Sparovec from Facebook.
 

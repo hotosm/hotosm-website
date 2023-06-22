@@ -2,7 +2,7 @@
 title: 'O mapeamento de campo é o futuro: um fluxo de trabalho do gerenciador de tarefas
   usando o ODK'
 date: 2022-08-24 16:01:00 Z
-Feature Image: "/uploads/Screen%20Shot%202022-08-24%20at%205.33.21%20PM.png"
+Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+5.33.21+PM.png"
 Is image top aligned: true
 ---
 
@@ -22,7 +22,7 @@ Um dos elementos mais impactantes do ecossistema de mapeamento aberto nos últim
 
 Algo era necessário: uma maneira de alocar tarefas pequenas e gerenciáveis ??a indivíduos, acompanhar seu progresso, verificar a qualidade e validar seu trabalho e integrar perfeitamente os novos dados ao OpenStreetMap sem danificar os dados existentes. O HOT Tasking Manager serviu como o tapete que unia a sala; uma ferramenta para a comunidade definir necessidades de dados e para mapeadores individuais contribuírem com facilidade e confiança.
 
-![Screen Shot 2022-08-24 at 3.14.13 PM-ce4f17.png](/uploads/Screen%20Shot%202022-08-24%20at%203.14.13%20PM-ce4f17.png)
+![Screen Shot 2022-08-24 at 3.14.13 PM-ce4f17.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.14.13+PM-ce4f17.png)
 
 E quanto à tarefa de mapeamento de campo?
 
@@ -30,13 +30,13 @@ Há uma série de ótimas ferramentas de coleta de dados de campo!
 
 O poderoso **[ODK – OpenDataKit](https://getodk.org/)** e as muitas plataformas construídas a partir dele, como o **[Kobo Toolbox](https://www.kobotoolbox.org/)**, possibilitam que qualquer pessoa com um dispositivo Android colete dados usando formulários flexíveis e poderosos projetados em uma planilha.
 
-![Screen Shot 2022-08-24 at 3.15.46 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.15.46%20PM.png)
+![Screen Shot 2022-08-24 at 3.15.46 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.15.46+PM.png)
 
 *A planilha à esquerda cria o questionário e a atividade “Selecionar do mapa” no telefone.*
 
 O **[Vespucci](https://vespucci.io/)** traz muito do poder do JOSM para um editor móvel. O **[EveryDoor](https://every-door.app/)** oferece aos usuários do Android e do iPhone uma plataforma simples para editar dados do OSM, e o StreetComplete faz o mesmo para os usuários do Android. O **[OSMAND](https://osmand.net/)** e \*\*[Organic Maps](https://organicmaps.app/)\*\*permitem navegação e visualização de mapas offline com dados OSM, bem como alguma capacidade básica para adicionar ou editar recursos para contribuir com o OSM.
 
-![Screen Shot 2022-08-24 at 3.27.54 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.27.54%20PM.png)
+![Screen Shot 2022-08-24 at 3.27.54 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.27.54+PM.png)
 
 *Capturas de tela de EveryDoor, Vespucci, OSMAnd e Organic Maps*
 
@@ -72,11 +72,11 @@ A partir de meados de 2022, o ODK incorpora uma nova funcionalidade denominada �
 
 *Isso replica principalmente a funcionalidade do muito lamentado **[OpenMapKit](http://www.openmapkit.org/)**, um fork do ODK muito útil criado pela Cruz Vermelha Americana com suporte da HOT e outras agências, que permitia aos usuários lançar formulários a partir de uma visualização de mapa e selecionar edifícios/recursos para adicionar atributos para. Infelizmente, o OMK não é mais mantido e não pode ser usado de forma confiável.*
 
-![Screen Shot 2022-08-24 at 3.34.04 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.34.04%20PM.png)
+![Screen Shot 2022-08-24 at 3.34.04 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.34.04+PM.png)
 
 Além disso, o novo aplicativo de servidor Web **[ODK Central](https://docs.getodk.org/central-intro/)** contém ferramentas muito granulares para alocar formulários a usuários individuais. É possível, de fato, criar questionários individuais para um número arbitrário de pequenas áreas (como bairros), cada uma com seu próprio conjunto de características (como prédios). Esses formulários podem ser alocados a “usuários de aplicativos” específicos, com acesso a formulários específicos (e, portanto, bairros/áreas) definidos por um código QR.
 
-![Screen Shot 2022-08-24 at 3.35.11 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.35.11%20PM.png)
+![Screen Shot 2022-08-24 at 3.35.11 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.35.11+PM.png)
 
 *O ODK Central oferece suporte à alocação de formulários individuais – e recursos correspondentes, como prédios – para usuários individuais*
 

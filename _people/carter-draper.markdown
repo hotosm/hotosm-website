@@ -1,7 +1,7 @@
 ---
 title: Carter Draper
 date: 2021-06-04 11:43:00 Z
-Photo: "/uploads/Photo1.jpg"
+Photo: "https://cdn.hotosm.org/website/Photo1.jpg"
 Member Type:
   Is Staff: true
 Job Title: Regional Project Manager - West and Northern Africa

@@ -12,7 +12,7 @@ tags:
 Summary Text: Risk management in volcanic areas in Ecuador is a necessary activity
   in which open mapping plays an important role. From the LATAM Hub we took a first
   step to achieve this goal.
-Feature Image: "/uploads/20220909_103057.jpg"
+Feature Image: "https://cdn.hotosm.org/website/20220909_103057.jpg"
 Person: Juan Arellano Valdivia
 Country:
 - Ecuador
@@ -22,11 +22,11 @@ Quito, the capital of Ecuador, is a city in the middle of volcanoes. The non-act
 
 In this context, when Mayah Cueva from [AEON Art Gallery](https://www.instagram.com/aeongallery/?hl=es) proposed to us - to the Hub and [Openlab Ecuador](https://openlab.ec/) - to organize some mapping activity with this topic of volcanic risk, we quickly accepted and elaborated an action plan. With many coordination involved, several activities were finally carried out -see all on the [project page](https://stories.hotosm.org/mapping-volcanoes-in-ecuador/index.html)- of which the main ones were: mapping in the city of Cayambe and the Mapathon at the Escuela Politécnica Nacional in Quito.
 
-![20220906_135517.jpg](/uploads/20220906_135517.jpg)
+![20220906_135517.jpg](https://cdn.hotosm.org/website/20220906_135517.jpg)
 
 **MAPPING IN CAYAMBE**
 
-![20220909_103057.jpg](/uploads/20220909_103057.jpg)
+![20220909_103057.jpg](https://cdn.hotosm.org/website/20220909_103057.jpg)
 
 The activity scheduled for Friday, September 9, had the participation of 20 people and took place between 9am and 6pm. In order to carry it out, the efforts of various organizations and institutions had to be coordinated, such as: HOT, OpenLabEc, Tierra Pura, Youthmappers/GeoMap Espe, Municipality of Cayambe - Risk and Tourism Offices, Red Cross and the Ecuadorian Geophysical Institute.
 
@@ -38,7 +38,7 @@ Testimonies of the participants in the mapping outing can be seen in the followi
 
 **MAPATHON**
 
-![20220910_114148.jpg](/uploads/20220910_114148.jpg)
+![20220910_114148.jpg](https://cdn.hotosm.org/website/20220910_114148.jpg)
 
 The activity -carried out on Saturday, September 10 at the National Polytechnic School- was attended by 11 people in person and 3 people virtually. The team in charge (OpenLabEc, HOT and Youthmappers/GeoMap Espe) made an introduction to OpenStreetMap, HOT and the mapping work as such, using the Tasking Manager for the Reventador 1 and Cayambe zones.
 
@@ -46,7 +46,7 @@ The people who participated showed a good degree of interest, learning the basic
 
 Testimonies of the participants in the mapathon can be seen in the following videos on Instagram: [David Molina](https://www.instagram.com/p/CivyWTLpGPT/), [Jessenia Vallejo](https://www.instagram.com/p/Cis81ySJ5JQ/), [Solange Yepez](https://www.instagram.com/p/CiyVGpfJSDn/).
 
-![20220910_124647.jpg](/uploads/20220910_124647.jpg)
+![20220910_124647.jpg](https://cdn.hotosm.org/website/20220910_124647.jpg)
 
 **THE FUTURE**
 

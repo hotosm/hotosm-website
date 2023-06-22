@@ -5,7 +5,7 @@ Summary Text: The METEOR project has been a three-year initiative supported by t
   UK Space Agency International Partnership Programme to generate disaster exposure
   data and models in two pilot countries — Tanzania and Nepal. The process has since
   been repeated in another 45 official development assistance countries.
-Feature Image: "/uploads/Workshop%20Group%20Masked.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Workshop+Group+Masked.jpg"
 Person: Hawa Adinani
 Country:
 - Tanzania
@@ -26,7 +26,7 @@ The workshop was both virtual and in-person, and about 40 people attended. The i
 
 Disasters are on the rise, both in terms of frequency and magnitude. From [2000-2019](https://sdg.iisd.org/news/undrr-report-calls-for-improved-governance-to-address-systemic-risk/), disasters have claimed more than 1.23 million lives and affected a total of over 4 billion people, with women, children, and marginalized communities disproportionately affected. The total economic loss for this time period is estimated at $2.97 trillion.  Disasters inordinately affect lower-income countries. Sub-Saharan Africa, where two-thirds of the world’s Least Developed Countries are located, is prone to recurring disasters, largely due to natural hazards and climate change.
 
-![METEOR Map for Blog.jpg](/uploads/METEOR%20Map%20for%20Blog.jpg)
+![METEOR Map for Blog.jpg](https://cdn.hotosm.org/website/METEOR+Map+for+Blog.jpg)
 *Image from an interactive Level 1 Exposure map for 33 countries in Africa plus Yemen, which provides an estimate of building exposure for loss estimation and catastrophe modeling.*
 
 Having disaster exposure models, such as in the visualization above, at the country level is an asset for building disaster resilience in countries through enabling measures to minimize risks and mitigation plans. Just as the [Sendai Framework for Disaster Risk Reduction 2015-2030](https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030) emphasizes the need to manage risks rather than disasters and the need for strong stakeholders’ involvement from local to the international level to make this possible. Without a strong, unified database, it is almost impossible to invest in risk management. Rather, responders will concentrate on disaster response, which often results in more casualties. Using these datasets will bring positive results to disaster management in Tanzania by mitigating disaster risks and preventing loss of life.
@@ -39,7 +39,7 @@ Tanzania Meteorological Agency (TMA) representative, Elias Lipiki, explained how
 
 > “Exposure maps will specifically help TMA to predict bad weather conditions in relation to the anticipated impacts. For now, we forecast bad weather conditions with few or no anticipated impacts depending on the database that we have, meaning the forecaster relies on his/her experience of specific locations to anticipate impacts of predicted disasters. At a country level, it is hard to predict impacts without a proper database—so if we can use the data provided here, we will be able to conduct an impact-based forecast for different hazards.” 
 
-![Stakeholder Workshop.jpg](/uploads/Stakeholder%20Workshop.jpg)
+![Stakeholder Workshop.jpg](https://cdn.hotosm.org/website/Stakeholder+Workshop.jpg)
 *Aminiel Hillary Mshana, the Assistant Coordinator of the Dar es Salaam Multi-Agency Emergency Response Team (DarMAERT) making a comment during the workshop.*
 
 Stakeholders expressed their interest in using the data if they get the skills to use them. They wanted more capacity building, such as training on data use and incorporating models into their daily operations. This says a lot about the need that existed for data and how disaster risk reduction experts want to integrate data and technology into disaster management. Specifically, a representative from TMA asked for support from the British Geological Survey (BGS) on integrating the risk models into their database and analyzing scenarios at a country level.

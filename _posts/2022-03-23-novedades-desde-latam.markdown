@@ -8,7 +8,7 @@ tags:
 - OpenStreetMap
 Summary Text: 2022 parece un buen año para la comunidad OSM latinoamericana, veamos
   que nuevas actividades se van desarrollando en los países de la región.
-Feature Image: "/uploads/featured.jpg"
+Feature Image: "https://cdn.hotosm.org/website/featured.jpg"
 Person: Juan Arellano Valdivia
 ---
 
@@ -26,7 +26,7 @@ A finales de enero se realizó la [primera junta OSM Latam 2022](https://wiki.op
 
 En tal sentido la próxima Junta OSM Latam ya está [preparándose](https://wiki.openstreetmap.org/wiki/ES:LatAm/20220326_Reuni%C3%B3n_virtual#Agenda_colaborativa) y desde ya quedan todos invitados a participar. En esta ocasión la organiza la gente de OSM México, y se [realizará](https://twitter.com/esopenstreetmap/status/1505183560113741824) el sábado 26 de marzo.
 
-![juntas2.jpg](/uploads/juntas2.jpg)
+![juntas2.jpg](https://cdn.hotosm.org/website/juntas2.jpg)
 
 Por cierto la primera junta fue realizada en el espacio gentilmente cedido por los amigos de [Maptime Bogotá](http://maptime.io/bogota/) que vienen realizando desde el 2021 unas [notatones](https://wiki.openstreetmap.org/wiki/ES:Colombia/Proyecto-Resoluci%C3%B3n_de_notas) para cerrar las notas pendientes, primero en [Bogotá](https://twitter.com/MaptimeBogota/status/1386045463854559241) y luego en [Colombia](https://twitter.com/MaptimeBogota/status/1427081396653281283), y ahora intentan [ayudar a las diversas comunidades latinoamericanas](https://www.meetup.com/maptime-bogota-colombia-osm/events/lbqjssydcdbjc/) a hacer lo mismo, para lo cual se creó un [grupo](https://t.me/osm_notes_latam) de Telegram dedicado a la resolución de notas en Latam, y también su sección en la wiki.
 
@@ -34,7 +34,7 @@ Por cierto la primera junta fue realizada en el espacio gentilmente cedido por l
 
 Un proyecto que nos anima mucho, por su importancia en estas épocas de cambio climático, es el de [arbolado urbano](https://elpensador.io/arbolado-urbano-y-datos-abiertos-para-la-gestion-municipal/) o mapeo de árboles que impulsa la gente de [OSM Chile](https://twitter.com/pauldassoria/status/1264976461594836993?s=20&t=r4Tj59XEvl7C59ZnU589TQ), y que ya algunas otras comunidades de la región quieren replicar o desarrollar con otras perspectivas. Será un tema de discusión en la junta OSM Latam de marzo.
 
-![arbolado-chile.2png.png](/uploads/arbolado-chile.2png.png)
+![arbolado-chile.2png.png](https://cdn.hotosm.org/website/arbolado-chile.2png.png)
 
 *`Fuente: Página de Facebook de OSM Chile.`*
 
@@ -44,7 +44,7 @@ En los últimos 8 meses el proyecto ha mapeado calles, callejones, negocios, edi
 
 También en Brasil, ha estado activo el [proyecto](https://infosaofrancisco.canoadetolda.org.br/noticias/mapeamento/mapsaofrancisco-inicia-mapeamento-de-lagoas-e-varzeas-no-baixo-sao-francisco/) Mapeo de Lagunas y Tierras Bajas del Bajo São Francisco, que recientemente ha publicado una [Guia del bajo São Francisco para socios extranjeros](https://infosaofrancisco.canoadetolda.org.br/noticias/mapeamento/um-pequeno-guia-do-baixo-sao-francisco-para-parceiros-estrangeiros/), con el objetivo de facilitar la discusión de situaciones prioritarias (injusticia humanitaria, empoderamiento ciudadano y vigilancia del territorio y la biodiversidad con relevancia en situaciones relacionadas con el agua) en el mapeo de proyectos con interlocutores extranjeros interesados ​​en sumarse a iniciativas colaborativas.
 
-![brasil.jpg](/uploads/brasil.jpg)
+![brasil.jpg](https://cdn.hotosm.org/website/brasil.jpg)
 
 *`Fotos: Carlos E. Ribeiro/InfoSãoFrancisco / UKRI GCRF: URBE Latam`*
 
@@ -54,7 +54,7 @@ Este proyecto de Open Cities -ciudades abiertas en castellano- tendrá pronto un
 
 En febrero se llevó a cabo la [presentación](https://www.eventbrite.com/e/conociendo-youthmappers-guatemala-tickets-264579112247) de los nuevos capítulos de Youthmappers en Guatemala, y como parte también de dicha iniciativa, el pasado 5 de marzo se [realizó](https://twitter.com/mapeadora/status/1498487882947960834) un taller de capacitación básica en OpenStreetMap con el objetivo de generar red alrededor del mapeo abierto, además realizaron un [mapatón](https://twitter.com/mapeadora/status/1503575001013932034) principiante guiado el 19 de este mes. Ya están planeando otro para el mes de abril con la propuesta de repetir estas actividades periódicamente.
 
-![guatemex.jpg](/uploads/guatemex.jpg)
+![guatemex.jpg](https://cdn.hotosm.org/website/guatemex.jpg)
 
 *`Fotos: @Mapeadora/Youthmappers Guatemala / Sandra Hernández/Open Cities México`*
 

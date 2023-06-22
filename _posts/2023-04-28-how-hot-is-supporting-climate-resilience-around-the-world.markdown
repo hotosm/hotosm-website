@@ -1,7 +1,7 @@
 ---
 title: How HOT is Supporting Climate Resilience Around the World
 date: 2023-04-28 15:51:00 Z
-Feature Image: "/uploads/Open_Cities_Tulum_-_Mexico_3-d0b8ae.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Open_Cities_Tulum_-_Mexico_3-d0b8ae.jpg"
 Person: Natalie Clarkson
 ---
 
@@ -22,7 +22,7 @@ HOT works with communities across the world to address climate change, here are 
 <br>
 Canoa de Tolda is a small community NGO in Brazil, named after a type of traditional boat in the lower basin of the Sao Francisco River. Its purpose is to help the people living in the valley of the river and who are affected by changes in river level due to agribusiness and hydroelectricity.
 
-![Canoa_de_Tolda_-_Brazil_3.jpg](/uploads/Canoa_de_Tolda_-_Brazil_3.jpg)
+![Canoa_de_Tolda_-_Brazil_3.jpg](https://cdn.hotosm.org/website/Canoa_de_Tolda_-_Brazil_3.jpg)
 <figcaption align = "center"><h6>Marina Aragão</h6></figcaption>
 <br>
 
@@ -47,7 +47,7 @@ Funded by the World Bank, the Open Cities Africa project was a collaborative map
 
 [In Mali](https://www.hotosm.org/updates/open-cities-africa-bamako-community-mapping-for-a-resilient-bamako/), HOT worked with OpenStreetMap Mali (OSM Mali) and Croix-Rouge Malienne to engage the local government, civil society, and the private sector in disaster response. OSM Mali used community mapping to bridge the gap between waste, drainage and infrastructure in order to reduce flood and produce resilience data to inform decision-making.
 
-![Open_Cities_Africa_Bamako_-_Mali_1.jpg](/uploads/Open_Cities_Africa_Bamako_-_Mali_1.jpg)
+![Open_Cities_Africa_Bamako_-_Mali_1.jpg](https://cdn.hotosm.org/website/Open_Cities_Africa_Bamako_-_Mali_1.jpg)
 <figcaption align = "center"><h6>Banko Productions and the World Bank, Bamako, Mali, April 2021</h6></figcaption>
 <br>
 
@@ -60,7 +60,7 @@ Funded by the World Bank, the Open Cities Africa project was a collaborative map
 <br>
 The Latin American and Caribbean region is vulnerable to natural hazards and volatile weather conditions – exacerbated by high population density and climate change. Many Caribbean islands and coastal Central American countries suffer from recurring hurricanes, tropical cyclones, landslides and flooding.
 
-![Open_Cities_Tulum_-_Mexico_2.jpg](/uploads/Open_Cities_Tulum_-_Mexico_2.jpg)
+![Open_Cities_Tulum_-_Mexico_2.jpg](https://cdn.hotosm.org/website/Open_Cities_Tulum_-_Mexico_2.jpg)
 <figcaption align = "center"><h6>Ana Laura Eligio, Tulum, Mexico, May 2022</h6></figcaption>
 <br>
 

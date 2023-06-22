@@ -5,7 +5,7 @@ date: 2021-05-07 09:45:00 Z
 Summary Text: The Resilience Academy partnered with Delft University of Technology
   to investigate if community-mapped drainage data was suitable for creating an urban
   flood model.
-Feature Image: "/uploads/0_x0m32Xy0EE56D-Q8-9981f2.jfif"
+Feature Image: "https://cdn.hotosm.org/website/0_x0m32Xy0EE56D-Q8-9981f2.jfif"
 Is image top aligned: true
 Person:
 - Resilience Academy

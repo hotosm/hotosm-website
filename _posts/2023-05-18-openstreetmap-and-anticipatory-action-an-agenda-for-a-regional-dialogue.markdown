@@ -33,4 +33,4 @@ Anticipatory action can significantly reduce harm, save lives and improve disast
 
 > The Regional Anticipatory Action Dialogue will take place on the 20th of June, 2023 from  07:30-09:45 CEST. The event will be virtual. Register [here](https://us02web.zoom.us/meeting/register/tZEldu-rrzIjE9A2ET7v0yaTqhA55dl9c_u2#/registration).
 
-![Regional Dialogue AA Templates-29f193.png](/uploads/Regional%20Dialogue%20AA%20Templates-29f193.png)
+![Regional Dialogue AA Templates-29f193.png](https://cdn.hotosm.org/website/Regional+Dialogue+AA+Templates-29f193.png)

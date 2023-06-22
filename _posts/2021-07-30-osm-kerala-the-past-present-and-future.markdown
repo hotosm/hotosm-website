@@ -3,7 +3,7 @@ title: OSM Kerala - The past, present, and future.
 date: 2021-07-30 03:56:00 Z
 Summary Text: An overview of OSM Kerala's inspiring journey and continued efforts
   to strengthen the use of OSM in Kerala for disaster response and community development.
-Feature Image: "/uploads/OSMK3-75aeb5.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/OSMK3-75aeb5.jpeg"
 Person:
 - Manoj Karingamadathil
 - Ark Arjun
@@ -26,14 +26,14 @@ In July, under the leadership of Jaisen Nedumpala, then-Assistant Secretary, Koo
 
 The five-day mapping party mapped the roads, ward boundaries, schools, health centers, and some other features and POIs of the remote panchayat. Following the Koorachundu model, the Unnikulam Grama Panchayat conducted a mapping party to create a ward boundary map in August of the same year. 
 
-![OSMK1.jpeg](/uploads/OSMK1.jpeg)
+![OSMK1.jpeg](https://cdn.hotosm.org/website/OSMK1.jpeg)
 
 In 2016, more people started coming forward to host mapping parties. [Manoj Karingamadathil](https://twitter.com/manojkmohan), an OSM Kerala volunteer, led two mapping parties in June and July 2016 at [Vidya Acadamy of Science & Technology](https://wiki.openstreetmap.org/wiki/OSM_Mapping_Workshop_June_2016_%E2%80%93_Vidya_Academy) and [Velur Panchayat](https://wiki.openstreetmap.org/wiki/Velur_Panchayath_Mapping_Party). Unlike previous mapping parties, these two helped in creating a larger diversity of data uploaded to OSM. It slowly became a norm to organize a mapping party for many FOSS events like Software Freedom Day.
 
 **The Kerala Floods**  
 - With the catastrophic [flood in 2018](https://en.wikipedia.org/wiki/2018_Kerala_floods), Kerala understood the importance of open data for the first time. The existing maps were not useful as they were either at inaccessible locations or were not scientifically prepared for use in a flooding disaster. The rescue operations led by local government bodies could not be executed properly as the administrative boundaries, buildings, and roads were not mapped clearly. For the first time, the citizen mappers saw the need to use the coordinates for landmarks as everything was submerged.
 
-![OSMK2.jpeg](/uploads/OSMK2.jpeg)
+![OSMK2.jpeg](https://cdn.hotosm.org/website/OSMK2.jpeg)
 (Mapathon for the Kerala Flood in 2018)
 
 The OSM Kerala Community then swiftly started [flood response mapping](https://wiki.openstreetmap.org/wiki/Kerala_Community_Flood_Response_Mapping). While the floods still raged, developers in Kerala came together to make the datasets keralarescue.in and microid.in/keralaflood using OpenStreetMap data. (1) The keralaresuce.in portal’s map was used to collect requests for help so that agencies could reach them, while microid.in/keralaflood was used to map the flooded roads so that people could use them to plan their journey. 
@@ -51,7 +51,7 @@ The pre-consultation for crowdsourcing data for OSM was held on 8 March 2019 for
 **Current priorities**
 - Since the start of the pandemic, OSM Kerala has taken the opportunity to reach out to more people online and provide support to pandemic responses. To support the community with several lockdown measures and boundary categorizations in Kerala, OSM Kerala volunteers and Open Data Kerala published geospatial data on the [Admin level 8 boundaries](https://timesofindia.indiatimes.com/city/kochi/open-data-maps-of-local-bodies-created/articleshow/78974570.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIKochiNews).  They have also launched a series of virtual trainings in Malayalam under the name of [Virtual Mappy Hours](https://wiki.openstreetmap.org/wiki/India/Virtual_Mappy_Hours), led by [Ark Arjun](https://twitter.com/arkarjun).
  
-![OSMK4.jpeg](/uploads/OSMK4.jpeg)
+![OSMK4.jpeg](https://cdn.hotosm.org/website/OSMK4.jpeg)
 
 The online outreach programs by OSM Kerala helped popularise the concept of open maps among the student community and gain new volunteers. Our trainers, Ark Arjun, Kelvin, [Vipindas](https://twitter.com/vip3927), [Adhil Ashraf](https://twitter.com/123_adhil), Jyotish, and Saritha KM, were invited by various institutions for training sessions on OSM. They held talks online for a variety of audiences to increase awareness of OSM within the region.
 
@@ -65,7 +65,7 @@ Currently, with continued efforts from volunteers, Kerala now has the following 
 Also, under [Jinoy Tom Jacob](https://meta.wikimedia.org/wiki/User:Gnoeee) and the German mappers Heinz Vieth and Marcel Ottiger, every geometry (districts, sub-districts, and the local government) is being mapped, and individual IDs are being generated in Wikidat with the corresponding Wikipedia pages in an effort to digitize the ten admin-level boundaries of Kerala.  With almost half of the digitization completed, this project has taken data dissemination to the next level.
 
 
-![osmk5.png](/uploads/osmk5.png)
+![osmk5.png](https://cdn.hotosm.org/website/osmk5.png)
 
 
 **Mapping the Future**

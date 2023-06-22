@@ -12,7 +12,7 @@ Summary Text: Compartimos una nueva actualización sobre cómo va progresando la
   Alfa del Hub de Mapeo Abierto en LATAM para encontrar formas de conectar los datos
   geoespaciales, los voluntarios del mapeo abierto y las comunidades que necesitan
   los datos y el mapeo para sus propios objetivos.
-Feature Image: "/uploads/hot_omh_latam_spanish_logo_rev_colour_with_tagline-2110x1176.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/hot_omh_latam_spanish_logo_rev_colour_with_tagline-2110x1176.jpeg"
 Person: Rubén Martín
 ---
 
@@ -62,7 +62,7 @@ Debido a las limitaciones de tiempo, el propio equipo tuvo que tomar la decisió
 
 A futuro, creemos que este proceso debería evolucionar para que las propias comunidades y actores de la región puedan ser parte de la exploración y toma de decisiones, y es algo que creemos interesante probar y experimentar.
 
-![photo54.jpg](/uploads/photo54.jpg)
+![photo54.jpg](https://cdn.hotosm.org/website/photo54.jpg)
 
 **Proyectos de campo**
 

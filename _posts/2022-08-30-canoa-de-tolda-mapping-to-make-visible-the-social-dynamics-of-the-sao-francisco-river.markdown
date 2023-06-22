@@ -16,7 +16,7 @@ tags:
 Summary Text: Early results of HOT's collaboration with Canoa de Tolda to make the
   social dynamics of the São Francisco River visible through open mapping and the
   use of drones and other technologies.
-Feature Image: "/uploads/52305985528_88f5b87b4b_o.jpg"
+Feature Image: "https://cdn.hotosm.org/website/52305985528_88f5b87b4b_o.jpg"
 Person: Juan Arellano Valdivia
 Country:
 - Brazil
@@ -28,7 +28,7 @@ Project:
 
 [Canoa de Tolda](https://canoadetolda.org.br/) is a Brazilian organization created in 1998, which currently works in the lower stretch of the [San Francisco River](https://en.wikipedia.org/wiki/S%C3%A3o_Francisco_River), in the states of Alagoas and Sergipe, collecting information on social, cultural, scientific and environmental issues in the region impacted by the [dam of Sobradinho](https://en.wikipedia.org/wiki/Sobradinho_Dam).
 
-![mapa ilha do ferro.jpg](/uploads/mapa%20ilha%20do%20ferro.jpg)
+![mapa ilha do ferro.jpg](https://cdn.hotosm.org/website/mapa+ilha+do+ferro.jpg)
 
 **Partnership with HOT**
 
@@ -36,7 +36,7 @@ Since November 2021, in partnership with HOT, Canoa de Tolda has been developing
 
 > Marina Aragão, HOT coordinator for the project, believes that the partnership initiative “has been a unique interaction between international relations, global and accessible technology and the empowerment of local populations, and represented a pioneering and challenging opportunity, especially considering the analysis of a river that has an enormous representation for the Northeast region and for Brazil”.  ([Source](https://infosaofrancisco.canoadetolda.org.br/noticias/geotecnologias/mapsaofrancisco-parceria-com-hot-finaliza-primeira-fase-de-capacitacoes/)).
 
-![IMG_1527 (1).jpg](/uploads/IMG_1527%20(1).jpg)
+![IMG_1527 (1).jpg](https://cdn.hotosm.org/website/IMG_1527+(1).jpg)
 
 **Progress to date**
 
@@ -44,7 +44,7 @@ Between June 27 and July 8, 2022, HOT trained the Canoa de Tolda team by sending
 
 > As Carlos Eduardo Ribeiro Jr, from Canoa de Tolda, one of the creators of MapSãoFrancisco, explains, \[the area of\]– Ilha do Ferro, "being not so extensive and close to the base, allows the application of the techniques transmitted \[to the team\] to the various situations of the flood plain: urban agglomeration, occupied and unoccupied marginal lagoons, two river channels. This variety of cases will allow us to train and improve our capacity for the evolution of the project throughout the Lower São Francisco”. ([Source](https://infosaofrancisco.canoadetolda.org.br/noticias/geotecnologias/mapsaofrancisco-parceria-com-hot-finaliza-primeira-fase-de-capacitacoes/)).
 
-![WhatsApp Image 2022-07-04 at 15.16.14 (2) (1).jpeg](/uploads/WhatsApp%20Image%202022-07-04%20at%2015.16.14%20(2)%20(1).jpeg)
+![WhatsApp Image 2022-07-04 at 15.16.14 (2) (1).jpeg](https://cdn.hotosm.org/website/WhatsApp+Image+2022-07-04+at+15.16.14+(2)+(1).jpeg)
 
 **Activities**
 
@@ -64,13 +64,13 @@ Between June 27 and July 8, 2022, HOT trained the Canoa de Tolda team by sending
 
 *     Consultations with the university.
 
-![52306050140_bc86e13af1_o (1).jpg](/uploads/52306050140_bc86e13af1_o%20(1).jpg)
+![52306050140_bc86e13af1_o (1).jpg](https://cdn.hotosm.org/website/52306050140_bc86e13af1_o+(1).jpg)
 
 > “We had a situation right at the beginning of the activities that required a quick solution: how to use the sonar to attend the training, not only on those days, but also in future bathymetry activities.\[...\] It was then that we decided to build a small non-motorized trimaran -of foam- that would receive the necessary sweeping equipment. The trimaran would be towed by one of the speedboats that carry out the activities, which is nothing new, since numerous aquatic prospecting systems use similar small boats”, explains Carlos Eduardo. Collectively built by the participants of the activities in a few hours, the trimaran demonstrated, in the water, that its association with the proposed equipment was correct: the quality of the data obtained was extremely favorable, of great precision, all obtained in a short scanning time. ([Source](https://infosaofrancisco.canoadetolda.org.br/noticias/geotecnologias/para-todos-tecnologias-e-ciencias-cidadas-abertas-despontam-no-baixo-sao-francisco/)).
 
 > According to Ivan Gayton, HOT Humanitarian Advisor and one of the coordinators of the cooperation with MapSãoFrancisco: “Canoa de Tolda brought a great novelty to the table; Prior to this project, our bathymetric surveys were conducted with a pole-mounted GNSS receiver by a river surveyor dressed in waterproof clothing. This was out of the question for a river the size of the São Francisco, so the team selected a consumer sonar unit (a fish finder!) to measure depth, intending to keep this unit in the water from a small boat. However, Canoa de Tolda built a small custom foam trimaran, with the high-precision GPS unit mounted on top and the sonar on the bottom. This worked very well, not only allowing for otherwise difficult and dangerous bathymetry surveys, but also making the whole process much faster and more efficient.” ([Source](https://infosaofrancisco.canoadetolda.org.br/noticias/geotecnologias/para-todos-tecnologias-e-ciencias-cidadas-abertas-despontam-no-baixo-sao-francisco/)).
 
-![IMG_1654 (1).jpg](/uploads/IMG_1654%20(1).jpg)
+![IMG_1654 (1).jpg](https://cdn.hotosm.org/website/IMG_1654+(1).jpg)
 
 **Challenges and learnings**
 
@@ -80,7 +80,7 @@ The monitoring process described demonstrated the importance of generating data 
 
 The communities are interested in these types of issues, so there is a favorable scenario for their development. On Ilha do Ferro, there is a great interest in more open and community mapping activities. Most of the territory is not adequately represented on maps, which directly impacts the population's lack of access to basic public services, in addition to its economic activity. However, the training of the communities in mapping tools and methods must take into account the language, which must be in accordance with the literacy levels of the communities, the challenge being to make the technical language available to all.
 
-![WhatsApp Image 2022-07-04 at 15.25.47 (3) (1).jpeg](/uploads/WhatsApp%20Image%202022-07-04%20at%2015.25.47%20(3)%20(1).jpeg)
+![WhatsApp Image 2022-07-04 at 15.25.47 (3) (1).jpeg](https://cdn.hotosm.org/website/WhatsApp+Image+2022-07-04+at+15.25.47+(3)+(1).jpeg)
 
 Among the risks identified in the project are: the rainy season can limit the development of activities and/or tours of the riverbed. The need to have first aid elements in the communities was identified, minimizing risks in the transfers for the development of activities; have a satellite phone to guarantee permanent communication; and have cell phones with the latest Android system for compatibility with applications and technical software.
 

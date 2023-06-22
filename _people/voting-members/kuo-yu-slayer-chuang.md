@@ -1,7 +1,7 @@
 ---
 title: Kuo-Yu "slayer" Chuang
 date: 2016-01-11 23:33:00 Z
-Photo: "/uploads/photo%20slayer.png"
+Photo: "https://cdn.hotosm.org/website/photo+slayer.png"
 Member Type:
   Is Voting Member: true
   Is Board Member: true

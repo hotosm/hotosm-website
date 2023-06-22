@@ -124,6 +124,6 @@ By prioritizing local mapping organizations and communities, facilitating knowle
 
 # [APPLY HERE!](http://tiny.cc/omhapuni)
 
-![tiny_cc_omhapuni.png](/uploads/tiny_cc_omhapuni.png)
+![tiny_cc_omhapuni.png](https://cdn.hotosm.org/website/tiny_cc_omhapuni.png)
 
 > For further questions please contact AP Hub OSM Trainer, Can Unen at [canunen@hotosm.org](canunen@hotosm.org).

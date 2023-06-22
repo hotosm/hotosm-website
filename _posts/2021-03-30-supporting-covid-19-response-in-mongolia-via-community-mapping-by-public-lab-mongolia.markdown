@@ -5,7 +5,7 @@ date: 2021-03-30 10:58:00 Z
 Summary Text: In the course of their Covid-19 Rapid Response Microgrant, Public Lab
   Mongolia has put thousands of health, service, and infrastructure sites on the map
   while training a team of mappers from across the country.
-Feature Image: "/uploads/Public%20Lab%20Mongolia%20Photos%201.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Public+Lab+Mongolia+Photos+1.jpg"
 Person:
 - Public Lab Mongolia
 - Erdenetsogt Su
@@ -26,7 +26,7 @@ As local community mappers, the 21 program participants learned how to use and m
 
 The Covid-19 Community Mappers Program made a tangible, community-driven contribution to supporting the country’s pandemic response. OpenStreetMap serves as one of the key sources of available geodata in the country for key national agencies managing the pandemic response. Also, the data will remain open to all, continuing to serve many other positive local developments such as delivery services, tourism, and service planning and provisioning.  
 
-![Public Lab Mongolia Photos 2.jpg](/uploads/Public%20Lab%20Mongolia%20Photos%202.jpg)
+![Public Lab Mongolia Photos 2.jpg](https://cdn.hotosm.org/website/Public+Lab+Mongolia+Photos+2.jpg)
 
 The rural community mappers from the 21 provinces highlighted the positive impact they were able to make in their own communities. As one of the community mappers said, “I plan on continuing to work on my province until [it is] completely mapped, and I think of it as my personal contribution to my province.” The program also brought people together; as another community mapper said, “I think we all realized and saw [that] the possibilities of working as a team on something important, even remotely, are boundless.”  
 

@@ -5,7 +5,7 @@ Summary Text: |
   Hello lovely community members and tech enthusiasts!! I want to share some of my reflections from attending the Open Source Summit in Dublin in mid-September for the very first time! I categorised them into four areas that I hope will be useful for our community!
 
   If you are an open source developer, a maintainer of an open source project, or somebody who is interested in getting more involved with open source projects, then this post is for you! Hope you enjoy it - please reach out to me if you have questions(petya.kangalova@hotosm.org)
-Feature Image: "/uploads/OSS.jpg"
+Feature Image: "https://cdn.hotosm.org/website/OSS.jpg"
 Person: Petya Kangalova
 ---
 
@@ -20,13 +20,13 @@ During the summit, I mainly attended sessions in the [Community Leadership Confe
 In order to understand how your community is doing and whether it is doing well, we need ways to measure that, which is not an easy task. However, there is a lot of experience within the open source community. 
 
 * I’d encourage you to join the [CHAOSS network](https://chaoss.community/) (they have a Slack workspace and also regional specific like the #chaoss-africa one). I attended the CHAOSS mini-conference which was an eye opener with presentations from different groups- from sharing newbie experiences to explaining top 4 metrics (ex: number of contributors, response time, PR closing time, and regular release cadence) and specific technical solutions you can use!  If you want to dig into the technical solution for implementing metrics, take a look at this [presentation](https://static.sched.com/hosted_files/osseu2022/fd/Building and Supporting Open Source Communities Through Metrics.pdf) from Bitergia and check out [Grimoire Lab](https://chaoss.github.io/grimoirelab/). At hot_tech we are now looking at using Grimoire Lab for our tools and joined their community on Slack. I would love to hear what you are using for measuring the health of your open source projects?
-![OSS_CHAOSS.jpg](/uploads/OSS_CHAOSS.jpg)
+![OSS_CHAOSS.jpg](https://cdn.hotosm.org/website/OSS_CHAOSS.jpg)
 
 * [Dev Team Metrics that Matter - Avishag S](https://osseu2022.sched.com/event/15z8D/dev-team-metrics-that-matter-avishag-sahar-linearb?iframe=no) I found this talk insightful with practical tips on how the dev lifecycle can be improved! One takeaway: add small Pull Request, which can really improve the speed of delivery! While maybe obvious it was a reminder for myself!  I also loved the below slide as it brings us back to the people: when we are trying to talk about success and delivery : I hope that within the HOTOSM ecosystem we have more happy developers :)
-[Linear S-2d2c6e.PNG](/uploads/Linear%20S-2d2c6e.PNG)
+[Linear S-2d2c6e.PNG](https://cdn.hotosm.org/website/Linear+S-2d2c6e.PNG)
 
 * Another relevant discussion was about the importance and use of badges (Building Bridges with Badges: Katie Schueths). A quote from the talk “Badges only have the value your audience assigns them”- people want to be affiliated with projects and events with a good reputation/high value! I have been thinking about what we can do at hot_tech - maybe some new badges for contributors? Hot_tech stickers?! Being at a few conferences already I loved the stickers and feel proud being part of every single community that I joined!
-![IMG_1238.jpg](/uploads/IMG_1238.jpg)
+![IMG_1238.jpg](https://cdn.hotosm.org/website/IMG_1238.jpg)
 
 ## OpenSource Ecosystem in Africa
 

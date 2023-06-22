@@ -9,8 +9,8 @@ HOT's vision  and values are tools we use to guide our work. They were developed
 
 Our Vision Statement is our aspiration for the world we want to create together.
 
-![image (9).png](/uploads/image%20(9).png)
+![image (9).png](https://cdn.hotosm.org/website/image+(9).png)
 
 Our Core Values represent our shared core beliefs that we care most deeply about.
 
-![image (10).png](/uploads/image%20(10).png)
+![image (10).png](https://cdn.hotosm.org/website/image+(10).png)

@@ -3,7 +3,7 @@ title: OMDTZ Community Impact Microgrants Call — 2021
 date: 2021-04-15 20:42:00 Z
 Summary Text: Open Map Development Tanzania is looking for at least eight Tanzanian
   OSM communities to receive microgrants.  Applications are due by 5 May 2021.
-Feature Image: "/uploads/OMDTZ%20Microgrants.png"
+Feature Image: "https://cdn.hotosm.org/website/OMDTZ+Microgrants.png"
 Person: Hawa Adinani
 Country:
 - Tanzania

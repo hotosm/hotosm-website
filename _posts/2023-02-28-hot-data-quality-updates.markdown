@@ -3,7 +3,7 @@ title: HOT Data Quality Updates for March 2023
 date: 2023-02-28 02:40:00 Z
 Summary Text: 'To support organizations that use OpenStreetMap data for disaster response,
   the HOT Data Team is strengthening our data quality and fitness measures. '
-Feature Image: "/uploads/fAIr%20data.png"
+Feature Image: "https://cdn.hotosm.org/website/fAIr+data.png"
 Person: Samson Ngumenawe
 ---
 
@@ -38,21 +38,21 @@ One tool in development combines data quality metrics, defined data quality issu
 
 The tool uses the defined data quality metrics of **bad tag value**, **missing tags**, and **incomplete tags** to validate and improve semantic data quality in OpenStreetMap. 
 
-![Data Quality Spring 2023 1.png](/uploads/Data%20Quality%20Spring%202023%201.png)
+![Data Quality Spring 2023 1.png](https://cdn.hotosm.org/website/Data+Quality+Spring+2023+1.png)
 
 For positional data quality aspects, the tool uses the defined metrics of **bad geometry**, **overlaps, duplicates**, and **orphan nodes** to validate the geometry of mapped features.
 
-![Data Quality Spring 2023 2.png](/uploads/Data%20Quality%20Spring%202023%202.png)
+![Data Quality Spring 2023 2.png](https://cdn.hotosm.org/website/Data+Quality+Spring+2023+2.png)
 
 ## What the tool will look like:
 
 **Before mappers upload data**, data quality measurement will be available for them to see in the Tasking Manager, helping them review their mapping and find issues. The tool will offer the mapper tips on how data quality issues can be detrimental to the impact of their mapping. 
 
-![Data Quality Spring 2023 3.png](/uploads/Data%20Quality%20Spring%202023%203.png)
+![Data Quality Spring 2023 3.png](https://cdn.hotosm.org/website/Data+Quality+Spring+2023+3.png)
 
 **As mappers edit the map and upload their changes to OSM**, the tool will provide live data quality assessments to the project managers and mappers within the Tasking Manager. 
 
-![Data Quality Spring 2023 4.png](/uploads/Data%20Quality%20Spring%202023%204.png)
+![Data Quality Spring 2023 4.png](https://cdn.hotosm.org/website/Data+Quality+Spring+2023+4.png)
 
 ## Regional Hubs:
 

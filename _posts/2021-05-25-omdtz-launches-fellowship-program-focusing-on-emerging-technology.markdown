@@ -4,7 +4,7 @@ date: 2021-05-25 10:51:00 Z
 Summary Text: 'OpenMap Development Tanzania announces the start of Open Skies Fellows:
   Africa Tech for African Data, implemented in partnership with HOT and Uhurulabs
   and supported by Fondation Botnar.'
-Feature Image: "/uploads/0_AtsGVCWwFktmTjCQ.jpg"
+Feature Image: "https://cdn.hotosm.org/website/0_AtsGVCWwFktmTjCQ.jpg"
 Is image top aligned: true
 Person:
 - Hawa Adinani

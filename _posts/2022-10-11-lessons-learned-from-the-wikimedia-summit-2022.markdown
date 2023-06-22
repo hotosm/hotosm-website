@@ -5,7 +5,7 @@ Summary Text: On September 9-11, 2022, I attended the Wikimedia Summit 2022 in B
   Germany as a representative of the Wikimedia Community User Group in Uganda. As
   someone who belongs to several communities, I was interested in learning from the
   Wikimedia community lessons that could be replicated by the OpenStreetMap community.
-Feature Image: "/uploads/Wikimedia%20Crowd.png"
+Feature Image: "https://cdn.hotosm.org/website/Wikimedia+Crowd.png"
 Person: Geoffrey Kateregga
 ---
 
@@ -25,7 +25,7 @@ The strategy outlines how the movement can grow sustainably and inclusively. The
 
 The [ten recommendations](https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2018-20/Recommendations) are:
 
-![Wikimedia Table.png](/uploads/Wikimedia%20Table.png)
+![Wikimedia Table.png](https://cdn.hotosm.org/website/Wikimedia+Table.png)
 
 The whole [program](https://meta.wikimedia.org/wiki/Wikimedia_Summit_2022/Program_Outline) of this year’s Wikimedia Summit was around sharing updates towards the implementation of the recommendations, mainly focusing on three main topics, Movement Charter, Regional and Thematic Hubs, and then Revenues and Resources. 
 
@@ -35,7 +35,7 @@ Below are my main three takeaways from the conference that I think would be good
 
 The [Let’s Connect](https://diff.wikimedia.org/2022/02/24/support-beyond-funding-introducing-the-peer-learning-program-lets-connect/) program was designed to develop capacity-building opportunities within the Wikimedia Movement through peer knowledge sharing in multiple flexible and interactive spaces that allows for personal connections, solidarity, and a sense of community for Wikimedians in all regions of the world, seeking to share their knowledge and learn from others.
 
-![Wikimedia Connect.png](/uploads/Wikimedia%20Connect.png)
+![Wikimedia Connect.png](https://cdn.hotosm.org/website/Wikimedia+Connect.png)
 
 The program is composed of two main learning spaces, 
 * Learning Clinics for monthly live connections between groups of around 20 participants, collectively defined around topics of interest, case studies and Wikimedia funding cycles.

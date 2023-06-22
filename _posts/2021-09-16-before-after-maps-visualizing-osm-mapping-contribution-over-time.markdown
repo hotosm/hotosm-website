@@ -1,7 +1,7 @@
 ---
 title: 'Before-After Maps: Visualizing OSM Mapping Contribution Over Time'
 date: 2021-09-16 09:06:00 Z
-Feature Image: "/uploads/KLL%20Before%20After%20Image.jpg"
+Feature Image: "https://cdn.hotosm.org/website/KLL+Before+After+Image.jpg"
 Is image top aligned: true
 Person: Aishworya Shrestha
 ---
@@ -28,9 +28,9 @@ At present, the tool allows you to search for a geographic location and compare 
 
 So far, the comments on the Before-After tool have been encouraging:
 
-![KLL Feedback 2.png](/uploads/KLL%20Feedback%202.png)
+![KLL Feedback 2.png](https://cdn.hotosm.org/website/KLL+Feedback+2.png)
 
-![KLL Feedback 1.png](/uploads/KLL%20Feedback%201.png)
+![KLL Feedback 1.png](https://cdn.hotosm.org/website/KLL+Feedback+1.png)
 
 However, we are still in the early phases of the development of the tool and are eagerly seeking feedback as well as contributors to improve it. For your valuable suggestions, please reach out to us at [hello@kathmandulivinglabs.org](mailto:hello@kathmandulivinglabs.org).
 

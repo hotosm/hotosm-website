@@ -1,7 +1,7 @@
 ---
 title: Mikel Maron
 date: 2010-05-24 15:40:00 Z
-Photo: "/uploads/mikel-maron.jpg"
+Photo: "https://cdn.hotosm.org/website/mikel-maron.jpg"
 Member Type:
   Is Voting Member: true
   Is Board Member: false

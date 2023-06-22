@@ -2,7 +2,7 @@
 title: Tim Geda
 date: 2021-07-12 15:27:00 Z
 published: false
-Photo: "/uploads/Photo.jpg"
+Photo: "https://cdn.hotosm.org/website/Photo.jpg"
 Member Type:
   Is Staff: false
 Job Title: Information Manager

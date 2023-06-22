@@ -6,7 +6,7 @@ date: 2021-06-21 13:06:00 Z
 Summary Text: HOT, en colaboración con el Fondo Mundial para la Reducción y Recuperación
   de Desastres (Global Fund for Disaster Reduction and Recovery) y la Fundación SwissRE,
   se enorgullece de anunciar el proyecto Ciudades Abiertas América Latina y el Caribe.
-Feature Image: "/uploads/IMG_20181005_072113.jpg"
+Feature Image: "https://cdn.hotosm.org/website/IMG_20181005_072113.jpg"
 Person: Céline Jacquin
 Country:
 - Mexico
@@ -29,7 +29,7 @@ Las instituciones gubernamentales, las áreas de protección civil y las organiz
 
 Existen esfuerzos exitosos en la creación de información por parte de la sociedad civil y de organizaciones de diferentes sectores que involucran a las comunidades, pero se puede hacer mucho todavía para conectar experiencias y formar una metodología regional consolidada, así como para mejorar la calidad de los datos y abrir el acceso a la información no sensible al público.
 
-![LAC Announcement Photos.jpg](/uploads/LAC%20Announcement%20Photos.jpg)
+![LAC Announcement Photos.jpg](https://cdn.hotosm.org/website/LAC+Announcement+Photos.jpg)
 
 ## Las experiencias colaborativas permiten la creación y la sostenibilidad del mapeo abierto desde las comunidades
 
@@ -41,10 +41,10 @@ Al colaborar con los equipos operativos del Banco Mundial, se pudo promover y fa
 
 El énfasis en el aprendizaje a distancia, la diversidad cultural y de género, así como la sostenibilidad en el tiempo y la consolidación de las comunidades de práctica son el núcleo de la visión del programa Open Cities. En América Latina y el Caribe, HOT tiene una relación de colaboración con una amplia y diversa comunidad de mapeo, que será cordialmente invitada a participar en las actividades desarrolladas.
 
-![IMG_20130415_155223.jpg](/uploads/IMG_20130415_155223.jpg)
+![IMG_20130415_155223.jpg](https://cdn.hotosm.org/website/IMG_20130415_155223.jpg)
 *Trabajo de campo durante el proyecto de mapeo del Transporte Público de Managua (Nicaragua) por la comunidad de Mapanica, 2017.*
 
-![Cusco Mapping.gif](/uploads/Cusco%20Mapping.gif)
+![Cusco Mapping.gif](https://cdn.hotosm.org/website/Cusco+Mapping.gif)
 *Datos agregados durante [la activación del mapeo de Cusco (Perú) para Covid-19](https://www.hotosm.org/updates/covid-19-pandemic-in-peru-mapping-health-implications/), 2020.*
 
 Open Cities América Latina y el Caribe fortalecerá las capacidades y los vínculos entre comunidades y organizaciones a través de pilotos locales en cinco países: **México, Guatemala, Santa Lucía, Dominica y Jamaica**, apoyando en la creación y uso de datos geoespaciales y herramientas de código abierto orientadas a la gestión del riesgo de desastres con una visión de largo plazo. Guiará a los gobiernos y organizaciones para una toma de decisiones informada y basada en datos, y formará a cientos de personas en comunidades locales y universidades.

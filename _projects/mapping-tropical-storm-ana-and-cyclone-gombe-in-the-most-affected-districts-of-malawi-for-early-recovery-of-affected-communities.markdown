@@ -4,7 +4,7 @@ title: |-
   Most Affected Districts of Malawi for Early Recovery of Affected Communities
 date: 2023-05-16 21:45:00 Z
 published: false
-Feature Image: "/uploads/Screenshot%202023-05-16%20at%202.45.46%20PM.png"
+Feature Image: "https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+2.45.46+PM.png"
 Country:
 - Malawi
 Impact Area:

@@ -1,7 +1,7 @@
 ---
 title: Honey Grace Fombuena
 date: 2022-02-01 20:33:00 Z
-Photo: "/uploads/111532285_1335496149985862_4735525399033517238_n.jpg"
+Photo: "https://cdn.hotosm.org/website/111532285_1335496149985862_4735525399033517238_n.jpg"
 Member Type:
   Is Staff: true
 Job Title: GIS Associate - Asia Pacific

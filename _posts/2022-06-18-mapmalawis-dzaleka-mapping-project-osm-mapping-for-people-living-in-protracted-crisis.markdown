@@ -4,7 +4,7 @@ title: MapMalawi’s Dzaleka Mapping Project- OSM Mapping for People Living in P
 date: 2022-06-18 06:22:00 Z
 Summary Text: MapMalawi is a newly established non-governmental organisation (NGO),
   founded in December 2020 by two Malawian girls, Ndapile Mkuwu and Zola Manyungwa.
-Feature Image: "/uploads/0_cFW_11fxg6FQDsYh.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/0_cFW_11fxg6FQDsYh.jpeg"
 Person:
 - Ndapile Mkuwu
 - Zola Manyungwa
@@ -26,7 +26,7 @@ Drones were used to capture the imagery of the Dzaleka refugee camp. The camp is
 
 Community and youth involvement was at the heart of the project. Two youth-based groups are involved in the project. The first group consists of graduates from the African Drone and Data Academy (ADDA), who hold Bachelor’s Degrees from different Malawian universities. The second group consists of young people that live within and around the refugee camp and are affiliated with a local tech lab called TakenoLab.The goal behind youth involvement was to strengthen their technological capabilities and encourage young professionals to use geospatial technology to creatively address problems in their communities.
 
-![0_Jd5TQdilHNkcJjFX.jpeg](/uploads/0_Jd5TQdilHNkcJjFX.jpeg)
+![0_Jd5TQdilHNkcJjFX.jpeg](https://cdn.hotosm.org/website/0_Jd5TQdilHNkcJjFX.jpeg)
 
 We strongly believe that involving community members, particularly the youth, in projects empowers them. It allows their voices to be heard, their knowledge to be shared, and their reality painted from their perspective. We believe that community involvement allowed the youth at the refugee camp to see themselves in the maps to be created. In addition, the youth at the refugee camp expressed that the project has motivated them to use geospatial technologies to highlight issues in their communities like electrification and the need for marketplaces.
 

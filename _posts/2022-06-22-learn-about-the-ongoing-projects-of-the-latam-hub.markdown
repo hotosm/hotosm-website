@@ -9,7 +9,7 @@ tags:
 Summary Text: The LATAM open mapping hub has been busy with various projects, if you
   want to find out what they are, here we share an overview of what is being done
   in the region.
-Feature Image: "/uploads/CT-BSF-2001-0011.jpg"
+Feature Image: "https://cdn.hotosm.org/website/CT-BSF-2001-0011.jpg"
 Person: LATAM hub's Alpha team
 ---
 
@@ -21,7 +21,7 @@ When we presented the May 2022 [update](https://www.hotosm.org/updates/open-mapp
 
 ## Canoa de Tolda (Brazil)
 
-![CT-BSF-2001-0011.jpg](/uploads/CT-BSF-2001-0011.jpg)
+![CT-BSF-2001-0011.jpg](https://cdn.hotosm.org/website/CT-BSF-2001-0011.jpg)
 
 *Mato da Onça, Baixo São Francisco, Coleção Canoa de Tolda, Imagem Canoa de Tolda, 2001 – Pão de Açúcar – AL*
 
@@ -39,7 +39,7 @@ In the following stages of this cooperation, HOT will provide field training wit
 
 ## Solid waste mapping (Guatemala)
 
-![guate2.jpg](/uploads/guate2.jpg)
+![guate2.jpg](https://cdn.hotosm.org/website/guate2.jpg)
 
 *Image: eluniversal.com.mx/*
 
@@ -49,7 +49,7 @@ HOT has had projects with this same focus in other areas of the world, for examp
 
 **Open Cities Tulum (Mexico)**
 
-![Foto de Ce Ja(2)-367317.jpg](/uploads/Foto%20de%20Ce%20Ja(2)-367317.jpg)
+![Foto de Ce Ja(2)-367317.jpg](https://cdn.hotosm.org/website/Foto+de+Ce+Ja(2)-367317.jpg)
 
 “Open Cities Tulum”, renamed [Co.Mapper](https://comapper.org/), is an adaptation of a [methodology](https://opendri.org/wp-content/uploads/2020/10/Open-Cities-Africa-Final-Report.pdf) already implemented in several cities in Africa by HOT in collaboration with the GFDRR, and this time financed by the [Swiss Re Foundation](https://www.swissrefoundation.org/). In Mexico, the [municipality of Tulum](https://en.wikipedia.org/wiki/Tulum_Municipality) has been chosen due to the exposure to climate change of the Yucatan Peninsula and Quintana Roo and the relatively low capacity this municipality has to face the impact of growing urbanization and tourism over the past decade.
 
@@ -63,7 +63,7 @@ Taking advantage of the interest of a great diversity of actors, civil organizat
 
 ## Project Factory (Regional)
 
-![fabrica cusco.jpeg](/uploads/fabrica%20cusco.jpeg)
+![fabrica cusco.jpeg](https://cdn.hotosm.org/website/fabrica+cusco.jpeg)
 
 The Project Factory values ​​and accompanies new initiatives and ideas that expand the potential of the elaboration and use of open maps by different groups and communities in social, environmental, and humanitarian issues.
 
@@ -81,7 +81,7 @@ We are in the process of collaborating with other groups in the region, and that
 
 ## Regional Community Support
 
-![Rodrigo2.jpg](/uploads/Rodrigo2.jpg)
+![Rodrigo2.jpg](https://cdn.hotosm.org/website/Rodrigo2.jpg)
 
 This support is based on regional community contact and knowledge in order to identify needs and connect diverse communities and groups from different countries.
 

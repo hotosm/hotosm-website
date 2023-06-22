@@ -4,7 +4,7 @@ date: 2023-02-01 02:03:00 Z
 Summary Text: 'In November 2022 the Open Mapping Community Working Group hosted the
   webinar: Generating and Promoting Open Data. Host Laxmi N. Goparaju shares the highlights
   of the conversation.'
-Feature Image: "/uploads/Laxmi%20Summary%201.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Laxmi+Summary+1.jpg"
 Person: Laxmi N. Goparaju
 Working Group:
 - Community
@@ -20,13 +20,13 @@ The third question on the Jamboard was, ”What are the disadvantages of using o
 
 The fourth question on the jamboard was:  How are OpenStreetMap (open data) and Google Maps different? The answers received are: 1) Google Maps provides limited data for free and there is not much interaction with it from a creativity point of view, whereas in OSM data one can create what one wants 2) For OSM the license is free, whereas Google Maps has limitations 3) OSM gives a sense of ownership for contribution 4) OSM provides data for analysis which is useful for people.Google Maps only provides location data. The point discussed in the presentation was that In the case of Google Maps, the data belongs to Google. It came after OSM and uses OSM as an example. Generally, Google Maps needs an internet connection to work, and delayed release of data and all decisions are made by Google.
 
-![Laxmi Summary 2.png](/uploads/Laxmi%20Summary%202.png)
+![Laxmi Summary 2.png](https://cdn.hotosm.org/website/Laxmi+Summary+2.png)
 
-![Laxmi Summary 3.png](/uploads/Laxmi%20Summary%203.png)
+![Laxmi Summary 3.png](https://cdn.hotosm.org/website/Laxmi+Summary+3.png)
 
-![Laxmi Summary 4.png](/uploads/Laxmi%20Summary%204.png)
+![Laxmi Summary 4.png](https://cdn.hotosm.org/website/Laxmi+Summary+4.png)
 
-![Laxmi Summary 5.png](/uploads/Laxmi%20Summary%205.png)
+![Laxmi Summary 5.png](https://cdn.hotosm.org/website/Laxmi+Summary+5.png)
 
 Click [here](https://github.com/maruti-iitm/EOS-ESSI-Data-Table) to find a few open data sources for remote sensing data.
 

@@ -1,7 +1,7 @@
 ---
 title: Vanessa Jones
 date: 2022-11-08 06:10:00 Z
-Photo: "/uploads/V.%20Jones%20Headshot.jpg"
+Photo: "https://cdn.hotosm.org/website/V.+Jones+Headshot.jpg"
 Member Type:
   Is Staff: true
 Job Title: Executive Assistant to the Board of Directors

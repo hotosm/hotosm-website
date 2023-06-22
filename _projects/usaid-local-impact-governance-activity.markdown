@@ -2,7 +2,7 @@
 title: USAID Local Impact Governance in Zambia
 date: 2021-09-30 10:41:00 Z
 position: 0
-Feature Image: "/uploads/Local%20Impact%20Zambia%20Map.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Local+Impact+Zambia+Map.jpg"
 Country:
 - Zambia
 Impact Area:

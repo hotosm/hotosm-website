@@ -1,7 +1,7 @@
 ---
 title: Samson Ngumenawe
 date: 2022-06-10 10:49:00 Z
-Photo: "/uploads/ngumenawesamson.jpg"
+Photo: "https://cdn.hotosm.org/website/ngumenawesamson.jpg"
 Member Type:
   Is Staff: true
 Job Title: Data Quality Coordinator
