@@ -4,7 +4,7 @@ date: 2020-06-05 15:32:00 Z
 Photo: https://cdn.hotosm.org/website/Ben+Dills+Headshot.jpg
 Member Type:
   Is Staff: true
-Job Title: Communications Associate
+Job Title: Content Manager
 Country: United States
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/DigiDemoDills
