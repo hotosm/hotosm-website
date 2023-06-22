@@ -8,5 +8,11 @@ Event Name: Flooding in Esmeraldas, Ecuador
 Country: Ecuador
 Event type: FL Flood
 Feature Image: "/uploads/Fl%20Flood.png"
+Post-type: timeline
+Campaign: 'ECUADOR: FLOODS - JUNE 2023'
+Tracking: "#EcuadorFloodsJune2023"
+Report: not available
+HDX: <a href="https://data.humdata.org/organization/hot?q=ecuador">Ecuador</a>
+Resources: N/A
 ---
 
