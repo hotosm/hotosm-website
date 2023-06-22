@@ -4,7 +4,7 @@ date: 2022-05-31 12:20:00 Z
 Summary Text: The HOT unSummit is offering travel funding for active HOT and humanitarian
   open mapping / open data contributors and community members to attend two of the
   conferences we are supporting, FOSS4G and SOTM. Apply now!
-Feature Image: "/uploads/51490564400_99fd58725d_k-f3dc57.jpg"
+Feature Image: "https://cdn.hotosm.org/website/51490564400_99fd58725d_k-f3dc57.jpg"
 Person: unSummit Scholarships Committee
 Working Group:
 - HOT Summit

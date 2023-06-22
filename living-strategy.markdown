@@ -4,7 +4,7 @@ date: 2023-02-28 16:08:00 Z
 layout: page
 ---
 
-[![Living Strategy Cover.png](/uploads/Living%20Strategy%20Cover.png)](https://drive.google.com/file/d/1iB_2O804qFego5phOL-QxyNqKyS51KuM/view?usp=share_link)
+[![Living Strategy Cover.png](https://cdn.hotosm.org/website/Living+Strategy+Cover.png)](https://drive.google.com/file/d/1iB_2O804qFego5phOL-QxyNqKyS51KuM/view?usp=share_link)
 
 ***[Download our Living Strategy Summary](https://drive.google.com/file/d/1iB_2O804qFego5phOL-QxyNqKyS51KuM/view?usp=share_link).***
 ***([Français](https://drive.google.com/file/d/1Jf2YMURsJUBIuCOO5632e9CBC7VcrGGj/view?usp=share_link))***

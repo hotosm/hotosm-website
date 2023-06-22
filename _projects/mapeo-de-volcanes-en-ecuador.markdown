@@ -4,7 +4,7 @@ date: 2023-05-16 21:20:00 Z
 published: false
 Project Summary Text: Un mapeo de comunidades, áreas de riesgo y rutas de evacuación
   en zonas volcánicas.
-Feature Image: "/uploads/LAC_VolcanesEcuador1.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/LAC_VolcanesEcuador1.jpeg"
 Country:
 - Ecuador
 Impact Area:
@@ -35,7 +35,7 @@ El proyecto de Mapeo colaborativo de comunidades aledañas a volcanes en el Ecua
 
 El proceso de mapeo está diseñado para ser una experiencia de creación conjunta y didáctica, que junte a estudiantes universitarios, mapeadores expertos y profesionales multidisciplinarias para colaborar en la mejora de un mapa de uso público basado en OpenStreetMap que será un insumo para la gestión de riesgos ante posibles erupciones.
 
-![LAC_VolcanesEcuador2.jpeg](/uploads/LAC_VolcanesEcuador2.jpeg)
+![LAC_VolcanesEcuador2.jpeg](https://cdn.hotosm.org/website/LAC_VolcanesEcuador2.jpeg)
 
 A continuación un resumen de las actividades programadas:
 
@@ -44,7 +44,7 @@ Las notas son apuntes que dejan los mapeadores en el mapa cuando tienen dudas ac
 
 Una notatón se realiza para resolver estas notas y de paso dejar el mapa más actualizado. En este caso contamos con la colaboración de Maptime Bogotá quienes organizaron la [Notatón Cayambe](https://twitter.com/MaptimeBogota/status/1550234273495539712) para el 6 de agosto pasado, resolviéndose un total de 64 notas.
 
-![LAC_VolcanesEcuador3.png](/uploads/LAC_VolcanesEcuador3.png)
+![LAC_VolcanesEcuador3.png](https://cdn.hotosm.org/website/LAC_VolcanesEcuador3.png)
 
 ## Mapatón previa
 
@@ -52,7 +52,7 @@ Esta mapatón de modalidad remota tiene el objetivo de facilitar la labor de cam
 
 La actividad ya se encuentra abierta y disponible para mapeadores de todo el mundo. Quienes se interesen pueden apuntarse al proyecto [acá](https://tasks.hotosm.org/projects/13078/#description).
 
-![LAC_VolcanesEcuador5.png](/uploads/LAC_VolcanesEcuador5.png)
+![LAC_VolcanesEcuador5.png](https://cdn.hotosm.org/website/LAC_VolcanesEcuador5.png)
 
 ## Salida de Campo Cayambe
 
@@ -66,7 +66,7 @@ Esta salida a realizarse el 8 de setiembre comprende varias subactividades:
 
 * Trabajo con las mujeres de la zona bajo el liderazgo de #EverywhereSheMaps. Se mapeará sitios de interés para ellas: lugares productivos, culturales, turísticos, etc.
 
-![LAC_VolcanesEcuador6.jpeg](/uploads/LAC_VolcanesEcuador6.jpeg)
+![LAC_VolcanesEcuador6.jpeg](https://cdn.hotosm.org/website/LAC_VolcanesEcuador6.jpeg)
 
 ## Mapatón Volcanes del Ecuador
 Esta mapatón presencial a realizarse el 10 de setiembre cuenta con dos objetivos principales:
@@ -79,18 +79,18 @@ Para esto se convocará a unos 30 estudiantes universitarios interesados en el m
 
 Se invitará también a expositores internacionales para que presenten herramientas de mapeo, y hablen sobre la gestión de riesgos en relación a los volcanes y la importancia de la experiencia de mapeo sobre la temática.
 
-![LAC_VolcanesEcuador8.png](/uploads/LAC_VolcanesEcuador8.png)
+![LAC_VolcanesEcuador8.png](https://cdn.hotosm.org/website/LAC_VolcanesEcuador8.png)
 
 
 > Al final del proceso se expondrán los resultados en una sala de exhibición, donde se presentarán las intervenciones al mapa de OpenStreetMap, junto con fotografías de los equipos durante las diversas actividades y textos explicando el objetivo de su intervención en el mapa junto a la comunidad local.
 Una vez terminada la exposición, todos los materiales de la misma serán donados al municipio de Cayambe para su exhibición en centros culturales de la zona.
 
-![LAC_VolcanesEcuador9.webp](/uploads/LAC_VolcanesEcuador9.webp)
+![LAC_VolcanesEcuador9.webp](https://cdn.hotosm.org/website/LAC_VolcanesEcuador9.webp)
 
 ## Agradecimientos
 Esta serie de actividades cuentan con el invaluable apoyo de: el Instituto Geofísico del Ecuador, la Escuela Politécnica Nacional, GADIP Cayambe, GeoMap ESPE, Youthmappers, Everywhere she Maps, Mapillary, el Instituto Latinoamericano Simón Rodriguez.
 
-![LAC_VolcanesEcuador10.jpeg](/uploads/LAC_VolcanesEcuador10.jpeg)
+![LAC_VolcanesEcuador10.jpeg](https://cdn.hotosm.org/website/LAC_VolcanesEcuador10.jpeg)
 ## Créditos
 En orden de aparición:
 

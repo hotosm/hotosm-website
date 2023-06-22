@@ -1,7 +1,7 @@
 ---
 title: Giovanna Galucio Lacerda
 date: 2023-01-05 06:00:00 Z
-Photo: "/uploads/tempImageCbBgwx.jpg"
+Photo: "https://cdn.hotosm.org/website/tempImageCbBgwx.jpg"
 Member Type:
   Is Staff: true
 Job Title: People Operations Associate

@@ -1,7 +1,7 @@
 ---
 title: Melai Opeña-Basilio
 date: 2021-04-20 07:02:00 Z
-Photo: "/uploads/Photo%20for%20profile.JPG"
+Photo: "https://cdn.hotosm.org/website/Photo+for+profile.JPG"
 Member Type:
   Is Staff: true
 Job Title: Regional Finance Manager - Asia Pacific

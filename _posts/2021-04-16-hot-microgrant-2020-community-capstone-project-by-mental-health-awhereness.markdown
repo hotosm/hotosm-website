@@ -4,7 +4,7 @@ date: 2021-04-16 09:18:00 Z
 Summary Text: 'Mental Health AWHEREness PH shares the work that they did through HOT''s
   Microgrant program.They trained community members in mapping mental health services
   in the Philippines. '
-Feature Image: "/uploads/Website-MHAPh-Map.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Website-MHAPh-Map.jpg"
 Is image top aligned: true
 Person: Mental Health AWHEREness PH
 Country:

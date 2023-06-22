@@ -7,7 +7,7 @@ tags:
 Summary Text: Fabrizio Scrollini, the new Director of the Open Mapping Hub for Latin
   America and the Caribbean, shares his impressions of the first days of work with
   the Hub team, what has been done and what is to come.
-Feature Image: "/uploads/FuKyiuHacAEi748x.jpg"
+Feature Image: "https://cdn.hotosm.org/website/FuKyiuHacAEi748x.jpg"
 Person: Fabrizio Scrollini
 ---
 
@@ -19,7 +19,7 @@ Information, combined with action and education, is the key to advancing communi
 
 One year ago, HOT launched the Open Mapping Hub - LAC and its initial phase has been one of exploration and experimentation with local and regional actors and communities. These actions, led by my colleague Celine Jacquin and Philip Hippolyte and their teams, in Latin America and the Caribbean respectively, demonstrate the value that HOT offers to *the region*. 
 
-![FuKyvXhaMAAzgIP.jpg](/uploads/FuKyvXhaMAAzgIP.jpg)
+![FuKyvXhaMAAzgIP.jpg](https://cdn.hotosm.org/website/FuKyvXhaMAAzgIP.jpg)
 
 In the coming time, the Hub will be designing a strategy to listen and act alongside the mapping community, local and national governments, as well as thematic communities and organisations and institutions with a social purpose, in order to structure our work. In particular, we want to focus on what humanitarian mapping means in Latin America and the Caribbean, what the regional priorities are, and to design methodologies to work together, leveraging HOT's ability to catalyze the mapping community in service of the region's development and humanitarian challenges. 
 

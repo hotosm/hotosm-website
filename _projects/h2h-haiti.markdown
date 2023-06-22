@@ -2,7 +2,7 @@
 title: H2H Haiti
 date: 2022-03-02 09:20:00 Z
 position: 9
-Feature Image: "/uploads/H2H%20Haiti%20for%20Website.png"
+Feature Image: "https://cdn.hotosm.org/website/H2H+Haiti+for+Website.png"
 Country:
 - Haiti
 Impact Area:

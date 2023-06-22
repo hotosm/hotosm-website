@@ -2,7 +2,7 @@
 title: Ralph (Ralph) Aytoun
 date: 2022-02-08 08:32:00 Z
 published: false
-Photo: "/uploads/246-0-2.jpg"
+Photo: "https://cdn.hotosm.org/website/246-0-2.jpg"
 Member Type:
   Is Staff: true
   Is Voting Member: true

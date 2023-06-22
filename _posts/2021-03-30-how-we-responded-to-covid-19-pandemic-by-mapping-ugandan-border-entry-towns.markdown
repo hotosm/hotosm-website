@@ -4,7 +4,7 @@ title: How We Responded to Covid-19 Pandemic by Mapping Ugandan Border Entry Tow
 date: 2021-03-30 11:16:00 Z
 Summary Text: MapUganda has been mapping Ugandan border towns to help local health
   responders monitor potential avenues for Covid transmission.
-Feature Image: "/uploads/MapUganda%205.jpg.png"
+Feature Image: "https://cdn.hotosm.org/website/MapUganda+5.jpg.png"
 Is image top aligned: true
 Person:
 - MapUganda
@@ -30,7 +30,7 @@ A series of trainings and work sessions using different tools, such as JOSM, ID 
 3. More than 400km of waterways were also mapped in these all the border points. 
 4. 27 Digital and paper maps were created.
 
-![MapUganda 8.jpg](/uploads/MapUganda%208.jpg)
+![MapUganda 8.jpg](https://cdn.hotosm.org/website/MapUganda+8.jpg)
 *Cargo trucks lining up at the Malaba Border Point on the border of Uganda and Kenya as truck drivers wait to be tested for Covid-19 before they enter Uganda.*
 
 ### Insights from the mapped border towns

@@ -4,7 +4,7 @@ date: 2022-11-15 12:46:00 Z
 Summary Text: In our mission to bring together communities, partners, collaborators,
   and supporters of humanitarian open mapping, HOT is trialling a fresh approach to
   conferences in 2022.
-Feature Image: "/uploads/52409427674_992dab1192_k.jpg"
+Feature Image: "https://cdn.hotosm.org/website/52409427674_992dab1192_k.jpg"
 Person: unSummit Working Group
 Working Group:
 - HOT Summit
@@ -24,7 +24,7 @@ How did we contribute / collaborate?
 
 > **“I had a unique opportunity to learn even more about OpenStreetMap and show a little more of my work, know what is being discussed for the future of OSM and mapping see how the community is really great and welcoming made me feel I was in family and that despite having some differences in the end we are all mappers.”** - *Gustavo Soares, mapper / HOT unSummit scholar, Brazil, from his [OSM Diary](https://www.openstreetmap.org/user/PlayzinhoAgro/diary/399862)*
 
-![unSummit1.png](/uploads/unSummit1.png)
+![unSummit1.png](https://cdn.hotosm.org/website/unSummit1.png)
 *OSM Latin America selfie time at State of the Map! Photo courtesy of Mapanauta.*
 
 ## FOSS4G 2022, Florence, Italy
@@ -36,7 +36,7 @@ How did we contribute / collaborate?
 
 > **“On having HOT as part of the event… HOT shares the same ideals as the OSM and OSGeo communities, and many members share at least one other community. It seems to me that having all the conferences together helped more people to attend them (especially people coming from low-middle income countries where flights are usually more expensive)”** - *Luca Delucchi, FOSS4G organizing committee lead, Italy*
 
-![unSummit 2.png](/uploads/unSummit%202.png)
+![unSummit 2.png](https://cdn.hotosm.org/website/unSummit+2.png)
 *FOSS4G Community Code Sprint. Photo from [HOT Flickr](https://www.flickr.com/photos/hotosm/52409405969/in/album-72177720302685437/).*
 
 ## Ensemble pour la cartographie participative, Butembo, Democratic Republic of Congo
@@ -46,7 +46,7 @@ How did we contribute / collaborate?
 
 > **“Cartographic data is not widely used by researchers at ESU Butembo and Environs. This is not because they do not need it, but because they are unaware of its importance in their work, and especially because they do not know where they can access the data and free mapping tools. Thus, training is needed for them to be contributors as well as consumers of cartographic data for participatory mapping.”** - *Mr Sivalikwiha, Director General of ISDR Kitsombiro*
 
-![unSummit 3.png](/uploads/unSummit%203.png)
+![unSummit 3.png](https://cdn.hotosm.org/website/unSummit+3.png)
 *Participants from the Ensemble pour la cartographie participative event. Photo courtesy of Kazi Précieux - OSM RDC*
 
 ## National Meeting of Mexican Geography Students, Guanajuato, Mexico
@@ -56,7 +56,7 @@ How did we contribute / collaborate?
 
 > **“This experience allowed me to understand the importance of humanitarian cartography, and its impact on society. Similarly, the relevance of collaboration between community members and volunteers to face challenges by making appropriate decisions. The Humanitarian OpenStreetMap Team and Co.Mapper initiative represents an exceptional opportunity to use free technologies for data processing that allows the development of projects through training and the acquisition of new knowledge.”** - *[Verónica Oviedo](https://comapper.org/hot-unsummit-2022-encuentro-nacional-de-estudiantes-de-geografia-guanajuato-mexico/), Graduate Student, Faculty of Geography, Autonomous University of the State of Mexico, Mexico*
 
-![unSummit 4.png](/uploads/unSummit%204.png)
+![unSummit 4.png](https://cdn.hotosm.org/website/unSummit+4.png)
 *Preparing for the humanitarian open mapping workshops at the National Meeting of Mexican Geography Students. Photo courtesy of Cuauthémoc Gutierrez*
 
 ## Teto Brasil annual gathering, São Paulo, Brazil
@@ -66,7 +66,7 @@ How did we contribute / collaborate?
 
 > **“There was a lady from a community in Rio de Janeiro and her talk about how she wanted to do mapping in her community to find out about the people who live there made me very emotional! I hope we can find a way to work together on something in the future.”** - *Alessandra Figueiredo, UrbeLatam, Brazil*
 
-![unSummit 5.png](/uploads/unSummit%205.png)
+![unSummit 5.png](https://cdn.hotosm.org/website/unSummit+5.png)
 *Break time networking at the Teto Brazil Annual Gathering. Photo courtesy of Carla Habif, HOT*
 
 ## Zimbabwe Institute of Geomatics (ZIG) Conference, Harare, Zimbabwe
@@ -76,7 +76,7 @@ How did we contribute / collaborate?
 
 > **“Whenever Geomaticians and Surveyors gather, they're trying to address a particular theme or situation and in such instances they start from zero. There is always one savior for all start-zero scenarios, in fact you can never start from scratch with the inclusion of our Open Mapping Communities and OS); the open source for open minds 🤗”** - *Letwin Pondo, ZIG organizing committee, Zimbabwe*
 
-![unSummit 6.png](/uploads/unSummit%206.png)
+![unSummit 6.png](https://cdn.hotosm.org/website/unSummit+6.png)
 *Clifford Tarerwa presents the experience of OSM Zimbabwe at the ZIG conference. Picture courtesy of Dereck Dube (Lumiself)*
 
 ## GeONG 2022, Chambery, France
@@ -86,13 +86,13 @@ How did we contribute / collaborate?
 
 > **“Coming to GeONG was valuable because I learned a lot, I met new people, and I now know new things. I feel more passionate, responsible and energized. The Satellite Sustainability Exchange was valuable as it provided me with insight into how the OSM ecosystem works in other parts of the world and what can be adapted.”** - *Arjun Ark, OSM India / GeONG invitee, India*
 
-![unSummit 7.png](/uploads/unSummit%207.png)
+![unSummit 7.png](https://cdn.hotosm.org/website/unSummit+7.png)
 *Participants building a digital collage at GeONG. Photo courtesy of Carla Habif, HOT*
 
 ## What do the numbers say?
 To try and understand the wider impact of the HOT unSummit program, we have also been tracking some metrics…
 
-![unSummit 8.png](/uploads/unSummit%208.png)
+![unSummit 8.png](https://cdn.hotosm.org/website/unSummit+8.png)
 
 Please feel free to click through and explore [the HOT unSummit metrics dashboard](https://datastudio.google.com/reporting/76fe94ed-f50d-4038-968b-486c3a7a3a5d/page/1M).
 
@@ -123,6 +123,6 @@ Aside from these very positive outcomes, we also acknowledge that, for people wh
 # What’s next for the HOT unSummit?
 The HOT unSummit program continues with exciting collaborations confirmed in the Philippines, Peru, Fiji, Nigeria, Tanzania, Mali, Haiti and Tunisia (as well as a few more in the pipeline).
 
-![unSummit 10.png](/uploads/unSummit%2010.png)
+![unSummit 10.png](https://cdn.hotosm.org/website/unSummit+10.png)
 
 Many of these event collaborations have also proven to be fertile ground for new collaborations, projects and mapping activities. HOT and the regional Open Mapping Hubs will be following up with organizers and participants alike to see how we can support the legacy of the unSummit program to go beyond supporting events.

@@ -17,7 +17,7 @@ Summary Text: 'Over the past few years, HOT has taken a leadership role in exper
   50  AI engineers from the Omdena community are crunching code with us to narrow
   down which of the models will give the most optimal AI-assisted mapping for our
   communities.'
-Feature Image: "/uploads/AI-assisted%20mapping.png"
+Feature Image: "https://cdn.hotosm.org/website/AI-assisted+mapping.png"
 Person: Synne Olsen
 ---
 
@@ -47,19 +47,19 @@ No, we are actually building on the top of it. The output from the Open Cities c
 
 An AI model in our context is a software code that you show it the left image below, then it runs and tells you what features presents in it like the right image (building detection in this example).
 
-![Screenshot 2022-11-03 at 15.03.39.png](/uploads/Screenshot%202022-11-03%20at%2015.03.39.png)
+![Screenshot 2022-11-03 at 15.03.39.png](https://cdn.hotosm.org/website/Screenshot+2022-11-03+at+15.03.39.png)
 
 Source: [OpenAerialMap](https://openaerialmap.org/)
 
 For training datasets, imagine a 5 years old child who has never seen a satellite imagery before and you challenge them to tell you what are the buildings in the following image:
 
-![Screenshot 2022-11-03 at 15.04.46.png](/uploads/Screenshot%202022-11-03%20at%2015.04.46.png)
+![Screenshot 2022-11-03 at 15.04.46.png](https://cdn.hotosm.org/website/Screenshot+2022-11-03+at+15.04.46.png)
 
 Source: [OpenAerialMap](https://openaerialmap.org/)
 
 Initially, they don’t know how a building looks from the top, they might struggle knowing what is a shadow of a building and what is the ground in the image! To teach them, you create a couple pages book as a curriculum, where you put images and highlight what is a building. Then you train the child to enhance their ability to detect buildings. Then maybe extend the curriculum to train them to detect a road, a tree, a swimming pool etc. Here is one page of that book:
 
-![Screenshot 2022-11-03 at 15.06.03.png](/uploads/Screenshot%202022-11-03%20at%2015.06.03.png)
+![Screenshot 2022-11-03 at 15.06.03.png](https://cdn.hotosm.org/website/Screenshot+2022-11-03+at+15.06.03.png)
 
 Source: [OpenAerialMap](https://openaerialmap.org/)
 

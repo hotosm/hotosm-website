@@ -7,7 +7,7 @@ tags:
 Summary Text: "**¿Se puede integrar OpenStreetMap al trabajo de los Institutos Geográficos
   Nacionales? **Esta es una pregunta que ronda el imaginario del mapeo abierto desde
   hace mucho y aquí te contamos como se está respondiendo."
-Feature Image: "/uploads/blog%20integr%20OSM%20a%20oficial_UN%20WDF_imagen%201%20compar%20OSM%20y%20Oficial.png"
+Feature Image: "https://cdn.hotosm.org/website/blog+integr+OSM+a+oficial_UN+WDF_imagen+1+compar+OSM+y+Oficial.png"
 Person: Celine Jacquin
 ---
 

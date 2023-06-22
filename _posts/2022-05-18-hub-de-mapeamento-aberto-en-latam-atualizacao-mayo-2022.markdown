@@ -12,7 +12,7 @@ Summary Text: Compartilhamos uma nova atualização sobre como a fase Alpha do O
   Mapping Hub na América Latina está progredindo para encontrar maneiras de conectar
   dados geoespaciais, voluntários de mapeamento aberto e comunidades que precisam
   de dados e mapeamento para seus próprios objetivos.
-Feature Image: "/uploads/hot_omh_latam_spanish_logo_rev_colour_with_tagline-2110x1176.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/hot_omh_latam_spanish_logo_rev_colour_with_tagline-2110x1176.jpeg"
 Person: Rubén Martín
 ---
 
@@ -62,7 +62,7 @@ Por falta de tempo, a própria equipe teve que tomar uma decisão sobre quais pr
 
 No futuro, acreditamos que esse processo deve evoluir para que as comunidades e atores da região possam fazer parte da exploração e tomada de decisão, e é algo que acreditamos ser interessante experimentar e vivenciar.
 
-![photo54.jpg](/uploads/photo54.jpg)
+![photo54.jpg](https://cdn.hotosm.org/website/photo54.jpg)
 
 **Projetos de campo**
 

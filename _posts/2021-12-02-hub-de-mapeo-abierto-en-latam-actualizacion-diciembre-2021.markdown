@@ -8,7 +8,7 @@ Summary Text: 'Nos alegra compartir una actualización sobre cómo en HOT planea
   aumentar nuestro apoyo al Mapeo Abierto en la región de LATAM para encontrar formas
   de conectar los datos geoespaciales y el esfuerzo de la comunidad hacia el bien
   común.  '
-Feature Image: "/uploads/HOT_OMH_LATAM_Spanish_Logo_REV_COLOUR.png"
+Feature Image: "https://cdn.hotosm.org/website/HOT_OMH_LATAM_Spanish_Logo_REV_COLOUR.png"
 Person: Rubén Martín
 ---
 
@@ -36,7 +36,7 @@ Estamos llamando a esto la fase "Hub Alfa" y el objetivo es tener suficiente exp
 
 ### ¿Cómo?
 
-![path7-ec21df.png](/uploads/path7-ec21df.png)
+![path7-ec21df.png](https://cdn.hotosm.org/website/path7-ec21df.png)
 
 Durante los próximos meses tenemos previsto poner a prueba el apoyo y la colaboración con las comunidades locales y los actores del mapeo abierto en la región en tres niveles diferentes:
 

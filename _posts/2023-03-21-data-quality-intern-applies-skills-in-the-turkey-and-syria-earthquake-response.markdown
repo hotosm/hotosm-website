@@ -3,7 +3,7 @@ title: Data Quality Intern Applies Skills in the Turkey and Syria Earthquake Res
 date: 2023-03-21 19:51:00 Z
 Summary Text: '"My experience in the HOT Data Quality Internship program allowed me
   to contribute more effectively to the activation."'
-Feature Image: "/uploads/Eray%20DQI%20Turkey.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Eray+DQI+Turkey.jpg"
 Person:
 - Eray Öztürk
 - Rebecca Chandiru

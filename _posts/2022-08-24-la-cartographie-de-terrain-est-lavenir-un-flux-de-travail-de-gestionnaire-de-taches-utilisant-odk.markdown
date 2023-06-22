@@ -2,7 +2,7 @@
 title: 'La cartographie de terrain est l''avenir : Un flux de travail de Gestionnaire
   de Tâches utilisant ODK'
 date: 2022-08-24 14:57:00 Z
-Feature Image: "/uploads/Screen%20Shot%202022-08-24%20at%205.33.21%20PM.png"
+Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+5.33.21+PM.png"
 Is image top aligned: true
 ---
 
@@ -22,7 +22,7 @@ L'un des éléments les plus marquants de l'écosystème de la cartographie ouve
 
 Il fallait quelque chose: un moyen d'attribuer de petites tâches gérables aux individus, de suivre leur progression, de contrôler la qualité et de valider leur travail, et d'intégrer de façon transparente les nouvelles données dans OpenStreetMap sans endommager les données existantes. Le gestionnaire de tâches HOT a servi de lien entre les deux parties; est un outil permettant à la communauté de définir les besoins en matière de données et aux cartographes individuels d'y contribuer avec facilité et confiance.
 
-![Screen Shot 2022-08-24 at 3.14.13 PM-ce4f17.png](/uploads/Screen%20Shot%202022-08-24%20at%203.14.13%20PM-ce4f17.png)
+![Screen Shot 2022-08-24 at 3.14.13 PM-ce4f17.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.14.13+PM-ce4f17.png)
 
 ### Qu'en est-il des tâches de cartographie sur le terrain?
 
@@ -30,13 +30,13 @@ Il existe un certain nombre d'excellents outils de collecte de données sur le t
 
 Le puissant [OpenDataKit](https://getodk.org/) et les nombreuses plateformes construites à partir de celui-ci, comme [Kobo Toolbox](https://www.kobotoolbox.org/), permettent à toute personne disposant d'un appareil Android de collecter des données à l'aide de formulaires flexibles et puissants conçus dans un tableur.
 
-![Screen Shot 2022-08-24 at 3.15.46 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.15.46%20PM.png)
+![Screen Shot 2022-08-24 at 3.15.46 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.15.46+PM.png)
 
 *La feuille de calcul de gauche crée le questionnaire et l'activité "Sélectionner sur la carte" sur le téléphone.*
 
 [Vespucci](https://vespucci.io/) apporte une grande partie de la puissance de JOSM à un éditeur mobile. [EveryDoor](https://every-door.app/) offre aux utilisateurs d'Android et d'iPhone une plateforme simple pour modifier les données OSM, et StreetComplete fait de même pour les utilisateurs d'Android. [OSMAND](https://osmand.net/) et [Organic Maps](https://organicmaps.app/) permettent de naviguer et de visualiser des cartes hors ligne avec des données OSM, ainsi que d'ajouter ou de modifier des fonctionnalités pour contribuer à OSM.
 
-![Screen Shot 2022-08-24 at 3.27.54 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.27.54%20PM.png)
+![Screen Shot 2022-08-24 at 3.27.54 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.27.54+PM.png)
 
 *Captures d'écran de EveryDoor, Vespucci, OSMAnd et Organic Maps*
 
@@ -79,11 +79,11 @@ Que faut-il pour mettre en œuvre un gestionnaire de tâches de cartographie de 
 
     *Il reproduit en grande partie la fonctionnalité du très regretté [OpenMapKit](http://www.openmapkit.org/), un fork très utile d'ODK créé par la Croix-Rouge américaine avec le soutien de HOT et d'autres agences, qui permettait aux utilisateurs de lancer des formulaires à partir d'une vue cartographique et de sélectionner des bâtiments/éléments auxquels ajouter des attributs. Malheureusement, OMK n'est plus maintenu et ne peut plus être utilisé de manière fiable.*
 
-![Screen Shot 2022-08-24 at 3.34.04 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.34.04%20PM.png)
+![Screen Shot 2022-08-24 at 3.34.04 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.34.04+PM.png)
 
 En outre, la nouvelle application serveur web [ODK Central](https://docs.getodk.org/central-intro/) contient des outils très granulaires permettant d'attribuer des formulaires à des utilisateurs individuels. Il est possible, en effet, de créer des questionnaires individuels pour un nombre arbitraire de petites zones (comme des quartiers), chacune avec son propre ensemble de caractéristiques (comme des bâtiments). Ces formulaires peuvent ensuite être attribués à des "utilisateurs de l'application" spécifiques, l'accès à des formulaires spécifiques (et donc à des quartiers/zones) étant défini par un code QR.
 
-![Screen Shot 2022-08-24 at 3.35.11 PM.png](/uploads/Screen%20Shot%202022-08-24%20at%203.35.11%20PM.png)
+![Screen Shot 2022-08-24 at 3.35.11 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+3.35.11+PM.png)
 
 *ODK Central prend en charge l'attribution de formulaires individuels - et des fonctionnalités correspondantes telles que les bâtiments - à des utilisateurs individuels.*
 

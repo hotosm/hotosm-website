@@ -6,10 +6,10 @@ Summary Text: We are happy to announce that 50 new members have been elected to 
   across the globe. These 50 new members come from 29 different countries and are
   helping us build a more diverse and equitable community. A few insights about how
   our membership is changing.
-Feature Image: "/uploads/51490564400_99fd58725d_k-eff0fe.jpg"
+Feature Image: "https://cdn.hotosm.org/website/51490564400_99fd58725d_k-eff0fe.jpg"
 ---
 
-![Copy of Voting member infographics.png](/uploads/Copy%20of%20Voting%20member%20infographics.png)
+![Copy of Voting member infographics.png](https://cdn.hotosm.org/website/Copy+of+Voting+member+infographics.png)
 
 * Increased geographic spread: 
   * Previously 42% of our VM lived in priority countries and we are now at 51%. 

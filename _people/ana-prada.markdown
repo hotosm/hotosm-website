@@ -1,7 +1,7 @@
 ---
 title: Ana Prada
 date: 2022-01-24 16:07:00 Z
-Photo: "/uploads/photo.png"
+Photo: "https://cdn.hotosm.org/website/photo.png"
 Member Type:
   Is Staff: true
 Job Title: Project Associate

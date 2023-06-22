@@ -17,7 +17,7 @@ Summary Text: Ya ha pasado dos meses desde que el primer terremoto de magnitud 7
   de apoyo continuo a las comunidades afectadas y el inicio de los esfuerzos de reconstrucción
   donde sea factible hacerlo. A medida que cambia la fase de la respuesta a desastres,
   también cambian las necesidades de datos y los requisitos de datos y calidad.
-Feature Image: "/uploads/Disaster_Response_PhasesC.png"
+Feature Image: "https://cdn.hotosm.org/website/Disaster_Response_PhasesC.png"
 Person:
 - Paul Uithol
 - Jessica Pechmann
@@ -157,7 +157,7 @@ Así como el uso de datos difiere para cada fase de una respuesta, también lo h
 
 Durante la **fase de respuesta** inmediata, la disponibilidad de datos es clave, y la calidad de los datos suele ser lo suficientemente buena siempre que no obstaculice el uso principal de los datos. Por ejemplo, las construcciones raras, superpuestas o que no son cuadriláteras en realidad no hacen que las estimaciones de población sean significativamente incorrectas. Sin embargo, las carreteras principales que no se conectan causan problemas para la navegación y la logística de rutas.
 
-![DataPhasesEq2.png](/uploads/DataPhasesEq2.png)
+![DataPhasesEq2.png](https://cdn.hotosm.org/website/DataPhasesEq2.png)
 <figcaption align = "left"><h6>Comparación de mapeos del 10 de febrero (izquierda) al 22 de marzo (derecha). El azul claro denota áreas de construcciones mapeadas en OSM.</h6></figcaption>
 <br>
 Los datos completos pueden ser escasos e inicialmente difíciles de obtener, especialmente si se trata de un área que no se cartografió bien en el pasado. El ritmo de mapeo en el Tasking Manager invariablemente superará los controles y la validación de la calidad de los datos.
@@ -172,7 +172,7 @@ Durante la **Fase de recuperación**, nos enfocaremos más en poner un esfuerzo 
 
 Para la **Fase de preparación**, se requiere datos de alta calidad y fidelidad, especialmente cuando se considera la implementación de proyectos específicos para la reducción del riesgo de desastres, la resiliencia o la acción anticipatoria. A menudo, los resultados de la recopilación de datos y el mapeo se destinarán a proporcionar datos para la toma de decisiones e información de referencia sobre intervenciones e inversiones específicas. Ejemplos de este tipo de proyectos se pueden encontrar en el programa Ciudades Abiertas (por ejemplo, en [Accra, Ghana](https://www.hotosm.org/projects/open-cities-africa-accra-city-project-ghana/)). Estos proyectos tienen como objetivo desarrollar la resiliencia ante desastres en las ciudades en los que tienen lugar y requieren datos detallados y de alta calidad sobre aspectos específicos de la infraestructura, como el diseño exacto y la capacidad de los sistemas de drenaje y agua, los sistemas de transporte público o las instalaciones de salud.
 
-![DataPhasesEq3.png](/uploads/DataPhasesEq3.png)
+![DataPhasesEq3.png](https://cdn.hotosm.org/website/DataPhasesEq3.png)
 
 ¿Quieres contribuir con OSM para necesidades humanitarias? Visita [el Tasking Manager de HOT](https://tasks.hotosm.org/explore) para proyectos desde nivel principiante, y lee [Tips para mapeadores del Equipo de Datos de HOT](https://www.hotosm.org/updates/tips-para-mapeadores-del-equipo-de-datos-de-hot/).
 **[Puedes acceder a los datos de OSM a través de la página HDX de HOT](https://data.humdata.org/organization/hot.).**

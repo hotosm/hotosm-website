@@ -57,7 +57,7 @@ Deliver the final, edited versions using WeTransfer, Google Drive, or Dropbox
 This consultancy will be from 26 June to 17 August 2023.
 Travel costs and accommodation for **3 persons only** will be covered by the Humanitarian OpenStreetMap Team/OMH-ESA.
 
-![Activity plan_Page_1.png](/uploads/Activity%20plan_Page_1.png)
+![Activity plan_Page_1.png](https://cdn.hotosm.org/website/Activity+plan_Page_1.png)
 
 # Deliverables
 

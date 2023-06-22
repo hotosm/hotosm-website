@@ -8,7 +8,7 @@ Project Summary Text: The Ugandan government has demonstrated a strong commitmen
   to promoting information and communication technology (ICT) education in schools.
   This effort has led to an increase in computer labs and learning opportunities for
   students to acquire computer skills alongside other subjects.
-Feature Image: "/uploads/ESA_OSMinSchools1.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/ESA_OSMinSchools1.jpeg"
 Country:
 - Uganda
 Impact Area:
@@ -25,7 +25,7 @@ Duration:
   End Date: 2023-05-01 00:00:00 Z
 ---
 
-![ESA_OSMinSchools2.jpeg](/uploads/ESA_OSMinSchools2.jpeg)
+![ESA_OSMinSchools2.jpeg](https://cdn.hotosm.org/website/ESA_OSMinSchools2.jpeg)
 
 The OpenStreetMap in Schools project aims to introduce OpenStreetMap and open mapping techniques in schools, thereby enhancing the learning of geography and increasing the uptake of science, technology, engineering, and mathematics (STEM) education. The initiative offers ICT mapping training sessions and improves access to computers to bridge the digital divide in education. The project involves visiting schools, engaging with educators on ICT adoption, and building their capacity in ICT.
 
@@ -36,10 +36,10 @@ The teachers and students have been trained on the OSM platform, including OpenS
 ## Data Use
 The data generated from mapping buildings within school locations and surrounding communities will be utilized by the Ministry of Education and other NGOs working towards the growth and sustainability of the educational sector. School officials will also use it to generate reports, especially on Monitoring, Evaluation, Research, and Learning (MERL) activities, and maintain school registers.
 
-![ESA_OSMinSchools3.jpeg](/uploads/ESA_OSMinSchools3.jpeg)
+![ESA_OSMinSchools3.jpeg](https://cdn.hotosm.org/website/ESA_OSMinSchools3.jpeg)
 
 The project is a teacher-led initiative that has empowered teachers to open 105 OSM accounts and become proficient in mapping using the ID editor, enabling them to map 1,212 buildings. School officials have embraced digital soft wares like ODK and Kobo Toolbox to monitor student attendance and reporting. The project has also facilitated the acquisition of new skills by students that can be applied beyond the confines of the classroom.
 
-![ESA_OSMinSchools4.jpeg](/uploads/ESA_OSMinSchools4.jpeg)
+![ESA_OSMinSchools4.jpeg](https://cdn.hotosm.org/website/ESA_OSMinSchools4.jpeg)
 
-![ESA_OSMinSchools5.png](/uploads/ESA_OSMinSchools5.png)
+![ESA_OSMinSchools5.png](https://cdn.hotosm.org/website/ESA_OSMinSchools5.png)

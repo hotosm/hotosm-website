@@ -1,7 +1,7 @@
 ---
 title: Shoaib Burq
 date: 2015-06-04 19:58:00 Z
-Photo: "/uploads/photo%20ShoaibBurq.png"
+Photo: "https://cdn.hotosm.org/website/photo+ShoaibBurq.png"
 Member Type:
   Is Voting Member: true
   Is Board Member: true

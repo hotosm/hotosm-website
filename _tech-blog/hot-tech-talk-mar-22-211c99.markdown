@@ -11,7 +11,7 @@ tags:
 - tasking manager
 Summary Text: Back once again, and we have connected in real time, in real life, with
   real people. Read on >>
-Feature Image: "/uploads/PXL_20220316_105428802.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/PXL_20220316_105428802.jpeg"
 Is image top aligned: false
 Tool:
 - Tasking Manager

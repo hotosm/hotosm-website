@@ -1,7 +1,7 @@
 ---
 title: Razmee Appadu
 date: 2022-06-15 07:20:00 Z
-Photo: "/uploads/Razmee%20Profile%20Updated.PNG"
+Photo: "https://cdn.hotosm.org/website/Razmee+Profile+Updated.PNG"
 Member Type:
   Is Staff: true
 Job Title: Global People Operations Associate

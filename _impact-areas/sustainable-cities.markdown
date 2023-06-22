@@ -6,7 +6,7 @@ Page Link:
   Text: Want to know more?
   Label: Download PDF Infosheet
   Link: https://drive.google.com/file/d/1s0LM_Te4Df7SZit0oSTFMkzFR123-pKI/preview
-src: "/uploads/sustainable-cities-and-communities.svg"
+src: "https://cdn.hotosm.org/website/sustainable-cities-and-communities.svg"
 summary: Service delivery and infrastructure in disadvantaged urban and rural areas,
   including transportation, water and sanitation, and energy.
 block-1:

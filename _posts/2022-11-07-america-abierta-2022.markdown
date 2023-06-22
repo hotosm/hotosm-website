@@ -10,11 +10,11 @@ tags:
 Summary Text: América Abierta, antes conocido como AbreLatam/ConDatos, es el evento
   regional sobre datos abiertos y gobierno abierto, que reúne a organizaciones e individuos
   que trabajan en estos temas.
-Feature Image: "/uploads/52407738438_f38a4dbdf2_c.jpg"
+Feature Image: "https://cdn.hotosm.org/website/52407738438_f38a4dbdf2_c.jpg"
 Person: Juan Arellano Valdivia
 ---
 
-![52407738438_f38a4dbdf2_c.jpg](/uploads/52407738438_f38a4dbdf2_c.jpg)
+![52407738438_f38a4dbdf2_c.jpg](https://cdn.hotosm.org/website/52407738438_f38a4dbdf2_c.jpg)
 
 *Foto (y las siguientes) tomada del album [America Abierta (2022)](https://www.flickr.com/photos/opengovpart/albums/72177720302678908/) de la cuenta Flickr de [Open Government Partnership](https://www.flickr.com/photos/opengovpart/) bajo una licencia CC [Atribución 2.0 Genérica (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/deed.es).*
 
@@ -24,7 +24,7 @@ Este evento viene realizándose desde el 2013 -el primer AbreLatam tuvo lugar en
 
 > Este reencuentro de diversas comunidades nos permitirá conectar actores para trabajar juntos y juntas por una América más abierta, democrática y sostenible. Particularmente, en temas trascendentales como transparencia, integridad, prevención y lucha contra la corrupción, protección de derechos y libertades, gobernanza democrática, datos y tecnología para el bien común, inclusión de grupos vulnerables, participación y colaboración ciudadana, protección del medio ambiente y desarrollo sostenible. (Fuente: [América Abierta](https://americaabierta.org/acerca-de/))
 
-![52407324459_e3bd5952c2_c.jpg](/uploads/52407324459_e3bd5952c2_c.jpg)
+![52407324459_e3bd5952c2_c.jpg](https://cdn.hotosm.org/website/52407324459_e3bd5952c2_c.jpg)
 
 Hablar de datos abiertos puede parecer quizás algo especializado para el público en general, pero es medular para la transparencia y la lucha anticorrupción, y debería estar en la agenda de más organizaciones de la sociedad civil que adicionalmente pueden beneficiarse con el uso de datos que pueden tener impacto en sus actividades o en sus públicos objetivo. Ciertamente es un campo que necesita conocimientos técnicos, un activo movimiento ciudadano y la apertura de los gobiernos, siendo esto último algo que oscila con los vaivenes políticos de cada ciudad o país.
 
@@ -38,7 +38,7 @@ En todo este contexto, una de las cosas importantes de los tres días del evento
 >
 > Queremos a casi 10 años de la llegada de la agenda de datos abiertos, que los mismos sean puestos al servicio de los temas que importan, con la calidad que se requiere, como un derecho de la ciudadanía y no por la buena voluntad del poder de turno. Y los queremos acerca de cómo se gastan nuestros dineros, cómo se ejecutan nuestros contratos, pero también acerca de cómo funcionan nuestros servicios públicos, y cómo contamos a quienes han sido invisibilizados por aparatos estatales que aún heredan prácticas colonialistas. (Fuente: [Declaración América Abierta](https://americaabierta.org/abrelatam-queremos-una-americaabierta-para-todas-las-personas/))
 
-![52407465965_25c64dc366_c.jpg](/uploads/52407465965_25c64dc366_c.jpg)
+![52407465965_25c64dc366_c.jpg](https://cdn.hotosm.org/website/52407465965_25c64dc366_c.jpg)
 
 En la clausura del evento se les preguntó dos cosas a algunos de los asistentes. Primero, qué se llevaban de “América Abierta”, mi respuesta sería que la gente, conocer a tanta gente que hace cosas en circunstancias a veces adversas sirve para inspirarse y seguir trabajando en lo que uno cree y le gusta. Segundo, se preguntó qué se planteaban de tarea, pues la mía/la nuestra sería trabajar para que en el próximo América Abierta el tema del mapeo abierto sea protagonista, tanto en experiencias compartidas como en oportunidades de colaboración.
 
@@ -46,7 +46,7 @@ Como mencioné en un párrafo anterior, si bien el mapeo no tuvo un lugar destac
 
 Entonces -y recapitulando- hay interés en el mapeo, conocimiento de como mapear, y experiencia en el abordaje a temas comunes repartida en diversos países de la región, pero falta impulso, difusión y apoyo en la creación de sinergias. Y es ahí donde el Hub debe enfocarse, pues la comunidad de datos abiertos regional es como la comunidad natural de los mapeadores y gente interesada en el mapeo abierto. América se debe abrir al mapeo abierto. Aún tenemos límites que cruzar, barreras que romper, realidades por conocer. ¡Abramos América al mapeo abierto!
 
-![52407610129_496e524179_c.jpg](/uploads/52407610129_496e524179_c.jpg)
+![52407610129_496e524179_c.jpg](https://cdn.hotosm.org/website/52407610129_496e524179_c.jpg)
 
 Por cierto, no se pierdan los testimonios de [Flor Otárola](https://www.instagram.com/p/CjS7JTSgcTn/) ([Cambá](https://camba.coop/)), [Leo Gómez](https://www.instagram.com/p/CkFjCPUgbjP/) ([TEDIC](https://www.tedic.org/)) y [Sebastian Neter](https://www.instagram.com/p/CkoOl3OpEpG/) ([Wingu](https://winguweb.org/)) sobre OpenStreetMap.
 

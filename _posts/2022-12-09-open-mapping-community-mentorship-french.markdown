@@ -5,7 +5,7 @@ Summary Text: La communauté OpenStreetMap, une communauté de communautés, est
   de nombreux cartographes et autres contributeurs répartis dans les communautés locales
   du monde entier.  Le programme de mentorat du groupe de travail de la communauté
   OpenStreetMap peut aider à combler les écarts de compétences entre les communautés.
-Feature Image: "/uploads/Mentorship%20Banner.png"
+Feature Image: "https://cdn.hotosm.org/website/Mentorship+Banner.png"
 Person: Tsongo Muluba Bienvenue
 ---
 

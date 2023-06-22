@@ -12,7 +12,7 @@ tags:
 Project Summary Text: Este proyecto busca digitalizar los recorridos de las rutas
   de transporte público de Zitácuaro, para posteriormente publicarlos como datos abiertos
   en diversas plataformas.
-Feature Image: "/uploads/LAC_ParticipatoryTransportMappingZitacuaro_header.webp"
+Feature Image: "https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_header.webp"
 Country:
 - Mexico
 Impact Area:
@@ -42,19 +42,19 @@ Este proyecto, una colaboración entre la oficina de Movilidad del municipio de 
 
 Brindar a la ciudadanía datos de calidad para que estén mejor informados sobre rutas, horarios, precios y así permitirles tomar mejores decisiones en sus desplazamientos.
 
-![LAC_ParticipatoryTransportMappingZitacuaro_CitizensInsideBus.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_CitizensInsideBus.webp)
+![LAC_ParticipatoryTransportMappingZitacuaro_CitizensInsideBus.webp](https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_CitizensInsideBus.webp)
 
 ### Gobierno y sociedad civil
 
 Proporcionar datos de calidad al gobierno municipal y organizaciones para una mejor planeación del territorio y la movilidad.
 
-![LAC_ParticipatoryTransportMappingZitacuaro_Motorbike.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Motorbike.webp)
+![LAC_ParticipatoryTransportMappingZitacuaro_Motorbike.webp](https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_Motorbike.webp)
 
 ### Datos
 
 Diseñar un mapa digital imprimible de transporte público físico para colocar en lugares estratégicos.
 
-![LAC_ParticipatoryTransportMappingZitacuaro_Mapwithroutes.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Mapwithroutes.webp)
+![LAC_ParticipatoryTransportMappingZitacuaro_Mapwithroutes.webp](https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_Mapwithroutes.webp)
 
 ## Las tres fases del proyecto
 
@@ -62,13 +62,13 @@ Diseñar un mapa digital imprimible de transporte público físico para colocar 
 
 Recopilación de información previa, análisis inicial de rutas existentes, socialización con transportistas y búsqueda de mapeadores.
 
-![LAC_ParticipatoryTransportMappingZitacuaro_Phase1.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Phase1.webp)
+![LAC_ParticipatoryTransportMappingZitacuaro_Phase1.webp](https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_Phase1.webp)
 
 ### Fase 2
 
 Levantamiento de rutas en campo mediante el uso de una app móvil especializada en mapeo de transporte público.
 
-![LAC_ParticipatoryTransportMappingZitacuaro_Phase2.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Phase2.webp)
+![LAC_ParticipatoryTransportMappingZitacuaro_Phase2.webp](https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_Phase2.webp)
 
 ### Fase 3
 
@@ -81,7 +81,7 @@ Levantamiento de rutas en campo mediante el uso de una app móvil especializada 
 * Vinculación con la app de planeación de viajes Trufiapp (opensource) y otras similares.
   Esta fase integra la participación activa del grupo de estudiantes [Youthmappers](https://twitter.com/ym_uaemex) [UAEMEX](https://www.facebook.com/profile.php?id=100078038342164) de Toluca, capacitado en este tema.
 
-![LAC_ParticipatoryTransportMappingZitacuaro_Phase3.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Phase3.webp)
+![LAC_ParticipatoryTransportMappingZitacuaro_Phase3.webp](https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_Phase3.webp)
 
 ## Desarrollo del proyecto
 
@@ -91,7 +91,7 @@ Antes de empezar el mapeo se realizó una investigación previa de todos los dat
 
 En el caso de Zitácuaro, en 2017 se había realizado un diagnóstico del servicio de transporte público. Durante el mismo se identificaron 157 rutas de transporte público y se levantó un padrón de unidades de transporte y concesionarios. Este documento de casi 500 páginas fue fundamental para entender mejor la dimensión del trabajo a realizar, los recursos humanos y monetarios y sobre todo el esfuerzo que iba a requerir el mapatón.
 
-![LAC_ParticipatoryTransportMappingZitacuaro_Analysisofpreviousinfo.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_Analysisofpreviousinfo.webp)
+![LAC_ParticipatoryTransportMappingZitacuaro_Analysisofpreviousinfo.webp](https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_Analysisofpreviousinfo.webp)
 
 ### Brigadas de mapeo y estrategia territorial
 
@@ -105,7 +105,7 @@ Codeando México analizó el documento de diagnóstico y listó las 157 rutas y 
 
 Para el mapeo se eligió usar MapMap, una app específica para el mapeo de rutas de transporte, desarrollada por Codeando México en el marco del Mapeo Xalapa 2016. Una capacitación presencial para el uso de MapMap y la dinámica de mapeo tuvo lugar en las oficinas del ayuntamiento a inicios de noviembre 2022.
 
-![LAC_ParticipatoryTransportMappingZitacuaro_MappingBrigades.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_MappingBrigades.webp)
+![LAC_ParticipatoryTransportMappingZitacuaro_MappingBrigades.webp](https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_MappingBrigades.webp)
 
 ### Pre-procesamiento de rutas
 
@@ -121,7 +121,7 @@ Ya con los datos listos, se integraron a OpenStreetMap, para ser leidos desde el
 
 A la fecha nos encontramos en conversaciones sobre el mapeo de más ciudades michoacanas y la integración de otras universidades locales y municipios al proceso.
 
-![LAC_ParticipatoryTransportMappingZitacuaro_MapRoutesPreprocessing.webp](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_MapRoutesPreprocessing.webp)
+![LAC_ParticipatoryTransportMappingZitacuaro_MapRoutesPreprocessing.webp](https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_MapRoutesPreprocessing.webp)
 
 ## El proyecto en síntesis
 
@@ -131,7 +131,7 @@ Moviliza, vincula y fortalece organizaciones en la sistematización de este cono
 
 Coordina el levantamiento de datos, la formación de voluntarios locales, la preparación e inserción de datos en tecnologías abiertas que permitirán su uso libre.
 
-![LAC_ParticipatoryTransportMappingZitacuaro_NotaPapel.jpeg](/uploads/LAC_ParticipatoryTransportMappingZitacuaro_NotaPapel.jpeg)
+![LAC_ParticipatoryTransportMappingZitacuaro_NotaPapel.jpeg](https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_NotaPapel.jpeg)
 
 ## Prensa
 

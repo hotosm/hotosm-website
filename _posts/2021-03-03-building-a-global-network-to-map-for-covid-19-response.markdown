@@ -4,7 +4,7 @@ date: 2021-03-03 15:09:00 Z
 Summary Text: With support from the Humanitarian-to-Humanitarian Network, HOT has
   engaged the global humanitarian mapping community to support local Covid-19 responses
   in the biggest disaster activation in HOT's history.
-Feature Image: "/uploads/Covid%20Tasks-d449dc.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Covid+Tasks-d449dc.jpg"
 Is image top aligned: true
 Person:
 - Russell Deffner

@@ -1,7 +1,7 @@
 ---
 title: Emmanuel BAMA
 date: 2022-09-12 12:41:00 Z
-Photo: "/uploads/Emmanuel%20BAMA.jpg"
+Photo: "https://cdn.hotosm.org/website/Emmanuel+BAMA.jpg"
 Member Type:
   Is Staff: true
 Job Title: Open Tech and Innovation Specialist - West and Northern Africa

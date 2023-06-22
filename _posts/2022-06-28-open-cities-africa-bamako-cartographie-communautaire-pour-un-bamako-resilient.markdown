@@ -5,7 +5,7 @@ Summary Text: Le projet Open Cities Africa, " Cartographie communautaire pour un
   résilient ", initié en 2020, s'est achevé en mai 2022. L'objectif de ce projet financé
   par la Banque mondiale consistait à mettre en évidence le besoin d'infrastructures
   d'information pour développer et renforcer la résilience urbaine à Bamako, au Mali.
-Feature Image: "/uploads/52100330051_13039c7e62_k.jpg"
+Feature Image: "https://cdn.hotosm.org/website/52100330051_13039c7e62_k.jpg"
 Person:
 - Shazmane Mandjee Rehamtula
 - Risham Habib

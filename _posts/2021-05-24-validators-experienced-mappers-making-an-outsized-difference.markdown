@@ -3,7 +3,7 @@ title: 'Validators: Experienced Mappers Making an Outsized Contribution'
 date: 2021-05-24 11:57:00 Z
 Summary Text: Validators serve an essential role in ensuring data quality and providing
   feedback to new mappers. Learn how validation works and how you can become a validator.
-Feature Image: "/uploads/ESRI44309.gif"
+Feature Image: "https://cdn.hotosm.org/website/ESRI44309.gif"
 Person:
 - Ralph Aytoun
 - Rebecca Chandiru
@@ -27,7 +27,7 @@ Contributors who consider themselves to be part of the humanitarian OpenStreetMa
 
 Validators also advise beginner mappers on how to improve their mapping. “Validators not only accept or reject mappers work, but also provide feedback on work completed, steer mappers towards more productive practices for the future, and encourage them to expand their experience and hopefully one day also become validators,” explains Chapman.
 
-![Validation Graph.jpg](/uploads/Validation%20Graph.jpg)
+![Validation Graph.jpg](https://cdn.hotosm.org/website/Validation+Graph.jpg)
 
 ## **What Happens When Mapping Goes Wrong, and How to Avoid It**
 
@@ -49,7 +49,7 @@ While we welcome more validators, the demanding skill set the role requires mean
 
 If you think this path is right for you, the most important thing to do is to practice mapping. Be sure to map many different kinds of features and in many different locations, and actively use the [OSM wiki](https://wiki.openstreetmap.org/wiki/Tags)’s tagging guide to make sure you are identifying and tagging features correctly. Using [JOSM](https://wiki.openstreetmap.org/wiki/JOSM) is also a plus, but it is not essential as there are increasing validation opportunities using the [iD Editor](https://wiki.openstreetmap.org/wiki/ID).
 
-![Validation Interface.jpg](/uploads/Validation%20Interface.jpg)
+![Validation Interface.jpg](https://cdn.hotosm.org/website/Validation+Interface.jpg)
 
 There are online trainings you can use as well, both in text and in videos. Two of the most popular are:
 

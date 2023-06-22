@@ -7,7 +7,7 @@ tags:
 - caribbean
 Project Summary Text: Here we document the activities of HOT's Open Mapping Hub -
   LAC
-Feature Image: "/uploads/LAC_PublicationsHeader.png"
+Feature Image: "https://cdn.hotosm.org/website/LAC_PublicationsHeader.png"
 Impact Area:
 - Public Health
 - Gender Equality
@@ -40,7 +40,7 @@ They go from newest to oldest.
 
 03/25/2021 - 🗺 [¡Ayuda a impulsar OpenStreetMap en Latinoamérica!](https://www.hotosm.org/updates/ayuda-a-impulsar-openstreetmap-en-latinoamerica/)
 
-![LAC_PublicationsExample1.jpeg](/uploads/LAC_PublicationsExample1.jpeg)
+![LAC_PublicationsExample1.jpeg](https://cdn.hotosm.org/website/LAC_PublicationsExample1.jpeg)
 
 ## Other publications on Latin America
 
@@ -86,4 +86,4 @@ They go from newest to oldest.
 
 24/04/2013 - [Hottie Humberto Yances presents the La Boquilla Project](https://www.hotosm.org/updates/2013-04-24_hottie_humberto_yances_presents_the_la_boquilla_project)
 
-![LAC_PublicationsExample2.png](/uploads/LAC_PublicationsExample2.png)
+![LAC_PublicationsExample2.png](https://cdn.hotosm.org/website/LAC_PublicationsExample2.png)

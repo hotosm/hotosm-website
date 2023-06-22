@@ -7,7 +7,7 @@ Summary Text: We’re now about a month and a half after the initial 7.7 magnitu
   to the affected communities and the start of rebuilding and reconstruction efforts
   where it is feasible to do. As the phase of disaster response changes, so do the
   data needs and data and quality requirements.
-Feature Image: "/uploads/Disaster_Response_PhasesC.png"
+Feature Image: "https://cdn.hotosm.org/website/Disaster_Response_PhasesC.png"
 Person:
 - Paul Uithol
 - Jessica Pechmann
@@ -146,7 +146,7 @@ As data use differs for each phase of a response, so do the expectations and req
 
 During the immediate **Response Phase**, data availability is key - and data quality is often good enough as long as it doesn’t hamper the primary use of the data. For example, while annoying, overlapping or non-square buildings don’t actually cause population estimates to be significantly off. However, major roads that don’t connect cause issues for route logistics and navigation. 
 
-![DataPhasesEq2.png](/uploads/DataPhasesEq2.png)
+![DataPhasesEq2.png](https://cdn.hotosm.org/website/DataPhasesEq2.png)
 <figcaption align = "left"><h6>Comparison of mapping from 10 February (left) to 22 March (right). Light blue denotes areas of mapped buildings in OSM.</h6></figcaption>
 <br>
 Comprehensive data can be scarce and initially hard to get, especially if we’re dealing with an area that hasn’t been mapped well in the past. The pace of mapping on the Tasking Manager will invariably outpace data quality checks and validation.
@@ -161,7 +161,7 @@ During the **Recovery Phase**, our focus will shift more toward putting a concer
 
 For the **Preparedness Phase**, high data quality and fidelity is required - especially when considering the implementation of specific projects for disaster risk reduction, resilience, or anticipatory action. Often, data collection and mapping outputs will go towards providing decision-making data and baseline information on specific interventions and investments. Examples of this kind of project can be found in the Open Cities program (for example, in [Accra, Ghana](https://www.hotosm.org/projects/open-cities-africa-accra-city-project-ghana/)). These projects aim to build the disaster resilience of the cities they take place in and require detailed and high-quality data on specific aspects of infrastructure, such as the exact layout and capacity of drainage and water systems, public transport systems, or health facilities.
 
-![DataPhasesEq3.png](/uploads/DataPhasesEq3.png)
+![DataPhasesEq3.png](https://cdn.hotosm.org/website/DataPhasesEq3.png)
 
 Want to contribute to OSM for humanitarian needs? Visit [HOT’s Tasking Manager](https://tasks.hotosm.org/explore) for projects starting at the beginner level, and read [HOT's Tips for Mappers](https://www.hotosm.org/updates/tips-for-mappers-from-the-hot-data-team/). 
 **[You can access OSM data via HOT’s HDX page](https://data.humdata.org/organization/hot.).**

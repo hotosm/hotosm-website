@@ -5,7 +5,7 @@ Summary Text: HOT unSummit está ofreciendo fondos de viaje para colaboradores h
   de mapeo abierto / datos abiertos y miembros de la comunidad HOT activos para asistir
   a dos de las conferencias que estamos apoyando, FOSS4G y SOTM 2022. ¡Preséntate
   ya!
-Feature Image: "/uploads/51490564400_99fd58725d_k-f3dc57.jpg"
+Feature Image: "https://cdn.hotosm.org/website/51490564400_99fd58725d_k-f3dc57.jpg"
 Person: unSummit Scholarships Committee
 Working Group:
 - HOT Summit

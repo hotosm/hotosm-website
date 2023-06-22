@@ -7,7 +7,7 @@
 
 DIR=${0%/*}
 
-set -x
+# set -x
 
 # Loop through the files in _uploads
 

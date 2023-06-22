@@ -1,7 +1,7 @@
 ---
 title: Máximo de Alzaga
 date: 2021-06-08 13:18:00 Z
-Photo: "/uploads/Max%20Alzaga%20photo%20bio.jpg"
+Photo: "https://cdn.hotosm.org/website/Max+Alzaga+photo+bio.jpg"
 Member Type:
   Is Staff: true
 Job Title: HR Projects Specialist

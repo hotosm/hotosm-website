@@ -1,7 +1,7 @@
 ---
 title: Marina Aragão Santos
 date: 2022-04-28 23:56:00 Z
-Photo: "/uploads/marina%20chevening%20bio%20profile%20photo.jpeg"
+Photo: "https://cdn.hotosm.org/website/marina+chevening+bio+profile+photo.jpeg"
 Member Type:
   Is Staff: true
 Job Title: Project Manager

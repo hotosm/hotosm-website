@@ -4,7 +4,7 @@ date: 2022-03-21 23:59:00 Z
 Deadline Date: 2022-04-04 00:00:00 Z
 ---
 
-![Screen Shot 2022-04-04 at 8.25.24 PM.png](/uploads/Screen%20Shot%202022-04-04%20at%208.25.24%20PM.png)
+![Screen Shot 2022-04-04 at 8.25.24 PM.png](https://cdn.hotosm.org/website/Screen+Shot+2022-04-04+at+8.25.24+PM.png)
 
 ### **About the assignment:**
 

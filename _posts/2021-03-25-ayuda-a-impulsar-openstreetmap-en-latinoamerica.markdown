@@ -49,7 +49,7 @@ Queremos saber hasta qué punto las comunidades locales o los contribuidores apo
 
 Un hub es un concepto, no sólo un espacio físico de colaboración. El hub de América Latina y el Caribe apoyará los objetivos, proyectos y capacidades de la comunidad en los países de la región con el fin de aprovechar mejor los datos abiertos y la cartografía para el impacto social. Lo siguiente es un extracto de [una entrada del diario de OSM de la directora de transformación y comunidades de HOT sobre lo que serán los hubs](https://www.openstreetmap.org/user/RebeccaF/diary/396229):
 
-![hub concept ES.png](/uploads/hub%20concept%20ES.png)
+![hub concept ES.png](https://cdn.hotosm.org/website/hub+concept+ES.png)
 
 ## Retroalimentación
 

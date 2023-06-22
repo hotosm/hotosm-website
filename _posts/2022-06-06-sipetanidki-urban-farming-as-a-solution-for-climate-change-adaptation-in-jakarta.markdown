@@ -2,7 +2,7 @@
 title: 'SiPetaniDKI: Urban Farming as a solution for climate change adaptation in
   Jakarta.'
 date: 2022-06-06 06:45:00 Z
-Feature Image: "/uploads/7.png"
+Feature Image: "https://cdn.hotosm.org/website/7.png"
 Person:
 - Dhana Kencana
 - Adhitya Dido Widyanto
@@ -14,7 +14,7 @@ Originally published in [IDN Times](https://jateng.idntimes.com/news/indonesia/d
 Written by Dhana Kencana
 Translated by Adhitya Dido
 
-![1-c14c6b.png](/uploads/1-c14c6b.png)
+![1-c14c6b.png](https://cdn.hotosm.org/website/1-c14c6b.png)
 
 Overpopulation is a problem Jakarta faces as one of the biggest cities in Indonesia. People are increasingly attracted to the capital city of the nation because of its economic opportunities.
 
@@ -26,7 +26,7 @@ In addition, there is another problem: the quality of food (e.g. vegetables and 
 
 This condition is pushing citizens in big cities to do their own farming in order to produce: Urban Farming. 
 
-![2-988c53.png](/uploads/2-988c53.png)
+![2-988c53.png](https://cdn.hotosm.org/website/2-988c53.png)
 
 Suharini Eliawati, Head of Food Security, Maritime Affairs and Agriculture (DKPKP) in Jakarta has agreed that there is no longer room for open farmland in Jakarta. According to her, people can instead grow their own food through urban farming.
 
@@ -34,7 +34,7 @@ Jakarta sees a lot of land conversion. So we are shifting our method of planting
 
 Eli said urban farming gives households and communities access to a fresh, healthy, nutritious, and eco-friendly food supply. In addition, according to President Regulation No. 60 2020, urban farming can also preserve around 30% of open spaces, both for public use (20%) and for private use (10%).
 
-![3.png](/uploads/3.png)
+![3.png](https://cdn.hotosm.org/website/3.png)
 
 Take the example of Utari, a mother who lived in Pondok Labu, South Jakarta. She successfully used an empty yard measuring 1x6 meters to grow a variety of plants like ginger, galangal, chili, pandan, lime, soursop, starfruit, and more.
 
@@ -52,13 +52,13 @@ Urban farming also encourages people to reuse organic waste, which could assist 
 
 Due to Jakarta's high living costs, most people are hesitant about buying seeds for their own farming. Most of the citizens of Jakarta spend their money on living costs and food. There isn't much chance to set aside money for buying seeds. 
 
-![4.png](/uploads/4.png)
+![4.png](https://cdn.hotosm.org/website/4.png)
 
 "I don't have a specific expense related to seeds. Even if we could buy the seeds, we would have to think again before buying. At the end of the day, we can't afford them. Plants are becoming an expensive commodity in Jakarta,” Utari said. 
 
 The 30-year-old woman is very thankful for the existence of SiPetaniDKI, which allows people to retrieve free seeds for free, especially for people living in Jakarta. To get these free seeds, you need only a Citizen ID. 
 
-![unnamed-0932e9.png](/uploads/unnamed-0932e9.png)
+![unnamed-0932e9.png](https://cdn.hotosm.org/website/unnamed-0932e9.png)
 
 She learned about SiPetaniDKI from the Instagram account of DKPKP Jakarta (@p2bpt_dkpkp). It was written that there is a service where people could retrieve plant seeds for free. 
 
@@ -87,7 +87,7 @@ With the movement restrictions during the Covid-19 pandemic, DKPKP needed to cha
 
 POI is a local entity that was formerly the Indonesian office of the Humanitarian OpenStreetMap Team (HOT), a non-profit organization that focuses on humanitarian and capacity development through the use of the open mapping platform, OpenStreetMap. OpenStreetMap is a free and open-mapping platform that allows all users to map, edit, and get data for free. 
 
-![6.png](/uploads/6.png)
+![6.png](https://cdn.hotosm.org/website/6.png)
 
 POI has developed a free, open-source, and crowdsourced website using the platform Ushahidi. Their website has become a platform where people can share information about their urban farming activities in Jakarta. All of this data is based on location, so people can use it when they need to order seeds. 
 
@@ -103,7 +103,7 @@ One of the senior staff from DKPKP Jakarta, Teguh Kurniawan, said that what make
 
 “People who want to get the seeds can access it. If there is anyone who wants to know about their seeds and pest control, this also can be done using SiPetaniDKI, for free. We will deploy our pest controller staff so they can give advice and solutions for their problem,” Teguh said to IDN Times, on Friday 11 February 2022. 
 
-![7.png](/uploads/7.png)
+![7.png](https://cdn.hotosm.org/website/7.png)
 
 For Teguh himself, SiPetaniDKI is becoming a lifesaver for his staff to make a database of urban farming activities in Jakarta. This website is also becoming a bridge between DKPKP Jakarta and farmers and people of Jakarta for distributing and marketing the produce of their farms in their own areas. 
 

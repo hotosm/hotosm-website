@@ -22,7 +22,7 @@ The last [MapSwipe](https://mapswipe.org/en/index.html). project for the South S
 The AWG has been monitoring two cyclones that ultimately did not originate support needs and will be archived. Another cyclone —Koguma— impacted Southeast Asia and is being monitored in case gaps are found and we can help in the response there.
 <br><br>
 
-![](/uploads/nyiragongo_banner.png)
+![](https://cdn.hotosm.org/website/nyiragongo_banner.png)
 <br><br>
 
 ## Activations & responses:

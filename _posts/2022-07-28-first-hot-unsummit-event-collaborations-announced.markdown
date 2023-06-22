@@ -5,7 +5,7 @@ Summary Text: 'HOT teams up with event organizers across the world to bring huma
   open mapping to new people and places in 2022!
 
 '
-Feature Image: "/uploads/Collaborators%20logo%20image.JPG"
+Feature Image: "https://cdn.hotosm.org/website/Collaborators+logo+image.JPG"
 Working Group:
 - HOT Summit
 Project:
@@ -16,7 +16,7 @@ Since we announced [our HOT unSummit approach for 2022](https://www.hotosm.org/u
 
 Today, we are happy to announce our first confirmed unSummit programme collaborations, spanning twelve events across eleven countries!
 
-![unSummit_events6-1a51ba.png](/uploads/unSummit_events6-1a51ba.png)
+![unSummit_events6-1a51ba.png](https://cdn.hotosm.org/website/unSummit_events6-1a51ba.png)
 
 More info on the specifics of the collaboration and support between HOT and the various event organizing committees will be coming soon, but here is the initial schedule for the unSummit world tour!
 
@@ -46,7 +46,7 @@ More info on the specifics of the collaboration and support between HOT and the 
 
 We are also happy to announce support for the [Geochicas & Women\+ in Geospatial Take Firenze!](https://2022.foss4g.org/schedule_geowomen.php) networking event at FOSS4G in Florence, Italy on 23 August.
 
-![geochicas poster.png](/uploads/geochicas%20poster.png)
+![geochicas poster.png](https://cdn.hotosm.org/website/geochicas+poster.png)
 
 We fully expect more event collaborations to be added to this list in the weeks to come, so watch this space for more updates. And, a huge thanks to all of the events organizers and communities who have engaged with us throughout the last few months. Regardless of whether we were able to work together or not, it is humbling to see the passion that so many people in the open geo / humanitarian space bring to their work.
 

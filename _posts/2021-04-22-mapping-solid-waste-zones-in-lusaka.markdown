@@ -4,7 +4,7 @@ date: 2021-04-22 07:00:00 Z
 Summary Text: OSM Zambia has completed their Facebook Community Impact Microgrant
   in which they mapped waste collection zones in the rapidly growing city of Lusaka
   to support the waste collection and disposal.
-Feature Image: "/uploads/Lusaka.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Lusaka.jpg"
 Person: Chomba Chisala
 Country:
 - Zambia

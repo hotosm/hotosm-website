@@ -1,7 +1,7 @@
 ---
 title: Sanjana Binwal
 date: 2022-08-10 05:31:00 Z
-Photo: "/uploads/image%20(Sanjana).jpeg"
+Photo: "https://cdn.hotosm.org/website/image+(Sanjana).jpeg"
 Member Type:
   Is Staff: true
 Job Title: Partnerships Manager- Asia Pacific

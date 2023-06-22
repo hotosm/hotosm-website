@@ -10,7 +10,7 @@ Project Summary Text: 'For the first time in the region, data was collected in h
   lower stretch of São Francisco River basin to collect data.
 
 '
-Feature Image: "/uploads/52305985528_88f5b87b4b_o.jpg"
+Feature Image: "https://cdn.hotosm.org/website/52305985528_88f5b87b4b_o.jpg"
 Is image top aligned: false
 Is Community-Led: true
 Country:
@@ -25,11 +25,11 @@ Data:
 - title: "\n"
 ---
 
-![IMG_1654 (1).jpg](/uploads/IMG_1654%20(1).jpg)
+![IMG_1654 (1).jpg](https://cdn.hotosm.org/website/IMG_1654+(1).jpg)
 
 The Canoa de Tolda Project aimed to train local people from the lower stretch of the São Francisco River basin to collect data that will enable high-precision, collaborative digital terrain modeling for the first time in the region. The data will enable the mapping of populations in areas at risk of flooding.
 
-![52306050140_bc86e13af1_o (1).jpg](/uploads/52306050140_bc86e13af1_o%20(1).jpg)
+![52306050140_bc86e13af1_o (1).jpg](https://cdn.hotosm.org/website/52306050140_bc86e13af1_o+(1).jpg)
 
 The region has been suffering from the impacts of climate change, with drastic periods of drought and flooding. The increase in the frequency and intensity of droughts can cause perennial rivers to become intermittent. Intermittent rivers can disappear. Similarly, heavy rains and the lack of urban planning put communities that directly depend on the river for basic socio-economic activities at risk.
 

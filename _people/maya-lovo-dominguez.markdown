@@ -1,7 +1,7 @@
 ---
 title: Maya Lovo Dominguez
 date: 2022-09-02 11:03:00 Z
-Photo: "/uploads/Screenshot%202023-05-03%2010.55.04%20AM.png"
+Photo: "https://cdn.hotosm.org/website/Screenshot+2023-05-03+10.55.04+AM.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true

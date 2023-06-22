@@ -1,7 +1,7 @@
 ---
 title: Anna Azmitia
 date: 2022-09-01 06:37:00 Z
-Photo: "/uploads/AZMITIA.ANNA.PIC.jpg"
+Photo: "https://cdn.hotosm.org/website/AZMITIA.ANNA.PIC.jpg"
 Member Type:
   Is Staff: true
 Job Title: Global Human Resources Associate

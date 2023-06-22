@@ -4,7 +4,7 @@ date: 2023-06-01 16:32:00 Z
 Summary Text: Estoy encantada de compartir con todos ustedes la increíble noticia
   de que he sido nombrada nueva Directora Ejecutiva del Equipo Humanitario de OpenStreetMap
   (HOT) a partir de hoy.
-Feature Image: "/uploads/Audacious_Workshop_20190913_1RL0495.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Audacious_Workshop_20190913_1RL0495.jpg"
 Person: Rebecca Firth
 ---
 

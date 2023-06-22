@@ -1,7 +1,7 @@
 ---
 title: Kate Chapman
 date: 2010-05-24 15:42:00 Z
-Photo: "/uploads/Kate%20Chapman%20Headshot.jpg"
+Photo: "https://cdn.hotosm.org/website/Kate+Chapman+Headshot.jpg"
 Member Type:
   Is Voting Member: true
   Is Board Member: true

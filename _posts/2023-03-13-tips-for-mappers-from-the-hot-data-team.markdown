@@ -5,7 +5,7 @@ Summary Text: Whether you just started mapping to support the earthquake respons
   in Turkey and Syria or if you have been mapping for years, it is always helpful
   to read tips and watch tutorials to improve your skills and maintain best practices.
   Here are some top tips from members of the HOT Data Team.
-Feature Image: "/uploads/GAL%20Group%20for%20Mapping%20Tips%20Post.jpg"
+Feature Image: "https://cdn.hotosm.org/website/GAL+Group+for+Mapping+Tips+Post.jpg"
 Person:
 - Dinar Adiatma
 - Samson Ngumenawe
@@ -16,7 +16,7 @@ Person:
 * Use the imagery specified in the instructions. (Of course, use other imagery if the specified imagery is not clear in a given task or to check your edits.)
 * Focus on the priority area first, usually drawn in red polygon in each project. Here is the example from project #14234.
 
-![Mapping Tips 1.png](/uploads/Mapping%20Tips%201.png)
+![Mapping Tips 1.png](https://cdn.hotosm.org/website/Mapping+Tips+1.png)
 
 <figcaption align = "left"><h6>Fig 1. Priority areas in Tasking Manager</h6></figcaption>
 <br>
@@ -27,7 +27,7 @@ Data from OpenStreetMap is heavily used in routing applications. See the Wiki pa
 * **All highways and roads should connect to each other at least from the start** of the highway or road segment or from where the segment joins another highway or road. This can be achieved by snapping newly created segments to the existing highways and roads. The best practice is to start by snapping to an existing highway or road while tracing the new highway.
 
 
-![Mapping Tips 2.png](/uploads/Mapping%20Tips%202.png)
+![Mapping Tips 2.png](https://cdn.hotosm.org/website/Mapping+Tips+2.png)
 
 <figcaption align = "left"><h6>Fig 2. An unconnected highway should be linked to a nearby route.</h6></figcaption>
 <br>
@@ -35,14 +35,14 @@ Data from OpenStreetMap is heavily used in routing applications. See the Wiki pa
 Incorrect geometry can result in bad visualization, inaccurate routing, and potentially serious safety risks if the data is used for navigation. Inaccurate geometry can also impact the quality of data analysis and visualization, making it more difficult for data users to understand and use the data to make decisions. For example, suppose the geometry of a building or land-use region is incorrect. In that case, it might be difficult to perform spatial analysis, such as determining the distance between two locations or the size of a specific land use. Some tips to make your edits in OpenStreetMap useful to other people:
 * Square the buildings (by pressing Q in both JOSM and iD Editor). Unless satellite imagery clearly indicates something different, the majority of buildings can be assumed to be rectangular.
 
-![Mapping Tips 3.png](/uploads/Mapping%20Tips%203.png)
+![Mapping Tips 3.png](https://cdn.hotosm.org/website/Mapping+Tips+3.png)
 
 <figcaption align = "left"><h6>Fig 3. Unsquared building in iD Editor</h6></figcaption>
 <br>
 * Only map objects you are sure about and can clearly see.
 * Do not draw objects that are crossing each other. If the nodes/way need to be connected, do it by sharing nodes.
 
-![Connected Node not Overlap.png](/uploads/Connected%20Node%20not%20Overlap.png)
+![Connected Node not Overlap.png](https://cdn.hotosm.org/website/Connected+Node+not+Overlap.png)
 
 <figcaption align = "left"><h6>Fig 4. Unconnected paths vs. connected paths</h6></figcaption>
 

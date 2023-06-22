@@ -1,7 +1,7 @@
 ---
 title: Carla Habif
 date: 2022-03-23 08:54:00 Z
-Photo: "/uploads/photo-293218.JPG"
+Photo: "https://cdn.hotosm.org/website/photo-293218.JPG"
 Member Type:
   Is Staff: true
 Job Title: Community Services Associate

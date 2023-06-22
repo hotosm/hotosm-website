@@ -12,7 +12,7 @@ tags:
 Summary Text: La Gestión de riesgos en areas volcánicas en Ecuador es una actividad
   necesaria en la cual el mapeo abierto tiene un papel importante. Desde el Hub dimos
   un primer paso para lograr dicho objetivo.
-Feature Image: "/uploads/20220909_103057.jpg"
+Feature Image: "https://cdn.hotosm.org/website/20220909_103057.jpg"
 Person: Juan Arellano Valdivia
 Country:
 - Ecuador
@@ -22,11 +22,11 @@ Quito, la capital de Ecuador, es una ciudad en medio de volcanes. Los volcanes n
 
 Bajo ese contexto, cuando Mayah Cueva de [AEON Art Gallery](https://www.instagram.com/aeongallery/?hl=es) nos propuso -al Hub y al [Openlab Ecuador](https://openlab.ec/)- organizar alguna actividad de mapeo con este tema del riesgo volcánico, rápidamente aceptamos y elaboramos un plan de acción. Con bastantes coordinaciones de por medio, finalmente se realizaron varias actividades -ver todas en la [página del proyecto](https://stories.hotosm.org/mapeo-de-volcanes-en-ecuador/index.html)- de las cuales las principales fueron: el mapeo en la ciudad de Cayambe y la Mapatón en la Escuela Politécnica Nacional en Quito.
 
-![20220906_135517.jpg](/uploads/20220906_135517.jpg)
+![20220906_135517.jpg](https://cdn.hotosm.org/website/20220906_135517.jpg)
 
 **MAPEO CAYAMBE**
 
-![20220909_103057.jpg](/uploads/20220909_103057.jpg)
+![20220909_103057.jpg](https://cdn.hotosm.org/website/20220909_103057.jpg)
 
 La actividad programada para el día viernes 9 de setiembre contó con la participación de 20 personas y se realizó entre las 9am y las 6pm. Para poder llevarla a cabo tuvo que articularse los esfuerzos de diversas organizaciones e instituciones, tales como: HOT, OpenLabEc, Tierra Pura, Youthmappers/GeoMap Espe, Municipalidad de Cayambe – Oficinas de riesgo y turismo, Cruz Roja y el Instituto Geofísico Ecuador.
 
@@ -38,7 +38,7 @@ Testimonios de los participantes en la salida de mapeo pueden ser vistos en los 
 
 **MAPATÓN**
 
-![20220910_114148.jpg](/uploads/20220910_114148.jpg)
+![20220910_114148.jpg](https://cdn.hotosm.org/website/20220910_114148.jpg)
 
 La actividad –realizada el sábado 10 de setiembre en la Escuela Politécnica Nacional- contó con la participación de 11 personas de manera presencial y 3 personas de manera virtual. El equipo a cargo (OpenLabEc, HOT y Youthmappers/GeoMap Espe) realizó una introducción a OpenStreetMap, HOT y el trabajo de mapeo como tal, mediante el uso del Tasking Manager para las zonas Reventador 1 y Cayambe.
 
@@ -46,7 +46,7 @@ Las personas que participaron mostraron un buen grado de interés, aprendiendo l
 
 Testimonios de los participantes en la mapatón pueden ser vistos en los siguientes videos en Instagram: [David Molina](https://www.instagram.com/p/CivyWTLpGPT/), [Jessenia Vallejo](https://www.instagram.com/p/Cis81ySJ5JQ/), [Solange Yepez](https://www.instagram.com/p/CiyVGpfJSDn/).
 
-![20220910_124647.jpg](/uploads/20220910_124647.jpg)
+![20220910_124647.jpg](https://cdn.hotosm.org/website/20220910_124647.jpg)
 
 **EL FUTURO**
 

@@ -6,7 +6,7 @@ Summary Text: In the aftermath of the Syria-Turkey earthquake, OSM is allowing r
   efforts,  access and contextualize damage assessments, and plan relief and recovery
   efforts. Here are the data sets available for response organizations and examples
   of how they are being used.
-Feature Image: "/uploads/TSEQ_Data_Use_1.png"
+Feature Image: "https://cdn.hotosm.org/website/TSEQ_Data_Use_1.png"
 Is image top aligned: true
 Person:
 - Jessica Pechmann
@@ -35,7 +35,7 @@ Examples of this data in maps, analysis, and planning:
 * [General Logistics Planning Map](https://reliefweb.int/map/syrian-arab-republic/syrian-arab-republic-turkiye-general-logistics-planning-map-07-february-2023) (Logistics Cluster)
 * [Context Update Syria: Earthquake Edition](https://immap.org/wp-content/uploads/2016/12/iMMAP_February-Context-Update_Syria_Earthquake-Edition.pdf) (iMMAP & USAID)
 
-![TSEQ_Data_Use_2.png](/uploads/TSEQ_Data_Use_2.png)
+![TSEQ_Data_Use_2.png](https://cdn.hotosm.org/website/TSEQ_Data_Use_2.png)
 
 **Use OSM basemaps in [QGIS](https://plugins.qgis.org/plugins/quick_map_services/) or [ESRI](https://www.arcgis.com/home/item.html?id=fae788aa91e54244b161b59725dcbb2a) products).**
 
@@ -44,7 +44,7 @@ Examples of this data in maps, analysis, and planning:
 * [Activation Map](https://emergency.copernicus.eu/mapping/sites/default/files/thumbnails/EMSR648-AEM-1676306112-r10-v2.jpg) (Copernicus) 
 * [MSF reference maps](https://geo.msf.org/catalogue/01XYJBTB3AEA3VVAF5OZAIQ5UOMBKJXLNA)
 
-![TSEQ_Data_Use_3.png](/uploads/TSEQ_Data_Use_3.png)
+![TSEQ_Data_Use_3.png](https://cdn.hotosm.org/website/TSEQ_Data_Use_3.png)
 
 More related maps and IM products can be found on [ReliefWeb](https://reliefweb.int/updates?advanced-search=%28D51470%29_%28F12.F12570%29) or [iMMAP](https://immap.org/news/turkiye-syria-earthquake-flash-updates/)’s flash updates. 
 
@@ -52,7 +52,7 @@ OSM data can also be combined with other data sources, such as damage analyses, 
 
 **For more available data in OSM for Turkey and Syria, visit HOT’s [HDX Page](https://data.humdata.org/organization/hot?groups=tur&groups=syr&q=&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25).**
 
-![TSEQ_Data_Use_4.png](/uploads/TSEQ_Data_Use_4.png)
+![TSEQ_Data_Use_4.png](https://cdn.hotosm.org/website/TSEQ_Data_Use_4.png)
 
 The availability of detailed, up-to-date map data is an important resource in all stages of the disaster recovery process, and OSM data will also be used for **long-term recovery efforts**, such as rebuilding infrastructure and housing and improving disaster preparedness. OSM data can be added to or accessed by anyone, making it a strong platform to connect local communities to all levels of response. 
 
@@ -60,4 +60,4 @@ For information on OSM data use or possible data collection collaborations, cont
 
 It is important to remember that behind each data point, there is a tremendous human effort from volunteers and organizations. Every single addition of the 80,124 KM of road and 2,065,242 buildings mapped so far in this response has had human eyes creating, modifying, or validating it. For more information, visit [hotosm.org](http://hotosm.org) or [volunteer to map](https://tasks.hotosm.org/learn/map).
 
-![TSEQ_Data_Use_5.png](/uploads/TSEQ_Data_Use_5.png)
+![TSEQ_Data_Use_5.png](https://cdn.hotosm.org/website/TSEQ_Data_Use_5.png)

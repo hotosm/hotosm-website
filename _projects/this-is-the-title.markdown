@@ -28,4 +28,4 @@ I want to link to [HOTOSM](https://www.hotosm.org/).
 
 Let's insert a photo below.
 
-![WNA_ESA_SatelliteImageryforSocialGood_nigeria-map-2-faded-1920x1080-05aec0.png](/uploads/WNA_ESA_SatelliteImageryforSocialGood_nigeria-map-2-faded-1920x1080-05aec0.png)
+![WNA_ESA_SatelliteImageryforSocialGood_nigeria-map-2-faded-1920x1080-05aec0.png](https://cdn.hotosm.org/website/WNA_ESA_SatelliteImageryforSocialGood_nigeria-map-2-faded-1920x1080-05aec0.png)

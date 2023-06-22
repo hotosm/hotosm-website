@@ -4,7 +4,7 @@ date: 2021-07-14 11:52:00 Z
 Summary Text: Nama Raj Budhathoki, the Asia Pacific Regional Director, shares his
   thoughts on the naming of the Asia-Pacific Hub and the decision to make it a virtual
   hub.
-Feature Image: "/uploads/204178788_127900342786626_6132594422586385560_n.png"
+Feature Image: "https://cdn.hotosm.org/website/204178788_127900342786626_6132594422586385560_n.png"
 Person: Nama Raj Budhathoki
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Fabrizio Scrollini
 date: 2023-04-29 05:29:00 Z
-Photo: "/uploads/0083_ILDA_RETRATOS_20181001_retratos-42.jpg"
+Photo: "https://cdn.hotosm.org/website/0083_ILDA_RETRATOS_20181001_retratos-42.jpg"
 Member Type:
   Is Staff: true
 Job Title: Regional Director

@@ -9,7 +9,7 @@ tags:
 - open-ai
 Summary Text: 'Here is all you need to know about HOT’s open AI-assisted mapping service:
   fAIr.'
-Feature Image: "/uploads/fAIr.png"
+Feature Image: "https://cdn.hotosm.org/website/fAIr.png"
 Person: Omran Najjar
 ---
 
@@ -31,7 +31,7 @@ Back in 2020, [HOT and the Netherlands Red Cross](https://www.hotosm.org/project
 **AI models:** AI is wide term and it includes lots of approaches and techniques. In our (mapping) context, we refer to computer vision techniques to detect objects from satellite imagery. These objects can be buildings, roads, water ways, trees, and potentially other objects.
 fAIr intersects with Machine Learning, Deep Learning, Computer Vision as below:
 
-![Screenshot 2022-11-02 at 08.23.42.png](/uploads/Screenshot%202022-11-02%20at%2008.23.42.png)
+![Screenshot 2022-11-02 at 08.23.42.png](https://cdn.hotosm.org/website/Screenshot+2022-11-02+at+08.23.42.png)
 
 Source: Chandaliya, Rishabh (2020).
 
@@ -45,7 +45,7 @@ fAIr seek to solve three foreseen problems:
 
 * **2. Model bias:** Having model biases means predicting over satellite imagery would be biassed toward the training dataset used to teach the AI model and the nature and quality of imagery is very different across the globe. Here are three different images from Asia and Africa show totally different nature of imagery:
 
-![OAM pics.png](/uploads/OAM%20pics.png)
+![OAM pics.png](https://cdn.hotosm.org/website/OAM+pics.png)
 
 Source: [OpenAerialMap](https://openaerialmap.org/)
 
@@ -71,5 +71,5 @@ In March 2022, we participated in an AI for Social good seminar in Frankfurt, Ge
 
 Go to [this link](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the updated timeline with links:
 
-![Screenshot 2022-11-02 at 14.09.40.png](/uploads/Screenshot%202022-11-02%20at%2014.09.40.png)
-![Screenshot 2022-11-02 at 14.09.49-94d2eb.png](/uploads/Screenshot%202022-11-02%20at%2014.09.49-94d2eb.png)
+![Screenshot 2022-11-02 at 14.09.40.png](https://cdn.hotosm.org/website/Screenshot+2022-11-02+at+14.09.40.png)
+![Screenshot 2022-11-02 at 14.09.49-94d2eb.png](https://cdn.hotosm.org/website/Screenshot+2022-11-02+at+14.09.49-94d2eb.png)

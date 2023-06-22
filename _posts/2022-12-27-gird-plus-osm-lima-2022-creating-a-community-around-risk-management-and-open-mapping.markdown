@@ -16,7 +16,7 @@ tags:
 Summary Text: Last November, the Grassroots Management of Disaster Risks and OpenStreetMap
   LATAM 2022 event was held in Lima, Peru. Let's learn a little more about what happened
   these days in Lima around open and community mapping.
-Feature Image: "/uploads/poster-1-724x1024.jpg"
+Feature Image: "https://cdn.hotosm.org/website/poster-1-724x1024.jpg"
 Is image top aligned: true
 Person: Juan Arellano Valdivia
 Country:
@@ -33,7 +33,7 @@ It is not the first time that the OSM Peru community touches on this topic. Alre
 
 On this occasion, the organizing team had been preparing for a few months. In July 2022 it was carried out [a meeting](https://osmpe.org/2022/07/03/lanzamiento-equipo-organizador-grdosm-latam-summit-2022/) where, in addition to presenting the Tasking Manager platform for collaborative mapping at the local level and presenting the results of the mapping of Amazonian indigenous territories in the Urubamba river area, the organizing team for the GIRD\+OSM Latam unSummit event was launched.
 
-![dia 1.jpg](/uploads/dia%201.jpg)
+![dia 1.jpg](https://cdn.hotosm.org/website/dia+1.jpg)
 
 *Dialogue tables / Flying drones / Talking about open mapping*
 
@@ -49,7 +49,7 @@ Some of the highlights of the event included:
 
 In short, it was a very successful event that allowed the local OSM community to expand and grow not only in terms of number of members but also in a variety of projects and scope in the short and medium term. In addition, having a long-term impact on attendees, especially young people, is limitless in terms of the potential possibilities.
 
-![dia 3.jpg](/uploads/dia%203.jpg)
+![dia 3.jpg](https://cdn.hotosm.org/website/dia+3.jpg)
 
 *Lectures on various aspects of Risk Management and humanitarian mapping*
 
@@ -71,4 +71,4 @@ Finally [Celine Jacquin](https://www.hotosm.org/people/celine-jacquin/), geograp
 
 > My impression is also that something that the organizers were clear from the beginning -and it is reflected with the subsequent follow-up that is being given- was that **this conference was not going to be only to present papers and talk, but it had to lead to solutions, broaden reflections, create contacts and synergies** to help each other in a concrete way, motivate and remotivate. I feel that a good part of the attendees returned home with plans in their heads and having created a pleasant relationship with someone who can guide and support them. It is something that commonly occurs in community events, but I would say that the scale of this event and its focus on the same theme strengthened the ties even more.
 
-![Conf GIRD popular UNMSM_Peru_2022_UNMSM mesas1-3-4 53.JPG](/uploads/Conf%20GIRD%20popular%20UNMSM_Peru_2022_UNMSM%20mesas1-3-4%2053.JPG)
+![Conf GIRD popular UNMSM_Peru_2022_UNMSM mesas1-3-4 53.JPG](https://cdn.hotosm.org/website/Conf+GIRD+popular+UNMSM_Peru_2022_UNMSM+mesas1-3-4+53.JPG)

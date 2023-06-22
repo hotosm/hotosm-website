@@ -13,7 +13,7 @@ Summary Text: Tanto si recién empiezas a crear mapas para apoyar la respuesta a
   leer consejos y ver tutoriales para mejorar tus habilidades y mantener las mejores
   prácticas. Estos son algunos de los mejores consejos de los miembros del Equipo
   de Datos de HOT.
-Feature Image: "/uploads/GAL%20Group%20for%20Mapping%20Tips%20Post.jpg"
+Feature Image: "https://cdn.hotosm.org/website/GAL+Group+for+Mapping+Tips+Post.jpg"
 Person:
 - Dinar Adiatma
 - Samson Ngumenawe
@@ -27,7 +27,7 @@ Person:
 
 * Concéntrate primero en el área de prioridad, generalmente dibujada en un polígono rojo en cada proyecto. Aquí un ejemplo del proyecto #14234.
 
-![Mapping Tips 1.png](/uploads/Mapping%20Tips%201.png)
+![Mapping Tips 1.png](https://cdn.hotosm.org/website/Mapping+Tips+1.png)
 
 *Fig 1. Áreas prioritarias en el Tasking Manager*
 
@@ -39,7 +39,7 @@ Los datos de OpenStreetMap se utilizan mucho en las aplicaciones de enrutamiento
 
 * **Todas las autopistas y caminos deben conectarse entre sí al menos desde el inicio** del segmento de autopista o camino o desde donde el segmento se une a otra autopista o camino. Esto se puede lograr acercando y conectando los segmentos recién creados a las autopistas y caminos existentes. La mejor práctica es comenzar pegado a una autopista o camino existente mientras se traza el nuevo camino.
 
-![Mapping Tips 2.png](/uploads/Mapping%20Tips%202.png)
+![Mapping Tips 2.png](https://cdn.hotosm.org/website/Mapping+Tips+2.png)
 
 *Fig. 2. Una carretera no conectada debe vincularse a una ruta cercana.*
 
@@ -49,7 +49,7 @@ La geometría incorrecta puede dar como resultado una mala visualización, un en
 
 * Cuadra los edificios (pulsando Q tanto en JOSM como en iD Editor). A menos que las imágenes satelitales indiquen claramente algo diferente, se puede suponer que la mayoría de los edificios son rectangulares.
 
-![Mapping Tips 3.png](/uploads/Mapping%20Tips%203.png)
+![Mapping Tips 3.png](https://cdn.hotosm.org/website/Mapping+Tips+3.png)
 
 *Fig 3. Edificio sin cuadrar en iD Editor*
 
@@ -57,7 +57,7 @@ La geometría incorrecta puede dar como resultado una mala visualización, un en
 
 * No dibujes objetos que se crucen entre sí. Si es necesario conectar los nodos/vía, hazlo compartiendo nodos.
 
-![Connected Node not Overlap.png](/uploads/Connected%20Node%20not%20Overlap.png)
+![Connected Node not Overlap.png](https://cdn.hotosm.org/website/Connected+Node+not+Overlap.png)
 
 *Fig. 4. Rutas no conectadas vs. rutas conectadas*
 

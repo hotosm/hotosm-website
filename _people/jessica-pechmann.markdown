@@ -1,7 +1,7 @@
 ---
 title: Jessica Pechmann
 date: 2021-06-24 08:47:00 Z
-Photo: "/uploads/Backyard.jpeg"
+Photo: "https://cdn.hotosm.org/website/Backyard.jpeg"
 Member Type:
   Is Staff: true
 Job Title: Global GIS Manager

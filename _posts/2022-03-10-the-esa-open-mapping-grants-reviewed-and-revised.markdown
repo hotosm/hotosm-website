@@ -1,7 +1,7 @@
 ---
 title: 'The ESA Open Mapping Grants: Reviewed and Revised'
 date: 2022-03-10 15:30:00 Z
-Feature Image: "/uploads/Grants%20blog%20photo%20opt%201-88a810.png"
+Feature Image: "https://cdn.hotosm.org/website/Grants+blog+photo+opt+1-88a810.png"
 Person: Sophie Mower
 Project:
 - 'Community development: Microgrants and Device Grants'

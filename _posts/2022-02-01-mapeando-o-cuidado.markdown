@@ -5,7 +5,7 @@ Summary Text: A URBELatam, uma parceria de três universidades, está trabalhand
   o Banco Preventório para mapear a comunidade do Morro do Preventório próximo ao
   Rio de Janeiro. O mapa permitirá que o banco amplie seus serviços à comunidade e
   sirva de modelo e inspiração para outras favelas.
-Feature Image: "/uploads/Favela%20Mapping%201.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Favela+Mapping+1.jpg"
 Person:
 - Alessandra Figueiredo
 - Elena Veríssimo
@@ -30,7 +30,7 @@ Vimos isso acontecer em 2013, antes da Copa do Mundo de 2014 no Brasil e dos Jog
 
 Paulinho Otaviano, morador e guia local em Santa Marta, [disse](https://rioonwatch.org.br/?p=23070): “Para mim, o fato de não estar no mapa, cria uma sensação de exclusão, que não fazemos parte da cidade, que não fazemos parte do roteiro tradicional. ”, em entrevista ao [Todo Mapa Tem Um Discurso](https://todomapatemumdiscurso.wordpress.com/).
 
-![Favela Mapping 4.jpg](/uploads/Favela%20Mapping%204.jpg)
+![Favela Mapping 4.jpg](https://cdn.hotosm.org/website/Favela+Mapping+4.jpg)
 *Uma das autoras, Alessandra Figueiredo (acima à direita), com uma colega de equipe (acima à esquerda) e uma moradora da comunidade (ao meio)*
 
 ## O Impacto do Mapeamento
@@ -57,7 +57,7 @@ Outra plataforma muito importante para o nosso trabalho foi o KOBO Collect, uma 
 
 Nesta jornada encontramos vários desafios, incluindo a identificação de áreas de lazer. Essas áreas geralmente são reconhecidas por seus papéis claros e definidos. No entanto, em zonas mais periféricas, é normal a utilização de espaços públicos sem uma finalidade definida: por exemplo, um terreno baldio pode ser utilizado para diversos fins recreativos, como local de convívio para as crianças brincarem, zona de prática desportiva, recinto de para festas da comunidade, etc.
 
-![Favela Mapping 3.jpg](/uploads/Favela%20Mapping%203.jpg)
+![Favela Mapping 3.jpg](https://cdn.hotosm.org/website/Favela+Mapping+3.jpg)
 
 ## Compartilhamento de Conhecimento
 
@@ -74,4 +74,4 @@ A partir daí, o desafio passou a ser traduzir o que estávamos fazendo de forma
 Lá, compartilhamos nossos conhecimentos e nossas motivações e, em meio a essa troca, acabamos descobrindo novas motivações e novos objetivos. Isso gerou o desejo de que a semente que plantamos em outros agentes comunitários crescesse e florescesse, fazendo com que cada favela do Rio de Janeiro ganhasse vida por meio de mapas feitos por seus próprios moradores.
 
 ***As autoras da esquerda para a direita: Alessandra Figueiredo, Elena Veríssimo e Samara Franco***
-![Favela Mapping 5.png](/uploads/Favela%20Mapping%205.png)
+![Favela Mapping 5.png](https://cdn.hotosm.org/website/Favela+Mapping+5.png)

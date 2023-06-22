@@ -1,7 +1,7 @@
 ---
 title: Chibuzor Mgbeokwere
 date: 2023-01-03 07:45:00 Z
-Photo: "/uploads/Chibuzor.jpg"
+Photo: "https://cdn.hotosm.org/website/Chibuzor.jpg"
 Member Type:
   Is Staff: true
 Job Title: Senior Associate, MERL- West and Northern Africa

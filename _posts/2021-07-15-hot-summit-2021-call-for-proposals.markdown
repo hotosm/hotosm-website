@@ -6,7 +6,7 @@ Summary Text: "The 2021 HOT Summit Call for Proposals is now open! Submit your i
   para la Cumbre HOT 2021 está abierta! Envía tus ideas para paneles y charlas hoy
   mismo. La fecha límite es el 31 de agosto. \nAppel à propositions pour le Sommet
   HOT 2021 "
-Feature Image: "/uploads/Copy%20of%20Compressed%20Summit%202021_Banner.png"
+Feature Image: "https://cdn.hotosm.org/website/Copy+of+Compressed+Summit+2021_Banner.png"
 Working Group:
 - HOT Summit
 ---

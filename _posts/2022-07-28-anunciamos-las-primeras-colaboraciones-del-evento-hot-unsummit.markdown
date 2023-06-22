@@ -3,7 +3,7 @@ title: Anunciamos las primeras colaboraciones del evento HOT unSummit
 date: 2022-07-28 05:11:00 Z
 Summary Text: "¡HOT y organizadores de eventos en todo el mundo se asocian para llevar
   el mapeo abierto humanitario a nuevas personas y lugares el 2022!"
-Feature Image: "/uploads/Collaborators%20logo%20image.JPG"
+Feature Image: "https://cdn.hotosm.org/website/Collaborators+logo+image.JPG"
 Working Group:
 - HOT Summit
 Project:
@@ -14,7 +14,7 @@ Desde que anunciamos [nuestro enfoque HOT unSummit para este 2022](https://www.h
 
 ¡Hoy, nos complace anunciar nuestras primeras colaboraciones confirmadas del programa unSummit, que abarcan doce eventos en once países!
 
-![unSummit_events6-1a51ba.png](/uploads/unSummit_events6-1a51ba.png)
+![unSummit_events6-1a51ba.png](https://cdn.hotosm.org/website/unSummit_events6-1a51ba.png)
 
 Próximamente habrá más información sobre los detalles de la colaboración y el apoyo entre HOT y los diversos comités organizadores de los eventos, ¡pero aquí está el cronograma inicial de la gira mundial unSummit!
 
@@ -44,7 +44,7 @@ Próximamente habrá más información sobre los detalles de la colaboración y 
 
 También nos complace anunciar el apoyo al evento de networking [Geochicas & Women\+ en Geospatial Take Firenze!](https://2022.foss4g.org/schedule_geowomen.php) en el FOSS4G en Florencia, Italia, el 23 de agosto.
 
-![geochicas poster.png](/uploads/geochicas%20poster.png)
+![geochicas poster.png](https://cdn.hotosm.org/website/geochicas+poster.png)
 
 Esperamos que se agreguen más colaboraciones de eventos a esta lista en las próximas semanas, así que estate atento a este espacio para obtener más actualizaciones. Y muchas gracias a todos los organizadores de eventos y comunidades que se han comprometido con nosotros durante los últimos meses. Independientemente de si pudimos trabajar juntos o no, es una lección de humildad ver la pasión que tantas personas en el espacio geo/humanitario abierto aportan a su trabajo.
 

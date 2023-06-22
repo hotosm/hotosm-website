@@ -1,7 +1,7 @@
 ---
 title: Sarah Wise
 date: 2019-06-04 13:49:00 Z
-Photo: "/uploads/SaraWise.jpg"
+Photo: "https://cdn.hotosm.org/website/SaraWise.jpg"
 Member Type:
   Is Voting Member: true
 Working Group:

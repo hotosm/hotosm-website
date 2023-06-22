@@ -7,7 +7,7 @@ tags:
 Summary Text: We are excited to share with you an update on how at HOT we plan to
   increase our support to Open Mapping on the LATAM region to find ways to connect
   geospatial data and community effort towards collective well-being!
-Feature Image: "/uploads/HOT_OMH_LATAM_English_Logo_REV_COLOUR%20wide.png"
+Feature Image: "https://cdn.hotosm.org/website/HOT_OMH_LATAM_English_Logo_REV_COLOUR+wide.png"
 Person: Rubén Martín
 ---
 
@@ -35,7 +35,7 @@ We are calling this the "Hub Alpha" phase and the goal is to have enough experie
 
 ### How?  
 
-![path7-ec21df.png](/uploads/path7-ec21df.png) 
+![path7-ec21df.png](https://cdn.hotosm.org/website/path7-ec21df.png) 
 
 During the next months we plan to pilot support and engagement with local communities and open mapping actors in the region at three different levels:  
 

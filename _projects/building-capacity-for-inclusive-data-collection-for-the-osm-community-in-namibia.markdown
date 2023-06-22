@@ -9,7 +9,7 @@ tags:
 Project Summary Text: In Namibia, informal settlements are not prioritized in the
   digitization and collection of land information resulting in a lack of visibility
   and affecting the speed of planning in upgrading projects. 
-Feature Image: "/uploads/Screenshot%202023-05-16%20at%201.01.46%20PM.png"
+Feature Image: "https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+1.01.46+PM.png"
 Country:
 - Namibia
 Impact Area:

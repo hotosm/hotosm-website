@@ -4,7 +4,7 @@ title: |-
   USING OSM TOOLS IN WESTERN UGANDA
 date: 2023-05-16 20:50:00 Z
 published: false
-Feature Image: "/uploads/Screenshot%202023-05-16%20at%201.49.42%20PM.png"
+Feature Image: "https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+1.49.42+PM.png"
 Country:
 - Uganda
 Impact Area:

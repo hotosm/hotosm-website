@@ -4,7 +4,7 @@ date: 2021-06-22 10:58:00 Z
 Summary Text: HOT and HeiGIT are collaborating to enhance HOT’s monitoring, evaluation,
   reporting, and learning systems to track progress and accelerate growth towards
   the goal of mapping an area home to one billion people.
-Feature Image: "/uploads/GAL%20Women%20Connect%20Laptop.jpg"
+Feature Image: "https://cdn.hotosm.org/website/GAL+Women+Connect+Laptop.jpg"
 Person: Benjamin Herfort
 ---
 

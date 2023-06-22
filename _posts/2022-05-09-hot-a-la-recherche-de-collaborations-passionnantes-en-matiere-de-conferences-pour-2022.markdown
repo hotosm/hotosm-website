@@ -8,7 +8,7 @@ Summary Text: 'HOT cherche activement à collaborer et à soutenir des conféren
   et se connecter. Pouvez-vous nous aider ?
 
 '
-Feature Image: "/uploads/37292578056_09b8490222_o-d357ef.jpg"
+Feature Image: "https://cdn.hotosm.org/website/37292578056_09b8490222_o-d357ef.jpg"
 Working Group:
 - HOT Summit
 ---

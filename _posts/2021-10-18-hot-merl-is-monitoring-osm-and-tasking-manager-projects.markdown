@@ -5,7 +5,7 @@ date: 2021-10-18 08:57:00 Z
 Summary Text: HeiGIT and HOT have partnered to extend the Humanitarian OSM Stats website
   to help relay mapping statistics to the public. It includes data, not only from
   HOT Tasking Manager projects, but also from all the other OSM contributors.
-Feature Image: "/uploads/Screenshot%202021-10-18%20123351.png"
+Feature Image: "https://cdn.hotosm.org/website/Screenshot+2021-10-18+123351.png"
 Person: Benjamin Herfort
 ---
 
@@ -23,7 +23,7 @@ Population mapped describes the number of people living in an area where buildin
 
 Obtaining knowledge about how populated an area is can be essential for humanitarian organizations to determine what kind of help and how much help is needed in case of a humanitarian disaster. For example, more densely populated areas might require different tools and experts than rural areas.
 
-![HEIGIT 3.png](/uploads/HEIGIT%203.png)
+![HEIGIT 3.png](https://cdn.hotosm.org/website/HEIGIT+3.png)
 
 The graph above shows the population numbers living in the area mapped in all regions, currently closing in on 350 million people. This number is continuously growing as more and more contributions help to increase the population numbers living in the area mapped.
 
@@ -32,14 +32,14 @@ Mappers, on the other hand, display the number of people who have made an edit t
 
 For example, there is a tendency that shows the mapping activity is decreasing at the beginning of each year since 2015, in comparison to the end of the year before. This trend increases from 2019 onwards. There also seem to be “summer-lows” in mapping activity, as visible from 2017 onwards.
 
-![HEIGIT 2.png](/uploads/HEIGIT%202.png)
+![HEIGIT 2.png](https://cdn.hotosm.org/website/HEIGIT+2.png)
 
 ## Local Knowledge
 Finally, Local Knowledge, in this case, includes the number of villages, cities, and neighborhood names added within a given country or region, as well as the number of facilities added to that area, aggregated by the specific facility.
 
 This can be used to form a basic understanding of the access the given area has to healthcare and other important amenities and how many and what kinds of places, e.g. cities or settlements, are there.
 
-![HEIGIT 1.png](/uploads/HEIGIT%201.png)
+![HEIGIT 1.png](https://cdn.hotosm.org/website/HEIGIT+1.png)
 
 In the case of Peru, one can observe stable growth in the number of major roads mapped and rapid growth in the number of buildings mapped from the end of 2015 until today. Interestingly, there are growth spurts at different times for each related tag. This indicates that the mapping activity for Peru is context-specific and the increase of mapped objects may differ from the overall mapping activities.
 

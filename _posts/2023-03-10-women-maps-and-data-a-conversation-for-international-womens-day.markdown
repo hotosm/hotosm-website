@@ -14,7 +14,7 @@ tags:
 Summary Text: A group of brilliant Latin American women expose us to various projects
   and tell us about various experiences in the use of maps and data, and also about
   their absence.
-Feature Image: "/uploads/openlabmujdat2.jpg"
+Feature Image: "https://cdn.hotosm.org/website/openlabmujdat2.jpg"
 Person: Juan Arellano Valdivia
 Project:
 - latam

@@ -7,7 +7,7 @@ Project Summary Text: 'HOTOSM provided technical in-country support to facilitat
   the successful completion of the National Disaster Preparedness Baseline Assessment
   (NDPBA) and its associated GIS data collection, processing, and technical support
   tasks. '
-Feature Image: "/uploads/Screenshot%202022-07-01%206.24.12%20PM.png"
+Feature Image: "https://cdn.hotosm.org/website/Screenshot+2022-07-01+6.24.12+PM.png"
 Country:
 - Indonesia
 Impact Area:
