@@ -5,7 +5,7 @@ Glide: FF-2022-000008-HOT
 Event Name: AHA-FL-2022-001138-IDN
 Country:
 - Indonesia
-Event type: Fl Flood
+Event type: FL Flood
 Summary Text: This is in activation by Asia Pacific Open Mapping Hub at the request
   of the Bali Disaster Management Agency to support a flash flood in Denpasar Bali,
   Indonesia.
