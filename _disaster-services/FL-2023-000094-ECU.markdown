@@ -1,0 +1,36 @@
+---
+title: Flooding in Esmeraldas, Ecuador, June 2023
+date: 2023-06-12 18:32:00 Z
+Glide:
+- FL-2023-000094-ECU
+Event Name: Flooding in Esmeraldas, Ecuador
+Country: Ecuador
+Event type: FL Flood
+Feature Image: Fl Flood
+Post-type: timeline
+Campaign: 'ECUADOR: FLOODS - JUNE 2023'
+Tracking: "#EcuadorFloodsJune2023"
+Report: available
+HDX: <a href="https://data.humdata.org/organization/hot?q=ecuador">Ecuador</a>
+Resources: N/A
+---
+
+Context: On June 3, heavy rains were recorded in the provinces of Esmeraldas, resulting in the overflow of seven rivers in five local districts. The most affected areas include the districts of Atacames, Esmeraldas, Musine, Quinindé, and Rioverde. <a href="https://reliefweb.int/node/3969995">(OCHA, 9 June 2023)</a>
+
+<h1>June 7th</h1> 
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong>Ecuador: Floods - June 2023<br>
+<strong>GDACS Alert Lvl:</strong>NA<br>
+<strong>Location:</strong>Esmeraldas<br>
+<strong>Geographic Scope:</strong> Region<br>
+<strong>Estimated Humanitarian Impact:</strong> 11000 people affected<br>
+<strong>Estimated Duration:</strong> weeks<br>
+<strong>Event Scope:</strong> Minor<br>
+<strong>Local Contacts:</strong> Ecuador Disaster Management Agency<br>
+<strong>Anticipated Needs:</strong> Basemap Improvement to Rivers, roads and buidlings<br>
+<strong>Request(s):</strong> LAC hub is coordinating with Ecuador's disaster agency to create a base map that allows more accurate assessments of risk and expousure<br>
+<strong>Need for Activation:</strong> Likely<br>
+<strong>Active Orgs:</strong> Ecuador Disaster Management Agency<br>
+<strong>Lead Orgs:</strong> Open Mapping Hub LAC
