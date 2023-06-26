@@ -2,7 +2,7 @@
 title: Canoa de Tolda
 date: 2023-05-16 20:16:00 Z
 published: false
-Feature Image: "https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+1.16.47+PM.png"
+Feature Image: https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+1.16.47+PM.png
 Country:
 - Brazil
 Impact Area:

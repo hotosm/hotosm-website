@@ -5,7 +5,7 @@ Summary Text: 'It is with great excitement and pleasure that I have the opportun
   to officially announce the first member of this tech_collective: Kathmandu Living
   Labs, who will be taking on the maintenance of the HOT tasking manager for the next
   6 months (and possibly beyond). '
-Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2022-02-08+at+4.39.26+pm.png"
+Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2022-02-08+at+4.39.26+pm.png
 Person: Bo Percival
 ---
 

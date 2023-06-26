@@ -9,7 +9,7 @@ tags:
 Summary Text: The LATAM open mapping hub has been busy with various projects, if you
   want to find out what they are, here we share an overview of what is being done
   in the region.
-Feature Image: "https://cdn.hotosm.org/website/CT-BSF-2001-0011.jpg"
+Feature Image: https://cdn.hotosm.org/website/CT-BSF-2001-0011.jpg
 Person: LATAM hub's Alpha team
 ---
 

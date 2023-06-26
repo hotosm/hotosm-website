@@ -1,7 +1,7 @@
 ---
 title: Johanna Belanger
 date: 2019-06-04 13:43:00 Z
-Photo: "https://cdn.hotosm.org/website/Johannabelanger.JPG"
+Photo: https://cdn.hotosm.org/website/Johannabelanger.JPG
 Member Type:
   Is Voting Member: true
 Project:

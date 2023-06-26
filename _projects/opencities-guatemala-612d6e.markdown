@@ -2,7 +2,7 @@
 title: Open Cities Guatemala
 date: 2023-05-16 22:16:00 Z
 published: false
-Feature Image: "https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+3.11.18+PM.png"
+Feature Image: https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+3.11.18+PM.png
 Is image top aligned: true
 Country:
 - Guatemala

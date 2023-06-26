@@ -3,7 +3,7 @@ title: 'Senegal Emergency Health Data Campaign: Enabling in-country analysis of 
   facilities'
 date: 2020-11-10 16:04:00 Z
 position: 32
-Feature Image: "https://cdn.hotosm.org/website/HS3-08b100.png"
+Feature Image: https://cdn.hotosm.org/website/HS3-08b100.png
 Is Community-Led: true
 Country:
 - Senegal

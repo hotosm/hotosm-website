@@ -1,7 +1,7 @@
 ---
 title: Omowonuola Akintola
 date: 2023-01-03 08:00:00 Z
-Photo: "https://cdn.hotosm.org/website/Omowonuola_Akintola+(1).jpg"
+Photo: https://cdn.hotosm.org/website/Omowonuola_Akintola+(1).jpg
 Member Type:
   Is Staff: true
 Job Title: Senior Associate, Data Quality- West and Northern Africa

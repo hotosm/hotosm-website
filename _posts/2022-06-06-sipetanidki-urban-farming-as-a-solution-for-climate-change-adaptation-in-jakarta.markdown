@@ -2,7 +2,7 @@
 title: 'SiPetaniDKI: Urban Farming as a solution for climate change adaptation in
   Jakarta.'
 date: 2022-06-06 06:45:00 Z
-Feature Image: "https://cdn.hotosm.org/website/7.png"
+Feature Image: https://cdn.hotosm.org/website/7.png
 Person:
 - Dhana Kencana
 - Adhitya Dido Widyanto

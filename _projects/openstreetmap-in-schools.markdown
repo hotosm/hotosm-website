@@ -8,7 +8,7 @@ Project Summary Text: The Ugandan government has demonstrated a strong commitmen
   to promoting information and communication technology (ICT) education in schools.
   This effort has led to an increase in computer labs and learning opportunities for
   students to acquire computer skills alongside other subjects.
-Feature Image: "https://cdn.hotosm.org/website/ESA_OSMinSchools1.jpeg"
+Feature Image: https://cdn.hotosm.org/website/ESA_OSMinSchools1.jpeg
 Country:
 - Uganda
 Impact Area:

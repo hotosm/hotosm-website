@@ -10,7 +10,7 @@ tags:
 - OpenStreetMap
 Summary Text: La colaboración de experimentados activistas de la cultura libre con
   nuevos mapeadores esta renovando el panorama de la cartografía colaborativa en Ecuador.
-Feature Image: "https://cdn.hotosm.org/website/lloa7.webp"
+Feature Image: https://cdn.hotosm.org/website/lloa7.webp
 Person: Juan Arellano Valdivia
 ---
 

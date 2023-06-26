@@ -16,7 +16,7 @@ tags:
 Summary Text: Last November, the Grassroots Management of Disaster Risks and OpenStreetMap
   LATAM 2022 event was held in Lima, Peru. Let's learn a little more about what happened
   these days in Lima around open and community mapping.
-Feature Image: "https://cdn.hotosm.org/website/poster-1-724x1024.jpg"
+Feature Image: https://cdn.hotosm.org/website/poster-1-724x1024.jpg
 Is image top aligned: true
 Person: Juan Arellano Valdivia
 Country:

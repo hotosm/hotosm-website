@@ -1,7 +1,7 @@
 ---
 title: Colonialism in Open Data and Mapping
 date: 2021-06-15 13:31:00 Z
-Feature Image: "https://cdn.hotosm.org/website/1.png"
+Feature Image: https://cdn.hotosm.org/website/1.png
 Is image top aligned: true
 Person:
 - Awantika Pal

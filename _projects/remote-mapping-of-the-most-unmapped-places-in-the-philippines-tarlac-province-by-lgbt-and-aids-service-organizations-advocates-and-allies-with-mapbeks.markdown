@@ -3,7 +3,7 @@ title: 'MapBeks: Remote mapping of the most unmapped places in the Philippines (
   Province) by LGBT and AIDS Service organizations, advocates and allies'
 date: 2021-07-08 10:22:00 Z
 position: 7
-Feature Image: "https://cdn.hotosm.org/website/Mines+and+Geoscience+Bureau+Philippines-87953b.png"
+Feature Image: https://cdn.hotosm.org/website/Mines+and+Geoscience+Bureau+Philippines-87953b.png
 Is Community-Led: true
 Country:
 - Philippines

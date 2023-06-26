@@ -1,7 +1,7 @@
 ---
 title: Kennedy Jomokela
 date: 2021-05-20 19:40:00 Z
-Photo: "https://cdn.hotosm.org/website/DSC_0102.jpg"
+Photo: https://cdn.hotosm.org/website/DSC_0102.jpg
 Member Type:
   Is Staff: true
 Job Title: Senior Mapping Supervisor

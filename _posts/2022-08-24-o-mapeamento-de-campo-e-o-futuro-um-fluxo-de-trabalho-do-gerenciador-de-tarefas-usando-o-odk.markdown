@@ -2,7 +2,7 @@
 title: 'O mapeamento de campo é o futuro: um fluxo de trabalho do gerenciador de tarefas
   usando o ODK'
 date: 2022-08-24 16:01:00 Z
-Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+5.33.21+PM.png"
+Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+5.33.21+PM.png
 Is image top aligned: true
 ---
 

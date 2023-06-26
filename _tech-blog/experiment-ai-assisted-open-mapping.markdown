@@ -6,7 +6,7 @@ tags:
 - ai-assisted
 - hot_tech
 - tech
-Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2021-12-16+at+12.26.52+pm-de2129.png"
+Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2021-12-16+at+12.26.52+pm-de2129.png
 Tool:
 - RapiD
 ---

@@ -6,7 +6,7 @@ date: 2021-06-21 13:06:00 Z
 Summary Text: HOT, en colaboración con el Fondo Mundial para la Reducción y Recuperación
   de Desastres (Global Fund for Disaster Reduction and Recovery) y la Fundación SwissRE,
   se enorgullece de anunciar el proyecto Ciudades Abiertas América Latina y el Caribe.
-Feature Image: "https://cdn.hotosm.org/website/IMG_20181005_072113.jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG_20181005_072113.jpg
 Person: Céline Jacquin
 Country:
 - Mexico

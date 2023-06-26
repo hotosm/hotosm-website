@@ -4,7 +4,7 @@ date: 2022-05-03 12:20:00 Z
 Summary Text: Lorsqu'il est devenu évident que le projet de collaboration entre HOT
   et l'organisation communautaire COSMHANNE en Haïti nécessitait un volet de formation
   technique OSM en français, la communauté OSM RDC est intervenue.
-Feature Image: "https://cdn.hotosm.org/website/IMG_2130.JPG"
+Feature Image: https://cdn.hotosm.org/website/IMG_2130.JPG
 Person:
 - Muluba Bienvenu
 - Wendy Delva

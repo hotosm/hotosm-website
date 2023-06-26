@@ -4,7 +4,7 @@ date: 2022-04-13 11:02:00 Z
 Summary Text: 'We want to improve how we bring communities, partners, and supporters
   together around open mapping, OpenStreetMap, and humanitarian response / social
   impact through the HOT Summit. '
-Feature Image: "https://cdn.hotosm.org/website/51490564400_99fd58725d_k.jpg"
+Feature Image: https://cdn.hotosm.org/website/51490564400_99fd58725d_k.jpg
 Person: The HOT Summit Working Group
 Working Group:
 - HOT Summit

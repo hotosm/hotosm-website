@@ -15,7 +15,7 @@ tags:
 Summary Text: Conozca los primeros resultados de la alianza de HOT con Canoa de Tolda
   para visibilizar la dinámica social del Río São Francisco mediante el mapeo abierto
   y el uso de drones y otras tecnologías.
-Feature Image: "https://cdn.hotosm.org/website/52305985528_88f5b87b4b_o.jpg"
+Feature Image: https://cdn.hotosm.org/website/52305985528_88f5b87b4b_o.jpg
 Person: Juan Arellano Valdivia
 Country:
 - Brazil

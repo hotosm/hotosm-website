@@ -2,7 +2,7 @@
 title: Jorge Aguirre
 date: 2022-04-28 10:32:00 Z
 published: false
-Photo: "https://cdn.hotosm.org/website/IMG_2431.jpg"
+Photo: https://cdn.hotosm.org/website/IMG_2431.jpg
 Member Type:
   Is Staff: false
 Job Title: Field Mapping projects Coordinator

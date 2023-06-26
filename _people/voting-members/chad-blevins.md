@@ -1,7 +1,7 @@
 ---
 title: Chad Blevins
 date: 2017-02-28 14:26:00 Z
-Photo: "https://cdn.hotosm.org/website/PXL_20220819_171107601+-+Chad+Blevins.jpg"
+Photo: https://cdn.hotosm.org/website/PXL_20220819_171107601+-+Chad+Blevins.jpg
 Member Type:
   Is Voting Member: true
 Job Title: Voting Membership Chairperson

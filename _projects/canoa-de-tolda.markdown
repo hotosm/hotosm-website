@@ -10,7 +10,7 @@ Project Summary Text: 'For the first time in the region, data was collected in h
   lower stretch of São Francisco River basin to collect data.
 
 '
-Feature Image: "https://cdn.hotosm.org/website/52305985528_88f5b87b4b_o.jpg"
+Feature Image: https://cdn.hotosm.org/website/52305985528_88f5b87b4b_o.jpg
 Is image top aligned: false
 Is Community-Led: true
 Country:

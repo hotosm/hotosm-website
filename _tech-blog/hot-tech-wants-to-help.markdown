@@ -8,7 +8,7 @@ tags:
 - tech
 - help
 - support
-Feature Image: "https://cdn.hotosm.org/website/7ABBD86C-94E1-44F2-9B82-D85C600F6FBF.jpeg"
+Feature Image: https://cdn.hotosm.org/website/7ABBD86C-94E1-44F2-9B82-D85C600F6FBF.jpeg
 ---
 
 So, over at HOT_tech we’ve we’ve been working hard, so you can work easy. Our number one priority is hearing from you, so we’ve made some changes to make it easy for you to connect with us to notify us of bugs, issues and support requests.

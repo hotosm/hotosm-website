@@ -3,7 +3,7 @@ title: 'Shack Dwellers Federation Namibia: Guardians of the Map: Growing a commu
   of OSM Mappers'
 date: 2021-07-08 12:24:00 Z
 position: 16
-Feature Image: "https://cdn.hotosm.org/website/Shack+Dwellers+Federation+Namibia.png"
+Feature Image: https://cdn.hotosm.org/website/Shack+Dwellers+Federation+Namibia.png
 Is Community-Led: true
 Country:
 - Namibia

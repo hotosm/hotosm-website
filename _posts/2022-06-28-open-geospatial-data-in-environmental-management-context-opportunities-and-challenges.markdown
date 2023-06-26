@@ -2,7 +2,7 @@
 title: 'Open Geospatial Data in Environmental Management: Context, Opportunities and
   Challenges'
 date: 2022-06-28 12:26:00 Z
-Feature Image: "https://cdn.hotosm.org/website/unnamed-07e3bf-7a24a2.png"
+Feature Image: https://cdn.hotosm.org/website/unnamed-07e3bf-7a24a2.png
 Person: Nikoyo Emougou Yves Emmanuel
 Working Group:
 - Community

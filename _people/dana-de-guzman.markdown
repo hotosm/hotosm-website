@@ -1,7 +1,7 @@
 ---
 title: Dana De Guzman
 date: 2021-04-08 05:22:00 Z
-Photo: "https://cdn.hotosm.org/website/Screenshot+2021-04-08+at+07.28.40.png"
+Photo: https://cdn.hotosm.org/website/Screenshot+2021-04-08+at+07.28.40.png
 Member Type:
   Is Staff: true
 Job Title: Monitoring, Evaluation, Research & Learning  Associate - Asia Pacific

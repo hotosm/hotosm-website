@@ -13,7 +13,7 @@ tags:
 - mobility
 Project Summary Text: This project seeks to digitize the routes of public transport
   routes in Zitácuaro, to later publish them as open data on various platforms.
-Feature Image: "https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_header.webp"
+Feature Image: https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_header.webp
 Country:
 - Mexico
 Impact Area:

@@ -4,7 +4,7 @@ date: 2021-03-11 11:41:00 Z
 Summary Text: Three communities in the Asia-Pacific have been selected as recipients
   of the Facebook Community Impact Microgrant. Congratulations to OSM Fiji, MapBeks
   in the Philippines, and the Geomatics Engineering Society at Kathmandu University!
-Feature Image: "https://cdn.hotosm.org/website/Community+Impact+Microgrants+FB.png"
+Feature Image: https://cdn.hotosm.org/website/Community+Impact+Microgrants+FB.png
 Person:
 - Mikko Tamura
 - Sophie Mower

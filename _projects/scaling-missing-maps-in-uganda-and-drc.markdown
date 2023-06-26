@@ -8,7 +8,7 @@ Project Summary Text: In combining machine-learning-based algorithms with a moto
   Uganda to better guide and inform local actors, such as health care workers, government
   representatives and national/international organizations, of where humanitarian
   assistance should be delivered.
-Feature Image: "https://cdn.hotosm.org/website/WhatsApp+Image+2021-03-17+at+10.58.16-4a37df.jpeg"
+Feature Image: https://cdn.hotosm.org/website/WhatsApp+Image+2021-03-17+at+10.58.16-4a37df.jpeg
 Country:
 - Democratic Republic of the Congo
 - Uganda

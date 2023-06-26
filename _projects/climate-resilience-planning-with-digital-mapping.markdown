@@ -5,7 +5,7 @@ published: false
 Project Summary Text: In the recent past, Zambia has experienced more extreme climate
   events such as droughts and floods which are particularly affecting vulnerable groups
   of people in Lusaka, Southern, Northern, North-Western, Western, and Luapula provinces.
-Feature Image: "https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+1.29.52+PM.png"
+Feature Image: https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+1.29.52+PM.png
 Country:
 - Zambia
 Impact Area:

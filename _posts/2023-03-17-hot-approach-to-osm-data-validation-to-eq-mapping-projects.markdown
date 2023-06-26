@@ -6,7 +6,7 @@ Summary Text: Because OpenStreetMap is a crowd-sourcing project where everyone c
   to support high-quality crowd-sourced OSM data. We have a four step validation process
   to ensure that the data created for emergencies like the current Turkey and Syria
   earthquake response is fit for use.
-Feature Image: "https://cdn.hotosm.org/website/Validation_Process_1B.png"
+Feature Image: https://cdn.hotosm.org/website/Validation_Process_1B.png
 Is image top aligned: true
 Person: Samson Ngumenawe
 Working Group:

@@ -1,7 +1,7 @@
 ---
 title: Letícia Cruxen Godinho
 date: 2023-06-06 06:15:00 Z
-Photo: "https://cdn.hotosm.org/website/Leti%CC%81cia.jpeg"
+Photo: https://cdn.hotosm.org/website/Leti%CC%81cia.jpeg
 Member Type:
   Is Staff: true
 Job Title: Impact Partnership Assistant

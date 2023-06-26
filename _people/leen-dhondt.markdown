@@ -1,7 +1,7 @@
 ---
 title: Leen D'hondt
 date: 2022-02-03 04:45:00 Z
-Photo: "https://cdn.hotosm.org/website/Leen+D'hondt.JPG"
+Photo: https://cdn.hotosm.org/website/Leen+D'hondt.JPG
 Member Type:
   Is Staff: true
 Job Title: Interim Head of Technology and Innovation

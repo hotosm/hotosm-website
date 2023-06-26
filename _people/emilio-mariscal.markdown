@@ -1,7 +1,7 @@
 ---
 title: Emilio Mariscal
 date: 2022-03-23 10:14:00 Z
-Photo: "https://cdn.hotosm.org/website/emilio-mariscal.png"
+Photo: https://cdn.hotosm.org/website/emilio-mariscal.png
 Member Type:
   Is Staff: true
 Job Title: Senior Engineer/Developer

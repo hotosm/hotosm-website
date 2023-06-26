@@ -1,7 +1,7 @@
 ---
 title: Nikkon Balial
 date: 2023-03-01 08:00:00 Z
-Photo: "https://cdn.hotosm.org/website/Nikkon+picture+(2).jpg"
+Photo: https://cdn.hotosm.org/website/Nikkon+picture+(2).jpg
 Member Type:
   Is Staff: true
 Job Title: Global Programs Coordinator

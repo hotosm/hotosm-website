@@ -1,7 +1,7 @@
 ---
 title: Osunga Michael Otieno
 date: 2022-06-13 07:55:00 Z
-Photo: "https://cdn.hotosm.org/website/OSUNGA_MICHAEL_PASSPORT_2021+(2).jpg"
+Photo: https://cdn.hotosm.org/website/OSUNGA_MICHAEL_PASSPORT_2021+(2).jpg
 Member Type:
   Is Staff: true
 Job Title: 'Digital Mapping & GIS manager- Eastern and Southern Africa '

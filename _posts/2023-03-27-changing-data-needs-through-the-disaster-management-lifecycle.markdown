@@ -7,7 +7,7 @@ Summary Text: We’re now about a month and a half after the initial 7.7 magnitu
   to the affected communities and the start of rebuilding and reconstruction efforts
   where it is feasible to do. As the phase of disaster response changes, so do the
   data needs and data and quality requirements.
-Feature Image: "https://cdn.hotosm.org/website/Disaster_Response_PhasesC.png"
+Feature Image: https://cdn.hotosm.org/website/Disaster_Response_PhasesC.png
 Person:
 - Paul Uithol
 - Jessica Pechmann

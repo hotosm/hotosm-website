@@ -3,7 +3,7 @@ title: HOT's Response to the Turkey & Syria Earthquake
 date: 2023-02-22 12:33:00 Z
 Project Summary Text: How HOT is responding to the tragic February 2023 earthquake
   in Turkey and Syria, how to get data, and how that data is being used.
-Feature Image: "https://cdn.hotosm.org/website/Turkey+Syria+Map+for+Homepage+B-69e708.png"
+Feature Image: https://cdn.hotosm.org/website/Turkey+Syria+Map+for+Homepage+B-69e708.png
 Is image top aligned: false
 Project Logo Image: https://wiki.openstreetmap.org/w/images/thumb/4/46/Yer_cizenler_logo.png/240px-Yer_cizenler_logo.png
 Is Community-Led: true

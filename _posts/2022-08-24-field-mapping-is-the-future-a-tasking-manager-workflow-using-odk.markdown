@@ -9,7 +9,7 @@ Summary Text: Field mapping by local people is key to the future of open mapping
   However, the tools available for field mapping—despite many being of high quality—do
   not form a coherent ecosystem to unleash the potential of community field mapping.
   Something is missing! Could it be a Tasking Manager for Field Mapping?
-Feature Image: "https://cdn.hotosm.org/website/2022-09-09_skillshare_poster+(1).png"
+Feature Image: https://cdn.hotosm.org/website/2022-09-09_skillshare_poster+(1).png
 Person: Ivan Buendía Gayton
 Country:
 - Global

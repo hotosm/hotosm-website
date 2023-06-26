@@ -7,7 +7,7 @@ tags:
 - caribbean
 Project Summary Text: Here we document the activities of HOT's Open Mapping Hub -
   LAC
-Feature Image: "https://cdn.hotosm.org/website/LAC_PublicationsHeader.png"
+Feature Image: https://cdn.hotosm.org/website/LAC_PublicationsHeader.png
 Impact Area:
 - Public Health
 - Gender Equality

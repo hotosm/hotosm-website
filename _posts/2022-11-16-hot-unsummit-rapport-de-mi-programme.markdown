@@ -4,7 +4,7 @@ date: 2022-11-16 02:41:00 Z
 Summary Text: Dans notre mission de rassembler les communautés, les partenaires, les
   collaborateurs et les partisans de la cartographie ouverte humanitaire, HOT teste
   une nouvelle approche des conférences en 2022.
-Feature Image: "https://cdn.hotosm.org/website/52409427674_992dab1192_k.jpg"
+Feature Image: https://cdn.hotosm.org/website/52409427674_992dab1192_k.jpg
 Person: unSummit Working Group
 Working Group:
 - HOT Summit

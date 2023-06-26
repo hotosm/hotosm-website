@@ -2,7 +2,7 @@
 title: Rachelle Pormento
 date: 2022-03-22 13:08:00 Z
 published: false
-Photo: "https://cdn.hotosm.org/website/Rachelle-Pormento_Pic.jpg"
+Photo: https://cdn.hotosm.org/website/Rachelle-Pormento_Pic.jpg
 Member Type:
   Is Staff: false
 Job Title: Global Human Resources Manager

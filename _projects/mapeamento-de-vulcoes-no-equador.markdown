@@ -4,7 +4,7 @@ date: 2023-05-16 21:12:00 Z
 published: false
 Project Summary Text: Um mapeamento de comunidades, áreas de risco e rotas de evacuação
   em áreas vulcânicas.
-Feature Image: "https://cdn.hotosm.org/website/LAC_VolcanesEcuador1.jpeg"
+Feature Image: https://cdn.hotosm.org/website/LAC_VolcanesEcuador1.jpeg
 Country:
 - Ecuador
 Impact Area:

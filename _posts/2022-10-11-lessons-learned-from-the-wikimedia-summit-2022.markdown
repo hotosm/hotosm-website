@@ -5,7 +5,7 @@ Summary Text: On September 9-11, 2022, I attended the Wikimedia Summit 2022 in B
   Germany as a representative of the Wikimedia Community User Group in Uganda. As
   someone who belongs to several communities, I was interested in learning from the
   Wikimedia community lessons that could be replicated by the OpenStreetMap community.
-Feature Image: "https://cdn.hotosm.org/website/Wikimedia+Crowd.png"
+Feature Image: https://cdn.hotosm.org/website/Wikimedia+Crowd.png
 Person: Geoffrey Kateregga
 ---
 

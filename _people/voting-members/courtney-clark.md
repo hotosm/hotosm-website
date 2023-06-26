@@ -1,7 +1,7 @@
 ---
 title: Courtney Clark
 date: 2016-01-11 23:44:00 Z
-Photo: "https://cdn.hotosm.org/website/photo+CourtneyClark.png"
+Photo: https://cdn.hotosm.org/website/photo+CourtneyClark.png
 Member Type:
   Is Voting Member: true
 Working Group:

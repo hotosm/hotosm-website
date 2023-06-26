@@ -2,7 +2,7 @@
 title: 'The Spatial People Award: Applications are Ongoing!'
 date: 2023-05-16 20:57:00 Z
 published: false
-Feature Image: "https://cdn.hotosm.org/website/Spatial+People+Award.png"
+Feature Image: https://cdn.hotosm.org/website/Spatial+People+Award.png
 Impact Area:
 - Public Health
 - Gender Equality

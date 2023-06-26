@@ -1,7 +1,7 @@
 ---
 title: Tabby Nyanjui
 date: 2023-05-09 06:18:00 Z
-Photo: "https://cdn.hotosm.org/website/Screenshot+2023-05-09+at+09.28.41.png"
+Photo: https://cdn.hotosm.org/website/Screenshot+2023-05-09+at+09.28.41.png
 Member Type:
   Is Staff: true
 Job Title: MERL Specialist - Eastern and Southern Africa

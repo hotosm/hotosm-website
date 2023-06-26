@@ -1,7 +1,7 @@
 ---
 title: Nathalie Sidibe
 date: 2017-02-28 14:19:00 Z
-Photo: "https://cdn.hotosm.org/website/Nathaliesidibe.jpeg"
+Photo: https://cdn.hotosm.org/website/Nathaliesidibe.jpeg
 Member Type:
   Is Voting Member: true
   Is Board Member: false

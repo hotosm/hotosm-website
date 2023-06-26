@@ -1,7 +1,7 @@
 ---
 title: Marie Makuate
 date: 2023-04-29 05:23:00 Z
-Photo: "https://cdn.hotosm.org/website/2023-04-12+at+12.39.33.jpeg"
+Photo: https://cdn.hotosm.org/website/2023-04-12+at+12.39.33.jpeg
 Member Type:
   Is Staff: true
 Job Title: Senior Associate Disaster Services and Training - West and Northern Africa

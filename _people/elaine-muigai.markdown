@@ -1,7 +1,7 @@
 ---
 title: Elaine Muigai
 date: 2021-08-11 11:19:00 Z
-Photo: "https://cdn.hotosm.org/website/Elaine+pict.jpg"
+Photo: https://cdn.hotosm.org/website/Elaine+pict.jpg
 Member Type:
   Is Staff: true
 Job Title: Communications Associate - Eastern and Southern Africa

@@ -2,7 +2,7 @@
 title: 'Les Données Géospatiales Libres Dans La Gestion De l’environnement : Contexte,
   Opportunités et Défis'
 date: 2022-06-28 15:00:00 Z
-Feature Image: "https://cdn.hotosm.org/website/unnamed-07e3bf.png"
+Feature Image: https://cdn.hotosm.org/website/unnamed-07e3bf.png
 Person: Nikoyo Emougou Yves Emmanuel
 Working Group:
 - Community

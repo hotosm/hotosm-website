@@ -13,12 +13,11 @@ tags:
 Summary Text: Un grupo de brillantes mujeres latinoamericanas nos expone diversos
   proyectos y nos cuentan variadas experiencias en el uso de mapas y datos, y también
   sobre su ausencia.
-Feature Image: "https://cdn.hotosm.org/website/openlabmujdat2.jpg"
+Feature Image: https://cdn.hotosm.org/website/openlabmujdat2.jpg
 Person: Juan Arellano Valdivia
 Project:
 - latam
 ---
-
 
 En el marco del Día Internacional de la Mujer 2023, el Hub de Mapeo Abierto de América Latina y el Caribe organizó conjuntamente con el [OpenLabEc](https://openlab.ec/) el conversatorio denominado "[Mujeres, Mapas y Datos](https://openlab.ec/actividad/conversatorio-mujeres-mapas-y-datos#no-back)", que se realizó el jueves 9 de marzo.
 

@@ -7,7 +7,7 @@ tags:
 Summary Text: We are excited to share with you an update on how at HOT we plan to
   increase our support to Open Mapping on the LATAM region to find ways to connect
   geospatial data and community effort towards collective well-being!
-Feature Image: "https://cdn.hotosm.org/website/HOT_OMH_LATAM_English_Logo_REV_COLOUR+wide.png"
+Feature Image: https://cdn.hotosm.org/website/HOT_OMH_LATAM_English_Logo_REV_COLOUR+wide.png
 Person: Rubén Martín
 ---
 

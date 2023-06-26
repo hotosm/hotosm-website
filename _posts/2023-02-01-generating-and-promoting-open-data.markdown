@@ -4,7 +4,7 @@ date: 2023-02-01 02:03:00 Z
 Summary Text: 'In November 2022 the Open Mapping Community Working Group hosted the
   webinar: Generating and Promoting Open Data. Host Laxmi N. Goparaju shares the highlights
   of the conversation.'
-Feature Image: "https://cdn.hotosm.org/website/Laxmi+Summary+1.jpg"
+Feature Image: https://cdn.hotosm.org/website/Laxmi+Summary+1.jpg
 Person: Laxmi N. Goparaju
 Working Group:
 - Community

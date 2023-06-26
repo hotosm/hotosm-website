@@ -1,7 +1,7 @@
 ---
 title: Ibrahima Cisse
 date: 2021-08-26 09:55:00 Z
-Photo: "https://cdn.hotosm.org/website/photo+Ibra.jpeg"
+Photo: https://cdn.hotosm.org/website/photo+Ibra.jpeg
 Member Type:
   Is Staff: true
 Job Title: Regional Director - West and Northern Africa

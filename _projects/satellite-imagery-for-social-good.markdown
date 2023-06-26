@@ -8,7 +8,7 @@ Project Summary Text: Satellite Imagery for Social Good is a single project with
   to generate data that decision-makers need to plan and implement social-economic
   programs.
 Feature Image:
-- "https://cdn.hotosm.org/website/Kenya+and+Nigeria+maps.png"
+- https://cdn.hotosm.org/website/Kenya+and+Nigeria+maps.png
 Country:
 - - Kenya
   - Nigeria

@@ -1,7 +1,7 @@
 ---
 title: Natalia da Silveira Arruda
 date: 2019-06-04 13:46:00 Z
-Photo: "https://cdn.hotosm.org/website/NataliaArruda.jpg"
+Photo: https://cdn.hotosm.org/website/NataliaArruda.jpg
 Member Type:
   Is Voting Member: true
 Project:

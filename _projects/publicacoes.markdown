@@ -6,7 +6,7 @@ tags:
 - latam
 - caribe
 Project Summary Text: Aqui documentamos as atividades do Open Mapping Hub - HOT LAC
-Feature Image: "https://cdn.hotosm.org/website/LAC_PublicationsHeader.png"
+Feature Image: https://cdn.hotosm.org/website/LAC_PublicationsHeader.png
 Impact Area:
 - Public Health
 - Gender Equality

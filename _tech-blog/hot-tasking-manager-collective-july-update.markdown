@@ -11,7 +11,6 @@ Tool:
 - Tasking Manager
 ---
 
-
 Hello Tasking Manager enthusiasts! It has been a while since you heard from us. We wanted to share some updates since we kicked off our collective efforts with the Kathmandu Living labs team  on the Tasking Manager earlier this year and [shared a blog on how to contribute](https://www.hotosm.org/tech-blog/welcome-to-the-tasking-manager-collective-how-to-join-and-contribute/). 
 
 ## What we have been up to:

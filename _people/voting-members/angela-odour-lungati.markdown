@@ -1,7 +1,7 @@
 ---
 title: Angela Odour Lungati
 date: 2018-05-01 22:29:00 Z
-Photo: "https://cdn.hotosm.org/website/Angela+Odour+Lungati.jpg"
+Photo: https://cdn.hotosm.org/website/Angela+Odour+Lungati.jpg
 Member Type:
   Is Voting Member: true
   Is Board Member: true

@@ -5,7 +5,7 @@ date: 2021-06-07 19:14:00 Z
 Summary Text: HOT, in collaboration with the Global Fund for Disaster Reduction and
   Recovery and SwissRE Foundation, is proud to announce the Open Cities Latin America
   and the Caribbean project.
-Feature Image: "https://cdn.hotosm.org/website/IMG_20181005_072113.jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG_20181005_072113.jpg
 Person: Céline Jacquin
 Country:
 - Mexico

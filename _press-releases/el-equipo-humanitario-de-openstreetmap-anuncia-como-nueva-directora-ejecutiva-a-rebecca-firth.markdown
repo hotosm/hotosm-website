@@ -1,8 +1,8 @@
 ---
 title: El Equipo Humanitario de OpenStreetMap anuncia como nueva directora ejecutiva
   a Rebecca Firth
-permalink: press-releases/el-equipo-humanitario-de-openstreetmap-anuncia-como-nueva-directora-ejecutiva-a-rebecca-firth/
 date: 2023-06-01 15:52:00 Z
+permalink: press-releases/el-equipo-humanitario-de-openstreetmap-anuncia-como-nueva-directora-ejecutiva-a-rebecca-firth/
 ---
 
 ![Audacious_Workshop_20190913_1RL0495.jpg](https://cdn.hotosm.org/website/Audacious_Workshop_20190913_1RL0495.jpg)

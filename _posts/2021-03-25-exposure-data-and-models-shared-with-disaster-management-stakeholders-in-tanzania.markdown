@@ -5,7 +5,7 @@ Summary Text: The METEOR project has been a three-year initiative supported by t
   UK Space Agency International Partnership Programme to generate disaster exposure
   data and models in two pilot countries — Tanzania and Nepal. The process has since
   been repeated in another 45 official development assistance countries.
-Feature Image: "https://cdn.hotosm.org/website/Workshop+Group+Masked.jpg"
+Feature Image: https://cdn.hotosm.org/website/Workshop+Group+Masked.jpg
 Person: Hawa Adinani
 Country:
 - Tanzania

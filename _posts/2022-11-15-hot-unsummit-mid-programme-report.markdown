@@ -4,7 +4,7 @@ date: 2022-11-15 12:46:00 Z
 Summary Text: In our mission to bring together communities, partners, collaborators,
   and supporters of humanitarian open mapping, HOT is trialling a fresh approach to
   conferences in 2022.
-Feature Image: "https://cdn.hotosm.org/website/52409427674_992dab1192_k.jpg"
+Feature Image: https://cdn.hotosm.org/website/52409427674_992dab1192_k.jpg
 Person: unSummit Working Group
 Working Group:
 - HOT Summit

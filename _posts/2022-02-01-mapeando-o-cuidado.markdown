@@ -5,7 +5,7 @@ Summary Text: A URBELatam, uma parceria de três universidades, está trabalhand
   o Banco Preventório para mapear a comunidade do Morro do Preventório próximo ao
   Rio de Janeiro. O mapa permitirá que o banco amplie seus serviços à comunidade e
   sirva de modelo e inspiração para outras favelas.
-Feature Image: "https://cdn.hotosm.org/website/Favela+Mapping+1.jpg"
+Feature Image: https://cdn.hotosm.org/website/Favela+Mapping+1.jpg
 Person:
 - Alessandra Figueiredo
 - Elena Veríssimo

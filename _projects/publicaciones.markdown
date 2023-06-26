@@ -7,7 +7,7 @@ tags:
 - caribe
 Project Summary Text: Acá documentamos las actividades del Hub de Mapeo Abierto -
   LAC de HOT
-Feature Image: "https://cdn.hotosm.org/website/LAC_PublicationsHeader.png"
+Feature Image: https://cdn.hotosm.org/website/LAC_PublicationsHeader.png
 Impact Area:
 - Public Health
 - Gender Equality

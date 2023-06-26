@@ -10,7 +10,7 @@ tags:
 - OpenLabEc
 Summary Text: The collaboration of experienced free culture activists with new mappers
   is renewing the landscape of collaborative cartography in Ecuador.
-Feature Image: "https://cdn.hotosm.org/website/lloa7.webp"
+Feature Image: https://cdn.hotosm.org/website/lloa7.webp
 Is image top aligned: false
 ---
 

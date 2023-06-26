@@ -10,7 +10,7 @@ tags:
 Summary Text: América Abierta, antes conocido como AbreLatam/ConDatos, es el evento
   regional sobre datos abiertos y gobierno abierto, que reúne a organizaciones e individuos
   que trabajan en estos temas.
-Feature Image: "https://cdn.hotosm.org/website/52407738438_f38a4dbdf2_c.jpg"
+Feature Image: https://cdn.hotosm.org/website/52407738438_f38a4dbdf2_c.jpg
 Person: Juan Arellano Valdivia
 ---
 

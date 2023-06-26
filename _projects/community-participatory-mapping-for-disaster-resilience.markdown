@@ -10,7 +10,7 @@ Project Summary Text: Climate projections indicate an increased severity and int
   of climate-related disasters due to climate change. As a result, several organizations
   are shifting from disaster response to disaster preparedness to mitigate disaster
   impacts on communities.
-Feature Image: "https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+1.28.40+PM.png"
+Feature Image: https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+1.28.40+PM.png
 Country:
 - Kenya
 Impact Area:

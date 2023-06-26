@@ -3,7 +3,7 @@ title: 'Volunteerism in the 21st Century: The way to go'
 date: 2023-02-02 17:42:00 Z
 Summary Text: 'A panel discussion with panelists Sabrina Szeto, Juan Arellano and
   Laura Mugeha, moderated by Laxmi Goparaju '
-Feature Image: "https://cdn.hotosm.org/website/volunteer+blog.png"
+Feature Image: https://cdn.hotosm.org/website/volunteer+blog.png
 Person: Benedicta Ohene
 Working Group:
 - Community

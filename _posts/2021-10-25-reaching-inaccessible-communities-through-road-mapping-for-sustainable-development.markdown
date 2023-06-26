@@ -4,7 +4,7 @@ date: 2021-10-25 15:36:00 Z
 Summary Text: Since 2017, HOT has partnered with Facebook to build up and improve
   the data in OSM, particularly for countries in Southeast Asia where HOT has extensive
   experience in generating open geodata for humanitarian actions.
-Feature Image: "https://cdn.hotosm.org/website/Facebook+Blog+3.png"
+Feature Image: https://cdn.hotosm.org/website/Facebook+Blog+3.png
 Person:
 - Carter Draper
 - Dinar Adiatma

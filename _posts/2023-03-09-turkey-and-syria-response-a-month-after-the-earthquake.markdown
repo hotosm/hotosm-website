@@ -3,7 +3,7 @@ title: 'Turkey And Syria Response: A Month After The Earthquake'
 date: 2023-03-09 21:00:00 Z
 Summary Text: The mapping response to the Turkey and Syria earthquake has shown the
   power of OSM data to support disaster response.
-Feature Image: "https://cdn.hotosm.org/website/Hatay_Antakya_Center_After_Earthquake+_Planet_20230211.png"
+Feature Image: https://cdn.hotosm.org/website/Hatay_Antakya_Center_After_Earthquake+_Planet_20230211.png
 Is image top aligned: true
 Person:
 - Pete Masters

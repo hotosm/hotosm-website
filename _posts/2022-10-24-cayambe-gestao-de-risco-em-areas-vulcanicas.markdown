@@ -12,7 +12,7 @@ tags:
 Summary Text: A gestão de risco em áreas vulcânicas no Equador é uma atividade necessária
   na qual o mapeamento aberto desempenha um papel importante. A partir do Hub demos
   um primeiro passo para atingir esse objetivo.
-Feature Image: "https://cdn.hotosm.org/website/20220909_103057.jpg"
+Feature Image: https://cdn.hotosm.org/website/20220909_103057.jpg
 Person: Juan Arellano Valdivia
 Country:
 - Ecuador

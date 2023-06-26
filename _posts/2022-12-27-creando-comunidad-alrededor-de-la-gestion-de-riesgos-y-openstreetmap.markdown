@@ -17,7 +17,7 @@ tags:
 Summary Text: El pasado mes de noviembre se realizó en Lima, Peru el evento Gestión
   popular de riesgos de desastres y OpenStreetMap LATAM 2022. Conozcamos un poco mas
   que pasó estos días en Lima alrededor del mapeo abierto y comunitario.
-Feature Image: "https://cdn.hotosm.org/website/poster-1-724x1024.jpg"
+Feature Image: https://cdn.hotosm.org/website/poster-1-724x1024.jpg
 Is image top aligned: true
 Person: Juan Arellano Valdivia
 Country:

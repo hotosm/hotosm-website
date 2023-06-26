@@ -2,7 +2,7 @@
 title: 'Map Malawi: OSM Mapping for Refugees - A Case of Dzaleka Camp, Malawi'
 date: 2021-07-08 12:05:00 Z
 position: 14
-Feature Image: "https://cdn.hotosm.org/website/OSM+Malawi.png"
+Feature Image: https://cdn.hotosm.org/website/OSM+Malawi.png
 Is Community-Led: true
 Country:
 - Malawi

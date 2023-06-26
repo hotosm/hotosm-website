@@ -6,7 +6,7 @@ Summary Text: This month, the HOT Philippines team completed the required field 
   for the PhilAWARE project and is now presenting output maps to stakeholders. HOT
   is also working with PDC to prepare an e-Learning platform to remotely support stakeholder
   mapping initiatives.
-Feature Image: "https://cdn.hotosm.org/website/March+2021+Header.png"
+Feature Image: https://cdn.hotosm.org/website/March+2021+Header.png
 Person: Jikka Defiño
 Working Group:
 - Communications

@@ -4,7 +4,7 @@ date: 2022-01-27 09:10:00 Z
 Summary Text: The World Bank, the Humanitarian OpenStreetMap Team, and iLab Liberia
   partnered to assess how pollution and lack of infrastructure was impeding the productivity
   of the Duala Market, Monrovia's largest wholesale market.
-Feature Image: "https://cdn.hotosm.org/website/monrovia_mkt_-_1.jpg"
+Feature Image: https://cdn.hotosm.org/website/monrovia_mkt_-_1.jpg
 Person:
 - Jess Beutler
 - Benjamin Dills

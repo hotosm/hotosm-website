@@ -5,7 +5,7 @@ Summary Text: The Open Mapping Community Working Group is currently organizing t
   second round of its peer-to-peer mentorship program. To appreciate the value of
   this opportunity for members of the open mapping community, take a moment to read
   about the shared learnings of members of the first round.
-Feature Image: "https://cdn.hotosm.org/website/Mentorship_Post_B-8dc547.png"
+Feature Image: https://cdn.hotosm.org/website/Mentorship_Post_B-8dc547.png
 Person:
 - Antonin Haas
 - Anuradha Rajanayake

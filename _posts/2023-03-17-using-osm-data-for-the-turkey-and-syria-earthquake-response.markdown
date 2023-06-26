@@ -6,7 +6,7 @@ Summary Text: In the aftermath of the Syria-Turkey earthquake, OSM is allowing r
   efforts,  access and contextualize damage assessments, and plan relief and recovery
   efforts. Here are the data sets available for response organizations and examples
   of how they are being used.
-Feature Image: "https://cdn.hotosm.org/website/TSEQ_Data_Use_1.png"
+Feature Image: https://cdn.hotosm.org/website/TSEQ_Data_Use_1.png
 Is image top aligned: true
 Person:
 - Jessica Pechmann

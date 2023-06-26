@@ -8,7 +8,7 @@ Project Summary Text: '#MapHerWorld is a mapping campaign by the Open Mapping Hu
   - East and Southern Africa, inspired by the International Women''s Day 2023 theme,
   "Celebrating women and girls who are championing the advancement of transformative
   technology and digital education".'
-Feature Image: "https://cdn.hotosm.org/website/Map+her+World+Lead+Image.png"
+Feature Image: https://cdn.hotosm.org/website/Map+her+World+Lead+Image.png
 Impact Area:
 - Gender Equality
 Person:

@@ -13,7 +13,7 @@ block-2:
     <strong>The Open Mapping Hub - Eastern and Southern Africa</strong> works with organizations and communities across 23 countries in creating and updating free, editable and shareable open map data in OpenStreetMap. We believe that open map data is universal and contributes to identifying problems, monitoring change, managing and responding to events, forecasting, setting priorities and understanding humanitarian and development trends.
     <br /><br />We envision a future where all people in Eastern and Southern Africa have the opportunity to contribute to and use open mapping processes and open data in their everyday lives.
   Action-text: Learn More
-  Image: "https://cdn.hotosm.org/website/HOT_OMH_ESA_English_Logo_REV_COLOUR.png"
+  Image: https://cdn.hotosm.org/website/HOT_OMH_ESA_English_Logo_REV_COLOUR.png
   Link: https://stories.hotosm.org/esa-homepage/index.html
 block-3:
   Title: West & Northern Africa
@@ -26,7 +26,7 @@ block-3:
     of life by promoting social justice in accessing open data and free software for
     their own purposes.<br /><br />"
   Action-text: Learn More
-  Image: "https://cdn.hotosm.org/website/HOT_OMH_WNA_English_Logo_REV_COLOUR.png"
+  Image: https://cdn.hotosm.org/website/HOT_OMH_WNA_English_Logo_REV_COLOUR.png
   Link: https://stories.hotosm.org/wna-homepage/index.html
 block-1:
   Title: Asia Pacific
@@ -37,7 +37,7 @@ block-1:
     provide financial and technical support to massively scale local edits on OpenStreetMap
     (OSM)."
   Action-text: Learn More
-  Image: "https://cdn.hotosm.org/website/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png"
+  Image: https://cdn.hotosm.org/website/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png
   Link: https://stories.hotosm.org/ap-homepage/index.html
 block-4:
   Title: LAC Hub
@@ -50,7 +50,7 @@ block-4:
     in progress that demonstrate the value that the Hub can bring to communities,
     as well as some collaboration models that can be optimized in the immediate future."
   Action-text: Learn More
-  Image: "https://cdn.hotosm.org/website/LAC_for_Website_B.png"
+  Image: https://cdn.hotosm.org/website/LAC_for_Website_B.png
   Link: https://stories.hotosm.org/latam-homepage/index.html
 layout: hubs
 ---

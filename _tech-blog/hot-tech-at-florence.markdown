@@ -3,10 +3,9 @@ title: hot_tech team in Florence, August 2022
 date: 2022-08-11 11:46:00 Z
 Summary Text: "\nWe are excited to meet the community and share all that’s happening
   with the hot_tech team at State of the Map and FOSS4G starting next week! "
-Feature Image: "https://cdn.hotosm.org/website/hot_tech.jfif"
+Feature Image: https://cdn.hotosm.org/website/hot_tech.jfif
 Person: Petya Kangalova
 ---
-
 
 ## HOT unSummit
 This year, HOT Summit is on a world tour and is collaborating with external events to organise several HOT unSummit sessions. Hot_tech will take part in two unSummit sessions as part of SOTM and FOSS4G:

@@ -7,7 +7,7 @@ Summary Text: The Open Mapping Hub Eastern and Southern Africa (ESA) is excited 
   HOT’s goal of mapping an area home to one billion people in areas vulnerable to
   disasters or experiencing multidimensional poverty across 94 countries; including
   22 countries in Eastern and Southern Africa.
-Feature Image: "https://cdn.hotosm.org/website/Grants+blog+photo+opt+1.png"
+Feature Image: https://cdn.hotosm.org/website/Grants+blog+photo+opt+1.png
 Person:
 - Elaine Muigai
 - Geoffrey Kateregga

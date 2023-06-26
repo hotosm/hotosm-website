@@ -1,7 +1,7 @@
 ---
 title: Wilson Munyaradzi
 date: 2021-12-06 09:51:00 Z
-Photo: "https://cdn.hotosm.org/website/Wilson-Munyaradzi+Profile+Pic.JPG"
+Photo: https://cdn.hotosm.org/website/Wilson-Munyaradzi+Profile+Pic.JPG
 Member Type:
   Is Staff: true
 Job Title: Disaster Services Manager - Eastern and Southern Africa

@@ -30,7 +30,7 @@ Block 3:
   Text: HOT enables communities, NGOs, international organizations, and government
     partners to use and contribute to OpenStreetMap for locally-relevant challenges
     through provision of training, equipment, knowledge exchange, and field projects.
-  Image: "https://cdn.hotosm.org/website/52100358553_83b4e6eae5_o+(2).jpg"
+  Image: https://cdn.hotosm.org/website/52100358553_83b4e6eae5_o+(2).jpg
   Project:
   - 'Supporting decentralization in Liberian cities: LEGIT'
 Block 4:

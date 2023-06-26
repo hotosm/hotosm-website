@@ -1,7 +1,7 @@
 ---
 title: Synne Olsen
 date: 2022-06-25 15:22:00 Z
-Photo: "https://cdn.hotosm.org/website/Profile+pic_synne.png"
+Photo: https://cdn.hotosm.org/website/Profile+pic_synne.png
 Member Type:
   Is Staff: true
 Job Title: Open Innovation Facilitator

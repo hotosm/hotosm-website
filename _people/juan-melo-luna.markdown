@@ -1,7 +1,7 @@
 ---
 title: Juan Melo Luna
 date: 2023-04-29 05:45:00 Z
-Photo: "https://cdn.hotosm.org/website/Screenshot+2023-04-29+at+08.49.46.png"
+Photo: https://cdn.hotosm.org/website/Screenshot+2023-04-29+at+08.49.46.png
 Member Type:
   Is Staff: true
 Job Title: Senior Associate, Data Quality

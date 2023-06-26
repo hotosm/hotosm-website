@@ -1,7 +1,7 @@
 ---
 title: How HOT is Supporting Climate Resilience Around the World
 date: 2023-04-28 15:51:00 Z
-Feature Image: "https://cdn.hotosm.org/website/Open_Cities_Tulum_-_Mexico_3-d0b8ae.jpg"
+Feature Image: https://cdn.hotosm.org/website/Open_Cities_Tulum_-_Mexico_3-d0b8ae.jpg
 Person: Natalie Clarkson
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Oluwasijibomi Olatunji
 date: 2023-01-27 05:13:00 Z
-Photo: "https://cdn.hotosm.org/website/siji.jpg"
+Photo: https://cdn.hotosm.org/website/siji.jpg
 Member Type:
   Is Staff: true
 Job Title: Global Human Resources Manager

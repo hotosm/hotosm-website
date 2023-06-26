@@ -4,7 +4,7 @@ date: 2022-08-05 03:25:00 Z
 Summary Text: |
   Applications for Asia-Pacific University Students Clubs Sponsorship are Open!
   Dates: 5 August - 26 August 2022
-Feature Image: "https://cdn.hotosm.org/website/AP+club+sponsorship+(1).png"
+Feature Image: https://cdn.hotosm.org/website/AP+club+sponsorship+(1).png
 Person: Can Unen
 ---
 

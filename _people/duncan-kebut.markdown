@@ -1,7 +1,7 @@
 ---
 title: Duncan Kebut
 date: 2021-11-23 09:39:00 Z
-Photo: "https://cdn.hotosm.org/website/Duncan+Kebut+(2).jpg"
+Photo: https://cdn.hotosm.org/website/Duncan+Kebut+(2).jpg
 Member Type:
   Is Staff: true
 Job Title: Senior Mapping Supervisor

@@ -2,7 +2,7 @@
 title: Cooper Chibomba
 date: 2022-04-20 06:13:00 Z
 published: false
-Photo: "https://cdn.hotosm.org/website/Passport+Photo+2022.jpg"
+Photo: https://cdn.hotosm.org/website/Passport+Photo+2022.jpg
 Member Type:
   Is Staff: true
 Job Title: 'Project Manager '

@@ -9,7 +9,7 @@ tags:
 Summary Text: O Hub de Mapeamento Aberto da América Latina está ocupado com vários
   projetos, se você quiser saber quais são, aqui compartilhamos uma visão geral do
   que está sendo feito na região.
-Feature Image: "https://cdn.hotosm.org/website/CT-BSF-2001-0011.jpg"
+Feature Image: https://cdn.hotosm.org/website/CT-BSF-2001-0011.jpg
 Person: Equipe alfa do Hub Latam
 ---
 

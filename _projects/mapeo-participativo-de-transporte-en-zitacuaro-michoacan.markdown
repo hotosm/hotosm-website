@@ -12,7 +12,7 @@ tags:
 Project Summary Text: Este proyecto busca digitalizar los recorridos de las rutas
   de transporte público de Zitácuaro, para posteriormente publicarlos como datos abiertos
   en diversas plataformas.
-Feature Image: "https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_header.webp"
+Feature Image: https://cdn.hotosm.org/website/LAC_ParticipatoryTransportMappingZitacuaro_header.webp
 Country:
 - Mexico
 Impact Area:

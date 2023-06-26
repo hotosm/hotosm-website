@@ -5,7 +5,7 @@ published: false
 Project Summary Text: |-
   Using open source geospatial mapping tools and local knowledge to improve
   field epidemiology and patient tracing in rural Uganda
-Feature Image: "https://cdn.hotosm.org/website/ESA_Scaling_Missing_Maps_Great_Lakes_Header.webp"
+Feature Image: https://cdn.hotosm.org/website/ESA_Scaling_Missing_Maps_Great_Lakes_Header.webp
 Country:
 - Uganda
 - Democratic Republic of the Congo

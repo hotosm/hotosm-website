@@ -5,7 +5,7 @@ Summary Text: Whether you just started mapping to support the earthquake respons
   in Turkey and Syria or if you have been mapping for years, it is always helpful
   to read tips and watch tutorials to improve your skills and maintain best practices.
   Here are some top tips from members of the HOT Data Team.
-Feature Image: "https://cdn.hotosm.org/website/GAL+Group+for+Mapping+Tips+Post.jpg"
+Feature Image: https://cdn.hotosm.org/website/GAL+Group+for+Mapping+Tips+Post.jpg
 Person:
 - Dinar Adiatma
 - Samson Ngumenawe

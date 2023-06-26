@@ -1,7 +1,7 @@
 ---
 title: Abigail Gbadago
 date: 2022-09-22 10:25:00 Z
-Photo: "https://cdn.hotosm.org/website/Headshot.jpg"
+Photo: https://cdn.hotosm.org/website/Headshot.jpg
 Member Type:
   Is Staff: true
 Job Title: Junior Support Software Engineer

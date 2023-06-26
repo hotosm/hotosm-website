@@ -1,7 +1,7 @@
 ---
 title: Pierre Mirlesse
 date: 2015-06-26 14:56:00 Z
-Photo: "https://cdn.hotosm.org/website/pierremirlesse.jpg"
+Photo: https://cdn.hotosm.org/website/pierremirlesse.jpg
 Member Type:
   Is Voting Member: true
 Working Group:

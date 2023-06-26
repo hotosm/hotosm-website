@@ -2,7 +2,7 @@
 title: Mapping Contraceptive Access in the Newly Formed Cities in Northern Uganda
 date: 2023-05-16 21:31:00 Z
 published: false
-Feature Image: "https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+2.31.39+PM.png"
+Feature Image: https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+2.31.39+PM.png
 Country:
 - Uganda
 Impact Area:

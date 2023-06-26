@@ -1,7 +1,7 @@
 ---
 title: Amelia Lyons
 date: 2021-08-31 12:09:00 Z
-Photo: "https://cdn.hotosm.org/website/1516355010027.jpg"
+Photo: https://cdn.hotosm.org/website/1516355010027.jpg
 Member Type:
   Is Staff: true
 Job Title: Senior Manager, Business Development

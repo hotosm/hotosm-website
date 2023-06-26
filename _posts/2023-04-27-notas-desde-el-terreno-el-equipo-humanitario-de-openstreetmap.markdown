@@ -7,7 +7,7 @@ tags:
 Summary Text: Fabrizio Scrollini, el nuevo Director del Hub de Mapeo Abierto para
   América Latina y el Caribe comparte sus  impresiones de los primeros días de trabajo
   con el equipo del Hub, lo realizado y lo que está por venir.
-Feature Image: "https://cdn.hotosm.org/website/FuKyiuHacAEi748x.jpg"
+Feature Image: https://cdn.hotosm.org/website/FuKyiuHacAEi748x.jpg
 Person: Fabrizio Scrollini
 ---
 

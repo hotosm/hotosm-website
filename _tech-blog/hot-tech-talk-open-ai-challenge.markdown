@@ -17,7 +17,7 @@ Summary Text: 'Over the past few years, HOT has taken a leadership role in exper
   50  AI engineers from the Omdena community are crunching code with us to narrow
   down which of the models will give the most optimal AI-assisted mapping for our
   communities.'
-Feature Image: "https://cdn.hotosm.org/website/AI-assisted+mapping.png"
+Feature Image: https://cdn.hotosm.org/website/AI-assisted+mapping.png
 Person: Synne Olsen
 ---
 

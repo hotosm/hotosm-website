@@ -17,7 +17,7 @@ Summary Text: Ya ha pasado dos meses desde que el primer terremoto de magnitud 7
   de apoyo continuo a las comunidades afectadas y el inicio de los esfuerzos de reconstrucción
   donde sea factible hacerlo. A medida que cambia la fase de la respuesta a desastres,
   también cambian las necesidades de datos y los requisitos de datos y calidad.
-Feature Image: "https://cdn.hotosm.org/website/Disaster_Response_PhasesC.png"
+Feature Image: https://cdn.hotosm.org/website/Disaster_Response_PhasesC.png
 Person:
 - Paul Uithol
 - Jessica Pechmann

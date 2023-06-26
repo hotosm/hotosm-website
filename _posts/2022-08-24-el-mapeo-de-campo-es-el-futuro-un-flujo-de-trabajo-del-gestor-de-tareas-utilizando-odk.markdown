@@ -2,7 +2,7 @@
 title: 'El mapeo de campo es el futuro: Un flujo de trabajo del Gestor de Tareas utilizando
   ODK'
 date: 2022-08-24 15:52:00 Z
-Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+5.33.21+PM.png"
+Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+5.33.21+PM.png
 ---
 
 **La cartografía de campo realizada por la población local es clave para el futuro del mapeo abierto. Sin embargo, las herramientas disponibles para la cartografía de campo -a pesar de que muchas son de gran calidad- no forman un ecosistema coherente que permita liberar el potencial de la cartografía de campo comunitaria. Falta algo. ¿Podría ser un Gestor de Tareas para la cartografía de campo?**

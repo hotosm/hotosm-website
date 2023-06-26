@@ -1,7 +1,7 @@
 ---
 title: Martin Noblecourt
 date: 2017-02-28 14:24:00 Z
-Photo: "https://cdn.hotosm.org/website/MartinNoblecourt.jpg"
+Photo: https://cdn.hotosm.org/website/MartinNoblecourt.jpg
 Member Type:
   Is Voting Member: true
 Project:

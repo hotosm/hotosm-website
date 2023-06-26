@@ -1,7 +1,7 @@
 ---
 title: Mary L. Marcellinus
 date: 2020-05-20 17:00:00 Z
-Photo: "https://cdn.hotosm.org/website/mary+marcellinus.jpg"
+Photo: https://cdn.hotosm.org/website/mary+marcellinus.jpg
 Member Type:
   Is Voting Member: true
 Social Media (Full URL):

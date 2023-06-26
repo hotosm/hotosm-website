@@ -1,7 +1,7 @@
 ---
 title: Danijel Schorlemmer
 date: 2020-05-20 17:00:00 Z
-Photo: "https://cdn.hotosm.org/website/DanijelSchorlemmer-e6d6b2.jpg"
+Photo: https://cdn.hotosm.org/website/DanijelSchorlemmer-e6d6b2.jpg
 Member Type:
   Is Voting Member: true
 Project:

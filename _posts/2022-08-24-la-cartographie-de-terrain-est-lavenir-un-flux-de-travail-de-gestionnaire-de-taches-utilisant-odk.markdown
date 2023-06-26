@@ -2,7 +2,7 @@
 title: 'La cartographie de terrain est l''avenir : Un flux de travail de Gestionnaire
   de Tâches utilisant ODK'
 date: 2022-08-24 14:57:00 Z
-Feature Image: "https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+5.33.21+PM.png"
+Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2022-08-24+at+5.33.21+PM.png
 Is image top aligned: true
 ---
 

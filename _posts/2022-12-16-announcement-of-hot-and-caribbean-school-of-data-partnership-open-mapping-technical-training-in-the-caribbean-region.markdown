@@ -5,7 +5,7 @@ date: 2022-12-16 18:55:00 Z
 Summary Text: We are partnering with the Mona School of Business and Management's
   (MSBM) Caribbean School of Data (CSOD) project to launch an Open Mapping Technical
   Training program in the Caribbean.
-Feature Image: "https://cdn.hotosm.org/website/51718425662_56bc5a4fad_k.jpg"
+Feature Image: https://cdn.hotosm.org/website/51718425662_56bc5a4fad_k.jpg
 Person: Shazmane Mandjee Rehamtula
 Country:
 - Guyana

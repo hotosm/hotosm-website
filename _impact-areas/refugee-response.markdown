@@ -6,7 +6,7 @@ Page Link:
   Text: Want to know more?
   Label: Download PDF Infosheet
   Link: https://drive.google.com/file/d/1w4T6j0eHGag1VznvXhHA6kbD_Zq1QTAj/preview
-src: "https://cdn.hotosm.org/website/displacement-and-safe-migration.svg"
+src: https://cdn.hotosm.org/website/displacement-and-safe-migration.svg
 summary: Coordinated service delivery for migrants and people displaced from home
   in transit, camp settings, and other informal contexts.
 block-1:

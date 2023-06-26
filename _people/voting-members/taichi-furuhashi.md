@@ -1,7 +1,7 @@
 ---
 title: Taichi Furuhashi
 date: 2015-06-04 19:59:00 Z
-Photo: "https://cdn.hotosm.org/website/taichifuruhashi.jpg"
+Photo: https://cdn.hotosm.org/website/taichifuruhashi.jpg
 Member Type:
   Is Voting Member: true
 Working Group:

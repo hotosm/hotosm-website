@@ -13,7 +13,7 @@ Summary Text: El Grupo de Trabajo de la Comunidad de Mapeo Abierto actualmente e
   organizando la segunda ronda de su programa de mentoría entre pares. Lee sobre los
   aprendizajes compartidos por los miembros de la primera ronda y descubre el valor
   de esta oportunidad para los miembros de la comunidad de mapeo abierto.
-Feature Image: "https://cdn.hotosm.org/website/Mentorship_Post_B-8dc547.png"
+Feature Image: https://cdn.hotosm.org/website/Mentorship_Post_B-8dc547.png
 Person:
 - Antonin Haas
 - Anuradha Rajanayake

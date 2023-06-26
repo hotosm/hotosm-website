@@ -1,7 +1,7 @@
 ---
 title: Everton Bortolini
 date: 2022-04-28 23:42:00 Z
-Photo: "https://cdn.hotosm.org/website/IMG_20180317_215204505_N2_1.jpg"
+Photo: https://cdn.hotosm.org/website/IMG_20180317_215204505_N2_1.jpg
 Member Type:
   Is Staff: true
 Job Title: Communications and Community Specialist

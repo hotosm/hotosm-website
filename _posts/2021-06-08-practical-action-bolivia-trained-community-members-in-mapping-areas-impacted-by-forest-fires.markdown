@@ -4,7 +4,7 @@ title: Practical Action Bolivia Trained Community Members in Mapping Areas Impac
 date: 2021-06-08 11:34:00 Z
 Summary Text: Practical Action Bolivia has completed their microgrant supporting communities
   in mapping areas that have been impacted by forest fires in the Amazon.
-Feature Image: "https://cdn.hotosm.org/website/Practical+Action+Bolivia+2.jpg"
+Feature Image: https://cdn.hotosm.org/website/Practical+Action+Bolivia+2.jpg
 Person: Practical Action Bolivia
 Country:
 - Bolivia

@@ -7,7 +7,7 @@ tags:
 Summary Text: Fabrizio Scrollini, le nouveau directeur de l'Open Mapping Hub pour
   l'Amérique latine et les Caraïbes, partage ses impressions des premiers jours de
   travail avec l'équipe du Hub, ce qui a été fait et ce qui est à venir.
-Feature Image: "https://cdn.hotosm.org/website/FuKyiuHacAEi748x.jpg"
+Feature Image: https://cdn.hotosm.org/website/FuKyiuHacAEi748x.jpg
 Person: Fabrizio Scrollini
 ---
 

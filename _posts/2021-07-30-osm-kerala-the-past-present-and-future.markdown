@@ -3,7 +3,7 @@ title: OSM Kerala - The past, present, and future.
 date: 2021-07-30 03:56:00 Z
 Summary Text: An overview of OSM Kerala's inspiring journey and continued efforts
   to strengthen the use of OSM in Kerala for disaster response and community development.
-Feature Image: "https://cdn.hotosm.org/website/OSMK3-75aeb5.jpeg"
+Feature Image: https://cdn.hotosm.org/website/OSMK3-75aeb5.jpeg
 Person:
 - Manoj Karingamadathil
 - Ark Arjun

@@ -1,7 +1,7 @@
 ---
 title: Maimouna Ndao
 date: 2022-08-12 06:35:00 Z
-Photo: "https://cdn.hotosm.org/website/Photo-a537f5.jpg"
+Photo: https://cdn.hotosm.org/website/Photo-a537f5.jpg
 Member Type:
   Is Staff: true
 Job Title: Senior Associate, Finance- West and Northern Africa

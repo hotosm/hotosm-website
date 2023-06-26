@@ -6,7 +6,7 @@ Page Link:
   Text: Want to know more?
   Label: Download PDF Infosheet
   Link: https://drive.google.com/file/d/1VcB6jd70MqrRU3eK3ABp1IRto7F6Dmm3/preview
-src: "https://cdn.hotosm.org/website/disasters-and-climate-resilience.svg"
+src: https://cdn.hotosm.org/website/disasters-and-climate-resilience.svg
 summary: Preparedness, anticipatory action, risk reduction; and responding to the
   impacts of rapid onset and prolonged natural disasters.
 block-1:

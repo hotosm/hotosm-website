@@ -1,7 +1,7 @@
 ---
 title: Tim DeWinter
 date: 2022-05-12 00:18:00 Z
-Photo: "https://cdn.hotosm.org/website/profile+pic+.jpg"
+Photo: https://cdn.hotosm.org/website/profile+pic+.jpg
 Member Type:
   Is Staff: true
 Job Title: Projects Factory Coordinator

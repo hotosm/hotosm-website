@@ -14,7 +14,7 @@ Summary Text: "hot_tech kicked off 2021 with what started out with a big idea to
   underestimates the epic time & efforts it takes to get a sprint across the line.
   \n\nWe also learned so much about the collectives we serve and how we can serve
   them better..."
-Feature Image: "https://cdn.hotosm.org/website/hmws.jpg"
+Feature Image: https://cdn.hotosm.org/website/hmws.jpg
 Person: Bo Percival
 ---
 

@@ -2,7 +2,7 @@
 title: Open Cities Mexico
 date: 2023-05-16 21:52:00 Z
 published: false
-Feature Image: "https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+2.52.17+PM.png"
+Feature Image: https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+2.52.17+PM.png
 Country:
 - Mexico
 Impact Area:

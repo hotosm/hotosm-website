@@ -4,7 +4,7 @@ date: 2023-06-21 15:13:00 Z
 published: false
 Project Summary Text: There are many projects that never advance due to lack of support.
   Which ones can be supported and how?
-Feature Image: "https://cdn.hotosm.org/website/Screenshot+2023-06-21+11.13.12+AM.png"
+Feature Image: https://cdn.hotosm.org/website/Screenshot+2023-06-21+11.13.12+AM.png
 Is image top aligned: true
 Country:
 - Peru

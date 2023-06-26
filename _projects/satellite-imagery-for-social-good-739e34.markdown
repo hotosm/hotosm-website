@@ -6,7 +6,7 @@ date: 2023-05-16 22:34:00 Z
 published: false
 Project Summary Text: Implemented by the Humanitarian OpenStreetMap Team (HOT) in
   partnership with Microsoft
-Feature Image: "https://cdn.hotosm.org/website/WNA_ESA_SatelliteImageryforSocialGood_nigeria-map-2-faded-1920x1080-05aec0.png"
+Feature Image: https://cdn.hotosm.org/website/WNA_ESA_SatelliteImageryforSocialGood_nigeria-map-2-faded-1920x1080-05aec0.png
 Country:
 - Kenya
 - Nigeria

@@ -13,7 +13,7 @@ Summary Text: Tanto si recién empiezas a crear mapas para apoyar la respuesta a
   leer consejos y ver tutoriales para mejorar tus habilidades y mantener las mejores
   prácticas. Estos son algunos de los mejores consejos de los miembros del Equipo
   de Datos de HOT.
-Feature Image: "https://cdn.hotosm.org/website/GAL+Group+for+Mapping+Tips+Post.jpg"
+Feature Image: https://cdn.hotosm.org/website/GAL+Group+for+Mapping+Tips+Post.jpg
 Person:
 - Dinar Adiatma
 - Samson Ngumenawe

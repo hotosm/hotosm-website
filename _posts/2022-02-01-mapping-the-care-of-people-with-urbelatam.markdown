@@ -5,7 +5,7 @@ Summary Text: URBELatam, a partnership of three universities, is working with th
   Preventório Community Bank to map the Morro do Preventório community near Rio de
   Janeiro. This will enable the bank to expand its services to the community and serve
   as a model and inspiration for other favela communities.
-Feature Image: "https://cdn.hotosm.org/website/Favela+Mapping+1.jpg"
+Feature Image: https://cdn.hotosm.org/website/Favela+Mapping+1.jpg
 Person:
 - Alessandra Figueiredo
 - Elena Veríssimo

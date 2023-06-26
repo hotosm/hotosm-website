@@ -11,7 +11,7 @@ tags:
 Summary Text: This is a new update on how the Alpha phase of the Open Mapping Hub
   in LATAM is finding ways to connect geospatial data, open mapping volunteers and
   communities that need data and mapping for their own purposes.
-Feature Image: "https://cdn.hotosm.org/website/hot_omh_latam_spanish_logo_rev_colour_with_tagline-2110x1176.jpeg"
+Feature Image: https://cdn.hotosm.org/website/hot_omh_latam_spanish_logo_rev_colour_with_tagline-2110x1176.jpeg
 Person: Rubén Martín
 ---
 

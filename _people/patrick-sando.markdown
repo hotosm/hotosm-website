@@ -1,7 +1,7 @@
 ---
 title: Patrick Sando
 date: 2021-08-18 13:24:00 Z
-Photo: "https://cdn.hotosm.org/website/1603613807007.jpeg"
+Photo: https://cdn.hotosm.org/website/1603613807007.jpeg
 Member Type:
   Is Staff: true
 Job Title: MERL Sr. Associate - Eastern and Southern Africa

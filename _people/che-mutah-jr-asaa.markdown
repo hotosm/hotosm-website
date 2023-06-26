@@ -1,7 +1,7 @@
 ---
 title: Che-Mutah Jr Asa'a
 date: 2022-05-06 06:48:00 Z
-Photo: "https://cdn.hotosm.org/website/profile+pic.jpg"
+Photo: https://cdn.hotosm.org/website/profile+pic.jpg
 Member Type:
   Is Staff: true
 Job Title: Global Finance Associate

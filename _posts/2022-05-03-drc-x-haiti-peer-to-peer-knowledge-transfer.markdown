@@ -4,7 +4,7 @@ date: 2022-05-03 12:09:00 Z
 Summary Text: When it became clear that the collaborative project between HOT and
   the COSMHANNE community organisation in Haiti would need a technical OSM training
   component in French, the OSM DRC community stepped in.
-Feature Image: "https://cdn.hotosm.org/website/IMG_2130.JPG"
+Feature Image: https://cdn.hotosm.org/website/IMG_2130.JPG
 Person:
 - Muluba Bienvenu
 - Wendy Delva

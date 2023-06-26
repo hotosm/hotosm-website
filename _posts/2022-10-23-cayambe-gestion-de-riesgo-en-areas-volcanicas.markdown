@@ -12,7 +12,7 @@ tags:
 Summary Text: La Gestión de riesgos en areas volcánicas en Ecuador es una actividad
   necesaria en la cual el mapeo abierto tiene un papel importante. Desde el Hub dimos
   un primer paso para lograr dicho objetivo.
-Feature Image: "https://cdn.hotosm.org/website/20220909_103057.jpg"
+Feature Image: https://cdn.hotosm.org/website/20220909_103057.jpg
 Person: Juan Arellano Valdivia
 Country:
 - Ecuador

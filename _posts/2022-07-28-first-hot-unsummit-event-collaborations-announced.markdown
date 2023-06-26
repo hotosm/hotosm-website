@@ -5,7 +5,7 @@ Summary Text: 'HOT teams up with event organizers across the world to bring huma
   open mapping to new people and places in 2022!
 
 '
-Feature Image: "https://cdn.hotosm.org/website/Collaborators+logo+image.JPG"
+Feature Image: https://cdn.hotosm.org/website/Collaborators+logo+image.JPG
 Working Group:
 - HOT Summit
 Project:

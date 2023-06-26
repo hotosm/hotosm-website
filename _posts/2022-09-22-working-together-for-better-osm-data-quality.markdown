@@ -5,7 +5,7 @@ categories:
 - data
 tags:
 - data quality
-Feature Image: "https://cdn.hotosm.org/website/unnamed-55614c.jpeg"
+Feature Image: https://cdn.hotosm.org/website/unnamed-55614c.jpeg
 Is image top aligned: true
 Person:
 - Paul Uithol

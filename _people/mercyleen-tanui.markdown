@@ -1,7 +1,7 @@
 ---
 title: Mercyleen Tanui
 date: 2021-01-07 13:11:00 Z
-Photo: "https://cdn.hotosm.org/website/Icon.png"
+Photo: https://cdn.hotosm.org/website/Icon.png
 Member Type:
   Is Staff: true
 Job Title: Information Technology Manager

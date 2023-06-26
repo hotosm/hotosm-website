@@ -12,7 +12,7 @@ tags:
 Summary Text: Risk management in volcanic areas in Ecuador is a necessary activity
   in which open mapping plays an important role. From the LATAM Hub we took a first
   step to achieve this goal.
-Feature Image: "https://cdn.hotosm.org/website/20220909_103057.jpg"
+Feature Image: https://cdn.hotosm.org/website/20220909_103057.jpg
 Person: Juan Arellano Valdivia
 Country:
 - Ecuador

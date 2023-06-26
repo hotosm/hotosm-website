@@ -1,7 +1,7 @@
 ---
 title: Janet Chapman
 date: 2017-02-28 13:54:00 Z
-Photo: "https://cdn.hotosm.org/website/JanetChapman.jpg"
+Photo: https://cdn.hotosm.org/website/JanetChapman.jpg
 Member Type:
   Is Voting Member: true
 Working Group:

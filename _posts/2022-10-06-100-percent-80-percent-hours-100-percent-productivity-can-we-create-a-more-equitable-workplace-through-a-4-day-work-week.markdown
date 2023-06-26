@@ -8,7 +8,7 @@ Summary Text: 'In the next iteration of our innovative approaches to work, HOT i
   reduced time can result in increased productivity
 
 '
-Feature Image: "https://cdn.hotosm.org/website/HOT+staff+at+SoTM.jpg"
+Feature Image: https://cdn.hotosm.org/website/HOT+staff+at+SoTM.jpg
 ---
 
 HOT has always been an innovative, people-focused organization. As new challenges emerge, we want to continue a people-focused approach to solutions. HOT has been fully remote since 2010 and was location agnostic in hiring well before the pandemic had forced organizations to go remote and reconsider their ways of working. We have kept schedules and location flexible as a fully-remote organization on the basis that we trust our staff to know when and where they do their best work. We also try to stay at the forefront of new ideas that we think will continue to enable happy, healthy, productive staff while ensuring impact. 

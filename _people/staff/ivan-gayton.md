@@ -1,7 +1,7 @@
 ---
 title: Ivan Buendía Gayton
 date: 2017-08-15 19:37:00 Z
-Photo: "https://cdn.hotosm.org/website/ivan_black_background.jpeg"
+Photo: https://cdn.hotosm.org/website/ivan_black_background.jpeg
 Member Type:
   Is Staff: true
 Job Title: Senior Humanitarian Advisor

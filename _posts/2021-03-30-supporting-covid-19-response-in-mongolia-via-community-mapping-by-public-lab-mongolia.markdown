@@ -5,7 +5,7 @@ date: 2021-03-30 10:58:00 Z
 Summary Text: In the course of their Covid-19 Rapid Response Microgrant, Public Lab
   Mongolia has put thousands of health, service, and infrastructure sites on the map
   while training a team of mappers from across the country.
-Feature Image: "https://cdn.hotosm.org/website/Public+Lab+Mongolia+Photos+1.jpg"
+Feature Image: https://cdn.hotosm.org/website/Public+Lab+Mongolia+Photos+1.jpg
 Person:
 - Public Lab Mongolia
 - Erdenetsogt Su

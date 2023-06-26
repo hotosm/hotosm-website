@@ -8,7 +8,7 @@ tags:
 - OpenStreetMap
 Summary Text: 2022 parece un buen año para la comunidad OSM latinoamericana, veamos
   que nuevas actividades se van desarrollando en los países de la región.
-Feature Image: "https://cdn.hotosm.org/website/featured.jpg"
+Feature Image: https://cdn.hotosm.org/website/featured.jpg
 Person: Juan Arellano Valdivia
 ---
 

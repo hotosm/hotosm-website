@@ -6,7 +6,7 @@ Summary Text: Four communities in Eastern and Southern Africa have been selected
   recipients of the Facebook Community Impact Microgrant. Congratulations to The Shack
   Dwellers Federation of Namibia, OpenStreetMap Uganda, The Malawi OpenStreetMap community,
   and The Center For Life Change and Development!
-Feature Image: "https://cdn.hotosm.org/website/Community+Impact+Microgrants+FB-aa87ed.png"
+Feature Image: https://cdn.hotosm.org/website/Community+Impact+Microgrants+FB-aa87ed.png
 Person: Geoffrey Kateregga
 Country:
 - Malawi

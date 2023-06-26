@@ -1,7 +1,7 @@
 ---
 title: Risham Habib
 date: 2022-06-24 11:02:00 Z
-Photo: "https://cdn.hotosm.org/website/Risham+Picture.JPG"
+Photo: https://cdn.hotosm.org/website/Risham+Picture.JPG
 Member Type:
   Is Staff: true
 Job Title: Communications and Engagement Associate - Asia Pacific

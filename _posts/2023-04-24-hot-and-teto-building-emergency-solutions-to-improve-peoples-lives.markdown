@@ -10,7 +10,7 @@ tags:
 Summary Text: How a partnership in a local event in Brazil led HOT and TETO to work
   together towards building concrete emergency solutions to improve the living conditions
   of communities in situations of precarity and poverty.
-Feature Image: "https://cdn.hotosm.org/website/IMG_3532.heif.jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG_3532.heif.jpg
 Person:
 - Carla Habif
 - 'Alessandra Figueiredo '

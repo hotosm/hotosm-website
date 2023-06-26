@@ -37,7 +37,7 @@ Block 3:
     can get started by finding available imagery to use via OpenAerialMap, plan a
     remote mapping campaign via the Tasking Manager, or set up and track a field campaign
     with MapCampaigner.
-  Image: "https://cdn.hotosm.org/website/tm4-explore.png"
+  Image: https://cdn.hotosm.org/website/tm4-explore.png
   Tools:
   - Name: OpenAerialMap
     URL: https://openaerialmap.org/

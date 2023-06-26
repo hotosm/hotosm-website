@@ -1,7 +1,7 @@
 ---
 title: Heidi Marks
 date: 2022-09-14 07:23:00 Z
-Photo: "https://cdn.hotosm.org/website/Heidi+Marks+pic.jpg"
+Photo: https://cdn.hotosm.org/website/Heidi+Marks+pic.jpg
 Member Type:
   Is Staff: true
 Job Title: Accountant

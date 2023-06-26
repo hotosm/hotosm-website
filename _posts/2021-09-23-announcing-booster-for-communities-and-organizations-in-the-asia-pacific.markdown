@@ -4,7 +4,7 @@ date: 2021-09-23 08:53:00 Z
 Summary Text: The Open Mapping Hub - Asia Pacific is excited to announce the “Booster
   Grants” to meet the hub's vision to “create a sustainable OSM ecosystem in the Asia-Pacific
   region.”
-Feature Image: "https://cdn.hotosm.org/website/AP+Booster+Grants-e21f7c.png"
+Feature Image: https://cdn.hotosm.org/website/AP+Booster+Grants-e21f7c.png
 Person: Awantika Pal
 Project:
 - 'Community development: Microgrants and Device Grants'

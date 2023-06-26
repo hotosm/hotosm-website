@@ -10,7 +10,7 @@ tags:
 Summary Text: With a microgrant from HOT, the OSM Senegal community and Healthsites.io
   have been mapping hospitals and clinics across Senegal, aiding in the country's
   Covid-19 response.
-Feature Image: "https://cdn.hotosm.org/website/HSLead.jpg"
+Feature Image: https://cdn.hotosm.org/website/HSLead.jpg
 Is image top aligned: true
 Person: Mohamet Lamine Ndiaye
 Country:

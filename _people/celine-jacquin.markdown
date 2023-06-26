@@ -1,7 +1,7 @@
 ---
 title: Céline Jacquin
 date: 2021-02-23 06:54:00 Z
-Photo: "https://cdn.hotosm.org/website/Celine.jpg"
+Photo: https://cdn.hotosm.org/website/Celine.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true

@@ -2,7 +2,7 @@
 title: La fábrica de proyectos
 date: 2023-05-16 21:08:00 Z
 published: false
-Feature Image: "https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+2.07.51+PM.png"
+Feature Image: https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+2.07.51+PM.png
 Country:
 - Peru
 Impact Area:
