@@ -2,6 +2,12 @@
 title: 'OpenCities Guatemala: San José Poaquil, Chimaltenango'
 date: 2023-05-16 22:09:00 Z
 published: false
+Project Summary Text: Los bosques de Guatemala proporcionan beneficios para la adaptación
+  al cambio climático y su mitigación. Las presiones medioambientales amenazan la
+  conservación de la biodiversidad local y el bienestar de las personas que dependen
+  de estos ecosistemas para su subsistencia. Este proyecto tiene como objetivo dotar
+  a los habitantes de San José Poaquil, Chimaltenango, de habilidades para producir
+  datos exhaustivos sobre su territorio.
 Feature Image: "/uploads/LAC_OpenCitiesGT_1.jpeg"
 Country:
 - Guatemala
