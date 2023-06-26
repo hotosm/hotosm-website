@@ -20,7 +20,7 @@ Duration:
   End Date: 2023-04-17 00:00:00 Z
 ---
 
-Open Cities es una iniciativa global que busca catalizar la creación, gestión y uso de datos abiertos para producir soluciones innovadoras para la planificación urbana y la resiliencia. 
+Open Cities es una iniciativa global que busca **catalizar la creación, gestión y uso de datos abiertos para producir soluciones innovadoras** para la planificación urbana y la resiliencia. 
 Co.Mapper Tulum es la versión de esta iniciativa que se ha implementado para la ciudad de Tulum, México, en consonancia con el Programa de Ciudades Resilientes del GFDRR.
 
 GeoID actúa como socio implementador del Co.Mapper Tulum, dentro de una asociación entre GFDRR, HOT, el gobierno de la ciudad y una variada comunidad de socios, compuesta por organizaciones científicas y tecnológicas de la región, socios de desarrollo y empresas tecnológicas.
@@ -86,7 +86,7 @@ Se creó un MOOC -destinado a formar y acompañar los 2471 municipios del país 
 
 Durante el mes de abril del 2023 se realizaron diversas actividades de cierre de actividades del proyecto. Entre ellas la principal se dio el lunes 17 en un evento en la presidencia municipal.
 
-En este evento estuvieron presentes representantes de [@CoMapper](https://twitter.com/CoMapper), [@Geoid_mx](https://twitter.com/Geoid_mx) y del equipo de Gobierno de Tulum, Quintana Roo [@Ayto_Tulum](@Ayto_Tulum). Se resumió un año de trabajo con la inducción y capacitación a la plataforma que cruza los datos locales generados y datos de **OpenStreetMap**. Esta plataforma tiene el nombre de Gtool y fue desarrollada por [@CoMapper](https://twitter.com/CoMapper), siendo el resultado del proyecto Open Cities México.
+En este evento estuvieron presentes representantes de [@CoMapper](https://twitter.com/CoMapper), [@Geoid_mx](https://twitter.com/Geoid_mx) y del equipo de Gobierno de Tulum, Quintana Roo [@Ayto_Tulum](@Ayto_Tulum). Se resumió un año de trabajo con la inducción y capacitación a la plataforma que cruza los datos locales generados y datos de **OpenStreetMap**. Esta plataforma tiene el nombre de **Gtool** y fue desarrollada por [@CoMapper](https://twitter.com/CoMapper), siendo el resultado del proyecto Open Cities México.
 
 El cierre del proyecto Open Cities México contó además con la participación de Fabrizio Scrollini, Director del Hub de Mapeo Abierto de América Latina y el Caribe, Peter Masters, Jefe global de Comunidades del [Equipo Humanitario de OpenStreetMap](https://hotosm.org/) y Celine Jacquin, Gerente de proyectos del Hub de Mapeo Abierto.
 
