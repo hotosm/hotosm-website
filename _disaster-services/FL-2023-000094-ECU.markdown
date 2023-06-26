@@ -4,8 +4,9 @@ date: 2023-06-12 18:32:00 Z
 Glide:
 - FL-2023-000094-ECU
 Event Name: Flooding in Esmeraldas, Ecuador
-Country: Ecuador
-Event type: FL Flood
+Country:
+- Ecuador
+Event type: Fl Flood
 Feature Image: Fl Flood
 Post-type: timeline
 Campaign: 'ECUADOR: FLOODS - JUNE 2023'
