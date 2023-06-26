@@ -12,7 +12,7 @@ Summary Text: Activation lead by LAC hub in collaboration with the Disastre Mana
 Feature Image: Fl Flood
 Post-type: timeline
 Campaign: 'ECUADOR: FLOODS - JUNE 2023'
-Tracking: "#ecuadorfloodsjune2023"
+Tracking: ecuadorfloodsjune2023
 Status: size-up
 Report: available
 HDX: <a href="https://data.humdata.org/organization/hot?q=ecuador">Ecuador</a>
