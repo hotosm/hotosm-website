@@ -14,6 +14,7 @@ Partner:
 - Federal University of Alagoas - UFAL
 - OpenMapDevelopment Tanzania
 - Rainbow Sensing
+- OpenDroneMap
 Duration:
   Start Date: 2022-06-27 00:00:00 Z
   End Date: 2022-07-08 00:00:00 Z
