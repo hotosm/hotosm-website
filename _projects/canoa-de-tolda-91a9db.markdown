@@ -29,7 +29,7 @@ The Canoa de Tolda project aims to train the local population of the lower basin
 The region has been suffering from the severe impacts of climate change with drastic periods of droughts and floods. Increased frequency and intensity of droughts can cause perennial rivers to become intermittent. Intermittent rivers may disappear. Likewise, the heavy rains and the lack of urban planning put at risk the communities that depend directly on the river for their basic socioeconomic activities.
 In the elaboration of the project have participated: [Sociedade Socio Ambiental do Baixo Sao Francisco - Canoa de Tolda](https://canoadetolda.org.br/), [Federal University of Alagoas - UFAL](https://ufal.br/), [OpenMapDevelopment Tanzania (OMDTZ)](https://www.omdtz.or.tz/), [Rainbow Sensing](https://rainbowsensing.com/),  [OpenDroneMap] https://opendronemap.org/ and [HOT](https://www.hotosm.org/).
 
-The project goes to ground
+## The project goes to ground
 
 Between June 27 and July 8, 2022, HOT sent a team of experts to carry out different activities with Canoa de Tolda: flood monitoring, 3D drone modeling and community mapping. This was done in the city of Ilha do Ferro, which has a sizeable population at risk.
 
