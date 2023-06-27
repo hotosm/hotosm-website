@@ -2,7 +2,7 @@
 title: Gender Equality Fund
 date: 2023-06-26 17:57:00 Z
 published: false
-Intro text: |-
+Intro Text: |-
   Historically, women and gender-diverse people have been underrepresented in the mapping community. Increasing their inclusion in mapping activities and focusing on gender-sensitive tagging can lead to a map that more accurately represents the world around us, which leads to more equitable outcomes. That is why we strive to enable gender-focused projects that directly speak to gendered issues in the disaster and humanitarian sector, as well as integrate gender-sensitive data across the rest of our [Impact Areas](https://www.hotosm.org/impact-areas/) to improve the quality of life for communities vulnerable to disasters or experiencing poverty.
 
   This fund is vested in HOT’s approach toward localization and community grant-making, and we expect to raise **$5 million US Dollars** from transformational gifts from foundations, institutions, and individual donors, which will be strategically aligned with local, female, and gender-diverse led mapping projects throughout our [four regional hubs:](https://www.hotosm.org/hubs/) Latin America and the Caribbean; East and South Africa, West and North Africa; and Asia Pacific.
@@ -25,9 +25,10 @@ block-2:
     looking to promote gender equality, here at HOT we are uniquely positioned to
     **act as a catalyst and connect both sides to make sure the that the goals of
     all parts are achieved**. '
-  Image: "/uploads/GenderEqualityFundingModel2.png"
+  Image: "/uploads/LAC_OpenCitiesGT_8.webp"
   Link: https://www.hotosm.org/living-strategy
   Action-text: Learn about our **Living Strategy**
+funding-model-image: "/uploads/GenderEqualityFundingModel2.png"
 fund-map:
   Title: Sample of HOT's Gender Equality projects
   Image: "/uploads/Artboard%201@4x.png"
