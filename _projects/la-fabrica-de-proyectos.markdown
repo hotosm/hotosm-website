@@ -69,3 +69,5 @@ Este mapa, realizado de manera grupal, es un ejemplo de cómo el mapeo abierto p
 ¡Contáctanos!
 Escribe a [hublatam@hotosm.org](hublatam@hotosm.org) con el asunto:
 Fábrica de Proyectos
+
+![LAC_fabrica_7.jpeg](/uploads/LAC_fabrica_7.jpeg)
