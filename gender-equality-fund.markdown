@@ -30,7 +30,7 @@ Block-2:
     all parts are achieved**. '
   Image: "/uploads/GenderEqualityFundingModel2.png"
   Link: https://www.hotosm.org/living-strategy
-layout: default
+layout: partner
 ---
 
 This fund is vested in HOT’s approach toward localization and community grant-making, and we expect to raise $5 million US Dollars from transformational gifts from foundations, institutions, and individual donors which will be strategically aligned with local, female and gender-diverse led mapping projects throughout our four regional hubs: Latin America and the Caribbean; East and South Africa, West and North Africa; and Asia Pacific.
