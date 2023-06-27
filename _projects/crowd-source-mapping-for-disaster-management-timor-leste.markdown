@@ -61,6 +61,7 @@ With the establishment of the [OSM Timor Leste Community](https://www.facebook.c
 In our ongoing mission to support communities and organizations in the region in getting high-quality OSM map data for humanitarian response in the region, we are committed to developing their capacity through workshops, training, and field surveys using free and mapping tools which not only provide the baseline information on the map but also increasing their situational awareness and improving decision-making in disaster management.
 We are happy to support any forms of future open mapping and data use initiatives in your community.
 
+### Photo Gallery
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/hotosm/albums/72177720305520375" title="Crowd-source mapping for Disaster Management in Timor-Leste"><img src="https://live.staticflickr.com/65535/52649437682_5acdafbcf4_z.jpg" width="640" height="480" alt="Crowd-source mapping for Disaster Management in Timor-Leste"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Please do not hesitate to contact us at harry.mahardika@hotosm.org if you would like any support on mapping for Disaster Risk Reduction.**
