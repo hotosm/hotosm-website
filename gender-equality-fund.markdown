@@ -27,6 +27,7 @@ block-2:
     all parts are achieved**. '
   Image: "/uploads/GenderEqualityFundingModel2.png"
   Link: https://www.hotosm.org/living-strategy
+  Action-text: Learn about our **Living Strategy**
 fund-map:
   Title: Sample of HOT's Gender Equality projects
   Image: "/uploads/Artboard%201@4x.png"
