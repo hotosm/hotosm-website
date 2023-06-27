@@ -30,6 +30,6 @@ block-2:
 fund-map:
   Title: Sample of HOT's Gender Equality projects
   Image: "/uploads/Artboard%201@4x.png"
-layout: partner
+layout: Funds
 ---
 
