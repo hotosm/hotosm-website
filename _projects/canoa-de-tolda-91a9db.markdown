@@ -29,7 +29,7 @@ The Canoa de Tolda project aims to train the local population of the lower basin
 ![52306050140_bc86e13af1_o (1).jpg](https://cdn.hotosm.org/website/52306050140_bc86e13af1_o+(1).jpg)
 
 The region has been suffering from the severe impacts of climate change with drastic periods of droughts and floods. Increased frequency and intensity of droughts can cause perennial rivers to become intermittent. Intermittent rivers may disappear. Likewise, the heavy rains and the lack of urban planning put at risk the communities that depend directly on the river for their basic socioeconomic activities.
-In the elaboration of the project have participated: [Sociedade Socio Ambiental do Baixo Sao Francisco - Canoa de Tolda](https://canoadetolda.org.br/), [Federal University of Alagoas - UFAL](https://ufal.br/), [OpenMapDevelopment Tanzania (OMDTZ)](https://www.omdtz.or.tz/), [Rainbow Sensing](https://rainbowsensing.com/),  [OpenDroneMap] (https://opendronemap.org/) and [HOT](https://www.hotosm.org/).
+In the elaboration of the project have participated: [Sociedade Socio Ambiental do Baixo Sao Francisco - Canoa de Tolda](https://canoadetolda.org.br/), [Federal University of Alagoas - UFAL](https://ufal.br/), [OpenMapDevelopment Tanzania (OMDTZ)](https://www.omdtz.or.tz/), [Rainbow Sensing](https://rainbowsensing.com/),  [OpenDroneMap](https://opendronemap.org/) and [HOT](https://www.hotosm.org/).
 
 ## The project goes to ground
 
