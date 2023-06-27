@@ -1,0 +1,67 @@
+---
+layout: default
+---
+
+<div class="fund">
+<header class="container what-we-do-header">
+    <h1>{{ page.title }}</h1>
+    <div class="intro">
+      <div class="intro-text">
+        {{ page['Intro Text'] }}
+      </div>
+    </div>
+  </header>
+
+  <div class="fund-body">
+
+    <div class="container">
+      <h2 class="partner-subtitle">{{ page.blocktitle }}</h2>
+
+      <div class="module-group top-image">
+        <a class="module link-through light" href="{{ page.block-1.Link }}" id="support-programs">
+          <div class="module-image">
+            <img src="{{ page.block-1.Image }}">
+          </div>
+          <div class="module-details">
+            <h3>{{ page.block-1.Title | markdownify }}</h3>
+            <div class="module-text">{{ page.block-1.Text | markdownify }}</div>
+            <p class="module-cta">{{ page.block-1.Action-text | markdownify }}</p>
+          </div>
+        </a>
+        <a class="module link-through light" href="{{ page.block-2.Link }}" id="support-programs">
+          <div class="module-image">
+            <img src="{{ page.block-2.Image }}">
+          </div>
+          <div class="module-details">
+            <h3>{{ page.block-2.Title | markdownify }}</h3>
+            <div class="module-text">{{ page.block-2.Text | markdownify }}</div>
+            <p class="module-cta">{{ page.block-2.Action-text | markdownify }}</p>
+          </div>
+        </a>
+          </a>
+      </div>
+<div class="fund-map">
+            <h2>{{ page.fund-map.Title | markdownify }}</h2>
+            <img src="{{fund-map.Image }}">
+          </div>
+
+      <div class="hr-h"></div>
+
+      <div class="container">
+        {% include donate-form.html %}
+        
+        <div class="donate-sidebar sticky-wrap">
+        <h4>Prefer other options?</h4>
+        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8VBN9QHNVKVS6" class="btn btn-primary btn-block btn-chevron">Donate through Paypal</a>
+        <a href="https://venmo.com/hotosm" class="btn btn-primary btn-block btn-chevron">Contribute with Venmo</a>
+        <p>To donate via wire transfer, please email <a href="mailto:fundraising@hotosm.org" target="_blank">fundraising@hotosm.org</a>. To donate via mailing a check, please use <a href="https://docs.google.com/document/d/1_o9MYGO9o_oMLSYaHoZzNrDtDMk_UwGSRfkcG3LMMDM/edit" target="_blank" rel="noopener noreferrer">the paper form</a>.</p>
+      </div>
+
+        <div class="hr-h"></div>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
