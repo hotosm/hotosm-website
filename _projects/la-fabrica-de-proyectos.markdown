@@ -19,7 +19,7 @@ El espacio está pensado también como un laboratorio de experimentación en la 
 
 ![LAC_fabrica_2.jpeg](/uploads/LAC_fabrica_2.jpeg)
 
-**Dale una mirada a nuestros proyectos actuales**
+# Dale una mirada a nuestros proyectos actuales
 
 ## Uso de OSM en clases de TIC en escuelas secundarias
 ### Cusco, Perú
