@@ -22,12 +22,13 @@ Duration:
 ![IMG_1654 (1).jpg](https://cdn.hotosm.org/website/IMG_1654+(1).jpg)
 
 **Canoa de Tolda is a type of traditional boat in the lower basin of the Sao Francisco River. It is also the name of a small community NGO whose purpose is to help the people who live in the valley of said river and who are affected by the behavior of the river and the basin, impacted by climate change and the use of water by of agribusiness and hydroelectricity.**
+
 The Canoa de Tolda project aims to train the local population of the lower basin of the São Francisco River to collect data that will allow, for the first time in the region, high-precision collaborative digital terrain modeling. The data will allow the mapping of populations in areas at risk of flooding with the intention of empowering them to defend their rights.
 
 ![52306050140_bc86e13af1_o (1).jpg](https://cdn.hotosm.org/website/52306050140_bc86e13af1_o+(1).jpg)
 
 The region has been suffering from the severe impacts of climate change with drastic periods of droughts and floods. Increased frequency and intensity of droughts can cause perennial rivers to become intermittent. Intermittent rivers may disappear. Likewise, the heavy rains and the lack of urban planning put at risk the communities that depend directly on the river for their basic socioeconomic activities.
-In the elaboration of the project have participated: [Sociedade Socio Ambiental do Baixo Sao Francisco - Canoa de Tolda](https://canoadetolda.org.br/), [Federal University of Alagoas - UFAL](https://ufal.br/), [OpenMapDevelopment Tanzania (OMDTZ)](https://www.omdtz.or.tz/), [Rainbow Sensing](https://rainbowsensing.com/),  [OpenDroneMap] https://opendronemap.org/ and [HOT](https://www.hotosm.org/).
+In the elaboration of the project have participated: [Sociedade Socio Ambiental do Baixo Sao Francisco - Canoa de Tolda](https://canoadetolda.org.br/), [Federal University of Alagoas - UFAL](https://ufal.br/), [OpenMapDevelopment Tanzania (OMDTZ)](https://www.omdtz.or.tz/), [Rainbow Sensing](https://rainbowsensing.com/),  [OpenDroneMap] (https://opendronemap.org/) and [HOT](https://www.hotosm.org/).
 
 ## The project goes to ground
 
