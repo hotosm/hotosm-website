@@ -30,7 +30,7 @@ El proyecto Canoa de Tolda tiene como objetivo capacitar a la población local d
 
 La región ha estado sufriendo los graves impactos del cambio climático con períodos drásticos de sequías e inundaciones. El aumento de la frecuencia e intensidad de las sequías puede hacer que los ríos perennes se vuelvan intermitentes. Los ríos intermitentes pueden desaparecer. Asimismo, las fuertes lluvias y la falta de planificación urbana ponen en riesgo a las comunidades que dependen directamente del río para sus actividades socioeconómicas básicas.
 
-En la elaboración del proyecto han participado: [Sociedade Socio Ambiental do Baixo Sao Francisco - Canoa de Tolda](https://canoadetolda.org.br/), [Federal University of Alagoas - UFAL](https://ufal.br/), [OpenMapDevelopment Tanzania (OMDTZ)](https://www.omdtz.or.tz/), [Rainbow Sensing](https://rainbowsensing.com/),  [OpenDroneMap] (https://opendronemap.org/) y [HOT](https://www.hotosm.org/).
+En la elaboración del proyecto han participado: [Sociedade Socio Ambiental do Baixo Sao Francisco - Canoa de Tolda](https://canoadetolda.org.br/), [Federal University of Alagoas - UFAL](https://ufal.br/), [OpenMapDevelopment Tanzania (OMDTZ)](https://www.omdtz.or.tz/), [Rainbow Sensing](https://rainbowsensing.com/), [OpenDroneMap](https://opendronemap.org/) y [HOT](https://www.hotosm.org/).
 
 ## El proyecto va al terreno
 
