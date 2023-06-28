@@ -1,7 +1,6 @@
 ---
 title: Maintenance and support of Field Mapping Tasking Manager (FMTM)
-date: 2023-06-28 18:15:00 Z
-published: false
+date: 2023-06-29 00:05:00 Z
 Deadline Date: 2023-07-14 00:00:00 Z
 Page Contact:
   Contact Email: rob.savoye@hotosm.org
