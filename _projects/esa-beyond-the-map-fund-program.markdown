@@ -1,20 +1,13 @@
 ---
 title: Beyond the Map Fund Program
 date: 2023-05-16 19:46:00 Z
-published: false
 Project Summary Text: Beyond the Map Fund is a new program that provides financial
   and technical support to community organizations and non-profits seeking to integrate
   open mapping data to improve their planning and response to development and humanitarian
   initiatives.
 Is Community-Led: false
-Country:
-  Key 1: Kenya
-  Key: Madagascar
 Impact Area:
 - Sustainable Cities & Communities
-Partner:
-  Key 1: Arid Lands Information Network - ALIN
-  Key: Tatirano Social Enterprise
 Duration:
   Start Date: 2023-03-01 00:00:00 Z
 ---
