@@ -74,26 +74,26 @@ This contract is expected to average 32 hours per week (HOT normally considers 4
 
 <ol> 
 <li>Responding to user needs</li>
-<ol>
+<ol type="a">
   <li>Keeping servers running</li>
 <li>Receiving, prioritizing, and acting upon bug reports</li>
 <li>Receiving, prioritizing in collaboration with the team, and acting upon feature requests</li>
 </ol>
 
 <li>Code and product quality</li>
-<ol>
+<ol type="a">
  <li>Together with other Tech staff, contractors, and volunteers, ensuring a consistent level of code quality and documentation</li>
  <li> Together with other HOT staff and users, ensure a consistent level of user experience, including good implementation of UX design, responsiveness, and reliability.</li>
 </ol>
 
 <li>Documentation and handover</li>
-<ol>
+<ol type="a">
 <li>Together with contractors and volunteers, ensure high-quality user-facing documentation for organizations and individuals using the FMTM</li>
 <li>Together with contractors and volunteers, ensure high-quality developer-facing and documentation for maintenance, deployment, and improvement of the FMTM</li>
 </ol>
 
 <li>Community engagement</li>
-<ol>
+<ol type="a">
 <li>Mentor, assist, and guide volunteers and other contributors to maximize their ability to contribute to the FMTM, feel valued and respected, and develop skills that can benefit themselves and their community both inside and outside of the
 FMTM project</li>
 <li>Promote an inclusive environment in which everyone, especially those from underrepresented and marginalized groups in the tech sector, feels welcome, supported, and valued. Given the known inequalities in the tech industry, this explicitly means valuing and supporting the contributions of women, BIPOC (Black, Indigenous, and People of Color). It also explicitly means countering the
@@ -103,7 +103,9 @@ gatekeeping that exists within the Free and Open Source Software communities, wh
 
 
 ### Who will you be working with on our team?
+
 Rob Savoye - Senior Tech Lead
+
 Ivan Gayton - Tech and Innovation Manager and Humanitarian Advisor
 
 ## Proposal & Timeline
@@ -138,8 +140,8 @@ Please submit proposals to Rob Savoye at [rob.savoye@hotosm.org](rob.savoye@hoto
 		<td style="border-left: 1px solid black">29 June 2023</td>
 	</tr>
 	<tr>
-		<td><i>Deadline for submission of written proposal</i></td>
-		<td style="border-left: 1px solid black"><b>14 July 2023 (23:59:59 EST)</b></td>
+		<td>Deadline for submission of written proposal</td>
+		<td style="border-left: 1px solid black">14 July 2023 (23:59:59 EST)</td>
 	</tr>
 
 <tr>
