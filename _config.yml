@@ -20,6 +20,21 @@ collections:
   funds:
     title: Funds
     output: true
+    block-1:
+      Title: 
+      Text: 
+      Action-text: 
+      Image: 
+      Link: 
+    block-2:
+      Title: 
+      Text: 
+      Image: 
+      Link: 
+      Action-text: 
+    fund-map:
+      Title: 
+      Image: 
   impact-areas:
     title: Impact Areas
     output: true
