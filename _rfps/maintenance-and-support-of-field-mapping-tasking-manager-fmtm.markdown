@@ -89,12 +89,11 @@ This contract is expected to average 32 hours per week (HOT normally considers 4
 * Together with contractors and volunteers, ensure high-quality developer-facing and documentation for maintenance, deployment, and improvement of the FMTM
 
 
-4. <Community engagement
+4. Community engagement
 * Mentor, assist, and guide volunteers and other contributors to maximize their ability to contribute to the FMTM, feel valued and respected, and develop skills that can benefit themselves and their community both inside and outside of the
 FMTM project
 * Promote an inclusive environment in which everyone, especially those from underrepresented and marginalized groups in the tech sector, feels welcome, supported, and valued. Given the known inequalities in the tech industry, this explicitly means valuing and supporting the contributions of women, BIPOC (Black, Indigenous, and People of Color). It also explicitly means countering the
 gatekeeping that exists within the Free and Open Source Software communities, who often assume cultural norms that are not well-known outside of the Western tech sector.
-
 
 ### Who will you be working with on our team?
 
