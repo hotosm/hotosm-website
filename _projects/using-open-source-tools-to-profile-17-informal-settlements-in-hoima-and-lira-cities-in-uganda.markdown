@@ -34,7 +34,7 @@ Over the past months, MAPRI has engaged with principal stakeholders, including c
 
 The data will be cleaned, validated, and uploaded onto OpenStreetMap, with web maps, dashboards, booklets, and hardcopy maps developed and shared with stakeholders.
 
-##Data Use
+## Data Use
 
 MapRI will share the data with the community and NGOs, including ACTogether, and the National Slum Dwellers Federation of Uganda (NSDFU) to enable settlement residents to secure tenure and improve their socio-economic conditions. Urban authorities will also use the data to bridge the gap between their plans and the priorities of residents in the settlements, combat evictions, plan relocations in disaster-stricken areas, and plan the re-organization of space and site upgrading in dense informal settlements in the two cities of Hoima and Lira.
 
