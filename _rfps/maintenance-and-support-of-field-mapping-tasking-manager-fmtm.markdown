@@ -76,20 +76,24 @@ As primarily a maintenance and support role, this contract is expected to be bas
 This contract is expected to average 32 hours per week (HOT normally considers 4 working days a full work week). However, the actual hours may vary depending on needs. During emergencies or outages, hours may exceed 32 per week, normally balanced by less hours during “slow” periods when all is working well. Life in the DevOps lane.
 
 1. Responding to user needs
+
 * Keeping servers running
 * Receiving, prioritizing, and acting upon bug reports
 * Receiving, prioritizing in collaboration with the team, and acting upon feature requests
 
 2. Code and product quality
+
 * Together with other Tech staff, contractors, and volunteers, ensuring a consistent level of code quality and documentation
 * Together with other HOT staff and users, ensure a consistent level of user experience, including good implementation of UX design, responsiveness, and reliability
 
 3. Documentation and handover
+
 * Together with contractors and volunteers, ensure high-quality user-facing documentation for organizations and individuals using the FMTM
 * Together with contractors and volunteers, ensure high-quality developer-facing and documentation for maintenance, deployment, and improvement of the FMTM
 
 
 4. Community engagement
+
 * Mentor, assist, and guide volunteers and other contributors to maximize their ability to contribute to the FMTM, feel valued and respected, and develop skills that can benefit themselves and their community both inside and outside of the
 FMTM project
 * Promote an inclusive environment in which everyone, especially those from underrepresented and marginalized groups in the tech sector, feels welcome, supported, and valued. Given the known inequalities in the tech industry, this explicitly means valuing and supporting the contributions of women, BIPOC (Black, Indigenous, and People of Color). It also explicitly means countering the
