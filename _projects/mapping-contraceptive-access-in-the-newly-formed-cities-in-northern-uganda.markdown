@@ -2,18 +2,21 @@
 title: Mapping Contraceptive Access in the Newly Formed Cities in Northern Uganda
 date: 2023-05-16 21:31:00 Z
 published: false
-Feature Image: https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+2.31.39+PM.png
+Project Summary Text: Access to contraception is a fundamental right that empowers
+  families and promotes improved reproductive health for citizens
+Feature Image: "/uploads/ESAJobOpening.jpeg"
 Country:
 - Uganda
 Impact Area:
 - Public Health
+Partner:
+- Uganda Ministry of Health
 ---
-
-<h1>Access to contraception is a fundamental right that empowers families and promotes improved reproductive health for citizens.</h1>
 
 <img src="https://cdn.hotosm.org/website/mapping_contraceptive1.jpg" alt="Amara Hub">
 
 In Uganda, the Amara Hub, under the Open Mapping Grants program, is working with the Ministry of Health to map contraceptive access sites in Northern Uganda in the newly formed cities of Lira, Gulu, and Arua. The project seeks to improve access to contraception by mapping and providing easy access to essential contraceptive health information and services through open online channels.
+
 Creating an interactive crowdsourcing tool allows community members to receive timely updates and give anonymous feedback directly to the city and health officials. As a result, citizens and authorities will be empowered to make better use of data to drive local action.
 
 Amara Hub has completed the project's first three phases and is currently implementing the final phase, which includes printing physical maps and hosting information-sharing and advocacy forums in each city.
