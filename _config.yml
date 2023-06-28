@@ -17,6 +17,9 @@ collections:
     title: Docs & Guidelines
     output: true
     permalink: "/docs/:title/"
+  funds:
+    title: Funds
+    output: true
   impact-areas:
     title: Impact Areas
     output: true
