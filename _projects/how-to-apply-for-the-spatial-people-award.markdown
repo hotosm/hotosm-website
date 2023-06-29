@@ -48,29 +48,15 @@ The application form can be found here: <a href="https://forms.gle/sW41g36w75eXA
 
 **Top tip!** Break down your description into 5 key categories: (1) who (2) what (3) where (4) why (5) how? 
 
-<table style="border-bottom: none">
-	<tr>
-		<th style="border-bottom-width: 1px">WHO?</th>
-		<td style="border-left: 1px solid black">Who do you plan to host at your event? Are they members of your existing "mapping group"? Are they new map contributors? Are they people from your class / academic course? Are they your friends? Etc.</span></th>
-	</tr>
-	<tr>
-		<td>WHAT?</td>
-		<td style="border-left: 1px solid black">You've already stated if you'll be doing remote mapping or field mapping. So tell us more! If you're planning on doing remote mapping, will you be using the Tasking Manager? Or if you're going to be doing field mapping, which tools will you use?</td>
-	</tr>
-	<tr>
-		<td>WHERE?</td>
-		<td style="border-left: 1px solid black">Tell us the location that you will be mapping</td>
-	</tr>
-	<tr>
-		<td>WHY?</td>
-		<td style="border-left: 1px solid black">Tell us why you are mapping this particular location</td>
-	</tr>
-	<tr>
-		<td>HOW?</td>
-		<td style="border-left: 1px solid black">Tell us the format of your event. Will you spend the first 20 minutes training? Will you make a presentation? Will you have validators? Etc.</td>
-	</tr>
-</table>
-<br>
+**WHO?** - Who do you plan to host at your event? Are they members of your existing "mapping group"? Are they new map contributors? Are they people from your class / academic course? Are they your friends? Etc.
+
+**WHAT?** - You've already stated if you'll be doing remote mapping or field mapping. So tell us more! If you're planning on doing remote mapping, will you be using the Tasking Manager? Or if you're going to be doing field mapping, which tools will you use?
+
+**WHERE?** - Tell us the location that you will be mapping
+
+**WHY?** - Tell us why you are mapping this particular location
+
+**HOW?** - Tell us the format of your event. Will you spend the first 20 minutes training? Will you make a presentation? Will you have validators? Etc.
 
 Please note that there is a word count on this, please stick to the word count of 400 words. Merit will not be granted to applications that go significantly over the word count (or significantly under!). 
 
