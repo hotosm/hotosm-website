@@ -4,6 +4,8 @@ date: 2023-06-30 01:56:00 Z
 published: false
 ---
 
+![_hot_omh_latam_spanish_logo_rev_colour_2023-917x552.jpg](/uploads/_hot_omh_latam_spanish_logo_rev_colour_2023-917x552.jpg)
+
 El Hub de mapeo abierto - América Latina y el Caribe tiene cuatro objetivos claros: 
 
 * Apoyar proyectos locales que trabajen con datos cartográficos abiertos, mostrando cómo pueden contribuir al bienestar de las personas.
