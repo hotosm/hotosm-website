@@ -1,7 +1,6 @@
 ---
 title: Publicações do Centro de Mapeamento Aberto da LAC
 date: 2023-05-16 22:29:00 Z
-published: false
 tags:
 - latam
 - caribe

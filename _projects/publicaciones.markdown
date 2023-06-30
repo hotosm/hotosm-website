@@ -1,7 +1,6 @@
 ---
 title: Publicaciones del Hub de Mapeo Abierto para LAC
 date: 2023-05-16 22:26:00 Z
-published: false
 tags:
 - Latam
 - caribe
