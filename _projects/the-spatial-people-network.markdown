@@ -11,6 +11,8 @@ Impact Area:
 - Sustainable Cities & Communities
 ---
 
+[Join Today](https://forms.gle/Nm8pAn4SgCcz1Y3r5)
+
 Are you planning on hosting a mapathon?
 
 Apply for the Spatial People Award and receive up to $200 to host an open mapping event locally. Mobilize your peers, and contribute towards a worthy cause.
