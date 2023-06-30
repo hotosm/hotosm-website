@@ -39,33 +39,11 @@ Tools:
 layout: project-item
 ---
 
-### How to participate as a beginner mapper:
+Thank you to everyone in the open mapping community who supported the response to the Turkey and Syria earthquakes. You have made a vital contribution.
 
-Much of the beginner-accessible mapping has already been completed, but your interest in mapping is appreciated! There are always lots of projects that are accessible to beginner mappers on the [Tasking Manager](https://tasks.hotosm.org/), and even projects that are not urgent are still important.
+### If you are an experienced validator...
 
-You can also contribute to the [MapRoulette challenges of Yer Çizenler](https://maproulette.org/browse/projects/51027) to tag the collapsed buildings from verified datasets. (Challenges not always available. Check back regularly.)
-
-We also recommend you find support and advice on the [HOTOSM slack channels](https://slack.hotosm.org/) for #disastermapping and #mappersupport
-
-### If you are already an intermediate or advanced mapper...
-
-The priorities for mapping on the HOT tasking manager are currently:
-
-* [MISSING MAPS - EARTHQUAKE SYRIA, LATAKIA DISTRICT](https://tasks.hotosm.org/projects/14230)
-
-* [M7.8 EARTHQUAKE TÜRKIYE, OSMANIYE DÖRTYOL İSKENDERUN KIRIKHAN](https://tasks.hotosm.org/projects/14233)
-
-* [M7.8 EARTHQUAKE TÜRKIYE, KAHRAMANMARAŞ](https://tasks.hotosm.org/projects/14262)
-
-You can find the complete list of projects [here](https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023).
-
-### If you are already an experienced validator...
-
-The priorities for validation on the HOT tasking manager are currently:
-
-* [M7.8 EARTHQUAKE TÜRKIYE, KAHRAMANMARAŞ](https://tasks.hotosm.org/projects/14262)
-
-* [MISSING MAPS - EARTHQUAKE SYRIA, HAREM DISTRICT](https://tasks.hotosm.org/projects/14246)
+Due to the amount of mapping that was conducted in support of this response, there is still plenty of validation to be done for the [projects in this campaign](https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023).
 
 If you are an advanced mapper and would like to join the HOT Global Validators Team, [please fill in your details here](http://bit.ly/HOTValidators).
 
@@ -87,5 +65,4 @@ And we have shared numerous other use cases via our blog and OSM diaries:
 * [Using OSM Data in the Turkey and Syria Earthquake Response](https://www.hotosm.org/updates/using-osm-data-for-the-turkey-and-syria-earthquake-response/)
 * [OpenStreetMap data in action: earthquake response](https://www.openstreetmap.org/user/pedrito1414/diary/401009)
 
-## Why is mapping after disasters so important?
-<script src="https://stories.hotosm.org/turkey_syria_eq_response_p-er-page/embed.js"></script>
+![Turkey Syria Activations March 30.png](/uploads/Turkey%20Syria%20Activations%20March%2030.png)
