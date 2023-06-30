@@ -1,6 +1,7 @@
 ---
 title: Responding to the Earthquake in Turkey and Syria
 date: 2023-02-27 17:47:00 Z
+published: false
 Feature Image: https://cdn.hotosm.org/website/Turkey+Syria+Earthquake+Image+from+EU+B.jpeg
 Country:
 - Syria
