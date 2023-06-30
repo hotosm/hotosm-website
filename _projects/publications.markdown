@@ -15,8 +15,8 @@ Impact Area:
 - Sustainable Cities & Communities
 ---
 
-## The posts
-They go from newest to oldest.
+## Publications 
+**Posts are in reverse chronological order**
 
 07/11/2022 - [América Abierta 2022, the challenge of open data
 ](https://www.hotosm.org/updates/america-abierta-2022-the-challenge-of-open-data/)
