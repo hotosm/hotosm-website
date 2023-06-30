@@ -76,10 +76,15 @@ Important is that open and (ideally) free tools are being used to create diagram
 ### Who will you be working with on our team?
 
 Architect - Rob Savoye
+
 Product Manager Tasking Manager - Ramya Ragupathy
+
 Technical Product Owner - Emilio Mariscal (w.r.t Underpass / Quality API Services)
+
 Technical Product Owner - Cristiano Giovandi and our contractor Kontur (w.r.t OAM and imagery services)
+
 Technical Product Owner - Emran/Omran Najjar (w.r.t AI assisted mapping services)
+
 Technical Product Owner - Kshitij Sharma (w.r.t map data access services)
 
 
