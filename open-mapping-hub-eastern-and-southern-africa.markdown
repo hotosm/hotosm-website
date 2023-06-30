@@ -4,6 +4,8 @@ date: 2023-06-30 02:34:00 Z
 published: false
 ---
 
+![africa-and-logo-for-shorthand-1019x573 (1).jpeg](/uploads/africa-and-logo-for-shorthand-1019x573%20(1).jpeg)
+
 The Open Mapping Hub - Eastern and Southern Africa exists to serve communities in the region by supporting the creation, maintenance, distribution, and use of high-quality open maps that are relevant for and contributed to by local communities.
 
 We work with organizations and communities across 23 countries in creating and updating free, editable, and shareable open map data in OpenStreetMap.
