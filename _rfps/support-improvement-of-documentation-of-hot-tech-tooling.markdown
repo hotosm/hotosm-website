@@ -1,7 +1,6 @@
 ---
 title: Support improvement of documentation of HOT TECH Tooling
 date: 2023-06-30 18:18:00 Z
-published: false
 Deadline Date: 2023-07-14 23:59:00 Z
 Page Contact:
   Contact Email: leen.dhondt@hotosm.org
