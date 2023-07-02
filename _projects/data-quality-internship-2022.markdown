@@ -16,7 +16,6 @@ Women, nationals of developing countries, and members of other underrepresented 
 
 During the program, participants were led through a series of webinars hosted by a range of professionals in the humanitarian and mapping sector such as Mapbox, Meta and OSGeo.  Interns received live training in a wide range of geospatial tools culminating in their ability to confidently validate the work of other mappers and introduce new/under-represented OSM communities as well as taking up leadership roles in their communities.
 
-
 The 2022 Data Quality Internship aimed to…
 
 (1) Validate as much of the Tasking Manager validation backlog as possible!
@@ -32,10 +31,8 @@ Approach
 The interns underwent comprehensive training on various geospatial tools, including iD editor, JOSM, OSMCha, Osmose, keepright, QGIS, Overpass turbo, ODK, and Mapbox. This training enabled them to confidently validate the work of other mappers and improve their geospatial data analysis and storytelling skills.  'Walter Mayeku, one of the interns said, " The internship program has been such a game changer for my mapping experience and confidence on matters OSM. I am so excited and ready to go out and be an excellent agent for data quality."
 
 
-In addition to the technical training, the interns participated in sessions aimed at improving their community engagement potential. These sessions included tips, tricks, and challenges related to the Local OSM Community Working Group, presentations and demos on OSM community channels, and "ask me anything" meetings with Youthmappers  Regional Ambassadors and HOT Working Group chairpersons/members. These meetings provided the interns with insight on how to get involved in various OSM communities and encouraged their active participation..
+In addition to the technical training, the interns participated in sessions aimed at improving their community engagement potential. These sessions included tips, tricks, and challenges related to the Local OSM Community Working Group, presentations and demos on OSM community channels, and "ask me anything" meetings with YouthMappers  Regional Ambassadors and HOT Working Group chairpersons/members. These meetings provided the interns with insight on how to get involved in various OSM communities and encouraged their active participation..
 Eray Öztürk, one of the interns said, “I learned the significance of utilizing open data to benefit the wider community.”
-
-
 
 Impact
 The interns mapped and validated: 
@@ -61,5 +58,6 @@ Furthermore, Eray Öztürk one of the interns,  played a supportive role in OSM 
 Recommendations
 To enhance the efficiency and effectiveness of the Data Quality Internship program, several recommendations have been proposed... 
 To expand the program's reach and increase diversity, it is recommended that the call for applications be published in different languages such as Spanish and Portuguese.To attract the best talent, it is recommended that the recruitment process be extended to two months to allow ample time for the application review process.
+
 To establish a more accurate map that represents realities on the ground, it is advisable to incorporate field mapping and incorporate local knowledge into the map. This may involve integrating the HOT Field Mapping Tasking Manager into the program
 To ensure the sustainability of the program, it is crucial to secure funding from donors and establish partnerships. 
