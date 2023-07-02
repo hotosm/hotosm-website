@@ -18,6 +18,8 @@ Women, nationals of developing countries, and members of other underrepresented 
 
 During the program, participants were led through a series of webinars hosted by a range of professionals in the humanitarian and mapping sector such as Mapbox, Meta and OSGeo.  Interns received live training in a wide range of geospatial tools culminating in their ability to confidently validate the work of other mappers and introduce new/under-represented OSM communities as well as taking up leadership roles in their communities.
 
+![png_20230702_112734_0000.png](/uploads/png_20230702_112734_0000.png)
+
 ## The 2022 Data Quality Internship aimed to…
 
 **(1) Validate as much of the Tasking Manager validation backlog as possible!**
@@ -33,8 +35,7 @@ The HOT Data Quality Internship employed 28 interns, with 15 identifying as men 
 ![png_20230702_104328_0000.png](/uploads/png_20230702_104328_0000.png)
 
 ## Approach
-The interns underwent comprehensive training on various geospatial tools, including iD editor, JOSM, OSMCha, Osmose, keepright, QGIS, Overpass turbo, ODK, and Mapbox. This training enabled them to confidently validate the work of other mappers and improve their geospatial data analysis and storytelling skills.  'Walter Mayeku, one of the interns said, " The internship program has been such a game changer for my mapping experience and confidence on matters OSM. I am so excited and ready to go out and be an excellent agent for data quality."
-
+The interns underwent comprehensive training on various geospatial tools, including iD editor, JOSM, OSMCha, Osmose, keepright, QGIS, Overpass turbo, ODK, and Mapbox. This training enabled them to confidently validate the work of other mappers and improve their geospatial data analysis and storytelling skills.  Walter Mayeku, one of the interns said, "The internship program has been such a game changer for my mapping experience and confidence on matters OSM. I am so excited and ready to go out and be an excellent agent for data quality."
 
 In addition to the technical training, the interns participated in sessions aimed at improving their community engagement potential. These sessions included tips, tricks, and challenges related to the Local OSM Community Working Group, presentations and demos on OSM community channels, and "ask me anything" meetings with YouthMappers  Regional Ambassadors and HOT Working Group chairpersons/members. These meetings provided the interns with insight on how to get involved in various OSM communities and encouraged their active participation.
 
