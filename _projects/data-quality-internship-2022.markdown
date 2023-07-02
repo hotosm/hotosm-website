@@ -19,12 +19,14 @@ Women, nationals of developing countries, and members of other underrepresented 
 
 During the program, participants were led through a series of webinars hosted by a range of professionals in the humanitarian and mapping sector such as Mapbox, Meta and OSGeo.  Interns received live training in a wide range of geospatial tools culminating in their ability to confidently validate the work of other mappers and introduce new/under-represented OSM communities as well as taking up leadership roles in their communities.
 
-The 2022 Data Quality Internship aimed to…
+## The 2022 Data Quality Internship aimed to…
 
-(1) Validate as much of the Tasking Manager validation backlog as possible!
+**(1) Validate as much of the Tasking Manager validation backlog as possible!**
+
 There is a large backlog of HOT projects on the [Tasking Manager](https://tasks.hotosm.org/) that are awaiting validation so there is a need to validate them to ensure the data quality conforms to [HOT’s data quality aspects](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/top_10_data_quality_aspects). During the DQI, we aimed to validate 100 projects across the 3-month internship. 
 
-(2) Diverse and engaged community of validators
+**(2) Diverse and engaged community of validators
+**
 There is a need to ensure a sustainable community of OSM contributors and make sure that there is continuity of data flow and maintenance in OSM. During the DQI, participants were coached in community engagement to work with their local osm communities.  Additionally, there are many more contributors who map, versus contributors who validate. We need to ensure that as the mapper community grows, the validator community grows simultaneously. 
 
 The HOT Data Quality Internship employed 28 interns, with 15 identifying as men and 13 identifying as women, over 3 months. 
@@ -50,17 +52,8 @@ There have been many positive outcomes of the DQI program. We have seen increase
 
 Furthermore, Eray Öztürk one of the interns,  played a supportive role in OSM Turkey during the 2023 Turkey earthquake activation  [YouTube video](https://www.youtube.com/watch?v=Ekf06r_9pjE) and [blog](https://www.hotosm.org/updates/data-quality-intern-applies-skills-in-the-turkey-and-syria-earthquake-response/), and as a result of being involved in the DQI, some have also received paid career opportunities with other organizations.
 
-
-
-
-
-
-
-
-
-Recommendations
+## Recommendations
 To enhance the efficiency and effectiveness of the Data Quality Internship program, several recommendations have been proposed... 
-To expand the program's reach and increase diversity, it is recommended that the call for applications be published in different languages such as Spanish and Portuguese.To attract the best talent, it is recommended that the recruitment process be extended to two months to allow ample time for the application review process.
-
+* To expand the program's reach and increase diversity, it is recommended that the call for applications be published in different languages such as Spanish and Portuguese.To attract the best talent, it is recommended that the recruitment process be extended to two months to allow ample time for the application review process.
 To establish a more accurate map that represents realities on the ground, it is advisable to incorporate field mapping and incorporate local knowledge into the map. This may involve integrating the HOT Field Mapping Tasking Manager into the program
 To ensure the sustainability of the program, it is crucial to secure funding from donors and establish partnerships. 
