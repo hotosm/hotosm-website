@@ -59,7 +59,7 @@ There have been many positive outcomes of the DQI program. We have seen increase
 
 Furthermore, Eray Öztürk one of the interns,  played a supportive role in OSM Turkey during the 2023 Turkey earthquake activation  [YouTube video](https://www.youtube.com/watch?v=Ekf06r_9pjE) and [blog](https://www.hotosm.org/updates/data-quality-intern-applies-skills-in-the-turkey-and-syria-earthquake-response/), and as a result of being involved in the DQI, some have also received paid career opportunities with other organizations.
 
-![png_20230702_104528_0000.png](/uploads/png_20230702_104528_0000.png)![png_20230702_103238_0000.png](/uploads/png_20230702_103238_0000.png)
+[png_20230702_103238_0000.png](/uploads/png_20230702_103238_0000.png)
 
 ## Recommendations
 To enhance the efficiency and effectiveness of the Data Quality Internship program, several recommendations have been proposed... 
