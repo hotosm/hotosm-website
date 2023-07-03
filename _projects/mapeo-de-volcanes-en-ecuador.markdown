@@ -1,7 +1,6 @@
 ---
 title: Mapeo de Volcanes en Ecuador
 date: 2023-05-16 21:20:00 Z
-published: false
 Project Summary Text: Un mapeo de comunidades, áreas de riesgo y rutas de evacuación
   en zonas volcánicas.
 Feature Image: https://cdn.hotosm.org/website/LAC_VolcanesEcuador1.jpeg

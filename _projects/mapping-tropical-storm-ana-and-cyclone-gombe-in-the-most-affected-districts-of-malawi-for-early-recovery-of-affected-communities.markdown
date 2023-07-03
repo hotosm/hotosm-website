@@ -2,7 +2,6 @@
 title: Mapping Tropical Storm Ana and Cyclone Gombe in the Most Affected Districts
   of Malawi for Early Recovery of Affected Communities
 date: 2023-05-16 21:45:00 Z
-published: false
 Project Summary Text: Tropical Storm Ana, which made landfall in Malawi on 24 January
   2022, caused heavy rainfall and strong winds in several districts in Malawi. In
   the aftermath of the Ts Ana, Cyclone Gombe also hit the same districts. As a result,

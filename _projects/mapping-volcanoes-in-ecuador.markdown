@@ -1,7 +1,6 @@
 ---
 title: Mapping Volcanoes in Ecuador
 date: 2023-05-16 21:48:00 Z
-published: false
 Project Summary Text: A mapping of communities, risk areas and evacuation routes in
   volcanic areas.
 Feature Image: https://cdn.hotosm.org/website/LAC_VolcanesEcuador1.jpeg
