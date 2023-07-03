@@ -1,7 +1,6 @@
 ---
 title: Mapeo participativo de transporte en Zitácuaro, Michoacán
 date: 2023-05-16 21:23:00 Z
-published: false
 categories:
 - access to services
 tags:
