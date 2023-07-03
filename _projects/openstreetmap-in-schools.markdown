@@ -1,9 +1,6 @@
 ---
-title: |-
-  OpenStreetMap
-  in Schools
+title: OpenStreetMap in Schools of the West Nile and Western Uganda regions
 date: 2023-05-16 22:20:00 Z
-published: false
 Project Summary Text: The Ugandan government has demonstrated a strong commitment
   to promoting information and communication technology (ICT) education in schools.
   This effort has led to an increase in computer labs and learning opportunities for
