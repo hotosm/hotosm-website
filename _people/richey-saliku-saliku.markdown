@@ -1,6 +1,7 @@
 ---
 title: Richey Saliku
 date: 2021-05-24 10:15:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/20210524_155623.jpg
 Member Type:
   Is Staff: true
