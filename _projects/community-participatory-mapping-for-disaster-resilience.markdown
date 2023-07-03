@@ -1,7 +1,6 @@
 ---
 title: Community Participatory Mapping for Disaster Resilience
 date: 2023-05-16 20:28:00 Z
-published: false
 categories:
 - Disasters and Climate Resilience
 tags:

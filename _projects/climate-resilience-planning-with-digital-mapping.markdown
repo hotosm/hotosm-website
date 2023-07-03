@@ -1,7 +1,6 @@
 ---
 title: Climate Resilience Planning with Digital Mapping
 date: 2023-05-16 20:24:00 Z
-published: false
 Project Summary Text: In the recent past, Zambia has experienced more extreme climate
   events such as droughts and floods which are particularly affecting vulnerable groups
   of people in Lusaka, Southern, Northern, North-Western, Western, and Luapula provinces.
