@@ -1,7 +1,6 @@
 ---
 title: A fábrica de projetos
 date: 2023-04-28 23:42:00 Z
-published: false
 Project Summary Text: |-
   Há muitos projetos que nunca avançam por falta de apoio.
   Quais podem ser suportados e como?

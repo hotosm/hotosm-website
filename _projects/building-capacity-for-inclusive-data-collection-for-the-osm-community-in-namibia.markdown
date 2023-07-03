@@ -3,7 +3,6 @@ title: |-
   Building Capacity for Inclusive Data Collection for the OSM Community
   in Namibia
 date: 2023-05-16 20:01:00 Z
-published: false
 tags:
 - Sustainable cities and communities
 Project Summary Text: In Namibia, informal settlements are not prioritized in the
@@ -14,10 +13,6 @@ Country:
 - Namibia
 Impact Area:
 - Sustainable Cities & Communities
-Partner:
-  Key 1: Namibia Housing Action Group
-  Key: Namibia University of Science and Technology, Department of Land and Spatial
-    Sciences
 Duration:
   Start Date: 2023-05-01 00:00:00 Z
 ---
