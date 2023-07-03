@@ -1,7 +1,6 @@
 ---
 title: Canoa de Tolda
 date: 2023-05-16 20:16:00 Z
-published: false
 Project Summary Text: Una asociacion entre HOT y Canoa de Tolda – Sociedade Socioambiental
   do Baixo São Francisco
 Feature Image: https://cdn.hotosm.org/website/52305985528_88f5b87b4b_o.jpg
