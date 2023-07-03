@@ -14,7 +14,7 @@ Impact Area:
 
 During the Covid-19 period, gender-based violence (GBV) cases rose by over 20% according to cases reported to the Ministry of Gender, Labor, and Social Development. Most of these cases involved female adolescents. With the increasing numbers, identifying and follow-up by social workers was difficult.
 
-![ESA_GBVUganda3.webp](/uploads/ESA_GBVUganda3.webp)
+![ESA_GBVUganda2.webp](/uploads/ESA_GBVUganda2.webp)
 *Photo by: CLCD, Uganda*
 
 <a href="https://www.facebook.com/centerforlifechangedevelopement/">Center for Life Change Development (CLCD)</a> developed a project to fight gender-based violence (GBV) using OSM tools in Bushenyi District, Western Uganda. The aims of the project were to reduce GBV in Bushenyi district through sensitization and awareness in communities, to introduce OSM tools to social workers, police and other stakeholders, and generate maps of administrative boundaries, police stations and health centers.
