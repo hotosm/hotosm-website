@@ -1,7 +1,6 @@
 ---
 title: 'Open Cities Guatemala: San José Poaquil, Chimaltenango'
 date: 2023-05-16 22:16:00 Z
-published: false
 Project Summary Text: Forests provide Guatemala with climate change adaptation and
   mitigation benefits. Environmental pressures threaten the conservation of local
   biodiversity and the well-being of the people who depend on these ecosystems for

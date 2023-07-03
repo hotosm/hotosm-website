@@ -1,10 +1,9 @@
 ---
 title: |-
-  FIGHTING GBV
-  USING OSM TOOLS IN WESTERN UGANDA
+  Fighting Gender-Based Violence (GBV)
+  using OpenSteetMap Tools in Western Uganda
 date: 2023-05-16 20:50:00 Z
-published: false
-Feature Image: https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+1.49.42+PM.png
+Feature Image: "/uploads/ESA_GBVUganda.jpeg"
 Country:
 - Uganda
 Impact Area:
