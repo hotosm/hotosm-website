@@ -2,7 +2,6 @@
 title: Mapping Ruboni Village Tourist Attractions on OpenStreetMap to Enhance Regional
   Tourism
 date: 2023-05-16 21:37:00 Z
-published: false
 Project Summary Text: Mapping Ruboni Village Tourist Attractions on OpenStreetMap
   to Enhance Regional Tourism
 Feature Image: https://cdn.hotosm.org/website/Screenshot+2023-05-16+at+2.36.55+PM.png

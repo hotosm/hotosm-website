@@ -1,7 +1,6 @@
 ---
 title: Mapping Contraceptive Access in the Newly Formed Cities in Northern Uganda
 date: 2023-05-16 21:31:00 Z
-published: false
 Project Summary Text: Access to contraception is a fundamental right that empowers
   families and promotes improved reproductive health for citizens
 Feature Image: "/uploads/ESAJobOpening.jpeg"
