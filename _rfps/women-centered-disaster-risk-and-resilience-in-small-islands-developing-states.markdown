@@ -1,7 +1,7 @@
 ---
 title: Women-Centered Disaster Risk & Resilience in Small Island Developing States
 date: 2023-05-17 16:54:00 Z
-Deadline Date: 2023-07-02 00:00:00 Z
+Deadline Date: 2023-07-16 17:00:00 Z
 Page Contact:
   Contact Email: sids@hotosm.org
   Label: Submission Email
@@ -15,7 +15,7 @@ Page Contact:
 	</tr>
 	<tr>
 		<td>Application close date:</td>
-		<td style="border-left: 1px solid black">July 2nd, 2023</td>
+		<td style="border-left: 1px solid black">July 16, 2023</td>
 	</tr>
 	<tr>
 		<td>Duration of project:</td>
@@ -183,7 +183,7 @@ Note that the budget available for this project is $20,000 (USD). The applicant 
 HOT applies a general policy and protocols for field work in countries where activities are carried out. Our best efforts are put to foresee general risks in considering the COVID19 pandemic context, being applicable to any location, for all members of the implementation team. Its application to the latter will allow for greater control of working conditions. This includes strict requirements for all participants in the project to observe barrier measures, recommendations depending on situations with local communities and partners. The implementer will ensure the adherence of local protocols and rules for monitoring the health of each participant in case of signs of possible contagion. Applicants are required to take the COVID-19 local situation into account in the technical proposal methodology. 
 
 <br>
-**Applications should be submitted before July 2nd, 2023, 5pm (EST) at the email [sids@hotosm.org](mailto:sids@hotosm.org)**
+**Applications should be submitted before July 16, 2023, 5pm (EST) at the email [sids@hotosm.org](mailto:sids@hotosm.org)**
 
 # V. SELECTION CRITERIA
 <br>
