@@ -1,7 +1,6 @@
 ---
 title: Open Cities Mexico
 date: 2023-05-16 21:52:00 Z
-published: false
 Project Summary Text: Supporting local policies with open collective data
 Feature Image: "/uploads/LAC_OpenCitiesMX_1.jpeg"
 Country:
