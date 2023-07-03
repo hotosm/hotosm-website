@@ -3,7 +3,6 @@ title: |-
   Using Open-Source Tools
   to Profile 17 Informal Settlements in Hoima and Lira Cities in Uganda
 date: 2023-06-13 14:38:00 Z
-published: false
 Project Summary Text: In Uganda, many of the urban poor and middle-class families
   reside in informal settlements. As the country undergoes rapid urbanization, there
   is an urgent need to plan for these settlements to provide residents with access
