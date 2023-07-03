@@ -1,9 +1,10 @@
 ---
 title: Elaine Muigai
 date: 2021-08-11 11:19:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Elaine+pict.jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Communications Associate - Eastern and Southern Africa
 Country: Kenya
 Team: Eastern and Southern Africa Hub
