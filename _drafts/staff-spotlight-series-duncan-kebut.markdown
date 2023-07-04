@@ -4,7 +4,8 @@ date: 2023-07-04 14:20:00 Z
 Summary Text: 'Each quarter, we’re featuring one of our all-star staff members in
   a Staff Spotlight Series. Staff featured in this Series have been peer-nominated
   for their superb performance and values-driven work. This quarter, we’re spotlighting:
-  Duncan Kebut (bio), a Senior Mapping Supervisor at the ESA Hub.'
+  [Duncan Kebut](https://www.hotosm.org/people/duncan-kebut/), a Senior Mapping Supervisor
+  at the ESA Hub.'
 ---
 
 ## What first attracted you to work at HOT?
