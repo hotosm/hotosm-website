@@ -37,7 +37,8 @@ Nuestros proyectos:
 
 [Nuestras publicaciones](https://www.hotosm.org/projects/publicaciones/) ([Portuguese](https://www.hotosm.org/projects/publicacoes/), [English](https://www.hotosm.org/projects/publications/))
 
-Nosotros
+## Nosotros
+
 <iframe src="https://uploads.knightlab.com/storymapjs/e120c697c1124821d49174a85168e18d/equipo-alfa-del-hub-de-mapeo-abierto-de-america-latina/index.html" frameborder="0" width="100%" height="600"></iframe>
 
 Contáctanos: [hublatam@hotosm.org ](mailto:hublatam@hotosm.org)
