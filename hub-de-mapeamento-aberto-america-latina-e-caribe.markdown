@@ -1,12 +1,13 @@
 ---
 title: Hub de Mapeamento Aberto - América Latina e Caribe
 date: 2023-07-05 17:12:00 Z
-Page contact:
+Page Contact:
   Label: Entre em contato conosco
   Contact Email: hublatam@hotosm.org
 ---
 
 Lea este post en castellano.
+
 Read this post in English.
 
 O Hub de Mapeamento Aberto - América Latina e Caribe tem quatro objetivos claros:
