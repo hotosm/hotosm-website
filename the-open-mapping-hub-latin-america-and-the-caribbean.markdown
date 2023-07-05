@@ -2,10 +2,10 @@
 title: The Open Mapping Hub - Latin America and the Caribbean
 date: 2023-06-30 01:56:00 Z
 published: false
+Hub Image: "/uploads/LAC_landingpage2.jpeg"
 Page Contact:
   Label: "¡Contáctanos!"
   Contact Email: hublatam@hotosm.org
-Hub image: "/uploads/LAC_landingpage2.jpeg"
 ---
 
 Portuguese version
