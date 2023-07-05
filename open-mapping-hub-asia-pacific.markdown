@@ -4,7 +4,7 @@ date: 2023-06-30 02:29:00 Z
 published: false
 Page Contact:
   Label: Contact us!
-  Contact email: openmappinghub.ap@hotosm.org
+  Contact Email: openmappinghub.ap@hotosm.org
 ---
 
 ![hot_omh_asia_pacific_logo_rev_colour_with_tagline-2-2129x1332.png](/uploads/hot_omh_asia_pacific_logo_rev_colour_with_tagline-2-2129x1332.png)
