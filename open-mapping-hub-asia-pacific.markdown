@@ -5,6 +5,9 @@ published: false
 Page Contact:
   Label: Contact us!
   Contact Email: openmappinghub.ap@hotosm.org
+Page Link:
+  Label: Subscribe to the AP Open Mapping Hub newsletter
+  Link: https://hotosm.us9.list-manage.com/subscribe?u=5191e27b207136970f2a9ec1b&id=c500c9856f
 ---
 
 ![hot_omh_asia_pacific_logo_rev_colour_with_tagline-2-2129x1332.png](/uploads/hot_omh_asia_pacific_logo_rev_colour_with_tagline-2-2129x1332.png)
@@ -22,7 +25,5 @@ By prioritizing local mapping organizations and communities, facilitating knowle
 * [Subscribe to the AP Open Mapping Hub newsletter](https://hotosm.us9.list-manage.com/subscribe?u=5191e27b207136970f2a9ec1b&id=c500c9856f)
 
 * [Connect with OSM Communities in the AP region](https://openstreetmap.community/)
-
-* Contact us: [openmappinghub.ap@hotosm.org](mailto:openmappinghub.ap@hotosm.org)
 
 ![AP_landingpage.jpeg](/uploads/AP_landingpage.jpeg)
