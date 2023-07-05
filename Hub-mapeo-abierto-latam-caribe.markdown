@@ -2,8 +2,8 @@
 title: Hub de mapeo abierto - América Latina y el Caribe
 date: 2023-06-30 01:56:00 Z
 published: false
-Hub Image: "/uploads/LAC_landingpage2.jpeg"
 Page Contact:
+  Hub Image: "/uploads/LAC_landingpage2.jpeg"
   Label: "¡Contáctanos!"
   Contact Email: hublatam@hotosm.org
 layout: page
