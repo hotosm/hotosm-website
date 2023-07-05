@@ -1,15 +1,19 @@
 ---
 title: Open Mapping Hub - Latin America and The Caribbean
 date: 2023-07-05 16:42:00 Z
-Hub Image: "/uploads/LAC_landingpage2.jpeg"
 Page Contact:
   Label: Contact us!
   Contact Email: hublatam@hotosm.org
+Page Link:
+  Label: Subscribe to our newsletter
+  Link: https://hotosm.us9.list-manage.com/subscribe?u=5191e27b207136970f2a9ec1b&id=b7275458c5
 ---
 
-Spanish version.
+![LAC_landingpage_English.png](/uploads/LAC_landingpage_English.png)
 
-Portuguese version.
+[Spanish version.](https://www.hotosm.org/Hub-mapeo-abierto-latam-caribe)
+
+[Portuguese version.](https://www.hotosm.org/hub-de-mapeamento-aberto-america-latina-e-caribe)
 
 The Open Mapping Hub - Latin America and the Caribbean has four clear objectives:
 
