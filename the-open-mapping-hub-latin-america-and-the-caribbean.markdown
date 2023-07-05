@@ -4,7 +4,7 @@ date: 2023-06-30 01:56:00 Z
 published: false
 Page Contact:
   Label: "¡Contáctanos!"
-  Contact email: hublatam@hotosm.org
+  Contact Email: hublatam@hotosm.org
 ---
 
 ![LAC_landingpage2.jpeg](/uploads/LAC_landingpage2.jpeg)
