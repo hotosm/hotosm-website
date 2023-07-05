@@ -7,8 +7,9 @@ Page Contact:
   Contact Email: hublatam@hotosm.org
 ---
 
-Spanish version
-Portuguese version
+Spanish version.
+
+Portuguese version.
 
 The Open Mapping Hub - Latin America and the Caribbean has four clear objectives:
 
