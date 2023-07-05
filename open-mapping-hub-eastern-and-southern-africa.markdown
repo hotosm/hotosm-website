@@ -37,7 +37,7 @@ Are you a mapping enthusiast, between 18 - 35 years, from the Eastern and Southe
 
 Our new program aims to improve OpenStreetMap (OSM) through community collaboration and to support our volunteers in the region. Join and connect with others passionate about mapping, innovation, and open data. Learn more about opportunities available to our Spatial People through this network. One such opportunity is the Spatial People Award which enables you to host a mapping event. 
 
-Join the Spatial People Network
+[Join the Spatial People Network](https://www.hotosm.org/projects/the-spatial-people-network/)
 
 # Spatial Solutions Accelerator
 
