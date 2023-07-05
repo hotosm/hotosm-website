@@ -4,6 +4,11 @@ date: 2023-06-30 02:34:00 Z
 Page Contact:
   Label: Contact us!
   Contact Email: esahub@hotosm.org
+Intro Text: Dedicated to advancing open mapping solutions for community development
+  and social impact
+Page Link:
+  Label: 'Sign up - #MapHerWorld campaign'
+  Link: https://docs.google.com/forms/d/e/1FAIpQLSfNyTzfhUn2_gnlecPfvj0HuGwKzNfsuvG-XrSArqncasNDmQ/viewform
 ---
 
 ![africa-and-logo-for-shorthand-1019x573 (1).jpeg](/uploads/africa-and-logo-for-shorthand-1019x573%20(1).jpeg)
@@ -74,3 +79,24 @@ Priority is given to projects and initiatives that:
 * Encourage additional funding through matching income from other grants, private donors, and in-kind donations.
 * Provide detailed budgets specific to project activities.
 * Demonstrate structural sustainability/continuity of the proposed project for 3-5 years.
+
+## Events
+
+### #MapHerWorld campaign
+Join us in the 100-day Map Her World campaign and make a difference in your local community! We invite you to help identify places and points of interest that are relevant to women in your area. By contributing to this project, you can help make your community more inclusive and accessible for all.
+
+Are you interested in creating positive change?
+
+[Join us](https://www.hotosm.org/projects/mapherworld/)
+
+## Podcasts
+Tune in to our podcasts to learn more about the incredible work our partners and volunteers are doing in the open mapping arena. Listen to their stories and insights, and gain a deeper understanding of the power of open mapping to drive positive social impact - start listening today!
+
+<iframe title="The esahub's Podcast" allowtransparency="true" height="315" width="100%" style="border: none; min-width: min(100%, 430px);height:315px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=ryzfj-e3f4ac-pbblog-playlist&share=1&download=1&fonts=Arial&skin=1&font-color=&rtl=0&logo_link=&btn-skin=666666&size=315" loading="lazy" allowfullscreen=""></iframe>
+
+Follow us on social media:
+
+[Twitter](https://twitter.com/openmapping_esa) | [Facebook](https://www.facebook.com/openmapping.esa) | [LinkedIn](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/) | [Instagram](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/)
+
+
+
