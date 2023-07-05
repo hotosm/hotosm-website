@@ -14,7 +14,7 @@ layout: page
 
 [Portuguese version](https://www.hotosm.org/hubs/hub-de-mapeamento-aberto-america-latina-e-caribe)
 
-[English version](https://www.hotosm.org/open-mapping-hub-latin-america-and-the-caribbean)
+[English version](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean)
 
 El Hub de mapeo abierto - América Latina y el Caribe tiene cuatro objetivos claros:
 

@@ -11,7 +11,7 @@ Page Link:
 
 ![LAC_landingpage_English.png](/uploads/LAC_landingpage_English.png)
 
-[Spanish version.](https://www.hotosm.org/Hub-mapeo-abierto-latam-caribe)
+[Spanish version.](https://www.hotosm.org/hubs/hub-mapeo-abierto-latam-caribe)
 
 [Portuguese version.](https://www.hotosm.org/hubs/hub-de-mapeamento-aberto-america-latina-e-caribe)
 
