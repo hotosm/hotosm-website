@@ -29,11 +29,43 @@ The [ESA Hub granting](https://www.hotosm.org/projects/esa-open-mapping-grants-2
 Enrich OpenStreetMap data (both already existing and generated through the grants) by increasing contributions from new communities members (specifically women and other underrepresented groups)
 * Design and implement innovative map data solutions and projects that improve the everyday lives of people in Eastern and Southern Africa in a significant way.
 
-Currently the Open Mapping Hub - Eastern and Southern Africa is supporting projects in Uganda, Kenya, Zambia, Malawi, and Namibia.  
+Currently the Open Mapping Hub - Eastern and Southern Africa is supporting projects in Uganda, Kenya, Zambia, Malawi, Namibia, and Tanzania.  
 
-<div style="display: flex; width: 100%; height: 800px; flex-direction: column; overflow: hidden; justify-content:center; align-items:center ">
-<iframe src="https://openmapping-esa.shinyapps.io/where_we_work/" style="flex-grow: 1; min-width: 800px; border: none; margin: 0; padding: 0; " title="Iframe Example"></iframe>
-</div>
+![Screenshot 2023-07-05 at 2.35.26 PM.png](/uploads/Screenshot%202023-07-05%20at%202.35.26%20PM.png)
+
+### Uganda
+
+* [Mapping Contraceptive Access in the Newly Formed Cities in Northern Uganda.](https://www.hotosm.org/projects/mapping-contraceptive-access-in-the-newly-formed-cities-in-northern-uganda/)
+
+* [Using open-source tools to profile 17 informal settlements in Hoima and Lira cities in Uganda.](https://www.hotosm.org/projects/using-open-source-tools-to-profile-17-informal-settlements-in-hoima-and-lira-cities-in-uganda/)
+
+* [Mapping Ruboni village tourism attractions.](https://www.hotosm.org/projects/mapping-ruboni-village-tourist-attractions-on-openstreetmap-to-enhance-regional-tourism/)
+
+* [OpenStreetMap in Schools - Uganda.](https://www.hotosm.org/projects/openstreetmap-in-schools/)
+
+### Kenya
+
+* [Satellite Imagery for Social Good.](https://www.hotosm.org/projects/satellite-imagery-for-social-good/)
+
+* [Community participatory mapping for Disaster Resilience.](https://www.hotosm.org/projects/community-participatory-mapping-for-disaster-resilience/)
+
+### Zambia
+
+* [Local Impact Governance.](https://www.hotosm.org/projects/usaid-local-impact-governance-activity/)
+
+* [Climate Resilience Planning with Digital Mapping.
+](https://www.hotosm.org/projects/climate-resilience-planning-with-digital-mapping/)
+### Malawi
+
+* [Mapping Cyclone Ana in the most affected districts of Malawi](https://www.hotosm.org/projects/mapping-tropical-storm-ana-and-cyclone-gombe-in-the-most-affected-districts-of-malawi-for-early-recovery-of-affected-communities/)
+
+### Namibia
+
+* [Building capacity for inclusive data collection for OSM Community in Namibia. ](https://www.hotosm.org/projects/building-capacity-for-inclusive-data-collection-for-the-osm-community-in-namibia/)
+
+### Tanzania
+
+* [Community Impact Microgrants projects.](https://omdtanzania.medium.com/?p=8ef86ff7dd93)
 
 # The Spatial People Network
 
