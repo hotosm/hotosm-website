@@ -14,7 +14,7 @@ block-2:
     <br /><br />We envision a future where all people in Eastern and Southern Africa have the opportunity to contribute to and use open mapping processes and open data in their everyday lives.
   Action-text: Learn More
   Image: https://cdn.hotosm.org/website/HOT_OMH_ESA_English_Logo_REV_COLOUR.png
-  Link: https://www.hotosm.org/open-mapping-hub-eastern-and-southern-africa
+  Link: https://www.hotosm.org/hubs/open-mapping-hub-eastern-and-southern-africa
 block-3:
   Title: West & Northern Africa
   Text: "<strong>The Open Mapping Hub - West and Northern Africa </strong> engages
@@ -27,7 +27,7 @@ block-3:
     their own purposes.<br /><br />"
   Action-text: Learn More
   Image: https://cdn.hotosm.org/website/HOT_OMH_WNA_English_Logo_REV_COLOUR.png
-  Link: https://www.hotosm.org/open-mapping-hub-west-and-northern-africa
+  Link: https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa
 block-1:
   Title: Asia Pacific
   Text: "<strong>The Open Mapping Hub - Asia Pacific (AP Hub)</strong> was established
@@ -38,9 +38,9 @@ block-1:
     (OSM)."
   Action-text: Learn More
   Image: https://cdn.hotosm.org/website/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png
-  Link: https://www.hotosm.org/open-mapping-hub-asia-pacific
+  Link: https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific
 block-4:
-  Title: LAC Hub
+  Title: Latin America and the Caribbean
   Text: "<strong>The Open Mapping Hub - Latin America and the Caribbean</strong> is
     transitioning from its “Alpha Phase” -a stage in which we have carried out activities
     to support the objectives of HOT, communities and other open mapping actors of
@@ -51,7 +51,7 @@ block-4:
     as well as some collaboration models that can be optimized in the immediate future."
   Action-text: Learn More
   Image: https://cdn.hotosm.org/website/LAC_for_Website_B.png
-  Link: https://www.hotosm.org/open-mapping-hub-latin-america-and-the-caribbean
+  Link: https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean
 layout: hubs
 ---
 
