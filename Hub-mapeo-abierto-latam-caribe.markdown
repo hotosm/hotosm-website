@@ -6,7 +6,7 @@ Page Contact:
   Label: "¡Contáctanos!"
   Contact Email: hublatam@hotosm.org
 Page Link:
-  Label: Subscribe to our newsletter
+  Label: Suscríbete a la newsletter
   Link: https://hotosm.us9.list-manage.com/subscribe?u=5191e27b207136970f2a9ec1b&id=b7275458c5
 layout: page
 ---
