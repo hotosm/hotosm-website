@@ -5,10 +5,7 @@ published: false
 Page Contact:
   Label: Contact us!
   Contact Email: WNAHub@hotosm.org
-Social Media:
-  Twitter: https://twitter.com/openmapping_wna
-  Facebook: https://www.facebook.com/Hotwnah
-  Instagram: https://www.instagram.com/open.mapping.hubs/
+link_twitter: https://twitter.com/openmapping_wna
 ---
 
 ![hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png](/uploads/hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png)
