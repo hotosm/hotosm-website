@@ -25,7 +25,7 @@ El Hub de mapeo abierto - América Latina y el Caribe tiene cuatro objetivos cla
 
 De esta forma documentaremos experiencias que habrán probado sobre el terreno conceptos, modelos y enfoques aplicables a la labor del Hub, facilitando así el desarrollo de futuras actividades como entrenamientos, procesos de mapeo, financiamiento, alianzas estratégicas, y sobre todo, alcanzar el gran objetivo de lograr una mejora en las comunidades latinoamericanas y caribeñas a través del uso de las tecnologías de datos geoespaciales.
 
-Nuestros proyectos:
+## Nuestros proyectos:
 
 * [Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda-0a2b5e/)
 
