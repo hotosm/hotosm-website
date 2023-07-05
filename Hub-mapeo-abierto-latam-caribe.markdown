@@ -6,7 +6,7 @@ Hub Image: "/uploads/LAC_landingpage2.jpeg"
 Page Contact:
   Label: "¡Contáctanos!"
   Contact Email: hublatam@hotosm.org
-layout: hub-page
+layout: page
 ---
 
 Portuguese version
