@@ -12,8 +12,8 @@ Page Contact:
   Label: "¡Contáctanos!"
   Contact Email: hublatam@hotosm.org
 Page Link:
-  Label: Subscribe to our newsletter
-  Link: ttps://hotosm.us9.list-manage.com/subscribe?u=5191e27b207136970f2a9ec1b&id=b7275458c5
+  Label: Facebook
+  Link: https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/
 layout: page
 ---
 
