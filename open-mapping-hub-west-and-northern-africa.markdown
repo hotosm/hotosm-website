@@ -1,7 +1,6 @@
 ---
 title: Open Mapping Hub - West and Northern Africa
 date: 2023-06-30 02:23:00 Z
-published: false
 Page Contact:
   Label: Contact us!
   Contact Email: WNAHub@hotosm.org
