@@ -6,7 +6,7 @@ published: false
 
 ![_hot_omh_latam_spanish_logo_rev_colour_2023-917x552.jpg](/uploads/_hot_omh_latam_spanish_logo_rev_colour_2023-917x552.jpg)
 
-El Hub de mapeo abierto - América Latina y el Caribe tiene cuatro objetivos claros: 
+El Hub de mapeo abierto - América Latina y el Caribe tiene cuatro objetivos claros:
 
 * Apoyar proyectos locales que trabajen con datos cartográficos abiertos, mostrando cómo pueden contribuir al bienestar de las personas.
 
@@ -18,19 +18,24 @@ El Hub de mapeo abierto - América Latina y el Caribe tiene cuatro objetivos cla
 
 De esta forma documentaremos experiencias que habrán probado sobre el terreno conceptos, modelos y enfoques aplicables a la labor del Hub, facilitando así el desarrollo de futuras actividades como entrenamientos, procesos de mapeo, financiamiento, alianzas estratégicas, y sobre todo, alcanzar el gran objetivo de lograr una mejora en las comunidades latinoamericanas y caribeñas a través del uso de las tecnologías de datos geoespaciales.
 
-Nuestros proyectos: 
-* Canoa de Tolda
-* Mapeo de volcanes en Ecuador
-* La Fábrica de proyectos
-* Mapeo participativo de transporte en Michoacán
-* Open Cities Guatemala
-* Open Cities México
+Nuestros proyectos:
+
+* [Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda-0a2b5e/)
+
+* [Mapeo de volcanes en Ecuador](https://www.hotosm.org/projects/mapeo-de-volcanes-en-ecuador/)
+
+* [La Fábrica de proyectos](https://www.hotosm.org/projects/la-fabrica-de-proyectos/)
+
+* [Mapeo participativo de transporte en Michoacán](https://www.hotosm.org/projects/mapeo-participativo-de-transporte-en-zitacuaro-michoacan/)
+
+* [Open Cities Guatemala](https://www.hotosm.org/projects/opencities-guatemala-ES/)
+
+* [Open Cities México](https://www.hotosm.org/projects/open-cities-mexico-dc7e44/)
 
 Nuestras publicaciones (Portuguese, English)
 
-Nosotros 
+Nosotros
 <iframe src="https://uploads.knightlab.com/storymapjs/e120c697c1124821d49174a85168e18d/equipo-alfa-del-hub-de-mapeo-abierto-de-america-latina/index.html" frameborder="0" width="100%" height="600"></iframe>
- 
 
 Contáctanos: [hublatam@hotosm.org ](mailto:hublatam@hotosm.org)
 
