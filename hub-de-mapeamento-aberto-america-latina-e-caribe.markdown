@@ -46,10 +46,5 @@ Desta forma documentaremos experiências que testaram conceitos, modelos e abord
 ### Quem Somos
 
 <iframe src="https://uploads.knightlab.com/storymapjs/e120c697c1124821d49174a85168e18d/equipo-alfa-del-hub-de-mapeo-abierto-de-america-latina/index.html" frameborder="0" width="100%" height="600"></iframe>
-        
-
-[Assine a newsletter](https://hotosm.us9.list-manage.com/subscribe?u=5191e27b207136970f2a9ec1b&id=b7275458c5) do Hub
-
-Entre em contato conosco: hublatam@hotosm.org
 
 Siga-nos em nossas redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/)
