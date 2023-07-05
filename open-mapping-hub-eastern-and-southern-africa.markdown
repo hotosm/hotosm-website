@@ -10,14 +10,13 @@ The Open Mapping Hub - Eastern and Southern Africa exists to serve communities i
 
 We work with organizations and communities across 23 countries in creating and updating free, editable, and shareable open map data in OpenStreetMap.
 
-
 We envision a future where all people in Eastern and Southern Africa have the opportunity to contribute to and use open mapping processes and open data in their everyday lives.
 
 # Eastern and Southern Africa Open Mapping Grants
 
 We believe that open map data is universal and contributes to identifying problems, monitoring change, managing and responding to events, forecasting, setting priorities, and understanding humanitarian and development trends. 
 
-The ESA Hub granting program aims to :
+The [ESA Hub granting](https://www.hotosm.org/projects/esa-open-mapping-grants-2023/) program aims to:
 
 * Work with organizations and communities in advancing their organization’s mission through OpenStreetMap data and Tools 
 Enrich OpenStreetMap data (both already existing and generated through the grants) by increasing contributions from new communities members (specifically women and other underrepresented groups)
