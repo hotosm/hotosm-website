@@ -14,7 +14,7 @@ block-2:
     <br /><br />We envision a future where all people in Eastern and Southern Africa have the opportunity to contribute to and use open mapping processes and open data in their everyday lives.
   Action-text: Learn More
   Image: https://cdn.hotosm.org/website/HOT_OMH_ESA_English_Logo_REV_COLOUR.png
-  Link: https://stories.hotosm.org/esa-homepage/index.html
+  Link: https://www.hotosm.org/open-mapping-hub-eastern-and-southern-africa
 block-3:
   Title: West & Northern Africa
   Text: "<strong>The Open Mapping Hub - West and Northern Africa </strong> engages
@@ -27,7 +27,7 @@ block-3:
     their own purposes.<br /><br />"
   Action-text: Learn More
   Image: https://cdn.hotosm.org/website/HOT_OMH_WNA_English_Logo_REV_COLOUR.png
-  Link: https://stories.hotosm.org/wna-homepage/index.html
+  Link: https://www.hotosm.org/open-mapping-hub-west-and-northern-africa
 block-1:
   Title: Asia Pacific
   Text: "<strong>The Open Mapping Hub - Asia Pacific (AP Hub)</strong> was established
@@ -38,7 +38,7 @@ block-1:
     (OSM)."
   Action-text: Learn More
   Image: https://cdn.hotosm.org/website/HOT_OMH_Asia_Pacific_Logo_REV_COLOUR.png
-  Link: https://stories.hotosm.org/ap-homepage/index.html
+  Link: https://www.hotosm.org/open-mapping-hub-asia-pacific
 block-4:
   Title: LAC Hub
   Text: "<strong>The Open Mapping Hub - Latin America and the Caribbean</strong> is
@@ -51,7 +51,7 @@ block-4:
     as well as some collaboration models that can be optimized in the immediate future."
   Action-text: Learn More
   Image: https://cdn.hotosm.org/website/LAC_for_Website_B.png
-  Link: https://stories.hotosm.org/latam-homepage/index.html
+  Link: https://www.hotosm.org/open-mapping-hub-latin-america-and-the-caribbean
 layout: hubs
 ---
 

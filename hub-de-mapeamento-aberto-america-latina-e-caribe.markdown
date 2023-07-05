@@ -13,7 +13,7 @@ Page Link:
 
 Lea este post[ en castellano](https://www.hotosm.org/Hub-mapeo-abierto-latam-caribe).
 
-Read this post in English.
+Read this post [in English](https://www.hotosm.org/open-mapping-hub-latin-america-and-the-caribbean).
 
 O Hub de Mapeamento Aberto - América Latina e Caribe tem quatro objetivos claros:
 
