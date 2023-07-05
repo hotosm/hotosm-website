@@ -22,8 +22,6 @@ By prioritizing local mapping organizations and communities, facilitating knowle
 
 * [Booster Grants](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_-_Asia_Pacific/Booster_Grants)
 
-* [Subscribe to the AP Open Mapping Hub newsletter](https://hotosm.us9.list-manage.com/subscribe?u=5191e27b207136970f2a9ec1b&id=c500c9856f)
-
 * [Connect with OSM Communities in the AP region](https://openstreetmap.community/)
 
 ![AP_landingpage.jpeg](/uploads/AP_landingpage.jpeg)
