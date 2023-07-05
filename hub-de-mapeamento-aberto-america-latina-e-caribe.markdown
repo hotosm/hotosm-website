@@ -10,7 +10,7 @@ Page Link:
   Link: https://hotosm.us9.list-manage.com/subscribe?u=5191e27b207136970f2a9ec1b&id=b7275458c5
 ---
 
-![LAC_landingpage2.jpeg](/uploads/LAC_landingpage2.jpeg)
+![LAC_landingpage_Portuguese.jpeg](/uploads/LAC_landingpage_Portuguese.jpeg)
 
 Lea este post en castellano.
 
