@@ -1,6 +1,9 @@
 ---
 title: Open Mapping Hub - Eastern and Southern Africa
 date: 2023-06-30 02:34:00 Z
+Page Contact:
+  Label: Contact us!
+  Contact Email: esahub@hotosm.org
 ---
 
 ![africa-and-logo-for-shorthand-1019x573 (1).jpeg](/uploads/africa-and-logo-for-shorthand-1019x573%20(1).jpeg)
