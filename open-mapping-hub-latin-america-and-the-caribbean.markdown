@@ -22,7 +22,7 @@ The Open Mapping Hub - Latin America and the Caribbean has four clear objectives
 
 In this way we will document experiences that have tested concepts, models and approaches applicable to the work of the Hub on the ground, thus facilitating the development of future activities such as training, mapping processes, financing, strategic alliances, and above all, reaching the great objective to achieve an improvement in Latin American and Caribbean communities through the use of geospatial data technologies.
 
-## Our projects
+### Our projects
 * [Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda/)
 * [Mapping volcanoes in Ecuador](https://www.hotosm.org/projects/mapping-volcanoes-in-ecuador/)
 * [The project factory](https://www.hotosm.org/projects/the-project-factory/)
@@ -32,10 +32,10 @@ In this way we will document experiences that have tested concepts, models and a
 
 [Our posts](https://www.hotosm.org/projects/publications/) ([Portuguese](https://www.hotosm.org/projects/publicacoes/), [Spanish](https://www.hotosm.org/projects/publicaciones/))
 
-## Our people
+### Our people
 <iframe src="https://uploads.knightlab.com/storymapjs/e120c697c1124821d49174a85168e18d/equipo-alfa-del-hub-de-mapeo-abierto-de-america-latina/index.html" frameborder="0" width="100%" height="600"></iframe>
 
-[Subscribe to our newsletter] (https://hotosm.us9.list-manage.com/subscribe?u=5191e27b207136970f2a9ec1b&id=b7275458c5)
+Subscribe to our [newsletter] (https://hotosm.us9.list-manage.com/subscribe?u=5191e27b207136970f2a9ec1b&id=b7275458c5)
 
 Follow our social media: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/)
 
