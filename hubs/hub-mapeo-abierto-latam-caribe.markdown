@@ -12,7 +12,7 @@ layout: page
 
 ![LAC_landingpage2.jpeg](/uploads/LAC_landingpage2.jpeg)
 
-[Portuguese version](https://www.hotosm.org/hub-de-mapeamento-aberto-america-latina-e-caribe)
+[Portuguese version](https://www.hotosm.org/hubs/hub-de-mapeamento-aberto-america-latina-e-caribe)
 
 [English version](https://www.hotosm.org/open-mapping-hub-latin-america-and-the-caribbean)
 
