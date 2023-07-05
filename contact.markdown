@@ -25,22 +25,22 @@ Office Locations:
   - |-
     **Open Mapping Hub - Asia Pacific**
 
-    [Open Mapping Hub - Asia Pacific](https://www.hotosm.org/hubs/asia-pacific-hub)
+    [Open Mapping Hub - Asia Pacific](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific)
     Contact us: openmappinghub.ap@hotosm.org
   - |-
     **Open Mapping Hub - Eastern & Southern Africa**
 
-    [Open Mapping Hub - Eastern & Southern Africa](https://www.hotosm.org/hubs/esa-hub)
+    [Open Mapping Hub - Eastern & Southern Africa](https://www.hotosm.org/hubs/open-mapping-hub-eastern-and-southern-africa)
     Contact us: esahub@hotosm.org
   - |-
     **Open Mapping Hub - West & Northern Africa**
 
-    [Open Mapping Hub - West & Northern Africa](https://www.hotosm.org/hubs/wna-hub)
+    [Open Mapping Hub - West & Northern Africa](https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa)
     Contact us: WNAHub@hotosm.org
   - |-
     **Open Mapping Hub - Latin America**
 
-    [Open Mapping Hub - Latin America](https://www.hotosm.org/hubs/latam-hub)
+    [Open Mapping Hub - Latin America](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean)
     Contact us: hublatam@hotosm.org
   Nav ID: office-locations
 layout: contact
