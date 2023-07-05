@@ -1,7 +1,6 @@
 ---
 title: Open Mapping Hub - Asia Pacific
 date: 2023-06-30 02:29:00 Z
-published: false
 Page Contact:
   Label: Contact us!
   Contact Email: openmappinghub.ap@hotosm.org
