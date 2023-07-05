@@ -5,9 +5,12 @@ published: false
 Page Contact:
   Label: "¡Contáctanos!"
   Contact Email: hublatam@hotosm.org
+Hub image: "/uploads/LAC_landingpage2.jpeg"
 ---
 
-![LAC_landingpage2.jpeg](/uploads/LAC_landingpage2.jpeg)
+Portuguese version
+
+English version
 
 El Hub de mapeo abierto - América Latina y el Caribe tiene cuatro objetivos claros:
 
