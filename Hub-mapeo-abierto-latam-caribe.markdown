@@ -5,7 +5,7 @@ published: false
 Page Contact:
   Label: "¡Contáctanos!"
   Contact Email: hublatam@hotosm.org
-Image: "/uploads/LAC_landingpage2.jpeg"
+Intro text: "![LAC_landingpage2.jpeg](/uploads/LAC_landingpage2.jpeg)"
 layout: page
 ---
 
