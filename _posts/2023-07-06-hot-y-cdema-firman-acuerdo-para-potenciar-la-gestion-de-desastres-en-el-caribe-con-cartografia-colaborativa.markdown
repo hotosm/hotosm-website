@@ -2,6 +2,17 @@
 title: HOT y CDEMA firman acuerdo para potenciar la gestión de desastres en el Caribe
   con cartografía colaborativa
 date: 2023-07-06 22:39:00 Z
+categories:
+- news
+tags:
+- Caribe
+- gestion de riesgos
+- mapeo abierto
+Summary Text: HOT y CDEMA -la Agencia Caribeña para el Manejo de Emergencias por Desastres-
+  han firmado un convenio de colaboración para fortalecer las capacidades tecnológicas
+  geoespaciales de CDEMA. Entérese de los detalles.
+Feature Image: "/uploads/photo_4987937622303288424_y.jpg"
+Person: Juan Arellano Valdivia
 ---
 
 HOT y el Hub de Mapeo Abierto de América Latina y el Caribe se complacen en anunciar hoy jueves 6 de julio la firma de un convenio de colaboración con CDEMA, la Agencia Caribeña para el Manejo de Emergencias por Desastres conformada por 19 países de la región, que tiene como objetivo fortalecer las capacidades tecnológicas geoespaciales de CDEMA, beneficiando así a la población a la que sirve la Agencia.
