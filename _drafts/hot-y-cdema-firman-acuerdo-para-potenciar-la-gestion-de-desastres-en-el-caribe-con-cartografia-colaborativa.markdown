@@ -15,7 +15,7 @@ Feature Image: "/uploads/photo_4987937622303288424_y.jpg"
 Person: Juan Arellano Valdivia
 ---
 
-HOT y el Hub de Mapeo Abierto de América Latina y el Caribe se complacen en anunciar hoy jueves 6 de julio la firma de un convenio de colaboración con CDEMA, la Agencia Caribeña para el Manejo de Emergencias por Desastres conformada por 19 países de la región, que tiene como objetivo fortalecer las capacidades tecnológicas geoespaciales de CDEMA, beneficiando así a la población a la que sirve la Agencia.
+HOT y el Hub de Mapeo Abierto de América Latina y el Caribe se complacen en anunciar que ayer jueves 6 de julio se firmó un convenio de colaboración con CDEMA, la Agencia Caribeña para el Manejo de Emergencias por Desastres conformada por 19 países de la región, que tiene como objetivo fortalecer las capacidades tecnológicas geoespaciales de CDEMA, beneficiando así a la población a la que sirve la Agencia.
 
 En un contexto de cambio climático, exacerbado por la reciente confirmación de la presencia del fenómeno del Niño a nivel global en los próximos meses, se hace necesario más que nunca este tipo de alianzas para apoyar el trabajo humanitario sobre el terreno.
 
