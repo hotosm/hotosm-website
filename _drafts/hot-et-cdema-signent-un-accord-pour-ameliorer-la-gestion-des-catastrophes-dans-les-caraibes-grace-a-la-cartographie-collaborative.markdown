@@ -8,13 +8,18 @@ tags:
 - Caraïbes
 - cdema
 - cartographie collaborative
+Summary Text: HOT et CDEMA - l'Agence caribéenne de gestion des urgences en cas de
+  catastrophe - ont signé un accord de collaboration pour renforcer les capacités
+  technologiques géospatiales de CDEMA.Apprenez les détails.
+Feature Image: "/uploads/photo_4987937622303288424_y.jpg"
+Person: Juan Arellano Valdivia
 ---
 
 HOT et le Hub de Cartographie Ouverte d'Amérique Latine et des Caraïbes ont le plaisir d'annoncer aujourd'hui, jeudi 6 juillet, la signature d'un accord de collaboration avec CDEMA, l'Agence caribéenne de gestion des urgences en cas de catastrophe composée de 19 pays de la région, qui vise renforcer les capacités technologiques géospatiales de la CDEMA, au bénéfice de la population desservie par l'Agence.
 
 Dans un contexte de changement climatique exacerbé par la récente confirmation de la présence du phénomène El Niño au niveau mondial dans les mois à venir, ce type d'alliance est plus que jamais nécessaire pour soutenir l'action humanitaire sur le terrain.
 
-Les domaines d'application de cet accord sont principalement :
+Les domaines d'application de cet accord, signé par Fabrizio Scrollini, Directeur du LAC Open Mapping Hub et Elizabeth Riley, Directrice Exécutive du CDEMA, sont principalement:
 
 1. **Assistance géospatiale dans les interventions d'urgence**: HOT fournira une assistance géospatiale au CDEMA par le déploiement à distance de la cartographie et de l'assistance technique dans les situations d'urgence. Cela permettra une intervention plus rapide et efficace en cas de catastrophe dans les États membres, en tirant parti du réseau mondial de volontaires cartographes de HOT.
 
