@@ -19,7 +19,7 @@ HOT y el Hub de Mapeo Abierto de América Latina y el Caribe se complacen en anu
 
 En un contexto de cambio climático, exacerbado por la reciente confirmación de la presencia del fenómeno del Niño a nivel global en los próximos meses, se hace necesario más que nunca este tipo de alianzas para apoyar el trabajo humanitario sobre el terreno.
 
-Las áreas de aplicación de este convenio son principalmente:
+Las áreas de aplicación de este convenio, firmado por Fabrizio Scrollini, Director del Hub de Mapeo Abierto LAC y Elizabeth Riley, Directora Ejecutiva de CDEMA, son principalmente:
 
 1\. **Apoyo geoespacial en respuesta a emergencias**: HOT brindará apoyo geoespacial a CDEMA a través del despliegue remoto de mapeo y soporte técnico en situaciones de emergencia. Esto permitirá una respuesta más rápida y eficiente ante desastres en los estados participantes de CDEMA, aprovechando la red global de voluntarios de mapeo de HOT.
 
