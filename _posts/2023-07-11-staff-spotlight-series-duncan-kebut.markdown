@@ -5,6 +5,7 @@ Summary Text: 'Each quarter, we’re featuring one of our all-star staff members
   a Staff Spotlight Series. Staff featured in this Series have been peer-nominated
   for their superb performance and values-driven work. This quarter, we’re spotlighting:
   Duncan Kebut, a Senior Mapping Supervisor at the ESA Hub.'
+Feature Image: "/uploads/Screenshot%202023-07-10%20170604.png"
 ---
 
 ## What first attracted you to work at HOT?
@@ -18,6 +19,9 @@ The best thing about my colleagues at HOT is their passion and dedication. They 
 ## If you could choose one word or phrase that sums up HOT, what would it be?
 
 The company culture at HOT is characterized by collaboration, innovation, and a strong sense of purpose. We work together to overcome challenges, encourage new ideas, and support each other's growth. There is a shared belief in the importance of openness, inclusivity, and leveraging technology for positive change.
+
+![Screenshot 2023-07-10 170800.png](/uploads/Screenshot%202023-07-10%20170800.png)
+*Duncan holds a Bachelor’s of Science Degree in Geomatics Engineering and master degrees in GIS from University of Nairobi. He has more than 5 years of experience in consultancy.*
 
 ## What is the most interesting project you've worked on here? 
 
