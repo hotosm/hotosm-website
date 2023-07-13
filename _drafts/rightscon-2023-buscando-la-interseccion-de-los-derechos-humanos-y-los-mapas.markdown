@@ -1,6 +1,13 @@
 ---
 title: 'RightsCon 2023: buscando la intersección de los derechos humanos y los mapas'
-date: 2023-07-08 05:16:00 Z
+date: 2023-07-13 05:16:00 Z
+categories:
+- comunidad
+- Mapping
+tags:
+- derechos humanos
+- derechos digitales
+- rightscon
 Person: Juan Arellano Valdivia
 ---
 
