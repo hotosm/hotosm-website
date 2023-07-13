@@ -1,6 +1,6 @@
 ---
 title: 'RightsCon 2023: Looking for the intersection of human rights and maps'
-date: 2023-07-13 00:51:00 Z
+date: 2023-07-13 17:51:00 Z
 categories:
 - community
 - Mapping
