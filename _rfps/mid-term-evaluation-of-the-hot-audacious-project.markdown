@@ -5,6 +5,7 @@ published: false
 Deadline Date: 2023-08-14 23:59:00 Z
 Page Contact:
   Contact Email: merlteam@hotosm.org
+  Label: Submission Email
 ---
 
 ## Terms of Reference
@@ -78,7 +79,7 @@ The following questions should be answered in demonstrating our work towards ach
 3. National & local governments and the private sector use OSM to plan and contribute to humanitarian response and national development;
 4. Humanitarian and development actors use open data to increase their effectiveness in reaching communities not previously visible.
   
-**How have the different stakeholders, i.e., underrepresented groups, government, humanitarian and development actors, and the private sector, benefited from our work?**
+*How have the different stakeholders, i.e., underrepresented groups, government, humanitarian and development actors, and the private sector, benefited from our work?*
 
 ### To what extent has HOT been efficient? How well have resources (funds, people, time) been used?
 
