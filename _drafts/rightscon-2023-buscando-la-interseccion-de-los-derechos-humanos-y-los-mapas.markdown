@@ -8,6 +8,7 @@ tags:
 - derechos humanos
 - derechos digitales
 - rightscon
+Feature Image: "/uploads/RightsCon%20General%20Promotion%20-%20Twitter%20header.png"
 Person: Juan Arellano Valdivia
 ---
 
@@ -38,7 +39,7 @@ Sin embargo, algo que me impactó fue que de todos esos 600 eventos programados 
 
 Lo que sí encontré fue varia gente interesada en proyectos de mapeo: organizaciones y personas queriendo mapear cámaras de vigilancia en la región, feminismos, comunidades invisibilizadas en los mapas oficiales, derechos, territorios, y sobre todo, encontré a antiguos y expertos colaboradores de la comunidad OSM centroamericana que esta deseosa de volver a unirse y contribuir en proyectos comunes.
 
-Conversar e intercambiar ideas con toda esta gente me resultó muy inspirador. Creo que el futuro del trabajo en torno a los mapas y los derechos humanos y digitales es prometedor y presenta numerosas oportunidades para impulsar el cambio social. A medida que avanzamos hacia una sociedad cada vez más conectada y necesitada de información geoespacial, es fundamental que nos centremos en algunos pasos clave para aprovechar al máximo este potencial:
+Conversar e intercambiar ideas con toda esta gente me resultó muy inspirador. Creo que el futuro del trabajo en torno a los mapas y los derechos humanos y digitales es prometedor y presenta numerosas oportunidades para impulsar el cambio social. A medida que avanzamos hacia una sociedad cada vez más conectada y necesitada de información geoespacial, es fundamental que nos centremos en algunas acciones clave para aprovechar al máximo este potencial:
 
 1. **Promover la colaboración y la participación inclusiva en la creación y el uso de mapas**. En otras palabras involucrar a comunidades locales, organizaciones de derechos humanos y digitales, y expertos en cartografía para garantizar que los mapas reflejen la diversidad de experiencias y necesidades. Además, es fundamental fomentar la perspectiva de género en el mapeo, para asegurar que las voces y las realidades de las mujeres y otros grupos sean consideradas en la representación cartográfica.
 
