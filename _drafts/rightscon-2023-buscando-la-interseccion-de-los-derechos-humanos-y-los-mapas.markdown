@@ -1,6 +1,7 @@
 ---
 title: 'RightsCon 2023: buscando la intersección de los derechos humanos y los mapas'
 date: 2023-07-08 05:16:00 Z
+Person: Juan Arellano Valdivia
 ---
 
 Hace algún tiempo, cuando era editor para una plataforma ciudadana global, me invitaron a hacer [cobertura remota vía Twitter](https://community.globalvoices.org/2016/04/rightscon-translation-lab-was-powered-by-gv-and-meedan/) de un evento de derechos humanos. Disfruté mucho la experiencia y sobre todo conocí bastante sobre las distintas luchas que se dan en diversas partes del mundo para defender los derechos humanos (y digitales). Ese fue mi primer contacto con la [RightsCon](https://www.rightscon.org/about-and-contact/).
