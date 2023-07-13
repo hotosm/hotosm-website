@@ -5,7 +5,6 @@ published: false
 Deadline Date: 2023-08-14 23:59:00 Z
 Page Contact:
   Contact Email: merlteam@hotosm.org
-  Label: Submission email
 ---
 
 ## Terms of Reference
@@ -70,9 +69,8 @@ We have undertaken a significant number of projects and programs with local comm
 
 The following questions should be answered in demonstrating our work towards achieving this objective.
 
-<ol>
-<li>To what extent has HOT been <b>effective?</b> Has HOT been achieving its target outcomes? And what are the intended outcomes so far?</li>
-<ol type="a">
+* To what extent has HOT been <b>effective?</b> Has HOT been achieving its target outcomes? And what are the intended outcomes so far?
+<ul>
 <li>What significant changes have HOT and its partners contributed to while working in different communities? The changes should be related to our four major outcomes in our Theory of change, which include:</li>
 <ul>
 <li>Movement building, underrepresented groups actively contribute to the map and the movement;</li>
@@ -82,13 +80,10 @@ The following questions should be answered in demonstrating our work towards ach
 </ul>
 <li>How have the different stakeholders, i.e., underrepresented groups, government, humanitarian and development actors, and the private sector, benefited from our work?
 </li>
-</ol>
-<li>To what extent has HOT been <b>efficient</b>? How well have resources (funds, people, time) been used?</li>
-<li>To what extent will HOT Projects likely achieve their intended <b>impact</b>?
-</li>
-<li>To what extent are HOT projects <b>sustainable</b>? Will the benefits last? To what extent has the capacity of HOT’s partners been strengthened to continue program implementation and/or alter their approach?</li>
-</ol>
-<br>
+</ul>
+* To what extent has HOT been <b>efficient</b>? How well have resources (funds, people, time) been used?
+* To what extent will HOT Projects likely achieve their intended <b>impact</b>?
+* To what extent are HOT projects <b>sustainable</b>? Will the benefits last? To what extent has the capacity of HOT’s partners been strengthened to continue program implementation and/or alter their approach?
 
 **Objective 2:** To document learnings about the effectiveness and efficiency of our work in our communities.
 
@@ -107,7 +102,7 @@ The following questions should be answered in demonstrating our work towards ach
 
 ## Methodology and Scope of Work
 
-###Proposed Methodology
+### Proposed Methodology
 
 For this mid-term evaluation, HOT seeks a mixed methods approach, which would include both quantitative and qualitative approaches. The integration of qualitative approaches such as Outcome Harvesting, Most Significant Change, Outcome Mapping, and Social listening are preferred. We would also like to capture the views and perspectives of local communities and partners from countries where HOT has not yet implemented any projects but are among the 94 priority countries of the Audacious Project. The consultants, in liaison with HOT, can further develop and refine the approach. The data collection methods will mainly include:
 * Document reviews: reviewing all documentation agreed upon during the inception phase.
