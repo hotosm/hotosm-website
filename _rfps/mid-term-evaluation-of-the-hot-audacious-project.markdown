@@ -69,18 +69,22 @@ We have undertaken a significant number of projects and programs with local comm
 
 The following questions should be answered in demonstrating our work towards achieving this objective.
 
-1. To what extent has HOT been effective? Has HOT been achieving its target outcomes? And what are the intended outcomes so far?
-  * What significant changes have HOT and its partners contributed to while working in different communities? The changes should be related to our four major outcomes in our Theory of change, which include:
-        
-a. Movement building, underrepresented groups actively contribute to the map and the movement;
-b. Vibrant local data ecosystems are established;
-c. National & local governments and the private sector use OSM to plan and contribute to humanitarian response and national development;
-d. Humanitarian and development actors use open data to increase their effectiveness in reaching communities not previously visible.
+## To what extent has HOT been effective? Has HOT been achieving its target outcomes? And what are the intended outcomes so far?
+
+*What significant changes have HOT and its partners contributed to while working in different communities? The changes should be related to our four major outcomes in our Theory of change, which include:*
+
+1. Movement building, underrepresented groups actively contribute to the map and the movement;
+2. Vibrant local data ecosystems are established;
+3. National & local governments and the private sector use OSM to plan and contribute to humanitarian response and national development;
+4. Humanitarian and development actors use open data to increase their effectiveness in reaching communities not previously visible.
   
-* How have the different stakeholders, i.e., underrepresented groups, government, humanitarian and development actors, and the private sector, benefited from our work?
-2. To what extent has HOT been efficient? How well have resources (funds, people, time) been used?
-3. To what extent will HOT Projects likely achieve their intended impact?
-4. To what extent are HOT projects sustainable? Will the benefits last? To what extent has the capacity of HOT’s partners been strengthened to continue program implementation and/or alter their approach?
+**How have the different stakeholders, i.e., underrepresented groups, government, humanitarian and development actors, and the private sector, benefited from our work?**
+
+## To what extent has HOT been efficient? How well have resources (funds, people, time) been used?
+
+## To what extent will HOT Projects likely achieve their intended impact?
+
+## To what extent are HOT projects sustainable? Will the benefits last? To what extent has the capacity of HOT’s partners been strengthened to continue program implementation and/or alter their approach?
 
 **Objective 2:** To document learnings about the effectiveness and efficiency of our work in our communities.
 
