@@ -1,51 +1,63 @@
 ---
 title: 'RightsCon 2023: Looking for the intersection of human rights and maps'
 date: 2023-07-13 00:51:00 Z
+categories:
+- community
+- Mapping
+tags:
+- human rights
+- digital rights
+- rightscon
+Summary Text: RightsCon, the global event that brings together activists and organizations
+  working for human rights, took place last June, and the LAC Hub was present in search
+  of maps and mappers!
+Feature Image: "/uploads/RightsCon%20General%20Promotion%20-%20Twitter%20header.png"
+Person: Juan Arellano Valdivia
 ---
 
-Hace algún tiempo, cuando era editor para una plataforma ciudadana global, me invitaron a hacer [cobertura remota vía Twitter](https://community.globalvoices.org/2016/04/rightscon-translation-lab-was-powered-by-gv-and-meedan/) de un evento de derechos humanos. Disfruté mucho la experiencia y sobre todo conocí bastante sobre las distintas luchas que se dan en diversas partes del mundo para defender los derechos humanos (y digitales). Ese fue mi primer contacto con la [RightsCon](https://www.rightscon.org/about-and-contact/).
+Some time ago, when I was an editor for a global citizen platform, I was invited to do [remote Twitter coverage](https://community.globalvoices.org/2016/04/rightscon-translation-lab-was-powered-by-gv-and-meedan/) of a human rights event. I really enjoyed the experience and above all I learned a lot about the different struggles that take place in different parts of the world to defend human (and digital) rights. That was my first contact with [RightsCon](https://www.rightscon.org/about-and-contact/).
 
-Recientemente -del 5 al 8 de junio- se llevó a cabo una nueva edición de la RightsCon en San José, Costa Rica. Esta edición era muy esperada, ya que se había anunciado para 2020 pero tuvo que ser postergada por la pandemia. Con la remisión de esta, finalmente pudo realizarse de forma presencial y en línea este año.
+From June 5 to 8, a new edition of RightsCon was held in San José, Costa Rica. This edition was highly anticipated, as it had been announced for 2020 but had to be postponed due to the pandemic. With the referral of this, it could finally be done in person and online this year.
 
-Al ser la región sede de un evento de esta magnitud, en el [Hub de Mapeo Abierto](https://www.hotosm.org/hubs/latam-hub) de América Latina y el Caribe, estimamos que la asistencia de organizaciones y activistas de la región sería considerable, por lo que resultaba importante asistir también y tomarle el pulso al evento desde nuestra propia perspectiva "cartográfica".
+As the region hosts an event of this magnitude, in the [Open Mapping Hub](https://www.hotosm.org/hubs/latam-hub) of Latin America and the Caribbean, we estimated that the assistance of organizations and activists from the region would be considerable, so it was important to attend as well and take pulse to the event from our own "cartographic" perspective.
 
 ![WhatsApp Image 2023-06-20 at 10.41.21 PM.jpg](/uploads/WhatsApp%20Image%202023-06-20%20at%2010.41.21%20PM.jpg)
 
-*Brett Solomon, ED de Access Now da el discurso de apertura y menciona a Alaa Abd El Fattah, el blogger egipcio actualmente encarcelado que participó de la RightsCon 2011.*
+*Brett Solomon, ED of Access Now gives the keynote address and mentions Alaa Abd El Fattah, the currently jailed Egyptian blogger who gave the keynote in RightsCon 2011.*
 
-En este punto cabe mencionar que si bien a primera vista no parece clara la relación entre mapas y derechos humanos, esta existe. Los mapas están vinculados a varios derechos como:
+At this point it is worth mentioning that although at first glance the relationship between maps and human rights might not seem clear, it does exist. The maps are linked to various rights such as:
 
--Derecho a la vida. La vida sucede en un territorio.
--Derecho a un territorio/nacionalidad.
--Derecho al libre tránsito.
--Derecho a la información (por ejemplo: de la oferta que existe en el territorio que se habita)
--Derecho a la representatividad (es decir, actuar y tomar decisiones en razón de la vida que sucede en ese mapa). Y lo más importante:
--El derecho a estar en el mapa.
+-Right to life. Life happens in a territory.
+-Right to a territory/nationality.
+-Right to free transit.
+-Right to information (for example: of the offer that exists in the territory inhabited)
+-Right to representativeness (that is, to act and make decisions based on the life that happens on that map). And the most important:
+-The right to be on the map.
 
-Al ser la RightsCon un evento realmente grande, asistieron cientos de personas de también cientos de organizaciones defensoras de los derechos humanos y digitales de todo el mundo. Para que tengan una idea, hubo más de [600 eventos presenciales, híbridos y online](https://rightscon.summit.tc/t/rightscon-costa-rica-2023/events/agenda). A pesar de tal envergadura, la producción estuvo a la altura y en general todo salió muy bien...
+Being a really big event, RightsCon was attended by hundreds of people from hundreds of digital and human rights organizations from all over the world. To give you an idea, there were more than [600 face-to-face, hybrid and online events](https://rightscon.summit.tc/t/rightscon-costa-rica-2023/events/agenda). Despite such a size, the production was up to the task and in general everything went very well.
 
-Por mi parte asistí a la mayor cantidad de charlas que pude, que fue menos de la mitad de las que me interesaban tanto a nivel laboral como personal. Por ejemplo estuve en "[Tejiendo soluciones comunitarias para necesidades de comunicación](https://twitter.com/Cyberjuan/status/1666103542594039813) [a través de procesos de formación](https://twitter.com/Cyberjuan/status/1666106223974834176)", en "[Community generated data, Indigenous data sovereignty, and defending Indigenous peoples' rights](https://twitter.com/Cyberjuan/status/1666163079204184064)", y "[Redes sociales libres: usos, alcances y desafíos para nuestras organizaciones](https://twitter.com/Cyberjuan/status/1666501700050362385)" para citar unas cuantas.
+From my side, I attended as many talks as I could, which was less than half of those that interested me both professionally and personally. For example, I was in "[Weaving community solutions for communication needs through training processes](https://twitter.com/Cyberjuan/status/1666103542594039813)", in "[Community generated data, Indigenous data sovereignty, and defending Indigenous peoples' rights](https://twitter.com/Cyberjuan/status/1666163079204184064)", and "[Free social networks: uses, scope and challenges for our organizations](https://twitter.com/Cyberjuan/status/1666501700050362385)" to name a few.
 
-Sin embargo, algo que me impactó fue que de todos esos 600 eventos programados [solo uno](https://rightscon.summit.tc/t/rightscon-costa-rica-2023/events/una-comunidad-del-espacio-vacio-del-mapa-digital-creando-sus-propias-soluciones-tecnologicas-fei36UsuDCAkyPfsUEKdEk) (si, uno) estuvo directamente relacionado con el mapeo o la cartografía digital. Se que no era precisamente el lugar para encontrar proyectos de mapeo como tal, pero esperaba un poquito más de proyectos que ligaran los DDHH con la cartografía abierta, dadas las posibilidades existentes.
+However, something that struck me was that of all those 600 scheduled events, [only one](https://rightscon.summit.tc/t/rightscon-costa-rica-2023/events/una-comunidad-del-espacio-vacio-del-mapa-digital-creando-sus-propias-soluciones-tecnologicas-fei36UsuDCAkyPfsUEKdEk) (yes, one) was directly related to digital mapping or cartography. I know that it was not exactly the place to find mapping projects as such, but I expected a little more projects that linked human rights with open cartography, given the existing possibilities.
 
-Lo que sí encontré fue varia gente interesada en proyectos de mapeo: organizaciones y personas queriendo mapear cámaras de vigilancia en la región, feminismos, comunidades invisibilizadas en los mapas oficiales, derechos, territorios, y sobre todo, encontré a antiguos y expertos colaboradores de la comunidad OSM centroamericana que esta deseosa de volver a unirse y contribuir en proyectos comunes.
+What I did find was various people interested in mapping projects: organizations and individuals wanting to map surveillance cameras in the region, feminisms, communities made invisible on official maps, rights, territories, and above all, I found former and expert collaborators of the Central American OSM community that is eager to get back together and contribute to common projects.
 
 ![conf3.jpg](/uploads/conf3.jpg)
 
-*Diversas charlas en la RightsCon.*
+Various talks at RightsCon*.*
 
-Conversar e intercambiar ideas con toda esta gente me resultó muy inspirador. Creo que el futuro del trabajo en torno a los mapas y los derechos humanos y digitales es prometedor y ofrece numerosas oportunidades para generar un impacto social. A medida que avanzamos hacia una sociedad cada vez más conectada y necesitada de información geoespacial, deberíamos incluir en nuestros proyectos de mapeo algunas acciones clave para lograr ese impacto:
+Talking and exchanging ideas with all these people was very inspiring. I believe that the future of work around mapping and digital and human rights is bright and offers many opportunities for social impact. As we move towards a society that is increasingly connected and in need of geospatial information, we should include some key actions in our mapping projects to achieve that impact:
 
-1. **Promover la colaboración y la participación inclusiva en la creación y el uso de mapas**. En otras palabras involucrar a comunidades locales, organizaciones de derechos humanos y digitales, y expertos en cartografía para garantizar que los mapas reflejen la diversidad de experiencias y necesidades. Además, es fundamental fomentar la perspectiva de género en el mapeo, para asegurar que las voces y las realidades de las mujeres y otros grupos sean consideradas en la representación cartográfica.
+1. **Promote collaboration and inclusive participation in the creation and use of maps**. In other words, engage local communities, digital and human rights organizations, and mapping experts to ensure that maps reflect diversity of experience and needs. In addition, it is essential to promote the gender perspective in mapping, to ensure that the voices and realities of women and other groups are considered in the cartographic representation.
 
-2. **Fortalecer las capacidades técnicas y el acceso a herramientas de mapeo colaborativas**. Es decir, brindar capacitación y recursos para que las personas y las organizaciones utilicen y contribuyan a plataformas abiertas como OpenStreetMap. Así, se fomenta la autonomía y la capacidad de las comunidades para mapear y visualizar sus realidades locales, con lo que aumentan su capacidad para hacer incidencia por sus derechos.
+2. **Strengthen technical capacities and access to collaborative mapping tools**. That is, provide training and resources for individuals and organizations to use and contribute to open platforms such as OpenStreetMap. Thus, the autonomy and capacity of communities to map and visualize their local realities is fostered, thereby increasing their capacity to advocate for their rights.
 
-3. **Abordar las cuestiones éticas y de privacidad relacionadas con el mapeo de derechos humanos y digitales**. Se deben establecer salvaguardias claras para proteger la información personal y garantizar que su uso sea coherente con los principios de transparencia y responsabilidad. Además, es importante considerar el consentimiento informado y la protección de los datos sensibles al mapear áreas que pueden ser vulnerables o conflictivas.
+3. **Address ethical and privacy issues related to digital and human rights mapping**. Clear safeguards must be established to protect personal information and ensure that its use is consistent with the principles of transparency and accountability. Furthermore, it is important to consider informed consent and the protection of sensitive data when mapping areas that may be vulnerable or conflictive.
 
-4. **Fomentar la colaboración interdisciplinaria y el intercambio de conocimientos entre expertos en derechos humanos, tecnólogos y profesionales de la cartografía**. La combinación de perspectivas y habilidades diversas puede llevar a soluciones innovadoras y ampliar la comprensión de los desafíos y oportunidades en esta intersección de conocimientos.
+4. **Foster interdisciplinary collaboration and knowledge sharing among human rights experts, technologists, and mapping professionals**. Combining diverse perspectives and skills can lead to innovative solutions and broaden understanding of the challenges and opportunities at this knowledge intersection.
 
-Aplicar estas ideas guía nos permitirá aprovechar plenamente el potencial de los mapas como herramientas para promover la equidad, la justicia social y el respeto de los derechos fundamentales, y por ende servir mejor a las comunidades con las que trabajamos.
+Applying these guiding ideas will allow us to fully harness the potential of maps as tools to promote equity, social justice and respect for fundamental rights, and thus better serve the communities with which we work.
 
-Finalmente, traté de registrar algunas de las conversaciones que tuve -y que me inspiraron las ideas esbozadas en este post- así que les dejo los enlaces para que escuchen sus ideas  y propuestas de boca de los propios involucrados. 
+Finally, I tried to record some of the conversations I had -and that inspired me  the ideas outlined in this post- so I leave you the links so you can listen the ideas and proposals from those involved.
 
-Acá con Selene Yang de Geochicas y Wikimedia, conversando sobre la importancia de tener la [perspectiva de genero en el mapeo y gestión de desastres](https://www.tiktok.com/@mapeoabierto_la/video/7244189276886404358), y también como [incluir y apoyar a las comunidades Youthmapper](https://www.tiktok.com/@mapeoabierto_la/video/7245693273925242118?lang=es). Acá con Rodrigo charlamos de [OpenStreetMap como herramienta para la incidencia política y el cambio social](https://www.tiktok.com/@mapeoabierto_la/video/7244569100196875526), de la [utilidad de OSM en la construcción de capacidades en organizaciones de la sociedad civil y ONG](https://www.tiktok.com/@mapeoabierto_la/video/7246438991539719429), y [las posibilidades de OSM en deportes como el ciclismo](https://www.tiktok.com/@mapeoabierto_la/video/7247537901586664709?lang=es). Y Jaime Gutiérrez lanzó una [convocatoria a la comunidad mapeadora centroamericana](https://www.tiktok.com/@mapeoabierto_la/video/7244961777593732357), alrededor de [temas de trabajo que pueden interesar a todos](https://www.tiktok.com/@mapeoabierto_la/video/7247110539162242309) y sobre todo [incluyendo a los mas jóvenes](https://www.tiktok.com/@mapeoabierto_la/video/7247888741551951109?lang=es).
+Here with Selene Yang from Geochicas and Wikimedia (*all following videos are in Spanish*), talking about the importance of having a [gender perspective in disaster mapping and management](https://www.tiktok.com/@mapeoabierto_la/video/7244189276886404358), and also how to [include and support Youthmapper communities](https://www.tiktok.com/@mapeoabierto_la/video/7245693273925242118?lang=es). Here with Rodrigo we talk about [OpenStreetMap as a tool for political advocacy and social change](https://www.tiktok.com/@mapeoabierto_la/video/7244569100196875526), about [the usefulness of OSM in building capacities in civil society organizations and NGOs](https://www.tiktok.com/@mapeoabierto_la/video/7246438991539719429), and [the possibilities of OSM in sports such as cycling](https://www.tiktok.com/@mapeoabierto_la/video/7247537901586664709?lang=es). And Jaime Gutiérrez sent a[ call to the Central American mapping community](https://www.tiktok.com/@mapeoabierto_la/video/7244961777593732357), around [work topics that may interest everyone](https://www.tiktok.com/@mapeoabierto_la/video/7247110539162242309) and especially [including the youngest](https://www.tiktok.com/@mapeoabierto_la/video/7247888741551951109?lang=es).
