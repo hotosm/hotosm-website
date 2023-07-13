@@ -25,7 +25,7 @@ Al ser la región sede de un evento de esta magnitud, en el [Hub de Mapeo Abiert
 
 *Brett Solomon, ED de Access Now da el discurso de apertura y menciona a Alaa Abd El Fattah, el blogger egipcio actualmente encarcelado que dio el discurso de apertura de la RightsCon 2011.*
 
-En este punto cabe mencionar que si bien a primera vista no parece clara la relación entre mapas y derechos humanos, esta existe. Los mapas están vinculados a varios derechos como:
+En este punto cabe mencionar que si bien a primera vista podría no parecer clara la relación entre mapas y derechos humanos, esta existe. Los mapas están vinculados a varios derechos como:
 
 -Derecho a la vida. La vida sucede en un territorio.
 -Derecho a un territorio/nacionalidad.
