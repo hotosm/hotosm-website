@@ -19,7 +19,7 @@ Hace algún tiempo, cuando era editor para una plataforma ciudadana global, me i
 
 Recientemente -del 5 al 8 de junio- se llevó a cabo una nueva edición de la RightsCon en San José, Costa Rica. Esta edición era muy esperada, ya que se había anunciado para 2020 pero tuvo que ser postergada por la pandemia. Con la remisión de esta, finalmente pudo realizarse de forma presencial y en línea este año.
 
-Al ser la región sede de un evento de esta magnitud, en el [Hub de Mapeo Abierto](https://www.hotosm.org/hubs/latam-hub) de América Latina y el Caribe, estimamos que la asistencia de organizaciones y activistas de la región sería considerable, por lo que resultaba importante asistir también y tomarle el pulso al evento desde nuestra propia perspectiva.
+Al ser la región sede de un evento de esta magnitud, en el [Hub de Mapeo Abierto](https://www.hotosm.org/hubs/latam-hub) de América Latina y el Caribe, estimamos que la asistencia de organizaciones y activistas de la región sería considerable, por lo que resultaba importante asistir también y tomarle el pulso al evento desde nuestra propia perspectiva "cartográfica".
 
 ![WhatsApp Image 2023-06-20 at 10.41.21 PM.jpg](/uploads/WhatsApp%20Image%202023-06-20%20at%2010.41.21%20PM.jpg)
 
