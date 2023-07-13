@@ -1,6 +1,6 @@
 ---
 title: Mid-Term Evaluation of the HOT Audacious Project
-date: 2023-07-13 16:06:00 Z
+date: 2023-07-17 01:06:00 Z
 published: false
 ---
 
@@ -87,238 +87,95 @@ The following questions should be answered in demonstrating our work towards ach
 </ol>
 <br>
 
-Objective 2:
-What lessons can be identified regarding the effectiveness and efficiency of implementing projects at the Hubs and global levels?
-Objective 3: To propose actionable and pragmatic recommendations that inform HOT’s current and future portfolio of programs and projects\*
+**Objective 2:** To document learnings about the effectiveness and efficiency of our work in our communities.
+
+The following questions should be answered in demonstrating our work towards achieving Objective 2:
+
+1. What lessons can be identified regarding the **effectiveness** and **efficiency** of implementing projects at the Hubs and global levels?
+
+**Objective 3:** To propose actionable and pragmatic recommendations that inform HOT’s current and future portfolio of programs and projects\*
+
 The following questions should be answered in demonstrating our work towards achieving Objective 3:
-What aspects of the HOT Audacious project should be scaled up?
-What could be done differently?
-What programs or projects should be dropped?
+1. What aspects of the HOT Audacious project should be scaled up?
+2. What could be done differently?
+3. What programs or projects should be dropped?
 
 \*Subject to discussion with hired Consultant(s)
 
-# II. SCOPE OF WORK
+## Methodology and Scope of Work
 
-<br>
-SIDS are a distinct group of 38 UN Member States and 20 Non-UN Members/Associate Members of United Nations regional commissions that face unique social, economic and environmental vulnerabilities. The list of SIDS according to the UN can be found [here](https://www.un.org/ohrlls/content/list-sids). The WC-DRR-SIDS program is a global program being implemented by the Applied Mapping and Project Support team focused on implementing projects on disaster and risk resilience and will be conducted in 12 SIDS from all four hub-regions that HOT is working in. In its pilot phase, the program is being implemented in 3 small islands—Trinidad and Tobago, Timor-Leste, and Saloum Islands in Senegal—and is now expanding to 9 more SIDS for the second phase of the program. The following 21 SIDS are eligible to submit their RFPs for this program:
-<br>
+###Proposed Methodology
 
-<table style="border-bottom: none">
-<caption style="caption-side:bottom"><br>\* Least developed</caption>
-<tr>
-<th style="border-bottom-width: 2px"><span style="font-weight: bold">Asia-Pacific</span></th>
-<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Latin America & Caribbean</span></th>
-<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Western & Northern Africa</span></th>
-<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Eastern & Southern Africa</span></th>
-</tr>
-<tr>
-<td>Solomon Islands\*</td>
-<td style="border-left: 1px solid black">Guyana</td>
-<td style="border-left: 1px solid black">Cabo Verde</td>
-<td style="border-left: 1px solid black">Mauritius</td>
-</tr>
-<tr>
-<td>Federated States of Micronesia</td>
-<td style="border-left: 1px solid black">Haiti\*</td>
-<td style="border-left: 1px solid black">Guinea-Bissau\*</td>
-<td style="border-left: 1px solid black">Comoros\*</td>
-</tr>
-<tr>
-<td>Tonga</td>
-<td style="border-left: 1px solid black">Dominica</td>
-<td style="border-left: 1px solid black">São Tomé and Príncipe\*</td>
-<td style="border-left: 1px solid black"> </td>
-</tr>
+For this mid-term evaluation, HOT seeks a mixed methods approach, which would include both quantitative and qualitative approaches. The integration of qualitative approaches such as Outcome Harvesting, Most Significant Change, Outcome Mapping, and Social listening are preferred. We would also like to capture the views and perspectives of local communities and partners from countries where HOT has not yet implemented any projects but are among the 94 priority countries of the Audacious Project. The consultants, in liaison with HOT, can further develop and refine the approach. The data collection methods will mainly include:
+* Document reviews: reviewing all documentation agreed upon during the inception phase.
+* Key informant interviews: will be used while interacting with agreed key informants across HOT projects.
+* Focus group discussions: will be used in some instances, especially while interacting directly with communities where we work.
+* A survey approach can be agreed upon, especially when gathering specific views from the stakeholders that HOT had directly worked with at Hub and global levels.
 
-<tr>
-<td>Fiji</td>
-<td style="border-left: 1px solid black">Jamaica</td>
-<td style="border-left: 1px solid black"> </td>
-<td style="border-left: 1px solid black"> </td>
-</tr>
-<tr>
-<td>Papua New Guinea</td>
-<td style="border-left: 1px solid black">Dominican Republic</td>
-<td style="border-left: 1px solid black"> </td>
-<td style="border-left: 1px solid black"> </td>
-</tr>
+While presenting findings in the evaluation report, the consultant will be required, among other considerations, to: 
+* Present the perspectives of all respondents systematically and without bias, especially where qualitative data collection methods have been used.
+* Generate data through methods and approaches that are reliable and valid. 
+* Present findings based on data triangulated and correlated with all possible available data sources. 
+* Ensure that our contribution to all the changes documented through this process is plausible and easily linked to our work. 
 
-<tr>
-<td>Kiribati\*</td>
-<td style="border-left: 1px solid black">Belize</td>
-<td style="border-left: 1px solid black"> </td>
-<td style="border-left: 1px solid black"> </td>
-</tr>
+This mid-term evaluation will be conducted in all four regions with a focus on collecting data and interacting with agreed respondents where HOT either works directly or indirectly through OpenStreetMap Communities or Implementing partners across the globe. As HOT has not yet implemented granting or programming in all countries, we see an opportunity to select countries where HOT has and has not worked in order to carry out a comparative analysis, if not to have a control group. The sampling process will be largely purposive sampling; however, this will be more contextualized at inception after an agreement has been reached between HOT and the consultant on who the respondents will be including their locations.
 
-<tr>
-<td>Vanuatu</td>
-<td style="border-left: 1px solid black">Barbados</td>
-<td style="border-left: 1px solid black"> </td>
-<td style="border-left: 1px solid black"> </td>
-</tr>
+**Who will you be working with on our team?**
+* Monitoring & Evaluation Lead
+* Regional MERL Leads - comprised of MERL focal persons in each Regional Hub
+* Head of Strategy & Impact
 
-<tr>
-<td>Samoa</td>
-<td style="border-left: 1px solid black">St. Lucia</td>
-<td style="border-left: 1px solid black"> </td>
-<td style="border-left: 1px solid black"> </td>
-</tr>
-</table>
-<br>
+**Expected outputs of this assignment**
 
-The program aims to have an **impact** on women who are systematically underrepresented in island nations at high risk of humanitarian crisis and multidimensional poverty to experience improved wellbeing and increased agency and resilience to respond to crises through the creation, accessibility and use of open geo-data.
+We expect the Consultant to provide the following outputs:
+* An inception report, informed by a documents review and key stakeholder interviews, outlining the methodology and approved by the coordinating team at HOT
+* A full evidence report, not more than 30 pages plus annexes, with insights and recommendations
+* A summary of findings, with visuals (ex. Infographics, photos), that includes: 1-page summary of all major outcomes, 1-page summary for each major outcomes, 1-page summary for each Hub/Region
+* Outcomes and/or impact stories documented in a user friendly manner; preferably with visuals  (ex. Infographics, photos), including: 1 story for each major outcome, 1 story for each Hub/Region, 1 story for each Project
+* Five minute video on org-wide outcome/impact story
+* Organized online folder with key outputs, methodology and raw data, materials, and tools
 
-The Women-Centered Disaster Risk & Resilience in Small Island Developing States program intends to have:
-<ol>
-<li>Women communities in SIDS have the knowledge, tools, funding, and geo-data to implement and advocate for socio-economic change.</li>
-<li>Women in underrepresented groups in SIDS are connected to tools and are motivated to create geographical data and solutions.</li>
-<li>Diverse makeup of women communities champions and partners are increasingly networked to each other sharing learning and knowledge.</li>
-<li>Women communities in SIDS have an open dialogue and collaborate with local/global actors from all sectors.</li>
-</ol>
-<br>
+## Proposal Requirements
 
-# III. PROGRAM TIMELINE
+To be considered for a contract award under this request for proposals, please submit a written proposal (not exceeding 5 pages + applicable resumes and annexes) in English. 
+The proposal must include the following information: 
+* Brief background information, including details of previous experience in relevant specialties;
+* A brief, digestible overview of the proposed approach to address HOT’s needs; this section should provide an overview of the methodology that will later be detailed in the inception report;
+* Documented ability and capacity to perform the work to a high standard, on time, and on budget;
+* Indication of expected cost/rate for work completed;
+* Two examples of similar work undertaken with similar clients (we may ask for relevant contact details should we decide to take up references). 
 
-<br>
-![image.png](/uploads/image.png)
+We are seeking to engage with consultancy firms; or individuals who can provide expert advice within the areas in scope for the duration of an initial 4-6 months. We would especially like to receive submissions from organizations based in or involving your talent from [HOT’s priority regions](https://www.hotosm.org/updates/four-regions-five-years-94-countries-one-billion-people/).
 
-The proposal should start its activities on August 15th, 2023. The work plan and timeline distribution will depend on the activities proposed, but all activities and final deliverables should aim to be finalized by November 30th, 2023.
+Please submit proposals to the Monitoring, Evaluation, Research, and Learning team at [merlteam@hotosm.org](merlteam@hotosm.org) by the deadline listed below. 
 
-**All deliverables must be submitted in English. Support for translation available if needed.**
 
-# IV. PROPOSAL REQUIREMENTS
-
-<br>
-The technical proposal should not exceed ten (10) pages and consist of  three parts: (a) [Technical Proposal](https://docs.google.com/document/d/1m96VfGVboflm4FUbN7tuN48xakYJZQT79C0ZyXHpvRg/edit?usp=share_link), (b) [Financial Proposal](https://docs.google.com/spreadsheets/d/13UrMYMjvTY0gvgjuEiE57J2BlJDZHfm1FP3JBGbw73g/edit?usp=sharing), and (c) [Firm Qualification Questionnaire](https://docs.google.com/document/d/1wg741HjojaxBEB3TVE-XEDJC278cybwW1x9Sja24hMQ/edit?usp=sharing). The proposal shall be presented electronically in Adobe PDF format, in English, using the templates provided in the links.
-
-Note that the budget available for this project is $20,000 (USD). The applicant must therefore develop the Financial proposal to suit the scope of the project. The applicant must organize the Technical Proposal as follows:
-
-<ul>
-<li>Section A, Background: briefly describe the background and organization of your firm/organization and any sub consultants that your organization proposes to engage for this assignment.</li>
-<li>Section B, Summary of Consultants’ Experience: The applicant should provide a brief summary of any previous projects that are either within scope or implemented in a similar context.</li>
-<li>Section C, Comments or Modifications: present or justify any modifications to the terms of reference the applicant would like to propose, if any, to perform the assignment better and more effectively.
-</li>
-<li>Section D, Technical Approach: the applicant should articulate their approach to addressing the Problem Statement defined in this TOR and achieve the desired results. This section should also indicate how the applicant will achieve the objectives and deliverables. Proposals should be organized by project phase in accordance with the TOR (e.g., Assess, Map, Develop, Present). </li>
-<li>Annex 1: Staffing Plan and Key Personnel - The applicant must present an organizational and management structure which describes clearly the different positions, and the roles and responsibilities of team members. Each team should designate up to four “key personnel” including a Project Director and other team members that will lead the technical and managerial aspects of the project. The applicant should provide CVs/resumes for key personnel as Annexes to the technical proposal.
-</li>
-<li>Annex 2: CV of Proposed Key personnel</li>
-<li>Annex 3: Proposed work schedule for the project </li>
-</ul>
-
-### COVID-19
-
-HOT applies a general policy and protocols for field work in countries where activities are carried out. Our best efforts are put to foresee general risks in considering the COVID19 pandemic context, being applicable to any location, for all members of the implementation team. Its application to the latter will allow for greater control of working conditions. This includes strict requirements for all participants in the project to observe barrier measures, recommendations depending on situations with local communities and partners. The implementer will ensure the adherence of local protocols and rules for monitoring the health of each participant in case of signs of possible contagion. Applicants are required to take the COVID-19 local situation into account in the technical proposal methodology.
-
-<br>
-**Applications should be submitted before July 16, 2023, 5pm (EST) at the email [sids@hotosm.org](mailto:sids@hotosm.org)**
-
-# V. SELECTION CRITERIA
-
-<br>
-The following selection criteria will be used to evaluate proposals the determine WC-DRR-SIDS finalists:
-
-<br>
+## Timeline
 
 <table style="border-bottom: none">
 <tr>
-<th style="border-bottom-width: 2px"><span style="font-weight: bold"> </span></th>
-<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Criteria</span></th>
-<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Points</span></th>
+<th style="border-bottom-width: 2px"><span style="font-weight: bold">Activity</span></th>
+<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Date</span></th>
 </tr>
 <tr>
-<td>OSM and open source</td>
-<td style="border-left: 1px solid black">Knowledge and engagement of the OpenStreetMap (OSM) community / open source & open data and tech local community</td>
-<td style="border-left: 1px solid black"> 20%</td>
+<td>Request for proposals opened</td>
+<td style="border-left: 1px solid black">17 July, 2023</td>
 </tr>
 <tr>
-<td rowspan="5">Project development</td>
-<td style="border-left: 1px solid black">Ability to respond to technical needs (eg. management of field person, research and connect with local service providers) </td>
-<td style="border-left: 1px solid black">15% </td>
-</tr>
-<tr>
-
-        <td style="border-left: 1px solid black">Demonstrated experience in management of similar large scale projects </td>
-        <td style="border-left: 1px solid black">15% </td>
-    </tr>
-
-<tr>
-
-        <td style="border-left: 1px solid black">Ability to formally engage with local stakeholder community/ partners and/or government counterparts </td>
-        <td style="border-left: 1px solid black">15% </td>
-    </tr>
-
-<tr>
-
-        <td style="border-left: 1px solid black">Ability to demonstrate financially sound budget</td>
-        <td style="border-left: 1px solid black">15% </td>
-    </tr>
-
-<tr>
-
-        <td style="border-left: 1px solid black">Ability to demonstrate financially sound budget</td>
-        <td style="border-left: 1px solid black">15% </td>
-    </tr>
-
-<tr>
-<td td rowspan="3">Technical skills</td>
-<td style="border-left: 1px solid black">Demonstrated experience in GIS / geo spatial information / mapping</td>
-<td style="border-left: 1px solid black">15% </td>
+<td style="font-weight: bold"><i>Deadline for submission of written proposal</i></td>
+<td style="border-left: 1px solid black"><b>14 August, 2023 (23:59:59 EST)</b></td>
 </tr>
 
 <tr>
-<td style="border-left: 1px solid black">Literature review / knowledge of the local context</td>
-<td style="border-left: 1px solid black">10% </td>
+<td>Selection process completed</td>
+<td style="border-left: 1px solid black">11 September, 2023</td>
 </tr>
 <tr>
-<td style="border-left: 1px solid black">Written and Oral communication skills (local language and english)</td>
-<td style="border-left: 1px solid black">5% </td>
+<td>Begin collaboration</td>
+<td style="border-left: 1px solid black">25 September, 2023</td>
+</tr>
+<tr>
+<td>Complete collaboration</td>
+<td style="border-left: 1px solid black">22 February, 2024</td>
 </tr>
 </table>
-<br>
-
-# VI. IMPLEMENTATION ARRANGEMENTS
-
-<br>
-During the Planning and Assessment stage, the implementer shall prepare a detailed project Work Plan, which depicts the interrelationship of various tasks in the assignment and depicts how they lead to the completion of different project components. The implementing partner will then prepare in collaboration with HOT a finalized budget according to this work plan and activities outlined.
-
-The Implementing Partner should identify a Project Manager who will be the principal contact for the WC-DRR-SIDS work and will be expected to be available during project implementation. The implementer is encouraged to appoint an additional contact person who can be competently consulted on this undertaking. The implementer shall be responsible for all aspects of performance of services as set forth in this TOR.
-
-HOT will provide:
-
-* Technical training on data collection, analysis and user-centered tool/product development, depending on needs, to the implementation partner;
-
-* Capacity building training on project management, leadership and sustainability, depending on needs;
-
-* Where possible, HOT will share initial assessment findings with the project team(s) as a resource on available data and potential counterparts;
-
-* Templates for the main reports so that they are consistent across cities.
-
-# V. PAYMENT SCHEDULE
-
-<br>
-<table style="border-bottom: none">
-<caption style="caption-side:bottom"><br>\* Payment schedule will be adapted according to each location’s deliverable and general work plan.
-</caption>
-<tr>
-<th style="border-bottom-width: 2px"><span style="font-weight: bold">Event Triggering Payment\*</span></th>
-<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">% of Final Contract Amount Paid</span></th>
-</tr>
-<tr>
-<td>Contract signing</td>
-<td style="border-left: 1px solid black">25%</td>
-</tr>
-<tr>
-<td>Training and capacity building</td>
-<td style="border-left: 1px solid black">40%</td>
-</tr>
-
-<tr>
-<td>Mapping Project implementation</td>
-<td style="border-left: 1px solid black">25%</td>
-</tr>
-<tr>
-<td>Final project report and financials shared</td>
-<td style="border-left: 1px solid black">10%</td>
-</tr>
-</table>
-<br>
