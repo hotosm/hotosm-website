@@ -8,6 +8,9 @@ tags:
 - derechos humanos
 - derechos digitales
 - rightscon
+Summary Text: El pasado junio se realizó la RightsCon, el evento global que reúne
+  a activistas y organizaciones que trabajan por los derechos humanos, y el Hub LAC
+  se hizo presente en busca de mapas y mapeadores!
 Feature Image: "/uploads/RightsCon%20General%20Promotion%20-%20Twitter%20header.png"
 Person: Juan Arellano Valdivia
 ---
