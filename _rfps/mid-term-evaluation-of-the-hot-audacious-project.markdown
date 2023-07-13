@@ -69,7 +69,7 @@ We have undertaken a significant number of projects and programs with local comm
 
 The following questions should be answered in demonstrating our work towards achieving this objective.
 
-## To what extent has HOT been effective? Has HOT been achieving its target outcomes? And what are the intended outcomes so far?
+### To what extent has HOT been effective? Has HOT been achieving its target outcomes? And what are the intended outcomes so far?
 
 *What significant changes have HOT and its partners contributed to while working in different communities? The changes should be related to our four major outcomes in our Theory of change, which include:*
 
@@ -80,11 +80,11 @@ The following questions should be answered in demonstrating our work towards ach
   
 **How have the different stakeholders, i.e., underrepresented groups, government, humanitarian and development actors, and the private sector, benefited from our work?**
 
-## To what extent has HOT been efficient? How well have resources (funds, people, time) been used?
+### To what extent has HOT been efficient? How well have resources (funds, people, time) been used?
 
-## To what extent will HOT Projects likely achieve their intended impact?
+### To what extent will HOT Projects likely achieve their intended impact?
 
-## To what extent are HOT projects sustainable? Will the benefits last? To what extent has the capacity of HOT’s partners been strengthened to continue program implementation and/or alter their approach?
+### To what extent are HOT projects sustainable? Will the benefits last? To what extent has the capacity of HOT’s partners been strengthened to continue program implementation and/or alter their approach?
 
 **Objective 2:** To document learnings about the effectiveness and efficiency of our work in our communities.
 
