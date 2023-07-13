@@ -44,7 +44,7 @@ What I did find was various people interested in mapping projects: organizations
 
 ![conf3.jpg](/uploads/conf3.jpg)
 
-Various talks at RightsCon\*.\*
+*Various talks at RightsCon*
 
 Talking and exchanging ideas with all these people was very inspiring. I believe that the future of work around mapping and digital and human rights is bright and offers many opportunities for social impact. As we move towards a society that is increasingly connected and in need of geospatial information, we should include some key actions in our mapping projects to achieve that impact:
 
