@@ -23,7 +23,7 @@ Al ser la región sede de un evento de esta magnitud, en el [Hub de Mapeo Abiert
 
 ![WhatsApp Image 2023-06-20 at 10.41.21 PM.jpg](/uploads/WhatsApp%20Image%202023-06-20%20at%2010.41.21%20PM.jpg)
 
-*Brett Solomon, ED de Access Now da el discurso de apertura y menciona a Alaa Abd El Fattah, el blogger egipcio actualmente encarcelado que participó de la RightsCon 2011.*
+*Brett Solomon, ED de Access Now da el discurso de apertura y menciona a Alaa Abd El Fattah, el blogger egipcio actualmente encarcelado que dio el discurso de apertura de la RightsCon 2011.*
 
 En este punto cabe mencionar que si bien a primera vista no parece clara la relación entre mapas y derechos humanos, esta existe. Los mapas están vinculados a varios derechos como:
 
@@ -58,6 +58,6 @@ Conversar e intercambiar ideas con toda esta gente me resultó muy inspirador. C
 
 Aplicar estas ideas guía nos permitirá aprovechar plenamente el potencial de los mapas como herramientas para promover la equidad, la justicia social y el respeto de los derechos fundamentales, y por ende servir mejor a las comunidades con las que trabajamos.
 
-Finalmente, traté de registrar algunas de las conversaciones que tuve -y que me inspiraron las ideas esbozadas en este post- así que les dejo los enlaces para que escuchen sus ideas  y propuestas de boca de los propios involucrados. 
+Finalmente, traté de registrar algunas de las conversaciones que tuve -y que me inspiraron las ideas esbozadas en este post- así que les dejo los enlaces para que escuchen sus ideas  y propuestas de boca de los propios involucrados.
 
 Acá con Selene Yang de Geochicas y Wikimedia, conversando sobre la importancia de tener la [perspectiva de genero en el mapeo y gestión de desastres](https://www.tiktok.com/@mapeoabierto_la/video/7244189276886404358), y también como [incluir y apoyar a las comunidades Youthmapper](https://www.tiktok.com/@mapeoabierto_la/video/7245693273925242118?lang=es). Acá con Rodrigo charlamos de [OpenStreetMap como herramienta para la incidencia política y el cambio social](https://www.tiktok.com/@mapeoabierto_la/video/7244569100196875526), de la [utilidad de OSM en la construcción de capacidades en organizaciones de la sociedad civil y ONG](https://www.tiktok.com/@mapeoabierto_la/video/7246438991539719429), y [las posibilidades de OSM en deportes como el ciclismo](https://www.tiktok.com/@mapeoabierto_la/video/7247537901586664709?lang=es). Y Jaime Gutiérrez lanzó una [convocatoria a la comunidad mapeadora centroamericana](https://www.tiktok.com/@mapeoabierto_la/video/7244961777593732357), alrededor de [temas de trabajo que pueden interesar a todos](https://www.tiktok.com/@mapeoabierto_la/video/7247110539162242309) y sobre todo [incluyendo a los mas jóvenes](https://www.tiktok.com/@mapeoabierto_la/video/7247888741551951109?lang=es).
