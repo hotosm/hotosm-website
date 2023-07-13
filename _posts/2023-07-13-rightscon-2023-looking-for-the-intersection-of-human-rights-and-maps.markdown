@@ -44,7 +44,7 @@ What I did find was various people interested in mapping projects: organizations
 
 ![conf3.jpg](/uploads/conf3.jpg)
 
-Various talks at RightsCon*.*
+Various talks at RightsCon\*.\*
 
 Talking and exchanging ideas with all these people was very inspiring. I believe that the future of work around mapping and digital and human rights is bright and offers many opportunities for social impact. As we move towards a society that is increasingly connected and in need of geospatial information, we should include some key actions in our mapping projects to achieve that impact:
 
@@ -61,3 +61,5 @@ Applying these guiding ideas will allow us to fully harness the potential of map
 Finally, I tried to record some of the conversations I had -and that inspired me  the ideas outlined in this post- so I leave you the links so you can listen the ideas and proposals from those involved.
 
 Here with Selene Yang from Geochicas and Wikimedia (*all following videos are in Spanish*), talking about the importance of having a [gender perspective in disaster mapping and management](https://www.tiktok.com/@mapeoabierto_la/video/7244189276886404358), and also how to [include and support Youthmapper communities](https://www.tiktok.com/@mapeoabierto_la/video/7245693273925242118?lang=es). Here with Rodrigo we talk about [OpenStreetMap as a tool for political advocacy and social change](https://www.tiktok.com/@mapeoabierto_la/video/7244569100196875526), about [the usefulness of OSM in building capacities in civil society organizations and NGOs](https://www.tiktok.com/@mapeoabierto_la/video/7246438991539719429), and [the possibilities of OSM in sports such as cycling](https://www.tiktok.com/@mapeoabierto_la/video/7247537901586664709?lang=es). And Jaime Gutiérrez sent a[ call to the Central American mapping community](https://www.tiktok.com/@mapeoabierto_la/video/7244961777593732357), around [work topics that may interest everyone](https://www.tiktok.com/@mapeoabierto_la/video/7247110539162242309) and especially [including the youngest](https://www.tiktok.com/@mapeoabierto_la/video/7247888741551951109?lang=es).
+
+*This post is a version of the original post published [here](https://cyberjuan.medium.com/rightscon-2023-human-and-digital-rights-e4ffddebb170).*
