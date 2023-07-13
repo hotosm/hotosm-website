@@ -83,7 +83,6 @@ The following questions should be answered in demonstrating our work towards ach
 <li>How have the different stakeholders, i.e., underrepresented groups, government, humanitarian and development actors, and the private sector, benefited from our work?
 </li>
 </ol>
-</li>
 <li>To what extent has HOT been <b>efficient</b>? How well have resources (funds, people, time) been used?</li>
 <li>To what extent will HOT Projects likely achieve their intended <b>impact</b>?
 </li>
