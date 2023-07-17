@@ -1,9 +1,10 @@
 ---
 title: Russell Deffner
 date: 2013-12-01 16:40:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/russell.jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
   Is Voting Member: true
 Job Title: Project Manager & Disaster Response Coordinator
 Working Group:
