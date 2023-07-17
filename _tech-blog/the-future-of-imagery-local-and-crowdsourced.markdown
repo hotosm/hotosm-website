@@ -1,6 +1,7 @@
 ---
 title: 'The Future of Imagery: Local & Crowdsourced'
 date: 2023-07-13 09:27:00 Z
+published: false
 tags:
 - tech
 Summary Text: "Are you keen to explore alternative sources of locally relevant imagery?
