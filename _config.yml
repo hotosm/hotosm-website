@@ -17,9 +17,6 @@ collections:
     title: Docs & Guidelines
     output: true
     permalink: "/docs/:title/"
-  events:
-    title: Events
-    output: true
   funds:
     title: Funds
     output: true
