@@ -9,7 +9,7 @@ Country: Kenya
 Team: Eastern and Southern Africa Hub
 ---
 
-Maureen joined HOT as a Human Resources and Operations Associate for the Eastern and Southern Africa Hub (ESA). People Management has always been my passion. With 19+ years of work experience centered on leading the Operation functions in one of the leading INGO in the world. 
+Maureen joins HOT as a Human Resources and Operations Associate for the Eastern and Southern Africa Hub (ESA). People Management has always been my passion. With 19+ years of work experience centered on leading the Operation functions in one of the leading INGO in the world. 
 
 I am a global people leader who enjoys leveraging and creating innovative people strategies that build outstanding workplaces where employees are empowered, valued, thrive and prosper.
 
