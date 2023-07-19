@@ -1,0 +1,66 @@
+---
+title: Bogoso Explosion Activation
+date: 2022-02-01 23:50:00 Z
+Glide: OT-2022-000152-GHA
+Event Name: Bogoso Explosion 2022
+GDACS-level: 
+Country:
+- Ghana
+Event type: OT Other
+Summary Text: This in activation to support OSM Ghana for the Bogos Explosion.
+Feature Image: OT Other
+Post-type: timeline
+HDX: <a href="https://data.humdata.org/organization/hot?q=ghana">Ghana</a>
+Resources: N/A
+Campaign: 
+Status: size-up
+Phase: 
+Timeline: 'January 30, 2022 -  '
+Size-up: https://www.hotosm.org/disaster-services/bogoso-explosion-size-up/
+Wiki-page: 
+Tracking: bogosomapping
+Report: available
+---
+
+<h2>Context</h2>
+
+"On 20th January 2022, a large blast occurred in an area at Apiate community, near the city of Bogoso about 300km (180 miles) west of the capital of Ghana, Accra. The explosion occurred when a motorcycle went under a truck carrying explosives that was on route to the gold mine at Bogoso. After the blast, people in the community rushed down to the scene, and a second blast occurred a few minutes later. This resulted to in the destruction of dozens of buildings."
+
+<a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22512&record=4&last=7475" target="_blank">Glide</a>
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong>Bogoso Explosion 2022<br>
+<strong>GDACS Alert Lvl:</strong> NA <br>
+<strong>Location:</strong> Bogoso-Apiatse, Ghana<br>
+<strong>Geographic Scope:</strong> Village<br>
+<strong>Estimated Humanitarian Impact:</strong> 13 fatalities, 100s injured<br>
+<strong>Estimated Duration:</strong> Day(s) to week(s)<br>
+<strong>Event Scope:</strong> Minor<br>
+<strong>Local Contacts:</strong> OSM Ghana - Stephen Mawutor Donkor<br>
+<strong>Anticipated Needs:</strong> Assistance with Imagery & documentation<br>
+<strong>Request(s):</strong> Request for assistance with imagery<br>
+<strong>Need for Activation:</strong> 	Only need to support local OSM Ghana community, capable of organizing response<br>
+<strong>Active Orgs:</strong> OSM Ghana, MAXAR, HOT<br>
+<strong>Lead Orgs:</strong> OSM Ghana<br>
+
+<h2>Response Support</h2>
+
+OSM Ghana requested the AWG assistance with Imagery & documentation. 
+
+The related project <a href="https://tasks.hotosm.org/projects/12038/">12038</a> is intended to map buildings in the area. 
+
+<strong>DEBRIEFING</strong><br>
+
+On the 20th of January, 2022 a motorbike collided with a truck carrying mining explosives leveling the village of Apiate. Initial size-up revealed that local mappers were quick to respond and were making good progress on the pre-event basemap. After contact was established it was determined that capacity was sufficient for the local community to manage an Activation and HOT would only support. MAXAR released imagery and assistance was given to get the scenes uploaded to OpenAerialMap for usage in Tasking Manager project created and managed by OSM Ghana. 
+
+<strong>Conclusion, March 7th</strong><br>
+
+- 59 Mappers and Validators contributed
+- Making 13,549 edits to OpenStreetMap
+- Including the addition of 13,201 buildings and 13 kilometers of roadway
+
+<strong>Key Takeaways</strong><br>
+
+- Building upon a history with members of OSM Ghana, communications went very well. It should be a goal of HOT to continue to build this relationship to support the local community in all its endeavors.
+- As with many recent incidents, the availability of MAXAR ODP imagery is greatly appreciated but internally HOT does not have much capacity to process the raw imagery and that could be a detriment for responding to an incident if the local community does not either. Working with MAXAR to improve usage, as well as strengthening our capacity to do imagery processing is a must.
