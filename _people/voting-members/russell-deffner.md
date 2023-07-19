@@ -6,7 +6,7 @@ Photo: https://cdn.hotosm.org/website/russell.jpg
 Member Type:
   Is Staff: false
   Is Voting Member: true
-Job Title: Project Manager & Disaster Response Coordinator
+Job Title: Response Coordinator
 Working Group:
 - Activation
 - Governance
