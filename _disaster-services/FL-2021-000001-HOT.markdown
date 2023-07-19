@@ -1,6 +1,6 @@
 ---
-title: Western Europe Floods Alert
-date: 2021-07-19 02:08:00 Z
+title: Western Europe Floods Size-up
+date: 2021-07-22 02:38:00 Z
 Glide: FL-2021-000001-HOT
 Event Name: Western European Floods 2021
 GDACS-level: Orange 1.5
@@ -9,14 +9,38 @@ Country:
 - Belgium
 - Luxembourg
 Event type: FL Flood
-Summary Text: '"Flooding after torrential rain caused widespread damage in Germany,
-  mostly in the western states of North Rhine-Westphalia (NRW), Rhineland-Palatinate
-  (RLP) and Bavaria." GDACS'
+Summary Text: 'Request not to activate by OSM Germany, but support is a possibility. '
+Post-type: timeline
 Feature Image: Fl Flood
-Status: alert
-Post-type: update
-source: <a href="https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100958&episodeid=1"
-  target="_blank">GDACS</a>
+HDX: <a href="https://data.humdata.org/organization/hot?q=germany&ext_page_size=25">Western
+  Germany</a>
+Resources: <a href="https://www.maxar.com/open-data/western-europe-flooding">MAXAR</a>
+Status: size-up
+GDACS Incident Name: Overall Orange alert Flood in Germany
+GDACS ID: FL 1100958
+GDACS Alert Lvl.: Orange 1.5
 ---
 
+<h2>Context</h2>
+
+"Flooding after torrential rain caused widespread damage in Germany, mostly in the western states of North Rhine-Westphalia (NRW), Rhineland-Palatinate (RLP) and Bavaria." GDACS
+
 "Flooding after torrential rain caused widespread damage in Germany, mostly in the western states of North Rhine-Westphalia (NRW), Rhineland-Palatinate (RLP) and Bavaria. Late on 14 July rivers overflowed in NRW and RLP destroying buildings and causing a high number of fatalities. As of 16 July, 43 people had died in NRW and 60 in RLP. Transport, telecommunications, power and water infrastructure were severely damaged, impeding damage assessments. As of 16 July there were still an unknown number of people unaccounted for, including 1,300 people in Bad Neuenahr, Ahrweiler district, RLP. According to Germany's Civil Protection (Bundesamt für Bevölkerungsschutz und Katastrophenhilfe - BBK) as of 16 July, the affected districts included Hagen, Rhein-Erft-Kreis, Städteregion Aachen in NRW; Landkreis Ahrweiler, Eifelkreis Bitburg-Prüm, Trier-Saarburg and Vulkaneifel in RLP; and Hof district in Bavaria."
+
+<a href="https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100958&episodeid=1" target="_blank">GDACS</a>
+
+<h2>Size-up details</h2>
+
+<strong> Event Name:</strong> Western European Floods 2021 <br>
+<strong>Type of Event:</strong> Sudden Onset<br>
+<strong>Location:</strong> Western Germany, Belgium, Luxembourg<br>
+<strong>Geographic Scope:</strong> Multiple Countries<br>
+<strong>Estimated Humanitarian Impact:</strong> 100+ fatalities<br>
+<strong>Estimated Duration:</strong> Days to Week(s)<br>
+<strong>Event Scope:</strong> Minor-Moderate<br>
+<strong>Local Leads:</strong> OSM Germany<br>
+<strong>Anticipated Needs:</strong> Support Only<br>
+<strong>Request(s):</strong> <a href="https://www.openstreetmap.org/user/kmpoppe/diary/397202" target="_blank"> Not to activate</a><be><br>
+<strong>Requestors:</strong> OSM Germany <br>
+<strong>HOT Current Capacity:</strong> Capacity is sufficient for a response <br>
+<strong>Need for Activation:</strong> Unlikely
