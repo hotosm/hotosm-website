@@ -1,20 +1,56 @@
 ---
-title: Tropical Cyclone Fiona Alert
-date: 2022-09-17 08:19:00 Z
+title: Tropical Cyclone Fiona Activation
+date: 2022-09-21 19:50:00 Z
 Glide: TC-2022-000004-HOT
 Event Name: Tropical Cyclone FIONA-22
-GDACS ID: TC 1000916
-GDACS-level: Orange (1.5)
 Country:
 - Puerto Rico
 - Dominican Republic
+- United States
 Event type: TC Tropical Cyclone
-Summary Text: Disaster Services is currently monitoring this event in the Caribbean.
+Summary Text: This is in activation by the HOTOSM Global to support disaster response
+  to Hurricane Fiona in the Caribe.
 Feature Image: TC Tropical Cyclone
-Status: alert
-Post-type: update
-source: <a href="https://www.gdacs.org/report.aspx?eventid=1000916&episodeid=19&eventtype=TC"
-  target="_blank">GDACS</a>
+Post-type: timeline
+Campaign: Hurricane Fiona 2022
+Tracking: hurricanefiona2022
+Report: available
 ---
 
+<h2>Alert Context</h2>
+
 "Tropical Cyclone FIONA-22 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability."
+
+<a href="https://www.gdacs.org/report.aspx?eventid=1000916&episodeid=19&eventtype=TC" target="_blank">GDACS</a>
+
+<h2>Size-up Context</h2>
+
+<strong>Context:</strong>"Tropical Cyclone FIONA-22 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability."<be> GDACS
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong>Tropical Cyclone Fiona 2022<br>
+<strong>GDACS Alert Lvl:</strong>Orange (1.5)<br>
+<strong>Location:</strong> Caribbean<br>
+<strong>Geographic Scope:</strong> Dominican Republic, Turks and Caicos Islands most threatened<br>
+<strong>Estimated Humanitarian Impact:</strong> 1.1 million in Category 1 or higher<br>
+<strong>Estimated Duration:</strong> Weeks to Months<br>
+<strong>Event Scope:</strong> Major<br>
+<strong>Local Contacts:</strong> There are no local point(s) of contact identified as of yet<br>
+<strong>Anticipated Needs:</strong> Dominican Republic has significant basemap needs, according to DisasterNinja an estimated 24% of all roads and 91% of buildings are missing.<br>
+<strong>Request(s):</strong> There are no requests from partners currently<br>
+<strong>Need for Activation:</strong> Possibly<br>
+<strong>Active Orgs:</strong> OSM Haiti, other communities and individuals in the Caribbean<br>
+<strong>Lead Orgs:</strong> HOT<br>
+
+
+<strong>Context:</strong>"Hurricane Fiona reached Category 4 in the Caribbean bringing 222 km/h winds and rain. This project aims to use satellite imagery digitization to fill gaps in the structures common operational dataset of eastern Dominican Republic."<be> 
+
+Here is the list of projects to map the affected area:
+
+<a href="https://tasks.hotosm.org/projects/13533">13533, 
+HURRICANE FIONA DOMINICAN REPUBLIC - BUILDINGS #1
+</a>
+
+<a href="https://tasks.hotosm.org/projects/13534">13534, 
+HURRICANE FIONA DOMINICAN REPUBLIC - BUILDINGS #2 (INTERMEDIATE)</a>
