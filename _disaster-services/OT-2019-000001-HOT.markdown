@@ -1,0 +1,51 @@
+---
+title: Venezuela Crisis 2019 Activation
+date: 2019-03-01 14:36:00 Z
+Glide: OT-2019-000001-HOT
+Event Name: Venezuela Crisis [2019]
+Country:
+- Colombia
+- Venezuela
+Event type: OT Other
+Summary Text: Ayuda Venezuela is an Activation of the Humanitarian OpenStreetMap Team
+  (HOT) to improve the basemap in areas already seeing an influx of refugees from
+  the political turmoil in Venezuela.
+Feature Image: OT Other
+Post-type: timeline
+HDX: <a href="https://data.humdata.org/organization/hot">Regional</a>
+Resources: N/A
+Campaign: 
+Status: size-up
+Timeline: 1 March 2019 - 1 November 2020
+Size-up: https://www.hotosm.org/disaster-services/venezuela-crisis-2019-size-up/
+Wiki-page: https://wiki.openstreetmap.org/wiki/Ayuda_Venezuela
+Tracking: ayudavenezuela
+Report: available
+---
+
+<h2>Alert </h2>
+
+"Millions of people are currently moving across Venezuela and several other countries in the Americas, and the humanitarian needs are growing. National Red Cross Societies in Argentina, Brazil, Chile, Ecuador, Guyana, Panama, Peru, Trinidad and Tobago, and Uruguay are being supported by IFRC to deliver much-needed assistance. Recently, in response to a sustained increase in the number of migrants in the Americas region, the Movement has been establishing humanitarian operations in all the countries receiving migrants and ensuring strong connection with existing long-term regional plans for continuity of humanitarian services as well as social protection and communication initiatives."
+
+<a href="https://go.ifrc.org/emergencies/3122#details">IFRC</a>
+
+<h2>Size Up</h2>
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong> Venezuela Crisis [2019]<br>
+<strong>Type ofEvent:</strong>  Protracted Crisis - Political Unrest/Refugee Migration<br>
+<strong>Location:</strong> Venezuela and neighboring countries<br>
+<strong>Geographic Scope:</strong> Region<br>
+<strong>Estimated Humanitarian Impact:</strong> Millions potentially fleeing Venezuela<br>
+<strong>Estimated Duration:</strong>  Unknown, initial request should take only week(s) to a month, though the crisis could continue for a very long time<br>
+<strong>Local Contacts:</strong>  OSM Colombia & Fundacion OSM Colombia (for initial focus area)<br>
+<strong>Anticipated Needs:</strong> Buildings, fixing up some poorly executed prior projects, place_name location adjustments<br>
+<strong>Request(s):</strong> Request by NGO wishing to remain anonymous<br>
+<strong>Current capacity to support</strong> No other pressing response at the moment<br>
+
+<h2>Response</h2>
+
+The following areas were mapped:
+
+<a href="https://tasks.hotosm.org/projects/57921">57921</a>, Barranquilla, Colombia (Buildings) 
