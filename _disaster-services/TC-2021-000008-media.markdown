@@ -1,8 +1,8 @@
 ---
-title: Tropical Cyclone Eloise
+title: Tropical Cyclone Eloise Visualization
 date: 2021-01-23 12:00:00 Z
-Event Name: Tropical Cyclone Eloise
 Glide: TC-2021-000008
+Event Name: Tropical Cyclone Eloise
 GDACS-level: 
 Country:
 - Zimbabwe
