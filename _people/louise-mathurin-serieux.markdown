@@ -5,7 +5,7 @@ Photo: "/uploads/Screenshot%202023-07-04%20at%2008.40.07.png"
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: 'Senior Associate Community Projects- Latin America and Caribbean '
+Job Title: Senior Associate Community Projects- Latin America and Caribbean
 Team: Latin America and Caribbean Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/LMResearcher
