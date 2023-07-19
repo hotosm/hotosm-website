@@ -1,5 +1,5 @@
 ---
-title: Western Europe Floods Alert
+title: Western Europe Floods Media
 date: 2021-07-19 02:08:00 Z
 Glide: FL-2021-000001-HOT
 Event Name: Western European Floods 2021
