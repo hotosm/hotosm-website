@@ -1,0 +1,82 @@
+---
+title: Haiti Earthquake 2021 Activation
+date: 2021-08-16 23:19:00 Z
+Glide: EQ-2021-000116-HTI
+Event Name: Haiti Earthquake 2021
+GDACS-level: Red (3.0)
+Country:
+- Haiti
+Event type: EQ Earthquake
+Summary Text: The <a href="https://tasks.hotosm.org/explore?campaign=Haiti%20Earthquake%202021">Haiti
+  Earthquake 2021 campaign</a> is an ongoing HOT activation to map southeastern Haiti
+  after it was struck by a 7.2 earthquake.
+Feature Image: EQ Earthquake
+Post-type: timeline
+HDX: <a href="https://data.humdata.org/organization/hot?q=haiti">Haiti</a>
+Resources: N/A
+Campaign: 
+Status: size-up
+Phase: 
+Timeline: August 14, 2021 - October 22, 2021
+Size-up: https://www.hotosm.org/disaster-services/haiti-earthquake-2021-size-up/
+Wiki-page: https://wiki.openstreetmap.org/wiki/Haiti_Earthquake_2021
+Tracking: haitieq2021
+Report: available
+---
+
+<h2>Context</h2>
+
+
+High humanitarian impact, magnitude 7.2M tsunami generates 0.46m 
+GDACS
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong> Haiti Earthquake 2021<br>
+<strong>Type ofEvent:</strong> Rapid onset<br>
+<strong>Location:</strong> Sud-Est, Haiti<br>
+<strong>Geographic Scope:</strong> Multiple population centers<br>
+<strong>Estimated Humanitarian Impact:</strong> 360,000 in Very Strong (VII) Shaking<br>
+<strong>Estimated Duration:</strong> Week(s) to Month(s)<br>
+<strong>Event Scope:</strong> Moderate<br>
+<strong>Local Contacts:</strong> Haitian Voting Members will be first point of contact<br>
+<strong>Anticipated Needs:</strong>basemap improvements in Grand Anse province (buildings)<br>
+<strong>Request(s):</strong> There are no requests from partners currently <br>
+<strong>Current capacity to support</strong> YELLOW - Capacity may not be sufficient to manage response fully<br>
+<strong>Need for Activation:</strong> Potentially HOT would just support local efforts, or activate if none are initiated
+<br>
+<strong>Active Orgs:</strong> HOT, OSM Haiti<br>
+
+<h2>Activation</h2>
+
+Mapping will focus on filling areas with little to no Buildings data to support response and recovery efforts, population estimates, and damage assessments.
+
+Based on mapping needs, the following areas in southwestern Haiti will be part of this campaign:
+
+<strong>- Nippes</strong><br>
+<strong>- Ouest</strong><br>
+<strong>- Sud</strong><br>
+<strong>- Grand'Anse</strong><be>
+
+Preemptively set exports at <a href="https://data.humdata.org/organization/hot?q=haiti">HDX</a> to update every day.
+
+More info on the <a href="https://wiki.openstreetmap.org/wiki/Haiti_Earthquake_2021">wiki page</a>
+
+<h2>Update #1</h2>
+
+Request from IFRC to generate as much base data as possible in the next 5 days; MAXAR released imagery; Mapbox and Missing Maps partner - HeiGIT - rapid preliminary damage assessment project</strong> on <a href="https://mapswipe.org/">Mapswipe</a>;
+
+Haiti Earthquake - after Tropical Storm Grace passed over the earthquake zone, wind and rain added complications to the response efforts and caused additional damage. 
+
+- We received a request from the <strong>IFRC in the region to generate as much base data as possible in the next 5 days.</strong> Therefore we have continued to add mapping projects in the impacted area <a href="https://tasks.hotosm.org/explore?campaign=Haiti%20Earthquake%202021">(see here)</a>. 
+- MAXAR quickly released imagery of the area post-event and our partners at <strong>Mapbox and our Missing Maps - HeiGIT - was able to create a rapid preliminary damage assessment project on <a href="https://mapswipe.org/">Mapswipe</a></strong> - note this is an experimental way to do remote damage assessment and therefore our priority will remain generating the pre-event base data. 
+
+
+<strong>DEBRIEFING ON NOVEMBER 2</strong><br>
+
+On August 14, 2021 a shallow, magnitude 7.2 earthquake struck the Tiburon Peninsula of Haiti. Initial assessments showed a mix of heavily mapped areas (mostly for Hurricane Matthew in 2016) and areas (mostly the interior of the peninsula) had little to no buildings, though major road coverage was decent. Therefore we chose to focus on mapping buildings in areas we could identify as mostly missing. Additionally, early on, we were notified that the IFRC was planning a deployment and could use as much base data as possible to help with planning and implementation of aid delivery. The first mapping projects we released were complete in just a few days time, so we extended the area of interest to cover the area impacted by severe shaking, which were completed within about 10 days from Activation. By then we had also connected with a few other organizations working in Haiti, most notably connected with ADF Haiti, who captured the drone imagery used in the Mapswipe rapid damage assessment pilot projects. With continued interest and reports of damage extending beyond the most severe shaking areas, we continued to map the entire area with significant shaking predicted in order to also tie in the unmapped interior areas to those previously mapped. Throughout the activation, our amazing validators were able to stay within 20% of tasks mapped; making for a conclusion to this response within just days of the mapping being finished.
+
+<strong>KEY TAKEAWAYS</strong><br>
+
+- A key takeaway for me was that we still have a struggle to connect with communities that, in this case, relationships have been established since 2010. Part of this is that the communities are very dynamic and the key people change frequently. The other part of this is that HOT has left these connections alone for too long.
+- The biggest notable however, is the incredible feat of the Global Validation Team, and specifically around a handful who are responsible for validating around 10,000 of the tasks; keeping validation at pace with the mapping. This should be a shining example of validation going as you hope it would on a fairly long campaign.
