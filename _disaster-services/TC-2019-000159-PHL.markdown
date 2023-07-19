@@ -1,21 +1,58 @@
 ---
-title: Tropical Cyclone Kammuri Alert
-date: 2019-11-29 15:03:00 Z
+title: Tropical Cyclone Typhon Kammuri Activation
+date: 2019-12-03 15:33:00 Z
 Glide: TC-2019-000159-PHL
 Event Name: Tropical Cyclone Kammuri
-GDACS ID: TC 1000636
-GDACS-level: 2.5 (Red)
 Country:
 - Philippines
 Event type: TC Tropical Cyclone
-Summary Text: '"According to [...](PAGASA) as of 10:00 local time on 29 November 2019,
-  Tropical Storm (TS) Kammuri is approximately 1,430 km east of the southern Luzon,
-  moving northwest."'
+Summary Text: '2019 Typhon Kamurri Response & Preparedness Mapping is an activation
+  that comprises the following projects:'
 Feature Image: TC Tropical Cyclone
-Status: alert
-Post-type: update
-Source: <a href="https://reliefweb.int/report/philippines/philippines-tropical-storm-kammuri-information-bulletin"
-  target="_blank">IFRC in Reliefweb</a>
+Post-type: timeline
+HDX: <a href="https://data.humdata.org/organization/hot?q=philippines">Philippines</a>
+Resources: N/A
+Campaign: 
+Status: size-up
+Timeline: '29 November 2019 - '
+Size-up: https://www.hotosm.org/disaster-services/tropical-cyclone-kamurri-size-up/
+Wiki-page: https://wiki.openstreetmap.org/wiki/2019_Typhon_Kamurri_Response_%26_Preparedness_Mapping
+Tracking: kammuricyclone
+Report: available
 ---
 
+<h2> Context </h2>
+
+"According to [...](PAGASA) as of 10:00 local time on 29 November 2019, Tropical Storm (TS) Kammuri is approximately 1,430 km east of the southern Luzon, moving northwest."
+
 "According to the Philippines Atmospheric Geophysical and Astronomical Services Administration (PAGASA) as of 10:00 local time on 29 November 2019, Tropical Storm (TS) Kammuri is approximately 1,430 km east of the southern Luzon, moving northwest. PAGASA reports that Kammuri currently has maximum sustained winds of 140 kph near the centre and gustiness of up to 170 kph. Longer range models predict it could intensify to a category 4 typhoon. On entering the Philippine Area of Responsibility (PAR), which is estimated between 1 and 2 December 2019, it will be locally named 'Tisoy'."
+
+<a href="https://reliefweb.int/report/philippines/philippines-tropical-storm-kammuri-information-bulletin" target="_blank">IFRC in Reliefweb</a>
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong> Tropical Cyclone Kamurri<br>
+<strong>Type ofEvent:</strong> Slow Onset (days before impact)<br>
+<strong>Location:</strong> Western Pacific<br>
+<strong>Geographic Scope:</strong>  Philippines<br>
+<strong>Estimated Humanitarian Impact:</strong> 34.9 million in Category 1 or higher<br>
+<strong>Estimated Duration:</strong> Days to Weeks<br>
+<strong>Event Scope:</strong> Minor to Moderate<be>
+<strong>Anticipated Needs:</strong> NA<br>
+<strong>Local Contacts:</strong> NA<br>
+<strong>Request(s):</strong> NA<br>
+<strong>HOT Current Capacity:</strong> NA<br>
+<strong>Need for Activation:</strong> NA<br>
+
+<h2> Projects</h2>
+
+<a href="https://wiki.openstreetmap.org/wiki/2019_Typhon_Kamurri_Response_%26_Preparedness_Mapping">2019 Typhon Kamurri Response & Preparedness Mapping</a> is an activation that comprises the following projects:
+
+<a href="https://tasks.hotosm.org/projects/7384">7384, Catanduanes Islands, Philippines</a>
+
+<a href="https://tasks.hotosm.org/projects/6733">6733, Sorsogon Province, Philippines #1	</a>
+
+<a href="https://tasks.hotosm.org/projects/6734">6734, Sorsogon Province, Philippines #2 </a>
+
+<a href="https://tasks.hotosm.org/projects/6735">6735, Sorsogon Province, Philippines #3	</a>
+
