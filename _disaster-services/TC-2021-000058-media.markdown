@@ -1,5 +1,5 @@
 ---
-title: Tropical Cyclone YAAS-21
+title: Tropical Cyclone YAAS-21 Media
 date: 2021-06-25 12:30:00 Z
 Glide: TC-2021-000058
 Event Name: Tropical Cyclone YAAS
