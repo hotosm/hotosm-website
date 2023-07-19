@@ -1,0 +1,57 @@
+---
+title: Nigeria Floods 2022 Response
+date: 2022-10-19 19:48:00 Z
+Glide: FL-2022-000350-NGA
+Event Name: Nigeria Floods 2022 (October)
+Country:
+- Nigeria
+Event type: Fl Flood
+Summary Text: This is in activation by Unique Mappers Network in response to the floodings
+  in Nigeria.
+Feature Image: Fl Flood
+Post-type: timeline
+Campaign: Nigeria Floods 2022
+Tracking: hotosm-project-13629
+Report: available
+---
+
+<h2>Alert Details</h2>
+
+"Media report (quoting national authorities), as of 18 October, 603 fatalities, over 2,400 injured, nearly 1,303,000 displaced people and a total of more than 2,504,000 affected people across the Country. In particular, the Bayelsa State is the worst affected, with around 700,000 either displaced or affected people. In addition, same sources also report around 203,400 damaged houses, of which over 82,000 fully damaged or destroyed."
+
+<a href="https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1101659" target="_blank">GDACS</a>
+
+
+<strong>Context:</strong>Media report (quoting national authorities), as of 18 October, 603 fatalities, over 2,400 injured, nearly 1,303,000 displaced people and a total of more than 2,504,000 affected people across the Country. In particular, the Bayelsa State is the worst affected, with around 700,000 either displaced or affected people. In addition, same sources also report around 203,400 damaged houses, of which over 82,000 fully damaged or destroyed.<be>  
+
+GDACS / Copernicus GloFAS
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong>Nigeria Floods 2022<br>
+<strong>GDACS Alert Lvl:</strong>2.5 (Red)<br>
+<strong>Location:</strong>Lokoja and Koji State, Nigeria<br>
+<strong>Geographic Scope:</strong> Region<br>
+<strong>Estimated Humanitarian Impact:</strong> 1,303,000 displaced<br>
+<strong>Estimated Duration:</strong>Weeks to months
+<br>
+<strong>Event Scope:</strong> Major<br>
+<strong>Local Contacts:</strong>Unique Mappers<br>
+<strong>Anticipated Needs:</strong> Basemap Improvement
+<br>
+<strong>Request(s):</strong>There are no requests from partners currently<br>
+<strong>Need for Activation:</strong> Likely<br>
+<strong>Active Orgs:</strong> HOT and Unique Mappers Network<br>
+<strong>Lead Orgs:</strong> Unique Mappers Network Nigeria<be>
+
+<h2>Response Details</h2>
+
+Context:Nigeria is suffering its worst flooding in a decade, forcing 1.4 million people from their homes . Lokoja the confluence town of the country is a major hit of this flood . Critical geospatial data is required by the government and humanitarian agencies to provide rapid response to flood victims in the area. Unique Mappers Network-The OpenStreetMap community NGO in Nigeria in Collaboration with the Nigerian Cartographic Association at its 43rd International Conference calls for volunteers to join us respond to flood in Lokoja,Nigeria.
+
+Here is the list of projects to map the affected area:
+
+<a href="https://tasks.hotosm.org/projects/13629">13629, 
+[DISASTER RESPONSE] - MAP NIGERIA FLOOD RESPONSE 2022 - LOKOJA,KOGI STATE,NIGERIA -NIGERIAN CARTOGRAPHIC ASSOCIATION CAMPAIGN
+</a>
+
+
