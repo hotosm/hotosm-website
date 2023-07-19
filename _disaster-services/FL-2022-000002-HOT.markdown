@@ -1,21 +1,75 @@
 ---
-title: East Timor Flood 2022 Alert
-date: 2022-07-07 11:41:00 Z
+title: East Timor Flood 2022 Response
+date: 2022-07-09 12:19:00 Z
 Glide: FL-2022-000002-HOT
 Event Name: East Timor Flood 2022
-GDACS ID: na
-GDACS-level: na
 Country:
 - Timor-Leste
 Event type: Fl Flood
-Summary Text: Disaster Services is currently monitoring this event in the Pacific.
+Summary Text: This is in activation by Open Mapping Hub and POI to support World Vision
+  in its response to the Floodings in the country.
 Feature Image: Fl Flood
-Status: alert
-Post-type: update
-source: <a href="http://www.tatoli.tl/2022/07/01/cruz-vermella-viqueque-apoia-emerjensia-vitima-inundasaun-iha-viqueque-vila/"
-  target="_blank">TATOLI, I.P—Agência de Noticiosa de Timor-Leste</a>
+Post-type: timeline
+Campaign: East Timor Flood 2022
+Tracking: hotosm-project-12944
+Report: available
 ---
+
+<h2>Alert Context</h2>
 
 "So far, more than 170 households have been registered as flood victims, following the storm and heavy rain from 29 to 30 June.
 
 In Covalima municipality, 118 prisoners were evacuated to Kay Xanana Gusmão’s airport after the Covalima State Prison was flooded." July 2, 2022
+
+<a href="http://www.tatoli.tl/2022/07/01/cruz-vermella-viqueque-apoia-emerjensia-vitima-inundasaun-iha-viqueque-vila/" target="_blank">TATOLI, I.P—Agência de Noticiosa de Timor-Leste</a>
+
+<h2>Size-up Context</h2>
+
+<strong>Context:</strong>Over 800 households have been affected by floods in East Timor. 247 households in Covalima; 416 households in Viqueque; 206 in Manufahi.<br>Source: World Vision Timor Leste<be>  
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong>East Timor Flood 2022<br>
+<strong>GDACS Alert Lvl:</strong>NA<br>
+<strong>Location:</strong>Covalima, Viqueque and Manufahi District, East Timor<br>
+<strong>Geographic Scope:</strong> City<br>
+<strong>Estimated Humanitarian Impact:</strong> 1.Covalima : 247 households affected (=547 people) 2.Viqueque: 416 HHs (=1004 people)  3.Manufahi: 206 HHs (=1014 people)<br>
+<strong>Estimated Duration:</strong> Days<br>
+<strong>Event Scope:</strong> Minor<br>
+<strong>Local Contacts:</strong> World Vision Timor Leste<br>
+<strong>Anticipated Needs:</strong> Basemap Improvement
+<br>
+<strong>Request(s):</strong> Support to map the area<br>
+<strong>Need for Activation:</strong> Likely<br>
+<strong>Active Orgs:</strong> World Vision Timor Leste, Open Mapping Hub and POI<br>
+<strong>Lead Orgs:</strong> Open Mapping Hub and POI<be>
+
+
+<h2>Response Details</h2>
+
+Context: The eastern part of Timor Leste was hit by a flood recently, and at the moment the data shows that the hardest-hit municipalities are:
+
+- Covalima: 247 households affected (=547 people)
+
+- Viqueque: 416 HHs (=1004 people)
+
+- Manufahi: 206 HHs (=1014 people)
+
+Other areas are also affected with minimum impacts: Ainaro (3HHs), Baucau ( 11 HHs), and Bobonaro (1HH). Please bear in mind that these data are not yet verified and will potentially increase but it will give you an idea of the scale of the impact. In Covalima, the water has decreased and some people have returned to their homes, but in the other two areas (Viqueque and Manufahi) most people are still evacuating.
+
+The media also broadcasted the news:
+
+- <a href="https://youtu.be/m7_VZLfvzwI">400 families suffer due to floodings</a>
+
+-  <a href="https://youtu.be/r2luKOxJfR8">PNTL ayuda a la comunidad de Nebe</a>
+
+- <a href="http://www.tatoli.tl/2022/07/01/cruz-vermella-viqueque-apoia-emerjensia-vitima-inundasaun-iha-viqueque-vila/">Tatoli News Agency</a>
+
+
+Here is the list of projects to map the affected area:
+
+<a href="https://tasks.hotosm.org/projects/12944">12944, 
+[DISASTER RESPONSE] - EAST TIMOR FLOOD 2022
+</a>
+
+
