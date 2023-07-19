@@ -1,20 +1,42 @@
 ---
-title: Tropical Cyclone Amphan Alert
-date: 2018-05-05 15:26:00 Z
+title: Tropical Cyclone Amphan Size-up
+date: 2020-05-22 17:28:00 Z
 Glide: TC-2020-000136-MMR
-Field name: Tropical Cyclone Amphan
+Event Name: Tropical Cyclone Amphan
+GDACS-level: Red (2.5)
+GDACS ID: TC 1000667
 Country:
 - Bangladesh
 - Bhutan
 - India
 Event type: TC Tropical Cyclone
-Summary Text: '"At 12:30 on 11 May 2020, the Department of Meteorology and Hydrology
-  (DMH) informed that the Tropical Cyclone (TC) Amphan has formed in Southeast Bay
-  of Bengal and adjoining Southwest Bay of Bengal"'
+Summary Text: '"Tropical Cyclone Amphan has been sized-up."'
 Feature Image: TC Tropical Cyclone
-Status: update
-Post-type: update
-source: Department of Meteorology and Hydrology (DMH), Myanmar
+Post-type: timeline
+HDX: <a href="https://data.humdata.org/organization/hot">Regional</a>
+Resources: N/A
+Wiki-page: N/A
 ---
 
+<h2>Context</h2>
+
+"At 12:30 on 11 May 2020, the Department of Meteorology and Hydrology (DMH) informed that the Tropical Cyclone (TC) Amphan has formed in Southeast Bay of Bengal and adjoining Southwest Bay of Bengal"
+
 "[...] where it was expected to intensify into severe cyclone category. Currently existing at about 530 miles southwest of Paradadip (Odisha, India), about 615 miles south-southwest of Digha (India), about 675 miles southwest of Khepupara (Bangladesh) and 605 miles southwest of Pathein (Myanmar). On 18 May 2020, the system strengthened to extreme severe tropical cyclone as category 5, heading towards eastern India and Bangladesh. The indirect impact is expected in Myanmar on 20 May 2020."
+
+Department of Meteorology and Hydrology (DMH), Myanmar
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong> Tropical Cyclone Amphan<br>
+<strong>Type ofEvent:</strong>  Slow Onset<br>
+<strong>Location:</strong> Asia (Bangladesh, India, Bhutan)<br>
+<strong>Geographic Scope:</strong>  Region impacted, heaviest damage: cities to region<br>
+<strong>Estimated Humanitarian Impact:</strong>  33.8 Million exposed to cat 1 or higher<br>
+<strong>Estimated Duration:</strong> Day(s) to Week(s)<br>
+<strong>Event Scope:</strong> Moderate<br>
+<strong>Local Contacts:</strong> Saikiat Maiti<br>
+<strong>Anticipated Needs:</strong> Identified missing COD (buildings) in south Bengal<br>
+<strong>Request(s):</strong>  Local mappers requesting projects<br>
+<strong>Current capacity to support</strong> Limited due to continued focus on COVID, but ok to support local lead<br>
+<strong>Need for Activation:</strong> Low to Medium likelihood for full Activation <br>
