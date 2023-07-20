@@ -1,8 +1,8 @@
 ---
 title: Tropical Cyclone Tauktae-21
 date: 2021-06-25 12:30:00 Z
-Event Name: Tropical Cyclone Tauktae-21
 Glide: TC-2021-000056
+Event Name: Tropical Cyclone Tauktae-21
 GDACS-level: 
 Country:
 - India
