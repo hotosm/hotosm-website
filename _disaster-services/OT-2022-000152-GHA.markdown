@@ -1,5 +1,5 @@
 ---
-title: Bogoso Explosion Activation
+title: Bogoso Explosion Response
 date: 2022-02-01 23:50:00 Z
 Glide: OT-2022-000152-GHA
 Event Name: Bogoso Explosion 2022

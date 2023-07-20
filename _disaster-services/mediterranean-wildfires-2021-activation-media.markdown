@@ -1,5 +1,5 @@
 ---
-title: Mediterranean Wildfires 2021 Activation
+title: Mediterranean Wildfires 2021 Response
 date: 2021-08-14 02:51:00 Z
 Glide:
 - WF-2021-000115-DZA
