@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Epidemic Activation
+title: COVID-19 Epidemic Response
 date: 2020-03-24 12:00:00 Z
 Glide: EP-2020-000012
 Event Name: COVID-19 Epidemic
