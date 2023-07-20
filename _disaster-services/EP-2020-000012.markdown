@@ -37,6 +37,14 @@ GDACS Alert Lvl.:
 Report: available
 ---
 
+<h2>Context</h2>
+
+The new strain of coronavirus (COVID-19), has originated in Wuhan, China. Coronaviruses are a large family of viruses with some causing less-severe diseases, such as the common cold, and others more severe diseases such as MERS and SARS.
+
+WHO
+
+<h2>Size up Details</h2>
+
 To the amazing HOT staff(including key volunteers ‐ you know who you are) and lurkers in the Activation Working
 Group, What a strange time it is, but if you look back to the last major pandemic that struck the human population in 1918.
 What an amazing thing it is to be able to quickly identify thedisease and take incredible, and difficult, measures to
