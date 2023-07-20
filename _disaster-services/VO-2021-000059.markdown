@@ -1,9 +1,9 @@
 ---
 title: Nyiragongo Eruption Size-up
 date: 2021-06-24 12:00:00 Z
+Glide: VO-2021-000059
 Event Name: Nyiragongo Eruption
 GDACS-level: RED 2.5
-Glide: VO-2021-000059
 Country:
 - Democratic Republic of the Congo
 - Rwanda
@@ -39,6 +39,14 @@ GDACS ID:
 GDACS Alert Lvl.: 
 Report: available
 ---
+
+<h2>Context</h2>
+
+On 22 May 2021 at 19:00 HRS, Mt. Nyiragongo, located in North Kivu Province of the Democratic Republic of Congo suddenly erupted. The first eruption was reported at 19:00 22 May on the NE side of the crater towards the Rwanda border and not Goma city. The lava initially started flowing towards Rwanda. The second eruption was reported at 19:30 due to a crack on the crater face towards Goma city, facing the Goma International Airport. This sudden volcanic eruption created panic within the population, leading to mass movement towards the south into Goma and south east, out of the city of Goma. A portion of the population also fled towards Rwanda.
+
+DRC Red Cross and IFRC
+
+<h2>Size up Details</h2>
 
 The volcano Nyiragongo (a GDACS Red alert score of 2.5) is currently affecting the surrounding area of Goma in the
 Democratic Republic of Congo. The eruption prompted population movement and damaged the built environment.
