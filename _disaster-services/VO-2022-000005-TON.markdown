@@ -19,6 +19,12 @@ GDACS Incident Name: Volcanic eruption for Hunga Tonga-Hunga Ha apai
 Status: size-up
 ---
 
+<h2>Context</h2>
+
+"Volcanic eruption Hunga Tonga-Hunga Ha apai can have a high humanitarian impact based on the exposed population and vulnerability."
+
+<a href="https://www.gdacs.org/report.aspx?eventid=1000036&episodeid=5&eventtype=VO" target="_blank">GDACS</a>
+
 <h2>Size-up Details</h2>
 
 <strong>Event Name:</strong>Hunga Tonga-Hunga Ha'pai Volcanic Eruption and Tsunami 2022<br>
