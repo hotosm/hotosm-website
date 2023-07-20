@@ -1,19 +1,24 @@
 ---
-title: Tropical Cyclone Odette/Rai Size-up
-date: 2021-12-17 07:12:00 Z
+title: Tropical Cyclone Odette Response
+date: 2021-12-17 07:37:00 Z
 Glide: TC-2021-000202-PHL
 Event Name: Tropical Cyclone Odette 2021
-GDACS ID: TC 1000853
-GDACS-level: 2.5 (Red)
-Country: Philippines
+Country:
+- Philippines
 Event type: TC Tropical Cyclone
-Summary Text: 'Tropical Cyclone Odette/Rai has been sized-up. '
+Summary Text: Tropical Cyclone Odette 2021 Response are activities that support the
+  local OSM Philippines Community on the following campaign.
 Feature Image: TC Tropical Cyclone
 Post-type: timeline
 HDX: <a href="https://data.humdata.org/organization/hot?q=philippines">Philippines</a>
 Resources: N/A
-Phase: Phase 1
-Wiki-page: https://wiki.openstreetmap.org/wiki/Cyclone_Odette_2021
+Campaign: Tropical Cyclone Odette 2021
+Status: size-up
+Timeline: '16 December 2021 - '
+Size-up: https://www.hotosm.org/disaster-services/tropical-cyclone-odette-slash-rai-size-up/
+Wiki-page: N/A
+Tracking: odetteph
+Report: available
 ---
 
 <h2>Context</h2>
@@ -35,4 +40,11 @@ Wiki-page: https://wiki.openstreetmap.org/wiki/Cyclone_Odette_2021
 <strong>Local Contacts:</strong> We ares till supporting from Typhoon Rolly and have already discussed Ulysses<br>
 <strong>Request(s):</strong> None Yet<br>
 <strong>HOT Current Capacity:</strong> Capacity may not be sufficient to manage response fully, Support capacity good<br>
-<strong>Need for Activation:</strong> Low to Moderate<br>
+<strong>Need for Activation:</strong> Low to Moderate<be>
+
+
+<h2>Response Details</h2>
+
+The Tropical Cyclone Odette Response are activities to support the <a href="https://tasks.hotosm.org/organisations/13"> OpenStreetMap Philippines Community</a> in their response to Tropical Cyclone Odette (international name: Rai). 
+
+See their <a href="https://tasks.hotosm.org/explore?campaign=Tropical%20Cyclone%20Odette%202021">Campaign for impacted areas in the central Philippines</a>.
