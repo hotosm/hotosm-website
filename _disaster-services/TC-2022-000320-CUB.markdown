@@ -18,7 +18,11 @@ Resources: N/A
 Status: size-up
 ---
 
+<h2>Context</h2>
+
 "Tropical Cyclone IAN-22 can have a high humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability."
+
+<a href="https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000923" target="_blank">GDACS</a>
 
 <h2>Size-up Details</h2>
 
