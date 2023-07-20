@@ -1,20 +1,66 @@
 ---
-title: 'Pakistan: Floods, Monsoon Season 2022 Alert'
-date: 2022-07-03 18:36:00 Z
+title: 'Pakistan: Floods, Monsoon Season 2022 Response'
+date: 2022-08-30 07:46:00 Z
 Glide: FL-2022-000254-PAK
 Event Name: 'Pakistan: Floods, Monsoon Season 2022'
-GDACS ID: 1101522
-GDACS-level: Red (2.5)
 Country:
 - Pakistan
 Event type: Fl Flood
-Summary Text: Retrospectively logged this event due to ongoing floodings related to
-  the Monsoon season in Pakistan.
+Summary Text: This is in activation by the Asia Pacific Open Mapping Hub to support
+  disaster response to the Floodings in Pakistan.
 Feature Image: Fl Flood
-Status: alert
-Post-type: update
-source: <a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22617&record=45&last=7615"
-  target="_blank">GLIDE</a>
+Post-type: timeline
+Campaign: 'Pakistan: Floods, Monsoon Season 2022'
+Tracking: hotosm-project-13404
+Report: available
 ---
 
+<h2>Context</h2>
+
 "NDMA also reported that in a period from 14 June to 03 July, at least 38 people have lost their lives and 59 have been injured across the country as a result of severe weather from the monsoon of this year. Furthermore 110 houses have been destroyed and 231 severely damaged."
+
+<a href="https://glidenumber.net/glide/public/search/details.jsp?glide=22617&record=45&last=7615" target="_blank">GLIDE</a>
+
+<h2>Size-up Context</h2>
+
+<strong>Context:</strong>"The floods caused by the monsoon rains since mid-June 2022 has affected Balochistan, Sindh, Gilgit-Baltistan, Punjab, Azad Jammu and Kashmir, and Khyber Pakhtunkhwa (KPK) provinces of Pakistan. According to the official figures (NDMA, SIT-REP No.076) the massive floods have so far claimed 1,061 lives and injured 1,575 people. The estimated number of affected people is around 30 million, and around 1 million houses are totally or partially damaged leaving behind millions in need of urgent shelter."
+<br>Source: Pakistan Red CrescentTurkish Red Crescent<be>  
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong>Pakistan: Floods, Monsoon Season 2022<br>
+<strong>GDACS Alert Lvl:</strong>Red (2.5)<br>
+<strong>Location:</strong>Balochistan, Sindh, Gilgit-Baltistan, Punjab, Azad Jammu and Kashmir, and Khyber Pakhtunkhwa<br>
+<strong>Geographic Scope:</strong> Country<br>
+<strong>Estimated Humanitarian Impact:</strong> death: 1061, displaced: 215 997, injured: 1575 <br>
+<strong>Estimated Duration:</strong> Months<br>
+<strong>Event Scope:</strong> Major<br>
+<strong>Local Contacts:</strong> OSM Pakistan<br>
+<strong>Anticipated Needs:</strong> Basemap Improvement
+<br>
+<strong>Request(s):</strong> Support to map the area<br>
+<strong>Need for Activation:</strong> Likely<br>
+<strong>Active Orgs:</strong> Asia Pacific Open Mapping Hub<br>
+<strong>Lead Orgs:</strong>Asia Pacific Open Mapping Hub<br>
+
+
+<strong>Context:</strong>"- 116 districts affected, including 66 districts officially declared ‘calamity hit’.
+
+- At least 937 people killed and 1,343 people injured since 14 June.
+
+- Rainfall nationwide is 2.87 times higher than the national 30-year average, with some provinces receiving more than five times as much rainfall as their 30-year average.
+
+- The Government of Pakistan has earmarked PKR 35 billion (ca. US$173 million) to aid flood-affected people under the Benazir Income Support Programme (BISP), among other assistance.
+
+- Humanitarian partners are providing aid for flood-affected people even as weather and ground conditions inhibit access.
+
+- The humanitarian situation is expected to worsen as communities and infrastructure are increasingly unable to cope with ongoing heavy rainfall"
+<br>Source: Pakistan: 2022 Monsoon Floods - Situation Report No. 03: As of 26 August 2022, UN Office for the Coordination of Humanitarian Affairs<be>  
+
+Here is the list of projects to map the affected area:
+
+<a href="https://tasks.hotosm.org/projects/13404">13404, 
+[DISASTER RESPONSE] - PAKISTAN FLOOD 2022, NASIRABAD DISTRICT, BALOCHISTAN
+</a>
+
+
