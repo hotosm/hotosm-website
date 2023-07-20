@@ -1,23 +1,28 @@
 ---
-title: Afghanistan Earthquake 2022 Size-up
-date: 2022-06-24 04:42:00 Z
+title: Afghanistan Earthquake 2022 Response
+date: 2022-06-24 05:42:00 Z
 Glide: EQ-2022-000232-AFG
 Event Name: M 5.9 in Afghanistan on 21 Jun 2022
-GDACS ID: EQ 1327560
-GDACS-level: Red (2.3)
 Country:
 - Afghanistan
 - Pakistan
 Event type: EQ Earthquake
-Summary Text: M 5.9 in Afghanistan on 21 Jun 2022 has been sized-up.
+Summary Text: This is in activation led by Open Mapping Hub Asia-Pacific for the earthquake
+  in eastern Afghanistan.
 Feature Image: EQ Earthquake
 Post-type: timeline
-HDX: <a href="https://data.humdata.org/organization/hot?q=afghanistan">Afghanistan</a>
-Resources: <a href="https://www.maxar.com/open-data/afghanistan-earthquake22">MAXAR</a>
-Status: size-up
+Campaign: Afghanistan Earthquake 2022
+Tracking: afghanistanearthquake2022
+Report: available
 ---
 
+<h2>Context</h2>
+
+"This earthquake can have a high humanitarian impact based on the magnitude and the affected population and their vulnerability."
+
 <strong>Context:</strong>According to media reports, 920 people have died, over 600 people have been injured and infrastructure was damaged. The most affected province is Paktika Province (south of Khost Province) with at least 200 deaths, but fatalities were also reported in the Provinces of Khost and Nangarhar. The seismic event was also felt in Pakistan and India.<be> Source: <a href="https://reliefweb.int/report/afghanistan/afghanistan-earthquake-dg-echo-gdacs-usgs-amd-meteo-forecast-media-echo-daily-flash-22-june-2022">ECHO, 22 June 2022 Bangladesh</a>
+
+<a href="https://gdacs.org/report.aspx?eventid=1327560&episodeid=1449790&eventtype=EQ" target="_blank">GDACS</a>
 
 <h2>Size-up Details</h2>
 
@@ -33,4 +38,18 @@ Status: size-up
 <strong>Request(s):</strong> Publication support and map the affected areas in Tasking Manager<br>
 <strong>Need for Activation:</strong> Likely<br>
 <strong>Active Orgs:</strong> OpenStreetMap Afghanistan<br>
-<strong>Lead Orgs:</strong> HOTOSM<br>
+<strong>Lead Orgs:</strong> HOTOSM<be>
+
+
+<h2>Response Details</h2>
+
+Context: "A powerful earthquake struck a rugged, mountainous region of eastern Afghanistan early Wednesday, flattening stone and mud-brick homes and killing at least 1,000 people. The disaster posed a new test for Afghanistan’s Taliban rulers and relief agencies already struggling with the country’s multiple humanitarian crises.
+
+The quake was Afghanistan’s deadliest in two decades, and officials said the toll could rise. An estimated 1,500 others were reported injured, the state-run news agency said." 
+Source:<a href=" https://apnews.com/article/afghanistan-earthquakes-bacc4c96b7a07b5d7d397bee9eb9d3c8">AP, June 23, 2022</a> - 
+
+
+Here is the list of projects waiting for your response:
+
+<a href="https://tasks.hotosm.org/projects/12867">12867, 
+[DISASTER RESPONSE] - AFGHANISTAN EARTHQUAKE 2022</a>
