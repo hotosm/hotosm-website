@@ -1,5 +1,5 @@
 ---
-title: Tropical Cyclone Rolly/Goni Activation
+title: Tropical Cyclone Rolly/Goni Response
 date: 2020-11-10 05:00:00 Z
 Glide: TC-2020-000214-PHL
 Event Name: Tropical Cyclone Rolly/Goni
