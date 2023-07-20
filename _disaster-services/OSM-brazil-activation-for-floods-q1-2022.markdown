@@ -1,5 +1,5 @@
 ---
-title: OSM Brazil's Activation for Floods Q1 2022
+title: OSM Brazil's Response for Floods Q1 2022
 date: 2022-02-28 00:20:00 Z
 Glide: FL-2022-000171-BRA
 Event Name: Brazil floods Q1 2022 Support
