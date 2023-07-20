@@ -1,5 +1,5 @@
 ---
-title: Afghanistan Earthquake 2022 Activation
+title: Afghanistan Earthquake 2022 Response
 date: 2022-06-24 05:42:00 Z
 Glide: EQ-2022-000232-AFG
 Event Name: M 5.9 in Afghanistan on 21 Jun 2022

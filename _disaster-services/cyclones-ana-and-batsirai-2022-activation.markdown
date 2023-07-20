@@ -1,5 +1,5 @@
 ---
-title: Cyclones Ana & Batsirai 2022 Activation
+title: Cyclones Ana & Batsirai 2022 Response
 date: 2022-02-10 20:41:00 Z
 Glide: ST-2022-000138-MDG
 Event Name: Cyclones Ana & Batsirai 2022
