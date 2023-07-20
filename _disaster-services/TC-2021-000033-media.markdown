@@ -1,5 +1,5 @@
 ---
-title: Tropical Cyclone SEROJA Visual
+title: Tropical Cyclone SEROJA Visualization
 date: 2021-04-09 12:00:00 Z
 Glide: TC-2021-000033
 Event Name: Tropical Cyclone SEROJA
