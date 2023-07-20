@@ -1,5 +1,5 @@
 ---
-title: Haiti Earthquake 2021 Activation
+title: Haiti Earthquake 2021 Response
 date: 2021-08-16 23:19:00 Z
 Glide: EQ-2021-000116-HTI
 Event Name: Haiti Earthquake 2021
