@@ -1,8 +1,8 @@
 ---
-title: Tropical Cyclone SEROJA
+title: Tropical Cyclone SEROJA Visual
 date: 2021-04-09 12:00:00 Z
-Event Name: Tropical Cyclone SEROJA
 Glide: TC-2021-000033
+Event Name: Tropical Cyclone SEROJA
 GDACS-level: 
 Country:
 - Indonesia
