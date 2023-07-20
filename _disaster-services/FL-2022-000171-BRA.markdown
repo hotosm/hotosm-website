@@ -19,6 +19,12 @@ GDACS Incident Name: Overall Orange alert Flood in Brazil
 Status: size-up
 ---
 
+<h2>Context</h2>
+
+"Very heavy rainfall on 15 February in the city of Petrópolis (north of Rio de Janeiro City) have caused extensive floods and landslides, resulting in casualties. According to initial reports from media, at least 94 people have died, but the number of fatalities might increase as rescue teams are searching for an undetermined number of missing people. At least 400 people have been displaced, while military and civil defence [sic] teams have been mobilised [sic] to assist the affected local population. A state of crisis has been issued for Petrópolis, and all public and commercial activities have been suspended."
+
+<a href="https://www.gdacs.org/report.aspx?eventid=1101285&episodeid=2&eventtype=FL" target="_blank">GDACS</a>
+
 <h2>Size-up Details</h2>
 
 <strong>Event Name:</strong>Petrópolis Brazil Floods 2022<br>
