@@ -19,6 +19,12 @@ GDACS Incident Name: Forest Fire (1049 ha) in United States 30 Dec 2021
 Status: size-up
 ---
 
+<h2>Context</h2>
+
+"This forest fire can have a low humanitarian impact based on the and the affected population and their vulnerability."
+
+<a href="https://gdacs.org/report.aspx?eventid=1003779&episodeid=1&eventtype=WF"_blank">GDACS</a>
+
 <h2>Size-up Details</h2>
 
 <strong>Event Name:</strong>Marshall Fire<br>
