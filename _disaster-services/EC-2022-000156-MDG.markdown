@@ -19,6 +19,13 @@ GDACS Incident Name: BATSIRAI-22
 Status: size-up
 ---
 
+<h2>Context</h2>
+
+"Tropical Cyclone BATSIRAI-22 can have a high humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability."
+
+<a href="https://www.gdacs.org/report.aspx?eventid=1000859&episodeid=14&eventtype=TC" target="_blank">GDACS</a>
+
+
 <h2>Size-up Details</h2>
 
 <strong>Event Name:</strong>ESA Cyclone Batsirai 2022<br>
