@@ -23,6 +23,13 @@ GDACS Incident Name:
 Status: size-up
 ---
 
+<h2>Context</h2>
+
+"Tropical Cyclone ANA-22 can have a medium humanitarian impact based on the maximum sustained wind speed, exposed population and vulnerability"
+
+<a href="https://www.gdacs.org/report.aspx?eventid=1000858&episodeid=3&eventtype=TC" target="_blank">GDACS</a>
+
+
 <h2>Size-up Details</h2>
 
 <strong>Event Name:</strong>Tropical Cyclone for ANA-22 <br>
