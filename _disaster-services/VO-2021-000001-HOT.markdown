@@ -21,6 +21,10 @@ source: <a href="https://www.gdacs.org/report.aspx?eventid=1000031&episodeid=2&e
   target="_blank">*GDACS</a>
 ---
 
+<h2>Context</h2>
+
+"Volcanic eruption La Palma can have a medium humanitarian impact based on the exposed population and vulnerability." GDACS
+
 <h2>Size-up Details</h2>
 
 <strong>Event Name:</strong> Cumbre Vieja Volcanic Eruption<br>
