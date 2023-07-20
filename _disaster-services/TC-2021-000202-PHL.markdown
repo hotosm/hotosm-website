@@ -1,20 +1,38 @@
 ---
-title: Tropical Cyclone Odette Alert
-date: 2021-12-16 13:28:00 Z
+title: Tropical Cyclone Odette/Rai Size-up
+date: 2021-12-17 07:12:00 Z
 Glide: TC-2021-000202-PHL
-Event Name: Tropical Cyclone Odette
+Event Name: Tropical Cyclone Odette 2021
 GDACS ID: TC 1000853
-GDACS-level: Red 2.5
+GDACS-level: 2.5 (Red)
 Country: Philippines
 Event type: TC Tropical Cyclone
-Summary Text: According to the Philippines weather bureau, PAGASA, Typhoon Rai (locally
-  named Odette) expected to make landfall in the vicinity of Surigao Provinces or
-  southern portion of Eastern Visayas late on Thursday,16 December.
+Summary Text: 'Tropical Cyclone Odette/Rai has been sized-up. '
 Feature Image: TC Tropical Cyclone
-Status: alert
-Post-type: update
-source: <a href="https://reliefweb.int/sites/reliefweb.int/files/resources/PDC_Typhoon_Rai_Philippines_UNOCHA_WFP_JADE_15DEC%202100UTC.pdf"
-  target="_blank">IFRC in Reliefweb</a>
+Post-type: timeline
+HDX: <a href="https://data.humdata.org/organization/hot?q=philippines">Philippines</a>
+Resources: N/A
+Phase: Phase 1
+Wiki-page: https://wiki.openstreetmap.org/wiki/Cyclone_Odette_2021
 ---
 
-"Typhoon Rai (locally named Odette) further intensified and became of typhoon strength while it continued to move west northwestward. According to the Philippines weather bureau, PAGASA, Typhoon Rai continues to gain strength, currently packing maximum winds of 130 km/h and gustiness of up to 160 km/h and is expected to make landfall in the vicinity of Surigao Provinces or southern portion of Eastern Visayas late on Thursday,16 December with high winds up to 155 km/h." -Glide
+<h2>Context</h2>
+
+"Typhoon Rai (locally named Odette) further intensified and became of typhoon strength while it continued to move west northwestward. According to the Philippines weather bureau, PAGASA, Typhoon Rai continues to gain strength, currently packing maximum winds of 130 km/h and gustiness of up to 160 km/h and is expected to make landfall in the vicinity of Surigao Provinces or southern portion of Eastern Visayas late on Thursday,16 December with high winds up to 155 km/h." 
+
+<a href="https://reliefweb.int/sites/reliefweb.int/files/resources/PDC_Typhoon_Rai_Philippines_UNOCHA_WFP_JADE_15DEC%202100UTC.pdf" target="_blank">IFRC in Reliefweb</a>
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong> Tropical Cyclone Odette (International Name: Rai)<br>
+<strong>Type of Event:</strong> Sudden Onset<br>
+<strong>Location:</strong> NW Pacific Ocean<br>
+<strong>Geographic Scope:</strong>  Country/Countries (Philippines, potentially Vietnam)<br>
+<strong>Estimated Humanitarian Impact:</strong>  11.698 million impacted by Category 1 or higher<br>
+<strong>Estimated Duration:</strong> Week to Month(s)<br>
+<strong>Event Scope:</strong> Moderate<br>
+<strong>Anticipated Needs:</strong> Documentation, Basemap Improvement in Dinagat Islands<br>
+<strong>Local Contacts:</strong> We ares till supporting from Typhoon Rolly and have already discussed Ulysses<br>
+<strong>Request(s):</strong> None Yet<br>
+<strong>HOT Current Capacity:</strong> Capacity may not be sufficient to manage response fully, Support capacity good<br>
+<strong>Need for Activation:</strong> Low to Moderate<br>
