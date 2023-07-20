@@ -1,23 +1,41 @@
 ---
-title: Tropical Cyclone IDA Alert
-date: 2021-08-29 13:47:00 Z
+title: Tropical Cyclone IDA Size-up
+date: 2021-08-29 14:38:00 Z
 Glide: TC-2021-000131-CUB
 Event Name: Tropical Cyclone IDA
-GDACS ID: TC 1000818
 GDACS-level: Red 2.5
 Country:
 - Cuba
 - United States
 Event type: TC Tropical Cyclone
-Summary Text: Tropical Cyclone IDA-21 can have a high humanitarian impact based on
-  the maximum sustained wind speed, exposed population, and vulnerability.
+Summary Text: Disaster Services is monitoring TC IDA as it is a GDACs Red alert but
+  an activation is unlikely.
 Feature Image: TC Tropical Cyclone
-Status: alert
-Post-type: update
-Source: <a href="https://www.gdacs.org/report.aspx?eventid=1000818&episodeid=17&eventtype=TC"
-  target="_blank">GDACS</a>
+Post-type: timeline
+HDX: <a href="https://data.humdata.org/organization/hot?q=cuba">Cuba</a>, <a href="https://data.humdata.org/organization/hot?q=united%20states">USA</a>
+Resources: N/A
+Status: size-up
+Phase: Phase 1
+Wiki-page: 
 ---
 
 "Tropical Cyclone IDA-21 can have a high humanitarian impact based on the maximum sustained wind speed, exposed population, and vulnerability."
 
-Source: GDACS
+Source: <a href="https://www.gdacs.org/report.aspx?eventid=1000818&episodeid=17&eventtype=TC" target="_blank">GDACS</a>
+
+<h2>Size-up Details</h2>
+
+<strong>Event Name:</strong> Tropical Cyclone IDA<br>
+<strong>Type ofEvent:</strong> Sudden Onset<br>
+<strong>Location:</strong> Cuba and Gulf Coast United States<br>
+<strong>Geographic Scope:</strong> Region<br>
+<strong>Estimated Humanitarian Impact:</strong> 2.7 Million in Category 1 or Higher<br>
+<strong>Estimated Duration:</strong> Week to Week(s)<br>
+<strong>Event Scope:</strong> Moderate<be>
+<strong>Anticipated Needs:</strong> Basemap improvements<br>
+<strong>Local Contacts:</strong>There are no local point(s) of contact identified as of yet<br>
+<strong>Request(s):</strong> There are no requests from partners currently<br>
+<strong>Need for Activation:</strong> Unikely<br>
+<br>
+<br>
+<img src="https://pbs.twimg.com/media/E-MKNynWEAURWQ2?format=jpg&name=large" > 
