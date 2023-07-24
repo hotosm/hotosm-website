@@ -1,0 +1,46 @@
+---
+title: Esmeraldas
+date: 2023-07-24 17:27:00 Z
+---
+
+A principios del mes de junio, la provincia de Esmeraldas en Ecuador se vio afectada por intensas lluvias que causaron el desborde de seis ríos de la región y ocasionando que aproximadamente 20,000 personas resultaran damnificadas, según la Secretaría de Gestión de Riesgos de Ecuador.
+
+En los días siguientes se desarrollaron las actividades de ayuda, y varios miembros de la comunidad mapeadora y humanitaria ecuatoriana -entre ellos funcionarios de la Secretaría de Gestión de Riesgos de Ecuador- contactaron al Hub de mapeo abierto de América Latina y el Caribe para coordinar acciones de mapeo, lo que nos llevó a generar una “respuesta al desastre” para la zona de Esmeraldas.
+
+**Metodología utilizada en la “respuesta al desastre” para las inundaciones, Esmeraldas, Ecuador**
+
+Se decidió generar proyectos específicos a través de la herramienta “Tasking Manager” de HOT para una respuesta inmediata. El primer paso consistió en definir las áreas de interés para los proyectos: los datos de entrada suministrados por las autoridades ecuatorianas fueron:
+
+* la capa de puntos con los sitios en los cuales ocurrió la emergencia (inundación)
+
+* la capa de susceptibilidad de inundación de la región
+
+* la capa con las parroquias afectadas por la emergencia
+
+Con el propósito de determinar las áreas prioritarias que requieren mayor atención por parte de las autoridades y que necesitan una cartografía actualizada, se analizó la mayor cantidad de variables que permitieran tener un concepto más claro de las zonas que podrían estar en riesgo. En tal sentido se determinaron tres elementos principales; la cercanía a los puntos de inundación, la cercanía a los centros poblados y el grado de susceptibilidad de inundación.
+
+Tomando como referencia las tres variables previamente mencionadas se procedió a:
+
+* Realizar un análisis multicriterio con ayuda de herramientas SIG
+
+* Generar capas de proximidad para conocer las zonas más cercanas a los puntos de inundación y a los centros poblados
+
+* Determinar las zonas en las que intervenían de manera crítica las tres variables.
+
+Estas zonas fueron las que finalmente se utilizaron para crear las tareas de mapeo en el Tasking Manager, lo cual se realizó de forma priorizada terminando con un total de 10 proyectos de mapeo.
+
+Con el primer grupo de tareas listo para ser trabajadas a partir del día ocho de junio empezamos a difundirlas por nuestras redes sociales ([Instagram](https://www.instagram.com/p/CtR2Vm-uydP/?img_index=1), [Twitter](https://twitter.com/mapeoabierto_la/status/1667174214518841347), [Facebook](https://www.facebook.com/permalink.php?story_fbid=580064027634034&id=100068913258326)) convocando a mapeadores y validadores de todo el mundo a colaborar con el [mapeo por Esmeraldas](https://tasks.hotosm.org/explore?text=ECUADOR%3A\+FLOODS).
+
+**Resultados obtenidos hasta el momento**
+
+Estando a 45 días de iniciadas las labores de mapeo de emergencia estos son los resultados en lo que corresponde a los proyectos creados:
+
+En resumen, a mitad de julio, siete de los diez proyectos ya fueron completados al 100% para un avance total del proyecto del 92% (mapeo y validación). Habiéndose mapeado hasta el momento 498 kilómetros de carreteras y 25,765 construcciones. 
+
+Cabe indicar que si bien esta metodología utilizó una información propia del fenómeno presentado en Esmeraldas - Ecuador, puede dar ideas acerca de cómo se puede seleccionar de manera efectiva las áreas de trabajo para los proyectos relacionados con la respuesta a emergencias que sucedan en otras regiones del mundo.
+
+De hecho, en un contexto de cambio climático global y con un fenómeno del Niño presente, el mapeo como herramienta en la gestión de riesgos y en la atención de desastres se vuelve totalmente necesario e imprescindible en las estrategias a implementar por los gobiernos locales y nacionales.
+
+Luego de esta colaboración, la Secretaría de Riesgos de Ecuador y el Hub de Mapeo Abierto LAC se preparan para establecer líneas de colaboración estables que permitan entrenar a la población local en técnicas de mapeo en áreas en riesgo, aumentar la calidad y cantidad de datos en formatos abiertos y disponibles y mejorar la capacidad de respuesta en Ecuador.
+
+En tal sentido el Hub de mapeo abierto está abierto y dispuesto a colaborar con otras oficinas de gestión de riesgo en la respuesta a emergencias, la preparación, la capacitación y el establecimiento de una red de apoyo geoespacial en la región de América Latina y el Caribe.
