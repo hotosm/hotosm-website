@@ -6,7 +6,15 @@ tags:
 - desastres
 - Ecuador
 - mapeo abierto
+Summary Text: El Hub de Mapeo Abierto LAC apoyó en las labores de respuesta al desastre
+  provocado por las inundaciones en Esmeraldas, Ecuador en coordinación con la Secretaria
+  de Riesgos de Ecuador.
 Feature Image: "/uploads/inundacion%20esmeraldas.jpg"
+Person:
+- Juan Melo Luna
+- Juan Arellano Valdivia
+Country:
+- Ecuador
 ---
 
 A principios del mes de junio, la provincia de Esmeraldas en Ecuador se vio [afectada por intensas lluvias](https://cnnespanol.cnn.com/2023/06/04/al-menos-1-600-familias-afectadas-por-inundaciones-en-la-provincia-de-esmeraldas-en-ecuador-orix/) que causaron el desborde de seis ríos de la región y ocasionando que aproximadamente [20,000 personas resultaran damnificadas](https://www.ecuavisa.com/noticias/ecuador/inundaciones-esmeraldas-lluvias-cultivos-HA5406797), según la Secretaría de Gestión de Riesgos de Ecuador.
