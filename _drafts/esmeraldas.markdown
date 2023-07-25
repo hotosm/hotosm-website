@@ -35,19 +35,27 @@ Tomando como referencia las tres variables previamente mencionadas se procedió 
 
 * Determinar las zonas en las que intervenían de manera crítica las tres variables.
 
+![5.jpg](/uploads/5.jpg)
+
+*Áreas definidas para los proyectos dentro del TM*
+
 Estas zonas fueron las que finalmente se utilizaron para crear las tareas de mapeo en el Tasking Manager, lo cual se realizó de forma priorizada terminando con un total de 10 proyectos de mapeo.
 
 Con el primer grupo de tareas listo para ser trabajadas a partir del día ocho de junio empezamos a difundirlas por nuestras redes sociales ([Instagram](https://www.instagram.com/p/CtR2Vm-uydP/?img_index=1), [Twitter](https://twitter.com/mapeoabierto_la/status/1667174214518841347), [Facebook](https://www.facebook.com/permalink.php?story_fbid=580064027634034&id=100068913258326)) convocando a mapeadores y validadores de todo el mundo a colaborar con el [mapeo por Esmeraldas](https://tasks.hotosm.org/explore?text=ECUADOR%3A\+FLOODS).
 
+![esmeraldasTM.jpg](/uploads/esmeraldasTM.jpg)
+
 **Resultados obtenidos hasta el momento**
 
-Estando a 45 días de iniciadas las labores de mapeo de emergencia estos son los resultados en lo que corresponde a los proyectos creados:
+Estando a 45 días de iniciadas las labores de mapeo de emergencia estos son los resultados en lo que corresponde a los diez proyectos creados:
+
+![stats esmeraldas.jpg](/uploads/stats%20esmeraldas.jpg)
 
 En resumen, a mitad de julio, siete de los diez proyectos ya fueron completados al 100% para un avance total del proyecto del 92% (mapeo y validación). Habiéndose mapeado hasta el momento 498 kilómetros de carreteras y 25,765 construcciones.
 
 Cabe indicar que si bien esta metodología utilizó una información propia del fenómeno presentado en Esmeraldas - Ecuador, puede dar ideas acerca de cómo se puede seleccionar de manera efectiva las áreas de trabajo para los proyectos relacionados con la respuesta a emergencias que sucedan en otras regiones del mundo.
 
-De hecho, en un contexto de cambio climático global y con un fenómeno del Niño presente, el mapeo como herramienta en la gestión de riesgos y en la atención de desastres se vuelve totalmente necesario e imprescindible en las estrategias a implementar por los gobiernos locales y nacionales.
+De hecho, en un contexto de cambio climático global y con un [fenómeno del Niño](https://es.wikipedia.org/wiki/El_Ni%C3%B1o_(fen%C3%B3meno)) presente, el mapeo como herramienta en la gestión de riesgos y en la atención de desastres se vuelve totalmente necesario e imprescindible en las estrategias a implementar por los gobiernos locales y nacionales.
 
 Luego de esta colaboración, la Secretaría de Riesgos de Ecuador y el Hub de Mapeo Abierto LAC se preparan para establecer líneas de colaboración estables que permitan entrenar a la población local en técnicas de mapeo en áreas en riesgo, aumentar la calidad y cantidad de datos en formatos abiertos y disponibles y mejorar la capacidad de respuesta en Ecuador.
 
