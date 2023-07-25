@@ -67,18 +67,18 @@ Being 45 days after the emergency mapping work began, these are the results in w
 
 ![stats esmeraldas.jpg](/uploads/stats%20esmeraldas.jpg)
 
-En resumen, a mitad de julio, siete de los diez proyectos ya fueron completados al 100% para un avance total del proyecto del 92% (mapeo y validación). Habiéndose mapeado hasta el momento 498 kilómetros de carreteras y 25,765 construcciones.
+In summary, by mid-July, seven of the ten projects were already 100% complete for a total project progress of 92% (mapping and validation).Up to now, 498 kilometers of roads and 25,765 buildings have been mapped.
 
-Cabe indicar que si bien esta metodología utilizó una información propia del fenómeno presentado en Esmeraldas - Ecuador, puede dar ideas acerca de cómo se puede seleccionar de manera efectiva las áreas de trabajo para los proyectos relacionados con la respuesta a emergencias que sucedan en otras regiones del mundo.
+It should be noted that although this methodology used information from the phenomenon presented in Esmeraldas - Ecuador, it can give ideas about how to effectively select the work areas for projects related to emergency response that occur in other regions of the world.
 
-De hecho, en un contexto de cambio climático global y con un [fenómeno del Niño](https://es.wikipedia.org/wiki/El_Ni%C3%B1o_(fen%C3%B3meno)) presente, el mapeo como herramienta en la gestión de riesgos y en la atención de desastres se vuelve totalmente necesario e imprescindible en las estrategias a implementar por los gobiernos locales y nacionales.
+In fact, in a context of global climate change and with a present [El Niño phenomenon](https://en.wikipedia.org/wiki/El_Ni%C3%B1o), mapping as a tool in risk management and disaster response becomes totally necessary and essential in the strategies to be implemented by local and national governments.
 
-Luego de esta colaboración, la Secretaría de Riesgos de Ecuador y el Hub de Mapeo Abierto LAC se preparan para establecer líneas de colaboración estables que permitan entrenar a la población local en técnicas de mapeo en áreas en riesgo, aumentar la calidad y cantidad de datos en formatos abiertos y disponibles y mejorar la capacidad de respuesta en Ecuador.
+After this collaboration, the Ecuadorian Risk Secretariat and the LAC Open Mapping Hub are preparing to establish stable lines of collaboration that allow training the local population in mapping techniques in areas at risk, increase the quality and quantity of data in open and available formats, and improve response capacity in Ecuador.
 
-En tal sentido el Hub de mapeo abierto está abierto y dispuesto a colaborar con otras oficinas de gestión de riesgo en la respuesta a emergencias, la preparación, la capacitación y el establecimiento de una red de apoyo geoespacial en la región de América Latina y el Caribe.
+In this sense, the Open Mapping Hub is open and willing to collaborate with other risk management offices in emergency response, preparation, training, and the establishment of a geospatial support network in the Latin American and Caribbean region.
 
-*Si quiere ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escriba un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**. Si es parte de alguna organización que desea explorar cómo colaborar en un proyecto, escriba un correo con **Asunto: Proyectos LAC**.*
+*If you want to be part of the community of volunteer mappers of the LAC Open Mapping Hub, write an email to [hublatam@hotosm.org](hublatam@hotosm.org) with **Subject: Volunteer mapper**. If you are part of an organization that wants to explore how to collaborate on a project, write an email with **Subject: LAC Projects**.*
 
-**Síganos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).**
+***Follow us on networks: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).***
 
-La [imagen destacada](https://www.facebook.com/photo.php?fbid=626532399522037&set=pb.100064958461371.-2207520000.&type=3) de este post fue tomada de la cuenta de Facebook de [Armada del Ecuador](https://www.facebook.com/armadaecuatoriana).
+The [featured image](https://www.facebook.com/photo.php?fbid=626532399522037&set=pb.100064958461371.-2207520000.&type=3) of this post was taken from the [Ecuadorian Navy](https://www.facebook.com/armadaecuatoriana) Facebook account.
