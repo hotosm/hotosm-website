@@ -3,7 +3,7 @@ title: Esmeraldas
 date: 2023-07-24 17:27:00 Z
 ---
 
-A principios del mes de junio, la provincia de Esmeraldas en Ecuador se vio afectada por intensas lluvias que causaron el desborde de seis ríos de la región y ocasionando que aproximadamente 20,000 personas resultaran damnificadas, según la Secretaría de Gestión de Riesgos de Ecuador.
+A principios del mes de junio, la provincia de Esmeraldas en Ecuador se vio [afectada por intensas lluvias](https://cnnespanol.cnn.com/2023/06/04/al-menos-1-600-familias-afectadas-por-inundaciones-en-la-provincia-de-esmeraldas-en-ecuador-orix/) que causaron el desborde de seis ríos de la región y ocasionando que aproximadamente [20,000 personas resultaran damnificadas](https://www.ecuavisa.com/noticias/ecuador/inundaciones-esmeraldas-lluvias-cultivos-HA5406797), según la Secretaría de Gestión de Riesgos de Ecuador.
 
 En los días siguientes se desarrollaron las actividades de ayuda, y varios miembros de la comunidad mapeadora y humanitaria ecuatoriana -entre ellos funcionarios de la Secretaría de Gestión de Riesgos de Ecuador- contactaron al Hub de mapeo abierto de América Latina y el Caribe para coordinar acciones de mapeo, lo que nos llevó a generar una “respuesta al desastre” para la zona de Esmeraldas.
 
@@ -17,7 +17,15 @@ Se decidió generar proyectos específicos a través de la herramienta “Taskin
 
 * la capa con las parroquias afectadas por la emergencia
 
+![3 en 1.jpg](/uploads/3%20en%201.jpg)
+
+*- Puntos de inundación en Esmeraldas - Mapa de susceptibilidad de la región - Parroquias Afectadas*
+
 Con el propósito de determinar las áreas prioritarias que requieren mayor atención por parte de las autoridades y que necesitan una cartografía actualizada, se analizó la mayor cantidad de variables que permitieran tener un concepto más claro de las zonas que podrían estar en riesgo. En tal sentido se determinaron tres elementos principales; la cercanía a los puntos de inundación, la cercanía a los centros poblados y el grado de susceptibilidad de inundación.
+
+![4.jpg](/uploads/4.jpg)
+
+*Centros poblados de la región*
 
 Tomando como referencia las tres variables previamente mencionadas se procedió a:
 
@@ -35,7 +43,7 @@ Con el primer grupo de tareas listo para ser trabajadas a partir del día ocho d
 
 Estando a 45 días de iniciadas las labores de mapeo de emergencia estos son los resultados en lo que corresponde a los proyectos creados:
 
-En resumen, a mitad de julio, siete de los diez proyectos ya fueron completados al 100% para un avance total del proyecto del 92% (mapeo y validación). Habiéndose mapeado hasta el momento 498 kilómetros de carreteras y 25,765 construcciones. 
+En resumen, a mitad de julio, siete de los diez proyectos ya fueron completados al 100% para un avance total del proyecto del 92% (mapeo y validación). Habiéndose mapeado hasta el momento 498 kilómetros de carreteras y 25,765 construcciones.
 
 Cabe indicar que si bien esta metodología utilizó una información propia del fenómeno presentado en Esmeraldas - Ecuador, puede dar ideas acerca de cómo se puede seleccionar de manera efectiva las áreas de trabajo para los proyectos relacionados con la respuesta a emergencias que sucedan en otras regiones del mundo.
 
