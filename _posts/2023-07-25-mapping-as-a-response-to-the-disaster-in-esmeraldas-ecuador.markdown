@@ -35,29 +35,29 @@ In the case of Esmeraldas, it was decided to generate specific projects through 
 
 ![3 en 1.jpg](/uploads/3%20en%201.jpg)
 
-*- Puntos de inundación en Esmeraldas - Mapa de susceptibilidad de la región - Parroquias Afectadas*
+*- Flooding points in Esmeraldas - Susceptibility map of the region - Affected Parishes*
 
-Con el propósito de determinar las áreas prioritarias que requieren mayor atención por parte de las autoridades y que necesitan una cartografía actualizada, se analizó la mayor cantidad de variables que permitieran tener un concepto más claro de las zonas que podrían estar en riesgo. En tal sentido se determinaron tres elementos principales; la cercanía a los puntos de inundación, la cercanía a los centros poblados y el grado de susceptibilidad de inundación.
+In order to determine the priority areas that require more attention from the authorities and that need an updated cartography, the largest number of variables were analyzed that would allow a clearer concept of the areas that could be at risk.In this sense, three main elements were determined;the proximity to flooding points, the proximity to populated centers and the degree of susceptibility to flooding.
 
 ![4.jpg](/uploads/4.jpg)
 
-*Centros poblados de la región*
+*Populated centers of the region*
 
-Tomando como referencia las tres variables previamente mencionadas se procedió a:
+Taking the three previously mentioned variables as a reference, we proceeded to:
 
-* Realizar un análisis multicriterio con ayuda de herramientas SIG
+* Carry out a multi-criteria analysis with the help of GIS tools
 
-* Generar capas de proximidad para conocer las zonas más cercanas a los puntos de inundación y a los centros poblados
+* Generate proximity layers to know the areas closest to flood points and populated centers
 
-* Determinar las zonas en las que intervenían de manera crítica las tres variables.
+* Determine the areas in which the three variables intervened critically.
 
 ![5.jpg](/uploads/5.jpg)
 
-*Áreas definidas para los proyectos dentro del TM*
+*Defined areas for projects within the TM*
 
-Estas zonas fueron las que finalmente se utilizaron para crear las tareas de mapeo en el Tasking Manager, lo cual se realizó de forma priorizada terminando con un total de 10 proyectos de mapeo.
+These areas were the ones that were finally used to create the mapping tasks in the Tasking Manager, which was carried out in a prioritized manner, ending up with a total of 10 mapping projects.
 
-Con el primer grupo de tareas listo para ser trabajadas a partir del día ocho de junio empezamos a difundirlas por nuestras redes sociales ([Instagram](https://www.instagram.com/p/CtR2Vm-uydP/?img_index=1), [Twitter](https://twitter.com/mapeoabierto_la/status/1667174214518841347), [Facebook](https://www.facebook.com/permalink.php?story_fbid=580064027634034&id=100068913258326)) convocando a mapeadores y validadores de todo el mundo a colaborar con el [mapeo por Esmeraldas](https://tasks.hotosm.org/explore?text=ECUADOR%3A\+FLOODS).
+With the first group of tasks ready to be worked on as of June 8, we began to spread them through our social networks. ([Instagram](https://www.instagram.com/p/CtR2Vm-uydP/?img_index=1), [Twitter](https://twitter.com/mapeoabierto_la/status/1667174214518841347), [Facebook](https://www.facebook.com/permalink.php?story_fbid=580064027634034&id=100068913258326)) summoning mappers and validators from all over the world to collaborate with the [mapping for Esmeraldas](https://tasks.hotosm.org/explore?text=ECUADOR%3A\+FLOODS).
 
 ![esmeraldasTM.jpg](/uploads/esmeraldasTM.jpg)
 
