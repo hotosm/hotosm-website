@@ -3,7 +3,7 @@ title: Mapping as a response to the disaster in Esmeraldas, Ecuador
 date: 2023-07-25 02:22:00 Z
 ---
 
-A principios del mes de junio, la provincia de Esmeraldas en Ecuador se vio [afectada por intensas lluvias](https://cnnespanol.cnn.com/2023/06/04/al-menos-1-600-familias-afectadas-por-inundaciones-en-la-provincia-de-esmeraldas-en-ecuador-orix/) que causaron el desborde de seis ríos de la región y ocasionando que aproximadamente [20,000 personas resultaran damnificadas](https://www.ecuavisa.com/noticias/ecuador/inundaciones-esmeraldas-lluvias-cultivos-HA5406797), según la Secretaría de Gestión de Riesgos de Ecuador.
+At the beginning of June, the province of Esmeraldas in Ecuador was [affected by intense rains](https://apnews.com/video/floods-ecuador-storms-guillermo-lasso-natural-disasters-d405eb2a2d7f4f3ebee93d0a1efa10af) that caused the overflow of six rivers in the region and caused approximately [20,000 people to be affected](https://www.plenglish.com/news/2023/03/18/heavy-rains-leave-more-than-15-thousand-people-affected-in-ecuador/), according to the Secretariat of Risk Management of Ecuador.
 
 En los días siguientes se desarrollaron las actividades de ayuda, y varios miembros de la comunidad mapeadora y humanitaria ecuatoriana -entre ellos funcionarios de la Secretaría de Gestión de Riesgos de Ecuador- contactaron al Hub de mapeo abierto de América Latina y el Caribe para coordinar acciones de mapeo, por lo que generamos una “respuesta al desastre” para la zona de Esmeraldas.
 
