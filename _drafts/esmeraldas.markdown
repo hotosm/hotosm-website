@@ -1,6 +1,6 @@
 ---
 title: El mapeo como respuesta al desastre en Esmeraldas, Ecuador
-date: 2023-07-24 17:27:00 Z
+date: 2023-07-25 05:27:00 Z
 tags:
 - inundacion
 - desastres
