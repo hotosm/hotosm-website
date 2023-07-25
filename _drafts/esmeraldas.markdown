@@ -25,7 +25,7 @@ En los días siguientes se desarrollaron las actividades de ayuda, y varios miem
 
 Básicamente la respuesta al desastre consiste en una serie de acciones que tomamos para poder ayudar a las poblaciones y/o organizaciones que nos lo solicitan cuando enfrentan un desastre. Esto va desde analizar el estado del mapa en ese momento hasta convocar a las redes de mapeadores voluntarios para realizar las tareas de mapeo necesarias.
 
-En el caso de Esmeraldas se decidió generar proyectos específicos a través de la herramienta “Tasking Manager” de HOT para una respuesta inmediata. El primer paso consistió en definir las áreas de interés para los proyectos: los datos de entrada suministrados por las autoridades ecuatorianas fueron:
+En el caso de Esmeraldas se decidió generar proyectos específicos a través de la herramienta “[Tasking Manager](https://tasks.hotosm.org/)” de HOT para una respuesta inmediata. El primer paso consistió en definir las áreas de interés para los proyectos: los datos de entrada suministrados por las autoridades ecuatorianas fueron:
 
 * la capa de puntos con los sitios en los cuales ocurrió la emergencia (inundación)
 
