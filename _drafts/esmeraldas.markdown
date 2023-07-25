@@ -1,6 +1,7 @@
 ---
-title: Esmeraldas
+title: El mapeo como respuesta al desastre en Esmeraldas, Ecuador
 date: 2023-07-24 17:27:00 Z
+Feature Image: "/uploads/inundacion%20esmeraldas.jpg"
 ---
 
 A principios del mes de junio, la provincia de Esmeraldas en Ecuador se vio [afectada por intensas lluvias](https://cnnespanol.cnn.com/2023/06/04/al-menos-1-600-familias-afectadas-por-inundaciones-en-la-provincia-de-esmeraldas-en-ecuador-orix/) que causaron el desborde de seis ríos de la región y ocasionando que aproximadamente [20,000 personas resultaran damnificadas](https://www.ecuavisa.com/noticias/ecuador/inundaciones-esmeraldas-lluvias-cultivos-HA5406797), según la Secretaría de Gestión de Riesgos de Ecuador.
@@ -64,3 +65,5 @@ En tal sentido el Hub de mapeo abierto está abierto y dispuesto a colaborar con
 *Si quiere ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escriba un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**. Si es parte de alguna organización que desea explorar cómo colaborar en un proyecto, escriba un correo con **Asunto: Proyectos LAC**.*
 
 **Síganos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).**
+
+La [imagen destacada](https://www.facebook.com/photo.php?fbid=626532399522037&set=pb.100064958461371.-2207520000.&type=3) de este post fue tomada de la cuenta de Facebook de [Armada del Ecuador](https://www.facebook.com/armadaecuatoriana).
