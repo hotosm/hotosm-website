@@ -60,3 +60,5 @@ De hecho, en un contexto de cambio climático global y con un [fenómeno del Ni�
 Luego de esta colaboración, la Secretaría de Riesgos de Ecuador y el Hub de Mapeo Abierto LAC se preparan para establecer líneas de colaboración estables que permitan entrenar a la población local en técnicas de mapeo en áreas en riesgo, aumentar la calidad y cantidad de datos en formatos abiertos y disponibles y mejorar la capacidad de respuesta en Ecuador.
 
 En tal sentido el Hub de mapeo abierto está abierto y dispuesto a colaborar con otras oficinas de gestión de riesgo en la respuesta a emergencias, la preparación, la capacitación y el establecimiento de una red de apoyo geoespacial en la región de América Latina y el Caribe.
+
+*Si quiere ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escriba un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**. Si es parte de alguna organización que desea explorar cómo colaborar en un proyecto, escriba un correo con **Asunto: Proyectos LAC**.*
