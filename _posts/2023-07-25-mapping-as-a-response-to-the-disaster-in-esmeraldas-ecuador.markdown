@@ -61,9 +61,9 @@ With the first group of tasks ready to be worked on as of June 8, we began to sp
 
 ![esmeraldasTM.jpg](/uploads/esmeraldasTM.jpg)
 
-**Resultados obtenidos hasta el momento**
+**Results obtained so far**
 
-Estando a 45 días de iniciadas las labores de mapeo de emergencia estos son los resultados en lo que corresponde a los diez proyectos creados:
+Being 45 days after the emergency mapping work began, these are the results in what corresponds to the ten projects created:
 
 ![stats esmeraldas.jpg](/uploads/stats%20esmeraldas.jpg)
 
