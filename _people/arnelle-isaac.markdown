@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Job Title: Disaster Services and Climate Resilience Specialist
 Team: Latin America and Caribbean Hub
+Social Media (Full URL):
+  OSM: " https://www.openstreetmap.org/user/Arnelle%20Isaac"
 ---
 
 Arnelle is the Disaster Services and Climate Resilience Specialist for HOT in the Latin America and Caribbean Hub.
