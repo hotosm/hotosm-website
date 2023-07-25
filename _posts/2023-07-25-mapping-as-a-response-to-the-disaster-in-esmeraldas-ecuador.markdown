@@ -6,6 +6,15 @@ tags:
 - disaster
 - Ecuador
 - open mapping
+Summary Text: The LAC Open Mapping Hub supported the response efforts to the disaster
+  caused by the floods in Esmeraldas, Ecuador in coordination with the Ecuadorian
+  Risk Secretariat.
+Feature Image: "/uploads/inundacion%20esmeraldas.jpg"
+Person:
+- Juan Melo Luna
+- Juan Arellano Valdivia
+Country:
+- Ecuador
 ---
 
 At the beginning of June, the province of Esmeraldas in Ecuador was [affected by intense rains](https://apnews.com/video/floods-ecuador-storms-guillermo-lasso-natural-disasters-d405eb2a2d7f4f3ebee93d0a1efa10af) that caused the overflow of six rivers in the region and caused approximately [20,000 people to be affected](https://www.plenglish.com/news/2023/03/18/heavy-rains-leave-more-than-15-thousand-people-affected-in-ecuador/), according to the Secretariat of Risk Management of Ecuador.
