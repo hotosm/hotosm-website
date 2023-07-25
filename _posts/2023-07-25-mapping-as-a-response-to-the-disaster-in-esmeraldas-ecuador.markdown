@@ -1,6 +1,6 @@
 ---
 title: Mapping as a response to the disaster in Esmeraldas, Ecuador
-date: 2023-07-25 02:22:00 Z
+date: 2023-07-25 05:29:00 Z
 tags:
 - floods
 - disaster
@@ -23,15 +23,15 @@ In the days that followed, aid activities developed, and several members of the 
 
 **Methodology used in the “disaster response” for floods, Esmeraldas, Ecuador**
 
-Basically, the disaster response consists of a series of actions that we take to be able to help the populations and/or organizations that request it when they face a disaster.This ranges from analyzing the state of the map at that moment to summoning networks of volunteer mappers to carry out the necessary mapping tasks.
+Basically, the disaster response consists of a series of actions that we take to be able to help the populations and/or organizations that request it when they face a disaster. This ranges from analyzing the state of the map at that moment to summoning networks of volunteer mappers to carry out the necessary mapping tasks.
 
-En el caso de Esmeraldas se decidió generar proyectos específicos a través de la herramienta “Tasking Manager” de HOT para una respuesta inmediata. El primer paso consistió en definir las áreas de interés para los proyectos: los datos de entrada suministrados por las autoridades ecuatorianas fueron:
+In the case of Esmeraldas, it was decided to generate specific projects through HOT's “[Tasking Manager](https://tasks.hotosm.org/)” tool for an immediate response. The first step consisted in defining the areas of interest for the projects: the input data provided by the Ecuadorian authorities were:
 
-* la capa de puntos con los sitios en los cuales ocurrió la emergencia (inundación)
+* the point layer with the sites where the emergency (flood) occurred
 
-* la capa de susceptibilidad de inundación de la región
+* the region's flood susceptibility layer
 
-* la capa con las parroquias afectadas por la emergencia
+* the layer with the parishes affected by the emergency
 
 ![3 en 1.jpg](/uploads/3%20en%201.jpg)
 
