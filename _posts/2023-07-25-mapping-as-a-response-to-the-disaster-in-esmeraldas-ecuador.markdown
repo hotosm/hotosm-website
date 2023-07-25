@@ -1,6 +1,11 @@
 ---
 title: Mapping as a response to the disaster in Esmeraldas, Ecuador
 date: 2023-07-25 02:22:00 Z
+tags:
+- floods
+- disaster
+- Ecuador
+- open mapping
 ---
 
 At the beginning of June, the province of Esmeraldas in Ecuador was [affected by intense rains](https://apnews.com/video/floods-ecuador-storms-guillermo-lasso-natural-disasters-d405eb2a2d7f4f3ebee93d0a1efa10af) that caused the overflow of six rivers in the region and caused approximately [20,000 people to be affected](https://www.plenglish.com/news/2023/03/18/heavy-rains-leave-more-than-15-thousand-people-affected-in-ecuador/), according to the Secretariat of Risk Management of Ecuador.
