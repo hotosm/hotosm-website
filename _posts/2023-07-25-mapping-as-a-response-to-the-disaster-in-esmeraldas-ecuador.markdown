@@ -5,11 +5,11 @@ date: 2023-07-25 02:22:00 Z
 
 At the beginning of June, the province of Esmeraldas in Ecuador was [affected by intense rains](https://apnews.com/video/floods-ecuador-storms-guillermo-lasso-natural-disasters-d405eb2a2d7f4f3ebee93d0a1efa10af) that caused the overflow of six rivers in the region and caused approximately [20,000 people to be affected](https://www.plenglish.com/news/2023/03/18/heavy-rains-leave-more-than-15-thousand-people-affected-in-ecuador/), according to the Secretariat of Risk Management of Ecuador.
 
-En los días siguientes se desarrollaron las actividades de ayuda, y varios miembros de la comunidad mapeadora y humanitaria ecuatoriana -entre ellos funcionarios de la Secretaría de Gestión de Riesgos de Ecuador- contactaron al Hub de mapeo abierto de América Latina y el Caribe para coordinar acciones de mapeo, por lo que generamos una “respuesta al desastre” para la zona de Esmeraldas.
+In the days that followed, aid activities developed, and several members of the Ecuadorian mapping and humanitarian community -including officials from the Ecuadorian Risk Management Secretariat- contacted the Open Mapping Hub of Latin America and the Caribbean to coordinate mapping actions, for which we generated a "disaster response" for the Esmeraldas area.
 
-**Metodología utilizada en la “respuesta al desastre” para las inundaciones, Esmeraldas, Ecuador**
+**Methodology used in the “disaster response” for floods, Esmeraldas, Ecuador**
 
-Básicamente la respuesta al desastre consiste en una serie de acciones que tomamos para poder ayudar a las poblaciones y/o organizaciones que nos lo solicitan cuando enfrentan un desastre. Esto va desde analizar el estado del mapa en ese momento hasta convocar a las redes de mapeadores voluntarios para realizar las tareas de mapeo necesarias.
+Basically, the disaster response consists of a series of actions that we take to be able to help the populations and/or organizations that request it when they face a disaster.This ranges from analyzing the state of the map at that moment to summoning networks of volunteer mappers to carry out the necessary mapping tasks.
 
 En el caso de Esmeraldas se decidió generar proyectos específicos a través de la herramienta “Tasking Manager” de HOT para una respuesta inmediata. El primer paso consistió en definir las áreas de interés para los proyectos: los datos de entrada suministrados por las autoridades ecuatorianas fueron:
 
