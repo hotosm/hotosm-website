@@ -11,7 +11,7 @@ Summary Text: This is in activation by OSM Uganda for the Floodings in the easte
 Feature Image: Fl Flood
 Post-type: timeline
 Campaign: https://tasks.hotosm.org/manage/campaigns/362
-Tracking: mappingforfloodresilience
+Tracking: easternregionugandafloods
 Report: available
 HDX: <a href="https://data.humdata.org/organization/hot?q=uganda">Uganda</a>
 Resources: N/A
