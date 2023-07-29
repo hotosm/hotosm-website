@@ -16,11 +16,13 @@ The Open Mapping Hub - West and Northern Africa (WNA Hub) engages open mapping o
 
 * Niger
 
-![WNA-RuwaAFI.png](/uploads/WNA-RuwaAFI.png)
+![RUWA%20.jpeg](/uploads/RUWA%20.jpeg)
 
 Projects targeting areas of impact identified by HOT were carried out in Niger to improve access to water in the Sahel region, The RUWA Niger project worked closely with the WASH Consortium, the Ministry of hydraulic, and the local authorities in the Dosso Region. Implemented by OSM Niger, local youth were recruited and trained the conduct Remote Mapping and ground-truthing activities. This project has contributed to add 22,086 buildings,  2210 amenities,  and trained 334, and 12 thematic maps have been produced and recommendations have been given for solutions to improve water access in the target region.
 
 ### Public Health
+
+![Sunu%20Weer%20Gui%20Yaram.jpeg](/uploads/Sunu%20Weer%20Gui%20Yaram.jpeg)
 
 * Senegal
 
@@ -28,11 +30,15 @@ Access to quality healthcare for women and children remains a major challenge in
 
 ### Flooding
 
+![Climate_Change.jpeg](/uploads/Climate_Change.jpeg)
+
 * Liberia
 
 WNAH hub is tracking the flood in Liberia to promote anticipation as the countries of the Gulf of Guinea are exposed to devastating floods and rains, WNAH has addressed data gaps for the preparedness and response efforts of critical stakeholders working on climate effects and sustainable communities. Partnerships between key stakeholders, including government officials and development actors, have been established. By documenting the vulnerability, risks, exposure, and hazards through focus group discussions and data collection, we identified the gaps hindering the effectiveness of Disaster Agencies and the Red Cross in designing awareness and response efforts. The project encompassed 38 towns spread across 4 clans in the Commonwealth district, covering a total land area of 391.377 square kilometers, with 30,000 inhabitants. We successfully trained 75 people, added 18,880 building footprints and 251 kilometers of unpaved roads to the OpenStreetMap (OSM), benefiting five districts. The Commonwealth district has over 2,992 essential facilities, including amenities, healthcare centers, water points, public restrooms, educational institutions, financial and commercial establishments, fish production and storage facilities, waste disposal sites, markets, and burial sites.
 
 ### Sustainable Cities
+
+![Mia%20Too%20-%20Sustainable%20Cities.jpeg](/uploads/Mia%20Too%20-%20Sustainable%20Cities.jpeg)
 
 * Togo
 
