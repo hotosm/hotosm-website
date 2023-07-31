@@ -3,11 +3,12 @@ title: 'OpenSummit ''23-24: Conferences'
 date: 2023-07-31 16:47:00 Z
 permalink: opensummit23-24/conferences
 published: false
-Image: "/uploads/bannerconferences.png"
 Page Link:
   Link: https://forms.gle/9PoAQYgWY1igWiou8
-  Label: 'Submit your event here:'
+  Label: Submit your event here
 ---
+
+![bannerconferences.png](/uploads/bannerconferences.png)
 
 ## Selection Criteria for conferences
 
