@@ -7,7 +7,7 @@ summit-header:
   Intro Text: Through the HOT unSummit 2022 we collaborated with events all over the
     world, engaging a global community of thousands!
   Image: "/uploads/hot-unsummit-logo-262x367.png"
-blocktitle0: About unSummit 2022
+summit-subtitle: About unSummit 2022
 block-0:
   Text: 'The HOT unSummit is a world tour of collaborating events. We are raising
     the profile of humanitarian mapping across the globe, by connecting people, providing
@@ -18,7 +18,6 @@ block-0:
   Action-text: View our unSummit explainer video
   Link: https://youtu.be/XWmcZ4TQpcE
   Image: "/uploads/YoutubeThumbnailunSummit2022.webp"
-blocktitle1: Numbers, testimonials and outcomes
 block-1:
   Title: unSummit by the Numbers
   Text: |-
@@ -31,16 +30,12 @@ block-1:
     * Enabled 122 scholarships for community mappers to reach global events
 
     *Photo: FOSS4G | Firenze 2022*
-  Action-text: 
-  Link: 
   Image: "/uploads/img_7293-3257x2172.jpeg"
 block-2:
   Title: Comments by Local Organizing Committees (LOCs)
   Text: |-
     *“Our primary goal was to have HOT as part of the event since they share the same OSM and OSGeo community ideals. I really liked the 2022 SotM and FOSS4G organization and believe it should be continued in the future, with a closer relationship of the three communities, something like federated events or similar. HOT is providing a great help in organization and supporting people from low-middle income countries that should be one of the main targets of the audience.”*
      - LOC, FOSS4G 2022
-  Action-text: 
-  Link: 
   Image: "/uploads/FOSS4G%20Firenze.webp"
 block-3:
   Title: Comments by Local Organizing Committees (LOCs)
@@ -51,8 +46,6 @@ block-3:
     make everything happen. As we say: ‘COMECOU NAO PARA! We won't stop until poverty
     ends in Brazilian favelas!’ And of course we would love to count with HOT next
     year!!”* \n\n- LOC, Teto Brasil annual gathering + Cidade em Foco\n\n"
-  Action-text: 
-  Link: 
   Image: "/uploads/OpenSummit%20One%20Pager-tetobrazil.png"
 block-4:
   Title: Outcomes
@@ -68,7 +61,6 @@ block-4:
     * The unSummit programme inspired and made possible new community conferences in Brazil and Nigeria reaching more than 300 people.
 
     * Two Brazilian community groups with a shared interest in river mapping were introduced to each other.
-  Action-text: 
   Image: "/uploads/collaboration.jpeg"
 opensummit-map:
   Title: HOT unSummit 2022 by the numbers
