@@ -3,8 +3,8 @@ title: HOT unSummit 2022
 date: 2023-04-28 23:25:00 Z
 permalink: unsummit2022
 summit-image: "/uploads/hot-unsummit-logo-262x367.png"
-intro-text: "**Through the HOT unSummit 2022 we collaborated with events all over
-  the world, engaging a global community of thousands!**"
+intro-text: Through the HOT unSummit 2022 we collaborated with events all over the
+  world, engaging a global community of thousands!
 block-0:
   Title: About unSummit 2022
   Text: 'The HOT unSummit is a world tour of collaborating events. We aimed to raise
