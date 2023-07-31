@@ -5,20 +5,19 @@ layout: default
 <div class="summit-header">
 
   <header class="container summit-header">
-    <h1>{{ page.title }}</h1>
-    <div class="intro">
       <div class="intro-text">
         <p class="header-intro-text">{{ page.summit-header.intro-text | markdownify }}</p>
         <img src="{{ page.summit-header.Image }}" class="center">
-      </div>
+      </div> 
+    </header>
     </div>
-  </header>
+ 
 
   <div class="container summit-main">
-    <h2 class="partner-subtitle">{{ page.summit-subtitle}}</h2>
+    <h2 class="partner-subtitle">{{ page.summit-main.Subtitle}}</h2>
 
-    <div class="module-group top-image">
-      <a class="module link-through light" href="{{ page.block-0.Link }}" id="open-call">
+    <div class="module-group-rounds top-image-auto">
+      <a class="module link-through light" href="{{ page.block-0.Link }}" id="exlpainer-video">
         <div class="module-image">
           <img src="{{ page.block-0.Image }}">
         </div>
@@ -28,7 +27,6 @@ layout: default
           <p class="module-cta">{{ page.block-0.Action-text | markdownify }}</p>
         </div>
       </a>
-      <div class="module-group-rounds top-image-auto">
         <a class="module link-through light" href="{{ page.block-1.Link }}" id="support-programs">
           <div class="module-image">
             <img src="{{ page.block-1.Image }}">
