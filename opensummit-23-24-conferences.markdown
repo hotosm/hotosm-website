@@ -7,6 +7,7 @@ Image: "/uploads/bannerconferences.png"
 Page Link:
   Link: https://forms.gle/9PoAQYgWY1igWiou8
   Text: 'Submit your event here:'
+  Link label: Form
 ---
 
 ## Selection Criteria for conferences
