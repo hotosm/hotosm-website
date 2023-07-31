@@ -9,7 +9,7 @@ layout: default
     <div class="intro-banner"></div>
       <img src="{{ page.summit-banner}}" class="center">
       <div class="intro-text">
-        <p class="intro-text">{{ page.intro-text | markdownify }}</p>
+        <p class="intro-text">{{ page.intro-text }}</p>
       </div> 
     </header>
 </div>
@@ -22,9 +22,9 @@ layout: default
           <img src="{{ page.block-0.Image }}">
         </div>
         <div class="module-details">
-          <h3>{{ page.block-0.Title | markdownify }}</h3>
-          <div class="module-text">{{ page.block-0.Text | markdownify }}</div>
-          <p class="module-cta">{{ page.block-0.Action-text | markdownify }}</p>
+          <h2>{{ page.block-0.Title }}</h2>
+          <div class="module-text">{{ page.block-0.Text }}</div>
+          <p class="module-cta">{{ page.block-0.Action-text}}</p>
         </div>
       </a>
         <a class="module link-through light" href="{{ page.block-1.Link }}" id="support-programs">
@@ -32,8 +32,8 @@ layout: default
             <img src="{{ page.block-1.Image }}">
           </div>
           <div class="module-details">
-            <h3>{{ page.block-1.Title | markdownify }}</h3>
-            <div class="module-text">{{ page.block-1.Text | markdownify }}</div>
+            <h2>{{ page.block-1.Title }}</h2>
+            <div class="module-text">{{ page.block-1.Text }}</div>
             <p class="module-cta">{{ page.block-1.Action-text }}</p>
           </div>
         </a>
@@ -42,8 +42,8 @@ layout: default
             <img src="{{ page.block-2.Image }}">
           </div>
           <div class="module-details">
-            {{ page.block-2.Title | markdownify }}</h3>
-            <div class="module-text">{{ page.block-2.Text | markdownify }}</div>
+            <h2>markdownify{{ page.block-2.Title }}</h2>
+            <div class="module-text">{{ page.block-2.Text }}</div>
             <p class="module-cta">{{ page.block-2.Action-text  }}</p>
           </div>
         </a>
@@ -52,7 +52,7 @@ layout: default
             <img src="{{ page.block-3.Image }}">
           </div>
           <div class="module-details">
-            <h3>{{ page.block-3.Title | markdownify }}</h3>
+            <h2>{{ page.block-3.Title | markdownify }}</h2>
             <div class="module-text">{{ page.block-3.Text | markdownify }}</div>
             <p class="module-cta">{{ page.block-3.Action-text  }}</p>
           </div>
@@ -62,8 +62,8 @@ layout: default
             <img src="{{ page.block-4.Image }}">
           </div>
           <div class="module-details">
-            <h3>{{ page.block-4.Title | markdownify }}</h3>
-            <div class="module-text">{{ page.block-4.Text | markdownify }}</div>
+            <h2>{{ page.block-4.Title}}</h2>
+            <div class="module-text">{{ page.block-4.Text }}</div>
             <p class="module-cta">{{ page.block-4.Action-text  }}</p>
           </div>
         </a>
