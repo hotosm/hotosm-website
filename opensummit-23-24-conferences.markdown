@@ -5,7 +5,7 @@ permalink: opensummit23-24/conferences
 published: false
 Page Link:
   Link: https://forms.gle/9PoAQYgWY1igWiou8
-  Label: Submit your event here
+  Label: Submit your conference here
 ---
 
 ![bannerconferences.png](/uploads/bannerconferences.png)
@@ -27,6 +27,8 @@ The conference should have other sources of funding or sponsorship to cover its 
 
 **Inclusivity**
 Consideration should be given to the inclusivity of the community event, ensuring that it provides opportunities for diverse participation, representation, and perspectives within the open mapping community.
+
+Examples of previous conferences include: State of the Map Asia, State of the Map Tanzania, and the [Pacific Geospatial Conference](https://osgeo-oceania.org/pacific-geospatial-conference/).
 
 Collaborative support provided for the selected events will include at least one or a combination of the following*: 
 * Finance/Sponsorship opportunities
