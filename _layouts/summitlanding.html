@@ -6,15 +6,18 @@ layout: default
 
   <header class="summit-title">
     <h1>{{ page.title }}</h1>
-    <div class="intro-banner"></div>
-      <img src="{{ page.summit-image}}" class="center">
-      <div class="intro-text">
-        <p class="intro-text">{{ page.intro-text }}</p>
-      </div> 
-    </header>
+  </header>
 </div>
+
+<div class="container intro-banner"></div>
+      <img src="{{ page.summit-image}}" class="center">
+</div>
+<div class="intro-text">
+  <p class="intro-text">{{ page.intro-text }}</p>
+</div> 
+
 <main class="container summit-main">
-    <h2 class="summit-main-subtitle">{{ page.summit-main.Subtitle}}</h2>
+    <h2 class="summit-main-subtitle">{{ page.summit-subtitle}}</h2>
 
     <div class="module-group top-image">
       <a class="module link-through light" href="{{ page.block-0.Link }}" id="exlpainer-video">
@@ -22,9 +25,9 @@ layout: default
           <img src="{{ page.block-0.Image }}">
         </div>
         <div class="module-details">
-          <h2>{{ page.block-0.Title }}</h2>
-          <div class="module-text">{{ page.block-0.Text }}</div>
-          <p class="module-cta">{{ page.block-0.Action-text}}</p>
+          <h3>{{ page.block-0.Title }}</h3>
+          <div class="module-text">{{ page.block-0.Text | markdownify }}</div>
+          <p class="module-cta">{{ page.block-0.Action-text | markdownify }}</p>
         </div>
       </a>
         <a class="module link-through light" href="{{ page.block-1.Link }}" id="support-programs">
@@ -32,9 +35,9 @@ layout: default
             <img src="{{ page.block-1.Image }}">
           </div>
           <div class="module-details">
-            <h2>{{ page.block-1.Title }}</h2>
-            <div class="module-text">{{ page.block-1.Text }}</div>
-            <p class="module-cta">{{ page.block-1.Action-text }}</p>
+            <h3>{{ page.block-1.Title }}</h3>
+            <div class="module-text">{{ page.block-1.Text | markdownify }}</div>
+            <p class="module-cta">{{ page.block-1.Action-text | markdownify }}</p>
           </div>
         </a>
         <a class="module link-through light" href="{{ page.block-2.Link }}" id="support-programs" >
@@ -42,9 +45,9 @@ layout: default
             <img src="{{ page.block-2.Image }}">
           </div>
           <div class="module-details">
-            <h2>markdownify{{ page.block-2.Title }}</h2>
-            <div class="module-text">{{ page.block-2.Text }}</div>
-            <p class="module-cta">{{ page.block-2.Action-text  }}</p>
+            <h3>markdownify{{ page.block-2.Title }}</h3>
+            <div class="module-text">{{ page.block-2.Text | markdownify  }}</div>
+            <p class="module-cta">{{ page.block-2.Action-text | markdownify  }}</p>
           </div>
         </a>
         <a class="module link-through light" href="{{ page.block-3.Link }}" id="support-programs" >
@@ -52,9 +55,9 @@ layout: default
             <img src="{{ page.block-3.Image }}">
           </div>
           <div class="module-details">
-            <h2>{{ page.block-3.Title | markdownify }}</h2>
+            <h3>{{ page.block-3.Title }}</h3>
             <div class="module-text">{{ page.block-3.Text | markdownify }}</div>
-            <p class="module-cta">{{ page.block-3.Action-text  }}</p>
+            <p class="module-cta">{{ page.block-3.Action-text | markdownify  }}</p>
           </div>
         </a>
         <a class="module link-through light" href="{{ page.block-4.Link }}" id="support-programs" >
@@ -63,8 +66,18 @@ layout: default
           </div>
           <div class="module-details">
             <h2>{{ page.block-4.Title}}</h2>
-            <div class="module-text">{{ page.block-4.Text }}</div>
-            <p class="module-cta">{{ page.block-4.Action-text  }}</p>
+            <div class="module-text">{{ page.block-4.Text | markdownify }}</div>
+            <p class="module-cta">{{ page.block-4.Action-text  | markdownify }}</p>
+          </div>
+        </a>
+        <a class="module link-through light" href="{{ page.block-5.Link }}" id="support-programs" >
+          <div class="module-image">
+            <img src="{{ page.block-5.Image }}">
+          </div>
+          <div class="module-details">
+            <h2>{{ page.block-5.Title}}</h2>
+            <div class="module-text">{{ page.block-5.Text | markdownify }}</div>
+            <p class="module-cta">{{ page.block-5.Action-text  | markdownify }}</p>
           </div>
         </a>
    </div>
