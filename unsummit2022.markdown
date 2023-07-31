@@ -2,9 +2,10 @@
 title: HOT unSummit 2022
 date: 2023-04-28 23:25:00 Z
 permalink: unsummit2022
-intro-text: Through the HOT unSummit we're collaborating with events all over the
-  world, engaging a global community of thousands!
-Image: "/uploads/hot-unsummit-logo-262x367.png"
+summit-header:
+  intro-text: Through the HOT unSummit we're collaborating with events all over the
+    world, engaging a global community of thousands!
+  Image: "/uploads/hot-unsummit-logo-262x367.png"
 summit-subtitle: About unSummit 2022
 block-0:
   Text: 'The HOT unSummit is a world tour of collaborating events. We aimed to raise
@@ -28,7 +29,7 @@ block-1:
     * Enabled 122 scholarships for community mappers to reach global events
 
     *Photo: FOSS4G Firenze 2022*
-  Image: "/uploads/img_7293-3257x2172.jpeg"
+  Image: "/uploads/unSummitMapAndNumbers.png"
 block-2:
   Title: Comments by Local Organizing Committees (LOCs)
   Text: |-
@@ -60,9 +61,6 @@ block-4:
 
     * Two Brazilian community groups with a shared interest in river mapping were introduced to each other.
   Image: "/uploads/collaboration.jpeg"
-opensummit-map:
-  Title: HOT unSummit 2022 by the numbers
-  Image: "/uploads/unSummitMapAndNumbers.png"
 layout: summitlanding
 ---
 
