@@ -5,7 +5,7 @@ permalink: opensummit23-24/conferences
 published: false
 Page Link:
   Link: https://forms.gle/9PoAQYgWY1igWiou8
-  Label: Submit your conference here
+  Label: Submit your Conference here
 ---
 
 ![bannerconferences.png](/uploads/bannerconferences.png)
