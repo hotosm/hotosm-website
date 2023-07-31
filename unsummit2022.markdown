@@ -2,9 +2,9 @@
 title: HOT unSummit 2022
 date: 2023-04-28 23:25:00 Z
 permalink: unsummit2022
+summit-image: "/uploads/hot-unsummit-logo-262x367.png"
 intro-text: Through the HOT unSummit we collaborated with events all over the world,
   engaging a global community of thousands!
-summit-image: "/uploads/hot-unsummit-logo-262x367.png"
 summit-subtitle: About unSummit 2022
 block-0:
   Text: 'The HOT unSummit is a world tour of collaborating events. We aimed to raise
@@ -60,6 +60,16 @@ block-4:
 
     * Two Brazilian community groups with a shared interest in river mapping were introduced to each other.
   Image: "/uploads/collaboration.jpeg"
+block-5:
+  Title: HOT OpenSummit '23-24
+  Text: 'Building upon the success of the unSummit, we aim to continue bringing together
+    communities, partners, collaborators, and supporters to learn, share, and connect,
+    now as HOT OpenSummit ''23-24!
+
+'
+  Action-text: Check out this year's OpenSummit
+  Link: 'www.hotosm.org/opensummit23-24 '
+  Image: "/uploads/1.png"
 layout: summitlanding
 ---
 
