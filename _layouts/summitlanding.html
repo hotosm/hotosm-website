@@ -2,24 +2,25 @@
 layout: default
 ---
 
-<div class="summit-main">
+<div class="summit-header">
 
   <header class="container summit-header">
     <h1>{{ page.title }}</h1>
     <div class="intro">
       <div class="intro-text">
         <p>{{ page['Intro Text'] }}</p>
+        <img src="{{ page.summit-header.Image }}">
       </div>
     </div>
   </header>
 
-  <div class="container call-for-applications">
-    <h2 class="partner-subtitle">{{ page.blocktitle0 }}</h2>
+  <div class="container summit-main">
+    <h2 class="partner-subtitle">{{ page.summit-subtitle}}</h2>
 
     <div class="module-group top-image">
-      <a class="module link-through light" href="{{ page.block-1.Link }}" id="open-call">
+      <a class="module link-through light" href="{{ page.block-0.Link }}" id="open-call">
         <div class="module-image">
-          <img src="{{ page.block-1.Image }}">
+          <img src="{{ page.block-0.Image }}">
         </div>
         <div class="module-details">
           <h3>{{ page.block-0.Title | markdownify }}</h3>
@@ -27,12 +28,10 @@ layout: default
           <p class="module-cta">{{ page.block-0.Action-text | markdownify }}</p>
         </div>
       </a>
-    </div>
-
   <div class="registration-and-events-body">
 
     <div class="container">
-      <h2 class="call-for-applications">{{ page.blocktitle }}</h2>
+      <h2 class="call-for-applications">{{ page.blocktitle1 }}</h2>
 
       <div class="module-group-rounds top-image-auto">
         <a class="module link-through light" href="{{ page.block-1.Link }}" id="support-programs">
@@ -70,7 +69,7 @@ layout: default
             <img src="{{ page.block-4.Image }}">
           </div>
           <div class="module-details">
-            <!-- <h3>{{ page.block-3.Title | markdownify }}</h3> -->
+            <!-- <h3>{{ page.block-4.Title | markdownify }}</h3> -->
             <div class="module-text">{{ page.block-4.Text | markdownify }}</div>
             <p class="module-cta">{{ page.block-4.Action-text  }}</p>
           </div>
@@ -82,8 +81,12 @@ layout: default
     </div>
 
   </div>
+  <div class="opensummit-timeline">
+    <h2>{{ page.opensummit-timeline.Title | markdownify }}</h2>
+    <img src="{{ page.opensummit-timeline.Image }}">
+  </div>
 <div class="opensummit-map">
     <h2>{{ page.opensummit-map.Title | markdownify }}</h2>
-    <img src="{{ page.fund-map.Image }}">
+    <img src="{{ page.opensummit-map.Image }}">
   </div>
 </div>
