@@ -13,10 +13,9 @@ block-0:
     the events that occurred during our 2022 Summit.
 
 '
-  Action-text: View our unSummit explainer video
+  Action-text: View our explainer video
   Link: https://youtu.be/XWmcZ4TQpcE
   Image: "/uploads/YoutubeThumbnailunSummit2022.webp"
-blocktitle1: Numbers, testimonials and outcomes
 block-1:
   Title: unSummit by the Numbers
   Text: |-
@@ -68,9 +67,14 @@ block-4:
     * -Two Brazilian community groups with a shared interest in river mapping were introduced to each other.
   Action-text: 
   Image: "/uploads/collaboration.jpeg"
-opensummit-map:
-  Title: HOT unSummit 2022 by the numbers
-  Image: "/uploads/unSummitMapAndNumbers.png"
+block-5:
+  Title: HOT OpenSummit '23-24
+  Text: Building upon the success of the unSummit, we aim to continue bringing together
+    communities, partners, collaborators, and supporters to learn, share, and connect,
+    now as HOT OpenSummit ‘23-24!
+  Action-text: Check out this year’s OpenSummit
+  Link: www.hotosm.org/opensummit23-24
+  Image: "/uploads/1.png"
 layout: summitlanding
 ---
 
