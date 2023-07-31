@@ -2,13 +2,12 @@
 title: HOT unSummit 2022
 date: 2023-04-28 23:25:00 Z
 permalink: unsummit2022
-summit-header:
-  Intro Text: Through the HOT unSummit 2022 we collaborated with events all over the
-    world, engaging a global community of thousands!
-  Image: "/uploads/hot-unsummit-logo-262x367.png"
+intro-text: Through the HOT unSummit we're collaborating with events all over the
+  world, engaging a global community of thousands!
+Image: "/uploads/hot-unsummit-logo-262x367.png"
 summit-subtitle: About unSummit 2022
 block-0:
-  Text: 'The HOT unSummit is a world tour of collaborating events. We aim to raise
+  Text: 'The HOT unSummit is a world tour of collaborating events. We aimed to raise
     the profile of humanitarian mapping across the globe, by connecting people, providing
     funding and support to conferences and community mapping events. This page registers
     the events that occurred during our 2022 Summit.
@@ -28,7 +27,7 @@ block-1:
 
     * Enabled 122 scholarships for community mappers to reach global events
 
-    *Photo: FOSS4G | Firenze 2022*
+    *Photo: FOSS4G Firenze 2022*
   Image: "/uploads/img_7293-3257x2172.jpeg"
 block-2:
   Title: Comments by Local Organizing Committees (LOCs)
