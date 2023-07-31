@@ -35,7 +35,7 @@ block-2:
   Title: 
   Text: |-
     *“Our primary goal was to have HOT as part of the event since they share the same OSM and OSGeo community ideals. I really liked the 2022 SotM and FOSS4G organization and believe it should be continued in the future, with a closer relationship of the three communities, something like federated events or similar. HOT is providing a great help in organization and supporting people from low-middle income countries that should be one of the main targets of the audience.”*
-     - LOC, FOSS4G 2022
+     - Organizing Committee, FOSS4G 2022
   Action-text: 
   Link: 
   Image: "/uploads/FOSS4G%20Firenze.webp"
@@ -47,7 +47,8 @@ block-3:
     we shared experiences and most of all, we spent quality time with the ones that
     make everything happen. As we say: ‘COMECOU NAO PARA! We won't stop until poverty
     ends in Brazilian favelas!’ And of course we would love to count with HOT next
-    year!!”* \n\n- LOC, Teto Brasil annual gathering + Cidade em Foco\n\n"
+    year!!”* \n\n- Organizing Committee, Teto Brasil annual gathering + Cidade em
+    Foco\n\n"
   Action-text: 
   Link: 
   Image: "/uploads/OpenSummit%20One%20Pager-tetobrazil.png"
