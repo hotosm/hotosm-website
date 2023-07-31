@@ -3,13 +3,11 @@ title: HOT OpenSummit '23-24
 date: 2023-07-17 20:29:00 Z
 permalink: opensummit23-24
 published: false
-summit-header:
-  Title: HOT OpenSummit '23-24
-  Intro Text: "The OpenSummit ‘23-24 is ON! \n\nGet ready for a year of global events
-    that focus on collective action within the humanitarian open mapping community. "
-  Image: "/uploads/Website%20MainBanner-51e09d.png"
-blocktitle0: About HOT Open Summit '23-24
+summit-image: "/uploads/Website%20MainBanner-51e09d.png"
+intro-text: "HOT's OpenSummit ‘23-24 is ON! \n\nGet ready for a year of global events
+  that focus on collective action within the humanitarian open mapping community. "
 block-0:
+  Title: About HOT Open Summit '23-24
   Text: "After years of gathering together in just one place for our annual conference,
     in 2022 we launched the *HOT unSummit*, a decentralized program of 13 global,
     regional, and local conferences worldwide, where each community brought together
@@ -24,7 +22,6 @@ block-0:
   Action-text: Learn more about unSummit 2022
   Link: www.hotosm.org/unsummit2022
   Image: "/uploads/1.png"
-blocktitle1: 'We will provide collaborative support to three types of events:'
 block-1:
   Title: Conferences
   Text: "We encourage collaboration with local organizing committees (LOCs) for existing
@@ -46,10 +43,11 @@ block-2:
     open data awareness, advocacy, and collaborations/partnerships, particularly in
     non-traditional open mapping spaces and with map user audiences. \n\nExamples
     of these from the past year include: The Teto Brasil annual gathering,  Cidade
-    em Foco (Brazil), Zimbabwe Institute of Geomatics Conference.\n"
+    em Foco (Brazil), Zimbabwe Institute of Geomatics Conference.\n\n*Photo: Teto
+    Brasil annual gathering*"
   Action-text: Check the selection criteria here
   Link: www.hotosm.org/opensummit23-24/3rd-party-events
-  Image: 
+  Image: "/uploads/OpenSummit%20One%20Pager-tetobrazil.png"
 block-3:
   Title: Community Events
   Text: "We aim to support national or local open mapping communities coming together
@@ -60,7 +58,7 @@ block-3:
     HOT supports and their contribution to movement building. \n"
   Action-text: Check the selection criteria here
   Link: www.hotosm.org/opensummit23-24/community-events
-  Image: 
+  Image: "/uploads/collaboration.jpeg"
 block-4:
   Title: Ready to apply?
   Text: "Collaborative support provided for the selected events will include at least
@@ -71,10 +69,10 @@ block-4:
     that not all the requested support may be available or given\n"
   Action-text: Submit your event here
   Link: https://forms.gle/9PoAQYgWY1igWiou8
-  Image: 
+  Image: "/uploads/geong2022.jpeg"
 opensummit-timeline:
-  Title: 
-  Image: 
+  Title: OpenSummit '23-24 Timeline
+  Image: "/uploads/timeline1.png"
 opensummit-map:
   Title: 
   Image: 
