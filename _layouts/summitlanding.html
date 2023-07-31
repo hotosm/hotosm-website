@@ -2,21 +2,21 @@
 layout: default
 ---
 
-<div class="summit-header">
+<div class="header">
 
-  <header class="container summit-header">
+  <header class="summit-title">
+    <h1>{{ page.title }}</h1>
+    <div class="intro-banner"></div>
+      <img src="{{ page.summit-banner}}" class="center">
       <div class="intro-text">
-        <p class="header-intro-text">{{ page.summit-header.intro-text | markdownify }}</p>
-        <img src="{{ page.summit-header.Image }}" class="center">
+        <p class="intro-text">{{ page.intro-text | markdownify }}</p>
       </div> 
     </header>
-    </div>
- 
+</div>
+<main class="container summit-main">
+    <h2 class="summit-main-subtitle">{{ page.summit-main.Subtitle}}</h2>
 
-  <div class="container summit-main">
-    <h2 class="partner-subtitle">{{ page.summit-main.Subtitle}}</h2>
-
-    <div class="module-group-rounds top-image-auto">
+    <div class="module-group top-image">
       <a class="module link-through light" href="{{ page.block-0.Link }}" id="exlpainer-video">
         <div class="module-image">
           <img src="{{ page.block-0.Image }}">
@@ -67,7 +67,7 @@ layout: default
             <p class="module-cta">{{ page.block-4.Action-text  }}</p>
           </div>
         </a>
-      </div>
+   </div>
 
       <div class="hr-h"></div>
 
