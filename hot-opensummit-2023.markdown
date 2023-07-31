@@ -2,7 +2,6 @@
 title: HOT OpenSummit '23-24
 date: 2023-07-17 20:29:00 Z
 permalink: opensummit23-24
-published: false
 summit-image: "/uploads/Website%20MainBanner-51e09d.png"
 intro-text: "HOT's OpenSummit ‘23-24 is ON! \n\nGet ready for a year of global events
   that focus on collective action within the humanitarian open mapping community. "
@@ -24,14 +23,12 @@ block-0:
   Image: "/uploads/1.png"
 block-1:
   Title: Conferences
-  Text: "We encourage collaboration with local organizing committees (LOCs) for existing
-    conferences that focus on open mapping or humanitarian/development work relevant
-    to open mapping. These events should align closely with the criteria set for the
-    HOT OpenSummit event collaborations. Priority will be given to conferences in
-    [HOT's priority countries](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Priority_countries).
-    \n\nExamples of previous conferences include: State of the Map Asia, State of
-    the Map Tanzania, and the [Pacific Geospatial Conference](https://osgeo-oceania.org/pacific-geospatial-conference/).\n\n*Photo:
-    State of the Map Tanzania 2023*"
+  Text: |-
+    We encourage collaboration with local organizing committees (LOCs) for existing conferences that focus on open mapping or humanitarian/development work relevant to open mapping. These events should align closely with the criteria set for the HOT OpenSummit event collaborations. Priority will be given to conferences in HOT's priority countries.
+
+    Examples of previous conferences include: State of the Map Asia, State of the Map Tanzania, and the Pacific Geospatial Conference.
+
+    *Photo: State of the Map Tanzania 2023*
   Action-text: 'Check the selection criteria here:'
   Link: 'www.hotosm.org/opensummit23-24/conferences '
   Image: "/uploads/SOTMTanzaniaUnSummit.jpeg"
