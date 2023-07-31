@@ -3,13 +3,12 @@ title: HOT unSummit 2022
 date: 2023-04-28 23:25:00 Z
 permalink: unsummit2022
 summit-header:
-  Title: 2022 HOT unSummit
   Intro Text: Through the HOT unSummit 2022 we collaborated with events all over the
     world, engaging a global community of thousands!
   Image: "/uploads/hot-unsummit-logo-262x367.png"
 summit-subtitle: About unSummit 2022
 block-0:
-  Text: 'The HOT unSummit is a world tour of collaborating events. We are raising
+  Text: 'The HOT unSummit is a world tour of collaborating events. We aim to raise
     the profile of humanitarian mapping across the globe, by connecting people, providing
     funding and support to conferences and community mapping events. This page registers
     the events that occurred during our 2022 Summit.
