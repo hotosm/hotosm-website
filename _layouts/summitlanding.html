@@ -8,8 +8,8 @@ layout: default
     <h1>{{ page.title }}</h1>
     <div class="intro">
       <div class="intro-text">
-        <p>{{ page['Intro Text'] }}</p>
-        <img src="{{ page.summit-header.Image }}">
+        <p class="header-intro-text">{{ page.summit-header.intro-text | markdownify }}</p>
+        <img src="{{ page.summit-header.Image }}" class="center">
       </div>
     </div>
   </header>
