@@ -5,13 +5,7 @@ permalink: opensummit23-24/conferences
 published: false
 Page Link:
   Link: https://forms.gle/9PoAQYgWY1igWiou8
-  Text: "Collaborative support provided for the selected events will include at least
-    one or a combination of the following*: \n* Finance/Sponsorship opportunities\n*
-    HOT representation\n* Communications support\n* Post-event follow-up\n* Networking
-    opportunities\n* HOT content contribution\n* Travel support (subject to availability
-    and funding)\n* Swag (subject to availability and funding)\n* Organizational support\n\n*Note
-    that not all the requested support may be available or given\n\nSubmit your event
-    here:"
+  Text: 'Submit your event here:'
 ---
 
 ## Selection Criteria for conferences
@@ -31,3 +25,16 @@ The conference should have other sources of funding or sponsorship to cover its 
 
 **Inclusivity**
 Consideration should be given to the inclusivity of the community event, ensuring that it provides opportunities for diverse participation, representation, and perspectives within the open mapping community.
+
+Collaborative support provided for the selected events will include at least one or a combination of the following*: 
+* Finance/Sponsorship opportunities
+* HOT representation
+* Communications support
+* Post-event follow-up
+* Networking opportunities
+* HOT content contribution
+* Travel support (subject to availability and funding)
+* Swag (subject to availability and funding)
+* Organizational support
+
+*Note that not all the requested support may be available or given
