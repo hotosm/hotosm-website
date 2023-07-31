@@ -2,6 +2,43 @@
 layout: default
 ---
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Page Title</title>
+
+  <!-- Your CSS styles go here -->
+  <style>
+    /* Center the header content */
+    .header {
+      text-align: center;
+    }
+
+    /* Add a margin to the h1 element */
+    .summit-title h1 {
+      margin-top: 20px; /* You can adjust the margin value as needed */
+    }
+
+    /* Center the image within the header */
+    .summit-title img.center {
+      display: block;
+      margin: 0 auto;
+    }
+
+    /* Add some spacing between the title and the intro text */
+    .summit-title p.intro-text {
+      margin-top: 10px; /* You can adjust the margin value as needed */
+    }
+
+    /* If needed, you can also center the h2 elements within their respective divs */
+    .opensummit-timeline h2,
+    .opensummit-map h2 {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
 <div class="header">
 
   <header class="wrapper summit-title">
@@ -90,3 +127,5 @@ layout: default
     <img src="{{ page.opensummit-map.Image }}">
   </div>
 </div>
+</body>
+</html>
