@@ -13,7 +13,7 @@ Page Link:
 ## Selection Criteria for conferences
 
 **Alignment**
-The conference should align closely with the goals, objectives, and themes of the HOT OpenSummit. It should demonstrate a clear connection to open mapping or humanitarian/development work relevant to open mapping. Priority will be given to conferences that align with HOT’s regional hubs priorities and programmes.
+The conference should align closely with the goals, objectives, and themes of the HOT OpenSummit. It should demonstrate a clear connection to open mapping or humanitarian/development work relevant to open mapping. Priority will be given to conferences that align with [HOT’s regional](https://www.hotosm.org/hubs/) hubs priorities and programmes.
 
 **Relevance**
 The conference should be highly relevant to the humanitarian and social+tech development open mapping community, addressing current challenges, trends, and advancements in the field. It should provide valuable insights, knowledge sharing, and opportunities for collaboration.
