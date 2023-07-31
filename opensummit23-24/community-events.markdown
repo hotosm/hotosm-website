@@ -12,20 +12,19 @@ Page Link:
 ## Selection Criteria for Community Events
 
 **Alignment**
-The conference should align closely with the goals, objectives, and themes of the HOT OpenSummit. It should demonstrate a clear connection to open mapping or humanitarian/development work relevant to open mapping. Priority will be given to conferences that align with [HOT’s regional hubs](https://www.hotosm.org/hubs/) priorities and programmes.
+The event should align closely with the goals, objectives, and themes of the HOT OpenSummit. It should demonstrate a clear connection to open mapping or humanitarian/development work relevant to open mapping. Priority will be given to events that align with [HOT’s regional hubs](https://www.hotosm.org/hubs/) priorities and programmes.
 
-**Audience Reach**
-The collaboration should have the potential to reach new and / or relevant audiences who may not be familiar with the potential application of open mapping and open data. It should explore creative and innovative ways to engage with these audiences and raise awareness about open data, mapping technologies, and their humanitarian applications.
+**Movement Building **
+The event should actively foster collaboration and collective action within the open mapping community. It should facilitate the exchange of experiences, best practices, and lessons learned, nurturing a sense of community and shared purpose.
 
-**Collaboration Potential**
-The event should have potential to foster collaboration and partnerships, both within the open mapping community and with external stakeholders. It should create opportunities for dialogue, networking, and knowledge exchange.
-Impact. The event should have potential impact on promoting open data awareness, advocacy, and collaborations/partnerships should be considered. Emphasis can be placed on interventions in non-traditional open mapping spaces and those targeting map user audiences.
+**Value to Communities**
+The community event should provide tangible value to the communities that HOT supports/wants to support. It should contribute to their capacity building, skill development, knowledge sharing, and relationship building within the context of humanitarian open mapping.
+
+**Feasibility**
+The community event should demonstrate its feasibility in terms of organization, resources, and logistics. Although smaller-scale events are considered, they should have a clear plan, budget, and commitment to delivering a successful event.
 
 **Inclusivity**
 Consideration should be given to the inclusivity of the community event, ensuring that it provides opportunities for diverse participation, representation, and perspectives within the open mapping community.
-
-
-Examples of 3rd party events from the past year include: The Teto Brasil annual gathering,  Cidade em Foco (Brazil), Zimbabwe Institute of Geomatics Conference.
 
 Collaborative support provided for the selected events will include at least one or a combination of the following*: 
 * Finance/Sponsorship opportunities
