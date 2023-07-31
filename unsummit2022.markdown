@@ -28,7 +28,7 @@ block-1:
     * Enabled 122 scholarships for community mappers to reach global events
 
     *Photo: FOSS4G Firenze 2022*
-  Image: "/uploads/unSummitMapAndNumbers.png"
+  Image: "/uploads/unSummitMap.png"
 block-2:
   Title: Comments by Local Organizing Committees (LOCs)
   Text: |-
