@@ -1,9 +1,11 @@
 ---
 title: Benedicta Ohene
 date: 2022-10-19 19:25:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/IMG_20221019_081531.jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
+  Is Voting Member: true
 Job Title: Online Community Support and Services Intern
 Languages:
 - English
