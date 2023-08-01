@@ -4,12 +4,12 @@ date: 2023-03-21 13:16:00 Z
 published: false
 categories:
 - Projects
-- public health
 tags:
 - RUWA
 - rural water access
 - Sahel Region
-- Senegal
+- Niger
+- WNA
 Impact Area:
 - Disasters & Climate Resilience
 ---
