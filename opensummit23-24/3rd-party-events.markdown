@@ -1,7 +1,6 @@
 ---
 title: 'OpenSummit ''23-24: 3rd Party Events'
 date: 2023-07-31 17:59:00 Z
-published: false
 Page Link:
   Link: https://forms.gle/9PoAQYgWY1igWiou8
   Label: Submit your 3rd Party Event here
