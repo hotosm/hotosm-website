@@ -47,7 +47,7 @@ block-3:
     Examples of previous conferences include: State of the Map Asia, State of the Map Tanzania, and the Pacific Geospatial Conference.
 
     *Photo: State of the Map Tanzania 2023*
-  Action-text: 'Check the selection criteria here:'
+  Action-text: Check the selection criteria here
   Link: 'www.hotosm.org/opensummit23-24/conferences '
   Image: "/uploads/SOTMTanzaniaUnSummit.jpeg"
 block-4:
