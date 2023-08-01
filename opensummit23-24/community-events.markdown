@@ -1,7 +1,6 @@
 ---
 title: 'OpenSummit ''23-24: Community Events'
 date: 2023-07-31 18:14:00 Z
-published: false
 Page Link:
   Link: https://forms.gle/9PoAQYgWY1igWiou8
   Label: Submit your Community Event here
