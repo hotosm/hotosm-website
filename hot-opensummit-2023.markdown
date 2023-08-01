@@ -37,7 +37,7 @@ block-2:
     Swag (subject to availability and funding)\n* Organizational support\n\n*Note
     that not all the requested support may be available or given\n"
   Action-text: Submit your event here
-  Link: https://forms.gle/9PoAQYgWY1igWiou8
+  Link: https://airtable.com/appixgXPcDSV2SpOA/shrrS73HoMh0J7ssw
   Image: "/uploads/geong2022.jpeg"
 block-3:
   Title: Conferences
