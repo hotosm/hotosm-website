@@ -1,14 +1,10 @@
 ---
-title: RUWA - Rural Water Access Project
+title: Open Mapping Hub - WNAH Projects
 date: 2023-03-21 13:16:00 Z
 published: false
 categories:
 - Projects
 tags:
-- RUWA
-- rural water access
-- Sahel Region
-- Niger
 - WNA
 Impact Area:
 - Disasters & Climate Resilience
