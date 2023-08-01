@@ -14,8 +14,9 @@ Impact Area:
 - Disasters & Climate Resilience
 ---
 
-## RUWA
-#### - Senegal
+### RUWA - Rural Water Access
+
+* **Niger**
 
 ![WNA-Ruwa.jpg](/uploads/WNA-Ruwa.jpg)
 
