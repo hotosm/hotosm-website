@@ -48,7 +48,7 @@ block-3:
 
     *Photo: State of the Map Tanzania 2023*
   Action-text: Check the selection criteria here
-  Link: 'www.hotosm.org/opensummit23-24/conferences '
+  Link: "/opensummit23-24/conferences "
   Image: "/uploads/SOTMTanzaniaUnSummit.jpeg"
 block-4:
   Title: Interventions in 3rd Party Events
@@ -61,7 +61,7 @@ block-4:
     em Foco (Brazil), Zimbabwe Institute of Geomatics Conference.\n\n*Photo: Teto
     Brasil annual gathering*"
   Action-text: Check the selection criteria here
-  Link: www.hotosm.org/opensummit23-24/3rd-party-events
+  Link: "/opensummit23-24/3rd-party-events"
   Image: "/uploads/OpenSummit%20One%20Pager-tetobrazil.png"
 block-5:
   Title: Community Events
@@ -72,7 +72,7 @@ block-5:
     for these events include their ability to provide value to the communities that
     HOT supports and their contribution to movement building. \n"
   Action-text: Check the selection criteria here
-  Link: www.hotosm.org/opensummit23-24/community-events
+  Link: opensummit23-24/community-events
   Image: "/uploads/collaboration.jpeg"
 opensummit-timeline:
   Title: OpenSummit '23-24 Timeline
