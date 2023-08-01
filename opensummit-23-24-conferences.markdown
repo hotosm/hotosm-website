@@ -3,7 +3,7 @@ title: 'OpenSummit ''23-24: Conferences'
 date: 2023-07-31 16:47:00 Z
 permalink: opensummit23-24/conferences
 Page Link:
-  Link: https://forms.gle/9PoAQYgWY1igWiou8
+  Link: https://airtable.com/appixgXPcDSV2SpOA/shrrS73HoMh0J7ssw
   Label: Submit your Conference here
 ---
 
