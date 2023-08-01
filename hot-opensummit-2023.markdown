@@ -5,11 +5,11 @@ permalink: opensummit23-24
 summit-image: "/uploads/Website%20MainBanner-51e09d.png"
 intro-text: 
 block-0:
-  Title: About HOT Open Summit '23-24
+  Title: About HOT OpenSummit '23-24
   Text: "HOT's OpenSummit ‘23-24 is ON! \n\nGet ready for a year of global events
     that focus on collective action within the humanitarian open mapping community.
     \n\nWith the success of the *unSummit*, and with a little bit of rebranding, we
-    are very excited to launch this year's **HOT Open Summit '23-24** and open our
+    are very excited to launch this year's **HOT OpenSummit '23-24** and open our
     call for collaborations so more communities and organizations around the world
     bring their events as part of this global movement."
   Action-text: 
@@ -29,13 +29,13 @@ block-2:
   Text: "The call for collaborations will remain open till 2024, and the selection
     of event collaborations will be made three times a year, with decisions taken
     in November 2023, March 2024 and July 2024. \n\nCheck out which type of event
-    applies to you below\n\nCollaborative support provided for the selected events
-    will include at least one or a combination of the following*: \n* Finance/Sponsorship
-    opportunities\n* HOT representation\n* Communications support\n* Post-event follow-up\n*
-    Networking opportunities\n* HOT content contribution\n* Travel support (subject
-    to availability and funding)\n* Swag (subject to availability and funding)\n*
-    Organizational support\n\n*Note that not all the requested support may be available
-    or given\n"
+    fits you better: Conference, 3rd Party Event or Community.\n\nCollaborative support
+    provided for the selected events will include at least one or a combination of
+    the following*: \n* Finance/Sponsorship opportunities\n* HOT representation\n*
+    Communications support\n* Post-event follow-up\n* Networking opportunities\n*
+    HOT content contribution\n* Travel support (subject to availability and funding)\n*
+    Swag (subject to availability and funding)\n* Organizational support\n\n*Note
+    that not all the requested support may be available or given\n"
   Action-text: Submit your event here
   Link: https://forms.gle/9PoAQYgWY1igWiou8
   Image: "/uploads/geong2022.jpeg"
@@ -70,7 +70,9 @@ block-5:
     to foster collaborative humanitarian open mapping activities. These community
     events do not need to be pre-existing and can be small-scale. Selection criteria
     for these events include their ability to provide value to the communities that
-    HOT supports and their contribution to movement building. \n"
+    HOT supports and their contribution to movement building. \n\nExamples of such
+    events from the past year include: Yekastreet series (Nicaragua) and ENEG (National
+    Meeting of Geography Students (Mexico)\n"
   Action-text: Check the selection criteria here
   Link: opensummit23-24/community-events
   Image: "/uploads/collaboration.jpeg"
