@@ -8,4 +8,4 @@ published: false
 
 ![WNA-Main.jpg](/uploads/WNA-Main.jpg)
 
-#### The WNAH covers 24 countries in the West, Central and North Africa region, forming a vast area where multiple cultures, beliefs, languages and lifestyles coexist. Our vision is to stimulate and strengthen the leadership of communities in West and Northern Africa to protect their livelihoods, improve their resilience and preserve their way of life by promoting social justice in accessing open data and free software for their own purposes.
+The WNAH covers 24 countries in the West, Central and North Africa region, forming a vast area where multiple cultures, beliefs, languages and lifestyles coexist. Our vision is to stimulate and strengthen the leadership of communities in West and Northern Africa to protect their livelihoods, improve their resilience and preserve their way of life by promoting social justice in accessing open data and free software for their own purposes.
