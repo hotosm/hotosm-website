@@ -22,7 +22,7 @@ block-1:
 
     This year, the unSummit comes back as the OpenSummit!
   Action-text: Learn more about unSummit 2022
-  Link: www.hotosm.org/unsummit2022
+  Link: "/unsummit2022"
   Image: "/uploads/unSummitMap.png"
 block-2:
   Title: Ready to apply?
