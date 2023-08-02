@@ -1,9 +1,21 @@
 ---
 title: Open Mapping Hub - West and Northern Africa
 date: 2023-06-30 02:23:00 Z
-Page Contact:
+About Us:
+  Label: About Us
+  Page Link: 'hotosm-website.siteleaf.net/hubs/open-mapping-hub-west-and-northern-africahub/about-us.html '
+Projects:
+  Label: Projects
+  Page Link: 'hotosm-website.siteleaf.net/projects/wna-projects/ '
+Movement Building:
+  Label: Movement Building
+  Page Link: 'hotosm-website.siteleaf.net/projects/wna-movement-building/ '
+Contact Us:
   Label: Contact Us
   Contact Email: WNAHub@hotosm.org
+Support and Donate:
+  Label: Donate
+  Page Link: 'hotosm-website.siteleaf.net/donate/ '
 ---
 
 ![hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png](/uploads/hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png)
