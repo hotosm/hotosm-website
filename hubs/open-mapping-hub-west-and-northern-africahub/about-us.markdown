@@ -1,7 +1,6 @@
 ---
 title: About Us
 date: 2023-07-31 13:08:00 Z
-published: false
 ---
 
 # Open Mapping Hub - West and Northern Africa
