@@ -7,15 +7,6 @@ About Us:
 Projects:
   Label: Projects
   Page Link: 'hotosm-website.siteleaf.net/projects/wna-projects/ '
-Movement Building:
-  Label: Movement Building
-  Page Link: 'hotosm-website.siteleaf.net/projects/wna-movement-building/ '
-Contact Us:
-  Label: Contact Us
-  Email: WNAHub@hotosm.org
-Support and Donate:
-  Label: Donate
-  Page Link: 'hotosm-website.siteleaf.net/donate/ '
 ---
 
 ![hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png](/uploads/hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png)
