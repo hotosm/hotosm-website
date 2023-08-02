@@ -12,7 +12,7 @@ Movement Building:
   Page Link: 'hotosm-website.siteleaf.net/projects/wna-movement-building/ '
 Contact Us:
   Label: Contact Us
-  Contact Email: WNAHub@hotosm.org
+  Email: WNAHub@hotosm.org
 Support and Donate:
   Label: Donate
   Page Link: 'hotosm-website.siteleaf.net/donate/ '
