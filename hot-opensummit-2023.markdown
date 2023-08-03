@@ -78,7 +78,7 @@ block-5:
   Image: "/uploads/collaboration.jpeg"
 opensummit-timeline:
   Title: OpenSummit '23-24 Timeline
-  Image: "/uploads/timeline1.png"
+  Image: "/uploads/timeline1-3db8ec.png"
 opensummit-map:
   Title: 
   Image: 
