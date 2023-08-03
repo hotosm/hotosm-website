@@ -38,7 +38,7 @@ block-2:
   Action-text: Submit your event here
   Link: https://airtable.com/appixgXPcDSV2SpOA/shrrS73HoMh0J7ssw
   Image: "/uploads/geong2022.jpeg"
-  Image-text: "*GeOnG 2022 *"
+  Image-text: "*GeOnG 2022*"
 block-3:
   Title: Propose a Conference
   Text: |-
