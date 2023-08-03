@@ -38,20 +38,8 @@ layout: default
 
 
 /* Add styles for module images, captions, and details */
-
-.module-caption {
-  text-align: center;
-}
-
 .module-text {
   white-space: pre-line; /* Preserve line breaks in the text */
-}
-
-/* Add a horizontal rule style */
-.hr-h {
-  border: none;
-  border-top: 1px solid #ccc;
-  margin: 20px 0;
 }
 
 /* Remove link styles for the first module */
@@ -76,7 +64,7 @@ layout: default
 <div class="container summit-main">
 
  <div class="module-group-events top-image-auto">
-  <a class="module-group link-through light no-link" href="{{ page.block-0.Link }}" id="about">
+  <a class="module link-through light no-link" href="{{ page.block-0.Link }}" id="about">
     <div class="module-image">
     <img src="{{ page.block-0.Image }}">
     <div class="module-caption">
@@ -88,7 +76,7 @@ layout: default
       <div class="module-text">{{ page.block-0.Text | markdownify }}</div>
     </div>
   </a>
-  <a class="module-group link-through light" href="{{ page.block-1.Link }}" id="history">
+  <a class="module link-through light" href="{{ page.block-1.Link }}" id="history">
       <div class="module-image">
         <img src="{{ page.block-1.Image }}">
       <div class="module-caption">
@@ -164,9 +152,8 @@ layout: default
     <img src="{{ page.opensummit-map.Image }}">
   </div>
 </div>
+</body>
 </div>
 {% include footer.html %}
 </div>
-<div id="optout-form"></div>
-</body>
 </html>
