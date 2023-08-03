@@ -63,7 +63,8 @@ layout: default
         <a class="module link-through light" href="{{ page.block-1.Link }}" id="support-programs">
           <div class="module-image">
             <img src="{{ page.block-1.Image }}">
-            <div class="module-caption">{{ page.block-1.Caption}}"</div>
+            <div class="module-caption">
+              <figcaption>{{ page.block-1.Caption | markdownify}}"</figcaption>>
           </div>
           <div class="module-details">
             <h3>{{ page.block-1.Title }}</h3>
