@@ -51,12 +51,15 @@ layout: default
 
 <main class="container summit-main">
 
-    <div class="module-group top-image">
+  <a class="module link-through light" href="{{ page.block-0.Link }}" id="support-programs"></a>  
+  <div class="module-group top-image">
+    <img src="{{ page.block-1.Image }}">
         <div class="module-details">
           <h3>{{ page.block-0.Title }}</h3>
           <div class="module-text">{{ page.block-0.Text | markdownify }}</div>
         </div>
     </div>
+  </a>
         <a class="module link-through light" href="{{ page.block-1.Link }}" id="support-programs">
           <div class="module-image">
             <img src="{{ page.block-1.Image }}">
