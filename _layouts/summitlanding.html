@@ -35,6 +35,50 @@ layout: default
     .opensummit-map h2 {
       text-align: center;
     }
+
+    /* Add spacing between modules */
+.module-group {
+  margin-bottom: 20px;
+}
+
+/* Add styles for module images, captions, and details */
+.module-image img {
+  width: 100%; /* Adjust the image size as needed */
+  height: auto;
+}
+
+.module-caption {
+  text-align: center;
+}
+
+/* Add styles for module titles and text */
+.module-details h3 {
+  margin-bottom: 10px;
+  font-size: 1.2em; /* Adjust the font size as needed */
+}
+
+.module-text {
+  white-space: pre-line; /* Preserve line breaks in the text */
+}
+
+/* Add styles for call-to-action */
+.module-cta {
+  font-weight: bold;
+  color: darkRed; /* Adjust the color as needed */
+}
+
+/* Add a horizontal rule style */
+.hr-h {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+}
+
+/* Remove link styles for the first module */
+.no-link {
+  pointer-events: none;
+  cursor: default;
+}
   </style>
 </head>
 <br>
@@ -58,23 +102,23 @@ layout: default
       <div class="module-text">{{ page.block-0.Text | markdownify }}</div>
     </div>
   </div>
-        <a class="module link-through light" href="{{ page.block-1.Link }}" id="support-programs">
-          <div class="module-image">
-            <img src="{{ page.block-1.Image }}">
-            <div class="module-caption">
-              <figcaption>{{ page.block-1.Image-text | markdownify}}"</figcaption>>
-            </div>
-          </div>
-          <div class="module-details">
-            <h3>{{ page.block-1.Title }}</h3>
-            <div class="module-text">{{ page.block-1.Text | markdownify }}</div>
-            <p class="module-cta">{{ page.block-1.Action-text | markdownify }}</p>
-          </div>
-        </a>
-        <a class="module link-through light" href="{{ page.block-2.Link }}" id="support-programs" >
-          <div class="module-image">
-            <img src="{{ page.block-2.Image }}">
-            <div class="module-caption">
+   <div class="module-group link-through light" href="{{ page.block-1.Link }}" id="history">
+      <div class="module-image">
+        <img src="{{ page.block-1.Image }}">
+      <div class="module-caption">
+        <figcaption>{{ page.block-1.Image-text | markdownify}}</figcaption>>
+      </div>
+      </div>
+    <div class="module-details">
+      <h3>{{ page.block-1.Title }}</h3>
+      <div class="module-text">{{ page.block-1.Text | markdownify }}</div>
+      <p class="module-cta">{{ page.block-1.Action-text | markdownify }}</p>
+    </div>
+    </div>
+    <div class="module link-through light" href="{{ page.block-2.Link }}" id="apply" >
+      <div class="module-image">
+        <img src="{{ page.block-2.Image }}">
+        <div class="module-caption">
               <figcaption>{{ page.block-2.Image-text | markdownify}}"</figcaption>>
             </div>
           </div>
@@ -83,8 +127,8 @@ layout: default
             <div class="module-text">{{ page.block-2.Text | markdownify  }}</div>
             <p class="module-cta">{{ page.block-2.Action-text | markdownify  }}</p>
           </div>
-        </a>
-        <a class="module link-through light" href="{{ page.block-3.Link }}" id="support-programs" >
+        </div>
+        <div class="module link-through light" href="{{ page.block-3.Link }}" id="conferences" >
           <div class="module-image">
             <img src="{{ page.block-3.Image }}">
             <div class="module-caption">
@@ -96,8 +140,8 @@ layout: default
             <div class="module-text">{{ page.block-3.Text | markdownify }}</div>
             <p class="module-cta">{{ page.block-3.Action-text | markdownify  }}</p>
           </div>
-        </a>
-        <a class="module link-through light" href="{{ page.block-4.Link }}" id="support-programs" >
+        </div>
+        <a class="module link-through light" href="{{ page.block-4.Link }}" id="3rd-party-events" >
           <div class="module-image">
             <img src="{{ page.block-4.Image }}">
             <div class="module-caption">
@@ -109,8 +153,8 @@ layout: default
             <div class="module-text">{{ page.block-4.Text | markdownify }}</div>
             <p class="module-cta">{{ page.block-4.Action-text  | markdownify }}</p>
           </div>
-        </a>
-        <a class="module link-through light" href="{{ page.block-5.Link }}" id="support-programs" >
+        </div>
+        <div class="module link-through light" href="{{ page.block-5.Link }}" id="community-events" >
           <div class="module-image">
             <img src="{{ page.block-5.Image }}">
             <div class="module-caption">
@@ -122,7 +166,7 @@ layout: default
             <div class="module-text">{{ page.block-5.Text | markdownify }}</div>
             <p class="module-cta">{{ page.block-5.Action-text  | markdownify }}</p>
           </div>
-        </a>
+        </div>
    </div>
 
       <div class="hr-h"></div>
