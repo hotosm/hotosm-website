@@ -12,8 +12,6 @@ block-0:
     we are very excited to launch this year's **HOT OpenSummit '23-24** and open our
     call for collaborations so more communities and organizations around the world
     bring their events as part of this global movement."
-  Action-text: 
-  Link: 
   Image: "/uploads/1.png"
 block-1:
   Title: A brief history of the OpenSummit
@@ -24,6 +22,7 @@ block-1:
   Action-text: Learn more about unSummit 2022
   Link: "/unsummit2022"
   Image: "/uploads/unSummitMap.png"
+  Image-text: "*unSummit by the numbers*"
 block-2:
   Title: Ready to apply?
   Text: "The call for collaborations will remain open till 2024, and the selection
@@ -39,17 +38,17 @@ block-2:
   Action-text: Submit your event here
   Link: https://airtable.com/appixgXPcDSV2SpOA/shrrS73HoMh0J7ssw
   Image: "/uploads/geong2022.jpeg"
+  Image-text: "*GeOnG 2022 *"
 block-3:
   Title: Conferences
   Text: |-
     We encourage collaboration with local organizing committees (LOCs) for existing conferences that focus on open mapping or humanitarian/development work relevant to open mapping. These events should align closely with the criteria set for the HOT OpenSummit event collaborations. Priority will be given to conferences in HOT's priority countries.
     <br>
     Examples of previous conferences include: State of the Map Asia, State of the Map Tanzania, and the Pacific Geospatial Conference.
-
-    *Photo: State of the Map Tanzania 2023*
   Action-text: Check the selection criteria here
   Link: "/opensummit23-24/conferences "
   Image: "/uploads/SOTMTanzaniaUnSummit.jpeg"
+  Image-text: "*State of the Map Tanzania 2023*"
 block-4:
   Title: Interventions in 3rd Party Events
   Text: "We seek to support and collaborate with open mapping groups to bring open
@@ -63,6 +62,7 @@ block-4:
   Action-text: Check the selection criteria here
   Link: "/opensummit23-24/3rd-party-events"
   Image: "/uploads/OpenSummit%20One%20Pager-tetobrazil.png"
+  Image-text: "*Teto Brasil annual gathering*"
 block-5:
   Title: Community Events
   Text: "We aim to support national or local open mapping communities coming together
@@ -76,6 +76,7 @@ block-5:
   Action-text: Check the selection criteria here
   Link: opensummit23-24/community-events
   Image: "/uploads/collaboration.jpeg"
+  Image-text: "*GIRD+OSM Lima 2022*"
 opensummit-timeline:
   Title: OpenSummit '23-24 Timeline
   Image: "/uploads/timeline1-3db8ec.png"
