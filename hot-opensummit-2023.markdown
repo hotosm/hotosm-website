@@ -40,7 +40,7 @@ block-2:
   Image: "/uploads/geong2022.jpeg"
   Image-text: "*GeOnG 2022 *"
 block-3:
-  Title: Conferences
+  Title: Propose a Conference
   Text: |-
     We encourage collaboration with local organizing committees (LOCs) for existing conferences that focus on open mapping or humanitarian/development work relevant to open mapping. These events should align closely with the criteria set for the HOT OpenSummit event collaborations. Priority will be given to conferences in HOT's priority countries.
     <br>
@@ -50,7 +50,7 @@ block-3:
   Image: "/uploads/SOTMTanzaniaUnSummit.jpeg"
   Image-text: "*State of the Map Tanzania 2023*"
 block-4:
-  Title: Interventions in 3rd Party Events
+  Title: Propose an Intervention in a 3rd Party Event
   Text: "We seek to support and collaborate with open mapping groups to bring open
     mapping to new or relevant audiences. This collaboration can take various forms,
     such as satellite events, content tracks, social events, etc. The goal is to promote
@@ -64,7 +64,7 @@ block-4:
   Image: "/uploads/OpenSummit%20One%20Pager-tetobrazil.png"
   Image-text: "*Teto Brasil annual gathering*"
 block-5:
-  Title: Community Events
+  Title: Propose a Community Event
   Text: "We aim to support national or local open mapping communities coming together
     to share experiences, develop skills, build relationships, and, most importantly,
     to foster collaborative humanitarian open mapping activities. These community
