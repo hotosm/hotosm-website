@@ -37,3 +37,5 @@ Collaborative support provided for the selected events will include at least one
 * Organizational support
 
 *Note that not all the requested support may be available or given
+
+**Funding range: $500 -$2,000USD**

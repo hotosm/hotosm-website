@@ -39,4 +39,4 @@ Collaborative support provided for the selected events will include at least one
 
 *Note that not all the requested support may be available or given
 
-**Funding range: $2,000 - $5,000**
+**Funding range: $2,000 - $5,000USD**
