@@ -73,12 +73,15 @@ layout: default
   </header>
 </div> 
 
-<main class="container summit-main">
+<div class="container summit-main">
 
  <div class="module-group-events top-image-auto">
   <a class="module-group link-through light no-link" href="{{ page.block-0.Link }}" id="about">
     <div class="module-image">
     <img src="{{ page.block-0.Image }}">
+    <div class="module-caption">
+      <figcaption>{{ page.block-0.Image-text | markdownify}}</figcaption>
+    </div>
   </div>
     <div class="module-details">
       <h3>{{ page.block-0.Title }}</h3>
@@ -160,7 +163,7 @@ layout: default
     <h2>{{ page.opensummit-map.Title | markdownify }}</h2>
     <img src="{{ page.opensummit-map.Image }}">
   </div>
-</main>
+</div>
 </div>
 {% include footer.html %}
 </div>
