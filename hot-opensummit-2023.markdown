@@ -13,6 +13,9 @@ block-0:
     call for collaborations so more communities and organizations around the world
     bring their events as part of this global movement."
   Image: "/uploads/1.png"
+  Action-text: 
+  Link: 
+  Image-text: 
 block-1:
   Title: A brief history of the OpenSummit
   Text: |-
