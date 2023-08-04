@@ -44,7 +44,6 @@ layout: default
 .module-image-auto {
   width: 525px; /* Adjust the width as needed */
   height: 300px; /* Adjust the height as needed */
-  object-fit: cover; /* Maintain aspect ratio and cover the container */
 }
 
 
@@ -78,7 +77,7 @@ layout: default
 
  <div class="module-group top-image-auto">
   <a class="module link-through light no-link" href="{{ page.block-0.Link }}" id="about">
-    <div class="module-image">
+    <div class="module-image-auto">
     <img src="{{ page.block-0.Image }}" alt="{{ page.block-0.Title }}" class="module-image-auto">
     <div class="module-caption">
       <figcaption>{{ page.block-0.Image-text | markdownify}}</figcaption>
@@ -90,7 +89,7 @@ layout: default
     </div>
   </a>
   <a class="module link-through light" href="{{ page.block-1.Link }}" id="history">
-      <div class="module-image">
+      <div class="module-image-auto">
         <img src="{{ page.block-1.Image }}" alt="{{ page.block-1.Title }}" class="module-image-auto">
       <div class="module-caption">
         <figcaption>{{ page.block-1.Image-text | markdownify}}</figcaption>
@@ -103,7 +102,7 @@ layout: default
     </div>
   </a>
     <a class="module link-through light" href="{{ page.block-2.Link }}" id="apply" >
-      <div class="module-image">
+      <div class="module-image-auto">
         <img src="{{ page.block-2.Image }}" alt="{{ page.block-2.Title }}" class="module-image-auto">
         <div class="module-caption">
               <figcaption>{{ page.block-2.Image-text | markdownify}}</figcaption>
@@ -116,7 +115,7 @@ layout: default
           </div>
         </a>
         <a class="module link-through light" href="{{ page.block-3.Link }}" id="conferences" >
-          <div class="module-image">
+          <div class="module-image-auto">
             <img src="{{ page.block-3.Image }}" alt="{{ page.block-3.Title }}" class="module-image-auto">
             <div class="module-caption">
               <figcaption>{{ page.block-3.Image-text | markdownify}}</figcaption>
@@ -129,7 +128,7 @@ layout: default
           </div>
         </a>
         <a class="module link-through light" href="{{ page.block-4.Link }}" id="3rd-party-events">
-          <div class="module-image">
+          <div class="module-image-auto">
             <img src="{{ page.block-4.Image }}" alt="{{ page.block-4.Title }}" class="module-image-auto">
             <div class="module-caption">
               <figcaption>{{ page.block-4.Image-text | markdownify}}</figcaption>
@@ -142,7 +141,7 @@ layout: default
           </div>
         </a>
         <a class="module link-through light" href="{{ page.block-5.Link }}" id="community-events">
-          <div class="module-image">
+          <div class="module-image-auto">
             <img src="{{ page.block-5.Image }}" alt="{{ page.block-5.Title }}" class="module-image-auto">
             <div class="module-caption">
               <figcaption>{{ page.block-5.Image-text | markdownify}}</figcaption>
