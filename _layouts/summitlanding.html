@@ -42,14 +42,15 @@ layout: default
 /* Set a fixed width and height for module images */
 .module-image,
 .module-image-auto {
+  width: 525px; /* Adjust the width as needed */
+  height: 300px; /* Adjust the height as needed */
+  object-fit: cover
+}
+.module-details {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  width: 525px; /* Adjust the width as needed */
-  height: 300px; /* Adjust the height as needed */
-  object-fit: contain
 }
-
 
 .module-caption {
   text-align: center;
