@@ -46,11 +46,6 @@ layout: default
   height: 300px; /* Adjust the height as needed */
   object-fit: cover
 }
-.module-cta {
-  display: flex;
-  flex-direction: column;
-  vertical-align: text-bottom;
-}
 
 .module-caption {
   text-align: center;
@@ -103,7 +98,7 @@ layout: default
     <div class="module-details">
       <h3>{{ page.block-1.Title }}</h3>
       <div class="module-text">{{ page.block-1.Text | markdownify }}</div>
-      <p class="module-cta">{{ page.block-1.Action-text | markdownify }}</p>
+      <p class="module-cta" style="vertical-align: text-bottom">{{ page.block-1.Action-text | markdownify }}</p>
     </div>
   </a>
     <a class="module link-through light" href="{{ page.block-2.Link }}" id="apply" >
@@ -116,7 +111,7 @@ layout: default
           <div class="module-details">
             <h3>{{ page.block-2.Title }}</h3>
             <div class="module-text">{{ page.block-2.Text | markdownify  }}</div>
-            <p class="module-cta">{{ page.block-2.Action-text | markdownify  }}</p>
+            <p class="module-cta" style="vertical-align: text-bottom">{{ page.block-2.Action-text | markdownify  }}</p>
           </div>
         </a>
         <a class="module link-through light" href="{{ page.block-3.Link }}" id="conferences" >
@@ -129,7 +124,7 @@ layout: default
           <div class="module-details">
             <h3>{{ page.block-3.Title }}</h3>
             <div class="module-text">{{ page.block-3.Text | markdownify }}</div>
-            <p class="module-cta">{{ page.block-3.Action-text | markdownify  }}</p>
+            <p class="module-cta" style="vertical-align: text-bottom">{{ page.block-3.Action-text | markdownify  }}</p>
           </div>
         </a>
         <a class="module link-through light" href="{{ page.block-4.Link }}" id="3rd-party-events">
@@ -142,7 +137,7 @@ layout: default
           <div class="module-details">
             <h3>{{ page.block-4.Title}}</h3>
             <div class="module-text">{{ page.block-4.Text | markdownify }}</div>
-            <p class="module-cta">{{ page.block-4.Action-text  | markdownify }}</p>
+            <p class="module-cta" style="vertical-align: text-bottom">{{ page.block-4.Action-text  | markdownify }}</p>
           </div>
         </a>
         <a class="module link-through light" href="{{ page.block-5.Link }}" id="community-events">
@@ -155,7 +150,7 @@ layout: default
           <div class="module-details">
             <h3>{{ page.block-5.Title}}</h3>
             <div class="module-text">{{ page.block-5.Text | markdownify }}</div>
-            <p class="module-cta">{{ page.block-5.Action-text  | markdownify }}</p>
+            <p class="module-cta" style="vertical-align: text-bottom">{{ page.block-5.Action-text  | markdownify }}</p>
           </div>
         </a>
         </div>
