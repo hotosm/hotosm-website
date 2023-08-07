@@ -24,6 +24,7 @@ block-1:
   Action-text: Learn more about unSummit 2022
   Link: "/unsummit2022"
   Image: "/uploads/unSummitMap.png"
+  Image-text: "*unSummit 2022 by the numbers*"
 block-2:
   Title: Ready to apply?
   Text: "The call for collaborations will remain open till 2024, and the selection
@@ -33,6 +34,7 @@ block-2:
   Action-text: Submit your event here
   Link: https://airtable.com/appixgXPcDSV2SpOA/shrrS73HoMh0J7ssw
   Image: "/uploads/geong2022.jpeg"
+  Image-text: "*GeOnG 2022*"
 block-3:
   Title: Propose a Conference
   Text: |-
@@ -42,6 +44,7 @@ block-3:
   Action-text: Check the selection criteria here
   Link: "/opensummit23-24/conferences "
   Image: "/uploads/SOTMTanzaniaUnSummit.jpeg"
+  Image-text: State Of The Map Tanzania 2023
 block-4:
   Title: Propose an Intervention in a 3rd Party Event
   Text: "We seek to support and collaborate with open mapping groups to bring open
@@ -54,6 +57,7 @@ block-4:
   Action-text: Check the selection criteria here
   Link: "/opensummit23-24/3rd-party-events"
   Image: "/uploads/OpenSummit%20One%20Pager-tetobrazil.png"
+  Image- text: "*Teto Brasil Annual Gathering 2022*"
 block-5:
   Title: Propose a Community Event
   Text: "We aim to support national or local open mapping communities coming together
@@ -67,6 +71,7 @@ block-5:
   Action-text: Check the selection criteria here
   Link: opensummit23-24/community-events
   Image: "/uploads/collaboration.jpeg"
+  Image-text: "*GIRD+OSM Lima 2022*"
 opensummit-timeline:
   Title: OpenSummit '23-24 Timeline
   Image: "/uploads/timeline1-3db8ec.png"
