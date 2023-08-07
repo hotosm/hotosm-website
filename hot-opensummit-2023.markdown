@@ -44,7 +44,7 @@ block-3:
   Action-text: Check the selection criteria here
   Link: "/opensummit23-24/conferences "
   Image: "/uploads/SOTMTanzaniaUnSummit.jpeg"
-  Image-text: State Of The Map Tanzania 2023
+  Image-text: "*State Of The Map Tanzania 2023*"
 block-4:
   Title: Propose an Intervention in a 3rd Party Event
   Text: "We seek to support and collaborate with open mapping groups to bring open
