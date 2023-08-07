@@ -57,7 +57,7 @@ block-4:
   Action-text: Check the selection criteria here
   Link: "/opensummit23-24/3rd-party-events"
   Image: "/uploads/OpenSummit%20One%20Pager-tetobrazil.png"
-  Image- text: "*Teto Brasil Annual Gathering 2022*"
+  Image- text: Teto Brasil Annual Gathering 2022
 block-5:
   Title: Propose a Community Event
   Text: "We aim to support national or local open mapping communities coming together
