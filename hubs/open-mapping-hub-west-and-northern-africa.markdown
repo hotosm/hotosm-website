@@ -1,18 +1,18 @@
 ---
 title: Open Mapping Hub - West and Northern Africa
 date: 2023-06-30 02:23:00 Z
-About Us:
+Page Link:
   Label: About Us
   Link: 'hotosm-website.siteleaf.net/hubs/open-mapping-hub-west-and-northern-africahub/about-us.html '
+Contact Us:
+  Label: Contact Us
+  Contact Email: wnahub@hotosm.org
 Projects:
   Label: Projects
   Link: 'hotosm-website.siteleaf.net/projects/wna-projects/ '
 Movement Building:
   Label: Movement Building
   Link: hotosm-website.siteleaf.net/projects/wna-movement-building/ edit
-Contact Us:
-  Label: Contact Us
-  Email: wnahub@hotosm.org
 Donate:
   Label: Support and Donate
   Link: https://www.hotosm.org/donate/
@@ -63,5 +63,7 @@ This project was developed through a co-creation process with policymakers, emph
 * [Facebook](https://www.facebook.com/Hotwnah)
 
 * [Instagram](https://www.instagram.com/open.mapping.hubs/)
-  ![WHALandingPage.jpeg](/uploads/WHALandingPage.jpeg)
+
+
+![WHALandingPage.jpeg](/uploads/WHALandingPage.jpeg)
   *Monrovia, Liberia. Photo by: Carter Draper*
