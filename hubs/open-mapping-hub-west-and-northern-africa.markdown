@@ -4,16 +4,16 @@ date: 2023-06-30 02:23:00 Z
 Page Link:
   Label: About Us
   Link: 'hotosm-website.siteleaf.net/hubs/open-mapping-hub-west-and-northern-africahub/about-us.html '
-Contact Us:
+Page Contact:
   Label: Contact Us
   Contact Email: wnahub@hotosm.org
-Projects:
+Page Projects:
   Label: Projects
   Link: 'hotosm-website.siteleaf.net/projects/wna-projects/ '
-Movement Building:
+Page Movement Building:
   Label: Movement Building
   Link: hotosm-website.siteleaf.net/projects/wna-movement-building/ edit
-Donate:
+Page Donate:
   Label: Support and Donate
   Link: https://www.hotosm.org/donate/
 ---
