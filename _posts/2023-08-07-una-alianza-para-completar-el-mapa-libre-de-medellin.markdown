@@ -38,8 +38,6 @@ El “[Curso-Taller en metodologías de cartografía social y herramientas de ma
 
 * Que los representantes de colectivos y movimientos sociales participen de un proceso de formación en el uso de la plataforma OpenStreetMap y sus recursos y aplicaciones.
 
-* Que los representantes de colectivos y movimientos sociales barriales identifiquen, caractericen y mapeen sus experiencias territoriales.
-
 * Que se cree y fortalezca una comunidad de aprendizaje y experimentación de usos sociales, investigativos y reivindicativos de las TIC con énfasis en el campo del mapeo colaborativo.
 
 * Que se construya e implemente una estrategia comunicativa para la divulgación y la apropiación social de los conocimientos generados en el proyecto.
