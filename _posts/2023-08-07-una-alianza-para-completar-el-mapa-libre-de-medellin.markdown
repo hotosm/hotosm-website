@@ -16,7 +16,7 @@ tags:
 Summary Text: El Hub de mapeo abierto de América Latina y el Caribe se asoció con
   el Centro de estudios con poblaciones, movilizaciones y territorios (POMOTE) para
   capacitar en mapeo abierto a organizaciones de la sociedad civil de Medellín, Colombia.
-Feature Image: "/uploads/Curso-Taller_Mapeo-postal-1536x1536.png"
+Feature Image: "/uploads/Curso-Taller_Mapeo-web.png"
 Person: Juan Arellano Valdivia
 Country:
 - Colombia
