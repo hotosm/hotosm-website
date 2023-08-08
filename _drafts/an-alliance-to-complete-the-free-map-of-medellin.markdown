@@ -23,7 +23,7 @@ Country:
 - Colombia
 ---
 
-Alguna vez considerada [la ciudad más violenta](https://hacemosmemoria.org/2022/02/21/el-rastro-de-la-violencia-en-las-calles-de-medellin/) del mundo, Medellín ha logrado [transformarse](https://www.xataka.com/magnet/pablo-escobar-al-nobel-ciudades-asi-ha-escapado-medellin-violencia-1), siendo ahora más conocida por sus logros en el desarrollo y sus atractivos turísticos que por su índice de criminalidad. Como cualquier otra ciudad, sin embargo, no está exenta de problemas, pero hay organizaciones tratando de solucionarlos.
+Once considered the [most dangerous city](https://www.washingtonpost.com/archive/politics/1991/03/10/record-murder-wave-overwhelms-medellin/5e7f1080-1ea0-46e8-bfef-1ab4df9d53d0/) in the world, Medellín has managed to [transform itself](https://rapidtransition.org/stories/the-medellin-miracle/), now being known more for its development achievements and tourist attractions than for its crime rate. Like any other city, however, it has its own problems, but there are organizations trying to fix them.
 
 Entre esas organizaciones destaca el Centro de estudios con poblaciones, movilizaciones y territorios o [POMOTE](https://pomotecestudios.unaula.edu.co/), que se dedica desde hace cinco años a la investigación y participación en procesos orientados al fortalecimiento organizativo y de articulación de las organizaciones sociales en la ciudad de Medellín.
 
