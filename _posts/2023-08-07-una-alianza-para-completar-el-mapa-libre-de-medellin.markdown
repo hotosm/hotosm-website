@@ -54,7 +54,7 @@ Añade además:
 
 ![tallercollage.jpg](/uploads/tallercollage.jpg)
 
-En las próximas sesiones del curso-taller, con el apoyo de miembros de los Capítulos Youthmappers de las Universidades [UDEA](https://www.instagram.com/semillerogeolabudea/) y [UNAL](https://www.instagram.com/sagema_unal/), los participantes empezaran a adentrarse en el mundo de la cartografía digital y a perfilar lo que serán sus propios proyectos de mapeo abierto según las necesidades identificadas en sus comunidades. Estos proyectos serán socializados al final del curso-taller.
+En las próximas sesiones del curso-taller, con el apoyo de miembros de los Capítulos Youthmappers de las Universidades [UDEA](https://www.instagram.com/semillerogeolabudea/) y [UNAL](https://www.instagram.com/sagema_unal/), los participantes empezarán a adentrarse en el mundo de la cartografía digital y a perfilar lo que serán sus propios proyectos de mapeo abierto según las necesidades identificadas en sus comunidades. Estos proyectos serán socializados al final del curso-taller.
 
 *Si quieres ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
 
