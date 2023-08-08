@@ -58,8 +58,8 @@ Añade además:
 
 En las próximas sesiones del taller, con el apoyo de miembros de los Capítulos Youthmappers de las Universidades [UDEA](https://www.instagram.com/semillerogeolabudea/) y [UNAL](https://www.instagram.com/sagema_unal/), los participantes empezaran a conocer el mundo de la cartografía digital y a perfilar sus primeros proyectos de mapeo abierto.
 
-*Si quiere ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escriba un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
+*Si quieres ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
 
-*Si es parte de alguna organización que desea explorar cómo colaborar en un proyecto, escriba un correo a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Proyectos LAC**.*
+*Si eres parte de alguna organización que desea explorar cómo colaborar en un proyecto, escribe un correo a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Proyectos LAC**.*
 
 **Síguenos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).**
