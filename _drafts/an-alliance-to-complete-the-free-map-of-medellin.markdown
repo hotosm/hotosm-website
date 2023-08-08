@@ -1,5 +1,5 @@
 ---
-title: An alliance to complete the free map of Medellín
+title: A partnership to complete the free map of Medellín
 date: 2023-08-08 02:53:00 Z
 categories:
 - Mapping
@@ -33,25 +33,27 @@ Considering this experience in working with grassroots communities, the Open Map
 
 ![Pomote.jpg](/uploads/Pomote.jpg)
 
-El “[Curso-Taller en metodologías de cartografía social y herramientas de mapeo digital](https://pomotecestudios.unaula.edu.co/2023/07/15/convocatoria-curso-taller-en-metodologias-de-cartografia-social-y-herramientas-de-mapeo-digital/)” abrió su convocatoria pública del 15 al 23 de julio con varios objetivos claros:
+*POMOTE - Study Center. Social Narratives Collaboratory. "Mapping of peace experiences".*
 
-* Que los movimientos sociales y colectivos comunitarios identifiquen sus propias prácticas y experiencias de uso de tecnologías para el mapeo y reconocimiento de sus procesos territoriales.
+The "[Workshop on social cartography methodologies and digital mapping tools](https://pomotecestudios.unaula.edu.co/2023/07/15/convocatoria-curso-taller-en-metodologias-de-cartografia-social-y-herramientas-de-mapeo-digital/)” opened its public call from July 15 to 23 with several clear objectives:
 
-* Que los representantes de colectivos y movimientos sociales participen de un proceso de formación en el uso de la plataforma OpenStreetMap y sus recursos y aplicaciones.
+* Social movements and community groups identify their own practices and experiences in the use of technologies for mapping and recognition of their territorial processes.
 
-* Que se cree y fortalezca una comunidad de aprendizaje y experimentación de usos sociales, investigativos y reivindicativos de las TIC con énfasis en el campo del mapeo colaborativo.
+* Representatives of collectives and social movements participate in a training process in the use of the OpenStreetMap platform and its resources and applications.
 
-* Que se construya e implemente una estrategia comunicativa para la divulgación y la apropiación social de los conocimientos generados en el proyecto.
+* A community of learning and experimentation of social, investigative and claiming uses of ICTs is created and strengthened with an emphasis on the field of collaborative mapping.
 
-La primera sesión del taller se realizó el 27 de julio con la participación de 37 asistentes en representación de 22 organizaciones de la sociedad civil, así como representantes de grupos de investigación, profesores y estudiantes.
+* A communication strategy is built and implemented for the dissemination and social appropriation of the knowledge generated in the project.
 
-Leonardo Jimenez, Director del Centro de estudios POMOTE [publicó](https://pomotecestudios.unaula.edu.co/2023/08/03/mapeando-la-riqueza-de-procesos-sociales-en-medellin/) algunas de sus impresiones de esta sesión inaugural del taller:
+The first session of the workshop was held on July 27 with the participation of 37 attendees representing 22 civil society organizations, as well as representatives of research groups, professors and students.
 
-> Se destaca del primer encuentro las reflexiones aportadas por las organizaciones y personas participantes que coinciden en afirmar que aunque la ciudad de Medellín a través de los procesos de participación comunitaria ha sido pionera en el uso de metodologías de la cartografía social para construir lecturas de los territorios, ha tenido un menor desarrollo en procesos de mapeo y cartografía social desde el uso de datos georreferenciados y plataformas digitales que permitan conectar las representaciones de los territorios de la ciudad a nivel mundial.
+Leonardo Jimenez, Director of the POMOTE Study Center [published](https://pomotecestudios.unaula.edu.co/2023/08/03/mapeando-la-riqueza-de-procesos-sociales-en-medellin/) some of his impressions of this inaugural session of the workshop:
 
-Añade además:
+> It stands out from the first meeting the reflections contributed by the participating organizations and individuals who agree in affirming that although the city of Medellín, through community participation processes, has been a pioneer in the use of social cartography methodologies to construct readings of the territories, it has had less development in mapping and social cartography processes from the use of georeferenced data and digital platforms that allow connecting the representations of the city's territories worldwide.
 
-> Para los procesos participantes del Curso-Taller, esta experiencia será fundamental, ya que permitirá complementar, consolidar y comunicar en entornos digitales iniciativas cartográficas que ya han estado adelantando las organizaciones en ámbitos reivindicativos como el derecho al territorio, la construcción de paz territorial, la gestión del riesgo en comunidad, las violencias basadas en género, las iniciativas de movilización social en defensa del territorio, el reconocimiento de procesos e iniciativas de niñas, niños, jóvenes, mujeres, diversidades sexuales, entre otros ámbitos que emergen del primer diagnóstico sobre necesidades de mapeo realizado en el encuentro de apertura.
+He also adds:
+
+> For the processes participating in the Course-Workshop, this experience will be fundamental, since it will allow them to complement, consolidate and communicate in digital environments cartographic initiatives that organizations have already been carrying out in claiming areas such as the right to territory, the construction of territorial peace, the community risk management, gender-based violence, social mobilization initiatives in defense of the territory, recognition of processes and initiatives of girls, boys, youth, women, sexual diversities, among other areas that emerge from the first diagnosis of mapping needs carried out in the opening meeting.
 
 ![tallercollage.jpg](/uploads/tallercollage.jpg)
 
