@@ -26,7 +26,7 @@ Alguna vez considerada [la ciudad más violenta](https://hacemosmemoria.org/2022
 
 Entre esas organizaciones destaca el Centro de estudios con poblaciones, movilizaciones y territorios o [POMOTE](https://pomotecestudios.unaula.edu.co/), que se dedica desde hace cinco años a la investigación y participación en procesos orientados al fortalecimiento organizativo y de articulación de las organizaciones sociales en la ciudad de Medellín.
 
-Considerando esta experiencia en trabajo con comunidades de base, el Hub de mapeo abierto de América Latina y el Caribe (LAC) construyó una alianza con el POMOTE para desarrollar un taller de generación de capacidades en el mapeo abierto dirigido a las comunidades y organizaciones sociales de Medellín.
+Considerando esta experiencia en trabajo con comunidades de base, el Hub de mapeo abierto de América Latina y el Caribe (LAC) construyó una alianza con el POMOTE para desarrollar un ciclo de talleres de generación de capacidades en el mapeo abierto dirigido a las comunidades y organizaciones sociales de Medellín.
 
 > La propuesta del Curso-Taller busca potenciar el uso de las nuevas tecnologías, y las herramientas libres y colaborativas como recursos que pueden aportar al reconocimiento de experiencias y procesos territoriales de la ciudad de Medellín y el Área Metropolitana, especialmente de los territorios de las periferias de la ciudad en las que se dinamizan procesos sociales y de transformación social.
 
@@ -54,7 +54,7 @@ Añade además:
 
 ![tallercollage.jpg](/uploads/tallercollage.jpg)
 
-En las próximas sesiones del taller, con el apoyo de miembros de los Capítulos Youthmappers de las Universidades [UDEA](https://www.instagram.com/semillerogeolabudea/) y [UNAL](https://www.instagram.com/sagema_unal/), los participantes empezaran a adentrarse en el mundo de la cartografía digital y a perfilar lo que serán sus propios proyectos de mapeo abierto según las necesidades identificadas en sus comunidades. Estos proyectos serán socializados al final del taller.
+En las próximas sesiones del curso-taller, con el apoyo de miembros de los Capítulos Youthmappers de las Universidades [UDEA](https://www.instagram.com/semillerogeolabudea/) y [UNAL](https://www.instagram.com/sagema_unal/), los participantes empezaran a adentrarse en el mundo de la cartografía digital y a perfilar lo que serán sus propios proyectos de mapeo abierto según las necesidades identificadas en sus comunidades. Estos proyectos serán socializados al final del curso-taller.
 
 *Si quieres ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
 
