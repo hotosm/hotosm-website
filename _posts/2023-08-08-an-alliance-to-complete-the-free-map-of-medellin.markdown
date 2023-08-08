@@ -25,7 +25,7 @@ Country:
 
 Once considered the [most dangerous city](https://www.washingtonpost.com/archive/politics/1991/03/10/record-murder-wave-overwhelms-medellin/5e7f1080-1ea0-46e8-bfef-1ab4df9d53d0/) in the world, Medellín has managed to [transform itself](https://rapidtransition.org/stories/the-medellin-miracle/), now being known more for its development achievements and tourist attractions than for its crime rate. Like any other city, however, it has its own problems, but there are organizations trying to fix them.
 
-Among these organizations stands out the Center for Studies with Populations, Mobilizations and Territories or [POMOTE](https://pomotecestudios.unaula.edu.co/). This center has been dedicated for five years to research and participation in processes aimed at strengthening the organization and articulation of social organizations in the city of Medellín.
+Among these organizations stands out the Center for Studies with Populations, Mobilizations and Territories ([POMOTE](https://pomotecestudios.unaula.edu.co/)) of the Universidad Autónoma Latinoamericana. This center has been dedicated for five years to research and participation in processes aimed at strengthening the organization and articulation of social organizations in the city of Medellín.
 
 Considering this experience in working with grassroots communities, the Open Mapping Hub of Latin America and the Caribbean (LAC) built an alliance with POMOTE to develop a cycle of capacity building workshops in open mapping aimed at communities and social organizations of Medellin.
 
