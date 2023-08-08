@@ -1,6 +1,18 @@
 ---
 title: Una alianza para completar el mapa libre de Medellín
 date: 2023-08-07 23:42:00 Z
+categories:
+- Mapping
+- data
+- news
+tags:
+- Colombia
+- Medellin
+- LAC
+- mapa
+- mapeo abierto
+- ong
+- universidad
 ---
 
 Alguna vez considerada [la ciudad más violenta](https://hacemosmemoria.org/2022/02/21/el-rastro-de-la-violencia-en-las-calles-de-medellin/) del mundo, Medellín ha logrado [transformarse](https://www.xataka.com/magnet/pablo-escobar-al-nobel-ciudades-asi-ha-escapado-medellin-violencia-1), siendo ahora más conocida por sus logros en el desarrollo y sus atractivos turísticos que por su índice de criminalidad. Como cualquier otra ciudad, sin embargo, no está exenta de problemas, pero hay organizaciones tratando de solucionarlos.
