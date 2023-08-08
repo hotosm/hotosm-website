@@ -14,6 +14,13 @@ tags:
 - open mapping
 - ngo
 - university
+Summary Text: The Open Mapping Hub of Latin America and the Caribbean partnered with
+  the Center for Studies with Populations, Mobilizations and Territories (POMOTE)
+  to train civil society organizations in Medellín, Colombia in open mapping.
+Feature Image: "/uploads/Curso-Taller_Mapeo-postal-1536x1536.png"
+Person: Juan Arellano Valdivia
+Country:
+- Colombia
 ---
 
 Alguna vez considerada [la ciudad más violenta](https://hacemosmemoria.org/2022/02/21/el-rastro-de-la-violencia-en-las-calles-de-medellin/) del mundo, Medellín ha logrado [transformarse](https://www.xataka.com/magnet/pablo-escobar-al-nobel-ciudades-asi-ha-escapado-medellin-violencia-1), siendo ahora más conocida por sus logros en el desarrollo y sus atractivos turísticos que por su índice de criminalidad. Como cualquier otra ciudad, sin embargo, no está exenta de problemas, pero hay organizaciones tratando de solucionarlos.
