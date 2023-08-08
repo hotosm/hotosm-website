@@ -13,6 +13,8 @@ tags:
 - mapeo abierto
 - ong
 - universidad
+Feature Image: "/uploads/Curso-Taller_Mapeo-postal-1536x1536.png"
+Person: Juan Arellano Valdivia
 ---
 
 Alguna vez considerada [la ciudad más violenta](https://hacemosmemoria.org/2022/02/21/el-rastro-de-la-violencia-en-las-calles-de-medellin/) del mundo, Medellín ha logrado [transformarse](https://www.xataka.com/magnet/pablo-escobar-al-nobel-ciudades-asi-ha-escapado-medellin-violencia-1), siendo ahora más conocida por sus logros en el desarrollo y sus atractivos turísticos que por su índice de criminalidad. Como cualquier otra ciudad, sin embargo, no está exenta de problemas, pero hay organizaciones tratando de solucionarlos.
