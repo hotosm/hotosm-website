@@ -18,6 +18,8 @@ Summary Text: El Hub de mapeo abierto de América Latina y el Caribe se asoció 
   capacitar en mapeo abierto a organizaciones de la sociedad civil de Medellín, Colombia.
 Feature Image: "/uploads/Curso-Taller_Mapeo-postal-1536x1536.png"
 Person: Juan Arellano Valdivia
+Country:
+- Colombia
 ---
 
 Alguna vez considerada [la ciudad más violenta](https://hacemosmemoria.org/2022/02/21/el-rastro-de-la-violencia-en-las-calles-de-medellin/) del mundo, Medellín ha logrado [transformarse](https://www.xataka.com/magnet/pablo-escobar-al-nobel-ciudades-asi-ha-escapado-medellin-violencia-1), siendo ahora más conocida por sus logros en el desarrollo y sus atractivos turísticos que por su índice de criminalidad. Como cualquier otra ciudad, sin embargo, no está exenta de problemas, pero hay organizaciones tratando de solucionarlos.
@@ -27,6 +29,8 @@ Entre esas organizaciones destaca el Centro de estudios con poblaciones, moviliz
 Considerando esta experiencia en trabajo con comunidades de base, el Hub de mapeo abierto de América Latina y el Caribe (LAC) construyó una alianza con el POMOTE para desarrollar un taller de generación de capacidades en el mapeo abierto dirigido a las comunidades y organizaciones sociales de Medellín.
 
 > La propuesta del Curso-Taller busca potenciar el uso de las nuevas tecnologías, y las herramientas libres y colaborativas como recursos que pueden aportar al reconocimiento de experiencias y procesos territoriales de la ciudad de Medellín y el Área Metropolitana, especialmente de los territorios de las periferias de la ciudad en las que se dinamizan procesos sociales y de transformación social.
+
+![Pomote.jpg](/uploads/Pomote.jpg)
 
 El “[Curso-Taller en metodologías de cartografía social y herramientas de mapeo digital](https://pomotecestudios.unaula.edu.co/2023/07/15/convocatoria-curso-taller-en-metodologias-de-cartografia-social-y-herramientas-de-mapeo-digital/)” abrió su convocatoria pública del 15 al 23 de julio con varios objetivos claros:
 
