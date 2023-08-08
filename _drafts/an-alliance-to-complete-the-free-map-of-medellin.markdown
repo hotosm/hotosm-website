@@ -25,11 +25,11 @@ Country:
 
 Once considered the [most dangerous city](https://www.washingtonpost.com/archive/politics/1991/03/10/record-murder-wave-overwhelms-medellin/5e7f1080-1ea0-46e8-bfef-1ab4df9d53d0/) in the world, Medellín has managed to [transform itself](https://rapidtransition.org/stories/the-medellin-miracle/), now being known more for its development achievements and tourist attractions than for its crime rate. Like any other city, however, it has its own problems, but there are organizations trying to fix them.
 
-Entre esas organizaciones destaca el Centro de estudios con poblaciones, movilizaciones y territorios o [POMOTE](https://pomotecestudios.unaula.edu.co/), que se dedica desde hace cinco años a la investigación y participación en procesos orientados al fortalecimiento organizativo y de articulación de las organizaciones sociales en la ciudad de Medellín.
+Among these organizations stands out the Center for Studies with Populations, Mobilizations and Territories or [POMOTE](https://pomotecestudios.unaula.edu.co/). This center has been dedicated for five years to research and participation in processes aimed at strengthening the organization and articulation of social organizations in the city of Medellín.
 
-Considerando esta experiencia en trabajo con comunidades de base, el Hub de mapeo abierto de América Latina y el Caribe (LAC) construyó una alianza con el POMOTE para desarrollar un ciclo de talleres de generación de capacidades en el mapeo abierto dirigido a las comunidades y organizaciones sociales de Medellín.
+Considering this experience in working with grassroots communities, the Open Mapping Hub of Latin America and the Caribbean (LAC) built an alliance with POMOTE to develop a cycle of capacity building workshops in open mapping aimed at communities and social organizations of Medellin.
 
-> La propuesta del Curso-Taller busca potenciar el uso de las nuevas tecnologías, y las herramientas libres y colaborativas como recursos que pueden aportar al reconocimiento de experiencias y procesos territoriales de la ciudad de Medellín y el Área Metropolitana, especialmente de los territorios de las periferias de la ciudad en las que se dinamizan procesos sociales y de transformación social.
+> The workshops proposal seeks to promote the use of new technologies, and free and collaborative tools as resources that can contribute to the recognition of experiences and territorial processes in the city of Medellín and the Metropolitan Area, especially in the territories of the peripheries of the city in which social processes and social transformation are energized.
 
 ![Pomote.jpg](/uploads/Pomote.jpg)
 
