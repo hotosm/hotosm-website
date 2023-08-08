@@ -51,3 +51,9 @@ Añade además:
 > Para los procesos participantes del Curso-Taller, esta experiencia será fundamental, ya que permitirá complementar, consolidar y comunicar en entornos digitales iniciativas cartográficas que ya han estado adelantando las organizaciones en ámbitos reivindicativos como el derecho al territorio, la construcción de paz territorial, la gestión del riesgo en comunidad, las violencias basadas en género, las iniciativas de movilización social en defensa del territorio, el reconocimiento de procesos e iniciativas de niñas, niños, jóvenes, mujeres, diversidades sexuales, entre otros ámbitos que emergen del primer diagnóstico sobre necesidades de mapeo realizado en el encuentro de apertura.
 
 En las próximas sesiones del taller, con el apoyo de miembros de los Capítulos Youthmappers de las Universidades UDEA y UNAL, los participantes empezaran a conocer el mundo de la cartografía digital y a perfilar sus primeros proyectos de mapeo abierto.
+
+*Si quiere ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escriba un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
+
+*Si es parte de alguna organización que desea explorar cómo colaborar en un proyecto, escriba un correo a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Proyectos LAC**.*
+
+**Síganos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).**
