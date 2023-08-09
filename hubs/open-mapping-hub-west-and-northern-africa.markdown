@@ -60,4 +60,5 @@ This project was developed through a co-creation process with policymakers, emph
 * [Instagram](https://www.instagram.com/open.mapping.hubs/)
 
 ![WHALandingPage.jpeg](/uploads/WHALandingPage.jpeg)
+
 *Monrovia, Liberia. Photo by: Carter Draper*

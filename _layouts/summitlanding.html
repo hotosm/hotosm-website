@@ -40,11 +40,16 @@ layout: default
 /* Add styles for module images, captions, and details */
 
 /* Set a fixed width and height for module images */
-.module-image,
 .module-image-auto {
   width: 525px; /* Adjust the width as needed */
   height: 300px; /* Adjust the height as needed */
   object-fit: cover
+}
+
+.module-image {
+  width: 525px; /* Adjust the width as needed */
+  height: 300px; /* Adjust the height as needed */
+  object-fit: contain
 }
 
 .module-caption {
@@ -80,8 +85,8 @@ layout: default
 
  <div class="module-group top-image-auto">
   <a class="module link-through light no-link" href="{{ page.block-0.Link }}" id="about">
-    <div class="module-image-auto">
-    <img src="{{ page.block-0.Image }}" alt="{{ page.block-0.Title }}" class="module-image-auto">
+    <div class="module-image">
+    <img src="{{ page.block-0.Image }}" alt="{{ page.block-0.Title }}" class="module-image">
     <div class="module-caption">
       <figcaption>{{ page.block-0.Image-text | markdownify}}</figcaption>
     </div>
