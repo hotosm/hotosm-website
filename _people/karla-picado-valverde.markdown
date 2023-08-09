@@ -4,7 +4,7 @@ date: 2023-01-05 14:04:00 Z
 Photo: https://cdn.hotosm.org/website/280-0-2.jpeg
 Member Type:
   Is Staff: true
-Job Title: 'Project Manager- '
+Job Title: Project Manager - Latin America and Caribbean
 Team: Latin America and Caribbean Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Karla392

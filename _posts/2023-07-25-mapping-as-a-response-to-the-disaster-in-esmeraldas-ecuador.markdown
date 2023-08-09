@@ -8,7 +8,7 @@ tags:
 - open mapping
 Summary Text: The LAC Open Mapping Hub supported the response efforts to the disaster
   caused by the floods in Esmeraldas, Ecuador in coordination with the Ecuadorian
-  Risk Secretariat.
+  Risk Management Secretariat.
 Feature Image: "/uploads/inundacion%20esmeraldas.jpg"
 Person:
 - Juan Melo Luna
@@ -68,6 +68,8 @@ Being 45 days after the emergency mapping work began, these are the results in w
 ![stats esmeraldas.jpg](/uploads/stats%20esmeraldas.jpg)
 
 In summary, by mid-July, seven of the ten projects were already 100% complete for a total project progress of 92% (mapping and validation).Up to now, 498 kilometers of roads and 25,765 buildings have been mapped.
+
+The Risk Information Management Director of the [Ecuadorian Risk Management Secretariat](https://www.gestionderiesgos.gob.ec/), Eng. Oswaldo J. Cárdenas, told us that: "The data added to the map was very useful for our management, since we used the map of OpenStreetMap as the base map in all the geographic applications that we handle, speaking specifically of the Esmeraldas area, there is a [geographic viewer](https://srvportal.gestionderiesgos.gob.ec/portal/apps/webappviewer/index.html?id=b96bdefac2124ee4a0f9788a0e638b66) that is centered on the area that you surveyed. This viewer has been used for the management of Provincial and Cantonal EOCs (*Emergency Operations Committee*) and collection of information from EVIN (*Initial Assessment of Needs*)."
 
 It should be noted that although this methodology used information from the phenomenon presented in Esmeraldas - Ecuador, it can give ideas about how to effectively select the work areas for projects related to emergency response that occur in other regions of the world.
 

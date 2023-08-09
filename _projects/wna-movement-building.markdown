@@ -1,7 +1,6 @@
 ---
 title: Open Mapping Hub - WNAH Movement Building
 date: 2023-08-02 14:16:00 Z
-published: false
 categories:
 - WNA
 tags:
@@ -24,7 +23,7 @@ The objective of the Mwalai (Drive & Improve OSM Data program) grant program is 
 
 The Mwalai grant is $10,000 per country. As of today, $30,000 of grant funding has already been disbursed. These grants are intended to cover the costs of renting training and mapathon venues, internet access, food and refreshments for participants during various activities, as well as transportation and accommodation expenses for trainers during activities outside the capital cities.
 
-### WNAH - Open Mapping & Tech Days(OMTD)
+## WNAH - Open Mapping & Tech Days(OMTD)
 
 * **Ivory Coast**
 
@@ -32,7 +31,7 @@ Training on the usage of tools and technologies for contributing to OSM and reus
 
 * **Niger**
 
-In Niamey, WNAH organized technical training sessions for 35 individuals, including students, experts, and professionals, on collaborative mapping tools. Upon completion of the training, attendees were awarded certificates to attest to their proficiency in the learned tools and technologies. WNAH has Strengthening the capabilities of the OSM Niger community, Requesting partnership with WNAH to receive support in integrating OSM into the curriculum of a mining university in Niamey,Exploring collaboration opportunities with drone pilot in Niger to upload humanitarian drone imagery to OpenAerialMap.The monitoring of the impact is still ongoing…
+In Niamey, WNAH organized technical training sessions for 35 individuals, including students, experts, and professionals, on collaborative mapping tools. Upon completion of the training, attendees were awarded certificates to attest to their proficiency in the learned tools and technologies. WNAH has Strengthening the capabilities of the OSM Niger community, Requesting partnership with WNAH to receive support in integrating OSM into the curriculum of a mining university in Niamey,Exploring collaboration opportunities with drone pilot in Niger to upload humanitarian drone imagery to OpenAerialMap. The monitoring of the impact is still ongoing.
 
 * **Senegal**
 
@@ -44,24 +43,24 @@ Our goal is to create a community of open data pros who will help identify data 
 
 So far, the hub has engaged with 19 members from different OSM communities, including Nigeria, Senegal, Ivory Coast, Togo, Ghana, Cameroon, Mali with the primary focus of identifying different data quality challenges. We are currently collaborating with the network members to formulate targeted sessions aimed at providing valuable support to overcome these issues.
 
-### Tech Help Desk
+## Tech Help Desk
 
 ![techhelpdesk.png](/uploads/techhelpdesk.png)
 
 The help desk provides technical support and assistance for organizations, institutions, governments, stakeholders and partners in general  using open source geospatial technologies, aiming to overcome barriers and promote their effective adoption for geomatics and digital mapping. It establishes a network of volunteer contributors forming a technical task force, offering support.
 
-### Strengthening Partnerships
+## Strengthening Partnerships
 
 Partners have been convinced on  use of OSM tools, during the partnership day events. Examples of how we support partners, and our current (July 2023) partner priorities are:
 
-* Winrock : on their wash project in other region of Niger, MOU signed,  training will be conducted to theirs stakeholders, and data upload in OSM.
+* **Winrock** : on their wash project in other region of Niger, MOU signed,  training will be conducted to theirs stakeholders, and data upload in OSM.
 
-* Water Aid : Ongoing discussion  on the concept note of Wash Project.
+* **Water Aid** : Ongoing discussion  on the concept note of Wash Project.
 
-* GSPDD: Successful trainings for 30 NIS Staff in Mali, Senegal Guinea for government statisticians.
+* **GSPDD**: Successful trainings for 30 NIS Staff in Mali, Senegal Guinea for government statisticians.
 
-* USAID: Discussion ongoing.
+* **USAID**: Discussion ongoing.
 
-* Marie Stopes Senegal: Successful partnership realized during public health project.
+* **Marie Stopes Senegal**: Successful partnership realized during public health project.
 
-* Local stakeholders : where the pilots projects were conducted (Liberia, Togo, Senegal and Niger).
+* **Local stakeholders** : where the pilots projects were conducted (Liberia, Togo, Senegal and Niger).

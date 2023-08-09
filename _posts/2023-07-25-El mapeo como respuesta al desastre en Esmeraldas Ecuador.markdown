@@ -8,7 +8,7 @@ tags:
 - mapeo abierto
 Summary Text: El Hub de Mapeo Abierto LAC apoyó en las labores de respuesta al desastre
   provocado por las inundaciones en Esmeraldas, Ecuador en coordinación con la Secretaria
-  de Riesgos de Ecuador.
+  de Gestión de Riesgos de Ecuador.
 Feature Image: "/uploads/inundacion%20esmeraldas.jpg"
 Person:
 - Juan Melo Luna
@@ -69,7 +69,9 @@ Estando a 45 días de iniciadas las labores de mapeo de emergencia estos son los
 
 En resumen, a mitad de julio, siete de los diez proyectos ya fueron completados al 100% para un avance total del proyecto del 92% (mapeo y validación). Habiéndose mapeado hasta el momento 498 kilómetros de carreteras y 25,765 construcciones.
 
-Cabe indicar que si bien esta metodología utilizó una información propia del fenómeno presentado en Esmeraldas - Ecuador, puede dar ideas acerca de cómo se puede seleccionar de manera efectiva las áreas de trabajo para los proyectos relacionados con la respuesta a emergencias que sucedan en otras regiones del mundo.
+El Director de gestión de la información de riesgos de la [Secretaría de Gestión de Riesgos de Ecuador](https://www.gestionderiesgos.gob.ec/), Ing. Oswaldo J. Cárdenas, nos manifestó que: "Los datos agregados al mapa fueron de gran utilidad para nuestra gestión, ya que usamos el mapa de OpenStreetMap como mapa base en todas las aplicaciones geográficas que manejamos, hablando específicamente del área de Esmeraldas existe un [visor geográfico](https://srvportal.gestionderiesgos.gob.ec/portal/apps/webappviewer/index.html?id=b96bdefac2124ee4a0f9788a0e638b66) que está centrado a la zona que ustedes levantaron. Este visor ha sido utilizado para la gestión de COE (*Comité de Operaciones de Emergencia*) Provinciales y Cantonales y levantamiento de información de EVIN (*Evaluación Inicial de Necesidades*)."
+
+Cabe indicar que si bien la metodología aplicada utilizó una información propia del fenómeno presentado en Esmeraldas - Ecuador, puede dar ideas acerca de cómo se puede seleccionar de manera efectiva las áreas de trabajo para los proyectos relacionados con la respuesta a emergencias que sucedan en otras regiones del mundo.
 
 De hecho, en un contexto de cambio climático global y con un [fenómeno del Niño](https://es.wikipedia.org/wiki/El_Ni%C3%B1o_(fen%C3%B3meno)) presente, el mapeo como herramienta en la gestión de riesgos y en la atención de desastres se vuelve totalmente necesario e imprescindible en las estrategias a implementar por los gobiernos locales y nacionales.
 
@@ -77,8 +79,10 @@ Luego de esta colaboración, la Secretaría de Riesgos de Ecuador y el Hub de Ma
 
 En tal sentido el Hub de mapeo abierto está abierto y dispuesto a colaborar con otras oficinas de gestión de riesgo en la respuesta a emergencias, la preparación, la capacitación y el establecimiento de una red de apoyo geoespacial en la región de América Latina y el Caribe.
 
-*Si quiere ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escriba un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**. Si es parte de alguna organización que desea explorar cómo colaborar en un proyecto, escriba un correo con **Asunto: Proyectos LAC**.*
+*Si quieres ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**. *
 
-**Síganos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).**
+*Si eres parte de alguna organización que desea explorar cómo colaborar en un proyecto, escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Proyectos LAC**.*
+
+**Síguenos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).**
 
 La [imagen destacada](https://www.facebook.com/photo.php?fbid=626532399522037&set=pb.100064958461371.-2207520000.&type=3) de este post fue tomada de la cuenta de Facebook de [Armada del Ecuador](https://www.facebook.com/armadaecuatoriana).

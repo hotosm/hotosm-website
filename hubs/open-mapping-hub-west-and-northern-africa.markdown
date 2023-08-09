@@ -2,27 +2,22 @@
 title: Open Mapping Hub - West and Northern Africa
 date: 2023-06-30 02:23:00 Z
 Page Link:
-  Label: About Us
-  Link: 'hotosm-website.siteleaf.net/hubs/open-mapping-hub-west-and-northern-africahub/about-us.html '
+  Label: Support and Donate
+  Link: https://www.hotosm.org/donate/
 Page Contact:
   Label: Contact Us
   Contact Email: wnahub@hotosm.org
-Page Projects:
-  Label: Projects
-  Link: 'hotosm-website.siteleaf.net/projects/wna-projects/ '
-Page Movement Building:
-  Label: Movement Building
-  Link: hotosm-website.siteleaf.net/projects/wna-movement-building/ edit
-Page Donate:
-  Label: Support and Donate
-  Link: https://www.hotosm.org/donate/
 ---
 
 ![hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png](/uploads/hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png)
 
 The Open Mapping Hub - West and Northern Africa (WNA Hub) engages open mapping organizations and communities in the region to facilitate the exchange of ideas and expertise across the region, and provide financial and technical support to massively scale local edits on OpenStreetMap. We stimulate and strengthen the leadership of communities to protect their livelihoods, improve their resilience, and preserve their way of life by promoting social justice in accessing open data and free software for their own purposes.
 
-# West and Northern Africa Projects
+* ## [Check out all WNAH Projects here](https://www.hotosm.org/projects/wna-projects/)
+
+* ## [Check out all WNAH Movement Building Initiatives here](https://www.hotosm.org/projects/wna-movement-building/)
+
+# West and Northern Africa Hub Projects Highlights
 
 ### RUWA - Rural Water Access
 
@@ -30,7 +25,7 @@ The Open Mapping Hub - West and Northern Africa (WNA Hub) engages open mapping o
 
 ![WNA-Ruwa.jpg](/uploads/WNA-Ruwa.jpg)
 
-Projects targeting areas of impact identified by HOT were carried out in Niger to improve access to water in the Sahel region, The RUWA Niger project worked closely with the WASH Consortium, the Ministry of hydraulic, and the local authorities in the Dosso Region. Implemented by OSM Niger, local youth were recruited and trained the conduct Remote Mapping and ground-truthing activities. This project has contributed to add 22,086 buildings,  2210 amenities,  and trained 334, and 12 thematic maps have been produced and recommendations have been given for solutions to improve water access in the target region.
+Projects targeting areas of impact identified by HOT were carried out in Niger to improve access to water in the Sahel region, The RUWA Niger project worked closely with the WASH Consortium, the Ministry of hydraulic, and the local authorities in the Dosso Region. Implemented by OSM Niger, local youth were recruited and trained the conduct Remote Mapping and ground-truthing activities. This project has contributed to add 22,086 buildings,  2210 amenities, and trained 334, and 12 thematic maps have been produced and recommendations have been given for solutions to improve water access in the target region.
 
 ### Public Health
 
@@ -64,6 +59,5 @@ This project was developed through a co-creation process with policymakers, emph
 
 * [Instagram](https://www.instagram.com/open.mapping.hubs/)
 
-
 ![WHALandingPage.jpeg](/uploads/WHALandingPage.jpeg)
-  *Monrovia, Liberia. Photo by: Carter Draper*
+*Monrovia, Liberia. Photo by: Carter Draper*

@@ -4,7 +4,8 @@ date: 2023-07-24 05:27:00 Z
 Photo: "/uploads/ARNELLE.jpg"
 Member Type:
   Is Staff: true
-Job Title: Disaster Services and Climate Resilience Specialist
+Job Title: Disaster Services and Climate Resilience Specialist- Latin America and
+  Caribbean
 Team: Latin America and Caribbean Hub
 Social Media (Full URL):
   OSM: " https://www.openstreetmap.org/user/Arnelle%20Isaac"

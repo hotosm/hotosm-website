@@ -4,7 +4,7 @@ date: 2023-01-05 06:00:00 Z
 Photo: https://cdn.hotosm.org/website/tempImageCbBgwx.jpg
 Member Type:
   Is Staff: true
-Job Title: People Operations Associate
+Job Title: People Operations Associate- Latin America and Caribbean
 Team: Latin America and Caribbean Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/lacerdagg

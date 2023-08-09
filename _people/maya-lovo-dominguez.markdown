@@ -3,7 +3,7 @@ title: Maya Lovo Dominguez
 date: 2022-09-02 11:03:00 Z
 Photo: https://cdn.hotosm.org/website/Screenshot+2023-05-03+10.55.04+AM.png
 Member Type:
-  Is Staff: true
+  Is Staff: false
   Is Voting Member: true
 Job Title: Sub-regional Project Coordinator for Central America
 Country: Mexico
