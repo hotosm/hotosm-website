@@ -24,7 +24,7 @@ We welcome mappers from across the region and globe to participate in this campa
 
 * ***Step 1:*** Register using [this form](https://forms.gle/4Vn5teNCy59ZZzj67). Registering helps us to easily stay in touch with everyone contributing to campaign.
 * ***Step 2:*** Go to the Tasking Manager [here](https://tasks.hotosm.org/).
-* ***Step 3:*** Select a task from this (list)[https://tasks.hotosm.org/manage/projects/?status=DRAFT&managedByMe=1&action=any&campaign=2023+EliNino+Mapping].
+* ***Step 3:*** Select a task from this [list](https://tasks.hotosm.org/manage/projects/?status=DRAFT&managedByMe=1&action=any&campaign=2023+EliNino+Mapping).
 * ***Step 4:*** Start mapping!
 
 If you’re new to mapping and want to learn, or want to advance your mapping skills, we are hosting weekly virtual Mapathons - sign up **here**.
