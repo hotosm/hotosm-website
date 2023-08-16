@@ -1,12 +1,11 @@
 ---
 title: Russell Deffner
 date: 2013-12-01 16:40:00 Z
-published: false
 Photo: https://cdn.hotosm.org/website/russell.jpg
 Member Type:
   Is Staff: false
   Is Voting Member: true
-Job Title: Response Coordinator
+Job Title: Voting Member
 Working Group:
 - Activation
 - Governance
@@ -36,7 +35,6 @@ Project:
 - HOT COVID-19 RESPONSE
 - 'HOT and Facebook: Collaboration for open maps and free technology'
 Country: Philippines
-Team: Global
 Social Media (Full URL):
   OSM: https://openstreetmap.org/user/russdeffner
   Twitter: https://twitter.com/RussellDeffner
