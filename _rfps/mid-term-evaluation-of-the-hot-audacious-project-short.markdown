@@ -92,6 +92,6 @@ Please submit proposals to the Monitoring, Evaluation, Research, and Learning te
 <td style="border-left: 1px solid black">29 February, 2024</td>
 </tr>
 </table>
-</br>
+<br>
 
 For more details about this call, and further understanding of the assignment, please refer to the [Terms of Reference here](https://www.hotosm.org/rfps/mid-term-evaluation-of-the-hot-audacious-project/). Questions about this call for proposals should be sent to [merlteam@hotosm.org](merlteam@hotosm.org)
