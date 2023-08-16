@@ -7,7 +7,7 @@ Page Contact:
   Label: Submissions and questions
 Page Link:
   Link: https://www.hotosm.org/rfps/mid-term-evaluation-of-the-hot-audacious-project/
-  Text: More details
+  Label: More details
 ---
 
 ## Terms of Reference
@@ -61,7 +61,7 @@ The proposal must include the following information:
 
 We seek to engage with consultancy firms or individuals who can provide expert advice within the areas in scope for an initial 4-6 months. We would especially like to receive submissions from organizations based in or involving your talent from [HOT's priority regions](https://www.hotosm.org/updates/four-regions-five-years-94-countries-one-billion-people/).
 
-Please submit proposals to the Monitoring, Evaluation, Research, and Learning team at [merlteam@hotosm.org](merlteam@hotosm.org) by the deadline below. 
+Please submit proposals to the Monitoring, Evaluation, Research, and Learning team at [merlteam@hotosm.org](merlteam@hotosm.org) by the deadline below. Questions about this call for proposals should also be sent to this email. 
 
 ## Timeline
 
@@ -92,5 +92,6 @@ Please submit proposals to the Monitoring, Evaluation, Research, and Learning te
 <td style="border-left: 1px solid black">29 February, 2024</td>
 </tr>
 </table>
+</br>
 
-For more details about this call, and further understanding of the assignment, please refer to the [Terms of Reference here](https://www.hotosm.org/rfps/mid-term-evaluation-of-the-hot-audacious-project/).
+For more details about this call, and further understanding of the assignment, please refer to the [Terms of Reference here](https://www.hotosm.org/rfps/mid-term-evaluation-of-the-hot-audacious-project/). Questions about this call for proposals should be sent to [merlteam@hotosm.org](merlteam@hotosm.org)
