@@ -148,10 +148,9 @@ We are seeking to engage with consultancy firms; or individuals who can provide 
 
 Please submit proposals to the Monitoring, Evaluation, Research, and Learning team at [merlteam@hotosm.org](merlteam@hotosm.org) by the deadline listed below. 
 
-
 ## Timeline
 
-<table style="border-bottom: none">
+<table style= "border-bottom: none">
 <tr>
 <th style="border-bottom-width: 2px"><span style="font-weight: bold">Activity</span></th>
 <th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Date</span></th>
@@ -162,19 +161,19 @@ Please submit proposals to the Monitoring, Evaluation, Research, and Learning te
 </tr>
 <tr>
 <td style="font-weight: bold"><i>Deadline for submission of written proposal</i></td>
-<td style="border-left: 1px solid black"><b>1st September, 2023 (23:59:59 EST)</b></td>
+<td style="border-left: 1px solid black"><b>01 September, 2023 </b></td>
 </tr>
 
 <tr>
 <td>Selection process completed</td>
-<td style="border-left: 1px solid black">11 September, 2023</td>
+<td style="border-left: 1px solid black">15 September, 2023</td>
 </tr>
 <tr>
 <td>Begin collaboration</td>
-<td style="border-left: 1px solid black">25 September, 2023</td>
+<td style="border-left: 1px solid black">18 October, 2023</td>
 </tr>
 <tr>
 <td>Complete collaboration</td>
-<td style="border-left: 1px solid black">22 February, 2024</td>
+<td style="border-left: 1px solid black">29 February, 2024</td>
 </tr>
 </table>
