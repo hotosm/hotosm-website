@@ -16,7 +16,7 @@ Page Contact:
 </tr>
 <tr>
 <td>Application close date:</td>
-<td style="border-left: 1px solid black">August 14, 2023</td>
+<td style="border-left: 1px solid black">September 1st, 2023</td>
 </tr>
 <tr>
 <td>Duration of assignment:</td>
@@ -162,7 +162,7 @@ Please submit proposals to the Monitoring, Evaluation, Research, and Learning te
 </tr>
 <tr>
 <td style="font-weight: bold"><i>Deadline for submission of written proposal</i></td>
-<td style="border-left: 1px solid black"><b>14 August, 2023 (23:59:59 EST)</b></td>
+<td style="border-left: 1px solid black"><b>1st September, 2023 (23:59:59 EST)</b></td>
 </tr>
 
 <tr>
