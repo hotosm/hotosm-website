@@ -46,7 +46,7 @@ The Humanitarian OpenStreetMap Team (HOT) is **requesting proposals from qualifi
 
 We have undertaken a significant number of projects and programs with local communities, volunteers, and partners around the world. We now want to assess the Audacious project impact in terms of its effectiveness, relevance, and value in achieving results. The outcomes of the mid-term evaluation will guide the final three years of project implementation and beyond.
 
-**Purpose of the evaluation:** This mid-term evaluation aims to help us assess, document, and understand the intended and unintended outcomes and impact we have contributed to through our work.
+**Purpose of the evaluation:** This mid-term evaluation aims to help us assess, document, and understand the intended and unintended outcomes and impact we have contributed to through our work. Please refer to the [Terms of Reference here](https://www.hotosm.org/rfps/mid-term-evaluation-of-the-hot-audacious-project/) for more information and details on the evaluation. Questions or clarifications for this call for Proposals should be sent to [merlteam@hotosm.org](merlteam@hotosm.org).
 
 ## Proposal Requirements
 
