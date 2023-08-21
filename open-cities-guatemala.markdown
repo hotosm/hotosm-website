@@ -1,6 +1,7 @@
 ---
 title: 'Open Cities: Guatemala'
 date: 2022-08-02 10:02:00 Z
+published: false
 Projects: 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin
   America and Caribbean'
 layout: page
