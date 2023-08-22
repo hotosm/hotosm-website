@@ -45,14 +45,16 @@ layout: default
 
 /* Set a fixed width and height for module images */
 .module-image-auto {
-  width: 525px; /* Adjust the width as needed */
+  max-width: 525px; /* Adjust the width as needed */
   height: 300px; /* Adjust the height as needed */
+  width: 100%;
   object-fit: cover
 }
 
 .module-image {
-  width: 525px; /* Adjust the width as needed */
+  max-width: 525px; /* Adjust the width as needed */
   height: 300px; /* Adjust the height as needed */
+  width: 100%;
   object-fit: contain
 }
 
@@ -61,10 +63,12 @@ layout: default
 }
 .module-text {
   white-space: pre-line; /* Preserve line breaks in the text */
+  width: 100%;
 }
 .module-cta {
   display: table-cell;
   vertical-align: bottom;
+  width: 100%;
 }
 /* Remove link styles for the first module */
 .no-link {
