@@ -42,6 +42,8 @@ This accompaniment cycle culminated on August 8, 2023 with the final presentatio
 
 Now we will continue exploring with SEDATU and other actors, the ways to keep on supporting municipalities, in Mexico and in the region, to share experiences and knowledge about the benefit of open and collaborative geographic data, and that way contribute to a finer and more equitable local planning.
 
+.
+
 *Also find out [how we collaborate](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) in a similar way with National Institutes of Geography.*
 
 *If you want to be part of the community of volunteer mappers of the LAC Open Mapping Hub, write an email to [hublatam@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: Volunteer mapper**.*
