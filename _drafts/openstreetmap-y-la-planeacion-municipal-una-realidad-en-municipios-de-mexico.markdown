@@ -21,6 +21,8 @@ Este ciclo de acompañamiento culminó el 8 de agosto de 2023 con la presentaci�
 
 Ahora seguiremos explorando con la SEDATU y más actores, las formas de seguir apoyando a municipios, en México y en la región, para compartir experiencias y conocimiento sobre el beneficio de datos geográficos abiertos y colaborativos, y así aportar a una planeación local más fina y más equitativa.
 
+*Conoce también [cómo colaboramos](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) de una forma similar con Institutos Nacionales de Geografía.*
+
 *Si quieres ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
 
 *Si eres parte de alguna organización que desea explorar cómo colaborar en un proyecto, escribe un correo a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Proyectos LAC**.*
