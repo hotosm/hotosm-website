@@ -5,6 +5,9 @@ Summary Text: Les contamos como el Hub, aliado con la Secretaría de Desarrollo 
   Territorial y Urbano de México acompañó a 15 municipios para crear datos abiertos
   geoespaciales bajo OpenStreetMap y así poder construir cartografías temáticas.
 Feature Image: "/uploads/sedatu1.png"
+Person: Celine Jacquin
+Country:
+- Mexico
 ---
 
 Un mapa lleva a otro mapa, un proyecto a otro. A principios del 2022 invitamos a la Secretaría de Desarrollo Agrario, Territorial y Urbano de México ([SEDATU](https://www.gob.mx/sedatu)) a enterarse y observar el progreso de nuestro proyecto de [Open Cities Mexico](https://www.hotosm.org/projects/open-cities-mexico/) en Tulum, pues podría interesarles el proceso de utilización de datos ciudadanos para la planeación municipal, un área donde hay una particular falta de datos espaciales.
@@ -20,6 +23,10 @@ El Hub contribuyó a dicho curso con tres sesiones sobre tecnología y herramien
 Pero el éxito de la integración de los datos colaborativos en los gobiernos locales depende del acompañamiento y la práctica, por lo que propusimos desarrollar un ciclo de 4 meses de acompañamiento personalizado a un grupo de municipalidades más interesadas en el tema, y que estuvieran en el justo momento de preparación de sus planes locales, para que hubiera una aplicación concreta e inmediata.
 
 Se formó entonces un grupo de 15 municipios a quienes se reforzó la capacitación previa, se les llevó a generar datos tanto de forma remota como en sitio sobre su territorio y finalmente se les enseñó la extracción y uso de esa información, además de la construcción de cartografías temáticas.
+
+![sedatu2.png](/uploads/sedatu2.png)
+
+*Mapa de calor de la zona de mapeo. Fuente: Where did you contribute to OSM? Web*
 
 Este ciclo de acompañamiento culminó el 8 de agosto de 2023 con la presentación final en una conferencia abierta de la SEDATU con 35 participantes de los 15 municipios y otros municipios interesados, mostrándose resultados y compartiendo impresiones y reflexiones.
 
