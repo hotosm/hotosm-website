@@ -19,7 +19,7 @@ Country:
 - Mexico
 ---
 
-Un mapa lleva a otro mapa, un proyecto a otro. A principios del 2022 invitamos a la Secretaría de Desarrollo Agrario, Territorial y Urbano de México ([SEDATU](https://www.gob.mx/sedatu)) a enterarse y observar el progreso de nuestro proyecto de [Open Cities Mexico](https://www.hotosm.org/projects/open-cities-mexico/) en Tulum, pues podría interesarles el proceso de utilización de datos ciudadanos para la planeación municipal, un área donde hay una particular falta de datos espaciales.
+Un mapa lleva a otro mapa, un proyecto a otro. A principios del 2022 invitamos a la Secretaría de Desarrollo Agrario, Territorial y Urbano de México ([SEDATU](https://www.gob.mx/sedatu)) a enterarse y observar el progreso de nuestro proyecto de [Open Cities Mexico](https://www.hotosm.org/projects/open-cities-mexico-dc7e44/) en Tulum, pues podría interesarles el proceso de utilización de datos ciudadanos para la planeación municipal, un área donde hay una particular falta de datos espaciales.
 
 En octubre del 2022 SEDATU [lanzó el curso](https://www.gob.mx/sedatu/prensa/lanza-sedatu-curso-de-planeacion-territorial-para-gobiernos-municipales) llamado “Planeación territorial: rumbo a la gestión ordenada de los municipios” con el objetivo de brindar herramientas, orientación y competencias técnicas a todos los municipios del país para una construcción adecuada de sus planes locales de desarrollo.
 
