@@ -1,6 +1,6 @@
 ---
-title: 'OpenStreetMap y la planeacion municipal: una realidad en municipios de México'
-date: 2023-08-24 00:00:00 Z
+title: 'OpenStreetMap y la planeación municipal: una realidad en México'
+date: 2023-08-24 01:02:00 Z
 categories:
 - news
 - data
