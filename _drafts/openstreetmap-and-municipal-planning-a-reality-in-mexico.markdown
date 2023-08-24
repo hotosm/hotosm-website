@@ -38,11 +38,11 @@ A group of 15 municipalities was then formed, their previous training was reinfo
 
 *Heat map of the mapping area. Source: Where did you contribute to OSM? Web*
 
-Este ciclo de acompañamiento culminó el 8 de agosto de 2023 con la presentación final en una conferencia abierta de la SEDATU con 35 participantes de los 15 municipios y otros municipios interesados, mostrándose resultados y compartiendo impresiones y reflexiones.
+This accompaniment cycle culminated on August 8, 2023 with the final presentation in an open Sedatu conference with 35 participants from the 15 municipalities and other interested municipalities, showing results and sharing impressions and reflections.
 
-Ahora seguiremos explorando con la SEDATU y más actores, las formas de seguir apoyando a municipios, en México y en la región, para compartir experiencias y conocimiento sobre el beneficio de datos geográficos abiertos y colaborativos, y así aportar a una planeación local más fina y más equitativa.
+Now we will continue exploring with SEDATU and other actors, the ways to keep on supporting municipalities, in Mexico and in the region, to share experiences and knowledge about the benefit of open and collaborative geographic data, and that way contribute to a finer and more equitable local planning.
 
-*Conoce también [cómo colaboramos](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) de una forma similar con Institutos Nacionales de Geografía.*
+*Also find out [how we collaborate](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) in a similar way with National Institutes of Geography.*
 
 *Si quieres ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
 
