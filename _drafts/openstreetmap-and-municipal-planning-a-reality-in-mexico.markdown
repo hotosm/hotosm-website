@@ -23,13 +23,13 @@ One map leads to another map, one project to another. At the beginning of 2022 w
 
 In October 2022 SEDATU [launched the course](https://www.gob.mx/sedatu/prensa/lanza-sedatu-curso-de-planeacion-territorial-para-gobiernos-municipales) called "Territorial Planning: towards the orderly management of municipalities" with the aim of providing tools, guidance and technical skills to all municipalities in the country for an adequate construction of their local development plans.
 
-El Hub contribuyó a dicho curso con tres sesiones sobre tecnología y herramientas basadas en OpenStreetMap, que fueron seguidos por más de 300 equipos municipales. Este material educativo es un recurso permanente del MOOC de la SEDATU y también es accesible en nuestros canales:
+The Hub contributed to this course with three sessions on technology and tools based on OpenStreetMap, which were followed by more than 300 municipal teams. This educational material it's a permanent feature of SEDATU's MOOC and is also accessible on our channels (in Spanish):
 
 [Introducción a OpenStreetMap](https://www.youtube.com/playlist?list=PLyiu4yvtc5HnoQ4KMvdnM1oZ_rF8THDjr)
 [Taller OpenDataKit ODK](https://www.youtube.com/playlist?list=PLyiu4yvtc5Hl2MYq4LnuBlQ8U5BHoxTI2)
 [Análisis de accesibilidad Open Route Service QGIS](https://www.youtube.com/playlist?list=PLyiu4yvtc5HlAn8-16KqPGsBSCJps2ULP)
 
-Pero el éxito de la integración de los datos colaborativos en los gobiernos locales depende del acompañamiento y la práctica, por lo que propusimos desarrollar un ciclo de 4 meses de acompañamiento personalizado a un grupo de municipalidades más interesadas en el tema, y que estuvieran en el justo momento de preparación de sus planes locales, para que hubiera una aplicación concreta e inmediata.
+But the success of the integration of collaborative data in local governments depends on follow-up and practice, which is why we proposed developing a 4-month cycle of personalized support for a group of municipalities more interested in the topic, and that they were at the right time of their local plans preparation, so that there would be a concrete and immediate application.
 
 Se formó entonces un grupo de 15 municipios a quienes se reforzó la capacitación previa, se les llevó a generar datos tanto de forma remota como en sitio sobre su territorio y finalmente se les enseñó la extracción y uso de esa información, además de la construcción de cartografías temáticas.
 
