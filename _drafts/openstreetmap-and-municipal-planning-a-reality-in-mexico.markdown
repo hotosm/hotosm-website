@@ -1,6 +1,13 @@
 ---
 title: 'OpenStreetMap and municipal planning: a reality in Mexico'
 date: 2023-08-24 04:23:00 Z
+Summary Text: We tell you how the LAC Hub, in alliance with the Secretariat of Agrarian,
+  Territorial and Urban Development of Mexico, accompanied 15 municipalities to create
+  geospatial open data under OpenStreetMap and thus be able to build thematic cartographies.
+Feature Image: "/uploads/sedatu1.png"
+Person: Celine Jacquin
+Country:
+- Mexico
 ---
 
 Un mapa lleva a otro mapa, un proyecto a otro. A principios del 2022 invitamos a la Secretaría de Desarrollo Agrario, Territorial y Urbano de México ([SEDATU](https://www.gob.mx/sedatu)) a enterarse y observar el progreso de nuestro proyecto de [Open Cities Mexico](https://www.hotosm.org/projects/open-cities-mexico/) en Tulum, pues podría interesarles el proceso de utilización de datos ciudadanos para la planeación municipal, un área donde hay una particular falta de datos espaciales.
