@@ -1,6 +1,9 @@
 ---
 title: 'OpenStreetMap y la planeacion municipal: una realidad en municipios de México'
 date: 2023-08-24 00:58:00 Z
+Summary Text: Les contamos como el Hub, aliado con la Secretaría de Desarrollo Agrario,
+  Territorial y Urbano de México acompañó a 15 municipios para crear datos abiertos
+  geoespaciales bajo OpenStreetMap y así poder construir cartografías temáticas.
 Feature Image: "/uploads/sedatu1.png"
 ---
 
