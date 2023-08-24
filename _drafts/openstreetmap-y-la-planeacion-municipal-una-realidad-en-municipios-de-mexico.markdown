@@ -10,9 +10,9 @@ tags:
 - Mexico
 - planeacion
 - Datos Abiertos
-Summary Text: Les contamos como el Hub, aliado con la Secretaría de Desarrollo Agrario,
-  Territorial y Urbano de México acompañó a 15 municipios para crear datos abiertos
-  geoespaciales bajo OpenStreetMap y así poder construir cartografías temáticas.
+Summary Text: Les contamos como el Hub LAC, aliado con la Secretaría de Desarrollo
+  Agrario, Territorial y Urbano de México acompañó a 15 municipios para crear datos
+  abiertos geoespaciales bajo OpenStreetMap y así poder construir cartografías temáticas.
 Feature Image: "/uploads/sedatu1.png"
 Person: Celine Jacquin
 Country:
@@ -23,7 +23,7 @@ Un mapa lleva a otro mapa, un proyecto a otro. A principios del 2022 invitamos a
 
 En octubre del 2022 SEDATU [lanzó el curso](https://www.gob.mx/sedatu/prensa/lanza-sedatu-curso-de-planeacion-territorial-para-gobiernos-municipales) llamado “Planeación territorial: rumbo a la gestión ordenada de los municipios” con el objetivo de brindar herramientas, orientación y competencias técnicas a todos los municipios del país para una construcción adecuada de sus planes locales de desarrollo.
 
-El Hub contribuyó a dicho curso con tres sesiones sobre tecnología y herramientas basadas en OpenStreetMap, que fueron seguidos por más de 300 equipos municipales. Este material educativo es un recurso permanente del MOOC de la SEDATU y también es accesible en nuestros canales:
+El Hub de América Latina y el Caribe contribuyó a dicho curso con tres sesiones sobre tecnología y herramientas basadas en OpenStreetMap, que fueron seguidos por más de 300 equipos municipales. Este material educativo es un recurso permanente del MOOC de la SEDATU y también es accesible en nuestros canales:
 
 [Introducción a OpenStreetMap](https://www.youtube.com/playlist?list=PLyiu4yvtc5HnoQ4KMvdnM1oZ_rF8THDjr)
 [Taller OpenDataKit ODK](https://www.youtube.com/playlist?list=PLyiu4yvtc5Hl2MYq4LnuBlQ8U5BHoxTI2)
