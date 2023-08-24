@@ -11,8 +11,9 @@ tags:
 - planning
 - open data
 Summary Text: We tell you how the LAC Hub, in alliance with the Secretariat of Agrarian,
-  Territorial and Urban Development of Mexico, accompanied 15 municipalities to create
-  geospatial open data under OpenStreetMap and thus be able to build thematic cartographies.
+  Territorial and Urban Development of Mexico, accompanied a group of municipalities
+  to create geospatial open data under OpenStreetMap and thus be able to build thematic
+  cartographies.
 Feature Image: "/uploads/sedatu1.png"
 Person: Celine Jacquin
 Country:
@@ -31,11 +32,11 @@ The Hub contributed to this course with three sessions on technology and tools b
 
 But the success of the integration of collaborative data in local governments depends on follow-up and practice, which is why we proposed developing a 4-month cycle of personalized support for a group of municipalities more interested in the topic, and that they were at the right time of their local plans preparation, so that there would be a concrete and immediate application.
 
-Se formó entonces un grupo de 15 municipios a quienes se reforzó la capacitación previa, se les llevó a generar datos tanto de forma remota como en sitio sobre su territorio y finalmente se les enseñó la extracción y uso de esa información, además de la construcción de cartografías temáticas.
+A group of 15 municipalities was then formed, their previous training was reinforced, and were led to generate data both remotely and in place about their territory and finally they were taught the extraction and use of that information, in addition to the construction of thematic cartographies.
 
 ![sedatu2.png](/uploads/sedatu2.png)
 
-*Mapa de calor de la zona de mapeo. Fuente: Where did you contribute to OSM? Web*
+*Heat map of the mapping area. Source: Where did you contribute to OSM? Web*
 
 Este ciclo de acompañamiento culminó el 8 de agosto de 2023 con la presentación final en una conferencia abierta de la SEDATU con 35 participantes de los 15 municipios y otros municipios interesados, mostrándose resultados y compartiendo impresiones y reflexiones.
 
