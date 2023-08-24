@@ -13,10 +13,16 @@ El Hub contribuyó a dicho curso con tres sesiones sobre tecnología y herramien
 [Taller OpenDataKit ODK](https://www.youtube.com/playlist?list=PLyiu4yvtc5Hl2MYq4LnuBlQ8U5BHoxTI2)
 [Análisis de accesibilidad Open Route Service QGIS](https://www.youtube.com/playlist?list=PLyiu4yvtc5HlAn8-16KqPGsBSCJps2ULP)
 
-Pero el éxito de la integración de los datos colaborativos en los gobiernos locales depende del acompañamiento y la práctica, por lo que propusimos desarrollar un ciclo de 4 meses de acompañamiento personalizado a un grupo de municipalidades más interesadas en el tema, y que estuvieran en el justo momento de preparación de sus planes locales, para que hubiera una aplicación concreta e inmediata. 
+Pero el éxito de la integración de los datos colaborativos en los gobiernos locales depende del acompañamiento y la práctica, por lo que propusimos desarrollar un ciclo de 4 meses de acompañamiento personalizado a un grupo de municipalidades más interesadas en el tema, y que estuvieran en el justo momento de preparación de sus planes locales, para que hubiera una aplicación concreta e inmediata.
 
 Se formó entonces un grupo de 15 municipios a quienes se reforzó la capacitación previa, se les llevó a generar datos tanto de forma remota como en sitio sobre su territorio y finalmente se les enseñó la extracción y uso de esa información, además de la construcción de cartografías temáticas.
 
-Este ciclo de acompañamiento culminó el 8 de agosto de 2023 con la presentación final en una conferencia abierta de la SEDATU con 35 participantes de los 15 municipios y otros municipios interesados, mostrándose resultados y compartiendo impresiones y reflexiones. 
+Este ciclo de acompañamiento culminó el 8 de agosto de 2023 con la presentación final en una conferencia abierta de la SEDATU con 35 participantes de los 15 municipios y otros municipios interesados, mostrándose resultados y compartiendo impresiones y reflexiones.
 
 Ahora seguiremos explorando con la SEDATU y más actores, las formas de seguir apoyando a municipios, en México y en la región, para compartir experiencias y conocimiento sobre el beneficio de datos geográficos abiertos y colaborativos, y así aportar a una planeación local más fina y más equitativa.
+
+*Si quieres ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
+
+*Si eres parte de alguna organización que desea explorar cómo colaborar en un proyecto, escribe un correo a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Proyectos LAC**.*
+
+**Síguenos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).**
