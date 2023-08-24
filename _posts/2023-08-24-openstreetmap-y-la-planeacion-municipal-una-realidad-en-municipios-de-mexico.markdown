@@ -11,8 +11,9 @@ tags:
 - planeacion
 - Datos Abiertos
 Summary Text: Les contamos como el Hub LAC, aliado con la Secretaría de Desarrollo
-  Agrario, Territorial y Urbano de México acompañó a 15 municipios para crear datos
-  abiertos geoespaciales bajo OpenStreetMap y así poder construir cartografías temáticas.
+  Agrario, Territorial y Urbano de México acompañó a un grupo de municipios para crear
+  datos abiertos geoespaciales bajo OpenStreetMap y así poder construir cartografías
+  temáticas.
 Feature Image: "/uploads/sedatu1.png"
 Person: Celine Jacquin
 Country:
@@ -40,6 +41,8 @@ Se formó entonces un grupo de 15 municipios a quienes se reforzó la capacitaci
 Este ciclo de acompañamiento culminó el 8 de agosto de 2023 con la presentación final en una conferencia abierta de la SEDATU con 35 participantes de los 15 municipios y otros municipios interesados, mostrándose resultados y compartiendo impresiones y reflexiones.
 
 Ahora seguiremos explorando con la SEDATU y más actores, las formas de seguir apoyando a municipios, en México y en la región, para compartir experiencias y conocimiento sobre el beneficio de datos geográficos abiertos y colaborativos, y así aportar a una planeación local más fina y más equitativa.
+
+.
 
 *Conoce también [cómo colaboramos](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) de una forma similar con Institutos Nacionales de Geografía.*
 
