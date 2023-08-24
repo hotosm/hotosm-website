@@ -21,7 +21,7 @@ Country:
 
 One map leads to another map, one project to another. At the beginning of 2022 we (LAC Hub) invited the Secretariat of Agrarian, Territorial and Urban Development of Mexico ([SEDATU](https://www.gob.mx/sedatu)) to check and monitor the progress of our [Open Cities Mexico](https://www.hotosm.org/projects/open-cities-mexico/) project in Tulum, since they might be interested in the process of using citizen data for municipal planning, an area where there is a particular lack of spatial data.
 
-En octubre del 2022 SEDATU [lanzó el curso](https://www.gob.mx/sedatu/prensa/lanza-sedatu-curso-de-planeacion-territorial-para-gobiernos-municipales) llamado “Planeación territorial: rumbo a la gestión ordenada de los municipios” con el objetivo de brindar herramientas, orientación y competencias técnicas a todos los municipios del país para una construcción adecuada de sus planes locales de desarrollo.
+In October 2022 SEDATU [launched the course](https://www.gob.mx/sedatu/prensa/lanza-sedatu-curso-de-planeacion-territorial-para-gobiernos-municipales) called "Territorial Planning: towards the orderly management of municipalities" with the aim of providing tools, guidance and technical skills to all municipalities in the country for an adequate construction of their local development plans.
 
 El Hub contribuyó a dicho curso con tres sesiones sobre tecnología y herramientas basadas en OpenStreetMap, que fueron seguidos por más de 300 equipos municipales. Este material educativo es un recurso permanente del MOOC de la SEDATU y también es accesible en nuestros canales:
 
