@@ -1,6 +1,15 @@
 ---
 title: 'OpenStreetMap and municipal planning: a reality in Mexico'
 date: 2023-08-24 04:23:00 Z
+categories:
+- news
+- data
+tags:
+- openstreetmap
+- latam
+- mexico
+- planning
+- open data
 Summary Text: We tell you how the LAC Hub, in alliance with the Secretariat of Agrarian,
   Territorial and Urban Development of Mexico, accompanied 15 municipalities to create
   geospatial open data under OpenStreetMap and thus be able to build thematic cartographies.
