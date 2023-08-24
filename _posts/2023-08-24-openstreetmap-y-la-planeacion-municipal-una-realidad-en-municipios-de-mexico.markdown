@@ -27,7 +27,9 @@ En octubre del 2022 SEDATU [lanzó el curso](https://www.gob.mx/sedatu/prensa/la
 El Hub de América Latina y el Caribe contribuyó a dicho curso con tres sesiones sobre tecnología y herramientas basadas en OpenStreetMap, que fueron seguidos por más de 300 equipos municipales. Este material educativo es un recurso permanente del MOOC de la SEDATU y también es accesible en nuestros canales:
 
 [Introducción a OpenStreetMap](https://www.youtube.com/playlist?list=PLyiu4yvtc5HnoQ4KMvdnM1oZ_rF8THDjr)
+
 [Taller OpenDataKit ODK](https://www.youtube.com/playlist?list=PLyiu4yvtc5Hl2MYq4LnuBlQ8U5BHoxTI2)
+
 [Análisis de accesibilidad Open Route Service QGIS](https://www.youtube.com/playlist?list=PLyiu4yvtc5HlAn8-16KqPGsBSCJps2ULP)
 
 Pero el éxito de la integración de los datos colaborativos en los gobiernos locales depende del acompañamiento y la práctica, por lo que propusimos desarrollar un ciclo de 4 meses de acompañamiento personalizado a un grupo de municipalidades más interesadas en el tema, y que estuvieran en el justo momento de preparación de sus planes locales, para que hubiera una aplicación concreta e inmediata.
