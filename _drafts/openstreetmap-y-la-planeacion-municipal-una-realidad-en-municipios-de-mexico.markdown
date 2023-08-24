@@ -4,3 +4,19 @@ date: 2023-08-24 00:58:00 Z
 ---
 
 Un mapa lleva a otro mapa, un proyecto a otro. A principios del 2022 invitamos a la Secretaría de Desarrollo Agrario, Territorial y Urbano de México ([SEDATU](https://www.gob.mx/sedatu)) a enterarse y observar el progreso de nuestro proyecto de [Open Cities Mexico](https://www.hotosm.org/projects/open-cities-mexico/) en Tulum, pues podría interesarles el proceso de utilización de datos ciudadanos para la planeación municipal, un área donde hay una particular falta de datos espaciales.
+
+En octubre del 2022 SEDATU [lanzó el curso](https://www.gob.mx/sedatu/prensa/lanza-sedatu-curso-de-planeacion-territorial-para-gobiernos-municipales) llamado “Planeación territorial: rumbo a la gestión ordenada de los municipios” con el objetivo de brindar herramientas, orientación y competencias técnicas a todos los municipios del país para una construcción adecuada de sus planes locales de desarrollo.
+
+El Hub contribuyó a dicho curso con tres sesiones sobre tecnología y herramientas basadas en OpenStreetMap, que fueron seguidos por más de 300 equipos municipales. Este material educativo es un recurso permanente del MOOC de la SEDATU y también es accesible en nuestros canales:
+
+[Introducción a OpenStreetMap](https://www.youtube.com/playlist?list=PLyiu4yvtc5HnoQ4KMvdnM1oZ_rF8THDjr)
+[Taller OpenDataKit ODK](https://www.youtube.com/playlist?list=PLyiu4yvtc5Hl2MYq4LnuBlQ8U5BHoxTI2)
+[Análisis de accesibilidad Open Route Service QGIS](https://www.youtube.com/playlist?list=PLyiu4yvtc5HlAn8-16KqPGsBSCJps2ULP)
+
+Pero el éxito de la integración de los datos colaborativos en los gobiernos locales depende del acompañamiento y la práctica, por lo que propusimos desarrollar un ciclo de 4 meses de acompañamiento personalizado a un grupo de municipalidades más interesadas en el tema, y que estuvieran en el justo momento de preparación de sus planes locales, para que hubiera una aplicación concreta e inmediata. 
+
+Se formó entonces un grupo de 15 municipios a quienes se reforzó la capacitación previa, se les llevó a generar datos tanto de forma remota como en sitio sobre su territorio y finalmente se les enseñó la extracción y uso de esa información, además de la construcción de cartografías temáticas.
+
+Este ciclo de acompañamiento culminó el 8 de agosto de 2023 con la presentación final en una conferencia abierta de la SEDATU con 35 participantes de los 15 municipios y otros municipios interesados, mostrándose resultados y compartiendo impresiones y reflexiones. 
+
+Ahora seguiremos explorando con la SEDATU y más actores, las formas de seguir apoyando a municipios, en México y en la región, para compartir experiencias y conocimiento sobre el beneficio de datos geográficos abiertos y colaborativos, y así aportar a una planeación local más fina y más equitativa.
