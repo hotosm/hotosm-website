@@ -44,7 +44,7 @@ Este ciclo de acompañamiento culminó el 8 de agosto de 2023 con la presentaci�
 
 Ahora seguiremos explorando con la SEDATU y más actores, las formas de seguir apoyando a municipios, en México y en la región, para compartir experiencias y conocimiento sobre el beneficio de datos geográficos abiertos y colaborativos, y así aportar a una planeación local más fina y más equitativa.
 
-Finalmente un agradecimiento a GEOID por sus capacitaciones y acompañamiento en la elaboración de las sesiones en video,  y el reconocimiento por su entusiasmo y participación a los municipios Axtla de Terrazas, Apozol, Matamoros, Miguel Alemán, Victoria, Nuevo Laredo, Nombre de Dios, Chiautempan y Rayón.
+Finalmente un agradecimiento a GEOID por sus capacitaciones y acompañamiento en la elaboración de las sesiones en video,  y el reconocimiento por su entusiasmo y participación a los municipios Axtla de Terrazas, Apozol, Matamoros, Miguel Alemán, Victoria, Nuevo Laredo, Nombre de Dios, Chiautempan Rayón.
 
 .
 

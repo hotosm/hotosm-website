@@ -42,7 +42,7 @@ This accompaniment cycle culminated on August 8, 2023 with the final presentatio
 
 Now we will continue exploring with SEDATU and other actors, the ways to keep on supporting municipalities, in Mexico and in the region, to share experiences and knowledge about the benefit of open and collaborative geographic data, and that way contribute to a finer and more equitable local planning.
 
-Finally, a thank you to GEOID for their training and accompaniment in the preparation of the video sessions, and the recognition for their enthusiasm and participation to the municipalities of Axtla de Terrazas, Apozol, Matamoros, Miguel Alemán, Victoria, Nuevo Laredo, Nombre de Dios,Chiautempan.
+Finally, a thank you to GEOID for their training and accompaniment in the preparation of the video sessions, and the recognition for their enthusiasm and participation to the municipalities of Axtla de Terrazas, Apozol, Matamoros, Miguel Alemán, Victoria, Nuevo Laredo, Nombre de Dios,Chiautempan and Rayón.
 
 .
 
