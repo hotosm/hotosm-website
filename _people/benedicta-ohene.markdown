@@ -1,7 +1,6 @@
 ---
-title: Benedicta Ohene
+title: Benedicta Banful Ohene-Amadi
 date: 2022-10-19 19:25:00 Z
-published: false
 Photo: https://cdn.hotosm.org/website/IMG_20221019_081531.jpg
 Member Type:
   Is Staff: false
@@ -19,4 +18,4 @@ Social Media (Full URL):
   LinkedIn: https://www.linkedin.com/in/benedicta-banful-ohene-amadi-255b9b115
 ---
 
-I am Benedicta from Ghana . I have been involved with OpenStreetMap since 2016. I started as a YouthMapper and now I am with OSM Ghana. I am also a drone pilot and involved in HOT Community Working Group.
+I got actively involved in HOT after partaking in the HOT Data Quality Internship in 2021. I became a member of the Community Working Group and had the chance again to intern as an Online Community Support and Services. Before then, I was actively involved with YouthMappers, where we usually map projects from the HOT Tasking Manager. I am a drone pilot and a Geospatial enthusiast with a keen interest in community management/engagement.
