@@ -1,0 +1,16 @@
+---
+title: Shogo Hirasawa
+date: 2023-08-29 21:39:00 Z
+Member Type:
+  Is Voting Member: true
+Project:
+- UNVT Portable
+Social Media (Full URL):
+  Twitter: https://twitter.com/Shogo_Hirasawa
+  LinkedIn: https://www.linkedin.com/in/shogohirasawa/
+  Facebook: 'https://www.facebook.com/ShogoHirasawaa/ '
+  Website: https://github.com/unvt/portable
+---
+
+Hi! I am Shogo Hirasawa. 
+I am a member of YouthMappers AGU and an engineer member of UNVT Portable at the UN. I contribute to the HOT community through crisis mapping and community building.
