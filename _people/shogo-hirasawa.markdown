@@ -6,6 +6,7 @@ Member Type:
 Project:
 - UNVT Portable
 Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Shogo%20Hirasawa
   Twitter: https://twitter.com/Shogo_Hirasawa
   LinkedIn: https://www.linkedin.com/in/shogohirasawa/
   Facebook: 'https://www.facebook.com/ShogoHirasawaa/ '
