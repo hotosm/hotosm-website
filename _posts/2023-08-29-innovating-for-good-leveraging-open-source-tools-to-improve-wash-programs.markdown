@@ -60,7 +60,8 @@ After the knowledge-sharing session, the participants had a demo and walked thro
 
 Here you can find the recordings of the session:
  English - [https://www.youtube.com/watch?v=5ERu3_XqpiU](https://www.youtube.com/watch?v=5ERu3_XqpiU)
+
 French - [https://www.youtube.com/watch?v=ZytBu17Qm8E](https://www.youtube.com/watch?v=ZytBu17Qm8E)
 
 To keep this discussion rolling, there is a *loomio* thread  for everyone to comment or suggest as we continue to save the world through maps!
-https://loomio.hotosm.org/d/tqxuYgKb/questions-and-feedback-wash-webinar
+[https://loomio.hotosm.org/d/tqxuYgKb/questions-and-feedback-wash-webinar](https://loomio.hotosm.org/d/tqxuYgKb/questions-and-feedback-wash-webinar)
