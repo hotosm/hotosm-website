@@ -12,8 +12,8 @@ tags:
 - disaster
 Summary Text: The open-mapping community has proven to be of great importance to the
   Caribbean particularly in supporting disaster response. We take a closer look at
-  how the OSM community which supports it is currently growing and changing; and what
-  this could mean for the future disaster resilience of the countries in the region.
+  the latest developments regarding the growth of the Caribbean mapping community
+  and what this could mean for disaster resilience in the region.
 Feature Image: "/uploads/feature%20photo%20for%20blog.jpg"
 Person: Louise Mathurin Serieux
 ---
