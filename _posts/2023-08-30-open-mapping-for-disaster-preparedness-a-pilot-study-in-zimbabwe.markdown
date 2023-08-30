@@ -1,11 +1,16 @@
 ---
 title: 'Open Mapping for Disaster Preparedness: A Pilot Study in Zimbabwe'
 date: 2023-08-30 16:36:00 Z
+Summary Text: The Anticipatory Response Program (ARP), recently piloted in Zimbabwe,
+  incorporates open mapping tools and workflows into disaster response and resilience
+  efforts to move from a reactive to a proactive approach.
+Feature Image: "/uploads/CoverZimbabweARP.jpeg"
 Person: Wilson Munyaradzi
+Country:
+- Zimbabwe
 ---
 
-
-In 2022, the [Open Mapping Hub - Eastern and Southern Africa (OMH-ESA) ](https://www.hotosm.org/hubs/open-mapping-hub-eastern-and-southern-africa)l aunched the Anticipatory Response Program (ARP), an innovative approach to disaster management. This program seeks to incorporate open mapping tools and workflows into disaster response and resilience efforts, transforming the traditional reactive approach into a proactive one. The ARP was recently piloted in Zimbabwe, a country severely impacted by natural disasters such as floods, cyclones, and droughts. 
+In 2022, the [Open Mapping Hub - Eastern and Southern Africa (OMH-ESA) ](https://www.hotosm.org/hubs/open-mapping-hub-eastern-and-southern-africa) launched the Anticipatory Response Program (ARP), an innovative approach to disaster management. This program seeks to incorporate open mapping tools and workflows into disaster response and resilience efforts, transforming the traditional reactive approach into a proactive one. The ARP was recently piloted in Zimbabwe, a country severely impacted by natural disasters such as floods, cyclones, and droughts. 
 
 **The objectives of the ARP are: **
 1. To identify and understand the gaps in anticipatory planning, preparedness, and response that can be filled with open geospatial data and tools.
