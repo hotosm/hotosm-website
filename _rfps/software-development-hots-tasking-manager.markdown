@@ -27,8 +27,9 @@ Through open-source software development practice and a user-centric approach, t
 
 ## Timeline
 
-Duration: 12 months support contract 
-Start date: Ideally, we would like to start as soon as the Consultant is selected (mid-September/beginning of October).
+* Duration: 12 months support contract 
+
+* Start date: Ideally, we would like to start as soon as the Consultant is selected (mid-September/beginning of October).
 
 ## Scope of Work
 
@@ -85,5 +86,5 @@ HOT is accepting proposals for this work from individuals through September 10, 
 3. A basic overview of the level of effort, including the number of people and associated costs.
 
 
-Proposals should be submitted to ramya.ragupathy@hotosm.org by 11:59 PM on Sep 10, 2023.
+**Proposals should be submitted to ramya.ragupathy@hotosm.org by 11:59 PM on Sep 10, 2023.**
 
