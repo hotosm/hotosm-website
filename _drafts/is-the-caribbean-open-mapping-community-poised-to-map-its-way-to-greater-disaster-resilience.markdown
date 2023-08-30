@@ -30,7 +30,8 @@ Open mapping data has long been proven to be a critical tool for disaster respon
 
 Furthermore, while OSM data does indeed provide a critical resource during disaster response, it also has a wide range of uses that expands into supporting sustainable development in several sectors including tourism, planning, application development, social development, and education. Thus, the benefits of ensuring that there is accessible digital map data for a country long before any disaster hits are many. By extension, the importance of a community to support this map and mappers is immeasurable.
 
-Growth of a Sustainable OSM Caribbean Community
+***Growth of a Sustainable OSM Caribbean Community***
+
 In July 2023, HOT’s Latin American and Caribbean (LAC) Hub supported the first-ever OSM Community, Partnership and Programming Event in the Caribbean region whereby open mapping and disaster response representatives from across the region met in Barbados. They presented and discussed the ways in which they were working to build resilience in their communities using OSM data and tools, and the potential challenges and opportunities in the region. The meeting saw the convening of the first OSM Caribbean group, a regional group with a focus on building both map data and the mapping community in the region.
 
 When we look at the Caribbean, there are less than five OSM community groups. With limited resources and visibility, the efforts of those groups of dedicated mappers and the positive change that they have made in the region as it relates to map data is beyond commendable. Among these are budding groups such as the OSM Chapter on the island of Saint Lucia and the aforementioned cross-regional OSM Caribbean group, as well as longer-established groups such as OSM Cuba and COSMHANNE of Haiti.
