@@ -2,7 +2,20 @@
 title: Is the Caribbean Open Mapping Community Poised to Map its Way to Greater Disaster
   Resilience?
 date: 2023-08-30 14:09:00 Z
+categories:
+- news
+tags:
+- Community
+- caribbean
+- LAC
+- disaster resilience
+- disaster
+Summary Text: The open-mapping community has proven to be of great importance to the
+  Caribbean particularly in supporting disaster response. We take a closer look at
+  how the OSM community which supports it is currently growing and changing; and what
+  this could mean for the future disaster resilience of the countries in the region.
 Feature Image: "/uploads/IMG_20230704_133550221_HDR%20(1)%20(1).jpg"
+Person: Louise Mathurin Serieux
 ---
 
 The open-mapping community has proven to be of great importance to the Caribbean; particularly in supporting disaster response, as was demonstrated at the origins of the Humanitarian OpenStreetMap Team (HOT) during the 2010 earthquake in Haiti. Currently, there are over 18,000 contributors to Caribbean projects on HOT’s Tasking Manager and 6 million buildings mapped (and growing). However, when one looks at the vibrant OpenStreetMap (OSM) communities across the globe, the Caribbean is conspicuously underrepresented both in formally established OSM groups and other user groups. It is therefore imperative that we take a closer look at how the OSM climate in the Caribbean is currently growing and changing; and what this could mean for the future disaster resilience of the countries in the region.
