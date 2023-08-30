@@ -18,7 +18,7 @@ Feature Image: "/uploads/feature%20photo%20for%20blog.jpg"
 Person: Louise Mathurin Serieux
 ---
 
-The open-mapping community has proven to be of great importance to the Caribbean; particularly in supporting disaster response, as was demonstrated at the origins of the Humanitarian OpenStreetMap Team (HOT) during the 2010 earthquake in Haiti. Currently, there are over 18,000 contributors to Caribbean projects on HOT’s Tasking Manager and 6 million buildings mapped (and growing). However, when one looks at the vibrant OpenStreetMap (OSM) communities across the globe, the Caribbean is conspicuously underrepresented both in formally established OSM groups and other user groups. It is therefore imperative that we take a closer look at how the OSM climate in the Caribbean is currently growing and changing; and what this could mean for the future disaster resilience of the countries in the region.
+There are over 18,000 contributors to Caribbean projects on HOT’s Tasking Manager and 6 million buildings mapped (and growing). However, when one looks at the vibrant OpenStreetMap (OSM) communities across the globe, the Caribbean is conspicuously underrepresented both in formally established OSM groups and other user groups. It is therefore imperative that we take a closer look at how the OSM climate in the Caribbean is currently growing and changing; and what this could mean for the future disaster resilience of the countries in the region.
 
 ***OSM Community Building and the Caribbean Reality***
 
