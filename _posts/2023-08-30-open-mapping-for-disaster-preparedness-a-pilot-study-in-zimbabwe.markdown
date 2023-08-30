@@ -10,6 +10,8 @@ Country:
 - Zimbabwe
 ---
 
+*Cover photo: Introducing 360 mapping techniques in the field with a GoPro Max Camera. Courtesy of Letwin Pondo*
+
 In 2022, the [Open Mapping Hub - Eastern and Southern Africa (OMH-ESA) ](https://www.hotosm.org/hubs/open-mapping-hub-eastern-and-southern-africa) launched the Anticipatory Response Program (ARP), an innovative approach to disaster management. This program seeks to incorporate open mapping tools and workflows into disaster response and resilience efforts, transforming the traditional reactive approach into a proactive one. The ARP was recently piloted in Zimbabwe, a country severely impacted by natural disasters such as floods, cyclones, and droughts. 
 
 **The objectives of the ARP are: **
