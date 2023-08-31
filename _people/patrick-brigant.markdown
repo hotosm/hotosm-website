@@ -1,6 +1,7 @@
 ---
-title: Patrick Brigant
+title: Patrik Brigant
 date: 2023-08-30 23:25:00 Z
+Photo: "/uploads/Patrik_Brigant.jpg"
 Member Type:
   Is Voting Member: true
 Project:
