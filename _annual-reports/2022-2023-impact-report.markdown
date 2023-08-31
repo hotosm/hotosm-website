@@ -1,7 +1,7 @@
 ---
 title: 2022-2023 Impact Report
 date: 2023-08-15 23:56:00 Z
-Link: https://www.hotosm.org/uploads/2022-2023-ImpactReport08-28_CMYK.pdf
+Link: https://www.hotosm.org/uploads/2022-2023-ImpactReport08_30.pdf
 Image: "/uploads/2022-2023-ImpactReport2.0.png"
 ---
 
