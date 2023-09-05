@@ -1,6 +1,7 @@
 ---
 title: Mid-Term Evaluation of the HOT Audacious Project - Full ToR
 date: 2023-07-17 01:06:00 Z
+published: false
 Deadline Date: 2023-09-01 23:59:00 Z
 Page Contact:
   Contact Email: merlteam@hotosm.org
