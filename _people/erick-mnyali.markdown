@@ -1,6 +1,7 @@
 ---
 title: Erick Mnyali
 date: 2023-08-29 21:52:00 Z
+Photo: "/uploads/Erick%20Tamba%20Mnyali%20profile%20pic%20-%20ERICK%20TAMBA.png"
 Member Type:
   Is Voting Member: true
 Social Media (Full URL):
