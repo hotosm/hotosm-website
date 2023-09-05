@@ -1,6 +1,7 @@
 ---
 title: Shogo Hirasawa
 date: 2023-08-29 21:39:00 Z
+Photo: "/uploads/IMG_5617%20-%20Shogo%20Hirasawa.JPG"
 Member Type:
   Is Voting Member: true
 Project:
