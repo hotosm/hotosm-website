@@ -1,6 +1,7 @@
 ---
 title: Charles Chilufya
 date: 2023-09-05 16:53:00 Z
+Photo: "/uploads/WhatsApp%20Image%202023-09-02%20at%206.25.49%20PM%20-%20charles%20chilufya.jpeg"
 Member Type:
   Is Voting Member: true
 Working Group:
