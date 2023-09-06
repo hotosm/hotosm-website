@@ -13,14 +13,14 @@ Project:
 - |-
   Satellite Imagery for
   Social Good: Kenya and Nigeria
-- Canoa de Tolda
+- 'Open Cities Guatemala: San José Poaquil, Chimaltenango'
 - |-
   Crowd-Source Mapping for Disaster Management
   (Timor Leste)
 - |-
   Building Capacity for Inclusive Data Collection for the OSM Community
   in Namibia
-- RUWA - Rural Water Access
+- Open Mapping Hub - WNAH Projects
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
