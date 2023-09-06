@@ -5,7 +5,7 @@ description: HOT is an international team dedicated to humanitarian action and c
   development through open mapping.
 Banner:
   Is Activated: true
-  Main Block: Apply to be a part of our OpenSummit '23-24
+  Main Block: Apply to be a part of HOT's OpenSummit '23-24
   Secondary Block: Click here to learn more
   Link Copy: 
   URL: https://www.hotosm.org/opensummit23-24
