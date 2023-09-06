@@ -20,7 +20,7 @@ Project:
 - |-
   Building Capacity for Inclusive Data Collection for the OSM Community
   in Namibia
-- Open Mapping Hub - WNAH Projects
+- Missing Maps
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
