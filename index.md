@@ -10,12 +10,17 @@ Banner:
   Link Copy: 
   URL: https://www.hotosm.org/opensummit23-24
 Project:
-- HOT's Response to the Turkey & Syria Earthquake
-- Satellite Imagery for Social Good
-- 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin America
-  and Caribbean'
+- |-
+  Satellite Imagery for
+  Social Good: Kenya and Nigeria
 - Canoa de Tolda
-- 
+- |-
+  Crowd-Source Mapping for Disaster Management
+  (Timor Leste)
+- |-
+  Building Capacity for Inclusive Data Collection for the OSM Community
+  in Namibia
+- RUWA - Rural Water Access
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
