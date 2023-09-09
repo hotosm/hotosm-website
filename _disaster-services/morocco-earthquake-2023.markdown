@@ -28,15 +28,15 @@ Context: We are on maximum alert following the earthquake that shook Morocco on 
 
 HOT's [West and Northern Africa Hub](https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa) is coordinating with local communities to map the areas affected by the earthquake and provide reliable, up-to-date geographical information to humanitarian actors on the ground. We are using satellite images, drones and GPS to locate damaged infrastructure, cut-off roads, camps for displaced people and drinking water points. We'll be sharing this data with emergency services, who will then be able to organize their actions and reach the most isolated populations.
 
-You can help by taking part in remote mapping here: https://tasks.hotosm.org/projects/15468
+You can help by taking part in remote mapping here: [https://tasks.hotosm.org/projects/15468](https://tasks.hotosm.org/projects/15468)
 
 We'll keep you informed as the situation develops, and as we deploy on the ground.
 
 <h2>Details</h2>
 
-<strong>Event Name:</strong>Morocco Earthquake September 2023<br>
-<strong>GDACS Alert Lvl:</strong>2.1<br>
-<strong>Location:</strong>Marrakech<br>
+<strong>Event Name:</strong> Morocco Earthquake September 2023<br>
+<strong>GDACS Alert Lvl:</strong> 2.1<br>
+<strong>Location:</strong> Marrakech<br>
 <strong>Geographic Scope:</strong> Region<br>
 <strong>Estimated Humanitarian Impact:</strong> Death toll stands at over 1,000, with hundreds more injured. Thousands of people are without shelter, water or electricity.
 <br>
