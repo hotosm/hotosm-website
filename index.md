@@ -5,10 +5,10 @@ description: HOT is an international team dedicated to humanitarian action and c
   development through open mapping.
 Banner:
   Is Activated: true
-  Main Block: Apply to be a part of HOT's OpenSummit '23-24
-  Secondary Block: Click here to learn more
+  Main Block: 'Support our mapping efforts in Morocco '
+  Secondary Block: Go to HOT's Tasking Manager
   Link Copy: 
-  URL: https://www.hotosm.org/opensummit23-24
+  URL: https://tasks.hotosm.org/projects/15468
 Project:
 - |-
   Satellite Imagery for
