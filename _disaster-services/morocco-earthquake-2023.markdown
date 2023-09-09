@@ -20,7 +20,7 @@ Status:
 Report: 
 HDX: 
 Resources: https://community.openstreetmap.org/t/activation-for-the-morocco-earthquake-response/103649
-Wiki-page: 
+Wiki-page: https://wiki.openstreetmap.org/wiki/2023_Morocco_Earthquake
 GDACS-level: Red (2.1)
 ---
 
