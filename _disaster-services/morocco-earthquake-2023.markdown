@@ -7,7 +7,7 @@ tags:
 - WNAH
 Glide:
 - EQ-2023-000166-MAR
-Event Name: Morocco Earthquake September 2023
+Disaster Name: Morocco Earthquake September 2023
 Country: Morocco
 Event type: EQ Earthquake
 Summary Text: Activation led by HOT's West and Northern Africa Hub following the magnitude
