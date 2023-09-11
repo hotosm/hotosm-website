@@ -7,7 +7,7 @@ tags:
 - WNAH
 Glide:
 - EQ-2023-000166-MAR
-Disaster Name: Morocco Earthquake September 2023
+Disaster Name: Morocco Earthquake 2023
 Country: Morocco
 Event type: EQ Earthquake
 Summary Text: Activation led by HOT's West and Northern Africa Hub following the magnitude
@@ -18,7 +18,7 @@ Campaign: Morocco Earthquake 2023
 Tracking: 
 Status: 
 Report: 
-HDX: 
+HDX: https://data.humdata.org/dataset?q=morocco%20hotosm&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
 Resources: https://community.openstreetmap.org/t/activation-for-the-morocco-earthquake-response/103649
 Wiki-page: https://wiki.openstreetmap.org/wiki/2023_Morocco_Earthquake
 GDACS-level: Red (2.1)
@@ -28,7 +28,7 @@ Context: We are on maximum alert following the earthquake that shook Morocco on 
 
 HOT's [West and Northern Africa Hub](https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa) is coordinating with local communities to map the areas affected by the earthquake and provide reliable, up-to-date geographical information to humanitarian actors on the ground. We are using satellite images, drones and GPS to locate damaged infrastructure, cut-off roads, camps for displaced people and drinking water points. We'll be sharing this data with emergency services, who will then be able to organize their actions and reach the most isolated populations.
 
-You can help by taking part in remote mapping here: [https://tasks.hotosm.org/projects/15468](https://tasks.hotosm.org/projects/15468)
+You can help by taking part in remote mapping [here:](https://tasks.hotosm.org/explore?campaign=Morocco%20Earthquake%202023)
 
 We'll keep you informed as the situation develops, and as we deploy on the ground.
 
