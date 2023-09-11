@@ -5,10 +5,12 @@ description: HOT is an international team dedicated to humanitarian action and c
   development through open mapping.
 Banner:
   Is Activated: true
+  Small Block: 
   Main Block: 'Support our mapping efforts in Morocco '
   Secondary Block: " Go to HOT's Tasking Manager"
-  Link Copy: To donate, click the link below
+  Link Copy: 
   URL: https://tasks.hotosm.org/projects/15468
+  Optional Text: "[Donate today!](https://www.hotosm.org/donate)"
 Project:
 - |-
   Satellite Imagery for
