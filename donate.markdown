@@ -3,8 +3,11 @@ title: 'Support HOT''s work: Donate today!'
 date: 2018-02-06 15:16:00 Z
 permalink: "/donate/"
 position: 13
-Summary Text: If you are an organization and would like to contribute to HOT's mission-critical
-  work to partner with local communities, please reach out to <a href="mailto:donations@hotosm.org">donations@hotosm.org</a>
+Summary Text: |-
+  ## Support our work in the aftermath of Morocco's earthquake
+  HOT's [West and Northern Africa Hub](https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa) is coordinating with local communities to map the areas affected by the earthquake and provide reliable, up-to-date map data to humanitarian actors on the ground. Your donations are crucial to keep this work going.
+
+  If you are an organization and would like to contribute to HOT's mission-critical work to partner with local communities, please reach out to <a href="mailto:donations@hotosm.org">donations@hotosm.org</a>
 layout: donate
 ---
 
