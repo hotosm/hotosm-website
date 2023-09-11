@@ -7,10 +7,10 @@ Banner:
   Is Activated: true
   Small Block: 
   Main Block: 'Support our mapping efforts in Morocco '
-  Secondary Block: " Go to HOT's Tasking Manager"
+  Secondary Block: Donate
   Link Copy: 
-  URL: https://tasks.hotosm.org/projects/15468
-  Optional Text: "## [Donate today!](https://www.hotosm.org/donate)"
+  URL: https://www.hotosm.org/donate
+  Optional Text: "## To map, go to HOT's [Tasking Manager](https://tasks.hotosm.org/projects/15468)"
 Project:
 - |-
   Satellite Imagery for
