@@ -10,7 +10,7 @@ Banner:
   Secondary Block: " Go to HOT's Tasking Manager"
   Link Copy: 
   URL: https://tasks.hotosm.org/projects/15468
-  Optional Text: "[Donate today!](https://www.hotosm.org/donate)"
+  Optional Text: "## [Donate today!](https://www.hotosm.org/donate)"
 Project:
 - |-
   Satellite Imagery for
