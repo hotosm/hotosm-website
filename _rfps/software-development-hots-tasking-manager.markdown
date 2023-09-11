@@ -1,6 +1,7 @@
 ---
 title: 'Software development: HOT''s Tasking Manager'
 date: 2023-08-30 14:20:00 Z
+published: false
 Deadline Date: 2023-09-10 00:00:00 Z
 Page Contact:
   Contact Email: ramya.ragupathy@hotosm.org
