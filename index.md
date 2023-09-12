@@ -10,7 +10,7 @@ Banner:
   Link Copy: 
   URL: https://www.hotosm.org/donate
   Optional Text: 
-  Small Block: 'Support our mapping efforts in Morocco '
+  Small Block: 
 Project:
 - |-
   Satellite Imagery for
