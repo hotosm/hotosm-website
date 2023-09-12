@@ -6,10 +6,10 @@ description: HOT is an international team dedicated to humanitarian action and c
 Banner:
   Is Activated: true
   Main Block: 'Support our mapping efforts in Morocco '
-  Secondary Block: Donate
+  Secondary Block: 
   Link Copy: 
-  URL: https://www.hotosm.org/donate
-  Optional Text: "## Go to HOT's [Tasking Manager](https://tasks.hotosm.org/projects/15468)"
+  URL: https://tasks.hotosm.org/explore?campaign=Morocco%20Earthquake%202023
+  Optional Text: by [donating now!](https://www.hotosm.org/donate)
 Project:
 - |-
   Satellite Imagery for
