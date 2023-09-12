@@ -7,10 +7,9 @@ Banner:
   Is Activated: true
   Main Block: 'Support our mapping efforts in Morocco '
   Secondary Block: by donating now!
-  Link Copy: 
+  Link Copy: https://tasks.hotosm.org/explore?campaign=Morocco%20Earthquake%202023
   URL: https://www.hotosm.org/donate
-  Optional Text: <a href="https://tasks.hotosm.org/explore?campaign=Morocco%20Earthquake%202023>Mapping
-    campaign</a>
+  Optional Text: Mapping campaign
 Project:
 - |-
   Satellite Imagery for
