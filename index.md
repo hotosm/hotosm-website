@@ -9,7 +9,8 @@ Banner:
   Secondary Block: by donating now!
   Link Copy: 
   URL: https://www.hotosm.org/donate
-  Optional Text: https://tasks.hotosm.org/explore?campaign=Morocco%20Earthquake%202023
+  Optional Text: <a href="https://tasks.hotosm.org/explore?campaign=Morocco%20Earthquake%202023>Mapping
+    campaign</a>
 Project:
 - |-
   Satellite Imagery for
