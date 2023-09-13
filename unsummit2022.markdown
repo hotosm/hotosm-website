@@ -74,7 +74,7 @@ block-5:
     communities, partners, collaborators, and supporters to learn, share, and connect,
     now as HOT OpenSummit ‘23-24!
   Action-text: Check out this year’s OpenSummit
-  Link: www.hotosm.org/opensummit23-24
+  Link: "/opensummit23-24"
   Image: "/uploads/1.png"
 layout: summitlanding
 ---
