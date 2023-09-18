@@ -5,7 +5,7 @@ permalink: "/donate/"
 position: 13
 Summary Text: |-
   <h2>Support our work in the aftermath of Morocco's earthquake and Libya's floods</h2>
-  <h3>HOT's <a href="https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa">West and Northern Africa Hub</a> is coordinating with local communities to map the areas affected by <a href="https://tasks.hotosm.org/explore?campaign=Morocco%20Earthquake%202023">the earthquake</a> and <a href="https://tasks.hotosm.org/explore?text=libya+2023">the floods</a> provide reliable, up-to-date map data to humanitarian actors on the ground. Your donations are crucial to keep this work going.</h3>
+  <h3>HOT's <a href="https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa">West and Northern Africa Hub</a> is coordinating with local communities to map the areas affected by <a href="https://tasks.hotosm.org/explore?campaign=Morocco%20Earthquake%202023">the earthquake</a> and <a href="https://tasks.hotosm.org/explore?text=libya+2023">the floods</a> in order to provide reliable, up-to-date map data to humanitarian actors on the ground. Your donations are crucial to keep this work going.</h3>
 
   If you are an organization and would like to contribute to HOT's mission-critical work to partner with local communities, please reach out to <a href="mailto:donations@hotosm.org">donations@hotosm.org</a>
 layout: donate
