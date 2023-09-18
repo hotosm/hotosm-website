@@ -1,7 +1,6 @@
 ---
 title: 'Embracing a supportive community: my journey as an intern at HOT'
 date: 2023-09-18 21:01:00 Z
-published: false
 Summary Text: Follow Benedicta Ohene's journey as an intern for the Community Team
   at HOT and the lessons she learned during her time in the team.
 Feature Image: www.hotosm.org/uploads/Meeting.png
