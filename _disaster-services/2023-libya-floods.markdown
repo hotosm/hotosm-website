@@ -22,8 +22,8 @@ In response to the devastating impact of Storm Daniel in northeastern Libya, thi
 
 <h2>Details</h2>
 
-<strong>Event Name:</strong>2023 Libya Floods<br>
-<strong>GDACS Alert Lvl:</strong>Red 2.5<br>
+<strong>Event Name:</strong> 2023 Libya Floods<br>
+<strong>GDACS Alert Lvl:</strong> Red 2.5<br>
 <strong>Location:</strong> Derna, Libya<br>
 <strong>Geographic Scope:</strong> City<br>
 <strong>Estimated Humanitarian Impact:</strong> 5,300 people dead and 33,000 displaced<br>
@@ -40,4 +40,4 @@ In response to the devastating impact of Storm Daniel in northeastern Libya, thi
 
 Here is the mapping campaign:
 
-<a href=https://tasks.hotosm.org/explore?campaign=Libya%20Floods%202023">Libya Floods 2023</a>
+<a href="https://tasks.hotosm.org/explore?campaign=Libya%20Floods%202023">Libya Floods 2023</a>
