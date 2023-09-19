@@ -3,7 +3,7 @@ title: 'Embracing a supportive community: my journey as an intern at HOT'
 date: 2023-09-18 21:01:00 Z
 Summary Text: Follow Benedicta Ohene's journey as an intern for the Community Team
   at HOT and the lessons she learned during her time in the team.
-Feature Image: www.hotosm.org/uploads/Meeting.png
+Feature Image: "/uploads/Meeting.png"
 Person: Benedicta Banful Ohene-Amadi
 Working Group:
 - Community
@@ -21,7 +21,7 @@ Equally transformative was their emphasis on the power of seeking help when need
 
 As my internship came to an end, I realized how much I appreciated every moment I spent with this great group. "Everything that has a beginning has an end," as they say, yet I couldn't help but desire for more time. In particular, **Arnalie Vicario (my supervisor)** made an indelible impression on me. Her generosity, guidance, and unfailing support moved my heart in ways words cannot express.
 
-![BenedictaAndArnalie.png](www.hotosm.org/uploads/BenedictaAndArnalie.png)
+![BenedictaAndArnalie.png](/uploads/BenedictaAndArnalie.png)
 *Photo from the last one-on-one with my supervisor, Arnalie Vicario*
 
 I liken this team to a closely-knit family, where each member plays a vital role in uplifting one another and fostering growth. Their sense of unity and dedication to each other's improvement is nothing short of inspiring. I feel blessed to have been a part of this powerhouse of collaboration - the community working group that truly lives up to its name. The diverse backgrounds and expertise of the team were a testament to the organization's **commitment to inclusivity.**
@@ -39,7 +39,7 @@ During my time as an intern, I had the privilege of engaging in a range of proje
 * I found helping translate **important documents** using **DeepL translator** to be a really rewarding component of my internship. The importance of efficient communication across language barriers was reaffirmed by this work, which also gave me new insights into the community's global reach. Contributing to a larger audience's access to information was incredibly fulfilling.
 * One of the roles that allowed me to step into a l**eadership position** was chairing or hosting our * Community Working Group meetings. Effective communication and good interpersonal skills were needed to steer topics, encourage collaboration, and make sure meetings went off without a hitch. This experience gave me a newfound appreciation for the role of a facilitator in driving productive discussions.
 
-![Webinar.jpeg](www.hotosm.org/uploads/Webinar.jpeg)
+![Webinar.jpeg](/uploads/Webinar.jpeg)
 *Example of webinar sessions*
 
 In reflection, I can say that each of these contributions has not only benefited our community but has also been crucial to my development, both personally and professionally. They have helped and taught me to understand the value of strong teamwork, attention to detail, creative problem-solving, and good communication. As I move forward, I carry these experiences with me, ready to tackle new challenges and continue making meaningful contributions in my journey ahead.
@@ -72,7 +72,7 @@ Whatever the triumph, there will always be some difficulties.
 * One-on-one sessions
 * Icebreaker questions
 
-![CommunityWorkingGroupSession.jpeg](www.hotosm.org/uploads/CommunityWorkingGroupSession.jpeg)
+![CommunityWorkingGroupSession.jpeg](/uploads/CommunityWorkingGroupSession.jpeg)
 *Screenshot of a Community Working Group session*
 
 I want to express my sincerest gratitude to my supervisor, **Arnalie Vicario, Pete Masters (Community Team Lead), the community team, and the entire Humanitarian OpenStreetMap Team (HOT).** Thank you once again for the enriching opportunity.
