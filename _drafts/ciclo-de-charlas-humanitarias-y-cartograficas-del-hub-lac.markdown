@@ -28,4 +28,14 @@ Esta charla puede ser vista a través de nuestro canal de youTube:
 
 La segunda edición de este ciclo de charlas del Hub-LAC se realizará el próximo viernes 22 de setiembre y su tema -en el marco de la [Semana de la movilidad](https://es.wikipedia.org/wiki/Semana_Europea_de_la_Movilidad) y del [Dia mundial sin auto](https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_Sin_Autom%C3%B3vil)- será el mapeo del transporte. En esta ocasión participaran Juan Manuel Bermeja, Sandra Hernández Zetina y Vanessa Millán, acompañando a Celine Jacquin, Senior Manager de HOT, en la conversación.
 
-La transmisión podrá ser vista en vivo por nuestro canal de YouTube.
+La transmisión podrá ser vista en vivo por [nuestro canal](https://www.youtube.com/@hubmapeoabiertoALC/streams) de YouTube. No se la pierdan!
+
+.
+
+*Conoce también [cómo colaboramos](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) con los Institutos Nacionales de Geografía.*
+
+*Si quieres ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
+
+*Si eres parte de alguna organización que desea explorar cómo colaborar en un proyecto de cartografía digital, escribe un correo a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Proyectos LAC**.*
+
+**Síguenos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).**
