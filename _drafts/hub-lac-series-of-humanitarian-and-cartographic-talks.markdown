@@ -1,6 +1,21 @@
 ---
 title: Hub-LAC series of humanitarian and cartographic talks
-date: 2023-09-19 02:23:00 Z
+date: 2023-09-18 23:53:00 Z
+categories:
+- news
+- talks
+- video
+tags:
+- video
+- humanitarian
+- cartography
+- talks
+- latam
+Summary Text: The Latin American and Caribbean (LAC) Open Mapping Hub has organized
+  a series of monthly talks that show the contribution that open and collaborative
+  mapping can make to humanitarian work and sustainable development.
+Feature Image: "/uploads/charla1.jpg"
+Person: Juan Arellano Valdivia
 ---
 
 Discussing and disseminating humanitarian issues from the perspective of collaborative digital cartography is a pending need in these times of climate change, environmental destruction, political and social crises, migrations and health emergencies.
@@ -25,8 +40,19 @@ This talk can be watched through our YouTube channel:
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/qbjhNFjrYq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-The second edition of this cycle of Hub-LAC talks will be held next Friday, September 22 and its theme - within the framework of [Mobility Week](https://es.wikipedia.org/wiki/European_Semana_de_la_Movilidad) and [World Car Free Day](https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_Sin_Autom%C3%B3vil)- will be the mapping of urban public transportation.
+The second edition of this cycle of Hub-LAC talks will be held next Friday, September 22 and its theme - within the framework of [Mobility Week](https://en.wikipedia.org/wiki/European_Mobility_Week) and [World Car Free Day](https://en.wikipedia.org/wiki/Car-free_days)- will be the mapping of urban public transportation.
 
 On this occasion, Juan Manuel Berdeja - Director of Planning and Projects, COCOTRA Michoacán, Sandra Hernández Zetina - Professor, Faculty of Geography, UAEMéx and Vanessa Millán - Deputy Director of Mobility, Zitácuaro Michoacán City Council will participate, accompanying [Celine Jacquin](https://www.hotosm.org/people/celine-jacquin/), HOT Senior Manager, in the conversation.
 
+The broadcast will be seen live on [our channel](https://www.youtube.com/@hubmapeoabiertoALC/streams) on YouTube. Do not miss it!
 
+![photo_4915984413150523191_y.jpg](/uploads/photo_4915984413150523191_y.jpg)
+.
+
+*Also find out [how we collaborate](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) with National Institutes of Geography.*
+
+*If you want to be part of the community of volunteer mappers of the LAC Open Mapping Hub, write an email to [hublatam@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: Volunteer mapper**.*
+
+*If you are part of an organization that wants to explore how to collaborate on a project, write an email to [hublatam@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: LAC Projects**.*
+
+***Follow us on networks: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).***
