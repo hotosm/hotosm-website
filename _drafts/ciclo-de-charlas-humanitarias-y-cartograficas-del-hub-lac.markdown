@@ -26,4 +26,6 @@ Esta charla puede ser vista a través de nuestro canal de youTube:
 
 <iframe width="600" height="330" src="https://www.youtube.com/embed/qbjhNFjrYq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-La segunda edición de este ciclo de charlas del Hub-LAC se realizará el próximo viernes 22 de setiembre y su tema -en el marco de la [Semana de la movilidad](https://es.wikipedia.org/wiki/Semana_Europea_de_la_Movilidad) y del [Dia mundial sin auto](https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_Sin_Autom%C3%B3vil)- será el mapeo del transporte.
+La segunda edición de este ciclo de charlas del Hub-LAC se realizará el próximo viernes 22 de setiembre y su tema -en el marco de la [Semana de la movilidad](https://es.wikipedia.org/wiki/Semana_Europea_de_la_Movilidad) y del [Dia mundial sin auto](https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_Sin_Autom%C3%B3vil)- será el mapeo del transporte. En esta ocasión participaran Juan Manuel Bermeja, Sandra Hernández Zetina y Vanessa Millán, acompañando a Celine Jacquin, Senior Manager de HOT, en la conversación.
+
+La transmisión podrá ser vista en vivo por nuestro canal de YouTube.
