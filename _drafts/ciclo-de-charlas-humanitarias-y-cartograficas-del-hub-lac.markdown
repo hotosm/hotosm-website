@@ -1,6 +1,7 @@
 ---
 title: Ciclo de charlas humanitarias y cartográficas del Hub-LAC
 date: 2023-09-18 23:07:00 Z
+Feature Image: "/uploads/charla1.jpg"
 ---
 
 Conversar y divulgar sobre los temas humanitarios desde la perspectiva de la cartografía digital es una necesidad pendiente en estos tiempos de calentamiento global, grandes migraciones y emergencias sanitarias. 
