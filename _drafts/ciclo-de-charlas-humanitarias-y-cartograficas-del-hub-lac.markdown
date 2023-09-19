@@ -10,7 +10,7 @@ Por eso en el Hub de mapeo abierto de América Latina y el Caribe (LAC) decidimo
 
 En tal sentido, el pasado jueves 17 de agosto inauguramos este ciclo de conversaciones sobre temas humanitarios y cartográficos con la charla: "**El desafío del humanitarismo digital en Latinoamérica y el Caribe**". Nuestros invitados fueron: [Catalina Jaime](https://www.climatecentre.org/staff/catalina-jaime/), Head of climate and conflict en Red Cross Red Crescent Climate Centre y [Simone Lucatello](https://www.institutomora.edu.mx/Investigacion/SimoneLucatello/SitePages/Inicio.aspx), Director del programa de investigación en el Instituto de Investigaciones Dr. José María Luis Mora. Nuestro Director, [Fabrizio Scrollini Mendez](https://www.hotosm.org/people/fabrizio-scrollini/), fue el conductor de la sesión.
 
-![Ciclo de charlas - 4.png](/uploads/Ciclo%20de%20charlas%20-%204.png)
+![Ciclo de charlas - 1.png](/uploads/Ciclo%20de%20charlas%20-%201.png)
 
 Algunas citas de lo que los invitados dijeron en sus intervenciones son las siguientes:
 
@@ -26,7 +26,9 @@ Esta charla puede ser vista a través de nuestro canal de youTube:
 
 <iframe width="600" height="330" src="https://www.youtube.com/embed/qbjhNFjrYq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-La segunda edición de este ciclo de charlas del Hub-LAC se realizará el próximo viernes 22 de setiembre y su tema -en el marco de la [Semana de la movilidad](https://es.wikipedia.org/wiki/Semana_Europea_de_la_Movilidad) y del [Dia mundial sin auto](https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_Sin_Autom%C3%B3vil)- será el mapeo del transporte. En esta ocasión participaran Juan Manuel Bermeja, Sandra Hernández Zetina y Vanessa Millán, acompañando a Celine Jacquin, Senior Manager de HOT, en la conversación.
+La segunda edición de este ciclo de charlas del Hub-LAC se realizará el próximo viernes 22 de setiembre y su tema -en el marco de la [Semana de la movilidad](https://es.wikipedia.org/wiki/Semana_Europea_de_la_Movilidad) y del [Dia mundial sin auto](https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_Sin_Autom%C3%B3vil)- será el mapeo del transporte.
+
+En esta ocasión participarán Juan Manuel Bermeja - Director de Planeación y Proyectos, Cocotra Michoacán, Sandra Hernández Zetina - Profesora, Facultad de Geografía, UAEMéx y Vanessa Millán - Subdirectora de Movilidad, Ayuntamiento de Zitácuaro Michoacán, acompañando a [Celine Jacquin](https://www.hotosm.org/people/celine-jacquin/), Senior Manager de HOT, en la conversación.
 
 La transmisión podrá ser vista en vivo por [nuestro canal](https://www.youtube.com/@hubmapeoabiertoALC/streams) de YouTube. No se la pierdan!
 
