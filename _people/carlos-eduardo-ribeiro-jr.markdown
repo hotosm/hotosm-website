@@ -6,6 +6,7 @@ Member Type:
   Is Voting Member: true
 Project:
 - Canoa de Tolda
+Country: Brazil
 Social Media (Full URL):
   Website: canoadetolda.org.br
 ---
