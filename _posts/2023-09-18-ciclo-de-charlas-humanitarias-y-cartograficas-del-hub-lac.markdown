@@ -13,16 +13,16 @@ tags:
 - conversaciones
 Summary Text: El Hub de mapeo abierto de América Latina y el Caribe (LAC) ha organizado
   un ciclo de charlas mensuales que muestren el aporte que el mapeo abierto y colaborativo
-  puede hacer al trabajo humanitario.
+  puede hacer al trabajo humanitario y al desarrollo sustentable.
 Feature Image: "/uploads/charla1.jpg"
 Person: Juan Arellano Valdivia
 ---
 
-Conversar y divulgar sobre los temas humanitarios desde la perspectiva de la cartografía digital es una necesidad pendiente en estos tiempos de calentamiento global, grandes migraciones y emergencias sanitarias.
+Conversar y divulgar sobre los temas humanitarios desde la perspectiva de la cartografía digital colaborativa es una necesidad pendiente en estos tiempos de cambio climático, destrucción del medio ambiente, crisis políticas y sociales, migraciones y emergencias sanitarias.
 
-Por eso en el Hub de mapeo abierto de América Latina y el Caribe (LAC) decidimos organizar un ciclo de charlas mensuales que aborden temas humanitarios y de desarrollo desde la perspectiva cartográfica, es decir, mostrando el aporte que el mapeo abierto y colaborativo puede hacer al trabajo humanitario.
+Por eso en el Hub de mapeo abierto de América Latina y el Caribe (LAC) decidimos organizar un ciclo de charlas mensuales que aborden temas humanitarios y de desarrollo desde la perspectiva cartográfica, es decir, mostrando el aporte que la ciencia ciudadana y el mapeo abierto y colaborativo pueden hacer al trabajo humanitario y al desarrollo sustentable.
 
-En tal sentido, el pasado jueves 17 de agosto inauguramos este ciclo de conversaciones sobre temas humanitarios y cartográficos con la charla: "**El desafío del humanitarismo digital en Latinoamérica y el Caribe**". Nuestros invitados fueron: [Catalina Jaime](https://www.climatecentre.org/staff/catalina-jaime/), Head of climate and conflict en Red Cross Red Crescent Climate Centre y [Simone Lucatello](https://www.institutomora.edu.mx/Investigacion/SimoneLucatello/SitePages/Inicio.aspx), Director del programa de investigación en el Instituto de Investigaciones Dr. José María Luis Mora. Nuestro Director, [Fabrizio Scrollini Mendez](https://www.hotosm.org/people/fabrizio-scrollini/), fue el conductor de la sesión.
+En tal sentido, el pasado jueves 17 de agosto inauguramos este ciclo de conversaciones con la charla: "**El desafío del humanitarismo digital en Latinoamérica y el Caribe**". Nuestros invitados fueron: [Catalina Jaime](https://www.climatecentre.org/staff/catalina-jaime/), Head of climate and conflict en Red Cross Red Crescent Climate Centre y [Simone Lucatello](https://www.institutomora.edu.mx/Investigacion/SimoneLucatello/SitePages/Inicio.aspx), Director del programa de investigación en el Instituto de Investigaciones Dr. José María Luis Mora. Nuestro Director, [Fabrizio Scrollini Mendez](https://www.hotosm.org/people/fabrizio-scrollini/), fue el conductor de la sesión.
 
 ![Ciclo de charlas - 1.png](/uploads/Ciclo%20de%20charlas%20-%201.png)
 
@@ -41,9 +41,9 @@ Esta charla puede ser vista a través de nuestro canal de youTube:
 <iframe width="800" height="400" src="https://www.youtube.com/embed/qbjhNFjrYq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-La segunda edición de este ciclo de charlas del Hub-LAC se realizará el próximo viernes 22 de setiembre y su tema -en el marco de la [Semana de la movilidad](https://es.wikipedia.org/wiki/Semana_Europea_de_la_Movilidad) y del [Dia mundial sin auto](https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_Sin_Autom%C3%B3vil)- será el mapeo del transporte.
+La segunda edición de este ciclo de charlas del Hub-LAC se realizará el próximo viernes 22 de setiembre y su tema -en el marco de la [Semana de la movilidad](https://es.wikipedia.org/wiki/Semana_Europea_de_la_Movilidad) y del [Dia mundial sin auto](https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_Sin_Autom%C3%B3vil)- será el mapeo del transporte público urbano.
 
-En esta ocasión participarán Juan Manuel Bermeja - Director de Planeación y Proyectos, Cocotra Michoacán, Sandra Hernández Zetina - Profesora, Facultad de Geografía, UAEMéx y Vanessa Millán - Subdirectora de Movilidad, Ayuntamiento de Zitácuaro Michoacán, acompañando a [Celine Jacquin](https://www.hotosm.org/people/celine-jacquin/), Senior Manager de HOT, en la conversación.
+En esta ocasión participarán Juan Manuel Berdeja - Director de Planeación y Proyectos, COCOTRA Michoacán, Sandra Hernández Zetina - Profesora, Facultad de Geografía, UAEMéx y Vanessa Millán - Subdirectora de Movilidad, Ayuntamiento de Zitácuaro Michoacán, acompañando a [Celine Jacquin](https://www.hotosm.org/people/celine-jacquin/), Gerente Regional de HOT, en la conversación.
 
 La transmisión podrá ser vista en vivo por [nuestro canal](https://www.youtube.com/@hubmapeoabiertoALC/streams) de YouTube. No se la pierdan!
 
