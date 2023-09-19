@@ -30,6 +30,7 @@ La segunda edición de este ciclo de charlas del Hub-LAC se realizará el próxi
 
 La transmisión podrá ser vista en vivo por [nuestro canal](https://www.youtube.com/@hubmapeoabiertoALC/streams) de YouTube. No se la pierdan!
 
+![photo_4915984413150523191_y.jpg](/uploads/photo_4915984413150523191_y.jpg)
 .
 
 *Conoce también [cómo colaboramos](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) con los Institutos Nacionales de Geografía.*
