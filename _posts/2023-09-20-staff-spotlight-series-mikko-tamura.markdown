@@ -7,7 +7,7 @@ Summary Text: Each quarter, we’re featuring one of our all-star staff members 
   their superb performance and values-driven work. This quarter, we’re spotlighting
   Mikko Tamura, Community Manager at the Asia-Pacific (AP) Hub.
 Feature Image: "/uploads/76726014_10158909212068222_6785901568647495680_n.jpg"
-Person: Mikko Tamura
+Person: Dana Gallaty
 ---
 
 ## What first attracted you to work at HOT?
