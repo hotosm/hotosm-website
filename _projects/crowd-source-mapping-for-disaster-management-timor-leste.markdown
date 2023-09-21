@@ -1,7 +1,5 @@
 ---
-title: |-
-  Crowd-Source Mapping for Disaster Management
-  (Timor Leste)
+title: Crowd-Source Mapping for Disaster Management (Timor Leste)
 date: 2023-05-16 20:41:00 Z
 Project Summary Text: Equipping local communities with the ability to use OSM for
   decision-making and providing relevant information/attributes for disaster management.
