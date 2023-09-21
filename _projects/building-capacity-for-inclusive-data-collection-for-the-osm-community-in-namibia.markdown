@@ -1,7 +1,5 @@
 ---
-title: |-
-  Building Capacity for Inclusive Data Collection for the OSM Community
-  in Namibia
+title: Building Capacity for Inclusive Data Collection for the OSM Community in Namibia
 date: 2023-05-16 20:01:00 Z
 tags:
 - Sustainable cities and communities
