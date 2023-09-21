@@ -1,7 +1,5 @@
 ---
-title: |-
-  Participatory transport mapping in
-  Zitácuaro, Michoacán
+title: Participatory transport mapping in Zitácuaro, Michoacán
 date: 2023-05-16 22:23:00 Z
 categories:
 - access to services
