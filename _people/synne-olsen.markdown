@@ -1,9 +1,10 @@
 ---
 title: Synne Olsen
 date: 2022-06-25 15:22:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Profile+pic_synne.png
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Open Innovation Facilitator
 Country: Denmark
 Team: Global
