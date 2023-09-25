@@ -13,6 +13,9 @@ General Inquiries:
   - |-
     **Board**
     [board@hotosm.org](mailto:board@hotosm.org)
+  - |-
+    **Media Inquiries**
+    [media@hotosm.org](mailto:media@hotosm.org)
   Nav ID: email
 Office Locations:
   Locations:
