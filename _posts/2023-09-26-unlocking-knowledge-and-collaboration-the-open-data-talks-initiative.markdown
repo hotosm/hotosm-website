@@ -2,11 +2,12 @@
 title: 'Unlocking Knowledge and Collaboration: The Open Data Talks Initiative'
 date: 2023-09-26 16:17:00 Z
 published: false
-Summary Text: In the second quarter of 2023, HOT’s Open Mapping Hub - Eastern & Southern
-  Africa hub (OMH-ESA), in collaboration with open data champions and organizations
-  in Kenya, held a series of talks under the Open Data Talks (ODT) program. This blog
-  post delves into the key findings, challenges, outcomes, successes, and recommendations
-  stemming from the ODT events.
+Summary Text: In the second quarter of 2023, [HOT’s Open Mapping Hub - Eastern & Southern
+  Africa (OMH-ESA)](https://www.hotosm.org/hubs/open-mapping-hub-eastern-and-southern-africa),
+  in collaboration with open data champions and organizations in Kenya, held a series
+  of talks under the Open Data Talks (ODT) program. This blog post delves into the
+  key findings, challenges, outcomes, successes, and recommendations stemming from
+  the ODT events.
 Feature Image: "/uploads/ODT1to1.png"
 Person: Osunga Michael Otieno
 ---
@@ -18,6 +19,7 @@ Person: Osunga Michael Otieno
 The Open Data Talks initiative aims to establish a knowledge-sharing platform for open data enthusiasts in Kenya through a series of lightning talks, Open Mic Show-and-Tell Sessions, and engaging discussions. 
 
 ![ODTFramework.png](/uploads/ODTFramework.png)
+
 *ODT rationale infographic. Source: OMH-ESA.*
 
 The primary goals are:
@@ -31,7 +33,7 @@ The primary goals are:
 The success of ODT events hinges on their unique approach:
 * After-Office-Hours: By scheduling events after regular working hours, ODT ensures higher attendance, greater flexibility for participants, exposure to a diverse audience, enhanced productivity, extended access to facilities, and promoting work diversity.
 * Unique Venue Locations: Selecting distinctive venues adds an element of excitement, leaving attendees eager to participate and creating a memorable networking experience.
-* Fun-Filled and Engaging Program: By incorporating fun and engaging activities like board games (e.g., Jenga), ODT events ensure active participation, attendee satisfaction, improved team dynamics, and interactive networking sessions.
+* Fun-Filled and Engaging Programs: By incorporating fun and engaging activities like board games (e.g., *Jenga*), ODT events ensure active participation, attendee satisfaction, improved team dynamics, and interactive networking sessions.
 
 ![ODTJenga.png](/uploads/ODTJenga.png)
 *ODT participants play Jenga as part of fun-filled activities. Source: OMH-ESA.*
@@ -47,13 +49,17 @@ Seventeen individuals from various organizations were invited to speak and atten
 
 Four of the seventeen individuals who attended the inaugural event were invited to speak and provide an overview of how they use open data in advancing their organizational mandates. These organizations included:
 
-1. The Kenya Space Agency (KSA)
+1. The Kenya Space Agency (KSA): 
+
 KSA was invited to speak on how they use open data to enhance social and economic development through space technology in Kenya.
-2. Digital Earth Africa (DEA)
+2. Digital Earth Africa (DEA):
+
 DEA focused on how they use open data to improve the lives of people across the African continent through the utilization of Earth observation.
-3. Kenya Red Cross Society (KRCS)
+3. Kenya Red Cross Society (KRCS):
+
 KRCS spoke on using open data to strengthen disaster risk management in Kenya.
-4. Association of Freelance Journalists - Kenya (AFJ)
+4. Association of Freelance Journalists - Kenya (AFJ):
+
 AFJ spoke about how they use open data to advance and promote an informed and gender-responsive society in Kenya and Africa.
 
 ## ODT 2.0
