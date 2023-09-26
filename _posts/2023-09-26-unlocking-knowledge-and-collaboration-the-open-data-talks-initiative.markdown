@@ -1,7 +1,6 @@
 ---
 title: 'Unlocking Knowledge and Collaboration: The Open Data Talks Initiative'
 date: 2023-09-26 16:17:00 Z
-published: false
 Summary Text: In the second quarter of 2023, <a href="https://www.hotosm.org/hubs/open-mapping-hub-eastern-and-southern-africa">HOT’s
   Open Mapping Hub - Eastern & Southern Africa (OMH-ESA)</a>, in collaboration with
   open data champions and organizations in Kenya, held a series of talks under the
