@@ -48,21 +48,10 @@ Seventeen individuals from various organizations were invited to speak and atten
 
 Four of the seventeen individuals who attended the inaugural event were invited to speak and provide an overview of how they use open data in advancing their organizational mandates. These organizations included:
 
-1. The Kenya Space Agency (KSA): 
-
-KSA was invited to speak on how they use open data to enhance social and economic development through space technology in Kenya.
-
-2. Digital Earth Africa (DEA):
-
-DEA focused on how they use open data to improve the lives of people across the African continent through the utilization of Earth observation.
-
-3. Kenya Red Cross Society (KRCS):
-
-KRCS spoke on using open data to strengthen disaster risk management in Kenya.
-
-4. Association of Freelance Journalists - Kenya (AFJ):
-
-AFJ spoke about how they use open data to advance and promote an informed and gender-responsive society in Kenya and Africa.
+1. The Kenya Space Agency (KSA): KSA was invited to speak on how they use open data to enhance social and economic development through space technology in Kenya.
+2. Digital Earth Africa (DEA): DEA focused on how they use open data to improve the lives of people across the African continent through the utilization of Earth observation.
+3. Kenya Red Cross Society (KRCS): KRCS spoke on using open data to strengthen disaster risk management in Kenya.
+4. Association of Freelance Journalists - Kenya (AFJ): AFJ spoke about how they use open data to advance and promote an informed and gender-responsive society in Kenya and Africa.
 
 ## ODT 2.0
 
