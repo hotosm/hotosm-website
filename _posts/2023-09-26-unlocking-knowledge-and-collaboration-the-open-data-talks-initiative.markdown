@@ -2,12 +2,11 @@
 title: 'Unlocking Knowledge and Collaboration: The Open Data Talks Initiative'
 date: 2023-09-26 16:17:00 Z
 published: false
-Summary Text: In the second quarter of 2023, [HOT’s Open Mapping Hub - Eastern & Southern
-  Africa (OMH-ESA)](https://www.hotosm.org/hubs/open-mapping-hub-eastern-and-southern-africa),
-  in collaboration with open data champions and organizations in Kenya, held a series
-  of talks under the Open Data Talks (ODT) program. This blog post delves into the
-  key findings, challenges, outcomes, successes, and recommendations stemming from
-  the ODT events.
+Summary Text: In the second quarter of 2023, <a href="https://www.hotosm.org/hubs/open-mapping-hub-eastern-and-southern-africa">HOT’s
+  Open Mapping Hub - Eastern & Southern Africa (OMH-ESA)</a>, in collaboration with
+  open data champions and organizations in Kenya, held a series of talks under the
+  Open Data Talks (ODT) program. This blog post delves into the key findings, challenges,
+  outcomes, successes, and recommendations stemming from the ODT events.
 Feature Image: "/uploads/ODT1to1.png"
 Person: Osunga Michael Otieno
 ---
@@ -52,12 +51,15 @@ Four of the seventeen individuals who attended the inaugural event were invited 
 1. The Kenya Space Agency (KSA): 
 
 KSA was invited to speak on how they use open data to enhance social and economic development through space technology in Kenya.
+
 2. Digital Earth Africa (DEA):
 
 DEA focused on how they use open data to improve the lives of people across the African continent through the utilization of Earth observation.
+
 3. Kenya Red Cross Society (KRCS):
 
 KRCS spoke on using open data to strengthen disaster risk management in Kenya.
+
 4. Association of Freelance Journalists - Kenya (AFJ):
 
 AFJ spoke about how they use open data to advance and promote an informed and gender-responsive society in Kenya and Africa.
