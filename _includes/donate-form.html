@@ -1,5 +1,4 @@
 <div class="donation-form-container" style="text-align:left;">
-
 <div id="donation-form"></div>
 <script src="https://cdn.donately.com/core/5.6/donately.min.js"></script>
 <script>
@@ -7,21 +6,21 @@ document.addEventListener('DOMContentLoaded', function(){
   Donately.init({
     selector: '#donation-form',
     options: {
-        "donately-id":"act_6050cafb6dc1",
-        "stripe-publishable-key":"pk_live_V98OphdHjflWilBEfL1IK28w",
-        "donately-form-id":"frm_d317bd5dd6fd",
-        "donately-presets":"20,50,100,500,1000",
-        "donately-amount":"{\"default\":\"50\"}",
-        "donately-currency":"USD",
-        "donately-payment-options":"cc,ach",
-        "donately-recurring-frequency":"[\"false\",\"1.month\"]",
-        "donately-donor-pays-fees":"{\"ach\":{\"processor_percent\":\"0.008\",\"processor_fixed\":\"0\",\"processor_cap\":\"5.00\",\"dntly_percent\":\"0.03\"},\"preselected\":true}",
-        "donately-billing-zip":"true",
-        "donately-comment":true,
-        "donately-anonymous":true,
-        "donately-i18n-locale":"en_US",
-        "donately-form-navigation":"{\"steps\":[[\"presets\",\"amount\",\"donorpaysfees\",\"recurringgroup\",\"paymentmethods\",\"namegroup\",\"email\",\"billingzip\",\"comment\",\"onbehalf\",\"anonymous\",\"submit\"]]}",
-        "donately-onbehalf":true,
+      "donately-id":"act_6050cafb6dc1",
+      "stripe-publishable-key":"pk_live_V98OphdHjflWilBEfL1IK28w",
+      "donately-form-id":"frm_d317bd5dd6fd",
+      "donately-presets":"20,50,100,500,1000",
+      "donately-amount":"{\"default\":\"50\"}",
+      "donately-currency":"USD,EUR,GBP,CAD",
+      "donately-payment-options":"cc,ach",
+      "donately-recurring-frequency":"[\"false\",\"1.month\"]",
+      "donately-donor-pays-fees":"{\"cc\":{\"processor_percent\":0.029,\"processor_fixed\":0.3,\"processor_cap\":\"\",\"dntly_percent\":0.02,\"complex_calc\":true},\"ach\":{\"processor_percent\":0.008,\"processor_fixed\":0,\"processor_cap\":5,\"dntly_percent\":0.02,\"complex_calc\":true},\"preselected\":true}",
+      "donately-billing-zip":"true",
+      "donately-comment":true,
+      "donately-anonymous":true,
+      "donately-i18n-locale":"en_US",
+      "donately-form-navigation":"{\"steps\":[[\"presets\",\"amount\",\"donorpaysfees\",\"recurringgroup\",\"paymentmethods\",\"namegroup\",\"email\",\"billingzip\",\"comment\",\"onbehalf\",\"anonymous\",\"submit\"]]}",
+      "donately-onbehalf":true,
     },
     afterFormLoad: function() {},
     afterNavigateHook: function(stepNumber) {},
@@ -30,5 +29,4 @@ document.addEventListener('DOMContentLoaded', function(){
   })
 }, false);
 </script>
-
 </div>
