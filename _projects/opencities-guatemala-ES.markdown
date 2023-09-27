@@ -88,8 +88,17 @@ Con la implementación del Plan de Fortalecimiento de Capacidades sobre Mapeo Ab
 
 ![LAC_OpenCitiesGT_10.webp](/uploads/LAC_OpenCitiesGT_10.webp)
 
-## El presente
 
-Actualmente, el proyecto se encuentra en su Fase Dos de Mapeo, la cual comprende la construcción de compromiso comunitario, la capacitación, recopilación y  procesamiento de datos. En esta fase, el equipo de Geotecnológica, en conjunto con la comunidad de mapeadores, aborda las brechas de datos críticos relevantes para atender el déficit de información para la gestión forestal de la comunidad.  En este sentido, el enfoque principal es lograr un nivel adecuado de compromiso e involucramiento de los actores locales de San José Poaquil para participar del proyecto y sus actividades, a través del desarrollo participativo del modelo de datos forestal, para así lograr el fortalecimiento de capacidades y llenar los vacíos de datos para el ordenamiento forestal y comunitario.
+La Fase Dos del proyecto ha consistido en la construcción de compromiso comunitario, la capacitación, recopilación y procesamiento de datos con participación de personas de la comunidad. En esta fase, el equipo de Geotecnológica ha abordado las brechas de datos críticos relevantes para atender el déficit de información para la gestión forestal de la comunidad.
 
-Durante esta fase, el equipo de Geotecnológica acompañará un esfuerzo de recopilación de datos siguiendo un enfoque participativo y previamente acordado con las partes interesadas del proyecto para así abordar no solo las problemáticas de la brecha de información, sino un involucramiento de los gestores forestales y territoriales de la comunidad en el proceso de recopilación de datos.
+Se ha trabajado especialmente en lograr un nivel adecuado de compromiso e involucramiento de los actores locales de San José Poaquil a través del desarrollo participativo del modelo de datos forestal, para así llenar los vacíos de datos necesarios para el ordenamiento forestal y comunitario.
+
+## Cierre del Proyecto
+
+El proyecto ha culminado con éxito al completar la recopilación exhaustiva de información, incluyendo datos adicionales relacionados con la monitorización de incendios forestales que han ocurrido durante el período de ejecución. Además, se ha fortalecido las competencias técnicas de la comunidad de San José Poaquil a través de actividades adicionales.
+
+La información completa, junto con una plataforma tecnológica que permite la visualización de datos y el cruce de información, así como la inserción de datos recopilados en campo en el futuro, ha sido entregada a la Asociación Sotz'il, quien actúa como coordinador del Mecanismo Dedicado Específico para Pueblos Indígenas y Comunidades Locales (MDE).
+
+Estos productos ahora están alojados en un servidor de acceso público en la infraestructura de la misma asociación, para la cual también se han desarrollado capacidades de gestión entre el personal técnico.
+
+Actualmente, estamos en conversaciones para orientar próximas réplicas del proyecto en otras comunidades del país que podrían beneficiarse del mismo MDE.
