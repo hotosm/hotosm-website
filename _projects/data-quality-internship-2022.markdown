@@ -26,8 +26,8 @@ During the program, participants were led through a series of webinars hosted by
 
 There is a large backlog of HOT projects on the [Tasking Manager](https://tasks.hotosm.org/) that are awaiting validation so there is a need to validate them to ensure the data quality conforms to [HOT’s data quality aspects](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/top_10_data_quality_aspects). During the DQI, we aimed to validate 100 projects across the 3-month internship. 
 
-**(2) Diverse and engaged community of validators
-**
+**(2) Foster a diverse and engaged community of validators**
+
 There is a need to ensure a sustainable community of OSM contributors and make sure that there is continuity of data flow and maintenance in OSM. During the DQI, participants were coached in community engagement to work with their local osm communities.  Additionally, there are many more contributors who map, versus contributors who validate. We need to ensure that as the mapper community grows, the validator community grows simultaneously. 
 
 The HOT Data Quality Internship employed 28 interns, with 15 identifying as men and 13 identifying as women, over 3 months. 
