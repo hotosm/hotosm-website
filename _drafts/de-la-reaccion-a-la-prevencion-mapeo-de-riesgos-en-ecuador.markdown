@@ -21,11 +21,11 @@ En consecuencia, el 12 de septiembre pasado [se lanzó](https://twitter.com/mape
 
 ![riesgoton1-c549e4.jpg](/uploads/riesgoton1-c549e4.jpg)
 
-Desde sus propias prioridades y acompañada por el Equipo Humanitario de OpenStreetMap - HOT, la Secretaría definió un conjunto de áreas prioritarias, con las cuales se realizó un análisis de vulnerabilidad, involucrando a un equipo multidisciplinario de estudiantes de la Universidad de las Fuerzas Armadas ESPE en el desarrollo del estudio y en la creación de proyectos de mapeo en el Tasking Manager de HOT.
+Desde sus propias prioridades y acompañada por el Equipo Humanitario de OpenStreetMap - HOT, la Secretaría definió un conjunto de áreas prioritarias, con las cuales se realizó un análisis de vulnerabilidad, involucrando a un equipo multidisciplinario de estudiantes de la Universidad de las Fuerzas Armadas ESPE en el desarrollo del estudio y en la creación de [proyectos de mapeo](https://tasks.hotosm.org/explore?text=riesgos\+Ecuador) en el Tasking Manager de HOT.
 
-Desde el día de lanzamiento hasta el mes de noviembre, HOT y el grupo Geomap-Espe Youthmappers liderarán actividades continuas de capacitación - en grupos limitados a funcionarios nacionales y luego al público en general - y mapatones, a razón de dos a tres veces por semana.
+Desde el día de lanzamiento hasta el mes de noviembre, HOT y el grupo [Geomap-Espe Youthmappers](https://www.facebook.com/profile.php?id=100064128518686) liderarán [actividades continuas de capacitación](https://twitter.com/mapeoabierto_la/status/1702758130466042244) - en grupos limitados a funcionarios nacionales y luego abiertos al público en general - y mapatones, a razón de dos a tres veces por semana.
 
-También se prevén mapatones presenciales en universidades de Quito, la capital de Ecuador, y actividades de mapeo y de presentación de resultados en el 50vo Aniversario del Centro Panamericano de Estudios e Investigaciones Geográficas – CEPEIGE.
+También se prevén mapatones presenciales en universidades de Quito, la capital de Ecuador, y actividades de mapeo y de presentación de resultados en el 50 Aniversario del Centro Panamericano de Estudios e Investigaciones Geográficas – [CEPEIGE](https://aniversario50.cepeige.org/).
 
 **El mapeo realizado hasta el momento en cifras**
 
@@ -34,7 +34,9 @@ Contribuidores en Mapswipe: 124
 Área mapeada: 2083\+1264 km2
 Participantes de las actividades en línea hasta el momento: 296
 
-\(https://mapswipe.org/en/projects/-Nes80bNu__CBhTzhB4Z/)
+![33.jpg](/uploads/33.jpg)
+
+*(https://mapswipe.org/en/projects/-Nes80bNu__CBhTzhB4Z/)*
 
 **Llamado a mapeadores!**
 
