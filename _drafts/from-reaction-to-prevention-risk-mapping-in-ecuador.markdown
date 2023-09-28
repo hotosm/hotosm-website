@@ -3,46 +3,46 @@ title: 'From reaction to prevention: Risk mapping in Ecuador'
 date: 2023-09-28 01:51:00 Z
 ---
 
-Luego del [mapeo en respuesta a las inundaciones](https://www.hotosm.org/updates/El-mapeo-como-respuesta-al-desastre-en-Esmeraldas-Ecuador/) en la región de Las Esmeraldas, Ecuador, que se realizó en coordinación con la [Secretaría de Gestión de Riesgos](https://www.gestionderiesgos.gob.ec/) de dicho país, esta institución acordó continuar colaborando con el Hub de Mapeo Abierto, esta vez en la preparación de la cartografía para apoyar a la gestión de los posibles impactos del [fenómeno del Niño 2023-2024](https://es.wikipedia.org/wiki/Evento_de_El_Ni%C3%B1o_de_2023-2024).
+After [mapping in response to floods](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/) in the Las Esmeraldas region, Ecuador, which was carried out in coordination with the [Risk Management Secretariat](https://www.gestionderiesgos.gob.ec/) of said country, this institution agreed to continue collaborating with the [LAC Open Mapping Hub](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean), this time in the preparation of cartography to support the management of the possible impacts of the [El Niño phenomenon](https://en.wikipedia.org/wiki/El_Ni%C3%B1o).
 
-A partir de esta experiencia positiva previa, se pensó un amplio mapatón al que la Secretaría de Gestión de Riesgos invitó a numerosos actores y empresas para proporcionar una variedad de capacitaciones al público y funcionarios, incluyendo una iniciativa continuada de mapeo remoto en OpenStreetMap de las zonas calificadas como de alta vulnerabilidad ante el fenómeno del Niño.
+Based on this previous positive experience, a large map-thon was planned to which the Risk Management Secretariat invited numerous actors e institutions to provide a variety of training to the public and officials, including a continued remote mapping initiative in OpenStreetMap of the areas classified as highly vulnerable to the El Niño phenomenon.
 
 ![El_Niño_in_July_2023.png](/uploads/El_Ni%C3%B1o_in_July_2023.png)
 
-*Fuente de la imagen: [Wikimedia](https://commons.m.wikimedia.org/wiki/File:El_Ni%C3%B1o_in_July_2023.png)*
+*Image source: [Wikimedia](https://commons.m.wikimedia.org/wiki/File:El_Ni%C3%B1o_in_July_2023.png)*
 
-El objetivo de la actividad es generar información que la Secretaría de Gestión de Riesgo pueda analizar, y aprovechar en su planificación como complemento de los datos de nivel nacional con los que usualmente cuenta, pero que a veces no llegan al nivel de granularidad necesario: construcciones, caminos existentes e infraestructura económica.
+The objective of the activity is to generate information that the Risk Management Secretariat can analyze, and take advantage of in its planning as a complement to the national level data that it usually has, but that sometimes do not reach the necessary level of granularity: buildings, existing roads and economic infrastructure.
 
-Todos estos objetos cartográficos son esenciales para estimar el daño en términos de población y de producción, y para las políticas de recuperación ante desastres como el fenómeno de la Niña y del Niño. Estos datos servirán de la misma manera para cualquier otro desafío en el futuro, y quedan disponibles para cualquier actor que los necesite.
+All these cartographic objects are essential for estimating damage in terms of population and production, and for recovery policies against disasters such as the La Niña and El Niño phenomenon. This data will be used in the same way for any other challenge in the future, and is available to any actor who needs it.
 
-La colaboración tiene además el objetivo secundario de desarrollar un tejido civil universitario y empresarial con la capacidad de participar en futuras necesidades de generación colaborativa de datos. Este conjunto de personas, empresas y organizaciones tendrá el potencial de detallar la cartografía de áreas complementarias a las trabajadas así como actualizar el mapa en cualquier momento.
+The collaboration also has the secondary objective of developing a university and business civil fabric with the capacity to participate in future collaborative data generation needs. This group of people, institutions and organizations will have the potential to detail the cartography of areas complementary to those worked on as well as update the map at any time.
 
-En consecuencia, el 12 de septiembre pasado [se lanzó](https://twitter.com/mapeoabierto_la/status/1701663347802870119) el **Riesgotón**, un conjunto de actividades de mapeo (talleres, mapatones) con la finalidad de prevenir los desastres que pudieran ocurrir debido al fenómeno del Niño en Ecuador. Se puede apreciar la transmisión del lanzamiento en [este enlace](https://www.facebook.com/watch/live/?ref=watch_permalink&v=4235125880045790&_rdc=1&_rdr) de Facebook (adelantar al minuto 3.50 para iniciar).
+Consequently, on September 12, **Riesgotón** [was launched](https://twitter.com/mapeoabierto_la/status/1701663347802870119), a set of mapping activities (workshops, Mapathons) with the purpose of preventing disasters that could occur due to the El Niño phenomenon in Ecuador. You can see the broadcast of the launch in this [Facebook link](https://www.facebook.com/watch/live/?ref=watch_permalink&v=4235125880045790&_rdc=1&_rdr) in Spanish. (Fast forward to minute 3.50 to start).
 
 ![riesgoton1-c549e4.jpg](/uploads/riesgoton1-c549e4.jpg)
 
-Desde sus propias prioridades y acompañada por el Equipo Humanitario de OpenStreetMap - HOT, la Secretaría definió un conjunto de áreas prioritarias, con las cuales se realizó un análisis de vulnerabilidad, involucrando a un equipo multidisciplinario de estudiantes de la Universidad de las Fuerzas Armadas ESPE en el desarrollo del estudio y en la creación de [proyectos de mapeo](https://tasks.hotosm.org/explore?text=riesgos\+Ecuador) en el Tasking Manager de HOT.
+Based on its own priorities and accompanied by the Humanitarian OpenStreetMap Team - HOT, the Secretariat defined a set of priority areas, with which a vulnerability analysis was carried out, involving a multidisciplinary team of students from the University of the Armed Forces ESPE in the development of the study and the creation of [mapping projects](https://tasks.hotosm.org/explore?text=risks+Ecuador) in HOT's Tasking Manager.
 
-Desde el día de lanzamiento hasta el mes de noviembre, HOT y el grupo [Geomap-Espe Youthmappers](https://www.facebook.com/profile.php?id=100064128518686) liderarán [actividades continuas de capacitación](https://twitter.com/mapeoabierto_la/status/1702758130466042244) - en grupos limitados a funcionarios nacionales y luego abiertos al público en general - y mapatones, a razón de dos a tres veces por semana.
+From launch day until November, HOT and the [Geomap-Espe Youthmappers](https://www.facebook.com/profile.php?id=100064128518686) group will lead [ongoing virtual training activities](https://twitter.com/mapeoabierto_la/status/1702758130466042244) - in groups limited to national officials and then to the general public - and Mapathons, at a rate of two to three times a week.
 
-También se prevén mapatones presenciales en universidades de Quito, la capital de Ecuador, y actividades de mapeo y de presentación de resultados en el 50 Aniversario del Centro Panamericano de Estudios e Investigaciones Geográficas – [CEPEIGE](https://aniversario50.cepeige.org/).
+In-person Mapathons are also planned at universities in Quito, the capital of Ecuador, and mapping activities and presentation of results at the 50th Anniversary of the Pan American Center for Geographic Studies and Research – [CEPEIGE](https://aniversario50.cepeige.org/).
 
-**El mapeo realizado hasta el momento en cifras**
+**The mapping carried out so far in figures**
 
-Contribuidores en el Tasking Manager: 165
-Contribuidores en Mapswipe: 124
-Área mapeada: 2083\+1264 km2
-Participantes de las actividades en línea hasta el momento: 296
+Contributors in the Tasking Manager: 165
+Contributors on Mapswipe: 124
+Mapped area: 2083+1264 km2
+Participants of online activities so far: 296
 
 ![33.jpg](/uploads/33.jpg)
 
 *(https://mapswipe.org/en/projects/-Nes80bNu__CBhTzhB4Z/)*
 
-**Llamado a mapeadores!**
+**Calling mappers!**
 
-Convocamos a la comunidad mapeadora de Openstreetmap nacional, regional y global, así como a la comunidad de [Missing Maps](https://www.missingmaps.org/), a participar en el mapeo preventivo de Ecuador, mientras se preparan apoyos similares en más países en relación con el fenómeno del Niño, que es de los fenómenos climáticos más destructores en la región sudamericana y por el cual ya se ha considerado en alerta naranja a la región andina.
+We call on the national, regional and global Openstreetmap mapping community, as well as the [Missing Maps](https://www.missingmaps.org/) community, to participate in the preventive mapping of Ecuador, while similar support is being prepared in more countries in relation to the El Niño phenomenon, which is one of the most destructive climatic phenomena in the South American region and for which the Andean region has already been considered on orange alert.
 
-En HOT seguimos atendiendo los desastres de la región en articulación con las instituciones de gobierno y organizaciones privadas encargadas de la acción humanitaria. Pero estaremos también desarrollando un gran esfuerzo de mapeo abierto preventivo en la medida de lo posible. De esta manera pretendemos ayudar a la región a avanzar consistentemente en su preparación ante los desastres.
+At HOT we continue to respond to disasters in the region in coordination with government institutions and private organizations in charge of humanitarian action. But we will also be developing a large preventive open mapping effort to the extent possible. In this way we intend to help the region advance consistently in its disaster preparedness. 
 
 En el contexto de América Latina y el Caribe es aún muy notoria la falta de datos geográficos de escala local, que son clave para apoyar a la población en situaciones de emergencia pero también en cualquier otra situación de planeación y desarrollo. Esto significará un esfuerzo grande de mapeo colaborativo para el que estaremos invitando constantemente al público a participar y capacitándolos para la mayor calidad de datos posible.
 
