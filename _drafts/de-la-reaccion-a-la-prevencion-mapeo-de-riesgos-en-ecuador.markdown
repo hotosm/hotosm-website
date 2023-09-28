@@ -40,7 +40,7 @@ Participantes de las actividades en línea hasta el momento: 296
 
 **Llamado a mapeadores!**
 
-Convocamos a la comunidad mapeadora de Openstreetmap nacional, regional y global, así como a la comunidad de Missing Maps, a participar en el mapeo preventivo de Ecuador, mientras se preparan apoyos similares en más países en relación con el fenómeno del Niño, que es de los fenómenos climáticos más destructores en la región sudamericana y por el cual ya se ha considerado en alerta naranja a la región andina.
+Convocamos a la comunidad mapeadora de Openstreetmap nacional, regional y global, así como a la comunidad de [Missing Maps](https://www.missingmaps.org/), a participar en el mapeo preventivo de Ecuador, mientras se preparan apoyos similares en más países en relación con el fenómeno del Niño, que es de los fenómenos climáticos más destructores en la región sudamericana y por el cual ya se ha considerado en alerta naranja a la región andina.
 
 En HOT seguimos atendiendo los desastres de la región en articulación con las instituciones de gobierno y organizaciones privadas encargadas de la acción humanitaria. Pero estaremos también desarrollando un gran esfuerzo de mapeo abierto preventivo en la medida de lo posible. De esta manera pretendemos ayudar a la región a avanzar consistentemente en su preparación ante los desastres.
 
