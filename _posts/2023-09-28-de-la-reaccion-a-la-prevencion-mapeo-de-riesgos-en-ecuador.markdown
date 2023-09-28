@@ -46,8 +46,11 @@ También se prevén mapatones presenciales en universidades de Quito, la capital
 **El mapeo realizado hasta el momento en cifras**
 
 Contribuidores en el Tasking Manager: 165
+
 Contribuidores en Mapswipe: 124
+
 Área mapeada: 2083\+1264 km2
+
 Participantes de las actividades en línea hasta el momento: 296
 
 ![33.jpg](/uploads/33.jpg)
