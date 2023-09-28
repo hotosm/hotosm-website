@@ -1,7 +1,6 @@
 ---
 title: Nuestro Informe de Impacto 2022 - 2023 ¡Ahora en español!
 date: 2023-09-27 17:41:00 Z
-published: false
 Summary Text: ¡Con mucha emoción queremos compartirles que nuestro Informe de Impacto
   2022-2023 <a href="https://www.hotosm.org/uploads/2022-2023-ImpactReport2.0_Spanish.pdf">ahora
   está disponible en español</a>!
