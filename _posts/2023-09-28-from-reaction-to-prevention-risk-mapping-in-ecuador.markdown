@@ -52,7 +52,7 @@ Mapped area: 2083\+1264 km2
 
 Participants of online activities so far: 296
 
-![33.jpg](/uploads/33.jpg)
+![33-17be42.jpg](/uploads/33-17be42.jpg)
 
 *(https://mapswipe.org/en/projects/-Nes80bNu__CBhTzhB4Z/)*
 
