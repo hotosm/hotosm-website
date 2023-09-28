@@ -11,3 +11,5 @@ Feature Image: "/uploads/Screenshot%202023-09-28%20at%208.47.29%20AM.png"
 En este informe, hacemos una reflexión sobre los cambios por los que ha pasado HOT desde su creación en 2010 después del terremoto de Haití. En este documento encontrarán cómo nos estamos consolidando como **un catalizador de mapeo comunitario** a través de nuestros [cuatro Hubs regionales](https://www.hotosm.org/hubs/), siguiendo los principios de nuestra ["Estrategia Viva"](https://www.hotosm.org/living-strategy). También encontrarán información sobre [nuestros avances tecnológicos](https://www.hotosm.org/tools-and-data) y los hitos alcanzados este año, mientras nos acercamos a nuestra meta de **mapear el área en la que viven mil millones de personas**. 
 
 Lee el informe completo [aquí](https://www.hotosm.org/uploads/2022-2023-ImpactReport2.0_Spanish.pdf)!.
+
+[Versión en inglés.](https://www.hotosm.org/annual-reports/2022-2023-impact-report/)
