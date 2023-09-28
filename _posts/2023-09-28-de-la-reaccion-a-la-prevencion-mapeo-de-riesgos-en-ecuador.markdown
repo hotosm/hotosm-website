@@ -61,3 +61,11 @@ Convocamos a la comunidad mapeadora de Openstreetmap nacional, regional y global
 En HOT seguimos atendiendo los desastres de la región en articulación con las instituciones de gobierno y organizaciones privadas encargadas de la acción humanitaria. Pero estaremos también desarrollando un gran esfuerzo de mapeo abierto preventivo en la medida de lo posible. De esta manera pretendemos ayudar a la región a avanzar consistentemente en su preparación ante los desastres.
 
 En el contexto de América Latina y el Caribe es aún muy notoria la falta de datos geográficos de escala local, que son clave para apoyar a la población en situaciones de emergencia pero también en cualquier otra situación de planeación y desarrollo. Esto significará un esfuerzo grande de mapeo colaborativo para el que estaremos invitando constantemente al público a participar y capacitándolos para la mayor calidad de datos posible.
+
+*Conoce también [cómo colaboramos](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) con los Institutos Nacionales de Geografía.*
+
+*Si quieres ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
+
+*Si eres parte de alguna organización que desea explorar cómo colaborar en un proyecto de cartografía digital, escribe un correo a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Proyectos LAC**.*
+
+**Síguenos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).**
