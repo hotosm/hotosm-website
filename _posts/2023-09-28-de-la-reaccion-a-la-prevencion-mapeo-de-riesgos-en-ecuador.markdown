@@ -1,7 +1,22 @@
 ---
 title: 'De la reacción a la prevención: Mapeo de riesgos en Ecuador'
 date: 2023-09-28 01:20:00 Z
+categories:
+- Mapping
+- news
+tags:
+- Ecuador
+- gestion de riesgos
+- mapeo abierto
+- mapatones
+Summary Text: Con un Fenómeno del Niño en desarrollo para este 2023-2024, el mapeo
+  preventivo de desastres se vuelve una herramienta crucial para minimizar daños y
+  victimas en los territorios. Y eso es lo que estamos haciendo en Ecuador junto a
+  la Secretaría de Riesgos.
 Feature Image: "/uploads/F6bSRsKW8AAuB7O.jpg"
+Person: Céline Jacquin
+Country:
+- Ecuador
 ---
 
 Luego del [mapeo en respuesta a las inundaciones](https://www.hotosm.org/updates/El-mapeo-como-respuesta-al-desastre-en-Esmeraldas-Ecuador/) en la región de Las Esmeraldas, Ecuador, que se realizó en coordinación con la [Secretaría de Gestión de Riesgos](https://www.gestionderiesgos.gob.ec/) de dicho país, esta institución acordó continuar colaborando con el Hub de Mapeo Abierto, esta vez en la preparación de la cartografía para apoyar a la gestión de los posibles impactos del [fenómeno del Niño 2023-2024](https://es.wikipedia.org/wiki/Evento_de_El_Ni%C3%B1o_de_2023-2024).
