@@ -6,6 +6,7 @@ Member Type:
   Is Voting Member: true
 Country: Kenya
 Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Laura%20Mugeha
   Twitter: https://twitter.com/laura_mugeha
   LinkedIn: https://www.linkedin.com/in/laura-mugeha
   Website: https://lauramugeha.bio
