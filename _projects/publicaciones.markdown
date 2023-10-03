@@ -16,11 +16,36 @@ Impact Area:
 ---
 
 ## Las publicaciones
+
 Van de la más reciente a la más antigua.
+
+28/09/2023 - [De la reacción a la prevención: Mapeo de riesgos en Ecuador](https://www.hotosm.org/updates/de-la-reaccion-a-la-prevencion-mapeo-de-riesgos-en-ecuador/)
+
+18/09/2023 - [Ciclo de charlas humanitarias y cartográficas del Hub-LAC](https://www.hotosm.org/updates/ciclo-de-charlas-humanitarias-y-cartograficas-del-hub-lac/)
+
+30/08/2023 -[ Is the Caribbean Open Mapping Community Poised to Map its Way to Greater Disaster Resilience?](https://www.hotosm.org/updates/is-the-caribbean-open-mapping-community-poised-to-map-its-way-to-greater-disaster-resilience/)
+
+24/08/2023 - [OpenStreetMap y la planeación municipal: una realidad en México](https://www.hotosm.org/updates/openstreetmap-y-la-planeacion-municipal-una-realidad-en-municipios-de-mexico/)
+
+07/08/2023 - [Una alianza para completar el mapa libre de Medellín](https://www.hotosm.org/updates/una-alianza-para-completar-el-mapa-libre-de-medellin/)
+
+25/07/2023 - [El mapeo como respuesta al desastre en Esmeraldas, Ecuador](https://www.hotosm.org/updates/El-mapeo-como-respuesta-al-desastre-en-Esmeraldas-Ecuador/)
+
+13/07/2023 - [RightsCon 2023: buscando la intersección de los derechos humanos y los mapas](https://www.hotosm.org/updates/rightscon-2023-buscando-la-interseccion-de-los-derechos-humanos-y-los-mapas/)
+
+06/07/2023 - [HOT y CDEMA firman acuerdo para potenciar la gestión de desastres en el Caribe con cartografía colaborativa](https://www.hotosm.org/updates/hot-y-cdema-firman-acuerdo-para-potenciar-la-gestion-de-desastres-en-el-caribe-con-cartografia-colaborativa/)
+
+02/07/2023 - [URBE Latam International Meeting](https://www.hotosm.org/updates/urbe-latam-international-meeting/)
+
+27/04/2023 - [Notas desde el terreno: el Equipo Humanitario de OpenStreetMap](https://www.hotosm.org/updates/notas-desde-el-terreno-el-equipo-humanitario-de-openstreetmap/)
+
+24/04/2023 - [HOT and TETO: building emergency solutions to improve people’s lives](https://www.hotosm.org/updates/hot-and-teto-building-emergency-solutions-to-improve-peoples-lives/)
+
+24/03/2023 - [OpenStreetMap y las cartografías oficiales](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/)
 
 10/03/2023 - [Mujeres, mapas y datos: un conversatorio por el Día Internacional de la Mujer](https://www.hotosm.org/updates/mujeres-mapas-y-datos-un-conversatorio-por-el-dia-internacional-de-la-mujer/)
 
-27/12/2022 - [GIRD+OSM Lima 2022: Creando comunidad alrededor de la gestión de riesgos y el mapeo abierto](https://www.hotosm.org/updates/creando-comunidad-alrededor-de-la-gestion-de-riesgos-y-openstreetmap/)
+27/12/2022 - [GIRD\+OSM Lima 2022: Creando comunidad alrededor de la gestión de riesgos y el mapeo abierto](https://www.hotosm.org/updates/creando-comunidad-alrededor-de-la-gestion-de-riesgos-y-openstreetmap/)
 
 07/11/2022 - [América Abierta 2022, el reto de los datos abiertos](https://www.hotosm.org/updates/america-abierta-2022/)
 
@@ -39,6 +64,8 @@ Van de la más reciente a la más antigua.
 12/02/2021 - [Hub de Mapeo Abierto en LATAM - Actualización diciembre 2021](https://www.hotosm.org/updates/hub-de-mapeo-abierto-en-latam-actualizacion-diciembre-2021/)
 
 03/25/2021 - 🗺 [¡Ayuda a impulsar OpenStreetMap en Latinoamérica!](https://www.hotosm.org/updates/ayuda-a-impulsar-openstreetmap-en-latinoamerica/)
+
+
 ![LAC_PublicationsExample1.jpeg](https://cdn.hotosm.org/website/LAC_PublicationsExample1.jpeg)
 
 ## Otras publicaciones sobre América Latina
