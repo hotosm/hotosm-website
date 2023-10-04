@@ -29,7 +29,9 @@ O Hub de Mapeamento Aberto - América Latina e Caribe tem quatro objetivos claro
 Desta forma documentaremos experiências que testaram conceitos, modelos e abordagens aplicáveis ao trabalho do Eixo no terreno, facilitando assim o desenvolvimento de atividades futuras como formação, mapeamento de processos, financiamento, alianças estratégicas e, sobretudo, alcançar o grande objetivo de lograr uma melhoria nas comunidades latino-americanas e do Caribe através do uso de tecnologias de dados geoespaciais.
 
 ### Nossos projetos
+
 * [Canoa de Tolda - Spanish](https://www.hotosm.org/projects/canoa-de-tolda-0a2b5e/)
+
 * [Mapeamento de vulcões no Equador](https://www.hotosm.org/projects/mapeamento-de-vulcoes-no-equador/)
 
 * [A Fábrica de projetos](https://www.hotosm.org/projects/a-fabrica-de-projetos/)
@@ -39,9 +41,8 @@ Desta forma documentaremos experiências que testaram conceitos, modelos e abord
 * [Open Cities Guatemala - Spanish](https://www.hotosm.org/projects/opencities-guatemala-ES/)
 
 * [Open Cities México - Spanish](https://www.hotosm.org/projects/open-cities-mexico-dc7e44/)
-     
 
-[Nossas publicações](https://www.hotosm.org/projects/publicacoes/) ([Spanish](https://www.hotosm.org/projects/publicaciones/), [English](https://www.hotosm.org/projects/publications/))
+### **[Nossas publicações](https://www.hotosm.org/projects/publicacoes/) ([Español](https://www.hotosm.org/projects/publicaciones/), [English](https://www.hotosm.org/projects/publications/))**
 
 ### Quem Somos
 
