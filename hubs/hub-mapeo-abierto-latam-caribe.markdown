@@ -42,7 +42,7 @@ De esta forma documentaremos experiencias que habrán probado sobre el terreno c
 
 * [Open Cities México](https://www.hotosm.org/projects/open-cities-mexico-dc7e44/)
 
-[Nuestras publicaciones](https://www.hotosm.org/projects/publicaciones/) ([Portuguese](https://www.hotosm.org/projects/publicacoes/), [English](https://www.hotosm.org/projects/publications/))
+### **[Nuestras publicaciones](https://www.hotosm.org/projects/publicaciones/)** ([Português](https://www.hotosm.org/projects/publicacoes/), [English](https://www.hotosm.org/projects/publications/))
 
 ## Nosotros
 
