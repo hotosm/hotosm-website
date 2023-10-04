@@ -2,6 +2,7 @@
 title: Código de Conducta de HOT
 date: 2023-10-04 03:16:00 Z
 published: false
+layout: page
 ---
 
 [Versión corta](versión-corta) | [Versión completa](#versión-completa) | [Proceso de manejo de quejas](#proceso-de-manejo-de-quejas)
