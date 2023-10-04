@@ -15,7 +15,7 @@ Impact Area:
 - Sustainable Cities & Communities
 ---
 
-## Las publicaciones
+## Las publicaciones ([English](https://www.hotosm.org/projects/publications/), [Português](https://www.hotosm.org/projects/publicacoes/))
 
 Van de la más reciente a la más antigua.
 
@@ -47,6 +47,8 @@ Van de la más reciente a la más antigua.
 
 27/12/2022 - [GIRD\+OSM Lima 2022: Creando comunidad alrededor de la gestión de riesgos y el mapeo abierto](https://www.hotosm.org/updates/creando-comunidad-alrededor-de-la-gestion-de-riesgos-y-openstreetmap/)
 
+16/12/2022 - [Announcement of HOT and Caribbean School of Data Partnership: Open Mapping Technical Training in the Caribbean Region](https://www.hotosm.org/updates/announcement-of-hot-and-caribbean-school-of-data-partnership-open-mapping-technical-training-in-the-caribbean-region/)
+
 07/11/2022 - [América Abierta 2022, el reto de los datos abiertos](https://www.hotosm.org/updates/america-abierta-2022/)
 
 10/23/2022 - [Cayambe: Gestión de riesgo en áreas volcánicas](https://www.hotosm.org/updates/cayambe-gestion-de-riesgo-en-areas-volcanicas/)
@@ -64,7 +66,6 @@ Van de la más reciente a la más antigua.
 12/02/2021 - [Hub de Mapeo Abierto en LATAM - Actualización diciembre 2021](https://www.hotosm.org/updates/hub-de-mapeo-abierto-en-latam-actualizacion-diciembre-2021/)
 
 03/25/2021 - 🗺 [¡Ayuda a impulsar OpenStreetMap en Latinoamérica!](https://www.hotosm.org/updates/ayuda-a-impulsar-openstreetmap-en-latinoamerica/)
-
 
 ![LAC_PublicationsExample1.jpeg](https://cdn.hotosm.org/website/LAC_PublicationsExample1.jpeg)
 
