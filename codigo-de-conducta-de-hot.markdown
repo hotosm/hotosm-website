@@ -1,7 +1,15 @@
 ---
 title: Código de Conducta de HOT
 date: 2023-10-04 03:16:00 Z
-published: false
+Intro text: La apertura, la colaboración y la participación son aspectos centrales
+  de nuestro trabajo, desde el mapeo con las comunidades locales, de forma remota
+  y en persona, hasta el desarrollo de herramientas, materiales de capacitación y
+  procesos. Este Código de conducta describe el comportamiento que esperamos de todos
+  los participantes de la comunidad HOT en todas las actividades, en espacios en línea
+  y fuera de línea. Esto incluye miembros votantes, miembros de la junta directiva,
+  personal, voluntarios, simpatizantes y cualquier persona que participe en actividades
+  de HOT o visite espacios de HOT, trabaje con HOT o represente a la organización,
+  en línea o en persona.
 layout: page
 ---
 
