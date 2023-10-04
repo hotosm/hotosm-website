@@ -28,16 +28,23 @@ The Open Mapping Hub - Latin America and the Caribbean has four clear objectives
 In this way we will document experiences that have tested concepts, models and approaches applicable to the work of the Hub on the ground, thus facilitating the development of future activities such as training, mapping processes, financing, strategic alliances, and above all, reaching the great objective to achieve an improvement in Latin American and Caribbean communities through the use of geospatial data technologies.
 
 ### Our projects
+
 * [Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda/)
+
 * [Mapping volcanoes in Ecuador](https://www.hotosm.org/projects/mapping-volcanoes-in-ecuador/)
+
 * [The project factory](https://www.hotosm.org/projects/the-project-factory/)
+
 * [Participatory transport mapping in Michoacan](https://www.hotosm.org/projects/participatory-transport-mapping-in-zitacuaro-michoacan/)
+
 * [Open Cities Guatemala](https://www.hotosm.org/projects/opencities-guatemala-EN/)
+
 * [Open Cities Mexico](https://www.hotosm.org/projects/open-cities-mexico/)
 
-[Our posts](https://www.hotosm.org/projects/publications/) ([Portuguese](https://www.hotosm.org/projects/publicacoes/), [Spanish](https://www.hotosm.org/projects/publicaciones/))
+### **[Our posts](https://www.hotosm.org/projects/publications/)** ([Português](https://www.hotosm.org/projects/publicacoes/), [Spanish](https://www.hotosm.org/projects/publicaciones/))
 
 ### Our people
+
 <iframe src="https://uploads.knightlab.com/storymapjs/e120c697c1124821d49174a85168e18d/equipo-alfa-del-hub-de-mapeo-abierto-de-america-latina/index.html" frameborder="0" width="100%" height="600"></iframe>
 
 Follow our social media: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/)
