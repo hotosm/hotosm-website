@@ -1,5 +1,5 @@
 ---
-title: Codigo de Conducta de HOT
+title: Código de Conducta de HOT
 date: 2023-10-04 03:16:00 Z
 published: false
 ---
@@ -22,7 +22,7 @@ HOT se compromete a brindar un entorno inclusivo, acogedor y seguro para persona
 
 * Sea cuidadoso con la redacción y el tono de sus palabras.
 
-* Suponga que todas las comunicaciones son positivas.
+* Asuma que todas las comunicaciones son positivas.
 
 * Cuando no estemos de acuerdo, trate de entender por qué.
 
@@ -60,29 +60,29 @@ Los principios de la comunidad HOT son:
 
 **Sea cuidadoso al elegir las palabras.** Somos una comunidad global de profesionales y nos comportamos profesionalmente. Sea amable con otros. No insulte ni menosprecie a otros participantes. El acoso y otros comportamientos excluyentes no son aceptables. Esto incluye, pero no se limita a:
 
-* Violent threats or language directed against another person.
+* Amenazas o lenguaje violento dirigido contra otra persona.
 
-* Discriminatory jokes and language.
+* Chistes y lenguaje discriminatorio.
 
-* Posting sexually explicit or violent material.
+* Publicar material sexualmente explícito o violento.
 
-* Posting (or threatening to post) other people's personally identifying information ("doxing").
+* Publicar (o amenazar con publicar) información de identificación personal de otras personas ("doxing").
 
-* Personal insults, especially those using racist or sexist terms.
+* Insultos personales, especialmente aquellos que utilizan términos racistas o sexistas.
 
-* Unwelcome sexual attention.
+* Atención sexual no deseada.
 
-* Advocating for, or encouraging, any of the above behavior.
+* Defender o fomentar cualquiera de los comportamientos anteriores.
 
-* Repeated harassment of others. In general, if someone asks you to stop, then stop.
+* Acoso repetido a otros. En general, si alguien le pide que pare, entonces deténgase.
 
-**Assume all communications are positive.** Always remain polite, and assume good faith. It is surprisingly easy to misunderstand each other, be it online or in person, particularly in such a culturally diverse setting as ours. Misunderstandings are particularly easy to arise when we are in a rush, or otherwise distracted. Please ask clarifying questions before assuming that a communication was inappropriate.
+**Asuma que todas las comunicaciones son positivas.** Sea siempre cortés y asuma buena fe. Es sorprendentemente fácil malinterpretarse, ya sea en línea o en persona, particularmente en un entorno culturalmente diverso como el nuestro. Los malentendidos son particularmente fáciles de surgir cuando tenemos prisa o estamos distraídos. Haga preguntas aclaratorias antes de asumir que una comunicación fue inapropiada.
 
-**When we disagree, try to understand why.** Disagreements, both social and technical, happen easily and often. It is important that we resolve such disagreements and differing views constructively. At times it can be hard to appreciate a viewpoint that contradicts your own perceptions. Instead of pushing back, try to understand where the other person is coming from, and don’t be afraid to ask questions. You can be most helpful if your own replies serve to clarify, rather than to escalate an issue. Also don’t forget that it can be easy to make mistakes, and allow for the possibility that the mistake may have been yours. When this happens it is better to resolve the issue together, and to learn from the experience together, than to place blame.
+**Cuando no estemos de acuerdo, trate de entender por qué.** Los desacuerdos, tanto sociales como técnicos, ocurren con facilidad y frecuencia. Es importante que resolvamos esos desacuerdos y opiniones divergentes de manera constructiva. A veces puede resultar difícil apreciar un punto de vista que contradice sus propias percepciones. En lugar de responder, trate de comprender de dónde viene la otra persona y no tenga miedo de hacer preguntas. Puede ser de mayor ayuda si sus propias respuestas sirven para aclarar, en lugar de agravar un problema. Además, no olvide que puede ser fácil cometer errores y considere la posibilidad de que el error haya sido suyo. Cuando esto sucede, es mejor resolver el problema juntos y aprender juntos de la experiencia, que echar culpas.
 
-Original text courtesy of the [Speak Up! project](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html).
+Texto original cortesia del [proyecto Speak Up!](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html).
 
-Further sources:
+Otras fuentes:
 
 * [Ada Initiative: HOWTO design a code of conduct for your community](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
 
@@ -100,18 +100,18 @@ Further sources:
 
 ## Proceso de manejo de quejas
 
-As a first measure, it is preferable to work out issues directly with the people involved, or to work with other Community Members who can help you resolve the issue. This may take several forms:
+Como primera medida, es preferible resolver los problemas directamente con las personas involucradas o trabajar con otros miembros de la comunidad que puedan ayudarle a resolver el problema. Esto puede tomar varias formas:
 
-* Talk with one another. Assume that communications are positive and that people are treating each other with respect. Cues about emotions are often lacking from digital communications. Many of our modes of digital communication tend towards brevity, which can be easier to interpret incorrectly as being negative.
+* Hablen entre ustedes. Asuma que las comunicaciones son positivas y que las personas se tratan unas a otras con respeto. Las comunicaciones digitales a menudo carecen de señales sobre las emociones. Muchos de nuestros modos de comunicación digital tienden a la brevedad, lo que puede ser más fácil de interpretar incorrectamente como negativo.
 
-* Contact a representative of the [Community Working Group](https://www.hotosm.org/community/working-groups/), which exists to support the HOT Community. Representatives are available to discuss any concerns about behaviour within the community, or ideas to promote positive behaviours. You can email them at [community@hotosm.org](mailto:community@hotosm.org).
+* Contacte a un representante del [Community Working Group](https://www.hotosm.org/community/working-groups/), que existe para apoyar a la comunidad de HOT. Los representantes están disponibles para discutir cualquier inquietud sobre el comportamiento dentro de la comunidad o ideas para promover comportamientos positivos. Puedes enviarles un correo electrónico a [community@hotosm.org](mailto:community@hotosm.org).
 
-* Contact a representative of the [Governance Working Group](https://www.hotosm.org/community/working-groups/), which drafted these recommendations and the CoC. Representatives are available to provide advice on particular scenarios, as well as on the processes around the CoC.
+* Contacte a un representante del [Governance Working Group](https://www.hotosm.org/community/working-groups/), que redactó estas recomendaciones y el CdC. Los representantes están disponibles para brindar asesoramiento sobre escenarios particulares, así como sobre los procesos relacionados con el CdC.
 
-* Contact the HOT Chair of Voting Members.
+* Contacte al presidente de los miembros votantes de HOT.
 
-* Contact a [HOT Board Member](/board). Board members are well versed in the community and its management. They can offer advice on your particular situation, and know the resources of the organization that may be available to you.
+* Contacte a un [miembro de la junta de HOT](/board). Los miembros de la junta conocen bien la comunidad y su gestión. Pueden ofrecerle asesoramiento sobre su situación particular y conocer los recursos de la organización que pueden estar disponibles para usted.
 
-* Contact the HOT Community Partnerships Manager.
+* Contacte al Community Partnerships Manager de HOT.
 
-When these informal processes fail, or when a situation warrants an immediate response by HOT, you can evoke the **HOT Policy and Code of Conduct Complaint Handling Process**. This process was adopted by HOT Voting Members in 2016 to provide a more formal means of enforcement for our community standards. You start it by emailing [complaints@hotosm.org](mailto:compaints@hotosm.org) with a description of your complaint, your name, and the name of the offending party. All complaints will be considered confidential. The full process is described [here](https://docs.google.com/document/d/1xb-SPADtSbgwl6mAgglHMPHpknt-E7lKRoIcSbW431A/edit)
+Cuando estos procesos informales fallan, o cuando una situación amerita una respuesta inmediata por parte de HOT, se puede invocar al **Proceso de manejo de quejas sobre política y código de conducta de HOT**. Este proceso fue adoptado por los miembros votantes de HOT en 2016 para proporcionar un medio más formal de cumplimiento de nuestros estándares comunitarios. Comience enviando un correo electrónico a [complaints@hotosm.org](mailto:compaints@hotosm.org) con una descripción de su queja, su nombre y el nombre de la parte infractora. Todas las quejas se considerarán confidenciales. Se describe el proceso completo [aqui](https://docs.google.com/document/d/1xb-SPADtSbgwl6mAgglHMPHpknt-E7lKRoIcSbW431A/edit).
