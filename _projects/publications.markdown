@@ -15,7 +15,7 @@ Impact Area:
 - Sustainable Cities & Communities
 ---
 
-## Publications
+## Publications ([Español](https://www.hotosm.org/projects/publicaciones/), [Português](https://www.hotosm.org/projects/publicacoes/))
 
 **Posts are in reverse chronological order**
 
