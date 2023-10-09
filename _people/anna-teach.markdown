@@ -1,11 +1,12 @@
 ---
 title: Anna Teach
 date: 2020-09-09 20:58:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Headshot_Anna+Teach.jpeg
 Member Type:
-  Is Staff: true
-Country: United States
+  Is Staff: false
 Job Title: Corporate Partnerships Manager
+Country: United States
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/anna_teach_HOT
 ---
