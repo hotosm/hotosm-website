@@ -1,5 +1,5 @@
 ---
-title: HOT Tasking Manager -Welcome to NAXA
+title: HOT Tasking Manager - Welcome to NAXA
 date: 2023-10-10 20:37:00 Z
 Summary Text: We are very excited to announce that we will be working with NAXA, who
   will provide software development support for the evolution of the HOT Tasking Manager.
