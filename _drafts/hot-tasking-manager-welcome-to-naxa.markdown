@@ -13,7 +13,7 @@ Person:
 
 We will work with NAXA over the next year to implement improvements on the [Tasking Manager](https://tasks.hotosm.org/) roadmap, such as adding user functionalities to improve the overall user experience for mappers and map users. NAXA brings a team of experienced developers with expertise in OpenStreetMap, utilization of OSM in multiple thematic areas, and a strong technical background.
 
-“We are excited to be working with the amazing team at HOT and provide them with the necessary support to maintain and update their core HOT Tasking Manager platform. We would like to thank HOT for trusting our young team of passionate and dedicated developers, who are excited to be working with HOT and ultimately contribute to their global mission” - Nishon Tandukar
+*“We are excited to be working with the amazing team at HOT and provide them with the necessary support to maintain and update their core HOT Tasking Manager platform. We would like to thank HOT for trusting our young team of passionate and dedicated developers, who are excited to be working with HOT and ultimately contribute to their global mission.”* - Nishon Tandukar
 
 We also want to use this opportunity to thank the [Kathmandu Living Labs](https://kathmandulivinglabs.org/) team who we have worked with in 2022/2023.  You can see all the progress and excellent collective work in the monthly blogs on the [OpenStreetMap Community Forum](https://community.openstreetmap.org/tag/tasking-manager).
 
