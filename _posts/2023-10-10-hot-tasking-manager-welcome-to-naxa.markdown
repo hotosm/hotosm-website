@@ -24,8 +24,9 @@ Keep using the HOT Tasking Manager and doing all the amazing work you already ha
 We would love for you to join the monthly  HOT Tasking Manager Meet Ups ([register here](https://docs.google.com/forms/d/e/1FAIpQLSd2p6cot6l22xthG-4ffOx6SQ_CALWlwc2mN5vQbWPQGAs7Uw/viewform) or check our [calendar](https://www.google.com/calendar/embed?src=hotosm.org_848e89aaiab04ag94d23rqn558%40group.calendar.google.com)). The next one is on Wednesday 11 October 10:00 and 15:00 UTC.
 
 ### Previous posts about the Tasking Manager Collective:
-* [Welcome to the Tasking Manager Collective: how to join & contribute!](https://www.hotosm.org/tech-blog/welcome-to-the-tasking-manager-collective-how-to-join-and-contribute/) | Humanitarian OpenStreetMap Team
-* [HOT Tasking Manager Collective: update on the journey so far- July 2022](https://www.hotosm.org/tech-blog/hot-tasking-manager-collective-july-update/) | Humanitarian OpenStreetMap Team
+
+* [Welcome to the Tasking Manager Collective: how to join & contribute!](https://www.hotosm.org/tech-blog/welcome-to-the-tasking-manager-collective-how-to-join-and-contribute/) - Humanitarian OpenStreetMap Team
+* [HOT Tasking Manager Collective: update on the journey so far- July 2022](https://www.hotosm.org/tech-blog/hot-tasking-manager-collective-july-update/) - Humanitarian OpenStreetMap Team
 * Monthly blogs from KLL: [Latest tasking-manager topics](https://community.openstreetmap.org/tag/tasking-manager) - OpenStreetMap Community Forum
 
 ***Lead image: The team gathered for a group photo at NAXA's Kathmandu office after completing their onboarding session with the Tasking Manager. From right to left, the team members are Sumit, Royal, Nishon, Manjita, Ramya (HOT), Rob (HOT), Susmina, Deepak/Varun, Niraj, and Upendra.***
