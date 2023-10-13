@@ -28,10 +28,12 @@ En **Cusco, Perú**, se han mapeado diversos barrios de la ciudad que enfrentan 
 
 **¿Que sigue?**
 
-El Equipo Humanitario está comprometido a seguir promoviendo este movimiento. Animamos a las organizaciones interesadas a unirse a nosotros para planificar el próximo año o para organizar campañas de mapeo de desechos fuera de la temporada del Día Mundial de la Limpieza.
+El Equipo Humanitario está comprometido a seguir promoviendo este movimiento. Animamos a las organizaciones interesadas a unirse a nosotros para planificar el próximo año o para organizar campañas de mapeo de desechos fuera de la temporada del [Día Mundial de la Limpieza](https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_de_la_Limpieza).
 
 ¿Dónde les sería útil tener un levantamiento de información de basura abandonada? ¿Sobre qué periodos tendría sentido un monitoreo? ¿Cómo los necesitan utilizar para sus campañas, proyectos o planes de mantenimiento? Son preguntas que pueden ayudar a las organizaciones a planificar sus campanas de mapeo de desechos.
 
 **Agradecimientos**
 
-El Equipo Humanitario agradece el entusiasmo y dedicación con el que los lideres de campaña en cada país o región asumieron el reto desinteresado de capacitar y guiar a los miembros de sus equipos en las semanas que duró el mapeo participativo de desechos. A la Dra. Patricia Llanos, al profesor Gilmar Vergara y a Louise Mathurin-Serieux nuestro profundo reconocimiento.
+![teams.jpg](/uploads/teams.jpg)
+
+El Equipo Humanitario agradece el entusiasmo y dedicación con el los equipos de mapeadores participaron en esta actividad. Y especialmente a los lideres de campaña que en cada país o región asumieron el reto desinteresado de capacitar y guiar a sus equipos en las semanas que duró el mapeo participativo de desechos. A la Dra. Patricia Llanos, al profesor Gilmar Vergara y a Louise Mathurin-Serieux nuestro profundo reconocimiento.
