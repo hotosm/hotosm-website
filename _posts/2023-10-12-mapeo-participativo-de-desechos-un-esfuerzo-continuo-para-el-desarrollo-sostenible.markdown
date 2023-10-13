@@ -1,7 +1,17 @@
 ---
 title: 'Mapeo participativo de desechos: un esfuerzo continuo para el desarrollo sostenible'
-date: 2023-10-12 23:43:00 Z
-Summary Text: 'Mapear los desechos en tu barrio puede ser una actividad simple y '
+date: 2023-10-12 14:43:00 Z
+categories:
+- news
+- Mapping
+tags:
+- basura
+- desechos
+- mapeo
+- openlittermap
+Summary Text: Mapear los desechos en tu barrio puede ser una actividad simple a la
+  vez que útil y beneficiosa para nuestro entorno urbano. Veamos como diversos equipos
+  de mapeadores en América Latina y el Caribe lo han estado haciendo.
 Feature Image: "/uploads/olmmap.jpg"
 Person:
 - Céline Jacquin
