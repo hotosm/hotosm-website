@@ -20,11 +20,11 @@ Person:
 - Juan Arellano Valdivia
 ---
 
-Since 2022, the Humanitarian Team has initiated an ongoing effort to form a movement of participatory mapping of waste in open space, be it urban, natural or aquatic. The goal is for this movement to become bigger and stronger year after year, becoming a relevant force in generating data for the [Sustainable Development Goal](https://www.un.org/sustainabledevelopment/) related to waste management.
+Since 2022, the Humanitarian Team has initiated an ongoing effort to form a movement of participatory mapping of waste in open space, be it urban, natural or aquatic. The goal is for this movement to become bigger and stronger year after year, becoming a relevant force in generating data for the [Sustainable Development Goal](https://www.un.org/sustainabledevelopment/sustainable-consumption-production/) related to waste management.
 
 In 2022, the [Mapillary](https://www.mapillary.com/) app was used to collect georeferenced images of waste-filled spaces or specific waste. The community was invited to participate, and student groups from Cusco, Peru, and Bolivia joined the initiative.
 
-This year, 2023, we [launched](https://www.youtube.com/watch?v=XKFaD0txBv0) the campaign taking advantage of the [OpenLitterMap](https://openlittermap.com/) application, which allows you to take georeferenced photos and apply descriptive labels and the amount of waste (see [tutorial](https://www.youtube.com/watch?v=CrDaJdcmpgk)).Participation has increased significantly, with 201 people from 12 different countries.
+This year, 2023, we [launched](https://www.youtube.com/watch?v=XKFaD0txBv0) the campaign taking advantage of the [OpenLitterMap](https://openlittermap.com/) application, which allows you to take georeferenced photos and apply descriptive labels and the amount of waste (see [tutorial](https://www.youtube.com/watch?v=CrDaJdcmpgk)). Participation has increased significantly, with 201 people from 12 different countries.
 
 The data collected through this movement has provided valuable information on the distribution and type of waste in open space. This data can be used to inform policy decision makers and action officials so they can improve waste management.
 
@@ -32,7 +32,7 @@ The data collected through this movement has provided valuable information on th
 
 ![WhatsApp Image 2023-10-11 at 9.13.33 AM.jpeg](/uploads/WhatsApp%20Image%202023-10-11%20at%209.13.33%20AM.jpeg)
 
-In the **Caribbean**, a virtual training session on OpenLitterMap was held on Monday, September 18, with 21 participants from across the region and the world. They were taught how to activate location on their cameras, log into the app and upload data to openlittermap.com. The Saint Lucia Youth Emergency Action Committees ([YEAC](https://www.facebook.com/YEACSLU/)) team emerged as the best mappers of the campaign, with great dedication to improving their communities and building resilience.
+In **Saint Lucia, in the Caribbean**, a virtual training session on OpenLitterMap was held on Monday, September 18, with 21 participants from across the region and the world, thanks to the spreading support of the [CDEMA](https://www.cdema.org/). They were taught how to activate location on their cameras, log into the app and upload data to openlittermap.com. The Saint Lucia Youth Emergency Action Committees ([YEAC](https://www.facebook.com/YEACSLU/)) team emerged as the best mappers of the campaign, with great dedication to improving their communities and building resilience.
 
 ![Boliviamap.jpg](/uploads/Boliviamap.jpg)
 
