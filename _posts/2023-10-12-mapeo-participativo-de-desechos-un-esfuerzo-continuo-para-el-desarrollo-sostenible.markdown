@@ -9,6 +9,9 @@ tags:
 - desechos
 - mapeo
 - openlittermap
+- Bolivia
+- Peru
+- Caribe
 Summary Text: Mapear los desechos en tu barrio puede ser una actividad simple a la
   vez que útil y beneficiosa para nuestro entorno urbano. Veamos como diversos equipos
   de mapeadores en América Latina y el Caribe lo han estado haciendo.

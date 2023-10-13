@@ -1,6 +1,16 @@
 ---
 title: 'Participatory waste mapping: a continuing effort for sustainable development'
 date: 2023-10-13 04:21:00 Z
+categories:
+- news
+- Mapping
+tags:
+- waste
+- litter
+- map
+- bolivia
+- peru
+- caribbean
 Summary Text: Mapping waste in your neighborhood can be a simple activity that is
   both useful and beneficial for our urban environment.Let's see how various teams
   of mappers in Latin America and the Caribbean have been doing it.
@@ -12,37 +22,37 @@ Person:
 
 Since 2022, the Humanitarian Team has initiated an ongoing effort to form a movement of participatory mapping of waste in open space, be it urban, natural or aquatic. The goal is for this movement to become bigger and stronger year after year, becoming a relevant force in generating data for the [Sustainable Development Goal](https://www.un.org/sustainabledevelopment/) related to waste management.
 
-En 2022, se utilizó la aplicación [Mapillary](https://www.mapillary.com/) para recopilar imágenes georeferenciadas de espacios llenos de desechos o desechos puntuales. Se invitó a la comunidad a participar, y grupos estudiantiles de Cusco, Perú, y Bolivia se sumaron a la iniciativa.
+In 2022, the [Mapillary](https://www.mapillary.com/) app was used to collect georeferenced images of waste-filled spaces or specific waste. The community was invited to participate, and student groups from Cusco, Peru, and Bolivia joined the initiative.
 
-Este año, 2023, [lanzamos](https://www.youtube.com/watch?v=XKFaD0txBv0) la campaña aprovechando la aplicación [OpenLitterMap](https://openlittermap.com/), que permite tomar fotos georeferenciadas y aplicar etiquetas descriptivas y la cantidad de desechos (ver [tutorial](https://www.youtube.com/watch?v=6EORGEJbMiw&t=1s)). La participación ha aumentado significativamente, con 201 personas de 12 países diferentes.
+This year, 2023, we [launched](https://www.youtube.com/watch?v=XKFaD0txBv0) the campaign taking advantage of the [OpenLitterMap](https://openlittermap.com/) application, which allows you to take georeferenced photos and apply descriptive labels and the amount of waste (see [tutorial](https://www.youtube.com/watch?v=CrDaJdcmpgk)).Participation has increased significantly, with 201 people from 12 different countries.
 
-Los datos recopilados a través de este movimiento han proporcionado información valiosa sobre la distribución y el tipo de desechos en el espacio abierto. Estos datos pueden utilizarse para informar a los tomadores de decisiones de políticas y funcionarios ejecutores de acciones, para que puedan mejorar el manejo de desechos.
+The data collected through this movement has provided valuable information on the distribution and type of waste in open space. This data can be used to inform policy decision makers and action officials so they can improve waste management.
 
-**Mapeando desechos en América Latina y el Caribe**
+**Mapping waste in Latin America and the Caribbean**
 
 ![WhatsApp Image 2023-10-11 at 9.13.33 AM.jpeg](/uploads/WhatsApp%20Image%202023-10-11%20at%209.13.33%20AM.jpeg)
 
-En el **Caribe**, se dio una sesión de capacitación virtual en OpenLitterMap el lunes 18 de septiembre con 21 participantes de toda la región y el mundo. Se les enseñó cómo activar la ubicación en sus cámaras, iniciar sesión en la aplicación y cargar datos en openlittermap.com. El equipo de los Comités Juveniles de Acción de Emergencia ([YEAC](https://www.facebook.com/YEACSLU/)) de Santa Lucía, emergió como el mejor mapeador de la campaña, con gran dedicación para mejorar sus comunidades y desarrollar resiliencia.
+In the **Caribbean**, a virtual training session on OpenLitterMap was held on Monday, September 18, with 21 participants from across the region and the world. They were taught how to activate location on their cameras, log into the app and upload data to openlittermap.com. The Saint Lucia Youth Emergency Action Committees ([YEAC](https://www.facebook.com/YEACSLU/)) team emerged as the best mappers of the campaign, with great dedication to improving their communities and building resilience.
 
 ![Boliviamap.jpg](/uploads/Boliviamap.jpg)
 
-En **Bolivia** la participación ha sido nutrida, y se ha dado a través de tres grupos con un total de 140 participantes. El grupo de La Paz: [Team Hacklab r00thouse La Paz](https://www.hacklab.org.bo/), que son parte de la [Universidad Mayor de San Andrés](https://www.umsa.bo/), pero que también integran estudiantes de otras universidades. En Sucre: estudiantes de la [Universidad Pontificia San Francisco Xavier](https://usfx.bo/#gsc.tab=0) con la colaboración de la Dra. Scarlett Martínez. En el Beni, estudiantes de la [Universidad Autónoma José Ballivian](https://www.uabjb.edu.bo/) del Beni, con el apoyo del Ingeniero Daniel Zubieta.
+In **Bolivia**, participation has been strong, and has occurred through three groups with a total of 140 participants. The La Paz group: [Team Hacklab r00thouse La Paz](https://www.hacklab.org.bo/), which are part of the [Universidad Mayor de San Andrés](https://www.umsa.bo/), but also include students from other universities. In Sucre: students from the [Universidad Pontificia San Francisco Xavier](https://usfx.bo/#gsc.tab=0) with the collaboration of Dr. Scarlett Martínez. In Beni, students from the [Universidad Autónoma José Ballivian](https://www.uabjb.edu.bo/) of Beni, with the support of Engineer Daniel Zubieta.
 
 ![cuscolitter2.jpg](/uploads/cuscolitter2.jpg)
 
-En **Cusco, Perú**, se han mapeado diversos barrios de la ciudad que enfrentan el problema de desechos. Se contó con la participación de 40 estudiantes de [GAL School](https://www.facebook.com/GALSchoolCusco/?locale=es_LA), principalmente de secundaria, enlazando el contenido curricular con el aprendizaje activo. La participación y el empoderamiento de los estudiantes -teniendo como herramienta el mapeo abierto- ha sido efectivo, logrando incluso concienciar a los transeúntes que preguntaban cuál era el objetivo que se buscaba al mapear la basura. Por otro lado el uso de nuevas tecnologías y su aplicación los ha motivado a colaborar más con la sociedad.
+In **Cusco, Peru**, various neighborhoods of the city that face the waste problem have been mapped. 40 GAL School students participated, mainly from secondary school, linking curricular content with active learning. The participation and empowerment of students -using open mapping as a tool- has been effective, even raising awareness among passers-by who asked what the objective was sought when mapping the garbage. On the other hand, the use of new technologies and their application has motivated them to collaborate more with society.
 
-**¿Que sigue?**
+**Whats Next?**
 
-El Equipo Humanitario está comprometido a seguir promoviendo este movimiento. Animamos a las organizaciones interesadas a unirse a nosotros para planificar el próximo año o para organizar campañas de mapeo de desechos fuera de la temporada del [Día Mundial de la Limpieza](https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_de_la_Limpieza).
+The Humanitarian Team is committed to continuing to promote this movement. We encourage interested organizations to join us in planning next year or to organize waste mapping campaigns outside of the [World Cleanup Day](https://en.wikipedia.org/wiki/World_Cleanup_Day) season.
 
-¿Dónde les sería útil tener un levantamiento de información de basura abandonada? ¿Sobre qué periodos tendría sentido un monitoreo? ¿Cómo los necesitan utilizar para sus campañas, proyectos o planes de mantenimiento? Son preguntas que pueden ayudar a las organizaciones a planificar sus campañas de mapeo de desechos.
+Where would it be useful to have a survey of abandoned garbage information? Over what periods would monitoring make sense? How do you need to use them for your campaigns, projects or maintenance plans? These are questions that can help organizations plan their waste mapping campaigns.
 
-**Agradecimientos**
+**Thanks**
 
 ![teams.jpg](/uploads/teams.jpg)
 
-El Equipo Humanitario agradece el entusiasmo y dedicación con el los equipos de mapeadores participaron en esta actividad. Y especialmente a los lideres de campaña que en cada país o región asumieron el reto desinteresado de capacitar y guiar a sus equipos en las semanas que duró el mapeo participativo de desechos. A la Dra. Patricia Llanos, al profesor Gilmar Vergara y a Louise Mathurin-Serieux nuestro profundo reconocimiento.
+The Humanitarian Team appreciates the enthusiasm and dedication with which the teams of mappers participated in this activity. And especially to the campaign leaders who in each country or region took on the selfless challenge of training and guiding their teams in the weeks that the participatory waste mapping lasted. To Dr. Patricia Llanos, Professor Gilmar Vergara and Louise Mathurin-Serieux our deep gratitude.
 
 *Also find out [how we collaborate](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) with National Institutes of Geography.*
 
