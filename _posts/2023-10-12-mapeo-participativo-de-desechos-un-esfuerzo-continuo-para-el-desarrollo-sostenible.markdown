@@ -51,3 +51,11 @@ El Equipo Humanitario está comprometido a seguir promoviendo este movimiento. A
 ![teams.jpg](/uploads/teams.jpg)
 
 El Equipo Humanitario agradece el entusiasmo y dedicación con el los equipos de mapeadores participaron en esta actividad. Y especialmente a los lideres de campaña que en cada país o región asumieron el reto desinteresado de capacitar y guiar a sus equipos en las semanas que duró el mapeo participativo de desechos. A la Dra. Patricia Llanos, al profesor Gilmar Vergara y a Louise Mathurin-Serieux nuestro profundo reconocimiento.
+
+*Conoce también [cómo colaboramos](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) con los Institutos Nacionales de Geografía.*
+
+*Si quieres ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
+
+*Si eres parte de alguna organización que desea explorar cómo colaborar en un proyecto de cartografía digital, escribe un correo a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Proyectos LAC**.*
+
+**Síguenos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).**
