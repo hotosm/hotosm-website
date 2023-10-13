@@ -1,14 +1,18 @@
 ---
 title: 'Mapeo participativo de desechos: un esfuerzo continuo para el desarrollo sostenible'
 date: 2023-10-12 23:43:00 Z
+Summary Text: 'Mapear los desechos en tu barrio puede ser una actividad simple y '
 Feature Image: "/uploads/olmmap.jpg"
+Person:
+- Céline Jacquin
+- Juan Arellano Valdivia
 ---
 
 Desde 2022, el Equipo Humanitario ha iniciado un esfuerzo continuo para formar un movimiento de mapeo participativo de desechos en el espacio abierto, sea urbano, natural o acuático. El objetivo es que este movimiento se vuelva más grande y fuerte año tras año, convirtiéndose en una fuerza relevante en la generación de datos para el [Objetivo de Desarrollo Sostenible](https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/) relacionado con el manejo de desechos.
 
 En 2022, se utilizó la aplicación [Mapillary](https://www.mapillary.com/) para recopilar imágenes georeferenciadas de espacios llenos de desechos o desechos puntuales. Se invitó a la comunidad a participar, y grupos estudiantiles de Cusco, Perú, y Bolivia se sumaron a la iniciativa.
 
-Este año, 2023, lanzamos la campana aprovechando el uso de la aplicación [OpenLitterMap](https://openlittermap.com/), que permite tomar fotos georeferenciadas y aplicar etiquetas descriptivas y la cantidad de desechos. La participación ha aumentado significativamente, con 201 personas de 12 países diferentes.
+Este año, 2023, [lanzamos](https://www.youtube.com/watch?v=XKFaD0txBv0) la campaña aprovechando la aplicación [OpenLitterMap](https://openlittermap.com/), que permite tomar fotos georeferenciadas y aplicar etiquetas descriptivas y la cantidad de desechos (ver [tutorial](https://www.youtube.com/watch?v=6EORGEJbMiw&t=1s)). La participación ha aumentado significativamente, con 201 personas de 12 países diferentes.
 
 Los datos recopilados a través de este movimiento han proporcionado información valiosa sobre la distribución y el tipo de desechos en el espacio abierto. Estos datos pueden utilizarse para informar a los tomadores de decisiones de políticas y funcionarios ejecutores de acciones, para que puedan mejorar el manejo de desechos.
 
@@ -30,7 +34,7 @@ En **Cusco, Perú**, se han mapeado diversos barrios de la ciudad que enfrentan 
 
 El Equipo Humanitario está comprometido a seguir promoviendo este movimiento. Animamos a las organizaciones interesadas a unirse a nosotros para planificar el próximo año o para organizar campañas de mapeo de desechos fuera de la temporada del [Día Mundial de la Limpieza](https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_de_la_Limpieza).
 
-¿Dónde les sería útil tener un levantamiento de información de basura abandonada? ¿Sobre qué periodos tendría sentido un monitoreo? ¿Cómo los necesitan utilizar para sus campañas, proyectos o planes de mantenimiento? Son preguntas que pueden ayudar a las organizaciones a planificar sus campanas de mapeo de desechos.
+¿Dónde les sería útil tener un levantamiento de información de basura abandonada? ¿Sobre qué periodos tendría sentido un monitoreo? ¿Cómo los necesitan utilizar para sus campañas, proyectos o planes de mantenimiento? Son preguntas que pueden ayudar a las organizaciones a planificar sus campañas de mapeo de desechos.
 
 **Agradecimientos**
 
