@@ -21,7 +21,7 @@ Person:
 - Juan Arellano Valdivia
 ---
 
-Desde 2022, el Equipo Humanitario ha iniciado un esfuerzo continuo para formar un movimiento de mapeo participativo de desechos en el espacio abierto, sea urbano, natural o acuático. El objetivo es que este movimiento se vuelva más grande y fuerte año tras año, convirtiéndose en una fuerza relevante en la generación de datos para el [Objetivo de Desarrollo Sostenible](https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/) relacionado con el manejo de desechos.
+Desde 2022, el Equipo Humanitario ha iniciado un esfuerzo continuo para formar un movimiento de mapeo participativo de desechos en el espacio abierto, sea urbano, natural o acuático. El objetivo es que este movimiento se vuelva más grande y fuerte año tras año, convirtiéndose en una fuerza relevante en la generación de datos para el [Objetivo de Desarrollo Sostenible](https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/) relacionado con el manejo de desechos.
 
 En 2022, se utilizó la aplicación [Mapillary](https://www.mapillary.com/) para recopilar imágenes georeferenciadas de espacios llenos de desechos o desechos puntuales. Se invitó a la comunidad a participar, y grupos estudiantiles de Cusco, Perú, y Bolivia se sumaron a la iniciativa.
 
@@ -33,7 +33,7 @@ Los datos recopilados a través de este movimiento han proporcionado informació
 
 ![WhatsApp Image 2023-10-11 at 9.13.33 AM.jpeg](/uploads/WhatsApp%20Image%202023-10-11%20at%209.13.33%20AM.jpeg)
 
-En el **Caribe**, se dio una sesión de capacitación virtual en OpenLitterMap el lunes 18 de septiembre con 21 participantes de toda la región y el mundo. Se les enseñó cómo activar la ubicación en sus cámaras, iniciar sesión en la aplicación y cargar datos en openlittermap.com. El equipo de los Comités Juveniles de Acción de Emergencia ([YEAC](https://www.facebook.com/YEACSLU/)) de Santa Lucía, emergió como el mejor mapeador de la campaña, con gran dedicación para mejorar sus comunidades y desarrollar resiliencia.
+En **Santa Lucia, Caribe**, se dio una sesión de capacitación virtual en OpenLitterMap el lunes 18 de septiembre con 21 participantes de toda la región y el mundo gracias al apoyo en difusión del [CDEMA](https://www.cdema.org/). Se les enseñó cómo activar la ubicación en sus cámaras, iniciar sesión en la aplicación y cargar datos en openlittermap.com. El equipo de los Comités Juveniles de Acción de Emergencia ([YEAC](https://www.facebook.com/YEACSLU/)) de Santa Lucía, emergió como el mejor mapeador de la campaña, con gran dedicación para mejorar sus comunidades y desarrollar resiliencia.
 
 ![Boliviamap.jpg](/uploads/Boliviamap.jpg)
 
