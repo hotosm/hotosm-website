@@ -8,7 +8,7 @@ Desde 2022, el Equipo Humanitario ha iniciado un esfuerzo continuo para formar u
 
 En 2022, se utilizó la aplicación [Mapillary](https://www.mapillary.com/) para recopilar imágenes georeferenciadas de espacios llenos de desechos o desechos puntuales. Se invitó a la comunidad a participar, y grupos estudiantiles de Cusco, Perú, y Bolivia se sumaron a la iniciativa.
 
-Este año, 2023, se ha fomentado el uso de la aplicación [OpenLitterMap](https://openlittermap.com/), que permite tomar fotos georeferenciadas y aplicar etiquetas descriptivas y la cantidad de desechos. La participación ha aumentado significativamente, con 201 personas de 12 países diferentes.
+Este año, 2023, lanzamos la campana aprovechando el uso de la aplicación [OpenLitterMap](https://openlittermap.com/), que permite tomar fotos georeferenciadas y aplicar etiquetas descriptivas y la cantidad de desechos. La participación ha aumentado significativamente, con 201 personas de 12 países diferentes.
 
 Los datos recopilados a través de este movimiento han proporcionado información valiosa sobre la distribución y el tipo de desechos en el espacio abierto. Estos datos pueden utilizarse para informar a los tomadores de decisiones de políticas y funcionarios ejecutores de acciones, para que puedan mejorar el manejo de desechos.
 
