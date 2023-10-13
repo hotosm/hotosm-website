@@ -24,10 +24,14 @@ En **Bolivia** la participación ha sido nutrida, y se ha dado a través de tres
 
 ![cuscolitter2.jpg](/uploads/cuscolitter2.jpg)
 
-En **Cusco, Perú**, se han mapeado diversos barrios de la ciudad que enfrentan el problema de desechos. Se contó con la participación de 40 estudiantes de [GAL School](https://www.facebook.com/GALSchoolCusco/?locale=es_LA), principalmente de secundaria enlazando el contenido curricular con el aprendizaje activo. La participación y el empoderamiento de los estudiantes -teniendo como herramienta el mapeo abierto- ha sido efectivo, logrando concienciar a los transeúntes que preguntaban cuál era el objetivo que se buscaba al mapear la basura. Por otro lado el uso de nuevas tecnologías y su aplicación los ha motivado a colaborar más con la sociedad.
+En **Cusco, Perú**, se han mapeado diversos barrios de la ciudad que enfrentan el problema de desechos. Se contó con la participación de 40 estudiantes de [GAL School](https://www.facebook.com/GALSchoolCusco/?locale=es_LA), principalmente de secundaria, enlazando el contenido curricular con el aprendizaje activo. La participación y el empoderamiento de los estudiantes -teniendo como herramienta el mapeo abierto- ha sido efectivo, logrando incluso concienciar a los transeúntes que preguntaban cuál era el objetivo que se buscaba al mapear la basura. Por otro lado el uso de nuevas tecnologías y su aplicación los ha motivado a colaborar más con la sociedad.
 
 **¿Que sigue?**
 
-El Equipo Humanitario está comprometido a seguir creciendo y promoviendo este movimiento. Animamos a las organizaciones interesadas a unirse a nosotros para planificar el próximo año o para organizar campañas de mapeo de desechos fuera de la temporada del Día Mundial de la Limpieza.
+El Equipo Humanitario está comprometido a seguir promoviendo este movimiento. Animamos a las organizaciones interesadas a unirse a nosotros para planificar el próximo año o para organizar campañas de mapeo de desechos fuera de la temporada del Día Mundial de la Limpieza.
 
-¿Dónde les sería útil tener un levantamiento de información de basura abandonada? ¿Sobre qué periodos tendría sentido un monitoreo? ¿Cómo los necesitan utilizar para sus campañas, proyectos o planes de mantenimiento?
+¿Dónde les sería útil tener un levantamiento de información de basura abandonada? ¿Sobre qué periodos tendría sentido un monitoreo? ¿Cómo los necesitan utilizar para sus campañas, proyectos o planes de mantenimiento? Son preguntas que pueden ayudar a las organizaciones a planificar sus campanas de mapeo de desechos.
+
+**Agradecimientos**
+
+El Equipo Humanitario agradece el entusiasmo y dedicación con el que los lideres de campaña en cada país o región asumieron el reto desinteresado de capacitar y guiar a los miembros de sus equipos en las semanas que duró el mapeo participativo de desechos. A la Dra. Patricia Llanos, al profesor Gilmar Vergara y a Louise Mathurin-Serieux nuestro profundo reconocimiento.
