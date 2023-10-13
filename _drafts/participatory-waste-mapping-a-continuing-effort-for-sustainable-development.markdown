@@ -10,7 +10,7 @@ Person:
 - Juan Arellano Valdivia
 ---
 
-Desde 2022, el Equipo Humanitario ha iniciado un esfuerzo continuo para formar un movimiento de mapeo participativo de desechos en el espacio abierto, sea urbano, natural o acuático. El objetivo es que este movimiento se vuelva más grande y fuerte año tras año, convirtiéndose en una fuerza relevante en la generación de datos para el [Objetivo de Desarrollo Sostenible](https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/) relacionado con el manejo de desechos.
+Since 2022, the Humanitarian Team has initiated an ongoing effort to form a movement of participatory mapping of waste in open space, be it urban, natural or aquatic. The goal is for this movement to become bigger and stronger year after year, becoming a relevant force in generating data for the [Sustainable Development Goal](https://www.un.org/sustainabledevelopment/) related to waste management.
 
 En 2022, se utilizó la aplicación [Mapillary](https://www.mapillary.com/) para recopilar imágenes georeferenciadas de espacios llenos de desechos o desechos puntuales. Se invitó a la comunidad a participar, y grupos estudiantiles de Cusco, Perú, y Bolivia se sumaron a la iniciativa.
 
@@ -43,3 +43,11 @@ El Equipo Humanitario está comprometido a seguir promoviendo este movimiento. A
 ![teams.jpg](/uploads/teams.jpg)
 
 El Equipo Humanitario agradece el entusiasmo y dedicación con el los equipos de mapeadores participaron en esta actividad. Y especialmente a los lideres de campaña que en cada país o región asumieron el reto desinteresado de capacitar y guiar a sus equipos en las semanas que duró el mapeo participativo de desechos. A la Dra. Patricia Llanos, al profesor Gilmar Vergara y a Louise Mathurin-Serieux nuestro profundo reconocimiento.
+
+*Also find out [how we collaborate](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) with National Institutes of Geography.*
+
+*If you want to be part of the community of volunteer mappers of the LAC Open Mapping Hub, write an email to [hublatam@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: Volunteer mapper**.*
+
+*If you are part of an organization that wants to explore how to collaborate on a project, write an email to [hublatam@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: LAC Projects**.*
+
+***Follow us on networks: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).***
