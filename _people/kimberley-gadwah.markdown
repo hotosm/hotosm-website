@@ -1,9 +1,10 @@
 ---
 title: Kimberley Gadwah
 date: 2022-06-06 06:36:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/image0+(3).jpeg
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Director of Philanthropy and External Relations
 ---
 
