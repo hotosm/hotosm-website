@@ -7,7 +7,7 @@ Event Name: 2023 Libya Floods
 Country: Libya
 Event type: Fl Flood
 Summary Text: This is an activation led by OSM Libya for the Libya Floods of 2023.
-Feature Image: FL Flood
+Feature Image: Fl Flood
 Post-type: timeline
 Campaign: https://tasks.hotosm.org/explore?campaign=Libya%20Floods%202023
 Tracking: "#LibyaFloods2023"
