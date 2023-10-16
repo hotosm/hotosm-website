@@ -5,7 +5,7 @@ Glide:
 - FL-2023-000170-LBY
 Event Name: 2023 Libya Floods
 Country: Libya
-Event type: FL Flood
+Event type: Fl Flood
 Summary Text: This is an activation led by OSM Libya for the Libya Floods of 2023.
 Feature Image: FL Flood
 Post-type: timeline
