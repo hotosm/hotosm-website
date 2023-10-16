@@ -20,7 +20,7 @@ Person:
 - Juan Arellano Valdivia
 ---
 
-Since 2022, the Humanitarian OpenStreetMap Team has initiated an ongoing effort to form a movement of participatory mapping of waste in open space, be it urban, natural or aquatic. The goal is for this movement to become bigger and stronger year after year, becoming a relevant force in generating data for the [Sustainable Development Goal](https://www.un.org/sustainabledevelopment/sustainable-consumption-production/) related to waste management.
+Since 2022, the Humanitarian OpenStreetMap Team has initiated an ongoing effort to form a movement of participatory mapping of waste in open space, be it urban, natural or aquatic. The goal is for this movement to become bigger and stronger year after year, becoming a relevant force in generating data for the [Sustainable Development Goal 12](https://www.un.org/sustainabledevelopment/sustainable-consumption-production/), related to waste management.
 
 In 2022, the [Mapillary](https://www.mapillary.com/) app was used to collect georeferenced images of waste-filled spaces or specific waste. The community was invited to participate, and student groups from Cusco, Peru, and Bolivia joined the initiative.
 
