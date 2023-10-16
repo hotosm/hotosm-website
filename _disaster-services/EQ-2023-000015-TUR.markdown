@@ -1,6 +1,8 @@
 ---
 title: Turkey and Syria Earthquake Response February 2023 Response
 date: 2023-02-06 22:15:00 Z
+Project:
+- HOT's Response to the Turkey & Syria Earthquake
 Glide: EQ-2023-000015-TUR
 Event Name: M 7.8 in Türkiye on 06 Feb 2023
 Country:
