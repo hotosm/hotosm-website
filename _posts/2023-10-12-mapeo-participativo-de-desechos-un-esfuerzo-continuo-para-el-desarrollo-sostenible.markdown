@@ -21,7 +21,7 @@ Person:
 - Juan Arellano Valdivia
 ---
 
-Desde 2022, el Equipo Humanitario de OpenStreetMap ha iniciado un esfuerzo continuo para formar un movimiento de mapeo participativo de desechos en el espacio abierto, sea urbano, natural o acuático. El objetivo es que este movimiento se vuelva más grande y fuerte año tras año, convirtiéndose en una fuerza relevante en la generación de datos para el [Objetivo de Desarrollo Sostenible](https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/) relacionado con el manejo de desechos.
+Desde 2022, el Equipo Humanitario de OpenStreetMap ha iniciado un esfuerzo continuo para formar un movimiento de mapeo participativo de desechos en el espacio abierto, sea urbano, natural o acuático. El objetivo es que este movimiento se vuelva más grande y fuerte año tras año, convirtiéndose en una fuerza relevante en la generación de datos para el [Objetivo de Desarrollo Sostenible 12](https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/), relacionado con el manejo de desechos.
 
 En 2022, se utilizó la aplicación [Mapillary](https://www.mapillary.com/) para recopilar imágenes georeferenciadas de espacios llenos de desechos o desechos puntuales. Se invitó a la comunidad a participar, y grupos estudiantiles de Cusco, Perú, y Bolivia se sumaron a la iniciativa.
 
