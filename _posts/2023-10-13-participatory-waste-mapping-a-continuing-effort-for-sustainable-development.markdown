@@ -20,7 +20,7 @@ Person:
 - Juan Arellano Valdivia
 ---
 
-Since 2022, the Humanitarian Team has initiated an ongoing effort to form a movement of participatory mapping of waste in open space, be it urban, natural or aquatic. The goal is for this movement to become bigger and stronger year after year, becoming a relevant force in generating data for the [Sustainable Development Goal](https://www.un.org/sustainabledevelopment/sustainable-consumption-production/) related to waste management.
+Since 2022, the Humanitarian OpenStreetMap Team has initiated an ongoing effort to form a movement of participatory mapping of waste in open space, be it urban, natural or aquatic. The goal is for this movement to become bigger and stronger year after year, becoming a relevant force in generating data for the [Sustainable Development Goal](https://www.un.org/sustainabledevelopment/sustainable-consumption-production/) related to waste management.
 
 In 2022, the [Mapillary](https://www.mapillary.com/) app was used to collect georeferenced images of waste-filled spaces or specific waste. The community was invited to participate, and student groups from Cusco, Peru, and Bolivia joined the initiative.
 
@@ -52,7 +52,7 @@ Where would it be useful to have a survey of abandoned garbage information? Over
 
 ![teams.jpg](/uploads/teams.jpg)
 
-The Humanitarian Team appreciates the enthusiasm and dedication with which the teams of mappers participated in this activity. And especially to the campaign leaders who in each country or region took on the selfless challenge of training and guiding their teams in the weeks that the participatory waste mapping lasted. To Dr. Patricia Llanos, Professor Gilmar Vergara and Louise Mathurin-Serieux our deep gratitude.
+The Humanitarian OpenStreetMap Team appreciates the enthusiasm and dedication with which the teams of mappers participated in this activity. And especially to the campaign leaders who in each country or region took on the selfless challenge of training and guiding their teams in the weeks that the participatory waste mapping lasted. To Dr. Patricia Llanos, Professor Gilmar Vergara and Louise Mathurin-Serieux our deep gratitude.
 
 *Also find out [how we collaborate](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) with National Institutes of Geography.*
 
