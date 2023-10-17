@@ -73,6 +73,13 @@ Despite the success of the ARP in Muzarabani, there were a few suggestions from 
 * It is important to know that floods in Muzarabani also cause secondary hazards mainly water borne diseases such as cholera, typhoid, malaria, and diarrhea.
 
 ### Outcomes
+* Caritas Zimbabwe staff and volunteers increased their knowledge and capacity on:
+* * How to use open source geospatial tools for data collection and mapping
+* * How to access and use open map data for disaster preparedness and response
+* * Enhanced map literacy skills, in particular, the ability to navigate and interpret interactive maps to be able to see the attributes associated with each mapped feature.
+* Improved accessibility to Caritas staff and stakeholders since the maps and data are available online and are easy to share and retrieve. There has been a shift from the use of paper based maps to digital maps for the organization, ensuring a safe repository of data and maps compared to paper maps, which can be worn out, become out of date or be lost easily.
+* The district now has more updated and detailed hazard maps for the wards, with more information compared to paper maps which provided less information. Following the training, district government employees and stakeholders feel more confident in using digital open mapping tools and there has been a shift in mindset from paper-based to embracing digital maps and data. 
+* Finally, the ARP program generated high-quality geospatial data and maps that can support anticipatory action initiatives such as contingency planning. The data collected in the pilot in Muzarabani has been used to identify the location of evacuation centers, road networks, and vulnerable areas and populations for the district. This information has served as an input to develop hazard maps and Multi-Hazard Contingency Plans (MHCP) for the pilot wards. Thus, the authorities can be more prepared before disaster strikes, and their response efforts can be backed up by concrete data. 
 
 ### Looking Forward
 In conclusion, by providing granular open geospatial data and maps for the creation of multi-hazard contingency plans, the ARP program has demonstrated that it can contribute to disaster preparedness and response at the local level. By anticipating and preparing for potential issues before they occur, communities can mitigate the devastating impacts of natural disasters. Disasters are everyone’s business.
