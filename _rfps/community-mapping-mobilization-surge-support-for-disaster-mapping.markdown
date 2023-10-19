@@ -17,7 +17,7 @@ HOT is seeking a consultant who is passionate about putting people at the center
 
 ## Scope of Work
 
-You can check the Scope of work here.
+You can check the [Scope of work here](https://drive.google.com/file/d/1jYhB5wjKdMtXtx670daceWwBbGHUZovH/view?usp=sharing).
 
 ## Proposal Requirements
 We are seeking to engage with consultants who can provide Community mapping mobilization surge support for 3 months, November 2023 to January 2024. We anticipate that the project should cost approximately $10,000.
