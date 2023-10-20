@@ -11,6 +11,8 @@ Summary Text: Activation led by HOT's Asia Pacific Hub following a series of ear
 Feature Image: EQ Earthquake
 Post-type: timeline
 Status: Active
-Campaign: 
+Campaign: Afghanistan Earthquake Response October 2023
+HDX: https://data.humdata.org/group/afg
+Wiki Page: 
 ---
 
