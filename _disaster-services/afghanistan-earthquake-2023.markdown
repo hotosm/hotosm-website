@@ -14,5 +14,6 @@ Status: Active
 Campaign: Afghanistan Earthquake Response October 2023
 HDX: https://data.humdata.org/group/afg
 Wiki Page: 
+Tracking: "#AfghanistanEarthquake2023"
 ---
 
