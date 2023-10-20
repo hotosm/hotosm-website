@@ -15,7 +15,7 @@ Summary Text: Activation led by HOT's West and Northern Africa Hub following the
 Feature Image: EQ Earthquake
 Post-type: timeline
 Campaign: Morocco Earthquake 2023
-Tracking: 
+Tracking: "#moroccoearthquake2023"
 Status: Active
 Report: 
 HDX: https://data.humdata.org/dataset?q=morocco%20hotosm&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
