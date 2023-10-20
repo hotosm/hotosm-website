@@ -1,6 +1,6 @@
 ---
 title: Libya Floods 2023
-date: 2023-09-18 19:43:00 Z
+date: 2023-09-10 19:43:00 Z
 Glide:
 - FL-2023-000170-LBY
 Event Name: 2023 Libya Floods
@@ -12,6 +12,7 @@ Post-type: timeline
 Campaign: https://tasks.hotosm.org/explore?campaign=Libya%20Floods%202023
 Tracking: "#LibyaFloods2023"
 Report: available
+HDX: https://data.humdata.org/event/libya-floods
 ---
 
 <h2>Context</h2>
