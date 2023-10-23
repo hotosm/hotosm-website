@@ -9,10 +9,11 @@ Event type: Fl Flood
 Summary Text: This is an activation led by OSM Libya for the Libya Floods of 2023.
 Feature Image: Fl Flood
 Post-type: timeline
-Campaign: https://tasks.hotosm.org/explore?campaign=Libya%20Floods%202023
+Campaign: <a href="https://tasks.hotosm.org/explore?campaign=Libya%20Floods%202023">Libya</a>
 Tracking: LibyaFloods2023
 Report: available
 HDX: https://data.humdata.org/event/libya-floods
+Resources: N/A
 ---
 
 <h2>Context</h2>
