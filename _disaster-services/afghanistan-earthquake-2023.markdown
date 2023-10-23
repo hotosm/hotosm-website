@@ -12,7 +12,7 @@ Feature Image: EQ Earthquake
 Post-type: timeline
 Status: Active
 Campaign: Afghanistan Earthquake Response October 2023
-HDX: https://data.humdata.org/group/afg
+HDX: https://data.humdata.org/group/afg <a href="https://data.humdata.org/organization/hot?q=afghanistan">Afghanistan</a>
 Wiki Page: https://wiki.openstreetmap.org/wiki/2023_Afghanistan_Earthquake
 Tracking: AfghanistanEarthquake2023
 ---
