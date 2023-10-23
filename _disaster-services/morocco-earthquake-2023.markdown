@@ -20,7 +20,7 @@ Status: Active
 Report: 
 HDX: https://data.humdata.org/dataset?q=morocco%20hotosm&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
 Resources: https://community.openstreetmap.org/t/activation-for-the-morocco-earthquake-response/103649
-Wiki-page: https://wiki.openstreetmap.org/wiki/2023_Morocco_Earthquake
+Wiki-page: '<a href="https://wiki.openstreetmap.org/wiki/2023_Morocco_Earthquake">Morocco</a> '
 GDACS-level: Red (2.1)
 ---
 
