@@ -10,7 +10,7 @@ Summary Text: This is an activation led by OSM Libya for the Libya Floods of 202
 Feature Image: Fl Flood
 Post-type: timeline
 Campaign: <a href="https://tasks.hotosm.org/explore?campaign=Libya%20Floods%202023">Libya</a>
-Tracking: LibyaFloods2023
+Tracking: libyafloods2023
 Report: available
 HDX: https://data.humdata.org/event/libya-floods
 Resources: N/A
