@@ -5,7 +5,10 @@ Photo: https://cdn.hotosm.org/website/IMG_20221019_081531.jpg
 Member Type:
   Is Staff: false
   Is Voting Member: true
-Job Title: Online Community Support and Services Intern
+Job Title: Chairperson - Community Working Group
+Working Group:
+- Community
+- 
 Languages:
 - English
 - Twi
