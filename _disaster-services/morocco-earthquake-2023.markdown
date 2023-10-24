@@ -16,10 +16,9 @@ Feature Image: EQ Earthquake
 Post-type: timeline
 Campaign: Morocco Earthquake 2023
 Tracking: moroccoearthquake2023
-Status: Active
-Report: 
-HDX: https://data.humdata.org/dataset?q=morocco%20hotosm&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
-Resources: https://community.openstreetmap.org/t/activation-for-the-morocco-earthquake-response/103649
+Status: size-up
+HDX: ' <a href="https://data.humdata.org/organization/hot?q=morocco&ext_page_size=25">Morocco</a>'
+Resources: '  <a href="https://community.openstreetmap.org/t/activation-for-the-morocco-earthquake-response/103649">Community</a>'
 Wiki-page: '<a href="https://wiki.openstreetmap.org/wiki/2023_Morocco_Earthquake">Morocco</a> '
 GDACS-level: Red (2.1)
 ---
