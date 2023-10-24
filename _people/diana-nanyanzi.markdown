@@ -1,9 +1,10 @@
 ---
 title: Diana Nanyanzi
 date: 2020-11-05 12:48:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Diana-first+(1).jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Developer
 Country: Uganda
 Team: Tech Team
