@@ -10,7 +10,7 @@ Summary Text: Activation led by HOT's Asia Pacific Hub following a series of ear
   in Afghanistan in October 2023.
 Feature Image: EQ Earthquake
 Post-type: timeline
-Status: Active
+Status: size-up
 Campaign: Afghanistan Earthquake Response October 2023
 HDX: <a href="https://data.humdata.org/organization/hot?q=afghanistan">Afghanistan</a>
 Wiki Page: https://wiki.openstreetmap.org/wiki/2023_Afghanistan_Earthquake
