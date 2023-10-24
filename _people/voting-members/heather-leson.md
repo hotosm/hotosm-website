@@ -5,6 +5,10 @@ Photo: https://cdn.hotosm.org/website/HeatherLeson-300x169-2fb66c.jpg
 Member Type:
   Is Voting Member: true
   Is Board Member: false
+Job Title: Chairperson - Governance Working Group
+Working Group:
+- Governance
+- 
 Country: Switzerland
 Social Media (Full URL):
   Twitter: https://twitter.com/heatherleson
