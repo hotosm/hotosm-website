@@ -12,8 +12,9 @@ Post-type: timeline
 Campaign: <a href="https://tasks.hotosm.org/explore?campaign=Libya%20Floods%202023">Libya</a>
 Tracking: libyafloods2023
 Report: available
-HDX: https://data.humdata.org/event/libya-floods
+HDX: ' <a href="https://data.humdata.org/event/libya-floods">Libya</a>'
 Resources: N/A
+Status: size-up
 ---
 
 <h2>Context</h2>
