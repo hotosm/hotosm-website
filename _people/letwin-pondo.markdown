@@ -2,6 +2,11 @@
 title: Letwin Pondo
 date: 2023-10-03 23:04:00 Z
 Photo: "/uploads/Letwin%20-%20Letwin%20Pondo.jpg"
+Member Type:
+  Is Voting Member: true
+Working Group:
+- Community
+- Activation
 Country: Zimbabwe
 Social Media (Full URL):
   Twitter: 'https://twitter.com/LetwinNomsa?t=1pLDy7Huhg1eZbzMI7pZlw&s=09:'
