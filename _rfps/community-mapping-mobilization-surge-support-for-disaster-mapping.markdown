@@ -9,7 +9,7 @@ Page Contact:
 
 ## About the Assignment
 
-The Humanitarian OpenStreetMap Team (HOT) is requesting proposals from October 19 to 31, 2023. HOT is looking to engage the services of an individual with experience in disaster mapping, community mobilizing and trends analysis. We aim to ensure the completion of our emergency response efforts and to surge mobilization and support of HOT’s disaster mapping community.
+The Humanitarian OpenStreetMap Team (HOT) is requesting proposals from October 19 to 31, 2023. HOT is looking to engage the services of an individual with experience in disaster mapping, community mobilizing and trends analysis. We aim to ensure the completion of our emergency response efforts  (with priority on Morocco Earthquake response) and to surge mobilization and support of HOT’s disaster mapping community.
 
 The Consultant will collaborate with the Online Community Team (under the Community and Partnerships Team) to conduct analysis on mapping project and mapper activity trends. The research and recommendations will be used to inform the Volunteer Engagement Strategy.
 
