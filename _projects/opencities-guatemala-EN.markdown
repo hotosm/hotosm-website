@@ -22,7 +22,7 @@ Project: 'Open Data for Resilience and Risk Management Initiative: Open Cities L
 
 ## Objective
 
-The OpenCities Guatemala Project focuses on developing a concept called “Community Forest Management Model supported by geographic data”. The central idea behind this concept is to encourage and support the formulation of projects and initiatives for forest conservation, forest restoration and sustainable forest management at a community scale, through a process of building capacities for the generation of geographic data and the creation of an information platform that contributes to planning, monitoring and decision-making on sustainable forest management projects at the community level in selected territories.
+The OpenCities Guatemala Project focused on developing a concept called “Community Forest Management Model supported by geographic data”. The central idea behind this concept is to encourage and support the formulation of projects and initiatives for forest conservation, forest restoration and sustainable forest management at a community scale, through a process of building capacities for the generation of geographic data and the creation of an information platform that contributes to planning, monitoring and decision-making on sustainable forest management projects at the community level in selected territories.
 
 ## Background
 
