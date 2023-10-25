@@ -20,11 +20,11 @@ Partner:
 
 ## Objetivo
 
-El Proyecto OpenCities Guatemala se enfoca en desarrollar un concepto denominado “Modelo de Gestión Forestal Comunitaria apoyada por datos geográficos”.  La idea central detrás de este concepto es fomentar y dar soporte a la formulación de proyectos e iniciativas de conservación de los bosques, restauración forestal y gestión forestal sostenible a escala comunitaria, mediante un proceso de construcción de capacidades para la generación de datos geográficos y la creación de una plataforma de información que contribuya con la planificación, seguimiento y toma de decisiones sobre proyectos de manejo forestal sostenible en el ámbito comunitario en territorios seleccionados.
+El Proyecto OpenCities Guatemala se enfocó en desarrollar un concepto denominado “Modelo de Gestión Forestal Comunitaria apoyada por datos geográficos”.  La idea central detrás de este concepto fue fomentar y dar soporte a la formulación de proyectos e iniciativas de conservación de los bosques, restauración forestal y gestión forestal sostenible a escala comunitaria, mediante un proceso de construcción de capacidades para la generación de datos geográficos y la creación de una plataforma de información que contribuya con la planificación, seguimiento y toma de decisiones sobre proyectos de manejo forestal sostenible en el ámbito comunitario en territorios seleccionados.
 
 ## Antecedentes
 
-Basándose en el éxito de los proyectos de Open Cities en Asia y África, OpenCities Guatemala se desarrolla en consonancia con el Programa de Ciudades Resilientes de [GFDRR](https://www.gfdrr.org/en) y se ejecuta a través de una asociación única entre GFDRR y Humanitarian OpenStreetMap Team, en la cual HOT asume el rol de socio implementador del proyecto brindando asistencia técnica y control de calidad a las comunidades locales, así como apoyo con el desarrollo del material de entrenamiento, a través de procesos que pretenden catalizar la creación, gestión y uso de datos abiertos en la producción de soluciones innovadoras para la planificación territorial y la resiliencia.
+Basándose en el éxito de los proyectos de Open Cities en Asia y África, OpenCities Guatemala se desarrolló en consonancia con el Programa de Ciudades Resilientes de [GFDRR](https://www.gfdrr.org/en) y se ejecutó a través de una asociación única entre GFDRR y Humanitarian OpenStreetMap Team, en la cual HOT asumió el rol de socio implementador del proyecto, brindando asistencia técnica y control de calidad a las comunidades locales, así como apoyo con el desarrollo del material de entrenamiento, a través de procesos que pretenden catalizar la creación, gestión y uso de datos abiertos en la producción de soluciones innovadoras para la planificación territorial y la resiliencia.
 
 ![LAC_OpenCitiesGT_2.webp](/uploads/LAC_OpenCitiesGT_2.webp)
 
@@ -50,7 +50,7 @@ Las cofradías:
 
 ![LAC_OpenCitiesGT_3.jpeg](/uploads/LAC_OpenCitiesGT_3.jpeg)
 
-En esta primera etapa el proyecto se enfoca en trabajar con un grupo de mujeres y hombres, jóvenes indígenas locales que han conformado un grupo de trabajo que hace esfuerzos por la preservación de los bosques comunales y sitios sagrados del municipio de Poaquil, mediante el uso de herramientas tecnológicas que ayuden a mejorar sus capacidades para el manejo del bosque y la agricultura, así como para prevenir y mitigar amenazas que se ciernen sobre sus bosques como las plagas y los incendios forestales.
+En la primera etapa el proyecto se enfocó en trabajar con un grupo de mujeres y hombres, jóvenes indígenas locales que han conformado un grupo de trabajo que hace esfuerzos por la preservación de los bosques comunales y sitios sagrados del municipio de Poaquil, mediante el uso de herramientas tecnológicas que ayuden a mejorar sus capacidades para el manejo del bosque y la agricultura, así como para prevenir y mitigar amenazas que se ciernen sobre sus bosques como las plagas y los incendios forestales.
 
 ![LAC_OpenCitiesGT_4.jpeg](/uploads/LAC_OpenCitiesGT_4.jpeg)
 
@@ -58,15 +58,15 @@ En esta primera etapa el proyecto se enfoca en trabajar con un grupo de mujeres 
 
 ### ¿Cómo trabajamos?
 
-De manera colaborativa con la comunidad se toma la decisión de enfocar el proyecto en apoyar y dar asistencia y acompañamiento técnico a un grupo de jóvenes mapeadores locales -designados por las autoridades ancestrales indígenas de la Alcaldía Indígena y la Cofradía Ancestral- para desarrollar sus capacidades de generación y utilización de datos geográficos en el fortalecimiento de sus iniciativas de manejo sostenible y conservación de sus bosques comunitarios.
+De manera colaborativa con la comunidad se tomó la decisión de enfocar el proyecto en apoyar y dar asistencia y acompañamiento técnico a un grupo de jóvenes mapeadores locales -designados por las autoridades ancestrales indígenas de la Alcaldía Indígena y la Cofradía Ancestral- para desarrollar sus capacidades de generación y utilización de datos geográficos en el fortalecimiento de sus iniciativas de manejo sostenible y conservación de sus bosques comunitarios.
 
 ![LAC_OpenCitiesGT_5.webp](/uploads/LAC_OpenCitiesGT_5.webp)
 
-El grupo de trabajo está conformado por jóvenes indígenas con estudios universitarios, originarios del municipio de San José Poaquil, con edades comprendidas entre los 21 y 30 años. Alrededor de la mitad de ellos trabajan en el área de tecnologías de la información y la comunicaciones. Algunos fueron participantes  del Proyecto DASSO (Data y Drones para la agricultura sostenible) en el que han utilizado imágenes y video capturado mediante drones para monitorear el estado de los bosques y las parcelas agrícolas.
+El grupo de trabajo se conformó por jóvenes indígenas con estudios universitarios, originarios del municipio de San José Poaquil, con edades comprendidas entre los 21 y 30 años. Alrededor de la mitad de ellos trabajan en el área de tecnologías de la información y la comunicaciones. Algunos fueron participantes  del Proyecto DASSO (Data y Drones para la agricultura sostenible) en el que han utilizado imágenes y video capturado mediante drones para monitorear el estado de los bosques y las parcelas agrícolas.
 
 ![LAC_OpenCitiesGT_6.jpeg](/uploads/LAC_OpenCitiesGT_6.jpeg)
 
-En este sentido, y con el fin de desarrollar las habilidades de los miembros del grupo de trabajo de San José Poaquil y que puedan asumir el proceso de llenar los vacíos de datos identificados en la fase anterior para abordar adecuadamente el planteamiento del problema, se ha formulado un ambicioso Plan de Fortalecimiento de Capacidades en la generación y gestión de datos geográficos para el manejo forestal comunitario.
+En este sentido, y con el fin de desarrollar las habilidades de los miembros del grupo de trabajo de San José Poaquil y que puedan asumir el proceso de llenar los vacíos de datos identificados en la fase anterior para abordar adecuadamente el planteamiento del problema, se formuló un ambicioso Plan de Fortalecimiento de Capacidades en la generación y gestión de datos geográficos para el manejo forestal comunitario.
 
 ![LAC_OpenCitiesGT_5_5.webp](/uploads/LAC_OpenCitiesGT_5_5.webp)
 
@@ -80,14 +80,13 @@ Mediante la realización de una serie de actividades preparatorias, se diseñó 
 
 ![LAC_OpenCitiesGT_8.webp](/uploads/LAC_OpenCitiesGT_8.webp)
 
-Este plan constituye uno de los pilares del Proyecto Open Cities Guatemala, ya que pretende preparar a los participantes del proyecto para su involucramiento en actividades de recopilación de información geográfica, mapeo, gestión de datos espaciales y su utilización para abordar el problema planteado. El plan fue formulado por el equipo de Geotecnológica -el socio implementador local- y posteriormente presentado, discutido y aprobado conjuntamente con las contrapartes locales de San José Poaquil, así como con representantes del Proyecto MDE.
+Este plan constituyó uno de los pilares del Proyecto Open Cities Guatemala, ya que preparó a los participantes del proyecto para su involucramiento en actividades de recopilación de información geográfica, mapeo, gestión de datos espaciales y su utilización para abordar el problema planteado. El plan fue formulado por el equipo de Geotecnológica -el socio implementador local- y posteriormente presentado, discutido y aprobado conjuntamente con las contrapartes locales de San José Poaquil, así como con representantes del Proyecto MDE.
 
 ![LAC_OpenCitiesGT_9.jpeg](/uploads/LAC_OpenCitiesGT_9.jpeg)
 
-Con la implementación del Plan de Fortalecimiento de Capacidades sobre Mapeo Abierto en el municipio de San José Poaquil se persigue crear una comunidad de personas con habilidades y competencias en las técnicas y tecnologías de mapeo abierto que puedan generar y gestionar información geográfica sobre su territorio, que les permita mejorar sus capacidades para manejar y conservar el bosque comunitario del municipio así como formular, gestionar e implementar otras iniciativas locales relacionadas con el desarrollo sostenible, la gestión de riesgo o cualquier tema de interés local que tenga relación con la caracterización de su territorio.
+Con la implementación del Plan de Fortalecimiento de Capacidades sobre Mapeo Abierto en el municipio de San José Poaquil se creó una comunidad de personas con habilidades y competencias en las técnicas y tecnologías de mapeo abierto que puedan generar y gestionar información geográfica sobre su territorio, que les permita mejorar sus capacidades para manejar y conservar el bosque comunitario del municipio así como formular, gestionar e implementar otras iniciativas locales relacionadas con el desarrollo sostenible, la gestión de riesgo o cualquier tema de interés local que tenga relación con la caracterización de su territorio.
 
 ![LAC_OpenCitiesGT_10.webp](/uploads/LAC_OpenCitiesGT_10.webp)
-
 
 La Fase Dos del proyecto ha consistido en la construcción de compromiso comunitario, la capacitación, recopilación y procesamiento de datos con participación de personas de la comunidad. En esta fase, el equipo de Geotecnológica ha abordado las brechas de datos críticos relevantes para atender el déficit de información para la gestión forestal de la comunidad.
 
