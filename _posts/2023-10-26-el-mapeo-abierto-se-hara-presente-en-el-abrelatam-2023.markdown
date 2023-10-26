@@ -33,7 +33,7 @@ A continuación las actividades mas importantes de las que haremos parte:
 
 > A cargo de nuestro Director Fabrizio Scrollini.
 
-1 de noviembre: ODS: **[La confluencia de la estadística y los datos geográficos](https://llamado.abrelatam.org/abrelatam-condatos-2023/talk/YMTJDC/)**.
+1 de noviembre: **[ODS: La confluencia de la estadística y los datos geográficos](https://llamado.abrelatam.org/abrelatam-condatos-2023/talk/YMTJDC/)**.
 
 > Los institutos nacionales de estadística son claves en producir datos que sirvan al desarrollo. Exploraremos iniciativas y retos al utilizar datos geográficos con estos fines. Nos acompañarán representantes de Infraestructura de Datos Espaciales de Uruguay (IDEuy) y de la Sociedad boliviana de las Ciencias del Suelo.
 
