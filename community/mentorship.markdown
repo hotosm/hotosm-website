@@ -10,6 +10,7 @@ published: false
 2023 Mentorship Program: Building on the pilot mentorship program, we are proceeding
   with a Mentor-mentee and group mentorship structure. Lessons, feedback, suggestions
   from the pilot will be heavily incorporated into this design.
+Field name: 
 ---
 
 The HOT Community Working Group initiated a Mentorship Program to provide peer to peer learning and knowledge exchange in the humanitarian and open mapping space. 
