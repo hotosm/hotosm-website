@@ -46,7 +46,9 @@ A continuación las actividades mas importantes de las que haremos parte:
 
 > Se presentarán distintos casos de implementación de iniciativas de capacitación en datos y mapeo abierto orientadas a formar una ciudadanía responsable. Serán parte de la mesa representantes de SocialTic, Codeando México y Meninas da Geo.
 
-1 de noviembre: **[Soberanía de datos, mapeo abierto y territorios indígenas](https://llamado.abrelatam.org/abrelatam-condatos-2023/talk/EX787L/)**. La gobernanza y gestión de los datos -en particular los geográficos- se torna esencial para que las poblaciones originarias puedan ejercer sus derechos y realicen una adecuada protección de sus territorios. Nos acompañarán representantes de la Universidad Nacional Mayor de San Marcos, Perú; Internet Bolivia y Geotecnológica de Guatemala.
+1 de noviembre: **[Soberanía de datos, mapeo abierto y territorios indígenas](https://llamado.abrelatam.org/abrelatam-condatos-2023/talk/EX787L/)**.
+
+> La gobernanza y gestión de los datos -en particular los geográficos- se torna esencial para que las poblaciones originarias puedan ejercer sus derechos y realicen una adecuada protección de sus territorios. Nos acompañarán representantes de la Universidad Nacional Mayor de San Marcos, Perú; Internet Bolivia y Geotecnológica de Guatemala.
 
 Varios miembros del equipo del Hub estarán presentes en el evento muy dispuestos a compartir momentos de aprendizaje y confraternidad. Si tienes alguna inquietud relacionada con el mapeo abierto en la región pues será un buen momento para que te acerques y nos preguntes, o si tan solo quieres saludar, nosotros felices de conocerte! Nos vemos del 31 de octubre al 3 de noviembre en Montevideo!
 
