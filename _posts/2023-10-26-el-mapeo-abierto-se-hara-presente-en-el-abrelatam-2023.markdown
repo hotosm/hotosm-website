@@ -10,7 +10,7 @@ tags:
 - mapeo abierto
 Summary Text: "¡Participaremos de AbreLatam/ConDatos 2023! El evento regional sobre
   datos abiertos y gobierno abierto donde se reúnen las organizaciones e individuos
-  que trabajan en estos temas."
+  que  impulsan estos temas."
 Feature Image: "/uploads/abrelatamcondatos.jpg"
 Person: Juan Arellano Valdivia
 ---
