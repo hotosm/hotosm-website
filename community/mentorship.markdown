@@ -1,7 +1,6 @@
 ---
 title: Open Mapping Mentorship
 date: 2023-10-10 12:43:00 Z
-published: false
 2022 Pilot Mentorship: In the pilot phase, the mentorship structure is peer mentorship.
   In peer mentorship, all members receive mentorship and are organized by a group
   facilitator who is already part of the group. The choice of this type of mentorship
