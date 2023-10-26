@@ -22,3 +22,13 @@ A continuación las actividades mas importantes de las que haremos parte:
 1 de noviembre: **[Formando una ciudadanía activa y responsable con el mapeo abierto](https://llamado.abrelatam.org/abrelatam-condatos-2023/talk/GVRZRD/)**. Se presentarán distintos casos de implementación de iniciativas de capacitación en datos y mapeo abierto orientadas a formar una ciudadanía responsable. Serán parte de la mesa representantes de SocialTic, Codeando México y Meninas da Geo.
 
 1 de noviembre: **[Soberanía de datos, mapeo abierto y territorios indígenas](https://llamado.abrelatam.org/abrelatam-condatos-2023/talk/EX787L/)**. La gobernanza y gestión de los datos -en particular los geográficos- se torna esencial para que las poblaciones originarias puedan ejercer sus derechos y realicen una adecuada protección de sus territorios. Nos acompañarán representantes de la Universidad Nacional Mayor de San Marcos, Perú; Internet Bolivia y Geotecnológica de Guatemala.
+
+Varios miembros del equipo del Hub estarán presentes en el evento muy dispuestos a compartir momentos de aprendizaje y confraternidad. Si tienes alguna inquietud relacionada con el mapeo abierto en la región pues será un buen momento para que te acerques y nos preguntes, o si tan solo quieres saludar, nosotros felices de conocerte! Nos vemos del 31 de octubre al 3 de noviembre en Montevideo!
+
+*Acá nuestra [publicación](https://www.hotosm.org/updates/america-abierta-2022/) sobre el AbreLatam del año pasado.*
+
+*Si quieres ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
+
+*Si eres parte de alguna organización que desea explorar cómo colaborar en un proyecto de cartografía digital, escribe un correo a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Proyectos LAC**.*
+
+**Síguenos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).**
