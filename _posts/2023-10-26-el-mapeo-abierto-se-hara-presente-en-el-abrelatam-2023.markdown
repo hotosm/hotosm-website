@@ -1,6 +1,18 @@
 ---
 title: El mapeo abierto se hará presente en el AbreLatam 2023
 date: 2023-10-26 03:57:00 Z
+categories:
+- news
+tags:
+- noticias
+- datos abiertos
+- uruguay
+- mapeo abierto
+Summary Text: "¡Participaremos de AbreLatam/ConDatos 2023! El evento regional sobre
+  datos abiertos y gobierno abierto donde se reúnen las organizaciones e individuos
+  que trabajan en estos temas."
+Feature Image: "/uploads/abrelatamcondatos.jpg"
+Person: Juan Arellano Valdivia
 ---
 
 Del 31 de octubre al 3 de noviembre de este año se realizará la décima edición del [AbreLatam / Condatos](https://2023.abrelatam.org/), el encuentro sobre **Datos Abiertos** más importante de América Latina y el Caribe, y el momento esperado por la comunidad datera de la región para compartir experiencias y cocrear la agenda regional sobre los datos abiertos.
