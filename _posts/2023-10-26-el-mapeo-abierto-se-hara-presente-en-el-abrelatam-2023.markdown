@@ -32,7 +32,7 @@ A continuación las actividades mas importantes de las que haremos parte:
 
 31 de octubre: **[Lanzamiento del Hub de mapeo abierto para América Latina y el Caribe](https://llamado.abrelatam.org/abrelatam-condatos-2023/talk/ZXF33L/)**.
 
-> A cargo de nuestro Director Fabrizio Scrollini.
+> La presentación del Hub de Mapeo Abierto para América Latina y el Caribe estará a cargo de nuestro Director Fabrizio Scrollini.
 
 1 de noviembre: **[ODS: La confluencia de la estadística y los datos geográficos](https://llamado.abrelatam.org/abrelatam-condatos-2023/talk/YMTJDC/)**.
 
