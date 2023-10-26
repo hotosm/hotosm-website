@@ -20,3 +20,5 @@ The Program is also inspired by Angela Teyvi during her Community Working Group 
 We built upon the knowledge and efforts of other mapping communities in conducting their mentorship program, most specifically [Women+ in Geospatial (W+G) Mentorship Programme.](https://womeningeospatial.org/mentorship-programme/)
 
 The pilot program was initiated in 2022 and continued in 2023.
+
+Read more about it in the [OSM Wiki.](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Community/Mentorship)
