@@ -50,6 +50,10 @@ A continuación las actividades mas importantes de las que haremos parte:
 
 > La gobernanza y gestión de los datos -en particular los geográficos- se torna esencial para que las poblaciones originarias puedan ejercer sus derechos y realicen una adecuada protección de sus territorios. Nos acompañarán representantes de la Universidad Nacional Mayor de San Marcos, Perú; Internet Bolivia y Geotecnológica de Guatemala.
 
+1 de noviembre: **[Datos abiertos en la administración de tierras en América Latina](https://llamado.abrelatam.org/abrelatam-condatos-2023/talk/7WRMSZ/)**.
+
+> Los datos abiertos en la administración de tierras es uno de los conjuntos de datos peor calificados por el barómetro de datos. Este panel busca elevar las discusiones a la luz de experiencias de Infraestructuras Nacionales de Datos Espaciales, Mapas, y la guía de apertura en administración de tierras. Participara Celine Jacquin, Gerente Regional de HOT y otros destacados panelistas.
+
 Varios miembros del equipo del Hub estarán presentes en el evento muy dispuestos a compartir momentos de aprendizaje y confraternidad. Si tienes alguna inquietud relacionada con el mapeo abierto en la región pues será un buen momento para que te acerques y nos preguntes, o si tan solo quieres saludar, nosotros felices de conocerte! Nos vemos del 31 de octubre al 3 de noviembre en Montevideo!
 
 *Acá nuestra [publicación](https://www.hotosm.org/updates/america-abierta-2022/) sobre el AbreLatam del año pasado.*
