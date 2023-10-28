@@ -13,7 +13,7 @@ Field name:
 layout: page
 ---
 
-[Mentorship_onboarding1_27May2023.png](/uploads/Mentorship_onboarding1_27May2023.png)
+![Mentorship_onboarding1_27May2023.png](/uploads/Mentorship_onboarding1_27May2023.png)
 
 The HOT Community Working Group initiated a Mentorship Program to provide peer to peer learning and knowledge exchange in the humanitarian and open mapping space. 
 
@@ -23,4 +23,4 @@ We built upon the knowledge and efforts of other mapping communities in conducti
 
 The pilot program was initiated in 2022 and continued in 2023.
 
-Read more about it in the [OSM Wiki.](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Community/Mentorship)!
+Read more about it in the [OSM Wiki.](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Community/Mentorship)
