@@ -13,7 +13,7 @@ Field name:
 layout: page
 ---
 
-![Mentorship_onboarding1_27May2023.png](/uploads/Mentorship_onboarding1_27May2023.png)
+![Mentorship_onboarding1_27May2023 (1).png](/uploads/Mentorship_onboarding1_27May2023%20(1).png)
 
 The HOT Community Working Group initiated a Mentorship Program to provide peer to peer learning and knowledge exchange in the humanitarian and open mapping space. 
 
