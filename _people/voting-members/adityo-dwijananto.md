@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Adis.png
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Technical Projects Coordinator
+Job Title: Open Data Specialist
 Working Group:
 - Activation
 Project:
