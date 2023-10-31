@@ -4,7 +4,7 @@ date: 2017-08-15 19:37:00 Z
 Photo: https://cdn.hotosm.org/website/ivan_black_background.jpeg
 Member Type:
   Is Staff: true
-Job Title: Senior Humanitarian Advisor
+Job Title: Product Innovation Manager & Humanitarian Advisor
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/ivangayton
   Twitter: https://twitter.com/ivangayton
