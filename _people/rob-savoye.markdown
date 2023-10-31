@@ -4,7 +4,7 @@ date: 2020-09-24 14:15:00 Z
 Photo: https://cdn.hotosm.org/website/rsavoye.png
 Member Type:
   Is Staff: true
-Job Title: Senior Technical Lead
+Job Title: Senior Architect
 Country: United States
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/rsavoye
