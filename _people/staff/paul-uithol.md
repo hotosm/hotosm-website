@@ -4,7 +4,7 @@ date: 2015-07-14 16:44:00 Z
 Photo: https://cdn.hotosm.org/website/paul-858a81.JPG
 Member Type:
   Is Staff: true
-Job Title: Director, Data
+Job Title: Deputy Technology & Data Director
 Working Group:
 - Communications
 Project:
