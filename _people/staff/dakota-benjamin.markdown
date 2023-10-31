@@ -4,7 +4,7 @@ date: 2018-06-01 19:55:00 Z
 Photo: https://cdn.hotosm.org/website/dakota-profile.png
 Member Type:
   Is Staff: true
-Job Title: DevOps Manager
+Job Title: Devops Manager
 Country: United States
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/dakotabenjamin
