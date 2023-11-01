@@ -53,11 +53,14 @@ This project was developed through a co-creation process with policymakers, emph
 
 ### Follow us on:
 
+* [LinkedIn](https://www.linkedin.com/company/hot-west-and-north-africa-hub/)
+
 * [Twitter](https://twitter.com/openmapping_wna)
 
 * [Facebook](https://www.facebook.com/Hotwnah)
 
 * [Instagram](https://www.instagram.com/open.mapping.hubs/)
+
 
 ![WHALandingPage.jpeg](/uploads/WHALandingPage.jpeg)
 *Monrovia, Liberia. Photo by: Carter Draper*
