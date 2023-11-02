@@ -1,6 +1,6 @@
 ---
 title: Hurricane Otis 2023 Response
-date: 2023-11-02 20:17:00 Z
+date: 2023-10-30 20:17:00 Z
 Glide:
 - TC-2023-000209-MEX
 Event Type: TC Tropical Cyclone
