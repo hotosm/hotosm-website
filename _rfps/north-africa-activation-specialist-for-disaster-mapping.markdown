@@ -3,9 +3,12 @@ title: North Africa Activation Specialist for Disaster Mapping
 date: 2023-11-06 20:28:00 Z
 published: false
 Deadline Date: 2023-11-13 00:00:00 Z
+Page Contact:
+  Contact Email: omowonuola.akintola@hotosm.org
+  Label: Submit Application
 ---
 
-About the Assignment
+## About the Assignment
 
 The Humanitarian OpenStreetMap Team (HOT) through the  West and Northern Africa Hub (WNAH)  is requesting proposals from November 6 to 13, 2023. 
 
@@ -15,20 +18,20 @@ The Consultant will collaborate with the West and Northern Africa Hub (WNAH) to 
 
 We are seeking a consultant who is passionate about putting people at the center of technology. You are driven by delivering impact to a community of diverse users. You have a passion for humanitarian response and open mapping with communities.
 
-Scope of Work
+## Scope of Work
 
-You can check the Scope of work here<link>.
+You can check the Scope of work here.
 
-Proposal Requirements
+## Proposal Requirements
 
 We are seeking to engage with consultants who can support this mapping and validation effort for 2 months, November to January 2024. We anticipate that the project should cost approximately $5,000.
 
-To be considered for this contract award under this request for proposals, please submit the written proposal (not exceeding 2 pages ) + 1 page resume in English.
+To be considered for this contract award under this request for proposals, please submit a written proposal (not exceeding 2 pages ) and a 1 page resume in English.
 
 The proposal must include the following information:
 
-A brief overview of your background and experience with links to prior work, either professional or volunteer 
-A work plan (with budget) of your proposed approach to complete the scope of work
-Your availability and overall fees
+* A brief overview of your background and experience with links to prior work, either professional or volunteer 
+* A work plan (with budget) of your proposed approach to complete the scope of work
+* Your availability and overall fees
 
-Please submit proposals to Omowonuola Akintola at omowonuola.akintola@hotosm.org by 13th of November, 2023.
+**Please submit proposals to Omowonuola Akintola at [omowonuola.akintola@hotosm.org](mailto:omowonuola.akintola@hotosm.org) by 13th of November, 2023.**
