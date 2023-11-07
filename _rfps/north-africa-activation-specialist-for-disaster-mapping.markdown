@@ -3,9 +3,13 @@ title: North Africa Activation Specialist for Disaster Mapping
 date: 2023-11-06 20:28:00 Z
 published: false
 Deadline Date: 2023-11-13 00:00:00 Z
+Apply Form Link: https://docs.google.com/document/d/1spiwAukE5pbJ83I9sDR5OmHadXomu2Qln7xDG4rzlMg/edit?usp=sharing
 Page Contact:
   Contact Email: omowonuola.akintola@hotosm.org
   Label: Submit Application
+Page Link:
+  Link: https://docs.google.com/document/d/1spiwAukE5pbJ83I9sDR5OmHadXomu2Qln7xDG4rzlMg/edit?usp=sharing
+  Text: Read more about this opportunity.
 ---
 
 ## About the Assignment
@@ -20,7 +24,7 @@ We are seeking a consultant who is passionate about putting people at the center
 
 ## Scope of Work
 
-You can check the Scope of work here.
+You can check the Scope of work [here](https://docs.google.com/document/d/1spiwAukE5pbJ83I9sDR5OmHadXomu2Qln7xDG4rzlMg/edit?usp=sharing).
 
 ## Proposal Requirements
 
