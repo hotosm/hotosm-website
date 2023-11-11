@@ -14,7 +14,7 @@ block-0:
     bring their events as part of this global movement."
   Action-text: 
   Link: 
-  Image: "/uploads/1.png"
+  Image: "/uploads/OpenSummit%20Map.png"
 block-1:
   Title: A brief history of the OpenSummit
   Text: |-
