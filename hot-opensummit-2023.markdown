@@ -24,7 +24,7 @@ block-1:
   Action-text: Learn more about unSummit 2022
   Link: "/unsummit2022"
   Image: "/uploads/FOSS4G%20Firenze.webp"
-  Image-text: "*FOSS4G 2022*"
+  Image-text: "*State of the Map 2022*"
 block-2:
   Title: Ready to apply?
   Text: "The call for collaborations will remain open till 2024, and the selection
