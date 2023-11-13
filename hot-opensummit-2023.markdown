@@ -3,7 +3,18 @@ title: HOT OpenSummit '23-24
 date: 2023-07-17 20:29:00 Z
 permalink: opensummit23-24
 summit-image: "/uploads/Website%20MainBanner-51e09d.png"
-intro-text: 
+intro-text: |-
+  The HOT OpenSummit is excited to join:
+
+  * [State of the Map Nigeria](https://2023.stateofthemapnigeria.org/), Abuja, Nigeria: October 11-14, 2023
+  * [FOSS4G + SotM Oceania](https://2023.foss4g-oceania.org/), Auckland, New Zealand: October 16-20, 2023
+  * [AbreLatam and ConDatos](https://2023.abrelatam.org/), Montevideo, Uruguay. October 31 - November 03, 2023
+  * [OSM Kerala Annual Meet](https://wiki.openstreetmap.org/wiki/OSM_Kerala_Community_Meetup_2022), Kozhikode, India: November 04-05, 2023
+  * [GIS Day Dar es Salaam](https://gisday.rootgis.org/), Tanzania: November 15-16, 2023
+  * [FOSS4G Thailand + SotM Asia](https://stateofthemap.asia/), Bangkok, Thailand: November 16-18, 2023
+  * [Pista ng Mapa](https://pistangmapa.org/2023/), Tacloban City, Philippines: November 21-23, 2023
+  * [FOSS4G Asia](https://foss4g.asia/2023/), Seoul, Korea: November 28 - December 02, 2023
+  * [State of the Map Africa](https://2023.stateofthemap.africa/), Yaounde, Cameroon: November 31 - December 02, 2023
 block-0:
   Title: About HOT OpenSummit '23-24
   Text: "HOT's OpenSummit ‘23-24 is ON! \n\nGet ready for a year of global events
