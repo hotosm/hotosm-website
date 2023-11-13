@@ -14,7 +14,7 @@ block-0:
     bring their events as part of this global movement."
   Action-text: 
   Link: 
-  Image: "/uploads/OpenSummit%20Map.png"
+  Image: "/uploads/OpenSummit%20World%20Map%20v1-a0f0eb.png"
 block-1:
   Title: A brief history of the OpenSummit
   Text: |-
@@ -24,7 +24,7 @@ block-1:
   Action-text: Learn more about unSummit 2022
   Link: "/unsummit2022"
   Image: "/uploads/FOSS4G%20Firenze.webp"
-  Image-text: "*unSummit 2022 by the numbers*"
+  Image-text: 
 block-2:
   Title: Ready to apply?
   Text: "The call for collaborations will remain open till 2024, and the selection
@@ -81,3 +81,14 @@ opensummit-map:
 layout: summitlanding
 ---
 
+The HOT OpenSummit is excited to join:
+
+* [State of the Map Nigeria](https://2023.stateofthemapnigeria.org/), Abuja, Nigeria: October 11-14, 2023
+* [FOSS4G + SotM Oceania](https://2023.foss4g-oceania.org/), Auckland, New Zealand: October 16-20, 2023
+* [AbreLatam and ConDatos](https://2023.abrelatam.org/), Montevideo, Uruguay. October 31 - November 03, 2023
+* [OSM Kerala Annual Meet](https://wiki.openstreetmap.org/wiki/OSM_Kerala_Community_Meetup_2022), Kozhikode, India: November 04-05, 2023
+* [GIS Day Dar es Salaam](https://gisday.rootgis.org/), Tanzania: November 15-16, 2023
+* [FOSS4G Thailand + SotM Asia](https://stateofthemap.asia/), Bangkok, Thailand: November 16-18, 2023
+* [Pista ng Mapa](https://pistangmapa.org/2023/), Tacloban City, Philippines: November 21-23, 2023
+* [FOSS4G Asia](https://foss4g.asia/2023/), Seoul, Korea: November 28 - December 02, 2023
+* [State of the Map Africa](https://2023.stateofthemap.africa/), Yaounde, Cameroon: November 31 - December 02, 2023
