@@ -4,16 +4,19 @@ date: 2023-07-17 20:29:00 Z
 permalink: opensummit23-24
 summit-image: "/uploads/Website%20MainBanner-51e09d.png"
 intro-text: |-
-  The HOT OpenSummit is excited to join:<br>
-  * <a href="https://2023.stateofthemapnigeria.org/">State of the Map Nigeria</a>, Abuja, Nigeria: October 11-14, 2023<br>
-  * <a href="https://2023.foss4g-oceania.org/">FOSS4G + SotM Oceania</a>, Auckland, New Zealand: October 16-20, 2023<br>
-  * <a href="https://2023.abrelatam.org/">AbreLatam and ConDatos</a>, Montevideo, Uruguay. October 31 - November 03, 2023<br>
-  * <a href="https://wiki.openstreetmap.org/wiki/OSM_Kerala_Community_Meetup_2022">OSM Kerala Annual Meet</a>, Kozhikode, India: November 04-05, 2023<br>
-  * <a href="https://gisday.rootgis.org/">GIS Day Dar es Salaam</a>, Tanzania: November 15-16, 2023<br>
-  * <a href="https://stateofthemap.asia/">FOSS4G Thailand + SotM Asia</a>, Bangkok, Thailand: November 16-18, 2023<br>
-  * <a href="https://pistangmapa.org/2023/">Pista ng Mapa</a>, Tacloban City, Philippines: November 21-23, 2023<br>
-  * <a href="https://foss4g.asia/2023/">FOSS4G Asia</a>, Seoul, Korea: November 28 - December 02, 2023<br>
-  * <a href="https://2023.stateofthemap.africa/">State of the Map Africa</a>, Yaounde, Cameroon: November 31 - December 02, 2023<br>
+  <h2>The HOT OpenSummit is excited to join:</h2><br>
+  <br>
+  <h3><a href="https://2023.stateofthemapnigeria.org/">State of the Map Nigeria</a>, Abuja, Nigeria: October 11-14, 2023</h3><br>
+  <h3><a href="https://2023.foss4g-oceania.org/">FOSS4G + SotM Oceania</a>, Auckland, New Zealand: October 16-20, 2023</h3><br>
+  <h3><a href="https://2023.abrelatam.org/">AbreLatam and ConDatos</a>, Montevideo, Uruguay. October 31 - November 03, 2023</h3><br>
+  <h3><a href="https://wiki.openstreetmap.org/wiki/OSM_Kerala_Community_Meetup_2022">OSM Kerala Annual Meet</a>, Kozhikode, India: November 04-05, 2023</h3><br>
+  <h3><a href="https://gisday.rootgis.org/">GIS Day Dar es Salaam</a>, Tanzania: November 15-16, 2023</h3><br>
+  <h3><a href="https://stateofthemap.asia/">FOSS4G Thailand + SotM Asia</a>, Bangkok, Thailand: November 16-18, 2023</h3><br>
+  <h3><a href="https://pistangmapa.org/2023/">Pista ng Mapa</a>, Tacloban City, Philippines: November 21-23, 2023</h3><br>
+  <h3><a href="https://foss4g.asia/2023/">FOSS4G Asia</a>, Seoul, Korea: November 28 - December 02, 2023</h3><br>
+  <h3><a href="https://2023.stateofthemap.africa/">State of the Map Africa</a>, Yaounde, Cameroon: November 31 - December 02, 2023</h3><br>
+  <br>
+  <br>
 block-0:
   Title: About HOT OpenSummit '23-24
   Text: "HOT's OpenSummit ‘23-24 is ON! \n\nGet ready for a year of global events
