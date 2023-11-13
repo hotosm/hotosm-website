@@ -23,7 +23,7 @@ block-1:
     This year, the *unSummit* comes back as the **OpenSummit**!
   Action-text: Learn more about unSummit 2022
   Link: "/unsummit2022"
-  Image: "/uploads/unSummitMap.png"
+  Image: "/uploads/FOSS4G%20Firenze.webp"
   Image-text: "*unSummit 2022 by the numbers*"
 block-2:
   Title: Ready to apply?
