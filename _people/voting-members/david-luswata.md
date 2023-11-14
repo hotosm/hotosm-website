@@ -1,9 +1,10 @@
 ---
 title: David Luswata
 date: 2017-02-08 15:48:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/david_luswata_1-aa94bc.JPG
 Member Type:
-  Is Staff: true
+  Is Staff: false
   Is Voting Member: true
 Job Title: Regional Partnerships Manager - Eastern and Southern Africa
 Working Group:
