@@ -3,11 +3,8 @@ title: 'Support HOT''s work: Donate today!'
 date: 2018-02-06 15:16:00 Z
 permalink: "/donate/"
 position: 13
-Summary Text: |-
-  <h2>Support our work in the aftermath of earthquakes in Afghanistan</h2>
-  <h3>HOT's <a href="https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific">Asia Pacific Hub</a> is coordinating with local communities to map the areas affected by the earthquake in order to provide reliable, up-to-date map data to humanitarian actors on the ground. Your donations are crucial to keep this work going. <a href="https://tasks.hotosm.org/explore?campaign=Afghanistan%20Earthquake%20Response%20October%202023">Click here to map for the response in Afghanistan</a>.</h3>
-
-  If you are an organization and would like to contribute to HOT's mission-critical work to partner with local communities, please reach out to <a href="mailto:donations@hotosm.org">donations@hotosm.org</a>
+Summary Text: If you are an organization and would like to contribute to HOT's mission-critical
+  work to partner with local communities, please reach out to <a href="mailto:donations@hotosm.org">donations@hotosm.org</a>
 layout: donate
 ---
 
