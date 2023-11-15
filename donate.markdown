@@ -3,14 +3,12 @@ title: 'Support HOT''s work: Donate today!'
 date: 2018-02-06 15:16:00 Z
 permalink: "/donate/"
 position: 13
-Summary Text: "Gaps in data result in gaps in equity, humanitarian response, and public
-  policy. HOT envisions a world where communities are an inherent part of local decision-making
-  and solutions. \n\nOur role is to catalyze the open-mapping movement to mitigate
-  these gaps. We are achieving this through engagement with local communities to collect
-  and use open-source data, giving them a voice in how they are represented in public
-  decision-making.\n\nIf you are an organization and would like to contribute to HOT's
-  mission-critical work to partner with local communities, please reach out to <a
-  href=\"mailto:donations@hotosm.org\">donations@hotosm.org</a>"
+Summary Text: |-
+  Gaps in data result in gaps in equity, humanitarian response, and public policy. HOT envisions a world where communities are an inherent part of local decision-making and solutions. </br>
+
+  Our role is to catalyze the open-mapping movement to mitigate these gaps. We are achieving this through engagement with local communities to collect and use open-source data, giving them a voice in how they are represented in public decision-making.</br>
+
+  If you are an organization and would like to contribute to HOT's mission-critical work to partner with local communities, please reach out to <a href="mailto:donations@hotosm.org">donations@hotosm.org</a>
 layout: donate
 ---
 
