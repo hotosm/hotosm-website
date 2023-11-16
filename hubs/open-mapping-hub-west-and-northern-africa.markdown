@@ -1,6 +1,7 @@
 ---
 title: Open Mapping Hub - West and Northern Africa
 date: 2023-06-30 02:23:00 Z
+permalink: "/hubs/open-mapping-hub-west-and-northern-africa/donate/"
 Page Contact:
   Label: Contact Us
   Contact Email: wnahub@hotosm.org
@@ -8,7 +9,6 @@ Page Link:
   Label: Support and Donate
   Link: https://www.hotosm.org/donate-wna/
 layout: donate-wna
-permalink: "/hubs/open-mapping-hub-west-and-northern-africa/donate/"
 ---
 
 ![hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png](/uploads/hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png)
