@@ -9,6 +9,8 @@ Intro Text: Dedicated to advancing open mapping solutions for community developm
 Page Link:
   Label: 'Sign up - #MapHerWorld campaign'
   Link: https://docs.google.com/forms/d/e/1FAIpQLSfNyTzfhUn2_gnlecPfvj0HuGwKzNfsuvG-XrSArqncasNDmQ/viewform
+permalink: "/hubs/open-mapping-hub-eastern-and-southern-africa/"
+layout: page
 ---
 
 ![africa-and-logo-for-shorthand-1019x573 (1).jpeg](/uploads/africa-and-logo-for-shorthand-1019x573%20(1).jpeg)

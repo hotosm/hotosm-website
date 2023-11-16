@@ -7,13 +7,14 @@ Page Contact:
 Page Link:
   Label: Subscribe to our newsletter
   Link: https://hotosm.us9.list-manage.com/subscribe?u=5191e27b207136970f2a9ec1b&id=b7275458c5
+layout: page
 ---
 
 ![LAC_landingpage_English.png](/uploads/LAC_landingpage_English.png)
 
-[Spanish version.](https://www.hotosm.org/hubs/hub-mapeo-abierto-latam-caribe)
+[Spanish version.](/hubs/hub-mapeo-abierto-latam-caribe)
 
-[Portuguese version.](https://www.hotosm.org/hubs/hub-de-mapeamento-aberto-america-latina-e-caribe)
+[Portuguese version.](/hubs/hub-de-mapeamento-aberto-america-latina-e-caribe)
 
 The Open Mapping Hub - Latin America and the Caribbean has four clear objectives:
 
