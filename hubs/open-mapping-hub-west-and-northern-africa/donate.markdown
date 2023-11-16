@@ -1,6 +1,7 @@
 ---
 title: 'Support HOT''s work: Donate to the WNA Hub today!'
 date: 2023-11-15 11:19:00 Z
+published: false
 Summary Text: "<h2>Support our work in the Open Mapping Hub - West and Northern Africa</h2>\n<h3>HOT's
   <a href=\"https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa\">West
   and Northern Hub</a> is coordinating with local communities to map the areas affected
