@@ -6,7 +6,7 @@ Page Contact:
   Contact Email: wnahub@hotosm.org
 Page Link:
   Label: Support and Donate
-  Link: https://www.hotosm.org/donate/
+  Link: https://www.hotosm.org/donate-wna/
 ---
 
 ![hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png](/uploads/hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png)
