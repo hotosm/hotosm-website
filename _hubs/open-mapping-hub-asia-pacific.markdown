@@ -7,6 +7,7 @@ Page Contact:
 Page Link:
   Label: Subscribe to the AP Open Mapping Hub newsletter
   Link: https://hotosm.us9.list-manage.com/subscribe?u=5191e27b207136970f2a9ec1b&id=c500c9856f
+layout: page
 ---
 
 ![hot_omh_asia_pacific_logo_rev_colour_with_tagline-2-2129x1332.png](/uploads/hot_omh_asia_pacific_logo_rev_colour_with_tagline-2-2129x1332.png)

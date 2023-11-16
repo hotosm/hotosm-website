@@ -46,13 +46,10 @@ collections:
   posts:
     title: News Posts
     output: true
-  hub:
-    title: Open Mapping Hub
-    output: true
-    permalink: "/hubs/:path/"
   hubs:
     title: Open Mapping Hubs
     output: true
+    permalink: "/hubs/:path/"
   partners:
     title: Partners
     output: true
@@ -206,9 +203,9 @@ defaults:
       Text: 
 - scope:
     path: ''
-    type: hub
+    type: hubs
   values:
-    layout: hub-page
+    layout: page
     embed-link: 
 - scope:
     path: ''
