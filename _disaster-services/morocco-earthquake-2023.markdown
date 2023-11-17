@@ -23,11 +23,13 @@ Wiki-page: '<a href="https://wiki.openstreetmap.org/wiki/2023_Morocco_Earthquake
 GDACS-level: Red (2.1)
 ---
 
+**[Mapping projects for this activation.](https://tasks.hotosm.org/explore?campaign=Morocco%20Earthquake%202023)**
+
+**[Wiki page for this activation.](https://wiki.openstreetmap.org/wiki/2023_Morocco_Earthquake)**
+
 Context: We are on maximum alert following the earthquake that shook Morocco on the night of Friday, 8th to Saturday, 9th September 2023. A magnitude 6.8 earthquake devastated the Marrakech region, causing considerable damage and loss of life. The provisional death toll stands at over 1,000 people, with hundreds more injured. 
 
 HOT's [West and Northern Africa Hub](https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa) is coordinating with local communities to map the areas affected by the earthquake and provide reliable, up-to-date geographical information to humanitarian actors on the ground. We'll be sharing this data with emergency services, who will then be able to organize their actions and reach the most isolated populations.
-
-You can help by taking part in remote mapping [here:](https://tasks.hotosm.org/explore?campaign=Morocco%20Earthquake%202023)
 
 We'll keep you informed as the situation develops, and as we deploy on the ground.
 
