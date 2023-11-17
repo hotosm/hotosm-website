@@ -1,7 +1,6 @@
 ---
 title: EcoSmart Cities - Partenaire d’implémentation (Côte d'Ivoire)
 date: 2023-11-17 14:01:00 Z
-published: false
 Deadline Date: 2023-12-01 00:00:00 Z
 Apply Form Link: https://drive.google.com/file/d/17pGP3V2Q3TOhHqIftqb5OoUbUuanf0-5/view?usp=drive_link
 ---
