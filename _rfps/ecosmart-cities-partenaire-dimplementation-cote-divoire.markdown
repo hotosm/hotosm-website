@@ -43,4 +43,4 @@ Les principales aspirations du projet sont les suivantes :
 
 * Organiser un webinaire de partage de connaissances avec tous les représentants des villes participantes pour discuter de la durabilité des résultats du projet.
 
-\
+L'appel d'offres complet est disponible ici. Envoyez votre proposition à programs.wna@hotosm.org avant le 1er décembre.
