@@ -18,4 +18,8 @@ Tracking: afghanistanearthquake2023
 Resources: N/A
 ---
 
+**[Mapping projects for this activation.](https://tasks.hotosm.org/explore?campaign=Afghanistan%20Earthquake%20Response%20October%202023)**
+
+**[Wiki page for this activation.](https://wiki.openstreetmap.org/wiki/2023_Afghanistan_Earthquake#History_of_this_Activation)**
+
 Two earthquakes, both with a magnitude of 6.3, struck Herat Province of Afghanistan on 7 October 2023. The first earthquake struck at 11:11 AFT followed by the second shock 31 minutes later. These earthquakes left at least 2,530 people dead and 9,240 others injured. The earthquake was Afghanistan's deadliest since 1998.
