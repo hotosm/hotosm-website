@@ -44,3 +44,5 @@ In response to the devastating impact of Storm Daniel in northeastern Libya, thi
 Here is the mapping campaign:
 
 <a href="https://tasks.hotosm.org/explore?campaign=Libya%20Floods%202023">Libya Floods 2023</a>
+
+[Wiki page for this campaign.](https://wiki.openstreetmap.org/wiki/2023_Libya_Floods)
