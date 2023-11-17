@@ -6,7 +6,6 @@ Deadline Date: 2023-12-01 00:00:00 Z
 Apply Form Link: mailto:programs.wna@hotosm.org
 Page Link:
   Link: https://drive.google.com/file/d/17pGP3V2Q3TOhHqIftqb5OoUbUuanf0-5/view?usp=drive_link
-  Text: FULL RFP TEMS
 ---
 
 # Contexte
