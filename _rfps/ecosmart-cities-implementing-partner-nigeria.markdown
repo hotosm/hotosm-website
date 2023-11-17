@@ -9,9 +9,7 @@ Page Link:
   Text: FULL RFP TERMS
 ---
 
-# **Background**
-
-# 
+# Background
 
 **The Humanitarian OpenStreetMap Team United States**, Inc. (HOT) applies open source principles and open data sharing for humanitarian response and economic development. Founded in the wake of the Haiti earthquake of 2010, responders and organizations recognized the need for accurate, accessible maps to aid in humanitarian response and the potential for international development interventions. Since then, HOT has utilized its network of tens of thousands of volunteers to contribute to OpenStreetMap, the free and editable map of the world. HOT’s network and tools enable everyone, local or international, to have an impact by putting places on the map.
 
@@ -19,7 +17,7 @@ Page Link:
 
 We want to be closer to communities so data and maps can be a tool for analysis and decision-making to improve people's lives. Through a regional approach, by assisting local communities using open-source mapping data, tools, and software, we intend to contribute to community development by improving their livelihoods.
 
-# **Project**
+# Project
 
 ### Eco-Smart Cities Project
 
@@ -52,4 +50,4 @@ The principal aspirations of the project encompass the following:
 
 * Conduct a knowledge-sharing webinar with all participating city representatives to discuss project outcomes sustainability.
 
-  The complete RFP is available here. Apply by sending your proposal to [programs.wna@hotosm.org ](programs.wna@hotosm.org)before **December 1st.**
+  The complete RFP is available [here](https://drive.google.com/file/d/1r3bGi0cD-vlLHKgUKoRDRFlrI-36jiao/view?usp=drive_link). Apply by sending your proposal to [programs.wna@hotosm.org](mailto:programs.wna@hotosm.org) before **December 1st.**

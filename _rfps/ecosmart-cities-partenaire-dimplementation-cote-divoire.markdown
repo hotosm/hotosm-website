@@ -27,8 +27,7 @@ Le projet Eco-Smart Cities ciblant les villes bâties et peuplées sous-cartogra
 
 ### **Objectifs du projet**
 
-\
-Les principales aspirations du projet sont les suivantes :
+Les principales aspirations du projet sont les suivantes:
 
 * Renforcer les capacités des volontaires locaux en cartographie et validation à distance pour soutenir les activités du projet.
 
