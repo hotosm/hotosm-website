@@ -9,8 +9,6 @@ Page Link:
 ---
 
 # Contexte
-</br>
-</br>
 **L’équipe humanitaire OpenStreetMap United States**, Inc. (HOT) applique les principes open source et le partage de données ouvertes pour la réponse humanitaire et le développement économique. Fondée à la suite du tremblement de terre d' Haïti en 2010, les intervenants et les organisations ont reconnu la nécessité de disposer de cartes précises et accessibles pour faciliter la réponse humanitaire et le potentiel d'interventions de développement international. Depuis lors, HOT a utilisé son réseau de dizaines de milliers de bénévoles pour contribuer à OpenStreetMap, la carte du monde gratuite et modifiable. Le réseau et les outils de HOT permettent à chacun, local ou international, d’avoir un impact en mettant des lieux sur la carte.
 
 **Le Hub de l’Afrique de l’Ouest et du Nord (WNAH)** est une branche de HOT qui couvre 24 pays de la région avec pour mission de faire de l'open data et des logiciels libres un outil d'aide à la décision pour un développement centré sur les communautés. Le WNAH travaille avec des organisations humanitaires, des gouvernements, la société civile, des opérateurs privés, des institutions et d'autres acteurs pour utiliser les outils OpenStreetMap (OSM) ; la collecte de données, l'analyse spatiale et la production cartographique de pointe sont les outils essentiels que le Hub promouvra pour la prise de décision socio-économique.
