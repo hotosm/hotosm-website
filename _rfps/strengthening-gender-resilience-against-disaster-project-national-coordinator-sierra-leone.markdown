@@ -3,6 +3,9 @@ title: Strengthening Gender Resilience Against Disaster Project - National Coord
   (Sierra Leone)
 date: 2023-11-21 13:29:00 Z
 published: false
+Deadline Date: 2023-11-30 00:00:00 Z
+Page Contact:
+  Contact Email: programs.wna@hotosm.org
 ---
 
 # Background
@@ -46,13 +49,16 @@ Full Request for Proposal is available here.
 
 # To Apply:
 
-* Send your CV to programs.wna@hotosm.org
+* Send your CV to[ programs.wna@hotosm.org](programs.wna@hotosm.org)
 
 * Send a budget (to not exceed 1750,00 $USD)
 
 * Answer the questions:
 
-  - Describe your portfolio in Disaster Management, roles, and projects you have supported
-  - Can you describe an experience where you had to train women’s group on gender-responsive disaster risk reduction
-  - Describe an experience where you used open data in a disaster risk reduction project
-  - Describe your engagement with national stakeholders, women groups, and environmental, disaster, and emergency response teams and how you plan to keep them informed and invite them to the project closeout workshop.
+  * Describe your portfolio in Disaster Management, roles, and projects you have supported
+
+  * Can you describe an experience where you had to train women’s group on gender-responsive disaster risk reduction
+
+  * Describe an experience where you used open data in a disaster risk reduction project
+
+  * Describe your engagement with national stakeholders, women groups, and environmental, disaster, and emergency response teams and how you plan to keep them informed and invite them to the project closeout workshop.
