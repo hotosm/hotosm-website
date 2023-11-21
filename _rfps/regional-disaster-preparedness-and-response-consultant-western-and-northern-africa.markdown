@@ -119,8 +119,10 @@ Le projet vise à :
 * Renforcer la capacité de la région à réagir aux catastrophes et à s'y préparer.
 
 * Améliorer la coordination entre les différents acteurs impliqués dans la préparation aux catastrophes et la réponse.
-  Développer des stratégies de préparation et d'atténuation des catastrophes solides et fondées sur des données probantes.
-  Promouvoir la collaboration et le partage des connaissances entre les pays de la région.
+
+* Développer des stratégies de préparation et d'atténuation des catastrophes solides et fondées sur des données probantes.
+
+* Promouvoir la collaboration et le partage des connaissances entre les pays de la région.
 
 **Responsabilités :**
 Dans le cadre de ses fonctions, le consultant devra assumer les responsabilités suivantes :
@@ -129,22 +131,22 @@ Dans le cadre de ses fonctions, le consultant devra assumer les responsabilités
 
 * Mener une étude documentaire pour obtenir des informations/données pertinentes auprès des parties prenantes essentielles.
 
-* Mettre le hub WNA en contact avec des opportunités de partenariats potentiels. 
+* Mettre le hub WNA en contact avec des opportunités de partenariats potentiels.
 
-* Concevoir et construire une base de données interne indiquant les catastrophes connues, leur impact, la population, les communautés vulnérables, les risques, l'exposition, les pays, les acteurs de la réponse, les données et les besoins cartographiques. 
+* Concevoir et construire une base de données interne indiquant les catastrophes connues, leur impact, la population, les communautés vulnérables, les risques, l'exposition, les pays, les acteurs de la réponse, les données et les besoins cartographiques.
 
-* Élaborer des cartes des catastrophes pour les 24 pays de l'Afrique de l'Ouest et du Nord. 
+* Élaborer des cartes des catastrophes pour les 24 pays de l'Afrique de l'Ouest et du Nord.
 
-* Organiser et exécuter un atelier de validation avec des représentants cruciaux de chacun des 24 pays. 
+* Organiser et exécuter un atelier de validation avec des représentants cruciaux de chacun des 24 pays.
 
-* Vérifier régulièrement l'état d'avancement du projet avec le chef de projet. 
+* Vérifier régulièrement l'état d'avancement du projet avec le chef de projet.
 
-* Préparer et soumettre des rapports détaillés et des visualisations des résultats de la recherche. 
+* Préparer et soumettre des rapports détaillés et des visualisations des résultats de la recherche.
 
-* Développer et partager un article de blog sur l'impact du projet sur la communauté de WNAH. 
+* Développer et partager un article de blog sur l'impact du projet sur la communauté de WNAH.
 
-* Recueillir des témoignages, des anecdotes et des histoires auprès des communautés touchées par la catastrophe, des gouvernements, des parties prenantes, etc. 
+* Recueillir des témoignages, des anecdotes et des histoires auprès des communautés touchées par la catastrophe, des gouvernements, des parties prenantes, etc.
 
-* Soumettre des rapports d'étape basés sur le plan de travail 
+* Soumettre des rapports d'étape basés sur le plan de travail
 
 * Soumettre un rapport final, y compris les recommandations de l'atelier.
