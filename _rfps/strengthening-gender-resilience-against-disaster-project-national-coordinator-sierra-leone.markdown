@@ -1,12 +1,48 @@
 ---
 title: Strengthening Gender Resilience Against Disaster Project - National Coordinator
-  (Sierra Leone)
+  (Sierra Leone, Cameroon)
 date: 2023-11-21 13:29:00 Z
 published: false
 Deadline Date: 2023-11-30 00:00:00 Z
 Page Contact:
   Contact Email: programs.wna@hotosm.org
+  Label: Submissions and questions
 ---
+
+
+## Terms of Reference 
+<table style="border-bottom: 1px solid black">
+	<tr>
+		<td>Role:</td>
+		<td style="border-left: 1px solid black">National Coordinator</td>
+	</tr>
+	<tr>
+		<td>Application close date:</td>
+		<td style="border-left: 1px solid black">November 30, 2023</td>
+	</tr>
+<tr>
+		<td>Project start date:</td>
+		<td style="border-left: 1px solid black">December 18, 2023</td>
+	</tr>
+	<tr>
+		<td>Duration of project:</td>
+		<td style="border-left: 1px solid black">5 months</td>
+	</tr>
+<tr>
+		<td>Work location:</td>
+		<td style="border-left: 1px solid black">Sierra Leone, Cameroon</td>
+	</tr>
+<tr>
+		<td>Type of contract:</td>
+		<td style="border-left: 1px solid black">Consultant Agreement</td>
+	</tr>
+<tr>
+		<td>Direct contact:</td>
+		<td style="border-left: 1px solid black">Project Manager, West & Northern Africa (WNA)</td>
+	</tr>
+</table>
+
+<br>
 
 # Background
 
@@ -45,9 +81,10 @@ The consequences of disasters for women and girls can be devastating. They may l
 
 * Organize workshops bringing together women groups, stakeholders, and national actors and share knowledge. and resource opportunities for effective women empowerment.
 
-Full Request for Proposal is available here.
+Full Request for Proposal is available [here.](https://docs.google.com/document/d/1utC8GeK2O3EYA0SdU2_hRnOn6HTjUA_gyOxq5LoWkBI/edit)
 
 # To Apply:
+
 
 * Send your CV to[ programs.wna@hotosm.org](programs.wna@hotosm.org)
 
