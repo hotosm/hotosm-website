@@ -84,50 +84,50 @@ As part of the duties, the consultant is expected to fulfill the following respo
 
 **Proposal Requirement:**
 
-*Detailed information about your experience and qualifications in disaster preparedness and mitigation.
+* Detailed information about your experience and qualifications in disaster preparedness and mitigation.
 
-*A proposed project plan outlining the approach and methodology you will use to achieve the project objectives. The assignment is remote at 80%; however, a physical presence will be needed for the workshop. Experience in using OpenSource tools or other geospatial platforms
+* A proposed project plan outlining the approach and methodology you will use to achieve the project objectives. The assignment is remote at 80%; however, a physical presence will be needed for the workshop. Experience in using OpenSource tools or other geospatial platforms
 
-*Explain how you will use spatial analysis of disaster hotspots per country to support the final report.
+* Explain how you will use spatial analysis of disaster hotspots per country to support the final report.
 
-*Include a financial proposal (to not exceed 4,500$ USD)
+* Include a financial proposal (to not exceed 4,500$ USD)
 Show references and examples of previous work related to this assignment.
                                                                                                           
 **Required Skills and Qualifications:**
 
-*Extensive experience in disaster preparedness and mitigation, with a track record of successfully implementing similar projects at a regional level.
+* Extensive experience in disaster preparedness and mitigation, with a track record of successfully implementing similar projects at a regional level.
 
-*Good connection with stakeholders, Institutions, CSO Governments, working on disaster in the region
+* Good connection with stakeholders, Institutions, CSO Governments, working on disaster in the region
 Strong understanding of regional disaster risk factors, response mechanisms, and relevant policies and frameworks.
 
-*Excellent communication and facilitation skills to engage with diverse stakeholders and facilitate collaboration.
+* Excellent communication and facilitation skills to engage with diverse stakeholders and facilitate collaboration.
 
-*Ability to read, write, and speak (professional) English and French
+* Ability to read, write, and speak (professional) English and French
 
-*Show proof of working on related projects in the last two years
+* Show proof of working on related projects in the last two years
 
-*Exhibit  self-motivated and strives for continuous improvement in this sector of assignment
+* Exhibit self-motivated and strives for continuous improvement in this sector of assignment
 
-*Ability to submit technical (spatial and data analysis), narrative, and on-time
+* Ability to submit technical (spatial and data analysis), narrative, and on-time
 
 **Evaluation Criteria:**
 
 Proposals will be evaluated based on the following criteria:
 
-*Qualifications and experience 
+* Qualifications and experience 
 
-*Technical approach and methodology
+* Technical approach and methodology
 
-*Cost-effectiveness 
+* Cost-effectiveness 
 
-*Financial proposal 
+* Financial proposal 
 
-*Demonstrated understanding of regional context  
+* Demonstrated understanding of regional context  
 
 
 ---
 
-**Appel à propositions : Consultant**
+**Appel à propositions: Consultant**
 
 **Lieu de travail:** À distance (pour couvrir les 24 pays du Hub WNA)
 
@@ -223,12 +223,13 @@ Dans le cadre de ses fonctions, le consultant devra assumer les responsabilités
 **Critères d'évaluation:**
 
 Les propositions seront évaluées sur la base des critères suivants:
-*Qualifications et expérience 
 
-*Approche technique et méthodologie
+* Qualifications et expérience 
 
-*Rapport coût-efficacité 
+* Approche technique et méthodologie
 
-*Proposition financière
+* Rapport coût-efficacité 
 
-*Compréhension avérée du contexte régional
+* Proposition financière
+
+* Compréhension avérée du contexte régional
