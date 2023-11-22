@@ -6,18 +6,26 @@ published: false
 Deadline Date: 2023-11-30 00:00:00 Z
 Page Contact:
   Contact Email: programs.wna@hotosm.org
+  Label: Submissions and questions
 ---
 
+[French below]
+
 **Call for Proposal:** Consultant
-\*\*Location/Duty Station: \*\*Remote (to cover 24 countries in WNA)
+
+**Location/Duty Station:** Remote (to cover 24 countries in WNA)
+
 **Application Closes**: November 30, 2023
+
 **Projected start date:**  December 15, 2023
+
 **Reports to:** MERL and Project Support, Snr Associate,  West & Northern Africa Hub (WNA)
-\*\*Contract terms: \*\*Independent contractor, hourly with variable hours, estimated full-time. Seven-month initial contract with opportunity for extension.
+
+**Contract terms:** Independent contractor, hourly with variable hours, estimated full-time. Seven-month initial contract with opportunity for extension.
 
 **The Humanitarian OpenStreetMap Team United States**, Inc. (HOT) applies the principles of open source and open data sharing for humanitarian response and economic development. Founded in the wake of the Haiti earthquake of 2010, responders and organizations recognized the need for accurate, accessible maps to aid in humanitarian response and the potential for international development interventions. Since then, HOT has utilized its network of tens of thousands of volunteers to contribute to OpenStreetMap, the free and editable map of the world. HOT’s network and tools enable everyone, local or international, to have an impact by putting places on the map.
 
-\*\*The West and Northern Africa Hub (WNAH) \*\*is a branch of HOT that covers 24 countries in the region with the mission of making open data and free software a decision-making tool for development focusing on communities. The WNAH works with humanitarian organizations, governments, civil society, private operators, institutions, and other actors to use OpenStreetMap (OSM) tools; data collection, spatial analysis, and state-of-the-art cartographic production are the essential tools that the Hub will promote for socio-economic decision-making.
+**The West and Northern Africa Hub (WNAH)** is a branch of HOT that covers 24 countries in the region with the mission of making open data and free software a decision-making tool for development focusing on communities. The WNAH works with humanitarian organizations, governments, civil society, private operators, institutions, and other actors to use OpenStreetMap (OSM) tools; data collection, spatial analysis, and state-of-the-art cartographic production are the essential tools that the Hub will promote for socio-economic decision-making.
 
 We want to be closer to communities so data and maps can be a tool for analysis and decision-making to improve people's lives. Through a regional approach, by assisting local communities using open-source mapping data, tools, and software, we intend to contribute to community development by improving their livelihoods.
 
