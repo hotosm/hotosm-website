@@ -8,7 +8,7 @@ Banner:
   Main Block: Give the Gift of Mapping
   Secondary Block: Donate today!
   Link Copy: 
-  URL: https://www.hotosm.org/donate
+  URL: https://pages.donately.com/hotosm/campaign/mapping-hope
   Optional Text: 
   Small Block: 
 Project:
