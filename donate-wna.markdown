@@ -6,12 +6,9 @@ Summary Text: "<h2>Support our work in the Open Mapping Hub - West and Northern 
   <a href=\"/hubs/open-mapping-hub-west-and-northern-africa\">West and Northern Hub</a>
   is coordinating with local communities to map the areas affected by the earthquake
   and floods in order to provide reliable, up-to-date map data to humanitarian actors
-  on the ground. Your donations are crucial to keep this work going. \n\n<h3>Project
-  Tasks: </h3>\n<ul>\n\n<a href=\"https://tasks.hotosm.org/explore?campaign=Morocco%20Earthquake%202023\">Click
-  here to map for the response in Morocco</a>.</h3>\n\n<a href=\"https://tasks.hotosm.org/explore?campaign=Libya%20Floods%202023\">Click
-  here to map for the response in Libya</a>.</h3>\n\n</ul>\n\nIf you are an organization
-  and would like to contribute to HOT's mission-critical work to partner with local
-  communities, please reach out to <a href=\"mailto:donations@hotosm.org\">donations@hotosm.org</a>"
+  on the ground. Your donations are crucial to keep this work going. \n\nIf you are
+  an organization and would like to contribute to HOT's mission-critical work to partner
+  with local communities, please reach out to <a href=\"mailto:donations@hotosm.org\">donations@hotosm.org</a>"
 layout: donate-wna
 ---
 
